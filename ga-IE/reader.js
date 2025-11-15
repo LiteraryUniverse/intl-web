@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Scoir iomlánscáileáin',
     'reader.details.universe': 'Sonraí an domhain',
     'reader.details.story': 'Sonraí an scéil',
-    'reader.darkmode': 'Athraigh modh dorcha',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Athraigh méid téacs',
     'reader.menu.optionsAria': 'Choice Roghanna an léitheora',
     'reader.accessibility': 'Athraigh cur i gcéill',

@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Konten ini dibuat dengan bantuan AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Model AI khusus',
-    'common.viewAll': 'Lihat Semua',
-    'notice.thankYou': 'Terima kasih atas dukungan Anda!',
-    'common.dropImageHere': 'Jatuhkan gambar di sini',
-    'common.legal.publishingAgreement': 'Perjanjian Penerbitan',
-    'upload.dragAndDrop': 'Seret dan letakkan file di sini, atau klik untuk memilih file',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Gambar sampul alam semesta untuk {story}.',
-    'common.license': 'Lisensi',
-    'common.new': 'Baru'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

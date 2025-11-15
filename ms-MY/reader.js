@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Keluar dari mod penyajian penuh',
     'reader.details.universe': 'Detail alam semesta',
     'reader.details.story': 'Detail cerita',
-    'reader.darkmode': 'Ganti mode gelap',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Ubah ukuran teks',
     'reader.menu.optionsAria': 'Menu opsi pembaca',
     'reader.accessibility': 'Ganti aksesibilitas',

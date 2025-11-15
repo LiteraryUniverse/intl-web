@@ -214,7 +214,6 @@ export default {
     other {ที่ไม่จำกัด{max, number}}
   }`,
     'enc.entries.limitReached': 'คุณได้ถึงจำนวนสูงสุดของรายการสารานุกรมที่อนุญาตสำหรับการสมัครสมาชิกปัจจุบันของคุณ',
-    'enc.menuControls.ariaDesc': 'ควบคุมในสารานุกรม',
     'encyclopedia.pronunciation.title': 'การออกเสียง',
     'encyclopedia.wip.abbreviation': 'กำลังทำงาน',
     'encyclopedia.wip.full': 'กำลังปรับปรุง',

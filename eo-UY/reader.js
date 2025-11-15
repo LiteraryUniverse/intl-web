@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Eliru el la tutekrana reĝimo',
     'reader.details.universe': 'Detaloj pri universo',
     'reader.details.story': 'Detaloj pri rakonto',
-    'reader.darkmode': 'Ŝalti malhelan modon',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Ŝalti teksta grandecagon',
     'reader.menu.optionsAria': 'Menuo por legantaj opcioj',
     'reader.accessibility': 'Ŝalti alireblon',

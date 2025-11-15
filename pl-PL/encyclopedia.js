@@ -218,7 +218,6 @@ export default {
     other {{max, number}}
   } wpisy.`,
     'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.',
-    'enc.menuControls.ariaDesc': 'Kontrolki encyklopedii',
     'encyclopedia.pronunciation.title': 'Wymowa',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Praca w toku',

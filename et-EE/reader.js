@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Välju täisekraanilt',
     'reader.details.universe': 'Universumi üksikasjad',
     'reader.details.story': 'Loo üksikasjad',
-    'reader.darkmode': 'Seosta pimedas režiimis',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Seosta teksti suurus',
     'reader.menu.optionsAria': 'Lugeja valikumenüü',
     'reader.accessibility': 'Seosta ligipääsetavus',

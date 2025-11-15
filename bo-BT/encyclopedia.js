@@ -214,7 +214,6 @@ export default {
     other {་{max, number}་}
   } ་སྡེ་ཚན་བྱེད།`,
     'enc.entries.limitReached': 'ཁྱོད་ཀྱི་སློབ་ཚན་གཞི་འདི་གི་རིམ་པ་འདུ་བས་ཤོག་མིན་འདུག་པ་དང་གཅིག་ཁར་བསྐྱོད་པའི་སློབ་ཚན་གཞི་བཟོ་བ།',
-    'enc.menuControls.ariaDesc': 'བརྡ་འབྲེལ་གྱི་སྒྲིག་འཛུལ་',
     'encyclopedia.pronunciation.title': 'སྐུགས་ལྡོག་པ།',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'སྡེ་དགོན་གསརཔ་འགྱུར།',

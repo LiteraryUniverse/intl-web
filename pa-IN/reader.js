@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਆਉ',
     'reader.details.universe': 'ਯੂਨੀਵਰਸ ਦੇ ਵੇਰਵੇ',
     'reader.details.story': 'ਕਹਾਣੀ ਦੇ ਵੇਰਵੇ',
-    'reader.darkmode': 'ਡਾਰਕ ਮੋਡ ਟਾਗਲ ਕਰੋ',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ਟੈਕਸਟ ਆਕਾਰ ਟਾਗਲ ਕਰੋ',
     'reader.menu.optionsAria': 'ਰੀਡਰ ਚੋਣਾਂ ਮੇਨੂ',
     'reader.accessibility': 'ਪਹੁੰਚਯੋਗਤਾ ਟਾਗਲ ਕਰੋ',

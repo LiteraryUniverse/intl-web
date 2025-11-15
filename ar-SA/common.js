@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
     'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
     'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
-    'common.viewAll': 'عرض الكل',
-    'notice.thankYou': 'شكراً لك على دعمك!',
-    'common.dropImageHere': 'ضع صورة هنا',
-    'common.legal.publishingAgreement': 'اتفاقية النشر',
-    'upload.dragAndDrop': 'اسحب الملفات وأفلتها هنا، أو انقر لتحديد الملفات',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'صورة غلاف الكون {story}.',
-    'common.license': 'الترخيص',
-    'common.new': 'جديد'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

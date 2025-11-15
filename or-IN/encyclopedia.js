@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } ଏଣ୍ଟ୍ରି ରହିଛି ।`,
     'enc.entries.limitReached': 'ଆପଣ ଆପଣ ବର୍ତ୍ତମାନ ଚଟିଆମାନ ଚର୍ଚାପତ୍ର ଏଣ୍ଟ୍ରି ପାଇଁ ଅନୁମତି ପାଇଛନ୍ତି ।',
-    'enc.menuControls.ariaDesc': 'ଜ୍ଞାନକୋଷ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ',
     'encyclopedia.pronunciation.title': 'ଉଚ୍ଚାରଣ',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'ଚାଲୁ ରହିଛି',

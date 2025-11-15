@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } प्रविष्टियाँ हैं।`,
     'enc.entries.limitReached': 'आप अपनी मौजूदा सदस्यता के लिए अधिकतम अनुमत पुस्तकालय प्रविष्टियों तक पहुँच चुके हैं।',
-    'enc.menuControls.ariaDesc': 'ज्ञानकोश नियंत्रण',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'कार्य प्रगति',

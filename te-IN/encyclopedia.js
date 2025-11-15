@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } ఎంట్రీలు.`,
     'enc.entries.limitReached': 'మీరు ప్రస్తుతం చేయబడే ఎంసిక్లోపీడియా ఎంట్రీల గరిష్ట మితికి చేరుకున్నారు.',
-    'enc.menuControls.ariaDesc': 'విజ్ఞాన సంగ్రహాల నియంత్రణలు',
     'encyclopedia.pronunciation.title': 'ఉచ్చారణ',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'పని ప్రగతిలో',

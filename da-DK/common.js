@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Dette indhold blev skabt med AI-assistance',
     'common.aiContent.model': 'AI-model: {model}',
     'common.aiContent.custom': 'Brugerdefineret AI-model',
-    'common.viewAll': 'Se alle',
-    'notice.thankYou': 'Tak for din støtte!',
-    'common.dropImageHere': 'Smid et billede her',
-    'common.legal.publishingAgreement': 'Aftale om udgivelse',
-    'upload.dragAndDrop': 'Træk og slip filer her, eller klik for at vælge filer',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Universets forsidebillede til {story}.',
-    'common.license': 'Licens',
-    'common.new': 'Ny'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

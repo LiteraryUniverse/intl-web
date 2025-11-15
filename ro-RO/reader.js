@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Ieși din modul ecran complet',
     'reader.details.universe': 'Detalii despre univers',
     'reader.details.story': 'Detalii despre poveste',
-    'reader.darkmode': 'Comută modul întunecat',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Comută dimensiunea textului',
     'reader.menu.optionsAria': 'Meniul de opțiuni al cititorului',
     'reader.accessibility': 'Comută accesibilitatea',

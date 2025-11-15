@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'צא ממסך מלא',
     'reader.details.universe': 'פרטים על היקום',
     'reader.details.story': 'פרטים על הסיפור',
-    'reader.darkmode': 'שינוי בין מצב עיצוב בהיר לחשוך ולהיפך',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'שינוי גודל הטקסט',
     'reader.menu.optionsAria': 'תפריט אפשרויות הקורא',
     'reader.accessibility': 'בטל אפשרויות נגישות',

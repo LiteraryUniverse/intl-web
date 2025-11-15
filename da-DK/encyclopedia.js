@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } opslag.`,
     'enc.entries.limitReached': 'Du har nået det maksimale antal tilladte opslag i encyklopædien for dit nuværende abonnement.',
-    'enc.menuControls.ariaDesc': 'Encyklopædi kontroller',
     'encyclopedia.pronunciation.title': 'Udtale',
     'encyclopedia.wip.abbreviation': 'Arbejdes i gang',
     'encyclopedia.wip.full': 'Arbejde i gang',

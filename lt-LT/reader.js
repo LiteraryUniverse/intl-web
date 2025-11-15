@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Išeiti iš viso ekrano režimo',
     'reader.details.universe': 'Visatos detalės',
     'reader.details.story': 'Istorijos detalės',
-    'reader.darkmode': 'Perjungti tamsų režimą',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Perjungti teksto dydį',
     'reader.menu.optionsAria': 'Meniu su skaitymo parinktimis',
     'reader.accessibility': 'Perjungti prieinamumą',

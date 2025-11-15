@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Kilépés a teljes képernyőről',
     'reader.details.universe': 'Univerzum részletei',
     'reader.details.story': 'Történet részletei',
-    'reader.darkmode': 'Sötét mód kapcsolása',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Szövegméret kapcsolása',
     'reader.menu.optionsAria': 'Olvasói opciók menü',
     'reader.accessibility': 'Hozzáférhetőség kapcsolása',

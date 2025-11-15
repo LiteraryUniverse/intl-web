@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'पूर्ण स्क्रिन बाहिर निस्कनुहोस्',
     'reader.details.universe': 'विश्व विवरण',
     'reader.details.story': 'कथा विवरण',
-    'reader.darkmode': 'Andhera मोडम',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'पाठक गोपनीयता परिवर्तनमा टगल गर्नुहोस्',
     'reader.menu.optionsAria': 'पाठक विकल्पका मेनु',
     'reader.accessibility': 'पहुँचयोग्यता टगल गर्नुहोस्',

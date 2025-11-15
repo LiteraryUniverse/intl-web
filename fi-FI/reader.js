@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Poistu koko näytön tilasta',
     'reader.details.universe': 'Yksityiskohdat universumista',
     'reader.details.story': 'Tarinan yksityiskohdat',
-    'reader.darkmode': 'Vaihda tumma tila',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Vaihda tekstin kokoa',
     'reader.menu.optionsAria': 'Lukijan asetukset valikko',
     'reader.accessibility': 'Vaihda saavutettavuutta',

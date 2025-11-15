@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } kirjed.`,
     'enc.entries.limitReached': 'Olete jõudnud oma praeguse tellimuse jaoks lubatud entsüklopeedia sisestuste maksimumini.',
-    'enc.menuControls.ariaDesc': 'Entsüklopeedia juhtelemendid',
     'encyclopedia.pronunciation.title': 'Hääldus',
     'encyclopedia.wip.abbreviation': 'TÖÖ',
     'encyclopedia.wip.full': 'Töö käib',

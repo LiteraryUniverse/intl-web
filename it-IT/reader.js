@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Esci da schermo intero',
     'reader.details.universe': 'Dettagli dell\'Universo',
     'reader.details.story': 'Dettagli della storia',
-    'reader.darkmode': 'Attiva tema scuro',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Cambia dimensione testo',
     'reader.menu.optionsAria': 'Menu opzioni lettore',
     'reader.accessibility': 'Mostra accessibilità',

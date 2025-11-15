@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Vollbildmodus beenden',
     'reader.details.universe': 'Universum Details',
     'reader.details.story': 'Details zur Geschichte',
-    'reader.darkmode': 'Umschalten des Dunkelmodus',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Textgröße umschalten',
     'reader.menu.optionsAria': 'Menü Leseroptionen',
     'reader.accessibility': 'Zugänglichkeit umschalten',

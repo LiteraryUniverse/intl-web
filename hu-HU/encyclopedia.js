@@ -214,7 +214,6 @@ export default {
   } bejegyzésed van a {max, plural,
     =0 {közül.`,
     'enc.entries.limitReached': 'Elérted a megengedett maximális számú enciklopédia bejegyzést a jelenlegi előfizetésedben.',
-    'enc.menuControls.ariaDesc': 'Enciklopédia vezérlők',
     'encyclopedia.pronunciation.title': 'Kiejtés',
     'encyclopedia.wip.abbreviation': 'FOLYAMATBAN',
     'encyclopedia.wip.full': 'Folyamatban lévő munka',

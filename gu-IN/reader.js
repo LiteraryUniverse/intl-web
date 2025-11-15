@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'પૂર્ણ સ્ક્રીન મોડથી બહાર ચાલો',
     'reader.details.universe': 'યુનીવર્સની વિગતો',
     'reader.details.story': 'ગાથાની વિગતો',
-    'reader.darkmode': 'ડાર્ક મોડ ચાલુ કરો',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ચપાઈની માપ ફેરવો',
     'reader.menu.optionsAria': 'વાચક વૈકલ્પ મેનુ',
     'reader.accessibility': 'ઍક્સેસિબિલિટી ચાલુ કરો',

@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': '전체 화면 종료',
     'reader.details.universe': '우주 세부 정보',
     'reader.details.story': '작품 세부 정보',
-    'reader.darkmode': '다크 모드 전환',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': '텍스트 크기 전환',
     'reader.menu.optionsAria': '독자 옵션 메뉴',
     'reader.accessibility': '접근성 전환',

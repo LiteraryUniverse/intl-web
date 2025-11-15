@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   }.`,
     'enc.entries.limitReached': 'Έχετε φτάσει το μέγιστο επιτρεπόμενο αριθμό καταχωρήσεων στην εγκυκλοπαίδεια για την τρέχουσα συνδρομή σας.',
-    'enc.menuControls.ariaDesc': 'Ελέγχοι εγκυκλοπαίδειας',
     'encyclopedia.pronunciation.title': 'Προφορά',
     'encyclopedia.wip.abbreviation': 'Εξέλιξη σε εξέλιξη',
     'encyclopedia.wip.full': 'Εξέλιξη σε εξέλιξη',

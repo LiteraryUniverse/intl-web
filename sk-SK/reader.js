@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Ukončenie zobrazenia na celú obrazovku',
     'reader.details.universe': 'Podrobnosti o vesmíre',
     'reader.details.story': 'Podrobnosti o príbehu',
-    'reader.darkmode': 'Prepnúť tmavý režim',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Prepnúť veľkosť textu',
     'reader.menu.optionsAria': 'Menu možností čítačky',
     'reader.accessibility': 'Prepnúť prístupnost',

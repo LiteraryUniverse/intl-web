@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'Naratnan mo na ang pinakamataas na pinapayagang mga entry sa ensiklopedya para sa iyong kasalukuyang subscription.',
-    'enc.menuControls.ariaDesc': 'Mga kontrol ng Encyclopedia',
     'encyclopedia.pronunciation.title': 'Pagsasalita',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Ginagawa Pa',

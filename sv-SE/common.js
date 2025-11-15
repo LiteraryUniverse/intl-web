@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Detta innehåll skapades med hjälp av AI',
     'common.aiContent.model': 'AI Modell: {model}',
     'common.aiContent.custom': 'Anpassad AI-modell',
-    'common.viewAll': 'Visa alla',
-    'notice.thankYou': 'Tack för ert stöd!',
-    'common.dropImageHere': 'Släpp en bild här',
-    'common.legal.publishingAgreement': 'Avtal om publicering',
-    'upload.dragAndDrop': 'Dra och släpp filer här, eller klicka för att välja filer',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Universums omslagsbild för {story}.',
-    'common.license': 'Licens',
-    'common.new': 'Ny'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

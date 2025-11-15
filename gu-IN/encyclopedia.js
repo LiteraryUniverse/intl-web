@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'તમે તમારી વર્તમાન ગણિતશાસ્ત્ર પુસ્તકમાંથી મહત્તમ અનુમત પ્રવેશો પ્રાપ્ત કર્યા છે.',
-    'enc.menuControls.ariaDesc': 'ઍન્સાય્ક્લોપીડિયા નિયંત્રણો',
     'encyclopedia.pronunciation.title': 'ઉચ્ચારણ',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'પ્રગતિમાં છેલ્લી સ્થિતિ',

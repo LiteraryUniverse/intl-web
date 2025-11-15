@@ -214,7 +214,6 @@ export default {
     other {tak terbatas{max, number}}
   }.`,
     'enc.entries.limitReached': 'Anda telah mencapai batas maksimum entri ensiklopedia yang diizinkan untuk langganan Anda saat ini.',
-    'enc.menuControls.ariaDesc': 'Kontrol Ensiklopedia',
     'encyclopedia.pronunciation.title': 'Pengucapan',
     'encyclopedia.wip.abbreviation': 'Dalam Proses',
     'encyclopedia.wip.full': 'Sedang Dalam Proses',

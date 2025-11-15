@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Tam ekranı kapat',
     'reader.details.universe': 'Evren ayrıntıları',
     'reader.details.story': 'Hikaye ayrıntıları',
-    'reader.darkmode': 'Karanlık modu aç/kapat',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Metin boyutunu değiştir',
     'reader.menu.optionsAria': 'Okuyucu seçenekleri menüsü',
     'reader.accessibility': 'Erişilebilirliği aç/kapat',

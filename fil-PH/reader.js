@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Lumabas sa fullscreen',
     'reader.details.universe': 'Detalye ng Universe',
     'reader.details.story': 'Detalye ng Kuwento',
-    'reader.darkmode': 'I-toggle ang dark mode',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'I-toggle ang laki ng teksto',
     'reader.menu.optionsAria': 'Menu ng mga pagpipilian ng mambabasa',
     'reader.accessibility': 'I-toggle ang accessibility',

@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } intrări.`,
     'enc.entries.limitReached': 'Ați atins numărul maxim de intrări permise în enciclopedie pentru abonamentul dumneavoastră curent.',
-    'enc.menuControls.ariaDesc': 'Controalele enciclopediei',
     'encyclopedia.pronunciation.title': 'Pronunție',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Lucrări în curs',

@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } записів.`,
     'enc.entries.limitReached': 'Ви досягли максимально допустимої кількості записів в енциклопедії для вашої поточної підписки.',
-    'enc.menuControls.ariaDesc': 'Енциклопедія контролів',
     'encyclopedia.pronunciation.title': 'Вимова',
     'encyclopedia.wip.abbreviation': 'ВРВ',
     'encyclopedia.wip.full': 'Робота у процесі',

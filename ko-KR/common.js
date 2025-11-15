@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': '이 콘텐츠는 AI의 도움을 받아 제작되었습니다.',
     'common.aiContent.model': 'AI 모델: {model}',
     'common.aiContent.custom': '맞춤형 AI 모델',
-    'common.viewAll': '모두 보기',
-    'notice.thankYou': '여러분의 성원에 감사드립니다!',
-    'common.dropImageHere': '여기에 이미지 드롭',
-    'common.legal.publishingAgreement': '게시 계약',
-    'upload.dragAndDrop': '파일을 여기로 끌어다 놓거나 클릭하여 파일을 선택합니다.',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': '유니버스 표지 이미지 {story}.',
-    'common.license': '라이선스',
-    'common.new': '신규'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

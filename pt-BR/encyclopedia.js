@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entradas ilimitadas.`,
     'enc.entries.limitReached': 'Você atingiu o limite máximo de entradas permitidas para a sua assinatura atual.',
-    'enc.menuControls.ariaDesc': 'Controles da Enciclopédia',
     'encyclopedia.pronunciation.title': 'Pronúncia',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Trabalho em Andamento',

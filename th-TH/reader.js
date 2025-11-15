@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'ออกจากโหมดเต็มหน้าจอ',
     'reader.details.universe': 'รายละเอียดของจักรวาล',
     'reader.details.story': 'รายละเอียดของเรื่องราว',
-    'reader.darkmode': 'สลับโหมดมืด',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'สลับขนาดตัวอักษร',
     'reader.menu.optionsAria': 'เมนูตัวเลือกของผู้อ่าน',
     'reader.accessibility': 'สลับการเข้าถึง',

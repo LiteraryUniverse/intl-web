@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Dieser Inhalt wurde mit Hilfe von KI erstellt',
     'common.aiContent.model': 'AI-Modell: {model}',
     'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell',
-    'common.viewAll': 'Alle ansehen',
-    'notice.thankYou': 'Vielen Dank für Ihre Unterstützung!',
-    'common.dropImageHere': 'Ein Bild hier ablegen',
-    'common.legal.publishingAgreement': 'Verlagsvertrag',
-    'upload.dragAndDrop': 'Ziehen Sie die Dateien hierher, oder klicken Sie, um Dateien auszuwählen.',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Universum Coverbild für {story}.',
-    'common.license': 'Lizenz',
-    'common.new': 'Neu'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

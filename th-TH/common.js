@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'This content was created with AI assistance',
     'common.aiContent.model': 'AI Model: {model}',
     'common.aiContent.custom': 'Custom AI model',
-    'common.viewAll': 'View All',
-    'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here',
-    'common.legal.publishingAgreement': 'Publishing Agreement',
-    'upload.dragAndDrop': 'Drag and drop files here, or click to select files',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Universe cover image for {story}.',
-    'common.license': 'License',
-    'common.new': 'ใหม่'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

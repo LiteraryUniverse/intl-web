@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } įrašų.`,
     'enc.entries.limitReached': 'Jūs pasiekėte maksimalų leistiną enciklopedijos įrašų skaičių jūsų dabartinei prenumeratai.',
-    'enc.menuControls.ariaDesc': 'Enciklopedijos valdymas',
     'encyclopedia.pronunciation.title': 'Tarimas',
     'encyclopedia.wip.abbreviation': 'Vyksta darbai',
     'encyclopedia.wip.full': 'Darbai vyksta',

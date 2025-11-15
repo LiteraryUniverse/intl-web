@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Verlaat volledig scherm',
     'reader.details.universe': 'Details van het universum',
     'reader.details.story': 'Verhaaldetails',
-    'reader.darkmode': 'Wissel naar donkere modus',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Wissel tekstgrootte',
     'reader.menu.optionsAria': 'Menu met leesopties',
     'reader.accessibility': 'Wissel toegankelijkheid',

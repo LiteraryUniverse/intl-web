@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'फुलस्क्रीन से बाहर निकलें',
     'reader.details.universe': 'यूनिवर्स विवरण',
     'reader.details.story': 'कहानी विवरण',
-    'reader.darkmode': 'डार्क मोड परिवर्तन करें',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'पाठ का आकार परिवर्तन करें',
     'reader.menu.optionsAria': 'रीडर विकल्प मेनू',
     'reader.accessibility': 'पहुँचियों कोई ऐसे न करें',

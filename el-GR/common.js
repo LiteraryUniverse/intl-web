@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια της AI',
     'common.aiContent.model': 'Μοντέλο AI: {model}',
     'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI',
-    'common.viewAll': 'Προβολή όλων',
-    'notice.thankYou': 'Σας ευχαριστούμε για την υποστήριξή σας!',
-    'common.dropImageHere': 'Αφήστε μια εικόνα εδώ',
-    'common.legal.publishingAgreement': 'Συμφωνία έκδοσης',
-    'upload.dragAndDrop': 'Σύρετε και αφήστε αρχεία εδώ ή κάντε κλικ για να επιλέξετε αρχεία',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Εικόνα εξωφύλλου σύμπαντος για το {story}.',
-    'common.license': 'Άδεια',
-    'common.new': 'Νέο'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

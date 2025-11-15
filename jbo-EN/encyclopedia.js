@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entrise.`,
     'enc.entries.limitReached': 'Ijasu cu klama le traji le te jerna nandu be do.',
-    'enc.menuControls.ariaDesc': 'Enciklopedias kontroloj',
     'encyclopedia.pronunciation.title': 'Prononco',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Verketo en Progreso',

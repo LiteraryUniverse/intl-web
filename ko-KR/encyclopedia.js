@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } 항목이 있습니다.`,
     'enc.entries.limitReached': '현재 구독에 허용된 최대 백과사전 항목 수에 도달하였습니다.',
-    'enc.menuControls.ariaDesc': '백과사전 제어',
     'encyclopedia.pronunciation.title': '발음',
     'encyclopedia.wip.abbreviation': '개발중',
     'encyclopedia.wip.full': '작업 진행중',

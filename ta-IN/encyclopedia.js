@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
-    'enc.menuControls.ariaDesc': 'அறிவியல் அமைப்புகள்',
     'encyclopedia.pronunciation.title': 'உச்சரிப்பு',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'செயல்முறையில் மேம்படுத்தப்படுகின்றது',

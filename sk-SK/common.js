@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Tento obsah bol vytvorený s pomocou AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Vlastný model AI',
-    'common.viewAll': 'Zobraziť všetko',
-    'notice.thankYou': 'Ďakujeme vám za podporu!',
-    'common.dropImageHere': 'Sem vložte obrázok',
-    'common.legal.publishingAgreement': 'Vydavateľská zmluva',
-    'upload.dragAndDrop': 'Presuňte sem súbory alebo kliknite na tlačidlo a vyberte súbory',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Obrázok obálky vesmíru pre {story}.',
-    'common.license': 'Licencia',
-    'common.new': 'Nový'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

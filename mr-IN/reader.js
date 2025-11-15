@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'पूर्णस्क्रीन बंद करा',
     'reader.details.universe': 'युनिव्हर्स तपशील',
     'reader.details.story': 'कथेचे तपशील',
-    'reader.darkmode': 'डार्क मोड टॉगल करा',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'मजकूराची वेगवेगळं मोड टॉगल करा',
     'reader.menu.optionsAria': 'नमूद करणार्या पर्यायांचे मेनू वापरा',
     'reader.accessibility': 'प्रवासहवा बंद करा',

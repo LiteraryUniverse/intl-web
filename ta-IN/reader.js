@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'முழுத்திரையிலிருந்து வெளியேறு',
     'reader.details.universe': 'உலகப் பகுதிகள்',
     'reader.details.story': 'கதை விபரங்கள்',
-    'reader.darkmode': 'இருட்டு முறையில் மாற்றவும்',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'உரை அளவை மாற்றவும்',
     'reader.menu.optionsAria': 'வாசிப்பதற்கான விருப்பங்கள் மெனு',
     'reader.accessibility': 'அணுகல்வழிகாட்டலை மாற்று',
