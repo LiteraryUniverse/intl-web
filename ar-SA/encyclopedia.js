@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } ~ إدخالات.`,
     'enc.entries.limitReached': 'لقد وصلت إلى الحد الأقصى المسموح به لإدخالات الموسوعة لاشتراكك الحالي.',
-    'enc.menuControls.ariaDesc': 'ضوابط الموسوعة',
     'encyclopedia.pronunciation.title': 'النطق',
     'encyclopedia.wip.abbreviation': 'قيد التطوير',
     'encyclopedia.wip.full': 'قيد التطوير',
