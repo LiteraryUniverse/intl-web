@@ -353,5 +353,36 @@
       "title": "Ready to Start Writing?",
       "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
     }
+  },
+  "encyclopedia": {
+    "title": "Welcome to the Encyclopedia",
+    "welcome": {
+      "title": "Your Universe Encyclopedia",
+      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+    },
+    "tabs": {
+      "title": "Organize Your Content",
+      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+    },
+    "categories": {
+      "title": "Your Categories",
+      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+    },
+    "search": {
+      "title": "Find What You Need",
+      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+    },
+    "add": {
+      "title": "Create New Entries",
+      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+    },
+    "settings": {
+      "title": "Customize Your Encyclopedia",
+      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+    },
+    "finish": {
+      "title": "Ready to Create!",
+      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+    }
   }
 }
