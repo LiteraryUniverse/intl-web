@@ -384,5 +384,28 @@
       "title": "Ready to Create!",
       "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
     }
+  },
+  "betaReader": {
+    "title": "Beta Reader Guide",
+    "welcome": {
+      "title": "Welcome to Beta Reading!",
+      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+    },
+    "comments": {
+      "title": "Your Primary Communication Tool",
+      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+    },
+    "commentsInterface": {
+      "title": "Commenting Interface",
+      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+    },
+    "readingTools": {
+      "title": "Reading Tools",
+      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+    },
+    "getStarted": {
+      "title": "Ready to Provide Feedback?",
+      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+    }
   }
 }
