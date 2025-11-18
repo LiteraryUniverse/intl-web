@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'পূৰ্বৱৰ্তী অধ্যায়টো অনুমোদিত কৰা হৈছে {publishDate, date, short} তাৰিখত {publishDate, time}ৰ সময়ত',
     'writer.publish.alreadyPublished': 'এই অধ্যায়টো ইতিমধ্যে {publishedAt, date, short}তাৰিখত প্ৰকাশ হৈছে। নতুন সংস্কৰণসমূহ সমৰ্পিত হব অতি শীঘ্ৰই।',
     'writer.publish.betaReader': 'বেটা',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publish',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
