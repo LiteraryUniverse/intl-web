@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': '前の章は{publishDate, date, short}に{publishDate, time}に公開予定です。',
     'writer.publish.alreadyPublished': 'この章は{publishedAt, date, short}に既に公開されています。新しいバージョンはもうすぐ公開されます。',
     'writer.publish.betaReader': 'ベータ版',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': '公開する',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': '今すぐ出版する',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'この章を出版する前に、前の章を出版するか、出版を予定しておく必要があります。',
     'writer.publish.earlyAccess.title': 'ファンのための早期アクセス',
     'writer.publish.earlyAccess.groupLine': '{days}日早く: {tiers} — ファンは{date, date, short}の{date, time}にアクセス可能'
