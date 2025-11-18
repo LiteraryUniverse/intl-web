@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Önceki bölüm {publishDate, date, short} tarihinde {publishDate, time}yayımlanması planlandı',
     'writer.publish.alreadyPublished': 'Bu bölüm zaten {publishedAt, date, short}tarihinde yayımlandı. Yeni sürümler hemen yayımlanacak.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Yayınla',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Şimdi yayınla',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Bu bölümü yayınlamadan önce bir önceki bölümü yayınlamanız veya yayınlanmasını planlamanız gerekir.',
     'writer.publish.earlyAccess.title': 'Hayranlar için erken erişim',
     'writer.publish.earlyAccess.groupLine': '{days} günler öncesinden: {tiers} - hayranlar {date, date, short} adresinden {date, time}erişebilir'
