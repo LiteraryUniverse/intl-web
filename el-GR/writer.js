@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Το προηγούμενο κεφάλαιο έχει προγραμματιστεί να δημοσιευθεί στις {publishDate, date, short} στη διεύθυνση {publishDate, time}',
     'writer.publish.alreadyPublished': 'Αυτό το κεφάλαιο έχει ήδη δημοσιευθεί στο {publishedAt, date, short}. Νέες εκδόσεις θα δημοσιευθούν αμέσως.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Δημοσίευση',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Δημοσιεύστε τώρα',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Πρέπει να δημοσιεύσετε ή να προγραμματίσετε τη δημοσίευση του προηγούμενου κεφαλαίου πριν δημοσιεύσετε αυτό.',
     'writer.publish.earlyAccess.title': 'Πρώιμη πρόσβαση για τους οπαδούς',
     'writer.publish.earlyAccess.groupLine': '{days} ημέρες νωρίτερα: {tiers} - οι οπαδοί αποκτούν πρόσβαση στις {date, date, short} στις {date, time}'
