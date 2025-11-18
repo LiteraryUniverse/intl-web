@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Capitolul precedent urmează să fie publicat pe {publishDate, date, short} la adresa {publishDate, time}',
     'writer.publish.alreadyPublished': 'Acest capitol a fost deja publicat pe {publishedAt, date, short}. Noi versiuni vor fi publicate imediat.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publicare',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publică acum',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Trebuie să publicați sau să programați publicarea capitolului anterior înainte de a-l putea publica pe acesta.',
     'writer.publish.earlyAccess.title': 'Acces timpuriu pentru fani',
     'writer.publish.earlyAccess.groupLine': '{days} zile mai devreme: {tiers} - fanii au acces pe {date, date, short} la {date, time}'
