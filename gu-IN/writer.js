@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'અગાઉની ચાપ પ્રકાશિત કરવામાં આવેલ છે {publishDate, date, short} પર {publishDate, time}',
     'writer.publish.alreadyPublished': 'આ ચાપ પહેલેથી પ્રકાશિત કરવામાં આવ્યી છે {publishedAt, date, short}. નવા આવૃત્તિઓ તત્કાલ પ્રકાશિત થશે.',
     'writer.publish.betaReader': 'બીટા',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publish',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
