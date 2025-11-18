@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Chương trước đã được lên lịch công bố vào ngày {publishDate, date, short} lúc {publishDate, time}',
     'writer.publish.alreadyPublished': 'Chương này đã được xuất bản vào ngày {publishedAt, date, short}. Phiên bản mới sẽ được xuất bản ngay lập tức.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Xuất bản',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Trải nghiệm sớm dành cho fan',
     'writer.publish.earlyAccess.groupLine': '{days} Đăng ký sớm: {tiers} — Người hâm mộ có thể truy cập tại {date, date, short} tại {date, time}'
