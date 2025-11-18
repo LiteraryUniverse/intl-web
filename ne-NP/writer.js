@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'अघिल्लो अध्याय यो मिति मा प्रकाशित गर्ने योजना बनाइएको छ {publishDate, date, short} मा {publishDate, time}',
     'writer.publish.alreadyPublished': 'यो अध्याय पहिले नै प्रकाशित गरिएको छ {publishedAt, date, short}. नयाँ संस्करणहरू तुरुन्तै प्रकाशित हुनेछन्।',
     'writer.publish.betaReader': 'बीटा',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'प्रकाशित गर्नुहोस्',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
