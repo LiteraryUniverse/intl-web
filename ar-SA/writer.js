@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'من المقرر نشر الفصل السابق في {publishDate, date, short} ~ في {publishDate, time}~',
     'writer.publish.alreadyPublished': 'تم نشر هذا الفصل بالفعل على {publishedAt, date, short}~ . سيتم نشر الإصدارات الجديدة على الفور.',
     'writer.publish.betaReader': 'بيتا',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'النشر',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'انشر الآن',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'تحتاج إلى نشر أو جدولة نشر الفصل السابق قبل أن تتمكن من نشر هذا الفصل.',
     'writer.publish.earlyAccess.title': 'الوصول المبكر للجماهير',
     'writer.publish.earlyAccess.groupLine': '{days} أيام مبكرًا: {tiers} - يمكن للمعجبين الدخول على {date, date, short} ~ على {date, time}'
