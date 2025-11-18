@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Het vorige hoofdstuk is gepland om gepubliceerd te worden op {publishDate, date, short} om {publishDate, time}',
     'writer.publish.alreadyPublished': 'Dit hoofdstuk is al gepubliceerd op {publishedAt, date, short}. Nieuwe versies worden direct gepubliceerd.',
     'writer.publish.betaReader': 'Bèta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publiceren',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Nu publiceren',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'U moet het vorige hoofdstuk publiceren of de publicatie ervan plannen voordat u dit hoofdstuk kunt publiceren.',
     'writer.publish.earlyAccess.title': 'Vroege toegang voor fans',
     'writer.publish.earlyAccess.groupLine': '{days} dagen eerder: {tiers} - fans krijgen toegang op {date, date, short} bij {date, time}'
