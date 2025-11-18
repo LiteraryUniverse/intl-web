@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}',
     'writer.publish.alreadyPublished': 'இந்த அத்தியாயம் ஏற்கனவே வெளியிடப்பட்டது தேதி {publishedAt, date, short}. புதிய பதிப்புகள் உடனடியாக வெளியிடப்படும்.',
     'writer.publish.betaReader': 'பீட்டா',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publish',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
