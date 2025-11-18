@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Az előző fejezet időzítve van közzétételre ekkor: {publishDate, date, short} , {publishDate, time}',
     'writer.publish.alreadyPublished': 'Ez a fejezet már közzétéve volt ekkor: {publishedAt, date, short}. Az új verziók azonnal közzététele történik.',
     'writer.publish.betaReader': 'Béta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Közzététel',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Közzététel most',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Az előző fejezetet előbb közzé kell tennie vagy be kell ütemeznie, mielőtt ezt a fejezetet közzétehetné.',
     'writer.publish.earlyAccess.title': 'Korai hozzáférés a rajongóknak',
     'writer.publish.earlyAccess.groupLine': '{days} napokkal korábban: {tiers} - a rajongók hozzáférhetnek a {date, date, short} címen {date, time}'
