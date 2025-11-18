@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'ตอนก่อนหน้านี้มีการกำหนดตารางการเผยแพร่ในวันที่ {publishDate, date, short} เวลา {publishDate, time}',
     'writer.publish.alreadyPublished': 'ตอนนี้ได้เผยแพร่ตอนนี้เรียบร้อยแล้วเมื่อวันที่ {publishedAt, date, short}รุ่นใหม่จะถูกเผยแพร่ทันที',
     'writer.publish.betaReader': 'เบต้า',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'เผยแพร่',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'การเข้าถึงล่วงหน้าสำหรับแฟน ๆ',
     'writer.publish.earlyAccess.groupLine': '{days} ล่วงหน้าหลายวัน: {tiers} — แฟนๆ เข้าถึงได้ก่อน {date, date, short} ที่ {date, time}'
