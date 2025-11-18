@@ -354,6 +354,25 @@
       "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
     }
   },
+  "storyTranslator": {
+    "title": "Story Translator Tour",
+    "welcome": {
+      "title": "Welcome to the Story Translator!",
+      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+    },
+    "originalColumn": {
+      "title": "Original Text on the Left",
+      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+    },
+    "translationColumn": {
+      "title": "Translate on the Right",
+      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+    },
+    "encyclopedia": {
+      "title": "Universe Encyclopedia Access",
+      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+    }
+  },
   "encyclopedia": {
     "title": "Welcome to the Encyclopedia",
     "welcome": {
