@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Предыдущая глава должна быть опубликована в {publishDate, date, short} в {publishDate, time}',
     'writer.publish.alreadyPublished': 'Эта глава уже была опубликована {publishedAt, date, short}. Новые версии будут опубликованы немедленно.',
     'writer.publish.betaReader': 'Тестирование',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Опубликовать',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Опубликовать сейчас',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Вам необходимо опубликовать или запланировать публикацию предыдущей главы, прежде чем вы сможете опубликовать эту.',
     'writer.publish.earlyAccess.title': 'Ранний доступ для фанатов',
     'writer.publish.earlyAccess.groupLine': '{days} на несколько дней раньше: {tiers} - поклонники получают доступ на {date, date, short} на {date, time}'
