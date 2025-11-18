@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Det föregående kapitlet är schemalagt att publiceras den {publishDate, date, short} kl. {publishDate, time}',
     'writer.publish.alreadyPublished': 'Det här kapitlet har redan publicerats den {publishedAt, date, short}. Nya versioner kommer att publiceras omedelbart.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publicera',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publicera nu',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Du måste publicera eller schemalägga publiceringen av föregående kapitel innan du kan publicera det här.',
     'writer.publish.earlyAccess.title': 'Tidig tillgång för fans',
     'writer.publish.earlyAccess.groupLine': '{days} dagar i förväg: {tiers} - fans får tillgång på {date, date, short} på {date, time}'
