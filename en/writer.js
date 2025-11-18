@@ -59,8 +59,12 @@ export default {
   'writer.publish.alreadyPublished':
     'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.',
   'writer.publish.betaReader': 'Beta',
+  'writer.publish.betaReader.original': 'Beta (Original)',
   'writer.publish.public': 'Publish',
+  'writer.publish.publish': 'Publish',
+  'writer.publish.publish.original': 'Publish (Original)',
   'writer.publish.now': 'Publish now',
+  'writer.publish.moreOptions': 'More save options',
   'writer.publish.schedulePrevious':
     'You need to publish or schedule publication of previous chapter before you can publish this one.',
   'writer.publish.earlyAccess.title': 'Early access for fans',
