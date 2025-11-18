@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Попередній розділ заплановано для публікації {publishDate, date, short} о {publishDate, time}',
     'writer.publish.alreadyPublished': 'Цей розділ вже був опублікований {publishedAt, date, short}. Нові версії будуть опубліковані відразу.',
     'writer.publish.betaReader': 'Бета',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Опублікувати',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Опублікуйте зараз',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Вам потрібно опублікувати або запланувати публікацію попереднього розділу, перш ніж ви зможете опублікувати цей.',
     'writer.publish.earlyAccess.title': 'Ранній доступ для шанувальників',
     'writer.publish.earlyAccess.groupLine': '{days} на кілька днів раніше: {tiers} - вболівальники отримують доступ на {date, date, short} за адресою {date, time}'
