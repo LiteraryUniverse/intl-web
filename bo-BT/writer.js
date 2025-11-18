@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'མཁོན་པར་གྱི་དངོས་གྲུབ་པའི་ལོ་རྒྱུས་འབྲེལ་བ་ལ་ {publishDate, date, short} ལུ་ {publishDate, time}ལུ་བཀོད་རིགས་བརྩོན་འགྲེལ་བ་བཅུགཔ་བཟོ།',
     'writer.publish.alreadyPublished': 'ཁྱེད་ཀྱིས་འདི་ལྟ་སྤྱོད་པའི་ལོ་རྒྱུས་འབྲེལ་བ་དང་དོན་བཀོད་རུང་བཀོད་རིགས་བརྩོན་འགྲེལ་བ་བཅུགཔ་བཟོ། {publishedAt, date, short}ལུ་གནས་སློབ་དོན་རིགས་བརྩོན་འགྲེལ་བཅུགཔ་བཟོ།',
     'writer.publish.betaReader': 'བྱེད་སྒྲུབ།',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publish',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
