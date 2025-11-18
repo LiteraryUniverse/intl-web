@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Det forrige kapitel er planlagt til at blive udgivet på {publishDate, date, short} på {publishDate, time}',
     'writer.publish.alreadyPublished': 'Dette kapitel er allerede udgivet på {publishedAt, date, short}. Nye versioner vil blive offentliggjort med det samme.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Udgiv',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Udgiv nu',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Du skal udgive eller planlægge udgivelsen af det forrige kapitel, før du kan udgive dette.',
     'writer.publish.earlyAccess.title': 'Tidlig adgang for fans',
     'writer.publish.earlyAccess.groupLine': '{days} dage før: {tiers} - fans får adgang på {date, date, short} på {date, time}'
