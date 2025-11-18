@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'La publication du chapitre précédent est prévue pour le {publishDate, date, short} à {publishDate, time}',
     'writer.publish.alreadyPublished': 'Ce chapitre a déjà été publié sur {publishedAt, date, short}. De nouvelles versions seront publiées immédiatement.',
     'writer.publish.betaReader': 'Bêta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publier',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publier maintenant',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Vous devez publier ou programmer la publication du chapitre précédent avant de pouvoir publier celui-ci.',
     'writer.publish.earlyAccess.title': 'Accès anticipé pour les fans',
     'writer.publish.earlyAccess.groupLine': '{days} jours d\'avance : {tiers} - les fans ont accès à {date, date, short} à {date, time}'
