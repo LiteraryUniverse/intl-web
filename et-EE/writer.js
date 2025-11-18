@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Eelmine peatükk on ajastatud avaldamiseks {publishDate, date, short} kell {publishDate, time}',
     'writer.publish.alreadyPublished': 'See peatükk oli juba avaldatud {publishedAt, date, short}. Uued versioonid avaldatakse kohe.',
     'writer.publish.betaReader': 'Beeta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Avalda',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Avalda nüüd',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Enne selle peatüki avaldamist peate avaldama või kavandama eelmise peatüki avaldamist.',
     'writer.publish.earlyAccess.title': 'Varajane juurdepääs fännidele',
     'writer.publish.earlyAccess.groupLine': '{days} päeva varem: {tiers} - fännid pääsevad sisse {date, date, short} aadressil {date, time}'
