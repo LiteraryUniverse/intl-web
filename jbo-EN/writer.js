@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Lo se jalge be lo se lidne be lo nu se tarti cu se jalge la {publishDate, date, short} ti kei la {publishDate, time}',
     'writer.publish.alreadyPublished': 'Ti kei la {publishedAt, date, short}cu se tarti la ni\'o . Lo se lidne se jalge cu zifre lo nu da se tarti',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publish',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
