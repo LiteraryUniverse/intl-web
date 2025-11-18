@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Předchozí kapitola je naplánována na publikování {publishDate, date, short} v {publishDate, time}',
     'writer.publish.alreadyPublished': 'Tato kapitola byla již publikována {publishedAt, date, short}. Nové verze budou zveřejněny okamžitě.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publikovat',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publikovat hned',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Před zveřejněním této kapitoly je třeba zveřejnit nebo naplánovat zveřejnění předchozích kapitol.',
     'writer.publish.earlyAccess.title': 'Předčasný přístup pro fanoušky',
     'writer.publish.earlyAccess.groupLine': '{days} o několik dní dříve: {tiers} - fanoušci získají přístup na {date, date, short} na {date, time}'
