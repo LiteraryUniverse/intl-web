@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Ankstesnis skyrius yra suplanuotas būti publikuotas {publishDate, date, short} {publishDate, time}',
     'writer.publish.alreadyPublished': 'Šis skyrius jau buvo publikuotas {publishedAt, date, short}. Naujos versijos bus publikuojamos iš karto.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publikuoti',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Paskelbti dabar',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Prieš skelbdami ankstesnį skyrių, turite paskelbti arba suplanuoti ankstesnio skyriaus paskelbimą.',
     'writer.publish.earlyAccess.title': 'Ankstyva prieiga gerbėjams',
     'writer.publish.earlyAccess.groupLine': '{days} dienomis anksčiau: {tiers} - gerbėjai gauna prieigą {date, date, short} adresu {date, time}'
