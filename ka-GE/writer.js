@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'წინა თავში გამოქვეყნდა დაგენერირებული ადგილი {publishDate, date, short} თარიღს, {publishDate, time}',
     'writer.publish.alreadyPublished': 'ეს თავისუფალი თავად გამოქვეყნდა {publishedAt, date, short}. ახალი ვერსიები იქნება გამოქვეყნებული მყიდველი.',
     'writer.publish.betaReader': 'ბეტა',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publish',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
