@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'La antaŭa ĉapitro estas planita esti publikigita je {publishDate, date, short} je {publishDate, time}',
     'writer.publish.alreadyPublished': 'Ĉi tiu ĉapitro jam estis publikigita je {publishedAt, date, short}. Novaj versioj estos publikigitaj tuj.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Publikigi',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publish now',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
