@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Bab sebelumnya dijadwalkan untuk diterbitkan pada {publishDate, date, short} pada {publishDate, time}',
     'writer.publish.alreadyPublished': 'Bab ini sudah diterbitkan pada {publishedAt, date, short}. Versi baru akan segera diterbitkan.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Terbitkan',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Publikasikan sekarang',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Anda perlu menerbitkan atau menjadwalkan penerbitan bab sebelumnya sebelum dapat menerbitkan bab ini.',
     'writer.publish.earlyAccess.title': 'Akses awal untuk para penggemar',
     'writer.publish.earlyAccess.groupLine': '{days} beberapa hari lebih awal: {tiers} - penggemar bisa mendapatkan akses di {date, date, short} di {date, time}'
