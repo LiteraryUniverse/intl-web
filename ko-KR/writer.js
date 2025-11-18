@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': '이전 챕터는 {publishDate, date, short} 에 {publishDate, time}에 예약되어 있습니다.',
     'writer.publish.alreadyPublished': '이 챕터는 이미 {publishedAt, date, short}에 게시되었습니다. 새 버전은 즉시 게시됩니다.',
     'writer.publish.betaReader': '베타',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': '게시',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': '지금 게시',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': '이 챕터를 게시하려면 먼저 이전 챕터를 게시하거나 게시 일정을 잡아야 합니다.',
     'writer.publish.earlyAccess.title': '팬을 위한 얼리 액세스',
     'writer.publish.earlyAccess.groupLine': '{days} 며칠 일찍: {tiers} - 팬들은 {date, date, short} 에서 {date, time}에 접속할 수 있습니다.'
