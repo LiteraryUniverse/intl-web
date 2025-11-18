@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': 'Edellinen luku on tarkoitus julkaista osoitteessa {publishDate, date, short} osoitteessa {publishDate, time}.',
     'writer.publish.alreadyPublished': 'Tämä luku on jo julkaistu osoitteessa {publishedAt, date, short}. Uudet versiot julkaistaan välittömästi.',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': 'Julkaise',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': 'Julkaise nyt',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Sinun on julkaistava tai aikataulutettava edellisen luvun julkaiseminen ennen tämän luvun julkaisemista.',
     'writer.publish.earlyAccess.title': 'Varhainen pääsy faneille',
     'writer.publish.earlyAccess.groupLine': '{days} päivää aikaisemmin: {tiers} - fanit pääsevät sisään {date, date, short} osoitteessa {date, time}'
