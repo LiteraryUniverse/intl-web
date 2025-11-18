@@ -54,8 +54,12 @@ export default {
     'writer.publish.previousChapterScheduled': '上一章節預定於 {publishDate, date, short} ，時間為 {publishDate, time}發布',
     'writer.publish.alreadyPublished': '此章節已於 {publishedAt, date, short}發布。新版本將立即發布。',
     'writer.publish.betaReader': 'Beta',
+    'writer.publish.betaReader.original': 'Beta (Original)',
     'writer.publish.public': '發佈',
+    'writer.publish.publish': 'Publish',
+    'writer.publish.publish.original': 'Publish (Original)',
     'writer.publish.now': '立即發佈',
+    'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': '您必須先出版或排定出版前一章，才能出版這一章。',
     'writer.publish.earlyAccess.title': '粉絲可提早使用',
     'writer.publish.earlyAccess.groupLine': '{days} 提前數天： {tiers} - 球迷可於 {date, date, short} 於 {date, time}獲得存取權限。'
