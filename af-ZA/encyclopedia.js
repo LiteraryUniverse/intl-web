@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } inskrywings.`,
     'enc.entries.limitReached': 'Jy het die maksimum toegelate ensiklopedie inskrywings bereik vir jou huidige intekening.',
-    'enc.menuControls.ariaDesc': 'Ensiklopedie beheer',
     'encyclopedia.pronunciation.title': 'Uitspraak',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Werk in Uitvoering',

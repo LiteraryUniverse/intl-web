@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Έξοδος από την πλήρη οθόνη',
     'reader.details.universe': 'Λεπτομέρειες σύμπαντος',
     'reader.details.story': 'Λεπτομέρειες ιστορίας',
-    'reader.darkmode': 'Εναλλαγή σε σκοτεινή λειτουργία',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Εναλλαγή μεγέθους κειμένου',
     'reader.menu.optionsAria': 'Μενού επιλογών αναγνώστη',
     'reader.accessibility': 'Εναλλαγή προσβασιμότητας',

@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'raze le purci',
     'reader.details.universe': 'nicte coli',
     'reader.details.story': 'bansu viska',
-    'reader.darkmode': 'ke lenu viska svini',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'nalviska zasti',
     'reader.menu.optionsAria': 'nalsikta\'o se jdima jinvi',
     'reader.accessibility': 'bane la wazir',

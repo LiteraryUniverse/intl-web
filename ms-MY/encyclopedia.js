@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entri tanpa had.`,
     'enc.entries.limitReached': 'Anda telah mencapai had maksimum entri ensiklopedia yang dibenarkan untuk langganan semasa anda.',
-    'enc.menuControls.ariaDesc': 'Kawalan Ensiklopedia',
     'encyclopedia.pronunciation.title': 'Sebutan',
     'encyclopedia.wip.abbreviation': 'Dalam Pembaikan',
     'encyclopedia.wip.full': 'Kerja dalam Proses',

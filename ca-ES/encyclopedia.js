@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   }.`,
     'enc.entries.limitReached': 'Has arribat al màxim d\'entrades permeses a l\'enciclopèdia per a la teva subscripció actual.',
-    'enc.menuControls.ariaDesc': 'Controls de l\'enciclopèdia',
     'encyclopedia.pronunciation.title': 'Pronunciació',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Obra en curs',

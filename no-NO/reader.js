@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Gå ut av fullskjermvisning',
     'reader.details.universe': 'Universdetaljer',
     'reader.details.story': 'Historiedetaljer',
-    'reader.darkmode': 'Bytt til mørk modus',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Bytt tekstsstørrelse',
     'reader.menu.optionsAria': 'Alternativer for lesermenyen',
     'reader.accessibility': 'Bytt tilgjengelighet',

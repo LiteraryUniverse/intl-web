@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Este conteúdo foi criado com a ajuda de IA',
     'common.aiContent.model': 'Modelo de IA: {model}',
     'common.aiContent.custom': 'Modelo de IA personalizado',
-    'common.viewAll': 'Ver tudo',
-    'notice.thankYou': 'Obrigado pelo apoio dos senhores!',
-    'common.dropImageHere': 'Coloque uma imagem aqui',
-    'common.legal.publishingAgreement': 'Contrato de publicação',
-    'upload.dragAndDrop': 'Arraste e solte os arquivos aqui ou clique para selecioná-los',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Imagem de capa do universo {story}.',
-    'common.license': 'Licença',
-    'common.new': 'Novo'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

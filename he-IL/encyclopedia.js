@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': '!הגעת למספר המרבי של ערכי האנציקלופדיה המותרים עבור המינוי הנוכחי שלך',
-    'enc.menuControls.ariaDesc': 'בקרי האנציקלופדיה',
     'encyclopedia.pronunciation.title': 'הגייה',
     'encyclopedia.wip.abbreviation': 'עבודה בתהליך',
     'encyclopedia.wip.full': 'עבודה בתהליך',

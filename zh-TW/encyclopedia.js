@@ -214,7 +214,6 @@ export default {
   } 項目中的 {max, plural,
     =0 {個。`,
     'enc.entries.limitReached': '您已達到目前訂閱所允許的最大百科全書項目數量。',
-    'enc.menuControls.ariaDesc': '百科控制項',
     'encyclopedia.pronunciation.title': '發音',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': '進行中',

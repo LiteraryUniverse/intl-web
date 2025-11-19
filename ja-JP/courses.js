@@ -173,5 +173,5 @@ export default {
   'course.lesson.virtualClassroom': 'バーチャル教室',
   'course.lesson.joinClassroom': 'バーチャルクラスルームセッションに参加する',
   'course.lesson.enterClassroom': '教室に入る',
-  'courses.module.defaultTitle': 'Module {count, number}',
+  'courses.module.defaultTitle': 'モジュール {count, number}',
 };

@@ -1,0 +1,430 @@
+{
+  "common": {
+    "next": "Next",
+    "previous": "Previous",
+    "skip": "Skip Tour",
+    "close": "Close Tour",
+    "end": "End Tour",
+    "progress": "Step {current, number} of {total, number}",
+    "keyboardHint": "Use arrow keys to navigate, ESC to close"
+  },
+  "dashboard": {
+    "title": "Welcome to Your Dashboard",
+    "welcome": {
+      "title": "Welcome to Literary Universe",
+      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+    },
+    "topMenu": {
+      "title": "Main Navigation",
+      "content": "This is your main navigation menu. Let's go through each item."
+    },
+    "topMenuItems": {
+      "dashboard": {
+        "title": "Dashboard",
+        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+      },
+      "discovery": {
+        "title": "Discovery",
+        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+      },
+      "social": {
+        "title": "Social",
+        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+      },
+      "scratchpad": {
+        "title": "Scratchpad",
+        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+      },
+      "notifications": {
+        "title": "Notifications",
+        "content": "Stay updated with comments, follows, and other community interactions."
+      },
+      "messages": {
+        "title": "Messages",
+        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+      },
+      "profile": {
+        "title": "Profile",
+        "content": "Manage your personal information, preferences, and account settings."
+      },
+      "workshop": {
+        "title": "Workshop",
+        "content": "Your creative space for writing, editing, and managing your stories and universes."
+      },
+      "library": {
+        "title": "Your Library",
+        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+      }
+    },
+    "leftMenu": {
+      "title": "Quick Access Menu",
+      "content": "This sidebar provides quick access to important features and tools."
+    },
+    "writerEncouragement": {
+      "title": "Ready to Create?",
+      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+    },
+    "readerEncouragement": {
+      "title": "Ready to Explore?",
+      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+    },
+    "writerActionButton": "Go to Workshop",
+    "readerActionButton": "Go to Discovery"
+  },
+  "workshop": {
+    "title": "Welcome to Your Workshop",
+    "welcome": {
+      "title": "Welcome to Literary Universe Workshop",
+      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+    },
+    "theWay": {
+      "title": "Cara Penulis",
+      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+    },
+    "ownWork": {
+      "title": "Your Creative Works",
+      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    },
+    "universe": {
+      "title": "Literary Universes",
+      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    },
+    "story": {
+      "title": "Standalone Stories",
+      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
+    },
+    "fanfiction": {
+      "title": "Fan Fiction",
+      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
+    },
+    "collaborative": {
+      "title": "Collaborative Works",
+      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
+    },
+    "translations": {
+      "title": "Translations",
+      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
+    },
+    "betaReadings": {
+      "title": "Beta Readings",
+      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    },
+    "theWayFinish": {
+      "title": "Continue Your Journey",
+      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+    }
+  },
+  "library": {
+    "title": "Your Personal Library",
+    "continueReading": {
+      "title": "Continue Reading",
+      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+    },
+    "all": {
+      "title": "Your Complete Library",
+      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+    },
+    "stories": {
+      "title": "Your Stories",
+      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+    },
+    "universes": {
+      "title": "Your Universes",
+      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+    },
+    "readingLists": {
+      "title": "Reading Lists",
+      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+    },
+    "personalNotes": {
+      "title": "Personal Notes",
+      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+    },
+    "getStarted": {
+      "title": "Ready to Build Your Universe?",
+      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+    }
+  },
+  "universe": {
+    "title": "Universe Workshop",
+    "welcome": {
+      "title": "Welcome to Your Universe Workshop!",
+      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+    },
+    "stories": {
+      "title": "Manage Your Stories",
+      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+    },
+    "encyclopedia": {
+      "title": "Build Your Encyclopedia",
+      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+    },
+    "page": {
+      "title": "Your Universe Page",
+      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+    },
+    "translations": {
+      "title": "Manage Translations",
+      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+    },
+    "fanManager": {
+      "title": "Fan Manager",
+      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+    },
+    "statistics": {
+      "title": "Track Your Success",
+      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+    },
+    "forum": {
+      "title": "Internal Planning Forum",
+      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+    },
+    "collaborators": {
+      "title": "Manage Collaborators",
+      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+    },
+    "monetization": {
+      "title": "Revenue Settings",
+      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+    },
+    "resolutionCenter": {
+      "title": "Resolution Center",
+      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+    },
+    "settings": {
+      "title": "Universe Settings",
+      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+    },
+    "forumSettings": {
+      "title": "Forum Configuration",
+      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+    },
+    "getStarted": {
+      "title": "Ready to Build Your Universe?",
+      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+    }
+  },
+  "story": {
+    "title": "Story Dashboard",
+    "welcome": {
+      "title": "Welcome to Your Story Dashboard!",
+      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+    },
+    "addChapter": {
+      "title": "Adding New Chapters",
+      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+    },
+    "statistics": {
+      "title": "Track Your Progress",
+      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+    },
+    "collaborators": {
+      "title": "Manage Collaborators",
+      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+    },
+    "translations": {
+      "title": "Translation Management",
+      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+    },
+    "monetization": {
+      "title": "Revenue Settings",
+      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+    },
+    "settings": {
+      "title": "Story Settings",
+      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+    },
+    "notes": {
+      "title": "Overview Notes",
+      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+    },
+    "challenges": {
+      "title": "Personal Writing Challenges",
+      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+    },
+    "storylines": {
+      "title": "Storylines Management",
+      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+    },
+    "scenesManager": {
+      "title": "Scenes Manager",
+      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+    },
+    "legal": {
+      "title": "Legal Documents",
+      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+    },
+    "publicVersion": {
+      "title": "Public Version",
+      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+    },
+    "sharing": {
+      "title": "Share Your Story",
+      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+    },
+    "resolutionCenter": {
+      "title": "Resolution Center",
+      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+    },
+    "statuses": {
+      "title": "Story Status Management",
+      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+    },
+    "getStarted": {
+      "title": "Ready to Start Writing?",
+      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+    }
+  },
+  "storyEditor": {
+    "title": "Story Editor Tour",
+    "welcome": {
+      "title": "Welcome to the Story Editor!",
+      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+    },
+    "textSize": {
+      "title": "Text Size Control",
+      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+    },
+    "darkMode": {
+      "title": "Dark Mode Toggle",
+      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+    },
+    "accessibility": {
+      "title": "Accessibility Tools",
+      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+    },
+    "asideToggle": {
+      "title": "Toggle Aside Panel",
+      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+    },
+    "fullscreen": {
+      "title": "Fullscreen Mode",
+      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+    },
+    "saveButton": {
+      "title": "Save Your Work",
+      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+    },
+    "publishMenu": {
+      "title": "Publishing Options",
+      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+    },
+    "chapterTitle": {
+      "title": "Chapter Title",
+      "content": "Click on the title to edit its name."
+    },
+    "authorsNotes": {
+      "title": "Author's Notes",
+      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+    },
+    "storyText": {
+      "title": "Main Story Text",
+      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+    },
+    "asidePanel": {
+      "title": "Sidebar Toolbox",
+      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+    },
+    "scratchpad": {
+      "title": "Personal Scratchpad",
+      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+    },
+    "asideNotes": {
+      "title": "Story Notes",
+      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+    },
+    "encyclopedia": {
+      "title": "Encyclopedia Access",
+      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+    },
+    "comments": {
+      "title": "Chapter Comments",
+      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+    },
+    "todo": {
+      "title": "Todos & Task",
+      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+    },
+    "ai": {
+      "title": "AI Writing Assistant",
+      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+    },
+    "getStarted": {
+      "title": "Ready to Start Writing?",
+      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+    }
+  },
+  "storyTranslator": {
+    "title": "Story Translator Tour",
+    "welcome": {
+      "title": "Welcome to the Story Translator!",
+      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+    },
+    "originalColumn": {
+      "title": "Original Text on the Left",
+      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+    },
+    "translationColumn": {
+      "title": "Translate on the Right",
+      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+    },
+    "encyclopedia": {
+      "title": "Universe Encyclopedia Access",
+      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+    }
+  },
+  "encyclopedia": {
+    "title": "Welcome to the Encyclopedia",
+    "welcome": {
+      "title": "Your Universe Encyclopedia",
+      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+    },
+    "tabs": {
+      "title": "Organize Your Content",
+      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+    },
+    "categories": {
+      "title": "Your Categories",
+      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+    },
+    "search": {
+      "title": "Find What You Need",
+      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+    },
+    "add": {
+      "title": "Create New Entries",
+      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+    },
+    "settings": {
+      "title": "Customize Your Encyclopedia",
+      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+    },
+    "finish": {
+      "title": "Ready to Create!",
+      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+    }
+  },
+  "betaReader": {
+    "title": "Beta Reader Guide",
+    "welcome": {
+      "title": "Welcome to Beta Reading!",
+      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+    },
+    "comments": {
+      "title": "Your Primary Communication Tool",
+      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+    },
+    "commentsInterface": {
+      "title": "Commenting Interface",
+      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+    },
+    "readingTools": {
+      "title": "Reading Tools",
+      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+    },
+    "getStarted": {
+      "title": "Ready to Provide Feedback?",
+      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+    }
+  }
+}

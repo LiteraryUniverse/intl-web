@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } प्रविष्टी आहेत.`,
     'enc.entries.limitReached': 'तुम्ही आपल्या वर्तमान सदस्यतेसाठी अधिकतम परवानगी दिलील्या विज्ञानकोश प्रविष्ट्यांची संख्या आली आहे.',
-    'enc.menuControls.ariaDesc': 'ज्ञानकोश नियंत्रणे',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'काम प्रगतीत',

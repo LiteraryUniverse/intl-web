@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } ჩანაწერი.`,
     'enc.entries.limitReached': 'თქვენ მიაღწიათ მაქსიმალურად დაშვებული ენციკლოპედიის ჩანაწერები თქვენი მიმდინარე გამოწერისთვის.',
-    'enc.menuControls.ariaDesc': 'ენციკლოპედიის კონტროლები',
     'encyclopedia.pronunciation.title': 'გამოსახელებასი',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'მუშაობა მიმდინარეობაში',

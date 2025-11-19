@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'フルスクリーンを終了する',
     'reader.details.universe': '宇宙の詳細',
     'reader.details.story': '物語の詳細',
-    'reader.darkmode': 'ダークモードの切り替え',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': '文字サイズの切り替え',
     'reader.menu.optionsAria': 'リーダーのオプションメニュー',
     'reader.accessibility': 'トグルアクセシビリティ',

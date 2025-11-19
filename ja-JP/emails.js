@@ -39,17 +39,17 @@ export default {
 \n\n
 楽しい\n
 Literary Universeチーム`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.messageHtml': `お客様のアカウントを次の{days, number}日間、{plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days, number} days. Enjoy!`,
+  } プランにアップグレードしました。お楽しみください！`,
     'email.verification': 'メールアドレスの認証',
     'email.verifying': 'メールアドレスを確認しています。しばらくお待ちください...',
     'email.verified': '良いお知らせです。あなたのメールアドレスが確認されました！',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailSubject': 'おめでとうございます！Literary Universeで著者レベル{level, number}に到達しました！',
     'theWay.levelUp.emailTitle': 'おめでとう！あなたは著者レベルに到達しました {level, number}！',
     'theWay.levelUp.emailIntro': 'あなたの執筆技術への献身は報われた！',
     'theWay.levelUp.emailGenre': 'あなたは {genre} ジャンルでレベル {level, number} を達成した。',

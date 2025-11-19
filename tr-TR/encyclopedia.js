@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } girişiniz bulunmaktadır.`,
     'enc.entries.limitReached': 'Geçerli aboneliğiniz için izin verilen en fazla ansiklopedi girişine ulaştınız.',
-    'enc.menuControls.ariaDesc': 'Ansiklopedi kontrolleri',
     'encyclopedia.pronunciation.title': 'Telaffuz',
     'encyclopedia.wip.abbreviation': 'Çalışma İlerlemede',
     'encyclopedia.wip.full': 'Çalışma İlerlemede',

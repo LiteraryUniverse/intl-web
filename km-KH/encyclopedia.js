@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } ធាតុ។`,
     'enc.entries.limitReached': 'អ្នកបានដាក់បញ្ចូលចំណាត់ថ្នាក់អតិបរមា​សំរាប់ធាតុវិទ្យាចំណាត់ថ្នាក់របស់អ្នកហើយ។',
-    'enc.menuControls.ariaDesc': 'ការត្រួតពិនិត្យប្រភេទទូរស័ព្ទ',
     'encyclopedia.pronunciation.title': 'ការបញ្ចេញសម្រាប់សន្លឹកមធ្យមសញ្ញានីយ៍',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'ការងារកំពុងធ្វើបច្ចុប្បន្ន',

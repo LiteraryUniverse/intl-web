@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'পূর্ণ স্ক্রিন থেকে বের হোন',
     'reader.details.universe': 'বিশ্বের বিবরণী',
     'reader.details.story': 'গল্পের বিবরণী',
-    'reader.darkmode': 'ডার্ক মোড চালু / বন্ধ করুন',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'পাঠ্যের আকার পরিবর্তন / আপডেট',
     'reader.menu.optionsAria': 'বিকল্প মেনু',
     'reader.accessibility': 'বৃদ্ধির সুবিধা চালু / বন্ধ করুন',

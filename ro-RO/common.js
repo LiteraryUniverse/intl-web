@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Acest conținut a fost creat cu ajutorul AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Model AI personalizat',
-    'common.viewAll': 'Vezi toate',
-    'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!',
-    'common.dropImageHere': 'Aruncați o imagine aici',
-    'common.legal.publishingAgreement': 'Acord de publicare',
-    'upload.dragAndDrop': 'Trageți și plasați fișiere aici sau faceți clic pentru a selecta fișiere',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Universe cover image for {story}.',
-    'common.license': 'Licență',
-    'common.new': 'Nou'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

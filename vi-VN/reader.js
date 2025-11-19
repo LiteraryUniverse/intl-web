@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Thoát toàn màn hình',
     'reader.details.universe': 'Chi tiết Vũ trụ',
     'reader.details.story': 'Chi tiết câu chuyện',
-    'reader.darkmode': 'Chuyển đổi chế độ tối',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Chuyển đổi kích thước văn bản',
     'reader.menu.optionsAria': 'Menu tùy chọn người đọc',
     'reader.accessibility': 'Chuyển đổi trợ năng',
