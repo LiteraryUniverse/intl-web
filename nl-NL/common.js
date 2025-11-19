@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Deze inhoud is gemaakt met AI-ondersteuning',
     'common.aiContent.model': 'AI-model: {model}',
     'common.aiContent.custom': 'Aangepast AI-model',
-    'common.viewAll': 'Alles bekijken',
-    'notice.thankYou': 'Hartelijk dank voor uw steun!',
-    'common.dropImageHere': 'Drop hier een afbeelding',
-    'common.legal.publishingAgreement': 'Uitgaveovereenkomst',
-    'upload.dragAndDrop': 'Sleep bestanden hierheen, of klik om bestanden te selecteren',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Afbeelding omslag universum voor {story}.',
-    'common.license': 'Licentie',
-    'common.new': 'Nieuw'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

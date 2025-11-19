@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } प्रवेशहरू छन्।`,
     'enc.entries.limitReached': 'तपाईंले आफूलाई अनुमति भएको सीमामा जानको लागि अधिकतम अनुक्रमणिका प्रवेश संख्या छ।',
-    'enc.menuControls.ariaDesc': 'ज्ञानकोष नियंत्रणहरू',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'काम प्रगतिमा',

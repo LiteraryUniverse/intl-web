@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Sair do modo tela cheia',
     'reader.details.universe': 'Detalhes do universo',
     'reader.details.story': 'Detalhes da história',
-    'reader.darkmode': 'Alternar Modo Escuro',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Alternar tamanho do texto',
     'reader.menu.optionsAria': 'Menu de opções do leitor',
     'reader.accessibility': 'Alternar a acessibilidade',

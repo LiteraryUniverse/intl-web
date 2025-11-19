@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Этот контент был создан с помощью искусственного интеллекта',
     'common.aiContent.model': 'Модель AI: {model}',
     'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта',
-    'common.viewAll': 'Смотреть все',
-    'notice.thankYou': 'Спасибо за Вашу поддержку!',
-    'common.dropImageHere': 'Бросьте изображение сюда',
-    'common.legal.publishingAgreement': 'Издательское соглашение',
-    'upload.dragAndDrop': 'Перетащите сюда файлы или нажмите, чтобы выбрать файлы.',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Изображение обложки вселенной для {story}.',
-    'common.license': 'Лицензия',
-    'common.new': 'Новый'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };

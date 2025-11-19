@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'ನೀವು ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಚಂಚಲನದ ಪತ್ರಿಕೆಗಾಗಿ ಅನುಮತಿತ ಮಹತ್ತರಗಳನ್ನು ಮುಟ್ಟಿದ್ದೀರಿ.',
-    'enc.menuControls.ariaDesc': 'ದಿದ್ಯೆಗಳು ನಿಯಂತ್ರಣಗಳು',
     'encyclopedia.pronunciation.title': 'ಉಚ್ಚಾರಣೆ',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'ಕೆಲಸ ನಡೆಸುತ್ತಿದೆ',

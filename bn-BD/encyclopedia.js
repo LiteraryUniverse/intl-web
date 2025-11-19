@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } এন্ট্রি রয়েছেন।`,
     'enc.entries.limitReached': 'আপনি আপনার বর্তমান সাবস্ক্রিপশনের জন্য অনুমোদিত এনসাইক্লোপিডিয়া এন্ট্রিগুলির সর্বাধিক সীমা অবুদ্ধ করেছেন।',
-    'enc.menuControls.ariaDesc': 'বিজ্ঞানকোষ নিয়ন্ত্রণসমূহ',
     'encyclopedia.pronunciation.title': 'উচ্চারণ',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'চলমান প্রকল্প',

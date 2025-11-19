@@ -214,7 +214,6 @@ export default {
     other {không giới hạn{max, number}}
   }.`,
     'enc.entries.limitReached': 'Bạn đã đạt đến số lượng tối đa cho phép các mục bách khoa của bạn hiện tại.',
-    'enc.menuControls.ariaDesc': 'Bảng điều khiển Bách khoa toàn thư',
     'encyclopedia.pronunciation.title': 'Phát âm',
     'encyclopedia.wip.abbreviation': 'Đang thực hiện',
     'encyclopedia.wip.full': 'Đang được phát triển',

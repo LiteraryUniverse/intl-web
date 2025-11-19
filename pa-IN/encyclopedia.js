@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } ਹਨ।`,
     'enc.entries.limitReached': 'ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਲਈ ਤੁਸੀਂ ਮੱਧਮਿਕ ਮੰਤਰਾਲਿਸਟ ਇੰਟਰੀਜ਼ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਮਾਪਦੰਡ ਪ੍ਰਾਪਤ ਕਰ ਚੁੱਕੇ ਹੋ।',
-    'enc.menuControls.ariaDesc': 'ਜਾਣਕਾਰੀਕ ਨਿਯੰਤਰਣ',
     'encyclopedia.pronunciation.title': 'ਉਚਾਰਨ',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'ਕੰਮ ਚਲਦਾ ਰਿਹਾ ਹੈ',

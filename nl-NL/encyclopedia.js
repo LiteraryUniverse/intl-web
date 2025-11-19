@@ -213,7 +213,6 @@ export default {
     other {{max, number}}
   } vermeldingen.`,
     'enc.entries.limitReached': 'Je hebt het maximale aantal toegestane encyclopedievermeldingen bereikt voor je huidige abonnement.',
-    'enc.menuControls.ariaDesc': 'Encyclopediebediening',
     'encyclopedia.pronunciation.title': 'Uitspraak',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Werk in uitvoering',

@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'పూర్తి స్క్రీన్ నుండి వెళ్ళండి',
     'reader.details.universe': 'యూనివర్స్ వివరాలు',
     'reader.details.story': 'కథ వివరాలు',
-    'reader.darkmode': 'డార్క్ మోడ్‌ను టాగిల్ చేయండి',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'టెక్స్ట్ పరిమాణాన్ని టాగిల్ చేయండి',
     'reader.menu.optionsAria': 'రీడర్ ఎంపికల మెను',
     'reader.accessibility': 'ప్రాప్యత',

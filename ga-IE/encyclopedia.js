@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } .`,
     'enc.entries.limitReached': 'Tá tú tar éis teacht ar an líon is mó iontrálacha leabhair na heagna a cheadaítear le do síntiús reatha.',
-    'enc.menuControls.ariaDesc': 'Rialuithe na hEagnaíochta',
     'encyclopedia.pronunciation.title': 'Caint',
     'encyclopedia.wip.abbreviation': 'Faoi Mhíniú',
     'encyclopedia.wip.full': 'Obair i gCur Chun Cinn',

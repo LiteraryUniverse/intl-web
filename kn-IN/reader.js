@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'ಫುಲ್‌ಸ್ಕ್ರೀನ್‌ನಿಂದ ಹೊರಬಾರಿಸಿ',
     'reader.details.universe': 'ಯೂನಿವರ್ಸ್‌ ವಿವರಗಳು',
     'reader.details.story': 'ಕಥೆಯ ವಿವರಗಳು',
-    'reader.darkmode': 'ಡಾರ್ಕ್ ಮೋಡ್ ಟಾಗಲ್',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ಪಠ್ಯ ಗಾತ್ರವನ್ನು ಟಾಗಲ್ ಮಾಡಿ/ಹೊಂದಿಸಿ',
     'reader.menu.optionsAria': 'ಓದುಗರ ಆಯ್ಕೆ ಮೆನು',
     'reader.accessibility': 'ಪ್ರವೇಶಿಸಲು ಅನುಕೂಲತೆಗಳನ್ನು ಟಾಗಲ್ ಮಾಡಿ',

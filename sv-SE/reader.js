@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Avsluta helskärm',
     'reader.details.universe': 'Detaljer om universumet',
     'reader.details.story': 'Detaljer om historien',
-    'reader.darkmode': 'Växla till mörkt läge',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Växla textstorlek',
     'reader.menu.optionsAria': 'Meny för läsaralternativ',
     'reader.accessibility': 'Växla tillgänglighet',

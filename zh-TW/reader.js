@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': '退出全螢幕',
     'reader.details.universe': '宇宙詳情',
     'reader.details.story': '故事詳情',
-    'reader.darkmode': '切換暗模式',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': '切換文字大小',
     'reader.menu.optionsAria': '閱讀選項選單',
     'reader.accessibility': '切換無障礙模式',

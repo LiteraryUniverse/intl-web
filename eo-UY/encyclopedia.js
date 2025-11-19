@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } enigaĵoj.`,
     'enc.entries.limitReached': 'Vi atingis la maksimuman permesitan nombron de enigaĵoj en la enciklopedio por via nuna abono.',
-    'enc.menuControls.ariaDesc': 'Stiriloj de enciklopedio',
     'encyclopedia.pronunciation.title': 'Elparolo',
     'encyclopedia.wip.abbreviation': 'En konstruo',
     'encyclopedia.wip.full': 'Laboro en progreso',

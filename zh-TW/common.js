@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': '本內容由 AI 協助建立',
     'common.aiContent.model': 'AI 機型： {model}',
     'common.aiContent.custom': '自訂 AI 模型',
-    'common.viewAll': '檢視全部',
-    'notice.thankYou': '感謝您的支持！',
-    'common.dropImageHere': '在此投放圖片',
-    'common.legal.publishingAgreement': '出版協議',
-    'upload.dragAndDrop': '將檔案拖放至此，或按一下以選取檔案',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': '宇宙封面圖片為 {story}。',
-    'common.license': '許可證',
-    'common.new': '新款'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };
