@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2025-11-19 - v2.20.0
+
+* New strings for tours and comparisons
+
 ## 2025-10-30 - v2.19.0
 
 * Added `common.new`

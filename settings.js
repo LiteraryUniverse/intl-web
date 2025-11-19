@@ -1,11 +1,11 @@
-export type LanguageSettingsType = {
-  code: string
-  name: string
-  native: string
-  defaultLocale: string
-  supportedLocales: string[]
-  rtl: boolean
-}
+// export type LanguageSettingsType = {
+//   code: string
+//   name: string
+//   native: string
+//   defaultLocale: string
+//   supportedLocales: string[]
+//   rtl: boolean
+// }
 
 const languages = [
   {
@@ -255,10 +255,10 @@ export const settings = {
    * Get the array of language codes of supported languages
    * @returns {[String]}
    */
-  supportedLanguages(): string[] {
+  supportedLanguages() {
     return languages.map((lang) => lang.code) || []
   },
-  allSupportedLocales(): string[] {
+  allSupportedLocales() {
     const supported = []
     for (const lang of this.languages) {
       for (const locale of lang.supportedLocales) {
@@ -267,11 +267,20 @@ export const settings = {
     }
     return supported
   },
-  supportedLocalesForLanguage(languageCode: string): string[] {
+  /**
+   * @param languageCode {String}
+   * @returns {*[String]}
+   */
+  supportedLocalesForLanguage(languageCode) {
     const langDetails = this.languages.find((lang) => lang.code === languageCode)
     return [langDetails.code, ...langDetails.supportedLocales]
   },
-  findLanguageCodeByLocale(locale: string): string {
+  /**
+   *
+   * @param locale {String}
+   * @returns {string|*|string}
+   */
+  findLanguageCodeByLocale(locale) {
     if (!locale) return 'en'
     if (locale.length === 2 && this.supportedLanguages().includes(locale)) {
       return locale
@@ -289,7 +298,7 @@ export const settings = {
    * @returns {({defaultLocale: string, code: string, supportedLocales: [string, string, string, string, string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean})[]}
    * TODO remove the function as it is not needed
    */
-  storyLanguages(): LanguageSettingsType[] {
+  storyLanguages() {
     return [
       ...languages,
       {
@@ -398,7 +407,11 @@ export const settings = {
       },
     ]
   },
-  storyLocales(): string[] {
+  /**
+   *
+   * @returns {string[]}
+   */
+  storyLocales() {
     return this.storyLanguages().map((lang) => lang.code)
   },
   /**
@@ -446,7 +459,7 @@ export const settings = {
    * @param countryCode {String} 2-key country string
    * @returns {String} 3-key currency string
    */
-  currencyByCountry(countryCode: string): string {
+  currencyByCountry(countryCode) {
     if (!countryCode) return 'EUR'
     const code = countryCode.toUpperCase()
     switch (code) {
@@ -853,10 +866,10 @@ export const settings = {
   characterBasedLanguages: ['ja', 'ko', 'zh', 'zh-CN', 'zh-TW', 'zh-HK', 'th'],
   /**
    * Check if a language uses characters instead of words for counting
-   * @param language - Language code (e.g., 'ja', 'en', 'zh')
-   * @returns true if the language uses character-based counting
+   * @param language {String} - Language code (e.g., 'ja', 'en', 'zh')
+   * @returns {Boolean} true if the language uses character-based counting
    */
-  isCharacterBasedLanguage(language: string): boolean {
+  isCharacterBasedLanguage(language) {
     return this.characterBasedLanguages.includes(language)
   },
 }
