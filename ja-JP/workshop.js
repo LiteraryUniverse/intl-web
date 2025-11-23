@@ -339,5 +339,16 @@ export default {
     'workshop.timer.duration.timer.desc': 'How long you plan to write in this session. Start with 25-50 minutes for focused work, or set longer sessions (2-4 hours) for deep writing days.',
     'workshop.timer.duration.countdown.desc': 'Target writing time before the timer ends. Try 25 minutes for focused sprints, 45-60 minutes for substantial work sessions, or 90 minutes for creative deep dives.',
     'workshop.timer.workDuration.desc': 'Length of focused work sessions. Traditional Pomodoro uses 25 minutes. Try 15-20 minutes if you find it hard to concentrate for longer periods, or 45-50 minutes for experienced writers who can maintain deep focus.',
-    'workshop.timer.breakDuration.desc': 'Rest period between work sessions. Standard is 5 minutes for short breaks. Use 10-15 minutes for longer breaks that allow you to step away from your desk, stretch, or get a drink. Every 4th break is automatically longer (2-3x duration).'
+    'workshop.timer.breakDuration.desc': 'Rest period between work sessions. Standard is 5 minutes for short breaks. Use 10-15 minutes for longer breaks that allow you to step away from your desk, stretch, or get a drink. Every 4th break is automatically longer (2-3x duration).',
+    'workshop.llmstxt': 'AI Access',
+    'workshop.llmstxt.blocked': 'Blocked - LLMs cannot access your content',
+    'workshop.llmstxt.free': 'Free - LLMs can access your content for free',
+    'workshop.llmstxt.paid': 'Paid - LLMs can access your content for a fee (coming soon)',
+    'workshop.ai.llmstxt.generate': 'Generate LLMs.txt',
+    'workshop.ai.llmstxt.generating': 'Generating LLMs.txt...',
+    'workshop.ai.llmstxt.download': 'Download LLMs.txt',
+    'workshop.ai.llmstxt.title': 'Texts for AI services',
+    'workshop.ai.agent.title': 'Assistant',
+    'workshop.ai.llmstxt.story-info': 'Story Info LLMs.txt',
+    'workshop.ai.llmstxt.full-content': 'Full Content LLMs.txt'
 };
