@@ -350,5 +350,9 @@ export default {
     'workshop.ai.llmstxt.title': 'Texts for AI services',
     'workshop.ai.agent.title': 'Assistant',
     'workshop.ai.llmstxt.story-info': 'Story Info LLMs.txt',
-    'workshop.ai.llmstxt.full-content': 'Full Content LLMs.txt'
+    'workshop.ai.llmstxt.full-content': 'Full Content LLMs.txt',
+    'workshop.ai.llmstxt.info': 'Info LLMs.txt - Basic information for AI',
+    'workshop.ai.llmstxt.infoShort': 'Basic information',
+    'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
+    'workshop.ai.llmstxt.fullShort': 'Full content'
 };
