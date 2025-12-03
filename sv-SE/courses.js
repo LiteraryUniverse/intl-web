@@ -19,7 +19,6 @@ export default {
   'course.create': 'Skapa en ny kurs',
   'course.reading.title': 'Läsförståelse uppgiftstitel',
   'course.question.add': 'Lägg till fråga',
-  'course.add.courseElement': 'Lägg till ett nytt kursmoment',
   'course.lessons.newMessage': 'Skapa och organisera dina lektioner för effektiv undervisning',
   'course.reading.new': 'Läsförståelse uppgift',
   'course.reading.newMessage': 'Skapa och organisera läsförståelse uppgifter för dina elever',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Aktivitet',
   'course.active.message': 'Aktiv',
   'course.inactive': 'Inaktiv',
-  'course.module.edit': 'Redigera modulens namn',
   'course.upload.resource': 'Ladda upp en resurs',
   'course.question.answer': 'Lägg till svar',
   'course.question.open': 'Öppen fråga',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Endast text',
   'course.lesson.content': 'Innehåll i lektionerna',
   'course.lesson.description': 'Offentlig beskrivning',
-  'course.add.module': 'Lägg till ny modul',
   'course.add.story': 'Lägg till berättelse',
   'course.remove.story': 'Ta bort berättelsen',
   'course.dateOfPublish': 'Datum för publicering',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Inga läroplaner tillgängliga ännu.',
   'course.preview.message':
     'Detta är en förhandsvisning av kursen. Gå med i kursen för att få tillgång till allt innehåll.',
-  'course.modules.locked': '{count} mer {count, plural, one {modul} other {moduler}} (låst)',
   'course.details': 'Detaljer om kursen',
   'course.tab.curriculum': 'Läroplan',
   'course.tab.details': 'Detaljer om kursen',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Förkunskapskrav',
   'course.tags': 'Etiketter',
   'course.stats.members': 'Medlemmar',
-  'course.stats.modules': 'Moduler',
   'course.stats.lessons': 'Lektioner',
   'course.assignments.comingSoon': 'Uppdragsvyn kommer inom kort.',
   'course.progress.comingSoon': 'Uppföljning av framsteg kommer snart.',
@@ -162,7 +157,6 @@ export default {
   'course.curriculum.preview.message':
     'Gå med i den här kursen för att få tillgång till alla {count} lektioner och uppgifter.',
   'course.curriculum.locked': 'Låst',
-  'course.curriculum.module': 'Modul',
   'course.curriculum.lesson': 'Lektion',
   'course.curriculum.assignment': 'Uppdrag',
   'course.curriculum.reading': 'Läsning',
@@ -174,5 +168,4 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuellt klassrum',
   'course.lesson.joinClassroom': 'Delta i den virtuella klassrumssessionen',
   'course.lesson.enterClassroom': 'Gå in i klassrummet',
-  'courses.module.defaultTitle': 'Modul {count, number}',
 };
