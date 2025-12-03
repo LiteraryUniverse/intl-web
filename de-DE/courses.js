@@ -19,7 +19,6 @@ export default {
   'course.create': 'Ein neuer Kurs erstellen',
   'course.reading.title': 'Titel der Leseaufgabe',
   'course.question.add': 'Frage hinzufügen',
-  'course.add.courseElement': 'Einen neuen Kursbaustein hinzufügen',
   'course.lessons.newMessage': 'Erstellen und organisieren Sie Ihre Lektionen für einen effektiven Unterricht',
   'course.reading.new': 'Leseaufgabe',
   'course.reading.newMessage': 'Erstellen und organisieren Sie Leseaufträge für Ihre Studenten',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Aktivität',
   'course.active.message': 'Aktiv',
   'course.inactive': 'Inaktiv',
-  'course.module.edit': 'Modulname bearbeiten',
   'course.upload.resource': 'Eine Ressource hochladen',
   'course.question.answer': 'Antwort hinzufügen',
   'course.question.open': 'Offene Frage',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Nur Text',
   'course.lesson.content': 'Inhalt der Lektion',
   'course.lesson.description': 'Öffentliche Beschreibung',
-  'course.add.module': 'Neues Modul hinzufügen',
   'course.add.story': 'Geschichte hinzufügen',
   'course.remove.story': 'Geschichte entfernen',
   'course.dateOfPublish': 'Datum der Veröffentlichung',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Noch keine Lehrplanartikel verfügbar.',
   'course.preview.message':
     'Dies ist eine Vorschau des Kurses. Melden Sie sich für den Kurs an, um auf alle Inhalte zuzugreifen.',
-  'course.modules.locked': '{count} mehr {count, plural, one {Modul} other {Module}} (gesperrt)',
   'course.details': 'Kurs-Details',
   'course.tab.curriculum': 'Lehrplan',
   'course.tab.details': 'Kurs-Details',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Voraussetzungen',
   'course.tags': 'Tags',
   'course.stats.members': 'Mitglieder',
-  'course.stats.modules': 'Module',
   'course.stats.lessons': 'Lektionen',
   'course.assignments.comingSoon': 'Die Ansicht Zuweisungen wird bald verfügbar sein.',
   'course.progress.comingSoon': 'Die Fortschrittsverfolgung kommt bald.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Melden Sie sich für diesen Kurs an, um Zugang zu allen {count} Lektionen und Aufgaben zu erhalten.',
   'course.curriculum.locked': 'Gesperrt',
-  'course.curriculum.module': 'Modul',
   'course.curriculum.lesson': 'Lektion',
   'course.curriculum.assignment': 'Zuweisung',
   'course.curriculum.reading': 'Lesen',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuelles Klassenzimmer',
   'course.lesson.joinClassroom': 'Nehmen Sie an der Sitzung im virtuellen Klassenzimmer teil',
   'course.lesson.enterClassroom': 'Klassenzimmer betreten',
-  'courses.module.defaultTitle': 'Modul {count, number}',
 };
