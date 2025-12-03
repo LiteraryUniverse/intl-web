@@ -19,7 +19,6 @@ export default {
   'course.create': 'Sukurti naują kursą',
   'course.reading.title': 'Skaitymo užduoties pavadinimas',
   'course.question.add': 'Pridėti klausimą',
-  'course.add.courseElement': 'Pridėti naują kurso elementą',
   'course.lessons.newMessage': 'Kurkite ir organizuokite pamokas, kad mokymas būtų veiksmingas',
   'course.reading.new': 'Skaitymo užduotis',
   'course.reading.newMessage': 'Kurkite ir organizuokite skaitymo užduotis mokiniams',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Veikla',
   'course.active.message': 'Aktyvus',
   'course.inactive': 'Neaktyvus',
-  'course.module.edit': 'Redaguoti modulio pavadinimą',
   'course.upload.resource': 'Įkelti išteklių',
   'course.question.answer': 'Pridėti atsakymą',
   'course.question.open': 'Atviras klausimas',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Tik tekstas',
   'course.lesson.content': 'Pamokos turinys',
   'course.lesson.description': 'Viešasis aprašymas',
-  'course.add.module': 'Pridėti naują modulį',
   'course.add.story': 'Pridėti istoriją',
   'course.remove.story': 'Pašalinti istoriją',
   'course.dateOfPublish': 'Paskelbimo data',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Dar nėra mokymo programos elementų.',
   'course.preview.message':
     'Tai yra kurso peržiūra. Prisijunkite prie kurso, kad galėtumėte susipažinti su visu turiniu.',
-  'course.modules.locked': '{count} daugiau {count, plural, one {modulis} other {moduliai}} (užrakinta)',
   'course.details': 'Išsami informacija apie kursą',
   'course.tab.curriculum': 'Mokymo programa',
   'course.tab.details': 'Išsami informacija apie kursą',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Būtinosios sąlygos',
   'course.tags': 'Žymos',
   'course.stats.members': 'Nariai',
-  'course.stats.modules': 'Moduliai',
   'course.stats.lessons': 'Pamokos',
   'course.assignments.comingSoon': 'Netrukus pasirodys užduočių rodinys.',
   'course.progress.comingSoon': 'Netrukus bus pradėtas pažangos stebėjimas.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Prisijunkite prie šio kurso ir galėsite naudotis visomis {count} pamokomis ir užduotimis.',
   'course.curriculum.locked': 'Užrakinta',
-  'course.curriculum.module': 'Modulis',
   'course.curriculum.lesson': 'Pamokos',
   'course.curriculum.assignment': 'Užduotis',
   'course.curriculum.reading': 'Skaitymas',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuali klasė',
   'course.lesson.joinClassroom': 'Prisijunkite prie virtualios klasės sesijos',
   'course.lesson.enterClassroom': 'Įeikite į klasę',
-  'courses.module.defaultTitle': 'Modulis {count, number}',
 };
