@@ -19,7 +19,6 @@ export default {
   'course.create': 'Создать новый курс',
   'course.reading.title': 'Заголовок задания на чтение',
   'course.question.add': 'Добавить вопрос',
-  'course.add.courseElement': 'Добавить новый элемент курса',
   'course.lessons.newMessage': 'Создайте и организуйте свои уроки для эффективного преподавания',
   'course.reading.new': 'Задание на чтение',
   'course.reading.newMessage': 'Создайте и организуйте задания на чтение для ваших студентов',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Активность',
   'course.active.message': 'Активный',
   'course.inactive': 'Неактивный',
-  'course.module.edit': 'Изменить имя модуля',
   'course.upload.resource': 'Загрузите ресурс',
   'course.question.answer': 'Добавить ответ',
   'course.question.open': 'Открытый вопрос',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Только текст',
   'course.lesson.content': 'Содержание урока',
   'course.lesson.description': 'Публичное описание',
-  'course.add.module': 'Добавить новый модуль',
   'course.add.story': 'Добавить историю',
   'course.remove.story': 'Удалить историю',
   'course.dateOfPublish': 'Дата выпуска',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Пока нет доступных предметов учебного плана.',
   'course.preview.message':
     'Это предварительный просмотр курса. Присоединитесь к курсу, чтобы получить доступ ко всему содержимому.',
-  'course.modules.locked': '{count} больше {count, plural, one {модуль} other {модули}} (заблокировано)',
   'course.details': 'Подробности курса',
   'course.tab.curriculum': 'Учебный план',
   'course.tab.details': 'Подробности курса',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Пререквизиты',
   'course.tags': 'Теги',
   'course.stats.members': 'Члены',
-  'course.stats.modules': 'Модули',
   'course.stats.lessons': 'Уроки',
   'course.assignments.comingSoon': 'Просмотр заданий скоро появится.',
   'course.progress.comingSoon': 'Отслеживание прогресса скоро появится.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Присоединяйтесь к этому курсу, чтобы получить доступ ко всем урокам и заданиям {count} .',
   'course.curriculum.locked': 'Заблокированный',
-  'course.curriculum.module': 'Модуль',
   'course.curriculum.lesson': 'Урок',
   'course.curriculum.assignment': 'Задание',
   'course.curriculum.reading': 'Чтение',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Виртуальный класс',
   'course.lesson.joinClassroom': 'Присоединяйтесь к сессии виртуального класса',
   'course.lesson.enterClassroom': 'Войдите в классную комнату',
-  'courses.module.defaultTitle': 'Модуль {count, number}',
 };
