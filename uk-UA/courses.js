@@ -19,7 +19,6 @@ export default {
   'course.create': 'Створити новий курс',
   'course.reading.title': 'Назва завдання для читання',
   'course.question.add': 'Додати питання',
-  'course.add.courseElement': 'Додати новий елемент курсу',
   'course.lessons.newMessage': 'Створюйте та організовуйте свої уроки для ефективного викладання',
   'course.reading.new': 'Завдання для читання',
   'course.reading.newMessage': 'Створюйте та організовуйте завдання з читання для своїх учнів',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Діяльність',
   'course.active.message': 'Активний',
   'course.inactive': 'Неактивний',
-  'course.module.edit': 'Редагувати назву модуля',
   'course.upload.resource': 'Завантажити ресурс',
   'course.question.answer': 'Додати відповідь',
   'course.question.open': 'Відкрите питання',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Тільки текст',
   'course.lesson.content': 'Зміст уроку',
   'course.lesson.description': 'Публічний опис',
-  'course.add.module': 'Додати новий модуль',
   'course.add.story': 'Додати історію',
   'course.remove.story': 'Видалити історію',
   'course.dateOfPublish': 'Дата публікації',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Наразі немає жодного предмету навчальної програми.',
   'course.preview.message':
     'Це попередній перегляд курсу. Приєднуйтесь до курсу, щоб отримати доступ до всього контенту.',
-  'course.modules.locked': '{count} більше {count, plural, one {модуль} other {модулі}} (заблоковано)',
   'course.details': 'Деталі курсу',
   'course.tab.curriculum': 'Навчальна програма',
   'course.tab.details': 'Деталі курсу',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Передумови',
   'course.tags': 'Теги',
   'course.stats.members': 'Члени',
-  'course.stats.modules': 'Модулі',
   'course.stats.lessons': 'Уроки',
   'course.assignments.comingSoon': "Незабаром з'явиться перегляд призначень.",
   'course.progress.comingSoon': 'Незабаром ми відстежуватимемо прогрес.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Приєднуйтесь до цього курсу, щоб отримати доступ до всіх уроків та завдань {count} .',
   'course.curriculum.locked': 'Закрито.',
-  'course.curriculum.module': 'Модуль',
   'course.curriculum.lesson': 'Урок',
   'course.curriculum.assignment': 'Завдання',
   'course.curriculum.reading': 'Читання',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Віртуальний клас',
   'course.lesson.joinClassroom': 'Приєднуйтесь до віртуального заняття',
   'course.lesson.enterClassroom': 'Увійдіть до класу',
-  'courses.module.defaultTitle': 'Модуль {count, number}',
 };
