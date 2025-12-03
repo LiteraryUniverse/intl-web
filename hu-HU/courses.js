@@ -19,7 +19,6 @@ export default {
   'course.create': 'Új kurzus létrehozása',
   'course.reading.title': 'Olvasási feladat címe',
   'course.question.add': 'Kérdés hozzáadása',
-  'course.add.courseElement': 'Új kurzuselem hozzáadása',
   'course.lessons.newMessage': 'Hozzon létre és szervezzen leckéket a hatékony tanítás érdekében',
   'course.reading.new': 'Olvasási feladat',
   'course.reading.newMessage': 'Hozzon létre és szervezzen olvasási feladatokat diákjai számára',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Tevékenység',
   'course.active.message': 'Aktív',
   'course.inactive': 'Inaktív',
-  'course.module.edit': 'A modul nevének szerkesztése',
   'course.upload.resource': 'Erőforrás feltöltése',
   'course.question.answer': 'Válasz hozzáadása',
   'course.question.open': 'Nyitott kérdés',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Csak szöveg',
   'course.lesson.content': 'A lecke tartalma',
   'course.lesson.description': 'Nyilvános leírás',
-  'course.add.module': 'Új modul hozzáadása',
   'course.add.story': 'Történet hozzáadása',
   'course.remove.story': 'Történet eltávolítása',
   'course.dateOfPublish': 'A közzététel dátuma',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Még nem állnak rendelkezésre tantervi elemek.',
   'course.preview.message':
     'Ez a tanfolyam előzetese. Csatlakozzon a tanfolyamhoz, hogy hozzáférjen az összes tartalomhoz.',
-  'course.modules.locked': '{count} more {count, plural, one {module} other {modules}} (locked)',
   'course.details': 'Tanfolyam részletei',
   'course.tab.curriculum': 'Tanterv',
   'course.tab.details': 'Tanfolyam részletei',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Előfeltételek',
   'course.tags': 'Címkék',
   'course.stats.members': 'Tagok',
-  'course.stats.modules': 'Modulok',
   'course.stats.lessons': 'Leckék',
   'course.assignments.comingSoon': 'A Feladatok nézet hamarosan megjelenik.',
   'course.progress.comingSoon': 'A haladás nyomon követése hamarosan megjelenik.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Csatlakozzon ehhez a tanfolyamhoz, hogy hozzáférjen az összes {count} leckéhez és feladathoz.',
   'course.curriculum.locked': 'Zárva',
-  'course.curriculum.module': 'Modul',
   'course.curriculum.lesson': 'Lecke',
   'course.curriculum.assignment': 'Megbízás',
   'course.curriculum.reading': 'Olvasás',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuális tanterem',
   'course.lesson.joinClassroom': 'Csatlakozzon a virtuális tantermi foglalkozáshoz',
   'course.lesson.enterClassroom': 'Belépés az osztályterembe',
-  'courses.module.defaultTitle': 'Modul {count, number}',
 };
