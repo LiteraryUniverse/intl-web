@@ -19,7 +19,6 @@ export default {
   'course.create': 'Een nieuwe cursus aanmaken',
   'course.reading.title': 'Titel leesopdracht',
   'course.question.add': 'Vraag toevoegen',
-  'course.add.courseElement': 'Een nieuw cursuselement toevoegen',
   'course.lessons.newMessage': 'Maak en organiseer uw lessen voor effectief lesgeven',
   'course.reading.new': 'Leesopdracht',
   'course.reading.newMessage': 'Leesopdrachten voor uw leerlingen maken en organiseren',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Activiteit',
   'course.active.message': 'Actief',
   'course.inactive': 'Inactief',
-  'course.module.edit': 'Modulenaam bewerken',
   'course.upload.resource': 'Een bron uploaden',
   'course.question.answer': 'Antwoord toevoegen',
   'course.question.open': 'Open vraag',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Alleen tekst',
   'course.lesson.content': 'Inhoud van de les',
   'course.lesson.description': 'Openbare beschrijving',
-  'course.add.module': 'Nieuwe module toevoegen',
   'course.add.story': 'Verhaal toevoegen',
   'course.remove.story': 'Verhaal verwijderen',
   'course.dateOfPublish': 'Datum van publicatie',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Er zijn nog geen lesprogramma-items beschikbaar.',
   'course.preview.message':
     'Dit is een voorproefje van de cursus. Sluit u aan bij de cursus om toegang te krijgen tot alle inhoud.',
-  'course.modules.locked': '{count} meer {count, plural, one {module} other {modules}} (vergrendeld)',
   'course.details': 'Cursusdetails',
   'course.tab.curriculum': 'Curriculum',
   'course.tab.details': 'Cursusdetails',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Vereisten',
   'course.tags': 'Tags',
   'course.stats.members': 'Leden',
-  'course.stats.modules': 'Modules',
   'course.stats.lessons': 'Lessen',
   'course.assignments.comingSoon': 'De opdrachtweergave komt er binnenkort aan.',
   'course.progress.comingSoon': 'Het bijhouden van de voortgang komt er binnenkort aan.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Word lid van deze cursus om toegang te krijgen tot alle {count} lessen en opdrachten.',
   'course.curriculum.locked': 'Gesloten',
-  'course.curriculum.module': 'Module',
   'course.curriculum.lesson': 'Les',
   'course.curriculum.assignment': 'Opdracht',
   'course.curriculum.reading': 'Lezen',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Virtueel klaslokaal',
   'course.lesson.joinClassroom': 'Doe mee aan de virtuele klassikale sessie',
   'course.lesson.enterClassroom': 'Klaslokaal binnengaan',
-  'courses.module.defaultTitle': 'Module {count, number}',
 };

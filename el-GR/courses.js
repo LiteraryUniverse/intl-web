@@ -19,7 +19,6 @@ export default {
   'course.create': 'Δημιουργία νέου μαθήματος',
   'course.reading.title': 'Τίτλος ανάθεσης ανάγνωσης',
   'course.question.add': 'Προσθήκη ερώτησης',
-  'course.add.courseElement': 'Προσθέστε ένα νέο στοιχείο μαθήματος',
   'course.lessons.newMessage': 'Δημιουργήστε και οργανώστε τα μαθήματά σας για αποτελεσματική διδασκαλία',
   'course.reading.new': 'Ανάθεση ανάγνωσης',
   'course.reading.newMessage': 'Δημιουργήστε και οργανώστε εργασίες ανάγνωσης για τους μαθητές σας',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Δραστηριότητα',
   'course.active.message': 'Ενεργό',
   'course.inactive': 'Ανενεργό',
-  'course.module.edit': 'Επεξεργασία ονόματος ενότητας',
   'course.upload.resource': 'Ανεβάστε έναν πόρο',
   'course.question.answer': 'Προσθέστε απάντηση',
   'course.question.open': 'Ανοιχτή ερώτηση',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Μόνο κείμενο',
   'course.lesson.content': 'Περιεχόμενο μαθήματος',
   'course.lesson.description': 'Δημόσια περιγραφή',
-  'course.add.module': 'Προσθήκη νέας ενότητας',
   'course.add.story': 'Προσθέστε ιστορία',
   'course.remove.story': 'Αφαιρέστε την ιστορία',
   'course.dateOfPublish': 'Ημερομηνία δημοσίευσης',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Δεν υπάρχουν ακόμα διαθέσιμα στοιχεία για το πρόγραμμα σπουδών.',
   'course.preview.message':
     'Αυτή είναι μια προεπισκόπηση του μαθήματος. Εγγραφείτε στο μάθημα για να έχετε πρόσβαση σε όλο το περιεχόμενο.',
-  'course.modules.locked': '{count} more {count, plural, one {module} other {modules}} (locked)',
   'course.details': 'Λεπτομέρειες μαθήματος',
   'course.tab.curriculum': 'Πρόγραμμα σπουδών',
   'course.tab.details': 'Λεπτομέρειες μαθήματος',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Προαπαιτούμενα',
   'course.tags': 'Ετικέτες',
   'course.stats.members': 'Μέλη',
-  'course.stats.modules': 'Ενότητες',
   'course.stats.lessons': 'Μαθήματα',
   'course.assignments.comingSoon': 'Η προβολή των αναθέσεων έρχεται σύντομα.',
   'course.progress.comingSoon': 'Η παρακολούθηση της προόδου έρχεται σύντομα.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Εγγραφείτε σε αυτό το μάθημα για να αποκτήσετε πρόσβαση σε όλα τα μαθήματα και τις εργασίες του {count} .',
   'course.curriculum.locked': 'Κλειδωμένο',
-  'course.curriculum.module': 'Ενότητα',
   'course.curriculum.lesson': 'Μάθημα',
   'course.curriculum.assignment': 'Ανάθεση',
   'course.curriculum.reading': 'Ανάγνωση',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Εικονική αίθουσα διδασκαλίας',
   'course.lesson.joinClassroom': 'Συμμετέχετε στην εικονική αίθουσα διδασκαλίας',
   'course.lesson.enterClassroom': 'Είσοδος στην αίθουσα διδασκαλίας',
-  'courses.module.defaultTitle': 'Ενότητα {count, number}',
 };

@@ -308,6 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Tento obsah byl vytvořen s pomocí AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Vlastní model AI',
-    'common.characters': 'characters',
-    'common.words': 'words'
+    'common.characters': 'znaky',
+    'common.words': 'slova'
 };

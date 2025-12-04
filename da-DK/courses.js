@@ -19,7 +19,6 @@ export default {
   'course.create': 'Opret en ny kursus',
   'course.reading.title': 'Titel på læseopgave',
   'course.question.add': 'Tilføj spørgsmål',
-  'course.add.courseElement': 'Tilføj et nyt kursuselement',
   'course.lessons.newMessage': 'Skab og organiser dine lektioner til effektiv undervisning',
   'course.reading.new': 'Læseopgave',
   'course.reading.newMessage': 'Opret og organiser læseopgaver til dine studerende',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Aktivitet',
   'course.active.message': 'Aktiv',
   'course.inactive': 'Inaktiv',
-  'course.module.edit': 'Rediger modulets navn',
   'course.upload.resource': 'Upload en ressource',
   'course.question.answer': 'Tilføj svar',
   'course.question.open': 'Åbent spørgsmål',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Kun tekst',
   'course.lesson.content': 'Lektionens indhold',
   'course.lesson.description': 'Offentlig beskrivelse',
-  'course.add.module': 'Tilføj nyt modul',
   'course.add.story': 'Tilføj historie',
   'course.remove.story': 'Fjern historien',
   'course.dateOfPublish': 'Dato for udgivelse',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Intet pensum tilgængeligt endnu.',
   'course.preview.message':
     'Dette er en forhåndsvisning af kurset. Tilmeld dig kurset for at få adgang til alt indhold.',
-  'course.modules.locked': '{count} mere {count, plural, one {modul} other {moduler}} (låst)',
   'course.details': 'Detaljer om kurset',
   'course.tab.curriculum': 'Læseplan',
   'course.tab.details': 'Detaljer om kurset',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Forudsætninger',
   'course.tags': 'Tags',
   'course.stats.members': 'Medlemmer',
-  'course.stats.modules': 'Moduler',
   'course.stats.lessons': 'Lektioner',
   'course.assignments.comingSoon': 'Opgavevisning kommer snart.',
   'course.progress.comingSoon': 'Sporing af fremskridt kommer snart.',
@@ -162,7 +157,6 @@ export default {
   'course.curriculum.preview.message':
     'Tilmeld dig dette kursus for at få adgang til alle {count} lektioner og opgaver.',
   'course.curriculum.locked': 'Låst',
-  'course.curriculum.module': 'Modul',
   'course.curriculum.lesson': 'Lektion',
   'course.curriculum.assignment': 'Opgave',
   'course.curriculum.reading': 'Læsning',
@@ -174,5 +168,4 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuelt klasseværelse',
   'course.lesson.joinClassroom': 'Deltag i den virtuelle klasseværelsessession',
   'course.lesson.enterClassroom': 'Gå ind i klasseværelset',
-  'courses.module.defaultTitle': 'Modul {count, number}',
 };

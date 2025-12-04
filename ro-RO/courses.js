@@ -19,7 +19,6 @@ export default {
   'course.create': 'Creați un curs nou',
   'course.reading.title': 'Titlul temei de lectură',
   'course.question.add': 'Adaugă întrebare',
-  'course.add.courseElement': 'Adăugați un nou element de curs',
   'course.lessons.newMessage': 'Creați și organizați-vă lecțiile pentru o predare eficientă',
   'course.reading.new': 'Sarcina de lectură',
   'course.reading.newMessage': 'Creați și organizați sarcini de lectură pentru elevii dvs.',
@@ -49,7 +48,6 @@ export default {
   'course.active': 'Activitate',
   'course.active.message': 'Activ',
   'course.inactive': 'Inactiv',
-  'course.module.edit': 'Editați numele modulului',
   'course.upload.resource': 'Încărcați o resursă',
   'course.question.answer': 'Adaugă răspuns',
   'course.question.open': 'Întrebare deschisă',
@@ -64,7 +62,6 @@ export default {
   'course.lesson.text': 'Numai text',
   'course.lesson.content': 'Conținutul lecției',
   'course.lesson.description': 'Descriere publică',
-  'course.add.module': 'Adăugați un modul nou',
   'course.add.story': 'Adaugă o poveste',
   'course.remove.story': 'Eliminați povestea',
   'course.dateOfPublish': 'Data publicării',
@@ -102,7 +99,6 @@ export default {
   'course.curriculum.empty': 'Nu există încă elemente de curriculum disponibile.',
   'course.preview.message':
     'Aceasta este o previzualizare a cursului. Înscrieți-vă la curs pentru a accesa tot conținutul.',
-  'course.modules.locked': '{count} more {count, plural, one {module} other {module}} (blocat)',
   'course.details': 'Detalii despre curs',
   'course.tab.curriculum': 'Curriculum',
   'course.tab.details': 'Detalii despre curs',
@@ -114,7 +110,6 @@ export default {
   'course.prerequisites': 'Condiții prealabile',
   'course.tags': 'Etichete',
   'course.stats.members': 'Membri',
-  'course.stats.modules': 'Module',
   'course.stats.lessons': 'Lecții',
   'course.assignments.comingSoon': 'Vizualizarea sarcinilor va apărea în curând.',
   'course.progress.comingSoon': 'Urmărirea progresului se va face în curând.',
@@ -163,7 +158,6 @@ export default {
   'course.curriculum.preview.message':
     'Alăturați-vă acestui curs pentru a accesa toate lecțiile și sarcinile {count} .',
   'course.curriculum.locked': 'Blocat',
-  'course.curriculum.module': 'Modul',
   'course.curriculum.lesson': 'Lecția',
   'course.curriculum.assignment': 'Atribuire',
   'course.curriculum.reading': 'Lectura',
@@ -175,5 +169,4 @@ export default {
   'course.lesson.virtualClassroom': 'Sală de clasă virtuală',
   'course.lesson.joinClassroom': 'Participați la sesiunea de clasă virtuală',
   'course.lesson.enterClassroom': 'Intrați în sala de clasă',
-  'courses.module.defaultTitle': 'Modul {count, number}',
 };
