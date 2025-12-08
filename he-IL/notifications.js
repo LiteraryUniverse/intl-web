@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'מנהל Flashnews',
   'flashnews.create': 'צור  תצוגת חדשות חטיבה',
   'flashnews.startsAt': 'התחל להציג את ההודעה בתאריך',
   'flashnews.endsAt': 'הפסק להציג את ההודעה בתאריך',
   'flashnews.newLanguage': 'בחר שפה חדשה להוסיף',
   'flashnews.onlyDisplayOn': 'החדשות יתווספו רק בשפה הנבחרת למטה (אם נבחרו), לא יוצגו חדישות באף שפה אחרת, גם לא בשפת ברירת המחדל.',
+  'flashnews.current': 'חדשות פלאש פעילות',
   'notifications.menu.all': 'כל התראות',
   'notifications.menu.following': 'המעקבים שלי',
   'notifications.menu.workshop': 'סדנה',
