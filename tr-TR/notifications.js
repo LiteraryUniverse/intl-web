@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Yönetici',
   'flashnews.create': 'Yeni bir flaş haber oluşturun',
   'flashnews.startsAt': 'Bu mesajı şuradan itibaren göstermeye başla',
   'flashnews.endsAt': 'Bu mesajı şuradan itibaren göstermeyi durdur',
   'flashnews.newLanguage': 'Eklenecek yeni dil seç',
   'flashnews.onlyDisplayOn': 'Haberler sadece aşağıda seçilen dillerde gösterilecek (eğer herhangi bir dil seçili ise), diğer dillerde varsayılan dilde bile haber gösterilmeyecek.',
+  'flashnews.current': 'Aktif flashnews',
   'notifications.menu.all': 'Tüm bildirimler',
   'notifications.menu.following': 'Takip ettiğim',
   'notifications.menu.workshop': 'Atölye',
