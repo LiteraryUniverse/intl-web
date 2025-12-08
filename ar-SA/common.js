@@ -308,6 +308,6 @@ export default {
     'common.aiContent.tooltip': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
     'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
     'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
-    'common.characters': 'characters',
-    'common.words': 'words'
+    'common.characters': 'الشخصيات',
+    'common.words': 'الكلمات'
 };
