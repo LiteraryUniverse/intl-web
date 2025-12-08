@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Creați o notificare nouă',
   'flashnews.startsAt': 'Începeți afișarea acestui mesaj la',
   'flashnews.endsAt': 'Opriți afișarea acestui mesaj la',
   'flashnews.newLanguage': 'Selectați o limbă nouă pentru adăugare',
   'flashnews.onlyDisplayOn': 'Știrile vor fi afișate doar în limbile selectate mai jos (dacă este selectată o limbă), nu vor fi afișate știri nici măcar în limba implicită, în alte limbi.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'Toate notificările',
   'notifications.menu.following': 'Urmăririle',
   'notifications.menu.workshop': 'Ateliere',
