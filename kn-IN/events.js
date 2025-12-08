@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'ಖಾಸಗಿ - ನೀವು ಆಹ್ವಾನಿಸುವ ಜನರು ಮಾತ್ರ ಕಾರ್ಯಕ್ರಮವನ್ನು ನೋಡಬಹುದು',
   'events.inviting': 'ಈ ಕಾರ್ಯಕ್ರಮವನ್ನು ನೋಡುವವರು ಇತರರಿಗೆ ಆಹ್ವಾನಿಸಬಹುದೇ?',
   'events.administration': 'ಕಾರ್ಯಕ್ರಮಗಳ ನಿರ್ವಹಣೆ',
+  'events.admin': 'Events Admin',
   'events.create.title': 'ಹೊಸ ಕಾರ್ಯಕ್ರಮ ರಚಿಸಿ',
   'events.hostedBy': 'ಆಯೋಜಕ: {hostName}',
   'events.openVirtual': 'ವರ್ಚುವಲ್ ಸ್ಥಳಕ್ಕೆ ಹೋಗಿ',
