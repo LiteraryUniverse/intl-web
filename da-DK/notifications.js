@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews-administrator',
   'flashnews.create': 'Opret en ny nyhedsflash',
   'flashnews.startsAt': 'Start med at vise denne besked kl.',
   'flashnews.endsAt': 'Stop med at vise denne besked kl.',
   'flashnews.newLanguage': 'Vælg nyt sprog at tilføje',
   'flashnews.onlyDisplayOn': 'Nyheden vises kun på de valgte sprog nedenfor (hvis nogen er valgt), der vil ikke vises nogen nyheder, selv på standardsproget, på andre sprog.',
+  'flashnews.current': 'Aktive flashnyheder',
   'notifications.menu.all': 'Alle notifikationer',
   'notifications.menu.following': 'Følgende',
   'notifications.menu.workshop': 'Værksted',
