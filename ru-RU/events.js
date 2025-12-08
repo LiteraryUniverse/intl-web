@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Закрытое - событие увидят только приглашённые вами люди',
   'events.inviting': 'Могут ли люди, которые видят это событие, приглашать других?',
   'events.administration': 'Администрирование событий',
+  'events.admin': 'Администратор событий',
   'events.create.title': 'Создать новое событие',
   'events.hostedBy': 'Организатор: {hostName}',
   'events.openVirtual': 'Перейти к виртуальному местоположению',
