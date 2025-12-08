@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Quản trị viên Flashnews',
   'flashnews.create': 'Tạo một tin tức mới nhanh',
   'flashnews.startsAt': 'Bắt đầu hiển thị tin nhắn này từ',
   'flashnews.endsAt': 'Ngừng hiển thị tin nhắn này từ',
   'flashnews.newLanguage': 'Chọn ngôn ngữ mới để thêm',
   'flashnews.onlyDisplayOn': 'Tin tức sẽ chỉ hiển thị trên các ngôn ngữ đã chọn bên dưới (nếu có), không có tin tức nào được hiển thị, thậm chí trong ngôn ngữ mặc định, trong các ngôn ngữ khác.',
+  'flashnews.current': 'Tin tức nóng hổi',
   'notifications.menu.all': 'Tất cả thông báo',
   'notifications.menu.following': 'Theo dõi',
   'notifications.menu.workshop': 'Hội thảo',
