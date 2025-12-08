@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': '플래시뉴스 관리자',
   'flashnews.create': '새로운 뉴스 플래시 생성',
   'flashnews.startsAt': '이 메시지를 ~에서 표시 시작',
   'flashnews.endsAt': '이 메시지를 ~에서 표시 중단',
   'flashnews.newLanguage': '추가할 새로운 언어 선택',
   'flashnews.onlyDisplayOn': '뉴스는 아래에서 선택한 언어에서만 표시됩니다. 선택한 언어가 없으면 기본 언어로 표시되는 다른 언어에서는 뉴스가 표시되지 않습니다.',
+  'flashnews.current': '액티브 플래시 뉴스',
   'notifications.menu.all': '모든 알림',
   'notifications.menu.following': '팔로우 중인 항목',
   'notifications.menu.workshop': '작업장',

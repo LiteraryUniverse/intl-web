@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Opprett et nytt nyhetsvarsel',
   'flashnews.startsAt': 'Begynn å vise denne meldingen kl',
   'flashnews.endsAt': 'Slutt å vise denne meldingen kl',
   'flashnews.newLanguage': 'Velg nytt språk å legge til',
   'flashnews.onlyDisplayOn': 'Nyhetsvarsler vil kun bli vist på de valgte språkene nedenfor (hvis noen er valgt). Det vil ikke bli vist noen nyheter, selv på standard språk, på andre språk.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'Alle varsler',
   'notifications.menu.following': 'Følger',
   'notifications.menu.workshop': 'Verksted',

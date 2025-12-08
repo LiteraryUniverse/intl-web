@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'ko jdima lo nu zbasu fo lo se sukmadi se ctuca',
   'flashnews.startsAt': 'ko se temci lo ka tcini ti bo ta zmadu ti',
   'flashnews.endsAt': 'ko se temci lo ka tcini ti bo ta mleca ti',
   'flashnews.newLanguage': 'ko pilno lo bangu be lo nu ve kalri lo nu zasne ko',
   'flashnews.onlyDisplayOn': 'lo nu co\'e lo nu xamsi le\'i banzu lo velnu se jdice lo nu cnino co\'a nilmivyminde se galfi di\'ai lo kagai vei banzu vei gi\'a na banzu co\'a fau lo girzu ve\'o jersi sekai',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'co\'e cabna mu\'i lo nu prami ko',
   'notifications.menu.following': 'ko sutra fukpi',
   'notifications.menu.workshop': 'ko pinxe lo ckafi',

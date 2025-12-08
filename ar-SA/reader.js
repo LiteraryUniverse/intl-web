@@ -24,7 +24,7 @@ export default {
     'externalShopping.buyLink.other': 'شراء على {storeName}',
     'externalShopping.buyLink.bookshop': 'شراء على Bookshop.org',
     'reader.accessibility.aria': 'خيارات الوصول',
-    'reader.accessibility.toggleDyslexic': 'تبديل الخط المريضي (ديسلكسي)',
+    'reader.accessibility.toggleDyslexic': 'تبديل خط عسر القراءة',
     'reader.accessibility.toggleParagraphStripes': 'تبديل تغيير خلفية الفقرة',
     'reader.accessibility.toggleParagraphHighlight': 'تبديل تمييز الفقرة المحددة',
     'reader.accessibility.toggleRules': 'تبديل المساعد الجيوب',

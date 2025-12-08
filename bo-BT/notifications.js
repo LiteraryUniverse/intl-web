@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'གསརཔ་འགྱུར་གསལ་བཤད་གཏོང་བའི་གནས་བསྡུ་བསྐྱོད་པ།',
   'flashnews.startsAt': 'གནས་བསྡུ་འདི་སྟོན་པའི་སྐབས་དང་བཅུ་གཅིག་འབྲེལ་བ་བཞག་པ།',
   'flashnews.endsAt': 'གནས་བསྡུ་འདི་སྟོན་པའི་སྐབས་དང་བཅུ་གཅིག་རྗེས་བཞག་པ།',
   'flashnews.newLanguage': 'སྐད་རིགས་གཞན་ལ་གསརཔ་འགྱུར་གསལ་བཤད་འབད་བཞག་པ།',
   'flashnews.onlyDisplayOn': 'གནས་བསྡུ་འདི་སྟོན་པའི་སྐབས་དང་བཅུ་གཅིག་འབྲེལ་གནང་འགྱུར་འབྲེལ་བ་མེད་པའི་སྐབས་ལ་གསརཔ་བཞག་ནི། དེ་གིས་ཁ་བྱང་གིས་སྐབས་བརྡ་འགྱུར་མེད་པའི་སྐབས་ལ་གསརཔ་བཞག་ནི་འདི་དེའི་སྐབས་མེད་པའི་སྐབས་ལ་གསརཔ་བཞག་མི་འདུག',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'All notification',
   'notifications.menu.following': 'Following',
   'notifications.menu.workshop': 'Workshop',

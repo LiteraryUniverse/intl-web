@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Súkromné - udalosť uvidia len pozvaní ľudia',
   'events.inviting': 'Môžu ľudia, ktorí vidia túto udalosť, pozvať ďalších?',
   'events.administration': 'Správa udalostí',
+  'events.admin': 'Správca podujatí',
   'events.create.title': 'Vytvoriť novú udalosť',
   'events.hostedBy': 'Hostiteľ: {hostName}',
   'events.openVirtual': 'Prejsť na virtuálne miesto',

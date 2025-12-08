@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'បង្កើត​សារ​ពេលពេលថ្ងៃ​ថ្មី',
   'flashnews.startsAt': 'ចាប់ផ្ដើម​បង្ហាញ​សារ​នេះ​នៅពេល',
   'flashnews.endsAt': 'ឈប់​បង្ហាញ​សារ​នេះ​នៅពេល',
   'flashnews.newLanguage': 'ជ្រើស​ភាសា​ថែម​ថ្មី',
   'flashnews.onlyDisplayOn': 'សារ​នឹង​ត្រូវ​បាន​បង្ហាញ​តែតាម​ភាសា​ដែលបាន​ជ្រើស​នៅខាងក្រោម (ប្រសិនបើ​ជ្រើស​មិនបាន​គ្រាន់​តែ​អ្នក​ជ្រើស) ហើយ​មិនមាន​សារ​បង្ហាញ​បន្ថែម​ទេ ក្នុងភាសា​ដែល​អត់​បាន​ជ្រើស។',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'សារ​សុពលភាព​ទាំងអស់',
   'notifications.menu.following': 'ចូលរួម',
   'notifications.menu.workshop': 'សិទ្ធិ១',

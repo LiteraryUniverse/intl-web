@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'ส่วนตัว - เฉพาะคนที่คุณเชิญเท่านั้นที่จะเห็นกิจกรรม',
   'events.inviting': 'คนที่เห็นกิจกรรมนี้สามารถเชิญคนอื่นได้หรือไม่',
   'events.administration': 'การจัดการกิจกรรม',
+  'events.admin': 'ผู้ดูแลกิจกรรม',
   'events.create.title': 'สร้างกิจกรรมใหม่',
   'events.hostedBy': 'จัดขึ้นโดย {hostName}',
   'events.openVirtual': 'ไปยังตำแหน่งเสมือน',

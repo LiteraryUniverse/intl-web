@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': '私人 - 只有你邀請的人可以看到這個活動',
   'events.inviting': '看到這個活動的人可以邀請其他人嗎？',
   'events.administration': '活動管理',
+  'events.admin': '活動管理員',
   'events.create.title': '創建新活動',
   'events.hostedBy': '主辦： {hostName}',
   'events.openVirtual': '前往虛擬位置',

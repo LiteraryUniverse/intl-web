@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'ახალი სიახლეებისთვის შექმენით სიახლის გამოქვეყნება',
   'flashnews.startsAt': 'მიიწვიეთ შეტყობინება იმ მომენტიდან როდესაც',
   'flashnews.endsAt': 'შეაჩერეთ ამ შეტყობინების გამოქვეყნება იმ მომენტიდან როდესაც',
   'flashnews.newLanguage': 'აირჩიეთ ახალი ენა დამატებად',
   'flashnews.onlyDisplayOn': 'ამ სიახლის გამოქვეყნება მოხდება მხოლოდ არჩეული ენებით (თუ არამნაშინი მინიმუმ ერთი არჩეულია), სხვა ენებში არ გამოქვეყნება სიახლეები არაა, ჩვენს ტერმინებითა და მიზეზის მიხედვით',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'ყველა შეტყობინება',
   'notifications.menu.following': 'განათავსეთ',
   'notifications.menu.workshop': 'სასწავლო',

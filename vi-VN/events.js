@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Riêng tư - chỉ có những người bạn mời mới có thể xem sự kiện',
   'events.inviting': 'Người có thể mời người khác xem sự kiện này được không?',
   'events.administration': 'Quản lý sự kiện',
+  'events.admin': 'Quản trị sự kiện',
   'events.create.title': 'Tạo một sự kiện mới',
   'events.hostedBy': 'Được tổ chức bởi {hostName}',
   'events.openVirtual': 'Đi đến địa điểm ảo',

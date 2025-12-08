@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'പുതിയ വാർത്താ ഫ്ളാഷ് സൃഷ്ടിക്കുക',
   'flashnews.startsAt': 'ഈ സന്ദേശം തുടങ്ങുന്നതിൻ സ്ഥലം',
   'flashnews.endsAt': 'ഈ സന്ദേശം അവസാനിപ്പിക്കുന്നതിന്',
   'flashnews.newLanguage': 'ചേരുവക്കാരായ പുതിയ ഭാഷ തിരഞ്ഞെടുക്കുക',
   'flashnews.onlyDisplayOn': 'വാര്‍ത്തകൾ പ്രദർശിപ്പിക്കുന്നത് മാത്രമാക്കട്ടെ താങ്കളുടെ തിരഞ്ഞെടുക്കപ്പെട്ട ഭാഷകളിലേക്കാണ് ട്രാന്സ്മിറ്റ് ചെയ്യപ്പെടുന്നത് (താങ്കളിടയില് ഒരുപട്ടിയില്ലെങ്കിലും, അവ മറ്റ് ഭാഷകളിൽ മാത്രമേ കാണപ്പെടും).',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'എല്ലാ അറിയിപ്പുകളും',
   'notifications.menu.following': 'അനുസരണം',
   'notifications.menu.workshop': 'ക്രമശിക്ഷണം',

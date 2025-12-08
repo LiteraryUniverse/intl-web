@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Cruthaigh flaithis teangabhála nua',
   'flashnews.startsAt': 'Tosaíonn an teachtaireacht seo a thaispeáint ag',
   'flashnews.endsAt': 'Stop an teachtaireacht seo a thaispeáint ag',
   'flashnews.newLanguage': 'Roghnaigh teanga nua a chur leis',
   'flashnews.onlyDisplayOn': 'Beidh an scéala á sheinm ar na teangacha a roghnaítear thíos (mura roghnaítear aon cheannacha), ní bheidh aon scéal le feiceáil, fiú sa teanga réamhshocraithe, i dteangacha eile.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'Gach fógra',
   'notifications.menu.following': 'Ina dhiaidh seo',
   'notifications.menu.workshop': 'Ceardlann',

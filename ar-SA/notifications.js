@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'مسؤول أخبار فلاش نيوز',
   'flashnews.create': 'إنشاء إشعار جديد',
   'flashnews.startsAt': 'ابدأ عرض هذه الرسالة في',
   'flashnews.endsAt': 'توقف عن عرض هذه الرسالة في',
   'flashnews.newLanguage': 'اختر لغة جديدة للإضافة',
   'flashnews.onlyDisplayOn': 'سيتم عرض الأخبار فقط في اللغات المحددة أدناه (إذا تم تحديد أي لغة)، لن يتم عرض أي أخبار، حتى في اللغة الافتراضية، في اللغات الأخرى.',
+  'flashnews.current': 'فلاش نيوز نشط',
   'notifications.menu.all': 'كل الإشعارات',
   'notifications.menu.following': 'متابَعة',
   'notifications.menu.workshop': 'ورشة العمل',

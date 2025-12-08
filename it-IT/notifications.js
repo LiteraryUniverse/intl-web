@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Creare un nuovo flash news',
   'flashnews.startsAt': 'Inizia a visualizzare questo messaggio alle',
   'flashnews.endsAt': 'Smetti di visualizzare questo messaggio alle',
   'flashnews.newLanguage': 'Seleziona una nuova lingua da aggiungere',
   'flashnews.onlyDisplayOn': 'La notizia sarà visualizzata solo nelle lingue selezionate sottostanti (se ne sono state selezionate), non verranno mostrate notizie, nemmeno nella lingua predefinita, in altre lingue.',
+  'flashnews.current': 'Notizie flash attive',
   'notifications.menu.all': 'Tutte le notifiche',
   'notifications.menu.following': 'Seguenti',
   'notifications.menu.workshop': 'Laboratorio',

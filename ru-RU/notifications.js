@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Администратор Flashnews',
   'flashnews.create': 'Создать новую новость',
   'flashnews.startsAt': 'Запустить отображение этого сообщения',
   'flashnews.endsAt': 'Остановить отображение этого сообщения',
   'flashnews.newLanguage': 'Выберите новый язык для добавления',
   'flashnews.onlyDisplayOn': 'Новости будут отображаться только на выбранных ниже языках (если они выбраны), на других языках новости, даже на языке по умолчанию, отображаться не будут.',
+  'flashnews.current': 'Активные flashnews',
   'notifications.menu.all': 'Все уведомления',
   'notifications.menu.following': 'Отслеживания',
   'notifications.menu.workshop': 'Мастерская',

@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Ιδιωτικό - μόνο οι άνθρωποι που προσκαλείτε θα δουν την εκδήλωση',
   'events.inviting': 'Μπορούν οι άνθρωποι που βλέπουν αυτήν την εκδήλωση να προσκαλέσουν άλλους;',
   'events.administration': 'Διαχείριση εκδηλώσεων',
+  'events.admin': 'Διαχειριστής εκδηλώσεων',
   'events.create.title': 'Δημιουργία νέας εκδήλωσης',
   'events.hostedBy': 'Φιλοξενούμενο από {hostName}',
   'events.openVirtual': 'Μετάβαση στην εικονική τοποθεσία',

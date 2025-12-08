@@ -64,7 +64,7 @@ export default {
     'feedback.help.featuredVideos': 'فيديوهات مميزة',
     'feedback.help.subCategories': 'الفئات الفرعية',
     'feedback.resolution.title': 'Resolution center',
-    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.resolution.desc': 'إدارة وحل الانتهاكات المبلغ عنها',
     'feedback.reportType.aiGenerated': 'AI-generated content',
     'feedback.resolution.aiGeneration': 'AI Generation Status',
     'feedback.resolution.aiGenerated': 'AI Generated',

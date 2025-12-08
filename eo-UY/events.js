@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privata - nur homoj, kiujn vi invitas, vidos la eventon',
   'events.inviting': 'Ĉu homoj, kiuj vidas ĉi tiun eventon, povas inviti aliajn?',
   'events.administration': 'Administro de eventoj',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Krei novan eventon',
   'events.hostedBy': 'Gastigita de {hostName}',
   'events.openVirtual': 'Iri al virtuala loko',

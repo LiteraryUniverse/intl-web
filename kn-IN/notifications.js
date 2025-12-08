@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'ಹೊಸ ಸುದ್ದಿ ಫ್ಲಾಷ್ ರಚಿಸಿ',
   'flashnews.startsAt': 'ಈ ಸುದ್ದಿಯನ್ನು ಪ್ರದರ್ಶಿಸಲು ಆರಂಭಿಸುವುದು',
   'flashnews.endsAt': 'ಈ ಸುದ್ದಿಯನ್ನು ಪ್ರದರ್ಶಿಸುವುದು ನಿಲ್ಲುವುದು',
   'flashnews.newLanguage': 'ಹೊಸ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಲು',
   'flashnews.onlyDisplayOn': 'ಸುದ್ದಿಗೆ ಮಾತ್ರ ಕೆಳಗೆ ಆಯ್ಕೆಮಾಡಿದ ಭಾಷೆಯ ಮೇಲೆ (ಯಾವುದೇ ಆಯ್ಕೆಯಾಗಲಿ), ಉಳಿದ ಭಾಷೆಗಳಲ್ಲಿ ಯಾವುದೇ ಸುದ್ದಿಯೂ ತೋರಿಯಾಗುವುದಿಲ್ಲ.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'ಎಲ್ಲಾ ಅಧಿಸೂಚನೆ',
   'notifications.menu.following': 'ಅನುಸರಣೆ',
   'notifications.menu.workshop': 'ಕಾರ್ಯಾಗಾರ',

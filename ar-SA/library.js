@@ -6,7 +6,7 @@ export default {
     'library.universes': 'الأكوان المتبعة',
     'bookmark.continueReading': 'متابعة القراءة',
     'bookmark.statusSummary': 'لقد قرأت {readPercent, number, ::percent} من القصة.',
-    'library.search.prompt': 'Search your library to find content',
-    'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search.prompt': 'ابحث في مكتبتك للعثور على المحتوى',
+    'library.yourLibrary': 'مكتبتك',
+    'library.search': 'ابحث في مكتبتك'
 };

@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Príobháideach - ní féidir le daoine ach tú cuireadh a fháil chun an imeacht a fheiceáil',
   'events.inviting': 'An féidir le daoine a fheiceáil an ócáid seo cuireadh a thabhairt do dhaoine eile?',
   'events.administration': 'Riarachán Imeachtaí',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Cruthaigh ócáid nua',
   'events.hostedBy': 'Á hóstáil ag {hostName}',
   'events.openVirtual': 'Téigh chuig an áit fhíorúil',

@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'కొత్త న్యూస్ ఫ్లాష్ సృష్టించండి',
   'flashnews.startsAt': 'ఈ సందేశాన్ని  ప్రదర్శింపడం ప్రారంభించడానికి',
   'flashnews.endsAt': 'ఈ సందేశాన్ని  ప్రదర్శించడం ఆపుకోడానికి',
   'flashnews.newLanguage': 'జత నేపథ్యంలో కొత్త భాషను ఎంచుకోండి',
   'flashnews.onlyDisplayOn': 'ఈ న్యూస్ ఇచ్చిన భాషలలో (అయినా మీరు ఏ అయినా ఎంచుకోవచ్చు) మాత్రమే ప్రదర్శించబడుతుంది, ఇతర భాషలలో అంటే ప్రముఖ భాషలో ఏ న్యూస్ కూడా కనబడదు.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'అన్ని ప్రకటనలు',
   'notifications.menu.following': 'అనుసరించే వారు',
   'notifications.menu.workshop': 'కార్యశాల',

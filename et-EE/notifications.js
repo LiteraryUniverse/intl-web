@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews admin',
   'flashnews.create': 'Loo uus uudiste välk',
   'flashnews.startsAt': 'Alustage selle sõnumi kuvamist kell',
   'flashnews.endsAt': 'Lõpetage selle sõnumi kuvamine kell',
   'flashnews.newLanguage': 'Valige uus keel, et lisada',
   'flashnews.onlyDisplayOn': 'Uudised kuvatakse ainult allpool valitud keelte puhul (kui üldse valitud), teistes keeltes uudiseid ei kuvata isegi vaikimisi keeles.',
+  'flashnews.current': 'Aktiivne flashnews',
   'notifications.menu.all': 'Kõik teated',
   'notifications.menu.following': 'Järgmine',
   'notifications.menu.workshop': 'Töötuba',

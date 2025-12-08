@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Skapa en ny nyhetsflash',
   'flashnews.startsAt': 'Börja visa detta meddelande kl.',
   'flashnews.endsAt': 'Sluta visa detta meddelande kl.',
   'flashnews.newLanguage': 'Välj ett nytt språk att lägga till',
   'flashnews.onlyDisplayOn': 'Nyheter visas enbart på de valda språken nedan (om några valts), det kommer inte visas några nyheter, inte ens på standardspråket, på andra språk.',
+  'flashnews.current': 'Aktiva flashnyheter',
   'notifications.menu.all': 'Alla meddelanden',
   'notifications.menu.following': 'Följande',
   'notifications.menu.workshop': 'Verkstad',

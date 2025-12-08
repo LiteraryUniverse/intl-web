@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'ప్రైవేట్ - మీరు ఆహ్వానించిన వారు మాత్రమే ఈ ఈవెంట్ చూడగలరు',
   'events.inviting': 'ఈ ఈవెంట్‌ని చూస్తున్న వారు ఇతరులను ఆహ్వానించవచ్చారా?',
   'events.administration': 'ఈవెంట్స్ నిర్వహణ',
+  'events.admin': 'Events Admin',
   'events.create.title': 'కొత్త ఈవెంట్ సృష్టించండి',
   'events.hostedBy': '{hostName}ద్వారా ఆయోజించబడుతుంది',
   'events.openVirtual': 'వర్చువల్ ప్రాంతానికి వెళ్ళండి',

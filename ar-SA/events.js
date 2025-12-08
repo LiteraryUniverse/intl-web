@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'خاص - فقط الأشخاص الذين تدعوهم سيرون الحدث',
   'events.inviting': 'هل يمكن للأشخاص الذين يرون هذا الحدث دعوة آخرين؟',
   'events.administration': 'إدارة الأحداث',
+  'events.admin': 'مسؤول الفعاليات',
   'events.create.title': 'إنشاء حدث جديد',
   'events.hostedBy': 'مستضافة بواسطة {hostName}',
   'events.openVirtual': 'الانتقال إلى الموقع الافتراضي',

@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privat: només les persones convidades veuran l\'esdeveniment',
   'events.inviting': 'Les persones que veuen aquest esdeveniment poden convidar altres?',
   'events.administration': 'Administració d\'esdeveniments',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Crear un nou esdeveniment',
   'events.hostedBy': 'Organitzat per {hostName}',
   'events.openVirtual': 'Anar a la ubicació virtual',

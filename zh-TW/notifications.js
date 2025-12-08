@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews 管理員',
   'flashnews.create': '創建一個新的新聞快訊',
   'flashnews.startsAt': '開始顯示這個消息',
   'flashnews.endsAt': '停止顯示這個消息',
   'flashnews.newLanguage': '選擇要添加的新語言',
   'flashnews.onlyDisplayOn': '這則新聞只會顯示在以下所選的語言上（如果有選的話），其他語言將不會有新聞顯示，即使默認語言也不會顯示。',
+  'flashnews.current': '活躍 flashnews',
   'notifications.menu.all': '所有通知',
   'notifications.menu.following': '關注的',
   'notifications.menu.workshop': '研討會',

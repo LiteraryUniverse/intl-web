@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'フラッシュニュース管理者',
   'flashnews.create': '新しいニュースフラッシュを作成',
   'flashnews.startsAt': 'このメッセージの表示を開始：',
   'flashnews.endsAt': 'このメッセージの表示を停止：',
   'flashnews.newLanguage': '追加する新しい言語を選択する',
   'flashnews.onlyDisplayOn': 'ニュースは、以下で選択された言語（選択されている場合）のみで表示され、他の言語ではデフォルト言語であっても表示されません。',
+  'flashnews.current': 'アクティブなフラッシュニュース',
   'notifications.menu.all': 'すべての通知',
   'notifications.menu.following': 'フォロー中',
   'notifications.menu.workshop': 'ワークショップ',

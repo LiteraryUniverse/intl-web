@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Gumawa ng isang bagong flash news',
   'flashnews.startsAt': 'Magsimula ng pagpapakita ng mensaheng ito sa',
   'flashnews.endsAt': 'Tumigil sa pagpapakita ng mensaheng ito sa',
   'flashnews.newLanguage': 'Pili ng bagong wika na idadagdag',
   'flashnews.onlyDisplayOn': 'Ang balita ay ipapakita lamang sa mga piniling wika sa ibaba (kung mayroong piniling wika), walang ipapakitang balita, kahit sa pangunahing wika, sa ibang mga wika.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'Lahat ng abiso',
   'notifications.menu.following': 'Sumusunod',
   'notifications.menu.workshop': 'Pagpupulong',

@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privat - bare personer du inviterer vil se arrangementet',
   'events.inviting': 'Kan personer som ser dette arrangementet invitere andre?',
   'events.administration': 'Arrangementadministrasjon',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Opprett et nytt arrangement',
   'events.hostedBy': 'Vertskap av {hostName}',
   'events.openVirtual': 'Gå til virtuell plassering',

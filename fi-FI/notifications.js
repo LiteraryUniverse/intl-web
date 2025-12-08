@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews admin',
   'flashnews.create': 'Luo uusi uutisilmoitus',
   'flashnews.startsAt': 'Aloita tämän viestin näyttäminen',
   'flashnews.endsAt': 'Lopeta tämän viestin näyttäminen',
   'flashnews.newLanguage': 'Valitse uusi kieli lisättäväksi',
   'flashnews.onlyDisplayOn': 'Uutisia näytetään vain valituilla kielillä (jos mitään on valittu), muilla kielillä ei näytetä uutisia, edes oletuskielellä.',
+  'flashnews.current': 'Aktiivinen flashnews',
   'notifications.menu.all': 'Kaikki ilmoitukset',
   'notifications.menu.following': 'Seuraaminen',
   'notifications.menu.workshop': 'Työpaja',

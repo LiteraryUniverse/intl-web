@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Crea un nou avís de notícies',
   'flashnews.startsAt': 'Comença a mostrar aquest missatge a',
   'flashnews.endsAt': 'Deixa de mostrar aquest missatge a',
   'flashnews.newLanguage': 'Selecciona un nou idioma per afegir',
   'flashnews.onlyDisplayOn': 'Les notícies només es mostraran en els idiomes seleccionats a continuació (si n\'hi ha algun seleccionat), no es mostrarà cap notícia, ni tan sols en l\'idioma per defecte, en altres idiomes.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'Totes les notificacions',
   'notifications.menu.following': 'Seguint',
   'notifications.menu.workshop': 'Taller',

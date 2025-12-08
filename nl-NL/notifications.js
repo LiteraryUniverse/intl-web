@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Maak een nieuwe nieuwflits aan',
   'flashnews.startsAt': 'Begin met het weergeven van dit bericht om',
   'flashnews.endsAt': 'Stop met het weergeven van dit bericht om',
   'flashnews.newLanguage': 'Selecteer nieuwe taal om toe te voegen',
   'flashnews.onlyDisplayOn': 'Het nieuws zal alleen worden weergegeven in de geselecteerde talen hieronder (indien geselecteerd), er zal geen nieuws worden getoond, zelfs niet in de standaardtaal, in andere talen.',
+  'flashnews.current': 'Actief flashnieuws',
   'notifications.menu.all': 'Alle meldingen',
   'notifications.menu.following': 'Volgend',
   'notifications.menu.workshop': 'Workshop',

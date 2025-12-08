@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'নতুন নিউজ ফ্ল্যাশ তৈরি করুন',
   'flashnews.startsAt': 'এই মেসেজ টি প্রদর্শন শুরু করুন',
   'flashnews.endsAt': 'এই মেসেজ টি প্রদর্শন বন্ধ করুন',
   'flashnews.newLanguage': 'নতুন ভাষা যোগ করতে নির্বাচন করুন',
   'flashnews.onlyDisplayOn': 'এ সংবাদ কেবলমাত্র নীচে নির্বাচিত ভাষাতে (যদি কোন ভাষা নির্বাচন করা হয়) প্রদর্শন করা হবে, অন্য কোন ভাষায় কোন সংবাদ প্রদর্শন করা হবে না, যদি কোন ভাষা নির্বাচন করা না হয়ে থাকে।',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'সমস্ত বিজ্ঞপ্তি',
   'notifications.menu.following': 'অনুসরণ করা হয়েছে',
   'notifications.menu.workshop': 'কর্মশালা',

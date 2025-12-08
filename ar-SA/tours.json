@@ -4,9 +4,9 @@
     "previous": "السابق",
     "skip": "تخطي الجولة",
     "close": "جولة قريبة",
-    "end": "End Tour",
-    "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close"
+    "end": "إنهاء الجولة",
+    "progress": "الخطوة {current, number} من {total, number}",
+    "keyboardHint": "استخدم مفاتيح الأسهم للتنقل و ESC للإغلاق"
   },
   "dashboard": {
     "title": "Welcome to Your Dashboard",
@@ -24,8 +24,8 @@
         "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
       },
       "discovery": {
-        "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "title": "استكشاف",
+        "content": "استكشف القصص والأكوان التي أنشأها مستخدمون آخرون. اقرأ ما وراء الكواليس ومنشورات المدونة المتعمقة من المؤلفين. ابحث عن قراءتك المفضلة التالية!"
       },
       "social": {
         "title": "Social",
@@ -36,29 +36,29 @@
         "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
       },
       "notifications": {
-        "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "title": "الإشعارات",
+        "content": "ابق على اطلاع دائم بالتعليقات والمتابعات والتفاعلات المجتمعية الأخرى."
       },
       "messages": {
-        "title": "Messages",
+        "title": "الرسائل",
         "content": "Communicate with other writers, beta readers, and collaborate on projects."
       },
       "profile": {
-        "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "title": "الملف الشخصي",
+        "content": "قم بإدارة معلوماتك الشخصية وتفضيلاتك وإعدادات حسابك."
       },
       "workshop": {
-        "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "title": "ورشة العمل",
+        "content": "مساحتك الإبداعية للكتابة والتحرير وإدارة قصصك وعوالمك."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "مكتبتك",
+        "content": "يمكنك الوصول إلى جميع قصصك المحفوظة وقوائم القراءة والمحتوى الذي تم تنزيله في مكان واحد."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "قائمة الوصول السريع",
+      "content": "يوفر هذا الشريط الجانبي وصولاً سريعاً إلى الميزات والأدوات المهمة."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
@@ -72,7 +72,7 @@
     "readerActionButton": "Go to Discovery"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "مرحباً بك في ورشة العمل الخاصة بك",
     "welcome": {
       "title": "Welcome to Literary Universe Workshop",
       "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
@@ -82,7 +82,7 @@
       "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
     },
     "ownWork": {
-      "title": "Your Creative Works",
+      "title": "أعمالك الإبداعية",
       "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
     },
     "universe": {
@@ -98,11 +98,11 @@
       "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
     },
     "collaborative": {
-      "title": "Collaborative Works",
+      "title": "الأعمال التعاونية",
       "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
     },
     "translations": {
-      "title": "Translations",
+      "title": "الترجمة",
       "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
     },
     "betaReadings": {

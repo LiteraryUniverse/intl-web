@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews διαχειριστής',
   'flashnews.create': 'Δημιουργία νέας ενημέρωσης ειδήσεων',
   'flashnews.startsAt': 'Έναρξη εμφάνισης αυτού του μηνύματος στις',
   'flashnews.endsAt': 'Τερματισμός εμφάνισης αυτού του μηνύματος στις',
   'flashnews.newLanguage': 'Επιλέξτε νέα γλώσσα για προσθήκη',
   'flashnews.onlyDisplayOn': 'Οι ειδήσεις θα εμφανίζονται μόνο στις επιλεγμένες παρακάτω γλώσσες (εάν έχουν επιλεγεί), δεν θα εμφανίζονται καθόλου ειδήσεις, ακόμα και στην προεπιλεγμένη γλώσσα, σε άλλες γλώσσες.',
+  'flashnews.current': 'Ενεργά flashnews',
   'notifications.menu.all': 'Όλες οι ειδοποιήσεις',
   'notifications.menu.following': 'Ακολουθούμενα',
   'notifications.menu.workshop': 'Εργαστήριο',

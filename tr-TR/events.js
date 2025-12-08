@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Özel - sadece davet ettiğiniz kişiler etkinliği görebilir',
   'events.inviting': 'Bu etkinliği gören insanlar başkalarını davet edebilir mi?',
   'events.administration': 'Etkinlik yönetimi',
+  'events.admin': 'Etkinlik Yöneticisi',
   'events.create.title': 'Yeni bir etkinlik oluştur',
   'events.hostedBy': 'Tarafından düzenleniyor {hostName}',
   'events.openVirtual': 'Sanal konuma git',

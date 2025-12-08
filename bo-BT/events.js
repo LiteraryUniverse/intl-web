@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Private - only people you invite will see the event',
   'events.inviting': 'Can people who see this event invite others?',
   'events.administration': 'བྱེད་རིམ་གྱི་སྒྲིག་འབྱེད།',
+  'events.admin': 'Events Admin',
   'events.create.title': 'བྱེད་རིམ་གཅིག་བཟུང་འབྱེད།',
   'events.hostedBy': '{hostName}གི་བརྗོད་བྱེད་འབྱེད་པ།',
   'events.openVirtual': 'འཕྲོགས་པ་གསརཔ་བརྗོད་ལུ་སྒྲིག་འབྱེད་ནི།',
