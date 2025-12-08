@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'ખાનગી - ફક્ત તમે આમંત્રિત કરેલા લોકો ઈવેન્ટ જોઈ શકશે',
   'events.inviting': 'આ ઘટના જોઈને લોકો બીજાને આમંત્રિત કરી શકે છે?',
   'events.administration': 'ઘટનાઓ વ્યવસ્થાપન',
+  'events.admin': 'Events Admin',
   'events.create.title': 'નવી ઘટના બનાવો',
   'events.hostedBy': '{hostName}દ્વારા આયોજિત',
   'events.openVirtual': 'વર્ચ્યુઅલ સ્થાન પર જાઓ',
