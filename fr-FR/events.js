@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privé - seules les personnes que vous invitez verront l\'événement',
   'events.inviting': 'Les personnes qui voient cet événement peuvent-elles en inviter d\'autres ?',
   'events.administration': 'Administration des événements',
+  'events.admin': 'Administration des événements',
   'events.create.title': 'Créer un nouvel événement',
   'events.hostedBy': 'Hébergé par {hostName}',
   'events.openVirtual': 'Aller à l\'emplacement virtuel',
