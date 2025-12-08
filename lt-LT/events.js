@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privatus - tik kviečiami žmonės matys įvykį',
   'events.inviting': 'Ar žmonės, kurie mato šį renginį, gali pakviesti kitus?',
   'events.administration': 'Renginių administravimas',
+  'events.admin': 'Renginių administratorius',
   'events.create.title': 'Kurti naują renginį',
   'events.hostedBy': 'Organizuoja {hostName}',
   'events.openVirtual': 'Eiti į virtualią vietą',
