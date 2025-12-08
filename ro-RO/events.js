@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privat - doar persoanele invitate vor vedea evenimentul',
   'events.inviting': 'Pot persoanele care văd acest eveniment să invite alții?',
   'events.administration': 'Administrare evenimente',
+  'events.admin': 'Administratorul evenimentelor',
   'events.create.title': 'Creați un eveniment nou',
   'events.hostedBy': 'Găzduit de {hostName}',
   'events.openVirtual': 'Accesați locația virtuală',
