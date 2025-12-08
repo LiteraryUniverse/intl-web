@@ -88,7 +88,7 @@ export default {
     'licenseChooser.exclusivity.yes': 'Yes, I want to publish exclusively on Literary Universe',
     'licenseChooser.exclusivity.yes.title': 'نعم، حصرياً على موقع "عالم الأدب',
     'licenseChooser.exclusivity.yes.description': 'لن أنشر هذا العمل إلا على موقع "الكون الأدبي".',
-    'licenseChooser.exclusivity.no': 'No, I want to publish elsewhere as well',
+    'licenseChooser.exclusivity.no': 'لا، أريد النشر في مكان آخر أيضاً',
     'licenseChooser.exclusivity.no.title': 'لا، أريد أن أنشر في مكان آخر أيضاً',
     'licenseChooser.exclusivity.no.description': 'أريد نشر هذا العمل على منصات أخرى أيضاً.',
     'licenseChooser.exclusivity.exclusive.note': 'مع النشر الحصري على موقع Literary Universe، ستستفيد من رسوم منصة أقل بنسبة 10%. وهذا يعني أنك تحتفظ بـ 90% من أرباحك.',
