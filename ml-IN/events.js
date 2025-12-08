@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'സ്വകാര്യമായി - നിങ്ങൾ ആഹ്വാനിച്ചവർ മാത്രം ഈ ഇവന്റ് കാണാം',
   'events.inviting': 'Can people who see this event invite others?',
   'events.administration': 'Events administration',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Create a new event',
   'events.hostedBy': 'Hosted by {hostName}',
   'events.openVirtual': 'Go to virtual location',
