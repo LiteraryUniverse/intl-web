@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'ผู้ดูแลระบบ Flashnews',
   'flashnews.create': 'สร้างข่าวเร็วใหม่',
   'flashnews.startsAt': 'เริ่มแสดงข้อความนี้เมื่อ',
   'flashnews.endsAt': 'หยุดแสดงข้อความนี้เมื่อ',
   'flashnews.newLanguage': 'เลือกภาษาใหม่ที่ต้องการเพิ่ม',
   'flashnews.onlyDisplayOn': 'ข่าวจะถูกแสดงเฉพาะในภาษาที่เลือกด้านล่างเท่านั้น (หากมีการเลือก) ไม่มีข่าวแสดงขึ้นแม้แต่ภาษาเริ่มต้นในภาษาอื่น ๆ',
+  'flashnews.current': 'ข่าวด่วนแบบแอคทีฟ',
   'notifications.menu.all': 'การแจ้งเตือนทั้งหมด',
   'notifications.menu.following': 'ติดตาม',
   'notifications.menu.workshop': 'เวิร์กช็อป',
