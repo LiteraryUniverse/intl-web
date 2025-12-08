@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Peribadi - hanya orang yang anda jemput yang akan melihat acara ini',
   'events.inviting': 'Bolehkah orang yang melihat acara ini menjemput orang lain?',
   'events.administration': 'Pentadbiran Acara',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Cipta acara baru',
   'events.hostedBy': 'Dijana oleh {hostName}',
   'events.openVirtual': 'Pergi ke lokasi maya',
