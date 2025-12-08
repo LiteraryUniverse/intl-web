@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privat - endast personer du bjuder in kan se evenemanget',
   'events.inviting': 'Kan personer som ser detta evenemang bjuda in andra?',
   'events.administration': 'Evenemangshantering',
+  'events.admin': 'Evenemang Admin',
   'events.create.title': 'Skapa ett nytt evenemang',
   'events.hostedBy': 'Arrangeras av {hostName}',
   'events.openVirtual': 'Gå till virtuell plats',
