@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'নতুন নিউজ ফ্লাশ তৈরি কৰক',
   'flashnews.startsAt': 'এই বার্তা প্ৰদর্শন কৰাত আৰম্ভ কৰক',
   'flashnews.endsAt': 'বার্তা প্ৰদৰ্শন সৰু কৰক',
   'flashnews.newLanguage': 'নতুন ভাষা যোগ কৰিবলৈ নিৰ্বাচন কৰক',
   'flashnews.onlyDisplayOn': 'নির্বাচিত ভাষাত কেৱলমাত্ৰ এই খবৰটো প্ৰদৰ্শিত হয়, বাকী ভাষাতে কোনো খবৰ প্ৰদর্শন কৰা হ\'ব নেই।',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'সকলো জাননি',
   'notifications.menu.following': 'অনুসৰণ কৰা হয়.',
   'notifications.menu.workshop': 'শিল্প শিক্ষাৰ্থী',
