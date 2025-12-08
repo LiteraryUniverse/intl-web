@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privat - kun de inviterede kan se begivenheden',
   'events.inviting': 'Kan personer, der ser denne begivenhed, invitere andre?',
   'events.administration': 'Begivenhedsadministration',
+  'events.admin': 'Event-administrator',
   'events.create.title': 'Opret en ny begivenhed',
   'events.hostedBy': 'Arrangeret af {hostName}',
   'events.openVirtual': 'Gå til virtuel placering',
