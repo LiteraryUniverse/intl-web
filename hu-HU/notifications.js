@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews admin',
   'flashnews.create': 'Hír villanás létrehozása',
   'flashnews.startsAt': 'A üzenet megjelenítésének kezdete',
   'flashnews.endsAt': 'A üzenet megjelenítésének vége',
   'flashnews.newLanguage': 'Válassz új nyelvet hozzáadáshoz',
   'flashnews.onlyDisplayOn': 'Az hírt csak a kiválasztott nyelveken fogják megjeleníteni (ha bármi ki van választva), nincs hírt sem a többi nyelven, még az alapértelmezett nyelven sem.',
+  'flashnews.current': 'Aktív flashnews',
   'notifications.menu.all': 'Összes értesítés',
   'notifications.menu.following': 'Követés',
   'notifications.menu.workshop': 'Műhely',
