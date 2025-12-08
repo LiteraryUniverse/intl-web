@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Cipta berita kilat baru',
   'flashnews.startsAt': 'Mula paparkan mesej ini pada',
   'flashnews.endsAt': 'Hentikan paparan mesej ini pada',
   'flashnews.newLanguage': 'Pilih bahasa baru untuk ditambah',
   'flashnews.onlyDisplayOn': 'Berita akan dipaparkan hanya dalam bahasa yang dipilih di bawah (jika ada yang dipilih), tidak akan ada berita yang ditunjukkan, bahkan dalam bahasa lalai, dalam bahasa lain.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'Semua pemberitahuan',
   'notifications.menu.following': 'Mengikuti',
   'notifications.menu.workshop': 'Bengkel',
