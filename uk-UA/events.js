@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Приватна - подію можуть бачити тільки запрошені особи',
   'events.inviting': 'Чи можуть люди, які бачать цю подію, запрошувати інших?',
   'events.administration': 'Адміністрування подій',
+  'events.admin': 'Адміністратор подій',
   'events.create.title': 'Створити нову подію',
   'events.hostedBy': 'Організовано {hostName}',
   'events.openVirtual': 'Перейти до віртуального місця',
