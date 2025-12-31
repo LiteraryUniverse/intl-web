@@ -1,5 +1,11 @@
 # Changelog for languages
 
+## 2025-12-31 - v2.21.0
+
+* 3 new flashnews strings
+* Advance sharing strings
+* 
+
 ## 2025-11-19 - v2.20.0
 
 * New strings for tours and comparisons
