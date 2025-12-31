@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Fanų nustatymai',
     'story.chapter': 'Skyrius',
     'story.chapters': 'Skyriai',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Į pavadinimą įtraukite visatą',
     'story.genre': 'Žanras',
     'story.genres': 'Žanrai',
     'story.read': 'Skaityti',
