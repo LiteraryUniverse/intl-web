@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Fan settings',
     'story.chapter': 'અધ્યાય',
     'story.chapters': 'અધ્યાયો',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'જાતિ',
     'story.genres': 'જાતિઓ',
     'story.read': 'વાંચો',
