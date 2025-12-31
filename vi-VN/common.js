@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Cài đặt fan',
     'story.chapter': 'Chương',
     'story.chapters': 'Các chương',
+    'story.chapter.withStory': '{story} {chapter}',
+    'story.includeUniverse': 'Bảo gồm vũ trụ trong tiêu đề',
     'story.genre': 'Thể loại',
     'story.genres': 'Các thể loại',
     'story.read': 'Đọc',
