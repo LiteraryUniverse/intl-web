@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Fan settings',
     'story.chapter': 'פרק',
     'story.chapters': 'פרקים',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'כלול את היקום בכותרת',
     'story.genre': 'ז\'אנר',
     'story.genres': 'ז\'אנרים',
     'story.read': 'קרא',
