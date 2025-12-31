@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Fänniseaded',
     'story.chapter': 'Peatükk',
     'story.chapters': 'Peatükid',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Kaasa universum pealkirjas',
     'story.genre': 'Žanr',
     'story.genres': 'Žanrid',
     'story.read': 'Loe',
