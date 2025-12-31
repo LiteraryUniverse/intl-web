@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Nastavenia fanúšikovské tvorby',
     'story.chapter': 'Kapitola',
     'story.chapters': 'Kapitoly',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Zahrnúť vesmír do názvu',
     'story.genre': 'Žáner',
     'story.genres': 'Žánre',
     'story.read': 'Prečítajte si',
