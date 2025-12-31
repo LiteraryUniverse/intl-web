@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Tetapan peminat',
     'story.chapter': 'Bab',
     'story.chapters': 'Bab-bab',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'Genre',
     'story.genres': 'Genre-genre',
     'story.read': 'Baca',
