@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ആരാധക ക്രമീകരണങ്ങൾ',
     'story.chapter': 'അദ്ധ്യായം',
     'story.chapters': 'അദ്ധ്യായങ്ങൾ',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'രാസം',
     'story.genres': 'രാസങ്ങൾ',
     'story.read': 'വായിക്കുക',
