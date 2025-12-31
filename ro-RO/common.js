@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Setări ale fanilor',
     'story.chapter': 'Capitol',
     'story.chapters': 'Capitole',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Includeți universul în titlu',
     'story.genre': 'Gen',
     'story.genres': 'Genuri',
     'story.read': 'Citește',

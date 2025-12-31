@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'అభిమాని అమరికలు',
     'story.chapter': 'అధ్యాయం',
     'story.chapters': 'అధ్యాయాలు',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'రకం',
     'story.genres': 'విభాగాలు',
     'story.read': 'చదవండి',

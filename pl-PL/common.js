@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Ustawienia kreacji fanów',
     'story.chapter': 'Rozdział',
     'story.chapters': 'Rozdziały',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Proszę uwzględnić uniwersum w tytule',
     'story.genre': 'Gatunek',
     'story.genres': 'Gatunki',
     'story.read': 'Czytaj',

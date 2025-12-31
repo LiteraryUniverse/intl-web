@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Hayran ayarları',
     'story.chapter': 'Bölüm',
     'story.chapters': 'Bölümler',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Evreni başlığa dahil edin',
     'story.genre': 'Tür',
     'story.genres': 'Türler',
     'story.read': 'Oku',

@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Фанатські налаштування',
     'story.chapter': 'Розділ',
     'story.chapters': 'Розділи',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Вказуйте всесвіт у назві',
     'story.genre': 'Жанр',
     'story.genres': 'Жанри',
     'story.read': 'Читати',

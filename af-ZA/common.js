@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Aanhanger instellings',
     'story.chapter': 'Hoofstuk',
     'story.chapters': 'Hoofstukke',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'Genre',
     'story.genres': 'Genres',
     'story.read': 'Lees',
