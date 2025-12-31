@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ரசிப்பான் அமைப்புகள்',
     'story.chapter': 'அத்தியாயம்',
     'story.chapters': 'அத்தியாயங்கள்',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'பகுதி',
     'story.genres': 'பகுதிகள்',
     'story.read': 'வாசிக்க',
