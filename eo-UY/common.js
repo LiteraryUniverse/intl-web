@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Fana agordo',
     'story.chapter': 'Ĉapitro',
     'story.chapters': 'Ĉapitroj',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'Ĝenro',
     'story.genres': 'Ĝenroj',
     'story.read': 'Legi',
