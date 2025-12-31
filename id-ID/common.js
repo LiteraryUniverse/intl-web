@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Pengaturan penggemar',
     'story.chapter': 'Bab',
     'story.chapters': 'Bab',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Sertakan alam semesta dalam judul',
     'story.genre': 'Genre',
     'story.genres': 'Genre',
     'story.read': 'Baca',
