@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Mga setting ng mga Fan',
     'story.chapter': 'Kabanata',
     'story.chapters': 'Mga Kabanata',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'Genre',
     'story.genres': 'Mga Genre',
     'story.read': 'Basahin',
