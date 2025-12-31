@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'ឯកជន - តែមនុស្សណាមួយដែលអ្នកបានអញ្ជើញនឹងមើលឃ្លាំងនេះ',
   'events.inviting': 'តើអ្នកដែលឃើញព្រឹត្តិការណ៍នេះអាចអញ្ជើញអ្នកផ្សព្វផ្សាយផ្សេងទៀតបានទេ?',
   'events.administration': 'ការគ្រប់គ្រងព្រឹត្តិការណ៍',
+  'events.admin': 'Events Admin',
   'events.create.title': 'បង្កើតព្រឹត្តិការណ៍ថ្មី',
   'events.hostedBy': 'ប្រធានដែនដោយ {hostName}',
   'events.openVirtual': 'ទៅកាន់ទីតាំងកម្ពុជា',

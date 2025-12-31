@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Private - only people you invite will see the event',
   'events.inviting': 'შეიძლება ადამიანები, რომელნიც ხელახლა ამ ღონისძიებას დაიწყონ, მოწვევისთვის?',
   'events.administration': 'ღონისძიების ადმინისტრაცია',
+  'events.admin': 'Events Admin',
   'events.create.title': 'ახალი ღონისძიების შექმნა',
   'events.hostedBy': 'მიმდინარე მფლობელი: {hostName}',
   'events.openVirtual': 'გადადით ვირტუალურ ადგილას',

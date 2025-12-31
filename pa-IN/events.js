@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'ਨਿੱਜੀ - ਸਿਰਫ ਤੁਸੀਂ ਆਮੰਤਰਿਤ ਕੀਤੇ ਲੋਕਾਂ ਨੂੰ ਘਟਨਾ ਦੇਖਣ ਦਾ ਹੱਕ ਹੈ',
   'events.inviting': 'ਕੀ ਲੋਕ ਜੋ ਇਹ ਇਵੈਂਟ ਵੇਖਦੇ ਹਨ ਉਨ੍ਹਾਂ ਨੂੰ ਹੋਰ ਲੋਕ ਨੂੰ ਆਮੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਨ?',
   'events.administration': 'ਇਵੈਂਟ ਪ੍ਰਬੰਧਨ',
+  'events.admin': 'Events Admin',
   'events.create.title': 'ਨਵਾਂ ਇਵੈਂਟ ਬਣਾਓ',
   'events.hostedBy': 'ਦੁਆਰਾ ਆਯੋਜਿਤ {hostName}',
   'events.openVirtual': 'ਵਰਚੁਅਲ ਥਾਂ ਉੱਤੇ ਜਾਓ',

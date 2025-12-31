@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privaatne - ainult kutsutud inimesed näevad sündmust',
   'events.inviting': 'Kas inimesed, kes näevad seda sündmust, saavad teisi kutsuda?',
   'events.administration': 'Sündmuste haldamine',
+  'events.admin': 'Sündmuste administraator',
   'events.create.title': 'Loo uus sündmus',
   'events.hostedBy': 'Korraldaja: {hostName}',
   'events.openVirtual': 'Mine virtuaalsesse asukohta',

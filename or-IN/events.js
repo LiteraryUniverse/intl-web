@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Private - only people you invite will see the event',
   'events.inviting': 'କିମ୍ବା ମାନୁଷମାନଙ୍କ ଯେଉଁଠା ଏହି ଘଟଣା ଦେଖିପାରିବେ କିମ୍ବା ଅନ୍ୟରେ ଆମନ୍ତ୍ରଣ କରିପାରିବେ?',
   'events.administration': 'ଘଟଣା ପ୍ରଶାସନ',
+  'events.admin': 'Events Admin',
   'events.create.title': 'ନୂତନ ଘଟଣା ତିଆରି କରନ୍ତୁ',
   'events.hostedBy': '{hostName}ଦ୍ୱାରା ଆଯୋଜିତ',
   'events.openVirtual': 'ଭର୍ଚୁଆଲ୍ ସ୍ଥାନକୁ ଯାଉଥିବା',

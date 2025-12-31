@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privaat - slegs mense wat jy uitnooi sal die gebeurtenis sien',
   'events.inviting': 'Kan mense wat hierdie gebeurtenis sien ander uitnooi?',
   'events.administration': 'Gebeurtenisadministrasie',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Skep \'n nuwe gebeurtenis',
   'events.hostedBy': 'Geborg deur {hostName}',
   'events.openVirtual': 'Gaan na virtuele plek',

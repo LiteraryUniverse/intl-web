@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'புதிய செய்தி துவர்க்கவும்',
   'flashnews.startsAt': 'இந்த செய்தி முதலில் காட்டியிருக்க தொடங்குவது',
   'flashnews.endsAt': 'இந்த செய்தி முடிவில் காட்டியிருக்க நிறுத்துவது',
   'flashnews.newLanguage': 'சேர்க்க புதிய மொழியைத் தேர்வுசெய்க',
   'flashnews.onlyDisplayOn': 'செய்தி இந்த மொழிகளின் மீது தரப்படும் (ஏனெனவே தரப்படும் எந்த முனையான மொழிகளுக்கும் யாரேனும் தரக்கூடிய மொழிகள் வாக்குக்களாக இருந்தாலும் இந்த இந்த இயல்பில் செய்தி காட்டப்படும் இல்லை)',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'அனைத்து அறிவிப்புகளும்',
   'notifications.menu.following': 'பின்னூட்டவும்',
   'notifications.menu.workshop': 'வலைப் பயிற்சி',

@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Privát - csak az általad meghívott személyek látják az eseményt',
   'events.inviting': 'Lehetnek-e olyan emberek, akik meghívhatják másokat erre az eseményre?',
   'events.administration': 'Események adminisztrációja',
+  'events.admin': 'Események Admin',
   'events.create.title': 'Új esemény létrehozása',
   'events.hostedBy': 'Rendező: {hostName}',
   'events.openVirtual': 'Ugrás a virtuális helyszínre',

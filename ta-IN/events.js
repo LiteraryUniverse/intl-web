@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'தனியார் - நீங்கள் அழைத்துக்கொள்ளும் மக்கள் மட்டுமே நிகழ்வைப் பார்க்கலாம்',
   'events.inviting': 'இந்த நிகழ்ச்சியைப் பார்வையிடும் மக்கள் பிறகும் மற்றவர்களை அழைக்கலாமா?',
   'events.administration': 'நிகழ்ச்சி நிர்வாகம்',
+  'events.admin': 'Events Admin',
   'events.create.title': 'புதிய நிகழ்ச்சி உருவாக்கு',
   'events.hostedBy': 'இயக்குநர் {hostName}ஆல் அமைக்கப்படுகிறார்',
   'events.openVirtual': 'மெய்நிகர் இடத்தில் செல்க',

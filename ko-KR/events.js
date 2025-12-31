@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': '비공개 - 초대한 사람만 이벤트를 볼 수 있습니다',
   'events.inviting': '이벤트를 본 사람들은 다른 사람을 초대할 수 있나요?',
   'events.administration': '이벤트 관리',
+  'events.admin': '이벤트 관리자',
   'events.create.title': '새 이벤트 만들기',
   'events.hostedBy': '주최자: {hostName}',
   'events.openVirtual': '가상 위치로 이동하기',

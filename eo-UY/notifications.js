@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'Krei novan novaĵan fulmon',
   'flashnews.startsAt': 'Komenci montri ĉi tiun mesaĝon je',
   'flashnews.endsAt': 'Ĉesi montri ĉi tiun mesaĝon je',
   'flashnews.newLanguage': 'Elekti novan lingvon por aldoni',
   'flashnews.onlyDisplayOn': 'La novaĵo estos montrata nur en la elektitaj lingvoj malsupre (se iuj estas elektitaj), ne estos montrataj novaĵoj, eĉ en la defaŭlta lingvo, en aliaj lingvoj.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'Ĉiuj sciigoj',
   'notifications.menu.following': 'Sekvado',
   'notifications.menu.workshop': 'Verkstato',

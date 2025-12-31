@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Administratorius',
   'flashnews.create': 'Sukurti naują naujienų žinutę',
   'flashnews.startsAt': 'Pradėti šią žinutę rodyti nuo',
   'flashnews.endsAt': 'Nustoti šią žinutę rodyti nuo',
   'flashnews.newLanguage': 'Pasirinkite naują kalbą pridėti',
   'flashnews.onlyDisplayOn': 'Naujienos bus rodomos tik pasirinktose žemiau nurodytose kalbose (jei pasirinkta), kitose kalbose nebus rodomos jokios naujienos, net ir numatytoje kalboje.',
+  'flashnews.current': 'Aktyvios flashnews',
   'notifications.menu.all': 'Visi pranešimai',
   'notifications.menu.following': 'Sekimas',
   'notifications.menu.workshop': 'Dirbtuvės',

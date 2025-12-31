@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Pribado - tanging ang mga inimbitahan mo ang makakakita ng kaganapan',
   'events.inviting': 'Maaari bang imbitahan ng mga taong nakakita ng pangyayaring ito ang iba?',
   'events.administration': 'Pamamahala ng mga Pangyayari',
+  'events.admin': 'Events Admin',
   'events.create.title': 'Gumawa ng bagong pangyayari',
   'events.hostedBy': 'Inorganisa ni {hostName}',
   'events.openVirtual': 'Pumunta sa virtual na lokasyon',

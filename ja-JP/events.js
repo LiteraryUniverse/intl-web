@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': '非公開 - あなたが招待した人だけがイベントを見ることができます。',
   'events.inviting': 'このイベントを視聴可能な人は他の人を招待することはできますか？',
   'events.administration': 'イベント事務局',
+  'events.admin': 'イベント管理者',
   'events.create.title': '新規イベント作成',
   'events.hostedBy': '主催は{hostName}',
   'events.openVirtual': 'バーチャル会場へ移動',

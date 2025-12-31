@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'Yksityinen - vain sinun kutsutut ihmiset näkevät tapahtuman',
   'events.inviting': 'Voivatko tapahtuman näkijät kutsua muita?',
   'events.administration': 'Tapahtumien hallinta',
+  'events.admin': 'Tapahtumien ylläpitäjä',
   'events.create.title': 'Luo uusi tapahtuma',
   'events.hostedBy': 'Isännöi {hostName}',
   'events.openVirtual': 'Siirry virtuaalipaikkaan',

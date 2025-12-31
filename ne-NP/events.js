@@ -36,6 +36,7 @@ export default {
   'events.visibility.private': 'निजी - केवल तपाईंले आमन्त्रण गर्नुभएका व्यक्तिहरूले कार्यक्रमलाई हेर्नेछन्',
   'events.inviting': 'के यस घटनामा देख्ने व्यक्तिहरूले अरुलाई आमंत्रित गर्न सक्छन्?',
   'events.administration': 'घटना प्रशासन',
+  'events.admin': 'Events Admin',
   'events.create.title': 'नयाँ घटना सिर्जना गर्नुहोस्',
   'events.hostedBy': '{hostName}द्वारा आयोजित',
   'events.openVirtual': 'भर्चुअल स्थानमा जानुहोस्',

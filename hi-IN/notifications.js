@@ -1,10 +1,12 @@
 // Notifications & flashnews
 export default {
+  'flashnews.admin': 'Flashnews Admin',
   'flashnews.create': 'एक नई न्यूज़ फ्लैश बनाएं',
   'flashnews.startsAt': 'इस संदेश को दिखाना शुरू करें',
   'flashnews.endsAt': 'इस संदेश को दिखाना बंद करें',
   'flashnews.newLanguage': 'नयी भाषा का चयन करें',
   'flashnews.onlyDisplayOn': 'समाचार केवल नीचे चयनित भाषाओं में ही दिखाई जाएगा (यदि कोई भाषा चयनित हो), उन भाषाओं में कोई भी समाचार नहीं दिखाई जाएगा, दूसरी भाषाओं में भी डिफ़ॉल्ट भाषा में नहीं.',
+  'flashnews.current': 'Active flashnews',
   'notifications.menu.all': 'सभी सूचनाएँ',
   'notifications.menu.following': 'फ़ॉलो करना',
   'notifications.menu.workshop': 'वर्कशॉप',
