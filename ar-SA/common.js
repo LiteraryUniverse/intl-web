@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'إعدادات المعجبين',
     'story.chapter': 'الفصل',
     'story.chapters': 'الفصول',
+    'story.chapter.withStory': '{story}:: {chapter}',
+    'story.includeUniverse': 'تضمين الكون في العنوان',
     'story.genre': 'النوع',
     'story.genres': 'الأنواع',
     'story.read': 'اقرأ',
