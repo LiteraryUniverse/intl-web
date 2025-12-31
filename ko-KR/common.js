@@ -111,6 +111,8 @@ export default {
     'common.fansettings': '팬 설정',
     'story.chapter': '장',
     'story.chapters': '장',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': '제목에 유니버스 포함',
     'story.genre': '장르',
     'story.genres': '장르',
     'story.read': '읽기',
