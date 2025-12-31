@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Настройки фанатов',
     'story.chapter': 'Глава',
     'story.chapters': 'Главы',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Включите вселенную в название',
     'story.genre': 'Жанр',
     'story.genres': 'Жанры',
     'story.read': 'Читать',
