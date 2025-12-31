@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'भक्ति सेटिंग्स',
     'story.chapter': 'अध्याय',
     'story.chapters': 'अध्याय',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'शैली',
     'story.genres': 'शैली',
     'story.read': 'पढ़ें',
