@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Ρυθμίσεις οπαδών',
     'story.chapter': 'Κεφάλαιο',
     'story.chapters': 'Κεφάλαια',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Συμπεριλάβετε το σύμπαν στον τίτλο',
     'story.genre': 'Είδος',
     'story.genres': 'Είδη',
     'story.read': 'Ανάγνωση',
