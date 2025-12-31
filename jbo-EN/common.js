@@ -111,6 +111,8 @@ export default {
     'common.fansettings': '.i lo fasnu se setca',
     'story.chapter': 'ckupau',
     'story.chapters': 'ckupau',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'larlei',
     'story.genres': 'larlei',
     'story.read': 'mencti',
