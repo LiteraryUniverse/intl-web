@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ਫੈਨ ਸੈਟਿੰਗਜ਼',
     'story.chapter': 'ਅਧਿਆਇਕਾ',
     'story.chapters': 'ਅਧਿਆਇਕੇ',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'ਪਰਜਨਰ',
     'story.genres': 'ਪਰਜਨਰ',
     'story.read': 'ਪੜ੍ਹੋ',
