@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Faniasetukset',
     'story.chapter': 'Luku',
     'story.chapters': 'Luvut',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Sisällytä maailmankaikkeus otsikkoon',
     'story.genre': 'Genre',
     'story.genres': 'Genret',
     'story.read': 'Lue',
