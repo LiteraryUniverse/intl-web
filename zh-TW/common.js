@@ -111,6 +111,8 @@ export default {
     'common.fansettings': '粉絲設定',
     'story.chapter': '章節',
     'story.chapters': '章節',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': '在標題中包含宇宙',
     'story.genre': '類型',
     'story.genres': '類型',
     'story.read': '閱讀',
