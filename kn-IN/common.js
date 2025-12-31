@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ಅಭಿಮಾನಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು',
     'story.chapter': 'ಅಧ್ಯಾಯ',
     'story.chapters': 'ಅಧ್ಯಾಯಗಳು',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'ರಾಸಾಯನಿಕ',
     'story.genres': 'ರಾಸಾಯನಿಕಗಳು',
     'story.read': 'ಓದು',
