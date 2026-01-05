@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2026-01-XX - v2.22.0
+
+* New keys for API Keys management
+
 ## 2025-12-31 - v2.21.0
 
 * 3 new flashnews strings
