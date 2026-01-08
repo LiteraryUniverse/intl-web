@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Socruithe lucht leanúna',
     'story.chapter': 'Caibidil',
     'story.chapters': 'Caibidlí',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'Géar',
     'story.genres': 'Géaranna',
     'story.read': 'Léigh',

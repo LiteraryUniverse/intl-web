@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ফ্যান সেটিংস',
     'story.chapter': 'অধ্যায়',
     'story.chapters': 'অধ্যায়গুলি',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'শৈলী',
     'story.genres': 'শৈলীগুলি',
     'story.read': 'পড়ুন',

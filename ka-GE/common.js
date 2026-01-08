@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ფან პარამეტრები',
     'story.chapter': 'თემა',
     'story.chapters': 'თემები',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'ჟანრი',
     'story.genres': 'ჟანრები',
     'story.read': 'წაიკითხე',

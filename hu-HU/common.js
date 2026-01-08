@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Rajongói beállítások',
     'story.chapter': 'Fejezet',
     'story.chapters': 'Fejezetek',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'A címben szerepeljen az univerzum',
     'story.genre': 'Műfaj',
     'story.genres': 'Műfajok',
     'story.read': 'Olvasás',
