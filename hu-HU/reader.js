@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Folytatás következik...',
     'reader.storyTBC.description': 'Ez mind, amink van a történetből eddig, de az kaland a jövőben folytatódni fog, térj vissza hamarosan!',
     'chapter.translation.notYetDescription': 'Nézz vissza újra hamarosan!',
-    'reader.externalShopping.heading': 'Vásárolj {storyName} boltban:',
+    'reader.externalShopping.heading': 'Szerezd meg a {storyName} más helyeken:',
     'chapter.next': 'Következő fejezet',
     'chapter.previous': 'Előző fejezet',
     'chapter.comment': 'Hozzászólások ehhez a fejezethez',
