@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': '계속될 것입니다...',
     'reader.storyTBC.description': '지금까지 이야기에 대한 모든 정보는 여기까지입니다. 하지만 모험은 미래에 계속될 것이니 곧 다시 확인하세요!',
     'chapter.translation.notYetDescription': '곧 다시 확인하세요!',
-    'reader.externalShopping.heading': '{storyName} 을(를) 상점에서 구매하세요:',
+    'reader.externalShopping.heading': '다른 곳에서는 {storyName} 를 확인하세요:',
     'chapter.next': '다음 장',
     'chapter.previous': '이전 장',
     'chapter.comment': '이 장에 대한 댓글',
