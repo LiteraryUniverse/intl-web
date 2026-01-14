@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'გაგრძელება...',
     'reader.storyTBC.description': 'ეს ყველაფრია, რაც გვაქვს ისტორიაზე დაარსებული, მაგრამ დეტალები და განაგრძობა მოგვიანებისთვის მოგეძებნეთ მოგვიანების გვერდზე.',
     'chapter.translation.notYetDescription': 'გადაამოწმეთ კიდევ ერთხელ!',
-    'reader.externalShopping.heading': 'ყიდვა {storyName} მაღაზიაში:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'შემდეგი თავისუფალი',
     'chapter.previous': 'წინა თავისუფალი',
     'chapter.comment': 'კომენტარები ამ თავზე',
