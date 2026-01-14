@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Continuarà...',
     'reader.storyTBC.description': 'Això és tot el que tenim de la història fins ara, però l\'aventura continuarà en el futur, torna aviat!',
     'chapter.translation.notYetDescription': 'Torna a comprovar-ho aviat!',
-    'reader.externalShopping.heading': 'Compra {storyName} a les botigues:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Següent capítol',
     'chapter.previous': 'Capítol anterior',
     'chapter.comment': 'Comentaris d\'aquest capítol',

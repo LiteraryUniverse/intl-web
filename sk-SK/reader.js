@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Na pokračovanie...',
     'reader.storyTBC.description': 'To je zatiaľ všetko, čo máme k príbehu, ale dobrodružstvo bude v budúcnosti pokračovať, čoskoro sa k nemu vráťte!',
     'chapter.translation.notYetDescription': 'Čoskoro sa sem opäť vráťte!',
-    'reader.externalShopping.heading': 'Kúpiť {storyName} v obchodoch:',
+    'reader.externalShopping.heading': 'Získajte {storyName} na iných miestach:',
     'chapter.next': 'Ďalšia kapitola',
     'chapter.previous': 'Predošlá kapitola',
     'chapter.comment': 'Komentáre k tejto kapitole',

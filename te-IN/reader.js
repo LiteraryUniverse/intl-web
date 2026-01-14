@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'కొనసాగించబడదు...',
     'reader.storyTBC.description': 'ఇప్పటికే మాకు ఈ కథకు ఇది అందుబాటులో ఉంది, కానీ మీరు ముందుగా మార్పు ప్రయాణం పొందవచ్చు, తక్కువ సమయం పరిశీలించండి!',
     'chapter.translation.notYetDescription': 'తరువాత మళ్లీ తనిఖీ చేయండి!',
-    'reader.externalShopping.heading': 'స్టోర్లలో కొనుకుంటారు: {storyName}',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'తదుపరి అధ్యాయం',
     'chapter.previous': 'మునుపటి అధ్యాయం',
     'chapter.comment': 'ఈ అధ్యాయంపై వ్యాఖ్యలు',

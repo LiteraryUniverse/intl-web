@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Далі буде...',
     'reader.storyTBC.description': 'Наразі це вся історія, але пригоди продовжаться в майбутньому, слідкуйте за новинами!',
     'chapter.translation.notYetDescription': 'Чекатимемо на вас!',
-    'reader.externalShopping.heading': 'Придбати {storyName} у крамничках:',
+    'reader.externalShopping.heading': 'Отримайте {storyName} в інших місцях:',
     'chapter.next': 'Наступний розділ',
     'chapter.previous': 'Попередній розділ',
     'chapter.comment': 'Коментарі до цього розділу',

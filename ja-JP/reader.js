@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': '次回につづく',
     'reader.storyTBC.description': '私たちが用意できるこの物語はここまでですが、アドベンチャーは今後も続きますので追ってご確認ください。',
     'chapter.translation.notYetDescription': 'またすぐにチェックしてください。',
-    'reader.externalShopping.heading': 'お店で{storyName}を購入する：',
+    'reader.externalShopping.heading': '他の場所で {storyName}：',
     'chapter.next': '次の章',
     'chapter.previous': '前の章',
     'chapter.comment': 'この章へのコメント',

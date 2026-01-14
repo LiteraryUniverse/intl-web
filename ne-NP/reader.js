@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'जारी राखिने...',
     'reader.storyTBC.description': 'हामीले अबसम्म संग्रह गरिएको कथा हो , तर भविष्यमा साहस जारी रहनेछ, छिटो फेरि जाँच गर्नुहोस्!',
     'chapter.translation.notYetDescription': 'फेरि जाँच गर्नुहोस्!',
-    'reader.externalShopping.heading': 'दुकानहरुमा खरिद {storyName}',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'अरु अध्याय',
     'chapter.previous': 'पछिल्लो अध्याय',
     'chapter.comment': 'यस अध्यायमा सहभागीता',

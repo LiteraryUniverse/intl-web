@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'അടുത്തത് തുടരും...',
     'reader.storyTBC.description': 'ഈ കഥയുടെ പിന്നിലെയുള്ളത് ഇതാണ്, പക്ഷേ അവസാനം അവസരം വരെ അവന്നുകാത്തുള്ളതാണ്, അടുത്തത് പരിശോധിക്കുക!',
     'chapter.translation.notYetDescription': 'വീണ്ടും പരിശോധിക്കുക!',
-    'reader.externalShopping.heading': 'കടന്ന് {storyName} സ്റ്റോറികളിൽ വാങ്ങുക:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'അടുത്ത അദ്ധ്യായം',
     'chapter.previous': 'മുമ്പത്തെ അദ്ധ്യായം',
     'chapter.comment': 'ഈ അദ്ധ്യായത്തിലെ അഭിപ്രായങ്ങൾ',

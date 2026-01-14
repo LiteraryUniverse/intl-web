@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Fortsättning följer...',
     'reader.storyTBC.description': 'Detta är allt vi har för historien hittills, men äventyret kommer att fortsätta i framtiden, kom tillbaka snart!',
     'chapter.translation.notYetDescription': 'Kom tillbaka snart igen!',
-    'reader.externalShopping.heading': 'Köp {storyName} i butiker:',
+    'reader.externalShopping.heading': 'Hämta {storyName} på andra ställen:',
     'chapter.next': 'Nästa kapitel',
     'chapter.previous': 'Föregående kapitel',
     'chapter.comment': 'Kommentarer om detta kapitel',

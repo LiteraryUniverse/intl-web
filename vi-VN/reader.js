@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Tiếp tục...',
     'reader.storyTBC.description': 'Đây là toàn bộ những gì chúng tôi có cho câu chuyện cho đến nay, nhưng cuộc phiêu lưu sẽ tiếp tục trong tương lai, hãy kiểm tra lại sớm!',
     'chapter.translation.notYetDescription': 'Hãy kiểm tra lại sớm!',
-    'reader.externalShopping.heading': 'Mua {storyName} tại cửa hàng:',
+    'reader.externalShopping.heading': 'Tải xuống " {storyName} " ở các nơi khác:',
     'chapter.next': 'Chương tiếp theo',
     'chapter.previous': 'Chương trước',
     'chapter.comment': 'Bình luận về chương này',

@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'ಮುಂದುವರಿಯುತ್ತಿದೆ...',
     'reader.storyTBC.description': 'ಈ ಕಥೆಗೆ ನಮ್ಮ ಹಿಂದಿನ ಪಾಠವೆಲ್ಲಾ ಇದೆ, ಆದರೆ ಸಾಹಸ ಭವಿಷ್ಯದಲ್ಲಿ ಮುಂದುವರಿಯುತ್ತದೆ, ಬೇರೆ ಸಮಯದಲ್ಲಿ ಮರುಕಾಣುವುದು!',
     'chapter.translation.notYetDescription': 'ಮತ್ತೆ ಬಂದು ನೋಡಿ!',
-    'reader.externalShopping.heading': 'ದುಕಾಣಗಳಲ್ಲಿ {storyName} ಖರಿದಿಸಿ:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'ಮುಂದಿನ ಅಧ್ಯಾಯ',
     'chapter.previous': 'ಹಿಂದಿನ ಅಧ್ಯಾಯ',
     'chapter.comment': 'ಈ ಅಧ್ಯಾಯದ ಮೇಲೆ ಟಿಪ್ಪಣಿಗಳು',

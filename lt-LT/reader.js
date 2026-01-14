@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Tęsiama...',
     'reader.storyTBC.description': 'Toliau pradėta istorija dar nėra pabaigta, bet nuotykius galėsite tęsti ateityje, lankykites netrukus!',
     'chapter.translation.notYetDescription': 'Lankykites vėl netrukus!',
-    'reader.externalShopping.heading': 'Įsigykite {storyName} parduotuvėse:',
+    'reader.externalShopping.heading': 'Gaukite {storyName} kitose vietose:',
     'chapter.next': 'Kitas skyrius',
     'chapter.previous': 'Ankstesnis skyrius',
     'chapter.comment': 'Komentarai šiame skyriuje',

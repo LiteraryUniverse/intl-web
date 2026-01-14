@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Va continua...',
     'reader.storyTBC.description': 'Aceasta este tot ce avem pentru poveste până acum, dar aventura va continua în viitor, verifică din nou în curând!',
     'chapter.translation.notYetDescription': 'Verifică din nou în curând!',
-    'reader.externalShopping.heading': 'Cumpara {storyName} in magazine:',
+    'reader.externalShopping.heading': 'Obțineți {storyName} în alte locuri:',
     'chapter.next': 'Capitolul următor',
     'chapter.previous': 'Capitolul anterior',
     'chapter.comment': 'Comentarii la acest capitol',

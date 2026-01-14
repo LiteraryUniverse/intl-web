@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': '待續⋯⋯',
     'reader.storyTBC.description': '這是我們目前所擁有的故事內容，但冒險將在未來繼續，請稍後再回來查看！',
     'chapter.translation.notYetDescription': '請稍後再回來查看！',
-    'reader.externalShopping.heading': '在商店里购买 {storyName} ：',
+    'reader.externalShopping.heading': '在其他地方取得 {storyName}：',
     'chapter.next': '下一章',
     'chapter.previous': '上一章',
     'chapter.comment': '本章評論',

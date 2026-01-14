@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ファン設定',
     'story.chapter': '章',
     'story.chapters': '章',
+    'story.chapter.withStory': '{story} {chapter}',
+    'story.includeUniverse': 'タイトルにユニバースを含める',
     'story.genre': 'ジャンル',
     'story.genres': 'ジャンル',
     'story.read': '読む',

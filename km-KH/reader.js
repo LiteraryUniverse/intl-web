@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'នឹងបន្តទៀត...',
     'reader.storyTBC.description': 'នេះគឺជាអ្នកបានរក្សាចំណាត់ថ្នាក់ចុងក្រោយសម្រាប់រឿងនេះដែលមាននៅឥឡូវនេះ។ បន្ទាប់ពីនេះទស្សនានឹងបន្តទៀត សូមមកពីនៅឆ្នាំក្រោយ!',
     'chapter.translation.notYetDescription': 'ម្លឺពិនិត្យម្តងទៀត!',
-    'reader.externalShopping.heading': 'ទិញ {storyName} នៅក្នុងហាង។',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'ជំរាបមុខ',
     'chapter.previous': 'ជំពូកមុន',
     'chapter.comment': 'មតិយោបល់អំពីជំរាបសរសេរនេះ',

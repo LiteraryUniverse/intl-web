@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Fan-Einstellungen',
     'story.chapter': 'Kapitel',
     'story.chapters': 'Kapitel',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Universum im Titel einschließen',
     'story.genre': 'Genre',
     'story.genres': 'Genre',
     'story.read': 'Lesen',

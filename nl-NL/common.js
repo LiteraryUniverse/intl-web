@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'Fan instellingen',
     'story.chapter': 'Hoofdstuk',
     'story.chapters': 'Hoofdstukken',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Universum in titel opnemen',
     'story.genre': 'Genre',
     'story.genres': 'Genres',
     'story.read': 'Lees',

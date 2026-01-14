@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Devam edecek...',
     'reader.storyTBC.description': 'Bu hikaye için şu ana kadar elimizde bu kadar, ancak macera gelecekte devam edecek. Yakında tekrar kontrol edin!',
     'chapter.translation.notYetDescription': 'Yakında tekrar kontrol edin!',
-    'reader.externalShopping.heading': 'Mağazalarda {storyName} satın alın:',
+    'reader.externalShopping.heading': 'Başka yerlerde {storyName} adresini bulun:',
     'chapter.next': 'Sonraki bölüm',
     'chapter.previous': 'Önceki bölüm',
     'chapter.comment': 'Bu bölüm hakkındaki yorumlar',

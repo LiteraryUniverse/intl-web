@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ตั้งค่าแฟน',
     'story.chapter': 'ตอน',
     'story.chapters': 'ตอน',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'รวมจักรวาลไว้ในชื่อเรื่อง',
     'story.genre': 'ประเภท',
     'story.genres': 'ประเภท',
     'story.read': 'อ่าน',

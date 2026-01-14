@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Jatketaan...',
     'reader.storyTBC.description': 'Tämä on kaikki mitä tällä hetkellä on tarinasta, mutta seikkailu jatkuu tulevaisuudessa. Tarkista uudelleen pian!',
     'chapter.translation.notYetDescription': 'Tarkista uudelleen pian!',
-    'reader.externalShopping.heading': 'Osta {storyName} kaupoista:',
+    'reader.externalShopping.heading': 'Hanki {storyName} muista paikoista:',
     'chapter.next': 'Seuraava luku',
     'chapter.previous': 'Edellinen luku',
     'chapter.comment': 'Kommentit tähän lukuun',

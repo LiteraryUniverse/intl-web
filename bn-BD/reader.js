@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'চালিয়ে যাইবে...',
     'reader.storyTBC.description': 'এটি হল সবচেয়ে পূর্বের গল্পটি, কিন্তু ভবিষ্যতে এই অভিযান চলবে, শীঘ্রই চেক করুন!',
     'chapter.translation.notYetDescription': 'আবার চেক করুন!',
-    'reader.externalShopping.heading': 'দোকানে {storyName} কেনো:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'পরবর্তী অধ্যায়',
     'chapter.previous': 'পূর্ববর্তী অধ্যায়',
     'chapter.comment': 'এই অধ্যায়ে মন্তব্য',

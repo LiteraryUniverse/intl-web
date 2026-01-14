@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Fortsetzung folgt...',
     'reader.storyTBC.description': 'Das ist alles, was wir bisher für die Geschichte haben, aber das Abenteuer wird in Zukunft weitergehen, schauen Sie bald wieder vorbei!',
     'chapter.translation.notYetDescription': 'Schauen Sie bald wieder vorbei!',
-    'reader.externalShopping.heading': 'Kaufen Sie {storyName} im Handel:',
+    'reader.externalShopping.heading': 'Holen Sie sich {storyName} an anderen Orten:',
     'chapter.next': 'Nächstes Kapitel',
     'chapter.previous': 'Vorheriges Kapitel',
     'chapter.comment': 'Kommentare zu diesem Kapitel',

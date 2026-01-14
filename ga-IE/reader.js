@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Leanfaidh sé',
     'reader.storyTBC.description': 'Sin ár gceann ghortaígí go fóill don scéal, ach leanfaidh an eachtra ar aghaidh sa todhchaí, tic ar ais go luath!',
     'chapter.translation.notYetDescription': 'Tic ar ais arís go luath!',
-    'reader.externalShopping.heading': 'Ceannaigh {storyName} i siopaí:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'An chéad chaibidil eile',
     'chapter.previous': 'Sraithcheimicí roimhe seo',
     'chapter.comment': 'Tráchtais ar an gcaibidil seo',

@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Akan dilanjutkan...',
     'reader.storyTBC.description': 'Ini semua yang kami punya untuk cerita ini sampai sekarang, tetapi petualangan akan berlanjut di masa depan, periksa kembali segera!',
     'chapter.translation.notYetDescription': 'Periksa lagi nanti!',
-    'reader.externalShopping.heading': 'Beli {storyName} di toko:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Bab berikutnya',
     'chapter.previous': 'Bab sebelumnya',
     'chapter.comment': 'Komentar di bab ini',

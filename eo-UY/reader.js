@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Daŭrigos...',
     'reader.storyTBC.description': 'Tio estas ĉio, kion ni havas por la rakonto ĝis nun, sed la aventuro daŭros en la estonteco, revenu baldaŭ!',
     'chapter.translation.notYetDescription': 'Reiru baldaŭ!',
-    'reader.externalShopping.heading': 'Aĉetu {storyName} en butikoj:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Venonta ĉapitro',
     'chapter.previous': 'Antaŭa ĉapitro',
     'chapter.comment': 'Komentarioj pri ĉi tiu ĉapitro',

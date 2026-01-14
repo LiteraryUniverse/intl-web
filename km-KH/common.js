@@ -111,6 +111,8 @@ export default {
     'common.fansettings': 'ការកំណត់អ្នកចូលរួម',
     'story.chapter': 'ជើងសារ',
     'story.chapters': 'ជើងសារ',
+    'story.chapter.withStory': '{story}: {chapter}',
+    'story.includeUniverse': 'Include universe in title',
     'story.genre': 'ប្រភេទ',
     'story.genres': 'ប្រភេទ',
     'story.read': 'អាន',

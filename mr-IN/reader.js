@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'सुरु ठेवण्यात आलेलं...',
     'reader.storyTBC.description': 'ह्या कथेचं सर्व कालानंतर आपलं आहे किंवा भविष्यातील क्रूजती लवकरच चाचणा!',
     'chapter.translation.notYetDescription': 'परत बघा लवकरच परत बघा!',
-    'reader.externalShopping.heading': 'दुकानांमध्ये {storyName} खरेदी करा:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'पुढील पाठ',
     'chapter.previous': 'मागील पाठ',
     'chapter.comment': 'पाठावरील टिप्पण्या',
