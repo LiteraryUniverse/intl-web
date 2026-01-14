@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Magpapatuloy...',
     'reader.storyTBC.description': 'Ito na ang lahat na meron tayo para sa kuwento ngayon, ngunit magpapatuloy ang pakikipagsapalaran sa hinaharap, tignan mo ulit sa ibang pagkakataon!',
     'chapter.translation.notYetDescription': 'Tignan mo ulit sa ibang pagkakataon!',
-    'reader.externalShopping.heading': 'Bumili ng {storyName} sa mga tindahan:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Susunod na kabanata',
     'chapter.previous': 'Nakaraang kabanata',
     'chapter.comment': 'Mga komento sa kabanatang ito',
