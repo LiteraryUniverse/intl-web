@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'મહિજુબાં ચાલુ રહેશે...',
     'reader.storyTBC.description': 'આવતી ગાથુથી અમે જેજ વધુ ગાથુ મેળવીશું, એ અવધિને ફરી ચકાશો. દેખવા માટે ફરી મુલાકાત આપો આવ્યો!',
     'chapter.translation.notYetDescription': 'આવતી ગાથુ માટે  ફરીથી તપાસ કરો!',
-    'reader.externalShopping.heading': '> ન્યૂઝપેપર માં {storyName} બધા માળખોરી મેળવીશું :',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'આગામી અધ્યાય',
     'chapter.previous': 'પાછલા અધ્યાય',
     'chapter.comment': 'આ અધ્યાય પર ટ્વીટ કરો',
