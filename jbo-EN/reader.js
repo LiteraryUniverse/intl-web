@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'jijnu xeydu uinai',
     'reader.storyTBC.description': 'poro to vy.',
     'chapter.translation.notYetDescription': 'ca ma gungunma piro seltsani romai',
-    'reader.externalShopping.heading': 'xamgu {storyName} skami je\'a la\'o gy.</span>',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'pu le jemna fanmo',
     'chapter.previous': 'pau le jemna fanmo',
     'chapter.comment': 'pilno pu le jemna fanmo',
