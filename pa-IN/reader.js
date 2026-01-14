@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'ਜਾਰੀ ਰੱਖਣਾ ਹੈ...',
     'reader.storyTBC.description': 'ਇਹ ਸਾਡੀ ਕਹਾਣੀ ਦਾ ਇੱਥੇ ਹੀ ਅੰਤ ਹੈ, ਪਰ ਸਾਹਸਿਕ ਯਾਤਰਾ ਮੁੜ ਚਲੇਗੀ, ਜਲਦੀ ਵਾਪਸ ਜਾਂਚੋ!',
     'chapter.translation.notYetDescription': 'ਫੇਰ ਚੈੱਕ ਕਰੋ!',
-    'reader.externalShopping.heading': 'ਦੁਕਾਨਾਂ ਵਿਚ ਖਰੀਦੋ {storyName}:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'ਅਗਲਾ ਅਧਿਆਇ',
     'chapter.previous': 'ਪਿਛਲਾ ਅਧਿਆਇ',
     'chapter.comment': 'ਇਸ ਅਧਿਆਇ \'ਤੇ ਟਿੱਪਣੀਆਂ',
