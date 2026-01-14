@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'தொடர்கின்றது...',
     'reader.storyTBC.description': 'இந்த கதைக்கு எங்களிடம் இருக்கும் வாய்ப்புகள் முடிவடைந்துள்ளன, ஆனால் சாதனை மேலும் முடியும், விரைவில் திரும்புங்கள்!',
     'chapter.translation.notYetDescription': 'மீண்டும் வருகின்றோம்!',
-    'reader.externalShopping.heading': 'கடைகளில் வாங்கவும் {storyName}:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'அடுத்த அத்தியாயம்',
     'chapter.previous': 'முந்திய அத்தியாயம்',
     'chapter.comment': 'இந்த அத்தியாயத்தில் கருத்துக்கள்',
