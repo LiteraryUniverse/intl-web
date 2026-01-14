@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Συνεχίζεται...',
     'reader.storyTBC.description': 'Αυτό είναι όλο όσο έχουμε για την ιστορία μέχρι τώρα, αλλά η περιπέτεια θα συνεχιστεί στο μέλλον, ελέγξτε ξανά σύντομα!',
     'chapter.translation.notYetDescription': 'Ελέγξτε ξανά σύντομα!',
-    'reader.externalShopping.heading': 'Αγοράστε {storyName} σε καταστήματα:',
+    'reader.externalShopping.heading': 'Πάρτε το {storyName} σε άλλα μέρη:',
     'chapter.next': 'Επόμενο κεφάλαιο',
     'chapter.previous': 'Προηγούμενο κεφάλαιο',
     'chapter.comment': 'Σχόλια σε αυτό το κεφάλαιο',
