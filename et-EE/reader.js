@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Jätkub...',
     'reader.storyTBC.description': 'See on kõik, mis meil hetkel selle loo jaoks on, kuid tuleviku seiklus jätkub, kontrolli varsti uuesti!',
     'chapter.translation.notYetDescription': 'Kontrolli varsti uuesti!',
-    'reader.externalShopping.heading': 'Osta {storyName} poodidest:',
+    'reader.externalShopping.heading': 'Hangi {storyName} teistes kohtades:',
     'chapter.next': 'Järgmine peatükk',
     'chapter.previous': 'Eelmine peatükk',
     'chapter.comment': 'Kommentaarid selle peatüki kohta',
