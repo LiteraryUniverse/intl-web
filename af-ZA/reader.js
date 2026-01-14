@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'Om voort te gaan...',
     'reader.storyTBC.description': 'Dit is alles wat ons tot dusver vir die storie het, maar die avontuur sal in die toekoms voortgaan. Kom binnekort terug!',
     'chapter.translation.notYetDescription': 'Kom binnekort weer terug!',
-    'reader.externalShopping.heading': 'Koop {storyName} in winkels:',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Volgende hoofstuk',
     'chapter.previous': 'Vorige hoofstuk',
     'chapter.comment': 'Opmerkings oor hierdie hoofstuk',
