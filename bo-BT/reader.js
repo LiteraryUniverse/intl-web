@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'To be continued...',
     'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
     'chapter.translation.notYetDescription': 'Check back again soon!',
-    'reader.externalShopping.heading': 'སྣེ་འབྱོར་ཀྱི་ཕྱིར་ {storyName} རྗེས་ས་ནས་ཕྱིར་འབྱུང་གི་དོན་གསལ།',
+    'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Next chapter',
     'chapter.previous': 'Previous chapter',
     'chapter.comment': 'Comments on this chapter',
