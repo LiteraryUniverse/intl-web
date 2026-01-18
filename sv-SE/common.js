@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Du kan ladda upp maximalt {max} filer.',
     'upload.error.removeFile': 'Misslyckades med att ta bort filen. Vänligen försök igen.',
     'actions.delete': 'Radera',
+    'actions.sendToKindle': 'Skicka till Kindle',
     'common.aiContent.indicator': 'AI-genererat innehåll',
     'common.aiContent.tooltip': 'Detta innehåll skapades med hjälp av AI',
     'common.aiContent.model': 'AI Modell: {model}',
