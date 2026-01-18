@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Pamamahala ng mga eksena',
     'plans.feature.glossaries': 'Mga talahuluganan sa pagsasalin',
     'plans.feature.chatSupport': 'Suporta sa Chat',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'Pumili ng currency',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
