@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Du kan maksimalt uploade {max} filer.',
     'upload.error.removeFile': 'Det lykkedes ikke at fjerne filen. Prøv venligst igen.',
     'actions.delete': 'Sletning',
+    'actions.sendToKindle': 'Send til Kindle',
     'common.aiContent.indicator': 'AI-genereret indhold',
     'common.aiContent.tooltip': 'Dette indhold blev skabt med AI-assistance',
     'common.aiContent.model': 'AI-model: {model}',
