@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'إضافة علامات',
     'settings.interests.avoidGenres.help': 'حدد الأنواع التي تفضل عدم رؤيتها في التوصيات.',
     'settings.interests.avoidGenres': 'الأنواع التي يجب تجنبها',
-    'settings.notifications': 'الإخطارات والنشرات الإخبارية'
+    'settings.notifications': 'الإخطارات والنشرات الإخبارية',
+    'settings.kindleEmail': 'البريد الإلكتروني لجهاز Kindle الخاص بك',
+    'settings.kindleEmail.explained': 'إذا كان لديك هذا التعيين، فسنقدم لك خيار إرسال القصص إلى جهاز Kindle الخاص بك بنقرة واحدة حيثما أمكن. يمكنك العثور على عنوان البريد الإلكتروني لجهاز Kindle الخاص بك في إعدادات Amazon ضمن إعدادات Amazon ضمن المحتوى والأجهزة -> الأجهزة -> حدد جهاز Kindle الخاص بك لعرض تفاصيله وهناك ستجد البريد الإلكتروني مدرجًا.'
 };
