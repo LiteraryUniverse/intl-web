@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Správca scén',
     'plans.feature.glossaries': 'Prekladové slovníky',
     'plans.feature.chatSupport': 'Chatová podpora',
+    'plans.feature.storyDownloads': 'Príbeh na stiahnutie',
     'plans.currency.select': 'Zvoľte menu',
     'payment.minimumAmount': 'Minimálna mesačná suma',
     'payment.currency': 'Mena',
