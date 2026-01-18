@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Può caricare un massimo di {max} file.',
     'upload.error.removeFile': 'Impossibile rimuovere il file. Provi di nuovo.',
     'actions.delete': 'Cancellare',
+    'actions.sendToKindle': 'Invia a Kindle',
     'common.aiContent.indicator': 'Contenuti generati dall\'AI',
     'common.aiContent.tooltip': 'Questo contenuto è stato creato con l\'assistenza dell\'AI',
     'common.aiContent.model': 'Modello AI: {model}',
