@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'സീൻസ് മാനേജർ',
     'plans.feature.glossaries': 'പരിഭാഷ ഗ്ലോസറികൾ',
     'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'നാണയം തിരഞ്ഞെടുക്കുക',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
