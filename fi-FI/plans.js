@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Kohtausten hallinta',
     'plans.feature.glossaries': 'Käännössanastot',
     'plans.feature.chatSupport': 'Chat-tuki',
+    'plans.feature.storyDownloads': 'Tarinan lataukset',
     'plans.currency.select': 'Valitse valuutta',
     'payment.minimumAmount': 'Kuukausittainen vähimmäismäärä',
     'payment.currency': 'Valuutta',
