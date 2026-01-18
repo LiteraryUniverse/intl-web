@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'ผู้จัดการฉาก',
     'plans.feature.glossaries': 'พจนานุกรมแปลภาษา',
     'plans.feature.chatSupport': 'สนับสนุนทางแชท',
+    'plans.feature.storyDownloads': 'ดาวน์โหลดเรื่องราว',
     'plans.currency.select': 'เลือกสกุลเงิน',
     'payment.minimumAmount': 'จำนวนเงินขั้นต่ำต่อเดือน',
     'payment.currency': 'สกุลเงิน',
