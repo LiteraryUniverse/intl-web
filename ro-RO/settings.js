@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Adaugă etichete',
     'settings.interests.avoidGenres.help': 'Selectați genurile pe care ați prefera să nu le vedeți în recomandări.',
     'settings.interests.avoidGenres': 'Genuri de evitat',
-    'settings.notifications': 'Notificări și buletine informative'
+    'settings.notifications': 'Notificări și buletine informative',
+    'settings.kindleEmail': 'Adresa dvs. de e-mail Kindle',
+    'settings.kindleEmail.explained': 'Dacă aveți această setare, atunci, acolo unde este posibil, vă vom oferi opțiunea de a trimite povești la Kindle cu un singur clic. Puteți găsi adresa dvs. de e-mail Kindle în setările Amazon sub Conținut și dispozitive -> Dispozitive -> selectați Kindle pentru a vizualiza detaliile acestuia și acolo veți găsi adresa de e-mail listată.'
 };
