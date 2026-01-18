@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'సీన్లు మేనేజర్',
     'plans.feature.glossaries': 'అనువాద గ్లాసరీలు',
     'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'కరెన్సీని ఎంచుకోండి',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
