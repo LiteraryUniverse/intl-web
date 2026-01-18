@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Labels toevoegen',
     'settings.interests.avoidGenres.help': 'Selecteer genres die u liever niet in aanbevelingen ziet.',
     'settings.interests.avoidGenres': 'Genres die u moet vermijden',
-    'settings.notifications': 'Meldingen & nieuwsbrieven'
+    'settings.notifications': 'Meldingen & nieuwsbrieven',
+    'settings.kindleEmail': 'Uw Kindle e-mail',
+    'settings.kindleEmail.explained': 'Als u dit hebt ingesteld, dan bieden wij u waar mogelijk de optie om verhalen met één klik naar uw Kindle te sturen. U kunt het e-mailadres van uw Kindle vinden in uw Amazon-instellingen onder Inhoud & apparaten -> Apparaten -> selecteer uw Kindle om de details te bekijken en daar staat het e-mailadres vermeld.'
 };
