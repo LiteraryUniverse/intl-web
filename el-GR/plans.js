@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Διαχείριση σκηνών',
     'plans.feature.glossaries': 'Γλωσσάρια μεταφράσεων',
     'plans.feature.chatSupport': 'Υποστήριξη μέσω συνομιλίας',
+    'plans.feature.storyDownloads': 'Λήψεις ιστοριών',
     'plans.currency.select': 'Επιλογή νομίσματος',
     'payment.minimumAmount': 'Ελάχιστο μηνιαίο ποσό',
     'payment.currency': 'Νόμισμα',
