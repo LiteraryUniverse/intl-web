@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Môžete nahrať maximálne {max} súborov.',
     'upload.error.removeFile': 'Nepodarilo sa odstrániť súbor. Skúste to prosím znova.',
     'actions.delete': 'Odstrániť',
+    'actions.sendToKindle': 'Odoslať do Kindle',
     'common.aiContent.indicator': 'Obsah generovaný umelou inteligenciou',
     'common.aiContent.tooltip': 'Tento obsah bol vytvorený s pomocou AI',
     'common.aiContent.model': 'Model AI: {model}',
