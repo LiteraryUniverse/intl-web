@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Lisa sildid',
     'settings.interests.avoidGenres.help': 'Valige žanrid, mida te ei soovi soovitustes näha.',
     'settings.interests.avoidGenres': 'Žanrid, mida tuleks vältida',
-    'settings.notifications': 'Teated ja uudiskirjad'
+    'settings.notifications': 'Teated ja uudiskirjad',
+    'settings.kindleEmail': 'Teie Kindle e-kiri',
+    'settings.kindleEmail.explained': 'Kui teil on see seadistus olemas, siis pakume võimaluse korral võimalust saata lugusid oma Kindle\'ile ühe klõpsuga. Oma Kindle\'i e-posti aadressi leiate Amazoni seadetest jaotisest Sisu ja seadmed -> Seadmed -> valige oma Kindle, et vaadata selle andmeid ja sealt leiate e-posti aadressi.'
 };
