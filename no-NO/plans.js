@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Scenemanager',
     'plans.feature.glossaries': 'Oversettelsesordbøker',
     'plans.feature.chatSupport': 'Chatstøtte',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'Velg valuta',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
