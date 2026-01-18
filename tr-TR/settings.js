@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Etiketler ekle',
     'settings.interests.avoidGenres.help': 'Önerilerde görmek istemediğiniz türleri seçin.',
     'settings.interests.avoidGenres': 'Kaçınılması gereken türler',
-    'settings.notifications': 'Bildirimler & Haber Bültenleri'
+    'settings.notifications': 'Bildirimler & Haber Bültenleri',
+    'settings.kindleEmail': 'Kindle e-postanız',
+    'settings.kindleEmail.explained': 'Bu ayara sahipseniz, mümkün olan yerlerde size tek bir tıklamayla Kindle\'ınıza öykü gönderme seçeneği sunacağız. Kindle e-posta adresinizi Amazon ayarlarınızda İçerik ve Cihazlar -> Cihazlar -> ayrıntılarını görüntülemek için Kindle\'ınızı seçin altında bulabilirsiniz ve orada listelenen e-postayı bulacaksınız.'
 };
