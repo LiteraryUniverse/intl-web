@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Добавить теги',
     'settings.interests.avoidGenres.help': 'Выберите жанры, которые Вы бы предпочли не видеть в рекомендациях.',
     'settings.interests.avoidGenres': 'Жанры, которых следует избегать',
-    'settings.notifications': 'Уведомления и информационные бюллетени'
+    'settings.notifications': 'Уведомления и информационные бюллетени',
+    'settings.kindleEmail': 'Ваш электронный адрес Kindle',
+    'settings.kindleEmail.explained': 'Если Вы установили этот параметр, то там, где это возможно, мы предложим Вам возможность отправлять рассказы на Ваш Kindle одним щелчком мыши. Вы можете найти адрес электронной почты Kindle в настройках Amazon в разделе Content & Devices -> Devices -> выберите свой Kindle, чтобы просмотреть его данные, и там Вы найдете указанный адрес электронной почты.'
 };
