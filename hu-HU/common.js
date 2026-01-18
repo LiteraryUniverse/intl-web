@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Maximum {max} fájlokat tölthet fel.',
     'upload.error.removeFile': 'Nem sikerült eltávolítani a fájlt. Kérjük, próbálja újra.',
     'actions.delete': 'Törölje a  címet.',
+    'actions.sendToKindle': 'Kindle-re küldés',
     'common.aiContent.indicator': 'AI-generált tartalom',
     'common.aiContent.tooltip': 'Ez a tartalom mesterséges intelligencia segítségével készült',
     'common.aiContent.model': 'AI modell: {model}',
