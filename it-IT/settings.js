@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Aggiungi tag',
     'settings.interests.avoidGenres.help': 'Selezioni i generi che preferisce non vedere nelle raccomandazioni.',
     'settings.interests.avoidGenres': 'Generi da evitare',
-    'settings.notifications': 'Notifiche e newsletter'
+    'settings.notifications': 'Notifiche e newsletter',
+    'settings.kindleEmail': 'La sua e-mail Kindle',
+    'settings.kindleEmail.explained': 'Se ha questa impostazione, le offriremo la possibilità di inviare le storie al suo Kindle con un solo clic. Può trovare l\'indirizzo e-mail del suo Kindle nelle impostazioni di Amazon, alla voce Contenuti e dispositivi -> Dispositivi -> selezioni il suo Kindle per visualizzarne i dettagli e lì troverà l\'e-mail elencata.'
 };
