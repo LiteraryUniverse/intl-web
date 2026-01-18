@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Bainisteoir radharcanna',
     'plans.feature.glossaries': 'Glosgairí aistriúcháin',
     'plans.feature.chatSupport': 'Tacaíocht comhrá',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'Roghnaigh airgeadra',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
