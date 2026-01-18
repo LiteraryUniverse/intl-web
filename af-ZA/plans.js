@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Toneelbestuurder',
     'plans.feature.glossaries': 'Vertaalwoordeboeke',
     'plans.feature.chatSupport': 'Klets-ondersteuning',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'Kies geldeenheid',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
