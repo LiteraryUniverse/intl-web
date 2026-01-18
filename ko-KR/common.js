@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': '최대 {max} 파일까지 업로드할 수 있습니다.',
     'upload.error.removeFile': '파일을 제거하지 못했습니다. 다시 시도하세요.',
     'actions.delete': '삭제',
+    'actions.sendToKindle': 'Kindle로 보내기',
     'common.aiContent.indicator': 'AI 생성 콘텐츠',
     'common.aiContent.tooltip': '이 콘텐츠는 AI의 도움을 받아 제작되었습니다.',
     'common.aiContent.model': 'AI 모델: {model}',
