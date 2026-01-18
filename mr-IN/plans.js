@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'दृश्य व्यवस्थापक',
     'plans.feature.glossaries': 'भाषांतर शब्दकोशे',
     'plans.feature.chatSupport': 'चॅट समर्थन',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'मुद्रा निवडा',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
