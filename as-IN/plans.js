@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'দৃশ্য পৰিচালক',
     'plans.feature.glossaries': 'অনুবাদ শব্দকোষ',
     'plans.feature.chatSupport': 'চেট সমৰ্থন',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'মুদ্ৰা বাছনি কৰক',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
