@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Μπορείτε να μεταφορτώσετε το μέγιστο αριθμό αρχείων {max} .',
     'upload.error.removeFile': 'Απέτυχε η αφαίρεση του αρχείου. Προσπαθήστε ξανά.',
     'actions.delete': 'Διαγραφή',
+    'actions.sendToKindle': 'Αποστολή στο Kindle',
     'common.aiContent.indicator': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'common.aiContent.tooltip': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια της AI',
     'common.aiContent.model': 'Μοντέλο AI: {model}',
