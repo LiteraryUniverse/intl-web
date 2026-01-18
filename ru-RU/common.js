@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Вы можете загрузить максимум {max} файлов.',
     'upload.error.removeFile': 'Не удалось удалить файл. Пожалуйста, попробуйте еще раз.',
     'actions.delete': 'Удалить',
+    'actions.sendToKindle': 'Отправить на Kindle',
     'common.aiContent.indicator': 'Контент, созданный искусственным интеллектом',
     'common.aiContent.tooltip': 'Этот контент был создан с помощью искусственного интеллекта',
     'common.aiContent.model': 'Модель AI: {model}',
