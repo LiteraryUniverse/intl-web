@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'إدارة المشاهد',
     'plans.feature.glossaries': 'مصطلحات الترجمة',
     'plans.feature.chatSupport': 'دعم الدردشة',
+    'plans.feature.storyDownloads': 'تنزيلات القصة',
     'plans.currency.select': 'اختر العملة',
     'payment.minimumAmount': 'الحد الأدنى للمبلغ الشهري',
     'payment.currency': 'العملة',
