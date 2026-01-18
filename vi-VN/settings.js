@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
     'settings.interests.avoidGenres': 'Genres to avoid',
-    'settings.notifications': 'Thông báo & bản tin'
+    'settings.notifications': 'Thông báo & bản tin',
+    'settings.kindleEmail': 'Địa chỉ email Kindle của bạn',
+    'settings.kindleEmail.explained': 'Nếu bạn đã có bộ sản phẩm này, chúng tôi sẽ cung cấp cho bạn tùy chọn gửi truyện đến Kindle của bạn chỉ với một cú nhấp chuột. Bạn có thể tìm địa chỉ email Kindle của mình trong cài đặt Amazon, tại mục Nội dung & Thiết bị -> Thiết bị -> chọn Kindle của bạn để xem chi tiết và địa chỉ email sẽ được liệt kê tại đó.'
 };
