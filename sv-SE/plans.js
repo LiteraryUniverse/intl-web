@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Scenhanterare',
     'plans.feature.glossaries': 'Översättningsordlistor',
     'plans.feature.chatSupport': 'Chattsupport',
+    'plans.feature.storyDownloads': 'Nedladdningar av berättelser',
     'plans.currency.select': 'Välj valuta',
     'payment.minimumAmount': 'Lägsta belopp per månad',
     'payment.currency': 'Valuta',
