@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
     'settings.interests.avoidGenres': 'Genres to avoid',
-    'settings.notifications': 'הודעות וניוזלטרים'
+    'settings.notifications': 'הודעות וניוזלטרים',
+    'settings.kindleEmail': 'כתובת הדוא"ל של Kindle שלך',
+    'settings.kindleEmail.explained': 'אם יש לך את ההגדרה הזו, אז במידת האפשר נציע לך את האפשרות לשלוח סיפורים ל-Kindle שלך בלחיצה אחת. תוכל למצוא את כתובת הדוא"ל של ה-Kindle שלך בהגדרות Amazon תחת תוכן ומכשירים -> מכשירים -> בחר את ה-Kindle שלך כדי להציג את פרטיו, ושם תמצא את כתובת הדוא"ל.'
 };
