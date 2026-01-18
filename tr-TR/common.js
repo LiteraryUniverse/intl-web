@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'En fazla {max} dosya yükleyebilirsiniz.',
     'upload.error.removeFile': 'Dosya kaldırılamadı. Lütfen tekrar deneyin.',
     'actions.delete': 'Silme',
+    'actions.sendToKindle': 'Kindle\'a gönder',
     'common.aiContent.indicator': 'Yapay Zeka Tarafından Oluşturulan İçerik',
     'common.aiContent.tooltip': 'Bu içerik yapay zeka yardımı ile oluşturulmuştur',
     'common.aiContent.model': 'AI Modeli: {model}',
