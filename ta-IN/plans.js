@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'காட்சிகள் மேலாளர்',
     'plans.feature.glossaries': 'மொழிபெயர்ப்பு அரசிகள்',
     'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'நாணயத்தைத் தேர்ந்தெடுக்கவும்',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
