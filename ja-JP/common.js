@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': '最大 {max} ファイルをアップロードできます。',
     'upload.error.removeFile': 'ファイルの削除に失敗しました。再試行してください。',
     'actions.delete': '削除',
+    'actions.sendToKindle': 'Kindleに送る',
     'common.aiContent.indicator': 'AIが生成したコンテンツ',
     'common.aiContent.tooltip': 'このコンテンツはAIの支援を受けて作成されました。',
     'common.aiContent.model': 'AIモデル： {model}',
