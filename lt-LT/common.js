@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Galite įkelti ne daugiau kaip {max} failų.',
     'upload.error.removeFile': 'Nepavyko pašalinti failo. Bandykite dar kartą.',
     'actions.delete': 'Ištrinti',
+    'actions.sendToKindle': 'Siųsti į "Kindle',
     'common.aiContent.indicator': 'dirbtinio intelekto sukurtas turinys',
     'common.aiContent.tooltip': 'Šis turinys sukurtas naudojant dirbtinę intelektinę dirbtinę',
     'common.aiContent.model': 'AI modelis: {model}',
