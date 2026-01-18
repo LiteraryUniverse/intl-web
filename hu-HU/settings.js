@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Címkék hozzáadása',
     'settings.interests.avoidGenres.help': 'Válassza ki azokat a műfajokat, amelyeket nem szeretne látni az ajánlásokban.',
     'settings.interests.avoidGenres': 'Kerülendő műfajok',
-    'settings.notifications': 'Értesítések és hírlevelek'
+    'settings.notifications': 'Értesítések és hírlevelek',
+    'settings.kindleEmail': 'Az Ön Kindle e-mail címe',
+    'settings.kindleEmail.explained': 'Ha ez a beállítás megvan, akkor lehetőség szerint felajánljuk Önnek, hogy a történeteket egyetlen kattintással elküldheti a Kindle készülékére. A Kindle e-mail címét az Amazon beállításaiban a Tartalom és eszközök -> Eszközök -> Eszközök -> válassza ki a Kindle-t a részletek megtekintéséhez, és ott találja az e-mail címét.'
 };
