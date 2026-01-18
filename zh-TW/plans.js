@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': '場景管理員',
     'plans.feature.glossaries': '翻譯術語庫',
     'plans.feature.chatSupport': '聊天支援',
+    'plans.feature.storyDownloads': '故事下載',
     'plans.currency.select': '選擇貨幣',
     'payment.minimumAmount': '每月最低金額',
     'payment.currency': '貨幣',
