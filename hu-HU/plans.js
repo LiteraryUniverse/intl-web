@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Jelenetek kezelője',
     'plans.feature.glossaries': 'Fordítási szótárak',
     'plans.feature.chatSupport': 'Csevegési támogatás',
+    'plans.feature.storyDownloads': 'Történet letöltések',
     'plans.currency.select': 'Pénznem kiválasztása',
     'payment.minimumAmount': 'Minimális havi összeg',
     'payment.currency': 'Pénznem',
