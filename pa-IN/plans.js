@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'ਸੀਨ ਮੈਨੇਜਰ',
     'plans.feature.glossaries': 'ਅਨੁਵਾਦ ਗਲੋਸਰੀਆਂ',
     'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'ਮੁਦਰਾ ਚੁਣੋ',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
