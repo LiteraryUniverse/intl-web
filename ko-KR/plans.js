@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': '장면 관리자',
     'plans.feature.glossaries': '번역 용어집',
     'plans.feature.chatSupport': '채팅 지원',
+    'plans.feature.storyDownloads': '스토리 다운로드',
     'plans.currency.select': '통화 선택',
     'payment.minimumAmount': '월 최소 금액',
     'payment.currency': '통화',
