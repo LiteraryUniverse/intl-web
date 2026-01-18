@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Gerenciador de cenas',
     'plans.feature.glossaries': 'Glossários de tradução',
     'plans.feature.chatSupport': 'Suporte por chat',
+    'plans.feature.storyDownloads': 'Downloads de histórias',
     'plans.currency.select': 'Selecionar moeda',
     'payment.minimumAmount': 'Valor mínimo mensal',
     'payment.currency': 'Moeda',
