@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Lägg till taggar',
     'settings.interests.avoidGenres.help': 'Välj genrer som du helst inte vill se i rekommendationer.',
     'settings.interests.avoidGenres': 'Genrer att undvika',
-    'settings.notifications': 'Meddelanden & nyhetsbrev'
+    'settings.notifications': 'Meddelanden & nyhetsbrev',
+    'settings.kindleEmail': 'Din e-post till Kindle',
+    'settings.kindleEmail.explained': 'Om du har ställt in detta kommer vi om möjligt att erbjuda dig möjligheten att skicka berättelser till din Kindle med ett klick. Du kan hitta din Kindle-e-postadress i dina Amazon-inställningar under Innehåll & enheter -> Enheter -> välj din Kindle för att visa dess detaljer och där hittar du e-postadressen listad.'
 };
