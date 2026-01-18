@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Añadir etiquetas',
     'settings.interests.avoidGenres.help': 'Seleccione los géneros que prefiere no ver en las recomendaciones.',
     'settings.interests.avoidGenres': 'Géneros que debe evitar',
-    'settings.notifications': 'Notificaciones y boletines'
+    'settings.notifications': 'Notificaciones y boletines',
+    'settings.kindleEmail': 'Su correo electrónico Kindle',
+    'settings.kindleEmail.explained': 'Si lo tiene configurado, le ofreceremos, en la medida de lo posible, la opción de enviar historias a su Kindle con un solo clic. Puede encontrar la dirección de correo electrónico de su Kindle en su configuración de Amazon, en Contenido y dispositivos -> Dispositivos -> seleccione su Kindle para ver sus detalles y allí encontrará el correo electrónico en la lista.'
 };
