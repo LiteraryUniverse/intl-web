@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
     'settings.interests.avoidGenres': 'Genres to avoid',
-    'settings.notifications': 'การแจ้งเตือนและจดหมายข่าว'
+    'settings.notifications': 'การแจ้งเตือนและจดหมายข่าว',
+    'settings.kindleEmail': 'อีเมล Kindle ของคุณ',
+    'settings.kindleEmail.explained': 'หากคุณมีการตั้งค่านี้ไว้แล้ว เมื่อเป็นไปได้เราจะเสนอให้คุณมีตัวเลือกในการส่งเรื่องราวไปยัง Kindle ของคุณด้วยการคลิกเพียงครั้งเดียว คุณสามารถค้นหาที่อยู่อีเมลของ Kindle ของคุณได้ในตั้งค่า Amazon ของคุณภายใต้เนื้อหาและอุปกรณ์ -> อุปกรณ์ -> เลือก Kindle ของคุณเพื่อดูรายละเอียด และคุณจะพบที่อยู่อีเมลที่นั่น'
 };
