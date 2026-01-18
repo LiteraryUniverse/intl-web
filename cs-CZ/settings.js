@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Přidat štítky',
     'settings.interests.avoidGenres.help': 'Vyberte žánry, které nechcete vidět v doporučeních.',
     'settings.interests.avoidGenres': 'Žánry, kterým se vyhnout',
-    'settings.notifications': 'Oznámení a zpravodaje'
+    'settings.notifications': 'Oznámení a zpravodaje',
+    'settings.kindleEmail': 'Váš e-mail Kindle',
+    'settings.kindleEmail.explained': 'Pokud máte tuto možnost nastavenou, nabídneme vám možnost odesílat příběhy do Kindle jedním kliknutím. E-mailovou adresu Kindle najdete v nastavení Amazonu v části Obsah a zařízení -> Zařízení -> vyberte Kindle pro zobrazení jeho detailů a tam najdete uvedený e-mail.'
 };
