@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Saate üles laadida maksimaalselt {max} faile.',
     'upload.error.removeFile': 'Faili eemaldamine ebaõnnestus. Palun proovige uuesti.',
     'actions.delete': 'Kustuta',
+    'actions.sendToKindle': 'Saada Kindle\'ile',
     'common.aiContent.indicator': 'Tehisintellekti loodud sisu',
     'common.aiContent.tooltip': 'See sisu loodi tehisintellekti abiga',
     'common.aiContent.model': 'AI mudel: {model}',
