@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Stseenide haldamine',
     'plans.feature.glossaries': 'Tõlke sõnastikud',
     'plans.feature.chatSupport': 'Vestlustoetus',
+    'plans.feature.storyDownloads': 'Loo allalaadimine',
     'plans.currency.select': 'Vali valuuta',
     'payment.minimumAmount': 'Minimaalne igakuine summa',
     'payment.currency': 'Valuuta',
