@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Lisää tunnisteet',
     'settings.interests.avoidGenres.help': 'Valitse genret, joita et halua nähdä suosituksissa.',
     'settings.interests.avoidGenres': 'Vältettävät lajityypit',
-    'settings.notifications': 'Ilmoitukset ja uutiskirjeet'
+    'settings.notifications': 'Ilmoitukset ja uutiskirjeet',
+    'settings.kindleEmail': 'Kindle-sähköpostisi',
+    'settings.kindleEmail.explained': 'Jos olet asettanut tämän asetuksen, tarjoamme sinulle mahdollisuuksien mukaan mahdollisuuden lähettää tarinoita Kindleen yhdellä napsautuksella. Löydät Kindle-sähköpostiosoitteesi Amazon-asetuksistasi kohdasta Sisältö ja laitteet -> Laitteet -> valitse Kindle nähdäksesi sen tiedot, ja sieltä löydät sähköpostiosoitteesi.'
 };
