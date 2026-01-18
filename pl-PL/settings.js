@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Proszę dodać tagi',
     'settings.interests.avoidGenres.help': 'Proszę wybrać gatunki, których nie chcą Państwo widzieć w rekomendacjach.',
     'settings.interests.avoidGenres': 'Gatunki, których należy unikać',
-    'settings.notifications': 'Powiadomienia i biuletyny'
+    'settings.notifications': 'Powiadomienia i biuletyny',
+    'settings.kindleEmail': 'Państwa e-mail Kindle',
+    'settings.kindleEmail.explained': 'Jeśli mają Państwo ustawioną tę opcję, w miarę możliwości będziemy oferować możliwość wysyłania historii na Państwa Kindle za pomocą jednego kliknięcia. Adres e-mail Kindle można znaleźć w ustawieniach Amazon w zakładce Content & Devices -> Devices -> proszę wybrać Kindle, aby wyświetlić jego szczegóły i tam znaleźć adres e-mail.'
 };
