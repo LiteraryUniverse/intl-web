@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Voit ladata enintään {max} tiedostoja.',
     'upload.error.removeFile': 'Tiedoston poistaminen epäonnistui. Yritä uudelleen.',
     'actions.delete': 'Poista',
+    'actions.sendToKindle': 'Lähetä Kindleen',
     'common.aiContent.indicator': 'Tekoälyn luoma sisältö',
     'common.aiContent.tooltip': 'Tämä sisältö on luotu tekoälyn avustuksella',
     'common.aiContent.model': 'AI-malli: {model}',
