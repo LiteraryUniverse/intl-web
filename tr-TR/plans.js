@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Sahne yöneticisi',
     'plans.feature.glossaries': 'Çeviri sözlükleri',
     'plans.feature.chatSupport': 'Sohbet desteği',
+    'plans.feature.storyDownloads': 'Hikaye indirmeleri',
     'plans.currency.select': 'Para birimini seçin',
     'payment.minimumAmount': 'Minimum aylık tutar',
     'payment.currency': 'Para Birimi',
