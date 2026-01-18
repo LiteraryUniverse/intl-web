@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Менеджер сцен',
     'plans.feature.glossaries': 'Глосарії перекладів',
     'plans.feature.chatSupport': 'Підтримка чату',
+    'plans.feature.storyDownloads': 'Завантаження історій',
     'plans.currency.select': 'Вибрати валюту',
     'payment.minimumAmount': 'Мінімальна щомісячна сума',
     'payment.currency': 'Валюта',
