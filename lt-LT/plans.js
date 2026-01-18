@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Scenų valdytojas',
     'plans.feature.glossaries': 'Vertimų žodynai',
     'plans.feature.chatSupport': 'Pokalbių pagalba',
+    'plans.feature.storyDownloads': 'Istorijos atsisiuntimai',
     'plans.currency.select': 'Pasirinkite valiutą',
     'payment.minimumAmount': 'Minimali mėnesio suma',
     'payment.currency': 'Valiuta',
