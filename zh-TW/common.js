@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': '您最多可以上傳 {max} 檔案。',
     'upload.error.removeFile': '移除檔案失敗。請重試。',
     'actions.delete': '刪除',
+    'actions.sendToKindle': '傳送至 Kindle',
     'common.aiContent.indicator': 'AI 產生的內容',
     'common.aiContent.tooltip': '本內容由 AI 協助建立',
     'common.aiContent.model': 'AI 機型： {model}',
