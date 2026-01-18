@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Quản lý các cảnh',
     'plans.feature.glossaries': 'Từ điển dịch',
     'plans.feature.chatSupport': 'Hỗ trợ qua chat',
+    'plans.feature.storyDownloads': 'Tải xuống câu chuyện',
     'plans.currency.select': 'Chọn loại tiền tệ',
     'payment.minimumAmount': 'Số tiền tối thiểu hàng tháng',
     'payment.currency': 'Tiền tệ',
