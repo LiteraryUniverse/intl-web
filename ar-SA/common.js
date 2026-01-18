@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'يمكنك تحميل {max} ملف بحد أقصى .',
     'upload.error.removeFile': 'فشل في إزالة الملف. يرجى المحاولة مرة أخرى.',
     'actions.delete': 'حذف',
+    'actions.sendToKindle': 'إرسال إلى كيندل',
     'common.aiContent.indicator': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'common.aiContent.tooltip': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
     'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
