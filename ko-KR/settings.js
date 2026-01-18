@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': '태그 추가',
     'settings.interests.avoidGenres.help': '추천에서 표시하지 않으려는 장르를 선택합니다.',
     'settings.interests.avoidGenres': '피해야 할 장르',
-    'settings.notifications': '알림 및 뉴스레터'
+    'settings.notifications': '알림 및 뉴스레터',
+    'settings.kindleEmail': 'Kindle 이메일',
+    'settings.kindleEmail.explained': '이 설정이 있는 경우 가능한 경우 클릭 한 번으로 스토리를 Kindle로 보낼 수 있는 옵션을 제공합니다. Amazon 설정의 콘텐츠 및 디바이스 -> 디바이스에서 Kindle을 선택하여 세부 정보를 확인하면 해당 이메일 주소를 찾을 수 있습니다.'
 };
