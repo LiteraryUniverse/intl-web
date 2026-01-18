@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Správce scén',
     'plans.feature.glossaries': 'Slovníky pro překlad',
     'plans.feature.chatSupport': 'Podpora přes chat',
+    'plans.feature.storyDownloads': 'Příběh ke stažení',
     'plans.currency.select': 'Vybrat měnu',
     'payment.minimumAmount': 'Minimální měsíční částka',
     'payment.currency': 'Měna',
