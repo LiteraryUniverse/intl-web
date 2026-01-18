@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Pridėti žymas',
     'settings.interests.avoidGenres.help': 'Pasirinkite žanrus, kurių nenorėtumėte matyti rekomendacijose.',
     'settings.interests.avoidGenres': 'Žanrai, kurių reikia vengti',
-    'settings.notifications': 'Pranešimai ir naujienlaiškiai'
+    'settings.notifications': 'Pranešimai ir naujienlaiškiai',
+    'settings.kindleEmail': 'Jūsų "Kindle" el. paštas',
+    'settings.kindleEmail.explained': 'Jei turite šį nustatymą, jei įmanoma, pasiūlysime jums galimybę siųsti istorijas į "Kindle" vienu spustelėjimu. Savo "Kindle" el. pašto adresą galite rasti "Amazon" nustatymuose, skiltyje Turinys ir įrenginiai -> Įrenginiai -> pasirinkite savo "Kindle", kad peržiūrėtumėte jo duomenis, ir ten rasite nurodytą el. pašto adresą.'
 };
