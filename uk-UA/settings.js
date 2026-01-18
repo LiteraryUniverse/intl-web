@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Додати теги',
     'settings.interests.avoidGenres.help': 'Виберіть жанри, які ви не хотіли б бачити в рекомендаціях.',
     'settings.interests.avoidGenres': 'Жанри, яких слід уникати',
-    'settings.notifications': 'Сповіщення та розсилки'
+    'settings.notifications': 'Сповіщення та розсилки',
+    'settings.kindleEmail': 'Ваш e-mail для Kindle',
+    'settings.kindleEmail.explained': 'Якщо у вас є цей набір, то за можливості ми запропонуємо вам можливість надсилати історії на ваш Kindle одним кліком. Ви можете знайти адресу електронної пошти вашого Kindle в налаштуваннях Amazon у розділі "Вміст і пристрої" -> "Пристрої" -> виберіть ваш Kindle, щоб переглянути його дані, і там ви знайдете вказану електронну адресу.'
 };
