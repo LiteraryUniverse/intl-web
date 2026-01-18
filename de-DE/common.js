@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Sie können maximal {max} Dateien hochladen.',
     'upload.error.removeFile': 'Die Datei konnte nicht entfernt werden. Bitte versuchen Sie es erneut.',
     'actions.delete': 'Löschen',
+    'actions.sendToKindle': 'An Kindle senden',
     'common.aiContent.indicator': 'KI-generierte Inhalte',
     'common.aiContent.tooltip': 'Dieser Inhalt wurde mit Hilfe von KI erstellt',
     'common.aiContent.model': 'AI-Modell: {model}',
