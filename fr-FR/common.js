@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Vous pouvez télécharger un maximum de {max} fichiers.',
     'upload.error.removeFile': 'Échec de la suppression du fichier. Veuillez réessayer.',
     'actions.delete': 'Supprimer',
+    'actions.sendToKindle': 'Envoyer à Kindle',
     'common.aiContent.indicator': 'Contenu généré par l\'IA',
     'common.aiContent.tooltip': 'Ce contenu a été créé avec l\'aide de l\'IA',
     'common.aiContent.model': 'Modèle AI : {model}',
