@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Gestor de escenas',
     'plans.feature.glossaries': 'Glosarios de traducción',
     'plans.feature.chatSupport': 'Asistencia por chat',
+    'plans.feature.storyDownloads': 'Descargas de cuentos',
     'plans.currency.select': 'Seleccionar divisa',
     'payment.minimumAmount': 'Importe mínimo mensual',
     'payment.currency': 'Moneda',
