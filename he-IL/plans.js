@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'מנהל סצינות',
     'plans.feature.glossaries': 'מילונים לתרגום',
     'plans.feature.chatSupport': 'תמיכה בצ\'אט',
+    'plans.feature.storyDownloads': 'הורדת סיפורים',
     'plans.currency.select': 'בחירת מטבע',
     'payment.minimumAmount': 'סכום חודשי מינימלי',
     'payment.currency': 'מטבע',
