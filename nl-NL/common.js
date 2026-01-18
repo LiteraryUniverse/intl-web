@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'U kunt maximaal {max} bestanden uploaden.',
     'upload.error.removeFile': 'Het verwijderen van het bestand is mislukt. Probeer het opnieuw.',
     'actions.delete': 'Verwijder',
+    'actions.sendToKindle': 'Verzenden naar Kindle',
     'common.aiContent.indicator': 'AI-gegenereerde inhoud',
     'common.aiContent.tooltip': 'Deze inhoud is gemaakt met AI-ondersteuning',
     'common.aiContent.model': 'AI-model: {model}',
