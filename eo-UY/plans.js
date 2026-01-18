@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Administranto de scenoj',
     'plans.feature.glossaries': 'Tradukaj vortaroj',
     'plans.feature.chatSupport': 'Babil-tuko',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'Elekti valuton',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
