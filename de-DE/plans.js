@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Szenen-Manager',
     'plans.feature.glossaries': 'Übersetzungsglossare',
     'plans.feature.chatSupport': 'Chat Support',
+    'plans.feature.storyDownloads': 'Story-Downloads',
     'plans.currency.select': 'Währung auswählen',
     'payment.minimumAmount': 'Monatlicher Mindestbetrag',
     'payment.currency': 'Währung',
