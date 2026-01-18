@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Scenemanager',
     'plans.feature.glossaries': 'Oversættelsesglossarer',
     'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.storyDownloads': 'Download af historier',
     'plans.currency.select': 'Vælg valuta',
     'payment.minimumAmount': 'Mindste månedlige beløb',
     'payment.currency': 'Valuta',
