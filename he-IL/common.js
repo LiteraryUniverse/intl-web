@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
     'actions.delete': 'Delete',
+    'actions.sendToKindle': 'שלח ל-Kindle',
     'common.aiContent.indicator': 'AI-Generated Content',
     'common.aiContent.tooltip': 'This content was created with AI assistance',
     'common.aiContent.model': 'AI Model: {model}',
