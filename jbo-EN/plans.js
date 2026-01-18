@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Scenes manager',
     'plans.feature.glossaries': 'Translation glossaries',
     'plans.feature.chatSupport': 'lo se cusku be lo jboske cu se cusku',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'Krixa le jdini',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
