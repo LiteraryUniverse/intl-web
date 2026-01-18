@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Manajer adegan',
     'plans.feature.glossaries': 'Glosarium terjemahan',
     'plans.feature.chatSupport': 'Dukungan obrolan',
+    'plans.feature.storyDownloads': 'Unduhan cerita',
     'plans.currency.select': 'Pilih mata uang',
     'payment.minimumAmount': 'Jumlah minimum bulanan',
     'payment.currency': 'Mata uang',
