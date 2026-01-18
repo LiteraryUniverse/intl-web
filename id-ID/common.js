@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Anda dapat mengunggah maksimum file {max} .',
     'upload.error.removeFile': 'Gagal menghapus file. Silakan coba lagi.',
     'actions.delete': 'Menghapus',
+    'actions.sendToKindle': 'Kirim ke Kindle',
     'common.aiContent.indicator': 'Konten yang Dihasilkan AI',
     'common.aiContent.tooltip': 'Konten ini dibuat dengan bantuan AI',
     'common.aiContent.model': 'Model AI: {model}',
