@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Scènes beheerder',
     'plans.feature.glossaries': 'Vertaalwoordenboeken',
     'plans.feature.chatSupport': 'Chatondersteuning',
+    'plans.feature.storyDownloads': 'Downloaden van verhalen',
     'plans.currency.select': 'Selecteer valuta',
     'payment.minimumAmount': 'Minimum maandelijks bedrag',
     'payment.currency': 'Valuta',
