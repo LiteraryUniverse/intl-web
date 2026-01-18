@@ -196,5 +196,7 @@ export default {
     'settings.interests.tags.placeholder': 'タグの追加',
     'settings.interests.avoidGenres.help': 'レコメンデーションで見たくないジャンルを選択する。',
     'settings.interests.avoidGenres': '避けるべきジャンル',
-    'settings.notifications': 'お知らせとニュースレター'
+    'settings.notifications': 'お知らせとニュースレター',
+    'settings.kindleEmail': 'Kindleメール',
+    'settings.kindleEmail.explained': 'この設定がある場合、可能な限り、ワンクリックでKindleにストーリーを送信するオプションを提供します。Kindleのメールアドレスは、アマゾンの設定の「コンテンツとデバイス」→「デバイス」→「Kindleを選択して詳細を表示」で見つけることができます。'
 };
