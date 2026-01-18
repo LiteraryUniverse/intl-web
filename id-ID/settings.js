@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Tambahkan tag',
     'settings.interests.avoidGenres.help': 'Pilih genre yang tidak ingin Anda lihat dalam rekomendasi.',
     'settings.interests.avoidGenres': 'Genre yang harus dihindari',
-    'settings.notifications': 'Pemberitahuan & buletin'
+    'settings.notifications': 'Pemberitahuan & buletin',
+    'settings.kindleEmail': 'Email Kindle Anda',
+    'settings.kindleEmail.explained': 'Jika Anda memiliki set ini, maka jika memungkinkan, kami akan menawarkan opsi untuk mengirim cerita ke Kindle Anda dengan satu klik. Anda dapat menemukan alamat email Kindle Anda di pengaturan Amazon Anda di bawah Konten & Perangkat -> Perangkat -> pilih Kindle Anda untuk melihat detailnya dan di sana Anda akan menemukan email yang tercantum.'
 };
