@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Ajouter des tags',
     'settings.interests.avoidGenres.help': 'Sélectionnez les genres que vous préférez ne pas voir dans les recommandations.',
     'settings.interests.avoidGenres': 'Genres à éviter',
-    'settings.notifications': 'Notifications et bulletins d\'information'
+    'settings.notifications': 'Notifications et bulletins d\'information',
+    'settings.kindleEmail': 'Votre e-mail Kindle',
+    'settings.kindleEmail.explained': 'Si vous avez choisi cette option, nous vous proposerons, dans la mesure du possible, d\'envoyer des articles à votre Kindle en un seul clic. Vous pouvez trouver l\'adresse électronique de votre Kindle dans vos paramètres Amazon sous Contenu et appareils -> Appareils -> sélectionnez votre Kindle pour afficher ses détails et vous y trouverez l\'adresse électronique.'
 };
