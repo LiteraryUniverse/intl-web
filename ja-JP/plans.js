@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'シーンマネージャー',
     'plans.feature.glossaries': '翻訳向け用語集',
     'plans.feature.chatSupport': 'チャット支援',
+    'plans.feature.storyDownloads': 'ストーリーのダウンロード',
     'plans.currency.select': '通貨の選択',
     'payment.minimumAmount': '最低月額',
     'payment.currency': '通貨',
