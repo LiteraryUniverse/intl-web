@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Pengurus adegan',
     'plans.feature.glossaries': 'Glosari terjemahan',
     'plans.feature.chatSupport': 'Sokongan perbualan',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'Pilih mata wang',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
