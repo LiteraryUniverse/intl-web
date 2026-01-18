@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
     'settings.interests.avoidGenres': 'Genres to avoid',
-    'settings.notifications': 'Notifications & newsletters'
+    'settings.notifications': 'Notifications & newsletters',
+    'settings.kindleEmail': 'Your Kindle e-mail',
+    'settings.kindleEmail.explained': 'If you have this set, then where possible we will offer you the option to send stories to your Kindle with one click. You can find your Kindle email address in your Amazon settings under Content & Devices -> Devices -> select your Kindle to view its details and there you will find the email listed.'
 };
