@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'სცენების მენეჯერი',
     'plans.feature.glossaries': 'თარგმნის ლექსიკონები',
     'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'აირჩიეთ ვალუტა',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
