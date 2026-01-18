@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'ದೃಶ್ಯ ನಿರ್ವಹಣೆಕಾರ',
     'plans.feature.glossaries': 'ಭಾಷಾಂತರ ನಿಘಂಟುಗಳು',
     'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.storyDownloads': 'Story downloads',
     'plans.currency.select': 'ನಾಣ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ',
     'payment.minimumAmount': 'Minimum monthly amount',
     'payment.currency': 'Currency',
