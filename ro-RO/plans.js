@@ -58,6 +58,7 @@ export default {
     'plans.feature.scenesManager': 'Manager de scene',
     'plans.feature.glossaries': 'Glosare de traducere',
     'plans.feature.chatSupport': 'Suport prin chat',
+    'plans.feature.storyDownloads': 'Descărcări de povești',
     'plans.currency.select': 'Selectați moneda',
     'payment.minimumAmount': 'Suma minimă lunară',
     'payment.currency': 'Valută',
