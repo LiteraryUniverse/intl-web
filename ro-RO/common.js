@@ -306,6 +306,7 @@ export default {
     'upload.error.tooManyFiles': 'Puteți încărca un număr maxim de fișiere {max} .',
     'upload.error.removeFile': 'Nu s-a reușit eliminarea fișierului. Vă rugăm să încercați din nou.',
     'actions.delete': 'Ștergeți',
+    'actions.sendToKindle': 'Trimiteți la Kindle',
     'common.aiContent.indicator': 'Conținut generat de inteligența artificială',
     'common.aiContent.tooltip': 'Acest conținut a fost creat cu ajutorul AI',
     'common.aiContent.model': 'Model AI: {model}',
