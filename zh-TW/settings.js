@@ -198,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': '新增標籤',
     'settings.interests.avoidGenres.help': '選擇您不希望在推薦中看到的類型。',
     'settings.interests.avoidGenres': '應避免的類型',
-    'settings.notifications': '通知與電子報'
+    'settings.notifications': '通知與電子報',
+    'settings.kindleEmail': '您的 Kindle 電子郵件',
+    'settings.kindleEmail.explained': '如果您有這樣的設定，那麼在可能的情況下，我們會提供您選項，讓您一按即可將故事傳送到您的 Kindle。您可以在亞馬遜設定中的內容與裝置 -> 裝置 -> 選擇您的 Kindle 來檢視其詳細資料，在那裡您會找到列出的電子郵件地址。'
 };
