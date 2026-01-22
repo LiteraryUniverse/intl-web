@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Autorius',
     'discovery.aiGenerated': 'Sukurtas dirbtinis intelektas',
     'discovery.isAIGenerated': 'Šį darbą sukūrė AI.',
+    'discovery.isPreview': 'Peržiūra',
+    'discovery.isPreview.explained': 'Ši istorija pateikiama tik kaip kūrinio peržiūra.',
     // AI content related strings
     'discovery.ai.content': 'dirbtinio intelekto sukurtas turinys',
     'discovery.ai.universes': 'Dirbtinio intelekto sukurtos visatos',
