@@ -71,6 +71,8 @@ export default {
     'discovery.author': 'Автор',
     'discovery.aiGenerated': 'Создано ИИ',
     'discovery.isAIGenerated': 'Эта работа была создана с помощью искусственного интеллекта.',
+    'discovery.isPreview': 'Предварительный просмотр',
+    'discovery.isPreview.explained': 'Эта история предоставляется только в качестве предварительного просмотра произведения.',
     // AI content related strings
     'discovery.ai.content': 'Контент, созданный искусственным интеллектом',
     'discovery.ai.universes': 'Вселенные, созданные искусственным интеллектом',
