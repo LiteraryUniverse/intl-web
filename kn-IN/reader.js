@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'ಪ್ರವೇಶಿಸಲು ಅನುಕೂಲತೆಗಳನ್ನು ಟಾಗಲ್ ಮಾಡಿ',
     'chapter.translation.notYet': 'ಈ ಅಧ್ಯಾಯವನ್ನು ಇನ್ನೂ ಭಾಷಾಂತರಿಸಲಾಗಿಲ್ಲ.',
     'externalShopping.buyLink.amazon': 'ಆಮೆಜಾನ್‌ನಲ್ಲಿ ಖರೀದಿಸಿ',
-    'externalShopping.buyLink.other': '{storeName}ನಲ್ಲಿ ಖರಿದುಕೊಳ್ಳಿ',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'ಬುಕ್‌ಶಾಪ್.ಆರ್ಜಿ ನಲ್ಲಿ ಖರೀದಿಸಿ',
     'reader.accessibility.aria': 'ಪ್ರವೇಶ್ಯತೆ ಆಯ್ಕೆಗಳು',
     'reader.accessibility.toggleDyslexic': 'ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಫಾಂಟ್ ಟಾಗಲ್ ಮಾಡು',
