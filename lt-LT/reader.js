@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Perjungti prieinamumą',
     'chapter.translation.notYet': 'Šis skyrius dar ne išverstas.',
     'externalShopping.buyLink.amazon': 'Įsigykite iš Amazon',
-    'externalShopping.buyLink.other': 'Įsigykite iš {storeName}',
+    'externalShopping.buyLink.other': 'Prisijunkite prie {storeName}',
     'externalShopping.buyLink.bookshop': 'Įsigykite iš Bookshop.org',
     'reader.accessibility.aria': 'Prieinamumo parinktys',
     'reader.accessibility.toggleDyslexic': 'Perjungti disleksijai skirtą šriftą',
