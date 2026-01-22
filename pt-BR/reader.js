@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Alternar a acessibilidade',
     'chapter.translation.notYet': 'Este capítulo ainda não foi traduzido.',
     'externalShopping.buyLink.amazon': 'Comprar na Amazon',
-    'externalShopping.buyLink.other': 'Comprar na {storeName}',
+    'externalShopping.buyLink.other': 'Acesse {storeName}',
     'externalShopping.buyLink.bookshop': 'Comprar na Bookshop.org',
     'reader.accessibility.aria': 'Opções de acessibilidade',
     'reader.accessibility.toggleDyslexic': 'Alternar fonte para disléxicos',
