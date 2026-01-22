@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'المؤلف',
     'discovery.aiGenerated': 'إنشاء الذكاء الاصطناعي',
     'discovery.isAIGenerated': 'تم إنشاء هذا العمل بواسطة الذكاء الاصطناعي.',
+    'discovery.isPreview': 'معاينة',
+    'discovery.isPreview.explained': 'يتم توفير هذه القصة فقط كمعاينة للعمل.',
     // AI content related strings
     'discovery.ai.content': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'discovery.ai.universes': 'الأكوان المولدة بالذكاء الاصطناعي',
