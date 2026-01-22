@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Ŝalti alireblon',
     'chapter.translation.notYet': 'Ĉi tiu ĉapitro ankoraŭ ne estas tradukita.',
     'externalShopping.buyLink.amazon': 'Aĉetu ĉe Amazon',
-    'externalShopping.buyLink.other': 'Aĉetu ĉe {storeName}',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Aĉetu ĉe Bookshop.org',
     'reader.accessibility.aria': 'Alireblaj opcioj pri alirebleco',
     'reader.accessibility.toggleDyslexic': 'Ŝalti disleksian tiparon',
