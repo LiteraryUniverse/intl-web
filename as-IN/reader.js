@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'বৃদ্ধির সুবিধা চালু / বন্ধ করুন',
     'chapter.translation.notYet': 'এই অধ্যায়টি এখনো অনুবাদ করা হয়নি।',
     'externalShopping.buyLink.amazon': 'এমাজনে কিনুন',
-    'externalShopping.buyLink.other': 'অন্য কোথাও কিনুন {storeName}',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Bookshop.org এ কিনুন',
     'reader.accessibility.aria': 'অবসরপ্রাপ্তির বিকল্প',
     'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
