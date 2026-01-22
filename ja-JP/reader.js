@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'トグルアクセシビリティ',
     'chapter.translation.notYet': 'この章はまだ翻訳されていません。',
     'externalShopping.buyLink.amazon': 'Amazonで購入',
-    'externalShopping.buyLink.other': '{storeName}で購入',
+    'externalShopping.buyLink.other': '{storeName}',
     'externalShopping.buyLink.bookshop': 'Bookshop.orgで購入',
     'reader.accessibility.aria': 'アクセシビリティのオプションメニュー',
     'reader.accessibility.toggleDyslexic': 'トグル式ディスレクティックフォント',
