@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Toggle accessibility',
     'chapter.translation.notYet': 'This chapter has not yet been translated.',
     'externalShopping.buyLink.amazon': 'Buy on Amazon',
-    'externalShopping.buyLink.other': '{storeName}ରେ କେନ୍ଦ୍ରିତ କର:',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'ବୁକ୍‌ଶପ୍.ଓର୍ଗ୍‌ ରେ କ୍ରେତି କରନ୍ତୁ',
     'reader.accessibility.aria': 'ଅଭିଗମ୍ୟତା ଵିକଳ୍ପ',
     'reader.accessibility.toggleDyslexic': 'ଡିସଲେକ୍ସିକ ଫଣ୍ଟକୁ ପ୍ରଦର୍ଶନରେ ପରିବର୍ତନ କରନ୍ତୁ',
