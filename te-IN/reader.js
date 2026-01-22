@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'ప్రాప్యత',
     'chapter.translation.notYet': 'ఈ అధ్యాయం ఇంకా అనువాదించబడలేదు.',
     'externalShopping.buyLink.amazon': 'అమెజాన్‌లో కొనుగోలు చేయండి',
-    'externalShopping.buyLink.other': '{storeName}మీద కొనుక్కుంటారు',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'బుక్‌షాప్.ఓర్గ్ లో కొనుగోలు చేయండి',
     'reader.accessibility.aria': 'ప్రాప్యత ఎంపికలు',
     'reader.accessibility.toggleDyslexic': 'డిస్లెక్సిక్ ఫాంట్‌ను టాగిల్ చేయండి',
