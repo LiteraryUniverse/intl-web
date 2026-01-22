@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'تبديل إمكانية الوصول',
     'chapter.translation.notYet': 'لم يتم ترجمة هذا الفصل بعد.',
     'externalShopping.buyLink.amazon': 'شراء على أمازون',
-    'externalShopping.buyLink.other': 'شراء على {storeName}',
+    'externalShopping.buyLink.other': 'احصل على {storeName}',
     'externalShopping.buyLink.bookshop': 'شراء على Bookshop.org',
     'reader.accessibility.aria': 'خيارات الوصول',
     'reader.accessibility.toggleDyslexic': 'تبديل خط عسر القراءة',
