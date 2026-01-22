@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': '切換無障礙模式',
     'chapter.translation.notYet': '本章尚未翻譯。',
     'externalShopping.buyLink.amazon': '在亞馬遜購買',
-    'externalShopping.buyLink.other': '在 {storeName}上购买',
+    'externalShopping.buyLink.other': '上 {storeName}',
     'externalShopping.buyLink.bookshop': '在Bookshop.org上購買',
     'reader.accessibility.aria': '無障礙選項',
     'reader.accessibility.toggleDyslexic': '切換讀寫障礙字型',
