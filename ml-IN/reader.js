@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'പ്രവേശാനുഗമം മാറ്റുക',
     'chapter.translation.notYet': 'ഈ അദ്ധ്യായം ഇതുവരെ അനുവദിച്ചിട്ടില്ല.',
     'externalShopping.buyLink.amazon': 'അമോണിലൈനിൽ വാങ്ങുക',
-    'externalShopping.buyLink.other': 'വാങ്ങുക {storeName}നിങ്ങൾക്കായി',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'ബുക്ക് ഷോപ്പ്.ഒർഗിൽ വാങ്ങുക',
     'reader.accessibility.aria': 'പ്രവർത്തനശോധനകൾ',
     'reader.accessibility.toggleDyslexic': 'വായനാരോഗ്യത്തിന് ഏതെങ്കിലും അക്ഷരരൂപം മാറ്റുക',
