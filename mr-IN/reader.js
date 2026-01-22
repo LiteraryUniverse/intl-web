@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'प्रवासहवा बंद करा',
     'chapter.translation.notYet': 'हा पाठ अद्याप भाषांतरित केलेला नाही.',
     'externalShopping.buyLink.amazon': 'अ‍ॅमेझॉनवर खरेदी करा',
-    'externalShopping.buyLink.other': 'दुसर्‍या ठिकाणी खरेदी करा {storeName}',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'bookshop.org वर खरेदी करा',
     'reader.accessibility.aria': 'मदतीचे पर्याय',
     'reader.accessibility.toggleDyslexic': 'मनोविकारक फॉंट टॉगल करा',
