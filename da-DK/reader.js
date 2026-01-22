@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Skift tilgængelighed',
     'chapter.translation.notYet': 'Dette kapitel er endnu ikke blevet oversat.',
     'externalShopping.buyLink.amazon': 'Køb på Amazon',
-    'externalShopping.buyLink.other': 'Køb på {storeName}',
+    'externalShopping.buyLink.other': 'Gå ind på {storeName}',
     'externalShopping.buyLink.bookshop': 'Køb på Bookshop.org',
     'reader.accessibility.aria': 'Tilgængelighedsindstillinger',
     'reader.accessibility.toggleDyslexic': 'Skift dysleksi skrifttype',
