@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'அணுகல்வழிகாட்டலை மாற்று',
     'chapter.translation.notYet': 'இந்த அத்தியாயம் இன்னும் மொழிபெயர்க்கப்படவில்லை.',
     'externalShopping.buyLink.amazon': 'Amazon இல் வாங்குக',
-    'externalShopping.buyLink.other': 'வாங்கு {storeName}-ஐ இங்கு',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'புத்தகக்கடை.org-இல் வாங்குங்கள்',
     'reader.accessibility.aria': 'அணுகல் விருப்பங்கள்',
     'reader.accessibility.toggleDyslexic': 'வாய்மையில் மூட்டு எழுத்துருவாக்கத்தை மாற்றுக',
