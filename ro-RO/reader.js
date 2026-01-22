@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Comută accesibilitatea',
     'chapter.translation.notYet': 'Acest capitol nu a fost încă tradus.',
     'externalShopping.buyLink.amazon': 'Cumpără de pe Amazon',
-    'externalShopping.buyLink.other': 'Cumpara pe {storeName}',
+    'externalShopping.buyLink.other': 'Intrați pe {storeName}',
     'externalShopping.buyLink.bookshop': 'Cumpără de pe Bookshop.org',
     'reader.accessibility.aria': 'Opțiuni de accesibilitate',
     'reader.accessibility.toggleDyslexic': 'Comută fontul pentru dislexici',
