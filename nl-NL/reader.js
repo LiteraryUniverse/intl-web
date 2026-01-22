@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Wissel toegankelijkheid',
     'chapter.translation.notYet': 'Dit hoofdstuk is nog niet vertaald.',
     'externalShopping.buyLink.amazon': 'Koop op Amazon',
-    'externalShopping.buyLink.other': 'Koop op {storeName}',
+    'externalShopping.buyLink.other': 'Ga naar {storeName}',
     'externalShopping.buyLink.bookshop': 'Koop op Bookshop.org',
     'reader.accessibility.aria': 'Opties voor toegankelijkheid',
     'reader.accessibility.toggleDyslexic': 'Wissel dyslectisch lettertype',
