@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Hozzáférhetőség kapcsolása',
     'chapter.translation.notYet': 'Ez a fejezet még nincs lefordítva.',
     'externalShopping.buyLink.amazon': 'Vásárlás az Amazonon',
-    'externalShopping.buyLink.other': 'Vásárlás a {storeName}boltban',
+    'externalShopping.buyLink.other': 'Szállj fel a {storeName}oldalra.',
     'externalShopping.buyLink.bookshop': 'Vásárlás a Bookshop.org-on',
     'reader.accessibility.aria': 'Hozzáférhetőségi lehetőségek',
     'reader.accessibility.toggleDyslexic': 'Olvasási nehézségek esetén Dyslexic betűtípus kapcsolása',
