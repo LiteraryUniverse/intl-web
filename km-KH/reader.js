@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'បិទភាពជំរើសដំណើរការ',
     'chapter.translation.notYet': 'ជំរាបសរសេរនេះមិនទាន់បានបានបកប្រែទេ។',
     'externalShopping.buyLink.amazon': 'ទិញនៅលើ Amazon',
-    'externalShopping.buyLink.other': 'ទិញនៅលើ {storeName}',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'ទិញនៅលើ Bookshop.org',
     'reader.accessibility.aria': 'ជម្រើសភាពដំណើរការប្រើប្រាស់ប្លង់ចូលដំណើរការ',
     'reader.accessibility.toggleDyslexic': 'បង្កើតប្លង់ពន្លឺមិនប្រើប្រាស់ប្រភេទអក្សរពិនិត្យ',
