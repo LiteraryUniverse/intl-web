@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'გამართვის ჩართვა/გამორთვა',
     'chapter.translation.notYet': 'ამ თავისუფალს ჯერ არ გაქვთ თარგმნილი.',
     'externalShopping.buyLink.amazon': 'ყიდვა Amazon-ზე',
-    'externalShopping.buyLink.other': 'ყიდვა {storeName}',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'ყიდვა Bookshop.org-ზე',
     'reader.accessibility.aria': 'წვდომის პარამეტრები',
     'reader.accessibility.toggleDyslexic': 'დისლექსიური შრიფტის ჩართვა/გამორთვა',
