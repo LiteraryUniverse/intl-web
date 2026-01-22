@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Vaihda saavutettavuutta',
     'chapter.translation.notYet': 'Tämä luku ei ole vielä käännetty.',
     'externalShopping.buyLink.amazon': 'Osta Amazonista',
-    'externalShopping.buyLink.other': 'Osta {storeName}',
+    'externalShopping.buyLink.other': 'Mene osoitteeseen {storeName}',
     'externalShopping.buyLink.bookshop': 'Osta Bookshop.orgista',
     'reader.accessibility.aria': 'Saavutettavuusasetukset',
     'reader.accessibility.toggleDyslexic': 'Vaihda dyslektistä fonttia',
