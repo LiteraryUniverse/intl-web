@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Zugänglichkeit umschalten',
     'chapter.translation.notYet': 'Dieses Kapitel ist noch nicht übersetzt worden.',
     'externalShopping.buyLink.amazon': 'Bei Amazon kaufen',
-    'externalShopping.buyLink.other': 'Auf {storeName} kaufen',
+    'externalShopping.buyLink.other': 'Rufen Sie {storeName}auf.',
     'externalShopping.buyLink.bookshop': 'Auf Bookshop.org kaufen',
     'reader.accessibility.aria': 'Barrierefreiheit Optionen',
     'reader.accessibility.toggleDyslexic': 'Legasthenie-Schriftart umschalten',
