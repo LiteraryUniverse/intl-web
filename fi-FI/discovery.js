@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Kirjoittaja',
     'discovery.aiGenerated': 'AI Generated',
     'discovery.isAIGenerated': 'Tämä työ on tuotettu tekoälyn avulla.',
+    'discovery.isPreview': 'Esikatselu',
+    'discovery.isPreview.explained': 'Tämä tarina on vain teoksen esikatselukappale.',
     // AI content related strings
     'discovery.ai.content': 'Tekoälyn luoma sisältö',
     'discovery.ai.universes': 'Tekoälyn luomat maailmankaikkeudet',
