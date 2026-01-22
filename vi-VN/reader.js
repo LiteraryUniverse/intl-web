@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Chuyển đổi trợ năng',
     'chapter.translation.notYet': 'Chương này chưa được dịch.',
     'externalShopping.buyLink.amazon': 'Mua trên Amazon',
-    'externalShopping.buyLink.other': 'Mua trên {storeName}',
+    'externalShopping.buyLink.other': 'Truy cập {storeName}',
     'externalShopping.buyLink.bookshop': 'Mua trên Bookshop.org',
     'reader.accessibility.aria': 'Các tùy chọn tiếp cận',
     'reader.accessibility.toggleDyslexic': 'Chuyển đổi phông chữ khó đọc',
