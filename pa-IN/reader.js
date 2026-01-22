@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'ਪਹੁੰਚਯੋਗਤਾ ਟਾਗਲ ਕਰੋ',
     'chapter.translation.notYet': 'ਇਸ ਅਧਿਆਇ ਦਾ ਅਜੇ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ।',
     'externalShopping.buyLink.amazon': 'Amazon \'ਤੇ ਖਰੀਦੋ',
-    'externalShopping.buyLink.other': '{storeName}ਤੇ ਖਰੀਦੋ',
+    'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'ਬੁੱਕਸ਼ਾਪ.org ਤੇ ਖਰੀਦੋ',
     'reader.accessibility.aria': 'ਪਹੁੰਚਯੋਗਤਾ ਚੋਣਾਂ',
     'reader.accessibility.toggleDyslexic': 'ਡਿਸਲੈਕਸਿਕ ਫੋਂਟ ਟਾਗਲ ਕਰੋ',
