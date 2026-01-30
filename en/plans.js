@@ -45,7 +45,6 @@ export default {
   'plans.feature.fictionalTime': 'Fictional time',
   'plans.feature.forums': 'Forums on blogs & universe pages',
   'plans.feature.timelines': 'Universe timelines',
-  'plans.feature.webMonetization': 'Web Monetization',
   'plans.feature.storyMonetization': 'Story monetization',
   'plans.feature.fanClub': 'Fan Club',
   // Editor-side gating controls
@@ -164,11 +163,6 @@ export default {
   'payment.methods.adding': 'You new payment method has been added to your account.',
   'payment.methods.delete': 'Delete payment method',
   'payment.upgradePlan.option': '{plan} - {price}',
-  'payment.methods.webMonetization': 'Web Monetization',
-  'settings.webMonetization.placeholder': 'Your payment pointer',
-  'payment.webMonetization.explained':
-    'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
-  'payment.webMonetization.learnMore': 'Learn more about Web Monetization',
   'plans.subscription.settingsAria': 'Subscription settings options',
   'plans.buttonStatus.submitting': 'Submitting your request...',
   'plans.button.manageOnStripe': 'Manage Billing on Stripe',
@@ -190,7 +184,6 @@ export default {
     'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.',
   'plans.subscribed.updating':
     'It might take a bit to update your your subscription information. Thank you for your patience!',
-  'payments.methods.webMonetization': 'Web Monetization',
   'stripeConnect.settings.title': 'Payouts settings',
   'stripeConnect.settings.intro':
     'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
@@ -339,10 +332,6 @@ export default {
   'plans.subscription.error.portalFailed': 'Could not open customer portal. Please try again later.',
   'plans.subscription.error.noCustomer': 'Customer account not found. Please contact support.',
   'plans.subscription.error.stripeError': 'Error connecting to payment provider. Please try again later.',
-  'plans.subscription.error.noCustomer': 'Customer account not found. Please contact support.',
-  'plans.subscription.error.stripeError': 'Error connecting to payment provider. Please try again later.',
-  'plans.subscription.error.generic': 'An error occurred. Please try again later.',
-  'plans.subscription.error.portalFailed': 'Could not open customer portal. Please try again later.',
   'plans.subscription.error.stripeNotConfigured': 'Payment provider is not properly configured. Please contact support.',
   'plans.subscription.error.customerNotInStripe': 'Your customer account was not found in the payment system. Please contact support.',
   'plans.subscription.error.vendorNotFound': 'Vendor account not found. Please contact support.',
