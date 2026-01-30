@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Author',
     'discovery.aiGenerated': 'AI Generated',
     'discovery.isAIGenerated': 'ผลงานนี้สร้างขึ้นโดยปัญญาประดิษฐ์',
+    'discovery.isPreview': 'ตัวอย่าง',
+    'discovery.isPreview.explained': 'เรื่องราวนี้จัดเตรียมไว้เพียงเพื่อเป็นการดูตัวอย่างของผลงานเท่านั้น',
     // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',

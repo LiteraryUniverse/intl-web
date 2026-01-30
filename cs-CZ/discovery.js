@@ -71,6 +71,8 @@ export default {
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Generované umělou inteligencí',
     'discovery.isAIGenerated': 'Tato práce byla vytvořena pomocí umělé inteligence.',
+    'discovery.isPreview': 'Náhled',
+    'discovery.isPreview.explained': 'Tento příběh slouží pouze jako ukázka z díla.',
     // AI content related strings
     'discovery.ai.content': 'Obsah generovaný AI',
     'discovery.ai.universes': 'Vesmíry generované umělou inteligencí',

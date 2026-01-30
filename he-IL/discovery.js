@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Author',
     'discovery.aiGenerated': 'AI Generated',
     'discovery.isAIGenerated': 'עבודה זו נוצרה על ידי בינה מלאכותית.',
+    'discovery.isPreview': 'תצוגה מקדימה',
+    'discovery.isPreview.explained': 'סיפור זה מוצג רק כקדימון ליצירה.',
     // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',

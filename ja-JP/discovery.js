@@ -61,6 +61,8 @@ export default {
     'discovery.author': '作者',
     'discovery.aiGenerated': 'AIが生成',
     'discovery.isAIGenerated': 'この作品はAIによって生み出された。',
+    'discovery.isPreview': 'プレビュー',
+    'discovery.isPreview.explained': 'この物語は作品のプレビューとしてのみ提供される。',
     // AI content related strings
     'discovery.ai.content': 'AIが生成したコンテンツ',
     'discovery.ai.universes': 'AIが生成する宇宙',

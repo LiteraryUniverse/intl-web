@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'AI loodud',
     'discovery.isAIGenerated': 'See töö on loodud tehisintellekti abil.',
+    'discovery.isPreview': 'Eelvaade',
+    'discovery.isPreview.explained': 'See lugu on esitatud ainult teose eelvaates.',
     // AI content related strings
     'discovery.ai.content': 'Tehisintellekti loodud sisu',
     'discovery.ai.universes': 'Tehisintellekti loodud universumid',

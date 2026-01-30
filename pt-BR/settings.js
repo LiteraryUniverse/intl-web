@@ -101,6 +101,59 @@ export default {
     'settings.2fa.instructions4': 'Digite os 6 números que aparecem na tela na entrada aqui para finalizar.',
     'settings.2fa.saved': 'Autenticação de dois fatores estabelecida com sucesso!',
     'settings.2fa.disableOTP': 'Desativar a autenticação OTP de dois fatores',
+    // API Keys
+    'settings.apiKeys.title': 'Chaves de API',
+    'settings.apiKeys.description': 'As chaves de API permitem que aplicativos de terceiros acessem seus dados do Universo Literário em seu nome. Trate-as como senhas e nunca as compartilhe.',
+    'settings.apiKeys.noKeys': 'O senhor ainda não tem nenhuma chave de API.',
+    'settings.apiKeys.created': 'Criado {date, date, medium} em {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Última utilização {time}',
+    'settings.apiKeys.neverUsed': 'Nunca usado',
+    'settings.apiKeys.expires': 'Expira {date, date, medium}',
+    'settings.apiKeys.name': 'Nome da chave',
+    'settings.apiKeys.name.placeholder': 'Por exemplo, Obsidian Plugin',
+    'settings.apiKeys.permissions': 'Permissões',
+    'settings.apiKeys.generate': 'Gerar chave de API',
+    'settings.apiKeys.generated.title': 'Chave de API gerada',
+    'settings.apiKeys.generated.warning': 'Salve essa chave agora! O senhor não conseguirá vê-la novamente.',
+    'settings.apiKeys.copyToClipboard': 'Copiar para a área de transferência',
+    'settings.apiKeys.expiration': 'Vencimento',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 mês}
+    =3 {3 meses}
+    =6 {6 meses}
+    =12 {1 ano (recomendado)}
+    =24 {2 anos}
+    other {{months} meses}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'O senhor tem certeza de que deseja revogar essa chave de API? Essa ação não pode ser desfeita.',
+    'settings.apiKeys.delete.confirm': 'O senhor tem certeza de que deseja excluir essa chave de API? Essa ação não pode ser desfeita.',
+    'settings.apiKeys.error.nameRequired': 'Digite um nome para sua chave de API',
+    'settings.apiKeys.error.scopesRequired': 'Selecione pelo menos uma permissão',
+    'settings.apiKeys.security.title': 'Aviso de segurança',
+    'settings.apiKeys.security.1': 'Nunca compartilhe sua chave de API com ninguém',
+    'settings.apiKeys.security.2': 'Trate-a como uma senha',
+    'settings.apiKeys.security.3': 'O senhor pode revogar o acesso a qualquer momento',
+    'settings.apiKeys.security.4': 'A chave será exibida apenas uma vez',
+    'settings.apiKeys.scope.story.read': 'Ler histórias',
+    'settings.apiKeys.scope.story.read.desc': 'Acesse os títulos, o conteúdo e os capítulos de suas histórias',
+    'settings.apiKeys.scope.story.write': 'Criar e editar histórias',
+    'settings.apiKeys.scope.story.write.desc': 'Criar novas histórias e atualizar as existentes',
+    'settings.apiKeys.scope.universe.read': 'Ler universos',
+    'settings.apiKeys.scope.universe.read.desc': 'Acesse seus verbetes de enciclopédia e dados de construção de mundos',
+    'settings.apiKeys.scope.universe.write': 'Criar e editar universos',
+    'settings.apiKeys.scope.universe.write.desc': 'Criar e atualizar entradas de enciclopédia',
+    'settings.apiKeys.scope.scratchpad.read': 'Ler notas',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Acesse suas anotações particulares e o bloco de notas',
+    'settings.apiKeys.scope.scratchpad.write': 'Criar e editar notas',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Criar e atualizar suas anotações',
+    'settings.apiKeys.scope.blog.read': 'Leia as postagens do blog',
+    'settings.apiKeys.scope.blog.read.desc': 'Acesse suas postagens e rascunhos de blog',
+    'settings.apiKeys.scope.blog.write': 'Criar e editar postagens de blog',
+    'settings.apiKeys.scope.blog.write.desc': 'Criar e atualizar postagens de blog',
+    'settings.apiKeys.scope.user.read': 'Ler perfil',
+    'settings.apiKeys.scope.user.read.desc': 'Acesse seu nome de usuário, avatar e perfil público',
+    'settings.apiKeys.scope.library.read': 'Ler biblioteca',
+    'settings.apiKeys.scope.library.read.desc': 'Acesse suas listas de leitura e histórias salvas',
     // Web3
     'settings.web3.legend': 'Conexão da carteira Web3',
     'settings.web3.explained': 'Você pode conectar sua carteira criptografada Web3 à sua conta do Literary Universe. Uma vez conectado, você poderá fazer login com sua carteira e fazer ainda mais coisas no futuro, à medida que expandimos nossa oferta Web3.',
@@ -143,5 +196,7 @@ export default {
     'settings.interests.tags.placeholder': 'Adicionar tags',
     'settings.interests.avoidGenres.help': 'Selecione os gêneros que o senhor prefere não ver nas recomendações.',
     'settings.interests.avoidGenres': 'Gêneros a serem evitados',
-    'settings.notifications': 'Notificações e boletins informativos'
+    'settings.notifications': 'Notificações e boletins informativos',
+    'settings.kindleEmail': 'Seu e-mail do Kindle',
+    'settings.kindleEmail.explained': 'Se o senhor tiver essa configuração, sempre que possível, ofereceremos a opção de enviar histórias para o Kindle com um clique. O senhor pode encontrar o endereço de e-mail do Kindle nas configurações da Amazon em Content & Devices -> Devices -> selecione o Kindle para ver os detalhes e lá encontrará o e-mail listado.'
 };

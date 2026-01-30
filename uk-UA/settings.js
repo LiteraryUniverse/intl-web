@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Введіть 6 чисел, які з\'являться на екрані, у поле для введення, щоб закінчити.',
     'settings.2fa.saved': 'Двоетапну автентифікацію успішно встановлено!',
     'settings.2fa.disableOTP': 'Вимкнути двоетапну автентифікацію',
+    // API Keys
+    'settings.apiKeys.title': 'Ключі API',
+    'settings.apiKeys.description': 'API-ключі дозволяють стороннім додаткам отримувати доступ до даних вашого Літературного Всесвіту від вашого імені. Ставтеся до них як до паролів і ніколи не діліться ними.',
+    'settings.apiKeys.noKeys': 'У вас ще немає ключів API.',
+    'settings.apiKeys.created': 'Створено {date, date, medium} на {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Останній раз використовувався {time}',
+    'settings.apiKeys.neverUsed': 'Ніколи не використовувався',
+    'settings.apiKeys.expires': 'Закінчується {date, date, medium}',
+    'settings.apiKeys.name': 'Ключова назва',
+    'settings.apiKeys.name.placeholder': 'наприклад, плагін Obsidian',
+    'settings.apiKeys.permissions': 'Дозволи',
+    'settings.apiKeys.generate': 'Згенеруйте ключ API',
+    'settings.apiKeys.generated.title': 'Згенеровано ключ API',
+    'settings.apiKeys.generated.warning': 'Збережи цей ключ зараз! Ви більше не зможете його побачити.',
+    'settings.apiKeys.copyToClipboard': 'Скопіювати в буфер обміну',
+    'settings.apiKeys.expiration': 'Закінчення терміну дії',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 місяць}
+    =3 {3 місяці}
+    =6 {6 місяців}
+    =12 {1 рік (рекомендовано)}
+    =24 {2 роки}
+    other {{months} місяців}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Ви впевнені, що хочете відкликати цей ключ API? Ця дія не може бути скасована.',
+    'settings.apiKeys.delete.confirm': 'Ви впевнені, що хочете видалити цей ключ API? Ця дія не може бути скасована.',
+    'settings.apiKeys.error.nameRequired': 'Будь ласка, введіть ім\'я для вашого API-ключа',
+    'settings.apiKeys.error.scopesRequired': 'Будь ласка, оберіть принаймні один дозвіл',
+    'settings.apiKeys.security.title': 'Повідомлення про безпеку',
+    'settings.apiKeys.security.1': 'Ніколи нікому не передавайте свій API-ключ',
+    'settings.apiKeys.security.2': 'Ставтеся до нього як до пароля',
+    'settings.apiKeys.security.3': 'Ви можете відкликати доступ у будь-який час',
+    'settings.apiKeys.security.4': 'Ключ буде показано лише один раз',
+    'settings.apiKeys.scope.story.read': 'Читати історії',
+    'settings.apiKeys.scope.story.read.desc': 'Доступ до назв, вмісту та розділів ваших історій',
+    'settings.apiKeys.scope.story.write': 'Створюйте та редагуйте історії',
+    'settings.apiKeys.scope.story.write.desc': 'Створюйте нові історії та оновлюйте існуючі',
+    'settings.apiKeys.scope.universe.read': 'Читай всесвіти',
+    'settings.apiKeys.scope.universe.read.desc': 'Доступ до статей енциклопедії та даних про світобудову',
+    'settings.apiKeys.scope.universe.write': 'Створення та редагування всесвітів',
+    'settings.apiKeys.scope.universe.write.desc': 'Створюйте та оновлюйте статті в енциклопедії',
+    'settings.apiKeys.scope.scratchpad.read': 'Читати нотатки',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Доступ до особистих нотаток і блокнота',
+    'settings.apiKeys.scope.scratchpad.write': 'Створюйте та редагуйте нотатки',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Створюйте та оновлюйте нотатки',
+    'settings.apiKeys.scope.blog.read': 'Читайте дописи в блозі',
+    'settings.apiKeys.scope.blog.read.desc': 'Доступ до публікацій та чернеток вашого блогу',
+    'settings.apiKeys.scope.blog.write': 'Створюйте та редагуйте дописи в блозі',
+    'settings.apiKeys.scope.blog.write.desc': 'Створюйте та оновлюйте дописи в блозі',
+    'settings.apiKeys.scope.user.read': 'Читати профіль',
+    'settings.apiKeys.scope.user.read.desc': 'Доступ до вашого імені користувача, аватарки та публічного профілю',
+    'settings.apiKeys.scope.library.read': 'Бібліотека для читання',
+    'settings.apiKeys.scope.library.read.desc': 'Доступ до списків читання та збережених історій',
     // Web3
     'settings.web3.legend': 'Підключення Web3-гаманця',
     'settings.web3.explained': 'Ви можете підключити свій Web3-криптогаманець до свого облікового запису на Літературному Всесвіті. Після підключення ви зможете входити в систему за допомогою гаманця і матимете більше можливостей в майбутньому, оскільки ми розширюємо наш Web3 пропозиції.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Додати теги',
     'settings.interests.avoidGenres.help': 'Виберіть жанри, які ви не хотіли б бачити в рекомендаціях.',
     'settings.interests.avoidGenres': 'Жанри, яких слід уникати',
-    'settings.notifications': 'Сповіщення та розсилки'
+    'settings.notifications': 'Сповіщення та розсилки',
+    'settings.kindleEmail': 'Ваш e-mail для Kindle',
+    'settings.kindleEmail.explained': 'Якщо у вас є цей набір, то за можливості ми запропонуємо вам можливість надсилати історії на ваш Kindle одним кліком. Ви можете знайти адресу електронної пошти вашого Kindle в налаштуваннях Amazon у розділі "Вміст і пристрої" -> "Пристрої" -> виберіть ваш Kindle, щоб переглянути його дані, і там ви знайдете вказану електронну адресу.'
 };

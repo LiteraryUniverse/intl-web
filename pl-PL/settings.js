@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Aby zakończyć, wpisz 6 liczb, które pojawią się na ekranie, w polu wprowadzania danych.',
     'settings.2fa.saved': 'Uwierzytelnianie dwuskładnikowe zostało pomyślnie ustanowione!',
     'settings.2fa.disableOTP': 'Wyłącz uwierzytelnianie dwuskładnikowe OTP',
+    // API Keys
+    'settings.apiKeys.title': 'Klucze API',
+    'settings.apiKeys.description': 'Klucze API umożliwiają aplikacjom zewnętrznym dostęp do danych Literary Universe w Państwa imieniu. Proszę traktować je jak hasła i nigdy ich nie udostępniać.',
+    'settings.apiKeys.noKeys': 'Nie mają Państwo jeszcze żadnych kluczy API.',
+    'settings.apiKeys.created': 'Utworzono {date, date, medium} na {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Ostatnio używane {time}',
+    'settings.apiKeys.neverUsed': 'Nigdy nie używany',
+    'settings.apiKeys.expires': 'Wygasa {date, date, medium}',
+    'settings.apiKeys.name': 'Nazwa klucza',
+    'settings.apiKeys.name.placeholder': 'np. wtyczka Obsidian',
+    'settings.apiKeys.permissions': 'Uprawnienia',
+    'settings.apiKeys.generate': 'Generowanie klucza API',
+    'settings.apiKeys.generated.title': 'Wygenerowany klucz API',
+    'settings.apiKeys.generated.warning': 'Proszę zapisać ten klucz! Nie będą Państwo mogli go ponownie zobaczyć.',
+    'settings.apiKeys.copyToClipboard': 'Kopiuj do schowka',
+    'settings.apiKeys.expiration': 'Wygaśnięcie',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 miesiąc}
+    =3 {3 miesiące}
+    =6 {6 miesięcy}
+    =12 {1 rok (zalecane)}
+    =24 {2 lata}
+    other {{months} miesiące}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Czy na pewno chcą Państwo cofnąć ten klucz API? Tej czynności nie można cofnąć.',
+    'settings.apiKeys.delete.confirm': 'Czy na pewno chcą Państwo usunąć ten klucz API? Tej czynności nie można cofnąć.',
+    'settings.apiKeys.error.nameRequired': 'Proszę wprowadzić nazwę klucza API',
+    'settings.apiKeys.error.scopesRequired': 'Proszę wybrać przynajmniej jedno pozwolenie',
+    'settings.apiKeys.security.title': 'Powiadomienie o zabezpieczeniach',
+    'settings.apiKeys.security.1': 'Proszę nigdy nie udostępniać nikomu swojego klucza API',
+    'settings.apiKeys.security.2': 'Proszę traktować to jak hasło',
+    'settings.apiKeys.security.3': 'Mogą Państwo cofnąć dostęp w dowolnym momencie',
+    'settings.apiKeys.security.4': 'Klucz zostanie wyświetlony tylko raz',
+    'settings.apiKeys.scope.story.read': 'Proszę przeczytać historie',
+    'settings.apiKeys.scope.story.read.desc': 'Dostęp do tytułów, treści i rozdziałów historii',
+    'settings.apiKeys.scope.story.write': 'Tworzenie i edytowanie historii',
+    'settings.apiKeys.scope.story.write.desc': 'Tworzyć nowe historie i aktualizować istniejące',
+    'settings.apiKeys.scope.universe.read': 'Proszę czytać wszechświaty',
+    'settings.apiKeys.scope.universe.read.desc': 'Dostęp do wpisów w encyklopedii i danych tworzenia świata',
+    'settings.apiKeys.scope.universe.write': 'Tworzenie i edytowanie wszechświatów',
+    'settings.apiKeys.scope.universe.write.desc': 'Tworzenie i aktualizacja wpisów w encyklopedii',
+    'settings.apiKeys.scope.scratchpad.read': 'Proszę przeczytać notatki',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Dostęp do prywatnych notatek i notatnika',
+    'settings.apiKeys.scope.scratchpad.write': 'Tworzenie i edytowanie notatek',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Tworzenie i aktualizacja notatek',
+    'settings.apiKeys.scope.blog.read': 'Proszę przeczytać wpisy na blogu',
+    'settings.apiKeys.scope.blog.read.desc': 'Dostęp do wpisów na blogu i wersji roboczych',
+    'settings.apiKeys.scope.blog.write': 'Tworzenie i edytowanie wpisów na blogu',
+    'settings.apiKeys.scope.blog.write.desc': 'Tworzenie i aktualizowanie wpisów na blogu',
+    'settings.apiKeys.scope.user.read': 'Proszę przeczytać profil',
+    'settings.apiKeys.scope.user.read.desc': 'Dostęp do nazwy użytkownika, awatara i profilu publicznego',
+    'settings.apiKeys.scope.library.read': 'Proszę przeczytać bibliotekę',
+    'settings.apiKeys.scope.library.read.desc': 'Dostęp do list czytelniczych i zapisanych historii',
     // Web3
     'settings.web3.legend': 'Połączenie z portfelem Web3',
     'settings.web3.explained': 'Możesz połączyć swój portfel kryptowalutowy Web3 z kontem Literary Universe. Po połączeniu będziesz mógł logować się za pomocą swojego portfela i robić jeszcze więcej rzeczy w przyszłości, w miarę jak będziemy rozszerzać naszą ofertę Web3.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Proszę dodać tagi',
     'settings.interests.avoidGenres.help': 'Proszę wybrać gatunki, których nie chcą Państwo widzieć w rekomendacjach.',
     'settings.interests.avoidGenres': 'Gatunki, których należy unikać',
-    'settings.notifications': 'Powiadomienia i biuletyny'
+    'settings.notifications': 'Powiadomienia i biuletyny',
+    'settings.kindleEmail': 'Państwa e-mail Kindle',
+    'settings.kindleEmail.explained': 'Jeśli mają Państwo ustawioną tę opcję, w miarę możliwości będziemy oferować możliwość wysyłania historii na Państwa Kindle za pomocą jednego kliknięcia. Adres e-mail Kindle można znaleźć w ustawieniach Amazon w zakładce Content & Devices -> Devices -> proszę wybrać Kindle, aby wyświetlić jego szczegóły i tam znaleźć adres e-mail.'
 };

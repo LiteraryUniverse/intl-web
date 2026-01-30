@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': '在此輸入屏幕上顯示的6位數字，以完成設置。',
     'settings.2fa.saved': '雙因素認證已成功建立！',
     'settings.2fa.disableOTP': '停用OTP雙因素認證',
+    // API Keys
+    'settings.apiKeys.title': 'API 金鑰',
+    'settings.apiKeys.description': 'API 金鑰允許第三方應用程式代表您存取您的 Literary Universe 資料。請像對待密碼一樣對待它們，切勿共用。',
+    'settings.apiKeys.noKeys': '您還沒有任何 API 金鑰。',
+    'settings.apiKeys.created': '建立 {date, date, medium} 於 {date, time, short}',
+    'settings.apiKeys.lastUsed': '最後使用 {time}',
+    'settings.apiKeys.neverUsed': '從未使用',
+    'settings.apiKeys.expires': '過期 {date, date, medium}',
+    'settings.apiKeys.name': '鑰匙名稱',
+    'settings.apiKeys.name.placeholder': '例如，Obsidian 外掛程式',
+    'settings.apiKeys.permissions': '權限',
+    'settings.apiKeys.generate': '產生 API 金鑰',
+    'settings.apiKeys.generated.title': '已產生的 API 金鑰',
+    'settings.apiKeys.generated.warning': '現在就儲存這個鑰匙！您將無法再看到它。',
+    'settings.apiKeys.copyToClipboard': '複製到剪貼簿',
+    'settings.apiKeys.expiration': '到期日',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 個月}
+    =3 {3 個月}
+    =6 {6 個月}
+    =12 {1 年（建議）}
+    =24 {2 年}
+    other {{months} 個月}
+  }`,
+    'settings.apiKeys.revoke.confirm': '您確定要撤銷此 API 金鑰嗎？此動作無法撤銷。',
+    'settings.apiKeys.delete.confirm': '您確定要刪除此 API 金鑰嗎？此動作無法撤銷。',
+    'settings.apiKeys.error.nameRequired': '請輸入您的 API 金鑰名稱',
+    'settings.apiKeys.error.scopesRequired': '請至少選擇一項許可',
+    'settings.apiKeys.security.title': '安全公告',
+    'settings.apiKeys.security.1': '絕不與任何人分享您的 API 金鑰',
+    'settings.apiKeys.security.2': '將其視為密碼',
+    'settings.apiKeys.security.3': '您可以隨時撤銷存取權限',
+    'settings.apiKeys.security.4': '鑰匙只會顯示一次',
+    'settings.apiKeys.scope.story.read': '閱讀故事',
+    'settings.apiKeys.scope.story.read.desc': '存取您的故事標題、內容和章節',
+    'settings.apiKeys.scope.story.write': '建立和編輯故事',
+    'settings.apiKeys.scope.story.write.desc': '建立新故事並更新現有故事',
+    'settings.apiKeys.scope.universe.read': '閱讀宇宙',
+    'settings.apiKeys.scope.universe.read.desc': '存取您的百科全書條目及世界建構資料',
+    'settings.apiKeys.scope.universe.write': '建立和編輯宇宙',
+    'settings.apiKeys.scope.universe.write.desc': '建立和更新百科全書條目',
+    'settings.apiKeys.scope.scratchpad.read': '閱讀說明',
+    'settings.apiKeys.scope.scratchpad.read.desc': '存取您的私人筆記和刮板',
+    'settings.apiKeys.scope.scratchpad.write': '建立和編輯備註',
+    'settings.apiKeys.scope.scratchpad.write.desc': '建立和更新您的筆記',
+    'settings.apiKeys.scope.blog.read': '閱讀部落格文章',
+    'settings.apiKeys.scope.blog.read.desc': '存取您的部落格文章和草稿',
+    'settings.apiKeys.scope.blog.write': '建立和編輯部落格文章',
+    'settings.apiKeys.scope.blog.write.desc': '建立和更新部落格文章',
+    'settings.apiKeys.scope.user.read': '閱讀簡介',
+    'settings.apiKeys.scope.user.read.desc': '存取您的使用者名稱、頭像和公開個人資料',
+    'settings.apiKeys.scope.library.read': '閱讀圖書館',
+    'settings.apiKeys.scope.library.read.desc': '存取您的閱讀清單和儲存的故事',
     // Web3
     'settings.web3.legend': 'Web3錢包連接',
     'settings.web3.explained': '您可以將Web3加密錢包連接到您的Literary Universe帳戶。連接後，您將能夠使用您的錢包進行登錄，並在我們擴展Web3服務的未來執行更多操作。',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': '新增標籤',
     'settings.interests.avoidGenres.help': '選擇您不希望在推薦中看到的類型。',
     'settings.interests.avoidGenres': '應避免的類型',
-    'settings.notifications': '通知與電子報'
+    'settings.notifications': '通知與電子報',
+    'settings.kindleEmail': '您的 Kindle 電子郵件',
+    'settings.kindleEmail.explained': '如果您有這樣的設定，那麼在可能的情況下，我們會提供您選項，讓您一按即可將故事傳送到您的 Kindle。您可以在亞馬遜設定中的內容與裝置 -> 裝置 -> 選擇您的 Kindle 來檢視其詳細資料，在那裡您會找到列出的電子郵件地址。'
 };

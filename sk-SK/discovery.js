@@ -69,6 +69,8 @@ export default {
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Generované umelou inteligenciou',
     'discovery.isAIGenerated': 'Túto prácu vytvorila umelá inteligencia.',
+    'discovery.isPreview': 'Náhľad',
+    'discovery.isPreview.explained': 'Tento príbeh slúži len ako ukážka z diela.',
     // AI content related strings
     'discovery.ai.content': 'Obsah generovaný umelou inteligenciou',
     'discovery.ai.universes': 'Vesmíry generované umelou inteligenciou',

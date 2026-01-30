@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'הקלד את ה-6 מספרים שמופיעים על המסך לתוך הקלט כאן כדי לסיים.',
     'settings.2fa.saved': 'אימות דו-שלב הוקמה בהצלחה!',
     'settings.2fa.disableOTP': 'נטרל את אימות דו-שלב עם קוד OTP',
+    // API Keys
+    'settings.apiKeys.title': 'מפתחות API',
+    'settings.apiKeys.description': 'מפתחות API מאפשרים ליישומים של צד שלישי לגשת לנתוני Literary Universe שלך בשמך. התייחס אליהם כמו אל סיסמאות ואל תשתף אותם עם אף אחד.',
+    'settings.apiKeys.noKeys': 'אין לך עדיין מפתחות API.',
+    'settings.apiKeys.created': 'נוצר {date, date, medium} ב {date, time, short}',
+    'settings.apiKeys.lastUsed': 'שימוש אחרון {time}',
+    'settings.apiKeys.neverUsed': 'מעולם לא השתמשתי',
+    'settings.apiKeys.expires': 'תוקף {date, date, medium}',
+    'settings.apiKeys.name': 'שם מפתח',
+    'settings.apiKeys.name.placeholder': 'לדוגמה, תוסף Obsidian',
+    'settings.apiKeys.permissions': 'הרשאות',
+    'settings.apiKeys.generate': 'צור מפתח API',
+    'settings.apiKeys.generated.title': 'מפתח API נוצר',
+    'settings.apiKeys.generated.warning': 'שמור את המפתח הזה עכשיו! לא תוכל לראות אותו שוב.',
+    'settings.apiKeys.copyToClipboard': 'העתק ללוח',
+    'settings.apiKeys.expiration': 'תוקף',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {חודש}
+    =3 {3 חודשים}
+    =6 {6 חודשים}
+    =12 {שנה (מומלץ)}
+    =24 {שנתיים}
+    other {{months} חודשים}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'האם אתה בטוח שברצונך לבטל את מפתח ה-API הזה? לא ניתן לבטל פעולה זו.',
+    'settings.apiKeys.delete.confirm': 'האם אתה בטוח שברצונך למחוק את מפתח ה-API הזה? לא ניתן לבטל פעולה זו.',
+    'settings.apiKeys.error.nameRequired': 'אנא הזן שם למפתח ה-API שלך',
+    'settings.apiKeys.error.scopesRequired': 'אנא בחר לפחות הרשאה אחת',
+    'settings.apiKeys.security.title': 'הודעת אבטחה',
+    'settings.apiKeys.security.1': 'לעולם אל תשתף את מפתח ה-API שלך עם אף אחד',
+    'settings.apiKeys.security.2': 'התייחס אליו כמו אל סיסמה',
+    'settings.apiKeys.security.3': 'ניתן לבטל את הגישה בכל עת',
+    'settings.apiKeys.security.4': 'המפתח יוצג רק פעם אחת',
+    'settings.apiKeys.scope.story.read': 'קרא סיפורים',
+    'settings.apiKeys.scope.story.read.desc': 'גש לכותרות הסיפורים, לתכנים ולפרקים שלך',
+    'settings.apiKeys.scope.story.write': 'יצירת ועריכת סיפורים',
+    'settings.apiKeys.scope.story.write.desc': 'יצירת סיפורים חדשים ועדכון סיפורים קיימים',
+    'settings.apiKeys.scope.universe.read': 'קרא יקומים',
+    'settings.apiKeys.scope.universe.read.desc': 'גש לערכי האנציקלופדיה ולנתוני בניית העולם שלך',
+    'settings.apiKeys.scope.universe.write': 'יצירת ועריכת יקומים',
+    'settings.apiKeys.scope.universe.write.desc': 'יצירת ועידכון ערכים באנציקלופדיה',
+    'settings.apiKeys.scope.scratchpad.read': 'קרא הערות',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'גש להערות הפרטיות שלך ולמחברת',
+    'settings.apiKeys.scope.scratchpad.write': 'יצירת ועריכת הערות',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'צור ועדכן את ההערות שלך',
+    'settings.apiKeys.scope.blog.read': 'קרא פוסטים בבלוג',
+    'settings.apiKeys.scope.blog.read.desc': 'גש לפוסטים ולטיוטות בבלוג שלך',
+    'settings.apiKeys.scope.blog.write': 'יצירת ועריכת פוסטים בבלוג',
+    'settings.apiKeys.scope.blog.write.desc': 'יצירת ועדכון פוסטים בבלוג',
+    'settings.apiKeys.scope.user.read': 'קרא פרופיל',
+    'settings.apiKeys.scope.user.read.desc': 'גש לשם המשתמש, לאווטאר ולפרופיל הציבורי שלך',
+    'settings.apiKeys.scope.library.read': 'קרא ספרייה',
+    'settings.apiKeys.scope.library.read.desc': 'גש לרשימות הקריאה שלך ולסיפורים השמורים',
     // Web3
     'settings.web3.legend': 'חיבור כרסום Web3',
     'settings.web3.explained': 'ניתן לחבר את ארנק הקריפטו שלך בפרוטוקול Web3 לחשבון היצירתי שלך. לאחר החיבור, תוכל להתחבר עם הארנק שלך ולעשות עוד הרבה דברים בעתיד כשנרחיב את ההצעה שלנו בפרוטוקול Web3.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
     'settings.interests.avoidGenres': 'Genres to avoid',
-    'settings.notifications': 'הודעות וניוזלטרים'
+    'settings.notifications': 'הודעות וניוזלטרים',
+    'settings.kindleEmail': 'כתובת הדוא"ל של Kindle שלך',
+    'settings.kindleEmail.explained': 'אם יש לך את ההגדרה הזו, אז במידת האפשר נציע לך את האפשרות לשלוח סיפורים ל-Kindle שלך בלחיצה אחת. תוכל למצוא את כתובת הדוא"ל של ה-Kindle שלך בהגדרות Amazon תחת תוכן ומכשירים -> מכשירים -> בחר את ה-Kindle שלך כדי להציג את פרטיו, ושם תמצא את כתובת הדוא"ל.'
 };

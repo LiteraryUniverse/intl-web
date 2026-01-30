@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Nhập 6 số xuất hiện trên màn hình vào đây để hoàn tất.',
     'settings.2fa.saved': 'Xác thực hai yếu tố đã được thiết lập thành công!',
     'settings.2fa.disableOTP': 'Tắt xác thực hai yếu tố OTP',
+    // API Keys
+    'settings.apiKeys.title': 'Khóa API',
+    'settings.apiKeys.description': 'API keys cho phép các ứng dụng của bên thứ ba truy cập dữ liệu Literary Universe của bạn thay mặt bạn. Hãy coi chúng như mật khẩu và tuyệt đối không chia sẻ chúng.',
+    'settings.apiKeys.noKeys': 'Bạn chưa có bất kỳ khóa API nào.',
+    'settings.apiKeys.created': 'Được tạo bởi {date, date, medium} tại {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Lần sử dụng cuối cùng {time}',
+    'settings.apiKeys.neverUsed': 'Chưa bao giờ sử dụng',
+    'settings.apiKeys.expires': 'Hạn sử dụng {date, date, medium}',
+    'settings.apiKeys.name': 'Tên khóa',
+    'settings.apiKeys.name.placeholder': 'Ví dụ: Plugin Obsidian',
+    'settings.apiKeys.permissions': 'Quyền truy cập',
+    'settings.apiKeys.generate': 'Tạo khóa API',
+    'settings.apiKeys.generated.title': 'Khóa API đã được tạo',
+    'settings.apiKeys.generated.warning': 'Lưu lại khóa này ngay bây giờ! Bạn sẽ không thể xem lại nó nữa.',
+    'settings.apiKeys.copyToClipboard': 'Sao chép vào khay nhớ tạm',
+    'settings.apiKeys.expiration': 'Hạn sử dụng',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 tháng}
+    =3 {3 tháng}
+    =6 {6 tháng}
+    =12 {1 năm (được khuyến nghị)}
+    =24 {2 năm}
+    other {{months} tháng}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Bạn có chắc chắn muốn thu hồi khóa API này không? Hành động này không thể hoàn tác.',
+    'settings.apiKeys.delete.confirm': 'Bạn có chắc chắn muốn xóa khóa API này không? Hành động này không thể hoàn tác.',
+    'settings.apiKeys.error.nameRequired': 'Vui lòng nhập tên cho khóa API của bạn.',
+    'settings.apiKeys.error.scopesRequired': 'Vui lòng chọn ít nhất một quyền.',
+    'settings.apiKeys.security.title': 'Thông báo an ninh',
+    'settings.apiKeys.security.1': 'Không bao giờ chia sẻ khóa API của bạn với bất kỳ ai.',
+    'settings.apiKeys.security.2': 'Xử lý nó như một mật khẩu',
+    'settings.apiKeys.security.3': 'Bạn có thể thu hồi quyền truy cập bất cứ lúc nào.',
+    'settings.apiKeys.security.4': 'Khóa sẽ chỉ được hiển thị một lần.',
+    'settings.apiKeys.scope.story.read': 'Đọc truyện',
+    'settings.apiKeys.scope.story.read.desc': 'Truy cập tiêu đề, nội dung và các chương của câu chuyện của bạn.',
+    'settings.apiKeys.scope.story.write': 'Tạo và chỉnh sửa câu chuyện',
+    'settings.apiKeys.scope.story.write.desc': 'Tạo các câu chuyện mới và cập nhật các câu chuyện hiện có.',
+    'settings.apiKeys.scope.universe.read': 'Đọc các vũ trụ',
+    'settings.apiKeys.scope.universe.read.desc': 'Truy cập các mục từ bách khoa toàn thư và dữ liệu xây dựng thế giới của bạn.',
+    'settings.apiKeys.scope.universe.write': 'Tạo và chỉnh sửa các vũ trụ',
+    'settings.apiKeys.scope.universe.write.desc': 'Tạo và cập nhật các mục từ trong bách khoa toàn thư',
+    'settings.apiKeys.scope.scratchpad.read': 'Đọc ghi chú',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Truy cập vào các ghi chú riêng tư và sổ ghi chép của bạn.',
+    'settings.apiKeys.scope.scratchpad.write': 'Tạo và chỉnh sửa ghi chú',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Tạo và cập nhật ghi chú của bạn',
+    'settings.apiKeys.scope.blog.read': 'Đọc các bài viết trên blog',
+    'settings.apiKeys.scope.blog.read.desc': 'Truy cập các bài viết và bản nháp trên blog của bạn',
+    'settings.apiKeys.scope.blog.write': 'Tạo và chỉnh sửa bài viết blog',
+    'settings.apiKeys.scope.blog.write.desc': 'Tạo và cập nhật bài viết trên blog',
+    'settings.apiKeys.scope.user.read': 'Đọc hồ sơ',
+    'settings.apiKeys.scope.user.read.desc': 'Truy cập tên người dùng, avatar và hồ sơ công khai của bạn.',
+    'settings.apiKeys.scope.library.read': 'Đọc thư viện',
+    'settings.apiKeys.scope.library.read.desc': 'Truy cập danh sách đọc và các câu chuyện đã lưu của bạn',
     // Web3
     'settings.web3.legend': 'Kết nối ví Web3',
     'settings.web3.explained': 'Bạn có thể kết nối ví tiền điện tử Web3 của mình với tài khoản Literary Universe của bạn. Sau khi kết nối, bạn sẽ có thể đăng nhập bằng ví của mình và làm nhiều việc hơn trong tương lai khi chúng tôi mở rộng ứng dụng Web3 của mình.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
     'settings.interests.avoidGenres': 'Genres to avoid',
-    'settings.notifications': 'Thông báo & bản tin'
+    'settings.notifications': 'Thông báo & bản tin',
+    'settings.kindleEmail': 'Địa chỉ email Kindle của bạn',
+    'settings.kindleEmail.explained': 'Nếu bạn đã có bộ sản phẩm này, chúng tôi sẽ cung cấp cho bạn tùy chọn gửi truyện đến Kindle của bạn chỉ với một cú nhấp chuột. Bạn có thể tìm địa chỉ email Kindle của mình trong cài đặt Amazon, tại mục Nội dung & Thiết bị -> Thiết bị -> chọn Kindle của bạn để xem chi tiết và địa chỉ email sẽ được liệt kê tại đó.'
 };
