@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Öykü ayarlarında yayınlamayı engelle etkinleştirildiğinde yayınlanamıyor.',
     'workshop.publishing.restricted': 'İyi hal ihlali nedeniyle yayınlama yeteneğinizi devre dışı bıraktık.',
     'workshop.story.buyingSettings': 'Satış ayarları',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Bir bölümü silmek için onay modalı',
+    'workshop.chapter.delete.confirm': 'Bölüm Silme',
+    'workshop.chapter.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
+    'workshop.chapter.delete.button': 'Bölüm Silme',
+    'workshop.chapter.delete.deleting': 'Siliniyor...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Yapay Zeka Tarafından Oluşturulan İçerik',
     'workshop.chapter.aiGenerated.tooltip': 'Bu bölümü yapay zeka tarafından oluşturulmuş içerik içeriyor olarak işaretleyin',
