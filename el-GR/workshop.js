@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Δεν είναι δυνατή η δημοσίευση ενώ η αποτροπή δημοσίευσης είναι ενεργοποιημένη στις ρυθμίσεις της ιστορίας.',
     'workshop.publishing.restricted': 'Λόγω παραβίασης της καλής συμπεριφοράς, απενεργοποιήσαμε τη δυνατότητά σας να δημοσιεύετε.',
     'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός κεφαλαίου',
+    'workshop.chapter.delete.confirm': 'Διαγραφή κεφαλαίου',
+    'workshop.chapter.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
+    'workshop.chapter.delete.button': 'Διαγραφή κεφαλαίου',
+    'workshop.chapter.delete.deleting': 'Διαγραφή...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'workshop.chapter.aiGenerated.tooltip': 'Σημειώστε ότι αυτό το κεφάλαιο περιέχει περιεχόμενο δημιουργημένο από τεχνητή νοημοσύνη',
