@@ -363,6 +363,13 @@ export default {
   'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
   'workshop.story.buyingSettings': 'Sale settings',
 
+  // Chapter deletion
+  'workshop.chapter.delete.modalAria': 'Confirmation modal for deleting a chapter',
+  'workshop.chapter.delete.confirm': 'Delete Chapter',
+  'workshop.chapter.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
+  'workshop.chapter.delete.button': 'Delete Chapter',
+  'workshop.chapter.delete.deleting': 'Deleting...',
+
   // AI Content Marking
   'workshop.chapter.aiGenerated': 'AI-Generated Content',
   'workshop.chapter.aiGenerated.tooltip': 'Mark this chapter as containing AI-generated content',
