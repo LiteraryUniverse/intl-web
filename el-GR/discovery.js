@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Συγγραφέας',
     'discovery.aiGenerated': 'AI Generated',
     'discovery.isAIGenerated': 'Το έργο αυτό δημιουργήθηκε από την AI.',
+    'discovery.isPreview': 'Προεπισκόπηση',
+    'discovery.isPreview.explained': 'Αυτή η ιστορία παρέχεται μόνο ως προεπισκόπηση του έργου.',
     // AI content related strings
     'discovery.ai.content': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'discovery.ai.universes': 'Σύμπαντα που δημιουργούνται από Τεχνητή Νοημοσύνη',

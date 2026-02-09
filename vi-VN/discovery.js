@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Author',
     'discovery.aiGenerated': 'AI Generated',
     'discovery.isAIGenerated': 'Công việc này được tạo ra bởi trí tuệ nhân tạo.',
+    'discovery.isPreview': 'Xem trước',
+    'discovery.isPreview.explained': 'Câu chuyện này chỉ được cung cấp như một bản xem trước của tác phẩm.',
     // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',

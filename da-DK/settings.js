@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Indtast de 6 tal, der vises på skærmen, i feltet her for at afslutte.',
     'settings.2fa.saved': 'To-faktor-godkendelse oprettet succesfuldt!',
     'settings.2fa.disableOTP': 'Deaktiver OTP to-faktor-godkendelse',
+    // API Keys
+    'settings.apiKeys.title': 'API-nøgler',
+    'settings.apiKeys.description': 'API-nøgler giver tredjepartsapplikationer adgang til dine Literary Universe-data på dine vegne. Behandl dem som adgangskoder, og del dem aldrig.',
+    'settings.apiKeys.noKeys': 'Du har ikke nogen API-nøgler endnu.',
+    'settings.apiKeys.created': 'Oprettet {date, date, medium} på {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Sidst brugt {time}',
+    'settings.apiKeys.neverUsed': 'Aldrig brugt',
+    'settings.apiKeys.expires': 'Udløber {date, date, medium}',
+    'settings.apiKeys.name': 'Nøgle Navn',
+    'settings.apiKeys.name.placeholder': 'f.eks. Obsidian Plugin',
+    'settings.apiKeys.permissions': 'Tilladelser',
+    'settings.apiKeys.generate': 'Generer API-nøgle',
+    'settings.apiKeys.generated.title': 'API-nøgle genereret',
+    'settings.apiKeys.generated.warning': 'Gem denne nøgle nu! Du vil ikke kunne se den igen.',
+    'settings.apiKeys.copyToClipboard': 'Kopier til udklipsholder',
+    'settings.apiKeys.expiration': 'Udløb',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 måned}
+    =3 {3 måneder}
+    =6 {6 måneder}
+    =12 {1 år (anbefales)}
+    =24 {2 år}
+    other {{months} måneder}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Er du sikker på, at du vil tilbagekalde denne API-nøgle? Denne handling kan ikke fortrydes.',
+    'settings.apiKeys.delete.confirm': 'Er du sikker på, at du vil slette denne API-nøgle? Denne handling kan ikke fortrydes.',
+    'settings.apiKeys.error.nameRequired': 'Indtast et navn til din API-nøgle',
+    'settings.apiKeys.error.scopesRequired': 'Vælg venligst mindst én tilladelse',
+    'settings.apiKeys.security.title': 'Sikkerhedsmeddelelse',
+    'settings.apiKeys.security.1': 'Del aldrig din API-nøgle med nogen',
+    'settings.apiKeys.security.2': 'Behandl det som en adgangskode',
+    'settings.apiKeys.security.3': 'Du kan tilbagekalde adgang når som helst',
+    'settings.apiKeys.security.4': 'Nøglen vil kun blive vist én gang',
+    'settings.apiKeys.scope.story.read': 'Læs historier',
+    'settings.apiKeys.scope.story.read.desc': 'Få adgang til dine historiers titler, indhold og kapitler',
+    'settings.apiKeys.scope.story.write': 'Opret og rediger historier',
+    'settings.apiKeys.scope.story.write.desc': 'Opret nye historier og opdater eksisterende',
+    'settings.apiKeys.scope.universe.read': 'Læs universer',
+    'settings.apiKeys.scope.universe.read.desc': 'Få adgang til dine leksikonopslag og data om verdensopbygning',
+    'settings.apiKeys.scope.universe.write': 'Opret og rediger universer',
+    'settings.apiKeys.scope.universe.write.desc': 'Opret og opdater opslag i encyklopædien',
+    'settings.apiKeys.scope.scratchpad.read': 'Læs noter',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Få adgang til dine private noter og scratchpad',
+    'settings.apiKeys.scope.scratchpad.write': 'Opret og rediger noter',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Opret og opdater dine noter',
+    'settings.apiKeys.scope.blog.read': 'Læs blogindlæg',
+    'settings.apiKeys.scope.blog.read.desc': 'Få adgang til dine blogindlæg og kladder',
+    'settings.apiKeys.scope.blog.write': 'Opret og rediger blogindlæg',
+    'settings.apiKeys.scope.blog.write.desc': 'Opret og opdater blogindlæg',
+    'settings.apiKeys.scope.user.read': 'Læs profil',
+    'settings.apiKeys.scope.user.read.desc': 'Få adgang til dit brugernavn, din avatar og din offentlige profil',
+    'settings.apiKeys.scope.library.read': 'Læs bibliotek',
+    'settings.apiKeys.scope.library.read.desc': 'Få adgang til dine læselister og gemte historier',
     // Web3
     'settings.web3.legend': 'Web3 wallet-forbindelse',
     'settings.web3.explained': 'Du kan forbinde din Web3-kryptokonto til din Literary Universe-konto. Når den er forbundet, kan du logge ind med din konto og gøre endnu flere ting i fremtiden, når vi udvider vores Web3-tilbud.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Tilføj tags',
     'settings.interests.avoidGenres.help': 'Vælg de genrer, du helst ikke vil se i anbefalingerne.',
     'settings.interests.avoidGenres': 'Genrer, der skal undgås',
-    'settings.notifications': 'Meddelelser og nyhedsbreve'
+    'settings.notifications': 'Meddelelser og nyhedsbreve',
+    'settings.kindleEmail': 'Din Kindle e-mail',
+    'settings.kindleEmail.explained': 'Hvis du har indstillet dette, vil vi så vidt muligt tilbyde dig muligheden for at sende historier til din Kindle med et enkelt klik. Du kan finde din Kindle-e-mailadresse i dine Amazon-indstillinger under Indhold og enheder -> Enheder -> vælg din Kindle for at se dens detaljer, og der vil du finde e-mailen angivet.'
 };

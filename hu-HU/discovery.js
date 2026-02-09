@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Szerző',
     'discovery.aiGenerated': 'AI generált',
     'discovery.isAIGenerated': 'Ezt a munkát a mesterséges intelligencia hozta létre.',
+    'discovery.isPreview': 'Előnézet',
+    'discovery.isPreview.explained': 'Ez a történet csak a mű előzetese.',
     // AI content related strings
     'discovery.ai.content': 'AI-generált tartalom',
     'discovery.ai.universes': 'Mesterséges intelligencia által generált univerzumok',

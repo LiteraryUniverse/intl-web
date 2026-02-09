@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Syötä näytöllä näkyvät 6 numeroa tähän loppuun saattamiseksi.',
     'settings.2fa.saved': 'Kaksivaiheinen tunnistautuminen onnistuneesti luotu!',
     'settings.2fa.disableOTP': 'Poista OTP-kaksivaiheinen tunnistautuminen käytöstä',
+    // API Keys
+    'settings.apiKeys.title': 'API-avaimet',
+    'settings.apiKeys.description': 'API-avaimien avulla kolmannen osapuolen sovellukset voivat käyttää Literary Universe -tietojasi puolestasi. Kohtele niitä kuin salasanoja äläkä koskaan jaa niitä.',
+    'settings.apiKeys.noKeys': 'Sinulla ei ole vielä API-avaimia.',
+    'settings.apiKeys.created': 'Luotu {date, date, medium} osoitteessa {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Viimeksi käytetty {time}',
+    'settings.apiKeys.neverUsed': 'Ei koskaan käytetty',
+    'settings.apiKeys.expires': 'Expires {date, date, medium}',
+    'settings.apiKeys.name': 'Avaimen nimi',
+    'settings.apiKeys.name.placeholder': 'esim. Obsidian Plugin (Obsidian Plugin)',
+    'settings.apiKeys.permissions': 'Luvat',
+    'settings.apiKeys.generate': 'Luo API-avain',
+    'settings.apiKeys.generated.title': 'API-avain luotu',
+    'settings.apiKeys.generated.warning': 'Tallenna tämä avain nyt! Et näe sitä enää koskaan.',
+    'settings.apiKeys.copyToClipboard': 'Kopioi leikepöydälle',
+    'settings.apiKeys.expiration': 'Viimeinen voimassaoloaika',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 kuukausi}
+    =3 {3 kuukautta}
+    =6 {6 kuukautta}
+    =12 {1 vuosi (suositellaan)}
+    =24 {2 vuotta}
+    other {{months} kuukautta}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Haluatko varmasti peruuttaa tämän API-avaimen? Tätä toimenpidettä ei voi peruuttaa.',
+    'settings.apiKeys.delete.confirm': 'Haluatko varmasti poistaa tämän API-avaimen? Tätä toimenpidettä ei voi peruuttaa.',
+    'settings.apiKeys.error.nameRequired': 'Anna API-avaimelle nimi',
+    'settings.apiKeys.error.scopesRequired': 'Valitse vähintään yksi lupa',
+    'settings.apiKeys.security.title': 'Turvallisuusilmoitus',
+    'settings.apiKeys.security.1': 'Älä koskaan jaa API-avainta kenenkään kanssa',
+    'settings.apiKeys.security.2': 'Kohtele sitä kuin salasanaa',
+    'settings.apiKeys.security.3': 'Voit peruuttaa käyttöoikeuden milloin tahansa',
+    'settings.apiKeys.security.4': 'Avain näytetään vain kerran',
+    'settings.apiKeys.scope.story.read': 'Lue tarinoita',
+    'settings.apiKeys.scope.story.read.desc': 'Pääset käsiksi tarinoidesi otsikoihin, sisältöön ja lukuihin.',
+    'settings.apiKeys.scope.story.write': 'Luo ja muokkaa tarinoita',
+    'settings.apiKeys.scope.story.write.desc': 'Luo uusia tarinoita ja päivitä olemassa olevia tarinoita',
+    'settings.apiKeys.scope.universe.read': 'Lue universumit',
+    'settings.apiKeys.scope.universe.read.desc': 'Pääset käsiksi tietosanakirjamerkintöihisi ja maailmanrakennustietoihin.',
+    'settings.apiKeys.scope.universe.write': 'Luo ja muokkaa universumeja',
+    'settings.apiKeys.scope.universe.write.desc': 'Luo ja päivitä tietosanakirjamerkintöjä',
+    'settings.apiKeys.scope.scratchpad.read': 'Lue muistiinpanoja',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Pääset käsiksi yksityisiin muistiinpanoihisi ja scratchpadiin',
+    'settings.apiKeys.scope.scratchpad.write': 'Luo ja muokkaa muistiinpanoja',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Luo ja päivitä muistiinpanoja',
+    'settings.apiKeys.scope.blog.read': 'Lue blogikirjoituksia',
+    'settings.apiKeys.scope.blog.read.desc': 'Pääset käsiksi blogikirjoituksiin ja luonnoksiin',
+    'settings.apiKeys.scope.blog.write': 'Luo ja muokkaa blogikirjoituksia',
+    'settings.apiKeys.scope.blog.write.desc': 'Luo ja päivitä blogikirjoituksia',
+    'settings.apiKeys.scope.user.read': 'Lue profiili',
+    'settings.apiKeys.scope.user.read.desc': 'Pääset käyttämään käyttäjätunnusta, avataria ja julkista profiilia.',
+    'settings.apiKeys.scope.library.read': 'Lue kirjasto',
+    'settings.apiKeys.scope.library.read.desc': 'Pääset lukulistoihisi ja tallennettuihin tarinoihisi',
     // Web3
     'settings.web3.legend': 'Web3-lompakon yhdistäminen',
     'settings.web3.explained': 'Voit yhdistää Web3-kryptovaluuttalompakkosi Literary Universe -tiliisi. Kun olet yhdistänyt lompakon, voit kirjautua sisään lompakollasi ja tehdä tulevaisuudessa vielä enemmän asioita, kun laajennamme Web3-tarjontaamme.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Lisää tunnisteet',
     'settings.interests.avoidGenres.help': 'Valitse genret, joita et halua nähdä suosituksissa.',
     'settings.interests.avoidGenres': 'Vältettävät lajityypit',
-    'settings.notifications': 'Ilmoitukset ja uutiskirjeet'
+    'settings.notifications': 'Ilmoitukset ja uutiskirjeet',
+    'settings.kindleEmail': 'Kindle-sähköpostisi',
+    'settings.kindleEmail.explained': 'Jos olet asettanut tämän asetuksen, tarjoamme sinulle mahdollisuuksien mukaan mahdollisuuden lähettää tarinoita Kindleen yhdellä napsautuksella. Löydät Kindle-sähköpostiosoitteesi Amazon-asetuksistasi kohdasta Sisältö ja laitteet -> Laitteet -> valitse Kindle nähdäksesi sen tiedot, ja sieltä löydät sähköpostiosoitteesi.'
 };

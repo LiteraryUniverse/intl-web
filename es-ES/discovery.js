@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Generado por IA',
     'discovery.isAIGenerated': 'Este trabajo ha sido generado por AI.',
+    'discovery.isPreview': 'Vista previa',
+    'discovery.isPreview.explained': 'Esta historia se ofrece sólo como avance de la obra.',
     // AI content related strings
     'discovery.ai.content': 'Contenidos generados por IA',
     'discovery.ai.universes': 'Universos generados por IA',

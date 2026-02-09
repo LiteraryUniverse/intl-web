@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Ange de 6 siffrorna som visas på skärmen i inmatningsfältet här för att avsluta.',
     'settings.2fa.saved': 'Tvåfaktorsautentisering har ställts in framgångsrikt!',
     'settings.2fa.disableOTP': 'Inaktivera OTP tvåfaktorsautentisering',
+    // API Keys
+    'settings.apiKeys.title': 'API-nycklar',
+    'settings.apiKeys.description': 'API-nycklar gör det möjligt för tredjepartsapplikationer att komma åt dina Literary Universe-data för din räkning. Behandla dem som lösenord och dela aldrig med dig av dem.',
+    'settings.apiKeys.noKeys': 'Du har inga API-nycklar ännu.',
+    'settings.apiKeys.created': 'Skapad {date, date, medium} på {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Senast använt {time}',
+    'settings.apiKeys.neverUsed': 'Aldrig använt',
+    'settings.apiKeys.expires': 'Upphör att gälla {date, date, medium}',
+    'settings.apiKeys.name': 'Nyckel Namn',
+    'settings.apiKeys.name.placeholder': 't.ex. Obsidian Plugin',
+    'settings.apiKeys.permissions': 'Behörigheter',
+    'settings.apiKeys.generate': 'Generera API-nyckel',
+    'settings.apiKeys.generated.title': 'API-nyckel genererad',
+    'settings.apiKeys.generated.warning': 'Spara den här nyckeln nu! Du kommer inte att kunna se den igen.',
+    'settings.apiKeys.copyToClipboard': 'Kopiera till Urklipp',
+    'settings.apiKeys.expiration': 'Förfallodag',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 månad}
+    =3 {3 månader}
+    =6 {6 månader}
+    =12 {1 år (rekommenderas)}
+    =24 {2 år}
+    other {{months} månader}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Är du säker på att du vill återkalla denna API-nyckel? Denna åtgärd kan inte ångras.',
+    'settings.apiKeys.delete.confirm': 'Är du säker på att du vill ta bort den här API-nyckeln? Den här åtgärden kan inte ångras.',
+    'settings.apiKeys.error.nameRequired': 'Ange ett namn för din API-nyckel',
+    'settings.apiKeys.error.scopesRequired': 'Vänligen välj minst en behörighet',
+    'settings.apiKeys.security.title': 'Meddelande om säkerhet',
+    'settings.apiKeys.security.1': 'Dela aldrig din API-nyckel med någon',
+    'settings.apiKeys.security.2': 'Behandla det som ett lösenord',
+    'settings.apiKeys.security.3': 'Du kan återkalla åtkomst när som helst',
+    'settings.apiKeys.security.4': 'Nyckeln kommer bara att visas en gång',
+    'settings.apiKeys.scope.story.read': 'Läs berättelser',
+    'settings.apiKeys.scope.story.read.desc': 'Få tillgång till dina berättelsers titlar, innehåll och kapitel',
+    'settings.apiKeys.scope.story.write': 'Skapa och redigera berättelser',
+    'settings.apiKeys.scope.story.write.desc': 'Skapa nya berättelser och uppdatera befintliga',
+    'settings.apiKeys.scope.universe.read': 'Läs universum',
+    'settings.apiKeys.scope.universe.read.desc': 'Få tillgång till dina encyklopediposter och data för världsbyggande',
+    'settings.apiKeys.scope.universe.write': 'Skapa och redigera universum',
+    'settings.apiKeys.scope.universe.write.desc': 'Skapa och uppdatera encyklopediposter',
+    'settings.apiKeys.scope.scratchpad.read': 'Läs noter',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Få tillgång till dina privata anteckningar och din scratchpad',
+    'settings.apiKeys.scope.scratchpad.write': 'Skapa och redigera anteckningar',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Skapa och uppdatera dina anteckningar',
+    'settings.apiKeys.scope.blog.read': 'Läs blogginlägg',
+    'settings.apiKeys.scope.blog.read.desc': 'Få tillgång till dina blogginlägg och utkast',
+    'settings.apiKeys.scope.blog.write': 'Skapa och redigera blogginlägg',
+    'settings.apiKeys.scope.blog.write.desc': 'Skapa och uppdatera blogginlägg',
+    'settings.apiKeys.scope.user.read': 'Läs profil',
+    'settings.apiKeys.scope.user.read.desc': 'Få tillgång till ditt användarnamn, din avatar och din offentliga profil',
+    'settings.apiKeys.scope.library.read': 'Läs bibliotek',
+    'settings.apiKeys.scope.library.read.desc': 'Få tillgång till dina läslistor och sparade berättelser',
     // Web3
     'settings.web3.legend': 'Web3-plånbokskoppling',
     'settings.web3.explained': 'Du kan koppla din Web3-kryptoplånbok till ditt Literary Universe-konto. När du är ansluten kan du logga in med din plånbok och göra ännu fler saker i framtiden när vi utökar vårt Web3-erbjudande.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Lägg till taggar',
     'settings.interests.avoidGenres.help': 'Välj genrer som du helst inte vill se i rekommendationer.',
     'settings.interests.avoidGenres': 'Genrer att undvika',
-    'settings.notifications': 'Meddelanden & nyhetsbrev'
+    'settings.notifications': 'Meddelanden & nyhetsbrev',
+    'settings.kindleEmail': 'Din e-post till Kindle',
+    'settings.kindleEmail.explained': 'Om du har ställt in detta kommer vi om möjligt att erbjuda dig möjligheten att skicka berättelser till din Kindle med ett klick. Du kan hitta din Kindle-e-postadress i dina Amazon-inställningar under Innehåll & enheter -> Enheter -> välj din Kindle för att visa dess detaljer och där hittar du e-postadressen listad.'
 };

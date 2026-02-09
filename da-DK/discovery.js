@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Forfatter',
     'discovery.aiGenerated': 'AI-genereret',
     'discovery.isAIGenerated': 'Dette arbejde er genereret af AI.',
+    'discovery.isPreview': 'Forhåndsvisning',
+    'discovery.isPreview.explained': 'Denne historie gives kun som en forhåndsvisning af værket.',
     // AI content related strings
     'discovery.ai.content': 'AI-genereret indhold',
     'discovery.ai.universes': 'AI-genererede universer',

@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Taipkan 6 nombor yang muncul di skrin ke input di sini untuk menyelesaikan.',
     'settings.2fa.saved': 'Pengesahan dua faktor berjaya ditubuhkan!',
     'settings.2fa.disableOTP': 'Nyahaktifkan pengesahan dua faktor OTP',
+    // API Keys
+    'settings.apiKeys.title': 'API Keys',
+    'settings.apiKeys.description': 'API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.',
+    'settings.apiKeys.noKeys': 'You don\'t have any API keys yet.',
+    'settings.apiKeys.created': 'Created {date, date, medium} at {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Last used {time}',
+    'settings.apiKeys.neverUsed': 'Never used',
+    'settings.apiKeys.expires': 'Expires {date, date, medium}',
+    'settings.apiKeys.name': 'Key Name',
+    'settings.apiKeys.name.placeholder': 'e.g., Obsidian Plugin',
+    'settings.apiKeys.permissions': 'Permissions',
+    'settings.apiKeys.generate': 'Generate API Key',
+    'settings.apiKeys.generated.title': 'API Key Generated',
+    'settings.apiKeys.generated.warning': 'Save this key now! You won\'t be able to see it again.',
+    'settings.apiKeys.copyToClipboard': 'Copy to Clipboard',
+    'settings.apiKeys.expiration': 'Expiration',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 month}
+    =3 {3 months}
+    =6 {6 months}
+    =12 {1 year (recommended)}
+    =24 {2 years}
+    other {{months} months}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Are you sure you want to revoke this API key? This action cannot be undone.',
+    'settings.apiKeys.delete.confirm': 'Are you sure you want to delete this API key? This action cannot be undone.',
+    'settings.apiKeys.error.nameRequired': 'Please enter a name for your API key',
+    'settings.apiKeys.error.scopesRequired': 'Please select at least one permission',
+    'settings.apiKeys.security.title': 'Security Notice',
+    'settings.apiKeys.security.1': 'Never share your API key with anyone',
+    'settings.apiKeys.security.2': 'Treat it like a password',
+    'settings.apiKeys.security.3': 'You can revoke access anytime',
+    'settings.apiKeys.security.4': 'The key will only be shown once',
+    'settings.apiKeys.scope.story.read': 'Read stories',
+    'settings.apiKeys.scope.story.read.desc': 'Access your story titles, content, and chapters',
+    'settings.apiKeys.scope.story.write': 'Create and edit stories',
+    'settings.apiKeys.scope.story.write.desc': 'Create new stories and update existing ones',
+    'settings.apiKeys.scope.universe.read': 'Read universes',
+    'settings.apiKeys.scope.universe.read.desc': 'Access your encyclopedia entries and world-building data',
+    'settings.apiKeys.scope.universe.write': 'Create and edit universes',
+    'settings.apiKeys.scope.universe.write.desc': 'Create and update encyclopedia entries',
+    'settings.apiKeys.scope.scratchpad.read': 'Read notes',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Access your private notes and scratchpad',
+    'settings.apiKeys.scope.scratchpad.write': 'Create and edit notes',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Create and update your notes',
+    'settings.apiKeys.scope.blog.read': 'Read blog posts',
+    'settings.apiKeys.scope.blog.read.desc': 'Access your blog posts and drafts',
+    'settings.apiKeys.scope.blog.write': 'Create and edit blog posts',
+    'settings.apiKeys.scope.blog.write.desc': 'Create and update blog posts',
+    'settings.apiKeys.scope.user.read': 'Read profile',
+    'settings.apiKeys.scope.user.read.desc': 'Access your username, avatar, and public profile',
+    'settings.apiKeys.scope.library.read': 'Read library',
+    'settings.apiKeys.scope.library.read.desc': 'Access your reading lists and saved stories',
     // Web3
     'settings.web3.legend': 'Sambungan dompet Web3',
     'settings.web3.explained': 'Anda boleh menyambungkan dompet kripto Web3 anda ke akaun Literary Universe anda. Setelah disambungkan, anda akan dapat log masuk dengan dompet anda dan melakukan lebih banyak perkara pada masa depan apabila kami memperluas tawaran Web3 kami.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
     'settings.interests.avoidGenres': 'Genres to avoid',
-    'settings.notifications': 'Notifications & newsletters'
+    'settings.notifications': 'Notifications & newsletters',
+    'settings.kindleEmail': 'Your Kindle e-mail',
+    'settings.kindleEmail.explained': 'If you have this set, then where possible we will offer you the option to send stories to your Kindle with one click. You can find your Kindle email address in your Amazon settings under Content & Devices -> Devices -> select your Kindle to view its details and there you will find the email listed.'
 };

@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Πληκτρολογήστε τους 6 αριθμούς που εμφανίζονται στην οθόνη στην είσοδο εδώ για να ολοκληρώσετε.',
     'settings.2fa.saved': 'Η διπλή πιστοποίηση ολοκληρώθηκε με επιτυχία!',
     'settings.2fa.disableOTP': 'Απενεργοποίηση διπλής πιστοποίησης με κωδικό OTP',
+    // API Keys
+    'settings.apiKeys.title': 'Κλειδιά API',
+    'settings.apiKeys.description': 'Τα κλειδιά API επιτρέπουν σε εφαρμογές τρίτων να έχουν πρόσβαση στα δεδομένα του Literary Universe για λογαριασμό σας. Αντιμετωπίστε τα σαν κωδικούς πρόσβασης και μην τα μοιράζεστε ποτέ.',
+    'settings.apiKeys.noKeys': 'Δεν έχετε ακόμη κλειδιά API.',
+    'settings.apiKeys.created': 'Δημιουργήθηκε {date, date, medium} στο {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Τελευταία χρήση {time}',
+    'settings.apiKeys.neverUsed': 'Δεν χρησιμοποιήθηκε ποτέ',
+    'settings.apiKeys.expires': 'Λήγει {date, date, medium}',
+    'settings.apiKeys.name': 'Όνομα κλειδιού',
+    'settings.apiKeys.name.placeholder': 'π.χ., Obsidian Plugin',
+    'settings.apiKeys.permissions': 'Δικαιώματα',
+    'settings.apiKeys.generate': 'Δημιουργία κλειδιού API',
+    'settings.apiKeys.generated.title': 'Παραγόμενο κλειδί API',
+    'settings.apiKeys.generated.warning': 'Αποθηκεύστε αυτό το κλειδί τώρα! Δεν θα μπορέσετε να το ξαναδείτε.',
+    'settings.apiKeys.copyToClipboard': 'Αντιγραφή στο Πρόχειρο',
+    'settings.apiKeys.expiration': 'Λήξη',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 μήνας}
+    =3 {3 μήνες}
+    =6 {6 μήνες}
+    =12 {1 έτος (συνιστάται)}
+    =24 {2 χρόνια}
+    other {{months} μήνες}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Σίγουρα θέλετε να ανακαλέσετε αυτό το κλειδί API; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
+    'settings.apiKeys.delete.confirm': 'Σίγουρα θέλετε να διαγράψετε αυτό το κλειδί API; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.',
+    'settings.apiKeys.error.nameRequired': 'Παρακαλώ εισάγετε ένα όνομα για το κλειδί API σας',
+    'settings.apiKeys.error.scopesRequired': 'Επιλέξτε τουλάχιστον μία άδεια',
+    'settings.apiKeys.security.title': 'Ειδοποίηση ασφαλείας',
+    'settings.apiKeys.security.1': 'Ποτέ μην μοιράζεστε το κλειδί API σας με κανέναν',
+    'settings.apiKeys.security.2': 'Αντιμετωπίστε το σαν κωδικό πρόσβασης',
+    'settings.apiKeys.security.3': 'Μπορείτε να ανακαλέσετε την πρόσβαση ανά πάσα στιγμή',
+    'settings.apiKeys.security.4': 'Το κλειδί θα εμφανιστεί μόνο μία φορά',
+    'settings.apiKeys.scope.story.read': 'Διαβάστε ιστορίες',
+    'settings.apiKeys.scope.story.read.desc': 'Πρόσβαση στους τίτλους, το περιεχόμενο και τα κεφάλαια της ιστορίας σας',
+    'settings.apiKeys.scope.story.write': 'Δημιουργία και επεξεργασία ιστοριών',
+    'settings.apiKeys.scope.story.write.desc': 'Δημιουργήστε νέες ιστορίες και ενημερώστε τις υπάρχουσες',
+    'settings.apiKeys.scope.universe.read': 'Διαβάστε τα σύμπαντα',
+    'settings.apiKeys.scope.universe.read.desc': 'Πρόσβαση στα λήμματα της εγκυκλοπαίδειας και στα δεδομένα οικοδόμησης του κόσμου σας',
+    'settings.apiKeys.scope.universe.write': 'Δημιουργία και επεξεργασία συμπάντων',
+    'settings.apiKeys.scope.universe.write.desc': 'Δημιουργία και ενημέρωση λημμάτων εγκυκλοπαίδειας',
+    'settings.apiKeys.scope.scratchpad.read': 'Διαβάστε σημειώσεις',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Πρόσβαση στις προσωπικές σας σημειώσεις και στο σημειωματάριό σας',
+    'settings.apiKeys.scope.scratchpad.write': 'Δημιουργία και επεξεργασία σημειώσεων',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Δημιουργήστε και ενημερώστε τις σημειώσεις σας',
+    'settings.apiKeys.scope.blog.read': 'Διαβάστε αναρτήσεις ιστολογίου',
+    'settings.apiKeys.scope.blog.read.desc': 'Πρόσβαση στις αναρτήσεις και τα προσχέδια του ιστολογίου σας',
+    'settings.apiKeys.scope.blog.write': 'Δημιουργία και επεξεργασία αναρτήσεων στο ιστολόγιο',
+    'settings.apiKeys.scope.blog.write.desc': 'Δημιουργία και ενημέρωση αναρτήσεων στο ιστολόγιο',
+    'settings.apiKeys.scope.user.read': 'Διαβάστε το προφίλ',
+    'settings.apiKeys.scope.user.read.desc': 'Πρόσβαση στο όνομα χρήστη, το avatar και το δημόσιο προφίλ σας',
+    'settings.apiKeys.scope.library.read': 'Διαβάστε τη βιβλιοθήκη',
+    'settings.apiKeys.scope.library.read.desc': 'Πρόσβαση στις λίστες ανάγνωσης και τις αποθηκευμένες ιστορίες σας',
     // Web3
     'settings.web3.legend': 'Σύνδεση με πορτοφόλι Web3',
     'settings.web3.explained': 'Μπορείτε να συνδέσετε το κρυπτονόμισμα πορτοφόλι Web3 σας με τον λογαριασμό σας στο Literary Universe. Αφού συνδεθείτε, θα μπορείτε να συνδεθείτε με το πορτοφόλι σας και να κάνετε ακόμα περισσότερα πράγματα στο μέλλον καθώς επεκτείνουμε την προσφορά μας για το Web3.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Προσθέστε ετικέτες',
     'settings.interests.avoidGenres.help': 'Επιλέξτε είδη που θα προτιμούσατε να μην βλέπετε στις συστάσεις.',
     'settings.interests.avoidGenres': 'Είδη προς αποφυγή',
-    'settings.notifications': 'Ειδοποιήσεις & ενημερωτικά δελτία'
+    'settings.notifications': 'Ειδοποιήσεις & ενημερωτικά δελτία',
+    'settings.kindleEmail': 'Το ηλεκτρονικό σας ταχυδρομείο Kindle',
+    'settings.kindleEmail.explained': 'Αν έχετε ρυθμίσει αυτό το στοιχείο, τότε, όπου είναι δυνατόν, θα σας προσφέρουμε τη δυνατότητα να στέλνετε ιστορίες στο Kindle σας με ένα κλικ. Μπορείτε να βρείτε τη διεύθυνση ηλεκτρονικού ταχυδρομείου του Kindle στις ρυθμίσεις σας στην Amazon, στην ενότητα Περιεχόμενο και συσκευές -> Συσκευές -> επιλέξτε το Kindle σας για να δείτε τα στοιχεία του και εκεί θα βρείτε το ηλεκτρονικό ταχυδρομείο.'
 };

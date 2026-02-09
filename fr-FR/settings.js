@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Tapez les 6 chiffres qui apparaissent à l\'écran dans le champ prévu à cet effet pour terminer.',
     'settings.2fa.saved': 'L\'authentification à deux facteurs a été réalisée avec succès !',
     'settings.2fa.disableOTP': 'Désactiver l\'authentification à deux facteurs OTP',
+    // API Keys
+    'settings.apiKeys.title': 'Clés API',
+    'settings.apiKeys.description': 'Les clés API permettent à des applications tierces d\'accéder à vos données de l\'Univers littéraire en votre nom. Traitez-les comme des mots de passe et ne les partagez jamais.',
+    'settings.apiKeys.noKeys': 'Vous n\'avez pas encore de clés API.',
+    'settings.apiKeys.created': 'Créé {date, date, medium} at {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Dernière utilisation {time}',
+    'settings.apiKeys.neverUsed': 'Jamais utilisé',
+    'settings.apiKeys.expires': 'Expire {date, date, medium}',
+    'settings.apiKeys.name': 'Nom de la clé',
+    'settings.apiKeys.name.placeholder': 'par exemple, Obsidian Plugin',
+    'settings.apiKeys.permissions': 'Permissions',
+    'settings.apiKeys.generate': 'Générer une clé API',
+    'settings.apiKeys.generated.title': 'Clé API générée',
+    'settings.apiKeys.generated.warning': 'Sauvegardez cette clé maintenant ! Vous ne pourrez plus la revoir.',
+    'settings.apiKeys.copyToClipboard': 'Copier dans le presse-papiers',
+    'settings.apiKeys.expiration': 'Expiration',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 mois}
+    =3 {3 mois}
+    =6 {6 mois}
+    =12 {1 an (recommandé)}
+    =24 {2 ans}
+    other {{months} mois}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Êtes-vous sûr de vouloir révoquer cette clé API ? Cette action ne peut pas être annulée.',
+    'settings.apiKeys.delete.confirm': 'Êtes-vous sûr de vouloir supprimer cette clé API ? Cette action ne peut pas être annulée.',
+    'settings.apiKeys.error.nameRequired': 'Veuillez saisir un nom pour votre clé API',
+    'settings.apiKeys.error.scopesRequired': 'Veuillez sélectionner au moins une autorisation',
+    'settings.apiKeys.security.title': 'Avis de sécurité',
+    'settings.apiKeys.security.1': 'Ne partagez jamais votre clé API avec qui que ce soit',
+    'settings.apiKeys.security.2': 'Traitez-le comme un mot de passe',
+    'settings.apiKeys.security.3': 'Vous pouvez révoquer l\'accès à tout moment',
+    'settings.apiKeys.security.4': 'La clé ne sera affichée qu\'une seule fois',
+    'settings.apiKeys.scope.story.read': 'Lire les histoires',
+    'settings.apiKeys.scope.story.read.desc': 'Accédez aux titres, au contenu et aux chapitres de vos articles',
+    'settings.apiKeys.scope.story.write': 'Créer et éditer des histoires',
+    'settings.apiKeys.scope.story.write.desc': 'Créer de nouvelles histoires et mettre à jour celles qui existent déjà',
+    'settings.apiKeys.scope.universe.read': 'Lire les univers',
+    'settings.apiKeys.scope.universe.read.desc': 'Accédez à vos entrées d\'encyclopédie et à vos données de construction du monde',
+    'settings.apiKeys.scope.universe.write': 'Créer et modifier des univers',
+    'settings.apiKeys.scope.universe.write.desc': 'Créer et mettre à jour des entrées dans l\'encyclopédie',
+    'settings.apiKeys.scope.scratchpad.read': 'Lire les notes',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Accédez à vos notes privées et à votre bloc-notes',
+    'settings.apiKeys.scope.scratchpad.write': 'Créer et modifier des notes',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Créez et mettez à jour vos notes',
+    'settings.apiKeys.scope.blog.read': 'Lire les articles de blog',
+    'settings.apiKeys.scope.blog.read.desc': 'Accédez à vos articles de blog et à vos brouillons',
+    'settings.apiKeys.scope.blog.write': 'Créer et éditer des articles de blog',
+    'settings.apiKeys.scope.blog.write.desc': 'Créer et mettre à jour des articles de blog',
+    'settings.apiKeys.scope.user.read': 'Lire le profil',
+    'settings.apiKeys.scope.user.read.desc': 'Accédez à votre nom d\'utilisateur, à votre avatar et à votre profil public.',
+    'settings.apiKeys.scope.library.read': 'Bibliothèque de lecture',
+    'settings.apiKeys.scope.library.read.desc': 'Accédez à vos listes de lecture et aux histoires sauvegardées',
     // Web3
     'settings.web3.legend': 'Connexion au portefeuille Web3',
     'settings.web3.explained': 'Vous pouvez connecter votre portefeuille Crypto Web3 à votre compte Univers Littéraire. Une fois connecté, vous pourrez vous connecter avec votre portefeuille et faire encore plus de choses à l\'avenir, à mesure que nous développons notre offre Web3.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Ajouter des tags',
     'settings.interests.avoidGenres.help': 'Sélectionnez les genres que vous préférez ne pas voir dans les recommandations.',
     'settings.interests.avoidGenres': 'Genres à éviter',
-    'settings.notifications': 'Notifications et bulletins d\'information'
+    'settings.notifications': 'Notifications et bulletins d\'information',
+    'settings.kindleEmail': 'Votre e-mail Kindle',
+    'settings.kindleEmail.explained': 'Si vous avez choisi cette option, nous vous proposerons, dans la mesure du possible, d\'envoyer des articles à votre Kindle en un seul clic. Vous pouvez trouver l\'adresse électronique de votre Kindle dans vos paramètres Amazon sous Contenu et appareils -> Appareils -> sélectionnez votre Kindle pour afficher ses détails et vous y trouverez l\'adresse électronique.'
 };

@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Įveskite 6 skaičius, kurie rodomi ekrane, įvesties lauke čia, kad užbaigtumėte.',
     'settings.2fa.saved': 'Dviejų veiksnių autentifikacija sėkmingai įdiegta!',
     'settings.2fa.disableOTP': 'Išjungti OTP dviejų veiksnių autentifikaciją',
+    // API Keys
+    'settings.apiKeys.title': 'API raktai',
+    'settings.apiKeys.description': 'API raktai leidžia trečiųjų šalių programoms jūsų vardu pasiekti "Literary Universe" duomenis. Elkitės su jais kaip su slaptažodžiais ir niekada jais nesidalykite.',
+    'settings.apiKeys.noKeys': 'Dar neturite jokių API raktų.',
+    'settings.apiKeys.created': 'Sukurta {date, date, medium} adresu {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Paskutinį kartą naudotas {time}',
+    'settings.apiKeys.neverUsed': 'Niekada nenaudota',
+    'settings.apiKeys.expires': 'Galioja {date, date, medium}',
+    'settings.apiKeys.name': 'Rakto pavadinimas',
+    'settings.apiKeys.name.placeholder': 'pvz., "Obsidian" įskiepis',
+    'settings.apiKeys.permissions': 'Leidimai',
+    'settings.apiKeys.generate': 'API rakto generavimas',
+    'settings.apiKeys.generated.title': 'Sukurtas API raktas',
+    'settings.apiKeys.generated.warning': 'Išsaugokite šį raktą dabar! Daugiau jo nebegalėsite pamatyti.',
+    'settings.apiKeys.copyToClipboard': 'Kopijuoti į iškarpinę',
+    'settings.apiKeys.expiration': 'Galiojimo pabaiga',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 mėnuo}
+    =3 {3 mėnesiai}
+    =6 {6 mėnesiai}
+    =12 {1 metai (rekomenduojama)}
+    =24 {2 metai}
+    other {~{months} mėnesiai}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Ar tikrai norite atšaukti šį API raktą? Šio veiksmo atšaukti negalima.',
+    'settings.apiKeys.delete.confirm': 'Ar tikrai norite ištrinti šį API raktą? Šio veiksmo atšaukti negalima.',
+    'settings.apiKeys.error.nameRequired': 'Įveskite savo API rakto pavadinimą',
+    'settings.apiKeys.error.scopesRequired': 'Pasirinkite bent vieną leidimą',
+    'settings.apiKeys.security.title': 'Saugumo pranešimas',
+    'settings.apiKeys.security.1': 'Niekada su niekuo nesidalykite savo API raktu',
+    'settings.apiKeys.security.2': 'Elkitės su juo kaip su slaptažodžiu',
+    'settings.apiKeys.security.3': 'Galite bet kada atšaukti prieigą',
+    'settings.apiKeys.security.4': 'Raktas bus rodomas tik vieną kartą',
+    'settings.apiKeys.scope.story.read': 'Skaityti istorijas',
+    'settings.apiKeys.scope.story.read.desc': 'Prieiga prie istorijos pavadinimų, turinio ir skyrių',
+    'settings.apiKeys.scope.story.write': 'Kurkite ir redaguokite istorijas',
+    'settings.apiKeys.scope.story.write.desc': 'Kurkite naujas istorijas ir atnaujinkite esamas',
+    'settings.apiKeys.scope.universe.read': 'Skaityti visatas',
+    'settings.apiKeys.scope.universe.read.desc': 'Prieiga prie enciklopedijos įrašų ir pasaulio kūrimo duomenų',
+    'settings.apiKeys.scope.universe.write': 'Kurkite ir redaguokite visatas',
+    'settings.apiKeys.scope.universe.write.desc': 'Kurti ir atnaujinti enciklopedijos įrašus',
+    'settings.apiKeys.scope.scratchpad.read': 'Skaityti pastabas',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Prieiga prie asmeninių užrašų ir užrašų knygelės',
+    'settings.apiKeys.scope.scratchpad.write': 'Kurkite ir redaguokite pastabas',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Sukurkite ir atnaujinkite užrašus',
+    'settings.apiKeys.scope.blog.read': 'Skaityti tinklaraščio įrašus',
+    'settings.apiKeys.scope.blog.read.desc': 'Prieiga prie tinklaraščio įrašų ir juodraščių',
+    'settings.apiKeys.scope.blog.write': 'Kurti ir redaguoti tinklaraščio įrašus',
+    'settings.apiKeys.scope.blog.write.desc': 'Sukurti ir atnaujinti tinklaraščio įrašus',
+    'settings.apiKeys.scope.user.read': 'Skaityti profilį',
+    'settings.apiKeys.scope.user.read.desc': 'Prieiga prie vartotojo vardo, avataro ir viešo profilio',
+    'settings.apiKeys.scope.library.read': 'Skaityti biblioteką',
+    'settings.apiKeys.scope.library.read.desc': 'Prieiga prie skaitymo sąrašų ir išsaugotų istorijų',
     // Web3
     'settings.web3.legend': 'Web3 piniginės prisijungimas',
     'settings.web3.explained': 'Galite prisijungti savo Web3 kriptopiniginę prie jūsų Literary Universe paskyros. Kai prisijungsite, galėsite prisijungti su savo pinigine ir ateityje atlikti dar daugiau veiksmų, išplečiant mūsų Web3 pasiūlymą.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Pridėti žymas',
     'settings.interests.avoidGenres.help': 'Pasirinkite žanrus, kurių nenorėtumėte matyti rekomendacijose.',
     'settings.interests.avoidGenres': 'Žanrai, kurių reikia vengti',
-    'settings.notifications': 'Pranešimai ir naujienlaiškiai'
+    'settings.notifications': 'Pranešimai ir naujienlaiškiai',
+    'settings.kindleEmail': 'Jūsų "Kindle" el. paštas',
+    'settings.kindleEmail.explained': 'Jei turite šį nustatymą, jei įmanoma, pasiūlysime jums galimybę siųsti istorijas į "Kindle" vienu spustelėjimu. Savo "Kindle" el. pašto adresą galite rasti "Amazon" nustatymuose, skiltyje Turinys ir įrenginiai -> Įrenginiai -> pasirinkite savo "Kindle", kad peržiūrėtumėte jo duomenis, ir ten rasite nurodytą el. pašto adresą.'
 };

@@ -71,6 +71,8 @@ export default {
     'discovery.author': 'Автор',
     'discovery.aiGenerated': 'Створено штучним інтелектом',
     'discovery.isAIGenerated': 'Ця робота була створена за допомогою штучного інтелекту.',
+    'discovery.isPreview': 'Попередній перегляд',
+    'discovery.isPreview.explained': 'Ця історія надається лише для ознайомлення з роботою.',
     // AI content related strings
     'discovery.ai.content': 'Контент, створений штучним інтелектом',
     'discovery.ai.universes': 'Всесвіти, створені штучним інтелектом',

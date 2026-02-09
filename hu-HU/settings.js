@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': 'Írd be a képernyőn megjelenő 6 számot ide, hogy befejezd.',
     'settings.2fa.saved': 'Kétfaktoros azonosítás sikeresen beállítva!',
     'settings.2fa.disableOTP': 'OTP kétfaktoros azonosítás kikapcsolása',
+    // API Keys
+    'settings.apiKeys.title': 'API kulcsok',
+    'settings.apiKeys.description': 'Az API-kulcsok lehetővé teszik harmadik fél alkalmazások számára, hogy az Ön nevében hozzáférjenek az Ön Literary Universe adataihoz. Kezelje őket jelszóként, és soha ne ossza meg őket.',
+    'settings.apiKeys.noKeys': 'Még nincs API-kulcsa.',
+    'settings.apiKeys.created': 'Created {date, date, medium} at {date, time, short}',
+    'settings.apiKeys.lastUsed': 'Utoljára használt {time}',
+    'settings.apiKeys.neverUsed': 'Soha nem használták',
+    'settings.apiKeys.expires': 'Lejár {date, date, medium}',
+    'settings.apiKeys.name': 'Kulcsnév',
+    'settings.apiKeys.name.placeholder': 'pl. Obsidian Plugin',
+    'settings.apiKeys.permissions': 'Engedélyek',
+    'settings.apiKeys.generate': 'API kulcs generálása',
+    'settings.apiKeys.generated.title': 'Generált API kulcs',
+    'settings.apiKeys.generated.warning': 'Mentsd el ezt a kulcsot most! Többé nem fogod látni.',
+    'settings.apiKeys.copyToClipboard': 'Másolás a vágólapra',
+    'settings.apiKeys.expiration': 'Lejárat',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1 hónap}
+    =3 {3 hónap}
+    =6 {6 hónap}
+    =12 {1 év (ajánlott)}
+    =24 {2 év}
+    other {~{months} hónapok}
+  }`,
+    'settings.apiKeys.revoke.confirm': 'Biztos, hogy vissza akarja vonni ezt az API-kulcsot? Ez a művelet nem vonható vissza.',
+    'settings.apiKeys.delete.confirm': 'Biztos, hogy törölni szeretné ezt az API-kulcsot? Ez a művelet nem vonható vissza.',
+    'settings.apiKeys.error.nameRequired': 'Kérjük, adjon meg egy nevet az API-kulcsához',
+    'settings.apiKeys.error.scopesRequired': 'Kérjük, válasszon ki legalább egy engedélyt',
+    'settings.apiKeys.security.title': 'Biztonsági közlemény',
+    'settings.apiKeys.security.1': 'Soha ne ossza meg API-kulcsát senkivel',
+    'settings.apiKeys.security.2': 'Kezelje úgy, mint egy jelszót',
+    'settings.apiKeys.security.3': 'A hozzáférést bármikor visszavonhatja',
+    'settings.apiKeys.security.4': 'A kulcs csak egyszer jelenik meg',
+    'settings.apiKeys.scope.story.read': 'Történetek olvasása',
+    'settings.apiKeys.scope.story.read.desc': 'Hozzáférés a történet címeihez, tartalmához és fejezeteihez',
+    'settings.apiKeys.scope.story.write': 'Történetek létrehozása és szerkesztése',
+    'settings.apiKeys.scope.story.write.desc': 'Új történetek létrehozása és a meglévők frissítése',
+    'settings.apiKeys.scope.universe.read': 'Univerzumok olvasása',
+    'settings.apiKeys.scope.universe.read.desc': 'Hozzáférés az enciklopédia bejegyzéseihez és a világépítési adatokhoz',
+    'settings.apiKeys.scope.universe.write': 'Univerzumok létrehozása és szerkesztése',
+    'settings.apiKeys.scope.universe.write.desc': 'Enciklopédia bejegyzések létrehozása és frissítése',
+    'settings.apiKeys.scope.scratchpad.read': 'Jegyzetek olvasása',
+    'settings.apiKeys.scope.scratchpad.read.desc': 'Hozzáférés a személyes jegyzetekhez és a jegyzettömbhöz',
+    'settings.apiKeys.scope.scratchpad.write': 'Jegyzetek létrehozása és szerkesztése',
+    'settings.apiKeys.scope.scratchpad.write.desc': 'Jegyzetek létrehozása és frissítése',
+    'settings.apiKeys.scope.blog.read': 'Blogbejegyzések olvasása',
+    'settings.apiKeys.scope.blog.read.desc': 'Hozzáférés a blogbejegyzésekhez és vázlatokhoz',
+    'settings.apiKeys.scope.blog.write': 'Blogbejegyzések létrehozása és szerkesztése',
+    'settings.apiKeys.scope.blog.write.desc': 'Blogbejegyzések létrehozása és frissítése',
+    'settings.apiKeys.scope.user.read': 'Profil olvasása',
+    'settings.apiKeys.scope.user.read.desc': 'Hozzáférés a felhasználónévhez, avatárhoz és nyilvános profilhoz',
+    'settings.apiKeys.scope.library.read': 'Olvassa el a könyvtárat',
+    'settings.apiKeys.scope.library.read.desc': 'Hozzáférés az olvasási listákhoz és a mentett történetekhez',
     // Web3
     'settings.web3.legend': 'Web3 pénztárcakapcsolat',
     'settings.web3.explained': 'Csatlakoztathatod a Web3 kriptovaluta pénztárcádat a Literary Universe fiókodhoz. Miután csatlakoztattad, lehetőséged lesz a pénztárcáddal bejelentkezni és még több dolgot elvégezni a jövőben, ahogy bővítjük a Web3 ajánlatunkat.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': 'Címkék hozzáadása',
     'settings.interests.avoidGenres.help': 'Válassza ki azokat a műfajokat, amelyeket nem szeretne látni az ajánlásokban.',
     'settings.interests.avoidGenres': 'Kerülendő műfajok',
-    'settings.notifications': 'Értesítések és hírlevelek'
+    'settings.notifications': 'Értesítések és hírlevelek',
+    'settings.kindleEmail': 'Az Ön Kindle e-mail címe',
+    'settings.kindleEmail.explained': 'Ha ez a beállítás megvan, akkor lehetőség szerint felajánljuk Önnek, hogy a történeteket egyetlen kattintással elküldheti a Kindle készülékére. A Kindle e-mail címét az Amazon beállításaiban a Tartalom és eszközök -> Eszközök -> Eszközök -> válassza ki a Kindle-t a részletek megtekintéséhez, és ott találja az e-mail címét.'
 };

@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Penulis',
     'discovery.aiGenerated': 'Dihasilkan oleh AI',
     'discovery.isAIGenerated': 'Karya ini telah dihasilkan oleh AI.',
+    'discovery.isPreview': 'Pratinjau',
+    'discovery.isPreview.explained': 'Cerita ini disediakan hanya sebagai pratinjau karya.',
     // AI content related strings
     'discovery.ai.content': 'Konten yang Dihasilkan AI',
     'discovery.ai.universes': 'Alam Semesta yang Dihasilkan AI',

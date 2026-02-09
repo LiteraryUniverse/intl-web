@@ -103,6 +103,59 @@ export default {
     'settings.2fa.instructions4': '화면에 나타나는 6자리 숫자를 여기에 입력하여 완료합니다.',
     'settings.2fa.saved': '이중 인증이 성공적으로 설정되었습니다!',
     'settings.2fa.disableOTP': 'OTP 이중 인증 비활성화',
+    // API Keys
+    'settings.apiKeys.title': 'API 키',
+    'settings.apiKeys.description': 'API 키를 사용하면 타사 애플리케이션이 회원님을 대신하여 회원님의 문학 세계 데이터에 액세스할 수 있습니다. 비밀번호처럼 취급하고 절대 공유하지 마세요.',
+    'settings.apiKeys.noKeys': '아직 API 키가 없습니다.',
+    'settings.apiKeys.created': '만든 {date, date, medium} 에서 {date, time, short}',
+    'settings.apiKeys.lastUsed': '마지막 사용 {time}',
+    'settings.apiKeys.neverUsed': '사용 안 함',
+    'settings.apiKeys.expires': '만료 {date, date, medium}',
+    'settings.apiKeys.name': '키 이름',
+    'settings.apiKeys.name.placeholder': '예: 흑요석 플러그인',
+    'settings.apiKeys.permissions': '권한',
+    'settings.apiKeys.generate': 'API 키 생성',
+    'settings.apiKeys.generated.title': 'API 키 생성',
+    'settings.apiKeys.generated.warning': '지금 이 키를 저장하세요! 다시는 볼 수 없습니다.',
+    'settings.apiKeys.copyToClipboard': '클립보드에 복사',
+    'settings.apiKeys.expiration': '만료',
+    'settings.apiKeys.expiration.duration': `{months, plural,
+    =1 {1개월}
+    =3 {3개월}
+    =6 {6개월}
+    =12 {1년(권장)}
+    =24 {2년}
+    other {{months} 몇 달}
+  }`,
+    'settings.apiKeys.revoke.confirm': '이 API 키를 취소하시겠습니까? 이 작업은 취소할 수 없습니다.',
+    'settings.apiKeys.delete.confirm': '이 API 키를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
+    'settings.apiKeys.error.nameRequired': 'API 키의 이름을 입력하세요.',
+    'settings.apiKeys.error.scopesRequired': '하나 이상의 권한을 선택해 주세요.',
+    'settings.apiKeys.security.title': '보안 공지',
+    'settings.apiKeys.security.1': '누구와도 API 키를 공유하지 마세요.',
+    'settings.apiKeys.security.2': '비밀번호처럼 취급',
+    'settings.apiKeys.security.3': '언제든지 액세스 권한을 취소할 수 있습니다.',
+    'settings.apiKeys.security.4': '키는 한 번만 표시됩니다.',
+    'settings.apiKeys.scope.story.read': '스토리 읽기',
+    'settings.apiKeys.scope.story.read.desc': '스토리 제목, 콘텐츠 및 챕터에 액세스하기',
+    'settings.apiKeys.scope.story.write': '스토리 만들기 및 편집',
+    'settings.apiKeys.scope.story.write.desc': '새 스토리 만들기 및 기존 스토리 업데이트',
+    'settings.apiKeys.scope.universe.read': '유니버스 읽기',
+    'settings.apiKeys.scope.universe.read.desc': '백과사전 항목과 월드 구축 데이터에 액세스하세요.',
+    'settings.apiKeys.scope.universe.write': '유니버스 생성 및 편집',
+    'settings.apiKeys.scope.universe.write.desc': '백과사전 항목 만들기 및 업데이트',
+    'settings.apiKeys.scope.scratchpad.read': '메모 읽기',
+    'settings.apiKeys.scope.scratchpad.read.desc': '비공개 노트와 스크래치 패드에 액세스',
+    'settings.apiKeys.scope.scratchpad.write': '노트 만들기 및 편집',
+    'settings.apiKeys.scope.scratchpad.write.desc': '노트 만들기 및 업데이트',
+    'settings.apiKeys.scope.blog.read': '블로그 게시물 읽기',
+    'settings.apiKeys.scope.blog.read.desc': '블로그 게시물 및 초안에 액세스',
+    'settings.apiKeys.scope.blog.write': '블로그 게시물 작성 및 편집',
+    'settings.apiKeys.scope.blog.write.desc': '블로그 게시물 작성 및 업데이트',
+    'settings.apiKeys.scope.user.read': '프로필 읽기',
+    'settings.apiKeys.scope.user.read.desc': '사용자 아이디, 아바타, 공개 프로필에 액세스하기',
+    'settings.apiKeys.scope.library.read': '라이브러리 읽기',
+    'settings.apiKeys.scope.library.read.desc': '읽기 목록 및 저장된 스토리에 액세스',
     // Web3
     'settings.web3.legend': 'Web3 지갑 연결',
     'settings.web3.explained': 'Web3 암호화 지갑을 Literary Universe 계정에 연결할 수 있습니다. 연결하면 지갑으로 로그인하고 앞으로 Web3 오퍼링을 확장함에 따라 더 많은 작업을 수행할 수 있습니다.',
@@ -145,5 +198,7 @@ export default {
     'settings.interests.tags.placeholder': '태그 추가',
     'settings.interests.avoidGenres.help': '추천에서 표시하지 않으려는 장르를 선택합니다.',
     'settings.interests.avoidGenres': '피해야 할 장르',
-    'settings.notifications': '알림 및 뉴스레터'
+    'settings.notifications': '알림 및 뉴스레터',
+    'settings.kindleEmail': 'Kindle 이메일',
+    'settings.kindleEmail.explained': '이 설정이 있는 경우 가능한 경우 클릭 한 번으로 스토리를 Kindle로 보낼 수 있는 옵션을 제공합니다. Amazon 설정의 콘텐츠 및 디바이스 -> 디바이스에서 Kindle을 선택하여 세부 정보를 확인하면 해당 이메일 주소를 찾을 수 있습니다.'
 };

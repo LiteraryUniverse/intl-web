@@ -63,6 +63,8 @@ export default {
     'discovery.author': 'Yazar',
     'discovery.aiGenerated': 'Yapay Zeka Üretildi',
     'discovery.isAIGenerated': 'Bu çalışma yapay zeka tarafından üretilmiştir.',
+    'discovery.isPreview': 'Önizleme',
+    'discovery.isPreview.explained': 'Bu hikaye sadece eserin bir önizlemesi olarak sunulmaktadır.',
     // AI content related strings
     'discovery.ai.content': 'Yapay Zeka Tarafından Oluşturulan İçerik',
     'discovery.ai.universes': 'Yapay Zeka Tarafından Oluşturulan Evrenler',
