@@ -321,6 +321,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Невозможно опубликовать, если в настройках истории включена функция предотвращения публикации.',
     'workshop.publishing.restricted': 'В связи с нарушением правил поведения мы лишили вас возможности публиковать.',
     'workshop.story.buyingSettings': 'Настройки продажи',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Модальное окно подтверждения для удаления главы',
+    'workshop.chapter.delete.confirm': 'Удалить главу',
+    'workshop.chapter.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
+    'workshop.chapter.delete.button': 'Удалить главу',
+    'workshop.chapter.delete.deleting': 'Удаление...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Контент, созданный искусственным интеллектом',
     'workshop.chapter.aiGenerated.tooltip': 'Отметьте эту главу как содержащую контент, созданный искусственным интеллектом',
