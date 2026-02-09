@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'لا يمكن النشر أثناء تمكين منع النشر في إعدادات القصة.',
     'workshop.publishing.restricted': 'بسبب مخالفة حسن السيرة والسلوك قمنا بتعطيل قدرتك على النشر.',
     'workshop.story.buyingSettings': 'إعدادات البيع',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'طريقة التأكيد لحذف فصل من الفصول',
+    'workshop.chapter.delete.confirm': 'حذف الفصل',
+    'workshop.chapter.delete.warning': 'هل تريد بالتأكيد حذف "{title}"؟ لا يمكن التراجع عن هذا الإجراء.',
+    'workshop.chapter.delete.button': 'حذف الفصل',
+    'workshop.chapter.delete.deleting': 'حذف...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'workshop.chapter.aiGenerated.tooltip': 'ضع علامة على هذا الفصل على أنه يحتوي على محتوى من إنشاء الذكاء الاصطناعي',
