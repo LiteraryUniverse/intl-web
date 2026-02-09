@@ -1,8 +1,10 @@
 # Changelog for languages
 
-## 2026-01-XX - v2.22.0
+## 2026-02-10 - v2.22.0
 
 * New keys for API Keys management
+* New keys for Send to Kindle
+* New keys for deleting chapters
 
 ## 2025-12-31 - v2.21.0
 
