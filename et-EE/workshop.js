@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Ei saa avaldada, kui loo seadetes on lubatud avaldamise vältimine.',
     'workshop.publishing.restricted': 'Hea käitumise rikkumise tõttu oleme keelanud teie avaldamisvõimaluse.',
     'workshop.story.buyingSettings': 'Müügi seaded',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Peatüki kustutamise kinnituse modaal',
+    'workshop.chapter.delete.confirm': 'Peatükk kustutada',
+    'workshop.chapter.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
+    'workshop.chapter.delete.button': 'Peatükk kustutada',
+    'workshop.chapter.delete.deleting': 'Kustutamine...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Tehisintellekti loodud sisu',
     'workshop.chapter.aiGenerated.tooltip': 'Märgista see peatükk, mis sisaldab tehisintellekti loodud sisu.',
