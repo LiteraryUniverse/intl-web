@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Nem lehet közzétenni, ha a történet beállításaiban engedélyezve van a közzététel megakadályozása.',
     'workshop.publishing.restricted': 'A jó magaviselet megsértése miatt letiltottuk a publikálási lehetőségét.',
     'workshop.story.buyingSettings': 'Értékesítési beállítások',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Megerősítő modal egy fejezet törléséhez',
+    'workshop.chapter.delete.confirm': 'Fejezet törlése',
+    'workshop.chapter.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
+    'workshop.chapter.delete.button': 'Fejezet törlése',
+    'workshop.chapter.delete.deleting': 'Törlés...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI-generált tartalom',
     'workshop.chapter.aiGenerated.tooltip': 'Jelölje meg ezt a fejezetet mesterséges intelligencia által generált tartalmat tartalmazónak',
