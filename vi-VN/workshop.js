@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Cửa sổ xác nhận cho việc xóa một chương',
+    'workshop.chapter.delete.confirm': 'Xóa Chương',
+    'workshop.chapter.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
+    'workshop.chapter.delete.button': 'Xóa Chương',
+    'workshop.chapter.delete.deleting': 'Đang xóa...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI-Generated Content',
     'workshop.chapter.aiGenerated.tooltip': 'Mark this chapter as containing AI-generated content',
