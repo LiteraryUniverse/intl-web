@@ -294,6 +294,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'ストーリー設定でパブリッシュを防止する設定が有効になっている場合、パブリッシュできません。',
     'workshop.publishing.restricted': '善行違反のため、私たちはあなたの出版能力を無効にしました。',
     'workshop.story.buyingSettings': 'セール設定',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'チャプター削除の確認モーダル',
+    'workshop.chapter.delete.confirm': '章を削除',
+    'workshop.chapter.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
+    'workshop.chapter.delete.button': '章を削除',
+    'workshop.chapter.delete.deleting': '削除...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AIが生成したコンテンツ',
     'workshop.chapter.aiGenerated.tooltip': 'この章にAIが作成したコンテンツが含まれているとマークする',
