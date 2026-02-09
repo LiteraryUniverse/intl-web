@@ -309,6 +309,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Nie je možné publikovať, keď je v nastaveniach príbehu povolené zabrániť publikovaniu.',
     'workshop.publishing.restricted': 'Z dôvodu porušenia pravidiel slušného správania sme vám zakázali publikovať.',
     'workshop.story.buyingSettings': 'Nastavenia predaja',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Potvrdzovacie modálne okno pre vymazanie kapitoly',
+    'workshop.chapter.delete.confirm': 'Vymazať kapitolu',
+    'workshop.chapter.delete.warning': 'Ste si istí, že chcete odstrániť "{title}"? Túto akciu nemožno vrátiť späť.',
+    'workshop.chapter.delete.button': 'Vymazať kapitolu',
+    'workshop.chapter.delete.deleting': 'Odstránenie...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Obsah generovaný umelou inteligenciou',
     'workshop.chapter.aiGenerated.tooltip': 'Označte túto kapitolu ako kapitolu obsahujúcu obsah vytvorený umelou inteligenciou',
