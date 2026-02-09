@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Nie można opublikować, gdy w ustawieniach fabuły włączona jest funkcja zapobiegania publikowaniu.',
     'workshop.publishing.restricted': 'Ze względu na naruszenie zasad dobrego zachowania zablokowaliśmy możliwość publikowania przez Pana/Panią.',
     'workshop.story.buyingSettings': 'Ustawienia sprzedaży',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Modalne potwierdzenie usunięcia rozdziału',
+    'workshop.chapter.delete.confirm': 'Proszę usunąć rozdział',
+    'workshop.chapter.delete.warning': 'Czy na pewno chcą Państwo usunąć "{title}"? Tej czynności nie można cofnąć.',
+    'workshop.chapter.delete.button': 'Proszę usunąć rozdział',
+    'workshop.chapter.delete.deleting': 'Usuwanie...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Treści generowane przez sztuczną inteligencję',
     'workshop.chapter.aiGenerated.tooltip': 'Proszę oznaczyć ten rozdział jako zawierający treści wygenerowane przez sztuczną inteligencję.',
