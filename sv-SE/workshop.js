@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Det går inte att publicera när förhindra publicering är aktiverat i berättelsens inställningar.',
     'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
     'workshop.story.buyingSettings': 'Inställningar för försäljning',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Bekräftelsemodal för borttagning av ett kapitel',
+    'workshop.chapter.delete.confirm': 'Radera kapitel',
+    'workshop.chapter.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
+    'workshop.chapter.delete.button': 'Radera kapitel',
+    'workshop.chapter.delete.deleting': 'Radera...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI-genererat innehåll',
     'workshop.chapter.aiGenerated.tooltip': 'Markera detta kapitel som innehållande AI-genererat innehåll',
