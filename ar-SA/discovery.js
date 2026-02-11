@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'تم إنشاء هذا العمل بواسطة الذكاء الاصطناعي.',
     'discovery.isPreview': 'معاينة',
     'discovery.isPreview.explained': 'يتم توفير هذه القصة فقط كمعاينة للعمل.',
+    'discovery.includesAds': 'يشمل الإعلانات',
     // AI content related strings
     'discovery.ai.content': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'discovery.ai.universes': 'الأكوان المولدة بالذكاء الاصطناعي',
