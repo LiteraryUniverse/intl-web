@@ -71,6 +71,7 @@ export default {
     'discovery.isAIGenerated': 'Ta praca została wygenerowana przez sztuczną inteligencję.',
     'discovery.isPreview': 'Podgląd',
     'discovery.isPreview.explained': 'Niniejsza historia stanowi jedynie zapowiedź utworu.',
+    'discovery.includesAds': 'Obejmuje reklamy',
     // AI content related strings
     'discovery.ai.content': 'Treści generowane przez sztuczną inteligencję',
     'discovery.ai.universes': 'Wszechświaty generowane przez SI',
