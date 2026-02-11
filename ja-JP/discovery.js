@@ -63,6 +63,7 @@ export default {
     'discovery.isAIGenerated': 'この作品はAIによって生み出された。',
     'discovery.isPreview': 'プレビュー',
     'discovery.isPreview.explained': 'この物語は作品のプレビューとしてのみ提供される。',
+    'discovery.includesAds': '広告を含む',
     // AI content related strings
     'discovery.ai.content': 'AIが生成したコンテンツ',
     'discovery.ai.universes': 'AIが生成する宇宙',
