@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'See töö on loodud tehisintellekti abil.',
     'discovery.isPreview': 'Eelvaade',
     'discovery.isPreview.explained': 'See lugu on esitatud ainult teose eelvaates.',
+    'discovery.includesAds': 'Sisaldab reklaame',
     // AI content related strings
     'discovery.ai.content': 'Tehisintellekti loodud sisu',
     'discovery.ai.universes': 'Tehisintellekti loodud universumid',
