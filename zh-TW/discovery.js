@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': '本作品由 AI 生成。',
     'discovery.isPreview': '預覽',
     'discovery.isPreview.explained': '本故事僅提供作品預覽。',
+    'discovery.includesAds': '包括廣告',
     // AI content related strings
     'discovery.ai.content': 'AI 產生的內容',
     'discovery.ai.universes': 'AI 產生的宇宙',
