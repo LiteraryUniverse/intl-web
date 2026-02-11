@@ -69,6 +69,7 @@ export default {
   'discovery.isPreview': 'Preview',
   'discovery.isPreview.explained':
     'This story is provided only as a preview of the work.',
+  'discovery.includesAds': 'Includes Ads',
 
   // AI content related strings
   'discovery.ai.content': 'AI-Generated Content',
