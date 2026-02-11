@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Detta arbete har genererats av AI.',
     'discovery.isPreview': 'Förhandsgranskning',
     'discovery.isPreview.explained': 'Denna berättelse tillhandahålls endast som en förhandsvisning av arbetet.',
+    'discovery.includesAds': 'Inkluderar annonser',
     // AI content related strings
     'discovery.ai.content': 'AI-genererat innehåll',
     'discovery.ai.universes': 'AI-genererade universum',
