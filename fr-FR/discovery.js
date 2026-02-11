@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Ce travail a été généré par l\'IA.',
     'discovery.isPreview': 'Avant-première',
     'discovery.isPreview.explained': 'Cette histoire n\'est fournie qu\'à titre d\'aperçu de l\'œuvre.',
+    'discovery.includesAds': 'Inclut les annonces',
     // AI content related strings
     'discovery.ai.content': 'Contenu généré par l\'IA',
     'discovery.ai.universes': 'Univers générés par l\'IA',
