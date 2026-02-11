@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Το έργο αυτό δημιουργήθηκε από την AI.',
     'discovery.isPreview': 'Προεπισκόπηση',
     'discovery.isPreview.explained': 'Αυτή η ιστορία παρέχεται μόνο ως προεπισκόπηση του έργου.',
+    'discovery.includesAds': 'Περιλαμβάνει διαφημίσεις',
     // AI content related strings
     'discovery.ai.content': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'discovery.ai.universes': 'Σύμπαντα που δημιουργούνται από Τεχνητή Νοημοσύνη',
