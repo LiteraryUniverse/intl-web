@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Această lucrare a fost generată de AI.',
     'discovery.isPreview': 'Previzualizare',
     'discovery.isPreview.explained': 'Această poveste este oferită doar ca o previzualizare a lucrării.',
+    'discovery.includesAds': 'Include anunțuri',
     // AI content related strings
     'discovery.ai.content': 'Conținut generat de inteligența artificială',
     'discovery.ai.universes': 'Universuri generate de inteligența artificială',
