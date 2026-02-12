@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Šį darbą sukūrė AI.',
     'discovery.isPreview': 'Peržiūra',
     'discovery.isPreview.explained': 'Ši istorija pateikiama tik kaip kūrinio peržiūra.',
+    'discovery.includesAds': 'Įtraukiami skelbimai',
     // AI content related strings
     'discovery.ai.content': 'dirbtinio intelekto sukurtas turinys',
     'discovery.ai.universes': 'Dirbtinio intelekto sukurtos visatos',

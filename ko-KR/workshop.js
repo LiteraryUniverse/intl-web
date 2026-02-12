@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': '스토리 설정에서 게시 금지가 활성화된 상태에서는 게시할 수 없습니다.',
     'workshop.publishing.restricted': '윤리강령 위반으로 인해 귀하의 게시 기능이 비활성화되었습니다.',
     'workshop.story.buyingSettings': '판매 설정',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': '챕터 삭제를 위한 확인 모달',
+    'workshop.chapter.delete.confirm': '장 삭제',
+    'workshop.chapter.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
+    'workshop.chapter.delete.button': '장 삭제',
+    'workshop.chapter.delete.deleting': '삭제...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI 생성 콘텐츠',
     'workshop.chapter.aiGenerated.tooltip': '이 챕터에 AI 생성 콘텐츠가 포함된 것으로 표시하기',

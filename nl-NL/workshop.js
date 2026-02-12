@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Kan niet publiceren terwijl voorkomen publiceren is ingeschakeld in verhaalinstellingen.',
     'workshop.publishing.restricted': 'Wegens schending van goed gedrag hebben wij uw mogelijkheid tot publicatie uitgeschakeld.',
     'workshop.story.buyingSettings': 'Verkoopinstellingen',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een hoofdstuk',
+    'workshop.chapter.delete.confirm': 'Hoofdstuk verwijderen',
+    'workshop.chapter.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
+    'workshop.chapter.delete.button': 'Hoofdstuk verwijderen',
+    'workshop.chapter.delete.deleting': 'Verwijderen...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI-gegenereerde inhoud',
     'workshop.chapter.aiGenerated.tooltip': 'Markeer dit hoofdstuk als bevat AI-gegenereerde inhoud',

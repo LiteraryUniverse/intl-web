@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Công việc này được tạo ra bởi trí tuệ nhân tạo.',
     'discovery.isPreview': 'Xem trước',
     'discovery.isPreview.explained': 'Câu chuyện này chỉ được cung cấp như một bản xem trước của tác phẩm.',
+    'discovery.includesAds': 'Bao gồm quảng cáo',
     // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',

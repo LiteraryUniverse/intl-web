@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': '在故事設定中啟用防止發佈時，無法發佈。',
     'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。',
     'workshop.story.buyingSettings': '銷售設定',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': '刪除章節的確認模態',
+    'workshop.chapter.delete.confirm': '刪除章節',
+    'workshop.chapter.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
+    'workshop.chapter.delete.button': '刪除章節',
+    'workshop.chapter.delete.deleting': '刪除...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI 產生的內容',
     'workshop.chapter.aiGenerated.tooltip': '標示本章包含 AI 產生的內容',

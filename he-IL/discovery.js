@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'עבודה זו נוצרה על ידי בינה מלאכותית.',
     'discovery.isPreview': 'תצוגה מקדימה',
     'discovery.isPreview.explained': 'סיפור זה מוצג רק כקדימון ליצירה.',
+    'discovery.includesAds': 'כולל פרסומות',
     // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',

@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Ezt a munkát a mesterséges intelligencia hozta létre.',
     'discovery.isPreview': 'Előnézet',
     'discovery.isPreview.explained': 'Ez a történet csak a mű előzetese.',
+    'discovery.includesAds': 'Tartalmazza a hirdetéseket',
     // AI content related strings
     'discovery.ai.content': 'AI-generált tartalom',
     'discovery.ai.universes': 'Mesterséges intelligencia által generált univerzumok',

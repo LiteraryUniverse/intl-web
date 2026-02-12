@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Kan ikke udgive, mens forhindring af udgivelse er aktiveret i historieindstillingerne.',
     'workshop.publishing.restricted': 'På grund af brud på god opførsel har vi deaktiveret din mulighed for at publicere.',
     'workshop.story.buyingSettings': 'Indstillinger for salg',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Bekræftelsesmodal for sletning af et kapitel',
+    'workshop.chapter.delete.confirm': 'Slet kapitel',
+    'workshop.chapter.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
+    'workshop.chapter.delete.button': 'Slet kapitel',
+    'workshop.chapter.delete.deleting': 'Sletning...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI-genereret indhold',
     'workshop.chapter.aiGenerated.tooltip': 'Marker dette kapitel som indeholdende AI-genereret indhold',

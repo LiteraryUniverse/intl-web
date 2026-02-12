@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Неможливо опублікувати, якщо в налаштуваннях історії увімкнено заборону на публікацію.',
     'workshop.publishing.restricted': 'Через порушення правил поведінки ми заблокували вашу можливість публікувати.',
     'workshop.story.buyingSettings': 'Налаштування продажу',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Модальне вікно підтвердження видалення розділу',
+    'workshop.chapter.delete.confirm': 'Видалити розділ',
+    'workshop.chapter.delete.warning': 'Ви дійсно хочете видалити "{title}"? Ця дія не може бути скасована.',
+    'workshop.chapter.delete.button': 'Видалити розділ',
+    'workshop.chapter.delete.deleting': 'Видалення...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Контент, створений штучним інтелектом',
     'workshop.chapter.aiGenerated.tooltip': 'Позначте цей розділ як такий, що містить вміст, створений штучним інтелектом',

@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Die Veröffentlichung kann nicht erfolgen, wenn die Option Veröffentlichung verhindern in den Story-Einstellungen aktiviert ist.',
     'workshop.publishing.restricted': 'Aufgrund eines Verstoßes gegen die Regeln des guten Benehmens haben wir Ihre Fähigkeit zu veröffentlichen deaktiviert.',
     'workshop.story.buyingSettings': 'Verkauf Einstellungen',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Bestätigungsdialog für das Löschen eines Kapitels',
+    'workshop.chapter.delete.confirm': 'Kapitel löschen',
+    'workshop.chapter.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
+    'workshop.chapter.delete.button': 'Kapitel löschen',
+    'workshop.chapter.delete.deleting': 'Löschen...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'KI-generierte Inhalte',
     'workshop.chapter.aiGenerated.tooltip': 'Markieren Sie dieses Kapitel als KI-generierte Inhalte enthaltend',

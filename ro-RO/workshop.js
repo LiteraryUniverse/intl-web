@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Nu se poate publica în timp ce funcția de prevenire a publicării este activată în setările povestirii.',
     'workshop.publishing.restricted': 'Din cauza încălcării bunei conduite, v-am dezactivat capacitatea de a publica.',
     'workshop.story.buyingSettings': 'Setări de vânzare',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Mod de confirmare pentru ștergerea unui capitol',
+    'workshop.chapter.delete.confirm': 'Ștergeți capitolul',
+    'workshop.chapter.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
+    'workshop.chapter.delete.button': 'Ștergeți capitolul',
+    'workshop.chapter.delete.deleting': 'Ștergerea...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Conținut generat de inteligența artificială',
     'workshop.chapter.aiGenerated.tooltip': 'Marcați acest capitol ca având conținut generat de AI',

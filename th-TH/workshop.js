@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'หน้าต่างยืนยันการลบบท',
+    'workshop.chapter.delete.confirm': 'ลบบท',
+    'workshop.chapter.delete.warning': 'คุณแน่ใจหรือไม่ว่าต้องการลบ "{title}" การดำเนินการนี้ไม่สามารถย้อนกลับได้',
+    'workshop.chapter.delete.button': 'ลบบท',
+    'workshop.chapter.delete.deleting': 'กำลังลบ...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'AI-Generated Content',
     'workshop.chapter.aiGenerated.tooltip': 'Mark this chapter as containing AI-generated content',

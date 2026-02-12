@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Negalima publikuoti, kai istorijos nustatymuose įjungta funkcija neleisti publikuoti.',
     'workshop.publishing.restricted': 'Dėl geros elgsenos pažeidimo atjungėme jūsų galimybę publikuoti.',
     'workshop.story.buyingSettings': 'Pardavimo nustatymai',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Skyriaus ištrynimo patvirtinimo modalinis langas',
+    'workshop.chapter.delete.confirm': 'Ištrinti skyrių',
+    'workshop.chapter.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
+    'workshop.chapter.delete.button': 'Ištrinti skyrių',
+    'workshop.chapter.delete.deleting': 'Ištrinti...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'dirbtinio intelekto sukurtas turinys',
     'workshop.chapter.aiGenerated.tooltip': 'Pažymėkite šį skyrių kaip skyrių, kuriame yra dirbtinio intelekto sukurto turinio',

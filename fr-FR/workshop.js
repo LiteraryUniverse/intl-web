@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Impossible de publier si l\'option empêcher la publication est activée dans les paramètres de l\'article.',
     'workshop.publishing.restricted': 'En raison d\'une violation des règles de bonne conduite, nous avons désactivé votre capacité à publier.',
     'workshop.story.buyingSettings': 'Paramètres de vente',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Modale de confirmation pour la suppression d\'un chapitre',
+    'workshop.chapter.delete.confirm': 'Supprimer le chapitre',
+    'workshop.chapter.delete.warning': 'Êtes-vous sûr de vouloir supprimer "{title}" ? Cette action ne peut être annulée.',
+    'workshop.chapter.delete.button': 'Supprimer le chapitre',
+    'workshop.chapter.delete.deleting': 'Suppression...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Contenu généré par l\'IA',
     'workshop.chapter.aiGenerated.tooltip': 'Marquer ce chapitre comme contenant du contenu généré par l\'IA',

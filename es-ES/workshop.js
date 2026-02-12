@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'No se puede publicar cuando la opción de impedir la publicación está activada en los ajustes de la historia.',
     'workshop.publishing.restricted': 'Debido a una violación de buena conducta hemos desactivado su capacidad de publicar.',
     'workshop.story.buyingSettings': 'Ajustes de venta',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Modalidad de confirmación para borrar un capítulo',
+    'workshop.chapter.delete.confirm': 'Borrar capítulo',
+    'workshop.chapter.delete.warning': '¿Está seguro de que desea borrar "{title}"? Esta acción no se puede deshacer.',
+    'workshop.chapter.delete.button': 'Borrar capítulo',
+    'workshop.chapter.delete.deleting': 'Borrar...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Contenidos generados por IA',
     'workshop.chapter.aiGenerated.tooltip': 'Marcar este capítulo como de contenido generado por IA',

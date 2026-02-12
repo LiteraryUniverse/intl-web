@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Tidak dapat menerbitkan saat mencegah penerbitan diaktifkan di pengaturan cerita.',
     'workshop.publishing.restricted': 'Karena pelanggaran tata tertib, kami telah menonaktifkan kemampuan Anda untuk mempublikasikan.',
     'workshop.story.buyingSettings': 'Pengaturan penjualan',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Modal konfirmasi untuk menghapus bab',
+    'workshop.chapter.delete.confirm': 'Menghapus Bab',
+    'workshop.chapter.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
+    'workshop.chapter.delete.button': 'Menghapus Bab',
+    'workshop.chapter.delete.deleting': 'Menghapus...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Konten yang Dihasilkan AI',
     'workshop.chapter.aiGenerated.tooltip': 'Tandai bab ini sebagai berisi konten yang dibuat oleh AI',

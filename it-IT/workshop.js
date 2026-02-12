@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Non è possibile pubblicare quando la pubblicazione è abilitata nelle impostazioni della storia.',
     'workshop.publishing.restricted': 'A causa di una violazione della buona condotta, abbiamo disabilitato la sua capacità di pubblicare.',
     'workshop.story.buyingSettings': 'Impostazioni di vendita',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Modale di conferma per l\'eliminazione di un capitolo',
+    'workshop.chapter.delete.confirm': 'Cancellare il capitolo',
+    'workshop.chapter.delete.warning': 'È sicuro di voler eliminare "{title}"? Questa azione non può essere annullata.',
+    'workshop.chapter.delete.button': 'Cancellare il capitolo',
+    'workshop.chapter.delete.deleting': 'Cancellare...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Contenuti generati dall\'AI',
     'workshop.chapter.aiGenerated.tooltip': 'Contrassegnare questo capitolo come contenente contenuti generati dall\'intelligenza artificiale.',

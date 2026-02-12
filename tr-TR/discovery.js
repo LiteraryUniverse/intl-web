@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Bu çalışma yapay zeka tarafından üretilmiştir.',
     'discovery.isPreview': 'Önizleme',
     'discovery.isPreview.explained': 'Bu hikaye sadece eserin bir önizlemesi olarak sunulmaktadır.',
+    'discovery.includesAds': 'Reklamlar dahildir',
     // AI content related strings
     'discovery.ai.content': 'Yapay Zeka Tarafından Oluşturulan İçerik',
     'discovery.ai.universes': 'Yapay Zeka Tarafından Oluşturulan Evrenler',

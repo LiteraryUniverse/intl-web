@@ -302,6 +302,12 @@ export default {
     'workshop.revisions.new.public.disabled': 'Ei voi julkaista, kun julkaisemisen estäminen on otettu käyttöön tarinan asetuksissa.',
     'workshop.publishing.restricted': 'Hyvien käytöstapojen rikkomisen vuoksi olemme estäneet sinua julkaisemasta.',
     'workshop.story.buyingSettings': 'Myyntiasetukset',
+    // Chapter deletion
+    'workshop.chapter.delete.modalAria': 'Luvun poistamisen vahvistusikkuna',
+    'workshop.chapter.delete.confirm': 'Poista luku',
+    'workshop.chapter.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
+    'workshop.chapter.delete.button': 'Poista luku',
+    'workshop.chapter.delete.deleting': 'Poistaminen...',
     // AI Content Marking
     'workshop.chapter.aiGenerated': 'Tekoälyn luoma sisältö',
     'workshop.chapter.aiGenerated.tooltip': 'Merkitse tämän luvun sisältävän tekoälyn tuottamaa sisältöä.',

@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': 'Tämä työ on tuotettu tekoälyn avulla.',
     'discovery.isPreview': 'Esikatselu',
     'discovery.isPreview.explained': 'Tämä tarina on vain teoksen esikatselukappale.',
+    'discovery.includesAds': 'Sisältää mainoksia',
     // AI content related strings
     'discovery.ai.content': 'Tekoälyn luoma sisältö',
     'discovery.ai.universes': 'Tekoälyn luomat maailmankaikkeudet',

@@ -65,6 +65,7 @@ export default {
     'discovery.isAIGenerated': '이 작업은 AI에 의해 생성되었습니다.',
     'discovery.isPreview': '미리 보기',
     'discovery.isPreview.explained': '이 이야기는 작품의 미리보기로만 제공됩니다.',
+    'discovery.includesAds': '광고 포함',
     // AI content related strings
     'discovery.ai.content': 'AI 생성 콘텐츠',
     'discovery.ai.universes': 'AI 생성 유니버스',
