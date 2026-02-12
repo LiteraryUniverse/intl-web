@@ -172,11 +172,11 @@
       "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
     },
     "statistics": {
-      "title": "Track Your Success",
+      "title": "Sledujte svůj úspěch",
       "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
     },
     "forum": {
-      "title": "Internal Planning Forum",
+      "title": "Fórum pro interní plánování",
       "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
     },
     "collaborators": {
@@ -211,20 +211,20 @@
       "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Přidávání nových kapitol",
+      "content": "Zde přidáváte nové kapitoly svého příběhu. Klepnutím na tlačítko \"Přidat kapitolu\" vytvoříte novou kapitolu. Váš příběh automaticky uspořádá kapitoly ve správném pořadí. Kapitoly můžete přidávat také ze spodní části seznamu kapitol."
     },
     "statistics": {
       "title": "Track Your Progress",
       "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Správa spolupracovníků",
+      "content": "Pozvěte ke spolupráci na svém příběhu další autory. Přidělujte různé role a oprávnění, koordinujte psaní a spravujte svůj tvůrčí tým. Ideální pro skupinové projekty psaní."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Správa překladů",
+      "content": "Koordinujte překlady svého příběhu do jiných jazyků. Spravujte překladatele, sledujte průběh překladu a zpřístupněte svůj příběh globálnímu publiku."
     },
     "monetization": {
       "title": "Revenue Settings",
@@ -239,7 +239,7 @@
       "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
+      "title": "Osobní spisovatelské výzvy",
       "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
     },
     "storylines": {
@@ -247,7 +247,7 @@
       "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
+      "title": "Správce scén",
       "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
     },
     "legal": {
@@ -255,11 +255,11 @@
       "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
     },
     "publicVersion": {
-      "title": "Public Version",
+      "title": "Veřejná verze",
       "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
     },
     "sharing": {
-      "title": "Share Your Story",
+      "title": "Sdílejte svůj příběh",
       "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
     },
     "resolutionCenter": {
@@ -299,26 +299,26 @@
     },
     "fullscreen": {
       "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "content": "Přepnutím do celoobrazovkového režimu maximalizujete prostor pro psaní a eliminujete rušivé vlivy. Ideální pro soustředěné psaní."
     },
     "saveButton": {
-      "title": "Save Your Work",
+      "title": "Uložení práce",
       "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
     },
     "publishMenu": {
-      "title": "Publishing Options",
+      "title": "Možnosti publikování",
       "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
+      "title": "Název kapitoly",
       "content": "Click on the title to edit its name."
     },
     "authorsNotes": {
-      "title": "Author's Notes",
+      "title": "Autorské poznámky",
       "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
     },
     "storyText": {
-      "title": "Main Story Text",
+      "title": "Hlavní text příběhu",
       "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
     },
     "asidePanel": {
@@ -350,7 +350,7 @@
       "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
+      "title": "Jste připraveni začít psát?",
       "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
     }
   },
@@ -374,21 +374,21 @@
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Vítejte v encyklopedii",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Encyklopedie vašeho vesmíru",
+      "content": "Vítejte v encyklopedii pro Váš literární svět! Zde můžete shromažďovat veškeré znalosti o svém vesmíru a sdílet je s Vašemi fanoušky."
     },
     "tabs": {
-      "title": "Organize Your Content",
+      "title": "Uspořádejte svůj obsah",
       "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
     },
     "categories": {
-      "title": "Your Categories",
+      "title": "Vaše kategorie",
       "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
     },
     "search": {
-      "title": "Find What You Need",
+      "title": "Najděte, co potřebujete",
       "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
     },
     "add": {
