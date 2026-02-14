@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'Модель штучного інтелекту: {model}',
     'common.aiContent.custom': 'Спеціальна модель ШІ',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Короткий підсумок'
 };
