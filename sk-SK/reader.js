@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Tento príbeh nie je dostupný na Literárnom vesmíre, ale môžete ho získať na iných miestach.',
     'reader.storyTBC.heading': 'Na pokračovanie...',
     'reader.storyTBC.description': 'To je zatiaľ všetko, čo máme k príbehu, ale dobrodružstvo bude v budúcnosti pokračovať, čoskoro sa k nemu vráťte!',
+    'reader.storyPreview.heading': 'Náhľad kompletný',
+    'reader.storyPreview.description': 'Práve ste dokončili náhľad. Zvyšok príbehu tu zatiaľ nemáme, ale môžete v ňom pokračovať na nižšie uvedených miestach.',
     'chapter.translation.notYetDescription': 'Čoskoro sa sem opäť vráťte!',
     'reader.externalShopping.heading': 'Získajte {storyName} na iných miestach:',
     'chapter.next': 'Ďalšia kapitola',
