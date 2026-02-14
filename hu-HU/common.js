@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'AI modell: {model}',
     'common.aiContent.custom': 'Egyedi AI modell',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Gyors összefoglaló'
 };
