@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': '이 이야기는 Literary Universe에서 사용할 수 없지만, 다른 곳에서 구할 수 있습니다.',
     'reader.storyTBC.heading': '계속될 것입니다...',
     'reader.storyTBC.description': '지금까지 이야기에 대한 모든 정보는 여기까지입니다. 하지만 모험은 미래에 계속될 것이니 곧 다시 확인하세요!',
+    'reader.storyPreview.heading': '미리보기 완료',
+    'reader.storyPreview.description': '미리 보기를 완료했습니다. 나머지 이야기는 아직 여기에 없지만 아래에서 계속 읽어보실 수 있습니다.',
     'chapter.translation.notYetDescription': '곧 다시 확인하세요!',
     'reader.externalShopping.heading': '다른 곳에서는 {storyName} 를 확인하세요:',
     'chapter.next': '다음 장',
