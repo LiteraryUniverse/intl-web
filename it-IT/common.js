@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'Modello AI: {model}',
     'common.aiContent.custom': 'Modello AI personalizzato',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Riepilogo rapido'
 };
