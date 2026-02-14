@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Hierdie storie is nie beskikbaar op Literary Universe nie, maar jy kan dit op ander plekke kry.',
     'reader.storyTBC.heading': 'Om voort te gaan...',
     'reader.storyTBC.description': 'Dit is alles wat ons tot dusver vir die storie het, maar die avontuur sal in die toekoms voortgaan. Kom binnekort terug!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'Kom binnekort weer terug!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Volgende hoofstuk',
