@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Αυτή η ιστορία δεν είναι διαθέσιμη στο Literary Universe, αλλά μπορείτε να την αποκτήσετε από άλλα μέρη.',
     'reader.storyTBC.heading': 'Συνεχίζεται...',
     'reader.storyTBC.description': 'Αυτό είναι όλο όσο έχουμε για την ιστορία μέχρι τώρα, αλλά η περιπέτεια θα συνεχιστεί στο μέλλον, ελέγξτε ξανά σύντομα!',
+    'reader.storyPreview.heading': 'Προεπισκόπηση ολοκληρώθηκε',
+    'reader.storyPreview.description': 'Μόλις ολοκληρώσατε την προεπισκόπηση. Δεν έχουμε ακόμα την υπόλοιπη ιστορία εδώ, αλλά μπορείτε να τη συνεχίσετε στα παρακάτω μέρη.',
     'chapter.translation.notYetDescription': 'Ελέγξτε ξανά σύντομα!',
     'reader.externalShopping.heading': 'Πάρτε το {storyName} σε άλλα μέρη:',
     'chapter.next': 'Επόμενο κεφάλαιο',
