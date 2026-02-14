@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'AI-Modell: {model}',
     'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Kurze Zusammenfassung'
 };
