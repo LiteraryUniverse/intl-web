@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'Модель AI: {model}',
     'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Краткое резюме'
 };
