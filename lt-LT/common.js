@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'AI modelis: {model}',
     'common.aiContent.custom': 'Pasirinktinis dirbtinio intelekto modelis',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Trumpa santrauka'
 };
