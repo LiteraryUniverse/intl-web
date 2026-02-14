@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Ang kuwentong ito ay hindi available sa Literary Universe, ngunit maaari mong makuha ito sa iba pang mga lugar.',
     'reader.storyTBC.heading': 'Magpapatuloy...',
     'reader.storyTBC.description': 'Ito na ang lahat na meron tayo para sa kuwento ngayon, ngunit magpapatuloy ang pakikipagsapalaran sa hinaharap, tignan mo ulit sa ibang pagkakataon!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'Tignan mo ulit sa ibang pagkakataon!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Susunod na kabanata',
