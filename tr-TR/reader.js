@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Bu hikaye Literary Universe\'de mevcut değil, ancak başka yerlerde bulabilirsiniz.',
     'reader.storyTBC.heading': 'Devam edecek...',
     'reader.storyTBC.description': 'Bu hikaye için şu ana kadar elimizde bu kadar, ancak macera gelecekte devam edecek. Yakında tekrar kontrol edin!',
+    'reader.storyPreview.heading': 'Önizleme tamamlandı',
+    'reader.storyPreview.description': 'Önizlemeyi az önce bitirdiniz. Hikayenin geri kalanı henüz burada değil, ancak aşağıdaki yerlerden devam edebilirsiniz.',
     'chapter.translation.notYetDescription': 'Yakında tekrar kontrol edin!',
     'reader.externalShopping.heading': 'Başka yerlerde {storyName} adresini bulun:',
     'chapter.next': 'Sonraki bölüm',
