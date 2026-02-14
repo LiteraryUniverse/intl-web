@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Niestandardowy model sztucznej inteligencji',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Krótkie podsumowanie'
 };
