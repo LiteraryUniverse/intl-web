@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2026-02-14 - v2.22.1
+
+* Reworked GDPR page
+* Reworked DMCA page
+
 ## 2026-02-10 - v2.22.0
 
 * New keys for API Keys management
