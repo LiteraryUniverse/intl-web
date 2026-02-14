@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Ця історія недоступна на Літературному Всесвіті, але можливо, ви знайдете її у іншому місці.',
     'reader.storyTBC.heading': 'Далі буде...',
     'reader.storyTBC.description': 'Наразі це вся історія, але пригоди продовжаться в майбутньому, слідкуйте за новинами!',
+    'reader.storyPreview.heading': 'Попередній перегляд завершено',
+    'reader.storyPreview.description': 'Ви щойно закінчили попередній перегляд. У нас ще немає продовження історії, але ви можете продовжити її за вказаними нижче посиланнями.',
     'chapter.translation.notYetDescription': 'Чекатимемо на вас!',
     'reader.externalShopping.heading': 'Отримайте {storyName} в інших місцях:',
     'chapter.next': 'Наступний розділ',
