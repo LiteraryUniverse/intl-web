@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Ĉi tiu rakonto ne estas havebla en Literatura Universo, sed vi povas aĉeti ĝin en aliaj lokoj.',
     'reader.storyTBC.heading': 'Daŭrigos...',
     'reader.storyTBC.description': 'Tio estas ĉio, kion ni havas por la rakonto ĝis nun, sed la aventuro daŭros en la estonteco, revenu baldaŭ!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'Reiru baldaŭ!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Venonta ĉapitro',
