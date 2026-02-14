@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'यह कहानी Literary Universe पर उपलब्ध नहीं है, लेकिन आप इसे अन्य स्थानों पर प्राप्त कर सकते हैं।',
     'reader.storyTBC.heading': 'जारी रखें...',
     'reader.storyTBC.description': 'यही हमारे पास की सब कुछ है, लेकिन भविष्य में आगे की यात्रा जारी रहेगी, जल्दी वापस आएं!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'फिर से जांचें!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'अगला अध्याय',
