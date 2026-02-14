@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'આ ગાથુ આધુનિક યુનિવર્સમાં ઉપલબ્ધ નથી, કિંમતી બુકસ્ટોરો સમે મળશે આ ગાથુ.',
     'reader.storyTBC.heading': 'મહિજુબાં ચાલુ રહેશે...',
     'reader.storyTBC.description': 'આવતી ગાથુથી અમે જેજ વધુ ગાથુ મેળવીશું, એ અવધિને ફરી ચકાશો. દેખવા માટે ફરી મુલાકાત આપો આવ્યો!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'આવતી ગાથુ માટે  ફરીથી તપાસ કરો!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'આગામી અધ્યાય',
