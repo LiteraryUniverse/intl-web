@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Šios istorijos nėra galima perskaityti ne Literatūrinėje Visatoje, bet ją galima rasti kitur.',
     'reader.storyTBC.heading': 'Tęsiama...',
     'reader.storyTBC.description': 'Toliau pradėta istorija dar nėra pabaigta, bet nuotykius galėsite tęsti ateityje, lankykites netrukus!',
+    'reader.storyPreview.heading': 'Peržiūra baigta',
+    'reader.storyPreview.description': 'Ką tik baigėte peržiūrą. Likusios istorijos dalies čia dar neturime, bet ją galite tęsti toliau nurodytose vietose.',
     'chapter.translation.notYetDescription': 'Lankykites vėl netrukus!',
     'reader.externalShopping.heading': 'Gaukite {storyName} kitose vietose:',
     'chapter.next': 'Kitas skyrius',
