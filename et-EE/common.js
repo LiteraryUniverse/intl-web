@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'AI mudel: {model}',
     'common.aiContent.custom': 'Kohandatud tehisintellekti mudel',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Kiire kokkuvõte'
 };
