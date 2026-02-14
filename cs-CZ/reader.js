@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Tento příběh není k dispozici na Literary Universe, ale můžeš ho získat na jiných místech.',
     'reader.storyTBC.heading': 'Pokračování příště...',
     'reader.storyTBC.description': 'To je vše, co máme pro tento příběh doposud, ale dobrodružství bude pokračovat i v budoucnu, brzy se vraťte!',
+    'reader.storyPreview.heading': 'Náhled kompletní',
+    'reader.storyPreview.description': 'Právě jste dokončili náhled. Zbytek příběhu zde zatím nemáme, ale můžete v něm pokračovat na níže uvedených místech.',
     'chapter.translation.notYetDescription': 'Brzy opět zkontrolujte!',
     'reader.externalShopping.heading': 'Získejte stránky {storyName} na jiných místech:',
     'chapter.next': 'Další kapitola',
