@@ -346,4 +346,5 @@ export default {
   'common.aiContent.custom': 'Custom AI model',
   'common.characters': 'characters',
   'common.words': 'words',
+  'common.quickSummary': 'Quick Summary',
 }
