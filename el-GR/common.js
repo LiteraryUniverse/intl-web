@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'Μοντέλο AI: {model}',
     'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Γρήγορη σύνοψη'
 };
