@@ -78,10 +78,9 @@ export default {
   'homepage.explanation':
     "Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That's why we've designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it's a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.",
   'gdpr.title': 'GDPR Compliance',
-  'gdpr.desc': 'Literary Universe is compliant with the EU GDPR directives.',
-  'gdpr.compliant': 'Literary Universe is GDPR Compliant',
-  'gdpr.compliant.text':
-    'Literary Universe has implemented various updates and changes to its codebase in preparation for GDPR enforcement on May 25th 2018.',
+  'gdpr.what': 'What is GDPR?',
+  'gdpr.explained': 'The General Data Protection Regulation (GDPR) is a data protection law from the European Union that regulates how personal data is collected, processed, stored, and protected. GDPR exists to ensure that every user knows what data is being collected, understands how it is used and has full control over their personal information.',
+  'gdpr.compliant': 'Although LiteraryUniverse operates globally, we apply GDPR principles as a standard of trust and transparency for all users.',
   'common.legal.dmca': 'DMCA',
   'common.legal.dmca.long': 'Digital Millennium Copyright Act',
   'common.legal.changelog': 'Changes in this version',
@@ -92,19 +91,22 @@ export default {
     'Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.',
   'dmca.step3.title': 'Procedure to Supply a Counter-Notice to the Designated Agent.',
   'dmca.desc': 'We take copyright violations seriously.',
-  'gdpr.access.title': 'Right of Access and Right of Data Portability',
-  'gdpr.access.desc':
-    'In user settings you can export all your data. This data will be in standard JSON format.',
-  'gdpr.forget.title': 'Right to be forgotten',
-  'gdpr.forget.desc':
-    'Any account can be deleted via user settings. Some data might be preserved, especially if they have been subject to sale and/or disputes.',
-  'gdpr.rectification.title': 'Right to Rectification',
-  'gdpr.rectification.desc': ' ',
-  'gdpr.processing.title': 'Right to restriction of processing',
-  'gdpr.processing.desc':
-    'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
-  'gdpr.object.title': 'Right to Object',
-  'gdpr.object.desc': ' ',
+  'gdpr.summary': '<ul><li>We only collect data necessary to operate the platform or those you want to share.</li><li>We do not sell your data.</li><li>You may access, edit, export, or delete your data at any time.</li><li>We apply industry-standard security to protect your data.</li></ul>',
+  'gdpr.data.title': 'What Data we collect',
+  'gdpr.data.desc':
+    'Besides the data you put into your profile or generated through your interaction (messages, stories, etc.) we try to collect as little as possible. We collect Technical Information, such as IP address, browser type, and operating system, to ensure the security and functionality of our platform. In limited fashion we log your actions on our platform for security and functionality purposes. Occasionally we might collect data for marketing purposes, these will be through third party services which respect GDPR and you will always have option to opt-out.',
+  'gdpr.dataUse.title': 'How we use Your Data',
+  'gdpr.dataUse.desc':
+    'Your data is used for the following purposes:<ul><li>Providing core platform features (e.g., accounts, content publishing, messaging)</li><li>Security, abuse prevention, and fraud detection</li><li>Functional analytics to improve performance and user experience</li><li>Legal compliance and responding to valid requests</li><li>Internally, we share anonymized data with our authors when you read their stories</li><li>We provide your email and country to Stripe for payment processing and fraud protection</li><li>For marketing purposes, we might use your data, but you will always have option to opt-out (cookie banner, etc.)</li></ul>',
+  'gdpr.dataStorage.title': 'Data storage & security',
+  'gdpr.dataStorage.desc': '<ul><li>All data (except non-sensitive audio visual data) is stored using secure encrypted systems</li><li>Access is restricted to authorized personnel only utilizing industry standard secure access</li><li>We regularly perform security audits and updates to ensure the safety of your data</li><li>All internal communication is over encrypted channels</li></ul>Despite best efforts, no online system is ever 100% immune. In rare case of a data breach, users will be notified as promptly as possible, as required by law.',
+  'gdpr.rights.title': 'Your rights under GDPR',
+  'gdpr.rights.desc':
+    'Under GDPR you have the following rights. You can find options to perform these in your user settings or at the given content: <ul><li>Right to access - Request data we store about you</li><li>Right to erasure - Delete all your data from our servers (limits apply due to applicable laws and our agreement with you - when it comes to stories)</li><li>Right to restriction of processing - Limit how your data is used</li><li>Right to data portability - import/export your data</li></ul>',
+  'gdpr.dataRetention.title': 'Data retention',
+  'gdpr.dataRetention.desc': 'We store your data:<ul><li>As long as your account is active</li><li>Or as long as required for legal, security, or operational purposes</li><li>In case of published creative works, we store them idenfinitelly unless agreed to otherwise</li></ul>',
+  'gdpr.contact.title': 'Contact',
+  'gdpr.contact.desc': 'We are only human, so if you have any requests, questions, concerns or we missed something, please don\'t hesitate to contact us.<br></br>Email: privacy@literaryuniverse.com',
   'dmca.step1.desc1':
     'Reporting is split into two scenarios. 1. Internal property (infringement on site of property existing on site). 2. External property (infringement on site of property not existing on site).',
   'dmca.step1.desc2':
