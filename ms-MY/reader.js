@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Cerita ini tidak tersedia di Dunia Literary, tetapi Anda dapat mendapatkannya di tempat lain.',
     'reader.storyTBC.heading': 'Akan dilanjutkan...',
     'reader.storyTBC.description': 'Ini semua yang kami punya untuk cerita ini sampai sekarang, tetapi petualangan akan berlanjut di masa depan, periksa kembali segera!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'Periksa lagi nanti!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'Bab berikutnya',
