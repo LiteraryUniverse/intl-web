@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Vlastný model AI',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Rýchle zhrnutie'
 };
