@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Câu chuyện này không có sẵn trên Literary Universe, nhưng bạn có thể tìm mua ở những nơi khác.',
     'reader.storyTBC.heading': 'Tiếp tục...',
     'reader.storyTBC.description': 'Đây là toàn bộ những gì chúng tôi có cho câu chuyện cho đến nay, nhưng cuộc phiêu lưu sẽ tiếp tục trong tương lai, hãy kiểm tra lại sớm!',
+    'reader.storyPreview.heading': 'Xem trước hoàn tất',
+    'reader.storyPreview.description': 'Bạn vừa hoàn thành phần xem trước. Chúng tôi chưa có phần còn lại của câu chuyện ở đây, nhưng bạn có thể tiếp tục nó tại các địa điểm dưới đây.',
     'chapter.translation.notYetDescription': 'Hãy kiểm tra lại sớm!',
     'reader.externalShopping.heading': 'Tải xuống " {storyName} " ở các nơi khác:',
     'chapter.next': 'Chương tiếp theo',
