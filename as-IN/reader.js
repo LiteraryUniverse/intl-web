@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'আপনি এই গল্পটি লেখকের অন্যান্য স্থানেও পেতে পারেন, মধ্যে থকে যাওয়ার পরামর্শ দেওয়া হয়।',
     'reader.storyTBC.heading': 'চালিয়ে যাবে...',
     'reader.storyTBC.description': 'এটি এট পর্যন্ত গল্পের জন্য আমাদের আছে, তবে ভবিষ্যতে, তাই সহজে নতুন এলাকায় চেক করুন!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'আবার চেক করুন!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'পরবর্তী অধ্যায়',
