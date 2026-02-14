@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Cette histoire n\'est pas disponible sur L\'Univers Littéraire, mais vous pouvez l\'obtenir dans d\'autres endroits.',
     'reader.storyTBC.heading': 'À suivre...',
     'reader.storyTBC.description': 'C\'est tout ce que nous avons pour l\'histoire jusqu\'à présent, mais l\'aventure continuera dans le futur, revenez bientôt !',
+    'reader.storyPreview.heading': 'Prévisualisation terminée',
+    'reader.storyPreview.description': 'Vous venez de terminer l\'aperçu. Nous n\'avons pas encore la suite de l\'histoire ici, mais vous pouvez la poursuivre aux endroits ci-dessous.',
     'chapter.translation.notYetDescription': 'Revenez voir bientôt !',
     'reader.externalShopping.heading': 'Obtenez {storyName} dans d\'autres endroits :',
     'chapter.next': 'Chapitre suivant',
