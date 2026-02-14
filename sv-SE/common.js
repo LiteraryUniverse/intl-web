@@ -312,5 +312,6 @@ export default {
     'common.aiContent.model': 'AI Modell: {model}',
     'common.aiContent.custom': 'Anpassad AI-modell',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Snabb sammanfattning'
 };
