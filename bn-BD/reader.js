@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'এই গল্পটি লিটারের ইউনিভার্সে পাওয়া যায় না, তবে আপনি অন্য জায়গায় পেতে পারেন।',
     'reader.storyTBC.heading': 'চালিয়ে যাইবে...',
     'reader.storyTBC.description': 'এটি হল সবচেয়ে পূর্বের গল্পটি, কিন্তু ভবিষ্যতে এই অভিযান চলবে, শীঘ্রই চেক করুন!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'আবার চেক করুন!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'পরবর্তী অধ্যায়',
