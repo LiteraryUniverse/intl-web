@@ -347,4 +347,5 @@ export default {
   'common.characters': 'characters',
   'common.words': 'words',
   'common.quickSummary': 'Quick Summary',
+  'common.creating': 'Creating...',
 }
