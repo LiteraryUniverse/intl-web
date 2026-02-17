@@ -313,5 +313,6 @@ export default {
     'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
     'common.characters': 'الشخصيات',
     'common.words': 'الكلمات',
-    'common.quickSummary': 'ملخص سريع'
+    'common.quickSummary': 'ملخص سريع',
+    'common.creating': 'إنشاء...'
 };
