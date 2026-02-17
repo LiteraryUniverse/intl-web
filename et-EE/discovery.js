@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AI mudel: {model}',
     'discovery.recommendations.storiesTitle': 'Soovitatavad lood',
     'discovery.recommendations.recommendationsExplained': 'Neid lugusid soovitatakse meie soovituste süsteemi alusel. mis kasutab masinõpet, et soovitada teile lugusid.',
-    'discovery.recommendations.recommendationsSettings': 'Saate selle oma seadetes keelata.'
+    'discovery.recommendations.recommendationsSettings': 'Saate selle oma seadetes keelata.',
+    'discover.search.templateUniverses': 'Näita ainult malliuniversumeid (kopeeritavad entsüklopeediad)'
 };
