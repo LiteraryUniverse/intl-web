@@ -313,5 +313,6 @@ export default {
     'common.aiContent.custom': 'Modelo de IA personalizado',
     'common.characters': 'characters',
     'common.words': 'words',
-    'common.quickSummary': 'Resumen rápido'
+    'common.quickSummary': 'Resumen rápido',
+    'common.creating': 'Creando...'
 };
