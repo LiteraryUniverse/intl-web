@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Pred uverejnením tejto kapitoly musíte uverejniť alebo naplánovať uverejnenie predchádzajúcej kapitoly.',
     'writer.publish.earlyAccess.title': 'Skorý prístup pre fanúšikov',
-    'writer.publish.earlyAccess.groupLine': '{days} o niekoľko dní skôr: {tiers} - fanúšikovia získajú prístup na {date, date, short} na {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} o niekoľko dní skôr: {tiers} - fanúšikovia získajú prístup na {date, date, short} na {date, time}',
+    'writer.initialLetter': 'Úvodný odsek List'
 };
