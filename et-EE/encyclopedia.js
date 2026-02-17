@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopeeri entsüklopeedia sisu',
     'encyclopedia.templateCopy.description': 'Kopeeri selle entsüklopeedia sisu oma universumisse, et seda rikastada.',
     'encyclopedia.templateCopy.targetUniverse': 'Universum, kuhu kopeerida',
-    'encyclopedia.templateCopy.finished': 'Kopeerimine lõpetatud'
+    'encyclopedia.templateCopy.finished': 'Kopeerimine lõpetatud',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Universumi loomine mallist',
+    'encyclopedia.templateCreateUniverse.description': 'Looge uus universum selle malli eelkülastatud entsüklopeedia sisuga. Teie universum jääb avaldamata, kuni otsustate selle avaldada.',
+    'encyclopedia.templateCreateUniverse.success': 'Universum loodud edukalt! Ümbersuunamine...'
 };
