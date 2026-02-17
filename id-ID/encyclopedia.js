@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Salin konten ensiklopedia',
     'encyclopedia.templateCopy.description': 'Salin konten dari ensiklopedia ini ke univers Anda untuk memperkayanya.',
     'encyclopedia.templateCopy.targetUniverse': 'Univers tujuan untuk disalin',
-    'encyclopedia.templateCopy.finished': 'Penyalinan selesai'
+    'encyclopedia.templateCopy.finished': 'Penyalinan selesai',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Buat alam semesta dari templat',
+    'encyclopedia.templateCreateUniverse.description': 'Buat alam semesta baru dengan konten ensiklopedia yang sudah disiapkan sebelumnya dari templat ini. Alam semesta Anda akan tetap tidak dipublikasikan hingga Anda memutuskan untuk mempublikasikannya.',
+    'encyclopedia.templateCreateUniverse.success': 'Alam semesta berhasil diciptakan! Mengarahkan...'
 };
