@@ -228,5 +228,8 @@ other {je # položiek}
     'encyclopedia.templateCopy.modalTitle': 'Kopírovať obsah encyklopédie',
     'encyclopedia.templateCopy.description': 'Skopírujte obsah tejto encyklopédie do vášho vesmíru, aby ste ho obohatili.',
     'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do ktorého sa má skopírovať',
-    'encyclopedia.templateCopy.finished': 'Kopírovanie dokončené'
+    'encyclopedia.templateCopy.finished': 'Kopírovanie dokončené',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Vytvorenie vesmíru zo šablóny',
+    'encyclopedia.templateCreateUniverse.description': 'Vytvorte nový vesmír s vopred nasadeným obsahom encyklopédie z tejto šablóny. Váš vesmír zostane nezverejnený, kým sa ho nerozhodnete zverejniť.',
+    'encyclopedia.templateCreateUniverse.success': 'Vesmír vytvorený úspešne! Presmerovanie...'
 };
