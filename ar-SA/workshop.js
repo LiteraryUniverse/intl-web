@@ -46,6 +46,12 @@ export default {
     'workshop.story.error.toomanygenres': 'يُسمح فقط بنوعين من الأنواع لكل قصة.',
     'workshop.story.error.fanfiction.selectuniverse': 'يجب عليك اختيار عالم أصلي لقصتك المشجعة!',
     'workshop.story.error.tags.toomany': 'يمكنك فقط إضافة 10 علامات لكل قصة.',
+    'workshop.thema.primary': 'التصنيف الابتدائي',
+    'workshop.thema.secondary': 'التصنيفات الثانوية',
+    'workshop.thema.secondary.max': 'يمكنك إضافة ما يصل إلى {max} التصنيفات الثانوية.',
+    'workshop.thema.selectedCode': 'الرمز: {code}',
+    'workshop.thema.searchPlaceholder': 'البحث بالاسم، على سبيل المثال "خيال علمي"',
+    'workshop.thema.quickRef': '📖 مرجع سريع للموضوعات',
     'workshop.story.new': 'إنشاء قصة جديدة',
     'workshop.story.publishing.notice': 'سيتم نشر القصة تلقائيًا عند نشر الفصل الأول.',
     'workshop.settings.edit': 'تعديل الإعدادات',
