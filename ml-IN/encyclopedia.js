@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'എൻസൈക്ലോപീഡിയ ഉള്ളടക്കം പകർത്തുക',
     'encyclopedia.templateCopy.description': 'ഈ എൻസൈക്ലോപീഡിയയുടെ ഉള്ളടക്കം നിങ്ങളുടെ യൂണിവേഴ്‌സിലേക്ക് പകർത്തിയിട്ട് അതിനു പിന്നിൽ അതു പ്രശ്നങ്ങൾക്ക് പരിഹരിക്കാൻ സഹായിക്കുക.',
     'encyclopedia.templateCopy.targetUniverse': 'പകർത്താൻ യൂണിവേഴ്‌സ്',
-    'encyclopedia.templateCopy.finished': 'പകർപ്പിച്ചു കഴിഞ്ഞു'
+    'encyclopedia.templateCopy.finished': 'പകർപ്പിച്ചു കഴിഞ്ഞു',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
