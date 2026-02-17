@@ -313,5 +313,6 @@ export default {
     'common.aiContent.custom': 'Kohandatud tehisintellekti mudel',
     'common.characters': 'characters',
     'common.words': 'words',
-    'common.quickSummary': 'Kiire kokkuvõte'
+    'common.quickSummary': 'Kiire kokkuvõte',
+    'common.creating': 'Loomine...'
 };
