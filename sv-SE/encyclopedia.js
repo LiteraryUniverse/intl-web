@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopiera encyklopediinnehåll',
     'encyclopedia.templateCopy.description': 'Kopiera innehållet i denna encyklopedi till ditt universum för att berika det.',
     'encyclopedia.templateCopy.targetUniverse': 'Universum att kopiera till',
-    'encyclopedia.templateCopy.finished': 'Kopiering klar'
+    'encyclopedia.templateCopy.finished': 'Kopiering klar',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Skapa universum från mall',
+    'encyclopedia.templateCreateUniverse.description': 'Skapa ett nytt universum med förinställt encyklopediskt innehåll från den här mallen. Ditt universum kommer att förbli opublicerat tills du bestämmer dig för att publicera det.',
+    'encyclopedia.templateCreateUniverse.success': 'Universum skapat framgångsrikt! Omdirigering...'
 };
