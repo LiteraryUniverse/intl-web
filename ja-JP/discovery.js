@@ -79,5 +79,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AIモデル： {model}',
     'discovery.recommendations.storiesTitle': 'おすすめ記事',
     'discovery.recommendations.recommendationsExplained': 'これらのストーリーは、私たちのレコメンデーション・エンジンに基づいて推薦されます。機械学習を利用してストーリーを推薦します。',
-    'discovery.recommendations.recommendationsSettings': '設定で無効にできます。'
+    'discovery.recommendations.recommendationsSettings': '設定で無効にできます。',
+    'discover.search.templateUniverses': 'テンプレートユニバース（コピー可能な百科事典）のみを表示する'
 };
