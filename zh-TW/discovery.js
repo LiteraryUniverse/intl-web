@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AI 機型： {model}',
     'discovery.recommendations.storiesTitle': '推薦故事',
     'discovery.recommendations.recommendationsExplained': '這些故事是根據我們的推薦引擎推薦的。它使用機器學習為您推薦故事。',
-    'discovery.recommendations.recommendationsSettings': '您可以在設定中停用此功能。'
+    'discovery.recommendations.recommendationsSettings': '您可以在設定中停用此功能。',
+    'discover.search.templateUniverses': '只顯示範本宇宙（可複製的百科全書）'
 };
