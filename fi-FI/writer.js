@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Sinun on julkaistava tai aikataulutettava edellisen luvun julkaiseminen ennen tämän luvun julkaisemista.',
     'writer.publish.earlyAccess.title': 'Varhainen pääsy faneille',
-    'writer.publish.earlyAccess.groupLine': '{days} päivää aikaisemmin: {tiers} - fanit pääsevät sisään {date, date, short} osoitteessa {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} päivää aikaisemmin: {tiers} - fanit pääsevät sisään {date, date, short} osoitteessa {date, time}',
+    'writer.initialLetter': 'Alkukappale Kirje'
 };
