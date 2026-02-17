@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Sao chép nội dung bách khoa toàn thư',
     'encyclopedia.templateCopy.description': 'Sao chép nội dung của bách khoa toàn thư này vào vũ trụ của bạn để làm giàu nó.',
     'encyclopedia.templateCopy.targetUniverse': 'Vũ trụ để sao chép đến',
-    'encyclopedia.templateCopy.finished': 'Hoàn thành sao chép'
+    'encyclopedia.templateCopy.finished': 'Hoàn thành sao chép',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Tạo vũ trụ từ mẫu',
+    'encyclopedia.templateCreateUniverse.description': 'Tạo một vũ trụ mới với nội dung bách khoa toàn thư đã được cài đặt sẵn từ mẫu này. Vũ trụ của bạn sẽ vẫn chưa được xuất bản cho đến khi bạn quyết định xuất bản nó.',
+    'encyclopedia.templateCreateUniverse.success': 'Vũ trụ đã được tạo thành công! Đang chuyển hướng...'
 };
