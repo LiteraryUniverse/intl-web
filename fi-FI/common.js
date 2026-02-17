@@ -313,5 +313,6 @@ export default {
     'common.aiContent.custom': 'Mukautettu tekoälymalli',
     'common.characters': 'characters',
     'common.words': 'words',
-    'common.quickSummary': 'Nopea yhteenveto'
+    'common.quickSummary': 'Nopea yhteenveto',
+    'common.creating': 'Luominen...'
 };
