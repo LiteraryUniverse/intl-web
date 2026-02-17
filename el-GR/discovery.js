@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'Μοντέλο AI: {model}',
     'discovery.recommendations.storiesTitle': 'Συνιστώμενες ιστορίες',
     'discovery.recommendations.recommendationsExplained': 'Αυτές οι ιστορίες συνιστώνται με βάση τη μηχανή συστάσεών μας. Η οποία χρησιμοποιεί μηχανική μάθηση για να σας προτείνει ιστορίες.',
-    'discovery.recommendations.recommendationsSettings': 'Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις σας.'
+    'discovery.recommendations.recommendationsSettings': 'Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις σας.',
+    'discover.search.templateUniverses': 'Εμφάνιση μόνο πρότυπων συμπάντων (αντιγράψιμες εγκυκλοπαίδειες)'
 };
