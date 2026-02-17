@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'ଏନ୍ସାଇକ୍ଲୋପିଡ଼ିଆ ବିଷୟବସ୍ତୁ କପି କରନ୍ତୁ',
     'encyclopedia.templateCopy.description': 'ଏହି ଏନ୍ସାଇକ୍ଲୋପିଡ଼ିଆର ବିଷୟବସ୍ତୁଟି ଆପଣଙ୍କର ବିଶ୍ବମାନକୁ କପି କରିପାରିବେ |',
     'encyclopedia.templateCopy.targetUniverse': 'କପି କରିବା ବିଶ୍ବ',
-    'encyclopedia.templateCopy.finished': 'ପ୍ରତିଲେପଣା କିଣ୍ତିଶୁଣ୍ଯ୍ୟାକୁ ଶେଷ ହେଲା'
+    'encyclopedia.templateCopy.finished': 'ପ୍ରତିଲେପଣା କିଣ୍ତିଶୁଣ୍ଯ୍ୟାକୁ ଶେଷ ହେଲା',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
