@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AI modell: {model}',
     'discovery.recommendations.storiesTitle': 'Ajánlott történetek',
     'discovery.recommendations.recommendationsExplained': 'Ezeket a történeteket az ajánlómotorunk alapján ajánljuk. Mely gépi tanulást használ, hogy történeteket ajánljon Önnek.',
-    'discovery.recommendations.recommendationsSettings': 'Ezt letilthatja a beállítások között.'
+    'discovery.recommendations.recommendationsSettings': 'Ezt letilthatja a beállítások között.',
+    'discover.search.templateUniverses': 'Csak sablon univerzumok megjelenítése (másolható enciklopédiák)'
 };
