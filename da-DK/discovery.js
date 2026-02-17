@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AI-model: {model}',
     'discovery.recommendations.storiesTitle': 'Anbefalede historier',
     'discovery.recommendations.recommendationsExplained': 'Disse historier anbefales på baggrund af vores anbefalingsmotor. Den bruger maskinlæring til at anbefale historier til dig.',
-    'discovery.recommendations.recommendationsSettings': 'Du kan slå det fra i dine indstillinger.'
+    'discovery.recommendations.recommendationsSettings': 'Du kan slå det fra i dine indstillinger.',
+    'discover.search.templateUniverses': 'Vis kun skabelonuniverser (kopierbare encyklopædier)'
 };
