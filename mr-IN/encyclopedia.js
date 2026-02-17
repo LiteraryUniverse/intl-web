@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'विश्वसृजन ची सामग्री कॉपी करा',
     'encyclopedia.templateCopy.description': 'तुमच्या विश्वात या विश्वाची सामग्री कॉपी करून त्याची संपूर्ण करा.',
     'encyclopedia.templateCopy.targetUniverse': 'कॉपी करण्यासाठी विश्व',
-    'encyclopedia.templateCopy.finished': 'कॉपी करणे संपले'
+    'encyclopedia.templateCopy.finished': 'कॉपी करणे संपले',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
