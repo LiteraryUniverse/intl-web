@@ -46,6 +46,12 @@ export default {
     'workshop.story.error.toomanygenres': 'ਇੱਕ ਕਹਾਣੀ ਵਿੱਚ ਸਿਰਫ ਦੋ ਜਾਨਰ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।',
     'workshop.story.error.fanfiction.selectuniverse': 'ਅਪਣੇ ਫੈਨ ਫਿਕਸ਼ਨ ਲਈ ਤੁਹਾਨੂੰ ਮੂਲ ਯੂਨੀਵਰਸ ਚੁਣਨੀ ਚਾਹੀਦੀ ਹੈ!',
     'workshop.story.error.tags.toomany': 'ਹਰ ਕਹਾਣੀ ਵਿੱਚ ਸਿਰਫ 10 ਟੈਗ ਹੋ ਸਕਦੇ ਹਨ।',
+    'workshop.thema.primary': 'Thema Primary Classification',
+    'workshop.thema.secondary': 'Thema Secondary Classifications',
+    'workshop.thema.secondary.max': 'You can add up to {max} secondary classifications.',
+    'workshop.thema.selectedCode': 'Code: {code}',
+    'workshop.thema.searchPlaceholder': 'Search by name, e.g. "Science fiction"',
+    'workshop.thema.quickRef': '📖 Thema Quick Reference',
     'workshop.story.new': 'ਇੱਕ ਨਵੀਂ ਕਹਾਣੀ ਬਣਾਓ',
     'workshop.story.publishing.notice': 'ਪਹਿਲੇ ਅਧਿਆਇ ਨੂੰ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਨ ਤੇ ਕਹਾਣੀ ਆਟੋਮੈਟਿਕ ਤੌਰ \'ਤੇ ਪ੍ਰਕਾਸ਼ਿਤ ਕੀਤੀ ਜਾਵੇਗੀ।',
     'workshop.settings.edit': 'ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ',
