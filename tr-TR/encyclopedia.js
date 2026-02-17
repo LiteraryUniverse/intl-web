@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Ansiklopedi içeriğini kopyala',
     'encyclopedia.templateCopy.description': 'Bu ansiklopedinin içeriğini evreninize kopyalayarak zenginleştirin.',
     'encyclopedia.templateCopy.targetUniverse': 'Kopyalanacak evren',
-    'encyclopedia.templateCopy.finished': 'Kopyalama tamamlandı'
+    'encyclopedia.templateCopy.finished': 'Kopyalama tamamlandı',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Şablondan evren oluşturma',
+    'encyclopedia.templateCreateUniverse.description': 'Bu şablondan önceden tohumlanmış ansiklopedi içeriğiyle yeni bir evren oluşturun. Siz yayınlamaya karar verene kadar evreniniz yayınlanmamış olarak kalacaktır.',
+    'encyclopedia.templateCreateUniverse.success': 'Evren başarıyla oluşturuldu! Yönlendiriliyor...'
 };
