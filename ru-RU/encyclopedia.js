@@ -228,5 +228,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Копировать содержимое энциклопедии',
     'encyclopedia.templateCopy.description': 'Скопируйте содержимое этой энциклопедии в свою вселенную, чтобы обогатить её.',
     'encyclopedia.templateCopy.targetUniverse': 'Вселенная для копирования',
-    'encyclopedia.templateCopy.finished': 'Копирование завершено'
+    'encyclopedia.templateCopy.finished': 'Копирование завершено',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Создайте вселенную из шаблона',
+    'encyclopedia.templateCreateUniverse.description': 'Создайте новую вселенную с предварительно загруженным содержимым энциклопедии из этого шаблона. Ваша вселенная будет оставаться неопубликованной до тех пор, пока Вы не решите ее опубликовать.',
+    'encyclopedia.templateCreateUniverse.success': 'Вселенная создана успешно! Перенаправление...'
 };
