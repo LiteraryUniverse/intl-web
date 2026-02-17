@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'Model AI: {model}',
     'discovery.recommendations.storiesTitle': 'Cerita yang direkomendasikan',
     'discovery.recommendations.recommendationsExplained': 'Cerita-cerita ini direkomendasikan berdasarkan mesin rekomendasi kami. Yang menggunakan pembelajaran mesin untuk merekomendasikan cerita untuk Anda.',
-    'discovery.recommendations.recommendationsSettings': 'Anda dapat menonaktifkan ini di Pengaturan Anda.'
+    'discovery.recommendations.recommendationsSettings': 'Anda dapat menonaktifkan ini di Pengaturan Anda.',
+    'discover.search.templateUniverses': 'Tampilkan hanya template semesta (ensiklopedia yang dapat disalin)'
 };
