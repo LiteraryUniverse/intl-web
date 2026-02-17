@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopier encyklopædiindhold',
     'encyclopedia.templateCopy.description': 'Kopier indholdet af denne encyklopædi ind i dit univers for at berige det.',
     'encyclopedia.templateCopy.targetUniverse': 'Univers at kopiere til',
-    'encyclopedia.templateCopy.finished': 'Kopiering afsluttet'
+    'encyclopedia.templateCopy.finished': 'Kopiering afsluttet',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Opret univers fra skabelon',
+    'encyclopedia.templateCreateUniverse.description': 'Opret et nyt univers med forudinstalleret encyklopædiindhold fra denne skabelon. Dit univers forbliver upubliceret, indtil du beslutter dig for at publicere det.',
+    'encyclopedia.templateCreateUniverse.success': 'Universet er oprettet med succes! Omdirigering...'
 };
