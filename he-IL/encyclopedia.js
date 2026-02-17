@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'העתקת תוכן האנציקלופדיה',
     'encyclopedia.templateCopy.description': 'העתקת תוכן של אנציקלופדיה זו ליקומך כדי להעשיר אותו.',
     'encyclopedia.templateCopy.targetUniverse': 'יקום להעתיק אליו',
-    'encyclopedia.templateCopy.finished': 'העתקה הושלמה'
+    'encyclopedia.templateCopy.finished': 'העתקה הושלמה',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'צור יקום מתבנית',
+    'encyclopedia.templateCreateUniverse.description': 'צרו יקום חדש עם תוכן אנציקלופדי מוכן מראש מתוך תבנית זו. היקום שלכם יישאר בלתי פורסם עד שתחליטו לפרסם אותו.',
+    'encyclopedia.templateCreateUniverse.success': 'היקום נוצר בהצלחה! מפנה...'
 };
