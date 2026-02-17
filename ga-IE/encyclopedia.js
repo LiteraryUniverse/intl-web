@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Cóipeáil ábhar an einciclopaidéara',
     'encyclopedia.templateCopy.description': 'Cóipeáil ábhar an einciclopaidéara seo isteach i do shaolra chun é a shaibhriú.',
     'encyclopedia.templateCopy.targetUniverse': 'Saolra le cóipeáil chuig',
-    'encyclopedia.templateCopy.finished': 'Críochnaithe cóipeáil'
+    'encyclopedia.templateCopy.finished': 'Críochnaithe cóipeáil',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
