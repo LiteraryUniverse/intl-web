@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'Model AI: {model}',
     'discovery.recommendations.storiesTitle': 'Povestiri recomandate',
     'discovery.recommendations.recommendationsExplained': 'Aceste povestiri sunt recomandate pe baza motorului nostru de recomandări. Care utilizează învățarea automată pentru a vă recomanda povești.',
-    'discovery.recommendations.recommendationsSettings': 'Puteți dezactiva acest lucru în setările dvs.'
+    'discovery.recommendations.recommendationsSettings': 'Puteți dezactiva acest lucru în setările dvs.',
+    'discover.search.templateUniverses': 'Afișați numai universuri șablon (enciclopedii copiabile)'
 };
