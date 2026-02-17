@@ -89,5 +89,6 @@ export default {
     'discovery.aiContent.indicator.model': 'Model AI: {model}',
     'discovery.recommendations.storiesTitle': 'Doporučené příběhy',
     'discovery.recommendations.recommendationsExplained': 'Tyto příběhy jsou doporučovány na základě našich doporučení. Ten využívá strojové učení k doporučování příběhů.',
-    'discovery.recommendations.recommendationsSettings': 'Tuto funkci můžete zakázat ve svém nastavení.'
+    'discovery.recommendations.recommendationsSettings': 'Tuto funkci můžete zakázat ve svém nastavení.',
+    'discover.search.templateUniverses': 'Zobrazit pouze šablony vesmírů (kopírovatelné encyklopedie)'
 };
