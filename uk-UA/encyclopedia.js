@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Скопіювати вміст енциклопедії',
     'encyclopedia.templateCopy.description': 'Скопіюйте вміст цієї енциклопедії до вашого всесвіту, щоб збагатити його.',
     'encyclopedia.templateCopy.targetUniverse': 'Всесвіт для копіювання',
-    'encyclopedia.templateCopy.finished': 'Копіювання завершено'
+    'encyclopedia.templateCopy.finished': 'Копіювання завершено',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Створіть всесвіт з шаблону',
+    'encyclopedia.templateCreateUniverse.description': 'Створіть новий всесвіт з попередньо завантаженим вмістом енциклопедії з цього шаблону. Ваш всесвіт залишатиметься неопублікованим, доки ви не вирішите його опублікувати.',
+    'encyclopedia.templateCreateUniverse.success': 'Всесвіт створено успішно! Перенаправлення...'
 };
