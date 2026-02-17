@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'se kopygau lo vrici be lo ckini vrici',
     'encyclopedia.templateCopy.description': 'se kopygau lo se du\'u le nunpe\'i be ti cu se pilno lo nu do se banro lo ckini vrici',
     'encyclopedia.templateCopy.targetUniverse': 'ckini vrici be lo se du\'u ri cu se kopygau',
-    'encyclopedia.templateCopy.finished': 'Kopiranje klāstu'
+    'encyclopedia.templateCopy.finished': 'Kopiranje klāstu',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
