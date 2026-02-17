@@ -235,5 +235,8 @@ export default {
   'encyclopedia.templateCopy.description':
     'Copy content of this encyclopedia into your universe to enrich it.',
   'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to',
-  'encyclopedia.templateCopy.finished': 'Copying finished'
+  'encyclopedia.templateCopy.finished': 'Copying finished',
+  'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+  'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+  'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...',
 }
