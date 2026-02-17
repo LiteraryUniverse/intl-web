@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'المزيد من خيارات الحفظ',
     'writer.publish.schedulePrevious': 'تحتاج إلى نشر أو جدولة نشر الفصل السابق قبل أن تتمكن من نشر هذا الفصل.',
     'writer.publish.earlyAccess.title': 'الوصول المبكر للجماهير',
-    'writer.publish.earlyAccess.groupLine': '{days} أيام مبكرًا: {tiers} - يمكن للمعجبين الدخول على {date, date, short} ~ على {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} أيام مبكرًا: {tiers} - يمكن للمعجبين الدخول على {date, date, short} ~ على {date, time}',
+    'writer.initialLetter': 'خطاب الفقرة الاستهلالية'
 };
