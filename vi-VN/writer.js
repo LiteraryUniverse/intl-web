@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Trải nghiệm sớm dành cho fan',
-    'writer.publish.earlyAccess.groupLine': '{days} Đăng ký sớm: {tiers} — Người hâm mộ có thể truy cập tại {date, date, short} tại {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} Đăng ký sớm: {tiers} — Người hâm mộ có thể truy cập tại {date, date, short} tại {date, time}',
+    'writer.initialLetter': 'Đoạn đầu tiên của thư'
 };
