@@ -89,5 +89,6 @@ export default {
     'discovery.aiContent.indicator.model': 'Модель AI: {model}',
     'discovery.recommendations.storiesTitle': 'Рекомендуемые истории',
     'discovery.recommendations.recommendationsExplained': 'Эти истории рекомендуются на основе нашей системы рекомендаций. Она использует машинное обучение, чтобы рекомендовать Вам истории.',
-    'discovery.recommendations.recommendationsSettings': 'Вы можете отключить это в Ваших настройках.'
+    'discovery.recommendations.recommendationsSettings': 'Вы можете отключить это в Ваших настройках.',
+    'discover.search.templateUniverses': 'Показывайте только шаблонные вселенные (копируемые энциклопедии)'
 };
