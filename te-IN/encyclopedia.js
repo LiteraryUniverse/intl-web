@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'ఎన్సైక్లోపీడియా కంటెంట్ ను కాపీ చేయండి',
     'encyclopedia.templateCopy.description': 'మీ యూనివర్సులో ఈ ఎన్సైక్లోపీడియా కంటెంట్ ను కాపీ చేయడం ద్వారా దానిని పుష్టించండి.',
     'encyclopedia.templateCopy.targetUniverse': 'కాపీ చేయడానికి యూనివర్సు',
-    'encyclopedia.templateCopy.finished': 'నకలు ముగింపు చేయబడింది'
+    'encyclopedia.templateCopy.finished': 'నకలు ముగింపు చేయబడింది',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
