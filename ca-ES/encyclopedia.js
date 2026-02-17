@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Copia el contingut de l\'enciclopèdia',
     'encyclopedia.templateCopy.description': 'Copia el contingut d\'aquesta enciclopèdia al teu univers per enriquir-lo.',
     'encyclopedia.templateCopy.targetUniverse': 'Univers on copiar',
-    'encyclopedia.templateCopy.finished': 'Còpia finalitzada'
+    'encyclopedia.templateCopy.finished': 'Còpia finalitzada',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
