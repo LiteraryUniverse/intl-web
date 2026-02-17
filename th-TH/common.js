@@ -313,5 +313,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.characters': 'characters',
     'common.words': 'words',
-    'common.quickSummary': 'สรุปอย่างรวดเร็ว'
+    'common.quickSummary': 'สรุปอย่างรวดเร็ว',
+    'common.creating': 'กำลังสร้าง...'
 };
