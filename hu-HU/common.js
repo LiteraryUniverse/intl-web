@@ -313,5 +313,6 @@ export default {
     'common.aiContent.custom': 'Egyedi AI modell',
     'common.characters': 'characters',
     'common.words': 'words',
-    'common.quickSummary': 'Gyors összefoglaló'
+    'common.quickSummary': 'Gyors összefoglaló',
+    'common.creating': 'Létrehozása...'
 };
