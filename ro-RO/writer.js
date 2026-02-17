@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Trebuie să publicați sau să programați publicarea capitolului anterior înainte de a-l putea publica pe acesta.',
     'writer.publish.earlyAccess.title': 'Acces timpuriu pentru fani',
-    'writer.publish.earlyAccess.groupLine': '{days} zile mai devreme: {tiers} - fanii au acces pe {date, date, short} la {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} zile mai devreme: {tiers} - fanii au acces pe {date, date, short} la {date, time}',
+    'writer.initialLetter': 'Scrisoarea paragrafului inițial'
 };
