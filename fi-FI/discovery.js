@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AI-malli: {model}',
     'discovery.recommendations.storiesTitle': 'Suositellut tarinat',
     'discovery.recommendations.recommendationsExplained': 'Näitä tarinoita suositellaan suosituskoneemme perusteella. Se käyttää koneoppimista suositellakseen tarinoita sinulle.',
-    'discovery.recommendations.recommendationsSettings': 'Voit poistaa tämän käytöstä asetuksissasi.'
+    'discovery.recommendations.recommendationsSettings': 'Voit poistaa tämän käytöstä asetuksissasi.',
+    'discover.search.templateUniverses': 'Näytä vain malliuniversumit (kopioitavissa olevat tietosanakirjat).'
 };
