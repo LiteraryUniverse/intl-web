@@ -70,4 +70,5 @@ export default {
   'writer.publish.earlyAccess.title': 'Early access for fans',
   'writer.publish.earlyAccess.groupLine':
     '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}',
+  'writer.initialLetter': 'Initial Paragraph Letter',
 }
