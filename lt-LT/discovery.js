@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AI modelis: {model}',
     'discovery.recommendations.storiesTitle': 'Rekomenduojamos istorijos',
     'discovery.recommendations.recommendationsExplained': 'Šios istorijos rekomenduojamos remiantis mūsų rekomendacijų sistema. Ji naudoja mašininį mokymąsi, kad rekomenduotų jums istorijas.',
-    'discovery.recommendations.recommendationsSettings': 'Šią funkciją galite išjungti savo nustatymuose.'
+    'discovery.recommendations.recommendationsSettings': 'Šią funkciją galite išjungti savo nustatymuose.',
+    'discover.search.templateUniverses': 'Rodyti tik šablonines visatas (kopijuojamas enciklopedijas)'
 };
