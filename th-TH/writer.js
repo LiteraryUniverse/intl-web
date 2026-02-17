@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'การเข้าถึงล่วงหน้าสำหรับแฟน ๆ',
-    'writer.publish.earlyAccess.groupLine': '{days} ล่วงหน้าหลายวัน: {tiers} — แฟนๆ เข้าถึงได้ก่อน {date, date, short} ที่ {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} ล่วงหน้าหลายวัน: {tiers} — แฟนๆ เข้าถึงได้ก่อน {date, date, short} ที่ {date, time}',
+    'writer.initialLetter': 'จดหมายย่อหน้าแรก เรียน ท่านผู้มีเกียรติ ข้าพเจ้าขอแสดงความนับถือเป็นอย่าง'
 };
