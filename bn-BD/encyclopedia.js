@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'বিশ্বের বিষয়বস্তু কপি করুন',
     'encyclopedia.templateCopy.description': 'এই বিশ্বের বিষয়বস্তুটি আপনার বিশ্বে কপি করে তা সমৃদ্ধ করুন।',
     'encyclopedia.templateCopy.targetUniverse': 'কপি করার জন্য বিশ্ব',
-    'encyclopedia.templateCopy.finished': 'অনুলিপি সম্পন্ন হয়েছে'
+    'encyclopedia.templateCopy.finished': 'অনুলিপি সম্পন্ন হয়েছে',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };
