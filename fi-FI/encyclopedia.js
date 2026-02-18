@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopioi tietosanakirjan sisältö',
     'encyclopedia.templateCopy.description': 'Kopioi tämän tietosanakirjan sisältö omaan maailmaasi rikastuttaaksesi sitä.',
     'encyclopedia.templateCopy.targetUniverse': 'Kohdemaailma kopioimiseen',
-    'encyclopedia.templateCopy.finished': 'Kopiointi valmis'
+    'encyclopedia.templateCopy.finished': 'Kopiointi valmis',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Luo universumi mallista',
+    'encyclopedia.templateCreateUniverse.description': 'Luo uusi maailmankaikkeus, jossa on valmiiksi kylvetty tietosanakirjan sisältö tästä mallista. Universumi pysyy julkaisemattomana, kunnes päätät julkaista sen.',
+    'encyclopedia.templateCreateUniverse.success': 'Maailmankaikkeus luotu onnistuneesti! Uudelleenohjaus...'
 };

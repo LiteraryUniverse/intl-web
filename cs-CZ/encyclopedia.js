@@ -225,5 +225,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopírovat obsah encyklopedie',
     'encyclopedia.templateCopy.description': 'Zkopírujte obsah této encyklopedie do svého vesmíru, aby jste ho obohatili.',
     'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do kterého se má zkopírovat',
-    'encyclopedia.templateCopy.finished': 'Kopírování dokončeno'
+    'encyclopedia.templateCopy.finished': 'Kopírování dokončeno',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Vytvoření vesmíru ze šablony',
+    'encyclopedia.templateCreateUniverse.description': 'Vytvoření nového vesmíru s přednastaveným obsahem encyklopedie z této šablony. Váš vesmír zůstane nezveřejněný, dokud se nerozhodnete jej zveřejnit.',
+    'encyclopedia.templateCreateUniverse.success': 'Vesmír úspěšně vytvořen! Přesměrování...'
 };

@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Вам потрібно опублікувати або запланувати публікацію попереднього розділу, перш ніж ви зможете опублікувати цей.',
     'writer.publish.earlyAccess.title': 'Ранній доступ для шанувальників',
-    'writer.publish.earlyAccess.groupLine': '{days} на кілька днів раніше: {tiers} - вболівальники отримують доступ на {date, date, short} за адресою {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} на кілька днів раніше: {tiers} - вболівальники отримують доступ на {date, date, short} за адресою {date, time}',
+    'writer.initialLetter': 'Початковий абзац листа'
 };

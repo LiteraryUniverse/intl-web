@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'Další možnosti uložení',
     'writer.publish.schedulePrevious': 'Před zveřejněním této kapitoly je třeba zveřejnit nebo naplánovat zveřejnění předchozích kapitol.',
     'writer.publish.earlyAccess.title': 'Předčasný přístup pro fanoušky',
-    'writer.publish.earlyAccess.groupLine': '{days} o několik dní dříve: {tiers} - fanoušci získají přístup na {date, date, short} na {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} o několik dní dříve: {tiers} - fanoušci získají přístup na {date, date, short} na {date, time}',
+    'writer.initialLetter': 'Úvodní odstavec Dopis'
 };

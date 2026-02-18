@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'AI Modell: {model}',
     'discovery.recommendations.storiesTitle': 'Rekommenderade berättelser',
     'discovery.recommendations.recommendationsExplained': 'Dessa berättelser rekommenderas baserat på vår rekommendationsmotor. Den använder maskininlärning för att rekommendera berättelser åt dig.',
-    'discovery.recommendations.recommendationsSettings': 'Du kan inaktivera detta i dina inställningar.'
+    'discovery.recommendations.recommendationsSettings': 'Du kan inaktivera detta i dina inställningar.',
+    'discover.search.templateUniverses': 'Visa endast malluniversum (kopierbara encyklopedier)'
 };

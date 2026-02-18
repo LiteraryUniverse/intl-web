@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'विज्ञानकोश सामग्री प्रतिलिपि गर्नुहोस्',
     'encyclopedia.templateCopy.description': 'यस विज्ञानकोशको सामग्रीलाई तपाईंको ब्रह्माण्डमा प्रतिलिपि गर्नुहोस् र यसले तपाईंको ब्रह्माण्डलाई धनी गर्दैछ।',
     'encyclopedia.templateCopy.targetUniverse': 'प्रतिलिपि गर्ने ब्रह्माण्ड',
-    'encyclopedia.templateCopy.finished': 'प्रतिलिपि अद्यावधिक गरियो'
+    'encyclopedia.templateCopy.finished': 'प्रतिलिपि अद्यावधिक गरियो',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

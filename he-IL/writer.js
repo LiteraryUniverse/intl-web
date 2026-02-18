@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'גישה מוקדמת למעריצים',
-    'writer.publish.earlyAccess.groupLine': '{days} ימים מוקדם יותר: {tiers} — המעריצים מקבלים גישה ב- {date, date, short} ב- {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} ימים מוקדם יותר: {tiers} — המעריצים מקבלים גישה ב- {date, date, short} ב- {date, time}',
+    'writer.initialLetter': 'מכתב פתיחה'
 };

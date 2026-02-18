@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'ចម្លងមាតិការបន្ថែមពីវិគីភីឌានេះ',
     'encyclopedia.templateCopy.description': 'ចម្លងមាតិការរបស់វិគីភីឌានេះទៅក្នុងជំនាន់របស់អ្នកដើម្បីបន្ថែមសម្រាប់វា។',
     'encyclopedia.templateCopy.targetUniverse': 'ជំនាន់ទីដែលចម្លងទៅ',
-    'encyclopedia.templateCopy.finished': 'ការចម្លងបានបញ្ចប់'
+    'encyclopedia.templateCopy.finished': 'ការចម្លងបានបញ្ចប់',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

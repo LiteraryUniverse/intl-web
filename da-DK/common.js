@@ -312,5 +312,7 @@ export default {
     'common.aiContent.model': 'AI-model: {model}',
     'common.aiContent.custom': 'Brugerdefineret AI-model',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Hurtigt overblik',
+    'common.creating': 'At skabe...'
 };

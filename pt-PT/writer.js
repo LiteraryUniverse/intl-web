@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Tem de publicar ou programar a publicação do capítulo anterior antes de poder publicar este.',
     'writer.publish.earlyAccess.title': 'Acesso antecipado para os fãs',
-    'writer.publish.earlyAccess.groupLine': '{days} dias antes: {tiers} - os fãs têm acesso em {date, date, short} em {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} dias antes: {tiers} - os fãs têm acesso em {date, date, short} em {date, time}',
+    'writer.initialLetter': 'Carta de parágrafo inicial'
 };

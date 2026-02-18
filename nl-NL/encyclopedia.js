@@ -222,5 +222,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopieer encyclopedie inhoud',
     'encyclopedia.templateCopy.description': 'Kopieer de inhoud van deze encyclopedie naar jouw universum om het te verrijken.',
     'encyclopedia.templateCopy.targetUniverse': 'Universum om naar te kopiëren',
-    'encyclopedia.templateCopy.finished': 'Kopiëren voltooid'
+    'encyclopedia.templateCopy.finished': 'Kopiëren voltooid',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Universum maken van sjabloon',
+    'encyclopedia.templateCreateUniverse.description': 'Creëer een nieuw universum met reeds geplaatste encyclopedie-inhoud van deze sjabloon. Uw universum blijft ongepubliceerd totdat u besluit het te publiceren.',
+    'encyclopedia.templateCreateUniverse.success': 'Universum succesvol aangemaakt! Omleiden...'
 };

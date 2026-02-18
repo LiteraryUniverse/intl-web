@@ -312,5 +312,7 @@ export default {
     'common.aiContent.model': 'AIモデル： {model}',
     'common.aiContent.custom': 'カスタムAIモデル',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': '簡単なまとめ',
+    'common.creating': '創造...'
 };

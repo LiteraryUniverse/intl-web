@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Nukopijuoti enciklopedijos turinį',
     'encyclopedia.templateCopy.description': 'Nukopijuokite šios enciklopedijos turinį į savo visatą, kad ją papildytumėte.',
     'encyclopedia.templateCopy.targetUniverse': 'Visata, į kurią kopijuoti',
-    'encyclopedia.templateCopy.finished': 'Kopijavimas baigtas'
+    'encyclopedia.templateCopy.finished': 'Kopijavimas baigtas',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Sukurti visatą iš šablono',
+    'encyclopedia.templateCreateUniverse.description': 'Sukurkite naują visatą su iš anksto įkeltu enciklopedijos turiniu iš šio šablono. Jūsų visata liks nepaskelbta, kol nuspręsite ją paskelbti.',
+    'encyclopedia.templateCreateUniverse.success': 'Visata sukurta sėkmingai! Peradresavimas...'
 };

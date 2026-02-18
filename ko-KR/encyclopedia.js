@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': '백과 내용 복사',
     'encyclopedia.templateCopy.description': '이 백과의 내용을 복사하여 당신의 우주를 풍부하게 만드세요.',
     'encyclopedia.templateCopy.targetUniverse': '복사할 우주',
-    'encyclopedia.templateCopy.finished': '복사 완료'
+    'encyclopedia.templateCopy.finished': '복사 완료',
+    'encyclopedia.templateCreateUniverse.modalTitle': '템플릿에서 유니버스 만들기',
+    'encyclopedia.templateCreateUniverse.description': '이 템플릿에서 미리 시드된 백과사전 콘텐츠로 새 유니버스를 만듭니다. 유니버스 콘텐츠는 게시를 결정할 때까지 게시되지 않은 상태로 유지됩니다.',
+    'encyclopedia.templateCreateUniverse.success': '유니버스 생성 성공! 리디렉션...'
 };

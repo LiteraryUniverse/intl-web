@@ -312,5 +312,7 @@ export default {
     'common.aiContent.model': 'AI Modeli: {model}',
     'common.aiContent.custom': 'Özel yapay zeka modeli',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Hızlı Özet',
+    'common.creating': 'Yaratmak...'
 };

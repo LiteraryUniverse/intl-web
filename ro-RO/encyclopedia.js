@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Copiază conținutul enciclopediei',
     'encyclopedia.templateCopy.description': 'Copiază conținutul acestei enciclopedii în universul tău pentru a-l îmbogăți.',
     'encyclopedia.templateCopy.targetUniverse': 'Univers în care să se facă copierea',
-    'encyclopedia.templateCopy.finished': 'Copierea s-a încheiat'
+    'encyclopedia.templateCopy.finished': 'Copierea s-a încheiat',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Crearea universului din șablon',
+    'encyclopedia.templateCreateUniverse.description': 'Creați un univers nou cu conținut enciclopedic preînsămânțat din acest șablon. Universul dvs. va rămâne nepublicat până când decideți să îl publicați.',
+    'encyclopedia.templateCreateUniverse.success': 'Univers creat cu succes! Redirecționare...'
 };

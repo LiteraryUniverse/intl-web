@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopii enhavon de la enciklopedio',
     'encyclopedia.templateCopy.description': 'Kopii enhavon de ĉi tiu enciklopedio en vian universon por ĝin riĉigi.',
     'encyclopedia.templateCopy.targetUniverse': 'Universo al kiu kopii',
-    'encyclopedia.templateCopy.finished': 'Kopii finiĝis'
+    'encyclopedia.templateCopy.finished': 'Kopii finiĝis',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

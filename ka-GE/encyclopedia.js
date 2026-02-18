@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'ენციკლოპედიის შინაარსის კოპირება',
     'encyclopedia.templateCopy.description': 'კოპირების შინაარსის ამ ენციკლოპედიის ფარგლებში განაახლეთ თქვენი უნივერსი.',
     'encyclopedia.templateCopy.targetUniverse': 'უნივერსუმი, რომლის ფარგლებში განაახლეთ',
-    'encyclopedia.templateCopy.finished': 'კოპირება დასრულებულია'
+    'encyclopedia.templateCopy.finished': 'კოპირება დასრულებულია',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

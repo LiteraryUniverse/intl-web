@@ -312,5 +312,7 @@ export default {
     'common.aiContent.model': 'AI-malli: {model}',
     'common.aiContent.custom': 'Mukautettu tekoälymalli',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Nopea yhteenveto',
+    'common.creating': 'Luominen...'
 };

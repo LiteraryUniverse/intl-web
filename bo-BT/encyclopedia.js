@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་བརྗོད་པ།',
     'encyclopedia.templateCopy.description': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བརྗོད་པ།',
     'encyclopedia.templateCopy.targetUniverse': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་ལས་འགན་བྱེད་པ།',
-    'encyclopedia.templateCopy.finished': 'ཚེག་གི་བསྐྱར་འཇུག་བཀོད་པའི་འཛུལ་སྤྱོད་བསྐུལ།'
+    'encyclopedia.templateCopy.finished': 'ཚེག་གི་བསྐྱར་འཇུག་བཀོད་པའི་འཛུལ་སྤྱོད་བསྐུལ།',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

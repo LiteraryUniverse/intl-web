@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Kopier encyklopediinnhold',
     'encyclopedia.templateCopy.description': 'Kopier innholdet i denne encyklopedien til ditt univers for å berike det.',
     'encyclopedia.templateCopy.targetUniverse': 'Univers å kopiere til',
-    'encyclopedia.templateCopy.finished': 'Kopiering fullført'
+    'encyclopedia.templateCopy.finished': 'Kopiering fullført',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

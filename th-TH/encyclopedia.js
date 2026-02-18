@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'คัดลอกเนื้อหาสารานุกรม',
     'encyclopedia.templateCopy.description': 'คัดลอกเนื้อหาของสารานุกรมนี้ไปยังจักรวาลของคุณเพื่อเพิ่มความสมบูรณ์',
     'encyclopedia.templateCopy.targetUniverse': 'จักรวาลที่จะคัดลอกไปยัง',
-    'encyclopedia.templateCopy.finished': 'การคัดลอกเสร็จสิ้น'
+    'encyclopedia.templateCopy.finished': 'การคัดลอกเสร็จสิ้น',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'สร้างจักรวาลจากแม่แบบ',
+    'encyclopedia.templateCreateUniverse.description': 'สร้างจักรวาลใหม่ด้วยเนื้อหาสารานุกรมที่เตรียมไว้ล่วงหน้าจากเทมเพลตนี้ จักรวาลของคุณจะไม่ถูกเผยแพร่จนกว่าคุณจะตัดสินใจเผยแพร่',
+    'encyclopedia.templateCreateUniverse.success': 'จักรวาลถูกสร้างขึ้นสำเร็จแล้ว! กำลังเปลี่ยนเส้นทาง...'
 };

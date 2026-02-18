@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'એન્સાયક્લોપીડિયાની સામગ્રી કૉપિ કરો',
     'encyclopedia.templateCopy.description': 'આ એન્સાયક્લોપીડિયાની સામગ્રીને તમારા યુનિવર્સમાં કૉપિ કરો અને તેને વધારો આપો.',
     'encyclopedia.templateCopy.targetUniverse': 'કૉપિ કરવા માટેનું યુનિવર્સ',
-    'encyclopedia.templateCopy.finished': 'કોપીંગ પૂર્ણ થઈ ગઈ'
+    'encyclopedia.templateCopy.finished': 'કોપીંગ પૂર્ણ થઈ ગઈ',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

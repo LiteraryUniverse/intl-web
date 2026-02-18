@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Enne selle peatüki avaldamist peate avaldama või kavandama eelmise peatüki avaldamist.',
     'writer.publish.earlyAccess.title': 'Varajane juurdepääs fännidele',
-    'writer.publish.earlyAccess.groupLine': '{days} päeva varem: {tiers} - fännid pääsevad sisse {date, date, short} aadressil {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} päeva varem: {tiers} - fännid pääsevad sisse {date, date, short} aadressil {date, time}',
+    'writer.initialLetter': 'Esialgse lõigu kiri'
 };

@@ -81,5 +81,6 @@ export default {
     'discovery.aiContent.indicator.model': 'Modello AI: {model}',
     'discovery.recommendations.storiesTitle': 'Storie consigliate',
     'discovery.recommendations.recommendationsExplained': 'Queste storie sono consigliate in base al nostro motore di raccomandazioni. Che utilizza l\'apprendimento automatico per raccomandare le storie per lei.',
-    'discovery.recommendations.recommendationsSettings': 'Può disattivare questa funzione nelle Sue impostazioni.'
+    'discovery.recommendations.recommendationsSettings': 'Può disattivare questa funzione nelle Sue impostazioni.',
+    'discover.search.templateUniverses': 'Mostra solo universi modello (enciclopedie copiabili)'
 };

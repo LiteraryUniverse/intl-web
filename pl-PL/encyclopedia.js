@@ -227,5 +227,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Skopiuj zawartość encyklopedii',
     'encyclopedia.templateCopy.description': 'Skopiuj zawartość tej encyklopedii do swojego wszechświata, aby go wzbogacić.',
     'encyclopedia.templateCopy.targetUniverse': 'Wszechświat, do którego ma zostać skopiowana zawartość',
-    'encyclopedia.templateCopy.finished': 'Kopiowanie zakończone'
+    'encyclopedia.templateCopy.finished': 'Kopiowanie zakończone',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Tworzenie wszechświata z szablonu',
+    'encyclopedia.templateCreateUniverse.description': 'Proszę utworzyć nowy wszechświat ze wstępnie zasianą zawartością encyklopedii z tego szablonu. Państwa wszechświat pozostanie nieopublikowany, dopóki nie zdecydują się Państwo go opublikować.',
+    'encyclopedia.templateCreateUniverse.success': 'Wszechświat utworzony pomyślnie! Przekierowanie...'
 };

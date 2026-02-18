@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'ეს ისტორია არ არის ხელმისაწვდომი Literary Universe-ზე, მაგრამ შეგიძლიათ მისი შესატყვისი ადგილის მიღება სხვა ადგილებიდან.',
     'reader.storyTBC.heading': 'გაგრძელება...',
     'reader.storyTBC.description': 'ეს ყველაფრია, რაც გვაქვს ისტორიაზე დაარსებული, მაგრამ დეტალები და განაგრძობა მოგვიანებისთვის მოგეძებნეთ მოგვიანების გვერდზე.',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'გადაამოწმეთ კიდევ ერთხელ!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'შემდეგი თავისუფალი',

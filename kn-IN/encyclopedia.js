@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ನಕಲಿಸಿ',
     'encyclopedia.templateCopy.description': 'ಈ ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾದ ವಿಷಯವನ್ನು ನಿಮ್ಮ ಬ್ರಹ್ಮಾಂಡಕ್ಕೆ ನಕಲಿಸಿ ಅದನ್ನು ಸಮೃದ್ಧಿಪಡಿಸಿ.',
     'encyclopedia.templateCopy.targetUniverse': 'ನಕಲಿಸಬೇಕಾದ ಬ್ರಹ್ಮಾಂಡ',
-    'encyclopedia.templateCopy.finished': 'ನಕಲಿ ಮುಗಿಯಿತು'
+    'encyclopedia.templateCopy.finished': 'ನಕಲಿ ಮುಗಿಯಿತು',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...'
 };

@@ -312,5 +312,7 @@ export default {
     'common.aiContent.model': 'AI 모델: {model}',
     'common.aiContent.custom': '맞춤형 AI 모델',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': '빠른 요약',
+    'common.creating': '만들기...'
 };

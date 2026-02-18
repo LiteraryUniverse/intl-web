@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'نسخ محتوى الموسوعة',
     'encyclopedia.templateCopy.description': 'انسخ محتوى هذه الموسوعة إلى كونك لإثراءه.',
     'encyclopedia.templateCopy.targetUniverse': 'الكون المستهدف للنسخ إليه',
-    'encyclopedia.templateCopy.finished': 'انتهاء عملية النسخ'
+    'encyclopedia.templateCopy.finished': 'انتهاء عملية النسخ',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'إنشاء عالم من القالب',
+    'encyclopedia.templateCreateUniverse.description': 'أنشئ كونًا جديدًا بمحتوى موسوعة مُعد مسبقًا من هذا القالب. سيبقى كونك غير منشور حتى تقرر نشره.',
+    'encyclopedia.templateCreateUniverse.success': 'تم إنشاء الكون بنجاح! إعادة توجيه...'
 };

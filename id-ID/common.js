@@ -312,5 +312,7 @@ export default {
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Model AI khusus',
     'common.characters': 'characters',
-    'common.words': 'words'
+    'common.words': 'words',
+    'common.quickSummary': 'Ringkasan Singkat',
+    'common.creating': 'Menciptakan...'
 };

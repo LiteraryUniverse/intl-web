@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'この物語はLieterary Universeでは入手できませんが、他の場所で手に入れることは可能です。',
     'reader.storyTBC.heading': '次回につづく',
     'reader.storyTBC.description': '私たちが用意できるこの物語はここまでですが、アドベンチャーは今後も続きますので追ってご確認ください。',
+    'reader.storyPreview.heading': 'プレビュー完了',
+    'reader.storyPreview.description': 'あなたは今、プレビューを終えたところです。続きはまだありませんが、以下の場所でご覧いただけます。',
     'chapter.translation.notYetDescription': 'またすぐにチェックしてください。',
     'reader.externalShopping.heading': '他の場所で {storyName}：',
     'chapter.next': '次の章',

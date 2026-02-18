@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Denna historia finns inte tillgänglig på Literary Universe, men du kan hitta den på andra platser.',
     'reader.storyTBC.heading': 'Fortsättning följer...',
     'reader.storyTBC.description': 'Detta är allt vi har för historien hittills, men äventyret kommer att fortsätta i framtiden, kom tillbaka snart!',
+    'reader.storyPreview.heading': 'Förhandsgranskning slutförd',
+    'reader.storyPreview.description': 'Du har just avslutat förhandsgranskningen. Vi har inte resten av berättelsen här ännu, men du kan fortsätta den på platserna nedan.',
     'chapter.translation.notYetDescription': 'Kom tillbaka snart igen!',
     'reader.externalShopping.heading': 'Hämta {storyName} på andra ställen:',
     'chapter.next': 'Nästa kapitel',

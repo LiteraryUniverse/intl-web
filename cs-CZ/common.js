@@ -312,5 +312,7 @@ export default {
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Vlastní model AI',
     'common.characters': 'znaky',
-    'common.words': 'slova'
+    'common.words': 'slova',
+    'common.quickSummary': 'Rychlé shrnutí',
+    'common.creating': 'Vytvoření...'
 };

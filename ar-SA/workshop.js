@@ -46,6 +46,12 @@ export default {
     'workshop.story.error.toomanygenres': 'يُسمح فقط بنوعين من الأنواع لكل قصة.',
     'workshop.story.error.fanfiction.selectuniverse': 'يجب عليك اختيار عالم أصلي لقصتك المشجعة!',
     'workshop.story.error.tags.toomany': 'يمكنك فقط إضافة 10 علامات لكل قصة.',
+    'workshop.thema.primary': 'التصنيف الابتدائي',
+    'workshop.thema.secondary': 'التصنيفات الثانوية',
+    'workshop.thema.secondary.max': 'يمكنك إضافة ما يصل إلى {max} التصنيفات الثانوية.',
+    'workshop.thema.selectedCode': 'الرمز: {code}',
+    'workshop.thema.searchPlaceholder': 'البحث بالاسم، على سبيل المثال "خيال علمي"',
+    'workshop.thema.quickRef': '📖 مرجع سريع للموضوعات',
     'workshop.story.new': 'إنشاء قصة جديدة',
     'workshop.story.publishing.notice': 'سيتم نشر القصة تلقائيًا عند نشر الفصل الأول.',
     'workshop.settings.edit': 'تعديل الإعدادات',
@@ -55,6 +61,29 @@ export default {
     'workshop.settings.genres': 'الأنواع (حد أقصى 2)',
     'workshop.story.license': 'ترخيص القصة',
     'workshop.story.settings.universe': 'إعدادات العالم',
+    'workshop.story.dangerZone': 'منطقة الخطر',
+    'workshop.story.dangerZone.desc': 'تؤثر هذه الإجراءات على كيفية تنظيم قصتك عبر الأكوان. تابع بحذر.',
+    'workshop.story.universe.assign.missing': 'يُرجى تحديد عالم للمتابعة.',
+    'workshop.story.universe.assignTitle': 'إنشاء عالم أو تعيين عالم',
+    'workshop.story.universe.assign.desc': 'اربط هذه القصة بعالم موجود، أو قم بإنشاء عالم جديد تمامًا باستخدام تفاصيل القصة.',
+    'workshop.story.universe.assign.mode': 'خيار الكون',
+    'workshop.story.universe.assign.existing': 'التعيين إلى عالم موجود',
+    'workshop.story.universe.assign.create': 'إنشاء عالم جديد من هذه القصة',
+    'workshop.story.universe.assign.loading': 'تحميل الأكوان الخاصة بك...',
+    'workshop.story.universe.assign.select': 'اختر الكون',
+    'workshop.story.universe.assign.placeholder': 'اختر عالماً',
+    'workshop.story.universe.assign.none': 'ليس لديك أي أكوان حتى الآن. قم بإنشاء واحد جديد للمتابعة.',
+    'workshop.story.universe.assign.publishNote': 'تم نشر هذه القصة بالفعل، لذا سيتم نشر الكون الجديد أيضاً.',
+    'workshop.story.universe.assign.createBtn': 'إنشاء الكون',
+    'workshop.story.universe.assign.trigger': 'إنشاء عالم أو تعيين عالم',
+    'workshop.story.universe.standalone.title': 'اجعل القصة مستقلة بذاتها',
+    'workshop.story.universe.standalone.heading': 'نقل هذه القصة من عالمها؟',
+    'workshop.story.universe.standalone.desc': 'ستتم إزالة هذه القصة من الكون وإدراجها كقصة مستقلة.',
+    'workshop.story.universe.standalone.current': 'الكون الحالي: {title}',
+    'workshop.story.universe.standalone.warning1': 'لن يرى القراء الذين يتصفحون الكون هذه القصة مدرجة هناك بعد الآن.',
+    'workshop.story.universe.standalone.warning2': 'قد تتوقف الروابط الحالية التي تشير إلى النسخة الكونية من هذه القصة عن العمل.',
+    'workshop.story.universe.standalone.warning3': 'يمكنك إرفاق القصة بعالم مرة أخرى لاحقًا من إعدادات القصة.',
+    'workshop.story.universe.standalone.trigger': 'اجعل القصة مستقلة بذاتها',
     'workshop.settings.tags': 'العلامات',
     'workshop.revision': 'المراجعة',
     'workshop.revisions.title': '{story}: {chapter} المراجعات',
@@ -234,6 +263,17 @@ export default {
     'workshop.work.includesAds': 'هل هناك أي إعلانات أو إشهارات للمنتجات في العمل؟',
     'workshop.universe.forumSettings': 'إعدادات منتدى الكون الداخلي',
     'workshop.ratingAdjusted': 'نظرًا للشكاوى التي تلقيناها ، اضطررنا لضبط تقييمك إلى تقييم نراه مناسبًا. وبناءً على ذلك ، تم تعطيل تغيير التقييم الآن.',
+    'workshop.rating.disabled.sexualContent': 'التصنيف مقفل على صريح (21+) لأنك اخترت محتوى جنسي في تحذيرات المحتوى.',
+    'workshop.contentWarnings.title': 'تحذيرات المحتوى',
+    'workshop.contentWarnings.description': 'حدد تحذيرات المحتوى القابلة للتطبيق لإعلام القراء بالمحتوى الذي يحتمل أن يكون حساسًا',
+    'workshop.contentWarnings.graphicViolence': 'العنف البياني',
+    'workshop.contentWarnings.graphicViolence.description': 'الأوصاف التفصيلية لأعمال العنف، بما في ذلك على سبيل المثال لا الحصر الإيذاء الجسدي أو سفك الدماء أو التشويه أو أي تصوير صريح آخر للعنف يمكن اعتباره مزعجًا أو مصورًا بشكل مفرط.',
+    'workshop.contentWarnings.profanity': 'الألفاظ النابية',
+    'workshop.contentWarnings.profanity.description': 'السباب والشتائم البذيئة أو الفاحشة.',
+    'workshop.contentWarnings.sensitiveContent': 'المحتوى الحساس',
+    'workshop.contentWarnings.sensitiveContent.description': 'أوصاف التعذيب أو العبودية أو تعاطي المخدرات أو الأمراض العقلية أو الإدمان أو ذكر الاغتصاب أو إيذاء النفس أو أي محتوى آخر قد يعتبر صادماً أو ناضجاً لا يندرج تحت علامات التحذير. لا يتم تمجيد هذا المحتوى.',
+    'workshop.contentWarnings.sexualContent': 'المحتوى الجنسي',
+    'workshop.contentWarnings.sexualContent.description': 'محتوى جنسي صريح (نص فقط)، مشاهد جنسية وصفية. سيؤدي هذا تلقائيًا إلى تعيين التصنيف إلى صريح (21+).',
     'workshop.selectCollaborator': 'اختر شريكًا مشاركًا',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
     'workshop.chapterStatus.draft': 'مسودة',

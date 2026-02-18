@@ -62,5 +62,6 @@ export default {
     'writer.publish.moreOptions': 'More save options',
     'writer.publish.schedulePrevious': 'Prieš skelbdami ankstesnį skyrių, turite paskelbti arba suplanuoti ankstesnio skyriaus paskelbimą.',
     'writer.publish.earlyAccess.title': 'Ankstyva prieiga gerbėjams',
-    'writer.publish.earlyAccess.groupLine': '{days} dienomis anksčiau: {tiers} - gerbėjai gauna prieigą {date, date, short} adresu {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days} dienomis anksčiau: {tiers} - gerbėjai gauna prieigą {date, date, short} adresu {date, time}',
+    'writer.initialLetter': 'Pradinės pastraipos laiškas'
 };

@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Ez a történet nem elérhető a Literary Universe-ben, de beszerezheted más helyeken.',
     'reader.storyTBC.heading': 'Folytatás következik...',
     'reader.storyTBC.description': 'Ez mind, amink van a történetből eddig, de az kaland a jövőben folytatódni fog, térj vissza hamarosan!',
+    'reader.storyPreview.heading': 'Előnézet teljes',
+    'reader.storyPreview.description': 'Most fejezte be az előnézetet. A történet további része itt még nincs meg, de az alábbi helyeken folytatható.',
     'chapter.translation.notYetDescription': 'Nézz vissza újra hamarosan!',
     'reader.externalShopping.heading': 'Szerezd meg a {storyName} más helyeken:',
     'chapter.next': 'Következő fejezet',

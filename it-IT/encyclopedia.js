@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Copia il contenuto dell\'enciclopedia',
     'encyclopedia.templateCopy.description': 'Copia il contenuto di questa enciclopedia nel tuo universo per arricchirlo.',
     'encyclopedia.templateCopy.targetUniverse': 'Universo di destinazione',
-    'encyclopedia.templateCopy.finished': 'Copia completata'
+    'encyclopedia.templateCopy.finished': 'Copia completata',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Creare l\'universo dal modello',
+    'encyclopedia.templateCreateUniverse.description': 'Crei un nuovo universo con i contenuti dell\'enciclopedia pre-seminati da questo modello. Il suo universo rimarrà non pubblicato finché non deciderà di pubblicarlo.',
+    'encyclopedia.templateCreateUniverse.success': 'Universo creato con successo! Reindirizzare...'
 };

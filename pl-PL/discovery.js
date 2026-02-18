@@ -87,5 +87,6 @@ export default {
     'discovery.aiContent.indicator.model': 'Model AI: {model}',
     'discovery.recommendations.storiesTitle': 'Polecane historie',
     'discovery.recommendations.recommendationsExplained': 'Te historie są polecane na podstawie naszego silnika rekomendacji. Wykorzystuje on uczenie maszynowe, aby polecać Państwu historie.',
-    'discovery.recommendations.recommendationsSettings': 'Można to wyłączyć w ustawieniach.'
+    'discovery.recommendations.recommendationsSettings': 'Można to wyłączyć w ustawieniach.',
+    'discover.search.templateUniverses': 'Pokazuje tylko szablony wszechświatów (encyklopedie z możliwością kopiowania)'
 };

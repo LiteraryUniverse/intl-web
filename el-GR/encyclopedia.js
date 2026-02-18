@@ -223,5 +223,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': 'Αντιγραφή περιεχομένου εγκυκλοπαίδειας',
     'encyclopedia.templateCopy.description': 'Αντιγράψτε το περιεχόμενο αυτής της εγκυκλοπαίδειας στο σύμπαν σας για να το εμπλουτίσετε.',
     'encyclopedia.templateCopy.targetUniverse': 'Σύμπαν για αντιγραφή',
-    'encyclopedia.templateCopy.finished': 'Ολοκληρώθηκε η αντιγραφή'
+    'encyclopedia.templateCopy.finished': 'Ολοκληρώθηκε η αντιγραφή',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'Δημιουργία σύμπαντος από πρότυπο',
+    'encyclopedia.templateCreateUniverse.description': 'Δημιουργήστε ένα νέο σύμπαν με περιεχόμενο εγκυκλοπαίδειας με προ-σπορά από αυτό το πρότυπο. Το σύμπαν σας θα παραμείνει αδημοσίευτο μέχρι να αποφασίσετε να το δημοσιεύσετε.',
+    'encyclopedia.templateCreateUniverse.success': 'Το σύμπαν δημιουργήθηκε με επιτυχία! Αναπροσανατολισμός...'
 };

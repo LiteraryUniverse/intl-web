@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'ఈ కథ లిటరరీ యూనివర్స్‌లో అందుబాటులో లేదు, కానీ మీరు ఇతర ప్రదేశాలలో పొందవచ్చు.',
     'reader.storyTBC.heading': 'కొనసాగించబడదు...',
     'reader.storyTBC.description': 'ఇప్పటికే మాకు ఈ కథకు ఇది అందుబాటులో ఉంది, కానీ మీరు ముందుగా మార్పు ప్రయాణం పొందవచ్చు, తక్కువ సమయం పరిశీలించండి!',
+    'reader.storyPreview.heading': 'Preview complete',
+    'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
     'chapter.translation.notYetDescription': 'తరువాత మళ్లీ తనిఖీ చేయండి!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'తదుపరి అధ్యాయం',

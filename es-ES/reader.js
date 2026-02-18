@@ -5,6 +5,8 @@ export default {
     'reader.externalSale.description': 'Esta historia no está disponible en Literary Universe, pero puedes encontrarla en otros sitios.',
     'reader.storyTBC.heading': 'Continuará...',
     'reader.storyTBC.description': 'Esto es lo que tenemos de esta historia, pero la historia continuará en el futuro, ¡vuelve pronto!',
+    'reader.storyPreview.heading': 'Vista previa completa',
+    'reader.storyPreview.description': 'Acaba de terminar el avance. Aún no tenemos aquí el resto de la historia, pero puede continuarla en los lugares indicados a continuación.',
     'chapter.translation.notYetDescription': '¡Vuelve pronto!',
     'reader.externalShopping.heading': 'Consiga {storyName} en otros lugares:',
     'chapter.next': 'Capítulo siguiente',

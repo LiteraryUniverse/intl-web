@@ -220,5 +220,8 @@ export default {
     'encyclopedia.templateCopy.modalTitle': '百科事典の内容をコピーする',
     'encyclopedia.templateCopy.description': 'この百科事典の内容をあなたの宇宙にコピーして豊かにします。',
     'encyclopedia.templateCopy.targetUniverse': 'コピー先の宇宙',
-    'encyclopedia.templateCopy.finished': 'コピーが完了しました'
+    'encyclopedia.templateCopy.finished': 'コピーが完了しました',
+    'encyclopedia.templateCreateUniverse.modalTitle': 'テンプレートからユニバースを作成',
+    'encyclopedia.templateCreateUniverse.description': 'このテンプレートから、シード済みの百科事典コンテンツを使って新しいユニバースを作成します。あなたが公開すると決めるまで、あなたの宇宙は未公開のままです。',
+    'encyclopedia.templateCreateUniverse.success': 'ユニバースは正常に作成されました！リダイレクト...'
 };
