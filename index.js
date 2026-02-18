@@ -7,7 +7,7 @@ import {
   loadSignupMessages,
   loadTheWayMessages,
   loadToursMessages,
-} from './isolatedLoaders'
+} from './isolatedLoaders.ts'
 
 export {
   loadComparisonsMessages,
