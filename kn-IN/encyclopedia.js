@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾಗೆ ಹೊಸ ಪ್ರವೇಶ ಸೇರಿಸಿ',
     'encyclopedia.add.heading': 'ನೀವು ಏನು ಸೇರಿಸಲು ಬಯಸುವಿರಿ?',
     'encyclopedia.add.moresoon': 'ಹೆಚ್ಚಿನ ವರ್ಗಗಳು ಬರುತ್ತಿವೆ!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
