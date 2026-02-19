@@ -52,24 +52,24 @@ export default {
     'encyclopedia.add.title': 'Lisa uus kirje entsüklopeediasse',
     'encyclopedia.add.heading': 'Mida soovid lisada?',
     'encyclopedia.add.moresoon': 'Rohkem kategooriaid tulekul!',
-    'encyclopedia.create': `Loo uus {category, select,
-    character {tegelane}
-    event {sündmus}
-    group {rühm}
-    item {ese}
-    location {asukoht}
-    other {märkus}
-    state {riik}
-    governments {valitsus}
-    languages {keel}
-    creatures {olend}
-    deity {jumalus}
-    religions {religioon}
-    flora {taimestik}
-    magic {maagia}
-    planets {planeet}
-    species {liik}
-    technologies {tehnoloogia}
+    'encyclopedia.create': `Create new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
     families {perekond}
     jobs {töö}
     lore {pärimus}
