@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Cuir iontráil nua leis an eolaire',
     'encyclopedia.add.heading': 'Cad ba mhaith leat a chur leis?',
     'encyclopedia.add.moresoon': 'Tuilleadh catagóirí ag teacht go luath!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
