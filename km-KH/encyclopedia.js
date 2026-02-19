@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'បន្ថែមធាតុថ្មីទៅក្នុងសៀវភៅបណ្ដាញ',
     'encyclopedia.add.heading': 'តើអ្នកចង់បន្ថែមអ្វីទេ?',
     'encyclopedia.add.moresoon': 'នូវប្រភេទផ្សេងទៀតនឹងមកដល់ឆាប់រហ័ស។',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
