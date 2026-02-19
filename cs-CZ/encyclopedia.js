@@ -53,41 +53,41 @@ export default {
     'encyclopedia.add.title': 'Přidat nový záznam do encyklopedie',
     'encyclopedia.add.heading': 'Co chcete přidat?',
     'encyclopedia.add.moresoon': 'Více kategorií již brzy!',
-    'encyclopedia.create': `Vytvořit nový {category, select,
-    character {postava}
-    event {událost}
-    group {skupina}
-    item {předmět}
-    location {místo}
-    other {poznámka}
-    state {stát}
-    governments {vláda}
-    languages {jazyk}
-    creatures {tvor}
-    deity {božstvo}
-    religions {náboženství}
-    flora {flóra}
-    magic {magie}
-    planets {planeta}
-    species {druh}
-    technologies {technologie}
-    families {rodina}
-    jobs {zaměstnání}
-    lore {pověsti}
-    vehicles {vozidlo}
-    diseases {nemoc}
-    traditions {tradice}
-    food {jídlo}
-    sports {sport}
-    landmarks {památka}
-    buildings {budova}
-    schools {škola}
-    continents {kontinent}
-    villages {vesnice}
-    towns {města}
-    cities {města}
-    settlements {osada}
-    countries {země}
+    'encyclopedia.create': `Vytvořit nov{category, select,
+    character {ou postavu}
+    event {ou událost}
+    group {ou skupinu}
+    item {ý předmět}
+    location {é místo}
+    other {ou poznámku}
+    state {ý stát}
+    governments {ou vládu}
+    languages {ý jazyk}
+    creatures {ého tvora}
+    deity {é božstvo}
+    religions {é náboženství}
+    flora {ou flóru}
+    magic {ou magii}
+    planets {ou planetu}
+    species {ý druh}
+    technologies {ou technologii}
+    families {ou rodinu}
+    jobs {é zaměstnání}
+    lore {ou pověst}
+    vehicles {é vozidlo}
+    diseases {ou nemoc}
+    traditions {ou tradici}
+    food {é jídlo}
+    sports {ý sport}
+    landmarks {ou památku}
+    buildings {ou budovu}
+    schools {ou školu}
+    continents {ý kontinent}
+    villages {ou vesnice}
+    towns {é městečko}
+    cities {é město}
+    settlements {ou osadu}
+    countries {ou zemi}
   }`,
     'encyclopedia.create.header': `Vytvoření nového {category, select,
     character {postava}
