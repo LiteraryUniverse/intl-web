@@ -54,7 +54,7 @@ export default {
   'encyclopedia.add.title': 'Add a new entry to encyclopedia',
   'encyclopedia.add.heading': 'What do you wish to add?',
   'encyclopedia.add.moresoon': 'More categories coming soon!',
-  'encyclopedia.create': `Create a new {category, select,
+  'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
