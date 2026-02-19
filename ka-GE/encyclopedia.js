@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'დაამატეთ ახალი ჩანაწერი ენციკლოპედიაში',
     'encyclopedia.add.heading': 'რას გსურთ დაამატოთ?',
     'encyclopedia.add.moresoon': 'მეტი კატეგორიები მომავალში!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
