@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Voeg \'n nuwe inskrywing by die ensiklopedie',
     'encyclopedia.add.heading': 'Wat wil jy byvoeg?',
     'encyclopedia.add.moresoon': 'Meer kategorieë binnekort beskikbaar!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
