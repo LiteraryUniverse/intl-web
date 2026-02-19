@@ -59,8 +59,8 @@ export default {
     item {פריט}
     location {מיקום}
     other {הערה}
-    state {מצב}
-    governments {ממשל}
+    state {מדינה}
+    governments {ממשלה}
     languages {שפה}
     creatures {יצור}
     deity {אלוהות}
