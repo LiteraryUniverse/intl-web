@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Aldoni novan eniron al la enciklopedio',
     'encyclopedia.add.heading': 'Kion vi deziras aldoni?',
     'encyclopedia.add.moresoon': 'Pliaj kategorioj venos baldaŭ!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
