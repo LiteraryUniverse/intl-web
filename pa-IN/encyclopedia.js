@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'ਜਣਾਕਾਰੀ ਵਿੱਚ ਇੱਕ ਨਵਾਂ ਇੰਟਰੀ ਸ਼ਾਮਲ ਕਰੋ',
     'encyclopedia.add.heading': 'ਤੁਸੀਂ ਕੀ ਸ਼ਾਮਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?',
     'encyclopedia.add.moresoon': 'ਹੋਰ ਕੈਟੇਗਰੀਆਂ ਜਲਦ ਹੀ ਆ ਰਹੀਆਂ ਹਨ!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}
