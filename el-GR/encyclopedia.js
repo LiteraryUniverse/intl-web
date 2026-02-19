@@ -52,24 +52,24 @@ export default {
     'encyclopedia.add.title': 'Προσθέστε μια νέα καταχώριση στην εγκυκλοπαίδεια',
     'encyclopedia.add.heading': 'Τι θέλετε να προσθέσετε;',
     'encyclopedia.add.moresoon': 'Περισσότερες κατηγορίες έρχονται σύντομα!',
-    'encyclopedia.create': `Δημιουργήστε ένα νέο {category, select,
-    character {χαρακτήρα}
-    event {γεγονός}
-    group {ομάδα}
-    item {αντικείμενο}
-    location {τοποθεσία}
-    other {σημείωση}
-    state {κράτος}
-    governments {κυβέρνηση}
-    languages {γλώσσα}
-    creatures {πλάσμα}
-    deity {θεότητα}
-    religions {θρησκεία}
-    flora {χλωρίδα}
-    magic {μαγεία}
-    planets {πλανήτης}
-    species {είδος}
-    technologies {τεχνολογία}
+    'encyclopedia.create': `Create new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
     families {family}
     jobs {job}
     lore {lore}
