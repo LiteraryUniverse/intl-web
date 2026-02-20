@@ -70,4 +70,11 @@ export default {
   'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
   'stats.averageReadingTime': 'Average reading time',
   'stats.averageReadingTime.description': 'Average time per reader',
+  'stats.readingHabits.title': 'Reader habits by week',
+  'stats.readingHabits.sessions': 'Reading sessions',
+  'stats.readingHabits.averageSession': 'Average session',
+  'stats.readingHabits.peakDay': 'Most active day',
+  'stats.readingHabits.peakHour': 'Most active hour',
+  'stats.readingHabits.profileSummary':
+    'Reading in last {weeks, number} weeks: {sessions, number} sessions, {duration} total, most active on {day} around {hour}.',
 }
