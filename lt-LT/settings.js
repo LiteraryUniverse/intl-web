@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Žanrai, kurių reikia vengti',
     'settings.notifications': 'Pranešimai ir naujienlaiškiai',
     'settings.kindleEmail': 'Jūsų "Kindle" el. paštas',
-    'settings.kindleEmail.explained': 'Jei turite šį nustatymą, jei įmanoma, pasiūlysime jums galimybę siųsti istorijas į "Kindle" vienu spustelėjimu. Savo "Kindle" el. pašto adresą galite rasti "Amazon" nustatymuose, skiltyje Turinys ir įrenginiai -> Įrenginiai -> pasirinkite savo "Kindle", kad peržiūrėtumėte jo duomenis, ir ten rasite nurodytą el. pašto adresą.'
+    'settings.kindleEmail.explained': 'Jei turite šį nustatymą, jei įmanoma, pasiūlysime jums galimybę siųsti istorijas į "Kindle" vienu spustelėjimu. Savo "Kindle" el. pašto adresą galite rasti "Amazon" nustatymuose, skiltyje Turinys ir įrenginiai -> Įrenginiai -> pasirinkite savo "Kindle", kad peržiūrėtumėte jo duomenis, ir ten rasite nurodytą el. pašto adresą.',
+    'settings.tracking.title': 'Stebėjimas ir statistika',
+    'settings.tracking.description': 'Stebėkite savo skaitymo ir rašymo laiką, kad gautumėte išsamią statistiką apie savo skaitymo įpročius ir rašymo pažangą. Šią statistiką galite peržiūrėti savo bibliotekoje ir dirbtuvėse.',
+    'settings.tracking.reading.title': 'Skaitymo laikas',
+    'settings.tracking.reading.description': 'Stebėkite laiką, praleistą skaitant istorijas ir skyrius. Šie duomenys padeda suprasti jūsų skaitymo įpročius ir yra anonimiškai perduodami istorijų autoriams, kad jie sužinotų, kaip skaitytojai yra įsitraukę į jų kūrinius.',
+    'settings.tracking.writing.title': 'Rašymo laikas',
+    'settings.tracking.writing.description': 'Stebėkite laiką, sugaištą rašant istorijas, skyrius ir enciklopedijos įrašus. Tai apima išsamius rodiklius, tokius kaip spausdinimo veikla, žodžių skaičius ir dienos laiko modeliai.',
+    'settings.tracking.trackWritingTime': 'Stebėti rašymo laiką',
+    'settings.tracking.trackReadingTime': 'Stebėti skaitymo laiką'
 };
