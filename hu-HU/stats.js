@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Teljes olvasási idő',
     'stats.totalReadingTime.description': 'Az összes olvasó által a történetre fordított összesített idő',
     'stats.averageReadingTime': 'Átlagos olvasási idő',
-    'stats.averageReadingTime.description': 'Átlagos idő olvasónként'
+    'stats.averageReadingTime.description': 'Átlagos idő olvasónként',
+    'stats.readingHabits.title': 'Olvasói szokások hetente',
+    'stats.readingHabits.sessions': 'Olvasóülések',
+    'stats.readingHabits.averageSession': 'Átlagos munkamenet',
+    'stats.readingHabits.peakDay': 'Legaktívabb nap',
+    'stats.readingHabits.peakHour': 'Legaktívabb óra',
+    'stats.readingHabits.profileSummary': 'Olvasás az elmúlt {weeks, number} hetekben: {sessions, number} {duration} összesen, a legaktívabb a {day} oldalon {hour} körül.'
 };
