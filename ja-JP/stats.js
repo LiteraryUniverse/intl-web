@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': '章の統計',
     'stats.readers.title': '読者について',
     'stats.gender.title': '性別',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': '一覧表',
     'stats.view.pie': '円グラフ表示',
     'stats.view.bar': '棒グラフ表示',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'トップ・エイジ・グループ',
     'workshop.theWay.overallStats.genres': 'あなたのジャンル',
     'stats.title': '{name} - 統計',
-    'stats.totalCharacters': '総文字数'
+    'stats.totalCharacters': '総文字数',
+    'stats.totalReadingTime': '合計読書時間',
+    'stats.totalReadingTime.description': 'すべての読者がこの記事に費やした時間の合計',
+    'stats.averageReadingTime': '平均読書時間',
+    'stats.averageReadingTime.description': '読者1人当たりの平均所要時間'
 };
