@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Kaçınılması gereken türler',
     'settings.notifications': 'Bildirimler & Haber Bültenleri',
     'settings.kindleEmail': 'Kindle e-postanız',
-    'settings.kindleEmail.explained': 'Bu ayara sahipseniz, mümkün olan yerlerde size tek bir tıklamayla Kindle\'ınıza öykü gönderme seçeneği sunacağız. Kindle e-posta adresinizi Amazon ayarlarınızda İçerik ve Cihazlar -> Cihazlar -> ayrıntılarını görüntülemek için Kindle\'ınızı seçin altında bulabilirsiniz ve orada listelenen e-postayı bulacaksınız.'
+    'settings.kindleEmail.explained': 'Bu ayara sahipseniz, mümkün olan yerlerde size tek bir tıklamayla Kindle\'ınıza öykü gönderme seçeneği sunacağız. Kindle e-posta adresinizi Amazon ayarlarınızda İçerik ve Cihazlar -> Cihazlar -> ayrıntılarını görüntülemek için Kindle\'ınızı seçin altında bulabilirsiniz ve orada listelenen e-postayı bulacaksınız.',
+    'settings.tracking.title': 'İzleme ve İstatistikler',
+    'settings.tracking.description': 'Okuma alışkanlıklarınız ve yazma ilerlemeniz hakkında ayrıntılı istatistikler elde etmek için okuma ve yazma sürenizi takip edin. Bu istatistikleri kütüphanenizde ve atölyenizde görüntüleyebilirsiniz.',
+    'settings.tracking.reading.title': 'Okuma Süresi',
+    'settings.tracking.reading.description': 'Hikayeleri ve bölümleri okumak için harcanan zamanı takip edin. Bu veriler okuma alışkanlıklarınızı anlamanıza yardımcı olur ve okuyucuların çalışmalarıyla ne kadar ilgili olduklarını göstermek için hikaye yazarlarıyla anonim olarak paylaşılır.',
+    'settings.tracking.writing.title': 'Yazma Süresi',
+    'settings.tracking.writing.description': 'Hikayeler, bölümler ve ansiklopedi girişleri yazmak için harcanan zamanı takip edin. Bu, yazma etkinliği, kelime sayıları ve günün saati kalıpları gibi ayrıntılı ölçümleri içerir.',
+    'settings.tracking.trackWritingTime': 'Yazma süresini takip edin',
+    'settings.tracking.trackReadingTime': 'Okuma süresini takip edin'
 };

@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Magdagdag ng bagong entry sa ensiklopedya',
     'encyclopedia.add.heading': 'Ano ang nais mong idagdag?',
     'encyclopedia.add.moresoon': 'Mas maraming mga kategorya ang darating sa lalong madaling panahon!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}

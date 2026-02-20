@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'סטטיסטיקות לפי פרק',
     'stats.readers.title': 'על הקוראים שלך',
     'stats.gender.title': 'מגדר',
+    'stats.gender': '{gender, select, male {זכר} female {נקבה} unknown {לא ידוע} other {לא ידוע}}',
     'stats.view.table': 'תצוגת טבלה',
     'stats.view.pie': 'תצוגת תרשים עוגה',
     'stats.view.bar': 'תצוגת תרשים עמודות',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - סטטיסטיקה',
-    'stats.totalCharacters': 'סה"כ תווים'
+    'stats.totalCharacters': 'סה"כ תווים',
+    'stats.totalReadingTime': 'זמן קריאה כולל',
+    'stats.totalReadingTime.description': 'הזמן הכולל שהקוראים השקיעו בסיפור זה',
+    'stats.averageReadingTime': 'זמן קריאה ממוצע',
+    'stats.averageReadingTime.description': 'זמן ממוצע לקורא'
 };

@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Kapitelstatistikker',
     'stats.readers.title': 'Om dine læsere',
     'stats.gender.title': 'Køn',
+    'stats.gender': '{gender, select, male {Mand} female {Kvinde} unknown {Ukendt} other {Ukendt}}',
     'stats.view.table': 'Tabelvisning',
     'stats.view.pie': 'Kremsnitvisning',
     'stats.view.bar': 'Søjlediagramvisning',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Bedste aldersgruppe',
     'workshop.theWay.overallStats.genres': 'Dine genrer',
     'stats.title': '{name} - Statistik',
-    'stats.totalCharacters': 'Tegn i alt'
+    'stats.totalCharacters': 'Tegn i alt',
+    'stats.totalReadingTime': 'Samlet læsetid',
+    'stats.totalReadingTime.description': 'Kombineret tid, som alle læsere har brugt på denne historie',
+    'stats.averageReadingTime': 'Gennemsnitlig læsetid',
+    'stats.averageReadingTime.description': 'Gennemsnitlig tid pr. læser'
 };

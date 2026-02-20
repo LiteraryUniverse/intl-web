@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': '챕터 통계',
     'stats.readers.title': '독자에 대해',
     'stats.gender.title': '성별',
+    'stats.gender': '{gender, select, male {남성} female {여성} unknown {알 수 없음} other {알 수 없음}}',
     'stats.view.table': '테이블 보기',
     'stats.view.pie': '파이 차트 보기',
     'stats.view.bar': '막대 차트 보기',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': '상위 연령대',
     'workshop.theWay.overallStats.genres': '장르',
     'stats.title': '{name} - 통계',
-    'stats.totalCharacters': '총 문자 수'
+    'stats.totalCharacters': '총 문자 수',
+    'stats.totalReadingTime': '총 읽기 시간',
+    'stats.totalReadingTime.description': '모든 독자가 이 기사에 소비한 시간 합산',
+    'stats.averageReadingTime': '평균 읽기 시간',
+    'stats.averageReadingTime.description': '독자당 평균 시간'
 };

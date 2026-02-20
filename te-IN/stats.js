@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'అధ్యాయ గణాంకాలు',
     'stats.readers.title': 'మీ చదువుకునే వారి గురించి',
     'stats.gender.title': 'జెండర్',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'పట్టిక వీక్షణ',
     'stats.view.pie': 'పై చార్ట్ వీక్షణ',
     'stats.view.bar': 'బార్ చార్ట్ వీక్షణ',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };

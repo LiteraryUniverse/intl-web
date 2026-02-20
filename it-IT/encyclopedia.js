@@ -52,12 +52,12 @@ export default {
     'encyclopedia.add.title': 'Aggiungi una nuova voce all\'enciclopedia',
     'encyclopedia.add.heading': 'Cosa vuoi aggiungere?',
     'encyclopedia.add.moresoon': 'Più categorie in arrivo!',
-    'encyclopedia.create': `Creare un nuovo {category, select,
+    'encyclopedia.create': `Crea nuovo {category, select,
     character {personaggio}
     event {evento}
     group {gruppo}
     item {oggetto}
-    location {luogo}
+    location {località}
     other {nota}
     state {stato}
     governments {governo}

@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genres to avoid',
     'settings.notifications': 'Thông báo & bản tin',
     'settings.kindleEmail': 'Địa chỉ email Kindle của bạn',
-    'settings.kindleEmail.explained': 'Nếu bạn đã có bộ sản phẩm này, chúng tôi sẽ cung cấp cho bạn tùy chọn gửi truyện đến Kindle của bạn chỉ với một cú nhấp chuột. Bạn có thể tìm địa chỉ email Kindle của mình trong cài đặt Amazon, tại mục Nội dung & Thiết bị -> Thiết bị -> chọn Kindle của bạn để xem chi tiết và địa chỉ email sẽ được liệt kê tại đó.'
+    'settings.kindleEmail.explained': 'Nếu bạn đã có bộ sản phẩm này, chúng tôi sẽ cung cấp cho bạn tùy chọn gửi truyện đến Kindle của bạn chỉ với một cú nhấp chuột. Bạn có thể tìm địa chỉ email Kindle của mình trong cài đặt Amazon, tại mục Nội dung & Thiết bị -> Thiết bị -> chọn Kindle của bạn để xem chi tiết và địa chỉ email sẽ được liệt kê tại đó.',
+    'settings.tracking.title': 'Theo dõi & Thống kê',
+    'settings.tracking.description': 'Theo dõi thời gian đọc và viết của bạn để nhận được thống kê chi tiết về thói quen đọc và tiến độ viết của bạn. Bạn có thể xem các thống kê này trong thư viện và phòng làm việc của mình.',
+    'settings.tracking.reading.title': 'Thời gian đọc',
+    'settings.tracking.reading.description': 'Theo dõi thời gian bạn dành để đọc các câu chuyện và chương. Dữ liệu này giúp bạn hiểu rõ thói quen đọc sách của mình và được chia sẻ ẩn danh với tác giả của các câu chuyện để cho họ biết mức độ tương tác của độc giả với tác phẩm của họ.',
+    'settings.tracking.writing.title': 'Thời gian viết',
+    'settings.tracking.writing.description': 'Theo dõi thời gian dành cho việc viết truyện, chương và mục từ bách khoa toàn thư. Điều này bao gồm các chỉ số chi tiết như hoạt động gõ phím, số từ và mô hình thời gian trong ngày.',
+    'settings.tracking.trackWritingTime': 'Theo dõi thời gian viết',
+    'settings.tracking.trackReadingTime': 'Theo dõi thời gian đọc'
 };

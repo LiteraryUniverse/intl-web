@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'নতুন এন্ট্রি যোগ করুন এনসাইক্লোপিডিয়ায়',
     'encyclopedia.add.heading': 'আপনি কী যোগ করতে চান?',
     'encyclopedia.add.moresoon': 'আসছে আরও ক্যাটাগরি!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}

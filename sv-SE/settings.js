@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genrer att undvika',
     'settings.notifications': 'Meddelanden & nyhetsbrev',
     'settings.kindleEmail': 'Din e-post till Kindle',
-    'settings.kindleEmail.explained': 'Om du har ställt in detta kommer vi om möjligt att erbjuda dig möjligheten att skicka berättelser till din Kindle med ett klick. Du kan hitta din Kindle-e-postadress i dina Amazon-inställningar under Innehåll & enheter -> Enheter -> välj din Kindle för att visa dess detaljer och där hittar du e-postadressen listad.'
+    'settings.kindleEmail.explained': 'Om du har ställt in detta kommer vi om möjligt att erbjuda dig möjligheten att skicka berättelser till din Kindle med ett klick. Du kan hitta din Kindle-e-postadress i dina Amazon-inställningar under Innehåll & enheter -> Enheter -> välj din Kindle för att visa dess detaljer och där hittar du e-postadressen listad.',
+    'settings.tracking.title': 'Spårning och statistik',
+    'settings.tracking.description': 'Spåra din läs- och skrivtid för att få detaljerad statistik över dina läsvanor och skrivframsteg. Du kan se denna statistik i ditt bibliotek och din verkstad.',
+    'settings.tracking.reading.title': 'Läsningstid',
+    'settings.tracking.reading.description': 'Spåra tid som spenderas på att läsa berättelser och kapitel. Dessa uppgifter hjälper dig att förstå dina läsvanor och delas anonymt med författare till berättelser för att visa dem hur engagerade läsarna är i deras arbete.',
+    'settings.tracking.writing.title': 'Tid för skrivande',
+    'settings.tracking.writing.description': 'Spåra tidsåtgången för att skriva berättelser, kapitel och encyklopediposter. Detta inkluderar detaljerade mätvärden som skrivaktivitet, antal ord och mönster för tid på dagen.',
+    'settings.tracking.trackWritingTime': 'Spåra skrivtid',
+    'settings.tracking.trackReadingTime': 'Spåra lästiden'
 };

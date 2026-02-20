@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': '피해야 할 장르',
     'settings.notifications': '알림 및 뉴스레터',
     'settings.kindleEmail': 'Kindle 이메일',
-    'settings.kindleEmail.explained': '이 설정이 있는 경우 가능한 경우 클릭 한 번으로 스토리를 Kindle로 보낼 수 있는 옵션을 제공합니다. Amazon 설정의 콘텐츠 및 디바이스 -> 디바이스에서 Kindle을 선택하여 세부 정보를 확인하면 해당 이메일 주소를 찾을 수 있습니다.'
+    'settings.kindleEmail.explained': '이 설정이 있는 경우 가능한 경우 클릭 한 번으로 스토리를 Kindle로 보낼 수 있는 옵션을 제공합니다. Amazon 설정의 콘텐츠 및 디바이스 -> 디바이스에서 Kindle을 선택하여 세부 정보를 확인하면 해당 이메일 주소를 찾을 수 있습니다.',
+    'settings.tracking.title': '추적 및 통계',
+    'settings.tracking.description': '읽기 및 쓰기 시간을 추적하여 읽기 습관과 쓰기 진행 상황에 대한 자세한 통계를 확인하세요. 라이브러리와 워크샵에서 이러한 통계를 볼 수 있습니다.',
+    'settings.tracking.reading.title': '읽기 시간',
+    'settings.tracking.reading.description': '스토리 및 챕터를 읽는 데 소요된 시간을 추적합니다. 이 데이터는 사용자의 독서 습관을 이해하는 데 도움이 되며, 스토리 작성자와 익명으로 공유되어 독자가 얼마나 작품에 몰입하고 있는지 보여 줍니다.',
+    'settings.tracking.writing.title': '쓰기 시간',
+    'settings.tracking.writing.description': '스토리, 챕터, 백과사전 항목 작성에 소요된 시간을 추적하세요. 여기에는 타이핑 활동, 단어 수, 시간대별 패턴과 같은 세부 메트릭이 포함됩니다.',
+    'settings.tracking.trackWritingTime': '쓰기 시간 추적',
+    'settings.tracking.trackReadingTime': '읽기 시간 추적'
 };

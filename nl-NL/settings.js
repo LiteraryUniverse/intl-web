@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genres die u moet vermijden',
     'settings.notifications': 'Meldingen & nieuwsbrieven',
     'settings.kindleEmail': 'Uw Kindle e-mail',
-    'settings.kindleEmail.explained': 'Als u dit hebt ingesteld, dan bieden wij u waar mogelijk de optie om verhalen met één klik naar uw Kindle te sturen. U kunt het e-mailadres van uw Kindle vinden in uw Amazon-instellingen onder Inhoud & apparaten -> Apparaten -> selecteer uw Kindle om de details te bekijken en daar staat het e-mailadres vermeld.'
+    'settings.kindleEmail.explained': 'Als u dit hebt ingesteld, dan bieden wij u waar mogelijk de optie om verhalen met één klik naar uw Kindle te sturen. U kunt het e-mailadres van uw Kindle vinden in uw Amazon-instellingen onder Inhoud & apparaten -> Apparaten -> selecteer uw Kindle om de details te bekijken en daar staat het e-mailadres vermeld.',
+    'settings.tracking.title': 'Volgen en statistieken',
+    'settings.tracking.description': 'Houd uw lees- en schrijftijd bij om gedetailleerde statistieken over uw leesgewoonten en schrijfvorderingen te krijgen. U kunt deze statistieken in uw bibliotheek en werkplaats bekijken.',
+    'settings.tracking.reading.title': 'Leestijd',
+    'settings.tracking.reading.description': 'Volg de tijd die u besteedt aan het lezen van verhalen en hoofdstukken. Deze gegevens helpen u inzicht te krijgen in uw leesgewoonten en worden anoniem gedeeld met schrijvers van verhalen om hen te laten zien hoe betrokken lezers zijn bij hun werk.',
+    'settings.tracking.writing.title': 'Schrijftijd',
+    'settings.tracking.writing.description': 'Houd bij hoeveel tijd u hebt besteed aan het schrijven van verhalen, hoofdstukken en encyclopedie-items. Dit omvat gedetailleerde statistieken zoals typeactiviteit, woordaantallen en patronen in de tijd van de dag.',
+    'settings.tracking.trackWritingTime': 'Schrijftijd bijhouden',
+    'settings.tracking.trackReadingTime': 'Leestijd bijhouden'
 };

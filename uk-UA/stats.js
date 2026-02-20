@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Статистика за розділами',
     'stats.readers.title': 'Про вашіх читачів',
     'stats.gender.title': 'Стать',
+    'stats.gender': '{gender, select, male {Чоловік} female {Жінка} unknown {Невідомо} other {Невідомо}}',
     'stats.view.table': 'Табличний вигляд',
     'stats.view.pie': 'Вигляд у вигляді пирога',
     'stats.view.bar': 'Вигляд у вигляді стовпчика',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Найвища вікова група',
     'workshop.theWay.overallStats.genres': 'Ваші жанри',
     'stats.title': '{name} - Статистика',
-    'stats.totalCharacters': 'Всього персонажів'
+    'stats.totalCharacters': 'Всього персонажів',
+    'stats.totalReadingTime': 'Загальний час читання',
+    'stats.totalReadingTime.description': 'Сумарний час, витрачений усіма читачами на цю історію',
+    'stats.averageReadingTime': 'Середній час читання',
+    'stats.averageReadingTime.description': 'Середній час на одного читача'
 };

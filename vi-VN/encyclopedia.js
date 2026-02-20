@@ -57,7 +57,7 @@ export default {
     event {sự kiện}
     group {nhóm}
     item {vật phẩm}
-    location {vị trí}
+    location {địa điểm}
     other {ghi chú}
     state {trạng thái}
     governments {chính phủ}

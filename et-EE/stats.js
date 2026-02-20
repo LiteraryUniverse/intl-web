@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Peatüki statistikad',
     'stats.readers.title': 'Sinu lugejate kohta',
     'stats.gender.title': 'Sugu',
+    'stats.gender': '{gender, select, male {Mees} female {Naine} unknown {Teadmata} other {Teadmata}}',
     'stats.view.table': 'Tabelivaade',
     'stats.view.pie': 'Ringdiagrammi vaade',
     'stats.view.bar': 'Tulpdiagrammi vaade',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Parim vanuserühm',
     'workshop.theWay.overallStats.genres': 'Teie žanrid',
     'stats.title': '{name} - Statistika',
-    'stats.totalCharacters': 'Tähemärgid kokku'
+    'stats.totalCharacters': 'Tähemärgid kokku',
+    'stats.totalReadingTime': 'Kogu lugemisaeg',
+    'stats.totalReadingTime.description': 'Kõigi lugejate poolt sellele loole kulutatud aeg kokku',
+    'stats.averageReadingTime': 'Keskmine lugemisaeg',
+    'stats.averageReadingTime.description': 'Keskmine aeg lugeja kohta'
 };

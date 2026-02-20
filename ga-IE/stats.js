@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Staitisticí chaibidil',
     'stats.readers.title': 'Maidir le do léitheoirí',
     'stats.gender.title': 'Gnéas',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'Amharc tábla',
     'stats.view.pie': 'Amharc ciorcal pic',
     'stats.view.bar': 'Amharc ciorcal barra',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };

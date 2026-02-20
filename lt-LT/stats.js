@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Skyriaus statistika',
     'stats.readers.title': 'Apie jūsų skaitytojus',
     'stats.gender.title': 'Lytis',
+    'stats.gender': '{gender, select, male {Vyras} female {Moteris} unknown {Nežinomas} other {Nežinomas}}.',
     'stats.view.table': 'Lentelės vaizdas',
     'stats.view.pie': 'Pyrago diagramos vaizdas',
     'stats.view.bar': 'Stulpelinės diagramos vaizdas',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Geriausia amžiaus grupė',
     'workshop.theWay.overallStats.genres': 'Jūsų žanrai',
     'stats.title': '{name} - Statistika',
-    'stats.totalCharacters': 'Iš viso simbolių'
+    'stats.totalCharacters': 'Iš viso simbolių',
+    'stats.totalReadingTime': 'Bendras skaitymo laikas',
+    'stats.totalReadingTime.description': 'Bendras visų skaitytojų laikas, praleistas prie šios istorijos',
+    'stats.averageReadingTime': 'Vidutinis skaitymo laikas',
+    'stats.averageReadingTime.description': 'Vidutinis vieno skaitytojo laikas'
 };

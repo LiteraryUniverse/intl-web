@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Yeni bir giriş ekleyin',
     'encyclopedia.add.heading': 'Ne eklemek istersiniz?',
     'encyclopedia.add.moresoon': 'Daha fazla kategori yakında gelecek!',
-    'encyclopedia.create': `Yeni bir {category, select,
+    'encyclopedia.create': `Yeni oluştur {category, select,
     character {karakter}
     event {olay}
     group {grup}
@@ -69,7 +69,7 @@ export default {
     magic {büyü}
     planets {gezegen}
     species {tür}
-    technologies {teknoloji oluşturun}
+    technologies {teknoloji}
     families {aile}
     jobs {iş}
     lore {irfan}

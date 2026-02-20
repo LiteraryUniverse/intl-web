@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Statystyki rozdziału',
     'stats.readers.title': 'O twoich czytelnikach',
     'stats.gender.title': 'Płeć',
+    'stats.gender': '{gender, select, male {Mężczyzna} female {Kobieta} unknown {Nieznany} other {Nieznany}}',
     'stats.view.table': 'Widok tabeli',
     'stats.view.pie': 'Widok wykresu kołowego',
     'stats.view.bar': 'Widok wykresu słupkowego',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Najlepsza grupa wiekowa',
     'workshop.theWay.overallStats.genres': 'Państwa gatunki',
     'stats.title': '{name} - Statystyki',
-    'stats.totalCharacters': 'Całkowita liczba znaków'
+    'stats.totalCharacters': 'Całkowita liczba znaków',
+    'stats.totalReadingTime': 'Całkowity czas czytania',
+    'stats.totalReadingTime.description': 'Łączny czas spędzony przez wszystkich czytelników nad tym artykułem',
+    'stats.averageReadingTime': 'Średni czas odczytu',
+    'stats.averageReadingTime.description': 'Średni czas na czytelnika'
 };

@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': '應避免的類型',
     'settings.notifications': '通知與電子報',
     'settings.kindleEmail': '您的 Kindle 電子郵件',
-    'settings.kindleEmail.explained': '如果您有這樣的設定，那麼在可能的情況下，我們會提供您選項，讓您一按即可將故事傳送到您的 Kindle。您可以在亞馬遜設定中的內容與裝置 -> 裝置 -> 選擇您的 Kindle 來檢視其詳細資料，在那裡您會找到列出的電子郵件地址。'
+    'settings.kindleEmail.explained': '如果您有這樣的設定，那麼在可能的情況下，我們會提供您選項，讓您一按即可將故事傳送到您的 Kindle。您可以在亞馬遜設定中的內容與裝置 -> 裝置 -> 選擇您的 Kindle 來檢視其詳細資料，在那裡您會找到列出的電子郵件地址。',
+    'settings.tracking.title': '追蹤與統計',
+    'settings.tracking.description': '追蹤您的閱讀和寫作時間，獲得有關您閱讀習慣和寫作進度的詳細統計資料。您可以在圖書館和工作坊中檢視這些統計資料。',
+    'settings.tracking.reading.title': '閱讀時間',
+    'settings.tracking.reading.description': '追蹤閱讀故事和章節所花的時間。這些資料可協助您瞭解自己的閱讀習慣，並匿名分享給故事作者，讓他們了解讀者對作品的投入程度。',
+    'settings.tracking.writing.title': '寫作時間',
+    'settings.tracking.writing.description': '追蹤撰寫故事、章節和百科全書詞條所花費的時間。這包括詳細的指標，例如打字活動、字數和每天的時間模式。',
+    'settings.tracking.trackWritingTime': '追蹤寫作時間',
+    'settings.tracking.trackReadingTime': '追蹤閱讀時間'
 };

@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'สถิติตามบท',
     'stats.readers.title': 'เกี่ยวกับผู้อ่านของคุณ',
     'stats.gender.title': 'เพศ',
+    'stats.gender': '{gender, select, male {เพศชาย} female {เพศหญิง} unknown {ไม่ทราบเพศ} other {ไม่ทราบเพศ}}',
     'stats.view.table': 'มุมมองแบบตาราง',
     'stats.view.pie': 'มุมมองแบบแผนภูมิวงกลม',
     'stats.view.bar': 'มุมมองแบบแผนภูมิแท่ง',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - สถิติ',
-    'stats.totalCharacters': 'จำนวนตัวอักษรทั้งหมด'
+    'stats.totalCharacters': 'จำนวนตัวอักษรทั้งหมด',
+    'stats.totalReadingTime': 'เวลาอ่านทั้งหมด',
+    'stats.totalReadingTime.description': 'เวลาทั้งหมดที่ผู้อ่านทุกคนใช้ไปกับเรื่องนี้',
+    'stats.averageReadingTime': 'เวลาอ่านเฉลี่ย',
+    'stats.averageReadingTime.description': 'เวลาเฉลี่ยต่อผู้อ่าน'
 };

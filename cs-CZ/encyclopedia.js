@@ -3,7 +3,7 @@ export default {
     'encyclopedia.browse': 'Procházet encyklopedii',
     'encyclopedia.search': 'Vyhledat v encyklopedii',
     'encyclopedia.back.universe': 'Zpět na stránku vesmíru',
-    'encyclopedia.back.workshop': 'Zpátky do ateliéru',
+    'encyclopedia.back.workshop': 'Zpátky do dílny',
     'encyclopedia.categories': 'Kategorie',
     'encyclopedia.groups': 'Skupiny',
     'encyclopedia.category.character': 'Postava',

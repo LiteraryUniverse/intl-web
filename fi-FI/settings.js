@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Vältettävät lajityypit',
     'settings.notifications': 'Ilmoitukset ja uutiskirjeet',
     'settings.kindleEmail': 'Kindle-sähköpostisi',
-    'settings.kindleEmail.explained': 'Jos olet asettanut tämän asetuksen, tarjoamme sinulle mahdollisuuksien mukaan mahdollisuuden lähettää tarinoita Kindleen yhdellä napsautuksella. Löydät Kindle-sähköpostiosoitteesi Amazon-asetuksistasi kohdasta Sisältö ja laitteet -> Laitteet -> valitse Kindle nähdäksesi sen tiedot, ja sieltä löydät sähköpostiosoitteesi.'
+    'settings.kindleEmail.explained': 'Jos olet asettanut tämän asetuksen, tarjoamme sinulle mahdollisuuksien mukaan mahdollisuuden lähettää tarinoita Kindleen yhdellä napsautuksella. Löydät Kindle-sähköpostiosoitteesi Amazon-asetuksistasi kohdasta Sisältö ja laitteet -> Laitteet -> valitse Kindle nähdäksesi sen tiedot, ja sieltä löydät sähköpostiosoitteesi.',
+    'settings.tracking.title': 'Seuranta & tilastot',
+    'settings.tracking.description': 'Seuraa luku- ja kirjoitusaikaasi ja saat yksityiskohtaisia tilastoja lukutottumuksistasi ja kirjoittamisesi edistymisestä. Voit tarkastella näitä tilastoja kirjastossasi ja työpajassasi.',
+    'settings.tracking.reading.title': 'Lukuaika',
+    'settings.tracking.reading.description': 'Seuraa tarinoiden ja lukukappaleiden lukemiseen käytettyä aikaa. Nämä tiedot auttavat sinua ymmärtämään lukutottumuksiasi, ja ne jaetaan nimettöminä tarinoiden kirjoittajille, jotta he näkevät, miten sitoutuneita lukijat ovat heidän teoksiinsa.',
+    'settings.tracking.writing.title': 'Kirjoittamisen aika',
+    'settings.tracking.writing.description': 'Seuraa tarinoiden, lukujen ja tietosanakirjamerkintöjen kirjoittamiseen käytettyä aikaa. Tämä sisältää yksityiskohtaisia mittareita, kuten kirjoitustoiminta, sanamäärät ja kellonaikamallit.',
+    'settings.tracking.trackWritingTime': 'Seuraa kirjoittamisaikaa',
+    'settings.tracking.trackReadingTime': 'Seuraa lukuaikaa'
 };

@@ -198,5 +198,13 @@ export default {
     'settings.interests.avoidGenres': 'Žánre, ktorým sa treba vyhnúť',
     'settings.notifications': 'Oznámenia a bulletiny',
     'settings.kindleEmail': 'Váš e-mail Kindle',
-    'settings.kindleEmail.explained': 'Ak máte túto možnosť nastavenú, ponúkneme vám možnosť odoslať príbehy do vášho Kindle jedným kliknutím. E-mailovú adresu Kindle nájdete v nastaveniach Amazonu v časti Obsah a zariadenia -> Zariadenia -> vyberte svoj Kindle, aby ste si zobrazili jeho podrobnosti, a tam nájdete uvedený e-mail.'
+    'settings.kindleEmail.explained': 'Ak máte túto možnosť nastavenú, ponúkneme vám možnosť odoslať príbehy do vášho Kindle jedným kliknutím. E-mailovú adresu Kindle nájdete v nastaveniach Amazonu v časti Obsah a zariadenia -> Zariadenia -> vyberte svoj Kindle, aby ste si zobrazili jeho podrobnosti, a tam nájdete uvedený e-mail.',
+    'settings.tracking.title': 'Sledovanie a štatistiky',
+    'settings.tracking.description': 'Sledujte svoj čas čítania a písania a získajte podrobné štatistiky o svojich čitateľských návykoch a pokroku v písaní. Tieto štatistiky si môžete prezerať v knižnici a v dielni.',
+    'settings.tracking.reading.title': 'Čas čítania',
+    'settings.tracking.reading.description': 'Sledujte čas strávený čítaním príbehov a kapitol. Tieto údaje vám pomôžu pochopiť vaše čitateľské návyky a sú anonymne zdieľané s autormi príbehov, aby im ukázali, ako sú čitatelia zaujatí ich dielom.',
+    'settings.tracking.writing.title': 'Čas písania',
+    'settings.tracking.writing.description': 'Sledujte čas strávený písaním príbehov, kapitol a encyklopedických hesiel. Zahŕňa podrobné metriky, ako je aktivita písania, počet slov a časové vzorce dňa.',
+    'settings.tracking.trackWritingTime': 'Sledovanie času písania',
+    'settings.tracking.trackReadingTime': 'Sledovanie času čítania'
 };

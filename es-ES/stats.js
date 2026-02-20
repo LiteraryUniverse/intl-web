@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Estadísticas del capítulo',
     'stats.readers.title': 'Sobre tus lectores',
     'stats.gender.title': 'Género',
+    'stats.gender': '{gender, select, male {Hombre} female {Mujer} unknown {Desconocido} other {Desconocido}}',
     'stats.view.table': 'Vista en tablas',
     'stats.view.pie': 'Vista en gráfica circular',
     'stats.view.bar': 'Vista en gráfica de barras',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Grupo de edad superior',
     'workshop.theWay.overallStats.genres': 'Sus géneros',
     'stats.title': '{name} - Estadísticas',
-    'stats.totalCharacters': 'Total de caracteres'
+    'stats.totalCharacters': 'Total de caracteres',
+    'stats.totalReadingTime': 'Tiempo total de lectura',
+    'stats.totalReadingTime.description': 'Tiempo combinado que todos los lectores dedicaron a esta historia',
+    'stats.averageReadingTime': 'Tiempo medio de lectura',
+    'stats.averageReadingTime.description': 'Tiempo medio por lector'
 };

@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Štatistiky kapitol',
     'stats.readers.title': 'O vašich čitateľoch',
     'stats.gender.title': 'Pohlavie',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'Zobrazenie tabuľky',
     'stats.view.pie': 'Zobrazenie koláčového grafu',
     'stats.view.bar': 'Zobrazenie stípcového grafu',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Najlepšia veková skupina',
     'workshop.theWay.overallStats.genres': 'Vaše žánre',
     'stats.title': '{name} - Štatistiky',
-    'stats.totalCharacters': 'Celkový počet znakov'
+    'stats.totalCharacters': 'Celkový počet znakov',
+    'stats.totalReadingTime': 'Celkový čas čítania',
+    'stats.totalReadingTime.description': 'Kombinovaný čas všetkých čitateľov strávený nad týmto príbehom',
+    'stats.averageReadingTime': 'Priemerný čas čítania',
+    'stats.averageReadingTime.description': 'Priemerný čas na čitateľa'
 };

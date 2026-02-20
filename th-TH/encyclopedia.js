@@ -85,7 +85,7 @@ export default {
     villages {หมู่บ้าน}
     towns {เมือง}
     cities {เมือง}
-    settlements {ชุมชน}
+    settlements {การตั้งถิ่นฐาน}
     countries {ประเทศ}
   }`,
     'encyclopedia.create.header': `Creating a new {category, select,

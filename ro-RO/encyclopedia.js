@@ -52,24 +52,24 @@ export default {
     'encyclopedia.add.title': 'Adăugați o nouă intrare în enciclopedie',
     'encyclopedia.add.heading': 'Ce doriți să adăugați?',
     'encyclopedia.add.moresoon': 'Mai multe categorii vor fi disponibile în curând!',
-    'encyclopedia.create': `Creează un nou {category, select,
-    character {personaj}
-    event {eveniment}
-    group {grup}
-    item {obiect}
-    location {locație}
-    other {notă}
-    state {stat}
-    governments {guvern}
-    languages {limbă}
-    creatures {creatură}
-    deity {zeitate}
-    religions {religie}
-    flora {floră}
-    magic {magie}
-    planets {planetă}
+    'encyclopedia.create': `Create new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
     species {specie}
-    technologies {tehnologie}
+    technologies {technology}
     families {familie}
     jobs {job}
     lore {lore}
