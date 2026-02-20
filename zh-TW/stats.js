@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': '總閱讀時間',
     'stats.totalReadingTime.description': '所有讀者花在這個故事上的時間總和',
     'stats.averageReadingTime': '平均閱讀時間',
-    'stats.averageReadingTime.description': '每位讀者的平均時間'
+    'stats.averageReadingTime.description': '每位讀者的平均時間',
+    'stats.readingHabits.title': '每週讀者習慣',
+    'stats.readingHabits.sessions': '閱讀課程',
+    'stats.readingHabits.averageSession': '平均會話',
+    'stats.readingHabits.peakDay': '最活躍的一天',
+    'stats.readingHabits.peakHour': '最活躍時段',
+    'stats.readingHabits.profileSummary': '在過去 {weeks, number} 週內閱讀： {sessions, number} 節數， {duration} 總數，最活躍的 {day} 約 {hour}。'
 };

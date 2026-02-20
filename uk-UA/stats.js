@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Загальний час читання',
     'stats.totalReadingTime.description': 'Сумарний час, витрачений усіма читачами на цю історію',
     'stats.averageReadingTime': 'Середній час читання',
-    'stats.averageReadingTime.description': 'Середній час на одного читача'
+    'stats.averageReadingTime.description': 'Середній час на одного читача',
+    'stats.readingHabits.title': 'Читацькі звички за тижнями',
+    'stats.readingHabits.sessions': 'Читацькі сесії',
+    'stats.readingHabits.averageSession': 'Середній сеанс',
+    'stats.readingHabits.peakDay': 'Найактивніший день',
+    'stats.readingHabits.peakHour': 'Найактивніша година',
+    'stats.readingHabits.profileSummary': 'Читання за останні {weeks, number} тижні: {sessions, number} сесій, {duration} всього, найактивніше на {day} близько {hour}.'
 };

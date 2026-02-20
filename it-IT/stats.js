@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Tempo totale di lettura',
     'stats.totalReadingTime.description': 'Tempo combinato di tutti i lettori dedicato a questa storia',
     'stats.averageReadingTime': 'Tempo medio di lettura',
-    'stats.averageReadingTime.description': 'Tempo medio per lettore'
+    'stats.averageReadingTime.description': 'Tempo medio per lettore',
+    'stats.readingHabits.title': 'Abitudini dei lettori per settimana',
+    'stats.readingHabits.sessions': 'Sessioni di lettura',
+    'stats.readingHabits.averageSession': 'Sessione media',
+    'stats.readingHabits.peakDay': 'Il giorno più attivo',
+    'stats.readingHabits.peakHour': 'L\'ora più attiva',
+    'stats.readingHabits.profileSummary': 'Lettura nelle ultime {weeks, number} settimane: {sessions, number} sessioni, {duration} totali, più attive su {day} intorno a {hour}.'
 };

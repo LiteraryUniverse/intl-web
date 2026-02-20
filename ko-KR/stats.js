@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': '총 읽기 시간',
     'stats.totalReadingTime.description': '모든 독자가 이 기사에 소비한 시간 합산',
     'stats.averageReadingTime': '평균 읽기 시간',
-    'stats.averageReadingTime.description': '독자당 평균 시간'
+    'stats.averageReadingTime.description': '독자당 평균 시간',
+    'stats.readingHabits.title': '주별 독서 습관',
+    'stats.readingHabits.sessions': '독서 세션',
+    'stats.readingHabits.averageSession': '평균 세션',
+    'stats.readingHabits.peakDay': '가장 활동적인 날',
+    'stats.readingHabits.peakHour': '가장 활동적인 시간',
+    'stats.readingHabits.profileSummary': '지난 {weeks, number} 주에 읽음: {sessions, number} 세션, {duration} 총, {day} 에서 가장 많이 활동 {hour}.'
 };

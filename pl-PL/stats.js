@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Całkowity czas czytania',
     'stats.totalReadingTime.description': 'Łączny czas spędzony przez wszystkich czytelników nad tym artykułem',
     'stats.averageReadingTime': 'Średni czas odczytu',
-    'stats.averageReadingTime.description': 'Średni czas na czytelnika'
+    'stats.averageReadingTime.description': 'Średni czas na czytelnika',
+    'stats.readingHabits.title': 'Zwyczaje czytelników według tygodnia',
+    'stats.readingHabits.sessions': 'Sesje czytania',
+    'stats.readingHabits.averageSession': 'Średnia sesja',
+    'stats.readingHabits.peakDay': 'Najbardziej aktywny dzień',
+    'stats.readingHabits.peakHour': 'Najbardziej aktywna godzina',
+    'stats.readingHabits.profileSummary': 'Czytanie w ciągu ostatnich {weeks, number} tygodni: {sessions, number} sesji, {duration} ogółem, najbardziej aktywny na {day} około {hour}.'
 };

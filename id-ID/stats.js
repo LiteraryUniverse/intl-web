@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Total waktu membaca',
     'stats.totalReadingTime.description': 'Gabungan waktu yang dihabiskan semua pembaca untuk membaca cerita ini',
     'stats.averageReadingTime': 'Waktu membaca rata-rata',
-    'stats.averageReadingTime.description': 'Waktu rata-rata per pembaca'
+    'stats.averageReadingTime.description': 'Waktu rata-rata per pembaca',
+    'stats.readingHabits.title': 'Kebiasaan pembaca menurut minggu',
+    'stats.readingHabits.sessions': 'Sesi membaca',
+    'stats.readingHabits.averageSession': 'Sesi rata-rata',
+    'stats.readingHabits.peakDay': 'Hari paling aktif',
+    'stats.readingHabits.peakHour': 'Jam paling aktif',
+    'stats.readingHabits.profileSummary': 'Membaca dalam {weeks, number} minggu terakhir: {sessions, number} sesi, {duration} total, paling aktif di {day} sekitar {hour}.'
 };

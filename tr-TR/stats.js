@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Toplam okuma süresi',
     'stats.totalReadingTime.description': 'Tüm okuyucuların bu hikaye için harcadığı toplam süre',
     'stats.averageReadingTime': 'Ortalama okuma süresi',
-    'stats.averageReadingTime.description': 'Okuyucu başına ortalama süre'
+    'stats.averageReadingTime.description': 'Okuyucu başına ortalama süre',
+    'stats.readingHabits.title': 'Haftalara göre okuyucu alışkanlıkları',
+    'stats.readingHabits.sessions': 'Okuma seansları',
+    'stats.readingHabits.averageSession': 'Ortalama oturum',
+    'stats.readingHabits.peakDay': 'En aktif gün',
+    'stats.readingHabits.peakHour': 'En aktif saat',
+    'stats.readingHabits.profileSummary': 'Son {weeks, number} hafta içinde okuma: {sessions, number} oturumlar, {duration} toplam, en aktif {day} {hour} civarında.'
 };

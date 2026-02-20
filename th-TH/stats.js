@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'เวลาอ่านทั้งหมด',
     'stats.totalReadingTime.description': 'เวลาทั้งหมดที่ผู้อ่านทุกคนใช้ไปกับเรื่องนี้',
     'stats.averageReadingTime': 'เวลาอ่านเฉลี่ย',
-    'stats.averageReadingTime.description': 'เวลาเฉลี่ยต่อผู้อ่าน'
+    'stats.averageReadingTime.description': 'เวลาเฉลี่ยต่อผู้อ่าน',
+    'stats.readingHabits.title': 'นิสัยการอ่านของผู้อ่านตามสัปดาห์',
+    'stats.readingHabits.sessions': 'การอ่านหนังสือ',
+    'stats.readingHabits.averageSession': 'เซสชันเฉลี่ย',
+    'stats.readingHabits.peakDay': 'วันที่เคลื่อนไหวมากที่สุด',
+    'stats.readingHabits.peakHour': 'ชั่วโมงที่มีกิจกรรมมากที่สุด',
+    'stats.readingHabits.profileSummary': 'การอ่านในสัปดาห์ที่ผ่านมา {weeks, number} สัปดาห์: {sessions, number} เซสชัน, {duration} ทั้งหมด, ที่ใช้งานมากที่สุดใน {day} ประมาณ {hour}.'
 };

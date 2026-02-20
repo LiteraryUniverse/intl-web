@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Kokonaislukuaika',
     'stats.totalReadingTime.description': 'Kaikkien lukijoiden tähän tarinaan käyttämä yhteenlaskettu aika',
     'stats.averageReadingTime': 'Keskimääräinen lukuaika',
-    'stats.averageReadingTime.description': 'Keskimääräinen aika lukijaa kohti'
+    'stats.averageReadingTime.description': 'Keskimääräinen aika lukijaa kohti',
+    'stats.readingHabits.title': 'Lukutottumukset viikoittain',
+    'stats.readingHabits.sessions': 'Lukutilaisuudet',
+    'stats.readingHabits.averageSession': 'Keskimääräinen istunto',
+    'stats.readingHabits.peakDay': 'Aktiivisin päivä',
+    'stats.readingHabits.peakHour': 'Aktiivisin tunti',
+    'stats.readingHabits.profileSummary': 'Lukeminen viimeisten {weeks, number} viikkojen aikana: {sessions, number} {duration} yhteensä, aktiivisimmin {day} noin {hour}.'
 };

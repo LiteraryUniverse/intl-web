@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Thời gian đọc tổng cộng',
     'stats.totalReadingTime.description': 'Tổng thời gian mà tất cả độc giả đã dành cho câu chuyện này',
     'stats.averageReadingTime': 'Thời gian đọc trung bình',
-    'stats.averageReadingTime.description': 'Thời gian trung bình mỗi độc giả'
+    'stats.averageReadingTime.description': 'Thời gian trung bình mỗi độc giả',
+    'stats.readingHabits.title': 'Thói quen đọc sách theo tuần',
+    'stats.readingHabits.sessions': 'Buổi đọc sách',
+    'stats.readingHabits.averageSession': 'Thời gian trung bình của mỗi phiên',
+    'stats.readingHabits.peakDay': 'Ngày hoạt động nhất',
+    'stats.readingHabits.peakHour': 'Giờ hoạt động cao điểm',
+    'stats.readingHabits.profileSummary': 'Đọc trong {weeks, number} tuần qua: {sessions, number} phiên, {duration} tổng cộng, hoạt động tích cực nhất trên {day} khoảng {hour}.'
 };

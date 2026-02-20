@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Timp total de citire',
     'stats.totalReadingTime.description': 'Timpul combinat petrecut de toți cititorii pe această poveste',
     'stats.averageReadingTime': 'Timp mediu de citire',
-    'stats.averageReadingTime.description': 'Timpul mediu pe cititor'
+    'stats.averageReadingTime.description': 'Timpul mediu pe cititor',
+    'stats.readingHabits.title': 'Obiceiuri de lectură pe săptămână',
+    'stats.readingHabits.sessions': 'Sesiuni de lectură',
+    'stats.readingHabits.averageSession': 'Sesiune medie',
+    'stats.readingHabits.peakDay': 'Cea mai activă zi',
+    'stats.readingHabits.peakHour': 'Cea mai activă oră',
+    'stats.readingHabits.profileSummary': 'Citit în ultimele {weeks, number} săptămâni: {sessions, number} sesiuni, {duration} total, cel mai activ pe {day} în jurul {hour}.'
 };

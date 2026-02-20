@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Total lästid',
     'stats.totalReadingTime.description': 'Kombinerad tid som alla läsare spenderat på denna story',
     'stats.averageReadingTime': 'Genomsnittlig lästid',
-    'stats.averageReadingTime.description': 'Genomsnittlig tid per läsare'
+    'stats.averageReadingTime.description': 'Genomsnittlig tid per läsare',
+    'stats.readingHabits.title': 'Läsvanor per vecka',
+    'stats.readingHabits.sessions': 'Läsningssessioner',
+    'stats.readingHabits.averageSession': 'Genomsnittlig session',
+    'stats.readingHabits.peakDay': 'Mest aktiva dag',
+    'stats.readingHabits.peakHour': 'Mest aktiva timme',
+    'stats.readingHabits.profileSummary': 'Läste under de senaste {weeks, number} veckorna: {sessions, number} sessioner, {duration} totalt, mest aktiv på {day} runt {hour}.'
 };
