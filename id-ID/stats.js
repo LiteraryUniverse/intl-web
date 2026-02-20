@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Statistik bab',
     'stats.readers.title': 'Tentang pembaca Anda',
     'stats.gender.title': 'Jenis kelamin',
+    'stats.gender': '{gender, select, male {Pria} female {Wanita} unknown {Tidak diketahui} other {Tidak diketahui}}',
     'stats.view.table': 'Tampilan tabel',
     'stats.view.pie': 'Tampilan Diagram Lingkaran',
     'stats.view.bar': 'Tampilan Diagram Batang',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Kelompok Usia Tertinggi',
     'workshop.theWay.overallStats.genres': 'Genre Anda',
     'stats.title': '{name} - Statistik',
-    'stats.totalCharacters': 'Total Karakter'
+    'stats.totalCharacters': 'Total Karakter',
+    'stats.totalReadingTime': 'Total waktu membaca',
+    'stats.totalReadingTime.description': 'Gabungan waktu yang dihabiskan semua pembaca untuk membaca cerita ini',
+    'stats.averageReadingTime': 'Waktu membaca rata-rata',
+    'stats.averageReadingTime.description': 'Waktu rata-rata per pembaca'
 };
