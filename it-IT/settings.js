@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Generi da evitare',
     'settings.notifications': 'Notifiche e newsletter',
     'settings.kindleEmail': 'La sua e-mail Kindle',
-    'settings.kindleEmail.explained': 'Se ha questa impostazione, le offriremo la possibilità di inviare le storie al suo Kindle con un solo clic. Può trovare l\'indirizzo e-mail del suo Kindle nelle impostazioni di Amazon, alla voce Contenuti e dispositivi -> Dispositivi -> selezioni il suo Kindle per visualizzarne i dettagli e lì troverà l\'e-mail elencata.'
+    'settings.kindleEmail.explained': 'Se ha questa impostazione, le offriremo la possibilità di inviare le storie al suo Kindle con un solo clic. Può trovare l\'indirizzo e-mail del suo Kindle nelle impostazioni di Amazon, alla voce Contenuti e dispositivi -> Dispositivi -> selezioni il suo Kindle per visualizzarne i dettagli e lì troverà l\'e-mail elencata.',
+    'settings.tracking.title': 'Tracciamento e statistiche',
+    'settings.tracking.description': 'Traccia il suo tempo di lettura e scrittura per ottenere statistiche dettagliate sulle sue abitudini di lettura e sui suoi progressi di scrittura. Può visualizzare queste statistiche nella sua biblioteca e nel suo laboratorio.',
+    'settings.tracking.reading.title': 'Tempo di lettura',
+    'settings.tracking.reading.description': 'Traccia il tempo trascorso a leggere storie e capitoli. Questi dati la aiutano a capire le sue abitudini di lettura e vengono condivisi in forma anonima con gli autori delle storie, per mostrare loro quanto i lettori sono coinvolti nel loro lavoro.',
+    'settings.tracking.writing.title': 'Tempo di scrittura',
+    'settings.tracking.writing.description': 'Traccia il tempo trascorso a scrivere storie, capitoli e voci di enciclopedia. Questo include metriche dettagliate come l\'attività di battitura, il conteggio delle parole e gli schemi dell\'ora del giorno.',
+    'settings.tracking.trackWritingTime': 'Traccia il tempo di scrittura',
+    'settings.tracking.trackReadingTime': 'Traccia il tempo di lettura'
 };
