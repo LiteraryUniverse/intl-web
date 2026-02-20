@@ -14,6 +14,7 @@ export default {
   'stats.section.chapter': 'Chapter statistics',
   'stats.readers.title': 'About your readers',
   'stats.gender.title': 'Gender',
+  'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
   'stats.view.table': 'Table view',
   'stats.view.pie': 'Pie Chart view',
   'stats.view.bar': 'Bar Chart view',
