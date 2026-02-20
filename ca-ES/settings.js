@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genres to avoid',
     'settings.notifications': 'Notifications & newsletters',
     'settings.kindleEmail': 'Your Kindle e-mail',
-    'settings.kindleEmail.explained': 'If you have this set, then where possible we will offer you the option to send stories to your Kindle with one click. You can find your Kindle email address in your Amazon settings under Content & Devices -> Devices -> select your Kindle to view its details and there you will find the email listed.'
+    'settings.kindleEmail.explained': 'If you have this set, then where possible we will offer you the option to send stories to your Kindle with one click. You can find your Kindle email address in your Amazon settings under Content & Devices -> Devices -> select your Kindle to view its details and there you will find the email listed.',
+    'settings.tracking.title': 'Tracking & Statistics',
+    'settings.tracking.description': 'Track your reading and writing time to get detailed statistics on your reading habits and writing progress. You can view these statistics in your library and workshop.',
+    'settings.tracking.reading.title': 'Reading Time',
+    'settings.tracking.reading.description': 'Track time spent reading stories and chapters. This data helps you understand your reading habits and is shared anonymously with story authors to show them how engaged readers are with their work.',
+    'settings.tracking.writing.title': 'Writing Time',
+    'settings.tracking.writing.description': 'Track time spent writing stories, chapters, and encyclopedia entries. This includes detailed metrics like typing activity, word counts, and time-of-day patterns.',
+    'settings.tracking.trackWritingTime': 'Track writing time',
+    'settings.tracking.trackReadingTime': 'Track reading time'
 };
