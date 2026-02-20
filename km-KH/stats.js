@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'ស្ថិតិជនរឿង',
     'stats.readers.title': 'អំពីអ្នកអានរឿងរបស់អ្នក',
     'stats.gender.title': 'ភេទ',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'ទិដ្ឋភាពតារាង',
     'stats.view.pie': 'ទិដ្ឋភាពតារាងបំណង',
     'stats.view.bar': 'ទិដ្ឋភាពតារាងរបស់អ្នកអានរឿង',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };
