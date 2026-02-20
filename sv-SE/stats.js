@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Kapitelstatistik',
     'stats.readers.title': 'Om dina läsare',
     'stats.gender.title': 'Kön',
+    'stats.gender': '{gender, select, male {Man} female {Kvinna} unknown {Okänd} other {Okänd}}',
     'stats.view.table': 'Tabellvy',
     'stats.view.pie': 'Cirkeldiagramvy',
     'stats.view.bar': 'Stapeldiagramvy',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Bästa åldersgrupp',
     'workshop.theWay.overallStats.genres': 'Dina genrer',
     'stats.title': '{name} - Statistik',
-    'stats.totalCharacters': 'Totalt antal tecken'
+    'stats.totalCharacters': 'Totalt antal tecken',
+    'stats.totalReadingTime': 'Total lästid',
+    'stats.totalReadingTime.description': 'Kombinerad tid som alla läsare spenderat på denna story',
+    'stats.averageReadingTime': 'Genomsnittlig lästid',
+    'stats.averageReadingTime.description': 'Genomsnittlig tid per läsare'
 };
