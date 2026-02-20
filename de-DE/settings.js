@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Zu vermeidende Genres',
     'settings.notifications': 'Benachrichtigungen & Newsletters',
     'settings.kindleEmail': 'Ihre Kindle E-Mail',
-    'settings.kindleEmail.explained': 'Wenn Sie dies eingestellt haben, bieten wir Ihnen, soweit möglich, die Möglichkeit, Geschichten mit einem Klick an Ihren Kindle zu senden. Sie finden Ihre Kindle-E-Mail-Adresse in Ihren Amazon-Einstellungen unter Inhalt & Geräte -> Geräte -> wählen Sie Ihren Kindle aus, um seine Details zu sehen und dort finden Sie die E-Mail aufgeführt.'
+    'settings.kindleEmail.explained': 'Wenn Sie dies eingestellt haben, bieten wir Ihnen, soweit möglich, die Möglichkeit, Geschichten mit einem Klick an Ihren Kindle zu senden. Sie finden Ihre Kindle-E-Mail-Adresse in Ihren Amazon-Einstellungen unter Inhalt & Geräte -> Geräte -> wählen Sie Ihren Kindle aus, um seine Details zu sehen und dort finden Sie die E-Mail aufgeführt.',
+    'settings.tracking.title': 'Verfolgung & Statistik',
+    'settings.tracking.description': 'Verfolgen Sie Ihre Lese- und Schreibzeit, um detaillierte Statistiken über Ihre Lesegewohnheiten und Schreibfortschritte zu erhalten. Sie können diese Statistiken in Ihrer Bibliothek und Ihrem Workshop einsehen.',
+    'settings.tracking.reading.title': 'Lesezeit',
+    'settings.tracking.reading.description': 'Verfolgen Sie die Zeit, die Sie mit dem Lesen von Geschichten und Kapiteln verbringen. Diese Daten helfen Ihnen, Ihre Lesegewohnheiten zu verstehen und werden anonym an die Autoren der Geschichten weitergegeben, um ihnen zu zeigen, wie sehr sich die Leser für ihre Arbeit interessieren.',
+    'settings.tracking.writing.title': 'Schreibzeit',
+    'settings.tracking.writing.description': 'Verfolgen Sie die Zeit, die Sie für das Schreiben von Geschichten, Kapiteln und Enzyklopädieeinträgen aufwenden. Dazu gehören detaillierte Metriken wie Tippaktivitäten, Wortanzahl und Tageszeitmuster.',
+    'settings.tracking.trackWritingTime': 'Schreibzeit verfolgen',
+    'settings.tracking.trackReadingTime': 'Lesezeit verfolgen'
 };
