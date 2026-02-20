@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Statistici pe capitole',
     'stats.readers.title': 'Despre cititorii tăi',
     'stats.gender.title': 'Gen',
+    'stats.gender': '{gender, select, male {Masculin} female {Feminin} unknown {Necunoscut} other {Necunoscut}}',
     'stats.view.table': 'Vizualizare tabelară',
     'stats.view.pie': 'Vizualizare diagramă cu sectoare',
     'stats.view.bar': 'Vizualizare diagramă cu bare',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Grupa de vârstă superioară',
     'workshop.theWay.overallStats.genres': 'Genurile tale',
     'stats.title': '{name} - Statistică',
-    'stats.totalCharacters': 'Total caractere'
+    'stats.totalCharacters': 'Total caractere',
+    'stats.totalReadingTime': 'Timp total de citire',
+    'stats.totalReadingTime.description': 'Timpul combinat petrecut de toți cititorii pe această poveste',
+    'stats.averageReadingTime': 'Timp mediu de citire',
+    'stats.averageReadingTime.description': 'Timpul mediu pe cititor'
 };
