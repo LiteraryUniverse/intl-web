@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genres à éviter',
     'settings.notifications': 'Notifications et bulletins d\'information',
     'settings.kindleEmail': 'Votre e-mail Kindle',
-    'settings.kindleEmail.explained': 'Si vous avez choisi cette option, nous vous proposerons, dans la mesure du possible, d\'envoyer des articles à votre Kindle en un seul clic. Vous pouvez trouver l\'adresse électronique de votre Kindle dans vos paramètres Amazon sous Contenu et appareils -> Appareils -> sélectionnez votre Kindle pour afficher ses détails et vous y trouverez l\'adresse électronique.'
+    'settings.kindleEmail.explained': 'Si vous avez choisi cette option, nous vous proposerons, dans la mesure du possible, d\'envoyer des articles à votre Kindle en un seul clic. Vous pouvez trouver l\'adresse électronique de votre Kindle dans vos paramètres Amazon sous Contenu et appareils -> Appareils -> sélectionnez votre Kindle pour afficher ses détails et vous y trouverez l\'adresse électronique.',
+    'settings.tracking.title': 'Suivi et statistiques',
+    'settings.tracking.description': 'Suivez votre temps de lecture et d\'écriture pour obtenir des statistiques détaillées sur vos habitudes de lecture et vos progrès en matière d\'écriture. Vous pouvez consulter ces statistiques dans votre bibliothèque et votre atelier.',
+    'settings.tracking.reading.title': 'Temps de lecture',
+    'settings.tracking.reading.description': 'Suivez le temps passé à lire les histoires et les chapitres. Ces données vous aident à comprendre vos habitudes de lecture et sont partagées de manière anonyme avec les auteurs d\'histoires pour leur montrer à quel point les lecteurs sont intéressés par leur travail.',
+    'settings.tracking.writing.title': 'Temps d\'écriture',
+    'settings.tracking.writing.description': 'Suivez le temps passé à écrire des histoires, des chapitres et des entrées d\'encyclopédie. Cela inclut des mesures détaillées telles que l\'activité de frappe, le nombre de mots et les schémas de l\'heure de la journée.',
+    'settings.tracking.trackWritingTime': 'Suivi du temps d\'écriture',
+    'settings.tracking.trackReadingTime': 'Suivre le temps de lecture'
 };
