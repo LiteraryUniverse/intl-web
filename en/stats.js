@@ -14,6 +14,7 @@ export default {
   'stats.section.chapter': 'Chapter statistics',
   'stats.readers.title': 'About your readers',
   'stats.gender.title': 'Gender',
+  'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
   'stats.view.table': 'Table view',
   'stats.view.pie': 'Pie Chart view',
   'stats.view.bar': 'Bar Chart view',
@@ -65,4 +66,8 @@ export default {
 
   'stats.title': '{name} - Statistics',
   'stats.totalCharacters': 'Total Characters',
+  'stats.totalReadingTime': 'Total reading time',
+  'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+  'stats.averageReadingTime': 'Average reading time',
+  'stats.averageReadingTime.description': 'Average time per reader',
 }
