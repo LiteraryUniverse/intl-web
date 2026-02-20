@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'அதிரடிப் புள்ளிவிபரங்கள்',
     'stats.readers.title': 'உங்கள் வாசிப்புரிமையாளர்களைப் பற்றி',
     'stats.gender.title': 'பாலினம்',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'அட்டவணை பார்க்க',
     'stats.view.pie': 'பை விளக்கப்படம்',
     'stats.view.bar': 'பட்டி விளக்கப்படம்',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };
