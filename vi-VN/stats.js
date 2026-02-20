@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Thống kê chương',
     'stats.readers.title': 'Về độc giả của bạn',
     'stats.gender.title': 'Giới tính',
+    'stats.gender': '{gender, select, male {Nam} female {Nữ} unknown {Không rõ} other {Không rõ}}',
     'stats.view.table': 'Xem dạng bảng',
     'stats.view.pie': 'Xem dạng biểu đồ hình tròn',
     'stats.view.bar': 'Xem dạng biểu đồ cột',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Thống kê',
-    'stats.totalCharacters': 'Tổng số ký tự'
+    'stats.totalCharacters': 'Tổng số ký tự',
+    'stats.totalReadingTime': 'Thời gian đọc tổng cộng',
+    'stats.totalReadingTime.description': 'Tổng thời gian mà tất cả độc giả đã dành cho câu chuyện này',
+    'stats.averageReadingTime': 'Thời gian đọc trung bình',
+    'stats.averageReadingTime.description': 'Thời gian trung bình mỗi độc giả'
 };
