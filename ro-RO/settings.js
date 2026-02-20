@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genuri de evitat',
     'settings.notifications': 'Notificări și buletine informative',
     'settings.kindleEmail': 'Adresa dvs. de e-mail Kindle',
-    'settings.kindleEmail.explained': 'Dacă aveți această setare, atunci, acolo unde este posibil, vă vom oferi opțiunea de a trimite povești la Kindle cu un singur clic. Puteți găsi adresa dvs. de e-mail Kindle în setările Amazon sub Conținut și dispozitive -> Dispozitive -> selectați Kindle pentru a vizualiza detaliile acestuia și acolo veți găsi adresa de e-mail listată.'
+    'settings.kindleEmail.explained': 'Dacă aveți această setare, atunci, acolo unde este posibil, vă vom oferi opțiunea de a trimite povești la Kindle cu un singur clic. Puteți găsi adresa dvs. de e-mail Kindle în setările Amazon sub Conținut și dispozitive -> Dispozitive -> selectați Kindle pentru a vizualiza detaliile acestuia și acolo veți găsi adresa de e-mail listată.',
+    'settings.tracking.title': 'Urmărire și statistici',
+    'settings.tracking.description': 'Urmăriți timpul petrecut citind și scriind pentru a obține statistici detaliate privind obiceiurile dvs. de lectură și progresul scrisului. Puteți vizualiza aceste statistici în bibliotecă și în atelier.',
+    'settings.tracking.reading.title': 'Timp de citire',
+    'settings.tracking.reading.description': 'Urmăriți timpul petrecut citind povestiri și capitole. Aceste date vă ajută să vă înțelegeți obiceiurile de lectură și sunt partajate anonim cu autorii de povești pentru a le arăta cât de implicați sunt cititorii cu munca lor.',
+    'settings.tracking.writing.title': 'Timpul de scriere',
+    'settings.tracking.writing.description': 'Urmăriți timpul petrecut scriind povestiri, capitole și intrări în enciclopedii. Aceasta include măsurători detaliate, cum ar fi activitatea de tastare, numărul de cuvinte și modelele de timp ale zilei.',
+    'settings.tracking.trackWritingTime': 'Urmăriți timpul de scriere',
+    'settings.tracking.trackReadingTime': 'Urmăriți timpul de citire'
 };
