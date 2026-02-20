@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'თავისუფლების სტატისტიკა',
     'stats.readers.title': 'შესახებ წამოღებული წამომღების შესახებ',
     'stats.gender.title': 'სქესი',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'ცხრილის ხედი',
     'stats.view.pie': 'კრებულის დიაგრამის ხედი',
     'stats.view.bar': 'ზღვრის დიაგრამის ხედი',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };
