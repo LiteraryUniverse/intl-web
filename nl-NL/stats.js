@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Statistieken per hoofdstuk',
     'stats.readers.title': 'Over uw lezers',
     'stats.gender.title': 'Geslacht',
+    'stats.gender': '{gender, select, male {Man} female {Vrouw} unknown {Onbekend} other {Onbekend}}',
     'stats.view.table': 'Tabelweergave',
     'stats.view.pie': 'Taartdiagramweergave',
     'stats.view.bar': 'Staafdiagramweergave',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Leeftijdsgroep',
     'workshop.theWay.overallStats.genres': 'Uw genres',
     'stats.title': '{name} - Statistieken',
-    'stats.totalCharacters': 'Totaal aantal tekens'
+    'stats.totalCharacters': 'Totaal aantal tekens',
+    'stats.totalReadingTime': 'Totale leestijd',
+    'stats.totalReadingTime.description': 'Totale tijd die alle lezers aan dit verhaal hebben besteed',
+    'stats.averageReadingTime': 'Gemiddelde leestijd',
+    'stats.averageReadingTime.description': 'Gemiddelde tijd per lezer'
 };
