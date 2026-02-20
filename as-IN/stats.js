@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'অধ্যায় প্ৰশাসন',
     'stats.readers.title': 'আপোনাৰ পাঠকবৃন্দসমূহৰ বিষয়ে',
     'stats.gender.title': 'লিংগ',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'টেবিল ভিউ',
     'stats.view.pie': 'পাই চাৰ্ট ভিউ',
     'stats.view.bar': 'বাৰ চাৰ্ট ভিউ',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };

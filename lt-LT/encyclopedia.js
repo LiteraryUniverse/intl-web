@@ -53,23 +53,23 @@ export default {
     'encyclopedia.add.heading': 'Ką norite pridėti?',
     'encyclopedia.add.moresoon': 'Daugiau kategorijų greitai bus!',
     'encyclopedia.create': `Sukurti naują {category, select,
-    character {veikėją}
-    event {įvykį}
-    group {grupę}
-    item {daiktą}
-    location {vietą}
-    other {užrašą}
-    state {valstybę}
-    governments {vyriausybę}
-    languages {kalbą}
-    creatures {būtybę}
-    deity {dievybę}
-    religions {religiją}
-    flora {florą}
-    magic {magiją}
-    planets {planetą}
-    species {rūšį}
-    technologies {technologiją}
+    character {veikėjas}
+    event {įvykis}
+    group {grupė}
+    item {daiktas}
+    location {vieta}
+    other {užrašas}
+    state {valstybė}
+    governments {vyriausybė}
+    languages {kalba}
+    creatures {būtybė}
+    deity {dievybė}
+    religions {religija}
+    flora {flora}
+    magic {magija}
+    planets {planeta}
+    species {rūšis}
+    technologies {technologija}
     families {šeima}
     jobs {darbas}
     lore {legendos}

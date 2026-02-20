@@ -48,8 +48,8 @@
         "content": "Spravujte své osobní údaje, preference a nastavení účtu."
       },
       "workshop": {
-        "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "title": "Dílna",
+        "content": "Váš tvůrčí prostor pro psaní, úpravy a správu příběhů a vesmírů."
       },
       "library": {
         "title": "Vaše knihovna",
@@ -68,11 +68,11 @@
       "title": "Ready to Explore?",
       "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
     },
-    "writerActionButton": "Go to Workshop",
+    "writerActionButton": "Jít do dílny",
     "readerActionButton": "Přejít na Objevování"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Vítejte v dílně",
     "welcome": {
       "title": "Welcome to Literary Universe Workshop",
       "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
@@ -98,7 +98,7 @@
       "content": "Fan fikce umožňuje psát příběhy ve vesmírech vytvořených jinými autory. Chcete-li vytvořit fan fikci, musíte si nejprve přidat vesmír do své knihovny. Budete mít přístup k encyklopedii a komunitním funkcím vesmíru, ale nebudete mít oprávnění k zápisu do původního vesmíru. Fan fikce má také omezení, jako je například nemožnost zpeněžení."
     },
     "collaborative": {
-      "title": "Collaborative Works",
+      "title": "Společné práce",
       "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
     },
     "translations": {
@@ -106,7 +106,7 @@
       "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
     },
     "betaReadings": {
-      "title": "Beta Readings",
+      "title": "Beta čtení",
       "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
     },
     "theWayFinish": {
@@ -146,7 +146,7 @@
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Dílna literárního světa",
     "welcome": {
       "title": "Welcome to Your Universe Workshop!",
       "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
@@ -401,7 +401,7 @@
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Nyní znáte základy! Vraťte se do dílny a pokračujte v budování Vašeho literárního světa nebo začněte přidávat záznamy do encyklopedie. Šťastné psaní!"
     }
   },
   "betaReader": {

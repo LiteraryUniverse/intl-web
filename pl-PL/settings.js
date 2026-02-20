@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Gatunki, których należy unikać',
     'settings.notifications': 'Powiadomienia i biuletyny',
     'settings.kindleEmail': 'Państwa e-mail Kindle',
-    'settings.kindleEmail.explained': 'Jeśli mają Państwo ustawioną tę opcję, w miarę możliwości będziemy oferować możliwość wysyłania historii na Państwa Kindle za pomocą jednego kliknięcia. Adres e-mail Kindle można znaleźć w ustawieniach Amazon w zakładce Content & Devices -> Devices -> proszę wybrać Kindle, aby wyświetlić jego szczegóły i tam znaleźć adres e-mail.'
+    'settings.kindleEmail.explained': 'Jeśli mają Państwo ustawioną tę opcję, w miarę możliwości będziemy oferować możliwość wysyłania historii na Państwa Kindle za pomocą jednego kliknięcia. Adres e-mail Kindle można znaleźć w ustawieniach Amazon w zakładce Content & Devices -> Devices -> proszę wybrać Kindle, aby wyświetlić jego szczegóły i tam znaleźć adres e-mail.',
+    'settings.tracking.title': 'Śledzenie i statystyki',
+    'settings.tracking.description': 'Śledzenie czasu czytania i pisania pozwala uzyskać szczegółowe statystyki dotyczące nawyków czytania i postępów w pisaniu. Statystyki te można przeglądać w bibliotece i warsztacie.',
+    'settings.tracking.reading.title': 'Czas czytania',
+    'settings.tracking.reading.description': 'Proszę śledzić czas spędzony na czytaniu opowiadań i rozdziałów. Dane te pomagają zrozumieć Państwa nawyki czytelnicze i są anonimowo udostępniane autorom opowiadań, aby pokazać im, jak bardzo czytelnicy są zaangażowani w ich pracę.',
+    'settings.tracking.writing.title': 'Czas pisania',
+    'settings.tracking.writing.description': 'Śledzenie czasu spędzonego na pisaniu opowiadań, rozdziałów i wpisów do encyklopedii. Obejmuje to szczegółowe dane, takie jak aktywność pisania, liczba słów i wzorce czasu w ciągu dnia.',
+    'settings.tracking.trackWritingTime': 'Śledzenie czasu pisania',
+    'settings.tracking.trackReadingTime': 'Śledzenie czasu odczytu'
 };

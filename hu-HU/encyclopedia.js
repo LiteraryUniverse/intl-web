@@ -52,24 +52,24 @@ export default {
     'encyclopedia.add.title': 'Új bejegyzés hozzáadása az enciklopédiához',
     'encyclopedia.add.heading': 'Mit szeretne hozzáadni?',
     'encyclopedia.add.moresoon': 'További kategóriák hamarosan.',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Create new {category, select,
+    character {karakter}
+    event {esemény}
+    group {csoport}
+    item {tárgy}
+    location {helyszín}
+    other {jegyzet}
+    state {állam}
+    governments {kormány}
+    languages {nyelv}
+    creatures {teremtmény}
+    deity {istenség}
+    religions {vallás}
+    flora {növényvilág}
+    magic {mágia}
+    planets {bolygó}
+    species {faj}
+    technologies {technológia}
     families {család}
     jobs {munka}
     lore {mondavilág}
@@ -87,7 +87,7 @@ export default {
     cities {városok}
     settlements {település}
     countries {ország}
-  }~`,
+  } ~`,
     'encyclopedia.create.header': `Új létrehozás {category, select,
     character {karakter}
     event {esemény}

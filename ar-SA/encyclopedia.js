@@ -52,24 +52,24 @@ export default {
     'encyclopedia.add.title': 'إضافة إدخال جديد إلى الموسوعة',
     'encyclopedia.add.heading': 'ما الذي ترغب في إضافته؟',
     'encyclopedia.add.moresoon': 'المزيد من التصنيفات قادمة قريبًا!',
-    'encyclopedia.create': `قم بإنشاء جديد {category, select,
+    'encyclopedia.create': `إنشاء جديد {category, select,
     character {شخصية}
     event {حدث ~ ~ حدث}
-    group {مجموعة}
-    item {~ عنصر}
+    group {مجموعة ~ ~ مجموعة}
+    item {عنصر ~ ~ عنصر}
     location {الموقع}
     other {ملاحظة}
     state {الدولة}
     governments {الحكومة ~ ~ الحكومة}
     languages {اللغة}
-    creatures {~ مخلوق}
-    deity {إله}
-    religions {الدين}
-    flora {النباتات ~ ~ النباتات}
-    magic {السحر}
-    planets {الكوكب}
-    species {النوع}
-    technologies {التكنولوجيا}
+    creatures {مخلوق}
+    deity {إله ~ ~ إله}
+    religions {دين}
+    flora {نباتات}
+    magic {سحر}
+    planets {كوكب}
+    species {نوع}
+    technologies {تكنولوجيا}
     families {عائلة}
     jobs {وظيفة ~ ~ وظيفة}
     lore {تقاليد ~ تقاليد}
@@ -87,7 +87,7 @@ export default {
     cities {مدن}
     settlements {مستوطنة}
     countries {بلد}
-  }~`,
+  } ~`,
     'encyclopedia.create.header': `إنشاء جديد {category, select,
     character {شخصية}
     event {~ حدث}

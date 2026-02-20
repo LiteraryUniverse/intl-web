@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Žanrid, mida tuleks vältida',
     'settings.notifications': 'Teated ja uudiskirjad',
     'settings.kindleEmail': 'Teie Kindle e-kiri',
-    'settings.kindleEmail.explained': 'Kui teil on see seadistus olemas, siis pakume võimaluse korral võimalust saata lugusid oma Kindle\'ile ühe klõpsuga. Oma Kindle\'i e-posti aadressi leiate Amazoni seadetest jaotisest Sisu ja seadmed -> Seadmed -> valige oma Kindle, et vaadata selle andmeid ja sealt leiate e-posti aadressi.'
+    'settings.kindleEmail.explained': 'Kui teil on see seadistus olemas, siis pakume võimaluse korral võimalust saata lugusid oma Kindle\'ile ühe klõpsuga. Oma Kindle\'i e-posti aadressi leiate Amazoni seadetest jaotisest Sisu ja seadmed -> Seadmed -> valige oma Kindle, et vaadata selle andmeid ja sealt leiate e-posti aadressi.',
+    'settings.tracking.title': 'Jälgimine ja statistika',
+    'settings.tracking.description': 'Jälgige oma lugemis- ja kirjutamisaega, et saada üksikasjalikku statistikat oma lugemisharjumuste ja kirjutamise edusammude kohta. Seda statistikat saate vaadata oma raamatukogus ja töötoas.',
+    'settings.tracking.reading.title': 'Lugemisaeg',
+    'settings.tracking.reading.description': 'Jälgige lugude ja peatükkide lugemisele kulunud aega. Need andmed aitavad teil mõista oma lugemisharjumusi ja neid jagatakse anonüümselt lugude autoritele, et näidata neile, kuidas lugejad on nende teosega seotud.',
+    'settings.tracking.writing.title': 'Kirjutamise aeg',
+    'settings.tracking.writing.description': 'Jälgige lugude, peatükkide ja entsüklopeediakirjelduste kirjutamiseks kulunud aega. See hõlmab üksikasjalikke näitajaid, nagu kirjutamisaktiivsus, sõnade arv ja kellaaegade mustrid.',
+    'settings.tracking.trackWritingTime': 'Jälgi kirjutamise aega',
+    'settings.tracking.trackReadingTime': 'Jälgi lugemisaega'
 };

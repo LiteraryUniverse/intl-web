@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genres to avoid',
     'settings.notifications': 'הודעות וניוזלטרים',
     'settings.kindleEmail': 'כתובת הדוא"ל של Kindle שלך',
-    'settings.kindleEmail.explained': 'אם יש לך את ההגדרה הזו, אז במידת האפשר נציע לך את האפשרות לשלוח סיפורים ל-Kindle שלך בלחיצה אחת. תוכל למצוא את כתובת הדוא"ל של ה-Kindle שלך בהגדרות Amazon תחת תוכן ומכשירים -> מכשירים -> בחר את ה-Kindle שלך כדי להציג את פרטיו, ושם תמצא את כתובת הדוא"ל.'
+    'settings.kindleEmail.explained': 'אם יש לך את ההגדרה הזו, אז במידת האפשר נציע לך את האפשרות לשלוח סיפורים ל-Kindle שלך בלחיצה אחת. תוכל למצוא את כתובת הדוא"ל של ה-Kindle שלך בהגדרות Amazon תחת תוכן ומכשירים -> מכשירים -> בחר את ה-Kindle שלך כדי להציג את פרטיו, ושם תמצא את כתובת הדוא"ל.',
+    'settings.tracking.title': 'מעקב וסטטיסטיקה',
+    'settings.tracking.description': 'עקבו אחר זמן הקריאה והכתיבה שלכם כדי לקבל נתונים סטטיסטיים מפורטים על הרגלי הקריאה והתקדמות הכתיבה שלכם. תוכלו לצפות בנתונים סטטיסטיים אלה בספרייה ובסדנה שלכם.',
+    'settings.tracking.reading.title': 'זמן קריאה',
+    'settings.tracking.reading.description': 'עקבו אחר הזמן שהוקדש לקריאת סיפורים ופרקים. נתונים אלה עוזרים לכם להבין את הרגלי הקריאה שלכם ומועברים באופן אנונימי לסופרי הסיפורים כדי להראות להם עד כמה הקוראים מעורבים ביצירתם.',
+    'settings.tracking.writing.title': 'זמן כתיבה',
+    'settings.tracking.writing.description': 'עקבו אחר הזמן שהוקדש לכתיבת סיפורים, פרקים וערכים באנציקלופדיה. זה כולל מדדים מפורטים כמו פעילות הקלדה, ספירת מילים ודפוסי זמן ביום.',
+    'settings.tracking.trackWritingTime': 'מעקב אחר זמן הכתיבה',
+    'settings.tracking.trackReadingTime': 'מעקב אחר זמן הקריאה'
 };

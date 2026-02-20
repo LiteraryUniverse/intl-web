@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'ఎన్సైక్లోపీడియాకు కొత్త ఎంట్రీని జోడించండి',
     'encyclopedia.add.heading': 'మీరు ఏమి జోడించాలనుకుంటున్నారు?',
     'encyclopedia.add.moresoon': 'మరెన్నెంపులు త్వరలో రావు!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}

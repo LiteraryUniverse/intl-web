@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'વિજ્ઞાનકોશમાં નવી એન્ટ્રી ઉમેરો',
     'encyclopedia.add.heading': 'શું ઉમેરવા માંગો છો?',
     'encyclopedia.add.moresoon': 'વધુ કેટેગરીઓ આવતી આવશે!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}

@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Statistiky kapitoly',
     'stats.readers.title': 'O vašich čtenáři',
     'stats.gender.title': 'Pohlaví',
+    'stats.gender': '{gender, select, male {Muž} female {Žena} unknown {Neznámý} other {Neznámý}}.',
     'stats.view.table': 'Tabulkový pohled',
     'stats.view.pie': 'Pie graf pohled',
     'stats.view.bar': 'Sloupový graf pohled',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Nejlepší věková skupina',
     'workshop.theWay.overallStats.genres': 'Vaše žánry',
     'stats.title': '{name} - Statistiky',
-    'stats.totalCharacters': 'Celkový počet znaků'
+    'stats.totalCharacters': 'Celkový počet znaků',
+    'stats.totalReadingTime': 'Celková doba čtení',
+    'stats.totalReadingTime.description': 'Souhrnný čas všech čtenářů strávený nad tímto příběhem',
+    'stats.averageReadingTime': 'Průměrná doba čtení',
+    'stats.averageReadingTime.description': 'Průměrný čas na čtenáře'
 };

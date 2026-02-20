@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Géneros que debe evitar',
     'settings.notifications': 'Notificaciones y boletines',
     'settings.kindleEmail': 'Su correo electrónico Kindle',
-    'settings.kindleEmail.explained': 'Si lo tiene configurado, le ofreceremos, en la medida de lo posible, la opción de enviar historias a su Kindle con un solo clic. Puede encontrar la dirección de correo electrónico de su Kindle en su configuración de Amazon, en Contenido y dispositivos -> Dispositivos -> seleccione su Kindle para ver sus detalles y allí encontrará el correo electrónico en la lista.'
+    'settings.kindleEmail.explained': 'Si lo tiene configurado, le ofreceremos, en la medida de lo posible, la opción de enviar historias a su Kindle con un solo clic. Puede encontrar la dirección de correo electrónico de su Kindle en su configuración de Amazon, en Contenido y dispositivos -> Dispositivos -> seleccione su Kindle para ver sus detalles y allí encontrará el correo electrónico en la lista.',
+    'settings.tracking.title': 'Seguimiento y estadísticas',
+    'settings.tracking.description': 'Realice un seguimiento de su tiempo de lectura y escritura para obtener estadísticas detalladas sobre sus hábitos de lectura y su progreso en la escritura. Puede consultar estas estadísticas en su biblioteca y taller.',
+    'settings.tracking.reading.title': 'Tiempo de lectura',
+    'settings.tracking.reading.description': 'Realice un seguimiento del tiempo dedicado a la lectura de historias y capítulos. Estos datos le ayudan a comprender sus hábitos de lectura y se comparten de forma anónima con los autores de las historias para mostrarles el grado de compromiso de los lectores con su obra.',
+    'settings.tracking.writing.title': 'Tiempo de escritura',
+    'settings.tracking.writing.description': 'Realice un seguimiento del tiempo dedicado a escribir relatos, capítulos y entradas de enciclopedia. Incluye métricas detalladas como la actividad de mecanografía, el recuento de palabras y los patrones horarios.',
+    'settings.tracking.trackWritingTime': 'Seguimiento del tiempo de escritura',
+    'settings.tracking.trackReadingTime': 'Seguimiento del tiempo de lectura'
 };

@@ -198,5 +198,13 @@ export default {
     'settings.interests.avoidGenres': 'Gêneros a serem evitados',
     'settings.notifications': 'Notificações e boletins informativos',
     'settings.kindleEmail': 'Seu e-mail do Kindle',
-    'settings.kindleEmail.explained': 'Se o senhor tiver essa configuração, sempre que possível, ofereceremos a opção de enviar histórias para o Kindle com um clique. O senhor pode encontrar o endereço de e-mail do Kindle nas configurações da Amazon em Content & Devices -> Devices -> selecione o Kindle para ver os detalhes e lá encontrará o e-mail listado.'
+    'settings.kindleEmail.explained': 'Se o senhor tiver essa configuração, sempre que possível, ofereceremos a opção de enviar histórias para o Kindle com um clique. O senhor pode encontrar o endereço de e-mail do Kindle nas configurações da Amazon em Content & Devices -> Devices -> selecione o Kindle para ver os detalhes e lá encontrará o e-mail listado.',
+    'settings.tracking.title': 'Rastreamento e estatísticas',
+    'settings.tracking.description': 'Acompanhe seu tempo de leitura e escrita para obter estatísticas detalhadas sobre seus hábitos de leitura e progresso na escrita. O senhor pode visualizar essas estatísticas em sua biblioteca e oficina.',
+    'settings.tracking.reading.title': 'Tempo de leitura',
+    'settings.tracking.reading.description': 'Acompanhe o tempo gasto na leitura de histórias e capítulos. Esses dados ajudam o senhor a entender seus hábitos de leitura e são compartilhados anonimamente com os autores de histórias para mostrar a eles o quanto os leitores estão envolvidos com seu trabalho.',
+    'settings.tracking.writing.title': 'Tempo de escrita',
+    'settings.tracking.writing.description': 'Acompanhe o tempo gasto escrevendo histórias, capítulos e verbetes de enciclopédia. Isso inclui métricas detalhadas, como atividade de digitação, contagem de palavras e padrões de horário do dia.',
+    'settings.tracking.trackWritingTime': 'Controle o tempo de escrita',
+    'settings.tracking.trackReadingTime': 'Acompanhar o tempo de leitura'
 };

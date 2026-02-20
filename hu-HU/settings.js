@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Kerülendő műfajok',
     'settings.notifications': 'Értesítések és hírlevelek',
     'settings.kindleEmail': 'Az Ön Kindle e-mail címe',
-    'settings.kindleEmail.explained': 'Ha ez a beállítás megvan, akkor lehetőség szerint felajánljuk Önnek, hogy a történeteket egyetlen kattintással elküldheti a Kindle készülékére. A Kindle e-mail címét az Amazon beállításaiban a Tartalom és eszközök -> Eszközök -> Eszközök -> válassza ki a Kindle-t a részletek megtekintéséhez, és ott találja az e-mail címét.'
+    'settings.kindleEmail.explained': 'Ha ez a beállítás megvan, akkor lehetőség szerint felajánljuk Önnek, hogy a történeteket egyetlen kattintással elküldheti a Kindle készülékére. A Kindle e-mail címét az Amazon beállításaiban a Tartalom és eszközök -> Eszközök -> Eszközök -> válassza ki a Kindle-t a részletek megtekintéséhez, és ott találja az e-mail címét.',
+    'settings.tracking.title': 'Nyomon követés és statisztikák',
+    'settings.tracking.description': 'Nyomon követheti olvasási és írási idejét, hogy részletes statisztikákat kapjon olvasási szokásairól és az írásbeli fejlődéséről. Ezeket a statisztikákat a könyvtárban és a műhelyben is megtekintheti.',
+    'settings.tracking.reading.title': 'Olvasási idő',
+    'settings.tracking.reading.description': 'Nyomon követheti a történetek és fejezetek olvasásával töltött időt. Ezek az adatok segítenek megérteni az olvasási szokásokat, és névtelenül megosztjuk őket a történetek szerzőivel, hogy megmutassuk nekik, mennyire elkötelezettek az olvasók a műveik iránt.',
+    'settings.tracking.writing.title': 'Írás ideje',
+    'settings.tracking.writing.description': 'Nyomon követheti a történetek, fejezetek és lexikonbejegyzések írására fordított időt. Ez olyan részletes mérőszámokat tartalmaz, mint a gépelési tevékenység, a szószámok és a napszakok mintái.',
+    'settings.tracking.trackWritingTime': 'Kövesse nyomon az írási időt',
+    'settings.tracking.trackReadingTime': 'Kövesse nyomon az olvasási időt'
 };

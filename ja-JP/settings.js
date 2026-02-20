@@ -198,5 +198,13 @@ export default {
     'settings.interests.avoidGenres': '避けるべきジャンル',
     'settings.notifications': 'お知らせとニュースレター',
     'settings.kindleEmail': 'Kindleメール',
-    'settings.kindleEmail.explained': 'この設定がある場合、可能な限り、ワンクリックでKindleにストーリーを送信するオプションを提供します。Kindleのメールアドレスは、アマゾンの設定の「コンテンツとデバイス」→「デバイス」→「Kindleを選択して詳細を表示」で見つけることができます。'
+    'settings.kindleEmail.explained': 'この設定がある場合、可能な限り、ワンクリックでKindleにストーリーを送信するオプションを提供します。Kindleのメールアドレスは、アマゾンの設定の「コンテンツとデバイス」→「デバイス」→「Kindleを選択して詳細を表示」で見つけることができます。',
+    'settings.tracking.title': 'トラッキングと統計',
+    'settings.tracking.description': '読書時間や作文時間を記録して、読書習慣や作文の上達度について詳細な統計を取ることができます。これらの統計は、図書館やワークショップで見ることができます。',
+    'settings.tracking.reading.title': '読書時間',
+    'settings.tracking.reading.description': 'ストーリーやチャプターの読書時間を記録します。このデータは、あなたの読書習慣を理解するのに役立ち、ストーリーの作者と匿名で共有され、読者が自分の作品にどれだけ夢中になっているかを示します。',
+    'settings.tracking.writing.title': '執筆時間',
+    'settings.tracking.writing.description': 'ストーリー、章、百科事典のエントリを書くのに費やした時間を追跡します。これには、タイピングアクティビティ、単語数、時間帯パターンなどの詳細なメトリクスが含まれます。',
+    'settings.tracking.trackWritingTime': '執筆時間の記録',
+    'settings.tracking.trackReadingTime': '読書時間の記録'
 };

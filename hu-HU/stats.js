@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Fejezet statisztika',
     'stats.readers.title': 'Az olvasóidról',
     'stats.gender.title': 'Nem',
+    'stats.gender': '{gender, select, male {Férfi} female {Nő} unknown {Ismeretlen} other {Ismeretlen}}',
     'stats.view.table': 'Táblázat nézet',
     'stats.view.pie': 'Kördiagram nézet',
     'stats.view.bar': 'Oszlopdiagram nézet',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Legjobb korcsoport',
     'workshop.theWay.overallStats.genres': 'Az Ön műfajai',
     'stats.title': '{name} - Statisztikák',
-    'stats.totalCharacters': 'Összes karakter'
+    'stats.totalCharacters': 'Összes karakter',
+    'stats.totalReadingTime': 'Teljes olvasási idő',
+    'stats.totalReadingTime.description': 'Az összes olvasó által a történetre fordított összesített idő',
+    'stats.averageReadingTime': 'Átlagos olvasási idő',
+    'stats.averageReadingTime.description': 'Átlagos idő olvasónként'
 };

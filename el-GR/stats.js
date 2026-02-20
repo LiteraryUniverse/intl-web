@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Στατιστικά στοιχεία κεφαλαίου',
     'stats.readers.title': 'Σχετικά με τους αναγνώστες σας',
     'stats.gender.title': 'Φύλο',
+    'stats.gender': '{gender, select, male {Άνδρας} female {Γυναίκα} unknown {Άγνωστος} other {Άγνωστος}}',
     'stats.view.table': 'Προβολή σε μορφή πίνακα',
     'stats.view.pie': 'Προβολή σε μορφή διαγράμματος πίτας',
     'stats.view.bar': 'Προβολή σε μορφή διαγράμματος γραμμής',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Κορυφαία ηλικιακή ομάδα',
     'workshop.theWay.overallStats.genres': 'Τα είδη σας',
     'stats.title': '{name} - Στατιστικά στοιχεία',
-    'stats.totalCharacters': 'Σύνολο χαρακτήρων'
+    'stats.totalCharacters': 'Σύνολο χαρακτήρων',
+    'stats.totalReadingTime': 'Συνολικός χρόνος ανάγνωσης',
+    'stats.totalReadingTime.description': 'Συνδυασμένος χρόνος που όλοι οι αναγνώστες ξόδεψαν σε αυτή την ιστορία',
+    'stats.averageReadingTime': 'Μέσος χρόνος ανάγνωσης',
+    'stats.averageReadingTime.description': 'Μέσος χρόνος ανά αναγνώστη'
 };

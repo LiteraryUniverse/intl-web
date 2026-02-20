@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genrer, der skal undgås',
     'settings.notifications': 'Meddelelser og nyhedsbreve',
     'settings.kindleEmail': 'Din Kindle e-mail',
-    'settings.kindleEmail.explained': 'Hvis du har indstillet dette, vil vi så vidt muligt tilbyde dig muligheden for at sende historier til din Kindle med et enkelt klik. Du kan finde din Kindle-e-mailadresse i dine Amazon-indstillinger under Indhold og enheder -> Enheder -> vælg din Kindle for at se dens detaljer, og der vil du finde e-mailen angivet.'
+    'settings.kindleEmail.explained': 'Hvis du har indstillet dette, vil vi så vidt muligt tilbyde dig muligheden for at sende historier til din Kindle med et enkelt klik. Du kan finde din Kindle-e-mailadresse i dine Amazon-indstillinger under Indhold og enheder -> Enheder -> vælg din Kindle for at se dens detaljer, og der vil du finde e-mailen angivet.',
+    'settings.tracking.title': 'Sporing og statistik',
+    'settings.tracking.description': 'Spor din læse- og skrivetid for at få detaljerede statistikker over dine læsevaner og skrivefremskridt. Du kan se disse statistikker på dit bibliotek og i dit værksted.',
+    'settings.tracking.reading.title': 'Læsetid',
+    'settings.tracking.reading.description': 'Spor den tid, du bruger på at læse historier og kapitler. Disse data hjælper dig med at forstå dine læsevaner og deles anonymt med historiens forfattere for at vise dem, hvor engagerede læserne er i deres arbejde.',
+    'settings.tracking.writing.title': 'Tid til at skrive',
+    'settings.tracking.writing.description': 'Spor den tid, du bruger på at skrive historier, kapitler og leksikonartikler. Dette inkluderer detaljerede målinger som skriveaktivitet, antal ord og mønstre for tid på dagen.',
+    'settings.tracking.trackWritingTime': 'Spor skrivetid',
+    'settings.tracking.trackReadingTime': 'Spor læsetid'
 };

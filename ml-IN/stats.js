@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'അദ്ധ്യായ സ്റ്റാറ്റിസ്റ്റികൾ',
     'stats.readers.title': 'നിങ്ങളുടെ റീഡേഴ്‌സിനെ പറ്റി',
     'stats.gender.title': 'ലിംഗം',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'പട്ടിക കാണുക',
     'stats.view.pie': 'പൈ ചാർട്ട് കാണുക',
     'stats.view.bar': 'ബാർ ചാർട്ട് കാണുക',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };

@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Añade una nueva entrada a la enciclopedia',
     'encyclopedia.add.heading': '¿Qué quieres añadir?',
     'encyclopedia.add.moresoon': '¡Más categorías en breve!',
-    'encyclopedia.create': `Crear un nuevo {category, select,
+    'encyclopedia.create': `Crear nuevo {category, select,
     character {personaje}
     event {evento}
     group {grupo}

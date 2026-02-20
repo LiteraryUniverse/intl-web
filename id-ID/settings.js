@@ -200,5 +200,13 @@ export default {
     'settings.interests.avoidGenres': 'Genre yang harus dihindari',
     'settings.notifications': 'Pemberitahuan & buletin',
     'settings.kindleEmail': 'Email Kindle Anda',
-    'settings.kindleEmail.explained': 'Jika Anda memiliki set ini, maka jika memungkinkan, kami akan menawarkan opsi untuk mengirim cerita ke Kindle Anda dengan satu klik. Anda dapat menemukan alamat email Kindle Anda di pengaturan Amazon Anda di bawah Konten & Perangkat -> Perangkat -> pilih Kindle Anda untuk melihat detailnya dan di sana Anda akan menemukan email yang tercantum.'
+    'settings.kindleEmail.explained': 'Jika Anda memiliki set ini, maka jika memungkinkan, kami akan menawarkan opsi untuk mengirim cerita ke Kindle Anda dengan satu klik. Anda dapat menemukan alamat email Kindle Anda di pengaturan Amazon Anda di bawah Konten & Perangkat -> Perangkat -> pilih Kindle Anda untuk melihat detailnya dan di sana Anda akan menemukan email yang tercantum.',
+    'settings.tracking.title': 'Pelacakan & Statistik',
+    'settings.tracking.description': 'Lacak waktu membaca dan menulis Anda untuk mendapatkan statistik terperinci tentang kebiasaan membaca dan kemajuan menulis Anda. Anda dapat melihat statistik ini di perpustakaan dan ruang kerja Anda.',
+    'settings.tracking.reading.title': 'Waktu Baca',
+    'settings.tracking.reading.description': 'Melacak waktu yang dihabiskan untuk membaca cerita dan bab. Data ini membantu Anda memahami kebiasaan membaca Anda dan dibagikan secara anonim kepada penulis cerita untuk menunjukkan kepada mereka seberapa besar keterlibatan pembaca dengan karya mereka.',
+    'settings.tracking.writing.title': 'Waktu Menulis',
+    'settings.tracking.writing.description': 'Melacak waktu yang dihabiskan untuk menulis cerita, bab, dan entri ensiklopedia. Ini termasuk metrik terperinci seperti aktivitas mengetik, jumlah kata, dan pola waktu dalam sehari.',
+    'settings.tracking.trackWritingTime': 'Melacak waktu penulisan',
+    'settings.tracking.trackReadingTime': 'Melacak waktu membaca'
 };

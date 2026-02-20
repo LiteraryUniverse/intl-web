@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'བཅུ་ཚོད་གི་དོན་ཚན།',
     'stats.readers.title': 'ཁྱེད་རང་གི་རྩོམ་པ།',
     'stats.gender.title': 'ཕོགས་པ།',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'བརྡ་ཚད་སྒྲིག་པ།',
     'stats.view.pie': 'གནས་ཁོང་སྒྲིག་པ།',
     'stats.view.bar': 'བརྡ་ཁོང་སྒྲིག་པ།',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };

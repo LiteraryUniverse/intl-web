@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Legg til en ny oppføring i encyklopedien',
     'encyclopedia.add.heading': 'Hva ønsker du å legge til?',
     'encyclopedia.add.moresoon': 'Flere kategorier kommer snart!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}

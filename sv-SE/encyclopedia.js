@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Lägg till en ny post i encyklopedin',
     'encyclopedia.add.heading': 'Vad vill du lägga till?',
     'encyclopedia.add.moresoon': 'Fler kategorier kommer snart!',
-    'encyclopedia.create': `Skapa en ny {category, select,
+    'encyclopedia.create': `Skapa ny {category, select,
     character {karaktär}
     event {händelse}
     group {grupp}

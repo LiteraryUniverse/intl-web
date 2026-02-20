@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'Tambah entri baru ke dalam ensiklopedia',
     'encyclopedia.add.heading': 'Apakah yang ingin anda tambah?',
     'encyclopedia.add.moresoon': 'Lebih banyak kategori akan datang!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}

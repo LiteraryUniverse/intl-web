@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'અધ્યાય આંકડાશાસ્ત્રી',
     'stats.readers.title': 'તમારા વાંચકની વિશે',
     'stats.gender.title': 'જાતિ',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'ટેબલ દ્રશ્ય',
     'stats.view.pie': 'પાઈ ચાર્ટ દ્રશ્ય',
     'stats.view.bar': 'બાર ચાર્ટ દ્રશ્ય',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };

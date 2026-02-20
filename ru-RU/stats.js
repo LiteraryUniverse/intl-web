@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Статистика главы',
     'stats.readers.title': 'О ваших читателях',
     'stats.gender.title': 'Пол',
+    'stats.gender': '{gender, select, male {Мужской} female {Женский} unknown {Неизвестный} other {Неизвестный}}',
     'stats.view.table': 'В виде таблицы',
     'stats.view.pie': 'В виде круговой диаграммы',
     'stats.view.bar': 'В виде гистограммы',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Лучшая возрастная группа',
     'workshop.theWay.overallStats.genres': 'Ваши жанры',
     'stats.title': '{name} - Статистика',
-    'stats.totalCharacters': 'Всего персонажей'
+    'stats.totalCharacters': 'Всего персонажей',
+    'stats.totalReadingTime': 'Общее время чтения',
+    'stats.totalReadingTime.description': 'Суммарное время, потраченное всеми читателями на эту историю',
+    'stats.averageReadingTime': 'Среднее время чтения',
+    'stats.averageReadingTime.description': 'Среднее время на одного читателя'
 };

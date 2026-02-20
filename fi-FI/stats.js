@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Luvut kappaleittain',
     'stats.readers.title': 'Lukijoistasi',
     'stats.gender.title': 'Sukupuoli',
+    'stats.gender': '{gender, select, male {Mies} female {Nainen} unknown {Tuntematon} other {Tuntematon}}',
     'stats.view.table': 'Taulukkonäkymä',
     'stats.view.pie': 'Ympyräkaavionäkymä',
     'stats.view.bar': 'Pylväskaavionäkymä',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Paras ikäryhmä',
     'workshop.theWay.overallStats.genres': 'Genres',
     'stats.title': '{name} - Tilastot',
-    'stats.totalCharacters': 'Merkkejä yhteensä'
+    'stats.totalCharacters': 'Merkkejä yhteensä',
+    'stats.totalReadingTime': 'Kokonaislukuaika',
+    'stats.totalReadingTime.description': 'Kaikkien lukijoiden tähän tarinaan käyttämä yhteenlaskettu aika',
+    'stats.averageReadingTime': 'Keskimääräinen lukuaika',
+    'stats.averageReadingTime.description': 'Keskimääräinen aika lukijaa kohti'
 };

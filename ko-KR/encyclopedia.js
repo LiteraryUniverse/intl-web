@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': '백과사전에 새 항목 추가',
     'encyclopedia.add.heading': '무엇을 추가하시겠습니까?',
     'encyclopedia.add.moresoon': '추가 카테고리가 곧 제공됩니다!',
-    'encyclopedia.create': `새로 만들기 {category, select,
+    'encyclopedia.create': `신규 생성 {category, select,
     character {캐릭터}
     event {이벤트}
     group {그룹}

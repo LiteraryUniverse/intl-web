@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': '章節統計',
     'stats.readers.title': '關於您的讀者',
     'stats.gender.title': '性別',
+    'stats.gender': '{gender, select, male {男性} female {女性} unknown {未知} other {未知}}',
     'stats.view.table': '表格視圖',
     'stats.view.pie': '圓餅圖視圖',
     'stats.view.bar': '長條圖視圖',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': '最高年齡組別',
     'workshop.theWay.overallStats.genres': '您的類型',
     'stats.title': '{name} - 統計資料',
-    'stats.totalCharacters': '總字元'
+    'stats.totalCharacters': '總字元',
+    'stats.totalReadingTime': '總閱讀時間',
+    'stats.totalReadingTime.description': '所有讀者花在這個故事上的時間總和',
+    'stats.averageReadingTime': '平均閱讀時間',
+    'stats.averageReadingTime.description': '每位讀者的平均時間'
 };

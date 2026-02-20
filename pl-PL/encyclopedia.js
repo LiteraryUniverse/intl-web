@@ -54,24 +54,24 @@ export default {
     'encyclopedia.add.title': 'Dodaj nowy wpis do encyklopedii',
     'encyclopedia.add.heading': 'Co chciałbyś dodać?',
     'encyclopedia.add.moresoon': 'Więcej kategorii już wkrótce!',
-    'encyclopedia.create': `Utwórz nową {category, select,
-    character {postać}
-    event {wydarzenie}
-    group {grupę}
-    item {przedmiot}
-    location {lokalizację}
-    other {notatkę}
-    state {stan}
-    governments {rząd}
-    languages {język}
-    creatures {stworzenie}
-    deity {bóstwo}
-    religions {religia}
+    'encyclopedia.create': `Create new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
     flora {flora}
-    magic {magia}
-    planets {planeta}
-    species {gatunek}
-    technologies {technologia}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
     families {family}
     jobs {job}
     lore {lore}

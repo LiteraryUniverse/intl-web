@@ -52,7 +52,7 @@ export default {
     'encyclopedia.add.title': 'എൻസൈക്ലോപീഡിയയിലേക്ക് ഒരു പുതിയ പ്രവേശനം ചേർക്കുക',
     'encyclopedia.add.heading': 'നിങ്ങൾ എന്താണ് ചേർക്കാൻ ആഗ്രഹിക്കുന്നത്?',
     'encyclopedia.add.moresoon': 'കൂടുതൽ വിഭാഗങ്ങൾ വേണമെങ്കിൽ വരികളുംകൂടി വരിക്കുന്നു!',
-    'encyclopedia.create': `Create a new {category, select,
+    'encyclopedia.create': `Create new {category, select,
     character {character}
     event {event}
     group {group}

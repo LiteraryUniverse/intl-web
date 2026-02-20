@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'إحصائيات الفصول',
     'stats.readers.title': 'حول قرائك',
     'stats.gender.title': 'الجنس',
+    'stats.gender': '{gender, select, male {ذكر} female {أنثى ~ أنثى} unknown {غير معروف} other {غير معروف}}',
     'stats.view.table': 'عرض الجدول',
     'stats.view.pie': 'عرض الدائرة الدائري',
     'stats.view.bar': 'عرض الرسم البياني الشريطي',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'الفئة العمرية الأعلى',
     'workshop.theWay.overallStats.genres': 'الأنواع الخاصة بك',
     'stats.title': '{name} - الإحصائيات',
-    'stats.totalCharacters': 'مجموع الشخصيات'
+    'stats.totalCharacters': 'مجموع الشخصيات',
+    'stats.totalReadingTime': 'إجمالي وقت القراءة',
+    'stats.totalReadingTime.description': 'مجموع الوقت الذي قضاه جميع القراء في هذه القصة',
+    'stats.averageReadingTime': 'متوسط وقت القراءة',
+    'stats.averageReadingTime.description': 'متوسط الوقت المستغرق لكل قارئ'
 };
