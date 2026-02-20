@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Estadistika ng Kabanata',
     'stats.readers.title': 'Tungkol sa mga Mambabasa Mo',
     'stats.gender.title': 'Kasarian',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'Tingnan sa Pamamaraang Talahanayan',
     'stats.view.pie': 'Tingnan sa Pamamaraang Pie Chart',
     'stats.view.bar': 'Tingnan sa Pamamaraang Bar Chart',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };
