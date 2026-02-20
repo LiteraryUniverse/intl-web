@@ -65,4 +65,8 @@ export default {
 
   'stats.title': '{name} - Statistics',
   'stats.totalCharacters': 'Total Characters',
+  'stats.totalReadingTime': 'Total reading time',
+  'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+  'stats.averageReadingTime': 'Average reading time',
+  'stats.averageReadingTime.description': 'Average time per reader',
 }
