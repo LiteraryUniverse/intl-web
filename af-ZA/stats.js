@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Hoofstuk statistieke',
     'stats.readers.title': 'Oor jou lesers',
     'stats.gender.title': 'Geslag',
+    'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
     'stats.view.table': 'Tabel aansig',
     'stats.view.pie': 'Sirkeldiagram aansig',
     'stats.view.bar': 'Staafdiagram aansig',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
     'stats.title': '{name} - Statistics',
-    'stats.totalCharacters': 'Total Characters'
+    'stats.totalCharacters': 'Total Characters',
+    'stats.totalReadingTime': 'Total reading time',
+    'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
+    'stats.averageReadingTime': 'Average reading time',
+    'stats.averageReadingTime.description': 'Average time per reader'
 };
