@@ -14,6 +14,7 @@ export default {
     'stats.section.chapter': 'Bölüm istatistikleri',
     'stats.readers.title': 'Okuyucularınız hakkında',
     'stats.gender.title': 'Cinsiyet',
+    'stats.gender': '{gender, select, male {Erkek} female {Kadın} unknown {Bilinmiyor} other {Bilinmiyor}}',
     'stats.view.table': 'Tablo görünümü',
     'stats.view.pie': 'Pasta Grafiği görünümü',
     'stats.view.bar': 'Çubuk Grafiği görünümü',
@@ -61,5 +62,9 @@ export default {
     'workshop.theWay.overallStats.topAgeGroup': 'Üst Yaş Grubu',
     'workshop.theWay.overallStats.genres': 'Türleriniz',
     'stats.title': '{name} - İstatistikler',
-    'stats.totalCharacters': 'Toplam Karakter'
+    'stats.totalCharacters': 'Toplam Karakter',
+    'stats.totalReadingTime': 'Toplam okuma süresi',
+    'stats.totalReadingTime.description': 'Tüm okuyucuların bu hikaye için harcadığı toplam süre',
+    'stats.averageReadingTime': 'Ortalama okuma süresi',
+    'stats.averageReadingTime.description': 'Okuyucu başına ortalama süre'
 };
