@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'إجمالي وقت القراءة',
     'stats.totalReadingTime.description': 'مجموع الوقت الذي قضاه جميع القراء في هذه القصة',
     'stats.averageReadingTime': 'متوسط وقت القراءة',
-    'stats.averageReadingTime.description': 'متوسط الوقت المستغرق لكل قارئ'
+    'stats.averageReadingTime.description': 'متوسط الوقت المستغرق لكل قارئ',
+    'stats.readingHabits.title': 'عادات القارئ حسب الأسبوع',
+    'stats.readingHabits.sessions': 'جلسات القراءة',
+    'stats.readingHabits.averageSession': 'متوسط الجلسة',
+    'stats.readingHabits.peakDay': 'اليوم الأكثر نشاطاً',
+    'stats.readingHabits.peakHour': 'الساعة الأكثر نشاطاً',
+    'stats.readingHabits.profileSummary': 'القراءة في آخر {weeks, number} الأسابيع الأخيرة ~ :  ~ {sessions, number} جلسات، {duration} المجموع، الأكثر نشاطًا على {day} حول {hour}.'
 };
