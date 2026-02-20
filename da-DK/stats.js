@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Samlet læsetid',
     'stats.totalReadingTime.description': 'Kombineret tid, som alle læsere har brugt på denne historie',
     'stats.averageReadingTime': 'Gennemsnitlig læsetid',
-    'stats.averageReadingTime.description': 'Gennemsnitlig tid pr. læser'
+    'stats.averageReadingTime.description': 'Gennemsnitlig tid pr. læser',
+    'stats.readingHabits.title': 'Læsevaner pr. uge',
+    'stats.readingHabits.sessions': 'Læsning af sessioner',
+    'stats.readingHabits.averageSession': 'Gennemsnitlig session',
+    'stats.readingHabits.peakDay': 'Mest aktive dag',
+    'stats.readingHabits.peakHour': 'Mest aktive time',
+    'stats.readingHabits.profileSummary': 'Læsning i de sidste {weeks, number} uger: {sessions, number} sessioner, {duration} i alt, mest aktiv på {day} omkring {hour}.'
 };
