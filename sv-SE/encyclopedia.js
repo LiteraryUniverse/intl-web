@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Kopiering klar',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Skapa universum från mall',
     'encyclopedia.templateCreateUniverse.description': 'Skapa ett nytt universum med förinställt encyklopediskt innehåll från den här mallen. Ditt universum kommer att förbli opublicerat tills du bestämmer dig för att publicera det.',
-    'encyclopedia.templateCreateUniverse.success': 'Universum skapat framgångsrikt! Omdirigering...'
+    'encyclopedia.templateCreateUniverse.success': 'Universum skapat framgångsrikt! Omdirigering...',
+    'encyclopedia.pronunciation.audio.play': 'Spela uttal',
+    'encyclopedia.pronunciation.guide': 'Använd <ipaLink>IPA-notation</ipaLink> när det är möjligt. Web Speech API-uttal är bästa möjliga; se <webSpeechLink>MDN-dokument</webSpeechLink>.'
 };
