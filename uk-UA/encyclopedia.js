@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Копіювання завершено',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Створіть всесвіт з шаблону',
     'encyclopedia.templateCreateUniverse.description': 'Створіть новий всесвіт з попередньо завантаженим вмістом енциклопедії з цього шаблону. Ваш всесвіт залишатиметься неопублікованим, доки ви не вирішите його опублікувати.',
-    'encyclopedia.templateCreateUniverse.success': 'Всесвіт створено успішно! Перенаправлення...'
+    'encyclopedia.templateCreateUniverse.success': 'Всесвіт створено успішно! Перенаправлення...',
+    'encyclopedia.pronunciation.audio.play': 'Відтворити вимову',
+    'encyclopedia.pronunciation.guide': 'Використовуйте <ipaLink>нотацію IPA</ipaLink>, коли це можливо. Вимова Web Speech API є найкращою; див. <webSpeechLink>документацію MDN</webSpeechLink>.'
 };
