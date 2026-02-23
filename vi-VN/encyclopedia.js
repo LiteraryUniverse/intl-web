@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Hoàn thành sao chép',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Tạo vũ trụ từ mẫu',
     'encyclopedia.templateCreateUniverse.description': 'Tạo một vũ trụ mới với nội dung bách khoa toàn thư đã được cài đặt sẵn từ mẫu này. Vũ trụ của bạn sẽ vẫn chưa được xuất bản cho đến khi bạn quyết định xuất bản nó.',
-    'encyclopedia.templateCreateUniverse.success': 'Vũ trụ đã được tạo thành công! Đang chuyển hướng...'
+    'encyclopedia.templateCreateUniverse.success': 'Vũ trụ đã được tạo thành công! Đang chuyển hướng...',
+    'encyclopedia.pronunciation.audio.play': 'Phát âm',
+    'encyclopedia.pronunciation.guide': 'Sử dụng <ipaLink>ký hiệu IPA</ipaLink> khi có thể. Phát âm của Web Speech API là nỗ lực tốt nhất; xem <webSpeechLink>tài liệu MDN</webSpeechLink>.'
 };
