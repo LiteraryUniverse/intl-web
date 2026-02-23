@@ -395,6 +395,7 @@ export default {
     'workshop.timer.breakDuration.desc': 'Rest period between work sessions. Standard is 5 minutes for short breaks. Use 10-15 minutes for longer breaks that allow you to step away from your desk, stretch, or get a drink. Every 4th break is automatically longer (2-3x duration).',
     'workshop.llmstxt': 'AI Access',
     'workshop.llmstxt.blocked': 'Blocked - LLMs cannot access your content',
+    'workshop.llmstxt.limited': 'Korlátozott - az LLM-ek csak metaadatokhoz férhetnek hozzá.',
     'workshop.llmstxt.free': 'Free - LLMs can access your content for free',
     'workshop.llmstxt.paid': 'Paid - LLMs can access your content for a fee (coming soon)',
     'workshop.ai.llmstxt.generate': 'Generate LLMs.txt',

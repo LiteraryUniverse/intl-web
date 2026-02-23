@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Kogu lugemisaeg',
     'stats.totalReadingTime.description': 'Kõigi lugejate poolt sellele loole kulutatud aeg kokku',
     'stats.averageReadingTime': 'Keskmine lugemisaeg',
-    'stats.averageReadingTime.description': 'Keskmine aeg lugeja kohta'
+    'stats.averageReadingTime.description': 'Keskmine aeg lugeja kohta',
+    'stats.readingHabits.title': 'Lugejate harjumused nädala kaupa',
+    'stats.readingHabits.sessions': 'Lugemissessioonid',
+    'stats.readingHabits.averageSession': 'Keskmine seanss',
+    'stats.readingHabits.peakDay': 'Kõige aktiivsem päev',
+    'stats.readingHabits.peakHour': 'Kõige aktiivsem tund',
+    'stats.readingHabits.profileSummary': 'Lugemine viimaste {weeks, number} nädalate jooksul: {sessions, number} {duration} kokku, kõige aktiivsemalt {day} umbes {hour}.'
 };

@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Cópia concluída',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Criar universo a partir do modelo',
     'encyclopedia.templateCreateUniverse.description': 'Crie um novo universo com conteúdo de enciclopédia pré-configurado a partir deste modelo. Seu universo permanecerá inédito até que o senhor decida publicá-lo.',
-    'encyclopedia.templateCreateUniverse.success': 'Universo criado com sucesso! Redirecionando...'
+    'encyclopedia.templateCreateUniverse.success': 'Universo criado com sucesso! Redirecionando...',
+    'encyclopedia.pronunciation.audio.play': 'Reproduzir a pronúncia',
+    'encyclopedia.pronunciation.guide': 'Use <ipaLink>a notação IPA</ipaLink> sempre que possível. A pronúncia da Web Speech API é o melhor esforço; consulte <webSpeechLink>os documentos da MDN</webSpeechLink>.'
 };

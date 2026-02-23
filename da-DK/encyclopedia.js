@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Kopiering afsluttet',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Opret univers fra skabelon',
     'encyclopedia.templateCreateUniverse.description': 'Opret et nyt univers med forudinstalleret encyklopædiindhold fra denne skabelon. Dit univers forbliver upubliceret, indtil du beslutter dig for at publicere det.',
-    'encyclopedia.templateCreateUniverse.success': 'Universet er oprettet med succes! Omdirigering...'
+    'encyclopedia.templateCreateUniverse.success': 'Universet er oprettet med succes! Omdirigering...',
+    'encyclopedia.pronunciation.audio.play': 'Spil udtale',
+    'encyclopedia.pronunciation.guide': 'Brug <ipaLink>IPA-notation</ipaLink>, når det er muligt. Web Speech API-udtale er den bedste indsats; se <webSpeechLink>MDN-dokumenter</webSpeechLink>.'
 };

@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Bendras skaitymo laikas',
     'stats.totalReadingTime.description': 'Bendras visų skaitytojų laikas, praleistas prie šios istorijos',
     'stats.averageReadingTime': 'Vidutinis skaitymo laikas',
-    'stats.averageReadingTime.description': 'Vidutinis vieno skaitytojo laikas'
+    'stats.averageReadingTime.description': 'Vidutinis vieno skaitytojo laikas',
+    'stats.readingHabits.title': 'Skaitytojų įpročiai pagal savaites',
+    'stats.readingHabits.sessions': 'Skaitymo sesijos',
+    'stats.readingHabits.averageSession': 'Vidutinė sesija',
+    'stats.readingHabits.peakDay': 'Aktyviausia diena',
+    'stats.readingHabits.peakHour': 'Aktyviausia valanda',
+    'stats.readingHabits.profileSummary': 'Skaitymas per pastarąsias {weeks, number} savaites: {sessions, number} seansų, iš viso {duration} , aktyviausiai {day} apie {hour}.'
 };

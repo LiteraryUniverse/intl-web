@@ -230,5 +230,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Kopiowanie zakończone',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Tworzenie wszechświata z szablonu',
     'encyclopedia.templateCreateUniverse.description': 'Proszę utworzyć nowy wszechświat ze wstępnie zasianą zawartością encyklopedii z tego szablonu. Państwa wszechświat pozostanie nieopublikowany, dopóki nie zdecydują się Państwo go opublikować.',
-    'encyclopedia.templateCreateUniverse.success': 'Wszechświat utworzony pomyślnie! Przekierowanie...'
+    'encyclopedia.templateCreateUniverse.success': 'Wszechświat utworzony pomyślnie! Przekierowanie...',
+    'encyclopedia.pronunciation.audio.play': 'Proszę odtworzyć wymowę',
+    'encyclopedia.pronunciation.guide': 'Proszę używać <ipaLink>notacji IPA</ipaLink>, jeśli to możliwe. Wymowa Web Speech API jest najlepszym rozwiązaniem; proszę zapoznać się z <webSpeechLink>dokumentacją MDN</webSpeechLink>.'
 };

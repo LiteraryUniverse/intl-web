@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Totale leestijd',
     'stats.totalReadingTime.description': 'Totale tijd die alle lezers aan dit verhaal hebben besteed',
     'stats.averageReadingTime': 'Gemiddelde leestijd',
-    'stats.averageReadingTime.description': 'Gemiddelde tijd per lezer'
+    'stats.averageReadingTime.description': 'Gemiddelde tijd per lezer',
+    'stats.readingHabits.title': 'Leesgewoonten per week',
+    'stats.readingHabits.sessions': 'Leessessies',
+    'stats.readingHabits.averageSession': 'Gemiddelde sessie',
+    'stats.readingHabits.peakDay': 'Meest actieve dag',
+    'stats.readingHabits.peakHour': 'Meest actieve uur',
+    'stats.readingHabits.profileSummary': 'Lezen in de laatste {weeks, number} weken: {sessions, number} sessies, {duration} totaal, meest actief op {day} rond {hour}.'
 };

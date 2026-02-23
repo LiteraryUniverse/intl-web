@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'זמן קריאה כולל',
     'stats.totalReadingTime.description': 'הזמן הכולל שהקוראים השקיעו בסיפור זה',
     'stats.averageReadingTime': 'זמן קריאה ממוצע',
-    'stats.averageReadingTime.description': 'זמן ממוצע לקורא'
+    'stats.averageReadingTime.description': 'זמן ממוצע לקורא',
+    'stats.readingHabits.title': 'הרגלי הקריאה לפי שבוע',
+    'stats.readingHabits.sessions': 'מפגשי קריאה',
+    'stats.readingHabits.averageSession': 'הפעלה ממוצעת',
+    'stats.readingHabits.peakDay': 'היום הפעיל ביותר',
+    'stats.readingHabits.peakHour': 'השעה הפעילה ביותר',
+    'stats.readingHabits.profileSummary': 'קריאה בשבועות האחרונים {weeks, number} שבועות: {sessions, number} מפגשים, {duration} בסך הכל, הכי פעיל ב- {day} בסביבות {hour}.'
 };

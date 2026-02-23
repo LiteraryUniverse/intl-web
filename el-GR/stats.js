@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Συνολικός χρόνος ανάγνωσης',
     'stats.totalReadingTime.description': 'Συνδυασμένος χρόνος που όλοι οι αναγνώστες ξόδεψαν σε αυτή την ιστορία',
     'stats.averageReadingTime': 'Μέσος χρόνος ανάγνωσης',
-    'stats.averageReadingTime.description': 'Μέσος χρόνος ανά αναγνώστη'
+    'stats.averageReadingTime.description': 'Μέσος χρόνος ανά αναγνώστη',
+    'stats.readingHabits.title': 'Συνήθειες αναγνωστών ανά εβδομάδα',
+    'stats.readingHabits.sessions': 'Συνεδρίες ανάγνωσης',
+    'stats.readingHabits.averageSession': 'Μέση συνεδρία',
+    'stats.readingHabits.peakDay': 'Πιο ενεργή ημέρα',
+    'stats.readingHabits.peakHour': 'Πιο ενεργή ώρα',
+    'stats.readingHabits.profileSummary': 'Ανάγνωση τις τελευταίες {weeks, number} εβδομάδες: {sessions, number} συνεδρίες, {duration} συνολικά, πιο ενεργή στο {day} γύρω στο {hour}.'
 };

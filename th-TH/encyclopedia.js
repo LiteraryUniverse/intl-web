@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'การคัดลอกเสร็จสิ้น',
     'encyclopedia.templateCreateUniverse.modalTitle': 'สร้างจักรวาลจากแม่แบบ',
     'encyclopedia.templateCreateUniverse.description': 'สร้างจักรวาลใหม่ด้วยเนื้อหาสารานุกรมที่เตรียมไว้ล่วงหน้าจากเทมเพลตนี้ จักรวาลของคุณจะไม่ถูกเผยแพร่จนกว่าคุณจะตัดสินใจเผยแพร่',
-    'encyclopedia.templateCreateUniverse.success': 'จักรวาลถูกสร้างขึ้นสำเร็จแล้ว! กำลังเปลี่ยนเส้นทาง...'
+    'encyclopedia.templateCreateUniverse.success': 'จักรวาลถูกสร้างขึ้นสำเร็จแล้ว! กำลังเปลี่ยนเส้นทาง...',
+    'encyclopedia.pronunciation.audio.play': 'เล่นการออกเสียง',
+    'encyclopedia.pronunciation.guide': '<ipaLink>ใช้การเขียนแบบ IPA</ipaLink>เมื่อเป็นไปได้ การออกเสียงของ Web Speech API เป็นเพียงความพยายามอย่างดีที่สุดเท่านั้น โปรดดู<webSpeechLink>เอกสาร MDN</webSpeechLink>'
 };

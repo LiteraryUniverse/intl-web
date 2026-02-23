@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': '複製完成',
     'encyclopedia.templateCreateUniverse.modalTitle': '從範本建立宇宙',
     'encyclopedia.templateCreateUniverse.description': '使用本範本中預先播入的百科全書內容建立新的宇宙。您的宇宙將保持未發佈狀態，直到您決定發佈為止。',
-    'encyclopedia.templateCreateUniverse.success': '宇宙創建成功！重定向...'
+    'encyclopedia.templateCreateUniverse.success': '宇宙創建成功！重定向...',
+    'encyclopedia.pronunciation.audio.play': '播放發音',
+    'encyclopedia.pronunciation.guide': '盡可能使用<ipaLink>IPA 標記</ipaLink>。Web Speech API 的發音是盡力而為，請參閱<webSpeechLink>MDN 文件</webSpeechLink>。'
 };

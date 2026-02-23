@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Kopeerimine lõpetatud',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Universumi loomine mallist',
     'encyclopedia.templateCreateUniverse.description': 'Looge uus universum selle malli eelkülastatud entsüklopeedia sisuga. Teie universum jääb avaldamata, kuni otsustate selle avaldada.',
-    'encyclopedia.templateCreateUniverse.success': 'Universum loodud edukalt! Ümbersuunamine...'
+    'encyclopedia.templateCreateUniverse.success': 'Universum loodud edukalt! Ümbersuunamine...',
+    'encyclopedia.pronunciation.audio.play': 'Mängi hääldus',
+    'encyclopedia.pronunciation.guide': 'Kasutage võimaluse korral <ipaLink>IPA märkimist</ipaLink>. Web Speech API hääldus on parim võimalik; vt <webSpeechLink>MDNi dokumente</webSpeechLink>.'
 };

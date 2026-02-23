@@ -401,6 +401,7 @@ export default {
     'workshop.timer.breakDuration.desc': 'Přestávka mezi jednotlivými pracovními sezeními. Standardem je 5 minut pro krátké přestávky. Pro delší přestávky, které vám umožní vzdálit se od stolu, protáhnout se nebo se napít, použijte 10-15 minut. Každá čtvrtá přestávka je automaticky delší (2-3x delší).',
     'workshop.llmstxt': 'AI přístup',
     'workshop.llmstxt.blocked': 'Blokováno - LLM nemají přístup k vašemu obsahu',
+    'workshop.llmstxt.limited': 'Omezený - LLM mohou přistupovat pouze k metadatům',
     'workshop.llmstxt.free': 'Zdarma - LLM má přístup k vašemu obsahu zdarma',
     'workshop.llmstxt.paid': 'Placené - LLM mají přístup k vašemu obsahu za poplatek (již brzy)',
     'workshop.ai.llmstxt.generate': 'Generovat LLMs.txt',

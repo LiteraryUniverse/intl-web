@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Kopieren abgeschlossen',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Universum aus Vorlage erstellen',
     'encyclopedia.templateCreateUniverse.description': 'Erstellen Sie ein neues Universum mit vorgefertigten Enzyklopädie-Inhalten aus dieser Vorlage. Ihr Universum bleibt so lange unveröffentlicht, bis Sie sich entscheiden, es zu veröffentlichen.',
-    'encyclopedia.templateCreateUniverse.success': 'Universum erfolgreich erstellt! Weiterleiten...'
+    'encyclopedia.templateCreateUniverse.success': 'Universum erfolgreich erstellt! Weiterleiten...',
+    'encyclopedia.pronunciation.audio.play': 'Aussprache spielen',
+    'encyclopedia.pronunciation.guide': 'Verwenden Sie wenn möglich die <ipaLink>IPA-Notation</ipaLink>. Die Aussprache der Web Speech API ist nach bestem Wissen und Gewissen erstellt worden; siehe <webSpeechLink>MDN-Dokumente</webSpeechLink>.'
 };

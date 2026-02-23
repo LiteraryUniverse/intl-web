@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Celkový čas čítania',
     'stats.totalReadingTime.description': 'Kombinovaný čas všetkých čitateľov strávený nad týmto príbehom',
     'stats.averageReadingTime': 'Priemerný čas čítania',
-    'stats.averageReadingTime.description': 'Priemerný čas na čitateľa'
+    'stats.averageReadingTime.description': 'Priemerný čas na čitateľa',
+    'stats.readingHabits.title': 'Návyky čitateľov podľa týždňov',
+    'stats.readingHabits.sessions': 'Čítanie',
+    'stats.readingHabits.averageSession': 'Priemerná relácia',
+    'stats.readingHabits.peakDay': 'Najaktívnejší deň',
+    'stats.readingHabits.peakHour': 'Najaktívnejšia hodina',
+    'stats.readingHabits.profileSummary': 'Čítanie v posledných {weeks, number} týždňoch: {sessions, number} relácií, {duration} spolu, najaktívnejšie na {day} okolo {hour}.'
 };

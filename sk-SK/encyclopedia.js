@@ -231,5 +231,7 @@ other {je # položiek}
     'encyclopedia.templateCopy.finished': 'Kopírovanie dokončené',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Vytvorenie vesmíru zo šablóny',
     'encyclopedia.templateCreateUniverse.description': 'Vytvorte nový vesmír s vopred nasadeným obsahom encyklopédie z tejto šablóny. Váš vesmír zostane nezverejnený, kým sa ho nerozhodnete zverejniť.',
-    'encyclopedia.templateCreateUniverse.success': 'Vesmír vytvorený úspešne! Presmerovanie...'
+    'encyclopedia.templateCreateUniverse.success': 'Vesmír vytvorený úspešne! Presmerovanie...',
+    'encyclopedia.pronunciation.audio.play': 'Prehrať výslovnosť',
+    'encyclopedia.pronunciation.guide': 'Ak je to možné, používajte <ipaLink>zápis IPA</ipaLink>. Výslovnosť webového rozhrania Speech API je najlepšia; pozri <webSpeechLink>dokumentáciu MDN</webSpeechLink>.'
 };

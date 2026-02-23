@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': 'Общее время чтения',
     'stats.totalReadingTime.description': 'Суммарное время, потраченное всеми читателями на эту историю',
     'stats.averageReadingTime': 'Среднее время чтения',
-    'stats.averageReadingTime.description': 'Среднее время на одного читателя'
+    'stats.averageReadingTime.description': 'Среднее время на одного читателя',
+    'stats.readingHabits.title': 'Читательские привычки по неделям',
+    'stats.readingHabits.sessions': 'Сеансы чтения',
+    'stats.readingHabits.averageSession': 'Средняя сессия',
+    'stats.readingHabits.peakDay': 'Самый активный день',
+    'stats.readingHabits.peakHour': 'Самый активный час',
+    'stats.readingHabits.profileSummary': 'Чтение за последние {weeks, number} недели: {sessions, number} сессий, {duration} всего, наиболее активно на {day} около {hour}.'
 };

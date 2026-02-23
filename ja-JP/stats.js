@@ -66,5 +66,11 @@ export default {
     'stats.totalReadingTime': '合計読書時間',
     'stats.totalReadingTime.description': 'すべての読者がこの記事に費やした時間の合計',
     'stats.averageReadingTime': '平均読書時間',
-    'stats.averageReadingTime.description': '読者1人当たりの平均所要時間'
+    'stats.averageReadingTime.description': '読者1人当たりの平均所要時間',
+    'stats.readingHabits.title': '週ごとの読者習慣',
+    'stats.readingHabits.sessions': '読書会',
+    'stats.readingHabits.averageSession': '平均セッション',
+    'stats.readingHabits.peakDay': '最も活動的な日',
+    'stats.readingHabits.peakHour': '最もアクティブな時間帯',
+    'stats.readingHabits.profileSummary': '過去 {weeks, number} 週間の読書： {sessions, number} sessions, {duration} total, most active on {day} around {hour}.'
 };
