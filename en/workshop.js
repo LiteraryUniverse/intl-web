@@ -198,7 +198,7 @@ export default {
   'workshop.story.alternateFormats.epub.generate': 'Generate EPUB',
   'workshop.story.alternateFormats.epub.openGenerated': 'Open generated EPUB',
   'workshop.story.alternateFormats.epub.generatedAt':
-    'Generated at {generatedAt, date, medium} {generatedAt, time, short}',
+    'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
   'workshop.story.alternateFormats.epub.generationFailed':
     'EPUB generation failed.',
   'workshop.story.alternateFormats.epub.saveArcBeforeGeneration':
