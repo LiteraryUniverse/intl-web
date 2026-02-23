@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': '복사 완료',
     'encyclopedia.templateCreateUniverse.modalTitle': '템플릿에서 유니버스 만들기',
     'encyclopedia.templateCreateUniverse.description': '이 템플릿에서 미리 시드된 백과사전 콘텐츠로 새 유니버스를 만듭니다. 유니버스 콘텐츠는 게시를 결정할 때까지 게시되지 않은 상태로 유지됩니다.',
-    'encyclopedia.templateCreateUniverse.success': '유니버스 생성 성공! 리디렉션...'
+    'encyclopedia.templateCreateUniverse.success': '유니버스 생성 성공! 리디렉션...',
+    'encyclopedia.pronunciation.audio.play': '발음 재생',
+    'encyclopedia.pronunciation.guide': '가능하면 <ipaLink>IPA 표기를</ipaLink> 사용하세요. 웹 음성 API 발음이 가장 좋습니다. <webSpeechLink>MDN 문서를</webSpeechLink> 참조하세요.'
 };
