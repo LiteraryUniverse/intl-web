@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Penyalinan selesai',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Buat alam semesta dari templat',
     'encyclopedia.templateCreateUniverse.description': 'Buat alam semesta baru dengan konten ensiklopedia yang sudah disiapkan sebelumnya dari templat ini. Alam semesta Anda akan tetap tidak dipublikasikan hingga Anda memutuskan untuk mempublikasikannya.',
-    'encyclopedia.templateCreateUniverse.success': 'Alam semesta berhasil diciptakan! Mengarahkan...'
+    'encyclopedia.templateCreateUniverse.success': 'Alam semesta berhasil diciptakan! Mengarahkan...',
+    'encyclopedia.pronunciation.audio.play': 'Mainkan pengucapan',
+    'encyclopedia.pronunciation.guide': 'Gunakan <ipaLink>notasi IPA</ipaLink> jika memungkinkan. Pengucapan API Web Speech adalah upaya terbaik; lihat <webSpeechLink>dokumen MDN</webSpeechLink>.'
 };
