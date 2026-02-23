@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'A másolás befejeződött',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Univerzum létrehozása sablonból',
     'encyclopedia.templateCreateUniverse.description': 'Hozzon létre egy új univerzumot előre beültetett enciklopédia-tartalommal ebből a sablonból. Az univerzumod addig nem lesz publikálva, amíg úgy nem döntesz, hogy közzéteszed.',
-    'encyclopedia.templateCreateUniverse.success': 'Az univerzum sikeresen létrejött! Átirányítás...'
+    'encyclopedia.templateCreateUniverse.success': 'Az univerzum sikeresen létrejött! Átirányítás...',
+    'encyclopedia.pronunciation.audio.play': 'Play kiejtés',
+    'encyclopedia.pronunciation.guide': 'Ha lehetséges, használja <ipaLink>az IPA jelölést</ipaLink>. A Web Speech API kiejtése a legjobb törekvés; lásd <webSpeechLink>az MDN dokumentációt</webSpeechLink>.'
 };
