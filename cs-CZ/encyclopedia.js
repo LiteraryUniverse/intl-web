@@ -228,5 +228,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Kopírování dokončeno',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Vytvoření vesmíru ze šablony',
     'encyclopedia.templateCreateUniverse.description': 'Vytvoření nového vesmíru s přednastaveným obsahem encyklopedie z této šablony. Váš vesmír zůstane nezveřejněný, dokud se nerozhodnete jej zveřejnit.',
-    'encyclopedia.templateCreateUniverse.success': 'Vesmír úspěšně vytvořen! Přesměrování...'
+    'encyclopedia.templateCreateUniverse.success': 'Vesmír úspěšně vytvořen! Přesměrování...',
+    'encyclopedia.pronunciation.audio.play': 'Přehrát výslovnost',
+    'encyclopedia.pronunciation.guide': 'Pokud je to možné, používejte <ipaLink>zápis IPA</ipaLink>. Výslovnost Web Speech API je nejlepší; viz <webSpeechLink>dokumentaci MDN</webSpeechLink>.'
 };
