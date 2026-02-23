@@ -226,5 +226,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'העתקה הושלמה',
     'encyclopedia.templateCreateUniverse.modalTitle': 'צור יקום מתבנית',
     'encyclopedia.templateCreateUniverse.description': 'צרו יקום חדש עם תוכן אנציקלופדי מוכן מראש מתוך תבנית זו. היקום שלכם יישאר בלתי פורסם עד שתחליטו לפרסם אותו.',
-    'encyclopedia.templateCreateUniverse.success': 'היקום נוצר בהצלחה! מפנה...'
+    'encyclopedia.templateCreateUniverse.success': 'היקום נוצר בהצלחה! מפנה...',
+    'encyclopedia.pronunciation.audio.play': 'הפעל הגייה',
+    'encyclopedia.pronunciation.guide': 'השתמש <ipaLink>בסימון IPA</ipaLink> במידת האפשר. ההגייה של Web Speech API היא במיטבה; ראה <webSpeechLink>מסמכי MDN</webSpeechLink>.'
 };
