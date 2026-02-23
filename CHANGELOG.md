@@ -1,9 +1,16 @@
 # Changelog for languages
 
-## 2026-02-14 - v2.22.1
+## 2026-02-23 - v2.22.1
 
 * Reworked GDPR page
 * Reworked DMCA page
+* Story danger zone strings
+* Initial letter string
+* Thema and ONIX strings
+* Reading and writing time tracking strings
+* Fixed JSON loading for Meteor 3.4
+* workshop.llmstxt.limited
+* Pronunciation fields
 
 ## 2026-02-10 - v2.22.0
 
