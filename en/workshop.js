@@ -195,14 +195,6 @@ export default {
   'workshop.story.alternateFormats.arc.uploads': 'Files',
   'workshop.story.alternateFormats.arc.upload.epub': 'Upload EPUB',
   'workshop.story.alternateFormats.arc.upload.pdf': 'Upload PDF',
-  'workshop.story.alternateFormats.epub.generate': 'Generate EPUB',
-  'workshop.story.alternateFormats.epub.openGenerated': 'Open generated EPUB',
-  'workshop.story.alternateFormats.epub.generatedAt':
-    'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
-  'workshop.story.alternateFormats.epub.generationFailed':
-    'EPUB generation failed.',
-  'workshop.story.alternateFormats.epub.saveArcBeforeGeneration':
-    'Save this arc first to enable EPUB generation.',
   'workshop.story.alternateFormats.fullStory.title': 'Full story file',
   'workshop.story.alternateFormats.ongoingAccess.title': 'Ongoing access',
   'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'All currently available chapters',
