@@ -225,5 +225,7 @@ export default {
     'encyclopedia.templateCopy.finished': 'Kopiëren voltooid',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Universum maken van sjabloon',
     'encyclopedia.templateCreateUniverse.description': 'Creëer een nieuw universum met reeds geplaatste encyclopedie-inhoud van deze sjabloon. Uw universum blijft ongepubliceerd totdat u besluit het te publiceren.',
-    'encyclopedia.templateCreateUniverse.success': 'Universum succesvol aangemaakt! Omleiden...'
+    'encyclopedia.templateCreateUniverse.success': 'Universum succesvol aangemaakt! Omleiden...',
+    'encyclopedia.pronunciation.audio.play': 'Uitspraak spelen',
+    'encyclopedia.pronunciation.guide': 'Gebruik waar mogelijk <ipaLink>IPA-notatie</ipaLink>. Web Speech API uitspraak is best-effort; zie <webSpeechLink>MDN docs</webSpeechLink>.'
 };
