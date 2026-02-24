@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2026-02-24 - v3.0.0
+
+We are moving away from Meteor packages, so we will slowly migrate everything to a new structure. This is the first step and we have removed everything except the translations strings from here.
+
 ## 2026-02-23 - v2.22.1
 
 * Reworked GDPR page
