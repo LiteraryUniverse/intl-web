@@ -9,7 +9,7 @@ If you have any questions feel free to open issue or to [contact us via Crowdin]
 
 For isolated page-level translation bundles (`faq.json`, `comparisons.json`, `signup.json`, `the_way.json`, `cookieconsent.json`, `tours.json`), use the centralized loaders in:
 
-- `/packages/intl/isolatedLoaders.ts`
+- `/imports/i18n/isolatedLoaders.ts`
 
 Use these helpers from app code instead of importing `meteor/lu-intl/<locale>/<file>.json` directly:
 
