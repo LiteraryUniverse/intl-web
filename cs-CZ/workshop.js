@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Pokud nezveřejníš vesmír, bude automaticky publikován po zveřejnění prvního příběhu spojeného s vesmírem.',
     'workshop.universe.settings': 'Nastavení {universe} vesmíru',
     'workshop.universe.publishedOn': 'Tento vesmír byl zveřejněn {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Pokud potřebujete pomoc, <contact>kontaktujte nás</contact>.',
+    'workshop.work.delete.restrictions': `Tento {type, select,
+    universe {vesmír můžete smazat pouze tehdy, pokud nemá žádné publikované příběhy a}
+    story {příběh pouze tehdy, pokud}
+    other {práce pouze tehdy, pokud}} byla publikována před méně než jedním měsícem. Pokud jej potřebujete smazat po uplynutí této promlčecí doby, <contact>kontaktujte nás</contact>.`,
+    'workshop.work.delete.notAllowed': `Tento {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } již nelze smazat prostřednictvím samoobsluhy. Pokud ji potřebujete odstranit, <contact>kontaktujte nás</contact> a my s vámi budeme spolupracovat na jejím bezpečném odstranění.`,
+    'workshop.work.delete.notAllowed.plain': `Tento {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } již nelze smazat prostřednictvím samoobsluhy. Pokud ji potřebujete odstranit, kontaktujte nás na adrese deletions@literaryuniverse.com a my s vámi budeme spolupracovat na jejím bezpečném odstranění.`,
+    'workshop.universe.dangerZone': 'Nebezpečná zóna',
+    'workshop.universe.dangerZone.desc': 'Tento vesmír můžete smazat pouze v případě, že v něm nejsou zveřejněny žádné příběhy a byl zveřejněn před méně než jedním měsícem. Pokud jej potřebujete smazat po uplynutí této lhůty, kontaktujte nás.',
+    'workshop.universe.delete.modalAria': 'Potvrzovací modal pro odstranění vesmíru',
+    'workshop.universe.delete.confirm': 'Smazat vesmír',
+    'workshop.universe.delete.warning': 'Opravdu chcete odstranit "{title}"? Tuto akci nelze vzít zpět.',
+    'workshop.universe.delete.button': 'Smazat vesmír',
+    'workshop.universe.delete.notAllowed': 'Tento vesmír již nelze smazat prostřednictvím samoobsluhy. Pokud jej potřebujete odstranit po uplynutí promlčecí lhůty, kontaktujte nás.',
+    'workshop.universe.unpublish.modalAria': 'Potvrzovací modalita pro zrušení publikování vesmíru',
+    'workshop.universe.unpublish.confirm': 'Zrušit publikování vesmíru',
+    'workshop.universe.unpublish.warning': 'Zrušením publikování se tento vesmír odstraní z veřejného objevování a vyhledávání.',
+    'workshop.universe.unpublish.button': 'Zrušit publikování vesmíru',
     'workshop.universe.description': 'Popis vesmíru',
     'workshop.settings.title': 'Název',
     'workshop.description': 'Popis',
