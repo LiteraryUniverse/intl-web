@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Dacă nu publici universul, acesta va fi publicat automat când prima poveste conectată la univers este publicată.',
     'workshop.universe.settings': '{universe} setări univers',
     'workshop.universe.publishedOn': 'Această univers a fost publicată pe {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Dacă aveți nevoie de ajutor, <contact>contactați-ne</contact>.',
+    'workshop.work.delete.restrictions': `Puteți șterge acest univers {type, select,
+    universe {numai atunci când nu are nicio poveste publicată și}
+    story {poveste numai atunci când}
+    other {lucrare numai atunci când}} a fost publicată cu mai puțin de o lună în urmă. Dacă aveți nevoie să o ștergeți după această perioadă de limitare, <contact>contactați-ne</contact>.`,
+    'workshop.work.delete.notAllowed': `Acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {muncă}
+  } nu mai poate fi șters prin self-service. Dacă aveți nevoie să o eliminați, <contact>contactați-ne</contact> și vom lucra cu dvs. pentru a o elimina în siguranță.`,
+    'workshop.work.delete.notAllowed.plain': `Acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {muncă}
+  } nu mai poate fi șters prin self-service. Dacă aveți nevoie să îl eliminați, contactați-ne la deletions@literaryuniverse.com și vom lucra împreună cu dvs. pentru a-l elimina în siguranță.`,
+    'workshop.universe.dangerZone': 'Zona periculoasă',
+    'workshop.universe.dangerZone.desc': 'Puteți șterge acest univers numai atunci când nu are nicio poveste publicată și a fost publicat cu mai puțin de o lună în urmă. Dacă aveți nevoie să îl ștergeți după această perioadă de limitare, vă rugăm să ne contactați.',
+    'workshop.universe.delete.modalAria': 'Mod de confirmare pentru ștergerea unui univers',
+    'workshop.universe.delete.confirm': 'Ștergeți universul',
+    'workshop.universe.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
+    'workshop.universe.delete.button': 'Ștergeți universul',
+    'workshop.universe.delete.notAllowed': 'Acest univers nu mai poate fi șters prin self-service. Dacă aveți nevoie să îl ștergeți după perioada de limitare, vă rugăm să ne contactați.',
+    'workshop.universe.unpublish.modalAria': 'Mod de confirmare pentru nepublicarea unui univers',
+    'workshop.universe.unpublish.confirm': 'Unpublish Univers',
+    'workshop.universe.unpublish.warning': 'Dezpublicarea va elimina acest univers de la descoperirea și căutarea publică.',
+    'workshop.universe.unpublish.button': 'Unpublish Univers',
     'workshop.universe.description': 'Descriere univers',
     'workshop.settings.title': 'Titlu',
     'workshop.description': 'Descriere',
