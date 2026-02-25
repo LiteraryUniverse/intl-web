@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Jos et julkaise universumia, se julkaistaan automaattisesti kun ensimmäinen universumiin liitetty tarina julkaistaan.',
     'workshop.universe.settings': '{universe} universumin asetukset',
     'workshop.universe.publishedOn': 'Tämä universumi on julkaistu {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Jos tarvitset apua, <contact>ota meihin yhteyttä</contact>.',
+    'workshop.work.delete.restrictions': `Voit poistaa tämän {type, select,
+    universe {maailmankaikkeuden vain silloin, kun sillä ei ole julkaistuja tarinoita ja}
+    story {tarinan vain silloin, kun se}
+    other {teos vain silloin, kun se}} on julkaistu alle kuukausi sitten. Jos haluat poistaa sen tämän rajoitusajan jälkeen, <contact>ota meihin yhteyttä</contact>.`,
+    'workshop.work.delete.notAllowed': `Tätä {type, select,
+    universe {universumia}
+    story {tarinaa}
+    other {työtä}
+  } ei voi enää poistaa itsepalvelun kautta. Jos haluat poistaa sen, <contact>ota meihin yhteyttä</contact>, niin poistamme sen yhdessä kanssasi turvallisesti.`,
+    'workshop.work.delete.notAllowed.plain': `Tätä {type, select,
+    universe {universumia}
+    story {tarinaa}
+    other {työtä}
+  } ei voi enää poistaa itsepalvelun kautta. Jos haluat poistaa sen, ota yhteyttä osoitteeseen deletions@literaryuniverse.com, niin poistamme sen yhdessä kanssasi turvallisesti.`,
+    'workshop.universe.dangerZone': 'Vaaravyöhyke',
+    'workshop.universe.dangerZone.desc': 'Voit poistaa tämän maailmankaikkeuden vain, jos siinä ei ole julkaistuja tarinoita ja se on julkaistu alle kuukausi sitten. Jos haluat poistaa sen tämän rajoitusajan jälkeen, ota meihin yhteyttä.',
+    'workshop.universe.delete.modalAria': 'Vahvistusikkuna universumin poistamista varten',
+    'workshop.universe.delete.confirm': 'Poista maailmankaikkeus',
+    'workshop.universe.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
+    'workshop.universe.delete.button': 'Poista maailmankaikkeus',
+    'workshop.universe.delete.notAllowed': 'Tätä universumia ei voi enää poistaa itsepalvelun kautta. Jos haluat poistaa sen vanhentumisajan jälkeen, ota meihin yhteyttä.',
+    'workshop.universe.unpublish.modalAria': 'Vahvistusmodaali universumin julkaisemisen poistamiseksi',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': 'Julkaisun poistaminen poistaa tämän maailmankaikkeuden julkisesta etsinnästä.',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Universumin kuvaus',
     'workshop.settings.title': 'Otsikko',
     'workshop.description': 'Kuvaus',
