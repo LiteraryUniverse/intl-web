@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Se non pubblichi l\'universo, sarà pubblicato automaticamente alla pubblicazione della prima storia connessa all\'universo.',
     'workshop.universe.settings': '{universe} impostazioni universo',
     'workshop.universe.publishedOn': 'Questo universo è stato pubblicato il {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Se ha bisogno di aiuto, <contact>ci contatti</contact>.',
+    'workshop.work.delete.restrictions': `Può eliminare questo universo {type, select,
+    universe {solo quando non ha storie pubblicate e}
+    story {storia solo quando}
+    other {lavoro solo quando}} è stato pubblicato meno di un mese fa. Se ha bisogno di cancellarla dopo questo periodo di limitazione, <contact>ci contatti</contact>.`,
+    'workshop.work.delete.notAllowed': `Questo {type, select,
+    universe {universo}
+    story {storia}
+    other {lavoro}
+  } non può più essere cancellato tramite il self-service. Se ha bisogno di rimuoverlo, <contact>ci contatti</contact> e lavoreremo con lei per rimuoverlo in modo sicuro.`,
+    'workshop.work.delete.notAllowed.plain': `Questo {type, select,
+    universe {universo}
+    story {storia}
+    other {lavoro}
+  } non può più essere cancellato tramite il self-service. Se ha bisogno di rimuoverlo, ci contatti a deletions@literaryuniverse.com e lavoreremo con lei per rimuoverlo in modo sicuro.`,
+    'workshop.universe.dangerZone': 'Zona di pericolo',
+    'workshop.universe.dangerZone.desc': 'Può eliminare questo universo solo se non ha storie pubblicate e se è stato pubblicato meno di un mese fa. Se ha bisogno di cancellarlo dopo questo periodo di limitazione, ci contatti.',
+    'workshop.universe.delete.modalAria': 'Modale di conferma per l\'eliminazione di un universo',
+    'workshop.universe.delete.confirm': 'Cancellare l\'Universo',
+    'workshop.universe.delete.warning': 'È sicuro di voler eliminare "{title}"? Questa azione non può essere annullata.',
+    'workshop.universe.delete.button': 'Cancellare l\'Universo',
+    'workshop.universe.delete.notAllowed': 'Questo universo non può più essere cancellato tramite il self-service. Se ha bisogno di rimuoverlo dopo il periodo di limitazione, ci contatti.',
+    'workshop.universe.unpublish.modalAria': 'Modale di conferma per la non pubblicazione di un universo',
+    'workshop.universe.unpublish.confirm': 'Non pubblicare l\'Universo',
+    'workshop.universe.unpublish.warning': 'La pubblicazione rimuoverà questo universo dalla scoperta e dalla ricerca pubblica.',
+    'workshop.universe.unpublish.button': 'Non pubblicare l\'Universo',
     'workshop.universe.description': 'Descrizione dell\'universo',
     'workshop.settings.title': 'Titolo',
     'workshop.description': 'Descrizione',
