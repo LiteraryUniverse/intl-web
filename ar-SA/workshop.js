@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'إذا لم تقم بنشر الكون، سيتم نشره تلقائيًا عند نشر أول قصة متصلة بالكون.',
     'workshop.universe.settings': '{universe} إعدادات الكون',
     'workshop.universe.publishedOn': 'تم نشر هذا الكون على {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'إذا كنت بحاجة إلى مساعدة، <contact>اتصل بنا</contact>.',
+    'workshop.work.delete.restrictions': `يمكنك حذف هذا {type, select,
+    universe {الكون هذا فقط عندما لا يكون له قصص منشورة و}
+    story {قصة فقط عندما}
+    other {العمل فقط عندما}} تم نشره قبل أقل من شهر واحد. إذا كنت بحاجة إلى حذفها بعد فترة التقييد هذه، <contact>اتصل بنا</contact>.`,
+    'workshop.work.delete.notAllowed': `هذا {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } لم يعد من الممكن حذف هذا ~ ~ الكون ~ ~ القصة ~ ~ العمل ~ ~ لم يعد من الممكن حذفه من خلال الخدمة الذاتية. إذا كنت بحاجة إلى إزالته، <contact>اتصل بنا</contact> وسنعمل معك لإزالته بأمان.`,
+    'workshop.work.delete.notAllowed.plain': `هذا {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } لم يعد من الممكن حذف هذا ~ ~ الكون ~ ~ القصة ~ ~ العمل ~ ~ لم يعد من الممكن حذفه من خلال الخدمة الذاتية. إذا كنت بحاجة إلى إزالته، فاتصل بنا على deletions@literaryuniverse.com وسنعمل معك لإزالته بأمان.`,
+    'workshop.universe.dangerZone': 'منطقة الخطر',
+    'workshop.universe.dangerZone.desc': 'يمكنك حذف هذا الكون فقط عندما لا يحتوي على قصص منشورة وتم نشره قبل أقل من شهر واحد. إذا كنت بحاجة إلى حذفه بعد فترة التحديد هذه، يُرجى الاتصال بنا.',
+    'workshop.universe.delete.modalAria': 'طريقة التأكيد لحذف كون من الكون',
+    'workshop.universe.delete.confirm': 'حذف الكون',
+    'workshop.universe.delete.warning': 'هل تريد بالتأكيد حذف "{title}"؟ لا يمكن التراجع عن هذا الإجراء.',
+    'workshop.universe.delete.button': 'حذف الكون',
+    'workshop.universe.delete.notAllowed': 'لم يعد من الممكن حذف هذا الكون من خلال الخدمة الذاتية. إذا كنت بحاجة إلى إزالته بعد فترة التقادم، يُرجى الاتصال بنا.',
+    'workshop.universe.unpublish.modalAria': 'طريقة التأكيد لإلغاء نشر الكون',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': 'سيؤدي إلغاء النشر إلى إزالة هذا الكون من الاكتشاف والبحث العام.',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'وصف الكون',
     'workshop.settings.title': 'العنوان',
     'workshop.description': 'الوصف',
