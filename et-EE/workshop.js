@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Kui sa ei avalda universumit, siis see avaldatakse automaatselt, kui esimene universumiga seotud lugu avaldatakse.',
     'workshop.universe.settings': '{universe} universumi seaded',
     'workshop.universe.publishedOn': 'See universum on avaldatud {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Kui vajate abi, <contact>võtke meiega ühendust</contact>.',
+    'workshop.work.delete.restrictions': `Saate selle {type, select,
+    universe {universumi kustutada ainult siis, kui sellel ei ole avaldatud lugusid ja}
+    story {lugu ainult siis, kui see}
+    other {töötab ainult siis, kui see}} on avaldatud vähem kui üks kuu tagasi. Kui teil on vaja seda kustutada pärast seda piiranguperioodi, <contact>võtke meiega ühendust</contact>.`,
+    'workshop.work.delete.notAllowed': `Seda {type, select,
+    universe {universumit}
+    story {lugu}
+    other {tööd}
+  } ei saa enam iseteeninduse kaudu kustutada. Kui teil on vaja seda eemaldada, <contact>võtke meiega ühendust</contact> ja me teeme teiega koostööd selle turvaliseks eemaldamiseks.`,
+    'workshop.work.delete.notAllowed.plain': `Seda {type, select,
+    universe {universumit}
+    story {lugu}
+    other {tööd}
+  } ei saa enam iseteeninduse kaudu kustutada. Kui teil on vaja seda eemaldada, võtke meiega ühendust aadressil deletions@literaryuniverse.com ja me teeme teiega koostööd selle turvaliseks eemaldamiseks.`,
+    'workshop.universe.dangerZone': 'Ohutsoon',
+    'workshop.universe.dangerZone.desc': 'Seda universumit saab kustutada ainult siis, kui selles ei ole avaldatud lugusid ja kui see on avaldatud vähem kui üks kuu tagasi. Kui teil on vaja seda kustutada pärast seda piiranguperioodi, võtke meiega ühendust.',
+    'workshop.universe.delete.modalAria': 'Universumi kustutamise kinnituse modaal',
+    'workshop.universe.delete.confirm': 'Kustuta Universum',
+    'workshop.universe.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
+    'workshop.universe.delete.button': 'Kustuta Universum',
+    'workshop.universe.delete.notAllowed': 'Seda universumit ei saa enam iseteeninduse kaudu kustutada. Kui teil on vaja seda pärast aegumistähtaega eemaldada, võtke meiega ühendust.',
+    'workshop.universe.unpublish.modalAria': 'Universumi avaldamise tühistamise kinnituse modaal',
+    'workshop.universe.unpublish.confirm': 'Universumi avaldamata jätmine',
+    'workshop.universe.unpublish.warning': 'Avaldamise tühistamine eemaldab selle universumi avalikust avastamisest ja otsingust.',
+    'workshop.universe.unpublish.button': 'Universumi avaldamata jätmine',
     'workshop.universe.description': 'Universumi kirjeldus',
     'workshop.settings.title': 'Pealkiri',
     'workshop.description': 'Kirjeldus',
