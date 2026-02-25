@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': '宇宙を公開していない場合は、最初の物語が宇宙に接続されると自動的に公開されます。',
     'workshop.universe.settings': '{universe} 宇宙設定',
     'workshop.universe.publishedOn': 'この宇宙は {date, date, long} {date, time, short}に公開されました。',
+    'workshop.work.deletion.contactUs': '助けが必要な場合は、<contact>ご連絡</contact>ください。',
+    'workshop.work.delete.restrictions': `You can delete this {type, select,
+    universe {universe only when it has no published stories and}
+    story {story only when it}
+    other {work only when it}} was published less than one month ago. If you need to delete it after this limitation period, <contact>contact us</contact>.`,
+    'workshop.work.delete.notAllowed': `この {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } は、セルフサービスで削除できなくなりました。削除が必要な場合は、<contact>弊社までご連絡</contact>いただければ、安全に削除いたします。`,
+    'workshop.work.delete.notAllowed.plain': `この {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } は、セルフサービスで削除できなくなりました。削除が必要な場合は、deletions@literaryuniverse.com までご連絡ください。安全に削除するために協力いたします。`,
+    'workshop.universe.dangerZone': '危険地帯',
+    'workshop.universe.dangerZone.desc': 'このuniverseを削除できるのは、公開されたストーリーがなく、公開されてから1ヶ月以内の場合のみです。この制限期間後に削除する必要がある場合は、ご連絡ください。',
+    'workshop.universe.delete.modalAria': 'ユニバース削除の確認モーダル',
+    'workshop.universe.delete.confirm': '宇宙の削除',
+    'workshop.universe.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
+    'workshop.universe.delete.button': '宇宙の削除',
+    'workshop.universe.delete.notAllowed': 'このユニバースはセルフサービスでは削除できなくなりました。制限期間後に削除が必要な場合は、ご連絡ください。',
+    'workshop.universe.unpublish.modalAria': 'ユニバースの公開を解除するための確認モーダル',
+    'workshop.universe.unpublish.confirm': '出版されない宇宙',
+    'workshop.universe.unpublish.warning': '公開を解除すると、このユニバースは公開された発見や検索から除外されます。',
+    'workshop.universe.unpublish.button': '出版されない宇宙',
     'workshop.universe.description': '宇宙解説',
     'workshop.settings.title': '題名',
     'workshop.description': 'あらすじ',
