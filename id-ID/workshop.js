@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Jika Anda tidak mempublikasikan alam semesta, maka akan dipublikasikan secara otomatis ketika cerita pertama yang terhubung ke alam semesta dipublikasikan.',
     'workshop.universe.settings': '{universe} pengaturan alam semesta',
     'workshop.universe.publishedOn': 'Semesta ini telah diterbitkan pada {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Jika Anda membutuhkan bantuan, <contact>hubungi kami</contact>.',
+    'workshop.work.delete.restrictions': `Anda dapat menghapus {type, select,
+    universe {semesta hanya jika tidak memiliki cerita yang dipublikasikan dan}
+    story {cerita hanya jika}
+    other {karya hanya jika}} diterbitkan kurang dari satu bulan yang lalu. Jika Anda ingin menghapusnya setelah periode pembatasan ini, <contact>hubungi kami</contact>.`,
+    'workshop.work.delete.notAllowed': `Ini {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {pekerjaan}
+  } tidak dapat lagi dihapus melalui layanan mandiri. Jika Anda ingin menghapusnya, <contact>hubungi kami</contact> dan kami akan bekerja sama dengan Anda untuk menghapusnya dengan aman.`,
+    'workshop.work.delete.notAllowed.plain': `Ini {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {pekerjaan}
+  } tidak dapat lagi dihapus melalui layanan mandiri. Jika Anda ingin menghapusnya, hubungi kami di deletions@literaryuniverse.com dan kami akan membantu Anda untuk menghapusnya dengan aman.`,
+    'workshop.universe.dangerZone': 'Zona bahaya',
+    'workshop.universe.dangerZone.desc': 'Anda dapat menghapus semesta ini hanya jika tidak ada cerita yang diterbitkan dan diterbitkan kurang dari satu bulan yang lalu. Jika Anda ingin menghapusnya setelah periode pembatasan ini, silakan hubungi kami.',
+    'workshop.universe.delete.modalAria': 'Modal konfirmasi untuk menghapus semesta',
+    'workshop.universe.delete.confirm': 'Hapus Semesta',
+    'workshop.universe.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
+    'workshop.universe.delete.button': 'Hapus Semesta',
+    'workshop.universe.delete.notAllowed': 'Alam semesta ini tidak dapat lagi dihapus melalui layanan mandiri. Jika Anda ingin menghapusnya setelah periode pembatasan, silakan hubungi kami.',
+    'workshop.universe.unpublish.modalAria': 'Modal konfirmasi untuk membatalkan penerbitan alam semesta',
+    'workshop.universe.unpublish.confirm': 'Batalkan Penerbitan Semesta',
+    'workshop.universe.unpublish.warning': 'Tidak menerbitkannya akan menghapus alam semesta ini dari penemuan dan pencarian publik.',
+    'workshop.universe.unpublish.button': 'Batalkan Penerbitan Semesta',
     'workshop.universe.description': 'Deskripsi alam semesta',
     'workshop.settings.title': 'Judul',
     'workshop.description': 'Deskripsi',
