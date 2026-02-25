@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'אם לא תפרסם את היחידה, היא תפורסם אוטומטית כאשר הסיפור הראשון המחובר ליחידה ייפורסם.',
     'workshop.universe.settings': '{universe} הגדרות יחידה',
     'workshop.universe.publishedOn': 'היקום הזה פורסם ב- {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'אם אתה זקוק לעזרה, <contact>צור איתנו קשר</contact>.',
+    'workshop.work.delete.restrictions': `ניתן למחוק את היקום {type, select,
+    universe {רק כאשר אין בו סיפורים שפורסמו, ואת הסיפור}
+    story {רק כאשר}
+    other {רק כאשר}} פורסם לפני פחות מחודש. אם אתה צריך למחוק אותו לאחר תקופת ההגבלה הזו, <contact>צור איתנו קשר</contact>.`,
+    'workshop.work.delete.notAllowed': `זה {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } לא ניתן עוד למחוק באמצעות שירות עצמי. אם אתה צריך להסיר אותו, <contact>צור איתנו קשר</contact> ואנו נעבוד איתך כדי להסיר אותו בבטחה.`,
+    'workshop.work.delete.notAllowed.plain': `זה {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } לא ניתן עוד למחוק באמצעות שירות עצמי. אם אתה צריך להסיר אותו, פנה אלינו בכתובת deletions@literaryuniverse.com ואנו נעבוד איתך כדי להסיר אותו בבטחה.`,
+    'workshop.universe.dangerZone': 'אזור סכנה',
+    'workshop.universe.dangerZone.desc': 'ניתן למחוק יקום זה רק אם אין בו סיפורים שפורסמו והוא פורסם לפני פחות מחודש. אם אתה צריך למחוק אותו לאחר תקופת ההגבלה הזו, אנא פנה אלינו.',
+    'workshop.universe.delete.modalAria': 'מודל אישור למחיקת יקום',
+    'workshop.universe.delete.confirm': 'מחק יקום',
+    'workshop.universe.delete.warning': 'האם אתה בטוח שברצונך למחוק את "{title}"? פעולה זו אינה ניתנת לביטול.',
+    'workshop.universe.delete.button': 'מחק יקום',
+    'workshop.universe.delete.notAllowed': 'לא ניתן עוד למחוק יקום זה באמצעות שירות עצמי. אם אתה זקוק להסרתו לאחר תקופת ההגבלה, אנא פנה אלינו.',
+    'workshop.universe.unpublish.modalAria': 'מודל אישור לביטול פרסום יקום',
+    'workshop.universe.unpublish.confirm': 'ביטול פרסום יקום',
+    'workshop.universe.unpublish.warning': 'ביטול הפרסום יסירו את היקום הזה מהחיפוש והגילוי הציבוריים.',
+    'workshop.universe.unpublish.button': 'ביטול פרסום יקום',
     'workshop.universe.description': 'תיאור היחידה',
     'workshop.settings.title': 'כותרת',
     'workshop.description': 'תיאור',
