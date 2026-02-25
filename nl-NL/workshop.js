@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Als je het universum niet publiceert, wordt het automatisch gepubliceerd wanneer het eerste verhaal dat aan het universum is gekoppeld, wordt gepubliceerd.',
     'workshop.universe.settings': '{universe} universuminstellingen',
     'workshop.universe.publishedOn': 'Dit universum is gepubliceerd op {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': '<contact>Neem contact met ons op</contact> als u hulp nodig hebt.',
+    'workshop.work.delete.restrictions': `U kunt dit {type, select,
+    universe {universum alleen verwijderen als het geen gepubliceerde verhalen heeft en}
+    story {verhaal alleen als het}
+    other {werk alleen als het}} minder dan een maand geleden is gepubliceerd. Als u het na deze verjaringstermijn wilt verwijderen, neem dan <contact>contact met ons op</contact>.`,
+    'workshop.work.delete.notAllowed': `Deze {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } kan niet langer verwijderd worden via self-service. Als u het verwijderd wilt hebben, neem dan <contact>contact met ons op</contact> en wij zullen met u samenwerken om het veilig te verwijderen.`,
+    'workshop.work.delete.notAllowed.plain': `Dit {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } kan niet langer verwijderd worden via zelfbediening. Als het verwijderd moet worden, neem dan contact met ons op via deletions@literaryuniverse.com en wij zullen samen met u het veilig verwijderen.`,
+    'workshop.universe.dangerZone': 'Gevarenzone',
+    'workshop.universe.dangerZone.desc': 'U kunt dit universum alleen verwijderen als het geen gepubliceerde verhalen heeft en minder dan een maand geleden is gepubliceerd. Als u het na deze verjaringstermijn wilt verwijderen, neem dan contact met ons op.',
+    'workshop.universe.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een universum',
+    'workshop.universe.delete.confirm': 'Universum verwijderen',
+    'workshop.universe.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
+    'workshop.universe.delete.button': 'Universum verwijderen',
+    'workshop.universe.delete.notAllowed': 'Dit universum kan niet langer via zelfbediening worden verwijderd. Als u het na de verjaringstermijn verwijderd wilt hebben, neem dan contact met ons op.',
+    'workshop.universe.unpublish.modalAria': 'Bevestigingsmodal voor het unpubliceren van een universum',
+    'workshop.universe.unpublish.confirm': 'Universum niet publiceren',
+    'workshop.universe.unpublish.warning': 'Unpublishing zal dit universum verwijderen van publieke ontdekking en zoekopdrachten.',
+    'workshop.universe.unpublish.button': 'Universum niet publiceren',
     'workshop.universe.description': 'Universumbeschrijving',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beschrijving',
