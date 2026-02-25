@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': '如果您不發布宇宙，當與宇宙相關聯的第一個故事發布時，它將自動發布。',
     'workshop.universe.settings': '{universe} 宇宙設定',
     'workshop.universe.publishedOn': '這個宇宙已經在 {date, date, long} {date, time, short}上發布',
+    'workshop.work.deletion.contactUs': '如果您需要幫助，請<contact>與我們聯繫</contact>。',
+    'workshop.work.delete.restrictions': `只有當這個 {type, select,
+    universe {宇宙沒有已發表的故事，而且}
+    story {故事只有在}
+    other {作品只有在}} 發表不到一個月時，您才可以刪除它。如果您在此限制期限之後需要刪除，請<contact>與我們聯絡</contact>。`,
+    'workshop.work.delete.notAllowed': `此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 無法再透過自助服務刪除。如果您需要刪除它，請<contact>與我們聯絡</contact>，我們會與您一起安全地刪除它。`,
+    'workshop.work.delete.notAllowed.plain': `此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
+  } 無法再透過自助服務刪除。如果您需要刪除，請聯絡我們 deletions@literaryuniverse.com，我們將與您合作，安全地將其刪除。`,
+    'workshop.universe.dangerZone': '危險區',
+    'workshop.universe.dangerZone.desc': '只有當這個宇宙沒有已發表的故事，而且發表的時間少於一個月時，您才可以刪除它。如果您在此限制期限之後需要刪除，請聯絡我們。',
+    'workshop.universe.delete.modalAria': '刪除宇宙的確認模態',
+    'workshop.universe.delete.confirm': '刪除宇宙',
+    'workshop.universe.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
+    'workshop.universe.delete.button': '刪除宇宙',
+    'workshop.universe.delete.notAllowed': '此宇宙無法再透過自助服務刪除。如果您在限制期限後需要刪除，請與我們聯絡。',
+    'workshop.universe.unpublish.modalAria': '取消發表宇宙的確認模態',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': '取消發表將會從大眾發現和搜尋中移除這個宇宙。',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': '宇宙描述',
     'workshop.settings.title': '標題',
     'workshop.description': '描述',
