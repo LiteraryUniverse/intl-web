@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Εάν δεν δημοσιεύσετε το σύμπαν, θα δημοσιευτεί αυτόματα όταν δημοσιευτεί η πρώτη ιστορία που συνδέεται με το σύμπαν.',
     'workshop.universe.settings': '{universe} ρυθμίσεις σύμπαντος',
     'workshop.universe.publishedOn': 'Αυτό το σύμπαν έχει δημοσιευτεί στις {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Αν χρειάζεστε βοήθεια, <contact>επικοινωνήστε μαζί μας</contact>.',
+    'workshop.work.delete.restrictions': `Μπορείτε να διαγράψετε αυτό το {type, select,
+    universe {σύμπαν μόνο όταν δεν έχει δημοσιευμένες ιστορίες και}
+    story {ιστορία μόνο όταν έχει}
+    other {έργο μόνο όταν έχει}} δημοσιευτεί λιγότερο από ένα μήνα πριν. Αν χρειαστεί να το διαγράψετε μετά από αυτή την περίοδο περιορισμού, <contact>επικοινωνήστε μαζί μας</contact>.`,
+    'workshop.work.delete.notAllowed': `Αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } δεν μπορεί πλέον να διαγραφεί μέσω αυτοεξυπηρέτησης. Αν χρειάζεστε την αφαίρεσή του, <contact>επικοινωνήστε μαζί μας</contact> και θα συνεργαστούμε μαζί σας για την ασφαλή αφαίρεσή του.`,
+    'workshop.work.delete.notAllowed.plain': `Αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } δεν μπορεί πλέον να διαγραφεί μέσω αυτοεξυπηρέτησης. Αν θέλετε να το αφαιρέσετε, επικοινωνήστε μαζί μας στο deletions@literaryuniverse.com και θα συνεργαστούμε μαζί σας για να το αφαιρέσουμε με ασφάλεια.`,
+    'workshop.universe.dangerZone': 'Ζώνη κινδύνου',
+    'workshop.universe.dangerZone.desc': 'Μπορείτε να διαγράψετε αυτό το σύμπαν μόνο όταν δεν έχει δημοσιευμένες ιστορίες και έχει δημοσιευτεί πριν από λιγότερο από ένα μήνα. Αν χρειαστεί να το διαγράψετε μετά από αυτή την περιοριστική περίοδο, παρακαλούμε επικοινωνήστε μαζί μας.',
+    'workshop.universe.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός σύμπαντος',
+    'workshop.universe.delete.confirm': 'Διαγραφή σύμπαντος',
+    'workshop.universe.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
+    'workshop.universe.delete.button': 'Διαγραφή σύμπαντος',
+    'workshop.universe.delete.notAllowed': 'Αυτό το σύμπαν δεν μπορεί πλέον να διαγραφεί μέσω της αυτοεξυπηρέτησης. Εάν χρειάζεστε τη διαγραφή του μετά την περίοδο περιορισμού, παρακαλούμε επικοινωνήστε μαζί μας.',
+    'workshop.universe.unpublish.modalAria': 'Επιβεβαιωτικό modal για την αποδημοσίευση ενός σύμπαντος',
+    'workshop.universe.unpublish.confirm': 'Αποδημοσίευση του Σύμπαντος',
+    'workshop.universe.unpublish.warning': 'Η κατάργηση της δημοσίευσης θα αφαιρέσει αυτό το σύμπαν από τη δημόσια ανακάλυψη και αναζήτηση.',
+    'workshop.universe.unpublish.button': 'Αποδημοσίευση του Σύμπαντος',
     'workshop.universe.description': 'Περιγραφή συμπαντικής ιστορίας',
     'workshop.settings.title': 'Τίτλος',
     'workshop.description': 'Περιγραφή',
