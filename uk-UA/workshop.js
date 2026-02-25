@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Якщо ви не завантажите всесвіт, він буде завантажений автоматично, коли з\'явиться перша історія, пов\'язана з цим всесвітом.',
     'workshop.universe.settings': '{universe} налаштування всесвіту',
     'workshop.universe.publishedOn': 'Цей всесвіт було завантажено {date, date, long} о {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Якщо вам потрібна допомога, <contact>зв\'яжіться з нами</contact>.',
+    'workshop.work.delete.restrictions': `You can delete this {type, select,
+    universe {universe only when it has no published stories and}
+    story {story only when it}
+    other {work only when it}} was published less than one month ago. If you need to delete it after this limitation period, <contact>contact us</contact>.`,
+    'workshop.work.delete.notAllowed': `Цей {type, select,
+    universe {всесвіт}
+    story {оповідання}
+    other {твір}
+  } більше не можна видалити через самообслуговування. Якщо вам потрібно його видалити, <contact>зв'яжіться з нами</contact>, і ми попрацюємо з вами, щоб видалити його безпечно.`,
+    'workshop.work.delete.notAllowed.plain': `Цей {type, select,
+    universe {всесвіт}
+    story {оповідання}
+    other {твір}
+  } більше не можна видалити через самообслуговування. Якщо вам потрібно видалити його, зв'яжіться з нами за адресою deletions@literaryuniverse.com, і ми попрацюємо з вами, щоб видалити його безпечно.`,
+    'workshop.universe.dangerZone': 'Небезпечна зона',
+    'workshop.universe.dangerZone.desc': 'Ви можете видалити цей всесвіт лише тоді, коли в ньому немає опублікованих історій і він був опублікований менше місяця тому. Якщо вам потрібно видалити його після закінчення цього терміну, будь ласка, зв\'яжіться з нами.',
+    'workshop.universe.delete.modalAria': 'Модальне вікно підтвердження для видалення всесвіту',
+    'workshop.universe.delete.confirm': 'Видалити Всесвіт',
+    'workshop.universe.delete.warning': 'Ви дійсно хочете видалити "{title}"? Ця дія не може бути скасована.',
+    'workshop.universe.delete.button': 'Видалити Всесвіт',
+    'workshop.universe.delete.notAllowed': 'Цей всесвіт більше не можна видалити через самообслуговування. Якщо вам потрібно видалити його після закінчення терміну позовної давності, будь ласка, зв\'яжіться з нами.',
+    'workshop.universe.unpublish.modalAria': 'Спосіб підтвердження для непублікації всесвіту',
+    'workshop.universe.unpublish.confirm': 'Неопублікований Всесвіт',
+    'workshop.universe.unpublish.warning': 'Неопублікування вилучить цей всесвіт з публічного відкриття та пошуку.',
+    'workshop.universe.unpublish.button': 'Неопублікований Всесвіт',
     'workshop.universe.description': 'Опис всесвіту',
     'workshop.settings.title': 'Заголовок',
     'workshop.description': 'Описання',
