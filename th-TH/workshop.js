@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'หากคุณไม่เผยแพร่จักรวาล จะมีการเผยแพร่โดยอัตโนมัติเมื่อเรื่องราวแรกที่เชื่อมต่อกับจักรวาลถูกเผยแพร่',
     'workshop.universe.settings': '{universe} การตั้งค่าจักรวาล',
     'workshop.universe.publishedOn': 'จักรวาลนี้ได้เผยแพร่ในวันที่ {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'หากคุณต้องการความช่วยเหลือ<contact>โปรดติดต่อเรา</contact>',
+    'workshop.work.delete.restrictions': `คุณสามารถลบ {type, select,
+    universe {จักรวาลนี้ได้เฉพาะเมื่อไม่มีเรื่องราวที่เผยแพร่แล้วเท่านั้น และ}
+    story {เรื่องราวได้เฉพาะเมื่อ}
+    other {ผลงานเท่านั้นเมื่อ}} เผยแพร่เมื่อไม่ถึงหนึ่งเดือนที่ผ่านมา หากคุณต้องการลบหลังจากช่วงเวลาจำกัดนี้<contact>กรุณาติดต่อเรา</contact>`,
+    'workshop.work.delete.notAllowed': `จักรวาลนี้ {type, select,
+    universe {เรื่องราว}
+    story {ผลงาน}
+    other {ผลงาน}
+  } ไม่สามารถลบได้อีกต่อไปผ่านบริการตนเอง หากคุณต้องการให้ลบออก<contact>กรุณาติดต่อเรา</contact>และเราจะดำเนินการร่วมกับคุณเพื่อลบออกอย่างปลอดภัย`,
+    'workshop.work.delete.notAllowed.plain': `จักรวาลนี้ {type, select,
+    universe {เรื่องราว}
+    story {ผลงาน}
+    other {}
+  } ไม่สามารถลบได้อีกต่อไปผ่านบริการตนเอง หากคุณต้องการให้ลบออก กรุณาติดต่อเราที่ deletions@literaryuniverse.com และเราจะดำเนินการร่วมกับคุณเพื่อลบออกอย่างปลอดภัย`,
+    'workshop.universe.dangerZone': 'เขตอันตราย',
+    'workshop.universe.dangerZone.desc': 'คุณสามารถลบจักรวาลนี้ได้เฉพาะเมื่อไม่มีเรื่องราวที่เผยแพร่แล้วและเผยแพร่เมื่อน้อยกว่าหนึ่งเดือนที่ผ่านมา หากคุณต้องการลบหลังจากช่วงเวลาจำกัดนี้ กรุณาติดต่อเรา',
+    'workshop.universe.delete.modalAria': 'โมดัลยืนยันสำหรับการลบจักรวาล',
+    'workshop.universe.delete.confirm': 'ลบจักรวาล',
+    'workshop.universe.delete.warning': 'คุณแน่ใจหรือไม่ว่าต้องการลบ "{title}" การดำเนินการนี้ไม่สามารถย้อนกลับได้',
+    'workshop.universe.delete.button': 'ลบจักรวาล',
+    'workshop.universe.delete.notAllowed': 'จักรวาลนี้ไม่สามารถลบได้ผ่านการให้บริการตนเองอีกต่อไป หากคุณต้องการให้ลบหลังจากระยะเวลาจำกัด กรุณาติดต่อเรา',
+    'workshop.universe.unpublish.modalAria': 'โมดัลยืนยันการยกเลิกการเผยแพร่จักรวาล',
+    'workshop.universe.unpublish.confirm': 'ยกเลิกการเผยแพร่จักรวาล',
+    'workshop.universe.unpublish.warning': 'การยกเลิกการเผยแพร่จะนำจักรวาลนี้ออกจากการค้นพบและการค้นหาสาธารณะ',
+    'workshop.universe.unpublish.button': 'ยกเลิกการเผยแพร่จักรวาล',
     'workshop.universe.description': 'คำอธิบายของจักรวาล',
     'workshop.settings.title': 'ชื่อเรื่อง',
     'workshop.description': 'คำอธิบาย',
