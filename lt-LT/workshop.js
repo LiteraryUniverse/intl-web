@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Jei nepublikuosite visatos, ji bus publikuota automatiškai, kai bus publikuota pirmoji su ja susijusi istorija.',
     'workshop.universe.settings': '{universe} visatos nustatymai',
     'workshop.universe.publishedOn': 'Šis visata buvo išleista {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Jei reikia pagalbos, <contact>susisiekite su mumis.</contact>',
+    'workshop.work.delete.restrictions': `Šią {type, select,
+    universe {visatą galite ištrinti tik tada, kai joje nėra paskelbtų istorijų, o}
+    story {istoriją - tik tada, kai ji}
+    other {darbas - tik tada, kai ji}} buvo paskelbta mažiau nei prieš mėnesį. Jei norite ją ištrinti pasibaigus šiam senaties terminui, <contact>susisiekite su mumis.</contact>`,
+    'workshop.work.delete.notAllowed': `Šios {type, select,
+    universe {visatos}
+    story {istorijos}
+    other {darbo}
+  } nebegalima ištrinti per savitarną. Jei jums reikia jį pašalinti, <contact>susisiekite su mumis</contact> ir mes kartu su jumis jį saugiai pašalinsime.`,
+    'workshop.work.delete.notAllowed.plain': `Šios {type, select,
+    universe {visatos}
+    story {istorijos}
+    other {darbo}
+  } nebegalima ištrinti per savitarną. Jei jums reikia jį pašalinti, susisiekite su mumis adresu deletions@literaryuniverse.com ir mes kartu su jumis saugiai jį pašalinsime.`,
+    'workshop.universe.dangerZone': 'Pavojinga zona',
+    'workshop.universe.dangerZone.desc': 'Šią visatą galite ištrinti tik tada, kai joje nėra paskelbtų istorijų ir ji buvo paskelbta mažiau nei prieš mėnesį. Jei norite ją ištrinti pasibaigus šiam senaties terminui, susisiekite su mumis.',
+    'workshop.universe.delete.modalAria': 'Visatos ištrynimo patvirtinimo modalinis langas',
+    'workshop.universe.delete.confirm': 'Ištrinti Visatą',
+    'workshop.universe.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
+    'workshop.universe.delete.button': 'Ištrinti Visatą',
+    'workshop.universe.delete.notAllowed': 'Šios visatos nebegalima ištrinti naudojantis savitarnos paslaugomis. Jei jums reikia ją pašalinti pasibaigus senaties terminui, susisiekite su mumis.',
+    'workshop.universe.unpublish.modalAria': 'Patvirtinimo modalinis langas, kai reikia panaikinti visatos publikavimą',
+    'workshop.universe.unpublish.confirm': 'Neišleisti Visatos',
+    'workshop.universe.unpublish.warning': 'Panaikinus publikavimą, ši visata bus pašalinta iš viešos paieškos ir aptikimo.',
+    'workshop.universe.unpublish.button': 'Neišleisti Visatos',
     'workshop.universe.description': 'Visatos aprašymas',
     'workshop.settings.title': 'Pavadinimas',
     'workshop.description': 'Aprašymas',
