@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Nếu bạn không xuất bản vũ trụ, nó sẽ được tự động xuất bản khi câu chuyện đầu tiên liên kết với vũ trụ được xuất bản.',
     'workshop.universe.settings': '{universe} cài đặt vũ trụ',
     'workshop.universe.publishedOn': 'Vũ trụ này đã được xuất bản trên {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Nếu bạn cần hỗ trợ, vui lòng <contact>liên hệ với chúng tôi</contact>.',
+    'workshop.work.delete.restrictions': `Bạn chỉ có thể xóa vũ trụ này {type, select,
+    universe {khi nó không có bất kỳ câu chuyện nào đã được xuất bản và}
+    story {câu chuyện chỉ khi nó}
+    other {tác phẩm chỉ khi nó}} đã được xuất bản cách đây ít hơn một tháng. Nếu bạn cần xóa nó sau thời hạn này, <contact>vui lòng liên hệ với chúng tôi</contact>.`,
+    'workshop.work.delete.notAllowed': `Tác phẩm này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } không thể xóa bỏ thông qua dịch vụ tự phục vụ. Nếu bạn cần xóa bỏ nó, <contact>vui lòng liên hệ với chúng tôi</contact> và chúng tôi sẽ hợp tác với bạn để xóa bỏ nó một cách an toàn.`,
+    'workshop.work.delete.notAllowed.plain': `Tác phẩm này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } không thể xóa bỏ thông qua dịch vụ tự phục vụ. Nếu bạn cần xóa bỏ nó, vui lòng liên hệ với chúng tôi qua địa chỉ email deletions@literaryuniverse.com và chúng tôi sẽ hỗ trợ bạn xóa bỏ nó một cách an toàn.`,
+    'workshop.universe.dangerZone': 'Khu vực nguy hiểm',
+    'workshop.universe.dangerZone.desc': 'Bạn chỉ có thể xóa vũ trụ này khi nó không có bất kỳ câu chuyện nào đã được đăng và được đăng cách đây ít hơn một tháng. Nếu bạn cần xóa nó sau thời hạn này, vui lòng liên hệ với chúng tôi.',
+    'workshop.universe.delete.modalAria': 'Hộp thoại xác nhận khi xóa một vũ trụ',
+    'workshop.universe.delete.confirm': 'Xóa Vũ trụ',
+    'workshop.universe.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
+    'workshop.universe.delete.button': 'Xóa Vũ trụ',
+    'workshop.universe.delete.notAllowed': 'Vũ trụ này không thể xóa bỏ thông qua dịch vụ tự phục vụ. Nếu bạn cần xóa bỏ nó sau thời hạn quy định, vui lòng liên hệ với chúng tôi.',
+    'workshop.universe.unpublish.modalAria': 'Cửa sổ xác nhận để hủy xuất bản một vũ trụ',
+    'workshop.universe.unpublish.confirm': 'Hủy đăng tải Universe',
+    'workshop.universe.unpublish.warning': 'Việc gỡ bỏ công khai sẽ loại bỏ vũ trụ này khỏi khả năng tìm kiếm và khám phá công khai.',
+    'workshop.universe.unpublish.button': 'Hủy đăng tải Universe',
     'workshop.universe.description': 'Mô tả vũ trụ',
     'workshop.settings.title': 'Tiêu đề',
     'workshop.description': 'Mô tả',
