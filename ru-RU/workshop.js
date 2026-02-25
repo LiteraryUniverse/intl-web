@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Если вы не опубликуете вселенную, она будет опубликована автоматически, когда будет опубликована первая история, связанная с этой вселенной.',
     'workshop.universe.settings': 'Настройки вселенной {universe}',
     'workshop.universe.publishedOn': 'Эта вселенная была опубликована {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Если Вам нужна помощь, <contact>свяжитесь с нами</contact>.',
+    'workshop.work.delete.restrictions': `Вы можете удалить эту {type, select,
+    universe {вселенную только тогда, когда в ней нет опубликованных историй, а}
+    story {историю только тогда, когда}
+    other {работа только тогда, когда}} была опубликована менее одного месяца назад. Если Вам нужно удалить его после истечения этого срока, <contact>свяжитесь с нами</contact>.`,
+    'workshop.work.delete.notAllowed': `Эта {type, select,
+    universe {вселенная}
+    story {история}
+    other {работа}
+  } больше не может быть удалена с помощью самообслуживания. Если Вам нужно удалить его, <contact>свяжитесь с нами</contact>, и мы вместе с Вами безопасно удалим его.`,
+    'workshop.work.delete.notAllowed.plain': `Эта {type, select,
+    universe {вселенная}
+    story {история}
+    other {работа}
+  } больше не может быть удалена с помощью самообслуживания. Если Вам нужно удалить его, свяжитесь с нами по адресу deletions@literaryuniverse.com, и мы вместе с Вами безопасно удалим его.`,
+    'workshop.universe.dangerZone': 'Опасная зона',
+    'workshop.universe.dangerZone.desc': 'Вы можете удалить эту вселенную, только если в ней нет опубликованных историй и она была опубликована менее одного месяца назад. Если Вам нужно удалить ее после истечения этого срока, пожалуйста, свяжитесь с нами.',
+    'workshop.universe.delete.modalAria': 'Модальное подтверждение для удаления вселенной',
+    'workshop.universe.delete.confirm': 'Удалить вселенную',
+    'workshop.universe.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
+    'workshop.universe.delete.button': 'Удалить вселенную',
+    'workshop.universe.delete.notAllowed': 'Эту вселенную больше нельзя удалить с помощью самообслуживания. Если Вам нужно удалить ее после истечения срока давности, пожалуйста, свяжитесь с нами.',
+    'workshop.universe.unpublish.modalAria': 'Модальное подтверждение для распубликации вселенной',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': 'Распубликация удалит эту вселенную из публичного обнаружения и поиска.',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Описание вселенной',
     'workshop.settings.title': 'Название',
     'workshop.description': 'Описание',
