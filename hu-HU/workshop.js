@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Ha nem teszed közzé az univerzumot, akkor automatikusan közzé lesz téve, amikor az első a univerzumhoz kapcsolódó történet közzé lesz téve.',
     'workshop.universe.settings': '{universe} univerzum beállítások',
     'workshop.universe.publishedOn': 'Ez az univerzum megjelent a következő helyen: {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Ha segítségre van szüksége, <contact>forduljon hozzánk</contact>.',
+    'workshop.work.delete.restrictions': `Ezt a {type, select,
+    universe {univerzumot csak akkor törölheted, ha nincsenek publikált történetei, és}
+    story {történetet csak akkor, ha}
+    other {munkát csak akkor, ha}} kevesebb mint egy hónapja publikálták. Ha e korlátozási időszak után kell törölnie, <contact>lépjen kapcsolatba velünk</contact>.`,
+    'workshop.work.delete.notAllowed': `Ez a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } már nem törölhető önkiszolgálással. Ha szüksége van az eltávolítására, <contact>lépjen kapcsolatba velünk</contact>, és együttműködünk Önnel a biztonságos eltávolításában.`,
+    'workshop.work.delete.notAllowed.plain': `Ez a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } már nem törölhető önkiszolgálással. Ha szüksége van az eltávolítására, lépjen kapcsolatba velünk a deletions@literaryuniverse.com címen, és együtt dolgozunk a biztonságos eltávolításán.`,
+    'workshop.universe.dangerZone': 'Veszélyes zóna',
+    'workshop.universe.dangerZone.desc': 'Ezt az univerzumot csak akkor törölheti, ha nincsenek publikált történetei, és kevesebb mint egy hónapja jelent meg. Ha ezen elévülési idő után kell törölnie, kérjük, lépjen kapcsolatba velünk.',
+    'workshop.universe.delete.modalAria': 'Megerősítő modal egy univerzum törléséhez',
+    'workshop.universe.delete.confirm': 'Univerzum törlése',
+    'workshop.universe.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
+    'workshop.universe.delete.button': 'Univerzum törlése',
+    'workshop.universe.delete.notAllowed': 'Ez az univerzum már nem törölhető önkiszolgálással. Ha az elévülési idő után szeretné eltávolítani, kérjük, lépjen kapcsolatba velünk.',
+    'workshop.universe.unpublish.modalAria': 'Megerősítő modal egy univerzum közzétételének visszavonásához',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': 'A közzététel feloldása eltávolítja ezt az univerzumot a nyilvános felfedezés és keresés alól.',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Univerzum leírás',
     'workshop.settings.title': 'Cím',
     'workshop.description': 'Leírás',
