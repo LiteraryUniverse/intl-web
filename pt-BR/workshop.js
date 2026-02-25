@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Se você não publicar o universo, ele será publicado automaticamente quando a primeira história conectada ao universo for publicada.',
     'workshop.universe.settings': 'Configurações do {universe} universo',
     'workshop.universe.publishedOn': 'Este universo foi publicado em {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Se o senhor precisar de ajuda, <contact>entre em contato conosco</contact>.',
+    'workshop.work.delete.restrictions': `O senhor pode excluir esse universo {type, select,
+    universe {somente quando ele não tiver histórias publicadas e a história}
+    story {somente quando ela}
+    other {funcionar somente quando ela}} tiver sido publicada há menos de um mês. Se o senhor precisar excluí-lo após esse período de limitação, <contact>entre em contato conosco</contact>.`,
+    'workshop.work.delete.notAllowed': `Este {type, select,
+    universe {universo}
+    story {história}
+    other {trabalho}
+  } não pode mais ser excluído pelo autoatendimento. Se o senhor precisar removê-lo, <contact>entre em contato conosco</contact> e trabalharemos com o senhor para removê-lo com segurança.`,
+    'workshop.work.delete.notAllowed.plain': `Este {type, select,
+    universe {universo}
+    story {história}
+    other {trabalho}
+  } não pode mais ser excluído pelo autoatendimento. Se precisar removê-lo, entre em contato conosco pelo e-mail deletions@literaryuniverse.com e trabalharemos com o senhor para removê-lo com segurança.`,
+    'workshop.universe.dangerZone': 'Zona de perigo',
+    'workshop.universe.dangerZone.desc': 'O senhor pode excluir esse universo somente quando ele não tiver histórias publicadas e tiver sido publicado há menos de um mês. Se o senhor precisar excluí-lo após esse período de limitação, entre em contato conosco.',
+    'workshop.universe.delete.modalAria': 'Modal de confirmação para excluir um universo',
+    'workshop.universe.delete.confirm': 'Excluir Universo',
+    'workshop.universe.delete.warning': 'O senhor tem certeza de que deseja excluir "{title}"? Essa ação não pode ser desfeita.',
+    'workshop.universe.delete.button': 'Excluir Universo',
+    'workshop.universe.delete.notAllowed': 'Esse universo não pode mais ser excluído por meio do autoatendimento. Se o senhor precisar que ele seja removido após o período de limitação, entre em contato conosco.',
+    'workshop.universe.unpublish.modalAria': 'Modal de confirmação para cancelar a publicação de um universo',
+    'workshop.universe.unpublish.confirm': 'Universo sem publicação',
+    'workshop.universe.unpublish.warning': 'O cancelamento da publicação removerá esse universo da descoberta e pesquisa públicas.',
+    'workshop.universe.unpublish.button': 'Universo sem publicação',
     'workshop.universe.description': 'Descrição do universo',
     'workshop.settings.title': 'Título',
     'workshop.description': 'Descrição',
