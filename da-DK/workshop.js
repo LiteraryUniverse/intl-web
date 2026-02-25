@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Hvis du ikke udgiver universet, vil det blive udgivet automatisk, når den første historie forbundet til universet bliver udgivet.',
     'workshop.universe.settings': '{universe} univers indstillinger',
     'workshop.universe.publishedOn': 'Dette univers er blevet udgivet på {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': '<contact>Kontakt os</contact>, hvis du har brug for hjælp.',
+    'workshop.work.delete.restrictions': `Du kan kun slette dette {type, select,
+    universe {univers, når det ikke har nogen publicerede historier, og}
+    story {historie, når det}
+    other {værk, når det}} blev publiceret for mindre end en måned siden. Hvis du har brug for at slette det efter denne begrænsningsperiode, skal du <contact>kontakte os</contact>.`,
+    'workshop.work.delete.notAllowed': `Denne {type, select,
+    universe {univers}
+    story {historie}
+    other {arbejde}
+  } kan ikke længere slettes via selvbetjening. Hvis du har brug for at få den fjernet, skal du <contact>kontakte os</contact>, så arbejder vi sammen med dig om at fjerne den på en sikker måde.`,
+    'workshop.work.delete.notAllowed.plain': `Denne {type, select,
+    universe {univers}
+    story {historie}
+    other {arbejde}
+  } kan ikke længere slettes via selvbetjening. Hvis du har brug for at få den fjernet, skal du kontakte os på deletions@literaryuniverse.com, så arbejder vi sammen med dig om at fjerne den på en sikker måde.`,
+    'workshop.universe.dangerZone': 'Farezone',
+    'workshop.universe.dangerZone.desc': 'Du kan kun slette dette univers, hvis det ikke har nogen publicerede historier og blev publiceret for mindre end en måned siden. Hvis du har brug for at slette det efter denne begrænsningsperiode, bedes du kontakte os.',
+    'workshop.universe.delete.modalAria': 'Bekræftelsesmodal for sletning af et univers',
+    'workshop.universe.delete.confirm': 'Slet universet',
+    'workshop.universe.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
+    'workshop.universe.delete.button': 'Slet universet',
+    'workshop.universe.delete.notAllowed': 'Dette univers kan ikke længere slettes via selvbetjening. Hvis du har brug for at få det fjernet efter forældelsesfristen, bedes du kontakte os.',
+    'workshop.universe.unpublish.modalAria': 'Bekræftelsesmodal for afpublicering af et univers',
+    'workshop.universe.unpublish.confirm': 'Afbryd udgivelsen af universet',
+    'workshop.universe.unpublish.warning': 'Afpublicering vil fjerne dette univers fra offentlig opdagelse og søgning.',
+    'workshop.universe.unpublish.button': 'Afbryd udgivelsen af universet',
     'workshop.universe.description': 'Universe beskrivelse',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beskrivelse',
