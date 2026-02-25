@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Evreni yayınlamazsanız, evrene bağlı ilk hikaye yayınlandığında otomatik olarak yayınlanır.',
     'workshop.universe.settings': '{universe} evren ayarları',
     'workshop.universe.publishedOn': 'Bu evren {date, date, long} {date, time, short}üzerinde yayınlanmıştır.',
+    'workshop.work.deletion.contactUs': 'Yardıma ihtiyacınız varsa, <contact>bizimle iletişime</contact> geçin.',
+    'workshop.work.delete.restrictions': `Bu {type, select,
+    universe {evrenini yalnızca yayınlanmış hikayesi olmadığında ve}
+    story {hikayesini yalnızca}
+    other {çalışması yalnızca}} bir aydan daha kısa bir süre önce yayınlandığında silebilirsiniz. Bu sınırlama süresinden sonra silmeniz gerekiyorsa, <contact>bizimle iletişime</contact> geçin.`,
+    'workshop.work.delete.notAllowed': `Bu {type, select,
+    universe {evren}
+    story {hikaye}
+    other {iş}
+  } artık self servis aracılığıyla silinemez. Kaldırılması gerekiyorsa, <contact>bizimle iletişime</contact> geçin ve güvenli bir şekilde kaldırmak için sizinle birlikte çalışacağız.`,
+    'workshop.work.delete.notAllowed.plain': `Bu {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } artık self servis aracılığıyla silinemez. Kaldırılması gerekiyorsa, deletions@literaryuniverse.com adresinden bizimle iletişime geçin; güvenli bir şekilde kaldırmak için sizinle birlikte çalışacağız.`,
+    'workshop.universe.dangerZone': 'Tehlikeli bölge',
+    'workshop.universe.dangerZone.desc': 'Bu evreni yalnızca yayınlanmış hikayesi olmadığında ve bir aydan daha kısa bir süre önce yayınlandığında silebilirsiniz. Bu sınırlama süresinden sonra silmeniz gerekiyorsa, lütfen bizimle iletişime geçin.',
+    'workshop.universe.delete.modalAria': 'Bir evreni silmek için onay modalı',
+    'workshop.universe.delete.confirm': 'Evreni Sil',
+    'workshop.universe.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
+    'workshop.universe.delete.button': 'Evreni Sil',
+    'workshop.universe.delete.notAllowed': 'Bu evren artık self-servis yoluyla silinemez. Sınırlama süresinden sonra kaldırılmasını istiyorsanız, lütfen bizimle iletişime geçin.',
+    'workshop.universe.unpublish.modalAria': 'Bir evrenin yayından kaldırılması için onay modu',
+    'workshop.universe.unpublish.confirm': 'Evreni Yayından Kaldır',
+    'workshop.universe.unpublish.warning': 'Yayından kaldırmak, bu evreni genel keşif ve aramadan kaldıracaktır.',
+    'workshop.universe.unpublish.button': 'Evreni Yayından Kaldır',
     'workshop.universe.description': 'Evren açıklaması',
     'workshop.settings.title': 'Başlık',
     'workshop.description': 'Açıklama',
