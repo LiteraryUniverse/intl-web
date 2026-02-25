@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Om du inte publicerar universumet kommer det att publiceras automatiskt när den första berättelsen som är kopplad till universumet publiceras.',
     'workshop.universe.settings': '{universe} inställningar för universum',
     'workshop.universe.publishedOn': 'Det här universumet har publicerats på {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': '<contact>Kontakta oss</contact> om du behöver hjälp.',
+    'workshop.work.delete.restrictions': `Du kan radera detta {type, select,
+    universe {universum endast när det inte har några publicerade berättelser och}
+    story {berättelse endast när det}
+    other {arbete endast när det}} publicerades för mindre än en månad sedan. Om du behöver ta bort det efter denna begränsningsperiod, <contact>kontakta oss</contact>.`,
+    'workshop.work.delete.notAllowed': `Detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } kan inte längre raderas via självbetjäning. Om du behöver ta bort den, <contact>kontakta oss</contact> så arbetar vi tillsammans med dig för att ta bort den på ett säkert sätt.`,
+    'workshop.work.delete.notAllowed.plain': `Detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } kan inte längre raderas via självbetjäning. Om du behöver ta bort det, kontakta oss på deletions@literaryuniverse.com så arbetar vi tillsammans med dig för att ta bort det på ett säkert sätt.`,
+    'workshop.universe.dangerZone': 'Farlig zon',
+    'workshop.universe.dangerZone.desc': 'Du kan bara radera det här universumet om det inte har några publicerade berättelser och publicerades för mindre än en månad sedan. Om du behöver radera det efter denna begränsningsperiod, vänligen kontakta oss.',
+    'workshop.universe.delete.modalAria': 'Bekräftelsemodal för borttagning av ett universum',
+    'workshop.universe.delete.confirm': 'Radera universum',
+    'workshop.universe.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
+    'workshop.universe.delete.button': 'Radera universum',
+    'workshop.universe.delete.notAllowed': 'Detta universum kan inte längre raderas via självbetjäning. Om du behöver ta bort det efter begränsningsperioden, vänligen kontakta oss.',
+    'workshop.universe.unpublish.modalAria': 'Bekräftelsemodal för avpublicering av ett universum',
+    'workshop.universe.unpublish.confirm': 'Avpublicera universum',
+    'workshop.universe.unpublish.warning': 'Avpublicering tar bort detta universum från offentlig upptäckt och sökning.',
+    'workshop.universe.unpublish.button': 'Avpublicera universum',
     'workshop.universe.description': 'Universums beskrivning',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beskrivning',
