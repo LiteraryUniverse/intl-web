@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Jeśli nie opublikujesz uniwersum, zostanie ono opublikowane automatycznie, gdy zostanie opublikowane pierwsze opowiadanie związane z tym uniwersum.',
     'workshop.universe.settings': '{universe} ustawienia wszechświata',
     'workshop.universe.publishedOn': 'Ten wszechświat został opublikowany {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Jeśli potrzebują Państwo pomocy, prosimy <contact>o kontakt</contact>.',
+    'workshop.work.delete.restrictions': `Mogą Państwo usunąć to {type, select,
+    universe {uniwersum tylko wtedy, gdy nie ma ono opublikowanych historii, a}
+    story {historię tylko wtedy, gdy}
+    other {praca tylko wtedy, gdy}} została opublikowana mniej niż miesiąc temu. Jeśli chcą Państwo usunąć ją po upływie tego okresu, prosimy <contact>o kontakt</contact>.`,
+    'workshop.work.delete.notAllowed': `Ten {type, select,
+    universe {wszechświat}
+    story {historia}
+    other {praca}
+  } nie może być już usunięty przez samoobsługę. Jeśli chcą Państwo ją usunąć, proszę się <contact>z nami skontaktować</contact>, a my pomożemy w jej bezpiecznym usunięciu.`,
+    'workshop.work.delete.notAllowed.plain': `Ten {type, select,
+    universe {wszechświat}
+    story {historia}
+    other {praca}
+  } nie może być już usunięty przez samoobsługę. Jeśli chcą Państwo je usunąć, prosimy o kontakt pod adresem deletions@literaryuniverse.com, a my pomożemy Państwu w ich bezpiecznym usunięciu.`,
+    'workshop.universe.dangerZone': 'Strefa zagrożenia',
+    'workshop.universe.dangerZone.desc': 'Mogą Państwo usunąć to uniwersum tylko wtedy, gdy nie zawiera ono żadnych opublikowanych historii i zostało opublikowane mniej niż miesiąc temu. Jeśli chcesz usunąć to uniwersum po upływie tego okresu, prosimy skontaktować się z nami.',
+    'workshop.universe.delete.modalAria': 'Modalne potwierdzenie usunięcia wszechświata',
+    'workshop.universe.delete.confirm': 'Usunąć wszechświat',
+    'workshop.universe.delete.warning': 'Czy na pewno chcą Państwo usunąć "{title}"? Tej czynności nie można cofnąć.',
+    'workshop.universe.delete.button': 'Usunąć wszechświat',
+    'workshop.universe.delete.notAllowed': 'Tego wszechświata nie można już usunąć za pomocą samoobsługi. Jeśli chcą Państwo go usunąć po upływie okresu przedawnienia, prosimy o kontakt.',
+    'workshop.universe.unpublish.modalAria': 'Potwierdzenie modalne dla cofnięcia publikacji wszechświata',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': 'Wycofanie publikacji spowoduje usunięcie tego wszechświata z publicznego wyszukiwania.',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Opis wszechświata',
     'workshop.settings.title': 'Tytuł',
     'workshop.description': 'Opis',
