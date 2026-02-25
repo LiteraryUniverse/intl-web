@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'Si vous ne publiez pas l\'univers, il sera publié automatiquement lorsque la première histoire connectée à l\'univers sera publiée.',
     'workshop.universe.settings': 'Paramètres de l\'univers {universe}',
     'workshop.universe.publishedOn': 'Cet univers a été publié le {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Si vous avez besoin d\'aide, <contact>contactez-nous</contact>.',
+    'workshop.work.delete.restrictions': `Vous ne pouvez supprimer cet {type, select,
+    universe {univers que s'il n'a pas d'histoires publiées et}
+    story {histoire que s'il}
+    other {œuvre que s'il}} a été publié il y a moins d'un mois. Si vous avez besoin de le supprimer après cette période de limitation, <contact>contactez-nous</contact>.`,
+    'workshop.work.delete.notAllowed': `Ce {type, select,
+    universe {univers}
+    story {histoire}
+    other {travail}
+  } ne peut plus être supprimé en libre-service. Si vous avez besoin de le supprimer, <contact>contactez-nous</contact> et nous travaillerons avec vous pour le supprimer en toute sécurité.`,
+    'workshop.work.delete.notAllowed.plain': `Ce {type, select,
+    universe {univers}
+    story {histoire}
+    other {travail}
+  } ne peut plus être supprimé en libre-service. Si vous avez besoin de le supprimer, contactez-nous à l'adresse deletions@literaryuniverse.com et nous travaillerons avec vous pour le supprimer en toute sécurité.`,
+    'workshop.universe.dangerZone': 'Zone de danger',
+    'workshop.universe.dangerZone.desc': 'Vous ne pouvez supprimer cet univers que s\'il n\'a pas d\'histoires publiées et s\'il a été publié il y a moins d\'un mois. Si vous avez besoin de le supprimer après cette période de limitation, veuillez nous contacter.',
+    'workshop.universe.delete.modalAria': 'Modalité de confirmation de la suppression d\'un univers',
+    'workshop.universe.delete.confirm': 'Supprimer l\'univers',
+    'workshop.universe.delete.warning': 'Êtes-vous sûr de vouloir supprimer "{title}" ? Cette action ne peut être annulée.',
+    'workshop.universe.delete.button': 'Supprimer l\'univers',
+    'workshop.universe.delete.notAllowed': 'Cet univers ne peut plus être supprimé en libre-service. Si vous souhaitez qu\'il soit supprimé après la période de prescription, veuillez nous contacter.',
+    'workshop.universe.unpublish.modalAria': 'Modalité de confirmation de la dépublication d\'un univers',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': 'La dépublication supprimera cet univers de la découverte et de la recherche publiques.',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Description de l\'univers',
     'workshop.settings.title': 'Titre',
     'workshop.description': 'Description',
