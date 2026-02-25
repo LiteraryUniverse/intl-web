@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': 'જો તમે યૂનિવર્સ પ્રકાશિત નહીં કરો તો તે આપોઆપ પ્રકાશિત થશે જ્યારે યૂનિવર્સ સાથે જોડાયેલી પહેલી કથા પ્રકાશિત થશે.',
     'workshop.universe.settings': '{universe} યૂનિવર્સ સેટિંગ્સ',
     'workshop.universe.publishedOn': 'આ યુનિવર્સ પર પ્રકાશિત થયું છે પરંતુ {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'If you need help, <contact>contact us</contact>.',
+    'workshop.work.delete.restrictions': `You can delete this {type, select,
+    universe {universe only when it has no published stories and}
+    story {story only when it}
+    other {work only when it}} was published less than one month ago. If you need to delete it after this limitation period, <contact>contact us</contact>.`,
+    'workshop.work.delete.notAllowed': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } can no longer be deleted through self-service. If you need it removed, <contact>contact us</contact> and we'll work with you to remove it safely.`,
+    'workshop.work.delete.notAllowed.plain': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } can no longer be deleted through self-service. If you need it removed, contact us at deletions@literaryuniverse.com and we'll work with you to remove it safely.`,
+    'workshop.universe.dangerZone': 'Danger zone',
+    'workshop.universe.dangerZone.desc': 'You can delete this universe only when it has no published stories and was published less than one month ago. If you need to delete it after this limitation period, please contact us.',
+    'workshop.universe.delete.modalAria': 'Confirmation modal for deleting a universe',
+    'workshop.universe.delete.confirm': 'Delete Universe',
+    'workshop.universe.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
+    'workshop.universe.delete.button': 'Delete Universe',
+    'workshop.universe.delete.notAllowed': 'This universe can no longer be deleted through self-service. If you need it removed after the limitation period, please contact us.',
+    'workshop.universe.unpublish.modalAria': 'Confirmation modal for unpublishing a universe',
+    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
+    'workshop.universe.unpublish.warning': 'Unpublishing will remove this universe from public discovery and search.',
+    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'યૂનિવર્સ વર્ણન',
     'workshop.settings.title': 'Title',
     'workshop.description': 'વર્ણન',
