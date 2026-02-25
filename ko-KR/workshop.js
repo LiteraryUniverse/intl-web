@@ -26,6 +26,32 @@ export default {
     'workshop.universe.publishing.notice': '우주를 게시하지 않으면, 우주에 연결된 첫 번째 이야기가 게시될 때 자동으로 게시됩니다.',
     'workshop.universe.settings': '{universe} 우주 설정',
     'workshop.universe.publishedOn': '이 우주는 {date, date, long} 에 게시되었습니다. {date, time, short}',
+    'workshop.work.deletion.contactUs': '도움이 필요하면 <contact>문의하세요</contact>.',
+    'workshop.work.delete.restrictions': `{type, select,
+    universe {유니버스는 게시된 스토리가 없는 경우에만,}
+    story {스토리는}
+    other {작품은}} 게시된 지 한 달 미만인 경우에만 삭제할 수 있습니다. 이 제한 기간이 지난 후 삭제해야 하는 경우 <contact>당사에 문의하세요</contact>.`,
+    'workshop.work.delete.notAllowed': `이 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {일}
+  } 는 더 이상 셀프 서비스를 통해 삭제할 수 없습니다. 삭제가 필요한 경우 고객센터로 <contact>문의하시면</contact> 안전하게 삭제해 드리겠습니다.`,
+    'workshop.work.delete.notAllowed.plain': `이 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {일}
+  } 는 더 이상 셀프 서비스를 통해 삭제할 수 없습니다. 삭제가 필요한 경우 deletions@literaryuniverse.com 으로 문의하시면 안전하게 삭제할 수 있도록 도와드리겠습니다.`,
+    'workshop.universe.dangerZone': '위험 구역',
+    'workshop.universe.dangerZone.desc': '이 유니버스는 게시된 스토리가 없고 게시된 지 한 달이 지나지 않은 경우에만 삭제할 수 있습니다. 이 제한 기간이 지난 후에 삭제해야 하는 경우 문의해 주세요.',
+    'workshop.universe.delete.modalAria': '유니버스 삭제를 위한 확인 모달',
+    'workshop.universe.delete.confirm': '유니버스 삭제',
+    'workshop.universe.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
+    'workshop.universe.delete.button': '유니버스 삭제',
+    'workshop.universe.delete.notAllowed': '이 유니버스는 더 이상 셀프 서비스를 통해 삭제할 수 없습니다. 제한 기간 이후에 삭제해야 하는 경우 고객센터로 문의하시기 바랍니다.',
+    'workshop.universe.unpublish.modalAria': '유니버스 게시 취소를 위한 확인 모달',
+    'workshop.universe.unpublish.confirm': '유니버스 게시 취소',
+    'workshop.universe.unpublish.warning': '게시를 취소하면 이 유니버스가 공개 검색 및 검색에서 제거됩니다.',
+    'workshop.universe.unpublish.button': '유니버스 게시 취소',
     'workshop.universe.description': '우주 설명',
     'workshop.settings.title': '제목',
     'workshop.description': '설명',
