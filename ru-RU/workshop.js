@@ -46,52 +46,52 @@ export default {
     story {историю со всеми главами, статистикой и ассоциациями мастерской}
     other {работу и связанные с ней данные}
   }.`,
-    'workshop.work.unpublish.impact': `Распубликуйте эту {type, select,
-    universe {вселенную}
-    story {историю}
-    other {работу}
-  } и удалите ее из поиска и обнаружения. Люди, которые уже имеют эту книгу в своей библиотеке, сохраняют к ней доступ. Новые пользователи больше не смогут добавить ее в свою библиотеку{type, select,
+    'workshop.work.makePrivate.impact': `Создание этой {type, select,
+    universe {вселенной}
+    story {истории}
+    other {работы}
+  } удаляет ее из поиска и обнаружения. Люди, которые уже имеют эту книгу в своей библиотеке, сохраняют к ней доступ. Новые пользователи больше не смогут добавить ее в свою библиотеку{type, select,
     story { или купить ее, если только Вы не подарите ее им}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Эта {type, select,
-    universe {вселенная}
-    story {история}
-    other {произведение}
-  } в настоящее время не опубликована. Существующие владельцы библиотек по-прежнему имеют к ней доступ. Новые пользователи не могут добавить его в свою библиотеку{type, select,
-    story { или купить}
-    other {}
-  }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.unpublish.modalAria': `Подтверждение модальности для отмены публикации {type, select,
+    'workshop.work.private.notice': `Эта {type, select,
     universe {вселенная}
     story {история}
     other {работа}
-  }`,
-    'workshop.work.unpublish.warning': `Распубликация удалит эту {type, select,
+  } в настоящее время является приватной. Существующие владельцы библиотек по-прежнему имеют доступ. Новые пользователи не могут добавить его в свою библиотеку{type, select,
+    story { или купить его}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Сделать {type, select,
+    universe {Вселенная}
+    story {История}
+    other {Работа}
+  } Личное`,
+    'workshop.work.makePrivate.modalAria': `Модальное подтверждение для создания {type, select,
+    universe {вселенной}
+    story {истории}
+    other {работы}
+  } частной`,
+    'workshop.work.makePrivate.warning': `Если сделать эту {type, select,
     universe {вселенную}
     story {историю}
     other {работу}
-  } из публичного обнаружения и поиска.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+  } частной, то она будет удалена из публичного доступа и поиска.`,
+    'workshop.work.makePublic.button': `Сделать {type, select,
+    universe {Вселенная}
+    story {История}
+    other {Работа}
   }`,
-    'workshop.work.republish.modalAria': `Модальное подтверждение для перепубликации {type, select,
+    'workshop.work.makePublic.modalAria': `Подтверждающий модал для создания {type, select,
     universe {вселенной}
     story {истории}
     other {работы}
   }`,
-    'workshop.work.republish.warning': `Переиздание сделает эту {type, select,
+    'workshop.work.makePublic.warning': `Если сделать эту {type, select,
     universe {вселенную}
     story {историю}
-    other {произведение}
-  } снова доступным для обнаружения и позволит новым пользователям добавить ее в свою библиотеку{type, select,
+    other {работу}
+  } общедоступной, она снова станет доступной для обнаружения и позволит новым пользователям добавить ее в свою библиотеку{type, select,
     story { или купить ее}
     other {}
   }.`,
@@ -443,14 +443,14 @@ export default {
     'workshop.story.delete.modalAria': 'Модальное подтверждение для удаления истории',
     'workshop.story.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
     'workshop.story.delete.button': 'Удалить историю',
-    'workshop.story.unpublished.universeExplain': 'Эта история не опубликована, потому что не опубликована ее вселенная.',
-    'workshop.story.republishWithUniverse.button': 'Переиздание истории и вселенной',
-    'workshop.universe.republish.only.button': 'Переиздание Только Вселенная',
-    'workshop.universe.republish.only.modalAria': 'Модальное подтверждение только для перепубликации вселенной',
-    'workshop.universe.republish.only.warning': 'При этом переиздается только вселенная. Истории в этой вселенной остаются неопубликованными до тех пор, пока не будут переизданы по отдельности.',
-    'workshop.universe.republish.withStories.button': 'Переиздание Вселенной и всех историй',
-    'workshop.universe.republish.withStories.modalAria': 'Модаль подтверждения для перепубликации вселенной со всеми историями',
-    'workshop.universe.republish.withStories.warning': 'Это переиздание вселенной и всех историй, связанных с ней.',
+    'workshop.story.private.universeExplain': 'Эта история - частная, потому что ее вселенная - частная.',
+    'workshop.story.makePublicWithUniverse.button': 'Сделайте историю и вселенную общедоступными',
+    'workshop.universe.makePublic.only.button': 'Сделать вселенную только общедоступной',
+    'workshop.universe.makePublic.only.modalAria': 'Модаль подтверждения для того, чтобы сделать вселенную только публичной',
+    'workshop.universe.makePublic.only.warning': 'Это делает публичной только вселенную. Истории в этой вселенной остаются приватными до тех пор, пока не станут публичными по отдельности.',
+    'workshop.universe.makePublic.withStories.button': 'Сделайте Вселенную и все истории общедоступными',
+    'workshop.universe.makePublic.withStories.modalAria': 'Модаль подтверждения для того, чтобы сделать вселенную и все истории общедоступными',
+    'workshop.universe.makePublic.withStories.warning': 'Это делает вселенную и все связанные с ней истории общедоступными.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Модальное окно подтверждения для удаления главы',
     'workshop.chapter.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
