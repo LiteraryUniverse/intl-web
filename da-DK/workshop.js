@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Bekræftelsesmodal for afpublicering af en {type, select,
     universe {univers}
     story {historie}
@@ -83,11 +78,6 @@ export default {
     other {værk}
   } fra offentlig opdagelse og søgning.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universe}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Farezone',
     'workshop.universe.dangerZone.desc': 'Du kan kun slette dette univers, hvis det ikke har nogen publicerede historier og blev publiceret for mindre end en måned siden. Hvis du har brug for at slette det efter denne begrænsningsperiode, bedes du kontakte os.',
     'workshop.universe.delete.modalAria': 'Bekræftelsesmodal for sletning af et univers',
-    'workshop.universe.delete.confirm': 'Slet universet',
     'workshop.universe.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
     'workshop.universe.delete.button': 'Slet universet',
-    'workshop.universe.delete.notAllowed': 'Dette univers kan ikke længere slettes via selvbetjening. Hvis du har brug for at få det fjernet efter forældelsesfristen, bedes du kontakte os.',
-    'workshop.universe.unpublish.modalAria': 'Bekræftelsesmodal for afpublicering af et univers',
-    'workshop.universe.unpublish.confirm': 'Afbryd udgivelsen af universet',
-    'workshop.universe.unpublish.warning': 'Afpublicering vil fjerne dette univers fra offentlig opdagelse og søgning.',
-    'workshop.universe.unpublish.button': 'Afbryd udgivelsen af universet',
     'workshop.universe.description': 'Universe beskrivelse',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beskrivelse',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'På grund af brud på god opførsel har vi deaktiveret din mulighed for at publicere.',
     'workshop.story.buyingSettings': 'Indstillinger for salg',
     'workshop.story.delete.modalAria': 'Bekræftelsesmodal for sletning af en historie',
-    'workshop.story.delete.confirm': 'Slet historien',
     'workshop.story.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
     'workshop.story.delete.button': 'Slet historien',
-    'workshop.story.republish.button': 'Genudgiv historien',
-    'workshop.story.republish.confirm': 'Genudgiv historien',
-    'workshop.story.republish.modalAria': 'Bekræftelsesmodal for genudgivelse af en historie',
-    'workshop.story.republish.warning': 'Genudgivelsen vil gøre denne historie tilgængelig igen og give nye brugere mulighed for at tilføje den til deres bibliotek.',
     'workshop.story.unpublished.universeExplain': 'Denne historie er upubliceret, fordi dens univers er upubliceret.',
     'workshop.story.republishWithUniverse.button': 'Genudgiv historie og univers',
+    'workshop.universe.republish.only.button': 'Kun genudgivelse af universet',
+    'workshop.universe.republish.only.modalAria': 'Bekræftelsesmodal kun for genudgivelse af et univers',
+    'workshop.universe.republish.only.warning': 'Dette genudgiver kun universet. Historier i dette univers forbliver upublicerede, indtil de genudgives individuelt.',
+    'workshop.universe.republish.withStories.button': 'Genudgiv universet og alle historier',
+    'workshop.universe.republish.withStories.modalAria': 'Bekræftelsesmodal for genudgivelse af et univers med alle historier',
+    'workshop.universe.republish.withStories.warning': 'Dette genudgiver universet og alle historier, der er knyttet til det.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bekræftelsesmodal for sletning af et kapitel',
-    'workshop.chapter.delete.confirm': 'Slet kapitel',
     'workshop.chapter.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
     'workshop.chapter.delete.button': 'Slet kapitel',
     'workshop.chapter.delete.deleting': 'Sletning...',
