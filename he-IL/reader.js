@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'זו כל הסיפור עד כה, אך ההרפתקה תמשך בעתיד, חזור בקרוב!',
     'reader.storyPreview.heading': 'תצוגה מקדימה הושלמה',
     'reader.storyPreview.description': 'סיימתם זה עתה את התצוגה המקדימה. אין לנו כאן את המשך הסיפור, אך תוכלו להמשיך לקרוא אותו במקומות המפורטים להלן.',
+    'reader.unpublishedChapter.heading': 'פרק זה אינו זמין עוד',
     'chapter.translation.notYetDescription': 'חזור שוב בקרוב!',
     'reader.externalShopping.heading': 'השג את {storyName} במקומות אחרים:',
     'chapter.next': 'פרק הבא',
