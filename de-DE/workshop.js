@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Arbeit}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universum}
-    story {Story}
-    other {Arbeit}
-  }`,
     'workshop.work.unpublish.modalAria': `Bestätigungsmodus für die Veröffentlichung einer {type, select,
     universe {Universum}
     story {Geschichte}
@@ -83,11 +78,6 @@ export default {
     other {Werk}
   } aus der öffentlichen Entdeckung und Suche entfernt.`,
     'workshop.work.republish.button': `Wiederveröffentlichen {type, select,
-    universe {Universum}
-    story {Geschichte}
-    other {Arbeit}
-  }`,
-    'workshop.work.republish.confirm': `Wiederveröffentlichen {type, select,
     universe {Universum}
     story {Geschichte}
     other {Arbeit}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Gefahrenzone',
     'workshop.universe.dangerZone.desc': 'Sie können dieses Universum nur löschen, wenn es keine veröffentlichten Geschichten hat und vor weniger als einem Monat veröffentlicht wurde. Wenn Sie es nach dieser Frist löschen müssen, kontaktieren Sie uns bitte.',
     'workshop.universe.delete.modalAria': 'Bestätigungsmodal für das Löschen eines Universums',
-    'workshop.universe.delete.confirm': 'Universum löschen',
     'workshop.universe.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
     'workshop.universe.delete.button': 'Universum löschen',
-    'workshop.universe.delete.notAllowed': 'Dieses Universum kann nicht mehr über den Self-Service gelöscht werden. Wenn Sie es nach Ablauf der Verjährungsfrist entfernen möchten, kontaktieren Sie uns bitte.',
-    'workshop.universe.unpublish.modalAria': 'Bestätigungsmodal für das Aufheben der Veröffentlichung eines Universums',
-    'workshop.universe.unpublish.confirm': 'Unveröffentlichtes Universum',
-    'workshop.universe.unpublish.warning': 'Durch die Aufhebung der Veröffentlichung wird dieses Universum von der öffentlichen Entdeckung und Suche ausgeschlossen.',
-    'workshop.universe.unpublish.button': 'Unveröffentlichtes Universum',
     'workshop.universe.description': 'Universum Beschreibung',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beschreibung',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Aufgrund eines Verstoßes gegen die Regeln des guten Benehmens haben wir Ihre Fähigkeit zu veröffentlichen deaktiviert.',
     'workshop.story.buyingSettings': 'Verkauf Einstellungen',
     'workshop.story.delete.modalAria': 'Bestätigungsmodal für das Löschen einer Story',
-    'workshop.story.delete.confirm': 'Geschichte löschen',
     'workshop.story.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
     'workshop.story.delete.button': 'Geschichte löschen',
-    'workshop.story.republish.button': 'Geschichte neu veröffentlichen',
-    'workshop.story.republish.confirm': 'Geschichte neu veröffentlichen',
-    'workshop.story.republish.modalAria': 'Bestätigungsmodal für die Veröffentlichung einer Meldung',
-    'workshop.story.republish.warning': 'Durch die Neuveröffentlichung wird diese Geschichte wieder auffindbar und neue Benutzer können sie ihrer Bibliothek hinzufügen.',
     'workshop.story.unpublished.universeExplain': 'Diese Geschichte ist unveröffentlicht, weil ihr Universum unveröffentlicht ist.',
     'workshop.story.republishWithUniverse.button': 'Geschichte und Universum neu veröffentlichen',
+    'workshop.universe.republish.only.button': 'Nur Universum neu veröffentlichen',
+    'workshop.universe.republish.only.modalAria': 'Bestätigungsmodal nur für die Neuveröffentlichung eines Universums',
+    'workshop.universe.republish.only.warning': 'Damit wird nur das Universum neu veröffentlicht. Die Geschichten in diesem Universum bleiben unveröffentlicht, bis sie einzeln neu veröffentlicht werden.',
+    'workshop.universe.republish.withStories.button': 'Universum und alle Geschichten neu veröffentlichen',
+    'workshop.universe.republish.withStories.modalAria': 'Bestätigungsmodal für die Wiederveröffentlichung eines Universums mit allen Geschichten',
+    'workshop.universe.republish.withStories.warning': 'Damit werden das Universum und alle damit verbundenen Geschichten neu veröffentlicht.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bestätigungsdialog für das Löschen eines Kapitels',
-    'workshop.chapter.delete.confirm': 'Kapitel löschen',
     'workshop.chapter.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
     'workshop.chapter.delete.button': 'Kapitel löschen',
     'workshop.chapter.delete.deleting': 'Löschen...',
