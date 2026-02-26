@@ -49,7 +49,7 @@ export default {
     story {story with all chapters, statistics, and workshop associations}
     other {work and related data}
   }.`,
-  'workshop.work.unpublish.impact': `Unpublishing this {type, select,
+  'workshop.work.makePrivate.impact': `Making this {type, select,
     universe {universe}
     story {story}
     other {work}
@@ -57,44 +57,44 @@ export default {
     story { or buy it unless you gift it to them}
     other {}
   }.`,
-  'workshop.work.unpublished.notice': `This {type, select,
+  'workshop.work.private.notice': `This {type, select,
     universe {universe}
     story {story}
     other {work}
-  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
+  } is currently private. Existing library holders still have access. New users cannot add it to their library{type, select,
     story { or buy it}
     other {}
   }.`,
-  'workshop.work.unpublish.button': `Unpublish {type, select,
+  'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+  'workshop.work.makePrivate.modalAria': `Confirmation modal for making a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private`,
+  'workshop.work.makePrivate.warning': `Making this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private will remove it from public discovery and search.`,
+  'workshop.work.makePublic.button': `Make {type, select,
     universe {Universe}
     story {Story}
     other {Work}
   }`,
-  'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
+  'workshop.work.makePublic.modalAria': `Confirmation modal for making a {type, select,
     universe {universe}
     story {story}
     other {work}
   }`,
-  'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
+  'workshop.work.makePublic.warning': `Making this {type, select,
     universe {universe}
     story {story}
     other {work}
-  } from public discovery and search.`,
-  'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-  'workshop.work.republish.modalAria': `Confirmation modal for republishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  }`,
-  'workshop.work.republish.warning': `Republishing will make this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } discoverable again and allow new users to add it to their library{type, select,
+  } public will make it discoverable again and allow new users to add it to their library{type, select,
     story { or buy it}
     other {}
   }.`,
@@ -513,21 +513,21 @@ export default {
   'workshop.story.delete.warning':
     'Are you sure you want to delete "{title}"? This action cannot be undone.',
   'workshop.story.delete.button': 'Delete Story',
-  'workshop.story.unpublished.universeExplain':
-    'This story is unpublished because its universe is unpublished.',
-  'workshop.story.republishWithUniverse.button':
-    'Republish Story and Universe',
-  'workshop.universe.republish.only.button': 'Republish Universe Only',
-  'workshop.universe.republish.only.modalAria':
-    'Confirmation modal for republishing a universe only',
-  'workshop.universe.republish.only.warning':
-    'This republishes only the universe. Stories in this universe stay unpublished until republished individually.',
-  'workshop.universe.republish.withStories.button':
-    'Republish Universe and All Stories',
-  'workshop.universe.republish.withStories.modalAria':
-    'Confirmation modal for republishing a universe with all stories',
-  'workshop.universe.republish.withStories.warning':
-    'This republishes the universe and all stories linked to it.',
+  'workshop.story.private.universeExplain':
+    'This story is private because its universe is private.',
+  'workshop.story.makePublicWithUniverse.button':
+    'Make Story and Universe Public',
+  'workshop.universe.makePublic.only.button': 'Make Universe Public Only',
+  'workshop.universe.makePublic.only.modalAria':
+    'Confirmation modal for making a universe public only',
+  'workshop.universe.makePublic.only.warning':
+    'This makes only the universe public. Stories in this universe stay private until made public individually.',
+  'workshop.universe.makePublic.withStories.button':
+    'Make Universe and All Stories Public',
+  'workshop.universe.makePublic.withStories.modalAria':
+    'Confirmation modal for making a universe and all stories public',
+  'workshop.universe.makePublic.withStories.warning':
+    'This makes the universe and all linked stories public.',
 
   // Chapter deletion
   'workshop.chapter.delete.modalAria': 'Confirmation modal for deleting a chapter',
