@@ -67,11 +67,6 @@ export default {
     story {Оповідання}
     other {Твір}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Всесвіт}
-    story {Оповідання}
-    other {Твір}
-  }`,
     'workshop.work.unpublish.modalAria': `Підтвердження модальності непублікації {type, select,
     universe {всесвіту}
     story {оповідання}
@@ -83,11 +78,6 @@ export default {
     other {твір}
   } з публічного доступу та пошуку.`,
     'workshop.work.republish.button': `Перевидання {type, select,
-    universe {Всесвіт}
-    story {Оповідання}
-    other {Твір}
-  }`,
-    'workshop.work.republish.confirm': `Перевидання {type, select,
     universe {Всесвіт}
     story {Оповідання}
     other {Твір}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Небезпечна зона',
     'workshop.universe.dangerZone.desc': 'Ви можете видалити цей всесвіт лише тоді, коли в ньому немає опублікованих історій і він був опублікований менше місяця тому. Якщо вам потрібно видалити його після закінчення цього терміну, будь ласка, зв\'яжіться з нами.',
     'workshop.universe.delete.modalAria': 'Модальне вікно підтвердження для видалення всесвіту',
-    'workshop.universe.delete.confirm': 'Видалити Всесвіт',
     'workshop.universe.delete.warning': 'Ви дійсно хочете видалити "{title}"? Ця дія не може бути скасована.',
     'workshop.universe.delete.button': 'Видалити Всесвіт',
-    'workshop.universe.delete.notAllowed': 'Цей всесвіт більше не можна видалити через самообслуговування. Якщо вам потрібно видалити його після закінчення терміну позовної давності, будь ласка, зв\'яжіться з нами.',
-    'workshop.universe.unpublish.modalAria': 'Спосіб підтвердження для непублікації всесвіту',
-    'workshop.universe.unpublish.confirm': 'Неопублікований Всесвіт',
-    'workshop.universe.unpublish.warning': 'Неопублікування вилучить цей всесвіт з публічного відкриття та пошуку.',
-    'workshop.universe.unpublish.button': 'Неопублікований Всесвіт',
     'workshop.universe.description': 'Опис всесвіту',
     'workshop.settings.title': 'Заголовок',
     'workshop.description': 'Описання',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Через порушення правил поведінки ми заблокували вашу можливість публікувати.',
     'workshop.story.buyingSettings': 'Налаштування продажу',
     'workshop.story.delete.modalAria': 'Модальне вікно підтвердження для видалення історії',
-    'workshop.story.delete.confirm': 'Видалити історію',
     'workshop.story.delete.warning': 'Ви дійсно хочете видалити "{title}"? Ця дія не може бути скасована.',
     'workshop.story.delete.button': 'Видалити історію',
-    'workshop.story.republish.button': 'Опублікувати історію',
-    'workshop.story.republish.confirm': 'Опублікувати історію',
-    'workshop.story.republish.modalAria': 'Спосіб підтвердження для повторної публікації статті',
-    'workshop.story.republish.warning': 'Перевидання зробить цю історію знову доступною і дозволить новим користувачам додати її до своєї бібліотеки.',
     'workshop.story.unpublished.universeExplain': 'Ця історія не опублікована, тому що її всесвіт не опублікований.',
     'workshop.story.republishWithUniverse.button': 'Перевидати Історію та Всесвіт',
+    'workshop.universe.republish.only.button': 'Перепублікувати Тільки Всесвіт',
+    'workshop.universe.republish.only.modalAria': 'Режим підтвердження тільки для повторної публікації всесвіту',
+    'workshop.universe.republish.only.warning': 'Тут перевидається лише всесвіт. Історії в цьому всесвіті залишаються неопублікованими, поки не будуть перевидані окремо.',
+    'workshop.universe.republish.withStories.button': 'Перевидати "Всесвіт" та "Всі історії',
+    'workshop.universe.republish.withStories.modalAria': 'Спосіб підтвердження для повторної публікації всесвіту з усіма історіями',
+    'workshop.universe.republish.withStories.warning': 'Це перевидання всесвіту і всіх історій, пов\'язаних з ним.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Модальне вікно підтвердження видалення розділу',
-    'workshop.chapter.delete.confirm': 'Видалити розділ',
     'workshop.chapter.delete.warning': 'Ви дійсно хочете видалити "{title}"? Ця дія не може бути скасована.',
     'workshop.chapter.delete.button': 'Видалити розділ',
     'workshop.chapter.delete.deleting': 'Видалення...',
