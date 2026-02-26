@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'ഈ കഥയുടെ പിന്നിലെയുള്ളത് ഇതാണ്, പക്ഷേ അവസാനം അവസരം വരെ അവന്നുകാത്തുള്ളതാണ്, അടുത്തത് പരിശോധിക്കുക!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'വീണ്ടും പരിശോധിക്കുക!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'അടുത്ത അദ്ധ്യായം',
