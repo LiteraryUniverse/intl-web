@@ -28,9 +28,9 @@ export default {
     'workshop.universe.publishedOn': 'Αυτό το σύμπαν έχει δημοσιευτεί στις {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': 'Αν χρειάζεστε βοήθεια, <contact>επικοινωνήστε μαζί μας</contact>.',
     'workshop.work.delete.restrictions': `Μπορείτε να διαγράψετε αυτό το {type, select,
-    universe {σύμπαν μόνο όταν δεν έχει δημοσιευμένες ιστορίες και}
-    story {ιστορία μόνο όταν έχει}
-    other {έργο μόνο όταν έχει}} δημοσιευτεί λιγότερο από ένα μήνα πριν. Αν χρειαστεί να το διαγράψετε μετά από αυτή την περίοδο περιορισμού, <contact>επικοινωνήστε μαζί μας</contact>.`,
+    universe {σύμπαν μόνο αν δεν έχει δημοσιευμένες ιστορίες και}
+    story {ιστορία μόνο αν έχει}
+    other {έργο μόνο αν έχει}} δημοσιευτεί λιγότερο από ένα μήνα πριν. Χρειάζεστε βοήθεια μετά από αυτό; <contact>Επικοινωνήστε μαζί μας</contact>.`,
     'workshop.work.delete.notAllowed': `Αυτό το {type, select,
     universe {σύμπαν}
     story {ιστορία}
@@ -41,6 +41,70 @@ export default {
     story {ιστορία}
     other {εργασία}
   } δεν μπορεί πλέον να διαγραφεί μέσω αυτοεξυπηρέτησης. Αν θέλετε να το αφαιρέσετε, επικοινωνήστε μαζί μας στο deletions@literaryuniverse.com και θα συνεργαστούμε μαζί σας για να το αφαιρέσουμε με ασφάλεια.`,
+    'workshop.work.danger.delete.desc': `Διαγράφει μόνιμα αυτό το {type, select,
+    universe {σύμπαν και συνδεδεμένα δεδομένα εργαστηρίου}
+    story {ιστορία με όλα τα κεφάλαια, τα στατιστικά στοιχεία και τις ενώσεις εργαστηρίων}
+    other {έργο και συναφή δεδομένα}
+  }.`,
+    'workshop.work.unpublish.impact': `Η αποδημοσίευση αυτού του {type, select,
+    universe {σύμπαντος}
+    story {ιστορίας}
+    other {έργου}
+  } το απομακρύνει από την ανακάλυψη και την αναζήτηση. Οι άνθρωποι που το έχουν ήδη στη βιβλιοθήκη τους διατηρούν την πρόσβαση. Οι νέοι χρήστες δεν μπορούν πλέον να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+    story { ή να το αγοράσουν εκτός αν τους το χαρίσετε}
+    other {~}
+  }.`,
+    'workshop.work.unpublished.notice': `Αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {έργο}
+  } είναι προς το παρόν αδημοσίευτο. Οι υπάρχοντες κάτοχοι βιβλιοθήκης εξακολουθούν να έχουν πρόσβαση. Οι νέοι χρήστες δεν μπορούν να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+    story { ή να το αγοράσουν}
+    other {}
+  }.`,
+    'workshop.work.unpublish.button': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.unpublish.confirm': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.unpublish.modalAria': `Επιβεβαίωση modal για unpublishing a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  }`,
+    'workshop.work.unpublish.warning': `Η κατάργηση της δημοσίευσης θα αφαιρέσει αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {έργο}
+  } από τη δημόσια ανακάλυψη και αναζήτηση.`,
+    'workshop.work.republish.button': `Αναδημοσίευση {type, select,
+    universe {Σύμπαν}
+    story {Ιστορία}
+    other {Εργασία}
+  }`,
+    'workshop.work.republish.confirm': `Αναδημοσίευση {type, select,
+    universe {Σύμπαν}
+    story {Ιστορία}
+    other {Εργασία}
+  }`,
+    'workshop.work.republish.modalAria': `Επιβεβαιωτικό modal για την αναδημοσίευση ενός {type, select,
+    universe {σύμπαντος}
+    story {ιστορίας}
+    other {έργου}
+  }`,
+    'workshop.work.republish.warning': `Η επανέκδοση θα κάνει αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {έργο}
+  } και πάλι ανακαλύψιμο και θα επιτρέψει στους νέους χρήστες να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+    story { ή να το αγοράσουν}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': 'Ζώνη κινδύνου',
     'workshop.universe.dangerZone.desc': 'Μπορείτε να διαγράψετε αυτό το σύμπαν μόνο όταν δεν έχει δημοσιευμένες ιστορίες και έχει δημοσιευτεί πριν από λιγότερο από ένα μήνα. Αν χρειαστεί να το διαγράψετε μετά από αυτή την περιοριστική περίοδο, παρακαλούμε επικοινωνήστε μαζί μας.',
     'workshop.universe.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός σύμπαντος',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Δεν είναι δυνατή η δημοσίευση ενώ η αποτροπή δημοσίευσης είναι ενεργοποιημένη στις ρυθμίσεις της ιστορίας.',
     'workshop.publishing.restricted': 'Λόγω παραβίασης της καλής συμπεριφοράς, απενεργοποιήσαμε τη δυνατότητά σας να δημοσιεύετε.',
     'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης',
+    'workshop.story.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή μιας ιστορίας',
+    'workshop.story.delete.confirm': 'Διαγραφή ιστορίας',
+    'workshop.story.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
+    'workshop.story.delete.button': 'Διαγραφή ιστορίας',
+    'workshop.story.republish.button': 'Αναδημοσίευση ιστορίας',
+    'workshop.story.republish.confirm': 'Αναδημοσίευση ιστορίας',
+    'workshop.story.republish.modalAria': 'Επιβεβαιωτικό modal για την αναδημοσίευση μιας ιστορίας',
+    'workshop.story.republish.warning': 'Η αναδημοσίευση θα καταστήσει αυτή την ιστορία και πάλι ανιχνεύσιμη και θα επιτρέψει σε νέους χρήστες να την προσθέσουν στη βιβλιοθήκη τους.',
+    'workshop.story.unpublished.universeExplain': 'Αυτή η ιστορία είναι αδημοσίευτη επειδή το σύμπαν της είναι αδημοσίευτο.',
+    'workshop.story.republishWithUniverse.button': 'Αναδημοσίευση ιστορίας και σύμπαντος',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός κεφαλαίου',
     'workshop.chapter.delete.confirm': 'Διαγραφή κεφαλαίου',
