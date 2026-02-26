@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'આવતી ગાથુથી અમે જેજ વધુ ગાથુ મેળવીશું, એ અવધિને ફરી ચકાશો. દેખવા માટે ફરી મુલાકાત આપો આવ્યો!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'આવતી ગાથુ માટે  ફરીથી તપાસ કરો!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'આગામી અધ્યાય',
