@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'Αυτό είναι όλο όσο έχουμε για την ιστορία μέχρι τώρα, αλλά η περιπέτεια θα συνεχιστεί στο μέλλον, ελέγξτε ξανά σύντομα!',
     'reader.storyPreview.heading': 'Προεπισκόπηση ολοκληρώθηκε',
     'reader.storyPreview.description': 'Μόλις ολοκληρώσατε την προεπισκόπηση. Δεν έχουμε ακόμα την υπόλοιπη ιστορία εδώ, αλλά μπορείτε να τη συνεχίσετε στα παρακάτω μέρη.',
+    'reader.unpublishedChapter.heading': 'Αυτό το κεφάλαιο δεν είναι πλέον διαθέσιμο',
     'chapter.translation.notYetDescription': 'Ελέγξτε ξανά σύντομα!',
     'reader.externalShopping.heading': 'Πάρτε το {storyName} σε άλλα μέρη:',
     'chapter.next': 'Επόμενο κεφάλαιο',
