@@ -28,9 +28,9 @@ export default {
     'workshop.universe.publishedOn': 'Dette univers er blevet udgivet på {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': '<contact>Kontakt os</contact>, hvis du har brug for hjælp.',
     'workshop.work.delete.restrictions': `Du kan kun slette dette {type, select,
-    universe {univers, når det ikke har nogen publicerede historier, og}
-    story {historie, når det}
-    other {værk, når det}} blev publiceret for mindre end en måned siden. Hvis du har brug for at slette det efter denne begrænsningsperiode, skal du <contact>kontakte os</contact>.`,
+    universe {univers, hvis det ikke har nogen publicerede historier, og}
+    story {historie kun hvis det}
+    other {værk kun hvis det}} blev publiceret for mindre end en måned siden. Har du brug for hjælp efter det? Så <contact>kontakt os</contact>.`,
     'workshop.work.delete.notAllowed': `Denne {type, select,
     universe {univers}
     story {historie}
@@ -41,6 +41,70 @@ export default {
     story {historie}
     other {arbejde}
   } kan ikke længere slettes via selvbetjening. Hvis du har brug for at få den fjernet, skal du kontakte os på deletions@literaryuniverse.com, så arbejder vi sammen med dig om at fjerne den på en sikker måde.`,
+    'workshop.work.danger.delete.desc': `Sletter permanent dette {type, select,
+    universe {univers og tilknyttede værkstedsdata}
+    story {historie med alle kapitler, statistikker og værkstedstilknytninger}
+    other {arbejde og relaterede data}
+  }.`,
+    'workshop.work.unpublish.impact': `Afpublicering af dette {type, select,
+    universe {univers}
+    story {historie}
+    other {værk}
+  } fjerner det fra opdagelse og søgning. Folk, der allerede har den i deres bibliotek, beholder adgangen. Nye brugere kan ikke længere tilføje det til deres bibliotek{type, select,
+    story { eller købe det, medmindre du giver det til dem}
+    other {}
+  }.`,
+    'workshop.work.unpublished.notice': `Dette {type, select,
+    universe {univers}
+    story {historie}
+    other {værk}
+  } er i øjeblikket ikke udgivet. Eksisterende biblioteksindehavere har stadig adgang. Nye brugere kan ikke tilføje den til deres bibliotek{type, select,
+    story { eller købe den}
+    other {}
+  }.`,
+    'workshop.work.unpublish.button': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.unpublish.confirm': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.unpublish.modalAria': `Bekræftelsesmodal for afpublicering af en {type, select,
+    universe {univers}
+    story {historie}
+    other {værk}
+  }`,
+    'workshop.work.unpublish.warning': `Afpublicering vil fjerne dette {type, select,
+    universe {univers}
+    story {historie}
+    other {værk}
+  } fra offentlig opdagelse og søgning.`,
+    'workshop.work.republish.button': `Republish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.republish.confirm': `Republish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.republish.modalAria': `Bekræftelsesmodal for genudgivelse af et {type, select,
+    universe {univers}
+    story {historie}
+    other {værk}
+  }`,
+    'workshop.work.republish.warning': `Genudgivelse vil gøre dette {type, select,
+    universe {univers}
+    story {historie}
+    other {værk}
+  } tilgængeligt igen og give nye brugere mulighed for at tilføje det til deres bibliotek{type, select,
+    story { eller købe det}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': 'Farezone',
     'workshop.universe.dangerZone.desc': 'Du kan kun slette dette univers, hvis det ikke har nogen publicerede historier og blev publiceret for mindre end en måned siden. Hvis du har brug for at slette det efter denne begrænsningsperiode, bedes du kontakte os.',
     'workshop.universe.delete.modalAria': 'Bekræftelsesmodal for sletning af et univers',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Kan ikke udgive, mens forhindring af udgivelse er aktiveret i historieindstillingerne.',
     'workshop.publishing.restricted': 'På grund af brud på god opførsel har vi deaktiveret din mulighed for at publicere.',
     'workshop.story.buyingSettings': 'Indstillinger for salg',
+    'workshop.story.delete.modalAria': 'Bekræftelsesmodal for sletning af en historie',
+    'workshop.story.delete.confirm': 'Slet historien',
+    'workshop.story.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
+    'workshop.story.delete.button': 'Slet historien',
+    'workshop.story.republish.button': 'Genudgiv historien',
+    'workshop.story.republish.confirm': 'Genudgiv historien',
+    'workshop.story.republish.modalAria': 'Bekræftelsesmodal for genudgivelse af en historie',
+    'workshop.story.republish.warning': 'Genudgivelsen vil gøre denne historie tilgængelig igen og give nye brugere mulighed for at tilføje den til deres bibliotek.',
+    'workshop.story.unpublished.universeExplain': 'Denne historie er upubliceret, fordi dens univers er upubliceret.',
+    'workshop.story.republishWithUniverse.button': 'Genudgiv historie og univers',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bekræftelsesmodal for sletning af et kapitel',
     'workshop.chapter.delete.confirm': 'Slet kapitel',
