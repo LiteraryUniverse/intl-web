@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Megerősítés modal for unpublishing a {type, select,
     universe {universe}
     story {story}
@@ -83,11 +78,6 @@ export default {
     other {munkát}
   } a nyilvános felfedezésből és keresésből.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universe}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Veszélyes zóna',
     'workshop.universe.dangerZone.desc': 'Ezt az univerzumot csak akkor törölheti, ha nincsenek publikált történetei, és kevesebb mint egy hónapja jelent meg. Ha ezen elévülési idő után kell törölnie, kérjük, lépjen kapcsolatba velünk.',
     'workshop.universe.delete.modalAria': 'Megerősítő modal egy univerzum törléséhez',
-    'workshop.universe.delete.confirm': 'Univerzum törlése',
     'workshop.universe.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
     'workshop.universe.delete.button': 'Univerzum törlése',
-    'workshop.universe.delete.notAllowed': 'Ez az univerzum már nem törölhető önkiszolgálással. Ha az elévülési idő után szeretné eltávolítani, kérjük, lépjen kapcsolatba velünk.',
-    'workshop.universe.unpublish.modalAria': 'Megerősítő modal egy univerzum közzétételének visszavonásához',
-    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
-    'workshop.universe.unpublish.warning': 'A közzététel feloldása eltávolítja ezt az univerzumot a nyilvános felfedezés és keresés alól.',
-    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Univerzum leírás',
     'workshop.settings.title': 'Cím',
     'workshop.description': 'Leírás',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'A jó magaviselet megsértése miatt letiltottuk a publikálási lehetőségét.',
     'workshop.story.buyingSettings': 'Értékesítési beállítások',
     'workshop.story.delete.modalAria': 'Megerősítő modal egy történet törléséhez',
-    'workshop.story.delete.confirm': 'Történet törlése',
     'workshop.story.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
     'workshop.story.delete.button': 'Történet törlése',
-    'workshop.story.republish.button': 'Történet újraközlése',
-    'workshop.story.republish.confirm': 'Történet újraközlése',
-    'workshop.story.republish.modalAria': 'Megerősítő modal egy történet újraközléséhez',
-    'workshop.story.republish.warning': 'Az újraközléssel ez a történet újra felfedezhetővé válik, és új felhasználók számára lehetővé válik, hogy felvegyék a könyvtárukba.',
     'workshop.story.unpublished.universeExplain': 'Ez a történet azért nem publikált, mert az univerzuma nem publikált.',
     'workshop.story.republishWithUniverse.button': 'Történet és univerzum újraközlése',
+    'workshop.universe.republish.only.button': 'Csak az Univerzum újraközlése',
+    'workshop.universe.republish.only.modalAria': 'Megerősítő modal csak univerzum újraközléséhez',
+    'workshop.universe.republish.only.warning': 'Ez csak az univerzumot teszi közzé. Az ebben az univerzumban lévő történetek mindaddig kiadatlanok maradnak, amíg külön-külön újra nem publikálják őket.',
+    'workshop.universe.republish.withStories.button': 'Az Univerzum és az összes történet újraközlése',
+    'workshop.universe.republish.withStories.modalAria': 'Megerősítő modal egy univerzum újraközléséhez az összes történettel együtt',
+    'workshop.universe.republish.withStories.warning': 'Ez újra közzéteszi az univerzumot és a hozzá kapcsolódó összes történetet.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Megerősítő modal egy fejezet törléséhez',
-    'workshop.chapter.delete.confirm': 'Fejezet törlése',
     'workshop.chapter.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
     'workshop.chapter.delete.button': 'Fejezet törlése',
     'workshop.chapter.delete.deleting': 'Törlés...',
