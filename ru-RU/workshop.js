@@ -27,10 +27,10 @@ export default {
     'workshop.universe.settings': 'Настройки вселенной {universe}',
     'workshop.universe.publishedOn': 'Эта вселенная была опубликована {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': 'Если Вам нужна помощь, <contact>свяжитесь с нами</contact>.',
-    'workshop.work.delete.restrictions': `You can delete this {type, select,
-    universe {universe only if it has no published stories and}
-    story {story only if it}
-    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.restrictions': `Вы можете удалить эту {type, select,
+    universe {вселенную, только если в ней нет опубликованных историй, и}
+    story {историю, только если она}
+    other {работа, только если она}} была опубликована менее одного месяца назад. Нужна помощь после этого? <contact>Свяжитесь с нами</contact>.`,
     'workshop.work.delete.notAllowed': `Эта {type, select,
     universe {вселенная}
     story {история}
@@ -41,25 +41,25 @@ export default {
     story {история}
     other {работа}
   } больше не может быть удалена с помощью самообслуживания. Если Вам нужно удалить его, свяжитесь с нами по адресу deletions@literaryuniverse.com, и мы вместе с Вами безопасно удалим его.`,
-    'workshop.work.danger.delete.desc': `Permanently deletes this {type, select,
-    universe {universe and linked workshop data}
-    story {story with all chapters, statistics, and workshop associations}
-    other {work and related data}
+    'workshop.work.danger.delete.desc': `Постоянно удаляет эту {type, select,
+    universe {вселенную и связанные с ней данные мастерской}
+    story {историю со всеми главами, статистикой и ассоциациями мастерской}
+    other {работу и связанные с ней данные}
   }.`,
-    'workshop.work.unpublish.impact': `Unpublishing this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
-    story { or buy it unless you gift it to them}
+    'workshop.work.unpublish.impact': `Распубликуйте эту {type, select,
+    universe {вселенную}
+    story {историю}
+    other {работу}
+  } и удалите ее из поиска и обнаружения. Люди, которые уже имеют эту книгу в своей библиотеке, сохраняют к ней доступ. Новые пользователи больше не смогут добавить ее в свою библиотеку{type, select,
+    story { или купить ее, если только Вы не подарите ее им}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `This {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.unpublished.notice': `Эта {type, select,
+    universe {вселенная}
+    story {история}
+    other {произведение}
+  } в настоящее время не опубликована. Существующие владельцы библиотек по-прежнему имеют к ней доступ. Новые пользователи не могут добавить его в свою библиотеку{type, select,
+    story { или купить}
     other {}
   }.`,
     'workshop.work.unpublish.button': `Unpublish {type, select,
@@ -72,16 +72,16 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
+    'workshop.work.unpublish.modalAria': `Подтверждение модальности для отмены публикации {type, select,
+    universe {вселенная}
+    story {история}
+    other {работа}
   }`,
-    'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } from public discovery and search.`,
+    'workshop.work.unpublish.warning': `Распубликация удалит эту {type, select,
+    universe {вселенную}
+    story {историю}
+    other {работу}
+  } из публичного обнаружения и поиска.`,
     'workshop.work.republish.button': `Republish {type, select,
     universe {Universe}
     story {Story}
@@ -92,17 +92,17 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.republish.modalAria': `Confirmation modal for republishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
+    'workshop.work.republish.modalAria': `Модальное подтверждение для перепубликации {type, select,
+    universe {вселенной}
+    story {истории}
+    other {работы}
   }`,
-    'workshop.work.republish.warning': `Republishing will make this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } discoverable again and allow new users to add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.republish.warning': `Переиздание сделает эту {type, select,
+    universe {вселенную}
+    story {историю}
+    other {произведение}
+  } снова доступным для обнаружения и позволит новым пользователям добавить ее в свою библиотеку{type, select,
+    story { или купить ее}
     other {}
   }.`,
     'workshop.universe.dangerZone': 'Опасная зона',
@@ -456,16 +456,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Невозможно опубликовать, если в настройках истории включена функция предотвращения публикации.',
     'workshop.publishing.restricted': 'В связи с нарушением правил поведения мы лишили вас возможности публиковать.',
     'workshop.story.buyingSettings': 'Настройки продажи',
-    'workshop.story.delete.modalAria': 'Confirmation modal for deleting a story',
-    'workshop.story.delete.confirm': 'Delete Story',
-    'workshop.story.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
-    'workshop.story.delete.button': 'Delete Story',
-    'workshop.story.republish.button': 'Republish Story',
-    'workshop.story.republish.confirm': 'Republish Story',
-    'workshop.story.republish.modalAria': 'Confirmation modal for republishing a story',
-    'workshop.story.republish.warning': 'Republishing will make this story discoverable again and allow new users to add it to their library.',
-    'workshop.story.unpublished.universeExplain': 'This story is unpublished because its universe is unpublished.',
-    'workshop.story.republishWithUniverse.button': 'Republish Story and Universe',
+    'workshop.story.delete.modalAria': 'Модальное подтверждение для удаления истории',
+    'workshop.story.delete.confirm': 'Удалить историю',
+    'workshop.story.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
+    'workshop.story.delete.button': 'Удалить историю',
+    'workshop.story.republish.button': 'Перепубликация истории',
+    'workshop.story.republish.confirm': 'Перепубликация истории',
+    'workshop.story.republish.modalAria': 'Подтверждающая модаль для перепубликации истории',
+    'workshop.story.republish.warning': 'Переиздание сделает эту историю снова доступной для обнаружения и позволит новым пользователям добавить ее в свою библиотеку.',
+    'workshop.story.unpublished.universeExplain': 'Эта история не опубликована, потому что не опубликована ее вселенная.',
+    'workshop.story.republishWithUniverse.button': 'Переиздание истории и вселенной',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Модальное окно подтверждения для удаления главы',
     'workshop.chapter.delete.confirm': 'Удалить главу',
