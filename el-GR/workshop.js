@@ -46,7 +46,7 @@ export default {
     story {ιστορία με όλα τα κεφάλαια, τα στατιστικά στοιχεία και τις ενώσεις εργαστηρίων}
     other {έργο και συναφή δεδομένα}
   }.`,
-    'workshop.work.unpublish.impact': `Η αποδημοσίευση αυτού του {type, select,
+    'workshop.work.makePrivate.impact': `Η δημιουργία αυτού του {type, select,
     universe {σύμπαντος}
     story {ιστορίας}
     other {έργου}
@@ -54,44 +54,44 @@ export default {
     story { ή να το αγοράσουν εκτός αν τους το χαρίσετε}
     other {~}
   }.`,
-    'workshop.work.unpublished.notice': `Αυτό το {type, select,
+    'workshop.work.private.notice': `Αυτό το {type, select,
     universe {σύμπαν}
     story {ιστορία}
     other {έργο}
-  } είναι προς το παρόν αδημοσίευτο. Οι υπάρχοντες κάτοχοι βιβλιοθήκης εξακολουθούν να έχουν πρόσβαση. Οι νέοι χρήστες δεν μπορούν να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+  } είναι προς το παρόν ιδιωτικό. Οι υπάρχοντες κάτοχοι βιβλιοθήκης εξακολουθούν να έχουν πρόσβαση. Οι νέοι χρήστες δεν μπορούν να το προσθέσουν στη βιβλιοθήκη τους{type, select,
     story { ή να το αγοράσουν}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Επιβεβαίωση modal για την πραγματοποίηση ενός {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } ιδιωτικό`,
+    'workshop.work.makePrivate.warning': `Το να κάνετε αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } ιδιωτικό θα το αφαιρέσει από τη δημόσια ανακάλυψη και αναζήτηση.`,
+    'workshop.work.makePublic.button': `Make {type, select,
     universe {Universe}
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.modalAria': `Επιβεβαίωση modal για unpublishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  }`,
-    'workshop.work.unpublish.warning': `Η κατάργηση της δημοσίευσης θα αφαιρέσει αυτό το {type, select,
+    'workshop.work.makePublic.modalAria': `Επιβεβαίωση modal για την κατασκευή ενός {type, select,
     universe {σύμπαν}
     story {ιστορία}
     other {έργο}
-  } από τη δημόσια ανακάλυψη και αναζήτηση.`,
-    'workshop.work.republish.button': `Αναδημοσίευση {type, select,
-    universe {Σύμπαν}
-    story {Ιστορία}
-    other {Εργασία}
   }`,
-    'workshop.work.republish.modalAria': `Επιβεβαιωτικό modal για την αναδημοσίευση ενός {type, select,
+    'workshop.work.makePublic.warning': `Η δημοσιοποίηση αυτού του {type, select,
     universe {σύμπαντος}
     story {ιστορίας}
     other {έργου}
-  }`,
-    'workshop.work.republish.warning': `Η επανέκδοση θα κάνει αυτό το {type, select,
-    universe {σύμπαν}
-    story {ιστορία}
-    other {έργο}
-  } και πάλι ανακαλύψιμο και θα επιτρέψει στους νέους χρήστες να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+  } θα το κάνει και πάλι ανιχνεύσιμο και θα επιτρέψει σε νέους χρήστες να το προσθέσουν στη βιβλιοθήκη τους{type, select,
     story { ή να το αγοράσουν}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή μιας ιστορίας',
     'workshop.story.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
     'workshop.story.delete.button': 'Διαγραφή ιστορίας',
-    'workshop.story.unpublished.universeExplain': 'Αυτή η ιστορία είναι αδημοσίευτη επειδή το σύμπαν της είναι αδημοσίευτο.',
-    'workshop.story.republishWithUniverse.button': 'Αναδημοσίευση ιστορίας και σύμπαντος',
-    'workshop.universe.republish.only.button': 'Αναδημοσίευση μόνο του σύμπαντος',
-    'workshop.universe.republish.only.modalAria': 'Επιβεβαίωση μόνο για την αναδημοσίευση ενός σύμπαντος',
-    'workshop.universe.republish.only.warning': 'Αυτό αναδημοσιεύει μόνο το σύμπαν. Οι ιστορίες σε αυτό το σύμπαν παραμένουν αδημοσίευτες μέχρι να αναδημοσιευτούν μεμονωμένα.',
-    'workshop.universe.republish.withStories.button': 'Αναδημοσίευση του Σύμπαντος και όλων των ιστοριών',
-    'workshop.universe.republish.withStories.modalAria': 'Επιβεβαιωτικό modal για την αναδημοσίευση ενός σύμπαντος με όλες τις ιστορίες',
-    'workshop.universe.republish.withStories.warning': 'Αυτό αναδημοσιεύει το σύμπαν και όλες τις ιστορίες που συνδέονται με αυτό.',
+    'workshop.story.private.universeExplain': 'Αυτή η ιστορία είναι ιδιωτική επειδή το σύμπαν της είναι ιδιωτικό.',
+    'workshop.story.makePublicWithUniverse.button': 'Δημοσιοποίηση της ιστορίας και του σύμπαντος',
+    'workshop.universe.makePublic.only.button': 'Κάντε το σύμπαν μόνο δημόσιο',
+    'workshop.universe.makePublic.only.modalAria': 'Επιβεβαίωση μόνο για τη δημοσιοποίηση ενός σύμπαντος',
+    'workshop.universe.makePublic.only.warning': 'Αυτό καθιστά δημόσιο μόνο το σύμπαν. Οι ιστορίες σε αυτό το σύμπαν παραμένουν ιδιωτικές μέχρι να δημοσιευτούν μεμονωμένα.',
+    'workshop.universe.makePublic.withStories.button': 'Δημοσιοποιήστε το Σύμπαν και όλες τις ιστορίες',
+    'workshop.universe.makePublic.withStories.modalAria': 'Επιβεβαιωτικό modal για τη δημοσιοποίηση ενός σύμπαντος και όλων των ιστοριών',
+    'workshop.universe.makePublic.withStories.warning': 'Αυτό καθιστά το σύμπαν και όλες τις συνδεδεμένες ιστορίες δημόσιες.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός κεφαλαίου',
     'workshop.chapter.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
