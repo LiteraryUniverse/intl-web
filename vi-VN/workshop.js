@@ -46,52 +46,52 @@ export default {
     story {câu chuyện cùng tất cả các chương, thống kê và liên kết workshop}
     other {công việc và dữ liệu liên quan}
   }.`,
-    'workshop.work.unpublish.impact': `Việc gỡ bỏ xuất bản này {type, select,
-    universe {vũ trụ}
-    story {câu chuyện}
-    other {tác phẩm}
+    'workshop.work.makePrivate.impact': `Việc thực hiện điều này {type, select,
+    universe {universe}
+    story {story}
+    other {work}
   } sẽ loại bỏ nó khỏi kết quả tìm kiếm và khám phá. Những người đã có nó trong thư viện của mình vẫn giữ quyền truy cập. Người dùng mới không thể thêm nó vào thư viện của họ nữa{type, select,
     story { hoặc mua nó trừ khi bạn tặng nó cho họ}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Tác phẩm này {type, select,
+    'workshop.work.private.notice': `Tác phẩm này {type, select,
     universe {thuộc vũ trụ}
     story {câu chuyện}
     other {tác phẩm}
-  } hiện tại chưa được xuất bản. Người dùng hiện tại vẫn có thể truy cập. Người dùng mới không thể thêm nó vào thư viện của mình{type, select,
+  } hiện đang ở chế độ riêng tư. Người dùng hiện tại vẫn có thể truy cập. Người dùng mới không thể thêm nó vào thư viện của mình{type, select,
     story { hoặc mua nó}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Hủy đăng {type, select,
+    'workshop.work.makePrivate.button': `Tạo {type, select,
+    universe {Vũ trụ}
+    story {Câu chuyện}
+    other {Công việc}
+  } Riêng tư`,
+    'workshop.work.makePrivate.modalAria': `Cửa sổ xác nhận để tạo một {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } riêng tư`,
+    'workshop.work.makePrivate.warning': `Đặt chế độ riêng tư cho nội dung này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } sẽ loại bỏ nó khỏi kết quả tìm kiếm công khai và truy cập công khai.`,
+    'workshop.work.makePublic.button': `Tạo {type, select,
     universe {Vũ trụ}
     story {Câu chuyện}
     other {Công việc}
   }`,
-    'workshop.work.unpublish.modalAria': `Cửa sổ xác nhận để hủy đăng tải một {type, select,
+    'workshop.work.makePublic.modalAria': `Cửa sổ xác nhận để tạo một {type, select,
     universe {vũ trụ}
     story {câu chuyện}
     other {tác phẩm}
   }`,
-    'workshop.work.unpublish.warning': `Việc gỡ bỏ công khai sẽ xóa bỏ các mục sau khỏi khả năng tìm kiếm và hiển thị công khai: {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  }.`,
-    'workshop.work.republish.button': `Tái bản {type, select,
-    universe {Vũ trụ}
-    story {Câu chuyện}
-    other {Công việc}
-  }`,
-    'workshop.work.republish.modalAria': `Cửa sổ xác nhận để đăng lại một {type, select,
-    universe {vũ trụ}
+    'workshop.work.makePublic.warning': `Đưa tác phẩm này {type, select,
+    universe {vào vũ trụ}
     story {câu chuyện}
     other {tác phẩm}
-  }`,
-    'workshop.work.republish.warning': `Việc tái xuất bản sẽ giúp tác phẩm này {type, select,
-    universe {vũ trụ}
-    story {câu chuyện}
-    other {tác phẩm}
-  } trở nên có thể tìm thấy lại và cho phép người dùng mới thêm nó vào thư viện của họ{type, select,
+  } ra công khai sẽ giúp nó được phát hiện lại và cho phép người dùng mới thêm nó vào thư viện của họ{type, select,
     story { hoặc mua nó}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Hộp thoại xác nhận khi xóa một bài viết',
     'workshop.story.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
     'workshop.story.delete.button': 'Xóa câu chuyện',
-    'workshop.story.unpublished.universeExplain': 'Câu chuyện này chưa được xuất bản vì thế giới của nó chưa được xuất bản.',
-    'workshop.story.republishWithUniverse.button': 'Tái xuất bản Câu chuyện và Vũ trụ',
-    'workshop.universe.republish.only.button': 'Chỉ tái bản trong Universe',
-    'workshop.universe.republish.only.modalAria': 'Cửa sổ xác nhận cho việc tái xuất bản một vũ trụ duy nhất',
-    'workshop.universe.republish.only.warning': 'Điều này chỉ tái xuất bản toàn bộ vũ trụ. Các câu chuyện trong vũ trụ này sẽ không được xuất bản cho đến khi được tái xuất bản riêng lẻ.',
-    'workshop.universe.republish.withStories.button': 'Phát hành lại Vũ trụ và Tất cả Câu chuyện',
-    'workshop.universe.republish.withStories.modalAria': 'Cửa sổ xác nhận để tái xuất bản một vũ trụ với tất cả các câu chuyện',
-    'workshop.universe.republish.withStories.warning': 'Điều này tái xuất bản vũ trụ và tất cả các câu chuyện liên quan đến nó.',
+    'workshop.story.private.universeExplain': 'Câu chuyện này là riêng tư vì thế giới của nó là riêng tư.',
+    'workshop.story.makePublicWithUniverse.button': 'Công khai Câu chuyện và Vũ trụ',
+    'workshop.universe.makePublic.only.button': 'Chỉ công khai cho Universe',
+    'workshop.universe.makePublic.only.modalAria': 'Cửa sổ xác nhận để công khai một vũ trụ',
+    'workshop.universe.makePublic.only.warning': 'Điều này chỉ làm cho vũ trụ này trở nên công khai. Các câu chuyện trong vũ trụ này sẽ được giữ riêng tư cho đến khi được công khai từng cái một.',
+    'workshop.universe.makePublic.withStories.button': 'Làm cho Vũ trụ và Tất cả Câu chuyện trở nên công khai.',
+    'workshop.universe.makePublic.withStories.modalAria': 'Cửa sổ xác nhận để công khai vũ trụ và tất cả các câu chuyện',
+    'workshop.universe.makePublic.withStories.warning': 'Điều này khiến vũ trụ và tất cả các câu chuyện liên quan trở nên công khai.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Cửa sổ xác nhận cho việc xóa một chương',
     'workshop.chapter.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
