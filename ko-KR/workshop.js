@@ -27,10 +27,10 @@ export default {
     'workshop.universe.settings': '{universe} 우주 설정',
     'workshop.universe.publishedOn': '이 우주는 {date, date, long} 에 게시되었습니다. {date, time, short}',
     'workshop.work.deletion.contactUs': '도움이 필요하면 <contact>문의하세요</contact>.',
-    'workshop.work.delete.restrictions': `{type, select,
-    universe {유니버스는 게시된 스토리가 없는 경우에만,}
+    'workshop.work.delete.restrictions': `이 {type, select,
+    universe {유니버스는 게시된 스토리가 없는 경우에만 삭제할 수 있으며,}
     story {스토리는}
-    other {작품은}} 게시된 지 한 달 미만인 경우에만 삭제할 수 있습니다. 이 제한 기간이 지난 후 삭제해야 하는 경우 <contact>당사에 문의하세요</contact>.`,
+    other {작품은}} 게시된 지 한 달이 안 된 경우에만 삭제할 수 있습니다. 그 후에도 도움이 필요하신가요? <contact>문의해</contact> 주세요.`,
     'workshop.work.delete.notAllowed': `이 {type, select,
     universe {유니버스}
     story {스토리}
@@ -41,6 +41,70 @@ export default {
     story {스토리}
     other {일}
   } 는 더 이상 셀프 서비스를 통해 삭제할 수 없습니다. 삭제가 필요한 경우 deletions@literaryuniverse.com 으로 문의하시면 안전하게 삭제할 수 있도록 도와드리겠습니다.`,
+    'workshop.work.danger.delete.desc': `이 영구 삭제 {type, select,
+    universe {유니버스 및 연결된 워크샵 데이터}
+    story {모든 챕터, 통계 및 워크샵 연관성이있는 스토리}
+    other {작업 및 관련 데이터}
+  }.`,
+    'workshop.work.unpublish.impact': `이것을 게시 취소 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  } 검색 및 검색에서 제거합니다. 이미 라이브러리에 있는 사람들은 계속 액세스할 수 있습니다. 새로운 사용자는 더 이상 라이브러리에 추가할 수 없습니다{type, select,
+    story { 선물하지 않는 한}
+    other {}
+  }.`,
+    'workshop.work.unpublished.notice': `이 {type, select,
+    universe {우주}
+    story {이야기}
+    other {작품}
+  } 는 현재 미공개 상태입니다. 기존 라이브러리 소유자는 계속 액세스할 수 있습니다. 신규 사용자는 라이브러리에 추가하거나{type, select,
+    story { 구매}
+    other {}
+  } 할 수 없습니다.`,
+    'workshop.work.unpublish.button': `게시 취소 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  }`,
+    'workshop.work.unpublish.confirm': `게시 취소 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  }`,
+    'workshop.work.unpublish.modalAria': `게시 취소 확인 모달 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  }`,
+    'workshop.work.unpublish.warning': `게시를 취소하면 이 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {워크}
+  } 가 공개 검색 및 검색에서 삭제됩니다.`,
+    'workshop.work.republish.button': `다시 게시 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  }`,
+    'workshop.work.republish.confirm': `다시 게시 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  }`,
+    'workshop.work.republish.modalAria': `{type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  } 재게시 확인 모달입니다.`,
+    'workshop.work.republish.warning': `다시 게시하면 이 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작품}
+  } 를 다시 검색할 수 있고 새로운 사용자가 라이브러리에 추가{type, select,
+    story { 하거나 구매}
+    other {}
+  } 할 수 있습니다.`,
     'workshop.universe.dangerZone': '위험 구역',
     'workshop.universe.dangerZone.desc': '이 유니버스는 게시된 스토리가 없고 게시된 지 한 달이 지나지 않은 경우에만 삭제할 수 있습니다. 이 제한 기간이 지난 후에 삭제해야 하는 경우 문의해 주세요.',
     'workshop.universe.delete.modalAria': '유니버스 삭제를 위한 확인 모달',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': '스토리 설정에서 게시 금지가 활성화된 상태에서는 게시할 수 없습니다.',
     'workshop.publishing.restricted': '윤리강령 위반으로 인해 귀하의 게시 기능이 비활성화되었습니다.',
     'workshop.story.buyingSettings': '판매 설정',
+    'workshop.story.delete.modalAria': '스토리 삭제를 위한 확인 모달',
+    'workshop.story.delete.confirm': '스토리 삭제',
+    'workshop.story.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
+    'workshop.story.delete.button': '스토리 삭제',
+    'workshop.story.republish.button': '스토리 다시 게시',
+    'workshop.story.republish.confirm': '스토리 다시 게시',
+    'workshop.story.republish.modalAria': '스토리 다시 게시를 위한 확인 모달',
+    'workshop.story.republish.warning': '다시 게시하면 이 스토리를 다시 검색할 수 있고 새로운 사용자가 자신의 라이브러리에 추가할 수 있습니다.',
+    'workshop.story.unpublished.universeExplain': '이 이야기는 세계관이 미공개이기 때문에 미공개입니다.',
+    'workshop.story.republishWithUniverse.button': '스토리 및 유니버스 다시 게시',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '챕터 삭제를 위한 확인 모달',
     'workshop.chapter.delete.confirm': '장 삭제',
