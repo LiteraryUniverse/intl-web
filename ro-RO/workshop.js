@@ -46,52 +46,52 @@ export default {
     story {poveste cu toate capitolele, statisticile și asociațiile de atelier}
     other {muncă și date conexe}
   }.`,
-    'workshop.work.unpublish.impact': `Nepublicarea acestui {type, select,
+    'workshop.work.makePrivate.impact': `Făcând acest {type, select,
     universe {univers}
     story {poveste}
     other {lucrare}
-  } îl elimină din căutare și descoperire. Persoanele care o au deja în bibliotecă își păstrează accesul. Utilizatorii noi nu o mai pot adăuga în biblioteca lor{type, select,
+  } îl eliminați din descoperire și căutare. Persoanele care o au deja în bibliotecă își păstrează accesul. Utilizatorii noi nu o mai pot adăuga în biblioteca lor{type, select,
     story { sau nu o mai pot cumpăra decât dacă le-o oferiți cadou}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Acest {type, select,
+    'workshop.work.private.notice': `Acest {type, select,
     universe {univers}
     story {poveste}
     other {lucrare}
-  } este în prezent nepublicat. Posesorii actuali ai bibliotecii au încă acces. Utilizatorii noi nu o pot adăuga la biblioteca lor{type, select,
+  } este momentan privat. Posesorii actuali ai bibliotecii au încă acces. Utilizatorii noi nu o pot adăuga la biblioteca lor{type, select,
     story { sau cumpăra}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Mod de confirmare pentru realizarea unui {type, select,
+    universe {univers}
+    story {poveste}
+    other {muncă}
+  } privat`,
+    'workshop.work.makePrivate.warning': `Dacă faceți acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {lucrare}
+  } privat, acesta nu va mai putea fi descoperit și căutat de către public.`,
+    'workshop.work.makePublic.button': `Fă {type, select,
     universe {Univers}
     story {Poveste}
     other {Muncă}
   }`,
-    'workshop.work.unpublish.modalAria': `Mod de confirmare pentru nepublicarea unui {type, select,
+    'workshop.work.makePublic.modalAria': `Mod de confirmare pentru realizarea unui {type, select,
     universe {univers}
     story {poveste}
-    other {lucrare}
+    other {muncă}
   }`,
-    'workshop.work.unpublish.warning': `Nepublicarea va elimina acest {type, select,
+    'workshop.work.makePublic.warning': `A face acest {type, select,
     universe {univers}
     story {poveste}
     other {lucrare}
-  } de la descoperirea și căutarea publică.`,
-    'workshop.work.republish.button': `Republicare {type, select,
-    universe {Univers}
-    story {Poveste}
-    other {Muncă}
-  }`,
-    'workshop.work.republish.modalAria': `Mod de confirmare pentru republicarea unui {type, select,
-    universe {univers}
-    story {poveste}
-    other {lucrare}
-  }`,
-    'workshop.work.republish.warning': `Reeditarea va face acest {type, select,
-    universe {univers}
-    story {poveste}
-    other {lucrare}
-  } din nou descoperibil și va permite noilor utilizatori să îl adauge în biblioteca lor{type, select,
+  } public îl va face din nou descoperibil și va permite noilor utilizatori să îl adauge la biblioteca lor{type, select,
     story { sau să îl cumpere}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Mod de confirmare pentru ștergerea unei povești',
     'workshop.story.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
     'workshop.story.delete.button': 'Șterge povestea',
-    'workshop.story.unpublished.universeExplain': 'Această poveste este nepublicată pentru că universul ei este nepublicat.',
-    'workshop.story.republishWithUniverse.button': 'Republicarea poveștii și a universului',
-    'workshop.universe.republish.only.button': 'Republicați numai universul',
-    'workshop.universe.republish.only.modalAria': 'Mod de confirmare doar pentru republicarea unui univers',
-    'workshop.universe.republish.only.warning': 'Aceasta republică doar universul. Povestirile din acest univers rămân nepublicate până când sunt republicate individual.',
-    'workshop.universe.republish.withStories.button': 'Republicarea Universului și a tuturor poveștilor',
-    'workshop.universe.republish.withStories.modalAria': 'Mod de confirmare pentru republicarea unui univers cu toate povestirile',
-    'workshop.universe.republish.withStories.warning': 'Aceasta republică universul și toate povestirile legate de acesta.',
+    'workshop.story.private.universeExplain': 'Această poveste este privată pentru că universul ei este privat.',
+    'workshop.story.makePublicWithUniverse.button': 'Faceți publice povestea și universul',
+    'workshop.universe.makePublic.only.button': 'Faceți universul public numai',
+    'workshop.universe.makePublic.only.modalAria': 'Modul de confirmare pentru a face public un univers',
+    'workshop.universe.makePublic.only.warning': 'Acest lucru face public doar universul. Poveștile din acest univers rămân private până când sunt făcute publice individual.',
+    'workshop.universe.makePublic.withStories.button': 'Faceți publice Universul și toate poveștile',
+    'workshop.universe.makePublic.withStories.modalAria': 'Modul de confirmare pentru a face publice un univers și toate povestirile',
+    'workshop.universe.makePublic.withStories.warning': 'Acest lucru face ca universul și toate poveștile asociate să fie publice.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Mod de confirmare pentru ștergerea unui capitol',
     'workshop.chapter.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
