@@ -29,8 +29,8 @@ export default {
     'workshop.work.deletion.contactUs': 'Si vous avez besoin d\'aide, <contact>contactez-nous</contact>.',
     'workshop.work.delete.restrictions': `Vous ne pouvez supprimer cet {type, select,
     universe {univers que s'il n'a pas d'histoires publiées et}
-    story {histoire que s'il}
-    other {œuvre que s'il}} a été publié il y a moins d'un mois. Si vous avez besoin de le supprimer après cette période de limitation, <contact>contactez-nous</contact>.`,
+    story {histoire que si elle}
+    other {œuvre que si elle}} a été publiée il y a moins d'un mois. Besoin d'aide après cela ? <contact>Contactez-nous</contact>.`,
     'workshop.work.delete.notAllowed': `Ce {type, select,
     universe {univers}
     story {histoire}
@@ -41,6 +41,70 @@ export default {
     story {histoire}
     other {travail}
   } ne peut plus être supprimé en libre-service. Si vous avez besoin de le supprimer, contactez-nous à l'adresse deletions@literaryuniverse.com et nous travaillerons avec vous pour le supprimer en toute sécurité.`,
+    'workshop.work.danger.delete.desc': `Supprime définitivement ce {type, select,
+    universe {univers et données d'atelier liées}
+    story {histoire avec tous les chapitres, statistiques et associations d'atelier}
+    other {travail et données connexes}
+  }.`,
+    'workshop.work.unpublish.impact': `La dépublication de ce {type, select,
+    universe {univers}
+    story {histoire}
+    other {travail}
+  } le retire de la découverte et de la recherche. Les personnes qui l'ont déjà dans leur bibliothèque en conservent l'accès. Les nouveaux utilisateurs ne peuvent plus l'ajouter à leur bibliothèque{type, select,
+    story { ni l'acheter, sauf si vous le leur offrez}
+    other {}
+  }.`,
+    'workshop.work.unpublished.notice': `Ce {type, select,
+    universe {univers}
+    story {histoire}
+    other {œuvre}
+  } est actuellement inédit. Les détenteurs d'une bibliothèque y ont toujours accès. Les nouveaux utilisateurs ne peuvent pas l'ajouter à leur bibliothèque{type, select,
+    story { ou l'acheter}
+    other {}
+  }.`,
+    'workshop.work.unpublish.button': `Dépublier {type, select,
+    universe {Univers}
+    story {Histoire}
+    other {Travail}
+  }`,
+    'workshop.work.unpublish.confirm': `Dépublier {type, select,
+    universe {Univers}
+    story {Histoire}
+    other {Travail}
+  }`,
+    'workshop.work.unpublish.modalAria': `Confirmation modale pour dépublier un {type, select,
+    universe {univers}
+    story {histoire}
+    other {travail}
+  }`,
+    'workshop.work.unpublish.warning': `La dépublication supprimera cette {type, select,
+    universe {univers}
+    story {histoire}
+    other {œuvre}
+  } de la découverte et de la recherche publiques.`,
+    'workshop.work.republish.button': `Republier {type, select,
+    universe {Univers}
+    story {Histoire}
+    other {Travail}
+  }`,
+    'workshop.work.republish.confirm': `Republier {type, select,
+    universe {Univers}
+    story {Histoire}
+    other {Travail}
+  }`,
+    'workshop.work.republish.modalAria': `Modalité de confirmation de la republication d'un {type, select,
+    universe {univers}
+    story {histoire}
+    other {travail}
+  }`,
+    'workshop.work.republish.warning': `La réédition rendra cette {type, select,
+    universe {univers}
+    story {histoire}
+    other {œuvre}
+  } à nouveau découvrable et permettra aux nouveaux utilisateurs de l'ajouter à leur bibliothèque{type, select,
+    story { ou de l'acheter}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': 'Zone de danger',
     'workshop.universe.dangerZone.desc': 'Vous ne pouvez supprimer cet univers que s\'il n\'a pas d\'histoires publiées et s\'il a été publié il y a moins d\'un mois. Si vous avez besoin de le supprimer après cette période de limitation, veuillez nous contacter.',
     'workshop.universe.delete.modalAria': 'Modalité de confirmation de la suppression d\'un univers',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Impossible de publier si l\'option empêcher la publication est activée dans les paramètres de l\'article.',
     'workshop.publishing.restricted': 'En raison d\'une violation des règles de bonne conduite, nous avons désactivé votre capacité à publier.',
     'workshop.story.buyingSettings': 'Paramètres de vente',
+    'workshop.story.delete.modalAria': 'Modale de confirmation pour la suppression d\'un article',
+    'workshop.story.delete.confirm': 'Supprimer l\'histoire',
+    'workshop.story.delete.warning': 'Êtes-vous sûr de vouloir supprimer "{title}" ? Cette action ne peut être annulée.',
+    'workshop.story.delete.button': 'Supprimer l\'histoire',
+    'workshop.story.republish.button': 'Republier l\'article',
+    'workshop.story.republish.confirm': 'Republier l\'article',
+    'workshop.story.republish.modalAria': 'Modalité de confirmation de la republication d\'un article',
+    'workshop.story.republish.warning': 'La réédition rendra cette histoire à nouveau accessible et permettra à de nouveaux utilisateurs de l\'ajouter à leur bibliothèque.',
+    'workshop.story.unpublished.universeExplain': 'Cette histoire est inédite parce que son univers est inédit.',
+    'workshop.story.republishWithUniverse.button': 'Republier l\'histoire et l\'univers',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modale de confirmation pour la suppression d\'un chapitre',
     'workshop.chapter.delete.confirm': 'Supprimer le chapitre',
