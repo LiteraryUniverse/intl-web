@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Επιβεβαίωση modal για unpublishing a {type, select,
     universe {universe}
     story {story}
@@ -83,11 +78,6 @@ export default {
     other {έργο}
   } από τη δημόσια ανακάλυψη και αναζήτηση.`,
     'workshop.work.republish.button': `Αναδημοσίευση {type, select,
-    universe {Σύμπαν}
-    story {Ιστορία}
-    other {Εργασία}
-  }`,
-    'workshop.work.republish.confirm': `Αναδημοσίευση {type, select,
     universe {Σύμπαν}
     story {Ιστορία}
     other {Εργασία}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Ζώνη κινδύνου',
     'workshop.universe.dangerZone.desc': 'Μπορείτε να διαγράψετε αυτό το σύμπαν μόνο όταν δεν έχει δημοσιευμένες ιστορίες και έχει δημοσιευτεί πριν από λιγότερο από ένα μήνα. Αν χρειαστεί να το διαγράψετε μετά από αυτή την περιοριστική περίοδο, παρακαλούμε επικοινωνήστε μαζί μας.',
     'workshop.universe.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός σύμπαντος',
-    'workshop.universe.delete.confirm': 'Διαγραφή σύμπαντος',
     'workshop.universe.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
     'workshop.universe.delete.button': 'Διαγραφή σύμπαντος',
-    'workshop.universe.delete.notAllowed': 'Αυτό το σύμπαν δεν μπορεί πλέον να διαγραφεί μέσω της αυτοεξυπηρέτησης. Εάν χρειάζεστε τη διαγραφή του μετά την περίοδο περιορισμού, παρακαλούμε επικοινωνήστε μαζί μας.',
-    'workshop.universe.unpublish.modalAria': 'Επιβεβαιωτικό modal για την αποδημοσίευση ενός σύμπαντος',
-    'workshop.universe.unpublish.confirm': 'Αποδημοσίευση του Σύμπαντος',
-    'workshop.universe.unpublish.warning': 'Η κατάργηση της δημοσίευσης θα αφαιρέσει αυτό το σύμπαν από τη δημόσια ανακάλυψη και αναζήτηση.',
-    'workshop.universe.unpublish.button': 'Αποδημοσίευση του Σύμπαντος',
     'workshop.universe.description': 'Περιγραφή συμπαντικής ιστορίας',
     'workshop.settings.title': 'Τίτλος',
     'workshop.description': 'Περιγραφή',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Λόγω παραβίασης της καλής συμπεριφοράς, απενεργοποιήσαμε τη δυνατότητά σας να δημοσιεύετε.',
     'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης',
     'workshop.story.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή μιας ιστορίας',
-    'workshop.story.delete.confirm': 'Διαγραφή ιστορίας',
     'workshop.story.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
     'workshop.story.delete.button': 'Διαγραφή ιστορίας',
-    'workshop.story.republish.button': 'Αναδημοσίευση ιστορίας',
-    'workshop.story.republish.confirm': 'Αναδημοσίευση ιστορίας',
-    'workshop.story.republish.modalAria': 'Επιβεβαιωτικό modal για την αναδημοσίευση μιας ιστορίας',
-    'workshop.story.republish.warning': 'Η αναδημοσίευση θα καταστήσει αυτή την ιστορία και πάλι ανιχνεύσιμη και θα επιτρέψει σε νέους χρήστες να την προσθέσουν στη βιβλιοθήκη τους.',
     'workshop.story.unpublished.universeExplain': 'Αυτή η ιστορία είναι αδημοσίευτη επειδή το σύμπαν της είναι αδημοσίευτο.',
     'workshop.story.republishWithUniverse.button': 'Αναδημοσίευση ιστορίας και σύμπαντος',
+    'workshop.universe.republish.only.button': 'Αναδημοσίευση μόνο του σύμπαντος',
+    'workshop.universe.republish.only.modalAria': 'Επιβεβαίωση μόνο για την αναδημοσίευση ενός σύμπαντος',
+    'workshop.universe.republish.only.warning': 'Αυτό αναδημοσιεύει μόνο το σύμπαν. Οι ιστορίες σε αυτό το σύμπαν παραμένουν αδημοσίευτες μέχρι να αναδημοσιευτούν μεμονωμένα.',
+    'workshop.universe.republish.withStories.button': 'Αναδημοσίευση του Σύμπαντος και όλων των ιστοριών',
+    'workshop.universe.republish.withStories.modalAria': 'Επιβεβαιωτικό modal για την αναδημοσίευση ενός σύμπαντος με όλες τις ιστορίες',
+    'workshop.universe.republish.withStories.warning': 'Αυτό αναδημοσιεύει το σύμπαν και όλες τις ιστορίες που συνδέονται με αυτό.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός κεφαλαίου',
-    'workshop.chapter.delete.confirm': 'Διαγραφή κεφαλαίου',
     'workshop.chapter.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
     'workshop.chapter.delete.button': 'Διαγραφή κεφαλαίου',
     'workshop.chapter.delete.deleting': 'Διαγραφή...',
