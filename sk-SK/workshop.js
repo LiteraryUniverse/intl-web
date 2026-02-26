@@ -46,53 +46,53 @@ export default {
     story {príbeh so všetkými kapitolami, štatistikami a združeniami dielní}
     other {práce a súvisiace údaje}
   }.`,
-    'workshop.work.unpublish.impact': `Zrušenie zverejnenia tohto {type, select,
+    'workshop.work.makePrivate.impact': `Vytváranie tohto {type, select,
     universe {vesmíru}
     story {príbehu}
     other {diela}
-  } ho odstráni z objavovania a vyhľadávania. Ľudia, ktorí ju už majú vo svojej knižnici, si k nej zachovajú prístup. Noví používatelia si ju už nemôžu pridať do svojej knižnice{type, select,
+  } ho odstraňuje z objavovania a hľadania. Ľudia, ktorí ju už majú vo svojej knižnici, si k nej zachovajú prístup. Noví používatelia si ju už nemôžu pridať do svojej knižnice{type, select,
     story { ani kúpiť, pokiaľ im ju nedarujete}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Tento {type, select,
-    universe {vesmír}
-    story {príbeh}
-    other {dielo}
-  } v súčasnosti nie je publikovaný. Existujúci držitelia knižnice k nemu majú stále prístup. Noví používatelia si ho nemôžu pridať do svojej knižnice{type, select,
-    story { ani zakúpiť}
-    other {}
-  }.`,
-    'workshop.work.unpublish.button': `Neuverejniť {type, select,
-    universe {Vesmír}
-    story {Príbeh}
-    other {Práca}
-  }`,
-    'workshop.work.unpublish.modalAria': `Potvrdzovací modal pre zrušenie publikovania {type, select,
+    'workshop.work.private.notice': `Tento {type, select,
     universe {vesmír}
     story {príbeh}
     other {práca}
-  }`,
-    'workshop.work.unpublish.warning': `Zrušenie zverejnenia odstráni tento {type, select,
+  } je v súčasnosti súkromný. Existujúci držitelia knižnice k nemu majú stále prístup. Noví používatelia si ho nemôžu pridať do svojej knižnice{type, select,
+    story { ani zakúpiť}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Potvrdzovací modal na vytvorenie {type, select,
     universe {vesmír}
     story {príbeh}
-    other {dielo}
-  } z verejného objavovania a vyhľadávania.`,
-    'workshop.work.republish.button': `Zverejniť {type, select,
-    universe {Vesmír}
-    story {Príbeh}
-    other {Práca}
-  }`,
-    'workshop.work.republish.modalAria': `Potvrdzovací modal pre opätovné publikovanie {type, select,
+    other {práca}
+  } súkromný`,
+    'workshop.work.makePrivate.warning': `Tým, že tento {type, select,
     universe {vesmír}
     story {príbeh}
-    other {dielo}
+    other {práca}
+  } bude súkromný, odstráni sa z verejného objavovania a vyhľadávania.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
   }`,
-    'workshop.work.republish.warning': `Opätovné publikovanie umožní, aby sa tento {type, select,
-    universe {vesmír}
-    story {príbeh}
-    other {dielo}
-  } opäť dalo objaviť a aby si ho noví používatelia mohli pridať do svojej knižnice{type, select,
-    story { alebo kúpiť}
+    'workshop.work.makePublic.modalAria': `Potvrdzovací modus na vytvorenie {type, select,
+    universe {vesmíru}
+    story {príbehu}
+    other {práce}
+  }`,
+    'workshop.work.makePublic.warning': `Zverejnením tohto {type, select,
+    universe {vesmíru}
+    story {príbehu}
+    other {diela}
+  } sa opäť stane objaviteľným a umožní novým používateľom pridať si ho do svojej knižnice{type, select,
+    story { alebo si ho kúpiť}
     other {}
   }.`,
     'workshop.universe.dangerZone': 'Nebezpečná zóna',
@@ -431,14 +431,14 @@ export default {
     'workshop.story.delete.modalAria': 'Potvrdzovací modal pre vymazanie príbehu',
     'workshop.story.delete.warning': 'Ste si istí, že chcete odstrániť "{title}"? Túto akciu nemožno vrátiť späť.',
     'workshop.story.delete.button': 'Vymazať príbeh',
-    'workshop.story.unpublished.universeExplain': 'Tento príbeh nie je publikovaný, pretože jeho vesmír nie je publikovaný.',
-    'workshop.story.republishWithUniverse.button': 'Zverejniť príbeh a vesmír',
-    'workshop.universe.republish.only.button': 'Zverejniť iba vesmír',
-    'workshop.universe.republish.only.modalAria': 'Potvrdzovací modal iba pre opätovné publikovanie vesmíru',
-    'workshop.universe.republish.only.warning': 'Týmto sa opätovne zverejní iba vesmír. Príbehy v tomto vesmíre zostanú nezverejnené, kým nebudú opätovne zverejnené jednotlivo.',
-    'workshop.universe.republish.withStories.button': 'Zverejniť vesmír a všetky príbehy',
-    'workshop.universe.republish.withStories.modalAria': 'Potvrdzovací modal pre opätovné publikovanie vesmíru so všetkými príbehmi',
-    'workshop.universe.republish.withStories.warning': 'Týmto spôsobom sa znovu zverejní vesmír a všetky príbehy s ním spojené.',
+    'workshop.story.private.universeExplain': 'Tento príbeh je súkromný, pretože jeho vesmír je súkromný.',
+    'workshop.story.makePublicWithUniverse.button': 'Zverejnite príbeh a vesmír',
+    'workshop.universe.makePublic.only.button': 'Urobiť vesmír iba verejným',
+    'workshop.universe.makePublic.only.modalAria': 'Potvrdzovací modal pre zverejnenie vesmíru',
+    'workshop.universe.makePublic.only.warning': 'Tým sa zverejní iba vesmír. Príbehy v tomto vesmíre zostávajú súkromné, kým sa jednotlivo nezverejnia.',
+    'workshop.universe.makePublic.withStories.button': 'Zverejnite vesmír a všetky príbehy',
+    'workshop.universe.makePublic.withStories.modalAria': 'Potvrdzovací modal na zverejnenie vesmíru a všetkých príbehov',
+    'workshop.universe.makePublic.withStories.warning': 'Tým sa vesmír a všetky prepojené príbehy stanú verejnými.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Potvrdzovacie modálne okno pre vymazanie kapitoly',
     'workshop.chapter.delete.warning': 'Ste si istí, že chcete odstrániť "{title}"? Túto akciu nemožno vrátiť späť.',
