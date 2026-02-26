@@ -46,52 +46,52 @@ export default {
     story {Geschichte mit allen Kapiteln, Statistiken und Workshop-Zuordnungen}
     other {Arbeit und verwandte Daten}
   }.`,
-    'workshop.work.unpublish.impact': `Wenn Sie dieses {type, select,
+    'workshop.work.makePrivate.impact': `Wenn Sie dieses {type, select,
     universe {Universum}
     story {Geschichte}
     other {Werk}
-  } nicht mehr veröffentlichen, wird es nicht mehr gefunden und gesucht. Personen, die es bereits in ihrer Bibliothek haben, behalten den Zugang. Neue Benutzer können es nicht mehr zu ihrer Bibliothek hinzufügen{type, select,
+  } machen, wird es von der Entdeckung und Suche ausgeschlossen. Personen, die es bereits in ihrer Bibliothek haben, behalten den Zugang. Neue Benutzer können es nicht mehr zu ihrer Bibliothek hinzufügen{type, select,
     story { oder es kaufen, es sei denn, Sie schenken es ihnen}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Dieses {type, select,
+    'workshop.work.private.notice': `Dieses {type, select,
     universe {Universum}
     story {Geschichte}
     other {Werk}
-  } ist derzeit unveröffentlicht. Bestehende Bibliotheksinhaber haben noch Zugang. Neue Benutzer können es nicht in ihre Bibliothek{type, select,
-    story { aufnehmen oder}
+  } ist derzeit privat. Bestehende Bibliotheksinhaber haben noch Zugang. Neue Benutzer können es nicht zu ihrer Bibliothek{type, select,
+    story { hinzufügen oder es}
     other {}
   } kaufen.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universum}
-    story {Story}
-    other {Arbeit}
-  }`,
-    'workshop.work.unpublish.modalAria': `Bestätigungsmodus für die Veröffentlichung einer {type, select,
+    'workshop.work.makePrivate.button': `Machen {type, select,
     universe {Universum}
     story {Geschichte}
     other {Arbeit}
-  }`,
-    'workshop.work.unpublish.warning': `Durch die Aufhebung der Veröffentlichung wird dieses {type, select,
-    universe {Universum}
-    story {Geschichte}
-    other {Werk}
-  } aus der öffentlichen Entdeckung und Suche entfernt.`,
-    'workshop.work.republish.button': `Wiederveröffentlichen {type, select,
-    universe {Universum}
-    story {Geschichte}
-    other {Arbeit}
-  }`,
-    'workshop.work.republish.modalAria': `Bestätigungsmodal für die Wiederveröffentlichung eines {type, select,
+  } Privat`,
+    'workshop.work.makePrivate.modalAria': `Bestätigungsmodal für die Erstellung eines {type, select,
     universe {Universums}
     story {Geschichte}
-    other {Werkes}
+    other {Arbeit}
+  } Privat`,
+    'workshop.work.makePrivate.warning': `Wenn Sie dieses {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Arbeit}
+  } privat machen, wird es der öffentlichen Entdeckung und Suche entzogen.`,
+    'workshop.work.makePublic.button': `Machen {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Arbeit}
   }`,
-    'workshop.work.republish.warning': `Die Neuveröffentlichung macht dieses {type, select,
+    'workshop.work.makePublic.modalAria': `Bestätigungsmodal für die Erstellung eines {type, select,
+    universe {Universums}
+    story {Geschichte}
+    other {Arbeit}
+  }`,
+    'workshop.work.makePublic.warning': `Wenn Sie dieses {type, select,
     universe {Universum}
     story {Geschichte}
     other {Werk}
-  } wieder auffindbar und ermöglicht es neuen Benutzern, es ihrer Bibliothek{type, select,
+  } öffentlich machen, wird es wieder auffindbar und ermöglicht es neuen Nutzern, es zu ihrer Bibliothek{type, select,
     story { hinzuzufügen oder}
     other {}
   } zu kaufen.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Bestätigungsmodal für das Löschen einer Story',
     'workshop.story.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
     'workshop.story.delete.button': 'Geschichte löschen',
-    'workshop.story.unpublished.universeExplain': 'Diese Geschichte ist unveröffentlicht, weil ihr Universum unveröffentlicht ist.',
-    'workshop.story.republishWithUniverse.button': 'Geschichte und Universum neu veröffentlichen',
-    'workshop.universe.republish.only.button': 'Nur Universum neu veröffentlichen',
-    'workshop.universe.republish.only.modalAria': 'Bestätigungsmodal nur für die Neuveröffentlichung eines Universums',
-    'workshop.universe.republish.only.warning': 'Damit wird nur das Universum neu veröffentlicht. Die Geschichten in diesem Universum bleiben unveröffentlicht, bis sie einzeln neu veröffentlicht werden.',
-    'workshop.universe.republish.withStories.button': 'Universum und alle Geschichten neu veröffentlichen',
-    'workshop.universe.republish.withStories.modalAria': 'Bestätigungsmodal für die Wiederveröffentlichung eines Universums mit allen Geschichten',
-    'workshop.universe.republish.withStories.warning': 'Damit werden das Universum und alle damit verbundenen Geschichten neu veröffentlicht.',
+    'workshop.story.private.universeExplain': 'Diese Geschichte ist privat, weil ihr Universum privat ist.',
+    'workshop.story.makePublicWithUniverse.button': 'Geschichte und Universum öffentlich machen',
+    'workshop.universe.makePublic.only.button': 'Universum nur öffentlich machen',
+    'workshop.universe.makePublic.only.modalAria': 'Bestätigungsmodal für die Veröffentlichung eines Universums',
+    'workshop.universe.makePublic.only.warning': 'Dies macht nur das Universum öffentlich. Die Geschichten in diesem Universum bleiben privat, bis sie einzeln veröffentlicht werden.',
+    'workshop.universe.makePublic.withStories.button': 'Universum und alle Geschichten öffentlich machen',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bestätigungsmodus, um ein Universum und alle Geschichten öffentlich zu machen',
+    'workshop.universe.makePublic.withStories.warning': 'Dadurch werden das Universum und alle damit verbundenen Geschichten öffentlich.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bestätigungsdialog für das Löschen eines Kapitels',
     'workshop.chapter.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
