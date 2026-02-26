@@ -27,10 +27,10 @@ export default {
     'workshop.universe.settings': 'Nastavenia vesmíru {universe}',
     'workshop.universe.publishedOn': 'Tento vesmír bol publikovaný {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': 'Ak potrebujete pomoc, <contact>kontaktujte nás</contact>.',
-    'workshop.work.delete.restrictions': `You can delete this {type, select,
-    universe {universe only if it has no published stories and}
-    story {story only if it}
-    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.restrictions': `Tento {type, select,
+    universe {vesmír môžete vymazať len vtedy, ak nemá žiadne uverejnené príbehy a}
+    story {príbeh len vtedy, ak}
+    other {práca len vtedy, ak}} bola uverejnená pred menej ako jedným mesiacom. Potrebujete pomoc aj potom? <contact>Kontaktujte nás.</contact>`,
     'workshop.work.delete.notAllowed': `Tento {type, select,
     universe {vesmír}
     story {príbeh}
@@ -41,68 +41,68 @@ export default {
     story {príbeh}
     other {práca}
   } už nie je možné odstrániť prostredníctvom samoobsluhy. Ak ho potrebujete odstrániť, kontaktujte nás na adrese deletions@literaryuniverse.com a my s vami budeme spolupracovať na jeho bezpečnom odstránení.`,
-    'workshop.work.danger.delete.desc': `Permanently deletes this {type, select,
-    universe {universe and linked workshop data}
-    story {story with all chapters, statistics, and workshop associations}
-    other {work and related data}
+    'workshop.work.danger.delete.desc': `Trvalo odstráni tento {type, select,
+    universe {vesmír a prepojené údaje o dielňach}
+    story {príbeh so všetkými kapitolami, štatistikami a združeniami dielní}
+    other {práce a súvisiace údaje}
   }.`,
-    'workshop.work.unpublish.impact': `Unpublishing this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
-    story { or buy it unless you gift it to them}
+    'workshop.work.unpublish.impact': `Zrušenie zverejnenia tohto {type, select,
+    universe {vesmíru}
+    story {príbehu}
+    other {diela}
+  } ho odstráni z objavovania a vyhľadávania. Ľudia, ktorí ju už majú vo svojej knižnici, si k nej zachovajú prístup. Noví používatelia si ju už nemôžu pridať do svojej knižnice{type, select,
+    story { ani kúpiť, pokiaľ im ju nedarujete}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `This {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.unpublished.notice': `Tento {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {dielo}
+  } v súčasnosti nie je publikovaný. Existujúci držitelia knižnice k nemu majú stále prístup. Noví používatelia si ho nemôžu pridať do svojej knižnice{type, select,
+    story { ani zakúpiť}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.button': `Neuverejniť {type, select,
+    universe {Vesmír}
+    story {Príbeh}
+    other {Práca}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.confirm': `Neuverejniť {type, select,
+    universe {Vesmír}
+    story {Príbeh}
+    other {Práca}
   }`,
-    'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
+    'workshop.work.unpublish.modalAria': `Potvrdzovací modal pre zrušenie publikovania {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {práca}
   }`,
-    'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } from public discovery and search.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.warning': `Zrušenie zverejnenia odstráni tento {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {dielo}
+  } z verejného objavovania a vyhľadávania.`,
+    'workshop.work.republish.button': `Zverejniť {type, select,
+    universe {Vesmír}
+    story {Príbeh}
+    other {Práca}
   }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.republish.confirm': `Zverejniť {type, select,
+    universe {Vesmír}
+    story {Príbeh}
+    other {Práca}
   }`,
-    'workshop.work.republish.modalAria': `Confirmation modal for republishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
+    'workshop.work.republish.modalAria': `Potvrdzovací modal pre opätovné publikovanie {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {dielo}
   }`,
-    'workshop.work.republish.warning': `Republishing will make this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } discoverable again and allow new users to add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.republish.warning': `Opätovné publikovanie umožní, aby sa tento {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {dielo}
+  } opäť dalo objaviť a aby si ho noví používatelia mohli pridať do svojej knižnice{type, select,
+    story { alebo kúpiť}
     other {}
   }.`,
     'workshop.universe.dangerZone': 'Nebezpečná zóna',
@@ -444,16 +444,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Nie je možné publikovať, keď je v nastaveniach príbehu povolené zabrániť publikovaniu.',
     'workshop.publishing.restricted': 'Z dôvodu porušenia pravidiel slušného správania sme vám zakázali publikovať.',
     'workshop.story.buyingSettings': 'Nastavenia predaja',
-    'workshop.story.delete.modalAria': 'Confirmation modal for deleting a story',
-    'workshop.story.delete.confirm': 'Delete Story',
-    'workshop.story.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
-    'workshop.story.delete.button': 'Delete Story',
-    'workshop.story.republish.button': 'Republish Story',
-    'workshop.story.republish.confirm': 'Republish Story',
-    'workshop.story.republish.modalAria': 'Confirmation modal for republishing a story',
-    'workshop.story.republish.warning': 'Republishing will make this story discoverable again and allow new users to add it to their library.',
-    'workshop.story.unpublished.universeExplain': 'This story is unpublished because its universe is unpublished.',
-    'workshop.story.republishWithUniverse.button': 'Republish Story and Universe',
+    'workshop.story.delete.modalAria': 'Potvrdzovací modal pre vymazanie príbehu',
+    'workshop.story.delete.confirm': 'Vymazať príbeh',
+    'workshop.story.delete.warning': 'Ste si istí, že chcete odstrániť "{title}"? Túto akciu nemožno vrátiť späť.',
+    'workshop.story.delete.button': 'Vymazať príbeh',
+    'workshop.story.republish.button': 'Zverejniť príbeh',
+    'workshop.story.republish.confirm': 'Zverejniť príbeh',
+    'workshop.story.republish.modalAria': 'Potvrdzovací modal pre opätovné publikovanie príbehu',
+    'workshop.story.republish.warning': 'Opätovným publikovaním sa tento príbeh stane opäť objaviteľným a umožní sa novým používateľom pridať si ho do svojej knižnice.',
+    'workshop.story.unpublished.universeExplain': 'Tento príbeh nie je publikovaný, pretože jeho vesmír nie je publikovaný.',
+    'workshop.story.republishWithUniverse.button': 'Zverejniť príbeh a vesmír',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Potvrdzovacie modálne okno pre vymazanie kapitoly',
     'workshop.chapter.delete.confirm': 'Vymazať kapitolu',
