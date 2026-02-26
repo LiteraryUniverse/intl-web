@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'See on kõik, mis meil hetkel selle loo jaoks on, kuid tuleviku seiklus jätkub, kontrolli varsti uuesti!',
     'reader.storyPreview.heading': 'Eelvaade valmis',
     'reader.storyPreview.description': 'Te olete just lõpetanud eelvaate. Meil ei ole siin veel ülejäänud lugu, kuid saate seda jätkata allpool olevates kohtades.',
+    'reader.unpublishedChapter.heading': 'See peatükk ei ole enam kättesaadav',
     'chapter.translation.notYetDescription': 'Kontrolli varsti uuesti!',
     'reader.externalShopping.heading': 'Hangi {storyName} teistes kohtades:',
     'chapter.next': 'Järgmine peatükk',
