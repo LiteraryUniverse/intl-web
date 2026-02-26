@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Potwierdzenie modalne dla niepublikowania {type, select,
     universe {wszechświat}
     story {opowiadanie}
@@ -83,11 +78,6 @@ export default {
     other {pracy}
   } z publicznego wykrywania i wyszukiwania.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universe}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Strefa zagrożenia',
     'workshop.universe.dangerZone.desc': 'Mogą Państwo usunąć to uniwersum tylko wtedy, gdy nie zawiera ono żadnych opublikowanych historii i zostało opublikowane mniej niż miesiąc temu. Jeśli chcesz usunąć to uniwersum po upływie tego okresu, prosimy skontaktować się z nami.',
     'workshop.universe.delete.modalAria': 'Modalne potwierdzenie usunięcia wszechświata',
-    'workshop.universe.delete.confirm': 'Usunąć wszechświat',
     'workshop.universe.delete.warning': 'Czy na pewno chcą Państwo usunąć "{title}"? Tej czynności nie można cofnąć.',
     'workshop.universe.delete.button': 'Usunąć wszechświat',
-    'workshop.universe.delete.notAllowed': 'Tego wszechświata nie można już usunąć za pomocą samoobsługi. Jeśli chcą Państwo go usunąć po upływie okresu przedawnienia, prosimy o kontakt.',
-    'workshop.universe.unpublish.modalAria': 'Potwierdzenie modalne dla cofnięcia publikacji wszechświata',
-    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
-    'workshop.universe.unpublish.warning': 'Wycofanie publikacji spowoduje usunięcie tego wszechświata z publicznego wyszukiwania.',
-    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Opis wszechświata',
     'workshop.settings.title': 'Tytuł',
     'workshop.description': 'Opis',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Ze względu na naruszenie zasad dobrego zachowania zablokowaliśmy możliwość publikowania przez Pana/Panią.',
     'workshop.story.buyingSettings': 'Ustawienia sprzedaży',
     'workshop.story.delete.modalAria': 'Modalne potwierdzenie usunięcia wątku',
-    'workshop.story.delete.confirm': 'Proszę usunąć historię',
     'workshop.story.delete.warning': 'Czy na pewno chcą Państwo usunąć "{title}"? Tej czynności nie można cofnąć.',
     'workshop.story.delete.button': 'Proszę usunąć historię',
-    'workshop.story.republish.button': 'Proszę opublikować historię ponownie',
-    'workshop.story.republish.confirm': 'Proszę opublikować historię ponownie',
-    'workshop.story.republish.modalAria': 'Okno potwierdzenia dla ponownej publikacji artykułu',
-    'workshop.story.republish.warning': 'Ponowna publikacja sprawi, że historia ta będzie ponownie dostępna i umożliwi nowym użytkownikom dodanie jej do swojej biblioteki.',
     'workshop.story.unpublished.universeExplain': 'Ta historia jest niepublikowana, ponieważ jej uniwersum jest niepublikowane.',
     'workshop.story.republishWithUniverse.button': 'Ponowna publikacja historii i wszechświata',
+    'workshop.universe.republish.only.button': 'Proszę opublikować tylko wszechświat',
+    'workshop.universe.republish.only.modalAria': 'Potwierdzenie modalne tylko dla ponownej publikacji wszechświata',
+    'workshop.universe.republish.only.warning': 'Ponownie publikowane jest tylko uniwersum. Opowiadania z tego uniwersum pozostaną nieopublikowane do czasu ponownej publikacji każdego z nich z osobna.',
+    'workshop.universe.republish.withStories.button': 'Opublikuj ponownie wszechświat i wszystkie historie',
+    'workshop.universe.republish.withStories.modalAria': 'Potwierdzenie modalne dla ponownej publikacji wszechświata ze wszystkimi historiami',
+    'workshop.universe.republish.withStories.warning': 'Powoduje to ponowne opublikowanie uniwersum i wszystkich powiązanych z nim historii.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modalne potwierdzenie usunięcia rozdziału',
-    'workshop.chapter.delete.confirm': 'Proszę usunąć rozdział',
     'workshop.chapter.delete.warning': 'Czy na pewno chcą Państwo usunąć "{title}"? Tej czynności nie można cofnąć.',
     'workshop.chapter.delete.button': 'Proszę usunąć rozdział',
     'workshop.chapter.delete.deleting': 'Usuwanie...',
