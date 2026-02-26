@@ -46,7 +46,7 @@ export default {
     story {すべてのチャプター、統計、ワークショップの関連性を持つストーリー}
     other {仕事と関連するデータ}
   }.`,
-    'workshop.work.unpublish.impact': `Unpublishing this {type, select,
+    'workshop.work.makePrivate.impact': `Making this {type, select,
     universe {universe}
     story {story}
     other {work}
@@ -54,44 +54,44 @@ export default {
     story { or buy it unless you gift it to them}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `This {type, select,
+    'workshop.work.private.notice': `This {type, select,
     universe {universe}
     story {story}
     other {work}
-  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
+  } is currently private. Existing library holders still have access. New users cannot add it to their library{type, select,
     story { or buy it}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
+    'workshop.work.makePrivate.button': `Make {type, select,
     universe {Universe}
     story {Story}
     other {Work}
-  } 。`,
-    'workshop.work.unpublish.modalAria': `{type, select,
-    universe {宇宙}
-    story {ストーリー}
-    other {作品}
-  } をアンパブリッシュするための確認モーダル`,
-    'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Confirmation modal for making a {type, select,
     universe {universe}
     story {story}
     other {work}
-  } from public discovery and search.`,
-    'workshop.work.republish.button': `Republish {type, select,
+  } private`,
+    'workshop.work.makePrivate.warning': `Making this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private will remove it from public discovery and search.`,
+    'workshop.work.makePublic.button': `Make {type, select,
     universe {Universe}
     story {Story}
     other {Work}
   }`,
-    'workshop.work.republish.modalAria': `{type, select,
+    'workshop.work.makePublic.modalAria': `Confirmation modal for making a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  }`,
+    'workshop.work.makePublic.warning': `この {type, select,
     universe {宇宙}
     story {物語}
     other {作品}
-  } を再出版するための確認モーダル`,
-    'workshop.work.republish.warning': `再出版することで、この {type, select,
-    universe {宇宙}
-    story {物語}
-    other {作品}
-  } を再び発見できるようになり、新しいユーザーが自分のライブラリに追加したり{type, select,
+  } を公開することで、再び発見できるようになり、新しいユーザーがライブラリに追加したり{type, select,
     story { 購入したり}
     other {}
   }.`,
@@ -416,14 +416,14 @@ export default {
     'workshop.story.delete.modalAria': 'ストーリー削除の確認モーダル',
     'workshop.story.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
     'workshop.story.delete.button': 'ストーリー削除',
-    'workshop.story.unpublished.universeExplain': 'この物語が未発表なのは、その宇宙が未発表だからだ。',
-    'workshop.story.republishWithUniverse.button': 'ストーリーとユニバースを再公開',
-    'workshop.universe.republish.only.button': 'ユニバースのみ再発行',
-    'workshop.universe.republish.only.modalAria': 'ユニバースのみ再パブリッシュする場合の確認モーダル',
-    'workshop.universe.republish.only.warning': 'これはユニバースだけを再公開するものです。このユニバース内のストーリーは、個別に再公開されるまで未公開のままです。',
-    'workshop.universe.republish.withStories.button': 'リパブリッシュ・ユニバース・アンド・オール・ストーリーズ',
-    'workshop.universe.republish.withStories.modalAria': 'すべてのストーリーを含むユニバースを再パブリッシュするための確認モーダル',
-    'workshop.universe.republish.withStories.warning': 'これは、宇宙とそれにリンクするすべてのストーリーを再公開するものである。',
+    'workshop.story.private.universeExplain': 'この物語が私的なのは、その宇宙が私的なものだからだ。',
+    'workshop.story.makePublicWithUniverse.button': 'ストーリーと宇宙を公開する',
+    'workshop.universe.makePublic.only.button': '宇宙を公開のみにする',
+    'workshop.universe.makePublic.only.modalAria': 'ユニバースを公開するためだけの確認モーダル',
+    'workshop.universe.makePublic.only.warning': 'これにより、ユニバースのみが公開される。このユニバースのストーリーは、個別に公開されるまでは非公開のままだ。',
+    'workshop.universe.makePublic.withStories.button': '宇宙とすべてのストーリーを公開する',
+    'workshop.universe.makePublic.withStories.modalAria': 'ユニバースとすべてのストーリーを公開するための確認モード',
+    'workshop.universe.makePublic.withStories.warning': 'これにより、宇宙とリンクされたすべてのストーリーが公開される。',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'チャプター削除の確認モーダル',
     'workshop.chapter.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
