@@ -67,11 +67,6 @@ export default {
     story {스토리}
     other {작업}
   }`,
-    'workshop.work.unpublish.confirm': `게시 취소 {type, select,
-    universe {유니버스}
-    story {스토리}
-    other {작업}
-  }`,
     'workshop.work.unpublish.modalAria': `게시 취소 확인 모달 {type, select,
     universe {유니버스}
     story {스토리}
@@ -83,11 +78,6 @@ export default {
     other {워크}
   } 가 공개 검색 및 검색에서 삭제됩니다.`,
     'workshop.work.republish.button': `다시 게시 {type, select,
-    universe {유니버스}
-    story {스토리}
-    other {작업}
-  }`,
-    'workshop.work.republish.confirm': `다시 게시 {type, select,
     universe {유니버스}
     story {스토리}
     other {작업}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': '위험 구역',
     'workshop.universe.dangerZone.desc': '이 유니버스는 게시된 스토리가 없고 게시된 지 한 달이 지나지 않은 경우에만 삭제할 수 있습니다. 이 제한 기간이 지난 후에 삭제해야 하는 경우 문의해 주세요.',
     'workshop.universe.delete.modalAria': '유니버스 삭제를 위한 확인 모달',
-    'workshop.universe.delete.confirm': '유니버스 삭제',
     'workshop.universe.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
     'workshop.universe.delete.button': '유니버스 삭제',
-    'workshop.universe.delete.notAllowed': '이 유니버스는 더 이상 셀프 서비스를 통해 삭제할 수 없습니다. 제한 기간 이후에 삭제해야 하는 경우 고객센터로 문의하시기 바랍니다.',
-    'workshop.universe.unpublish.modalAria': '유니버스 게시 취소를 위한 확인 모달',
-    'workshop.universe.unpublish.confirm': '유니버스 게시 취소',
-    'workshop.universe.unpublish.warning': '게시를 취소하면 이 유니버스가 공개 검색 및 검색에서 제거됩니다.',
-    'workshop.universe.unpublish.button': '유니버스 게시 취소',
     'workshop.universe.description': '우주 설명',
     'workshop.settings.title': '제목',
     'workshop.description': '설명',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': '윤리강령 위반으로 인해 귀하의 게시 기능이 비활성화되었습니다.',
     'workshop.story.buyingSettings': '판매 설정',
     'workshop.story.delete.modalAria': '스토리 삭제를 위한 확인 모달',
-    'workshop.story.delete.confirm': '스토리 삭제',
     'workshop.story.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
     'workshop.story.delete.button': '스토리 삭제',
-    'workshop.story.republish.button': '스토리 다시 게시',
-    'workshop.story.republish.confirm': '스토리 다시 게시',
-    'workshop.story.republish.modalAria': '스토리 다시 게시를 위한 확인 모달',
-    'workshop.story.republish.warning': '다시 게시하면 이 스토리를 다시 검색할 수 있고 새로운 사용자가 자신의 라이브러리에 추가할 수 있습니다.',
     'workshop.story.unpublished.universeExplain': '이 이야기는 세계관이 미공개이기 때문에 미공개입니다.',
     'workshop.story.republishWithUniverse.button': '스토리 및 유니버스 다시 게시',
+    'workshop.universe.republish.only.button': '유니버스 전용 다시 게시',
+    'workshop.universe.republish.only.modalAria': '유니버스만 다시 게시하는 경우 확인 모달',
+    'workshop.universe.republish.only.warning': '이것은 우주만 다시 게시합니다. 이 유니버스의 스토리는 개별적으로 다시 게시될 때까지 게시되지 않은 상태로 유지됩니다.',
+    'workshop.universe.republish.withStories.button': '유니버스 및 모든 스토리 다시 게시',
+    'workshop.universe.republish.withStories.modalAria': '모든 스토리가 있는 유니버스를 다시 게시하기 위한 확인 모달',
+    'workshop.universe.republish.withStories.warning': '이것은 우주와 그와 관련된 모든 이야기를 다시 게시합니다.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '챕터 삭제를 위한 확인 모달',
-    'workshop.chapter.delete.confirm': '장 삭제',
     'workshop.chapter.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
     'workshop.chapter.delete.button': '장 삭제',
     'workshop.chapter.delete.deleting': '삭제...',
