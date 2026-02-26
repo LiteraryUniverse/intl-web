@@ -28,9 +28,9 @@ export default {
     'workshop.universe.publishedOn': 'Este universo se ha publicado el {date, date, long} {date, time,short}',
     'workshop.work.deletion.contactUs': 'Si necesita ayuda, <contact>póngase en contacto con nosotros</contact>.',
     'workshop.work.delete.restrictions': `Puede eliminar este {type, select,
-    universe {universo sólo cuando no tenga historias publicadas y}
-    story {historia sólo cuando}
-    other {obra sólo cuando}} se publicó hace menos de un mes. Si necesita borrarlo después de este periodo de limitación, <contact>póngase en contacto con nosotros</contact>.`,
+    universe {universo sólo si no tiene historias publicadas y}
+    story {historia sólo si}
+    other {trabajo sólo si}} se publicó hace menos de un mes. ¿Necesita ayuda después de eso? <contact>Póngase en contacto con nosotros</contact>.`,
     'workshop.work.delete.notAllowed': `Este {type, select,
     universe {universo}
     story {historia}
@@ -41,6 +41,70 @@ export default {
     story {historia}
     other {trabajo}
   } ya no puede eliminarse a través del autoservicio. Si necesita eliminarlo, póngase en contacto con nosotros en deletions@literaryuniverse.com y trabajaremos con usted para eliminarlo de forma segura.`,
+    'workshop.work.danger.delete.desc': `Borra permanentemente este {type, select,
+    universe {universo y datos de talleres vinculados}
+    story {historia con todos los capítulos, estadísticas y asociaciones de talleres}
+    other {trabajo y datos relacionados}
+  }.`,
+    'workshop.work.unpublish.impact': `Anular la publicación de esta {type, select,
+    universe {universo}
+    story {historia}
+    other {obra}
+  } la elimina del descubrimiento y la búsqueda. Las personas que ya lo tienen en su biblioteca mantienen el acceso. Los nuevos usuarios ya no pueden añadirlo a su biblioteca{type, select,
+    story { ni comprarlo a menos que usted se lo regale}
+    other {}
+  }.`,
+    'workshop.work.unpublished.notice': `Este {type, select,
+    universe {universo}
+    story {relato}
+    other {obra}
+  } está actualmente inédito. Los actuales poseedores de la biblioteca siguen teniendo acceso. Los nuevos usuarios no pueden añadirla a su biblioteca{type, select,
+    story { ni comprarla}
+    other {}
+  }.`,
+    'workshop.work.unpublish.button': `Despublicar {type, select,
+    universe {Universo}
+    story {Historia}
+    other {Trabajo}
+  }`,
+    'workshop.work.unpublish.confirm': `Despublicar {type, select,
+    universe {Universo}
+    story {Historia}
+    other {Trabajo}
+  }`,
+    'workshop.work.unpublish.modalAria': `Modalidad de confirmación para despublicar un {type, select,
+    universe {universo}
+    story {relato}
+    other {obra}
+  }`,
+    'workshop.work.unpublish.warning': `La anulación de la publicación eliminará este {type, select,
+    universe {universo}
+    story {relato}
+    other {trabajo}
+  } del descubrimiento y la búsqueda públicos.`,
+    'workshop.work.republish.button': `Reeditar {type, select,
+    universe {Universo}
+    story {Historia}
+    other {Trabajo}
+  }`,
+    'workshop.work.republish.confirm': `Reeditar {type, select,
+    universe {Universo}
+    story {Historia}
+    other {Trabajo}
+  }`,
+    'workshop.work.republish.modalAria': `Modalidad de confirmación para volver a publicar un {type, select,
+    universe {universo}
+    story {relato}
+    other {obra}
+  }`,
+    'workshop.work.republish.warning': `La reedición hará que este {type, select,
+    universe {universo}
+    story {relato}
+    other {obra}
+  } sea descubrible de nuevo y permitirá a los nuevos usuarios añadirlo a su biblioteca{type, select,
+    story { o comprarlo}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': 'Zona de peligro',
     'workshop.universe.dangerZone.desc': 'Puede eliminar este universo sólo cuando no tenga historias publicadas y se haya publicado hace menos de un mes. Si necesita borrarlo después de este periodo de limitación, póngase en contacto con nosotros.',
     'workshop.universe.delete.modalAria': 'Modalidad de confirmación para borrar un universo',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'No se puede publicar cuando la opción de impedir la publicación está activada en los ajustes de la historia.',
     'workshop.publishing.restricted': 'Debido a una violación de buena conducta hemos desactivado su capacidad de publicar.',
     'workshop.story.buyingSettings': 'Ajustes de venta',
+    'workshop.story.delete.modalAria': 'Modalidad de confirmación para borrar una historia',
+    'workshop.story.delete.confirm': 'Borrar historia',
+    'workshop.story.delete.warning': '¿Está seguro de que desea borrar "{title}"? Esta acción no se puede deshacer.',
+    'workshop.story.delete.button': 'Borrar historia',
+    'workshop.story.republish.button': 'Volver a publicar la historia',
+    'workshop.story.republish.confirm': 'Volver a publicar la historia',
+    'workshop.story.republish.modalAria': 'Modalidad de confirmación para volver a publicar una historia',
+    'workshop.story.republish.warning': 'La reedición hará que esta historia sea descubrible de nuevo y permitirá que nuevos usuarios la añadan a su biblioteca.',
+    'workshop.story.unpublished.universeExplain': 'Esta historia es inédita porque su universo es inédito.',
+    'workshop.story.republishWithUniverse.button': 'Reeditar la historia y el universo',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modalidad de confirmación para borrar un capítulo',
     'workshop.chapter.delete.confirm': 'Borrar capítulo',
