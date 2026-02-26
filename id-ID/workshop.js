@@ -46,52 +46,52 @@ export default {
     story {cerita dengan semua bab, statistik, dan asosiasi bengkel}
     other {pekerjaan dan data terkait}
   }.`,
-    'workshop.work.unpublish.impact': `Tidak mempublikasikan ini {type, select,
+    'workshop.work.makePrivate.impact': `Membuat ini {type, select,
     universe {alam semesta}
     story {cerita}
     other {karya}
-  } akan menghilangkannya dari penemuan dan pencarian. Pengguna yang sudah memilikinya di perpustakaan mereka akan tetap memiliki akses. Pengguna baru tidak dapat menambahkannya ke perpustakaan mereka lagi{type, select,
+  } menghilangkannya dari penemuan dan pencarian. Pengguna yang sudah memilikinya di perpustakaan mereka akan tetap memiliki akses. Pengguna baru tidak dapat menambahkannya ke perpustakaan mereka lagi{type, select,
     story { atau membelinya kecuali jika Anda menghadiahkannya kepada mereka}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Ini {type, select,
+    'workshop.work.private.notice': `Ini {type, select,
     universe {alam semesta}
     story {cerita}
     other {karya}
-  } saat ini belum diterbitkan. Pemegang perpustakaan yang ada masih memiliki akses. Pengguna baru tidak dapat menambahkannya ke perpustakaan{type, select,
+  } saat ini bersifat pribadi. Pemegang perpustakaan yang ada masih memiliki akses. Pengguna baru tidak dapat menambahkannya ke perpustakaan{type, select,
     story { atau membelinya}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.unpublish.modalAria': `Modal konfirmasi untuk tidak mempublikasikan {type, select,
+    'workshop.work.makePrivate.button': `Membuat {type, select,
+    universe {Semesta}
+    story {Cerita}
+    other {Karya}
+  } Pribadi`,
+    'workshop.work.makePrivate.modalAria': `Modal konfirmasi untuk membuat {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {pekerjaan}
+  } pribadi`,
+    'workshop.work.makePrivate.warning': `Menjadikan ini {type, select,
     universe {alam semesta}
     story {cerita}
     other {karya}
-  }`,
-    'workshop.work.unpublish.warning': `Tidak menerbitkan akan menghapus {type, select,
-    universe {alam semesta}
-    story {cerita}
-    other {karya}
-  } dari penemuan dan pencarian publik.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Alam Semesta}
+  } pribadi akan menghapusnya dari penemuan dan pencarian publik.`,
+    'workshop.work.makePublic.button': `Membuat {type, select,
+    universe {Semesta}
     story {Cerita}
     other {Karya}
   }`,
-    'workshop.work.republish.modalAria': `Modal konfirmasi untuk menerbitkan ulang {type, select,
+    'workshop.work.makePublic.modalAria': `Modal konfirmasi untuk membuat {type, select,
     universe {alam semesta}
     story {cerita}
-    other {karya}
+    other {pekerjaan}
   }`,
-    'workshop.work.republish.warning': `Penerbitan ulang akan membuat {type, select,
+    'workshop.work.makePublic.warning': `Menjadikan {type, select,
     universe {alam semesta}
     story {cerita}
     other {karya}
-  } ini dapat ditemukan kembali dan memungkinkan pengguna baru untuk menambahkannya ke perpustakaan mereka{type, select,
+  } publik akan membuatnya dapat ditemukan kembali dan memungkinkan pengguna baru untuk menambahkannya ke perpustakaan{type, select,
     story { atau membelinya}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Modal konfirmasi untuk menghapus cerita',
     'workshop.story.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
     'workshop.story.delete.button': 'Menghapus Cerita',
-    'workshop.story.unpublished.universeExplain': 'Kisah ini tidak dipublikasikan karena alam semesta tidak dipublikasikan.',
-    'workshop.story.republishWithUniverse.button': 'Menerbitkan ulang Cerita dan Alam Semesta',
-    'workshop.universe.republish.only.button': 'Publikasikan Ulang Hanya Semesta',
-    'workshop.universe.republish.only.modalAria': 'Modal konfirmasi hanya untuk menerbitkan ulang semesta',
-    'workshop.universe.republish.only.warning': 'Ini hanya menerbitkan ulang alam semesta. Cerita di alam semesta ini tetap tidak dipublikasikan sampai diterbitkan ulang secara individual.',
-    'workshop.universe.republish.withStories.button': 'Menerbitkan ulang Universe dan Semua Cerita',
-    'workshop.universe.republish.withStories.modalAria': 'Modal konfirmasi untuk menerbitkan ulang alam semesta dengan semua cerita',
-    'workshop.universe.republish.withStories.warning': 'Hal ini menerbitkan ulang alam semesta dan semua cerita yang terkait dengannya.',
+    'workshop.story.private.universeExplain': 'Kisah ini bersifat pribadi karena alam semesta ini bersifat pribadi.',
+    'workshop.story.makePublicWithUniverse.button': 'Membuat Cerita dan Alam Semesta Menjadi Publik',
+    'workshop.universe.makePublic.only.button': 'Jadikan Universe Hanya untuk Publik',
+    'workshop.universe.makePublic.only.modalAria': 'Modal konfirmasi untuk membuat alam semesta menjadi publik saja',
+    'workshop.universe.makePublic.only.warning': 'Hal ini membuat hanya alam semesta yang menjadi publik. Cerita di alam semesta ini tetap bersifat pribadi sampai dipublikasikan secara individual.',
+    'workshop.universe.makePublic.withStories.button': 'Jadikan Alam Semesta dan Semua Cerita Menjadi Publik',
+    'workshop.universe.makePublic.withStories.modalAria': 'Modal konfirmasi untuk membuat alam semesta dan semua cerita menjadi publik',
+    'workshop.universe.makePublic.withStories.warning': 'Hal ini membuat alam semesta dan semua cerita yang terkait menjadi publik.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modal konfirmasi untuk menghapus bab',
     'workshop.chapter.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
