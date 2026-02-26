@@ -46,52 +46,52 @@ export default {
     story {tarinan kaikkine lukuineen, tilastointeineen ja työpajojen assosiaatioineen}
     other {työn ja siihen liittyvät tiedot}
   }.`,
-    'workshop.work.unpublish.impact': `Tämän {type, select,
+    'workshop.work.makePrivate.impact': `Tämän {type, select,
     universe {maailmankaikkeuden}
     story {tarinan}
-    other {teoksen}
-  } julkaisematta jättäminen poistaa sen löydettävyyden ja haun. Ihmiset, joilla se on jo kirjastossaan, saavat sen edelleen käyttöönsä. Uudet käyttäjät eivät voi enää lisätä sitä kirjastoonsa{type, select,
+    other {työn}
+  } tekeminen poistaa sen löytämisen ja etsimisen tieltä. Ihmiset, joilla se jo on kirjastossaan, saavat sen edelleen käyttöönsä. Uudet käyttäjät eivät voi enää lisätä sitä kirjastoonsa{type, select,
     story { tai ostaa sitä, ellet lahjoita sitä heille}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Tämä {type, select,
-    universe {universumi}
+    'workshop.work.private.notice': `Tämä {type, select,
+    universe {maailmankaikkeus}
     story {tarina}
-    other {teos}
-  } on tällä hetkellä julkaisematon. Nykyiset kirjaston haltijat pääsevät edelleen käyttämään sitä. Uudet käyttäjät eivät voi lisätä sitä kirjastoonsa{type, select,
+    other {työ}
+  } on tällä hetkellä yksityinen. Nykyisillä kirjaston haltijoilla on edelleen pääsy. Uudet käyttäjät eivät voi lisätä sitä kirjastoonsa{type, select,
     story { tai ostaa sitä}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universum}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Vahvistusmodaali, jolla tehdään {type, select,
+    universe {universumi}
+    story {tarina}
+    other {työ}
+  } yksityinen`,
+    'workshop.work.makePrivate.warning': `Tämän {type, select,
+    universe {maailmankaikkeuden}
+    story {tarinan}
+    other {työn}
+  } yksityiseksi tekeminen poistaa sen julkiselta löytämiseltä ja haulta.`,
+    'workshop.work.makePublic.button': `Make {type, select,
     universe {Universum}
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.modalAria': `Vahvistusmodaali julkaisun purkamiseen {type, select,
-    universe {universumi}
+    'workshop.work.makePublic.modalAria': `Vahvistusmodaalin tekeminen {type, select,
+    universe {maailmankaikkeus}
     story {tarina}
-    other {teos}
+    other {työ}
   }`,
-    'workshop.work.unpublish.warning': `Julkaisun poistaminen poistaa tämän {type, select,
+    'workshop.work.makePublic.warning': `Tämän {type, select,
     universe {maailmankaikkeuden}
     story {tarinan}
     other {teoksen}
-  } julkisesta löytämisestä ja hausta.`,
-    'workshop.work.republish.button': `Julkaise uudelleen {type, select,
-    universe {Universumi}
-    story {Tarina}
-    other {Työ}
-  }`,
-    'workshop.work.republish.modalAria': `Vahvistusmodaali uudelleenjulkaisua varten {type, select,
-    universe {universumi}
-    story {tarina}
-    other {teos}
-  }`,
-    'workshop.work.republish.warning': `Uudelleenjulkaiseminen tekee tästä {type, select,
-    universe {maailmankaikkeudesta}
-    story {tarinasta}
-    other {teoksesta}
-  } jälleen löydettävän ja antaa uusille käyttäjille mahdollisuuden lisätä sen kirjastoonsa{type, select,
+  } julkistaminen tekee siitä jälleen löydettävissä olevan ja antaa uusille käyttäjille mahdollisuuden lisätä sen kirjastoonsa{type, select,
     story { tai ostaa sen}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Vahvistusmodaali tarinan poistamista varten',
     'workshop.story.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
     'workshop.story.delete.button': 'Poista tarina',
-    'workshop.story.unpublished.universeExplain': 'Tämä tarina on julkaisematon, koska sen universumi on julkaisematon.',
-    'workshop.story.republishWithUniverse.button': 'Julkaise tarina ja universumi uudelleen',
-    'workshop.universe.republish.only.button': 'Julkaise vain Universum',
-    'workshop.universe.republish.only.modalAria': 'Vahvistusmodal vain universumin uudelleenjulkaisua varten',
-    'workshop.universe.republish.only.warning': 'Tämä julkaisee vain maailmankaikkeuden. Tämän maailmankaikkeuden tarinat pysyvät julkaisemattomina, kunnes ne julkaistaan erikseen.',
-    'workshop.universe.republish.withStories.button': 'Julkaise Universum ja kaikki tarinat uudelleen',
-    'workshop.universe.republish.withStories.modalAria': 'Vahvistusmodaliteetti universumin ja kaikkien tarinoiden uudelleenjulkaisua varten',
-    'workshop.universe.republish.withStories.warning': 'Tämä julkaisee universumin ja kaikki siihen liittyvät tarinat uudelleen.',
+    'workshop.story.private.universeExplain': 'Tämä tarina on yksityinen, koska sen universumi on yksityinen.',
+    'workshop.story.makePublicWithUniverse.button': 'Julkaise tarina ja maailmankaikkeus',
+    'workshop.universe.makePublic.only.button': 'Tee universumista vain julkinen',
+    'workshop.universe.makePublic.only.modalAria': 'Vahvistusmodal vain universumin julkistamista varten',
+    'workshop.universe.makePublic.only.warning': 'Näin vain maailmankaikkeus on julkinen. Tämän maailmankaikkeuden tarinat pysyvät yksityisinä, kunnes ne julkistetaan erikseen.',
+    'workshop.universe.makePublic.withStories.button': 'Julkaise universumi ja kaikki tarinat',
+    'workshop.universe.makePublic.withStories.modalAria': 'Vahvistusmodaliteetti universumin ja kaikkien tarinoiden julkaisemiseksi julkiseksi',
+    'workshop.universe.makePublic.withStories.warning': 'Tämä tekee universumista ja kaikista siihen liittyvistä tarinoista julkisia.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Luvun poistamisen vahvistusikkuna',
     'workshop.chapter.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
