@@ -28,9 +28,9 @@ export default {
     'workshop.universe.publishedOn': 'この宇宙は {date, date, long} {date, time, short}に公開されました。',
     'workshop.work.deletion.contactUs': '助けが必要な場合は、<contact>ご連絡</contact>ください。',
     'workshop.work.delete.restrictions': `You can delete this {type, select,
-    universe {universe only when it has no published stories and}
-    story {story only when it}
-    other {work only when it}} was published less than one month ago. If you need to delete it after this limitation period, <contact>contact us</contact>.`,
+    universe {universe only if it has no published stories and}
+    story {story only if it}
+    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
     'workshop.work.delete.notAllowed': `この {type, select,
     universe {universe}
     story {story}
@@ -41,6 +41,70 @@ export default {
     story {story}
     other {work}
   } は、セルフサービスで削除できなくなりました。削除が必要な場合は、deletions@literaryuniverse.com までご連絡ください。安全に削除するために協力いたします。`,
+    'workshop.work.danger.delete.desc': `この {type, select,
+    universe {ユニバースとリンクされたワークショップデータ}
+    story {すべてのチャプター、統計、ワークショップの関連性を持つストーリー}
+    other {仕事と関連するデータ}
+  }.`,
+    'workshop.work.unpublish.impact': `Unpublishing this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
+    story { or buy it unless you gift it to them}
+    other {}
+  }.`,
+    'workshop.work.unpublished.notice': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
+    story { or buy it}
+    other {}
+  }.`,
+    'workshop.work.unpublish.button': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } 。`,
+    'workshop.work.unpublish.confirm': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } 。`,
+    'workshop.work.unpublish.modalAria': `{type, select,
+    universe {宇宙}
+    story {ストーリー}
+    other {作品}
+  } をアンパブリッシュするための確認モーダル`,
+    'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } from public discovery and search.`,
+    'workshop.work.republish.button': `Republish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.republish.confirm': `Republish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.republish.modalAria': `{type, select,
+    universe {宇宙}
+    story {物語}
+    other {作品}
+  } を再出版するための確認モーダル`,
+    'workshop.work.republish.warning': `再出版することで、この {type, select,
+    universe {宇宙}
+    story {物語}
+    other {作品}
+  } を再び発見できるようになり、新しいユーザーが自分のライブラリに追加したり{type, select,
+    story { 購入したり}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': '危険地帯',
     'workshop.universe.dangerZone.desc': 'このuniverseを削除できるのは、公開されたストーリーがなく、公開されてから1ヶ月以内の場合のみです。この制限期間後に削除する必要がある場合は、ご連絡ください。',
     'workshop.universe.delete.modalAria': 'ユニバース削除の確認モーダル',
@@ -365,6 +429,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'ストーリー設定でパブリッシュを防止する設定が有効になっている場合、パブリッシュできません。',
     'workshop.publishing.restricted': '善行違反のため、私たちはあなたの出版能力を無効にしました。',
     'workshop.story.buyingSettings': 'セール設定',
+    'workshop.story.delete.modalAria': 'ストーリー削除の確認モーダル',
+    'workshop.story.delete.confirm': 'ストーリー削除',
+    'workshop.story.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
+    'workshop.story.delete.button': 'ストーリー削除',
+    'workshop.story.republish.button': '記事の再掲載',
+    'workshop.story.republish.confirm': '記事の再掲載',
+    'workshop.story.republish.modalAria': '記事を再公開する際の確認モーダル',
+    'workshop.story.republish.warning': '再公開することで、このストーリーを再び発見できるようになり、新しいユーザーがライブラリに追加できるようになる。',
+    'workshop.story.unpublished.universeExplain': 'この物語が未発表なのは、その宇宙が未発表だからだ。',
+    'workshop.story.republishWithUniverse.button': 'ストーリーとユニバースを再公開',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'チャプター削除の確認モーダル',
     'workshop.chapter.delete.confirm': '章を削除',
