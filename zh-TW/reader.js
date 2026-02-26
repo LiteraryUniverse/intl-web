@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': '這是我們目前所擁有的故事內容，但冒險將在未來繼續，請稍後再回來查看！',
     'reader.storyPreview.heading': '預覽完成',
     'reader.storyPreview.description': '您剛剛完成了預覽。我們還沒有故事的其他部分，但您可以在下面的地方繼續閱讀。',
+    'reader.unpublishedChapter.heading': '本章不再提供',
     'chapter.translation.notYetDescription': '請稍後再回來查看！',
     'reader.externalShopping.heading': '在其他地方取得 {storyName}：',
     'chapter.next': '下一章',
