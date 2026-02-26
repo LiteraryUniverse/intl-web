@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'हामीले अबसम्म संग्रह गरिएको कथा हो , तर भविष्यमा साहस जारी रहनेछ, छिटो फेरि जाँच गर्नुहोस्!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'फेरि जाँच गर्नुहोस्!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'अरु अध्याय',
