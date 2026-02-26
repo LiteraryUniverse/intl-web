@@ -28,9 +28,9 @@ export default {
     'workshop.universe.publishedOn': 'จักรวาลนี้ได้เผยแพร่ในวันที่ {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': 'หากคุณต้องการความช่วยเหลือ<contact>โปรดติดต่อเรา</contact>',
     'workshop.work.delete.restrictions': `คุณสามารถลบ {type, select,
-    universe {จักรวาลนี้ได้เฉพาะเมื่อไม่มีเรื่องราวที่เผยแพร่แล้วเท่านั้น และ}
-    story {เรื่องราวได้เฉพาะเมื่อ}
-    other {ผลงานเท่านั้นเมื่อ}} เผยแพร่เมื่อไม่ถึงหนึ่งเดือนที่ผ่านมา หากคุณต้องการลบหลังจากช่วงเวลาจำกัดนี้<contact>กรุณาติดต่อเรา</contact>`,
+    universe {จักรวาลนี้ได้ก็ต่อเมื่อไม่มีเรื่องราวที่เผยแพร่แล้ว และ}
+    story {เรื่องราวได้ก็ต่อเมื่อมัน}
+    other {ผลงานได้ก็ต่อเมื่อมัน}} ได้รับการเผยแพร่ไม่ถึงหนึ่งเดือนที่ผ่านมา ต้องการความช่วยเหลือเพิ่มเติม?<contact>ติดต่อเรา</contact>`,
     'workshop.work.delete.notAllowed': `จักรวาลนี้ {type, select,
     universe {เรื่องราว}
     story {ผลงาน}
@@ -41,6 +41,70 @@ export default {
     story {ผลงาน}
     other {}
   } ไม่สามารถลบได้อีกต่อไปผ่านบริการตนเอง หากคุณต้องการให้ลบออก กรุณาติดต่อเราที่ deletions@literaryuniverse.com และเราจะดำเนินการร่วมกับคุณเพื่อลบออกอย่างปลอดภัย`,
+    'workshop.work.danger.delete.desc': `ลบถาวรจักรวาลนี้ {type, select,
+    universe {และข้อมูลเวิร์กช็อปที่เชื่อมโยง}
+    story {เรื่องราวพร้อมทุกบท สถิติ และการเชื่อมโยงเวิร์กช็อป}
+    other {ผลงานและข้อมูลที่เกี่ยวข้อง}
+  }.`,
+    'workshop.work.unpublish.impact': `การยกเลิกการเผยแพร่สิ่งนี้ {type, select,
+    universe {จักรวาล}
+    story {เรื่องราว}
+    other {ผลงาน}
+  } จะลบออกจากระบบค้นหาและการค้นพบ ผู้ที่มีอยู่ในห้องสมุดของตนแล้วจะยังคงเข้าถึงได้ ผู้ใช้ใหม่ไม่สามารถเพิ่มลงในห้องสมุดของตนได้อีกต่อไป{type, select,
+    story { หรือซื้อได้เว้นแต่คุณจะมอบให้เป็นของขวัญ}
+    other {}
+  }.`,
+    'workshop.work.unpublished.notice': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
+    story { or buy it}
+    other {}
+  }.`,
+    'workshop.work.unpublish.button': `เผยแพร่ {type, select,
+    universe {จักรวาล}
+    story {เรื่องราว}
+    other {งาน}
+  }`,
+    'workshop.work.unpublish.confirm': `เผยแพร่ {type, select,
+    universe {จักรวาล}
+    story {เรื่องราว}
+    other {งาน}
+  }`,
+    'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  }`,
+    'workshop.work.unpublish.warning': `การยกเลิกการเผยแพร่จะลบ {type, select,
+    universe {จักรวาล}
+    story {เรื่องราว}
+    other {ผลงาน}
+  } นี้ออกจากการค้นพบและการค้นหาสาธารณะ`,
+    'workshop.work.republish.button': `เผยแพร่ซ้ำ {type, select,
+    universe {จักรวาล}
+    story {เรื่องราว}
+    other {ผลงาน}
+  }`,
+    'workshop.work.republish.confirm': `เผยแพร่ซ้ำ {type, select,
+    universe {จักรวาล}
+    story {เรื่องราว}
+    other {ผลงาน}
+  }`,
+    'workshop.work.republish.modalAria': `หน้าต่างยืนยันสำหรับการเผยแพร่ซ้ำ {type, select,
+    universe {จักรวาล}
+    story {เรื่องราว}
+    other {ผลงาน}
+  }`,
+    'workshop.work.republish.warning': `Republishing will make this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } discoverable again and allow new users to add it to their library{type, select,
+    story { or buy it}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': 'เขตอันตราย',
     'workshop.universe.dangerZone.desc': 'คุณสามารถลบจักรวาลนี้ได้เฉพาะเมื่อไม่มีเรื่องราวที่เผยแพร่แล้วและเผยแพร่เมื่อน้อยกว่าหนึ่งเดือนที่ผ่านมา หากคุณต้องการลบหลังจากช่วงเวลาจำกัดนี้ กรุณาติดต่อเรา',
     'workshop.universe.delete.modalAria': 'โมดัลยืนยันสำหรับการลบจักรวาล',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
+    'workshop.story.delete.modalAria': 'หน้าต่างยืนยันสำหรับการลบเรื่องราว',
+    'workshop.story.delete.confirm': 'ลบเรื่องราว',
+    'workshop.story.delete.warning': 'คุณแน่ใจหรือไม่ว่าต้องการลบ "{title}" การดำเนินการนี้ไม่สามารถย้อนกลับได้',
+    'workshop.story.delete.button': 'ลบเรื่องราว',
+    'workshop.story.republish.button': 'เผยแพร่เรื่องราวอีกครั้ง',
+    'workshop.story.republish.confirm': 'เผยแพร่เรื่องราวอีกครั้ง',
+    'workshop.story.republish.modalAria': 'หน้าต่างยืนยันสำหรับการเผยแพร่เรื่องราวอีกครั้ง',
+    'workshop.story.republish.warning': 'การเผยแพร่ซ้ำจะทำให้เรื่องนี้สามารถค้นพบได้อีกครั้งและอนุญาตให้ผู้ใช้ใหม่เพิ่มเข้าไปในคลังของพวกเขา',
+    'workshop.story.unpublished.universeExplain': 'เรื่องนี้ยังไม่ได้รับการตีพิมพ์ เนื่องจากจักรวาลของมันยังไม่ได้รับการตีพิมพ์',
+    'workshop.story.republishWithUniverse.button': 'เผยแพร่ซ้ำเรื่องราวและจักรวาล',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'หน้าต่างยืนยันการลบบท',
     'workshop.chapter.delete.confirm': 'ลบบท',
