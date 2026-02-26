@@ -67,11 +67,6 @@ export default {
     story {Poveste}
     other {Muncă}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Univers}
-    story {Poveste}
-    other {Muncă}
-  }`,
     'workshop.work.unpublish.modalAria': `Mod de confirmare pentru nepublicarea unui {type, select,
     universe {univers}
     story {poveste}
@@ -83,11 +78,6 @@ export default {
     other {lucrare}
   } de la descoperirea și căutarea publică.`,
     'workshop.work.republish.button': `Republicare {type, select,
-    universe {Univers}
-    story {Poveste}
-    other {Muncă}
-  }`,
-    'workshop.work.republish.confirm': `Republicare {type, select,
     universe {Univers}
     story {Poveste}
     other {Muncă}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Zona periculoasă',
     'workshop.universe.dangerZone.desc': 'Puteți șterge acest univers numai atunci când nu are nicio poveste publicată și a fost publicat cu mai puțin de o lună în urmă. Dacă aveți nevoie să îl ștergeți după această perioadă de limitare, vă rugăm să ne contactați.',
     'workshop.universe.delete.modalAria': 'Mod de confirmare pentru ștergerea unui univers',
-    'workshop.universe.delete.confirm': 'Ștergeți universul',
     'workshop.universe.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
     'workshop.universe.delete.button': 'Ștergeți universul',
-    'workshop.universe.delete.notAllowed': 'Acest univers nu mai poate fi șters prin self-service. Dacă aveți nevoie să îl ștergeți după perioada de limitare, vă rugăm să ne contactați.',
-    'workshop.universe.unpublish.modalAria': 'Mod de confirmare pentru nepublicarea unui univers',
-    'workshop.universe.unpublish.confirm': 'Unpublish Univers',
-    'workshop.universe.unpublish.warning': 'Dezpublicarea va elimina acest univers de la descoperirea și căutarea publică.',
-    'workshop.universe.unpublish.button': 'Unpublish Univers',
     'workshop.universe.description': 'Descriere univers',
     'workshop.settings.title': 'Titlu',
     'workshop.description': 'Descriere',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Din cauza încălcării bunei conduite, v-am dezactivat capacitatea de a publica.',
     'workshop.story.buyingSettings': 'Setări de vânzare',
     'workshop.story.delete.modalAria': 'Mod de confirmare pentru ștergerea unei povești',
-    'workshop.story.delete.confirm': 'Șterge povestea',
     'workshop.story.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
     'workshop.story.delete.button': 'Șterge povestea',
-    'workshop.story.republish.button': 'Republicarea poveștii',
-    'workshop.story.republish.confirm': 'Republicarea poveștii',
-    'workshop.story.republish.modalAria': 'Modul de confirmare pentru republicarea unui articol',
-    'workshop.story.republish.warning': 'Republicarea va face ca această poveste să poată fi descoperită din nou și va permite noilor utilizatori să o adauge la biblioteca lor.',
     'workshop.story.unpublished.universeExplain': 'Această poveste este nepublicată pentru că universul ei este nepublicat.',
     'workshop.story.republishWithUniverse.button': 'Republicarea poveștii și a universului',
+    'workshop.universe.republish.only.button': 'Republicați numai universul',
+    'workshop.universe.republish.only.modalAria': 'Mod de confirmare doar pentru republicarea unui univers',
+    'workshop.universe.republish.only.warning': 'Aceasta republică doar universul. Povestirile din acest univers rămân nepublicate până când sunt republicate individual.',
+    'workshop.universe.republish.withStories.button': 'Republicarea Universului și a tuturor poveștilor',
+    'workshop.universe.republish.withStories.modalAria': 'Mod de confirmare pentru republicarea unui univers cu toate povestirile',
+    'workshop.universe.republish.withStories.warning': 'Aceasta republică universul și toate povestirile legate de acesta.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Mod de confirmare pentru ștergerea unui capitol',
-    'workshop.chapter.delete.confirm': 'Ștergeți capitolul',
     'workshop.chapter.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
     'workshop.chapter.delete.button': 'Ștergeți capitolul',
     'workshop.chapter.delete.deleting': 'Ștergerea...',
