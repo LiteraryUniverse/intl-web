@@ -27,10 +27,10 @@ export default {
     'workshop.universe.settings': '{universe} cài đặt vũ trụ',
     'workshop.universe.publishedOn': 'Vũ trụ này đã được xuất bản trên {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': 'Nếu bạn cần hỗ trợ, vui lòng <contact>liên hệ với chúng tôi</contact>.',
-    'workshop.work.delete.restrictions': `You can delete this {type, select,
-    universe {universe only if it has no published stories and}
-    story {story only if it}
-    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.restrictions': `Bạn có thể xóa vũ trụ này {type, select,
+    universe {chỉ khi nó không có câu chuyện nào đã được đăng và}
+    story {câu chuyện chỉ khi nó}
+    other {tác phẩm chỉ khi nó}} đã được đăng cách đây ít hơn một tháng. Cần hỗ trợ sau đó? <contact>Hãy liên hệ với chúng tôi</contact>.`,
     'workshop.work.delete.notAllowed': `Tác phẩm này {type, select,
     universe {vũ trụ}
     story {câu chuyện}
@@ -41,68 +41,68 @@ export default {
     story {câu chuyện}
     other {tác phẩm}
   } không thể xóa bỏ thông qua dịch vụ tự phục vụ. Nếu bạn cần xóa bỏ nó, vui lòng liên hệ với chúng tôi qua địa chỉ email deletions@literaryuniverse.com và chúng tôi sẽ hỗ trợ bạn xóa bỏ nó một cách an toàn.`,
-    'workshop.work.danger.delete.desc': `Permanently deletes this {type, select,
-    universe {universe and linked workshop data}
-    story {story with all chapters, statistics, and workshop associations}
-    other {work and related data}
+    'workshop.work.danger.delete.desc': `Xóa vĩnh viễn vũ trụ này {type, select,
+    universe {và dữ liệu workshop liên quan}
+    story {câu chuyện cùng tất cả các chương, thống kê và liên kết workshop}
+    other {công việc và dữ liệu liên quan}
   }.`,
-    'workshop.work.unpublish.impact': `Unpublishing this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
-    story { or buy it unless you gift it to them}
+    'workshop.work.unpublish.impact': `Việc gỡ bỏ xuất bản này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } sẽ loại bỏ nó khỏi kết quả tìm kiếm và khám phá. Những người đã có nó trong thư viện của mình vẫn giữ quyền truy cập. Người dùng mới không thể thêm nó vào thư viện của họ nữa{type, select,
+    story { hoặc mua nó trừ khi bạn tặng nó cho họ}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `This {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.unpublished.notice': `Tác phẩm này {type, select,
+    universe {thuộc vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } hiện tại chưa được xuất bản. Người dùng hiện tại vẫn có thể truy cập. Người dùng mới không thể thêm nó vào thư viện của mình{type, select,
+    story { hoặc mua nó}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.button': `Hủy đăng {type, select,
+    universe {Vũ trụ}
+    story {Câu chuyện}
+    other {Công việc}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.confirm': `Hủy đăng {type, select,
+    universe {Vũ trụ}
+    story {Câu chuyện}
+    other {Công việc}
   }`,
-    'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
+    'workshop.work.unpublish.modalAria': `Cửa sổ xác nhận để hủy đăng tải một {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  }`,
+    'workshop.work.unpublish.warning': `Việc gỡ bỏ công khai sẽ xóa bỏ các mục sau khỏi khả năng tìm kiếm và hiển thị công khai: {type, select,
     universe {universe}
     story {story}
     other {work}
+  }.`,
+    'workshop.work.republish.button': `Tái bản {type, select,
+    universe {Vũ trụ}
+    story {Câu chuyện}
+    other {Công việc}
   }`,
-    'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } from public discovery and search.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.republish.confirm': `Tái bản {type, select,
+    universe {Vũ trụ}
+    story {Câu chuyện}
+    other {Công việc}
   }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.republish.modalAria': `Cửa sổ xác nhận để đăng lại một {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
   }`,
-    'workshop.work.republish.modalAria': `Confirmation modal for republishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  }`,
-    'workshop.work.republish.warning': `Republishing will make this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } discoverable again and allow new users to add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.republish.warning': `Việc tái xuất bản sẽ giúp tác phẩm này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } trở nên có thể tìm thấy lại và cho phép người dùng mới thêm nó vào thư viện của họ{type, select,
+    story { hoặc mua nó}
     other {}
   }.`,
     'workshop.universe.dangerZone': 'Khu vực nguy hiểm',
@@ -437,16 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
-    'workshop.story.delete.modalAria': 'Confirmation modal for deleting a story',
-    'workshop.story.delete.confirm': 'Delete Story',
-    'workshop.story.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
-    'workshop.story.delete.button': 'Delete Story',
-    'workshop.story.republish.button': 'Republish Story',
-    'workshop.story.republish.confirm': 'Republish Story',
-    'workshop.story.republish.modalAria': 'Confirmation modal for republishing a story',
-    'workshop.story.republish.warning': 'Republishing will make this story discoverable again and allow new users to add it to their library.',
-    'workshop.story.unpublished.universeExplain': 'This story is unpublished because its universe is unpublished.',
-    'workshop.story.republishWithUniverse.button': 'Republish Story and Universe',
+    'workshop.story.delete.modalAria': 'Hộp thoại xác nhận khi xóa một bài viết',
+    'workshop.story.delete.confirm': 'Xóa câu chuyện',
+    'workshop.story.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
+    'workshop.story.delete.button': 'Xóa câu chuyện',
+    'workshop.story.republish.button': 'Đăng lại câu chuyện',
+    'workshop.story.republish.confirm': 'Đăng lại câu chuyện',
+    'workshop.story.republish.modalAria': 'Cửa sổ xác nhận để đăng lại một bài viết',
+    'workshop.story.republish.warning': 'Việc đăng lại sẽ giúp câu chuyện này được tìm thấy lại và cho phép người dùng mới thêm nó vào thư viện của họ.',
+    'workshop.story.unpublished.universeExplain': 'Câu chuyện này chưa được xuất bản vì thế giới của nó chưa được xuất bản.',
+    'workshop.story.republishWithUniverse.button': 'Tái xuất bản Câu chuyện và Vũ trụ',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Cửa sổ xác nhận cho việc xóa một chương',
     'workshop.chapter.delete.confirm': 'Xóa Chương',
