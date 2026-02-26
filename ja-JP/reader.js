@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': '私たちが用意できるこの物語はここまでですが、アドベンチャーは今後も続きますので追ってご確認ください。',
     'reader.storyPreview.heading': 'プレビュー完了',
     'reader.storyPreview.description': 'あなたは今、プレビューを終えたところです。続きはまだありませんが、以下の場所でご覧いただけます。',
+    'reader.unpublishedChapter.heading': 'この章は終了しました',
     'chapter.translation.notYetDescription': 'またすぐにチェックしてください。',
     'reader.externalShopping.heading': '他の場所で {storyName}：',
     'chapter.next': '次の章',
