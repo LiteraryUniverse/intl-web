@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universum}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Kinnitusmoodus avaldamata jätmiseks {type, select,
     universe {universum}
     story {lugu}
@@ -83,11 +78,6 @@ export default {
     other {teose}
   } avalikust avastamisest ja otsingust.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universum}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universum}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Ohutsoon',
     'workshop.universe.dangerZone.desc': 'Seda universumit saab kustutada ainult siis, kui selles ei ole avaldatud lugusid ja kui see on avaldatud vähem kui üks kuu tagasi. Kui teil on vaja seda kustutada pärast seda piiranguperioodi, võtke meiega ühendust.',
     'workshop.universe.delete.modalAria': 'Universumi kustutamise kinnituse modaal',
-    'workshop.universe.delete.confirm': 'Kustuta Universum',
     'workshop.universe.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
     'workshop.universe.delete.button': 'Kustuta Universum',
-    'workshop.universe.delete.notAllowed': 'Seda universumit ei saa enam iseteeninduse kaudu kustutada. Kui teil on vaja seda pärast aegumistähtaega eemaldada, võtke meiega ühendust.',
-    'workshop.universe.unpublish.modalAria': 'Universumi avaldamise tühistamise kinnituse modaal',
-    'workshop.universe.unpublish.confirm': 'Universumi avaldamata jätmine',
-    'workshop.universe.unpublish.warning': 'Avaldamise tühistamine eemaldab selle universumi avalikust avastamisest ja otsingust.',
-    'workshop.universe.unpublish.button': 'Universumi avaldamata jätmine',
     'workshop.universe.description': 'Universumi kirjeldus',
     'workshop.settings.title': 'Pealkiri',
     'workshop.description': 'Kirjeldus',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Hea käitumise rikkumise tõttu oleme keelanud teie avaldamisvõimaluse.',
     'workshop.story.buyingSettings': 'Müügi seaded',
     'workshop.story.delete.modalAria': 'Kinnitusmoodul loo kustutamiseks',
-    'workshop.story.delete.confirm': 'Kustuta lugu',
     'workshop.story.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
     'workshop.story.delete.button': 'Kustuta lugu',
-    'workshop.story.republish.button': 'Avalda lugu uuesti',
-    'workshop.story.republish.confirm': 'Avalda lugu uuesti',
-    'workshop.story.republish.modalAria': 'Kinnitusmoodul loo uuesti avaldamiseks',
-    'workshop.story.republish.warning': 'Uuesti avaldamine muudab selle loo taas leitavaks ja võimaldab uutel kasutajatel seda oma raamatukogusse lisada.',
     'workshop.story.unpublished.universeExplain': 'See lugu on avaldamata, sest selle universum on avaldamata.',
     'workshop.story.republishWithUniverse.button': 'Loo ja universumi uuesti avaldamine',
+    'workshop.universe.republish.only.button': 'Avalda ainult Universum',
+    'workshop.universe.republish.only.modalAria': 'Kinnitusmoodal ainult universumi uuesti avaldamiseks',
+    'workshop.universe.republish.only.warning': 'See avaldab ainult universumi. Selles universumis olevad lood jäävad avaldamata, kuni neid ükshaaval uuesti avaldatakse.',
+    'workshop.universe.republish.withStories.button': 'Universumi ja kõigi lugude uuesti avaldamine',
+    'workshop.universe.republish.withStories.modalAria': 'Kinnitusmoodul universumi uuesti avaldamiseks koos kõigi lugudega',
+    'workshop.universe.republish.withStories.warning': 'See avaldab universumi ja kõik sellega seotud lood uuesti.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Peatüki kustutamise kinnituse modaal',
-    'workshop.chapter.delete.confirm': 'Peatükk kustutada',
     'workshop.chapter.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
     'workshop.chapter.delete.button': 'Peatükk kustutada',
     'workshop.chapter.delete.deleting': 'Kustutamine...',
