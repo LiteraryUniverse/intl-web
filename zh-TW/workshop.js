@@ -46,52 +46,52 @@ export default {
     story {故事與所有章節、統計和工作坊關聯}
     other {工作和相關資料}
   }.`,
-    'workshop.work.unpublish.impact': `取消出版此 {type, select,
+    'workshop.work.makePrivate.impact': `將這個 {type, select,
     universe {宇宙}
     story {故事}
     other {作品}
-  } 會將其從搜尋中移除。圖書館中已有此書的使用者仍可存取。新使用者無法再將它加入圖書館{type, select,
+  } 從發現和搜尋中移除。圖書館中已有此書的使用者可以繼續存取。新使用者無法再將它加入圖書館{type, select,
     story { 或購買它，除非您贈送給他們}
     other {}
   }。`,
-    'workshop.work.unpublished.notice': `此 {type, select,
+    'workshop.work.private.notice': `此 {type, select,
     universe {宇宙}
     story {故事}
     other {作品}
-  } 目前尚未出版。現有圖書館持有者仍可存取。新使用者無法將其加入圖書館{type, select,
+  } 目前為隱私資料。現有圖書館持有者仍可存取。新使用者無法將其加入圖書館{type, select,
     story { 或購買}
     other {}
   }。`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.makePrivate.button': `製作 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
+  } 私人`,
+    'workshop.work.makePrivate.modalAria': `建立 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
+  } 私人的確認模組`,
+    'workshop.work.makePrivate.warning': `將此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 設為隱私會使其無法被公開發現和搜尋。`,
+    'workshop.work.makePublic.button': `製作 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
   }`,
-    'workshop.work.unpublish.modalAria': `確認模式為取消出版 {type, select,
+    'workshop.work.makePublic.modalAria': `製作 {type, select,
     universe {宇宙}
     story {故事}
     other {作品}
-  }`,
-    'workshop.work.unpublish.warning': `解除出版會將此 {type, select,
+  } 的確認模組。`,
+    'workshop.work.makePublic.warning': `將這個 {type, select,
     universe {宇宙}
     story {故事}
     other {作品}
-  } 從公開發現和搜尋中移除。`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.modalAria': `轉載 {type, select,
-    universe {宇宙}
-    story {故事}
-    other {作品}
-  } 的確認模式。`,
-    'workshop.work.republish.warning': `重新出版將使這個 {type, select,
-    universe {宇宙}
-    story {故事}
-    other {作品}
-  } 可再次被發現，並允許新使用者將它加入圖書館{type, select,
+  } 公開會讓它再次被發現，並允許新使用者將它加入圖書館{type, select,
     story { 或購買}
     other {}
   }。`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': '刪除故事的確認模態',
     'workshop.story.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
     'workshop.story.delete.button': '刪除故事',
-    'workshop.story.unpublished.universeExplain': '這個故事沒有出版，因為它的宇宙沒有出版。',
-    'workshop.story.republishWithUniverse.button': '重新出版故事和宇宙',
-    'workshop.universe.republish.only.button': '僅重發宇宙',
-    'workshop.universe.republish.only.modalAria': '僅重發宇宙的確認模態',
-    'workshop.universe.republish.only.warning': '這只會重新發行宇宙。這個宇宙中的故事在個別重新發表之前都不會發表。',
-    'workshop.universe.republish.withStories.button': '重新出版宇宙和所有故事',
-    'workshop.universe.republish.withStories.modalAria': '重新發行包含所有故事的宇宙的確認模態',
-    'workshop.universe.republish.withStories.warning': '這會重新發佈宇宙和所有與其相關的故事。',
+    'workshop.story.private.universeExplain': '這個故事是私密的，因為它的宇宙是私密的。',
+    'workshop.story.makePublicWithUniverse.button': '公開故事與宇宙',
+    'workshop.universe.makePublic.only.button': '僅公開宇宙',
+    'workshop.universe.makePublic.only.modalAria': '僅將宇宙公開的確認模態',
+    'workshop.universe.makePublic.only.warning': '這只會讓宇宙公開。這個宇宙中的故事在個別公開之前都是隱私的。',
+    'workshop.universe.makePublic.withStories.button': '公開宇宙和所有故事',
+    'workshop.universe.makePublic.withStories.modalAria': '確認公開宇宙和所有故事的模式',
+    'workshop.universe.makePublic.withStories.warning': '這讓宇宙和所有連結的故事都變成公開。',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '刪除章節的確認模態',
     'workshop.chapter.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
