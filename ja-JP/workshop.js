@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   } 。`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  } 。`,
     'workshop.work.unpublish.modalAria': `{type, select,
     universe {宇宙}
     story {ストーリー}
@@ -83,11 +78,6 @@ export default {
     other {work}
   } from public discovery and search.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universe}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': '危険地帯',
     'workshop.universe.dangerZone.desc': 'このuniverseを削除できるのは、公開されたストーリーがなく、公開されてから1ヶ月以内の場合のみです。この制限期間後に削除する必要がある場合は、ご連絡ください。',
     'workshop.universe.delete.modalAria': 'ユニバース削除の確認モーダル',
-    'workshop.universe.delete.confirm': '宇宙の削除',
     'workshop.universe.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
     'workshop.universe.delete.button': '宇宙の削除',
-    'workshop.universe.delete.notAllowed': 'このユニバースはセルフサービスでは削除できなくなりました。制限期間後に削除が必要な場合は、ご連絡ください。',
-    'workshop.universe.unpublish.modalAria': 'ユニバースの公開を解除するための確認モーダル',
-    'workshop.universe.unpublish.confirm': '出版されない宇宙',
-    'workshop.universe.unpublish.warning': '公開を解除すると、このユニバースは公開された発見や検索から除外されます。',
-    'workshop.universe.unpublish.button': '出版されない宇宙',
     'workshop.universe.description': '宇宙解説',
     'workshop.settings.title': '題名',
     'workshop.description': 'あらすじ',
@@ -430,18 +414,18 @@ export default {
     'workshop.publishing.restricted': '善行違反のため、私たちはあなたの出版能力を無効にしました。',
     'workshop.story.buyingSettings': 'セール設定',
     'workshop.story.delete.modalAria': 'ストーリー削除の確認モーダル',
-    'workshop.story.delete.confirm': 'ストーリー削除',
     'workshop.story.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
     'workshop.story.delete.button': 'ストーリー削除',
-    'workshop.story.republish.button': '記事の再掲載',
-    'workshop.story.republish.confirm': '記事の再掲載',
-    'workshop.story.republish.modalAria': '記事を再公開する際の確認モーダル',
-    'workshop.story.republish.warning': '再公開することで、このストーリーを再び発見できるようになり、新しいユーザーがライブラリに追加できるようになる。',
     'workshop.story.unpublished.universeExplain': 'この物語が未発表なのは、その宇宙が未発表だからだ。',
     'workshop.story.republishWithUniverse.button': 'ストーリーとユニバースを再公開',
+    'workshop.universe.republish.only.button': 'ユニバースのみ再発行',
+    'workshop.universe.republish.only.modalAria': 'ユニバースのみ再パブリッシュする場合の確認モーダル',
+    'workshop.universe.republish.only.warning': 'これはユニバースだけを再公開するものです。このユニバース内のストーリーは、個別に再公開されるまで未公開のままです。',
+    'workshop.universe.republish.withStories.button': 'リパブリッシュ・ユニバース・アンド・オール・ストーリーズ',
+    'workshop.universe.republish.withStories.modalAria': 'すべてのストーリーを含むユニバースを再パブリッシュするための確認モーダル',
+    'workshop.universe.republish.withStories.warning': 'これは、宇宙とそれにリンクするすべてのストーリーを再公開するものである。',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'チャプター削除の確認モーダル',
-    'workshop.chapter.delete.confirm': '章を削除',
     'workshop.chapter.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
     'workshop.chapter.delete.button': '章を削除',
     'workshop.chapter.delete.deleting': '削除...',
