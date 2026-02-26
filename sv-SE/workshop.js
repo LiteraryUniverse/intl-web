@@ -67,11 +67,6 @@ export default {
     story {Berättelse}
     other {Arbete}
   }`,
-    'workshop.work.unpublish.confirm': `Avpublicera {type, select,
-    universe {Universum}
-    story {Berättelse}
-    other {Arbete}
-  }`,
     'workshop.work.unpublish.modalAria': `Bekräftelse modal för avpublicering av en {type, select,
     universe {universum}
     story {berättelse}
@@ -83,11 +78,6 @@ export default {
     other {arbete}
   } från offentlig upptäckt och sökning.`,
     'workshop.work.republish.button': `Återpublicera {type, select,
-    universe {Universum}
-    story {Berättelse}
-    other {Arbete}
-  }`,
-    'workshop.work.republish.confirm': `Återpublicera {type, select,
     universe {Universum}
     story {Berättelse}
     other {Arbete}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Farlig zon',
     'workshop.universe.dangerZone.desc': 'Du kan bara radera det här universumet om det inte har några publicerade berättelser och publicerades för mindre än en månad sedan. Om du behöver radera det efter denna begränsningsperiod, vänligen kontakta oss.',
     'workshop.universe.delete.modalAria': 'Bekräftelsemodal för borttagning av ett universum',
-    'workshop.universe.delete.confirm': 'Radera universum',
     'workshop.universe.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
     'workshop.universe.delete.button': 'Radera universum',
-    'workshop.universe.delete.notAllowed': 'Detta universum kan inte längre raderas via självbetjäning. Om du behöver ta bort det efter begränsningsperioden, vänligen kontakta oss.',
-    'workshop.universe.unpublish.modalAria': 'Bekräftelsemodal för avpublicering av ett universum',
-    'workshop.universe.unpublish.confirm': 'Avpublicera universum',
-    'workshop.universe.unpublish.warning': 'Avpublicering tar bort detta universum från offentlig upptäckt och sökning.',
-    'workshop.universe.unpublish.button': 'Avpublicera universum',
     'workshop.universe.description': 'Universums beskrivning',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beskrivning',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
     'workshop.story.buyingSettings': 'Inställningar för försäljning',
     'workshop.story.delete.modalAria': 'Bekräftelsemodal för att radera en story',
-    'workshop.story.delete.confirm': 'Radera berättelse',
     'workshop.story.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
     'workshop.story.delete.button': 'Radera berättelse',
-    'workshop.story.republish.button': 'Återpublicera berättelsen',
-    'workshop.story.republish.confirm': 'Återpublicera berättelsen',
-    'workshop.story.republish.modalAria': 'Bekräftelsemodal för återpublicering av en berättelse',
-    'workshop.story.republish.warning': 'Genom att publicera den på nytt blir den här berättelsen tillgänglig igen och nya användare kan lägga till den i sitt bibliotek.',
     'workshop.story.unpublished.universeExplain': 'Den här berättelsen är opublicerad eftersom dess universum är opublicerat.',
     'workshop.story.republishWithUniverse.button': 'Återpublicera berättelse och universum',
+    'workshop.universe.republish.only.button': 'Återpublicera endast universum',
+    'workshop.universe.republish.only.modalAria': 'Bekräftelsemodal endast för återpublicering av ett universum',
+    'workshop.universe.republish.only.warning': 'Detta återpublicerar endast universum. Berättelser i detta universum förblir opublicerade tills de återpubliceras individuellt.',
+    'workshop.universe.republish.withStories.button': 'Återpublicera universum och alla berättelser',
+    'workshop.universe.republish.withStories.modalAria': 'Bekräftelse modal för återpublicering av ett universum med alla berättelser',
+    'workshop.universe.republish.withStories.warning': 'Detta återpublicerar universumet och alla berättelser som är länkade till det.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bekräftelsemodal för borttagning av ett kapitel',
-    'workshop.chapter.delete.confirm': 'Radera kapitel',
     'workshop.chapter.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
     'workshop.chapter.delete.button': 'Radera kapitel',
     'workshop.chapter.delete.deleting': 'Radera...',
