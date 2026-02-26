@@ -46,52 +46,52 @@ export default {
     story {történetet az összes fejezettel, statisztikával és műhelytársítással}
     other {munkát és kapcsolódó adatokat}
   }.`,
-    'workshop.work.unpublish.impact': `Ennek a {type, select,
+    'workshop.work.makePrivate.impact': `Ennek a {type, select,
+    universe {univerzumnak}
+    story {történet}
+    other {munkának}
+  } a felfedezés és a keresés alól való kivonása. Azok, akiknek már van a könyvtárukban, továbbra is hozzáférnek. Az új felhasználók már nem tudják hozzáadni a könyvtárukhoz{type, select,
+    story { vagy megvásárolni, hacsak nem ajándékozzák nekik}
+    other {~}
+  }.`,
+    'workshop.work.private.notice': `Ez a {type, select,
     universe {univerzum}
     story {történet}
     other {munka}
-  } közzétételének megszüntetése eltávolítja a felfedezés és a keresés alól. Azok, akiknek már megvan a könyvtárában, továbbra is hozzáférnek. Az új felhasználók már nem tudják hozzáadni a könyvtárukhoz{type, select,
-    story { vagy megvásárolni, hacsak nem ajándékozza nekik}
-    other {~}
-  }.`,
-    'workshop.work.unpublished.notice': `Ez a {type, select,
-    universe {univerzum}
-    story {történet}
-    other {mű}
-  } jelenleg nem publikált. A meglévő könyvtártulajdonosok továbbra is hozzáférhetnek. Új felhasználók nem tudják hozzáadni a könyvtárukhoz{type, select,
+  } jelenleg privát. A meglévő könyvtártulajdonosok továbbra is hozzáférhetnek. Új felhasználók nem tudják hozzáadni a könyvtárukhoz{type, select,
     story { vagy megvásárolni}
     other {~}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
+    'workshop.work.makePrivate.button': `Make {type, select,
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
-    'workshop.work.unpublish.modalAria': `Megerősítés modal for unpublishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  }`,
-    'workshop.work.unpublish.warning': `A közzététel feloldása eltávolítja ezt a {type, select,
-    universe {univerzumot}
-    story {történetet}
-    other {munkát}
-  } a nyilvános felfedezésből és keresésből.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.modalAria': `Megerősítési modal a {type, select,
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Megerősítés modális, hogy egy {type, select,
     universe {univerzum}
     story {történet}
     other {munka}
-  } újraközléséhez.`,
-    'workshop.work.republish.warning': `Az újrakiadás újra felfedezhetővé teszi ezt a {type, select,
+  } privát`,
+    'workshop.work.makePrivate.warning': `A {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } magánjellegűvé tétele eltávolítja a nyilvános felfedezés és keresés alól.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.makePublic.modalAria': `Megerősítés modális, hogy egy {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  }`,
+    'workshop.work.makePublic.warning': `Ha ezt a {type, select,
     universe {univerzumot}
     story {történetet}
     other {művet}
-  } és lehetővé teszi az új felhasználók számára, hogy hozzáadják a könyvtárukhoz{type, select,
+  } nyilvánossá tesszük, az újra felfedezhetővé teszi, és lehetővé teszi az új felhasználók számára, hogy hozzáadják a könyvtárukhoz{type, select,
     story { vagy megvásárolják}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Megerősítő modal egy történet törléséhez',
     'workshop.story.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
     'workshop.story.delete.button': 'Történet törlése',
-    'workshop.story.unpublished.universeExplain': 'Ez a történet azért nem publikált, mert az univerzuma nem publikált.',
-    'workshop.story.republishWithUniverse.button': 'Történet és univerzum újraközlése',
-    'workshop.universe.republish.only.button': 'Csak az Univerzum újraközlése',
-    'workshop.universe.republish.only.modalAria': 'Megerősítő modal csak univerzum újraközléséhez',
-    'workshop.universe.republish.only.warning': 'Ez csak az univerzumot teszi közzé. Az ebben az univerzumban lévő történetek mindaddig kiadatlanok maradnak, amíg külön-külön újra nem publikálják őket.',
-    'workshop.universe.republish.withStories.button': 'Az Univerzum és az összes történet újraközlése',
-    'workshop.universe.republish.withStories.modalAria': 'Megerősítő modal egy univerzum újraközléséhez az összes történettel együtt',
-    'workshop.universe.republish.withStories.warning': 'Ez újra közzéteszi az univerzumot és a hozzá kapcsolódó összes történetet.',
+    'workshop.story.private.universeExplain': 'Ez a történet magánügy, mert az univerzum magánügy.',
+    'workshop.story.makePublicWithUniverse.button': 'A történet és az univerzum nyilvánosságra hozatala',
+    'workshop.universe.makePublic.only.button': 'Csak az univerzumot tegye nyilvánossá',
+    'workshop.universe.makePublic.only.modalAria': 'Megerősítési modal csak az univerzum nyilvánosságra hozatalához',
+    'workshop.universe.makePublic.only.warning': 'Ez csak az univerzumot teszi nyilvánossá. Az ebben az univerzumban lévő történetek mindaddig magánügyek maradnak, amíg egyedileg nyilvánosságra nem hozzák őket.',
+    'workshop.universe.makePublic.withStories.button': 'Az Univerzum és az összes történet nyilvánossá tétele',
+    'workshop.universe.makePublic.withStories.modalAria': 'Megerősítési modál az univerzum és az összes történet nyilvánossá tételéhez',
+    'workshop.universe.makePublic.withStories.warning': 'Ezáltal az univerzum és az összes kapcsolódó történet nyilvános lesz.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Megerősítő modal egy fejezet törléséhez',
     'workshop.chapter.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
