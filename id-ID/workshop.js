@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Modal konfirmasi untuk tidak mempublikasikan {type, select,
     universe {alam semesta}
     story {cerita}
@@ -83,11 +78,6 @@ export default {
     other {karya}
   } dari penemuan dan pencarian publik.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Alam Semesta}
-    story {Cerita}
-    other {Karya}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Alam Semesta}
     story {Cerita}
     other {Karya}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Zona bahaya',
     'workshop.universe.dangerZone.desc': 'Anda dapat menghapus semesta ini hanya jika tidak ada cerita yang diterbitkan dan diterbitkan kurang dari satu bulan yang lalu. Jika Anda ingin menghapusnya setelah periode pembatasan ini, silakan hubungi kami.',
     'workshop.universe.delete.modalAria': 'Modal konfirmasi untuk menghapus semesta',
-    'workshop.universe.delete.confirm': 'Hapus Semesta',
     'workshop.universe.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
     'workshop.universe.delete.button': 'Hapus Semesta',
-    'workshop.universe.delete.notAllowed': 'Alam semesta ini tidak dapat lagi dihapus melalui layanan mandiri. Jika Anda ingin menghapusnya setelah periode pembatasan, silakan hubungi kami.',
-    'workshop.universe.unpublish.modalAria': 'Modal konfirmasi untuk membatalkan penerbitan alam semesta',
-    'workshop.universe.unpublish.confirm': 'Batalkan Penerbitan Semesta',
-    'workshop.universe.unpublish.warning': 'Tidak menerbitkannya akan menghapus alam semesta ini dari penemuan dan pencarian publik.',
-    'workshop.universe.unpublish.button': 'Batalkan Penerbitan Semesta',
     'workshop.universe.description': 'Deskripsi alam semesta',
     'workshop.settings.title': 'Judul',
     'workshop.description': 'Deskripsi',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Karena pelanggaran tata tertib, kami telah menonaktifkan kemampuan Anda untuk mempublikasikan.',
     'workshop.story.buyingSettings': 'Pengaturan penjualan',
     'workshop.story.delete.modalAria': 'Modal konfirmasi untuk menghapus cerita',
-    'workshop.story.delete.confirm': 'Menghapus Cerita',
     'workshop.story.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
     'workshop.story.delete.button': 'Menghapus Cerita',
-    'workshop.story.republish.button': 'Publikasikan Ulang Cerita',
-    'workshop.story.republish.confirm': 'Publikasikan Ulang Cerita',
-    'workshop.story.republish.modalAria': 'Modal konfirmasi untuk menerbitkan ulang sebuah cerita',
-    'workshop.story.republish.warning': 'Penerbitan ulang akan membuat cerita ini dapat ditemukan kembali dan memungkinkan pengguna baru untuk menambahkannya ke perpustakaan mereka.',
     'workshop.story.unpublished.universeExplain': 'Kisah ini tidak dipublikasikan karena alam semesta tidak dipublikasikan.',
     'workshop.story.republishWithUniverse.button': 'Menerbitkan ulang Cerita dan Alam Semesta',
+    'workshop.universe.republish.only.button': 'Publikasikan Ulang Hanya Semesta',
+    'workshop.universe.republish.only.modalAria': 'Modal konfirmasi hanya untuk menerbitkan ulang semesta',
+    'workshop.universe.republish.only.warning': 'Ini hanya menerbitkan ulang alam semesta. Cerita di alam semesta ini tetap tidak dipublikasikan sampai diterbitkan ulang secara individual.',
+    'workshop.universe.republish.withStories.button': 'Menerbitkan ulang Universe dan Semua Cerita',
+    'workshop.universe.republish.withStories.modalAria': 'Modal konfirmasi untuk menerbitkan ulang alam semesta dengan semua cerita',
+    'workshop.universe.republish.withStories.warning': 'Hal ini menerbitkan ulang alam semesta dan semua cerita yang terkait dengannya.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modal konfirmasi untuk menghapus bab',
-    'workshop.chapter.delete.confirm': 'Menghapus Bab',
     'workshop.chapter.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
     'workshop.chapter.delete.button': 'Menghapus Bab',
     'workshop.chapter.delete.deleting': 'Menghapus...',
