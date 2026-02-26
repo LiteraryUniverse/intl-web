@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Modal de confirmação para cancelar a publicação de um {type, select,
     universe {universo}
     story {história}
@@ -83,11 +78,6 @@ export default {
     other {trabalho}
   } da descoberta e pesquisa públicas.`,
     'workshop.work.republish.button': `Republique {type, select,
-    universe {Universo}
-    story {História}
-    other {Trabalho}
-  }`,
-    'workshop.work.republish.confirm': `Republique {type, select,
     universe {Universo}
     story {História}
     other {Trabalho}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Zona de perigo',
     'workshop.universe.dangerZone.desc': 'O senhor pode excluir esse universo somente quando ele não tiver histórias publicadas e tiver sido publicado há menos de um mês. Se o senhor precisar excluí-lo após esse período de limitação, entre em contato conosco.',
     'workshop.universe.delete.modalAria': 'Modal de confirmação para excluir um universo',
-    'workshop.universe.delete.confirm': 'Excluir Universo',
     'workshop.universe.delete.warning': 'O senhor tem certeza de que deseja excluir "{title}"? Essa ação não pode ser desfeita.',
     'workshop.universe.delete.button': 'Excluir Universo',
-    'workshop.universe.delete.notAllowed': 'Esse universo não pode mais ser excluído por meio do autoatendimento. Se o senhor precisar que ele seja removido após o período de limitação, entre em contato conosco.',
-    'workshop.universe.unpublish.modalAria': 'Modal de confirmação para cancelar a publicação de um universo',
-    'workshop.universe.unpublish.confirm': 'Universo sem publicação',
-    'workshop.universe.unpublish.warning': 'O cancelamento da publicação removerá esse universo da descoberta e pesquisa públicas.',
-    'workshop.universe.unpublish.button': 'Universo sem publicação',
     'workshop.universe.description': 'Descrição do universo',
     'workshop.settings.title': 'Título',
     'workshop.description': 'Descrição',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Devido à violação de boa conduta, desativamos sua capacidade de publicar.',
     'workshop.story.buyingSettings': 'Configurações de venda',
     'workshop.story.delete.modalAria': 'Modal de confirmação para excluir uma história',
-    'workshop.story.delete.confirm': 'Excluir história',
     'workshop.story.delete.warning': 'O senhor tem certeza de que deseja excluir "{title}"? Essa ação não pode ser desfeita.',
     'workshop.story.delete.button': 'Excluir história',
-    'workshop.story.republish.button': 'Republicar a história',
-    'workshop.story.republish.confirm': 'Republicar a história',
-    'workshop.story.republish.modalAria': 'Modal de confirmação para republicação de uma história',
-    'workshop.story.republish.warning': 'A republicação fará com que essa história possa ser descoberta novamente e permitirá que novos usuários a adicionem à sua biblioteca.',
     'workshop.story.unpublished.universeExplain': 'Esta história não foi publicada porque seu universo não foi publicado.',
     'workshop.story.republishWithUniverse.button': 'Republique a história e o universo',
+    'workshop.universe.republish.only.button': 'Republique apenas o universo',
+    'workshop.universe.republish.only.modalAria': 'Modal de confirmação para republicar apenas um universo',
+    'workshop.universe.republish.only.warning': 'Isso republica apenas o universo. As histórias desse universo permanecem inéditas até serem republicadas individualmente.',
+    'workshop.universe.republish.withStories.button': 'Republicar o universo e todas as histórias',
+    'workshop.universe.republish.withStories.modalAria': 'Modal de confirmação para republicação de um universo com todas as histórias',
+    'workshop.universe.republish.withStories.warning': 'Isso republica o universo e todas as histórias vinculadas a ele.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modal de confirmação para excluir um capítulo',
-    'workshop.chapter.delete.confirm': 'Excluir capítulo',
     'workshop.chapter.delete.warning': 'O senhor tem certeza de que deseja excluir "{title}"? Essa ação não pode ser desfeita.',
     'workshop.chapter.delete.button': 'Excluir capítulo',
     'workshop.chapter.delete.deleting': 'Apagando...',
