@@ -27,10 +27,10 @@ export default {
     'workshop.universe.settings': '{universe} 宇宙設定',
     'workshop.universe.publishedOn': '這個宇宙已經在 {date, date, long} {date, time, short}上發布',
     'workshop.work.deletion.contactUs': '如果您需要幫助，請<contact>與我們聯繫</contact>。',
-    'workshop.work.delete.restrictions': `You can delete this {type, select,
-    universe {universe only if it has no published stories and}
-    story {story only if it}
-    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.restrictions': `只有當 {type, select,
+    universe {宇宙沒有已發表的故事，而且}
+    story {故事只有在}
+    other {作品只有在}} 發表不到一個月時，您才可以刪除此 ~ ~ 宇宙。之後需要幫助嗎？<contact>請聯絡我們</contact>。`,
     'workshop.work.delete.notAllowed': `此 {type, select,
     universe {宇宙}
     story {故事}
@@ -41,27 +41,27 @@ export default {
     story {故事}
     other {工作}
   } 無法再透過自助服務刪除。如果您需要刪除，請聯絡我們 deletions@literaryuniverse.com，我們將與您合作，安全地將其刪除。`,
-    'workshop.work.danger.delete.desc': `Permanently deletes this {type, select,
-    universe {universe and linked workshop data}
-    story {story with all chapters, statistics, and workshop associations}
-    other {work and related data}
+    'workshop.work.danger.delete.desc': `永久刪除此 {type, select,
+    universe {宇宙和連結的工作坊資料}
+    story {故事與所有章節、統計和工作坊關聯}
+    other {工作和相關資料}
   }.`,
-    'workshop.work.unpublish.impact': `Unpublishing this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
-    story { or buy it unless you gift it to them}
+    'workshop.work.unpublish.impact': `取消出版此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 會將其從搜尋中移除。圖書館中已有此書的使用者仍可存取。新使用者無法再將它加入圖書館{type, select,
+    story { 或購買它，除非您贈送給他們}
     other {}
-  }.`,
-    'workshop.work.unpublished.notice': `This {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
-    story { or buy it}
+  }。`,
+    'workshop.work.unpublished.notice': `此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 目前尚未出版。現有圖書館持有者仍可存取。新使用者無法將其加入圖書館{type, select,
+    story { 或購買}
     other {}
-  }.`,
+  }。`,
     'workshop.work.unpublish.button': `Unpublish {type, select,
     universe {Universe}
     story {Story}
@@ -72,16 +72,16 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
+    'workshop.work.unpublish.modalAria': `確認模式為取消出版 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
   }`,
-    'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } from public discovery and search.`,
+    'workshop.work.unpublish.warning': `解除出版會將此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 從公開發現和搜尋中移除。`,
     'workshop.work.republish.button': `Republish {type, select,
     universe {Universe}
     story {Story}
@@ -92,19 +92,19 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.republish.modalAria': `Confirmation modal for republishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  }`,
-    'workshop.work.republish.warning': `Republishing will make this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } discoverable again and allow new users to add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.republish.modalAria': `轉載 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 的確認模式。`,
+    'workshop.work.republish.warning': `重新出版將使這個 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 可再次被發現，並允許新使用者將它加入圖書館{type, select,
+    story { 或購買}
     other {}
-  }.`,
+  }。`,
     'workshop.universe.dangerZone': '危險區',
     'workshop.universe.dangerZone.desc': '只有當這個宇宙沒有已發表的故事，而且發表的時間少於一個月時，您才可以刪除它。如果您在此限制期限之後需要刪除，請聯絡我們。',
     'workshop.universe.delete.modalAria': '刪除宇宙的確認模態',
@@ -437,16 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': '在故事設定中啟用防止發佈時，無法發佈。',
     'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。',
     'workshop.story.buyingSettings': '銷售設定',
-    'workshop.story.delete.modalAria': 'Confirmation modal for deleting a story',
-    'workshop.story.delete.confirm': 'Delete Story',
-    'workshop.story.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
-    'workshop.story.delete.button': 'Delete Story',
-    'workshop.story.republish.button': 'Republish Story',
-    'workshop.story.republish.confirm': 'Republish Story',
-    'workshop.story.republish.modalAria': 'Confirmation modal for republishing a story',
-    'workshop.story.republish.warning': 'Republishing will make this story discoverable again and allow new users to add it to their library.',
-    'workshop.story.unpublished.universeExplain': 'This story is unpublished because its universe is unpublished.',
-    'workshop.story.republishWithUniverse.button': 'Republish Story and Universe',
+    'workshop.story.delete.modalAria': '刪除故事的確認模態',
+    'workshop.story.delete.confirm': '刪除故事',
+    'workshop.story.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
+    'workshop.story.delete.button': '刪除故事',
+    'workshop.story.republish.button': '轉載故事',
+    'workshop.story.republish.confirm': '轉載故事',
+    'workshop.story.republish.modalAria': '重新發表故事的確認模組',
+    'workshop.story.republish.warning': '重新出版可讓這個故事再次被發現，並允許新使用者將其加入圖書館。',
+    'workshop.story.unpublished.universeExplain': '這個故事沒有出版，因為它的宇宙沒有出版。',
+    'workshop.story.republishWithUniverse.button': '重新出版故事和宇宙',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '刪除章節的確認模態',
     'workshop.chapter.delete.confirm': '刪除章節',
