@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'Das ist alles, was wir bisher für die Geschichte haben, aber das Abenteuer wird in Zukunft weitergehen, schauen Sie bald wieder vorbei!',
     'reader.storyPreview.heading': 'Vorschau komplett',
     'reader.storyPreview.description': 'Sie haben soeben die Vorschau beendet. Wir haben den Rest der Geschichte noch nicht hier, aber Sie können sie an den unten stehenden Stellen fortsetzen.',
+    'reader.unpublishedChapter.heading': 'Dieses Kapitel ist nicht mehr verfügbar',
     'chapter.translation.notYetDescription': 'Schauen Sie bald wieder vorbei!',
     'reader.externalShopping.heading': 'Holen Sie sich {storyName} an anderen Orten:',
     'chapter.next': 'Nächstes Kapitel',
