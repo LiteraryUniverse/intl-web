@@ -67,11 +67,6 @@ export default {
     story {סיפור}
     other {עבודה}
   }`,
-    'workshop.work.unpublish.confirm': `ביטול פרסום {type, select,
-    universe {יקום}
-    story {סיפור}
-    other {עבודה}
-  }`,
     'workshop.work.unpublish.modalAria': `מודל אישור לביטול פרסום {type, select,
     universe {universe}
     story {story}
@@ -83,11 +78,6 @@ export default {
     other {work}
   } מגילוי וחיפוש ציבוריים.`,
     'workshop.work.republish.button': `פרסום מחדש {type, select,
-    universe {יקום}
-    story {סיפור}
-    other {יצירה}
-  }`,
-    'workshop.work.republish.confirm': `פרסום מחדש {type, select,
     universe {יקום}
     story {סיפור}
     other {יצירה}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'אזור סכנה',
     'workshop.universe.dangerZone.desc': 'ניתן למחוק יקום זה רק אם אין בו סיפורים שפורסמו והוא פורסם לפני פחות מחודש. אם אתה צריך למחוק אותו לאחר תקופת ההגבלה הזו, אנא פנה אלינו.',
     'workshop.universe.delete.modalAria': 'מודל אישור למחיקת יקום',
-    'workshop.universe.delete.confirm': 'מחק יקום',
     'workshop.universe.delete.warning': 'האם אתה בטוח שברצונך למחוק את "{title}"? פעולה זו אינה ניתנת לביטול.',
     'workshop.universe.delete.button': 'מחק יקום',
-    'workshop.universe.delete.notAllowed': 'לא ניתן עוד למחוק יקום זה באמצעות שירות עצמי. אם אתה זקוק להסרתו לאחר תקופת ההגבלה, אנא פנה אלינו.',
-    'workshop.universe.unpublish.modalAria': 'מודל אישור לביטול פרסום יקום',
-    'workshop.universe.unpublish.confirm': 'ביטול פרסום יקום',
-    'workshop.universe.unpublish.warning': 'ביטול הפרסום יסירו את היקום הזה מהחיפוש והגילוי הציבוריים.',
-    'workshop.universe.unpublish.button': 'ביטול פרסום יקום',
     'workshop.universe.description': 'תיאור היחידה',
     'workshop.settings.title': 'כותרת',
     'workshop.description': 'תיאור',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
     'workshop.story.delete.modalAria': 'מודל אישור למחיקת סיפור',
-    'workshop.story.delete.confirm': 'מחק סיפור',
     'workshop.story.delete.warning': 'האם אתה בטוח שברצונך למחוק את "{title}"? פעולה זו אינה ניתנת לביטול.',
     'workshop.story.delete.button': 'מחק סיפור',
-    'workshop.story.republish.button': 'פרסם מחדש את הסיפור',
-    'workshop.story.republish.confirm': 'פרסם מחדש את הסיפור',
-    'workshop.story.republish.modalAria': 'מודל אישור לפרסום מחדש של סיפור',
-    'workshop.story.republish.warning': 'פרסום מחדש יאפשר לגלות את הסיפור הזה מחדש ויאפשר למשתמשים חדשים להוסיף אותו לספרייתם.',
     'workshop.story.unpublished.universeExplain': 'סיפור זה לא פורסם משום שהיקום שלו לא פורסם.',
     'workshop.story.republishWithUniverse.button': 'פרסם מחדש את הסיפור והיקום',
+    'workshop.universe.republish.only.button': 'פרסום מחדש ביקום בלבד',
+    'workshop.universe.republish.only.modalAria': 'מודל אישור לפרסום מחדש של יקום בלבד',
+    'workshop.universe.republish.only.warning': 'זה מפרסם מחדש רק את היקום. סיפורים ביקום זה נשארים בלתי פורסמים עד שיפורסמו מחדש בנפרד.',
+    'workshop.universe.republish.withStories.button': 'פרסם מחדש את היקום ואת כל הסיפורים',
+    'workshop.universe.republish.withStories.modalAria': 'מודל אישור לפרסום מחדש של יקום עם כל הסיפורים',
+    'workshop.universe.republish.withStories.warning': 'זה מפרסם מחדש את היקום ואת כל הסיפורים הקשורים אליו.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'מודל אישור למחיקת פרק',
-    'workshop.chapter.delete.confirm': 'מחק פרק',
     'workshop.chapter.delete.warning': 'האם אתה בטוח שברצונך למחוק את "{title}"? פעולה זו אינה ניתנת לביטול.',
     'workshop.chapter.delete.button': 'מחק פרק',
     'workshop.chapter.delete.deleting': 'מחיקה...',
