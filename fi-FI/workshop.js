@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universum}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Vahvistusmodaali julkaisun purkamiseen {type, select,
     universe {universumi}
     story {tarina}
@@ -83,11 +78,6 @@ export default {
     other {teoksen}
   } julkisesta löytämisestä ja hausta.`,
     'workshop.work.republish.button': `Julkaise uudelleen {type, select,
-    universe {Universumi}
-    story {Tarina}
-    other {Työ}
-  }`,
-    'workshop.work.republish.confirm': `Julkaise uudelleen {type, select,
     universe {Universumi}
     story {Tarina}
     other {Työ}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Vaaravyöhyke',
     'workshop.universe.dangerZone.desc': 'Voit poistaa tämän maailmankaikkeuden vain, jos siinä ei ole julkaistuja tarinoita ja se on julkaistu alle kuukausi sitten. Jos haluat poistaa sen tämän rajoitusajan jälkeen, ota meihin yhteyttä.',
     'workshop.universe.delete.modalAria': 'Vahvistusikkuna universumin poistamista varten',
-    'workshop.universe.delete.confirm': 'Poista maailmankaikkeus',
     'workshop.universe.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
     'workshop.universe.delete.button': 'Poista maailmankaikkeus',
-    'workshop.universe.delete.notAllowed': 'Tätä universumia ei voi enää poistaa itsepalvelun kautta. Jos haluat poistaa sen vanhentumisajan jälkeen, ota meihin yhteyttä.',
-    'workshop.universe.unpublish.modalAria': 'Vahvistusmodaali universumin julkaisemisen poistamiseksi',
-    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
-    'workshop.universe.unpublish.warning': 'Julkaisun poistaminen poistaa tämän maailmankaikkeuden julkisesta etsinnästä.',
-    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Universumin kuvaus',
     'workshop.settings.title': 'Otsikko',
     'workshop.description': 'Kuvaus',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Hyvien käytöstapojen rikkomisen vuoksi olemme estäneet sinua julkaisemasta.',
     'workshop.story.buyingSettings': 'Myyntiasetukset',
     'workshop.story.delete.modalAria': 'Vahvistusmodaali tarinan poistamista varten',
-    'workshop.story.delete.confirm': 'Poista tarina',
     'workshop.story.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
     'workshop.story.delete.button': 'Poista tarina',
-    'workshop.story.republish.button': 'Julkaise tarina uudelleen',
-    'workshop.story.republish.confirm': 'Julkaise tarina uudelleen',
-    'workshop.story.republish.modalAria': 'Jutun uudelleenjulkaisun vahvistusikkuna',
-    'workshop.story.republish.warning': 'Uudelleenjulkaiseminen tekee tarinasta jälleen löydettävän ja antaa uusille käyttäjille mahdollisuuden lisätä sen kirjastoonsa.',
     'workshop.story.unpublished.universeExplain': 'Tämä tarina on julkaisematon, koska sen universumi on julkaisematon.',
     'workshop.story.republishWithUniverse.button': 'Julkaise tarina ja universumi uudelleen',
+    'workshop.universe.republish.only.button': 'Julkaise vain Universum',
+    'workshop.universe.republish.only.modalAria': 'Vahvistusmodal vain universumin uudelleenjulkaisua varten',
+    'workshop.universe.republish.only.warning': 'Tämä julkaisee vain maailmankaikkeuden. Tämän maailmankaikkeuden tarinat pysyvät julkaisemattomina, kunnes ne julkaistaan erikseen.',
+    'workshop.universe.republish.withStories.button': 'Julkaise Universum ja kaikki tarinat uudelleen',
+    'workshop.universe.republish.withStories.modalAria': 'Vahvistusmodaliteetti universumin ja kaikkien tarinoiden uudelleenjulkaisua varten',
+    'workshop.universe.republish.withStories.warning': 'Tämä julkaisee universumin ja kaikki siihen liittyvät tarinat uudelleen.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Luvun poistamisen vahvistusikkuna',
-    'workshop.chapter.delete.confirm': 'Poista luku',
     'workshop.chapter.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
     'workshop.chapter.delete.button': 'Poista luku',
     'workshop.chapter.delete.deleting': 'Poistaminen...',
