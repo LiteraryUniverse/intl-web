@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Подтверждение модальности для отмены публикации {type, select,
     universe {вселенная}
     story {история}
@@ -83,11 +78,6 @@ export default {
     other {работу}
   } из публичного обнаружения и поиска.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universe}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Опасная зона',
     'workshop.universe.dangerZone.desc': 'Вы можете удалить эту вселенную, только если в ней нет опубликованных историй и она была опубликована менее одного месяца назад. Если Вам нужно удалить ее после истечения этого срока, пожалуйста, свяжитесь с нами.',
     'workshop.universe.delete.modalAria': 'Модальное подтверждение для удаления вселенной',
-    'workshop.universe.delete.confirm': 'Удалить вселенную',
     'workshop.universe.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
     'workshop.universe.delete.button': 'Удалить вселенную',
-    'workshop.universe.delete.notAllowed': 'Эту вселенную больше нельзя удалить с помощью самообслуживания. Если Вам нужно удалить ее после истечения срока давности, пожалуйста, свяжитесь с нами.',
-    'workshop.universe.unpublish.modalAria': 'Модальное подтверждение для распубликации вселенной',
-    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
-    'workshop.universe.unpublish.warning': 'Распубликация удалит эту вселенную из публичного обнаружения и поиска.',
-    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'Описание вселенной',
     'workshop.settings.title': 'Название',
     'workshop.description': 'Описание',
@@ -457,18 +441,18 @@ export default {
     'workshop.publishing.restricted': 'В связи с нарушением правил поведения мы лишили вас возможности публиковать.',
     'workshop.story.buyingSettings': 'Настройки продажи',
     'workshop.story.delete.modalAria': 'Модальное подтверждение для удаления истории',
-    'workshop.story.delete.confirm': 'Удалить историю',
     'workshop.story.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
     'workshop.story.delete.button': 'Удалить историю',
-    'workshop.story.republish.button': 'Перепубликация истории',
-    'workshop.story.republish.confirm': 'Перепубликация истории',
-    'workshop.story.republish.modalAria': 'Подтверждающая модаль для перепубликации истории',
-    'workshop.story.republish.warning': 'Переиздание сделает эту историю снова доступной для обнаружения и позволит новым пользователям добавить ее в свою библиотеку.',
     'workshop.story.unpublished.universeExplain': 'Эта история не опубликована, потому что не опубликована ее вселенная.',
     'workshop.story.republishWithUniverse.button': 'Переиздание истории и вселенной',
+    'workshop.universe.republish.only.button': 'Переиздание Только Вселенная',
+    'workshop.universe.republish.only.modalAria': 'Модальное подтверждение только для перепубликации вселенной',
+    'workshop.universe.republish.only.warning': 'При этом переиздается только вселенная. Истории в этой вселенной остаются неопубликованными до тех пор, пока не будут переизданы по отдельности.',
+    'workshop.universe.republish.withStories.button': 'Переиздание Вселенной и всех историй',
+    'workshop.universe.republish.withStories.modalAria': 'Модаль подтверждения для перепубликации вселенной со всеми историями',
+    'workshop.universe.republish.withStories.warning': 'Это переиздание вселенной и всех историй, связанных с ней.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Модальное окно подтверждения для удаления главы',
-    'workshop.chapter.delete.confirm': 'Удалить главу',
     'workshop.chapter.delete.warning': 'Вы уверены, что хотите удалить "{title}"? Это действие нельзя отменить.',
     'workshop.chapter.delete.button': 'Удалить главу',
     'workshop.chapter.delete.deleting': 'Удаление...',
