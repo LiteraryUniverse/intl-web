@@ -30,7 +30,7 @@ export default {
     'workshop.work.delete.restrictions': `Ezt a {type, select,
     universe {univerzumot csak akkor törölheted, ha nincsenek publikált történetei, és}
     story {történetet csak akkor, ha}
-    other {munkát csak akkor, ha}} kevesebb mint egy hónapja publikálták. Ha e korlátozási időszak után kell törölnie, <contact>lépjen kapcsolatba velünk</contact>.`,
+    other {munkát csak akkor, ha}} kevesebb mint egy hónapja publikálták. Ezután segítségre van szüksége? <contact>Vegye fel velünk a kapcsolatot</contact>.`,
     'workshop.work.delete.notAllowed': `Ez a {type, select,
     universe {univerzum}
     story {történet}
@@ -41,6 +41,70 @@ export default {
     story {történet}
     other {munka}
   } már nem törölhető önkiszolgálással. Ha szüksége van az eltávolítására, lépjen kapcsolatba velünk a deletions@literaryuniverse.com címen, és együtt dolgozunk a biztonságos eltávolításán.`,
+    'workshop.work.danger.delete.desc': `Véglegesen törli ezt a {type, select,
+    universe {univerzumot és a kapcsolódó műhelyadatokat}
+    story {történetet az összes fejezettel, statisztikával és műhelytársítással}
+    other {munkát és kapcsolódó adatokat}
+  }.`,
+    'workshop.work.unpublish.impact': `Ennek a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } közzétételének megszüntetése eltávolítja a felfedezés és a keresés alól. Azok, akiknek már megvan a könyvtárában, továbbra is hozzáférnek. Az új felhasználók már nem tudják hozzáadni a könyvtárukhoz{type, select,
+    story { vagy megvásárolni, hacsak nem ajándékozza nekik}
+    other {~}
+  }.`,
+    'workshop.work.unpublished.notice': `Ez a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {mű}
+  } jelenleg nem publikált. A meglévő könyvtártulajdonosok továbbra is hozzáférhetnek. Új felhasználók nem tudják hozzáadni a könyvtárukhoz{type, select,
+    story { vagy megvásárolni}
+    other {~}
+  }.`,
+    'workshop.work.unpublish.button': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.unpublish.confirm': `Unpublish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.unpublish.modalAria': `Megerősítés modal for unpublishing a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  }`,
+    'workshop.work.unpublish.warning': `A közzététel feloldása eltávolítja ezt a {type, select,
+    universe {univerzumot}
+    story {történetet}
+    other {munkát}
+  } a nyilvános felfedezésből és keresésből.`,
+    'workshop.work.republish.button': `Republish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.republish.confirm': `Republish {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  }`,
+    'workshop.work.republish.modalAria': `Megerősítési modal a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } újraközléséhez.`,
+    'workshop.work.republish.warning': `Az újrakiadás újra felfedezhetővé teszi ezt a {type, select,
+    universe {univerzumot}
+    story {történetet}
+    other {művet}
+  } és lehetővé teszi az új felhasználók számára, hogy hozzáadják a könyvtárukhoz{type, select,
+    story { vagy megvásárolják}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': 'Veszélyes zóna',
     'workshop.universe.dangerZone.desc': 'Ezt az univerzumot csak akkor törölheti, ha nincsenek publikált történetei, és kevesebb mint egy hónapja jelent meg. Ha ezen elévülési idő után kell törölnie, kérjük, lépjen kapcsolatba velünk.',
     'workshop.universe.delete.modalAria': 'Megerősítő modal egy univerzum törléséhez',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Nem lehet közzétenni, ha a történet beállításaiban engedélyezve van a közzététel megakadályozása.',
     'workshop.publishing.restricted': 'A jó magaviselet megsértése miatt letiltottuk a publikálási lehetőségét.',
     'workshop.story.buyingSettings': 'Értékesítési beállítások',
+    'workshop.story.delete.modalAria': 'Megerősítő modal egy történet törléséhez',
+    'workshop.story.delete.confirm': 'Történet törlése',
+    'workshop.story.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
+    'workshop.story.delete.button': 'Történet törlése',
+    'workshop.story.republish.button': 'Történet újraközlése',
+    'workshop.story.republish.confirm': 'Történet újraközlése',
+    'workshop.story.republish.modalAria': 'Megerősítő modal egy történet újraközléséhez',
+    'workshop.story.republish.warning': 'Az újraközléssel ez a történet újra felfedezhetővé válik, és új felhasználók számára lehetővé válik, hogy felvegyék a könyvtárukba.',
+    'workshop.story.unpublished.universeExplain': 'Ez a történet azért nem publikált, mert az univerzuma nem publikált.',
+    'workshop.story.republishWithUniverse.button': 'Történet és univerzum újraközlése',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Megerősítő modal egy fejezet törléséhez',
     'workshop.chapter.delete.confirm': 'Fejezet törlése',
