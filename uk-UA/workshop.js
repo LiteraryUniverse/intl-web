@@ -46,52 +46,52 @@ export default {
     story {історію з усіма розділами, статистикою і асоціаціями майстерень}
     other {роботи і пов'язані з ними дані}
   }.`,
-    'workshop.work.unpublish.impact': `Непублікація цього {type, select,
+    'workshop.work.makePrivate.impact': `Створення цього {type, select,
     universe {всесвіту}
-    story {оповідання}
+    story {історії}
     other {твору}
-  } вилучає його з відкриття та пошуку. Користувачі, які вже мають його у своїй бібліотеці, зберігають до нього доступ. Нові користувачі більше не зможуть додати його до своєї бібліотеки{type, select,
-    story { або купити, якщо ви не подаруєте його їм}
+  } вилучає його з відкриття та пошуку. Користувачі, які вже мають його у своїй бібліотеці, зберігають доступ до нього. Нові користувачі більше не можуть додати його до своєї бібліотеки{type, select,
+    story { або купити, якщо ви не подаруєте його}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Цей {type, select,
-    universe {всесвіт}
-    story {оповідання}
-    other {твору}
-  } наразі не опублікований. Існуючі власники бібліотеки все ще мають доступ до нього. Нові користувачі не можуть додати його до своєї бібліотеки{type, select,
-    story { або придбати}
-    other {}
-  }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Всесвіт}
-    story {Оповідання}
-    other {Твір}
-  }`,
-    'workshop.work.unpublish.modalAria': `Підтвердження модальності непублікації {type, select,
-    universe {всесвіту}
-    story {оповідання}
-    other {твору}
-  }`,
-    'workshop.work.unpublish.warning': `Неопублікування вилучить цей {type, select,
-    universe {всесвіт}
-    story {оповідання}
-    other {твір}
-  } з публічного доступу та пошуку.`,
-    'workshop.work.republish.button': `Перевидання {type, select,
-    universe {Всесвіт}
-    story {Оповідання}
-    other {Твір}
-  }`,
-    'workshop.work.republish.modalAria': `Форма підтвердження для повторної публікації {type, select,
-    universe {всесвіту}
-    story {оповідання}
-    other {твору}
-  }`,
-    'workshop.work.republish.warning': `Перевидання зробить цей {type, select,
+    'workshop.work.private.notice': `Цей {type, select,
     universe {всесвіт}
     story {історії}
     other {твору}
-  } знову відкритим і дозволить новим користувачам додати його до своєї бібліотеки{type, select,
+  } наразі є приватним. Існуючі власники бібліотеки все ще мають доступ до нього. Нові користувачі не можуть додати його до своєї бібліотеки{type, select,
+    story { або придбати}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Всесвіт}
+    story {Історія}
+    other {Робота}
+  } Приват`,
+    'workshop.work.makePrivate.modalAria': `Підтвердження для створення {type, select,
+    universe {всесвіту}
+    story {історії}
+    other {твору}
+  } приватного`,
+    'workshop.work.makePrivate.warning': `Зробивши цей {type, select,
+    universe {всесвіт}
+    story {історією}
+    other {твором}
+  } приватним, ви вилучите його з публічного відкриття та пошуку.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Всесвіт}
+    story {Історія}
+    other {Робота}
+  }`,
+    'workshop.work.makePublic.modalAria': `Підтвердження модальності для створення {type, select,
+    universe {всесвіту}
+    story {історії}
+    other {твору}
+  }`,
+    'workshop.work.makePublic.warning': `Оприлюднення цього {type, select,
+    universe {всесвіту}
+    story {історії}
+    other {твору}
+  } зробить його знову доступним і дозволить новим користувачам додати його до своєї бібліотеки{type, select,
     story { або придбати}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Модальне вікно підтвердження для видалення історії',
     'workshop.story.delete.warning': 'Ви дійсно хочете видалити "{title}"? Ця дія не може бути скасована.',
     'workshop.story.delete.button': 'Видалити історію',
-    'workshop.story.unpublished.universeExplain': 'Ця історія не опублікована, тому що її всесвіт не опублікований.',
-    'workshop.story.republishWithUniverse.button': 'Перевидати Історію та Всесвіт',
-    'workshop.universe.republish.only.button': 'Перепублікувати Тільки Всесвіт',
-    'workshop.universe.republish.only.modalAria': 'Режим підтвердження тільки для повторної публікації всесвіту',
-    'workshop.universe.republish.only.warning': 'Тут перевидається лише всесвіт. Історії в цьому всесвіті залишаються неопублікованими, поки не будуть перевидані окремо.',
-    'workshop.universe.republish.withStories.button': 'Перевидати "Всесвіт" та "Всі історії',
-    'workshop.universe.republish.withStories.modalAria': 'Спосіб підтвердження для повторної публікації всесвіту з усіма історіями',
-    'workshop.universe.republish.withStories.warning': 'Це перевидання всесвіту і всіх історій, пов\'язаних з ним.',
+    'workshop.story.private.universeExplain': 'Ця історія приватна, тому що її всесвіт приватний.',
+    'workshop.story.makePublicWithUniverse.button': 'Зробіть історію та всесвіт публічними',
+    'workshop.universe.makePublic.only.button': 'Зробити всесвіт публічним',
+    'workshop.universe.makePublic.only.modalAria': 'Спосіб підтвердження тільки для оприлюднення універсуму',
+    'workshop.universe.makePublic.only.warning': 'Це робить публічним лише всесвіт. Історії в цьому всесвіті залишаються приватними, доки не будуть оприлюднені індивідуально.',
+    'workshop.universe.makePublic.withStories.button': 'Зробіть Всесвіт та всі історії публічними',
+    'workshop.universe.makePublic.withStories.modalAria': 'Спосіб підтвердження для оприлюднення всесвіту та всіх історій',
+    'workshop.universe.makePublic.withStories.warning': 'Це робить всесвіт і всі пов\'язані з ним історії публічними.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Модальне вікно підтвердження видалення розділу',
     'workshop.chapter.delete.warning': 'Ви дійсно хочете видалити "{title}"? Ця дія не може бути скасована.',
