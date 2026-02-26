@@ -67,11 +67,6 @@ export default {
     story {Hikaye}
     other {İş}
   }`,
-    'workshop.work.unpublish.confirm': `Yayından Kaldır {type, select,
-    universe {Evren}
-    story {Hikaye}
-    other {İş}
-  }`,
     'workshop.work.unpublish.modalAria': `Yayından kaldırmak için onay modu {type, select,
     universe {evren}
     story {hikaye}
@@ -83,11 +78,6 @@ export default {
     other {çalışma}
   } genel keşif ve aramadan kaldıracaktır.`,
     'workshop.work.republish.button': `Yeniden yayınla {type, select,
-    universe {Evren}
-    story {Hikaye}
-    other {İş}
-  }`,
-    'workshop.work.republish.confirm': `Yeniden yayınla {type, select,
     universe {Evren}
     story {Hikaye}
     other {İş}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Tehlikeli bölge',
     'workshop.universe.dangerZone.desc': 'Bu evreni yalnızca yayınlanmış hikayesi olmadığında ve bir aydan daha kısa bir süre önce yayınlandığında silebilirsiniz. Bu sınırlama süresinden sonra silmeniz gerekiyorsa, lütfen bizimle iletişime geçin.',
     'workshop.universe.delete.modalAria': 'Bir evreni silmek için onay modalı',
-    'workshop.universe.delete.confirm': 'Evreni Sil',
     'workshop.universe.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
     'workshop.universe.delete.button': 'Evreni Sil',
-    'workshop.universe.delete.notAllowed': 'Bu evren artık self-servis yoluyla silinemez. Sınırlama süresinden sonra kaldırılmasını istiyorsanız, lütfen bizimle iletişime geçin.',
-    'workshop.universe.unpublish.modalAria': 'Bir evrenin yayından kaldırılması için onay modu',
-    'workshop.universe.unpublish.confirm': 'Evreni Yayından Kaldır',
-    'workshop.universe.unpublish.warning': 'Yayından kaldırmak, bu evreni genel keşif ve aramadan kaldıracaktır.',
-    'workshop.universe.unpublish.button': 'Evreni Yayından Kaldır',
     'workshop.universe.description': 'Evren açıklaması',
     'workshop.settings.title': 'Başlık',
     'workshop.description': 'Açıklama',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'İyi hal ihlali nedeniyle yayınlama yeteneğinizi devre dışı bıraktık.',
     'workshop.story.buyingSettings': 'Satış ayarları',
     'workshop.story.delete.modalAria': 'Bir hikayeyi silmek için onay modalı',
-    'workshop.story.delete.confirm': 'Hikayeyi Sil',
     'workshop.story.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
     'workshop.story.delete.button': 'Hikayeyi Sil',
-    'workshop.story.republish.button': 'Hikayeyi Yeniden Yayınla',
-    'workshop.story.republish.confirm': 'Hikayeyi Yeniden Yayınla',
-    'workshop.story.republish.modalAria': 'Bir hikayeyi yeniden yayınlamak için onay modu',
-    'workshop.story.republish.warning': 'Yeniden yayınlamak bu hikayeyi tekrar keşfedilebilir hale getirecek ve yeni kullanıcıların kütüphanelerine eklemelerine olanak sağlayacaktır.',
     'workshop.story.unpublished.universeExplain': 'Bu öykü yayımlanmadı çünkü evreni yayımlanmadı.',
     'workshop.story.republishWithUniverse.button': 'Hikayeyi ve Evreni Yeniden Yayınlayın',
+    'workshop.universe.republish.only.button': 'Yalnızca Evreni Yeniden Yayınla',
+    'workshop.universe.republish.only.modalAria': 'Yalnızca bir evreni yeniden yayınlamak için onay modu',
+    'workshop.universe.republish.only.warning': 'Bu sadece evreni yeniden yayınlar. Bu evrendeki öyküler tek tek yeniden yayınlanana kadar yayınlanmamış olarak kalır.',
+    'workshop.universe.republish.withStories.button': 'Evreni ve Tüm Hikayeleri Yeniden Yayınla',
+    'workshop.universe.republish.withStories.modalAria': 'Bir evreni tüm öykülerle birlikte yeniden yayınlamak için onay modu',
+    'workshop.universe.republish.withStories.warning': 'Bu, evreni ve onunla bağlantılı tüm hikayeleri yeniden yayınlar.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bir bölümü silmek için onay modalı',
-    'workshop.chapter.delete.confirm': 'Bölüm Silme',
     'workshop.chapter.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
     'workshop.chapter.delete.button': 'Bölüm Silme',
     'workshop.chapter.delete.deleting': 'Siliniyor...',
