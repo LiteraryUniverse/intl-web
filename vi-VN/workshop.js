@@ -67,11 +67,6 @@ export default {
     story {Câu chuyện}
     other {Công việc}
   }`,
-    'workshop.work.unpublish.confirm': `Hủy đăng {type, select,
-    universe {Vũ trụ}
-    story {Câu chuyện}
-    other {Công việc}
-  }`,
     'workshop.work.unpublish.modalAria': `Cửa sổ xác nhận để hủy đăng tải một {type, select,
     universe {vũ trụ}
     story {câu chuyện}
@@ -83,11 +78,6 @@ export default {
     other {work}
   }.`,
     'workshop.work.republish.button': `Tái bản {type, select,
-    universe {Vũ trụ}
-    story {Câu chuyện}
-    other {Công việc}
-  }`,
-    'workshop.work.republish.confirm': `Tái bản {type, select,
     universe {Vũ trụ}
     story {Câu chuyện}
     other {Công việc}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Khu vực nguy hiểm',
     'workshop.universe.dangerZone.desc': 'Bạn chỉ có thể xóa vũ trụ này khi nó không có bất kỳ câu chuyện nào đã được đăng và được đăng cách đây ít hơn một tháng. Nếu bạn cần xóa nó sau thời hạn này, vui lòng liên hệ với chúng tôi.',
     'workshop.universe.delete.modalAria': 'Hộp thoại xác nhận khi xóa một vũ trụ',
-    'workshop.universe.delete.confirm': 'Xóa Vũ trụ',
     'workshop.universe.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
     'workshop.universe.delete.button': 'Xóa Vũ trụ',
-    'workshop.universe.delete.notAllowed': 'Vũ trụ này không thể xóa bỏ thông qua dịch vụ tự phục vụ. Nếu bạn cần xóa bỏ nó sau thời hạn quy định, vui lòng liên hệ với chúng tôi.',
-    'workshop.universe.unpublish.modalAria': 'Cửa sổ xác nhận để hủy xuất bản một vũ trụ',
-    'workshop.universe.unpublish.confirm': 'Hủy đăng tải Universe',
-    'workshop.universe.unpublish.warning': 'Việc gỡ bỏ công khai sẽ loại bỏ vũ trụ này khỏi khả năng tìm kiếm và khám phá công khai.',
-    'workshop.universe.unpublish.button': 'Hủy đăng tải Universe',
     'workshop.universe.description': 'Mô tả vũ trụ',
     'workshop.settings.title': 'Tiêu đề',
     'workshop.description': 'Mô tả',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
     'workshop.story.delete.modalAria': 'Hộp thoại xác nhận khi xóa một bài viết',
-    'workshop.story.delete.confirm': 'Xóa câu chuyện',
     'workshop.story.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
     'workshop.story.delete.button': 'Xóa câu chuyện',
-    'workshop.story.republish.button': 'Đăng lại câu chuyện',
-    'workshop.story.republish.confirm': 'Đăng lại câu chuyện',
-    'workshop.story.republish.modalAria': 'Cửa sổ xác nhận để đăng lại một bài viết',
-    'workshop.story.republish.warning': 'Việc đăng lại sẽ giúp câu chuyện này được tìm thấy lại và cho phép người dùng mới thêm nó vào thư viện của họ.',
     'workshop.story.unpublished.universeExplain': 'Câu chuyện này chưa được xuất bản vì thế giới của nó chưa được xuất bản.',
     'workshop.story.republishWithUniverse.button': 'Tái xuất bản Câu chuyện và Vũ trụ',
+    'workshop.universe.republish.only.button': 'Chỉ tái bản trong Universe',
+    'workshop.universe.republish.only.modalAria': 'Cửa sổ xác nhận cho việc tái xuất bản một vũ trụ duy nhất',
+    'workshop.universe.republish.only.warning': 'Điều này chỉ tái xuất bản toàn bộ vũ trụ. Các câu chuyện trong vũ trụ này sẽ không được xuất bản cho đến khi được tái xuất bản riêng lẻ.',
+    'workshop.universe.republish.withStories.button': 'Phát hành lại Vũ trụ và Tất cả Câu chuyện',
+    'workshop.universe.republish.withStories.modalAria': 'Cửa sổ xác nhận để tái xuất bản một vũ trụ với tất cả các câu chuyện',
+    'workshop.universe.republish.withStories.warning': 'Điều này tái xuất bản vũ trụ và tất cả các câu chuyện liên quan đến nó.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Cửa sổ xác nhận cho việc xóa một chương',
-    'workshop.chapter.delete.confirm': 'Xóa Chương',
     'workshop.chapter.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
     'workshop.chapter.delete.button': 'Xóa Chương',
     'workshop.chapter.delete.deleting': 'Đang xóa...',
