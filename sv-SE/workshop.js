@@ -27,10 +27,10 @@ export default {
     'workshop.universe.settings': '{universe} inställningar för universum',
     'workshop.universe.publishedOn': 'Det här universumet har publicerats på {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': '<contact>Kontakta oss</contact> om du behöver hjälp.',
-    'workshop.work.delete.restrictions': `You can delete this {type, select,
-    universe {universe only if it has no published stories and}
-    story {story only if it}
-    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.restrictions': `Du kan radera detta {type, select,
+    universe {universum endast om det inte har några publicerade berättelser och}
+    story {berättelse endast om det}
+    other {verk endast om det}} publicerades för mindre än en månad sedan. Behöver du hjälp efter det? <contact>Kontakta oss</contact> gärna.`,
     'workshop.work.delete.notAllowed': `Detta {type, select,
     universe {universum}
     story {berättelse}
@@ -41,68 +41,68 @@ export default {
     story {berättelse}
     other {arbete}
   } kan inte längre raderas via självbetjäning. Om du behöver ta bort det, kontakta oss på deletions@literaryuniverse.com så arbetar vi tillsammans med dig för att ta bort det på ett säkert sätt.`,
-    'workshop.work.danger.delete.desc': `Permanently deletes this {type, select,
-    universe {universe and linked workshop data}
-    story {story with all chapters, statistics, and workshop associations}
-    other {work and related data}
+    'workshop.work.danger.delete.desc': `Raderar permanent detta {type, select,
+    universe {universum och länkade verkstadsdata}
+    story {berättelse med alla kapitel, statistik och verkstadsassociationer}
+    other {arbete och relaterade data}
   }.`,
-    'workshop.work.unpublish.impact': `Unpublishing this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
-    story { or buy it unless you gift it to them}
+    'workshop.work.unpublish.impact': `Om du avpublicerar detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } tas det bort från upptäckt och sökning. Personer som redan har den i sitt bibliotek behåller åtkomsten. Nya användare kan inte lägga till det i sitt bibliotek längre{type, select,
+    story { eller köpa det om du inte ger det till dem}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `This {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } is currently unpublished. Existing library holders still have access. New users cannot add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.unpublished.notice': `Detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {verk}
+  } är för närvarande opublicerat. Befintliga biblioteksinnehavare har fortfarande tillgång. Nya användare kan inte lägga till den i sitt bibliotek{type, select,
+    story { eller köpa den}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.button': `Avpublicera {type, select,
+    universe {Universum}
+    story {Berättelse}
+    other {Arbete}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.confirm': `Avpublicera {type, select,
+    universe {Universum}
+    story {Berättelse}
+    other {Arbete}
   }`,
-    'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
+    'workshop.work.unpublish.modalAria': `Bekräftelse modal för avpublicering av en {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
   }`,
-    'workshop.work.unpublish.warning': `Unpublishing will remove this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } from public discovery and search.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.unpublish.warning': `Avpublicering kommer att ta bort detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } från offentlig upptäckt och sökning.`,
+    'workshop.work.republish.button': `Återpublicera {type, select,
+    universe {Universum}
+    story {Berättelse}
+    other {Arbete}
   }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
+    'workshop.work.republish.confirm': `Återpublicera {type, select,
+    universe {Universum}
+    story {Berättelse}
+    other {Arbete}
   }`,
-    'workshop.work.republish.modalAria': `Confirmation modal for republishing a {type, select,
-    universe {universe}
-    story {story}
-    other {work}
+    'workshop.work.republish.modalAria': `Bekräftelse modal för återpublicering av en {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
   }`,
-    'workshop.work.republish.warning': `Republishing will make this {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } discoverable again and allow new users to add it to their library{type, select,
-    story { or buy it}
+    'workshop.work.republish.warning': `Återutgivning kommer att göra detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } upptäckbart igen och låta nya användare lägga till det i sitt bibliotek{type, select,
+    story { eller köpa det}
     other {}
   }.`,
     'workshop.universe.dangerZone': 'Farlig zon',
@@ -437,16 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'Det går inte att publicera när förhindra publicering är aktiverat i berättelsens inställningar.',
     'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
     'workshop.story.buyingSettings': 'Inställningar för försäljning',
-    'workshop.story.delete.modalAria': 'Confirmation modal for deleting a story',
-    'workshop.story.delete.confirm': 'Delete Story',
-    'workshop.story.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
-    'workshop.story.delete.button': 'Delete Story',
-    'workshop.story.republish.button': 'Republish Story',
-    'workshop.story.republish.confirm': 'Republish Story',
-    'workshop.story.republish.modalAria': 'Confirmation modal for republishing a story',
-    'workshop.story.republish.warning': 'Republishing will make this story discoverable again and allow new users to add it to their library.',
-    'workshop.story.unpublished.universeExplain': 'This story is unpublished because its universe is unpublished.',
-    'workshop.story.republishWithUniverse.button': 'Republish Story and Universe',
+    'workshop.story.delete.modalAria': 'Bekräftelsemodal för att radera en story',
+    'workshop.story.delete.confirm': 'Radera berättelse',
+    'workshop.story.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
+    'workshop.story.delete.button': 'Radera berättelse',
+    'workshop.story.republish.button': 'Återpublicera berättelsen',
+    'workshop.story.republish.confirm': 'Återpublicera berättelsen',
+    'workshop.story.republish.modalAria': 'Bekräftelsemodal för återpublicering av en berättelse',
+    'workshop.story.republish.warning': 'Genom att publicera den på nytt blir den här berättelsen tillgänglig igen och nya användare kan lägga till den i sitt bibliotek.',
+    'workshop.story.unpublished.universeExplain': 'Den här berättelsen är opublicerad eftersom dess universum är opublicerat.',
+    'workshop.story.republishWithUniverse.button': 'Återpublicera berättelse och universum',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bekräftelsemodal för borttagning av ett kapitel',
     'workshop.chapter.delete.confirm': 'Radera kapitel',
