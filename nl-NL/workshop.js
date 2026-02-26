@@ -46,53 +46,53 @@ export default {
     story {verhaal met alle hoofdstukken, statistieken en workshopassociaties}
     other {werk en gerelateerde gegevens}
   }.`,
-    'workshop.work.unpublish.impact': `Als u dit {type, select,
-    universe {universe}
-    story {story}
-    other {work}
-  } niet publiceert, wordt het verwijderd van zoeken en vinden. Mensen die het al in hun bibliotheek hebben, behouden toegang. Nieuwe gebruikers kunnen het niet meer aan hun bibliotheek toevoegen{type, select,
+    'workshop.work.makePrivate.impact': `Door dit {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } te maken, wordt het verwijderd van ontdekken en zoeken. Mensen die het al in hun bibliotheek hebben, houden toegang. Nieuwe gebruikers kunnen het niet meer aan hun bibliotheek toevoegen{type, select,
     story { of het kopen, tenzij u het aan hen schenkt}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Dit {type, select,
+    'workshop.work.private.notice': `Dit {type, select,
     universe {universum}
     story {verhaal}
     other {werk}
-  } is momenteel niet gepubliceerd. Bestaande bibliotheekhouders hebben nog toegang. Nieuwe gebruikers kunnen het niet toevoegen aan hun bibliotheek{type, select,
+  } is momenteel privé. Bestaande bibliotheekhouders hebben nog steeds toegang. Nieuwe gebruikers kunnen het niet toevoegen aan hun bibliotheek{type, select,
     story { of kopen}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.unpublish.modalAria': `Bevestigingsmodal voor het unpubliceren van een {type, select,
+    'workshop.work.makePrivate.button': `Maken {type, select,
+    universe {Universum}
+    story {Verhaal}
+    other {Werk}
+  } Privé`,
+    'workshop.work.makePrivate.modalAria': `Bevestigingsmodal voor het maken van een {type, select,
     universe {universum}
     story {verhaal}
     other {werk}
-  }`,
-    'workshop.work.unpublish.warning': `Niet-publiceren verwijdert dit {type, select,
+  } privé`,
+    'workshop.work.makePrivate.warning': `Door dit {type, select,
     universe {universum}
     story {verhaal}
     other {werk}
-  } van openbaar zoeken en vinden.`,
-    'workshop.work.republish.button': `Herpubliceren {type, select,
+  } privé te maken, wordt het verwijderd van openbare ontdekking en zoekopdrachten.`,
+    'workshop.work.makePublic.button': `Maken {type, select,
     universe {Universum}
     story {Verhaal}
     other {Werk}
   }`,
-    'workshop.work.republish.modalAria': `Bevestigingsmodal voor het opnieuw publiceren van een {type, select,
+    'workshop.work.makePublic.modalAria': `Bevestigingsmodal voor het maken van een {type, select,
     universe {universum}
     story {verhaal}
     other {werk}
   }`,
-    'workshop.work.republish.warning': `Door heruitgave wordt dit {type, select,
+    'workshop.work.makePublic.warning': `Door dit {type, select,
     universe {universum}
     story {verhaal}
     other {werk}
-  } weer vindbaar en kunnen nieuwe gebruikers het toevoegen aan hun bibliotheek{type, select,
-    story { of kopen}
+  } openbaar te maken, wordt het weer vindbaar en kunnen nieuwe gebruikers het toevoegen aan hun bibliotheek{type, select,
+    story { of het kopen}
     other {}
   }.`,
     'workshop.universe.dangerZone': 'Gevarenzone',
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een verhaal',
     'workshop.story.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
     'workshop.story.delete.button': 'Verhaal verwijderen',
-    'workshop.story.unpublished.universeExplain': 'Dit verhaal is ongepubliceerd omdat het universum ongepubliceerd is.',
-    'workshop.story.republishWithUniverse.button': 'Herpubliceer verhaal en universum',
-    'workshop.universe.republish.only.button': 'Alleen universum opnieuw publiceren',
-    'workshop.universe.republish.only.modalAria': 'Bevestigingsmodal alleen voor het opnieuw publiceren van een universum',
-    'workshop.universe.republish.only.warning': 'Hiermee wordt alleen het universum opnieuw gepubliceerd. Verhalen in dit universum blijven ongepubliceerd totdat ze afzonderlijk opnieuw worden gepubliceerd.',
-    'workshop.universe.republish.withStories.button': 'Universum en alle verhalen opnieuw publiceren',
-    'workshop.universe.republish.withStories.modalAria': 'Bevestigingsmodal voor het opnieuw publiceren van een universum met alle verhalen',
-    'workshop.universe.republish.withStories.warning': 'Dit herpubliceert het universum en alle verhalen die ermee verbonden zijn.',
+    'workshop.story.private.universeExplain': 'Dit verhaal is privé omdat het universum privé is.',
+    'workshop.story.makePublicWithUniverse.button': 'Maak verhaal en universum openbaar',
+    'workshop.universe.makePublic.only.button': 'Universum alleen openbaar maken',
+    'workshop.universe.makePublic.only.modalAria': 'Bevestigingsmodaal voor het alleen openbaar maken van een universum',
+    'workshop.universe.makePublic.only.warning': 'Dit maakt alleen het universum openbaar. Verhalen in dit universum blijven privé totdat ze individueel openbaar worden gemaakt.',
+    'workshop.universe.makePublic.withStories.button': 'Universum en alle verhalen openbaar maken',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bevestigingsmodal voor het openbaar maken van een universum en alle verhalen',
+    'workshop.universe.makePublic.withStories.warning': 'Dit maakt het universum en alle gekoppelde verhalen openbaar.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een hoofdstuk',
     'workshop.chapter.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
