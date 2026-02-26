@@ -225,7 +225,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'Univers å kopiere til',
     'encyclopedia.templateCopy.finished': 'Kopiering fullført',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
-    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain unpublished until you decide to publish it.',
+    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.',
     'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...',
     'encyclopedia.pronunciation.audio.play': 'Play pronunciation',
     'encyclopedia.pronunciation.guide': 'Use <ipaLink>IPA notation</ipaLink> when possible. Web Speech API pronunciation is best-effort; see <webSpeechLink>MDN docs</webSpeechLink>.'
