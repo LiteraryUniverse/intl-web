@@ -67,11 +67,6 @@ export default {
     story {เรื่องราว}
     other {งาน}
   }`,
-    'workshop.work.unpublish.confirm': `เผยแพร่ {type, select,
-    universe {จักรวาล}
-    story {เรื่องราว}
-    other {งาน}
-  }`,
     'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
     universe {universe}
     story {story}
@@ -83,11 +78,6 @@ export default {
     other {ผลงาน}
   } นี้ออกจากการค้นพบและการค้นหาสาธารณะ`,
     'workshop.work.republish.button': `เผยแพร่ซ้ำ {type, select,
-    universe {จักรวาล}
-    story {เรื่องราว}
-    other {ผลงาน}
-  }`,
-    'workshop.work.republish.confirm': `เผยแพร่ซ้ำ {type, select,
     universe {จักรวาล}
     story {เรื่องราว}
     other {ผลงาน}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'เขตอันตราย',
     'workshop.universe.dangerZone.desc': 'คุณสามารถลบจักรวาลนี้ได้เฉพาะเมื่อไม่มีเรื่องราวที่เผยแพร่แล้วและเผยแพร่เมื่อน้อยกว่าหนึ่งเดือนที่ผ่านมา หากคุณต้องการลบหลังจากช่วงเวลาจำกัดนี้ กรุณาติดต่อเรา',
     'workshop.universe.delete.modalAria': 'โมดัลยืนยันสำหรับการลบจักรวาล',
-    'workshop.universe.delete.confirm': 'ลบจักรวาล',
     'workshop.universe.delete.warning': 'คุณแน่ใจหรือไม่ว่าต้องการลบ "{title}" การดำเนินการนี้ไม่สามารถย้อนกลับได้',
     'workshop.universe.delete.button': 'ลบจักรวาล',
-    'workshop.universe.delete.notAllowed': 'จักรวาลนี้ไม่สามารถลบได้ผ่านการให้บริการตนเองอีกต่อไป หากคุณต้องการให้ลบหลังจากระยะเวลาจำกัด กรุณาติดต่อเรา',
-    'workshop.universe.unpublish.modalAria': 'โมดัลยืนยันการยกเลิกการเผยแพร่จักรวาล',
-    'workshop.universe.unpublish.confirm': 'ยกเลิกการเผยแพร่จักรวาล',
-    'workshop.universe.unpublish.warning': 'การยกเลิกการเผยแพร่จะนำจักรวาลนี้ออกจากการค้นพบและการค้นหาสาธารณะ',
-    'workshop.universe.unpublish.button': 'ยกเลิกการเผยแพร่จักรวาล',
     'workshop.universe.description': 'คำอธิบายของจักรวาล',
     'workshop.settings.title': 'ชื่อเรื่อง',
     'workshop.description': 'คำอธิบาย',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
     'workshop.story.delete.modalAria': 'หน้าต่างยืนยันสำหรับการลบเรื่องราว',
-    'workshop.story.delete.confirm': 'ลบเรื่องราว',
     'workshop.story.delete.warning': 'คุณแน่ใจหรือไม่ว่าต้องการลบ "{title}" การดำเนินการนี้ไม่สามารถย้อนกลับได้',
     'workshop.story.delete.button': 'ลบเรื่องราว',
-    'workshop.story.republish.button': 'เผยแพร่เรื่องราวอีกครั้ง',
-    'workshop.story.republish.confirm': 'เผยแพร่เรื่องราวอีกครั้ง',
-    'workshop.story.republish.modalAria': 'หน้าต่างยืนยันสำหรับการเผยแพร่เรื่องราวอีกครั้ง',
-    'workshop.story.republish.warning': 'การเผยแพร่ซ้ำจะทำให้เรื่องนี้สามารถค้นพบได้อีกครั้งและอนุญาตให้ผู้ใช้ใหม่เพิ่มเข้าไปในคลังของพวกเขา',
     'workshop.story.unpublished.universeExplain': 'เรื่องนี้ยังไม่ได้รับการตีพิมพ์ เนื่องจากจักรวาลของมันยังไม่ได้รับการตีพิมพ์',
     'workshop.story.republishWithUniverse.button': 'เผยแพร่ซ้ำเรื่องราวและจักรวาล',
+    'workshop.universe.republish.only.button': 'เผยแพร่ซ้ำเฉพาะจักรวาลเท่านั้น',
+    'workshop.universe.republish.only.modalAria': 'โมดัลยืนยันสำหรับการเผยแพร่จักรวาลใหม่เท่านั้น',
+    'workshop.universe.republish.only.warning': 'การเผยแพร่ซ้ำนี้เผยแพร่เฉพาะจักรวาลเท่านั้น เรื่องราวในจักรวาลนี้จะยังคงไม่เผยแพร่จนกว่าจะมีการเผยแพร่ซ้ำเป็นรายบุคคล',
+    'workshop.universe.republish.withStories.button': 'เผยแพร่จักรวาลและเรื่องราวทั้งหมดอีกครั้ง',
+    'workshop.universe.republish.withStories.modalAria': 'โมดัลยืนยันสำหรับการเผยแพร่จักรวาลซ้ำพร้อมเรื่องราวทั้งหมด',
+    'workshop.universe.republish.withStories.warning': 'นี่คือการเผยแพร่ซ้ำของจักรวาลและเรื่องราวทั้งหมดที่เชื่อมโยงกับมัน',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'หน้าต่างยืนยันการลบบท',
-    'workshop.chapter.delete.confirm': 'ลบบท',
     'workshop.chapter.delete.warning': 'คุณแน่ใจหรือไม่ว่าต้องการลบ "{title}" การดำเนินการนี้ไม่สามารถย้อนกลับได้',
     'workshop.chapter.delete.button': 'ลบบท',
     'workshop.chapter.delete.deleting': 'กำลังลบ...',
