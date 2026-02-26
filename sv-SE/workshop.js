@@ -46,7 +46,7 @@ export default {
     story {berättelse med alla kapitel, statistik och verkstadsassociationer}
     other {arbete och relaterade data}
   }.`,
-    'workshop.work.unpublish.impact': `Om du avpublicerar detta {type, select,
+    'workshop.work.makePrivate.impact': `Om du gör detta {type, select,
     universe {universum}
     story {berättelse}
     other {arbete}
@@ -54,44 +54,44 @@ export default {
     story { eller köpa det om du inte ger det till dem}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Detta {type, select,
+    'workshop.work.private.notice': `Detta {type, select,
     universe {universum}
     story {berättelse}
-    other {verk}
-  } är för närvarande opublicerat. Befintliga biblioteksinnehavare har fortfarande tillgång. Nya användare kan inte lägga till den i sitt bibliotek{type, select,
+    other {arbete}
+  } är för närvarande privat. Befintliga biblioteksinnehavare har fortfarande tillgång. Nya användare kan inte lägga till den i sitt bibliotek{type, select,
     story { eller köpa den}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Avpublicera {type, select,
-    universe {Universum}
-    story {Berättelse}
-    other {Arbete}
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Bekräftelse modal för att göra en {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } privat`,
+    'workshop.work.makePrivate.warning': `Om du gör detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } privat kommer det att tas bort från offentliga upptäckter och sökningar.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
   }`,
-    'workshop.work.unpublish.modalAria': `Bekräftelse modal för avpublicering av en {type, select,
+    'workshop.work.makePublic.modalAria': `Bekräftelse modal för att göra ett {type, select,
     universe {universum}
     story {berättelse}
     other {arbete}
   }`,
-    'workshop.work.unpublish.warning': `Avpublicering kommer att ta bort detta {type, select,
+    'workshop.work.makePublic.warning': `Genom att göra detta {type, select,
     universe {universum}
     story {berättelse}
     other {arbete}
-  } från offentlig upptäckt och sökning.`,
-    'workshop.work.republish.button': `Återpublicera {type, select,
-    universe {Universum}
-    story {Berättelse}
-    other {Arbete}
-  }`,
-    'workshop.work.republish.modalAria': `Bekräftelse modal för återpublicering av en {type, select,
-    universe {universum}
-    story {berättelse}
-    other {arbete}
-  }`,
-    'workshop.work.republish.warning': `Återutgivning kommer att göra detta {type, select,
-    universe {universum}
-    story {berättelse}
-    other {arbete}
-  } upptäckbart igen och låta nya användare lägga till det i sitt bibliotek{type, select,
+  } offentligt blir det upptäckbart igen och nya användare kan lägga till det i sitt bibliotek{type, select,
     story { eller köpa det}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Bekräftelsemodal för att radera en story',
     'workshop.story.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
     'workshop.story.delete.button': 'Radera berättelse',
-    'workshop.story.unpublished.universeExplain': 'Den här berättelsen är opublicerad eftersom dess universum är opublicerat.',
-    'workshop.story.republishWithUniverse.button': 'Återpublicera berättelse och universum',
-    'workshop.universe.republish.only.button': 'Återpublicera endast universum',
-    'workshop.universe.republish.only.modalAria': 'Bekräftelsemodal endast för återpublicering av ett universum',
-    'workshop.universe.republish.only.warning': 'Detta återpublicerar endast universum. Berättelser i detta universum förblir opublicerade tills de återpubliceras individuellt.',
-    'workshop.universe.republish.withStories.button': 'Återpublicera universum och alla berättelser',
-    'workshop.universe.republish.withStories.modalAria': 'Bekräftelse modal för återpublicering av ett universum med alla berättelser',
-    'workshop.universe.republish.withStories.warning': 'Detta återpublicerar universumet och alla berättelser som är länkade till det.',
+    'workshop.story.private.universeExplain': 'Den här berättelsen är privat eftersom dess universum är privat.',
+    'workshop.story.makePublicWithUniverse.button': 'Gör Story och Universe offentliga',
+    'workshop.universe.makePublic.only.button': 'Gör universum endast offentligt',
+    'workshop.universe.makePublic.only.modalAria': 'Bekräftelsemodal för att endast göra ett universum offentligt',
+    'workshop.universe.makePublic.only.warning': 'Detta gör endast universum offentligt. Berättelser i detta universum förblir privata tills de görs offentliga individuellt.',
+    'workshop.universe.makePublic.withStories.button': 'Gör Universum och alla berättelser offentliga',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bekräftelsemodal för att göra ett universum och alla berättelser offentliga',
+    'workshop.universe.makePublic.withStories.warning': 'Detta gör universumet och alla länkade berättelser offentliga.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bekräftelsemodal för borttagning av ett kapitel',
     'workshop.chapter.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
