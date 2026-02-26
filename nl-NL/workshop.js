@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Bevestigingsmodal voor het unpubliceren van een {type, select,
     universe {universum}
     story {verhaal}
@@ -83,11 +78,6 @@ export default {
     other {werk}
   } van openbaar zoeken en vinden.`,
     'workshop.work.republish.button': `Herpubliceren {type, select,
-    universe {Universum}
-    story {Verhaal}
-    other {Werk}
-  }`,
-    'workshop.work.republish.confirm': `Herpubliceren {type, select,
     universe {Universum}
     story {Verhaal}
     other {Werk}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Gevarenzone',
     'workshop.universe.dangerZone.desc': 'U kunt dit universum alleen verwijderen als het geen gepubliceerde verhalen heeft en minder dan een maand geleden is gepubliceerd. Als u het na deze verjaringstermijn wilt verwijderen, neem dan contact met ons op.',
     'workshop.universe.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een universum',
-    'workshop.universe.delete.confirm': 'Universum verwijderen',
     'workshop.universe.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
     'workshop.universe.delete.button': 'Universum verwijderen',
-    'workshop.universe.delete.notAllowed': 'Dit universum kan niet langer via zelfbediening worden verwijderd. Als u het na de verjaringstermijn verwijderd wilt hebben, neem dan contact met ons op.',
-    'workshop.universe.unpublish.modalAria': 'Bevestigingsmodal voor het unpubliceren van een universum',
-    'workshop.universe.unpublish.confirm': 'Universum niet publiceren',
-    'workshop.universe.unpublish.warning': 'Unpublishing zal dit universum verwijderen van publieke ontdekking en zoekopdrachten.',
-    'workshop.universe.unpublish.button': 'Universum niet publiceren',
     'workshop.universe.description': 'Universumbeschrijving',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beschrijving',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Wegens schending van goed gedrag hebben wij uw mogelijkheid tot publicatie uitgeschakeld.',
     'workshop.story.buyingSettings': 'Verkoopinstellingen',
     'workshop.story.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een verhaal',
-    'workshop.story.delete.confirm': 'Verhaal verwijderen',
     'workshop.story.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
     'workshop.story.delete.button': 'Verhaal verwijderen',
-    'workshop.story.republish.button': 'Verhaal herpubliceren',
-    'workshop.story.republish.confirm': 'Verhaal herpubliceren',
-    'workshop.story.republish.modalAria': 'Bevestigingsmodal voor het opnieuw publiceren van een verhaal',
-    'workshop.story.republish.warning': 'Door het verhaal opnieuw te publiceren wordt het weer vindbaar en kunnen nieuwe gebruikers het aan hun bibliotheek toevoegen.',
     'workshop.story.unpublished.universeExplain': 'Dit verhaal is ongepubliceerd omdat het universum ongepubliceerd is.',
     'workshop.story.republishWithUniverse.button': 'Herpubliceer verhaal en universum',
+    'workshop.universe.republish.only.button': 'Alleen universum opnieuw publiceren',
+    'workshop.universe.republish.only.modalAria': 'Bevestigingsmodal alleen voor het opnieuw publiceren van een universum',
+    'workshop.universe.republish.only.warning': 'Hiermee wordt alleen het universum opnieuw gepubliceerd. Verhalen in dit universum blijven ongepubliceerd totdat ze afzonderlijk opnieuw worden gepubliceerd.',
+    'workshop.universe.republish.withStories.button': 'Universum en alle verhalen opnieuw publiceren',
+    'workshop.universe.republish.withStories.modalAria': 'Bevestigingsmodal voor het opnieuw publiceren van een universum met alle verhalen',
+    'workshop.universe.republish.withStories.warning': 'Dit herpubliceert het universum en alle verhalen die ermee verbonden zijn.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een hoofdstuk',
-    'workshop.chapter.delete.confirm': 'Hoofdstuk verwijderen',
     'workshop.chapter.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
     'workshop.chapter.delete.button': 'Hoofdstuk verwijderen',
     'workshop.chapter.delete.deleting': 'Verwijderen...',
