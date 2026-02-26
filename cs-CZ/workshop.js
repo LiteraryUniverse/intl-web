@@ -67,11 +67,6 @@ export default {
     story {Příběh}
     other {Práce}
   }`,
-    'workshop.work.unpublish.confirm': `Nezveřejnit {type, select,
-    universe {Vesmír}
-    story {Příběh}
-    other {Práce}
-  }`,
     'workshop.work.unpublish.modalAria': `Potvrzovací modal pro zrušení publikování {type, select,
     universe {universe}
     story {story}
@@ -83,11 +78,6 @@ export default {
     other {dílo}
   } odstraněn z veřejného objevování a vyhledávání.`,
     'workshop.work.republish.button': `Zveřejnit {type, select,
-    universe {Vesmír}
-    story {Příběh}
-    other {Práce}
-  }`,
-    'workshop.work.republish.confirm': `Zveřejnit {type, select,
     universe {Vesmír}
     story {Příběh}
     other {Práce}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Nebezpečná zóna',
     'workshop.universe.dangerZone.desc': 'Tento vesmír můžete smazat pouze v případě, že v něm nejsou zveřejněny žádné příběhy a byl zveřejněn před méně než jedním měsícem. Pokud jej potřebujete smazat po uplynutí této lhůty, kontaktujte nás.',
     'workshop.universe.delete.modalAria': 'Potvrzovací modal pro odstranění vesmíru',
-    'workshop.universe.delete.confirm': 'Smazat vesmír',
     'workshop.universe.delete.warning': 'Opravdu chcete odstranit "{title}"? Tuto akci nelze vzít zpět.',
     'workshop.universe.delete.button': 'Smazat vesmír',
-    'workshop.universe.delete.notAllowed': 'Tento vesmír již nelze smazat prostřednictvím samoobsluhy. Pokud jej potřebujete odstranit po uplynutí promlčecí lhůty, kontaktujte nás.',
-    'workshop.universe.unpublish.modalAria': 'Potvrzovací modalita pro zrušení publikování vesmíru',
-    'workshop.universe.unpublish.confirm': 'Zrušit publikování vesmíru',
-    'workshop.universe.unpublish.warning': 'Zrušením publikování se tento vesmír odstraní z veřejného objevování a vyhledávání.',
-    'workshop.universe.unpublish.button': 'Zrušit publikování vesmíru',
     'workshop.universe.description': 'Popis vesmíru',
     'workshop.settings.title': 'Název',
     'workshop.description': 'Popis',
@@ -444,18 +428,18 @@ export default {
     'workshop.publishing.restricted': 'Z důvodu porušení dobrých mravů jsme vám zakázali možnost publikovat.',
     'workshop.story.buyingSettings': 'Nastavení prodeje',
     'workshop.story.delete.modalAria': 'Potvrzovací modal pro odstranění příběhu',
-    'workshop.story.delete.confirm': 'Smazat příběh',
     'workshop.story.delete.warning': 'Opravdu chcete odstranit "{title}"? Tuto akci nelze vzít zpět.',
     'workshop.story.delete.button': 'Smazat příběh',
-    'workshop.story.republish.button': 'Znovu publikovat příběh',
-    'workshop.story.republish.confirm': 'Znovu publikovat příběh',
-    'workshop.story.republish.modalAria': 'Potvrzovací modal pro opětovné publikování příběhu',
-    'workshop.story.republish.warning': 'Opětovné zveřejnění umožní tento příběh znovu objevit a novým uživatelům přidat jej do své knihovny.',
     'workshop.story.unpublished.universeExplain': 'Tento příběh je nepublikovaný, protože jeho vesmír je nepublikovaný.',
     'workshop.story.republishWithUniverse.button': 'Znovu publikovat příběh a vesmír',
+    'workshop.universe.republish.only.button': 'Znovu publikovat pouze vesmír',
+    'workshop.universe.republish.only.modalAria': 'Potvrzovací modal pouze pro opětovné publikování vesmíru',
+    'workshop.universe.republish.only.warning': 'Tím se znovu zveřejní pouze vesmír. Příběhy v tomto vesmíru zůstanou nezveřejněny, dokud nebudou znovu zveřejněny jednotlivě.',
+    'workshop.universe.republish.withStories.button': 'Znovu publikovat Vesmír a všechny příběhy',
+    'workshop.universe.republish.withStories.modalAria': 'Potvrzovací modal pro opětovné publikování vesmíru se všemi příběhy',
+    'workshop.universe.republish.withStories.warning': 'Tím se znovu zveřejní vesmír a všechny příběhy s ním spojené.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Potvrzovací modal pro odstranění kapitoly',
-    'workshop.chapter.delete.confirm': 'Vymazat kapitolu',
     'workshop.chapter.delete.warning': 'Opravdu chcete odstranit "{title}"? Tuto akci nelze vzít zpět.',
     'workshop.chapter.delete.button': 'Vymazat kapitolu',
     'workshop.chapter.delete.deleting': 'Odstranění...',
