@@ -46,53 +46,53 @@ export default {
     story {모든 챕터, 통계 및 워크샵 연관성이있는 스토리}
     other {작업 및 관련 데이터}
   }.`,
-    'workshop.work.unpublish.impact': `이것을 게시 취소 {type, select,
-    universe {유니버스}
-    story {스토리}
-    other {작업}
-  } 검색 및 검색에서 제거합니다. 이미 라이브러리에 있는 사람들은 계속 액세스할 수 있습니다. 새로운 사용자는 더 이상 라이브러리에 추가할 수 없습니다{type, select,
-    story { 선물하지 않는 한}
-    other {}
-  }.`,
-    'workshop.work.unpublished.notice': `이 {type, select,
+    'workshop.work.makePrivate.impact': `이것을 {type, select,
     universe {우주}
     story {이야기}
-    other {작품}
-  } 는 현재 미공개 상태입니다. 기존 라이브러리 소유자는 계속 액세스할 수 있습니다. 신규 사용자는 라이브러리에 추가하거나{type, select,
+    other {일}
+  } 로 만들면 검색 및 검색에서 제거됩니다. 이미 라이브러리에 있는 사람들은 계속 액세스할 수 있습니다. 새로운 사용자는 더 이상 라이브러리에 추가할 수 없으며{type, select,
+    story { 선물하지 않는 한}
+    other {}
+  } 구입할 수 없습니다.`,
+    'workshop.work.private.notice': `이 {type, select,
+    universe {우주}
+    story {이야기}
+    other {일}
+  } 현재 비공개입니다. 기존 라이브러리 소유자는 계속 액세스할 수 있습니다. 신규 사용자는 라이브러리에 추가하거나{type, select,
     story { 구매}
     other {}
   } 할 수 없습니다.`,
-    'workshop.work.unpublish.button': `게시 취소 {type, select,
-    universe {유니버스}
-    story {스토리}
-    other {작업}
-  }`,
-    'workshop.work.unpublish.modalAria': `게시 취소 확인 모달 {type, select,
-    universe {유니버스}
-    story {스토리}
-    other {작업}
-  }`,
-    'workshop.work.unpublish.warning': `게시를 취소하면 이 {type, select,
+    'workshop.work.makePrivate.button': `만들기 {type, select,
     universe {유니버스}
     story {스토리}
     other {워크}
-  } 가 공개 검색 및 검색에서 삭제됩니다.`,
-    'workshop.work.republish.button': `다시 게시 {type, select,
+  } 비공개`,
+    'workshop.work.makePrivate.modalAria': `{type, select,
+    universe {우주}
+    story {스토리}
+    other {일}
+  } 비공개로 만들기 위한 확인 모달`,
+    'workshop.work.makePrivate.warning': `이 {type, select,
     universe {유니버스}
     story {스토리}
-    other {작업}
+    other {워크}
+  } 비공개로 설정하면 공개 검색 및 검색에서 삭제됩니다.`,
+    'workshop.work.makePublic.button': `메이크 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {워크}
   }`,
-    'workshop.work.republish.modalAria': `{type, select,
-    universe {유니버스}
-    story {스토리}
-    other {작업}
-  } 재게시 확인 모달입니다.`,
-    'workshop.work.republish.warning': `다시 게시하면 이 {type, select,
+    'workshop.work.makePublic.modalAria': `{type, select,
+    universe {우주}
+    story {이야기}
+    other {일}
+  } 만들기 위한 확인 모달입니다.`,
+    'workshop.work.makePublic.warning': `이것을 {type, select,
     universe {유니버스}
     story {스토리}
     other {작품}
-  } 를 다시 검색할 수 있고 새로운 사용자가 라이브러리에 추가{type, select,
-    story { 하거나 구매}
+  } 공개하면 새로운 사용자가 다시 검색할 수 있고 라이브러리{type, select,
+    story { 에 추가하거나 구매}
     other {}
   } 할 수 있습니다.`,
     'workshop.universe.dangerZone': '위험 구역',
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': '스토리 삭제를 위한 확인 모달',
     'workshop.story.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
     'workshop.story.delete.button': '스토리 삭제',
-    'workshop.story.unpublished.universeExplain': '이 이야기는 세계관이 미공개이기 때문에 미공개입니다.',
-    'workshop.story.republishWithUniverse.button': '스토리 및 유니버스 다시 게시',
-    'workshop.universe.republish.only.button': '유니버스 전용 다시 게시',
-    'workshop.universe.republish.only.modalAria': '유니버스만 다시 게시하는 경우 확인 모달',
-    'workshop.universe.republish.only.warning': '이것은 우주만 다시 게시합니다. 이 유니버스의 스토리는 개별적으로 다시 게시될 때까지 게시되지 않은 상태로 유지됩니다.',
-    'workshop.universe.republish.withStories.button': '유니버스 및 모든 스토리 다시 게시',
-    'workshop.universe.republish.withStories.modalAria': '모든 스토리가 있는 유니버스를 다시 게시하기 위한 확인 모달',
-    'workshop.universe.republish.withStories.warning': '이것은 우주와 그와 관련된 모든 이야기를 다시 게시합니다.',
+    'workshop.story.private.universeExplain': '이 이야기의 세계는 비공개이기 때문에 비공개입니다.',
+    'workshop.story.makePublicWithUniverse.button': '스토리 및 유니버스 공개하기',
+    'workshop.universe.makePublic.only.button': '유니버스 공개 전용 설정',
+    'workshop.universe.makePublic.only.modalAria': '유니버스만 공개하기 위한 확인 모달',
+    'workshop.universe.makePublic.only.warning': '이렇게 하면 우주만 공개됩니다. 이 유니버스의 스토리는 개별적으로 공개될 때까지 비공개로 유지됩니다.',
+    'workshop.universe.makePublic.withStories.button': '유니버스 및 모든 스토리 공개',
+    'workshop.universe.makePublic.withStories.modalAria': '유니버스 및 모든 스토리를 공개하기 위한 확인 모달',
+    'workshop.universe.makePublic.withStories.warning': '이렇게 하면 유니버스 및 연결된 모든 스토리가 공개됩니다.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '챕터 삭제를 위한 확인 모달',
     'workshop.chapter.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
