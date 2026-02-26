@@ -28,9 +28,9 @@ export default {
     'workshop.universe.publishedOn': 'تم نشر هذا الكون على {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': 'إذا كنت بحاجة إلى مساعدة، <contact>اتصل بنا</contact>.',
     'workshop.work.delete.restrictions': `يمكنك حذف هذا {type, select,
-    universe {الكون هذا فقط عندما لا يكون له قصص منشورة و}
-    story {قصة فقط عندما}
-    other {العمل فقط عندما}} تم نشره قبل أقل من شهر واحد. إذا كنت بحاجة إلى حذفها بعد فترة التقييد هذه، <contact>اتصل بنا</contact>.`,
+    universe {~ الكون فقط إذا لم يكن له قصص منشورة و}
+    story {قصة فقط إذا كان}
+    other {العمل فقط إذا كان}} تم نشره قبل أقل من شهر واحد. هل تحتاج إلى مساعدة بعد ذلك؟ <contact>اتصل بنا</contact>.`,
     'workshop.work.delete.notAllowed': `هذا {type, select,
     universe {الكون}
     story {القصة}
@@ -41,6 +41,70 @@ export default {
     story {القصة}
     other {العمل}
   } لم يعد من الممكن حذف هذا ~ ~ الكون ~ ~ القصة ~ ~ العمل ~ ~ لم يعد من الممكن حذفه من خلال الخدمة الذاتية. إذا كنت بحاجة إلى إزالته، فاتصل بنا على deletions@literaryuniverse.com وسنعمل معك لإزالته بأمان.`,
+    'workshop.work.danger.delete.desc': `يحذف هذا بشكل دائم {type, select,
+    universe {الكون وبيانات ورشة العمل المرتبطة بها}
+    story {القصة مع جميع الفصول والإحصائيات وارتباطات ورش العمل}
+    other {العمل والبيانات ذات الصلة}
+  }.`,
+    'workshop.work.unpublish.impact': `يؤدي إلغاء نشر هذا {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  } إلى إزالته من الاكتشاف والبحث. يحتفظ الأشخاص الذين يمتلكونه بالفعل في مكتبتهم بإمكانية الوصول إليه. لا يمكن للمستخدمين الجدد إضافته إلى مكتبتهم بعد الآن{type, select,
+    story { أو شرائه إلا إذا قمت بإهدائه لهم}
+    other {}
+  }.`,
+    'workshop.work.unpublished.notice': `هذا {type, select,
+    universe {الكون}
+    story {القصة ~}
+    other {العمل}
+  } غير منشور حاليًا. لا يزال بإمكان أصحاب المكتبات الحاليين الوصول إليها. لا يمكن للمستخدمين الجدد إضافته إلى مكتبتهم{type, select,
+    story { أو شرائه}
+    other {}
+  }.`,
+    'workshop.work.unpublish.button': `إلغاء النشر {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  }`,
+    'workshop.work.unpublish.confirm': `إلغاء النشر {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  }`,
+    'workshop.work.unpublish.modalAria': `مشروطية التأكيد لإلغاء نشر أ {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  }`,
+    'workshop.work.unpublish.warning': `سيؤدي إلغاء النشر إلى إزالة هذا {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  } من الاكتشاف والبحث العام.`,
+    'workshop.work.republish.button': `إعادة النشر {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  } ~`,
+    'workshop.work.republish.confirm': `إعادة النشر {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  } ~`,
+    'workshop.work.republish.modalAria': `مشروط التأكيد لإعادة النشر {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  }`,
+    'workshop.work.republish.warning': `إعادة النشر ستجعل هذا العمل {type, select,
+    universe {}
+    story {~ القصة}
+    other {العمل}
+  } قابلة للاكتشاف مرة أخرى وتسمح للمستخدمين الجدد بإضافتها إلى مكتبتهم{type, select,
+    story { أو شرائها}
+    other {}
+  }.`,
     'workshop.universe.dangerZone': 'منطقة الخطر',
     'workshop.universe.dangerZone.desc': 'يمكنك حذف هذا الكون فقط عندما لا يحتوي على قصص منشورة وتم نشره قبل أقل من شهر واحد. إذا كنت بحاجة إلى حذفه بعد فترة التحديد هذه، يُرجى الاتصال بنا.',
     'workshop.universe.delete.modalAria': 'طريقة التأكيد لحذف كون من الكون',
@@ -373,6 +437,16 @@ export default {
     'workshop.revisions.new.public.disabled': 'لا يمكن النشر أثناء تمكين منع النشر في إعدادات القصة.',
     'workshop.publishing.restricted': 'بسبب مخالفة حسن السيرة والسلوك قمنا بتعطيل قدرتك على النشر.',
     'workshop.story.buyingSettings': 'إعدادات البيع',
+    'workshop.story.delete.modalAria': 'طريقة التأكيد لحذف قصة ما من قائمة الحذف',
+    'workshop.story.delete.confirm': 'حذف القصة',
+    'workshop.story.delete.warning': 'هل تريد بالتأكيد حذف "{title}"؟ لا يمكن التراجع عن هذا الإجراء.',
+    'workshop.story.delete.button': 'حذف القصة',
+    'workshop.story.republish.button': 'إعادة نشر القصة',
+    'workshop.story.republish.confirm': 'إعادة نشر القصة',
+    'workshop.story.republish.modalAria': 'نموذج التأكيد لإعادة نشر قصة ما',
+    'workshop.story.republish.warning': 'ستجعل إعادة النشر هذه القصة قابلة للاكتشاف مرة أخرى وتسمح للمستخدمين الجدد بإضافتها إلى مكتبتهم.',
+    'workshop.story.unpublished.universeExplain': 'هذه القصة غير منشورة لأن عالمها غير منشور.',
+    'workshop.story.republishWithUniverse.button': 'إعادة نشر القصة والكون',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'طريقة التأكيد لحذف فصل من الفصول',
     'workshop.chapter.delete.confirm': 'حذف الفصل',
