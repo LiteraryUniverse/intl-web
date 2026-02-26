@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'Detta är allt vi har för historien hittills, men äventyret kommer att fortsätta i framtiden, kom tillbaka snart!',
     'reader.storyPreview.heading': 'Förhandsgranskning slutförd',
     'reader.storyPreview.description': 'Du har just avslutat förhandsgranskningen. Vi har inte resten av berättelsen här ännu, men du kan fortsätta den på platserna nedan.',
+    'reader.unpublishedChapter.heading': 'Detta kapitel är inte längre tillgängligt',
     'chapter.translation.notYetDescription': 'Kom tillbaka snart igen!',
     'reader.externalShopping.heading': 'Hämta {storyName} på andra ställen:',
     'chapter.next': 'Nästa kapitel',
