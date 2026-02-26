@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `確認模式為取消出版 {type, select,
     universe {宇宙}
     story {故事}
@@ -83,11 +78,6 @@ export default {
     other {作品}
   } 從公開發現和搜尋中移除。`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universe}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': '危險區',
     'workshop.universe.dangerZone.desc': '只有當這個宇宙沒有已發表的故事，而且發表的時間少於一個月時，您才可以刪除它。如果您在此限制期限之後需要刪除，請聯絡我們。',
     'workshop.universe.delete.modalAria': '刪除宇宙的確認模態',
-    'workshop.universe.delete.confirm': '刪除宇宙',
     'workshop.universe.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
     'workshop.universe.delete.button': '刪除宇宙',
-    'workshop.universe.delete.notAllowed': '此宇宙無法再透過自助服務刪除。如果您在限制期限後需要刪除，請與我們聯絡。',
-    'workshop.universe.unpublish.modalAria': '取消發表宇宙的確認模態',
-    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
-    'workshop.universe.unpublish.warning': '取消發表將會從大眾發現和搜尋中移除這個宇宙。',
-    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': '宇宙描述',
     'workshop.settings.title': '標題',
     'workshop.description': '描述',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。',
     'workshop.story.buyingSettings': '銷售設定',
     'workshop.story.delete.modalAria': '刪除故事的確認模態',
-    'workshop.story.delete.confirm': '刪除故事',
     'workshop.story.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
     'workshop.story.delete.button': '刪除故事',
-    'workshop.story.republish.button': '轉載故事',
-    'workshop.story.republish.confirm': '轉載故事',
-    'workshop.story.republish.modalAria': '重新發表故事的確認模組',
-    'workshop.story.republish.warning': '重新出版可讓這個故事再次被發現，並允許新使用者將其加入圖書館。',
     'workshop.story.unpublished.universeExplain': '這個故事沒有出版，因為它的宇宙沒有出版。',
     'workshop.story.republishWithUniverse.button': '重新出版故事和宇宙',
+    'workshop.universe.republish.only.button': '僅重發宇宙',
+    'workshop.universe.republish.only.modalAria': '僅重發宇宙的確認模態',
+    'workshop.universe.republish.only.warning': '這只會重新發行宇宙。這個宇宙中的故事在個別重新發表之前都不會發表。',
+    'workshop.universe.republish.withStories.button': '重新出版宇宙和所有故事',
+    'workshop.universe.republish.withStories.modalAria': '重新發行包含所有故事的宇宙的確認模態',
+    'workshop.universe.republish.withStories.warning': '這會重新發佈宇宙和所有與其相關的故事。',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '刪除章節的確認模態',
-    'workshop.chapter.delete.confirm': '刪除章節',
     'workshop.chapter.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
     'workshop.chapter.delete.button': '刪除章節',
     'workshop.chapter.delete.deleting': '刪除...',
