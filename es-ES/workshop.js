@@ -46,53 +46,53 @@ export default {
     story {historia con todos los capítulos, estadísticas y asociaciones de talleres}
     other {trabajo y datos relacionados}
   }.`,
-    'workshop.work.unpublish.impact': `Anular la publicación de esta {type, select,
+    'workshop.work.makePrivate.impact': `Hacer que esta {type, select,
     universe {universo}
     story {historia}
     other {obra}
-  } la elimina del descubrimiento y la búsqueda. Las personas que ya lo tienen en su biblioteca mantienen el acceso. Los nuevos usuarios ya no pueden añadirlo a su biblioteca{type, select,
-    story { ni comprarlo a menos que usted se lo regale}
+  } la elimine del descubrimiento y la búsqueda. Las personas que ya lo tienen en su biblioteca mantienen el acceso. Los nuevos usuarios ya no pueden añadirlo a su biblioteca{type, select,
+    story { ni comprarlo a menos que se lo regale}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Este {type, select,
+    'workshop.work.private.notice': `Esta {type, select,
     universe {universo}
-    story {relato}
+    story {historia}
     other {obra}
-  } está actualmente inédito. Los actuales poseedores de la biblioteca siguen teniendo acceso. Los nuevos usuarios no pueden añadirla a su biblioteca{type, select,
+  } es actualmente privada. Los actuales poseedores de la biblioteca siguen teniendo acceso. Los nuevos usuarios no pueden añadirla a su biblioteca{type, select,
     story { ni comprarla}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Despublicar {type, select,
+    'workshop.work.makePrivate.button': `Hacer {type, select,
     universe {Universo}
     story {Historia}
     other {Trabajo}
-  }`,
-    'workshop.work.unpublish.modalAria': `Modalidad de confirmación para despublicar un {type, select,
+  } Privado`,
+    'workshop.work.makePrivate.modalAria': `Modalidad de confirmación para hacer un {type, select,
     universe {universo}
-    story {relato}
-    other {obra}
-  }`,
-    'workshop.work.unpublish.warning': `La anulación de la publicación eliminará este {type, select,
-    universe {universo}
-    story {relato}
+    story {historia}
     other {trabajo}
-  } del descubrimiento y la búsqueda públicos.`,
-    'workshop.work.republish.button': `Reeditar {type, select,
+  } privado`,
+    'workshop.work.makePrivate.warning': `Hacer esta {type, select,
+    universe {universo}
+    story {historia}
+    other {trabajo}
+  } privada la eliminará del descubrimiento y búsqueda públicos.`,
+    'workshop.work.makePublic.button': `Hacer {type, select,
     universe {Universo}
     story {Historia}
     other {Trabajo}
   }`,
-    'workshop.work.republish.modalAria': `Modalidad de confirmación para volver a publicar un {type, select,
+    'workshop.work.makePublic.modalAria': `Modalidad de confirmación para hacer un {type, select,
     universe {universo}
-    story {relato}
-    other {obra}
+    story {historia}
+    other {trabajo}
   }`,
-    'workshop.work.republish.warning': `La reedición hará que este {type, select,
+    'workshop.work.makePublic.warning': `Hacer pública esta {type, select,
     universe {universo}
-    story {relato}
+    story {historia}
     other {obra}
-  } sea descubrible de nuevo y permitirá a los nuevos usuarios añadirlo a su biblioteca{type, select,
-    story { o comprarlo}
+  } hará que sea descubrible de nuevo y permitirá a nuevos usuarios añadirla a su biblioteca{type, select,
+    story { o comprarla}
     other {}
   }.`,
     'workshop.universe.dangerZone': 'Zona de peligro',
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Modalidad de confirmación para borrar una historia',
     'workshop.story.delete.warning': '¿Está seguro de que desea borrar "{title}"? Esta acción no se puede deshacer.',
     'workshop.story.delete.button': 'Borrar historia',
-    'workshop.story.unpublished.universeExplain': 'Esta historia es inédita porque su universo es inédito.',
-    'workshop.story.republishWithUniverse.button': 'Reeditar la historia y el universo',
-    'workshop.universe.republish.only.button': 'Reeditar sólo Universo',
-    'workshop.universe.republish.only.modalAria': 'Modalidad de confirmación sólo para republicar un universo',
-    'workshop.universe.republish.only.warning': 'Esto reedita sólo el universo. Las historias de este universo permanecen inéditas hasta que se vuelven a publicar individualmente.',
-    'workshop.universe.republish.withStories.button': 'Reeditar el universo y todas las historias',
-    'workshop.universe.republish.withStories.modalAria': 'Modalidad de confirmación para volver a publicar un universo con todas las historias',
-    'workshop.universe.republish.withStories.warning': 'Esto vuelve a publicar el universo y todas las historias vinculadas a él.',
+    'workshop.story.private.universeExplain': 'Esta historia es privada porque su universo es privado.',
+    'workshop.story.makePublicWithUniverse.button': 'Hacer pública la historia y el universo',
+    'workshop.universe.makePublic.only.button': 'Hacer el universo sólo público',
+    'workshop.universe.makePublic.only.modalAria': 'Modalidad de confirmación para hacer un universo sólo público',
+    'workshop.universe.makePublic.only.warning': 'Esto hace que sólo el universo sea público. Las historias de este universo permanecen privadas hasta que se hacen públicas individualmente.',
+    'workshop.universe.makePublic.withStories.button': 'Hacer públicos el universo y todas las historias',
+    'workshop.universe.makePublic.withStories.modalAria': 'Modalidad de confirmación para hacer público un universo y todas las historias',
+    'workshop.universe.makePublic.withStories.warning': 'Esto hace que el universo y todas las historias vinculadas sean públicas.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modalidad de confirmación para borrar un capítulo',
     'workshop.chapter.delete.warning': '¿Está seguro de que desea borrar "{title}"? Esta acción no se puede deshacer.',
