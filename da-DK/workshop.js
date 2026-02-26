@@ -46,52 +46,52 @@ export default {
     story {historie med alle kapitler, statistikker og værkstedstilknytninger}
     other {arbejde og relaterede data}
   }.`,
-    'workshop.work.unpublish.impact': `Afpublicering af dette {type, select,
+    'workshop.work.makePrivate.impact': `Ved at gøre dette {type, select,
     universe {univers}
     story {historie}
-    other {værk}
-  } fjerner det fra opdagelse og søgning. Folk, der allerede har den i deres bibliotek, beholder adgangen. Nye brugere kan ikke længere tilføje det til deres bibliotek{type, select,
+    other {arbejde}
+  } fjernes det fra opdagelse og søgning. Folk, der allerede har den i deres bibliotek, beholder adgangen. Nye brugere kan ikke længere tilføje det til deres bibliotek{type, select,
     story { eller købe det, medmindre du giver det til dem}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `Dette {type, select,
+    'workshop.work.private.notice': `Dette {type, select,
     universe {univers}
     story {historie}
     other {værk}
-  } er i øjeblikket ikke udgivet. Eksisterende biblioteksindehavere har stadig adgang. Nye brugere kan ikke tilføje den til deres bibliotek{type, select,
+  } er i øjeblikket privat. Eksisterende biblioteksindehavere har stadig adgang. Nye brugere kan ikke tilføje den til deres bibliotek{type, select,
     story { eller købe den}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Bekræftelsesmodal for at lave en {type, select,
+    universe {univers}
+    story {historie}
+    other {arbejde}
+  } privat`,
+    'workshop.work.makePrivate.warning': `Hvis du gør denne {type, select,
+    universe {univers}
+    story {historie}
+    other {arbejde}
+  } privat, fjernes den fra offentlig opdagelse og søgning.`,
+    'workshop.work.makePublic.button': `Make {type, select,
     universe {Universe}
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.modalAria': `Bekræftelsesmodal for afpublicering af en {type, select,
+    'workshop.work.makePublic.modalAria': `Bekræftelsesmodal for at lave et {type, select,
     universe {univers}
     story {historie}
-    other {værk}
+    other {arbejde}
   }`,
-    'workshop.work.unpublish.warning': `Afpublicering vil fjerne dette {type, select,
+    'workshop.work.makePublic.warning': `Ved at gøre dette {type, select,
     universe {univers}
     story {historie}
     other {værk}
-  } fra offentlig opdagelse og søgning.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.modalAria': `Bekræftelsesmodal for genudgivelse af et {type, select,
-    universe {univers}
-    story {historie}
-    other {værk}
-  }`,
-    'workshop.work.republish.warning': `Genudgivelse vil gøre dette {type, select,
-    universe {univers}
-    story {historie}
-    other {værk}
-  } tilgængeligt igen og give nye brugere mulighed for at tilføje det til deres bibliotek{type, select,
+  } offentligt bliver det muligt at finde det igen og give nye brugere mulighed for at tilføje det til deres bibliotek{type, select,
     story { eller købe det}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Bekræftelsesmodal for sletning af en historie',
     'workshop.story.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
     'workshop.story.delete.button': 'Slet historien',
-    'workshop.story.unpublished.universeExplain': 'Denne historie er upubliceret, fordi dens univers er upubliceret.',
-    'workshop.story.republishWithUniverse.button': 'Genudgiv historie og univers',
-    'workshop.universe.republish.only.button': 'Kun genudgivelse af universet',
-    'workshop.universe.republish.only.modalAria': 'Bekræftelsesmodal kun for genudgivelse af et univers',
-    'workshop.universe.republish.only.warning': 'Dette genudgiver kun universet. Historier i dette univers forbliver upublicerede, indtil de genudgives individuelt.',
-    'workshop.universe.republish.withStories.button': 'Genudgiv universet og alle historier',
-    'workshop.universe.republish.withStories.modalAria': 'Bekræftelsesmodal for genudgivelse af et univers med alle historier',
-    'workshop.universe.republish.withStories.warning': 'Dette genudgiver universet og alle historier, der er knyttet til det.',
+    'workshop.story.private.universeExplain': 'Denne historie er privat, fordi dens univers er privat.',
+    'workshop.story.makePublicWithUniverse.button': 'Gør historien og universet offentligt',
+    'workshop.universe.makePublic.only.button': 'Gør kun universet offentligt',
+    'workshop.universe.makePublic.only.modalAria': 'Bekræftelsesmodal for kun at gøre et univers offentligt',
+    'workshop.universe.makePublic.only.warning': 'Dette gør kun universet offentligt. Historier i dette univers forbliver private, indtil de bliver offentliggjort individuelt.',
+    'workshop.universe.makePublic.withStories.button': 'Gør universet og alle historier offentlige',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bekræftelsesmodal for at gøre et univers og alle historier offentlige',
+    'workshop.universe.makePublic.withStories.warning': 'Det gør universet og alle tilknyttede historier offentlige.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bekræftelsesmodal for sletning af et kapitel',
     'workshop.chapter.delete.warning': 'Er du sikker på, at du vil slette "{title}"? Denne handling kan ikke fortrydes.',
