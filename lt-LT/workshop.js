@@ -46,53 +46,53 @@ export default {
     story {istoriją su visais skyriais, statistiniais duomenimis ir dirbtuvių asociacijomis}
     other {darbą ir susijusius duomenis}
   }.`,
-    'workshop.work.unpublish.impact': `Panaikinus šio {type, select,
-    universe {visatos}
-    story {istorijos}
-    other {kūrinio}
-  } skelbimą, jis pašalinamas iš atradimo ir paieškos. Žmonės, kurie ją jau turi savo bibliotekoje, išsaugo prieigą prie jos. Nauji naudotojai nebegali jos įtraukti į savo biblioteką{type, select,
-    story { arba nusipirkti, nebent jiems ją padovanosite}
-    other {}
-  }.`,
-    'workshop.work.unpublished.notice': `Šis {type, select,
-    universe {visata}
-    story {istorija}
-    other {darbas}
-  } šiuo metu neskelbiamas. Esami bibliotekos turėtojai vis dar turi prieigą. Nauji vartotojai negali jo įtraukti į savo biblioteką{type, select,
-    story { arba įsigyti}
-    other {}
-  }.`,
-    'workshop.work.unpublish.button': `Neskelbti {type, select,
-    universe {Visata}
-    story {Istorija}
-    other {Darbas}
-  }`,
-    'workshop.work.unpublish.modalAria': `Patvirtinimo modalumas, kai reikia panaikinti publikavimą {type, select,
-    universe {visata}
-    story {istorija}
-    other {darbas}
-  }`,
-    'workshop.work.unpublish.warning': `Panaikinus publikavimą šis {type, select,
-    universe {visata}
-    story {istorija}
-    other {darbas}
-  } bus pašalintas iš viešos paieškos ir atradimo.`,
-    'workshop.work.republish.button': `Perspausdinti {type, select,
-    universe {Visata}
-    story {Istorija}
-    other {Darbas}
-  }`,
-    'workshop.work.republish.modalAria': `Patvirtinimo modalumas perpublikuojant {type, select,
+    'workshop.work.makePrivate.impact': `Padarius šią {type, select,
     universe {visatą}
     story {istoriją}
     other {darbą}
+  } pašalinama iš atradimo ir paieškos. Žmonės, kurie ją jau turi savo bibliotekoje, išsaugo prieigą prie jos. Nauji naudotojai nebegali jos įtraukti į savo biblioteką{type, select,
+    story { arba nusipirkti, nebent jiems ją padovanosite}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Šis {type, select,
+    universe {visata}
+    story {istorija}
+    other {darbas}
+  } šiuo metu yra privatus. Esami bibliotekos turėtojai vis dar turi prieigą. Nauji naudotojai negali jo įtraukti į savo biblioteką{type, select,
+    story { arba įsigyti}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Padaryti {type, select,
+    universe {Visata}
+    story {Istorija}
+    other {Darbas}
+  } Privatus`,
+    'workshop.work.makePrivate.modalAria': `Patvirtinimo modalumas kuriant {type, select,
+    universe {visatą}
+    story {istoriją}
+    other {darbą}
+  } privatų`,
+    'workshop.work.makePrivate.warning': `Padarius šį {type, select,
+    universe {visata}
+    story {istorija}
+    other {darbas}
+  } privatų, jis bus pašalintas iš viešos aptikimo ir paieškos.`,
+    'workshop.work.makePublic.button': `Padaryti {type, select,
+    universe {Visata}
+    story {Istorija}
+    other {Darbas}
   }`,
-    'workshop.work.republish.warning': `Perspausdinus šią {type, select,
+    'workshop.work.makePublic.modalAria': `Patvirtinimo modalumas kuriant {type, select,
+    universe {visatą}
+    story {istoriją}
+    other {darbą}
+  }.`,
+    'workshop.work.makePublic.warning': `Padarius šią {type, select,
     universe {visatą}
     story {istoriją}
     other {kūrinį}
-  } vėl bus galima atrasti, o nauji vartotojai galės jį įtraukti į savo biblioteką{type, select,
-    story { arba nusipirkti}
+  } viešai prieinamą, ją vėl bus galima atrasti ir nauji naudotojai galės ją įtraukti į savo biblioteką{type, select,
+    story { arba įsigyti}
     other {~}
   }.`,
     'workshop.universe.dangerZone': 'Pavojinga zona',
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Istorijos ištrynimo patvirtinimo modalinis langas',
     'workshop.story.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
     'workshop.story.delete.button': 'Ištrinti istoriją',
-    'workshop.story.unpublished.universeExplain': 'Šis pasakojimas neskelbiamas, nes jo visata neskelbiama.',
-    'workshop.story.republishWithUniverse.button': 'Perspausdinti istoriją ir visatą',
-    'workshop.universe.republish.only.button': 'Perspausdinti Tik visata',
-    'workshop.universe.republish.only.modalAria': 'Patvirtinimo modalinis rodinys, skirtas tik visatai perspausdinti',
-    'workshop.universe.republish.only.warning': 'Taip perspausdinama tik visata. Šios visatos istorijos lieka nepublikuotos, kol bus perspausdintos atskirai.',
-    'workshop.universe.republish.withStories.button': 'Perspausdinti Visatą ir visas istorijas',
-    'workshop.universe.republish.withStories.modalAria': 'Visatos su visomis istorijomis pakartotinio publikavimo patvirtinimo modalumas',
-    'workshop.universe.republish.withStories.warning': 'Taip iš naujo paskelbiama visata ir visos su ja susijusios istorijos.',
+    'workshop.story.private.universeExplain': 'Ši istorija yra privati, nes jos visata yra privati.',
+    'workshop.story.makePublicWithUniverse.button': 'Paviešinkite istoriją ir visatą',
+    'workshop.universe.makePublic.only.button': 'Padaryti Visatą tik viešą',
+    'workshop.universe.makePublic.only.modalAria': 'Patvirtinimo modalinis rodinys, skirtas tik viešai paskelbti visatą',
+    'workshop.universe.makePublic.only.warning': 'Tokiu būdu viešai skelbiama tik visata. Šios visatos istorijos lieka privačios, kol nėra paviešintos atskirai.',
+    'workshop.universe.makePublic.withStories.button': 'Viešinkite Visatą ir visas istorijas',
+    'workshop.universe.makePublic.withStories.modalAria': 'Visatos ir visų istorijų viešinimo patvirtinimo modalumas',
+    'workshop.universe.makePublic.withStories.warning': 'Dėl to visata ir visos su ja susijusios istorijos tampa viešos.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Skyriaus ištrynimo patvirtinimo modalinis langas',
     'workshop.chapter.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
