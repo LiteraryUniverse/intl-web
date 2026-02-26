@@ -67,11 +67,6 @@ export default {
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.confirm': `Unpublish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
     'workshop.work.unpublish.modalAria': `Confirmation modal for unpublishing a {type, select,
     universe {universe}
     story {story}
@@ -83,11 +78,6 @@ export default {
     other {work}
   } from public discovery and search.`,
     'workshop.work.republish.button': `Republish {type, select,
-    universe {Universe}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.confirm': `Republish {type, select,
     universe {Universe}
     story {Story}
     other {Work}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Danger zone',
     'workshop.universe.dangerZone.desc': 'You can delete this universe only when it has no published stories and was published less than one month ago. If you need to delete it after this limitation period, please contact us.',
     'workshop.universe.delete.modalAria': 'Confirmation modal for deleting a universe',
-    'workshop.universe.delete.confirm': 'Delete Universe',
     'workshop.universe.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
     'workshop.universe.delete.button': 'Delete Universe',
-    'workshop.universe.delete.notAllowed': 'This universe can no longer be deleted through self-service. If you need it removed after the limitation period, please contact us.',
-    'workshop.universe.unpublish.modalAria': 'Confirmation modal for unpublishing a universe',
-    'workshop.universe.unpublish.confirm': 'Unpublish Universe',
-    'workshop.universe.unpublish.warning': 'Unpublishing will remove this universe from public discovery and search.',
-    'workshop.universe.unpublish.button': 'Unpublish Universe',
     'workshop.universe.description': 'பரலோக விளக்கம்',
     'workshop.settings.title': 'Title',
     'workshop.description': 'விளக்கம்',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
     'workshop.story.delete.modalAria': 'Confirmation modal for deleting a story',
-    'workshop.story.delete.confirm': 'Delete Story',
     'workshop.story.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
     'workshop.story.delete.button': 'Delete Story',
-    'workshop.story.republish.button': 'Republish Story',
-    'workshop.story.republish.confirm': 'Republish Story',
-    'workshop.story.republish.modalAria': 'Confirmation modal for republishing a story',
-    'workshop.story.republish.warning': 'Republishing will make this story discoverable again and allow new users to add it to their library.',
     'workshop.story.unpublished.universeExplain': 'This story is unpublished because its universe is unpublished.',
     'workshop.story.republishWithUniverse.button': 'Republish Story and Universe',
+    'workshop.universe.republish.only.button': 'Republish Universe Only',
+    'workshop.universe.republish.only.modalAria': 'Confirmation modal for republishing a universe only',
+    'workshop.universe.republish.only.warning': 'This republishes only the universe. Stories in this universe stay unpublished until republished individually.',
+    'workshop.universe.republish.withStories.button': 'Republish Universe and All Stories',
+    'workshop.universe.republish.withStories.modalAria': 'Confirmation modal for republishing a universe with all stories',
+    'workshop.universe.republish.withStories.warning': 'This republishes the universe and all stories linked to it.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Confirmation modal for deleting a chapter',
-    'workshop.chapter.delete.confirm': 'Delete Chapter',
     'workshop.chapter.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
     'workshop.chapter.delete.button': 'Delete Chapter',
     'workshop.chapter.delete.deleting': 'Deleting...',
