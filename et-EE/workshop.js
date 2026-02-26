@@ -46,52 +46,52 @@ export default {
     story {loo koos kõigi peatükkide, statistika ja töötoa seostega}
     other {töö ja sellega seotud andmed}
   }.`,
-    'workshop.work.unpublish.impact': `Selle {type, select,
+    'workshop.work.makePrivate.impact': `Selle {type, select,
     universe {universumi}
     story {loo}
     other {töö}
-  } avaldamata jätmine eemaldab selle avastamisest ja otsingust. Inimesed, kelle raamatukogus see juba olemas on, säilitavad juurdepääsu. Uued kasutajad ei saa seda enam oma raamatukogusse lisada{type, select,
+  } tegemine eemaldab selle avastamisest ja otsimisest. Inimesed, kelle raamatukogus see juba olemas on, säilitavad juurdepääsu. Uued kasutajad ei saa seda enam oma raamatukogusse lisada{type, select,
     story { ega osta, kui te seda neile ei kingi}
     other {}
   }.`,
-    'workshop.work.unpublished.notice': `See {type, select,
+    'workshop.work.private.notice': `See {type, select,
     universe {universum}
     story {lugu}
-    other {teos}
-  } on praegu avaldamata. Olemasolevatel raamatukoguomanikel on endiselt juurdepääs. Uued kasutajad ei saa seda oma raamatukogusse lisada{type, select,
-    story { ega osta}
+    other {töö}
+  } on praegu privaatne. Olemasolevatel raamatukoguomanikel on endiselt juurdepääs. Uued kasutajad ei saa seda oma raamatukogusse{type, select,
+    story { lisada ega osta}
     other {}
   }.`,
-    'workshop.work.unpublish.button': `Unpublish {type, select,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universum}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Kinnitusmodaali tegemiseks {type, select,
+    universe {universum}
+    story {lugu}
+    other {töö}
+  } privaatne`,
+    'workshop.work.makePrivate.warning': `Selle {type, select,
+    universe {universumi}
+    story {loo}
+    other {töö}
+  } privaatseks muutmine eemaldab selle avalikust avastamisest ja otsingust.`,
+    'workshop.work.makePublic.button': `Make {type, select,
     universe {Universum}
     story {Story}
     other {Work}
   }`,
-    'workshop.work.unpublish.modalAria': `Kinnitusmoodus avaldamata jätmiseks {type, select,
+    'workshop.work.makePublic.modalAria': `Kinnitusmodaali tegemiseks {type, select,
     universe {universum}
     story {lugu}
     other {töö}
   }`,
-    'workshop.work.unpublish.warning': `Avaldamise tühistamine eemaldab selle {type, select,
+    'workshop.work.makePublic.warning': `Selle {type, select,
     universe {universumi}
     story {loo}
     other {teose}
-  } avalikust avastamisest ja otsingust.`,
-    'workshop.work.republish.button': `Republish {type, select,
-    universe {Universum}
-    story {Story}
-    other {Work}
-  }`,
-    'workshop.work.republish.modalAria': `Kinnitusmodaali uuesti avaldamiseks {type, select,
-    universe {universum}
-    story {lugu}
-    other {töö}
-  }`,
-    'workshop.work.republish.warning': `Taasavaldamine muudab selle {type, select,
-    universe {universumi}
-    story {loo}
-    other {teose}
-  } taas avastatavaks ja võimaldab uutel kasutajatel lisada seda oma raamatukogusse{type, select,
+  } avalikustamine muudab selle taas avastatavaks ja võimaldab uutel kasutajatel lisada seda oma raamatukogusse{type, select,
     story { või osta seda}
     other {}
   }.`,
@@ -424,14 +424,14 @@ export default {
     'workshop.story.delete.modalAria': 'Kinnitusmoodul loo kustutamiseks',
     'workshop.story.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
     'workshop.story.delete.button': 'Kustuta lugu',
-    'workshop.story.unpublished.universeExplain': 'See lugu on avaldamata, sest selle universum on avaldamata.',
-    'workshop.story.republishWithUniverse.button': 'Loo ja universumi uuesti avaldamine',
-    'workshop.universe.republish.only.button': 'Avalda ainult Universum',
-    'workshop.universe.republish.only.modalAria': 'Kinnitusmoodal ainult universumi uuesti avaldamiseks',
-    'workshop.universe.republish.only.warning': 'See avaldab ainult universumi. Selles universumis olevad lood jäävad avaldamata, kuni neid ükshaaval uuesti avaldatakse.',
-    'workshop.universe.republish.withStories.button': 'Universumi ja kõigi lugude uuesti avaldamine',
-    'workshop.universe.republish.withStories.modalAria': 'Kinnitusmoodul universumi uuesti avaldamiseks koos kõigi lugudega',
-    'workshop.universe.republish.withStories.warning': 'See avaldab universumi ja kõik sellega seotud lood uuesti.',
+    'workshop.story.private.universeExplain': 'See lugu on privaatne, sest selle universum on privaatne.',
+    'workshop.story.makePublicWithUniverse.button': 'Tee lugu ja universum avalikuks',
+    'workshop.universe.makePublic.only.button': 'Tee Universum ainult avalikuks',
+    'workshop.universe.makePublic.only.modalAria': 'Kinnitusmoodul ainult universumi avalikustamiseks',
+    'workshop.universe.makePublic.only.warning': 'See muudab ainult universumi avalikuks. Selles universumis olevad lood jäävad privaatseks, kuni neid ei avalikustata individuaalselt.',
+    'workshop.universe.makePublic.withStories.button': 'Tee Universum ja kõik lood avalikuks',
+    'workshop.universe.makePublic.withStories.modalAria': 'Universumi ja kõigi lugude avalikustamise kinnitamise modaal',
+    'workshop.universe.makePublic.withStories.warning': 'See muudab universumi ja kõik sellega seotud lood avalikuks.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Peatüki kustutamise kinnituse modaal',
     'workshop.chapter.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
