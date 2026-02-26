@@ -222,7 +222,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'コピー先の宇宙',
     'encyclopedia.templateCopy.finished': 'コピーが完了しました',
     'encyclopedia.templateCreateUniverse.modalTitle': 'テンプレートからユニバースを作成',
-    'encyclopedia.templateCreateUniverse.description': 'このテンプレートから、シード済みの百科事典コンテンツを使って新しいユニバースを作成します。あなたが公開すると決めるまで、あなたの宇宙は未公開のままです。',
+    'encyclopedia.templateCreateUniverse.description': 'このテンプレートから、あらかじめシードされた百科事典のコンテンツを使って、新しいユニバースを作成してください。あなたが公開すると決めるまで、あなたの宇宙は非公開のままです。',
     'encyclopedia.templateCreateUniverse.success': 'ユニバースは正常に作成されました！リダイレクト...',
     'encyclopedia.pronunciation.audio.play': '発音を再生する',
     'encyclopedia.pronunciation.guide': '可能な限り<ipaLink>IPA表記を</ipaLink>使用してください。Web Speech APIの発音はベストエフォートです。'
