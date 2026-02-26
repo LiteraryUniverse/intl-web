@@ -67,11 +67,6 @@ export default {
     story {Istorija}
     other {Darbas}
   }`,
-    'workshop.work.unpublish.confirm': `Neskelbti {type, select,
-    universe {Visata}
-    story {Istorija}
-    other {Darbas}
-  }`,
     'workshop.work.unpublish.modalAria': `Patvirtinimo modalumas, kai reikia panaikinti publikavimą {type, select,
     universe {visata}
     story {istorija}
@@ -83,11 +78,6 @@ export default {
     other {darbas}
   } bus pašalintas iš viešos paieškos ir atradimo.`,
     'workshop.work.republish.button': `Perspausdinti {type, select,
-    universe {Visata}
-    story {Istorija}
-    other {Darbas}
-  }`,
-    'workshop.work.republish.confirm': `Perspausdinti {type, select,
     universe {Visata}
     story {Istorija}
     other {Darbas}
@@ -108,14 +98,8 @@ export default {
     'workshop.universe.dangerZone': 'Pavojinga zona',
     'workshop.universe.dangerZone.desc': 'Šią visatą galite ištrinti tik tada, kai joje nėra paskelbtų istorijų ir ji buvo paskelbta mažiau nei prieš mėnesį. Jei norite ją ištrinti pasibaigus šiam senaties terminui, susisiekite su mumis.',
     'workshop.universe.delete.modalAria': 'Visatos ištrynimo patvirtinimo modalinis langas',
-    'workshop.universe.delete.confirm': 'Ištrinti Visatą',
     'workshop.universe.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
     'workshop.universe.delete.button': 'Ištrinti Visatą',
-    'workshop.universe.delete.notAllowed': 'Šios visatos nebegalima ištrinti naudojantis savitarnos paslaugomis. Jei jums reikia ją pašalinti pasibaigus senaties terminui, susisiekite su mumis.',
-    'workshop.universe.unpublish.modalAria': 'Patvirtinimo modalinis langas, kai reikia panaikinti visatos publikavimą',
-    'workshop.universe.unpublish.confirm': 'Neišleisti Visatos',
-    'workshop.universe.unpublish.warning': 'Panaikinus publikavimą, ši visata bus pašalinta iš viešos paieškos ir aptikimo.',
-    'workshop.universe.unpublish.button': 'Neišleisti Visatos',
     'workshop.universe.description': 'Visatos aprašymas',
     'workshop.settings.title': 'Pavadinimas',
     'workshop.description': 'Aprašymas',
@@ -438,18 +422,18 @@ export default {
     'workshop.publishing.restricted': 'Dėl geros elgsenos pažeidimo atjungėme jūsų galimybę publikuoti.',
     'workshop.story.buyingSettings': 'Pardavimo nustatymai',
     'workshop.story.delete.modalAria': 'Istorijos ištrynimo patvirtinimo modalinis langas',
-    'workshop.story.delete.confirm': 'Ištrinti istoriją',
     'workshop.story.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
     'workshop.story.delete.button': 'Ištrinti istoriją',
-    'workshop.story.republish.button': 'Perspausdinti istoriją',
-    'workshop.story.republish.confirm': 'Perspausdinti istoriją',
-    'workshop.story.republish.modalAria': 'Istorijos perspausdinimo patvirtinimo modalinis langas',
-    'workshop.story.republish.warning': 'Perspausdinus šią istoriją vėl bus galima rasti ir nauji naudotojai galės ją įtraukti į savo biblioteką.',
     'workshop.story.unpublished.universeExplain': 'Šis pasakojimas neskelbiamas, nes jo visata neskelbiama.',
     'workshop.story.republishWithUniverse.button': 'Perspausdinti istoriją ir visatą',
+    'workshop.universe.republish.only.button': 'Perspausdinti Tik visata',
+    'workshop.universe.republish.only.modalAria': 'Patvirtinimo modalinis rodinys, skirtas tik visatai perspausdinti',
+    'workshop.universe.republish.only.warning': 'Taip perspausdinama tik visata. Šios visatos istorijos lieka nepublikuotos, kol bus perspausdintos atskirai.',
+    'workshop.universe.republish.withStories.button': 'Perspausdinti Visatą ir visas istorijas',
+    'workshop.universe.republish.withStories.modalAria': 'Visatos su visomis istorijomis pakartotinio publikavimo patvirtinimo modalumas',
+    'workshop.universe.republish.withStories.warning': 'Taip iš naujo paskelbiama visata ir visos su ja susijusios istorijos.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Skyriaus ištrynimo patvirtinimo modalinis langas',
-    'workshop.chapter.delete.confirm': 'Ištrinti skyrių',
     'workshop.chapter.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
     'workshop.chapter.delete.button': 'Ištrinti skyrių',
     'workshop.chapter.delete.deleting': 'Ištrinti...',
