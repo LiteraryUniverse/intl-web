@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
-    'workshop.work.makePublic.modalAria': `Bekræftelsesmodal for at lave et {type, select,
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Bekræftelsesmodal for at lave en {type, select,
     universe {univers}
     story {historie}
     other {arbejde}
-  }`,
+  } Offentlig`,
     'workshop.work.makePublic.warning': `Ved at gøre dette {type, select,
     universe {univers}
     story {historie}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Tema hurtig reference',
     'workshop.story.new': 'Opret en ny historie',
     'workshop.story.publishing.notice': 'Historien vil blive offentliggjort automatisk, når du udgiver det første kapitel.',
+    'workshop.story.published.congratulations.title': 'Tillykke med udgivelsen! Din historie er udgivet',
+    'workshop.story.published.congratulations.heading': 'Tillykke med det! Din historie er blevet udgivet',
+    'workshop.story.published.congratulations.description': 'Din skriverejse fortsætter. Din historie er nu klar til at blive opdaget og nydt af læserne.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Gå til siden med historien',
+    'workshop.story.published.congratulations.imageAlt': 'Fejringsillustration til udgivet historie',
     'workshop.settings.edit': 'Rediger indstillinger',
     'workshop.story.publishedOn': 'Denne historie blev udgivet den {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Historieindstillinger',
