@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Αποτροπή δημοσίευσης',
     'workshop.story.preventPublishingTooltip': 'Όταν είναι ενεργοποιημένη, αυτή η ιστορία δεν μπορεί να δημοσιευτεί. Αυτό είναι χρήσιμο για ιστορίες που βρίσκονται ακόμα σε εξέλιξη ή για ιστορίες που προορίζονται μόνο για ιδιωτική χρήση.',
     'workshop.story.preventPublishingTooltipUniverse': 'Η δημοσίευση αποτρέπεται επειδή το σύμπαν έχει ενεργοποιήσει τη ρύθμιση αποτροπής δημοσίευσης.',
+    'workshop.story.showChapterNumbersInListing': 'Εμφάνιση αριθμών κεφαλαίων στην λίστα κεφαλαίων',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Όταν είναι ενεργοποιημένη, οι αριθμοί κεφαλαίων είναι ορατοί στους αναγνώστες στις λίστες κεφαλαίων της ιστορίας.',
     'workshop.revisions.new.public.disabled': 'Δεν είναι δυνατή η δημοσίευση ενώ η αποτροπή δημοσίευσης είναι ενεργοποιημένη στις ρυθμίσεις της ιστορίας.',
     'workshop.publishing.restricted': 'Λόγω παραβίασης της καλής συμπεριφοράς, απενεργοποιήσαμε τη δυνατότητά σας να δημοσιεύετε.',
     'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης',
