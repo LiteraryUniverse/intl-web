@@ -79,14 +79,14 @@ export default {
   } خاص إلى إزالته من الاكتشاف والبحث العام.`,
     'workshop.work.makePublic.button': `اصنع {type, select,
     universe {الكون}
-    story {~ القصة}
+    story {القصة}
     other {العمل}
-  } ~`,
+  } ~ الجمهور`,
     'workshop.work.makePublic.modalAria': `مشروطية التأكيد لصنع {type, select,
     universe {الكون}
     story {القصة}
     other {العمل}
-  } ~`,
+  } عام`,
     'workshop.work.makePublic.warning': `إن جعل هذا {type, select,
     universe {الكون}
     story {~ القصة}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 مرجع سريع للموضوعات',
     'workshop.story.new': 'إنشاء قصة جديدة',
     'workshop.story.publishing.notice': 'سيتم نشر القصة تلقائيًا عند نشر الفصل الأول.',
+    'workshop.story.published.congratulations.title': 'تهانينا! تم نشر قصتك',
+    'workshop.story.published.congratulations.heading': 'تهانينا! لقد تم نشر قصتك',
+    'workshop.story.published.congratulations.description': 'تستمر رحلتك في الكتابة. قصتك جاهزة الآن ليكتشفها القراء ويستمتعوا بها.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'انتقل إلى صفحة القصة',
+    'workshop.story.published.congratulations.imageAlt': 'رسم توضيحي للاحتفال بالقصة المنشورة',
     'workshop.settings.edit': 'تعديل الإعدادات',
     'workshop.story.publishedOn': 'تم نشر هذه القصة في {date, date, long} {date, time, short}',
     'workshop.story.settings': 'إعدادات القصة',
