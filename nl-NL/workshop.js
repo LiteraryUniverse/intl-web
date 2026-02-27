@@ -81,12 +81,12 @@ export default {
     universe {Universum}
     story {Verhaal}
     other {Werk}
-  }`,
+  } Publiek`,
     'workshop.work.makePublic.modalAria': `Bevestigingsmodal voor het maken van een {type, select,
     universe {universum}
     story {verhaal}
     other {werk}
-  }`,
+  } Openbaar`,
     'workshop.work.makePublic.warning': `Door dit {type, select,
     universe {universum}
     story {verhaal}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': 'Thema Snelle referentie',
     'workshop.story.new': 'Maak een nieuw verhaal',
     'workshop.story.publishing.notice': 'Het verhaal wordt automatisch gepubliceerd zodra je het eerste hoofdstuk publiceert.',
+    'workshop.story.published.congratulations.title': 'Gefeliciteerd! Uw verhaal is gepubliceerd',
+    'workshop.story.published.congratulations.heading': 'Gefeliciteerd! Uw verhaal is gepubliceerd',
+    'workshop.story.published.congratulations.description': 'Uw schrijfreis gaat verder. Uw verhaal is nu klaar om ontdekt en gelezen te worden.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Ga naar de verhaalpagina',
+    'workshop.story.published.congratulations.imageAlt': 'Viering illustratie voor gepubliceerd verhaal',
     'workshop.settings.edit': 'Bewerk instellingen',
     'workshop.story.publishedOn': 'Dit verhaal is gepubliceerd op {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Verhaalinstellingen',
