@@ -81,12 +81,12 @@ export default {
     universe {Vesmír}
     story {Příběh}
     other {Práce}
-  }.`,
-    'workshop.work.makePublic.modalAria': `Potvrzovací modalita pro vytvoření {type, select,
-    universe {vesmíru}
-    story {příběhu}
+  } Veřejnost`,
+    'workshop.work.makePublic.modalAria': `Potvrzovací modalita pro tvorbu {type, select,
+    universe {vesmír}
+    story {příběh}
     other {práce}
-  }.`,
+  } veřejnost`,
     'workshop.work.makePublic.warning': `Zveřejněním tohoto {type, select,
     universe {vesmíru}
     story {příběhu}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Stručný přehled témat',
     'workshop.story.new': 'Vytvořit nový příběh',
     'workshop.story.publishing.notice': 'Příběh bude zveřejněn automaticky, jakmile zveřejníte první kapitolu.',
+    'workshop.story.published.congratulations.title': 'Gratulujeme! Váš příběh je zveřejněn',
+    'workshop.story.published.congratulations.heading': 'Gratulujeme! Váš příběh byl zveřejněn',
+    'workshop.story.published.congratulations.description': 'Vaše cesta za psaním pokračuje. Váš příběh je nyní připraven k tomu, aby ho čtenáři objevili a užili si ho.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Přejít na stránku s příběhem',
+    'workshop.story.published.congratulations.imageAlt': 'Oslavná ilustrace k publikovanému příběhu',
     'workshop.settings.edit': 'Upravit nastavení',
     'workshop.story.publishedOn': 'Tento příběh byl publikován {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Nastavení příběhu',
