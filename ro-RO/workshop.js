@@ -77,16 +77,16 @@ export default {
     story {poveste}
     other {lucrare}
   } privat, acesta nu va mai putea fi descoperit și căutat de către public.`,
-    'workshop.work.makePublic.button': `Fă {type, select,
-    universe {Univers}
-    story {Poveste}
-    other {Muncă}
-  }`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
     'workshop.work.makePublic.modalAria': `Mod de confirmare pentru realizarea unui {type, select,
     universe {univers}
     story {poveste}
     other {muncă}
-  }`,
+  } Public`,
     'workshop.work.makePublic.warning': `A face acest {type, select,
     universe {univers}
     story {poveste}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Referință rapidă Thema',
     'workshop.story.new': 'Creează o poveste nouă',
     'workshop.story.publishing.notice': 'Povestea va fi publicată automat odată ce publici primul capitol.',
+    'workshop.story.published.congratulations.title': 'Felicitări! Povestea ta este publicată',
+    'workshop.story.published.congratulations.heading': 'Felicitări! Povestea ta a fost publicată',
+    'workshop.story.published.congratulations.description': 'Călătoria dvs. de scriere continuă. Povestea ta este acum gata să fie descoperită și apreciată de cititori.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Du-te la pagina de poveste',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustrație de sărbătoare pentru o poveste publicată',
     'workshop.settings.edit': 'Editează setările',
     'workshop.story.publishedOn': 'Această poveste a fost publicată pe {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Setări poveste',
