@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Prevent publishing',
     'workshop.story.preventPublishingTooltip': 'When enabled, this story cannot be published. This is useful for stories that are still in development or for stories that are meant for private use only.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publishing is prevented because the universe has the prevent publishing setting enabled.',
+    'workshop.story.showChapterNumbersInListing': 'แสดงหมายเลขบทในรายการบท',
+    'workshop.story.showChapterNumbersInListingTooltip': 'เมื่อเปิดใช้งานแล้ว หมายเลขบทจะปรากฏให้ผู้อ่านเห็นในรายการบทของเรื่อง',
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
