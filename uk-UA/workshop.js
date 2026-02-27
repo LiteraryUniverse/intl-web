@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Заборонити публікацію',
     'workshop.story.preventPublishingTooltip': 'Якщо увімкнено, цю історію не можна буде опублікувати. Це корисно для історій, які все ще перебувають на стадії розробки, або для історій, призначених лише для приватного використання.',
     'workshop.story.preventPublishingTooltipUniverse': 'Публікацію заборонено, оскільки у всесвіті увімкнено параметр заборони публікації.',
+    'workshop.story.showChapterNumbersInListing': 'Показувати номери розділів у списку розділів',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Якщо увімкнено, читачі бачитимуть номери розділів у списках розділів історії.',
     'workshop.revisions.new.public.disabled': 'Неможливо опублікувати, якщо в налаштуваннях історії увімкнено заборону на публікацію.',
     'workshop.publishing.restricted': 'Через порушення правил поведінки ми заблокували вашу можливість публікувати.',
     'workshop.story.buyingSettings': 'Налаштування продажу',
