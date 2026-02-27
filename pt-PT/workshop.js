@@ -77,16 +77,16 @@ export default {
     story {história}
     other {trabalho}
   } privado irá removê-lo da descoberta e pesquisa públicas.`,
-    'workshop.work.makePublic.button': `Faça {type, select,
+    'workshop.work.makePublic.button': `Criar {type, select,
     universe {Universo}
     story {História}
     other {Trabalho}
-  }`,
-    'workshop.work.makePublic.modalAria': `Confirmação modal para fazer um {type, select,
+  } Público`,
+    'workshop.work.makePublic.modalAria': `Modal de confirmação para criar um {type, select,
     universe {universo}
     story {história}
     other {trabalho}
-  }`,
+  } Público`,
     'workshop.work.makePublic.warning': `Tornar este {type, select,
     universe {universo}
     story {história}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Referência rápida do tema',
     'workshop.story.new': 'Crie uma nova história',
     'workshop.story.publishing.notice': 'A história será publicada automaticamente uma vez publicado o primeiro capítulo.',
+    'workshop.story.published.congratulations.title': 'A sua história foi publicada. A sua história foi publicada',
+    'workshop.story.published.congratulations.heading': 'Parabéns! A sua história foi publicada',
+    'workshop.story.published.congratulations.description': 'A sua viagem de escrita continua. A sua história está agora pronta para ser descoberta e apreciada pelos leitores.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Ir para a página da história',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustração de celebração para uma história publicada',
     'workshop.settings.edit': 'Editar definições',
     'workshop.story.publishedOn': 'Esta história foi publicada em {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Definições de histórias',
