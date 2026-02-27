@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Verhindern Sie die Veröffentlichung',
     'workshop.story.preventPublishingTooltip': 'Wenn diese Option aktiviert ist, kann diese Story nicht veröffentlicht werden. Dies ist nützlich für Artikel, die sich noch in der Entwicklung befinden, oder für Artikel, die nur für den privaten Gebrauch bestimmt sind.',
     'workshop.story.preventPublishingTooltipUniverse': 'Die Veröffentlichung wird verhindert, weil im Universum die Einstellung Veröffentlichung verhindern aktiviert ist.',
+    'workshop.story.showChapterNumbersInListing': 'Kapitelnummern in der Kapitelliste anzeigen',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Wenn diese Option aktiviert ist, sind die Kapitelnummern in den Kapitellisten der Geschichten für die Leser sichtbar.',
     'workshop.revisions.new.public.disabled': 'Die Veröffentlichung kann nicht erfolgen, wenn die Option Veröffentlichung verhindern in den Story-Einstellungen aktiviert ist.',
     'workshop.publishing.restricted': 'Aufgrund eines Verstoßes gegen die Regeln des guten Benehmens haben wir Ihre Fähigkeit zu veröffentlichen deaktiviert.',
     'workshop.story.buyingSettings': 'Verkauf Einstellungen',
