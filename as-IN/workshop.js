@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.modalAria': `Confirmation modal for making a {type, select,
     universe {universe}
     story {story}
     other {work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.warning': `Making this {type, select,
     universe {universe}
     story {story}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Quick Reference',
     'workshop.story.new': 'নতুন গল্প তৈৰি কৰক',
     'workshop.story.publishing.notice': 'প্ৰথম অধ্যায় প্ৰকাশ কৰিলে গল্পটি স্বয়ংক্ৰিয়ভাৱে প্ৰকাশ হ\'ব।',
+    'workshop.story.published.congratulations.title': 'Congratulations! Your story is published',
+    'workshop.story.published.congratulations.heading': 'Congratulations! Your story has been published',
+    'workshop.story.published.congratulations.description': 'Your writing journey continues. Your story is now ready to be discovered and enjoyed by readers.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Go to story page',
+    'workshop.story.published.congratulations.imageAlt': 'Celebration illustration for published story',
     'workshop.settings.edit': 'ছেটিংছ সম্পাদনা কৰক',
     'workshop.story.publishedOn': 'এই গল্পটো প্ৰকাশ কৰা হৈছে {date, date, long} {date, time, short}',
     'workshop.story.settings': 'গল্পৰ ছেটিংছসমূহ',
