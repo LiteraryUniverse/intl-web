@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Impedir a publicação',
     'workshop.story.preventPublishingTooltip': 'Quando activada, esta história não pode ser publicada. Isto é útil para histórias que ainda estão a ser desenvolvidas ou para histórias que se destinam apenas a uso privado.',
     'workshop.story.preventPublishingTooltipUniverse': 'A publicação é impedida porque o universo tem a definição impedir publicação activada.',
+    'workshop.story.showChapterNumbersInListing': 'Mostrar os números dos capítulos na listagem de capítulos',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Quando ativado, os números dos capítulos são visíveis para os leitores nas listas de capítulos de histórias.',
     'workshop.revisions.new.public.disabled': 'Não é possível publicar enquanto a opção impedir publicação estiver activada nas definições da história.',
     'workshop.publishing.restricted': 'Devido a uma violação de boa conduta, desactivámos a sua capacidade de publicar.',
     'workshop.story.buyingSettings': 'Definições de venda',
