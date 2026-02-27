@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.modalAria': `Megerősítés modális, hogy egy {type, select,
     universe {univerzum}
     story {történet}
     other {munka}
-  }`,
+  } Nyilvános`,
     'workshop.work.makePublic.warning': `Ha ezt a {type, select,
     universe {univerzumot}
     story {történetet}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Téma gyorsreferencia',
     'workshop.story.new': 'Új történet létrehozása',
     'workshop.story.publishing.notice': 'A történet automatikusan közzé lesz téve, amint közzéteszed az első fejezetet.',
+    'workshop.story.published.congratulations.title': 'Gratulálunk! A történeted megjelent',
+    'workshop.story.published.congratulations.heading': 'Gratulálunk! Történeted megjelent',
+    'workshop.story.published.congratulations.description': 'Az írói utazásod folytatódik. Történeted most már készen áll arra, hogy az olvasók felfedezzék és élvezzék.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Tovább a történet oldalra',
+    'workshop.story.published.congratulations.imageAlt': 'Ünnepi illusztráció a megjelent történethez',
     'workshop.settings.edit': 'Beállítások szerkesztése',
     'workshop.story.publishedOn': 'Ez a történet megjelent a következő helyen: {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Történet beállítások',
