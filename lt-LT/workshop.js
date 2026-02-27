@@ -81,12 +81,12 @@ export default {
     universe {Visata}
     story {Istorija}
     other {Darbas}
-  }`,
+  } Viešasis`,
     'workshop.work.makePublic.modalAria': `Patvirtinimo modalumas kuriant {type, select,
     universe {visatą}
     story {istoriją}
     other {darbą}
-  }.`,
+  } viešą`,
     'workshop.work.makePublic.warning': `Padarius šią {type, select,
     universe {visatą}
     story {istoriją}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Temos greitoji nuoroda',
     'workshop.story.new': 'Sukurti naują istoriją',
     'workshop.story.publishing.notice': 'Istorija bus automatiškai publikuota, kai paskelbsite pirmąjį skyrių.',
+    'workshop.story.published.congratulations.title': 'Sveikiname! Jūsų istorija paskelbta',
+    'workshop.story.published.congratulations.heading': 'Sveikiname! Jūsų istorija paskelbta',
+    'workshop.story.published.congratulations.description': 'Tavo rašymo kelionė tęsiasi. Dabar jūsų istorija jau yra paruošta, kad ją atrastų ir ja mėgautųsi skaitytojai.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Eiti į istorijos puslapį',
+    'workshop.story.published.congratulations.imageAlt': 'Šventės iliustracija publikuotai istorijai',
     'workshop.settings.edit': 'Redaguoti nustatymus',
     'workshop.story.publishedOn': 'Ši istorija buvo išleista {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Istorijos nustatymai',
