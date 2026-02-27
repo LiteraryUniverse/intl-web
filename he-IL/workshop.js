@@ -81,12 +81,12 @@ export default {
     universe {יקום}
     story {סיפור}
     other {עבודה}
-  }`,
+  } ציבורי`,
     'workshop.work.makePublic.modalAria': `מודל אישור ליצירת {type, select,
     universe {universe}
     story {story}
     other {work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.warning': `פרסום {type, select,
     universe {universe}
     story {story}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 התייחסות מהירה לנושא',
     'workshop.story.new': 'צור סיפור חדש',
     'workshop.story.publishing.notice': 'הסיפור יפורסם אוטומטית ברגע שתפרסמו את הפרק הראשון.',
+    'workshop.story.published.congratulations.title': 'מזל טוב! הסיפור שלך פורסם',
+    'workshop.story.published.congratulations.heading': 'מזל טוב! הסיפור שלך פורסם',
+    'workshop.story.published.congratulations.description': 'מסע הכתיבה שלך נמשך. הסיפור שלך מוכן כעת להיחשף ולקריאה מהנה על ידי הקוראים.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'עבור לדף הסיפור',
+    'workshop.story.published.congratulations.imageAlt': 'איור חגיגי לסיפור שפורסם',
     'workshop.settings.edit': 'עריכת הגדרות',
     'workshop.story.publishedOn': 'הסיפור הזה פורסם ב- {date, date, long} {date, time, short}',
     'workshop.story.settings': 'הגדרות הסיפור',
