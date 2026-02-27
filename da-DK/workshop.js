@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Forhindre udgivelse',
     'workshop.story.preventPublishingTooltip': 'Når det er aktiveret, kan denne historie ikke udgives. Dette er nyttigt for historier, der stadig er under udvikling, eller for historier, der kun er beregnet til privat brug.',
     'workshop.story.preventPublishingTooltipUniverse': 'Udgivelse er forhindret, fordi universet har indstillingen forhindre udgivelse aktiveret.',
+    'workshop.story.showChapterNumbersInListing': 'Vis kapitelnumre i kapiteloversigten',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Når det er aktiveret, er kapitelnumre synlige for læserne i historiens kapiteloversigter.',
     'workshop.revisions.new.public.disabled': 'Kan ikke udgive, mens forhindring af udgivelse er aktiveret i historieindstillingerne.',
     'workshop.publishing.restricted': 'På grund af brud på god opførsel har vi deaktiveret din mulighed for at publicere.',
     'workshop.story.buyingSettings': 'Indstillinger for salg',
