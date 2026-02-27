@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
-    'workshop.work.makePublic.modalAria': `Επιβεβαίωση modal για την κατασκευή ενός {type, select,
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Επιβεβαίωση modal για τη δημιουργία ενός {type, select,
     universe {σύμπαν}
     story {ιστορία}
     other {έργο}
-  }`,
+  } Δημόσιο`,
     'workshop.work.makePublic.warning': `Η δημοσιοποίηση αυτού του {type, select,
     universe {σύμπαντος}
     story {ιστορίας}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Θέμα Γρήγορη αναφορά',
     'workshop.story.new': 'Δημιουργία νέας ιστορίας',
     'workshop.story.publishing.notice': 'Η ιστορία θα δημοσιευθεί αυτόματα μόλις δημοσιεύσετε το πρώτο κεφάλαιο.',
+    'workshop.story.published.congratulations.title': 'Συγχαρητήρια! Η ιστορία σας δημοσιεύεται',
+    'workshop.story.published.congratulations.heading': 'Συγχαρητήρια! Η ιστορία σας έχει δημοσιευτεί',
+    'workshop.story.published.congratulations.description': 'Το συγγραφικό σας ταξίδι συνεχίζεται. Η ιστορία σας είναι τώρα έτοιμη να ανακαλυφθεί και να την απολαύσουν οι αναγνώστες.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Πηγαίνετε στη σελίδα της ιστορίας',
+    'workshop.story.published.congratulations.imageAlt': 'Εικονογράφηση εορτασμού για δημοσιευμένη ιστορία',
     'workshop.settings.edit': 'Επεξεργασία ρυθμίσεων',
     'workshop.story.publishedOn': 'Αυτή η ιστορία δημοσιεύτηκε στις {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Ρυθμίσεις ιστορίας',
