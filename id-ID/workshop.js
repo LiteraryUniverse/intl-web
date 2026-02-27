@@ -81,12 +81,12 @@ export default {
     universe {Semesta}
     story {Cerita}
     other {Karya}
-  }`,
+  } Publik`,
     'workshop.work.makePublic.modalAria': `Modal konfirmasi untuk membuat {type, select,
     universe {alam semesta}
     story {cerita}
-    other {pekerjaan}
-  }`,
+    other {karya}
+  } Publik`,
     'workshop.work.makePublic.warning': `Menjadikan {type, select,
     universe {alam semesta}
     story {cerita}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Referensi Cepat Tema',
     'workshop.story.new': 'Buat cerita baru',
     'workshop.story.publishing.notice': 'Cerita akan dipublikasikan secara otomatis setelah Anda mempublikasikan bab pertama.',
+    'workshop.story.published.congratulations.title': 'Selamat! Cerita Anda telah diterbitkan',
+    'workshop.story.published.congratulations.heading': 'Selamat! Cerita Anda telah diterbitkan',
+    'workshop.story.published.congratulations.description': 'Perjalanan menulis Anda terus berlanjut. Cerita Anda sekarang siap untuk ditemukan dan dinikmati oleh para pembaca.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Pergi ke halaman cerita',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustrasi perayaan untuk cerita yang diterbitkan',
     'workshop.settings.edit': 'Edit pengaturan',
     'workshop.story.publishedOn': 'Cerita ini telah diterbitkan pada {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Pengaturan cerita',
