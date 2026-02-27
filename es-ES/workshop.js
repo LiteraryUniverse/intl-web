@@ -81,12 +81,12 @@ export default {
     universe {Universo}
     story {Historia}
     other {Trabajo}
-  }`,
+  } Público`,
     'workshop.work.makePublic.modalAria': `Modalidad de confirmación para hacer un {type, select,
     universe {universo}
     story {historia}
     other {trabajo}
-  }`,
+  } Público`,
     'workshop.work.makePublic.warning': `Hacer pública esta {type, select,
     universe {universo}
     story {historia}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Referencia rápida del tema',
     'workshop.story.new': 'Crear una nueva historia',
     'workshop.story.publishing.notice': 'La historia se publicará de manera automática una vez hayas publicado el primer capítulo.',
+    'workshop.story.published.congratulations.title': '¡Enhorabuena! Su historia ha sido publicada',
+    'workshop.story.published.congratulations.heading': '¡Enhorabuena! Su historia ha sido publicada',
+    'workshop.story.published.congratulations.description': 'Su viaje de escritura continúa. Su historia ya está lista para ser descubierta y disfrutada por los lectores.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Ir a la página de la historia',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustración de celebración para una historia publicada',
     'workshop.settings.edit': 'Editar ajustes',
     'workshop.story.publishedOn': 'Esta historia se publicó el {date, date, long} a las {date, time, short}',
     'workshop.story.settings': 'Ajustes de la historia',
