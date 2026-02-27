@@ -81,12 +81,12 @@ export default {
     universe {宇宙}
     story {故事}
     other {工作}
-  }`,
+  } 公眾`,
     'workshop.work.makePublic.modalAria': `製作 {type, select,
     universe {宇宙}
     story {故事}
     other {作品}
-  } 的確認模組。`,
+  } 公眾的確認模組`,
     'workshop.work.makePublic.warning': `將這個 {type, select,
     universe {宇宙}
     story {故事}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema 快速參考',
     'workshop.story.new': '創建一個新故事',
     'workshop.story.publishing.notice': '一旦您發布第一章，故事將自動發布。',
+    'workshop.story.published.congratulations.title': '恭喜您您的故事發表了',
+    'workshop.story.published.congratulations.heading': '恭喜您您的故事已經發表',
+    'workshop.story.published.congratulations.description': '您的寫作之旅仍在繼續。您的故事已經準備好被讀者發掘和欣賞。',
+    'workshop.story.published.congratulations.publicStoryBtn': '前往故事頁面',
+    'workshop.story.published.congratulations.imageAlt': '出版故事的慶祝插圖',
     'workshop.settings.edit': '編輯設置',
     'workshop.story.publishedOn': '這個故事已經在 {date, date, long} {date, time, short}上發布',
     'workshop.story.settings': '故事設置',
