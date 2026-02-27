@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Zapobieganie publikowaniu',
     'workshop.story.preventPublishingTooltip': 'Gdy ta opcja jest włączona, ta historia nie może zostać opublikowana. Jest to przydatne w przypadku historii, które są nadal w fazie rozwoju lub historii przeznaczonych wyłącznie do użytku prywatnego.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publikacja jest uniemożliwiona, ponieważ wszechświat ma włączone ustawienie uniemożliwiania publikacji.',
+    'workshop.story.showChapterNumbersInListing': 'Wyświetlanie numerów rozdziałów na liście rozdziałów',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Gdy opcja ta jest włączona, numery rozdziałów są widoczne dla czytelników na listach rozdziałów historii.',
     'workshop.revisions.new.public.disabled': 'Nie można opublikować, gdy w ustawieniach fabuły włączona jest funkcja zapobiegania publikowaniu.',
     'workshop.publishing.restricted': 'Ze względu na naruszenie zasad dobrego zachowania zablokowaliśmy możliwość publikowania przez Pana/Panią.',
     'workshop.story.buyingSettings': 'Ustawienia sprzedaży',
