@@ -77,16 +77,16 @@ export default {
     story {스토리}
     other {워크}
   } 비공개로 설정하면 공개 검색 및 검색에서 삭제됩니다.`,
-    'workshop.work.makePublic.button': `메이크 {type, select,
+    'workshop.work.makePublic.button': `만들기 {type, select,
     universe {유니버스}
     story {스토리}
-    other {워크}
-  }`,
+    other {작업}
+  } 공개`,
     'workshop.work.makePublic.modalAria': `{type, select,
     universe {우주}
-    story {이야기}
-    other {일}
-  } 만들기 위한 확인 모달입니다.`,
+    story {스토리}
+    other {작업}
+  } 공개를 만들기 위한 확인 모달`,
     'workshop.work.makePublic.warning': `이것을 {type, select,
     universe {유니버스}
     story {스토리}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 테마 빠른 참조',
     'workshop.story.new': '새 이야기 만들기',
     'workshop.story.publishing.notice': '첫 번째 챕터를 게시하면 이야기가 자동으로 게시됩니다.',
+    'workshop.story.published.congratulations.title': '축하합니다! 스토리가 게시되었습니다.',
+    'workshop.story.published.congratulations.heading': '축하합니다! 스토리가 게시되었습니다.',
+    'workshop.story.published.congratulations.description': '글쓰기 여정은 계속됩니다. 이제 여러분의 스토리를 독자들이 발견하고 즐길 준비가 되었습니다.',
+    'workshop.story.published.congratulations.publicStoryBtn': '스토리 페이지로 이동',
+    'workshop.story.published.congratulations.imageAlt': '게시된 스토리를 위한 축하 일러스트',
     'workshop.settings.edit': '설정 편집',
     'workshop.story.publishedOn': '이 작품은 {date, date, long} 에 게시되었습니다. {date, time, short}',
     'workshop.story.settings': '이야기 설정',
