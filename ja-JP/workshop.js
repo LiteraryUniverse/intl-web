@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.modalAria': `Confirmation modal for making a {type, select,
     universe {universe}
     story {story}
     other {work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.warning': `この {type, select,
     universe {宇宙}
     story {物語}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 テーマ・クイックリファレンス',
     'workshop.story.new': '新しい物語を作る',
     'workshop.story.publishing.notice': '第一章を発行すると、物語は自動的に公開されます。',
+    'workshop.story.published.congratulations.title': 'おめでとうあなたの物語が出版されました',
+    'workshop.story.published.congratulations.heading': 'おめでとうございます！あなたの記事が掲載されました',
+    'workshop.story.published.congratulations.description': 'あなたの執筆の旅は続きます。あなたの物語が読者に発見され、楽しんでもらえる準備が整いました。',
+    'workshop.story.published.congratulations.publicStoryBtn': 'ストーリーページへ',
+    'workshop.story.published.congratulations.imageAlt': '出版記念イラスト',
     'workshop.settings.edit': '編集設定',
     'workshop.story.publishedOn': 'この物語は{date, date,long} {date, time,short}に公開されました。',
     'workshop.story.settings': '物語の設定',
