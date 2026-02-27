@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Mencegah penerbitan',
     'workshop.story.preventPublishingTooltip': 'Ketika diaktifkan, cerita ini tidak dapat dipublikasikan. Ini berguna untuk cerita yang masih dalam pengembangan atau untuk cerita yang dimaksudkan hanya untuk penggunaan pribadi.',
     'workshop.story.preventPublishingTooltipUniverse': 'Penerbitan dicegah karena alam semesta mengaktifkan pengaturan cegah penerbitan.',
+    'workshop.story.showChapterNumbersInListing': 'Menampilkan nomor bab dalam daftar bab',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Apabila diaktifkan, nomor bab akan terlihat oleh pembaca dalam daftar bab cerita.',
     'workshop.revisions.new.public.disabled': 'Tidak dapat menerbitkan saat mencegah penerbitan diaktifkan di pengaturan cerita.',
     'workshop.publishing.restricted': 'Karena pelanggaran tata tertib, kami telah menonaktifkan kemampuan Anda untuk mempublikasikan.',
     'workshop.story.buyingSettings': 'Pengaturan penjualan',
