@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Avaldamise vältimine',
     'workshop.story.preventPublishingTooltip': 'Kui see on lubatud, ei saa seda lugu avaldada. See on kasulik lugude puhul, mis on veel väljatöötamisel või lugude puhul, mis on mõeldud ainult isiklikuks kasutamiseks.',
     'workshop.story.preventPublishingTooltipUniverse': 'Avaldamine on takistatud, sest universumis on lubatud säte "Avaldamise takistamine".',
+    'workshop.story.showChapterNumbersInListing': 'Näita peatükkide numbreid peatükkide loetelus',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Kui see on lubatud, on peatükkide numbrid lugejatele nähtavad loo peatükkide loetelus.',
     'workshop.revisions.new.public.disabled': 'Ei saa avaldada, kui loo seadetes on lubatud avaldamise vältimine.',
     'workshop.publishing.restricted': 'Hea käitumise rikkumise tõttu oleme keelanud teie avaldamisvõimaluse.',
     'workshop.story.buyingSettings': 'Müügi seaded',
