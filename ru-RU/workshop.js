@@ -442,6 +442,8 @@ export default {
     'workshop.story.preventPublishing': 'Предотвращение публикации',
     'workshop.story.preventPublishingTooltip': 'Если этот патаметр включён, эта история не может быть опубликована. Полезно для историй, которые всё ещё находятся в разработке, или для историй, предназначенных только для частного использования.',
     'workshop.story.preventPublishingTooltipUniverse': 'Публикация запрещена, потому что во вселенной включена настройка предотвращения публикации.',
+    'workshop.story.showChapterNumbersInListing': 'Показывайте номера глав в списке глав',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Если эта функция включена, номера глав будут видны читателям в списках глав рассказа.',
     'workshop.revisions.new.public.disabled': 'Невозможно опубликовать, если в настройках истории включена функция предотвращения публикации.',
     'workshop.publishing.restricted': 'В связи с нарушением правил поведения мы лишили вас возможности публиковать.',
     'workshop.story.buyingSettings': 'Настройки продажи',
