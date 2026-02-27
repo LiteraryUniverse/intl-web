@@ -81,12 +81,12 @@ export default {
     universe {Universum}
     story {Story}
     other {Work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.modalAria': `Kinnitusmodaali tegemiseks {type, select,
     universe {universum}
     story {lugu}
     other {töö}
-  }`,
+  } avalikkus`,
     'workshop.work.makePublic.warning': `Selle {type, select,
     universe {universumi}
     story {loo}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Teema kiirviide',
     'workshop.story.new': 'Loo loomine',
     'workshop.story.publishing.notice': 'Lugu avaldatakse automaatselt pärast esimese peatüki avaldamist.',
+    'workshop.story.published.congratulations.title': 'Palju õnne! Teie lugu on avaldatud',
+    'workshop.story.published.congratulations.heading': 'Palju õnne! Teie lugu on avaldatud',
+    'workshop.story.published.congratulations.description': 'Teie kirjutamise teekond jätkub. Teie lugu on nüüd valmis selleks, et lugejad seda avastaksid ja naudiksid.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Mine loo leheküljele',
+    'workshop.story.published.congratulations.imageAlt': 'Pidulik illustratsioon avaldatud loo jaoks',
     'workshop.settings.edit': 'Seadete muutmine',
     'workshop.story.publishedOn': 'See lugu on avaldatud {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Loo seaded',
