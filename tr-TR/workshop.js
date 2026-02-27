@@ -77,16 +77,16 @@ export default {
     story {hikaye}
     other {iş}
   } özel yapmak, onu genel keşif ve aramadan kaldıracaktır.`,
-    'workshop.work.makePublic.button': `Yap {type, select,
-    universe {Evren}
-    story {Hikaye}
-    other {İş}
-  }`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
     'workshop.work.makePublic.modalAria': `Bir {type, select,
     universe {evren}
     story {hikaye}
     other {iş}
-  } yapmak için onaylama modu`,
+  } Kamu yapmak için onay modu`,
     'workshop.work.makePublic.warning': `Bu {type, select,
     universe {evreni}
     story {hikayeyi}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Hızlı Referans',
     'workshop.story.new': 'Yeni bir hikaye oluştur',
     'workshop.story.publishing.notice': 'İlk bölümü yayınladığınızda hikaye otomatik olarak yayınlanacaktır.',
+    'workshop.story.published.congratulations.title': 'Tebrikler! Hikayeniz yayınlandı',
+    'workshop.story.published.congratulations.heading': 'Tebrikler! Hikayeniz yayınlandı',
+    'workshop.story.published.congratulations.description': 'Yazma yolculuğunuz devam ediyor. Hikayeniz artık okuyucular tarafından keşfedilmeye ve keyifle okunmaya hazır.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Hikaye sayfasına git',
+    'workshop.story.published.congratulations.imageAlt': 'Yayınlanan hikaye için kutlama illüstrasyonu',
     'workshop.settings.edit': 'Ayarları düzenle',
     'workshop.story.publishedOn': 'Bu hikaye {date, date, long} {date, time, short}üzerinde yayınlandı.',
     'workshop.story.settings': 'Hikaye ayarları',
