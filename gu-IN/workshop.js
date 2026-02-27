@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.modalAria': `Confirmation modal for making a {type, select,
     universe {universe}
     story {story}
     other {work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.warning': `Making this {type, select,
     universe {universe}
     story {story}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Quick Reference',
     'workshop.story.new': 'નવી કથા બનાવો',
     'workshop.story.publishing.notice': 'પ્રથમ અધ્યાય પ્રકાશિત કર્યા પછી કથા આપોઆપ પ્રકાશિત થશે.',
+    'workshop.story.published.congratulations.title': 'Congratulations! Your story is published',
+    'workshop.story.published.congratulations.heading': 'Congratulations! Your story has been published',
+    'workshop.story.published.congratulations.description': 'Your writing journey continues. Your story is now ready to be discovered and enjoyed by readers.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Go to story page',
+    'workshop.story.published.congratulations.imageAlt': 'Celebration illustration for published story',
     'workshop.settings.edit': 'સેટિંગ્સ એડિટ કરો',
     'workshop.story.publishedOn': 'આ કથા પ્રકાશિત થયેલ છે પરંતુ {date, date, long} {date, time, short}',
     'workshop.story.settings': 'કથાની સેટિંગ્સ',
