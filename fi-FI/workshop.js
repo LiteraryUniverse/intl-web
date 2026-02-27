@@ -81,12 +81,12 @@ export default {
     universe {Universum}
     story {Story}
     other {Work}
-  }`,
-    'workshop.work.makePublic.modalAria': `Vahvistusmodaalin tekeminen {type, select,
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Vahvistusmodaali, jolla tehdään {type, select,
     universe {maailmankaikkeus}
     story {tarina}
     other {työ}
-  }`,
+  } Julkinen`,
     'workshop.work.makePublic.warning': `Tämän {type, select,
     universe {maailmankaikkeuden}
     story {tarinan}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Aiheen pikaohje',
     'workshop.story.new': 'Luo uusi tarina',
     'workshop.story.publishing.notice': 'Tarina julkaistaan automaattisesti, kun julkaiset ensimmäisen luvun.',
+    'workshop.story.published.congratulations.title': 'Onnittelut! Tarinasi on julkaistu',
+    'workshop.story.published.congratulations.heading': 'Onnittelut! Tarinasi on julkaistu',
+    'workshop.story.published.congratulations.description': 'Kirjoittajan matkasi jatkuu. Tarinasi on nyt valmis lukijoiden löydettäväksi ja nautittavaksi.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Siirry tarinan sivulle',
+    'workshop.story.published.congratulations.imageAlt': 'Julkaistun tarinan juhlakuvitus',
     'workshop.settings.edit': 'Muokkaa asetuksia',
     'workshop.story.publishedOn': 'Tämä tarina on julkaistu {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Tarinan asetukset',
