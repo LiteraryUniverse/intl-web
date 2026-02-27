@@ -81,12 +81,12 @@ export default {
     universe {Вселенная}
     story {История}
     other {Работа}
-  }`,
-    'workshop.work.makePublic.modalAria': `Подтверждающий модал для создания {type, select,
+  } Публика`,
+    'workshop.work.makePublic.modalAria': `Модальное подтверждение для создания {type, select,
     universe {вселенной}
     story {истории}
     other {работы}
-  }`,
+  } публики`,
     'workshop.work.makePublic.warning': `Если сделать эту {type, select,
     universe {вселенную}
     story {историю}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Краткая справка по теме',
     'workshop.story.new': 'Создать новую историю',
     'workshop.story.publishing.notice': 'История будет опубликована автоматически после публикации первой главы.',
+    'workshop.story.published.congratulations.title': 'Поздравляем! Ваша история опубликована',
+    'workshop.story.published.congratulations.heading': 'Поздравляем! Ваша история была опубликована',
+    'workshop.story.published.congratulations.description': 'Ваше писательское путешествие продолжается. Теперь Ваша история готова к тому, чтобы читатели открыли ее и насладились ею.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Перейти на страницу с историей',
+    'workshop.story.published.congratulations.imageAlt': 'Праздничная иллюстрация к опубликованному рассказу',
     'workshop.settings.edit': 'Изменить настройки',
     'workshop.story.publishedOn': 'Эта история была опубликована {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Настройки истории',
