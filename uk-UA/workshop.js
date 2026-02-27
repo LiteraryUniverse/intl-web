@@ -77,16 +77,16 @@ export default {
     story {історією}
     other {твором}
   } приватним, ви вилучите його з публічного відкриття та пошуку.`,
-    'workshop.work.makePublic.button': `Make {type, select,
+    'workshop.work.makePublic.button': `Зробити {type, select,
     universe {Всесвіт}
-    story {Історія}
-    other {Робота}
-  }`,
-    'workshop.work.makePublic.modalAria': `Підтвердження модальності для створення {type, select,
+    story {Історію}
+    other {Твір}
+  } Публічним`,
+    'workshop.work.makePublic.modalAria': `Підтвердження модальності створення {type, select,
     universe {всесвіту}
     story {історії}
     other {твору}
-  }`,
+  } Публікація`,
     'workshop.work.makePublic.warning': `Оприлюднення цього {type, select,
     universe {всесвіту}
     story {історії}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Короткий довідник по темі',
     'workshop.story.new': 'Створити нову історію',
     'workshop.story.publishing.notice': 'Історія опублікується автоматично, як тільки ви опублікуєте перший розділ.',
+    'workshop.story.published.congratulations.title': 'Вітаємо! Ваша історія опублікована',
+    'workshop.story.published.congratulations.heading': 'Вітаємо! Ваша історія опублікована',
+    'workshop.story.published.congratulations.description': 'Ваша письменницька подорож триває. Ваша історія вже готова до того, щоб читачі могли її відкрити і насолодитися нею.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Перейти на сторінку історії',
+    'workshop.story.published.congratulations.imageAlt': 'Святкова ілюстрація до опублікованої історії',
     'workshop.settings.edit': 'Змінити налаштування',
     'workshop.story.publishedOn': 'Ця історія опублікована {date, date, long} о {date, time, short}',
     'workshop.story.settings': 'Налаштування історії',
