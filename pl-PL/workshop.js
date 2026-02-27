@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
+  } Public`,
     'workshop.work.makePublic.modalAria': `Potwierdzenie modalne dla tworzenia {type, select,
-    universe {wszechświata}
-    story {historii}
-    other {pracy}
-  }`,
+    universe {wszechświat}
+    story {historia}
+    other {praca}
+  } publiczny`,
     'workshop.work.makePublic.warning': `Upublicznienie tego {type, select,
     universe {wszechświata}
     story {opowiadania}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': 'Skrócona informacja o temacie',
     'workshop.story.new': 'Utwórz nową historię',
     'workshop.story.publishing.notice': 'Opowiadanie zostanie opublikowane automatycznie po opublikowaniu pierwszego rozdziału.',
+    'workshop.story.published.congratulations.title': 'Gratulacje! Pana historia została opublikowana',
+    'workshop.story.published.congratulations.heading': 'Gratulacje! Państwa historia została opublikowana',
+    'workshop.story.published.congratulations.description': 'Pana pisarska podróż trwa. Pana historia jest teraz gotowa do odkrycia przez czytelników.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Proszę przejść do strony historii',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustracja okolicznościowa do opublikowanego opowiadania',
     'workshop.settings.edit': 'Edytuj ustawienia',
     'workshop.story.publishedOn': 'Ta historia została opublikowana w {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Ustawienia opowieści',
