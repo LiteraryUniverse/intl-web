@@ -81,12 +81,12 @@ export default {
     universe {Vũ trụ}
     story {Câu chuyện}
     other {Công việc}
-  }`,
+  } Công khai`,
     'workshop.work.makePublic.modalAria': `Cửa sổ xác nhận để tạo một {type, select,
     universe {vũ trụ}
     story {câu chuyện}
     other {tác phẩm}
-  }`,
+  } Công khai`,
     'workshop.work.makePublic.warning': `Đưa tác phẩm này {type, select,
     universe {vào vũ trụ}
     story {câu chuyện}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Hướng dẫn nhanh về Thema',
     'workshop.story.new': 'Tạo một câu chuyện mới',
     'workshop.story.publishing.notice': 'Câu chuyện sẽ được xuất bản tự động sau khi bạn xuất bản chương đầu tiên.',
+    'workshop.story.published.congratulations.title': 'Chúc mừng! Bài viết của bạn đã được đăng tải.',
+    'workshop.story.published.congratulations.heading': 'Chúc mừng! Câu chuyện của bạn đã được đăng tải.',
+    'workshop.story.published.congratulations.description': 'Hành trình viết lách của bạn tiếp tục. Câu chuyện của bạn giờ đây đã sẵn sàng để được khám phá và thưởng thức bởi độc giả.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Đi đến trang câu chuyện',
+    'workshop.story.published.congratulations.imageAlt': 'Hình minh họa cho câu chuyện đã được xuất bản',
     'workshop.settings.edit': 'Chỉnh sửa cài đặt',
     'workshop.story.publishedOn': 'Truyện này đã được xuất bản vào {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Cài đặt câu chuyện',
