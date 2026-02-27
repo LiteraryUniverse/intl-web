@@ -423,6 +423,8 @@ export default {
     'workshop.story.preventPublishing': 'Förhindra publicering',
     'workshop.story.preventPublishingTooltip': 'När detta är aktiverat kan den här berättelsen inte publiceras. Detta är användbart för berättelser som fortfarande är under utveckling eller för berättelser som endast är avsedda för privat bruk.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publicering förhindras eftersom universum har inställningen förhindra publicering aktiverad.',
+    'workshop.story.showChapterNumbersInListing': 'Visa kapitelnummer i kapitelförteckningen',
+    'workshop.story.showChapterNumbersInListingTooltip': 'När den är aktiverad är kapitelnumren synliga för läsarna i kapitelförteckningarna i berättelsen.',
     'workshop.revisions.new.public.disabled': 'Det går inte att publicera när förhindra publicering är aktiverat i berättelsens inställningar.',
     'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
     'workshop.story.buyingSettings': 'Inställningar för försäljning',
