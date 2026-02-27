@@ -81,12 +81,12 @@ export default {
     universe {Universe}
     story {Story}
     other {Work}
-  }`,
-    'workshop.work.makePublic.modalAria': `Bekräftelse modal för att göra ett {type, select,
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Bekräftelse modal för att göra en {type, select,
     universe {universum}
     story {berättelse}
     other {arbete}
-  }`,
+  } Public`,
     'workshop.work.makePublic.warning': `Genom att göra detta {type, select,
     universe {universum}
     story {berättelse}
@@ -128,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Snabbreferens',
     'workshop.story.new': 'Skapa en ny berättelse',
     'workshop.story.publishing.notice': 'Berättelsen kommer att publiceras automatiskt när du publicerar det första kapitlet.',
+    'workshop.story.published.congratulations.title': 'Gratulerar, gratulerar! Din berättelse är publicerad',
+    'workshop.story.published.congratulations.heading': 'Gratulerar, gratulerar! Din berättelse har publicerats',
+    'workshop.story.published.congratulations.description': 'Din skrivresa fortsätter. Din berättelse är nu redo att upptäckas och avnjutas av läsare.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Gå till berättelsesidan',
+    'workshop.story.published.congratulations.imageAlt': 'Celebrationsillustration för publicerad berättelse',
     'workshop.settings.edit': 'Redigera inställningar',
     'workshop.story.publishedOn': 'Den här berättelsen har publicerats på {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Berättelseinställningar',
