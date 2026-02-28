@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': '라이선스 선택기',
     'licenses.chooser.button': '라이선스 선택을 도와주세요',
+    'licenses.chooser.button.about': '이 라이선스 정보',
     'licenses.chooser.ariaLabel': '작업용 라이선스 선택',
     'licenses.chooser.introduction': '이 도구는 내 작품에 가장 적합한 라이선스를 선택하는 데 도움이 됩니다. 라이선스에 따라 다른 사람이 내 작품을 사용할 수 있는 방법이 결정되며, 문학 세계에서 수익을 창출할 수 있는 능력에도 영향을 줍니다.',
     // License Chooser Wizard Steps
