@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Valg af licens',
     'licenses.chooser.button': 'Hjælp mig med at vælge en licens',
+    'licenses.chooser.button.about': 'Om denne licens',
     'licenses.chooser.ariaLabel': 'Vælg en licens til dit arbejde',
     'licenses.chooser.introduction': 'Dette værktøj hjælper dig med at vælge den mest passende licens til dit værk. Licensen afgør, hvordan andre kan bruge dit værk, og påvirker dine muligheder for at tjene penge på det i Literary Universe.',
     // License Chooser Wizard Steps
