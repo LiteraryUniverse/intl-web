@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Licencválasztó',
     'licenses.chooser.button': 'Segítsen licencet választani',
+    'licenses.chooser.button.about': 'Erről az engedélyről',
     'licenses.chooser.ariaLabel': 'Válasszon licencet a munkájához',
     'licenses.chooser.introduction': 'Ez az eszköz segít kiválasztani a munkájához legmegfelelőbb licencet. A licenc határozza meg, hogy mások hogyan használhatják fel a munkáját, és befolyásolja, hogy Ön hogyan tudja azt pénzzé tenni a Literary Universe-en.',
     // License Chooser Wizard Steps
