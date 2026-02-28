@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Väljare av licens',
     'licenses.chooser.button': 'Hjälp mig att välja licens',
+    'licenses.chooser.button.about': 'Om denna licens',
     'licenses.chooser.ariaLabel': 'Välj en licens för ditt arbete',
     'licenses.chooser.introduction': 'Det här verktyget hjälper dig att välja den lämpligaste licensen för ditt verk. Licensen avgör hur andra får använda ditt verk och påverkar din möjlighet att tjäna pengar på det på Literary Universe.',
     // License Chooser Wizard Steps
