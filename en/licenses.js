@@ -42,6 +42,7 @@ export default {
   // License Chooser Modal
   'licenses.chooser.title': 'License Chooser',
   'licenses.chooser.button': 'Help me choose a license',
+  'licenses.chooser.button.about': 'About this license',
   'licenses.chooser.ariaLabel': 'Choose a license for your work',
   'licenses.chooser.introduction': 'This tool will help you choose the most appropriate license for your work. The license determines how others can use your work and affects your ability to monetize it on Literary Universe.',
 
