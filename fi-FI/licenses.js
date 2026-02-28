@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Lisenssin valitsija',
     'licenses.chooser.button': 'Auta minua valitsemaan lisenssi',
+    'licenses.chooser.button.about': 'Tietoja tästä lisenssistä',
     'licenses.chooser.ariaLabel': 'Valitse työsi lisenssi',
     'licenses.chooser.introduction': 'Tämä työkalu auttaa sinua valitsemaan työhösi sopivimman lisenssin. Lisenssi määrittää, miten muut voivat käyttää työtäsi, ja vaikuttaa mahdollisuuksiisi saada siitä rahaa Literary Universessa.',
     // License Chooser Wizard Steps
