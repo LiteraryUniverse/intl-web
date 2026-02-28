@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'مختار الترخيص',
     'licenses.chooser.button': 'ساعدني في اختيار الترخيص',
+    'licenses.chooser.button.about': 'حول هذا الترخيص',
     'licenses.chooser.ariaLabel': 'اختر ترخيصاً لعملك',
     'licenses.chooser.introduction': 'ستساعدك هذه الأداة على اختيار الرخصة الأنسب لعملك. يحدد الترخيص كيف يمكن للآخرين استخدام عملك ويؤثر على قدرتك على تحقيق الدخل من عملك على موقع Literary Universe.',
     // License Chooser Wizard Steps
