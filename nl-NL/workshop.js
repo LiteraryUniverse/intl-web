@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Als je het universum niet publiceert, wordt het automatisch gepubliceerd wanneer het eerste verhaal dat aan het universum is gekoppeld, wordt gepubliceerd.',
     'workshop.universe.settings': '{universe} universuminstellingen',
     'workshop.universe.publishedOn': 'Dit universum is gepubliceerd op {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': '<contact>Neem contact met ons op</contact> als u hulp nodig hebt.',
+    'workshop.work.delete.restrictions': `U kunt dit {type, select,
+    universe {universum alleen verwijderen als het geen gepubliceerde verhalen heeft en}
+    story {verhaal alleen als het}
+    other {werk alleen als het}} minder dan een maand geleden is gepubliceerd. Hebt u daarna nog hulp nodig? <contact>Neem contact met ons op</contact>.`,
+    'workshop.work.delete.notAllowed': `Deze {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } kan niet langer verwijderd worden via self-service. Als u het verwijderd wilt hebben, neem dan <contact>contact met ons op</contact> en wij zullen met u samenwerken om het veilig te verwijderen.`,
+    'workshop.work.delete.notAllowed.plain': `Dit {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } kan niet langer verwijderd worden via zelfbediening. Als het verwijderd moet worden, neem dan contact met ons op via deletions@literaryuniverse.com en wij zullen samen met u het veilig verwijderen.`,
+    'workshop.work.danger.delete.desc': `Verwijdert permanent dit {type, select,
+    universe {universum en gekoppelde workshopgegevens}
+    story {verhaal met alle hoofdstukken, statistieken en workshopassociaties}
+    other {werk en gerelateerde gegevens}
+  }.`,
+    'workshop.work.makePrivate.impact': `Door dit {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } te maken, wordt het verwijderd van ontdekken en zoeken. Mensen die het al in hun bibliotheek hebben, houden toegang. Nieuwe gebruikers kunnen het niet meer aan hun bibliotheek toevoegen{type, select,
+    story { of het kopen, tenzij u het aan hen schenkt}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Dit {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } is momenteel privé. Bestaande bibliotheekhouders hebben nog steeds toegang. Nieuwe gebruikers kunnen het niet toevoegen aan hun bibliotheek{type, select,
+    story { of kopen}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Maken {type, select,
+    universe {Universum}
+    story {Verhaal}
+    other {Werk}
+  } Privé`,
+    'workshop.work.makePrivate.modalAria': `Bevestigingsmodal voor het maken van een {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } privé`,
+    'workshop.work.makePrivate.warning': `Door dit {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } privé te maken, wordt het verwijderd van openbare ontdekking en zoekopdrachten.`,
+    'workshop.work.makePublic.button': `Maken {type, select,
+    universe {Universum}
+    story {Verhaal}
+    other {Werk}
+  } Publiek`,
+    'workshop.work.makePublic.modalAria': `Bevestigingsmodal voor het maken van een {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } Openbaar`,
+    'workshop.work.makePublic.warning': `Door dit {type, select,
+    universe {universum}
+    story {verhaal}
+    other {werk}
+  } openbaar te maken, wordt het weer vindbaar en kunnen nieuwe gebruikers het toevoegen aan hun bibliotheek{type, select,
+    story { of het kopen}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Gevarenzone',
+    'workshop.universe.dangerZone.desc': 'U kunt dit universum alleen verwijderen als het geen gepubliceerde verhalen heeft en minder dan een maand geleden is gepubliceerd. Als u het na deze verjaringstermijn wilt verwijderen, neem dan contact met ons op.',
+    'workshop.universe.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een universum',
+    'workshop.universe.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
+    'workshop.universe.delete.button': 'Universum verwijderen',
     'workshop.universe.description': 'Universumbeschrijving',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beschrijving',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': 'Thema Snelle referentie',
     'workshop.story.new': 'Maak een nieuw verhaal',
     'workshop.story.publishing.notice': 'Het verhaal wordt automatisch gepubliceerd zodra je het eerste hoofdstuk publiceert.',
+    'workshop.story.published.congratulations.title': 'Gefeliciteerd! Uw verhaal is gepubliceerd',
+    'workshop.story.published.congratulations.heading': 'Gefeliciteerd! Uw verhaal is gepubliceerd',
+    'workshop.story.published.congratulations.description': 'Uw schrijfreis gaat verder. Uw verhaal is nu klaar om ontdekt en gelezen te worden.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Ga naar de verhaalpagina',
+    'workshop.story.published.congratulations.imageAlt': 'Viering illustratie voor gepubliceerd verhaal',
     'workshop.settings.edit': 'Bewerk instellingen',
     'workshop.story.publishedOn': 'Dit verhaal is gepubliceerd op {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Verhaalinstellingen',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Publicatie voorkomen',
     'workshop.story.preventPublishingTooltip': 'Als deze optie is ingeschakeld, kan dit verhaal niet worden gepubliceerd. Dit is handig voor verhalen die nog in ontwikkeling zijn of voor verhalen die alleen voor privégebruik bedoeld zijn.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publiceren wordt voorkomen omdat het universum de instelling Publicatie voorkomen heeft ingeschakeld.',
+    'workshop.story.showChapterNumbersInListing': 'Hoofdstuknummers tonen in hoofdstuklijst',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Als dit ingeschakeld is, zijn hoofdstuknummers zichtbaar voor lezers in de hoofdstukvermeldingen van verhalen.',
     'workshop.revisions.new.public.disabled': 'Kan niet publiceren terwijl voorkomen publiceren is ingeschakeld in verhaalinstellingen.',
     'workshop.publishing.restricted': 'Wegens schending van goed gedrag hebben wij uw mogelijkheid tot publicatie uitgeschakeld.',
     'workshop.story.buyingSettings': 'Verkoopinstellingen',
+    'workshop.story.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een verhaal',
+    'workshop.story.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
+    'workshop.story.delete.button': 'Verhaal verwijderen',
+    'workshop.story.private.universeExplain': 'Dit verhaal is privé omdat het universum privé is.',
+    'workshop.story.makePublicWithUniverse.button': 'Maak verhaal en universum openbaar',
+    'workshop.universe.makePublic.only.button': 'Universum alleen openbaar maken',
+    'workshop.universe.makePublic.only.modalAria': 'Bevestigingsmodaal voor het alleen openbaar maken van een universum',
+    'workshop.universe.makePublic.only.warning': 'Dit maakt alleen het universum openbaar. Verhalen in dit universum blijven privé totdat ze individueel openbaar worden gemaakt.',
+    'workshop.universe.makePublic.withStories.button': 'Universum en alle verhalen openbaar maken',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bevestigingsmodal voor het openbaar maken van een universum en alle verhalen',
+    'workshop.universe.makePublic.withStories.warning': 'Dit maakt het universum en alle gekoppelde verhalen openbaar.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van een hoofdstuk',
-    'workshop.chapter.delete.confirm': 'Hoofdstuk verwijderen',
     'workshop.chapter.delete.warning': 'Weet u zeker dat u "{title}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
     'workshop.chapter.delete.button': 'Hoofdstuk verwijderen',
     'workshop.chapter.delete.deleting': 'Verwijderen...',

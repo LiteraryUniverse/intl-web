@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'जर तुम्ही ब्रह्मांड प्रकाशित न कराल तर पहिली कथा ज्या ब्रह्मांडाशी संबंधित आहे ती प्रकाशित केली जाईल.',
     'workshop.universe.settings': '{universe} ब्रह्मांड सेटिंग्ज',
     'workshop.universe.publishedOn': 'हे विश्व प्रकाशित झाले आहे {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'If you need help, <contact>contact us</contact>.',
+    'workshop.work.delete.restrictions': `You can delete this {type, select,
+    universe {universe only if it has no published stories and}
+    story {story only if it}
+    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.notAllowed': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } can no longer be deleted through self-service. If you need it removed, <contact>contact us</contact> and we'll work with you to remove it safely.`,
+    'workshop.work.delete.notAllowed.plain': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } can no longer be deleted through self-service. If you need it removed, contact us at deletions@literaryuniverse.com and we'll work with you to remove it safely.`,
+    'workshop.work.danger.delete.desc': `Permanently deletes this {type, select,
+    universe {universe and linked workshop data}
+    story {story with all chapters, statistics, and workshop associations}
+    other {work and related data}
+  }.`,
+    'workshop.work.makePrivate.impact': `Making this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
+    story { or buy it unless you gift it to them}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } is currently private. Existing library holders still have access. New users cannot add it to their library{type, select,
+    story { or buy it}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Confirmation modal for making a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private`,
+    'workshop.work.makePrivate.warning': `Making this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private will remove it from public discovery and search.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Confirmation modal for making a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } Public`,
+    'workshop.work.makePublic.warning': `Making this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } public will make it discoverable again and allow new users to add it to their library{type, select,
+    story { or buy it}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Danger zone',
+    'workshop.universe.dangerZone.desc': 'You can delete this universe only when it has no published stories and was published less than one month ago. If you need to delete it after this limitation period, please contact us.',
+    'workshop.universe.delete.modalAria': 'Confirmation modal for deleting a universe',
+    'workshop.universe.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
+    'workshop.universe.delete.button': 'Delete Universe',
     'workshop.universe.description': 'ब्रह्मांडाचे वर्णन',
     'workshop.settings.title': 'शीर्षक',
     'workshop.description': 'वर्णन',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Quick Reference',
     'workshop.story.new': 'नवीन कथा तयार करा',
     'workshop.story.publishing.notice': 'पहिल्या अध्यायाची प्रकाशन करण्यानंतर कथा स्वतःच्या वेळेत प्रकाशित केली जाईल.',
+    'workshop.story.published.congratulations.title': 'Congratulations! Your story is published',
+    'workshop.story.published.congratulations.heading': 'Congratulations! Your story has been published',
+    'workshop.story.published.congratulations.description': 'Your writing journey continues. Your story is now ready to be discovered and enjoyed by readers.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Go to story page',
+    'workshop.story.published.congratulations.imageAlt': 'Celebration illustration for published story',
     'workshop.settings.edit': 'सेटिंग्ज संपादित करा',
     'workshop.story.publishedOn': 'ही कथा प्रकाशित झाली आहे {date, date, long} {date, time, short}',
     'workshop.story.settings': 'कथेची सेटिंग्ज',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Prevent publishing',
     'workshop.story.preventPublishingTooltip': 'When enabled, this story cannot be published. This is useful for stories that are still in development or for stories that are meant for private use only.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publishing is prevented because the universe has the prevent publishing setting enabled.',
+    'workshop.story.showChapterNumbersInListing': 'Show chapter numbers in chapter listing',
+    'workshop.story.showChapterNumbersInListingTooltip': 'When enabled, chapter numbers are visible to readers in story chapter listings.',
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
+    'workshop.story.delete.modalAria': 'Confirmation modal for deleting a story',
+    'workshop.story.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
+    'workshop.story.delete.button': 'Delete Story',
+    'workshop.story.private.universeExplain': 'This story is private because its universe is private.',
+    'workshop.story.makePublicWithUniverse.button': 'Make Story and Universe Public',
+    'workshop.universe.makePublic.only.button': 'Make Universe Public Only',
+    'workshop.universe.makePublic.only.modalAria': 'Confirmation modal for making a universe public only',
+    'workshop.universe.makePublic.only.warning': 'This makes only the universe public. Stories in this universe stay private until made public individually.',
+    'workshop.universe.makePublic.withStories.button': 'Make Universe and All Stories Public',
+    'workshop.universe.makePublic.withStories.modalAria': 'Confirmation modal for making a universe and all stories public',
+    'workshop.universe.makePublic.withStories.warning': 'This makes the universe and all linked stories public.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Confirmation modal for deleting a chapter',
-    'workshop.chapter.delete.confirm': 'Delete Chapter',
     'workshop.chapter.delete.warning': 'Are you sure you want to delete "{title}"? This action cannot be undone.',
     'workshop.chapter.delete.button': 'Delete Chapter',
     'workshop.chapter.delete.deleting': 'Deleting...',

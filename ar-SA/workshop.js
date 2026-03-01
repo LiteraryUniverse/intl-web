@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'إذا لم تقم بنشر الكون، سيتم نشره تلقائيًا عند نشر أول قصة متصلة بالكون.',
     'workshop.universe.settings': '{universe} إعدادات الكون',
     'workshop.universe.publishedOn': 'تم نشر هذا الكون على {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'إذا كنت بحاجة إلى مساعدة، <contact>اتصل بنا</contact>.',
+    'workshop.work.delete.restrictions': `يمكنك حذف هذا {type, select,
+    universe {~ الكون فقط إذا لم يكن له قصص منشورة و}
+    story {قصة فقط إذا كان}
+    other {العمل فقط إذا كان}} تم نشره قبل أقل من شهر واحد. هل تحتاج إلى مساعدة بعد ذلك؟ <contact>اتصل بنا</contact>.`,
+    'workshop.work.delete.notAllowed': `هذا {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } لم يعد من الممكن حذف هذا ~ ~ الكون ~ ~ القصة ~ ~ العمل ~ ~ لم يعد من الممكن حذفه من خلال الخدمة الذاتية. إذا كنت بحاجة إلى إزالته، <contact>اتصل بنا</contact> وسنعمل معك لإزالته بأمان.`,
+    'workshop.work.delete.notAllowed.plain': `هذا {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } لم يعد من الممكن حذف هذا ~ ~ الكون ~ ~ القصة ~ ~ العمل ~ ~ لم يعد من الممكن حذفه من خلال الخدمة الذاتية. إذا كنت بحاجة إلى إزالته، فاتصل بنا على deletions@literaryuniverse.com وسنعمل معك لإزالته بأمان.`,
+    'workshop.work.danger.delete.desc': `يحذف هذا بشكل دائم {type, select,
+    universe {الكون وبيانات ورشة العمل المرتبطة بها}
+    story {القصة مع جميع الفصول والإحصائيات وارتباطات ورش العمل}
+    other {العمل والبيانات ذات الصلة}
+  }.`,
+    'workshop.work.makePrivate.impact': `جعل هذا {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  } ~ يزيلها من الاكتشاف والبحث. يحتفظ الأشخاص الذين يمتلكونه بالفعل في مكتبتهم بإمكانية الوصول إليه. لا يمكن للمستخدمين الجدد إضافته إلى مكتبتهم بعد الآن{type, select,
+    story { أو شرائه إلا إذا قمت بإهدائه لهم}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `هذا {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } ~ خاص حاليًا. لا يزال بإمكان حاملي المكتبة الحاليين الوصول إليها. لا يمكن للمستخدمين الجدد إضافتها إلى مكتبتهم{type, select,
+    story { أو شرائها}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `اصنع {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } خاص ~ خاص`,
+    'workshop.work.makePrivate.modalAria': `مشروطية التأكيد لصنع {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } خاص`,
+    'workshop.work.makePrivate.warning': `سيؤدي جعل هذا {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  } خاص إلى إزالته من الاكتشاف والبحث العام.`,
+    'workshop.work.makePublic.button': `اصنع {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } ~ الجمهور`,
+    'workshop.work.makePublic.modalAria': `مشروطية التأكيد لصنع {type, select,
+    universe {الكون}
+    story {القصة}
+    other {العمل}
+  } عام`,
+    'workshop.work.makePublic.warning': `إن جعل هذا {type, select,
+    universe {الكون}
+    story {~ القصة}
+    other {العمل}
+  } عام سيجعلها قابلة للاكتشاف مرة أخرى ويسمح للمستخدمين الجدد بإضافتها إلى مكتبتهم{type, select,
+    story { أو شرائها}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'منطقة الخطر',
+    'workshop.universe.dangerZone.desc': 'يمكنك حذف هذا الكون فقط عندما لا يحتوي على قصص منشورة وتم نشره قبل أقل من شهر واحد. إذا كنت بحاجة إلى حذفه بعد فترة التحديد هذه، يُرجى الاتصال بنا.',
+    'workshop.universe.delete.modalAria': 'طريقة التأكيد لحذف كون من الكون',
+    'workshop.universe.delete.warning': 'هل تريد بالتأكيد حذف "{title}"؟ لا يمكن التراجع عن هذا الإجراء.',
+    'workshop.universe.delete.button': 'حذف الكون',
     'workshop.universe.description': 'وصف الكون',
     'workshop.settings.title': 'العنوان',
     'workshop.description': 'الوصف',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 مرجع سريع للموضوعات',
     'workshop.story.new': 'إنشاء قصة جديدة',
     'workshop.story.publishing.notice': 'سيتم نشر القصة تلقائيًا عند نشر الفصل الأول.',
+    'workshop.story.published.congratulations.title': 'تهانينا! تم نشر قصتك',
+    'workshop.story.published.congratulations.heading': 'تهانينا! لقد تم نشر قصتك',
+    'workshop.story.published.congratulations.description': 'تستمر رحلتك في الكتابة. قصتك جاهزة الآن ليكتشفها القراء ويستمتعوا بها.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'انتقل إلى صفحة القصة',
+    'workshop.story.published.congratulations.imageAlt': 'رسم توضيحي للاحتفال بالقصة المنشورة',
     'workshop.settings.edit': 'تعديل الإعدادات',
     'workshop.story.publishedOn': 'تم نشر هذه القصة في {date, date, long} {date, time, short}',
     'workshop.story.settings': 'إعدادات القصة',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'منع النشر',
     'workshop.story.preventPublishingTooltip': 'عند التمكين، لا يمكن نشر هذه القصة. هذا مفيد للقصص التي لا تزال قيد التطوير أو للقصص المخصصة للاستخدام الخاص فقط.',
     'workshop.story.preventPublishingTooltipUniverse': 'تم منع النشر بسبب تمكين إعداد منع النشر في الكون.',
+    'workshop.story.showChapterNumbersInListing': 'إظهار أرقام الفصول في قائمة الفصول',
+    'workshop.story.showChapterNumbersInListingTooltip': 'عند تمكينها، تظهر أرقام الفصول للقراء في قوائم فصول القصة.',
     'workshop.revisions.new.public.disabled': 'لا يمكن النشر أثناء تمكين منع النشر في إعدادات القصة.',
     'workshop.publishing.restricted': 'بسبب مخالفة حسن السيرة والسلوك قمنا بتعطيل قدرتك على النشر.',
     'workshop.story.buyingSettings': 'إعدادات البيع',
+    'workshop.story.delete.modalAria': 'طريقة التأكيد لحذف قصة ما من قائمة الحذف',
+    'workshop.story.delete.warning': 'هل تريد بالتأكيد حذف "{title}"؟ لا يمكن التراجع عن هذا الإجراء.',
+    'workshop.story.delete.button': 'حذف القصة',
+    'workshop.story.private.universeExplain': 'هذه القصة خاصة لأن عالمها خاص.',
+    'workshop.story.makePublicWithUniverse.button': 'اجعل القصة والكون عامين',
+    'workshop.universe.makePublic.only.button': 'جعل الكون عاماً فقط',
+    'workshop.universe.makePublic.only.modalAria': 'طريقة التأكيد لجعل الكون عامًا فقط',
+    'workshop.universe.makePublic.only.warning': 'هذا يجعل الكون عام فقط. تظل القصص في هذا الكون خاصة حتى تصبح عامة بشكل فردي.',
+    'workshop.universe.makePublic.withStories.button': 'جعل الكون وجميع القصص عامة',
+    'workshop.universe.makePublic.withStories.modalAria': 'طريقة التأكيد لجعل الكون وجميع القصص عامة',
+    'workshop.universe.makePublic.withStories.warning': 'وهذا يجعل الكون وجميع القصص المرتبطة به عامة.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'طريقة التأكيد لحذف فصل من الفصول',
-    'workshop.chapter.delete.confirm': 'حذف الفصل',
     'workshop.chapter.delete.warning': 'هل تريد بالتأكيد حذف "{title}"؟ لا يمكن التراجع عن هذا الإجراء.',
     'workshop.chapter.delete.button': 'حذف الفصل',
     'workshop.chapter.delete.deleting': 'حذف...',

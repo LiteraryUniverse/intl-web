@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'ಈ ಕಥೆಗೆ ನಮ್ಮ ಹಿಂದಿನ ಪಾಠವೆಲ್ಲಾ ಇದೆ, ಆದರೆ ಸಾಹಸ ಭವಿಷ್ಯದಲ್ಲಿ ಮುಂದುವರಿಯುತ್ತದೆ, ಬೇರೆ ಸಮಯದಲ್ಲಿ ಮರುಕಾಣುವುದು!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'ಮತ್ತೆ ಬಂದು ನೋಡಿ!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'ಮುಂದಿನ ಅಧ್ಯಾಯ',

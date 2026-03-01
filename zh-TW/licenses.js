@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': '授權選擇器',
     'licenses.chooser.button': '幫我選擇許可證',
+    'licenses.chooser.button.about': '關於本授權',
     'licenses.chooser.ariaLabel': '為您的作品選擇授權',
     'licenses.chooser.introduction': '本工具將幫助您選擇最適合您作品的許可證。許可證決定了他人如何使用您的作品，並影響您在 Literary Universe 上獲利的能力。',
     // License Chooser Wizard Steps

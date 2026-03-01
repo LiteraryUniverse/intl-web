@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'นี่คือสิ่งที่เรามีสำหรับเรื่องราวในขณะนี้ แต่การผจญภัยจะดำเนินต่อไปในอนาคต โปรดตรวจสอบอีกครั้งเร็วๆ นี้!',
     'reader.storyPreview.heading': 'การพรีวิวเสร็จสมบูรณ์',
     'reader.storyPreview.description': 'คุณได้ดูตัวอย่างเสร็จเรียบร้อยแล้ว ขณะนี้เรายังไม่มีเนื้อหาส่วนที่เหลือที่นี่ แต่คุณสามารถอ่านต่อได้ที่จุดด้านล่าง',
+    'reader.unpublishedChapter.heading': 'บทนี้ไม่มีให้บริการอีกต่อไป',
     'chapter.translation.notYetDescription': 'โปรดตรวจสอบอีกครั้งเร็ว ๆ นี้!',
     'reader.externalShopping.heading': 'รับ {storyName} ในสถานที่อื่น ๆ:',
     'chapter.next': 'บทถัดไป',

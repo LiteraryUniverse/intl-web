@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'ライセンス・チューザー',
     'licenses.chooser.button': 'ライセンス選びを手伝ってください',
+    'licenses.chooser.button.about': 'このライセンスについて',
     'licenses.chooser.ariaLabel': '作品のライセンスを選択する',
     'licenses.chooser.introduction': 'このツールは、あなたの作品に最も適したライセンスを選択するのに役立ちます。ライセンスは、他の人があなたの作品をどのように使用できるかを決定し、Literary Universeでそれを収益化する能力に影響を与えます。',
     // License Chooser Wizard Steps

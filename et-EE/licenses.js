@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Litsentsi valija',
     'licenses.chooser.button': 'Aidake mul valida litsentsi',
+    'licenses.chooser.button.about': 'Selle litsentsi kohta',
     'licenses.chooser.ariaLabel': 'Valige oma töö jaoks litsents',
     'licenses.chooser.introduction': 'See tööriist aitab teil valida oma töö jaoks sobivaima litsentsi. Litsents määrab, kuidas teised saavad teie tööd kasutada, ja mõjutab teie võimet seda Literary Universe\'is rahaks teha.',
     // License Chooser Wizard Steps

@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Om du inte publicerar universumet kommer det att publiceras automatiskt när den första berättelsen som är kopplad till universumet publiceras.',
     'workshop.universe.settings': '{universe} inställningar för universum',
     'workshop.universe.publishedOn': 'Det här universumet har publicerats på {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': '<contact>Kontakta oss</contact> om du behöver hjälp.',
+    'workshop.work.delete.restrictions': `Du kan radera detta {type, select,
+    universe {universum endast om det inte har några publicerade berättelser och}
+    story {berättelse endast om det}
+    other {verk endast om det}} publicerades för mindre än en månad sedan. Behöver du hjälp efter det? <contact>Kontakta oss</contact> gärna.`,
+    'workshop.work.delete.notAllowed': `Detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } kan inte längre raderas via självbetjäning. Om du behöver ta bort den, <contact>kontakta oss</contact> så arbetar vi tillsammans med dig för att ta bort den på ett säkert sätt.`,
+    'workshop.work.delete.notAllowed.plain': `Detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } kan inte längre raderas via självbetjäning. Om du behöver ta bort det, kontakta oss på deletions@literaryuniverse.com så arbetar vi tillsammans med dig för att ta bort det på ett säkert sätt.`,
+    'workshop.work.danger.delete.desc': `Raderar permanent detta {type, select,
+    universe {universum och länkade verkstadsdata}
+    story {berättelse med alla kapitel, statistik och verkstadsassociationer}
+    other {arbete och relaterade data}
+  }.`,
+    'workshop.work.makePrivate.impact': `Om du gör detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } tas det bort från upptäckt och sökning. Personer som redan har den i sitt bibliotek behåller åtkomsten. Nya användare kan inte lägga till det i sitt bibliotek längre{type, select,
+    story { eller köpa det om du inte ger det till dem}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } är för närvarande privat. Befintliga biblioteksinnehavare har fortfarande tillgång. Nya användare kan inte lägga till den i sitt bibliotek{type, select,
+    story { eller köpa den}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Bekräftelse modal för att göra en {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } privat`,
+    'workshop.work.makePrivate.warning': `Om du gör detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } privat kommer det att tas bort från offentliga upptäckter och sökningar.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Bekräftelse modal för att göra en {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } Public`,
+    'workshop.work.makePublic.warning': `Genom att göra detta {type, select,
+    universe {universum}
+    story {berättelse}
+    other {arbete}
+  } offentligt blir det upptäckbart igen och nya användare kan lägga till det i sitt bibliotek{type, select,
+    story { eller köpa det}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Farlig zon',
+    'workshop.universe.dangerZone.desc': 'Du kan bara radera det här universumet om det inte har några publicerade berättelser och publicerades för mindre än en månad sedan. Om du behöver radera det efter denna begränsningsperiod, vänligen kontakta oss.',
+    'workshop.universe.delete.modalAria': 'Bekräftelsemodal för borttagning av ett universum',
+    'workshop.universe.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
+    'workshop.universe.delete.button': 'Radera universum',
     'workshop.universe.description': 'Universums beskrivning',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beskrivning',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Snabbreferens',
     'workshop.story.new': 'Skapa en ny berättelse',
     'workshop.story.publishing.notice': 'Berättelsen kommer att publiceras automatiskt när du publicerar det första kapitlet.',
+    'workshop.story.published.congratulations.title': 'Gratulerar, gratulerar! Din berättelse är publicerad',
+    'workshop.story.published.congratulations.heading': 'Gratulerar, gratulerar! Din berättelse har publicerats',
+    'workshop.story.published.congratulations.description': 'Din skrivresa fortsätter. Din berättelse är nu redo att upptäckas och avnjutas av läsare.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Gå till berättelsesidan',
+    'workshop.story.published.congratulations.imageAlt': 'Celebrationsillustration för publicerad berättelse',
     'workshop.settings.edit': 'Redigera inställningar',
     'workshop.story.publishedOn': 'Den här berättelsen har publicerats på {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Berättelseinställningar',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Förhindra publicering',
     'workshop.story.preventPublishingTooltip': 'När detta är aktiverat kan den här berättelsen inte publiceras. Detta är användbart för berättelser som fortfarande är under utveckling eller för berättelser som endast är avsedda för privat bruk.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publicering förhindras eftersom universum har inställningen förhindra publicering aktiverad.',
+    'workshop.story.showChapterNumbersInListing': 'Visa kapitelnummer i kapitelförteckningen',
+    'workshop.story.showChapterNumbersInListingTooltip': 'När den är aktiverad är kapitelnumren synliga för läsarna i kapitelförteckningarna i berättelsen.',
     'workshop.revisions.new.public.disabled': 'Det går inte att publicera när förhindra publicering är aktiverat i berättelsens inställningar.',
     'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
     'workshop.story.buyingSettings': 'Inställningar för försäljning',
+    'workshop.story.delete.modalAria': 'Bekräftelsemodal för att radera en story',
+    'workshop.story.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
+    'workshop.story.delete.button': 'Radera berättelse',
+    'workshop.story.private.universeExplain': 'Den här berättelsen är privat eftersom dess universum är privat.',
+    'workshop.story.makePublicWithUniverse.button': 'Gör Story och Universe offentliga',
+    'workshop.universe.makePublic.only.button': 'Gör universum endast offentligt',
+    'workshop.universe.makePublic.only.modalAria': 'Bekräftelsemodal för att endast göra ett universum offentligt',
+    'workshop.universe.makePublic.only.warning': 'Detta gör endast universum offentligt. Berättelser i detta universum förblir privata tills de görs offentliga individuellt.',
+    'workshop.universe.makePublic.withStories.button': 'Gör Universum och alla berättelser offentliga',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bekräftelsemodal för att göra ett universum och alla berättelser offentliga',
+    'workshop.universe.makePublic.withStories.warning': 'Detta gör universumet och alla länkade berättelser offentliga.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bekräftelsemodal för borttagning av ett kapitel',
-    'workshop.chapter.delete.confirm': 'Radera kapitel',
     'workshop.chapter.delete.warning': 'Är du säker att du vill ta bort "{title}"? Denna åtgärd kan inte ångras.',
     'workshop.chapter.delete.button': 'Radera kapitel',
     'workshop.chapter.delete.deleting': 'Radera...',

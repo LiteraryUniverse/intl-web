@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Výběr licence',
     'licenses.chooser.button': 'Pomozte mi vybrat licenci',
+    'licenses.chooser.button.about': 'O této licenci',
     'licenses.chooser.ariaLabel': 'Výběr licence pro vaši práci',
     'licenses.chooser.introduction': 'Tento nástroj vám pomůže vybrat nejvhodnější licenci pro vaši práci. Licence určuje, jakým způsobem mohou ostatní vaše dílo používat, a ovlivňuje vaši možnost zpeněžit ho na portálu Literary Universe.',
     // License Chooser Wizard Steps

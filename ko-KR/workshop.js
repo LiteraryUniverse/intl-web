@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': '우주를 게시하지 않으면, 우주에 연결된 첫 번째 이야기가 게시될 때 자동으로 게시됩니다.',
     'workshop.universe.settings': '{universe} 우주 설정',
     'workshop.universe.publishedOn': '이 우주는 {date, date, long} 에 게시되었습니다. {date, time, short}',
+    'workshop.work.deletion.contactUs': '도움이 필요하면 <contact>문의하세요</contact>.',
+    'workshop.work.delete.restrictions': `이 {type, select,
+    universe {유니버스는 게시된 스토리가 없는 경우에만 삭제할 수 있으며,}
+    story {스토리는}
+    other {작품은}} 게시된 지 한 달이 안 된 경우에만 삭제할 수 있습니다. 그 후에도 도움이 필요하신가요? <contact>문의해</contact> 주세요.`,
+    'workshop.work.delete.notAllowed': `이 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {일}
+  } 는 더 이상 셀프 서비스를 통해 삭제할 수 없습니다. 삭제가 필요한 경우 고객센터로 <contact>문의하시면</contact> 안전하게 삭제해 드리겠습니다.`,
+    'workshop.work.delete.notAllowed.plain': `이 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {일}
+  } 는 더 이상 셀프 서비스를 통해 삭제할 수 없습니다. 삭제가 필요한 경우 deletions@literaryuniverse.com 으로 문의하시면 안전하게 삭제할 수 있도록 도와드리겠습니다.`,
+    'workshop.work.danger.delete.desc': `이 영구 삭제 {type, select,
+    universe {유니버스 및 연결된 워크샵 데이터}
+    story {모든 챕터, 통계 및 워크샵 연관성이있는 스토리}
+    other {작업 및 관련 데이터}
+  }.`,
+    'workshop.work.makePrivate.impact': `이것을 {type, select,
+    universe {우주}
+    story {이야기}
+    other {일}
+  } 로 만들면 검색 및 검색에서 제거됩니다. 이미 라이브러리에 있는 사람들은 계속 액세스할 수 있습니다. 새로운 사용자는 더 이상 라이브러리에 추가할 수 없으며{type, select,
+    story { 선물하지 않는 한}
+    other {}
+  } 구입할 수 없습니다.`,
+    'workshop.work.private.notice': `이 {type, select,
+    universe {우주}
+    story {이야기}
+    other {일}
+  } 현재 비공개입니다. 기존 라이브러리 소유자는 계속 액세스할 수 있습니다. 신규 사용자는 라이브러리에 추가하거나{type, select,
+    story { 구매}
+    other {}
+  } 할 수 없습니다.`,
+    'workshop.work.makePrivate.button': `만들기 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {워크}
+  } 비공개`,
+    'workshop.work.makePrivate.modalAria': `{type, select,
+    universe {우주}
+    story {스토리}
+    other {일}
+  } 비공개로 만들기 위한 확인 모달`,
+    'workshop.work.makePrivate.warning': `이 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {워크}
+  } 비공개로 설정하면 공개 검색 및 검색에서 삭제됩니다.`,
+    'workshop.work.makePublic.button': `만들기 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작업}
+  } 공개`,
+    'workshop.work.makePublic.modalAria': `{type, select,
+    universe {우주}
+    story {스토리}
+    other {작업}
+  } 공개를 만들기 위한 확인 모달`,
+    'workshop.work.makePublic.warning': `이것을 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {작품}
+  } 공개하면 새로운 사용자가 다시 검색할 수 있고 라이브러리{type, select,
+    story { 에 추가하거나 구매}
+    other {}
+  } 할 수 있습니다.`,
+    'workshop.universe.dangerZone': '위험 구역',
+    'workshop.universe.dangerZone.desc': '이 유니버스는 게시된 스토리가 없고 게시된 지 한 달이 지나지 않은 경우에만 삭제할 수 있습니다. 이 제한 기간이 지난 후에 삭제해야 하는 경우 문의해 주세요.',
+    'workshop.universe.delete.modalAria': '유니버스 삭제를 위한 확인 모달',
+    'workshop.universe.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
+    'workshop.universe.delete.button': '유니버스 삭제',
     'workshop.universe.description': '우주 설명',
     'workshop.settings.title': '제목',
     'workshop.description': '설명',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 테마 빠른 참조',
     'workshop.story.new': '새 이야기 만들기',
     'workshop.story.publishing.notice': '첫 번째 챕터를 게시하면 이야기가 자동으로 게시됩니다.',
+    'workshop.story.published.congratulations.title': '축하합니다! 스토리가 게시되었습니다.',
+    'workshop.story.published.congratulations.heading': '축하합니다! 스토리가 게시되었습니다.',
+    'workshop.story.published.congratulations.description': '글쓰기 여정은 계속됩니다. 이제 여러분의 스토리를 독자들이 발견하고 즐길 준비가 되었습니다.',
+    'workshop.story.published.congratulations.publicStoryBtn': '스토리 페이지로 이동',
+    'workshop.story.published.congratulations.imageAlt': '게시된 스토리를 위한 축하 일러스트',
     'workshop.settings.edit': '설정 편집',
     'workshop.story.publishedOn': '이 작품은 {date, date, long} 에 게시되었습니다. {date, time, short}',
     'workshop.story.settings': '이야기 설정',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': '게시 방지',
     'workshop.story.preventPublishingTooltip': '이 옵션을 활성화하면 이 스토리를 게시할 수 없습니다. 아직 개발 중인 스토리나 비공개로만 사용할 수 있는 스토리에 유용합니다.',
     'workshop.story.preventPublishingTooltipUniverse': '유니버스에서 게시 금지 설정이 활성화되어 있기 때문에 게시가 금지됩니다.',
+    'workshop.story.showChapterNumbersInListing': '챕터 목록에 챕터 번호 표시',
+    'workshop.story.showChapterNumbersInListingTooltip': '활성화하면 스토리 챕터 목록에서 챕터 번호가 독자에게 표시됩니다.',
     'workshop.revisions.new.public.disabled': '스토리 설정에서 게시 금지가 활성화된 상태에서는 게시할 수 없습니다.',
     'workshop.publishing.restricted': '윤리강령 위반으로 인해 귀하의 게시 기능이 비활성화되었습니다.',
     'workshop.story.buyingSettings': '판매 설정',
+    'workshop.story.delete.modalAria': '스토리 삭제를 위한 확인 모달',
+    'workshop.story.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
+    'workshop.story.delete.button': '스토리 삭제',
+    'workshop.story.private.universeExplain': '이 이야기의 세계는 비공개이기 때문에 비공개입니다.',
+    'workshop.story.makePublicWithUniverse.button': '스토리 및 유니버스 공개하기',
+    'workshop.universe.makePublic.only.button': '유니버스 공개 전용 설정',
+    'workshop.universe.makePublic.only.modalAria': '유니버스만 공개하기 위한 확인 모달',
+    'workshop.universe.makePublic.only.warning': '이렇게 하면 우주만 공개됩니다. 이 유니버스의 스토리는 개별적으로 공개될 때까지 비공개로 유지됩니다.',
+    'workshop.universe.makePublic.withStories.button': '유니버스 및 모든 스토리 공개',
+    'workshop.universe.makePublic.withStories.modalAria': '유니버스 및 모든 스토리를 공개하기 위한 확인 모달',
+    'workshop.universe.makePublic.withStories.warning': '이렇게 하면 유니버스 및 연결된 모든 스토리가 공개됩니다.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '챕터 삭제를 위한 확인 모달',
-    'workshop.chapter.delete.confirm': '장 삭제',
     'workshop.chapter.delete.warning': '"{title}"를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.',
     'workshop.chapter.delete.button': '장 삭제',
     'workshop.chapter.delete.deleting': '삭제...',

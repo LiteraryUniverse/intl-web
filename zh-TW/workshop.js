@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': '如果您不發布宇宙，當與宇宙相關聯的第一個故事發布時，它將自動發布。',
     'workshop.universe.settings': '{universe} 宇宙設定',
     'workshop.universe.publishedOn': '這個宇宙已經在 {date, date, long} {date, time, short}上發布',
+    'workshop.work.deletion.contactUs': '如果您需要幫助，請<contact>與我們聯繫</contact>。',
+    'workshop.work.delete.restrictions': `只有當 {type, select,
+    universe {宇宙沒有已發表的故事，而且}
+    story {故事只有在}
+    other {作品只有在}} 發表不到一個月時，您才可以刪除此 ~ ~ 宇宙。之後需要幫助嗎？<contact>請聯絡我們</contact>。`,
+    'workshop.work.delete.notAllowed': `此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 無法再透過自助服務刪除。如果您需要刪除它，請<contact>與我們聯絡</contact>，我們會與您一起安全地刪除它。`,
+    'workshop.work.delete.notAllowed.plain': `此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
+  } 無法再透過自助服務刪除。如果您需要刪除，請聯絡我們 deletions@literaryuniverse.com，我們將與您合作，安全地將其刪除。`,
+    'workshop.work.danger.delete.desc': `永久刪除此 {type, select,
+    universe {宇宙和連結的工作坊資料}
+    story {故事與所有章節、統計和工作坊關聯}
+    other {工作和相關資料}
+  }.`,
+    'workshop.work.makePrivate.impact': `將這個 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 從發現和搜尋中移除。圖書館中已有此書的使用者可以繼續存取。新使用者無法再將它加入圖書館{type, select,
+    story { 或購買它，除非您贈送給他們}
+    other {}
+  }。`,
+    'workshop.work.private.notice': `此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 目前為隱私資料。現有圖書館持有者仍可存取。新使用者無法將其加入圖書館{type, select,
+    story { 或購買}
+    other {}
+  }。`,
+    'workshop.work.makePrivate.button': `製作 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
+  } 私人`,
+    'workshop.work.makePrivate.modalAria': `建立 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
+  } 私人的確認模組`,
+    'workshop.work.makePrivate.warning': `將此 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 設為隱私會使其無法被公開發現和搜尋。`,
+    'workshop.work.makePublic.button': `製作 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {工作}
+  } 公眾`,
+    'workshop.work.makePublic.modalAria': `製作 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 公眾的確認模組`,
+    'workshop.work.makePublic.warning': `將這個 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {作品}
+  } 公開會讓它再次被發現，並允許新使用者將它加入圖書館{type, select,
+    story { 或購買}
+    other {}
+  }。`,
+    'workshop.universe.dangerZone': '危險區',
+    'workshop.universe.dangerZone.desc': '只有當這個宇宙沒有已發表的故事，而且發表的時間少於一個月時，您才可以刪除它。如果您在此限制期限之後需要刪除，請聯絡我們。',
+    'workshop.universe.delete.modalAria': '刪除宇宙的確認模態',
+    'workshop.universe.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
+    'workshop.universe.delete.button': '刪除宇宙',
     'workshop.universe.description': '宇宙描述',
     'workshop.settings.title': '標題',
     'workshop.description': '描述',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema 快速參考',
     'workshop.story.new': '創建一個新故事',
     'workshop.story.publishing.notice': '一旦您發布第一章，故事將自動發布。',
+    'workshop.story.published.congratulations.title': '恭喜您您的故事發表了',
+    'workshop.story.published.congratulations.heading': '恭喜您您的故事已經發表',
+    'workshop.story.published.congratulations.description': '您的寫作之旅仍在繼續。您的故事已經準備好被讀者發掘和欣賞。',
+    'workshop.story.published.congratulations.publicStoryBtn': '前往故事頁面',
+    'workshop.story.published.congratulations.imageAlt': '出版故事的慶祝插圖',
     'workshop.settings.edit': '編輯設置',
     'workshop.story.publishedOn': '這個故事已經在 {date, date, long} {date, time, short}上發布',
     'workshop.story.settings': '故事設置',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': '防止出版',
     'workshop.story.preventPublishingTooltip': '啟用後，此故事將無法發表。這對仍在開發中的故事或僅供私人使用的故事非常有用。',
     'workshop.story.preventPublishingTooltipUniverse': '由於宇宙已啟用防止發佈設定，因此無法發佈。',
+    'workshop.story.showChapterNumbersInListing': '在章節清單中顯示章節編號',
+    'workshop.story.showChapterNumbersInListingTooltip': '啟用時，讀者可在故事章節列表中看到章節編號。',
     'workshop.revisions.new.public.disabled': '在故事設定中啟用防止發佈時，無法發佈。',
     'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。',
     'workshop.story.buyingSettings': '銷售設定',
+    'workshop.story.delete.modalAria': '刪除故事的確認模態',
+    'workshop.story.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
+    'workshop.story.delete.button': '刪除故事',
+    'workshop.story.private.universeExplain': '這個故事是私密的，因為它的宇宙是私密的。',
+    'workshop.story.makePublicWithUniverse.button': '公開故事與宇宙',
+    'workshop.universe.makePublic.only.button': '僅公開宇宙',
+    'workshop.universe.makePublic.only.modalAria': '僅將宇宙公開的確認模態',
+    'workshop.universe.makePublic.only.warning': '這只會讓宇宙公開。這個宇宙中的故事在個別公開之前都是隱私的。',
+    'workshop.universe.makePublic.withStories.button': '公開宇宙和所有故事',
+    'workshop.universe.makePublic.withStories.modalAria': '確認公開宇宙和所有故事的模式',
+    'workshop.universe.makePublic.withStories.warning': '這讓宇宙和所有連結的故事都變成公開。',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': '刪除章節的確認模態',
-    'workshop.chapter.delete.confirm': '刪除章節',
     'workshop.chapter.delete.warning': '您確定要刪除 "{title}" 嗎？此動作無法撤銷。',
     'workshop.chapter.delete.button': '刪除章節',
     'workshop.chapter.delete.deleting': '刪除...',

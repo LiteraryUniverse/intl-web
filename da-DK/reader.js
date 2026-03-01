@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'Dette er alt, vi har for historien indtil videre, men eventyret vil fortsætte i fremtiden, så kom snart tilbage!',
     'reader.storyPreview.heading': 'Forhåndsvisning færdig',
     'reader.storyPreview.description': 'Du er lige blevet færdig med forhåndsvisningen. Vi har ikke resten af historien her endnu, men du kan fortsætte den på stederne nedenfor.',
+    'reader.unpublishedChapter.heading': 'Dette kapitel er ikke længere tilgængeligt',
     'chapter.translation.notYetDescription': 'Kom tilbage snart!',
     'reader.externalShopping.heading': 'Find {storyName} andre steder:',
     'chapter.next': 'Næste kapitel',

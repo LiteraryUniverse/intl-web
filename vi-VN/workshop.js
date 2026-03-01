@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Nếu bạn không xuất bản vũ trụ, nó sẽ được tự động xuất bản khi câu chuyện đầu tiên liên kết với vũ trụ được xuất bản.',
     'workshop.universe.settings': '{universe} cài đặt vũ trụ',
     'workshop.universe.publishedOn': 'Vũ trụ này đã được xuất bản trên {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Nếu bạn cần hỗ trợ, vui lòng <contact>liên hệ với chúng tôi</contact>.',
+    'workshop.work.delete.restrictions': `Bạn có thể xóa vũ trụ này {type, select,
+    universe {chỉ khi nó không có câu chuyện nào đã được đăng và}
+    story {câu chuyện chỉ khi nó}
+    other {tác phẩm chỉ khi nó}} đã được đăng cách đây ít hơn một tháng. Cần hỗ trợ sau đó? <contact>Hãy liên hệ với chúng tôi</contact>.`,
+    'workshop.work.delete.notAllowed': `Tác phẩm này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } không thể xóa bỏ thông qua dịch vụ tự phục vụ. Nếu bạn cần xóa bỏ nó, <contact>vui lòng liên hệ với chúng tôi</contact> và chúng tôi sẽ hợp tác với bạn để xóa bỏ nó một cách an toàn.`,
+    'workshop.work.delete.notAllowed.plain': `Tác phẩm này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } không thể xóa bỏ thông qua dịch vụ tự phục vụ. Nếu bạn cần xóa bỏ nó, vui lòng liên hệ với chúng tôi qua địa chỉ email deletions@literaryuniverse.com và chúng tôi sẽ hỗ trợ bạn xóa bỏ nó một cách an toàn.`,
+    'workshop.work.danger.delete.desc': `Xóa vĩnh viễn vũ trụ này {type, select,
+    universe {và dữ liệu workshop liên quan}
+    story {câu chuyện cùng tất cả các chương, thống kê và liên kết workshop}
+    other {công việc và dữ liệu liên quan}
+  }.`,
+    'workshop.work.makePrivate.impact': `Việc thực hiện điều này {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } sẽ loại bỏ nó khỏi kết quả tìm kiếm và khám phá. Những người đã có nó trong thư viện của mình vẫn giữ quyền truy cập. Người dùng mới không thể thêm nó vào thư viện của họ nữa{type, select,
+    story { hoặc mua nó trừ khi bạn tặng nó cho họ}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Tác phẩm này {type, select,
+    universe {thuộc vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } hiện đang ở chế độ riêng tư. Người dùng hiện tại vẫn có thể truy cập. Người dùng mới không thể thêm nó vào thư viện của mình{type, select,
+    story { hoặc mua nó}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Tạo {type, select,
+    universe {Vũ trụ}
+    story {Câu chuyện}
+    other {Công việc}
+  } Riêng tư`,
+    'workshop.work.makePrivate.modalAria': `Cửa sổ xác nhận để tạo một {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } riêng tư`,
+    'workshop.work.makePrivate.warning': `Đặt chế độ riêng tư cho nội dung này {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } sẽ loại bỏ nó khỏi kết quả tìm kiếm công khai và truy cập công khai.`,
+    'workshop.work.makePublic.button': `Tạo {type, select,
+    universe {Vũ trụ}
+    story {Câu chuyện}
+    other {Công việc}
+  } Công khai`,
+    'workshop.work.makePublic.modalAria': `Cửa sổ xác nhận để tạo một {type, select,
+    universe {vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } Công khai`,
+    'workshop.work.makePublic.warning': `Đưa tác phẩm này {type, select,
+    universe {vào vũ trụ}
+    story {câu chuyện}
+    other {tác phẩm}
+  } ra công khai sẽ giúp nó được phát hiện lại và cho phép người dùng mới thêm nó vào thư viện của họ{type, select,
+    story { hoặc mua nó}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Khu vực nguy hiểm',
+    'workshop.universe.dangerZone.desc': 'Bạn chỉ có thể xóa vũ trụ này khi nó không có bất kỳ câu chuyện nào đã được đăng và được đăng cách đây ít hơn một tháng. Nếu bạn cần xóa nó sau thời hạn này, vui lòng liên hệ với chúng tôi.',
+    'workshop.universe.delete.modalAria': 'Hộp thoại xác nhận khi xóa một vũ trụ',
+    'workshop.universe.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
+    'workshop.universe.delete.button': 'Xóa Vũ trụ',
     'workshop.universe.description': 'Mô tả vũ trụ',
     'workshop.settings.title': 'Tiêu đề',
     'workshop.description': 'Mô tả',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Hướng dẫn nhanh về Thema',
     'workshop.story.new': 'Tạo một câu chuyện mới',
     'workshop.story.publishing.notice': 'Câu chuyện sẽ được xuất bản tự động sau khi bạn xuất bản chương đầu tiên.',
+    'workshop.story.published.congratulations.title': 'Chúc mừng! Bài viết của bạn đã được đăng tải.',
+    'workshop.story.published.congratulations.heading': 'Chúc mừng! Câu chuyện của bạn đã được đăng tải.',
+    'workshop.story.published.congratulations.description': 'Hành trình viết lách của bạn tiếp tục. Câu chuyện của bạn giờ đây đã sẵn sàng để được khám phá và thưởng thức bởi độc giả.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Đi đến trang câu chuyện',
+    'workshop.story.published.congratulations.imageAlt': 'Hình minh họa cho câu chuyện đã được xuất bản',
     'workshop.settings.edit': 'Chỉnh sửa cài đặt',
     'workshop.story.publishedOn': 'Truyện này đã được xuất bản vào {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Cài đặt câu chuyện',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Prevent publishing',
     'workshop.story.preventPublishingTooltip': 'When enabled, this story cannot be published. This is useful for stories that are still in development or for stories that are meant for private use only.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publishing is prevented because the universe has the prevent publishing setting enabled.',
+    'workshop.story.showChapterNumbersInListing': 'Hiển thị số chương trong danh sách chương',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Khi được bật, số chương sẽ hiển thị cho độc giả trong danh sách các chương của câu chuyện.',
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
+    'workshop.story.delete.modalAria': 'Hộp thoại xác nhận khi xóa một bài viết',
+    'workshop.story.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
+    'workshop.story.delete.button': 'Xóa câu chuyện',
+    'workshop.story.private.universeExplain': 'Câu chuyện này là riêng tư vì thế giới của nó là riêng tư.',
+    'workshop.story.makePublicWithUniverse.button': 'Công khai Câu chuyện và Vũ trụ',
+    'workshop.universe.makePublic.only.button': 'Chỉ công khai cho Universe',
+    'workshop.universe.makePublic.only.modalAria': 'Cửa sổ xác nhận để công khai một vũ trụ',
+    'workshop.universe.makePublic.only.warning': 'Điều này chỉ làm cho vũ trụ này trở nên công khai. Các câu chuyện trong vũ trụ này sẽ được giữ riêng tư cho đến khi được công khai từng cái một.',
+    'workshop.universe.makePublic.withStories.button': 'Làm cho Vũ trụ và Tất cả Câu chuyện trở nên công khai.',
+    'workshop.universe.makePublic.withStories.modalAria': 'Cửa sổ xác nhận để công khai vũ trụ và tất cả các câu chuyện',
+    'workshop.universe.makePublic.withStories.warning': 'Điều này khiến vũ trụ và tất cả các câu chuyện liên quan trở nên công khai.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Cửa sổ xác nhận cho việc xóa một chương',
-    'workshop.chapter.delete.confirm': 'Xóa Chương',
     'workshop.chapter.delete.warning': 'Bạn có chắc chắn muốn xóa "{title}" không? Hành động này không thể hoàn tác.',
     'workshop.chapter.delete.button': 'Xóa Chương',
     'workshop.chapter.delete.deleting': 'Đang xóa...',

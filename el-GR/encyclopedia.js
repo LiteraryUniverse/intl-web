@@ -225,7 +225,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'Σύμπαν για αντιγραφή',
     'encyclopedia.templateCopy.finished': 'Ολοκληρώθηκε η αντιγραφή',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Δημιουργία σύμπαντος από πρότυπο',
-    'encyclopedia.templateCreateUniverse.description': 'Δημιουργήστε ένα νέο σύμπαν με περιεχόμενο εγκυκλοπαίδειας με προ-σπορά από αυτό το πρότυπο. Το σύμπαν σας θα παραμείνει αδημοσίευτο μέχρι να αποφασίσετε να το δημοσιεύσετε.',
+    'encyclopedia.templateCreateUniverse.description': 'Δημιουργήστε ένα νέο σύμπαν με περιεχόμενο εγκυκλοπαίδειας με προ-σπορά από αυτό το πρότυπο. Το σύμπαν σας θα παραμείνει ιδιωτικό μέχρι να αποφασίσετε να το δημοσιοποιήσετε.',
     'encyclopedia.templateCreateUniverse.success': 'Το σύμπαν δημιουργήθηκε με επιτυχία! Αναπροσανατολισμός...',
     'encyclopedia.pronunciation.audio.play': 'Παίξτε προφορά',
     'encyclopedia.pronunciation.guide': 'Χρησιμοποιήστε <ipaLink>τη σημειογραφία IPA</ipaLink> όταν είναι δυνατόν. Η προφορά του Web Speech API είναι η καλύτερη δυνατή- δείτε <webSpeechLink>τα έγγραφα του MDN</webSpeechLink>.'

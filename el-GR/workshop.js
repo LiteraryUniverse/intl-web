@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Εάν δεν δημοσιεύσετε το σύμπαν, θα δημοσιευτεί αυτόματα όταν δημοσιευτεί η πρώτη ιστορία που συνδέεται με το σύμπαν.',
     'workshop.universe.settings': '{universe} ρυθμίσεις σύμπαντος',
     'workshop.universe.publishedOn': 'Αυτό το σύμπαν έχει δημοσιευτεί στις {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Αν χρειάζεστε βοήθεια, <contact>επικοινωνήστε μαζί μας</contact>.',
+    'workshop.work.delete.restrictions': `Μπορείτε να διαγράψετε αυτό το {type, select,
+    universe {σύμπαν μόνο αν δεν έχει δημοσιευμένες ιστορίες και}
+    story {ιστορία μόνο αν έχει}
+    other {έργο μόνο αν έχει}} δημοσιευτεί λιγότερο από ένα μήνα πριν. Χρειάζεστε βοήθεια μετά από αυτό; <contact>Επικοινωνήστε μαζί μας</contact>.`,
+    'workshop.work.delete.notAllowed': `Αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } δεν μπορεί πλέον να διαγραφεί μέσω αυτοεξυπηρέτησης. Αν χρειάζεστε την αφαίρεσή του, <contact>επικοινωνήστε μαζί μας</contact> και θα συνεργαστούμε μαζί σας για την ασφαλή αφαίρεσή του.`,
+    'workshop.work.delete.notAllowed.plain': `Αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } δεν μπορεί πλέον να διαγραφεί μέσω αυτοεξυπηρέτησης. Αν θέλετε να το αφαιρέσετε, επικοινωνήστε μαζί μας στο deletions@literaryuniverse.com και θα συνεργαστούμε μαζί σας για να το αφαιρέσουμε με ασφάλεια.`,
+    'workshop.work.danger.delete.desc': `Διαγράφει μόνιμα αυτό το {type, select,
+    universe {σύμπαν και συνδεδεμένα δεδομένα εργαστηρίου}
+    story {ιστορία με όλα τα κεφάλαια, τα στατιστικά στοιχεία και τις ενώσεις εργαστηρίων}
+    other {έργο και συναφή δεδομένα}
+  }.`,
+    'workshop.work.makePrivate.impact': `Η δημιουργία αυτού του {type, select,
+    universe {σύμπαντος}
+    story {ιστορίας}
+    other {έργου}
+  } το απομακρύνει από την ανακάλυψη και την αναζήτηση. Οι άνθρωποι που το έχουν ήδη στη βιβλιοθήκη τους διατηρούν την πρόσβαση. Οι νέοι χρήστες δεν μπορούν πλέον να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+    story { ή να το αγοράσουν εκτός αν τους το χαρίσετε}
+    other {~}
+  }.`,
+    'workshop.work.private.notice': `Αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {έργο}
+  } είναι προς το παρόν ιδιωτικό. Οι υπάρχοντες κάτοχοι βιβλιοθήκης εξακολουθούν να έχουν πρόσβαση. Οι νέοι χρήστες δεν μπορούν να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+    story { ή να το αγοράσουν}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Επιβεβαίωση modal για την πραγματοποίηση ενός {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } ιδιωτικό`,
+    'workshop.work.makePrivate.warning': `Το να κάνετε αυτό το {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {εργασία}
+  } ιδιωτικό θα το αφαιρέσει από τη δημόσια ανακάλυψη και αναζήτηση.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Επιβεβαίωση modal για τη δημιουργία ενός {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {έργο}
+  } Δημόσιο`,
+    'workshop.work.makePublic.warning': `Η δημοσιοποίηση αυτού του {type, select,
+    universe {σύμπαντος}
+    story {ιστορίας}
+    other {έργου}
+  } θα το κάνει και πάλι ανιχνεύσιμο και θα επιτρέψει σε νέους χρήστες να το προσθέσουν στη βιβλιοθήκη τους{type, select,
+    story { ή να το αγοράσουν}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Ζώνη κινδύνου',
+    'workshop.universe.dangerZone.desc': 'Μπορείτε να διαγράψετε αυτό το σύμπαν μόνο όταν δεν έχει δημοσιευμένες ιστορίες και έχει δημοσιευτεί πριν από λιγότερο από ένα μήνα. Αν χρειαστεί να το διαγράψετε μετά από αυτή την περιοριστική περίοδο, παρακαλούμε επικοινωνήστε μαζί μας.',
+    'workshop.universe.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός σύμπαντος',
+    'workshop.universe.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
+    'workshop.universe.delete.button': 'Διαγραφή σύμπαντος',
     'workshop.universe.description': 'Περιγραφή συμπαντικής ιστορίας',
     'workshop.settings.title': 'Τίτλος',
     'workshop.description': 'Περιγραφή',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Θέμα Γρήγορη αναφορά',
     'workshop.story.new': 'Δημιουργία νέας ιστορίας',
     'workshop.story.publishing.notice': 'Η ιστορία θα δημοσιευθεί αυτόματα μόλις δημοσιεύσετε το πρώτο κεφάλαιο.',
+    'workshop.story.published.congratulations.title': 'Συγχαρητήρια! Η ιστορία σας δημοσιεύεται',
+    'workshop.story.published.congratulations.heading': 'Συγχαρητήρια! Η ιστορία σας έχει δημοσιευτεί',
+    'workshop.story.published.congratulations.description': 'Το συγγραφικό σας ταξίδι συνεχίζεται. Η ιστορία σας είναι τώρα έτοιμη να ανακαλυφθεί και να την απολαύσουν οι αναγνώστες.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Πηγαίνετε στη σελίδα της ιστορίας',
+    'workshop.story.published.congratulations.imageAlt': 'Εικονογράφηση εορτασμού για δημοσιευμένη ιστορία',
     'workshop.settings.edit': 'Επεξεργασία ρυθμίσεων',
     'workshop.story.publishedOn': 'Αυτή η ιστορία δημοσιεύτηκε στις {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Ρυθμίσεις ιστορίας',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Αποτροπή δημοσίευσης',
     'workshop.story.preventPublishingTooltip': 'Όταν είναι ενεργοποιημένη, αυτή η ιστορία δεν μπορεί να δημοσιευτεί. Αυτό είναι χρήσιμο για ιστορίες που βρίσκονται ακόμα σε εξέλιξη ή για ιστορίες που προορίζονται μόνο για ιδιωτική χρήση.',
     'workshop.story.preventPublishingTooltipUniverse': 'Η δημοσίευση αποτρέπεται επειδή το σύμπαν έχει ενεργοποιήσει τη ρύθμιση αποτροπής δημοσίευσης.',
+    'workshop.story.showChapterNumbersInListing': 'Εμφάνιση αριθμών κεφαλαίων στην λίστα κεφαλαίων',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Όταν είναι ενεργοποιημένη, οι αριθμοί κεφαλαίων είναι ορατοί στους αναγνώστες στις λίστες κεφαλαίων της ιστορίας.',
     'workshop.revisions.new.public.disabled': 'Δεν είναι δυνατή η δημοσίευση ενώ η αποτροπή δημοσίευσης είναι ενεργοποιημένη στις ρυθμίσεις της ιστορίας.',
     'workshop.publishing.restricted': 'Λόγω παραβίασης της καλής συμπεριφοράς, απενεργοποιήσαμε τη δυνατότητά σας να δημοσιεύετε.',
     'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης',
+    'workshop.story.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή μιας ιστορίας',
+    'workshop.story.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
+    'workshop.story.delete.button': 'Διαγραφή ιστορίας',
+    'workshop.story.private.universeExplain': 'Αυτή η ιστορία είναι ιδιωτική επειδή το σύμπαν της είναι ιδιωτικό.',
+    'workshop.story.makePublicWithUniverse.button': 'Δημοσιοποίηση της ιστορίας και του σύμπαντος',
+    'workshop.universe.makePublic.only.button': 'Κάντε το σύμπαν μόνο δημόσιο',
+    'workshop.universe.makePublic.only.modalAria': 'Επιβεβαίωση μόνο για τη δημοσιοποίηση ενός σύμπαντος',
+    'workshop.universe.makePublic.only.warning': 'Αυτό καθιστά δημόσιο μόνο το σύμπαν. Οι ιστορίες σε αυτό το σύμπαν παραμένουν ιδιωτικές μέχρι να δημοσιευτούν μεμονωμένα.',
+    'workshop.universe.makePublic.withStories.button': 'Δημοσιοποιήστε το Σύμπαν και όλες τις ιστορίες',
+    'workshop.universe.makePublic.withStories.modalAria': 'Επιβεβαιωτικό modal για τη δημοσιοποίηση ενός σύμπαντος και όλων των ιστοριών',
+    'workshop.universe.makePublic.withStories.warning': 'Αυτό καθιστά το σύμπαν και όλες τις συνδεδεμένες ιστορίες δημόσιες.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Επιβεβαιωτικό modal για τη διαγραφή ενός κεφαλαίου',
-    'workshop.chapter.delete.confirm': 'Διαγραφή κεφαλαίου',
     'workshop.chapter.delete.warning': 'Σίγουρα θέλετε να διαγράψετε το "{title}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
     'workshop.chapter.delete.button': 'Διαγραφή κεφαλαίου',
     'workshop.chapter.delete.deleting': 'Διαγραφή...',

@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'இந்த கதைக்கு எங்களிடம் இருக்கும் வாய்ப்புகள் முடிவடைந்துள்ளன, ஆனால் சாதனை மேலும் முடியும், விரைவில் திரும்புங்கள்!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'மீண்டும் வருகின்றோம்!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'அடுத்த அத்தியாயம்',

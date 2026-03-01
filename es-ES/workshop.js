@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Si no publicas el universo, se publicará automáticamente cuando la primera historia relativa al universo se publique.',
     'workshop.universe.settings': 'Configuración del universo {universe}',
     'workshop.universe.publishedOn': 'Este universo se ha publicado el {date, date, long} {date, time,short}',
+    'workshop.work.deletion.contactUs': 'Si necesita ayuda, <contact>póngase en contacto con nosotros</contact>.',
+    'workshop.work.delete.restrictions': `Puede eliminar este {type, select,
+    universe {universo sólo si no tiene historias publicadas y}
+    story {historia sólo si}
+    other {trabajo sólo si}} se publicó hace menos de un mes. ¿Necesita ayuda después de eso? <contact>Póngase en contacto con nosotros</contact>.`,
+    'workshop.work.delete.notAllowed': `Este {type, select,
+    universe {universo}
+    story {historia}
+    other {trabajo}
+  } ya no puede eliminarse a través del autoservicio. Si necesita eliminarlo, <contact>póngase en contacto con nosotros</contact> y trabajaremos con usted para eliminarlo de forma segura.`,
+    'workshop.work.delete.notAllowed.plain': `Este {type, select,
+    universe {universo}
+    story {historia}
+    other {trabajo}
+  } ya no puede eliminarse a través del autoservicio. Si necesita eliminarlo, póngase en contacto con nosotros en deletions@literaryuniverse.com y trabajaremos con usted para eliminarlo de forma segura.`,
+    'workshop.work.danger.delete.desc': `Borra permanentemente este {type, select,
+    universe {universo y datos de talleres vinculados}
+    story {historia con todos los capítulos, estadísticas y asociaciones de talleres}
+    other {trabajo y datos relacionados}
+  }.`,
+    'workshop.work.makePrivate.impact': `Hacer que esta {type, select,
+    universe {universo}
+    story {historia}
+    other {obra}
+  } la elimine del descubrimiento y la búsqueda. Las personas que ya lo tienen en su biblioteca mantienen el acceso. Los nuevos usuarios ya no pueden añadirlo a su biblioteca{type, select,
+    story { ni comprarlo a menos que se lo regale}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Esta {type, select,
+    universe {universo}
+    story {historia}
+    other {obra}
+  } es actualmente privada. Los actuales poseedores de la biblioteca siguen teniendo acceso. Los nuevos usuarios no pueden añadirla a su biblioteca{type, select,
+    story { ni comprarla}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Hacer {type, select,
+    universe {Universo}
+    story {Historia}
+    other {Trabajo}
+  } Privado`,
+    'workshop.work.makePrivate.modalAria': `Modalidad de confirmación para hacer un {type, select,
+    universe {universo}
+    story {historia}
+    other {trabajo}
+  } privado`,
+    'workshop.work.makePrivate.warning': `Hacer esta {type, select,
+    universe {universo}
+    story {historia}
+    other {trabajo}
+  } privada la eliminará del descubrimiento y búsqueda públicos.`,
+    'workshop.work.makePublic.button': `Hacer {type, select,
+    universe {Universo}
+    story {Historia}
+    other {Trabajo}
+  } Público`,
+    'workshop.work.makePublic.modalAria': `Modalidad de confirmación para hacer un {type, select,
+    universe {universo}
+    story {historia}
+    other {trabajo}
+  } Público`,
+    'workshop.work.makePublic.warning': `Hacer pública esta {type, select,
+    universe {universo}
+    story {historia}
+    other {obra}
+  } hará que sea descubrible de nuevo y permitirá a nuevos usuarios añadirla a su biblioteca{type, select,
+    story { o comprarla}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Zona de peligro',
+    'workshop.universe.dangerZone.desc': 'Puede eliminar este universo sólo cuando no tenga historias publicadas y se haya publicado hace menos de un mes. Si necesita borrarlo después de este periodo de limitación, póngase en contacto con nosotros.',
+    'workshop.universe.delete.modalAria': 'Modalidad de confirmación para borrar un universo',
+    'workshop.universe.delete.warning': '¿Está seguro de que desea borrar "{title}"? Esta acción no se puede deshacer.',
+    'workshop.universe.delete.button': 'Borrar Universo',
     'workshop.universe.description': 'Descripción del universo',
     'workshop.settings.title': 'Título',
     'workshop.description': 'Descripción',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Referencia rápida del tema',
     'workshop.story.new': 'Crear una nueva historia',
     'workshop.story.publishing.notice': 'La historia se publicará de manera automática una vez hayas publicado el primer capítulo.',
+    'workshop.story.published.congratulations.title': '¡Enhorabuena! Su historia ha sido publicada',
+    'workshop.story.published.congratulations.heading': '¡Enhorabuena! Su historia ha sido publicada',
+    'workshop.story.published.congratulations.description': 'Su viaje de escritura continúa. Su historia ya está lista para ser descubierta y disfrutada por los lectores.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Ir a la página de la historia',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustración de celebración para una historia publicada',
     'workshop.settings.edit': 'Editar ajustes',
     'workshop.story.publishedOn': 'Esta historia se publicó el {date, date, long} a las {date, time, short}',
     'workshop.story.settings': 'Ajustes de la historia',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Evitar la publicación',
     'workshop.story.preventPublishingTooltip': 'Cuando está activada, esta historia no puede publicarse. Esto es útil para historias que aún están en desarrollo o para historias que están destinadas únicamente a uso privado.',
     'workshop.story.preventPublishingTooltipUniverse': 'Se impide la publicación porque el universo tiene activado el ajuste de impedir publicación.',
+    'workshop.story.showChapterNumbersInListing': 'Mostrar los números de capítulo en el listado de capítulos',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Cuando se activa, los números de capítulo son visibles para los lectores en los listados de capítulos de las historias.',
     'workshop.revisions.new.public.disabled': 'No se puede publicar cuando la opción de impedir la publicación está activada en los ajustes de la historia.',
     'workshop.publishing.restricted': 'Debido a una violación de buena conducta hemos desactivado su capacidad de publicar.',
     'workshop.story.buyingSettings': 'Ajustes de venta',
+    'workshop.story.delete.modalAria': 'Modalidad de confirmación para borrar una historia',
+    'workshop.story.delete.warning': '¿Está seguro de que desea borrar "{title}"? Esta acción no se puede deshacer.',
+    'workshop.story.delete.button': 'Borrar historia',
+    'workshop.story.private.universeExplain': 'Esta historia es privada porque su universo es privado.',
+    'workshop.story.makePublicWithUniverse.button': 'Hacer pública la historia y el universo',
+    'workshop.universe.makePublic.only.button': 'Hacer el universo sólo público',
+    'workshop.universe.makePublic.only.modalAria': 'Modalidad de confirmación para hacer un universo sólo público',
+    'workshop.universe.makePublic.only.warning': 'Esto hace que sólo el universo sea público. Las historias de este universo permanecen privadas hasta que se hacen públicas individualmente.',
+    'workshop.universe.makePublic.withStories.button': 'Hacer públicos el universo y todas las historias',
+    'workshop.universe.makePublic.withStories.modalAria': 'Modalidad de confirmación para hacer público un universo y todas las historias',
+    'workshop.universe.makePublic.withStories.warning': 'Esto hace que el universo y todas las historias vinculadas sean públicas.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modalidad de confirmación para borrar un capítulo',
-    'workshop.chapter.delete.confirm': 'Borrar capítulo',
     'workshop.chapter.delete.warning': '¿Está seguro de que desea borrar "{title}"? Esta acción no se puede deshacer.',
     'workshop.chapter.delete.button': 'Borrar capítulo',
     'workshop.chapter.delete.deleting': 'Borrar...',

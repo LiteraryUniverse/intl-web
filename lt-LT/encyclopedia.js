@@ -225,7 +225,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'Visata, į kurią kopijuoti',
     'encyclopedia.templateCopy.finished': 'Kopijavimas baigtas',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Sukurti visatą iš šablono',
-    'encyclopedia.templateCreateUniverse.description': 'Sukurkite naują visatą su iš anksto įkeltu enciklopedijos turiniu iš šio šablono. Jūsų visata liks nepaskelbta, kol nuspręsite ją paskelbti.',
+    'encyclopedia.templateCreateUniverse.description': 'Sukurkite naują visatą su iš anksto įkeltu enciklopedijos turiniu iš šio šablono. Jūsų visata išliks privati, kol nuspręsite ją paviešinti.',
     'encyclopedia.templateCreateUniverse.success': 'Visata sukurta sėkmingai! Peradresavimas...',
     'encyclopedia.pronunciation.audio.play': 'Groti tarimą',
     'encyclopedia.pronunciation.guide': 'Jei įmanoma, naudokite <ipaLink>IPA užrašą</ipaLink>. Web Speech API tarimas yra geriausias; žr. <webSpeechLink>MDN dokumentus</webSpeechLink>.'

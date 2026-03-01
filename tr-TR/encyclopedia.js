@@ -225,7 +225,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'Kopyalanacak evren',
     'encyclopedia.templateCopy.finished': 'Kopyalama tamamlandı',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Şablondan evren oluşturma',
-    'encyclopedia.templateCreateUniverse.description': 'Bu şablondan önceden tohumlanmış ansiklopedi içeriğiyle yeni bir evren oluşturun. Siz yayınlamaya karar verene kadar evreniniz yayınlanmamış olarak kalacaktır.',
+    'encyclopedia.templateCreateUniverse.description': 'Bu şablondan önceden tohumlanmış ansiklopedi içeriğiyle yeni bir evren oluşturun. Evreniniz, siz onu herkese açık hale getirmeye karar verene kadar gizli kalacaktır.',
     'encyclopedia.templateCreateUniverse.success': 'Evren başarıyla oluşturuldu! Yönlendiriliyor...',
     'encyclopedia.pronunciation.audio.play': 'Telaffuz çal',
     'encyclopedia.pronunciation.guide': 'Mümkün olduğunda <ipaLink>IPA gösterimini</ipaLink> kullanın. Web Speech API telaffuzu en iyi çabadır; <webSpeechLink>MDN dokümanlarına</webSpeechLink> bakın.'

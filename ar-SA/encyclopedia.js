@@ -225,7 +225,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'الكون المستهدف للنسخ إليه',
     'encyclopedia.templateCopy.finished': 'انتهاء عملية النسخ',
     'encyclopedia.templateCreateUniverse.modalTitle': 'إنشاء عالم من القالب',
-    'encyclopedia.templateCreateUniverse.description': 'أنشئ كونًا جديدًا بمحتوى موسوعة مُعد مسبقًا من هذا القالب. سيبقى كونك غير منشور حتى تقرر نشره.',
+    'encyclopedia.templateCreateUniverse.description': 'أنشئ كونًا جديدًا بمحتوى موسوعة مُعد مسبقًا من هذا القالب. سيظل كونك خاصًا حتى تقرر جعله عامًا.',
     'encyclopedia.templateCreateUniverse.success': 'تم إنشاء الكون بنجاح! إعادة توجيه...',
     'encyclopedia.pronunciation.audio.play': 'تشغيل النطق',
     'encyclopedia.pronunciation.guide': 'استخدم <ipaLink>تدوين IPA</ipaLink> عندما يكون ذلك ممكنًا. نطق Web Speech API هو أفضل جهد؛ راجع <webSpeechLink>مستندات MDN</webSpeechLink>.'

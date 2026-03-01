@@ -230,7 +230,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'Вселенная для копирования',
     'encyclopedia.templateCopy.finished': 'Копирование завершено',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Создайте вселенную из шаблона',
-    'encyclopedia.templateCreateUniverse.description': 'Создайте новую вселенную с предварительно загруженным содержимым энциклопедии из этого шаблона. Ваша вселенная будет оставаться неопубликованной до тех пор, пока Вы не решите ее опубликовать.',
+    'encyclopedia.templateCreateUniverse.description': 'Создайте новую вселенную с предварительно загруженным содержимым энциклопедии из этого шаблона. Ваша вселенная будет оставаться приватной до тех пор, пока Вы не решите сделать ее публичной.',
     'encyclopedia.templateCreateUniverse.success': 'Вселенная создана успешно! Перенаправление...',
     'encyclopedia.pronunciation.audio.play': 'Играйте в произношение',
     'encyclopedia.pronunciation.guide': 'По возможности используйте <ipaLink>нотацию IPA</ipaLink>. Произношение Web Speech API является наилучшим вариантом; см. <webSpeechLink>документацию MDN</webSpeechLink>.'

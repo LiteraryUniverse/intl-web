@@ -225,7 +225,7 @@ export default {
     'encyclopedia.templateCopy.targetUniverse': 'Kohdemaailma kopioimiseen',
     'encyclopedia.templateCopy.finished': 'Kopiointi valmis',
     'encyclopedia.templateCreateUniverse.modalTitle': 'Luo universumi mallista',
-    'encyclopedia.templateCreateUniverse.description': 'Luo uusi maailmankaikkeus, jossa on valmiiksi kylvetty tietosanakirjan sisältö tästä mallista. Universumi pysyy julkaisemattomana, kunnes päätät julkaista sen.',
+    'encyclopedia.templateCreateUniverse.description': 'Luo uusi maailmankaikkeus, jossa on valmiiksi kylvetty tietosanakirjan sisältö tästä mallista. Maailmankaikkeutesi pysyy yksityisenä, kunnes päätät tehdä siitä julkisen.',
     'encyclopedia.templateCreateUniverse.success': 'Maailmankaikkeus luotu onnistuneesti! Uudelleenohjaus...',
     'encyclopedia.pronunciation.audio.play': 'Toista ääntäminen',
     'encyclopedia.pronunciation.guide': 'Käytä <ipaLink>IPA-notaatiota</ipaLink> aina kun mahdollista. Web Speech API:n ääntäminen on paras mahdollinen; katso <webSpeechLink>MDN-asiakirjat</webSpeechLink>.'

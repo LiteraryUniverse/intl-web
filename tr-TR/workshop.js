@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Evreni yayınlamazsanız, evrene bağlı ilk hikaye yayınlandığında otomatik olarak yayınlanır.',
     'workshop.universe.settings': '{universe} evren ayarları',
     'workshop.universe.publishedOn': 'Bu evren {date, date, long} {date, time, short}üzerinde yayınlanmıştır.',
+    'workshop.work.deletion.contactUs': 'Yardıma ihtiyacınız varsa, <contact>bizimle iletişime</contact> geçin.',
+    'workshop.work.delete.restrictions': `Bu {type, select,
+    universe {evrenini yalnızca yayınlanmış hikayesi yoksa ve}
+    story {hikayesini yalnızca}
+    other {çalışması yalnızca}} bir aydan daha kısa bir süre önce yayınlanmışsa silebilirsiniz. Bundan sonra yardıma mı ihtiyacınız var? <contact>Bize ulaşın</contact>.`,
+    'workshop.work.delete.notAllowed': `Bu {type, select,
+    universe {evren}
+    story {hikaye}
+    other {iş}
+  } artık self servis aracılığıyla silinemez. Kaldırılması gerekiyorsa, <contact>bizimle iletişime</contact> geçin ve güvenli bir şekilde kaldırmak için sizinle birlikte çalışacağız.`,
+    'workshop.work.delete.notAllowed.plain': `Bu {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } artık self servis aracılığıyla silinemez. Kaldırılması gerekiyorsa, deletions@literaryuniverse.com adresinden bizimle iletişime geçin; güvenli bir şekilde kaldırmak için sizinle birlikte çalışacağız.`,
+    'workshop.work.danger.delete.desc': `Bunu kalıcı olarak siler {type, select,
+    universe {evren ve bağlantılı atölye verileri}
+    story {tüm bölümleri, istatistikleri ve atölye ilişkilerini içeren hikaye}
+    other {çalışma ve ilgili veriler}
+  }.`,
+    'workshop.work.makePrivate.impact': `Bunu {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } yapmak, onu keşif ve aramadan kaldırır. Kütüphanelerinde zaten bulunan kişiler erişmeye devam eder. Yeni kullanıcılar artık kütüphanelerine ekleyemez{type, select,
+    story { veya siz onlara hediye etmedikçe satın alamaz}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Bu {type, select,
+    universe {evren}
+    story {hikaye}
+    other {çalışma}
+  } şu anda özeldir. Mevcut kütüphane sahiplerinin hala erişimi vardır. Yeni kullanıcılar bunu kütüphanelerine ekleyemez{type, select,
+    story { veya satın alamaz}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Bir {type, select,
+    universe {evren}
+    story {hikaye}
+    other {iş}
+  } özel yapmak için onay modu`,
+    'workshop.work.makePrivate.warning': `Bunu {type, select,
+    universe {evren}
+    story {hikaye}
+    other {iş}
+  } özel yapmak, onu genel keşif ve aramadan kaldıracaktır.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Bir {type, select,
+    universe {evren}
+    story {hikaye}
+    other {iş}
+  } Kamu yapmak için onay modu`,
+    'workshop.work.makePublic.warning': `Bu {type, select,
+    universe {evreni}
+    story {hikayeyi}
+    other {çalışmayı}
+  } herkese açık hale getirmek, onu yeniden keşfedilebilir kılacak ve yeni kullanıcıların kütüphanelerine{type, select,
+    story { eklemelerine veya satın almalarına}
+    other {}
+  } olanak sağlayacaktır.`,
+    'workshop.universe.dangerZone': 'Tehlikeli bölge',
+    'workshop.universe.dangerZone.desc': 'Bu evreni yalnızca yayınlanmış hikayesi olmadığında ve bir aydan daha kısa bir süre önce yayınlandığında silebilirsiniz. Bu sınırlama süresinden sonra silmeniz gerekiyorsa, lütfen bizimle iletişime geçin.',
+    'workshop.universe.delete.modalAria': 'Bir evreni silmek için onay modalı',
+    'workshop.universe.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
+    'workshop.universe.delete.button': 'Evreni Sil',
     'workshop.universe.description': 'Evren açıklaması',
     'workshop.settings.title': 'Başlık',
     'workshop.description': 'Açıklama',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Hızlı Referans',
     'workshop.story.new': 'Yeni bir hikaye oluştur',
     'workshop.story.publishing.notice': 'İlk bölümü yayınladığınızda hikaye otomatik olarak yayınlanacaktır.',
+    'workshop.story.published.congratulations.title': 'Tebrikler! Hikayeniz yayınlandı',
+    'workshop.story.published.congratulations.heading': 'Tebrikler! Hikayeniz yayınlandı',
+    'workshop.story.published.congratulations.description': 'Yazma yolculuğunuz devam ediyor. Hikayeniz artık okuyucular tarafından keşfedilmeye ve keyifle okunmaya hazır.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Hikaye sayfasına git',
+    'workshop.story.published.congratulations.imageAlt': 'Yayınlanan hikaye için kutlama illüstrasyonu',
     'workshop.settings.edit': 'Ayarları düzenle',
     'workshop.story.publishedOn': 'Bu hikaye {date, date, long} {date, time, short}üzerinde yayınlandı.',
     'workshop.story.settings': 'Hikaye ayarları',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Yayınlamayı önleyin',
     'workshop.story.preventPublishingTooltip': 'Etkinleştirildiğinde, bu hikaye yayınlanamaz. Bu, hala geliştirme aşamasında olan veya yalnızca özel kullanım amaçlı hikayeler için kullanışlıdır.',
     'workshop.story.preventPublishingTooltipUniverse': 'Evrende yayınlamayı engelle ayarı etkinleştirilmiş olduğundan yayınlama engellenir.',
+    'workshop.story.showChapterNumbersInListing': 'Bölüm listesinde bölüm numaralarını göster',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Etkinleştirildiğinde, bölüm numaraları hikaye bölüm listelerinde okuyucular tarafından görülebilir.',
     'workshop.revisions.new.public.disabled': 'Öykü ayarlarında yayınlamayı engelle etkinleştirildiğinde yayınlanamıyor.',
     'workshop.publishing.restricted': 'İyi hal ihlali nedeniyle yayınlama yeteneğinizi devre dışı bıraktık.',
     'workshop.story.buyingSettings': 'Satış ayarları',
+    'workshop.story.delete.modalAria': 'Bir hikayeyi silmek için onay modalı',
+    'workshop.story.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
+    'workshop.story.delete.button': 'Hikayeyi Sil',
+    'workshop.story.private.universeExplain': 'Bu hikaye özeldir çünkü evreni özeldir.',
+    'workshop.story.makePublicWithUniverse.button': 'Hikayeyi ve Evreni Herkese Açık Hale Getirin',
+    'workshop.universe.makePublic.only.button': 'Evreni Yalnızca Herkese Açık Yapın',
+    'workshop.universe.makePublic.only.modalAria': 'Bir evreni yalnızca herkese açık hale getirmek için onaylama modu',
+    'workshop.universe.makePublic.only.warning': 'Bu sadece evreni kamuya açık hale getirir. Bu evrendeki hikayeler tek tek herkese açık hale getirilinceye kadar gizli kalır.',
+    'workshop.universe.makePublic.withStories.button': 'Evreni ve Tüm Hikayeleri Herkese Açık Yapın',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bir evreni ve tüm hikayeleri herkese açık hale getirmek için onaylama modu',
+    'workshop.universe.makePublic.withStories.warning': 'Bu, evreni ve bağlantılı tüm hikayeleri halka açık hale getirir.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bir bölümü silmek için onay modalı',
-    'workshop.chapter.delete.confirm': 'Bölüm Silme',
     'workshop.chapter.delete.warning': '"{title}" adresini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.',
     'workshop.chapter.delete.button': 'Bölüm Silme',
     'workshop.chapter.delete.deleting': 'Siliniyor...',

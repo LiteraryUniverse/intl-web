@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Selector de licențe',
     'licenses.chooser.button': 'Ajutați-mă să aleg o licență',
+    'licenses.chooser.button.about': 'Despre această licență',
     'licenses.chooser.ariaLabel': 'Alegeți o licență pentru lucrarea dvs.',
     'licenses.chooser.introduction': 'Acest instrument vă va ajuta să alegeți cea mai potrivită licență pentru lucrarea dumneavoastră. Licența determină modul în care alții pot utiliza lucrarea dvs. și afectează capacitatea dvs. de a o monetiza pe Literary Universe.',
     // License Chooser Wizard Steps

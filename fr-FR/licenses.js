@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Choix de licence',
     'licenses.chooser.button': 'Aidez-moi à choisir une licence',
+    'licenses.chooser.button.about': 'À propos de cette licence',
     'licenses.chooser.ariaLabel': 'Choisissez une licence pour votre travail',
     'licenses.chooser.introduction': 'Cet outil vous aidera à choisir la licence la plus appropriée pour votre œuvre. La licence détermine la manière dont les autres peuvent utiliser votre œuvre et influe sur votre capacité à la monétiser sur l\'Univers littéraire.',
     // License Chooser Wizard Steps

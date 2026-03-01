@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Jos et julkaise universumia, se julkaistaan automaattisesti kun ensimmäinen universumiin liitetty tarina julkaistaan.',
     'workshop.universe.settings': '{universe} universumin asetukset',
     'workshop.universe.publishedOn': 'Tämä universumi on julkaistu {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Jos tarvitset apua, <contact>ota meihin yhteyttä</contact>.',
+    'workshop.work.delete.restrictions': `Voit poistaa tämän {type, select,
+    universe {maailmankaikkeuden vain, jos sillä ei ole julkaistuja tarinoita ja}
+    story {tarinan vain, jos se}
+    other {teos vain, jos se}} on julkaistu alle kuukausi sitten. Tarvitsetko apua sen jälkeen? <contact>Ota meihin yhteyttä</contact>.`,
+    'workshop.work.delete.notAllowed': `Tätä {type, select,
+    universe {universumia}
+    story {tarinaa}
+    other {työtä}
+  } ei voi enää poistaa itsepalvelun kautta. Jos haluat poistaa sen, <contact>ota meihin yhteyttä</contact>, niin poistamme sen yhdessä kanssasi turvallisesti.`,
+    'workshop.work.delete.notAllowed.plain': `Tätä {type, select,
+    universe {universumia}
+    story {tarinaa}
+    other {työtä}
+  } ei voi enää poistaa itsepalvelun kautta. Jos haluat poistaa sen, ota yhteyttä osoitteeseen deletions@literaryuniverse.com, niin poistamme sen yhdessä kanssasi turvallisesti.`,
+    'workshop.work.danger.delete.desc': `Poistaa pysyvästi tämän {type, select,
+    universe {maailmankaikkeuden ja linkitetyt työpajatiedot}
+    story {tarinan kaikkine lukuineen, tilastointeineen ja työpajojen assosiaatioineen}
+    other {työn ja siihen liittyvät tiedot}
+  }.`,
+    'workshop.work.makePrivate.impact': `Tämän {type, select,
+    universe {maailmankaikkeuden}
+    story {tarinan}
+    other {työn}
+  } tekeminen poistaa sen löytämisen ja etsimisen tieltä. Ihmiset, joilla se jo on kirjastossaan, saavat sen edelleen käyttöönsä. Uudet käyttäjät eivät voi enää lisätä sitä kirjastoonsa{type, select,
+    story { tai ostaa sitä, ellet lahjoita sitä heille}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Tämä {type, select,
+    universe {maailmankaikkeus}
+    story {tarina}
+    other {työ}
+  } on tällä hetkellä yksityinen. Nykyisillä kirjaston haltijoilla on edelleen pääsy. Uudet käyttäjät eivät voi lisätä sitä kirjastoonsa{type, select,
+    story { tai ostaa sitä}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universum}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Vahvistusmodaali, jolla tehdään {type, select,
+    universe {universumi}
+    story {tarina}
+    other {työ}
+  } yksityinen`,
+    'workshop.work.makePrivate.warning': `Tämän {type, select,
+    universe {maailmankaikkeuden}
+    story {tarinan}
+    other {työn}
+  } yksityiseksi tekeminen poistaa sen julkiselta löytämiseltä ja haulta.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universum}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Vahvistusmodaali, jolla tehdään {type, select,
+    universe {maailmankaikkeus}
+    story {tarina}
+    other {työ}
+  } Julkinen`,
+    'workshop.work.makePublic.warning': `Tämän {type, select,
+    universe {maailmankaikkeuden}
+    story {tarinan}
+    other {teoksen}
+  } julkistaminen tekee siitä jälleen löydettävissä olevan ja antaa uusille käyttäjille mahdollisuuden lisätä sen kirjastoonsa{type, select,
+    story { tai ostaa sen}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Vaaravyöhyke',
+    'workshop.universe.dangerZone.desc': 'Voit poistaa tämän maailmankaikkeuden vain, jos siinä ei ole julkaistuja tarinoita ja se on julkaistu alle kuukausi sitten. Jos haluat poistaa sen tämän rajoitusajan jälkeen, ota meihin yhteyttä.',
+    'workshop.universe.delete.modalAria': 'Vahvistusikkuna universumin poistamista varten',
+    'workshop.universe.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
+    'workshop.universe.delete.button': 'Poista maailmankaikkeus',
     'workshop.universe.description': 'Universumin kuvaus',
     'workshop.settings.title': 'Otsikko',
     'workshop.description': 'Kuvaus',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Aiheen pikaohje',
     'workshop.story.new': 'Luo uusi tarina',
     'workshop.story.publishing.notice': 'Tarina julkaistaan automaattisesti, kun julkaiset ensimmäisen luvun.',
+    'workshop.story.published.congratulations.title': 'Onnittelut! Tarinasi on julkaistu',
+    'workshop.story.published.congratulations.heading': 'Onnittelut! Tarinasi on julkaistu',
+    'workshop.story.published.congratulations.description': 'Kirjoittajan matkasi jatkuu. Tarinasi on nyt valmis lukijoiden löydettäväksi ja nautittavaksi.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Siirry tarinan sivulle',
+    'workshop.story.published.congratulations.imageAlt': 'Julkaistun tarinan juhlakuvitus',
     'workshop.settings.edit': 'Muokkaa asetuksia',
     'workshop.story.publishedOn': 'Tämä tarina on julkaistu {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Tarinan asetukset',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Estä julkaiseminen',
     'workshop.story.preventPublishingTooltip': 'Kun se on käytössä, tätä tarinaa ei voi julkaista. Tämä on hyödyllistä tarinoille, jotka ovat vielä kehitteillä, tai tarinoille, jotka on tarkoitettu vain yksityiskäyttöön.',
     'workshop.story.preventPublishingTooltipUniverse': 'Julkaiseminen on estetty, koska universumin julkaisemisen estäminen -asetus on käytössä.',
+    'workshop.story.showChapterNumbersInListing': 'Näytä luvun numerot luvun luettelossa',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Kun tämä on käytössä, lukujen numerot näkyvät lukijoille tarinoiden lukuluetteloissa.',
     'workshop.revisions.new.public.disabled': 'Ei voi julkaista, kun julkaisemisen estäminen on otettu käyttöön tarinan asetuksissa.',
     'workshop.publishing.restricted': 'Hyvien käytöstapojen rikkomisen vuoksi olemme estäneet sinua julkaisemasta.',
     'workshop.story.buyingSettings': 'Myyntiasetukset',
+    'workshop.story.delete.modalAria': 'Vahvistusmodaali tarinan poistamista varten',
+    'workshop.story.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
+    'workshop.story.delete.button': 'Poista tarina',
+    'workshop.story.private.universeExplain': 'Tämä tarina on yksityinen, koska sen universumi on yksityinen.',
+    'workshop.story.makePublicWithUniverse.button': 'Julkaise tarina ja maailmankaikkeus',
+    'workshop.universe.makePublic.only.button': 'Tee universumista vain julkinen',
+    'workshop.universe.makePublic.only.modalAria': 'Vahvistusmodal vain universumin julkistamista varten',
+    'workshop.universe.makePublic.only.warning': 'Näin vain maailmankaikkeus on julkinen. Tämän maailmankaikkeuden tarinat pysyvät yksityisinä, kunnes ne julkistetaan erikseen.',
+    'workshop.universe.makePublic.withStories.button': 'Julkaise universumi ja kaikki tarinat',
+    'workshop.universe.makePublic.withStories.modalAria': 'Vahvistusmodaliteetti universumin ja kaikkien tarinoiden julkaisemiseksi julkiseksi',
+    'workshop.universe.makePublic.withStories.warning': 'Tämä tekee universumista ja kaikista siihen liittyvistä tarinoista julkisia.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Luvun poistamisen vahvistusikkuna',
-    'workshop.chapter.delete.confirm': 'Poista luku',
     'workshop.chapter.delete.warning': 'Haluatko varmasti poistaa "{title}"? Tätä toimenpidettä ei voi peruuttaa.',
     'workshop.chapter.delete.button': 'Poista luku',
     'workshop.chapter.delete.deleting': 'Poistaminen...',

@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'Sin ár gceann ghortaígí go fóill don scéal, ach leanfaidh an eachtra ar aghaidh sa todhchaí, tic ar ais go luath!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'Tic ar ais arís go luath!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'An chéad chaibidil eile',

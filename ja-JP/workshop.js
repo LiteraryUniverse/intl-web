@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': '宇宙を公開していない場合は、最初の物語が宇宙に接続されると自動的に公開されます。',
     'workshop.universe.settings': '{universe} 宇宙設定',
     'workshop.universe.publishedOn': 'この宇宙は {date, date, long} {date, time, short}に公開されました。',
+    'workshop.work.deletion.contactUs': '助けが必要な場合は、<contact>ご連絡</contact>ください。',
+    'workshop.work.delete.restrictions': `You can delete this {type, select,
+    universe {universe only if it has no published stories and}
+    story {story only if it}
+    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.notAllowed': `この {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } は、セルフサービスで削除できなくなりました。削除が必要な場合は、<contact>弊社までご連絡</contact>いただければ、安全に削除いたします。`,
+    'workshop.work.delete.notAllowed.plain': `この {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } は、セルフサービスで削除できなくなりました。削除が必要な場合は、deletions@literaryuniverse.com までご連絡ください。安全に削除するために協力いたします。`,
+    'workshop.work.danger.delete.desc': `この {type, select,
+    universe {ユニバースとリンクされたワークショップデータ}
+    story {すべてのチャプター、統計、ワークショップの関連性を持つストーリー}
+    other {仕事と関連するデータ}
+  }.`,
+    'workshop.work.makePrivate.impact': `Making this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } removes it from discovery and search. People who already have it in their library keep access. New users cannot add it to their library anymore{type, select,
+    story { or buy it unless you gift it to them}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `This {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } is currently private. Existing library holders still have access. New users cannot add it to their library{type, select,
+    story { or buy it}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Confirmation modal for making a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private`,
+    'workshop.work.makePrivate.warning': `Making this {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private will remove it from public discovery and search.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Confirmation modal for making a {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } Public`,
+    'workshop.work.makePublic.warning': `この {type, select,
+    universe {宇宙}
+    story {物語}
+    other {作品}
+  } を公開することで、再び発見できるようになり、新しいユーザーがライブラリに追加したり{type, select,
+    story { 購入したり}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': '危険地帯',
+    'workshop.universe.dangerZone.desc': 'このuniverseを削除できるのは、公開されたストーリーがなく、公開されてから1ヶ月以内の場合のみです。この制限期間後に削除する必要がある場合は、ご連絡ください。',
+    'workshop.universe.delete.modalAria': 'ユニバース削除の確認モーダル',
+    'workshop.universe.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
+    'workshop.universe.delete.button': '宇宙の削除',
     'workshop.universe.description': '宇宙解説',
     'workshop.settings.title': '題名',
     'workshop.description': 'あらすじ',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 テーマ・クイックリファレンス',
     'workshop.story.new': '新しい物語を作る',
     'workshop.story.publishing.notice': '第一章を発行すると、物語は自動的に公開されます。',
+    'workshop.story.published.congratulations.title': 'おめでとうあなたの物語が出版されました',
+    'workshop.story.published.congratulations.heading': 'おめでとうございます！あなたの記事が掲載されました',
+    'workshop.story.published.congratulations.description': 'あなたの執筆の旅は続きます。あなたの物語が読者に発見され、楽しんでもらえる準備が整いました。',
+    'workshop.story.published.congratulations.publicStoryBtn': 'ストーリーページへ',
+    'workshop.story.published.congratulations.imageAlt': '出版記念イラスト',
     'workshop.settings.edit': '編集設定',
     'workshop.story.publishedOn': 'この物語は{date, date,long} {date, time,short}に公開されました。',
     'workshop.story.settings': '物語の設定',
@@ -336,12 +415,24 @@ export default {
     'workshop.story.preventPublishing': '出版の防止',
     'workshop.story.preventPublishingTooltip': '有効にすると、このストーリーは公開できなくなります。これは、まだ開発中のストーリーや、私的利用のみを目的としたストーリーに便利です。',
     'workshop.story.preventPublishingTooltipUniverse': 'ユニバースでパブリッシングの禁止設定が有効になっているため、パブリッシングが禁止されています。',
+    'workshop.story.showChapterNumbersInListing': 'チャプターリストにチャプター番号を表示する',
+    'workshop.story.showChapterNumbersInListingTooltip': '有効にすると、ストーリーのチャプターリストにチャプター番号が表示されます。',
     'workshop.revisions.new.public.disabled': 'ストーリー設定でパブリッシュを防止する設定が有効になっている場合、パブリッシュできません。',
     'workshop.publishing.restricted': '善行違反のため、私たちはあなたの出版能力を無効にしました。',
     'workshop.story.buyingSettings': 'セール設定',
+    'workshop.story.delete.modalAria': 'ストーリー削除の確認モーダル',
+    'workshop.story.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
+    'workshop.story.delete.button': 'ストーリー削除',
+    'workshop.story.private.universeExplain': 'この物語が私的なのは、その宇宙が私的なものだからだ。',
+    'workshop.story.makePublicWithUniverse.button': 'ストーリーと宇宙を公開する',
+    'workshop.universe.makePublic.only.button': '宇宙を公開のみにする',
+    'workshop.universe.makePublic.only.modalAria': 'ユニバースを公開するためだけの確認モーダル',
+    'workshop.universe.makePublic.only.warning': 'これにより、ユニバースのみが公開される。このユニバースのストーリーは、個別に公開されるまでは非公開のままだ。',
+    'workshop.universe.makePublic.withStories.button': '宇宙とすべてのストーリーを公開する',
+    'workshop.universe.makePublic.withStories.modalAria': 'ユニバースとすべてのストーリーを公開するための確認モード',
+    'workshop.universe.makePublic.withStories.warning': 'これにより、宇宙とリンクされたすべてのストーリーが公開される。',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'チャプター削除の確認モーダル',
-    'workshop.chapter.delete.confirm': '章を削除',
     'workshop.chapter.delete.warning': '本当に "{title}" を削除しますか？この操作は取り消せません。',
     'workshop.chapter.delete.button': '章を削除',
     'workshop.chapter.delete.deleting': '削除...',

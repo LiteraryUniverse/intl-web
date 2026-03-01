@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Ha nem teszed közzé az univerzumot, akkor automatikusan közzé lesz téve, amikor az első a univerzumhoz kapcsolódó történet közzé lesz téve.',
     'workshop.universe.settings': '{universe} univerzum beállítások',
     'workshop.universe.publishedOn': 'Ez az univerzum megjelent a következő helyen: {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Ha segítségre van szüksége, <contact>forduljon hozzánk</contact>.',
+    'workshop.work.delete.restrictions': `Ezt a {type, select,
+    universe {univerzumot csak akkor törölheted, ha nincsenek publikált történetei, és}
+    story {történetet csak akkor, ha}
+    other {munkát csak akkor, ha}} kevesebb mint egy hónapja publikálták. Ezután segítségre van szüksége? <contact>Vegye fel velünk a kapcsolatot</contact>.`,
+    'workshop.work.delete.notAllowed': `Ez a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } már nem törölhető önkiszolgálással. Ha szüksége van az eltávolítására, <contact>lépjen kapcsolatba velünk</contact>, és együttműködünk Önnel a biztonságos eltávolításában.`,
+    'workshop.work.delete.notAllowed.plain': `Ez a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } már nem törölhető önkiszolgálással. Ha szüksége van az eltávolítására, lépjen kapcsolatba velünk a deletions@literaryuniverse.com címen, és együtt dolgozunk a biztonságos eltávolításán.`,
+    'workshop.work.danger.delete.desc': `Véglegesen törli ezt a {type, select,
+    universe {univerzumot és a kapcsolódó műhelyadatokat}
+    story {történetet az összes fejezettel, statisztikával és műhelytársítással}
+    other {munkát és kapcsolódó adatokat}
+  }.`,
+    'workshop.work.makePrivate.impact': `Ennek a {type, select,
+    universe {univerzumnak}
+    story {történet}
+    other {munkának}
+  } a felfedezés és a keresés alól való kivonása. Azok, akiknek már van a könyvtárukban, továbbra is hozzáférnek. Az új felhasználók már nem tudják hozzáadni a könyvtárukhoz{type, select,
+    story { vagy megvásárolni, hacsak nem ajándékozzák nekik}
+    other {~}
+  }.`,
+    'workshop.work.private.notice': `Ez a {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } jelenleg privát. A meglévő könyvtártulajdonosok továbbra is hozzáférhetnek. Új felhasználók nem tudják hozzáadni a könyvtárukhoz{type, select,
+    story { vagy megvásárolni}
+    other {~}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Megerősítés modális, hogy egy {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } privát`,
+    'workshop.work.makePrivate.warning': `A {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } magánjellegűvé tétele eltávolítja a nyilvános felfedezés és keresés alól.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Megerősítés modális, hogy egy {type, select,
+    universe {univerzum}
+    story {történet}
+    other {munka}
+  } Nyilvános`,
+    'workshop.work.makePublic.warning': `Ha ezt a {type, select,
+    universe {univerzumot}
+    story {történetet}
+    other {művet}
+  } nyilvánossá tesszük, az újra felfedezhetővé teszi, és lehetővé teszi az új felhasználók számára, hogy hozzáadják a könyvtárukhoz{type, select,
+    story { vagy megvásárolják}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Veszélyes zóna',
+    'workshop.universe.dangerZone.desc': 'Ezt az univerzumot csak akkor törölheti, ha nincsenek publikált történetei, és kevesebb mint egy hónapja jelent meg. Ha ezen elévülési idő után kell törölnie, kérjük, lépjen kapcsolatba velünk.',
+    'workshop.universe.delete.modalAria': 'Megerősítő modal egy univerzum törléséhez',
+    'workshop.universe.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
+    'workshop.universe.delete.button': 'Univerzum törlése',
     'workshop.universe.description': 'Univerzum leírás',
     'workshop.settings.title': 'Cím',
     'workshop.description': 'Leírás',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Téma gyorsreferencia',
     'workshop.story.new': 'Új történet létrehozása',
     'workshop.story.publishing.notice': 'A történet automatikusan közzé lesz téve, amint közzéteszed az első fejezetet.',
+    'workshop.story.published.congratulations.title': 'Gratulálunk! A történeted megjelent',
+    'workshop.story.published.congratulations.heading': 'Gratulálunk! Történeted megjelent',
+    'workshop.story.published.congratulations.description': 'Az írói utazásod folytatódik. Történeted most már készen áll arra, hogy az olvasók felfedezzék és élvezzék.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Tovább a történet oldalra',
+    'workshop.story.published.congratulations.imageAlt': 'Ünnepi illusztráció a megjelent történethez',
     'workshop.settings.edit': 'Beállítások szerkesztése',
     'workshop.story.publishedOn': 'Ez a történet megjelent a következő helyen: {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Történet beállítások',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'A közzététel megakadályozása',
     'workshop.story.preventPublishingTooltip': 'Ha engedélyezve van, ez a történet nem tehető közzé. Ez olyan történeteknél hasznos, amelyek még fejlesztés alatt állnak, vagy olyan történeteknél, amelyeket csak magáncélú felhasználásra szánnak.',
     'workshop.story.preventPublishingTooltipUniverse': 'A közzététel megakadályozott, mivel az univerzumban engedélyezve van a közzététel megakadályozása beállítás.',
+    'workshop.story.showChapterNumbersInListing': 'A fejezetek számának megjelenítése a fejezetlistában',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Ha engedélyezve van, a fejezetek számai láthatóak az olvasók számára a történetek fejezetlistáiban.',
     'workshop.revisions.new.public.disabled': 'Nem lehet közzétenni, ha a történet beállításaiban engedélyezve van a közzététel megakadályozása.',
     'workshop.publishing.restricted': 'A jó magaviselet megsértése miatt letiltottuk a publikálási lehetőségét.',
     'workshop.story.buyingSettings': 'Értékesítési beállítások',
+    'workshop.story.delete.modalAria': 'Megerősítő modal egy történet törléséhez',
+    'workshop.story.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
+    'workshop.story.delete.button': 'Történet törlése',
+    'workshop.story.private.universeExplain': 'Ez a történet magánügy, mert az univerzum magánügy.',
+    'workshop.story.makePublicWithUniverse.button': 'A történet és az univerzum nyilvánosságra hozatala',
+    'workshop.universe.makePublic.only.button': 'Csak az univerzumot tegye nyilvánossá',
+    'workshop.universe.makePublic.only.modalAria': 'Megerősítési modal csak az univerzum nyilvánosságra hozatalához',
+    'workshop.universe.makePublic.only.warning': 'Ez csak az univerzumot teszi nyilvánossá. Az ebben az univerzumban lévő történetek mindaddig magánügyek maradnak, amíg egyedileg nyilvánosságra nem hozzák őket.',
+    'workshop.universe.makePublic.withStories.button': 'Az Univerzum és az összes történet nyilvánossá tétele',
+    'workshop.universe.makePublic.withStories.modalAria': 'Megerősítési modál az univerzum és az összes történet nyilvánossá tételéhez',
+    'workshop.universe.makePublic.withStories.warning': 'Ezáltal az univerzum és az összes kapcsolódó történet nyilvános lesz.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Megerősítő modal egy fejezet törléséhez',
-    'workshop.chapter.delete.confirm': 'Fejezet törlése',
     'workshop.chapter.delete.warning': 'Biztos vagy benne, hogy törölni akarod a "{title}"? Ezt a műveletet nem lehet visszacsinálni.',
     'workshop.chapter.delete.button': 'Fejezet törlése',
     'workshop.chapter.delete.deleting': 'Törlés...',

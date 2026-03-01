@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Licentie Kiezer',
     'licenses.chooser.button': 'Help mij een licentie te kiezen',
+    'licenses.chooser.button.about': 'Over deze licentie',
     'licenses.chooser.ariaLabel': 'Kies een licentie voor uw werk',
     'licenses.chooser.introduction': 'Deze tool helpt u bij het kiezen van de meest geschikte licentie voor uw werk. De licentie bepaalt hoe anderen uw werk kunnen gebruiken en beïnvloedt uw mogelijkheden om er geld mee te verdienen op Literary Universe.',
     // License Chooser Wizard Steps

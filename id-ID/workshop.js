@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Jika Anda tidak mempublikasikan alam semesta, maka akan dipublikasikan secara otomatis ketika cerita pertama yang terhubung ke alam semesta dipublikasikan.',
     'workshop.universe.settings': '{universe} pengaturan alam semesta',
     'workshop.universe.publishedOn': 'Semesta ini telah diterbitkan pada {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Jika Anda membutuhkan bantuan, <contact>hubungi kami</contact>.',
+    'workshop.work.delete.restrictions': `Anda dapat menghapus {type, select,
+    universe {semesta ini hanya jika tidak memiliki cerita yang dipublikasikan dan}
+    story {cerita hanya jika}
+    other {karya hanya jika}} diterbitkan kurang dari satu bulan yang lalu. Butuh bantuan setelah itu? <contact>Hubungi kami</contact>.`,
+    'workshop.work.delete.notAllowed': `Ini {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {pekerjaan}
+  } tidak dapat lagi dihapus melalui layanan mandiri. Jika Anda ingin menghapusnya, <contact>hubungi kami</contact> dan kami akan bekerja sama dengan Anda untuk menghapusnya dengan aman.`,
+    'workshop.work.delete.notAllowed.plain': `Ini {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {pekerjaan}
+  } tidak dapat lagi dihapus melalui layanan mandiri. Jika Anda ingin menghapusnya, hubungi kami di deletions@literaryuniverse.com dan kami akan membantu Anda untuk menghapusnya dengan aman.`,
+    'workshop.work.danger.delete.desc': `Menghapus secara permanen {type, select,
+    universe {alam semesta dan data bengkel terkait}
+    story {cerita dengan semua bab, statistik, dan asosiasi bengkel}
+    other {pekerjaan dan data terkait}
+  }.`,
+    'workshop.work.makePrivate.impact': `Membuat ini {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {karya}
+  } menghilangkannya dari penemuan dan pencarian. Pengguna yang sudah memilikinya di perpustakaan mereka akan tetap memiliki akses. Pengguna baru tidak dapat menambahkannya ke perpustakaan mereka lagi{type, select,
+    story { atau membelinya kecuali jika Anda menghadiahkannya kepada mereka}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Ini {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {karya}
+  } saat ini bersifat pribadi. Pemegang perpustakaan yang ada masih memiliki akses. Pengguna baru tidak dapat menambahkannya ke perpustakaan{type, select,
+    story { atau membelinya}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Membuat {type, select,
+    universe {Semesta}
+    story {Cerita}
+    other {Karya}
+  } Pribadi`,
+    'workshop.work.makePrivate.modalAria': `Modal konfirmasi untuk membuat {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {pekerjaan}
+  } pribadi`,
+    'workshop.work.makePrivate.warning': `Menjadikan ini {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {karya}
+  } pribadi akan menghapusnya dari penemuan dan pencarian publik.`,
+    'workshop.work.makePublic.button': `Membuat {type, select,
+    universe {Semesta}
+    story {Cerita}
+    other {Karya}
+  } Publik`,
+    'workshop.work.makePublic.modalAria': `Modal konfirmasi untuk membuat {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {karya}
+  } Publik`,
+    'workshop.work.makePublic.warning': `Menjadikan {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {karya}
+  } publik akan membuatnya dapat ditemukan kembali dan memungkinkan pengguna baru untuk menambahkannya ke perpustakaan{type, select,
+    story { atau membelinya}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Zona bahaya',
+    'workshop.universe.dangerZone.desc': 'Anda dapat menghapus semesta ini hanya jika tidak ada cerita yang diterbitkan dan diterbitkan kurang dari satu bulan yang lalu. Jika Anda ingin menghapusnya setelah periode pembatasan ini, silakan hubungi kami.',
+    'workshop.universe.delete.modalAria': 'Modal konfirmasi untuk menghapus semesta',
+    'workshop.universe.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
+    'workshop.universe.delete.button': 'Hapus Semesta',
     'workshop.universe.description': 'Deskripsi alam semesta',
     'workshop.settings.title': 'Judul',
     'workshop.description': 'Deskripsi',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Referensi Cepat Tema',
     'workshop.story.new': 'Buat cerita baru',
     'workshop.story.publishing.notice': 'Cerita akan dipublikasikan secara otomatis setelah Anda mempublikasikan bab pertama.',
+    'workshop.story.published.congratulations.title': 'Selamat! Cerita Anda telah diterbitkan',
+    'workshop.story.published.congratulations.heading': 'Selamat! Cerita Anda telah diterbitkan',
+    'workshop.story.published.congratulations.description': 'Perjalanan menulis Anda terus berlanjut. Cerita Anda sekarang siap untuk ditemukan dan dinikmati oleh para pembaca.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Pergi ke halaman cerita',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustrasi perayaan untuk cerita yang diterbitkan',
     'workshop.settings.edit': 'Edit pengaturan',
     'workshop.story.publishedOn': 'Cerita ini telah diterbitkan pada {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Pengaturan cerita',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Mencegah penerbitan',
     'workshop.story.preventPublishingTooltip': 'Ketika diaktifkan, cerita ini tidak dapat dipublikasikan. Ini berguna untuk cerita yang masih dalam pengembangan atau untuk cerita yang dimaksudkan hanya untuk penggunaan pribadi.',
     'workshop.story.preventPublishingTooltipUniverse': 'Penerbitan dicegah karena alam semesta mengaktifkan pengaturan cegah penerbitan.',
+    'workshop.story.showChapterNumbersInListing': 'Menampilkan nomor bab dalam daftar bab',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Apabila diaktifkan, nomor bab akan terlihat oleh pembaca dalam daftar bab cerita.',
     'workshop.revisions.new.public.disabled': 'Tidak dapat menerbitkan saat mencegah penerbitan diaktifkan di pengaturan cerita.',
     'workshop.publishing.restricted': 'Karena pelanggaran tata tertib, kami telah menonaktifkan kemampuan Anda untuk mempublikasikan.',
     'workshop.story.buyingSettings': 'Pengaturan penjualan',
+    'workshop.story.delete.modalAria': 'Modal konfirmasi untuk menghapus cerita',
+    'workshop.story.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
+    'workshop.story.delete.button': 'Menghapus Cerita',
+    'workshop.story.private.universeExplain': 'Kisah ini bersifat pribadi karena alam semesta ini bersifat pribadi.',
+    'workshop.story.makePublicWithUniverse.button': 'Membuat Cerita dan Alam Semesta Menjadi Publik',
+    'workshop.universe.makePublic.only.button': 'Jadikan Universe Hanya untuk Publik',
+    'workshop.universe.makePublic.only.modalAria': 'Modal konfirmasi untuk membuat alam semesta menjadi publik saja',
+    'workshop.universe.makePublic.only.warning': 'Hal ini membuat hanya alam semesta yang menjadi publik. Cerita di alam semesta ini tetap bersifat pribadi sampai dipublikasikan secara individual.',
+    'workshop.universe.makePublic.withStories.button': 'Jadikan Alam Semesta dan Semua Cerita Menjadi Publik',
+    'workshop.universe.makePublic.withStories.modalAria': 'Modal konfirmasi untuk membuat alam semesta dan semua cerita menjadi publik',
+    'workshop.universe.makePublic.withStories.warning': 'Hal ini membuat alam semesta dan semua cerita yang terkait menjadi publik.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Modal konfirmasi untuk menghapus bab',
-    'workshop.chapter.delete.confirm': 'Menghapus Bab',
     'workshop.chapter.delete.warning': 'Apakah Anda yakin ingin menghapus "{title}"? Tindakan ini tidak dapat dibatalkan.',
     'workshop.chapter.delete.button': 'Menghapus Bab',
     'workshop.chapter.delete.deleting': 'Menghapus...',

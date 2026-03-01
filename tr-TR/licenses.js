@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Lisans Seçici',
     'licenses.chooser.button': 'Bir lisans seçmeme yardım edin',
+    'licenses.chooser.button.about': 'Bu lisans hakkında',
     'licenses.chooser.ariaLabel': 'Çalışmanız için bir lisans seçin',
     'licenses.chooser.introduction': 'Bu araç, çalışmanız için en uygun lisansı seçmenize yardımcı olacaktır. Lisans, başkalarının çalışmanızı nasıl kullanabileceğini belirler ve Literary Universe\'te para kazanma yeteneğinizi etkiler.',
     // License Chooser Wizard Steps

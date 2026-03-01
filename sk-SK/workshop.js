@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Ak vesmír nezverejníte, bude zverejnený automaticky po zverejnení prvého príbehu spojeného s týmto vesmírom.',
     'workshop.universe.settings': 'Nastavenia vesmíru {universe}',
     'workshop.universe.publishedOn': 'Tento vesmír bol publikovaný {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Ak potrebujete pomoc, <contact>kontaktujte nás</contact>.',
+    'workshop.work.delete.restrictions': `Tento {type, select,
+    universe {vesmír môžete vymazať len vtedy, ak nemá žiadne uverejnené príbehy a}
+    story {príbeh len vtedy, ak}
+    other {práca len vtedy, ak}} bola uverejnená pred menej ako jedným mesiacom. Potrebujete pomoc aj potom? <contact>Kontaktujte nás.</contact>`,
+    'workshop.work.delete.notAllowed': `Tento {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {práca}
+  } už nie je možné odstrániť prostredníctvom samoobsluhy. Ak ho potrebujete odstrániť, <contact>kontaktujte nás</contact> a my s vami budeme spolupracovať na jeho bezpečnom odstránení.`,
+    'workshop.work.delete.notAllowed.plain': `Tento {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {práca}
+  } už nie je možné odstrániť prostredníctvom samoobsluhy. Ak ho potrebujete odstrániť, kontaktujte nás na adrese deletions@literaryuniverse.com a my s vami budeme spolupracovať na jeho bezpečnom odstránení.`,
+    'workshop.work.danger.delete.desc': `Trvalo odstráni tento {type, select,
+    universe {vesmír a prepojené údaje o dielňach}
+    story {príbeh so všetkými kapitolami, štatistikami a združeniami dielní}
+    other {práce a súvisiace údaje}
+  }.`,
+    'workshop.work.makePrivate.impact': `Vytváranie tohto {type, select,
+    universe {vesmíru}
+    story {príbehu}
+    other {diela}
+  } ho odstraňuje z objavovania a hľadania. Ľudia, ktorí ju už majú vo svojej knižnici, si k nej zachovajú prístup. Noví používatelia si ju už nemôžu pridať do svojej knižnice{type, select,
+    story { ani kúpiť, pokiaľ im ju nedarujete}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Tento {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {práca}
+  } je v súčasnosti súkromný. Existujúci držitelia knižnice k nemu majú stále prístup. Noví používatelia si ho nemôžu pridať do svojej knižnice{type, select,
+    story { ani zakúpiť}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Potvrdzovací modal na vytvorenie {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {práca}
+  } súkromný`,
+    'workshop.work.makePrivate.warning': `Tým, že tento {type, select,
+    universe {vesmír}
+    story {príbeh}
+    other {práca}
+  } bude súkromný, odstráni sa z verejného objavovania a vyhľadávania.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Potvrdenie modality na vytvorenie {type, select,
+    universe {vesmíru}
+    story {príbehu}
+    other {práce}
+  } verejnosti`,
+    'workshop.work.makePublic.warning': `Zverejnením tohto {type, select,
+    universe {vesmíru}
+    story {príbehu}
+    other {diela}
+  } sa opäť stane objaviteľným a umožní novým používateľom pridať si ho do svojej knižnice{type, select,
+    story { alebo si ho kúpiť}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Nebezpečná zóna',
+    'workshop.universe.dangerZone.desc': 'Tento vesmír môžete vymazať len vtedy, ak v ňom nie sú uverejnené žiadne príbehy a bol uverejnený pred menej ako jedným mesiacom. Ak ho potrebujete vymazať po uplynutí tejto lehoty, kontaktujte nás.',
+    'workshop.universe.delete.modalAria': 'Potvrdzovací modal pre vymazanie vesmíru',
+    'workshop.universe.delete.warning': 'Ste si istí, že chcete odstrániť "{title}"? Túto akciu nemožno vrátiť späť.',
+    'workshop.universe.delete.button': 'Vymazať vesmír',
     'workshop.universe.description': 'Popis vesmíru',
     'workshop.settings.title': 'Názov',
     'workshop.description': 'Popis',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Rýchla referencia k téme',
     'workshop.story.new': 'Vytvoriť nový príbeh',
     'workshop.story.publishing.notice': 'Príbeh sa zverejní automaticky po uverejnení prvej kapitoly.',
+    'workshop.story.published.congratulations.title': 'Gratulujeme! Váš príbeh je uverejnený',
+    'workshop.story.published.congratulations.heading': 'Gratulujeme! Váš príbeh bol uverejnený',
+    'workshop.story.published.congratulations.description': 'Vaša cesta za písaním pokračuje. Váš príbeh je teraz pripravený na to, aby ho objavili a vychutnali si ho čitatelia.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Prejsť na stránku príbehu',
+    'workshop.story.published.congratulations.imageAlt': 'Oslavná ilustrácia k publikovanému príbehu',
     'workshop.settings.edit': 'Upraviť nastavenia',
     'workshop.story.publishedOn': 'Tento príbeh bol uverejnený dňa {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Nastavenia príbehu',
@@ -351,12 +430,24 @@ export default {
     'workshop.story.preventPublishing': 'Zabrániť publikovaniu',
     'workshop.story.preventPublishingTooltip': 'Ak je táto možnosť povolená, tento príbeh nie je možné zverejniť. Je to užitočné pre príbehy, ktoré sú ešte vo vývoji, alebo pre príbehy, ktoré sú určené len na súkromné použitie.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publikovanie je zakázané, pretože vesmír má povolené nastavenie Zabrániť publikovaniu.',
+    'workshop.story.showChapterNumbersInListing': 'Zobrazenie čísel kapitol v zozname kapitol',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Ak je táto funkcia zapnutá, čísla kapitol sú viditeľné pre čitateľov v zoznamoch kapitol príbehov.',
     'workshop.revisions.new.public.disabled': 'Nie je možné publikovať, keď je v nastaveniach príbehu povolené zabrániť publikovaniu.',
     'workshop.publishing.restricted': 'Z dôvodu porušenia pravidiel slušného správania sme vám zakázali publikovať.',
     'workshop.story.buyingSettings': 'Nastavenia predaja',
+    'workshop.story.delete.modalAria': 'Potvrdzovací modal pre vymazanie príbehu',
+    'workshop.story.delete.warning': 'Ste si istí, že chcete odstrániť "{title}"? Túto akciu nemožno vrátiť späť.',
+    'workshop.story.delete.button': 'Vymazať príbeh',
+    'workshop.story.private.universeExplain': 'Tento príbeh je súkromný, pretože jeho vesmír je súkromný.',
+    'workshop.story.makePublicWithUniverse.button': 'Zverejnite príbeh a vesmír',
+    'workshop.universe.makePublic.only.button': 'Urobiť vesmír iba verejným',
+    'workshop.universe.makePublic.only.modalAria': 'Potvrdzovací modal pre zverejnenie vesmíru',
+    'workshop.universe.makePublic.only.warning': 'Tým sa zverejní iba vesmír. Príbehy v tomto vesmíre zostávajú súkromné, kým sa jednotlivo nezverejnia.',
+    'workshop.universe.makePublic.withStories.button': 'Zverejnite vesmír a všetky príbehy',
+    'workshop.universe.makePublic.withStories.modalAria': 'Potvrdzovací modal na zverejnenie vesmíru a všetkých príbehov',
+    'workshop.universe.makePublic.withStories.warning': 'Tým sa vesmír a všetky prepojené príbehy stanú verejnými.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Potvrdzovacie modálne okno pre vymazanie kapitoly',
-    'workshop.chapter.delete.confirm': 'Vymazať kapitolu',
     'workshop.chapter.delete.warning': 'Ste si istí, že chcete odstrániť "{title}"? Túto akciu nemožno vrátiť späť.',
     'workshop.chapter.delete.button': 'Vymazať kapitolu',
     'workshop.chapter.delete.deleting': 'Odstránenie...',

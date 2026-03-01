@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'Aceasta este tot ce avem pentru poveste până acum, dar aventura va continua în viitor, verifică din nou în curând!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'Acest capitol nu mai este disponibil',
     'chapter.translation.notYetDescription': 'Verifică din nou în curând!',
     'reader.externalShopping.heading': 'Obțineți {storyName} în alte locuri:',
     'chapter.next': 'Capitolul următor',

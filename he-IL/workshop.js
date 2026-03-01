@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'אם לא תפרסם את היחידה, היא תפורסם אוטומטית כאשר הסיפור הראשון המחובר ליחידה ייפורסם.',
     'workshop.universe.settings': '{universe} הגדרות יחידה',
     'workshop.universe.publishedOn': 'היקום הזה פורסם ב- {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'אם אתה זקוק לעזרה, <contact>צור איתנו קשר</contact>.',
+    'workshop.work.delete.restrictions': `ניתן למחוק את היקום הזה {type, select,
+    universe {רק אם אין בו סיפורים שפורסמו, ואת הסיפור}
+    story {רק אם}
+    other {עובד רק אם}} פורסם לפני פחות מחודש. זקוק לעזרה לאחר מכן? <contact>צור איתנו קשר</contact>.`,
+    'workshop.work.delete.notAllowed': `זה {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } לא ניתן עוד למחוק באמצעות שירות עצמי. אם אתה צריך להסיר אותו, <contact>צור איתנו קשר</contact> ואנו נעבוד איתך כדי להסיר אותו בבטחה.`,
+    'workshop.work.delete.notAllowed.plain': `זה {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } לא ניתן עוד למחוק באמצעות שירות עצמי. אם אתה צריך להסיר אותו, פנה אלינו בכתובת deletions@literaryuniverse.com ואנו נעבוד איתך כדי להסיר אותו בבטחה.`,
+    'workshop.work.danger.delete.desc': `מחק לצמיתות את היקום הזה {type, select,
+    universe {ואת נתוני הסדנה המקושרים אליו}
+    story {את הסיפור עם כל הפרקים, הסטטיסטיקות והקשרים לסדנה}
+    other {את העבודה ואת הנתונים הקשורים אליה}
+  }.`,
+    'workshop.work.makePrivate.impact': `ביצוע פעולה זו {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } מסיר אותה מהגילוי והחיפוש. אנשים שכבר יש להם אותה בספרייה שלהם שומרים על הגישה אליה. משתמשים חדשים לא יכולים להוסיף אותה לספרייה שלהם יותר{type, select,
+    story { או לקנות אותה, אלא אם כן אתה נותן להם אותה במתנה}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `זה {type, select,
+    universe {יקום}
+    story {סיפור}
+    other {עבודה}
+  } הוא כרגע פרטי. למחזיקי הספרייה הקיימים עדיין יש גישה. משתמשים חדשים אינם יכולים להוסיף אותו לספרייה שלהם{type, select,
+    story { או לקנות אותו}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `צור {type, select,
+    universe {יקום}
+    story {סיפור}
+    other {עבודה}
+  } פרטי`,
+    'workshop.work.makePrivate.modalAria': `מודל אישור ליצירת {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } private`,
+    'workshop.work.makePrivate.warning': `הפיכת {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } לפרטי תסיר אותו מהחיפוש והגילוי הציבוריים.`,
+    'workshop.work.makePublic.button': `צור {type, select,
+    universe {יקום}
+    story {סיפור}
+    other {עבודה}
+  } ציבורי`,
+    'workshop.work.makePublic.modalAria': `מודל אישור ליצירת {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } Public`,
+    'workshop.work.makePublic.warning': `פרסום {type, select,
+    universe {universe}
+    story {story}
+    other {work}
+  } לציבור הרחב יאפשר לגלות אותו מחדש ויאפשר למשתמשים חדשים להוסיף אותו לספרייתם{type, select,
+    story { או לרכוש אותו}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'אזור סכנה',
+    'workshop.universe.dangerZone.desc': 'ניתן למחוק יקום זה רק אם אין בו סיפורים שפורסמו והוא פורסם לפני פחות מחודש. אם אתה צריך למחוק אותו לאחר תקופת ההגבלה הזו, אנא פנה אלינו.',
+    'workshop.universe.delete.modalAria': 'מודל אישור למחיקת יקום',
+    'workshop.universe.delete.warning': 'האם אתה בטוח שברצונך למחוק את "{title}"? פעולה זו אינה ניתנת לביטול.',
+    'workshop.universe.delete.button': 'מחק יקום',
     'workshop.universe.description': 'תיאור היחידה',
     'workshop.settings.title': 'כותרת',
     'workshop.description': 'תיאור',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 התייחסות מהירה לנושא',
     'workshop.story.new': 'צור סיפור חדש',
     'workshop.story.publishing.notice': 'הסיפור יפורסם אוטומטית ברגע שתפרסמו את הפרק הראשון.',
+    'workshop.story.published.congratulations.title': 'מזל טוב! הסיפור שלך פורסם',
+    'workshop.story.published.congratulations.heading': 'מזל טוב! הסיפור שלך פורסם',
+    'workshop.story.published.congratulations.description': 'מסע הכתיבה שלך נמשך. הסיפור שלך מוכן כעת להיחשף ולקריאה מהנה על ידי הקוראים.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'עבור לדף הסיפור',
+    'workshop.story.published.congratulations.imageAlt': 'איור חגיגי לסיפור שפורסם',
     'workshop.settings.edit': 'עריכת הגדרות',
     'workshop.story.publishedOn': 'הסיפור הזה פורסם ב- {date, date, long} {date, time, short}',
     'workshop.story.settings': 'הגדרות הסיפור',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Prevent publishing',
     'workshop.story.preventPublishingTooltip': 'When enabled, this story cannot be published. This is useful for stories that are still in development or for stories that are meant for private use only.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publishing is prevented because the universe has the prevent publishing setting enabled.',
+    'workshop.story.showChapterNumbersInListing': 'הצג מספרי פרקים ברשימת הפרקים',
+    'workshop.story.showChapterNumbersInListingTooltip': 'כאשר אפשרות זו מופעלת, מספרי הפרקים נראים לקוראים ברשימת פרקי הסיפור.',
     'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.',
     'workshop.publishing.restricted': 'Due to good conduct violation we have disabled your ability to publish.',
     'workshop.story.buyingSettings': 'Sale settings',
+    'workshop.story.delete.modalAria': 'מודל אישור למחיקת סיפור',
+    'workshop.story.delete.warning': 'האם אתה בטוח שברצונך למחוק את "{title}"? פעולה זו אינה ניתנת לביטול.',
+    'workshop.story.delete.button': 'מחק סיפור',
+    'workshop.story.private.universeExplain': 'הסיפור הזה הוא פרטי כי היקום שלו הוא פרטי.',
+    'workshop.story.makePublicWithUniverse.button': 'הפוך את הסיפור והיקום לציבוריים',
+    'workshop.universe.makePublic.only.button': 'הפוך את היקום לציבורי בלבד',
+    'workshop.universe.makePublic.only.modalAria': 'מודל אישור להפוך יקום לציבורי בלבד',
+    'workshop.universe.makePublic.only.warning': 'זה הופך רק את היקום לציבורי. הסיפורים ביקום זה נשארים פרטיים עד שהם מתפרסמים באופן פרטני.',
+    'workshop.universe.makePublic.withStories.button': 'הפוך את היקום ואת כל הסיפורים לציבוריים',
+    'workshop.universe.makePublic.withStories.modalAria': 'מודל אישור ליצירת יקום וכל הסיפורים לציבור',
+    'workshop.universe.makePublic.withStories.warning': 'זה הופך את היקום ואת כל הסיפורים הקשורים אליו לציבוריים.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'מודל אישור למחיקת פרק',
-    'workshop.chapter.delete.confirm': 'מחק פרק',
     'workshop.chapter.delete.warning': 'האם אתה בטוח שברצונך למחוק את "{title}"? פעולה זו אינה ניתנת לביטול.',
     'workshop.chapter.delete.button': 'מחק פרק',
     'workshop.chapter.delete.deleting': 'מחיקה...',

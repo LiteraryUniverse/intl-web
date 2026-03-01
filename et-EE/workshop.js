@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Kui sa ei avalda universumit, siis see avaldatakse automaatselt, kui esimene universumiga seotud lugu avaldatakse.',
     'workshop.universe.settings': '{universe} universumi seaded',
     'workshop.universe.publishedOn': 'See universum on avaldatud {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Kui vajate abi, <contact>võtke meiega ühendust</contact>.',
+    'workshop.work.delete.restrictions': `Saate selle {type, select,
+    universe {universumi kustutada ainult siis, kui selles ei ole avaldatud lugusid ja}
+    story {lugu ainult siis, kui see}
+    other {töö ainult siis, kui see}} on avaldatud vähem kui üks kuu tagasi. Vajad abi pärast seda? <contact>Võtke meiega ühendust</contact>.`,
+    'workshop.work.delete.notAllowed': `Seda {type, select,
+    universe {universumit}
+    story {lugu}
+    other {tööd}
+  } ei saa enam iseteeninduse kaudu kustutada. Kui teil on vaja seda eemaldada, <contact>võtke meiega ühendust</contact> ja me teeme teiega koostööd selle turvaliseks eemaldamiseks.`,
+    'workshop.work.delete.notAllowed.plain': `Seda {type, select,
+    universe {universumit}
+    story {lugu}
+    other {tööd}
+  } ei saa enam iseteeninduse kaudu kustutada. Kui teil on vaja seda eemaldada, võtke meiega ühendust aadressil deletions@literaryuniverse.com ja me teeme teiega koostööd selle turvaliseks eemaldamiseks.`,
+    'workshop.work.danger.delete.desc': `Kustutab lõplikult selle {type, select,
+    universe {universumi ja lingitud töötoa andmed}
+    story {loo koos kõigi peatükkide, statistika ja töötoa seostega}
+    other {töö ja sellega seotud andmed}
+  }.`,
+    'workshop.work.makePrivate.impact': `Selle {type, select,
+    universe {universumi}
+    story {loo}
+    other {töö}
+  } tegemine eemaldab selle avastamisest ja otsimisest. Inimesed, kelle raamatukogus see juba olemas on, säilitavad juurdepääsu. Uued kasutajad ei saa seda enam oma raamatukogusse lisada{type, select,
+    story { ega osta, kui te seda neile ei kingi}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `See {type, select,
+    universe {universum}
+    story {lugu}
+    other {töö}
+  } on praegu privaatne. Olemasolevatel raamatukoguomanikel on endiselt juurdepääs. Uued kasutajad ei saa seda oma raamatukogusse{type, select,
+    story { lisada ega osta}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universum}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Kinnitusmodaali tegemiseks {type, select,
+    universe {universum}
+    story {lugu}
+    other {töö}
+  } privaatne`,
+    'workshop.work.makePrivate.warning': `Selle {type, select,
+    universe {universumi}
+    story {loo}
+    other {töö}
+  } privaatseks muutmine eemaldab selle avalikust avastamisest ja otsingust.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universum}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Kinnitusmodaali tegemiseks {type, select,
+    universe {universum}
+    story {lugu}
+    other {töö}
+  } avalikkus`,
+    'workshop.work.makePublic.warning': `Selle {type, select,
+    universe {universumi}
+    story {loo}
+    other {teose}
+  } avalikustamine muudab selle taas avastatavaks ja võimaldab uutel kasutajatel lisada seda oma raamatukogusse{type, select,
+    story { või osta seda}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Ohutsoon',
+    'workshop.universe.dangerZone.desc': 'Seda universumit saab kustutada ainult siis, kui selles ei ole avaldatud lugusid ja kui see on avaldatud vähem kui üks kuu tagasi. Kui teil on vaja seda kustutada pärast seda piiranguperioodi, võtke meiega ühendust.',
+    'workshop.universe.delete.modalAria': 'Universumi kustutamise kinnituse modaal',
+    'workshop.universe.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
+    'workshop.universe.delete.button': 'Kustuta Universum',
     'workshop.universe.description': 'Universumi kirjeldus',
     'workshop.settings.title': 'Pealkiri',
     'workshop.description': 'Kirjeldus',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Teema kiirviide',
     'workshop.story.new': 'Loo loomine',
     'workshop.story.publishing.notice': 'Lugu avaldatakse automaatselt pärast esimese peatüki avaldamist.',
+    'workshop.story.published.congratulations.title': 'Palju õnne! Teie lugu on avaldatud',
+    'workshop.story.published.congratulations.heading': 'Palju õnne! Teie lugu on avaldatud',
+    'workshop.story.published.congratulations.description': 'Teie kirjutamise teekond jätkub. Teie lugu on nüüd valmis selleks, et lugejad seda avastaksid ja naudiksid.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Mine loo leheküljele',
+    'workshop.story.published.congratulations.imageAlt': 'Pidulik illustratsioon avaldatud loo jaoks',
     'workshop.settings.edit': 'Seadete muutmine',
     'workshop.story.publishedOn': 'See lugu on avaldatud {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Loo seaded',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Avaldamise vältimine',
     'workshop.story.preventPublishingTooltip': 'Kui see on lubatud, ei saa seda lugu avaldada. See on kasulik lugude puhul, mis on veel väljatöötamisel või lugude puhul, mis on mõeldud ainult isiklikuks kasutamiseks.',
     'workshop.story.preventPublishingTooltipUniverse': 'Avaldamine on takistatud, sest universumis on lubatud säte "Avaldamise takistamine".',
+    'workshop.story.showChapterNumbersInListing': 'Näita peatükkide numbreid peatükkide loetelus',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Kui see on lubatud, on peatükkide numbrid lugejatele nähtavad loo peatükkide loetelus.',
     'workshop.revisions.new.public.disabled': 'Ei saa avaldada, kui loo seadetes on lubatud avaldamise vältimine.',
     'workshop.publishing.restricted': 'Hea käitumise rikkumise tõttu oleme keelanud teie avaldamisvõimaluse.',
     'workshop.story.buyingSettings': 'Müügi seaded',
+    'workshop.story.delete.modalAria': 'Kinnitusmoodul loo kustutamiseks',
+    'workshop.story.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
+    'workshop.story.delete.button': 'Kustuta lugu',
+    'workshop.story.private.universeExplain': 'See lugu on privaatne, sest selle universum on privaatne.',
+    'workshop.story.makePublicWithUniverse.button': 'Tee lugu ja universum avalikuks',
+    'workshop.universe.makePublic.only.button': 'Tee Universum ainult avalikuks',
+    'workshop.universe.makePublic.only.modalAria': 'Kinnitusmoodul ainult universumi avalikustamiseks',
+    'workshop.universe.makePublic.only.warning': 'See muudab ainult universumi avalikuks. Selles universumis olevad lood jäävad privaatseks, kuni neid ei avalikustata individuaalselt.',
+    'workshop.universe.makePublic.withStories.button': 'Tee Universum ja kõik lood avalikuks',
+    'workshop.universe.makePublic.withStories.modalAria': 'Universumi ja kõigi lugude avalikustamise kinnitamise modaal',
+    'workshop.universe.makePublic.withStories.warning': 'See muudab universumi ja kõik sellega seotud lood avalikuks.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Peatüki kustutamise kinnituse modaal',
-    'workshop.chapter.delete.confirm': 'Peatükk kustutada',
     'workshop.chapter.delete.warning': 'Kas olete kindel, et soovite kustutada "{title}"? Seda toimingut ei saa tagasi võtta.',
     'workshop.chapter.delete.button': 'Peatükk kustutada',
     'workshop.chapter.delete.deleting': 'Kustutamine...',

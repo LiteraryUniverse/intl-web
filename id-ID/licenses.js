@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Pemilih Lisensi',
     'licenses.chooser.button': 'Bantu saya memilih lisensi',
+    'licenses.chooser.button.about': 'Tentang lisensi ini',
     'licenses.chooser.ariaLabel': 'Pilih lisensi untuk pekerjaan Anda',
     'licenses.chooser.introduction': 'Alat ini akan membantu Anda memilih lisensi yang paling tepat untuk karya Anda. Lisensi menentukan bagaimana orang lain dapat menggunakan karya Anda dan memengaruhi kemampuan Anda untuk memonetisasinya di Literary Universe.',
     // License Chooser Wizard Steps

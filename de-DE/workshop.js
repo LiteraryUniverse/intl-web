@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Wenn Sie das Universum nicht veröffentlichen, wird es automatisch veröffentlicht, wenn die erste mit dem Universum verbundene Story veröffentlicht wird.',
     'workshop.universe.settings': '{universe} Universum Einstellungen',
     'workshop.universe.publishedOn': 'Dieses Universum wurde veröffentlicht auf {date, date, long} {date, time,short}',
+    'workshop.work.deletion.contactUs': 'Wenn Sie Hilfe benötigen, <contact>kontaktieren Sie uns</contact>.',
+    'workshop.work.delete.restrictions': `Sie können dieses {type, select,
+    universe {Universum nur löschen, wenn es keine veröffentlichten Geschichten hat und}
+    story {Geschichte nur, wenn sie}
+    other {Arbeit nur, wenn sie}} vor weniger als einem Monat veröffentlicht wurde. Benötigen Sie danach Hilfe? <contact>Kontaktieren Sie uns</contact>.`,
+    'workshop.work.delete.notAllowed': `Dieses {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Arbeit}
+  } kann nicht mehr über den Self-Service gelöscht werden. Wenn Sie es entfernen müssen, <contact>kontaktieren Sie uns</contact> und wir werden mit Ihnen zusammenarbeiten, um es sicher zu entfernen.`,
+    'workshop.work.delete.notAllowed.plain': `Diese {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Arbeit}
+  } kann nicht mehr über die Selbstbedienung gelöscht werden. Wenn Sie sie entfernen müssen, kontaktieren Sie uns unter deletions@literaryuniverse.com und wir werden mit Ihnen zusammenarbeiten, um sie sicher zu entfernen.`,
+    'workshop.work.danger.delete.desc': `Löscht permanent diese {type, select,
+    universe {Universum und verknüpfte Workshop-Daten}
+    story {Geschichte mit allen Kapiteln, Statistiken und Workshop-Zuordnungen}
+    other {Arbeit und verwandte Daten}
+  }.`,
+    'workshop.work.makePrivate.impact': `Wenn Sie dieses {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Werk}
+  } machen, wird es von der Entdeckung und Suche ausgeschlossen. Personen, die es bereits in ihrer Bibliothek haben, behalten den Zugang. Neue Benutzer können es nicht mehr zu ihrer Bibliothek hinzufügen{type, select,
+    story { oder es kaufen, es sei denn, Sie schenken es ihnen}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Dieses {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Werk}
+  } ist derzeit privat. Bestehende Bibliotheksinhaber haben noch Zugang. Neue Benutzer können es nicht zu ihrer Bibliothek{type, select,
+    story { hinzufügen oder es}
+    other {}
+  } kaufen.`,
+    'workshop.work.makePrivate.button': `Machen {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Arbeit}
+  } Privat`,
+    'workshop.work.makePrivate.modalAria': `Bestätigungsmodal für die Erstellung eines {type, select,
+    universe {Universums}
+    story {Geschichte}
+    other {Arbeit}
+  } Privat`,
+    'workshop.work.makePrivate.warning': `Wenn Sie dieses {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Arbeit}
+  } privat machen, wird es der öffentlichen Entdeckung und Suche entzogen.`,
+    'workshop.work.makePublic.button': `Machen {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Arbeit}
+  } Öffentlichkeit`,
+    'workshop.work.makePublic.modalAria': `Bestätigungsmodal für die Erstellung eines {type, select,
+    universe {Universums}
+    story {Geschichte}
+    other {Arbeit}
+  } Öffentlich`,
+    'workshop.work.makePublic.warning': `Wenn Sie dieses {type, select,
+    universe {Universum}
+    story {Geschichte}
+    other {Werk}
+  } öffentlich machen, wird es wieder auffindbar und ermöglicht es neuen Nutzern, es zu ihrer Bibliothek{type, select,
+    story { hinzuzufügen oder}
+    other {}
+  } zu kaufen.`,
+    'workshop.universe.dangerZone': 'Gefahrenzone',
+    'workshop.universe.dangerZone.desc': 'Sie können dieses Universum nur löschen, wenn es keine veröffentlichten Geschichten hat und vor weniger als einem Monat veröffentlicht wurde. Wenn Sie es nach dieser Frist löschen müssen, kontaktieren Sie uns bitte.',
+    'workshop.universe.delete.modalAria': 'Bestätigungsmodal für das Löschen eines Universums',
+    'workshop.universe.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
+    'workshop.universe.delete.button': 'Universum löschen',
     'workshop.universe.description': 'Universum Beschreibung',
     'workshop.settings.title': 'Titel',
     'workshop.description': 'Beschreibung',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Thema Schnellreferenz',
     'workshop.story.new': 'Eine neue Geschichte erstellen',
     'workshop.story.publishing.notice': 'Die Geschichte wird automatisch veröffentlicht, sobald Sie das erste Kapitel veröffentlichen.',
+    'workshop.story.published.congratulations.title': 'Herzlichen Glückwunsch! Ihre Geschichte ist veröffentlicht',
+    'workshop.story.published.congratulations.heading': 'Herzlichen Glückwunsch! Ihre Geschichte wurde veröffentlicht',
+    'workshop.story.published.congratulations.description': 'Ihre schriftstellerische Reise geht weiter. Ihre Geschichte ist nun bereit, von den Lesern entdeckt und genossen zu werden.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Zur Story-Seite gehen',
+    'workshop.story.published.congratulations.imageAlt': 'Feierliche Illustration für veröffentlichte Geschichte',
     'workshop.settings.edit': 'Einstellungen bearbeiten',
     'workshop.story.publishedOn': 'Diese Geschichte wurde veröffentlicht auf {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Einstellungen für die Geschichte',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Verhindern Sie die Veröffentlichung',
     'workshop.story.preventPublishingTooltip': 'Wenn diese Option aktiviert ist, kann diese Story nicht veröffentlicht werden. Dies ist nützlich für Artikel, die sich noch in der Entwicklung befinden, oder für Artikel, die nur für den privaten Gebrauch bestimmt sind.',
     'workshop.story.preventPublishingTooltipUniverse': 'Die Veröffentlichung wird verhindert, weil im Universum die Einstellung Veröffentlichung verhindern aktiviert ist.',
+    'workshop.story.showChapterNumbersInListing': 'Kapitelnummern in der Kapitelliste anzeigen',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Wenn diese Option aktiviert ist, sind die Kapitelnummern in den Kapitellisten der Geschichten für die Leser sichtbar.',
     'workshop.revisions.new.public.disabled': 'Die Veröffentlichung kann nicht erfolgen, wenn die Option Veröffentlichung verhindern in den Story-Einstellungen aktiviert ist.',
     'workshop.publishing.restricted': 'Aufgrund eines Verstoßes gegen die Regeln des guten Benehmens haben wir Ihre Fähigkeit zu veröffentlichen deaktiviert.',
     'workshop.story.buyingSettings': 'Verkauf Einstellungen',
+    'workshop.story.delete.modalAria': 'Bestätigungsmodal für das Löschen einer Story',
+    'workshop.story.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
+    'workshop.story.delete.button': 'Geschichte löschen',
+    'workshop.story.private.universeExplain': 'Diese Geschichte ist privat, weil ihr Universum privat ist.',
+    'workshop.story.makePublicWithUniverse.button': 'Geschichte und Universum öffentlich machen',
+    'workshop.universe.makePublic.only.button': 'Universum nur öffentlich machen',
+    'workshop.universe.makePublic.only.modalAria': 'Bestätigungsmodal für die Veröffentlichung eines Universums',
+    'workshop.universe.makePublic.only.warning': 'Dies macht nur das Universum öffentlich. Die Geschichten in diesem Universum bleiben privat, bis sie einzeln veröffentlicht werden.',
+    'workshop.universe.makePublic.withStories.button': 'Universum und alle Geschichten öffentlich machen',
+    'workshop.universe.makePublic.withStories.modalAria': 'Bestätigungsmodus, um ein Universum und alle Geschichten öffentlich zu machen',
+    'workshop.universe.makePublic.withStories.warning': 'Dadurch werden das Universum und alle damit verbundenen Geschichten öffentlich.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Bestätigungsdialog für das Löschen eines Kapitels',
-    'workshop.chapter.delete.confirm': 'Kapitel löschen',
     'workshop.chapter.delete.warning': 'Sind Sie sicher, dass Sie "{title}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
     'workshop.chapter.delete.button': 'Kapitel löschen',
     'workshop.chapter.delete.deleting': 'Löschen...',

@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Jei nepublikuosite visatos, ji bus publikuota automatiškai, kai bus publikuota pirmoji su ja susijusi istorija.',
     'workshop.universe.settings': '{universe} visatos nustatymai',
     'workshop.universe.publishedOn': 'Šis visata buvo išleista {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Jei reikia pagalbos, <contact>susisiekite su mumis.</contact>',
+    'workshop.work.delete.restrictions': `Šią {type, select,
+    universe {visatą galite ištrinti tik tuo atveju, jei joje nėra paskelbtų istorijų, o}
+    story {istoriją - tik tuo atveju, jei ji}
+    other {darbas - tik tuo atveju, jei ji}} buvo paskelbta mažiau nei prieš mėnesį. Reikia pagalbos po to? <contact>Susisiekite su mumis.</contact>`,
+    'workshop.work.delete.notAllowed': `Šios {type, select,
+    universe {visatos}
+    story {istorijos}
+    other {darbo}
+  } nebegalima ištrinti per savitarną. Jei jums reikia jį pašalinti, <contact>susisiekite su mumis</contact> ir mes kartu su jumis jį saugiai pašalinsime.`,
+    'workshop.work.delete.notAllowed.plain': `Šios {type, select,
+    universe {visatos}
+    story {istorijos}
+    other {darbo}
+  } nebegalima ištrinti per savitarną. Jei jums reikia jį pašalinti, susisiekite su mumis adresu deletions@literaryuniverse.com ir mes kartu su jumis saugiai jį pašalinsime.`,
+    'workshop.work.danger.delete.desc': `Visam laikui ištrina šį {type, select,
+    universe {visatą ir susietus dirbtuvių duomenis}
+    story {istoriją su visais skyriais, statistiniais duomenimis ir dirbtuvių asociacijomis}
+    other {darbą ir susijusius duomenis}
+  }.`,
+    'workshop.work.makePrivate.impact': `Padarius šią {type, select,
+    universe {visatą}
+    story {istoriją}
+    other {darbą}
+  } pašalinama iš atradimo ir paieškos. Žmonės, kurie ją jau turi savo bibliotekoje, išsaugo prieigą prie jos. Nauji naudotojai nebegali jos įtraukti į savo biblioteką{type, select,
+    story { arba nusipirkti, nebent jiems ją padovanosite}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Šis {type, select,
+    universe {visata}
+    story {istorija}
+    other {darbas}
+  } šiuo metu yra privatus. Esami bibliotekos turėtojai vis dar turi prieigą. Nauji naudotojai negali jo įtraukti į savo biblioteką{type, select,
+    story { arba įsigyti}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Padaryti {type, select,
+    universe {Visata}
+    story {Istorija}
+    other {Darbas}
+  } Privatus`,
+    'workshop.work.makePrivate.modalAria': `Patvirtinimo modalumas kuriant {type, select,
+    universe {visatą}
+    story {istoriją}
+    other {darbą}
+  } privatų`,
+    'workshop.work.makePrivate.warning': `Padarius šį {type, select,
+    universe {visata}
+    story {istorija}
+    other {darbas}
+  } privatų, jis bus pašalintas iš viešos aptikimo ir paieškos.`,
+    'workshop.work.makePublic.button': `Padaryti {type, select,
+    universe {Visata}
+    story {Istorija}
+    other {Darbas}
+  } Viešasis`,
+    'workshop.work.makePublic.modalAria': `Patvirtinimo modalumas kuriant {type, select,
+    universe {visatą}
+    story {istoriją}
+    other {darbą}
+  } viešą`,
+    'workshop.work.makePublic.warning': `Padarius šią {type, select,
+    universe {visatą}
+    story {istoriją}
+    other {kūrinį}
+  } viešai prieinamą, ją vėl bus galima atrasti ir nauji naudotojai galės ją įtraukti į savo biblioteką{type, select,
+    story { arba įsigyti}
+    other {~}
+  }.`,
+    'workshop.universe.dangerZone': 'Pavojinga zona',
+    'workshop.universe.dangerZone.desc': 'Šią visatą galite ištrinti tik tada, kai joje nėra paskelbtų istorijų ir ji buvo paskelbta mažiau nei prieš mėnesį. Jei norite ją ištrinti pasibaigus šiam senaties terminui, susisiekite su mumis.',
+    'workshop.universe.delete.modalAria': 'Visatos ištrynimo patvirtinimo modalinis langas',
+    'workshop.universe.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
+    'workshop.universe.delete.button': 'Ištrinti Visatą',
     'workshop.universe.description': 'Visatos aprašymas',
     'workshop.settings.title': 'Pavadinimas',
     'workshop.description': 'Aprašymas',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Temos greitoji nuoroda',
     'workshop.story.new': 'Sukurti naują istoriją',
     'workshop.story.publishing.notice': 'Istorija bus automatiškai publikuota, kai paskelbsite pirmąjį skyrių.',
+    'workshop.story.published.congratulations.title': 'Sveikiname! Jūsų istorija paskelbta',
+    'workshop.story.published.congratulations.heading': 'Sveikiname! Jūsų istorija paskelbta',
+    'workshop.story.published.congratulations.description': 'Tavo rašymo kelionė tęsiasi. Dabar jūsų istorija jau yra paruošta, kad ją atrastų ir ja mėgautųsi skaitytojai.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Eiti į istorijos puslapį',
+    'workshop.story.published.congratulations.imageAlt': 'Šventės iliustracija publikuotai istorijai',
     'workshop.settings.edit': 'Redaguoti nustatymus',
     'workshop.story.publishedOn': 'Ši istorija buvo išleista {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Istorijos nustatymai',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Užkirsti kelią leidybai',
     'workshop.story.preventPublishingTooltip': 'Kai ši funkcija įjungta, šios istorijos negalima skelbti. Tai naudinga istorijoms, kurios vis dar kuriamos, arba istorijoms, kurios skirtos tik asmeniniam naudojimui.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publikuoti neleidžiama, nes visatoje įjungtas nustatymas neleisti publikuoti.',
+    'workshop.story.showChapterNumbersInListing': 'Rodyti skyrių numerius skyrių sąraše',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Kai ši funkcija įjungta, skyrių numeriai matomi skaitytojams istorijos skyrių sąrašuose.',
     'workshop.revisions.new.public.disabled': 'Negalima publikuoti, kai istorijos nustatymuose įjungta funkcija neleisti publikuoti.',
     'workshop.publishing.restricted': 'Dėl geros elgsenos pažeidimo atjungėme jūsų galimybę publikuoti.',
     'workshop.story.buyingSettings': 'Pardavimo nustatymai',
+    'workshop.story.delete.modalAria': 'Istorijos ištrynimo patvirtinimo modalinis langas',
+    'workshop.story.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
+    'workshop.story.delete.button': 'Ištrinti istoriją',
+    'workshop.story.private.universeExplain': 'Ši istorija yra privati, nes jos visata yra privati.',
+    'workshop.story.makePublicWithUniverse.button': 'Paviešinkite istoriją ir visatą',
+    'workshop.universe.makePublic.only.button': 'Padaryti Visatą tik viešą',
+    'workshop.universe.makePublic.only.modalAria': 'Patvirtinimo modalinis rodinys, skirtas tik viešai paskelbti visatą',
+    'workshop.universe.makePublic.only.warning': 'Tokiu būdu viešai skelbiama tik visata. Šios visatos istorijos lieka privačios, kol nėra paviešintos atskirai.',
+    'workshop.universe.makePublic.withStories.button': 'Viešinkite Visatą ir visas istorijas',
+    'workshop.universe.makePublic.withStories.modalAria': 'Visatos ir visų istorijų viešinimo patvirtinimo modalumas',
+    'workshop.universe.makePublic.withStories.warning': 'Dėl to visata ir visos su ja susijusios istorijos tampa viešos.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Skyriaus ištrynimo patvirtinimo modalinis langas',
-    'workshop.chapter.delete.confirm': 'Ištrinti skyrių',
     'workshop.chapter.delete.warning': 'Ar tikrai norite ištrinti "{title}"? Šio veiksmo negalima atšaukti.',
     'workshop.chapter.delete.button': 'Ištrinti skyrių',
     'workshop.chapter.delete.deleting': 'Ištrinti...',

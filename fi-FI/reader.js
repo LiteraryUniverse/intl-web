@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'Tämä on kaikki mitä tällä hetkellä on tarinasta, mutta seikkailu jatkuu tulevaisuudessa. Tarkista uudelleen pian!',
     'reader.storyPreview.heading': 'Esikatselu valmis',
     'reader.storyPreview.description': 'Olet juuri lopettanut esikatselun. Tarinan loppuosa ei ole vielä täällä, mutta voit jatkaa sitä alla olevissa paikoissa.',
+    'reader.unpublishedChapter.heading': 'Tämä luku ei ole enää saatavilla',
     'chapter.translation.notYetDescription': 'Tarkista uudelleen pian!',
     'reader.externalShopping.heading': 'Hanki {storyName} muista paikoista:',
     'chapter.next': 'Seuraava luku',

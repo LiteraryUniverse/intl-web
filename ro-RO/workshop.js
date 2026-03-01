@@ -26,6 +26,80 @@ export default {
     'workshop.universe.publishing.notice': 'Dacă nu publici universul, acesta va fi publicat automat când prima poveste conectată la univers este publicată.',
     'workshop.universe.settings': '{universe} setări univers',
     'workshop.universe.publishedOn': 'Această univers a fost publicată pe {date, date, long} {date, time, short}',
+    'workshop.work.deletion.contactUs': 'Dacă aveți nevoie de ajutor, <contact>contactați-ne</contact>.',
+    'workshop.work.delete.restrictions': `Puteți șterge acest {type, select,
+    universe {univers doar dacă nu are nicio poveste publicată și}
+    story {poveste doar dacă aceasta}
+    other {lucrare doar dacă aceasta}} a fost publicată cu mai puțin de o lună în urmă. Ai nevoie de ajutor după aceea? <contact>Contactați-ne</contact>.`,
+    'workshop.work.delete.notAllowed': `Acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {muncă}
+  } nu mai poate fi șters prin self-service. Dacă aveți nevoie să o eliminați, <contact>contactați-ne</contact> și vom lucra cu dvs. pentru a o elimina în siguranță.`,
+    'workshop.work.delete.notAllowed.plain': `Acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {muncă}
+  } nu mai poate fi șters prin self-service. Dacă aveți nevoie să îl eliminați, contactați-ne la deletions@literaryuniverse.com și vom lucra împreună cu dvs. pentru a-l elimina în siguranță.`,
+    'workshop.work.danger.delete.desc': `Șterge permanent acest {type, select,
+    universe {univers și datele legate de atelier}
+    story {poveste cu toate capitolele, statisticile și asociațiile de atelier}
+    other {muncă și date conexe}
+  }.`,
+    'workshop.work.makePrivate.impact': `Făcând acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {lucrare}
+  } îl eliminați din descoperire și căutare. Persoanele care o au deja în bibliotecă își păstrează accesul. Utilizatorii noi nu o mai pot adăuga în biblioteca lor{type, select,
+    story { sau nu o mai pot cumpăra decât dacă le-o oferiți cadou}
+    other {}
+  }.`,
+    'workshop.work.private.notice': `Acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {lucrare}
+  } este momentan privat. Posesorii actuali ai bibliotecii au încă acces. Utilizatorii noi nu o pot adăuga la biblioteca lor{type, select,
+    story { sau cumpăra}
+    other {}
+  }.`,
+    'workshop.work.makePrivate.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Private`,
+    'workshop.work.makePrivate.modalAria': `Mod de confirmare pentru realizarea unui {type, select,
+    universe {univers}
+    story {poveste}
+    other {muncă}
+  } privat`,
+    'workshop.work.makePrivate.warning': `Dacă faceți acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {lucrare}
+  } privat, acesta nu va mai putea fi descoperit și căutat de către public.`,
+    'workshop.work.makePublic.button': `Make {type, select,
+    universe {Universe}
+    story {Story}
+    other {Work}
+  } Public`,
+    'workshop.work.makePublic.modalAria': `Mod de confirmare pentru realizarea unui {type, select,
+    universe {univers}
+    story {poveste}
+    other {muncă}
+  } Public`,
+    'workshop.work.makePublic.warning': `A face acest {type, select,
+    universe {univers}
+    story {poveste}
+    other {lucrare}
+  } public îl va face din nou descoperibil și va permite noilor utilizatori să îl adauge la biblioteca lor{type, select,
+    story { sau să îl cumpere}
+    other {}
+  }.`,
+    'workshop.universe.dangerZone': 'Zona periculoasă',
+    'workshop.universe.dangerZone.desc': 'Puteți șterge acest univers numai atunci când nu are nicio poveste publicată și a fost publicat cu mai puțin de o lună în urmă. Dacă aveți nevoie să îl ștergeți după această perioadă de limitare, vă rugăm să ne contactați.',
+    'workshop.universe.delete.modalAria': 'Mod de confirmare pentru ștergerea unui univers',
+    'workshop.universe.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
+    'workshop.universe.delete.button': 'Ștergeți universul',
     'workshop.universe.description': 'Descriere univers',
     'workshop.settings.title': 'Titlu',
     'workshop.description': 'Descriere',
@@ -54,6 +128,11 @@ export default {
     'workshop.thema.quickRef': '📖 Referință rapidă Thema',
     'workshop.story.new': 'Creează o poveste nouă',
     'workshop.story.publishing.notice': 'Povestea va fi publicată automat odată ce publici primul capitol.',
+    'workshop.story.published.congratulations.title': 'Felicitări! Povestea ta este publicată',
+    'workshop.story.published.congratulations.heading': 'Felicitări! Povestea ta a fost publicată',
+    'workshop.story.published.congratulations.description': 'Călătoria dvs. de scriere continuă. Povestea ta este acum gata să fie descoperită și apreciată de cititori.',
+    'workshop.story.published.congratulations.publicStoryBtn': 'Du-te la pagina de poveste',
+    'workshop.story.published.congratulations.imageAlt': 'Ilustrație de sărbătoare pentru o poveste publicată',
     'workshop.settings.edit': 'Editează setările',
     'workshop.story.publishedOn': 'Această poveste a fost publicată pe {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Setări poveste',
@@ -344,12 +423,24 @@ export default {
     'workshop.story.preventPublishing': 'Prevenirea publicării',
     'workshop.story.preventPublishingTooltip': 'Atunci când este activată, această poveste nu poate fi publicată. Acest lucru este util pentru poveștile care sunt încă în curs de dezvoltare sau pentru poveștile care sunt destinate exclusiv utilizării private.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publicarea este împiedicată deoarece universul are activată setarea de împiedicare a publicării.',
+    'workshop.story.showChapterNumbersInListing': 'Afișarea numerelor de capitol în lista de capitole',
+    'workshop.story.showChapterNumbersInListingTooltip': 'Atunci când este activată, numerele capitolelor sunt vizibile pentru cititori în listele de capitole ale povestirilor.',
     'workshop.revisions.new.public.disabled': 'Nu se poate publica în timp ce funcția de prevenire a publicării este activată în setările povestirii.',
     'workshop.publishing.restricted': 'Din cauza încălcării bunei conduite, v-am dezactivat capacitatea de a publica.',
     'workshop.story.buyingSettings': 'Setări de vânzare',
+    'workshop.story.delete.modalAria': 'Mod de confirmare pentru ștergerea unei povești',
+    'workshop.story.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
+    'workshop.story.delete.button': 'Șterge povestea',
+    'workshop.story.private.universeExplain': 'Această poveste este privată pentru că universul ei este privat.',
+    'workshop.story.makePublicWithUniverse.button': 'Faceți publice povestea și universul',
+    'workshop.universe.makePublic.only.button': 'Faceți universul public numai',
+    'workshop.universe.makePublic.only.modalAria': 'Modul de confirmare pentru a face public un univers',
+    'workshop.universe.makePublic.only.warning': 'Acest lucru face public doar universul. Poveștile din acest univers rămân private până când sunt făcute publice individual.',
+    'workshop.universe.makePublic.withStories.button': 'Faceți publice Universul și toate poveștile',
+    'workshop.universe.makePublic.withStories.modalAria': 'Modul de confirmare pentru a face publice un univers și toate povestirile',
+    'workshop.universe.makePublic.withStories.warning': 'Acest lucru face ca universul și toate poveștile asociate să fie publice.',
     // Chapter deletion
     'workshop.chapter.delete.modalAria': 'Mod de confirmare pentru ștergerea unui capitol',
-    'workshop.chapter.delete.confirm': 'Ștergeți capitolul',
     'workshop.chapter.delete.warning': 'Sunteți sigur că doriți să ștergeți "{title}"? Această acțiune nu poate fi anulată.',
     'workshop.chapter.delete.button': 'Ștergeți capitolul',
     'workshop.chapter.delete.deleting': 'Ștergerea...',

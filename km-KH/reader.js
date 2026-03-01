@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'នេះគឺជាអ្នកបានរក្សាចំណាត់ថ្នាក់ចុងក្រោយសម្រាប់រឿងនេះដែលមាននៅឥឡូវនេះ។ បន្ទាប់ពីនេះទស្សនានឹងបន្តទៀត សូមមកពីនៅឆ្នាំក្រោយ!',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'ម្លឺពិនិត្យម្តងទៀត!',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'ជំរាបមុខ',

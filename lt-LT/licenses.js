@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Licencijų pasirinkimo įrankis',
     'licenses.chooser.button': 'Padėkite man pasirinkti licenciją',
+    'licenses.chooser.button.about': 'Apie šią licenciją',
     'licenses.chooser.ariaLabel': 'Pasirinkite darbo licenciją',
     'licenses.chooser.introduction': 'Šis įrankis padės pasirinkti tinkamiausią licenciją jūsų darbui. Nuo licencijos priklauso, kaip kiti gali naudoti jūsų kūrinį, ir ji turi įtakos jūsų galimybėms uždirbti iš jo "Literary Universe".',
     // License Chooser Wizard Steps

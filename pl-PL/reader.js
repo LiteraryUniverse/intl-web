@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'To na razie wszystko na temat tej opowieści, ale przygoda nie dobiegła jeszcze końca, więc sprawdź ponownie później!',
     'reader.storyPreview.heading': 'Podgląd zakończony',
     'reader.storyPreview.description': 'Właśnie zakończyli Państwo podgląd. Nie mamy tu jeszcze reszty historii, ale mogą ją Państwo kontynuować w poniższych miejscach.',
+    'reader.unpublishedChapter.heading': 'Ten rozdział nie jest już dostępny',
     'chapter.translation.notYetDescription': 'Sprawdź ponownie później!',
     'reader.externalShopping.heading': 'Proszę pobrać {storyName} w innych miejscach:',
     'chapter.next': 'Następny rozdział',

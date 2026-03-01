@@ -29,6 +29,7 @@ export default {
     // License Chooser Modal
     'licenses.chooser.title': 'Επιλογή άδειας',
     'licenses.chooser.button': 'Βοηθήστε με να επιλέξω μια άδεια',
+    'licenses.chooser.button.about': 'Σχετικά με αυτή την άδεια',
     'licenses.chooser.ariaLabel': 'Επιλέξτε μια άδεια για το έργο σας',
     'licenses.chooser.introduction': 'Αυτό το εργαλείο θα σας βοηθήσει να επιλέξετε την καταλληλότερη άδεια χρήσης για την εργασία σας. Η άδεια χρήσης καθορίζει τον τρόπο με τον οποίο οι άλλοι μπορούν να χρησιμοποιήσουν το έργο σας και επηρεάζει τη δυνατότητά σας να το αξιοποιήσετε οικονομικά στο Literary Universe.',
     // License Chooser Wizard Steps

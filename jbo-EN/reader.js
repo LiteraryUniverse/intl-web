@@ -7,6 +7,7 @@ export default {
     'reader.storyTBC.description': 'poro to vy.',
     'reader.storyPreview.heading': 'Preview complete',
     'reader.storyPreview.description': 'You have just finished the preview. We do not have the rest of the story here yet, but you can continue it at the places below.',
+    'reader.unpublishedChapter.heading': 'This chapter is no longer available',
     'chapter.translation.notYetDescription': 'ca ma gungunma piro seltsani romai',
     'reader.externalShopping.heading': 'Get {storyName} in other places:',
     'chapter.next': 'pu le jemna fanmo',
