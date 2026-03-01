@@ -197,37 +197,13 @@ export default {
   'stripeConnect.settings.recentTransfers': 'Recent transfers',
   'stripeConnect.transfers.amount': 'Amount',
   'stripeConnect.transfers.reason': 'Reason',
-  'payment.settings.donations': 'Donations settings',
   'plans.fanClub.heading': 'Fan Clubs',
-  'payment.donations.enable': 'Enable donations',
-  'payment.donations.suggestedAmount': 'Suggested amount',
-  'payment.donations.amount': 'Amount',
-  'payment.donations.preferredCurrency': 'Preferred currency',
   'payment.donations.currency': 'Currency',
-  'payment.donations.stripeDescription': 'Donation to {username}',
-  'payment.donations.support': 'Support {username}',
-  'payment.donations.donate': 'Donate',
-  'payment.donations.donationModal': 'Donation confirmation',
-  'payment.donations.payNowUSD':
-    'Donate {donation, number, ::compact-short currency/USD} to {username}',
-  'payment.donations.payNowJPY':
-    'Donate {donation, number, ::compact-short currency/JPY} to {username}',
-  'payment.donations.payNowEUR':
-    'Donate {donation, number, ::compact-short currency/EUR} to {username}',
-  'payment.donations.payNowCZK':
-    'Donate {donation, number, ::compact-short currency/CZK} to {username}',
-  'payment.donations.payNowGBP':
-    'Donate {donation, number, ::compact-short currency/GBP} to {username}',
-  'payment.donations.thankYouTitle': 'Thank you for your donation to {username}',
-  'payment.donations.thankYouContinue':
-    'Thank you for supporting {username}, we hope that you will continue enjoying their work and consider supporting them again in the future.',
   'payment.success': 'Payment succeeded!',
   'payment.processing': 'Your payment is processing.',
   'payment.failed': 'Your payment was not successful, please try again.',
   'payment.generalError': 'Something went wrong.',
   'payment.unexpectedError': 'Something went wrong.',
-  'payments.transferType.donation': 'Donation',
-  'payment.donation.backToProfile': "Back to {username}'s profile",
   'payment.author.requirementStripeConnect':
     'Before we can process any financial transactions you need to create and connect your Stripe Connect account.',
   'payment.author.requirementPublishWork':
