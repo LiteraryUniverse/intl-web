@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Tarinan yksityiskohdat',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Vaihda tekstin kokoa',
+    'reader.verticalMode': 'Pystysuoran kirjoitustilan vaihtaminen',
+    'reader.rtlIndicator': 'Oikealta vasemmalle suuntautuva kieli',
     'reader.menu.optionsAria': 'Lukijan asetukset valikko',
     'reader.accessibility': 'Vaihda saavutettavuutta',
     'chapter.translation.notYet': 'Tämä luku ei ole vielä käännetty.',
