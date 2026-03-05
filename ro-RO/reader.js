@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Detalii despre poveste',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Comută dimensiunea textului',
+    'reader.verticalMode': 'Comutarea modului de scriere verticală',
+    'reader.rtlIndicator': 'Limbaj de la dreapta la stânga',
     'reader.menu.optionsAria': 'Meniul de opțiuni al cititorului',
     'reader.accessibility': 'Comută accesibilitatea',
     'chapter.translation.notYet': 'Acest capitol nu a fost încă tradus.',
