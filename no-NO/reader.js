@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Historiedetaljer',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Bytt tekstsstørrelse',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'Alternativer for lesermenyen',
     'reader.accessibility': 'Bytt tilgjengelighet',
     'chapter.translation.notYet': 'Dette kapittelet er ikke oversatt ennå.',
