@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'تفاصيل القصة',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'تبديل حجم النص',
+    'reader.verticalMode': 'تبديل وضع الكتابة الرأسي',
+    'reader.rtlIndicator': 'لغة من اليمين إلى اليسار',
     'reader.menu.optionsAria': 'قائمة خيارات القارئ',
     'reader.accessibility': 'تبديل إمكانية الوصول',
     'chapter.translation.notYet': 'لم يتم ترجمة هذا الفصل بعد.',
