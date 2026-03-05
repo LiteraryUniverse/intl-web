@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Szczegóły opowieści',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Zmień rozmiar tekstu',
+    'reader.verticalMode': 'Przełączanie trybu zapisu pionowego',
+    'reader.rtlIndicator': 'Język od prawej do lewej',
     'reader.menu.optionsAria': 'Menu opcji czytnika',
     'reader.accessibility': 'Ułatwienia dostępu',
     'chapter.translation.notYet': 'Ten rozdział nie został jeszcze przetłumaczony.',
