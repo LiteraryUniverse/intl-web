@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Detalye ng Kuwento',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'I-toggle ang laki ng teksto',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'Menu ng mga pagpipilian ng mambabasa',
     'reader.accessibility': 'I-toggle ang accessibility',
     'chapter.translation.notYet': 'Ang kabanatang ito ay hindi pa isinalin.',
