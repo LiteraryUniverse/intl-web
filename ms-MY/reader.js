@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Detail cerita',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Ubah ukuran teks',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'Menu opsi pembaca',
     'reader.accessibility': 'Ganti aksesibilitas',
     'chapter.translation.notYet': 'Bab ini belum diterjemahkan.',
