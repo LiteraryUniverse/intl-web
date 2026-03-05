@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'bansu viska',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'nalviska zasti',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'nalsikta\'o se jdima jinvi',
     'reader.accessibility': 'bane la wazir',
     'chapter.translation.notYet': 'mi ninmu selvike enai trasif',
