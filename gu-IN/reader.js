@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'ગાથાની વિગતો',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ચપાઈની માપ ફેરવો',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'વાચક વૈકલ્પ મેનુ',
     'reader.accessibility': 'ઍક્સેસિબિલિટી ચાલુ કરો',
     'chapter.translation.notYet': 'આ અધ્યાય હજી તેમણે અનુવાદ કર્યો નથી.',
