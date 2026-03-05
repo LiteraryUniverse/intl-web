@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Λεπτομέρειες ιστορίας',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Εναλλαγή μεγέθους κειμένου',
+    'reader.verticalMode': 'Εναλλαγή λειτουργίας κατακόρυφης γραφής',
+    'reader.rtlIndicator': 'Γλώσσα από τα δεξιά προς τα αριστερά',
     'reader.menu.optionsAria': 'Μενού επιλογών αναγνώστη',
     'reader.accessibility': 'Εναλλαγή προσβασιμότητας',
     'chapter.translation.notYet': 'Αυτό το κεφάλαιο δεν έχει μεταφραστεί ακόμα.',
