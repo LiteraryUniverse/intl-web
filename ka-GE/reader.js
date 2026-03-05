@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'ისტორიის დეტალები',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ტექსტის ზომის გადართვა',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'წამყვანის მენიუ',
     'reader.accessibility': 'გამართვის ჩართვა/გამორთვა',
     'chapter.translation.notYet': 'ამ თავისუფალს ჯერ არ გაქვთ თარგმნილი.',
