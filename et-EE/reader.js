@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Loo üksikasjad',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Seosta teksti suurus',
+    'reader.verticalMode': 'Vertikaalse kirjutamisrežiimi ümberlülitamine',
+    'reader.rtlIndicator': 'Paremalt vasakult vasakule suunatud keel',
     'reader.menu.optionsAria': 'Lugeja valikumenüü',
     'reader.accessibility': 'Seosta ligipääsetavus',
     'chapter.translation.notYet': 'Seda peatükki ei ole veel tõlgitud.',
