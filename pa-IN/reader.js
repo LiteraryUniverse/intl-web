@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'ਕਹਾਣੀ ਦੇ ਵੇਰਵੇ',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ਟੈਕਸਟ ਆਕਾਰ ਟਾਗਲ ਕਰੋ',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'ਰੀਡਰ ਚੋਣਾਂ ਮੇਨੂ',
     'reader.accessibility': 'ਪਹੁੰਚਯੋਗਤਾ ਟਾਗਲ ਕਰੋ',
     'chapter.translation.notYet': 'ਇਸ ਅਧਿਆਇ ਦਾ ਅਜੇ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ।',
