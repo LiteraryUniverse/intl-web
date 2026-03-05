@@ -20,6 +20,8 @@ export default {
     'reader.details.story': '故事詳情',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': '切換文字大小',
+    'reader.verticalMode': '切換垂直書寫模式',
+    'reader.rtlIndicator': '從右至左的語言',
     'reader.menu.optionsAria': '閱讀選項選單',
     'reader.accessibility': '切換無障礙模式',
     'chapter.translation.notYet': '本章尚未翻譯。',
