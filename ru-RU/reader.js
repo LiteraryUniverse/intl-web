@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Подробности истории',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Размер текста',
+    'reader.verticalMode': 'Переключите режим вертикальной записи',
+    'reader.rtlIndicator': 'Язык "справа налево',
     'reader.menu.optionsAria': 'Меню настроек для чтения',
     'reader.accessibility': 'Специальные возможности',
     'chapter.translation.notYet': 'Эта глава ещё не была переведена.',
