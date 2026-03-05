@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'കഥാവിശദാംശങ്ങൾ',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ടെക്സ്റ്റ് വലിയതാക്കുക',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'റീഡർ ഓപ്ഷനുകളുടെ മെനു',
     'reader.accessibility': 'പ്രവേശാനുഗമം മാറ്റുക',
     'chapter.translation.notYet': 'ഈ അദ്ധ്യായം ഇതുവരെ അനുവദിച്ചിട്ടില്ല.',
