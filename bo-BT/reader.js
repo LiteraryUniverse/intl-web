@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Story details',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Toggle text size',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'Reader options menu',
     'reader.accessibility': 'Toggle accessibility',
     'chapter.translation.notYet': 'This chapter has not yet been translated.',
