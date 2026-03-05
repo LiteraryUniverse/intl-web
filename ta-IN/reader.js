@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'கதை விபரங்கள்',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'உரை அளவை மாற்றவும்',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'வாசிப்பதற்கான விருப்பங்கள் மெனு',
     'reader.accessibility': 'அணுகல்வழிகாட்டலை மாற்று',
     'chapter.translation.notYet': 'இந்த அத்தியாயம் இன்னும் மொழிபெயர்க்கப்படவில்லை.',
