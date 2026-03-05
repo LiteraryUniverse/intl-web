@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Detalls de la història',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Activa/desactiva la mida del text',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'Menú d\'opcions del lector',
     'reader.accessibility': 'Activa/desactiva l\'accessibilitat',
     'chapter.translation.notYet': 'Aquest capítol encara no s\'ha traduït.',
