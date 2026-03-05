@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'కథ వివరాలు',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'టెక్స్ట్ పరిమాణాన్ని టాగిల్ చేయండి',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'రీడర్ ఎంపికల మెను',
     'reader.accessibility': 'ప్రాప్యత',
     'chapter.translation.notYet': 'ఈ అధ్యాయం ఇంకా అనువాదించబడలేదు.',
