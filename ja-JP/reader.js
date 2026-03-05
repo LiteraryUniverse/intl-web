@@ -20,6 +20,8 @@ export default {
     'reader.details.story': '物語の詳細',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': '文字サイズの切り替え',
+    'reader.verticalMode': '縦書きモードの切り替え',
+    'reader.rtlIndicator': '右から左への言語',
     'reader.menu.optionsAria': 'リーダーのオプションメニュー',
     'reader.accessibility': 'トグルアクセシビリティ',
     'chapter.translation.notYet': 'この章はまだ翻訳されていません。',
