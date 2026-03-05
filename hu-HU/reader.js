@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Történet részletei',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Szövegméret kapcsolása',
+    'reader.verticalMode': 'Függőleges írási mód váltása',
+    'reader.rtlIndicator': 'A jobbról balra történő nyelvhasználat',
     'reader.menu.optionsAria': 'Olvasói opciók menü',
     'reader.accessibility': 'Hozzáférhetőség kapcsolása',
     'chapter.translation.notYet': 'Ez a fejezet még nincs lefordítva.',
