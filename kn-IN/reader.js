@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'ಕಥೆಯ ವಿವರಗಳು',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ಪಠ್ಯ ಗಾತ್ರವನ್ನು ಟಾಗಲ್ ಮಾಡಿ/ಹೊಂದಿಸಿ',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'ಓದುಗರ ಆಯ್ಕೆ ಮೆನು',
     'reader.accessibility': 'ಪ್ರವೇಶಿಸಲು ಅನುಕೂಲತೆಗಳನ್ನು ಟಾಗಲ್ ಮಾಡಿ',
     'chapter.translation.notYet': 'ಈ ಅಧ್ಯಾಯವನ್ನು ಇನ್ನೂ ಭಾಷಾಂತರಿಸಲಾಗಿಲ್ಲ.',
