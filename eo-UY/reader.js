@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Detaloj pri rakonto',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Ŝalti teksta grandecagon',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'Menuo por legantaj opcioj',
     'reader.accessibility': 'Ŝalti alireblon',
     'chapter.translation.notYet': 'Ĉi tiu ĉapitro ankoraŭ ne estas tradukita.',
