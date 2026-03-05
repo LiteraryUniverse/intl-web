@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'פרטים על הסיפור',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'שינוי גודל הטקסט',
+    'reader.verticalMode': 'הפעל מצב כתיבה אנכי',
+    'reader.rtlIndicator': 'שפה הנכתבת מימין לשמאל',
     'reader.menu.optionsAria': 'תפריט אפשרויות הקורא',
     'reader.accessibility': 'בטל אפשרויות נגישות',
     'chapter.translation.notYet': 'פרק זה עדיין לא תורגם.',
