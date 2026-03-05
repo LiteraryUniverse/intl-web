@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'कहानी विवरण',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'पाठ का आकार परिवर्तन करें',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'रीडर विकल्प मेनू',
     'reader.accessibility': 'पहुँचियों कोई ऐसे न करें',
     'chapter.translation.notYet': 'इसे अभी अनुवाद नहीं किया गया है।',
