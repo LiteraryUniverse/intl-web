@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Детальніше про цю історію',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Змінити розмір тексту',
+    'reader.verticalMode': 'Перемикання режиму вертикального запису',
+    'reader.rtlIndicator': 'Мова справа наліво',
     'reader.menu.optionsAria': 'Меню параметрів зчитувача',
     'reader.accessibility': 'Перемикання доступності',
     'chapter.translation.notYet': 'Цей розділ ще не перекладено.',
