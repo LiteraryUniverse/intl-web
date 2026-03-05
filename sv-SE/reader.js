@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Detaljer om historien',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Växla textstorlek',
+    'reader.verticalMode': 'Växla vertikalt skrivläge',
+    'reader.rtlIndicator': 'Höger-vänster-språk',
     'reader.menu.optionsAria': 'Meny för läsaralternativ',
     'reader.accessibility': 'Växla tillgänglighet',
     'chapter.translation.notYet': 'Detta kapitel har ännu inte översatts.',
