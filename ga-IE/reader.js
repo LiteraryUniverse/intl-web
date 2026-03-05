@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Sonraí an scéil',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Athraigh méid téacs',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'Choice Roghanna an léitheora',
     'reader.accessibility': 'Athraigh cur i gcéill',
     'chapter.translation.notYet': 'Níl an chaibidil seo aistrithe go fóill.',
