@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Verhaaldetails',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Wissel tekstgrootte',
+    'reader.verticalMode': 'Schakel de verticale schrijfmodus',
+    'reader.rtlIndicator': 'Taal van rechts naar links',
     'reader.menu.optionsAria': 'Menu met leesopties',
     'reader.accessibility': 'Wissel toegankelijkheid',
     'chapter.translation.notYet': 'Dit hoofdstuk is nog niet vertaald.',
