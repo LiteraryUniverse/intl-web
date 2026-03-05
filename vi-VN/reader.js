@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Chi tiết câu chuyện',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Chuyển đổi kích thước văn bản',
+    'reader.verticalMode': 'Bật/tắt chế độ viết dọc',
+    'reader.rtlIndicator': 'Ngôn ngữ viết từ phải sang trái',
     'reader.menu.optionsAria': 'Menu tùy chọn người đọc',
     'reader.accessibility': 'Chuyển đổi trợ năng',
     'chapter.translation.notYet': 'Chương này chưa được dịch.',
