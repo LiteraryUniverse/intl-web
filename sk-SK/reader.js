@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Podrobnosti o príbehu',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Prepnúť veľkosť textu',
+    'reader.verticalMode': 'Prepínanie režimu vertikálneho písania',
+    'reader.rtlIndicator': 'Jazyk sprava doľava',
     'reader.menu.optionsAria': 'Menu možností čítačky',
     'reader.accessibility': 'Prepnúť prístupnost',
     'chapter.translation.notYet': 'Táto kapitola ešte nebola preložená.',
