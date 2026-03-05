@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'গল্পের বিবরণী',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'পাঠ্যের আকার পরিবর্তন / আপডেট',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'বিকল্প মেনু',
     'reader.accessibility': 'বৃদ্ধির সুবিধা চালু / বন্ধ করুন',
     'chapter.translation.notYet': 'এই অধ্যায়টি এখনো অনুবাদ করা হয়নি।',
