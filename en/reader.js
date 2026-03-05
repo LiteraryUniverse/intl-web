@@ -24,7 +24,6 @@ export default {
   'reader.darkmode': 'Toggle light',
   'reader.flowtext': 'Toggle text size',
   'reader.verticalMode': 'Toggle vertical writing mode',
-  'reader.paginatedMode': 'Toggle paginated reading mode',
   'reader.rtlIndicator': 'Right-to-left language',
   'reader.menu.optionsAria': 'Reader options menu',
   'reader.accessibility': 'Toggle accessibility',
