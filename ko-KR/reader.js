@@ -20,6 +20,8 @@ export default {
     'reader.details.story': '작품 세부 정보',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': '텍스트 크기 전환',
+    'reader.verticalMode': '세로 쓰기 모드 전환',
+    'reader.rtlIndicator': '오른쪽에서 왼쪽으로 언어',
     'reader.menu.optionsAria': '독자 옵션 메뉴',
     'reader.accessibility': '접근성 전환',
     'chapter.translation.notYet': '이 장은 아직 번역되지 않았습니다.',
