@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'ព័ត៌មានរឿង',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'បិទទំហំអក្សរ',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'ម៉ឺនុយជម្រើសអ្នកនិពន្ធនារី',
     'reader.accessibility': 'បិទភាពជំរើសដំណើរការ',
     'chapter.translation.notYet': 'ជំរាបសរសេរនេះមិនទាន់បានបានបកប្រែទេ។',
