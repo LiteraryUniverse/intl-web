@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Istorijos detalės',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Perjungti teksto dydį',
+    'reader.verticalMode': 'Vertikalaus rašymo režimo perjungimas',
+    'reader.rtlIndicator': 'Kalba iš dešinės į kairę',
     'reader.menu.optionsAria': 'Meniu su skaitymo parinktimis',
     'reader.accessibility': 'Perjungti prieinamumą',
     'chapter.translation.notYet': 'Šis skyrius dar ne išverstas.',
