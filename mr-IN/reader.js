@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'कथेचे तपशील',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'मजकूराची वेगवेगळं मोड टॉगल करा',
+    'reader.verticalMode': 'Toggle vertical writing mode',
+    'reader.rtlIndicator': 'Right-to-left language',
     'reader.menu.optionsAria': 'नमूद करणार्या पर्यायांचे मेनू वापरा',
     'reader.accessibility': 'प्रवासहवा बंद करा',
     'chapter.translation.notYet': 'हा पाठ अद्याप भाषांतरित केलेला नाही.',
