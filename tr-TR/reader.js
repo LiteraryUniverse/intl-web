@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'Hikaye ayrıntıları',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Metin boyutunu değiştir',
+    'reader.verticalMode': 'Dikey yazma modunu değiştir',
+    'reader.rtlIndicator': 'Sağdan sola dil',
     'reader.menu.optionsAria': 'Okuyucu seçenekleri menüsü',
     'reader.accessibility': 'Erişilebilirliği aç/kapat',
     'chapter.translation.notYet': 'Bu bölüm henüz çevrilmemiştir.',
