@@ -20,6 +20,8 @@ export default {
     'reader.details.story': 'รายละเอียดของเรื่องราว',
     'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'สลับขนาดตัวอักษร',
+    'reader.verticalMode': 'สลับโหมดการเขียนแนวตั้ง',
+    'reader.rtlIndicator': 'ภาษาที่อ่านจากขวาไปซ้าย',
     'reader.menu.optionsAria': 'เมนูตัวเลือกของผู้อ่าน',
     'reader.accessibility': 'สลับการเข้าถึง',
     'chapter.translation.notYet': 'บทนี้ยังไม่ได้ถูกแปล',
