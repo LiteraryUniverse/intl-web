@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'تبديل إمكانية الوصول',
     'chapter.translation.notYet': 'لم يتم ترجمة هذا الفصل بعد.',
     'externalShopping.buyLink.amazon': 'شراء على أمازون',
+    'externalShopping.buyLink.kobo': 'اشتر على راكوتين كوبو',
     'externalShopping.buyLink.other': 'احصل على {storeName}',
     'externalShopping.buyLink.bookshop': 'شراء على Bookshop.org',
     'reader.accessibility.aria': 'خيارات الوصول',
