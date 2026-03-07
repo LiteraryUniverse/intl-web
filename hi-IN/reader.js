@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'पहुँचियों कोई ऐसे न करें',
     'chapter.translation.notYet': 'इसे अभी अनुवाद नहीं किया गया है।',
     'externalShopping.buyLink.amazon': 'अमेज़न पर खरीदें',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Bookshop.org पर खरीदें',
     'reader.accessibility.aria': 'पहुँचियों विकल्प',
