@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'সহজলভ্যতা চালু/বন্ধ করুন',
     'chapter.translation.notYet': 'এই অধ্যায়টি এখনো অনুবাদ করা হয় নি।',
     'externalShopping.buyLink.amazon': 'আমাজনে কিনুন',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'বইশপে কিনুন',
     'reader.accessibility.aria': 'সহজলভ্যতা বিকল্পগুলি',
