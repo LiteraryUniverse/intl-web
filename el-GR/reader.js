@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Εναλλαγή προσβασιμότητας',
     'chapter.translation.notYet': 'Αυτό το κεφάλαιο δεν έχει μεταφραστεί ακόμα.',
     'externalShopping.buyLink.amazon': 'Αγορά στο Amazon',
+    'externalShopping.buyLink.kobo': 'Αγοράστε στο Rakuten Kobo',
     'externalShopping.buyLink.other': 'Μπείτε στο {storeName}',
     'externalShopping.buyLink.bookshop': 'Αγοράστε από το Bookshop.org',
     'reader.accessibility.aria': 'Επιλογές προσβασιμότητας',
