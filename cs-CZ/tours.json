@@ -137,7 +137,7 @@
       "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
     },
     "personalNotes": {
-      "title": "Personal Notes",
+      "title": "Osobní poznámky",
       "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
     },
     "getStarted": {
@@ -184,8 +184,8 @@
       "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Nastavení příjmů",
+      "content": "Nastavte, jakým způsobem zpeněžíte svůj vesmír a jeho obsah. Nastavte prémiový přístup, spravujte předplatné a vytvořte sdílení příjmů se spolupracovníky. Proměňte svou tvůrčí práci v udržitelný zdroj příjmů."
     },
     "resolutionCenter": {
       "title": "Centrum pro řešení problémů",
@@ -215,7 +215,7 @@
       "content": "Zde přidáváte nové kapitoly svého příběhu. Klepnutím na tlačítko \"Přidat kapitolu\" vytvoříte novou kapitolu. Váš příběh automaticky uspořádá kapitoly ve správném pořadí. Kapitoly můžete přidávat také ze spodní části seznamu kapitol."
     },
     "statistics": {
-      "title": "Track Your Progress",
+      "title": "Sledujte Váš pokrok",
       "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
     },
     "collaborators": {
@@ -227,7 +227,7 @@
       "content": "Koordinujte překlady svého příběhu do jiných jazyků. Spravujte překladatele, sledujte průběh překladu a zpřístupněte svůj příběh globálnímu publiku."
     },
     "monetization": {
-      "title": "Revenue Settings",
+      "title": "Nastavení příjmů",
       "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
     },
     "settings": {
@@ -251,7 +251,7 @@
       "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
     },
     "legal": {
-      "title": "Legal Documents",
+      "title": "Právní dokumenty",
       "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
     },
     "publicVersion": {
@@ -263,11 +263,11 @@
       "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
+      "title": "Centrum pro řešení problémů",
       "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
     },
     "statuses": {
-      "title": "Story Status Management",
+      "title": "Správa stavu příběhu",
       "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
     },
     "getStarted": {
