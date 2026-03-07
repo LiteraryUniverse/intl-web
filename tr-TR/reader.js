@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Erişilebilirliği aç/kapat',
     'chapter.translation.notYet': 'Bu bölüm henüz çevrilmemiştir.',
     'externalShopping.buyLink.amazon': 'Amazon\'da satın al',
+    'externalShopping.buyLink.kobo': 'Rakuten Kobo\'dan satın alın',
     'externalShopping.buyLink.other': '{storeName}adresine girin',
     'externalShopping.buyLink.bookshop': 'Bookshop.org\'da satın al',
     'reader.accessibility.aria': 'Erişilebilirlik seçenekleri',
