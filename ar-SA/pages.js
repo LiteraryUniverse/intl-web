@@ -40,8 +40,6 @@ export default {
     'about.team': 'فريق العمل',
     'about.history': 'السجل',
     'about.company': 'الشركة',
-    'about.companyCountry.czechia': 'التشيك',
-    'about.companyCountry.japan': 'اليابان',
     'about.companyCity.prague': 'براغ',
     'about.companyCity.sendai': 'سنداي',
     'about.CEO': 'الرئيس التنفيذي',
