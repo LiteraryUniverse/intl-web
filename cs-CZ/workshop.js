@@ -27,10 +27,10 @@ export default {
     'workshop.universe.settings': 'Nastavení {universe} vesmíru',
     'workshop.universe.publishedOn': 'Tento vesmír byl zveřejněn {date, date, long} {date, time, short}',
     'workshop.work.deletion.contactUs': 'Pokud potřebujete pomoc, <contact>kontaktujte nás</contact>.',
-    'workshop.work.delete.restrictions': `You can delete this {type, select,
-    universe {universe only if it has no published stories and}
-    story {story only if it}
-    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.`,
+    'workshop.work.delete.restrictions': `Můžete smazat {type, select,
+    universe {tento vesmír jenom pokud nemá publikované příběhy a nebyl publikován}
+    story {tento příběh jenom když nebyl publikován}
+    other {tuto práci jenom když nebyla publikována}} déle jak jeden měsíc. Pokud potřebujete smazat po této lhůtě, tak nás <contact>kontaktujte</contact>.`,
     'workshop.work.delete.notAllowed': `Tento {type, select,
     universe {universe}
     story {story}
