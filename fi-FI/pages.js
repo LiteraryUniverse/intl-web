@@ -40,8 +40,6 @@ export default {
     'about.team': 'Tiimi',
     'about.history': 'Historia',
     'about.company': 'Yritys',
-    'about.companyCountry.czechia': 'Tšekki',
-    'about.companyCountry.japan': 'Japani',
     'about.companyCity.prague': 'Praha',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Toimitusjohtaja',
