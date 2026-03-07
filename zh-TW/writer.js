@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': '您必須先出版或排定出版前一章，才能出版這一章。',
     'writer.publish.earlyAccess.title': '粉絲可提早使用',
     'writer.publish.earlyAccess.groupLine': '{days} 提前數天： {tiers} - 球迷可於 {date, date, short} 於 {date, time}獲得存取權限。',
-    'writer.initialLetter': '首段字母'
+    'writer.initialLetter': '首段字母',
+    'writer.ruby': '紅寶石',
+    'writer.ruby.placeholder': '輸入讀數 (例如：かんじ)'
 };
