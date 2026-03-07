@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Специальные возможности',
     'chapter.translation.notYet': 'Эта глава ещё не была переведена.',
     'externalShopping.buyLink.amazon': 'Купить на Amazon',
+    'externalShopping.buyLink.kobo': 'Купить на Rakuten Kobo',
     'externalShopping.buyLink.other': 'Зайдите на {storeName}',
     'externalShopping.buyLink.bookshop': 'Купить на Bookshop.org',
     'reader.accessibility.aria': 'Настройки специальных возможностей',
