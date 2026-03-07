@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'bane la wazir',
     'chapter.translation.notYet': 'mi ninmu selvike enai trasif',
     'externalShopping.buyLink.amazon': 'mie cu vi na poi selxa\'a',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'mie cu vi na poi finda bangu',
     'reader.accessibility.aria': 'rafolra ni\'o',
