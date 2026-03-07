@@ -40,8 +40,6 @@ export default {
     'about.team': 'Pasukan',
     'about.history': 'Sejarah',
     'about.company': 'Syarikat',
-    'about.companyCountry.czechia': 'Czechia',
-    'about.companyCountry.japan': 'Jepun',
     'about.companyCity.prague': 'Prague',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Ketua Pegawai Eksekutif',
