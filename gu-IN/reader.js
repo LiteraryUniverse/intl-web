@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'ઍક્સેસિબિલિટી ચાલુ કરો',
     'chapter.translation.notYet': 'આ અધ્યાય હજી તેમણે અનુવાદ કર્યો નથી.',
     'externalShopping.buyLink.amazon': 'અમેઝોન પર ખરીદો',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'બુકશોપ.ઓરગ પર ખરીદો',
     'reader.accessibility.aria': 'ઍક્સેસિબિલિટી વિકલ્પોની વિગતો',
