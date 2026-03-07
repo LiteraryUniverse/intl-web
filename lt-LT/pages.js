@@ -40,8 +40,6 @@ export default {
     'about.team': 'Komanda',
     'about.history': 'Istorija',
     'about.company': 'Įmonė',
-    'about.companyCountry.czechia': 'Čekija',
-    'about.companyCountry.japan': 'Japonija',
     'about.companyCity.prague': 'Praha',
     'about.companyCity.sendai': 'Sendajas',
     'about.CEO': 'Generalinis direktorius',
