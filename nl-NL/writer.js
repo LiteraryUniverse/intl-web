@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'U moet het vorige hoofdstuk publiceren of de publicatie ervan plannen voordat u dit hoofdstuk kunt publiceren.',
     'writer.publish.earlyAccess.title': 'Vroege toegang voor fans',
     'writer.publish.earlyAccess.groupLine': '{days} dagen eerder: {tiers} - fans krijgen toegang op {date, date, short} bij {date, time}',
-    'writer.initialLetter': 'Eerste alinea brief'
+    'writer.initialLetter': 'Eerste alinea brief',
+    'writer.ruby': 'Ruby',
+    'writer.ruby.placeholder': 'Leeswaarde invoeren (bijv. かんじ)'
 };
