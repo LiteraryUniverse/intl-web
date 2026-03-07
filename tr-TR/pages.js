@@ -40,8 +40,6 @@ export default {
     'about.team': 'Ekip',
     'about.history': 'Tarih',
     'about.company': 'Şirket',
-    'about.companyCountry.czechia': 'Çekya',
-    'about.companyCountry.japan': 'Japonya',
     'about.companyCity.prague': 'Prag',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Genel Müdür',
