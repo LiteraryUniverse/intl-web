@@ -40,8 +40,6 @@ export default {
     'about.team': 'Il Team',
     'about.history': 'Cronologia',
     'about.company': 'L\'azienda',
-    'about.companyCountry.czechia': 'Cechia',
-    'about.companyCountry.japan': 'Giappone',
     'about.companyCity.prague': 'Praga',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Amministratore Delegato',
