@@ -40,8 +40,6 @@ export default {
     'about.team': 'Echipa',
     'about.history': 'Istoric',
     'about.company': 'Compania',
-    'about.companyCountry.czechia': 'Cehia',
-    'about.companyCountry.japan': 'Japonia',
     'about.companyCity.prague': 'Praga',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Director Executiv',
