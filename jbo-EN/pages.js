@@ -40,8 +40,6 @@ export default {
     'about.team': 'lo cecmu',
     'about.history': 'Stiri',
     'about.company': 'lo gugde poi sivni ke\'a',
-    'about.companyCountry.czechia': 'cexia',
-    'about.companyCountry.japan': 'nipon',
     'about.companyCity.prague': 'praga',
     'about.companyCity.sendai': 'sendai',
     'about.CEO': 'lo prenu poi vlipa ke\'a cu xabju lo gugde poi sivni ke\'a',

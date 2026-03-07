@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}',
-    'writer.initialLetter': 'Initial Paragraph Letter'
+    'writer.initialLetter': 'Initial Paragraph Letter',
+    'writer.ruby': 'Ruby',
+    'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)'
 };

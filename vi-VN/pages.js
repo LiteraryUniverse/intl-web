@@ -40,8 +40,6 @@ export default {
     'about.team': 'Đội ngũ',
     'about.history': 'Lịch sử',
     'about.company': 'Công ty',
-    'about.companyCountry.czechia': 'Cộng hòa Séc',
-    'about.companyCountry.japan': 'Nhật Bản',
     'about.companyCity.prague': 'Praha',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Giám đốc điều hành',

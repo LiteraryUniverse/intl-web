@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'Вам необходимо опубликовать или запланировать публикацию предыдущей главы, прежде чем вы сможете опубликовать эту.',
     'writer.publish.earlyAccess.title': 'Ранний доступ для фанатов',
     'writer.publish.earlyAccess.groupLine': '{days} на несколько дней раньше: {tiers} - поклонники получают доступ на {date, date, short} на {date, time}',
-    'writer.initialLetter': 'Письмо начального абзаца'
+    'writer.initialLetter': 'Письмо начального абзаца',
+    'writer.ruby': 'Руби',
+    'writer.ruby.placeholder': 'Введите показания (например, かんじ)'
 };

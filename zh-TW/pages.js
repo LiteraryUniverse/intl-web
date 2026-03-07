@@ -40,8 +40,6 @@ export default {
     'about.team': '團隊',
     'about.history': '歷史',
     'about.company': '該公司',
-    'about.companyCountry.czechia': '捷克',
-    'about.companyCountry.japan': '日本',
     'about.companyCity.prague': '布拉格',
     'about.companyCity.sendai': '仙台',
     'about.CEO': '首席執行官',

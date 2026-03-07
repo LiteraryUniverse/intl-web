@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'この章を出版する前に、前の章を出版するか、出版を予定しておく必要があります。',
     'writer.publish.earlyAccess.title': 'ファンのための早期アクセス',
     'writer.publish.earlyAccess.groupLine': '{days}日早く: {tiers} — ファンは{date, date, short}の{date, time}にアクセス可能',
-    'writer.initialLetter': '最初の段落の手紙'
+    'writer.initialLetter': '最初の段落の手紙',
+    'writer.ruby': 'ルビー',
+    'writer.ruby.placeholder': '読みを入力（例： かんじ）'
 };

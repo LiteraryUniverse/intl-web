@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'Du skal udgive eller planlægge udgivelsen af det forrige kapitel, før du kan udgive dette.',
     'writer.publish.earlyAccess.title': 'Tidlig adgang for fans',
     'writer.publish.earlyAccess.groupLine': '{days} dage før: {tiers} - fans får adgang på {date, date, short} på {date, time}',
-    'writer.initialLetter': 'Indledende afsnit Brev'
+    'writer.initialLetter': 'Indledende afsnit Brev',
+    'writer.ruby': 'Ruby',
+    'writer.ruby.placeholder': 'Indtast læsning (f.eks. かんじ)'
 };

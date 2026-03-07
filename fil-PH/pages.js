@@ -40,8 +40,6 @@ export default {
     'about.team': 'Ang koponan',
     'about.history': 'Kasaysayan',
     'about.company': 'Ang kumpanya',
-    'about.companyCountry.czechia': 'Czechia',
-    'about.companyCountry.japan': 'Hapon',
     'about.companyCity.prague': 'Prague',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Opisiyal na Punong Tagapamahala',

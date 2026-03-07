@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'Du måste publicera eller schemalägga publiceringen av föregående kapitel innan du kan publicera det här.',
     'writer.publish.earlyAccess.title': 'Tidig tillgång för fans',
     'writer.publish.earlyAccess.groupLine': '{days} dagar i förväg: {tiers} - fans får tillgång på {date, date, short} på {date, time}',
-    'writer.initialLetter': 'Inledande stycke Brev'
+    'writer.initialLetter': 'Inledande stycke Brev',
+    'writer.ruby': 'Ruby',
+    'writer.ruby.placeholder': 'Ange läsning (t.ex. かんじ)'
 };

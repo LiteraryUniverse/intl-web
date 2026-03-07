@@ -40,8 +40,6 @@ export default {
     'about.team': 'Holdet',
     'about.history': 'Historie',
     'about.company': 'Virksomheden',
-    'about.companyCountry.czechia': 'Tjekkiet',
-    'about.companyCountry.japan': 'Japan',
     'about.companyCity.prague': 'Prag',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Administrerende Direktør',

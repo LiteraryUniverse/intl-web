@@ -40,8 +40,6 @@ export default {
     'about.team': 'Tím',
     'about.history': 'História',
     'about.company': 'O spoločnosti',
-    'about.companyCountry.czechia': 'Česko',
-    'about.companyCountry.japan': 'Japonsko',
     'about.companyCity.prague': 'Praha',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Výkonný riaditeľ',

@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'Bu bölümü yayınlamadan önce bir önceki bölümü yayınlamanız veya yayınlanmasını planlamanız gerekir.',
     'writer.publish.earlyAccess.title': 'Hayranlar için erken erişim',
     'writer.publish.earlyAccess.groupLine': '{days} günler öncesinden: {tiers} - hayranlar {date, date, short} adresinden {date, time}erişebilir',
-    'writer.initialLetter': 'İlk Paragraf Mektubu'
+    'writer.initialLetter': 'İlk Paragraf Mektubu',
+    'writer.ruby': 'Yakut',
+    'writer.ruby.placeholder': 'Okuma değerini girin (örn. かんじ)'
 };
