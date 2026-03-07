@@ -40,8 +40,6 @@ export default {
     'about.team': 'An fhoireann',
     'about.history': 'Stair',
     'about.company': 'An chomhlacht',
-    'about.companyCountry.czechia': 'An tSeicia',
-    'about.companyCountry.japan': 'An tSeapáin',
     'about.companyCity.prague': 'Prág',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Príomhoifigeach Feidhmiúcháin',
