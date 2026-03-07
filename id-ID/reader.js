@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Ubah aksesibilitas',
     'chapter.translation.notYet': 'Bab ini belum diterjemahkan.',
     'externalShopping.buyLink.amazon': 'Beli di Amazon',
+    'externalShopping.buyLink.kobo': 'Beli di Rakuten Kobo',
     'externalShopping.buyLink.other': 'Dapatkan di {storeName}',
     'externalShopping.buyLink.bookshop': 'Beli di Bookshop.org',
     'reader.accessibility.aria': 'Opsi aksesibilitas',
