@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Ŝalti alireblon',
     'chapter.translation.notYet': 'Ĉi tiu ĉapitro ankoraŭ ne estas tradukita.',
     'externalShopping.buyLink.amazon': 'Aĉetu ĉe Amazon',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Aĉetu ĉe Bookshop.org',
     'reader.accessibility.aria': 'Alireblaj opcioj pri alirebleco',
