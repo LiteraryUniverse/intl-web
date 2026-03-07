@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'Muszą Państwo opublikować lub zaplanować publikację poprzedniego rozdziału przed opublikowaniem tego.',
     'writer.publish.earlyAccess.title': 'Wczesny dostęp dla fanów',
     'writer.publish.earlyAccess.groupLine': '{days} dni wcześniej: {tiers} - fani otrzymują dostęp na {date, date, short} na {date, time}',
-    'writer.initialLetter': 'Początkowy akapit listu'
+    'writer.initialLetter': 'Początkowy akapit listu',
+    'writer.ruby': 'Ruby',
+    'writer.ruby.placeholder': 'Proszę wprowadzić odczyt (np. かんじ)'
 };
