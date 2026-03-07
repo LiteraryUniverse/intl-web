@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Toggle accessibility',
     'chapter.translation.notYet': 'This chapter has not yet been translated.',
     'externalShopping.buyLink.amazon': 'Buy on Amazon',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'བོཀྲམ་ཤིའི་འགྱུར་བ། ནང་བསྐྱར་འདི་བཟུམ་སྦྱོར་བ་ཡོད།',
     'reader.accessibility.aria': 'གྲོགས་པོས་བཀོལ་གྱི་གནས་སྡུད་ཚེས་པའི་གནང་བ་བཟོ་བ།',
