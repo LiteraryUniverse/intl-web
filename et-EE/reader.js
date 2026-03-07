@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Seosta ligipääsetavus',
     'chapter.translation.notYet': 'Seda peatükki ei ole veel tõlgitud.',
     'externalShopping.buyLink.amazon': 'Osta Amazonist',
+    'externalShopping.buyLink.kobo': 'Osta Rakuten Kobo',
     'externalShopping.buyLink.other': 'Saage aadressile {storeName}.',
     'externalShopping.buyLink.bookshop': 'Osta Bookshop.org\'ist',
     'reader.accessibility.aria': 'Ligipääsutegurid',
