@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'สลับการเข้าถึง',
     'chapter.translation.notYet': 'บทนี้ยังไม่ได้ถูกแปล',
     'externalShopping.buyLink.amazon': 'ซื้อที่ Amazon',
+    'externalShopping.buyLink.kobo': 'ซื้อที่ Rakuten Kobo',
     'externalShopping.buyLink.other': 'เข้าชมได้ที่ {storeName}',
     'externalShopping.buyLink.bookshop': 'ซื้อที่ Bookshop.org',
     'reader.accessibility.aria': 'ตัวเลือกการเข้าถึง',
