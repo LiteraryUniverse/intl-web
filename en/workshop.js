@@ -325,6 +325,10 @@ export default {
   'workshop.story.finished': 'Story is complete',
   'workshop.story.publishing.externalSellingNotice':
     'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
+  'workshop.shoppingExternal.kobo': 'Rakuten Kobo',
+  'workshop.shoppingExternal.koboStore': 'Rakuten Kobo store',
+  'workshop.shoppingExternal.koboStoreInternational':
+    'International storefront',
   'workshop.sharing.publicURL': 'Public version',
   'workshop.fictionalTime.title': 'Fictional times for {universeName}',
   'workshop.fictionalTime.none':
