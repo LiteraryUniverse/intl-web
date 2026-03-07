@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Prepnúť prístupnost',
     'chapter.translation.notYet': 'Táto kapitola ešte nebola preložená.',
     'externalShopping.buyLink.amazon': 'Kúpiť na Amazone',
+    'externalShopping.buyLink.kobo': 'Kúpiť na Rakuten Kobo',
     'externalShopping.buyLink.other': 'Vstúpte na stránku {storeName}',
     'externalShopping.buyLink.bookshop': 'Kúpiť na Bookshop.org',
     'reader.accessibility.aria': 'Možnosti zjednodušeného ovládania',
