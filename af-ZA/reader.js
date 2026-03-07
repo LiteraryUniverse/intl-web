@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Wissel toeganklikheid',
     'chapter.translation.notYet': 'Hierdie hoofstuk is nog nie vertaal nie.',
     'externalShopping.buyLink.amazon': 'Koop op Amazon',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Koop op Bookshop.org',
     'reader.accessibility.aria': 'Toeganklikheidsopties',
