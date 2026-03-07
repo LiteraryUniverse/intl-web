@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'בטל אפשרויות נגישות',
     'chapter.translation.notYet': 'פרק זה עדיין לא תורגם.',
     'externalShopping.buyLink.amazon': 'קנה באמזון',
+    'externalShopping.buyLink.kobo': 'קנה ב-Rakuten Kobo',
     'externalShopping.buyLink.other': 'היכנסו ל- {storeName}',
     'externalShopping.buyLink.bookshop': 'קנה ב־Bookshop.org',
     'reader.accessibility.aria': 'אפשרויות נגישות',
