@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Перемикання доступності',
     'chapter.translation.notYet': 'Цей розділ ще не перекладено.',
     'externalShopping.buyLink.amazon': 'Придбати на Amazon',
+    'externalShopping.buyLink.kobo': 'Купити на Rakuten Kobo',
     'externalShopping.buyLink.other': 'Заходьте на {storeName}',
     'externalShopping.buyLink.bookshop': 'Придбати на Bookshop.org',
     'reader.accessibility.aria': 'Налаштування доступності',
