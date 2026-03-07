@@ -67,5 +67,7 @@ export default {
     'writer.publish.schedulePrevious': 'Sinun on julkaistava tai aikataulutettava edellisen luvun julkaiseminen ennen tämän luvun julkaisemista.',
     'writer.publish.earlyAccess.title': 'Varhainen pääsy faneille',
     'writer.publish.earlyAccess.groupLine': '{days} päivää aikaisemmin: {tiers} - fanit pääsevät sisään {date, date, short} osoitteessa {date, time}',
-    'writer.initialLetter': 'Alkukappale Kirje'
+    'writer.initialLetter': 'Alkukappale Kirje',
+    'writer.ruby': 'Ruby',
+    'writer.ruby.placeholder': 'Syötä lukema (esim. かんじ).'
 };
