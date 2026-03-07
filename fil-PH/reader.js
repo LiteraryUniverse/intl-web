@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'I-toggle ang accessibility',
     'chapter.translation.notYet': 'Ang kabanatang ito ay hindi pa isinalin.',
     'externalShopping.buyLink.amazon': 'Bumili sa Amazon',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Bumili sa Bookshop.org',
     'reader.accessibility.aria': 'Mga pagpipilian sa Accessibility',
