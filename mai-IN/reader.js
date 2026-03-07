@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'प्रवेशियता टगल गर्नुहोस्',
     'chapter.translation.notYet': 'यो अध्याय अहिले तल अनुवाद गरिएको छैन।',
     'externalShopping.buyLink.amazon': 'Amazon मा खरिद गर्नुहोस्',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Bookshop.org मा खरिद गर्नुहोस्',
     'reader.accessibility.aria': 'पहुँचियसको प्रवेश प्रदान गर्ने विकल्पहरू',
