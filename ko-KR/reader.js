@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': '접근성 전환',
     'chapter.translation.notYet': '이 장은 아직 번역되지 않았습니다.',
     'externalShopping.buyLink.amazon': '아마존에서 구입하기',
+    'externalShopping.buyLink.kobo': '라쿠텐 코보에서 구매',
     'externalShopping.buyLink.other': '{storeName}접속하기',
     'externalShopping.buyLink.bookshop': '[북샵에서 구매하기](https://www.bookshop.org)',
     'reader.accessibility.aria': '접근성 옵션',
