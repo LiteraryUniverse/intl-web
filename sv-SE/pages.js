@@ -40,8 +40,6 @@ export default {
     'about.team': 'Teamet',
     'about.history': 'Historia',
     'about.company': 'Företaget',
-    'about.companyCountry.czechia': 'Tjeckien',
-    'about.companyCountry.japan': 'Japan',
     'about.companyCity.prague': 'Prag',
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Verkställande direktör',
