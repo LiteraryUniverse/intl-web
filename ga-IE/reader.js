@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Athraigh cur i gcéill',
     'chapter.translation.notYet': 'Níl an chaibidil seo aistrithe go fóill.',
     'externalShopping.buyLink.amazon': 'Ceannaigh ar Amazon',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Ceannaigh ar Bookshop.org',
     'reader.accessibility.aria': 'Ghnéithe rochtana',
