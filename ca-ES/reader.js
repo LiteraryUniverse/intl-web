@@ -26,6 +26,7 @@ export default {
     'reader.accessibility': 'Activa/desactiva l\'accessibilitat',
     'chapter.translation.notYet': 'Aquest capítol encara no s\'ha traduït.',
     'externalShopping.buyLink.amazon': 'Compra a Amazon',
+    'externalShopping.buyLink.kobo': 'Buy on Rakuten Kobo',
     'externalShopping.buyLink.other': 'Get on {storeName}',
     'externalShopping.buyLink.bookshop': 'Compra a Bookshop.org',
     'reader.accessibility.aria': 'Opcions d\'accessibilitat',
