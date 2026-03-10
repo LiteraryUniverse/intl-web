@@ -265,4 +265,5 @@ export default {
   'settings.tracking.writing.description': 'Track time spent writing stories, chapters, and encyclopedia entries. This includes detailed metrics like typing activity, word counts, and time-of-day patterns.',
   'settings.tracking.trackWritingTime': 'Track writing time',
   'settings.tracking.trackReadingTime': 'Track reading time',
+  'settings.tracking.trackBlogWritingTime': 'Track blog writing time',
 }
