@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Kirjutamise aeg',
     'settings.tracking.writing.description': 'Jälgige lugude, peatükkide ja entsüklopeediakirjelduste kirjutamiseks kulunud aega. See hõlmab üksikasjalikke näitajaid, nagu kirjutamisaktiivsus, sõnade arv ja kellaaegade mustrid.',
     'settings.tracking.trackWritingTime': 'Jälgi kirjutamise aega',
-    'settings.tracking.trackReadingTime': 'Jälgi lugemisaega'
+    'settings.tracking.trackReadingTime': 'Jälgi lugemisaega',
+    'settings.tracking.trackBlogWritingTime': 'Jälgi blogi kirjutamise aega'
 };
