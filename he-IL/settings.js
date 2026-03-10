@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'זמן כתיבה',
     'settings.tracking.writing.description': 'עקבו אחר הזמן שהוקדש לכתיבת סיפורים, פרקים וערכים באנציקלופדיה. זה כולל מדדים מפורטים כמו פעילות הקלדה, ספירת מילים ודפוסי זמן ביום.',
     'settings.tracking.trackWritingTime': 'מעקב אחר זמן הכתיבה',
-    'settings.tracking.trackReadingTime': 'מעקב אחר זמן הקריאה'
+    'settings.tracking.trackReadingTime': 'מעקב אחר זמן הקריאה',
+    'settings.tracking.trackBlogWritingTime': 'עקוב אחר זמן כתיבת הבלוג'
 };
