@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Rašymo laikas',
     'settings.tracking.writing.description': 'Stebėkite laiką, sugaištą rašant istorijas, skyrius ir enciklopedijos įrašus. Tai apima išsamius rodiklius, tokius kaip spausdinimo veikla, žodžių skaičius ir dienos laiko modeliai.',
     'settings.tracking.trackWritingTime': 'Stebėti rašymo laiką',
-    'settings.tracking.trackReadingTime': 'Stebėti skaitymo laiką'
+    'settings.tracking.trackReadingTime': 'Stebėti skaitymo laiką',
+    'settings.tracking.trackBlogWritingTime': 'Stebėti tinklaraščio rašymo laiką'
 };
