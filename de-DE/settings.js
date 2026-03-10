@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Schreibzeit',
     'settings.tracking.writing.description': 'Verfolgen Sie die Zeit, die Sie für das Schreiben von Geschichten, Kapiteln und Enzyklopädieeinträgen aufwenden. Dazu gehören detaillierte Metriken wie Tippaktivitäten, Wortanzahl und Tageszeitmuster.',
     'settings.tracking.trackWritingTime': 'Schreibzeit verfolgen',
-    'settings.tracking.trackReadingTime': 'Lesezeit verfolgen'
+    'settings.tracking.trackReadingTime': 'Lesezeit verfolgen',
+    'settings.tracking.trackBlogWritingTime': 'Verfolgen Sie die Zeit zum Schreiben Ihres Blogs'
 };
