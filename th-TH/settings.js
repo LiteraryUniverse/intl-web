@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'เวลาเขียน',
     'settings.tracking.writing.description': 'ติดตามเวลาที่ใช้ในการเขียนเรื่องราว บท และบทความในสารานุกรม ซึ่งรวมถึงการวัดผลอย่างละเอียด เช่น กิจกรรมในการพิมพ์ จำนวนคำ และรูปแบบของเวลาในแต่ละวัน',
     'settings.tracking.trackWritingTime': 'ติดตามเวลาการเขียน',
-    'settings.tracking.trackReadingTime': 'ติดตามเวลาการอ่าน'
+    'settings.tracking.trackReadingTime': 'ติดตามเวลาการอ่าน',
+    'settings.tracking.trackBlogWritingTime': 'ติดตามเวลาที่ใช้ในการเขียนบล็อก'
 };
