@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': '寫作時間',
     'settings.tracking.writing.description': '追蹤撰寫故事、章節和百科全書詞條所花費的時間。這包括詳細的指標，例如打字活動、字數和每天的時間模式。',
     'settings.tracking.trackWritingTime': '追蹤寫作時間',
-    'settings.tracking.trackReadingTime': '追蹤閱讀時間'
+    'settings.tracking.trackReadingTime': '追蹤閱讀時間',
+    'settings.tracking.trackBlogWritingTime': '追蹤部落格撰寫時間'
 };
