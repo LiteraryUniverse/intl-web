@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Timpul de scriere',
     'settings.tracking.writing.description': 'Urmăriți timpul petrecut scriind povestiri, capitole și intrări în enciclopedii. Aceasta include măsurători detaliate, cum ar fi activitatea de tastare, numărul de cuvinte și modelele de timp ale zilei.',
     'settings.tracking.trackWritingTime': 'Urmăriți timpul de scriere',
-    'settings.tracking.trackReadingTime': 'Urmăriți timpul de citire'
+    'settings.tracking.trackReadingTime': 'Urmăriți timpul de citire',
+    'settings.tracking.trackBlogWritingTime': 'Urmăriți timpul de scriere pe blog'
 };
