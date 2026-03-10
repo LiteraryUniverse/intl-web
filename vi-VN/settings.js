@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Thời gian viết',
     'settings.tracking.writing.description': 'Theo dõi thời gian dành cho việc viết truyện, chương và mục từ bách khoa toàn thư. Điều này bao gồm các chỉ số chi tiết như hoạt động gõ phím, số từ và mô hình thời gian trong ngày.',
     'settings.tracking.trackWritingTime': 'Theo dõi thời gian viết',
-    'settings.tracking.trackReadingTime': 'Theo dõi thời gian đọc'
+    'settings.tracking.trackReadingTime': 'Theo dõi thời gian đọc',
+    'settings.tracking.trackBlogWritingTime': 'Theo dõi thời gian viết blog'
 };
