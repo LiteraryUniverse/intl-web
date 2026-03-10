@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Kirjoittamisen aika',
     'settings.tracking.writing.description': 'Seuraa tarinoiden, lukujen ja tietosanakirjamerkintöjen kirjoittamiseen käytettyä aikaa. Tämä sisältää yksityiskohtaisia mittareita, kuten kirjoitustoiminta, sanamäärät ja kellonaikamallit.',
     'settings.tracking.trackWritingTime': 'Seuraa kirjoittamisaikaa',
-    'settings.tracking.trackReadingTime': 'Seuraa lukuaikaa'
+    'settings.tracking.trackReadingTime': 'Seuraa lukuaikaa',
+    'settings.tracking.trackBlogWritingTime': 'Seuraa blogin kirjoittamisaikaa'
 };
