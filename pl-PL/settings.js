@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Czas pisania',
     'settings.tracking.writing.description': 'Śledzenie czasu spędzonego na pisaniu opowiadań, rozdziałów i wpisów do encyklopedii. Obejmuje to szczegółowe dane, takie jak aktywność pisania, liczba słów i wzorce czasu w ciągu dnia.',
     'settings.tracking.trackWritingTime': 'Śledzenie czasu pisania',
-    'settings.tracking.trackReadingTime': 'Śledzenie czasu odczytu'
+    'settings.tracking.trackReadingTime': 'Śledzenie czasu odczytu',
+    'settings.tracking.trackBlogWritingTime': 'Śledzenie czasu pisania bloga'
 };
