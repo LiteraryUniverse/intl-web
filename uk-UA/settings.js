@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Час написання',
     'settings.tracking.writing.description': 'Відстежуйте час, витрачений на написання статей, розділів і статей в енциклопедії. Це включає детальні показники, такі як активність набору тексту, кількість слів і час доби.',
     'settings.tracking.trackWritingTime': 'Час написання треку',
-    'settings.tracking.trackReadingTime': 'Час зчитування треку'
+    'settings.tracking.trackReadingTime': 'Час зчитування треку',
+    'settings.tracking.trackBlogWritingTime': 'Відстежуйте час написання блогу'
 };
