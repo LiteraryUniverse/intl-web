@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Temps d\'écriture',
     'settings.tracking.writing.description': 'Suivez le temps passé à écrire des histoires, des chapitres et des entrées d\'encyclopédie. Cela inclut des mesures détaillées telles que l\'activité de frappe, le nombre de mots et les schémas de l\'heure de la journée.',
     'settings.tracking.trackWritingTime': 'Suivi du temps d\'écriture',
-    'settings.tracking.trackReadingTime': 'Suivre le temps de lecture'
+    'settings.tracking.trackReadingTime': 'Suivre le temps de lecture',
+    'settings.tracking.trackBlogWritingTime': 'Suivi du temps consacré à la rédaction d\'un blog'
 };

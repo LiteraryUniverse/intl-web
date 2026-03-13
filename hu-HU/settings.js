@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Írás ideje',
     'settings.tracking.writing.description': 'Nyomon követheti a történetek, fejezetek és lexikonbejegyzések írására fordított időt. Ez olyan részletes mérőszámokat tartalmaz, mint a gépelési tevékenység, a szószámok és a napszakok mintái.',
     'settings.tracking.trackWritingTime': 'Kövesse nyomon az írási időt',
-    'settings.tracking.trackReadingTime': 'Kövesse nyomon az olvasási időt'
+    'settings.tracking.trackReadingTime': 'Kövesse nyomon az olvasási időt',
+    'settings.tracking.trackBlogWritingTime': 'Kövesse nyomon a blog írási idejét'
 };

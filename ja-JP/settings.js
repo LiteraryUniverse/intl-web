@@ -206,5 +206,6 @@ export default {
     'settings.tracking.writing.title': '執筆時間',
     'settings.tracking.writing.description': 'ストーリー、章、百科事典のエントリを書くのに費やした時間を追跡します。これには、タイピングアクティビティ、単語数、時間帯パターンなどの詳細なメトリクスが含まれます。',
     'settings.tracking.trackWritingTime': '執筆時間の記録',
-    'settings.tracking.trackReadingTime': '読書時間の記録'
+    'settings.tracking.trackReadingTime': '読書時間の記録',
+    'settings.tracking.trackBlogWritingTime': 'ブログ執筆時間の記録'
 };

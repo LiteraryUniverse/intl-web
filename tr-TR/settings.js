@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Yazma Süresi',
     'settings.tracking.writing.description': 'Hikayeler, bölümler ve ansiklopedi girişleri yazmak için harcanan zamanı takip edin. Bu, yazma etkinliği, kelime sayıları ve günün saati kalıpları gibi ayrıntılı ölçümleri içerir.',
     'settings.tracking.trackWritingTime': 'Yazma süresini takip edin',
-    'settings.tracking.trackReadingTime': 'Okuma süresini takip edin'
+    'settings.tracking.trackReadingTime': 'Okuma süresini takip edin',
+    'settings.tracking.trackBlogWritingTime': 'Blog yazma süresini takip edin'
 };

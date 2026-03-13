@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'وقت الكتابة',
     'settings.tracking.writing.description': 'تتبع الوقت المستغرق في كتابة القصص والفصول وإدخالات الموسوعة. يتضمن ذلك مقاييس مفصلة مثل نشاط الكتابة، وعدد الكلمات، وأنماط الوقت في اليوم.',
     'settings.tracking.trackWritingTime': 'تتبع وقت الكتابة',
-    'settings.tracking.trackReadingTime': 'تتبع وقت القراءة'
+    'settings.tracking.trackReadingTime': 'تتبع وقت القراءة',
+    'settings.tracking.trackBlogWritingTime': 'تتبع وقت كتابة المدونة'
 };

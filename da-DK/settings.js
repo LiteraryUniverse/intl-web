@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Tid til at skrive',
     'settings.tracking.writing.description': 'Spor den tid, du bruger på at skrive historier, kapitler og leksikonartikler. Dette inkluderer detaljerede målinger som skriveaktivitet, antal ord og mønstre for tid på dagen.',
     'settings.tracking.trackWritingTime': 'Spor skrivetid',
-    'settings.tracking.trackReadingTime': 'Spor læsetid'
+    'settings.tracking.trackReadingTime': 'Spor læsetid',
+    'settings.tracking.trackBlogWritingTime': 'Følg med i bloggens skrivetid'
 };

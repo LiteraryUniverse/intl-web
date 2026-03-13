@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': '쓰기 시간',
     'settings.tracking.writing.description': '스토리, 챕터, 백과사전 항목 작성에 소요된 시간을 추적하세요. 여기에는 타이핑 활동, 단어 수, 시간대별 패턴과 같은 세부 메트릭이 포함됩니다.',
     'settings.tracking.trackWritingTime': '쓰기 시간 추적',
-    'settings.tracking.trackReadingTime': '읽기 시간 추적'
+    'settings.tracking.trackReadingTime': '읽기 시간 추적',
+    'settings.tracking.trackBlogWritingTime': '블로그 작성 시간 추적'
 };

@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Waktu Menulis',
     'settings.tracking.writing.description': 'Melacak waktu yang dihabiskan untuk menulis cerita, bab, dan entri ensiklopedia. Ini termasuk metrik terperinci seperti aktivitas mengetik, jumlah kata, dan pola waktu dalam sehari.',
     'settings.tracking.trackWritingTime': 'Melacak waktu penulisan',
-    'settings.tracking.trackReadingTime': 'Melacak waktu membaca'
+    'settings.tracking.trackReadingTime': 'Melacak waktu membaca',
+    'settings.tracking.trackBlogWritingTime': 'Lacak waktu penulisan blog'
 };

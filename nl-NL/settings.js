@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Schrijftijd',
     'settings.tracking.writing.description': 'Houd bij hoeveel tijd u hebt besteed aan het schrijven van verhalen, hoofdstukken en encyclopedie-items. Dit omvat gedetailleerde statistieken zoals typeactiviteit, woordaantallen en patronen in de tijd van de dag.',
     'settings.tracking.trackWritingTime': 'Schrijftijd bijhouden',
-    'settings.tracking.trackReadingTime': 'Leestijd bijhouden'
+    'settings.tracking.trackReadingTime': 'Leestijd bijhouden',
+    'settings.tracking.trackBlogWritingTime': 'De schrijftijd van uw blog bijhouden'
 };

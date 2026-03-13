@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Tid för skrivande',
     'settings.tracking.writing.description': 'Spåra tidsåtgången för att skriva berättelser, kapitel och encyklopediposter. Detta inkluderar detaljerade mätvärden som skrivaktivitet, antal ord och mönster för tid på dagen.',
     'settings.tracking.trackWritingTime': 'Spåra skrivtid',
-    'settings.tracking.trackReadingTime': 'Spåra lästiden'
+    'settings.tracking.trackReadingTime': 'Spåra lästiden',
+    'settings.tracking.trackBlogWritingTime': 'Registrera tid för bloggskrivande'
 };

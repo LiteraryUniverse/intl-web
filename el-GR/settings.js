@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Χρόνος γραφής',
     'settings.tracking.writing.description': 'Παρακολουθήστε το χρόνο που ξοδεύετε για τη συγγραφή ιστοριών, κεφαλαίων και λημμάτων εγκυκλοπαίδειας. Αυτό περιλαμβάνει λεπτομερείς μετρήσεις όπως η δραστηριότητα πληκτρολόγησης, ο αριθμός των λέξεων και τα μοτίβα της ώρας της ημέρας.',
     'settings.tracking.trackWritingTime': 'Παρακολουθήστε το χρόνο γραφής',
-    'settings.tracking.trackReadingTime': 'Παρακολουθήστε το χρόνο ανάγνωσης'
+    'settings.tracking.trackReadingTime': 'Παρακολουθήστε το χρόνο ανάγνωσης',
+    'settings.tracking.trackBlogWritingTime': 'Παρακολουθήστε το χρόνο συγγραφής ιστολογίου'
 };

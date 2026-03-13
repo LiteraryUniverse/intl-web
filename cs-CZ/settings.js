@@ -208,5 +208,6 @@ export default {
     'settings.tracking.writing.title': 'Čas psaní',
     'settings.tracking.writing.description': 'Sledujte čas strávený psaním příběhů, kapitol a encyklopedických hesel. To zahrnuje podrobné metriky, jako je aktivita psaní, počet slov a časové vzorce dne.',
     'settings.tracking.trackWritingTime': 'Sledování času psaní',
-    'settings.tracking.trackReadingTime': 'Sledování doby čtení'
+    'settings.tracking.trackReadingTime': 'Sledování doby čtení',
+    'settings.tracking.trackBlogWritingTime': 'Sledování času psaní blogu'
 };
