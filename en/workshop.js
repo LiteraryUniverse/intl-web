@@ -156,6 +156,7 @@ export default {
   'workshop.story.publishedOn':
     'This story was published on {date, date, long} {date, time, short}',
   'workshop.story.settings': 'Story settings',
+  'workshop.story.monetizationTitle': 'Story monetization',
   'workshop.settings.basic': 'Basic settings',
   'workshop.settings.genres': 'Genres (max 2)',
   'workshop.story.license': 'Story license',
@@ -237,6 +238,19 @@ export default {
     'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
   'workshop.translation.revisionTrs':
     'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.monetization.minPriceNotice':
+    'Prices are validated against license-specific minimums before they can be saved or synced.',
+  'workshop.monetization.storyPrices': 'Story prices',
+  'workshop.monetization.minPrice': 'Minimum: {price}',
+  'workshop.monetization.revenueSplit': 'Revenue split',
+  'workshop.monetization.userId': 'Contributor user ID',
+  'workshop.monetization.splitTotal': 'Contributor split total: {total}%',
+  'workshop.monetization.arcPricing': 'Arc pricing',
+  'workshop.monetization.arcRange': 'Chapters {from}–{to}',
+  'workshop.monetization.arcEnabled': 'Sell this arc separately',
+  'workshop.monetization.saved': 'Pricing settings saved.',
+  'workshop.monetization.synced': 'Stripe products and prices synced.',
+  'workshop.monetization.syncStripe': 'Sync with Stripe',
   'workshop.collaborators.premium': `To add more {type, select,
     collaborator {collaborators}
     beta {beta readers}
