@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Scéalta',
     'common.universe': 'Aontas',
     'common.universes': 'Aontachtaí',
+    'common.unpublished': 'Níor foilsíodh',
     'common.collaborator': 'Comhoibrí',
     'common.collaborators': 'Comhoibrithe',
     'common.translator': 'Aistritheoir',
