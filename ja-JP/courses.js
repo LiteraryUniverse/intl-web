@@ -167,4 +167,7 @@ export default {
   'course.lesson.virtualClassroom': 'バーチャル教室',
   'course.lesson.joinClassroom': 'バーチャルクラスルームセッションに参加する',
   'course.lesson.enterClassroom': '教室に入る',
+  'courses.role.owner': 'オーナー',
+  'courses.role.teacher': '教師',
+  'courses.role.student': '学生',
 };
