@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Mga Kwento',
     'common.universe': 'Uniberso',
     'common.universes': 'Mga Uniberso',
+    'common.unpublished': 'Unpublished',
     'common.collaborator': 'Kasamang Manggagawa',
     'common.collaborators': 'Mga Kasamahan sa Pagtutulungan',
     'common.translator': 'Tagasalin',
