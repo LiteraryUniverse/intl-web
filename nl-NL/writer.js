@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} dagen eerder: {tiers} - fans krijgen toegang op {date, date, short} bij {date, time}',
     'writer.initialLetter': 'Eerste alinea brief',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Leeswaarde invoeren (bijv. かんじ)'
+    'writer.ruby.placeholder': 'Leeswaarde invoeren (bijv. かんじ)',
+    'writer.linkToWork': 'Link naar een universum, verhaal of hoofdstuk',
+    'writer.insertWorkCard': 'Kaart met verhaal of universum invoegen'
 };
