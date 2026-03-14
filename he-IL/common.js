@@ -54,6 +54,7 @@ export default {
     'common.stories': 'סיפורים',
     'common.universe': 'יקום',
     'common.universes': 'יקומים',
+    'common.unpublished': 'לא פורסם',
     'common.collaborator': 'שותף',
     'common.collaborators': 'שותפים',
     'common.translator': 'מתרגם',
