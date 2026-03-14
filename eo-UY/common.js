@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Rakontoj',
     'common.universe': 'Universe',
     'common.universes': 'Universes',
+    'common.unpublished': 'Neeldonita',
     'common.collaborator': 'Collaborator',
     'common.collaborators': 'Collaborators',
     'common.translator': 'Translator',
