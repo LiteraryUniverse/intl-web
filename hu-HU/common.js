@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Történetek',
     'common.universe': 'Univerzum',
     'common.universes': 'Univerzumok',
+    'common.unpublished': 'Nem publikált',
     'common.collaborator': 'Kollaborátor',
     'common.collaborators': 'Kollaborátorok',
     'common.translator': 'Fordító',
