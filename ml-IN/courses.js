@@ -168,4 +168,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtual Classroom',
   'course.lesson.joinClassroom': 'Join the virtual classroom session',
   'course.lesson.enterClassroom': 'Enter Classroom',
+  'courses.role.owner': 'ഉടമ',
+  'courses.role.teacher': 'അധ്യാപകൻ',
+  'courses.role.student': 'വിദ്യാർത്ഥി',
 };
