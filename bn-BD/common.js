@@ -54,6 +54,7 @@ export default {
     'common.stories': 'গল্পগুলি',
     'common.universe': 'বিশ্ব',
     'common.universes': 'বিশ্বগুলি',
+    'common.unpublished': 'অপ্রকাশিত',
     'common.collaborator': 'সহযোগী',
     'common.collaborators': 'সহযোগীগণ',
     'common.translator': 'অনুবাদক',
