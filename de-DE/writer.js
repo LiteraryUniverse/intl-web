@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} Tage früher: {tiers} - Fans erhalten Zugang auf {date, date, short} bei {date, time}',
     'writer.initialLetter': 'Anfangsbuchstabe des Absatzes',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Messwert eingeben (z.B. かんじ)'
+    'writer.ruby.placeholder': 'Messwert eingeben (z.B. かんじ)',
+    'writer.linkToWork': 'Link zu einem Universum, einer Geschichte oder einem Kapitel',
+    'writer.insertWorkCard': 'Karte der Geschichte oder des Universums einfügen'
 };
