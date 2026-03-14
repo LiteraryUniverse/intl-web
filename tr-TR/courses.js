@@ -166,4 +166,7 @@ export default {
   'course.lesson.virtualClassroom': 'Sanal Sınıf',
   'course.lesson.joinClassroom': 'Sanal sınıf oturumuna katılın',
   'course.lesson.enterClassroom': 'Sınıfa Girin',
+  'courses.role.owner': 'Sahibi',
+  'courses.role.teacher': 'Öğretmen',
+  'courses.role.student': 'Öğrenci',
 };
