@@ -54,6 +54,7 @@ export default {
     'common.stories': 'କାହାଣୀଗୁଡ଼ିକ',
     'common.universe': 'ବିଶ୍ବ',
     'common.universes': 'ବିଶ୍ଵଗୁଡ଼ିକ',
+    'common.unpublished': 'Unpublished',
     'common.collaborator': 'ସହଯୋଗୀ',
     'common.collaborators': 'ସହଯୋଗୀଗୁଡ଼ିକ',
     'common.translator': 'ଅନୁବାଦକ',
