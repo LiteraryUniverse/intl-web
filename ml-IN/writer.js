@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}',
     'writer.initialLetter': 'Initial Paragraph Letter',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)'
+    'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)',
+    'writer.linkToWork': 'ഒരു പ്രപഞ്ചത്തിലേക്കോ, കഥയിലേക്കോ, അധ്യായത്തിലേക്കോ ഉള്ള ലിങ്ക്',
+    'writer.insertWorkCard': 'കഥയോ പ്രപഞ്ചമോ ചേർക്കുക'
 };
