@@ -166,4 +166,7 @@ export default {
   'course.lesson.virtualClassroom': '가상 교실',
   'course.lesson.joinClassroom': '가상 강의실 세션에 참여하기',
   'course.lesson.enterClassroom': '교실로 들어가기',
+  'courses.role.owner': '소유자',
+  'courses.role.teacher': '교사',
+  'courses.role.student': '학생',
 };
