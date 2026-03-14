@@ -54,6 +54,7 @@ export default {
     'common.stories': 'ਕਹਾਣੀਆਂ',
     'common.universe': 'ਬ੍ਰਹਮੰਡ',
     'common.universes': 'ਬ੍ਰਹਮੰਡਾਂ',
+    'common.unpublished': 'ਅਣਛਪਿਆ',
     'common.collaborator': 'ਸਹਿਯੋਗੀ',
     'common.collaborators': 'ਸਹਿਯੋਗੀਆਂ',
     'common.translator': 'ਅਨੁਵਾਦਕ',
