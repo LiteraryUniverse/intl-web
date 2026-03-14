@@ -54,6 +54,7 @@ export default {
     'common.stories': 'قصص',
     'common.universe': 'كون',
     'common.universes': 'الأكوان',
+    'common.unpublished': 'غير منشورة',
     'common.collaborator': 'مشارك',
     'common.collaborators': 'المشاركون',
     'common.translator': 'مترجم',
