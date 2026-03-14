@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} beberapa hari lebih awal: {tiers} - penggemar bisa mendapatkan akses di {date, date, short} di {date, time}',
     'writer.initialLetter': 'Huruf Paragraf Awal',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Masukkan bacaan (mis. かんじ)'
+    'writer.ruby.placeholder': 'Masukkan bacaan (mis. かんじ)',
+    'writer.linkToWork': 'Tautan ke alam semesta, cerita, atau bab',
+    'writer.insertWorkCard': 'Menyisipkan kartu cerita atau alam semesta'
 };

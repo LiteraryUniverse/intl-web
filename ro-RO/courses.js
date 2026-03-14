@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Sală de clasă virtuală',
   'course.lesson.joinClassroom': 'Participați la sesiunea de clasă virtuală',
   'course.lesson.enterClassroom': 'Intrați în sala de clasă',
+  'courses.role.owner': 'Proprietar',
+  'courses.role.teacher': 'Învățător',
+  'courses.role.student': 'Student',
 };

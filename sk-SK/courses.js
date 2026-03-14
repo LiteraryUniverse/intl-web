@@ -168,4 +168,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuálna trieda',
   'course.lesson.joinClassroom': 'Pripojte sa k virtuálnej triede',
   'course.lesson.enterClassroom': 'Vstúpiť do učebne',
+  'courses.role.owner': 'Vlastník',
+  'courses.role.teacher': 'Učiteľ',
+  'courses.role.student': 'Študent',
 };

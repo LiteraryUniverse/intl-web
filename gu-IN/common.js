@@ -54,6 +54,7 @@ export default {
     'common.stories': 'કથાઓ',
     'common.universe': 'બ્રહ્માંડ',
     'common.universes': 'બ્રહ્માંડો',
+    'common.unpublished': 'અપ્રકાશિત',
     'common.collaborator': 'સહયોગદાતા',
     'common.collaborators': 'સહયોગદાતાઓ',
     'common.translator': 'અનુવાદક',

@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtual Classroom',
   'course.lesson.joinClassroom': 'Join the virtual classroom session',
   'course.lesson.enterClassroom': 'Enter Classroom',
+  'courses.role.owner': 'Owner',
+  'courses.role.teacher': 'Teacher',
+  'courses.role.student': 'Student',
 };

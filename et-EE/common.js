@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Lood',
     'common.universe': 'Universum',
     'common.universes': 'Universumid',
+    'common.unpublished': 'Avaldamata',
     'common.collaborator': 'Kaasautor',
     'common.collaborators': 'Kaasautorid',
     'common.translator': 'Tõlkija',

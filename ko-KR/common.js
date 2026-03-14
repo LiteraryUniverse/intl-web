@@ -54,6 +54,7 @@ export default {
     'common.stories': '이야기들',
     'common.universe': '우주',
     'common.universes': '우주들',
+    'common.unpublished': '게시되지 않음',
     'common.collaborator': '공동 참여자',
     'common.collaborators': '공동 참여자들',
     'common.translator': '번역자',

@@ -54,6 +54,7 @@ export default {
     'common.stories': 'བརྡ་ཚགས་པ།',
     'common.universe': 'ནང་བསྟན།',
     'common.universes': 'ནང་བསྟན་ཚགས་པ།',
+    'common.unpublished': 'Unpublished',
     'common.collaborator': 'འབྲེལ་བ།',
     'common.collaborators': 'འབྲེལ་བཚེ།',
     'common.translator': 'སློབ་ཚན།',

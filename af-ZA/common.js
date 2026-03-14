@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Stories',
     'common.universe': 'Heelal',
     'common.universes': 'Heelalle',
+    'common.unpublished': 'Onuitgegee',
     'common.collaborator': 'Medewerker',
     'common.collaborators': 'Medewerkers',
     'common.translator': 'Vertaler',

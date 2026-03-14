@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} dni wcześniej: {tiers} - fani otrzymują dostęp na {date, date, short} na {date, time}',
     'writer.initialLetter': 'Początkowy akapit listu',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Proszę wprowadzić odczyt (np. かんじ)'
+    'writer.ruby.placeholder': 'Proszę wprowadzić odczyt (np. かんじ)',
+    'writer.linkToWork': 'Link do uniwersum, historii lub rozdziału',
+    'writer.insertWorkCard': 'Proszę wstawić historię lub kartę uniwersum'
 };

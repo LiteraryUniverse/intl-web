@@ -166,4 +166,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtual Classroom',
   'course.lesson.joinClassroom': 'Join the virtual classroom session',
   'course.lesson.enterClassroom': 'Enter Classroom',
+  'courses.role.owner': 'Chủ sở hữu',
+  'courses.role.teacher': 'Giáo viên',
+  'courses.role.student': 'Học sinh',
 };

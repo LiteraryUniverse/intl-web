@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtueel klaslokaal',
   'course.lesson.joinClassroom': 'Doe mee aan de virtuele klassikale sessie',
   'course.lesson.enterClassroom': 'Klaslokaal binnengaan',
+  'courses.role.owner': 'Eigenaar',
+  'courses.role.teacher': 'Leraar',
+  'courses.role.student': 'Student',
 };

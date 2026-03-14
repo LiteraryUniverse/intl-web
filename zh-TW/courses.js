@@ -166,4 +166,7 @@ export default {
   'course.lesson.virtualClassroom': '虛擬教室',
   'course.lesson.joinClassroom': '加入虛擬教室會議',
   'course.lesson.enterClassroom': '進入教室',
+  'courses.role.owner': '業主',
+  'courses.role.teacher': '教師',
+  'courses.role.student': '學生',
 };

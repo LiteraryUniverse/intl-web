@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} o několik dní dříve: {tiers} - fanoušci získají přístup na {date, date, short} na {date, time}',
     'writer.initialLetter': 'Úvodní odstavec Dopis',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Zadejte čtení (např. かんじ)'
+    'writer.ruby.placeholder': 'Zadejte čtení (např. かんじ)',
+    'writer.linkToWork': 'Odkaz na vesmír, příběh nebo kapitolu',
+    'writer.insertWorkCard': 'Vložte kartu příběhu nebo vesmíru'
 };

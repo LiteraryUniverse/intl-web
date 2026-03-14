@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Истории',
     'common.universe': 'Вселенная',
     'common.universes': 'Вселенные',
+    'common.unpublished': 'Неопубликованный',
     'common.collaborator': 'Соавтор',
     'common.collaborators': 'Соавторы',
     'common.translator': 'Переводчик',

@@ -54,6 +54,7 @@ export default {
     'common.stories': 'រឿងនិទាន',
     'common.universe': 'ពិភពលោក',
     'common.universes': 'ពិភពលោក',
+    'common.unpublished': 'Unpublished',
     'common.collaborator': 'អ្នកសម្រង់',
     'common.collaborators': 'អ្នកសម្រង់',
     'common.translator': 'អ្នកបកប្រែ',

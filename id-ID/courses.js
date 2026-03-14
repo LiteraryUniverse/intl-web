@@ -168,4 +168,7 @@ export default {
   'course.lesson.virtualClassroom': 'Ruang Kelas Virtual',
   'course.lesson.joinClassroom': 'Bergabunglah dengan sesi kelas virtual',
   'course.lesson.enterClassroom': 'Masuk ke Ruang Kelas',
+  'courses.role.owner': 'Pemilik',
+  'courses.role.teacher': 'Guru',
+  'courses.role.student': 'Mahasiswa',
 };

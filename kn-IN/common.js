@@ -54,6 +54,7 @@ export default {
     'common.stories': 'ಕಥೆಗಳು',
     'common.universe': 'ಸಂಪೂರ್ಣ ಬ್ರಹ್ಮಾಂಡ',
     'common.universes': 'ಬ್ರಹ್ಮಾಂಡಗಳು',
+    'common.unpublished': 'Unpublished',
     'common.collaborator': 'ಸಹಕರಿಸುವವರು',
     'common.collaborators': 'ಸಹಕರಿಸುವವರುಗಳು',
     'common.translator': 'ಭಾಷಾಂತರಿ',

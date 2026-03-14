@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} أيام مبكرًا: {tiers} - يمكن للمعجبين الدخول على {date, date, short} ~ على {date, time}',
     'writer.initialLetter': 'خطاب الفقرة الاستهلالية',
     'writer.ruby': 'روبي',
-    'writer.ruby.placeholder': 'أدخل القراءة (على سبيل المثال か んじじ)'
+    'writer.ruby.placeholder': 'أدخل القراءة (على سبيل المثال か んじじ)',
+    'writer.linkToWork': 'رابط إلى عالم أو قصة أو فصل',
+    'writer.insertWorkCard': 'أدخل القصة أو بطاقة الكون'
 };

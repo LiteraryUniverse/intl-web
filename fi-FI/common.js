@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Tarinoita',
     'common.universe': 'Universumi',
     'common.universes': 'Universumit',
+    'common.unpublished': 'Julkaisematon',
     'common.collaborator': 'Yhteistyökumppani',
     'common.collaborators': 'Yhteistyökumppanit',
     'common.translator': 'Kääntäjä',

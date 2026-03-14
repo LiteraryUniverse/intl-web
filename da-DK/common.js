@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Historier',
     'common.universe': 'Univers',
     'common.universes': 'Universer',
+    'common.unpublished': 'Upubliceret',
     'common.collaborator': 'Samarbejdspartner',
     'common.collaborators': 'Samarbejdspartnere',
     'common.translator': 'Oversætter',

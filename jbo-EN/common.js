@@ -54,6 +54,7 @@ export default {
     'common.stories': 'lisri',
     'common.universe': '.i lo kensa',
     'common.universes': 'lo se du\'u pilno lo nu stuzi lo kensa',
+    'common.unpublished': 'Unpublished',
     'common.collaborator': 'lo se du\'u pilno lo nu spuda',
     'common.collaborators': 'Roi\'o',
     'common.translator': 'banvru',

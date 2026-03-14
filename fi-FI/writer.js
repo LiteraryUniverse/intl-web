@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} päivää aikaisemmin: {tiers} - fanit pääsevät sisään {date, date, short} osoitteessa {date, time}',
     'writer.initialLetter': 'Alkukappale Kirje',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Syötä lukema (esim. かんじ).'
+    'writer.ruby.placeholder': 'Syötä lukema (esim. かんじ).',
+    'writer.linkToWork': 'Linkki universumiin, tarinaan tai lukuun',
+    'writer.insertWorkCard': 'Lisää tarina tai universumikortti'
 };

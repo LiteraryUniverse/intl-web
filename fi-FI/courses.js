@@ -168,4 +168,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuaalinen luokkahuone',
   'course.lesson.joinClassroom': 'Liity virtuaaliluokkahuoneen istuntoon',
   'course.lesson.enterClassroom': 'Astu sisään luokkahuoneeseen',
+  'courses.role.owner': 'Omistaja',
+  'courses.role.teacher': 'Opettaja',
+  'courses.role.student': 'Opiskelija',
 };

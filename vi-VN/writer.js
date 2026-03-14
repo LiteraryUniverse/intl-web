@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} Đăng ký sớm: {tiers} — Người hâm mộ có thể truy cập tại {date, date, short} tại {date, time}',
     'writer.initialLetter': 'Đoạn đầu tiên của thư',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Nhập nội dung đọc (ví dụ: かんじ)'
+    'writer.ruby.placeholder': 'Nhập nội dung đọc (ví dụ: かんじ)',
+    'writer.linkToWork': 'Liên kết đến một vũ trụ, câu chuyện hoặc chương',
+    'writer.insertWorkCard': 'Chèn thẻ câu chuyện hoặc thẻ vũ trụ'
 };

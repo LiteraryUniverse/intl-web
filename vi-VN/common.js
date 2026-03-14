@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Câu chuyện',
     'common.universe': 'Vũ trụ',
     'common.universes': 'Các vũ trụ',
+    'common.unpublished': 'Chưa được xuất bản',
     'common.collaborator': 'Cộng Tác Viên',
     'common.collaborators': 'Cộng tác viên',
     'common.translator': 'Dịch giả',

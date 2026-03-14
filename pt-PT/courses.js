@@ -166,4 +166,7 @@ export default {
   'course.lesson.virtualClassroom': 'Sala de aula virtual',
   'course.lesson.joinClassroom': 'Participe na sessão de sala de aula virtual',
   'course.lesson.enterClassroom': 'Entre na sala de aula',
+  'courses.role.owner': 'Proprietário',
+  'courses.role.teacher': 'Professor',
+  'courses.role.student': 'Estudante',
 };

@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} dienomis anksčiau: {tiers} - gerbėjai gauna prieigą {date, date, short} adresu {date, time}',
     'writer.initialLetter': 'Pradinės pastraipos laiškas',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Įveskite rodmenis (pvz., かんじ)'
+    'writer.ruby.placeholder': 'Įveskite rodmenis (pvz., かんじ)',
+    'writer.linkToWork': 'Nuoroda į visatą, istoriją ar skyrių',
+    'writer.insertWorkCard': 'Įdėkite istorijos arba visatos kortelę'
 };

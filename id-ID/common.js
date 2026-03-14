@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Cerita',
     'common.universe': 'Universe',
     'common.universes': 'Universes',
+    'common.unpublished': 'Tidak dipublikasikan',
     'common.collaborator': 'Kolaborator',
     'common.collaborators': 'Kolaborator',
     'common.translator': 'Penerjemah',

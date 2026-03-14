@@ -54,6 +54,7 @@ export default {
     'common.stories': 'เรื่องราว',
     'common.universe': 'จักรวาล',
     'common.universes': 'จักรวาล',
+    'common.unpublished': 'ยังไม่ได้ตีพิมพ์',
     'common.collaborator': 'ผู้ร่วมงาน',
     'common.collaborators': 'ผู้ร่วมงาน',
     'common.translator': 'ผู้แปล',

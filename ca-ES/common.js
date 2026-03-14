@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Històries',
     'common.universe': 'Univers',
     'common.universes': 'Universos',
+    'common.unpublished': 'No publicat',
     'common.collaborator': 'Col·laborador',
     'common.collaborators': 'Col·laboradors',
     'common.translator': 'Traductor',

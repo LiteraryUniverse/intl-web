@@ -168,4 +168,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuální třída',
   'course.lesson.joinClassroom': 'Připojte se k virtuální třídě',
   'course.lesson.enterClassroom': 'Vstup do učebny',
+  'courses.role.owner': 'Majitel',
+  'courses.role.teacher': 'Učitel',
+  'courses.role.student': 'Student',
 };

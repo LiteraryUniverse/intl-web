@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Виртуальный класс',
   'course.lesson.joinClassroom': 'Присоединяйтесь к сессии виртуального класса',
   'course.lesson.enterClassroom': 'Войдите в классную комнату',
+  'courses.role.owner': 'Владелец',
+  'courses.role.teacher': 'Преподаватель',
+  'courses.role.student': 'Студент',
 };

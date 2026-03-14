@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Príbehy',
     'common.universe': 'Vesmír',
     'common.universes': 'Vesmíry',
+    'common.unpublished': 'Nepublikované',
     'common.collaborator': 'Spolupracovník',
     'common.collaborators': 'Spolupracovníci',
     'common.translator': 'Prekladateľ',

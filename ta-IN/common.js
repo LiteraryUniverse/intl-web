@@ -54,6 +54,7 @@ export default {
     'common.stories': 'கதைகள்',
     'common.universe': 'உலகம்',
     'common.universes': 'உலகங்கள்',
+    'common.unpublished': 'வெளியிடப்படாத',
     'common.collaborator': 'இணையதள பங்களிப்பாளர்',
     'common.collaborators': 'இணையதள பங்களிப்பாளர்கள்',
     'common.translator': 'மொழிபெயர்ப்பாளர்',
