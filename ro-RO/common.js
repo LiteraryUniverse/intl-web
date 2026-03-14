@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Povești',
     'common.universe': 'Univers',
     'common.universes': 'Universuri',
+    'common.unpublished': 'Nepublicate',
     'common.collaborator': 'Colaborator',
     'common.collaborators': 'Colaboratori',
     'common.translator': 'Traducător',
