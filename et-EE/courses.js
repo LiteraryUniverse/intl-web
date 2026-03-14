@@ -167,4 +167,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuaalne klassiruum',
   'course.lesson.joinClassroom': 'Liituge virtuaalse klassiruumi istungiga',
   'course.lesson.enterClassroom': 'Sisestage klassiruum',
+  'courses.role.owner': 'Omanik',
+  'courses.role.teacher': 'Õpetaja',
+  'courses.role.student': 'Õpilane',
 };
