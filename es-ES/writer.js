@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} días de antelación: {tiers} - los aficionados tienen acceso en {date, date, short} en {date, time}',
     'writer.initialLetter': 'Carta de párrafo inicial',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Introduzca la lectura (por ejemplo かんじ)'
+    'writer.ruby.placeholder': 'Introduzca la lectura (por ejemplo かんじ)',
+    'writer.linkToWork': 'Enlace a un universo, historia o capítulo',
+    'writer.insertWorkCard': 'Insertar tarjeta de historia o universo'
 };
