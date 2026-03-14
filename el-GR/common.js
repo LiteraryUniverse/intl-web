@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Ιστορίες',
     'common.universe': 'Σύμπαν',
     'common.universes': 'Σύμπαντα',
+    'common.unpublished': 'Αδημοσίευτο',
     'common.collaborator': 'Συνεργάτης',
     'common.collaborators': 'Συνεργάτες',
     'common.translator': 'Μεταφραστής',
