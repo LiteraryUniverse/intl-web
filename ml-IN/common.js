@@ -54,6 +54,7 @@ export default {
     'common.stories': 'കഥകൾ',
     'common.universe': 'ബ്രഹ്മാണ്ഡം',
     'common.universes': 'ബ്രഹ്മാണ്ഡങ്ങൾ',
+    'common.unpublished': 'പ്രസിദ്ധീകരിക്കാത്ത',
     'common.collaborator': 'സഹകരി',
     'common.collaborators': 'സഹകരികൾ',
     'common.translator': 'പരിഭാഷകൻ',
