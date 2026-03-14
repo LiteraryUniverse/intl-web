@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Pasakos',
     'common.universe': 'Visata',
     'common.universes': 'Visatos',
+    'common.unpublished': 'Nepublikuota',
     'common.collaborator': 'Bendradarbis',
     'common.collaborators': 'Bendradarbiai',
     'common.translator': 'Vertėjas',
