@@ -54,6 +54,7 @@ export default {
     'common.stories': 'Hikayeler',
     'common.universe': 'Evren',
     'common.universes': 'Evrenler',
+    'common.unpublished': 'Yayınlanmamış',
     'common.collaborator': 'Ortak',
     'common.collaborators': 'Ortaklar',
     'common.translator': 'Çevirmen',
