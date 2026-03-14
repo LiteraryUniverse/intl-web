@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} ימים מוקדם יותר: {tiers} — המעריצים מקבלים גישה ב- {date, date, short} ב- {date, time}',
     'writer.initialLetter': 'מכתב פתיחה',
     'writer.ruby': 'רובי',
-    'writer.ruby.placeholder': 'הזן קריאה (למשל かんじ)'
+    'writer.ruby.placeholder': 'הזן קריאה (למשל かんじ)',
+    'writer.linkToWork': 'קישור ליקום, סיפור או פרק',
+    'writer.insertWorkCard': 'הכנס כרטיס סיפור או כרטיס יקום'
 };
