@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Εικονική αίθουσα διδασκαλίας',
   'course.lesson.joinClassroom': 'Συμμετέχετε στην εικονική αίθουσα διδασκαλίας',
   'course.lesson.enterClassroom': 'Είσοδος στην αίθουσα διδασκαλίας',
+  'courses.role.owner': 'Ιδιοκτήτης',
+  'courses.role.teacher': 'Δάσκαλος',
+  'courses.role.student': 'Φοιτητής',
 };
