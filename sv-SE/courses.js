@@ -168,4 +168,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuellt klassrum',
   'course.lesson.joinClassroom': 'Delta i den virtuella klassrumssessionen',
   'course.lesson.enterClassroom': 'Gå in i klassrummet',
+  'courses.role.owner': 'Ägare',
+  'courses.role.teacher': 'Lärare',
+  'courses.role.student': 'Student',
 };
