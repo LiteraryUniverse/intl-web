@@ -54,6 +54,7 @@ export default {
     'common.stories': 'গল্পসমূহ',
     'common.universe': 'মহাজাগতিক',
     'common.universes': 'মহাজাগতিকসমূহ',
+    'common.unpublished': 'অপ্রকাশিত',
     'common.collaborator': 'সহযোগী',
     'common.collaborators': 'সহযোগীসমূহ',
     'common.translator': 'অনুবাদক',
