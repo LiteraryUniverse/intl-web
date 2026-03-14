@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} günler öncesinden: {tiers} - hayranlar {date, date, short} adresinden {date, time}erişebilir',
     'writer.initialLetter': 'İlk Paragraf Mektubu',
     'writer.ruby': 'Yakut',
-    'writer.ruby.placeholder': 'Okuma değerini girin (örn. かんじ)'
+    'writer.ruby.placeholder': 'Okuma değerini girin (örn. かんじ)',
+    'writer.linkToWork': 'Bir evrene, hikayeye veya bölüme bağlantı',
+    'writer.insertWorkCard': 'Hikaye veya evren kartı ekleyin'
 };
