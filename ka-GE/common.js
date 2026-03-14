@@ -54,6 +54,7 @@ export default {
     'common.stories': 'მოთავსებები',
     'common.universe': 'უნივერსუმი',
     'common.universes': 'უნივერსუმები',
+    'common.unpublished': 'გამოუქვეყნებელი',
     'common.collaborator': 'თანამშრომელი',
     'common.collaborators': 'თანამშრომლები',
     'common.translator': 'თარგმანი',
