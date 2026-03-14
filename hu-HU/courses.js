@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuális tanterem',
   'course.lesson.joinClassroom': 'Csatlakozzon a virtuális tantermi foglalkozáshoz',
   'course.lesson.enterClassroom': 'Belépés az osztályterembe',
+  'courses.role.owner': 'Tulajdonos',
+  'courses.role.teacher': 'Tanár',
+  'courses.role.student': 'Diák',
 };
