@@ -54,6 +54,7 @@ export default {
     'common.stories': 'कथाहरू',
     'common.universe': 'ब्रह्माण्ड',
     'common.universes': 'ब्रह्माण्डहरू',
+    'common.unpublished': 'अप्रकाशित',
     'common.collaborator': 'सहकारी',
     'common.collaborators': 'सहकारीहरू',
     'common.translator': 'अनुवादक',
