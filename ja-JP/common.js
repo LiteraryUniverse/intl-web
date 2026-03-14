@@ -54,6 +54,7 @@ export default {
     'common.stories': '物語',
     'common.universe': '宇宙',
     'common.universes': '宇宙',
+    'common.unpublished': '未発表',
     'common.collaborator': '共同執筆者',
     'common.collaborators': '共同執筆者',
     'common.translator': '翻訳者',
