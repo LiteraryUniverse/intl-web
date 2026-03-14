@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}',
     'writer.initialLetter': 'Initial Paragraph Letter',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)'
+    'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)',
+    'writer.linkToWork': 'ब्रह्माण्ड, कथा वा अध्यायको लिङ्क',
+    'writer.insertWorkCard': 'कथा वा ब्रह्माण्ड कार्ड राख्नुहोस्'
 };
