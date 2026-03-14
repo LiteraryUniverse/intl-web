@@ -77,4 +77,6 @@ export default {
   'writer.initialLetter': 'Initial Paragraph Letter',
   'writer.ruby': 'Ruby',
   'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)',
+  'writer.linkToWork': 'Link to a universe, story or chapter',
+  'writer.insertWorkCard': 'Insert story or universe card',
 }
