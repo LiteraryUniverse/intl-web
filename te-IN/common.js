@@ -54,6 +54,7 @@ export default {
     'common.stories': 'కథలు',
     'common.universe': 'యూనివర్స్',
     'common.universes': 'యూనివర్స్‌లు',
+    'common.unpublished': 'ప్రచురించబడని',
     'common.collaborator': 'సహకరించేవాడు',
     'common.collaborators': 'సహకరించేవారు',
     'common.translator': 'అనువాదకుడు',
