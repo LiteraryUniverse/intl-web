@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} jours d\'avance : {tiers} - les fans ont accès à {date, date, short} à {date, time}',
     'writer.initialLetter': 'Lettre du paragraphe initial',
     'writer.ruby': 'Rubis',
-    'writer.ruby.placeholder': 'Saisissez la lecture (par exemple かんじ)'
+    'writer.ruby.placeholder': 'Saisissez la lecture (par exemple かんじ)',
+    'writer.linkToWork': 'Lien vers un univers, une histoire ou un chapitre',
+    'writer.insertWorkCard': 'Insérer une carte d\'histoire ou d\'univers'
 };
