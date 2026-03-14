@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuali klasė',
   'course.lesson.joinClassroom': 'Prisijunkite prie virtualios klasės sesijos',
   'course.lesson.enterClassroom': 'Įeikite į klasę',
+  'courses.role.owner': 'Savininkas',
+  'courses.role.teacher': 'Mokytojas',
+  'courses.role.student': 'Studentas',
 };
