@@ -169,4 +169,7 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuelles Klassenzimmer',
   'course.lesson.joinClassroom': 'Nehmen Sie an der Sitzung im virtuellen Klassenzimmer teil',
   'course.lesson.enterClassroom': 'Klassenzimmer betreten',
+  'courses.role.owner': 'Eigentümer',
+  'courses.role.teacher': 'Lehrer',
+  'courses.role.student': 'Student',
 };
