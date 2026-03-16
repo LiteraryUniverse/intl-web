@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Posting terbaru',
     'blog.statsPage': 'Statistik blog',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Komen Sastera',
+    'blog.literaryCommentary.checkbox': 'Ini adalah ulasan sastera.',
+    'blog.literaryCommentary.description': 'Pilih sebuah cerita atau alam semesta daripada perpustakaan anda untuk memberikan ulasan sastera mengenai:',
+    'blog.literaryCommentary.rating': 'Penilaian (pilihan)',
+    'blog.literaryCommentary.empty': 'Tiada ulasan sastera tersedia lagi.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
