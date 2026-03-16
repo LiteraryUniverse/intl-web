@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Naudodamiesi "Planuoti skyrių" suplanuokite istorijos struktūrą arba dirbtuvėse parašykite pirmąjį skyrių.',
     'workshop.outliner.noScenes': 'Scenų dar nėra',
     'workshop.outliner.storyline': 'Siužetinė linija',
-    'workshop.outliner.dragHint': 'Vilkite korteles tarp bet kurių scenos stulpelių ir siužetinių linijų kaip "Trello" lentoje.',
+    'workshop.outliner.dragHint': 'Vilkite korteles tarp bet kurių scenos stulpelių ir siužetinių linijų.',
     'workshop.outliner.editCard': 'Redaguoti kontūro kortelę',
     'workshop.outliner.cardDetailsPlaceholder': 'Apibūdinkite šį ritmą, scenos tikslą, pagrindinį konfliktą ir bet kokias pastabas…',
     'workshop.outliner.written': 'Pažymėti, kaip parašyta',
