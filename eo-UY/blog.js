@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Lastaj afiŝoj',
     'blog.statsPage': 'Statistikoj de la blogo',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Literatura Komentario',
+    'blog.literaryCommentary.checkbox': 'Tio estas literatura komentario.',
+    'blog.literaryCommentary.description': 'Elektu rakonton aŭ universon el via biblioteko por provizi literaturan komentaron pri:',
+    'blog.literaryCommentary.rating': 'Taksado (nedeviga)',
+    'blog.literaryCommentary.empty': 'Ankoraŭ ne disponeblas literatura komentario.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
