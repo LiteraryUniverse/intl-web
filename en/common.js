@@ -287,6 +287,11 @@ export default {
   'common.notifications': 'Notifications',
   'common.byDeclaration': 'By:',
   'common.done': 'Done',
+  'contentSelector.noSelection': 'No items selected',
+  'contentSelector.selectedItems': 'Selected items',
+  'contentSelector.entireSite': 'Search Site',
+  'contentSelector.tabsLabel': 'Search options',
+  'contentSelector.title': 'Select Content',
   recommended: 'Recommended',
 
   'select.typeToCreate': 'Start typing to create an item',
