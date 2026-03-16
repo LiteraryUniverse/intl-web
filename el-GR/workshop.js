@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Χρησιμοποιήστε το "Σχεδιάστε το κεφάλαιο" για να σχεδιάσετε τη δομή της ιστορίας σας ή γράψτε το πρώτο σας κεφάλαιο στο εργαστήριο.',
     'workshop.outliner.noScenes': 'Δεν υπάρχουν ακόμα σκηνές',
     'workshop.outliner.storyline': 'Σύνοψη ιστορίας',
-    'workshop.outliner.dragHint': 'Σύρετε κάρτες μεταξύ οποιωνδήποτε στηλών σκηνών και ιστοριών, ακριβώς όπως σε έναν πίνακα Trello.',
+    'workshop.outliner.dragHint': 'Σύρετε κάρτες μεταξύ οποιωνδήποτε στηλών σκηνών και ιστοριών.',
     'workshop.outliner.editCard': 'Επεξεργασία της κάρτας outliner',
     'workshop.outliner.cardDetailsPlaceholder': 'Περιγράψτε αυτό το ρυθμό, το στόχο της σκηνής, τη βασική σύγκρουση και τυχόν σημειώσεις…',
     'workshop.outliner.written': 'Σημειώστε όπως γράφτηκε',
