@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Posting terbaru',
     'blog.statsPage': 'Statistik blog',
     'blog.view': 'Lihat Blog',
+    'blog.literaryCommentary': 'Komentar Sastra',
+    'blog.literaryCommentary.checkbox': 'Ini adalah komentar sastra',
+    'blog.literaryCommentary.description': 'Pilih cerita atau alam semesta dari perpustakaan Anda untuk memberikan komentar sastra:',
+    'blog.literaryCommentary.rating': 'Peringkat (opsional)',
+    'blog.literaryCommentary.empty': 'Belum ada komentar sastra yang tersedia.',
     'blog.settings.qa': 'TANYA JAWAB',
     // Q&A Settings
     'blog.qa.settings.title': 'Pengaturan Tanya Jawab',
