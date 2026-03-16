@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Recommended stories',
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
-    'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)'
+    'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
+    'discover.ratingExplained': 'Mezuma takso de {avgRating, number} el {reviewsNum, number} recenzo'
 };
