@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Ríomhphoist le déanaí',
     'blog.statsPage': 'Staitisticí an bhlag',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Tráchtaireacht Litríochta',
+    'blog.literaryCommentary.checkbox': 'Is tráchtaireacht liteartha é seo.',
+    'blog.literaryCommentary.description': 'Roghnaigh scéal nó cruinne ó do leabharlann chun tráchtaireacht liteartha a sholáthar ar:',
+    'blog.literaryCommentary.rating': 'Rátáil (roghnach)',
+    'blog.literaryCommentary.empty': 'Níl aon tráchtaireacht liteartha ar fáil go fóill.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
