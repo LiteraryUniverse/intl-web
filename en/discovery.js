@@ -89,4 +89,5 @@ export default {
   'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
 
   'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
+  'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review',
 }
