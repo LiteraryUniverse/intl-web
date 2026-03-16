@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Naujausi įrašai',
     'blog.statsPage': 'Tinklaraščio statistika',
     'blog.view': 'Peržiūrėti tinklaraštį',
+    'blog.literaryCommentary': 'Literatūrinis komentaras',
+    'blog.literaryCommentary.checkbox': 'Tai literatūrinis komentaras',
+    'blog.literaryCommentary.description': 'Pasirinkite istoriją arba visatą iš savo bibliotekos ir pateikite literatūrinį komentarą:',
+    'blog.literaryCommentary.rating': 'Įvertinimas (neprivaloma)',
+    'blog.literaryCommentary.empty': 'Literatūrinių komentarų dar nėra.',
     'blog.settings.qa': 'KLAUSIMAI IR ATSAKYMAI',
     // Q&A Settings
     'blog.qa.settings.title': 'Klausimų ir atsakymų nustatymai',
