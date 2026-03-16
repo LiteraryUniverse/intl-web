@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Sử dụng "Chương kế hoạch" để lập kế hoạch cấu trúc câu chuyện của bạn, hoặc viết chương đầu tiên trong workshop.',
     'workshop.outliner.noScenes': 'Chưa có cảnh nào.',
     'workshop.outliner.storyline': 'Cốt truyện',
-    'workshop.outliner.dragHint': 'Kéo thẻ giữa các cột cảnh và cốt truyện, giống như trên bảng Trello.',
+    'workshop.outliner.dragHint': 'Kéo các thẻ giữa các cột cảnh và các mạch truyện.',
     'workshop.outliner.editCard': 'Chỉnh sửa thẻ Outliner',
     'workshop.outliner.cardDetailsPlaceholder': 'Mô tả nhịp điệu, mục tiêu của cảnh, mâu thuẫn chính và bất kỳ ghi chú nào…',
     'workshop.outliner.written': 'Ghi chú như đã viết',
