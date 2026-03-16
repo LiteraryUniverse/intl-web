@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Use "Plan chapter" to plan your story structure, or write your first chapter in the workshop.',
     'workshop.outliner.noScenes': 'No scenes yet',
     'workshop.outliner.storyline': 'Storyline',
-    'workshop.outliner.dragHint': 'Drag cards between any scene columns and storylines, just like a Trello board.',
+    'workshop.outliner.dragHint': 'காட்சிப் பத்திகள் மற்றும் கதைக்களங்களுக்கு இடையில் அட்டைகளை இழுக்கவும்.',
     'workshop.outliner.editCard': 'Edit outliner card',
     'workshop.outliner.cardDetailsPlaceholder': 'Describe this beat, scene goal, key conflict, and any notes…',
     'workshop.outliner.written': 'Mark as written',
