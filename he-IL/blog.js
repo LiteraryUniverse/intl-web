@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'פוסטים אחרונים',
     'blog.statsPage': 'סטטיסטיקות בלוג',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'פרשנות ספרותית',
+    'blog.literaryCommentary.checkbox': 'זהו פירוש ספרותי',
+    'blog.literaryCommentary.description': 'בחר סיפור או יקום מהספרייה שלך כדי לכתוב עליו פרשנות ספרותית:',
+    'blog.literaryCommentary.rating': 'דירוג (לא חובה)',
+    'blog.literaryCommentary.empty': 'עדיין אין פרשנות ספרותית זמינה.',
     'blog.settings.qa': 'שאלות ותשובות',
     // Q&A Settings
     'blog.qa.settings.title': 'הגדרות שאלות ותשובות',
