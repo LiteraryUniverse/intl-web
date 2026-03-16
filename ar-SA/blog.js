@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'المقالات الأخيرة',
     'blog.statsPage': 'إحصائيات المدونة',
     'blog.view': 'عرض المدونة',
+    'blog.literaryCommentary': 'تعليق أدبي',
+    'blog.literaryCommentary.checkbox': 'هذا تعليق أدبي',
+    'blog.literaryCommentary.description': 'اختر قصة أو عالمًا من مكتبتك لتقديم تعليق أدبي عليه:',
+    'blog.literaryCommentary.rating': 'التقييم (اختياري)',
+    'blog.literaryCommentary.empty': 'لا يوجد تعليق أدبي متاح حتى الآن.',
     'blog.settings.qa': 'سؤال وجواب',
     // Q&A Settings
     'blog.qa.settings.title': 'إعدادات الأسئلة والأجوبة',
