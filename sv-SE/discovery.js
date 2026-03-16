@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Rekommenderade berättelser',
     'discovery.recommendations.recommendationsExplained': 'Dessa berättelser rekommenderas baserat på vår rekommendationsmotor. Den använder maskininlärning för att rekommendera berättelser åt dig.',
     'discovery.recommendations.recommendationsSettings': 'Du kan inaktivera detta i dina inställningar.',
-    'discover.search.templateUniverses': 'Visa endast malluniversum (kopierbara encyklopedier)'
+    'discover.search.templateUniverses': 'Visa endast malluniversum (kopierbara encyklopedier)',
+    'discover.ratingExplained': 'Genomsnittligt betyg på {avgRating, number} från {reviewsNum, number} recension'
 };
