@@ -283,7 +283,7 @@ export default {
   'workshop.outliner.noScenes': 'No scenes yet',
   'workshop.outliner.storyline': 'Storyline',
   'workshop.outliner.dragHint':
-    'Drag cards between any scene columns and storylines, just like a Trello board.',
+    'Drag cards between any scene columns and storylines.',
   'workshop.outliner.editCard': 'Edit outliner card',
   'workshop.outliner.cardDetailsPlaceholder':
     'Describe this beat, scene goal, key conflict, and any notes…',
