@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': '계속 읽기',
     'bookmark.statusSummary': '이야기의 {readPercent, number, ::percent} 를 읽으셨습니다.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': '검색어를 입력하거나 필터를 적용하세요.',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };
