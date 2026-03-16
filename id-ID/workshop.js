@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Gunakan "Rencanakan bab" untuk merencanakan struktur cerita Anda, atau tulis bab pertama Anda dalam lokakarya.',
     'workshop.outliner.noScenes': 'Belum ada adegan',
     'workshop.outliner.storyline': 'Alur cerita',
-    'workshop.outliner.dragHint': 'Seret kartu di antara kolom adegan dan alur cerita, seperti papan Trello.',
+    'workshop.outliner.dragHint': 'Seret kartu di antara kolom adegan dan alur cerita.',
     'workshop.outliner.editCard': 'Mengedit kartu outliner',
     'workshop.outliner.cardDetailsPlaceholder': 'Jelaskan ketukan, tujuan adegan, konflik utama, dan catatan apa pun…',
     'workshop.outliner.written': 'Tandai seperti yang tertulis',
