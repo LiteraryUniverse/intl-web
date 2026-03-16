@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': '최근 글',
     'blog.statsPage': '블로그 통계',
     'blog.view': '블로그 보기',
+    'blog.literaryCommentary': '문학 해설',
+    'blog.literaryCommentary.checkbox': '이것은 문학 해설입니다.',
+    'blog.literaryCommentary.description': '라이브러리에서 문학 해설을 제공할 이야기나 우주를 선택하세요:',
+    'blog.literaryCommentary.rating': '등급(선택 사항)',
+    'blog.literaryCommentary.empty': '아직 문학 해설이 제공되지 않습니다.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A 설정',
