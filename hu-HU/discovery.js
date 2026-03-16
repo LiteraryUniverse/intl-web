@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Ajánlott történetek',
     'discovery.recommendations.recommendationsExplained': 'Ezeket a történeteket az ajánlómotorunk alapján ajánljuk. Mely gépi tanulást használ, hogy történeteket ajánljon Önnek.',
     'discovery.recommendations.recommendationsSettings': 'Ezt letilthatja a beállítások között.',
-    'discover.search.templateUniverses': 'Csak sablon univerzumok megjelenítése (másolható enciklopédiák)'
+    'discover.search.templateUniverses': 'Csak sablon univerzumok megjelenítése (másolható enciklopédiák)',
+    'discover.ratingExplained': 'Átlagos értékelés {avgRating, number} a {reviewsNum, number} felülvizsgálatból ~ ~ átlaga'
 };
