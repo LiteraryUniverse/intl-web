@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Utilizzi "Pianifica capitolo" per pianificare la struttura della sua storia, oppure scriva il suo primo capitolo durante il workshop.',
     'workshop.outliner.noScenes': 'Non ci sono ancora scene',
     'workshop.outliner.storyline': 'Trama',
-    'workshop.outliner.dragHint': 'Trascini le schede tra le colonne delle scene e le trame, proprio come una lavagna di Trello.',
+    'workshop.outliner.dragHint': 'Trascina le carte tra le colonne delle scene e le trame.',
     'workshop.outliner.editCard': 'Modifica la scheda outliner',
     'workshop.outliner.cardDetailsPlaceholder': 'Descriva questo ritmo, l\'obiettivo della scena, il conflitto chiave ed eventuali note…',
     'workshop.outliner.written': 'Contrassegnare come scritto',
