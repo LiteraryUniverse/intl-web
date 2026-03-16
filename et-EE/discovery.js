@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Soovitatavad lood',
     'discovery.recommendations.recommendationsExplained': 'Neid lugusid soovitatakse meie soovituste süsteemi alusel. mis kasutab masinõpet, et soovitada teile lugusid.',
     'discovery.recommendations.recommendationsSettings': 'Saate selle oma seadetes keelata.',
-    'discover.search.templateUniverses': 'Näita ainult malliuniversumeid (kopeeritavad entsüklopeediad)'
+    'discover.search.templateUniverses': 'Näita ainult malliuniversumeid (kopeeritavad entsüklopeediad)',
+    'discover.ratingExplained': 'Keskmine hinnang {avgRating, number} alates {reviewsNum, number} arvustusest'
 };
