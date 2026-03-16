@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'சமீபத்திய பதிவுகள்',
     'blog.statsPage': 'வலைப்பதிவு புள்ளிவிபரங்கள்',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'இலக்கிய உரை',
+    'blog.literaryCommentary.checkbox': 'இது ஒரு இலக்கிய வர்ணனை',
+    'blog.literaryCommentary.description': 'இலக்கிய வர்ணனை வழங்க, உங்கள் நூலகத்திலிருந்து ஒரு கதையையோ அல்லது பிரபஞ்சத்தையோ தேர்ந்தெடுக்கவும்:',
+    'blog.literaryCommentary.rating': 'மதிப்பீடு (விருப்பத்திற்குரியது)',
+    'blog.literaryCommentary.empty': 'இன்னும் இலக்கிய விளக்கவுரை கிடைக்கவில்லை.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
