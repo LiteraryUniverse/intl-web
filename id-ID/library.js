@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Lanjutkan membaca',
     'bookmark.statusSummary': 'Anda telah membaca {readPercent, number, ::percent} dari cerita.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Silakan masukkan istilah pencarian atau terapkan filter',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };
