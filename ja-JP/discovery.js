@@ -80,5 +80,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'おすすめ記事',
     'discovery.recommendations.recommendationsExplained': 'これらのストーリーは、私たちのレコメンデーション・エンジンに基づいて推薦されます。機械学習を利用してストーリーを推薦します。',
     'discovery.recommendations.recommendationsSettings': '設定で無効にできます。',
-    'discover.search.templateUniverses': 'テンプレートユニバース（コピー可能な百科事典）のみを表示する'
+    'discover.search.templateUniverses': 'テンプレートユニバース（コピー可能な百科事典）のみを表示する',
+    'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review'
 };
