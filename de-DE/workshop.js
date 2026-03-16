@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Verwenden Sie "Kapitel planen", um die Struktur Ihrer Geschichte zu planen, oder schreiben Sie Ihr erstes Kapitel im Workshop.',
     'workshop.outliner.noScenes': 'Noch keine Szenen',
     'workshop.outliner.storyline': 'Storyline',
-    'workshop.outliner.dragHint': 'Ziehen Sie Karten zwischen beliebigen Szenenspalten und Handlungssträngen, genau wie bei einem Trello-Board.',
+    'workshop.outliner.dragHint': 'Ziehen Sie Karten zwischen beliebigen Szenenspalten und Handlungssträngen.',
     'workshop.outliner.editCard': 'Outliner-Karte bearbeiten',
     'workshop.outliner.cardDetailsPlaceholder': 'Beschreiben Sie diesen Takt, das Ziel der Szene, den Hauptkonflikt und alle Anmerkungen…',
     'workshop.outliner.written': 'Markieren wie geschrieben',
