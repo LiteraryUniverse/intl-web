@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Utilice "Planificar capítulo" para planificar la estructura de su historia, o escriba su primer capítulo en el taller.',
     'workshop.outliner.noScenes': 'Aún no hay escenas',
     'workshop.outliner.storyline': 'Storyline',
-    'workshop.outliner.dragHint': 'Arrastre las tarjetas entre las columnas de escenas y líneas argumentales, como en un tablero Trello.',
+    'workshop.outliner.dragHint': 'Arrastre tarjetas entre cualquier columna de escenas y líneas argumentales.',
     'workshop.outliner.editCard': 'Editar tarjeta outliner',
     'workshop.outliner.cardDetailsPlaceholder': 'Describa este ritmo, el objetivo de la escena, el conflicto clave y cualquier nota…',
     'workshop.outliner.written': 'Marcar como está escrito',
