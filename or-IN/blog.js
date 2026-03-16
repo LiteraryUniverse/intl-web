@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ନବୀନ ପୋଷ୍ଟଗୁଡ଼ିକ',
     'blog.statsPage': 'ବ୍ଲଗ ପ୍ରବଣତାମାନ୍ୟ',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Literary Commentary',
+    'blog.literaryCommentary.checkbox': 'This is a literary commentary',
+    'blog.literaryCommentary.description': 'Select a story or universe from your library to provide literary commentary on:',
+    'blog.literaryCommentary.rating': 'Rating (optional)',
+    'blog.literaryCommentary.empty': 'No literary commentary available yet.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
