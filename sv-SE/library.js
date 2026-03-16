@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Fortsätt läsa',
     'bookmark.statusSummary': 'Du har läst {readPercent, number, ::percent} av historien.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Ange söktermer eller använd filter',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };
