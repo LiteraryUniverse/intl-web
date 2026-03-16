@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'โพสต์ล่าสุด',
     'blog.statsPage': 'สถิติบล็อก',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'บทวิจารณ์วรรณกรรม',
+    'blog.literaryCommentary.checkbox': 'นี่คือบทวิจารณ์วรรณกรรม',
+    'blog.literaryCommentary.description': 'เลือกเรื่องราวหรือจักรวาลจากห้องสมุดของคุณเพื่อให้ความเห็นทางวรรณกรรมเกี่ยวกับ:',
+    'blog.literaryCommentary.rating': 'ให้คะแนน (ไม่บังคับ)',
+    'blog.literaryCommentary.empty': 'ยังไม่มีคำวิจารณ์วรรณกรรม',
     'blog.settings.qa': 'คำถามและคำตอบ',
     // Q&A Settings
     'blog.qa.settings.title': 'การตั้งค่าคำถามและคำตอบ',
