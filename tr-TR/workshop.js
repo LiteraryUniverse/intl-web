@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Hikaye yapınızı planlamak için "Bölüm planla "yı kullanın veya atölyede ilk bölümünüzü yazın.',
     'workshop.outliner.noScenes': 'Henüz sahne yok',
     'workshop.outliner.storyline': 'Hikaye',
-    'workshop.outliner.dragHint': 'Tıpkı bir Trello panosunda olduğu gibi, kartları herhangi bir sahne sütunu ve hikaye çizgisi arasında sürükleyin.',
+    'workshop.outliner.dragHint': 'Kartları herhangi bir sahne sütunu ve hikaye çizgisi arasında sürükleyin.',
     'workshop.outliner.editCard': 'Outliner kartını düzenleme',
     'workshop.outliner.cardDetailsPlaceholder': 'Bu vuruşu, sahne hedefini, temel çatışmayı ve herhangi bir notu açıklayın…',
     'workshop.outliner.written': 'Yazıldığı gibi işaretleyin',
