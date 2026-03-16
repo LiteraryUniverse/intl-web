@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'તાજેતરના પોસ્ટો',
     'blog.statsPage': 'બ્લોગ આંકડાઓ',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'સાહિત્યિક ટિપ્પણી',
+    'blog.literaryCommentary.checkbox': 'આ એક સાહિત્યિક ટિપ્પણી છે',
+    'blog.literaryCommentary.description': 'સાહિત્યિક ટિપ્પણી આપવા માટે તમારી લાઇબ્રેરીમાંથી કોઈ વાર્તા અથવા બ્રહ્માંડ પસંદ કરો:',
+    'blog.literaryCommentary.rating': 'રેટિંગ (વૈકલ્પિક)',
+    'blog.literaryCommentary.empty': 'હજી સુધી કોઈ સાહિત્યિક ટિપ્પણી ઉપલબ્ધ નથી.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
