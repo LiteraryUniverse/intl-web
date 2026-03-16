@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ఇటరాల పోస్టులు',
     'blog.statsPage': 'బ్లాగ్ సంఖ్యలు',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'సాహిత్య వ్యాఖ్యానం',
+    'blog.literaryCommentary.checkbox': 'ఇది ఒక సాహిత్య వ్యాఖ్యానం',
+    'blog.literaryCommentary.description': 'సాహిత్య వ్యాఖ్యానం అందించడానికి మీ లైబ్రరీ నుండి ఒక కథ లేదా విశ్వం ఎంచుకోండి:',
+    'blog.literaryCommentary.rating': 'రేటింగ్ (ఐచ్ఛికం)',
+    'blog.literaryCommentary.empty': 'ఇంకా సాహిత్య వ్యాఖ్యానం అందుబాటులో లేదు.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
