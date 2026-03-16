@@ -242,7 +242,7 @@ export default {
     'workshop.outliner.noChapters': 'Použijte "Plán kapitoly" k naplánování struktury příběhu nebo napište první kapitolu v dílně.',
     'workshop.outliner.noScenes': 'Zatím žádné scény',
     'workshop.outliner.storyline': 'Příběhová linie',
-    'workshop.outliner.dragHint': 'Přetahujte karty mezi libovolnými sloupci scény a dějovými liniemi, stejně jako na nástěnce Trello.',
+    'workshop.outliner.dragHint': 'Přetahujte karty mezi libovolnými sloupci scén a dějovými liniemi.',
     'workshop.outliner.editCard': 'Upravit kartu osnovy',
     'workshop.outliner.cardDetailsPlaceholder': 'Popište tento rytmus, cíl scény, klíčový konflikt a případné poznámky….',
     'workshop.outliner.written': 'Označte, jak je napsáno',
