@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Histoires recommandées',
     'discovery.recommendations.recommendationsExplained': 'Ces histoires sont recommandées sur la base de notre moteur de recommandations. Celui-ci utilise l\'apprentissage automatique pour vous recommander des histoires.',
     'discovery.recommendations.recommendationsSettings': 'Vous pouvez désactiver cette fonction dans vos paramètres.',
-    'discover.search.templateUniverses': 'Ne montrer que les univers modèles (encyclopédies copiables)'
+    'discover.search.templateUniverses': 'Ne montrer que les univers modèles (encyclopédies copiables)',
+    'discover.ratingExplained': 'Note moyenne de {avgRating, number} à partir de {reviewsNum, number} avis'
 };
