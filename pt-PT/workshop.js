@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Utilize "Plan chapter" para planear a estrutura da sua história ou escreva o seu primeiro capítulo no workshop.',
     'workshop.outliner.noScenes': 'Ainda não há cenas',
     'workshop.outliner.storyline': 'Enredo',
-    'workshop.outliner.dragHint': 'Arraste cartões entre quaisquer colunas de cenas e linhas de história, tal como num quadro Trello.',
+    'workshop.outliner.dragHint': 'Arraste cartões entre quaisquer colunas de cenas e histórias.',
     'workshop.outliner.editCard': 'Editar o cartão de contorno',
     'workshop.outliner.cardDetailsPlaceholder': 'Descreva este ritmo, o objetivo da cena, o conflito principal e quaisquer notas…',
     'workshop.outliner.written': 'Marque como escrito',
