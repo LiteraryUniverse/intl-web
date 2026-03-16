@@ -240,7 +240,7 @@ export default {
     'workshop.outliner.noChapters': 'プラン・チャプター」を使ってストーリーの構成を考えたり、ワークショップで最初の章を書く。',
     'workshop.outliner.noScenes': 'まだシーンはない',
     'workshop.outliner.storyline': 'ストーリー',
-    'workshop.outliner.dragHint': 'Trelloのボードのように、シーンの列とストーリーラインの間でカードをドラッグする。',
+    'workshop.outliner.dragHint': 'シーンの列とストーリーラインの間でカードをドラッグする。',
     'workshop.outliner.editCard': 'アウトライナーカードの編集',
     'workshop.outliner.cardDetailsPlaceholder': 'このビート、シーンのゴール、重要な対立、注意点などを説明する…',
     'workshop.outliner.written': 'マーク',
