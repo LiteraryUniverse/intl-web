@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Viimeisimmät viestit',
     'blog.statsPage': 'Blogitilastot',
     'blog.view': 'Näytä blogi',
+    'blog.literaryCommentary': 'Kirjallinen kommentti',
+    'blog.literaryCommentary.checkbox': 'Tämä on kirjallisuuskommentti',
+    'blog.literaryCommentary.description': 'Valitse kirjastostasi tarina tai maailmankaikkeus, jota voit kommentoida kirjallisesti:',
+    'blog.literaryCommentary.rating': 'Luokitus (valinnainen)',
+    'blog.literaryCommentary.empty': 'Kirjallista kommenttia ei ole vielä saatavilla.',
     'blog.settings.qa': 'KYSYMYKSET JA VASTAUKSET',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Asetukset',
