@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Utilisez "Planifier un chapitre" pour planifier la structure de votre histoire, ou écrivez votre premier chapitre dans l\'atelier.',
     'workshop.outliner.noScenes': 'Pas encore de scènes',
     'workshop.outliner.storyline': 'Histoire de l\'entreprise',
-    'workshop.outliner.dragHint': 'Faites glisser les cartes entre les colonnes de scènes et les intrigues, comme sur un tableau Trello.',
+    'workshop.outliner.dragHint': 'Faites glisser les cartes entre les colonnes de scènes et les lignes de récit.',
     'workshop.outliner.editCard': 'Modifier la carte de contournement',
     'workshop.outliner.cardDetailsPlaceholder': 'Décrivez ce rythme, l\'objectif de la scène, le conflit principal et toute autre note…',
     'workshop.outliner.written': 'Marquer comme écrit',
