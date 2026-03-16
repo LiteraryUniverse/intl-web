@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ഏറ്റവും പുതിയ പോസ്റ്റുകൾ',
     'blog.statsPage': 'ബ്ലോഗ് സ്റ്റാറ്റിസ്റ്റികൾ',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'സാഹിത്യപരമായ വ്യാഖ്യാനം',
+    'blog.literaryCommentary.checkbox': 'ഇതൊരു സാഹിത്യപരമായ വ്യാഖ്യാനമാണ്',
+    'blog.literaryCommentary.description': 'സാഹിത്യപരമായ അഭിപ്രായം നൽകുന്നതിനായി നിങ്ങളുടെ ലൈബ്രറിയിൽ നിന്ന് ഒരു കഥയോ പ്രപഞ്ചമോ തിരഞ്ഞെടുക്കുക:',
+    'blog.literaryCommentary.rating': 'റേറ്റിംഗ് (ഐച്ഛികം)',
+    'blog.literaryCommentary.empty': 'സാഹിത്യപരമായ വ്യാഖ്യാനം ഇതുവരെ ലഭ്യമല്ല.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
