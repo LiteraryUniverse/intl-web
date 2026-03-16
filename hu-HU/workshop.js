@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'A "Tervezz fejezetet" segítségével megtervezheted a történet szerkezetét, vagy megírhatod az első fejezetet a műhelyben.',
     'workshop.outliner.noScenes': 'Még nincsenek jelenetek',
     'workshop.outliner.storyline': 'Történetsor',
-    'workshop.outliner.dragHint': 'Húzza a kártyákat a jelenet oszlopai és a történetszálak között, akárcsak egy Trello táblán.',
+    'workshop.outliner.dragHint': 'Húzza a kártyákat a jelenetoszlopok és a történetszálak között.',
     'workshop.outliner.editCard': 'Outliner kártya szerkesztése',
     'workshop.outliner.cardDetailsPlaceholder': 'Írja le ezt az ütemet, a jelenet célját, a fő konfliktust és bármilyen megjegyzést…',
     'workshop.outliner.written': 'Jelölje meg, ahogyan írva van',
