@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Gebruik "Plan hoofdstuk" om de structuur van uw verhaal te plannen, of schrijf uw eerste hoofdstuk in de workshop.',
     'workshop.outliner.noScenes': 'Nog geen scènes',
     'workshop.outliner.storyline': 'Verhaallijn',
-    'workshop.outliner.dragHint': 'Sleep kaarten tussen scènekolommen en verhaallijnen, net als een Trello-bord.',
+    'workshop.outliner.dragHint': 'Sleep kaarten tussen scènekolommen en verhaallijnen.',
     'workshop.outliner.editCard': 'Outliner-kaart bewerken',
     'workshop.outliner.cardDetailsPlaceholder': 'Beschrijf dit ritme, het doel van de scène, het belangrijkste conflict en eventuele opmerkingen…',
     'workshop.outliner.written': 'Markeer zoals geschreven',
