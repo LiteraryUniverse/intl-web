@@ -57,6 +57,11 @@ export default {
     'blog.posts.recent': 'Nedávne príspevky',
     'blog.statsPage': 'Štatistika blogu',
     'blog.view': 'Zobraziť blog',
+    'blog.literaryCommentary': 'Literárny komentár',
+    'blog.literaryCommentary.checkbox': 'Ide o literárny komentár',
+    'blog.literaryCommentary.description': 'Vyberte si z knižnice príbeh alebo vesmír, ktorý budete literárne komentovať:',
+    'blog.literaryCommentary.rating': 'Hodnotenie (voliteľné)',
+    'blog.literaryCommentary.empty': 'Zatiaľ nie je k dispozícii žiadny literárny komentár.',
     'blog.settings.qa': 'OTÁZKY A ODPOVEDE',
     // Q&A Settings
     'blog.qa.settings.title': 'Nastavenia otázok a odpovedí',
