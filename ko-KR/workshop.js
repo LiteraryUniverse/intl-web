@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': '\'챕터 계획하기\'를 사용하여 스토리 구조를 계획하거나 워크샵에서 첫 번째 챕터를 작성하세요.',
     'workshop.outliner.noScenes': '아직 장면이 없습니다.',
     'workshop.outliner.storyline': '스토리라인',
-    'workshop.outliner.dragHint': '트렐로 보드처럼 장면 열과 스토리라인 사이에 카드를 드래그하세요.',
+    'workshop.outliner.dragHint': '장면 열과 스토리라인 사이에 카드를 드래그합니다.',
     'workshop.outliner.editCard': '아웃라이너 카드 편집',
     'workshop.outliner.cardDetailsPlaceholder': '이 비트, 장면 목표, 주요 충돌 및 참고 사항을 설명하세요…',
     'workshop.outliner.written': '서면으로 표시',
