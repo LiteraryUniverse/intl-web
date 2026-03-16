@@ -55,6 +55,11 @@ export default {
     'blog.posts.recent': '最近の投稿',
     'blog.statsPage': 'ブログの統計',
     'blog.view': 'ブログを見る',
+    'blog.literaryCommentary': '文学解説',
+    'blog.literaryCommentary.checkbox': 'これは文学的な解説である',
+    'blog.literaryCommentary.description': '図書館から物語や宇宙を選び、文学的な解説をする：',
+    'blog.literaryCommentary.rating': '格付け（オプション）',
+    'blog.literaryCommentary.empty': '文学的な解説はまだない。',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A設定',
