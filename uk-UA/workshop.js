@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Використовуйте "План розділу", щоб спланувати структуру вашої історії, або напишіть свій перший розділ під час воркшопу.',
     'workshop.outliner.noScenes': 'Сцен ще немає.',
     'workshop.outliner.storyline': 'Сюжетна лінія',
-    'workshop.outliner.dragHint': 'Перетягуйте картки між будь-якими колонками сцен і сюжетними лініями, як на дошці Trello.',
+    'workshop.outliner.dragHint': 'Перетягуйте картки між будь-якими колонками сцен і сюжетними лініями.',
     'workshop.outliner.editCard': 'Редагувати картку контуру',
     'workshop.outliner.cardDetailsPlaceholder': 'Опишіть цей ритм, мету сцени, ключовий конфлікт і будь-які примітки…',
     'workshop.outliner.written': 'Позначте, як написано',
