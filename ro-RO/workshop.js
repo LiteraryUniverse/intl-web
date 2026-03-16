@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Utilizați "Planificați capitolul" pentru a vă planifica structura povestirii sau scrieți primul capitol în cadrul atelierului.',
     'workshop.outliner.noScenes': 'Nu există încă scene',
     'workshop.outliner.storyline': 'Storyline',
-    'workshop.outliner.dragHint': 'Glisați cardurile între coloanele de scene și povești, la fel ca pe o tablă Trello.',
+    'workshop.outliner.dragHint': 'Trageți cărțile între coloanele de scene și povești.',
     'workshop.outliner.editCard': 'Editarea cardului outliner',
     'workshop.outliner.cardDetailsPlaceholder': 'Descrieți acest ritm, scopul scenei, conflictul cheie și orice alte note…',
     'workshop.outliner.written': 'Marcați după cum este scris',
