@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Suunnittele tarinasi rakenne "Plan chapter" -toiminnon avulla tai kirjoita ensimmäinen luku työpajassa.',
     'workshop.outliner.noScenes': 'Ei vielä kohtauksia',
     'workshop.outliner.storyline': 'Juoni',
-    'workshop.outliner.dragHint': 'Vedä kortteja minkä tahansa kohtaussarakkeen ja tarinalinjan välillä aivan kuten Trello-taululla.',
+    'workshop.outliner.dragHint': 'Vedä kortteja minkä tahansa kohtaussarakkeen ja juonipalstan välillä.',
     'workshop.outliner.editCard': 'Muokkaa ääriviivakorttia',
     'workshop.outliner.cardDetailsPlaceholder': 'Kuvaile tätä tahtia, kohtauksen tavoitetta, keskeistä konfliktia ja mahdollisia muistiinpanoja….',
     'workshop.outliner.written': 'Merkitse kuten kirjoitettu',
