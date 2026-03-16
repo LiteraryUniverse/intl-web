@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ბოლო პოსტები',
     'blog.statsPage': 'ბლოგის სტატისტიკა',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'ლიტერატურული კომენტარი',
+    'blog.literaryCommentary.checkbox': 'ეს არის ლიტერატურული კომენტარი',
+    'blog.literaryCommentary.description': 'თქვენი ბიბლიოთეკიდან შეარჩიეთ ნაწარმოები ან სამყარო ლიტერატურული კომენტარის მისათითებლად:',
+    'blog.literaryCommentary.rating': 'რეიტინგი (არასავალდებულო)',
+    'blog.literaryCommentary.empty': 'ლიტერატურული კომენტარი ჯერ ხელმისაწვდომი არ არის.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
