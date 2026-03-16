@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Proszę skorzystać z opcji "Zaplanuj rozdział", aby zaplanować strukturę fabuły lub napisać pierwszy rozdział w warsztacie.',
     'workshop.outliner.noScenes': 'Nie ma jeszcze scen',
     'workshop.outliner.storyline': 'Fabuła',
-    'workshop.outliner.dragHint': 'Można przeciągać karty między kolumnami scen i fabuł, podobnie jak w przypadku tablicy Trello.',
+    'workshop.outliner.dragHint': 'Przeciąganie kart między kolumnami scen i wątkami fabularnymi.',
     'workshop.outliner.editCard': 'Edycja karty konspektu',
     'workshop.outliner.cardDetailsPlaceholder': 'Proszę opisać ten rytm, cel sceny, kluczowy konflikt i wszelkie uwagi…',
     'workshop.outliner.written': 'Proszę zaznaczyć jak napisano',
