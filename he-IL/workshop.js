@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'השתמש ב"תכנן פרק" כדי לתכנן את מבנה הסיפור שלך, או כתוב את הפרק הראשון שלך בסדנה.',
     'workshop.outliner.noScenes': 'אין עדיין סצנות',
     'workshop.outliner.storyline': 'עלילה',
-    'workshop.outliner.dragHint': 'גרור כרטיסים בין עמודות הסצנות והעלילות, בדיוק כמו בלוח Trello.',
+    'workshop.outliner.dragHint': 'גרור כרטיסים בין עמודות הסצנות ובין קווי העלילה.',
     'workshop.outliner.editCard': 'ערוך כרטיס מתאר',
     'workshop.outliner.cardDetailsPlaceholder': 'תאר את הקצב, מטרת הסצנה, הקונפליקט המרכזי וכל הערות אחרות.…',
     'workshop.outliner.written': 'סמן כפי שנכתב',
