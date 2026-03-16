@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Продолжить чтение',
     'bookmark.statusSummary': 'Вы прочли {readPercent, number, ::percent} истории.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Пожалуйста, введите условия поиска или примените фильтры',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };
