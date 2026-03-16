@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Kasutage "Plan chapter", et kavandada oma loo ülesehitust või kirjutada oma esimene peatükk töötoas.',
     'workshop.outliner.noScenes': 'Stseenid puuduvad veel',
     'workshop.outliner.storyline': 'Storyline',
-    'workshop.outliner.dragHint': 'Lohistage kaarte mis tahes stseeni veergude ja loojoonte vahel, nagu Trello tahvlil.',
+    'workshop.outliner.dragHint': 'Lohistage kaarte mis tahes stseeni veergude ja loojangute vahel.',
     'workshop.outliner.editCard': 'Edit outliner kaart',
     'workshop.outliner.cardDetailsPlaceholder': 'Kirjeldage seda rütmi, stseeni eesmärki, põhikonflikti ja kõiki märkmeid…',
     'workshop.outliner.written': 'Märgista nagu kirjutatud',
