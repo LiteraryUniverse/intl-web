@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'استخدم "خطة الفصل" لتخطيط بنية قصتك، أو اكتب فصلك الأول في ورشة العمل.',
     'workshop.outliner.noScenes': 'لا توجد مشاهد بعد',
     'workshop.outliner.storyline': 'ستوري لاين',
-    'workshop.outliner.dragHint': 'اسحب البطاقات بين أعمدة أي مشهد وخطوط القصة، تمامًا مثل لوحة Trello.',
+    'workshop.outliner.dragHint': 'اسحب البطاقات بين أي أعمدة المشاهد والقصص.',
     'workshop.outliner.editCard': 'تحرير بطاقة المخطط التفصيلي',
     'workshop.outliner.cardDetailsPlaceholder': 'صف هذا الإيقاع وهدف المشهد والصراع الرئيسي وأي ملاحظات…',
     'workshop.outliner.written': 'وضع علامة كما هو مكتوب',
