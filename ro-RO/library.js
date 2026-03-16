@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Continuați lectura',
     'bookmark.statusSummary': 'Ați citit {readPercent, number, ::percent} din poveste.',
     'library.search.prompt': 'Căutați în biblioteca dvs. pentru a găsi conținut',
+    'library.search.noFilters': 'Vă rugăm să introduceți termeni de căutare sau să aplicați filtre',
     'library.yourLibrary': 'Biblioteca dvs.',
     'library.search': 'Căutați în biblioteca dvs.'
 };
