@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'ใช้ "วางแผนบท" เพื่อวางแผนโครงสร้างเรื่องราวของคุณ หรือเขียนบทแรกของคุณในเวิร์กช็อป',
     'workshop.outliner.noScenes': 'ยังไม่มีฉาก',
     'workshop.outliner.storyline': 'เนื้อเรื่อง',
-    'workshop.outliner.dragHint': 'ลากการ์ดระหว่างคอลัมน์ฉากและเส้นเรื่องต่างๆ ได้เหมือนกับบอร์ด Trello',
+    'workshop.outliner.dragHint': 'ลากการ์ดระหว่างคอลัมน์ฉากใด ๆ และเส้นเรื่อง',
     'workshop.outliner.editCard': 'แก้ไขการ์ดโครงร่าง',
     'workshop.outliner.cardDetailsPlaceholder': 'อธิบายจังหวะนี้, เป้าหมายของฉาก, ความขัดแย้งหลัก, และบันทึกเพิ่มเติม…',
     'workshop.outliner.written': 'ให้คะแนนตามที่ได้เขียนไว้',
