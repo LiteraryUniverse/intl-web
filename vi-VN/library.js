@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Tiếp tục Đọc',
     'bookmark.statusSummary': 'Bạn đã đọc {readPercent, number, ::percent} của câu chuyện.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Vui lòng nhập từ khóa tìm kiếm hoặc áp dụng bộ lọc',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };
