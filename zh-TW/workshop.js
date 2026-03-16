@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': '使用「計畫章節」來規劃您的故事結構，或在工作坊中寫出您的第一章。',
     'workshop.outliner.noScenes': '尚未有任何場景',
     'workshop.outliner.storyline': '故事情節',
-    'workshop.outliner.dragHint': '在任何場景欄和故事情節之間拖曳卡片，就像 Trello 板一樣。',
+    'workshop.outliner.dragHint': '在任何場景列和故事情節之間拖曳卡片。',
     'workshop.outliner.editCard': '編輯outliner卡',
     'workshop.outliner.cardDetailsPlaceholder': '描述此節拍、場景目標、關鍵衝突，以及任何注意事項…',
     'workshop.outliner.written': '按書面標記',
