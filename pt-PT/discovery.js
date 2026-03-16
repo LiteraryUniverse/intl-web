@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Histórias recomendadas',
     'discovery.recommendations.recommendationsExplained': 'Estas histórias são recomendadas com base no nosso motor de recomendações. Que utiliza a aprendizagem automática para recomendar histórias para si.',
     'discovery.recommendations.recommendationsSettings': 'Pode desativar esta opção nas suas definições.',
-    'discover.search.templateUniverses': 'Mostrar apenas universos modelo (enciclopédias copiáveis)'
+    'discover.search.templateUniverses': 'Mostrar apenas universos modelo (enciclopédias copiáveis)',
+    'discover.ratingExplained': 'Classificação média de {avgRating, number} de {reviewsNum, number} avaliação'
 };
