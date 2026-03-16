@@ -242,7 +242,7 @@ export default {
     'workshop.outliner.noChapters': 'Используйте "План главы", чтобы спланировать структуру своего рассказа, или напишите свою первую главу в мастерской.',
     'workshop.outliner.noScenes': 'Пока нет сцен',
     'workshop.outliner.storyline': 'Сторилайн',
-    'workshop.outliner.dragHint': 'Перетаскивайте карточки между любыми колонками сцен и сюжетными линиями, как на доске Trello.',
+    'workshop.outliner.dragHint': 'Перетаскивайте карточки между любыми колонками сцен и сюжетными линиями.',
     'workshop.outliner.editCard': 'Редактирование карты Outliner',
     'workshop.outliner.cardDetailsPlaceholder': 'Опишите этот ритм, цель сцены, ключевой конфликт и любые примечания….',
     'workshop.outliner.written': 'Отметьте, как написано',
