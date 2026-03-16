@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'القصص الموصى بها',
     'discovery.recommendations.recommendationsExplained': 'يتم التوصية بهذه القصص بناءً على محرك التوصيات الخاص بنا. الذي يستخدم التعلم الآلي للتوصية بقصص لك.',
     'discovery.recommendations.recommendationsSettings': 'يمكنك تعطيل ذلك في إعداداتك.',
-    'discover.search.templateUniverses': 'عرض أكوان القوالب فقط (الموسوعات القابلة للنسخ)'
+    'discover.search.templateUniverses': 'عرض أكوان القوالب فقط (الموسوعات القابلة للنسخ)',
+    'discover.ratingExplained': 'متوسط التقييم {avgRating, number} من {reviewsNum, number} ~ مراجعة'
 };
