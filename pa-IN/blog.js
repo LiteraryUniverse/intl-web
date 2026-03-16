@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ਤਾਜ਼ਾ ਪੋਸਟ',
     'blog.statsPage': 'ਬਲੌਗ ਸਟੈਟਿਸਟਿਕਸ',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'ਸਾਹਿਤਕ ਟਿੱਪਣੀ',
+    'blog.literaryCommentary.checkbox': 'ਇਹ ਇੱਕ ਸਾਹਿਤਕ ਟਿੱਪਣੀ ਹੈ।',
+    'blog.literaryCommentary.description': 'ਸਾਹਿਤਕ ਟਿੱਪਣੀ ਕਰਨ ਲਈ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚੋਂ ਇੱਕ ਕਹਾਣੀ ਜਾਂ ਬ੍ਰਹਿਮੰਡ ਚੁਣੋ:',
+    'blog.literaryCommentary.rating': 'ਰੇਟਿੰਗ (ਵਿਕਲਪਿਕ)',
+    'blog.literaryCommentary.empty': 'ਅਜੇ ਤੱਕ ਕੋਈ ਸਾਹਿਤਕ ਟਿੱਪਣੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
