@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Συνιστώμενες ιστορίες',
     'discovery.recommendations.recommendationsExplained': 'Αυτές οι ιστορίες συνιστώνται με βάση τη μηχανή συστάσεών μας. Η οποία χρησιμοποιεί μηχανική μάθηση για να σας προτείνει ιστορίες.',
     'discovery.recommendations.recommendationsSettings': 'Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις σας.',
-    'discover.search.templateUniverses': 'Εμφάνιση μόνο πρότυπων συμπάντων (αντιγράψιμες εγκυκλοπαίδειες)'
+    'discover.search.templateUniverses': 'Εμφάνιση μόνο πρότυπων συμπάντων (αντιγράψιμες εγκυκλοπαίδειες)',
+    'discover.ratingExplained': 'Μέση βαθμολογία της {avgRating, number} από την {reviewsNum, number} κριτική'
 };
