@@ -241,7 +241,7 @@ export default {
     'workshop.outliner.noChapters': 'Använd "Planera kapitel" för att planera din berättelsestruktur eller skriv ditt första kapitel i workshopen.',
     'workshop.outliner.noScenes': 'Inga scener ännu',
     'workshop.outliner.storyline': 'Storyline',
-    'workshop.outliner.dragHint': 'Dra kort mellan alla scenkolumner och storylines, precis som på en Trello-tavla.',
+    'workshop.outliner.dragHint': 'Dra kort mellan alla scenkolumner och storylines.',
     'workshop.outliner.editCard': 'Redigera outliner-kort',
     'workshop.outliner.cardDetailsPlaceholder': 'Beskriv rytmen, scenens mål, nyckelkonflikten och eventuella anteckningar…',
     'workshop.outliner.written': 'Markera som skrivet',
