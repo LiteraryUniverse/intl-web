@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Your writing journey continues. Your story is now ready to be discovered and enjoyed by readers.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Go to story page',
     'workshop.story.published.congratulations.imageAlt': 'Celebration illustration for published story',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'सेटिंग्स संपादित करें',
     'workshop.story.publishedOn': 'यह कहानी प्रकाशित की गई है {date, date, long} {date, time, short}',
     'workshop.story.settings': 'कहानी सेटिंग्स',
