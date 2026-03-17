@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'Dette indhold blev skabt med AI-assistance',
     'common.aiContent.model': 'AI-model: {model}',
     'common.aiContent.custom': 'Brugerdefineret AI-model',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': 'tegn',
+    'common.words': 'Ord',
     'common.quickSummary': 'Hurtigt overblik',
     'common.creating': 'At skabe...'
 };
