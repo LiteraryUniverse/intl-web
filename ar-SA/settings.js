@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'جنسك',
     'settings.gender.usage': 'هذه المعلومات ستبقى سرية. نستخدم هذه البيانات لتحليلات المنصة وتحليلات مجهولة المصدر للمبدعين عند قراءتك لقصصهم.',
     'settings.age.title': 'عمرك',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'عرض محتوى صريح (التصنيف العمري 21+)',
     'settings.age.birthday': 'تاريخ الميلاد',
     'settings.age.usage': 'هذه المعلومات ستبقى سرية. نحن ملتزمون قانونيا بالاستفسار عن عمرك. نستخدم هذه البيانات لتحليلات المنصة ، وعرض المحتوى بناءً على التصنيفات وتحليلات مجهولة المصدر للمبدعين عند قراءتك لقصصهم.',
     'settings.country.title': 'دولتك',
