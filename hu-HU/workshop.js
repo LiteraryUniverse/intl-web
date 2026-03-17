@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Az írói utazásod folytatódik. Történeted most már készen áll arra, hogy az olvasók felfedezzék és élvezzék.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Tovább a történet oldalra',
     'workshop.story.published.congratulations.imageAlt': 'Ünnepi illusztráció a megjelent történethez',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Beállítások szerkesztése',
     'workshop.story.publishedOn': 'Ez a történet megjelent a következő helyen: {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Történet beállítások',
