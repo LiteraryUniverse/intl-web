@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Kirjoittajan matkasi jatkuu. Tarinasi on nyt valmis lukijoiden löydettäväksi ja nautittavaksi.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Siirry tarinan sivulle',
     'workshop.story.published.congratulations.imageAlt': 'Julkaistun tarinan juhlakuvitus',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Muokkaa asetuksia',
     'workshop.story.publishedOn': 'Tämä tarina on julkaistu {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Tarinan asetukset',
