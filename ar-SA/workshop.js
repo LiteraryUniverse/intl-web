@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'تستمر رحلتك في الكتابة. قصتك جاهزة الآن ليكتشفها القراء ويستمتعوا بها.',
     'workshop.story.published.congratulations.publicStoryBtn': 'انتقل إلى صفحة القصة',
     'workshop.story.published.congratulations.imageAlt': 'رسم توضيحي للاحتفال بالقصة المنشورة',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'تعديل الإعدادات',
     'workshop.story.publishedOn': 'تم نشر هذه القصة في {date, date, long} {date, time, short}',
     'workshop.story.settings': 'إعدادات القصة',
