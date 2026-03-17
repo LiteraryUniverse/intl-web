@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Uw schrijfreis gaat verder. Uw verhaal is nu klaar om ontdekt en gelezen te worden.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Ga naar de verhaalpagina',
     'workshop.story.published.congratulations.imageAlt': 'Viering illustratie voor gepubliceerd verhaal',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Bewerk instellingen',
     'workshop.story.publishedOn': 'Dit verhaal is gepubliceerd op {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Verhaalinstellingen',
