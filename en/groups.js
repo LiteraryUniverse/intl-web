@@ -37,6 +37,24 @@ export default {
   'groups.join.pendingRequest':
     'Your request to join this group is waiting for approval from the group admins.',
   'groups.join.requesting': 'Requesting to join',
+  'groups.writingLeaderboard.title': 'Writing leaderboard',
+  'groups.writingLeaderboard.description':
+    'See how group members compare by recent writing output.',
+  'groups.writingLeaderboard.period.daily': 'Daily',
+  'groups.writingLeaderboard.period.weekly': 'Weekly',
+  'groups.writingLeaderboard.period.monthly': 'Monthly',
+  'groups.writingLeaderboard.period.yearly': 'Yearly',
+  'groups.writingLeaderboard.wordsValue': '{count} words',
+  'groups.writingLeaderboard.secondaryValue':
+    '{characters} characters · {sessions} sessions',
+  'groups.writingLeaderboard.rank': 'Rank',
+  'groups.writingLeaderboard.member': 'Member',
+  'groups.writingLeaderboard.output': 'Output',
+  'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+  'groups.writingLeaderboard.display':
+    'Display writing leaderboard to members',
+  'groups.writingLeaderboard.displayHelp':
+    'When enabled, group members can compare recent writing activity on the members page.',
   'groups.invite.btn': 'Invite to group',
   'groups.invite.modalAria': 'Invite users to group dialog',
   'groups.invite.send': 'Send invite',

@@ -12,6 +12,9 @@ export default {
   'stats.age.above85': 'Above 85',
   'stats.section.aggregate': 'Aggregate statistics',
   'stats.section.chapter': 'Chapter statistics',
+  'stats.section.type': 'Statistics type',
+  'stats.section.writing': 'Writing',
+  'stats.section.reading': 'Reading',
   'stats.readers.title': 'About your readers',
   'stats.gender.title': 'Gender',
   'stats.gender': '{gender, select, male {Male} female {Female} unknown {Unknown} other {Unknown}}',
@@ -19,6 +22,7 @@ export default {
   'stats.view.pie': 'Pie Chart view',
   'stats.view.bar': 'Bar Chart view',
   'stats.view.chart': 'Chart view',
+  'stats.view.mode': 'Presentation mode',
   'stats.table.total': 'Total',
   'stats.timeline.title': 'Timeline',
   'stats.timeline.dateStart': 'Statistics begin at',
@@ -41,6 +45,11 @@ export default {
   'stats.blog.posts': 'Posts',
   'stats.unknown': 'Unknown',
   'stats.noData': 'No data available at this time.',
+  'stats.heatmap.less': 'Less',
+  'stats.heatmap.more': 'More',
+  'stats.date': 'Date',
+  'stats.day': 'Day',
+  'stats.hour': 'Hour',
   
   // Author overall statistics
   'workshop.theWay.overallStats.noData': 'No statistics data available yet. Start publishing your work to see your stats!',
@@ -77,4 +86,39 @@ export default {
   'stats.readingHabits.peakHour': 'Most active hour',
   'stats.readingHabits.profileSummary':
     'Reading in last {weeks, number} weeks: {sessions, number} sessions, {duration} total, most active on {day} around {hour}.',
+  'stats.quarterly.quarter': 'Quarter',
+  'stats.storyWritingAnalytics.title': 'Writing analytics',
+  'stats.storyWritingAnalytics.aggregate': 'Aggregate',
+  'stats.storyWritingAnalytics.time': 'Writing time',
+  'stats.storyWritingAnalytics.activeDays': 'Active days',
+  'stats.storyWritingAnalytics.averageWordsPerSession':
+    'Average words per session',
+  'stats.storyWritingAnalytics.bestDay': 'Best day',
+  'stats.storyWritingAnalytics.currentStreak': 'Current streak',
+  'stats.storyWritingAnalytics.longestStreak': 'Longest streak',
+  'stats.storyWritingAnalytics.calendar': 'Yearly writing heatmap',
+  'stats.storyWritingAnalytics.dayTooltip':
+    '{date}: {words} words',
+  'stats.storyWritingAnalytics.weekHour': 'Best writing times',
+  'stats.storyWritingAnalytics.weekHourTooltip':
+    '{day} at {hour}: {words} words, {duration}',
+  'stats.storyWritingAnalytics.activityTable': 'Writing days',
+  'stats.storyWritingAnalytics.topWindows': 'Top writing windows',
+  'stats.storyWritingAnalytics.loadError':
+    'Failed to load story writing analytics',
+  'stats.storyReadingAnalytics.title': 'Reading analytics',
+  'stats.storyReadingAnalytics.uniqueReaders': 'Unique readers',
+  'stats.storyReadingAnalytics.returningReaders': 'Returning readers',
+  'stats.storyReadingAnalytics.averageSessionsPerReader':
+    'Average sessions per reader',
+  'stats.storyReadingAnalytics.bestQuarter': 'Best quarter',
+  'stats.storyReadingAnalytics.quarters': 'Quarterly trend',
+  'stats.storyReadingAnalytics.quarterTooltip': '{label}: {sessions, number} sessions',
+  'stats.storyReadingAnalytics.quarterTable': 'Quarterly breakdown',
+  'stats.storyReadingAnalytics.weekHour': 'Reader activity by week and hour',
+  'stats.storyReadingAnalytics.weekHourTooltip':
+    '{day} at {hour}: {readers, number} readers, {sessions, number} sessions, {duration}',
+  'stats.storyReadingAnalytics.topWindows': 'Top reading windows',
+  'stats.storyReadingAnalytics.loadError':
+    'Failed to load reading analytics',
 }

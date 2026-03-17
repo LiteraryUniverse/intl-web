@@ -152,6 +152,8 @@ export default {
     'Go to story page',
   'workshop.story.published.congratulations.imageAlt':
     'Celebration illustration for published story',
+  'workshop.writingHistory.title': 'Writing history',
+  'workshop.writingHistory.sessions': 'Writing sessions',
   'workshop.settings.edit': 'Edit settings',
   'workshop.story.publishedOn':
     'This story was published on {date, date, long} {date, time, short}',
