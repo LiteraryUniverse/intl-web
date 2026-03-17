@@ -2,12 +2,12 @@ export default {
     'workshop.title': 'Công việc của bạn',
     'workshop.noneassigned': 'Bạn chưa được giao công việc nào.',
     'workshop.notavailable': 'Tính năng này chưa được khả dụng.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.none': `Hiện tại bạn chưa có {type, select,
+      universe {vũ trụ}
+      story {câu chuyện}
+      fanfiction {truyện fanfic}
       other {}
-    }. Create one now!`,
+    }. Hãy tạo ngay bây giờ!`,
     'workshop.collab': 'Công việc cộng tác',
     'workshop.betareadings': 'Đọc thử phiên bản beta',
     'workshop.translations': 'Bản dịch',
@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Hành trình viết lách của bạn tiếp tục. Câu chuyện của bạn giờ đây đã sẵn sàng để được khám phá và thưởng thức bởi độc giả.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Đi đến trang câu chuyện',
     'workshop.story.published.congratulations.imageAlt': 'Hình minh họa cho câu chuyện đã được xuất bản',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Chỉnh sửa cài đặt',
     'workshop.story.publishedOn': 'Truyện này đã được xuất bản vào {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Cài đặt câu chuyện',
@@ -211,12 +213,12 @@ export default {
     'workshop.monetization.saved': 'Cài đặt giá đã được lưu.',
     'workshop.monetization.synced': 'Các sản phẩm và giá cả của Stripe đã được đồng bộ hóa.',
     'workshop.monetization.syncStripe': 'Đồng bộ hóa với Stripe',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.collaborators.premium': `Để thêm nhiều {type, select,
+    collaborator {cộng tác viên}
+    beta {người đọc bản thử nghiệm}
+    translator {dịch giả}
     other {}
-  }, you need to increase your membership tier.`,
+  }, bạn cần nâng cấp gói thành viên của mình.`,
     'workshop.collaborators.requests.sent': 'Yêu cầu đã gửi',
     'workshop.collaborators.requests.invite': `Bạn đã được mời trở thành {role, select,
     beta {người đọc beta}
@@ -456,7 +458,7 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Chúng tôi hỗ trợ Youtube, Vimeo và Odysee',
     'workshop.videoTrailer.rumble': 'Chúng tôi cũng hỗ trợ Rumble, nhưng hãy nhớ sao chép URL IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Nếu nền tảng video của bạn bị thiếu, hãy cho chúng tôi biết qua <a>phản hồi</a> của chúng tôi!',
-    'workshop.cover.edit': 'Change cover',
+    'workshop.cover.edit': 'Thay bìa',
     'workshop.collaborator.leave': 'Leave project',
     'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
