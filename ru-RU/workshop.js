@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Ваше писательское путешествие продолжается. Теперь Ваша история готова к тому, чтобы читатели открыли ее и насладились ею.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Перейти на страницу с историей',
     'workshop.story.published.congratulations.imageAlt': 'Праздничная иллюстрация к опубликованному рассказу',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Изменить настройки',
     'workshop.story.publishedOn': 'Эта история была опубликована {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Настройки истории',
