@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Din skriverejse fortsætter. Din historie er nu klar til at blive opdaget og nydt af læserne.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Gå til siden med historien',
     'workshop.story.published.congratulations.imageAlt': 'Fejringsillustration til udgivet historie',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Rediger indstillinger',
     'workshop.story.publishedOn': 'Denne historie blev udgivet den {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Historieindstillinger',
