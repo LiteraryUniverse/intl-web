@@ -19,7 +19,7 @@ export default {
     one {ist ein Beitrag}
     other {sind # Beiträge}
   } in diesem Blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Einen neuen Beitrag schreiben',
     'blog.post.update': 'Bearbeitung von {title}',
     'blog.post.text': 'Beitragstext',
     'common.slug': 'SEO-freundliche Adresse',
