@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Din skrivresa fortsätter. Din berättelse är nu redo att upptäckas och avnjutas av läsare.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Gå till berättelsesidan',
     'workshop.story.published.congratulations.imageAlt': 'Celebrationsillustration för publicerad berättelse',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Redigera inställningar',
     'workshop.story.publishedOn': 'Den här berättelsen har publicerats på {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Berättelseinställningar',
