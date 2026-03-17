@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'Dieser Inhalt wurde mit Hilfe von KI erstellt',
     'common.aiContent.model': 'AI-Modell: {model}',
     'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': 'Zeichen',
+    'common.words': 'Wörter',
     'common.quickSummary': 'Kurze Zusammenfassung',
     'common.creating': 'Erstellen...'
 };
