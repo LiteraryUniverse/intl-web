@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια της AI',
     'common.aiContent.model': 'Μοντέλο AI: {model}',
     'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': 'χαρακτήρες',
+    'common.words': 'λέξεις',
     'common.quickSummary': 'Γρήγορη σύνοψη',
     'common.creating': 'Δημιουργία...'
 };
