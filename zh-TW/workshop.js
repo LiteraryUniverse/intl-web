@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': '您的寫作之旅仍在繼續。您的故事已經準備好被讀者發掘和欣賞。',
     'workshop.story.published.congratulations.publicStoryBtn': '前往故事頁面',
     'workshop.story.published.congratulations.imageAlt': '出版故事的慶祝插圖',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': '編輯設置',
     'workshop.story.publishedOn': '這個故事已經在 {date, date, long} {date, time, short}上發布',
     'workshop.story.settings': '故事設置',
