@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': '글쓰기 여정은 계속됩니다. 이제 여러분의 스토리를 독자들이 발견하고 즐길 준비가 되었습니다.',
     'workshop.story.published.congratulations.publicStoryBtn': '스토리 페이지로 이동',
     'workshop.story.published.congratulations.imageAlt': '게시된 스토리를 위한 축하 일러스트',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': '설정 편집',
     'workshop.story.publishedOn': '이 작품은 {date, date, long} 에 게시되었습니다. {date, time, short}',
     'workshop.story.settings': '이야기 설정',
