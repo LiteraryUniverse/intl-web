@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Το συγγραφικό σας ταξίδι συνεχίζεται. Η ιστορία σας είναι τώρα έτοιμη να ανακαλυφθεί και να την απολαύσουν οι αναγνώστες.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Πηγαίνετε στη σελίδα της ιστορίας',
     'workshop.story.published.congratulations.imageAlt': 'Εικονογράφηση εορτασμού για δημοσιευμένη ιστορία',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Επεξεργασία ρυθμίσεων',
     'workshop.story.publishedOn': 'Αυτή η ιστορία δημοσιεύτηκε στις {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Ρυθμίσεις ιστορίας',
