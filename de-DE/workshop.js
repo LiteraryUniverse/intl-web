@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Ihre schriftstellerische Reise geht weiter. Ihre Geschichte ist nun bereit, von den Lesern entdeckt und genossen zu werden.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Zur Story-Seite gehen',
     'workshop.story.published.congratulations.imageAlt': 'Feierliche Illustration für veröffentlichte Geschichte',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Einstellungen bearbeiten',
     'workshop.story.publishedOn': 'Diese Geschichte wurde veröffentlicht auf {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Einstellungen für die Geschichte',
