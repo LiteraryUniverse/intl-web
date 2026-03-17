@@ -20,7 +20,7 @@ export default {
     one {μια ανάρτηση}
     other {# αναρτήσεις}
   } σε αυτό το blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Γράψτε μια νέα ανάρτηση',
     'blog.post.update': 'Επεξεργασία {title}',
     'blog.post.text': 'Κείμενο ανάρτησης',
     'common.slug': 'Φιλική προς το SEO διεύθυνση',
