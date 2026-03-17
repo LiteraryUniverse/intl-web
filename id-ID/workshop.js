@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Perjalanan menulis Anda terus berlanjut. Cerita Anda sekarang siap untuk ditemukan dan dinikmati oleh para pembaca.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Pergi ke halaman cerita',
     'workshop.story.published.congratulations.imageAlt': 'Ilustrasi perayaan untuk cerita yang diterbitkan',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Edit pengaturan',
     'workshop.story.publishedOn': 'Cerita ini telah diterbitkan pada {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Pengaturan cerita',
