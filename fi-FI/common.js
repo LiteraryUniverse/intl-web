@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'Tämä sisältö on luotu tekoälyn avustuksella',
     'common.aiContent.model': 'AI-malli: {model}',
     'common.aiContent.custom': 'Mukautettu tekoälymalli',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': 'merkit',
+    'common.words': 'sanat',
     'common.quickSummary': 'Nopea yhteenveto',
     'common.creating': 'Luominen...'
 };
