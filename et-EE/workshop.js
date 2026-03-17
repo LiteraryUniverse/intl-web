@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Teie kirjutamise teekond jätkub. Teie lugu on nüüd valmis selleks, et lugejad seda avastaksid ja naudiksid.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Mine loo leheküljele',
     'workshop.story.published.congratulations.imageAlt': 'Pidulik illustratsioon avaldatud loo jaoks',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Seadete muutmine',
     'workshop.story.publishedOn': 'See lugu on avaldatud {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Loo seaded',
