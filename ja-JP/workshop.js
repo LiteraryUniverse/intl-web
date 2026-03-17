@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'あなたの執筆の旅は続きます。あなたの物語が読者に発見され、楽しんでもらえる準備が整いました。',
     'workshop.story.published.congratulations.publicStoryBtn': 'ストーリーページへ',
     'workshop.story.published.congratulations.imageAlt': '出版記念イラスト',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': '編集設定',
     'workshop.story.publishedOn': 'この物語は{date, date,long} {date, time,short}に公開されました。',
     'workshop.story.settings': '物語の設定',
