@@ -15,12 +15,12 @@ export default {
     'blog.description': 'Ceiliúradh blag',
     'blog.theme': 'Téama',
     'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.posts.total': `Tá {total, plural,
+    zero {gan phoist}
+    one {is post amháin é}
+    other {tá # post}
+  } sa bhlag seo.`,
+    'blog.post.create': 'Scríobh postáil nua',
     'blog.post.update': 'Ag eagar {title}',
     'blog.post.text': 'Téacs an phoist',
     'common.slug': 'URL a bhfuil anseo cuí le SEO',
@@ -124,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'Ceisteanna',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',
@@ -137,8 +137,8 @@ export default {
     'blog.qa.status.ignored': 'Ignored',
     'blog.qa.status.private': 'Private Answer',
     'blog.qa.status.public': 'Public Answer',
-    'blog.qa.role.reader': 'Reader',
-    'blog.qa.role.author': 'Author',
+    'blog.qa.role.reader': 'Léitheoir',
+    'blog.qa.role.author': 'Údar',
     'blog.qa.pinned': 'Pinned',
     'blog.qa.answeredAgo': 'Answered {time}',
     'blog.qa.loadMore': 'Load more',
