@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Tavo rašymo kelionė tęsiasi. Dabar jūsų istorija jau yra paruošta, kad ją atrastų ir ja mėgautųsi skaitytojai.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Eiti į istorijos puslapį',
     'workshop.story.published.congratulations.imageAlt': 'Šventės iliustracija publikuotai istorijai',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Redaguoti nustatymus',
     'workshop.story.publishedOn': 'Ši istorija buvo išleista {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Istorijos nustatymai',
