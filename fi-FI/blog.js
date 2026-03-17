@@ -20,7 +20,7 @@ export default {
     one {on yksi viesti}
     other {on # viestiä}
   } tässä blogissa.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Kirjoita uusi viesti',
     'blog.post.update': 'Muokkaa viestiä ! {title}',
     'blog.post.text': 'Viestin teksti',
     'common.slug': 'SEO-ystävällinen osoite',
