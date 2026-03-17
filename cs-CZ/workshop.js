@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Vaše cesta za psaním pokračuje. Váš příběh je nyní připraven k tomu, aby ho čtenáři objevili a užili si ho.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Přejít na stránku s příběhem',
     'workshop.story.published.congratulations.imageAlt': 'Oslavná ilustrace k publikovanému příběhu',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Upravit nastavení',
     'workshop.story.publishedOn': 'Tento příběh byl publikován {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Nastavení příběhu',
