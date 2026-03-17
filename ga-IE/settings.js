@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Do ghnéas',
     'settings.gender.usage': 'Fanfaidh an t-eolas seo príobháideach. Úsáidimid na sonraí seo do anailís an phlátafhoirm agus do anailís neamhainmnithe do chruthaitheoirí nuair a léann tú a scéalta.',
     'settings.age.title': 'D\'aois',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Taispeáin ábhar follasach (rátáil aoise 21+)',
     'settings.age.birthday': 'Date of birth',
     'settings.age.usage': 'Fanfaidh an t-eolas seo príobháideach. Táimid dlite go dlíthiúil ceist a chur ort faoi do aois. Úsáidimid na sonraí seo do anailís an phlátafhoirm, ábhar a thaispeáint bunaithe ar rátálacha agus do anailís neamhainmnithe do chruthaitheoirí nuair a léann tú a scéalta.',
     'settings.country.title': 'Do thír',
