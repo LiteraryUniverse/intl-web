@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Călătoria dvs. de scriere continuă. Povestea ta este acum gata să fie descoperită și apreciată de cititori.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Du-te la pagina de poveste',
     'workshop.story.published.congratulations.imageAlt': 'Ilustrație de sărbătoare pentru o poveste publicată',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Editează setările',
     'workshop.story.publishedOn': 'Această poveste a fost publicată pe {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Setări poveste',
