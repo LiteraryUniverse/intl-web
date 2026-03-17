@@ -2,12 +2,12 @@ export default {
     'workshop.title': 'तपाईंको काम',
     'workshop.noneassigned': 'तपाईंलाई कुनै पनि बुझाइएको छैन।',
     'workshop.notavailable': 'यो सुविधा अहिले सम्पन्न भएको छैन।',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.none': `तपाईंको हाल कुनै छैन {type, select,
+      universe {ब्रह्माण्ड}
+      story {कथा}
+      fanfiction {फ्यान फिक्शन}
       other {}
-    }. Create one now!`,
+    }। अहिले एउटा सिर्जना गर्नुहोस्!`,
     'workshop.collab': 'सहकार्यको काम',
     'workshop.betareadings': 'बेटा पठाउने',
     'workshop.translations': 'अनुवादहरू',
@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Your writing journey continues. Your story is now ready to be discovered and enjoyed by readers.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Go to story page',
     'workshop.story.published.congratulations.imageAlt': 'Celebration illustration for published story',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'सेटिङहरू सम्पादन गर्नुहोस्',
     'workshop.story.publishedOn': 'यो कथा प्रकाशित भएको छ {date, date, long} {date, time, short}',
     'workshop.story.settings': 'कथाको सेटिङहरू',
