@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Yazma yolculuğunuz devam ediyor. Hikayeniz artık okuyucular tarafından keşfedilmeye ve keyifle okunmaya hazır.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Hikaye sayfasına git',
     'workshop.story.published.congratulations.imageAlt': 'Yayınlanan hikaye için kutlama illüstrasyonu',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'Ayarları düzenle',
     'workshop.story.publishedOn': 'Bu hikaye {date, date, long} {date, time, short}üzerinde yayınlandı.',
     'workshop.story.settings': 'Hikaye ayarları',
