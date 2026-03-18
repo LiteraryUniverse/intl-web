@@ -40,7 +40,7 @@ export default {
   'events.create.title': 'नई घटना बनाएं',
   'events.hostedBy': '{hostName}द्वारा आयोजित',
   'events.openVirtual': 'वर्चुअल स्थान पर जाएं',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'अधिक जानकारी',
   'event.visibilityShort.private': 'निजी',
   'event.visibilityShort.public': 'सार्वजनिक',
   'event.visibilityShort.owner': 'मालिक'
