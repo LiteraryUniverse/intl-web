@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} க்கான அமைப்புகள்',
     'universe.fanfiction.stories': 'கதைகள்',
     'universe.fanfiction.fanarts': 'ரசிகர் கலைகள்',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `இந்த பிரபஞ்சத்தில் {num, plural,
+    =0 {கதைகள் இல்லை}
+    one {ஒரு கதை}
+    other {# கதைகள்}
+    } உள்ளன.`,
     'universe.authors.title': 'ஆசிரியர்கள்',
     'universe.authors.desc': '{universe}க்கான அமைப்பாளர்கள் மற்றும் பங்களிப்புருக்காளர்கள்',
     'universe.contributors': 'பங்களிப்புருக்காளர்கள்',
