@@ -16,7 +16,7 @@ export default {
   // Pre-defined category names
   'forums.category.intlName.general': 'ทั่วไป',
   'forums.category.intlName.help': 'ช่วยเหลือ',
-  'forums.category.intlName.history': 'History',
+  'forums.category.intlName.history': 'ประวัติศาสตร์',
   'forums.category.intlName.inspiration': 'แรงบันดาลใจ',
   'forums.category.intlName.locations': 'สถานที่',
   'forums.category.intlName.meetups': 'กิจกรรม',
