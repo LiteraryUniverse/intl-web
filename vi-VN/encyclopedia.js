@@ -188,11 +188,11 @@ export default {
     'encyclopedia.cover': 'Ảnh bìa',
     'encyclopedia.translation.title': 'Chào mừng bạn đến với bản dịch vũ trụ {universe} !',
     'encyclopedia.translation.desc': 'Giao diện bách khoa toàn thư này được sử dụng để dịch sang ngôn ngữ {language}. Chọn các mục đã có trong danh sách bên trái để bắt đầu dịch chúng.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Không có mục nào {totalEntries, plural, 
+    zero {có một mục}
+    one {có # mục}
+    other {}
+  } trong vũ trụ này.`,
     'encyclopedia.settings.title': 'Cài đặt bách khoa toàn thư',
     'encyclopedia.settings.categoriesDesc': 'Bật và tắt các danh mục mà bạn muốn sử dụng trong bách khoa toàn thư của bạn.',
     'encyclopedia.settings.introText': 'Thông báo chào mừng sẽ hiển thị sau mô tả vũ trụ.',
