@@ -33,9 +33,9 @@ export default {
     'settings.export.explain': 'Ini akan membolehkan anda mendapatkan semua data yang disimpan dalam pangkalan data kami dalam format json.',
     'settings.export.submit': 'Eksport data',
     'settings.delete.title': 'Padam Akaun',
-    'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
-    there is no way of getting it back. Note that this might not automatically delete your published works,
-    comments, etc. Please refer to Terms of Service for details.`,
+    'settings.delete.warning': `AMARAN: Dengan memadam akaun anda, anda akan kehilangan akses kepada akaun ini dan
+    tiada cara untuk mendapatkannya semula. Sila ambil perhatian bahawa ini mungkin tidak secara automatik memadam karya terbitan anda,
+    komen, dan sebagainya. Sila rujuk Terma Perkhidmatan untuk butiran.`,
     'settings.delete.confirm': 'Hanya untuk memastikan. Adakah anda pasti ingin memadam akaun anda?',
     'settings.delete.cancel': 'Saya tidak mahu memadam akaun saya',
     'settings.delete.submit': 'Padam akaun saya',
@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Jantina anda',
     'settings.gender.usage': 'Maklumat ini akan kekal sulit. Kami menggunakan data ini untuk analitik platform dan dalam analitik tanpa nama kepada pencipta apabila anda membaca cerita mereka.',
     'settings.age.title': 'Umur anda',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Tunjukkan kandungan eksplisit (penarafan umur 21+)',
     'settings.age.birthday': 'Date of birth',
     'settings.age.usage': 'Maklumat ini akan kekal sulit. Kami diwajibkan secara undang-undang untuk menanyakan umur anda. Kami menggunakan data ini untuk analitik platform, memaparkan kandungan berdasarkan penarafan dan dalam analitik tanpa nama kepada pencipta apabila anda membaca cerita mereka.',
     'settings.country.title': 'Negara anda',
