@@ -103,8 +103,6 @@ export default {
     'stats.storyReadingAnalytics.returningReaders': 'Returning readers',
     'stats.storyReadingAnalytics.averageSessionsPerReader': 'Average sessions per reader',
     'stats.storyReadingAnalytics.bestQuarter': 'Best quarter',
-    'stats.storyReadingAnalytics.quarters': 'Quarterly trend',
-    'stats.storyReadingAnalytics.quarterTooltip': '{label}: {sessions, number} sessions',
     'stats.storyReadingAnalytics.quarterTable': 'Quarterly breakdown',
     'stats.storyReadingAnalytics.weekHour': 'Reader activity by week and hour',
     'stats.storyReadingAnalytics.weekHourTooltip': '{day} at {hour}: {readers, number} readers, {sessions, number} sessions, {duration}',
