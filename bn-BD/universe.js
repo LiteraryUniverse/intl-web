@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} ফ্যান সেটিংস',
     'universe.fanfiction.stories': 'গল্প',
     'universe.fanfiction.fanarts': 'ফ্যান আর্ট',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `সেখানে {num, plural,
+    =0 {কোনো গল্প নেই}
+    one {একটি গল্প}
+    other {# গল্প আছে}
+    } এই মহাবিশ্বে।`,
     'universe.authors.title': 'লেখক',
     'universe.authors.desc': '{universe}এর সৃষ্টিকর্তারা এবং অবদানকারীরা',
     'universe.contributors': 'অবদানকারীরা',
