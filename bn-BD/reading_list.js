@@ -16,11 +16,11 @@ export default {
     stories {গল্প}
     other {গল্প এবং বিশ্ব}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
+  'readingList.addItem.modalAria': `পাঠ্যসূচিতে যোগ করতে মোডাল {type, select,
+    universes {ব্রহ্মাণ্ডসমূহ}
+    stories {গল্পসমূহ}
+    other {গল্প এবং ব্রহ্মাণ্ডসমূহ}
+  }।`,
   'readingList.addItem.fromLibrary': 'লাইব্রেরি থেকে',
   'readingList.addItem.yourOwn': `Your own {type, select,
     universes {universes}

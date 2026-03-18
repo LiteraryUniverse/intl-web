@@ -50,14 +50,14 @@ export default {
     'feedback.reportType.soliciting': 'Soliciting',
     'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Khác',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`,
+    'feedback.report.copyrightType.propertySelectLabel': `Vũ trụ nào {type, select,
+    universe {câu chuyện nào}
+    story {câu chuyện nào}
+    other {câu chuyện nào}
+  } đang bị vi phạm?`,
     'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
-    'feedback.help.courses': 'Courses',
+    'feedback.help.courses': 'Các khóa học',
     'feedback.help.videoTutorials': 'Video tutorials',
     'feedback.help.featuredArticles': 'Featured Articles',
     'feedback.help.featuredCourses': 'Featured Courses',

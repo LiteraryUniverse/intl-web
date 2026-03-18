@@ -16,11 +16,11 @@ export default {
     'groups.banner.label': 'Group Banner',
     'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'সদস্য',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `সেখানে {totalMembers, plural,
+    zero {কোনো সদস্য নেই}
+    one {একজন সদস্য}
+    other {# জন সদস্য}
+  } এই গ্রুপে`,
     'groups.leaveGroup': 'গ্রুপ ছেড়ে যান',
     'groups.leaveGroup.confirm': 'নিশ্চিত হতে হবে। আপনি কি নিশ্চিত যে আপনি {groupName}ছেড়ে যেতে চান?',
     'group.settings': 'গ্রুপ সেটিংস',
@@ -34,6 +34,20 @@ export default {
     'groups.join.questionDefault': 'আপনাকে কেন গ্রুপে যোগ দেওয়ার অনুমতি দেয়া উচিত?',
     'groups.join.pendingRequest': 'আপনার গ্রুপে যোগ দেওয়ার অনুরোধ গ্রুপ প্রশাসকদের অনুমোদনের জন্য অপেক্ষা করছে।',
     'groups.join.requesting': 'যোগ দানের অনুরোধ করা হচ্ছে',
+    'groups.writingLeaderboard.title': 'Writing leaderboard',
+    'groups.writingLeaderboard.description': 'See how group members compare by recent writing output.',
+    'groups.writingLeaderboard.period.daily': 'Daily',
+    'groups.writingLeaderboard.period.weekly': 'Weekly',
+    'groups.writingLeaderboard.period.monthly': 'Monthly',
+    'groups.writingLeaderboard.period.yearly': 'Yearly',
+    'groups.writingLeaderboard.wordsValue': '{count} words',
+    'groups.writingLeaderboard.secondaryValue': '{characters} characters · {sessions} sessions',
+    'groups.writingLeaderboard.rank': 'Rank',
+    'groups.writingLeaderboard.member': 'Member',
+    'groups.writingLeaderboard.output': 'Output',
+    'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+    'groups.writingLeaderboard.display': 'Display writing leaderboard to members',
+    'groups.writingLeaderboard.displayHelp': 'When enabled, group members can compare recent writing activity on the members page.',
     'groups.invite.btn': 'গ্রুপে আমন্ত্রণ জানান',
     'groups.invite.modalAria': 'গ্রুপে ব্যবহারকারীদের আমন্ত্রণ দিন ডায়ালগ',
     'groups.invite.send': 'আমন্ত্রণ পাঠান',

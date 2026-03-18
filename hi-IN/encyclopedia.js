@@ -48,7 +48,7 @@ export default {
     'encyclopedia.help.text': 'विज्ञानकोष में विषयों के बीच परिभ्रमण करने के लिए बाएँ मेनू का उपयोग करें। एक विषय का चयन करने के बाद, यह पाठ उसके स्थान पर प्रदर्शित होगा।',
     'encyclopedia.help.sidebar': 'साइडबार टूलबॉक्स',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see the latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add a connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will then be prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
+    'encyclopedia.intro': '{universe} विश्वकोश में आपका स्वागत है।',
     'encyclopedia.add.title': 'विज्ञानकोष में एक नया प्रविष्टि जोड़ें',
     'encyclopedia.add.heading': 'आप क्या जोड़ना चाहेंगे?',
     'encyclopedia.add.moresoon': 'और श्रेणियाँ जल्द ही आ रही हैं!',
@@ -188,11 +188,11 @@ export default {
     'encyclopedia.cover': 'कवर छवि',
     'encyclopedia.translation.title': 'आपका स्वागत है {universe} यूनिवर्स अनुवाद में!',
     'encyclopedia.translation.desc': 'इस विज्ञानकोश इंटरफ़ेस का उपयोग {language}में अनुवाद के लिए किया जाता है। शुरू करने के लिए बाएं में सूची में मौजूदा प्रविष्टियों का चयन करें।',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `इस ब्रह्मांड में {totalEntries, plural, 
+    zero {कोई प्रविष्टियाँ नहीं हैं}
+    one {एक प्रविष्टि है}
+    other {# प्रविष्टियाँ हैं}
+  }।`,
     'encyclopedia.settings.title': 'विज्ञानकोश सेटिंग्स',
     'encyclopedia.settings.categoriesDesc': 'अपने विज्ञानकोश में उपयोग करने के लिए श्रेणियाँ चालू और बंद करें।',
     'encyclopedia.settings.introText': 'यूनिवर्स विवरण के बाद प्रदर्शित करने के लिए स्वागत संदेश।',

@@ -15,12 +15,12 @@ export default {
     'blog.description': 'ब्लग परिचय',
     'blog.theme': 'थिम',
     'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.posts.total': `त्यहाँ {total, plural,
+    zero {कुनै पोस्टहरू छैनन्}
+    one {एउटा पोस्ट हो}
+    other {# पोस्टहरू छन्}
+  } यस ब्लगमा।`,
+    'blog.post.create': 'नयाँ पोस्ट लेख्नुहोस्',
     'blog.post.update': '{title}सम्पादन गर्दै',
     'blog.post.text': 'पोस्ट पाठ',
     'common.slug': 'SEO सौहार्दपूर्ण ठेगाना',
@@ -124,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'प्रश्नहरू',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',

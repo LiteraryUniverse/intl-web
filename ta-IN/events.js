@@ -40,8 +40,8 @@ export default {
   'events.create.title': 'புதிய நிகழ்ச்சி உருவாக்கு',
   'events.hostedBy': 'இயக்குநர் {hostName}ஆல் அமைக்கப்படுகிறார்',
   'events.openVirtual': 'மெய்நிகர் இடத்தில் செல்க',
-  'events.moreInfo': 'More information',
-  'event.visibilityShort.private': 'Private',
-  'event.visibilityShort.public': 'Public',
+  'events.moreInfo': 'மேலும் தகவல்',
+  'event.visibilityShort.private': 'தனியார்',
+  'event.visibilityShort.public': 'பொது',
   'event.visibilityShort.owner': 'உரிமையாளர்'
 };

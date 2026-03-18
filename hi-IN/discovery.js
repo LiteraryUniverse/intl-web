@@ -7,15 +7,15 @@ export default {
     'discovery.continue': 'पढ़ना जारी रखें',
     'discovery.stories.similar.new': 'पड़ोस की नई कहानियाँ',
     'discovery.stories.similar.regular': 'पड़ोस की कहानियाँ',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `इस कहानी को पढ़ने में {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 घंटा और }
+        other {# घंटे और }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
+        =0 {0 मिनट}
+        one {1 मिनट}
+        other {# मिनट}
+    } ~ लगेगा।`,
     'story.estimatedReadingTime.explained': 'औसत पठन गति के आधार पर {avgReadingNum, number} शब्द प्रति मिनट।',
     'discover.search.text': 'खोज शब्द',
     'discover.searchStory.title': 'किसी कहानी की खोज करें',

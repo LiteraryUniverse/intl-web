@@ -1,10 +1,10 @@
 export default {
     'user.friend.request.add': 'Thêm vào bạn bè',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.requests': `Bạn có {num, number} yêu cầu kết bạn mới {num, plural,
+    zero {}
+    one {yêu cầu}
+    many {yêu cầu}
+    other {yêu cầu}
   }`,
     'user.friend.unfriend': 'Hủy kết bạn',
     'user.block': 'Chặn',
@@ -21,28 +21,28 @@ export default {
     'user.profile.avatar': 'Ảnh đại diện của  {username}',
     'user.friend.list.requests': 'Yêu cầu kết bạn',
     'user.friend.norequests': 'Bạn không có yêu cầu kết bạn nào.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Chào buổi sáng {dayPart, select,
+    morning {Chào buổi chiều}
+    afternoon {Chào buổi tối}
+    evening {Chào buổi tối muộn}
+    night {Chào buổi đêm}
+    other {Chào ngày mới}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Tác giả này đã được xuất bản theo cách truyền thống',
     'user.verification.luAuthor': 'Tác giả dựa trên Vũ trụ Văn học có tầm quan trọng',
     'user.verification.luEmployee': 'Nhân viên Vũ trụ Văn học',
     'user.verification.publicFigure': 'Nhân vật công khai đã được xác minh',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {câu chuyện}
+    other {những câu chuyện}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {vũ trụ}
+    other {các vũ trụ}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {truyện fanfiction}
+    other {truyện fanfiction} 
   }`,
     'profile.works': 'Tác phẩm',
     // As in creative/literary works

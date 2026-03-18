@@ -18,23 +18,23 @@ export default {
     'email.footer.settingsHtml': 'คุณสามารถเปลี่ยนการตั้งค่าอีเมลของคุณได้ใน<link>หน้าการตั้งค่าบัญชีของคุณ</link>',
     // Enrollment
     'email.enrollAccount.welcome': 'ยินดีต้อนรับเข้าสู่ทางเรือ',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'เราขอเชิญคุณเข้าร่วม Literary Universe! เราได้เตรียมบัญชีส่วนตัวไว้ให้คุณแล้ว ซึ่งคุณสามารถเข้าถึงคุณสมบัติทั้งหมดของ Literary Universe ได้ โปรดเข้าร่วมกับเราในการสร้างการเขียนและการอ่านเชิงสร้างสรรค์รุ่นต่อไป!',
     'email.enrollAccount.button': 'เข้าสู่บัญชีของคุณ',
     'email.enrollAccount.signature': 'เราตั้งตารอที่จะได้พบคุณ,<br>ทีมวรรณกรรมจักรวาล</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'เราได้รับคำขอให้คุณรีเซ็ตรหัสผ่านสำหรับบัญชีของคุณ กรุณาคลิกที่ปุ่มด้านล่างเพื่อดำเนินการต่อ หากคุณไม่ได้เป็นผู้ขอรีเซ็ตรหัสผ่านนี้ คุณสามารถเพิกเฉยต่ออีเมลนี้ได้ แต่ขอแนะนำให้คุณตรวจสอบการตั้งค่าความปลอดภัยของคุณอีกครั้ง',
     'email.resetPassword.button': 'รีเซ็ตรหัสผ่าน',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'เรายินดีต้อนรับคุณเข้าร่วมกับเรา! กรุณาคลิกปุ่มด้านล่างเพื่อยืนยันที่อยู่อีเมลนี้',
     'email.verifyEmail.button': 'ยืนยันที่อยู่อีเมลนี้',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'บัญชีของคุณได้รับการอัปเกรดแล้ว',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.message': `เราได้อัปเกรดบัญชีของคุณเป็น {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } ระดับสำหรับ {days} วันถัดไป\n\nขอให้เพลิดเพลิน,\nทีมจักรวาลวรรณกรรม`,
     'email.adminUpgrade.messageHtml': `เราได้อัปเกรดบัญชีของคุณเป็น {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}

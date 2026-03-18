@@ -20,7 +20,7 @@ export default {
     one {un post}
     other {# posts}
   } dans ce blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Rédiger un nouveau message',
     'blog.post.update': 'Modification de {title}',
     'blog.post.text': 'Poster le texte',
     'common.slug': 'Adresse conviviale pour le SEO',

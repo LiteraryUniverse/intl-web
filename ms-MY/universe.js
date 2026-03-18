@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} Fan Seting',
     'universe.fanfiction.stories': 'Cerita',
     'universe.fanfiction.fanarts': 'Seni Penggemar',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Tiada cerita di alam semesta ini {num, plural,
+    =0 {tiada cerita}
+    one {satu cerita}
+    other {# cerita}
+    }`,
     'universe.authors.title': 'Penulis',
     'universe.authors.desc': 'Pencipta dan penyumbang kepada {universe}',
     'universe.contributors': 'Penyumbang',

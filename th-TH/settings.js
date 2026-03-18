@@ -33,9 +33,9 @@ export default {
     'settings.export.explain': 'นี้จะช่วยให้คุณได้รับข้อมูลทั้งหมดที่เก็บไว้ในฐานข้อมูลของเราในรูปแบบ json',
     'settings.export.submit': 'ส่งออกข้อมูล',
     'settings.delete.title': 'ลบบัญชี',
-    'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
-    there is no way of getting it back. Note that this might not automatically delete your published works,
-    comments, etc. Please refer to Terms of Service for details.`,
+    'settings.delete.warning': `คำเตือน: การลบบัญชีของคุณจะทำให้คุณสูญเสียการเข้าถึงบัญชีนี้และ
+    ไม่สามารถกู้คืนได้ โปรดทราบว่านี่อาจไม่ลบผลงานที่เผยแพร่ ความคิดเห็น ฯลฯ ของคุณโดยอัตโนมัติ
+    โปรดดูรายละเอียดในข้อกำหนดการให้บริการ`,
     'settings.delete.confirm': 'เพื่อให้แน่ใจ คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?',
     'settings.delete.cancel': 'ฉันไม่ต้องการลบบัญชีของฉัน',
     'settings.delete.submit': 'ลบบัญชีของฉัน',
@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'เพศของคุณ',
     'settings.gender.usage': 'ข้อมูลนี้จะเป็นความลับ พวกเราใช้ข้อมูลนี้สำหรับการวิเคราะห์แพลตฟอร์มและการวิเคราะห์แบบไม่ระบุชื่อตัวตนให้กับผู้สร้างเมื่อคุณอ่านเรื่องราวของพวกเขา',
     'settings.age.title': 'อายุของคุณ',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'แสดงเนื้อหาที่ชัดเจน (จำกัดอายุ 21 ปีขึ้นไป)',
     'settings.age.birthday': 'Date of birth',
     'settings.age.usage': 'ข้อมูลนี้จะเป็นความลับ พวกเรามีหน้าที่ตามกฎหมายที่จะสอบถามเกี่ยวกับอายุของคุณ เราใช้ข้อมูลนี้สำหรับการวิเคราะห์แพลตฟอร์ม แสดงเนื้อหาตามอัตราการจัดอันดับและการวิเคราะห์แบบไม่ระบุชื่อตัวตนให้กับผู้สร้างเมื่อคุณอ่านเรื่องราวของพวกเขา',
     'settings.country.title': 'ประเทศของคุณ',

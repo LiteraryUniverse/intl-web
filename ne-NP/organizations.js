@@ -71,7 +71,7 @@ export default {
     'org.roles.member': 'Member',
     'org.roles.author': 'Author',
     'org.roles.workshop': 'Workshop',
-    'org.roles.teacher': 'Teacher',
+    'org.roles.teacher': 'शिक्षक',
     'org.permissions.title': 'Permissions',
     'org.permissions.includedInRole': '(included in role)',
     // Permission names

@@ -131,7 +131,7 @@ export default {
     'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'तपाईंका नोट र विचारहरू साइटमा कहिल्यै पनि पहुँचने छन्।',
     'common.feedback': 'प्रतिक्रिया',
-    'common.createdOn': 'Created on {date, date, long}',
+    'common.createdOn': '{date, date, long} मा सिर्जना गरिएको',
     'common.createdOn.title': '!0 मा सिर्जना गरियो',
     // account types
     admin: 'प्रशासक',
@@ -152,7 +152,7 @@ export default {
     'common.offlineStatus': 'तपाईं वर्तमानमा अनलाइन छैनन्।',
     male: 'पुरुष',
     female: 'महिला',
-    'common.legal.effectiveAt': 'Effective from {date, date, medium}',
+    'common.legal.effectiveAt': '{date, date, medium} बाट प्रभावकारी',
     select: 'कृपया छान्नुहोस्',
     'common.statusFailed': 'सर्भरमा कनेक्ट गर्न सकिएन।',
     'common.statusConnecting': 'सर्भरमा कनेक्ट गर्दै... ({count, number})',

@@ -60,7 +60,7 @@ export default {
     'discovery.chaptersTotal': 'Tổng số chương trong câu chuyện',
     'discovery.readFromStart': 'Đọc từ chương đầu tiên',
     'discovery.readLatest': 'Đọc chương mới nhất',
-    'discovery.author': 'Author',
+    'discovery.author': 'Tác giả',
     'discovery.aiGenerated': 'AI Generated',
     'discovery.isAIGenerated': 'Công việc này được tạo ra bởi trí tuệ nhân tạo.',
     'discovery.isPreview': 'Xem trước',

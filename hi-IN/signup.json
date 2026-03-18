@@ -87,7 +87,7 @@
 	"signup.wizard.complete.reader.step1.description": "Browse the library to find stories that match your interests.",
 	"signup.wizard.complete.reader.step2.title": "Create reading lists",
 	"signup.wizard.complete.reader.step2.description": "Organize stories you want to read or have read into lists.",
-	"signup.wizard.complete.reader.step3.title": "Join the community",
+	"signup.wizard.complete.reader.step3.title": "समुदाय में शामिल हों",
 	"signup.wizard.complete.reader.step3.description": "Connect with authors and other readers to discuss stories you love.",
 	"signup.saveProgress": "Save progress and continue later",
 	"signup.stepCount": "Step {current, number} of {total, number}",

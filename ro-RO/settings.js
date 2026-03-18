@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Sexul tău',
     'settings.gender.usage': 'Aceste informații vor rămâne private. Folosim aceste date pentru analize ale platformei și pentru analize anonimizate către creatori atunci când citești poveștile lor.',
     'settings.age.title': 'Vârsta ta',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Afișează conținut explicit (rating de vârstă 21+)',
     'settings.age.birthday': 'Data nașterii',
     'settings.age.usage': 'Această informație va rămâne privată. Suntem obligați din punct de vedere legal să solicităm vârsta ta. Utilizăm aceste date pentru analizele platformei, afișarea conținutului în funcție de clasificări și în analize anonimizate pentru creatori atunci când citești poveștile lor.',
     'settings.country.title': 'Țara ta',

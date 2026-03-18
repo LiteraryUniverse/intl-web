@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Giới tính của bạn',
     'settings.gender.usage': 'Thông tin này sẽ được bảo mật. Chúng tôi sử dụng dữ liệu này cho phân tích nền tảng và phân tích ẩn danh cho các tác giả khi bạn đọc truyện của họ.',
     'settings.age.title': 'Tuổi của bạn',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Hiển thị nội dung nhạy cảm (dành cho người từ 21 tuổi trở lên)',
     'settings.age.birthday': 'Date of birth',
     'settings.age.usage': 'Thông tin này sẽ được bảo mật. Chúng tôi có nghĩa vụ pháp lý hỏi về tuổi của bạn. Chúng tôi sử dụng dữ liệu này cho phân tích nền tảng, hiển thị nội dung dựa trên đánh giá và phân tích ẩn danh cho các tác giả khi bạn đọc truyện của họ.',
     'settings.country.title': 'Quốc gia của bạn',

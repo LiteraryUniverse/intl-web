@@ -20,7 +20,7 @@ export default {
     one {एक पोस्ट है}
     other {कुल # पोस्ट हैं}
   } इस ब्लॉग में।`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'एक नई पोस्ट लिखें',
     'blog.post.update': 'संपादन कर रही हैं {title}',
     'blog.post.text': 'पोस्ट टेक्स्ट',
     'common.slug': 'एसईओ फ्रेंडली पता',
@@ -124,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'प्रश्न',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',

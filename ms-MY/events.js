@@ -40,7 +40,7 @@ export default {
   'events.create.title': 'Cipta acara baru',
   'events.hostedBy': 'Dijana oleh {hostName}',
   'events.openVirtual': 'Pergi ke lokasi maya',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'Maklumat lanjut',
   'event.visibilityShort.private': 'Peribadi',
   'event.visibilityShort.public': 'Awam',
   'event.visibilityShort.owner': 'Pemilik'

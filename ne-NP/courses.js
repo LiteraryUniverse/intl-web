@@ -137,9 +137,9 @@ export default {
   'course.members.teachers': 'Teachers',
   'course.members.students': 'Students',
   'course.members.preview.message': 'Join this course to see all students and interact with the community.',
-  'course.member.role.owner': 'Owner',
-  'course.member.role.teacher': 'Teacher',
-  'course.member.role.student': 'Student',
+  'course.member.role.owner': 'मालिक',
+  'course.member.role.teacher': 'शिक्षक',
+  'course.member.role.student': 'विद्यार्थी',
   'course.lesson.internalLinks': 'Works on Literary Universe',
   'course.lesson.internalLinks.description':
     'Select stories or universes to link to this lesson. These will be available to students as additional resources.',

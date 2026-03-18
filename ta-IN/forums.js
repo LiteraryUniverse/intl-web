@@ -16,7 +16,7 @@ export default {
   // Pre-defined category names
   'forums.category.intlName.general': 'பொது',
   'forums.category.intlName.help': 'உதவி',
-  'forums.category.intlName.history': 'History',
+  'forums.category.intlName.history': 'வரலாறு',
   'forums.category.intlName.inspiration': 'மனதை உறுதிப்படுத்துதல்',
   'forums.category.intlName.locations': 'இடங்கள்',
   'forums.category.intlName.meetups': 'சந்திப்புகள்',

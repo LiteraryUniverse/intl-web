@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'आपका लिंग',
     'settings.gender.usage': 'यह जानकारी निजी रहेगी। हम इस डेटा का उपयोग प्लेटफ़ॉर्म विश्लेषण और निरंकीकृत विश्लेषण में करते हैं जब आप किसी लेखक की कहानियाँ पढ़ते हैं।',
     'settings.age.title': 'आपकी आयु',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'स्पष्ट सामग्री दिखाएँ (आयु रेटिंग 21+)',
     'settings.age.birthday': 'Date of birth',
     'settings.age.usage': 'यह जानकारी निजी रहेगी। हम कानूनी रूप से आपकी आयु के बारे में पूछताछ करने के लिए अनुशंसित हैं। हम इस डेटा का प्लेटफ़ॉर्म विश्लेषण, रेटिंग के आधार पर सामग्री प्रदर्शित करने और निरंकीकृत विश्लेषण में करते हैं जब आप किसी लेखक की कहानियाँ पढ़ते हैं।',
     'settings.country.title': 'आपका देश',

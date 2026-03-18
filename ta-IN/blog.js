@@ -20,7 +20,7 @@ export default {
     one {ஐ ஒரு பதிவு கொடுப்பான்!}
     other {பதிவுகள் இருக்கின்றன!}
   } .`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'புதிய பதிவை எழுதுங்கள்',
     'blog.post.update': 'மாற்றப்பட்ட பதிவு {title}',
     'blog.post.text': 'பதிவு உரை',
     'common.slug': 'SEO அமிழ்தியான முகவரி',
@@ -124,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'கேள்விகள்',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',
@@ -137,8 +137,8 @@ export default {
     'blog.qa.status.ignored': 'Ignored',
     'blog.qa.status.private': 'Private Answer',
     'blog.qa.status.public': 'Public Answer',
-    'blog.qa.role.reader': 'Reader',
-    'blog.qa.role.author': 'Author',
+    'blog.qa.role.reader': 'வாசகர்',
+    'blog.qa.role.author': 'ஆசிரியர்',
     'blog.qa.pinned': 'Pinned',
     'blog.qa.answeredAgo': 'Answered {time}',
     'blog.qa.loadMore': 'Load more',

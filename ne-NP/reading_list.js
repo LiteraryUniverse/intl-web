@@ -11,16 +11,16 @@ export default {
   'readingList.edit.aria': 'पढ्ने सूचीको सेटिङहरू सम्पादन गर्ने मोडल',
   'readingList.library.title': 'तपाईंको पढ्ने सूचीहरू',
   'readingList.public.label': 'सार्वजनिक रूपमा दृश्यमान छ?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.addItem': `थप्नुहोस् {type, select,
+    universes {ब्रह्माण्ड}
+    stories {कथा}
+    other {कथाहरू र ब्रह्माण्डहरू}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
+  'readingList.addItem.modalAria': `पढ्ने सूचीमा थप्न मोडाल {type, select,
+    universes {ब्रह्माण्डहरू}
+    stories {कथाहरू}
+    other {कथाहरू र ब्रह्माण्डहरू}
+  }।`,
   'readingList.addItem.fromLibrary': 'लाइब्रेरीबाट',
   'readingList.addItem.yourOwn': `Your own {type, select,
     universes {universes}

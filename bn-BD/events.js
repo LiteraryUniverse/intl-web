@@ -40,7 +40,7 @@ export default {
   'events.create.title': 'নতুন ঘটনা তৈরি করুন',
   'events.hostedBy': '{hostName}দ্বারা পরিচালিত',
   'events.openVirtual': 'ভার্চুয়াল স্থানে যান',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'আরও তথ্য',
   'event.visibilityShort.private': 'প্রাইভেট',
   'event.visibilityShort.public': 'পাবলিক',
   'event.visibilityShort.owner': 'মালিক'

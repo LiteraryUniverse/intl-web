@@ -18,23 +18,23 @@ export default {
     'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Selamat datang',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'Kami ingin menjemput anda ke Literary Universe! Kami telah menyediakan akaun peribadi untuk anda di mana anda boleh mengakses semua ciri Literary Universe. Sila sertai kami dalam mencipta generasi seterusnya dalam penulisan kreatif dan pembacaan!',
     'email.enrollAccount.button': 'Akses akaun anda',
     'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'Kami telah menerima permintaan untuk menetapkan semula kata laluan akaun anda. Sila klik butang di bawah untuk meneruskan proses. Jika anda tidak membuat permintaan ini, anda boleh mengabaikan e-mel ini, tetapi mungkin ini adalah masa yang sesuai untuk menyemak tetapan keselamatan anda.',
     'email.resetPassword.button': 'Tetapkan semula kata laluan',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'Kami gembira anda menyertai kami! Sila klik butang di bawah untuk mengesahkan alamat e-mel ini.',
     'email.verifyEmail.button': 'Mengesahkan alamat e-mel ini',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Akaun anda telah dinaik taraf',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.message': `Kami telah menaik taraf akaun anda ke peringkat {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } untuk {days} hari akan datang.\n\nSelamat menikmati,\nPasukan Alam Semesta Kesusasteraan`,
     'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
@@ -47,23 +47,23 @@ export default {
     // The Way (Author Level Up)
     'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
     'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
-    'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
+    'theWay.levelUp.emailIntro': 'Dedikasi anda terhadap seni penulisan telah dihargai!',
     'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
-    'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
-    'theWay.levelUp.viewDashboard': 'View Your Dashboard',
+    'theWay.levelUp.emailContinue': 'Teruskan perjalanan anda dan buka lebih banyak pencapaian di Jalan Penulis.',
+    'theWay.levelUp.viewDashboard': 'Lihat Papan Pemandu Anda',
     // Notifications - General content comment
-    'email.notifications.contentComment.subject': 'New comment on your content',
-    'email.notifications.contentComment.title': 'New comment on your {contentType}',
-    'email.notifications.contentComment.details': 'Title: {contentTitle} • From: {commenterName}',
-    'email.notifications.contentComment.cta': 'View comment',
+    'email.notifications.contentComment.subject': 'Komen baru pada kandungan anda',
+    'email.notifications.contentComment.title': 'Komen baru pada anda {contentType}',
+    'email.notifications.contentComment.details': 'Tajuk: {contentTitle} • Daripada: {commenterName}',
+    'email.notifications.contentComment.cta': 'Lihat komen',
     // Notifications - Beta reader comment
-    'email.notifications.betaComment.subject': 'New beta reader feedback',
-    'email.notifications.betaComment.title': 'New beta reader feedback',
-    'email.notifications.betaComment.details': 'Story: {storyTitle}{chapter} • From: {commenterName}',
-    'email.notifications.betaComment.cta': 'View feedback',
+    'email.notifications.betaComment.subject': 'Maklum balas pembaca beta baharu',
+    'email.notifications.betaComment.title': 'Maklum balas pembaca beta baharu',
+    'email.notifications.betaComment.details': 'Cerita: {storyTitle}{chapter} • Daripada: {commenterName}',
+    'email.notifications.betaComment.cta': 'Lihat maklum balas',
     // Notifications - New message
-    'email.notifications.newMessage.subject': 'You have a new message',
-    'email.notifications.newMessage.title': 'You have a new message',
+    'email.notifications.newMessage.subject': 'Anda mempunyai mesej baru',
+    'email.notifications.newMessage.title': 'Anda mempunyai mesej baru',
     'email.notifications.newMessage.details': 'From: {senderName}',
     'email.notifications.newMessage.cta': 'View message',
     // Notifications - Chapter published

@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `ขณะนี้คุณไม่มี {type, select,
+    organization {บล็อกใด ๆ}
+    universe {บล็อกสำหรับจักรวาลของคุณ}
+    user {บล็อก}
     other {}
   }.`,
     'blog.create': 'สร้างบล็อกใหม่',
@@ -20,7 +20,7 @@ export default {
     one {มีโพสต์มา 1 เรื่อง}
     other {โพสต์}
   } และ # โพสต์`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'เขียนโพสต์ใหม่',
     'blog.post.update': 'แก้ไขโพสต์ {title}',
     'blog.post.text': 'ข้อความโพสต์',
     'common.slug': 'ที่อยู่ผ่านการจัดการ SEO',

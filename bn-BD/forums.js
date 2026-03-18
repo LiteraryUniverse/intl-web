@@ -16,7 +16,7 @@ export default {
   // Pre-defined category names
   'forums.category.intlName.general': 'সাধারণ',
   'forums.category.intlName.help': 'সাহায্য',
-  'forums.category.intlName.history': 'History',
+  'forums.category.intlName.history': 'ইতিহাস',
   'forums.category.intlName.inspiration': 'অনুপ্রেরণা',
   'forums.category.intlName.locations': 'অবস্থানসমূহ',
   'forums.category.intlName.meetups': 'মিট-আপ',

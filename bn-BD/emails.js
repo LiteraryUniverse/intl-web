@@ -18,14 +18,14 @@ export default {
     'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'স্বাগতম বোর্ডে',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'আমরা আপনাকে লিটারারি ইউনিভার্সে আমন্ত্রণ জানাতে চাই! আমরা আপনার জন্য একটি ব্যক্তিগত অ্যাকাউন্ট তৈরি করে রেখেছি, যার মাধ্যমে আপনি লিটারারি ইউনিভার্সের সব ফিচার ব্যবহার করতে পারবেন। আসুন, সৃজনশীল লেখালেখি ও পাঠের পরবর্তী প্রজন্ম গড়ে তুলতে আমাদের সাথে যোগ দিন!',
     'email.enrollAccount.button': 'আপনার অ্যাকাউন্ট অ্যাক্সেস করুন',
     'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'আমরা আপনার অ্যাকাউন্টের পাসওয়ার্ড রিসেট করার অনুরোধ পেয়েছি। প্রক্রিয়াটি চালিয়ে যেতে অনুগ্রহ করে নিচের বোতামে ক্লিক করুন। যদি আপনি এই অনুরোধ না করে থাকেন, তাহলে এই ইমেইলটি উপেক্ষা করতে পারেন, তবে আপনার নিরাপত্তা সেটিংস পর্যালোচনা করার জন্য এটি একটি ভালো সময় হতে পারে।',
     'email.resetPassword.button': 'পাসওয়ার্ড রিসেট করুন',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'আপনাকে আমাদের দলে পেয়ে আমরা আনন্দিত! অনুগ্রহ করে এই ইমেইল ঠিকানা যাচাই করতে নিচের বোতামে ক্লিক করুন।',
     'email.verifyEmail.button': 'এই ইমেল ঠিকানা যাচাই করুন',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'আপনার অ্যাকাউন্ট আপগ্রেড করা হয়েছে',
@@ -47,23 +47,23 @@ export default {
     // The Way (Author Level Up)
     'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
     'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
-    'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
+    'theWay.levelUp.emailIntro': 'লেখালেখির কারুশিল্পে আপনার নিষ্ঠা পুরস্কৃত হয়েছে!',
     'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
-    'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
-    'theWay.levelUp.viewDashboard': 'View Your Dashboard',
+    'theWay.levelUp.emailContinue': 'আপনার যাত্রা চালিয়ে যান এবং \'লেখকের পথ\'-এ আরও অর্জন আনলক করুন।',
+    'theWay.levelUp.viewDashboard': 'আপনার ড্যাশবোর্ড দেখুন',
     // Notifications - General content comment
-    'email.notifications.contentComment.subject': 'New comment on your content',
-    'email.notifications.contentComment.title': 'New comment on your {contentType}',
-    'email.notifications.contentComment.details': 'Title: {contentTitle} • From: {commenterName}',
-    'email.notifications.contentComment.cta': 'View comment',
+    'email.notifications.contentComment.subject': 'আপনার সামগ্রীর উপর নতুন মন্তব্য',
+    'email.notifications.contentComment.title': 'আপনার উপর নতুন মন্তব্য {contentType}',
+    'email.notifications.contentComment.details': 'শিরোনাম: {contentTitle} • থেকে: {commenterName}',
+    'email.notifications.contentComment.cta': 'মন্তব্য দেখুন',
     // Notifications - Beta reader comment
-    'email.notifications.betaComment.subject': 'New beta reader feedback',
-    'email.notifications.betaComment.title': 'New beta reader feedback',
-    'email.notifications.betaComment.details': 'Story: {storyTitle}{chapter} • From: {commenterName}',
-    'email.notifications.betaComment.cta': 'View feedback',
+    'email.notifications.betaComment.subject': 'নতুন বিটা রিডারের প্রতিক্রিয়া',
+    'email.notifications.betaComment.title': 'নতুন বিটা রিডারের প্রতিক্রিয়া',
+    'email.notifications.betaComment.details': 'গল্প: {storyTitle}{chapter} • থেকে: {commenterName}',
+    'email.notifications.betaComment.cta': 'প্রতিক্রিয়া দেখুন',
     // Notifications - New message
-    'email.notifications.newMessage.subject': 'You have a new message',
-    'email.notifications.newMessage.title': 'You have a new message',
+    'email.notifications.newMessage.subject': 'আপনার একটি নতুন বার্তা আছে।',
+    'email.notifications.newMessage.title': 'আপনার একটি নতুন বার্তা আছে',
     'email.notifications.newMessage.details': 'From: {senderName}',
     'email.notifications.newMessage.cta': 'View message',
     // Notifications - Chapter published

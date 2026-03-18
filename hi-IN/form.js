@@ -45,7 +45,7 @@ export default {
     'simpleschema.maxDate': '{label} {max, date}के बाद नहीं हो सकता',
     'simpleschema.badDate': '{label} एक मान्य तारीख नहीं है',
     'simpleschema.minCount': 'कम से कम {minCount, number} मान निर्दिष्ट करना चाहिए',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+    'simpleschema.maxCount': 'आप {maxCount, number} मानों से अधिक निर्दिष्ट नहीं कर सकते।',
     'simpleschema.noDecimal': '{label} एक पूर्णांक होना चाहिए',
     'simpleschema.notAllowed': '{value} को अनुमति नहीं है',
     'simpleschema.expectedString': '{label} एक स्ट्रिंग होनी चाहिए',

@@ -57,7 +57,7 @@ export default {
   } மீட்டப்படுகிறது?`,
     'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
-    'feedback.help.courses': 'Courses',
+    'feedback.help.courses': 'பாடநெறிகள்',
     'feedback.help.videoTutorials': 'Video tutorials',
     'feedback.help.featuredArticles': 'Featured Articles',
     'feedback.help.featuredCourses': 'Featured Courses',

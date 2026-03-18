@@ -16,11 +16,11 @@ export default {
     'groups.banner.label': 'Biểu ngữ nhóm',
     'groups.banner.help': 'Hình ảnh banner rộng, khuyến nghị kích thước 1200x675px (tỷ lệ 16:9)',
     'groups.members': 'Thành viên',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Không có thành viên nào {totalMembers, plural,
+    zero {có một thành viên}
+    one {có # thành viên}
+    other {trong nhóm này}
+  }`,
     'groups.leaveGroup': 'Rời nhóm',
     'groups.leaveGroup.confirm': 'Chỉ để đảm bảo. Bạn có chắc chắn muốn rời khỏi {groupName}không?',
     'group.settings': 'Cài đặt nhóm',
@@ -34,6 +34,20 @@ export default {
     'groups.join.questionDefault': 'Tại sao bạn nên được phép tham gia?',
     'groups.join.pendingRequest': 'Yêu cầu của bạn để tham gia nhóm này đang chờ sự chấp thuận từ các quản trị viên nhóm.',
     'groups.join.requesting': 'Yêu cầu tham gia',
+    'groups.writingLeaderboard.title': 'Writing leaderboard',
+    'groups.writingLeaderboard.description': 'See how group members compare by recent writing output.',
+    'groups.writingLeaderboard.period.daily': 'Daily',
+    'groups.writingLeaderboard.period.weekly': 'Weekly',
+    'groups.writingLeaderboard.period.monthly': 'Monthly',
+    'groups.writingLeaderboard.period.yearly': 'Yearly',
+    'groups.writingLeaderboard.wordsValue': '{count} words',
+    'groups.writingLeaderboard.secondaryValue': '{characters} characters · {sessions} sessions',
+    'groups.writingLeaderboard.rank': 'Rank',
+    'groups.writingLeaderboard.member': 'Member',
+    'groups.writingLeaderboard.output': 'Output',
+    'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+    'groups.writingLeaderboard.display': 'Display writing leaderboard to members',
+    'groups.writingLeaderboard.displayHelp': 'When enabled, group members can compare recent writing activity on the members page.',
     'groups.invite.btn': 'Mời vào nhóm',
     'groups.invite.modalAria': 'Mời người dùng vào nhóm',
     'groups.invite.send': 'Gửi lời mời',

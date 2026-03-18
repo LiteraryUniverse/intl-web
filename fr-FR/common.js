@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'Ce contenu a été créé avec l\'aide de l\'IA',
     'common.aiContent.model': 'Modèle AI : {model}',
     'common.aiContent.custom': 'Modèle d\'IA personnalisé',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': 'caractères',
+    'common.words': 'mots',
     'common.quickSummary': 'Résumé rapide',
     'common.creating': 'Créer...'
 };
