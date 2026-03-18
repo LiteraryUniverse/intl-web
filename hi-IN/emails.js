@@ -7,8 +7,8 @@ export default {
     हम आपको कविता यूनिवर्स में आमंत्रित करना चाहेंगे! हमने आपके लिए एक विशेष व्यक्तिगत खाता बनाया है जहां आप कविता यूनिवर्स के सभी सुविधाओं तक पहुंच सकते हैं! कृपया हमें रचनात्मक लेखन और पठन उपकरणों की अगली पीढ़ी को बनाने में शामिल हों!
     अपना खाता सक्रिय करने के लिए, बस नीचे दिए गए लिंक पर क्लिक करें:\n\n{url}`,
     'email.resetPassword.subject': 'कविता यूनिवर्स पासवर्ड रीसेट',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
+    'email.resetPassword.message': `नमस्ते {username}!\n\n हमें आपके खाते का पासवर्ड रीसेट करने का अनुरोध प्राप्त हुआ है।
+        कृपया अपना पासवर्ड रीसेट करने के लिए नीचे दिए गए लिंक पर जाएँ:\n\n{url}`,
     'email.verifyEmail.subject': 'कविता यूनिवर्स ईमेल सत्यापन',
     'email.verifyEmail.message': 'नमस्ते {username}!\n\n कृपया नीचे दिए गए लिंक पर क्लिक करके अपना ईमेल पता सत्यापित करें:\n\n{url}',
     // New html email keys
@@ -18,14 +18,14 @@ export default {
     'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'स्वागत करते हैं',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'हम आपको लिटरेरी यूनिवर्स में आमंत्रित करना चाहेंगे! हमने आपके लिए एक व्यक्तिगत खाता तैयार कर दिया है, जहाँ आप लिटरेरी यूनिवर्स की सभी सुविधाओं का उपयोग कर सकते हैं। कृपया रचनात्मक लेखन और पठन की अगली पीढ़ी बनाने में हमारे साथ शामिल हों!',
     'email.enrollAccount.button': 'अपने खाते में पहुंचें',
     'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'हमें आपके खाते का पासवर्ड रीसेट करने का अनुरोध प्राप्त हुआ है। कृपया प्रक्रिया जारी रखने के लिए नीचे दिए गए बटन पर क्लिक करें। यदि आपने यह अनुरोध नहीं किया है, तो आप इस ई-मेल को अनदेखा कर सकते हैं, लेकिन यह आपकी सुरक्षा सेटिंग्स की समीक्षा करने का अच्छा समय हो सकता है।',
     'email.resetPassword.button': 'पासवर्ड रीसेट करें',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'हम आपको हमारे साथ पाकर प्रसन्न हैं! कृपया इस ई-मेल पते को सत्यापित करने के लिए नीचे दिए गए बटन पर क्लिक करें।',
     'email.verifyEmail.button': 'इस ईमेल पते की पुष्टि करें',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'आपका खाता अपग्रेड किया गया है',
@@ -47,23 +47,23 @@ export default {
     // The Way (Author Level Up)
     'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
     'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
-    'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
+    'theWay.levelUp.emailIntro': 'लेखन की कला के प्रति आपकी निष्ठा को पुरस्कृत किया गया है!',
     'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
-    'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
-    'theWay.levelUp.viewDashboard': 'View Your Dashboard',
+    'theWay.levelUp.emailContinue': 'अपनी यात्रा जारी रखें और \'लेखक का मार्ग\' पर और उपलब्धियाँ अनलॉक करें।',
+    'theWay.levelUp.viewDashboard': 'अपना डैशबोर्ड देखें',
     // Notifications - General content comment
-    'email.notifications.contentComment.subject': 'New comment on your content',
-    'email.notifications.contentComment.title': 'New comment on your {contentType}',
-    'email.notifications.contentComment.details': 'Title: {contentTitle} • From: {commenterName}',
-    'email.notifications.contentComment.cta': 'View comment',
+    'email.notifications.contentComment.subject': 'आपकी सामग्री पर नई टिप्पणी',
+    'email.notifications.contentComment.title': 'आपकी पर नई टिप्पणी {contentType}',
+    'email.notifications.contentComment.details': 'शीर्षक: {contentTitle} • से: {commenterName}',
+    'email.notifications.contentComment.cta': 'टिप्पणी देखें',
     // Notifications - Beta reader comment
-    'email.notifications.betaComment.subject': 'New beta reader feedback',
-    'email.notifications.betaComment.title': 'New beta reader feedback',
-    'email.notifications.betaComment.details': 'Story: {storyTitle}{chapter} • From: {commenterName}',
-    'email.notifications.betaComment.cta': 'View feedback',
+    'email.notifications.betaComment.subject': 'नए बीटा रीडर की प्रतिक्रिया',
+    'email.notifications.betaComment.title': 'नए बीटा रीडर की प्रतिक्रिया',
+    'email.notifications.betaComment.details': 'कहानी: {storyTitle}{chapter} • से: {commenterName}',
+    'email.notifications.betaComment.cta': 'प्रतिक्रिया देखें',
     // Notifications - New message
-    'email.notifications.newMessage.subject': 'You have a new message',
-    'email.notifications.newMessage.title': 'You have a new message',
+    'email.notifications.newMessage.subject': 'आपका एक नया संदेश है।',
+    'email.notifications.newMessage.title': 'आपका एक नया संदेश है।',
     'email.notifications.newMessage.details': 'From: {senderName}',
     'email.notifications.newMessage.cta': 'View message',
     // Notifications - Chapter published
