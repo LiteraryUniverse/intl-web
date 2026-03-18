@@ -21,7 +21,7 @@ export default {
     few {sú # príspevky}
     other {je # príspevkov}
 }.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Napísať nový príspevok',
     'blog.post.update': 'Úprava {title}',
     'blog.post.text': 'Text príspevku',
     'common.slug': 'Adresa vhodná pre SEO',
