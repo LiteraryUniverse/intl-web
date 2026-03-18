@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'რეიტინგი',
+    'rating.explained': 'ასაკობრივი შეფასება და შეზღუდვა.',
+    'rating.all': 'ყველა',
+    'rating.desc.all': 'ხელმისაწვდომია ყველა ასაკისა და ჯგუფისთვის.',
+    'rating.teens': 'თინეიჯერები',
+    'rating.desc.teens': 'განკუთვნილია 12-დან 18 წლამდე ასაკის აუდიტორიისთვის.',
+    'rating.mature': 'მწიფე',
+    'rating.desc.mature': 'შეიცავს წინასწარგანზრახულ თემებს, უხეშ ენასა და ნაგულისხმევ სცენებს.',
+    'rating.explicit': 'გასაგები',
+    'rating.desc.explicit': 'შეიცავს უხამს სცენებს.',
+    'rating.selection.all': 'ყველა - ხელმისაწვდომია ყველა ასაკისა და ჯგუფისთვის.',
+    'rating.selection.teens': 'თინეიჯერები (12-18) - განკუთვნილია 12-დან 18 წლამდე ასაკის აუდიტორიისთვის.',
+    'rating.selection.mature': 'სრულწლოვანთათვის (18+) - შეიცავს მძიმე თემებს, უხამს ენასა და ნაგულისხმევ სცენებს.',
+    'rating.selection.explicit': 'ექსპლიციტური (21+) - შეიცავს ექსპლიციტურ სცენებს.'
 };
