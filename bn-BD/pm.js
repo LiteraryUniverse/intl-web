@@ -10,10 +10,10 @@ export default {
     'pm.to': 'প্রাপক:',
     'pm.with': 'সঙ্গে কথা বলছেন:',
     'pm.send': 'পাঠান',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversations.unreadCount': `আপনার {count, plural,
+    zero {কোনো অপঠিত কথোপকথন নেই}
+    one {একটি অপঠিত কথোপকথন}
+    other {# অপঠিত কথোপকথন}
   }.`,
     'pm.form.minimumParticipants': 'আপনাকে প্রাপক নির্বাচন করতে হবে।',
     'pm.form.maxParticipants': `আপনি একটি কথোপকথনে সর্বাধিক {maxPeople, plural,
