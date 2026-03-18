@@ -18,11 +18,11 @@ export default {
     'challenges.future': 'การท้าทายที่จะเกิดขึ้นในอนาคต',
     'challenges.future.wordcount': 'ท้าทายนับคำเริ่มต้นในวันที่ {startDate, date, short} ด้วยเป้าหมายที่จะเขียน {target, number} ภาพยนตร์ในจักรวาล {endDate, date, short}โดย !<span class="notranslate">3</span>!',
     'challenges.wordcount': 'จำนวนคำ',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `ตั้งเป้าหมายจำนวนคำที่คุณต้องการเขียนในเดือนนี้สำหรับเรื่องราวในจักรวาล {type, select,
+    story {}
+    universe {}
     other {}
-  }.`,
+  }`,
     'challenges.wordcount.select': 'คุณต้องการท้าทายตัวเองด้วยกี่คำ?',
     'challenges.start': 'เริ่มการท้าทาย',
     'challenges.report': 'รายงานผล',
