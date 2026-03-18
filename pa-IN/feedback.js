@@ -50,14 +50,14 @@ export default {
     'feedback.reportType.soliciting': 'Soliciting',
     'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'ਹੋਰ',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`,
+    'feedback.report.copyrightType.propertySelectLabel': `ਕਿਸ {type, select,
+    universe {ਬ੍ਰਹਿਮੰਡ}
+    story {ਕਹਾਣੀ}
+    other {ਕਹਾਣੀ}
+  } ਦਾ ਉਲੰਘਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ?`,
     'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
-    'feedback.help.courses': 'Courses',
+    'feedback.help.courses': 'ਕੋਰਸ',
     'feedback.help.videoTutorials': 'Video tutorials',
     'feedback.help.featuredArticles': 'Featured Articles',
     'feedback.help.featuredCourses': 'Featured Courses',
