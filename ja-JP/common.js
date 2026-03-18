@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'このコンテンツはAIの支援を受けて作成されました。',
     'common.aiContent.model': 'AIモデル： {model}',
     'common.aiContent.custom': 'カスタムAIモデル',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': '文字',
+    'common.words': '言葉',
     'common.quickSummary': '簡単なまとめ',
     'common.creating': '創造...'
 };
