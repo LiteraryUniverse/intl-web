@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Jenis kelamin Anda',
     'settings.gender.usage': 'Informasi ini akan tetap bersifat pribadi. Kami menggunakan data ini untuk analitik platform dan analitik anonim kepada para pembuat ketika Anda membaca cerita mereka.',
     'settings.age.title': 'Usia Anda',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Menampilkan konten eksplisit (peringkat usia 21+)',
     'settings.age.birthday': 'Tanggal lahir',
     'settings.age.usage': 'Informasi ini akan tetap bersifat pribadi. Kami memiliki kewajiban hukum untuk menanyakan usia Anda. Kami menggunakan data ini untuk analitik platform, menampilkan konten berdasarkan rating, dan analitik anonim kepada para pembuat ketika Anda membaca cerita mereka.',
     'settings.country.title': 'Negara Anda',
