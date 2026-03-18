@@ -20,7 +20,7 @@ export default {
     one {bir gönderi var}
     other {# gönderi var}
   } .`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Yeni bir gönderi yazın',
     'blog.post.update': '{title}düzenleniyor',
     'blog.post.text': 'Gönderi metni',
     'common.slug': 'SEO dostu adres',
