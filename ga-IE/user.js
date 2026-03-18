@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': 'Aoisbhrat {username}.',
     'user.friend.list.requests': 'Iarratais cairdis',
     'user.friend.norequests': 'Níl iarratais cairdis ort.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Maith {dayPart, select,
+    morning {maidin}
+    afternoon {tráthnóna}
+    evening {oíche}
+    night {oíche}
+    other {lá}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Tá an t-údar seo foilsithe ar an mbealach traidisiúnta',
     'user.verification.luAuthor': 'Údar bunaithe ar Literary Universe',
