@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} на кілька днів раніше: {tiers} - вболівальники отримують доступ на {date, date, short} за адресою {date, time}',
     'writer.initialLetter': 'Початковий абзац листа',
     'writer.ruby': 'Рубі.',
-    'writer.ruby.placeholder': 'Введіть читання (наприклад, かんじ)'
+    'writer.ruby.placeholder': 'Введіть читання (наприклад, かんじ)',
+    'writer.linkToWork': 'Посилання на всесвіт, історію або розділ',
+    'writer.insertWorkCard': 'Вставте картку історії або всесвіту'
 };

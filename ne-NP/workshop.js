@@ -2,12 +2,12 @@ export default {
     'workshop.title': 'तपाईंको काम',
     'workshop.noneassigned': 'तपाईंलाई कुनै पनि बुझाइएको छैन।',
     'workshop.notavailable': 'यो सुविधा अहिले सम्पन्न भएको छैन।',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.none': `तपाईंको हाल कुनै छैन {type, select,
+      universe {ब्रह्माण्ड}
+      story {कथा}
+      fanfiction {फ्यान फिक्शन}
       other {}
-    }. Create one now!`,
+    }। अहिले एउटा सिर्जना गर्नुहोस्!`,
     'workshop.collab': 'सहकार्यको काम',
     'workshop.betareadings': 'बेटा पठाउने',
     'workshop.translations': 'अनुवादहरू',
@@ -133,6 +133,8 @@ export default {
     'workshop.story.published.congratulations.description': 'Your writing journey continues. Your story is now ready to be discovered and enjoyed by readers.',
     'workshop.story.published.congratulations.publicStoryBtn': 'Go to story page',
     'workshop.story.published.congratulations.imageAlt': 'Celebration illustration for published story',
+    'workshop.writingHistory.title': 'Writing history',
+    'workshop.writingHistory.sessions': 'Writing sessions',
     'workshop.settings.edit': 'सेटिङहरू सम्पादन गर्नुहोस्',
     'workshop.story.publishedOn': 'यो कथा प्रकाशित भएको छ {date, date, long} {date, time, short}',
     'workshop.story.settings': 'कथाको सेटिङहरू',
@@ -241,9 +243,10 @@ export default {
     'workshop.outliner.noChapters': 'Use "Plan chapter" to plan your story structure, or write your first chapter in the workshop.',
     'workshop.outliner.noScenes': 'No scenes yet',
     'workshop.outliner.storyline': 'Storyline',
-    'workshop.outliner.dragHint': 'Drag cards between any scene columns and storylines, just like a Trello board.',
+    'workshop.outliner.dragHint': 'कुनै पनि दृश्य स्तम्भ र कथानकहरूबीच कार्डहरू तान्नुहोस्।',
     'workshop.outliner.editCard': 'Edit outliner card',
     'workshop.outliner.cardDetailsPlaceholder': 'Describe this beat, scene goal, key conflict, and any notes…',
+    'workshop.outliner.dragScene': 'ड्र्याग दृश्य',
     'workshop.outliner.written': 'Mark as written',
     'workshop.outliner.emptyCard': '(empty)',
     'workshop.outliner.planChapter': 'Plan chapter',
@@ -259,6 +262,15 @@ export default {
     'workshop.universe.createFirstStory': 'पहिलो कथा सिर्जना गर्नुहोस्',
     'workshop.storylines': 'कथाको रेखाचित्रहरू',
     'workshop.scenesManager': 'दृश्य प्रबन्धक',
+    'workshop.sceneManager.title': 'दृश्य प्रबन्धक – {storyTitle}',
+    'workshop.scene.create': 'दृश्य सिर्जना गर्नुहोस्',
+    'workshop.scene.edit': 'दृश्य सम्पादन गर्नुहोस्',
+    'workshop.scene.empty': 'यस अध्यायका लागि अहिलेसम्म कुनै दृश्यहरू योजना गरिएको छैन।',
+    'workshop.scene.checklist': 'अध्यायका दृश्यहरू',
+    'workshop.scene.checklist.empty': 'यस अध्यायमा अहिलेसम्म कुनै दृश्यहरू तोकिएका छैनन्।',
+    'workshop.scene.title.placeholder': 'दृश्य शीर्षक…',
+    'workshop.scene.details': 'दृश्य विवरण',
+    'workshop.scene.assignments.hint': 'तपाईंको विश्वकोशबाट पात्रहरू र स्थानहरू तोक्नुहोस्।',
     'workshop.collaborators.addRoleForLang': '{language}का लागि {role} थप्नुहोस्',
     'workshop.beta.revisionInfo': 'यो पुनरावलोकन {revision, number}, {createdAt, date, long}मा सिर्जना गरिएको हो।',
     'workshop.story.notes.title': 'तपाईंको {storyTitle}को लागि नोटहरू',

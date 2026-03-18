@@ -40,7 +40,7 @@ export default {
     'writer.todo.weeklyTooltip': 'For stories published once per week. Longer chapters allow for more complex plots and character development.',
     'writer.todo.monthlyPublishing': 'Monthly publishing',
     'writer.todo.monthlyTooltip': 'For stories published once per month. Much longer chapters suitable for in-depth storytelling and complex narratives.',
-    'writer.nothingToSave': 'Nothing to save',
+    'writer.nothingToSave': 'Níl aon rud le sábháil',
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
@@ -62,12 +62,14 @@ export default {
     'writer.publish.public': 'Foilsigh',
     'writer.publish.publish': 'Publish',
     'writer.publish.publish.original': 'Publish (Original)',
-    'writer.publish.now': 'Publish now',
+    'writer.publish.now': 'Foilsigh anois',
     'writer.publish.moreOptions': 'More save options',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
+    'writer.publish.schedulePrevious': 'Caithfidh tú an chaibidil roimhe seo a fhoilsiú nó a sceidealú le foilsiú sula bhféadfaidh tú an ceann seo a fhoilsiú.',
     'writer.publish.earlyAccess.title': 'Early access for fans',
     'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}',
     'writer.initialLetter': 'Initial Paragraph Letter',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)'
+    'writer.ruby.placeholder': 'Enter reading (e.g. かんじ)',
+    'writer.linkToWork': 'Nasc chuig cruinne, scéal nó caibidil',
+    'writer.insertWorkCard': 'Cuir isteach cárta scéil nó chruinne'
 };

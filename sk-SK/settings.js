@@ -60,7 +60,7 @@ export default {
     'settings.gender.title': 'Vaše pohlavie',
     'settings.gender.usage': 'Tieto informácie zostanú súkromné. Tieto údaje používame na analýzu platformy a v anonymizovanej analýze pre tvorcov, keď čítate ich príbehy.',
     'settings.age.title': 'Váš vek',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Zobraziť explicitný obsah (veková kategória 21+)',
     'settings.age.birthday': 'Dátum narodenia',
     'settings.age.usage': 'Tieto informácie zostanú súkromné. Zo zákona sme povinní zisťovať váš vek. Tieto údaje používame na analýzu platformy, zobrazovanie obsahu na základe hodnotenia a v anonymizovanej analýze pre tvorcov, keď čítate ich príbehy.',
     'settings.country.title': 'Vaša krajina',

@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': '最近文章',
     'blog.statsPage': '部落格統計',
     'blog.view': '檢視部落格',
+    'blog.literaryCommentary': '文學評論',
+    'blog.literaryCommentary.checkbox': '這是一篇文學評論',
+    'blog.literaryCommentary.description': '從您的圖書館中選擇一個故事或宇宙來提供文學評論：',
+    'blog.literaryCommentary.rating': '等級（選擇性）',
+    'blog.literaryCommentary.empty': '尚未提供文學評論。',
     'blog.settings.qa': '問與答',
     // Q&A Settings
     'blog.qa.settings.title': '問與答設定',

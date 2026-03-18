@@ -74,7 +74,7 @@ export default {
     'payment.option.create': 'नया भुगतान विकल्प जोड़ें',
     'payment.option.description': 'यहां आपकी सहेजी गई भुगतान विधियों की सूची है। आप यहां नए भुगतान विधियाँ सहेज सकते हैं जो तेजी से चेकआउट के लिए हों। Literary Universe क्रेडिट कार्ड नंबर जैसी भुगतान प्रमाणिता को संग्रहित नहीं करता है और प्रोसेस नहीं करता है।',
     'payment.history.title': 'भुगतान इतिहास',
-    'payment.history.tab': 'History',
+    'payment.history.tab': 'इतिहास',
     'payment.history.none': 'हमारे पास किसी भी पूर्व भुगतान के रिकॉर्ड नहीं हैं।',
     'plans.options.aria': 'भुगतान विकल्प',
     'plans.options.creditCard': 'क्रेडिट कार्ड',

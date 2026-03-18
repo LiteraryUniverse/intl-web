@@ -188,11 +188,11 @@ export default {
     'encyclopedia.cover': 'ਕਵਰ ਚਿੱਤਰ',
     'encyclopedia.translation.title': 'ਜੀ ਆਇਆਂ ਨੂੰ {universe} ਯੂਨੀਵਰਸ ਅਨੁਵਾਦ ਵਿੱਚ!',
     'encyclopedia.translation.desc': 'ਇਸ ਜਗਤ-ਕੋਸ਼ ਇੰਟਰਫੇਸ ਨੂੰ {language}ਵਿੱਚ ਅਨੁਵਾਦ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਮੌਜੂਦਾ ਦਾਖਲਾਂ ਨੂੰ ਦਾ ਚੁਣਨਾ ਪਸੰਦ ਕਰੋ।',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `ਇਸ ਬ੍ਰਹਿਮੰਡ ਵਿੱਚ {totalEntries, plural, 
+    zero {ਕੋਈ ਐਂਟਰੀਆਂ ਨਹੀਂ ਹਨ}
+    one {ਇੱਕ ਐਂਟਰੀ ਹੈ}
+    other {# ਐਂਟਰੀਆਂ ਹਨ}
+  }।`,
     'encyclopedia.settings.title': 'ਜਗਤ-ਕੋਸ਼ ਸੈਟਿੰਗਾਂ',
     'encyclopedia.settings.categoriesDesc': 'ਉਹ ਸ਼੍ਰੇਣੀਆਂ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰੋ ਜੋ ਤੁਸੀਂ ਆਪਣੇ ਜਗਤ-ਕੋਸ਼ ਵਿੱਚ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ।',
     'encyclopedia.settings.introText': 'ਯੂਨੀਵਰਸ ਵੇਰਵਾ ਤੋਂ ਬਾਅਦ ਦਿਸਾਈ ਜਾਣ ਵਾਲੀ ਸੁਆਗਤ ਸੁਨੇਹਾ।',

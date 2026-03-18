@@ -74,7 +74,7 @@ export default {
     'payment.option.create': 'नयाँ भुक्तानी विकल्प थप्नुहोस्',
     'payment.option.description': 'यहाँ तपाईंको संचित भुक्तानी विधिहरूको सूची छ। यहाँ तपाईं तपाईंको भुक्तानी विधिहरूलाई तपाईंको खातामा राख्न सक्नुहुन्छ जस्तै क्रेडिट कार्ड नम्बरको रूपमा लेख्ने नै लिटेररी यूनिभर्सलले तपाईंको भुक्तानी विधिहरूलाई संग्रह गर्दैन।',
     'payment.history.title': 'भुक्तानी इतिहास',
-    'payment.history.tab': 'History',
+    'payment.history.tab': 'इतिहास',
     'payment.history.none': 'हामीले कुनै पछिल्लो भुक्तानीको रेकर्डहरू छैनन्।',
     'plans.options.aria': 'भुक्तानी विकल्पहरू',
     'plans.options.creditCard': 'क्रेडिट कार्ड',

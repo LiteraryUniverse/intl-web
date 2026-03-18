@@ -20,7 +20,7 @@ export default {
     one {finns ett inlägg}
     other {finns # inlägg}
   } i den här bloggen.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Skriv ett nytt inlägg',
     'blog.post.update': 'Redigerar {title}',
     'blog.post.text': 'Inläggstext',
     'common.slug': 'SEO-vänlig adress',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Senaste inlägg',
     'blog.statsPage': 'Bloggstatistik',
     'blog.view': 'Visa blogg',
+    'blog.literaryCommentary': 'Litterär kommentar',
+    'blog.literaryCommentary.checkbox': 'Detta är en litterär kommentar',
+    'blog.literaryCommentary.description': 'Välj en berättelse eller ett universum från ditt bibliotek för att ge litterära kommentarer om:',
+    'blog.literaryCommentary.rating': 'Betyg (valfritt)',
+    'blog.literaryCommentary.empty': 'Ingen litterär kommentar tillgänglig ännu.',
     'blog.settings.qa': 'FRÅGOR OCH SVAR',
     // Q&A Settings
     'blog.qa.settings.title': 'Frågor och svar Inställningar',

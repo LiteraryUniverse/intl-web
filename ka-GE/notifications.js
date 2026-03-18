@@ -88,7 +88,7 @@ export default {
   'notificationExtra.workshopStoryStatus.goToStory': 'გადასვლა სიმასთლეზე',
   'notificationExtra.fanClub.manage': 'Manage fan club',
   // UI strings for enhanced notifications
-  'notifications.menu.community': 'Community',
+  'notifications.menu.community': 'საზოგადოება',
   'notifications.menu.reading': 'Reading & Library',
   'notifications.menu.system': 'System',
   'notifications.empty': 'You are all set! Nothing new here.',

@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Recommended stories',
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
-    'discover.search.templateUniverses': 'Chỉ hiển thị các vũ trụ mẫu (bách khoa toàn thư có thể sao chép)'
+    'discover.search.templateUniverses': 'Chỉ hiển thị các vũ trụ mẫu (bách khoa toàn thư có thể sao chép)',
+    'discover.ratingExplained': 'Điểm đánh giá trung bình {avgRating, number} từ bài đánh giá {reviewsNum, number}'
 };

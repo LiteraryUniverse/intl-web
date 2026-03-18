@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days}日早く: {tiers} — ファンは{date, date, short}の{date, time}にアクセス可能',
     'writer.initialLetter': '最初の段落の手紙',
     'writer.ruby': 'ルビー',
-    'writer.ruby.placeholder': '読みを入力（例： かんじ）'
+    'writer.ruby.placeholder': '読みを入力（例： かんじ）',
+    'writer.linkToWork': '宇宙、物語、章へのリンク',
+    'writer.insertWorkCard': 'ストーリーまたはユニバース・カードを挿入'
 };

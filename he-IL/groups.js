@@ -15,12 +15,12 @@ export default {
     'groups.logo.help': 'תמונה מרובעת, מומלץ בגודל 200x200px או יותר',
     'groups.banner.label': 'באנר קבוצתי',
     'groups.banner.help': 'תמונה רחבה לבאנר, מומלץ בגודל 1200x675px (יחס 16:9)',
-    'groups.members': 'Members',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members': 'חברים',
+    'groups.members.total': `אין חברים בקבוצה זו {totalMembers, plural,
+    zero {יש חבר אחד}
+    one {יש # חברים}
+    other {בקבוצה זו}
+  }`,
     'groups.leaveGroup': 'עזוב קבוצה',
     'groups.leaveGroup.confirm': 'רק כדי לוודא. האם אתה בטוח שברצונך לעזוב {groupName}?',
     'group.settings': 'הגדרות הקבוצה',
@@ -34,6 +34,20 @@ export default {
     'groups.join.questionDefault': 'למה עליך לקבל הרשאה להצטרף?',
     'groups.join.pendingRequest': 'הבקשה שלך להצטרף לקבוצה זו ממתינה לאישור מנהלי הקבוצה.',
     'groups.join.requesting': 'מבקש להצטרף',
+    'groups.writingLeaderboard.title': 'Writing leaderboard',
+    'groups.writingLeaderboard.description': 'See how group members compare by recent writing output.',
+    'groups.writingLeaderboard.period.daily': 'Daily',
+    'groups.writingLeaderboard.period.weekly': 'Weekly',
+    'groups.writingLeaderboard.period.monthly': 'Monthly',
+    'groups.writingLeaderboard.period.yearly': 'Yearly',
+    'groups.writingLeaderboard.wordsValue': '{count} words',
+    'groups.writingLeaderboard.secondaryValue': '{characters} characters · {sessions} sessions',
+    'groups.writingLeaderboard.rank': 'Rank',
+    'groups.writingLeaderboard.member': 'Member',
+    'groups.writingLeaderboard.output': 'Output',
+    'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+    'groups.writingLeaderboard.display': 'Display writing leaderboard to members',
+    'groups.writingLeaderboard.displayHelp': 'When enabled, group members can compare recent writing activity on the members page.',
     'groups.invite.btn': 'הזמן לקבוצה',
     'groups.invite.modalAria': 'הזמן משתמשים לדיאלוג של הקבוצה',
     'groups.invite.send': 'שלח הזמנה',

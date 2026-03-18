@@ -15,12 +15,12 @@ export default {
     'blog.description': 'ბლოგის შესავალი',
     'blog.theme': 'თემა',
     'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.posts.total': `აქ {total, plural,
+    zero {არ არის პოსტები}
+    one {არის ერთი პოსტი}
+    other {არის # პოსტი}
+  } ამ ბლოგში.`,
+    'blog.post.create': 'დაწერეთ ახალი პოსტი',
     'blog.post.update': 'პოსტის რედაქტირება {title}',
     'blog.post.text': 'პოსტის ტექსტი',
     'common.slug': 'SEO მეგობრებული ბმული',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ბოლო პოსტები',
     'blog.statsPage': 'ბლოგის სტატისტიკა',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'ლიტერატურული კომენტარი',
+    'blog.literaryCommentary.checkbox': 'ეს არის ლიტერატურული კომენტარი',
+    'blog.literaryCommentary.description': 'თქვენი ბიბლიოთეკიდან შეარჩიეთ ნაწარმოები ან სამყარო ლიტერატურული კომენტარის მისათითებლად:',
+    'blog.literaryCommentary.rating': 'რეიტინგი (არასავალდებულო)',
+    'blog.literaryCommentary.empty': 'ლიტერატურული კომენტარი ჯერ ხელმისაწვდომი არ არის.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
@@ -119,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'კითხვები',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',
@@ -132,8 +137,8 @@ export default {
     'blog.qa.status.ignored': 'Ignored',
     'blog.qa.status.private': 'Private Answer',
     'blog.qa.status.public': 'Public Answer',
-    'blog.qa.role.reader': 'Reader',
-    'blog.qa.role.author': 'Author',
+    'blog.qa.role.reader': 'მკითხველი',
+    'blog.qa.role.author': 'ავტორი',
     'blog.qa.pinned': 'Pinned',
     'blog.qa.answeredAgo': 'Answered {time}',
     'blog.qa.loadMore': 'Load more',

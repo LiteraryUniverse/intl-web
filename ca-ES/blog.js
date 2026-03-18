@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Entrades recents',
     'blog.statsPage': 'Estadístiques del blog',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Comentari literari',
+    'blog.literaryCommentary.checkbox': 'Això és un comentari literari',
+    'blog.literaryCommentary.description': 'Seleccioneu una història o un univers de la vostra biblioteca per fer-ne un comentari literari:',
+    'blog.literaryCommentary.rating': 'Puntuació (opcional)',
+    'blog.literaryCommentary.empty': 'Encara no hi ha cap comentari literari disponible.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',

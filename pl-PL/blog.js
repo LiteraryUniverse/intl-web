@@ -21,7 +21,7 @@ export default {
     many {znajduje się # wpisów}
     other {znajduje się # wpisów}
   }.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Proszę napisać nowy post',
     'blog.post.update': 'Edytowanie {title}',
     'blog.post.text': 'Tekst wpisu',
     'common.slug': 'Adres przyjazny pozycjonowaniu',
@@ -57,6 +57,11 @@ export default {
     'blog.posts.recent': 'Najnowsze posty',
     'blog.statsPage': 'Statystyki bloga',
     'blog.view': 'Wyświetl blog',
+    'blog.literaryCommentary': 'Komentarz literacki',
+    'blog.literaryCommentary.checkbox': 'To jest komentarz literacki',
+    'blog.literaryCommentary.description': 'Proszę wybrać opowiadanie lub uniwersum ze swojej biblioteki, aby przedstawić komentarz literacki:',
+    'blog.literaryCommentary.rating': 'Ocena (opcjonalnie)',
+    'blog.literaryCommentary.empty': 'Komentarz literacki nie jest jeszcze dostępny.',
     'blog.settings.qa': 'PYTANIA I ODPOWIEDZI',
     // Q&A Settings
     'blog.qa.settings.title': 'Ustawienia pytań i odpowiedzi',

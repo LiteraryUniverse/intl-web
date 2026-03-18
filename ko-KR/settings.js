@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': '당신의 성별',
     'settings.gender.usage': '이 정보는 비공개로 유지됩니다. 이 데이터는 플랫폼 분석 및 익명화된 분석을 통해 창작자가 이야기를 읽을 때 참고할 수 있습니다.',
     'settings.age.title': '나이',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': '선정적인 콘텐츠 표시(연령 등급 21세 이상)',
     'settings.age.birthday': '생년월일',
     'settings.age.usage': '이 정보는 비공개로 유지됩니다. 우리는 법적으로 당신의 나이를 알아야 합니다. 이 데이터는 플랫폼 분석, 등급에 따른 콘텐츠 표시 및 익명화된 분석을 통해 창작자가 이야기를 읽을 때 참고할 수 있습니다.',
     'settings.country.title': '국가',

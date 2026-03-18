@@ -1,10 +1,10 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਸਮੇਂ {type, select,
+    organization {ਕੋਈ ਬਲੌਗ ਨਹੀਂ}
+    universe {ਤੁਹਾਡੇ ਬ੍ਰਹਿਮੰਡ ਲਈ ਇੱਕ ਬਲੌਗ}
+    user {ਇੱਕ ਬਲੌਗ}
     other {}
-  }.`,
+  } ਨਹੀਂ ਹੈ।`,
     'blog.create': 'ਇੱਕ ਨਵਾਂ ਬਲਾਗ ਬਣਾਓ',
     'blog.settings': `{type, select,
     org {ਬਲਾਗ}
@@ -15,12 +15,12 @@ export default {
     'blog.description': 'ਬਲਾਗ ਦਾ ਪਰਿਚਯ',
     'blog.theme': 'ਥੀਮ',
     'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.posts.total': `ਇਸ ਬਲੌਗ ਵਿੱਚ {total, plural,
+    zero {ਕੋਈ ਪੋਸਟ ਨਹੀਂ ਹੈ}
+    one {ਇੱਕ ਪੋਸਟ ਹੈ}
+    other {# ਪੋਸਟ ਹਨ}
+  }।`,
+    'blog.post.create': 'ਇੱਕ ਨਵੀਂ ਪੋਸਟ ਲਿਖੋ',
     'blog.post.update': '{title}ਸੋਧ ਰਹੇ ਹਨ',
     'blog.post.text': 'ਪੋਸਟ ਟੈਕਸਟ',
     'common.slug': 'SEO ਯੋਗ ਪ੍ਰਮਾਣਿਕ ਐਡਰੈੱਸ',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ਤਾਜ਼ਾ ਪੋਸਟ',
     'blog.statsPage': 'ਬਲੌਗ ਸਟੈਟਿਸਟਿਕਸ',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'ਸਾਹਿਤਕ ਟਿੱਪਣੀ',
+    'blog.literaryCommentary.checkbox': 'ਇਹ ਇੱਕ ਸਾਹਿਤਕ ਟਿੱਪਣੀ ਹੈ।',
+    'blog.literaryCommentary.description': 'ਸਾਹਿਤਕ ਟਿੱਪਣੀ ਕਰਨ ਲਈ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚੋਂ ਇੱਕ ਕਹਾਣੀ ਜਾਂ ਬ੍ਰਹਿਮੰਡ ਚੁਣੋ:',
+    'blog.literaryCommentary.rating': 'ਰੇਟਿੰਗ (ਵਿਕਲਪਿਕ)',
+    'blog.literaryCommentary.empty': 'ਅਜੇ ਤੱਕ ਕੋਈ ਸਾਹਿਤਕ ਟਿੱਪਣੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',
@@ -119,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'ਸਵਾਲ',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',
@@ -132,8 +137,8 @@ export default {
     'blog.qa.status.ignored': 'Ignored',
     'blog.qa.status.private': 'Private Answer',
     'blog.qa.status.public': 'Public Answer',
-    'blog.qa.role.reader': 'Reader',
-    'blog.qa.role.author': 'Author',
+    'blog.qa.role.reader': 'ਪਾਠਕ',
+    'blog.qa.role.author': 'ਲੇਖਕ',
     'blog.qa.pinned': 'Pinned',
     'blog.qa.answeredAgo': 'Answered {time}',
     'blog.qa.loadMore': 'Load more',

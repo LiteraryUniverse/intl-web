@@ -18,14 +18,14 @@ export default {
     'email.footer.settingsHtml': 'ניתן לשנות את הגדרות הדוא"ל <link>בהגדרות החשבון</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'ברוך הבא לסירוב!',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'אנו שמחים להזמין אתכם ל-Literary Universe! הכנו עבורכם חשבון אישי, שבו תוכלו ליהנות מכל התכונות של Literary Universe. הצטרפו אלינו ליצירת הדור הבא של הכתיבה והקריאה היצירתית!',
     'email.enrollAccount.button': 'גש לחשבון שלך',
     'email.enrollAccount.signature': 'אנו מצפים לראותכם,<br>צוות Literary Universe</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'קיבלנו בקשה לאפס את הסיסמה לחשבונך. אנא לחץ על הכפתור שלמטה כדי להמשיך בתהליך. אם לא שלחת בקשה זו, תוכל להתעלם מהודעת דוא"ל זו, אך ייתכן שזהו זמן טוב לבדוק את הגדרות האבטחה שלך.',
     'email.resetPassword.button': 'איפוס סיסמה',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'אנו שמחים על הצטרפותך! אנא לחץ על הכפתור שלמטה כדי לאמת את כתובת הדוא"ל הזו.',
     'email.verifyEmail.button': 'אמת כתובת דוא"ל זו',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'חשבונך עודכן',

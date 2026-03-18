@@ -11,16 +11,16 @@ export default {
   'readingList.edit.aria': 'ਪੜ੍ਹਨ ਲਿਸਟ ਦੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧਣ ਲਈ ਮੋਡਲ',
   'readingList.library.title': 'ਤੁਹਾਡੀਆਂ ਪੜ੍ਹਨ ਲਿਸਟਾਂ',
   'readingList.public.label': 'ਜਨਤਕ ਤੌਰ ਤੇ ਦਿੱਖਣਯੋਗ?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.addItem': `ਸ਼ਾਮਲ ਕਰੋ {type, select,
+    universes {ਬ੍ਰਹਿਮੰਡ}
+    stories {ਕਹਾਣੀ}
+    other {ਕਹਾਣੀਆਂ ਅਤੇ ਬ੍ਰਹਿਮੰਡ}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
+  'readingList.addItem.modalAria': `ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਮੋਡਲ {type, select,
+    universes {ਬ੍ਰਹਿਮੰਡ}
+    stories {ਕਹਾਣੀਆਂ}
+    other {ਕਹਾਣੀਆਂ ਅਤੇ ਬ੍ਰਹਿਮੰਡ}
+  } ।`,
   'readingList.addItem.fromLibrary': 'ਲਾਇਬ੍ਰੇਰੀ ਤੋਂ',
   'readingList.addItem.yourOwn': `Your own {type, select,
     universes {universes}

@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} 며칠 일찍: {tiers} - 팬들은 {date, date, short} 에서 {date, time}에 접속할 수 있습니다.',
     'writer.initialLetter': '초기 단락 문자',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': '읽기 입력(예: かんじ)'
+    'writer.ruby.placeholder': '읽기 입력(예: かんじ)',
+    'writer.linkToWork': '유니버스, 스토리 또는 챕터로 링크',
+    'writer.insertWorkCard': '스토리 또는 유니버스 카드 삽입'
 };

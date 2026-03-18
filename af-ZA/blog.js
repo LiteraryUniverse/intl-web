@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Onlangse plasings',
     'blog.statsPage': 'Blog statistieke',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Letterkundige kommentaar',
+    'blog.literaryCommentary.checkbox': 'Dit is \'n literêre kommentaar.',
+    'blog.literaryCommentary.description': 'Kies \'n verhaal of heelal uit jou biblioteek om literêre kommentaar te lewer op:',
+    'blog.literaryCommentary.rating': 'Beoordeling (opsioneel)',
+    'blog.literaryCommentary.empty': 'Geen literêre kommentaar nog beskikbaar nie.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',

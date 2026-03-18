@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} päeva varem: {tiers} - fännid pääsevad sisse {date, date, short} aadressil {date, time}',
     'writer.initialLetter': 'Esialgse lõigu kiri',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Sisestage lugemine (nt かんじ)'
+    'writer.ruby.placeholder': 'Sisestage lugemine (nt かんじ)',
+    'writer.linkToWork': 'Link universumi, loo või peatükiga',
+    'writer.insertWorkCard': 'Sisesta lugu või universumi kaart'
 };

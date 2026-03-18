@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Postări recente',
     'blog.statsPage': 'Statistici blog',
     'blog.view': 'Vezi blogul',
+    'blog.literaryCommentary': 'Comentariu literar',
+    'blog.literaryCommentary.checkbox': 'Acesta este un comentariu literar',
+    'blog.literaryCommentary.description': 'Selectați o poveste sau un univers din biblioteca dvs. pentru a oferi un comentariu literar:',
+    'blog.literaryCommentary.rating': 'Rating (opțional)',
+    'blog.literaryCommentary.empty': 'Încă nu sunt disponibile comentarii literare.',
     'blog.settings.qa': 'ÎNTREBĂRI ȘI RĂSPUNSURI',
     // Q&A Settings
     'blog.qa.settings.title': 'Setări Q&A',

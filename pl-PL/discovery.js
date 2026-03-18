@@ -88,5 +88,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Polecane historie',
     'discovery.recommendations.recommendationsExplained': 'Te historie są polecane na podstawie naszego silnika rekomendacji. Wykorzystuje on uczenie maszynowe, aby polecać Państwu historie.',
     'discovery.recommendations.recommendationsSettings': 'Można to wyłączyć w ustawieniach.',
-    'discover.search.templateUniverses': 'Pokazuje tylko szablony wszechświatów (encyklopedie z możliwością kopiowania)'
+    'discover.search.templateUniverses': 'Pokazuje tylko szablony wszechświatów (encyklopedie z możliwością kopiowania)',
+    'discover.ratingExplained': 'Średnia ocena {avgRating, number} z {reviewsNum, number} recenzji'
 };

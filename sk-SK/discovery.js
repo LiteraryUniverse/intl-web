@@ -88,5 +88,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Odporúčané príbehy',
     'discovery.recommendations.recommendationsExplained': 'Tieto príbehy sú odporúčané na základe našich odporúčaní. Ten využíva strojové učenie na odporúčanie príbehov pre vás.',
     'discovery.recommendations.recommendationsSettings': 'Túto funkciu môžete vypnúť v nastaveniach.',
-    'discover.search.templateUniverses': 'Zobraziť len šablóny vesmírov (kopírovateľné encyklopédie)'
+    'discover.search.templateUniverses': 'Zobraziť len šablóny vesmírov (kopírovateľné encyklopédie)',
+    'discover.ratingExplained': 'Priemerné hodnotenie {avgRating, number} od {reviewsNum, number} recenzia'
 };

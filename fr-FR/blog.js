@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Publications récentes',
     'blog.statsPage': 'Statistiques du blog',
     'blog.view': 'Voir le blog',
+    'blog.literaryCommentary': 'Commentaire littéraire',
+    'blog.literaryCommentary.checkbox': 'Il s\'agit d\'un commentaire littéraire',
+    'blog.literaryCommentary.description': 'Sélectionnez une histoire ou un univers dans votre bibliothèque pour en faire un commentaire littéraire :',
+    'blog.literaryCommentary.rating': 'Classement (facultatif)',
+    'blog.literaryCommentary.empty': 'Aucun commentaire littéraire n\'est encore disponible.',
     'blog.settings.qa': 'Q&R',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&R Paramètres',

@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Dit køn',
     'settings.gender.usage': 'Disse oplysninger vil forblive private. Vi bruger disse data til platformsanalyse og til anonymiseret analyse til skabere, når du læser deres historier.',
     'settings.age.title': 'Din alder',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Vis eksplicit indhold (aldersgrænse 21+)',
     'settings.age.birthday': 'Fødselsdato',
     'settings.age.usage': 'Disse oplysninger vil forblive private. Vi er juridisk forpligtet til at spørge om din alder. Vi bruger disse data til platformsanalyse, visning af indhold baseret på aldersgrænser og til anonymiseret analyse til skabere, når du læser deres historier.',
     'settings.country.title': 'Dit land',

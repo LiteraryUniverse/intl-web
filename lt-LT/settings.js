@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Jūsų lytis',
     'settings.gender.usage': 'Ši informacija liks privati. Mes naudojame šiuos duomenis platformos analitikai ir anonimizuotai analizei kūrėjams, kai jūs skaitote jų pasakojimus.',
     'settings.age.title': 'Jūsų amžius',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Rodyti atvirą turinį (amžiaus cenzas 21+)',
     'settings.age.birthday': 'Gimimo data',
     'settings.age.usage': 'Ši informacija liks privati. Mes esame teisiškai įpareigoti paklausti apie jūsų amžių. Mes naudojame šiuos duomenis platformos analitikai, rodyti turinį pagal reitingus ir anonimizuotai analizei kūrėjams, kai jūs skaitote jų pasakojimus.',
     'settings.country.title': 'Jūsų šalis',

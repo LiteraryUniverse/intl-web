@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} ημέρες νωρίτερα: {tiers} - οι οπαδοί αποκτούν πρόσβαση στις {date, date, short} στις {date, time}',
     'writer.initialLetter': 'Επιστολή αρχικής παραγράφου',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Εισάγετε την ένδειξη (π.χ. かんじ)'
+    'writer.ruby.placeholder': 'Εισάγετε την ένδειξη (π.χ. かんじ)',
+    'writer.linkToWork': 'Σύνδεση με ένα σύμπαν, μια ιστορία ή ένα κεφάλαιο',
+    'writer.insertWorkCard': 'Εισάγετε κάρτα ιστορίας ή σύμπαντος'
 };

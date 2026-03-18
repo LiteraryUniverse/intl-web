@@ -19,7 +19,7 @@ export default {
     one {is één bericht}
     other {zijn # berichten}
   } in deze blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Een nieuw bericht schrijven',
     'blog.post.update': 'Bewerken van {title}',
     'blog.post.text': 'Berichttekst',
     'common.slug': 'SEO-vriendelijk adres',
@@ -55,6 +55,11 @@ export default {
     'blog.posts.recent': 'Recente berichten',
     'blog.statsPage': 'Blog statistieken',
     'blog.view': 'Bekijk blog',
+    'blog.literaryCommentary': 'Literair Commentaar',
+    'blog.literaryCommentary.checkbox': 'Dit is een literair commentaar',
+    'blog.literaryCommentary.description': 'Kies een verhaal of universum uit uw bibliotheek om literair commentaar op te geven:',
+    'blog.literaryCommentary.rating': 'Beoordeling (optioneel)',
+    'blog.literaryCommentary.empty': 'Er is nog geen literair commentaar beschikbaar.',
     'blog.settings.qa': 'V&A',
     // Q&A Settings
     'blog.qa.settings.title': 'V&A Instellingen',

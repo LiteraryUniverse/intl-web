@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Viimased postitused',
     'blog.statsPage': 'Blogi statistika',
     'blog.view': 'Vaata blogi',
+    'blog.literaryCommentary': 'Kirjanduslik kommentaar',
+    'blog.literaryCommentary.checkbox': 'See on kirjanduslik kommentaar',
+    'blog.literaryCommentary.description': 'Valige oma raamatukogust üks lugu või universum, mille kohta saate anda kirjandusliku kommentaari:',
+    'blog.literaryCommentary.rating': 'Hindamine (vabatahtlik)',
+    'blog.literaryCommentary.empty': 'Kirjanduslikud kommentaarid puuduvad veel.',
     'blog.settings.qa': 'KÜSIMUSED JA VASTUSED',
     // Q&A Settings
     'blog.qa.settings.title': 'Küsimused ja vastused Seaded',

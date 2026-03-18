@@ -20,7 +20,7 @@ export default {
     one {μια ανάρτηση}
     other {# αναρτήσεις}
   } σε αυτό το blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Γράψτε μια νέα ανάρτηση',
     'blog.post.update': 'Επεξεργασία {title}',
     'blog.post.text': 'Κείμενο ανάρτησης',
     'common.slug': 'Φιλική προς το SEO διεύθυνση',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Πρόσφατες αναρτήσεις',
     'blog.statsPage': 'Στατιστικά ιστολογίου',
     'blog.view': 'Προβολή ιστολογίου',
+    'blog.literaryCommentary': 'Λογοτεχνικό σχόλιο',
+    'blog.literaryCommentary.checkbox': 'Αυτό είναι ένα λογοτεχνικό σχόλιο',
+    'blog.literaryCommentary.description': 'Επιλέξτε μια ιστορία ή ένα σύμπαν από τη βιβλιοθήκη σας για να σχολιάσετε λογοτεχνικά:',
+    'blog.literaryCommentary.rating': 'Αξιολόγηση (προαιρετική)',
+    'blog.literaryCommentary.empty': 'Δεν υπάρχει ακόμη διαθέσιμος λογοτεχνικός σχολιασμός.',
     'blog.settings.qa': 'ΕΡΩΤΉΣΕΙΣ ΚΑΙ ΑΠΑΝΤΉΣΕΙΣ',
     // Q&A Settings
     'blog.qa.settings.title': 'Ρυθμίσεις Q&A',

@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Continue reading',
     'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Voer asseblief soekterme in of pas filters toe.',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

@@ -57,7 +57,7 @@ export default {
   } atá á gcruthú?`,
     'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
-    'feedback.help.courses': 'Courses',
+    'feedback.help.courses': 'Cúrsaí',
     'feedback.help.videoTutorials': 'Video tutorials',
     'feedback.help.featuredArticles': 'Featured Articles',
     'feedback.help.featuredCourses': 'Featured Courses',

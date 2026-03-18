@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'पढ़ना जारी रखें',
     'bookmark.statusSummary': 'तपाईंले कथा को {readPercent, number, ::percent} पढ़ेको छ।',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'कृपया खोज शब्द दर्ज करू वा फिल्टर लागू करू',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

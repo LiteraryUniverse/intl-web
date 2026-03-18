@@ -20,7 +20,7 @@ export default {
     one {Existem uma publicação}
     other {Existem # publicações}
   } neste blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Escreva uma nova mensagem',
     'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Postar texto',
     'common.slug': 'Endereço SEO amigável',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Postagens recentes',
     'blog.statsPage': 'Estatísticas do blog',
     'blog.view': 'Ver blogue',
+    'blog.literaryCommentary': 'Comentário literário',
+    'blog.literaryCommentary.checkbox': 'Trata-se de um comentário literário',
+    'blog.literaryCommentary.description': 'Selecione uma história ou um universo da sua biblioteca para fazer um comentário literário:',
+    'blog.literaryCommentary.rating': 'Classificação (opcional)',
+    'blog.literaryCommentary.empty': 'Ainda não há comentários literários disponíveis.',
     'blog.settings.qa': 'PERGUNTAS E RESPOSTAS',
     // Q&A Settings
     'blog.qa.settings.title': 'P&R Definições',

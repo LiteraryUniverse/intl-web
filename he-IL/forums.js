@@ -16,7 +16,7 @@ export default {
   // Pre-defined category names
   'forums.category.intlName.general': 'כללי',
   'forums.category.intlName.help': 'עזרה',
-  'forums.category.intlName.history': 'History',
+  'forums.category.intlName.history': 'היסטוריה',
   'forums.category.intlName.inspiration': 'השראה',
   'forums.category.intlName.locations': 'מיקומים',
   'forums.category.intlName.meetups': 'מפגשים',

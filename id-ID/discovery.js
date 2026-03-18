@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Cerita yang direkomendasikan',
     'discovery.recommendations.recommendationsExplained': 'Cerita-cerita ini direkomendasikan berdasarkan mesin rekomendasi kami. Yang menggunakan pembelajaran mesin untuk merekomendasikan cerita untuk Anda.',
     'discovery.recommendations.recommendationsSettings': 'Anda dapat menonaktifkan ini di Pengaturan Anda.',
-    'discover.search.templateUniverses': 'Tampilkan hanya template semesta (ensiklopedia yang dapat disalin)'
+    'discover.search.templateUniverses': 'Tampilkan hanya template semesta (ensiklopedia yang dapat disalin)',
+    'discover.ratingExplained': 'Peringkat rata-rata dari {avgRating, number} dari {reviewsNum, number} review'
 };

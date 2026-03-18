@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Legi plu',
     'bookmark.statusSummary': 'Vi legis {readPercent, number, ::percent} de la rakonto.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Bonvolu enigi serĉajn terminojn aŭ apliki filtrilojn.',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };
