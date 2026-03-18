@@ -40,7 +40,7 @@ export default {
   'events.create.title': 'สร้างกิจกรรมใหม่',
   'events.hostedBy': 'จัดขึ้นโดย {hostName}',
   'events.openVirtual': 'ไปยังตำแหน่งเสมือน',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'ข้อมูลเพิ่มเติม',
   'event.visibilityShort.private': 'ส่วนตัว',
   'event.visibilityShort.public': 'สาธารณะ',
   'event.visibilityShort.owner': 'เจ้าของ'
