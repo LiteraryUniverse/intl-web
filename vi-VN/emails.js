@@ -18,23 +18,23 @@ export default {
     'email.footer.settingsHtml': 'Bạn có thể thay đổi cài đặt email của mình trong <link>phần cài đặt tài khoản</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Chào mừng bạn đã gia nhập',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'Chúng tôi xin trân trọng mời bạn tham gia Literary Universe! Chúng tôi đã tạo sẵn một tài khoản cá nhân cho bạn, qua đó bạn có thể truy cập tất cả các tính năng của Literary Universe. Hãy cùng chúng tôi góp phần xây dựng thế hệ mới của văn học sáng tạo và văn hóa đọc!',
     'email.enrollAccount.button': 'Truy cập tài khoản của bạn',
     'email.enrollAccount.signature': 'Chúng tôi rất mong được gặp bạn,<br>Đội ngũ Literary Universe</br>.',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'Chúng tôi đã nhận được yêu cầu đặt lại mật khẩu cho tài khoản của bạn. Vui lòng nhấp vào nút bên dưới để tiếp tục quy trình. Nếu bạn không phải là người gửi yêu cầu này, bạn có thể bỏ qua email này, nhưng đây có thể là thời điểm thích hợp để kiểm tra lại các cài đặt bảo mật của bạn.',
     'email.resetPassword.button': 'Đặt lại mật khẩu',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'Chúng tôi rất vui mừng chào đón bạn! Vui lòng nhấp vào nút bên dưới để xác minh địa chỉ email này.',
     'email.verifyEmail.button': 'Xác minh địa chỉ email này',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Tài khoản của bạn đã được nâng cấp',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.message': `Chúng tôi đã nâng cấp tài khoản của bạn lên các cấp độ sau: {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } trong vòng {days} ngày tới.\n\nChúc bạn tận hưởng,\nĐội ngũ Literary Universe`,
     'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
