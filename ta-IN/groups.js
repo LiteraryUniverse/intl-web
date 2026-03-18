@@ -16,11 +16,11 @@ export default {
     'groups.banner.label': 'Group Banner',
     'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'உறுப்பினர்கள்',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `அங்கு {totalMembers, plural,
+    zero {உறுப்பினர்கள் இல்லை}
+    one {ஒரு உறுப்பினர்}
+    other {# உறுப்பினர்கள்}
+  } இந்தக் குழுவில்`,
     'groups.leaveGroup': 'குழுவில் விடுபடு',
     'groups.leaveGroup.confirm': 'உறுப்பினராக விட வேண்டும் என்று உறுதியளிக்கவும் {groupName}?',
     'group.settings': 'குழு அமைப்புகள்',
@@ -33,17 +33,31 @@ export default {
     'groups.join.closedAria': 'மூடப்பட்ட குழுவில் சேர வேண்டும் பதிவு படிவம்',
     'groups.join.questionDefault': 'நீங்கள் ஏன் சேர அனுமதி பெற வேண்டும்?',
     'groups.join.pendingRequest': 'இந்த குழுவில் சேர்க்க உங்கள் கேள்வி குழு நிர்வாகிகளின் ஒப்பம் காத்திருக்கிறது.',
-    'groups.join.requesting': 'Requesting to join',
-    'groups.invite.btn': 'Invite to group',
-    'groups.invite.modalAria': 'Invite users to group dialog',
-    'groups.invite.send': 'Send invite',
-    'groups.invite.label': 'Find user to invite',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
+    'groups.join.requesting': 'சேரக் கோருகிறேன்',
+    'groups.writingLeaderboard.title': 'Writing leaderboard',
+    'groups.writingLeaderboard.description': 'See how group members compare by recent writing output.',
+    'groups.writingLeaderboard.period.daily': 'Daily',
+    'groups.writingLeaderboard.period.weekly': 'Weekly',
+    'groups.writingLeaderboard.period.monthly': 'Monthly',
+    'groups.writingLeaderboard.period.yearly': 'Yearly',
+    'groups.writingLeaderboard.wordsValue': '{count} words',
+    'groups.writingLeaderboard.secondaryValue': '{characters} characters · {sessions} sessions',
+    'groups.writingLeaderboard.rank': 'Rank',
+    'groups.writingLeaderboard.member': 'Member',
+    'groups.writingLeaderboard.output': 'Output',
+    'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+    'groups.writingLeaderboard.display': 'Display writing leaderboard to members',
+    'groups.writingLeaderboard.displayHelp': 'When enabled, group members can compare recent writing activity on the members page.',
+    'groups.invite.btn': 'குழுவுக்கு அழைப்பு',
+    'groups.invite.modalAria': 'பயனர்களைக் குழு உரையாடலுக்கு அழைக்கவும்',
+    'groups.invite.send': 'அழைப்பிதழை அனுப்புங்கள்',
+    'groups.invite.label': 'அழைக்கப் பயனரைக் கண்டறியுங்கள்',
+    'groups.invite.tileMsg': `உங்களிடம் {count, plural,
+    other {# குழு அழைப்புகள்}
   }`,
-    'groups.invites.title': 'Group invitations',
-    'group.invite.accept': 'Accept invite',
-    'group.noticeBoard': 'Notice board',
+    'groups.invites.title': 'குழு அழைப்புகள்',
+    'group.invite.accept': 'அழைப்பை ஏற்றுக்கொள்',
+    'group.noticeBoard': 'அறிவிப்புப் பலகை',
     'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
     'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
     'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
