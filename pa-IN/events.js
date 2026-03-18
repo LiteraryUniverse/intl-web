@@ -27,12 +27,12 @@ export default {
   'events.origin.lu': 'ਸਾਹਿਤ ਯੂਨੀਵਰਸ ਘਟਨਾਵਾਂ',
   'events.visibility.label': 'ਇਵੈਂਟ ਦੀ ਦ੍ਰਿਸ਼ਟੀਕਰਤਾ',
   'events.visibility.public': 'ਜਨਤਕ - ਇਸ ਘਟਨਾਵਾਂ ਨੂੰ ਕੋਈ ਵੀ ਦੇਖ ਸਕਦਾ ਹੈ',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
+  'events.visibility.owner': `ਮਾਲਕ - ਸਿਰਫ {type, select,
+    group {ਤੁਹਾਡੇ ਗਰੁੱਪ ਦੇ ਮੈਂਬਰ}
+    universe {ਬ੍ਰਹਿਮੰਡ ਦੇ ਸਹਿਯੋਗੀ ਅਤੇ ਪ੍ਰਸ਼ੰਸਕ}
+    organization {ਤੁਹਾਡੀ ਸੰਸਥਾ ਦੇ ਮੈਂਬਰ}
+    other {ਤੁਸੀਂ ਅਤੇ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਸੱਦਾ ਦਿੰਦੇ ਹੋ}
+  } ਇਹ ਸਮਾਗਮ ਦੇਖ ਸਕਦੇ ਹਨ`,
   'events.visibility.private': 'ਨਿੱਜੀ - ਸਿਰਫ ਤੁਸੀਂ ਆਮੰਤਰਿਤ ਕੀਤੇ ਲੋਕਾਂ ਨੂੰ ਘਟਨਾ ਦੇਖਣ ਦਾ ਹੱਕ ਹੈ',
   'events.inviting': 'ਕੀ ਲੋਕ ਜੋ ਇਹ ਇਵੈਂਟ ਵੇਖਦੇ ਹਨ ਉਨ੍ਹਾਂ ਨੂੰ ਹੋਰ ਲੋਕ ਨੂੰ ਆਮੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਨ?',
   'events.administration': 'ਇਵੈਂਟ ਪ੍ਰਬੰਧਨ',
@@ -40,7 +40,7 @@ export default {
   'events.create.title': 'ਨਵਾਂ ਇਵੈਂਟ ਬਣਾਓ',
   'events.hostedBy': 'ਦੁਆਰਾ ਆਯੋਜਿਤ {hostName}',
   'events.openVirtual': 'ਵਰਚੁਅਲ ਥਾਂ ਉੱਤੇ ਜਾਓ',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'ਹੋਰ ਜਾਣਕਾਰੀ',
   'event.visibilityShort.private': 'ਪ੍ਰਾਈਵੇਟ',
   'event.visibilityShort.public': 'ਪਬਲਿਕ',
   'event.visibilityShort.owner': 'ਮਾਲਕ'
