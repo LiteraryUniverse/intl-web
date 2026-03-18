@@ -18,14 +18,14 @@ export default {
     'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'வரவேற்புக்கு வரவேற்பு',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'உங்களை \'லிட்டரரி யுனிவர்ஸ்\'ஸுக்கு அழைக்க விரும்புகிறோம்! உங்களுக்காக ஒரு தனிப்பட்ட கணக்கை நாங்கள் உருவாக்கியுள்ளோம், அதன் மூலம் \'லிட்டரரி யுனிவர்ஸ்\'-இன் அனைத்து அம்சங்களையும் நீங்கள் அணுகலாம். படைப்பாற்றல் மிக்க எழுத்து மற்றும் வாசிப்பின் அடுத்த தலைமுறையை உருவாக்க எங்களுடன் இணையுங்கள்!',
     'email.enrollAccount.button': 'உங்கள் கணக்குக்கு அணுகுக',
     'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'உங்கள் கணக்கிற்கான கடவுச்சொல்லை மீட்டமைக்க ஒரு கோரிக்கை எங்களுக்கு வந்துள்ளது. இந்தச் செயல்முறையைத் தொடர, கீழே உள்ள பொத்தானைச் சொடுக்கவும். நீங்கள் இந்தக் கோரிக்கையைச் செய்யவில்லை என்றால், இந்த மின்னஞ்சலைப் புறக்கணிக்கலாம், ஆனால் உங்கள் பாதுகாப்பு அமைப்புகளை மறுஆய்வு செய்ய இது ஒரு நல்ல நேரமாக இருக்கலாம்.',
     'email.resetPassword.button': 'கடவுச்சொல் மீளமைப்பு',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'நீங்கள் எங்களுடன் இணைந்ததில் நாங்கள் மகிழ்ச்சியடைகிறோம்! இந்த மின்னஞ்சல் முகவரியைச் சரிபார்க்க, கீழே உள்ள பொத்தானைக் கிளிக் செய்யவும்.',
     'email.verifyEmail.button': 'இந்த மின்னஞ்சல் முகவரியை சரிபார்க்க',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'உங்கள் கணக்கு மேம்படுத்தப்பட்டுள்ளது',
@@ -47,23 +47,23 @@ export default {
     // The Way (Author Level Up)
     'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
     'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
-    'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
+    'theWay.levelUp.emailIntro': 'எழுதுவதில் உங்கள் அர்ப்பணிப்புக்கு வெகுமதி கிடைத்துள்ளது!',
     'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
-    'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
-    'theWay.levelUp.viewDashboard': 'View Your Dashboard',
+    'theWay.levelUp.emailContinue': 'உங்கள் பயணத்தைத் தொடருங்கள் மற்றும் \'எழுத்தாளனின் வழி\'யில் மேலும் சாதனைகளைத் திறக்கவும்.',
+    'theWay.levelUp.viewDashboard': 'உங்கள் டாஷ்போர்டைப் பார்க்கவும்',
     // Notifications - General content comment
-    'email.notifications.contentComment.subject': 'New comment on your content',
-    'email.notifications.contentComment.title': 'New comment on your {contentType}',
-    'email.notifications.contentComment.details': 'Title: {contentTitle} • From: {commenterName}',
-    'email.notifications.contentComment.cta': 'View comment',
+    'email.notifications.contentComment.subject': 'உங்கள் உள்ளடக்கத்தில் புதிய கருத்து',
+    'email.notifications.contentComment.title': 'உங்கள் மீதான புதிய கருத்து {contentType}',
+    'email.notifications.contentComment.details': 'தலைப்பு: {contentTitle} • இருந்து: {commenterName}',
+    'email.notifications.contentComment.cta': 'கருத்தைப் பார்க்கவும்',
     // Notifications - Beta reader comment
-    'email.notifications.betaComment.subject': 'New beta reader feedback',
-    'email.notifications.betaComment.title': 'New beta reader feedback',
-    'email.notifications.betaComment.details': 'Story: {storyTitle}{chapter} • From: {commenterName}',
-    'email.notifications.betaComment.cta': 'View feedback',
+    'email.notifications.betaComment.subject': 'புதிய பீட்டா வாசகர் கருத்து',
+    'email.notifications.betaComment.title': 'புதிய பீட்டா வாசகர் கருத்து',
+    'email.notifications.betaComment.details': 'கதை: {storyTitle}{chapter} • இருந்து: {commenterName}',
+    'email.notifications.betaComment.cta': 'கருத்துகளைப் பார்க்கவும்',
     // Notifications - New message
-    'email.notifications.newMessage.subject': 'You have a new message',
-    'email.notifications.newMessage.title': 'You have a new message',
+    'email.notifications.newMessage.subject': 'உங்களுக்கு ஒரு புதிய செய்தி உள்ளது',
+    'email.notifications.newMessage.title': 'உங்களுக்கு ஒரு புதிய செய்தி உள்ளது',
     'email.notifications.newMessage.details': 'From: {senderName}',
     'email.notifications.newMessage.cta': 'View message',
     // Notifications - Chapter published
