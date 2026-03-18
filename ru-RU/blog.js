@@ -21,7 +21,7 @@ export default {
     many {# публикаций}
     other {# публикаций}
   }.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Напишите новое сообщение',
     'blog.post.update': 'Редактирование {title}',
     'blog.post.text': 'Текст публикации',
     'common.slug': 'Адрес ссылки SEO',
