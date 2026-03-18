@@ -20,7 +20,7 @@ export default {
     one {satu perkara}
     other {# perkara}
   } di blog ini.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Tulis kiriman baru',
     'blog.post.update': 'Mengedit {title}',
     'blog.post.text': 'Teks pos',
     'common.slug': 'Alamat yang mesra SEO',
@@ -124,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'Soalan',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',
