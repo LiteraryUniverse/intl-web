@@ -15,12 +15,12 @@ export default {
     'blog.description': 'מבוא לבלוג',
     'blog.theme': 'ערכת עיצוב',
     'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.posts.total': `אין פוסטים {total, plural,
+    zero {יש פוסט אחד}
+    one {יש # פוסטים}
+    other {}
+  } בבלוג זה.`,
+    'blog.post.create': 'כתוב פוסט חדש',
     'blog.post.update': 'עריכת {title}',
     'blog.post.text': 'תוכן הפוסט',
     'common.slug': 'כתובת ידידותית למנוע המונחים',
@@ -33,9 +33,9 @@ export default {
     fanfiction {יצירת פאן פיקשן}
     other {}
   }`,
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `הקישורים החברתיים זהים לאלה שהוגדרו ב- {type, select,
+    organization {הגדרות הארגון}
+    user {פרופיל המשתמש}
     other {}
   }`,
     'blog.social.website': 'אתר רשמי',
