@@ -16,11 +16,11 @@ export default {
     'groups.banner.label': 'แบนเนอร์กลุ่ม',
     'groups.banner.help': 'ภาพแบนเนอร์ขนาดใหญ่ แนะนำให้ใช้ขนาด 1200x675px (อัตราส่วน 16:9)',
     'groups.members': 'สมาชิก',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `มี {totalMembers, plural,
+    zero {ไม่มีสมาชิก}
+    one {มีสมาชิกหนึ่งคน}
+    other {มีสมาชิก # คน}
+  } ในกลุ่มนี้`,
     'groups.leaveGroup': 'ออกจากกลุ่ม',
     'groups.leaveGroup.confirm': 'เพื่อให้แน่ใจว่าคุณต้องการออกจาก {groupName}?',
     'group.settings': 'การตั้งค่ากลุ่ม',
@@ -34,6 +34,20 @@ export default {
     'groups.join.questionDefault': 'ทำไมคุณควรได้รับอนุญาตให้เข้าร่วม?',
     'groups.join.pendingRequest': 'คำขอเข้าร่วมกลุ่มนี้ของคุณกำลังรอการอนุมัติจากผู้ดูแลกลุ่ม',
     'groups.join.requesting': 'กำลังขอเข้าร่วม',
+    'groups.writingLeaderboard.title': 'Writing leaderboard',
+    'groups.writingLeaderboard.description': 'See how group members compare by recent writing output.',
+    'groups.writingLeaderboard.period.daily': 'Daily',
+    'groups.writingLeaderboard.period.weekly': 'Weekly',
+    'groups.writingLeaderboard.period.monthly': 'Monthly',
+    'groups.writingLeaderboard.period.yearly': 'Yearly',
+    'groups.writingLeaderboard.wordsValue': '{count} words',
+    'groups.writingLeaderboard.secondaryValue': '{characters} characters · {sessions} sessions',
+    'groups.writingLeaderboard.rank': 'Rank',
+    'groups.writingLeaderboard.member': 'Member',
+    'groups.writingLeaderboard.output': 'Output',
+    'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+    'groups.writingLeaderboard.display': 'Display writing leaderboard to members',
+    'groups.writingLeaderboard.displayHelp': 'When enabled, group members can compare recent writing activity on the members page.',
     'groups.invite.btn': 'เชิญเข้ากลุ่ม',
     'groups.invite.modalAria': 'เชิญผู้ใช้เข้ากลุ่ม',
     'groups.invite.send': 'ส่งคำเชิญ',
