@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} на несколько дней раньше: {tiers} - поклонники получают доступ на {date, date, short} на {date, time}',
     'writer.initialLetter': 'Письмо начального абзаца',
     'writer.ruby': 'Руби',
-    'writer.ruby.placeholder': 'Введите показания (например, かんじ)'
+    'writer.ruby.placeholder': 'Введите показания (например, かんじ)',
+    'writer.linkToWork': 'Ссылка на вселенную, историю или главу',
+    'writer.insertWorkCard': 'Вставьте карту истории или вселенной'
 };

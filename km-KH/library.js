@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'បន្តទៅអានបន្តទៅអាន',
     'bookmark.statusSummary': 'អ្នកបានអានរួចហើយ {readPercent, number, ::percent} នៃរឿងនេះ។',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Please enter search terms or apply filters',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

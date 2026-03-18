@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Jouw geslacht',
     'settings.gender.usage': 'Deze informatie blijft privé. We gebruiken deze gegevens voor platformanalyse en geanonimiseerde analyse voor makers wanneer je hun verhalen leest.',
     'settings.age.title': 'Je leeftijd',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Expliciete inhoud tonen (leeftijdsclassificatie 21+)',
     'settings.age.birthday': 'Geboortedatum',
     'settings.age.usage': 'Deze informatie blijft privé. We zijn wettelijk verplicht om naar je leeftijd te vragen. We gebruiken deze gegevens voor platformanalyse, het tonen van inhoud op basis van classificaties en geanonimiseerde analyse voor makers wanneer je hun verhalen leest.',
     'settings.country.title': 'Je land',

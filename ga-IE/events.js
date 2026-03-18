@@ -27,12 +27,12 @@ export default {
   'events.origin.lu': 'Imeachtaí Domhanda Litríochta',
   'events.visibility.label': 'Feidhmíocht na hócáide',
   'events.visibility.public': 'Poiblí - féadfaidh gach duine an imeacht seo a fheiceáil',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
+  'events.visibility.owner': `Úinéir - ach amháin {type, select,
+    group {baill de do ghrúpa}
+    universe {comhoibrithe agus lucht leanúna an chruinneas}
+    organization {baill de d'eagraíocht}
+    other {tusa agus na daoine a thugann tú cuireadh dóibh}
+  } is féidir le ~ an t-imeacht seo a fheiceáil`,
   'events.visibility.private': 'Príobháideach - ní féidir le daoine ach tú cuireadh a fháil chun an imeacht a fheiceáil',
   'events.inviting': 'An féidir le daoine a fheiceáil an ócáid seo cuireadh a thabhairt do dhaoine eile?',
   'events.administration': 'Riarachán Imeachtaí',

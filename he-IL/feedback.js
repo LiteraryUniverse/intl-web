@@ -50,14 +50,14 @@ export default {
     'feedback.reportType.soliciting': 'Soliciting',
     'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'אחר',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`,
-    'feedback.help.overview': 'Overview',
+    'feedback.report.copyrightType.propertySelectLabel': `איזה {type, select,
+    universe {יקום}
+    story {סיפור}
+    other {סיפור}
+  } נפגע בזכויות היוצרים?`,
+    'feedback.help.overview': 'סקירה כללית',
     'feedback.help.articles': 'Articles',
-    'feedback.help.courses': 'Courses',
+    'feedback.help.courses': 'קורסים',
     'feedback.help.videoTutorials': 'Video tutorials',
     'feedback.help.featuredArticles': 'Featured Articles',
     'feedback.help.featuredCourses': 'Featured Courses',

@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Aanbevolen verhalen',
     'discovery.recommendations.recommendationsExplained': 'Deze verhalen worden aanbevolen op basis van onze aanbevelingenmotor. Deze maakt gebruik van machine learning om u verhalen aan te bevelen.',
     'discovery.recommendations.recommendationsSettings': 'U kunt dit uitschakelen in Uw instellingen.',
-    'discover.search.templateUniverses': 'Toon alleen sjabloonuniversums (kopieerbare encyclopedieën)'
+    'discover.search.templateUniverses': 'Toon alleen sjabloonuniversums (kopieerbare encyclopedieën)',
+    'discover.ratingExplained': 'Gemiddelde beoordeling van {avgRating, number} van {reviewsNum, number} beoordeling'
 };

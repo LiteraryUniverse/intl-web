@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Останні записи',
     'blog.statsPage': 'Статистика блогу',
     'blog.view': 'Переглянути блог',
+    'blog.literaryCommentary': 'Літературний коментар',
+    'blog.literaryCommentary.checkbox': 'Це літературний коментар',
+    'blog.literaryCommentary.description': 'Виберіть історію або всесвіт з вашої бібліотеки, щоб надати літературний коментар:',
+    'blog.literaryCommentary.rating': 'Рейтинг (необов\'язково)',
+    'blog.literaryCommentary.empty': 'Літературний коментар поки що відсутній.',
     'blog.settings.qa': 'ПИТАННЯ ТА ВІДПОВІДІ',
     // Q&A Settings
     'blog.qa.settings.title': 'Налаштування питань та відповідей',

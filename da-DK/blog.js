@@ -20,7 +20,7 @@ export default {
     one {er et indlæg}
     other {er # indlæg}
   } i denne blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Skriv et nyt indlæg',
     'blog.post.update': 'Rediger {title}',
     'blog.post.text': 'Indlægtekst',
     'common.slug': 'SEO-venlig adresse',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Seneste indlæg',
     'blog.statsPage': 'Blog statistik',
     'blog.view': 'Se blog',
+    'blog.literaryCommentary': 'Litterær kommentar',
+    'blog.literaryCommentary.checkbox': 'Dette er en litterær kommentar',
+    'blog.literaryCommentary.description': 'Vælg en historie eller et univers fra dit bibliotek, som du kan give en litterær kommentar:',
+    'blog.literaryCommentary.rating': 'Bedømmelse (valgfrit)',
+    'blog.literaryCommentary.empty': 'Ingen litterær kommentar tilgængelig endnu.',
     'blog.settings.qa': 'SPØRGSMÅL OG SVAR',
     // Q&A Settings
     'blog.qa.settings.title': 'Spørgsmål og svar Indstillinger',

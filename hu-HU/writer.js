@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} napokkal korábban: {tiers} - a rajongók hozzáférhetnek a {date, date, short} címen {date, time}',
     'writer.initialLetter': 'Kezdő bekezdés levél',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Adja meg az olvasást (pl. かんじ)'
+    'writer.ruby.placeholder': 'Adja meg az olvasást (pl. かんじ)',
+    'writer.linkToWork': 'Link egy univerzumhoz, történethez vagy fejezethez',
+    'writer.insertWorkCard': 'Történet vagy univerzum kártya beillesztése'
 };

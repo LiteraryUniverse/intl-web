@@ -23,7 +23,7 @@ export default {
     'discover.searchUniverse.title': 'חפש יקב',
     'discover.searchUniverse.description': 'חפש יקבים',
     'discover.search.storyStatus': 'סטטוס התקדמות הסיפור',
-    'discover.search.genres': 'Genres',
+    'discover.search.genres': 'ז\'אנרים',
     'story.status.complete': 'הסתיים',
     'story.status.inProgress': 'בתהליך',
     'discover.search.universeConnection': 'חיבור הסיפור ליקב',
@@ -60,7 +60,7 @@ export default {
     'discovery.chaptersTotal': 'סך הכל מספר הפרקים בסיפור',
     'discovery.readFromStart': 'קרא מהפרק הראשון',
     'discovery.readLatest': 'קרא את הפרק האחרון',
-    'discovery.author': 'Author',
+    'discovery.author': 'מחבר',
     'discovery.aiGenerated': 'AI Generated',
     'discovery.isAIGenerated': 'עבודה זו נוצרה על ידי בינה מלאכותית.',
     'discovery.isPreview': 'תצוגה מקדימה',
@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Recommended stories',
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
-    'discover.search.templateUniverses': 'הצג רק יקומים של תבניות (אנציקלופדיות הניתנות להעתקה)'
+    'discover.search.templateUniverses': 'הצג רק יקומים של תבניות (אנציקלופדיות הניתנות להעתקה)',
+    'discover.ratingExplained': 'דירוג ממוצע של {avgRating, number} מתוך {reviewsNum, number} ביקורת'
 };

@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Recommended stories',
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
-    'discover.search.templateUniverses': 'แสดงเฉพาะจักรวาลเทมเพลต (สารานุกรมที่คัดลอกได้)'
+    'discover.search.templateUniverses': 'แสดงเฉพาะจักรวาลเทมเพลต (สารานุกรมที่คัดลอกได้)',
+    'discover.ratingExplained': 'คะแนนเฉลี่ย {avgRating, number} จาก {reviewsNum, number} รีวิว'
 };

@@ -21,7 +21,7 @@
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Vaše osobní domovská stránka s aktualizacemi aktivit a přístupem k dílně, knihovně a sociálním funkcím."
       },
       "discovery": {
         "title": "Objevování",
@@ -62,7 +62,7 @@
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Vaše dílna je pro spisovatele místem, kde se odehrává kouzlo! Začněte psát nový příběh, pokračujte v psaní stávajícího nebo budujte svůj vesmír. Vaši čtenáři čekají!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
@@ -74,7 +74,7 @@
   "workshop": {
     "title": "Vítejte v dílně",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
+      "title": "Vítejte v dílně Literární vesmír",
       "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
     },
     "theWay": {
@@ -99,7 +99,7 @@
     },
     "collaborative": {
       "title": "Společné práce",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
+      "content": "V této části se zobrazují všechny vaše pozvánky ke spolupráci od jiných autorů. Uvidíte zde také všechny práce, u kterých jste přijali žádosti o spolupráci. Spolupracujte na vesmírech a příbězích s ostatními autory a budujte společně úžasné světy."
     },
     "translations": {
       "title": "Překlady",
@@ -107,11 +107,11 @@
     },
     "betaReadings": {
       "title": "Beta čtení",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+      "content": "Beta čtení vám umožní včasný přístup k příběhům a poskytne autorům cennou zpětnou vazbu. V této části se zobrazují pozvánky k beta čtení a projekty, které právě čtete. Pomozte ostatním autorům zlepšit jejich práci a zároveň získejte včasný přístup k novým zajímavým příběhům."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Pokračujte v cestě",
+      "content": "Nezapomeňte se zde podívat na svůj pokrok v autorské cestě. Pište dál, spolupracujte a zapojte se do komunity, abyste se dostali na vyšší úroveň! A teď se pusťte do psaní!"
     }
   },
   "library": {
@@ -129,16 +129,16 @@
       "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
     },
     "universes": {
-      "title": "Your Universes",
+      "title": "Vaše vesmíry",
       "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
     },
     "readingLists": {
       "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "content": "Vytvářejte a spravujte zde své osobní seznamy četby. Uspořádejte příběhy podle témat, sérií nebo jakýchkoli kritérií, která vám dávají smysl. Seznamy můžete sdílet s ostatními nebo si je nechat pro sebe."
     },
     "personalNotes": {
       "title": "Osobní poznámky",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "content": "S předplatným platformy můžete přidávat osobní poznámky k jakémukoli příběhu, vesmíru nebo encyklopedickému záznamu. Zaznamenávejte si své myšlenky, teorie a postřehy při čtení a zkoumání Literárního vesmíru."
     },
     "getStarted": {
       "title": "Ready to Build Your Universe?",
@@ -148,11 +148,11 @@
   "universe": {
     "title": "Dílna literárního světa",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
+      "title": "Vítejte na semináři Váš vesmír!",
       "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
     },
     "stories": {
-      "title": "Manage Your Stories",
+      "title": "Správa příběhů",
       "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
     },
     "encyclopedia": {
@@ -160,7 +160,7 @@
       "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
     },
     "page": {
-      "title": "Your Universe Page",
+      "title": "Váš vesmír Stránka",
       "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
     },
     "translations": {
@@ -197,7 +197,7 @@
     },
     "forumSettings": {
       "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "content": "Dolaďte nastavení fóra vesmíru. Vytvořte kategorie, nastavte pravidla moderování, nakonfigurujte oprávnění a přizpůsobte diskusní prostory tak, aby co nejlépe sloužily potřebám vaší komunity."
     },
     "getStarted": {
       "title": "Ready to Build Your Universe?",
@@ -216,7 +216,7 @@
     },
     "statistics": {
       "title": "Sledujte Váš pokrok",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "content": "Pomocí podrobných statistik můžete sledovat pokrok v psaní a zapojení publika. Zjistěte, kolik máte čtenářů, sledujte zobrazení kapitol a analyzujte výkon svého příběhu v čase."
     },
     "collaborators": {
       "title": "Správa spolupracovníků",
@@ -228,14 +228,14 @@
     },
     "monetization": {
       "title": "Nastavení příjmů",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "content": "Nakonfigurujte, jakým způsobem budete svůj příběh zpeněžovat. Nastavte prémiové kapitoly, spravujte možnosti předplatného a zajistěte sdílení příjmů se spolupracovníky. Proměňte své psaní v příjem."
     },
     "settings": {
       "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "content": "Nakonfigurujte základní nastavení svého příběhu včetně soukromí, možností publikování, kategorií a dalších základních preferencí. Tato nastavení určují, jak se váš příběh zobrazí a jak bude fungovat."
     },
     "notes": {
-      "title": "Overview Notes",
+      "title": "Přehledové poznámky",
       "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
     },
     "challenges": {
@@ -252,7 +252,7 @@
     },
     "legal": {
       "title": "Právní dokumenty",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "content": "Získejte přístup k důležitým právním dokumentům souvisejícím s vaším příběhem, včetně informací o autorských právech, vydavatelských smlouvách a správě práv. Mějte své právní záležitosti v pořádku."
     },
     "publicVersion": {
       "title": "Veřejná verze",
@@ -264,11 +264,11 @@
     },
     "resolutionCenter": {
       "title": "Centrum pro řešení problémů",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "content": "Řešení jakýchkoli právních sporů, porušení podmínek služby nebo jiných problémů souvisejících s vaším příběhem. Toto centralizované centrum obsahuje seznam všech nahlášených problémů a poskytuje nástroje pro řešení konfliktů a udržení pozitivního prostředí komunity."
     },
     "statuses": {
       "title": "Správa stavu příběhu",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "content": "Pomocí těchto důležitých možností můžete kontrolovat stav zveřejnění svého příběhu. \"Aktivní\" znamená, že váš příběh je pravidelně aktualizován. \"Přerušeno\" znamená dočasnou přestávku. \"Zrušeno\" znamená, že jste přestali psát. \"Dokončeno\" označuje váš příběh jako dokončený. Vyberte si stav, který nejlépe odráží vaši aktuální situaci při psaní. Poznámka: Příběhy se automaticky změní na \"Na přestávce\" po 6 měsících nevyvíjení a na \"Zrušeno\" po dalších 6 měsících nečinnosti."
     },
     "getStarted": {
       "title": "Ready to Start Writing?",

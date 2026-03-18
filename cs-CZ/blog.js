@@ -57,6 +57,11 @@ export default {
     'blog.posts.recent': 'Poslední příspěvky',
     'blog.statsPage': 'Statistiky blogu',
     'blog.view': 'Zobrazit blog',
+    'blog.literaryCommentary': 'Literární komentář',
+    'blog.literaryCommentary.checkbox': 'Jedná se o literární komentář',
+    'blog.literaryCommentary.description': 'Vyberte si z knihovny příběh nebo vesmír, který budete literárně komentovat:',
+    'blog.literaryCommentary.rating': 'Hodnocení (nepovinné)',
+    'blog.literaryCommentary.empty': 'Literární komentář zatím není k dispozici.',
     'blog.settings.qa': 'OTÁZKY A ODPOVĚDI',
     // Q&A Settings
     'blog.qa.settings.title': 'Nastavení otázek a odpovědí',

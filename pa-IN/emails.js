@@ -18,17 +18,17 @@ export default {
     'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'ਜੋੜਨ ਲਈ ਸਵਾਗਤ ਹੈ',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'ਅਸੀਂ ਤੁਹਾਨੂੰ ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਵਿੱਚ ਸੱਦਾ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹਾਂ! ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਇੱਕ ਨਿੱਜੀ ਖਾਤਾ ਤਿਆਰ ਕੀਤਾ ਹੈ, ਜਿਸ ਰਾਹੀਂ ਤੁਸੀਂ ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਦੀਆਂ ਸਾਰੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰ ਸਕਦੇ ਹੋ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ ਨਾਲ ਸ਼ਾਮਿਲ ਹੋਵੋ ਅਤੇ ਰਚਨਾਤਮਕ ਲਿਖਣ ਅਤੇ ਪੜ੍ਹਨ ਦੀ ਅਗਲੀ ਪੀੜ੍ਹੀ ਬਣਾਉਣ ਵਿੱਚ ਸਾਡਾ ਸਾਥ ਦਿਓ!',
     'email.enrollAccount.button': 'ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਪਹੁੰਚੋ',
     'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'ਸਾਨੂੰ ਤੁਹਾਡੇ ਖਾਤੇ ਲਈ ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰਨ ਦੀ ਬੇਨਤੀ ਮਿਲੀ ਹੈ।  ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰਕਿਰਿਆ ਜਾਰੀ ਰੱਖਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੇ ਬਟਨ \'ਤੇ ਕਲਿੱਕ ਕਰੋ।  ਜੇ ਤੁਸੀਂ ਇਹ ਬੇਨਤੀ ਨਹੀਂ ਕੀਤੀ, ਤਾਂ ਤੁਸੀਂ ਇਸ ਈ-ਮੇਲ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਹ ਤੁਹਾਡੀਆਂ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦੀ ਸਮੀਖਿਆ ਕਰਨ ਦਾ ਵਧੀਆ ਸਮਾਂ ਹੋ ਸਕਦਾ ਹੈ।',
+    'email.resetPassword.button': 'ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਾਡੇ ਨਾਲ ਸ਼ਾਮਿਲ ਕਰਕੇ ਬਹੁਤ ਖੁਸ਼ ਹਾਂ!   ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੇ ਬਟਨ \'ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਇਸ ਈ-ਮੇਲ ਪਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।',
+    'email.verifyEmail.button': 'ਇਸ ਈ-ਮੇਲ ਪਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'ਤੁਹਾਡਾ ਖਾਤਾ ਅੱਪਗ੍ਰੇਡ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।',
     'email.adminUpgrade.message': `ਅਸੀਂ ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਅਪਗਰੇਡ ਕੀਤਾ ਹੈ ਇਕ ਵਾਰਦਾਤਮਿਕ ਖੋਜਕਾਰ {plan, select,
     explorer {ਖੋਜਕਾਰ}
     adventurer {ਦਾਦਾਂਹਕਾਰ}
@@ -47,23 +47,23 @@ export default {
     // The Way (Author Level Up)
     'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
     'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
-    'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
+    'theWay.levelUp.emailIntro': 'ਲਿਖਣ ਦੀ ਕਲਾ ਪ੍ਰਤੀ ਤੁਹਾਡੀ ਸਮਰਪਣਤਾ ਨੂੰ ਇਨਾਮ ਮਿਲਿਆ ਹੈ!',
     'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
-    'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
-    'theWay.levelUp.viewDashboard': 'View Your Dashboard',
+    'theWay.levelUp.emailContinue': 'ਆਪਣੀ ਯਾਤਰਾ ਜਾਰੀ ਰੱਖੋ ਅਤੇ \'ਦਿ ਵੇ ਆਫ਼ ਦਿ ਅਥਰ\' \'ਤੇ ਹੋਰ ਪ੍ਰਾਪਤੀਆਂ ਅਨਲੌਕ ਕਰੋ।',
+    'theWay.levelUp.viewDashboard': 'ਆਪਣਾ ਡੈਸ਼ਬੋਰਡ ਵੇਖੋ',
     // Notifications - General content comment
-    'email.notifications.contentComment.subject': 'New comment on your content',
-    'email.notifications.contentComment.title': 'New comment on your {contentType}',
-    'email.notifications.contentComment.details': 'Title: {contentTitle} • From: {commenterName}',
-    'email.notifications.contentComment.cta': 'View comment',
+    'email.notifications.contentComment.subject': 'ਤੁਹਾਡੀ ਸਮੱਗਰੀ \'ਤੇ ਨਵੀਂ ਟਿੱਪਣੀ',
+    'email.notifications.contentComment.title': 'ਤੁਹਾਡੇ \'ਤੇ ਨਵੀਂ ਟਿੱਪਣੀ {contentType}',
+    'email.notifications.contentComment.details': 'ਸਿਰਲੇਖ: {contentTitle} • ਤੋਂ: {commenterName}',
+    'email.notifications.contentComment.cta': 'ਟਿੱਪਣੀ ਵੇਖੋ',
     // Notifications - Beta reader comment
-    'email.notifications.betaComment.subject': 'New beta reader feedback',
-    'email.notifications.betaComment.title': 'New beta reader feedback',
-    'email.notifications.betaComment.details': 'Story: {storyTitle}{chapter} • From: {commenterName}',
-    'email.notifications.betaComment.cta': 'View feedback',
+    'email.notifications.betaComment.subject': 'ਨਵੇਂ ਬੀਟਾ ਰੀਡਰ ਦੀ ਪ੍ਰਤੀਕਿਰਿਆ',
+    'email.notifications.betaComment.title': 'ਨਵੇਂ ਬੀਟਾ ਰੀਡਰ ਦੀ ਪ੍ਰਤੀਕਿਰਿਆ',
+    'email.notifications.betaComment.details': 'ਕਹਾਣੀ: {storyTitle}{chapter} • ਤੋਂ: {commenterName}',
+    'email.notifications.betaComment.cta': 'ਪ੍ਰਤੀਕਿਰਿਆ ਵੇਖੋ',
     // Notifications - New message
-    'email.notifications.newMessage.subject': 'You have a new message',
-    'email.notifications.newMessage.title': 'You have a new message',
+    'email.notifications.newMessage.subject': 'ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਨਵਾਂ ਸੁਨੇਹਾ ਹੈ।',
+    'email.notifications.newMessage.title': 'ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਨਵਾਂ ਸੁਨੇਹਾ ਹੈ।',
     'email.notifications.newMessage.details': 'From: {senderName}',
     'email.notifications.newMessage.cta': 'View message',
     // Notifications - Chapter published

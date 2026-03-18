@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'വായിക്കുകയും തുടരുകയും',
     'bookmark.statusSummary': 'നിങ്ങൾ {readPercent, number, ::percent} കഥയെ വായിച്ചുകൊണ്ടിരിക്കുന്നു.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'ദയവായി തിരയാനുള്ള വാക്കുകൾ നൽകുക അല്ലെങ്കിൽ ഫിൽട്ടറുകൾ പ്രയോഗിക്കുക',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

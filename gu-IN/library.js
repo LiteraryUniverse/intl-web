@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'વાંચવા જારી રાખો',
     'bookmark.statusSummary': 'તમે વાંચ્યું છે {readPercent, number, ::percent} વાર્તાનો ભાગ.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'કૃપા કરીને શોધ શબ્દો દાખલ કરો અથવા ફિલ્ટર્સ લાગુ કરો',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

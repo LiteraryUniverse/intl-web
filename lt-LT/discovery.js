@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Rekomenduojamos istorijos',
     'discovery.recommendations.recommendationsExplained': 'Šios istorijos rekomenduojamos remiantis mūsų rekomendacijų sistema. Ji naudoja mašininį mokymąsi, kad rekomenduotų jums istorijas.',
     'discovery.recommendations.recommendationsSettings': 'Šią funkciją galite išjungti savo nustatymuose.',
-    'discover.search.templateUniverses': 'Rodyti tik šablonines visatas (kopijuojamas enciklopedijas)'
+    'discover.search.templateUniverses': 'Rodyti tik šablonines visatas (kopijuojamas enciklopedijas)',
+    'discover.ratingExplained': 'Vidutinis įvertinimas {avgRating, number} iš {reviewsNum, number} apžvalga'
 };

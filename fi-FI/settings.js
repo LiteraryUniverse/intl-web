@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Sukupuolesi',
     'settings.gender.usage': 'Tämä tieto pysyy yksityisenä. Käytämme näitä tietoja alustan analytiikkaan ja anonymisoituun analytiikkaan luojiin päin, kun luet heidän tarinoitaan.',
     'settings.age.title': 'Ikäsi',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Näytä yksiselitteinen sisältö (ikäluokitus 21+)',
     'settings.age.birthday': 'Syntymäaika',
     'settings.age.usage': 'Tämä tieto pysyy yksityisenä. Olemme lain mukaan velvollisia kysymään ikääsi. Käytämme näitä tietoja alustan analytiikkaan, näytämme sisältöä ikärajan perusteella ja anonymisoituun analytiikkaan luojiin päin, kun luet heidän tarinoitaan.',
     'settings.country.title': 'Maasi',

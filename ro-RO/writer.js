@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} zile mai devreme: {tiers} - fanii au acces pe {date, date, short} la {date, time}',
     'writer.initialLetter': 'Scrisoarea paragrafului inițial',
     'writer.ruby': 'Rubin',
-    'writer.ruby.placeholder': 'Introduceți citirea (de ex. かんじ)'
+    'writer.ruby.placeholder': 'Introduceți citirea (de ex. かんじ)',
+    'writer.linkToWork': 'Link către un univers, poveste sau capitol',
+    'writer.insertWorkCard': 'Inserare poveste sau carte univers'
 };

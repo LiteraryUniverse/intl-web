@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Ihr Geschlecht',
     'settings.gender.usage': 'Diese Informationen bleiben privat. Wir verwenden diese Daten für die Plattformanalyse und in anonymisierter Form für die Ersteller, wenn Sie deren Geschichten lesen.',
     'settings.age.title': 'Ihr Alter',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Explizite Inhalte zeigen (Altersfreigabe 21+)',
     'settings.age.birthday': 'Geburtsdatum',
     'settings.age.usage': 'Diese Informationen werden vertraulich behandelt. Wir sind gesetzlich verpflichtet, Ihr Alter zu erfragen. Wir verwenden diese Daten für die Plattformanalyse, die Anzeige von Inhalten auf Basis von Bewertungen und in anonymisierten Analysen an Ersteller, wenn Sie deren Geschichten lesen.',
     'settings.country.title': 'Ihr Land',

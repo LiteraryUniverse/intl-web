@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': 'Suositellut tarinat',
     'discovery.recommendations.recommendationsExplained': 'Näitä tarinoita suositellaan suosituskoneemme perusteella. Se käyttää koneoppimista suositellakseen tarinoita sinulle.',
     'discovery.recommendations.recommendationsSettings': 'Voit poistaa tämän käytöstä asetuksissasi.',
-    'discover.search.templateUniverses': 'Näytä vain malliuniversumit (kopioitavissa olevat tietosanakirjat).'
+    'discover.search.templateUniverses': 'Näytä vain malliuniversumit (kopioitavissa olevat tietosanakirjat).',
+    'discover.ratingExplained': 'Keskimääräinen arvosana {avgRating, number} alkaen {reviewsNum, number} arvostelusta'
 };

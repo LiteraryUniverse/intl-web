@@ -20,7 +20,7 @@ export default {
     one {bir gönderi var}
     other {# gönderi var}
   } .`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Yeni bir gönderi yazın',
     'blog.post.update': '{title}düzenleniyor',
     'blog.post.text': 'Gönderi metni',
     'common.slug': 'SEO dostu adres',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Son gönderiler',
     'blog.statsPage': 'Blog istatistikleri',
     'blog.view': 'Blogu Görüntüle',
+    'blog.literaryCommentary': 'Edebi Yorum',
+    'blog.literaryCommentary.checkbox': 'Bu bir edebi yorumdur',
+    'blog.literaryCommentary.description': 'Kütüphanenizden bir öykü ya da evren seçerek bu öykü ya da evren hakkında edebi yorumlarda bulunun:',
+    'blog.literaryCommentary.rating': 'Derecelendirme (isteğe bağlı)',
+    'blog.literaryCommentary.empty': 'Henüz edebi bir yorum mevcut değil.',
     'blog.settings.qa': 'SORU-CEVAP',
     // Q&A Settings
     'blog.qa.settings.title': 'Soru-Cevap Ayarları',

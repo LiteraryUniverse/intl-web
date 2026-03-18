@@ -82,5 +82,6 @@ export default {
     'discovery.recommendations.storiesTitle': '추천 스토리',
     'discovery.recommendations.recommendationsExplained': '이러한 스토리는 추천 엔진을 기반으로 추천됩니다. 머신 러닝을 사용하여 사용자에게 스토리를 추천합니다.',
     'discovery.recommendations.recommendationsSettings': '설정에서 이 기능을 비활성화할 수 있습니다.',
-    'discover.search.templateUniverses': '템플릿 유니버스만 표시(복사 가능한 백과사전)'
+    'discover.search.templateUniverses': '템플릿 유니버스만 표시(복사 가능한 백과사전)',
+    'discover.ratingExplained': '평균 평점 {avgRating, number} 에서 {reviewsNum, number} 리뷰'
 };

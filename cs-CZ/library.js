@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Pokračovat ve čtení',
     'bookmark.statusSummary': 'Přečetli jste si {readPercent, number, ::percent} příběhu.',
     'library.search.prompt': 'Hledat ve Vaší knihovně',
+    'library.search.noFilters': 'Zadejte prosím vyhledávací termíny nebo použijte filtry',
     'library.yourLibrary': 'Vaše knihovna',
     'library.search': 'Hledejte ve Vaší knihovně'
 };

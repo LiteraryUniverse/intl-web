@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'সাম্প্ৰতিক প্ৰবন্ধসমূহ',
     'blog.statsPage': 'ব্লগ প্ৰশাসনিক প্ৰগতি',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'সাহিত্যিক টীকা',
+    'blog.literaryCommentary.checkbox': 'এইটো এটা সাহিত্যিক ভাষ্য।',
+    'blog.literaryCommentary.description': 'সাহিত্যিক ভাষ্য প্ৰদান কৰিবলৈ আপোনাৰ লাইব্ৰেৰীৰ পৰা এটা কাহিনী বা বিশ্বব্ৰহ্মাণ্ড বাছনি কৰক:',
+    'blog.literaryCommentary.rating': 'ৰেটিং (বৈকল্পিক)',
+    'blog.literaryCommentary.empty': 'এতিয়ালৈকে কোনো সাহিত্যিক টীকা উপলব্ধ নহয়।',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',

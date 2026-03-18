@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'आधुनिक पोष्टहरू',
     'blog.statsPage': 'ब्लग तथ्यांक',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'साहित्यिक टिप्पणी',
+    'blog.literaryCommentary.checkbox': 'यो एक साहित्यिक टिप्पणी हो।',
+    'blog.literaryCommentary.description': 'साहित्यिक टिप्पणी प्रदान गर्नका लागि आफ्नो पुस्तकालयबाट कुनै कथा वा ब्रह्माण्ड चयन गर्नुहोस्:',
+    'blog.literaryCommentary.rating': 'मूल्याङ्कन (ऐच्छिक)',
+    'blog.literaryCommentary.empty': 'अहिलेसम्म कुनै साहित्यिक टिप्पणी उपलब्ध छैन।',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',

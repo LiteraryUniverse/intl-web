@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Συνεχίστε να διαβάζετε',
     'bookmark.statusSummary': 'Έχετε διαβάσει {readPercent, number, ::percent} της ιστορίας.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Παρακαλούμε εισάγετε όρους αναζήτησης ή εφαρμόστε φίλτρα',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

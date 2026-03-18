@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'সাম্প্রতিক পোস্টসমূহ',
     'blog.statsPage': 'ব্লগ পরিসংখ্যান',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'সাহিত্যিক টীকা',
+    'blog.literaryCommentary.checkbox': 'এটি একটি সাহিত্যিক ভাষ্য।',
+    'blog.literaryCommentary.description': 'আপনার লাইব্রেরি থেকে একটি গল্প বা মহাবিশ্ব নির্বাচন করুন এবং এর উপর সাহিত্যিক মন্তব্য প্রদান করুন:',
+    'blog.literaryCommentary.rating': 'রেটিং (ঐচ্ছিক)',
+    'blog.literaryCommentary.empty': 'এখনও কোনো সাহিত্যিক মন্তব্য উপলব্ধ নেই।',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',

@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'Lean ar aghaidh ag léamh',
     'bookmark.statusSummary': 'Tá tú tar éis léamh {readPercent, number, ::percent} den scéal.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Iontráil téarmaí cuardaigh nó cuir isteach scagairí',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

@@ -1,10 +1,10 @@
 export default {
     'comment.write': 'כתוב את התגובה שלך',
     'comments.none': 'מצטערים, אין תגובות להצגה.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comments.total': `אין תגובות {count, plural,
+    =0 {}
+    one {יש תגובה אחת}
+    other {יש # תגובות}
   }.`,
     'comments.show.older': 'הצג תגובות ישנות יותר'
 };

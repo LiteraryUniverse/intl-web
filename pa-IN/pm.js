@@ -10,10 +10,10 @@ export default {
     'pm.to': 'ਨੂੰ:',
     'pm.with': 'ਨਾਲ ਗੱਲਬਾਤ:',
     'pm.send': 'ਭੇਜੋ',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversations.unreadCount': `ਤੁਹਾਡੇ ਕੋਲ {count, plural,
+    zero {ਕੋਈ ਅਣਪੜ੍ਹੀ ਗੱਲਬਾਤ ਨਹੀਂ}
+    one {ਇੱਕ ਅਣਪੜ੍ਹੀ ਗੱਲਬਾਤ}
+    other {# ਅਣਪੜ੍ਹੀਆਂ ਗੱਲਬਾਤਾਂ}
   }.`,
     'pm.form.minimumParticipants': 'ਤੁਸੀਂ ਇੱਕ ਪ੍ਰਾਪਤਕਰਤਾ ਚੁਣਨੀ ਚਾਹੀਦੇ ਹੋ।',
     'pm.form.maxParticipants': `ਤੁਸੀਂ ਇੱਕ ਮੁੱਖ ਗੱਲਬਾਤ ਵਿੱਚ ਵੱਧ ਤੋਂ ਵੱਧ {maxPeople, plural,

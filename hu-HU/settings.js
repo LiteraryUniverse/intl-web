@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Nemed',
     'settings.gender.usage': 'Ez az információ bizalmas marad. Ezt az adatot platformelemzéshez és névtelen elemzésekhez használjuk, amikor elolvassák a történeteiket.',
     'settings.age.title': 'Korod',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Kifejezett tartalom megjelenítése (21+ korhatár besorolás)',
     'settings.age.birthday': 'Születési dátum',
     'settings.age.usage': 'Ez az információ bizalmas marad. Jogilag kötelesek vagyunk megkérdezni a korodat. Ezt az adatot platformelemzéshez, a tartalmak megjelenítéséhez értékelések alapján és névtelen elemzésekhez használjuk, amikor elolvassák a történeteiket.',
     'settings.country.title': 'Az országod',

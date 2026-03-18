@@ -20,7 +20,7 @@ export default {
     one {egy bejegyzés}
     other {# bejegyzése van}
   }.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Új hozzászólás írása',
     'blog.post.update': 'A(z) {title}szerkesztése',
     'blog.post.text': 'Bejegyzés szövege',
     'common.slug': 'SEO barát URL',
@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Legfrissebb bejegyzések',
     'blog.statsPage': 'Blog statisztika',
     'blog.view': 'Blog megtekintése',
+    'blog.literaryCommentary': 'Irodalmi kommentár',
+    'blog.literaryCommentary.checkbox': 'Ez egy irodalmi kommentár',
+    'blog.literaryCommentary.description': 'Válasszon ki egy történetet vagy univerzumot a könyvtárából, amelyhez irodalmi kommentárt fűzhet:',
+    'blog.literaryCommentary.rating': 'Értékelés (nem kötelező)',
+    'blog.literaryCommentary.empty': 'Irodalmi kommentár még nem áll rendelkezésre.',
     'blog.settings.qa': 'KÉRDÉSEK ÉS VÁLASZOK',
     // Q&A Settings
     'blog.qa.settings.title': 'Kérdés és válasz beállítások',

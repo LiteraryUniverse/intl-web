@@ -188,11 +188,11 @@ export default {
     'encyclopedia.cover': 'תמונת כריכה',
     'encyclopedia.translation.title': 'ברוכים הבאים לתרגום היקום {universe} !',
     'encyclopedia.translation.desc': 'ממשק האנציקלופדיה הזה משמש לתרגום ל {language}. בחרו ערכים קיימים ברשימה בצד שמאל כדי להתחיל את התרגומם.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `אין {totalEntries, plural, 
+    zero {רשומות}
+    one {יש רשומה אחת}
+    other {יש # רשומות}
+  } ביקום הזה.`,
     'encyclopedia.settings.title': 'הגדרות האנציקלופדיה',
     'encyclopedia.settings.categoriesDesc': 'הפעלה וכיבוי של קטגוריות שתרצו להשתמש בהן באנציקלופדיה שלכם.',
     'encyclopedia.settings.introText': 'הודעת ברוך הבא שתוצג לאחר תיאור היקום.',
@@ -209,10 +209,10 @@ export default {
     'encyclopedia.menuClose': 'סגור תפריט אנציקלופדיה',
     'encyclopedia.menuAria': 'תפריט אנציקלופדיה',
     'enc.newField': 'שדה חדש',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'enc.entries.limit': `כרגע יש לך {value, number} מתוך {max, plural,
+    =0 {ללא הגבלה}
     other {{max, number}}
-  } entries.`,
+  } רשומות.`,
     'enc.entries.limitReached': '!הגעת למספר המרבי של ערכי האנציקלופדיה המותרים עבור המינוי הנוכחי שלך',
     'encyclopedia.pronunciation.title': 'הגייה',
     'encyclopedia.wip.abbreviation': 'עבודה בתהליך',

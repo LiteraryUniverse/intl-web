@@ -62,12 +62,14 @@ export default {
     'writer.publish.public': 'פרסום',
     'writer.publish.publish': 'Publish',
     'writer.publish.publish.original': 'Publish (Original)',
-    'writer.publish.now': 'Publish now',
+    'writer.publish.now': 'פרסם עכשיו',
     'writer.publish.moreOptions': 'More save options',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
+    'writer.publish.schedulePrevious': 'עליך לפרסם את הפרק הקודם או לתזמן את פרסומו לפני שתוכל לפרסם את הפרק הזה.',
     'writer.publish.earlyAccess.title': 'גישה מוקדמת למעריצים',
     'writer.publish.earlyAccess.groupLine': '{days} ימים מוקדם יותר: {tiers} — המעריצים מקבלים גישה ב- {date, date, short} ב- {date, time}',
     'writer.initialLetter': 'מכתב פתיחה',
     'writer.ruby': 'רובי',
-    'writer.ruby.placeholder': 'הזן קריאה (למשל かんじ)'
+    'writer.ruby.placeholder': 'הזן קריאה (למשל かんじ)',
+    'writer.linkToWork': 'קישור ליקום, סיפור או פרק',
+    'writer.insertWorkCard': 'הכנס כרטיס סיפור או כרטיס יקום'
 };

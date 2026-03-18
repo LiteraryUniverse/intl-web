@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} dage før: {tiers} - fans får adgang på {date, date, short} på {date, time}',
     'writer.initialLetter': 'Indledende afsnit Brev',
     'writer.ruby': 'Ruby',
-    'writer.ruby.placeholder': 'Indtast læsning (f.eks. かんじ)'
+    'writer.ruby.placeholder': 'Indtast læsning (f.eks. かんじ)',
+    'writer.linkToWork': 'Link til et univers, en historie eller et kapitel',
+    'writer.insertWorkCard': 'Indsæt historie- eller univers-kort'
 };

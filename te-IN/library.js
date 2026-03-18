@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'చదువుటకు కొనసాగండి',
     'bookmark.statusSummary': 'మీరు కథని చదువుతున్నారు {readPercent, number, ::percent} నుండి.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'దయచేసి శోధన పదాలను నమోదు చేయండి లేదా ఫిల్టర్‌లను వర్తింపజేయండి',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

@@ -69,5 +69,7 @@ export default {
     'writer.publish.earlyAccess.groupLine': '{days} 提前數天： {tiers} - 球迷可於 {date, date, short} 於 {date, time}獲得存取權限。',
     'writer.initialLetter': '首段字母',
     'writer.ruby': '紅寶石',
-    'writer.ruby.placeholder': '輸入讀數 (例如：かんじ)'
+    'writer.ruby.placeholder': '輸入讀數 (例如：かんじ)',
+    'writer.linkToWork': '連結至宇宙、故事或章節',
+    'writer.insertWorkCard': '插入故事或宇宙卡'
 };

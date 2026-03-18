@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'Bài viết gần đây',
     'blog.statsPage': 'Thống kê Blog',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Phê bình văn học',
+    'blog.literaryCommentary.checkbox': 'Đây là một bài bình luận văn học',
+    'blog.literaryCommentary.description': 'Chọn một câu chuyện hoặc một vũ trụ từ thư viện của bạn để đưa ra bình luận văn học về:',
+    'blog.literaryCommentary.rating': 'Đánh giá (tùy chọn)',
+    'blog.literaryCommentary.empty': 'Hiện chưa có bình luận văn học nào.',
     'blog.settings.qa': 'Hỏi & Đáp',
     // Q&A Settings
     'blog.qa.settings.title': 'Cài đặt Hỏi & Đáp',

@@ -7,6 +7,7 @@ export default {
     'bookmark.continueReading': 'ಓದುತ್ತ ಮುಂದುವರಿಯಿರಿ',
     'bookmark.statusSummary': 'ನೀವು ಕಥೆಯ ಆರಂಭದಿಂದ {readPercent, number, ::percent} ಓದಿದ್ದೀರಿ.',
     'library.search.prompt': 'Search your library to find content',
+    'library.search.noFilters': 'Please enter search terms or apply filters',
     'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library'
 };

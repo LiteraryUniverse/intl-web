@@ -56,6 +56,11 @@ export default {
     'blog.posts.recent': 'ಇತ್ತಿಚಿನ ಪೋಸ್ಟ್‌‌‌ಗಳು',
     'blog.statsPage': 'ಬ್ಲಾಗ್ ಪಟ್ಟಿಗಳು',
     'blog.view': 'View Blog',
+    'blog.literaryCommentary': 'Literary Commentary',
+    'blog.literaryCommentary.checkbox': 'This is a literary commentary',
+    'blog.literaryCommentary.description': 'Select a story or universe from your library to provide literary commentary on:',
+    'blog.literaryCommentary.rating': 'Rating (optional)',
+    'blog.literaryCommentary.empty': 'No literary commentary available yet.',
     'blog.settings.qa': 'Q&A',
     // Q&A Settings
     'blog.qa.settings.title': 'Q&A Settings',

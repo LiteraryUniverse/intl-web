@@ -33,9 +33,9 @@ export default {
     'settings.export.explain': 'זה יאפשר לך לקבל את כל הנתונים שמאוחסנים במסד הנתונים שלנו בפורמט JSON.',
     'settings.export.submit': 'יצוא נתונים',
     'settings.delete.title': 'מחיקת חשבון',
-    'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
-    there is no way of getting it back. Note that this might not automatically delete your published works,
-    comments, etc. Please refer to Terms of Service for details.`,
+    'settings.delete.warning': `אזהרה: מחיקת החשבון תביא לאובדן הגישה לחשבון זה ול-
+    , ואין כל דרך להשיב אותה. שימו לב כי פעולה זו עשויה שלא למחוק באופן אוטומטי את היצירות שפרסמתם,
+    , את התגובות שלכם וכו'. לפרטים נוספים, אנא עיינו בתנאי השימוש.`,
     'settings.delete.confirm': 'רק כדי לוודא. האם אתה בטוח שברצונך למחוק את החשבון שלך?',
     'settings.delete.cancel': 'אני לא רוצה למחוק את החשבון שלי',
     'settings.delete.submit': 'מחק את החשבון שלי',
@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'המין שלך',
     'settings.gender.usage': 'מידע זה יישאר פרטי. אנו משתמשים בנתונים אלו לצורך ניתוח פלטפורמה וניתוח אנונימי ליוצרים כאשר אתה קורא את הסיפורים שלהם.',
     'settings.age.title': 'הגיל שלך',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'הצג תוכן למבוגרים בלבד (מגיל 21 ומעלה)',
     'settings.age.birthday': 'Date of birth',
     'settings.age.usage': 'מידע זה יישאר פרטי. לפי חובת חוק אנו חייבים לשאול על הגיל שלך. אנו משתמשים בנתונים אלו לצורך ניתוח פלטפורמה, הצגת תוכן בהתאם לדירוגים וניתוח אנונימי ליוצרים כאשר אתה קורא את הסיפורים שלהם.',
     'settings.country.title': 'המדינה שלך',
