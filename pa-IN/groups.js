@@ -16,11 +16,11 @@ export default {
     'groups.banner.label': 'Group Banner',
     'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'ਮੈਂਬਰ',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `ਇਸ ਗਰੁੱਪ ਵਿੱਚ {totalMembers, plural,
+    zero {ਕੋਈ ਮੈਂਬਰ ਨਹੀਂ ਹਨ}
+    one {ਇੱਕ ਮੈਂਬਰ ਹੈ}
+    other {# ਮੈਂਬਰ ਹਨ}
+  }`,
     'groups.leaveGroup': 'ਗਰੁੱਪ ਤੋਂ ਛੱਡੋ',
     'groups.leaveGroup.confirm': 'ਬਿਲਕੁਲ ਯਕੀਨੀ ਕਰਨ ਲਈ। ਕੀ ਤੁਸੀਂ ਵਾਕਈ {groupName}ਤੋਂ ਛੱਡਣਾ ਚਾਹੁੰਦੇ ਹੋ?',
     'group.settings': 'ਗਰੁੱਪ ਸੈਟਿੰਗਾਂ',
@@ -34,6 +34,20 @@ export default {
     'groups.join.questionDefault': 'ਕਿਉਂ ਤੁਹਾਨੂੰ ਗਰੁੱਪ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਦੀ ਇਜ਼ਾਜਤ ਮਿਲਨੀ ਚਾਹੀਦੀ ਹੈ?',
     'groups.join.pendingRequest': 'ਤੁਹਾਡੀ ਗਰੁੱਪ ਵਾਲੇ ਪਰਬੰਧਕਾਂ ਦੀਆਂ ਮਨਜ਼ੂਰੀਆਂ ਦੀ ਉਡੀਕ ਹੈ ਤੁਹਾਡੀ ਗਰੁੱਪ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ।',
     'groups.join.requesting': 'ਬੇਨਤੀ ਕਰ ਰਿਹਾ ਹੈ',
+    'groups.writingLeaderboard.title': 'Writing leaderboard',
+    'groups.writingLeaderboard.description': 'See how group members compare by recent writing output.',
+    'groups.writingLeaderboard.period.daily': 'Daily',
+    'groups.writingLeaderboard.period.weekly': 'Weekly',
+    'groups.writingLeaderboard.period.monthly': 'Monthly',
+    'groups.writingLeaderboard.period.yearly': 'Yearly',
+    'groups.writingLeaderboard.wordsValue': '{count} words',
+    'groups.writingLeaderboard.secondaryValue': '{characters} characters · {sessions} sessions',
+    'groups.writingLeaderboard.rank': 'Rank',
+    'groups.writingLeaderboard.member': 'Member',
+    'groups.writingLeaderboard.output': 'Output',
+    'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+    'groups.writingLeaderboard.display': 'Display writing leaderboard to members',
+    'groups.writingLeaderboard.displayHelp': 'When enabled, group members can compare recent writing activity on the members page.',
     'groups.invite.btn': 'ਗਰੁੱਪ ਨੂੰ ਆਮੰਤਰਿਤ ਕਰੋ',
     'groups.invite.modalAria': 'ਗਰੁੱਪ ਵਿੱਚ ਯੂਜ਼ਰਾਂ ਨੂੰ ਆਮੰਤਰਿਤ ਕਰੋ ਡਾਇਲਾਗ',
     'groups.invite.send': 'ਆਮੰਤਰਨ ਭੇਜੋ',
