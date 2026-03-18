@@ -16,11 +16,11 @@ export default {
     'groups.banner.label': 'Group Banner',
     'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'सदस्य',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `वहाँ {totalMembers, plural,
+    zero {कोई सदस्य नहीं हैं}
+    one {एक सदस्य है}
+    other {# सदस्य हैं}
+  } इस समूह में`,
     'groups.leaveGroup': 'समूह छोड़ें',
     'groups.leaveGroup.confirm': 'यकीन है कि आप {groupName}को छोड़ना चाहते हैं?',
     'group.settings': 'समूह सेटिंग्स',
@@ -34,6 +34,20 @@ export default {
     'groups.join.questionDefault': 'आपको क्यों इस समूह में शामिल होने की अनुमति दी जानी चाहिए?',
     'groups.join.pendingRequest': 'आपका समूह में शामिल होने का अनुरोध समूह व्यवस्थापकों की स्वीकृति की प्रतीक्षा कर रहा है।',
     'groups.join.requesting': 'शामिल होने का अनुरोध कर रहा है',
+    'groups.writingLeaderboard.title': 'Writing leaderboard',
+    'groups.writingLeaderboard.description': 'See how group members compare by recent writing output.',
+    'groups.writingLeaderboard.period.daily': 'Daily',
+    'groups.writingLeaderboard.period.weekly': 'Weekly',
+    'groups.writingLeaderboard.period.monthly': 'Monthly',
+    'groups.writingLeaderboard.period.yearly': 'Yearly',
+    'groups.writingLeaderboard.wordsValue': '{count} words',
+    'groups.writingLeaderboard.secondaryValue': '{characters} characters · {sessions} sessions',
+    'groups.writingLeaderboard.rank': 'Rank',
+    'groups.writingLeaderboard.member': 'Member',
+    'groups.writingLeaderboard.output': 'Output',
+    'groups.writingLeaderboard.aria': 'Writing leaderboard period',
+    'groups.writingLeaderboard.display': 'Display writing leaderboard to members',
+    'groups.writingLeaderboard.displayHelp': 'When enabled, group members can compare recent writing activity on the members page.',
     'groups.invite.btn': 'समूह में आमंत्रण',
     'groups.invite.modalAria': 'समूह में उपयोगकर्ताओं को आमंत्रित करें डायलॉग',
     'groups.invite.send': 'आमंत्रण भेजें',
