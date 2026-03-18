@@ -21,7 +21,7 @@ export default {
     many {znajduje się # wpisów}
     other {znajduje się # wpisów}
   }.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Proszę napisać nowy post',
     'blog.post.update': 'Edytowanie {title}',
     'blog.post.text': 'Tekst wpisu',
     'common.slug': 'Adres przyjazny pozycjonowaniu',
