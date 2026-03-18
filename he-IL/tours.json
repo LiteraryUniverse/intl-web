@@ -24,11 +24,11 @@
         "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
       },
       "discovery": {
-        "title": "Discovery",
+        "title": "גילוי",
         "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
       },
       "social": {
-        "title": "Social",
+        "title": "חברתי",
         "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
       },
       "scratchpad": {
@@ -48,7 +48,7 @@
         "content": "Manage your personal information, preferences, and account settings."
       },
       "workshop": {
-        "title": "Workshop",
+        "title": "סדנה",
         "content": "Your creative space for writing, editing, and managing your stories and universes."
       },
       "library": {
@@ -78,7 +78,7 @@
       "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
     },
     "theWay": {
-      "title": "The Way of the Author",
+      "title": "דרכו של הסופר",
       "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
     },
     "ownWork": {
