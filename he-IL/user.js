@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': 'אווטר של {username}',
     'user.friend.list.requests': 'בקשות חברות',
     'user.friend.norequests': 'אין לך בקשות לחברות.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `בוקר טוב {dayPart, select,
+    morning {בוקר}
+    afternoon {אחר הצהריים}
+    evening {ערב}
+    night {לילה}
+    other {יום}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'מחבר זה פורסם בדרך המסורתית',
     'user.verification.luAuthor': 'מחבר מבוסס ביקום הספרותי',
