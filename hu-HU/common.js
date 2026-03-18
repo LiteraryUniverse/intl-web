@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'Ez a tartalom mesterséges intelligencia segítségével készült',
     'common.aiContent.model': 'AI modell: {model}',
     'common.aiContent.custom': 'Egyedi AI modell',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': 'karakterek',
+    'common.words': 'szavak',
     'common.quickSummary': 'Gyors összefoglaló',
     'common.creating': 'Létrehozása...'
 };
