@@ -22,7 +22,7 @@
 	"signup.userType.description": "Choose how you'd like to use Literary Universe. You can always change this later in your settings.",
 	"signup.userType.reader.title": "Reader",
 	"signup.userType.reader.description": "I want to discover and read great stories",
-	"signup.userType.author.title": "Writer",
+	"signup.userType.author.title": "סופר",
 	"signup.userType.author.description": "I want to create and publish my own stories",
 	"signup.language.title": "Language Preferences",
 	"signup.language.description": "Choose your preferred language settings for the best experience.",
