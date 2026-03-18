@@ -131,7 +131,7 @@ export default {
     'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'आपके नोट और विचार साइट के किसी भी स्थान पर उपलब्ध हैं।',
     'common.feedback': 'प्रतिक्रिया',
-    'common.createdOn': 'Created on {date, date, long}',
+    'common.createdOn': '{date, date, long} पर बनाया गया',
     'common.createdOn.title': '!0 पर बनाया गया',
     // account types
     admin: 'व्यवस्थापक',
@@ -152,7 +152,7 @@ export default {
     'common.offlineStatus': 'आप वर्तमान में ऑफ़लाइन हैं।',
     male: 'पुरुष',
     female: 'महिला',
-    'common.legal.effectiveAt': 'Effective from {date, date, medium}',
+    'common.legal.effectiveAt': '{date, date, medium} से प्रभावी',
     select: 'कृपया चुनें',
     'common.statusFailed': 'सर्वर से कनेक्ट करने में विफल हुआ।',
     'common.statusConnecting': 'सर्वर से कनेक्ट करने का प्रयास किया जा रहा है... ({count, number})',
