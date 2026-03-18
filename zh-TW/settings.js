@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': '您的性別',
     'settings.gender.usage': '這些資訊將保持私密。我們使用這些數據進行平台分析，並在您閱讀創作者的故事時進行匿名分析。',
     'settings.age.title': '您的年齡',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': '顯示露骨內容（年齡分級 21+）',
     'settings.age.birthday': '出生日期',
     'settings.age.usage': '這些資訊將保持私密。我們根據法律要求詢問您的年齡。我們使用這些數據進行平台分析，根據分級顯示內容，並在您閱讀創作者的故事時進行匿名分析。',
     'settings.country.title': '您的國家',
