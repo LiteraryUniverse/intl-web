@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Hiện tại bạn chưa có {type, select,
+    organization {bất kỳ blog nào}
+    universe {một blog dành riêng cho thế giới của bạn}
+    user {một blog}
     other {}
   }.`,
     'blog.create': 'Tạo một blog mới',
@@ -15,12 +15,12 @@ export default {
     'blog.description': 'Giới thiệu về Blog',
     'blog.theme': 'Giao diện',
     'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.posts.total': `Không có bài viết nào {total, plural,
+    zero {có một bài viết}
+    one {có # bài viết}
+    other {có # bài viết}
+  } trên blog này.`,
+    'blog.post.create': 'Viết bài mới',
     'blog.post.update': 'Đang chỉnh sửa {title}',
     'blog.post.text': 'Đoạn văn bản bài viết',
     'common.slug': 'Địa chỉ tựa đề thân thiện với SEO',
