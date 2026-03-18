@@ -321,8 +321,8 @@ export default {
     'common.aiContent.tooltip': 'Acest conținut a fost creat cu ajutorul AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Model AI personalizat',
-    'common.characters': 'characters',
-    'common.words': 'words',
+    'common.characters': 'caractere',
+    'common.words': 'cuvinte',
     'common.quickSummary': 'Rezumat rapid',
     'common.creating': 'Crearea...'
 };
