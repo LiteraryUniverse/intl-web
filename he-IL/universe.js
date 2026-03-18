@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} הגדרות המאמר',
     'universe.fanfiction.stories': 'סיפורים',
     'universe.fanfiction.fanarts': 'אמנות המעריצים',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `אין {num, plural,
+    =0 {סיפורים}
+    one {יש סיפור אחד}
+    other {יש # סיפורים}
+    } ביקום הזה.`,
     'universe.authors.title': 'מחברים',
     'universe.authors.desc': 'יצורים ותורמים ל- {universe}',
     'universe.contributors': 'תורמים',
