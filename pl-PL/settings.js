@@ -62,7 +62,7 @@ export default {
     'settings.gender.title': 'Twoja płeć',
     'settings.gender.usage': 'Te informacje pozostaną prywatne. Używamy tych danych do analizowania platformy oraz w anonimowych podsumowaniach dla twórców, gdy czytasz ich twórczość.',
     'settings.age.title': 'Twój wiek',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': 'Wyświetlanie treści o charakterze jednoznacznym (kategoria wiekowa 21+)',
     'settings.age.birthday': 'Data urodzenia',
     'settings.age.usage': 'Te informacje pozostaną prywatne. Jesteśmy prawnie zobligowani do pytania o Twój wiek. Używamy tych danych do analizowania platformy, wyświetlania treści na podstawie kwalifikacji wiekowych oraz anonimowych podsumowań dla twórców, gdy czytasz ich twórczość.',
     'settings.country.title': 'Twój kraj',
