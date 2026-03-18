@@ -1,10 +1,10 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `আপনার কাছে বর্তমানে নেই {type, select,
+    organization {কোনো ব্লগ}
+    universe {আপনার মহাবিশ্বের জন্য একটি ব্লগ}
+    user {একটি ব্লগ}
     other {}
-  }.`,
+  }`,
     'blog.create': 'একটি নতুন ব্লগ তৈরি করুন',
     'blog.settings': `{type, select,
     org {ব্লগ}
@@ -15,12 +15,12 @@ export default {
     'blog.description': 'ব্লগ পরিচিতি',
     'blog.theme': 'থিম',
     'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.posts.total': `সেখানে {total, plural,
+    zero {কোনো পোস্ট নেই}
+    one {একটি পোস্ট আছে}
+    other {# পোস্ট আছে}
+  } এই ব্লগে।`,
+    'blog.post.create': 'একটি নতুন পোস্ট লিখুন',
     'blog.post.update': '{title}সম্পাদনা করা হচ্ছে',
     'blog.post.text': 'পোস্ট পাঠ্য',
     'common.slug': 'এসইও বন্ধুত্বপূর্ণ ঠিকানা',
@@ -124,7 +124,7 @@ export default {
     'blog.qa.outdated.notice': 'This answer may be outdated.',
     'blog.qa.outdated.seeReplacement': 'See updated answer in question {question}.',
     // Q&A Public
-    'blog.qa.title': 'Questions',
+    'blog.qa.title': 'প্রশ্নসমূহ',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
     'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',
@@ -137,8 +137,8 @@ export default {
     'blog.qa.status.ignored': 'Ignored',
     'blog.qa.status.private': 'Private Answer',
     'blog.qa.status.public': 'Public Answer',
-    'blog.qa.role.reader': 'Reader',
-    'blog.qa.role.author': 'Author',
+    'blog.qa.role.reader': 'পাঠক',
+    'blog.qa.role.author': 'লেখক',
     'blog.qa.pinned': 'Pinned',
     'blog.qa.answeredAgo': 'Answered {time}',
     'blog.qa.loadMore': 'Load more',
