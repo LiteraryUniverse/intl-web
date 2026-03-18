@@ -87,6 +87,10 @@ export default {
   'signin.password.forgot': 'Forgot password?',
   'dashboard.whatsnew': 'What is new',
   'dashboard.blog': 'Your blog',
+  'dashboard.resumeWriting': 'Resume writing',
+  'dashboard.resumeWriting.description':
+    'Jump back into the story or universe you worked on most recently.',
+  'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
   'common.footer.tagline': 'Writing and reading complex universes made easy.',
   'common.footer.plans': 'Plans & Pricing',
   'common.legal.tos': 'Terms of Service',
