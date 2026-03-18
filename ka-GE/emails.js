@@ -2,30 +2,30 @@
  * @authors Jan Dvorak
  */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'წვევა ლიტერატურულ სამყაროში {username}',
+    'email.enrollAccount.message': `გამარჯობა, {username}\n\n
+    გვსურს, მოგპატიჟოთ ლიტერატურულ სამყაროში! ჩვენ თქვენთვის შევქმენით სპეციალური პირადი ანგარიში, რომლის საშუალებითაც შეგიძლიათ ისარგებლოთ ლიტერატურული სამყაროს ყველა ფუნქციით! შემოგვიერთდით შემოქმედებითი წერისა და კითხვის ინსტრუმენტების ახალი თაობის შექმნაში!
+    ანგარიშის გასააქტიურებლად, უბრალოდ დააჭირეთ ქვემოთ მოცემულ ბმულს:\n\n{url}`,
+    'email.resetPassword.subject': 'ლიტერატურული სამყაროს პაროლის გადატვირთვა',
+    'email.resetPassword.message': `გამარჯობა {username}!\n\n ჩვენ მივიღეთ მოთხოვნა თქვენი ანგარიშის პაროლის აღდგენის შესახებ.
+        გთხოვთ, მიჰყვეთ ქვემოთ მოცემულ ბმულს თქვენი პაროლის აღსადგენად:\n\n{url}`,
+    'email.verifyEmail.subject': 'ლიტერატურული სამყაროს ელფოსტის ვერიფიკაცია',
+    'email.verifyEmail.message': 'გამარჯობა {username}!\n\n გთხოვთ, დაადასტუროთ თქვენი ელფოსტის მისამართი ქვემოთ მოცემულ ბმულზე დაწკაპუნებით:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
+    'email.salutation': 'გამარჯობა {username},',
+    'email.welcome': 'კეთილი იყოს თქვენი მობრძანება ლიტერატურულ სამყაროში!',
     'email.signature': 'Sincerely,<br>Literary Universe team</br>',
     'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.welcome': 'კეთილი იყოს თქვენი მობრძანება',
+    'email.enrollAccount.messageHtml': 'გვსურს, მოგპატიჟოთ ლიტერატურულ სამყაროში! ჩვენ თქვენთვის უკვე შევქმენით პირადი ანგარიში, რომლის საშუალებითაც შეგიძლიათ ისარგებლოთ ლიტერატურული სამყაროს ყველა ფუნქციით. შემოგვიერთდით შემოქმედებითი წერისა და კითხვის ახალი თაობის შექმნაში!',
+    'email.enrollAccount.button': 'შედით თქვენს ანგარიშზე',
     'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
+    'email.resetPassword.messageHtml': 'ჩვენ მივიღეთ მოთხოვნა თქვენი ანგარიშის პაროლის გადატვირთვაზე. პროცესის გასაგრძელებლად, გთხოვთ, დააჭიროთ ქვემოთ მოცემულ ღილაკს. თუ ეს მოთხოვნა თქვენ არ გაგიგზავნათ, შეგიძლიათ დააიგნოროთ ეს ელფოსტა, თუმცა, სასურველია, გადახედოთ თქვენი ანგარიშის უსაფრთხოების პარამეტრებს.',
     'email.resetPassword.button': 'პაროლის განულება',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'მოხარული ვართ, რომ შემოგვიერთდით! გთხოვთ, დააჭირეთ ქვემოთ მოცემულ ღილაკს ელფოსტის მისამართის დასადასტურებლად.',
     'email.verifyEmail.button': 'ეს ელ-ფოსტის მისამართის დამოწმება',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'თქვენი ანგარიში განახლებულია',
@@ -47,23 +47,23 @@ export default {
     // The Way (Author Level Up)
     'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
     'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
-    'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
+    'theWay.levelUp.emailIntro': 'წერის ხელოსნობისადმი თქვენი თავდადება დაჯილდოვდა!',
     'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
-    'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
-    'theWay.levelUp.viewDashboard': 'View Your Dashboard',
+    'theWay.levelUp.emailContinue': 'განაგრძეთ თქვენი მოგზაურობა და გაიხსენით მეტი მიღწევა "ავტორის გზაზე".',
+    'theWay.levelUp.viewDashboard': 'თქვენი დაფის ნახვა',
     // Notifications - General content comment
-    'email.notifications.contentComment.subject': 'New comment on your content',
-    'email.notifications.contentComment.title': 'New comment on your {contentType}',
-    'email.notifications.contentComment.details': 'Title: {contentTitle} • From: {commenterName}',
-    'email.notifications.contentComment.cta': 'View comment',
+    'email.notifications.contentComment.subject': 'თქვენი კონტენტის შესახებ ახალი კომენტარი',
+    'email.notifications.contentComment.title': 'თქვენს შესახებ ახალი კომენტარი {contentType}',
+    'email.notifications.contentComment.details': 'სათაური: {contentTitle} • ავტორი: {commenterName}',
+    'email.notifications.contentComment.cta': 'კომენტარის ნახვა',
     // Notifications - Beta reader comment
-    'email.notifications.betaComment.subject': 'New beta reader feedback',
-    'email.notifications.betaComment.title': 'New beta reader feedback',
-    'email.notifications.betaComment.details': 'Story: {storyTitle}{chapter} • From: {commenterName}',
-    'email.notifications.betaComment.cta': 'View feedback',
+    'email.notifications.betaComment.subject': 'ახალი ბეტა-მკითხველის უკუკავშირი',
+    'email.notifications.betaComment.title': 'ახალი ბეტა-მკითხველის უკუკავშირი',
+    'email.notifications.betaComment.details': 'ისტორია: {storyTitle}{chapter} • ავტორი: {commenterName}',
+    'email.notifications.betaComment.cta': 'აზრის ნახვა',
     // Notifications - New message
-    'email.notifications.newMessage.subject': 'You have a new message',
-    'email.notifications.newMessage.title': 'You have a new message',
+    'email.notifications.newMessage.subject': 'თქვენ გაქვთ ახალი შეტყობინება',
+    'email.notifications.newMessage.title': 'თქვენ გაქვთ ახალი შეტყობინება',
     'email.notifications.newMessage.details': 'From: {senderName}',
     'email.notifications.newMessage.cta': 'View message',
     // Notifications - Chapter published
@@ -194,5 +194,5 @@ export default {
     'email.comment.feedback.subject': 'New comment on feedback',
     'email.comment.feedback.body': '{commenterName} commented on your feedback issue: "{commentText}"',
     // Welcome email
-    'email.welcome.subject': 'Welcome to Literary Universe!'
+    'email.welcome.subject': 'კეთილი იყოს თქვენი მობრძანება ლიტერატურულ სამყაროში!'
 };
