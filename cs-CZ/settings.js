@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identita',
     'settings.profile.about': 'O vás',
     'settings.profile.basic.description': 'Spravujte základní informace o svém profilu, které budou viditelné pro ostatní uživatele.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Vaše zájmy',
     'settings.account': 'Nastavení účtu',
     'settings.legal.export.download': 'Stáhnout data',
