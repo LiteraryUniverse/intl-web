@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Loo saab hiljem uuesti universumiga siduda loo seadete kaudu.',
     'workshop.story.universe.standalone.trigger': 'Tee lugu iseseisvaks',
     'workshop.settings.tags': 'Sildid',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Redaktsioon',
     'workshop.revisions.title': '{story}: {chapter} Redaktsioonid',
     'workshop.revisions.current': 'Praegune mustand',
