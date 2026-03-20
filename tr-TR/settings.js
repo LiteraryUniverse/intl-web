@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Kimlik',
     'settings.profile.about': 'Senin Hakkında',
     'settings.profile.basic.description': 'Diğer kullanıcılar tarafından görülebilecek temel profil bilgilerinizi yönetin.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'İlgi Alanlarınız',
     'settings.account': 'Hesap ayarları',
     'settings.legal.export.download': 'Verilerinizi İndirin',
