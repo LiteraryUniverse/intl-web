@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': '나중에 스토리 설정에서 스토리를 유니버스에 다시 연결할 수 있습니다.',
     'workshop.story.universe.standalone.trigger': '독립형 스토리 만들기',
     'workshop.settings.tags': '태그',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': '개정',
     'workshop.revisions.title': '{story}: {chapter} 개정',
     'workshop.revisions.current': '현재 초안',
