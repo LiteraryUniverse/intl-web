@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Sie können die Story später über die Story-Einstellungen wieder einem Universum zuordnen.',
     'workshop.story.universe.standalone.trigger': 'Geschichte eigenständig machen',
     'workshop.settings.tags': 'Tags',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Überarbeitung',
     'workshop.revisions.title': '{story}: {chapter} Überarbeitungen',
     'workshop.revisions.current': 'Aktueller Entwurf',
