@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'תוכל לצרף את הסיפור ליקום שוב מאוחר יותר מהגדרות הסיפור.',
     'workshop.story.universe.standalone.trigger': 'הפוך את הסיפור לעצמאי',
     'workshop.settings.tags': 'תגיות',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'תיקון',
     'workshop.revisions.title': '{story}: {chapter} תיקונים',
     'workshop.revisions.current': 'טיוטה נוכחית',
