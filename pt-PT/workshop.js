@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Pode voltar a associar a história a um universo mais tarde a partir das definições da história.',
     'workshop.story.universe.standalone.trigger': 'Torne a história autónoma',
     'workshop.settings.tags': 'Tags',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revisão',
     'workshop.revisions.title': '{story}: {chapter} Revisões',
     'workshop.revisions.current': 'Rascunho atual',
