@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Vėliau istoriją vėl galite prijungti prie visatos iš istorijos nustatymų.',
     'workshop.story.universe.standalone.trigger': 'Padarykite istoriją atskirą',
     'workshop.settings.tags': 'Žymės',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Peržiūra',
     'workshop.revisions.title': '{story}: {chapter} Peržiūros',
     'workshop.revisions.current': 'Esama juodraštis',
