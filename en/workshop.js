@@ -199,6 +199,7 @@ export default {
     'You can attach the story to a universe again later from story settings.',
   'workshop.story.universe.standalone.trigger': 'Make story standalone',
   'workshop.settings.tags': 'Tags',
+  'workshop.settings.tags.placeholder': 'Add a tag…',
   'workshop.revision': 'Revision',
   'workshop.revisions.title': '{story}: {chapter} Revisions',
   'workshop.revisions.current': 'Current draft',
