@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Príbeh môžete neskôr opäť pripojiť k vesmíru z nastavení príbehu.',
     'workshop.story.universe.standalone.trigger': 'Vytvorte samostatný príbeh',
     'workshop.settings.tags': 'Značky',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revízia',
     'workshop.revisions.title': '{story}: {chapter} Revízie',
     'workshop.revisions.current': 'Aktuálny návrh',
