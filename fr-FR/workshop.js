@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Vous pouvez rattacher l\'histoire à un univers ultérieurement à partir des paramètres de l\'histoire.',
     'workshop.story.universe.standalone.trigger': 'Rendre l\'histoire autonome',
     'workshop.settings.tags': 'Tags',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Révision',
     'workshop.revisions.title': '{story} : {chapter} Révisions',
     'workshop.revisions.current': 'Brouillon actuel',
