@@ -53,6 +53,8 @@ export default {
     'settings.profile.identity': 'アイデンティティ',
     'settings.profile.about': 'あなたについて',
     'settings.profile.basic.description': '他のユーザーに公開される基本的なプロフィール情報を管理します。',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'あなたの興味',
     'settings.account': 'アカウント設定',
     'settings.legal.export.download': 'あなたのデータをダウンロードする',
