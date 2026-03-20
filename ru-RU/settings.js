@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Идентичность',
     'settings.profile.about': 'О себе',
     'settings.profile.basic.description': 'Управляйте основной информацией своего профиля, которая будет видна другим пользователям.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Ваши интересы',
     'settings.account': 'Настройки учётной записи',
     'settings.legal.export.download': 'Скачать данные',
