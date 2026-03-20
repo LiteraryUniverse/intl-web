@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Anda dapat melampirkan cerita ke alam semesta lagi nanti dari pengaturan cerita.',
     'workshop.story.universe.standalone.trigger': 'Membuat cerita berdiri sendiri',
     'workshop.settings.tags': 'Tag',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revisi',
     'workshop.revisions.title': '{story}: {chapter} Revisi',
     'workshop.revisions.current': 'Draft saat ini',
