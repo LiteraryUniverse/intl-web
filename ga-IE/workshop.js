@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'You can attach the story to a universe again later from story settings.',
     'workshop.story.universe.standalone.trigger': 'Make story standalone',
     'workshop.settings.tags': 'Lipéid',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Athbhreithniú',
     'workshop.revisions.title': '{story}: {chapter} Athbhreithnithe',
     'workshop.revisions.current': 'Dréacht reatha',
