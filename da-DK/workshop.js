@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Du kan knytte historien til et univers igen senere fra historieindstillingerne.',
     'workshop.story.universe.standalone.trigger': 'Gør historien selvstændig',
     'workshop.settings.tags': 'Tags',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revision',
     'workshop.revisions.title': '{story}: {chapter} Revisions',
     'workshop.revisions.current': 'Nuværende udkast',
