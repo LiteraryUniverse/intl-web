@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': '身份',
     'settings.profile.about': '關於您',
     'settings.profile.basic.description': '管理其他使用者可以看到的您的基本個人資料資訊。',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': '您的興趣',
     'settings.account': '帳戶設定',
     'settings.legal.export.download': '下載您的資料',
