@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'يمكنك إرفاق القصة بعالم مرة أخرى لاحقًا من إعدادات القصة.',
     'workshop.story.universe.standalone.trigger': 'اجعل القصة مستقلة بذاتها',
     'workshop.settings.tags': 'العلامات',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'المراجعة',
     'workshop.revisions.title': '{story}: {chapter} المراجعات',
     'workshop.revisions.current': 'المسودة الحالية',
