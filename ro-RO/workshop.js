@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Puteți atașa povestea la un univers mai târziu din setările poveștii.',
     'workshop.story.universe.standalone.trigger': 'Faceți povestea de sine stătătoare',
     'workshop.settings.tags': 'Etichete',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revizuire',
     'workshop.revisions.title': '{story}: {chapter} Revizii',
     'workshop.revisions.current': 'Versiune curentă',
