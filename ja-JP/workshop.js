@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'ストーリーは、後でストーリー設定から再びユニバースに添付することができます。',
     'workshop.story.universe.standalone.trigger': 'ストーリーを独立させる',
     'workshop.settings.tags': 'タグ',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': '改訂',
     'workshop.revisions.title': '{story}: {chapter} の改訂',
     'workshop.revisions.current': '現在のドラフト',
