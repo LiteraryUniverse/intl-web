@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': '정체성',
     'settings.profile.about': '사용자 정보',
     'settings.profile.basic.description': '다른 사용자에게 표시되는 기본 프로필 정보를 관리합니다.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': '관심 분야',
     'settings.account': '계정 설정',
     'settings.legal.export.download': '데이터 다운로드',
