@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'You can attach the story to a universe again later from story settings.',
     'workshop.story.universe.standalone.trigger': 'Make story standalone',
     'workshop.settings.tags': 'குறிச்சொல்லுக்கள்',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'மருத்துவம்',
     'workshop.revisions.title': '{story}: {chapter} மருத்துவங்கள்',
     'workshop.revisions.current': 'தற்போதைய வரைவு',
