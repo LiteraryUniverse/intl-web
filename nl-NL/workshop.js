@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'U kunt het verhaal later weer aan een universum koppelen vanuit verhaalinstellingen.',
     'workshop.story.universe.standalone.trigger': 'Verhaal op zichzelf laten staan',
     'workshop.settings.tags': 'Tags',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revisie',
     'workshop.revisions.title': '{story}: {chapter} Revisies',
     'workshop.revisions.current': 'Huidige concept',
