@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Пізніше ви можете приєднати історію до всесвіту за допомогою налаштувань історії.',
     'workshop.story.universe.standalone.trigger': 'Зробіть історію окремою',
     'workshop.settings.tags': 'Теги',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Редагування',
     'workshop.revisions.title': '{story}: {chapter} Зміни',
     'workshop.revisions.current': 'Поточний проєкт',
