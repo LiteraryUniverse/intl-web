@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identitet',
     'settings.profile.about': 'Om dig',
     'settings.profile.basic.description': 'Administrer dine grundlæggende profiloplysninger, som vil være synlige for andre brugere.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Dine interesser',
     'settings.account': 'Kontoindstillinger',
     'settings.legal.export.download': 'Download dine data',
