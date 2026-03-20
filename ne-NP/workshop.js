@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'You can attach the story to a universe again later from story settings.',
     'workshop.story.universe.standalone.trigger': 'Make story standalone',
     'workshop.settings.tags': 'ट्यागहरू',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'संशोधन',
     'workshop.revisions.title': '{story}: {chapter} संशोधनहरू',
     'workshop.revisions.current': 'हालको ड्राफ्ट',
