@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': '您可以稍後從故事設定中再次將故事附加到宇宙中。',
     'workshop.story.universe.standalone.trigger': '讓故事獨立',
     'workshop.settings.tags': '標籤',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': '修訂版本',
     'workshop.revisions.title': '{story}： {chapter} 修訂版本',
     'workshop.revisions.current': '當前草稿',
