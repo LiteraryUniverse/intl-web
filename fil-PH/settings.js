@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identity',
     'settings.profile.about': 'About You',
     'settings.profile.basic.description': 'Manage your basic profile information that will be visible to other users.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Your Interests',
     'settings.account': 'Mga setting ng account',
     'settings.legal.export.download': 'I-download ang iyong data',
