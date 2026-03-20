@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identiteet',
     'settings.profile.about': 'Sinust',
     'settings.profile.basic.description': 'Halda oma põhilisi profiiliandmeid, mis on teistele kasutajatele nähtavad.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Teie huvid',
     'settings.account': 'Konto seaded',
     'settings.legal.export.download': 'Laadi oma andmed alla',
