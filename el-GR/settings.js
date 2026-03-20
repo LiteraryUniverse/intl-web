@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Ταυτότητα',
     'settings.profile.about': 'Σχετικά με εσάς',
     'settings.profile.basic.description': 'Διαχειριστείτε τις βασικές πληροφορίες του προφίλ σας που θα είναι ορατές σε άλλους χρήστες.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Τα ενδιαφέροντά σας',
     'settings.account': 'Ρυθμίσεις λογαριασμού',
     'settings.legal.export.download': 'Λήψη των δεδομένων σας',
