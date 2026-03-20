@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Voit liittää tarinan universumiin uudelleen myöhemmin tarina-asetuksista.',
     'workshop.story.universe.standalone.trigger': 'Tee tarinasta itsenäinen',
     'workshop.settings.tags': 'Avainsanat',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Versio',
     'workshop.revisions.title': '{story}: {chapter} Revisiot',
     'workshop.revisions.current': 'Nykyinen luonnos',
