@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Tożsamość',
     'settings.profile.about': 'O Panu',
     'settings.profile.basic.description': 'Proszę zarządzać swoimi podstawowymi informacjami profilowymi, które będą widoczne dla innych użytkowników.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Państwa zainteresowania',
     'settings.account': 'Ustawienia konta',
     'settings.legal.export.download': 'Pobierz swoje dane',
