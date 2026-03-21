@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Se verifică...',
     'slug.failed': 'Această adresă există deja.',
     'slug.success': 'Această adresă este disponibilă!',
+    'common.label': 'Label',
     'notVerified.msg': `Contul dumneavoastră {option, select,
     email {e-mail}
     wallet {portofel}
