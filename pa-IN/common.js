@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...',
     'slug.failed': 'ਇਹ ਪਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।',
     'slug.success': 'ਇਹ ਪਤਾ ਉਪਲਬਧ ਹੈ!',
+    'common.label': 'Label',
     'notVerified.msg': `ਤੁਹਾਡਾ ਖਾਤਾ {option, select,
     email {ਈਮੇਲ}
     wallet {ਵਾਲੇਟ}
