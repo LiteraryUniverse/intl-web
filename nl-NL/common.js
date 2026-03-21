@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Controleren...',
     'slug.failed': 'Dit adres bestaat al.',
     'slug.success': 'Dit adres is beschikbaar!',
+    'common.label': 'Label',
     'notVerified.msg': `Uw account {option, select,
     email {e-mail}
     wallet {wallet}
