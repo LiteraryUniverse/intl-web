@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Tarkistetaan...',
     'slug.failed': 'Tämä osoite on jo olemassa.',
     'slug.success': 'Tämä osoite on saatavilla!',
+    'common.label': 'Label',
     'notVerified.msg': `Tilisi {option, select,
     email {sähköposti}
     wallet {lompakko}
