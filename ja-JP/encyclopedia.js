@@ -166,6 +166,7 @@ export default {
     'encyclopedia.fields.connection': '接続',
     'encyclopedia.fields.time': '時間',
     'encyclopedia.fields.image': '画像',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': '可視性',
     'encyclopedia.public': '公衆',
     'encyclopedia.private': '民間',
