@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'การเชื่อมต่อ',
     'encyclopedia.fields.time': 'เวลา',
     'encyclopedia.fields.image': 'รูปภาพ',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'การมองเห็น',
     'encyclopedia.public': 'สาธารณะ',
     'encyclopedia.private': 'ส่วนตัว',
