@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Sinusuri...',
     'slug.failed': 'Ang address na ito ay mayroon na.',
     'slug.success': 'Ang address na ito ay available!',
+    'common.label': 'Label',
     'notVerified.msg': `Ang inyong account {option, select,
     email {e-mail}
     wallet {wallet}
