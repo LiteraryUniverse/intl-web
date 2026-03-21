@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Koneksyon',
     'encyclopedia.fields.time': 'Oras',
     'encyclopedia.fields.image': 'Larawan',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Visibility',
     'encyclopedia.public': 'Pampubliko',
     'encyclopedia.private': 'Pribado',
