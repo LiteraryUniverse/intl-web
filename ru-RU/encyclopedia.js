@@ -169,6 +169,7 @@ export default {
     'encyclopedia.fields.connection': 'Подключение',
     'encyclopedia.fields.time': 'Время',
     'encyclopedia.fields.image': 'Изображение',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Видимость',
     'encyclopedia.public': 'Открытая',
     'encyclopedia.private': 'Закрытая',
