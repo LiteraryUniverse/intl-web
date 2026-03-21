@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'კავშირი',
     'encyclopedia.fields.time': 'დრო',
     'encyclopedia.fields.image': 'სურათი',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'ხილვადობა',
     'encyclopedia.public': 'ღია',
     'encyclopedia.private': 'პრივატული',
