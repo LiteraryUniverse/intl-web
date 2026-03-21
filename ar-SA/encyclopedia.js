@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'الصلة',
     'encyclopedia.fields.time': 'الوقت',
     'encyclopedia.fields.image': 'الصورة',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'الرؤية',
     'encyclopedia.public': 'عام',
     'encyclopedia.private': 'خاص',
