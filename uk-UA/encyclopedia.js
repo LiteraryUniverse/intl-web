@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Зв\'язок',
     'encyclopedia.fields.time': 'Час',
     'encyclopedia.fields.image': 'Зображення',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Видимість',
     'encyclopedia.public': 'Публічний',
     'encyclopedia.private': 'Приватний',
