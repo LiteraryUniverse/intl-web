@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'მოწმდება...',
     'slug.failed': 'ეს მისამართი უკვე არსებობს.',
     'slug.success': 'ეს მისამართი ხელმისაწვდომია!',
+    'common.label': 'Label',
     'notVerified.msg': `თქვენი ანგარიში {option, select,
     email {ელ. ფოსტა}
     wallet {საფულე}
