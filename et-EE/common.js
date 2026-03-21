@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Kontrollimine...',
     'slug.failed': 'See aadress on juba olemas.',
     'slug.success': 'See aadress on saadaval!',
+    'common.label': 'Label',
     'notVerified.msg': `Teie kontot {option, select,
     email {e-posti}
     wallet {rahakoti}
