@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'जांच हो रही है...',
     'slug.failed': 'यह पता पहले से मौजूद है।',
     'slug.success': 'यह पता उपलब्ध है!',
+    'common.label': 'Label',
     'notVerified.msg': `आपका खाता {option, select,
     email {ईमेल}
     wallet {वॉलेट}
