@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Ag dul i gcomhairle...',
     'slug.failed': 'Tá an seoladh seo ann cheana féin.',
     'slug.success': 'Tá an seoladh seo ar fáil!',
+    'common.label': 'Label',
     'notVerified.msg': `Níl do chuntas {option, select,
     email {ríomhphost}
     wallet {brósaíocht}
