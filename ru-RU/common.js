@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Проверка...',
     'slug.failed': 'Такой адрес уже существует.',
     'slug.success': 'Такой адрес доступен!',
+    'common.label': 'Label',
     'notVerified.msg': `{option, select,
     email {Эл.почта вашей учётной записи не подтверждена}
     wallet {Кошелёк вашей учётной записи не подтверждён}
