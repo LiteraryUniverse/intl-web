@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'חיבור',
     'encyclopedia.fields.time': 'זמן',
     'encyclopedia.fields.image': 'תמונה',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'נראות',
     'encyclopedia.public': 'ציבורי',
     'encyclopedia.private': 'פרטי',
