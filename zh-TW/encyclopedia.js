@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': '連接',
     'encyclopedia.fields.time': '時間',
     'encyclopedia.fields.image': '圖片',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': '可見性',
     'encyclopedia.public': '公開',
     'encyclopedia.private': '私人',
