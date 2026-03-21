@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'পরীক্ষা করা হচ্ছে...',
     'slug.failed': 'এই ঠিকানা ইতিমধ্যে বিদ্যমান।',
     'slug.success': 'এই ঠিকানা উপলব্ধ!',
+    'common.label': 'Label',
     'notVerified.msg': `আপনার অ্যাকাউন্ট {option, select,
     email {ইমেল}
     wallet {ওয়ালেট}
