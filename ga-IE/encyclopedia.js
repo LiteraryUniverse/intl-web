@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Nasc',
     'encyclopedia.fields.time': 'Am',
     'encyclopedia.fields.image': 'Íomhá',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Feidhmíocht',
     'encyclopedia.public': 'Poiblí',
     'encyclopedia.private': 'Príobháideach',
