@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Sjekker...',
     'slug.failed': 'Denne adressen eksisterer allerede.',
     'slug.success': 'Denne adressen er tilgjengelig!',
+    'common.label': 'Label',
     'notVerified.msg': `Din konto {option, select,
     email {e-post}
     wallet {lommebok}
