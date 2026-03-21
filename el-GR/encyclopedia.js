@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Σύνδεση',
     'encyclopedia.fields.time': 'Χρόνος',
     'encyclopedia.fields.image': 'Εικόνα',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Ορατότητα',
     'encyclopedia.public': 'Δημόσιο',
     'encyclopedia.private': 'Ιδιωτικό',
