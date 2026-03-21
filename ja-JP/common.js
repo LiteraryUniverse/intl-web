@@ -166,6 +166,7 @@ export default {
     'slug.checking': '確認しています...',
     'slug.failed': 'このアドレスはすでに存在しています。',
     'slug.success': 'このアドレスは利用可能です!',
+    'common.label': 'Label',
     'notVerified.msg': `あなたのアカウント{option, select,
     email {メール}
     wallet {ウォレット}
