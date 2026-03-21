@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': '연결',
     'encyclopedia.fields.time': '시간',
     'encyclopedia.fields.image': '이미지',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': '가시성',
     'encyclopedia.public': '공개',
     'encyclopedia.private': '비공개',
