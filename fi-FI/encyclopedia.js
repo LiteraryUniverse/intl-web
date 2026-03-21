@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Yhteys',
     'encyclopedia.fields.time': 'Aika',
     'encyclopedia.fields.image': 'Kuva',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Näkyvyys',
     'encyclopedia.public': 'Julkinen',
     'encyclopedia.private': 'Yksityinen',
