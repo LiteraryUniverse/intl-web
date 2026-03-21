@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'בודק...',
     'slug.failed': 'כתובת זו כבר קיימת.',
     'slug.success': 'כתובת זו זמינה!',
+    'common.label': 'Label',
     'notVerified.msg': `החשבון שלך {option, select,
     email {דוא"ל}
     wallet {ארנק}
