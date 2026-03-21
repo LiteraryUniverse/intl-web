@@ -169,6 +169,7 @@ export default {
     'encyclopedia.fields.connection': 'Połączenie',
     'encyclopedia.fields.time': 'Czas',
     'encyclopedia.fields.image': 'Obraz',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Widoczność',
     'encyclopedia.public': 'Publiczne',
     'encyclopedia.private': 'Prywatne',
