@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'सम्बन्ध',
     'encyclopedia.fields.time': 'समय',
     'encyclopedia.fields.image': 'तस्वीर',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'दृश्यता',
     'encyclopedia.public': 'सार्वजनिक',
     'encyclopedia.private': 'निजी',
