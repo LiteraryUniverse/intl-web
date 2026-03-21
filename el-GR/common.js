@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Έλεγχος...',
     'slug.failed': 'Αυτή η διεύθυνση υπάρχει ήδη.',
     'slug.success': 'Αυτή η διεύθυνση είναι διαθέσιμη!',
+    'common.label': 'Label',
     'notVerified.msg': `Ο λογαριασμός σας {option, select,
     email {e-mail}
     wallet {πορτοφόλι}
