@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Kontrollerar...',
     'slug.failed': 'Denna adress finns redan.',
     'slug.success': 'Denna adress är tillgänglig!',
+    'common.label': 'Label',
     'notVerified.msg': `Ditt konto {option, select,
     email {e-post}
     wallet {plånbok}
