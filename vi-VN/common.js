@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Đang kiểm tra...',
     'slug.failed': 'Địa chỉ này đã tồn tại.',
     'slug.success': 'Địa chỉ này có sẵn!',
+    'common.label': 'Label',
     'notVerified.msg': `Tài khoản của bạn {option, select,
     email {email}
     wallet {ví}
