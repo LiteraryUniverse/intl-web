@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'இணைப்பு',
     'encyclopedia.fields.time': 'நேரம்',
     'encyclopedia.fields.image': 'படம்',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'காணக்கூடிய தன்மை',
     'encyclopedia.public': 'பொது',
     'encyclopedia.private': 'தனியார்',
