@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Tikrinama...',
     'slug.failed': 'Šis adresas jau egzistuoja.',
     'slug.success': 'Šis adresas yra prieinamas!',
+    'common.label': 'Label',
     'notVerified.msg': `Jūsų sąskaita {option, select,
     email {el. pašto}
     wallet {piniginės}
