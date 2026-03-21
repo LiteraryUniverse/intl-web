@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Kontroluje sa...',
     'slug.failed': 'Táto adresa už existuje.',
     'slug.success': 'Táto adresa je k dispozícii!',
+    'common.label': 'Label',
     'notVerified.msg': `{option, select,
     email {E-mail vášho účtu nie je overený}
     wallet {Peňaženka vášho účtu nie je overená}
