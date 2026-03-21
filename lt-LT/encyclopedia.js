@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Ryšys',
     'encyclopedia.fields.time': 'Laikas',
     'encyclopedia.fields.image': 'Vaizdas',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Matomumas',
     'encyclopedia.public': 'Viešas',
     'encyclopedia.private': 'Privatus',
