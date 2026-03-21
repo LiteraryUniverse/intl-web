@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Kontrollerer...',
     'slug.failed': 'Denne adresse findes allerede.',
     'slug.success': 'Denne adresse er tilgængelig!',
+    'common.label': 'Label',
     'notVerified.msg': `Din konto {option, select,
     email {e-mail}
     wallet {tegnebog}
