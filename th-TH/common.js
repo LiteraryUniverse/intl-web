@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'กำลังตรวจสอบ...',
     'slug.failed': 'ที่อยู่นี้มีอยู่แล้ว',
     'slug.success': 'ที่อยู่นี้สามารถใช้งานได้!',
+    'common.label': 'Label',
     'notVerified.msg': `บัญชีของคุณ {option, select,
     email {อีเมล}
     wallet {กระเป๋าเงิน}
