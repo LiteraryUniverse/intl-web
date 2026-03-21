@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Anslutning',
     'encyclopedia.fields.time': 'Tid',
     'encyclopedia.fields.image': 'Bild',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Synlighet',
     'encyclopedia.public': 'Offentlig',
     'encyclopedia.private': 'Privat',
