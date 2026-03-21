@@ -168,6 +168,7 @@ export default {
     'encyclopedia.fields.connection': 'Spojení',
     'encyclopedia.fields.time': 'Čas',
     'encyclopedia.fields.image': 'Obrázek',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Viditelnost',
     'encyclopedia.public': 'Veřejné',
     'encyclopedia.private': 'Soukromé',
