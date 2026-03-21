@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Koneksi',
     'encyclopedia.fields.time': 'Waktu',
     'encyclopedia.fields.image': 'Gambar',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Visibilitas',
     'encyclopedia.public': 'Publik',
     'encyclopedia.private': 'Pribadi',
