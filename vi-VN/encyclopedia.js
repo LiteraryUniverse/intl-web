@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Kết nối',
     'encyclopedia.fields.time': 'Thời gian',
     'encyclopedia.fields.image': 'Hình ảnh',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Khả năng nhìn thấy',
     'encyclopedia.public': 'Công khai',
     'encyclopedia.private': 'Riêng tư',
