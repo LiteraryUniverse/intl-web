@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Ellenőrzés...',
     'slug.failed': 'Ez az cím már létezik.',
     'slug.success': 'Ez a cím elérhető!',
+    'common.label': 'Label',
     'notVerified.msg': `Az Ön {option, select,
     email {e-mail}
     wallet {pénztárcája}
