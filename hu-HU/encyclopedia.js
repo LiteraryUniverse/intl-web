@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Kapcsolat',
     'encyclopedia.fields.time': 'Idő',
     'encyclopedia.fields.image': 'Kép',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Láthatóság',
     'encyclopedia.public': 'Nyilvános',
     'encyclopedia.private': 'Privát',
