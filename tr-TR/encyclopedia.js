@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Bağlantı',
     'encyclopedia.fields.time': 'Zaman',
     'encyclopedia.fields.image': 'Resim',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Görünürlük',
     'encyclopedia.public': 'Herkese Açık',
     'encyclopedia.private': 'Özel',
