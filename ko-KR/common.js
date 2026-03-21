@@ -166,6 +166,7 @@ export default {
     'slug.checking': '확인 중...',
     'slug.failed': '이 주소는 이미 존재합니다.',
     'slug.success': '이 주소를 사용할 수 있습니다!',
+    'common.label': 'Label',
     'notVerified.msg': `귀하의 계정 {option, select,
     email {이메일}
     wallet {지갑}
