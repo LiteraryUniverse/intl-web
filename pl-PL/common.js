@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Sprawdzanie...',
     'slug.failed': 'Ten adres już istnieje.',
     'slug.success': 'Ten adres jest dostępny!',
+    'common.label': 'Label',
     'notVerified.msg': `Twoje konto {option, select,
     email {e-mail}
     wallet {portfel}
