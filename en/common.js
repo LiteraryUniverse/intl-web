@@ -180,6 +180,7 @@ export default {
   'slug.checking': 'Checking...',
   'slug.failed': 'This address already exists.',
   'slug.success': 'This address is available!',
+  'common.label': 'Label',
   'notVerified.msg': `Your account {option, select,
     email {e-mail}
     wallet {wallet}
