@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Memeriksa...',
     'slug.failed': 'Alamat ini sudah terdaftar.',
     'slug.success': 'Alamat ini tersedia!',
+    'common.label': 'Label',
     'notVerified.msg': `Akun Anda {option, select,
     email {e-mail}
     wallet {wallet}
