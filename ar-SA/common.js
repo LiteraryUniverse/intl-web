@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'جاري التحقق...',
     'slug.failed': 'هذا العنوان موجود بالفعل.',
     'slug.success': 'هذا العنوان متاح!',
+    'common.label': 'Label',
     'notVerified.msg': `حسابك {option, select,
     email {بريد إلكتروني}
     wallet {محفظة}
