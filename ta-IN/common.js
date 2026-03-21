@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'சரிபார்க்கிறேன்...',
     'slug.failed': 'இந்த முகவரி ஏற்கனவே உள்ளது.',
     'slug.success': 'இந்த முகவரி கிடைக்கிறது!',
+    'common.label': 'Label',
     'notVerified.msg': `உங்கள் கணக்கு {option, select,
     email {மின்னஞ்சல்}
     wallet {பண பைத்தியம்}
