@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Sambungan',
     'encyclopedia.fields.time': 'Masa',
     'encyclopedia.fields.image': 'Imej',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Keterlihatan',
     'encyclopedia.public': 'Awam',
     'encyclopedia.private': 'Peribadi',
