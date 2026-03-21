@@ -167,6 +167,7 @@ export default {
     'encyclopedia.fields.connection': 'Ühendus',
     'encyclopedia.fields.time': 'Aeg',
     'encyclopedia.fields.image': 'Pilt',
+    'encyclopedia.fields.canvas': 'Canvas',
     'encyclopedia.visibility': 'Nähtavus',
     'encyclopedia.public': 'Avalik',
     'encyclopedia.private': 'Privaatne',
