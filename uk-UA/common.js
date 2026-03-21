@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Перевірка...',
     'slug.failed': 'Така адреса вже існує.',
     'slug.success': 'Ця адреса доступна!',
+    'common.label': 'Label',
     'notVerified.msg': `Ваш обліковий запис {option, select,
     email {електронної пошти}
     wallet {гаманця}
