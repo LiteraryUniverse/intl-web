@@ -166,6 +166,7 @@ export default {
     'slug.checking': '檢查中...',
     'slug.failed': '此地址已存在。',
     'slug.success': '此地址可用！',
+    'common.label': 'Label',
     'notVerified.msg': `您的帳戶 {option, select,
     email {電子郵件}
     wallet {錢包}
