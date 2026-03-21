@@ -166,6 +166,7 @@ export default {
     'slug.checking': 'Kontrol ediliyor...',
     'slug.failed': 'Bu adres zaten mevcut.',
     'slug.success': 'Bu adres kullanılabilir!',
+    'common.label': 'Label',
     'notVerified.msg': `Hesabınızın {option, select,
     email {e-posta}
     wallet {cüzdan}
