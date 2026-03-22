@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Позже Вы можете снова присоединить историю к вселенной из настроек истории.',
     'workshop.story.universe.standalone.trigger': 'Сделайте историю самостоятельной',
     'workshop.settings.tags': 'Метки',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Пересмотр',
     'workshop.revisions.title': '{story}: {chapter} пересмотров',
     'workshop.revisions.current': 'Текущий черновик',

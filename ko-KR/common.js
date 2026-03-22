@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': '비밀번호를 잊으 셨나요?',
     'dashboard.whatsnew': '의 새로운 기능',
     'dashboard.blog': '내 블로그',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': '복잡한 우주의 쓰기와 읽기가 쉬워집니다.',
     'common.footer.plans': '요금제 및 가격',
     'common.legal.tos': '서비스 약관',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': '확인 중...',
     'slug.failed': '이 주소는 이미 존재합니다.',
     'slug.success': '이 주소를 사용할 수 있습니다!',
+    'common.label': 'Label',
     'notVerified.msg': `귀하의 계정 {option, select,
     email {이메일}
     wallet {지갑}

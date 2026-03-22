@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Quên mật khẩu?',
     'dashboard.whatsnew': 'Có gì mới',
     'dashboard.blog': 'Blog của bạn',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Viết và đọc về các vũ trụ phức tạp dễ dàng.',
     'common.footer.plans': 'Kế hoạch & giá cả',
     'common.legal.tos': 'Điều khoản Dịch vụ',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Đang kiểm tra...',
     'slug.failed': 'Địa chỉ này đã tồn tại.',
     'slug.success': 'Địa chỉ này có sẵn!',
+    'common.label': 'Label',
     'notVerified.msg': `Tài khoản của bạn {option, select,
     email {email}
     wallet {ví}

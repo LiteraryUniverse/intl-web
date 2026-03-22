@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Glemt adgangskode?',
     'dashboard.whatsnew': 'Hvad er nyt',
     'dashboard.blog': 'Din blog',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Skrivning og læsning af komplekse universer gjort nemt.',
     'common.footer.plans': 'Planer og priser',
     'common.legal.tos': 'Servicevilkår',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Kontrollerer...',
     'slug.failed': 'Denne adresse findes allerede.',
     'slug.success': 'Denne adresse er tilgængelig!',
+    'common.label': 'Label',
     'notVerified.msg': `Din konto {option, select,
     email {e-mail}
     wallet {tegnebog}

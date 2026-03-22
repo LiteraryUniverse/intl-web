@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Elfelejtetted a jelszavad?',
     'dashboard.whatsnew': 'Mi az újdonság',
     'dashboard.blog': 'A blogod',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Az írás és az olvasás bonyolult univerzumokban könnyűvé válik.',
     'common.footer.plans': 'Csomagok és árak',
     'common.legal.tos': 'Felhasználási feltételek',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Ellenőrzés...',
     'slug.failed': 'Ez az cím már létezik.',
     'slug.success': 'Ez a cím elérhető!',
+    'common.label': 'Label',
     'notVerified.msg': `Az Ön {option, select,
     email {e-mail}
     wallet {pénztárcája}

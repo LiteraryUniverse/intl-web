@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Tapatybė',
     'settings.profile.about': 'Apie jus',
     'settings.profile.basic.description': 'Tvarkykite pagrindinę profilio informaciją, kuri bus matoma kitiems naudotojams.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Jūsų interesai',
     'settings.account': 'Paskyros nustatymai',
     'settings.legal.export.download': 'Atsisiųsti savo duomenis',

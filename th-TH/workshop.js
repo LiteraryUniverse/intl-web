@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'คุณสามารถแนบเรื่องราวกลับไปยังจักรวาลได้อีกครั้งในภายหลังจากการตั้งค่าเรื่องราว',
     'workshop.story.universe.standalone.trigger': 'ทำให้เรื่องราวเป็นเอกเทศ',
     'workshop.settings.tags': 'แท็ก',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'การแก้ไข',
     'workshop.revisions.title': '{story}: {chapter} การแก้ไข',
     'workshop.revisions.current': 'ร่างปัจจุบัน',

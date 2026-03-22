@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Wachtwoord vergeten?',
     'dashboard.whatsnew': 'Wat is er nieuw',
     'dashboard.blog': 'Jouw blog',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Het maken en lezen van complexe universums eenvoudig.',
     'common.footer.plans': 'Plannen en prijzen',
     'common.legal.tos': 'Algemene voorwaarden',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Controleren...',
     'slug.failed': 'Dit adres bestaat al.',
     'slug.success': 'Dit adres is beschikbaar!',
+    'common.label': 'Label',
     'notVerified.msg': `Uw account {option, select,
     email {e-mail}
     wallet {wallet}

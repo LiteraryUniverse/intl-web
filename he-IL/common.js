@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'שכחת סיסמה?',
     'dashboard.whatsnew': 'מה חדש',
     'dashboard.blog': 'הבלוג שלך',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'כתיבה וקריאה של יקומים מורכבים בקלות.',
     'common.footer.plans': 'תוכניות ומחירים',
     'common.legal.tos': 'תנאי שימוש',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'בודק...',
     'slug.failed': 'כתובת זו כבר קיימת.',
     'slug.success': 'כתובת זו זמינה!',
+    'common.label': 'Label',
     'notVerified.msg': `החשבון שלך {option, select,
     email {דוא"ל}
     wallet {ארנק}

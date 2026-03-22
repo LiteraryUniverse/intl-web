@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identitet',
     'settings.profile.about': 'Om dig',
     'settings.profile.basic.description': 'Hantera din grundläggande profilinformation som kommer att vara synlig för andra användare.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Dina intressen',
     'settings.account': 'Kontoinställningar',
     'settings.legal.export.download': 'Ladda ner dina data',

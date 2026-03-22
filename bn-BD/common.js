@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'পাসওয়ার্ড ভুলে গেছেন?',
     'dashboard.whatsnew': 'নতুন কি আছে',
     'dashboard.blog': 'আপনার ব্লগ',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'জটিল বিশ্বসৃষ্টি লেখা এবং পড়া সহজ করে।',
     'common.footer.plans': 'পরিকল্পনা এবং মূল্যবান',
     'common.legal.tos': 'সেবা পাবার শর্তাদি',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'পরীক্ষা করা হচ্ছে...',
     'slug.failed': 'এই ঠিকানা ইতিমধ্যে বিদ্যমান।',
     'slug.success': 'এই ঠিকানা উপলব্ধ!',
+    'common.label': 'Label',
     'notVerified.msg': `আপনার অ্যাকাউন্ট {option, select,
     email {ইমেল}
     wallet {ওয়ালেট}

@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'You can attach the story to a universe again later from story settings.',
     'workshop.story.universe.standalone.trigger': 'Make story standalone',
     'workshop.settings.tags': 'Merkelapper',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revisjon',
     'workshop.revisions.title': '{story}: {chapter} Revisjoner',
     'workshop.revisions.current': 'Gjeldende utkast',

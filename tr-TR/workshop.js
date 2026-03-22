@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Hikayeyi daha sonra hikaye ayarlarından tekrar bir evrene ekleyebilirsiniz.',
     'workshop.story.universe.standalone.trigger': 'Hikayeyi bağımsız hale getirin',
     'workshop.settings.tags': 'Etiketler',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Düzeltme',
     'workshop.revisions.title': '{story}: {chapter} Düzeltmeler',
     'workshop.revisions.current': 'Mevcut taslak',

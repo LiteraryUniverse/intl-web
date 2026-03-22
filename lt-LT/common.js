@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Pamiršote slaptažodį?',
     'dashboard.whatsnew': 'Kas naujo',
     'dashboard.blog': 'Jūsų tinklaraštis',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Rašyti ir skaityti sudėtingus universus tapo lengva.',
     'common.footer.plans': 'Planai ir kainodara',
     'common.legal.tos': 'Paslaugų teikimo sąlygos',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Tikrinama...',
     'slug.failed': 'Šis adresas jau egzistuoja.',
     'slug.success': 'Šis adresas yra prieinamas!',
+    'common.label': 'Label',
     'notVerified.msg': `Jūsų sąskaita {option, select,
     email {el. pašto}
     wallet {piniginės}

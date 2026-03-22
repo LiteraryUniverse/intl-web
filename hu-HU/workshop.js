@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'A történetet később a történet beállításaiból újra egy univerzumhoz csatolhatja.',
     'workshop.story.universe.standalone.trigger': 'Tedd a történetet önállóvá',
     'workshop.settings.tags': 'Címkék',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Változat',
     'workshop.revisions.title': '{story}: {chapter} Változatok',
     'workshop.revisions.current': 'Aktuális vázlat',

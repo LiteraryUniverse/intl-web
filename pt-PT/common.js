@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Esqueceu a sua palavra passe?',
     'dashboard.whatsnew': 'O que existe de novo',
     'dashboard.blog': 'O seu blogue',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Escrever e ler universos complexos de maneira fácil.',
     'common.footer.plans': 'Planos & Preços',
     'common.legal.tos': 'Termos de Utilização',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'A verificar...',
     'slug.failed': 'Este endereço já existe.',
     'slug.success': 'Este endereço está disponível!',
+    'common.label': 'Label',
     'notVerified.msg': `{option, select,
     email {O email da sua conta não foi verificado}
     wallet {A carteira da sua conta não foi verificada}

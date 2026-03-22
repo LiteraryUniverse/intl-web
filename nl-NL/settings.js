@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identiteit',
     'settings.profile.about': 'Over U',
     'settings.profile.basic.description': 'Beheer uw basisprofielinformatie die zichtbaar zal zijn voor andere gebruikers.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Uw interesses',
     'settings.account': 'Accountinstellingen',
     'settings.legal.export.download': 'Uw gegevens downloaden',

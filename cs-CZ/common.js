@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Zapomenuté heslo?',
     'dashboard.whatsnew': 'Co je nového',
     'dashboard.blog': 'Váš blog',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Psaní a čtení komplexních vesmírů jednoduše.',
     'common.footer.plans': 'Plány a ceny',
     'common.legal.tos': 'Podmínky užívání',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Ověřuji...',
     'slug.failed': 'Tato adresa už existuje.',
     'slug.success': 'Tato adresa je k dispozici!',
+    'common.label': 'Label',
     'notVerified.msg': `Váš{option, select,
     email { e-mail není ověřen}
     wallet {e peněženka není ověřena}

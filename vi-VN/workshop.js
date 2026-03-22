@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Bạn có thể gắn câu chuyện vào một vũ trụ khác sau này từ cài đặt câu chuyện.',
     'workshop.story.universe.standalone.trigger': 'Tạo câu chuyện độc lập',
     'workshop.settings.tags': 'Thẻ',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Phiên bản',
     'workshop.revisions.title': '{story}: {chapter} Phiên bản',
     'workshop.revisions.current': 'Bản nháp hiện tại',

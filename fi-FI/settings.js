@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identiteetti',
     'settings.profile.about': 'Sinusta',
     'settings.profile.basic.description': 'Hallitse muiden käyttäjien näkyvissä olevia perusprofiilitietojasi.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Sinun kiinnostuksen kohteesi',
     'settings.account': 'Tilin asetukset',
     'settings.legal.export.download': 'Lataa tietosi',

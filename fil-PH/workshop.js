@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'You can attach the story to a universe again later from story settings.',
     'workshop.story.universe.standalone.trigger': 'Make story standalone',
     'workshop.settings.tags': 'Mga Tag',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Rebisyon',
     'workshop.revisions.title': '{story}: {chapter} Mga Rebisyon',
     'workshop.revisions.current': 'Kasalukuyang draft',

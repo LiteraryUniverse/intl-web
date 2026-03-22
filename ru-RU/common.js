@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Забыли пароль?',
     'dashboard.whatsnew': 'Что нового',
     'dashboard.blog': 'Ваш блог',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Написание и чтение сложных вселенных стало проще.',
     'common.footer.plans': 'Планы и цены',
     'common.legal.tos': 'Условия использования',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Проверка...',
     'slug.failed': 'Такой адрес уже существует.',
     'slug.success': 'Такой адрес доступен!',
+    'common.label': 'Label',
     'notVerified.msg': `{option, select,
     email {Эл.почта вашей учётной записи не подтверждена}
     wallet {Кошелёк вашей учётной записи не подтверждён}

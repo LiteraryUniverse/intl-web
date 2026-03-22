@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Nakalimutan ang password?',
     'dashboard.whatsnew': 'Ano ang bago',
     'dashboard.blog': 'Iyong blog',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Napapadali ang pagsusulat at pagbabasa ng mga kumplikadong universo.',
     'common.footer.plans': 'Mga Plano at Presyo',
     'common.legal.tos': 'Mga Tuntunin ng Serbisyo',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Sinusuri...',
     'slug.failed': 'Ang address na ito ay mayroon na.',
     'slug.success': 'Ang address na ito ay available!',
+    'common.label': 'Label',
     'notVerified.msg': `Ang inyong account {option, select,
     email {e-mail}
     wallet {wallet}

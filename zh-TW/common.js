@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': '忘記密碼？',
     'dashboard.whatsnew': '最新消息',
     'dashboard.blog': '您的部落格',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': '輕鬆寫作和閱讀複雜的宇宙。',
     'common.footer.plans': '計劃和價格',
     'common.legal.tos': '服務條款',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': '檢查中...',
     'slug.failed': '此地址已存在。',
     'slug.success': '此地址可用！',
+    'common.label': 'Label',
     'notVerified.msg': `您的帳戶 {option, select,
     email {電子郵件}
     wallet {錢包}

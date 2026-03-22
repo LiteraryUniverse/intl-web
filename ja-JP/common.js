@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'パスワードをお忘れですか？',
     'dashboard.whatsnew': '新着情報',
     'dashboard.blog': 'あなたのブログ',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': '複雑な宇宙について簡単に書いたり読んだりすることができます。',
     'common.footer.plans': 'プラン内容と価格について',
     'common.legal.tos': '利用規約',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': '確認しています...',
     'slug.failed': 'このアドレスはすでに存在しています。',
     'slug.success': 'このアドレスは利用可能です!',
+    'common.label': 'Label',
     'notVerified.msg': `あなたのアカウント{option, select,
     email {メール}
     wallet {ウォレット}

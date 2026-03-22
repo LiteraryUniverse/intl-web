@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Glömt lösenord?',
     'dashboard.whatsnew': 'Vad är nytt',
     'dashboard.blog': 'Din blogg',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Skrivande och läsande av komplexa universum gjort enkelt.',
     'common.footer.plans': 'Planer och prissättning',
     'common.legal.tos': 'Användarvillkor',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Kontrollerar...',
     'slug.failed': 'Denna adress finns redan.',
     'slug.success': 'Denna adress är tillgänglig!',
+    'common.label': 'Label',
     'notVerified.msg': `Ditt konto {option, select,
     email {e-post}
     wallet {plånbok}

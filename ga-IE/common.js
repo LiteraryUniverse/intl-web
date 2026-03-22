@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Ar mhaith leat do phasfhocal a chailleadh?',
     'dashboard.whatsnew': 'Cad atá nua',
     'dashboard.blog': 'Do bhlag',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Scríbhneoireacht agus léitheoireacht i bpobail uilíoch éasca.',
     'common.footer.plans': 'Pleananna agus Praghsáil',
     'common.legal.tos': 'Téarmaí Seirbhíse',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Ag dul i gcomhairle...',
     'slug.failed': 'Tá an seoladh seo ann cheana féin.',
     'slug.success': 'Tá an seoladh seo ar fáil!',
+    'common.label': 'Label',
     'notVerified.msg': `Níl do chuntas {option, select,
     email {ríomhphost}
     wallet {brósaíocht}

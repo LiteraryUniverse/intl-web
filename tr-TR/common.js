@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Şifrenizi mi unuttunuz?',
     'dashboard.whatsnew': 'Yenilikler nelerdir',
     'dashboard.blog': 'Blogunuz',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Karmaşık evrenleri yazma ve okuma kolaylaştı.',
     'common.footer.plans': 'Planlar ve Fiyatlandırma',
     'common.legal.tos': 'Hizmet Şartları',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Kontrol ediliyor...',
     'slug.failed': 'Bu adres zaten mevcut.',
     'slug.success': 'Bu adres kullanılabilir!',
+    'common.label': 'Label',
     'notVerified.msg': `Hesabınızın {option, select,
     email {e-posta}
     wallet {cüzdan}

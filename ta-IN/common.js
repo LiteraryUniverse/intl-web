@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'கடவுச்சொல்லை மறந்துவிட்டீர்களா?',
     'dashboard.whatsnew': 'என்னுடைய புதியது என்ன?',
     'dashboard.blog': 'உங்கள் வலைப்பதிவு',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'எழுதும் மற்றும் படிக்கும் மேம்படுத்தப்பட்ட பட்சங்களை எளிதாக்குங்கள்.',
     'common.footer.plans': 'திட்டங்கள் மற்றும் விலைப்பட்டியல்',
     'common.legal.tos': 'சேவை விதிகள்',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'சரிபார்க்கிறேன்...',
     'slug.failed': 'இந்த முகவரி ஏற்கனவே உள்ளது.',
     'slug.success': 'இந்த முகவரி கிடைக்கிறது!',
+    'common.label': 'Label',
     'notVerified.msg': `உங்கள் கணக்கு {option, select,
     email {மின்னஞ்சல்}
     wallet {பண பைத்தியம்}

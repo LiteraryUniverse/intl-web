@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Unohtuiko salasana?',
     'dashboard.whatsnew': 'Mitä uutta',
     'dashboard.blog': 'Sinun blogi',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Kirjoittaminen ja monimutkaisten universumien lukeminen tehty helpoksi.',
     'common.footer.plans': 'Suunnitelmat ja hinnoittelu',
     'common.legal.tos': 'Käyttöehdot',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Tarkistetaan...',
     'slug.failed': 'Tämä osoite on jo olemassa.',
     'slug.success': 'Tämä osoite on saatavilla!',
+    'common.label': 'Label',
     'notVerified.msg': `Tilisi {option, select,
     email {sähköposti}
     wallet {lompakko}

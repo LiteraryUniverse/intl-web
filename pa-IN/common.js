@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?',
     'dashboard.whatsnew': 'ਨਵੀਆਂ ਕੀ ਹੈ',
     'dashboard.blog': 'ਤੁਹਾਡਾ ਬਲੌਗ',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'ਕੰਪਲੈਕਸ ਯੂਨੀਵਰਸ ਲਿਖਣ ਅਤੇ ਪੜ੍ਹਨ ਨੂੰ ਆਸਾਨ ਬਣਾਇਆ ਗਿਆ।',
     'common.footer.plans': 'ਯੋਜਨਾਵਾਂ ਅਤੇ ਮੁਲਾਜ਼ਮਾਂ',
     'common.legal.tos': 'ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...',
     'slug.failed': 'ਇਹ ਪਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।',
     'slug.success': 'ਇਹ ਪਤਾ ਉਪਲਬਧ ਹੈ!',
+    'common.label': 'Label',
     'notVerified.msg': `ਤੁਹਾਡਾ ਖਾਤਾ {option, select,
     email {ਈਮੇਲ}
     wallet {ਵਾਲੇਟ}

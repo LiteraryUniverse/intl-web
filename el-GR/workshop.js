@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Μπορείτε να συνδέσετε την ιστορία με ένα σύμπαν και πάλι αργότερα από τις ρυθμίσεις της ιστορίας.',
     'workshop.story.universe.standalone.trigger': 'Κάντε την ιστορία αυτόνομη',
     'workshop.settings.tags': 'Ετικέτες',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Αναθεώρηση',
     'workshop.revisions.title': '{story}: {chapter} Αναθεωρήσεις',
     'workshop.revisions.current': 'Τρέχουσα πρόχειρη έκδοση',

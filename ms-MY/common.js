@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Lupa kata laluan?',
     'dashboard.whatsnew': 'Apa yang baru',
     'dashboard.blog': 'Blog anda',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Menulis dan membaca alam semesta kompleks dengan mudah.',
     'common.footer.plans': 'Rancangan & Harga',
     'common.legal.tos': 'Terma Perkhidmatan',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Memeriksa...',
     'slug.failed': 'Alamat ini sudah wujud.',
     'slug.success': 'Alamat ini tersedia!',
+    'common.label': 'Label',
     'notVerified.msg': `Akaun anda {option, select,
     email {e-mel}
     wallet {dompet}

@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identitás',
     'settings.profile.about': 'Rólad',
     'settings.profile.basic.description': 'Kezelje a többi felhasználó számára látható alapvető profilinformációit.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Az Ön érdekei',
     'settings.account': 'Fiókbeállítások',
     'settings.legal.export.download': 'Adatok letöltése',

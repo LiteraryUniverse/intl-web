@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'पासवर्ड भूल गए?',
     'dashboard.whatsnew': 'नया क्या है',
     'dashboard.blog': 'आपका ब्लॉग',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'यूनिवर्स को लिखना और पढ़ना आसान बनाया।',
     'common.footer.plans': 'योजनाएं और मूल्य निर्धारण',
     'common.legal.tos': 'सेवा की शर्तें',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'जांच हो रही है...',
     'slug.failed': 'यह पता पहले से मौजूद है।',
     'slug.success': 'यह पता उपलब्ध है!',
+    'common.label': 'Label',
     'notVerified.msg': `आपका खाता {option, select,
     email {ईमेल}
     wallet {वॉलेट}

@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identitate',
     'settings.profile.about': 'Despre tine',
     'settings.profile.basic.description': 'Gestionați informațiile de bază ale profilului dvs. care vor fi vizibile pentru alți utilizatori.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Interesele dumneavoastră',
     'settings.account': 'Setări cont',
     'settings.legal.export.download': 'Descarcă datele tale',

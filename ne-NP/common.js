@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'पासवर्ड बिर्सनुभयो?',
     'dashboard.whatsnew': 'के नयाँ छ',
     'dashboard.blog': 'तपाईंको ब्लग',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'लेखन र पढ्ने कठिन ब्रह्माण्डहरूलाई सजिलो बनाउनुहोस्।',
     'common.footer.plans': 'योजनाहरू र मूल्य निर्धारण',
     'common.legal.tos': 'सेवा को नियम',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'जाँच गर्दै...',
     'slug.failed': 'यो ठेगाना पहिले नै अवस्थित छ।',
     'slug.success': 'यो ठेगाना उपलब्ध छ!',
+    'common.label': 'Label',
     'notVerified.msg': `तपाईंको खाता {option, select,
     email {ईमेल}
     wallet {वॉलेट}

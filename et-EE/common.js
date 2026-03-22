@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Unustasid parooli?',
     'dashboard.whatsnew': 'Mis on uut',
     'dashboard.blog': 'Sinu blogi',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Kirjutamine ja keeruliste universumite lugemine muudetud lihtsaks.',
     'common.footer.plans': 'Plaanid ja hinnakiri',
     'common.legal.tos': 'Teenuse tingimused',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Kontrollimine...',
     'slug.failed': 'See aadress on juba olemas.',
     'slug.success': 'See aadress on saadaval!',
+    'common.label': 'Label',
     'notVerified.msg': `Teie kontot {option, select,
     email {e-posti}
     wallet {rahakoti}

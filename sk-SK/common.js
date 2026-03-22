@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Zabudli ste heslo?',
     'dashboard.whatsnew': 'Čo je nové',
     'dashboard.blog': 'Tvoje blog',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Jednoduché písanie a čítanie zložitých vesmírov.',
     'common.footer.plans': 'Plány a ceny',
     'common.legal.tos': 'Podmienky služby',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Kontroluje sa...',
     'slug.failed': 'Táto adresa už existuje.',
     'slug.success': 'Táto adresa je k dispozícii!',
+    'common.label': 'Label',
     'notVerified.msg': `{option, select,
     email {E-mail vášho účtu nie je overený}
     wallet {Peňaženka vášho účtu nie je overená}

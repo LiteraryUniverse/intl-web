@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'الهوية',
     'settings.profile.about': 'نبذة عنك',
     'settings.profile.basic.description': 'قم بإدارة معلومات ملفك الشخصي الأساسية التي ستكون مرئية للمستخدمين الآخرين.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'اهتماماتك',
     'settings.account': 'إعدادات الحساب',
     'settings.legal.export.download': 'تنزيل بياناتك',

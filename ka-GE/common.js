@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'პაროლის დაგვიკავშირება?',
     'dashboard.whatsnew': 'რა ახალია',
     'dashboard.blog': 'შენი ბლოგი',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'წერა და წაკითხვა კომპლექსური უნივერსებისთვის გამოყენებადი გახსნათ.',
     'common.footer.plans': 'გეგმები და ფასები',
     'common.legal.tos': 'მომსახურების პირობები',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'მოწმდება...',
     'slug.failed': 'ეს მისამართი უკვე არსებობს.',
     'slug.success': 'ეს მისამართი ხელმისაწვდომია!',
+    'common.label': 'Label',
     'notVerified.msg': `თქვენი ანგარიში {option, select,
     email {ელ. ფოსტა}
     wallet {საფულე}

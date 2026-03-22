@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'ลืมรหัสผ่าน?',
     'dashboard.whatsnew': 'มีอะไรใหม่',
     'dashboard.blog': 'บล็อกของคุณ',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'การเขียนและการอ่านจักรวาลที่ซับซ้อนเป็นเรื่องง่าย',
     'common.footer.plans': 'แผนและราคา',
     'common.legal.tos': 'ข้อกำหนดการให้บริการ',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'กำลังตรวจสอบ...',
     'slug.failed': 'ที่อยู่นี้มีอยู่แล้ว',
     'slug.success': 'ที่อยู่นี้สามารถใช้งานได้!',
+    'common.label': 'Label',
     'notVerified.msg': `บัญชีของคุณ {option, select,
     email {อีเมล}
     wallet {กระเป๋าเงิน}

@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'Ai uitat parola?',
     'dashboard.whatsnew': 'Ce este nou',
     'dashboard.blog': 'Blogul tău',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'Scrierea și citirea universurilor complexe făcute ușoare.',
     'common.footer.plans': 'Planuri și prețuri',
     'common.legal.tos': 'Termeni și condiții',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'Se verifică...',
     'slug.failed': 'Această adresă există deja.',
     'slug.success': 'Această adresă este disponibilă!',
+    'common.label': 'Label',
     'notVerified.msg': `Contul dumneavoastră {option, select,
     email {e-mail}
     wallet {portofel}

@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identitas',
     'settings.profile.about': 'Tentang Anda',
     'settings.profile.basic.description': 'Kelola informasi profil dasar Anda yang akan terlihat oleh pengguna lain.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Minat Anda',
     'settings.account': 'Pengaturan akun',
     'settings.legal.export.download': 'Unduh Data Anda',

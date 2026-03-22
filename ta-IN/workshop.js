@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'You can attach the story to a universe again later from story settings.',
     'workshop.story.universe.standalone.trigger': 'Make story standalone',
     'workshop.settings.tags': 'குறிச்சொல்லுக்கள்',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'மருத்துவம்',
     'workshop.revisions.title': '{story}: {chapter} மருத்துவங்கள்',
     'workshop.revisions.current': 'தற்போதைய வரைவு',
@@ -550,7 +551,7 @@ export default {
     'workshop.ai.llmstxt.story-info': 'Story Info LLMs.txt',
     'workshop.ai.llmstxt.full-content': 'Full Content LLMs.txt',
     'workshop.ai.llmstxt.info': 'Info LLMs.txt - Basic information for AI',
-    'workshop.ai.llmstxt.infoShort': 'Basic information',
+    'workshop.ai.llmstxt.infoShort': 'அடிப்படைத் தகவல்',
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content'
 };

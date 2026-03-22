@@ -55,6 +55,8 @@ export default {
     'settings.profile.identity': 'Identity',
     'settings.profile.about': 'About You',
     'settings.profile.basic.description': 'Manage your basic profile information that will be visible to other users.',
+    'settings.userType.title': 'User type',
+    'settings.userType.select': 'Select your primary role',
     'settings.interests.title': 'Your Interests',
     'settings.account': 'கணக்கு அமைப்புகள்',
     'settings.legal.export.download': 'உங்கள் தரவைப் பதிவிறக்கவும்',

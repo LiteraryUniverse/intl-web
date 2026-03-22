@@ -82,6 +82,9 @@ export default {
     'signin.password.forgot': 'نسيت كلمة المرور؟',
     'dashboard.whatsnew': 'ما الجديد',
     'dashboard.blog': 'مدونتك',
+    'dashboard.resumeWriting': 'Resume writing',
+    'dashboard.resumeWriting.description': 'Jump back into the story or universe you worked on most recently.',
+    'dashboard.resumeWriting.lastWorked': 'Last worked on {time}.',
     'common.footer.tagline': 'الكتابة والقراءة في الكواكب المعقدة بسهولة.',
     'common.footer.plans': 'الاشتراكات و الأسعار',
     'common.legal.tos': 'شروط الخدمة',
@@ -163,6 +166,7 @@ export default {
     'slug.checking': 'جاري التحقق...',
     'slug.failed': 'هذا العنوان موجود بالفعل.',
     'slug.success': 'هذا العنوان متاح!',
+    'common.label': 'Label',
     'notVerified.msg': `حسابك {option, select,
     email {بريد إلكتروني}
     wallet {محفظة}

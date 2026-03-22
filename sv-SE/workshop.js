@@ -167,6 +167,7 @@ export default {
     'workshop.story.universe.standalone.warning3': 'Du kan koppla berättelsen till ett universum igen senare från berättelseinställningarna.',
     'workshop.story.universe.standalone.trigger': 'Gör berättelsen fristående',
     'workshop.settings.tags': 'Taggar',
+    'workshop.settings.tags.placeholder': 'Add a tag…',
     'workshop.revision': 'Revision',
     'workshop.revisions.title': '{story}: {chapter} Revideringar',
     'workshop.revisions.current': 'Nuvarande utkast',
