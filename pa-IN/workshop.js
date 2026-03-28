@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'ਕੀਮਤ ਸੈਟਿੰਗਾਂ ਸੁਰੱਖਿਅਤ ਹੋ ਗਈਆਂ।',
     'workshop.monetization.synced': 'ਸਟ੍ਰਾਈਪ ਦੇ ਉਤਪਾਦ ਅਤੇ ਕੀਮਤਾਂ ਸਿੰਕ ਹੋ ਗਈਆਂ।',
     'workshop.monetization.syncStripe': 'ਸਟ੍ਰਾਈਪ ਨਾਲ ਸਿੰਕ ਕਰੋ',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `ਹੋਰ {type, select,
     collaborator {ਸਹਿਯੋਗੀਆਂ}
     beta {ਬੀਟਾ ਪੜ੍ਹਨ ਵਾਲੇਆਂ}
