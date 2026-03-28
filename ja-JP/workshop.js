@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': '価格設定の保存。',
     'workshop.monetization.synced': 'Stripeの商品と価格が同期されました。',
     'workshop.monetization.syncStripe': 'Stripeと同期',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `{type, select,
     collaborator {協力者を増やす}
     beta {ベータリーダーを追加する}
