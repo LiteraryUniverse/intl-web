@@ -51,11 +51,7 @@ export default {
     'encyclopedia.category.cities': 'Ciudades',
     'encyclopedia.category.settlements': 'Liquidaciones',
     'encyclopedia.category.countries': 'Países',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {No hay entradas relacionadas}
-    one {1 entrada relacionada}
-    other {# entradas relacionadas}
-  } encontradas.`,
+    'encyclopedia.search.found': '{results, plural,\n    =0 {No related entries}\n    one {1 related entry}\n    other {# related entries}\n  } found.',
     'encyclopedia.help.text': 'Utiliza el menú de la izquierda para navegar por los elementos de la enciclopedia. Cuando selecciones un elemento, se mostrará en lugar de este texto.',
     'encyclopedia.help.sidebar': 'Caja de herramientas de la barra lateral',
     'encyclopedia.help.sidebar.text': 'Bienvenido a su historia Esta barra lateral le permite acceder fácilmente a todos los recursos relacionados con su historia. Marque los iconos de arriba para ver los últimos comentarios, sus notas, buscar en su enciclopedia, navegar y añadir nuevas entradas a su enciclopedia. Si desea añadir una conexión a una entrada desde el texto de la historia, seleccione el texto donde desea colocarla y haga clic en el botón de conexión. A continuación se le pedirá que busque y seleccione una entrada.',
@@ -63,114 +59,9 @@ export default {
     'encyclopedia.add.title': 'Añade una nueva entrada a la enciclopedia',
     'encyclopedia.add.heading': '¿Qué quieres añadir?',
     'encyclopedia.add.moresoon': '¡Más categorías en breve!',
-    'encyclopedia.create': `Crear nuevo {category, select,
-    character {personaje}
-    event {evento}
-    group {grupo}
-    item {objeto}
-    location {ubicación}
-    other {nota}
-    state {estado}
-    governments {gobierno}
-    languages {idioma}
-    creatures {criatura}
-    deity {deidad}
-    religions {religión}
-    flora {flora}
-    magic {magia}
-    planets {planeta}
-    species {especie}
-    technologies {tecnología}
-    families {familia}
-    jobs {trabajo}
-    lore {tradición}
-    vehicles {vehículo}
-    diseases {enfermedad}
-    traditions {tradición}
-    food {comida}
-    sports {deporte}
-    landmarks {lugar de interés}
-    buildings {edificio}
-    schools {escuela}
-    continents {continente}
-    villages {aldeas}
-    towns {pueblos}
-    cities {ciudades}
-    settlements {asentamiento}
-    countries {país}
-  }`,
-    'encyclopedia.create.header': `Crear un nuevo {category, select,
-    character {personaje}
-    event {evento}
-    group {grupo}
-    item {objeto}
-    location {ubicación}
-    other {nota}
-    state {estado}
-    governments {gobierno}
-    languages {idioma}
-    creatures {criatura}
-    deity {deidad}
-    religions {religión}
-    flora {flora}
-    magic {magia}
-    planets {planeta}
-    species {especie}
-    technologies {tecnología}
-    families {familia}
-    jobs {trabajo}
-    lore {tradición}
-    vehicles {vehículo}
-    diseases {enfermedad}
-    traditions {tradición}
-    food {comida}
-    sports {deporte}
-    landmarks {lugar de interés}
-    buildings {edificio}
-    schools {escuela}
-    continents {continente}
-    villages {aldea}
-    towns {pueblo}
-    cities {ciudad}
-    settlements {asentamiento}
-    countries {país}
-  } en {universe}`,
-    'encyclopedia.entry.category': `Categoría de entrada: {category, select,
-    character {Personaje}
-    event {Acontecimiento}
-    group {Grupo}
-    item {Objeto}
-    location {Lugar}
-    other {Nota}
-    state {Estado}
-    governments {Gobierno}
-    languages {Idioma}
-    creatures {Criatura}
-    deity {Deidad}
-    religions {Religión}
-    flora {Flora}
-    magic {Magia}
-    planets {Planeta}
-    species {Especie}
-    technologies {Tecnología}
-    families {Familia}
-    jobs {Trabajo}
-    lore {Lore}
-    vehicles {Vehículo}
-    diseases {Enfermedad}
-    traditions {Tradición}
-    food {Comida}
-    sports {Deporte}
-    landmarks {Lugar de interés}
-    buildings {Edificio}
-    schools {Escuela}
-    continents {Continente}
-    villages {Aldea}
-    towns {Pueblo}
-    cities {Ciudad}
-    settlements {Asentamiento}
-    countries {País}
-  }`,
+    'encyclopedia.create': 'Create new {category, select,\n    character {character}\n    event {event}\n    group {group}\n    item {item}\n    location {location}\n    other {note}\n    state {state}\n    governments {government}\n    languages {language}\n    creatures {creature}\n    deity {deity}\n    religions {religion}\n    flora {flora}\n    magic {magic}\n    planets {planet}\n    species {specie}\n    technologies {technology}\n    families {family}\n    jobs {job}\n    lore {lore}\n    vehicles {vehicle}\n    diseases {disease}\n    traditions {tradition}\n    food {food}\n    sports {sport}\n    landmarks {landmark}\n    buildings {building}\n    schools {school}\n    continents {continent}\n    villages {villages}\n    towns {towns}\n    cities {cities}\n    settlements {settlement}\n    countries {country}\n  }',
+    'encyclopedia.create.header': 'Creating a new {category, select,\n    character {character}\n    event {event}\n    group {group}\n    item {item}\n    location {location}\n    other {note}\n    state {state}\n    governments {government}\n    languages {language}\n    creatures {creature}\n    deity {deity}\n    religions {religion}\n    flora {flora}\n    magic {magic}\n    planets {planet}\n    species {specie}\n    technologies {technology}\n    families {family}\n    jobs {job}\n    lore {lore}\n    vehicles {vehicle}\n    diseases {disease}\n    traditions {tradition}\n    food {food}\n    sports {sport}\n    landmarks {landmark}\n    buildings {building}\n    schools {school}\n    continents {continent}\n    villages {village}\n    towns {town}\n    cities {city}\n    settlements {settlement}\n    countries {country}\n  } in {universe}',
+    'encyclopedia.entry.category': 'Entry category: {category, select,\n    character {Character}\n    event {Event}\n    group {Group}\n    item {Item}\n    location {Location}\n    other {Note}\n    state {State}\n    governments {Government}\n    languages {Language}\n    creatures {Creature}\n    deity {Deity}\n    religions {Religion}\n    flora {Flora}\n    magic {Magic}\n    planets {Planet}\n    species {Specie}\n    technologies {Technology}\n    families {Family}\n    jobs {Job}\n    lore {Lore}\n    vehicles {Vehicle}\n    diseases {Disease}\n    traditions {Tradition}\n    food {Food}\n    sports {Sport}\n    landmarks {Landmark}\n    buildings {Building}\n    schools {School}\n    continents {Continent}\n    villages {Village}\n    towns {Town}\n    cities {City}\n    settlements {Settlement}\n    countries {Country}\n  }',
     'encyclopedia.entry.category.legend': 'Categoría',
     'encyclopedia.fields.add': 'Añadir un nuevo campo',
     'encyclopedia.fields.text': 'Definición',
@@ -196,15 +87,10 @@ export default {
     'encyclopedia.connections.extra': 'Información adicional',
     'encyclopedia.connections.existing': 'Entrada existente',
     'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
     'encyclopedia.cover': 'Imagen de portada',
     'encyclopedia.translation.title': '¡Bienvenido a la traducción del universo de {universe}!',
     'encyclopedia.translation.desc': 'La interfaz de esta enciclopedia se usa para traducir al {language}. Elige entradas existentes en la lista de la izquierda para empezar a traducirlas.',
-    'encyclopedia.welcome.totalEntries': `{totalEntries, plural, 
-    zero {no hay entradas}
-    one {hay una entrada}
-    other {hay # entradas}
-  } en este universo.`,
+    'encyclopedia.welcome.totalEntries': 'There {totalEntries, plural, \n    zero {are no entries}\n    one {is one entry}\n    other {are # entries}\n  } in this universe.',
     'encyclopedia.settings.title': 'Configuración de la enciclopedia',
     'encyclopedia.settings.categoriesDesc': 'Activa y desactiva categorías que quieras usar en tu enciclopedia.',
     'encyclopedia.settings.introText': 'Mensaje de bienvenida para mostrar tras la descripción del universo.',
@@ -221,10 +107,7 @@ export default {
     'encyclopedia.menuClose': 'Cerrar menú de la enciclopedia',
     'encyclopedia.menuAria': 'Menú de la enciclopedia',
     'enc.newField': 'Nuevo campo',
-    'enc.entries.limit': `En estos momentos tienes {value, number} de {max, plural,
-    =0 {entradas ilimitadas}
-    other {{max, number, entradas}}
-  }.`,
+    'enc.entries.limit': 'You currently have {value, number} out of {max, plural,\n    =0 {unlimited}\n    other {{max, number}}\n  } entries.',
     'enc.entries.limitReached': 'Has alcanzado el máximo de entradas de enciclopedia permitidas para tu suscripción.',
     'encyclopedia.pronunciation.title': 'Pronunciación',
     'encyclopedia.wip.abbreviation': 'EN PROGRESO',
@@ -240,5 +123,141 @@ export default {
     'encyclopedia.templateCreateUniverse.description': 'Cree un nuevo universo con contenido enciclopédico preconfigurado a partir de esta plantilla. Su universo permanecerá privado hasta que decida hacerlo público.',
     'encyclopedia.templateCreateUniverse.success': '¡Universo creado con éxito! Redirigiendo...',
     'encyclopedia.pronunciation.audio.play': 'Pronunciación del juego',
-    'encyclopedia.pronunciation.guide': 'Utilice <ipaLink>la notación IPA</ipaLink> siempre que sea posible. La pronunciación de la Web Speech API es best-effort; consulte <webSpeechLink>los documentos MDN</webSpeechLink>.'
+    'encyclopedia.pronunciation.guide': 'Utilice <ipaLink>la notación IPA</ipaLink> siempre que sea posible. La pronunciación de la Web Speech API es best-effort; consulte <webSpeechLink>los documentos MDN</webSpeechLink>.',
+    'encyclopedia.templateField.born': 'Born',
+    'encyclopedia.templateField.died': 'Died',
+    'encyclopedia.templateField.race': 'Race',
+    'encyclopedia.templateField.gender': 'Gender',
+    'encyclopedia.templateField.partners': 'Partners',
+    'encyclopedia.templateField.parents': 'Parents',
+    'encyclopedia.templateField.children': 'Children',
+    'encyclopedia.templateField.associated-with': 'Associated with',
+    'encyclopedia.templateField.biography': 'Biography',
+    'encyclopedia.templateField.physical-appearance': 'Physical appearance',
+    'encyclopedia.templateField.type-of-event': 'Type of event',
+    'encyclopedia.templateField.preceding-events': 'Preceding events',
+    'encyclopedia.templateField.following-events': 'Following events',
+    'encyclopedia.templateField.leadup': 'Leadup',
+    'encyclopedia.templateField.description': 'Description',
+    'encyclopedia.templateField.aftermath': 'Aftermath',
+    'encyclopedia.templateField.members': 'Members',
+    'encyclopedia.templateField.locations': 'Locations',
+    'encyclopedia.templateField.events': 'Events',
+    'encyclopedia.templateField.vision': 'Vision',
+    'encyclopedia.templateField.mission': 'Mission',
+    'encyclopedia.templateField.description-of-the-organization': 'Description of the organization',
+    'encyclopedia.templateField.history': 'History',
+    'encyclopedia.templateField.owners': 'Owners',
+    'encyclopedia.templateField.function': 'Function',
+    'encyclopedia.templateField.content': 'Content',
+    'encyclopedia.templateField.population': 'Population',
+    'encyclopedia.templateField.culture': 'Culture',
+    'encyclopedia.templateField.governments': 'Governments',
+    'encyclopedia.templateField.religions-believes': 'Religions & believes',
+    'encyclopedia.templateField.languages': 'Languages',
+    'encyclopedia.templateField.geography': 'Geography',
+    'encyclopedia.templateField.founding': 'Founding',
+    'encyclopedia.templateField.notable-events': 'Notable events',
+    'encyclopedia.templateField.notes': 'Notes',
+    'encyclopedia.templateField.type-of-government': 'Type of government',
+    'encyclopedia.templateField.structure': 'Structure',
+    'encyclopedia.templateField.power-structure': 'Power structure',
+    'encyclopedia.templateField.source-of-power': 'Source of power',
+    'encyclopedia.templateField.laws': 'Laws',
+    'encyclopedia.templateField.ideology': 'Ideology',
+    'encyclopedia.templateField.internal-politics': 'Internal politics',
+    'encyclopedia.templateField.external-politics': 'External politics',
+    'encyclopedia.templateField.leading-figures': 'Leading figures',
+    'encyclopedia.templateField.groups': 'Groups',
+    'encyclopedia.templateField.military': 'Military',
+    'encyclopedia.templateField.items': 'Items',
+    'encyclopedia.templateField.typology': 'Typology',
+    'encyclopedia.templateField.dialectics': 'Dialectics',
+    'encyclopedia.templateField.phonology': 'Phonology',
+    'encyclopedia.templateField.grammar': 'Grammar',
+    'encyclopedia.templateField.numbers': 'Numbers',
+    'encyclopedia.templateField.quantifiers': 'Quantifiers',
+    'encyclopedia.templateField.private-notes': 'Private notes',
+    'encyclopedia.templateField.type': 'Type',
+    'encyclopedia.templateField.notable-features': 'Notable features',
+    'encyclopedia.templateField.traits': 'Traits',
+    'encyclopedia.templateField.habitat': 'Habitat',
+    'encyclopedia.templateField.food-sources': 'Food sources',
+    'encyclopedia.templateField.reproduction': 'Reproduction',
+    'encyclopedia.templateField.cultural-significance': 'Cultural significance',
+    'encyclopedia.templateField.related-creatures': 'Related creatures',
+    'encyclopedia.templateField.religion': 'Religion',
+    'encyclopedia.templateField.other-names': 'Other names',
+    'encyclopedia.templateField.appearance': 'Appearance',
+    'encyclopedia.templateField.related-to': 'Related to',
+    'encyclopedia.templateField.symbolism': 'Symbolism',
+    'encyclopedia.templateField.rituals': 'Rituals',
+    'encyclopedia.templateField.origin': 'Origin',
+    'encyclopedia.templateField.notable-figures': 'Notable figures',
+    'encyclopedia.templateField.deities': 'Deities',
+    'encyclopedia.templateField.artifacts': 'Artifacts',
+    'encyclopedia.templateField.believes': 'Believes',
+    'encyclopedia.templateField.traditions': 'Traditions',
+    'encyclopedia.templateField.spread': 'Spread',
+    'encyclopedia.templateField.classification': 'Classification',
+    'encyclopedia.templateField.features': 'Features',
+    'encyclopedia.templateField.produce': 'Produce',
+    'encyclopedia.templateField.ecosystem': 'Ecosystem',
+    'encyclopedia.templateField.effect': 'Effect',
+    'encyclopedia.templateField.alignment': 'Alignment',
+    'encyclopedia.templateField.requirements': 'Requirements',
+    'encyclopedia.templateField.size': 'Size',
+    'encyclopedia.templateField.length-of-day': 'Length of day',
+    'encyclopedia.templateField.length-of-night': 'Length of night',
+    'encyclopedia.templateField.length-of-cycle': 'Length of cycle',
+    'encyclopedia.templateField.moons': 'Moons',
+    'encyclopedia.templateField.nearby-stellar-bodies': 'Nearby stellar bodies',
+    'encyclopedia.templateField.climate': 'Climate',
+    'encyclopedia.templateField.weather': 'Weather',
+    'encyclopedia.templateField.natural-resources': 'Natural resources',
+    'encyclopedia.templateField.notable-locations': 'Notable locations',
+    'encyclopedia.templateField.inhabitans': 'Inhabitans',
+    'encyclopedia.templateField.looks': 'Looks',
+    'encyclopedia.templateField.production': 'Production',
+    'encyclopedia.templateField.use': 'Use',
+    'encyclopedia.templateField.related': 'Related',
+    'encyclopedia.templateField.location': 'Location',
+    'encyclopedia.templateField.significance': 'Significance',
+    'encyclopedia.templateField.associated-events': 'Associated events',
+    'encyclopedia.templateField.associated-figures': 'Associated figures',
+    'encyclopedia.templateField.access-restrictions': 'Access restrictions',
+    'encyclopedia.templateField.cultural-importance': 'Cultural importance',
+    'encyclopedia.templateField.founded': 'Founded',
+    'encyclopedia.templateField.government': 'Government',
+    'encyclopedia.templateField.defenses': 'Defenses',
+    'encyclopedia.templateField.connected-settlements': 'Connected settlements',
+    'encyclopedia.templateField.family-motto': 'Family Motto',
+    'encyclopedia.templateField.founding-date': 'Founding Date',
+    'encyclopedia.templateField.ethos': 'Ethos',
+    'encyclopedia.templateField.family-reputation': 'Family Reputation',
+    'encyclopedia.templateField.family-branches': 'Family Branches',
+    'encyclopedia.templateField.notable-vassals-retainers': 'Notable vassals/retainers',
+    'encyclopedia.templateField.skills-required': 'Skills required',
+    'encyclopedia.templateField.pay-salary': 'Pay/Salary',
+    'encyclopedia.templateField.associated-locations': 'Associated locations',
+    'encyclopedia.templateField.associated-characters': 'Associated characters',
+    'encyclopedia.templateField.propulsion': 'Propulsion',
+    'encyclopedia.templateField.capacity': 'Capacity',
+    'encyclopedia.templateField.speed': 'Speed',
+    'encyclopedia.templateField.manufacturers': 'Manufacturers',
+    'encyclopedia.templateField.symptoms': 'Symptoms',
+    'encyclopedia.templateField.causes': 'Causes',
+    'encyclopedia.templateField.treatment': 'Treatment',
+    'encyclopedia.templateField.affected-species': 'Affected species',
+    'encyclopedia.templateField.associated-groups': 'Associated groups',
+    'encyclopedia.templateField.ingredients': 'Ingredients',
+    'encyclopedia.templateField.preparation': 'Preparation',
+    'encyclopedia.templateField.rules': 'Rules',
+    'encyclopedia.templateField.equipment': 'Equipment',
+    'encyclopedia.templateField.venues': 'Venues',
+    'encyclopedia.templateField.architecture': 'Architecture',
+    'encyclopedia.templateField.curriculum': 'Curriculum',
+    'encyclopedia.templateField.notable-alumni': 'Notable alumni',
+    'encyclopedia.templateField.affiliation': 'Affiliation',
+    'encyclopedia.templateField.language': 'Language'
 };
