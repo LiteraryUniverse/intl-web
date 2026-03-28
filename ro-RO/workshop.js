@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Setări de prețuri salvate.',
     'workshop.monetization.synced': 'Produse Stripe și prețuri sincronizate.',
     'workshop.monetization.syncStripe': 'Sincronizare cu Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Pentru a adăuga mai mulți {type, select,
     collaborator {colaboratori}
     beta {cititori beta}
