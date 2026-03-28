@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'by',
     'sharing.canvas.chapter': 'Chapter {chapterNumber}',
-    'sharing.canvas.publishesOn': '{date}에 게시'
+    'sharing.canvas.publishesOn': '{date}에 게시',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
