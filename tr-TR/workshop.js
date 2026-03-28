@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Fiyatlandırma ayarları kaydedildi.',
     'workshop.monetization.synced': 'Stripe ürünleri ve fiyatları senkronize edildi.',
     'workshop.monetization.syncStripe': 'Stripe ile senkronize edin',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Daha fazla {type, select,
     collaborator {işbirlikçi}
     beta {beta okuyucu}
