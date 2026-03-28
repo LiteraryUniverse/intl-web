@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'από',
     'sharing.canvas.chapter': 'Κεφάλαιο {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Δημοσιεύει στο {date}'
+    'sharing.canvas.publishesOn': 'Δημοσιεύει στο {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
