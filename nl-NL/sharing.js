@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'door',
     'sharing.canvas.chapter': 'Hoofdstuk {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Publiceert op {date}'
+    'sharing.canvas.publishesOn': 'Publiceert op {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
