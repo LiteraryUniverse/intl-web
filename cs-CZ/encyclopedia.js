@@ -1,246 +1,263 @@
 export default {
-    'encyclopedia.add': 'Přidat nový záznam',
-    'encyclopedia.browse': 'Procházet encyklopedii',
-    'encyclopedia.search': 'Vyhledat v encyklopedii',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'Zpět na stránku vesmíru',
-    'encyclopedia.back.workshop': 'Zpátky do dílny',
-    'encyclopedia.categories': 'Kategorie',
-    'encyclopedia.groups': 'Skupiny',
-    'encyclopedia.category.character': 'Postava',
-    'encyclopedia.category.event': 'Událost',
-    'encyclopedia.category.group': 'Skupina',
-    'encyclopedia.category.item': 'Věc',
-    'encyclopedia.category.location': 'Lokalita',
-    'encyclopedia.category.other': 'Ostatní',
-    'encyclopedia.category.state': 'Národ',
-    'encyclopedia.category.governments': 'Stát',
-    'encyclopedia.category.languages': 'Jazyk',
-    'encyclopedia.category.creatures': 'Bytost',
-    'encyclopedia.category.deity': 'Božstvo',
-    'encyclopedia.category.religions': 'Náboženství',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magie',
-    'encyclopedia.category.planets': 'Planeta',
-    'encyclopedia.category.species': 'Rasa',
-    'encyclopedia.category.technologies': 'Technologie',
-    'encyclopedia.category.families': 'Rodiny',
-    'encyclopedia.category.jobs': 'Nabídky práce:',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Vozidla',
-    'encyclopedia.category.diseases': 'Nemoci',
-    'encyclopedia.category.traditions': 'Tradice',
-    'encyclopedia.category.sports': 'Sport',
-    'encyclopedia.category.food': 'Potraviny',
-    'encyclopedia.category.landmarks': 'Památky',
-    'encyclopedia.category.buildings': 'Budovy',
-    'encyclopedia.category.schools': 'Školy',
-    'encyclopedia.category.continents': 'Kontinenty',
-    'encyclopedia.category.villages': 'Vesnice',
-    'encyclopedia.category.towns': 'Městečko',
-    'encyclopedia.category.cities': 'Města',
-    'encyclopedia.category.settlements': 'Vypořádání',
-    'encyclopedia.category.countries': 'Země',
-    'encyclopedia.search.found': `{results, plural,
-    zero {Nic nenalezeno}
-    one {1 možný článek nalezen}
-    few {# možné články nalezeny}
-    other {# možných článků nalezeno}
-  }.`,
-    'encyclopedia.help.text': 'Pomocí menu vlevo se můžete pohybovat mezi položkami v encyklopedii. Jakmile vyberete položku, zobrazí se místo tohoto textu.',
-    'encyclopedia.help.sidebar': 'Postranní nástroje',
-    'encyclopedia.help.sidebar.text': 'Vítejte ve svém příběhu! Tento postranní panel vám umožní snadný přístup ke všem zdrojům souvisejícím s vaším příběhem. Zaškrtnutím výše uvedených ikon zobrazíte nejnovější komentáře, své poznámky, můžete vyhledávat ve své encyklopedii, procházet ji a přidávat do ní nové záznamy. Pokud chcete přidat spojení k záznamu z textu příběhu, vyberte text, kam jej chcete umístit, a poté klikněte na tlačítko připojit. Poté budete vyzváni k vyhledání a výběru položky.',
-    'encyclopedia.intro': 'Vítejte v encyklopedii pro {universe}.',
-    'encyclopedia.add.title': 'Přidat nový záznam do encyklopedie',
-    'encyclopedia.add.heading': 'Co chcete přidat?',
-    'encyclopedia.add.moresoon': 'Více kategorií již brzy!',
-    'encyclopedia.create': `Vytvořit nov{category, select,
-    character {ou postavu}
-    event {ou událost}
-    group {ou skupinu}
-    item {ý předmět}
-    location {é místo}
-    other {ou poznámku}
-    state {ý stát}
-    governments {ou vládu}
-    languages {ý jazyk}
-    creatures {ého tvora}
-    deity {é božstvo}
-    religions {é náboženství}
-    flora {ou flóru}
-    magic {ou magii}
-    planets {ou planetu}
-    species {ý druh}
-    technologies {ou technologii}
-    families {ou rodinu}
-    jobs {é zaměstnání}
-    lore {ou pověst}
-    vehicles {é vozidlo}
-    diseases {ou nemoc}
-    traditions {ou tradici}
-    food {é jídlo}
-    sports {ý sport}
-    landmarks {ou památku}
-    buildings {ou budovu}
-    schools {ou školu}
-    continents {ý kontinent}
-    villages {ou vesnici}
-    towns {é městečko}
-    cities {é město}
-    settlements {ou osadu}
-    countries {ou zemi}
-  }`,
-    'encyclopedia.create.header': `Tvorba nové{category, select,
-    character { postavy}
-    event { události}
-    group { skupiny}
-    item {ho předmětu}
-    location {ho místa}
-    other { poznámky}
-    state {ho státu}
-    governments { vlády}
-    languages {ho jazyka}
-    creatures {ho tvora}
-    deity {ho božstva}
-    religions {ho náboženství}
-    flora { flóry}
-    magic { magie}
-    planets { planety}
-    species {ho druhu}
-    technologies { technologie}
-    families { rodiny}
-    jobs {ho zaměstnání}
-    lore { pověsti}
-    vehicles {ho vozidla}
-    diseases { nemoci}
-    traditions { tradice}
-    food {ho jídla}
-    sports {ho sportu}
-    landmarks { památky}
-    buildings { budovy}
-    schools { školy}
-    continents {ho kontinentu}
-    villages { vesnice}
-    towns {ho městečka}
-    cities {ho města}
-    settlements { osady}
-    countries { země}
-  } v {universe}`,
-    'encyclopedia.entry.category': `Kategorie: {category, select,
-    character {Postava}
-    event {Událost}
-    group {Skupina}
-    item {Předmět}
-    location {Místo}
-    other {Poznámka}
-    state {Stát}
-    governments {Vláda}
-    languages {Jazyk}
-    creatures {Tvor}
-    deity {Božstvo}
-    religions {Náboženství}
-    flora {Flóra}
-    magic {Magie}
-    planets {Planeta}
-    species {Druh}
-    technologies {Technologie}
-    families {Rodina}
-    jobs {Práce}
-    lore {Pověst}
-    vehicles {Vozidlo}
-    diseases {Nemoc}
-    traditions {Tradice}
-    food {Jídlo}
-    sports {Sport}
-    landmarks {Pamětihodnost}
-    buildings {Budova}
-    schools {Škola}
-    continents {Kontinent}
-    villages {Vesnice}
-    towns {Město}
-    cities {Město}
-    settlements {Osada}
-    countries {Země}
-  }`,
-    'encyclopedia.entry.category.legend': 'Kategorie',
-    'encyclopedia.fields.add': 'Přidat nové pole',
-    'encyclopedia.fields.text': 'Definice',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Spojení',
-    'encyclopedia.fields.time': 'Čas',
-    'encyclopedia.fields.image': 'Obrázek',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'Viditelnost',
-    'encyclopedia.public': 'Veřejné',
-    'encyclopedia.private': 'Soukromé',
-    'encyclopedia.container': 'Kontejner',
-    'encyclopedia.container.desc': 'Vytvořte z této položky kontejner pro novou skupinu položek. Tím se skryje z výpisu kategorií.',
-    'encyclopedia.entry.name': 'Jméno záznamu',
-    'encyclopedia.summary': 'Shrnutí',
-    'encyclopedia.summary.desc': 'Jedná se o shrnutí, které bude jedinou úvodní informací zobrazenou čtenáři.',
-    'encyclopedia.parent': 'Nadřazený záznam',
-    'encyclopedia.related': 'Související záznamy',
-    'encyclopedia.errors.tags': 'Můžete mít pouze 10 značek na záznam.',
-    'encyclopedia.field.private': 'Soukromé pole',
-    'encyclopedia.ft.indev': 'Tato funkce je ve vývoji.',
-    'encyclopedia.connections.remove': 'Odstranit spojení',
-    'encyclopedia.connections.extra': 'Další informace',
-    'encyclopedia.connections.existing': 'Existující záznam',
-    'encyclopedia.connections.existing.abbr': 'EZ',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Obrázek záznamu',
-    'encyclopedia.translation.title': 'Vítejte v překladu pro {universe}!',
-    'encyclopedia.translation.desc': 'Toto rozhraní encyklopedie se používá pro překlad do {language}. Chcete-li začít překládat, vyberte existující položky v levém menu.',
-    'encyclopedia.welcome.totalEntries': `V tomto vesmíru {totalEntries, plural, 
-    zero {nejsou žádné informace}
-    one {je jeden záznam}
-    few {jsou # záznamy}
-    other {je # záznamů}
-  }.`,
-    'encyclopedia.settings.title': 'Nastavení Encyklopedie',
-    'encyclopedia.settings.categoriesDesc': 'Zapněte a vypněte kategorie, které chcete použít v encyklopedii.',
-    'encyclopedia.settings.introText': 'Uvítací zpráva, která bude zobrazena hned po popisku vesmíru.',
-    'encyclopedia.fields.placeholder': 'Jméno pole',
-    'encyclopedia.fields.delete': 'Odstranit pole',
-    'encyclopedia.timeOption.fictionalDate': 'Fiktivní datum',
-    'encyclopedia.timeOption.fictionalTime': 'Fiktivní čas',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fiktivní datum a čas',
-    'encyclopedia.timeOption.date': 'Datum',
-    'encyclopedia.timeOption.time': 'Čas',
-    'encyclopedia.timeOption.dateTime': 'Datum a čas',
-    'encyclopedia.settings.groupByCategories': 'Zahrnout kategorie do seznamu',
-    'encyclopedia.menuOpen': 'Otevřít menu encyclopedie',
-    'encyclopedia.menuClose': 'Zavřít menu encyclopedie',
-    'encyclopedia.menuAria': 'Menu encyklopedie',
-    'enc.newField': 'Nové pole',
-    'enc.entries.limit': `Momentálně máte {value, number} z {max, plural,
-    =0 {nekonečna}
-    other {{max, number}}
-  } položek.`,
-    'enc.entries.limitReached': 'Dosáhli jste maximálního povoleného počtu položek pro aktuální předplatné.',
-    'encyclopedia.pronunciation.title': 'Výslovnost',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Rozpracované',
-    'encyclopedia.settings.templateLegend': 'Šablona vesmíru',
-    'encyclopedia.settings.templateDescription': 'Povolit kopírování obsahu této encyklopedie do jiných vesmírů. Toto je nejlepší volba, pokud nemáte žádné příběhy a místo toho jen vytváříte šablonu pro ostatní.',
-    'encyclopedia.settings.templateCheckbox': 'Toto je šablona vesmíru',
-    'encyclopedia.templateCopy.modalTitle': 'Kopírovat obsah encyklopedie',
-    'encyclopedia.templateCopy.description': 'Zkopírujte obsah této encyklopedie do svého vesmíru, aby jste ho obohatili.',
-    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do kterého se má zkopírovat',
-    'encyclopedia.templateCopy.finished': 'Kopírování dokončeno',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Vytvoření vesmíru ze šablony',
-    'encyclopedia.templateCreateUniverse.description': 'Vytvoření nového vesmíru s přednastaveným obsahem encyklopedie z této šablony. Váš vesmír zůstane soukromý, dokud se nerozhodnete jej zveřejnit.',
-    'encyclopedia.templateCreateUniverse.success': 'Vesmír úspěšně vytvořen! Přesměrování...',
-    'encyclopedia.pronunciation.audio.play': 'Přehrát výslovnost',
-    'encyclopedia.pronunciation.guide': 'Pokud je to možné, používejte <ipaLink>zápis IPA</ipaLink>. Výslovnost Web Speech API je nejlepší; viz <webSpeechLink>dokumentaci MDN</webSpeechLink>.'
-};
+  "encyclopedia.add": "Přidat nový záznam",
+  "encyclopedia.browse": "Procházet encyklopedii",
+  "encyclopedia.search": "Vyhledat v encyklopedii",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "Zpět na stránku vesmíru",
+  "encyclopedia.back.workshop": "Zpátky do dílny",
+  "encyclopedia.categories": "Kategorie",
+  "encyclopedia.groups": "Skupiny",
+  "encyclopedia.category.character": "Postava",
+  "encyclopedia.category.event": "Událost",
+  "encyclopedia.category.group": "Skupina",
+  "encyclopedia.category.item": "Věc",
+  "encyclopedia.category.location": "Lokalita",
+  "encyclopedia.category.other": "Ostatní",
+  "encyclopedia.category.state": "Národ",
+  "encyclopedia.category.governments": "Stát",
+  "encyclopedia.category.languages": "Jazyk",
+  "encyclopedia.category.creatures": "Bytost",
+  "encyclopedia.category.deity": "Božstvo",
+  "encyclopedia.category.religions": "Náboženství",
+  "encyclopedia.category.flora": "Flora",
+  "encyclopedia.category.magic": "Magie",
+  "encyclopedia.category.planets": "Planeta",
+  "encyclopedia.category.species": "Rasa",
+  "encyclopedia.category.technologies": "Technologie",
+  "encyclopedia.category.families": "Rodiny",
+  "encyclopedia.category.jobs": "Nabídky práce:",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Vozidla",
+  "encyclopedia.category.diseases": "Nemoci",
+  "encyclopedia.category.traditions": "Tradice",
+  "encyclopedia.category.sports": "Sport",
+  "encyclopedia.category.food": "Potraviny",
+  "encyclopedia.category.landmarks": "Památky",
+  "encyclopedia.category.buildings": "Budovy",
+  "encyclopedia.category.schools": "Školy",
+  "encyclopedia.category.continents": "Kontinenty",
+  "encyclopedia.category.villages": "Vesnice",
+  "encyclopedia.category.towns": "Městečko",
+  "encyclopedia.category.cities": "Města",
+  "encyclopedia.category.settlements": "Vypořádání",
+  "encyclopedia.category.countries": "Země",
+  "encyclopedia.search.found": "{results, plural,\n    zero {Nic nenalezeno}\n    one {1 možný článek nalezen}\n    few {# možné články nalezeny}\n    other {# možných článků nalezeno}\n  }.",
+  "encyclopedia.help.text": "Pomocí menu vlevo se můžete pohybovat mezi položkami v encyklopedii. Jakmile vyberete položku, zobrazí se místo tohoto textu.",
+  "encyclopedia.help.sidebar": "Postranní nástroje",
+  "encyclopedia.help.sidebar.text": "Vítejte ve svém příběhu! Tento postranní panel vám umožní snadný přístup ke všem zdrojům souvisejícím s vaším příběhem. Zaškrtnutím výše uvedených ikon zobrazíte nejnovější komentáře, své poznámky, můžete vyhledávat ve své encyklopedii, procházet ji a přidávat do ní nové záznamy. Pokud chcete přidat spojení k záznamu z textu příběhu, vyberte text, kam jej chcete umístit, a poté klikněte na tlačítko připojit. Poté budete vyzváni k vyhledání a výběru položky.",
+  "encyclopedia.intro": "Vítejte v encyklopedii pro {universe}.",
+  "encyclopedia.add.title": "Přidat nový záznam do encyklopedie",
+  "encyclopedia.add.heading": "Co chcete přidat?",
+  "encyclopedia.add.moresoon": "Více kategorií již brzy!",
+  "encyclopedia.create": "Vytvořit nov{category, select,\n    character {ou postavu}\n    event {ou událost}\n    group {ou skupinu}\n    item {ý předmět}\n    location {é místo}\n    other {ou poznámku}\n    state {ý stát}\n    governments {ou vládu}\n    languages {ý jazyk}\n    creatures {ého tvora}\n    deity {é božstvo}\n    religions {é náboženství}\n    flora {ou flóru}\n    magic {ou magii}\n    planets {ou planetu}\n    species {ý druh}\n    technologies {ou technologii}\n    families {ou rodinu}\n    jobs {é zaměstnání}\n    lore {ou pověst}\n    vehicles {é vozidlo}\n    diseases {ou nemoc}\n    traditions {ou tradici}\n    food {é jídlo}\n    sports {ý sport}\n    landmarks {ou památku}\n    buildings {ou budovu}\n    schools {ou školu}\n    continents {ý kontinent}\n    villages {ou vesnici}\n    towns {é městečko}\n    cities {é město}\n    settlements {ou osadu}\n    countries {ou zemi}\n  }",
+  "encyclopedia.create.header": "Tvorba nové{category, select,\n    character { postavy}\n    event { události}\n    group { skupiny}\n    item {ho předmětu}\n    location {ho místa}\n    other { poznámky}\n    state {ho státu}\n    governments { vlády}\n    languages {ho jazyka}\n    creatures {ho tvora}\n    deity {ho božstva}\n    religions {ho náboženství}\n    flora { flóry}\n    magic { magie}\n    planets { planety}\n    species {ho druhu}\n    technologies { technologie}\n    families { rodiny}\n    jobs {ho zaměstnání}\n    lore { pověsti}\n    vehicles {ho vozidla}\n    diseases { nemoci}\n    traditions { tradice}\n    food {ho jídla}\n    sports {ho sportu}\n    landmarks { památky}\n    buildings { budovy}\n    schools { školy}\n    continents {ho kontinentu}\n    villages { vesnice}\n    towns {ho městečka}\n    cities {ho města}\n    settlements { osady}\n    countries { země}\n  } v {universe}",
+  "encyclopedia.entry.category": "Kategorie: {category, select,\n    character {Postava}\n    event {Událost}\n    group {Skupina}\n    item {Předmět}\n    location {Místo}\n    other {Poznámka}\n    state {Stát}\n    governments {Vláda}\n    languages {Jazyk}\n    creatures {Tvor}\n    deity {Božstvo}\n    religions {Náboženství}\n    flora {Flóra}\n    magic {Magie}\n    planets {Planeta}\n    species {Druh}\n    technologies {Technologie}\n    families {Rodina}\n    jobs {Práce}\n    lore {Pověst}\n    vehicles {Vozidlo}\n    diseases {Nemoc}\n    traditions {Tradice}\n    food {Jídlo}\n    sports {Sport}\n    landmarks {Pamětihodnost}\n    buildings {Budova}\n    schools {Škola}\n    continents {Kontinent}\n    villages {Vesnice}\n    towns {Město}\n    cities {Město}\n    settlements {Osada}\n    countries {Země}\n  }",
+  "encyclopedia.entry.category.legend": "Kategorie",
+  "encyclopedia.fields.add": "Přidat nové pole",
+  "encyclopedia.fields.text": "Definice",
+  "encyclopedia.fields.textarea": "Text",
+  "encyclopedia.fields.connection": "Spojení",
+  "encyclopedia.fields.time": "Čas",
+  "encyclopedia.fields.image": "Obrázek",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "Viditelnost",
+  "encyclopedia.public": "Veřejné",
+  "encyclopedia.private": "Soukromé",
+  "encyclopedia.container": "Kontejner",
+  "encyclopedia.container.desc": "Vytvořte z této položky kontejner pro novou skupinu položek. Tím se skryje z výpisu kategorií.",
+  "encyclopedia.entry.name": "Jméno záznamu",
+  "encyclopedia.summary": "Shrnutí",
+  "encyclopedia.summary.desc": "Jedná se o shrnutí, které bude jedinou úvodní informací zobrazenou čtenáři.",
+  "encyclopedia.parent": "Nadřazený záznam",
+  "encyclopedia.related": "Související záznamy",
+  "encyclopedia.errors.tags": "Můžete mít pouze 10 značek na záznam.",
+  "encyclopedia.field.private": "Soukromé pole",
+  "encyclopedia.ft.indev": "Tato funkce je ve vývoji.",
+  "encyclopedia.connections.remove": "Odstranit spojení",
+  "encyclopedia.connections.extra": "Další informace",
+  "encyclopedia.connections.existing": "Existující záznam",
+  "encyclopedia.connections.existing.abbr": "EZ",
+  "encyclopedia.cover": "Obrázek záznamu",
+  "encyclopedia.translation.title": "Vítejte v překladu pro {universe}!",
+  "encyclopedia.translation.desc": "Toto rozhraní encyklopedie se používá pro překlad do {language}. Chcete-li začít překládat, vyberte existující položky v levém menu.",
+  "encyclopedia.welcome.totalEntries": "V tomto vesmíru {totalEntries, plural, \n    zero {nejsou žádné informace}\n    one {je jeden záznam}\n    few {jsou # záznamy}\n    other {je # záznamů}\n  }.",
+  "encyclopedia.settings.title": "Nastavení Encyklopedie",
+  "encyclopedia.settings.categoriesDesc": "Zapněte a vypněte kategorie, které chcete použít v encyklopedii.",
+  "encyclopedia.settings.introText": "Uvítací zpráva, která bude zobrazena hned po popisku vesmíru.",
+  "encyclopedia.fields.placeholder": "Jméno pole",
+  "encyclopedia.fields.delete": "Odstranit pole",
+  "encyclopedia.timeOption.fictionalDate": "Fiktivní datum",
+  "encyclopedia.timeOption.fictionalTime": "Fiktivní čas",
+  "encyclopedia.timeOption.fictionalDateTime": "Fiktivní datum a čas",
+  "encyclopedia.timeOption.date": "Datum",
+  "encyclopedia.timeOption.time": "Čas",
+  "encyclopedia.timeOption.dateTime": "Datum a čas",
+  "encyclopedia.settings.groupByCategories": "Zahrnout kategorie do seznamu",
+  "encyclopedia.menuOpen": "Otevřít menu encyclopedie",
+  "encyclopedia.menuClose": "Zavřít menu encyclopedie",
+  "encyclopedia.menuAria": "Menu encyklopedie",
+  "enc.newField": "Nové pole",
+  "enc.entries.limit": "Momentálně máte {value, number} z {max, plural,\n    =0 {nekonečna}\n    other {{max, number}}\n  } položek.",
+  "enc.entries.limitReached": "Dosáhli jste maximálního povoleného počtu položek pro aktuální předplatné.",
+  "encyclopedia.pronunciation.title": "Výslovnost",
+  "encyclopedia.wip.abbreviation": "WIP",
+  "encyclopedia.wip.full": "Rozpracované",
+  "encyclopedia.settings.templateLegend": "Šablona vesmíru",
+  "encyclopedia.settings.templateDescription": "Povolit kopírování obsahu této encyklopedie do jiných vesmírů. Toto je nejlepší volba, pokud nemáte žádné příběhy a místo toho jen vytváříte šablonu pro ostatní.",
+  "encyclopedia.settings.templateCheckbox": "Toto je šablona vesmíru",
+  "encyclopedia.templateCopy.modalTitle": "Kopírovat obsah encyklopedie",
+  "encyclopedia.templateCopy.description": "Zkopírujte obsah této encyklopedie do svého vesmíru, aby jste ho obohatili.",
+  "encyclopedia.templateCopy.targetUniverse": "Vesmír, do kterého se má zkopírovat",
+  "encyclopedia.templateCopy.finished": "Kopírování dokončeno",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Vytvoření vesmíru ze šablony",
+  "encyclopedia.templateCreateUniverse.description": "Vytvoření nového vesmíru s přednastaveným obsahem encyklopedie z této šablony. Váš vesmír zůstane soukromý, dokud se nerozhodnete jej zveřejnit.",
+  "encyclopedia.templateCreateUniverse.success": "Vesmír úspěšně vytvořen! Přesměrování...",
+  "encyclopedia.pronunciation.audio.play": "Přehrát výslovnost",
+  "encyclopedia.pronunciation.guide": "Pokud je to možné, používejte <ipaLink>zápis IPA</ipaLink>. Výslovnost Web Speech API je nejlepší; viz <webSpeechLink>dokumentaci MDN</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "Pohlaví",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Dětské",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "Biografie",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "Popis",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "Členové",
+  "encyclopedia.templateField.locations": "Lokalita",
+  "encyclopedia.templateField.events": "Akce",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "Historie",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Obsah",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "Stát",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "Jazyk",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "Poznámky",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "Skupiny",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "Věc",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Typ",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "Božstvo",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Tradice",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "Funkce",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Umístění",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Kurikulum",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "Jazyk",
+}

@@ -1,244 +1,263 @@
 export default {
-    'encyclopedia.add': 'Yeni bir giriş ekle',
-    'encyclopedia.browse': 'Ansiklopediye göz at',
-    'encyclopedia.search': 'Ansiklopedi içinde ara',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'Evrene geri dön',
-    'encyclopedia.back.workshop': 'Atölyeye geri dön',
-    'encyclopedia.categories': 'Kategoriler',
-    'encyclopedia.groups': 'Gruplar',
-    'encyclopedia.category.character': 'Karakterler',
-    'encyclopedia.category.event': 'Etkinlikler',
-    'encyclopedia.category.group': 'Gruplar',
-    'encyclopedia.category.item': 'Öğeler',
-    'encyclopedia.category.location': 'Konumlar',
-    'encyclopedia.category.other': 'Diğer',
-    'encyclopedia.category.state': 'Durumlar',
-    'encyclopedia.category.governments': 'Hükümetler',
-    'encyclopedia.category.languages': 'Diller',
-    'encyclopedia.category.creatures': 'Yaratıklar',
-    'encyclopedia.category.deity': 'Tanrılar',
-    'encyclopedia.category.religions': 'Dinler',
-    'encyclopedia.category.flora': 'Bitkiler',
-    'encyclopedia.category.magic': 'Büyü',
-    'encyclopedia.category.planets': 'Gezegenler',
-    'encyclopedia.category.species': 'Türler',
-    'encyclopedia.category.technologies': 'Teknolojiler',
-    'encyclopedia.category.families': 'Aileler',
-    'encyclopedia.category.jobs': 'Meslekler',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Araçlar',
-    'encyclopedia.category.diseases': 'Hastalıklar',
-    'encyclopedia.category.traditions': 'Gelenekler',
-    'encyclopedia.category.sports': 'Spor',
-    'encyclopedia.category.food': 'Yemek',
-    'encyclopedia.category.landmarks': 'Simgesel Yapılar',
-    'encyclopedia.category.buildings': 'Binalar',
-    'encyclopedia.category.schools': 'Okullar',
-    'encyclopedia.category.continents': 'Kıtalar',
-    'encyclopedia.category.villages': 'Köyler',
-    'encyclopedia.category.towns': 'Kasabalar',
-    'encyclopedia.category.cities': 'Şehirler',
-    'encyclopedia.category.settlements': 'Yerleşimler',
-    'encyclopedia.category.countries': 'Ülkeler',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {İlgili giriş bulunamadı}
-    one {1 ilgili giriş bulundu}
-    other {# ilgili giriş bulundu}
-  } bulundu.`,
-    'encyclopedia.help.text': 'Ansiklopedideki öğeler arasında gezinmek için sol taraftaki menüyü kullanın. Bir öğe seçtiğinizde, bu metnin yerine gösterilecektir.',
-    'encyclopedia.help.sidebar': 'Kenar Çubuğu Araç Kutusu',
-    'encyclopedia.help.sidebar.text': 'Hikayenize hoş geldiniz! Bu kenar çubuğu, hikayenizle ilgili tüm kaynaklara kolayca erişmenizi sağlar. En son yorumları, notlarınızı görmek, ansiklopedinizde arama yapmak, ansiklopedinize göz atmak ve yeni girdiler eklemek için yukarıdaki simgeleri kontrol edin. Hikaye metninden bir girişe bağlantı eklemek istiyorsanız, yerleştirmek istediğiniz metni seçin ve ardından bağla düğmesine tıklayın. Daha sonra bir öğe bulmanız ve seçmeniz istenecektir.',
-    'encyclopedia.intro': '{universe} ansiklopedisine hoş geldiniz.',
-    'encyclopedia.add.title': 'Yeni bir giriş ekleyin',
-    'encyclopedia.add.heading': 'Ne eklemek istersiniz?',
-    'encyclopedia.add.moresoon': 'Daha fazla kategori yakında gelecek!',
-    'encyclopedia.create': `Yeni oluştur {category, select,
-    character {karakter}
-    event {olay}
-    group {grup}
-    item {eşya}
-    location {konum}
-    other {not}
-    state {eyalet}
-    governments {hükümet}
-    languages {dil}
-    creatures {yaratık}
-    deity {tanrı}
-    religions {din}
-    flora {flora}
-    magic {büyü}
-    planets {gezegen}
-    species {tür}
-    technologies {teknoloji}
-    families {aile}
-    jobs {iş}
-    lore {irfan}
-    vehicles {araç}
-    diseases {hastalık}
-    traditions {gelenek}
-    food {yemek}
-    sports {spor}
-    landmarks {simge}
-    buildings {bina}
-    schools {okul}
-    continents {kıta}
-    villages {köyler}
-    towns {kasabalar}
-    cities {şehirler}
-    settlements {yerleşim}
-    countries {ülke}
-  }`,
-    'encyclopedia.create.header': `Yeni bir {category, select,
-    character {karakter}
-    event {olay}
-    group {grup}
-    item {eşya}
-    location {konum}
-    other {not}
-    state {eyalet}
-    governments {hükümet}
-    languages {dil}
-    creatures {yaratık}
-    deity {tanrı}
-    religions {din}
-    flora {flora}
-    magic {büyü}
-    planets {gezegen}
-    species {tür}
-    technologies {teknoloji oluşturma}
-    families {aile}
-    jobs {iş}
-    lore {irfan}
-    vehicles {araç}
-    diseases {hastalık}
-    traditions {gelenek}
-    food {yemek}
-    sports {spor}
-    landmarks {simgesel yapı}
-    buildings {bina}
-    schools {okul}
-    continents {kıta}
-    villages {köy}
-    towns {kasaba}
-    cities {şehir}
-    settlements {yerleşim}
-    countries {ülke}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Giriş kategorisi: {category, select,
-    character {Karakter}
-    event {Olay}
-    group {Grup}
-    item {Öğe}
-    location {Konum}
-    other {Not}
-    state {Devlet}
-    governments {Hükümet}
-    languages {Dil}
-    creatures {Yaratık}
-    deity {İlah}
-    religions {Din}
-    flora {Flora}
-    magic {Büyü}
-    planets {Gezegen}
-    species {Tür}
-    technologies {Teknoloji}
-    families {Aile}
-    jobs {İş}
-    lore {İlim}
-    vehicles {Araç}
-    diseases {Hastalık}
-    traditions {Gelenek}
-    food {Yemek}
-    sports {Spor}
-    landmarks {Simgesel Yapı}
-    buildings {Bina}
-    schools {Okul}
-    continents {Kıta}
-    villages {Köy}
-    towns {Kasaba}
-    cities {Şehir}
-    settlements {Yerleşim}
-    countries {Ülke}
-  }`,
-    'encyclopedia.entry.category.legend': 'Kategori',
-    'encyclopedia.fields.add': 'Yeni bir alan ekleyin',
-    'encyclopedia.fields.text': 'Tanım',
-    'encyclopedia.fields.textarea': 'Metin',
-    'encyclopedia.fields.connection': 'Bağlantı',
-    'encyclopedia.fields.time': 'Zaman',
-    'encyclopedia.fields.image': 'Resim',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'Görünürlük',
-    'encyclopedia.public': 'Herkese Açık',
-    'encyclopedia.private': 'Özel',
-    'encyclopedia.container': 'Konteyner',
-    'encyclopedia.container.desc': 'Bu girişi yeni bir giriş grubu için kapsayıcı yapın. Bu, onu kategoriler listesinden gizleyecektir.',
-    'encyclopedia.entry.name': 'Girişin adı',
-    'encyclopedia.summary': 'Özet',
-    'encyclopedia.summary.desc': 'Bu, okuyucuya gösterilen tek ilk bilgi olacak bir özettir.',
-    'encyclopedia.parent': 'Üst giriş',
-    'encyclopedia.related': 'İlgili girişler',
-    'encyclopedia.errors.tags': 'Her girişte en fazla 10 etiket kullanabilirsiniz.',
-    'encyclopedia.field.private': 'Özel alan',
-    'encyclopedia.ft.indev': 'Bu seçenek geliştirme aşamasındadır.',
-    'encyclopedia.connections.remove': 'Bağlantıyı kaldır',
-    'encyclopedia.connections.extra': 'Ek bilgi',
-    'encyclopedia.connections.existing': 'Mevcut giriş',
-    'encyclopedia.connections.existing.abbr': 'MG',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Kapak resmi',
-    'encyclopedia.translation.title': '{universe} evren çevirisi için hoş geldiniz!',
-    'encyclopedia.translation.desc': 'Bu ansiklopedi arayüzü, {language}diline çeviri yapmak için kullanılır. Çevirilerine başlamak için sol taraftaki listeden mevcut girişleri seçin.',
-    'encyclopedia.welcome.totalEntries': `Bu evrende {totalEntries, plural, 
-    zero {hiç giriş yok}
-    one {bir giriş var}
-    other {# giriş var}
-  } .`,
-    'encyclopedia.settings.title': 'Ansiklopedi ayarları',
-    'encyclopedia.settings.categoriesDesc': 'Ansiklopedinizde kullanmak istediğiniz kategorileri açıp kapatın.',
-    'encyclopedia.settings.introText': 'Evren açıklamasından sonra görüntülenecek hoş geldiniz mesajı.',
-    'encyclopedia.fields.placeholder': 'Alan adı',
-    'encyclopedia.fields.delete': 'Alanı sil',
-    'encyclopedia.timeOption.fictionalDate': 'Kurgusal tarih',
-    'encyclopedia.timeOption.fictionalTime': 'Kurgusal zaman',
-    'encyclopedia.timeOption.fictionalDateTime': 'Kurgusal tarih ve zaman',
-    'encyclopedia.timeOption.date': 'Tarih',
-    'encyclopedia.timeOption.time': 'Zaman',
-    'encyclopedia.timeOption.dateTime': 'Tarih ve zaman',
-    'encyclopedia.settings.groupByCategories': 'Grup listesinde kategorileri dahil et',
-    'encyclopedia.menuOpen': 'Ansiklopedi menüsünü aç',
-    'encyclopedia.menuClose': 'Ansiklopedi menüsünü kapat',
-    'encyclopedia.menuAria': 'Ansiklopedi menüsü',
-    'enc.newField': 'Yeni alan',
-    'enc.entries.limit': `Şu anda {value, number} {max, plural,
-    =0 {sınırsız}
-    other {{max, number}}
-  } girişiniz bulunmaktadır.`,
-    'enc.entries.limitReached': 'Geçerli aboneliğiniz için izin verilen en fazla ansiklopedi girişine ulaştınız.',
-    'encyclopedia.pronunciation.title': 'Telaffuz',
-    'encyclopedia.wip.abbreviation': 'Çalışma İlerlemede',
-    'encyclopedia.wip.full': 'Çalışma İlerlemede',
-    'encyclopedia.settings.templateLegend': 'Şablon evreni',
-    'encyclopedia.settings.templateDescription': 'Bu ansiklopedinin içeriğinin diğer evrenlere kopyalanmasına izin verin. Bu, hikayeleriniz olmadan sadece başkalarının kullanması için bir şablon oluşturuyorsanız en iyisidir.',
-    'encyclopedia.settings.templateCheckbox': 'Bu bir şablon evrenidir',
-    'encyclopedia.templateCopy.modalTitle': 'Ansiklopedi içeriğini kopyala',
-    'encyclopedia.templateCopy.description': 'Bu ansiklopedinin içeriğini evreninize kopyalayarak zenginleştirin.',
-    'encyclopedia.templateCopy.targetUniverse': 'Kopyalanacak evren',
-    'encyclopedia.templateCopy.finished': 'Kopyalama tamamlandı',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Şablondan evren oluşturma',
-    'encyclopedia.templateCreateUniverse.description': 'Bu şablondan önceden tohumlanmış ansiklopedi içeriğiyle yeni bir evren oluşturun. Evreniniz, siz onu herkese açık hale getirmeye karar verene kadar gizli kalacaktır.',
-    'encyclopedia.templateCreateUniverse.success': 'Evren başarıyla oluşturuldu! Yönlendiriliyor...',
-    'encyclopedia.pronunciation.audio.play': 'Telaffuz çal',
-    'encyclopedia.pronunciation.guide': 'Mümkün olduğunda <ipaLink>IPA gösterimini</ipaLink> kullanın. Web Speech API telaffuzu en iyi çabadır; <webSpeechLink>MDN dokümanlarına</webSpeechLink> bakın.'
-};
+  "encyclopedia.add": "Yeni bir giriş ekle",
+  "encyclopedia.browse": "Ansiklopediye göz at",
+  "encyclopedia.search": "Ansiklopedi içinde ara",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "Evrene geri dön",
+  "encyclopedia.back.workshop": "Atölyeye geri dön",
+  "encyclopedia.categories": "Kategoriler",
+  "encyclopedia.groups": "Gruplar",
+  "encyclopedia.category.character": "Karakterler",
+  "encyclopedia.category.event": "Etkinlikler",
+  "encyclopedia.category.group": "Gruplar",
+  "encyclopedia.category.item": "Öğeler",
+  "encyclopedia.category.location": "Konumlar",
+  "encyclopedia.category.other": "Diğer",
+  "encyclopedia.category.state": "Durumlar",
+  "encyclopedia.category.governments": "Hükümetler",
+  "encyclopedia.category.languages": "Diller",
+  "encyclopedia.category.creatures": "Yaratıklar",
+  "encyclopedia.category.deity": "Tanrılar",
+  "encyclopedia.category.religions": "Dinler",
+  "encyclopedia.category.flora": "Bitkiler",
+  "encyclopedia.category.magic": "Büyü",
+  "encyclopedia.category.planets": "Gezegenler",
+  "encyclopedia.category.species": "Türler",
+  "encyclopedia.category.technologies": "Teknolojiler",
+  "encyclopedia.category.families": "Aileler",
+  "encyclopedia.category.jobs": "Meslekler",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Araçlar",
+  "encyclopedia.category.diseases": "Hastalıklar",
+  "encyclopedia.category.traditions": "Gelenekler",
+  "encyclopedia.category.sports": "Spor",
+  "encyclopedia.category.food": "Yemek",
+  "encyclopedia.category.landmarks": "Simgesel Yapılar",
+  "encyclopedia.category.buildings": "Binalar",
+  "encyclopedia.category.schools": "Okullar",
+  "encyclopedia.category.continents": "Kıtalar",
+  "encyclopedia.category.villages": "Köyler",
+  "encyclopedia.category.towns": "Kasabalar",
+  "encyclopedia.category.cities": "Şehirler",
+  "encyclopedia.category.settlements": "Yerleşimler",
+  "encyclopedia.category.countries": "Ülkeler",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {İlgili giriş bulunamadı}\n    one {1 ilgili giriş bulundu}\n    other {# ilgili giriş bulundu}\n  } bulundu.",
+  "encyclopedia.help.text": "Ansiklopedideki öğeler arasında gezinmek için sol taraftaki menüyü kullanın. Bir öğe seçtiğinizde, bu metnin yerine gösterilecektir.",
+  "encyclopedia.help.sidebar": "Kenar Çubuğu Araç Kutusu",
+  "encyclopedia.help.sidebar.text": "Hikayenize hoş geldiniz! Bu kenar çubuğu, hikayenizle ilgili tüm kaynaklara kolayca erişmenizi sağlar. En son yorumları, notlarınızı görmek, ansiklopedinizde arama yapmak, ansiklopedinize göz atmak ve yeni girdiler eklemek için yukarıdaki simgeleri kontrol edin. Hikaye metninden bir girişe bağlantı eklemek istiyorsanız, yerleştirmek istediğiniz metni seçin ve ardından bağla düğmesine tıklayın. Daha sonra bir öğe bulmanız ve seçmeniz istenecektir.",
+  "encyclopedia.intro": "{universe} ansiklopedisine hoş geldiniz.",
+  "encyclopedia.add.title": "Yeni bir giriş ekleyin",
+  "encyclopedia.add.heading": "Ne eklemek istersiniz?",
+  "encyclopedia.add.moresoon": "Daha fazla kategori yakında gelecek!",
+  "encyclopedia.create": "Yeni oluştur {category, select,\n    character {karakter}\n    event {olay}\n    group {grup}\n    item {eşya}\n    location {konum}\n    other {not}\n    state {eyalet}\n    governments {hükümet}\n    languages {dil}\n    creatures {yaratık}\n    deity {tanrı}\n    religions {din}\n    flora {flora}\n    magic {büyü}\n    planets {gezegen}\n    species {tür}\n    technologies {teknoloji}\n    families {aile}\n    jobs {iş}\n    lore {irfan}\n    vehicles {araç}\n    diseases {hastalık}\n    traditions {gelenek}\n    food {yemek}\n    sports {spor}\n    landmarks {simge}\n    buildings {bina}\n    schools {okul}\n    continents {kıta}\n    villages {köyler}\n    towns {kasabalar}\n    cities {şehirler}\n    settlements {yerleşim}\n    countries {ülke}\n  }",
+  "encyclopedia.create.header": "Yeni bir {category, select,\n    character {karakter}\n    event {olay}\n    group {grup}\n    item {eşya}\n    location {konum}\n    other {not}\n    state {eyalet}\n    governments {hükümet}\n    languages {dil}\n    creatures {yaratık}\n    deity {tanrı}\n    religions {din}\n    flora {flora}\n    magic {büyü}\n    planets {gezegen}\n    species {tür}\n    technologies {teknoloji oluşturma}\n    families {aile}\n    jobs {iş}\n    lore {irfan}\n    vehicles {araç}\n    diseases {hastalık}\n    traditions {gelenek}\n    food {yemek}\n    sports {spor}\n    landmarks {simgesel yapı}\n    buildings {bina}\n    schools {okul}\n    continents {kıta}\n    villages {köy}\n    towns {kasaba}\n    cities {şehir}\n    settlements {yerleşim}\n    countries {ülke}\n  } in {universe}",
+  "encyclopedia.entry.category": "Giriş kategorisi: {category, select,\n    character {Karakter}\n    event {Olay}\n    group {Grup}\n    item {Öğe}\n    location {Konum}\n    other {Not}\n    state {Devlet}\n    governments {Hükümet}\n    languages {Dil}\n    creatures {Yaratık}\n    deity {İlah}\n    religions {Din}\n    flora {Flora}\n    magic {Büyü}\n    planets {Gezegen}\n    species {Tür}\n    technologies {Teknoloji}\n    families {Aile}\n    jobs {İş}\n    lore {İlim}\n    vehicles {Araç}\n    diseases {Hastalık}\n    traditions {Gelenek}\n    food {Yemek}\n    sports {Spor}\n    landmarks {Simgesel Yapı}\n    buildings {Bina}\n    schools {Okul}\n    continents {Kıta}\n    villages {Köy}\n    towns {Kasaba}\n    cities {Şehir}\n    settlements {Yerleşim}\n    countries {Ülke}\n  }",
+  "encyclopedia.entry.category.legend": "Kategori",
+  "encyclopedia.fields.add": "Yeni bir alan ekleyin",
+  "encyclopedia.fields.text": "Tanım",
+  "encyclopedia.fields.textarea": "Metin",
+  "encyclopedia.fields.connection": "Bağlantı",
+  "encyclopedia.fields.time": "Zaman",
+  "encyclopedia.fields.image": "Resim",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "Görünürlük",
+  "encyclopedia.public": "Herkese Açık",
+  "encyclopedia.private": "Özel",
+  "encyclopedia.container": "Konteyner",
+  "encyclopedia.container.desc": "Bu girişi yeni bir giriş grubu için kapsayıcı yapın. Bu, onu kategoriler listesinden gizleyecektir.",
+  "encyclopedia.entry.name": "Girişin adı",
+  "encyclopedia.summary": "Özet",
+  "encyclopedia.summary.desc": "Bu, okuyucuya gösterilen tek ilk bilgi olacak bir özettir.",
+  "encyclopedia.parent": "Üst giriş",
+  "encyclopedia.related": "İlgili girişler",
+  "encyclopedia.errors.tags": "Her girişte en fazla 10 etiket kullanabilirsiniz.",
+  "encyclopedia.field.private": "Özel alan",
+  "encyclopedia.ft.indev": "Bu seçenek geliştirme aşamasındadır.",
+  "encyclopedia.connections.remove": "Bağlantıyı kaldır",
+  "encyclopedia.connections.extra": "Ek bilgi",
+  "encyclopedia.connections.existing": "Mevcut giriş",
+  "encyclopedia.connections.existing.abbr": "MG",
+  "encyclopedia.cover": "Kapak resmi",
+  "encyclopedia.translation.title": "{universe} evren çevirisi için hoş geldiniz!",
+  "encyclopedia.translation.desc": "Bu ansiklopedi arayüzü, {language}diline çeviri yapmak için kullanılır. Çevirilerine başlamak için sol taraftaki listeden mevcut girişleri seçin.",
+  "encyclopedia.welcome.totalEntries": "Bu evrende {totalEntries, plural, \n    zero {hiç giriş yok}\n    one {bir giriş var}\n    other {# giriş var}\n  } .",
+  "encyclopedia.settings.title": "Ansiklopedi ayarları",
+  "encyclopedia.settings.categoriesDesc": "Ansiklopedinizde kullanmak istediğiniz kategorileri açıp kapatın.",
+  "encyclopedia.settings.introText": "Evren açıklamasından sonra görüntülenecek hoş geldiniz mesajı.",
+  "encyclopedia.fields.placeholder": "Alan adı",
+  "encyclopedia.fields.delete": "Alanı sil",
+  "encyclopedia.timeOption.fictionalDate": "Kurgusal tarih",
+  "encyclopedia.timeOption.fictionalTime": "Kurgusal zaman",
+  "encyclopedia.timeOption.fictionalDateTime": "Kurgusal tarih ve zaman",
+  "encyclopedia.timeOption.date": "Tarih",
+  "encyclopedia.timeOption.time": "Zaman",
+  "encyclopedia.timeOption.dateTime": "Tarih ve zaman",
+  "encyclopedia.settings.groupByCategories": "Grup listesinde kategorileri dahil et",
+  "encyclopedia.menuOpen": "Ansiklopedi menüsünü aç",
+  "encyclopedia.menuClose": "Ansiklopedi menüsünü kapat",
+  "encyclopedia.menuAria": "Ansiklopedi menüsü",
+  "enc.newField": "Yeni alan",
+  "enc.entries.limit": "Şu anda {value, number} {max, plural,\n    =0 {sınırsız}\n    other {{max, number}}\n  } girişiniz bulunmaktadır.",
+  "enc.entries.limitReached": "Geçerli aboneliğiniz için izin verilen en fazla ansiklopedi girişine ulaştınız.",
+  "encyclopedia.pronunciation.title": "Telaffuz",
+  "encyclopedia.wip.abbreviation": "Çalışma İlerlemede",
+  "encyclopedia.wip.full": "Çalışma İlerlemede",
+  "encyclopedia.settings.templateLegend": "Şablon evreni",
+  "encyclopedia.settings.templateDescription": "Bu ansiklopedinin içeriğinin diğer evrenlere kopyalanmasına izin verin. Bu, hikayeleriniz olmadan sadece başkalarının kullanması için bir şablon oluşturuyorsanız en iyisidir.",
+  "encyclopedia.settings.templateCheckbox": "Bu bir şablon evrenidir",
+  "encyclopedia.templateCopy.modalTitle": "Ansiklopedi içeriğini kopyala",
+  "encyclopedia.templateCopy.description": "Bu ansiklopedinin içeriğini evreninize kopyalayarak zenginleştirin.",
+  "encyclopedia.templateCopy.targetUniverse": "Kopyalanacak evren",
+  "encyclopedia.templateCopy.finished": "Kopyalama tamamlandı",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Şablondan evren oluşturma",
+  "encyclopedia.templateCreateUniverse.description": "Bu şablondan önceden tohumlanmış ansiklopedi içeriğiyle yeni bir evren oluşturun. Evreniniz, siz onu herkese açık hale getirmeye karar verene kadar gizli kalacaktır.",
+  "encyclopedia.templateCreateUniverse.success": "Evren başarıyla oluşturuldu! Yönlendiriliyor...",
+  "encyclopedia.pronunciation.audio.play": "Telaffuz çal",
+  "encyclopedia.pronunciation.guide": "Mümkün olduğunda <ipaLink>IPA gösterimini</ipaLink> kullanın. Web Speech API telaffuzu en iyi çabadır; <webSpeechLink>MDN dokümanlarına</webSpeechLink> bakın.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "Cinsiyet",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Çocuklar",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "Biyografi",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "Açıklama",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "Üyeler",
+  "encyclopedia.templateField.locations": "Konumlar",
+  "encyclopedia.templateField.events": "Etkinlikler",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "Tarih",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "İçerik",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "Hükümetler",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "Diller",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "Notlar",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "Gruplar",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "Öğeler",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Tip",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "Tanrılar",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Gelenekler",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "Özellikler",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Konum",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Müfredat",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "Dil",
+}

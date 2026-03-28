@@ -1,244 +1,263 @@
 export default {
-    'encyclopedia.add': '新增一個項目',
-    'encyclopedia.browse': '瀏覽百科全書',
-    'encyclopedia.search': '搜尋百科全書',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': '返回宇宙頁面',
-    'encyclopedia.back.workshop': '返回工作坊',
-    'encyclopedia.categories': '分類',
-    'encyclopedia.groups': '群組',
-    'encyclopedia.category.character': '角色',
-    'encyclopedia.category.event': '事件',
-    'encyclopedia.category.group': '群組',
-    'encyclopedia.category.item': '物品',
-    'encyclopedia.category.location': '地點',
-    'encyclopedia.category.other': '其他',
-    'encyclopedia.category.state': '狀態',
-    'encyclopedia.category.governments': '政府',
-    'encyclopedia.category.languages': '語言',
-    'encyclopedia.category.creatures': '生物',
-    'encyclopedia.category.deity': '神祇',
-    'encyclopedia.category.religions': '宗教',
-    'encyclopedia.category.flora': '植物',
-    'encyclopedia.category.magic': '魔法',
-    'encyclopedia.category.planets': '行星',
-    'encyclopedia.category.species': '物種',
-    'encyclopedia.category.technologies': '科技',
-    'encyclopedia.category.families': '家庭',
-    'encyclopedia.category.jobs': '工作機會',
-    'encyclopedia.category.lore': '邏輯',
-    'encyclopedia.category.vehicles': '車輛',
-    'encyclopedia.category.diseases': '疾病',
-    'encyclopedia.category.traditions': '傳統',
-    'encyclopedia.category.sports': '運動',
-    'encyclopedia.category.food': '食物',
-    'encyclopedia.category.landmarks': '地標',
-    'encyclopedia.category.buildings': '建築物',
-    'encyclopedia.category.schools': '學校',
-    'encyclopedia.category.continents': '大陸',
-    'encyclopedia.category.villages': '村莊',
-    'encyclopedia.category.towns': '鎮',
-    'encyclopedia.category.cities': '城市',
-    'encyclopedia.category.settlements': '和解',
-    'encyclopedia.category.countries': '國家',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {沒有相關的條目}
-    one {1個相關的條目}
-    other {#個相關的條目}
-  } 找到。`,
-    'encyclopedia.help.text': '使用左側的菜單在百科全書的項目之間切換。一旦您選擇了一個項目，它將顯示在這段文字的位置。',
-    'encyclopedia.help.sidebar': '側邊欄工具箱',
-    'encyclopedia.help.sidebar.text': '歡迎來到您的故事！本側欄可讓您輕鬆存取與您的故事相關的所有資源。勾選上方的圖示，即可查看最新的評論、您的筆記、搜尋您的百科全書、瀏覽以及新增條目到您的百科全書。如果您要從故事文字中加入連接至某個詞條，請選擇您要放置連接的文字，然後按一下連接按鈕。接下來會提示您尋找並選擇一個項目。',
-    'encyclopedia.intro': '歡迎來到 {universe} 百科全書。',
-    'encyclopedia.add.title': '添加新條目到百科全書',
-    'encyclopedia.add.heading': '您想要添加什麼？',
-    'encyclopedia.add.moresoon': '更多類別即將推出！',
-    'encyclopedia.create': `建立新 {category, select,
-    character {角色}
-    event {事件}
-    group {群體}
-    item {物品}
-    location {位置}
-    other {備註}
-    state {州}
-    governments {政府}
-    languages {語言}
-    creatures {生物}
-    deity {神明}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {行星}
-    species {種類}
-    technologies {技術}
-    families {家庭}
-    jobs {工作}
-    lore {傳說}
-    vehicles {車輛}
-    diseases {疾病}
-    traditions {傳統}
-    food {食物}
-    sports {運動}
-    landmarks {地標}
-    buildings {建築}
-    schools {學校}
-    continents {大陸}
-    villages {村莊}
-    towns {}
-    cities {鎮}
-    settlements {城市 ~ ~ 聚落}
-    countries {國家}
-  }`,
-    'encyclopedia.create.header': `建立新 {category, select,
-    character {角色}
-    event {事件}
-    group {群體}
-    item {物品}
-    location {位置}
-    other {註釋}
-    state {州}
-    governments {政府}
-    languages {語言}
-    creatures {生物}
-    deity {神明}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {行星}
-    species {種類}
-    technologies {科技 ~ 家庭 ~ ~ 工作 ~ ~ 傳說 ~ ~ 車輛 ~ ~ 疾病 ~ ~ 傳統 ~ ~ 食物 ~ ~ 運動 ~ ~ 地標 ~ 建築 ~ School ~ 科技}
-    families {家庭}
-    jobs {工作}
-    lore {傳說}
-    vehicles {車輛}
-    diseases {疾病}
-    traditions {傳統}
-    food {食物}
-    sports {運動}
-    landmarks {地標}
-    buildings {建築}
-    schools {學校}
-    continents {大陸}
-    villages {村莊}
-    towns {}
-    cities {城鎮}
-    settlements {聚落}
-    countries {國家}
-  } 在 {universe}`,
-    'encyclopedia.entry.category': `輸入類別： {category, select,
-    character {角色}
-    event {事件}
-    group {群體}
-    item {物品}
-    location {位置}
-    other {註釋}
-    state {國家}
-    governments {政府}
-    languages {語言}
-    creatures {生物}
-    deity {神明}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {星球}
-    species {種類}
-    technologies {科技}
-    families {家庭}
-    jobs {工作}
-    lore {傳說}
-    vehicles {車輛}
-    diseases {疾病}
-    traditions {傳統}
-    food {食物}
-    sports {運動}
-    landmarks {地標}
-    buildings {建築}
-    schools {學校}
-    continents {大陸}
-    villages {村莊}
-    towns {城鎮}
-    cities {城市}
-    settlements {聚落}
-    countries {國家}
-  }`,
-    'encyclopedia.entry.category.legend': '類別',
-    'encyclopedia.fields.add': '添加新字段',
-    'encyclopedia.fields.text': '定義',
-    'encyclopedia.fields.textarea': '文本',
-    'encyclopedia.fields.connection': '連接',
-    'encyclopedia.fields.time': '時間',
-    'encyclopedia.fields.image': '圖片',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': '可見性',
-    'encyclopedia.public': '公開',
-    'encyclopedia.private': '私人',
-    'encyclopedia.container': '容器',
-    'encyclopedia.container.desc': '將此項目設定為新項目群組的容器。這將使它隱藏於類別清單中。',
-    'encyclopedia.entry.name': '條目名稱',
-    'encyclopedia.summary': '摘要',
-    'encyclopedia.summary.desc': '這是一份摘要，是顯示給讀者的唯一初始資訊。',
-    'encyclopedia.parent': '父條目',
-    'encyclopedia.related': '相關條目',
-    'encyclopedia.errors.tags': '每個條目只能有10個標籤。',
-    'encyclopedia.field.private': '私人字段',
-    'encyclopedia.ft.indev': '此選項正在開發中。',
-    'encyclopedia.connections.remove': '移除連接',
-    'encyclopedia.connections.extra': '額外資訊',
-    'encyclopedia.connections.existing': '現有條目',
-    'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': '封面圖片',
-    'encyclopedia.translation.title': '歡迎來到 {universe} 宇宙的翻譯！',
-    'encyclopedia.translation.desc': '此百科全書介面用於翻譯成 {language}。請在左側的列表中選擇現有條目開始翻譯。',
-    'encyclopedia.welcome.totalEntries': `有 {totalEntries, plural, 
-    zero {沒有條目}
-    one {是一個條目}
-    other {是 # 條目}
-  } 在這個宇宙中。`,
-    'encyclopedia.settings.title': '百科全書設定',
-    'encyclopedia.settings.categoriesDesc': '打開或關閉您想在百科全書中使用的分類。',
-    'encyclopedia.settings.introText': '宇宙描述後顯示的歡迎訊息。',
-    'encyclopedia.fields.placeholder': '欄位名稱',
-    'encyclopedia.fields.delete': '刪除欄位',
-    'encyclopedia.timeOption.fictionalDate': '虛構日期',
-    'encyclopedia.timeOption.fictionalTime': '虛構時間',
-    'encyclopedia.timeOption.fictionalDateTime': '虛構日期時間',
-    'encyclopedia.timeOption.date': '日期',
-    'encyclopedia.timeOption.time': '時間',
-    'encyclopedia.timeOption.dateTime': '日期和時間',
-    'encyclopedia.settings.groupByCategories': '在群組列表中包含分類',
-    'encyclopedia.menuOpen': '打開百科全書選單',
-    'encyclopedia.menuClose': '關閉百科全書選單',
-    'encyclopedia.menuAria': '百科全書選單',
-    'enc.newField': '新欄位',
-    'enc.entries.limit': `您目前有 {value, number} 個無限制的}
-    other {{max, number}}
-  } 項目中的 {max, plural,
-    =0 {個。`,
-    'enc.entries.limitReached': '您已達到目前訂閱所允許的最大百科全書項目數量。',
-    'encyclopedia.pronunciation.title': '發音',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': '進行中',
-    'encyclopedia.settings.templateLegend': '範本宇宙',
-    'encyclopedia.settings.templateDescription': '允許將此百科全書的內容複製到其他宇宙中。如果您沒有任何故事，只是為他人創建一個範本，這是最好的選擇。',
-    'encyclopedia.settings.templateCheckbox': '這是一個範本宇宙',
-    'encyclopedia.templateCopy.modalTitle': '複製百科全書內容',
-    'encyclopedia.templateCopy.description': '將此百科全書的內容複製到您的宇宙中以豐富它。',
-    'encyclopedia.templateCopy.targetUniverse': '要複製到的宇宙',
-    'encyclopedia.templateCopy.finished': '複製完成',
-    'encyclopedia.templateCreateUniverse.modalTitle': '從範本建立宇宙',
-    'encyclopedia.templateCreateUniverse.description': '使用本範本中預先播入的百科全書內容建立新的宇宙。在您決定公開之前，您的宇宙將保持隱私。',
-    'encyclopedia.templateCreateUniverse.success': '宇宙創建成功！重定向...',
-    'encyclopedia.pronunciation.audio.play': '播放發音',
-    'encyclopedia.pronunciation.guide': '盡可能使用<ipaLink>IPA 標記</ipaLink>。Web Speech API 的發音是盡力而為，請參閱<webSpeechLink>MDN 文件</webSpeechLink>。'
-};
+  "encyclopedia.add": "新增一個項目",
+  "encyclopedia.browse": "瀏覽百科全書",
+  "encyclopedia.search": "搜尋百科全書",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "返回宇宙頁面",
+  "encyclopedia.back.workshop": "返回工作坊",
+  "encyclopedia.categories": "分類",
+  "encyclopedia.groups": "群組",
+  "encyclopedia.category.character": "角色",
+  "encyclopedia.category.event": "事件",
+  "encyclopedia.category.group": "群組",
+  "encyclopedia.category.item": "物品",
+  "encyclopedia.category.location": "地點",
+  "encyclopedia.category.other": "其他",
+  "encyclopedia.category.state": "狀態",
+  "encyclopedia.category.governments": "政府",
+  "encyclopedia.category.languages": "語言",
+  "encyclopedia.category.creatures": "生物",
+  "encyclopedia.category.deity": "神祇",
+  "encyclopedia.category.religions": "宗教",
+  "encyclopedia.category.flora": "植物",
+  "encyclopedia.category.magic": "魔法",
+  "encyclopedia.category.planets": "行星",
+  "encyclopedia.category.species": "物種",
+  "encyclopedia.category.technologies": "科技",
+  "encyclopedia.category.families": "家庭",
+  "encyclopedia.category.jobs": "工作機會",
+  "encyclopedia.category.lore": "邏輯",
+  "encyclopedia.category.vehicles": "車輛",
+  "encyclopedia.category.diseases": "疾病",
+  "encyclopedia.category.traditions": "傳統",
+  "encyclopedia.category.sports": "運動",
+  "encyclopedia.category.food": "食物",
+  "encyclopedia.category.landmarks": "地標",
+  "encyclopedia.category.buildings": "建築物",
+  "encyclopedia.category.schools": "學校",
+  "encyclopedia.category.continents": "大陸",
+  "encyclopedia.category.villages": "村莊",
+  "encyclopedia.category.towns": "鎮",
+  "encyclopedia.category.cities": "城市",
+  "encyclopedia.category.settlements": "和解",
+  "encyclopedia.category.countries": "國家",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {沒有相關的條目}\n    one {1個相關的條目}\n    other {#個相關的條目}\n  } 找到。",
+  "encyclopedia.help.text": "使用左側的菜單在百科全書的項目之間切換。一旦您選擇了一個項目，它將顯示在這段文字的位置。",
+  "encyclopedia.help.sidebar": "側邊欄工具箱",
+  "encyclopedia.help.sidebar.text": "歡迎來到您的故事！本側欄可讓您輕鬆存取與您的故事相關的所有資源。勾選上方的圖示，即可查看最新的評論、您的筆記、搜尋您的百科全書、瀏覽以及新增條目到您的百科全書。如果您要從故事文字中加入連接至某個詞條，請選擇您要放置連接的文字，然後按一下連接按鈕。接下來會提示您尋找並選擇一個項目。",
+  "encyclopedia.intro": "歡迎來到 {universe} 百科全書。",
+  "encyclopedia.add.title": "添加新條目到百科全書",
+  "encyclopedia.add.heading": "您想要添加什麼？",
+  "encyclopedia.add.moresoon": "更多類別即將推出！",
+  "encyclopedia.create": "建立新 {category, select,\n    character {角色}\n    event {事件}\n    group {群體}\n    item {物品}\n    location {位置}\n    other {備註}\n    state {州}\n    governments {政府}\n    languages {語言}\n    creatures {生物}\n    deity {神明}\n    religions {宗教}\n    flora {植物}\n    magic {魔法}\n    planets {行星}\n    species {種類}\n    technologies {技術}\n    families {家庭}\n    jobs {工作}\n    lore {傳說}\n    vehicles {車輛}\n    diseases {疾病}\n    traditions {傳統}\n    food {食物}\n    sports {運動}\n    landmarks {地標}\n    buildings {建築}\n    schools {學校}\n    continents {大陸}\n    villages {村莊}\n    towns {}\n    cities {鎮}\n    settlements {城市 ~ ~ 聚落}\n    countries {國家}\n  }",
+  "encyclopedia.create.header": "建立新 {category, select,\n    character {角色}\n    event {事件}\n    group {群體}\n    item {物品}\n    location {位置}\n    other {註釋}\n    state {州}\n    governments {政府}\n    languages {語言}\n    creatures {生物}\n    deity {神明}\n    religions {宗教}\n    flora {植物}\n    magic {魔法}\n    planets {行星}\n    species {種類}\n    technologies {科技 ~ 家庭 ~ ~ 工作 ~ ~ 傳說 ~ ~ 車輛 ~ ~ 疾病 ~ ~ 傳統 ~ ~ 食物 ~ ~ 運動 ~ ~ 地標 ~ 建築 ~ School ~ 科技}\n    families {家庭}\n    jobs {工作}\n    lore {傳說}\n    vehicles {車輛}\n    diseases {疾病}\n    traditions {傳統}\n    food {食物}\n    sports {運動}\n    landmarks {地標}\n    buildings {建築}\n    schools {學校}\n    continents {大陸}\n    villages {村莊}\n    towns {}\n    cities {城鎮}\n    settlements {聚落}\n    countries {國家}\n  } 在 {universe}",
+  "encyclopedia.entry.category": "輸入類別： {category, select,\n    character {角色}\n    event {事件}\n    group {群體}\n    item {物品}\n    location {位置}\n    other {註釋}\n    state {國家}\n    governments {政府}\n    languages {語言}\n    creatures {生物}\n    deity {神明}\n    religions {宗教}\n    flora {植物}\n    magic {魔法}\n    planets {星球}\n    species {種類}\n    technologies {科技}\n    families {家庭}\n    jobs {工作}\n    lore {傳說}\n    vehicles {車輛}\n    diseases {疾病}\n    traditions {傳統}\n    food {食物}\n    sports {運動}\n    landmarks {地標}\n    buildings {建築}\n    schools {學校}\n    continents {大陸}\n    villages {村莊}\n    towns {城鎮}\n    cities {城市}\n    settlements {聚落}\n    countries {國家}\n  }",
+  "encyclopedia.entry.category.legend": "類別",
+  "encyclopedia.fields.add": "添加新字段",
+  "encyclopedia.fields.text": "定義",
+  "encyclopedia.fields.textarea": "文本",
+  "encyclopedia.fields.connection": "連接",
+  "encyclopedia.fields.time": "時間",
+  "encyclopedia.fields.image": "圖片",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "可見性",
+  "encyclopedia.public": "公開",
+  "encyclopedia.private": "私人",
+  "encyclopedia.container": "容器",
+  "encyclopedia.container.desc": "將此項目設定為新項目群組的容器。這將使它隱藏於類別清單中。",
+  "encyclopedia.entry.name": "條目名稱",
+  "encyclopedia.summary": "摘要",
+  "encyclopedia.summary.desc": "這是一份摘要，是顯示給讀者的唯一初始資訊。",
+  "encyclopedia.parent": "父條目",
+  "encyclopedia.related": "相關條目",
+  "encyclopedia.errors.tags": "每個條目只能有10個標籤。",
+  "encyclopedia.field.private": "私人字段",
+  "encyclopedia.ft.indev": "此選項正在開發中。",
+  "encyclopedia.connections.remove": "移除連接",
+  "encyclopedia.connections.extra": "額外資訊",
+  "encyclopedia.connections.existing": "現有條目",
+  "encyclopedia.connections.existing.abbr": "EE",
+  "encyclopedia.cover": "封面圖片",
+  "encyclopedia.translation.title": "歡迎來到 {universe} 宇宙的翻譯！",
+  "encyclopedia.translation.desc": "此百科全書介面用於翻譯成 {language}。請在左側的列表中選擇現有條目開始翻譯。",
+  "encyclopedia.welcome.totalEntries": "有 {totalEntries, plural, \n    zero {沒有條目}\n    one {是一個條目}\n    other {是 # 條目}\n  } 在這個宇宙中。",
+  "encyclopedia.settings.title": "百科全書設定",
+  "encyclopedia.settings.categoriesDesc": "打開或關閉您想在百科全書中使用的分類。",
+  "encyclopedia.settings.introText": "宇宙描述後顯示的歡迎訊息。",
+  "encyclopedia.fields.placeholder": "欄位名稱",
+  "encyclopedia.fields.delete": "刪除欄位",
+  "encyclopedia.timeOption.fictionalDate": "虛構日期",
+  "encyclopedia.timeOption.fictionalTime": "虛構時間",
+  "encyclopedia.timeOption.fictionalDateTime": "虛構日期時間",
+  "encyclopedia.timeOption.date": "日期",
+  "encyclopedia.timeOption.time": "時間",
+  "encyclopedia.timeOption.dateTime": "日期和時間",
+  "encyclopedia.settings.groupByCategories": "在群組列表中包含分類",
+  "encyclopedia.menuOpen": "打開百科全書選單",
+  "encyclopedia.menuClose": "關閉百科全書選單",
+  "encyclopedia.menuAria": "百科全書選單",
+  "enc.newField": "新欄位",
+  "enc.entries.limit": "您目前有 {value, number} 個無限制的}\n    other {{max, number}}\n  } 項目中的 {max, plural,\n    =0 {個。",
+  "enc.entries.limitReached": "您已達到目前訂閱所允許的最大百科全書項目數量。",
+  "encyclopedia.pronunciation.title": "發音",
+  "encyclopedia.wip.abbreviation": "WIP",
+  "encyclopedia.wip.full": "進行中",
+  "encyclopedia.settings.templateLegend": "範本宇宙",
+  "encyclopedia.settings.templateDescription": "允許將此百科全書的內容複製到其他宇宙中。如果您沒有任何故事，只是為他人創建一個範本，這是最好的選擇。",
+  "encyclopedia.settings.templateCheckbox": "這是一個範本宇宙",
+  "encyclopedia.templateCopy.modalTitle": "複製百科全書內容",
+  "encyclopedia.templateCopy.description": "將此百科全書的內容複製到您的宇宙中以豐富它。",
+  "encyclopedia.templateCopy.targetUniverse": "要複製到的宇宙",
+  "encyclopedia.templateCopy.finished": "複製完成",
+  "encyclopedia.templateCreateUniverse.modalTitle": "從範本建立宇宙",
+  "encyclopedia.templateCreateUniverse.description": "使用本範本中預先播入的百科全書內容建立新的宇宙。在您決定公開之前，您的宇宙將保持隱私。",
+  "encyclopedia.templateCreateUniverse.success": "宇宙創建成功！重定向...",
+  "encyclopedia.pronunciation.audio.play": "播放發音",
+  "encyclopedia.pronunciation.guide": "盡可能使用<ipaLink>IPA 標記</ipaLink>。Web Speech API 的發音是盡力而為，請參閱<webSpeechLink>MDN 文件</webSpeechLink>。",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "性別",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "兒童",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "傳記",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "描述",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "成員",
+  "encyclopedia.templateField.locations": "地點",
+  "encyclopedia.templateField.events": "事件",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "歷史",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "內容",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "政府",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "語言",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "備註",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "群組",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "物品",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "類型",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "神祇",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "傳統",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "功能",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "地點",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "課程",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "語言",
+}

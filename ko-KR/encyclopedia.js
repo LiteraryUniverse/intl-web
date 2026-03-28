@@ -1,244 +1,263 @@
 export default {
-    'encyclopedia.add': '새 항목 추가',
-    'encyclopedia.browse': '백과사전 둘러보기',
-    'encyclopedia.search': '백과사전 검색',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': '우주 페이지로 돌아가기',
-    'encyclopedia.back.workshop': '작업장으로 돌아가기',
-    'encyclopedia.categories': '카테고리',
-    'encyclopedia.groups': '그룹',
-    'encyclopedia.category.character': '문자들',
-    'encyclopedia.category.event': '이벤트',
-    'encyclopedia.category.group': '그룹',
-    'encyclopedia.category.item': '항목',
-    'encyclopedia.category.location': '위치',
-    'encyclopedia.category.other': '기타',
-    'encyclopedia.category.state': '상태',
-    'encyclopedia.category.governments': '정부',
-    'encyclopedia.category.languages': '언어',
-    'encyclopedia.category.creatures': '생물',
-    'encyclopedia.category.deity': '신들',
-    'encyclopedia.category.religions': '종교',
-    'encyclopedia.category.flora': '식물',
-    'encyclopedia.category.magic': '마법',
-    'encyclopedia.category.planets': '행성들',
-    'encyclopedia.category.species': '종',
-    'encyclopedia.category.technologies': '기술',
-    'encyclopedia.category.families': '가족',
-    'encyclopedia.category.jobs': '채용 정보',
-    'encyclopedia.category.lore': '지식',
-    'encyclopedia.category.vehicles': '차량',
-    'encyclopedia.category.diseases': '질병',
-    'encyclopedia.category.traditions': '전통',
-    'encyclopedia.category.sports': '스포츠',
-    'encyclopedia.category.food': '음식',
-    'encyclopedia.category.landmarks': '랜드마크',
-    'encyclopedia.category.buildings': '건물',
-    'encyclopedia.category.schools': '학교',
-    'encyclopedia.category.continents': '대륙',
-    'encyclopedia.category.villages': '마을',
-    'encyclopedia.category.towns': '마을',
-    'encyclopedia.category.cities': '도시',
-    'encyclopedia.category.settlements': '결제',
-    'encyclopedia.category.countries': '국가',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {관련 항목 없음}
-    one {1개의 관련 항목}
-    other {#개의 관련 항목}
-  } 발견됨.`,
-    'encyclopedia.help.text': '왼쪽 메뉴를 사용하여 백과사전의 항목 사이를 이동하세요. 항목을 선택하면 이 텍스트 대신에 표시됩니다.',
-    'encyclopedia.help.sidebar': '사이드바 도구상자',
-    'encyclopedia.help.sidebar.text': '여러분의 스토리에 오신 것을 환영합니다! 이 사이드바에서는 스토리와 관련된 모든 리소스에 쉽게 액세스할 수 있습니다. 위의 아이콘을 확인하여 최신 댓글, 내 메모를 확인하고, 백과사전을 검색하고, 백과사전을 찾아보고, 새 항목을 추가할 수 있습니다. 스토리 텍스트에서 항목에 대한 연결을 추가하려면 연결하려는 텍스트를 선택한 다음 연결 버튼을 클릭합니다. 그러면 항목을 찾아 선택하라는 메시지가 표시됩니다.',
-    'encyclopedia.intro': '{universe} 백과사전에 오신 것을 환영합니다.',
-    'encyclopedia.add.title': '백과사전에 새 항목 추가',
-    'encyclopedia.add.heading': '무엇을 추가하시겠습니까?',
-    'encyclopedia.add.moresoon': '추가 카테고리가 곧 제공됩니다!',
-    'encyclopedia.create': `신규 생성 {category, select,
-    character {캐릭터}
-    event {이벤트}
-    group {그룹}
-    item {아이템}
-    location {위치}
-    other {메모}
-    state {주}
-    governments {정부}
-    languages {언어}
-    creatures {생물}
-    deity {신}
-    religions {종교}
-    flora {식물}
-    magic {마법}
-    planets {행성}
-    species {종족}
-    technologies {기술}
-    families {가족}
-    jobs {직업}
-    lore {지식}
-    vehicles {탈것}
-    diseases {질병}
-    traditions {전통}
-    food {음식}
-    sports {스포츠}
-    landmarks {랜드마크}
-    buildings {건물}
-    schools {학교}
-    continents {대륙}
-    villages {마을}
-    towns {도시}
-    cities {정착지}
-    settlements {국가}
-    countries {국가}
-  }`,
-    'encyclopedia.create.header': `새로 만들기 {category, select,
-    character {캐릭터}
-    event {이벤트}
-    group {그룹}
-    item {아이템}
-    location {위치}
-    other {메모}
-    state {주}
-    governments {정부}
-    languages {언어}
-    creatures {생물}
-    deity {신}
-    religions {종교}
-    flora {식물}
-    magic {마법}
-    planets {행성}
-    species {종}
-    technologies {기술}
-    settlements {}
-    families {가족}
-    jobs {직업}
-    lore {지식}
-    vehicles {탈것}
-    diseases {질병}
-    traditions {전통}
-    food {음식}
-    sports {스포츠}
-    landmarks {랜드마크}
-    buildings {건물}
-    schools {학교}
-    continents {대륙}
-    villages {마을}
-    towns {도시}
-    cities {정착지}
-    countries {국가}
-  } in {universe}`,
-    'encyclopedia.entry.category': `응모 카테고리: {category, select,
-    character {캐릭터}
-    event {이벤트}
-    group {그룹}
-    item {아이템}
-    location {위치}
-    other {참고}
-    state {주}
-    governments {정부}
-    languages {언어}
-    creatures {생물}
-    deity {신}
-    religions {종교}
-    flora {식물}
-    magic {마법}
-    planets {행성}
-    species {종}
-    technologies {기술}
-    families {가족}
-    jobs {직업}
-    lore {지식}
-    vehicles {탈것}
-    diseases {질병}
-    traditions {전통}
-    food {음식}
-    sports {스포츠}
-    landmarks {랜드마크}
-    buildings {건물}
-    schools {학교}
-    continents {대륙}
-    villages {마을}
-    towns {도시}
-    cities {마을}
-    settlements {정착지}
-    countries {국가}
-  }`,
-    'encyclopedia.entry.category.legend': '카테고리',
-    'encyclopedia.fields.add': '새 필드 추가',
-    'encyclopedia.fields.text': '정의',
-    'encyclopedia.fields.textarea': '텍스트',
-    'encyclopedia.fields.connection': '연결',
-    'encyclopedia.fields.time': '시간',
-    'encyclopedia.fields.image': '이미지',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': '가시성',
-    'encyclopedia.public': '공개',
-    'encyclopedia.private': '비공개',
-    'encyclopedia.container': '컨테이너',
-    'encyclopedia.container.desc': '이 항목을 새 항목 그룹을 위한 컨테이너로 만듭니다. 이렇게 하면 카테고리 목록에서 숨겨집니다.',
-    'encyclopedia.entry.name': '항목의 이름',
-    'encyclopedia.summary': '요약',
-    'encyclopedia.summary.desc': '이 요약은 독자에게 표시되는 유일한 초기 정보입니다.',
-    'encyclopedia.parent': '상위 항목',
-    'encyclopedia.related': '관련 항목',
-    'encyclopedia.errors.tags': '항목당 태그는 최대 10개만 가능합니다.',
-    'encyclopedia.field.private': '비공개 필드',
-    'encyclopedia.ft.indev': '이 옵션은 개발 중입니다.',
-    'encyclopedia.connections.remove': '연결 제거',
-    'encyclopedia.connections.extra': '추가 정보',
-    'encyclopedia.connections.existing': '기존 항목',
-    'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': '표지 이미지',
-    'encyclopedia.translation.title': '{universe} 우주 번역에 오신 것을 환영합니다!',
-    'encyclopedia.translation.desc': '이 백과사전 인터페이스는 {language}로의 번역에 사용됩니다. 번역을 시작하려면 왼쪽 목록에서 기존 항목을 선택하세요.',
-    'encyclopedia.welcome.totalEntries': `이 우주에는 {totalEntries, plural, 
-    zero {항목이 없습니다}
-    one {항목이 하나 있습니다}
-    other {항목이 #개 있습니다}
-  } 이 우주에 있습니다.`,
-    'encyclopedia.settings.title': '백과사전 설정',
-    'encyclopedia.settings.categoriesDesc': '백과사전에서 사용할 카테고리를 켜고 끕니다.',
-    'encyclopedia.settings.introText': '우주 설명 후에 표시될 환영 메시지입니다.',
-    'encyclopedia.fields.placeholder': '필드 이름',
-    'encyclopedia.fields.delete': '필드 삭제',
-    'encyclopedia.timeOption.fictionalDate': '가상 날짜',
-    'encyclopedia.timeOption.fictionalTime': '가상 시간',
-    'encyclopedia.timeOption.fictionalDateTime': '가상 날짜 시간',
-    'encyclopedia.timeOption.date': '날짜',
-    'encyclopedia.timeOption.time': '시간',
-    'encyclopedia.timeOption.dateTime': '날짜와 시간',
-    'encyclopedia.settings.groupByCategories': '그룹 목록에 카테고리 포함',
-    'encyclopedia.menuOpen': '백과사전 메뉴 열기',
-    'encyclopedia.menuClose': '백과사전 메뉴 닫기',
-    'encyclopedia.menuAria': '백과사전 메뉴',
-    'enc.newField': '새로운 필드',
-    'enc.entries.limit': `현재 {value, number} {max, plural,
-    =0 {무제한}
-    other {{max, number}}
-  } 항목이 있습니다.`,
-    'enc.entries.limitReached': '현재 구독에 허용된 최대 백과사전 항목 수에 도달하였습니다.',
-    'encyclopedia.pronunciation.title': '발음',
-    'encyclopedia.wip.abbreviation': '개발중',
-    'encyclopedia.wip.full': '작업 진행중',
-    'encyclopedia.settings.templateLegend': '템플릿 우주',
-    'encyclopedia.settings.templateDescription': '이 백과의 내용을 다른 우주로 복사할 수 있도록 허용합니다. 이는 당신이 이야기가 없고 다른 사람들이 사용할 템플릿을 만드는 경우에 가장 적합합니다.',
-    'encyclopedia.settings.templateCheckbox': '이것은 템플릿 우주입니다',
-    'encyclopedia.templateCopy.modalTitle': '백과 내용 복사',
-    'encyclopedia.templateCopy.description': '이 백과의 내용을 복사하여 당신의 우주를 풍부하게 만드세요.',
-    'encyclopedia.templateCopy.targetUniverse': '복사할 우주',
-    'encyclopedia.templateCopy.finished': '복사 완료',
-    'encyclopedia.templateCreateUniverse.modalTitle': '템플릿에서 유니버스 만들기',
-    'encyclopedia.templateCreateUniverse.description': '이 템플릿에서 미리 시드된 백과사전 콘텐츠로 새 유니버스를 만듭니다. 유니버스는 공개를 결정할 때까지 비공개로 유지됩니다.',
-    'encyclopedia.templateCreateUniverse.success': '유니버스 생성 성공! 리디렉션...',
-    'encyclopedia.pronunciation.audio.play': '발음 재생',
-    'encyclopedia.pronunciation.guide': '가능하면 <ipaLink>IPA 표기를</ipaLink> 사용하세요. 웹 음성 API 발음이 가장 좋습니다. <webSpeechLink>MDN 문서를</webSpeechLink> 참조하세요.'
-};
+  "encyclopedia.add": "새 항목 추가",
+  "encyclopedia.browse": "백과사전 둘러보기",
+  "encyclopedia.search": "백과사전 검색",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "우주 페이지로 돌아가기",
+  "encyclopedia.back.workshop": "작업장으로 돌아가기",
+  "encyclopedia.categories": "카테고리",
+  "encyclopedia.groups": "그룹",
+  "encyclopedia.category.character": "문자들",
+  "encyclopedia.category.event": "이벤트",
+  "encyclopedia.category.group": "그룹",
+  "encyclopedia.category.item": "항목",
+  "encyclopedia.category.location": "위치",
+  "encyclopedia.category.other": "기타",
+  "encyclopedia.category.state": "상태",
+  "encyclopedia.category.governments": "정부",
+  "encyclopedia.category.languages": "언어",
+  "encyclopedia.category.creatures": "생물",
+  "encyclopedia.category.deity": "신들",
+  "encyclopedia.category.religions": "종교",
+  "encyclopedia.category.flora": "식물",
+  "encyclopedia.category.magic": "마법",
+  "encyclopedia.category.planets": "행성들",
+  "encyclopedia.category.species": "종",
+  "encyclopedia.category.technologies": "기술",
+  "encyclopedia.category.families": "가족",
+  "encyclopedia.category.jobs": "채용 정보",
+  "encyclopedia.category.lore": "지식",
+  "encyclopedia.category.vehicles": "차량",
+  "encyclopedia.category.diseases": "질병",
+  "encyclopedia.category.traditions": "전통",
+  "encyclopedia.category.sports": "스포츠",
+  "encyclopedia.category.food": "음식",
+  "encyclopedia.category.landmarks": "랜드마크",
+  "encyclopedia.category.buildings": "건물",
+  "encyclopedia.category.schools": "학교",
+  "encyclopedia.category.continents": "대륙",
+  "encyclopedia.category.villages": "마을",
+  "encyclopedia.category.towns": "마을",
+  "encyclopedia.category.cities": "도시",
+  "encyclopedia.category.settlements": "결제",
+  "encyclopedia.category.countries": "국가",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {관련 항목 없음}\n    one {1개의 관련 항목}\n    other {#개의 관련 항목}\n  } 발견됨.",
+  "encyclopedia.help.text": "왼쪽 메뉴를 사용하여 백과사전의 항목 사이를 이동하세요. 항목을 선택하면 이 텍스트 대신에 표시됩니다.",
+  "encyclopedia.help.sidebar": "사이드바 도구상자",
+  "encyclopedia.help.sidebar.text": "여러분의 스토리에 오신 것을 환영합니다! 이 사이드바에서는 스토리와 관련된 모든 리소스에 쉽게 액세스할 수 있습니다. 위의 아이콘을 확인하여 최신 댓글, 내 메모를 확인하고, 백과사전을 검색하고, 백과사전을 찾아보고, 새 항목을 추가할 수 있습니다. 스토리 텍스트에서 항목에 대한 연결을 추가하려면 연결하려는 텍스트를 선택한 다음 연결 버튼을 클릭합니다. 그러면 항목을 찾아 선택하라는 메시지가 표시됩니다.",
+  "encyclopedia.intro": "{universe} 백과사전에 오신 것을 환영합니다.",
+  "encyclopedia.add.title": "백과사전에 새 항목 추가",
+  "encyclopedia.add.heading": "무엇을 추가하시겠습니까?",
+  "encyclopedia.add.moresoon": "추가 카테고리가 곧 제공됩니다!",
+  "encyclopedia.create": "신규 생성 {category, select,\n    character {캐릭터}\n    event {이벤트}\n    group {그룹}\n    item {아이템}\n    location {위치}\n    other {메모}\n    state {주}\n    governments {정부}\n    languages {언어}\n    creatures {생물}\n    deity {신}\n    religions {종교}\n    flora {식물}\n    magic {마법}\n    planets {행성}\n    species {종족}\n    technologies {기술}\n    families {가족}\n    jobs {직업}\n    lore {지식}\n    vehicles {탈것}\n    diseases {질병}\n    traditions {전통}\n    food {음식}\n    sports {스포츠}\n    landmarks {랜드마크}\n    buildings {건물}\n    schools {학교}\n    continents {대륙}\n    villages {마을}\n    towns {도시}\n    cities {정착지}\n    settlements {국가}\n    countries {국가}\n  }",
+  "encyclopedia.create.header": "새로 만들기 {category, select,\n    character {캐릭터}\n    event {이벤트}\n    group {그룹}\n    item {아이템}\n    location {위치}\n    other {메모}\n    state {주}\n    governments {정부}\n    languages {언어}\n    creatures {생물}\n    deity {신}\n    religions {종교}\n    flora {식물}\n    magic {마법}\n    planets {행성}\n    species {종}\n    technologies {기술}\n    settlements {}\n    families {가족}\n    jobs {직업}\n    lore {지식}\n    vehicles {탈것}\n    diseases {질병}\n    traditions {전통}\n    food {음식}\n    sports {스포츠}\n    landmarks {랜드마크}\n    buildings {건물}\n    schools {학교}\n    continents {대륙}\n    villages {마을}\n    towns {도시}\n    cities {정착지}\n    countries {국가}\n  } in {universe}",
+  "encyclopedia.entry.category": "응모 카테고리: {category, select,\n    character {캐릭터}\n    event {이벤트}\n    group {그룹}\n    item {아이템}\n    location {위치}\n    other {참고}\n    state {주}\n    governments {정부}\n    languages {언어}\n    creatures {생물}\n    deity {신}\n    religions {종교}\n    flora {식물}\n    magic {마법}\n    planets {행성}\n    species {종}\n    technologies {기술}\n    families {가족}\n    jobs {직업}\n    lore {지식}\n    vehicles {탈것}\n    diseases {질병}\n    traditions {전통}\n    food {음식}\n    sports {스포츠}\n    landmarks {랜드마크}\n    buildings {건물}\n    schools {학교}\n    continents {대륙}\n    villages {마을}\n    towns {도시}\n    cities {마을}\n    settlements {정착지}\n    countries {국가}\n  }",
+  "encyclopedia.entry.category.legend": "카테고리",
+  "encyclopedia.fields.add": "새 필드 추가",
+  "encyclopedia.fields.text": "정의",
+  "encyclopedia.fields.textarea": "텍스트",
+  "encyclopedia.fields.connection": "연결",
+  "encyclopedia.fields.time": "시간",
+  "encyclopedia.fields.image": "이미지",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "가시성",
+  "encyclopedia.public": "공개",
+  "encyclopedia.private": "비공개",
+  "encyclopedia.container": "컨테이너",
+  "encyclopedia.container.desc": "이 항목을 새 항목 그룹을 위한 컨테이너로 만듭니다. 이렇게 하면 카테고리 목록에서 숨겨집니다.",
+  "encyclopedia.entry.name": "항목의 이름",
+  "encyclopedia.summary": "요약",
+  "encyclopedia.summary.desc": "이 요약은 독자에게 표시되는 유일한 초기 정보입니다.",
+  "encyclopedia.parent": "상위 항목",
+  "encyclopedia.related": "관련 항목",
+  "encyclopedia.errors.tags": "항목당 태그는 최대 10개만 가능합니다.",
+  "encyclopedia.field.private": "비공개 필드",
+  "encyclopedia.ft.indev": "이 옵션은 개발 중입니다.",
+  "encyclopedia.connections.remove": "연결 제거",
+  "encyclopedia.connections.extra": "추가 정보",
+  "encyclopedia.connections.existing": "기존 항목",
+  "encyclopedia.connections.existing.abbr": "EE",
+  "encyclopedia.cover": "표지 이미지",
+  "encyclopedia.translation.title": "{universe} 우주 번역에 오신 것을 환영합니다!",
+  "encyclopedia.translation.desc": "이 백과사전 인터페이스는 {language}로의 번역에 사용됩니다. 번역을 시작하려면 왼쪽 목록에서 기존 항목을 선택하세요.",
+  "encyclopedia.welcome.totalEntries": "이 우주에는 {totalEntries, plural, \n    zero {항목이 없습니다}\n    one {항목이 하나 있습니다}\n    other {항목이 #개 있습니다}\n  } 이 우주에 있습니다.",
+  "encyclopedia.settings.title": "백과사전 설정",
+  "encyclopedia.settings.categoriesDesc": "백과사전에서 사용할 카테고리를 켜고 끕니다.",
+  "encyclopedia.settings.introText": "우주 설명 후에 표시될 환영 메시지입니다.",
+  "encyclopedia.fields.placeholder": "필드 이름",
+  "encyclopedia.fields.delete": "필드 삭제",
+  "encyclopedia.timeOption.fictionalDate": "가상 날짜",
+  "encyclopedia.timeOption.fictionalTime": "가상 시간",
+  "encyclopedia.timeOption.fictionalDateTime": "가상 날짜 시간",
+  "encyclopedia.timeOption.date": "날짜",
+  "encyclopedia.timeOption.time": "시간",
+  "encyclopedia.timeOption.dateTime": "날짜와 시간",
+  "encyclopedia.settings.groupByCategories": "그룹 목록에 카테고리 포함",
+  "encyclopedia.menuOpen": "백과사전 메뉴 열기",
+  "encyclopedia.menuClose": "백과사전 메뉴 닫기",
+  "encyclopedia.menuAria": "백과사전 메뉴",
+  "enc.newField": "새로운 필드",
+  "enc.entries.limit": "현재 {value, number} {max, plural,\n    =0 {무제한}\n    other {{max, number}}\n  } 항목이 있습니다.",
+  "enc.entries.limitReached": "현재 구독에 허용된 최대 백과사전 항목 수에 도달하였습니다.",
+  "encyclopedia.pronunciation.title": "발음",
+  "encyclopedia.wip.abbreviation": "개발중",
+  "encyclopedia.wip.full": "작업 진행중",
+  "encyclopedia.settings.templateLegend": "템플릿 우주",
+  "encyclopedia.settings.templateDescription": "이 백과의 내용을 다른 우주로 복사할 수 있도록 허용합니다. 이는 당신이 이야기가 없고 다른 사람들이 사용할 템플릿을 만드는 경우에 가장 적합합니다.",
+  "encyclopedia.settings.templateCheckbox": "이것은 템플릿 우주입니다",
+  "encyclopedia.templateCopy.modalTitle": "백과 내용 복사",
+  "encyclopedia.templateCopy.description": "이 백과의 내용을 복사하여 당신의 우주를 풍부하게 만드세요.",
+  "encyclopedia.templateCopy.targetUniverse": "복사할 우주",
+  "encyclopedia.templateCopy.finished": "복사 완료",
+  "encyclopedia.templateCreateUniverse.modalTitle": "템플릿에서 유니버스 만들기",
+  "encyclopedia.templateCreateUniverse.description": "이 템플릿에서 미리 시드된 백과사전 콘텐츠로 새 유니버스를 만듭니다. 유니버스는 공개를 결정할 때까지 비공개로 유지됩니다.",
+  "encyclopedia.templateCreateUniverse.success": "유니버스 생성 성공! 리디렉션...",
+  "encyclopedia.pronunciation.audio.play": "발음 재생",
+  "encyclopedia.pronunciation.guide": "가능하면 <ipaLink>IPA 표기를</ipaLink> 사용하세요. 웹 음성 API 발음이 가장 좋습니다. <webSpeechLink>MDN 문서를</webSpeechLink> 참조하세요.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "성별",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "어린이",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "약력",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "설명",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "멤버",
+  "encyclopedia.templateField.locations": "위치",
+  "encyclopedia.templateField.events": "이벤트",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "역사",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "콘텐츠",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "정부",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "언어",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "메모",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "그룹",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "항목",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "유형",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "신들",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "전통",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "기능",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "위치",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "커리큘럼",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "언어",
+}

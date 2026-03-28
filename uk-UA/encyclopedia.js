@@ -1,244 +1,263 @@
 export default {
-    'encyclopedia.add': 'Додати новий запис',
-    'encyclopedia.browse': 'Перегляньте енциклопедію',
-    'encyclopedia.search': 'Пошук запису в енциклопедії',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'Повернутися на сторінку Всесвіту',
-    'encyclopedia.back.workshop': 'Повернутися до майстерні',
-    'encyclopedia.categories': 'Категорії',
-    'encyclopedia.groups': 'Групи',
-    'encyclopedia.category.character': 'Персонажі',
-    'encyclopedia.category.event': 'Події',
-    'encyclopedia.category.group': 'Групи',
-    'encyclopedia.category.item': 'Предмети',
-    'encyclopedia.category.location': 'Місця',
-    'encyclopedia.category.other': 'Інше',
-    'encyclopedia.category.state': 'Штати',
-    'encyclopedia.category.governments': 'Уряди',
-    'encyclopedia.category.languages': 'Мови',
-    'encyclopedia.category.creatures': 'Створіння',
-    'encyclopedia.category.deity': 'Боги',
-    'encyclopedia.category.religions': 'Релігії',
-    'encyclopedia.category.flora': 'Флора',
-    'encyclopedia.category.magic': 'Магія',
-    'encyclopedia.category.planets': 'Планети',
-    'encyclopedia.category.species': 'Види',
-    'encyclopedia.category.technologies': 'Технології',
-    'encyclopedia.category.families': 'Сім\'ї',
-    'encyclopedia.category.jobs': 'Робочі місця',
-    'encyclopedia.category.lore': 'Знання',
-    'encyclopedia.category.vehicles': 'Транспортні засоби',
-    'encyclopedia.category.diseases': 'Захворювання',
-    'encyclopedia.category.traditions': 'Традиції',
-    'encyclopedia.category.sports': 'Спорт',
-    'encyclopedia.category.food': 'Їжа',
-    'encyclopedia.category.landmarks': 'Орієнтири',
-    'encyclopedia.category.buildings': 'Будівлі',
-    'encyclopedia.category.schools': 'Школи',
-    'encyclopedia.category.continents': 'Континенти',
-    'encyclopedia.category.villages': 'Села',
-    'encyclopedia.category.towns': 'Міста',
-    'encyclopedia.category.cities': 'Міста',
-    'encyclopedia.category.settlements': 'Населені пункти',
-    'encyclopedia.category.countries': 'Країни',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {Немає пов'язаних записів}
-    one {1 пов'язаний запис}
-    other {# пов'язаних записів}
-  } знайдено.`,
-    'encyclopedia.help.text': 'Використовуйте меню зліва, щоб переміщуватися між елементами енциклопедії. Після вибору елемента, він буде відображатися замість цього тексту.',
-    'encyclopedia.help.sidebar': 'Бічна панель інструментів',
-    'encyclopedia.help.sidebar.text': 'Ласкаво просимо до вашої історії! Ця бічна панель надає вам легкий доступ до всіх ресурсів, пов\'язаних з вашою історією. Перевірте іконки вище, щоб побачити останні коментарі, ваші нотатки, здійснити пошук в енциклопедії, переглянути і додати нові статті до вашої енциклопедії. Якщо ви хочете додати зв\'язок зі статтею з тексту історії, виберіть місце, де ви хочете його розмістити, а потім натисніть кнопку "З\'єднати". Після цього вам буде запропоновано знайти і вибрати елемент.',
-    'encyclopedia.intro': 'Ласкаво просимо до енциклопедії {universe} .',
-    'encyclopedia.add.title': 'Додати новий запис до енциклопедії',
-    'encyclopedia.add.heading': 'Що бажаєте додати?',
-    'encyclopedia.add.moresoon': 'Більше категорій незабаром!',
-    'encyclopedia.create': `Створити новий {category, select,
-    character {персонаж}
-    event {подія}
-    group {група}
-    item {предмет}
-    location {місце}
-    other {примітка}
-    state {держава}
-    governments {уряд}
-    languages {мова}
-    creatures {істота}
-    deity {божество}
-    religions {релігія}
-    flora {флора}
-    magic {магія}
-    planets {планета}
-    species {вид}
-    technologies {технології}
-    families {сім'я}
-    jobs {робота}
-    lore {історія}
-    vehicles {транспортний засіб}
-    diseases {хвороба}
-    traditions {традиція}
-    food {їжа}
-    sports {спорт}
-    landmarks {пам'ятка}
-    buildings {будівля}
-    schools {школа}
-    continents {континент}
-    villages {села}
-    towns {містечка}
-    cities {міста}
-    settlements {поселення}
-    countries {країна}
-  }`,
-    'encyclopedia.create.header': `Створення нового {category, select,
-    character {персонаж}
-    event {подія}
-    group {група}
-    item {предмет}
-    location {місце}
-    other {примітка}
-    state {держава}
-    governments {уряд}
-    languages {мова}
-    creatures {істота}
-    deity {божество}
-    religions {релігія}
-    flora {флора}
-    magic {магія}
-    planets {планета}
-    species {вид}
-    technologies {технології}
-    families {сім'я}
-    jobs {робота}
-    lore {історія}
-    vehicles {транспортний засіб}
-    diseases {хвороба}
-    traditions {традиція}
-    food {їжа}
-    sports {спорт}
-    landmarks {пам'ятка}
-    buildings {будівля}
-    schools {школа}
-    continents {континент}
-    villages {село}
-    towns {місто}
-    cities {містечко}
-    settlements {селище}
-    countries {країна}
-  } в {universe}`,
-    'encyclopedia.entry.category': `Категорія заявки: {category, select,
-    character {Персонаж}
-    event {Подія}
-    group {Група}
-    item {Предмет}
-    location {Місцевість}
-    other {Примітка}
-    state {Держава}
-    governments {Уряд}
-    languages {Мова}
-    creatures {Істота}
-    deity {Божество}
-    religions {Релігія}
-    flora {Флора}
-    magic {Магія}
-    planets {Планета}
-    species {Вид}
-    technologies {Технологія}
-    families {Сім'я}
-    jobs {Робота}
-    lore {Історія}
-    vehicles {Транспортний засіб}
-    diseases {Хвороба}
-    traditions {Традиція}
-    food {Їжа}
-    sports {Спорт}
-    landmarks {Пам'ятка}
-    buildings {Будівля}
-    schools {Школа}
-    continents {Континент}
-    villages {Село}
-    towns {Містечко}
-    cities {Місто}
-    settlements {Поселення}
-    countries {Країна}
-  }`,
-    'encyclopedia.entry.category.legend': 'Категорія',
-    'encyclopedia.fields.add': 'Додати нове поле',
-    'encyclopedia.fields.text': 'Визначення',
-    'encyclopedia.fields.textarea': 'Текст',
-    'encyclopedia.fields.connection': 'Зв\'язок',
-    'encyclopedia.fields.time': 'Час',
-    'encyclopedia.fields.image': 'Зображення',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'Видимість',
-    'encyclopedia.public': 'Публічний',
-    'encyclopedia.private': 'Приватний',
-    'encyclopedia.container': 'Контейнер',
-    'encyclopedia.container.desc': 'Зробіть цей запис контейнером для нової групи записів. Це приховає його зі списку категорій.',
-    'encyclopedia.entry.name': 'Назва запису',
-    'encyclopedia.summary': 'Опис',
-    'encyclopedia.summary.desc': 'Це резюме, яке буде єдиною початковою інформацією, що відображатиметься для читача.',
-    'encyclopedia.parent': 'Батьківський запис',
-    'encyclopedia.related': 'Пов\'язані записи',
-    'encyclopedia.errors.tags': 'Ви можете використати лише 10 тегів в одному записі.',
-    'encyclopedia.field.private': 'Приватне поле',
-    'encyclopedia.ft.indev': 'Ця опція знаходиться в розробці.',
-    'encyclopedia.connections.remove': 'Видалити з\'єднання',
-    'encyclopedia.connections.extra': 'Додаткова інформація',
-    'encyclopedia.connections.existing': 'Існуючий запис',
-    'encyclopedia.connections.existing.abbr': 'Існ.',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Обкладинка',
-    'encyclopedia.translation.title': 'Ласкаво просимо до універсуму {universe}!',
-    'encyclopedia.translation.desc': 'Цей інтерфейс енциклопедії використовується для перекладу на {language}. Виберіть існуючі записи зі списку зліва, щоб розпочати їх переклад.',
-    'encyclopedia.welcome.totalEntries': `В цьому універсумі є {totalEntries, plural, 
-    zero {записів}
-    one {один запис}
-    other {# записи}
-  }.`,
-    'encyclopedia.settings.title': 'Налаштування енциклопедії',
-    'encyclopedia.settings.categoriesDesc': 'Увімкніть та вимкніть категорії, які ви хочете використовувати в енциклопедії.',
-    'encyclopedia.settings.introText': 'Ласкаво просимо до універсуму!',
-    'encyclopedia.fields.placeholder': 'Назва поля',
-    'encyclopedia.fields.delete': 'Видалити поле',
-    'encyclopedia.timeOption.fictionalDate': 'Фіктивна дата',
-    'encyclopedia.timeOption.fictionalTime': 'Неіснуючий час',
-    'encyclopedia.timeOption.fictionalDateTime': 'Фіктивна дата та час',
-    'encyclopedia.timeOption.date': 'Дата',
-    'encyclopedia.timeOption.time': 'Час',
-    'encyclopedia.timeOption.dateTime': 'Дата та час',
-    'encyclopedia.settings.groupByCategories': 'Включити категорії в список груп',
-    'encyclopedia.menuOpen': 'Відкрити меню енциклопедії',
-    'encyclopedia.menuClose': 'Закрити меню енциклопедії',
-    'encyclopedia.menuAria': 'Меню енциклопедії',
-    'enc.newField': 'Нове поле',
-    'enc.entries.limit': `Ви наразі маєте {value, number} з {max, plural,
-    =0 {необмежених}
-    other {{max, number}}
-  } записів.`,
-    'enc.entries.limitReached': 'Ви досягли максимально допустимої кількості записів в енциклопедії для вашої поточної підписки.',
-    'encyclopedia.pronunciation.title': 'Вимова',
-    'encyclopedia.wip.abbreviation': 'ВРВ',
-    'encyclopedia.wip.full': 'Робота у процесі',
-    'encyclopedia.settings.templateLegend': 'Всесвіт шаблону',
-    'encyclopedia.settings.templateDescription': 'Дозволити копіювання вмісту цієї енциклопедії в інші всесвіти. Це найкраще, якщо у вас немає жодних історій і ви просто створюєте шаблон для використання іншими.',
-    'encyclopedia.settings.templateCheckbox': 'Це всесвіт-шаблон',
-    'encyclopedia.templateCopy.modalTitle': 'Скопіювати вміст енциклопедії',
-    'encyclopedia.templateCopy.description': 'Скопіюйте вміст цієї енциклопедії до вашого всесвіту, щоб збагатити його.',
-    'encyclopedia.templateCopy.targetUniverse': 'Всесвіт для копіювання',
-    'encyclopedia.templateCopy.finished': 'Копіювання завершено',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Створіть всесвіт з шаблону',
-    'encyclopedia.templateCreateUniverse.description': 'Створіть новий всесвіт з попередньо завантаженим вмістом енциклопедії з цього шаблону. Ваш всесвіт залишатиметься приватним, доки ви не вирішите зробити його публічним.',
-    'encyclopedia.templateCreateUniverse.success': 'Всесвіт створено успішно! Перенаправлення...',
-    'encyclopedia.pronunciation.audio.play': 'Відтворити вимову',
-    'encyclopedia.pronunciation.guide': 'Використовуйте <ipaLink>нотацію IPA</ipaLink>, коли це можливо. Вимова Web Speech API є найкращою; див. <webSpeechLink>документацію MDN</webSpeechLink>.'
-};
+  "encyclopedia.add": "Додати новий запис",
+  "encyclopedia.browse": "Перегляньте енциклопедію",
+  "encyclopedia.search": "Пошук запису в енциклопедії",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "Повернутися на сторінку Всесвіту",
+  "encyclopedia.back.workshop": "Повернутися до майстерні",
+  "encyclopedia.categories": "Категорії",
+  "encyclopedia.groups": "Групи",
+  "encyclopedia.category.character": "Персонажі",
+  "encyclopedia.category.event": "Події",
+  "encyclopedia.category.group": "Групи",
+  "encyclopedia.category.item": "Предмети",
+  "encyclopedia.category.location": "Місця",
+  "encyclopedia.category.other": "Інше",
+  "encyclopedia.category.state": "Штати",
+  "encyclopedia.category.governments": "Уряди",
+  "encyclopedia.category.languages": "Мови",
+  "encyclopedia.category.creatures": "Створіння",
+  "encyclopedia.category.deity": "Боги",
+  "encyclopedia.category.religions": "Релігії",
+  "encyclopedia.category.flora": "Флора",
+  "encyclopedia.category.magic": "Магія",
+  "encyclopedia.category.planets": "Планети",
+  "encyclopedia.category.species": "Види",
+  "encyclopedia.category.technologies": "Технології",
+  "encyclopedia.category.families": "Сім'ї",
+  "encyclopedia.category.jobs": "Робочі місця",
+  "encyclopedia.category.lore": "Знання",
+  "encyclopedia.category.vehicles": "Транспортні засоби",
+  "encyclopedia.category.diseases": "Захворювання",
+  "encyclopedia.category.traditions": "Традиції",
+  "encyclopedia.category.sports": "Спорт",
+  "encyclopedia.category.food": "Їжа",
+  "encyclopedia.category.landmarks": "Орієнтири",
+  "encyclopedia.category.buildings": "Будівлі",
+  "encyclopedia.category.schools": "Школи",
+  "encyclopedia.category.continents": "Континенти",
+  "encyclopedia.category.villages": "Села",
+  "encyclopedia.category.towns": "Міста",
+  "encyclopedia.category.cities": "Міста",
+  "encyclopedia.category.settlements": "Населені пункти",
+  "encyclopedia.category.countries": "Країни",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {Немає пов'язаних записів}\n    one {1 пов'язаний запис}\n    other {# пов'язаних записів}\n  } знайдено.",
+  "encyclopedia.help.text": "Використовуйте меню зліва, щоб переміщуватися між елементами енциклопедії. Після вибору елемента, він буде відображатися замість цього тексту.",
+  "encyclopedia.help.sidebar": "Бічна панель інструментів",
+  "encyclopedia.help.sidebar.text": "Ласкаво просимо до вашої історії! Ця бічна панель надає вам легкий доступ до всіх ресурсів, пов'язаних з вашою історією. Перевірте іконки вище, щоб побачити останні коментарі, ваші нотатки, здійснити пошук в енциклопедії, переглянути і додати нові статті до вашої енциклопедії. Якщо ви хочете додати зв'язок зі статтею з тексту історії, виберіть місце, де ви хочете його розмістити, а потім натисніть кнопку \"З'єднати\". Після цього вам буде запропоновано знайти і вибрати елемент.",
+  "encyclopedia.intro": "Ласкаво просимо до енциклопедії {universe} .",
+  "encyclopedia.add.title": "Додати новий запис до енциклопедії",
+  "encyclopedia.add.heading": "Що бажаєте додати?",
+  "encyclopedia.add.moresoon": "Більше категорій незабаром!",
+  "encyclopedia.create": "Створити новий {category, select,\n    character {персонаж}\n    event {подія}\n    group {група}\n    item {предмет}\n    location {місце}\n    other {примітка}\n    state {держава}\n    governments {уряд}\n    languages {мова}\n    creatures {істота}\n    deity {божество}\n    religions {релігія}\n    flora {флора}\n    magic {магія}\n    planets {планета}\n    species {вид}\n    technologies {технології}\n    families {сім'я}\n    jobs {робота}\n    lore {історія}\n    vehicles {транспортний засіб}\n    diseases {хвороба}\n    traditions {традиція}\n    food {їжа}\n    sports {спорт}\n    landmarks {пам'ятка}\n    buildings {будівля}\n    schools {школа}\n    continents {континент}\n    villages {села}\n    towns {містечка}\n    cities {міста}\n    settlements {поселення}\n    countries {країна}\n  }",
+  "encyclopedia.create.header": "Створення нового {category, select,\n    character {персонаж}\n    event {подія}\n    group {група}\n    item {предмет}\n    location {місце}\n    other {примітка}\n    state {держава}\n    governments {уряд}\n    languages {мова}\n    creatures {істота}\n    deity {божество}\n    religions {релігія}\n    flora {флора}\n    magic {магія}\n    planets {планета}\n    species {вид}\n    technologies {технології}\n    families {сім'я}\n    jobs {робота}\n    lore {історія}\n    vehicles {транспортний засіб}\n    diseases {хвороба}\n    traditions {традиція}\n    food {їжа}\n    sports {спорт}\n    landmarks {пам'ятка}\n    buildings {будівля}\n    schools {школа}\n    continents {континент}\n    villages {село}\n    towns {місто}\n    cities {містечко}\n    settlements {селище}\n    countries {країна}\n  } в {universe}",
+  "encyclopedia.entry.category": "Категорія заявки: {category, select,\n    character {Персонаж}\n    event {Подія}\n    group {Група}\n    item {Предмет}\n    location {Місцевість}\n    other {Примітка}\n    state {Держава}\n    governments {Уряд}\n    languages {Мова}\n    creatures {Істота}\n    deity {Божество}\n    religions {Релігія}\n    flora {Флора}\n    magic {Магія}\n    planets {Планета}\n    species {Вид}\n    technologies {Технологія}\n    families {Сім'я}\n    jobs {Робота}\n    lore {Історія}\n    vehicles {Транспортний засіб}\n    diseases {Хвороба}\n    traditions {Традиція}\n    food {Їжа}\n    sports {Спорт}\n    landmarks {Пам'ятка}\n    buildings {Будівля}\n    schools {Школа}\n    continents {Континент}\n    villages {Село}\n    towns {Містечко}\n    cities {Місто}\n    settlements {Поселення}\n    countries {Країна}\n  }",
+  "encyclopedia.entry.category.legend": "Категорія",
+  "encyclopedia.fields.add": "Додати нове поле",
+  "encyclopedia.fields.text": "Визначення",
+  "encyclopedia.fields.textarea": "Текст",
+  "encyclopedia.fields.connection": "Зв'язок",
+  "encyclopedia.fields.time": "Час",
+  "encyclopedia.fields.image": "Зображення",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "Видимість",
+  "encyclopedia.public": "Публічний",
+  "encyclopedia.private": "Приватний",
+  "encyclopedia.container": "Контейнер",
+  "encyclopedia.container.desc": "Зробіть цей запис контейнером для нової групи записів. Це приховає його зі списку категорій.",
+  "encyclopedia.entry.name": "Назва запису",
+  "encyclopedia.summary": "Опис",
+  "encyclopedia.summary.desc": "Це резюме, яке буде єдиною початковою інформацією, що відображатиметься для читача.",
+  "encyclopedia.parent": "Батьківський запис",
+  "encyclopedia.related": "Пов'язані записи",
+  "encyclopedia.errors.tags": "Ви можете використати лише 10 тегів в одному записі.",
+  "encyclopedia.field.private": "Приватне поле",
+  "encyclopedia.ft.indev": "Ця опція знаходиться в розробці.",
+  "encyclopedia.connections.remove": "Видалити з'єднання",
+  "encyclopedia.connections.extra": "Додаткова інформація",
+  "encyclopedia.connections.existing": "Існуючий запис",
+  "encyclopedia.connections.existing.abbr": "Існ.",
+  "encyclopedia.cover": "Обкладинка",
+  "encyclopedia.translation.title": "Ласкаво просимо до універсуму {universe}!",
+  "encyclopedia.translation.desc": "Цей інтерфейс енциклопедії використовується для перекладу на {language}. Виберіть існуючі записи зі списку зліва, щоб розпочати їх переклад.",
+  "encyclopedia.welcome.totalEntries": "В цьому універсумі є {totalEntries, plural, \n    zero {записів}\n    one {один запис}\n    other {# записи}\n  }.",
+  "encyclopedia.settings.title": "Налаштування енциклопедії",
+  "encyclopedia.settings.categoriesDesc": "Увімкніть та вимкніть категорії, які ви хочете використовувати в енциклопедії.",
+  "encyclopedia.settings.introText": "Ласкаво просимо до універсуму!",
+  "encyclopedia.fields.placeholder": "Назва поля",
+  "encyclopedia.fields.delete": "Видалити поле",
+  "encyclopedia.timeOption.fictionalDate": "Фіктивна дата",
+  "encyclopedia.timeOption.fictionalTime": "Неіснуючий час",
+  "encyclopedia.timeOption.fictionalDateTime": "Фіктивна дата та час",
+  "encyclopedia.timeOption.date": "Дата",
+  "encyclopedia.timeOption.time": "Час",
+  "encyclopedia.timeOption.dateTime": "Дата та час",
+  "encyclopedia.settings.groupByCategories": "Включити категорії в список груп",
+  "encyclopedia.menuOpen": "Відкрити меню енциклопедії",
+  "encyclopedia.menuClose": "Закрити меню енциклопедії",
+  "encyclopedia.menuAria": "Меню енциклопедії",
+  "enc.newField": "Нове поле",
+  "enc.entries.limit": "Ви наразі маєте {value, number} з {max, plural,\n    =0 {необмежених}\n    other {{max, number}}\n  } записів.",
+  "enc.entries.limitReached": "Ви досягли максимально допустимої кількості записів в енциклопедії для вашої поточної підписки.",
+  "encyclopedia.pronunciation.title": "Вимова",
+  "encyclopedia.wip.abbreviation": "ВРВ",
+  "encyclopedia.wip.full": "Робота у процесі",
+  "encyclopedia.settings.templateLegend": "Всесвіт шаблону",
+  "encyclopedia.settings.templateDescription": "Дозволити копіювання вмісту цієї енциклопедії в інші всесвіти. Це найкраще, якщо у вас немає жодних історій і ви просто створюєте шаблон для використання іншими.",
+  "encyclopedia.settings.templateCheckbox": "Це всесвіт-шаблон",
+  "encyclopedia.templateCopy.modalTitle": "Скопіювати вміст енциклопедії",
+  "encyclopedia.templateCopy.description": "Скопіюйте вміст цієї енциклопедії до вашого всесвіту, щоб збагатити його.",
+  "encyclopedia.templateCopy.targetUniverse": "Всесвіт для копіювання",
+  "encyclopedia.templateCopy.finished": "Копіювання завершено",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Створіть всесвіт з шаблону",
+  "encyclopedia.templateCreateUniverse.description": "Створіть новий всесвіт з попередньо завантаженим вмістом енциклопедії з цього шаблону. Ваш всесвіт залишатиметься приватним, доки ви не вирішите зробити його публічним.",
+  "encyclopedia.templateCreateUniverse.success": "Всесвіт створено успішно! Перенаправлення...",
+  "encyclopedia.pronunciation.audio.play": "Відтворити вимову",
+  "encyclopedia.pronunciation.guide": "Використовуйте <ipaLink>нотацію IPA</ipaLink>, коли це можливо. Вимова Web Speech API є найкращою; див. <webSpeechLink>документацію MDN</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "Стать",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Діти",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "Життєпис",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "Описання",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "Учасники",
+  "encyclopedia.templateField.locations": "Місця",
+  "encyclopedia.templateField.events": "Події",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "Історія",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Зміст",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "Уряди",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "Мови",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "Примітки",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "Групи",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "Предмети",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Тип",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "Боги",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Традиції",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "Функції",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Місцезнаходження",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Навчальна програма",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "Мова",
+}

@@ -1,244 +1,263 @@
 export default {
-    'encyclopedia.add': 'הוסף ערך חדש',
-    'encyclopedia.browse': 'עיין באנציקלופדיה',
-    'encyclopedia.search': 'חפש באנציקלופדיה',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'חזור לדף היקום',
-    'encyclopedia.back.workshop': 'חזור לסדנה',
-    'encyclopedia.categories': 'קטגוריות',
-    'encyclopedia.groups': 'קבוצות',
-    'encyclopedia.category.character': 'דמויות',
-    'encyclopedia.category.event': 'אירועים',
-    'encyclopedia.category.group': 'קבוצות',
-    'encyclopedia.category.item': 'פריטים',
-    'encyclopedia.category.location': 'מיקומים',
-    'encyclopedia.category.other': 'אחר',
-    'encyclopedia.category.state': 'מדינות',
-    'encyclopedia.category.governments': 'ממשלות',
-    'encyclopedia.category.languages': 'שפות',
-    'encyclopedia.category.creatures': 'יצורים',
-    'encyclopedia.category.deity': 'אלים',
-    'encyclopedia.category.religions': 'דתות',
-    'encyclopedia.category.flora': 'צמחים',
-    'encyclopedia.category.magic': 'קסמים',
-    'encyclopedia.category.planets': 'כוכבים',
-    'encyclopedia.category.species': 'מינים',
-    'encyclopedia.category.technologies': 'טכנולוגיות',
-    'encyclopedia.category.families': 'Families',
-    'encyclopedia.category.jobs': 'Jobs',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Vehicles',
-    'encyclopedia.category.diseases': 'Diseases',
-    'encyclopedia.category.traditions': 'Traditions',
-    'encyclopedia.category.sports': 'Sports',
-    'encyclopedia.category.food': 'Food',
-    'encyclopedia.category.landmarks': 'Landmarks',
-    'encyclopedia.category.buildings': 'Buildings',
-    'encyclopedia.category.schools': 'Schools',
-    'encyclopedia.category.continents': 'Continents',
-    'encyclopedia.category.villages': 'Villages',
-    'encyclopedia.category.towns': 'Towns',
-    'encyclopedia.category.cities': 'Cities',
-    'encyclopedia.category.settlements': 'התנחלויות',
-    'encyclopedia.category.countries': 'מדינות',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {לא נמצאו ערכים קשורים}
-    one {ערך קשור אחד}
-    other {# ערכים קשורים}
-  } נמצאו.`,
-    'encyclopedia.help.text': 'השתמש בתפריט בצד שמאל כדי לנווט בין הפריטים באנציקלופדיה. לאחר בחירת פריט, הוא יוצג במקום הטקסט הזה.',
-    'encyclopedia.help.sidebar': 'סרגל כלים צדדי',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see the latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add a connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will then be prompted to find and select an item.',
-    'encyclopedia.intro': 'ברוכים הבאים לאנציקלופדיה של {universe} .',
-    'encyclopedia.add.title': 'הוסף פריט חדש לאנציקלופדיה',
-    'encyclopedia.add.heading': 'מה ברצונך להוסיף?',
-    'encyclopedia.add.moresoon': 'קטגוריות נוספות בקרוב!',
-    'encyclopedia.create': `צור חדש {category, select,
-    character {דמות}
-    event {אירוע}
-    group {קבוצה}
-    item {פריט}
-    location {מיקום}
-    other {הערה}
-    state {מדינה}
-    governments {ממשלה}
-    languages {שפה}
-    creatures {יצור}
-    deity {אלוהות}
-    religions {דת}
-    flora {צמחייה}
-    magic {קסם}
-    planets {כוכב לכת}
-    species {מין}
-    technologies {טכנולוגיה}
-    families {משפחה}
-    jobs {מקצוע}
-    lore {ידע}
-    vehicles {כלי רכב}
-    diseases {מחלה}
-    traditions {מסורת}
-    food {מזון}
-    sports {ספורט}
-    landmarks {אתר}
-    buildings {מבנה}
-    schools {בית ספר}
-    continents {יבשת}
-    villages {כפרים}
-    towns {עיירות}
-    cities {ערים}
-    settlements {התיישבות}
-    countries {מדינה}
-  }`,
-    'encyclopedia.create.header': `יצירת חדש {category, select,
-    character {דמות}
-    event {אירוע}
-    group {קבוצה}
-    item {פריט}
-    location {מיקום}
-    other {הערה}
-    state {מצב}
-    governments {ממשלה}
-    languages {שפה}
-    creatures {יצור}
-    deity {אלוהות}
-    religions {דת}
-    flora {צמחייה}
-    magic {קסם}
-    planets {כוכב לכת}
-    species {מין}
-    technologies {טכנולוגיה}
-    families {משפחה}
-    jobs {מקצוע}
-    lore {ידע}
-    vehicles {כלי רכב}
-    diseases {מחלה}
-    traditions {מסורת}
-    food {מזון}
-    sports {ספורט}
-    landmarks {נקודת ציון}
-    buildings {בניין}
-    schools {בית ספר}
-    continents {יבשת}
-    villages {כפר}
-    towns {עיירה}
-    cities {עיר}
-    settlements {התיישבות}
-    countries {מדינה}
-  } ב {universe}`,
-    'encyclopedia.entry.category': `קטגוריית כניסה: {category, select,
-    character {דמות}
-    event {אירוע}
-    group {קבוצה}
-    item {פריט}
-    location {מיקום}
-    other {הערה}
-    state {מדינה}
-    governments {ממשלה}
-    languages {שפה}
-    creatures {יצור}
-    deity {אלוהות}
-    religions {דת}
-    flora {צמחייה}
-    magic {קסם}
-    planets {כוכב לכת}
-    species {זן}
-    technologies {טכנולוגיה}
-    families {משפחה}
-    jobs {מקצוע}
-    lore {ידע}
-    vehicles {כלי רכב}
-    diseases {מחלה}
-    traditions {מסורת}
-    food {מזון}
-    sports {ספורט}
-    landmarks {נקודת ציון}
-    buildings {מבנה}
-    schools {בית ספר}
-    continents {יבשת}
-    villages {כפר}
-    towns {עיירה}
-    cities {עיר}
-    settlements {יישוב}
-    countries {מדינה}
-  }`,
-    'encyclopedia.entry.category.legend': 'קטגוריה',
-    'encyclopedia.fields.add': 'הוסף שדה חדש',
-    'encyclopedia.fields.text': 'הגדרה',
-    'encyclopedia.fields.textarea': 'טקסט',
-    'encyclopedia.fields.connection': 'חיבור',
-    'encyclopedia.fields.time': 'זמן',
-    'encyclopedia.fields.image': 'תמונה',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'נראות',
-    'encyclopedia.public': 'ציבורי',
-    'encyclopedia.private': 'פרטי',
-    'encyclopedia.container': 'מיכל',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from the categories listing.',
-    'encyclopedia.entry.name': 'שם הפריט',
-    'encyclopedia.summary': 'סיכום',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed to the reader.',
-    'encyclopedia.parent': 'פריט אב',
-    'encyclopedia.related': 'פריטים קשורים',
-    'encyclopedia.errors.tags': 'ניתן להוסיף עד 10 תגיות לכל פריט.',
-    'encyclopedia.field.private': 'שדה פרטי',
-    'encyclopedia.ft.indev': 'אפשרות זו נמצאת בפיתוח.',
-    'encyclopedia.connections.remove': 'הסר חיבור',
-    'encyclopedia.connections.extra': 'מידע נוסף',
-    'encyclopedia.connections.existing': 'פריט קיים',
-    'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'תמונת כריכה',
-    'encyclopedia.translation.title': 'ברוכים הבאים לתרגום היקום {universe} !',
-    'encyclopedia.translation.desc': 'ממשק האנציקלופדיה הזה משמש לתרגום ל {language}. בחרו ערכים קיימים ברשימה בצד שמאל כדי להתחיל את התרגומם.',
-    'encyclopedia.welcome.totalEntries': `אין {totalEntries, plural, 
-    zero {רשומות}
-    one {יש רשומה אחת}
-    other {יש # רשומות}
-  } ביקום הזה.`,
-    'encyclopedia.settings.title': 'הגדרות האנציקלופדיה',
-    'encyclopedia.settings.categoriesDesc': 'הפעלה וכיבוי של קטגוריות שתרצו להשתמש בהן באנציקלופדיה שלכם.',
-    'encyclopedia.settings.introText': 'הודעת ברוך הבא שתוצג לאחר תיאור היקום.',
-    'encyclopedia.fields.placeholder': 'שם השדה',
-    'encyclopedia.fields.delete': 'מחיקת שדה',
-    'encyclopedia.timeOption.fictionalDate': 'תאריך מדומה',
-    'encyclopedia.timeOption.fictionalTime': 'זמן מדומה',
-    'encyclopedia.timeOption.fictionalDateTime': 'תאריך וזמן מדומים',
-    'encyclopedia.timeOption.date': 'תאריך',
-    'encyclopedia.timeOption.time': 'זמן',
-    'encyclopedia.timeOption.dateTime': 'תאריך וזמן',
-    'encyclopedia.settings.groupByCategories': 'כלול קטגוריות ברשימת קבוצה',
-    'encyclopedia.menuOpen': 'פתח תפריט אנציקלופדיה',
-    'encyclopedia.menuClose': 'סגור תפריט אנציקלופדיה',
-    'encyclopedia.menuAria': 'תפריט אנציקלופדיה',
-    'enc.newField': 'שדה חדש',
-    'enc.entries.limit': `כרגע יש לך {value, number} מתוך {max, plural,
-    =0 {ללא הגבלה}
-    other {{max, number}}
-  } רשומות.`,
-    'enc.entries.limitReached': '!הגעת למספר המרבי של ערכי האנציקלופדיה המותרים עבור המינוי הנוכחי שלך',
-    'encyclopedia.pronunciation.title': 'הגייה',
-    'encyclopedia.wip.abbreviation': 'עבודה בתהליך',
-    'encyclopedia.wip.full': 'עבודה בתהליך',
-    'encyclopedia.settings.templateLegend': 'יקום תבנית',
-    'encyclopedia.settings.templateDescription': 'אפשר להעתיק את תוכן האנציקלופדיה הזו ליקומים אחרים. זה הכי טוב אם אין לך סיפורים ובמקום זאת אתה רק יוצר תבנית לשימוש של אחרים.',
-    'encyclopedia.settings.templateCheckbox': 'זהו יקום תבנית',
-    'encyclopedia.templateCopy.modalTitle': 'העתקת תוכן האנציקלופדיה',
-    'encyclopedia.templateCopy.description': 'העתקת תוכן של אנציקלופדיה זו ליקומך כדי להעשיר אותו.',
-    'encyclopedia.templateCopy.targetUniverse': 'יקום להעתיק אליו',
-    'encyclopedia.templateCopy.finished': 'העתקה הושלמה',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'צור יקום מתבנית',
-    'encyclopedia.templateCreateUniverse.description': 'צור יקום חדש עם תוכן אנציקלופדי מוכן מראש מתוך תבנית זו. היקום שלך יישאר פרטי עד שתחליט לפרסם אותו.',
-    'encyclopedia.templateCreateUniverse.success': 'היקום נוצר בהצלחה! מפנה...',
-    'encyclopedia.pronunciation.audio.play': 'הפעל הגייה',
-    'encyclopedia.pronunciation.guide': 'השתמש <ipaLink>בסימון IPA</ipaLink> במידת האפשר. ההגייה של Web Speech API היא במיטבה; ראה <webSpeechLink>מסמכי MDN</webSpeechLink>.'
-};
+  "encyclopedia.add": "הוסף ערך חדש",
+  "encyclopedia.browse": "עיין באנציקלופדיה",
+  "encyclopedia.search": "חפש באנציקלופדיה",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "חזור לדף היקום",
+  "encyclopedia.back.workshop": "חזור לסדנה",
+  "encyclopedia.categories": "קטגוריות",
+  "encyclopedia.groups": "קבוצות",
+  "encyclopedia.category.character": "דמויות",
+  "encyclopedia.category.event": "אירועים",
+  "encyclopedia.category.group": "קבוצות",
+  "encyclopedia.category.item": "פריטים",
+  "encyclopedia.category.location": "מיקומים",
+  "encyclopedia.category.other": "אחר",
+  "encyclopedia.category.state": "מדינות",
+  "encyclopedia.category.governments": "ממשלות",
+  "encyclopedia.category.languages": "שפות",
+  "encyclopedia.category.creatures": "יצורים",
+  "encyclopedia.category.deity": "אלים",
+  "encyclopedia.category.religions": "דתות",
+  "encyclopedia.category.flora": "צמחים",
+  "encyclopedia.category.magic": "קסמים",
+  "encyclopedia.category.planets": "כוכבים",
+  "encyclopedia.category.species": "מינים",
+  "encyclopedia.category.technologies": "טכנולוגיות",
+  "encyclopedia.category.families": "Families",
+  "encyclopedia.category.jobs": "Jobs",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Vehicles",
+  "encyclopedia.category.diseases": "Diseases",
+  "encyclopedia.category.traditions": "Traditions",
+  "encyclopedia.category.sports": "Sports",
+  "encyclopedia.category.food": "Food",
+  "encyclopedia.category.landmarks": "Landmarks",
+  "encyclopedia.category.buildings": "Buildings",
+  "encyclopedia.category.schools": "Schools",
+  "encyclopedia.category.continents": "Continents",
+  "encyclopedia.category.villages": "Villages",
+  "encyclopedia.category.towns": "Towns",
+  "encyclopedia.category.cities": "Cities",
+  "encyclopedia.category.settlements": "התנחלויות",
+  "encyclopedia.category.countries": "מדינות",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {לא נמצאו ערכים קשורים}\n    one {ערך קשור אחד}\n    other {# ערכים קשורים}\n  } נמצאו.",
+  "encyclopedia.help.text": "השתמש בתפריט בצד שמאל כדי לנווט בין הפריטים באנציקלופדיה. לאחר בחירת פריט, הוא יוצג במקום הטקסט הזה.",
+  "encyclopedia.help.sidebar": "סרגל כלים צדדי",
+  "encyclopedia.help.sidebar.text": "Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see the latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add a connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will then be prompted to find and select an item.",
+  "encyclopedia.intro": "ברוכים הבאים לאנציקלופדיה של {universe} .",
+  "encyclopedia.add.title": "הוסף פריט חדש לאנציקלופדיה",
+  "encyclopedia.add.heading": "מה ברצונך להוסיף?",
+  "encyclopedia.add.moresoon": "קטגוריות נוספות בקרוב!",
+  "encyclopedia.create": "צור חדש {category, select,\n    character {דמות}\n    event {אירוע}\n    group {קבוצה}\n    item {פריט}\n    location {מיקום}\n    other {הערה}\n    state {מדינה}\n    governments {ממשלה}\n    languages {שפה}\n    creatures {יצור}\n    deity {אלוהות}\n    religions {דת}\n    flora {צמחייה}\n    magic {קסם}\n    planets {כוכב לכת}\n    species {מין}\n    technologies {טכנולוגיה}\n    families {משפחה}\n    jobs {מקצוע}\n    lore {ידע}\n    vehicles {כלי רכב}\n    diseases {מחלה}\n    traditions {מסורת}\n    food {מזון}\n    sports {ספורט}\n    landmarks {אתר}\n    buildings {מבנה}\n    schools {בית ספר}\n    continents {יבשת}\n    villages {כפרים}\n    towns {עיירות}\n    cities {ערים}\n    settlements {התיישבות}\n    countries {מדינה}\n  }",
+  "encyclopedia.create.header": "יצירת חדש {category, select,\n    character {דמות}\n    event {אירוע}\n    group {קבוצה}\n    item {פריט}\n    location {מיקום}\n    other {הערה}\n    state {מצב}\n    governments {ממשלה}\n    languages {שפה}\n    creatures {יצור}\n    deity {אלוהות}\n    religions {דת}\n    flora {צמחייה}\n    magic {קסם}\n    planets {כוכב לכת}\n    species {מין}\n    technologies {טכנולוגיה}\n    families {משפחה}\n    jobs {מקצוע}\n    lore {ידע}\n    vehicles {כלי רכב}\n    diseases {מחלה}\n    traditions {מסורת}\n    food {מזון}\n    sports {ספורט}\n    landmarks {נקודת ציון}\n    buildings {בניין}\n    schools {בית ספר}\n    continents {יבשת}\n    villages {כפר}\n    towns {עיירה}\n    cities {עיר}\n    settlements {התיישבות}\n    countries {מדינה}\n  } ב {universe}",
+  "encyclopedia.entry.category": "קטגוריית כניסה: {category, select,\n    character {דמות}\n    event {אירוע}\n    group {קבוצה}\n    item {פריט}\n    location {מיקום}\n    other {הערה}\n    state {מדינה}\n    governments {ממשלה}\n    languages {שפה}\n    creatures {יצור}\n    deity {אלוהות}\n    religions {דת}\n    flora {צמחייה}\n    magic {קסם}\n    planets {כוכב לכת}\n    species {זן}\n    technologies {טכנולוגיה}\n    families {משפחה}\n    jobs {מקצוע}\n    lore {ידע}\n    vehicles {כלי רכב}\n    diseases {מחלה}\n    traditions {מסורת}\n    food {מזון}\n    sports {ספורט}\n    landmarks {נקודת ציון}\n    buildings {מבנה}\n    schools {בית ספר}\n    continents {יבשת}\n    villages {כפר}\n    towns {עיירה}\n    cities {עיר}\n    settlements {יישוב}\n    countries {מדינה}\n  }",
+  "encyclopedia.entry.category.legend": "קטגוריה",
+  "encyclopedia.fields.add": "הוסף שדה חדש",
+  "encyclopedia.fields.text": "הגדרה",
+  "encyclopedia.fields.textarea": "טקסט",
+  "encyclopedia.fields.connection": "חיבור",
+  "encyclopedia.fields.time": "זמן",
+  "encyclopedia.fields.image": "תמונה",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "נראות",
+  "encyclopedia.public": "ציבורי",
+  "encyclopedia.private": "פרטי",
+  "encyclopedia.container": "מיכל",
+  "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
+  "encyclopedia.entry.name": "שם הפריט",
+  "encyclopedia.summary": "סיכום",
+  "encyclopedia.summary.desc": "This is a summary that will be the only initial information displayed to the reader.",
+  "encyclopedia.parent": "פריט אב",
+  "encyclopedia.related": "פריטים קשורים",
+  "encyclopedia.errors.tags": "ניתן להוסיף עד 10 תגיות לכל פריט.",
+  "encyclopedia.field.private": "שדה פרטי",
+  "encyclopedia.ft.indev": "אפשרות זו נמצאת בפיתוח.",
+  "encyclopedia.connections.remove": "הסר חיבור",
+  "encyclopedia.connections.extra": "מידע נוסף",
+  "encyclopedia.connections.existing": "פריט קיים",
+  "encyclopedia.connections.existing.abbr": "EE",
+  "encyclopedia.cover": "תמונת כריכה",
+  "encyclopedia.translation.title": "ברוכים הבאים לתרגום היקום {universe} !",
+  "encyclopedia.translation.desc": "ממשק האנציקלופדיה הזה משמש לתרגום ל {language}. בחרו ערכים קיימים ברשימה בצד שמאל כדי להתחיל את התרגומם.",
+  "encyclopedia.welcome.totalEntries": "אין {totalEntries, plural, \n    zero {רשומות}\n    one {יש רשומה אחת}\n    other {יש # רשומות}\n  } ביקום הזה.",
+  "encyclopedia.settings.title": "הגדרות האנציקלופדיה",
+  "encyclopedia.settings.categoriesDesc": "הפעלה וכיבוי של קטגוריות שתרצו להשתמש בהן באנציקלופדיה שלכם.",
+  "encyclopedia.settings.introText": "הודעת ברוך הבא שתוצג לאחר תיאור היקום.",
+  "encyclopedia.fields.placeholder": "שם השדה",
+  "encyclopedia.fields.delete": "מחיקת שדה",
+  "encyclopedia.timeOption.fictionalDate": "תאריך מדומה",
+  "encyclopedia.timeOption.fictionalTime": "זמן מדומה",
+  "encyclopedia.timeOption.fictionalDateTime": "תאריך וזמן מדומים",
+  "encyclopedia.timeOption.date": "תאריך",
+  "encyclopedia.timeOption.time": "זמן",
+  "encyclopedia.timeOption.dateTime": "תאריך וזמן",
+  "encyclopedia.settings.groupByCategories": "כלול קטגוריות ברשימת קבוצה",
+  "encyclopedia.menuOpen": "פתח תפריט אנציקלופדיה",
+  "encyclopedia.menuClose": "סגור תפריט אנציקלופדיה",
+  "encyclopedia.menuAria": "תפריט אנציקלופדיה",
+  "enc.newField": "שדה חדש",
+  "enc.entries.limit": "כרגע יש לך {value, number} מתוך {max, plural,\n    =0 {ללא הגבלה}\n    other {{max, number}}\n  } רשומות.",
+  "enc.entries.limitReached": "!הגעת למספר המרבי של ערכי האנציקלופדיה המותרים עבור המינוי הנוכחי שלך",
+  "encyclopedia.pronunciation.title": "הגייה",
+  "encyclopedia.wip.abbreviation": "עבודה בתהליך",
+  "encyclopedia.wip.full": "עבודה בתהליך",
+  "encyclopedia.settings.templateLegend": "יקום תבנית",
+  "encyclopedia.settings.templateDescription": "אפשר להעתיק את תוכן האנציקלופדיה הזו ליקומים אחרים. זה הכי טוב אם אין לך סיפורים ובמקום זאת אתה רק יוצר תבנית לשימוש של אחרים.",
+  "encyclopedia.settings.templateCheckbox": "זהו יקום תבנית",
+  "encyclopedia.templateCopy.modalTitle": "העתקת תוכן האנציקלופדיה",
+  "encyclopedia.templateCopy.description": "העתקת תוכן של אנציקלופדיה זו ליקומך כדי להעשיר אותו.",
+  "encyclopedia.templateCopy.targetUniverse": "יקום להעתיק אליו",
+  "encyclopedia.templateCopy.finished": "העתקה הושלמה",
+  "encyclopedia.templateCreateUniverse.modalTitle": "צור יקום מתבנית",
+  "encyclopedia.templateCreateUniverse.description": "צור יקום חדש עם תוכן אנציקלופדי מוכן מראש מתוך תבנית זו. היקום שלך יישאר פרטי עד שתחליט לפרסם אותו.",
+  "encyclopedia.templateCreateUniverse.success": "היקום נוצר בהצלחה! מפנה...",
+  "encyclopedia.pronunciation.audio.play": "הפעל הגייה",
+  "encyclopedia.pronunciation.guide": "השתמש <ipaLink>בסימון IPA</ipaLink> במידת האפשר. ההגייה של Web Speech API היא במיטבה; ראה <webSpeechLink>מסמכי MDN</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "מגדר",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "ילדים",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "ביוגרפיה",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "תיאור",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "חברים",
+  "encyclopedia.templateField.locations": "מיקומים",
+  "encyclopedia.templateField.events": "אירועים",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "היסטוריה",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Content",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "ממשלות",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "שפות",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "הערות",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "קבוצות",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "פריטים",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "סוג",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "אלים",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Traditions",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "תכונות",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Location",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Curriculum",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "שפה",
+}

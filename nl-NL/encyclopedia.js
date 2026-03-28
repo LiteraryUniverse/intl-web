@@ -1,243 +1,263 @@
 export default {
-    'encyclopedia.add': 'Voeg een nieuwe invoer toe',
-    'encyclopedia.browse': 'Blader door de encyclopedie',
-    'encyclopedia.search': 'Zoek in de encyclopedie',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'Terug naar de universumpagina',
-    'encyclopedia.back.workshop': 'Terug naar de werkplaats',
-    'encyclopedia.categories': 'Categorieën',
-    'encyclopedia.groups': 'Groepen',
-    'encyclopedia.category.character': 'Personages',
-    'encyclopedia.category.event': 'Gebeurtenissen',
-    'encyclopedia.category.group': 'Groepen',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locaties',
-    'encyclopedia.category.other': 'Overig',
-    'encyclopedia.category.state': 'Staten',
-    'encyclopedia.category.governments': 'Regeringen',
-    'encyclopedia.category.languages': 'Talen',
-    'encyclopedia.category.creatures': 'Wezens',
-    'encyclopedia.category.deity': 'Goden',
-    'encyclopedia.category.religions': 'Religies',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magie',
-    'encyclopedia.category.planets': 'Planeten',
-    'encyclopedia.category.species': 'Soorten',
-    'encyclopedia.category.technologies': 'Technologieën',
-    'encyclopedia.category.families': 'Gezinnen',
-    'encyclopedia.category.jobs': 'Jobs',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Voertuigen',
-    'encyclopedia.category.diseases': 'Ziekten',
-    'encyclopedia.category.traditions': 'Tradities',
-    'encyclopedia.category.sports': 'Sport',
-    'encyclopedia.category.food': 'Voedsel',
-    'encyclopedia.category.landmarks': 'Bezienswaardigheden',
-    'encyclopedia.category.buildings': 'Gebouwen',
-    'encyclopedia.category.schools': 'Scholen',
-    'encyclopedia.category.continents': 'Continenten',
-    'encyclopedia.category.villages': 'Dorpen',
-    'encyclopedia.category.towns': 'Steden',
-    'encyclopedia.category.cities': 'Steden',
-    'encyclopedia.category.settlements': 'Schikkingen',
-    'encyclopedia.category.countries': 'Landen',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {Geen gerelateerde invoeringen}
-    one {1 gerelateerde invoering}
-    other {# gerelateerde invoeringen}
-  } gevonden.`,
-    'encyclopedia.help.text': 'Gebruik het menu aan de linkerkant om te navigeren tussen de items in de encyclopedie. Zodra je een item selecteert, wordt het in plaats van deze tekst weergegeven.',
-    'encyclopedia.help.sidebar': 'Zijbalk Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welkom bij uw verhaal! Deze zijbalk geeft u gemakkelijk toegang tot alle bronnen die met uw verhaal te maken hebben. Bekijk de pictogrammen hierboven om de laatste opmerkingen te zien, uw aantekeningen, zoek in uw encyclopedie, blader en voeg nieuwe items toe aan uw encyclopedie. Als u een verbinding wilt toevoegen aan een item uit de verhaaltekst, selecteert u de tekst waar u deze wilt plaatsen en klikt u vervolgens op de knop Verbinden. U wordt dan gevraagd om een item te zoeken en te selecteren.',
-    'encyclopedia.intro': 'Welkom bij de {universe} encyclopedie.',
-    'encyclopedia.add.title': 'Voeg een nieuw item toe aan de encyclopedie',
-    'encyclopedia.add.heading': 'Wat wil je toevoegen?',
-    'encyclopedia.add.moresoon': 'Meer categorieën binnenkort beschikbaar!',
-    'encyclopedia.create': `Nieuw maken {category, select,
-    character {personage}
-    event {gebeurtenis}
-    group {groep}
-    item {voorwerp}
-    location {locatie}
-    other {opmerking}
-    state {staat}
-    governments {overheid}
-    languages {taal}
-    creatures {schepsel}
-    deity {godheid}
-    religions {religie}
-    flora {flora}
-    magic {magie}
-    planets {planeet}
-    species {soort}
-    technologies {technologie}
-    families {familie}
-    jobs {baan}
-    lore {overlevering}
-    vehicles {voertuig}
-    diseases {ziekte}
-    traditions {traditie}
-    food {voedsel}
-    sports {sport}
-    landmarks {bezienswaardigheid}
-    buildings {gebouw}
-    schools {school}
-    continents {continent}
-    villages {dorpen}
-    towns {steden}
-    cities {steden}
-    settlements {nederzetting}
-    countries {land}
-  }`,
-    'encyclopedia.create.header': `Een nieuw {category, select,
-    character {personage}
-    event {gebeurtenis}
-    group {groep}
-    item {voorwerp}
-    location {locatie}
-    other {opmerking}
-    state {staat}
-    governments {overheid}
-    languages {taal}
-    creatures {schepsel}
-    deity {godheid}
-    religions {religie}
-    flora {flora}
-    magic {magie}
-    planets {planeet}
-    species {soort}
-    technologies {technologie}
-    families {familie}
-    jobs {baan}
-    lore {overlevering}
-    vehicles {voertuig}
-    diseases {ziekte}
-    traditions {traditie}
-    food {voedsel}
-    sports {sport}
-    landmarks {bezienswaardigheid}
-    buildings {gebouw}
-    schools {school}
-    continents {continent}
-    villages {dorp}
-    towns {stad}
-    cities {stad}
-    settlements {nederzetting}
-    countries {land}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Categorie inzending: {category, select,
-    character {Karakter}
-    event {Gebeurtenis}
-    group {Groep}
-    item {Voorwerp}
-    location {Locatie}
-    other {Opmerking}
-    state {Staat}
-    governments {Regering}
-    languages {Taal}
-    creatures {Wezen}
-    deity {Godheid}
-    religions {Religie}
-    flora {Flora}
-    magic {Magie}
-    planets {Planeet}
-    species {Soort}
-    technologies {Technologie}
-    families {Familie}
-    jobs {Baan}
-    lore {Overlevering}
-    vehicles {Voertuig}
-    diseases {Ziekte}
-    traditions {Traditie}
-    food {Voedsel}
-    sports {Sport}
-    landmarks {Bezienswaardigheid}
-    buildings {Gebouw}
-    schools {School}
-    continents {Continent}
-    villages {Dorp}
-    towns {Stad}
-    cities {Stad}
-    settlements {Nederzetting}
-    countries {Land}
-  }`,
-    'encyclopedia.entry.category.legend': 'Categorie',
-    'encyclopedia.fields.add': 'Voeg een nieuw veld toe',
-    'encyclopedia.fields.text': 'Definitie',
-    'encyclopedia.fields.textarea': 'Tekst',
-    'encyclopedia.fields.connection': 'Verbinding',
-    'encyclopedia.fields.time': 'Tijd',
-    'encyclopedia.fields.image': 'Afbeelding',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'Zichtbaarheid',
-    'encyclopedia.public': 'Openbaar',
-    'encyclopedia.private': 'Privé',
-    'encyclopedia.container': 'Container',
-    'encyclopedia.container.desc': 'Maak van deze vermelding een container voor een nieuwe groep vermeldingen. Hierdoor wordt het verborgen in de lijst met categorieën.',
-    'encyclopedia.entry.name': 'Naam van het item',
-    'encyclopedia.summary': 'Samenvatting',
-    'encyclopedia.summary.desc': 'Dit is een samenvatting die de enige eerste informatie is die de lezer te zien krijgt.',
-    'encyclopedia.parent': 'Bovenliggend item',
-    'encyclopedia.related': 'Gerelateerde items',
-    'encyclopedia.errors.tags': 'Je kunt slechts 10 tags per item hebben.',
-    'encyclopedia.field.private': 'Privéveld',
-    'encyclopedia.ft.indev': 'Deze optie is in ontwikkeling.',
-    'encyclopedia.connections.remove': 'Verbinding verwijderen',
-    'encyclopedia.connections.extra': 'Extra informatie',
-    'encyclopedia.connections.existing': 'Bestaand item',
-    'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Titelafbeelding',
-    'encyclopedia.translation.title': 'Welkom bij de vertaling van het {universe} universum!',
-    'encyclopedia.translation.desc': 'Deze encyclopedie-interface wordt gebruikt voor vertaling naar het {language}. Kies bestaande vermeldingen in de lijst aan de linkerkant om hun vertaling te beginnen.',
-    'encyclopedia.welcome.totalEntries': `Er {totalEntries, plural, 
-    one {is één vermelding}
-    other {zijn # vermeldingen}
-  } in dit universum.`,
-    'encyclopedia.settings.title': 'Encyclopedie-instellingen',
-    'encyclopedia.settings.categoriesDesc': 'Schakel categorieën in en uit die je wilt gebruiken in je encyclopedie.',
-    'encyclopedia.settings.introText': 'Welkomstbericht dat wordt weergegeven na de beschrijving van het universum.',
-    'encyclopedia.fields.placeholder': 'Veldnaam',
-    'encyclopedia.fields.delete': 'Veld verwijderen',
-    'encyclopedia.timeOption.fictionalDate': 'Fictieve datum',
-    'encyclopedia.timeOption.fictionalTime': 'Fictieve tijd',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictieve datum en tijd',
-    'encyclopedia.timeOption.date': 'Datum',
-    'encyclopedia.timeOption.time': 'Tijd',
-    'encyclopedia.timeOption.dateTime': 'Datum en tijd',
-    'encyclopedia.settings.groupByCategories': 'Categorieën opnemen in groepslijst',
-    'encyclopedia.menuOpen': 'Open Encyclopedie-menu',
-    'encyclopedia.menuClose': 'Sluit Encyclopedie-menu',
-    'encyclopedia.menuAria': 'Encyclopediemenu',
-    'enc.newField': 'Nieuw veld',
-    'enc.entries.limit': `Je hebt momenteel {value, number} van de {max, plural,
-    =0 {onbeperkte}
-    other {{max, number}}
-  } vermeldingen.`,
-    'enc.entries.limitReached': 'Je hebt het maximale aantal toegestane encyclopedievermeldingen bereikt voor je huidige abonnement.',
-    'encyclopedia.pronunciation.title': 'Uitspraak',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Werk in uitvoering',
-    'encyclopedia.settings.templateLegend': 'Sjabloon universum',
-    'encyclopedia.settings.templateDescription': 'Sta toe dat de inhoud van deze encyclopedie wordt gekopieerd naar andere universums. Dit is het beste als je geen verhalen hebt en in plaats daarvan gewoon een sjabloon maakt voor anderen om te gebruiken.',
-    'encyclopedia.settings.templateCheckbox': 'Dit is een sjabloon universum',
-    'encyclopedia.templateCopy.modalTitle': 'Kopieer encyclopedie inhoud',
-    'encyclopedia.templateCopy.description': 'Kopieer de inhoud van deze encyclopedie naar jouw universum om het te verrijken.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universum om naar te kopiëren',
-    'encyclopedia.templateCopy.finished': 'Kopiëren voltooid',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Universum maken van sjabloon',
-    'encyclopedia.templateCreateUniverse.description': 'Creëer een nieuw universum met voorgezaaide encyclopedie-inhoud van deze sjabloon. Uw universum blijft privé totdat u besluit het openbaar te maken.',
-    'encyclopedia.templateCreateUniverse.success': 'Universum succesvol aangemaakt! Omleiden...',
-    'encyclopedia.pronunciation.audio.play': 'Uitspraak spelen',
-    'encyclopedia.pronunciation.guide': 'Gebruik waar mogelijk <ipaLink>IPA-notatie</ipaLink>. Web Speech API uitspraak is best-effort; zie <webSpeechLink>MDN docs</webSpeechLink>.'
-};
+  "encyclopedia.add": "Voeg een nieuwe invoer toe",
+  "encyclopedia.browse": "Blader door de encyclopedie",
+  "encyclopedia.search": "Zoek in de encyclopedie",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "Terug naar de universumpagina",
+  "encyclopedia.back.workshop": "Terug naar de werkplaats",
+  "encyclopedia.categories": "Categorieën",
+  "encyclopedia.groups": "Groepen",
+  "encyclopedia.category.character": "Personages",
+  "encyclopedia.category.event": "Gebeurtenissen",
+  "encyclopedia.category.group": "Groepen",
+  "encyclopedia.category.item": "Items",
+  "encyclopedia.category.location": "Locaties",
+  "encyclopedia.category.other": "Overig",
+  "encyclopedia.category.state": "Staten",
+  "encyclopedia.category.governments": "Regeringen",
+  "encyclopedia.category.languages": "Talen",
+  "encyclopedia.category.creatures": "Wezens",
+  "encyclopedia.category.deity": "Goden",
+  "encyclopedia.category.religions": "Religies",
+  "encyclopedia.category.flora": "Flora",
+  "encyclopedia.category.magic": "Magie",
+  "encyclopedia.category.planets": "Planeten",
+  "encyclopedia.category.species": "Soorten",
+  "encyclopedia.category.technologies": "Technologieën",
+  "encyclopedia.category.families": "Gezinnen",
+  "encyclopedia.category.jobs": "Jobs",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Voertuigen",
+  "encyclopedia.category.diseases": "Ziekten",
+  "encyclopedia.category.traditions": "Tradities",
+  "encyclopedia.category.sports": "Sport",
+  "encyclopedia.category.food": "Voedsel",
+  "encyclopedia.category.landmarks": "Bezienswaardigheden",
+  "encyclopedia.category.buildings": "Gebouwen",
+  "encyclopedia.category.schools": "Scholen",
+  "encyclopedia.category.continents": "Continenten",
+  "encyclopedia.category.villages": "Dorpen",
+  "encyclopedia.category.towns": "Steden",
+  "encyclopedia.category.cities": "Steden",
+  "encyclopedia.category.settlements": "Schikkingen",
+  "encyclopedia.category.countries": "Landen",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {Geen gerelateerde invoeringen}\n    one {1 gerelateerde invoering}\n    other {# gerelateerde invoeringen}\n  } gevonden.",
+  "encyclopedia.help.text": "Gebruik het menu aan de linkerkant om te navigeren tussen de items in de encyclopedie. Zodra je een item selecteert, wordt het in plaats van deze tekst weergegeven.",
+  "encyclopedia.help.sidebar": "Zijbalk Toolbox",
+  "encyclopedia.help.sidebar.text": "Welkom bij uw verhaal! Deze zijbalk geeft u gemakkelijk toegang tot alle bronnen die met uw verhaal te maken hebben. Bekijk de pictogrammen hierboven om de laatste opmerkingen te zien, uw aantekeningen, zoek in uw encyclopedie, blader en voeg nieuwe items toe aan uw encyclopedie. Als u een verbinding wilt toevoegen aan een item uit de verhaaltekst, selecteert u de tekst waar u deze wilt plaatsen en klikt u vervolgens op de knop Verbinden. U wordt dan gevraagd om een item te zoeken en te selecteren.",
+  "encyclopedia.intro": "Welkom bij de {universe} encyclopedie.",
+  "encyclopedia.add.title": "Voeg een nieuw item toe aan de encyclopedie",
+  "encyclopedia.add.heading": "Wat wil je toevoegen?",
+  "encyclopedia.add.moresoon": "Meer categorieën binnenkort beschikbaar!",
+  "encyclopedia.create": "Nieuw maken {category, select,\n    character {personage}\n    event {gebeurtenis}\n    group {groep}\n    item {voorwerp}\n    location {locatie}\n    other {opmerking}\n    state {staat}\n    governments {overheid}\n    languages {taal}\n    creatures {schepsel}\n    deity {godheid}\n    religions {religie}\n    flora {flora}\n    magic {magie}\n    planets {planeet}\n    species {soort}\n    technologies {technologie}\n    families {familie}\n    jobs {baan}\n    lore {overlevering}\n    vehicles {voertuig}\n    diseases {ziekte}\n    traditions {traditie}\n    food {voedsel}\n    sports {sport}\n    landmarks {bezienswaardigheid}\n    buildings {gebouw}\n    schools {school}\n    continents {continent}\n    villages {dorpen}\n    towns {steden}\n    cities {steden}\n    settlements {nederzetting}\n    countries {land}\n  }",
+  "encyclopedia.create.header": "Een nieuw {category, select,\n    character {personage}\n    event {gebeurtenis}\n    group {groep}\n    item {voorwerp}\n    location {locatie}\n    other {opmerking}\n    state {staat}\n    governments {overheid}\n    languages {taal}\n    creatures {schepsel}\n    deity {godheid}\n    religions {religie}\n    flora {flora}\n    magic {magie}\n    planets {planeet}\n    species {soort}\n    technologies {technologie}\n    families {familie}\n    jobs {baan}\n    lore {overlevering}\n    vehicles {voertuig}\n    diseases {ziekte}\n    traditions {traditie}\n    food {voedsel}\n    sports {sport}\n    landmarks {bezienswaardigheid}\n    buildings {gebouw}\n    schools {school}\n    continents {continent}\n    villages {dorp}\n    towns {stad}\n    cities {stad}\n    settlements {nederzetting}\n    countries {land}\n  } in {universe}",
+  "encyclopedia.entry.category": "Categorie inzending: {category, select,\n    character {Karakter}\n    event {Gebeurtenis}\n    group {Groep}\n    item {Voorwerp}\n    location {Locatie}\n    other {Opmerking}\n    state {Staat}\n    governments {Regering}\n    languages {Taal}\n    creatures {Wezen}\n    deity {Godheid}\n    religions {Religie}\n    flora {Flora}\n    magic {Magie}\n    planets {Planeet}\n    species {Soort}\n    technologies {Technologie}\n    families {Familie}\n    jobs {Baan}\n    lore {Overlevering}\n    vehicles {Voertuig}\n    diseases {Ziekte}\n    traditions {Traditie}\n    food {Voedsel}\n    sports {Sport}\n    landmarks {Bezienswaardigheid}\n    buildings {Gebouw}\n    schools {School}\n    continents {Continent}\n    villages {Dorp}\n    towns {Stad}\n    cities {Stad}\n    settlements {Nederzetting}\n    countries {Land}\n  }",
+  "encyclopedia.entry.category.legend": "Categorie",
+  "encyclopedia.fields.add": "Voeg een nieuw veld toe",
+  "encyclopedia.fields.text": "Definitie",
+  "encyclopedia.fields.textarea": "Tekst",
+  "encyclopedia.fields.connection": "Verbinding",
+  "encyclopedia.fields.time": "Tijd",
+  "encyclopedia.fields.image": "Afbeelding",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "Zichtbaarheid",
+  "encyclopedia.public": "Openbaar",
+  "encyclopedia.private": "Privé",
+  "encyclopedia.container": "Container",
+  "encyclopedia.container.desc": "Maak van deze vermelding een container voor een nieuwe groep vermeldingen. Hierdoor wordt het verborgen in de lijst met categorieën.",
+  "encyclopedia.entry.name": "Naam van het item",
+  "encyclopedia.summary": "Samenvatting",
+  "encyclopedia.summary.desc": "Dit is een samenvatting die de enige eerste informatie is die de lezer te zien krijgt.",
+  "encyclopedia.parent": "Bovenliggend item",
+  "encyclopedia.related": "Gerelateerde items",
+  "encyclopedia.errors.tags": "Je kunt slechts 10 tags per item hebben.",
+  "encyclopedia.field.private": "Privéveld",
+  "encyclopedia.ft.indev": "Deze optie is in ontwikkeling.",
+  "encyclopedia.connections.remove": "Verbinding verwijderen",
+  "encyclopedia.connections.extra": "Extra informatie",
+  "encyclopedia.connections.existing": "Bestaand item",
+  "encyclopedia.connections.existing.abbr": "EE",
+  "encyclopedia.cover": "Titelafbeelding",
+  "encyclopedia.translation.title": "Welkom bij de vertaling van het {universe} universum!",
+  "encyclopedia.translation.desc": "Deze encyclopedie-interface wordt gebruikt voor vertaling naar het {language}. Kies bestaande vermeldingen in de lijst aan de linkerkant om hun vertaling te beginnen.",
+  "encyclopedia.welcome.totalEntries": "Er {totalEntries, plural, \n    one {is één vermelding}\n    other {zijn # vermeldingen}\n  } in dit universum.",
+  "encyclopedia.settings.title": "Encyclopedie-instellingen",
+  "encyclopedia.settings.categoriesDesc": "Schakel categorieën in en uit die je wilt gebruiken in je encyclopedie.",
+  "encyclopedia.settings.introText": "Welkomstbericht dat wordt weergegeven na de beschrijving van het universum.",
+  "encyclopedia.fields.placeholder": "Veldnaam",
+  "encyclopedia.fields.delete": "Veld verwijderen",
+  "encyclopedia.timeOption.fictionalDate": "Fictieve datum",
+  "encyclopedia.timeOption.fictionalTime": "Fictieve tijd",
+  "encyclopedia.timeOption.fictionalDateTime": "Fictieve datum en tijd",
+  "encyclopedia.timeOption.date": "Datum",
+  "encyclopedia.timeOption.time": "Tijd",
+  "encyclopedia.timeOption.dateTime": "Datum en tijd",
+  "encyclopedia.settings.groupByCategories": "Categorieën opnemen in groepslijst",
+  "encyclopedia.menuOpen": "Open Encyclopedie-menu",
+  "encyclopedia.menuClose": "Sluit Encyclopedie-menu",
+  "encyclopedia.menuAria": "Encyclopediemenu",
+  "enc.newField": "Nieuw veld",
+  "enc.entries.limit": "Je hebt momenteel {value, number} van de {max, plural,\n    =0 {onbeperkte}\n    other {{max, number}}\n  } vermeldingen.",
+  "enc.entries.limitReached": "Je hebt het maximale aantal toegestane encyclopedievermeldingen bereikt voor je huidige abonnement.",
+  "encyclopedia.pronunciation.title": "Uitspraak",
+  "encyclopedia.wip.abbreviation": "WIP",
+  "encyclopedia.wip.full": "Werk in uitvoering",
+  "encyclopedia.settings.templateLegend": "Sjabloon universum",
+  "encyclopedia.settings.templateDescription": "Sta toe dat de inhoud van deze encyclopedie wordt gekopieerd naar andere universums. Dit is het beste als je geen verhalen hebt en in plaats daarvan gewoon een sjabloon maakt voor anderen om te gebruiken.",
+  "encyclopedia.settings.templateCheckbox": "Dit is een sjabloon universum",
+  "encyclopedia.templateCopy.modalTitle": "Kopieer encyclopedie inhoud",
+  "encyclopedia.templateCopy.description": "Kopieer de inhoud van deze encyclopedie naar jouw universum om het te verrijken.",
+  "encyclopedia.templateCopy.targetUniverse": "Universum om naar te kopiëren",
+  "encyclopedia.templateCopy.finished": "Kopiëren voltooid",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Universum maken van sjabloon",
+  "encyclopedia.templateCreateUniverse.description": "Creëer een nieuw universum met voorgezaaide encyclopedie-inhoud van deze sjabloon. Uw universum blijft privé totdat u besluit het openbaar te maken.",
+  "encyclopedia.templateCreateUniverse.success": "Universum succesvol aangemaakt! Omleiden...",
+  "encyclopedia.pronunciation.audio.play": "Uitspraak spelen",
+  "encyclopedia.pronunciation.guide": "Gebruik waar mogelijk <ipaLink>IPA-notatie</ipaLink>. Web Speech API uitspraak is best-effort; zie <webSpeechLink>MDN docs</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "Geslacht",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Kinderen",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "Biografie",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "Beschrijving",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "Leden",
+  "encyclopedia.templateField.locations": "Locaties",
+  "encyclopedia.templateField.events": "Gebeurtenissen",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "Geschiedenis",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Inhoud",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "Regeringen",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "Talen",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "Notities",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "Groepen",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "Items",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Type",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "Goden",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Tradities",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "Functies",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Locatie",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Curriculum",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "Taal",
+}

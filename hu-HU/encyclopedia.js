@@ -1,244 +1,263 @@
 export default {
-    'encyclopedia.add': 'Új bejegyzés hozzáadása',
-    'encyclopedia.browse': 'Böngésszen az enciklopédiában',
-    'encyclopedia.search': 'Keresés az enciklopédiában',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'Vissza az univerzum oldalára',
-    'encyclopedia.back.workshop': 'Vissza a műhelybe',
-    'encyclopedia.categories': 'Kategóriák',
-    'encyclopedia.groups': 'Csoportok',
-    'encyclopedia.category.character': 'Karakterek',
-    'encyclopedia.category.event': 'Események',
-    'encyclopedia.category.group': 'Csoportok',
-    'encyclopedia.category.item': 'Tárgyak',
-    'encyclopedia.category.location': 'Helyszínek',
-    'encyclopedia.category.other': 'Egyéb',
-    'encyclopedia.category.state': 'Állapotok',
-    'encyclopedia.category.governments': 'Kormányzatok',
-    'encyclopedia.category.languages': 'Nyelvek',
-    'encyclopedia.category.creatures': 'Teremtmények',
-    'encyclopedia.category.deity': 'Istenek',
-    'encyclopedia.category.religions': 'Vallások',
-    'encyclopedia.category.flora': 'Növényzet',
-    'encyclopedia.category.magic': 'Mágia',
-    'encyclopedia.category.planets': 'Bolygók',
-    'encyclopedia.category.species': 'Fajok',
-    'encyclopedia.category.technologies': 'Technológiák',
-    'encyclopedia.category.families': 'Családok',
-    'encyclopedia.category.jobs': 'Munkahelyek',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Járművek',
-    'encyclopedia.category.diseases': 'Betegségek',
-    'encyclopedia.category.traditions': 'Hagyományok',
-    'encyclopedia.category.sports': 'Sport',
-    'encyclopedia.category.food': 'Élelmiszer',
-    'encyclopedia.category.landmarks': 'Látnivalók',
-    'encyclopedia.category.buildings': 'Épületek',
-    'encyclopedia.category.schools': 'Iskolák',
-    'encyclopedia.category.continents': 'Kontinensek',
-    'encyclopedia.category.villages': 'Falvak',
-    'encyclopedia.category.towns': 'Városok',
-    'encyclopedia.category.cities': 'Városok',
-    'encyclopedia.category.settlements': 'Települések',
-    'encyclopedia.category.countries': 'Országok',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {Nincsenek kapcsolódó bejegyzések}
-    one {1 kapcsolódó bejegyzés}
-    other {# kapcsolódó bejegyzések}
-  } található.`,
-    'encyclopedia.help.text': 'Használja az oldalsávban található menüt az enciklopédia elemek közötti navigáláshoz. Amint kiválaszt egy elemet, az megjelenik ezen szöveg helyett.',
-    'encyclopedia.help.sidebar': 'Oldalsáv Eszköztár',
-    'encyclopedia.help.sidebar.text': 'Üdvözöljük a történetedben! Ez az oldalsáv lehetővé teszi, hogy könnyen hozzáférjen a történetéhez kapcsolódó forrásokhoz. A fenti ikonok segítségével megtekintheted a legfrissebb hozzászólásokat, a jegyzeteidet, kereshetsz az enciklopédiádban, böngészhetsz és új bejegyzéseket adhatsz hozzá az enciklopédiádhoz. Ha a történet szövegéből szeretnél kapcsolatot hozzáadni egy bejegyzéshez, válaszd ki a szöveget, ahová szeretnéd elhelyezni, majd kattints a kapcsolat gombra. Ezután a rendszer felszólítja, hogy keressen meg és válasszon ki egy bejegyzést.',
-    'encyclopedia.intro': 'Üdvözöljük a(z) {universe} enciklopédiában.',
-    'encyclopedia.add.title': 'Új bejegyzés hozzáadása az enciklopédiához',
-    'encyclopedia.add.heading': 'Mit szeretne hozzáadni?',
-    'encyclopedia.add.moresoon': 'További kategóriák hamarosan.',
-    'encyclopedia.create': `Create new {category, select,
-    character {karakter}
-    event {esemény}
-    group {csoport}
-    item {tárgy}
-    location {helyszín}
-    other {jegyzet}
-    state {állam}
-    governments {kormány}
-    languages {nyelv}
-    creatures {teremtmény}
-    deity {istenség}
-    religions {vallás}
-    flora {növényvilág}
-    magic {mágia}
-    planets {bolygó}
-    species {faj}
-    technologies {technológia}
-    families {család}
-    jobs {munka}
-    lore {mondavilág}
-    vehicles {jármű}
-    diseases {betegség}
-    traditions {hagyomány}
-    food {étel}
-    sports {sport}
-    landmarks {nevezetesség}
-    buildings {épület}
-    schools {iskola}
-    continents {kontinens}
-    villages {falvak}
-    towns {városok}
-    cities {városok}
-    settlements {település}
-    countries {ország}
-  } ~`,
-    'encyclopedia.create.header': `Új létrehozás {category, select,
-    character {karakter}
-    event {esemény}
-    group {csoport}
-    item {tárgy}
-    location {helyszín}
-    other {jegyzet}
-    state {állam}
-    governments {kormány}
-    languages {nyelv}
-    creatures {teremtmény}
-    deity {istenség}
-    religions {vallás}
-    flora {növényvilág}
-    magic {mágia}
-    planets {bolygó}
-    species {faj}
-    technologies {technológia ~ ~ technológia}
-    families {család}
-    jobs {munka}
-    lore {mondavilág}
-    vehicles {jármű}
-    diseases {betegség}
-    traditions {hagyomány}
-    food {étel}
-    sports {sport}
-    landmarks {nevezetesség}
-    buildings {épület}
-    schools {iskola}
-    continents {kontinens}
-    villages {falu}
-    towns {város}
-    cities {város}
-    settlements {település}
-    countries {ország}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Nevezési kategória: {category, select,
-    character {Karakter}
-    event {Esemény}
-    group {Csoport}
-    item {Tárgy}
-    location {Helyszín}
-    other {Jegyzet}
-    state {Állam}
-    governments {Kormány}
-    languages {Nyelv}
-    creatures {Lény}
-    deity {Istenség}
-    religions {Vallás}
-    flora {Flóra}
-    magic {Mágia}
-    planets {Bolygó}
-    species {Faj}
-    technologies {Technológia}
-    families {Család}
-    jobs {Munkahely}
-    lore {Hagyomány}
-    vehicles {Jármű}
-    diseases {Betegség}
-    traditions {Hagyomány}
-    food {Étel}
-    sports {Sport}
-    landmarks {Látnivaló}
-    buildings {Épület}
-    schools {Iskola}
-    continents {Kontinens}
-    villages {Falu}
-    towns {Város}
-    cities {Város}
-    settlements {Település}
-    countries {Ország}
-  }`,
-    'encyclopedia.entry.category.legend': 'Kategória',
-    'encyclopedia.fields.add': 'Új mező hozzáadása',
-    'encyclopedia.fields.text': 'Definíció',
-    'encyclopedia.fields.textarea': 'Szöveg',
-    'encyclopedia.fields.connection': 'Kapcsolat',
-    'encyclopedia.fields.time': 'Idő',
-    'encyclopedia.fields.image': 'Kép',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'Láthatóság',
-    'encyclopedia.public': 'Nyilvános',
-    'encyclopedia.private': 'Privát',
-    'encyclopedia.container': 'Tartály',
-    'encyclopedia.container.desc': 'Tegye ezt a bejegyzést egy új bejegyzéscsoport tárolójává. Ez elrejti a kategóriák listájából.',
-    'encyclopedia.entry.name': 'A bejegyzés neve',
-    'encyclopedia.summary': 'Összefoglaló',
-    'encyclopedia.summary.desc': 'Ez egy összefoglaló, amely az egyetlen kezdeti információ, amely megjelenik az olvasó számára.',
-    'encyclopedia.parent': 'Szülő bejegyzés',
-    'encyclopedia.related': 'Kapcsolódó bejegyzések',
-    'encyclopedia.errors.tags': 'Egy bejegyzéshez legfeljebb 10 címke tartozhat.',
-    'encyclopedia.field.private': 'Privát mező',
-    'encyclopedia.ft.indev': 'Ez az opció fejlesztés alatt áll.',
-    'encyclopedia.connections.remove': 'Kapcsolat eltávolítása',
-    'encyclopedia.connections.extra': 'Extra információ',
-    'encyclopedia.connections.existing': 'Létező bejegyzés',
-    'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Borítókép',
-    'encyclopedia.translation.title': 'Üdvözöljük a {universe} univerzum fordításában!',
-    'encyclopedia.translation.desc': 'Ez az enciklopédia felület a {language}nyelvre való fordításra szolgál. Válassza ki a bal oldalon található listából a meglévő bejegyzéseket, hogy elkezdje a fordításukat.',
-    'encyclopedia.welcome.totalEntries': `Ebben az univerzumban {totalEntries, plural, 
-    zero {nincsenek bejegyzések}
-    one {egy bejegyzés}
-    other {# bejegyzés}
-  } van.`,
-    'encyclopedia.settings.title': 'Enciklopédia beállítások',
-    'encyclopedia.settings.categoriesDesc': 'Kapcsolja be és ki a kategóriákat, amelyeket szeretne használni az enciklopédiájában.',
-    'encyclopedia.settings.introText': 'Üdvözlő üzenet, amely megjelenik az univerzum leírása után.',
-    'encyclopedia.fields.placeholder': 'Mező neve',
-    'encyclopedia.fields.delete': 'Mező törlése',
-    'encyclopedia.timeOption.fictionalDate': 'Kitalált dátum',
-    'encyclopedia.timeOption.fictionalTime': 'Kitalált idő',
-    'encyclopedia.timeOption.fictionalDateTime': 'Kitalált dátum és idő',
-    'encyclopedia.timeOption.date': 'Dátum',
-    'encyclopedia.timeOption.time': 'Idő',
-    'encyclopedia.timeOption.dateTime': 'Dátum és idő',
-    'encyclopedia.settings.groupByCategories': 'Kategóriák belefoglalása a csoportosítási listába',
-    'encyclopedia.menuOpen': 'Enciklopédia menü megnyitása',
-    'encyclopedia.menuClose': 'Enciklopédia menü bezárása',
-    'encyclopedia.menuAria': 'Enciklopédia menü',
-    'enc.newField': 'Új mező',
-    'enc.entries.limit': `Jelenleg {value, number} darab}
-    other {korlátlan{max, number}}
-  } bejegyzésed van a {max, plural,
-    =0 {közül.`,
-    'enc.entries.limitReached': 'Elérted a megengedett maximális számú enciklopédia bejegyzést a jelenlegi előfizetésedben.',
-    'encyclopedia.pronunciation.title': 'Kiejtés',
-    'encyclopedia.wip.abbreviation': 'FOLYAMATBAN',
-    'encyclopedia.wip.full': 'Folyamatban lévő munka',
-    'encyclopedia.settings.templateLegend': 'Sablon univerzum',
-    'encyclopedia.settings.templateDescription': 'Engedélyezze ennek az enciklopédiának a más univerzumokba való másolását. Ez a legjobb választás, ha nincsenek történetek, és csak egy sablont hoz létre mások számára.',
-    'encyclopedia.settings.templateCheckbox': 'Ez egy sablon univerzum',
-    'encyclopedia.templateCopy.modalTitle': 'Enciklopédia tartalmának másolása',
-    'encyclopedia.templateCopy.description': 'Másolja ennek az enciklopédiának a tartalmát az univerzumába, hogy gazdagítsa azt.',
-    'encyclopedia.templateCopy.targetUniverse': 'Univerzum, amibe másolni szeretné',
-    'encyclopedia.templateCopy.finished': 'A másolás befejeződött',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Univerzum létrehozása sablonból',
-    'encyclopedia.templateCreateUniverse.description': 'Hozzon létre egy új univerzumot előre beültetett enciklopédia-tartalommal ebből a sablonból. Az univerzumod mindaddig privát marad, amíg úgy nem döntesz, hogy nyilvánossá teszed.',
-    'encyclopedia.templateCreateUniverse.success': 'Az univerzum sikeresen létrejött! Átirányítás...',
-    'encyclopedia.pronunciation.audio.play': 'Play kiejtés',
-    'encyclopedia.pronunciation.guide': 'Ha lehetséges, használja <ipaLink>az IPA jelölést</ipaLink>. A Web Speech API kiejtése a legjobb törekvés; lásd <webSpeechLink>az MDN dokumentációt</webSpeechLink>.'
-};
+  "encyclopedia.add": "Új bejegyzés hozzáadása",
+  "encyclopedia.browse": "Böngésszen az enciklopédiában",
+  "encyclopedia.search": "Keresés az enciklopédiában",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "Vissza az univerzum oldalára",
+  "encyclopedia.back.workshop": "Vissza a műhelybe",
+  "encyclopedia.categories": "Kategóriák",
+  "encyclopedia.groups": "Csoportok",
+  "encyclopedia.category.character": "Karakterek",
+  "encyclopedia.category.event": "Események",
+  "encyclopedia.category.group": "Csoportok",
+  "encyclopedia.category.item": "Tárgyak",
+  "encyclopedia.category.location": "Helyszínek",
+  "encyclopedia.category.other": "Egyéb",
+  "encyclopedia.category.state": "Állapotok",
+  "encyclopedia.category.governments": "Kormányzatok",
+  "encyclopedia.category.languages": "Nyelvek",
+  "encyclopedia.category.creatures": "Teremtmények",
+  "encyclopedia.category.deity": "Istenek",
+  "encyclopedia.category.religions": "Vallások",
+  "encyclopedia.category.flora": "Növényzet",
+  "encyclopedia.category.magic": "Mágia",
+  "encyclopedia.category.planets": "Bolygók",
+  "encyclopedia.category.species": "Fajok",
+  "encyclopedia.category.technologies": "Technológiák",
+  "encyclopedia.category.families": "Családok",
+  "encyclopedia.category.jobs": "Munkahelyek",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Járművek",
+  "encyclopedia.category.diseases": "Betegségek",
+  "encyclopedia.category.traditions": "Hagyományok",
+  "encyclopedia.category.sports": "Sport",
+  "encyclopedia.category.food": "Élelmiszer",
+  "encyclopedia.category.landmarks": "Látnivalók",
+  "encyclopedia.category.buildings": "Épületek",
+  "encyclopedia.category.schools": "Iskolák",
+  "encyclopedia.category.continents": "Kontinensek",
+  "encyclopedia.category.villages": "Falvak",
+  "encyclopedia.category.towns": "Városok",
+  "encyclopedia.category.cities": "Városok",
+  "encyclopedia.category.settlements": "Települések",
+  "encyclopedia.category.countries": "Országok",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {Nincsenek kapcsolódó bejegyzések}\n    one {1 kapcsolódó bejegyzés}\n    other {# kapcsolódó bejegyzések}\n  } található.",
+  "encyclopedia.help.text": "Használja az oldalsávban található menüt az enciklopédia elemek közötti navigáláshoz. Amint kiválaszt egy elemet, az megjelenik ezen szöveg helyett.",
+  "encyclopedia.help.sidebar": "Oldalsáv Eszköztár",
+  "encyclopedia.help.sidebar.text": "Üdvözöljük a történetedben! Ez az oldalsáv lehetővé teszi, hogy könnyen hozzáférjen a történetéhez kapcsolódó forrásokhoz. A fenti ikonok segítségével megtekintheted a legfrissebb hozzászólásokat, a jegyzeteidet, kereshetsz az enciklopédiádban, böngészhetsz és új bejegyzéseket adhatsz hozzá az enciklopédiádhoz. Ha a történet szövegéből szeretnél kapcsolatot hozzáadni egy bejegyzéshez, válaszd ki a szöveget, ahová szeretnéd elhelyezni, majd kattints a kapcsolat gombra. Ezután a rendszer felszólítja, hogy keressen meg és válasszon ki egy bejegyzést.",
+  "encyclopedia.intro": "Üdvözöljük a(z) {universe} enciklopédiában.",
+  "encyclopedia.add.title": "Új bejegyzés hozzáadása az enciklopédiához",
+  "encyclopedia.add.heading": "Mit szeretne hozzáadni?",
+  "encyclopedia.add.moresoon": "További kategóriák hamarosan.",
+  "encyclopedia.create": "Create new {category, select,\n    character {karakter}\n    event {esemény}\n    group {csoport}\n    item {tárgy}\n    location {helyszín}\n    other {jegyzet}\n    state {állam}\n    governments {kormány}\n    languages {nyelv}\n    creatures {teremtmény}\n    deity {istenség}\n    religions {vallás}\n    flora {növényvilág}\n    magic {mágia}\n    planets {bolygó}\n    species {faj}\n    technologies {technológia}\n    families {család}\n    jobs {munka}\n    lore {mondavilág}\n    vehicles {jármű}\n    diseases {betegség}\n    traditions {hagyomány}\n    food {étel}\n    sports {sport}\n    landmarks {nevezetesség}\n    buildings {épület}\n    schools {iskola}\n    continents {kontinens}\n    villages {falvak}\n    towns {városok}\n    cities {városok}\n    settlements {település}\n    countries {ország}\n  } ~",
+  "encyclopedia.create.header": "Új létrehozás {category, select,\n    character {karakter}\n    event {esemény}\n    group {csoport}\n    item {tárgy}\n    location {helyszín}\n    other {jegyzet}\n    state {állam}\n    governments {kormány}\n    languages {nyelv}\n    creatures {teremtmény}\n    deity {istenség}\n    religions {vallás}\n    flora {növényvilág}\n    magic {mágia}\n    planets {bolygó}\n    species {faj}\n    technologies {technológia ~ ~ technológia}\n    families {család}\n    jobs {munka}\n    lore {mondavilág}\n    vehicles {jármű}\n    diseases {betegség}\n    traditions {hagyomány}\n    food {étel}\n    sports {sport}\n    landmarks {nevezetesség}\n    buildings {épület}\n    schools {iskola}\n    continents {kontinens}\n    villages {falu}\n    towns {város}\n    cities {város}\n    settlements {település}\n    countries {ország}\n  } in {universe}",
+  "encyclopedia.entry.category": "Nevezési kategória: {category, select,\n    character {Karakter}\n    event {Esemény}\n    group {Csoport}\n    item {Tárgy}\n    location {Helyszín}\n    other {Jegyzet}\n    state {Állam}\n    governments {Kormány}\n    languages {Nyelv}\n    creatures {Lény}\n    deity {Istenség}\n    religions {Vallás}\n    flora {Flóra}\n    magic {Mágia}\n    planets {Bolygó}\n    species {Faj}\n    technologies {Technológia}\n    families {Család}\n    jobs {Munkahely}\n    lore {Hagyomány}\n    vehicles {Jármű}\n    diseases {Betegség}\n    traditions {Hagyomány}\n    food {Étel}\n    sports {Sport}\n    landmarks {Látnivaló}\n    buildings {Épület}\n    schools {Iskola}\n    continents {Kontinens}\n    villages {Falu}\n    towns {Város}\n    cities {Város}\n    settlements {Település}\n    countries {Ország}\n  }",
+  "encyclopedia.entry.category.legend": "Kategória",
+  "encyclopedia.fields.add": "Új mező hozzáadása",
+  "encyclopedia.fields.text": "Definíció",
+  "encyclopedia.fields.textarea": "Szöveg",
+  "encyclopedia.fields.connection": "Kapcsolat",
+  "encyclopedia.fields.time": "Idő",
+  "encyclopedia.fields.image": "Kép",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "Láthatóság",
+  "encyclopedia.public": "Nyilvános",
+  "encyclopedia.private": "Privát",
+  "encyclopedia.container": "Tartály",
+  "encyclopedia.container.desc": "Tegye ezt a bejegyzést egy új bejegyzéscsoport tárolójává. Ez elrejti a kategóriák listájából.",
+  "encyclopedia.entry.name": "A bejegyzés neve",
+  "encyclopedia.summary": "Összefoglaló",
+  "encyclopedia.summary.desc": "Ez egy összefoglaló, amely az egyetlen kezdeti információ, amely megjelenik az olvasó számára.",
+  "encyclopedia.parent": "Szülő bejegyzés",
+  "encyclopedia.related": "Kapcsolódó bejegyzések",
+  "encyclopedia.errors.tags": "Egy bejegyzéshez legfeljebb 10 címke tartozhat.",
+  "encyclopedia.field.private": "Privát mező",
+  "encyclopedia.ft.indev": "Ez az opció fejlesztés alatt áll.",
+  "encyclopedia.connections.remove": "Kapcsolat eltávolítása",
+  "encyclopedia.connections.extra": "Extra információ",
+  "encyclopedia.connections.existing": "Létező bejegyzés",
+  "encyclopedia.connections.existing.abbr": "EE",
+  "encyclopedia.cover": "Borítókép",
+  "encyclopedia.translation.title": "Üdvözöljük a {universe} univerzum fordításában!",
+  "encyclopedia.translation.desc": "Ez az enciklopédia felület a {language}nyelvre való fordításra szolgál. Válassza ki a bal oldalon található listából a meglévő bejegyzéseket, hogy elkezdje a fordításukat.",
+  "encyclopedia.welcome.totalEntries": "Ebben az univerzumban {totalEntries, plural, \n    zero {nincsenek bejegyzések}\n    one {egy bejegyzés}\n    other {# bejegyzés}\n  } van.",
+  "encyclopedia.settings.title": "Enciklopédia beállítások",
+  "encyclopedia.settings.categoriesDesc": "Kapcsolja be és ki a kategóriákat, amelyeket szeretne használni az enciklopédiájában.",
+  "encyclopedia.settings.introText": "Üdvözlő üzenet, amely megjelenik az univerzum leírása után.",
+  "encyclopedia.fields.placeholder": "Mező neve",
+  "encyclopedia.fields.delete": "Mező törlése",
+  "encyclopedia.timeOption.fictionalDate": "Kitalált dátum",
+  "encyclopedia.timeOption.fictionalTime": "Kitalált idő",
+  "encyclopedia.timeOption.fictionalDateTime": "Kitalált dátum és idő",
+  "encyclopedia.timeOption.date": "Dátum",
+  "encyclopedia.timeOption.time": "Idő",
+  "encyclopedia.timeOption.dateTime": "Dátum és idő",
+  "encyclopedia.settings.groupByCategories": "Kategóriák belefoglalása a csoportosítási listába",
+  "encyclopedia.menuOpen": "Enciklopédia menü megnyitása",
+  "encyclopedia.menuClose": "Enciklopédia menü bezárása",
+  "encyclopedia.menuAria": "Enciklopédia menü",
+  "enc.newField": "Új mező",
+  "enc.entries.limit": "Jelenleg {value, number} darab}\n    other {korlátlan{max, number}}\n  } bejegyzésed van a {max, plural,\n    =0 {közül.",
+  "enc.entries.limitReached": "Elérted a megengedett maximális számú enciklopédia bejegyzést a jelenlegi előfizetésedben.",
+  "encyclopedia.pronunciation.title": "Kiejtés",
+  "encyclopedia.wip.abbreviation": "FOLYAMATBAN",
+  "encyclopedia.wip.full": "Folyamatban lévő munka",
+  "encyclopedia.settings.templateLegend": "Sablon univerzum",
+  "encyclopedia.settings.templateDescription": "Engedélyezze ennek az enciklopédiának a más univerzumokba való másolását. Ez a legjobb választás, ha nincsenek történetek, és csak egy sablont hoz létre mások számára.",
+  "encyclopedia.settings.templateCheckbox": "Ez egy sablon univerzum",
+  "encyclopedia.templateCopy.modalTitle": "Enciklopédia tartalmának másolása",
+  "encyclopedia.templateCopy.description": "Másolja ennek az enciklopédiának a tartalmát az univerzumába, hogy gazdagítsa azt.",
+  "encyclopedia.templateCopy.targetUniverse": "Univerzum, amibe másolni szeretné",
+  "encyclopedia.templateCopy.finished": "A másolás befejeződött",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Univerzum létrehozása sablonból",
+  "encyclopedia.templateCreateUniverse.description": "Hozzon létre egy új univerzumot előre beültetett enciklopédia-tartalommal ebből a sablonból. Az univerzumod mindaddig privát marad, amíg úgy nem döntesz, hogy nyilvánossá teszed.",
+  "encyclopedia.templateCreateUniverse.success": "Az univerzum sikeresen létrejött! Átirányítás...",
+  "encyclopedia.pronunciation.audio.play": "Play kiejtés",
+  "encyclopedia.pronunciation.guide": "Ha lehetséges, használja <ipaLink>az IPA jelölést</ipaLink>. A Web Speech API kiejtése a legjobb törekvés; lásd <webSpeechLink>az MDN dokumentációt</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "Nem",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Gyermekek",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "Életrajz",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "Leírás",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "Tagok",
+  "encyclopedia.templateField.locations": "Helyszínek",
+  "encyclopedia.templateField.events": "Események",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "Történelem",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Tartalom",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "Kormányzatok",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "Nyelvek",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "Megjegyzések",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "Csoportok",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "Tárgyak",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Típus",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "Istenek",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Hagyományok",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "Funkciók",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Helyszín",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Tanterv",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "Nyelv",
+}

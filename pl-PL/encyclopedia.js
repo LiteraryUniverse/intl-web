@@ -1,248 +1,263 @@
 export default {
-    'encyclopedia.add': 'Dodaj nowy wpis',
-    'encyclopedia.browse': 'Przeglądaj encyklopedię',
-    'encyclopedia.search': 'Szukaj w encyklopedii',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'Powrót do strony uniwersum',
-    'encyclopedia.back.workshop': 'Powrót do warsztatu',
-    'encyclopedia.categories': 'Kategorie',
-    'encyclopedia.groups': 'Grupy',
-    'encyclopedia.category.character': 'Postaci',
-    'encyclopedia.category.event': 'Wydarzenia',
-    'encyclopedia.category.group': 'Grupy',
-    'encyclopedia.category.item': 'Przedmioty',
-    'encyclopedia.category.location': 'Lokalizacje',
-    'encyclopedia.category.other': 'Pozostałe',
-    'encyclopedia.category.state': 'Regiony',
-    'encyclopedia.category.governments': 'Rządy',
-    'encyclopedia.category.languages': 'Języki',
-    'encyclopedia.category.creatures': 'Stworzenia',
-    'encyclopedia.category.deity': 'Bóstwa',
-    'encyclopedia.category.religions': 'Religie',
-    'encyclopedia.category.flora': 'Roślinność',
-    'encyclopedia.category.magic': 'Magia',
-    'encyclopedia.category.planets': 'Planety',
-    'encyclopedia.category.species': 'Gatunki',
-    'encyclopedia.category.technologies': 'Technologie',
-    'encyclopedia.category.families': 'Rodziny',
-    'encyclopedia.category.jobs': 'Praca',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Pojazdy',
-    'encyclopedia.category.diseases': 'Choroby',
-    'encyclopedia.category.traditions': 'Tradycje',
-    'encyclopedia.category.sports': 'Sport',
-    'encyclopedia.category.food': 'Żywność',
-    'encyclopedia.category.landmarks': 'Punkty orientacyjne',
-    'encyclopedia.category.buildings': 'Budynki',
-    'encyclopedia.category.schools': 'Szkoły',
-    'encyclopedia.category.continents': 'Kontynenty',
-    'encyclopedia.category.villages': 'Wioski',
-    'encyclopedia.category.towns': 'Miasta',
-    'encyclopedia.category.cities': 'Miasta',
-    'encyclopedia.category.settlements': 'Rozliczenia',
-    'encyclopedia.category.countries': 'Kraje',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {Brak pasujących wpisów}
-    one {1 pasujący wpis}
-    few {# pasujące wpisy}
-    many {# pasujących wpisów}
-    other {# pasujących wpisów}
-  }.`,
-    'encyclopedia.help.text': 'Użyj menu po lewej stronie, aby poruszać się pomiędzy elementami w encyklopedii. Po wybraniu elementu, zostanie on wyświetlony zamiast tego tekstu.',
-    'encyclopedia.help.sidebar': 'Boczny pasek narzędzi',
-    'encyclopedia.help.sidebar.text': 'Witamy w Państwa historii! Ten pasek boczny umożliwia łatwy dostęp do wszystkich zasobów związanych z Państwa historią. Proszę sprawdzić ikony powyżej, aby zobaczyć najnowsze komentarze, notatki, przeszukać encyklopedię, przeglądać i dodawać nowe wpisy do encyklopedii. Jeśli chcą Państwo dodać połączenie do wpisu z tekstu historii, proszę zaznaczyć tekst, w którym chcą Państwo je umieścić, a następnie kliknąć przycisk Połącz. Zostanie wyświetlony monit o znalezienie i wybranie elementu.',
-    'encyclopedia.intro': 'Witamy w {universe} encyklopedii.',
-    'encyclopedia.add.title': 'Dodaj nowy wpis do encyklopedii',
-    'encyclopedia.add.heading': 'Co chciałbyś dodać?',
-    'encyclopedia.add.moresoon': 'Więcej kategorii już wkrótce!',
-    'encyclopedia.create': `Create new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {villages}
-    towns {towns}
-    cities {cities}
-    settlements {settlement}
-    countries {country}
-  }`,
-    'encyclopedia.create.header': `Tworzenie nowego {category, select,
-    character {postać}
-    event {wydarzenie}
-    group {grupa}
-    item {przedmiot}
-    location {lokalizacja}
-    other {notatka}
-    state {stan}
-    governments {rząd}
-    languages {język}
-    creatures {stworzenie}
-    deity {bóstwo}
-    religions {religia}
-    flora {flora}
-    magic {magia}
-    planets {planeta}
-    species {gatunek}
-    technologies {technologia}
-    families {rodzina}
-    jobs {praca}
-    lore {wiedza}
-    vehicles {pojazd}
-    diseases {choroba}
-    traditions {tradycja}
-    food {jedzenie}
-    sports {sport}
-    landmarks {punkt orientacyjny}
-    buildings {budynek}
-    schools {szkoła}
-    continents {kontynent}
-    villages {wioska}
-    towns {miasto}
-    cities {miasto}
-    settlements {osada}
-    countries {kraj}
-  } w {universe}`,
-    'encyclopedia.entry.category': `Kategoria wpisu: {category, select,
-    character {Postać}
-    event {Wydarzenie}
-    group {Grupa}
-    item {Przedmiot}
-    location {Lokalizacja}
-    other {Notatka}
-    state {Państwo}
-    governments {Rząd}
-    languages {Język}
-    creatures {Stworzenie}
-    deity {Bóstwo}
-    religions {Religia}
-    flora {Flora}
-    magic {Magia}
-    planets {Planeta}
-    species {Gatunek}
-    technologies {Technologia}
-    families {Rodzina}
-    jobs {Praca}
-    lore {Wiedza}
-    vehicles {Pojazd}
-    diseases {Choroba}
-    traditions {Tradycja}
-    food {Jedzenie}
-    sports {Sport}
-    landmarks {Punkt orientacyjny}
-    buildings {Budynek}
-    schools {Szkoła}
-    continents {Kontynent}
-    villages {Wieś}
-    towns {Miasto}
-    cities {Miasto}
-    settlements {Osada}
-    countries {Kraj}
-  }`,
-    'encyclopedia.entry.category.legend': 'Kategoria',
-    'encyclopedia.fields.add': 'Dodaj nowe pole',
-    'encyclopedia.fields.text': 'Definicja',
-    'encyclopedia.fields.textarea': 'Tekst',
-    'encyclopedia.fields.connection': 'Połączenie',
-    'encyclopedia.fields.time': 'Czas',
-    'encyclopedia.fields.image': 'Obraz',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'Widoczność',
-    'encyclopedia.public': 'Publiczne',
-    'encyclopedia.private': 'Prywatne',
-    'encyclopedia.container': 'Zbiór',
-    'encyclopedia.container.desc': 'Proszę ustawić ten wpis jako kontener dla nowej grupy wpisów. Spowoduje to ukrycie go na liście kategorii.',
-    'encyclopedia.entry.name': 'Nazwa wpisu',
-    'encyclopedia.summary': 'Podsumowanie',
-    'encyclopedia.summary.desc': 'Jest to podsumowanie, które będzie jedyną początkową informacją wyświetlaną czytelnikowi.',
-    'encyclopedia.parent': 'Wpis nadrzędny',
-    'encyclopedia.related': 'Powiązane wpisy',
-    'encyclopedia.errors.tags': 'Jeden wpis może mieć do 10 etykiet.',
-    'encyclopedia.field.private': 'Pole prywatne',
-    'encyclopedia.ft.indev': 'Ta opcja jest jeszcze rozwijana.',
-    'encyclopedia.connections.remove': 'Usuń połączenie',
-    'encyclopedia.connections.extra': 'Dodatkowe informacje',
-    'encyclopedia.connections.existing': 'Istniejący wpis',
-    'encyclopedia.connections.existing.abbr': 'IW',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Obraz okładki',
-    'encyclopedia.translation.title': 'Witamy w {universe} tłumaczeniu wszechświata!',
-    'encyclopedia.translation.desc': 'Ten interfejs encyklopedii jest używany do tłumaczenia na {language}. Wybierz istniejące wpisy z listy po lewej stronie, aby rozpocząć ich tłumaczenie.',
-    'encyclopedia.welcome.totalEntries': `W tym wszechświecie {totalEntries, plural,
-    zero {nie ma żadnych wpisów}
-    one {jest jedno wejście}
-    few {są # wejścia}
-    many {jest # wejść}
-    other {jest # wejść}
-    }.`,
-    'encyclopedia.settings.title': 'Ustawienia encyklopedii',
-    'encyclopedia.settings.categoriesDesc': 'Włączaj i wyłączaj kategorie, których chcesz używać w swojej encyklopedii.',
-    'encyclopedia.settings.introText': 'Komunikat powitalny, który ma być wyświetlany po opisie wszechświata.',
-    'encyclopedia.fields.placeholder': 'Nazwa pola',
-    'encyclopedia.fields.delete': 'Usuń pole',
-    'encyclopedia.timeOption.fictionalDate': 'Data fikcyjna',
-    'encyclopedia.timeOption.fictionalTime': 'Czas fikcyjny',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fikcyjna data godzina',
-    'encyclopedia.timeOption.date': 'Data',
-    'encyclopedia.timeOption.time': 'Czas',
-    'encyclopedia.timeOption.dateTime': 'Data i czas',
-    'encyclopedia.settings.groupByCategories': 'Uwzględnij kategorie w listingu grupowym',
-    'encyclopedia.menuOpen': 'Otwórz menu Encyklopedia',
-    'encyclopedia.menuClose': 'Zamknij menu Encyklopedia',
-    'encyclopedia.menuAria': 'Menu encyklopedii',
-    'enc.newField': 'Nowe pole',
-    'enc.entries.limit': `Aktualnie masz {value, number} z {max, plural, one {} few {{max, number}} many {{max, number}}
-    =0 {nieograniczony}
-    other {{max, number}}
-  } wpisy.`,
-    'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.',
-    'encyclopedia.pronunciation.title': 'Wymowa',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Praca w toku',
-    'encyclopedia.settings.templateLegend': 'Wszechświat szablonowy',
-    'encyclopedia.settings.templateDescription': 'Zezwól na kopiowanie zawartości tej encyklopedii do innych wszechświatów. Jest to najlepsze rozwiązanie, jeśli nie masz żadnych historii i chcesz stworzyć szablon do wykorzystania przez innych.',
-    'encyclopedia.settings.templateCheckbox': 'To jest wszechświat szablonowy',
-    'encyclopedia.templateCopy.modalTitle': 'Skopiuj zawartość encyklopedii',
-    'encyclopedia.templateCopy.description': 'Skopiuj zawartość tej encyklopedii do swojego wszechświata, aby go wzbogacić.',
-    'encyclopedia.templateCopy.targetUniverse': 'Wszechświat, do którego ma zostać skopiowana zawartość',
-    'encyclopedia.templateCopy.finished': 'Kopiowanie zakończone',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Tworzenie wszechświata z szablonu',
-    'encyclopedia.templateCreateUniverse.description': 'Proszę utworzyć nowy wszechświat ze wstępnie zasianą zawartością encyklopedii z tego szablonu. Państwa wszechświat pozostanie prywatny, dopóki nie zdecydują się Państwo go upublicznić.',
-    'encyclopedia.templateCreateUniverse.success': 'Wszechświat utworzony pomyślnie! Przekierowanie...',
-    'encyclopedia.pronunciation.audio.play': 'Proszę odtworzyć wymowę',
-    'encyclopedia.pronunciation.guide': 'Proszę używać <ipaLink>notacji IPA</ipaLink>, jeśli to możliwe. Wymowa Web Speech API jest najlepszym rozwiązaniem; proszę zapoznać się z <webSpeechLink>dokumentacją MDN</webSpeechLink>.'
-};
+  "encyclopedia.add": "Dodaj nowy wpis",
+  "encyclopedia.browse": "Przeglądaj encyklopedię",
+  "encyclopedia.search": "Szukaj w encyklopedii",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "Powrót do strony uniwersum",
+  "encyclopedia.back.workshop": "Powrót do warsztatu",
+  "encyclopedia.categories": "Kategorie",
+  "encyclopedia.groups": "Grupy",
+  "encyclopedia.category.character": "Postaci",
+  "encyclopedia.category.event": "Wydarzenia",
+  "encyclopedia.category.group": "Grupy",
+  "encyclopedia.category.item": "Przedmioty",
+  "encyclopedia.category.location": "Lokalizacje",
+  "encyclopedia.category.other": "Pozostałe",
+  "encyclopedia.category.state": "Regiony",
+  "encyclopedia.category.governments": "Rządy",
+  "encyclopedia.category.languages": "Języki",
+  "encyclopedia.category.creatures": "Stworzenia",
+  "encyclopedia.category.deity": "Bóstwa",
+  "encyclopedia.category.religions": "Religie",
+  "encyclopedia.category.flora": "Roślinność",
+  "encyclopedia.category.magic": "Magia",
+  "encyclopedia.category.planets": "Planety",
+  "encyclopedia.category.species": "Gatunki",
+  "encyclopedia.category.technologies": "Technologie",
+  "encyclopedia.category.families": "Rodziny",
+  "encyclopedia.category.jobs": "Praca",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Pojazdy",
+  "encyclopedia.category.diseases": "Choroby",
+  "encyclopedia.category.traditions": "Tradycje",
+  "encyclopedia.category.sports": "Sport",
+  "encyclopedia.category.food": "Żywność",
+  "encyclopedia.category.landmarks": "Punkty orientacyjne",
+  "encyclopedia.category.buildings": "Budynki",
+  "encyclopedia.category.schools": "Szkoły",
+  "encyclopedia.category.continents": "Kontynenty",
+  "encyclopedia.category.villages": "Wioski",
+  "encyclopedia.category.towns": "Miasta",
+  "encyclopedia.category.cities": "Miasta",
+  "encyclopedia.category.settlements": "Rozliczenia",
+  "encyclopedia.category.countries": "Kraje",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {Brak pasujących wpisów}\n    one {1 pasujący wpis}\n    few {# pasujące wpisy}\n    many {# pasujących wpisów}\n    other {# pasujących wpisów}\n  }.",
+  "encyclopedia.help.text": "Użyj menu po lewej stronie, aby poruszać się pomiędzy elementami w encyklopedii. Po wybraniu elementu, zostanie on wyświetlony zamiast tego tekstu.",
+  "encyclopedia.help.sidebar": "Boczny pasek narzędzi",
+  "encyclopedia.help.sidebar.text": "Witamy w Państwa historii! Ten pasek boczny umożliwia łatwy dostęp do wszystkich zasobów związanych z Państwa historią. Proszę sprawdzić ikony powyżej, aby zobaczyć najnowsze komentarze, notatki, przeszukać encyklopedię, przeglądać i dodawać nowe wpisy do encyklopedii. Jeśli chcą Państwo dodać połączenie do wpisu z tekstu historii, proszę zaznaczyć tekst, w którym chcą Państwo je umieścić, a następnie kliknąć przycisk Połącz. Zostanie wyświetlony monit o znalezienie i wybranie elementu.",
+  "encyclopedia.intro": "Witamy w {universe} encyklopedii.",
+  "encyclopedia.add.title": "Dodaj nowy wpis do encyklopedii",
+  "encyclopedia.add.heading": "Co chciałbyś dodać?",
+  "encyclopedia.add.moresoon": "Więcej kategorii już wkrótce!",
+  "encyclopedia.create": "Create new {category, select,\n    character {character}\n    event {event}\n    group {group}\n    item {item}\n    location {location}\n    other {note}\n    state {state}\n    governments {government}\n    languages {language}\n    creatures {creature}\n    deity {deity}\n    religions {religion}\n    flora {flora}\n    magic {magic}\n    planets {planet}\n    species {specie}\n    technologies {technology}\n    families {family}\n    jobs {job}\n    lore {lore}\n    vehicles {vehicle}\n    diseases {disease}\n    traditions {tradition}\n    food {food}\n    sports {sport}\n    landmarks {landmark}\n    buildings {building}\n    schools {school}\n    continents {continent}\n    villages {villages}\n    towns {towns}\n    cities {cities}\n    settlements {settlement}\n    countries {country}\n  }",
+  "encyclopedia.create.header": "Tworzenie nowego {category, select,\n    character {postać}\n    event {wydarzenie}\n    group {grupa}\n    item {przedmiot}\n    location {lokalizacja}\n    other {notatka}\n    state {stan}\n    governments {rząd}\n    languages {język}\n    creatures {stworzenie}\n    deity {bóstwo}\n    religions {religia}\n    flora {flora}\n    magic {magia}\n    planets {planeta}\n    species {gatunek}\n    technologies {technologia}\n    families {rodzina}\n    jobs {praca}\n    lore {wiedza}\n    vehicles {pojazd}\n    diseases {choroba}\n    traditions {tradycja}\n    food {jedzenie}\n    sports {sport}\n    landmarks {punkt orientacyjny}\n    buildings {budynek}\n    schools {szkoła}\n    continents {kontynent}\n    villages {wioska}\n    towns {miasto}\n    cities {miasto}\n    settlements {osada}\n    countries {kraj}\n  } w {universe}",
+  "encyclopedia.entry.category": "Kategoria wpisu: {category, select,\n    character {Postać}\n    event {Wydarzenie}\n    group {Grupa}\n    item {Przedmiot}\n    location {Lokalizacja}\n    other {Notatka}\n    state {Państwo}\n    governments {Rząd}\n    languages {Język}\n    creatures {Stworzenie}\n    deity {Bóstwo}\n    religions {Religia}\n    flora {Flora}\n    magic {Magia}\n    planets {Planeta}\n    species {Gatunek}\n    technologies {Technologia}\n    families {Rodzina}\n    jobs {Praca}\n    lore {Wiedza}\n    vehicles {Pojazd}\n    diseases {Choroba}\n    traditions {Tradycja}\n    food {Jedzenie}\n    sports {Sport}\n    landmarks {Punkt orientacyjny}\n    buildings {Budynek}\n    schools {Szkoła}\n    continents {Kontynent}\n    villages {Wieś}\n    towns {Miasto}\n    cities {Miasto}\n    settlements {Osada}\n    countries {Kraj}\n  }",
+  "encyclopedia.entry.category.legend": "Kategoria",
+  "encyclopedia.fields.add": "Dodaj nowe pole",
+  "encyclopedia.fields.text": "Definicja",
+  "encyclopedia.fields.textarea": "Tekst",
+  "encyclopedia.fields.connection": "Połączenie",
+  "encyclopedia.fields.time": "Czas",
+  "encyclopedia.fields.image": "Obraz",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "Widoczność",
+  "encyclopedia.public": "Publiczne",
+  "encyclopedia.private": "Prywatne",
+  "encyclopedia.container": "Zbiór",
+  "encyclopedia.container.desc": "Proszę ustawić ten wpis jako kontener dla nowej grupy wpisów. Spowoduje to ukrycie go na liście kategorii.",
+  "encyclopedia.entry.name": "Nazwa wpisu",
+  "encyclopedia.summary": "Podsumowanie",
+  "encyclopedia.summary.desc": "Jest to podsumowanie, które będzie jedyną początkową informacją wyświetlaną czytelnikowi.",
+  "encyclopedia.parent": "Wpis nadrzędny",
+  "encyclopedia.related": "Powiązane wpisy",
+  "encyclopedia.errors.tags": "Jeden wpis może mieć do 10 etykiet.",
+  "encyclopedia.field.private": "Pole prywatne",
+  "encyclopedia.ft.indev": "Ta opcja jest jeszcze rozwijana.",
+  "encyclopedia.connections.remove": "Usuń połączenie",
+  "encyclopedia.connections.extra": "Dodatkowe informacje",
+  "encyclopedia.connections.existing": "Istniejący wpis",
+  "encyclopedia.connections.existing.abbr": "IW",
+  "encyclopedia.cover": "Obraz okładki",
+  "encyclopedia.translation.title": "Witamy w {universe} tłumaczeniu wszechświata!",
+  "encyclopedia.translation.desc": "Ten interfejs encyklopedii jest używany do tłumaczenia na {language}. Wybierz istniejące wpisy z listy po lewej stronie, aby rozpocząć ich tłumaczenie.",
+  "encyclopedia.welcome.totalEntries": "W tym wszechświecie {totalEntries, plural,\n    zero {nie ma żadnych wpisów}\n    one {jest jedno wejście}\n    few {są # wejścia}\n    many {jest # wejść}\n    other {jest # wejść}\n    }.",
+  "encyclopedia.settings.title": "Ustawienia encyklopedii",
+  "encyclopedia.settings.categoriesDesc": "Włączaj i wyłączaj kategorie, których chcesz używać w swojej encyklopedii.",
+  "encyclopedia.settings.introText": "Komunikat powitalny, który ma być wyświetlany po opisie wszechświata.",
+  "encyclopedia.fields.placeholder": "Nazwa pola",
+  "encyclopedia.fields.delete": "Usuń pole",
+  "encyclopedia.timeOption.fictionalDate": "Data fikcyjna",
+  "encyclopedia.timeOption.fictionalTime": "Czas fikcyjny",
+  "encyclopedia.timeOption.fictionalDateTime": "Fikcyjna data godzina",
+  "encyclopedia.timeOption.date": "Data",
+  "encyclopedia.timeOption.time": "Czas",
+  "encyclopedia.timeOption.dateTime": "Data i czas",
+  "encyclopedia.settings.groupByCategories": "Uwzględnij kategorie w listingu grupowym",
+  "encyclopedia.menuOpen": "Otwórz menu Encyklopedia",
+  "encyclopedia.menuClose": "Zamknij menu Encyklopedia",
+  "encyclopedia.menuAria": "Menu encyklopedii",
+  "enc.newField": "Nowe pole",
+  "enc.entries.limit": "Aktualnie masz {value, number} z {max, plural, one {} few {{max, number}} many {{max, number}}\n    =0 {nieograniczony}\n    other {{max, number}}\n  } wpisy.",
+  "enc.entries.limitReached": "Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.",
+  "encyclopedia.pronunciation.title": "Wymowa",
+  "encyclopedia.wip.abbreviation": "WIP",
+  "encyclopedia.wip.full": "Praca w toku",
+  "encyclopedia.settings.templateLegend": "Wszechświat szablonowy",
+  "encyclopedia.settings.templateDescription": "Zezwól na kopiowanie zawartości tej encyklopedii do innych wszechświatów. Jest to najlepsze rozwiązanie, jeśli nie masz żadnych historii i chcesz stworzyć szablon do wykorzystania przez innych.",
+  "encyclopedia.settings.templateCheckbox": "To jest wszechświat szablonowy",
+  "encyclopedia.templateCopy.modalTitle": "Skopiuj zawartość encyklopedii",
+  "encyclopedia.templateCopy.description": "Skopiuj zawartość tej encyklopedii do swojego wszechświata, aby go wzbogacić.",
+  "encyclopedia.templateCopy.targetUniverse": "Wszechświat, do którego ma zostać skopiowana zawartość",
+  "encyclopedia.templateCopy.finished": "Kopiowanie zakończone",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Tworzenie wszechświata z szablonu",
+  "encyclopedia.templateCreateUniverse.description": "Proszę utworzyć nowy wszechświat ze wstępnie zasianą zawartością encyklopedii z tego szablonu. Państwa wszechświat pozostanie prywatny, dopóki nie zdecydują się Państwo go upublicznić.",
+  "encyclopedia.templateCreateUniverse.success": "Wszechświat utworzony pomyślnie! Przekierowanie...",
+  "encyclopedia.pronunciation.audio.play": "Proszę odtworzyć wymowę",
+  "encyclopedia.pronunciation.guide": "Proszę używać <ipaLink>notacji IPA</ipaLink>, jeśli to możliwe. Wymowa Web Speech API jest najlepszym rozwiązaniem; proszę zapoznać się z <webSpeechLink>dokumentacją MDN</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "Płeć",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Dzieci",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "Biografia",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "Opis",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "Członkowie",
+  "encyclopedia.templateField.locations": "Lokalizacje",
+  "encyclopedia.templateField.events": "Spotkania",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "Historia",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Treść",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "Rządy",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "Języki",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "Notatki",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "Grupy",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "Przedmioty",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Typ",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "Bóstwa",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Tradycje",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "Funkcje",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Lokalizacja",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Program nauczania",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "Język",
+}

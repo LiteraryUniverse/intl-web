@@ -1,241 +1,263 @@
 export default {
-    'encyclopedia.add': 'エントリーの追加',
-    'encyclopedia.browse': '百科事典の閲覧',
-    'encyclopedia.search': '百科事典の検索',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': '宇宙のページに戻る',
-    'encyclopedia.back.workshop': 'ワークショップに戻る',
-    'encyclopedia.categories': 'カテゴリー',
-    'encyclopedia.groups': 'ツリー表示',
-    'encyclopedia.category.character': 'キャラクター',
-    'encyclopedia.category.event': 'イベント',
-    'encyclopedia.category.group': 'グループ',
-    'encyclopedia.category.item': '項目',
-    'encyclopedia.category.location': '場所',
-    'encyclopedia.category.other': 'その他',
-    'encyclopedia.category.state': '国家',
-    'encyclopedia.category.governments': '政府',
-    'encyclopedia.category.languages': '語',
-    'encyclopedia.category.creatures': '生き物',
-    'encyclopedia.category.deity': '神',
-    'encyclopedia.category.religions': '宗教',
-    'encyclopedia.category.flora': '植物',
-    'encyclopedia.category.magic': '魔法',
-    'encyclopedia.category.planets': '惑星',
-    'encyclopedia.category.species': '正貨',
-    'encyclopedia.category.technologies': '技術',
-    'encyclopedia.category.families': '家族',
-    'encyclopedia.category.jobs': '求人情報',
-    'encyclopedia.category.lore': '伝承',
-    'encyclopedia.category.vehicles': '車両',
-    'encyclopedia.category.diseases': '病気',
-    'encyclopedia.category.traditions': '伝統',
-    'encyclopedia.category.sports': 'スポーツ',
-    'encyclopedia.category.food': 'フード',
-    'encyclopedia.category.landmarks': 'ランドマーク',
-    'encyclopedia.category.buildings': '建物',
-    'encyclopedia.category.schools': '学校',
-    'encyclopedia.category.continents': '大陸',
-    'encyclopedia.category.villages': '村々',
-    'encyclopedia.category.towns': 'タウンズ',
-    'encyclopedia.category.cities': '都市',
-    'encyclopedia.category.settlements': '和解',
-    'encyclopedia.category.countries': '国名',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {関連エントリが見つかりません。}
-    other {#件の関連エントリーが見つかりました。}
-  }`,
-    'encyclopedia.help.text': '左側のメニューを使って、百科事典の項目間を移動することができます。項目を選択すると、この文章の代わりに項目が表示されます。',
-    'encyclopedia.help.sidebar': 'サイドバーのツールバー',
-    'encyclopedia.help.sidebar.text': 'あなたの物語へようこそこのサイドバーから、あなたのストーリーに関連するすべてのリソースに簡単にアクセスできます。上のアイコンをチェックすると、最新のコメント、あなたのメモ、百科事典の検索、閲覧、百科事典への新しいエントリーの追加ができます。ストーリーのテキストからエントリーへの接続を追加したい場合は、配置したいテキストを選択し、接続ボタンをクリックします。その後、項目を見つけて選択するよう促されます。',
-    'encyclopedia.intro': 'ようこそ{universe}エンサイクロペディアへ。',
-    'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
-    'encyclopedia.add.heading': '何を追加しますか？',
-    'encyclopedia.add.moresoon': 'より多くのカテゴリがまもなく登場します！',
-    'encyclopedia.create': `Create new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {家族}
-    jobs {仕事}
-    lore {言い伝え}
-    vehicles {乗り物}
-    diseases {病気}
-    traditions {伝統}
-    food {食べ物}
-    sports {スポーツ}
-    landmarks {ランドマーク}
-    buildings {建物}
-    schools {学校}
-    continents {大陸}
-    villages {村}
-    towns {町}
-    cities {都市}
-    settlements {居住地}
-    countries {国}
-  }`,
-    'encyclopedia.create.header': `Creating new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {家族}
-    jobs {仕事}
-    lore {言い伝え}
-    vehicles {乗り物}
-    diseases {病気}
-    traditions {伝統}
-    food {食べ物}
-    sports {スポーツ}
-    landmarks {ランドマーク}
-    buildings {建物}
-    schools {学校}
-    continents {大陸}
-    villages {村}
-    towns {町}
-    cities {都市}
-    settlements {居住地}
-    countries {国}
-  } in {universe}`,
-    'encyclopedia.entry.category': `エントリーカテゴリー {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {家族}
-    jobs {仕事}
-    lore {言い伝え}
-    vehicles {乗り物}
-    diseases {病気}
-    traditions {伝統}
-    food {食べ物}
-    sports {スポーツ}
-    landmarks {ランドマーク}
-    buildings {建物}
-    schools {学校}
-    continents {大陸}
-    villages {村}
-    towns {町}
-    cities {都市}
-    settlements {居住地}
-    countries {国}
-  }。`,
-    'encyclopedia.entry.category.legend': '記事のカテゴリ',
-    'encyclopedia.fields.add': '新しいフィールドを追加する',
-    'encyclopedia.fields.text': '定義',
-    'encyclopedia.fields.textarea': 'テキスト',
-    'encyclopedia.fields.connection': '接続',
-    'encyclopedia.fields.time': '時間',
-    'encyclopedia.fields.image': '画像',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': '可視性',
-    'encyclopedia.public': '公衆',
-    'encyclopedia.private': '民間',
-    'encyclopedia.container': 'コンテナ',
-    'encyclopedia.container.desc': 'このエントリーを新しいエントリーグループのコンテナにする。これにより、カテゴリー一覧から非表示になります。',
-    'encyclopedia.entry.name': '百科事典の記事の名前',
-    'encyclopedia.summary': '概要',
-    'encyclopedia.summary.desc': 'これは、読者に表示される唯一の初期情報となる要約である。',
-    'encyclopedia.parent': '関連百科事典の記事',
-    'encyclopedia.related': '関連エントリー',
-    'encyclopedia.errors.tags': '1つのエントリーにつき、タグは10個までとさせていただきます。',
-    'encyclopedia.field.private': 'プライベートフィールド',
-    'encyclopedia.ft.indev': 'このオプションは開発中です。',
-    'encyclopedia.connections.remove': '接続を削除',
-    'encyclopedia.connections.extra': '既存の記事',
-    'encyclopedia.connections.existing': '既存のエントリー',
-    'encyclopedia.connections.existing.abbr': 'エエ',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': '表紙画像',
-    'encyclopedia.translation.title': 'ようこそ{universe}宇宙翻訳へ!',
-    'encyclopedia.translation.desc': 'この百科事典のインターフェースは{language}への翻訳に使われます。左側のリストから既存の項目を選ぶと、その翻訳が始まります。',
-    'encyclopedia.welcome.totalEntries': `{totalEntries, plural,
-    =0 {現在、この宇宙にはエントリがありません}
-    other {この宇宙には現在#件のエントリーがあります}
-  }。`,
-    'encyclopedia.settings.title': '百科事典の設定',
-    'encyclopedia.settings.categoriesDesc': '百科事典で使用したいカテゴリーのオン・オフを設定します。',
-    'encyclopedia.settings.introText': '宇宙の説明の後に表示されるウェルカムメッセージ。',
-    'encyclopedia.fields.placeholder': 'フィールド名',
-    'encyclopedia.fields.delete': 'フィールドを削除',
-    'encyclopedia.timeOption.fictionalDate': '架空の日付',
-    'encyclopedia.timeOption.fictionalTime': '架空の時間',
-    'encyclopedia.timeOption.fictionalDateTime': '架空の日付時間',
-    'encyclopedia.timeOption.date': '日付',
-    'encyclopedia.timeOption.time': '時間',
-    'encyclopedia.timeOption.dateTime': '日付時刻',
-    'encyclopedia.settings.groupByCategories': 'グループリストにカテゴリーを含める',
-    'encyclopedia.menuOpen': '百科事典メニューを開く',
-    'encyclopedia.menuClose': '百科事典メニューを閉じる',
-    'encyclopedia.menuAria': '百科事典メニュー',
-    'enc.newField': '新しい分野',
-    'enc.entries.limit': `現在、{max, plural,
-    =0 {無制限}
-    other {{max, number}}}件中{value, number}件のエントリーがあります。`,
-    'enc.entries.limitReached': '現在の購読期間中に許容される百科事典の最大エントリ数に達しました。',
-    'encyclopedia.pronunciation.title': '発音',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': '作業中',
-    'encyclopedia.settings.templateLegend': 'テンプレートの宇宙',
-    'encyclopedia.settings.templateDescription': 'この百科事典の内容を他の宇宙にコピーすることを許可します。これは、物語を持っていない代わりに他の人が使用するためのテンプレートを作成する場合に最適です。',
-    'encyclopedia.settings.templateCheckbox': 'これはテンプレートの宇宙です',
-    'encyclopedia.templateCopy.modalTitle': '百科事典の内容をコピーする',
-    'encyclopedia.templateCopy.description': 'この百科事典の内容をあなたの宇宙にコピーして豊かにします。',
-    'encyclopedia.templateCopy.targetUniverse': 'コピー先の宇宙',
-    'encyclopedia.templateCopy.finished': 'コピーが完了しました',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'テンプレートからユニバースを作成',
-    'encyclopedia.templateCreateUniverse.description': 'このテンプレートから、あらかじめシードされた百科事典のコンテンツを使って、新しいユニバースを作成してください。あなたが公開すると決めるまで、あなたの宇宙は非公開のままです。',
-    'encyclopedia.templateCreateUniverse.success': 'ユニバースは正常に作成されました！リダイレクト...',
-    'encyclopedia.pronunciation.audio.play': '発音を再生する',
-    'encyclopedia.pronunciation.guide': '可能な限り<ipaLink>IPA表記を</ipaLink>使用してください。Web Speech APIの発音はベストエフォートです。'
-};
+  "encyclopedia.add": "エントリーの追加",
+  "encyclopedia.browse": "百科事典の閲覧",
+  "encyclopedia.search": "百科事典の検索",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "宇宙のページに戻る",
+  "encyclopedia.back.workshop": "ワークショップに戻る",
+  "encyclopedia.categories": "カテゴリー",
+  "encyclopedia.groups": "ツリー表示",
+  "encyclopedia.category.character": "キャラクター",
+  "encyclopedia.category.event": "イベント",
+  "encyclopedia.category.group": "グループ",
+  "encyclopedia.category.item": "項目",
+  "encyclopedia.category.location": "場所",
+  "encyclopedia.category.other": "その他",
+  "encyclopedia.category.state": "国家",
+  "encyclopedia.category.governments": "政府",
+  "encyclopedia.category.languages": "語",
+  "encyclopedia.category.creatures": "生き物",
+  "encyclopedia.category.deity": "神",
+  "encyclopedia.category.religions": "宗教",
+  "encyclopedia.category.flora": "植物",
+  "encyclopedia.category.magic": "魔法",
+  "encyclopedia.category.planets": "惑星",
+  "encyclopedia.category.species": "正貨",
+  "encyclopedia.category.technologies": "技術",
+  "encyclopedia.category.families": "家族",
+  "encyclopedia.category.jobs": "求人情報",
+  "encyclopedia.category.lore": "伝承",
+  "encyclopedia.category.vehicles": "車両",
+  "encyclopedia.category.diseases": "病気",
+  "encyclopedia.category.traditions": "伝統",
+  "encyclopedia.category.sports": "スポーツ",
+  "encyclopedia.category.food": "フード",
+  "encyclopedia.category.landmarks": "ランドマーク",
+  "encyclopedia.category.buildings": "建物",
+  "encyclopedia.category.schools": "学校",
+  "encyclopedia.category.continents": "大陸",
+  "encyclopedia.category.villages": "村々",
+  "encyclopedia.category.towns": "タウンズ",
+  "encyclopedia.category.cities": "都市",
+  "encyclopedia.category.settlements": "和解",
+  "encyclopedia.category.countries": "国名",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {関連エントリが見つかりません。}\n    other {#件の関連エントリーが見つかりました。}\n  }",
+  "encyclopedia.help.text": "左側のメニューを使って、百科事典の項目間を移動することができます。項目を選択すると、この文章の代わりに項目が表示されます。",
+  "encyclopedia.help.sidebar": "サイドバーのツールバー",
+  "encyclopedia.help.sidebar.text": "あなたの物語へようこそこのサイドバーから、あなたのストーリーに関連するすべてのリソースに簡単にアクセスできます。上のアイコンをチェックすると、最新のコメント、あなたのメモ、百科事典の検索、閲覧、百科事典への新しいエントリーの追加ができます。ストーリーのテキストからエントリーへの接続を追加したい場合は、配置したいテキストを選択し、接続ボタンをクリックします。その後、項目を見つけて選択するよう促されます。",
+  "encyclopedia.intro": "ようこそ{universe}エンサイクロペディアへ。",
+  "encyclopedia.add.title": "エンサイクロペディアに新しい記事を追加する",
+  "encyclopedia.add.heading": "何を追加しますか？",
+  "encyclopedia.add.moresoon": "より多くのカテゴリがまもなく登場します！",
+  "encyclopedia.create": "Create new {category, select,\n    character {character}\n    event {event}\n    group {group}\n    item {item}\n    location {location}\n    other {note}\n    state {state}\n    governments {government}\n    languages {language}\n    creatures {creature}\n    deity {deity}\n    religions {religion}\n    flora {flora}\n    magic {magic}\n    planets {planet}\n    species {specie}\n    technologies {technology}\n    families {家族}\n    jobs {仕事}\n    lore {言い伝え}\n    vehicles {乗り物}\n    diseases {病気}\n    traditions {伝統}\n    food {食べ物}\n    sports {スポーツ}\n    landmarks {ランドマーク}\n    buildings {建物}\n    schools {学校}\n    continents {大陸}\n    villages {村}\n    towns {町}\n    cities {都市}\n    settlements {居住地}\n    countries {国}\n  }",
+  "encyclopedia.create.header": "Creating new {category, select,\n    character {character}\n    event {event}\n    group {group}\n    item {item}\n    location {location}\n    other {note}\n    state {state}\n    governments {government}\n    languages {language}\n    creatures {creature}\n    deity {deity}\n    religions {religion}\n    flora {flora}\n    magic {magic}\n    planets {planet}\n    species {specie}\n    technologies {technology}\n    families {家族}\n    jobs {仕事}\n    lore {言い伝え}\n    vehicles {乗り物}\n    diseases {病気}\n    traditions {伝統}\n    food {食べ物}\n    sports {スポーツ}\n    landmarks {ランドマーク}\n    buildings {建物}\n    schools {学校}\n    continents {大陸}\n    villages {村}\n    towns {町}\n    cities {都市}\n    settlements {居住地}\n    countries {国}\n  } in {universe}",
+  "encyclopedia.entry.category": "エントリーカテゴリー {category, select,\n    character {Character}\n    event {Event}\n    group {Group}\n    item {Item}\n    location {Location}\n    other {Note}\n    state {State}\n    governments {Government}\n    languages {Language}\n    creatures {Creature}\n    deity {Deity}\n    religions {Religion}\n    flora {Flora}\n    magic {Magic}\n    planets {Planet}\n    species {Specie}\n    technologies {Technology}\n    families {家族}\n    jobs {仕事}\n    lore {言い伝え}\n    vehicles {乗り物}\n    diseases {病気}\n    traditions {伝統}\n    food {食べ物}\n    sports {スポーツ}\n    landmarks {ランドマーク}\n    buildings {建物}\n    schools {学校}\n    continents {大陸}\n    villages {村}\n    towns {町}\n    cities {都市}\n    settlements {居住地}\n    countries {国}\n  }。",
+  "encyclopedia.entry.category.legend": "記事のカテゴリ",
+  "encyclopedia.fields.add": "新しいフィールドを追加する",
+  "encyclopedia.fields.text": "定義",
+  "encyclopedia.fields.textarea": "テキスト",
+  "encyclopedia.fields.connection": "接続",
+  "encyclopedia.fields.time": "時間",
+  "encyclopedia.fields.image": "画像",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "可視性",
+  "encyclopedia.public": "公衆",
+  "encyclopedia.private": "民間",
+  "encyclopedia.container": "コンテナ",
+  "encyclopedia.container.desc": "このエントリーを新しいエントリーグループのコンテナにする。これにより、カテゴリー一覧から非表示になります。",
+  "encyclopedia.entry.name": "百科事典の記事の名前",
+  "encyclopedia.summary": "概要",
+  "encyclopedia.summary.desc": "これは、読者に表示される唯一の初期情報となる要約である。",
+  "encyclopedia.parent": "関連百科事典の記事",
+  "encyclopedia.related": "関連エントリー",
+  "encyclopedia.errors.tags": "1つのエントリーにつき、タグは10個までとさせていただきます。",
+  "encyclopedia.field.private": "プライベートフィールド",
+  "encyclopedia.ft.indev": "このオプションは開発中です。",
+  "encyclopedia.connections.remove": "接続を削除",
+  "encyclopedia.connections.extra": "既存の記事",
+  "encyclopedia.connections.existing": "既存のエントリー",
+  "encyclopedia.connections.existing.abbr": "エエ",
+  "encyclopedia.cover": "表紙画像",
+  "encyclopedia.translation.title": "ようこそ{universe}宇宙翻訳へ!",
+  "encyclopedia.translation.desc": "この百科事典のインターフェースは{language}への翻訳に使われます。左側のリストから既存の項目を選ぶと、その翻訳が始まります。",
+  "encyclopedia.welcome.totalEntries": "{totalEntries, plural,\n    =0 {現在、この宇宙にはエントリがありません}\n    other {この宇宙には現在#件のエントリーがあります}\n  }。",
+  "encyclopedia.settings.title": "百科事典の設定",
+  "encyclopedia.settings.categoriesDesc": "百科事典で使用したいカテゴリーのオン・オフを設定します。",
+  "encyclopedia.settings.introText": "宇宙の説明の後に表示されるウェルカムメッセージ。",
+  "encyclopedia.fields.placeholder": "フィールド名",
+  "encyclopedia.fields.delete": "フィールドを削除",
+  "encyclopedia.timeOption.fictionalDate": "架空の日付",
+  "encyclopedia.timeOption.fictionalTime": "架空の時間",
+  "encyclopedia.timeOption.fictionalDateTime": "架空の日付時間",
+  "encyclopedia.timeOption.date": "日付",
+  "encyclopedia.timeOption.time": "時間",
+  "encyclopedia.timeOption.dateTime": "日付時刻",
+  "encyclopedia.settings.groupByCategories": "グループリストにカテゴリーを含める",
+  "encyclopedia.menuOpen": "百科事典メニューを開く",
+  "encyclopedia.menuClose": "百科事典メニューを閉じる",
+  "encyclopedia.menuAria": "百科事典メニュー",
+  "enc.newField": "新しい分野",
+  "enc.entries.limit": "現在、{max, plural,\n    =0 {無制限}\n    other {{max, number}}}件中{value, number}件のエントリーがあります。",
+  "enc.entries.limitReached": "現在の購読期間中に許容される百科事典の最大エントリ数に達しました。",
+  "encyclopedia.pronunciation.title": "発音",
+  "encyclopedia.wip.abbreviation": "WIP",
+  "encyclopedia.wip.full": "作業中",
+  "encyclopedia.settings.templateLegend": "テンプレートの宇宙",
+  "encyclopedia.settings.templateDescription": "この百科事典の内容を他の宇宙にコピーすることを許可します。これは、物語を持っていない代わりに他の人が使用するためのテンプレートを作成する場合に最適です。",
+  "encyclopedia.settings.templateCheckbox": "これはテンプレートの宇宙です",
+  "encyclopedia.templateCopy.modalTitle": "百科事典の内容をコピーする",
+  "encyclopedia.templateCopy.description": "この百科事典の内容をあなたの宇宙にコピーして豊かにします。",
+  "encyclopedia.templateCopy.targetUniverse": "コピー先の宇宙",
+  "encyclopedia.templateCopy.finished": "コピーが完了しました",
+  "encyclopedia.templateCreateUniverse.modalTitle": "テンプレートからユニバースを作成",
+  "encyclopedia.templateCreateUniverse.description": "このテンプレートから、あらかじめシードされた百科事典のコンテンツを使って、新しいユニバースを作成してください。あなたが公開すると決めるまで、あなたの宇宙は非公開のままです。",
+  "encyclopedia.templateCreateUniverse.success": "ユニバースは正常に作成されました！リダイレクト...",
+  "encyclopedia.pronunciation.audio.play": "発音を再生する",
+  "encyclopedia.pronunciation.guide": "可能な限り<ipaLink>IPA表記を</ipaLink>使用してください。Web Speech APIの発音はベストエフォートです。",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "性別",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "子ども向け",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "伝記小説",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "あらすじ",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "メンバー",
+  "encyclopedia.templateField.locations": "場所",
+  "encyclopedia.templateField.events": "イベント",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "歴史",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "内容",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "政府",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "語",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "メモ",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "グループ",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "項目",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "タイプ",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "神",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "伝統",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "特徴",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "所在地",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "カリキュラム",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "言語",
+}

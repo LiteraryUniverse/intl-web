@@ -1,244 +1,263 @@
 export default {
-    'encyclopedia.add': 'Pridėti naują įrašą',
-    'encyclopedia.browse': 'Naršyti per enciklopediją',
-    'encyclopedia.search': 'Ieškoti enciklopedijoje',
-    'canvas.toolbar.add': 'Add:',
-    'canvas.toolbar.text': 'Text',
-    'canvas.toolbar.link': 'Link',
-    'canvas.toolbar.group': 'Group',
-    'canvas.toolbar.entry': 'Entry',
-    'canvas.encPicker.title': 'Pick an encyclopedia entry',
-    'canvas.encPicker.search': 'Search entries…',
-    'canvas.dialog.pickEntry': 'Pick encyclopedia entry',
-    'canvas.node.link': 'Link',
-    'canvas.node.encEntry': 'Entry',
-    'canvas.entry.open': 'Double-click to open entry',
-    'encyclopedia.back.universe': 'Grįžti į visatos puslapį',
-    'encyclopedia.back.workshop': 'Grįžti į dirbtuves',
-    'encyclopedia.categories': 'Kategorijos',
-    'encyclopedia.groups': 'Grupės',
-    'encyclopedia.category.character': 'Veikėjai',
-    'encyclopedia.category.event': 'Įvykiai',
-    'encyclopedia.category.group': 'Grupės',
-    'encyclopedia.category.item': 'Daiktai',
-    'encyclopedia.category.location': 'Vietos',
-    'encyclopedia.category.other': 'Kita',
-    'encyclopedia.category.state': 'Būsenos',
-    'encyclopedia.category.governments': 'Vyriausybės',
-    'encyclopedia.category.languages': 'Kalbos',
-    'encyclopedia.category.creatures': 'Būtybės',
-    'encyclopedia.category.deity': 'Dievybės',
-    'encyclopedia.category.religions': 'Religijos',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magija',
-    'encyclopedia.category.planets': 'Planetos',
-    'encyclopedia.category.species': 'Rūšys',
-    'encyclopedia.category.technologies': 'Technologijos',
-    'encyclopedia.category.families': 'Šeimos',
-    'encyclopedia.category.jobs': 'Darbo vietos',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Transporto priemonės',
-    'encyclopedia.category.diseases': 'Ligos',
-    'encyclopedia.category.traditions': 'Tradicijos',
-    'encyclopedia.category.sports': 'Sportas',
-    'encyclopedia.category.food': 'Maistas',
-    'encyclopedia.category.landmarks': 'Orientyrai',
-    'encyclopedia.category.buildings': 'Pastatai',
-    'encyclopedia.category.schools': 'Mokyklos',
-    'encyclopedia.category.continents': 'Žemynai',
-    'encyclopedia.category.villages': 'Kaimai',
-    'encyclopedia.category.towns': 'Miestai',
-    'encyclopedia.category.cities': 'Miestai',
-    'encyclopedia.category.settlements': 'Atsiskaitymai',
-    'encyclopedia.category.countries': 'Šalys',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {Nėra susijusių įrašų}
-    one {1 susijęs įrašas}
-    other {# susiję įrašai}
-  } rasti.`,
-    'encyclopedia.help.text': 'Naudokite meniu kairėje, kad naviguotumėte tarp elementų enciklopedijoje. Kai pasirinksite elementą, jis bus rodomas vietoj šio teksto.',
-    'encyclopedia.help.sidebar': 'Įrankių juosta šoninėje panelėje',
-    'encyclopedia.help.sidebar.text': 'Sveiki atvykę į savo istoriją! Šioje šoninėje juostoje galite lengvai pasiekti visus su jūsų istorija susijusius išteklius. Pažymėkite viršuje esančias piktogramas, kad pamatytumėte naujausius komentarus, savo pastabas, atliktumėte paiešką enciklopedijoje, naršytumėte ir pridėtumėte naujų įrašų į savo enciklopediją. Jei norite pridėti ryšį prie įrašo iš istorijos teksto, pasirinkite tekstą, kuriame norite jį patalpinti, ir spustelėkite mygtuką Prijungti. Tuomet būsite paraginti surasti ir pasirinkti elementą.',
-    'encyclopedia.intro': 'Sveiki atvykę į {universe} enciklopediją.',
-    'encyclopedia.add.title': 'Pridėkite naują įrašą į enciklopediją',
-    'encyclopedia.add.heading': 'Ką norite pridėti?',
-    'encyclopedia.add.moresoon': 'Daugiau kategorijų greitai bus!',
-    'encyclopedia.create': `Sukurti naują {category, select,
-    character {veikėjas}
-    event {įvykis}
-    group {grupė}
-    item {daiktas}
-    location {vieta}
-    other {užrašas}
-    state {valstybė}
-    governments {vyriausybė}
-    languages {kalba}
-    creatures {būtybė}
-    deity {dievybė}
-    religions {religija}
-    flora {flora}
-    magic {magija}
-    planets {planeta}
-    species {rūšis}
-    technologies {technologija}
-    families {šeima}
-    jobs {darbas}
-    lore {legendos}
-    vehicles {transporto priemonė}
-    diseases {liga}
-    traditions {tradicija}
-    food {maistas}
-    sports {sportas}
-    landmarks {įžymybė}
-    buildings {pastatas}
-    schools {mokykla}
-    continents {žemynas}
-    villages {kaimai}
-    towns {miestai}
-    cities {miestai}
-    settlements {gyvenvietė}
-    countries {šalis}
-  }`,
-    'encyclopedia.create.header': `Kurti naują {category, select,
-    character {veikėją}
-    event {įvykį}
-    group {grupę}
-    item {daiktą}
-    location {vietą}
-    other {užrašą}
-    state {valstybę}
-    governments {vyriausybę}
-    languages {kalbą}
-    creatures {būtybę}
-    deity {dievybę}
-    religions {religiją}
-    flora {florą}
-    magic {magiją}
-    planets {planetą}
-    species {rūšį}
-    technologies {technologiją}
-    families {šeima}
-    jobs {darbas}
-    lore {legendos}
-    vehicles {transporto priemonė}
-    diseases {liga}
-    traditions {tradicija}
-    food {maistas}
-    sports {sportas}
-    landmarks {įžymybė}
-    buildings {pastatas}
-    schools {mokykla}
-    continents {žemynas}
-    villages {kaimas}
-    towns {miestas}
-    cities {miestas}
-    settlements {gyvenvietė}
-    countries {šalis}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Įrašo kategorija: {category, select,
-    character {Personažas}
-    event {Įvykis}
-    group {Grupė}
-    item {Daiktas}
-    location {Vieta}
-    other {Pastaba}
-    state {Valstybė}
-    governments {Valdžia}
-    languages {Kalba}
-    creatures {Būtybė}
-    deity {Dievybė}
-    religions {Religija}
-    flora {Flora}
-    magic {Magija}
-    planets {Planeta}
-    species {Rūšis}
-    technologies {Technologija}
-    families {Šeima}
-    jobs {Darbas}
-    lore {Garsenybės}
-    vehicles {Transporto priemonė}
-    diseases {Liga}
-    traditions {Tradicija}
-    food {Maistas}
-    sports {Sportas}
-    landmarks {Įžymybė}
-    buildings {Pastatas}
-    schools {Mokykla}
-    continents {Žemynas}
-    villages {Kaimas}
-    towns {Miestas}
-    cities {Miestas}
-    settlements {Gyvenvietė}
-    countries {Šalis}
-  }`,
-    'encyclopedia.entry.category.legend': 'Kategorija',
-    'encyclopedia.fields.add': 'Pridėkite naują lauką',
-    'encyclopedia.fields.text': 'Apibrėžimas',
-    'encyclopedia.fields.textarea': 'Tekstas',
-    'encyclopedia.fields.connection': 'Ryšys',
-    'encyclopedia.fields.time': 'Laikas',
-    'encyclopedia.fields.image': 'Vaizdas',
-    'encyclopedia.fields.canvas': 'Canvas',
-    'encyclopedia.visibility': 'Matomumas',
-    'encyclopedia.public': 'Viešas',
-    'encyclopedia.private': 'Privatus',
-    'encyclopedia.container': 'Konteineris',
-    'encyclopedia.container.desc': 'Padarykite šį įrašą naujos įrašų grupės talpykla. Taip jis bus paslėptas nuo kategorijų sąrašo.',
-    'encyclopedia.entry.name': 'Įrašo pavadinimas',
-    'encyclopedia.summary': 'Santrauka',
-    'encyclopedia.summary.desc': 'Tai yra santrauka, kuri bus vienintelė skaitytojui rodoma pradinė informacija.',
-    'encyclopedia.parent': 'Pagrindinis įrašas',
-    'encyclopedia.related': 'Susiję įrašai',
-    'encyclopedia.errors.tags': 'Galite turėti tik 10 žymių vienam įrašui.',
-    'encyclopedia.field.private': 'Privatus laukas',
-    'encyclopedia.ft.indev': 'Ši parinktis yra kūrimo procese.',
-    'encyclopedia.connections.remove': 'Pašalinti ryšį',
-    'encyclopedia.connections.extra': 'Papildoma informacija',
-    'encyclopedia.connections.existing': 'Esamas įrašas',
-    'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Viršelio paveikslėlis',
-    'encyclopedia.translation.title': 'Sveiki atvykę į {universe} visatos vertimą!',
-    'encyclopedia.translation.desc': 'Šis enciklopedijos sąsajos naudojamas vertimui į {language}. Pasirinkite esamus įrašus sąraše kairėje, norėdami pradėti jų vertimą.',
-    'encyclopedia.welcome.totalEntries': `Šioje visatoje yra {totalEntries, plural, 
-    zero {įrašai}
-    one {yra vienas įrašas}
-    other {yra # įrašai}
-  }.`,
-    'encyclopedia.settings.title': 'Enciklopedijos nustatymai',
-    'encyclopedia.settings.categoriesDesc': 'Įjunkite ir išjunkite kategorijas, kurias norite naudoti savo enciklopedijoje.',
-    'encyclopedia.settings.introText': 'Sveikinimo pranešimas, kuris bus rodomas po visatos aprašymo.',
-    'encyclopedia.fields.placeholder': 'Lauko pavadinimas',
-    'encyclopedia.fields.delete': 'Ištrinti lauką',
-    'encyclopedia.timeOption.fictionalDate': 'Fiktyvusis data',
-    'encyclopedia.timeOption.fictionalTime': 'Fiktyvusis laikas',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fiktyvusis data ir laikas',
-    'encyclopedia.timeOption.date': 'Data',
-    'encyclopedia.timeOption.time': 'Laikas',
-    'encyclopedia.timeOption.dateTime': 'Data ir laikas',
-    'encyclopedia.settings.groupByCategories': 'Įtraukti kategorijas grupės sąraše',
-    'encyclopedia.menuOpen': 'Atidaryti enciklopedijos meniu',
-    'encyclopedia.menuClose': 'Uždaryti enciklopedijos meniu',
-    'encyclopedia.menuAria': 'Enciklopedijos meniu',
-    'enc.newField': 'Naujas laukas',
-    'enc.entries.limit': `Jūs šiuo metu turite {value, number} iš {max, plural,
-    =0 {neribotų}
-    other {{max, number}}
-  } įrašų.`,
-    'enc.entries.limitReached': 'Jūs pasiekėte maksimalų leistiną enciklopedijos įrašų skaičių jūsų dabartinei prenumeratai.',
-    'encyclopedia.pronunciation.title': 'Tarimas',
-    'encyclopedia.wip.abbreviation': 'Vyksta darbai',
-    'encyclopedia.wip.full': 'Darbai vyksta',
-    'encyclopedia.settings.templateLegend': 'Šablonų visata',
-    'encyclopedia.settings.templateDescription': 'Leisti nukopijuoti šios enciklopedijos turinį į kitas visatas. Tai geriausia, jei neturite jokių pasakojimų ir vietoj to tik kuriate šabloną, kurį kiti galės naudoti.',
-    'encyclopedia.settings.templateCheckbox': 'Tai yra šablonų visata',
-    'encyclopedia.templateCopy.modalTitle': 'Nukopijuoti enciklopedijos turinį',
-    'encyclopedia.templateCopy.description': 'Nukopijuokite šios enciklopedijos turinį į savo visatą, kad ją papildytumėte.',
-    'encyclopedia.templateCopy.targetUniverse': 'Visata, į kurią kopijuoti',
-    'encyclopedia.templateCopy.finished': 'Kopijavimas baigtas',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Sukurti visatą iš šablono',
-    'encyclopedia.templateCreateUniverse.description': 'Sukurkite naują visatą su iš anksto įkeltu enciklopedijos turiniu iš šio šablono. Jūsų visata išliks privati, kol nuspręsite ją paviešinti.',
-    'encyclopedia.templateCreateUniverse.success': 'Visata sukurta sėkmingai! Peradresavimas...',
-    'encyclopedia.pronunciation.audio.play': 'Groti tarimą',
-    'encyclopedia.pronunciation.guide': 'Jei įmanoma, naudokite <ipaLink>IPA užrašą</ipaLink>. Web Speech API tarimas yra geriausias; žr. <webSpeechLink>MDN dokumentus</webSpeechLink>.'
-};
+  "encyclopedia.add": "Pridėti naują įrašą",
+  "encyclopedia.browse": "Naršyti per enciklopediją",
+  "encyclopedia.search": "Ieškoti enciklopedijoje",
+  "canvas.toolbar.add": "Add:",
+  "canvas.toolbar.text": "Text",
+  "canvas.toolbar.link": "Link",
+  "canvas.toolbar.group": "Group",
+  "canvas.toolbar.entry": "Entry",
+  "canvas.encPicker.title": "Pick an encyclopedia entry",
+  "canvas.encPicker.search": "Search entries…",
+  "canvas.dialog.pickEntry": "Pick encyclopedia entry",
+  "canvas.node.link": "Link",
+  "canvas.node.encEntry": "Entry",
+  "canvas.entry.open": "Double-click to open entry",
+  "encyclopedia.back.universe": "Grįžti į visatos puslapį",
+  "encyclopedia.back.workshop": "Grįžti į dirbtuves",
+  "encyclopedia.categories": "Kategorijos",
+  "encyclopedia.groups": "Grupės",
+  "encyclopedia.category.character": "Veikėjai",
+  "encyclopedia.category.event": "Įvykiai",
+  "encyclopedia.category.group": "Grupės",
+  "encyclopedia.category.item": "Daiktai",
+  "encyclopedia.category.location": "Vietos",
+  "encyclopedia.category.other": "Kita",
+  "encyclopedia.category.state": "Būsenos",
+  "encyclopedia.category.governments": "Vyriausybės",
+  "encyclopedia.category.languages": "Kalbos",
+  "encyclopedia.category.creatures": "Būtybės",
+  "encyclopedia.category.deity": "Dievybės",
+  "encyclopedia.category.religions": "Religijos",
+  "encyclopedia.category.flora": "Flora",
+  "encyclopedia.category.magic": "Magija",
+  "encyclopedia.category.planets": "Planetos",
+  "encyclopedia.category.species": "Rūšys",
+  "encyclopedia.category.technologies": "Technologijos",
+  "encyclopedia.category.families": "Šeimos",
+  "encyclopedia.category.jobs": "Darbo vietos",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Transporto priemonės",
+  "encyclopedia.category.diseases": "Ligos",
+  "encyclopedia.category.traditions": "Tradicijos",
+  "encyclopedia.category.sports": "Sportas",
+  "encyclopedia.category.food": "Maistas",
+  "encyclopedia.category.landmarks": "Orientyrai",
+  "encyclopedia.category.buildings": "Pastatai",
+  "encyclopedia.category.schools": "Mokyklos",
+  "encyclopedia.category.continents": "Žemynai",
+  "encyclopedia.category.villages": "Kaimai",
+  "encyclopedia.category.towns": "Miestai",
+  "encyclopedia.category.cities": "Miestai",
+  "encyclopedia.category.settlements": "Atsiskaitymai",
+  "encyclopedia.category.countries": "Šalys",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {Nėra susijusių įrašų}\n    one {1 susijęs įrašas}\n    other {# susiję įrašai}\n  } rasti.",
+  "encyclopedia.help.text": "Naudokite meniu kairėje, kad naviguotumėte tarp elementų enciklopedijoje. Kai pasirinksite elementą, jis bus rodomas vietoj šio teksto.",
+  "encyclopedia.help.sidebar": "Įrankių juosta šoninėje panelėje",
+  "encyclopedia.help.sidebar.text": "Sveiki atvykę į savo istoriją! Šioje šoninėje juostoje galite lengvai pasiekti visus su jūsų istorija susijusius išteklius. Pažymėkite viršuje esančias piktogramas, kad pamatytumėte naujausius komentarus, savo pastabas, atliktumėte paiešką enciklopedijoje, naršytumėte ir pridėtumėte naujų įrašų į savo enciklopediją. Jei norite pridėti ryšį prie įrašo iš istorijos teksto, pasirinkite tekstą, kuriame norite jį patalpinti, ir spustelėkite mygtuką Prijungti. Tuomet būsite paraginti surasti ir pasirinkti elementą.",
+  "encyclopedia.intro": "Sveiki atvykę į {universe} enciklopediją.",
+  "encyclopedia.add.title": "Pridėkite naują įrašą į enciklopediją",
+  "encyclopedia.add.heading": "Ką norite pridėti?",
+  "encyclopedia.add.moresoon": "Daugiau kategorijų greitai bus!",
+  "encyclopedia.create": "Sukurti naują {category, select,\n    character {veikėjas}\n    event {įvykis}\n    group {grupė}\n    item {daiktas}\n    location {vieta}\n    other {užrašas}\n    state {valstybė}\n    governments {vyriausybė}\n    languages {kalba}\n    creatures {būtybė}\n    deity {dievybė}\n    religions {religija}\n    flora {flora}\n    magic {magija}\n    planets {planeta}\n    species {rūšis}\n    technologies {technologija}\n    families {šeima}\n    jobs {darbas}\n    lore {legendos}\n    vehicles {transporto priemonė}\n    diseases {liga}\n    traditions {tradicija}\n    food {maistas}\n    sports {sportas}\n    landmarks {įžymybė}\n    buildings {pastatas}\n    schools {mokykla}\n    continents {žemynas}\n    villages {kaimai}\n    towns {miestai}\n    cities {miestai}\n    settlements {gyvenvietė}\n    countries {šalis}\n  }",
+  "encyclopedia.create.header": "Kurti naują {category, select,\n    character {veikėją}\n    event {įvykį}\n    group {grupę}\n    item {daiktą}\n    location {vietą}\n    other {užrašą}\n    state {valstybę}\n    governments {vyriausybę}\n    languages {kalbą}\n    creatures {būtybę}\n    deity {dievybę}\n    religions {religiją}\n    flora {florą}\n    magic {magiją}\n    planets {planetą}\n    species {rūšį}\n    technologies {technologiją}\n    families {šeima}\n    jobs {darbas}\n    lore {legendos}\n    vehicles {transporto priemonė}\n    diseases {liga}\n    traditions {tradicija}\n    food {maistas}\n    sports {sportas}\n    landmarks {įžymybė}\n    buildings {pastatas}\n    schools {mokykla}\n    continents {žemynas}\n    villages {kaimas}\n    towns {miestas}\n    cities {miestas}\n    settlements {gyvenvietė}\n    countries {šalis}\n  } in {universe}",
+  "encyclopedia.entry.category": "Įrašo kategorija: {category, select,\n    character {Personažas}\n    event {Įvykis}\n    group {Grupė}\n    item {Daiktas}\n    location {Vieta}\n    other {Pastaba}\n    state {Valstybė}\n    governments {Valdžia}\n    languages {Kalba}\n    creatures {Būtybė}\n    deity {Dievybė}\n    religions {Religija}\n    flora {Flora}\n    magic {Magija}\n    planets {Planeta}\n    species {Rūšis}\n    technologies {Technologija}\n    families {Šeima}\n    jobs {Darbas}\n    lore {Garsenybės}\n    vehicles {Transporto priemonė}\n    diseases {Liga}\n    traditions {Tradicija}\n    food {Maistas}\n    sports {Sportas}\n    landmarks {Įžymybė}\n    buildings {Pastatas}\n    schools {Mokykla}\n    continents {Žemynas}\n    villages {Kaimas}\n    towns {Miestas}\n    cities {Miestas}\n    settlements {Gyvenvietė}\n    countries {Šalis}\n  }",
+  "encyclopedia.entry.category.legend": "Kategorija",
+  "encyclopedia.fields.add": "Pridėkite naują lauką",
+  "encyclopedia.fields.text": "Apibrėžimas",
+  "encyclopedia.fields.textarea": "Tekstas",
+  "encyclopedia.fields.connection": "Ryšys",
+  "encyclopedia.fields.time": "Laikas",
+  "encyclopedia.fields.image": "Vaizdas",
+  "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.visibility": "Matomumas",
+  "encyclopedia.public": "Viešas",
+  "encyclopedia.private": "Privatus",
+  "encyclopedia.container": "Konteineris",
+  "encyclopedia.container.desc": "Padarykite šį įrašą naujos įrašų grupės talpykla. Taip jis bus paslėptas nuo kategorijų sąrašo.",
+  "encyclopedia.entry.name": "Įrašo pavadinimas",
+  "encyclopedia.summary": "Santrauka",
+  "encyclopedia.summary.desc": "Tai yra santrauka, kuri bus vienintelė skaitytojui rodoma pradinė informacija.",
+  "encyclopedia.parent": "Pagrindinis įrašas",
+  "encyclopedia.related": "Susiję įrašai",
+  "encyclopedia.errors.tags": "Galite turėti tik 10 žymių vienam įrašui.",
+  "encyclopedia.field.private": "Privatus laukas",
+  "encyclopedia.ft.indev": "Ši parinktis yra kūrimo procese.",
+  "encyclopedia.connections.remove": "Pašalinti ryšį",
+  "encyclopedia.connections.extra": "Papildoma informacija",
+  "encyclopedia.connections.existing": "Esamas įrašas",
+  "encyclopedia.connections.existing.abbr": "EE",
+  "encyclopedia.cover": "Viršelio paveikslėlis",
+  "encyclopedia.translation.title": "Sveiki atvykę į {universe} visatos vertimą!",
+  "encyclopedia.translation.desc": "Šis enciklopedijos sąsajos naudojamas vertimui į {language}. Pasirinkite esamus įrašus sąraše kairėje, norėdami pradėti jų vertimą.",
+  "encyclopedia.welcome.totalEntries": "Šioje visatoje yra {totalEntries, plural, \n    zero {įrašai}\n    one {yra vienas įrašas}\n    other {yra # įrašai}\n  }.",
+  "encyclopedia.settings.title": "Enciklopedijos nustatymai",
+  "encyclopedia.settings.categoriesDesc": "Įjunkite ir išjunkite kategorijas, kurias norite naudoti savo enciklopedijoje.",
+  "encyclopedia.settings.introText": "Sveikinimo pranešimas, kuris bus rodomas po visatos aprašymo.",
+  "encyclopedia.fields.placeholder": "Lauko pavadinimas",
+  "encyclopedia.fields.delete": "Ištrinti lauką",
+  "encyclopedia.timeOption.fictionalDate": "Fiktyvusis data",
+  "encyclopedia.timeOption.fictionalTime": "Fiktyvusis laikas",
+  "encyclopedia.timeOption.fictionalDateTime": "Fiktyvusis data ir laikas",
+  "encyclopedia.timeOption.date": "Data",
+  "encyclopedia.timeOption.time": "Laikas",
+  "encyclopedia.timeOption.dateTime": "Data ir laikas",
+  "encyclopedia.settings.groupByCategories": "Įtraukti kategorijas grupės sąraše",
+  "encyclopedia.menuOpen": "Atidaryti enciklopedijos meniu",
+  "encyclopedia.menuClose": "Uždaryti enciklopedijos meniu",
+  "encyclopedia.menuAria": "Enciklopedijos meniu",
+  "enc.newField": "Naujas laukas",
+  "enc.entries.limit": "Jūs šiuo metu turite {value, number} iš {max, plural,\n    =0 {neribotų}\n    other {{max, number}}\n  } įrašų.",
+  "enc.entries.limitReached": "Jūs pasiekėte maksimalų leistiną enciklopedijos įrašų skaičių jūsų dabartinei prenumeratai.",
+  "encyclopedia.pronunciation.title": "Tarimas",
+  "encyclopedia.wip.abbreviation": "Vyksta darbai",
+  "encyclopedia.wip.full": "Darbai vyksta",
+  "encyclopedia.settings.templateLegend": "Šablonų visata",
+  "encyclopedia.settings.templateDescription": "Leisti nukopijuoti šios enciklopedijos turinį į kitas visatas. Tai geriausia, jei neturite jokių pasakojimų ir vietoj to tik kuriate šabloną, kurį kiti galės naudoti.",
+  "encyclopedia.settings.templateCheckbox": "Tai yra šablonų visata",
+  "encyclopedia.templateCopy.modalTitle": "Nukopijuoti enciklopedijos turinį",
+  "encyclopedia.templateCopy.description": "Nukopijuokite šios enciklopedijos turinį į savo visatą, kad ją papildytumėte.",
+  "encyclopedia.templateCopy.targetUniverse": "Visata, į kurią kopijuoti",
+  "encyclopedia.templateCopy.finished": "Kopijavimas baigtas",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Sukurti visatą iš šablono",
+  "encyclopedia.templateCreateUniverse.description": "Sukurkite naują visatą su iš anksto įkeltu enciklopedijos turiniu iš šio šablono. Jūsų visata išliks privati, kol nuspręsite ją paviešinti.",
+  "encyclopedia.templateCreateUniverse.success": "Visata sukurta sėkmingai! Peradresavimas...",
+  "encyclopedia.pronunciation.audio.play": "Groti tarimą",
+  "encyclopedia.pronunciation.guide": "Jei įmanoma, naudokite <ipaLink>IPA užrašą</ipaLink>. Web Speech API tarimas yra geriausias; žr. <webSpeechLink>MDN dokumentus</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "Lytis",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Vaikai",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "Biografija",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "Aprašymas",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "Nariai",
+  "encyclopedia.templateField.locations": "Vietos",
+  "encyclopedia.templateField.events": "Įvykiai",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "Istorija",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Turinys",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "Vyriausybės",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "Kalbos",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "Pastabos",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "Grupės",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "Daiktai",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Tipas",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "Dievybės",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Tradicijos",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "Funkcijos",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Vieta",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Mokymo programa",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "Kalba",
+}
