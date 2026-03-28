@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'by',
     'sharing.canvas.chapter': 'Luku {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Julkaistu osoitteessa {date}'
+    'sharing.canvas.publishesOn': 'Julkaistu osoitteessa {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
