@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': '已儲存的定價設定。',
     'workshop.monetization.synced': 'Stripe 產品與價格同步。',
     'workshop.monetization.syncStripe': '與 Stripe 同步',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `要添加更多的 {type, select,
     collaborator {合作者}
     beta {測讀者}
