@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'بواسطة',
     'sharing.canvas.chapter': 'الفصل {chapterNumber}',
-    'sharing.canvas.publishesOn': 'ينشر على {date}'
+    'sharing.canvas.publishesOn': 'ينشر على {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
