@@ -67,4 +67,6 @@ export default {
   'sharing.canvas.by': 'by',
   'sharing.canvas.chapter': 'Chapter {chapterNumber}',
   'sharing.canvas.publishesOn': 'Publishes on {date}',
+
+  'sharing.advanced.shareQR': 'Share QR Link',
 }
