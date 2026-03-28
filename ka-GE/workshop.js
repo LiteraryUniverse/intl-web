@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'ფასების პარამეტრები შენახულია.',
     'workshop.monetization.synced': 'Stripe-ის პროდუქტები და ფასები სინქრონიზებულია.',
     'workshop.monetization.syncStripe': 'სინქრონიზაცია Stripe-თან',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `რომ დაამატოთ მეტი {type, select,
     collaborator {თანამშრომლისთვის}
     beta {ბეტა წამომიყვანებელი}
