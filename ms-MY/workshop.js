@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Tetapan harga disimpan.',
     'workshop.monetization.synced': 'Produk dan harga Stripe diselaraskan.',
     'workshop.monetization.syncStripe': 'Segerakkan dengan Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Untuk menambah lebih banyak {type, select,
     collaborator {rakan kongsi}
     beta {pembaca beta}
