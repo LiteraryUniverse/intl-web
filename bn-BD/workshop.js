@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'মূল্য নির্ধারণের সেটিংস সংরক্ষিত হয়েছে।',
     'workshop.monetization.synced': 'স্ট্রাইপ পণ্য এবং দাম সিঙ্ক হয়েছে।',
     'workshop.monetization.syncStripe': 'স্ট্রাইপের সাথে সিঙ্ক করুন',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `আরও যোগ করতে {type, select,
     collaborator {সহযোগী}
     beta {বিটা পাঠক}
