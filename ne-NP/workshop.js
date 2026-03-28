@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'मूल्य निर्धारण सेटिङहरू सुरक्षित गरियो।',
     'workshop.monetization.synced': 'Stripe का उत्पादनहरू र मूल्यहरू सिङ्क गरियो।',
     'workshop.monetization.syncStripe': 'Stripe सँग सिङ्क गर्नुहोस्',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `थप {type, select,
     collaborator {सहकर्मी}
     beta {बेटा पाठक}
