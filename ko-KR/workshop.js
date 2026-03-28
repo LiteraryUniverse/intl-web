@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': '가격 설정이 저장되었습니다.',
     'workshop.monetization.synced': '스트라이프 제품 및 가격이 동기화됩니다.',
     'workshop.monetization.syncStripe': '스트라이프와 동기화',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `더 많은 {type, select,
     collaborator {공동 창작자,}
     beta {베타 리더,}
