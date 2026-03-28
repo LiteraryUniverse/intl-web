@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Cài đặt giá đã được lưu.',
     'workshop.monetization.synced': 'Các sản phẩm và giá cả của Stripe đã được đồng bộ hóa.',
     'workshop.monetization.syncStripe': 'Đồng bộ hóa với Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Để thêm nhiều {type, select,
     collaborator {cộng tác viên}
     beta {người đọc bản thử nghiệm}
