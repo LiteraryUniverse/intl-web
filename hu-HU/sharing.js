@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'a',
     'sharing.canvas.chapter': 'Fejezet {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Közzéteszi a {date}oldalon.'
+    'sharing.canvas.publishesOn': 'Közzéteszi a {date}oldalon.',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
