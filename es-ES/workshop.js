@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Ajustes de precios guardados.',
     'workshop.monetization.synced': 'Productos y precios de Stripe sincronizados.',
     'workshop.monetization.syncStripe': 'Sincronización con Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Para añadir más {type, select,
     collaborator {colaboradores}
     beta {lectores beta}
