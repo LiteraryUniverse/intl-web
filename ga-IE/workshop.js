@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Socruithe praghsála sábháilte.',
     'workshop.monetization.synced': 'Sioncronaithe táirgí agus praghsanna Stripe.',
     'workshop.monetization.syncStripe': 'Sioncronú le Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Chun níos mó {type, select,
     collaborator {comhoibritheoirí}
     beta {léitheoirí beta}
