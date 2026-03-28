@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Hinnakujunduse seaded salvestatud.',
     'workshop.monetization.synced': 'Stripe\'i tooted ja hinnad on sünkroonitud.',
     'workshop.monetization.syncStripe': 'Sünkroniseerimine Stripe\'iga',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Rohkemate {type, select,
     collaborator {kaasautorite}
     beta {beetakirjutajate}
