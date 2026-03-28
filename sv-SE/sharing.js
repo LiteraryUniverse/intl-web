@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'av',
     'sharing.canvas.chapter': 'Kapitel {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Publiceras på {date}'
+    'sharing.canvas.publishesOn': 'Publiceras på {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
