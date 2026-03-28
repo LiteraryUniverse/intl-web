@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Uložení nastavení cen.',
     'workshop.monetization.synced': 'Synchronizace produktů a cen služby Stripe.',
     'workshop.monetization.syncStripe': 'Synchronizace se službou Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Chcete-li přidat více {type, select,
     collaborator {spolupracovníků}
     beta {beta čtenářů}
