@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'إعدادات التسعير المحفوظة.',
     'workshop.monetization.synced': 'مزامنة منتجات سترايب وأسعارها.',
     'workshop.monetization.syncStripe': 'المزامنة مع Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `لإضافة المزيد {type, select,
     collaborator {المتعاونين}
     beta {القراء التجريبيين}
