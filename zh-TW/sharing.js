@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': '由',
     'sharing.canvas.chapter': '章節 {chapterNumber}',
-    'sharing.canvas.publishesOn': '發表於 {date}'
+    'sharing.canvas.publishesOn': '發表於 {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
