@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Išsaugoti kainų nustatymo nustatymai.',
     'workshop.monetization.synced': 'Sinchronizuoti "Stripe" produktai ir kainos.',
     'workshop.monetization.syncStripe': 'Sinchronizavimas su "Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Norėdami pridėti daugiau {type, select,
     collaborator {bendradarbių}
     beta {beta skaitytojų}
