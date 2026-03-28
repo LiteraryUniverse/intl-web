@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'によって',
     'sharing.canvas.chapter': 'チャプター {chapterNumber}',
-    'sharing.canvas.publishesOn': '{date}。'
+    'sharing.canvas.publishesOn': '{date}。',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };
