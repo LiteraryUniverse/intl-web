@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'การตั้งค่าการกำหนดราคาถูกบันทึกไว้แล้ว',
     'workshop.monetization.synced': 'สินค้าและราคาของ Stripe ถูกซิงค์เรียบร้อยแล้ว',
     'workshop.monetization.syncStripe': 'ซิงค์กับ Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `ในการเพิ่ม {type, select,
     collaborator {ผู้ร่วมงาน}
     beta {ผู้อ่านเบต้า}
