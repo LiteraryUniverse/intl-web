@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Hinnoitteluasetukset tallennettu.',
     'workshop.monetization.synced': 'Stripe-tuotteet ja -hinnat synkronoitu.',
     'workshop.monetization.syncStripe': 'Synkronoi Stripen kanssa',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Lisätäksesi lisää {type, select,
     collaborator {yhteistyökumppaneita}
     beta {betalukijoita}
