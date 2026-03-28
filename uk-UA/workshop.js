@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Налаштування ціноутворення збережено.',
     'workshop.monetization.synced': 'Синхронізація продуктів і цін на них.',
     'workshop.monetization.syncStripe': 'Синхронізація зі стрічкою',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Щоб додати більше {type, select,
     collaborator {співавторів}
     beta {бета-читачів}
