@@ -36,6 +36,7 @@ import fanManager from "./fan_manager";
 import readingList from "./reading_list";
 import personalNotes from "./personalNotes";
 import courses from "./courses";
+import diary from "./diary";
 
 export default {
   locales: ["en", "en-US", "en-UK", "en-CA", "en-AU", "en-NZ"],
@@ -77,4 +78,5 @@ export default {
   ...readingList,
   ...personalNotes,
   ...courses,
+  ...diary,
 };
