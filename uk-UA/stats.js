@@ -107,5 +107,10 @@ export default {
     'stats.storyReadingAnalytics.weekHour': 'Reader activity by week and hour',
     'stats.storyReadingAnalytics.weekHourTooltip': '{day} at {hour}: {readers, number} readers, {sessions, number} sessions, {duration}',
     'stats.storyReadingAnalytics.topWindows': 'Top reading windows',
-    'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics'
+    'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics',
+    // Writing history day tooltip - per-category breakdown
+    'stats.writingHistory.dayTooltip.stories': 'Історії: {words}',
+    'stats.writingHistory.dayTooltip.encyclopedia': 'Енциклопедія: {words}',
+    'stats.writingHistory.dayTooltip.blog': 'Блог: {words}',
+    'stats.writingHistory.dayTooltip.diary': 'Щоденник: {words}'
 };
