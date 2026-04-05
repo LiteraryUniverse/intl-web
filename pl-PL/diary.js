@@ -5,22 +5,10 @@ export default {
  'diary.today': "Today's Diary",
  'diary.writeToday': "Write today's entry",
  'diary.viewCalendar': 'View full diary calendar',
- // Calendar
- 'diary.calendar.monthYear': '{date, date, ::yMMMM}',
- 'diary.calendar.mon': 'Mon',
- 'diary.calendar.tue': 'Tue',
- 'diary.calendar.wed': 'Wed',
- 'diary.calendar.thu': 'Thu',
- 'diary.calendar.fri': 'Fri',
- 'diary.calendar.sat': 'Sat',
- 'diary.calendar.sun': 'Sun',
- // Entry
+ // Entry (date formatting uses react-intl's formatDate directly)
  'diary.entry.dateDisplay': '{date, date, long}',
  'diary.entry.pageTitle': '{date, date, long}',
  'diary.entry.seoTitle': 'Diary - {date, date, medium}',
- // Navigation
- 'diary.nav.prevDay': '{date, date, ::MMMd}',
- 'diary.nav.nextDay': '{date, date, ::MMMd}',
  // Mood
  'diary.mood.label': 'How are you feeling?',
  'diary.mood.great': 'Great',
@@ -48,6 +36,7 @@ export default {
  'diary.settings.goals': 'Writing Goals',
  'diary.settings.dailyWordGoal': 'Daily word count goal',
  'diary.settings.dailyWordGoalPlaceholder': 'e.g. 500',
+ 'diary.settings.includeDiaryInStats': 'Proszę uwzględnić liczbę słów w dzienniku w statystykach pisania.',
  'diary.settings.prompts': 'Writing Prompts',
  'diary.settings.writingPromptsEnabled': 'Show writing prompts when starting a new diary entry',
  'diary.settings.dashboard': 'Dashboard',
