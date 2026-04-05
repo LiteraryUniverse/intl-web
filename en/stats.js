@@ -119,4 +119,10 @@ export default {
   'stats.storyReadingAnalytics.topWindows': 'Top reading windows',
   'stats.storyReadingAnalytics.loadError':
     'Failed to load reading analytics',
+
+  // Writing history day tooltip - per-category breakdown
+  'stats.writingHistory.dayTooltip.stories': 'Stories: {words}',
+  'stats.writingHistory.dayTooltip.encyclopedia': 'Encyclopedia: {words}',
+  'stats.writingHistory.dayTooltip.blog': 'Blog: {words}',
+  'stats.writingHistory.dayTooltip.diary': 'Diary: {words}',
 }
