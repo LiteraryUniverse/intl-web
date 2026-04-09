@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Uniwersum',
     'common.universes': 'Uniwersa',
     'common.unpublished': 'Niepublikowane',
+    'common.role': 'Rola',
     'common.collaborator': 'Współtwórca',
     'common.collaborators': 'Współtwórcy',
     'common.translator': 'Tłumacz',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Zaproszenie wygasło',
     'invitation.expired.message': 'Ten link do zaproszenia wygasł. Jeśli masz konto, proszę sprawdzić pulpit nawigacyjny pod kątem oczekujących zaproszeń.',
     'invitation.graceExpired.title': 'Link wygasł',
-    'invitation.graceExpired.message': 'Ten link do zaproszenia wygasł. Proszę sprawdzić pulpit nawigacyjny pod kątem oczekujących zaproszeń.'
+    'invitation.graceExpired.message': 'Ten link do zaproszenia wygasł. Proszę sprawdzić pulpit nawigacyjny pod kątem oczekujących zaproszeń.',
+    'invitation.notFound.title': 'Nie znaleziono zaproszenia',
+    'invitation.notFound.message': 'Ten link do zaproszenia jest nieprawidłowy lub wygasł.'
 };
