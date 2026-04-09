@@ -55,6 +55,7 @@ export default {
     'common.universe': '宇宙',
     'common.universes': '宇宙',
     'common.unpublished': '未出版',
+    'common.role': '角色',
     'common.collaborator': '合作者',
     'common.collaborators': '合作者',
     'common.translator': '翻譯者',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': '邀請過期',
     'invitation.expired.message': '此邀請連結已過期。如果您有帳號，請檢查您的儀表板是否有待處理的邀請。',
     'invitation.graceExpired.title': '連結已過期',
-    'invitation.graceExpired.message': '此邀請連結已過期。請檢查您的儀表板，查看待定邀請。'
+    'invitation.graceExpired.message': '此邀請連結已過期。請檢查您的儀表板，查看待定邀請。',
+    'invitation.notFound.title': '未找到邀請函',
+    'invitation.notFound.message': '此邀請連結無效或已過期。'
 };
