@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Från: {requesterName}',
     'email.notifications.friendRequest.cta': 'Begäran om granskning',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Inbjudan till samarbete',
-    'email.notifications.collabInvite.title': 'Du har en inbjudan till samarbete',
-    'email.notifications.collabInvite.details': 'Inbjudare: {inviterName} - Roll: {role} - Mål: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} uppmanade dig att samarbeta på "{targetTitle}" som {role}',
+    'email.notifications.collabInvite.title': 'Du är inbjuden att samarbeta!',
+    'email.notifications.collabInvite.details': 'Inbjuden av: {inviterName} - Roll: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Inbjudan till granskning',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Inbjudan att gå med i en organisation',
-    'email.notifications.orgInvite.title': 'Du är inbjuden att gå med på {orgName}',
-    'email.notifications.orgInvite.details': 'Uppringare: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} bjöd in dig att gå med i "{orgName}"',
+    'email.notifications.orgInvite.title': 'Du är inbjuden att gå med på {orgName}!',
+    'email.notifications.orgInvite.details': 'Inbjuden av: {inviterName}',
     'email.notifications.orgInvite.cta': 'Inbjudan till granskning',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Dina dagliga uppdateringar',
