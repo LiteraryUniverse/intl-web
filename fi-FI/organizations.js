@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Luo blogikirjoituksia',
     // Email invitation strings
     'org.members.emailInvited': 'Kutsuttu sähköpostitse',
-    'org.members.emailInvite.registered': 'Rekisteröity'
+    'org.members.emailInvite.registered': 'Rekisteröity',
+    'org.members.emailInvite.sent': 'Kutsuttu sähköpostitse',
+    // Members table
+    'org.members.joined': 'Liittynyt',
+    'org.members.actions': 'Toimet',
+    'org.roles.super_admin': 'Super Admin'
 };
