@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'From: {requesterName}',
     'email.notifications.friendRequest.cta': 'Review request',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Collaboration invitation',
-    'email.notifications.collabInvite.title': 'You have a collaboration invitation',
-    'email.notifications.collabInvite.details': 'Inviter: {inviterName} • Role: {role} • Target: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} გეპატიჟათ თანამშრომლობაზე "{targetTitle}"-ზე, როგორც {role}',
+    'email.notifications.collabInvite.title': 'გეპატიჟებით თანამშრომლობაზე!',
+    'email.notifications.collabInvite.details': 'მიწვეულია: {inviterName} • როლი: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Review invitation',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invitation to join an organization',
-    'email.notifications.orgInvite.title': 'You\'re invited to join {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} გეპატიჟებათ შეუერთდეთ "{orgName} "-ს',
+    'email.notifications.orgInvite.title': 'გეპატიჟებით, შემოუერთდეთ {orgName} -ს!',
+    'email.notifications.orgInvite.details': 'მიწვეული: {inviterName}',
     'email.notifications.orgInvite.cta': 'Review invitation',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Your daily updates',
