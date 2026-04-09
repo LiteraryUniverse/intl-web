@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universumi',
     'common.universes': 'Universumit',
     'common.unpublished': 'Julkaisematon',
+    'common.role': 'Rooli',
     'common.collaborator': 'Yhteistyökumppani',
     'common.collaborators': 'Yhteistyökumppanit',
     'common.translator': 'Kääntäjä',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Kutsu rauennut',
     'invitation.expired.message': 'Tämä kutsulinkki on vanhentunut. Jos sinulla on tili, tarkista kojelaudaltasi odottavat kutsut.',
     'invitation.graceExpired.title': 'Linkki vanhentunut',
-    'invitation.graceExpired.message': 'Tämä kutsulinkki on vanhentunut. Tarkista, onko kutsuja vireillä.'
+    'invitation.graceExpired.message': 'Tämä kutsulinkki on vanhentunut. Tarkista, onko kutsuja vireillä.',
+    'invitation.notFound.title': 'Kutsua ei löydy',
+    'invitation.notFound.message': 'Tämä kutsulinkki ei ole voimassa tai sen voimassaolo on päättynyt.'
 };
