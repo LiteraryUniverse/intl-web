@@ -55,6 +55,7 @@ export default {
     'common.universe': 'ब्रह्मांड',
     'common.universes': 'ब्रह्मांडों',
     'common.unpublished': 'अप्रकाशित',
+    'common.role': 'भूमिका',
     'common.collaborator': 'सहयोगी',
     'common.collaborators': 'सहयोगी',
     'common.translator': 'अनुवादक',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'आमंत्रण समाप्त हो गया',
     'invitation.expired.message': 'यह निमंत्रण लिंक समाप्त हो चुका है। यदि आपके पास खाता है, तो कृपया लंबित निमंत्रणों के लिए अपने डैशबोर्ड की जाँच करें।',
     'invitation.graceExpired.title': 'लिंक समाप्त हो गया',
-    'invitation.graceExpired.message': 'यह निमंत्रण लिंक समाप्त हो गया है। कृपया लंबित निमंत्रणों के लिए अपने डैशबोर्ड की जाँच करें।'
+    'invitation.graceExpired.message': 'यह निमंत्रण लिंक समाप्त हो गया है। कृपया लंबित निमंत्रणों के लिए अपने डैशबोर्ड की जाँच करें।',
+    'invitation.notFound.title': 'आमंत्रण नहीं मिला',
+    'invitation.notFound.message': 'यह निमंत्रण लिंक अमान्य है या समाप्त हो चुका है।'
 };
