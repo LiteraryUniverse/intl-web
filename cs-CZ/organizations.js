@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Vytváření příspěvků na blogu',
     // Email invitation strings
     'org.members.emailInvited': 'Pozváno e-mailem',
-    'org.members.emailInvite.registered': 'Registrováno'
+    'org.members.emailInvite.registered': 'Registrováno',
+    'org.members.emailInvite.sent': 'Pozváno e-mailem',
+    // Members table
+    'org.members.joined': 'Připojil se k',
+    'org.members.actions': 'Akce',
+    'org.roles.super_admin': 'Super administrátor'
 };
