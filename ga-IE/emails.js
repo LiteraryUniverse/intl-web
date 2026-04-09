@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Ó: {requesterName}',
     'email.notifications.friendRequest.cta': 'Iarratas ar léirmheas',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Cuireadh chun comhoibriú',
-    'email.notifications.collabInvite.title': 'Tá cuireadh comhoibrithe agat',
-    'email.notifications.collabInvite.details': 'Cuireoir: {inviterName} • Ról: {role} • Sprioc: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} Tugadh cuireadh duit comhoibriú ar "{targetTitle}" mar {role}',
+    'email.notifications.collabInvite.title': 'Tugtar cuireadh duit comhoibriú!',
+    'email.notifications.collabInvite.details': 'Ar cuireadh ó: {inviterName} • Ról: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Cuireadh chun athbhreithniú a dhéanamh',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Cuireadh chun páirt a ghlacadh i n-eagraíocht',
-    'email.notifications.orgInvite.title': 'Tugtar cuireadh duit a bheith páirteach {orgName}',
-    'email.notifications.orgInvite.details': 'Aoi-thugóir: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} Tugadh cuireadh duit a bheith páirteach in "{orgName}"',
+    'email.notifications.orgInvite.title': 'Tugtar cuireadh duit a bheith páirteach in {orgName}!',
+    'email.notifications.orgInvite.details': 'Ar cuireadh ó: {inviterName}',
     'email.notifications.orgInvite.cta': 'Cuireadh chun athbhreithniú a dhéanamh',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Do nuashonruithe laethúla',
