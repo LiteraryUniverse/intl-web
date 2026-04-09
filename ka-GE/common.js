@@ -55,6 +55,7 @@ export default {
     'common.universe': 'უნივერსუმი',
     'common.universes': 'უნივერსუმები',
     'common.unpublished': 'გამოუქვეყნებელი',
+    'common.role': 'როლი',
     'common.collaborator': 'თანამშრომელი',
     'common.collaborators': 'თანამშრომლები',
     'common.translator': 'თარგმანი',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'გარდაიცვალა',
     'invitation.expired.message': 'ამ მოწვევის ბმულის ვადა გაუვიდა. თუ გაქვთ ანგარიში, გთხოვთ, შეამოწმოთ თქვენი დაფა მიმდინარე მოწვევებისთვის.',
     'invitation.graceExpired.title': 'ბმული გასულია',
-    'invitation.graceExpired.message': 'ამ მოწვევის ბმულის ვადა გაუვიდა. გთხოვთ, შეამოწმოთ თქვენი დაფა მიმდინარე მოწვევებისთვის.'
+    'invitation.graceExpired.message': 'ამ მოწვევის ბმულის ვადა გაუვიდა. გთხოვთ, შეამოწმოთ თქვენი დაფა მიმდინარე მოწვევებისთვის.',
+    'invitation.notFound.title': 'მიწვევა ვერ მოიძებნა',
+    'invitation.notFound.message': 'ეს მოსაწვევი ბმული არამართებულია ან გასულია.'
 };
