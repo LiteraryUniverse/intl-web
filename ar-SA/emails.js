@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'من: {requesterName}',
     'email.notifications.friendRequest.cta': 'طلب المراجعة',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'دعوة التعاون',
-    'email.notifications.collabInvite.title': 'لديك دعوة تعاون',
-    'email.notifications.collabInvite.details': 'الداعي: {inviterName} - الدور: {role} - الهدف: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} دعوتك للتعاون في "{targetTitle}" على الموقع {role}',
+    'email.notifications.collabInvite.title': 'أنت مدعو للتعاون!',
+    'email.notifications.collabInvite.details': 'مدعو من قبل: {inviterName} - الدور {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'مراجعة الدعوة',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'دعوة للانضمام إلى منظمة',
-    'email.notifications.orgInvite.title': 'أنت مدعو للانضمام إلى {orgName}',
-    'email.notifications.orgInvite.details': 'الداعي: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} دعوتك للانضمام إلى "{orgName}"',
+    'email.notifications.orgInvite.title': 'أنت مدعو للانضمام إلى {orgName}!',
+    'email.notifications.orgInvite.details': 'مدعو من قبل: {inviterName}',
     'email.notifications.orgInvite.cta': 'مراجعة الدعوة',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'تحديثاتك اليومية',
