@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Alle workshopartikelen bekijken',
     'org.permissions.forum.manager': 'Beheer forums',
     'org.permissions.blog.manage': 'Beheer blog',
-    'org.permissions.blog.post': 'Blogberichten maken'
+    'org.permissions.blog.post': 'Blogberichten maken',
+    // Email invitation strings
+    'org.members.emailInvited': 'Uitgenodigd per e-mail',
+    'org.members.emailInvite.registered': 'Geregistreerd'
 };
