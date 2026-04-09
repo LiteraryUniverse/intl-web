@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universo',
     'common.universes': 'Universos',
     'common.unpublished': 'Sin publicar',
+    'common.role': 'Papel',
     'common.collaborator': 'Colaborador',
     'common.collaborators': 'Colaboradores',
     'common.translator': 'Traductor',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Invitación caducada',
     'invitation.expired.message': 'Este enlace de invitación ha caducado. Si tiene una cuenta, compruebe si hay invitaciones pendientes en su panel de control.',
     'invitation.graceExpired.title': 'Enlace caducado',
-    'invitation.graceExpired.message': 'Este enlace de invitación ha caducado. Por favor, compruebe en su tablero si hay invitaciones pendientes.'
+    'invitation.graceExpired.message': 'Este enlace de invitación ha caducado. Por favor, compruebe en su tablero si hay invitaciones pendientes.',
+    'invitation.notFound.title': 'Invitación no encontrada',
+    'invitation.notFound.message': 'Este enlace de invitación no es válido o ha caducado.'
 };
