@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Vũ trụ',
     'common.universes': 'Các vũ trụ',
     'common.unpublished': 'Chưa được xuất bản',
+    'common.role': 'Vai trò',
     'common.collaborator': 'Cộng Tác Viên',
     'common.collaborators': 'Cộng tác viên',
     'common.translator': 'Dịch giả',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Lời mời đã hết hạn',
     'invitation.expired.message': 'Liên kết mời này đã hết hạn. Nếu bạn đã có tài khoản, vui lòng kiểm tra trang tổng quan để xem các lời mời đang chờ xử lý.',
     'invitation.graceExpired.title': 'Liên kết đã hết hạn',
-    'invitation.graceExpired.message': 'Liên kết lời mời này đã hết hạn. Vui lòng kiểm tra bảng điều khiển để xem các lời mời đang chờ xử lý.'
+    'invitation.graceExpired.message': 'Liên kết lời mời này đã hết hạn. Vui lòng kiểm tra bảng điều khiển để xem các lời mời đang chờ xử lý.',
+    'invitation.notFound.title': 'Không tìm thấy lời mời',
+    'invitation.notFound.message': 'Liên kết mời này không hợp lệ hoặc đã hết hạn.'
 };
