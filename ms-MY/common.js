@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Univers',
     'common.universes': 'Univers-univers',
     'common.unpublished': 'Tidak diterbitkan',
+    'common.role': 'Peranan',
     'common.collaborator': 'Rakan Kongsi',
     'common.collaborators': 'Rakan Kongsi',
     'common.translator': 'Penterjemah',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Jemputan telah tamat tempoh',
     'invitation.expired.message': 'Pautan jemputan ini telah tamat tempoh. Jika anda mempunyai akaun, sila semak papan pemuka anda untuk jemputan yang belum diproses.',
     'invitation.graceExpired.title': 'Pautan telah tamat tempoh',
-    'invitation.graceExpired.message': 'Pautan jemputan ini telah tamat tempoh. Sila semak papan pemuka anda untuk jemputan yang belum diproses.'
+    'invitation.graceExpired.message': 'Pautan jemputan ini telah tamat tempoh. Sila semak papan pemuka anda untuk jemputan yang belum diproses.',
+    'invitation.notFound.title': 'Jemputan tidak ditemui',
+    'invitation.notFound.message': 'Pautan jemputan ini tidak sah atau telah tamat tempoh.'
 };
