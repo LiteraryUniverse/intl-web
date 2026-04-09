@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Create blog posts',
     // Email invitation strings
     'org.members.emailInvited': 'ईमेल द्वारा आमंत्रित',
-    'org.members.emailInvite.registered': 'पंजीकृत'
+    'org.members.emailInvite.registered': 'पंजीकृत',
+    'org.members.emailInvite.sent': 'ईमेल द्वारा आमंत्रित',
+    // Members table
+    'org.members.joined': 'शामिल हुए',
+    'org.members.actions': 'क्रियाएँ',
+    'org.roles.super_admin': 'सुपर एडमिन'
 };
