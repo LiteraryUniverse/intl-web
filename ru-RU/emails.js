@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'От: {requesterName}',
     'email.notifications.friendRequest.cta': 'Запрос на рецензию',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Приглашение к сотрудничеству',
-    'email.notifications.collabInvite.title': 'У Вас есть приглашение к сотрудничеству',
-    'email.notifications.collabInvite.details': 'Приглашающая сторона: {inviterName} - Роль: {role} - Цель: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} пригласил Вас к сотрудничеству с "{targetTitle}" в качестве {role}',
+    'email.notifications.collabInvite.title': 'Приглашаем вас к сотрудничеству!',
+    'email.notifications.collabInvite.details': 'Приглашен: {inviterName} - Роль: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Приглашение на обзор',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Приглашение вступить в организацию',
-    'email.notifications.orgInvite.title': 'Приглашаем Вас присоединиться к сайту {orgName}.',
-    'email.notifications.orgInvite.details': 'Инвитро: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} Приглашаем Вас присоединиться к сайту "{orgName}".',
+    'email.notifications.orgInvite.title': 'Приглашаем Вас присоединиться к {orgName}!',
+    'email.notifications.orgInvite.details': 'Приглашены: {inviterName}',
     'email.notifications.orgInvite.cta': 'Приглашение на обзор',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Ваши ежедневные обновления',
