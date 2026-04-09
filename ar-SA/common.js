@@ -55,6 +55,7 @@ export default {
     'common.universe': 'كون',
     'common.universes': 'الأكوان',
     'common.unpublished': 'غير منشورة',
+    'common.role': 'الدور',
     'common.collaborator': 'مشارك',
     'common.collaborators': 'المشاركون',
     'common.translator': 'مترجم',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'انتهت صلاحية الدعوة',
     'invitation.expired.message': 'انتهت صلاحية رابط الدعوة هذا. إذا كان لديك حساب، يُرجى التحقق من لوحة التحكم الخاصة بك لمعرفة الدعوات المعلقة.',
     'invitation.graceExpired.title': 'انتهت صلاحية الرابط',
-    'invitation.graceExpired.message': 'انتهت صلاحية رابط الدعوة هذا. يرجى التحقق من لوحة التحكم الخاصة بك لمعرفة الدعوات المعلقة.'
+    'invitation.graceExpired.message': 'انتهت صلاحية رابط الدعوة هذا. يرجى التحقق من لوحة التحكم الخاصة بك لمعرفة الدعوات المعلقة.',
+    'invitation.notFound.title': 'لم يتم العثور على الدعوة',
+    'invitation.notFound.message': 'رابط الدعوة هذا غير صالح أو انتهت صلاحيته.'
 };
