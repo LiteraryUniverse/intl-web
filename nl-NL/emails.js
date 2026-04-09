@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Van: {requesterName}',
     'email.notifications.friendRequest.cta': 'Beoordelingsverzoek',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Uitnodiging voor samenwerking',
-    'email.notifications.collabInvite.title': 'U hebt een uitnodiging voor samenwerking',
-    'email.notifications.collabInvite.details': 'Uitnodiger: {inviterName} - Rol: {role} - Doel: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} nodigde u uit om mee te werken aan "{targetTitle}" als {role}',
+    'email.notifications.collabInvite.title': 'U bent uitgenodigd om samen te werken!',
+    'email.notifications.collabInvite.details': 'Uitgenodigd door: {inviterName} - Rol: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Uitnodiging herzien',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Uitnodiging om lid te worden van een organisatie',
-    'email.notifications.orgInvite.title': 'U bent uitgenodigd om deel te nemen aan {orgName}',
-    'email.notifications.orgInvite.details': 'Uitlokker: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} nodigde u uit om lid te worden van "{orgName}"',
+    'email.notifications.orgInvite.title': 'U bent uitgenodigd om lid te worden van {orgName}!',
+    'email.notifications.orgInvite.details': 'Uitgenodigd door: {inviterName}',
     'email.notifications.orgInvite.cta': 'Uitnodiging herzien',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Uw dagelijkse updates',
