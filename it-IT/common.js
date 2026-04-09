@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universo',
     'common.universes': 'Universi',
     'common.unpublished': 'Non pubblicato',
+    'common.role': 'Ruolo',
     'common.collaborator': 'Collaboratore',
     'common.collaborators': 'Collaboratori',
     'common.translator': 'Traduttore/trice',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Invito scaduto',
     'invitation.expired.message': 'Questo link di invito è scaduto. Se ha un account, controlli il suo cruscotto per verificare la presenza di inviti in sospeso.',
     'invitation.graceExpired.title': 'Link scaduto',
-    'invitation.graceExpired.message': 'Questo link di invito è scaduto. Controlli il suo cruscotto per gli inviti in sospeso.'
+    'invitation.graceExpired.message': 'Questo link di invito è scaduto. Controlli il suo cruscotto per gli inviti in sospeso.',
+    'invitation.notFound.title': 'Invito non trovato',
+    'invitation.notFound.message': 'Questo link di invito non è valido o è scaduto.'
 };
