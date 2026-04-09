@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Blogipostituste loomine',
     // Email invitation strings
     'org.members.emailInvited': 'Kutsutud e-posti teel',
-    'org.members.emailInvite.registered': 'Registreeritud'
+    'org.members.emailInvite.registered': 'Registreeritud',
+    'org.members.emailInvite.sent': 'Kutsutud e-posti teel',
+    // Members table
+    'org.members.joined': 'Liitunud',
+    'org.members.actions': 'Meetmed',
+    'org.roles.super_admin': 'Super Admin'
 };
