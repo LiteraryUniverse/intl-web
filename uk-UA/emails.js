@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Звідки? {requesterName}',
     'email.notifications.friendRequest.cta': 'Запит на перегляд',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Запрошення до співпраці',
-    'email.notifications.collabInvite.title': 'Ви отримали запрошення до співпраці',
-    'email.notifications.collabInvite.details': 'Запрошувач: {inviterName} - Роль: {role} - Адреса: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} запросив вас до співпраці на "{targetTitle}" як {role}',
+    'email.notifications.collabInvite.title': 'Запрошуємо до співпраці!',
+    'email.notifications.collabInvite.details': 'На запрошення {inviterName} - Роль: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Запрошення на огляд',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Запрошення до вступу в організацію',
-    'email.notifications.orgInvite.title': 'Запрошуємо вас приєднатися до {orgName}',
-    'email.notifications.orgInvite.details': 'Запрошуємо: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} запросив вас приєднатися до "{orgName}"',
+    'email.notifications.orgInvite.title': 'Запрошуємо вас приєднатися до {orgName}!',
+    'email.notifications.orgInvite.details': 'На запрошення: {inviterName}',
     'email.notifications.orgInvite.cta': 'Запрошення на огляд',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Ваші щоденні оновлення',
