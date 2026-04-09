@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Blog gönderileri oluşturun',
     // Email invitation strings
     'org.members.emailInvited': 'E-posta ile davet edildi',
-    'org.members.emailInvite.registered': 'Kayıtlı'
+    'org.members.emailInvite.registered': 'Kayıtlı',
+    'org.members.emailInvite.sent': 'E-posta ile davet edildi',
+    // Members table
+    'org.members.joined': 'Katıldım',
+    'org.members.actions': 'Eylemler',
+    'org.roles.super_admin': 'Süper Yönetici'
 };
