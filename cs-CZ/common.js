@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Vesmír',
     'common.universes': 'Vesmíry',
     'common.unpublished': 'Nepublikované',
+    'common.role': 'Role',
     'common.collaborator': 'Spolupracovník',
     'common.collaborators': 'Spolupracovníci',
     'common.translator': 'Překladatel',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Platnost pozvánky vypršela',
     'invitation.expired.message': 'Platnost tohoto odkazu na pozvánku vypršela. Pokud máte účet, podívejte se na svůj řídicí panel, zda na vás nečekají pozvánky.',
     'invitation.graceExpired.title': 'Platnost odkazu vypršela',
-    'invitation.graceExpired.message': 'Platnost tohoto odkazu na pozvánku vypršela. Zkontrolujte prosím, zda na vašem ovládacím panelu nejsou nevyřízené pozvánky.'
+    'invitation.graceExpired.message': 'Platnost tohoto odkazu na pozvánku vypršela. Zkontrolujte prosím, zda na vašem ovládacím panelu nejsou nevyřízené pozvánky.',
+    'invitation.notFound.title': 'Pozvánka nebyla nalezena',
+    'invitation.notFound.message': 'Tento odkaz na pozvánku je neplatný nebo jeho platnost vypršela.'
 };
