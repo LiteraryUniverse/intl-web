@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': '檢視所有工作坊項目',
     'org.permissions.forum.manager': '管理論壇',
     'org.permissions.blog.manage': '管理部落格',
-    'org.permissions.blog.post': '建立部落格文章'
+    'org.permissions.blog.post': '建立部落格文章',
+    // Email invitation strings
+    'org.members.emailInvited': '透過電子郵件邀請',
+    'org.members.emailInvite.registered': '註冊'
 };
