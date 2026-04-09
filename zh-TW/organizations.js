@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': '建立部落格文章',
     // Email invitation strings
     'org.members.emailInvited': '透過電子郵件邀請',
-    'org.members.emailInvite.registered': '註冊'
+    'org.members.emailInvite.registered': '註冊',
+    'org.members.emailInvite.sent': '透過電子郵件邀請',
+    // Members table
+    'org.members.joined': '已加入',
+    'org.members.actions': '行動',
+    'org.roles.super_admin': '超級管理員'
 };
