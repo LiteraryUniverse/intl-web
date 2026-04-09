@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Criar postagens de blog',
     // Email invitation strings
     'org.members.emailInvited': 'Convidados por e-mail',
-    'org.members.emailInvite.registered': 'Registrado'
+    'org.members.emailInvite.registered': 'Registrado',
+    'org.members.emailInvite.sent': 'Convidados por e-mail',
+    // Members table
+    'org.members.joined': 'Aderiu',
+    'org.members.actions': 'Ações',
+    'org.roles.super_admin': 'Super Admin'
 };
