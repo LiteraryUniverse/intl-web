@@ -55,6 +55,7 @@ export default {
     'common.universe': '宇宙',
     'common.universes': '宇宙',
     'common.unpublished': '未発表',
+    'common.role': '役割',
     'common.collaborator': '共同執筆者',
     'common.collaborators': '共同執筆者',
     'common.translator': '翻訳者',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': '招待期間終了',
     'invitation.expired.message': 'この招待リンクは有効期限が切れています。アカウントをお持ちの方は、ダッシュボードに保留中の招待状がないか確認してください。',
     'invitation.graceExpired.title': 'リンク切れ',
-    'invitation.graceExpired.message': 'この招待リンクは有効期限が切れています。ダッシュボードに保留中の招待状がないか確認してください。'
+    'invitation.graceExpired.message': 'この招待リンクは有効期限が切れています。ダッシュボードに保留中の招待状がないか確認してください。',
+    'invitation.notFound.title': '招待状が見つかりません',
+    'invitation.notFound.message': 'この招待リンクは無効、または有効期限が切れています。'
 };
