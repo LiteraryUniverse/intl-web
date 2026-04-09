@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Переглянути всі елементи воркшопу',
     'org.permissions.forum.manager': 'Керування форумами',
     'org.permissions.blog.manage': 'Керування блогом',
-    'org.permissions.blog.post': 'Створюйте дописи в блозі'
+    'org.permissions.blog.post': 'Створюйте дописи в блозі',
+    // Email invitation strings
+    'org.members.emailInvited': 'Запрошення на електронну пошту',
+    'org.members.emailInvite.registered': 'Зареєстровано'
 };
