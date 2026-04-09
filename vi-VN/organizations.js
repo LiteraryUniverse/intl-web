@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Create blog posts',
     // Email invitation strings
     'org.members.emailInvited': 'Được mời qua email',
-    'org.members.emailInvite.registered': 'Đã đăng ký'
+    'org.members.emailInvite.registered': 'Đã đăng ký',
+    'org.members.emailInvite.sent': 'Được mời qua email',
+    // Members table
+    'org.members.joined': 'Đã tham gia',
+    'org.members.actions': 'Hành động',
+    'org.roles.super_admin': 'Quản trị viên cấp cao'
 };
