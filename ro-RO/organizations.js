@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Vezi toate articolele pentru atelier',
     'org.permissions.forum.manager': 'Gestionarea forumurilor',
     'org.permissions.blog.manage': 'Gestionați blogul',
-    'org.permissions.blog.post': 'Creați postări pe blog'
+    'org.permissions.blog.post': 'Creați postări pe blog',
+    // Email invitation strings
+    'org.members.emailInvited': 'Invitați prin e-mail',
+    'org.members.emailInvite.registered': 'Înregistrat'
 };
