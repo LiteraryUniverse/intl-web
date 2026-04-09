@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universo',
     'common.universes': 'Universos',
     'common.unpublished': 'Não publicado',
+    'common.role': 'Papel',
     'common.collaborator': 'Colaborador',
     'common.collaborators': 'Colaboradores',
     'common.translator': 'Tradutor',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'O convite expirou',
     'invitation.expired.message': 'Esta ligação de convite expirou. Se tiver uma conta, verifique se existem convites pendentes no seu painel de controlo.',
     'invitation.graceExpired.title': 'Ligação expirada',
-    'invitation.graceExpired.message': 'Esta ligação de convite expirou. Verifique se há convites pendentes no seu painel de controlo.'
+    'invitation.graceExpired.message': 'Esta ligação de convite expirou. Verifique se há convites pendentes no seu painel de controlo.',
+    'invitation.notFound.title': 'Convite não encontrado',
+    'invitation.notFound.message': 'Esta ligação de convite é inválida ou expirou.'
 };
