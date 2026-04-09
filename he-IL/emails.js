@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'מאת: {requesterName}',
     'email.notifications.friendRequest.cta': 'בקשת סקירה',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'הזמנה לשיתוף פעולה',
-    'email.notifications.collabInvite.title': 'יש לך הזמנה לשיתוף פעולה',
-    'email.notifications.collabInvite.details': 'מזמין: {inviterName} • תפקיד: {role} • יעד: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} הזמין אותך לשתף פעולה בפרויקט "{targetTitle}" בתור {role}',
+    'email.notifications.collabInvite.title': 'אתם מוזמנים להצטרף אלינו!',
+    'email.notifications.collabInvite.details': 'בהזמנת: {inviterName} • תפקיד: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'הזמנה לסקירה',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'הזמנה להצטרף לארגון',
-    'email.notifications.orgInvite.title': 'אתם מוזמנים להצטרף ל- {orgName}',
-    'email.notifications.orgInvite.details': 'מזמין: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} הזמין אותך להצטרף ל"{orgName}"',
+    'email.notifications.orgInvite.title': 'אתם מוזמנים להצטרף ל- {orgName}!',
+    'email.notifications.orgInvite.details': 'בהזמנת: {inviterName}',
     'email.notifications.orgInvite.cta': 'הזמנה לסקירה',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'העדכונים היומיים שלך',
