@@ -55,6 +55,7 @@ export default {
     'common.universe': 'จักรวาล',
     'common.universes': 'จักรวาล',
     'common.unpublished': 'ยังไม่ได้ตีพิมพ์',
+    'common.role': 'บทบาท',
     'common.collaborator': 'ผู้ร่วมงาน',
     'common.collaborators': 'ผู้ร่วมงาน',
     'common.translator': 'ผู้แปล',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'คำเชิญหมดอายุ',
     'invitation.expired.message': 'ลิงก์คำเชิญนี้หมดอายุแล้ว หากคุณมีบัญชี กรุณาตรวจสอบแดชบอร์ดของคุณสำหรับคำเชิญที่รอการตอบรับ',
     'invitation.graceExpired.title': 'ลิงก์หมดอายุ',
-    'invitation.graceExpired.message': 'ลิงก์คำเชิญนี้หมดอายุแล้ว กรุณาตรวจสอบแดชบอร์ดของคุณสำหรับคำเชิญที่รอดำเนินการ'
+    'invitation.graceExpired.message': 'ลิงก์คำเชิญนี้หมดอายุแล้ว กรุณาตรวจสอบแดชบอร์ดของคุณสำหรับคำเชิญที่รอดำเนินการ',
+    'invitation.notFound.title': 'ไม่พบคำเชิญ',
+    'invitation.notFound.message': 'ลิงก์คำเชิญนี้ใช้ไม่ได้หรือหมดอายุแล้ว'
 };
