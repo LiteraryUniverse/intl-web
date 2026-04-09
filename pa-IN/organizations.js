@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Create blog posts',
     // Email invitation strings
     'org.members.emailInvited': 'ਈਮੇਲ ਰਾਹੀਂ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ',
-    'org.members.emailInvite.registered': 'ਰਜਿਸਟਰਡ'
+    'org.members.emailInvite.registered': 'ਰਜਿਸਟਰਡ',
+    'org.members.emailInvite.sent': 'ਈਮੇਲ ਰਾਹੀਂ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ',
+    // Members table
+    'org.members.joined': 'ਸ਼ਾਮਿਲ ਹੋਇਆ',
+    'org.members.actions': 'ਕਿਰਿਆਵਾਂ',
+    'org.roles.super_admin': 'ਸੁਪਰ ਐਡਮਿਨ'
 };
