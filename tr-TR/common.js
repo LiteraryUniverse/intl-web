@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Evren',
     'common.universes': 'Evrenler',
     'common.unpublished': 'Yayınlanmamış',
+    'common.role': 'Rol',
     'common.collaborator': 'Ortak',
     'common.collaborators': 'Ortaklar',
     'common.translator': 'Çevirmen',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Davetiyenin süresi doldu',
     'invitation.expired.message': 'Bu davet bağlantısının süresi dolmuştur. Bir hesabınız varsa, lütfen bekleyen davetler için kontrol panelinizi kontrol edin.',
     'invitation.graceExpired.title': 'Bağlantı süresi doldu',
-    'invitation.graceExpired.message': 'Bu davet bağlantısının süresi doldu. Bekleyen davetler için lütfen kontrol panelinizi kontrol edin.'
+    'invitation.graceExpired.message': 'Bu davet bağlantısının süresi doldu. Bekleyen davetler için lütfen kontrol panelinizi kontrol edin.',
+    'invitation.notFound.title': 'Davetiye bulunamadı',
+    'invitation.notFound.message': 'Bu davet bağlantısı geçersizdir veya süresi dolmuştur.'
 };
