@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Univers',
     'common.universes': 'Universuri',
     'common.unpublished': 'Nepublicate',
+    'common.role': 'Rol',
     'common.collaborator': 'Colaborator',
     'common.collaborators': 'Colaboratori',
     'common.translator': 'Traducător',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Invitație expirată',
     'invitation.expired.message': 'Acest link de invitație a expirat. Dacă aveți un cont, vă rugăm să vă verificați tabloul de bord pentru invitații în așteptare.',
     'invitation.graceExpired.title': 'Link expirat',
-    'invitation.graceExpired.message': 'Acest link de invitație a expirat. Vă rugăm să vă verificați tabloul de bord pentru invitații în așteptare.'
+    'invitation.graceExpired.message': 'Acest link de invitație a expirat. Vă rugăm să vă verificați tabloul de bord pentru invitații în așteptare.',
+    'invitation.notFound.title': 'Invitația nu a fost găsită',
+    'invitation.notFound.message': 'Acest link de invitație nu este valabil sau a expirat.'
 };
