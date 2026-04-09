@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Vesmír',
     'common.universes': 'Vesmíry',
     'common.unpublished': 'Nepublikované',
+    'common.role': 'Úloha',
     'common.collaborator': 'Spolupracovník',
     'common.collaborators': 'Spolupracovníci',
     'common.translator': 'Prekladateľ',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Platnosť pozvánky vypršala',
     'invitation.expired.message': 'Platnosť tohto odkazu na pozvánku vypršala. Ak máte konto, skontrolujte si, či na vašom ovládacom paneli nie sú čakajúce pozvánky.',
     'invitation.graceExpired.title': 'Prepojenie vypršalo',
-    'invitation.graceExpired.message': 'Platnosť tohto odkazu na pozvánku vypršala. Skontrolujte si, či na vašom ovládacom paneli nie sú pozvánky.'
+    'invitation.graceExpired.message': 'Platnosť tohto odkazu na pozvánku vypršala. Skontrolujte si, či na vašom ovládacom paneli nie sú pozvánky.',
+    'invitation.notFound.title': 'Pozvánka nebola nájdená',
+    'invitation.notFound.message': 'Toto prepojenie na pozvánku je neplatné alebo jeho platnosť vypršala.'
 };
