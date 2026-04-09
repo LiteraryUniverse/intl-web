@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Univers',
     'common.universes': 'Univers',
     'common.unpublished': 'Non publié',
+    'common.role': 'Rôle',
     'common.collaborator': 'Collaborateur',
     'common.collaborators': 'Collaborateurs',
     'common.translator': 'Traducteur',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Invitation expirée',
     'invitation.expired.message': 'Ce lien d\'invitation a expiré. Si vous avez un compte, veuillez vérifier votre tableau de bord pour les invitations en attente.',
     'invitation.graceExpired.title': 'Lien expiré',
-    'invitation.graceExpired.message': 'Ce lien d\'invitation a expiré. Veuillez vérifier votre tableau de bord pour les invitations en cours.'
+    'invitation.graceExpired.message': 'Ce lien d\'invitation a expiré. Veuillez vérifier votre tableau de bord pour les invitations en cours.',
+    'invitation.notFound.title': 'Invitation non trouvée',
+    'invitation.notFound.message': 'Ce lien d\'invitation n\'est pas valide ou a expiré.'
 };
