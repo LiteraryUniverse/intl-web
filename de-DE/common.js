@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universum',
     'common.universes': 'Universum',
     'common.unpublished': 'Unveröffentlicht',
+    'common.role': 'Rolle',
     'common.collaborator': 'Mitarbeiter',
     'common.collaborators': 'Mitarbeiter',
     'common.translator': 'Übersetzer',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Einladung abgelaufen',
     'invitation.expired.message': 'Dieser Einladungslink ist abgelaufen. Wenn Sie ein Konto haben, überprüfen Sie bitte Ihr Dashboard auf ausstehende Einladungen.',
     'invitation.graceExpired.title': 'Link abgelaufen',
-    'invitation.graceExpired.message': 'Dieser Einladungslink ist abgelaufen. Bitte überprüfen Sie Ihr Dashboard auf ausstehende Einladungen.'
+    'invitation.graceExpired.message': 'Dieser Einladungslink ist abgelaufen. Bitte überprüfen Sie Ihr Dashboard auf ausstehende Einladungen.',
+    'invitation.notFound.title': 'Einladung nicht gefunden',
+    'invitation.notFound.message': 'Dieser Einladungslink ist ungültig oder abgelaufen.'
 };
