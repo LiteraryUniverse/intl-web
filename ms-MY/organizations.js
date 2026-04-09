@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Create blog posts',
     // Email invitation strings
     'org.members.emailInvited': 'Dijemput melalui e-mel',
-    'org.members.emailInvite.registered': 'Daftar'
+    'org.members.emailInvite.registered': 'Daftar',
+    'org.members.emailInvite.sent': 'Dijemput melalui e-mel',
+    // Members table
+    'org.members.joined': 'Bergabung',
+    'org.members.actions': 'Tindakan',
+    'org.roles.super_admin': 'Super Pentadbir'
 };
