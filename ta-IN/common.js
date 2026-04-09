@@ -55,6 +55,7 @@ export default {
     'common.universe': 'உலகம்',
     'common.universes': 'உலகங்கள்',
     'common.unpublished': 'வெளியிடப்படாத',
+    'common.role': 'பங்கு',
     'common.collaborator': 'இணையதள பங்களிப்பாளர்',
     'common.collaborators': 'இணையதள பங்களிப்பாளர்கள்',
     'common.translator': 'மொழிபெயர்ப்பாளர்',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'அழைப்பு காலாவதியானது',
     'invitation.expired.message': 'இந்த அழைப்பு இணைப்பு காலாவதியாகிவிட்டது. உங்களிடம் கணக்கு இருந்தால், நிலுவையில் உள்ள அழைப்புகளுக்கு உங்கள் டாஷ்போர்டைச் சரிபார்க்கவும்.',
     'invitation.graceExpired.title': 'இணைப்பு காலாவதியானது',
-    'invitation.graceExpired.message': 'இந்த அழைப்பு இணைப்பு காலாவதியாகிவிட்டது. நிலுவையில் உள்ள அழைப்புகளுக்கு உங்கள் டாஷ்போர்டைப் பார்க்கவும்.'
+    'invitation.graceExpired.message': 'இந்த அழைப்பு இணைப்பு காலாவதியாகிவிட்டது. நிலுவையில் உள்ள அழைப்புகளுக்கு உங்கள் டாஷ்போர்டைப் பார்க்கவும்.',
+    'invitation.notFound.title': 'அழைப்பிதழ் காணப்படவில்லை',
+    'invitation.notFound.message': 'இந்த அழைப்பிதழ் இணைப்பு செல்லாதது அல்லது காலாவதியானது.'
 };
