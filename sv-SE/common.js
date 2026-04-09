@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universum',
     'common.universes': 'Universa',
     'common.unpublished': 'Opublicerad',
+    'common.role': 'Roll',
     'common.collaborator': 'Medarbetare',
     'common.collaborators': 'Medarbetare',
     'common.translator': 'Översättare',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Inbjudan har löpt ut',
     'invitation.expired.message': 'Den här inbjudningslänken har löpt ut. Om du har ett konto kan du kontrollera din instrumentpanel för väntande inbjudningar.',
     'invitation.graceExpired.title': 'Länken har gått ut',
-    'invitation.graceExpired.message': 'Denna inbjudningslänk har löpt ut. Kontrollera din instrumentpanel för väntande inbjudningar.'
+    'invitation.graceExpired.message': 'Denna inbjudningslänk har löpt ut. Kontrollera din instrumentpanel för väntande inbjudningar.',
+    'invitation.notFound.title': 'Inbjudan hittades inte',
+    'invitation.notFound.message': 'Denna inbjudningslänk är ogiltig eller har gått ut.'
 };
