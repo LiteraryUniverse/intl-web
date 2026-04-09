@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Da: {requesterName}',
     'email.notifications.friendRequest.cta': 'Richiesta di revisione',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Invito alla collaborazione',
-    'email.notifications.collabInvite.title': 'Lei ha un invito alla collaborazione',
-    'email.notifications.collabInvite.details': 'Invitante: {inviterName} - Ruolo: {role} - Destinatario: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} ti ha invitato a collaborare a "{targetTitle}" come {role}',
+    'email.notifications.collabInvite.title': 'È invitato a collaborare!',
+    'email.notifications.collabInvite.details': 'Invitato da: {inviterName} - Ruolo: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Invito a recensire',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invito a unirsi a un\'organizzazione',
-    'email.notifications.orgInvite.title': 'È invitato a partecipare a {orgName}',
-    'email.notifications.orgInvite.details': 'Invitatore: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} La invitiamo a partecipare a "{orgName}".',
+    'email.notifications.orgInvite.title': 'È invitato a partecipare a {orgName}!',
+    'email.notifications.orgInvite.details': 'Invitato da: {inviterName}',
     'email.notifications.orgInvite.cta': 'Invito a recensire',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'I suoi aggiornamenti quotidiani',
