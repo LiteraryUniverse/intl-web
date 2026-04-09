@@ -123,13 +123,13 @@ export default {
     'email.notifications.friendRequest.details': 'Alates: {requesterName}',
     'email.notifications.friendRequest.cta': 'Läbivaatamise taotlus',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Kutse koostööle',
-    'email.notifications.collabInvite.title': 'Teil on kutse koostööle',
-    'email.notifications.collabInvite.details': 'Kutsuja: {inviterName} - Roll: {role} - Eesmärk: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} kutsus teid üles tegema koostööd "{targetTitle}" nagu {role}.',
+    'email.notifications.collabInvite.title': 'Olete oodatud koostööle!',
+    'email.notifications.collabInvite.details': 'Kutsuja: {inviterName} - Roll: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Kutse läbivaatamine',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Kutse organisatsiooniga liitumiseks',
-    'email.notifications.orgInvite.title': 'Olete kutsutud liituma {orgName}',
+    'email.notifications.orgInvite.subject': '{inviterName} kutsus teid liituma "{orgName}"',
+    'email.notifications.orgInvite.title': 'Olete oodatud liituma {orgName}!',
     'email.notifications.orgInvite.details': 'Kutsuja: {inviterName}',
     'email.notifications.orgInvite.cta': 'Kutse läbivaatamine',
     // Notifications - Daily digest
