@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Zobrazit všechny položky z dílny',
     'org.permissions.forum.manager': 'Správa fór',
     'org.permissions.blog.manage': 'Správa blogu',
-    'org.permissions.blog.post': 'Vytváření příspěvků na blogu'
+    'org.permissions.blog.post': 'Vytváření příspěvků na blogu',
+    // Email invitation strings
+    'org.members.emailInvited': 'Pozváno e-mailem',
+    'org.members.emailInvite.registered': 'Registrováno'
 };
