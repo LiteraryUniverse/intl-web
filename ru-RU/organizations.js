@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Посмотреть все товары для семинаров',
     'org.permissions.forum.manager': 'Управляйте форумами',
     'org.permissions.blog.manage': 'Управляйте блогом',
-    'org.permissions.blog.post': 'Создавайте посты в блоге'
+    'org.permissions.blog.post': 'Создавайте посты в блоге',
+    // Email invitation strings
+    'org.members.emailInvited': 'Приглашение по электронной почте',
+    'org.members.emailInvite.registered': 'Зарегистрированный'
 };
