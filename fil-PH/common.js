@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Uniberso',
     'common.universes': 'Mga Uniberso',
     'common.unpublished': 'Unpublished',
+    'common.role': 'Role',
     'common.collaborator': 'Kasamang Manggagawa',
     'common.collaborators': 'Mga Kasamahan sa Pagtutulungan',
     'common.translator': 'Tagasalin',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Invitation expired',
     'invitation.expired.message': 'This invitation link has expired. If you have an account, please check your dashboard for pending invitations.',
     'invitation.graceExpired.title': 'Link expired',
-    'invitation.graceExpired.message': 'This invitation link has expired. Please check your dashboard for pending invitations.'
+    'invitation.graceExpired.message': 'This invitation link has expired. Please check your dashboard for pending invitations.',
+    'invitation.notFound.title': 'Invitation not found',
+    'invitation.notFound.message': 'This invitation link is invalid or has expired.'
 };
