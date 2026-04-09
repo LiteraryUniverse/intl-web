@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'ईमेल द्वारा आमंत्रित',
+    'org.members.emailInvite.registered': 'पंजीकृत'
 };
