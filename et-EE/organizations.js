@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Vaadake kõiki töötoa objekte',
     'org.permissions.forum.manager': 'Foorumite haldamine',
     'org.permissions.blog.manage': 'Halda blogi',
-    'org.permissions.blog.post': 'Blogipostituste loomine'
+    'org.permissions.blog.post': 'Blogipostituste loomine',
+    // Email invitation strings
+    'org.members.emailInvited': 'Kutsutud e-posti teel',
+    'org.members.emailInvite.registered': 'Registreeritud'
 };
