@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'From: {requesterName}',
     'email.notifications.friendRequest.cta': 'Felülvizsgálati kérelem',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Együttműködési meghívó',
-    'email.notifications.collabInvite.title': 'Együttműködési meghívásod van',
-    'email.notifications.collabInvite.details': 'Meghívó: {inviterName} - Szerep: {role} - Cél: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} felkérte Önt, hogy működjön közre a "{targetTitle}" című művében, mint {role}.',
+    'email.notifications.collabInvite.title': 'Meghívjuk az együttműködésre!',
+    'email.notifications.collabInvite.details': 'Meghívott:: {inviterName} - Szerep: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Felülvizsgálati felhívás',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Felhívás egy szervezethez való csatlakozásra',
-    'email.notifications.orgInvite.title': 'Meghívjuk Önt a {orgName}weboldalra.',
-    'email.notifications.orgInvite.details': 'Meghívó: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} meghívta Önt, hogy csatlakozzon a "{orgName}"',
+    'email.notifications.orgInvite.title': 'Szeretettel meghívjuk a {orgName}!',
+    'email.notifications.orgInvite.details': 'Meghívott:: {inviterName}',
     'email.notifications.orgInvite.cta': 'Felülvizsgálati felhívás',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Az Ön napi frissítései',
