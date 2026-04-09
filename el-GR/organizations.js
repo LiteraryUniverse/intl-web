@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Προβολή όλων των αντικειμένων του εργαστηρίου',
     'org.permissions.forum.manager': 'Διαχείριση φόρουμ',
     'org.permissions.blog.manage': 'Διαχείριση ιστολογίου',
-    'org.permissions.blog.post': 'Δημιουργία αναρτήσεων στο blog'
+    'org.permissions.blog.post': 'Δημιουργία αναρτήσεων στο blog',
+    // Email invitation strings
+    'org.members.emailInvited': 'Πρόσκληση μέσω email',
+    'org.members.emailInvite.registered': 'Εγγεγραμμένο'
 };
