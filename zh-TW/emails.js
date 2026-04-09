@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': '來自 {requesterName}',
     'email.notifications.friendRequest.cta': '審核要求',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': '合作邀請',
-    'email.notifications.collabInvite.title': '您有合作邀請',
-    'email.notifications.collabInvite.details': '邀請人： {inviterName} - 角色： {role} - 目標： {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} 邀請您合作 "{targetTitle}" 為 {role}',
+    'email.notifications.collabInvite.title': '邀請您一起合作！',
+    'email.notifications.collabInvite.details': '邀請： {inviterName} - 角色： {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': '審核邀請',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': '邀請加入組織',
-    'email.notifications.orgInvite.title': '歡迎您加入 {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} 邀請您加入 "{orgName}"',
+    'email.notifications.orgInvite.title': '歡迎您加入 {orgName}！',
+    'email.notifications.orgInvite.details': '受邀者： {inviterName}',
     'email.notifications.orgInvite.cta': '審核邀請',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': '您的每日更新',
