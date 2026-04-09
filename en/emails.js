@@ -174,17 +174,17 @@ export default {
   'email.notifications.friendRequest.cta': 'Review request',
 
   // Notifications - Collaboration invitation
-  'email.notifications.collabInvite.subject': 'Collaboration invitation',
+  'email.notifications.collabInvite.subject': '{inviterName} invited you to collaborate on "{targetTitle}" as {role}',
   'email.notifications.collabInvite.title':
-    'You have a collaboration invitation',
+    "You're invited to collaborate!",
   'email.notifications.collabInvite.details':
-    'Inviter: {inviterName} • Role: {role} • Target: {targetType} — {targetTitle}',
+    'Invited by: {inviterName} • Role: {role} • {targetType}: {targetTitle}',
   'email.notifications.collabInvite.cta': 'Review invitation',
 
   // Notifications - Organization invitation
-  'email.notifications.orgInvite.subject': 'Invitation to join an organization',
-  'email.notifications.orgInvite.title': "You're invited to join {orgName}",
-  'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+  'email.notifications.orgInvite.subject': '{inviterName} invited you to join "{orgName}"',
+  'email.notifications.orgInvite.title': "You're invited to join {orgName}!",
+  'email.notifications.orgInvite.details': 'Invited by: {inviterName}',
   'email.notifications.orgInvite.cta': 'Review invitation',
 
   // Notifications - Daily digest
