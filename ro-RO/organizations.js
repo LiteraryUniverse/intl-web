@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Creați postări pe blog',
     // Email invitation strings
     'org.members.emailInvited': 'Invitați prin e-mail',
-    'org.members.emailInvite.registered': 'Înregistrat'
+    'org.members.emailInvite.registered': 'Înregistrat',
+    'org.members.emailInvite.sent': 'Invitați prin e-mail',
+    // Members table
+    'org.members.joined': 'Alăturat',
+    'org.members.actions': 'Acțiuni',
+    'org.roles.super_admin': 'Super Admin'
 };
