@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'จาก: {requesterName}',
     'email.notifications.friendRequest.cta': 'คำขอรีวิว',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'คำเชิญร่วมงาน',
-    'email.notifications.collabInvite.title': 'คุณได้รับคำเชิญให้ร่วมงาน',
-    'email.notifications.collabInvite.details': 'ผู้เชิญ: {inviterName} • บทบาท: {role} • เป้าหมาย: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} ขอเชิญคุณร่วมงานใน "{targetTitle}" ในนามของ {role}',
+    'email.notifications.collabInvite.title': 'คุณได้รับเชิญให้ร่วมงาน!',
+    'email.notifications.collabInvite.details': 'ได้รับเชิญโดย: {inviterName} • บทบาท: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'คำเชิญให้รีวิว',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'คำเชิญเข้าร่วมองค์กร',
-    'email.notifications.orgInvite.title': 'คุณได้รับเชิญให้เข้าร่วม {orgName}',
-    'email.notifications.orgInvite.details': 'ผู้เชิญ: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} เชิญคุณเข้าร่วม "{orgName}"',
+    'email.notifications.orgInvite.title': 'คุณได้รับเชิญให้เข้าร่วม {orgName}!',
+    'email.notifications.orgInvite.details': 'ได้รับเชิญโดย: {inviterName}',
     'email.notifications.orgInvite.cta': 'คำเชิญให้รีวิว',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'การอัปเดตประจำวันของคุณ',
