@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Создавайте посты в блоге',
     // Email invitation strings
     'org.members.emailInvited': 'Приглашение по электронной почте',
-    'org.members.emailInvite.registered': 'Зарегистрированный'
+    'org.members.emailInvite.registered': 'Зарегистрированный',
+    'org.members.emailInvite.sent': 'Приглашение по электронной почте',
+    // Members table
+    'org.members.joined': 'Присоединился',
+    'org.members.actions': 'Действия',
+    'org.roles.super_admin': 'Супер Администратор'
 };
