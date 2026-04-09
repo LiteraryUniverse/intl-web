@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'From: {requesterName}',
     'email.notifications.friendRequest.cta': 'Review request',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Collaboration invitation',
-    'email.notifications.collabInvite.title': 'You have a collaboration invitation',
-    'email.notifications.collabInvite.details': 'Inviter: {inviterName} • Role: {role} • Target: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} ਤੁਹਾਨੂੰ "{targetTitle}" \'ਤੇ ਸਹਿਯੋਗ ਕਰਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ {role}',
+    'email.notifications.collabInvite.title': 'ਤੁਹਾਨੂੰ ਸਹਿਯੋਗ ਕਰਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ!',
+    'email.notifications.collabInvite.details': 'ਬੁਲਾਇਆ ਗਿਆ: {inviterName} • ਭੂਮਿਕਾ: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Review invitation',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invitation to join an organization',
-    'email.notifications.orgInvite.title': 'You\'re invited to join {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} ਤੁਹਾਨੂੰ "{orgName} " ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।',
+    'email.notifications.orgInvite.title': 'ਤੁਹਾਨੂੰ {orgName} ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ!',
+    'email.notifications.orgInvite.details': 'ਦੁਆਰਾ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ: {inviterName}',
     'email.notifications.orgInvite.cta': 'Review invitation',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Your daily updates',
