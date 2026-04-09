@@ -55,6 +55,7 @@ export default {
     'common.universe': 'বিশ্ব',
     'common.universes': 'বিশ্বগুলি',
     'common.unpublished': 'অপ্রকাশিত',
+    'common.role': 'ভূমিকা',
     'common.collaborator': 'সহযোগী',
     'common.collaborators': 'সহযোগীগণ',
     'common.translator': 'অনুবাদক',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'আমন্ত্রণ মেয়াদোত্তীর্ণ হয়েছে',
     'invitation.expired.message': 'এই আমন্ত্রণ লিঙ্কটি মেয়াদোত্তীর্ণ হয়েছে। যদি আপনার একটি অ্যাকাউন্ট থাকে, অনুগ্রহ করে আপনার ড্যাশবোর্ডে ঝুলন্ত আমন্ত্রণগুলি পরীক্ষা করুন।',
     'invitation.graceExpired.title': 'লিঙ্ক মেয়াদোত্তীর্ণ',
-    'invitation.graceExpired.message': 'এই আমন্ত্রণ লিঙ্কটি মেয়াদোত্তীর্ণ হয়েছে। অনুগ্রহ করে আপনার ড্যাশবোর্ডে পেন্ডিং আমন্ত্রণগুলি পরীক্ষা করুন।'
+    'invitation.graceExpired.message': 'এই আমন্ত্রণ লিঙ্কটি মেয়াদোত্তীর্ণ হয়েছে। অনুগ্রহ করে আপনার ড্যাশবোর্ডে পেন্ডিং আমন্ত্রণগুলি পরীক্ষা করুন।',
+    'invitation.notFound.title': 'আমন্ত্রণ পাওয়া যায়নি',
+    'invitation.notFound.message': 'এই আমন্ত্রণ লিঙ্কটি অসিদ্ধ বা মেয়াদোত্তীর্ণ।'
 };
