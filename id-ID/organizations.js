@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Lihat semua item bengkel',
     'org.permissions.forum.manager': 'Mengelola forum',
     'org.permissions.blog.manage': 'Kelola blog',
-    'org.permissions.blog.post': 'Membuat postingan blog'
+    'org.permissions.blog.post': 'Membuat postingan blog',
+    // Email invitation strings
+    'org.members.emailInvited': 'Diundang melalui email',
+    'org.members.emailInvite.registered': 'Terdaftar'
 };
