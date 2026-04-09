@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Blogbejegyzések létrehozása',
     // Email invitation strings
     'org.members.emailInvited': 'Meghívás e-mailben',
-    'org.members.emailInvite.registered': 'Regisztrált'
+    'org.members.emailInvite.registered': 'Regisztrált',
+    'org.members.emailInvite.sent': 'Meghívás e-mailben',
+    // Members table
+    'org.members.joined': 'Csatlakozott',
+    'org.members.actions': 'Tevékenységek',
+    'org.roles.super_admin': 'Super Admin'
 };
