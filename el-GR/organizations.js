@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Δημιουργία αναρτήσεων στο blog',
     // Email invitation strings
     'org.members.emailInvited': 'Πρόσκληση μέσω email',
-    'org.members.emailInvite.registered': 'Εγγεγραμμένο'
+    'org.members.emailInvite.registered': 'Εγγεγραμμένο',
+    'org.members.emailInvite.sent': 'Πρόσκληση μέσω email',
+    // Members table
+    'org.members.joined': 'Έγινε μέλος στο',
+    'org.members.actions': 'Δράσεις',
+    'org.roles.super_admin': 'Super Admin'
 };
