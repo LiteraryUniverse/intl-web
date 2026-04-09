@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Створюйте дописи в блозі',
     // Email invitation strings
     'org.members.emailInvited': 'Запрошення на електронну пошту',
-    'org.members.emailInvite.registered': 'Зареєстровано'
+    'org.members.emailInvite.registered': 'Зареєстровано',
+    'org.members.emailInvite.sent': 'Запрошення на електронну пошту',
+    // Members table
+    'org.members.joined': 'Приєднався',
+    'org.members.actions': 'Дії',
+    'org.roles.super_admin': 'Супер адміністратор'
 };
