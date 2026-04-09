@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'மின்னஞ்சல் மூலம் அழைக்கப்பட்டது',
+    'org.members.emailInvite.registered': 'பதிவுசெய்த'
 };
