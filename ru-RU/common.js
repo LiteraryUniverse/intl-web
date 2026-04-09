@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Вселенная',
     'common.universes': 'Вселенные',
     'common.unpublished': 'Неопубликованный',
+    'common.role': 'Роль',
     'common.collaborator': 'Соавтор',
     'common.collaborators': 'Соавторы',
     'common.translator': 'Переводчик',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Срок действия приглашения истек',
     'invitation.expired.message': 'Срок действия этой ссылки на приглашение истек. Если у Вас есть учетная запись, пожалуйста, проверьте свою приборную панель на наличие нерассмотренных приглашений.',
     'invitation.graceExpired.title': 'Ссылка истекла',
-    'invitation.graceExpired.message': 'Срок действия этой ссылки на приглашение истек. Пожалуйста, проверьте Вашу приборную панель на наличие ожидающих приглашений.'
+    'invitation.graceExpired.message': 'Срок действия этой ссылки на приглашение истек. Пожалуйста, проверьте Вашу приборную панель на наличие ожидающих приглашений.',
+    'invitation.notFound.title': 'Приглашение не найдено',
+    'invitation.notFound.message': 'Эта ссылка на приглашение недействительна или срок ее действия истек.'
 };
