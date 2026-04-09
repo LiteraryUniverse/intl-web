@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Aontas',
     'common.universes': 'Aontachtaí',
     'common.unpublished': 'Níor foilsíodh',
+    'common.role': 'Ról',
     'common.collaborator': 'Comhoibrí',
     'common.collaborators': 'Comhoibrithe',
     'common.translator': 'Aistritheoir',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Tá an cuireadh imithe in éag',
     'invitation.expired.message': 'Tá an nasc cuiridh seo imithe in éag. Má tá cuntas agat, seiceáil do phainéal ionstraimí le do thoil le haghaidh cuirí ar feitheamh.',
     'invitation.graceExpired.title': 'Tá an nasc imithe in éag',
-    'invitation.graceExpired.message': 'Tá an nasc cuiridh seo imithe in éag. Seiceáil do phainéal ionstraimí, le do thoil, le haghaidh cuirí ar feitheamh.'
+    'invitation.graceExpired.message': 'Tá an nasc cuiridh seo imithe in éag. Seiceáil do phainéal ionstraimí, le do thoil, le haghaidh cuirí ar feitheamh.',
+    'invitation.notFound.title': 'Níor aimsíodh cuireadh',
+    'invitation.notFound.message': 'Tá an nasc cuiridh seo neamhbhailí nó tá sé imithe in éag.'
 };
