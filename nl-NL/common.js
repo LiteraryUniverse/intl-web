@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universum',
     'common.universes': 'Universums',
     'common.unpublished': 'Ongepubliceerd',
+    'common.role': 'Rol',
     'common.collaborator': 'Medewerker',
     'common.collaborators': 'Medewerkers',
     'common.translator': 'Vertaler',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Uitnodiging verlopen',
     'invitation.expired.message': 'Deze uitnodigingslink is verlopen. Als u een account hebt, controleer dan uw dashboard voor openstaande uitnodigingen.',
     'invitation.graceExpired.title': 'Verlopen link',
-    'invitation.graceExpired.message': 'Deze uitnodigingslink is verlopen. Controleer uw dashboard voor openstaande uitnodigingen.'
+    'invitation.graceExpired.message': 'Deze uitnodigingslink is verlopen. Controleer uw dashboard voor openstaande uitnodigingen.',
+    'invitation.notFound.title': 'Uitnodiging niet gevonden',
+    'invitation.notFound.message': 'Deze uitnodigingslink is ongeldig of verlopen.'
 };
