@@ -55,6 +55,7 @@ export default {
     'common.universe': 'יקום',
     'common.universes': 'יקומים',
     'common.unpublished': 'לא פורסם',
+    'common.role': 'תפקיד',
     'common.collaborator': 'שותף',
     'common.collaborators': 'שותפים',
     'common.translator': 'מתרגם',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'ההזמנה פקעה',
     'invitation.expired.message': 'תוקף קישור ההזמנה פג. אם יש לך חשבון, אנא בדוק בלוח הבקרה שלך אם יש הזמנות ממתינות.',
     'invitation.graceExpired.title': 'הקישור פג תוקפו',
-    'invitation.graceExpired.message': 'תוקף קישור ההזמנה פג. אנא בדוק בלוח הבקרה שלך אם יש הזמנות ממתינות.'
+    'invitation.graceExpired.message': 'תוקף קישור ההזמנה פג. אנא בדוק בלוח הבקרה שלך אם יש הזמנות ממתינות.',
+    'invitation.notFound.title': 'לא נמצאה הזמנה',
+    'invitation.notFound.message': 'קישור ההזמנה הזה אינו תקף או שתוקפו פג.'
 };
