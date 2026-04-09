@@ -90,5 +90,10 @@ export default {
     'org.permissions.blog.post': 'Sukurti tinklaraščio įrašus',
     // Email invitation strings
     'org.members.emailInvited': 'Kviečiama el. paštu',
-    'org.members.emailInvite.registered': 'Registruota'
+    'org.members.emailInvite.registered': 'Registruota',
+    'org.members.emailInvite.sent': 'Kviečiama el. paštu',
+    // Members table
+    'org.members.joined': 'Prisijungė prie',
+    'org.members.actions': 'Veiksmai',
+    'org.roles.super_admin': 'Super administratorius'
 };
