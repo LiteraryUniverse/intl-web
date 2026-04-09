@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Всесвіт',
     'common.universes': 'Всесвіти',
     'common.unpublished': 'Неопублікований',
+    'common.role': 'Роль',
     'common.collaborator': 'Співавтор',
     'common.collaborators': 'Співавтори',
     'common.translator': 'Перекладач',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Термін дії запрошення закінчився',
     'invitation.expired.message': 'Термін дії цього посилання-запрошення закінчився. Якщо у вас є обліковий запис, будь ласка, перевірте свою інформаційну панель на наявність очікуваних запрошень.',
     'invitation.graceExpired.title': 'Закінчився термін дії посилання',
-    'invitation.graceExpired.message': 'Термін дії цього посилання на запрошення закінчився. Будь ласка, перевірте свою інформаційну панель на наявність очікуваних запрошень.'
+    'invitation.graceExpired.message': 'Термін дії цього посилання на запрошення закінчився. Будь ласка, перевірте свою інформаційну панель на наявність очікуваних запрошень.',
+    'invitation.notFound.title': 'Запрошення не знайдено',
+    'invitation.notFound.message': 'Це посилання на запрошення недійсне або його термін дії закінчився.'
 };
