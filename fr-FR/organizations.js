@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Voir tous les articles de l\'atelier',
     'org.permissions.forum.manager': 'Gérer les forums',
     'org.permissions.blog.manage': 'Gérer le blog',
-    'org.permissions.blog.post': 'Créer des articles de blog'
+    'org.permissions.blog.post': 'Créer des articles de blog',
+    // Email invitation strings
+    'org.members.emailInvited': 'Invités par courriel',
+    'org.members.emailInvite.registered': 'Enregistré'
 };
