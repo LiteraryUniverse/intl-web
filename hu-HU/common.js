@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Univerzum',
     'common.universes': 'Univerzumok',
     'common.unpublished': 'Nem publikált',
+    'common.role': 'Szerepvállalás',
     'common.collaborator': 'Kollaborátor',
     'common.collaborators': 'Kollaborátorok',
     'common.translator': 'Fordító',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'A meghívó lejárt',
     'invitation.expired.message': 'Ez a meghívó link lejárt. Ha van fiókja, kérjük, ellenőrizze a műszerfalon a függőben lévő meghívókat.',
     'invitation.graceExpired.title': 'Link lejárt',
-    'invitation.graceExpired.message': 'Ez a meghívó link lejárt. Kérjük, ellenőrizze műszerfalát a függőben lévő meghívókért.'
+    'invitation.graceExpired.message': 'Ez a meghívó link lejárt. Kérjük, ellenőrizze műszerfalát a függőben lévő meghívókért.',
+    'invitation.notFound.title': 'Meghívó nem található',
+    'invitation.notFound.message': 'Ez a meghívó link érvénytelen vagy lejárt.'
 };
