@@ -87,5 +87,8 @@ export default {
     'org.permissions.workshop.viewAll': 'Se alla workshopartiklar',
     'org.permissions.forum.manager': 'Hantera forum',
     'org.permissions.blog.manage': 'Hantera blogg',
-    'org.permissions.blog.post': 'Skapa blogginlägg'
+    'org.permissions.blog.post': 'Skapa blogginlägg',
+    // Email invitation strings
+    'org.members.emailInvited': 'Inbjuden via e-post',
+    'org.members.emailInvite.registered': 'Registrerad'
 };
