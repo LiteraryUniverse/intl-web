@@ -55,6 +55,7 @@ export default {
     'common.universe': 'ਬ੍ਰਹਮੰਡ',
     'common.universes': 'ਬ੍ਰਹਮੰਡਾਂ',
     'common.unpublished': 'ਅਣਛਪਿਆ',
+    'common.role': 'ਭੂਮਿਕਾ',
     'common.collaborator': 'ਸਹਿਯੋਗੀ',
     'common.collaborators': 'ਸਹਿਯੋਗੀਆਂ',
     'common.translator': 'ਅਨੁਵਾਦਕ',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'ਸੱਦਾ ਸਮਾਪਤ ਹੋ ਗਿਆ',
     'invitation.expired.message': 'ਇਹ ਸੱਦਾ ਲਿੰਕ ਮਿਆਦ ਪੁੱਗ ਚੁੱਕਾ ਹੈ। ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਡੈਸ਼ਬੋਰਡ \'ਤੇ ਲੰਬਿਤ ਸੱਦਿਆਂ ਲਈ ਜਾਂਚ ਕਰੋ।',
     'invitation.graceExpired.title': 'ਲਿੰਕ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ',
-    'invitation.graceExpired.message': 'ਇਹ ਸੱਦਾ ਲਿੰਕ ਮਿਆਦ ਪੁੱਗ ਚੁੱਕਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਬਕਾਇਆ ਸੱਦਿਆਂ ਲਈ ਆਪਣਾ ਡੈਸ਼ਬੋਰਡ ਚੈੱਕ ਕਰੋ।'
+    'invitation.graceExpired.message': 'ਇਹ ਸੱਦਾ ਲਿੰਕ ਮਿਆਦ ਪੁੱਗ ਚੁੱਕਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਬਕਾਇਆ ਸੱਦਿਆਂ ਲਈ ਆਪਣਾ ਡੈਸ਼ਬੋਰਡ ਚੈੱਕ ਕਰੋ।',
+    'invitation.notFound.title': 'ਸੱਦਾ ਨਹੀਂ ਮਿਲਿਆ',
+    'invitation.notFound.message': 'ਇਹ ਸੱਦਾ ਲਿੰਕ ਅਵੈਧ ਹੈ ਜਾਂ ਇਸਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ।'
 };
