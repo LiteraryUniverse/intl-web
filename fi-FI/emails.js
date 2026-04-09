@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'From: {requesterName}',
     'email.notifications.friendRequest.cta': 'Tarkistuspyyntö',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Yhteistyökutsu',
-    'email.notifications.collabInvite.title': 'Sinulla on kutsu yhteistyöhön',
-    'email.notifications.collabInvite.details': 'Kutsuja: {inviterName} - Kutsuja: Rooli: {role} - Kohde: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} kutsui sinut yhteistyöhön "{targetTitle}" nimellä {role}.',
+    'email.notifications.collabInvite.title': 'Sinut on kutsuttu mukaan yhteistyöhön!',
+    'email.notifications.collabInvite.details': 'Kutsujana: {inviterName} - Tehtävä: Kutsuttu: Kutsuttu: Rooli: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Arvostelukutsu',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Kutsu liittyä järjestöön',
-    'email.notifications.orgInvite.title': 'Sinut on kutsuttu mukaan {orgName}',
-    'email.notifications.orgInvite.details': 'Kutsuja: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} kutsui sinut liittymään "{orgName}"',
+    'email.notifications.orgInvite.title': 'Olet tervetullut mukaan {orgName}!',
+    'email.notifications.orgInvite.details': 'Kutsujana: {inviterName}',
     'email.notifications.orgInvite.cta': 'Arvostelukutsu',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Päivittäiset päivitykset',
