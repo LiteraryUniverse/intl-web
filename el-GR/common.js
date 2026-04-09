@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Σύμπαν',
     'common.universes': 'Σύμπαντα',
     'common.unpublished': 'Αδημοσίευτο',
+    'common.role': 'Ρόλος',
     'common.collaborator': 'Συνεργάτης',
     'common.collaborators': 'Συνεργάτες',
     'common.translator': 'Μεταφραστής',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Η πρόσκληση έληξε',
     'invitation.expired.message': 'Αυτός ο σύνδεσμος πρόσκλησης έχει λήξει. Εάν έχετε λογαριασμό, παρακαλούμε ελέγξτε το ταμπλό σας για εκκρεμείς προσκλήσεις.',
     'invitation.graceExpired.title': 'Ο σύνδεσμος έχει λήξει',
-    'invitation.graceExpired.message': 'Αυτός ο σύνδεσμος πρόσκλησης έχει λήξει. Παρακαλούμε ελέγξτε το ταμπλό σας για εκκρεμείς προσκλήσεις.'
+    'invitation.graceExpired.message': 'Αυτός ο σύνδεσμος πρόσκλησης έχει λήξει. Παρακαλούμε ελέγξτε το ταμπλό σας για εκκρεμείς προσκλήσεις.',
+    'invitation.notFound.title': 'Η πρόσκληση δεν βρέθηκε',
+    'invitation.notFound.message': 'Αυτός ο σύνδεσμος πρόσκλησης είναι άκυρος ή έχει λήξει.'
 };
