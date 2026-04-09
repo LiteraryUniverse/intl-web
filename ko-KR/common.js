@@ -55,6 +55,7 @@ export default {
     'common.universe': '우주',
     'common.universes': '우주들',
     'common.unpublished': '게시되지 않음',
+    'common.role': '역할',
     'common.collaborator': '공동 참여자',
     'common.collaborators': '공동 참여자들',
     'common.translator': '번역자',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': '초대가 만료되었습니다.',
     'invitation.expired.message': '이 초대 링크가 만료되었습니다. 계정이 있는 경우 대시보드에서 대기 중인 초대가 있는지 확인하세요.',
     'invitation.graceExpired.title': '링크가 만료되었습니다.',
-    'invitation.graceExpired.message': '이 초대 링크가 만료되었습니다. 대기 중인 초대가 있는지 대시보드에서 확인하세요.'
+    'invitation.graceExpired.message': '이 초대 링크가 만료되었습니다. 대기 중인 초대가 있는지 대시보드에서 확인하세요.',
+    'invitation.notFound.title': '초대를 찾을 수 없습니다.',
+    'invitation.notFound.message': '이 초대 링크가 유효하지 않거나 만료되었습니다.'
 };
