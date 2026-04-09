@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Univers',
     'common.universes': 'Universer',
     'common.unpublished': 'Upubliceret',
+    'common.role': 'Rolle',
     'common.collaborator': 'Samarbejdspartner',
     'common.collaborators': 'Samarbejdspartnere',
     'common.translator': 'Oversætter',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Invitation udløbet',
     'invitation.expired.message': 'Dette invitationslink er udløbet. Hvis du har en konto, bedes du tjekke dit dashboard for ventende invitationer.',
     'invitation.graceExpired.title': 'Link udløbet',
-    'invitation.graceExpired.message': 'Dette invitationslink er udløbet. Tjek venligst dit dashboard for ventende invitationer.'
+    'invitation.graceExpired.message': 'Dette invitationslink er udløbet. Tjek venligst dit dashboard for ventende invitationer.',
+    'invitation.notFound.title': 'Invitation ikke fundet',
+    'invitation.notFound.message': 'Dette invitationslink er ugyldigt eller er udløbet.'
 };
