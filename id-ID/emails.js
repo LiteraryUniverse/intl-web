@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Dari: {requesterName}',
     'email.notifications.friendRequest.cta': 'Permintaan tinjauan',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Undangan kolaborasi',
-    'email.notifications.collabInvite.title': 'Anda memiliki undangan kolaborasi',
-    'email.notifications.collabInvite.details': 'Pengundang: {inviterName} - Peran {role} - Target: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} mengundang Anda untuk berkolaborasi di "{targetTitle}" sebagai {role}',
+    'email.notifications.collabInvite.title': 'Anda diundang untuk berkolaborasi!',
+    'email.notifications.collabInvite.details': 'Diundang oleh: {inviterName} - Peran {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Undangan tinjauan',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Undangan untuk bergabung dengan organisasi',
-    'email.notifications.orgInvite.title': 'Anda diundang untuk bergabung dengan {orgName}',
-    'email.notifications.orgInvite.details': 'Pengundang: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} mengundang Anda untuk bergabung dengan "{orgName}"',
+    'email.notifications.orgInvite.title': 'Anda diundang untuk bergabung dengan {orgName}!',
+    'email.notifications.orgInvite.details': 'Diundang oleh: {inviterName}',
     'email.notifications.orgInvite.cta': 'Undangan tinjauan',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Pembaruan harian Anda',
