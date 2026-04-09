@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Visata',
     'common.universes': 'Visatos',
     'common.unpublished': 'Nepublikuota',
+    'common.role': 'Vaidmuo',
     'common.collaborator': 'Bendradarbis',
     'common.collaborators': 'Bendradarbiai',
     'common.translator': 'Vertėjas',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Kvietimo galiojimo laikas baigėsi',
     'invitation.expired.message': 'Šios kvietimo nuorodos galiojimo laikas baigėsi. Jei turite paskyrą, patikrinkite, ar jūsų prietaisų skydelyje nėra neišspręstų kvietimų.',
     'invitation.graceExpired.title': 'Nuoroda baigėsi',
-    'invitation.graceExpired.message': 'Šios kvietimo nuorodos galiojimo laikas baigėsi. Patikrinkite, ar jūsų prietaisų skydelyje nėra neišspręstų kvietimų.'
+    'invitation.graceExpired.message': 'Šios kvietimo nuorodos galiojimo laikas baigėsi. Patikrinkite, ar jūsų prietaisų skydelyje nėra neišspręstų kvietimų.',
+    'invitation.notFound.title': 'Kvietimas nerastas',
+    'invitation.notFound.message': 'Ši kvietimo nuoroda yra negaliojanti arba jos galiojimo laikas baigėsi.'
 };
