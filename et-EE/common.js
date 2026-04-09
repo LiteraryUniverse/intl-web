@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universum',
     'common.universes': 'Universumid',
     'common.unpublished': 'Avaldamata',
+    'common.role': 'Rolli',
     'common.collaborator': 'Kaasautor',
     'common.collaborators': 'Kaasautorid',
     'common.translator': 'Tõlkija',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Kutse lõppenud',
     'invitation.expired.message': 'See kutselink on aegunud. Kui teil on konto, kontrollige oma armatuurlaual, kas teil on veel kutsed pooleli.',
     'invitation.graceExpired.title': 'Link aegunud',
-    'invitation.graceExpired.message': 'See kutselink on aegunud. Palun kontrollige oma armatuurlaual, kas kutsetega on veel tegu.'
+    'invitation.graceExpired.message': 'See kutselink on aegunud. Palun kontrollige oma armatuurlaual, kas kutsetega on veel tegu.',
+    'invitation.notFound.title': 'Kutset ei leitud',
+    'invitation.notFound.message': 'See kutselink on kehtetu või selle kehtivusaeg on lõppenud.'
 };
