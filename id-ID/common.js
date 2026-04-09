@@ -55,6 +55,7 @@ export default {
     'common.universe': 'Universe',
     'common.universes': 'Universes',
     'common.unpublished': 'Tidak dipublikasikan',
+    'common.role': 'Peran',
     'common.collaborator': 'Kolaborator',
     'common.collaborators': 'Kolaborator',
     'common.translator': 'Penerjemah',
@@ -362,5 +363,7 @@ export default {
     'invitation.expired.title': 'Undangan kedaluwarsa',
     'invitation.expired.message': 'Tautan undangan ini telah kedaluwarsa. Jika Anda memiliki akun, silakan periksa dasbor Anda untuk undangan yang tertunda.',
     'invitation.graceExpired.title': 'Tautan kedaluwarsa',
-    'invitation.graceExpired.message': 'Tautan undangan ini telah kedaluwarsa. Silakan periksa dasbor Anda untuk undangan yang tertunda.'
+    'invitation.graceExpired.message': 'Tautan undangan ini telah kedaluwarsa. Silakan periksa dasbor Anda untuk undangan yang tertunda.',
+    'invitation.notFound.title': 'Undangan tidak ditemukan',
+    'invitation.notFound.message': 'Tautan undangan ini tidak valid atau telah kedaluwarsa.'
 };
