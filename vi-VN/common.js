@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Menu người dùng',
     'a11y.navigation': 'Điều hướng',
     'dashboard.profile': 'Hồ sơ của bạn',
+    'dashboard.writerResume': 'Sơ yếu lý lịch của tác giả',
     'profile.website': 'Trang web cá nhân của tôi',
     'story.notes.concept': 'Khái niệm',
     'story.notes.settings': 'Cài đặt câu chuyện',
