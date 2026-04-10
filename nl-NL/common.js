@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Gebruikersmenu',
     'a11y.navigation': 'Navigatie',
     'dashboard.profile': 'Je profiel',
+    'dashboard.writerResume': 'Schrijvers-cv',
     'profile.website': 'Mijn persoonlijke website',
     'story.notes.concept': 'Concept',
     'story.notes.settings': 'Verhaalinstelling',
