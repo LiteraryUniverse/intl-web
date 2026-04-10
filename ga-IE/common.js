@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Menu úsáideora',
     'a11y.navigation': 'Seoladh',
     'dashboard.profile': 'Do phróifíl',
+    'dashboard.writerResume': 'Athfhriotal an Scríbhneora',
     'profile.website': 'Mo láithreán gréasáin pearsanta',
     'story.notes.concept': 'Fíric',
     'story.notes.settings': 'Socruithe an scéil',
