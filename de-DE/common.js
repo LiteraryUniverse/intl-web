@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Benutzermenü',
     'a11y.navigation': 'Navigationsleiste',
     'dashboard.profile': 'Ihr Profil',
+    'dashboard.writerResume': 'Lebenslauf des Autors',
     'profile.website': 'Persönliche Webseite',
     'story.notes.concept': 'Konzept',
     'story.notes.settings': 'Einstellung der Geschichte',
