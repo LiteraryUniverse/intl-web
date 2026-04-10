@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Meniu utilizator',
     'a11y.navigation': 'Navigare',
     'dashboard.profile': 'Profilul dumneavoastră',
+    'dashboard.writerResume': 'CV-ul scriitorului',
     'profile.website': 'Website-ul meu personal',
     'story.notes.concept': 'Concept',
     'story.notes.settings': 'Cadru al poveștii',
