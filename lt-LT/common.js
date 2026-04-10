@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Vartotojo meniu',
     'a11y.navigation': 'Navigacija',
     'dashboard.profile': 'Jūsų profilis',
+    'dashboard.writerResume': 'Rašytojo CV',
     'profile.website': 'Mano asmeninė svetainė',
     'story.notes.concept': 'Konceptas',
     'story.notes.settings': 'Pasakojimo aplinka',
