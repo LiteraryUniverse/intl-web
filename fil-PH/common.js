@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Menu ng User',
     'a11y.navigation': 'Pag-navigate',
     'dashboard.profile': 'Iyong profile',
+    'dashboard.writerResume': 'Writer\'s Resume',
     'profile.website': 'Aking personal na website',
     'story.notes.concept': 'Konsepto',
     'story.notes.settings': 'Kasalukuyang lokasyon ng kwento',
