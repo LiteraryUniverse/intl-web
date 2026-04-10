@@ -108,6 +108,8 @@ export default {
     'stats.storyReadingAnalytics.weekHourTooltip': '{day} at {hour}: {readers, number} readers, {sessions, number} sessions, {duration}',
     'stats.storyReadingAnalytics.topWindows': 'Top reading windows',
     'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics',
+    // Writing history summary cards
+    'stats.writingHistory.diaryWords': '일기 단어',
     // Writing history day tooltip - per-category breakdown
     'stats.writingHistory.dayTooltip.stories': '스토리: {words}',
     'stats.writingHistory.dayTooltip.encyclopedia': '백과사전: {words}',
