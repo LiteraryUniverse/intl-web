@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Käyttäjävalikko',
     'a11y.navigation': 'Navigointi',
     'dashboard.profile': 'Profiilisi',
+    'dashboard.writerResume': 'Kirjoittajan ansioluettelo',
     'profile.website': 'Henkilökohtainen verkkosivusto',
     'story.notes.concept': 'Käsite',
     'story.notes.settings': 'Tarinan asetelma',
