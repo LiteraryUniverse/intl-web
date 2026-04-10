@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Brugermenu',
     'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Din profil',
+    'dashboard.writerResume': 'Forfatterens CV',
     'profile.website': 'Min personlige hjemmeside',
     'story.notes.concept': 'Koncept',
     'story.notes.settings': 'Historieindstilling',
