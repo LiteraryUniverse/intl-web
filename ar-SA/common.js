@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'قائمة المستخدم',
     'a11y.navigation': 'التنقل',
     'dashboard.profile': 'ملفك الشخصي',
+    'dashboard.writerResume': 'السيرة الذاتية للكاتب',
     'profile.website': 'موقعي الشخصي على الويب',
     'story.notes.concept': 'مفهوم',
     'story.notes.settings': 'إعدادات القصة',
