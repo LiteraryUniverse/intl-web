@@ -202,7 +202,7 @@ export default {
     'a11y.user.menu': 'მომხმარებლის მენიუ',
     'a11y.navigation': 'ნავიგაცია',
     'dashboard.profile': 'თქვენი პროფილი',
-    'dashboard.writerResume': 'მწერლის რეზიუმე',
+    'dashboard.writerResume': 'ავტორის რეზიუმე',
     'profile.website': 'ჩემი პირადი ვებსაიტი',
     'story.notes.concept': 'კონცეფცია',
     'story.notes.settings': 'ისტორიის გარემო',
