@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'ユーザーメニュー',
     'a11y.navigation': 'ナビ',
     'dashboard.profile': 'あなたのプロフィール',
+    'dashboard.writerResume': '作家の履歴書',
     'profile.website': 'マイウェブサイト',
     'story.notes.concept': '物語のコンセプト',
     'story.notes.settings': '物語の設定',
