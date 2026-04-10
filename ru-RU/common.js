@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Меню пользователя',
     'a11y.navigation': 'Навигация',
     'dashboard.profile': 'Ваш профиль',
+    'dashboard.writerResume': 'Резюме писателя',
     'profile.website': 'Мой личный сайт',
     'story.notes.concept': 'Концепция',
     'story.notes.settings': 'Постановка сюжета',
