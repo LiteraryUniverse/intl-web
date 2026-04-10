@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'ਯੂਜ਼ਰ ਮੀਨੂ',
     'a11y.navigation': 'ਨੇਵੀਗੇਸ਼ਨ',
     'dashboard.profile': 'ਤੁਹਾਡਾ ਪ੍ਰੋਫਾਈਲ',
+    'dashboard.writerResume': 'ਲੇਖਕ ਦਾ ਰੈਜ਼ਿਊਮੇ',
     'profile.website': 'ਮੇਰੀ ਨਿੱਜੀ ਵੈੱਬਸਾਈਟ',
     'story.notes.concept': 'ਸੰਕਲਪ',
     'story.notes.settings': 'ਕਹਾਣੀ ਦੀ ਸੈਟਿੰਗ',
