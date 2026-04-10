@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Uživatelské menu',
     'a11y.navigation': 'Navigace',
     'dashboard.profile': 'Váš profil',
+    'dashboard.writerResume': 'Životopis spisovatele',
     'profile.website': 'Moje osobní stránka',
     'story.notes.concept': 'Koncept',
     'story.notes.settings': 'Pozadí příběhu',
