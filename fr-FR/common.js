@@ -202,7 +202,7 @@ export default {
     'a11y.user.menu': 'Menu de l\'utilisateur',
     'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Date et heure de publication',
-    'dashboard.writerResume': 'Curriculum vitae du rédacteur',
+    'dashboard.writerResume': 'CV de l\'auteur',
     'profile.website': 'Mon site Web personnel',
     'story.notes.concept': 'Concept',
     'story.notes.settings': 'Paramètres de l\'histoire',
