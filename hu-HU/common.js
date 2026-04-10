@@ -202,7 +202,7 @@ export default {
     'a11y.user.menu': 'Felhasználói menü',
     'a11y.navigation': 'Navigáció',
     'dashboard.profile': 'Profilod',
-    'dashboard.writerResume': 'Írói önéletrajz',
+    'dashboard.writerResume': 'A szerző önéletrajza',
     'profile.website': 'Személyes weboldalam',
     'story.notes.concept': 'Koncepció',
     'story.notes.settings': 'Történet beállítása',
