@@ -108,6 +108,8 @@ export default {
     'stats.storyReadingAnalytics.weekHourTooltip': '{day} at {hour}: {readers, number} readers, {sessions, number} sessions, {duration}',
     'stats.storyReadingAnalytics.topWindows': 'Top reading windows',
     'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics',
+    // Writing history summary cards
+    'stats.writingHistory.diaryWords': 'डायरी के शब्द',
     // Writing history day tooltip - per-category breakdown
     'stats.writingHistory.dayTooltip.stories': 'कहानियाँ: {words}',
     'stats.writingHistory.dayTooltip.encyclopedia': 'विश्वकोश: {words}',
