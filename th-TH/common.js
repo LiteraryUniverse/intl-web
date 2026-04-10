@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'เมนูผู้ใช้',
     'a11y.navigation': 'การนำทาง',
     'dashboard.profile': 'โปรไฟล์ของคุณ',
+    'dashboard.writerResume': 'ประวัติย่อของนักเขียน',
     'profile.website': 'เว็บไซต์ส่วนตัวของฉัน',
     'story.notes.concept': 'แนวความคิด',
     'story.notes.settings': 'การตั้งค่าเรื่องราว',
