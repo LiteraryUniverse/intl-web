@@ -218,6 +218,7 @@ export default {
   'a11y.user.menu': 'User menu',
   'a11y.navigation': 'Navigation',
   'dashboard.profile': 'Your profile',
+  'dashboard.writerResume': "Writer's Resume",
   'profile.website': 'My personal website',
   'story.notes.concept': 'Concept',
   'story.notes.settings': 'Story setting',
