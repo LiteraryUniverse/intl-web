@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Kasutajamenüü',
     'a11y.navigation': 'Navigeerimine',
     'dashboard.profile': 'Teie profiil',
+    'dashboard.writerResume': 'Kirjaniku elulookirjeldus',
     'profile.website': 'Minu isiklik veebisait',
     'story.notes.concept': 'Kontseptsioon',
     'story.notes.settings': 'Loo seadistus',
