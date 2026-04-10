@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'תפריט משתמש',
     'a11y.navigation': 'ניווט',
     'dashboard.profile': 'הפרופיל שלך',
+    'dashboard.writerResume': 'קורות החיים של הכותב',
     'profile.website': 'האתר האישי שלי',
     'story.notes.concept': 'מושג',
     'story.notes.settings': 'הגדרות הסיפור',
