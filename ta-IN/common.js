@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'பயனர் பட்டி',
     'a11y.navigation': 'வழிசெலுத்தல்',
     'dashboard.profile': 'உங்கள் சுயவிவரம்',
+    'dashboard.writerResume': 'எழுத்தாளரின் சுயவிவரம்',
     'profile.website': 'எனது தனிப்பட்ட இணையதளம்',
     'story.notes.concept': 'கருத்து',
     'story.notes.settings': 'கதைக்களம்',
