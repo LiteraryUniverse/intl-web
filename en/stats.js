@@ -120,6 +120,9 @@ export default {
   'stats.storyReadingAnalytics.loadError':
     'Failed to load reading analytics',
 
+  // Writing history summary cards
+  'stats.writingHistory.diaryWords': 'Diary words',
+
   // Writing history day tooltip - per-category breakdown
   'stats.writingHistory.dayTooltip.stories': 'Stories: {words}',
   'stats.writingHistory.dayTooltip.encyclopedia': 'Encyclopedia: {words}',
