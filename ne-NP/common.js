@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'प्रयोगकर्ता मेनु',
     'a11y.navigation': 'नेभिगेसन',
     'dashboard.profile': 'तपाईंको प्रोफाइल',
+    'dashboard.writerResume': 'लेखकको संक्षिप्त परिचय',
     'profile.website': 'मेरो व्यक्तिगत वेबसाइट',
     'story.notes.concept': 'अवधारणा',
     'story.notes.settings': 'कथाको सेटिङ',
