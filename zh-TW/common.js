@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': '使用者選單',
     'a11y.navigation': '導航',
     'dashboard.profile': '您的個人資料',
+    'dashboard.writerResume': '作家簡歷',
     'profile.website': '我的個人網站',
     'story.notes.concept': '概念',
     'story.notes.settings': '故事設定',
