@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Kullanıcı menüsü',
     'a11y.navigation': 'Gezinme',
     'dashboard.profile': 'Profiliniz',
+    'dashboard.writerResume': 'Yazarın Özgeçmişi',
     'profile.website': 'Kişisel web siteniz',
     'story.notes.concept': 'Kavram',
     'story.notes.settings': 'Hikaye ayarı',
