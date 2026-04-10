@@ -202,7 +202,7 @@ export default {
     'a11y.user.menu': 'Μενού χρήστη',
     'a11y.navigation': 'Πλοήγηση',
     'dashboard.profile': 'Το προφίλ σας',
-    'dashboard.writerResume': 'Βιογραφικό σημείωμα συγγραφέα',
+    'dashboard.writerResume': 'Βιογραφικό σημείωμα του συγγραφέα',
     'profile.website': 'Ο ιστότοπός μου',
     'story.notes.concept': 'Έννοια',
     'story.notes.settings': 'Ρύθμιση ιστορίας',
