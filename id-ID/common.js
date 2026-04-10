@@ -202,6 +202,7 @@ export default {
     'a11y.user.menu': 'Menu pengguna',
     'a11y.navigation': 'Navigasi',
     'dashboard.profile': 'Profil Anda',
+    'dashboard.writerResume': 'Resume Penulis',
     'profile.website': 'Situs web pribadi',
     'story.notes.concept': 'Konsep',
     'story.notes.settings': 'Pengaturan cerita',
