@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': '出版商預覽',
+    'workshop.story.publisherPreview.description': '上傳特殊的預覽檔案，供出版商檢視您的作者履歷。此檔案以安全方式儲存，僅出版商可存取。',
+    'workshop.story.publisherPreview.freeStory': '這個故事是免費的。請考慮在下方產生完整的 EPUB，而不是上傳單獨的預覽 - 出版商可以存取完整的作品。',
+    'workshop.story.publisherPreview.upload': '上傳預覽 (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': '上傳... {progress}%',
+    'workshop.story.publisherPreview.uploaded': '本故事的出版商預覽檔案已上傳。',
+    'workshop.story.publisherPreview.replace': '取代檔案',
+    'workshop.story.publisherPreview.remove': '移除'
 };
