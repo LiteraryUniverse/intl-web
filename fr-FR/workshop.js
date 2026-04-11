@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Aperçu de l\'éditeur',
+    'workshop.story.publisherPreview.description': 'Téléchargez un fichier de prévisualisation spécial pour les éditeurs qui consultent votre CV d\'auteur. Ce fichier est stocké en toute sécurité et n\'est accessible qu\'aux éditeurs.',
+    'workshop.story.publisherPreview.freeStory': 'Cette histoire est gratuite. Envisagez de générer un EPUB complet ci-dessous au lieu de télécharger une prévisualisation séparée - les éditeurs peuvent accéder à l\'œuvre complète.',
+    'workshop.story.publisherPreview.upload': 'Télécharger l\'aperçu (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Téléchargement... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'Un fichier de prévisualisation de l\'éditeur a été téléchargé pour cet article.',
+    'workshop.story.publisherPreview.replace': 'Remplacer le fichier',
+    'workshop.story.publisherPreview.remove': 'Enlever'
 };
