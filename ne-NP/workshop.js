@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'प्रकाशक पूर्वावलोकन',
+    'workshop.story.publisherPreview.description': 'तपाईंको लेखकको बायोडाटा हेर्ने प्रकाशकहरूका लागि विशेष पूर्वावलोकन फाइल अपलोड गर्नुहोस्। यो फाइल सुरक्षित रूपमा भण्डारण गरिएको छ र केवल प्रकाशकहरूले मात्र पहुँच गर्न सक्छन्।',
+    'workshop.story.publisherPreview.freeStory': 'यो कथा निःशुल्क छ। अलग पूर्वावलोकन अपलोड गर्नुको सट्टा तल पूर्ण EPUB उत्पन्न गर्ने विचार गर्नुहोस् — प्रकाशकहरूले सम्पूर्ण कृति पहुँच गर्न सक्छन्।',
+    'workshop.story.publisherPreview.upload': 'अपलोड पूर्वावलोकन (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'अपलोड हुँदैछ... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'यस कथाको लागि प्रकाशक पूर्वावलोकन फाइल अपलोड गरिएको छ।',
+    'workshop.story.publisherPreview.replace': 'फाइल प्रतिस्थापन गर्नुहोस्',
+    'workshop.story.publisherPreview.remove': 'हटाउनुहोस्'
 };
