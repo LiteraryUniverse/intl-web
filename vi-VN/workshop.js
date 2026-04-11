@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Xem trước của nhà xuất bản',
+    'workshop.story.publisherPreview.description': 'Tải lên một tệp xem trước đặc biệt dành cho các nhà xuất bản khi họ xem Hồ sơ tác giả của bạn. Tệp này được lưu trữ an toàn và chỉ các nhà xuất bản mới có thể truy cập.',
+    'workshop.story.publisherPreview.freeStory': 'Câu chuyện này miễn phí. Bạn có thể tạo tệp EPUB đầy đủ ngay bên dưới thay vì tải lên bản xem trước riêng biệt — các nhà xuất bản có thể truy cập toàn bộ tác phẩm.',
+    'workshop.story.publisherPreview.upload': 'Xem trước tệp tải lên (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Đang tải lên... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'Tệp xem trước dành cho nhà xuất bản đã được tải lên cho bài viết này.',
+    'workshop.story.publisherPreview.replace': 'Thay thế tệp',
+    'workshop.story.publisherPreview.remove': 'Xóa'
 };
