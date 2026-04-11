@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'வெளியீட்டாளர் முன்னோட்டம்',
+    'workshop.story.publisherPreview.description': 'உங்கள் ஆசிரியர் சுயவிவரத்தைப் பார்க்கும் பதிப்பாளர்களுக்காக ஒரு சிறப்பு முன்னோட்டக் கோப்பைப் பதிவேற்றவும். இந்தக் கோப்பு பாதுகாப்பாக சேமிக்கப்பட்டு, பதிப்பாளர்களுக்கு மட்டுமே அணுகக்கூடியதாக இருக்கும்.',
+    'workshop.story.publisherPreview.freeStory': 'இந்தக் கதை இலவசம். ஒரு தனி முன்னோட்டத்தைப் பதிவேற்றுவதற்குப் பதிலாக, கீழே முழுமையான EPUB-ஐ உருவாக்குவதைக் கருத்தில் கொள்ளுங்கள் — பதிப்பாளர்கள் முழுமையான படைப்பை அணுகலாம்.',
+    'workshop.story.publisherPreview.upload': 'மேலேற்ற முன்னோட்டம் (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'ஏற்றுகிறது... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'இந்தக் கதைக்கான வெளியீட்டாளர் முன்னோட்டக் கோப்பு பதிவேற்றப்பட்டுள்ளது.',
+    'workshop.story.publisherPreview.replace': 'கோப்பை மாற்று',
+    'workshop.story.publisherPreview.remove': 'நீக்கு'
 };
