@@ -552,12 +552,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': '出版社プレビュー',
+    'workshop.story.publisherPreview.description': '出版社があなたの履歴書を閲覧するための特別なプレビューファイルをアップロードしてください。このファイルは安全に保存され、出版社のみがアクセスできます。',
+    'workshop.story.publisherPreview.freeStory': 'このストーリーは無料です。出版社は完全な作品にアクセスすることができます。',
+    'workshop.story.publisherPreview.upload': 'プレビューのアップロード (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'アップロード中... {progress}%.',
+    'workshop.story.publisherPreview.uploaded': 'この記事の出版社プレビューファイルがアップロードされました。',
+    'workshop.story.publisherPreview.replace': 'ファイルの置換',
+    'workshop.story.publisherPreview.remove': '削除'
 };
