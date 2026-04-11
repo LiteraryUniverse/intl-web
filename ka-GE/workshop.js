@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'გამომცემლის წინასწარი ვერსია',
+    'workshop.story.publisherPreview.description': 'გამოაქვეყნეთ სპეციალური წინასწარი ჩვენების ფაილი იმ გამომცემლებისთვის, რომლებიც თქვენი ავტორის რეზიუმეს ათვალიერებენ. ეს ფაილი დაცულად ინახება და მასზე წვდომა მხოლოდ გამომცემლებს აქვთ.',
+    'workshop.story.publisherPreview.freeStory': 'ეს ამბავი უფასოა. ცალკეული ნაწყვეტის ატვირთვის ნაცვლად, განიხილეთ ქვემოთ სრული EPUB-ის გენერირება — გამომცემლებს შეუძლიათ სრული ნაშრომის მიღება.',
+    'workshop.story.publisherPreview.upload': 'გადმოწერის წინასწარი დათვალიერება (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'აპლიკაციის ატვირთვა... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'ამ სტატიისთვის გამომცემლის წინასწარი ფაილი ატვირთულია.',
+    'workshop.story.publisherPreview.replace': 'ფაილის ჩანაცვლება',
+    'workshop.story.publisherPreview.remove': 'წაშლა'
 };
