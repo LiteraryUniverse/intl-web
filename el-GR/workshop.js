@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Προεπισκόπηση εκδότη',
+    'workshop.story.publisherPreview.description': 'Ανεβάστε ένα ειδικό αρχείο προεπισκόπησης για τους εκδότες που βλέπουν το βιογραφικό του συγγραφέα σας. Αυτό το αρχείο αποθηκεύεται με ασφάλεια και είναι προσβάσιμο μόνο στους εκδότες.',
+    'workshop.story.publisherPreview.freeStory': 'Αυτή η ιστορία είναι δωρεάν. Σκεφτείτε να δημιουργήσετε ένα πλήρες EPUB παρακάτω αντί να ανεβάσετε μια ξεχωριστή προεπισκόπηση - οι εκδότες μπορούν να έχουν πρόσβαση στο πλήρες έργο.',
+    'workshop.story.publisherPreview.upload': 'Φόρτωση προεπισκόπησης (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Ανέβασμα... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'Ένα αρχείο προεπισκόπησης εκδότη έχει μεταφορτωθεί για αυτή την ιστορία.',
+    'workshop.story.publisherPreview.replace': 'Αντικατάσταση αρχείου',
+    'workshop.story.publisherPreview.remove': 'Αφαιρέστε το'
 };
