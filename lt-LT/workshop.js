@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Leidėjo peržiūra',
+    'workshop.story.publisherPreview.description': 'Įkelkite specialų peržiūros failą, kad leidėjai galėtų peržiūrėti jūsų autoriaus gyvenimo aprašymą. Šis failas saugomas saugiai ir prieinamas tik leidėjams.',
+    'workshop.story.publisherPreview.freeStory': 'Ši istorija yra nemokama. Apsvarstykite galimybę, užuot įkėlę atskirą peržiūrą, žemiau sukurti visą EPUB - leidėjai galės susipažinti su visu kūriniu.',
+    'workshop.story.publisherPreview.upload': 'Įkelti peržiūrą (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Įkėlimas... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'Įkeltas šios istorijos leidėjo peržiūros failas.',
+    'workshop.story.publisherPreview.replace': 'Pakeisti failą',
+    'workshop.story.publisherPreview.remove': 'Pašalinti'
 };
