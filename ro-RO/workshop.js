@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Previzualizare editor',
+    'workshop.story.publisherPreview.description': 'Încărcați un fișier de previzualizare special pentru editurile care vizualizează CV-ul de autor. Acest fișier este stocat în siguranță și este accesibil numai editorilor.',
+    'workshop.story.publisherPreview.freeStory': 'Această poveste este gratuită. Luați în considerare generarea unui EPUB complet mai jos în loc să încărcați o previzualizare separată - editorii pot accesa lucrarea completă.',
+    'workshop.story.publisherPreview.upload': 'Previzualizare încărcare (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Încărcare... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'Pentru acest articol a fost încărcat un fișier de previzualizare pentru editor.',
+    'workshop.story.publisherPreview.replace': 'Înlocuiți fișierul',
+    'workshop.story.publisherPreview.remove': 'Eliminați'
 };
