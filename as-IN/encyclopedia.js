@@ -1,232 +1,251 @@
 export default {
-    'encyclopedia.add': 'এটা এটি নতুন এন্ট্রি যোগ কৰক',
-    'encyclopedia.browse': 'এঞ্চিক্ল\'পিডিয়া সমূহত ব্ৰাউজ কৰক',
-    'encyclopedia.search': 'এঞ্চিক্ল\'পিডিয়া সমূহত সন্ধান কৰক',
-    'encyclopedia.back.universe': 'প্ৰপ্রস্থান পৃথক প্ৰপ্রস্থান পৃষ্ঠাৰ পৰা',
-    'encyclopedia.back.workshop': 'কৰ্মশালাৰ পৃথক পৃষ্ঠাৰ পৰা',
-    'encyclopedia.categories': 'শ্ৰেণীসমূহ',
-    'encyclopedia.groups': 'গোষ্ঠীসমূহ',
-    'encyclopedia.category.character': 'চিত্ৰসমূহ',
-    'encyclopedia.category.event': 'ঘটনাসমূহ',
-    'encyclopedia.category.group': 'গোষ্ঠীসমূহ',
-    'encyclopedia.category.item': 'পদাৰ্থসমূহ',
-    'encyclopedia.category.location': 'অবস্থানসমূহ',
-    'encyclopedia.category.other': 'অন্যান্য',
-    'encyclopedia.category.state': 'ৰাজ্যসমূহ',
-    'encyclopedia.category.governments': 'সৰকাৰসমূহ',
-    'encyclopedia.category.languages': 'ভাষাসমূহ',
-    'encyclopedia.category.creatures': 'জীৱসমূহ',
-    'encyclopedia.category.deity': 'দেবতাসমূহ',
-    'encyclopedia.category.religions': 'ধৰ্মসমূহ',
-    'encyclopedia.category.flora': 'উদ্ভিদসমূহ',
-    'encyclopedia.category.magic': 'যন্ত্ৰসমূহ',
-    'encyclopedia.category.planets': 'গ্ৰহসমূহ',
-    'encyclopedia.category.species': 'প্ৰজাতিসমূহ',
-    'encyclopedia.category.technologies': 'প্ৰযুক্তিসমূহ',
-    'encyclopedia.category.families': 'Families',
-    'encyclopedia.category.jobs': 'Jobs',
-    'encyclopedia.category.lore': 'Lore',
-    'encyclopedia.category.vehicles': 'Vehicles',
-    'encyclopedia.category.diseases': 'Diseases',
-    'encyclopedia.category.traditions': 'Traditions',
-    'encyclopedia.category.sports': 'Sports',
-    'encyclopedia.category.food': 'Food',
-    'encyclopedia.category.landmarks': 'Landmarks',
-    'encyclopedia.category.buildings': 'Buildings',
-    'encyclopedia.category.schools': 'Schools',
-    'encyclopedia.category.continents': 'Continents',
-    'encyclopedia.category.villages': 'Villages',
-    'encyclopedia.category.towns': 'Towns',
-    'encyclopedia.category.cities': 'Cities',
-    'encyclopedia.category.settlements': 'Settlements',
-    'encyclopedia.category.countries': 'Countries',
-    'encyclopedia.search.found': `{results, plural,
-    =0 {কোনো সম্পর্কিত লেখা নেই}
-    one {1 সম্পর্কিত লেখা আছে}
-    other {# সম্পর্কিত লেখা আছে}
-  } পাওঁয়া গেল।`,
-    'encyclopedia.help.text': 'এক্সিক্লোপিডিয়াতে আইটেমগুলির মধ্যে নেভিগেট করতে বামের মেনুটি ব্যবহার করুন। একটি আইটেম নির্বাচন করলে, এটি এই লেখাটির পরিবর্তে প্রদর্শিত হবে।',
-    'encyclopedia.help.sidebar': 'সাইডবাৰ টুলবক্স',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see the latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add a connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will then be prompted to find and select an item.',
-    'encyclopedia.intro': 'স্বাগতম {universe} এক্সিক্লোপিডিয়াতে।',
-    'encyclopedia.add.title': 'একটি নতুন লেখা যোগ করুন এক্সিক্লোপিডিয়াতে',
-    'encyclopedia.add.heading': 'আপনি কী যোগ করতে চান?',
-    'encyclopedia.add.moresoon': 'আসছে আরও ক্যাটাগরি!',
-    'encyclopedia.create': `Create new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {villages}
-    towns {towns}
-    cities {cities}
-    settlements {settlement}
-    countries {country}
-  }`,
-    'encyclopedia.create.header': `Creating a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {village}
-    towns {town}
-    cities {city}
-    settlements {settlement}
-    countries {country}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
-    lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    food {Food}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-    villages {Village}
-    towns {Town}
-    cities {City}
-    settlements {Settlement}
-    countries {Country}
-  }`,
-    'encyclopedia.entry.category.legend': 'বিভাগ',
-    'encyclopedia.fields.add': 'নতুন ক্ষেত্র যোগ করুন',
-    'encyclopedia.fields.text': 'সংজ্ঞা',
-    'encyclopedia.fields.textarea': 'পাঠ্য',
-    'encyclopedia.fields.connection': 'সংযোগ',
-    'encyclopedia.fields.time': 'সময়',
-    'encyclopedia.fields.image': 'চিত্র',
-    'encyclopedia.visibility': 'দৃশ্যমানতা',
-    'encyclopedia.public': 'প্রকাশিত',
-    'encyclopedia.private': 'ব্যক্তিগত',
-    'encyclopedia.container': 'সংক্রান্ত লেখা',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from the categories listing.',
-    'encyclopedia.entry.name': 'লেখার নাম',
-    'encyclopedia.summary': 'সংক্ষিপ্ত বিবরণী',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed to the reader.',
-    'encyclopedia.parent': 'প্রাথমিক লেখা',
-    'encyclopedia.related': 'সম্পর্কিত লেখা',
-    'encyclopedia.errors.tags': 'প্রতি লেখায় আপনি শুধুমাত্র 10 ট্যাগ থাকতে পারবেন।',
-    'encyclopedia.field.private': 'ব্যক্তিগত ক্ষেত্র',
-    'encyclopedia.ft.indev': 'এই অপশনটি বিকাশমান।',
-    'encyclopedia.connections.remove': 'সংযোগ সরানো',
-    'encyclopedia.connections.extra': 'অতিরিক্ত তথ্য',
-    'encyclopedia.connections.existing': 'বিদ্যমান এন্ট্রি',
-    'encyclopedia.connections.existing.abbr': 'EE',
-    // abbreviation for Existing Entry
-    'encyclopedia.cover': 'কভার চিত্র',
-    'encyclopedia.translation.title': 'স্বাগতম {universe} ইউনিভার্স অনুবাদে!',
-    'encyclopedia.translation.desc': 'এই জ্ঞানকোষ ইন্টারফেসটি ব্যবহৃত হয় {language}তে অনুবাদের জন্য। আপনি শুরু করার জন্য বাম পাশের তালিকায় বিদ্যমান এন্ট্রিগুলি চয়ন করুন।',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
-    'encyclopedia.settings.title': 'জ্ঞানকোষ সেটিংস',
-    'encyclopedia.settings.categoriesDesc': 'আপনার জ্ঞানকোষে ব্যবহার করতে চাইলে বিভাগগুলি চালু বা বন্ধ করুন।',
-    'encyclopedia.settings.introText': 'ইউনিভার্স বর্ণনা পরে প্রদর্শিত হবে স্বাগত বার্তা।',
-    'encyclopedia.fields.placeholder': 'ক্ষেত্রের নাম',
-    'encyclopedia.fields.delete': 'ক্ষেত্র মুছুন',
-    'encyclopedia.timeOption.fictionalDate': 'কল্পবিধান তারিখ',
-    'encyclopedia.timeOption.fictionalTime': 'কল্পবিধান সময়',
-    'encyclopedia.timeOption.fictionalDateTime': 'কল্পবিধান তারিখ ও সময়',
-    'encyclopedia.timeOption.date': 'তারিখ',
-    'encyclopedia.timeOption.time': 'সময়',
-    'encyclopedia.timeOption.dateTime': 'তারিখ এবং সময়',
-    'encyclopedia.settings.groupByCategories': 'গ্রুপ লিস্টিংয়ে বিভাগগুলি অন্তর্ভুক্ত করুন',
-    'encyclopedia.menuOpen': 'জ্ঞানকোষ মেনু খুলুন',
-    'encyclopedia.menuClose': 'জ্ঞানকোষ মেনু বন্ধ করুন',
-    'encyclopedia.menuAria': 'জ্ঞানকোষ মেনু',
-    'enc.newField': 'নতুন ক্ষেত্ৰ',
-    'enc.entries.limit': `আপুনি বর্তমানে {value, number} থেকে {max, plural,
-    =0 {অসীম}
-    other {{max, number}}
-  } এন্ট্রি আছে।`,
-    'enc.entries.limitReached': 'আপুনি আপনার বর্তমান সাবস্ক্রিপশনের জন্য সর্বাধিক অনুমোদিত জ্ঞানকোষ এন্ট্রি পৌঁছে গেছেন।',
-    'encyclopedia.pronunciation.title': 'উচ্চারণ',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'চলমান কাজ',
-    'encyclopedia.settings.templateLegend': 'টেমপ্লেট বিশ্ব',
-    'encyclopedia.settings.templateDescription': 'এই বিশ্বের বিষয়বস্তুকে অন্য বিশ্বে কপি করার অনুমতি দিন। যদি আপনার কোনও গল্প না থাকে এবং পরিবর্তে আপনি শুধুমাত্র অন্যদের জন্য একটি টেমপ্লেট তৈরি করছেন তবে এটি সেরা হবে।',
-    'encyclopedia.settings.templateCheckbox': 'এটি একটি টেমপ্লেট বিশ্ব',
-    'encyclopedia.templateCopy.modalTitle': 'বিশ্বের বিষয়বস্তু কপি করুন',
-    'encyclopedia.templateCopy.description': 'এই বিশ্বের বিষয়বস্তুকে আপনার বিশ্বে কপি করে তা সমৃদ্ধ করুন।',
-    'encyclopedia.templateCopy.targetUniverse': 'কপি করার জন্য বিশ্ব',
-    'encyclopedia.templateCopy.finished': 'প্ৰতিলিপি সম্পূৰ্ণ কৰা হ\'ল',
-    'encyclopedia.templateCreateUniverse.modalTitle': 'Create universe from template',
-    'encyclopedia.templateCreateUniverse.description': 'Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.',
-    'encyclopedia.templateCreateUniverse.success': 'Universe created successfully! Redirecting...',
-    'encyclopedia.pronunciation.audio.play': 'Play pronunciation',
-    'encyclopedia.pronunciation.guide': 'Use <ipaLink>IPA notation</ipaLink> when possible. Web Speech API pronunciation is best-effort; see <webSpeechLink>MDN docs</webSpeechLink>.'
-};
+  "encyclopedia.add": "এটা এটি নতুন এন্ট্রি যোগ কৰক",
+  "encyclopedia.browse": "এঞ্চিক্ল'পিডিয়া সমূহত ব্ৰাউজ কৰক",
+  "encyclopedia.search": "এঞ্চিক্ল'পিডিয়া সমূহত সন্ধান কৰক",
+  "encyclopedia.back.universe": "প্ৰপ্রস্থান পৃথক প্ৰপ্রস্থান পৃষ্ঠাৰ পৰা",
+  "encyclopedia.back.workshop": "কৰ্মশালাৰ পৃথক পৃষ্ঠাৰ পৰা",
+  "encyclopedia.categories": "শ্ৰেণীসমূহ",
+  "encyclopedia.groups": "গোষ্ঠীসমূহ",
+  "encyclopedia.category.character": "চিত্ৰসমূহ",
+  "encyclopedia.category.event": "ঘটনাসমূহ",
+  "encyclopedia.category.group": "গোষ্ঠীসমূহ",
+  "encyclopedia.category.item": "পদাৰ্থসমূহ",
+  "encyclopedia.category.location": "অবস্থানসমূহ",
+  "encyclopedia.category.other": "অন্যান্য",
+  "encyclopedia.category.state": "ৰাজ্যসমূহ",
+  "encyclopedia.category.governments": "সৰকাৰসমূহ",
+  "encyclopedia.category.languages": "ভাষাসমূহ",
+  "encyclopedia.category.creatures": "জীৱসমূহ",
+  "encyclopedia.category.deity": "দেবতাসমূহ",
+  "encyclopedia.category.religions": "ধৰ্মসমূহ",
+  "encyclopedia.category.flora": "উদ্ভিদসমূহ",
+  "encyclopedia.category.magic": "যন্ত্ৰসমূহ",
+  "encyclopedia.category.planets": "গ্ৰহসমূহ",
+  "encyclopedia.category.species": "প্ৰজাতিসমূহ",
+  "encyclopedia.category.technologies": "প্ৰযুক্তিসমূহ",
+  "encyclopedia.category.families": "Families",
+  "encyclopedia.category.jobs": "Jobs",
+  "encyclopedia.category.lore": "Lore",
+  "encyclopedia.category.vehicles": "Vehicles",
+  "encyclopedia.category.diseases": "Diseases",
+  "encyclopedia.category.traditions": "Traditions",
+  "encyclopedia.category.sports": "Sports",
+  "encyclopedia.category.food": "Food",
+  "encyclopedia.category.landmarks": "Landmarks",
+  "encyclopedia.category.buildings": "Buildings",
+  "encyclopedia.category.schools": "Schools",
+  "encyclopedia.category.continents": "Continents",
+  "encyclopedia.category.villages": "Villages",
+  "encyclopedia.category.towns": "Towns",
+  "encyclopedia.category.cities": "Cities",
+  "encyclopedia.category.settlements": "Settlements",
+  "encyclopedia.category.countries": "Countries",
+  "encyclopedia.search.found": "{results, plural,\n    =0 {কোনো সম্পর্কিত লেখা নেই}\n    one {1 সম্পর্কিত লেখা আছে}\n    other {# সম্পর্কিত লেখা আছে}\n  } পাওঁয়া গেল।",
+  "encyclopedia.help.text": "এক্সিক্লোপিডিয়াতে আইটেমগুলির মধ্যে নেভিগেট করতে বামের মেনুটি ব্যবহার করুন। একটি আইটেম নির্বাচন করলে, এটি এই লেখাটির পরিবর্তে প্রদর্শিত হবে।",
+  "encyclopedia.help.sidebar": "সাইডবাৰ টুলবক্স",
+  "encyclopedia.help.sidebar.text": "Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see the latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add a connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will then be prompted to find and select an item.",
+  "encyclopedia.intro": "স্বাগতম {universe} এক্সিক্লোপিডিয়াতে।",
+  "encyclopedia.add.title": "একটি নতুন লেখা যোগ করুন এক্সিক্লোপিডিয়াতে",
+  "encyclopedia.add.heading": "আপনি কী যোগ করতে চান?",
+  "encyclopedia.add.moresoon": "আসছে আরও ক্যাটাগরি!",
+  "encyclopedia.create": "Create new {category, select,\n    character {character}\n    event {event}\n    group {group}\n    item {item}\n    location {location}\n    other {note}\n    state {state}\n    governments {government}\n    languages {language}\n    creatures {creature}\n    deity {deity}\n    religions {religion}\n    flora {flora}\n    magic {magic}\n    planets {planet}\n    species {specie}\n    technologies {technology}\n    families {family}\n    jobs {job}\n    lore {lore}\n    vehicles {vehicle}\n    diseases {disease}\n    traditions {tradition}\n    food {food}\n    sports {sport}\n    landmarks {landmark}\n    buildings {building}\n    schools {school}\n    continents {continent}\n    villages {villages}\n    towns {towns}\n    cities {cities}\n    settlements {settlement}\n    countries {country}\n  }",
+  "encyclopedia.create.header": "Creating a new {category, select,\n    character {character}\n    event {event}\n    group {group}\n    item {item}\n    location {location}\n    other {note}\n    state {state}\n    governments {government}\n    languages {language}\n    creatures {creature}\n    deity {deity}\n    religions {religion}\n    flora {flora}\n    magic {magic}\n    planets {planet}\n    species {specie}\n    technologies {technology}\n    families {family}\n    jobs {job}\n    lore {lore}\n    vehicles {vehicle}\n    diseases {disease}\n    traditions {tradition}\n    food {food}\n    sports {sport}\n    landmarks {landmark}\n    buildings {building}\n    schools {school}\n    continents {continent}\n    villages {village}\n    towns {town}\n    cities {city}\n    settlements {settlement}\n    countries {country}\n  } in {universe}",
+  "encyclopedia.entry.category": "Entry category: {category, select,\n    character {Character}\n    event {Event}\n    group {Group}\n    item {Item}\n    location {Location}\n    other {Note}\n    state {State}\n    governments {Government}\n    languages {Language}\n    creatures {Creature}\n    deity {Deity}\n    religions {Religion}\n    flora {Flora}\n    magic {Magic}\n    planets {Planet}\n    species {Specie}\n    technologies {Technology}\n    families {Family}\n    jobs {Job}\n    lore {Lore}\n    vehicles {Vehicle}\n    diseases {Disease}\n    traditions {Tradition}\n    food {Food}\n    sports {Sport}\n    landmarks {Landmark}\n    buildings {Building}\n    schools {School}\n    continents {Continent}\n    villages {Village}\n    towns {Town}\n    cities {City}\n    settlements {Settlement}\n    countries {Country}\n  }",
+  "encyclopedia.entry.category.legend": "বিভাগ",
+  "encyclopedia.fields.add": "নতুন ক্ষেত্র যোগ করুন",
+  "encyclopedia.fields.text": "সংজ্ঞা",
+  "encyclopedia.fields.textarea": "পাঠ্য",
+  "encyclopedia.fields.connection": "সংযোগ",
+  "encyclopedia.fields.time": "সময়",
+  "encyclopedia.fields.image": "চিত্র",
+  "encyclopedia.visibility": "দৃশ্যমানতা",
+  "encyclopedia.public": "প্রকাশিত",
+  "encyclopedia.private": "ব্যক্তিগত",
+  "encyclopedia.container": "সংক্রান্ত লেখা",
+  "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
+  "encyclopedia.entry.name": "লেখার নাম",
+  "encyclopedia.summary": "সংক্ষিপ্ত বিবরণী",
+  "encyclopedia.summary.desc": "This is a summary that will be the only initial information displayed to the reader.",
+  "encyclopedia.parent": "প্রাথমিক লেখা",
+  "encyclopedia.related": "সম্পর্কিত লেখা",
+  "encyclopedia.errors.tags": "প্রতি লেখায় আপনি শুধুমাত্র 10 ট্যাগ থাকতে পারবেন।",
+  "encyclopedia.field.private": "ব্যক্তিগত ক্ষেত্র",
+  "encyclopedia.ft.indev": "এই অপশনটি বিকাশমান।",
+  "encyclopedia.connections.remove": "সংযোগ সরানো",
+  "encyclopedia.connections.extra": "অতিরিক্ত তথ্য",
+  "encyclopedia.connections.existing": "বিদ্যমান এন্ট্রি",
+  "encyclopedia.connections.existing.abbr": "EE",
+  "encyclopedia.cover": "কভার চিত্র",
+  "encyclopedia.translation.title": "স্বাগতম {universe} ইউনিভার্স অনুবাদে!",
+  "encyclopedia.translation.desc": "এই জ্ঞানকোষ ইন্টারফেসটি ব্যবহৃত হয় {language}তে অনুবাদের জন্য। আপনি শুরু করার জন্য বাম পাশের তালিকায় বিদ্যমান এন্ট্রিগুলি চয়ন করুন।",
+  "encyclopedia.welcome.totalEntries": "There {totalEntries, plural, \n    zero {are no entries}\n    one {is one entry}\n    other {are # entries}\n  } in this universe.",
+  "encyclopedia.settings.title": "জ্ঞানকোষ সেটিংস",
+  "encyclopedia.settings.categoriesDesc": "আপনার জ্ঞানকোষে ব্যবহার করতে চাইলে বিভাগগুলি চালু বা বন্ধ করুন।",
+  "encyclopedia.settings.introText": "ইউনিভার্স বর্ণনা পরে প্রদর্শিত হবে স্বাগত বার্তা।",
+  "encyclopedia.fields.placeholder": "ক্ষেত্রের নাম",
+  "encyclopedia.fields.delete": "ক্ষেত্র মুছুন",
+  "encyclopedia.timeOption.fictionalDate": "কল্পবিধান তারিখ",
+  "encyclopedia.timeOption.fictionalTime": "কল্পবিধান সময়",
+  "encyclopedia.timeOption.fictionalDateTime": "কল্পবিধান তারিখ ও সময়",
+  "encyclopedia.timeOption.date": "তারিখ",
+  "encyclopedia.timeOption.time": "সময়",
+  "encyclopedia.timeOption.dateTime": "তারিখ এবং সময়",
+  "encyclopedia.settings.groupByCategories": "গ্রুপ লিস্টিংয়ে বিভাগগুলি অন্তর্ভুক্ত করুন",
+  "encyclopedia.menuOpen": "জ্ঞানকোষ মেনু খুলুন",
+  "encyclopedia.menuClose": "জ্ঞানকোষ মেনু বন্ধ করুন",
+  "encyclopedia.menuAria": "জ্ঞানকোষ মেনু",
+  "enc.newField": "নতুন ক্ষেত্ৰ",
+  "enc.entries.limit": "আপুনি বর্তমানে {value, number} থেকে {max, plural,\n    =0 {অসীম}\n    other {{max, number}}\n  } এন্ট্রি আছে।",
+  "enc.entries.limitReached": "আপুনি আপনার বর্তমান সাবস্ক্রিপশনের জন্য সর্বাধিক অনুমোদিত জ্ঞানকোষ এন্ট্রি পৌঁছে গেছেন।",
+  "encyclopedia.pronunciation.title": "উচ্চারণ",
+  "encyclopedia.wip.abbreviation": "WIP",
+  "encyclopedia.wip.full": "চলমান কাজ",
+  "encyclopedia.settings.templateLegend": "টেমপ্লেট বিশ্ব",
+  "encyclopedia.settings.templateDescription": "এই বিশ্বের বিষয়বস্তুকে অন্য বিশ্বে কপি করার অনুমতি দিন। যদি আপনার কোনও গল্প না থাকে এবং পরিবর্তে আপনি শুধুমাত্র অন্যদের জন্য একটি টেমপ্লেট তৈরি করছেন তবে এটি সেরা হবে।",
+  "encyclopedia.settings.templateCheckbox": "এটি একটি টেমপ্লেট বিশ্ব",
+  "encyclopedia.templateCopy.modalTitle": "বিশ্বের বিষয়বস্তু কপি করুন",
+  "encyclopedia.templateCopy.description": "এই বিশ্বের বিষয়বস্তুকে আপনার বিশ্বে কপি করে তা সমৃদ্ধ করুন।",
+  "encyclopedia.templateCopy.targetUniverse": "কপি করার জন্য বিশ্ব",
+  "encyclopedia.templateCopy.finished": "প্ৰতিলিপি সম্পূৰ্ণ কৰা হ'ল",
+  "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
+  "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",
+  "encyclopedia.templateCreateUniverse.success": "Universe created successfully! Redirecting...",
+  "encyclopedia.pronunciation.audio.play": "Play pronunciation",
+  "encyclopedia.pronunciation.guide": "Use <ipaLink>IPA notation</ipaLink> when possible. Web Speech API pronunciation is best-effort; see <webSpeechLink>MDN docs</webSpeechLink>.",
+  "encyclopedia.templateField.born": "Born",
+  "encyclopedia.templateField.died": "Died",
+  "encyclopedia.templateField.race": "Race",
+  "encyclopedia.templateField.gender": "লিংগ",
+  "encyclopedia.templateField.partners": "Partners",
+  "encyclopedia.templateField.parents": "Parents",
+  "encyclopedia.templateField.children": "Children",
+  "encyclopedia.templateField.associated-with": "Associated with",
+  "encyclopedia.templateField.biography": "জীবনী",
+  "encyclopedia.templateField.physical-appearance": "Physical appearance",
+  "encyclopedia.templateField.type-of-event": "Type of event",
+  "encyclopedia.templateField.preceding-events": "Preceding events",
+  "encyclopedia.templateField.following-events": "Following events",
+  "encyclopedia.templateField.leadup": "Leadup",
+  "encyclopedia.templateField.description": "বিবৰণ",
+  "encyclopedia.templateField.aftermath": "Aftermath",
+  "encyclopedia.templateField.members": "সদস্যসকল",
+  "encyclopedia.templateField.locations": "অবস্থানসমূহ",
+  "encyclopedia.templateField.events": "ঘটনাসমূহ",
+  "encyclopedia.templateField.vision": "Vision",
+  "encyclopedia.templateField.mission": "Mission",
+  "encyclopedia.templateField.description-of-the-organization": "Description of the organization",
+  "encyclopedia.templateField.history": "History",
+  "encyclopedia.templateField.owners": "Owners",
+  "encyclopedia.templateField.function": "Function",
+  "encyclopedia.templateField.content": "Content",
+  "encyclopedia.templateField.population": "Population",
+  "encyclopedia.templateField.culture": "Culture",
+  "encyclopedia.templateField.governments": "সৰকাৰসমূহ",
+  "encyclopedia.templateField.religions-believes": "Religions & believes",
+  "encyclopedia.templateField.languages": "ভাষাসমূহ",
+  "encyclopedia.templateField.geography": "Geography",
+  "encyclopedia.templateField.founding": "Founding",
+  "encyclopedia.templateField.notable-events": "Notable events",
+  "encyclopedia.templateField.notes": "নোটস",
+  "encyclopedia.templateField.type-of-government": "Type of government",
+  "encyclopedia.templateField.structure": "Structure",
+  "encyclopedia.templateField.power-structure": "Power structure",
+  "encyclopedia.templateField.source-of-power": "Source of power",
+  "encyclopedia.templateField.laws": "Laws",
+  "encyclopedia.templateField.ideology": "Ideology",
+  "encyclopedia.templateField.internal-politics": "Internal politics",
+  "encyclopedia.templateField.external-politics": "External politics",
+  "encyclopedia.templateField.leading-figures": "Leading figures",
+  "encyclopedia.templateField.groups": "গোষ্ঠীসমূহ",
+  "encyclopedia.templateField.military": "Military",
+  "encyclopedia.templateField.items": "পদাৰ্থসমূহ",
+  "encyclopedia.templateField.typology": "Typology",
+  "encyclopedia.templateField.dialectics": "Dialectics",
+  "encyclopedia.templateField.phonology": "Phonology",
+  "encyclopedia.templateField.grammar": "Grammar",
+  "encyclopedia.templateField.numbers": "Numbers",
+  "encyclopedia.templateField.quantifiers": "Quantifiers",
+  "encyclopedia.templateField.private-notes": "Private notes",
+  "encyclopedia.templateField.type": "Type",
+  "encyclopedia.templateField.notable-features": "Notable features",
+  "encyclopedia.templateField.traits": "Traits",
+  "encyclopedia.templateField.habitat": "Habitat",
+  "encyclopedia.templateField.food-sources": "Food sources",
+  "encyclopedia.templateField.reproduction": "Reproduction",
+  "encyclopedia.templateField.cultural-significance": "Cultural significance",
+  "encyclopedia.templateField.related-creatures": "Related creatures",
+  "encyclopedia.templateField.religion": "Religion",
+  "encyclopedia.templateField.other-names": "Other names",
+  "encyclopedia.templateField.appearance": "Appearance",
+  "encyclopedia.templateField.related-to": "Related to",
+  "encyclopedia.templateField.symbolism": "Symbolism",
+  "encyclopedia.templateField.rituals": "Rituals",
+  "encyclopedia.templateField.origin": "Origin",
+  "encyclopedia.templateField.notable-figures": "Notable figures",
+  "encyclopedia.templateField.deities": "দেবতাসমূহ",
+  "encyclopedia.templateField.artifacts": "Artifacts",
+  "encyclopedia.templateField.believes": "Believes",
+  "encyclopedia.templateField.traditions": "Traditions",
+  "encyclopedia.templateField.spread": "Spread",
+  "encyclopedia.templateField.classification": "Classification",
+  "encyclopedia.templateField.features": "বৈশিষ্ট্যসমূহ",
+  "encyclopedia.templateField.produce": "Produce",
+  "encyclopedia.templateField.ecosystem": "Ecosystem",
+  "encyclopedia.templateField.effect": "Effect",
+  "encyclopedia.templateField.alignment": "Alignment",
+  "encyclopedia.templateField.requirements": "Requirements",
+  "encyclopedia.templateField.size": "Size",
+  "encyclopedia.templateField.length-of-day": "Length of day",
+  "encyclopedia.templateField.length-of-night": "Length of night",
+  "encyclopedia.templateField.length-of-cycle": "Length of cycle",
+  "encyclopedia.templateField.moons": "Moons",
+  "encyclopedia.templateField.nearby-stellar-bodies": "Nearby stellar bodies",
+  "encyclopedia.templateField.climate": "Climate",
+  "encyclopedia.templateField.weather": "Weather",
+  "encyclopedia.templateField.natural-resources": "Natural resources",
+  "encyclopedia.templateField.notable-locations": "Notable locations",
+  "encyclopedia.templateField.inhabitans": "Inhabitans",
+  "encyclopedia.templateField.looks": "Looks",
+  "encyclopedia.templateField.production": "Production",
+  "encyclopedia.templateField.use": "Use",
+  "encyclopedia.templateField.related": "Related",
+  "encyclopedia.templateField.location": "Location",
+  "encyclopedia.templateField.significance": "Significance",
+  "encyclopedia.templateField.associated-events": "Associated events",
+  "encyclopedia.templateField.associated-figures": "Associated figures",
+  "encyclopedia.templateField.access-restrictions": "Access restrictions",
+  "encyclopedia.templateField.cultural-importance": "Cultural importance",
+  "encyclopedia.templateField.founded": "Founded",
+  "encyclopedia.templateField.government": "Government",
+  "encyclopedia.templateField.defenses": "Defenses",
+  "encyclopedia.templateField.connected-settlements": "Connected settlements",
+  "encyclopedia.templateField.family-motto": "Family Motto",
+  "encyclopedia.templateField.founding-date": "Founding Date",
+  "encyclopedia.templateField.ethos": "Ethos",
+  "encyclopedia.templateField.family-reputation": "Family Reputation",
+  "encyclopedia.templateField.family-branches": "Family Branches",
+  "encyclopedia.templateField.notable-vassals-retainers": "Notable vassals/retainers",
+  "encyclopedia.templateField.skills-required": "Skills required",
+  "encyclopedia.templateField.pay-salary": "Pay/Salary",
+  "encyclopedia.templateField.associated-locations": "Associated locations",
+  "encyclopedia.templateField.associated-characters": "Associated characters",
+  "encyclopedia.templateField.propulsion": "Propulsion",
+  "encyclopedia.templateField.capacity": "Capacity",
+  "encyclopedia.templateField.speed": "Speed",
+  "encyclopedia.templateField.manufacturers": "Manufacturers",
+  "encyclopedia.templateField.symptoms": "Symptoms",
+  "encyclopedia.templateField.causes": "Causes",
+  "encyclopedia.templateField.treatment": "Treatment",
+  "encyclopedia.templateField.affected-species": "Affected species",
+  "encyclopedia.templateField.associated-groups": "Associated groups",
+  "encyclopedia.templateField.ingredients": "Ingredients",
+  "encyclopedia.templateField.preparation": "Preparation",
+  "encyclopedia.templateField.rules": "Rules",
+  "encyclopedia.templateField.equipment": "Equipment",
+  "encyclopedia.templateField.venues": "Venues",
+  "encyclopedia.templateField.architecture": "Architecture",
+  "encyclopedia.templateField.curriculum": "Curriculum",
+  "encyclopedia.templateField.notable-alumni": "Notable alumni",
+  "encyclopedia.templateField.affiliation": "Affiliation",
+  "encyclopedia.templateField.language": "ভাষা",
+}
