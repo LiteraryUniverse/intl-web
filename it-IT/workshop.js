@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Anteprima dell\'editore',
+    'workshop.story.publisherPreview.description': 'Carichi un file di anteprima speciale per gli editori che visualizzano il suo Curriculum d\'Autore. Questo file è memorizzato in modo sicuro e accessibile solo agli editori.',
+    'workshop.story.publisherPreview.freeStory': 'Questa storia è gratuita. Consideri di generare un EPUB completo qui sotto invece di caricare un\'anteprima separata - gli editori possono accedere all\'opera completa.',
+    'workshop.story.publisherPreview.upload': 'Caricare l\'anteprima (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Caricamento... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'Per questa storia è stato caricato un file di anteprima per l\'editore.',
+    'workshop.story.publisherPreview.replace': 'Sostituire il file',
+    'workshop.story.publisherPreview.remove': 'Rimuovere'
 };
