@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Pratonton Penerbit',
+    'workshop.story.publisherPreview.description': 'Muat naik fail pratonton khas untuk penerbit yang melihat Resume Penulis anda. Fail ini disimpan dengan selamat dan hanya boleh diakses oleh penerbit.',
+    'workshop.story.publisherPreview.freeStory': 'Cerita ini percuma. Pertimbangkan untuk menjana EPUB penuh di bawah ini, bukannya memuat naik pratonton berasingan — penerbit boleh mengakses karya lengkap.',
+    'workshop.story.publisherPreview.upload': 'Pratinjau Muat naik (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Memuat naik... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'Fail pratonton penerbit telah dimuat naik untuk cerita ini.',
+    'workshop.story.publisherPreview.replace': 'Gantikan Fail',
+    'workshop.story.publisherPreview.remove': 'Buang'
 };
