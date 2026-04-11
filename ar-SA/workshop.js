@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'معاينة الناشر',
+    'workshop.story.publisherPreview.description': 'قم بتحميل ملف معاينة خاص للناشرين الذين يعرضون سيرتك الذاتية للمؤلف. يتم تخزين هذا الملف بشكل آمن ولا يمكن الوصول إليه إلا للناشرين فقط.',
+    'workshop.story.publisherPreview.freeStory': 'هذه القصة مجانية. ضع في اعتبارك إنشاء EPUB كامل أدناه بدلاً من تحميل معاينة منفصلة - يمكن للناشرين الوصول إلى العمل الكامل.',
+    'workshop.story.publisherPreview.upload': 'تحميل معاينة (PDF، EPUB)',
+    'workshop.story.publisherPreview.uploading': 'تحميل ... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'تم تحميل ملف معاينة الناشر لهذه القصة.',
+    'workshop.story.publisherPreview.replace': 'استبدال الملف',
+    'workshop.story.publisherPreview.remove': 'إزالة'
 };
