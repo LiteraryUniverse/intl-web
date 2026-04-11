@@ -260,4 +260,4 @@ export default {
     'encyclopedia.templateField.notable-alumni': 'Notable alumni',
     'encyclopedia.templateField.affiliation': 'Affiliation',
     'encyclopedia.templateField.language': 'שפה'
-}
+};
