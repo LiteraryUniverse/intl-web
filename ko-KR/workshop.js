@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': '게시자 미리보기',
+    'workshop.story.publisherPreview.description': '퍼블리셔가 글쓴이 이력서를 볼 수 있도록 특별 미리 보기 파일을 업로드합니다. 이 파일은 안전하게 저장되며 퍼블리셔만 액세스할 수 있습니다.',
+    'workshop.story.publisherPreview.freeStory': '이 스토리는 무료입니다. 별도의 미리 보기를 업로드하는 대신 아래에서 전체 EPUB을 생성하면 게시자가 전체 작품에 액세스할 수 있습니다.',
+    'workshop.story.publisherPreview.upload': '미리보기 업로드(PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': '업로드 중... {progress}%',
+    'workshop.story.publisherPreview.uploaded': '이 스토리에 대한 게시자 미리보기 파일이 업로드되었습니다.',
+    'workshop.story.publisherPreview.replace': '파일 바꾸기',
+    'workshop.story.publisherPreview.remove': '제거'
 };
