@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'Dijemput melalui e-mel',
+    'org.members.emailInvite.registered': 'Daftar',
+    'org.members.emailInvite.sent': 'Dijemput melalui e-mel',
+    // Members table
+    'org.members.joined': 'Bergabung',
+    'org.members.actions': 'Tindakan',
+    'org.roles.super_admin': 'Super Pentadbir'
 };

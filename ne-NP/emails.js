@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'From: {requesterName}',
     'email.notifications.friendRequest.cta': 'Review request',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Collaboration invitation',
-    'email.notifications.collabInvite.title': 'You have a collaboration invitation',
-    'email.notifications.collabInvite.details': 'Inviter: {inviterName} • Role: {role} • Target: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} तपाईंलाई "{targetTitle}" मा सहकार्य गर्न निम्तो दिइयो, को रूपमा {role}',
+    'email.notifications.collabInvite.title': 'तपाईंलाई सहकार्य गर्न आमन्त्रित गरिएको छ!',
+    'email.notifications.collabInvite.details': 'आमन्त्रित: {inviterName} • भूमिका: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Review invitation',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invitation to join an organization',
-    'email.notifications.orgInvite.title': 'You\'re invited to join {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} तपाईंलाई "{orgName} " मा सामेल हुन आमन्त्रित गरियो।',
+    'email.notifications.orgInvite.title': 'तपाईंलाई {orgName} मा सामेल हुन आमन्त्रित गरिएको छ!',
+    'email.notifications.orgInvite.details': 'द्वारा आमन्त्रित: {inviterName}',
     'email.notifications.orgInvite.cta': 'Review invitation',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Your daily updates',

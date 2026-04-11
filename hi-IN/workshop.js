@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'मूल्य निर्धारण सेटिंग्स सहेजी गईं।',
     'workshop.monetization.synced': 'Stripe के उत्पाद और कीमतें सिंक हो गईं।',
     'workshop.monetization.syncStripe': 'Stripe के साथ सिंक करें',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `अधिक {type, select,
     collaborator {सहयोगी}
     beta {बीटा पाठक}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'विज्ञानकोश सेटिंग्स',
     'workshop.collaborators.removeUser': 'उपयोगकर्ता हटाएं',
     'workshop.collaborators.cancelInvite': 'आमंत्रण रद्द करें',
+    'workshop.collaborators.mode.search': 'उपयोगकर्ताओं को खोजें',
+    'workshop.collaborators.mode.email': 'ईमेल द्वारा आमंत्रित करें',
+    'workshop.collaborators.sendInvite': 'निमंत्रण भेजें',
+    'workshop.collaborators.emailSent': 'आमंत्रण भेज दिया गया!',
     'workshop.universe.createFirstStory': 'पहली कहानी बनाएं',
     'workshop.storylines': 'कहानी की रेखाएँ',
     'workshop.scenesManager': 'सीन मैनेजर',

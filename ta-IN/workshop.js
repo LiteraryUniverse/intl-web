@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'விலை அமைப்புகள் சேமிக்கப்பட்டன.',
     'workshop.monetization.synced': 'ஸ்ட்ரைப் தயாரிப்புகள் மற்றும் விலைகள் ஒத்திசைக்கப்பட்டன.',
     'workshop.monetization.syncStripe': 'ஸ்ட்ரைப்புடன் ஒத்திசைக்கவும்',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `மேலும் {type, select,
     collaborator {ஒப்பந்தப் பகிர்வாளர்கள்}
     beta {பீட்டா வாசிப்பவர்கள்}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'ககனக்கதிர் அமைப்புகள்',
     'workshop.collaborators.removeUser': 'பயனரை நீக்கு',
     'workshop.collaborators.cancelInvite': 'அழிவு ரத்து செய்',
+    'workshop.collaborators.mode.search': 'பயனர் தேடல்',
+    'workshop.collaborators.mode.email': 'மின்னஞ்சல் மூலம் அழைப்பு',
+    'workshop.collaborators.sendInvite': 'அழைப்பிதழை அனுப்புங்கள்',
+    'workshop.collaborators.emailSent': 'அழைப்பிதழ் அனுப்பப்பட்டது!',
     'workshop.universe.createFirstStory': 'முதல் கதையை உருவாக்கவும்',
     'workshop.storylines': 'கதை வரலாறுகள்',
     'workshop.scenesManager': 'மேலாண்மை மேலாண்மையானது',

@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'From: {requesterName}',
     'email.notifications.friendRequest.cta': 'Review request',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Collaboration invitation',
-    'email.notifications.collabInvite.title': 'You have a collaboration invitation',
-    'email.notifications.collabInvite.details': 'Inviter: {inviterName} • Role: {role} • Target: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} "{targetTitle}"-இல் உங்களை ஒத்துழைக்க அழைத்தேன் {role}',
+    'email.notifications.collabInvite.title': 'இணைந்து பணியாற்ற உங்களை அழைக்கிறோம்!',
+    'email.notifications.collabInvite.details': 'அழைத்தவர்: {inviterName} • பங்கு: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Review invitation',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invitation to join an organization',
-    'email.notifications.orgInvite.title': 'You\'re invited to join {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} "{orgName} "-இல் சேர உங்களை அழைக்கிறோம்',
+    'email.notifications.orgInvite.title': '{orgName} -இல் இணைய உங்களை அழைக்கிறோம்!',
+    'email.notifications.orgInvite.details': 'அழைப்பு விடுத்தவர்: {inviterName}',
     'email.notifications.orgInvite.cta': 'Review invitation',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Your daily updates',

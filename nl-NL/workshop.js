@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Prijsinstellingen opgeslagen.',
     'workshop.monetization.synced': 'Stripe producten en prijzen gesynchroniseerd.',
     'workshop.monetization.syncStripe': 'Synchroniseren met Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Om meer {type, select,
     collaborator {medewerkers}
     beta {proeflezers}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Encyclopedie-instellingen',
     'workshop.collaborators.removeUser': 'Gebruiker verwijderen',
     'workshop.collaborators.cancelInvite': 'Uitnodiging annuleren',
+    'workshop.collaborators.mode.search': 'Gebruikers zoeken',
+    'workshop.collaborators.mode.email': 'Uitnodigen per e-mail',
+    'workshop.collaborators.sendInvite': 'Uitnodiging versturen',
+    'workshop.collaborators.emailSent': 'Uitnodiging verstuurd!',
     'workshop.universe.createFirstStory': 'Maak het eerste verhaal',
     'workshop.storylines': 'Verhaallijnen',
     'workshop.scenesManager': 'Scènesbeheerder',

@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'From: {requesterName}',
     'email.notifications.friendRequest.cta': 'Review request',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Collaboration invitation',
-    'email.notifications.collabInvite.title': 'You have a collaboration invitation',
-    'email.notifications.collabInvite.details': 'Inviter: {inviterName} • Role: {role} • Target: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} আপনাকে "{targetTitle}"-এ সহযোগিতা করার জন্য আমন্ত্রণ জানানো হয়েছে {role}',
+    'email.notifications.collabInvite.title': 'আপনাকে সহযোগিতা করতে আমন্ত্রণ জানানো হচ্ছে!',
+    'email.notifications.collabInvite.details': 'আমন্ত্রণকারী: {inviterName} • ভূমিকা: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Review invitation',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invitation to join an organization',
-    'email.notifications.orgInvite.title': 'You\'re invited to join {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} আপনাকে "{orgName} "-এ যোগ দিতে আমন্ত্রণ জানানো হয়েছে।',
+    'email.notifications.orgInvite.title': '{orgName} -এ যোগ দিতে আপনাকে আমন্ত্রণ জানানো হচ্ছে!',
+    'email.notifications.orgInvite.details': 'দ্বারা আমন্ত্রণিত: {inviterName}',
     'email.notifications.orgInvite.cta': 'Review invitation',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Your daily updates',

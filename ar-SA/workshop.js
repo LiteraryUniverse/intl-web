@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'إعدادات التسعير المحفوظة.',
     'workshop.monetization.synced': 'مزامنة منتجات سترايب وأسعارها.',
     'workshop.monetization.syncStripe': 'المزامنة مع Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `لإضافة المزيد {type, select,
     collaborator {المتعاونين}
     beta {القراء التجريبيين}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'إعدادات الموسوعة',
     'workshop.collaborators.removeUser': 'إزالة المستخدم',
     'workshop.collaborators.cancelInvite': 'إلغاء الدعوة',
+    'workshop.collaborators.mode.search': 'البحث عن مستخدمين',
+    'workshop.collaborators.mode.email': 'الدعوة عبر البريد الإلكتروني',
+    'workshop.collaborators.sendInvite': 'إرسال الدعوة',
+    'workshop.collaborators.emailSent': 'تم إرسال الدعوة!',
     'workshop.universe.createFirstStory': 'أنشئ أول قصة',
     'workshop.storylines': 'خطوط القصة',
     'workshop.scenesManager': 'إدارة المشاهد',

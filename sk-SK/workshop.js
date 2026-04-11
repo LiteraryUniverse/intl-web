@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Uložené nastavenia cien.',
     'workshop.monetization.synced': 'Synchronizácia produktov a cien Stripe.',
     'workshop.monetization.syncStripe': 'Synchronizácia so službou Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Ak chcete pridať viac {type, select,
     collaborator {spolupracovníkov}
     beta {beta čitateľov}
@@ -261,6 +262,10 @@ export default {
     'workshop.encSettings': 'Nastavenia encyklopédie',
     'workshop.collaborators.removeUser': 'Odstránenie používateľa',
     'workshop.collaborators.cancelInvite': 'Zrušiť pozvánku',
+    'workshop.collaborators.mode.search': 'Vyhľadávanie používateľov',
+    'workshop.collaborators.mode.email': 'Pozvanie e-mailom',
+    'workshop.collaborators.sendInvite': 'Odoslať pozvánku',
+    'workshop.collaborators.emailSent': 'Pozvánka odoslaná!',
     'workshop.universe.createFirstStory': 'Vytvoriť prvý príbeh',
     'workshop.storylines': 'Dejové línie',
     'workshop.scenesManager': 'Správca scén',

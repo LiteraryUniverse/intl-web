@@ -107,5 +107,12 @@ export default {
     'stats.storyReadingAnalytics.weekHour': 'Reader activity by week and hour',
     'stats.storyReadingAnalytics.weekHourTooltip': '{day} at {hour}: {readers, number} readers, {sessions, number} sessions, {duration}',
     'stats.storyReadingAnalytics.topWindows': 'Top reading windows',
-    'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics'
+    'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics',
+    // Writing history summary cards
+    'stats.writingHistory.diaryWords': 'ਡਾਇਰੀ ਦੇ ਸ਼ਬਦ',
+    // Writing history day tooltip - per-category breakdown
+    'stats.writingHistory.dayTooltip.stories': 'ਕਹਾਣੀਆਂ: {words}',
+    'stats.writingHistory.dayTooltip.encyclopedia': 'ਵਿਸ਼ਵਕੋਸ਼: {words}',
+    'stats.writingHistory.dayTooltip.blog': 'ਬਲੌਗ: {words}',
+    'stats.writingHistory.dayTooltip.diary': 'ਡਾਇਰੀ: {words}'
 };

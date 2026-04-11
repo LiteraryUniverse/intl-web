@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'Προβολή όλων των αντικειμένων του εργαστηρίου',
     'org.permissions.forum.manager': 'Διαχείριση φόρουμ',
     'org.permissions.blog.manage': 'Διαχείριση ιστολογίου',
-    'org.permissions.blog.post': 'Δημιουργία αναρτήσεων στο blog'
+    'org.permissions.blog.post': 'Δημιουργία αναρτήσεων στο blog',
+    // Email invitation strings
+    'org.members.emailInvited': 'Πρόσκληση μέσω email',
+    'org.members.emailInvite.registered': 'Εγγεγραμμένο',
+    'org.members.emailInvite.sent': 'Πρόσκληση μέσω email',
+    // Members table
+    'org.members.joined': 'Έγινε μέλος στο',
+    'org.members.actions': 'Δράσεις',
+    'org.roles.super_admin': 'Super Admin'
 };

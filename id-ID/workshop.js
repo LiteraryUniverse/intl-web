@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Pengaturan harga disimpan.',
     'workshop.monetization.synced': 'Produk dan harga Stripe disinkronkan.',
     'workshop.monetization.syncStripe': 'Sinkronisasi dengan Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Untuk menambahkan lebih banyak {type, select,
     collaborator {kolaborator}
     beta {pembaca beta}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Pengaturan Ensiklopedia',
     'workshop.collaborators.removeUser': 'Hapus pengguna',
     'workshop.collaborators.cancelInvite': 'Batalkan undangan',
+    'workshop.collaborators.mode.search': 'Cari pengguna',
+    'workshop.collaborators.mode.email': 'Undang melalui email',
+    'workshop.collaborators.sendInvite': 'Kirim undangan',
+    'workshop.collaborators.emailSent': 'Undangan terkirim!',
     'workshop.universe.createFirstStory': 'Buat cerita pertama',
     'workshop.storylines': 'Garis cerita',
     'workshop.scenesManager': 'Manajer Adegan',

@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'মূল্য নির্ধারণের সেটিংস সংরক্ষিত হয়েছে।',
     'workshop.monetization.synced': 'স্ট্রাইপ পণ্য এবং দাম সিঙ্ক হয়েছে।',
     'workshop.monetization.syncStripe': 'স্ট্রাইপের সাথে সিঙ্ক করুন',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `আরও যোগ করতে {type, select,
     collaborator {সহযোগী}
     beta {বিটা পাঠক}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'এন্সাইক্লোপিডিয়া সেটিংস',
     'workshop.collaborators.removeUser': 'ব্যবহারকারী সরানো হয়েছে',
     'workshop.collaborators.cancelInvite': 'আমন্ত্রণ বাতিল করুন',
+    'workshop.collaborators.mode.search': 'ব্যবহারকারী অনুসন্ধান করুন',
+    'workshop.collaborators.mode.email': 'ইমেইলের মাধ্যমে আমন্ত্রণ করুন',
+    'workshop.collaborators.sendInvite': 'আমন্ত্রণ পাঠান',
+    'workshop.collaborators.emailSent': 'আমন্ত্রণ পাঠানো হয়েছে!',
     'workshop.universe.createFirstStory': 'প্রথম গল্প তৈরি করুন',
     'workshop.storylines': 'স্টোরিলাইনস',
     'workshop.scenesManager': 'সিন ম্যানেজার',

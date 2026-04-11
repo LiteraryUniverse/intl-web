@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Αποθήκευση ρυθμίσεων τιμολόγησης.',
     'workshop.monetization.synced': 'Συγχρονισμός προϊόντων και τιμών Stripe.',
     'workshop.monetization.syncStripe': 'Συγχρονισμός με Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Για να προσθέσετε περισσότερους {type, select,
     collaborator {συνεργάτες}
     beta {beta readers}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Ρυθμίσεις εγκυκλοπαίδειας',
     'workshop.collaborators.removeUser': 'Αφαίρεση χρήστη',
     'workshop.collaborators.cancelInvite': 'Ακύρωση πρόσκλησης',
+    'workshop.collaborators.mode.search': 'Αναζήτηση χρηστών',
+    'workshop.collaborators.mode.email': 'Πρόσκληση μέσω email',
+    'workshop.collaborators.sendInvite': 'Αποστολή πρόσκλησης',
+    'workshop.collaborators.emailSent': 'Η πρόσκληση εστάλη!',
     'workshop.universe.createFirstStory': 'Δημιουργήστε το πρώτο έργο',
     'workshop.storylines': 'Γραμμές ιστορίας',
     'workshop.scenesManager': 'Διαχειριστής σκηνών',

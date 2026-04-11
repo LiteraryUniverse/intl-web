@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': '価格設定の保存。',
     'workshop.monetization.synced': 'Stripeの商品と価格が同期されました。',
     'workshop.monetization.syncStripe': 'Stripeと同期',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `{type, select,
     collaborator {協力者を増やす}
     beta {ベータリーダーを追加する}
@@ -259,6 +260,10 @@ export default {
     'workshop.encSettings': '百科事典の設定',
     'workshop.collaborators.removeUser': 'ユーザーの削除',
     'workshop.collaborators.cancelInvite': '招待をキャンセルする',
+    'workshop.collaborators.mode.search': '検索ユーザー',
+    'workshop.collaborators.mode.email': 'Eメールで招待する',
+    'workshop.collaborators.sendInvite': '招待状を送る',
+    'workshop.collaborators.emailSent': '招待状が届いた！',
     'workshop.universe.createFirstStory': '最初の物語を書く',
     'workshop.storylines': 'ストーリーライン',
     'workshop.scenesManager': 'シーンマネージャー',

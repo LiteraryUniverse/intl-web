@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'bởi',
     'sharing.canvas.chapter': 'Chương {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Đăng tải trên {date}'
+    'sharing.canvas.publishesOn': 'Đăng tải trên {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

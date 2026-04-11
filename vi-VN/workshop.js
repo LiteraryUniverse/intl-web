@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Cài đặt giá đã được lưu.',
     'workshop.monetization.synced': 'Các sản phẩm và giá cả của Stripe đã được đồng bộ hóa.',
     'workshop.monetization.syncStripe': 'Đồng bộ hóa với Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Để thêm nhiều {type, select,
     collaborator {cộng tác viên}
     beta {người đọc bản thử nghiệm}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Cài đặt bách khoa toàn thư',
     'workshop.collaborators.removeUser': 'Xóa người dùng',
     'workshop.collaborators.cancelInvite': 'Hủy lời mời',
+    'workshop.collaborators.mode.search': 'Tìm kiếm người dùng',
+    'workshop.collaborators.mode.email': 'Mời qua email',
+    'workshop.collaborators.sendInvite': 'Gửi lời mời',
+    'workshop.collaborators.emailSent': 'Lời mời đã được gửi đi!',
     'workshop.universe.createFirstStory': 'Tạo câu chuyện đầu tiên',
     'workshop.storylines': 'Các dòng truyện',
     'workshop.scenesManager': 'Quản lý Cảnh',

@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'ਈਮੇਲ ਰਾਹੀਂ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ',
+    'org.members.emailInvite.registered': 'ਰਜਿਸਟਰਡ',
+    'org.members.emailInvite.sent': 'ਈਮੇਲ ਰਾਹੀਂ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ',
+    // Members table
+    'org.members.joined': 'ਸ਼ਾਮਿਲ ਹੋਇਆ',
+    'org.members.actions': 'ਕਿਰਿਆਵਾਂ',
+    'org.roles.super_admin': 'ਸੁਪਰ ਐਡਮਿਨ'
 };

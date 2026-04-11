@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': '已儲存的定價設定。',
     'workshop.monetization.synced': 'Stripe 產品與價格同步。',
     'workshop.monetization.syncStripe': '與 Stripe 同步',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `要添加更多的 {type, select,
     collaborator {合作者}
     beta {測讀者}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': '百科全書設定',
     'workshop.collaborators.removeUser': '移除使用者',
     'workshop.collaborators.cancelInvite': '取消邀請',
+    'workshop.collaborators.mode.search': '搜尋使用者',
+    'workshop.collaborators.mode.email': '透過電子郵件邀請',
+    'workshop.collaborators.sendInvite': '發送邀請函',
+    'workshop.collaborators.emailSent': '邀請函已寄出！',
     'workshop.universe.createFirstStory': '創建第一個故事',
     'workshop.storylines': '故事線',
     'workshop.scenesManager': '場景管理器',

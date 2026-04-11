@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'ได้รับเชิญทางอีเมล',
+    'org.members.emailInvite.registered': 'ลงทะเบียนแล้ว',
+    'org.members.emailInvite.sent': 'ได้รับเชิญทางอีเมล',
+    // Members table
+    'org.members.joined': 'เข้าร่วม',
+    'org.members.actions': 'การกระทำ',
+    'org.roles.super_admin': 'ผู้ดูแลระบบระดับสูง'
 };

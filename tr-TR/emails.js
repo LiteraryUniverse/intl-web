@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Kimden? {requesterName}',
     'email.notifications.friendRequest.cta': 'İnceleme talebi',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'İşbirliği daveti',
-    'email.notifications.collabInvite.title': 'Bir işbirliği davetiniz var',
-    'email.notifications.collabInvite.details': 'Davet eden: {inviterName} - Rolü {role} - Hedef: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} sizi "{targetTitle}" üzerinde {role} olarak işbirliği yapmaya davet etti',
+    'email.notifications.collabInvite.title': 'İşbirliğine davetlisiniz!',
+    'email.notifications.collabInvite.details': 'Davet eden: {inviterName} - Rolü: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Davetiyeyi gözden geçirin',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Bir kuruluşa katılım daveti',
-    'email.notifications.orgInvite.title': 'Katılmaya davetlisiniz {orgName}',
-    'email.notifications.orgInvite.details': 'İnviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} sizi "{orgName} " adresine katılmaya davet etti.',
+    'email.notifications.orgInvite.title': '{orgName} adresine katılmaya davetlisiniz!',
+    'email.notifications.orgInvite.details': 'Davet eden: {inviterName}',
     'email.notifications.orgInvite.cta': 'Davetiyeyi gözden geçirin',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Günlük güncellemeleriniz',

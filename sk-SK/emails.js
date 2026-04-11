@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Od: {requesterName}',
     'email.notifications.friendRequest.cta': 'Žiadosť o preskúmanie',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Pozvánka na spoluprácu',
-    'email.notifications.collabInvite.title': 'Máte pozvánku na spoluprácu',
-    'email.notifications.collabInvite.details': 'Pozývateľ: {inviterName} - Úloha: {role} - Cieľ: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} pozval vás k spolupráci na stránke "{targetTitle}" ako {role}',
+    'email.notifications.collabInvite.title': 'Pozývame vás na spoluprácu!',
+    'email.notifications.collabInvite.details': 'Pozýva: {inviterName} - Úloha: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Pozvánka na recenziu',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Pozvanie do organizácie',
-    'email.notifications.orgInvite.title': 'Pozývame vás na stránku {orgName}',
-    'email.notifications.orgInvite.details': 'Pozývateľ: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} vás pozval, aby ste sa pripojili k "{orgName}"',
+    'email.notifications.orgInvite.title': 'Pozývame vás na stránku {orgName}!',
+    'email.notifications.orgInvite.details': 'Pozýva: {inviterName}',
     'email.notifications.orgInvite.cta': 'Pozvánka na recenziu',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Vaše denné aktualizácie',

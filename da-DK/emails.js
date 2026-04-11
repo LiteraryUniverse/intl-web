@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Fra: {requesterName}',
     'email.notifications.friendRequest.cta': 'Anmodning om anmeldelse',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Invitation til samarbejde',
-    'email.notifications.collabInvite.title': 'Du har en invitation til samarbejde',
-    'email.notifications.collabInvite.details': 'Indbyder: {inviterName} - Rolle: {role} - Mål: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} inviterede dig til at samarbejde om "{targetTitle}" som {role}',
+    'email.notifications.collabInvite.title': 'Du er inviteret til at samarbejde!',
+    'email.notifications.collabInvite.details': 'Inviteret af: {inviterName} - Rolle: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Invitation til gennemgang',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invitation til at blive medlem af en organisation',
-    'email.notifications.orgInvite.title': 'Du er inviteret til at deltage i {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} inviterede dig til at deltage i "{orgName}"',
+    'email.notifications.orgInvite.title': 'Du er inviteret til at deltage i {orgName}!',
+    'email.notifications.orgInvite.details': 'Inviteret af: {inviterName}',
     'email.notifications.orgInvite.cta': 'Invitation til gennemgang',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Dine daglige opdateringer',

@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Prisinställningar sparade.',
     'workshop.monetization.synced': 'Stripe-produkter och -priser synkroniserade.',
     'workshop.monetization.syncStripe': 'Synkronisera med Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `För att lägga till fler {type, select,
     collaborator {medarbetare}
     beta {betaläsare}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Inställningar för encyklopedin',
     'workshop.collaborators.removeUser': 'Ta bort användare',
     'workshop.collaborators.cancelInvite': 'Avbryt inbjudan',
+    'workshop.collaborators.mode.search': 'Sök användare',
+    'workshop.collaborators.mode.email': 'Bjud in via e-post',
+    'workshop.collaborators.sendInvite': 'Skicka inbjudan',
+    'workshop.collaborators.emailSent': 'Inbjudan skickad!',
     'workshop.universe.createFirstStory': 'Skapa det första berättelsen',
     'workshop.storylines': 'Handlingar',
     'workshop.scenesManager': 'Scenerhanteraren',

@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'மின்னஞ்சல் மூலம் அழைக்கப்பட்டது',
+    'org.members.emailInvite.registered': 'பதிவுசெய்த',
+    'org.members.emailInvite.sent': 'மின்னஞ்சல் மூலம் அழைக்கப்பட்டது',
+    // Members table
+    'org.members.joined': 'சேர்ந்தார்',
+    'org.members.actions': 'செயல்கள்',
+    'org.roles.super_admin': 'சூப்பர் நிர்வாகி'
 };

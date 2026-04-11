@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'Minden műhelytárgy megtekintése',
     'org.permissions.forum.manager': 'Fórumok kezelése',
     'org.permissions.blog.manage': 'Blog kezelése',
-    'org.permissions.blog.post': 'Blogbejegyzések létrehozása'
+    'org.permissions.blog.post': 'Blogbejegyzések létrehozása',
+    // Email invitation strings
+    'org.members.emailInvited': 'Meghívás e-mailben',
+    'org.members.emailInvite.registered': 'Regisztrált',
+    'org.members.emailInvite.sent': 'Meghívás e-mailben',
+    // Members table
+    'org.members.joined': 'Csatlakozott',
+    'org.members.actions': 'Tevékenységek',
+    'org.roles.super_admin': 'Super Admin'
 };

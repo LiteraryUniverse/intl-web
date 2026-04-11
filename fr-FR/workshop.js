@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Les paramètres de tarification sont sauvegardés.',
     'workshop.monetization.synced': 'Produits et prix Stripe synchronisés.',
     'workshop.monetization.syncStripe': 'Synchronisation avec Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Pour ajouter d'autres {type, select,
     collaborator {collaborateurs}
     beta {lecteurs bêta}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Paramètres de l\'encyclopédie',
     'workshop.collaborators.removeUser': 'Supprimer l\'utilisateur',
     'workshop.collaborators.cancelInvite': 'Annuler l\'invitation',
+    'workshop.collaborators.mode.search': 'Recherche d\'utilisateurs',
+    'workshop.collaborators.mode.email': 'Invitation par courrier électronique',
+    'workshop.collaborators.sendInvite': 'Envoyer une invitation',
+    'workshop.collaborators.emailSent': 'Invitation envoyée !',
     'workshop.universe.createFirstStory': 'Créer la première histoire',
     'workshop.storylines': 'Synopsis',
     'workshop.scenesManager': 'Gestionnaire de Scénarios',

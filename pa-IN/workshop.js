@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'ਕੀਮਤ ਸੈਟਿੰਗਾਂ ਸੁਰੱਖਿਅਤ ਹੋ ਗਈਆਂ।',
     'workshop.monetization.synced': 'ਸਟ੍ਰਾਈਪ ਦੇ ਉਤਪਾਦ ਅਤੇ ਕੀਮਤਾਂ ਸਿੰਕ ਹੋ ਗਈਆਂ।',
     'workshop.monetization.syncStripe': 'ਸਟ੍ਰਾਈਪ ਨਾਲ ਸਿੰਕ ਕਰੋ',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `ਹੋਰ {type, select,
     collaborator {ਸਹਿਯੋਗੀਆਂ}
     beta {ਬੀਟਾ ਪੜ੍ਹਨ ਵਾਲੇਆਂ}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'ਜਗਤ-ਕੋਸ਼ ਸੈਟਿੰਗਾਂ',
     'workshop.collaborators.removeUser': 'ਯੂਜ਼ਰ ਹਟਾਓ',
     'workshop.collaborators.cancelInvite': 'ਆਮੰਤਰਣ ਰੱਦ ਕਰੋ',
+    'workshop.collaborators.mode.search': 'ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਲੱਭੋ',
+    'workshop.collaborators.mode.email': 'ਈਮੇਲ ਰਾਹੀਂ ਸੱਦਾ',
+    'workshop.collaborators.sendInvite': 'ਨਿਮੰਤਰਣ ਭੇਜੋ',
+    'workshop.collaborators.emailSent': 'ਸੱਦਾ ਭੇਜਿਆ ਗਿਆ!',
     'workshop.universe.createFirstStory': 'ਪਹਿਲਾਂ ਕਹਾਣੀ ਬਣਾਓ',
     'workshop.storylines': 'ਕਹਾਣੀਆਂ ਦੇਖੋ',
     'workshop.scenesManager': 'ਸੀਨਾ ਪ੍ਰਬੰਧਕ',

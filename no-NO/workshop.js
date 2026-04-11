@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Pricing settings saved.',
     'workshop.monetization.synced': 'Stripe products and prices synced.',
     'workshop.monetization.syncStripe': 'Sync with Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `For å legge til flere {type, select,
     collaborator {samarbeidspartnere}
     beta {betale lesere}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Leksikoninnstillinger',
     'workshop.collaborators.removeUser': 'Fjern bruker',
     'workshop.collaborators.cancelInvite': 'Avbryt invitasjon',
+    'workshop.collaborators.mode.search': 'Search users',
+    'workshop.collaborators.mode.email': 'Invite by email',
+    'workshop.collaborators.sendInvite': 'Send invitation',
+    'workshop.collaborators.emailSent': 'Invitation sent!',
     'workshop.universe.createFirstStory': 'Opprett den første historien',
     'workshop.storylines': 'Historielinjer',
     'workshop.scenesManager': 'Scenemanager',

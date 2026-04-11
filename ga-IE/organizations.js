@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'Cuireadh faighte trí ríomhphost',
+    'org.members.emailInvite.registered': 'Cláraithe',
+    'org.members.emailInvite.sent': 'Cuireadh faighte trí ríomhphost',
+    // Members table
+    'org.members.joined': 'Cláraithe',
+    'org.members.actions': 'Gníomhartha',
+    'org.roles.super_admin': 'Sár-Riarthóir'
 };

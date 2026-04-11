@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Pricing settings saved.',
     'workshop.monetization.synced': 'Stripe products and prices synced.',
     'workshop.monetization.syncStripe': 'Sync with Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Upang magdagdag ng higit pang mga {type, select,
     collaborator {kasamang manunulat}
     beta {mga beta reader}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Mga setting ng Ensiklopedya',
     'workshop.collaborators.removeUser': 'Tanggalin ang gumagamit',
     'workshop.collaborators.cancelInvite': 'Kanselahin ang imbitasyon',
+    'workshop.collaborators.mode.search': 'Search users',
+    'workshop.collaborators.mode.email': 'Invite by email',
+    'workshop.collaborators.sendInvite': 'Send invitation',
+    'workshop.collaborators.emailSent': 'Invitation sent!',
     'workshop.universe.createFirstStory': 'Lumikha ng unang kuwento',
     'workshop.storylines': 'Mga linya ng kuwento',
     'workshop.scenesManager': 'Pamamahala ng mga Tagpo',

@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'इमेलद्वारा निमन्त्रणा गरिएको',
+    'org.members.emailInvite.registered': 'दर्ता भएको',
+    'org.members.emailInvite.sent': 'इमेलद्वारा निमन्त्रणा गरिएको',
+    // Members table
+    'org.members.joined': 'जोडिनुभयो',
+    'org.members.actions': 'कार्यहरू',
+    'org.roles.super_admin': 'सुपर एडमिन'
 };

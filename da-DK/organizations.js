@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'Se alle værkstedsartikler',
     'org.permissions.forum.manager': 'Administrer fora',
     'org.permissions.blog.manage': 'Administrer blog',
-    'org.permissions.blog.post': 'Opret blogindlæg'
+    'org.permissions.blog.post': 'Opret blogindlæg',
+    // Email invitation strings
+    'org.members.emailInvited': 'Inviteret via e-mail',
+    'org.members.emailInvite.registered': 'Registreret',
+    'org.members.emailInvite.sent': 'Inviteret via e-mail',
+    // Members table
+    'org.members.joined': 'Kom med',
+    'org.members.actions': 'Handlinger',
+    'org.roles.super_admin': 'Superadministrator'
 };

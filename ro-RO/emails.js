@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'De la: {requesterName}',
     'email.notifications.friendRequest.cta': 'Cerere de revizuire',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Invitație de colaborare',
-    'email.notifications.collabInvite.title': 'Aveți o invitație de colaborare',
-    'email.notifications.collabInvite.details': 'Invitator: {inviterName} - Rol: {role} - Țintă: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} v-a invitat să colaborați la "{targetTitle}" ca {role}',
+    'email.notifications.collabInvite.title': 'Sunteți invitați să colaborați!',
+    'email.notifications.collabInvite.details': 'Invitat de: {inviterName} - Rol: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Invitație la revizuire',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Invitație de a adera la o organizație',
-    'email.notifications.orgInvite.title': 'Sunteți invitați să vă alăturați {orgName}',
-    'email.notifications.orgInvite.details': 'Invitator: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} v-a invitat să vă alăturați "{orgName}"',
+    'email.notifications.orgInvite.title': 'Sunteți invitați să vă alăturați {orgName}!',
+    'email.notifications.orgInvite.details': 'Invitat de: {inviterName}',
     'email.notifications.orgInvite.cta': 'Invitație la revizuire',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Actualizările dvs. zilnice',

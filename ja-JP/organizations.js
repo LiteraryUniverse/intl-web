@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'ワークショップの全項目を見る',
     'org.permissions.forum.manager': 'フォーラムの管理',
     'org.permissions.blog.manage': 'ブログ管理',
-    'org.permissions.blog.post': 'ブログ記事の作成'
+    'org.permissions.blog.post': 'ブログ記事の作成',
+    // Email invitation strings
+    'org.members.emailInvited': '電子メールによる招待',
+    'org.members.emailInvite.registered': '登録済み',
+    'org.members.emailInvite.sent': '電子メールによる招待',
+    // Members table
+    'org.members.joined': '参加',
+    'org.members.actions': '行動',
+    'org.roles.super_admin': 'スーパー管理者'
 };

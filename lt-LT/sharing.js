@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'pagal',
     'sharing.canvas.chapter': 'Skyrius {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Skelbiama svetainėje {date}'
+    'sharing.canvas.publishesOn': 'Skelbiama svetainėje {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

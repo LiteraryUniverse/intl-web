@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'დაპატიჟებული ელფოსტით',
+    'org.members.emailInvite.registered': 'დარეგისტრირებული',
+    'org.members.emailInvite.sent': 'დაპატიჟებული ელფოსტით',
+    // Members table
+    'org.members.joined': 'შემოერთდა',
+    'org.members.actions': 'მოქმედებები',
+    'org.roles.super_admin': 'სუპერ ადმინი'
 };

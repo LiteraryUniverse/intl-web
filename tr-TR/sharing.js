@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'tarafından',
     'sharing.canvas.chapter': 'Bölüm {chapterNumber}',
-    'sharing.canvas.publishesOn': '{date}adresinde yayınlanmaktadır.'
+    'sharing.canvas.publishesOn': '{date}adresinde yayınlanmaktadır.',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

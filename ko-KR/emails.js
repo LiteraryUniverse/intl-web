@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': '에서: {requesterName}',
     'email.notifications.friendRequest.cta': '검토 요청',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': '공동 작업 초대',
-    'email.notifications.collabInvite.title': '공동 작업 초대를 받았습니다.',
-    'email.notifications.collabInvite.details': '초대자: {inviterName} - 역할 {role} - 대상: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} "{targetTitle}"를 {role} 으로 공동 작업하도록 초대했습니다.',
+    'email.notifications.collabInvite.title': '협업에 여러분을 초대합니다!',
+    'email.notifications.collabInvite.details': '초대받은 사람: {inviterName} - Role: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': '초대 검토',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': '조직 가입 초대',
-    'email.notifications.orgInvite.title': '{orgName}에 초대되었습니다.',
-    'email.notifications.orgInvite.details': '초대자: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} "{orgName}"',
+    'email.notifications.orgInvite.title': '{orgName} 에 초대합니다!',
+    'email.notifications.orgInvite.details': '초대받은 사람: {inviterName}',
     'email.notifications.orgInvite.cta': '초대 검토',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': '일일 업데이트',

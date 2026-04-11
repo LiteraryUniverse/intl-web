@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'Invited by email',
+    'org.members.emailInvite.registered': 'Registered',
+    'org.members.emailInvite.sent': 'Invited by email',
+    // Members table
+    'org.members.joined': 'Joined',
+    'org.members.actions': 'Actions',
+    'org.roles.super_admin': 'Super Admin'
 };

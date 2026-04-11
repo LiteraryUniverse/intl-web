@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': '가격 설정이 저장되었습니다.',
     'workshop.monetization.synced': '스트라이프 제품 및 가격이 동기화됩니다.',
     'workshop.monetization.syncStripe': '스트라이프와 동기화',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `더 많은 {type, select,
     collaborator {공동 창작자,}
     beta {베타 리더,}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': '백과사전 설정',
     'workshop.collaborators.removeUser': '사용자 제거',
     'workshop.collaborators.cancelInvite': '초대 취소',
+    'workshop.collaborators.mode.search': '사용자 검색',
+    'workshop.collaborators.mode.email': '이메일로 초대',
+    'workshop.collaborators.sendInvite': '초대 보내기',
+    'workshop.collaborators.emailSent': '초대장이 전송되었습니다!',
     'workshop.universe.createFirstStory': '첫 번째 이야기 만들기',
     'workshop.storylines': '스토리라인',
     'workshop.scenesManager': '장면 관리자',

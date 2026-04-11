@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Iš: {requesterName}',
     'email.notifications.friendRequest.cta': 'Peržiūros prašymas',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Kvietimas bendradarbiauti',
-    'email.notifications.collabInvite.title': 'Turite bendradarbiavimo kvietimą',
-    'email.notifications.collabInvite.details': 'Kviečiantysis: {inviterName} - Vaidmuo: {role} - Tikslas: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} pakvietė jus bendradarbiauti su "{targetTitle}" kaip {role}.',
+    'email.notifications.collabInvite.title': 'Kviečiame bendradarbiauti!',
+    'email.notifications.collabInvite.details': 'Kviečia: {inviterName} - Vaidmuo: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Peržiūrėti kvietimą',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Kvietimas prisijungti prie organizacijos',
-    'email.notifications.orgInvite.title': 'Kviečiame prisijungti prie {orgName}',
-    'email.notifications.orgInvite.details': 'Invoiteris: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} pakvietė prisijungti prie "{orgName}"',
+    'email.notifications.orgInvite.title': 'Kviečiame prisijungti prie {orgName}!',
+    'email.notifications.orgInvite.details': 'Kviečia: {inviterName}',
     'email.notifications.orgInvite.cta': 'Peržiūrėti kvietimą',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Jūsų kasdieniai atnaujinimai',

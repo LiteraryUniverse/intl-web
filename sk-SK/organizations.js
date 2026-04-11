@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'Zobraziť všetky položky workshopu',
     'org.permissions.forum.manager': 'Správa fór',
     'org.permissions.blog.manage': 'Správa blogu',
-    'org.permissions.blog.post': 'Vytváranie príspevkov na blogu'
+    'org.permissions.blog.post': 'Vytváranie príspevkov na blogu',
+    // Email invitation strings
+    'org.members.emailInvited': 'Pozvaní e-mailom',
+    'org.members.emailInvite.registered': 'Registrované',
+    'org.members.emailInvite.sent': 'Pozvaní e-mailom',
+    // Members table
+    'org.members.joined': 'Pripojil sa k',
+    'org.members.actions': 'Činnosti',
+    'org.roles.super_admin': 'Super administrátor'
 };

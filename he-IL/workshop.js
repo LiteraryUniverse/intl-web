@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'הגדרות התמחור נשמרו.',
     'workshop.monetization.synced': 'מוצרי Stripe והמחירים שלהם סונכרנו.',
     'workshop.monetization.syncStripe': 'סנכרון עם Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `כדי להוסיף עוד {type, select,
     collaborator {שותפים}
     beta {קוראי ביטא}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'הגדרות האנציקלופדיה',
     'workshop.collaborators.removeUser': 'הסר משתמש',
     'workshop.collaborators.cancelInvite': 'בטל הזמנה',
+    'workshop.collaborators.mode.search': 'חפש משתמשים',
+    'workshop.collaborators.mode.email': 'הזמן באמצעות דוא"ל',
+    'workshop.collaborators.sendInvite': 'שלח הזמנה',
+    'workshop.collaborators.emailSent': 'ההזמנה נשלחה!',
     'workshop.universe.createFirstStory': 'צור את הסיפור הראשון',
     'workshop.storylines': 'סיפורים',
     'workshop.scenesManager': 'מנהל הסצינות',

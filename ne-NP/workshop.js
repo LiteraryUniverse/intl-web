@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'मूल्य निर्धारण सेटिङहरू सुरक्षित गरियो।',
     'workshop.monetization.synced': 'Stripe का उत्पादनहरू र मूल्यहरू सिङ्क गरियो।',
     'workshop.monetization.syncStripe': 'Stripe सँग सिङ्क गर्नुहोस्',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `थप {type, select,
     collaborator {सहकर्मी}
     beta {बेटा पाठक}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'विकिपीडिया सेटिङहरू',
     'workshop.collaborators.removeUser': 'प्रयोगकर्ता हटाउनुहोस्',
     'workshop.collaborators.cancelInvite': 'निम्ताहरू रद्द गर्नुहोस्',
+    'workshop.collaborators.mode.search': 'प्रयोगकर्ताहरू खोज्नुहोस्',
+    'workshop.collaborators.mode.email': 'इमेलद्वारा निमन्त्रणा गर्नुहोस्',
+    'workshop.collaborators.sendInvite': 'निमन्त्रणा पठाउनुहोस्',
+    'workshop.collaborators.emailSent': 'निमन्त्रणा पठाइयो!',
     'workshop.universe.createFirstStory': 'पहिलो कथा सिर्जना गर्नुहोस्',
     'workshop.storylines': 'कथाको रेखाचित्रहरू',
     'workshop.scenesManager': 'दृश्य प्रबन्धक',

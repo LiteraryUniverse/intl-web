@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'מאת',
     'sharing.canvas.chapter': 'פרק {chapterNumber}',
-    'sharing.canvas.publishesOn': 'מתפרסם ב- {date}'
+    'sharing.canvas.publishesOn': 'מתפרסם ב- {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

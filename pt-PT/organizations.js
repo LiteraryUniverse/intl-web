@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'Ver todos os itens da oficina',
     'org.permissions.forum.manager': 'Gerir fóruns',
     'org.permissions.blog.manage': 'Gerir o blogue',
-    'org.permissions.blog.post': 'Crie publicações no blogue'
+    'org.permissions.blog.post': 'Crie publicações no blogue',
+    // Email invitation strings
+    'org.members.emailInvited': 'Convidado por correio eletrónico',
+    'org.members.emailInvite.registered': 'Registado',
+    'org.members.emailInvite.sent': 'Convidado por correio eletrónico',
+    // Members table
+    'org.members.joined': 'Aderiu',
+    'org.members.actions': 'Acções',
+    'org.roles.super_admin': 'Super Admin'
 };

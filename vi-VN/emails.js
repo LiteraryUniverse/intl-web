@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Từ: {requesterName}',
     'email.notifications.friendRequest.cta': 'Yêu cầu đánh giá',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Mời hợp tác',
-    'email.notifications.collabInvite.title': 'Bạn đã nhận được lời mời hợp tác.',
-    'email.notifications.collabInvite.details': 'Người mời: {inviterName} • Vai trò: {role} • Đối tượng: {targetType} — {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} đã mời bạn tham gia dự án "{targetTitle}" với tư cách là {role}',
+    'email.notifications.collabInvite.title': 'Mời bạn cùng tham gia!',
+    'email.notifications.collabInvite.details': 'Người mời: {inviterName} • Vai trò: {role} • {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Mời tham gia đánh giá',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Mời tham gia tổ chức',
-    'email.notifications.orgInvite.title': 'Bạn được mời tham gia {orgName}',
-    'email.notifications.orgInvite.details': 'Người mời: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} đã mời bạn tham gia "{orgName}"',
+    'email.notifications.orgInvite.title': 'Mời bạn tham gia diễn đàn {orgName}!',
+    'email.notifications.orgInvite.details': 'Được mời bởi: {inviterName}',
     'email.notifications.orgInvite.cta': 'Mời tham gia đánh giá',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Cập nhật hàng ngày của bạn',

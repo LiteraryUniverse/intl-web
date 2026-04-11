@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'הוזמן בדוא"ל',
+    'org.members.emailInvite.registered': 'רשום',
+    'org.members.emailInvite.sent': 'הוזמן בדוא"ל',
+    // Members table
+    'org.members.joined': 'הצטרף',
+    'org.members.actions': 'פעולות',
+    'org.roles.super_admin': 'מנהל-על'
 };

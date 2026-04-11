@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'ფასების პარამეტრები შენახულია.',
     'workshop.monetization.synced': 'Stripe-ის პროდუქტები და ფასები სინქრონიზებულია.',
     'workshop.monetization.syncStripe': 'სინქრონიზაცია Stripe-თან',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `რომ დაამატოთ მეტი {type, select,
     collaborator {თანამშრომლისთვის}
     beta {ბეტა წამომიყვანებელი}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'ენციკლოპედიის პარამეტრები',
     'workshop.collaborators.removeUser': 'მომხმარებლის წაშლა',
     'workshop.collaborators.cancelInvite': 'შემოთავაზების გაუქმება',
+    'workshop.collaborators.mode.search': 'მომხმარებლების ძიება',
+    'workshop.collaborators.mode.email': 'მიწვევა ელფოსტით',
+    'workshop.collaborators.sendInvite': 'გამოაგზავნე მოსაწვევი',
+    'workshop.collaborators.emailSent': 'მიწვევა გაგზავნილია!',
     'workshop.universe.createFirstStory': 'შექმენი პირველი ამბავი',
     'workshop.storylines': 'სიუჟეტები',
     'workshop.scenesManager': 'სცენების მენეჯერი',

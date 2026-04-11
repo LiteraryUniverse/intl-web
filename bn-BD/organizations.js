@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'View all workshop items',
     'org.permissions.forum.manager': 'Manage forums',
     'org.permissions.blog.manage': 'Manage blog',
-    'org.permissions.blog.post': 'Create blog posts'
+    'org.permissions.blog.post': 'Create blog posts',
+    // Email invitation strings
+    'org.members.emailInvited': 'ইমেইলের মাধ্যমে আমন্ত্রণ জানানো হয়েছে',
+    'org.members.emailInvite.registered': 'নিবন্ধিত',
+    'org.members.emailInvite.sent': 'ইমেইলের মাধ্যমে আমন্ত্রণ জানানো হয়েছে',
+    // Members table
+    'org.members.joined': 'যোগদান করেছেন',
+    'org.members.actions': 'ক্রিয়া',
+    'org.roles.super_admin': 'সুপার অ্যাডমিন'
 };

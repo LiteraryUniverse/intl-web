@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Hinnakujunduse seaded salvestatud.',
     'workshop.monetization.synced': 'Stripe\'i tooted ja hinnad on sünkroonitud.',
     'workshop.monetization.syncStripe': 'Sünkroniseerimine Stripe\'iga',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Rohkemate {type, select,
     collaborator {kaasautorite}
     beta {beetakirjutajate}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Entsüklopeedia seaded',
     'workshop.collaborators.removeUser': 'Eemalda kasutaja',
     'workshop.collaborators.cancelInvite': 'Tühista kutse',
+    'workshop.collaborators.mode.search': 'Otsi kasutajaid',
+    'workshop.collaborators.mode.email': 'Kutsuge e-posti teel',
+    'workshop.collaborators.sendInvite': 'Kutse saatmine',
+    'workshop.collaborators.emailSent': 'Kutse saadetud!',
     'workshop.universe.createFirstStory': 'Loo esimene lugu',
     'workshop.storylines': 'Loo käigud',
     'workshop.scenesManager': 'Stseenide haldur',

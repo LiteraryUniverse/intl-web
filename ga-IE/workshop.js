@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Socruithe praghsála sábháilte.',
     'workshop.monetization.synced': 'Sioncronaithe táirgí agus praghsanna Stripe.',
     'workshop.monetization.syncStripe': 'Sioncronú le Stripe',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Chun níos mó {type, select,
     collaborator {comhoibritheoirí}
     beta {léitheoirí beta}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Socruithe na hEagnaíochta',
     'workshop.collaborators.removeUser': 'Bain úsáideoir',
     'workshop.collaborators.cancelInvite': 'Cealaigh cuireadh',
+    'workshop.collaborators.mode.search': 'Cuardaigh úsáideoirí',
+    'workshop.collaborators.mode.email': 'Cuireadh trí ríomhphost',
+    'workshop.collaborators.sendInvite': 'Cuir cuireadh',
+    'workshop.collaborators.emailSent': 'Cuireadh seolta!',
     'workshop.universe.createFirstStory': 'Cruthaigh an chéad scéal',
     'workshop.storylines': 'Línte Scéalta',
     'workshop.scenesManager': 'Bainisteoir Radhairc',

@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Von: {requesterName}',
     'email.notifications.friendRequest.cta': 'Anfrage zur Überprüfung',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Einladung zur Zusammenarbeit',
-    'email.notifications.collabInvite.title': 'Sie haben eine Einladung zur Zusammenarbeit',
-    'email.notifications.collabInvite.details': 'Einladender: {inviterName} - Rolle: {role} - Ziel: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} Sie eingeladen, an "{targetTitle}" als {role} mitzuarbeiten.',
+    'email.notifications.collabInvite.title': 'Sie sind eingeladen, mitzuarbeiten!',
+    'email.notifications.collabInvite.details': 'Eingeladen von: {inviterName} - Rolle: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Einladung zur Überprüfung',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Einladung zum Beitritt zu einer Organisation',
-    'email.notifications.orgInvite.title': 'Sie sind eingeladen, {orgName}beizutreten.',
-    'email.notifications.orgInvite.details': 'Einlader: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} Sie eingeladen, sich an "{orgName} " zu beteiligen.',
+    'email.notifications.orgInvite.title': 'Sie sind eingeladen, {orgName} beizutreten!',
+    'email.notifications.orgInvite.details': 'Eingeladen von: {inviterName}',
     'email.notifications.orgInvite.cta': 'Einladung zur Überprüfung',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Ihre täglichen Updates',

@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Az árképzési beállítások mentése.',
     'workshop.monetization.synced': 'Stripe termékek és árak szinkronizálása.',
     'workshop.monetization.syncStripe': 'Szinkronizálás Stripe-pal',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `További {type, select,
     collaborator {közreműködők}
     beta {béta olvasók}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Enciklopédia beállítások',
     'workshop.collaborators.removeUser': 'Felhasználó eltávolítása',
     'workshop.collaborators.cancelInvite': 'Meghívás megszakítása',
+    'workshop.collaborators.mode.search': 'Felhasználók keresése',
+    'workshop.collaborators.mode.email': 'Meghívás e-mailben',
+    'workshop.collaborators.sendInvite': 'Meghívó küldése',
+    'workshop.collaborators.emailSent': 'Meghívó elküldve!',
     'workshop.universe.createFirstStory': 'Hozd létre az első történetet',
     'workshop.storylines': 'Történetvonalak',
     'workshop.scenesManager': 'Jelenetek kezelése',

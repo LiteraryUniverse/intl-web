@@ -214,6 +214,7 @@ export default {
     'workshop.monetization.saved': 'Fiyatlandırma ayarları kaydedildi.',
     'workshop.monetization.synced': 'Stripe ürünleri ve fiyatları senkronize edildi.',
     'workshop.monetization.syncStripe': 'Stripe ile senkronize edin',
+    'workshop.monetization.fullStoryUnfinishedWarning': 'You can set a full story price before the story is complete, but the full-story purchase option will not activate until the story is marked as finished.',
     'workshop.collaborators.premium': `Daha fazla {type, select,
     collaborator {işbirlikçi}
     beta {beta okuyucu}
@@ -260,6 +261,10 @@ export default {
     'workshop.encSettings': 'Ansiklopedi ayarları',
     'workshop.collaborators.removeUser': 'Kullanıcıyı kaldır',
     'workshop.collaborators.cancelInvite': 'Daveti iptal et',
+    'workshop.collaborators.mode.search': 'Kullanıcıları arayın',
+    'workshop.collaborators.mode.email': 'E-posta ile davet edin',
+    'workshop.collaborators.sendInvite': 'Davetiye gönder',
+    'workshop.collaborators.emailSent': 'Davetiye gönderildi!',
     'workshop.universe.createFirstStory': 'İlk hikayeyi oluştur',
     'workshop.storylines': 'Hikaye çizgileri',
     'workshop.scenesManager': 'Sahne Yöneticisi',

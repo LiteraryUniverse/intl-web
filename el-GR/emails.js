@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Από: {requesterName}',
     'email.notifications.friendRequest.cta': 'Αίτημα αναθεώρησης',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Πρόσκληση συνεργασίας',
-    'email.notifications.collabInvite.title': 'Έχετε πρόσκληση συνεργασίας',
-    'email.notifications.collabInvite.details': 'Εισαγωγέας: {inviterName} - Ρόλος: {role} - Στόχος: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} σας κάλεσε να συνεργαστείτε στο "{targetTitle}" ως {role}',
+    'email.notifications.collabInvite.title': 'Σας προσκαλούμε να συνεργαστείτε!',
+    'email.notifications.collabInvite.details': 'Προσκεκλημένος από: {inviterName} - Ρόλος: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Πρόσκληση αναθεώρησης',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Πρόσκληση για ένταξη σε έναν οργανισμό',
-    'email.notifications.orgInvite.title': 'Σας προσκαλούμε να συμμετάσχετε στο {orgName}',
-    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} σας προσκάλεσε να συμμετάσχετε στο "{orgName}"',
+    'email.notifications.orgInvite.title': 'Σας προσκαλούμε να συμμετάσχετε στο {orgName}!',
+    'email.notifications.orgInvite.details': 'Προσκεκλημένος από: {inviterName}',
     'email.notifications.orgInvite.cta': 'Πρόσκληση αναθεώρησης',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Οι καθημερινές σας ενημερώσεις',

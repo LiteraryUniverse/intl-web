@@ -107,5 +107,12 @@ export default {
     'stats.storyReadingAnalytics.weekHour': 'Reader activity by week and hour',
     'stats.storyReadingAnalytics.weekHourTooltip': '{day} at {hour}: {readers, number} readers, {sessions, number} sessions, {duration}',
     'stats.storyReadingAnalytics.topWindows': 'Top reading windows',
-    'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics'
+    'stats.storyReadingAnalytics.loadError': 'Failed to load reading analytics',
+    // Writing history summary cards
+    'stats.writingHistory.diaryWords': 'Mots du journal',
+    // Writing history day tooltip - per-category breakdown
+    'stats.writingHistory.dayTooltip.stories': 'Histoires : {words}',
+    'stats.writingHistory.dayTooltip.encyclopedia': 'Encyclopédie : {words}',
+    'stats.writingHistory.dayTooltip.blog': 'Blog : {words}',
+    'stats.writingHistory.dayTooltip.diary': 'Journal : {words}'
 };

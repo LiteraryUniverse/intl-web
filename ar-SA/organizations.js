@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': 'عرض جميع عناصر ورشة العمل',
     'org.permissions.forum.manager': 'إدارة المنتديات',
     'org.permissions.blog.manage': 'إدارة المدونة',
-    'org.permissions.blog.post': 'إنشاء منشورات المدونة'
+    'org.permissions.blog.post': 'إنشاء منشورات المدونة',
+    // Email invitation strings
+    'org.members.emailInvited': 'دُعيت عبر البريد الإلكتروني',
+    'org.members.emailInvite.registered': 'مسجل',
+    'org.members.emailInvite.sent': 'دُعيت عبر البريد الإلكتروني',
+    // Members table
+    'org.members.joined': 'انضم',
+    'org.members.actions': 'الإجراءات',
+    'org.roles.super_admin': 'المسؤول الفائق'
 };

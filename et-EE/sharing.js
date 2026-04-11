@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'poolt',
     'sharing.canvas.chapter': 'Peatükk {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Avaldatakse aadressil {date}.'
+    'sharing.canvas.publishesOn': 'Avaldatakse aadressil {date}.',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'podľa',
     'sharing.canvas.chapter': 'Kapitola {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Publikuje na {date}'
+    'sharing.canvas.publishesOn': 'Publikuje na {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

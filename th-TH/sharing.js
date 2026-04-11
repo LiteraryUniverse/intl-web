@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'โดย',
     'sharing.canvas.chapter': 'บทที่ {chapterNumber}',
-    'sharing.canvas.publishesOn': 'เผยแพร่ที่ {date}'
+    'sharing.canvas.publishesOn': 'เผยแพร่ที่ {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

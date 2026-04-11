@@ -65,5 +65,6 @@ export default {
     // Canvas labels
     'sharing.canvas.by': 'oleh',
     'sharing.canvas.chapter': 'Bab {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Diterbitkan di {date}'
+    'sharing.canvas.publishesOn': 'Diterbitkan di {date}',
+    'sharing.advanced.shareQR': 'Share QR Link'
 };

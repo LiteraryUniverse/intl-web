@@ -87,5 +87,13 @@ export default {
     'org.permissions.workshop.viewAll': '모든 워크샵 항목 보기',
     'org.permissions.forum.manager': '포럼 관리',
     'org.permissions.blog.manage': '블로그 관리',
-    'org.permissions.blog.post': '블로그 게시물 만들기'
+    'org.permissions.blog.post': '블로그 게시물 만들기',
+    // Email invitation strings
+    'org.members.emailInvited': '이메일로 초대',
+    'org.members.emailInvite.registered': '등록됨',
+    'org.members.emailInvite.sent': '이메일로 초대',
+    // Members table
+    'org.members.joined': '가입',
+    'org.members.actions': '작업',
+    'org.roles.super_admin': '슈퍼 관리자'
 };

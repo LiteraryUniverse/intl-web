@@ -123,14 +123,14 @@ export default {
     'email.notifications.friendRequest.details': 'Od: {requesterName}',
     'email.notifications.friendRequest.cta': 'Prośba o recenzję',
     // Notifications - Collaboration invitation
-    'email.notifications.collabInvite.subject': 'Zaproszenie do współpracy',
-    'email.notifications.collabInvite.title': 'Mają Państwo zaproszenie do współpracy',
-    'email.notifications.collabInvite.details': 'Zapraszający: {inviterName} - Rola: {role} - Cel: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.subject': '{inviterName} zaprosił Pana do współpracy nad "{targetTitle}" jako {role}',
+    'email.notifications.collabInvite.title': 'Zapraszamy Państwa do współpracy!',
+    'email.notifications.collabInvite.details': 'Zaproszony przez: {inviterName} - Rola: {role} - {targetType}: {targetTitle}',
     'email.notifications.collabInvite.cta': 'Zaproszenie na przegląd',
     // Notifications - Organization invitation
-    'email.notifications.orgInvite.subject': 'Zaproszenie do dołączenia do organizacji',
-    'email.notifications.orgInvite.title': 'Zapraszamy Państwa na stronę {orgName}',
-    'email.notifications.orgInvite.details': 'Zapraszający: {inviterName}',
+    'email.notifications.orgInvite.subject': '{inviterName} zaprosił Państwa do przyłączenia się do "{orgName}"',
+    'email.notifications.orgInvite.title': 'Zapraszamy Państwa do dołączenia do {orgName}!',
+    'email.notifications.orgInvite.details': 'Zaproszony przez: {inviterName}',
     'email.notifications.orgInvite.cta': 'Zaproszenie na przegląd',
     // Notifications - Daily digest
     'email.notifications.dailyDigest.subject': 'Państwa codzienne aktualizacje',
