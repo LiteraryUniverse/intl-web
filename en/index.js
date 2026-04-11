@@ -37,6 +37,7 @@ import readingList from "./reading_list";
 import personalNotes from "./personalNotes";
 import courses from "./courses";
 import diary from "./diary";
+import resume from "./resume";
 
 export default {
   locales: ["en", "en-US", "en-UK", "en-CA", "en-AU", "en-NZ"],
@@ -79,4 +80,5 @@ export default {
   ...personalNotes,
   ...courses,
   ...diary,
+  ...resume,
 };

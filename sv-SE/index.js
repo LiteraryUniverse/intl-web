@@ -35,6 +35,7 @@ import events from './events'
 import fanManager from './fan_manager'
 import readingList from './reading_list'
 import personalNotes from './personalNotes'
+import resume from './resume'
 
 export default {
   locales: ['sv', 'sv-SE', 'sv-FI', 'sv-AX'],
@@ -75,4 +76,5 @@ export default {
   ...fanManager,
   ...readingList,
   ...personalNotes,
+  ...resume,
 }
