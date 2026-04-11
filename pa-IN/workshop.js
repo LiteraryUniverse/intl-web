@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'ਪ੍ਰਕਾਸ਼ਕ ਝਲਕ',
+    'workshop.story.publisherPreview.description': 'ਤੁਹਾਡੇ ਲੇਖਕ ਦੇ ਰੈਜ਼ਿਊਮੇ ਨੂੰ ਵੇਖਣ ਵਾਲੇ ਪ੍ਰਕਾਸ਼ਕਾਂ ਲਈ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਪ੍ਰੀਵਿਊ ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ। ਇਹ ਫਾਈਲ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਸਟੋਰ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਅਤੇ ਸਿਰਫ਼ ਪ੍ਰਕਾਸ਼ਕਾਂ ਲਈ ਹੀ ਉਪਲਬਧ ਹੈ।',
+    'workshop.story.publisherPreview.freeStory': 'ਇਹ ਕਹਾਣੀ ਮੁਫ਼ਤ ਹੈ। ਵੱਖਰਾ ਪ੍ਰੀਵਿਊ ਅੱਪਲੋਡ ਕਰਨ ਦੀ ਬਜਾਏ ਹੇਠਾਂ ਪੂਰਾ EPUB ਤਿਆਰ ਕਰਨ \'ਤੇ ਵਿਚਾਰ ਕਰੋ — ਪ੍ਰਕਾਸ਼ਕ ਪੂਰੇ ਕੰਮ ਤੱਕ ਪਹੁੰਚ ਕਰ ਸਕਦੇ ਹਨ।',
+    'workshop.story.publisherPreview.upload': 'ਅੱਪਲੋਡ ਪ੍ਰੀਵਿਊ (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'ਅੱਪਲੋਡ ਹੋ ਰਿਹਾ ਹੈ... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'ਇਸ ਕਹਾਣੀ ਲਈ ਇੱਕ ਪ੍ਰਕਾਸ਼ਕ ਪ੍ਰੀਵਿਊ ਫਾਈਲ ਅੱਪਲੋਡ ਕੀਤੀ ਗਈ ਹੈ।',
+    'workshop.story.publisherPreview.replace': 'ਫਾਈਲ ਬਦਲੋ',
+    'workshop.story.publisherPreview.remove': 'ਹਟਾਓ'
 };
