@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'Förhandsgranskning av utgivare',
+    'workshop.story.publisherPreview.description': 'Ladda upp en särskild förhandsgranskningsfil för förlag som tittar på ditt Author\'s Resume. Den här filen lagras säkert och är endast tillgänglig för förläggare.',
+    'workshop.story.publisherPreview.freeStory': 'Den här berättelsen är gratis. Överväg att generera en fullständig EPUB nedan istället för att ladda upp en separat förhandsvisning - förläggare kan få tillgång till hela verket.',
+    'workshop.story.publisherPreview.upload': 'Förhandsgranskning av uppladdning (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'Uppladdning ... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'En förhandsgranskningsfil för utgivare har laddats upp för den här artikeln.',
+    'workshop.story.publisherPreview.replace': 'Ersätt fil',
+    'workshop.story.publisherPreview.remove': 'Ta bort'
 };
