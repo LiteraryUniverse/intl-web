@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
+    'workshop.story.publisherPreview.heading': 'Kustantajan esikatselu',
+    'workshop.story.publisherPreview.description': 'Lataa erityinen esikatselutiedosto kustantajia varten, jotka voivat tarkastella kirjoittajan ansioluetteloa. Tämä tiedosto tallennetaan turvallisesti, ja vain kustantajat pääsevät siihen käsiksi.',
+    'workshop.story.publisherPreview.freeStory': 'Tämä tarina on ilmainen. Harkitse koko EPUB-tiedoston luomista alla erillisen esikatselun lataamisen sijaan - kustantajat voivat käyttää koko teosta.',
+    'workshop.story.publisherPreview.upload': 'Lataa esikatselu (PDF, EPUB)',
     'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.uploaded': 'Julkaisijan esikatselutiedosto on ladattu tätä juttua varten.',
+    'workshop.story.publisherPreview.replace': 'Korvaa tiedosto',
+    'workshop.story.publisherPreview.remove': 'Poista'
 };
