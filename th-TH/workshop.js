@@ -560,12 +560,12 @@ export default {
     'workshop.ai.llmstxt.full': 'Content LLMs.txt - Full content for AI',
     'workshop.ai.llmstxt.fullShort': 'Full content',
     // Publisher Preview (Author's Resume)
-    'workshop.story.publisherPreview.heading': 'Publisher Preview',
-    'workshop.story.publisherPreview.description': 'Upload a special preview file for publishers viewing your Author\'s Resume. This file is stored securely and only accessible to publishers.',
-    'workshop.story.publisherPreview.freeStory': 'This story is free. Consider generating a full EPUB below instead of uploading a separate preview — publishers can access the complete work.',
-    'workshop.story.publisherPreview.upload': 'Upload Preview (PDF, EPUB)',
-    'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
-    'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
-    'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove'
+    'workshop.story.publisherPreview.heading': 'พรีวิวสำหรับผู้จัดพิมพ์',
+    'workshop.story.publisherPreview.description': 'อัปโหลดไฟล์ตัวอย่างพิเศษสำหรับผู้จัดพิมพ์ที่ดูประวัติผู้แต่งของคุณ ไฟล์นี้จะถูกเก็บไว้อย่างปลอดภัยและสามารถเข้าถึงได้เฉพาะผู้จัดพิมพ์เท่านั้น',
+    'workshop.story.publisherPreview.freeStory': 'เรื่องนี้ฟรี โปรดพิจารณาสร้างไฟล์ EPUB แบบเต็มด้านล่างแทนการอัปโหลดตัวอย่างแยกต่างหาก — ผู้จัดพิมพ์สามารถเข้าถึงผลงานฉบับสมบูรณ์ได้',
+    'workshop.story.publisherPreview.upload': 'อัปโหลดตัวอย่าง (PDF, EPUB)',
+    'workshop.story.publisherPreview.uploading': 'กำลังอัปโหลด... {progress}%',
+    'workshop.story.publisherPreview.uploaded': 'ไฟล์ตัวอย่างสำหรับผู้จัดพิมพ์ได้ถูกอัปโหลดสำหรับเรื่องนี้แล้ว',
+    'workshop.story.publisherPreview.replace': 'แทนที่ไฟล์',
+    'workshop.story.publisherPreview.remove': 'ลบ'
 };
