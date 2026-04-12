@@ -137,6 +137,7 @@ export default {
   'resume.public.contact.website': 'เว็บไซต์',
   'resume.public.contact.address': 'ที่อยู่',
   'resume.public.readFreeStory': 'อ่านเรื่องราวทั้งหมด',
+  'resume.public.viewResume': 'ดูประวัติการทำงานของ {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'นามบัตร',
   'resume.sharing.fullPage': 'หน้าเต็ม',
