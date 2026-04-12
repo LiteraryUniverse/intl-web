@@ -138,6 +138,7 @@ export default {
   'resume.public.contact.website': 'ਵੈੱਬਸਾਈਟ',
   'resume.public.contact.address': 'ਪਤਾ',
   'resume.public.readFreeStory': 'ਪੂਰੀ ਕਹਾਣੀ ਪੜ੍ਹੋ',
+  'resume.public.viewResume': '{user}ਦਾ ਰੈਜ਼ਿਊਮੇ ਵੇਖੋ',
   // Sharing / QR
   'resume.sharing.businessCard': 'ਕਾਰੋਬਾਰੀ ਕਾਰਡ',
   'resume.sharing.fullPage': 'ਪੂਰਾ ਪੰਨਾ',
