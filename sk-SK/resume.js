@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Webová lokalita',
   'resume.public.contact.address': 'Adresa',
   'resume.public.readFreeStory': 'Prečítajte si celý príbeh',
+  'resume.public.viewResume': 'Zobraziť životopis na {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'Vizitka',
   'resume.sharing.fullPage': 'Celá strana',
