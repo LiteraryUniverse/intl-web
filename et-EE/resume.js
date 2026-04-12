@@ -138,6 +138,7 @@ export default {
   'resume.public.contact.website': 'Veebileht',
   'resume.public.contact.address': 'Aadress',
   'resume.public.readFreeStory': 'Loe kogu lugu',
+  'resume.public.viewResume': "Vaata {user}'s resümee",
   // Sharing / QR
   'resume.sharing.businessCard': 'visiitkaart',
   'resume.sharing.fullPage': 'Täielik lehekülg',
