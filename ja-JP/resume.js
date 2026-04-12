@@ -136,6 +136,7 @@ export default {
   'resume.public.contact.website': 'ウェブサイト',
   'resume.public.contact.address': '住所',
   'resume.public.readFreeStory': '全文を読む',
+  'resume.public.viewResume': '{user}の履歴書を見る',
   // Sharing / QR
   'resume.sharing.businessCard': '名刺',
   'resume.sharing.fullPage': '全ページ',
