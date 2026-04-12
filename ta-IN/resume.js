@@ -141,6 +141,7 @@ export default {
   'resume.public.contact.website': 'இணையதளம்',
   'resume.public.contact.address': 'முகவரி',
   'resume.public.readFreeStory': 'முழு கதையையும் படிக்கவும்',
+  'resume.public.viewResume': '{user}-இன் சுயவிவரத்தைப் பார்க்கவும்',
   // Sharing / QR
   'resume.sharing.businessCard': 'வணிக அட்டை',
   'resume.sharing.fullPage': 'முழுப் பக்கம்',
