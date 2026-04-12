@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Site web',
   'resume.public.contact.address': 'Adresă',
   'resume.public.readFreeStory': 'Read Full Story',
+  'resume.public.viewResume': 'Vezi CV-ul lui {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'Carte de vizită',
   'resume.sharing.fullPage': 'Pagina întreagă',
