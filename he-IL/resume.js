@@ -135,6 +135,7 @@ export default {
   'resume.public.contact.website': 'אתר אינטרנט',
   'resume.public.contact.address': 'כתובת',
   'resume.public.readFreeStory': 'קרא את הסיפור המלא',
+  'resume.public.viewResume': 'צפה בקורות החיים של {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'כרטיס ביקור',
   'resume.sharing.fullPage': 'עמוד שלם',
