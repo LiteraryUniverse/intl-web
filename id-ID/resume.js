@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Situs web',
   'resume.public.contact.address': 'Alamat',
   'resume.public.readFreeStory': 'Baca Cerita Lengkap',
+  'resume.public.viewResume': 'Lihat resume {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'Kartu nama',
   'resume.sharing.fullPage': 'Halaman Penuh',
