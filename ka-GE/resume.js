@@ -138,6 +138,7 @@ export default {
   'resume.public.contact.website': 'ვებსაიტი',
   'resume.public.contact.address': 'მისამართი',
   'resume.public.readFreeStory': 'სრული ამბის წაკითხვა',
+  'resume.public.viewResume': '{user}-ის რეზიუმეს ნახვა',
   // Sharing / QR
   'resume.sharing.businessCard': 'საიმიჯენო ბარათი',
   'resume.sharing.fullPage': 'სრული გვერდი',
