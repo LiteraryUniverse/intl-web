@@ -141,6 +141,7 @@ export default {
   'resume.public.contact.website': 'Trang web',
   'resume.public.contact.address': 'Địa chỉ',
   'resume.public.readFreeStory': 'Đọc toàn bộ bài viết',
+  'resume.public.viewResume': 'Xem hồ sơ của {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'Danh thiếp',
   'resume.sharing.fullPage': 'Toàn trang',
