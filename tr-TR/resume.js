@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Web sitesi',
   'resume.public.contact.address': 'Adres',
   'resume.public.readFreeStory': 'Hikayenin Tamamını Oku',
+  'resume.public.viewResume': "{user}'un özgeçmişini görüntüleyin",
   // Sharing / QR
   'resume.sharing.businessCard': 'Kartvizit',
   'resume.sharing.fullPage': 'Tam Sayfa',
