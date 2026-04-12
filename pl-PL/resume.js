@@ -138,6 +138,7 @@ export default {
   'resume.public.contact.website': 'Strona internetowa',
   'resume.public.contact.address': 'Adres',
   'resume.public.readFreeStory': 'Czytaj całość',
+  'resume.public.viewResume': "Proszę zobaczyć {user}'CV",
   // Sharing / QR
   'resume.sharing.businessCard': 'Wizytówka',
   'resume.sharing.fullPage': 'Pełna strona',
