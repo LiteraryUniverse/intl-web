@@ -140,6 +140,7 @@ export default {
   'resume.public.contact.website': 'Website',
   'resume.public.contact.address': 'Adresse',
   'resume.public.readFreeStory': 'Vollständige Geschichte lesen',
+  'resume.public.viewResume': "{user}'s Lebenslauf ansehen",
   // Sharing / QR
   'resume.sharing.businessCard': 'Visitenkarte',
   'resume.sharing.fullPage': 'Ganze Seite',
