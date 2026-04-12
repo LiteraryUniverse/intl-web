@@ -132,6 +132,7 @@ export default {
   'resume.public.contact.website': '網站',
   'resume.public.contact.address': '地址',
   'resume.public.readFreeStory': '閱讀完整故事',
+  'resume.public.viewResume': '檢視 {user}的履歷',
   // Sharing / QR
   'resume.sharing.businessCard': '名片',
   'resume.sharing.fullPage': '全頁',
