@@ -141,6 +141,7 @@ export default {
   'resume.public.contact.website': 'Ιστοσελίδα',
   'resume.public.contact.address': 'Διεύθυνση',
   'resume.public.readFreeStory': 'Διαβάστε ολόκληρη την ιστορία',
+  'resume.public.viewResume': 'Δείτε το βιογραφικό του {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'Επαγγελματική κάρτα',
   'resume.sharing.fullPage': 'Πλήρης σελίδα',
