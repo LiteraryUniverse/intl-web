@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Weboldal',
   'resume.public.contact.address': 'Cím:',
   'resume.public.readFreeStory': 'Teljes történet elolvasása',
+  'resume.public.viewResume': '{user}önéletrajzának megtekintése',
   // Sharing / QR
   'resume.sharing.businessCard': 'Névjegykártya',
   'resume.sharing.fullPage': 'Teljes oldal',
