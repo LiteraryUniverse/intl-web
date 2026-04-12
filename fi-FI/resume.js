@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Verkkosivusto',
   'resume.public.contact.address': 'Osoite',
   'resume.public.readFreeStory': 'Lue koko tarina',
+  'resume.public.viewResume': "Näytä {user}'s ansioluettelo",
   // Sharing / QR
   'resume.sharing.businessCard': 'Käyntikortti',
   'resume.sharing.fullPage': 'Koko sivu',
