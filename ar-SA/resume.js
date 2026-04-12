@@ -134,6 +134,7 @@ export default {
   'resume.public.contact.website': 'الموقع الإلكتروني',
   'resume.public.contact.address': 'العنوان',
   'resume.public.readFreeStory': 'اقرأ القصة كاملة',
+  'resume.public.viewResume': 'عرض السيرة الذاتية لـ {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'بطاقة العمل',
   'resume.sharing.fullPage': 'صفحة كاملة',
