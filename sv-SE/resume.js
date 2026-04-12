@@ -138,6 +138,7 @@ export default {
   'resume.public.contact.website': 'Webbplats',
   'resume.public.contact.address': 'Adress',
   'resume.public.readFreeStory': 'Läs hela berättelsen',
+  'resume.public.viewResume': "Se {user}'s CV",
   // Sharing / QR
   'resume.sharing.businessCard': 'Visitkort',
   'resume.sharing.fullPage': 'Hela sidan',
