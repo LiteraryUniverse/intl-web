@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Svetainė',
   'resume.public.contact.address': 'Adresas',
   'resume.public.readFreeStory': 'Skaityti visą istoriją',
+  'resume.public.viewResume': "Peržiūrėti {user}'s CV",
   // Sharing / QR
   'resume.sharing.businessCard': 'Vizitinė kortelė',
   'resume.sharing.fullPage': 'Visas puslapis',
