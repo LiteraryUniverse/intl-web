@@ -139,6 +139,7 @@ export default {
   'resume.public.contact.website': 'Suíomh gréasáin',
   'resume.public.contact.address': 'Seoladh',
   'resume.public.readFreeStory': 'Léigh an scéal iomlán',
+  'resume.public.viewResume': 'Féach ar CV {user}',
   // Sharing / QR
   'resume.sharing.businessCard': 'Cárta gnó',
   'resume.sharing.fullPage': 'Leathanach Iomlán',
