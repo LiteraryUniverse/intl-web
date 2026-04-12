@@ -138,6 +138,7 @@ export default {
   'resume.public.contact.website': 'ওয়েবসাইট',
   'resume.public.contact.address': 'ঠিকানা',
   'resume.public.readFreeStory': 'সম্পূর্ণ গল্প পড়ুন',
+  'resume.public.viewResume': '{user}-এর জীবনবৃত্তান্ত দেখুন',
   // Sharing / QR
   'resume.sharing.businessCard': 'ব্যবসায়িক কার্ড',
   'resume.sharing.fullPage': 'পূর্ণ পৃষ্ঠা',
