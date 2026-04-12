@@ -137,6 +137,7 @@ export default {
   'resume.public.contact.website': 'Website',
   'resume.public.contact.address': 'Address',
   'resume.public.readFreeStory': 'Read Full Story',
+  'resume.public.viewResume': "View {user}'s resume",
   // Sharing / QR
   'resume.sharing.businessCard': 'Business Card',
   'resume.sharing.fullPage': 'Full Page',
