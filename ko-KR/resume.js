@@ -134,6 +134,7 @@ export default {
   'resume.public.contact.website': '웹사이트',
   'resume.public.contact.address': '주소',
   'resume.public.readFreeStory': '전체 스토리 읽기',
+  'resume.public.viewResume': '{user}의 이력서 보기',
   // Sharing / QR
   'resume.sharing.businessCard': '명함',
   'resume.sharing.fullPage': '전체 페이지',
