@@ -138,6 +138,7 @@ export default {
   'resume.public.contact.website': 'Сайт',
   'resume.public.contact.address': 'Адрес',
   'resume.public.readFreeStory': 'Читать полностью',
+  'resume.public.viewResume': "Посмотреть {user}'резюме",
   // Sharing / QR
   'resume.sharing.businessCard': 'Визитная карточка',
   'resume.sharing.fullPage': 'Полная страница',
