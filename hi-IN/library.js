@@ -9,5 +9,6 @@ export default {
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'कृपया खोज शब्द दर्ज करें या फ़िल्टर लागू करें',
     'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search': 'Search Your Library',
+    'library.ownedStories': 'खरीदी गई कहानियाँ'
 };
