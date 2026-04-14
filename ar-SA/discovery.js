@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'يتم التوصية بهذه القصص بناءً على محرك التوصيات الخاص بنا. الذي يستخدم التعلم الآلي للتوصية بقصص لك.',
     'discovery.recommendations.recommendationsSettings': 'يمكنك تعطيل ذلك في إعداداتك.',
     'discover.search.templateUniverses': 'عرض أكوان القوالب فقط (الموسوعات القابلة للنسخ)',
-    'discover.ratingExplained': 'متوسط التقييم {avgRating, number} من {reviewsNum, number} ~ مراجعة'
+    'discover.ratingExplained': 'متوسط التقييم {avgRating, number} من {reviewsNum, number} ~ مراجعة',
+    // Story purchase
+    'story.buy.button': 'اشترِ {price}',
+    'story.buy.confirm': 'أنت على وشك شراء هذا مقابل {price}. ستتم إعادة توجيهك إلى Stripe لإتمام عملية الدفع. أكمل؟',
+    'story.buy.currency': 'عملة الشراء',
+    'story.buy.error.generic': 'فشل الشراء',
+    'story.buy.loginRequired': 'تسجيل الدخول للشراء',
+    'story.buy.redirecting': 'إعادة توجيه...',
+    'story.price.free': 'مجاناً',
+    'story.price.owned': 'مملوكة',
+    'story.price.paid': 'مدفوعة الأجر'
 };
