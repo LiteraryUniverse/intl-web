@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': '過去の {chaptersCount, number} 章の投稿日に基づいて、次の章は非常に近いうちにリリースされる予定です。',
     'reader.nextChapterEstimation.days': '過去の {chaptersCount, number} 章の投稿日に基づいて、次の章はおおよそ {daysLeft, plural, one {1日} other {日後に利用可能となります}}。',
     'reader.nextChapterEstimation.notEnoughChapters': 'この物語に複数のチャプターがある場合、次のチャプターがいつ公開されるかの見積もりも提供します。',
-    'reader.comments.chapterNotAvailable': 'コメントはまだありません。まだチャプターがリリースされていないためです。'
+    'reader.comments.chapterNotAvailable': 'コメントはまだありません。まだチャプターがリリースされていないためです。',
+    // Purchase gate
+    'reader.purchaseGate.title': 'この章は購入が必要',
+    'reader.purchaseGate.description': '{storyTitle}{authorName, select, undefined {} other { by {authorName}}}を読み続けるには、購入する必要がある。',
+    'reader.purchaseGate.buyFullStory': '全文を購入する',
+    'reader.purchaseGate.buyArc': 'または、このアークを購入する',
+    'reader.purchaseGate.buying': 'チェックアウトにリダイレクト...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} 章} other {{count} 章}} 含む',
+    'reader.purchaseGate.loginRequired': 'この記事を購入するにはログインしてください。'
 };
