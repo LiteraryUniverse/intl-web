@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Cerita-cerita ini direkomendasikan berdasarkan mesin rekomendasi kami. Yang menggunakan pembelajaran mesin untuk merekomendasikan cerita untuk Anda.',
     'discovery.recommendations.recommendationsSettings': 'Anda dapat menonaktifkan ini di Pengaturan Anda.',
     'discover.search.templateUniverses': 'Tampilkan hanya template semesta (ensiklopedia yang dapat disalin)',
-    'discover.ratingExplained': 'Peringkat rata-rata dari {avgRating, number} dari {reviewsNum, number} review'
+    'discover.ratingExplained': 'Peringkat rata-rata dari {avgRating, number} dari {reviewsNum, number} review',
+    // Story purchase
+    'story.buy.button': 'Beli untuk {price}',
+    'story.buy.confirm': 'Anda akan membeli ini untuk {price}. Anda akan diarahkan ke Stripe untuk menyelesaikan pembayaran. Lanjutkan?',
+    'story.buy.currency': 'Mata uang pembelian',
+    'story.buy.error.generic': 'Pembelian gagal',
+    'story.buy.loginRequired': 'Masuk untuk membeli',
+    'story.buy.redirecting': 'Mengalihkan...',
+    'story.price.free': 'Gratis',
+    'story.price.owned': 'Dimiliki',
+    'story.price.paid': 'Dibayar'
 };
