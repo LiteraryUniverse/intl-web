@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'แสดงเฉพาะจักรวาลเทมเพลต (สารานุกรมที่คัดลอกได้)',
-    'discover.ratingExplained': 'คะแนนเฉลี่ย {avgRating, number} จาก {reviewsNum, number} รีวิว'
+    'discover.ratingExplained': 'คะแนนเฉลี่ย {avgRating, number} จาก {reviewsNum, number} รีวิว',
+    // Story purchase
+    'story.buy.button': 'ซื้อสำหรับ {price}',
+    'story.buy.confirm': 'คุณกำลังจะซื้อสินค้านี้ที่ {price}คุณจะได้รับการเปลี่ยนเส้นทางไปยัง Stripe เพื่อดำเนินการชำระเงินให้เสร็จสมบูรณ์ ดำเนินการต่อหรือไม่?',
+    'story.buy.currency': 'ซื้อสกุลเงิน',
+    'story.buy.error.generic': 'การซื้อล้มเหลว',
+    'story.buy.loginRequired': 'เข้าสู่ระบบเพื่อซื้อ',
+    'story.buy.redirecting': 'กำลังเปลี่ยนเส้นทาง...',
+    'story.price.free': 'ฟรี',
+    'story.price.owned': 'เป็นเจ้าของ',
+    'story.price.paid': 'ชำระเงินแล้ว'
 };
