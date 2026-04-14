@@ -91,5 +91,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Эти истории рекомендуются на основе нашей системы рекомендаций. Она использует машинное обучение, чтобы рекомендовать Вам истории.',
     'discovery.recommendations.recommendationsSettings': 'Вы можете отключить это в Ваших настройках.',
     'discover.search.templateUniverses': 'Показывайте только шаблонные вселенные (копируемые энциклопедии)',
-    'discover.ratingExplained': 'Средняя оценка {avgRating, number} из {reviewsNum, number} обзора'
+    'discover.ratingExplained': 'Средняя оценка {avgRating, number} из {reviewsNum, number} обзора',
+    // Story purchase
+    'story.buy.button': 'Купить на {price}',
+    'story.buy.confirm': 'Вы собираетесь приобрести это для {price}. Вы будете перенаправлены на сайт Stripe для завершения платежа. Продолжить?',
+    'story.buy.currency': 'Валюта покупки',
+    'story.buy.error.generic': 'Покупка не удалась',
+    'story.buy.loginRequired': 'Войдите в систему, чтобы купить',
+    'story.buy.redirecting': 'Перенаправление...',
+    'story.price.free': 'Бесплатно',
+    'story.price.owned': 'Собственный',
+    'story.price.paid': 'Оплачивается'
 };
