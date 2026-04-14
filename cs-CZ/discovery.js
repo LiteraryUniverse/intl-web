@@ -91,5 +91,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Tyto příběhy jsou doporučovány na základě našich doporučení. Ten využívá strojové učení k doporučování příběhů.',
     'discovery.recommendations.recommendationsSettings': 'Tuto funkci můžete zakázat ve svém nastavení.',
     'discover.search.templateUniverses': 'Zobrazit pouze šablony vesmírů (kopírovatelné encyklopedie)',
-    'discover.ratingExplained': 'Průměrné hodnocení {avgRating, number} od {reviewsNum, number} recenze'
+    'discover.ratingExplained': 'Průměrné hodnocení {avgRating, number} od {reviewsNum, number} recenze',
+    // Story purchase
+    'story.buy.button': 'Koupit na {price}',
+    'story.buy.confirm': 'Chystáte se zakoupit tento produkt na {price}. Budete přesměrováni na službu Stripe, kde dokončíte platbu. Pokračovat?',
+    'story.buy.currency': 'Nákupní měna',
+    'story.buy.error.generic': 'Nákup se nezdařil',
+    'story.buy.loginRequired': 'Přihlaste se k nákupu',
+    'story.buy.redirecting': 'Přesměrování...',
+    'story.price.free': 'Zdarma',
+    'story.price.owned': 'Vlastní',
+    'story.price.paid': 'Placené'
 };
