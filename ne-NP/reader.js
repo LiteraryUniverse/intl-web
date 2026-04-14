@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'अन्तिम {chaptersCount, number} अध्यायका प्रकाशन मितिहरूको आधारमा, अर्को अध्यायलाई धेरै छिटो प्रकाशित हुने आशा छ।',
     'reader.nextChapterEstimation.days': 'अन्तिम {chaptersCount, number} अध्यायका प्रकाशन मितिहरूको आधारमा, अर्को अध्याय लगभग {daysLeft, plural, one {1 दिन} other {# दिन}}पछि उपलब्ध हुनुपर्छ।',
     'reader.nextChapterEstimation.notEnoughChapters': 'यस कथाले पछिल्लो एक अध्याय भन्दा बढी अध्याय प्रकाशित भएपछि पनि अर्को अध्याय प्रकाशित हुने मिति अनुमान दिनेछ।',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'यस अध्यायको खरिद आवश्यक छ।',
+    'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
+    'reader.purchaseGate.buyFullStory': 'पूरा कथा किन्नुहोस्',
+    'reader.purchaseGate.buyArc': 'वा यो आर्क किन्नुहोस्',
+    'reader.purchaseGate.buying': 'चेकआउटमा पुनर्निर्देशित हुँदैछ...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} अध्याय} other {{count} अध्यायहरू}} समावेश',
+    'reader.purchaseGate.loginRequired': 'यो कथा किन्न कृपया लग इन गर्नुहोस्।'
 };
