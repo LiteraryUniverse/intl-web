@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Disse historier anbefales på baggrund af vores anbefalingsmotor. Den bruger maskinlæring til at anbefale historier til dig.',
     'discovery.recommendations.recommendationsSettings': 'Du kan slå det fra i dine indstillinger.',
     'discover.search.templateUniverses': 'Vis kun skabelonuniverser (kopierbare encyklopædier)',
-    'discover.ratingExplained': 'Gennemsnitlig bedømmelse af {avgRating, number} fra {reviewsNum, number} anmeldelse'
+    'discover.ratingExplained': 'Gennemsnitlig bedømmelse af {avgRating, number} fra {reviewsNum, number} anmeldelse',
+    // Story purchase
+    'story.buy.button': 'Køb for {price}',
+    'story.buy.confirm': 'Du er ved at købe dette til {price}. Du vil blive omdirigeret til Stripe for at gennemføre betalingen. Vil du fortsætte?',
+    'story.buy.currency': 'Købsvaluta',
+    'story.buy.error.generic': 'Køb mislykkedes',
+    'story.buy.loginRequired': 'Log ind for at købe',
+    'story.buy.redirecting': 'Omdirigering...',
+    'story.price.free': 'Gratis',
+    'story.price.owned': 'Ejet',
+    'story.price.paid': 'Betalt'
 };
