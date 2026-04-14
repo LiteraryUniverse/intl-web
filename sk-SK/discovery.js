@@ -89,5 +89,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Tieto príbehy sú odporúčané na základe našich odporúčaní. Ten využíva strojové učenie na odporúčanie príbehov pre vás.',
     'discovery.recommendations.recommendationsSettings': 'Túto funkciu môžete vypnúť v nastaveniach.',
     'discover.search.templateUniverses': 'Zobraziť len šablóny vesmírov (kopírovateľné encyklopédie)',
-    'discover.ratingExplained': 'Priemerné hodnotenie {avgRating, number} od {reviewsNum, number} recenzia'
+    'discover.ratingExplained': 'Priemerné hodnotenie {avgRating, number} od {reviewsNum, number} recenzia',
+    // Story purchase
+    'story.buy.button': 'Kúpiť na {price}',
+    'story.buy.confirm': 'Chystáte sa ho kúpiť na {price}. Budete presmerovaní na službu Stripe, kde dokončíte platbu. Pokračovať?',
+    'story.buy.currency': 'Nákupná mena',
+    'story.buy.error.generic': 'Nákup sa nepodaril',
+    'story.buy.loginRequired': 'Prihláste sa na nákup',
+    'story.buy.redirecting': 'Presmerovanie...',
+    'story.price.free': 'Bezplatne',
+    'story.price.owned': 'Vlastné',
+    'story.price.paid': 'Platené'
 };
