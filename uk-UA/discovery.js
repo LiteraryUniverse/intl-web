@@ -91,5 +91,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Ці історії рекомендовані на основі нашого механізму рекомендацій. Він використовує машинне навчання, щоб рекомендувати історії для вас.',
     'discovery.recommendations.recommendationsSettings': 'Ви можете вимкнути цю функцію у своїх налаштуваннях.',
     'discover.search.templateUniverses': 'Показувати лише шаблонні всесвіти (копійовані енциклопедії)',
-    'discover.ratingExplained': 'Середня оцінка {avgRating, number} з {reviewsNum, number} відгуку'
+    'discover.ratingExplained': 'Середня оцінка {avgRating, number} з {reviewsNum, number} відгуку',
+    // Story purchase
+    'story.buy.button': 'Купуйте на {price}',
+    'story.buy.confirm': 'Ви збираєтеся купити цей товар за адресою {price}. Вас буде перенаправлено на сайт Stripe для завершення оплати. Продовжити?',
+    'story.buy.currency': 'Купівля валюти',
+    'story.buy.error.generic': 'Покупка не вдалася',
+    'story.buy.loginRequired': 'Увійдіть, щоб придбати',
+    'story.buy.redirecting': 'Перенаправлення...',
+    'story.price.free': 'Безкоштовно',
+    'story.price.owned': 'Належить',
+    'story.price.paid': 'Оплачено'
 };
