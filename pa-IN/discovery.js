@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
-    'discover.ratingExplained': '{avgRating, number} ਦੀ ਔਸਤ ਰੇਟਿੰਗ {reviewsNum, number} ਦੀ ਸਮੀਖਿਆ ਤੋਂ'
+    'discover.ratingExplained': '{avgRating, number} ਦੀ ਔਸਤ ਰੇਟਿੰਗ {reviewsNum, number} ਦੀ ਸਮੀਖਿਆ ਤੋਂ',
+    // Story purchase
+    'story.buy.button': 'ਲਈ ਖਰੀਦੋ {price}',
+    'story.buy.confirm': 'ਤੁਸੀਂ ਇਹ {price}ਲਈ ਖਰੀਦਣ ਜਾ ਰਹੇ ਹੋ। ਭੁਗਤਾਨ ਪੂਰਾ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ Stripe \'ਤੇ ਰੀਡਾਇਰੈਕਟ ਕੀਤਾ ਜਾਵੇਗਾ। ਜਾਰੀ ਰੱਖੋ?',
+    'story.buy.currency': 'ਖਰੀਦ ਮੁਦਰਾ',
+    'story.buy.error.generic': 'ਖਰੀਦਦਾਰੀ ਅਸਫਲ ਹੋ ਗਈ',
+    'story.buy.loginRequired': 'ਖਰੀਦਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ',
+    'story.buy.redirecting': 'ਮੁੜ-ਨਿਰਦੇਸ਼ਿਤ ਕਰ ਰਿਹਾ ਹੈ...',
+    'story.price.free': 'ਮੁਫ਼ਤ',
+    'story.price.owned': 'ਮਾਲਕੀ',
+    'story.price.paid': 'ਭੁਗਤਾਨ ਕੀਤਾ ਹੋਇਆ'
 };
