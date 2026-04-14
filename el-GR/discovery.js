@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Αυτές οι ιστορίες συνιστώνται με βάση τη μηχανή συστάσεών μας. Η οποία χρησιμοποιεί μηχανική μάθηση για να σας προτείνει ιστορίες.',
     'discovery.recommendations.recommendationsSettings': 'Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις σας.',
     'discover.search.templateUniverses': 'Εμφάνιση μόνο πρότυπων συμπάντων (αντιγράψιμες εγκυκλοπαίδειες)',
-    'discover.ratingExplained': 'Μέση βαθμολογία της {avgRating, number} από την {reviewsNum, number} κριτική'
+    'discover.ratingExplained': 'Μέση βαθμολογία της {avgRating, number} από την {reviewsNum, number} κριτική',
+    // Story purchase
+    'story.buy.button': 'Αγοράστε για {price}',
+    'story.buy.confirm': 'Πρόκειται να το αγοράσετε αυτό για το {price}. Θα μεταφερθείτε στο Stripe για να ολοκληρώσετε την πληρωμή. Συνεχίστε;',
+    'story.buy.currency': 'Νόμισμα αγοράς',
+    'story.buy.error.generic': 'Η αγορά απέτυχε',
+    'story.buy.loginRequired': 'Συνδεθείτε για να αγοράσετε',
+    'story.buy.redirecting': 'Αναπροσανατολισμός...',
+    'story.price.free': 'Δωρεάν',
+    'story.price.owned': 'Ιδιοκτησία',
+    'story.price.paid': 'Πληρωμένο'
 };
