@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Berdasarkan tarikh penerbitan bagi {chaptersCount, number} bab terakhir, bab seterusnya dijangka akan dikeluarkan tidak lama lagi.',
     'reader.nextChapterEstimation.days': 'Berdasarkan tarikh penerbitan bagi {chaptersCount, number} bab terakhir, bab seterusnya harus tersedia dalam lebih kurang {daysLeft, plural, one {1 hari} other {hari}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Kami juga akan memberikan perkiraan kapan bab berikutnya mungkin akan diterbitkan begitu kisah ini memiliki lebih dari satu bab.',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Bab ini memerlukan pembelian.',
+    'reader.purchaseGate.description': 'Untuk meneruskan pembacaan {storyTitle}{authorName, select, undefined {} other { oleh {authorName}}}, anda perlu membelinya.',
+    'reader.purchaseGate.buyFullStory': 'Beli cerita penuh',
+    'reader.purchaseGate.buyArc': 'Atau beli lengkungan ini',
+    'reader.purchaseGate.buying': 'Menyalurkan ke pembayaran...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} bab} other {{count} bab-bab}} termasuk',
+    'reader.purchaseGate.loginRequired': 'Sila log masuk untuk membeli cerita ini.'
 };
