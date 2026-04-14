@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': '這些故事是根據我們的推薦引擎推薦的。它使用機器學習為您推薦故事。',
     'discovery.recommendations.recommendationsSettings': '您可以在設定中停用此功能。',
     'discover.search.templateUniverses': '只顯示範本宇宙（可複製的百科全書）',
-    'discover.ratingExplained': '平均評分 {avgRating, number} 來自 {reviewsNum, number} 評論'
+    'discover.ratingExplained': '平均評分 {avgRating, number} 來自 {reviewsNum, number} 評論',
+    // Story purchase
+    'story.buy.button': '購買 {price}',
+    'story.buy.confirm': '您即將購買 {price}。您將被重定向至 Stripe 完成付款。繼續嗎？',
+    'story.buy.currency': '購買貨幣',
+    'story.buy.error.generic': '購買失敗',
+    'story.buy.loginRequired': '登入購買',
+    'story.buy.redirecting': '重定向...',
+    'story.price.free': '免費',
+    'story.price.owned': '自有',
+    'story.price.paid': '已付'
 };
