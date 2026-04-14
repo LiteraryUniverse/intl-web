@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
-    'discover.ratingExplained': '{reviewsNum, number} விமர்சனத்திலிருந்து {avgRating, number} இன் சராசரி மதிப்பீடு'
+    'discover.ratingExplained': '{reviewsNum, number} விமர்சனத்திலிருந்து {avgRating, number} இன் சராசரி மதிப்பீடு',
+    // Story purchase
+    'story.buy.button': 'வாங்குவது {price}',
+    'story.buy.confirm': 'நீங்கள் இதை {price}-க்காக வாங்கவிருக்கிறீர்கள். பணப்பரிவர்த்தனையை முடிக்க நீங்கள் ஸ்ட்ரைப் தளத்திற்கு திருப்பிவிடப்படுவீர்கள். தொடரலாமா?',
+    'story.buy.currency': 'வாங்குவதற்கான நாணயம்',
+    'story.buy.error.generic': 'வாங்குவதில் தோல்வி',
+    'story.buy.loginRequired': 'வாங்குவதற்கு உள்நுழையவும்',
+    'story.buy.redirecting': 'மறுதிசைதிருப்புகிறது...',
+    'story.price.free': 'இலவசம்',
+    'story.price.owned': 'சொந்தமானது',
+    'story.price.paid': 'பணம் செலுத்தப்பட்டது'
 };
