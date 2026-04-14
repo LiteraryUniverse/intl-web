@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Aceste povestiri sunt recomandate pe baza motorului nostru de recomandări. Care utilizează învățarea automată pentru a vă recomanda povești.',
     'discovery.recommendations.recommendationsSettings': 'Puteți dezactiva acest lucru în setările dvs.',
     'discover.search.templateUniverses': 'Afișați numai universuri șablon (enciclopedii copiabile)',
-    'discover.ratingExplained': 'Evaluarea medie realizată de {avgRating, number} pe baza raportului {reviewsNum, number}'
+    'discover.ratingExplained': 'Evaluarea medie realizată de {avgRating, number} pe baza raportului {reviewsNum, number}',
+    // Story purchase
+    'story.buy.button': 'Cumpărați pentru {price}',
+    'story.buy.confirm': 'Sunteți pe cale să achiziționați acest produs pentru {price}. Veți fi redirecționat către Stripe pentru a finaliza plata. Continuați?',
+    'story.buy.currency': 'Moneda de cumpărare',
+    'story.buy.error.generic': 'Achiziție eșuată',
+    'story.buy.loginRequired': 'Conectați-vă pentru a cumpăra',
+    'story.buy.redirecting': 'Redirecționarea...',
+    'story.price.free': 'Gratuit',
+    'story.price.owned': 'Deținută',
+    'story.price.paid': 'Plătite'
 };
