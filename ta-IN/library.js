@@ -9,5 +9,6 @@ export default {
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'தயவுசெய்து தேடல் சொற்களை உள்ளிடவும் அல்லது வடிகட்டிகளைப் பயன்படுத்தவும்',
     'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search': 'Search Your Library',
+    'library.ownedStories': 'வாங்கப்பட்ட கதைகள்'
 };
