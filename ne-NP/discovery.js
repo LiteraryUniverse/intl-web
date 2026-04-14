@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
-    'discover.ratingExplained': '{reviewsNum, number} समीक्षाबाट {avgRating, number} को औसत रेटिङ'
+    'discover.ratingExplained': '{reviewsNum, number} समीक्षाबाट {avgRating, number} को औसत रेटिङ',
+    // Story purchase
+    'story.buy.button': 'का लागि किन्नुहोस् {price}',
+    'story.buy.confirm': 'तपाईंले यो {price}का लागि किन्न लाग्नुभएको छ। भुक्तानी पूरा गर्न तपाईंलाई Stripe मा पुनर्निर्देशित गरिनेछ। जारी राख्नुहुन्छ?',
+    'story.buy.currency': 'खरिद मुद्रा',
+    'story.buy.error.generic': 'खरिद असफल भयो',
+    'story.buy.loginRequired': 'खरिद गर्न लग इन गर्नुहोस्',
+    'story.buy.redirecting': 'पुनर्निर्देशित हुँदैछ...',
+    'story.price.free': 'नि:शुल्क',
+    'story.price.owned': 'स्वामित्व',
+    'story.price.paid': 'भुक्तानी गरिएको'
 };
