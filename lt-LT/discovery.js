@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Šios istorijos rekomenduojamos remiantis mūsų rekomendacijų sistema. Ji naudoja mašininį mokymąsi, kad rekomenduotų jums istorijas.',
     'discovery.recommendations.recommendationsSettings': 'Šią funkciją galite išjungti savo nustatymuose.',
     'discover.search.templateUniverses': 'Rodyti tik šablonines visatas (kopijuojamas enciklopedijas)',
-    'discover.ratingExplained': 'Vidutinis įvertinimas {avgRating, number} iš {reviewsNum, number} apžvalga'
+    'discover.ratingExplained': 'Vidutinis įvertinimas {avgRating, number} iš {reviewsNum, number} apžvalga',
+    // Story purchase
+    'story.buy.button': 'Pirkti {price}',
+    'story.buy.confirm': 'Jūs ketinate tai įsigyti {price}. Būsite nukreipti į "Stripe", kad užbaigtumėte mokėjimą. Tęsti?',
+    'story.buy.currency': 'Pirkimo valiuta',
+    'story.buy.error.generic': 'Pirkimas nepavyko',
+    'story.buy.loginRequired': 'Prisijunkite, kad įsigytumėte',
+    'story.buy.redirecting': 'Peradresavimas...',
+    'story.price.free': 'Nemokamai',
+    'story.price.owned': 'Turima',
+    'story.price.paid': 'Apmokėta'
 };
