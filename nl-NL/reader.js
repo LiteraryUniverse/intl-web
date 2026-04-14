@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Op basis van de publicatiedatums van de laatste {chaptersCount, number} hoofdstukken, wordt verwacht dat het volgende hoofdstuk zeer binnenkort wordt uitgebracht.',
     'reader.nextChapterEstimation.days': 'Op basis van de publicatiedatums van de laatste {chaptersCount, number} hoofdstukken, zou het volgende hoofdstuk naar verwachting beschikbaar zijn binnen ongeveer {daysLeft, plural, one {1 dag} other {# dagen}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Zodra dit verhaal meer dan één hoofdstuk heeft, zullen we ook een schatting geven van wanneer het volgende hoofdstuk gepubliceerd kan worden.',
-    'reader.comments.chapterNotAvailable': 'Er is nog geen commentaar beschikbaar. Dit komt omdat het hoofdstuk nog niet is uitgebracht.'
+    'reader.comments.chapterNotAvailable': 'Er is nog geen commentaar beschikbaar. Dit komt omdat het hoofdstuk nog niet is uitgebracht.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Dit hoofdstuk vereist aankoop',
+    'reader.purchaseGate.description': 'Om verder te lezen {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, moet u deze aanschaffen.',
+    'reader.purchaseGate.buyFullStory': 'Volledig verhaal kopen',
+    'reader.purchaseGate.buyArc': 'Of koop deze boog',
+    'reader.purchaseGate.buying': 'Doorverwijzen naar afrekenen...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} hoofdstuk} other {{count} hoofdstukken}} inbegrepen',
+    'reader.purchaseGate.loginRequired': 'Log in om dit verhaal te kopen.'
 };
