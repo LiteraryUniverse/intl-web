@@ -90,4 +90,14 @@ export default {
 
   'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
   'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review',
+  // Story purchase
+  'story.buy.button': 'Buy for {price}',
+  'story.buy.confirm': 'You are about to purchase this for {price}. You will be redirected to Stripe to complete the payment. Continue?',
+  'story.buy.currency': 'Purchase currency',
+  'story.buy.error.generic': 'Purchase failed',
+  'story.buy.loginRequired': 'Log in to purchase',
+  'story.buy.redirecting': 'Redirecting...',
+  'story.price.free': 'Free',
+  'story.price.owned': 'Owned',
+  'story.price.paid': 'Paid',
 }
