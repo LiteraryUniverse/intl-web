@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
-    'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review'
+    'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review',
+    // Story purchase
+    'story.buy.button': 'შეიძინეთ {price}',
+    'story.buy.confirm': 'თქვენ ახლავე შეიძენთ ამას {price}-სთვის. გადახდის დასასრულებლად გადამისამართდებით Stripe-ზე. გააგრძელოთ?',
+    'story.buy.currency': 'ვალუტის შეძენა',
+    'story.buy.error.generic': 'შეძენა ვერ განხორციელდა',
+    'story.buy.loginRequired': 'შესვლა შესაძენად',
+    'story.buy.redirecting': 'გადამისამართება...',
+    'story.price.free': 'უფასო',
+    'story.price.owned': 'საკუთრებაში',
+    'story.price.paid': 'გადახდილი'
 };
