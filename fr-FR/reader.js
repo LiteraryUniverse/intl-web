@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Basé sur les dates de publication des derniers {chaptersCount, number} chapitres, le prochain chapitre devrait être publié très prochainement.',
     'reader.nextChapterEstimation.days': 'Basé sur les dates de publication des derniers {chaptersCount, number} chapitres, le prochain chapitre devrait être disponible dans environ {daysLeft, plural, one {1 jour} other {# jours}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Nous fournirons également une estimation de la date de publication du prochain chapitre une fois que cette histoire aura plus d\'un chapitre.',
-    'reader.comments.chapterNotAvailable': 'Aucun commentaire n\'est encore disponible. Ceci est dû au fait que le chapitre n\'est pas encore publié.'
+    'reader.comments.chapterNotAvailable': 'Aucun commentaire n\'est encore disponible. Ceci est dû au fait que le chapitre n\'est pas encore publié.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Ce chapitre nécessite l\'achat',
+    'reader.purchaseGate.description': 'Pour continuer à lire {storyTitle}{authorName, select, undefined {} other { par {authorName}}}, vous devez l\'acheter.',
+    'reader.purchaseGate.buyFullStory': 'Lire l\'article complet',
+    'reader.purchaseGate.buyArc': 'Ou achetez cet arc',
+    'reader.purchaseGate.buying': 'Redirection vers la caisse...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapitre} other {{count} chapitres}} inclus',
+    'reader.purchaseGate.loginRequired': 'Veuillez vous connecter pour acheter cet article.'
 };
