@@ -81,5 +81,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'これらのストーリーは、私たちのレコメンデーション・エンジンに基づいて推薦されます。機械学習を利用してストーリーを推薦します。',
     'discovery.recommendations.recommendationsSettings': '設定で無効にできます。',
     'discover.search.templateUniverses': 'テンプレートユニバース（コピー可能な百科事典）のみを表示する',
-    'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review'
+    'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review',
+    // Story purchase
+    'story.buy.button': '{price} 。',
+    'story.buy.confirm': '{price}を購入しようとしています。お支払いを完了するためにStripeにリダイレクトされます。続行しますか？',
+    'story.buy.currency': '購入通貨',
+    'story.buy.error.generic': '購入失敗',
+    'story.buy.loginRequired': 'ログインして購入する',
+    'story.buy.redirecting': 'リダイレクト...',
+    'story.price.free': '無料',
+    'story.price.owned': '所有',
+    'story.price.paid': '有料'
 };
