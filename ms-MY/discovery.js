@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
-    'discover.ratingExplained': 'Penilaian purata {avgRating, number} daripada {reviewsNum, number} ulasan'
+    'discover.ratingExplained': 'Penilaian purata {avgRating, number} daripada {reviewsNum, number} ulasan',
+    // Story purchase
+    'story.buy.button': 'Beli untuk {price}',
+    'story.buy.confirm': 'Anda akan membeli ini untuk {price}. Anda akan diarahkan ke Stripe untuk menyelesaikan pembayaran. Teruskan?',
+    'story.buy.currency': 'Membeli mata wang',
+    'story.buy.error.generic': 'Pembelian gagal',
+    'story.buy.loginRequired': 'Log masuk untuk membuat pembelian',
+    'story.buy.redirecting': 'Sedang mengalihkan...',
+    'story.price.free': 'Percuma',
+    'story.price.owned': 'Dimiliki',
+    'story.price.paid': 'Dibayar'
 };
