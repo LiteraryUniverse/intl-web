@@ -9,5 +9,6 @@ export default {
     'library.search.prompt': 'Hledat ve Vaší knihovně',
     'library.search.noFilters': 'Zadejte prosím vyhledávací termíny nebo použijte filtry',
     'library.yourLibrary': 'Vaše knihovna',
-    'library.search': 'Hledejte ve Vaší knihovně'
+    'library.search': 'Hledejte ve Vaší knihovně',
+    'library.ownedStories': 'Zakoupené příběhy'
 };
