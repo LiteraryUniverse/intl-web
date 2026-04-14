@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'ਪਿਛਲੇ {chaptersCount, number} ਅਧਿਆਇਆਂ ਦੀਆਂ ਪ੍ਰਕਾਸ਼ਨ ਤਾਰੀਖਾਂ ਦੇ ਆਧਾਰ ਤੇ, ਅਗਲਾ ਅਧਿਆਇ ਬਹੁਤ ਜਲਦ ਰਿਲੀਜ਼ ਕੀਤਾ ਜਾਵੇਗਾ।',
     'reader.nextChapterEstimation.days': 'ਆਖਰੀ {chaptersCount, number} ਅਧਿਆਇਆਂ ਦੀਆਂ ਪ੍ਰਕਾਸ਼ਨ ਮਿਤੀਆਂ ਦੇ ਆਧਾਰ ਤੇ, ਅਗਲਾ ਅਧਿਆਇਆਂ ਵੱਲੋਂ ਅਗਲਾ ਅਧਿਆਇਆ ਲਗਭਗ {daysLeft, plural, one {1 ਦਿਨ ਵਿੱਚ ਉਪਲਬਧ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ} other {# ਦਿਨਾਂ}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'ਕਦੇ ਭੀ ਇਸ ਕਹਾਣੀ ਵਿੱਚ ਅਗਲੀ ਪਰਚੀ ਵੱਧ ਤੋਂ ਜਿਵੇਂ ਹੀ ਹੋਵੇਗੀ, ਉਸ ਵੇਲੇ ਅਸੀਂ ਅਗਲੀ ਪਰਚੀ ਦੀ ਤਾਰੀਖ਼ ਦੀ ਇਮਾਰਤ ਵੀ ਪ੍ਰਦਾਨ ਕਰਾਂਗੇ।',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'ਇਸ ਅਧਿਆਇ ਨੂੰ ਖਰੀਦਣਾ ਲਾਜ਼ਮੀ ਹੈ।',
+    'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
+    'reader.purchaseGate.buyFullStory': 'ਪੂਰੀ ਕਹਾਣੀ ਖਰੀਦੋ',
+    'reader.purchaseGate.buyArc': 'ਜਾਂ ਇਹ ਆਰਕ ਖਰੀਦੋ',
+    'reader.purchaseGate.buying': 'ਚੈੱਕਆਊਟ ਵੱਲ ਰੀਡਾਇਰੈਕਟ ਹੋ ਰਿਹਾ ਹੈ...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} ਅਧਿਆਇ} other {{count} ਅਧਿਆਇ}} ਸ਼ਾਮਲ',
+    'reader.purchaseGate.loginRequired': 'ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਕਹਾਣੀ ਨੂੰ ਖਰੀਦਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ।'
 };
