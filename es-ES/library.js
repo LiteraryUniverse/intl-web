@@ -9,5 +9,6 @@ export default {
     'library.search.prompt': 'Busca en tu biblioteca para encontrar contenidos',
     'library.search.noFilters': 'Introduzca los términos de búsqueda o aplique filtros',
     'library.yourLibrary': 'Tu biblioteca',
-    'library.search': 'Buscar en tu biblioteca'
+    'library.search': 'Buscar en tu biblioteca',
+    'library.ownedStories': 'Historias compradas'
 };
