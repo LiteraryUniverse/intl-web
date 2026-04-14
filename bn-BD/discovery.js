@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
-    'discover.ratingExplained': 'গড় রেটিং {avgRating, number} থেকে {reviewsNum, number} রিভিউ'
+    'discover.ratingExplained': 'গড় রেটিং {avgRating, number} থেকে {reviewsNum, number} রিভিউ',
+    // Story purchase
+    'story.buy.button': 'এর জন্য কিনুন {price}',
+    'story.buy.confirm': 'আপনি {price}-এর জন্য এটি কিনতে যাচ্ছেন। পেমেন্ট সম্পন্ন করতে আপনাকে Stripe-এ পুনঃনির্দেশ করা হবে। চালিয়ে যাব?',
+    'story.buy.currency': 'ক্রয় মুদ্রা',
+    'story.buy.error.generic': 'ক্রয় ব্যর্থ হয়েছে',
+    'story.buy.loginRequired': 'ক্রয় করতে লগ ইন করুন',
+    'story.buy.redirecting': 'পুনঃনির্দেশ করা হচ্ছে...',
+    'story.price.free': 'বিনামূল্যে',
+    'story.price.owned': 'মালিকানাধীন',
+    'story.price.paid': 'বেতনপ্রাপ্ত'
 };
