@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Baseret på udgivelsesdatoerne for de sidste {chaptersCount, number} kapitler forventes det næste kapitel at blive udgivet meget snart.',
     'reader.nextChapterEstimation.days': 'Baseret på udgivelsesdatoerne for de sidste {chaptersCount, number} kapitler bør det næste kapitel være tilgængeligt om ca. {daysLeft, plural, one {1 dag} other {# dage}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Vi vil også give en estimering af, hvornår det næste kapitel kan blive udgivet, når denne historie har mere end ét kapitel.',
-    'reader.comments.chapterNotAvailable': 'Ingen kommentarer tilgængelige endnu. Dette skyldes, at kapitlet endnu ikke er udgivet.'
+    'reader.comments.chapterNotAvailable': 'Ingen kommentarer tilgængelige endnu. Dette skyldes, at kapitlet endnu ikke er udgivet.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Dette kapitel kræver køb',
+    'reader.purchaseGate.description': 'Hvis du vil fortsætte med at læse {storyTitle}{authorName, select, undefined {} other { af {authorName}}}, skal du købe den.',
+    'reader.purchaseGate.buyFullStory': 'Køb hele historien',
+    'reader.purchaseGate.buyArc': 'Eller køb denne bue',
+    'reader.purchaseGate.buying': 'Omdirigering til kassen...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included',
+    'reader.purchaseGate.loginRequired': 'Log ind for at købe denne historie.'
 };
