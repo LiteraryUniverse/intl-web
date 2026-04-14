@@ -89,5 +89,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Te historie są polecane na podstawie naszego silnika rekomendacji. Wykorzystuje on uczenie maszynowe, aby polecać Państwu historie.',
     'discovery.recommendations.recommendationsSettings': 'Można to wyłączyć w ustawieniach.',
     'discover.search.templateUniverses': 'Pokazuje tylko szablony wszechświatów (encyklopedie z możliwością kopiowania)',
-    'discover.ratingExplained': 'Średnia ocena {avgRating, number} z {reviewsNum, number} recenzji'
+    'discover.ratingExplained': 'Średnia ocena {avgRating, number} z {reviewsNum, number} recenzji',
+    // Story purchase
+    'story.buy.button': 'Proszę kupić na {price}',
+    'story.buy.confirm': 'Zamierzają Państwo dokonać zakupu na {price}. Zostaną Państwo przekierowani do Stripe, aby dokończyć płatność. Proszę kontynuować.',
+    'story.buy.currency': 'Waluta zakupu',
+    'story.buy.error.generic': 'Zakup nie powiódł się',
+    'story.buy.loginRequired': 'Proszę się zalogować, aby dokonać zakupu',
+    'story.buy.redirecting': 'Przekierowanie...',
+    'story.price.free': 'Bezpłatnie',
+    'story.price.owned': 'Własność',
+    'story.price.paid': 'Płatne'
 };
