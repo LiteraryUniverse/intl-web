@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Näitä tarinoita suositellaan suosituskoneemme perusteella. Se käyttää koneoppimista suositellakseen tarinoita sinulle.',
     'discovery.recommendations.recommendationsSettings': 'Voit poistaa tämän käytöstä asetuksissasi.',
     'discover.search.templateUniverses': 'Näytä vain malliuniversumit (kopioitavissa olevat tietosanakirjat).',
-    'discover.ratingExplained': 'Keskimääräinen arvosana {avgRating, number} alkaen {reviewsNum, number} arvostelusta'
+    'discover.ratingExplained': 'Keskimääräinen arvosana {avgRating, number} alkaen {reviewsNum, number} arvostelusta',
+    // Story purchase
+    'story.buy.button': 'Osta osoitteesta {price}',
+    'story.buy.confirm': 'Olet aikeissa ostaa tämän osoitteesta {price}. Sinut ohjataan Stripeen suorittamaan maksu loppuun. Jatka?',
+    'story.buy.currency': 'Ostovaluutta',
+    'story.buy.error.generic': 'Osto epäonnistui',
+    'story.buy.loginRequired': 'Kirjaudu sisään ostaaksesi',
+    'story.buy.redirecting': 'Uudelleenohjaus...',
+    'story.price.free': 'Vapaa',
+    'story.price.owned': 'Omistettu',
+    'story.price.paid': 'Maksettu'
 };
