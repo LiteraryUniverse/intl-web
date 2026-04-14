@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Neid lugusid soovitatakse meie soovituste süsteemi alusel. mis kasutab masinõpet, et soovitada teile lugusid.',
     'discovery.recommendations.recommendationsSettings': 'Saate selle oma seadetes keelata.',
     'discover.search.templateUniverses': 'Näita ainult malliuniversumeid (kopeeritavad entsüklopeediad)',
-    'discover.ratingExplained': 'Keskmine hinnang {avgRating, number} alates {reviewsNum, number} arvustusest'
+    'discover.ratingExplained': 'Keskmine hinnang {avgRating, number} alates {reviewsNum, number} arvustusest',
+    // Story purchase
+    'story.buy.button': 'Osta {price}',
+    'story.buy.confirm': 'Te kavatsete seda osta aadressil {price}. Teid suunatakse makse lõpuleviimiseks Stripe\'ile. Jätka?',
+    'story.buy.currency': 'Ostuvaluuta',
+    'story.buy.error.generic': 'Ostmine ebaõnnestus',
+    'story.buy.loginRequired': 'Ostmiseks logi sisse',
+    'story.buy.redirecting': 'Ümbersuunamine...',
+    'story.price.free': 'Tasuta',
+    'story.price.owned': 'Omanikud',
+    'story.price.paid': 'Tasuline'
 };
