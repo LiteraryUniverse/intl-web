@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Remiantis paskutinių {chaptersCount, number} skyrių leidimo datomis, kitas skyrius turėtų būti išleistas labai netrukus.',
     'reader.nextChapterEstimation.days': 'Remiantis paskutinių {chaptersCount, number} skyrių leidimo datomis, kitas skyrius turėtų būti prieinamas apytiksliai per {daysLeft, plural, one {1 dieną} other {# dienas}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Kai ši istorija turės daugiau nei vieną skyrių, taip pat pateiksime įvertinimą, kada gali būti publikuojamas kitas skyrius.',
-    'reader.comments.chapterNotAvailable': 'Komentarų dar nėra. Taip yra todėl, kad skyrius dar neišleistas.'
+    'reader.comments.chapterNotAvailable': 'Komentarų dar nėra. Taip yra todėl, kad skyrius dar neišleistas.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Šiame skyriuje reikia įsigyti',
+    'reader.purchaseGate.description': 'Norėdami toliau skaityti {storyTitle}{authorName, select, undefined {} other { iki {authorName}~}}, turite ją įsigyti.',
+    'reader.purchaseGate.buyFullStory': 'Pirkti visą istoriją',
+    'reader.purchaseGate.buyArc': 'Arba nusipirkite šį lanką',
+    'reader.purchaseGate.buying': 'Peradresavimas į kasą...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} skyrius} other {{count} skyriai}} įtraukti',
+    'reader.purchaseGate.loginRequired': 'Norėdami įsigyti šią istoriją, prisijunkite.'
 };
