@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Show only template universes (copyable encyclopedias)',
-    'discover.ratingExplained': 'Meánrátáil de {avgRating, number} ó {reviewsNum, number} léirmheas'
+    'discover.ratingExplained': 'Meánrátáil de {avgRating, number} ó {reviewsNum, number} léirmheas',
+    // Story purchase
+    'story.buy.button': 'Ceannaigh do {price}',
+    'story.buy.confirm': 'Tá tú ar tí é seo a cheannach do {price}. Aistreofar thú chuig Stripe chun an íocaíocht a chur i gcrích. Ar aghaidh?',
+    'story.buy.currency': 'Ceannaigh airgeadra',
+    'story.buy.error.generic': 'Theip ar an gceannach',
+    'story.buy.loginRequired': 'Logáil isteach chun ceannach',
+    'story.buy.redirecting': 'Ag atreorú...',
+    'story.price.free': 'Saor in aisce',
+    'story.price.owned': 'Faoi úinéireacht',
+    'story.price.paid': 'Íoctha'
 };
