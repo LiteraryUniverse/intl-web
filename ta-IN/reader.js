@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'கடைசி {chaptersCount, number} அதிகாரங்களின் வெளியிட தேதி அடிப்படையில், அடுத்த அதிகாரம் விரைவில் வெளியிடப்படும் என்று எதிர்பார்க்கப்படுகிறது.',
     'reader.nextChapterEstimation.days': 'கடைசி {chaptersCount, number} அதிகாரங்களின் வெளியிட தேதி அடிப்படையில், அடுத்த அதிகாரம் பரிந்துரைக்கப்படும் நிலையில் இருக்கும் {daysLeft, plural, one {1 நாள்} other {# நாட்கள்}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'இந்த கதையில் மேலும் ஒரு அத்தியாயம் உள்ள போது அடுத்த அத்தியாயம் எப்போது வெளியிடப்பட முடியும் என்பது நாம் தரவினையும் உள்ளமையும் அறிந்த பின் தெரியும்.',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'இந்த அத்தியாயத்தை வாங்க வேண்டும்',
+    'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
+    'reader.purchaseGate.buyFullStory': 'முழு கதையையும் வாங்குங்கள்',
+    'reader.purchaseGate.buyArc': 'அல்லது இந்த ஆர்க்கை வாங்குங்கள்',
+    'reader.purchaseGate.buying': 'செக் அவுட்டிற்கு திருப்பிவிடுகிறது...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} அத்தியாயம்} other {{count} அத்தியாயங்கள்}} சேர்க்கப்பட்டுள்ளது',
+    'reader.purchaseGate.loginRequired': 'இந்தக் கதையை வாங்க, தயவுசெய்து உள்நுழையவும்.'
 };
