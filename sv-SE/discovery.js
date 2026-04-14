@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Dessa berättelser rekommenderas baserat på vår rekommendationsmotor. Den använder maskininlärning för att rekommendera berättelser åt dig.',
     'discovery.recommendations.recommendationsSettings': 'Du kan inaktivera detta i dina inställningar.',
     'discover.search.templateUniverses': 'Visa endast malluniversum (kopierbara encyklopedier)',
-    'discover.ratingExplained': 'Genomsnittligt betyg på {avgRating, number} från {reviewsNum, number} recension'
+    'discover.ratingExplained': 'Genomsnittligt betyg på {avgRating, number} från {reviewsNum, number} recension',
+    // Story purchase
+    'story.buy.button': 'Köp för {price}',
+    'story.buy.confirm': 'Du är på väg att köpa detta för {price}. Du kommer att omdirigeras till Stripe för att slutföra betalningen. Vill du fortsätta?',
+    'story.buy.currency': 'Inköpsvaluta',
+    'story.buy.error.generic': 'Köpet misslyckades',
+    'story.buy.loginRequired': 'Logga in för att köpa',
+    'story.buy.redirecting': 'Omdirigering...',
+    'story.price.free': 'Gratis',
+    'story.price.owned': 'Ägda',
+    'story.price.paid': 'Betalade'
 };
