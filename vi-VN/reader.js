@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Dựa trên các ngày xuất bản của {chaptersCount, number} những chương gần đây nhất, chương tiếp theo dự kiến sẽ được phát hành sớm thôi.',
     'reader.nextChapterEstimation.days': 'Dựa trên các ngày xuất bản của {chaptersCount, number} những chương gần đây nhất, chương tiếp theo sẽ có sẵn sau khoảng {daysLeft, plural, one {1 ngày} other {# ngày}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Chúng tôi cũng sẽ cung cấp một ước tính về thời gian phát hành chương tiếp theo sau khi truyện này có nhiều hơn một chương.',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Để đọc chương này, bạn cần mua sách',
+    'reader.purchaseGate.description': 'Để tiếp tục đọc {storyTitle}{authorName, select, undefined {} other { của {authorName}}}, bạn cần mua cuốn sách này.',
+    'reader.purchaseGate.buyFullStory': 'Mua bài viết đầy đủ',
+    'reader.purchaseGate.buyArc': 'Hoặc mua bộ truyện này',
+    'reader.purchaseGate.buying': 'Đang chuyển hướng đến trang thanh toán...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chương} other {{count} các chương}} đã bao gồm',
+    'reader.purchaseGate.loginRequired': 'Vui lòng đăng nhập để mua truyện này.'
 };
