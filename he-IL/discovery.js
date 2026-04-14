@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'הצג רק יקומים של תבניות (אנציקלופדיות הניתנות להעתקה)',
-    'discover.ratingExplained': 'דירוג ממוצע של {avgRating, number} מתוך {reviewsNum, number} ביקורת'
+    'discover.ratingExplained': 'דירוג ממוצע של {avgRating, number} מתוך {reviewsNum, number} ביקורת',
+    // Story purchase
+    'story.buy.button': 'קנו ב- {price}',
+    'story.buy.confirm': 'אתה עומד לרכוש מוצר זה עבור {price}. תועבר ל-Stripe כדי להשלים את התשלום. להמשיך?',
+    'story.buy.currency': 'מטבע הרכישה',
+    'story.buy.error.generic': 'הרכישה נכשלה',
+    'story.buy.loginRequired': 'התחבר כדי לבצע רכישה',
+    'story.buy.redirecting': 'מנתבים מחדש...',
+    'story.price.free': 'חינם',
+    'story.price.owned': 'בבעלות',
+    'story.price.paid': 'בתשלום'
 };
