@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Deze verhalen worden aanbevolen op basis van onze aanbevelingenmotor. Deze maakt gebruik van machine learning om u verhalen aan te bevelen.',
     'discovery.recommendations.recommendationsSettings': 'U kunt dit uitschakelen in Uw instellingen.',
     'discover.search.templateUniverses': 'Toon alleen sjabloonuniversums (kopieerbare encyclopedieën)',
-    'discover.ratingExplained': 'Gemiddelde beoordeling van {avgRating, number} van {reviewsNum, number} beoordeling'
+    'discover.ratingExplained': 'Gemiddelde beoordeling van {avgRating, number} van {reviewsNum, number} beoordeling',
+    // Story purchase
+    'story.buy.button': 'Kopen voor {price}',
+    'story.buy.confirm': 'U staat op het punt dit te kopen voor {price}. U wordt doorgestuurd naar Stripe om de betaling te voltooien. Doorgaan?',
+    'story.buy.currency': 'Aankoopvaluta',
+    'story.buy.error.generic': 'Aankoop mislukt',
+    'story.buy.loginRequired': 'Log in om te kopen',
+    'story.buy.redirecting': 'Omleiden...',
+    'story.price.free': 'Gratis',
+    'story.price.owned': 'Eigendom',
+    'story.price.paid': 'Betaald'
 };
