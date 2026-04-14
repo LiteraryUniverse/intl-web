@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'ბოლო {chaptersCount, number} -ის გამოვლენის დაფუძველის პუბლიკაციად შეგვიძლია.',
     'reader.nextChapterEstimation.days': 'ბოლო {chaptersCount, number} თარიღის მიხედვით, შემდეგი თავისუფალი თავად არსებული თავისი თავისუფლების შემდეგ უნდა იყოს ჩატვირთული დღეში დარჩენილი {daysLeft, plural, one {1 დღის} other {# დღის}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'სიმართლე მეტი უნდა იყოს, როდესაც მოწევისთვის უკვე აქვს ერთი ან რამოდენიმე თავისი გამოცალინი.',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'ამ თავის შეძენა აუცილებელია',
+    'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
+    'reader.purchaseGate.buyFullStory': 'სრული ამბის შეძენა',
+    'reader.purchaseGate.buyArc': 'ან იყიდეთ ეს რკალი',
+    'reader.purchaseGate.buying': 'გადამისამართება გადახდის გვერდზე...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} თავი} other {{count} თავები}} შემავალი',
+    'reader.purchaseGate.loginRequired': 'ამ ისტორიის შესაძენად, გთხოვთ, შეხვიდეთ სისტემაში.'
 };
