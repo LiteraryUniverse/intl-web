@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'بناءً على تواريخ النشر للفصول الأخيرة {chaptersCount, number} ، من المتوقع أن يتم إصدار الفصل التالي قريبًا جدًا.',
     'reader.nextChapterEstimation.days': 'بناءً على تواريخ النشر للفصول الأخيرة {chaptersCount, number} ، يجب أن يكون الفصل التالي متاحًا في ما يقرب من {daysLeft, plural, one {يوم} other {# أيام}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'سنقدم أيضًا تقديرًا لمتى قد يتم نشر الفصل التالي بمجرد أن يحتوي هذا القصة على أكثر من فصل واحد.',
-    'reader.comments.chapterNotAvailable': 'لا توجد تعليقات متاحة حتى الآن. وذلك لأن الفصل لم يصدر بعد.'
+    'reader.comments.chapterNotAvailable': 'لا توجد تعليقات متاحة حتى الآن. وذلك لأن الفصل لم يصدر بعد.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'يتطلب هذا الفصل الشراء',
+    'reader.purchaseGate.description': 'لمواصلة القراءة {storyTitle}{authorName, select, undefined {} other { {authorName}}}، تحتاج إلى شرائه.',
+    'reader.purchaseGate.buyFullStory': 'اشتر القصة كاملة',
+    'reader.purchaseGate.buyArc': 'أو اشتر هذا القوس',
+    'reader.purchaseGate.buying': 'إعادة التوجيه إلى الخروج...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count}} other {{count}}} ~ متضمنة',
+    'reader.purchaseGate.loginRequired': 'يُرجى تسجيل الدخول لشراء هذه القصة.'
 };
