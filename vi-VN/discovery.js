@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
     'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.',
     'discover.search.templateUniverses': 'Chỉ hiển thị các vũ trụ mẫu (bách khoa toàn thư có thể sao chép)',
-    'discover.ratingExplained': 'Điểm đánh giá trung bình {avgRating, number} từ bài đánh giá {reviewsNum, number}'
+    'discover.ratingExplained': 'Điểm đánh giá trung bình {avgRating, number} từ bài đánh giá {reviewsNum, number}',
+    // Story purchase
+    'story.buy.button': 'Mua tại {price}',
+    'story.buy.confirm': 'Bạn sắp mua sản phẩm này tại {price}. Bạn sẽ được chuyển hướng đến Stripe để hoàn tất thanh toán. Tiếp tục?',
+    'story.buy.currency': 'Tiền tệ thanh toán',
+    'story.buy.error.generic': 'Giao dịch mua hàng không thành công',
+    'story.buy.loginRequired': 'Đăng nhập để mua hàng',
+    'story.buy.redirecting': 'Đang chuyển hướng...',
+    'story.price.free': 'Miễn phí',
+    'story.price.owned': 'Sở hữu',
+    'story.price.paid': 'Đã thanh toán'
 };
