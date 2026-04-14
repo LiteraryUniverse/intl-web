@@ -42,5 +42,13 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
     'reader.nextChapterEstimation.days': 'בהתבסס על מועדי הפרסום של הפרקים האחרונים {chaptersCount, number} , הפרק הבא צפוי להתפרסם בעוד כ- {daysLeft, plural, one {יום אחד} other {מספר ימים}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'אנו נספק ערך משוער לכאשר הפרק הבא עשוי להתפרסם כאשר יהיה לסיפור זה יותר מפרק אחד.',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'יש לרכוש את הפרק הזה',
+    'reader.purchaseGate.description': 'כדי להמשיך לקרוא את {storyTitle}{authorName, select, undefined {} other { מאת {authorName}}}, עליך לרכוש את הספר.',
+    'reader.purchaseGate.buyFullStory': 'קנה את הסיפור המלא',
+    'reader.purchaseGate.buyArc': 'או לקנות את הקשת הזו',
+    'reader.purchaseGate.buying': 'מנתבים לדף התשלום...',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} פרק} other {{count} פרקים}} כלול',
+    'reader.purchaseGate.loginRequired': 'אנא התחבר כדי לרכוש את הסיפור הזה.'
 };
