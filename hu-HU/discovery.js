@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Ezeket a történeteket az ajánlómotorunk alapján ajánljuk. Mely gépi tanulást használ, hogy történeteket ajánljon Önnek.',
     'discovery.recommendations.recommendationsSettings': 'Ezt letilthatja a beállítások között.',
     'discover.search.templateUniverses': 'Csak sablon univerzumok megjelenítése (másolható enciklopédiák)',
-    'discover.ratingExplained': 'Átlagos értékelés {avgRating, number} a {reviewsNum, number} felülvizsgálatból ~ ~ átlaga'
+    'discover.ratingExplained': 'Átlagos értékelés {avgRating, number} a {reviewsNum, number} felülvizsgálatból ~ ~ átlaga',
+    // Story purchase
+    'story.buy.button': 'Vásárolja meg a {price} oldalon.',
+    'story.buy.confirm': 'Ezt a {price}címen készül megvásárolni. A fizetés befejezéséhez átirányítjuk a Stripe oldalára. Folytassa?',
+    'story.buy.currency': 'Vásárlási pénznem',
+    'story.buy.error.generic': 'A vásárlás sikertelen volt',
+    'story.buy.loginRequired': 'Jelentkezzen be a vásárláshoz',
+    'story.buy.redirecting': 'Átirányítás...',
+    'story.price.free': 'Ingyenes',
+    'story.price.owned': 'Saját',
+    'story.price.paid': 'Fizetett'
 };
