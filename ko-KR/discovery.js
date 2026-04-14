@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': '이러한 스토리는 추천 엔진을 기반으로 추천됩니다. 머신 러닝을 사용하여 사용자에게 스토리를 추천합니다.',
     'discovery.recommendations.recommendationsSettings': '설정에서 이 기능을 비활성화할 수 있습니다.',
     'discover.search.templateUniverses': '템플릿 유니버스만 표시(복사 가능한 백과사전)',
-    'discover.ratingExplained': '평균 평점 {avgRating, number} 에서 {reviewsNum, number} 리뷰'
+    'discover.ratingExplained': '평균 평점 {avgRating, number} 에서 {reviewsNum, number} 리뷰',
+    // Story purchase
+    'story.buy.button': '구매하기 {price}',
+    'story.buy.confirm': '{price}에 구매하려고 합니다. 결제를 완료하기 위해 Stripe로 리디렉션됩니다. 계속하시겠습니까?',
+    'story.buy.currency': '구매 통화',
+    'story.buy.error.generic': '구매 실패',
+    'story.buy.loginRequired': '구매하려면 로그인',
+    'story.buy.redirecting': '리디렉션...',
+    'story.price.free': '무료',
+    'story.price.owned': '소유',
+    'story.price.paid': '유료'
 };
