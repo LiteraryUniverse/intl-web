@@ -54,4 +54,12 @@ export default {
   'reader.nextChapterEstimation.notEnoughChapters':
     'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.',
   'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+  // Purchase gate
+  'reader.purchaseGate.title': 'This chapter requires purchase',
+  'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
+  'reader.purchaseGate.buyFullStory': 'Buy full story',
+  'reader.purchaseGate.buyArc': 'Or buy this arc',
+  'reader.purchaseGate.buying': 'Redirecting to checkout...',
+  'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included',
+  'reader.purchaseGate.loginRequired': 'Please log in to purchase this story.',
 }
