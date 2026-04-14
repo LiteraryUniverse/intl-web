@@ -83,5 +83,15 @@ export default {
     'discovery.recommendations.recommendationsExplained': 'Bu hikayeler öneri motorumuza göre önerilmektedir. Bu da sizin için hikayeler önermek için makine öğrenimini kullanır.',
     'discovery.recommendations.recommendationsSettings': 'Bunu ayarlarınızdan devre dışı bırakabilirsiniz.',
     'discover.search.templateUniverses': 'Yalnızca şablon evrenleri göster (kopyalanabilir ansiklopediler)',
-    'discover.ratingExplained': 'Ortalama değerlendirme {avgRating, number} from {reviewsNum, number} review'
+    'discover.ratingExplained': 'Ortalama değerlendirme {avgRating, number} from {reviewsNum, number} review',
+    // Story purchase
+    'story.buy.button': '{price} için satın alın',
+    'story.buy.confirm': 'Bunu {price}için satın almak üzeresiniz. Ödemeyi tamamlamak için Stripe\'a yönlendirileceksiniz. Devam edecek misiniz?',
+    'story.buy.currency': 'Satın alma para birimi',
+    'story.buy.error.generic': 'Satın alma başarısız oldu',
+    'story.buy.loginRequired': 'Satın almak için giriş yapın',
+    'story.buy.redirecting': 'Yönlendiriliyor...',
+    'story.price.free': 'Ücretsiz',
+    'story.price.owned': 'Sahip olunan',
+    'story.price.paid': 'Ücretli'
 };
