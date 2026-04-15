@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Selecteer je land',
     'settings.emailSubscriptions.newsletterTech': 'Af en toe een nieuwsbrief van onze ontwikkelaars',
     'settings.emailSubscriptions.newsletterFeatures': 'Informatie over nieuwe functies',
-    'settings.emailNotifications.title': 'Meldingen',
     'settings.emailNotifications.pm': 'Nieuwe berichten',
     'settings.emailNotifications.newChapters': 'Nieuwe hoofdstukken van verhalen die u volgt',
     'settings.emailNotifications.newStories': 'Nieuwe verhalen in universums of van auteurs die u volgt',
