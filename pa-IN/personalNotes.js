@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'ਅਧਿਆਯ {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} ਨਿੱਜੀ ਨੋਟ',
   'personalNotes.searchResults': 'ਖੋਜ ਨਤੀਜੇ',
-  'personalNotes.type.story': 'ਕਹਾਣੀ',
-  'personalNotes.type.universe': 'ਯੂਨੀਵਰਸ',
-  'personalNotes.type.chapter': 'ਅਧਿਆਯ',
   'personalNotes.type.encEntry': 'ਇੰਸਾਇਕਲੋਪੀਡੀਆ ਐਂਟਰੀ',
   'personalNotes.type.revTextBlock': 'ਸੰਪਾਦਨ ਟੈਕਸਟ ਬਲਾਕ',
-  'personalNotes.chapter': 'ਅਧਿਆਯ',
   'personalNotes.recentSearches': 'ਤਾਜ਼ਾ ਖੋਜਾਂ:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'
