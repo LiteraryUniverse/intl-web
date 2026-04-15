@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Эта глава требует приобретения',
     'reader.purchaseGate.description': 'Чтобы продолжить чтение {storyTitle}{authorName, select, undefined {} other { по {authorName}}}, Вам необходимо приобрести его.',
-    'reader.purchaseGate.buyFullStory': 'Купить полную версию',
     'reader.purchaseGate.buyArc': 'Или купите эту дугу',
-    'reader.purchaseGate.buying': 'Перенаправление на оформление заказа...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} глава} other {{count} главы}} включено',
-    'reader.purchaseGate.loginRequired': 'Пожалуйста, войдите в систему, чтобы приобрести эту историю.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} глава} other {{count} главы}} включено'
 };
