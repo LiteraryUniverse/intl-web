@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Выберите вашу страну',
     'settings.emailSubscriptions.newsletterTech': 'Периодическая рассылка новостей от наших разработчиков',
     'settings.emailSubscriptions.newsletterFeatures': 'Информация о новых возможностях',
-    'settings.emailNotifications.title': 'Уведомления',
     'settings.emailNotifications.pm': 'Новые сообщения',
     'settings.emailNotifications.newChapters': 'Новые главы из историй, за которыми Вы следите',
     'settings.emailNotifications.newStories': 'Новые истории во вселенных или от авторов, за которыми Вы следите',
