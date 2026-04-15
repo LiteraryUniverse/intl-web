@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'A carregar... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Foi carregado um ficheiro de pré-visualização do editor para esta história.',
     'workshop.story.publisherPreview.replace': 'Substituir ficheiro',
-    'workshop.story.publisherPreview.remove': 'Remover',
     // Story monetization
     'workshop.monetization.addCurrency': 'Adicione outra moeda suportada',
     'workshop.monetization.arcDescription': 'Descrição do arco (apresentado no checkout das riscas)',
