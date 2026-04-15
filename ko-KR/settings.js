@@ -73,7 +73,6 @@ export default {
     'settings.country.select': '국가 선택하기',
     'settings.emailSubscriptions.newsletterTech': '개발자들로부터의 가끔의 소식지',
     'settings.emailSubscriptions.newsletterFeatures': '새로운 기능에 대한 정보',
-    'settings.emailNotifications.title': '알림',
     'settings.emailNotifications.pm': '새로운 메시지',
     'settings.emailNotifications.newChapters': '팔로우하는 스토리의 새로운 챕터',
     'settings.emailNotifications.newStories': '유니버스의 새로운 스토리 또는 팔로우하는 작가의 새로운 스토리',
