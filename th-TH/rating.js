@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'การจัดอันดับ',
     'rating.explained': 'การจัดอันดับและข้อจำกัดอายุ',
-    'rating.all': 'ทั้งหมด',
     'rating.desc.all': 'เหมาะสำหรับทุกช่วงอายุและกลุ่ม',
     'rating.teens': 'วัยรุ่น',
     'rating.desc.teens': 'เหมาะสำหรับผู้ชมที่อายุระหว่าง 12 ถึง 18 ปี',
