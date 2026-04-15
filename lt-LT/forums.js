@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Dar niekas neatsakė. Būkite pirmas!',
   'forums.noThreads': 'Čia nieko nėra. Tai priklauso nuo jūsų, kad pradėtumėte pokalbį.',
   'forums.openingPost': 'Pradinis įrašas',
-  'forums.post': 'Įrašas',
   'forums.post.new': 'Naujas įrašas',
   'forums.posting': 'Siunčiama...',
   'forums.reply': 'Atsakyti',
