@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Anda telah membaca {readPercent, number, ::percent} daripada cerita.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Sila masukkan istilah carian atau terapkan penapis',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Cerita yang dibeli'
 };
