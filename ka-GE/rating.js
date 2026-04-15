@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'რეიტინგი',
     'rating.explained': 'ასაკობრივი შეფასება და შეზღუდვა.',
-    'rating.all': 'ყველა',
     'rating.desc.all': 'ხელმისაწვდომია ყველა ასაკისა და ჯგუფისთვის.',
     'rating.teens': 'თინეიჯერები',
     'rating.desc.teens': 'განკუთვნილია 12-დან 18 წლამდე ასაკის აუდიტორიისთვის.',
