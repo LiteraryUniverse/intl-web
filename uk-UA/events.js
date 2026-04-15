@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Приєднатися до події',
   'events.selection.origin': 'Походження події',
-  'events.origin.universe': 'Всесвіт',
   'events.origin.author': 'Автор',
-  'events.origin.groups': 'Групи',
   'events.origin.organizations': 'Організації',
   'events.origin.lu': 'Події Літературного Всесвіту',
   'events.visibility.label': 'Видимість події',
