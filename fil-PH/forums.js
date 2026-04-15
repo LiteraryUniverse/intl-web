@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Walang sumagot pa. Ikaw na ang unang sumagot!',
   'forums.noThreads': 'Walang makikita dito. Nasa iyo na ang desisyon kung mag-uumpisa ka ng pag-uusap.',
   'forums.openingPost': 'Pagsisimula ng talakayan',
-  'forums.post': 'I-post',
   'forums.post.new': 'Bagong post',
   'forums.posting': 'Nagpo-post...',
   'forums.reply': 'Tumugon',
