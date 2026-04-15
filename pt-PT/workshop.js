@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Gerado em {generatedAt, date, medium} em {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'A geração do EPUB falhou.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Guarde este arco primeiro para ativar a geração de EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Os URLs externos estão desactivados para histórias licenciadas do Universo Literário. Em vez disso, carregue ficheiros para que permaneçam em armazenamento encriptado.',
     'workshop.story.alternateFormats.fullStory.title': 'Ficheiro completo da história',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Acesso contínuo',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Todos os capítulos atualmente disponíveis',
