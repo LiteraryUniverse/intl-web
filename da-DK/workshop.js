@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Genereret på {generatedAt, date, medium} på {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB-generering mislykkedes.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Gem denne bue først for at aktivere EPUB-generering.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Eksterne URL\'er er deaktiveret for Literary Universe-licenserede historier. Upload filer i stedet, så de forbliver på krypteret lager.',
     'workshop.story.alternateFormats.fullStory.title': 'Hele historien',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Løbende adgang',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Alle aktuelt tilgængelige kapitler',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Indstil, hvor mange kapitler fra begyndelsen af din historie, der er gratis for alle at læse. Det hjælper med at tiltrække læsere.',
     'workshop.monetization.fullStoryPricing': 'Priser på hele historien',
     'workshop.monetization.lowPriceFee': 'Aktivt fast gebyr til lav pris.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Ingen historiebuer defineret endnu. Tilføj buer i afsnittet om historiebuer ovenfor.',
     'workshop.monetization.noCurrencies': 'Tilføj valutaer for at angive priser for denne udgave.',
     'workshop.monetization.originalEdition': 'Original',
     'workshop.monetization.payoutSplits': 'Split af udbetalinger',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Foreslået indtægtsandel (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Dette vil blive taget fra din andel. Den inviterede skal gennemføre opsætningen af Stripe-udbetalingen, før de kan acceptere.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Historiebuer',
+    'workshop.monetization.arcManagementHelp': 'Definer buerne i din historie ved at indstille kapitelintervaller. Hver bue kan sælges separat.',
+    'workshop.monetization.saveArcs': 'Gem buer',
+    'workshop.monetization.arcsSaved': 'Buestruktur gemt.',
+    'workshop.monetization.lowPriceWarning': 'Til denne pris gælder det faste minimumsgebyr. Din udbetaling vil være lavere end standardfordelingen {platformCut, number}%. Overvej at prissætte på {thresholdPrice} eller derover for at få den bedste udbetaling til skaberne.',
+    'workshop.monetization.recommendedPrice': 'Anbefalet pris baseret på historiens længde ({wordCount, number} {countLabel}): {price}.'
 };
