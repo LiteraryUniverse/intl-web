@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Redirecting...',
     'story.price.free': 'Free',
     'story.price.owned': 'Owned',
-    'story.price.paid': 'Paid'
+    'story.price.paid': 'Paid',
+    'story.purchase.fullStory': 'Buy the full story',
+    'story.purchase.byArc': 'or buy by arc',
+    'story.purchase.includes': 'Includes all {chaptersCount} chapters',
+    'story.purchase.freePreview': '{count, plural, one {First chapter is free to preview} other {First {count} chapters are free to preview}}',
+    'story.purchase.arcIncludes': 'Chapters {from}–{to}',
+    'story.purchase.savings': 'Save {amount}',
+    'story.purchase.allArcsCost': 'All arcs separately: {price}',
+    'story.purchase.owned': 'You own this story',
+    'story.purchase.arcOwned': 'Owned',
+    'story.purchase.complete': 'Purchase complete! You now have full access to this story.',
+    'story.purchase.header': 'Get this story',
+    'story.purchase.header.locked': 'Premium story',
+    'story.purchase.forFullStory': 'for the full story',
+    'story.purchase.secureCheckout': 'Secure checkout via Stripe',
+    'story.purchase.loginToBuy': 'Log in to purchase',
+    'story.chapter.freePreviewEnds': 'Free preview ends here'
 };
