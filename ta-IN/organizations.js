@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'மின்னஞ்சல் மூலம் அழைக்கப்பட்டது',
     // Members table
     'org.members.joined': 'சேர்ந்தார்',
-    'org.members.actions': 'செயல்கள்',
     'org.roles.super_admin': 'சூப்பர் நிர்வாகி'
 };
