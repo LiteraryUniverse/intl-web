@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Przesyłanie... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Dla tej historii przesłano plik podglądu wydawcy.',
     'workshop.story.publisherPreview.replace': 'Zastąp plik',
-    'workshop.story.publisherPreview.remove': 'Usunąć',
     // Story monetization
     'workshop.monetization.addCurrency': 'Proszę dodać inną obsługiwaną walutę',
     'workshop.monetization.arcDescription': 'Opis łuku (pokazany w kasie Stripe)',
