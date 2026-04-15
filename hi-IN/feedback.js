@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'नई सुविधा की सुझाव दें',
     'feedback.lang.nosupport': 'आपकी वर्तमान भाषा समर्थित नहीं है, कृपया अंग्रेजी में लिखें। धन्यवाद!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'टिप्पणी',
     'feedback.comment.desc': 'हमें अपनी प्रतिक्रिया भेजें',
     'feedback.comment.legend': 'आपकी प्रतिक्रिया - हमें हर चीज़ के बारे में बताएं',
     'feedback.comment.success': 'आपकी प्रतिक्रिया के लिए धन्यवाद!',
@@ -55,7 +54,6 @@ export default {
     story {कहानी}
     other {कहानी}
   } का उल्लंघन किया जा रहा है?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Courses',
     'feedback.help.videoTutorials': 'Video tutorials',
