@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Megosztás...',
     'sharing.feedback': 'Lemaradtunk valamilyen helyről, amit szívesen megosztanál velünk? Tudassa velünk!',
     'sharing.copy': 'Másolás',
-    'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
