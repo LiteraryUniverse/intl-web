@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'דירוג ממוצע של {avgRating, number} מתוך {reviewsNum, number} ביקורת',
     // Story purchase
     'story.buy.button': 'קנו ב- {price}',
-    'story.buy.confirm': 'אתה עומד לרכוש מוצר זה עבור {price}. תועבר ל-Stripe כדי להשלים את התשלום. להמשיך?',
     'story.buy.currency': 'מטבע הרכישה',
     'story.buy.error.generic': 'הרכישה נכשלה',
-    'story.buy.loginRequired': 'התחבר כדי לבצע רכישה',
     'story.buy.redirecting': 'מנתבים מחדש...',
     'story.price.free': 'חינם',
     'story.price.owned': 'בבעלות',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'לקריאת הסיפור המלא',
     'story.purchase.secureCheckout': 'תשלום מאובטח באמצעות Stripe',
     'story.purchase.loginToBuy': 'התחבר כדי לבצע רכישה',
+    'story.purchase.loginToBuyArcs': 'התחבר כדי לרכוש קווי עלילה בודדים',
+    'story.purchase.pricingUnavailable': 'מידע על מחירים אינו זמין כרגע.',
+    'story.buy.error.timeout': 'הבקשה פקעה. אנא נסה שוב.',
     'story.chapter.freePreviewEnds': 'התצוגה המקדימה החינמית מסתיימת כאן'
 };
