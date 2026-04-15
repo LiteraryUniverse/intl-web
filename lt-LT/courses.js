@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'Kviečiame dalyvauti {count, plural, one {kursuose} other {kursuose}}.',
   'courses.invites.noInvites': 'Šiuo metu neturite jokių kvietimų į kursus.',
   'courses.invites.invitedBy': 'Kviečia: ',
-  'courses.invites.accept': 'Priimti',
-  'courses.invites.reject': 'Atmesti',
   'course.join.heading': 'Prisijunkite prie šio kurso',
   'course.oneTimePayment': 'Vienkartinis mokėjimas už visišką prieigą',
   'course.member': 'Esate užregistruotas',
