@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Capitol {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} notă personală',
   'personalNotes.searchResults': 'Rezultate Căutare',
-  'personalNotes.type.story': 'Poveste',
-  'personalNotes.type.universe': 'Univers',
-  'personalNotes.type.chapter': 'Capitol',
   'personalNotes.type.encEntry': 'Intrare Enciclopedie',
   'personalNotes.type.revTextBlock': 'Blox Text Revizuire',
-  'personalNotes.chapter': 'Capitol',
   'personalNotes.recentSearches': 'Căutări Recent efectuate:',
   'personalNotes.myNotes': 'Notele mele personale',
   'personalNotes.hasNotes': 'Are note personale'
