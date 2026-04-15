@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'دُعيت عبر البريد الإلكتروني',
     // Members table
     'org.members.joined': 'انضم',
-    'org.members.actions': 'الإجراءات',
     'org.roles.super_admin': 'المسؤول الفائق'
 };
