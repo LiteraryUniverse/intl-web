@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Keskimääräinen arvosana {avgRating, number} alkaen {reviewsNum, number} arvostelusta',
     // Story purchase
     'story.buy.button': 'Osta osoitteesta {price}',
-    'story.buy.confirm': 'Olet aikeissa ostaa tämän osoitteesta {price}. Sinut ohjataan Stripeen suorittamaan maksu loppuun. Jatka?',
     'story.buy.currency': 'Ostovaluutta',
     'story.buy.error.generic': 'Osto epäonnistui',
-    'story.buy.loginRequired': 'Kirjaudu sisään ostaaksesi',
     'story.buy.redirecting': 'Uudelleenohjaus...',
     'story.price.free': 'Vapaa',
     'story.price.owned': 'Omistettu',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'koko juttu',
     'story.purchase.secureCheckout': 'Turvallinen kassa Stripen kautta',
     'story.purchase.loginToBuy': 'Kirjaudu sisään ostaaksesi',
+    'story.purchase.loginToBuyArcs': 'Kirjaudu sisään ostaaksesi yksittäisiä tarinakaaria',
+    'story.purchase.pricingUnavailable': 'Hintatietoja ei ole tällä hetkellä saatavilla.',
+    'story.buy.error.timeout': 'Pyyntö päättyi. Yritä uudelleen.',
     'story.chapter.freePreviewEnds': 'Ilmainen esikatselu päättyy tähän'
 };
