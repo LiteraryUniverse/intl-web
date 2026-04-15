@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Được tạo ra trên {generatedAt, date, medium} tại {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'Quá trình tạo EPUB đã thất bại.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Lưu arc này trước để kích hoạt tính năng tạo EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Các liên kết URL bên ngoài đã bị vô hiệu hóa đối với các tác phẩm được cấp phép trên Literary Universe. Vui lòng tải lên tệp tin để chúng được lưu trữ trên hệ thống lưu trữ được mã hóa.',
     'workshop.story.alternateFormats.fullStory.title': 'Tệp tin toàn bộ câu chuyện',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Quyền truy cập liên tục',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Tất cả các chương hiện có sẵn',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Hãy thiết lập số chương miễn phí mà bất kỳ ai cũng có thể đọc ngay từ đầu câu chuyện của bạn. Điều này giúp thu hút độc giả.',
     'workshop.monetization.fullStoryPricing': 'Giá trọn gói',
     'workshop.monetization.lowPriceFee': 'Gói cước cố định giá rẻ đang áp dụng.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Chưa có cốt truyện nào được xác định. Hãy thêm cốt truyện vào phần “Cốt truyện” ở trên.',
     'workshop.monetization.noCurrencies': 'Thêm các loại tiền tệ để thiết lập giá cho phiên bản này.',
     'workshop.monetization.originalEdition': 'Bản gốc',
     'workshop.monetization.payoutSplits': 'Phân chia tiền thưởng',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Tỷ lệ chia sẻ doanh thu đề xuất (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Số tiền này sẽ được trừ vào phần chia của bạn. Người được mời phải hoàn tất thiết lập thanh toán qua Stripe trước khi có thể chấp nhận.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Các mạch truyện',
+    'workshop.monetization.arcManagementHelp': 'Hãy xác định các giai đoạn chính của câu chuyện bằng cách chia thành các chương. Mỗi giai đoạn có thể được bán riêng lẻ.',
+    'workshop.monetization.saveArcs': 'Lưu các cung',
+    'workshop.monetization.arcsSaved': 'Cấu trúc hình cung đã được lưu.',
+    'workshop.monetization.lowPriceWarning': 'Với mức giá này, mức phí cố định tối thiểu sẽ được áp dụng. Số tiền bạn nhận được sẽ thấp hơn tỷ lệ chia sẻ tiêu chuẩn {platformCut, number}%. Hãy cân nhắc đặt mức giá từ {thresholdPrice} trở lên để nhận được khoản thanh toán tối ưu nhất cho người sáng tạo.',
+    'workshop.monetization.recommendedPrice': 'Giá đề xuất dựa trên độ dài câu chuyện ({wordCount, number} {countLabel}): {price}.'
 };
