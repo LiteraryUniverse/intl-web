@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'ได้รับเชิญทางอีเมล',
     // Members table
     'org.members.joined': 'เข้าร่วม',
-    'org.members.actions': 'การกระทำ',
     'org.roles.super_admin': 'ผู้ดูแลระบบระดับสูง'
 };
