@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Rann de uileann',
     'discover.search.rating': 'Aitheantas aoise',
     'discover.search.license': 'Ceadúnas cóipcheart',
-    'discover.search.language': 'Teanga',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Níl aon domhain arím ar a dtaispeántar do chuid patrún}
         one {Aimsíodh domhan amháin}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'Ábhar Gineannta ag IS',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
