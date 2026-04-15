@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Ingen har svarat än. Var den första!',
   'forums.noThreads': 'Inget att se här. Det är upp till dig att starta en konversation.',
   'forums.openingPost': 'Inläggets öppning',
-  'forums.post': 'Inlägg',
   'forums.post.new': 'Nytt inlägg',
   'forums.posting': 'Postar...',
   'forums.reply': 'Svara',
