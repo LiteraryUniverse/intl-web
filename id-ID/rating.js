@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Peringkat',
     'rating.explained': 'Peringkat usia dan pembatasan.',
-    'rating.all': 'Semua',
     'rating.desc.all': 'Dapat diakses oleh semua usia dan kelompok.',
     'rating.teens': 'Remaja',
     'rating.desc.teens': 'Cocok untuk penonton antara usia 12 dan 18 tahun.',
