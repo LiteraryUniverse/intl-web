@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Pozváno e-mailem',
     // Members table
     'org.members.joined': 'Připojil se k',
-    'org.members.actions': 'Akce',
     'org.roles.super_admin': 'Super administrátor'
 };
