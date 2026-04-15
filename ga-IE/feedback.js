@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Moltaí gné nua a dhéanamh',
     'feedback.lang.nosupport': 'Ní thacaítear le do theanga reatha don aiseolas, scríobh i mBéarla le do thoil. Go raibh maith agat!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'Nóta',
     'feedback.comment.desc': 'Cuir do chuid aiseolais chugainn',
     'feedback.comment.legend': 'Do chuid aiseolais - lig dúinn a fháil amach faoi rud ar bith',
     'feedback.comment.success': 'Go raibh maith agat as do chuid aiseolais!',
@@ -55,7 +54,6 @@ export default {
     story {scéal}
     other {scéal}
   } atá á gcruthú?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Cúrsaí',
     'feedback.help.videoTutorials': 'Video tutorials',
