@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': '이 장은 구매가 필요합니다.',
     'reader.purchaseGate.description': '{storyTitle}{authorName, select, undefined {} other { {authorName}}}를 계속 읽으려면 구매해야 합니다.',
-    'reader.purchaseGate.buyFullStory': '전체 스토리 구매',
     'reader.purchaseGate.buyArc': '또는 이 아크를 구입하세요.',
-    'reader.purchaseGate.buying': '결제로 리디렉션...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} 챕터} other {{count} 챕터}} 포함됨',
-    'reader.purchaseGate.loginRequired': '이 스토리를 구매하려면 로그인하세요.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} 챕터} other {{count} 챕터}} 포함됨'
 };
