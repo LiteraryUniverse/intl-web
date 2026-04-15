@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'עדיין אין תגובות. היה הראשון!',
   'forums.noThreads': 'אין כאן דבר. עליך להתחיל שיחה.',
   'forums.openingPost': 'פוסט פתיחה',
-  'forums.post': 'פוסט',
   'forums.post.new': 'פוסט חדש',
   'forums.posting': 'מתבצעת פרסום...',
   'forums.reply': 'הגב',
