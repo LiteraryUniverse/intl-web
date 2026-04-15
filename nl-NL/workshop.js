@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Uploaden... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Er is een uitgeversvoorbeeldbestand geüpload voor dit verhaal.',
     'workshop.story.publisherPreview.replace': 'Bestand vervangen',
-    'workshop.story.publisherPreview.remove': 'Verwijder',
     // Story monetization
     'workshop.monetization.addCurrency': 'Een andere ondersteunde valuta toevoegen',
     'workshop.monetization.arcDescription': 'Boogbeschrijving (weergegeven in Stripe kassa)',
