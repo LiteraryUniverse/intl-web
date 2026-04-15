@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'ਨਵੇਂ ਫੀਚਰ ਦੀ ਸੁਝਾਵਾਂ ਦਿਓ',
     'feedback.lang.nosupport': 'ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਭਾਸ਼ਾ ਸਮੱਸਿਆਵਾਂ ਲਈ ਸਮਰਥਨ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਅੰਗਰੇਜ਼ੀ ਵਿਚ ਲਿਖੋ। ਧੰਨਵਾਦ!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'ਟਿੱਪਣੀ',
     'feedback.comment.desc': 'ਸਾਨੂੰ ਆਪਣੇ ਫੀਡਬੈਕ ਭੇਜੋ',
     'feedback.comment.legend': 'ਤੁਹਾਡਾ ਫੀਡਬੈਕ - ਸਾਨੂੰ ਕੁਝ ਵੀ ਦੱਸੋ',
     'feedback.comment.success': 'ਤੁਹਾਡੇ ਫੀਡਬੈਕ ਲਈ ਧੰਨਵਾਦ!',
@@ -55,7 +54,6 @@ export default {
     story {ਕਹਾਣੀ}
     other {ਕਹਾਣੀ}
   } ਦਾ ਉਲੰਘਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'ਕੋਰਸ',
     'feedback.help.videoTutorials': 'Video tutorials',
