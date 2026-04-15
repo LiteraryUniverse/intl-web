@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Dette kapitel kræver køb',
     'reader.purchaseGate.description': 'Hvis du vil fortsætte med at læse {storyTitle}{authorName, select, undefined {} other { af {authorName}}}, skal du købe den.',
-    'reader.purchaseGate.buyFullStory': 'Køb hele historien',
     'reader.purchaseGate.buyArc': 'Eller køb denne bue',
-    'reader.purchaseGate.buying': 'Omdirigering til kassen...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included',
-    'reader.purchaseGate.loginRequired': 'Log ind for at købe denne historie.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included'
 };
