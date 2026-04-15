@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Meánrátáil de {avgRating, number} ó {reviewsNum, number} léirmheas',
     // Story purchase
     'story.buy.button': 'Ceannaigh do {price}',
-    'story.buy.confirm': 'Tá tú ar tí é seo a cheannach do {price}. Aistreofar thú chuig Stripe chun an íocaíocht a chur i gcrích. Ar aghaidh?',
     'story.buy.currency': 'Ceannaigh airgeadra',
     'story.buy.error.generic': 'Theip ar an gceannach',
-    'story.buy.loginRequired': 'Logáil isteach chun ceannach',
     'story.buy.redirecting': 'Ag atreorú...',
     'story.price.free': 'Saor in aisce',
     'story.price.owned': 'Faoi úinéireacht',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'don scéal iomlán',
     'story.purchase.secureCheckout': 'Íocaíocht shlán trí Stripe',
     'story.purchase.loginToBuy': 'Logáil isteach chun ceannach',
+    'story.purchase.loginToBuyArcs': 'Logáil isteach chun cuair scéil aonair a cheannach.',
+    'story.purchase.pricingUnavailable': 'Níl faisnéis praghsála ar fáil faoi láthair.',
+    'story.buy.error.timeout': 'Tháinig am istigh ar an iarraidh. Déan iarracht eile, le do thoil.',
     'story.chapter.freePreviewEnds': 'Críoch leis an réamhamharc saor in aisce anseo'
 };
