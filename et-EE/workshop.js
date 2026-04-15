@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Loodud {generatedAt, date, medium} aadressil {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB-i genereerimine ebaõnnestus.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Salvestage see kaar kõigepealt, et võimaldada EPUB-i genereerimist.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Kirjandusuniversumi litsentseeritud lugude puhul on välised URLid keelatud. Laadige hoopis failid üles, et need jääksid krüpteeritud salvestusruumi.',
     'workshop.story.alternateFormats.fullStory.title': 'Täielik lugu faili',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Pidev juurdepääs',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Kõik praegu kättesaadavad peatükid',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Määrake, mitu peatükki teie loo algusest on kõigile vabalt loetavad. See aitab lugejaid ligi meelitada.',
     'workshop.monetization.fullStoryPricing': 'Kogu loo hinnakujundus',
     'workshop.monetization.lowPriceFee': 'Madala hinnaga kindlasummaline tasu aktiivne.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Veel ei ole loosekaarti määratletud. Lisage kaared ülalpool olevasse loosekaarede jaotisesse.',
     'workshop.monetization.noCurrencies': 'Lisage valuutad, et määrata selle väljaande hinnad.',
     'workshop.monetization.originalEdition': 'Originaal',
     'workshop.monetization.payoutSplits': 'Väljamaksete jagunemine',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Kavandatud tulude osakaal (%)',
     'workshop.collaborators.splitFromOwnerShare': 'See võetakse teie osast. Kutsuja peab enne vastuvõtmist lõpetama Stripe\'i väljamakse seadistamise.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Loosungi kaared',
+    'workshop.monetization.arcManagementHelp': 'Määrake oma loo kaared, määrates peatükkide vahemikud. Iga kaar saab müüa eraldi.',
+    'workshop.monetization.saveArcs': 'Salvesta kaared',
+    'workshop.monetization.arcsSaved': 'Kaarekonstruktsioon salvestatud.',
+    'workshop.monetization.lowPriceWarning': 'Selle hinna puhul kehtib kindla tasu miinimum. Teie väljamakse on madalam kui standardne {platformCut, number}% jagamine. Kaaluge hinnakujundust {thresholdPrice} või kõrgemal, et saada parima looja väljamakse.',
+    'workshop.monetization.recommendedPrice': 'Soovituslik hind põhineb loo pikkusel ({wordCount, number} {countLabel}): {price}.'
 };
