@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'פרק {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} הערה אישית',
   'personalNotes.searchResults': 'תוצאות חיפוש',
-  'personalNotes.type.story': 'סיפור',
-  'personalNotes.type.universe': 'יקום',
-  'personalNotes.type.chapter': 'פרק',
   'personalNotes.type.encEntry': 'ערך באנציקלופדיה',
   'personalNotes.type.revTextBlock': 'מקטע טקסט לתיקון',
-  'personalNotes.chapter': 'פרק',
   'personalNotes.recentSearches': 'חיפושים אחרונים:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'
