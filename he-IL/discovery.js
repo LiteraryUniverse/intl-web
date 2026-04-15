@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'מנתבים מחדש...',
     'story.price.free': 'חינם',
     'story.price.owned': 'בבעלות',
-    'story.price.paid': 'בתשלום'
+    'story.price.paid': 'בתשלום',
+    'story.purchase.fullStory': 'קנו את הסיפור המלא',
+    'story.purchase.byArc': 'או לקנות לפי קשת',
+    'story.purchase.includes': 'כולל את כל פרקי " {chaptersCount}"',
+    'story.purchase.freePreview': '{count, plural, one {ניתן לקרוא את הפרק הראשון בחינם} other {ניתן לקרוא את הפרקים הראשונים בחינם {count}}}',
+    'story.purchase.arcIncludes': 'פרקים {from}–{to}',
+    'story.purchase.savings': 'שמור {amount}',
+    'story.purchase.allArcsCost': 'כל הפרקים בנפרד: {price}',
+    'story.purchase.owned': 'הסיפור הזה שייך לך',
+    'story.purchase.arcOwned': 'בבעלות',
+    'story.purchase.complete': 'הרכישה הושלמה! כעת יש לך גישה מלאה לסיפור זה.',
+    'story.purchase.header': 'קראו את הסיפור הזה',
+    'story.purchase.header.locked': 'כתבה בתשלום',
+    'story.purchase.forFullStory': 'לקריאת הסיפור המלא',
+    'story.purchase.secureCheckout': 'תשלום מאובטח באמצעות Stripe',
+    'story.purchase.loginToBuy': 'התחבר כדי לבצע רכישה',
+    'story.chapter.freePreviewEnds': 'התצוגה המקדימה החינמית מסתיימת כאן'
 };
