@@ -165,7 +165,6 @@ export default {
 
   'licenses.learnMore': 'Learn More',
   'licenses.legalText': 'Legal Text',
-  'licenses.chooser.back': 'Back',
   'licenses.chooser.select': 'Select This License',
   'licenses.commercial.title': 'Commercial License Information',
   'licenses.commercial.exclusive': 'With this exclusive license, Literary Universe will take a 10% fee from your earnings. This means you\'ll receive 90% of the revenue generated from your work on our platform.',
