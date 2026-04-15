@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Socraigh cé mhéad caibidil ó thús do scéil atá saor in aisce do dhuine ar bith lena léamh. Cuidíonn sé seo le léitheoirí a mhealladh.',
     'workshop.monetization.fullStoryPricing': 'Praghsáil iomlán an scéil',
     'workshop.monetization.lowPriceFee': 'Tá táille bhlaoige íseal gníomhach.',
-    'workshop.monetization.noArcs': 'Níl aon imeachtaí scéil sainithe go fóill. Cuir imeachtaí scéil isteach i do shocruithe scéil ar dtús.',
+    'workshop.monetization.noArcs': 'Níl aon imeartais scéil sainithe go fóill. Cuir imeartais leis sa rannán imeartais scéil thuas.',
     'workshop.monetization.noCurrencies': 'Cuir airgeadraí leis chun praghsanna a shocrú don eagrán seo.',
     'workshop.monetization.originalEdition': 'Bunleagan',
     'workshop.monetization.payoutSplits': 'Roinnte íocaíochta',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Tá an scéal seo airgeadaithe. Caithfidh cuireadh faighteoirí socrú íocaíochta Stripe a chur i gcrích sula féidir leo glacadh. Is féidir leat comhroinnt ioncaim a mholadh thíos — tógfar ón do sciar é.',
     'workshop.collaborators.proposedSplit': 'Comhroinnt ioncaim atá molta (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Tógfar seo ó do sciar. Caithfidh an t-aoi socrú íocaíochta Stripe a chur i gcrích sula féidir leo glacadh.'
+    'workshop.collaborators.splitFromOwnerShare': 'Tógfar seo ó do sciar. Caithfidh an t-aoi socrú íocaíochta Stripe a chur i gcrích sula féidir leo glacadh.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Cuaranna scéil',
+    'workshop.monetization.arcManagementHelp': 'Sainmhínigh cuacha do scéil trí raonta caibidlí a shocrú. Is féidir gach cuach a dhíol ar leithligh.',
+    'workshop.monetization.saveArcs': 'Sábháil cuair',
+    'workshop.monetization.arcsSaved': 'Sábháilte struchtúr an áirse.',
+    'workshop.monetization.lowPriceWarning': 'Ar an bpraghas seo, is é an t-íosmhéid táille chothrom is infheidhme. Beidh do íocaíocht níos ísle ná an sciar caighdeánach {platformCut, number}%. Smaoinigh ar phraghas de {thresholdPrice} nó níos airde a leagan síos chun an íocaíocht is fearr do chruthaitheoirí a fháil.',
+    'workshop.monetization.recommendedPrice': 'Praghas molta bunaithe ar fhad an scéil ({wordCount, number} {countLabel}): {price}.'
 };
