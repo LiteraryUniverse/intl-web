@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Dihasilkan pada {generatedAt, date, medium} di {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'Pembuatan EPUB gagal.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Simpan busur ini terlebih dahulu untuk mengaktifkan pembuatan EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'URL eksternal dinonaktifkan untuk cerita berlisensi Literary Universe. Unggahlah berkas-berkas agar tetap berada dalam penyimpanan terenkripsi.',
     'workshop.story.alternateFormats.fullStory.title': 'File cerita lengkap',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Akses yang sedang berlangsung',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Semua bab yang tersedia saat ini',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Tentukan berapa banyak bab dari awal cerita Anda yang bebas dibaca oleh siapa saja. Hal ini membantu menarik pembaca.',
     'workshop.monetization.fullStoryPricing': 'Harga cerita lengkap',
     'workshop.monetization.lowPriceFee': 'Biaya tetap dengan harga rendah aktif.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Belum ada busur cerita yang ditentukan. Tambahkan busur di bagian busur cerita di atas.',
     'workshop.monetization.noCurrencies': 'Tambahkan mata uang untuk menetapkan harga edisi ini.',
     'workshop.monetization.originalEdition': 'Asli',
     'workshop.monetization.payoutSplits': 'Pembagian pembayaran',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Bagi hasil yang diusulkan (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Ini akan diambil dari bagian Anda. Penerima undangan harus menyelesaikan pengaturan pembayaran Stripe sebelum dapat menerima.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Alur cerita',
+    'workshop.monetization.arcManagementHelp': 'Tentukan busur cerita Anda dengan mengatur rentang bab. Setiap busur dapat dijual secara terpisah.',
+    'workshop.monetization.saveArcs': 'Menyimpan busur',
+    'workshop.monetization.arcsSaved': 'Struktur busur disimpan.',
+    'workshop.monetization.lowPriceWarning': 'Pada harga ini, biaya minimum tetap berlaku. Pembayaran Anda akan lebih rendah dari standar {platformCut, number}% split. Pertimbangkan harga di {thresholdPrice} atau di atasnya untuk pembayaran kreator terbaik.',
+    'workshop.monetization.recommendedPrice': 'Harga yang disarankan berdasarkan panjang cerita ({wordCount, number} {countLabel}): {price}.'
 };
