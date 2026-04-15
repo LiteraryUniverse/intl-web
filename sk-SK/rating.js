@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Vekové hodnotenie',
     'rating.explained': 'Veková kategória a obmedzenia.',
-    'rating.all': 'Všetky',
     'rating.desc.all': 'Prístupné pre všetky vekové kategórie a skupiny.',
     'rating.teens': 'Tínedžeri',
     'rating.desc.teens': 'Vhodné pre publikum vo veku od 12 do 18 rokov.',
