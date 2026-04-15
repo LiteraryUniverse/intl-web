@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Mga May-Akda',
     'universe.authors.desc': 'Mga gumawa at nagbahagi sa {universe}',
     'universe.contributors': 'Mga nagbahagi',
-    'universe.translators': 'Mga tagasalin',
     'universe.authors.notice': 'Bawat kuwento ay maaaring may karagdagang personal na nakatrabaho dito. Para sa karagdagang mga detalye, tingnan ang mga detalye ng kuwento.',
     'universe.createdBy': `{gender, select,
     male {Nilikha ng}
