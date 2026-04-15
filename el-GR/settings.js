@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Επιλέξτε τη χώρα σας',
     'settings.emailSubscriptions.newsletterTech': 'Περιοδικό δελτίο από τους προγραμματιστές μας',
     'settings.emailSubscriptions.newsletterFeatures': 'Πληροφορίες για νέα χαρακτηριστικά',
-    'settings.emailNotifications.title': 'Ειδοποιήσεις',
     'settings.emailNotifications.pm': 'Νέα μηνύματα',
     'settings.emailNotifications.newChapters': 'Νέα κεφάλαια από ιστορίες που ακολουθείτε',
     'settings.emailNotifications.newStories': 'Νέες ιστορίες σε σύμπαντα ή από συγγραφείς που ακολουθείτε',
