@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'เลือกประเทศของคุณ',
     'settings.emailSubscriptions.newsletterTech': 'จดหมายข่าวเกี่ยวกับนักพัฒนาจากทางเราเป็นครั้งคราว',
     'settings.emailSubscriptions.newsletterFeatures': 'ข้อมูลเกี่ยวกับคุณลักษณะใหม่',
-    'settings.emailNotifications.title': 'การแจ้งเตือน',
     'settings.emailNotifications.pm': 'ข้อความใหม่',
     'settings.emailNotifications.newChapters': 'บทใหม่จากเรื่องราวที่คุณติดตาม',
     'settings.emailNotifications.newStories': 'เรื่องราวใหม่ในจักรวาลหรือจากนักเขียนที่คุณติดตาม',
