@@ -39,7 +39,6 @@ export default {
  'diary.settings.includeDiaryInStats': 'लेखन तथ्याङ्कको कुलमा डायरी शब्द गणनाहरू समावेश गर्नुहोस्।',
  'diary.settings.prompts': 'Writing Prompts',
  'diary.settings.writingPromptsEnabled': 'Show writing prompts when starting a new diary entry',
- 'diary.settings.dashboard': 'Dashboard',
  'diary.settings.showOnDashboard': 'Show diary reminder on the dashboard',
  // Blog post creation
  'diary.createBlogPost.title': 'Create Blog Post from Diary Entry',
