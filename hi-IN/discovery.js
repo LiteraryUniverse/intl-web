@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'पुनर्निर्देशित हो रहा है...',
     'story.price.free': 'नि:शुल्क',
     'story.price.owned': 'स्वामित्व',
-    'story.price.paid': 'भुगतान किया गया'
+    'story.price.paid': 'भुगतान किया गया',
+    'story.purchase.fullStory': 'पूरी कहानी खरीदें',
+    'story.purchase.byArc': 'या आर्क के अनुसार खरीदें',
+    'story.purchase.includes': 'सभी {chaptersCount} अध्याय शामिल हैं।',
+    'story.purchase.freePreview': '{count, plural, one {पहला अध्याय पूर्वावलोकन के लिए मुफ्त है} other {पहला {count} अध्याय पूर्वावलोकन के लिए मुफ्त हैं}}',
+    'story.purchase.arcIncludes': 'अध्याय {from}–{to}',
+    'story.purchase.savings': 'बचाएँ {amount}',
+    'story.purchase.allArcsCost': 'सभी मेहराब अलग-अलग: {price}',
+    'story.purchase.owned': 'यह कहानी आपकी है',
+    'story.purchase.arcOwned': 'स्वामित्व',
+    'story.purchase.complete': 'खरीद पूरी हो गई! अब आपको इस कहानी तक पूरी पहुँच मिल गई है।',
+    'story.purchase.header': 'यह कहानी प्राप्त करें',
+    'story.purchase.header.locked': 'प्रिमियम कहानी',
+    'story.purchase.forFullStory': 'पूरी कहानी के लिए',
+    'story.purchase.secureCheckout': 'Stripe के माध्यम से सुरक्षित चेकआउट',
+    'story.purchase.loginToBuy': 'खरीदने के लिए लॉग इन करें',
+    'story.chapter.freePreviewEnds': 'मुफ्त पूर्वावलोकन यहीं समाप्त होता है'
 };
