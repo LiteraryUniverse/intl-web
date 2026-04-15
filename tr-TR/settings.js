@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Ülkenizi seçin',
     'settings.emailSubscriptions.newsletterTech': 'Geliştiricilerimizden gelen zaman zaman bülten',
     'settings.emailSubscriptions.newsletterFeatures': 'Yeni özellikler hakkında bilgi',
-    'settings.emailNotifications.title': 'Bildirimler',
     'settings.emailNotifications.pm': 'Yeni mesajlar',
     'settings.emailNotifications.newChapters': 'Takip ettiğiniz hikayelerden yeni bölümler',
     'settings.emailNotifications.newStories': 'Evrenlerde veya takip ettiğiniz yazarlardan yeni hikayeler',
