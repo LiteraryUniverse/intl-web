@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'נוצר ב- {generatedAt, date, medium} ב- {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'הפקת EPUB נכשלה.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'שמור תחילה קובץ זה כדי לאפשר יצירת EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'קישורים חיצוניים אינם זמינים עבור סיפורים המורשים תחת "Literary Universe". במקום זאת, העלו קבצים כדי שיישמרו באחסון מוצפן.',
     'workshop.story.alternateFormats.fullStory.title': 'קובץ הסיפור המלא',
     'workshop.story.alternateFormats.ongoingAccess.title': 'גישה מתמשכת',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'כל הפרקים הזמינים כרגע',
