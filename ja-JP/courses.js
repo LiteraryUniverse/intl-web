@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': '{count, plural, one {コース} other {コース}}.',
   'courses.invites.noInvites': '現在、コースの案内はありませんね。',
   'courses.invites.invitedBy': '招待者 ',
-  'courses.invites.accept': '受け入れる',
-  'courses.invites.reject': '却下',
   'course.join.heading': 'このコースに参加する',
   'course.oneTimePayment': '1回払いでフルアクセス',
   'course.member': '登録完了',
