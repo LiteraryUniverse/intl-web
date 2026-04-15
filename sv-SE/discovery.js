@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Genomsnittligt betyg på {avgRating, number} från {reviewsNum, number} recension',
     // Story purchase
     'story.buy.button': 'Köp för {price}',
-    'story.buy.confirm': 'Du är på väg att köpa detta för {price}. Du kommer att omdirigeras till Stripe för att slutföra betalningen. Vill du fortsätta?',
     'story.buy.currency': 'Inköpsvaluta',
     'story.buy.error.generic': 'Köpet misslyckades',
-    'story.buy.loginRequired': 'Logga in för att köpa',
     'story.buy.redirecting': 'Omdirigering...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Ägda',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'för hela berättelsen',
     'story.purchase.secureCheckout': 'Säker utcheckning via Stripe',
     'story.purchase.loginToBuy': 'Logga in för att köpa',
+    'story.purchase.loginToBuyArcs': 'Logga in för att köpa enskilda story arcs',
+    'story.purchase.pricingUnavailable': 'Prisinformation är för närvarande inte tillgänglig.',
+    'story.buy.error.timeout': 'Förfrågan tog slut på grund av tidsbrist. Vänligen försök igen.',
     'story.chapter.freePreviewEnds': 'Gratis förhandsvisning avslutas här'
 };
