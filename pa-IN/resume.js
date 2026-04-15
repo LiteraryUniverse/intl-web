@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'ਸਾਲ',
   'resume.editor.awards.desc': 'ਵੇਰਵਾ',
   'resume.editor.awards.add': 'ਇਨਾਮ ਸ਼ਾਮਲ ਕਰੋ',
-  'resume.editor.awards.remove': 'ਹਟਾਓ',
   // Theme
   'resume.editor.theme.heading': 'ਸੰਖੇਪ ਥੀਮ',
   'resume.editor.theme.description': 'ਆਪਣੇ ਜਨਤਕ ਰੈਜ਼ਿਊਮੇ ਪੰਨੇ ਲਈ ਇੱਕ ਵਿਜ਼ੂਅਲ ਥੀਮ ਚੁਣੋ।',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'ਪਹੁੰਚ ਲਿੰਕ ਬਣਾਓ',
   'resume.access.createLink.comment': 'ਟਿੱਪਣੀ (ਵਿਕਲਪਿਕ)',
   'resume.access.createLink.language': 'ਪੰਨਾ ਭਾਸ਼ਾ',
-  'resume.access.createLink.create': 'ਬਣਾਓ',
   'resume.access.noLinks': 'ਹਾਲੇ ਤੱਕ ਕੋਈ ਐਕਸੈਸ ਲਿੰਕ ਨਹੀਂ ਬਣਾਏ ਗਏ। ਆਪਣਾ ਰੈਜ਼ਿਊਮੇ ਸਾਂਝਾ ਕਰਨ ਲਈ ਇੱਕ ਲਿੰਕ ਬਣਾਓ।',
   'resume.access.copy': 'ਨਕਲ',
   'resume.access.copied': 'ਕਾਪੀ ਹੋ ਗਿਆ!',
@@ -108,7 +106,6 @@ export default {
   'resume.access.created': 'ਬਣਾਇਆ ਗਿਆ {date}',
   'resume.access.viewVisits': 'ਦੌਰੇ ਦੇ ਵੇਰਵੇ ਵੇਖੋ',
   'resume.access.noVisits': 'ਅਜੇ ਤੱਕ ਕੋਈ ਦੌਰਾ ਦਰਜ ਨਹੀਂ ਹੋਇਆ।',
-  'resume.access.anonymousVisitor': 'ਗੁਮਨਾਮ',
   'resume.access.onsite': "ਸਾਈਟ 'ਤੇ",
   'resume.access.visitNumber': "( #{number} 'ਤੇ ਜਾਓ)",
   // ── Public Resume Page ──────────────────────────────────────────────────────
