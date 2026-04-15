@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Jūs perskaitėte {readPercent, number, ::percent} iš pasakos.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Įveskite paieškos terminus arba naudokite filtrus',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Įsigytos istorijos'
 };
