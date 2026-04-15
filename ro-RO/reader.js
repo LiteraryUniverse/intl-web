@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Acest capitol necesită achiziționarea',
     'reader.purchaseGate.description': 'Pentru a continua lectura {storyTitle}{authorName, select, undefined {} other { de {authorName}}}, trebuie să o achiziționați.',
-    'reader.purchaseGate.buyFullStory': 'Cumpărați povestea completă',
     'reader.purchaseGate.buyArc': 'Sau cumpărați acest arc',
-    'reader.purchaseGate.buying': 'Redirecționarea la checkout...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} capitol} other {{count} capitole}} inclus',
-    'reader.purchaseGate.loginRequired': 'Vă rugăm să vă autentificați pentru a cumpăra acest articol.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} capitol} other {{count} capitole}} inclus'
 };
