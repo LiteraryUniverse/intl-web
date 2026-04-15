@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Valitse maasi',
     'settings.emailSubscriptions.newsletterTech': 'Satunnainen uutiskirje kehittäjiltämme',
     'settings.emailSubscriptions.newsletterFeatures': 'Tietoa uusista ominaisuuksista',
-    'settings.emailNotifications.title': 'Ilmoitukset',
     'settings.emailNotifications.pm': 'Uudet viestit',
     'settings.emailNotifications.newChapters': 'Uusia lukuja seuraamistasi tarinoista',
     'settings.emailNotifications.newStories': 'Uusia tarinoita universumeissa tai seuraamiltasi kirjailijoilta',
