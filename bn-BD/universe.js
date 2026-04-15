@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'লেখক',
     'universe.authors.desc': '{universe}এর সৃষ্টিকর্তারা এবং অবদানকারীরা',
     'universe.contributors': 'অবদানকারীরা',
-    'universe.translators': 'অনুবাদকরা',
     'universe.authors.notice': 'প্রতিটি কাহিনির সঙ্গে অতিরিক্ত ব্যক্তিগত যারা কাজ করেছেন। বিস্তারিত দেখতে কাহিনির বিবরণ দেখুন।',
     'universe.createdBy': `{gender, select,
     male {দ্বারা সৃষ্টিকৃত}
