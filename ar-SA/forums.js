@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'لم يرد أحد بعد. كن الأول!',
   'forums.noThreads': 'لا يوجد شيء للعرض هنا. من الأمر بيدك أن تبدأ المحادثة.',
   'forums.openingPost': 'المشاركة الافتتاحية',
-  'forums.post': 'نشر',
   'forums.post.new': 'منشور جديد',
   'forums.posting': 'جارٍ النشر...',
   'forums.reply': 'الرد',
