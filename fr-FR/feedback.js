@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Suggérer une nouvelle fonctionnalité',
     'feedback.lang.nosupport': 'Votre langue actuelle n\'est pas prise en charge pour les feedback, veuillez écrire en anglais. Merci !',
     'feedback.new.thanks': 'Nous vous remercions pour cet avis ! Nous allons nous pencher sur la question dans les plus brefs délais.',
-    'feedback.comment.title': 'Commentaire',
     'feedback.comment.desc': 'Envoyez-nous vos feedbacks',
     'feedback.comment.legend': 'Votre feedback - faites-nous part de tout ce que vous voulez',
     'feedback.comment.success': 'Merci pour votre feedback !',
@@ -55,7 +54,6 @@ export default {
     story {histoire}
     other {histoire}
   } est en train d'être violée ?`,
-    'feedback.help.overview': 'Vue d\'ensemble',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Cours',
     'feedback.help.videoTutorials': 'Tutoriels vidéo',
