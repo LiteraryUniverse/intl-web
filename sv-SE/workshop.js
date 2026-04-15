@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Uppladdning ... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'En förhandsgranskningsfil för utgivare har laddats upp för den här artikeln.',
     'workshop.story.publisherPreview.replace': 'Ersätt fil',
-    'workshop.story.publisherPreview.remove': 'Ta bort',
     // Story monetization
     'workshop.monetization.addCurrency': 'Lägg till en annan valuta som stöds',
     'workshop.monetization.arcDescription': 'Beskrivning av bågen (visas i Stripe checkout)',
