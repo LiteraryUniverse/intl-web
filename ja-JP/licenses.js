@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': '私は、CC0の条件と私の作品に対する法的効果を理解しています。',
     'licenses.learnMore': 'さらに詳しく',
     'licenses.legalText': 'リーガル・テキスト',
-    'licenses.chooser.back': 'バック',
     'licenses.chooser.select': 'このライセンスを選択する',
     'licenses.commercial.title': '商用ライセンス情報',
     'licenses.commercial.exclusive': 'この独占ライセンスにより、Literary Universeはあなたの収益から10％の手数料を取ります。つまり、私たちのプラットフォームであなたの作品から生み出された収益の90％を受け取ることができます。',
