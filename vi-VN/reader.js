@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Để đọc chương này, bạn cần mua sách',
     'reader.purchaseGate.description': 'Để tiếp tục đọc {storyTitle}{authorName, select, undefined {} other { của {authorName}}}, bạn cần mua cuốn sách này.',
-    'reader.purchaseGate.buyFullStory': 'Mua bài viết đầy đủ',
     'reader.purchaseGate.buyArc': 'Hoặc mua bộ truyện này',
-    'reader.purchaseGate.buying': 'Đang chuyển hướng đến trang thanh toán...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chương} other {{count} các chương}} đã bao gồm',
-    'reader.purchaseGate.loginRequired': 'Vui lòng đăng nhập để mua truyện này.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chương} other {{count} các chương}} đã bao gồm'
 };
