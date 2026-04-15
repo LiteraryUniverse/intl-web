@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'إعادة توجيه...',
     'story.price.free': 'مجاناً',
     'story.price.owned': 'مملوكة',
-    'story.price.paid': 'مدفوعة الأجر'
+    'story.price.paid': 'مدفوعة الأجر',
+    'story.purchase.fullStory': 'اشترِ القصة كاملة',
+    'story.purchase.byArc': 'أو الشراء بالقوس',
+    'story.purchase.includes': 'يشمل جميع الفصول {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {الفصل الأول مجاني للمعاينة} other {الفصل الأول {count} الفصل الأول ~ الفصل الأول مجاني للمعاينة}}',
+    'story.purchase.arcIncludes': 'الفصول {from}-{to}',
+    'story.purchase.savings': 'حفظ {amount}',
+    'story.purchase.allArcsCost': 'كل الأقواس على حدة: {price}',
+    'story.purchase.owned': 'أنت تملك هذه القصة',
+    'story.purchase.arcOwned': 'مملوكة',
+    'story.purchase.complete': 'اكتمل الشراء! لديك الآن حق الوصول الكامل إلى هذه القصة.',
+    'story.purchase.header': 'احصل على هذه القصة',
+    'story.purchase.header.locked': 'قصة مميزة',
+    'story.purchase.forFullStory': 'للاطلاع على القصة كاملة',
+    'story.purchase.secureCheckout': 'الدفع الآمن عبر Stripe',
+    'story.purchase.loginToBuy': 'تسجيل الدخول للشراء',
+    'story.chapter.freePreviewEnds': 'تنتهي المعاينة المجانية هنا'
 };
