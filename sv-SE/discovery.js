@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Omdirigering...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Ägda',
-    'story.price.paid': 'Betalade'
+    'story.price.paid': 'Betalade',
+    'story.purchase.fullStory': 'Köp hela artikeln',
+    'story.purchase.byArc': 'eller köp genom båge',
+    'story.purchase.includes': 'Innehåller alla kapitel på {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Första kapitlet är gratis att förhandsgranska} other {Första {count} kapitlen är gratis att förhandsgranska}}',
+    'story.purchase.arcIncludes': 'Kapitel {from}-{to}',
+    'story.purchase.savings': 'Spara {amount}',
+    'story.purchase.allArcsCost': 'Alla bågar separat: {price}',
+    'story.purchase.owned': 'Du äger den här berättelsen',
+    'story.purchase.arcOwned': 'Ägda',
+    'story.purchase.complete': 'Köpet är slutfört! Du har nu full tillgång till denna berättelse.',
+    'story.purchase.header': 'Få den här berättelsen',
+    'story.purchase.header.locked': 'Premiumberättelse',
+    'story.purchase.forFullStory': 'för hela berättelsen',
+    'story.purchase.secureCheckout': 'Säker utcheckning via Stripe',
+    'story.purchase.loginToBuy': 'Logga in för att köpa',
+    'story.chapter.freePreviewEnds': 'Gratis förhandsvisning avslutas här'
 };
