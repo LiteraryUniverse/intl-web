@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'اختر دولتك',
     'settings.emailSubscriptions.newsletterTech': 'النشرة الإخبارية المنتظمة من مطورينا',
     'settings.emailSubscriptions.newsletterFeatures': 'معلومات عن المزايا الجديدة',
-    'settings.emailNotifications.title': 'الإشعارات',
     'settings.emailNotifications.pm': 'رسائل جديدة',
     'settings.emailNotifications.newChapters': 'فصول جديدة من القصص التي تتابعها',
     'settings.emailNotifications.newStories': 'قصص جديدة في العوالم أو من مؤلفين تتابعهم',
