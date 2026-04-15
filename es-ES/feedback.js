@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Sugerir una nueva función',
     'feedback.lang.nosupport': 'Tu lengua no está disponible para comentarios y valoraciones, por favor escribe en inglés. ¡Gracias!',
     'feedback.new.thanks': 'Gracias por el aviso. Lo estudiaremos en breve.',
-    'feedback.comment.title': 'Comentario',
     'feedback.comment.desc': 'Mándanos tus comentarios y valoraciones',
     'feedback.comment.legend': 'Tus comentarios y valoraciones - infórmanos sobre lo que quieras',
     'feedback.comment.success': '¡Gracias por tus comentarios!',
@@ -55,7 +54,6 @@ export default {
     story {historia}
     other {historia}
   } se está infringiendo?`,
-    'feedback.help.overview': 'Visión general',
     'feedback.help.articles': 'Artículos',
     'feedback.help.courses': 'Cursos',
     'feedback.help.videoTutorials': 'Tutoriales en vídeo',
