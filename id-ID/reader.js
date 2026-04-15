@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Bab ini memerlukan pembelian',
     'reader.purchaseGate.description': 'Untuk melanjutkan membaca {storyTitle}{authorName, select, undefined {} other { oleh {authorName}}}, Anda perlu membelinya.',
-    'reader.purchaseGate.buyFullStory': 'Beli cerita lengkap',
     'reader.purchaseGate.buyArc': 'Atau beli busur ini',
-    'reader.purchaseGate.buying': 'Mengalihkan ke pembayaran...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} bab} other {{count} bab}} termasuk',
-    'reader.purchaseGate.loginRequired': 'Silakan masuk untuk membeli cerita ini.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} bab} other {{count} bab}} termasuk'
 };
