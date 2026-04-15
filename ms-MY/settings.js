@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Pilih negara anda',
     'settings.emailSubscriptions.newsletterTech': 'Buletin terkini dari pembangun kami',
     'settings.emailSubscriptions.newsletterFeatures': 'Maklumat tentang ciri-ciri baru',
-    'settings.emailNotifications.title': 'Pemberitahuan',
     'settings.emailNotifications.pm': 'Mesej baru',
     'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
     'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
