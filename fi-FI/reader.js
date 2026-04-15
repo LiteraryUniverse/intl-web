@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Tämä luku edellyttää ostamista',
     'reader.purchaseGate.description': 'Jatkaaksesi lukemista {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, sinun on ostettava se.',
-    'reader.purchaseGate.buyFullStory': 'Osta koko tarina',
     'reader.purchaseGate.buyArc': 'Tai osta tämä kaari',
-    'reader.purchaseGate.buying': 'Ohjaus kassalle...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} luku} other {{count} luvut}} mukana.',
-    'reader.purchaseGate.loginRequired': 'Kirjaudu sisään ostaaksesi tämän tarinan.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} luku} other {{count} luvut}} mukana.'
 };
