@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'শেয়ার করুন...',
     'sharing.feedback': 'আমরা কি এমন কোনো জায়গা মিস করছি যা আপনি শেয়ার করতে চান? আমাদের জানান!',
     'sharing.copy': 'কপি করুন',
-    'sharing.email': 'ইমেইল',
     'sharing.sms': 'এসএমএস',
     'sharing.messenger': 'ফেসবুক মেসেঞ্জার',
     'sharing.whatsapp': 'ওয়াটসঅ্যাপ',
