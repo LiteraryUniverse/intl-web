@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Ikäluokitus',
     'rating.explained': 'Ikäluokitus ja rajoitus.',
-    'rating.all': 'Kaikki',
     'rating.desc.all': 'Sopii kaikenikäisille ja -ryhmille.',
     'rating.teens': 'Teini',
     'rating.desc.teens': 'Sopii 12-18-vuotiaille katsojille.',
