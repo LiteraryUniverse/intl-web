@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'უნივერსულის ნაწილი',
     'discover.search.rating': 'ასაკის რეიტინგი',
     'discover.search.license': 'საავტორო უფლება',
-    'discover.search.language': 'ენა',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {არცერთი უნივერსი არ ემთხვევა თქვენს პარამეტრებს}
         one {1 უნივერსი მოიძებნა}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'ხელოვნური ინტელექტით გენერირებული კონტენტი',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
