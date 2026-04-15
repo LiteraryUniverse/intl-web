@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Classificação média de {avgRating, number} de {reviewsNum, number} avaliação',
     // Story purchase
     'story.buy.button': 'Compre para {price}',
-    'story.buy.confirm': 'O senhor está prestes a comprar este produto para {price}. O senhor será redirecionado para o Stripe para concluir o pagamento. O senhor pode continuar?',
     'story.buy.currency': 'Moeda de compra',
     'story.buy.error.generic': 'A compra falhou',
-    'story.buy.loginRequired': 'Faça login para comprar',
     'story.buy.redirecting': 'Redirecionando...',
     'story.price.free': 'Grátis',
     'story.price.owned': 'De propriedade',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'para ver a história completa',
     'story.purchase.secureCheckout': 'Checkout seguro via Stripe',
     'story.purchase.loginToBuy': 'Faça login para comprar',
+    'story.purchase.loginToBuyArcs': 'Faça login para comprar arcos de histórias individuais',
+    'story.purchase.pricingUnavailable': 'No momento, as informações sobre preços não estão disponíveis.',
+    'story.buy.error.timeout': 'O tempo limite da solicitação expirou. Por favor, tente novamente.',
     'story.chapter.freePreviewEnds': 'A visualização gratuita termina aqui'
 };
