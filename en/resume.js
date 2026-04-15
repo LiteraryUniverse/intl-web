@@ -68,7 +68,6 @@ export default {
   'resume.editor.awards.year': 'Year',
   'resume.editor.awards.desc': 'Description',
   'resume.editor.awards.add': 'Add Award',
-  'resume.editor.awards.remove': 'Remove',
 
   // Theme
   'resume.editor.theme.heading': 'Resume Theme',
@@ -112,7 +111,6 @@ export default {
   'resume.access.createLink.title': 'Create Access Link',
   'resume.access.createLink.comment': 'Comment (optional)',
   'resume.access.createLink.language': 'Page Language',
-  'resume.access.createLink.create': 'Create',
   'resume.access.noLinks':
     'No access links created yet. Create a link to share your resume.',
   'resume.access.copy': 'Copy',
@@ -125,7 +123,6 @@ export default {
   'resume.access.created': 'Created {date}',
   'resume.access.viewVisits': 'View visit details',
   'resume.access.noVisits': 'No visits recorded yet.',
-  'resume.access.anonymousVisitor': 'Anonymous',
   'resume.access.onsite': 'On-site',
   'resume.access.visitNumber': '(visit #{number})',
 
