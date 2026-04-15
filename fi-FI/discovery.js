@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Osa universumia',
     'discover.search.rating': 'Ikäraja',
     'discover.search.license': 'Tekijänoikeuslupa',
-    'discover.search.language': 'Kieli',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Ei universumeja, jotka vastaavat parametrejasi}
         one {löydettiin 1 universumi}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Tämä tarina on vain teoksen esikatselukappale.',
     'discovery.includesAds': 'Sisältää mainoksia',
     // AI content related strings
-    'discovery.ai.content': 'Tekoälyn luoma sisältö',
     'discovery.ai.universes': 'Tekoälyn luomat maailmankaikkeudet',
     'discovery.ai.stories': 'Tekoälyn luomat tarinat',
     'discovery.ai.noContent': 'Tekoälyn tuottamaa sisältöä ei ole vielä saatavilla.',
