@@ -573,7 +573,7 @@ export default {
     'workshop.monetization.freePreviewHelp': '物語の冒頭から何章までは、誰でも自由に読めるように設定しましょう。これは読者を引き付けるのに役立ちます。',
     'workshop.monetization.fullStoryPricing': '価格',
     'workshop.monetization.lowPriceFee': '低価格の定額料金で活動。',
-    'workshop.monetization.noArcs': 'ストーリー・アークはまだ定義されていません。まずストーリー設定でアークを追加してください。',
+    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
     'workshop.monetization.noCurrencies': '通貨を追加して、このエディションの価格を設定する。',
     'workshop.monetization.originalEdition': 'オリジナル',
     'workshop.monetization.payoutSplits': 'ペイアウト・スプリット',
@@ -614,5 +614,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'このストーリーは収益化されています。招待された方は、招待を受ける前にStripeの支払い設定を完了する必要があります。以下に収益シェアを提案することができます - それはあなたのシェアから取られます。',
     'workshop.collaborators.proposedSplit': '収入シェア案(%)',
-    'workshop.collaborators.splitFromOwnerShare': 'これはあなたの取り分から差し引かれます。招待された方は、Stripeの支払い設定を完了させてから、招待に応じる必要があります。'
+    'workshop.collaborators.splitFromOwnerShare': 'これはあなたの取り分から差し引かれます。招待された方は、Stripeの支払い設定を完了させてから、招待に応じる必要があります。',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Story arcs',
+    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
+    'workshop.monetization.saveArcs': 'Save arcs',
+    'workshop.monetization.arcsSaved': 'Arc structure saved.',
+    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
