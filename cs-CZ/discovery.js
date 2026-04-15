@@ -101,5 +101,21 @@ export default {
     'story.buy.redirecting': 'Přesměrování...',
     'story.price.free': 'Zdarma',
     'story.price.owned': 'Vlastní',
-    'story.price.paid': 'Placené'
+    'story.price.paid': 'Placené',
+    'story.purchase.fullStory': 'Koupit celý příběh',
+    'story.purchase.byArc': 'nebo koupit pomocí oblouku',
+    'story.purchase.includes': 'Obsahuje všechny kapitoly {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {První kapitola je zdarma k náhledu} other {První {count} kapitoly jsou zdarma k náhledu}}',
+    'story.purchase.arcIncludes': 'Kapitoly {from}-{to}',
+    'story.purchase.savings': 'Uložit {amount}',
+    'story.purchase.allArcsCost': 'Všechny oblouky zvlášť: {price}',
+    'story.purchase.owned': 'Tento příběh patří vám',
+    'story.purchase.arcOwned': 'Vlastní',
+    'story.purchase.complete': 'Nákup dokončen! Nyní máte plný přístup k tomuto příběhu.',
+    'story.purchase.header': 'Získejte tento příběh',
+    'story.purchase.header.locked': 'Prémiový příběh',
+    'story.purchase.forFullStory': 'pro celý příběh',
+    'story.purchase.secureCheckout': 'Zabezpečené pokladny přes Stripe',
+    'story.purchase.loginToBuy': 'Přihlaste se k nákupu',
+    'story.chapter.freePreviewEnds': 'Bezplatný náhled končí zde'
 };
