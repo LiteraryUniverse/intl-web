@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Bab {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} catatan peribadi',
   'personalNotes.searchResults': 'Hasil Pencarian',
-  'personalNotes.type.story': 'Cerita',
-  'personalNotes.type.universe': 'Alam Semesta',
-  'personalNotes.type.chapter': 'Bab',
   'personalNotes.type.encEntry': 'Entri Ensiklopedia',
   'personalNotes.type.revTextBlock': 'Blok Teks Revisi',
-  'personalNotes.chapter': 'Bab',
   'personalNotes.recentSearches': 'Pencarian Terbaru:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'
