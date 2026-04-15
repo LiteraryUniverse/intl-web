@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Pasirinkite savo šalį',
     'settings.emailSubscriptions.newsletterTech': 'Periodinis naujienlaiškis iš mūsų kūrėjų',
     'settings.emailSubscriptions.newsletterFeatures': 'Informacija apie naujas funkcijas',
-    'settings.emailNotifications.title': 'Pranešimai',
     'settings.emailNotifications.pm': 'Nauji žinučių',
     'settings.emailNotifications.newChapters': 'Nauji sekamų istorijų skyriai',
     'settings.emailNotifications.newStories': 'Naujos istorijos visatose arba iš autorių, kuriuos sekate',
