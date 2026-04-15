@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Автори',
     'universe.authors.desc': 'Творці та співавтори для {universe}',
     'universe.contributors': 'Співавтори',
-    'universe.translators': 'Перекладачі',
     'universe.authors.notice': 'Кожна історія може мати додаткових осіб, які працювали над нею. Більше деталей дивіться у деталях історії.',
     'universe.createdBy': `Створено {gender, select,
     male {}
