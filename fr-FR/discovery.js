@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Note moyenne de {avgRating, number} à partir de {reviewsNum, number} avis',
     // Story purchase
     'story.buy.button': 'Acheter pour {price}',
-    'story.buy.confirm': 'Vous êtes sur le point d\'acheter ce produit pour {price}. Vous serez redirigé vers Stripe pour effectuer le paiement. Poursuivre ?',
     'story.buy.currency': 'Devise d\'achat',
     'story.buy.error.generic': 'L\'achat a échoué',
-    'story.buy.loginRequired': 'Connectez-vous pour acheter',
     'story.buy.redirecting': 'Redirection...',
     'story.price.free': 'Gratuit',
     'story.price.owned': 'Propriétaire',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'pour l\'article complet',
     'story.purchase.secureCheckout': 'Paiement sécurisé via Stripe',
     'story.purchase.loginToBuy': 'Connectez-vous pour acheter',
+    'story.purchase.loginToBuyArcs': 'Connectez-vous pour acheter des épisodes individuels',
+    'story.purchase.pricingUnavailable': 'Les informations sur les prix ne sont pas encore disponibles.',
+    'story.buy.error.timeout': 'La demande a expiré. Veuillez réessayer.',
     'story.chapter.freePreviewEnds': 'L\'avant-première gratuite se termine ici'
 };
