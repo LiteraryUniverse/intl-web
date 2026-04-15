@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Tato kapitola vyžaduje zakoupení',
     'reader.purchaseGate.description': 'Chcete-li pokračovat ve čtení {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, musíte si ji zakoupit.',
-    'reader.purchaseGate.buyFullStory': 'Koupit celý příběh',
     'reader.purchaseGate.buyArc': 'Nebo si kupte tento oblouk',
-    'reader.purchaseGate.buying': 'Přesměrování na pokladnu...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} kapitola} other {{count} kapitoly}} včetně',
-    'reader.purchaseGate.loginRequired': 'Pro zakoupení tohoto příběhu se prosím přihlaste.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} kapitola} other {{count} kapitoly}} včetně'
 };
