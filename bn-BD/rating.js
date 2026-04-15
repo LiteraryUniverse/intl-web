@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'রেটিং',
     'rating.explained': 'বয়স রেটিং এবং সীমাবদ্ধতা।',
-    'rating.all': 'সব',
     'rating.desc.all': 'সমস্ত বয়স এবং গোষ্ঠীতে অ্যাক্সেসযোগ্য।',
     'rating.teens': 'কিশোরদের',
     'rating.desc.teens': '12 থেকে 18 বছর বয়সের পাঠকের জন্য উপযুক্ত।',
