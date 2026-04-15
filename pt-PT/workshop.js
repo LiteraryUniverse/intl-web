@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Defina quantos capítulos do início da sua história estão livres para serem lidos por qualquer pessoa. Isto ajuda a atrair leitores.',
     'workshop.monetization.fullStoryPricing': 'Preço total da história',
     'workshop.monetization.lowPriceFee': 'Taxa fixa de baixo preço ativa.',
-    'workshop.monetization.noArcs': 'Ainda não tem arcos de história definidos. Adicione primeiro os arcos nas definições da sua história.',
+    'workshop.monetization.noArcs': 'Ainda não há arcos de história definidos. Adicione arcos na secção de arcos de história acima.',
     'workshop.monetization.noCurrencies': 'Adicione moedas para definir preços para esta edição.',
     'workshop.monetization.originalEdition': 'Original',
     'workshop.monetization.payoutSplits': 'Divisão de pagamentos',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Esta história é monetizada. Os convidados devem concluir a configuração de pagamento do Stripe antes de poderem aceitar. Pode propor uma participação nos lucros abaixo - esta será retirada da sua participação.',
     'workshop.collaborators.proposedSplit': 'Quota de receitas proposta (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Este valor será retirado da sua quota. O convidado tem de concluir a configuração do pagamento Stripe antes de poder aceitar.'
+    'workshop.collaborators.splitFromOwnerShare': 'Este valor será retirado da sua quota. O convidado tem de concluir a configuração do pagamento Stripe antes de poder aceitar.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Arcos de histórias',
+    'workshop.monetization.arcManagementHelp': 'Defina os arcos da sua história definindo intervalos de capítulos. Cada arco pode ser vendido separadamente.',
+    'workshop.monetization.saveArcs': 'Guardar arcos',
+    'workshop.monetization.arcsSaved': 'Estrutura do arco guardada.',
+    'workshop.monetization.lowPriceWarning': 'A este preço, aplica-se a taxa fixa mínima. O seu pagamento será inferior à divisão padrão de {platformCut, number}%. Considere a possibilidade de estabelecer o preço em {thresholdPrice} ou superior para obter o melhor pagamento para o criador.',
+    'workshop.monetization.recommendedPrice': 'Preço recomendado com base na duração da história ({wordCount, number} {countLabel}): {price}.'
 };
