@@ -61,7 +61,6 @@ export default {
   'resume.editor.awards.year': 'Jaar',
   'resume.editor.awards.desc': 'Beschrijving',
   'resume.editor.awards.add': 'Bekroning toevoegen',
-  'resume.editor.awards.remove': 'Verwijder',
   // Theme
   'resume.editor.theme.heading': 'Thema cv',
   'resume.editor.theme.description': 'Kies een visueel thema voor uw openbare cv-pagina.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Toegangslink maken',
   'resume.access.createLink.comment': 'Opmerking (optioneel)',
   'resume.access.createLink.language': 'Pagina Taal',
-  'resume.access.createLink.create': 'Maak',
   'resume.access.noLinks': 'Nog geen toegangslinks gemaakt. Maak een link aan om uw cv te delen.',
   'resume.access.copy': 'Kopie',
   'resume.access.copied': 'Gekopieerd!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Gemaakt {date}',
   'resume.access.viewVisits': 'Details bezoek bekijken',
   'resume.access.noVisits': 'Er zijn nog geen bezoeken geregistreerd.',
-  'resume.access.anonymousVisitor': 'Anonieme',
   'resume.access.onsite': 'Op locatie',
   'resume.access.visitNumber': '(bezoek #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
