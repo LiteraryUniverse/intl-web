@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': '建議新功能',
     'feedback.lang.nosupport': '您當前的語言不支援回饋，請用英文書寫。謝謝！',
     'feedback.new.thanks': '感謝您的通知！我們會盡快調查。',
-    'feedback.comment.title': '評論',
     'feedback.comment.desc': '發送回饋',
     'feedback.comment.legend': '您的回饋 - 讓我們知道任何事情',
     'feedback.comment.success': '感謝您的回饋！',
@@ -55,7 +54,6 @@ export default {
     story {故事}
     other {故事}
   } 受到侵害？`,
-    'feedback.help.overview': '概述',
     'feedback.help.articles': '文章',
     'feedback.help.courses': '課程',
     'feedback.help.videoTutorials': '視訊教學',
