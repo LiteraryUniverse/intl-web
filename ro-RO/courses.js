@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'Sunteți invitați să participați la {count, plural, one {curs} other {cursuri}}.',
   'courses.invites.noInvites': 'Momentan nu aveți invitații la cursuri.',
   'courses.invites.invitedBy': 'Invitat de: ',
-  'courses.invites.accept': 'Acceptați',
-  'courses.invites.reject': 'Respingeți',
   'course.join.heading': 'Înscrieți-vă la acest curs',
   'course.oneTimePayment': 'Plată unică pentru acces complet',
   'course.member': 'Sunteți înscris',
