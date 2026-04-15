@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Szerzők',
     'universe.authors.desc': 'Készítők és hozzájárulók {universe}-hez',
     'universe.contributors': 'Hozzájárulók',
-    'universe.translators': 'Fordítók',
     'universe.authors.notice': 'Minden történet esetén előfordulhat, hogy vannak további személyek, akik rajta dolgoztak. További részletekért nézze meg a történet részleteit.',
     'universe.createdBy': `!Created by {gender, select,
     male {Created by}
