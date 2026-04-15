@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Запрошення на електронну пошту',
     // Members table
     'org.members.joined': 'Приєднався',
-    'org.members.actions': 'Дії',
     'org.roles.super_admin': 'Супер адміністратор'
 };
