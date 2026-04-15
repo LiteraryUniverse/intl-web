@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Pasiūlyti naują funkcionalumą',
     'feedback.lang.nosupport': 'Jūsų dabartinė kalba nepalaikoma atsiliepimams, prašome rašyti angliškai. Ačiū!',
     'feedback.new.thanks': 'Dėkojame už pranešimą! Netrukus jį išnagrinėsime.',
-    'feedback.comment.title': 'Komentaras',
     'feedback.comment.desc': 'Siųskite mums savo atsiliepimus',
     'feedback.comment.legend': 'Jūsų atsiliepimai - praneškite apie bet ką',
     'feedback.comment.success': 'Dėkojame už jūsų atsiliepimus!',
@@ -55,7 +54,6 @@ export default {
     story {istorijos}
     other {istorija}
   } yra pažeidžiama?`,
-    'feedback.help.overview': 'Apžvalga',
     'feedback.help.articles': 'Straipsniai',
     'feedback.help.courses': 'Kursai',
     'feedback.help.videoTutorials': 'Vaizdo pamokos',
