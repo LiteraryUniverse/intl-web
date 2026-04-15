@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Stel in hoeveel hoofdstukken vanaf het begin van uw verhaal voor iedereen gratis te lezen zijn. Dit helpt om lezers aan te trekken.',
     'workshop.monetization.fullStoryPricing': 'Prijzen volledig verhaal',
     'workshop.monetization.lowPriceFee': 'Low-price flat fee actief.',
-    'workshop.monetization.noArcs': 'Nog geen verhaalbogen gedefinieerd. Voeg eerst bogen toe in uw verhaalinstellingen.',
+    'workshop.monetization.noArcs': 'Nog geen verhaalbogen gedefinieerd. Voeg bogen toe in de bogensectie hierboven.',
     'workshop.monetization.noCurrencies': 'Voeg valuta\'s toe om prijzen voor deze editie in te stellen.',
     'workshop.monetization.originalEdition': 'Origineel',
     'workshop.monetization.payoutSplits': 'Uitbetalingssplitsingen',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Voor dit verhaal wordt geld betaald. Uitgenodigden moeten de Stripe uitbetalingsinstellingen voltooien voordat ze kunnen accepteren. U kunt hieronder een inkomstenaandeel voorstellen - het zal van uw aandeel worden afgehaald.',
     'workshop.collaborators.proposedSplit': 'Voorgesteld aandeel in de inkomsten (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Dit wordt van uw aandeel afgehaald. De genodigde moet de Stripe betalingsinstelling voltooien voordat hij/zij kan accepteren.'
+    'workshop.collaborators.splitFromOwnerShare': 'Dit wordt van uw aandeel afgehaald. De genodigde moet de Stripe betalingsinstelling voltooien voordat hij/zij kan accepteren.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Verhaalreeksen',
+    'workshop.monetization.arcManagementHelp': 'Definieer de arcs van uw verhaal door hoofdstukreeksen in te stellen. Elke boog kan afzonderlijk worden verkocht.',
+    'workshop.monetization.saveArcs': 'Bogen opslaan',
+    'workshop.monetization.arcsSaved': 'Boogstructuur opgeslagen.',
+    'workshop.monetization.lowPriceWarning': 'Voor deze prijs geldt het flat-fee minimum. Uw uitbetaling zal lager zijn dan de standaard {platformCut, number}% verdeling. Overweeg een prijs van {thresholdPrice} of hoger voor de beste uitbetaling aan de maker.',
+    'workshop.monetization.recommendedPrice': 'Aanbevolen prijs gebaseerd op de lengte van het verhaal ({wordCount, number} {countLabel}): {price}.'
 };
