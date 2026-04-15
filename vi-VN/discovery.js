@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Điểm đánh giá trung bình {avgRating, number} từ bài đánh giá {reviewsNum, number}',
     // Story purchase
     'story.buy.button': 'Mua tại {price}',
-    'story.buy.confirm': 'Bạn sắp mua sản phẩm này tại {price}. Bạn sẽ được chuyển hướng đến Stripe để hoàn tất thanh toán. Tiếp tục?',
     'story.buy.currency': 'Tiền tệ thanh toán',
     'story.buy.error.generic': 'Giao dịch mua hàng không thành công',
-    'story.buy.loginRequired': 'Đăng nhập để mua hàng',
     'story.buy.redirecting': 'Đang chuyển hướng...',
     'story.price.free': 'Miễn phí',
     'story.price.owned': 'Sở hữu',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'để đọc toàn bộ câu chuyện',
     'story.purchase.secureCheckout': 'Thanh toán an toàn qua Stripe',
     'story.purchase.loginToBuy': 'Đăng nhập để mua hàng',
+    'story.purchase.loginToBuyArcs': 'Đăng nhập để mua các phần truyện riêng lẻ',
+    'story.purchase.pricingUnavailable': 'Hiện tại chưa có thông tin về giá.',
+    'story.buy.error.timeout': 'Yêu cầu đã hết thời gian chờ. Vui lòng thử lại.',
     'story.chapter.freePreviewEnds': 'Bản xem trước miễn phí kết thúc tại đây'
 };
