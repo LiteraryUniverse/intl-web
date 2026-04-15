@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Πρόταση νέας λειτουργίας',
     'feedback.lang.nosupport': 'Η τρέχουσα γλώσσα σας δεν υποστηρίζεται για τα σχόλια, παρακαλώ γράψτε στα Αγγλικά. Ευχαριστούμε!',
     'feedback.new.thanks': 'Σας ευχαριστούμε για την ειδοποίηση! Θα το εξετάσουμε σύντομα.',
-    'feedback.comment.title': 'Σχόλιο',
     'feedback.comment.desc': 'Στείλτε μας τα σχόλιά σας',
     'feedback.comment.legend': 'Τα σχόλιά σας - πείτε μας για οτιδήποτε',
     'feedback.comment.success': 'Σας ευχαριστούμε για τα σχόλιά σας!',
@@ -55,7 +54,6 @@ export default {
     story {ιστορία}
     other {ιστορία}
   } παραβιάζεται;`,
-    'feedback.help.overview': 'Επισκόπηση',
     'feedback.help.articles': 'Άρθρα',
     'feedback.help.courses': 'Μαθήματα',
     'feedback.help.videoTutorials': 'Εκπαιδευτικά βίντεο',
