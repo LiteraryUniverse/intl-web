@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': '平均評分 {avgRating, number} 來自 {reviewsNum, number} 評論',
     // Story purchase
     'story.buy.button': '購買 {price}',
-    'story.buy.confirm': '您即將購買 {price}。您將被重定向至 Stripe 完成付款。繼續嗎？',
     'story.buy.currency': '購買貨幣',
     'story.buy.error.generic': '購買失敗',
-    'story.buy.loginRequired': '登入購買',
     'story.buy.redirecting': '重定向...',
     'story.price.free': '免費',
     'story.price.owned': '自有',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': '欲知詳情',
     'story.purchase.secureCheckout': '透過 Stripe 進行安全結帳',
     'story.purchase.loginToBuy': '登入購買',
+    'story.purchase.loginToBuyArcs': '登入以購買個別劇情',
+    'story.purchase.pricingUnavailable': '目前尚未提供定價資訊。',
+    'story.buy.error.timeout': '請求超時。請再試一次。',
     'story.chapter.freePreviewEnds': '免費預覽到此為止'
 };
