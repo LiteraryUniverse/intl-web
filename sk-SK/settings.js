@@ -71,7 +71,6 @@ export default {
     'settings.country.select': 'Vyberte vašu krajinu',
     'settings.emailSubscriptions.newsletterTech': 'Príležitostný newsletter od našich vývojárov',
     'settings.emailSubscriptions.newsletterFeatures': 'Informácie o nových funkciách',
-    'settings.emailNotifications.title': 'Oznámenia',
     'settings.emailNotifications.pm': 'Nové správy',
     'settings.emailNotifications.newChapters': 'Nové kapitoly z príbehov, ktoré sledujete',
     'settings.emailNotifications.newStories': 'Nové príbehy vo vesmíroch alebo od autorov, ktorých sledujete',
