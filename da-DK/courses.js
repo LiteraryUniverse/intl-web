@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'Du er inviteret til at deltage i {count, plural, one {kursus} other {kurser}}.',
   'courses.invites.noInvites': 'Du har ikke nogen kursusinvitationer i øjeblikket.',
   'courses.invites.invitedBy': 'Inviteret af: ',
-  'courses.invites.accept': 'Accepter',
-  'courses.invites.reject': 'Afvis',
   'course.join.heading': 'Deltag i dette kursus',
   'course.oneTimePayment': 'Engangsbetaling for fuld adgang',
   'course.member': 'Du er indskrevet',
