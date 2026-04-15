@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Sie haben {readPercent, number, ::percent} der Geschichte gelesen.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Bitte Suchbegriffe eingeben oder Filter anwenden',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Gekaufte Geschichten'
 };
