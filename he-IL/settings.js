@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'בחר את המדינה שלך',
     'settings.emailSubscriptions.newsletterTech': 'רשימת תפוצה מתוך המפתחים שלנו',
     'settings.emailSubscriptions.newsletterFeatures': 'מידע על תכונות חדשות',
-    'settings.emailNotifications.title': 'התראות',
     'settings.emailNotifications.pm': 'הודעות חדשות',
     'settings.emailNotifications.newChapters': 'פרקים חדשים מסיפורים שאתה עוקב אחריהם',
     'settings.emailNotifications.newStories': 'סיפורים חדשים ביקומים או מאת סופרים שאתה עוקב אחריהם',
