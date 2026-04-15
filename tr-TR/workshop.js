@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB oluşturma başarısız oldu.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'EPUB oluşturmayı etkinleştirmek için önce bu yayı kaydedin.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Literary Universe lisanslı hikayeler için harici URL\'ler devre dışı bırakılmıştır. Bunun yerine dosyaları yükleyin, böylece şifrelenmiş depolamada kalırlar.',
     'workshop.story.alternateFormats.fullStory.title': 'Tam hikaye dosyası',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Devam eden erişim',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Şu anda mevcut olan tüm bölümler',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Hikayenizin başından itibaren kaç bölümün herkesin okuması için ücretsiz olduğunu belirleyin. Bu, okuyucuları çekmeye yardımcı olur.',
     'workshop.monetization.fullStoryPricing': 'Tam hikaye fiyatlandırması',
     'workshop.monetization.lowPriceFee': 'Düşük fiyatlı sabit ücret aktif.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Henüz tanımlanmış bir hikaye akışı yok. Yukarıdaki hikaye arkları bölümüne arklar ekleyin.',
     'workshop.monetization.noCurrencies': 'Bu baskı için fiyat belirlemek üzere para birimleri ekleyin.',
     'workshop.monetization.originalEdition': 'Orijinal',
     'workshop.monetization.payoutSplits': 'Ödeme bölünmeleri',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Önerilen gelir payı (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Bu sizin payınızdan alınacaktır. Davetlinin kabul etmeden önce Stripe ödeme kurulumunu tamamlaması gerekir.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Hikaye yayları',
+    'workshop.monetization.arcManagementHelp': 'Bölüm aralıklarını belirleyerek hikayenizin yaylarını tanımlayın. Her bir bölüm ayrı ayrı satılabilir.',
+    'workshop.monetization.saveArcs': 'Yayları kaydet',
+    'workshop.monetization.arcsSaved': 'Ark yapısı kaydedildi.',
+    'workshop.monetization.lowPriceWarning': 'Bu fiyatta minimum sabit ücret geçerlidir. Ödemeniz standart {platformCut, number}% bölüşümünden daha düşük olacaktır. En iyi içerik oluşturucu ödemesi için {thresholdPrice} veya üzerinde fiyatlandırmayı düşünün.',
+    'workshop.monetization.recommendedPrice': 'Hikaye uzunluğuna göre tavsiye edilen fiyat ({wordCount, number} {countLabel}): {price}.'
 };
