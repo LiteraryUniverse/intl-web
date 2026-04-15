@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Завантаження... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Для цієї історії завантажено файл попереднього перегляду для видавництва.',
     'workshop.story.publisherPreview.replace': 'Замінити файл',
-    'workshop.story.publisherPreview.remove': 'Видалити',
     // Story monetization
     'workshop.monetization.addCurrency': 'Додайте ще одну підтримувану валюту',
     'workshop.monetization.arcDescription': 'Опис дуги (відображається в касі Stripe)',
