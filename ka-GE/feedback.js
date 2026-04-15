@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'ახალი ფუნქციის შემოთავაზება',
     'feedback.lang.nosupport': 'თქვენი მიმდინარე ენა არ არის მხარდაჭერილი უკუკავშირისთვის, გთხოვთ, დაწეროთ ინგლისურად. გმადლობთ!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'კომენტარი',
     'feedback.comment.desc': 'გაგვიგზავნეთ თქვენი უკუკავშირი',
     'feedback.comment.legend': 'თქვენი უკუკავშირი - შეგვატყობინეთ ყველაფერი',
     'feedback.comment.success': 'გმადლობთ უკუკავშირისთვის!',
@@ -55,7 +54,6 @@ export default {
     story {ისტორია}
     other {ისტორია}
   } არის დაფიქსირებული?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'კურსები',
     'feedback.help.videoTutorials': 'Video tutorials',
