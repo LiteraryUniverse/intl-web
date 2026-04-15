@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'ავტორები',
     'universe.authors.desc': 'შემქმნელები და მონაწილეები {universe}',
     'universe.contributors': 'მონაწილეები',
-    'universe.translators': 'თარგმნელები',
     'universe.authors.notice': 'ყოველი ამონაწერი შიგან შეიძლება მნიშვნელოვნიანი პიროვნება ჰორისარის შესასწავლად. დეტალური ინფორმაციისათვის, იხილეთ ამონაწერის დეტალები.',
     'universe.createdBy': `{gender, select,
     male {შექმნა}
