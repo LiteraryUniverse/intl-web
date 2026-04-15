@@ -84,10 +84,8 @@ export default {
     'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review',
     // Story purchase
     'story.buy.button': '{price} 。',
-    'story.buy.confirm': '{price}を購入しようとしています。お支払いを完了するためにStripeにリダイレクトされます。続行しますか？',
     'story.buy.currency': '購入通貨',
     'story.buy.error.generic': '購入失敗',
-    'story.buy.loginRequired': 'ログインして購入する',
     'story.buy.redirecting': 'リダイレクト...',
     'story.price.free': '無料',
     'story.price.owned': '所有',
@@ -107,5 +105,8 @@ export default {
     'story.purchase.forFullStory': '全文はこちら',
     'story.purchase.secureCheckout': 'Stripeによる安全なチェックアウト',
     'story.purchase.loginToBuy': 'ログインして購入する',
+    'story.purchase.loginToBuyArcs': 'ログインして各ストーリー・アークを購入する',
+    'story.purchase.pricingUnavailable': '価格については現在未定。',
+    'story.buy.error.timeout': 'リクエストがタイムアウトしました。もう一度お試しください。',
     'story.chapter.freePreviewEnds': '無料試写会はここまで'
 };
