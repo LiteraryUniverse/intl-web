@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Teastaíonn an ceannachán don chaibidil seo.',
     'reader.purchaseGate.description': 'Chun leanúint ort ag léamh {storyTitle}{authorName, select, undefined {} other { le {authorName}}}, ní mór duit é a cheannach.',
-    'reader.purchaseGate.buyFullStory': 'Ceannaigh an scéal iomlán',
     'reader.purchaseGate.buyArc': 'Nó ceannaigh an arc seo',
-    'reader.purchaseGate.buying': 'Athsheoladh chuig an scoir...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} caibidil} other {{count} caibidlí}} san áireamh',
-    'reader.purchaseGate.loginRequired': 'Logáil isteach, le do thoil, chun an scéal seo a cheannach.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} caibidil} other {{count} caibidlí}} san áireamh'
 };
