@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Saya memahami persyaratan dan dampak hukum dari CC0 pada pekerjaan saya',
     'licenses.learnMore': 'Pelajari Lebih Lanjut',
     'licenses.legalText': 'Teks Hukum',
-    'licenses.chooser.back': 'Kembali',
     'licenses.chooser.select': 'Pilih Lisensi Ini',
     'licenses.commercial.title': 'Informasi Lisensi Komersial',
     'licenses.commercial.exclusive': 'Dengan lisensi eksklusif ini, Literary Universe akan mengambil biaya 10% dari penghasilan Anda. Ini berarti Anda akan menerima 90% dari pendapatan yang dihasilkan dari karya Anda di platform kami.',
