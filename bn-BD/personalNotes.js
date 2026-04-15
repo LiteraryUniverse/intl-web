@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'অধ্যায় {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} ব্যক্তিগত নোট',
   'personalNotes.searchResults': 'অনুসন্ধান ফলাফল',
-  'personalNotes.type.story': 'গল্প',
-  'personalNotes.type.universe': 'ইউনিভার্স',
-  'personalNotes.type.chapter': 'অধ্যায়',
   'personalNotes.type.encEntry': 'বিশ্বকোষ এন্ট্রি',
   'personalNotes.type.revTextBlock': 'সংশোধন পাঠ ব্লক',
-  'personalNotes.chapter': 'অধ্যায়',
   'personalNotes.recentSearches': 'সাম্প্রতিক অনুসন্ধানগুলি:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'
