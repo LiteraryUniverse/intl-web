@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Fejezet {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} személyes jegyzet',
   'personalNotes.searchResults': 'Keresési találatok',
-  'personalNotes.type.story': 'Történet',
-  'personalNotes.type.universe': 'Univerzum',
-  'personalNotes.type.chapter': 'Fejezet',
   'personalNotes.type.encEntry': 'Enciklopédia bejegyzés',
   'personalNotes.type.revTextBlock': 'Módosítási szöveg blokk',
-  'personalNotes.chapter': 'Fejezet',
   'personalNotes.recentSearches': 'Legutóbbi keresések:',
   'personalNotes.myNotes': 'Személyes jegyzeteim',
   'personalNotes.hasNotes': 'Személyes megjegyzésekkel rendelkezik'
