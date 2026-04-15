@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Legen Sie fest, wie viele Kapitel vom Anfang Ihrer Geschichte an für jedermann frei zugänglich sind. Das hilft, Leser anzuziehen.',
     'workshop.monetization.fullStoryPricing': 'Vollständige Geschichte Preise',
     'workshop.monetization.lowPriceFee': 'Preisgünstige Pauschalgebühr aktiv.',
-    'workshop.monetization.noArcs': 'Noch keine Handlungsbögen definiert. Fügen Sie zuerst Bögen in Ihren Story-Einstellungen hinzu.',
+    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
     'workshop.monetization.noCurrencies': 'Fügen Sie Währungen hinzu, um Preise für diese Ausgabe festzulegen.',
     'workshop.monetization.originalEdition': 'Original',
     'workshop.monetization.payoutSplits': 'Auszahlungssplits',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Diese Geschichte ist kostenpflichtig. Eingeladene müssen die Auszahlung über Stripe einrichten, bevor sie akzeptieren können. Sie können unten eine Umsatzbeteiligung vorschlagen - sie wird von Ihrem Anteil abgezogen.',
     'workshop.collaborators.proposedSplit': 'Vorgeschlagene Umsatzbeteiligung (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Dieser Betrag wird von Ihrem Anteil abgezogen. Der Eingeladene muss die Stripe-Auszahlung einrichten, bevor er akzeptieren kann.'
+    'workshop.collaborators.splitFromOwnerShare': 'Dieser Betrag wird von Ihrem Anteil abgezogen. Der Eingeladene muss die Stripe-Auszahlung einrichten, bevor er akzeptieren kann.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Story arcs',
+    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
+    'workshop.monetization.saveArcs': 'Save arcs',
+    'workshop.monetization.arcsSaved': 'Arc structure saved.',
+    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
