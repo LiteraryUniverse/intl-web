@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Ümbersuunamine...',
     'story.price.free': 'Tasuta',
     'story.price.owned': 'Omanikud',
-    'story.price.paid': 'Tasuline'
+    'story.price.paid': 'Tasuline',
+    'story.purchase.fullStory': 'Osta kogu lugu',
+    'story.purchase.byArc': 'või osta kaarega',
+    'story.purchase.includes': 'Sisaldab kõiki peatükke {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Esimene peatükk on tasuta eelvaates} other {Esimene {count} peatükkide eelvaates}}',
+    'story.purchase.arcIncludes': 'Peatükid {from}-{to}',
+    'story.purchase.savings': 'Salvesta {amount}',
+    'story.purchase.allArcsCost': 'Kõik kaared eraldi: {price}',
+    'story.purchase.owned': 'See lugu kuulub sulle',
+    'story.purchase.arcOwned': 'Omanikud',
+    'story.purchase.complete': 'Ostmine lõpetatud! Teil on nüüd täielik juurdepääs sellele loole.',
+    'story.purchase.header': 'Võta see lugu',
+    'story.purchase.header.locked': 'Premium lugu',
+    'story.purchase.forFullStory': 'kogu lugu',
+    'story.purchase.secureCheckout': 'Turvaline kassasüsteem Stripe\'i kaudu',
+    'story.purchase.loginToBuy': 'Ostmiseks logi sisse',
+    'story.chapter.freePreviewEnds': 'Tasuta eelvaade lõpeb siin'
 };
