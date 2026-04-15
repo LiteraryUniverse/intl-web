@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Válassz országot',
     'settings.emailSubscriptions.newsletterTech': 'Időszakos hírlevél a fejlesztőinktől',
     'settings.emailSubscriptions.newsletterFeatures': 'Információ az új funkciókról',
-    'settings.emailNotifications.title': 'Értesítések',
     'settings.emailNotifications.pm': 'Új üzenetek',
     'settings.emailNotifications.newChapters': 'Új fejezetek az Ön által követett történetekből',
     'settings.emailNotifications.newStories': 'Új történetek az univerzumokban vagy az általad követett szerzőktől',
