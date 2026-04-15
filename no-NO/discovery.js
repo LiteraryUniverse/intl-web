@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'En del av et univers',
     'discover.search.rating': 'Aldersvurdering',
     'discover.search.license': 'Opphavsrettlisens',
-    'discover.search.language': 'Språk',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Ingen universer samsvarer med parameterne dine}
         one {1 univers funnet}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
