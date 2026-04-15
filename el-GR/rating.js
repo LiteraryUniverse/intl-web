@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Αξιολόγηση',
     'rating.explained': 'Ηλικιακή διαβάθμιση και περιορισμός.',
-    'rating.all': 'Όλα',
     'rating.desc.all': 'Προσβάσιμο σε όλες τις ηλικίες και ομάδες.',
     'rating.teens': 'Έφηβοι',
     'rating.desc.teens': 'Κατάλληλο για κοινό ηλικίας 12 έως 18 ετών.',
