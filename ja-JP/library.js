@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': '物語の {readPercent, number, ::percent} を読みました。',
     'library.search.prompt': 'ライブラリを検索して内容を検索',
     'library.search.noFilters': '検索条件を入力するか、フィルタを適用してください',
-    'library.yourLibrary': 'ライブラリ',
     'library.search': 'ライブラリを検索',
     'library.ownedStories': '購入したストーリー'
 };
