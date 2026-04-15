@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Partie d\'un univers',
     'discover.search.rating': 'Classement par âge',
     'discover.search.license': 'Licence de droit d\'auteur',
-    'discover.search.language': 'Langue',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Aucun univers ne correspond à vos paramètres}
         one {1 univers trouvé}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Cette histoire n\'est fournie qu\'à titre d\'aperçu de l\'œuvre.',
     'discovery.includesAds': 'Inclut les annonces',
     // AI content related strings
-    'discovery.ai.content': 'Contenu généré par l\'IA',
     'discovery.ai.universes': 'Univers générés par l\'IA',
     'discovery.ai.stories': 'Histoires générées par l\'IA',
     'discovery.ai.noContent': 'Aucun contenu généré par l\'IA n\'est encore disponible.',
