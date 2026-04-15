@@ -299,6 +299,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generované na {generatedAt, date, medium} na {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'Generovanie EPUB zlyhalo.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Tento oblúk najprv uložte, aby ste umožnili generovanie EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Externé adresy URL sú pre príbehy s licenciou Literary Universe zakázané. Namiesto toho nahrávajte súbory, aby zostali na šifrovanom úložisku.',
     'workshop.story.alternateFormats.fullStory.title': 'Celý súbor príbehu',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Priebežný prístup',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Všetky aktuálne dostupné kapitoly',
@@ -588,7 +589,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Nastavte, koľko kapitol od začiatku príbehu si môže ktokoľvek prečítať. Pomôže to prilákať čitateľov.',
     'workshop.monetization.fullStoryPricing': 'Celý príbeh',
     'workshop.monetization.lowPriceFee': 'Nízke paušálne poplatky aktívne.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Zatiaľ nie sú definované žiadne dejové oblúky. Oblúky pridajte do vyššie uvedenej časti príbehových oblúkov.',
     'workshop.monetization.noCurrencies': 'Pridanie mien na nastavenie cien pre túto edíciu.',
     'workshop.monetization.originalEdition': 'Originál',
     'workshop.monetization.payoutSplits': 'Rozdelenie výplaty',
@@ -631,10 +632,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Navrhovaný podiel na príjmoch (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Táto suma sa odpočíta z vášho podielu. Pred prijatím musí pozvaný dokončiť nastavenie výplaty cez Stripe.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Príbehové oblúky',
+    'workshop.monetization.arcManagementHelp': 'Definujte oblúky svojho príbehu stanovením rozsahu kapitol. Každý oblúk sa môže predávať samostatne.',
+    'workshop.monetization.saveArcs': 'Uloženie oblúkov',
+    'workshop.monetization.arcsSaved': 'Uložená štruktúra oblúka.',
+    'workshop.monetization.lowPriceWarning': 'Pri tejto cene sa uplatňuje minimálny paušálny poplatok. Vaša výplata bude nižšia ako štandardné rozdelenie {platformCut, number}%. Zvážte cenu na {thresholdPrice} alebo vyššiu pre najlepšiu výplatu tvorcom.',
+    'workshop.monetization.recommendedPrice': 'Odporúčaná cena podľa dĺžky príbehu ({wordCount, number} {countLabel}): {price}.'
 };
