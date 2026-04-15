@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Autorid',
     'universe.authors.desc': '{universe}loojad ja kaasautorid',
     'universe.contributors': 'Kaasautorid',
-    'universe.translators': 'Tõlkijad',
     'universe.authors.notice': 'Iga lugu võib sisaldada täiendavat personali, kes selle kallal tööd teinud. Üksikasjade kohta vaadake loo üksikasju.',
     'universe.createdBy': `{gender, select,
     male {Autor}
