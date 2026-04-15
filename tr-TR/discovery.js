@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Ortalama değerlendirme {avgRating, number} from {reviewsNum, number} review',
     // Story purchase
     'story.buy.button': '{price} için satın alın',
-    'story.buy.confirm': 'Bunu {price}için satın almak üzeresiniz. Ödemeyi tamamlamak için Stripe\'a yönlendirileceksiniz. Devam edecek misiniz?',
     'story.buy.currency': 'Satın alma para birimi',
     'story.buy.error.generic': 'Satın alma başarısız oldu',
-    'story.buy.loginRequired': 'Satın almak için giriş yapın',
     'story.buy.redirecting': 'Yönlendiriliyor...',
     'story.price.free': 'Ücretsiz',
     'story.price.owned': 'Sahip olunan',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'hikayenin tamamı için',
     'story.purchase.secureCheckout': 'Stripe ile güvenli ödeme',
     'story.purchase.loginToBuy': 'Satın almak için giriş yapın',
+    'story.purchase.loginToBuyArcs': 'Bireysel hikaye serilerini satın almak için giriş yapın',
+    'story.purchase.pricingUnavailable': 'Fiyatlandırma bilgileri şu anda mevcut değildir.',
+    'story.buy.error.timeout': 'İstek zaman aşımına uğradı. Lütfen tekrar deneyin.',
     'story.chapter.freePreviewEnds': 'Ücretsiz ön izleme burada sona eriyor'
 };
