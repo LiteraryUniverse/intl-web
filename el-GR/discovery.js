@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Μέση βαθμολογία της {avgRating, number} από την {reviewsNum, number} κριτική',
     // Story purchase
     'story.buy.button': 'Αγοράστε για {price}',
-    'story.buy.confirm': 'Πρόκειται να το αγοράσετε αυτό για το {price}. Θα μεταφερθείτε στο Stripe για να ολοκληρώσετε την πληρωμή. Συνεχίστε;',
     'story.buy.currency': 'Νόμισμα αγοράς',
     'story.buy.error.generic': 'Η αγορά απέτυχε',
-    'story.buy.loginRequired': 'Συνδεθείτε για να αγοράσετε',
     'story.buy.redirecting': 'Αναπροσανατολισμός...',
     'story.price.free': 'Δωρεάν',
     'story.price.owned': 'Ιδιοκτησία',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'για το πλήρες ρεπορτάζ',
     'story.purchase.secureCheckout': 'Ασφαλές checkout μέσω Stripe',
     'story.purchase.loginToBuy': 'Συνδεθείτε για να αγοράσετε',
+    'story.purchase.loginToBuyArcs': 'Συνδεθείτε για να αγοράσετε μεμονωμένα ιστορικά τόξα',
+    'story.purchase.pricingUnavailable': 'Προς το παρόν δεν υπάρχουν πληροφορίες σχετικά με την τιμολόγηση.',
+    'story.buy.error.timeout': 'Η αίτηση έληξε με χρονική καθυστέρηση. Προσπαθήστε ξανά.',
     'story.chapter.freePreviewEnds': 'Η δωρεάν προεπισκόπηση τελειώνει εδώ'
 };
