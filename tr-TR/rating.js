@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Derecelendirme',
     'rating.explained': 'Yaş derecelendirmesi ve kısıtlama.',
-    'rating.all': 'Tümü',
     'rating.desc.all': 'Tüm yaş ve gruplara uygun.',
     'rating.teens': 'Gençler',
     'rating.desc.teens': '12 ila 18 yaş arası bir izleyici kitlesi için uygun.',
