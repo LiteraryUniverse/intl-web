@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Bahagi ng isang palapagang mundo',
     'discover.search.rating': 'Batayang edad',
     'discover.search.license': 'Lisensya sa karapatan',
-    'discover.search.language': 'Wika',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Walang mga palapagang mundo na tugma sa iyong mga parameter}
         one {Nakita ang 1 palapagang mundo}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
