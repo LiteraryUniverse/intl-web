@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': '{avgRating, number} ਦੀ ਔਸਤ ਰੇਟਿੰਗ {reviewsNum, number} ਦੀ ਸਮੀਖਿਆ ਤੋਂ',
     // Story purchase
     'story.buy.button': 'ਲਈ ਖਰੀਦੋ {price}',
-    'story.buy.confirm': 'ਤੁਸੀਂ ਇਹ {price}ਲਈ ਖਰੀਦਣ ਜਾ ਰਹੇ ਹੋ। ਭੁਗਤਾਨ ਪੂਰਾ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ Stripe \'ਤੇ ਰੀਡਾਇਰੈਕਟ ਕੀਤਾ ਜਾਵੇਗਾ। ਜਾਰੀ ਰੱਖੋ?',
     'story.buy.currency': 'ਖਰੀਦ ਮੁਦਰਾ',
     'story.buy.error.generic': 'ਖਰੀਦਦਾਰੀ ਅਸਫਲ ਹੋ ਗਈ',
-    'story.buy.loginRequired': 'ਖਰੀਦਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ',
     'story.buy.redirecting': 'ਮੁੜ-ਨਿਰਦੇਸ਼ਿਤ ਕਰ ਰਿਹਾ ਹੈ...',
     'story.price.free': 'ਮੁਫ਼ਤ',
     'story.price.owned': 'ਮਾਲਕੀ',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'ਪੂਰੀ ਕਹਾਣੀ ਲਈ',
     'story.purchase.secureCheckout': 'ਸਟ੍ਰਾਈਪ ਰਾਹੀਂ ਸੁਰੱਖਿਅਤ ਚੈੱਕਆਊਟ',
     'story.purchase.loginToBuy': 'ਖਰੀਦਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ',
+    'story.purchase.loginToBuyArcs': 'ਵੱਖ-ਵੱਖ ਕਹਾਣੀਆਂ ਖਰੀਦਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ',
+    'story.purchase.pricingUnavailable': 'ਕੀਮਤਾਂ ਦੀ ਜਾਣਕਾਰੀ ਇਸ ਸਮੇਂ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।',
+    'story.buy.error.timeout': 'ਬੇਨਤੀ ਦਾ ਸਮਾਂ ਖਤਮ ਹੋ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।',
     'story.chapter.freePreviewEnds': 'ਮੁਫ਼ਤ ਪ੍ਰੀਵਿਊ ਇੱਥੇ ਖਤਮ ਹੁੰਦੀ ਹੈ'
 };
