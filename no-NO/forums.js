@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Ingen har svart ennå. Vær den første!',
   'forums.noThreads': 'Ingenting å se her. Det er opp til deg å starte samtalen.',
   'forums.openingPost': 'Åpningsinnlegg',
-  'forums.post': 'Innlegg',
   'forums.post.new': 'Ny post',
   'forums.posting': 'Poster...',
   'forums.reply': 'Svar',
