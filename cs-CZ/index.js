@@ -36,6 +36,7 @@ import fanManager from "./fan_manager";
 import readingList from "./reading_list";
 import personalNotes from "./personalNotes";
 import courses from "./courses";
+import resume from './resume'
 
 export default {
   locales: ["cs", "cs-CZ"],
@@ -77,4 +78,5 @@ export default {
   ...readingList,
   ...personalNotes,
   ...courses,
+  ...resume,
 };

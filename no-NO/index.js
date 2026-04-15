@@ -36,6 +36,7 @@ import universe from './universe'
 import user from './user'
 import workshop from './workshop'
 import writer from './writer'
+import resume from './resume'
 
 export default {
   locales: ['no', 'no-NO'],
@@ -77,4 +78,5 @@ export default {
   ...readingList,
   ...personalNotes,
   ...courses,
+  ...resume,
 }
