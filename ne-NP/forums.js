@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'कोहीले अझै सम्बन्धित छैन। पहिलो हुनुहोस्!',
   'forums.noThreads': 'यहाँ केहि हेर्ने कुरा छैन। तपाईंले संवाद सुरु गर्न तपाईंलाइ मात्रै छ।',
   'forums.openingPost': 'उद्घाटन पोस्ट',
-  'forums.post': 'पोस्ट',
   'forums.post.new': 'नयाँ पोस्ट',
   'forums.posting': 'पोस्ट गर्दै...',
   'forums.reply': 'जवाफ दिनुहोस्',
