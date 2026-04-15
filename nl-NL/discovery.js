@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Gemiddelde beoordeling van {avgRating, number} van {reviewsNum, number} beoordeling',
     // Story purchase
     'story.buy.button': 'Kopen voor {price}',
-    'story.buy.confirm': 'U staat op het punt dit te kopen voor {price}. U wordt doorgestuurd naar Stripe om de betaling te voltooien. Doorgaan?',
     'story.buy.currency': 'Aankoopvaluta',
     'story.buy.error.generic': 'Aankoop mislukt',
-    'story.buy.loginRequired': 'Log in om te kopen',
     'story.buy.redirecting': 'Omleiden...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Eigendom',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'voor het volledige verhaal',
     'story.purchase.secureCheckout': 'Beveiligd afrekenen via Stripe',
     'story.purchase.loginToBuy': 'Log in om te kopen',
+    'story.purchase.loginToBuyArcs': 'Log in om afzonderlijke verhaalreeksen te kopen',
+    'story.purchase.pricingUnavailable': 'Prijsinformatie is momenteel niet beschikbaar.',
+    'story.buy.error.timeout': 'De aanvraag is verlopen. Probeer het opnieuw.',
     'story.chapter.freePreviewEnds': 'Gratis preview eindigt hier'
 };
