@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Bu bölüm satın alma gerektirir',
     'reader.purchaseGate.description': 'Okumaya devam etmek için {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, satın almanız gerekir.',
-    'reader.purchaseGate.buyFullStory': 'Hikayenin tamamını satın al',
     'reader.purchaseGate.buyArc': 'Ya da bu yayını al.',
-    'reader.purchaseGate.buying': 'Ödeme sayfasına yönlendiriliyor...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} bölüm} other {{count} bölümler}} dahil',
-    'reader.purchaseGate.loginRequired': 'Bu hikayeyi satın almak için lütfen giriş yapın.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} bölüm} other {{count} bölümler}} dahil'
 };
