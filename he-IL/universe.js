@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'מחברים',
     'universe.authors.desc': 'יצורים ותורמים ל- {universe}',
     'universe.contributors': 'תורמים',
-    'universe.translators': 'מתרגמים',
     'universe.authors.notice': 'על כל סיפור עשוי להיות בנאים נוספים שעבדו עליו. לפרטים נוספים ראה את פרטי הסיפור.',
     'universe.createdBy': `{gender, select,
     male {נוצר}
