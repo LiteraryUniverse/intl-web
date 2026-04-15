@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Osa universumist',
     'discover.search.rating': 'Vanuse hinnang',
     'discover.search.license': 'Autoriõiguse litsents',
-    'discover.search.language': 'Keel',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Ühtegi universumit ei vasta teie parameetritele}
         one {1 universum leitud}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'See lugu on esitatud ainult teose eelvaates.',
     'discovery.includesAds': 'Sisaldab reklaame',
     // AI content related strings
-    'discovery.ai.content': 'Tehisintellekti loodud sisu',
     'discovery.ai.universes': 'Tehisintellekti loodud universumid',
     'discovery.ai.stories': 'Tehisintellekti loodud lood',
     'discovery.ai.noContent': 'AI-genereeritud sisu ei ole veel saadaval.',
