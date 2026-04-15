@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Año',
   'resume.editor.awards.desc': 'Descripción',
   'resume.editor.awards.add': 'Añadir premio',
-  'resume.editor.awards.remove': 'Elimine',
   // Theme
   'resume.editor.theme.heading': 'Tema del currículum',
   'resume.editor.theme.description': 'Elija un tema visual para su página pública de currículum.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Crear enlace de acceso',
   'resume.access.createLink.comment': 'Comentario (opcional)',
   'resume.access.createLink.language': 'Página Idioma',
-  'resume.access.createLink.create': 'Cree',
   'resume.access.noLinks': 'Aún no se han creado enlaces de acceso. Cree un enlace para compartir su currículum.',
   'resume.access.copy': 'Copie',
   'resume.access.copied': '¡Copiado!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Creado {date}',
   'resume.access.viewVisits': 'Ver detalles de la visita',
   'resume.access.noVisits': 'Aún no se han registrado visitas.',
-  'resume.access.anonymousVisitor': 'Anónimo',
   'resume.access.onsite': 'En el sitio',
   'resume.access.visitNumber': '(visite #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
