@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Stabilisca quanti capitoli dall\'inizio della sua storia sono liberi di essere letti da chiunque. Questo aiuta ad attirare i lettori.',
     'workshop.monetization.fullStoryPricing': 'Prezzi completi',
     'workshop.monetization.lowPriceFee': 'Prezzo forfettario attivo a basso costo.',
-    'workshop.monetization.noArcs': 'Non sono ancora stati definiti degli archi narrativi. Aggiunga prima gli archi nelle impostazioni della sua storia.',
+    'workshop.monetization.noArcs': 'Non sono ancora stati definiti degli archi narrativi. Aggiunga gli archi nella sezione Archi narrativi qui sopra.',
     'workshop.monetization.noCurrencies': 'Aggiunga le valute per impostare i prezzi di questa edizione.',
     'workshop.monetization.originalEdition': 'Originale',
     'workshop.monetization.payoutSplits': 'Suddivisione dei pagamenti',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Questa storia è monetizzata. Gli invitati devono completare la configurazione del pagamento con Stripe prima di poter accettare. Può proporre una quota di guadagno qui sotto - sarà prelevata dalla sua quota.',
     'workshop.collaborators.proposedSplit': 'Quota di ricavi proposta (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Questo verrà prelevato dalla sua quota. L\'invitato deve completare l\'impostazione del pagamento con Stripe prima di poter accettare.'
+    'workshop.collaborators.splitFromOwnerShare': 'Questo verrà prelevato dalla sua quota. L\'invitato deve completare l\'impostazione del pagamento con Stripe prima di poter accettare.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Archi di storie',
+    'workshop.monetization.arcManagementHelp': 'Definisca gli archi della sua storia impostando gli intervalli dei capitoli. Ogni arco può essere venduto separatamente.',
+    'workshop.monetization.saveArcs': 'Salvare gli archi',
+    'workshop.monetization.arcsSaved': 'Struttura ad arco salvata.',
+    'workshop.monetization.lowPriceWarning': 'A questo prezzo, si applica la tariffa minima forfettaria. Il suo pagamento sarà inferiore alla suddivisione standard {platformCut, number}%. Prenda in considerazione un prezzo di {thresholdPrice} o superiore per ottenere il miglior payout del creatore.',
+    'workshop.monetization.recommendedPrice': 'Prezzo consigliato in base alla lunghezza della storia ({wordCount, number} {countLabel}): {price}.'
 };
