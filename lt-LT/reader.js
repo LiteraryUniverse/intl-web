@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Šiame skyriuje reikia įsigyti',
     'reader.purchaseGate.description': 'Norėdami toliau skaityti {storyTitle}{authorName, select, undefined {} other { iki {authorName}~}}, turite ją įsigyti.',
-    'reader.purchaseGate.buyFullStory': 'Pirkti visą istoriją',
     'reader.purchaseGate.buyArc': 'Arba nusipirkite šį lanką',
-    'reader.purchaseGate.buying': 'Peradresavimas į kasą...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} skyrius} other {{count} skyriai}} įtraukti',
-    'reader.purchaseGate.loginRequired': 'Norėdami įsigyti šią istoriją, prisijunkite.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} skyrius} other {{count} skyriai}} įtraukti'
 };
