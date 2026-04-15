@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'এই অধ্যায়টি ক্রয় করতে হবে।',
     'reader.purchaseGate.description': '{storyTitle}{authorName, select, undefined {} other { by {authorName}}}পড়া চালিয়ে যেতে, আপনাকে এটি কিনতে হবে।',
-    'reader.purchaseGate.buyFullStory': 'সম্পূর্ণ গল্প কিনুন',
     'reader.purchaseGate.buyArc': 'অথবা এই আর্কটি কিনুন',
-    'reader.purchaseGate.buying': 'চেকআউটে পুনঃনির্দেশ করা হচ্ছে...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} অধ্যায়} other {{count} অধ্যায়সমূহ}} অন্তর্ভুক্ত',
-    'reader.purchaseGate.loginRequired': 'এই গল্পটি কিনতে অনুগ্রহ করে লগ ইন করুন।'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} অধ্যায়} other {{count} অধ্যায়সমূহ}} অন্তর্ভুক্ত'
 };
