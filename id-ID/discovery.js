@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Peringkat rata-rata dari {avgRating, number} dari {reviewsNum, number} review',
     // Story purchase
     'story.buy.button': 'Beli untuk {price}',
-    'story.buy.confirm': 'Anda akan membeli ini untuk {price}. Anda akan diarahkan ke Stripe untuk menyelesaikan pembayaran. Lanjutkan?',
     'story.buy.currency': 'Mata uang pembelian',
     'story.buy.error.generic': 'Pembelian gagal',
-    'story.buy.loginRequired': 'Masuk untuk membeli',
     'story.buy.redirecting': 'Mengalihkan...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Dimiliki',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'untuk cerita lengkapnya',
     'story.purchase.secureCheckout': 'Pembayaran aman melalui Stripe',
     'story.purchase.loginToBuy': 'Masuk untuk membeli',
+    'story.purchase.loginToBuyArcs': 'Masuk untuk membeli arc cerita individual',
+    'story.purchase.pricingUnavailable': 'Informasi harga saat ini tidak tersedia.',
+    'story.buy.error.timeout': 'Permintaan telah habis masa berlakunya. Silakan coba lagi.',
     'story.chapter.freePreviewEnds': 'Pratinjau gratis berakhir di sini'
 };
