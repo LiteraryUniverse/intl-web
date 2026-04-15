@@ -94,10 +94,8 @@ export default {
     'discover.ratingExplained': 'Средняя оценка {avgRating, number} из {reviewsNum, number} обзора',
     // Story purchase
     'story.buy.button': 'Купить на {price}',
-    'story.buy.confirm': 'Вы собираетесь приобрести это для {price}. Вы будете перенаправлены на сайт Stripe для завершения платежа. Продолжить?',
     'story.buy.currency': 'Валюта покупки',
     'story.buy.error.generic': 'Покупка не удалась',
-    'story.buy.loginRequired': 'Войдите в систему, чтобы купить',
     'story.buy.redirecting': 'Перенаправление...',
     'story.price.free': 'Бесплатно',
     'story.price.owned': 'Собственный',
@@ -117,5 +115,8 @@ export default {
     'story.purchase.forFullStory': 'для полной версии',
     'story.purchase.secureCheckout': 'Безопасное оформление заказа через Stripe',
     'story.purchase.loginToBuy': 'Войдите в систему, чтобы купить',
+    'story.purchase.loginToBuyArcs': 'Войдите в систему, чтобы приобрести отдельные сюжетные линии',
+    'story.purchase.pricingUnavailable': 'Информация о ценах в настоящее время недоступна.',
+    'story.buy.error.timeout': 'Запрос был отложен. Пожалуйста, попробуйте еще раз.',
     'story.chapter.freePreviewEnds': 'Бесплатный предварительный просмотр заканчивается здесь'
 };
