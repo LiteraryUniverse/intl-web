@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Ibahagi sa...',
     'sharing.feedback': 'Mayroon bang ibang lugar na gusto mong ibahagi? Ipaalam mo sa amin!',
     'sharing.copy': 'Kopyahin',
-    'sharing.email': 'Email',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
