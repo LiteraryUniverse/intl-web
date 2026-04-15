@@ -36,7 +36,6 @@ export default {
     'story.universeRelation.universe': 'Súčasť vesmíru',
     'discover.search.rating': 'Vekové obmedzenie',
     'discover.search.license': 'Autorská licencia',
-    'discover.search.language': 'Jazyk',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Žiadne vesmíry nezodpovedajú vašim parametrom}
         one {Nájdený 1 vesmír}
@@ -73,7 +72,6 @@ export default {
     'discovery.isPreview.explained': 'Tento príbeh slúži len ako ukážka z diela.',
     'discovery.includesAds': 'Zahŕňa reklamy',
     // AI content related strings
-    'discovery.ai.content': 'Obsah generovaný umelou inteligenciou',
     'discovery.ai.universes': 'Vesmíry generované umelou inteligenciou',
     'discovery.ai.stories': 'Príbehy generované umelou inteligenciou',
     'discovery.ai.noContent': 'Zatiaľ nie je k dispozícii žiadny obsah vytvorený umelou inteligenciou.',
