@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': '邀請您參加 {count, plural, one {課程} other {課程}}。',
   'courses.invites.noInvites': '您目前沒有任何課程邀請。',
   'courses.invites.invitedBy': '受邀者： ',
-  'courses.invites.accept': '接受',
-  'courses.invites.reject': '拒絕',
   'course.join.heading': '加入此課程',
   'course.oneTimePayment': '一次性付款即可取得完整使用權',
   'course.member': '您已經註冊',
