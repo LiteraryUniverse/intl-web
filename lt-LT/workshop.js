@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Sukurta {generatedAt, date, medium} adresu {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB generavimas nepavyko.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Pirmiausia išsaugokite šį lanką, kad įjungtumėte EPUB generavimą.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Išoriniai URL adresai Literary Universe licencijuotoms istorijoms yra išjungti. Vietoj to įkelkite failus, kad jie liktų užšifruotoje saugykloje.',
     'workshop.story.alternateFormats.fullStory.title': 'Visas istorijos failas',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Nuolatinė prieiga',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Visi šiuo metu prieinami skyriai',
