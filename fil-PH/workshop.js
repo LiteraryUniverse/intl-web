@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Set how many chapters from the beginning of your story are free for anyone to read. This helps attract readers.',
     'workshop.monetization.fullStoryPricing': 'Full story pricing',
     'workshop.monetization.lowPriceFee': 'Low-price flat fee active.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in your story settings first.',
+    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
     'workshop.monetization.noCurrencies': 'Add currencies to set prices for this edition.',
     'workshop.monetization.originalEdition': 'Original',
     'workshop.monetization.payoutSplits': 'Payout splits',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'This story is monetized. Invitees must complete Stripe payout setup before they can accept. You can propose a revenue share below — it will be taken from your share.',
     'workshop.collaborators.proposedSplit': 'Proposed revenue share (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'This will be taken from your share. The invitee must complete Stripe payout setup before they can accept.'
+    'workshop.collaborators.splitFromOwnerShare': 'This will be taken from your share. The invitee must complete Stripe payout setup before they can accept.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Story arcs',
+    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
+    'workshop.monetization.saveArcs': 'Save arcs',
+    'workshop.monetization.arcsSaved': 'Arc structure saved.',
+    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
