@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Memuat naik... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Fail pratonton penerbit telah dimuat naik untuk cerita ini.',
     'workshop.story.publisherPreview.replace': 'Gantikan Fail',
-    'workshop.story.publisherPreview.remove': 'Buang',
     // Story monetization
     'workshop.monetization.addCurrency': 'Tambah satu mata wang disokong lagi',
     'workshop.monetization.arcDescription': 'Deskripsi ark (ditunjukkan semasa pembayaran Stripe)',
