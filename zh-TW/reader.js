@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': '本章需要購買',
     'reader.purchaseGate.description': '若要繼續閱讀 {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, 您需要購買。',
-    'reader.purchaseGate.buyFullStory': '購買完整故事',
     'reader.purchaseGate.buyArc': '或購買此電弧',
-    'reader.purchaseGate.buying': '重定向到結帳...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included',
-    'reader.purchaseGate.loginRequired': '請登入以購買本故事。'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included'
 };
