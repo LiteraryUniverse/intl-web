@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'דירוג',
     'rating.explained': 'דירוג גיל והגבלה.',
-    'rating.all': 'הכל',
     'rating.desc.all': 'נגיש לכל הגילאים והקבוצות.',
     'rating.teens': 'נוער',
     'rating.desc.teens': 'מתאים לקהל בין גילאי 12 ל-18.',
