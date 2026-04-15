@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Üleslaadimine... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Selle loo jaoks on üles laaditud kirjastaja eelvaatefail.',
     'workshop.story.publisherPreview.replace': 'Asendada faili',
-    'workshop.story.publisherPreview.remove': 'Eemaldage',
     // Story monetization
     'workshop.monetization.addCurrency': 'Lisage veel üks toetatud valuuta',
     'workshop.monetization.arcDescription': 'Kaare kirjeldus (näidatud Stripe kassas)',
