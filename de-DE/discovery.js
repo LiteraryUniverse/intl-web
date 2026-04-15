@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Umleitung...',
     'story.price.free': 'Kostenlos',
     'story.price.owned': 'Eigene',
-    'story.price.paid': 'Bezahlt'
+    'story.price.paid': 'Bezahlt',
+    'story.purchase.fullStory': 'Kaufen Sie die ganze Geschichte',
+    'story.purchase.byArc': 'oder per Bogen kaufen',
+    'story.purchase.includes': 'Enthält alle Kapitel von {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Das erste Kapitel ist kostenlos zur Vorschau} other {Die ersten {count} Kapitel sind kostenlos zur Vorschau}}',
+    'story.purchase.arcIncludes': 'Kapitel {from}-{to}',
+    'story.purchase.savings': 'Speichern Sie {amount}',
+    'story.purchase.allArcsCost': 'Alle Bögen separat: {price}',
+    'story.purchase.owned': 'Diese Geschichte gehört Ihnen',
+    'story.purchase.arcOwned': 'Eigene',
+    'story.purchase.complete': 'Kauf abgeschlossen! Sie haben jetzt vollen Zugriff auf diese Geschichte.',
+    'story.purchase.header': 'Holen Sie sich diese Geschichte',
+    'story.purchase.header.locked': 'Premium-Geschichte',
+    'story.purchase.forFullStory': 'für die ganze Geschichte',
+    'story.purchase.secureCheckout': 'Sicherer Checkout über Stripe',
+    'story.purchase.loginToBuy': 'Zum Kauf anmelden',
+    'story.chapter.freePreviewEnds': 'Kostenlose Vorschau endet hier'
 };
