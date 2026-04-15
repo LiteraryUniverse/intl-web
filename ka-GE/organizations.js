@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'დაპატიჟებული ელფოსტით',
     // Members table
     'org.members.joined': 'შემოერთდა',
-    'org.members.actions': 'მოქმედებები',
     'org.roles.super_admin': 'სუპერ ადმინი'
 };
