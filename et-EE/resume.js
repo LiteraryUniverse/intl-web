@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Aasta',
   'resume.editor.awards.desc': 'Kirjeldus',
   'resume.editor.awards.add': 'Lisa auhind',
-  'resume.editor.awards.remove': 'Eemaldage',
   // Theme
   'resume.editor.theme.heading': 'CV teema',
   'resume.editor.theme.description': 'Valige oma avaliku elulookirjelduse lehekülje jaoks visuaalne teema.',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'Juurdepääsulinkide loomine',
   'resume.access.createLink.comment': 'Kommentaar (vabatahtlik)',
   'resume.access.createLink.language': 'Lehekülg Keel',
-  'resume.access.createLink.create': 'Loo',
   'resume.access.noLinks': 'Juurdepääsulingid pole veel loodud. Looge link oma elulookirjelduse jagamiseks.',
   'resume.access.copy': 'Koopia',
   'resume.access.copied': 'Kopeeritud!',
@@ -108,7 +106,6 @@ export default {
   'resume.access.created': 'Loodud {date}',
   'resume.access.viewVisits': 'Vaata külastuse üksikasju',
   'resume.access.noVisits': 'Külastusi ei ole veel registreeritud.',
-  'resume.access.anonymousVisitor': 'Anonüümne',
   'resume.access.onsite': 'Kohapeal',
   'resume.access.visitNumber': '(külastage #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
