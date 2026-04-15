@@ -23,6 +23,7 @@ export default {
     'Your current language is not supported for feedback, please write in English. Thank you!',
   'feedback.new.thanks':
     'Thank you for the notice! We will look into it shortly.',
+  'feedback.comment.title': 'Comment',
   'feedback.comment.desc': 'Send us your feedback',
   'feedback.comment.legend': 'Your feedback - let us know about anything',
   'feedback.comment.success': 'Thank you for your feedback!',
@@ -63,6 +64,7 @@ export default {
     story {story}
     other {story}
   } is being infringed?`,
+  'feedback.help.overview': 'Overview',
   'feedback.help.articles': 'Articles',
   'feedback.help.courses': 'Courses',
   'feedback.help.videoTutorials': 'Video tutorials',
