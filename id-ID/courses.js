@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': 'Anda diundang untuk ikut serta dalam {count, plural, one {kursus} other {kursus}}.',
   'courses.invites.noInvites': 'Anda tidak memiliki undangan kursus saat ini.',
   'courses.invites.invitedBy': 'Diundang oleh: ',
-  'courses.invites.accept': 'Menerima',
-  'courses.invites.reject': 'Menolak',
   'course.join.heading': 'Bergabunglah dengan Kursus Ini',
   'course.oneTimePayment': 'Pembayaran satu kali untuk akses penuh',
   'course.member': 'Anda Terdaftar',
