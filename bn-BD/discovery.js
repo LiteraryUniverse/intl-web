@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'একটি বিশ্বের অংশ',
     'discover.search.rating': 'বয়স রেটিং',
     'discover.search.license': 'কপিরাইট লাইসেন্স',
-    'discover.search.language': 'ভাষা',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {আপনার পরিমাণগুলির সাথে কোনও বিশ্ব মেলে না}
         one {1 টি বিশ্ব পাওয়া গেছে}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
