@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': '重定向...',
     'story.price.free': '免費',
     'story.price.owned': '自有',
-    'story.price.paid': '已付'
+    'story.price.paid': '已付',
+    'story.purchase.fullStory': '購買完整故事',
+    'story.purchase.byArc': '或按弧線購買',
+    'story.purchase.includes': '包含所有 {chaptersCount} 章節',
+    'story.purchase.freePreview': '{count, plural, one {第一章免費預覽} other {第一 {count} 各章免費預覽}}',
+    'story.purchase.arcIncludes': '{from}-{to}',
+    'story.purchase.savings': '保存 {amount}',
+    'story.purchase.allArcsCost': '所有弧線分開： {price}',
+    'story.purchase.owned': '您擁有這個故事',
+    'story.purchase.arcOwned': '自有',
+    'story.purchase.complete': '購買完成！您現在可以完整存取這個故事。',
+    'story.purchase.header': '獲取此故事',
+    'story.purchase.header.locked': '高級故事',
+    'story.purchase.forFullStory': '欲知詳情',
+    'story.purchase.secureCheckout': '透過 Stripe 進行安全結帳',
+    'story.purchase.loginToBuy': '登入購買',
+    'story.chapter.freePreviewEnds': '免費預覽到此為止'
 };
