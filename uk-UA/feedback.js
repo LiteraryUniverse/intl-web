@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Запропонувати нову функцію',
     'feedback.lang.nosupport': 'Ваша поточна мова не підтримується для зворотного зв\'язку, будь ласка, пишіть англійською. Дякуємо!',
     'feedback.new.thanks': 'Дякуємо за повідомлення! Ми розглянемо його найближчим часом.',
-    'feedback.comment.title': 'Коментар',
     'feedback.comment.desc': 'Надішліть нам ваш відгук',
     'feedback.comment.legend': 'Ваш відгук - дайте нам знати про все',
     'feedback.comment.success': 'Дякуємо за ваш відгук!',
@@ -55,7 +54,6 @@ export default {
     story {історія}
     other {історія}
   } порушується?`,
-    'feedback.help.overview': 'Огляд',
     'feedback.help.articles': 'Статті',
     'feedback.help.courses': 'Курси',
     'feedback.help.videoTutorials': 'Відеоуроки',
