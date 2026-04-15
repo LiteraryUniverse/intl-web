@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'ยังไม่มีใครตอบ มาเป็นคนแรกเถอะ!',
   'forums.noThreads': 'ไม่มีอะไรให้ดูที่นี่ ขึ้นอยู่กับคุณในการเริ่มสนทนา',
   'forums.openingPost': 'โพสต์เปิด',
-  'forums.post': 'โพสต์',
   'forums.post.new': 'โพสต์ใหม่',
   'forums.posting': 'กำลังโพสต์...',
   'forums.reply': 'ตอบกลับ',
