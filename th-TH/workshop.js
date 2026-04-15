@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'สร้างขึ้นเมื่อ {generatedAt, date, medium} ที่ {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'การสร้างไฟล์ EPUB ล้มเหลว',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'บันทึกส่วนนี้ก่อนเพื่อเปิดใช้งานการสร้าง EPUB',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'URL ภายนอกถูกปิดใช้งานสำหรับเรื่องราวที่ได้รับอนุญาตจาก Literary Universe กรุณาอัปโหลดไฟล์แทนเพื่อให้ไฟล์ยังคงอยู่ในที่เก็บข้อมูลที่มีการเข้ารหัส',
     'workshop.story.alternateFormats.fullStory.title': 'ไฟล์เรื่องราวฉบับเต็ม',
     'workshop.story.alternateFormats.ongoingAccess.title': 'การเข้าถึงอย่างต่อเนื่อง',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'บทที่มีอยู่ในปัจจุบันทั้งหมด',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'ตั้งค่าจำนวนบทจากจุดเริ่มต้นของเรื่องราวของคุณที่เปิดให้ทุกคนอ่านได้ฟรี สิ่งนี้ช่วยดึงดูดผู้อ่าน',
     'workshop.monetization.fullStoryPricing': 'ราคาสำหรับเรื่องราวเต็ม',
     'workshop.monetization.lowPriceFee': 'กำลังดำเนินการค่าธรรมเนียมแบบเหมาจ่ายราคาต่ำ',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'ยังไม่มีโครงเรื่องที่กำหนดไว้ เพิ่มโครงเรื่องในส่วนโครงเรื่องด้านบน',
     'workshop.monetization.noCurrencies': 'เพิ่มสกุลเงินเพื่อกำหนดราคาสำหรับฉบับนี้',
     'workshop.monetization.originalEdition': 'ต้นฉบับ',
     'workshop.monetization.payoutSplits': 'การแบ่งจ่ายเงินรางวัล',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'ข้อเสนอการแบ่งรายได้ (%)',
     'workshop.collaborators.splitFromOwnerShare': 'นี่จะถูกหักจากส่วนแบ่งของคุณ ผู้รับเชิญต้องตั้งค่าการรับเงินผ่าน Stripe ให้เสร็จสมบูรณ์ก่อนจึงจะสามารถยอมรับได้',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'เส้นเรื่อง',
+    'workshop.monetization.arcManagementHelp': 'กำหนดช่วงของเรื่องราวของคุณโดยการกำหนดช่วงบท แต่ละช่วงสามารถขายแยกกันได้',
+    'workshop.monetization.saveArcs': 'บันทึกอาร์ค',
+    'workshop.monetization.arcsSaved': 'โครงสร้างอาร์คบันทึกแล้ว',
+    'workshop.monetization.lowPriceWarning': 'ในราคาปัจจุบัน จะมีการใช้ขั้นต่ำแบบอัตราคงที่ การจ่ายเงินของคุณจะต่ำกว่าการแบ่งตามมาตรฐาน {platformCut, number}% โปรดพิจารณาตั้งราคาที่ {thresholdPrice} หรือสูงกว่าเพื่อรับการจ่ายเงินสูงสุดสำหรับผู้สร้างเนื้อหา',
+    'workshop.monetization.recommendedPrice': 'ราคาที่แนะนำตามความยาวของเรื่อง ({wordCount, number} {countLabel}): {price}.'
 };
