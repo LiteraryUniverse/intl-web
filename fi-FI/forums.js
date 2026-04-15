@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Kukaan ei ole vielä vastannut. Ole ensimmäinen!',
   'forums.noThreads': 'Ei mitään nähtävää täällä. On sinusta kiinni aloittaa keskustelu.',
   'forums.openingPost': 'Aloitusviesti',
-  'forums.post': 'Lähetä',
   'forums.post.new': 'Uusi virka',
   'forums.posting': 'Lähetetään...',
   'forums.reply': 'Vastaa',
