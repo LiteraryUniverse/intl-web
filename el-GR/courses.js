@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'Καλείστε να λάβετε μέρος στα {count, plural, one {μαθήματα} other {μαθήματα}}.',
   'courses.invites.noInvites': 'Δεν έχετε προσκλήσεις για μαθήματα αυτή τη στιγμή.',
   'courses.invites.invitedBy': 'Προσκεκλημένος από: ',
-  'courses.invites.accept': 'Αποδοχή',
-  'courses.invites.reject': 'Απόρριψη',
   'course.join.heading': 'Εγγραφείτε σε αυτό το μάθημα',
   'course.oneTimePayment': 'Εφάπαξ πληρωμή για πλήρη πρόσβαση',
   'course.member': 'Είστε εγγεγραμμένος',
