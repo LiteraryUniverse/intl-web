@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'புதிய அம்சத்தை பரிந்துரைக்கவும்',
     'feedback.lang.nosupport': 'உங்கள் தற்போதைய மொழி பின்னர் பின்னர் உதவிக்கு ஆதரவாகவில்லை, தயவுகூர்ந்து ஆங்கிலத்தில் எழுதுங்கள். நன்றி!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'கருத்து',
     'feedback.comment.desc': 'உங்கள் அறிவிப்பை எங்களுக்கு அனுப்புங்கள்',
     'feedback.comment.legend': 'உங்கள் அறிவிப்பு - எந்த பொருளையும் எங்களுக்கு தெரிவிக்கவும்',
     'feedback.comment.success': 'உங்கள் அறிவிப்புக்கு நன்றி!',
@@ -55,7 +54,6 @@ export default {
     story {கதை}
     other {கதை}
   } மீட்டப்படுகிறது?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'பாடநெறிகள்',
     'feedback.help.videoTutorials': 'Video tutorials',
