@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Ορίστε πόσα κεφάλαια από την αρχή της ιστορίας σας είναι ελεύθερα για να τα διαβάσει ο καθένας. Αυτό βοηθά στην προσέλκυση αναγνωστών.',
     'workshop.monetization.fullStoryPricing': 'Πλήρης ιστορία τιμολόγηση',
     'workshop.monetization.lowPriceFee': 'Ενεργό κατ\' αποκοπήν χρέωση σε χαμηλή τιμή.',
-    'workshop.monetization.noArcs': 'Δεν έχουν καθοριστεί ακόμα ιστορικά τόξα. Προσθέστε πρώτα τα τόξα στις ρυθμίσεις της ιστορίας σας.',
+    'workshop.monetization.noArcs': 'Δεν έχουν καθοριστεί ακόμα ιστορικά τόξα. Προσθέστε τόξα στην ενότητα των τόξων ιστορίας παραπάνω.',
     'workshop.monetization.noCurrencies': 'Προσθέστε νομίσματα για να ορίσετε τιμές για αυτή την έκδοση.',
     'workshop.monetization.originalEdition': 'Αρχικό',
     'workshop.monetization.payoutSplits': 'Διαχωρισμός πληρωμών',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Αυτή η ιστορία είναι νομισματοποιημένη. Οι προσκεκλημένοι πρέπει να ολοκληρώσουν τη ρύθμιση πληρωμών Stripe πριν μπορέσουν να αποδεχτούν. Μπορείτε να προτείνετε ένα μερίδιο εσόδων παρακάτω - θα ληφθεί από το μερίδιό σας.',
     'workshop.collaborators.proposedSplit': 'Προτεινόμενο μερίδιο εσόδων (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Αυτό θα αφαιρεθεί από το μερίδιό σας. Ο προσκεκλημένος πρέπει να ολοκληρώσει τη ρύθμιση πληρωμών Stripe πριν μπορέσει να αποδεχτεί.'
+    'workshop.collaborators.splitFromOwnerShare': 'Αυτό θα αφαιρεθεί από το μερίδιό σας. Ο προσκεκλημένος πρέπει να ολοκληρώσει τη ρύθμιση πληρωμών Stripe πριν μπορέσει να αποδεχτεί.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Ιστορικά τόξα',
+    'workshop.monetization.arcManagementHelp': 'Καθορίστε τα τόξα της ιστορίας σας ορίζοντας τα εύρη των κεφαλαίων. Κάθε τόξο μπορεί να πωλείται ξεχωριστά.',
+    'workshop.monetization.saveArcs': 'Αποθήκευση τόξων',
+    'workshop.monetization.arcsSaved': 'Δομή τόξου αποθηκευμένη.',
+    'workshop.monetization.lowPriceWarning': 'Σε αυτή την τιμή, ισχύει το ελάχιστο ποσό της κατ\' αποκοπήν αμοιβής. Η πληρωμή σας θα είναι χαμηλότερη από την τυπική κατανομή {platformCut, number}%. Εξετάστε την τιμολόγηση σε {thresholdPrice} ή υψηλότερη τιμή για την καλύτερη πληρωμή δημιουργού.',
+    'workshop.monetization.recommendedPrice': 'Συνιστώμενη τιμή ανάλογα με τη διάρκεια της ιστορίας ({wordCount, number} {countLabel}): {price}.'
 };
