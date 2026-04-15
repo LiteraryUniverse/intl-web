@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'הגדר כמה פרקים מתחילת הסיפור שלך יהיו זמינים לקריאה חינם לכל אחד. זה עוזר למשוך קוראים.',
     'workshop.monetization.fullStoryPricing': 'תמחור הסיפור המלא',
     'workshop.monetization.lowPriceFee': 'תעריף קבוע מוזל בתוקף.',
-    'workshop.monetization.noArcs': 'עדיין לא הוגדרו קווי עלילה. הוסף קווי עלילה תחילה בהגדרות הסיפור שלך.',
+    'workshop.monetization.noArcs': 'עדיין לא הוגדרו קווי עלילה. הוסף קווי עלילה בסעיף "קווי עלילה" שלמעלה.',
     'workshop.monetization.noCurrencies': 'הוסף מטבעות כדי לקבוע מחירים למהדורה זו.',
     'workshop.monetization.originalEdition': 'המקורי',
     'workshop.monetization.payoutSplits': 'חלוקת התשלומים',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'סיפור זה מביא רווחים. המוזמנים חייבים להשלים את הגדרת התשלומים ב-Stripe לפני שיוכלו לקבל את ההצעה. תוכל להציע חלוקת רווחים להלן — הסכום ינוכה מהחלק שלך.',
     'workshop.collaborators.proposedSplit': 'חלוקת הרווחים המוצעת (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'סכום זה ינוכה מהחלק שלך. על המוזמן להשלים את הגדרת התשלום ב-Stripe לפני שיוכל לאשר את ההזמנה.'
+    'workshop.collaborators.splitFromOwnerShare': 'סכום זה ינוכה מהחלק שלך. על המוזמן להשלים את הגדרת התשלום ב-Stripe לפני שיוכל לאשר את ההזמנה.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'קשתות עלילתיות',
+    'workshop.monetization.arcManagementHelp': 'הגדירו את קווי העלילה של הסיפור שלכם על ידי קביעת טווחי פרקים. כל קו עלילה ניתן למכירה בנפרד.',
+    'workshop.monetization.saveArcs': 'שמור קשתות',
+    'workshop.monetization.arcsSaved': 'מבנה הקשת נשמר.',
+    'workshop.monetization.lowPriceWarning': 'במחיר זה, חל המינימום של התעריף הקבוע. התשלום שתקבל יהיה נמוך יותר מחלוקת הרווחים הסטנדרטית של {platformCut, number}%. שקול לקבוע מחיר של {thresholdPrice} ומעלה כדי להבטיח את התשלום הטוב ביותר ליוצר.',
+    'workshop.monetization.recommendedPrice': 'מחיר מומלץ בהתבסס על אורך הסיפור ({wordCount, number} {countLabel}): {price}.'
 };
