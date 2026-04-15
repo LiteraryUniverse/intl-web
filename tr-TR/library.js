@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Hikayenin {readPercent, number, ::percent} bölümünü okudunuz.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Lütfen arama terimlerini girin veya filtreleri uygulayın',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Satın alınan hikayeler'
 };
