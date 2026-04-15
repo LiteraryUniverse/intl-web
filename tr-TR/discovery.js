@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Yönlendiriliyor...',
     'story.price.free': 'Ücretsiz',
     'story.price.owned': 'Sahip olunan',
-    'story.price.paid': 'Ücretli'
+    'story.price.paid': 'Ücretli',
+    'story.purchase.fullStory': 'Hikayenin tamamını satın alın',
+    'story.purchase.byArc': 'veya arc ile satın alın',
+    'story.purchase.includes': 'Tüm {chaptersCount} bölümlerini içerir',
+    'story.purchase.freePreview': '{count, plural, one {İlk bölüm önizleme için ücretsizdir} other {İlk {count} bölümler önizleme için ücretsizdir}}',
+    'story.purchase.arcIncludes': 'Bölümler {from}-{to}',
+    'story.purchase.savings': 'Kaydet {amount}',
+    'story.purchase.allArcsCost': 'Tüm yaylar ayrı ayrı: {price}',
+    'story.purchase.owned': 'Bu hikaye sana ait',
+    'story.purchase.arcOwned': 'Sahip olunan',
+    'story.purchase.complete': 'Satın alma işlemi tamamlandı! Artık bu hikayeye tam erişiminiz var.',
+    'story.purchase.header': 'Bu hikayeyi alın',
+    'story.purchase.header.locked': 'Premium hikaye',
+    'story.purchase.forFullStory': 'hikayenin tamamı için',
+    'story.purchase.secureCheckout': 'Stripe ile güvenli ödeme',
+    'story.purchase.loginToBuy': 'Satın almak için giriş yapın',
+    'story.chapter.freePreviewEnds': 'Ücretsiz ön izleme burada sona eriyor'
 };
