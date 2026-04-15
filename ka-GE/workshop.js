@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'აპლიკაციის ატვირთვა... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'ამ სტატიისთვის გამომცემლის წინასწარი ფაილი ატვირთულია.',
     'workshop.story.publisherPreview.replace': 'ფაილის ჩანაცვლება',
-    'workshop.story.publisherPreview.remove': 'წაშლა',
     // Story monetization
     'workshop.monetization.addCurrency': 'დაამატეთ კიდევ ერთი მხარდაჭერილი ვალუტა',
     'workshop.monetization.arcDescription': 'არკის აღწერა (ჩანს Stripe-ის გადახდისას)',
