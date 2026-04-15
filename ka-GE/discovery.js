@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'გადამისამართება...',
     'story.price.free': 'უფასო',
     'story.price.owned': 'საკუთრებაში',
-    'story.price.paid': 'გადახდილი'
+    'story.price.paid': 'გადახდილი',
+    'story.purchase.fullStory': 'სრული ამბის შეძენა',
+    'story.purchase.byArc': 'ან შეიძინეთ არკის მიხედვით',
+    'story.purchase.includes': 'მოიცავს " {chaptersCount} "-ის ყველა თავს',
+    'story.purchase.freePreview': '{count, plural, one {პირველი თავი უფასოდ გასაცნობია} other {პირველი თავი უფასოდ გასაცნობია {count} თავები უფასოდ გასაცნობია}}',
+    'story.purchase.arcIncludes': 'თავები {from}–{to}',
+    'story.purchase.savings': 'შენახვა {amount}',
+    'story.purchase.allArcsCost': 'ყველა რკალი ცალ-ცალკე: {price}',
+    'story.purchase.owned': 'ეს ამბავი შენია',
+    'story.purchase.arcOwned': 'საკუთრებაში',
+    'story.purchase.complete': 'შესყიდვა დასრულებულია! თქვენ ახლა სრულად გაქვთ წვდომა ამ ისტორიაზე.',
+    'story.purchase.header': 'მიიღეთ ეს ამბავი',
+    'story.purchase.header.locked': 'პრემიუმ ამბავი',
+    'story.purchase.forFullStory': 'სრული ისტორიისთვის',
+    'story.purchase.secureCheckout': 'უსაფრთხო გადახდა Stripe-ის მეშვეობით',
+    'story.purchase.loginToBuy': 'შესვლა შესაძენად',
+    'story.chapter.freePreviewEnds': 'უფასო წინასწარი დათვალიერება აქ მთავრდება'
 };
