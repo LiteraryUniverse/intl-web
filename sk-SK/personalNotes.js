@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Kapitola {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} osobná poznámka',
   'personalNotes.searchResults': 'Výsledky vyhľadávania',
-  'personalNotes.type.story': 'Príbeh',
-  'personalNotes.type.universe': 'Vesmír',
-  'personalNotes.type.chapter': 'Kapitola',
   'personalNotes.type.encEntry': 'Záznam v encyklopédii',
   'personalNotes.type.revTextBlock': 'Revidovaný textový blok',
-  'personalNotes.chapter': 'Kapitola',
   'personalNotes.recentSearches': 'Nedávne vyhľadávania:',
   'personalNotes.myNotes': 'Moje osobné poznámky',
   'personalNotes.hasNotes': 'Má osobné poznámky'
