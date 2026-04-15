@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'বছর',
   'resume.editor.awards.desc': 'বিবরণ',
   'resume.editor.awards.add': 'পুরস্কার যোগ করুন',
-  'resume.editor.awards.remove': 'সরান',
   // Theme
   'resume.editor.theme.heading': 'রিজ্যুম থিম',
   'resume.editor.theme.description': 'আপনার পাবলিক রিজ্যুম পেজের জন্য একটি ভিজ্যুয়াল থিম নির্বাচন করুন।',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'অ্যাক্সেস লিঙ্ক তৈরি করুন',
   'resume.access.createLink.comment': 'মন্তব্য (ঐচ্ছিক)',
   'resume.access.createLink.language': 'পৃষ্ঠার ভাষা',
-  'resume.access.createLink.create': 'তৈরি করুন',
   'resume.access.noLinks':
     'এখনও কোনো অ্যাক্সেস লিঙ্ক তৈরি হয়নি। আপনার জীবনবৃত্তান্ত শেয়ার করার জন্য একটি লিঙ্ক তৈরি করুন।',
   'resume.access.copy': 'নকল করুন',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'সৃষ্ট {date}',
   'resume.access.viewVisits': 'ভ্রমণের বিবরণ দেখুন',
   'resume.access.noVisits': 'এখনো কোনো ভিজিট রেকর্ড করা হয়নি।',
-  'resume.access.anonymousVisitor': 'অজ্ঞাত',
   'resume.access.onsite': 'সাইটে',
   'resume.access.visitNumber': '( #{number} -এ যান)',
   // ── Public Resume Page ──────────────────────────────────────────────────────
