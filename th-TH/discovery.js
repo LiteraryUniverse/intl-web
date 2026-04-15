@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'คะแนนเฉลี่ย {avgRating, number} จาก {reviewsNum, number} รีวิว',
     // Story purchase
     'story.buy.button': 'ซื้อสำหรับ {price}',
-    'story.buy.confirm': 'คุณกำลังจะซื้อสินค้านี้ที่ {price}คุณจะได้รับการเปลี่ยนเส้นทางไปยัง Stripe เพื่อดำเนินการชำระเงินให้เสร็จสมบูรณ์ ดำเนินการต่อหรือไม่?',
     'story.buy.currency': 'ซื้อสกุลเงิน',
     'story.buy.error.generic': 'การซื้อล้มเหลว',
-    'story.buy.loginRequired': 'เข้าสู่ระบบเพื่อซื้อ',
     'story.buy.redirecting': 'กำลังเปลี่ยนเส้นทาง...',
     'story.price.free': 'ฟรี',
     'story.price.owned': 'เป็นเจ้าของ',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'สำหรับเรื่องราวทั้งหมด',
     'story.purchase.secureCheckout': 'ชำระเงินอย่างปลอดภัยผ่าน Stripe',
     'story.purchase.loginToBuy': 'เข้าสู่ระบบเพื่อซื้อ',
+    'story.purchase.loginToBuyArcs': 'เข้าสู่ระบบเพื่อซื้อเรื่องราวแต่ละตอน',
+    'story.purchase.pricingUnavailable': 'ข้อมูลราคาไม่สามารถใช้ได้ในขณะนี้',
+    'story.buy.error.timeout': 'คำขอหมดเวลา กรุณาลองอีกครั้ง',
     'story.chapter.freePreviewEnds': 'การชมตัวอย่างฟรีสิ้นสุดที่นี่'
 };
