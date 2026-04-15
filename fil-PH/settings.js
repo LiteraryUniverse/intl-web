@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Pumili ng iyong bansa',
     'settings.emailSubscriptions.newsletterTech': 'Paminsan-minsang newsletter mula sa aming mga developer',
     'settings.emailSubscriptions.newsletterFeatures': 'Impormasyon tungkol sa mga bagong tampok',
-    'settings.emailNotifications.title': 'Mga abiso',
     'settings.emailNotifications.pm': 'Mga bagong mensahe',
     'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
     'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
