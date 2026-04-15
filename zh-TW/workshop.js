@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': '設定從故事開始的多少章可以讓任何人免費閱讀。這有助於吸引讀者。',
     'workshop.monetization.fullStoryPricing': '完整故事定價',
     'workshop.monetization.lowPriceFee': '低價位固定費用活躍。',
-    'workshop.monetization.noArcs': '尚未定義故事弧。請先在您的故事設定中加入弧線。',
+    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
     'workshop.monetization.noCurrencies': '新增貨幣以設定此版本的價格。',
     'workshop.monetization.originalEdition': '原創',
     'workshop.monetization.payoutSplits': '派息分割',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': '本故事已付費。受邀者必須先完成 Stripe 付款設定，才能接受。您可以在下方提出收入分成 - 它將從您的分成中抽取。',
     'workshop.collaborators.proposedSplit': '建議的收入比例 (%)',
-    'workshop.collaborators.splitFromOwnerShare': '這筆款項將從您的份額中扣除。受邀者必須先完成 Stripe 付款設定，才能接受。'
+    'workshop.collaborators.splitFromOwnerShare': '這筆款項將從您的份額中扣除。受邀者必須先完成 Stripe 付款設定，才能接受。',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Story arcs',
+    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
+    'workshop.monetization.saveArcs': 'Save arcs',
+    'workshop.monetization.arcsSaved': 'Arc structure saved.',
+    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
