@@ -9,7 +9,6 @@ export default {
     'You have read {readPercent, number, ::percent} of the story.',
   'library.search.prompt': 'Search your library to find content',
   'library.search.noFilters': 'Please enter search terms or apply filters',
-  'library.yourLibrary': 'Your Library',
   'library.search': 'Search Your Library',
   'library.ownedStories': 'Purchased stories',
 }
