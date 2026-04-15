@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'ปี',
   'resume.editor.awards.desc': 'คำอธิบาย',
   'resume.editor.awards.add': 'เพิ่มรางวัล',
-  'resume.editor.awards.remove': 'ลบ',
   // Theme
   'resume.editor.theme.heading': 'ธีมเรซูเม่',
   'resume.editor.theme.description': 'เลือกธีมภาพสำหรับหน้าประวัติสาธารณะของคุณ',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'สร้างลิงก์การเข้าถึง',
   'resume.access.createLink.comment': 'ความคิดเห็น (ไม่บังคับ)',
   'resume.access.createLink.language': 'ภาษาของหน้า',
-  'resume.access.createLink.create': 'สร้าง',
   'resume.access.noLinks': 'ยังไม่มีลิงก์การเข้าถึงสร้างขึ้น. สร้างลิงก์เพื่อแชร์ประวัติการทำงานของคุณ.',
   'resume.access.copy': 'คัดลอก',
   'resume.access.copied': 'คัดลอกแล้ว!',
@@ -108,7 +106,6 @@ export default {
   'resume.access.created': 'สร้างขึ้นเมื่อ {date}',
   'resume.access.viewVisits': 'ดูรายละเอียดการเยี่ยมชม',
   'resume.access.noVisits': 'ยังไม่มีการบันทึกการเยี่ยมชม',
-  'resume.access.anonymousVisitor': 'ไม่ประสงค์ออกนาม',
   'resume.access.onsite': 'ในสถานที่',
   'resume.access.visitNumber': '(เยี่ยมชม #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
