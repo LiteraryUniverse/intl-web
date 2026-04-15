@@ -4,7 +4,6 @@ export default {
     'sharing.share': '공유하기',
     'sharing.feedback': '원하는 곳을 놓치고 있나요? 알려주세요!',
     'sharing.copy': '복사',
-    'sharing.email': '이메일',
     'sharing.sms': 'SMS',
     'sharing.messenger': '페이스북 메신저',
     'sharing.whatsapp': 'WhatsApp',
