@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'حدد عدد الفصول من بداية قصتك التي يمكن لأي شخص قراءتها مجانًا. هذا يساعد على جذب القراء.',
     'workshop.monetization.fullStoryPricing': 'تسعير القصة كاملة',
     'workshop.monetization.lowPriceFee': 'رسوم ثابتة منخفضة السعر نشطة.',
-    'workshop.monetization.noArcs': 'لا توجد أقواس قصة محددة بعد. أضف الأقواس في إعدادات قصتك أولاً.',
+    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
     'workshop.monetization.noCurrencies': 'أضف العملات لتحديد أسعار هذا الإصدار.',
     'workshop.monetization.originalEdition': 'الأصل',
     'workshop.monetization.payoutSplits': 'تجزئة المدفوعات',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'هذه القصة ذات طابع نقدي. يجب على المدعوين إكمال إعداد الدفع عبر Stripe قبل أن يتمكنوا من القبول. يمكنك اقتراح حصة الإيرادات أدناه - سيتم أخذها من حصتك.',
     'workshop.collaborators.proposedSplit': 'حصة الإيرادات المقترحة (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'سيتم أخذ هذا من حصتك. يجب على المدعو إكمال إعداد الدفع على Stripe قبل أن يتمكن من القبول.'
+    'workshop.collaborators.splitFromOwnerShare': 'سيتم أخذ هذا من حصتك. يجب على المدعو إكمال إعداد الدفع على Stripe قبل أن يتمكن من القبول.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Story arcs',
+    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
+    'workshop.monetization.saveArcs': 'Save arcs',
+    'workshop.monetization.arcsSaved': 'Arc structure saved.',
+    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
