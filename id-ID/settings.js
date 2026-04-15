@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Pilih negara Anda',
     'settings.emailSubscriptions.newsletterTech': 'Buletin gelegar dari pengembang kami',
     'settings.emailSubscriptions.newsletterFeatures': 'Informasi tentang fitur-fitur baru',
-    'settings.emailNotifications.title': 'Notifikasi',
     'settings.emailNotifications.pm': 'Pesan baru',
     'settings.emailNotifications.newChapters': 'Bab baru dari cerita yang Anda ikuti',
     'settings.emailNotifications.newStories': 'Cerita baru di alam semesta atau dari penulis yang Anda ikuti',
