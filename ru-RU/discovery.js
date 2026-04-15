@@ -36,7 +36,6 @@ export default {
     'story.universeRelation.universe': 'Часть вселенной',
     'discover.search.rating': 'Возрастной рейтинг',
     'discover.search.license': 'Лицензия на авторское право',
-    'discover.search.language': 'Язык',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Ни одна вселенная не соответствует вашим параметрам}
         one {Найдена 1 вселенная}
@@ -75,7 +74,6 @@ export default {
     'discovery.isPreview.explained': 'Эта история предоставляется только в качестве предварительного просмотра произведения.',
     'discovery.includesAds': 'Включает в себя объявления',
     // AI content related strings
-    'discovery.ai.content': 'Контент, созданный искусственным интеллектом',
     'discovery.ai.universes': 'Вселенные, созданные искусственным интеллектом',
     'discovery.ai.stories': 'Истории, созданные искусственным интеллектом',
     'discovery.ai.noContent': 'Контент, созданный искусственным интеллектом, пока не доступен.',
