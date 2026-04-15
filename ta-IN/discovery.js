@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'ஒரு உலகத்தின் பகுதி',
     'discover.search.rating': 'வயது மதிப்பு',
     'discover.search.license': 'பதிப்புரிமை உரிமை',
-    'discover.search.language': 'மொழி',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {உங்கள் பாரம்பரியங்களுக்குப் பொருந்துவதுமில்லை}
         one {1 உலகம் கிடைக்கும்}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
