@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Henüz kimse yanıt vermedi. İlk siz olun!',
   'forums.noThreads': 'Burada görülecek bir şey yok. Konuşmayı başlatmak size bağlı.',
   'forums.openingPost': 'Açılış mesajı',
-  'forums.post': 'Gönderi',
   'forums.post.new': 'Yeni gönderi',
   'forums.posting': 'Gönderiliyor...',
   'forums.reply': 'Yanıtla',
