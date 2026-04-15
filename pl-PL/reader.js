@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Ten rozdział wymaga zakupu',
     'reader.purchaseGate.description': 'Aby kontynuować czytanie {storyTitle}{authorName, select, undefined {} other { przez {authorName}}}, należy go zakupić.',
-    'reader.purchaseGate.buyFullStory': 'Proszę kupić całość',
     'reader.purchaseGate.buyArc': 'Lub kupić ten łuk',
-    'reader.purchaseGate.buying': 'Przekierowanie do kasy...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} rozdział} other {{count} rozdziały}} w zestawie',
-    'reader.purchaseGate.loginRequired': 'Proszę się zalogować, aby kupić tę historię.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} rozdział} other {{count} rozdziały}} w zestawie'
 };
