@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Keskmine hinnang {avgRating, number} alates {reviewsNum, number} arvustusest',
     // Story purchase
     'story.buy.button': 'Osta {price}',
-    'story.buy.confirm': 'Te kavatsete seda osta aadressil {price}. Teid suunatakse makse lõpuleviimiseks Stripe\'ile. Jätka?',
     'story.buy.currency': 'Ostuvaluuta',
     'story.buy.error.generic': 'Ostmine ebaõnnestus',
-    'story.buy.loginRequired': 'Ostmiseks logi sisse',
     'story.buy.redirecting': 'Ümbersuunamine...',
     'story.price.free': 'Tasuta',
     'story.price.owned': 'Omanikud',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'kogu lugu',
     'story.purchase.secureCheckout': 'Turvaline kassasüsteem Stripe\'i kaudu',
     'story.purchase.loginToBuy': 'Ostmiseks logi sisse',
+    'story.purchase.loginToBuyArcs': 'Logi sisse, et osta üksikuid loosekaarti',
+    'story.purchase.pricingUnavailable': 'Hinnainfo ei ole praegu kättesaadav.',
+    'story.buy.error.timeout': 'Taotluse esitamise aeg on lõppenud. Palun proovige uuesti.',
     'story.chapter.freePreviewEnds': 'Tasuta eelvaade lõpeb siin'
 };
