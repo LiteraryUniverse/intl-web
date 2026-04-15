@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Я розумію умови та юридичний вплив CC0 на мою роботу',
     'licenses.learnMore': 'Дізнатися більше',
     'licenses.legalText': 'Юридичний текст',
-    'licenses.chooser.back': 'Назад',
     'licenses.chooser.select': 'Виберіть цю ліцензію',
     'licenses.commercial.title': 'Інформація про комерційну ліцензію',
     'licenses.commercial.exclusive': 'За цією ексклюзивною ліцензією Літературний Всесвіт відраховуватиме 10% від вашого заробітку. Це означає, що ви отримуватимете 90% від доходу, отриманого від вашої роботи на нашій платформі.',
