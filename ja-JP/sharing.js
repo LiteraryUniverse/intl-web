@@ -4,7 +4,6 @@ export default {
     'sharing.share': '～と共有する',
     'sharing.feedback': '共有したい場所が見つからない場合は、ご連絡ください。',
     'sharing.copy': 'コピー',
-    'sharing.email': 'メール',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
