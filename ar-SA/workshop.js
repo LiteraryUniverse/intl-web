@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'تم إنشاؤه في {generatedAt, date, medium} في ~ {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'فشل إنشاء EPUB.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'احفظ هذا القوس أولاً لتمكين إنشاء EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'عناوين URL الخارجية معطلة للقصص المرخصة من الكون الأدبي. قم بتحميل الملفات بدلاً من ذلك حتى تظل على وحدة تخزين مشفرة.',
     'workshop.story.alternateFormats.fullStory.title': 'ملف القصة الكاملة',
     'workshop.story.alternateFormats.ongoingAccess.title': 'الوصول المستمر',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'جميع الفصول المتاحة حالياً',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'حدد عدد الفصول من بداية قصتك التي يمكن لأي شخص قراءتها مجانًا. هذا يساعد على جذب القراء.',
     'workshop.monetization.fullStoryPricing': 'تسعير القصة كاملة',
     'workshop.monetization.lowPriceFee': 'رسوم ثابتة منخفضة السعر نشطة.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'لا توجد أقواس قصة محددة بعد. أضف الأقواس في قسم أقواس القصة أعلاه.',
     'workshop.monetization.noCurrencies': 'أضف العملات لتحديد أسعار هذا الإصدار.',
     'workshop.monetization.originalEdition': 'الأصل',
     'workshop.monetization.payoutSplits': 'تجزئة المدفوعات',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'حصة الإيرادات المقترحة (%)',
     'workshop.collaborators.splitFromOwnerShare': 'سيتم أخذ هذا من حصتك. يجب على المدعو إكمال إعداد الدفع على Stripe قبل أن يتمكن من القبول.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'أقواس القصة',
+    'workshop.monetization.arcManagementHelp': 'حدد أقواس قصتك من خلال تحديد نطاقات الفصول. يمكن بيع كل قوس على حدة.',
+    'workshop.monetization.saveArcs': 'حفظ الأقواس',
+    'workshop.monetization.arcsSaved': 'تم حفظ بنية القوس.',
+    'workshop.monetization.lowPriceWarning': 'بهذا السعر، ينطبق الحد الأدنى للرسوم الثابتة. سيكون العائد الخاص بك أقل من التقسيم القياسي {platformCut, number}%. ضع في اعتبارك التسعير عند {thresholdPrice} أو أعلى للحصول على أفضل عائد لمنشئ المحتوى.',
+    'workshop.monetization.recommendedPrice': 'السعر الموصى به بناءً على طول القصة ({wordCount, number} {countLabel}): {price}.'
 };
