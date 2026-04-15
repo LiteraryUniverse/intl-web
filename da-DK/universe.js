@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Forfattere',
     'universe.authors.desc': 'Skabere og bidragsydere til {universe}',
     'universe.contributors': 'Bidragsydere',
-    'universe.translators': 'Oversættere',
     'universe.authors.notice': 'Hver historie kan have yderligere personale, der har arbejdet på den. For flere detaljer, se historiens detaljer.',
     'universe.createdBy': `{gender, select,
     male {Oprettet}
