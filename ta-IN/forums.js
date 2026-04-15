@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'இன்னும் யாரும் பதிலளிக்கவில்லை. முதலாவது நீங்கள் ஆகவும்!',
   'forums.noThreads': 'இங்கே எந்தவொருவரும் காணமுடியாது. உங்களால் உரையாட தயங்கவும்.',
   'forums.openingPost': 'திறந்த பதிவு',
-  'forums.post': 'பதிவு',
   'forums.post.new': 'புதிய பதிவு',
   'forums.posting': 'அனுப்புகின்றன...',
   'forums.reply': 'பதிலளிக்கவும்',
