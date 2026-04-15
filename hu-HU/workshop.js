@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Állítsd be, hogy a történeted elejétől kezdve hány fejezetet olvashasson bárki szabadon. Ez segít az olvasók vonzásában.',
     'workshop.monetization.fullStoryPricing': 'Teljes történet árazás',
     'workshop.monetization.lowPriceFee': 'Alacsony árú átalánydíjas aktív.',
-    'workshop.monetization.noArcs': 'Még nincsenek meghatározott történetszálak. Először a történet beállításaiban adj hozzá íveket.',
+    'workshop.monetization.noArcs': 'Még nincsenek meghatározott történetszálak. Adj hozzá íveket a fenti történet ívek szakaszban.',
     'workshop.monetization.noCurrencies': 'Adjon hozzá valutákat a kiadás árainak beállításához.',
     'workshop.monetization.originalEdition': 'Eredeti',
     'workshop.monetization.payoutSplits': 'Kifizetési felosztás',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Ez a történet pénzzé vált. A meghívottaknak el kell végezniük a Stripe kifizetés beállítását, mielőtt elfogadnák. A bevételrészesedést alább javasolhatod - azt a te részedből vesszük le.',
     'workshop.collaborators.proposedSplit': 'Javasolt bevételi részesedés (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Ezt az ön részéből fogják levonni. A meghívottnak el kell végeznie a Stripe kifizetés beállítását, mielőtt elfogadná.'
+    'workshop.collaborators.splitFromOwnerShare': 'Ezt az ön részéből fogják levonni. A meghívottnak el kell végeznie a Stripe kifizetés beállítását, mielőtt elfogadná.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Történeti ívek',
+    'workshop.monetization.arcManagementHelp': 'Határozza meg a történet íveit a fejezetek tartományainak meghatározásával. Minden ív külön-külön is értékesíthető.',
+    'workshop.monetization.saveArcs': 'ívek mentése',
+    'workshop.monetization.arcsSaved': 'Az ívszerkezet mentve.',
+    'workshop.monetization.lowPriceWarning': 'Ezen az áron az átalánydíjas minimumdíj érvényes. Az Ön kifizetése alacsonyabb lesz, mint a szokásos {platformCut, number}%-os felosztás. Fontolja meg a {thresholdPrice} vagy a feletti árképzést a legjobb alkotói kifizetés érdekében.',
+    'workshop.monetization.recommendedPrice': 'Ajánlott ár a történet hossza alapján ({wordCount, number} {countLabel}): {price}.'
 };
