@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Átlagos értékelés {avgRating, number} a {reviewsNum, number} felülvizsgálatból ~ ~ átlaga',
     // Story purchase
     'story.buy.button': 'Vásárolja meg a {price} oldalon.',
-    'story.buy.confirm': 'Ezt a {price}címen készül megvásárolni. A fizetés befejezéséhez átirányítjuk a Stripe oldalára. Folytassa?',
     'story.buy.currency': 'Vásárlási pénznem',
     'story.buy.error.generic': 'A vásárlás sikertelen volt',
-    'story.buy.loginRequired': 'Jelentkezzen be a vásárláshoz',
     'story.buy.redirecting': 'Átirányítás...',
     'story.price.free': 'Ingyenes',
     'story.price.owned': 'Saját',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'a teljes történetért',
     'story.purchase.secureCheckout': 'Biztonságos fizetés Stripe-on keresztül',
     'story.purchase.loginToBuy': 'Jelentkezzen be a vásárláshoz',
+    'story.purchase.loginToBuyArcs': 'Jelentkezzen be az egyes történetszálak megvásárlásához',
+    'story.purchase.pricingUnavailable': 'Jelenleg nem áll rendelkezésre árinformáció.',
+    'story.buy.error.timeout': 'A kérés időzített. Kérjük, próbálja meg újra.',
     'story.chapter.freePreviewEnds': 'Az ingyenes előnézet itt ér véget'
 };
