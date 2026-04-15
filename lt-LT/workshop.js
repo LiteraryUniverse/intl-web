@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Nustatykite, kiek skyrių nuo istorijos pradžios gali skaityti visi norintys. Tai padeda pritraukti skaitytojų.',
     'workshop.monetization.fullStoryPricing': 'Visa istorija kainų nustatymas',
     'workshop.monetization.lowPriceFee': 'Mažos kainos fiksuotas mokestis aktyvus.',
-    'workshop.monetization.noArcs': 'Dar nėra apibrėžtų istorijos vingių. Pirmiausia pridėkite istorijos lankus į savo istorijos nustatymus.',
+    'workshop.monetization.noArcs': 'Dar nėra apibrėžtų istorijos vingių. Pridėkite lankus aukščiau esančiame istorijos lankų skyriuje.',
     'workshop.monetization.noCurrencies': 'Pridėkite valiutų, kad nustatytumėte šio leidinio kainas.',
     'workshop.monetization.originalEdition': 'Originalus',
     'workshop.monetization.payoutSplits': 'Išmokų padalijimas',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Ši istorija yra monetizuota. Prieš priimdami kvietimus, kviečiamieji turi užbaigti "Stripe" mokėjimo nustatymus. Toliau galite pasiūlyti pajamų dalį - ji bus paimta iš jūsų dalies.',
     'workshop.collaborators.proposedSplit': 'Siūloma pajamų dalis (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Ši suma bus paimta iš jūsų dalies. Prieš priimdamas pakviestasis turi užbaigti "Stripe" išmokėjimo nustatymą.'
+    'workshop.collaborators.splitFromOwnerShare': 'Ši suma bus paimta iš jūsų dalies. Prieš priimdamas pakviestasis turi užbaigti "Stripe" išmokėjimo nustatymą.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Istorijos lankai',
+    'workshop.monetization.arcManagementHelp': 'Apibrėžkite istorijos vingius nustatydami skyrių intervalus. Kiekvieną lanką galima parduoti atskirai.',
+    'workshop.monetization.saveArcs': 'Išsaugoti lankus',
+    'workshop.monetization.arcsSaved': 'Išsaugota lanko struktūra.',
+    'workshop.monetization.lowPriceWarning': 'Už šią kainą taikomas minimalus fiksuotasis mokestis. Jūsų išmoka bus mažesnė nei standartinis {platformCut, number}% padalijimas. Apsvarstykite galimybę nustatyti kainą {thresholdPrice} arba didesnę, kad kūrėjui būtų išmokėta geriausia išmoka.',
+    'workshop.monetization.recommendedPrice': 'Rekomenduojama kaina pagal istorijos ilgį ({wordCount, number} {countLabel}): {price}.'
 };
