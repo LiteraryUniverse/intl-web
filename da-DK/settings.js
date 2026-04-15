@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Vælg dit land',
     'settings.emailSubscriptions.newsletterTech': 'Lejlighedsvis nyhedsbrev fra vores udviklere',
     'settings.emailSubscriptions.newsletterFeatures': 'Information om nye funktioner',
-    'settings.emailNotifications.title': 'Notifikationer',
     'settings.emailNotifications.pm': 'Nye beskeder',
     'settings.emailNotifications.newChapters': 'Nye kapitler fra historier, du følger',
     'settings.emailNotifications.newStories': 'Nye historier i universer eller fra forfattere, du følger',
