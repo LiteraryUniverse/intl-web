@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Được mời qua email',
     // Members table
     'org.members.joined': 'Đã tham gia',
-    'org.members.actions': 'Hành động',
     'org.roles.super_admin': 'Quản trị viên cấp cao'
 };
