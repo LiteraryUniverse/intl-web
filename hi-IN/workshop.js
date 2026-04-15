@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB generation failed.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Save this arc first to enable EPUB generation.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'लिटरेरी यूनिवर्स द्वारा लाइसेंस प्राप्त कहानियों के लिए बाहरी यूआरएल अक्षम हैं। इसलिए फ़ाइलें अपलोड करें ताकि वे एन्क्रिप्टेड स्टोरेज पर सुरक्षित रहें।',
     'workshop.story.alternateFormats.fullStory.title': 'Full story file',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Ongoing access',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'All currently available chapters',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'निर्धारित करें कि आपकी कहानी की शुरुआत से कितने अध्याय किसी के भी पढ़ने के लिए मुफ्त होंगे। इससे पाठकों को आकर्षित करने में मदद मिलती है।',
     'workshop.monetization.fullStoryPricing': 'पूर्ण कहानी की कीमत',
     'workshop.monetization.lowPriceFee': 'कम कीमत पर फ्लैट शुल्क सक्रिय।',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'अभी तक कोई कहानी के आर्क परिभाषित नहीं किए गए हैं। ऊपर दिए गए कहानी के आर्क अनुभाग में आर्क जोड़ें।',
     'workshop.monetization.noCurrencies': 'इस संस्करण के लिए कीमतें निर्धारित करने हेतु मुद्राएँ जोड़ें।',
     'workshop.monetization.originalEdition': 'मूल',
     'workshop.monetization.payoutSplits': 'भुगतान विभाजन',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'प्रस्तावित राजस्व हिस्सा (%)',
     'workshop.collaborators.splitFromOwnerShare': 'यह आपके हिस्से से लिया जाएगा। आमंत्रित व्यक्ति को स्वीकार करने से पहले Stripe भुगतान सेटअप पूरा करना होगा।',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
+    'workshop.monetization.arcManagement': 'कथा-चक्र',
+    'workshop.monetization.arcManagementHelp': 'अध्याय सीमाएँ निर्धारित करके अपनी कहानी के आर्क्स परिभाषित करें। प्रत्येक आर्क को अलग से बेचा जा सकता है।',
+    'workshop.monetization.saveArcs': 'आर्क्स सहेजें',
+    'workshop.monetization.arcsSaved': 'आर्क संरचना सहेजी गई।',
+    'workshop.monetization.lowPriceWarning': 'इस कीमत पर फ्लैट-फ़ी मिनिमम लागू होता है। आपका भुगतान मानक {platformCut, number}% विभाजन से कम होगा। सर्वश्रेष्ठ क्रिएटर भुगतान के लिए {thresholdPrice} या उससे अधिक की कीमत पर विचार करें।',
     'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
