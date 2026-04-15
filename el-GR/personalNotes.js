@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Κεφάλαιο {sequence} - {title}',
   'personalNotes.objectPersonalNotes': 'Καταχώρηση {object} προσωπικής σημείωσης',
   'personalNotes.searchResults': 'Αποτελέσματα Αναζήτησης',
-  'personalNotes.type.story': 'Ιστορία',
-  'personalNotes.type.universe': 'Σύμπαν',
-  'personalNotes.type.chapter': 'Κεφάλαιο',
   'personalNotes.type.encEntry': 'Καταχώρηση Εγκυκλοπαίδειας',
   'personalNotes.type.revTextBlock': 'Τμήμα Αναθεώρησης Κειμένου',
-  'personalNotes.chapter': 'Κεφάλαιο',
   'personalNotes.recentSearches': 'Πρόσφατες Αναζητήσεις:',
   'personalNotes.myNotes': 'Οι προσωπικές μου σημειώσεις',
   'personalNotes.hasNotes': 'Έχει προσωπικές σημειώσεις'
