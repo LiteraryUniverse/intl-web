@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'กำลังเปลี่ยนเส้นทาง...',
     'story.price.free': 'ฟรี',
     'story.price.owned': 'เป็นเจ้าของ',
-    'story.price.paid': 'ชำระเงินแล้ว'
+    'story.price.paid': 'ชำระเงินแล้ว',
+    'story.purchase.fullStory': 'ซื้อเรื่องราวเต็ม',
+    'story.purchase.byArc': 'หรือซื้อแบบโค้ง',
+    'story.purchase.includes': 'รวมทุกบทของ {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {บทแรกสามารถอ่านตัวอย่างได้ฟรี} other {บทแรก {count} สามารถอ่านตัวอย่างได้ฟรี}}',
+    'story.purchase.arcIncludes': 'บทที่ {from}–{to}',
+    'story.purchase.savings': 'บันทึก {amount}',
+    'story.purchase.allArcsCost': 'ทุกตอนแยกกัน: {price}',
+    'story.purchase.owned': 'คุณเป็นเจ้าของเรื่องราวนี้',
+    'story.purchase.arcOwned': 'เป็นเจ้าของ',
+    'story.purchase.complete': 'การซื้อเสร็จสมบูรณ์! คุณสามารถเข้าถึงเรื่องราวนี้ได้เต็มที่แล้ว',
+    'story.purchase.header': 'รับเรื่องนี้',
+    'story.purchase.header.locked': 'เรื่องพรีเมียม',
+    'story.purchase.forFullStory': 'สำหรับเรื่องราวทั้งหมด',
+    'story.purchase.secureCheckout': 'ชำระเงินอย่างปลอดภัยผ่าน Stripe',
+    'story.purchase.loginToBuy': 'เข้าสู่ระบบเพื่อซื้อ',
+    'story.chapter.freePreviewEnds': 'การชมตัวอย่างฟรีสิ้นสุดที่นี่'
 };
