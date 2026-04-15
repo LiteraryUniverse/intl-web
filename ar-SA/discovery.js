@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'جزء من كون',
     'discover.search.rating': 'تصنيف العمر',
     'discover.search.license': 'ترخيص حقوق التأليف والنشر',
-    'discover.search.language': 'اللغة',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {لا يوجد كواكب تطابق معاييرك}
         one {تم العثور على كوكب واحد}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'يتم توفير هذه القصة فقط كمعاينة للعمل.',
     'discovery.includesAds': 'يشمل الإعلانات',
     // AI content related strings
-    'discovery.ai.content': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'discovery.ai.universes': 'الأكوان المولدة بالذكاء الاصطناعي',
     'discovery.ai.stories': 'القصص التي تم إنشاؤها بالذكاء الاصطناعي',
     'discovery.ai.noContent': 'لا يتوفر حتى الآن أي محتوى من إنشاء الذكاء الاصطناعي.',
