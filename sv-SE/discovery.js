@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Del av ett universum',
     'discover.search.rating': 'Åldersgräns',
     'discover.search.license': 'Upphovsrättslicens',
-    'discover.search.language': 'Språk',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Inga universum matchar dina parametrar}
         one {1 universum hittat}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Denna berättelse tillhandahålls endast som en förhandsvisning av arbetet.',
     'discovery.includesAds': 'Inkluderar annonser',
     // AI content related strings
-    'discovery.ai.content': 'AI-genererat innehåll',
     'discovery.ai.universes': 'AI-genererade universum',
     'discovery.ai.stories': 'AI-genererade berättelser',
     'discovery.ai.noContent': 'Inget AI-genererat innehåll tillgängligt ännu.',
