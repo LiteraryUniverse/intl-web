@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Vidutinis įvertinimas {avgRating, number} iš {reviewsNum, number} apžvalga',
     // Story purchase
     'story.buy.button': 'Pirkti {price}',
-    'story.buy.confirm': 'Jūs ketinate tai įsigyti {price}. Būsite nukreipti į "Stripe", kad užbaigtumėte mokėjimą. Tęsti?',
     'story.buy.currency': 'Pirkimo valiuta',
     'story.buy.error.generic': 'Pirkimas nepavyko',
-    'story.buy.loginRequired': 'Prisijunkite, kad įsigytumėte',
     'story.buy.redirecting': 'Peradresavimas...',
     'story.price.free': 'Nemokamai',
     'story.price.owned': 'Turima',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'visą istoriją',
     'story.purchase.secureCheckout': 'Saugi kasa per "Stripe',
     'story.purchase.loginToBuy': 'Prisijunkite, kad įsigytumėte',
+    'story.purchase.loginToBuyArcs': 'Prisijunkite ir įsigykite atskirus istorijos fragmentus',
+    'story.purchase.pricingUnavailable': 'Informacijos apie kainas šiuo metu nėra.',
+    'story.buy.error.timeout': 'Užklausa užtruko. Bandykite dar kartą.',
     'story.chapter.freePreviewEnds': 'Nemokama peržiūra baigiasi čia'
 };
