@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Átirányítás...',
     'story.price.free': 'Ingyenes',
     'story.price.owned': 'Saját',
-    'story.price.paid': 'Fizetett'
+    'story.price.paid': 'Fizetett',
+    'story.purchase.fullStory': 'Vásárolja meg a teljes történetet',
+    'story.purchase.byArc': 'vagy megvásárolni az arc',
+    'story.purchase.includes': 'Tartalmazza az összes {chaptersCount} fejezetet',
+    'story.purchase.freePreview': '{count, plural, one {Az első fejezet ingyenesen megtekinthető} other {Az első {count} fejezetek ingyenesen megtekinthetők}}',
+    'story.purchase.arcIncludes': 'Fejezetek {from}-{to}',
+    'story.purchase.savings': 'Mentés {amount}',
+    'story.purchase.allArcsCost': 'Minden ív külön-külön: {price}',
+    'story.purchase.owned': 'Ez a történet a tiéd',
+    'story.purchase.arcOwned': 'Saját',
+    'story.purchase.complete': 'Vásárlás befejezve! Mostantól teljes hozzáféréssel rendelkezik ehhez a történethez.',
+    'story.purchase.header': 'Szerezd meg ezt a történetet',
+    'story.purchase.header.locked': 'Prémium történet',
+    'story.purchase.forFullStory': 'a teljes történetért',
+    'story.purchase.secureCheckout': 'Biztonságos fizetés Stripe-on keresztül',
+    'story.purchase.loginToBuy': 'Jelentkezzen be a vásárláshoz',
+    'story.chapter.freePreviewEnds': 'Az ingyenes előnézet itt ér véget'
 };
