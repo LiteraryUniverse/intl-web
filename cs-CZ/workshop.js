@@ -587,7 +587,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Nastavte, kolik kapitol od začátku příběhu si může kdokoli přečíst. To pomáhá přilákat čtenáře.',
     'workshop.monetization.fullStoryPricing': 'Celý příběh',
     'workshop.monetization.lowPriceFee': 'Aktivní paušální poplatek za nízkou cenu.',
-    'workshop.monetization.noArcs': 'Zatím nejsou definovány žádné dějové oblouky. Nejprve přidejte příběhové oblouky do nastavení příběhu.',
+    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
     'workshop.monetization.noCurrencies': 'Přidání měn pro nastavení cen pro tuto edici.',
     'workshop.monetization.originalEdition': 'Originál',
     'workshop.monetization.payoutSplits': 'Rozdělení výplat',
@@ -628,5 +628,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Tento příběh je zpeněžen. Před přijetím pozvánky musí pozvaní dokončit nastavení výplaty Stripe. Níže můžete navrhnout podíl na příjmech - bude se počítat z vašeho podílu.',
     'workshop.collaborators.proposedSplit': 'Navrhovaný podíl na příjmech (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Tato částka bude odečtena z vašeho podílu. Před přijetím musí pozvaný dokončit nastavení výplaty Stripe.'
+    'workshop.collaborators.splitFromOwnerShare': 'Tato částka bude odečtena z vašeho podílu. Před přijetím musí pozvaný dokončit nastavení výplaty Stripe.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Story arcs',
+    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
+    'workshop.monetization.saveArcs': 'Save arcs',
+    'workshop.monetization.arcsSaved': 'Arc structure saved.',
+    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
