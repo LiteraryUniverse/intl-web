@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Roghnaigh do thír',
     'settings.emailSubscriptions.newsletterTech': 'Nuachtlitir uaireanta ónár bhforbróirí',
     'settings.emailSubscriptions.newsletterFeatures': 'Eolas faoi ghnéithe nua',
-    'settings.emailNotifications.title': 'Fógraí',
     'settings.emailNotifications.pm': 'Teachtaireachtaí nua',
     'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
     'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
