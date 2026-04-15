@@ -101,5 +101,21 @@ export default {
     'story.buy.redirecting': 'Перенаправление...',
     'story.price.free': 'Бесплатно',
     'story.price.owned': 'Собственный',
-    'story.price.paid': 'Оплачивается'
+    'story.price.paid': 'Оплачивается',
+    'story.purchase.fullStory': 'Купить полную версию',
+    'story.purchase.byArc': 'или купить по дуге',
+    'story.purchase.includes': 'Включает все главы {chaptersCount}.',
+    'story.purchase.freePreview': '{count, plural, one {Первая глава бесплатна для предварительного просмотра} other {Первая {count} глава бесплатна для предварительного просмотра}}',
+    'story.purchase.arcIncludes': 'Главы {from}-{to}',
+    'story.purchase.savings': 'Сохранить {amount}',
+    'story.purchase.allArcsCost': 'Все дуги по отдельности: {price}',
+    'story.purchase.owned': 'Эта история принадлежит Вам',
+    'story.purchase.arcOwned': 'Собственный',
+    'story.purchase.complete': 'Покупка завершена! Теперь у Вас есть полный доступ к этой истории.',
+    'story.purchase.header': 'Получить эту историю',
+    'story.purchase.header.locked': 'Премиальная история',
+    'story.purchase.forFullStory': 'для полной версии',
+    'story.purchase.secureCheckout': 'Безопасное оформление заказа через Stripe',
+    'story.purchase.loginToBuy': 'Войдите в систему, чтобы купить',
+    'story.chapter.freePreviewEnds': 'Бесплатный предварительный просмотр заканчивается здесь'
 };
