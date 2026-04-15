@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB generation failed.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Save this arc first to enable EPUB generation.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'লিটারারি ইউনিভার্স লাইসেন্সপ্রাপ্ত গল্পগুলির জন্য বাহ্যিক URLগুলি নিষ্ক্রিয় করা হয়েছে। ফাইলগুলি আপলোড করুন যাতে সেগুলি এনক্রিপ্টেড স্টোরেজে থাকে।',
     'workshop.story.alternateFormats.fullStory.title': 'Full story file',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Ongoing access',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'All currently available chapters',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'নির্ধারণ করুন আপনার গল্পের শুরু থেকে কতটি অধ্যায় যে কেউ বিনামূল্যে পড়তে পারবে। এটি পাঠক আকর্ষণ করতে সাহায্য করে।',
     'workshop.monetization.fullStoryPricing': 'সম্পূর্ণ গল্পের মূল্য',
     'workshop.monetization.lowPriceFee': 'নিম্নমূল্যের ফ্ল্যাট ফি সক্রিয়।',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'এখনো কোনো গল্পের আর্ক নির্ধারিত হয়নি। উপরের গল্পের আর্ক বিভাগে আর্কগুলো যোগ করুন।',
     'workshop.monetization.noCurrencies': 'এই সংস্করণের জন্য দাম নির্ধারণ করতে মুদ্রা যোগ করুন।',
     'workshop.monetization.originalEdition': 'মূল',
     'workshop.monetization.payoutSplits': 'পেমআউট বিভাজন',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'প্রস্তাবিত রাজস্ব ভাগ (%)',
     'workshop.collaborators.splitFromOwnerShare': 'এটি আপনার শেয়ার থেকে কাটা হবে। আমন্ত্রিতকে গ্রহণ করার আগে Stripe পেআউট সেটআপ সম্পূর্ণ করতে হবে।',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'কাহিনী বক্ররেখা',
+    'workshop.monetization.arcManagementHelp': 'অধ্যায়ের পরিসর নির্ধারণ করে আপনার গল্পের প্রতিটি আর্ক সংজ্ঞায়িত করুন। প্রতিটি আর্ক আলাদাভাবে বিক্রি করা যেতে পারে।',
+    'workshop.monetization.saveArcs': 'আর্কগুলো সংরক্ষণ করুন',
+    'workshop.monetization.arcsSaved': 'আর্ক কাঠামো সংরক্ষিত হয়েছে।',
+    'workshop.monetization.lowPriceWarning': 'এই মূল্যে ফ্ল্যাট-ফি ন্যূনতম প্রযোজ্য। আপনার পেমেন্ট স্ট্যান্ডার্ড {platformCut, number}% ভাগের তুলনায় কম হবে। সেরা নির্মাতা পেমেন্টের জন্য {thresholdPrice} বা তার উপরে মূল্য নির্ধারণ করুন।',
+    'workshop.monetization.recommendedPrice': 'গল্পের দৈর্ঘ্যের ভিত্তিতে প্রস্তাবিত মূল্য ({wordCount, number} {countLabel}): {price}'
 };
