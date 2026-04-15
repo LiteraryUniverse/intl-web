@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Rozumiem podmienkam a právnym účinkom CC0 na moju prácu',
     'licenses.learnMore': 'Dozvedieť sa viac',
     'licenses.legalText': 'Právny text',
-    'licenses.chooser.back': 'Späť',
     'licenses.chooser.select': 'Vyberte túto licenciu',
     'licenses.commercial.title': 'Informácie o komerčnej licencii',
     'licenses.commercial.exclusive': 'Vďaka tejto exkluzívnej licencii si spoločnosť Literary Universe zoberie 10 % poplatok z vašich príjmov. To znamená, že dostanete 90 % z príjmov z vašej práce na našej platforme.',
