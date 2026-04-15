@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Metai',
   'resume.editor.awards.desc': 'Aprašymas',
   'resume.editor.awards.add': 'Pridėti apdovanojimą',
-  'resume.editor.awards.remove': 'Pašalinti',
   // Theme
   'resume.editor.theme.heading': 'CV tema',
   'resume.editor.theme.description': 'Pasirinkite vizualinę temą savo viešam CV puslapiui.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Sukurti prieigos nuorodą',
   'resume.access.createLink.comment': 'Komentaras (neprivalomas)',
   'resume.access.createLink.language': 'Puslapis Kalba',
-  'resume.access.createLink.create': 'Sukurti',
   'resume.access.noLinks':
     'Prieigos nuorodos dar nesukurtos. Sukurkite nuorodą ir pasidalykite savo gyvenimo aprašymu.',
   'resume.access.copy': 'Kopijuoti',
@@ -110,7 +108,6 @@ export default {
   'resume.access.created': 'Sukurta {date}',
   'resume.access.viewVisits': 'Peržiūrėti apsilankymo informaciją',
   'resume.access.noVisits': 'Apsilankymų dar neužregistruota.',
-  'resume.access.anonymousVisitor': 'Anoniminis',
   'resume.access.onsite': 'Svetainėje',
   'resume.access.visitNumber': '(apsilankykite #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
