@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': '본인은 내 작업에 대한 CC0의 조건과 법적 효력을 이해합니다.',
     'licenses.learnMore': '자세히 알아보기',
     'licenses.legalText': '법률 텍스트',
-    'licenses.chooser.back': '뒤로',
     'licenses.chooser.select': '이 라이선스 선택',
     'licenses.commercial.title': '상업용 라이선스 정보',
     'licenses.commercial.exclusive': '이 독점 라이선스를 통해 문학세계는 회원님의 수익에서 10%의 수수료를 가져갑니다. 즉, 회원님은 저희 플랫폼에서 작품으로 발생한 수익의 90%를 받게 됩니다.',
