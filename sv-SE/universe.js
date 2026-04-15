@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Författare',
     'universe.authors.desc': 'Skapare och bidragsgivare till {universe}',
     'universe.contributors': 'Bidragsgivare',
-    'universe.translators': 'Översättare',
     'universe.authors.notice': 'Varje berättelse kan ha ytterligare personer som har arbetat på den. För mer detaljer se berättelsens detaljer.',
     'universe.createdBy': `{gender, select,
     male {Skapat av}
