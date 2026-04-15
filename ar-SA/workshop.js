@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'تحميل ... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'تم تحميل ملف معاينة الناشر لهذه القصة.',
     'workshop.story.publisherPreview.replace': 'استبدال الملف',
-    'workshop.story.publisherPreview.remove': 'إزالة',
     // Story monetization
     'workshop.monetization.addCurrency': 'إضافة عملة أخرى مدعومة',
     'workshop.monetization.arcDescription': 'وصف القوس (كما هو موضح في شريط الدفع)',
