@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Detta kapitel kräver inköp',
     'reader.purchaseGate.description': 'För att fortsätta läsa {storyTitle}{authorName, select, undefined {} other { av {authorName}}}måste du köpa den.',
-    'reader.purchaseGate.buyFullStory': 'Köp hela artikeln',
     'reader.purchaseGate.buyArc': 'Eller köp denna båge',
-    'reader.purchaseGate.buying': 'Omdirigering till kassan...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} kapitel} other {{count} kapitel}} ingår',
-    'reader.purchaseGate.loginRequired': 'Logga in för att köpa den här artikeln.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} kapitel} other {{count} kapitel}} ingår'
 };
