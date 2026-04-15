@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Δημιουργήθηκε στις {generatedAt, date, medium} στο {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'Η δημιουργία EPUB απέτυχε.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Αποθηκεύστε πρώτα αυτό το τόξο για να ενεργοποιήσετε τη δημιουργία EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Οι εξωτερικές διευθύνσεις URL είναι απενεργοποιημένες για ιστορίες με άδεια του Λογοτεχνικού Σύμπαντος. Αντ\' αυτού, ανεβάστε αρχεία, ώστε να παραμείνουν σε κρυπτογραφημένη αποθήκευση.',
     'workshop.story.alternateFormats.fullStory.title': 'Ολόκληρο το αρχείο της ιστορίας',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Συνεχής πρόσβαση',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Όλα τα διαθέσιμα κεφάλαια',
