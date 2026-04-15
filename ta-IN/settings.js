@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'உங்கள் நாட்டைத் தேர்ந்தெடுக்கவும்',
     'settings.emailSubscriptions.newsletterTech': 'எங்கள் டெவலப்பர்களிடமிருந்து அவ்வப்போது செய்திமடல்',
     'settings.emailSubscriptions.newsletterFeatures': 'புதிய அம்சங்கள் பற்றிய தகவல்',
-    'settings.emailNotifications.title': 'அறிவிப்புகள்',
     'settings.emailNotifications.pm': 'புதிய செய்திகள்',
     'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
     'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
