@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Gabh leis an imeacht',
   'events.selection.origin': 'Tús an imeachta',
-  'events.origin.universe': 'Domhan',
   'events.origin.author': 'Údar',
-  'events.origin.groups': 'Grúpaí',
   'events.origin.organizations': 'Eagraíochtaí',
   'events.origin.lu': 'Imeachtaí Domhanda Litríochta',
   'events.visibility.label': 'Feidhmíocht na hócáide',
