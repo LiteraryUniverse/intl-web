@@ -99,5 +99,21 @@ export default {
     'story.buy.redirecting': 'Przekierowanie...',
     'story.price.free': 'Bezpłatnie',
     'story.price.owned': 'Własność',
-    'story.price.paid': 'Płatne'
+    'story.price.paid': 'Płatne',
+    'story.purchase.fullStory': 'Proszę kupić całą historię',
+    'story.purchase.byArc': 'lub kupić przez arc',
+    'story.purchase.includes': 'Zawiera wszystkie rozdziały {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Pierwszy rozdział jest darmowy do podglądu} other {Pierwszy {count} rozdziały są darmowe do podglądu}}',
+    'story.purchase.arcIncludes': 'Rozdziały {from}-{to}',
+    'story.purchase.savings': 'Proszę zapisać {amount}',
+    'story.purchase.allArcsCost': 'Wszystkie łuki osobno: {price}',
+    'story.purchase.owned': 'Jest Pan właścicielem tej historii',
+    'story.purchase.arcOwned': 'Własność',
+    'story.purchase.complete': 'Zakup zakończony! Mają Państwo teraz pełny dostęp do tej historii.',
+    'story.purchase.header': 'Proszę zapoznać się z tą historią',
+    'story.purchase.header.locked': 'Historia premium',
+    'story.purchase.forFullStory': 'dla pełnej historii',
+    'story.purchase.secureCheckout': 'Bezpieczne płatności przez Stripe',
+    'story.purchase.loginToBuy': 'Proszę się zalogować, aby dokonać zakupu',
+    'story.chapter.freePreviewEnds': 'Bezpłatny podgląd kończy się tutaj'
 };
