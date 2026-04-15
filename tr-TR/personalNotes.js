@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Bölüm {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} kişisel not',
   'personalNotes.searchResults': 'Arama Sonuçları',
-  'personalNotes.type.story': 'Hikaye',
-  'personalNotes.type.universe': 'Evren',
-  'personalNotes.type.chapter': 'Bölüm',
   'personalNotes.type.encEntry': 'Ansiklopedi Girişi',
   'personalNotes.type.revTextBlock': 'Düzeltme Metin Bloğu',
-  'personalNotes.chapter': 'Bölüm',
   'personalNotes.recentSearches': 'Son Aramalar:',
   'personalNotes.myNotes': 'Kişisel Notlarım',
   'personalNotes.hasNotes': 'Kişisel Notları Var'
