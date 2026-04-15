@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Згенеровано на {generatedAt, date, medium} за адресою {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'Генерація EPUB не вдалася.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Спочатку збережіть цю дугу, щоб увімкнути генерацію EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Зовнішні URL-адреси вимкнено для оповідань з ліцензією Літературного Всесвіту. Замість цього завантажуйте файли, щоб вони залишалися на зашифрованому сховищі.',
     'workshop.story.alternateFormats.fullStory.title': 'Повний файл історії',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Постійний доступ',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Всі доступні на даний момент розділи',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Встановіть, скільки розділів від початку вашої історії може прочитати будь-хто. Це допоможе залучити читачів.',
     'workshop.monetization.fullStoryPricing': 'Ціноутворення на повну історію',
     'workshop.monetization.lowPriceFee': 'Активна фіксована плата за низькими цінами.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Ще не визначено жодної сюжетної дуги. Додайте дуги у розділі "Дуги історії" вище.',
     'workshop.monetization.noCurrencies': 'Додайте валюту, щоб встановити ціни на це видання.',
     'workshop.monetization.originalEdition': 'Оригінал',
     'workshop.monetization.payoutSplits': 'Розщеплення виплат',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Пропонована частка доходу (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Ця сума буде вирахувана з вашої частки. Перед тим, як прийняти запрошення, запрошений повинен завершити налаштування виплат Stripe.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Сюжетні дуги',
+    'workshop.monetization.arcManagementHelp': 'Визначте дуги вашої історії, встановивши діапазони розділів. Кожна дуга може продаватися окремо.',
+    'workshop.monetization.saveArcs': 'Збереження дуг',
+    'workshop.monetization.arcsSaved': 'Структуру дуги збережено.',
+    'workshop.monetization.lowPriceWarning': 'За цією ціною застосовується мінімальна фіксована комісія. Ваша виплата буде нижчою, ніж стандартний {platformCut, number}% спліт. Розгляньте ціни на {thresholdPrice} або вище, щоб отримати найкращі виплати авторам.',
+    'workshop.monetization.recommendedPrice': 'Рекомендована ціна залежить від довжини історії ({wordCount, number} {countLabel}): {price}.'
 };
