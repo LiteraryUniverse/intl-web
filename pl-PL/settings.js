@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Wybierz kraj',
     'settings.emailSubscriptions.newsletterTech': 'Okazjonalny biuletyn od naszych deweloperów',
     'settings.emailSubscriptions.newsletterFeatures': 'Informacje o nowych funkcjach',
-    'settings.emailNotifications.title': 'Powiadomienia',
     'settings.emailNotifications.pm': 'Nowe wiadomości',
     'settings.emailNotifications.newChapters': 'Nowe rozdziały śledzonych przez Państwa historii',
     'settings.emailNotifications.newStories': 'Nowe historie w uniwersach lub od autorów, których śledzą Państwo na bieżąco',
