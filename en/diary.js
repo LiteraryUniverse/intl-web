@@ -49,6 +49,7 @@ export default {
 	'diary.settings.prompts': 'Writing Prompts',
 	'diary.settings.writingPromptsEnabled':
 		'Show writing prompts when starting a new diary entry',
+	'diary.settings.dashboard': 'Dashboard',
 	'diary.settings.showOnDashboard':
 		'Show diary reminder on the dashboard',
 
