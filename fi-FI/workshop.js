@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Määritä, kuinka monta lukua tarinasi alusta alkaen on vapaasti kaikkien luettavissa. Tämä auttaa houkuttelemaan lukijoita.',
     'workshop.monetization.fullStoryPricing': 'Koko tarina hinnoittelu',
     'workshop.monetization.lowPriceFee': 'Edullinen kiinteä maksu aktiivinen.',
-    'workshop.monetization.noArcs': 'Tarinakaaria ei ole vielä määritelty. Lisää kaaret ensin tarina-asetuksiin.',
+    'workshop.monetization.noArcs': 'Tarinakaaria ei ole vielä määritelty. Lisää kaaria yllä olevassa tarinakaaret-osiossa.',
     'workshop.monetization.noCurrencies': 'Lisää valuutat tämän painoksen hintojen asettamiseksi.',
     'workshop.monetization.originalEdition': 'Alkuperäinen',
     'workshop.monetization.payoutSplits': 'Maksunjako',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Tämä tarina on rahanarvoinen. Kutsujien on suoritettava Stripe-maksun asetukset loppuun ennen kuin he voivat hyväksyä. Voit ehdottaa tulo-osuutta alla - se otetaan sinun osuudestasi.',
     'workshop.collaborators.proposedSplit': 'Ehdotettu tulojen osuus (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Tämä otetaan osuudestasi. Kutsutun on suoritettava Stripe-maksun asetukset loppuun, ennen kuin hän voi hyväksyä maksun.'
+    'workshop.collaborators.splitFromOwnerShare': 'Tämä otetaan osuudestasi. Kutsutun on suoritettava Stripe-maksun asetukset loppuun, ennen kuin hän voi hyväksyä maksun.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Tarinakaaret',
+    'workshop.monetization.arcManagementHelp': 'Määrittele tarinasi kaaret asettamalla lukualueet. Jokainen kaari voidaan myydä erikseen.',
+    'workshop.monetization.saveArcs': 'Tallenna kaaret',
+    'workshop.monetization.arcsSaved': 'Kaarirakenne tallennettu.',
+    'workshop.monetization.lowPriceWarning': 'Tähän hintaan sovelletaan kiinteää vähimmäishintaa. Maksusi on pienempi kuin tavanomainen {platformCut, number}% jako. Harkitse hinnoittelua {thresholdPrice} tai sitä korkeammalla hinnalla saadaksesi parhaan voiton tekijälle.',
+    'workshop.monetization.recommendedPrice': 'Suositushinta perustuu tarinan pituuteen ({wordCount, number} {countLabel}): {price}.'
 };
