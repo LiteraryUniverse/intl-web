@@ -91,6 +91,7 @@ export default {
     'Occasional newsletter from our developers',
   'settings.emailSubscriptions.newsletterFeatures':
     'Information about new features',
+  'settings.emailNotifications.title': 'Notifications',
   'settings.emailNotifications.pm': 'New messages',
   'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
   'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
