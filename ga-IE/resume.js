@@ -61,7 +61,6 @@ export default {
   'resume.editor.awards.year': 'Bliain',
   'resume.editor.awards.desc': 'Cur síos',
   'resume.editor.awards.add': 'Cuir Gradam',
-  'resume.editor.awards.remove': 'Bain',
   // Theme
   'resume.editor.theme.heading': 'Achoimre Téama',
   'resume.editor.theme.description': 'Roghnaigh téama amhairc do do leathanach CV poiblí.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Cruthaigh Nasc Rochtana',
   'resume.access.createLink.comment': 'Trácht (roghnach)',
   'resume.access.createLink.language': 'Teanga an Leathanaigh',
-  'resume.access.createLink.create': 'Cruthaigh',
   'resume.access.noLinks': 'Níl aon naisc rochtana cruthaithe go fóill. Cruthaigh nasc chun do CV a roinnt.',
   'resume.access.copy': 'Cóipeáil',
   'resume.access.copied': 'Cóipeáilte!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Cruthaithe {date}',
   'resume.access.viewVisits': 'Féach ar mhionsonraí an turais',
   'resume.access.noVisits': 'Níl aon chuairt taifeadta go fóill.',
-  'resume.access.anonymousVisitor': 'Gan Ainm',
   'resume.access.onsite': 'Ar an láthair',
   'resume.access.visitNumber': '(tabhair cuairt ar #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
