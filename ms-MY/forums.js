@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Tiada sesiapa yang telah menjawab lagi. Jadilah yang pertama!',
   'forums.noThreads': 'Tiada apa-apa untuk dilihat di sini. Ia bergantung kepada anda untuk memulakan perbincangan.',
   'forums.openingPost': 'Pos pembukaan',
-  'forums.post': 'Hantar',
   'forums.post.new': 'Entri baru',
   'forums.posting': 'Sedang dipos...',
   'forums.reply': 'Balas',
