@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'متوسط التقييم {avgRating, number} من {reviewsNum, number} ~ مراجعة',
     // Story purchase
     'story.buy.button': 'اشترِ {price}',
-    'story.buy.confirm': 'أنت على وشك شراء هذا مقابل {price}. ستتم إعادة توجيهك إلى Stripe لإتمام عملية الدفع. أكمل؟',
     'story.buy.currency': 'عملة الشراء',
     'story.buy.error.generic': 'فشل الشراء',
-    'story.buy.loginRequired': 'تسجيل الدخول للشراء',
     'story.buy.redirecting': 'إعادة توجيه...',
     'story.price.free': 'مجاناً',
     'story.price.owned': 'مملوكة',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'للاطلاع على القصة كاملة',
     'story.purchase.secureCheckout': 'الدفع الآمن عبر Stripe',
     'story.purchase.loginToBuy': 'تسجيل الدخول للشراء',
+    'story.purchase.loginToBuyArcs': 'سجّل الدخول لشراء أقواس القصص الفردية',
+    'story.purchase.pricingUnavailable': 'معلومات التسعير غير متوفرة حالياً.',
+    'story.buy.error.timeout': 'انتهت مهلة الطلب. يرجى المحاولة مرة أخرى.',
     'story.chapter.freePreviewEnds': 'تنتهي المعاينة المجانية هنا'
 };
