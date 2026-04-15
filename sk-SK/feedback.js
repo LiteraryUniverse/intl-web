@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Navrhnúť novú funkciu',
     'feedback.lang.nosupport': 'Váš aktuálny jazyk nie je podporovaný pre spätnú väzbu, píšte prosím v angličtine. Ďakujeme!',
     'feedback.new.thanks': 'Ďakujeme za upozornenie! Čoskoro sa na to pozrieme.',
-    'feedback.comment.title': 'Komentár',
     'feedback.comment.desc': 'Pošlite nám spätnú väzbu',
     'feedback.comment.legend': 'Vaša spätná väzba - dajte nám vedieť o čomkoľvek',
     'feedback.comment.success': 'Ďakujeme za vašu spätnú väzbu!',
@@ -55,7 +54,6 @@ export default {
     story {príbeh}
     other {príbeh}
   } je porušený?`,
-    'feedback.help.overview': 'Prehľad',
     'feedback.help.articles': 'Články',
     'feedback.help.courses': 'Kurzy',
     'feedback.help.videoTutorials': 'Videonávody',
