@@ -61,7 +61,6 @@ export default {
   'resume.editor.awards.year': 'Év',
   'resume.editor.awards.desc': 'Leírás',
   'resume.editor.awards.add': 'Díj hozzáadása',
-  'resume.editor.awards.remove': 'Távolítsa el a',
   // Theme
   'resume.editor.theme.heading': 'Összefoglaló téma',
   'resume.editor.theme.description': 'Válasszon vizuális témát a nyilvános önéletrajz oldalához.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Hozzáférési link létrehozása',
   'resume.access.createLink.comment': 'Megjegyzés (nem kötelező)',
   'resume.access.createLink.language': 'Oldal Nyelv',
-  'resume.access.createLink.create': 'Hozzon létre',
   'resume.access.noLinks':
     'Még nem hoztak létre hozzáférési linkeket. Hozzon létre egy linket önéletrajzának megosztásához.',
   'resume.access.copy': 'Másolás',
@@ -110,7 +108,6 @@ export default {
   'resume.access.created': 'Létrehozva {date}',
   'resume.access.viewVisits': 'Látogatás részleteinek megtekintése',
   'resume.access.noVisits': 'Még nem rögzítettek látogatásokat.',
-  'resume.access.anonymousVisitor': 'Névtelen',
   'resume.access.onsite': 'Helyszíni',
   'resume.access.visitNumber': '(látogasson el a #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
