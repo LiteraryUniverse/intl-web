@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Omleiden...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Eigendom',
-    'story.price.paid': 'Betaald'
+    'story.price.paid': 'Betaald',
+    'story.purchase.fullStory': 'Het volledige verhaal kopen',
+    'story.purchase.byArc': 'of kopen met boog',
+    'story.purchase.includes': 'Bevat alle hoofdstukken op {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Eerste hoofdstuk is gratis te bekijken} other {Eerste {count} hoofdstukken zijn gratis te bekijken}}',
+    'story.purchase.arcIncludes': 'Hoofdstukken {from}-{to}',
+    'story.purchase.savings': 'Sla {amount}',
+    'story.purchase.allArcsCost': 'Alle bogen afzonderlijk: {price}',
+    'story.purchase.owned': 'Dit verhaal is van u',
+    'story.purchase.arcOwned': 'Eigendom',
+    'story.purchase.complete': 'Aankoop voltooid! U hebt nu volledige toegang tot dit verhaal.',
+    'story.purchase.header': 'Ontvang dit verhaal',
+    'story.purchase.header.locked': 'Premium verhaal',
+    'story.purchase.forFullStory': 'voor het volledige verhaal',
+    'story.purchase.secureCheckout': 'Beveiligd afrekenen via Stripe',
+    'story.purchase.loginToBuy': 'Log in om te kopen',
+    'story.chapter.freePreviewEnds': 'Gratis preview eindigt hier'
 };
