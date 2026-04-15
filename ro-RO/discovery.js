@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Parte a unui univers',
     'discover.search.rating': 'Clasificare de vârstă',
     'discover.search.license': 'Licență de drepturi de autor',
-    'discover.search.language': 'Limba',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Nu există universuri care să se potrivească cu parametrii tăi}
         one {1 univers găsit}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Această poveste este oferită doar ca o previzualizare a lucrării.',
     'discovery.includesAds': 'Include anunțuri',
     // AI content related strings
-    'discovery.ai.content': 'Conținut generat de inteligența artificială',
     'discovery.ai.universes': 'Universuri generate de inteligența artificială',
     'discovery.ai.stories': 'Povești generate de inteligența artificială',
     'discovery.ai.noContent': 'Nu există încă conținut generat de AI disponibil.',
