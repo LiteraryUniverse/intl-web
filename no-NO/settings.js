@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Velg ditt land',
     'settings.emailSubscriptions.newsletterTech': 'Periodisk nyhetsbrev fra utviklerne våre',
     'settings.emailSubscriptions.newsletterFeatures': 'Informasjon om nye funksjoner',
-    'settings.emailNotifications.title': 'Varsler',
     'settings.emailNotifications.pm': 'Nye meldinger',
     'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
     'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
