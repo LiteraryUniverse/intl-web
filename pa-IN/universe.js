@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'ਲੇਖਕ',
     'universe.authors.desc': '{universe}ਦੇ ਸਰਗਰਮ ਅਤੇ ਯੋਗਦਾਨਕਾਰ',
     'universe.contributors': 'ਯੋਗਦਾਨਕਾਰ',
-    'universe.translators': 'ਅਨੁਵਾਦਕ',
     'universe.authors.notice': 'ਹਰ ਕਹਾਣੀ ਵਿੱਚ ਵਿਆਕਰਾਨਕ ਅਤੇ ਹੋਰ ਸ਼ਖਸੀਅਤ ਵੀ ਹੋ ਸਕਦੀ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਹਾਣੀ ਦੀ ਵੇਰਵਾ ਵੇਖੋ।',
     'universe.createdBy': `{gender, select,
     male {ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ}
