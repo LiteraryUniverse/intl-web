@@ -61,7 +61,6 @@ export default {
   'resume.editor.awards.year': 'ஆண்டு',
   'resume.editor.awards.desc': 'விளக்கம்',
   'resume.editor.awards.add': 'விருதைச் சேர்',
-  'resume.editor.awards.remove': 'நீக்கு',
   // Theme
   'resume.editor.theme.heading': 'தொடர் தலைப்பு',
   'resume.editor.theme.description': 'உங்கள் பொது ரெஸ்யூமே பக்கத்திற்கு ஒரு காட்சி கருப்பொருளைத் தேர்ந்தெடுக்கவும்.',
@@ -99,7 +98,6 @@ export default {
   'resume.access.createLink.title': 'அணுகல் இணைப்பை உருவாக்குக',
   'resume.access.createLink.comment': 'கருத்து (விருப்பத்திற்குரியது)',
   'resume.access.createLink.language': 'பக்க மொழி',
-  'resume.access.createLink.create': 'உருவாக்கு',
   'resume.access.noLinks':
     'இன்னும் அணுகல் இணைப்புகள் உருவாக்கப்படவில்லை. உங்கள் ரெஸ்யூமேயைப் பகிர ஒரு இணைப்பை உருவாக்கவும்.',
   'resume.access.copy': 'நகலெடு',
@@ -111,7 +109,6 @@ export default {
   'resume.access.created': 'உருவாக்கப்பட்டது {date}',
   'resume.access.viewVisits': 'பார்வை விவரங்களைப் பார்க்கவும்',
   'resume.access.noVisits': 'இதுவரை பார்வைகள் எதுவும் பதிவு செய்யப்படவில்லை.',
-  'resume.access.anonymousVisitor': 'அடையாளம் தெரியாத',
   'resume.access.onsite': 'தளத்தில்',
   'resume.access.visitNumber': '( #{number} ஐப் பார்வையிடவும்)',
   // ── Public Resume Page ──────────────────────────────────────────────────────
