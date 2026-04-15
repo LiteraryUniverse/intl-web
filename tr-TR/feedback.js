@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Yeni bir özellik öner',
     'feedback.lang.nosupport': 'Mevcut diliniz geri bildirim için desteklenmiyor, lütfen İngilizce yazın. Teşekkür ederiz!',
     'feedback.new.thanks': 'Bildirim için teşekkür ederiz! Kısa süre içinde ilgileneceğiz.',
-    'feedback.comment.title': 'Yorum',
     'feedback.comment.desc': 'Bize geri bildirim gönderin',
     'feedback.comment.legend': 'Geri bildiriminiz - herhangi bir şey hakkında bize bilgi verin',
     'feedback.comment.success': 'Geri bildiriminiz için teşekkür ederiz!',
@@ -55,7 +54,6 @@ export default {
     story {hikayesi}
     other {hikayesi}
   } ihlal ediliyor?`,
-    'feedback.help.overview': 'Genel Bakış',
     'feedback.help.articles': 'Makaleler',
     'feedback.help.courses': 'Kurslar',
     'feedback.help.videoTutorials': 'Video eğitimleri',
