@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'הצטרף לאירוע',
   'events.selection.origin': 'מקור האירוע',
-  'events.origin.universe': 'יקום',
   'events.origin.author': 'מחבר',
-  'events.origin.groups': 'קבוצות',
   'events.origin.organizations': 'ארגונים',
   'events.origin.lu': 'אירועים ביקום הספרותי',
   'events.visibility.label': 'ראות האירוע',
