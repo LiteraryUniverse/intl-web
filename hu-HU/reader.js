@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Ehhez az árucsoporthoz vásárlás szükséges',
     'reader.purchaseGate.description': 'Az olvasás folytatásához {storyTitle}{authorName, select, undefined {} other { által {authorName}}}, meg kell vásárolni.',
-    'reader.purchaseGate.buyFullStory': 'Teljes történet megvásárlása',
     'reader.purchaseGate.buyArc': 'Vagy vedd meg ezt az ívet',
-    'reader.purchaseGate.buying': 'Átirányítás a pénztárhoz...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} fejezet} other {{count} fejezetek}} tartalmazza.',
-    'reader.purchaseGate.loginRequired': 'Kérjük, jelentkezzen be, hogy megvásárolhassa ezt a történetet.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} fejezet} other {{count} fejezetek}} tartalmazza.'
 };
