@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'שתף עם...',
     'sharing.feedback': 'האם אנחנו מפספסים מקום שתרצה לשתף אליו? ספר לנו על זה!',
     'sharing.copy': 'העתקה',
-    'sharing.email': 'דוא"ל',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'מסר בפייסבוק',
     'sharing.whatsapp': 'WhatsApp',
