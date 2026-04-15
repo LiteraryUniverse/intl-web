@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Įkėlimas... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Įkeltas šios istorijos leidėjo peržiūros failas.',
     'workshop.story.publisherPreview.replace': 'Pakeisti failą',
-    'workshop.story.publisherPreview.remove': 'Pašalinti',
     // Story monetization
     'workshop.monetization.addCurrency': 'Pridėti kitą palaikomą valiutą',
     'workshop.monetization.arcDescription': 'Lanko aprašymas (rodomas "Stripe" kasoje)',
