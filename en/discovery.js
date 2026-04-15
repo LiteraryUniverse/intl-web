@@ -33,6 +33,7 @@ export default {
   'story.universeRelation.universe': 'Part of a universe',
   'discover.search.rating': 'Age rating',
   'discover.search.license': 'Copyright license',
+  'discover.search.language': 'Language',
   'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
@@ -71,6 +72,7 @@ export default {
   'discovery.includesAds': 'Includes Ads',
 
   // AI content related strings
+  'discovery.ai.content': 'AI-Generated Content',
   'discovery.ai.universes': 'AI-Generated Universes',
   'discovery.ai.stories': 'AI-Generated Stories',
   'discovery.ai.noContent': 'No AI-generated content available yet.',
