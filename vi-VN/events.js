@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Tham gia sự kiện',
   'events.selection.origin': 'Nguồn gốc sự kiện',
-  'events.origin.universe': 'Vũ trụ',
   'events.origin.author': 'Tác giả',
-  'events.origin.groups': 'Nhóm',
   'events.origin.organizations': 'Tổ chức',
   'events.origin.lu': 'Sự kiện Vũ trụ Văn học',
   'events.visibility.label': 'Tầm nhìn sự kiện',
