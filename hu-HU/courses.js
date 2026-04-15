@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'Meghívjuk Önt, hogy vegyen részt a {count, plural, one {tanfolyam} other {tanfolyamok}}.',
   'courses.invites.noInvites': 'Jelenleg nincsenek tanfolyami meghívóid.',
   'courses.invites.invitedBy': 'Meghívott:: ',
-  'courses.invites.accept': 'Elfogadom',
-  'courses.invites.reject': 'Visszautasítani',
   'course.join.heading': 'Csatlakozzon ehhez a tanfolyamhoz',
   'course.oneTimePayment': 'Egyszeri fizetés a teljes hozzáférésért',
   'course.member': 'Beiratkozott',
