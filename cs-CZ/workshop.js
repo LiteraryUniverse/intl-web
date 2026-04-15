@@ -574,7 +574,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Nahrávání... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'K tomuto příběhu byl nahrán soubor s náhledem pro vydavatele.',
     'workshop.story.publisherPreview.replace': 'Nahradit soubor',
-    'workshop.story.publisherPreview.remove': 'Odstranění stránky',
     // Story monetization
     'workshop.monetization.addCurrency': 'Přidání další podporované měny',
     'workshop.monetization.arcDescription': 'Popis oblouku (zobrazeno v pokladně Stripe)',
