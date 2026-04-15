@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Încărcare... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Pentru acest articol a fost încărcat un fișier de previzualizare pentru editor.',
     'workshop.story.publisherPreview.replace': 'Înlocuiți fișierul',
-    'workshop.story.publisherPreview.remove': 'Eliminați',
     // Story monetization
     'workshop.monetization.addCurrency': 'Adăugați o altă monedă acceptată',
     'workshop.monetization.arcDescription': 'Descrierea arcului (afișată în caseta de verificare Stripe)',
