@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generat pe {generatedAt, date, medium} la {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'Generarea EPUB a eșuat.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Salvați mai întâi acest arc pentru a activa generarea EPUB.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'URL-urile externe sunt dezactivate pentru povestirile cu licență Literary Universe. Încărcați fișiere în schimb, astfel încât acestea să rămână pe stocare criptată.',
     'workshop.story.alternateFormats.fullStory.title': 'Știre completă',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Acces permanent',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Toate capitolele disponibile în prezent',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Stabiliți câte capitole de la începutul poveștii dvs. pot fi citite gratuit de oricine. Acest lucru ajută la atragerea cititorilor.',
     'workshop.monetization.fullStoryPricing': 'Povestea completă a prețurilor',
     'workshop.monetization.lowPriceFee': 'Taxă forfetară la preț redus activă.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Încă nu sunt definite arcuri de poveste. Adăugați arce în secțiunea arce de poveste de mai sus.',
     'workshop.monetization.noCurrencies': 'Adăugați monede pentru a stabili prețurile pentru această ediție.',
     'workshop.monetization.originalEdition': 'Original',
     'workshop.monetization.payoutSplits': 'Repartizarea plăților',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Cota de venit propusă (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Aceasta va fi luată din cota dvs. Invitatul trebuie să finalizeze configurarea plății Stripe înainte de a putea accepta.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Arce de poveste',
+    'workshop.monetization.arcManagementHelp': 'Definiți arcele poveștii dvs. prin setarea intervalelor de capitole. Fiecare arc poate fi vândut separat.',
+    'workshop.monetization.saveArcs': 'Salvare arcuri',
+    'workshop.monetization.arcsSaved': 'Structura arcului salvată.',
+    'workshop.monetization.lowPriceWarning': 'La acest preț, se aplică tariful minim fix. Plata dvs. va fi mai mică decât împărțirea standard {platformCut, number}%. Luați în considerare stabilirea prețului la {thresholdPrice} sau peste pentru a obține cel mai bun câștig pentru creator.',
+    'workshop.monetization.recommendedPrice': 'Preț recomandat în funcție de lungimea povestirii ({wordCount, number} {countLabel}): {price}.'
 };
