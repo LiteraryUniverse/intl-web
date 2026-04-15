@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'See peatükk eeldab ostmist',
     'reader.purchaseGate.description': 'Et jätkata lugemist {storyTitle}{authorName, select, undefined {} other { poolt {authorName}}}, peate selle ostma.',
-    'reader.purchaseGate.buyFullStory': 'Osta kogu lugu',
     'reader.purchaseGate.buyArc': 'Või osta see kaar',
-    'reader.purchaseGate.buying': 'Ümbersuunamine kassasse...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} peatükk} other {{count} peatükid}} lisatud',
-    'reader.purchaseGate.loginRequired': 'Selle loo ostmiseks logige sisse.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} peatükk} other {{count} peatükid}} lisatud'
 };
