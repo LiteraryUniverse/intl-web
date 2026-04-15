@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Este capítulo requer a compra',
     'reader.purchaseGate.description': 'Para continuar lendo {storyTitle}{authorName, select, undefined {} other { por {authorName}}}, o senhor precisa comprá-lo.',
-    'reader.purchaseGate.buyFullStory': 'Comprar a história completa',
     'reader.purchaseGate.buyArc': 'Ou compre este arco',
-    'reader.purchaseGate.buying': 'Redirecionando para o checkout...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} capítulo} other {{count} capítulos}} incluído',
-    'reader.purchaseGate.loginRequired': 'Faça login para comprar esta história.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} capítulo} other {{count} capítulos}} incluído'
 };
