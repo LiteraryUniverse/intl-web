@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'Az EPUB generálás sikertelen.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Az EPUB-generálás engedélyezéséhez először mentse el ezt az ívet.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'A külső URL-ek letiltva vannak az Irodalmi Univerzum által engedélyezett történetek esetében. Helyette töltsön fel fájlokat, így azok titkosított tárhelyen maradnak.',
     'workshop.story.alternateFormats.fullStory.title': 'Teljes történet fájl',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Folyamatos hozzáférés',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Az összes jelenleg elérhető fejezet',
