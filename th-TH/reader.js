@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'บทนี้ต้องซื้อ',
     'reader.purchaseGate.description': 'หากต้องการอ่านต่อ {storyTitle}{authorName, select, undefined {} other { โดย {authorName}}}คุณจำเป็นต้องซื้อ',
-    'reader.purchaseGate.buyFullStory': 'ซื้อเรื่องเต็ม',
     'reader.purchaseGate.buyArc': 'หรือซื้อส่วนนี้',
-    'reader.purchaseGate.buying': 'กำลังเปลี่ยนเส้นทางไปยังหน้าชำระเงิน...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} บทที่} other {{count} บทที่}} รวมอยู่ด้วย',
-    'reader.purchaseGate.loginRequired': 'กรุณาเข้าสู่ระบบเพื่อซื้อเรื่องนี้'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} บทที่} other {{count} บทที่}} รวมอยู่ด้วย'
 };
