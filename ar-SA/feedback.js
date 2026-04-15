@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'اقتراح ميزة جديدة',
     'feedback.lang.nosupport': 'لغتك الحالية غير مدعومة للملاحظات، يُرجى الكتابة باللغة الإنجليزية. شكرًا لك!',
     'feedback.new.thanks': 'شكراً على الملاحظة! سننظر في الأمر قريباً.',
-    'feedback.comment.title': 'تعليق',
     'feedback.comment.desc': 'أرسل لنا ملاحظاتك',
     'feedback.comment.legend': 'ملاحظاتك - اسمح لنا أن نعرف عن أي شيء',
     'feedback.comment.success': 'شكرًا على ملاحظاتك!',
@@ -55,7 +54,6 @@ export default {
     story {القصة}
     other {القصة}
   } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟`,
-    'feedback.help.overview': 'لمحة عامة',
     'feedback.help.articles': 'المقالات',
     'feedback.help.courses': 'الدورات التدريبية',
     'feedback.help.videoTutorials': 'فيديوهات تعليمية',
