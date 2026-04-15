@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': '{generatedAt, date, medium} 에서 {generatedAt, time, short} 생성됨',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB 생성에 실패했습니다.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': '이 아크를 먼저 저장하여 EPUB 생성을 활성화합니다.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': '문학 세계 라이선스 스토리의 경우 외부 URL이 비활성화됩니다. 대신 파일을 업로드하여 암호화된 저장소에 보관하세요.',
     'workshop.story.alternateFormats.fullStory.title': '전체 스토리 파일',
     'workshop.story.alternateFormats.ongoingAccess.title': '지속적인 액세스',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': '현재 사용 가능한 모든 챕터',
