@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Рейтинг',
     'rating.explained': 'Віковий ценз та обмеження.',
-    'rating.all': 'Всі',
     'rating.desc.all': 'Доступний для всіх вікових категорій та груп.',
     'rating.teens': 'Підлітки',
     'rating.desc.teens': 'Підходить для аудиторії віком від 12 до 18 років.',
