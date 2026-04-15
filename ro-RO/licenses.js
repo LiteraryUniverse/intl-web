@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Înțeleg termenii și efectul juridic al CC0 asupra operei mele',
     'licenses.learnMore': 'Aflați mai multe',
     'licenses.legalText': 'Text juridic',
-    'licenses.chooser.back': 'Înapoi',
     'licenses.chooser.select': 'Selectați această licență',
     'licenses.commercial.title': 'Informații privind licența comercială',
     'licenses.commercial.exclusive': 'Cu această licență exclusivă, Literary Universe va percepe o taxă de 10% din câștigurile tale. Acest lucru înseamnă că veți primi 90% din veniturile generate de lucrările dvs. pe platforma noastră.',
