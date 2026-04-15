@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Έτος',
   'resume.editor.awards.desc': 'Περιγραφή',
   'resume.editor.awards.add': 'Προσθήκη βραβείου',
-  'resume.editor.awards.remove': 'Αφαιρέστε το',
   // Theme
   'resume.editor.theme.heading': 'Θέμα βιογραφικού σημειώματος',
   'resume.editor.theme.description': 'Επιλέξτε ένα οπτικό θέμα για τη δημόσια σελίδα του βιογραφικού σας.',
@@ -99,7 +98,6 @@ export default {
   'resume.access.createLink.title': 'Δημιουργία συνδέσμου πρόσβασης',
   'resume.access.createLink.comment': 'Σχόλιο (προαιρετικό)',
   'resume.access.createLink.language': 'Σελίδα Γλώσσα',
-  'resume.access.createLink.create': 'Δημιουργία',
   'resume.access.noLinks':
     'Δεν έχουν δημιουργηθεί ακόμη σύνδεσμοι πρόσβασης. Δημιουργήστε έναν σύνδεσμο για να μοιραστείτε το βιογραφικό σας.',
   'resume.access.copy': 'Αντιγραφή',
@@ -111,7 +109,6 @@ export default {
   'resume.access.created': 'Δημιουργήθηκε {date}',
   'resume.access.viewVisits': 'Προβολή λεπτομερειών επίσκεψης',
   'resume.access.noVisits': 'Δεν έχουν καταγραφεί ακόμη επισκέψεις.',
-  'resume.access.anonymousVisitor': 'Ανώνυμος',
   'resume.access.onsite': 'Επί τόπου',
   'resume.access.visitNumber': '(επισκεφθείτε το #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
