@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'இந்த அத்தியாயத்தை வாங்க வேண்டும்',
     'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
-    'reader.purchaseGate.buyFullStory': 'முழு கதையையும் வாங்குங்கள்',
     'reader.purchaseGate.buyArc': 'அல்லது இந்த ஆர்க்கை வாங்குங்கள்',
-    'reader.purchaseGate.buying': 'செக் அவுட்டிற்கு திருப்பிவிடுகிறது...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} அத்தியாயம்} other {{count} அத்தியாயங்கள்}} சேர்க்கப்பட்டுள்ளது',
-    'reader.purchaseGate.loginRequired': 'இந்தக் கதையை வாங்க, தயவுசெய்து உள்நுழையவும்.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} அத்தியாயம்} other {{count} அத்தியாயங்கள்}} சேர்க்கப்பட்டுள்ளது'
 };
