@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Uudelleenohjaus...',
     'story.price.free': 'Vapaa',
     'story.price.owned': 'Omistettu',
-    'story.price.paid': 'Maksettu'
+    'story.price.paid': 'Maksettu',
+    'story.purchase.fullStory': 'Osta koko tarina',
+    'story.purchase.byArc': 'tai ostaa arc',
+    'story.purchase.includes': 'Sisältää kaikki {chaptersCount} luvut',
+    'story.purchase.freePreview': '{count, plural, one {Ensimmäinen luku on vapaasti esikatseltavissa} other {Ensimmäiset {count} luvut ovat vapaasti esikatseltavissa}}',
+    'story.purchase.arcIncludes': 'Luvut {from}-{to}',
+    'story.purchase.savings': 'Tallenna {amount}',
+    'story.purchase.allArcsCost': 'Kaikki kaaret erikseen: {price}',
+    'story.purchase.owned': 'Omistat tämän tarinan',
+    'story.purchase.arcOwned': 'Omistettu',
+    'story.purchase.complete': 'Osto valmis! Sinulla on nyt täysi pääsy tähän tarinaan.',
+    'story.purchase.header': 'Lue tämä juttu',
+    'story.purchase.header.locked': 'Premium-tarina',
+    'story.purchase.forFullStory': 'koko juttu',
+    'story.purchase.secureCheckout': 'Turvallinen kassa Stripen kautta',
+    'story.purchase.loginToBuy': 'Kirjaudu sisään ostaaksesi',
+    'story.chapter.freePreviewEnds': 'Ilmainen esikatselu päättyy tähän'
 };
