@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': '{reviewsNum, number} समीक्षा से {avgRating, number} की औसत रेटिंग',
     // Story purchase
     'story.buy.button': 'के लिए खरीदें {price}',
-    'story.buy.confirm': 'आप {price}के लिए यह खरीदने वाले हैं। भुगतान पूरा करने के लिए आपको Stripe पर रीडायरेक्ट किया जाएगा। जारी रखें?',
     'story.buy.currency': 'मुद्रा खरीदें',
     'story.buy.error.generic': 'खरीद विफल हो गई',
-    'story.buy.loginRequired': 'खरीदने के लिए लॉग इन करें',
     'story.buy.redirecting': 'पुनर्निर्देशित हो रहा है...',
     'story.price.free': 'नि:शुल्क',
     'story.price.owned': 'स्वामित्व',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'पूरी कहानी के लिए',
     'story.purchase.secureCheckout': 'Stripe के माध्यम से सुरक्षित चेकआउट',
     'story.purchase.loginToBuy': 'खरीदने के लिए लॉग इन करें',
+    'story.purchase.loginToBuyArcs': 'व्यक्तिगत स्टोरी आर्क खरीदने के लिए लॉग इन करें',
+    'story.purchase.pricingUnavailable': 'मूल्य की जानकारी वर्तमान में उपलब्ध नहीं है।',
+    'story.buy.error.timeout': 'अनुरोध समय-सीमा समाप्त हो गया। कृपया फिर से प्रयास करें।',
     'story.chapter.freePreviewEnds': 'मुफ्त पूर्वावलोकन यहीं समाप्त होता है'
 };
