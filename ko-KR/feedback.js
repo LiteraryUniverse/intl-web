@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': '새로운 기능 제안',
     'feedback.lang.nosupport': '현재 언어는 피드백을 지원하지 않습니다. 영어로 작성해주세요. 감사합니다!',
     'feedback.new.thanks': '알려주셔서 감사합니다! 곧 검토해 보겠습니다.',
-    'feedback.comment.title': '댓글',
     'feedback.comment.desc': '의견 보내기',
     'feedback.comment.legend': '의견 - 무엇이든 알려주세요',
     'feedback.comment.success': '의견 주셔서 감사합니다!',
@@ -55,7 +54,6 @@ export default {
     story {스토리}
     other {스토리}
   } 의 저작권이 침해되고 있나요?`,
-    'feedback.help.overview': '개요',
     'feedback.help.articles': '기사',
     'feedback.help.courses': '코스',
     'feedback.help.videoTutorials': '동영상 튜토리얼',
