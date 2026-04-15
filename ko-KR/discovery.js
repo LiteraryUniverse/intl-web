@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': '평균 평점 {avgRating, number} 에서 {reviewsNum, number} 리뷰',
     // Story purchase
     'story.buy.button': '구매하기 {price}',
-    'story.buy.confirm': '{price}에 구매하려고 합니다. 결제를 완료하기 위해 Stripe로 리디렉션됩니다. 계속하시겠습니까?',
     'story.buy.currency': '구매 통화',
     'story.buy.error.generic': '구매 실패',
-    'story.buy.loginRequired': '구매하려면 로그인',
     'story.buy.redirecting': '리디렉션...',
     'story.price.free': '무료',
     'story.price.owned': '소유',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': '전체 스토리 보기',
     'story.purchase.secureCheckout': 'Stripe을 통한 보안 결제',
     'story.purchase.loginToBuy': '구매하려면 로그인',
+    'story.purchase.loginToBuyArcs': '개별 스토리 아크를 구매하려면 로그인하세요.',
+    'story.purchase.pricingUnavailable': '현재 가격 정보는 제공되지 않습니다.',
+    'story.buy.error.timeout': '요청 시간이 초과되었습니다. 다시 시도해 주세요.',
     'story.chapter.freePreviewEnds': '무료 미리 보기는 여기서 종료됩니다.'
 };
