@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'अभी तक कोई जवाब नहीं आया है। पहले आप ही जवाब दें!',
   'forums.noThreads': 'यहाँ कुछ देखने के लिए नहीं है। चर्चा शुरू करना आप पर ही है।',
   'forums.openingPost': 'ओपनिंग पोस्ट',
-  'forums.post': 'पोस्ट',
   'forums.post.new': 'नया पोस्ट',
   'forums.posting': 'पोस्ट कर रहा है...',
   'forums.reply': 'जवाब दें',
