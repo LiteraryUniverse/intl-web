@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': 'Zveme vás k účasti na {count, plural, one {kurzu} other {kurzech}}.',
   'courses.invites.noInvites': 'V současné době nemáte žádné pozvánky na kurzy.',
   'courses.invites.invitedBy': 'Pozvání přijal: ',
-  'courses.invites.accept': 'Přijmout',
-  'courses.invites.reject': 'Odmítnout',
   'course.join.heading': 'Připojte se k tomuto kurzu',
   'course.oneTimePayment': 'Jednorázová platba za plný přístup',
   'course.member': 'Jste zapsáni',
