@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': '장 {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} 개인 메모',
   'personalNotes.searchResults': '검색 결과',
-  'personalNotes.type.story': '이야기',
-  'personalNotes.type.universe': '유니버스',
-  'personalNotes.type.chapter': '장',
   'personalNotes.type.encEntry': '백과사전 항목',
   'personalNotes.type.revTextBlock': '개정 텍스트 블록',
-  'personalNotes.chapter': '장',
   'personalNotes.recentSearches': '최근 검색:',
   'personalNotes.myNotes': '내 개인 노트',
   'personalNotes.hasNotes': '개인 메모 있음'
