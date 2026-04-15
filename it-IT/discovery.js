@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Valutazione media di {avgRating, number} da {reviewsNum, number} recensione',
     // Story purchase
     'story.buy.button': 'Acquisti per {price}',
-    'story.buy.confirm': 'Sta per acquistare questo prodotto per {price}. Verrà reindirizzato a Stripe per completare il pagamento. Continuare?',
     'story.buy.currency': 'Valuta di acquisto',
     'story.buy.error.generic': 'Acquisto fallito',
-    'story.buy.loginRequired': 'Effettui il login per acquistare',
     'story.buy.redirecting': 'Reindirizzare...',
     'story.price.free': 'Gratuito',
     'story.price.owned': 'Di proprietà',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'per la storia completa',
     'story.purchase.secureCheckout': 'Cassa sicura tramite Stripe',
     'story.purchase.loginToBuy': 'Effettui il login per acquistare',
+    'story.purchase.loginToBuyArcs': 'Effettui il login per acquistare i singoli archi narrativi',
+    'story.purchase.pricingUnavailable': 'Le informazioni sui prezzi non sono attualmente disponibili.',
+    'story.buy.error.timeout': 'La richiesta è scaduta. La preghiamo di riprovare.',
     'story.chapter.freePreviewEnds': 'L\'anteprima gratuita termina qui'
 };
