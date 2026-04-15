@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'დააყენეთ, თხრობის დასაწყისიდან რამდენი თავია ყველასთვის უფასოდ წასაკითხი. ეს მკითხველების მოზიდვას უწყობს ხელს.',
     'workshop.monetization.fullStoryPricing': 'სრული ამბის ფასი',
     'workshop.monetization.lowPriceFee': 'აქტიური დაბალი ფასი.',
-    'workshop.monetization.noArcs': 'ისტორიის არკები ჯერ არ არის განსაზღვრული. პირველ რიგში დაამატეთ არკები თქვენი ისტორიის პარამეტრებში.',
+    'workshop.monetization.noArcs': 'ისტორიის არკები ჯერ არ არის განსაზღვრული. დაამატეთ არკები ზემოთ, "ისტორიის არკების" სექციაში.',
     'workshop.monetization.noCurrencies': 'დაამატეთ ვალუტები ამ გამოცემისთვის ფასების დასაწესებლად.',
     'workshop.monetization.originalEdition': 'ორიგინალი',
     'workshop.monetization.payoutSplits': 'გადახდების დაყოფა',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'ეს ამბავი მონეტიზებულია. მოწვეულებმა თანხის გატანის Stripe-ის პარამეტრების დაყენება უნდა დაასრულონ, სანამ თანხმობას იტყვიან. ქვემოთ შეგიძლიათ შემოსავლის განაწილების წინადადება მისცეთ — ის თქვენი წილიდან იქნება გამოქვითული.',
     'workshop.collaborators.proposedSplit': 'შემოსავლების განაწილების შემოთავაზებული წილი (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'ეს თქვენი წილიდან ჩამოიჭრება. მიწვეულმა პირმა თანხის გაცემის Stripe-ის პარამეტრები უნდა დაასრულოს, სანამ თანხმობას განაცხადებს.'
+    'workshop.collaborators.splitFromOwnerShare': 'ეს თქვენი წილიდან ჩამოიჭრება. მიწვეულმა პირმა თანხის გაცემის Stripe-ის პარამეტრები უნდა დაასრულოს, სანამ თანხმობას განაცხადებს.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'სიუჟეტის ხაზები',
+    'workshop.monetization.arcManagementHelp': 'განსაზღვრეთ თქვენი ისტორიის არკები თავების დიაპაზონების დადგენით. თითოეული არკის ცალ-ცალკე გაყიდვა შესაძლებელია.',
+    'workshop.monetization.saveArcs': 'არკების შენახვა',
+    'workshop.monetization.arcsSaved': 'არკის სტრუქტურა შენახულია.',
+    'workshop.monetization.lowPriceWarning': 'ამ ფასად მოქმედებს მინიმალური ფიქსირებული გადასახადი. თქვენი გადახდა სტანდარტულ {platformCut, number}%-იან გაყოფაზე ნაკლები იქნება. შემქმნელის საუკეთესო გადახდისთვის განიხილეთ ფასი {thresholdPrice} -დან ან მეტი.',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
