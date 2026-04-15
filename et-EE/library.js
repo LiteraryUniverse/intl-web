@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Oled lugenud {readPercent, number, ::percent} lugu.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Palun sisestage otsingusõnad või rakendage filtreid',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Ostetud lood'
 };
