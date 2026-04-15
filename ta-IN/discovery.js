@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': '{reviewsNum, number} விமர்சனத்திலிருந்து {avgRating, number} இன் சராசரி மதிப்பீடு',
     // Story purchase
     'story.buy.button': 'வாங்குவது {price}',
-    'story.buy.confirm': 'நீங்கள் இதை {price}-க்காக வாங்கவிருக்கிறீர்கள். பணப்பரிவர்த்தனையை முடிக்க நீங்கள் ஸ்ட்ரைப் தளத்திற்கு திருப்பிவிடப்படுவீர்கள். தொடரலாமா?',
     'story.buy.currency': 'வாங்குவதற்கான நாணயம்',
     'story.buy.error.generic': 'வாங்குவதில் தோல்வி',
-    'story.buy.loginRequired': 'வாங்குவதற்கு உள்நுழையவும்',
     'story.buy.redirecting': 'மறுதிசைதிருப்புகிறது...',
     'story.price.free': 'இலவசம்',
     'story.price.owned': 'சொந்தமானது',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'முழுமையான கதைக்கு',
     'story.purchase.secureCheckout': 'ஸ்ட்ரைப் வழியாக பாதுகாப்பான செக் அவுட்',
     'story.purchase.loginToBuy': 'வாங்குவதற்கு உள்நுழையவும்',
+    'story.purchase.loginToBuyArcs': 'தனிப்பட்ட கதைத் தொடர்களை வாங்க உள்நுழையவும்',
+    'story.purchase.pricingUnavailable': 'விலைத் தகவல் தற்போது கிடைக்கவில்லை.',
+    'story.buy.error.timeout': 'கோரிக்கை காலாவதியானது. மீண்டும் முயற்சிக்கவும்.',
     'story.chapter.freePreviewEnds': 'இலவச முன்னோட்டம் இத்துடன் முடிகிறது'
 };
