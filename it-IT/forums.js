@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Ancora nessuna risposta. Sii il primo!',
   'forums.noThreads': 'Niente da vedere qui. Sta a te iniziare la conversazione.',
   'forums.openingPost': 'Post di apertura',
-  'forums.post': 'Post',
   'forums.post.new': 'Nuovo post',
   'forums.posting': 'Pubblicazione in corso...',
   'forums.reply': 'Rispondi',
