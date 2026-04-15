@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'ამ თავის შეძენა აუცილებელია',
     'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
-    'reader.purchaseGate.buyFullStory': 'სრული ამბის შეძენა',
     'reader.purchaseGate.buyArc': 'ან იყიდეთ ეს რკალი',
-    'reader.purchaseGate.buying': 'გადამისამართება გადახდის გვერდზე...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} თავი} other {{count} თავები}} შემავალი',
-    'reader.purchaseGate.loginRequired': 'ამ ისტორიის შესაძენად, გთხოვთ, შეხვიდეთ სისტემაში.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} თავი} other {{count} თავები}} შემავალი'
 };
