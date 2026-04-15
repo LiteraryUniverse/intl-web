@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Vurdering',
     'rating.explained': 'Aldersvurdering og begrensning.',
-    'rating.all': 'Alle',
     'rating.desc.all': 'Tilgjengelig for alle aldre og grupper.',
     'rating.teens': 'Tenåringer',
     'rating.desc.teens': 'Egnet for et publikum mellom 12 og 18 år.',
