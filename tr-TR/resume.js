@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Yıl',
   'resume.editor.awards.desc': 'Açıklama',
   'resume.editor.awards.add': 'Ödül Ekle',
-  'resume.editor.awards.remove': 'Kaldırmak',
   // Theme
   'resume.editor.theme.heading': 'Özgeçmiş Teması',
   'resume.editor.theme.description': 'Herkese açık özgeçmiş sayfanız için görsel bir tema seçin.',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'Erişim Bağlantısı Oluştur',
   'resume.access.createLink.comment': 'Yorum (isteğe bağlı)',
   'resume.access.createLink.language': 'Sayfa Dili',
-  'resume.access.createLink.create': 'Oluştur',
   'resume.access.noLinks':
     'Henüz erişim bağlantısı oluşturulmadı. Özgeçmişinizi paylaşmak için bir bağlantı oluşturun.',
   'resume.access.copy': 'Anlaşıldı',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Oluşturuldu {date}',
   'resume.access.viewVisits': 'Ziyaret detaylarını görüntüle',
   'resume.access.noVisits': 'Henüz ziyaret kaydı yok.',
-  'resume.access.anonymousVisitor': 'Anonim',
   'resume.access.onsite': 'Yerinde',
   'resume.access.visitNumber': '( #{number} adresini ziyaret edin)',
   // ── Public Resume Page ──────────────────────────────────────────────────────
