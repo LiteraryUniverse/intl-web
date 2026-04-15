@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': '리디렉션...',
     'story.price.free': '무료',
     'story.price.owned': '소유',
-    'story.price.paid': '유료'
+    'story.price.paid': '유료',
+    'story.purchase.fullStory': '전체 스토리 구매하기',
+    'story.purchase.byArc': '또는 아크별 구매',
+    'story.purchase.includes': '모든 {chaptersCount} 챕터 포함',
+    'story.purchase.freePreview': '{count, plural, one {첫 번째 챕터는 무료 미리보기} other {첫 번째 {count} 챕터는 무료 미리보기}}',
+    'story.purchase.arcIncludes': '챕터 {from}-{to}',
+    'story.purchase.savings': '저장 {amount}',
+    'story.purchase.allArcsCost': '모든 호는 개별적으로: {price}',
+    'story.purchase.owned': '이 이야기의 주인공은 바로 당신입니다.',
+    'story.purchase.arcOwned': '소유',
+    'story.purchase.complete': '구매 완료! 이제 이 스토리에 대한 전체 액세스 권한이 있습니다.',
+    'story.purchase.header': '이 스토리 보기',
+    'story.purchase.header.locked': '프리미엄 스토리',
+    'story.purchase.forFullStory': '전체 스토리 보기',
+    'story.purchase.secureCheckout': 'Stripe을 통한 보안 결제',
+    'story.purchase.loginToBuy': '구매하려면 로그인',
+    'story.chapter.freePreviewEnds': '무료 미리 보기는 여기서 종료됩니다.'
 };
