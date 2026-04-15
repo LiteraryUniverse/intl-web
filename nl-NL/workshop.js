@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Gemaakt op {generatedAt, date, medium} op {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB genereren mislukt.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Sla deze boog eerst op om het genereren van EPUB mogelijk te maken.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Externe URL\'s zijn uitgeschakeld voor verhalen met een Literair Universum-licentie. Upload in plaats daarvan bestanden zodat deze gecodeerd opgeslagen blijven.',
     'workshop.story.alternateFormats.fullStory.title': 'Volledig verhaal',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Voortdurende toegang',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Alle momenteel beschikbare hoofdstukken',
