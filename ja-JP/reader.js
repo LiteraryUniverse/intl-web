@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'この章は購入が必要',
     'reader.purchaseGate.description': '{storyTitle}{authorName, select, undefined {} other { by {authorName}}}を読み続けるには、購入する必要がある。',
-    'reader.purchaseGate.buyFullStory': '全文を購入する',
     'reader.purchaseGate.buyArc': 'または、このアークを購入する',
-    'reader.purchaseGate.buying': 'チェックアウトにリダイレクト...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} 章} other {{count} 章}} 含む',
-    'reader.purchaseGate.loginRequired': 'この記事を購入するにはログインしてください。'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} 章} other {{count} 章}} 含む'
 };
