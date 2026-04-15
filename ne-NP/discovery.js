@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'पुनर्निर्देशित हुँदैछ...',
     'story.price.free': 'नि:शुल्क',
     'story.price.owned': 'स्वामित्व',
-    'story.price.paid': 'भुक्तानी गरिएको'
+    'story.price.paid': 'भुक्तानी गरिएको',
+    'story.purchase.fullStory': 'पूरा कथा किन्नुहोस्',
+    'story.purchase.byArc': 'वा आर्क अनुसार किन्नुहोस्',
+    'story.purchase.includes': 'सबै {chaptersCount} का अध्यायहरू समावेश गर्दछ।',
+    'story.purchase.freePreview': '{count, plural, one {पहिलो अध्याय निःशुल्क पूर्वावलोकनका लागि उपलब्ध छ} other {पहिलो {count} अध्यायहरू निःशुल्क पूर्वावलोकनका लागि उपलब्ध छन्}}',
+    'story.purchase.arcIncludes': 'अध्यायहरू {from}–{to}',
+    'story.purchase.savings': 'बचाउनुहोस् {amount}',
+    'story.purchase.allArcsCost': 'सबै आर्कहरू अलग-अलग: {price}',
+    'story.purchase.owned': 'यो कथा तपाईंको हो',
+    'story.purchase.arcOwned': 'स्वामित्व',
+    'story.purchase.complete': 'खरिद पूरा भयो! अब तपाईंलाई यो कथामा पूर्ण पहुँच छ।',
+    'story.purchase.header': 'यो कथा पाउनुहोस्',
+    'story.purchase.header.locked': 'प्रिमियम कथा',
+    'story.purchase.forFullStory': 'पूरा कथाको लागि',
+    'story.purchase.secureCheckout': 'Stripe मार्फत सुरक्षित चेकआउट',
+    'story.purchase.loginToBuy': 'खरिद गर्न लग इन गर्नुहोस्',
+    'story.chapter.freePreviewEnds': 'नि:शुल्क पूर्वावलोकन यहाँ समाप्त हुन्छ'
 };
