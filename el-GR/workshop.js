@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Ανέβασμα... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Ένα αρχείο προεπισκόπησης εκδότη έχει μεταφορτωθεί για αυτή την ιστορία.',
     'workshop.story.publisherPreview.replace': 'Αντικατάσταση αρχείου',
-    'workshop.story.publisherPreview.remove': 'Αφαιρέστε το',
     // Story monetization
     'workshop.monetization.addCurrency': 'Προσθήκη άλλου υποστηριζόμενου νομίσματος',
     'workshop.monetization.arcDescription': 'Περιγραφή τόξου (εμφανίζεται στο Stripe checkout)',
