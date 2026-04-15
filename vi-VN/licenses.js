@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'I understand the terms and legal effect of CC0 on my work',
     'licenses.learnMore': 'Learn More',
     'licenses.legalText': 'Legal Text',
-    'licenses.chooser.back': 'Back',
     'licenses.chooser.select': 'Select This License',
     'licenses.commercial.title': 'Commercial License Information',
     'licenses.commercial.exclusive': 'Với giấy phép độc quyền này, Literary Universe sẽ thu 10% phí từ thu nhập của bạn. Điều này có nghĩa là bạn sẽ nhận được 90% doanh thu được tạo ra từ tác phẩm của bạn trên nền tảng của chúng tôi.',
