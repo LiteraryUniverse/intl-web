@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Á uaslódáil... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Uaslódáladh comhad réamhamhairc foilsitheora don scéal seo.',
     'workshop.story.publisherPreview.replace': 'Athsholáthair Comhad',
-    'workshop.story.publisherPreview.remove': 'Bain',
     // Story monetization
     'workshop.monetization.addCurrency': 'Cuir airgeadra tacaíochta eile leis',
     'workshop.monetization.arcDescription': 'Cur síos arc (a thaispeántar ag an tseiceáil amach de chuid Stripe)',
