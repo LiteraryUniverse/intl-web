@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Μοιραστείτε με...',
     'sharing.feedback': 'Μας λείπει κάποιο μέρος που θα θέλατε να μοιραστείτε; Ενημερώστε μας γι\' αυτό!',
     'sharing.copy': 'Αντιγραφή',
-    'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
