@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Redirecționarea...',
     'story.price.free': 'Gratuit',
     'story.price.owned': 'Deținută',
-    'story.price.paid': 'Plătite'
+    'story.price.paid': 'Plătite',
+    'story.purchase.fullStory': 'Cumpărați articolul complet',
+    'story.purchase.byArc': 'sau cumpărați prin arc',
+    'story.purchase.includes': 'Include toate capitolele {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Primul capitol este gratuit pentru previzualizare} other {Primul {count} capitolele sunt gratuite pentru previzualizare}}',
+    'story.purchase.arcIncludes': 'Capitolele {from}-{to}',
+    'story.purchase.savings': 'Salvați {amount}',
+    'story.purchase.allArcsCost': 'Toate arcurile separat: {price}',
+    'story.purchase.owned': 'Această poveste vă aparține',
+    'story.purchase.arcOwned': 'Deținută',
+    'story.purchase.complete': 'Achiziție finalizată! Acum aveți acces complet la această poveste.',
+    'story.purchase.header': 'Obțineți această știre',
+    'story.purchase.header.locked': 'Poveste premium',
+    'story.purchase.forFullStory': 'pentru povestea completă',
+    'story.purchase.secureCheckout': 'Checkout securizat prin Stripe',
+    'story.purchase.loginToBuy': 'Conectați-vă pentru a cumpăra',
+    'story.chapter.freePreviewEnds': 'Previzualizarea gratuită se încheie aici'
 };
