@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Μέρος ενός σύμπαντος',
     'discover.search.rating': 'Βαθμολογία ηλικίας',
     'discover.search.license': 'Άδεια πνευματικών δικαιωμάτων',
-    'discover.search.language': 'Γλώσσα',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Δεν υπάρχουν σύμπαντα που να ταιριάζουν με τα παράμετρα σας}
         one {1 σύμπαν βρέθηκε}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Αυτή η ιστορία παρέχεται μόνο ως προεπισκόπηση του έργου.',
     'discovery.includesAds': 'Περιλαμβάνει διαφημίσεις',
     // AI content related strings
-    'discovery.ai.content': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'discovery.ai.universes': 'Σύμπαντα που δημιουργούνται από Τεχνητή Νοημοσύνη',
     'discovery.ai.stories': 'Ιστορίες που παράγονται από τεχνητή νοημοσύνη',
     'discovery.ai.noContent': 'Δεν υπάρχει ακόμη διαθέσιμο περιεχόμενο που δημιουργείται από τεχνητή νοημοσύνη.',
