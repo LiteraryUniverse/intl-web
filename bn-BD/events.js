@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'ইভেন্টে যোগদান করুন',
   'events.selection.origin': 'ইভেন্টের উৎস',
-  'events.origin.universe': 'ইউনিভার্স',
   'events.origin.author': 'লেখক',
-  'events.origin.groups': 'গোষ্ঠীসমূহ',
   'events.origin.organizations': 'সংগঠন',
   'events.origin.lu': 'সাহিত্যিক ইউনিভার্স ইভেন্টস',
   'events.visibility.label': 'ঘটনার দৃশ্যমানতা',
