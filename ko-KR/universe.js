@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': '작가',
     'universe.authors.desc': '{universe}에 대한 창조자 및 기여자',
     'universe.contributors': '기여자',
-    'universe.translators': '번역자',
     'universe.authors.notice': '각 이야기에는 함께 일한 추가적인 개인이 있을 수 있습니다. 자세한 내용은 이야기의 세부 사항을 참조하십시오.',
     'universe.createdBy': `{gender, select,
     male {생성됨}
