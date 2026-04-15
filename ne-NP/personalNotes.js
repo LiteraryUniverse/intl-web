@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'अध्याय {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} व्यक्तिगत नोट',
   'personalNotes.searchResults': 'खोज परिणामहरू',
-  'personalNotes.type.story': 'कथा',
-  'personalNotes.type.universe': 'ब्रह्माण्ड',
-  'personalNotes.type.chapter': 'अध्याय',
   'personalNotes.type.encEntry': 'ज्ञानकोश प्रविष्टि',
   'personalNotes.type.revTextBlock': 'संशोधन पाठ तट',
-  'personalNotes.chapter': 'अध्याय',
   'personalNotes.recentSearches': 'हालको खोज:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'
