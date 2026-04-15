@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': '產生於 {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB 生成失败。',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': '先儲存此弧線以啟用 EPUB 生成。',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Literary Universe 授權故事禁用外部 URL。請上傳檔案，使它們保持在加密的儲存空間中。',
     'workshop.story.alternateFormats.fullStory.title': '完整故事檔案',
     'workshop.story.alternateFormats.ongoingAccess.title': '持續存取',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': '目前所有可用的章節',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': '設定從故事開始的多少章可以讓任何人免費閱讀。這有助於吸引讀者。',
     'workshop.monetization.fullStoryPricing': '完整故事定價',
     'workshop.monetization.lowPriceFee': '低價位固定費用活躍。',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': '尚未定義故事情節。請在上面的故事情節中新增故事情節。',
     'workshop.monetization.noCurrencies': '新增貨幣以設定此版本的價格。',
     'workshop.monetization.originalEdition': '原創',
     'workshop.monetization.payoutSplits': '派息分割',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': '建議的收入比例 (%)',
     'workshop.collaborators.splitFromOwnerShare': '這筆款項將從您的份額中扣除。受邀者必須先完成 Stripe 付款設定，才能接受。',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': '故事敘述',
+    'workshop.monetization.arcManagementHelp': '透過設定章節範圍來定義故事的弧度。每個故事都可以單獨出售。',
+    'workshop.monetization.saveArcs': '儲存弧線',
+    'workshop.monetization.arcsSaved': '弧形結構已儲存。',
+    'workshop.monetization.lowPriceWarning': '此價格適用最低劃一費用。您的報酬將低於標準的 {platformCut, number}% 分成。請考慮定價在 {thresholdPrice} 或以上，以獲得最佳的創作者報酬。',
+    'workshop.monetization.recommendedPrice': '建議價格依故事長度而定 ({wordCount, number} {countLabel})： {price}.'
 };
