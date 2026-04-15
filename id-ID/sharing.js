@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Berbagi dengan...',
     'sharing.feedback': 'Apakah ada tempat berbagi lain yang ingin Anda tambahkan? Beri tahu kami tentang hal itu!',
     'sharing.copy': 'Salin',
-    'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
