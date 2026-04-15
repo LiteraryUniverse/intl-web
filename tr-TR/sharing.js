@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Şununla paylaş...',
     'sharing.feedback': 'Paylaşmak istediğiniz bir yeri atlıyor muyuz? Bize haber verin!',
     'sharing.copy': 'Kopyala',
-    'sharing.email': 'E-posta',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
