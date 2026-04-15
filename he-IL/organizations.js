@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'הוזמן בדוא"ל',
     // Members table
     'org.members.joined': 'הצטרף',
-    'org.members.actions': 'פעולות',
     'org.roles.super_admin': 'מנהל-על'
 };
