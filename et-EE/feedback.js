@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Esita uus funktsiooni ettepanek',
     'feedback.lang.nosupport': 'Teie praegune keel ei ole tagasiside jaoks toetatud, palun kirjutage inglise keeles. Aitäh!',
     'feedback.new.thanks': 'Aitäh teate eest! Me uurime seda varsti.',
-    'feedback.comment.title': 'Kommentaar',
     'feedback.comment.desc': 'Saada meile tagasisidet',
     'feedback.comment.legend': 'Teie tagasiside - andke meile teada kõigest',
     'feedback.comment.success': 'Täname teie tagasiside eest!',
@@ -55,7 +54,6 @@ export default {
     story {lugu}
     other {lugu}
   } on rikutud?`,
-    'feedback.help.overview': 'Ülevaade',
     'feedback.help.articles': 'Artiklid',
     'feedback.help.courses': 'Kursused',
     'feedback.help.videoTutorials': 'Videoõpetused',
