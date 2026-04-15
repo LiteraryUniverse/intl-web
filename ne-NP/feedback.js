@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'नयाँ सुविधा सुझाव दिनुहोस्',
     'feedback.lang.nosupport': 'तपाईंको हालको भाषा समर्थित छैन। कृपया अंग्रेजीमा लेख्नुहोस्। धन्यवाद!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'टिप्पणी',
     'feedback.comment.desc': 'हामीलाई तपाईंको प्रतिक्रिया पठाउनुहोस्',
     'feedback.comment.legend': 'तपाईंको प्रतिक्रिया - कुनै पनि कुराबारे हामीलाई जानकारी दिनुहोस्',
     'feedback.comment.success': 'तपाईंको प्रतिक्रिया को लागि धन्यवाद!',
@@ -55,7 +54,6 @@ export default {
     story {कथा}
     other {कथा}
   } अतिक्रमण भइरहेको छ?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Courses',
     'feedback.help.videoTutorials': 'Video tutorials',
