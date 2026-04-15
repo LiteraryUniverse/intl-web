@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Ag atreorú...',
     'story.price.free': 'Saor in aisce',
     'story.price.owned': 'Faoi úinéireacht',
-    'story.price.paid': 'Íoctha'
+    'story.price.paid': 'Íoctha',
+    'story.purchase.fullStory': 'Ceannaigh an scéal iomlán',
+    'story.purchase.byArc': 'nó ceannaigh de réir bogha',
+    'story.purchase.includes': 'Cuimsíonn sé gach caibidil de {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Tá an chéad chaibidil saor in aisce le réamhamharc} other {Tá an chéad {count} caibidlí saor in aisce le réamhamharc}}',
+    'story.purchase.arcIncludes': 'Caibidlí {from}–{to}',
+    'story.purchase.savings': 'Sábháil {amount}',
+    'story.purchase.allArcsCost': 'Gach arc ar leith: {price}',
+    'story.purchase.owned': 'Is leatsa an scéal seo',
+    'story.purchase.arcOwned': 'Faoi úinéireacht',
+    'story.purchase.complete': 'Ceannach críochnaithe! Tá rochtain iomlán agat anois ar an scéal seo.',
+    'story.purchase.header': 'Faigh an scéal seo',
+    'story.purchase.header.locked': 'Scéal préimhe',
+    'story.purchase.forFullStory': 'don scéal iomlán',
+    'story.purchase.secureCheckout': 'Íocaíocht shlán trí Stripe',
+    'story.purchase.loginToBuy': 'Logáil isteach chun ceannach',
+    'story.chapter.freePreviewEnds': 'Críoch leis an réamhamharc saor in aisce anseo'
 };
