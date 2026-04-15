@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB generation failed.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Save this arc first to enable EPUB generation.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਲਾਇਸੰਸਸ਼ੁਦਾ ਕਹਾਣੀਆਂ ਲਈ ਬਾਹਰੀ URL ਅਯੋਗ ਹਨ। ਇਸ ਦੀ ਬਜਾਏ ਫਾਈਲਾਂ ਅਪਲੋਡ ਕਰੋ ਤਾਂ ਜੋ ਉਹ ਇਨਕ੍ਰਿਪਟ ਕੀਤੀ ਸਟੋਰੇਜ \'ਤੇ ਰਹਿਣ।',
     'workshop.story.alternateFormats.fullStory.title': 'Full story file',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Ongoing access',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'All currently available chapters',
