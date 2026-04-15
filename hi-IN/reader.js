@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'इस अध्याय को खरीदना आवश्यक है।',
     'reader.purchaseGate.description': '{storyTitle}{authorName, select, undefined {} other { द्वारा {authorName}}}पढ़ना जारी रखने के लिए, आपको इसे खरीदना होगा।',
-    'reader.purchaseGate.buyFullStory': 'पूरी कहानी खरीदें',
     'reader.purchaseGate.buyArc': 'या यह आर्क खरीदें',
-    'reader.purchaseGate.buying': 'चेकआउट पर रीडायरेक्ट हो रहा है...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} अध्याय} other {{count} अध्याय}} शामिल',
-    'reader.purchaseGate.loginRequired': 'कृपया इस कहानी को खरीदने के लिए लॉग इन करें।'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} अध्याय} other {{count} अध्याय}} शामिल'
 };
