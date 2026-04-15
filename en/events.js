@@ -20,9 +20,7 @@ export default {
   'events.join.startsIn': 'Event starts {startsAt}', // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Join event',
   'events.selection.origin': 'Event origin',
-  'events.origin.universe': 'Universe',
   'events.origin.author': 'Author',
-  'events.origin.groups': 'Groups',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
   'events.visibility.label': 'Event visibility',

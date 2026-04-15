@@ -30,8 +30,6 @@ export default {
   'plans.feature.creative': 'Create amazing universes and stories',
   'plans.feature.encCustomFields': 'Customizable encyclopedia fields on an entry',
   'plans.feature.encAdvCategories': 'More encyclopedia categories',
-  'plans.feature.scratchpad': 'Scratchpad',
-  'plans.feature.library': 'Library',
   'plans.feature.blog': 'Personal & universe blogs',
   'plans.feature.customBlogTheme': 'Customizable blog themes',
   'plans.feature.advanceStats': 'Advanced statistics',
@@ -70,7 +68,6 @@ export default {
   'plans.current.buying':
     'It might take a few moments to verify your purchase. We appreciate your patience.',
   'plans.current.heading': 'Current subscription plan',
-  'payment.methods.title': 'Monetization',
   'payment.methods.tabs': 'Payment options',
   'payment.option.title': 'Payment option',
   'payment.option.notFount': "You don't have any payment option saved.",
@@ -198,7 +195,6 @@ export default {
   'stripeConnect.transfers.amount': 'Amount',
   'stripeConnect.transfers.reason': 'Reason',
   'plans.fanClub.heading': 'Fan Clubs',
-  'payment.donations.currency': 'Currency',
   'payment.success': 'Payment succeeded!',
   'payment.processing': 'Your payment is processing.',
   'payment.failed': 'Your payment was not successful, please try again.',
@@ -252,6 +248,54 @@ export default {
   'plans.fanClub.thankYou.heroAlt': 'Celebratory illustration placeholder',
   'plans.fanClub.thankYou.closing':
     'From everyone here, thank you for believing in this storyteller. Your support makes a real difference.',
+  'plans.fanClub.thankYou.eyebrow': 'Membership confirmed',
+  'plans.fanClub.thankYou.accessCta': 'See your member access',
+  'plans.fanClub.thankYou.backCta': 'Open fan club',
+  'plans.fanClub.thankYou.whatsNextTitle': 'What happens next',
+  'plans.fanClub.thankYou.nextOne':
+    'Your membership is active and your fan club access is ready.',
+  'plans.fanClub.thankYou.nextTwo':
+    'Use your member access page to jump straight into exclusive posts and early-access stories.',
+  'plans.fanClub.thankYou.badgeActive': 'Membership active',
+  'plans.fanClub.thankYou.badgeSupport': 'Creator supported',
+  'plans.fanClub.thankYou.badgeAccess': 'Member access ready',
+  'plans.fanClub.access.pageTitle': '{name} fan club access',
+  'plans.fanClub.access.title': 'Your fan club access',
+  'plans.fanClub.access.subtitle':
+    'Everything your active membership unlocks in one place.',
+  'plans.fanClub.access.summaryPosts': '{count, plural, one {# exclusive post} other {# exclusive posts}}',
+  'plans.fanClub.access.summaryStories': '{count, plural, one {# early-access story} other {# early-access stories}}',
+  'plans.fanClub.access.summaryTiers': '{count, plural, one {# active tier} other {# active tiers}}',
+  'plans.fanClub.access.exclusiveTitle': 'Available now',
+  'plans.fanClub.access.exclusiveSubtitle':
+    'Posts reserved for active fan club members.',
+  'plans.fanClub.access.earlyTitle': 'Early access stories',
+  'plans.fanClub.access.earlySubtitle':
+    'Stories where your tier opens chapters before the public release.',
+  'plans.fanClub.access.openPost': 'Open post',
+  'plans.fanClub.access.openStory': 'Open story',
+  'plans.fanClub.access.anyTier': 'Any active tier',
+  'plans.fanClub.access.selectedPlans': 'Selected tiers',
+  'plans.fanClub.access.emptyPosts':
+    'No exclusive posts are available for your membership yet.',
+  'plans.fanClub.access.emptyStories':
+    'No early-access stories are attached to your membership yet.',
+  'plans.fanClub.access.authTitle': 'Sign in to view your member access',
+  'plans.fanClub.access.authText':
+    'Your unlocked posts and stories will appear here after you sign in.',
+  'plans.fanClub.access.noMembershipTitle': 'No active member access found',
+  'plans.fanClub.access.noMembershipText':
+    'This page only shows content unlocked by an active fan club membership for this creator.',
+  'plans.fanClub.access.backToClub': 'Back to fan club',
+  'plans.fanClub.access.tiersLabel': 'Active tiers',
+  'plans.fanClub.access.unlocksLabel': 'Unlocked through',
+  'payments.transferType.storyPurchase': 'Story purchase',
+  'payments.transferType.storyPurchaseRefund': 'Story purchase refund',
+  'payments.transferType.storyPurchasePayout': 'Story purchase payout',
+  'payments.transferType.fanClubSubscription': 'Fan Club subscription',
+  'payments.transferType.transfer': 'Transfer',
+  'payment.history.platformSubscription': 'Platform subscription',
+  'payment.history.fanClubSubscription': 'Fan Club subscription',
   'payment.fanClub.priceBreakdown':
     'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
   'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',

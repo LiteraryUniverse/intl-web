@@ -59,7 +59,6 @@ export default {
   'forums.noThreads':
     'Nothing to see here. It is up to you to start conversation.',
   'forums.openingPost': 'Opening post',
-  'forums.post': 'Post',
   'forums.post.new': 'New post',
   'forums.posting': 'Posting...',
   'forums.reply': 'Reply',
