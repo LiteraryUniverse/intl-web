@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'ਤੈਅ ਕਰੋ ਕਿ ਤੁਹਾਡੀ ਕਹਾਣੀ ਦੀ ਸ਼ੁਰੂਆਤ ਤੋਂ ਕਿੰਨੇ ਅਧਿਆਇ ਕਿਸੇ ਵੀ ਵਿਅਕਤੀ ਲਈ ਮੁਫ਼ਤ ਪੜ੍ਹਨ ਲਈ ਉਪਲਬਧ ਹੋਣਗੇ। ਇਹ ਪਾਠਕਾਂ ਨੂੰ ਆਕਰਸ਼ਿਤ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।',
     'workshop.monetization.fullStoryPricing': 'ਪੂਰੀ ਕਹਾਣੀ ਦੀ ਕੀਮਤ',
     'workshop.monetization.lowPriceFee': 'ਘੱਟ ਕੀਮਤ ਵਾਲੀ ਫਲੈਟ ਫੀਸ ਸਰਗਰਮ।',
-    'workshop.monetization.noArcs': 'ਕੋਈ ਕਹਾਣੀ ਦੇ ਮੋੜ ਅਜੇ ਤੱਕ ਪਰਿਭਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤੇ ਗਏ।   ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੀ ਕਹਾਣੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਮੋੜ ਸ਼ਾਮਲ ਕਰੋ।',
+    'workshop.monetization.noArcs': 'ਕੋਈ ਕਹਾਣੀ ਦੇ ਮੋੜ ਅਜੇ ਤੱਕ ਪਰਿਭਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤੇ ਗਏ। ਉੱਪਰ ਦਿੱਤੇ ਕਹਾਣੀ ਦੇ ਮੋੜਾਂ ਸੈਕਸ਼ਨ ਵਿੱਚ ਮੋੜ ਸ਼ਾਮਲ ਕਰੋ।',
     'workshop.monetization.noCurrencies': 'ਇਸ ਸੰਸਕਰਨ ਲਈ ਕੀਮਤਾਂ ਨਿਰਧਾਰਤ ਕਰਨ ਲਈ ਮੁਦਰਾਵਾਂ ਸ਼ਾਮਲ ਕਰੋ।',
     'workshop.monetization.originalEdition': 'ਅਸਲੀ',
     'workshop.monetization.payoutSplits': 'ਭੁਗਤਾਨ ਵੰਡਾਂ',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'ਇਹ ਕਹਾਣੀ ਮੋਨੇਟਾਈਜ਼ ਕੀਤੀ ਗਈ ਹੈ।   ਸੱਦੇ ਗਏ ਵਿਅਕਤੀਆਂ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Stripe ਭੁਗਤਾਨ ਸੈਟਅਪ ਪੂਰਾ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ।   ਤੁਸੀਂ ਹੇਠਾਂ ਆਮਦਨ ਵੰਡ ਦਾ ਪ੍ਰਸਤਾਵ ਦੇ ਸਕਦੇ ਹੋ — ਇਹ ਤੁਹਾਡੇ ਹਿੱਸੇ ਵਿੱਚੋਂ ਕੱਢਿਆ ਜਾਵੇਗਾ।',
     'workshop.collaborators.proposedSplit': 'ਪ੍ਰਸਤਾਵਿਤ ਆਮਦਨ ਵੰਡ (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'ਇਹ ਤੁਹਾਡੇ ਹਿੱਸੇ ਵਿੱਚੋਂ ਕੱਟਿਆ ਜਾਵੇਗਾ।   ਨਿਯੋਤਾ ਸਵੀਕਾਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Stripe ਭੁਗਤਾਨ ਸੈਟਅਪ ਪੂਰਾ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ।'
+    'workshop.collaborators.splitFromOwnerShare': 'ਇਹ ਤੁਹਾਡੇ ਹਿੱਸੇ ਵਿੱਚੋਂ ਕੱਟਿਆ ਜਾਵੇਗਾ।   ਨਿਯੋਤਾ ਸਵੀਕਾਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Stripe ਭੁਗਤਾਨ ਸੈਟਅਪ ਪੂਰਾ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ।',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'ਕਹਾਣੀ ਦੇ ਮੋੜ',
+    'workshop.monetization.arcManagementHelp': 'ਅਧਿਆਇਆਂ ਦੀਆਂ ਸੀਮਾਵਾਂ ਨਿਰਧਾਰਤ ਕਰਕੇ ਆਪਣੀ ਕਹਾਣੀ ਦੇ ਆਰਕਾਂ ਨੂੰ ਪਰਿਭਾਸ਼ਿਤ ਕਰੋ। ਹਰ ਆਰਕ ਵੱਖ-ਵੱਖ ਤੌਰ \'ਤੇ ਵੇਚਿਆ ਜਾ ਸਕਦਾ ਹੈ।',
+    'workshop.monetization.saveArcs': 'ਆਰਕਾਂ ਸੁਰੱਖਿਅਤ ਕਰੋ',
+    'workshop.monetization.arcsSaved': 'ਆਰਕ ਦੀ ਬਣਤਰ ਸੁਰੱਖਿਅਤ ਹੋ ਗਈ।',
+    'workshop.monetization.lowPriceWarning': 'ਇਸ ਕੀਮਤ \'ਤੇ ਫਲੈਟ-ਫੀ ਮਿਨੀਮਮ ਲਾਗੂ ਹੁੰਦੀ ਹੈ। ਤੁਹਾਡੀ ਭੁਗਤਾਨੀ ਰਕਮ ਮਿਆਰੀ {platformCut, number}% ਵੰਡ ਨਾਲੋਂ ਘੱਟ ਹੋਵੇਗੀ। ਸਭ ਤੋਂ ਵਧੀਆ ਕ੍ਰੀਏਟਰ ਭੁਗਤਾਨ ਲਈ {thresholdPrice} ਜਾਂ ਇਸ ਤੋਂ ਵੱਧ ਕੀਮਤ ਰੱਖਣ ਬਾਰੇ ਸੋਚੋ।',
+    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
 };
