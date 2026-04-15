@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Đang chuyển hướng...',
     'story.price.free': 'Miễn phí',
     'story.price.owned': 'Sở hữu',
-    'story.price.paid': 'Đã thanh toán'
+    'story.price.paid': 'Đã thanh toán',
+    'story.purchase.fullStory': 'Mua bản đầy đủ',
+    'story.purchase.byArc': 'hoặc mua theo vòng cung',
+    'story.purchase.includes': 'Bao gồm tất cả các chương của cuốn sách “ {chaptersCount}”',
+    'story.purchase.freePreview': '{count, plural, one {Chương đầu tiên có thể xem trước miễn phí} other {Chương đầu tiên {count} có thể xem trước miễn phí}}',
+    'story.purchase.arcIncludes': 'Các chương {from}–{to}',
+    'story.purchase.savings': 'Lưu {amount}',
+    'story.purchase.allArcsCost': 'Tất cả các tập riêng lẻ: {price}',
+    'story.purchase.owned': 'Bạn là người viết nên câu chuyện này',
+    'story.purchase.arcOwned': 'Sở hữu',
+    'story.purchase.complete': 'Giao dịch đã hoàn tất! Giờ đây, bạn đã có quyền truy cập đầy đủ vào câu chuyện này.',
+    'story.purchase.header': 'Đọc bài viết này',
+    'story.purchase.header.locked': 'Bài viết cao cấp',
+    'story.purchase.forFullStory': 'để đọc toàn bộ câu chuyện',
+    'story.purchase.secureCheckout': 'Thanh toán an toàn qua Stripe',
+    'story.purchase.loginToBuy': 'Đăng nhập để mua hàng',
+    'story.chapter.freePreviewEnds': 'Bản xem trước miễn phí kết thúc tại đây'
 };
