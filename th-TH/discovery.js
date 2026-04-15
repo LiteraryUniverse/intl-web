@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'เป็นส่วนหนึ่งของจักรวาล',
     'discover.search.rating': 'อายุการใช้งาน',
     'discover.search.license': 'ลิขสิทธิ์',
-    'discover.search.language': 'ภาษา',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {ไม่มีจักรวาลที่ตรงกับพารามิเตอร์ของคุณ}
         one {พบจักรวาล 1 รายการ}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'เรื่องราวนี้จัดเตรียมไว้เพียงเพื่อเป็นการดูตัวอย่างของผลงานเท่านั้น',
     'discovery.includesAds': 'รวมโฆษณา',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
