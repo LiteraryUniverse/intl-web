@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Ще ніхто не відповів. Будьте першим!',
   'forums.noThreads': 'Тут нічого немає. Вам належить розпочати розмову.',
   'forums.openingPost': 'Відкриваючий пост',
-  'forums.post': 'Опублікувати',
   'forums.post.new': 'Нова публікація',
   'forums.posting': 'Відправка...',
   'forums.reply': 'Відповісти',
