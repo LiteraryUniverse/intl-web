@@ -297,6 +297,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': '{generatedAt, date, medium} at {generatedAt, time, short} に生成された。',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUBの生成に失敗しました。',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'EPUB生成を有効にするには、まずこのアークを保存してください。',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': '外部URLは、リテラリーユニバース・ライセンスを受けたストーリーには使用できません。代わりにファイルをアップロードしてください。',
     'workshop.story.alternateFormats.fullStory.title': '全文ファイル',
     'workshop.story.alternateFormats.ongoingAccess.title': '継続的なアクセス',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': '現在利用可能なすべての章',
@@ -573,7 +574,7 @@ export default {
     'workshop.monetization.freePreviewHelp': '物語の冒頭から何章までは、誰でも自由に読めるように設定しましょう。これは読者を引き付けるのに役立ちます。',
     'workshop.monetization.fullStoryPricing': '価格',
     'workshop.monetization.lowPriceFee': '低価格の定額料金で活動。',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'ストーリー・アークはまだ定義されていません。上記のストーリーアークのセクションにアークを追加してください。',
     'workshop.monetization.noCurrencies': '通貨を追加して、このエディションの価格を設定する。',
     'workshop.monetization.originalEdition': 'オリジナル',
     'workshop.monetization.payoutSplits': 'ペイアウト・スプリット',
@@ -616,10 +617,10 @@ export default {
     'workshop.collaborators.proposedSplit': '収入シェア案(%)',
     'workshop.collaborators.splitFromOwnerShare': 'これはあなたの取り分から差し引かれます。招待された方は、Stripeの支払い設定を完了させてから、招待に応じる必要があります。',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
+    'workshop.monetization.arcManagement': 'ストーリー・アーク',
+    'workshop.monetization.arcManagementHelp': 'チャプターの範囲を設定することで、ストーリーのアークを定義します。各アークは個別に販売することができます。',
+    'workshop.monetization.saveArcs': '円弧の保存',
+    'workshop.monetization.arcsSaved': 'アーク構造が保存された。',
     'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.recommendedPrice': 'ストーリーの長さ（{wordCount, number} {countLabel}）に基づく推奨価格： {price}.'
 };
