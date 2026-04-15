@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Usulkan fitur baru',
     'feedback.lang.nosupport': 'Bahasa Anda saat ini tidak didukung untuk umpan balik, harap tulis dalam Bahasa Inggris. Terima kasih!',
     'feedback.new.thanks': 'Terima kasih atas pemberitahuannya! Kami akan segera memeriksanya.',
-    'feedback.comment.title': 'Komentar',
     'feedback.comment.desc': 'Kirimkan umpan balik Anda',
     'feedback.comment.legend': 'Umpan balik Anda - beri tahu kami tentang apapun',
     'feedback.comment.success': 'Terima kasih atas umpan balik Anda!',
@@ -55,7 +54,6 @@ export default {
     story {cerita}
     other {cerita}
   } yang dilanggar?`,
-    'feedback.help.overview': 'Ikhtisar',
     'feedback.help.articles': 'Artikel',
     'feedback.help.courses': 'Kursus',
     'feedback.help.videoTutorials': 'Video tutorial',
