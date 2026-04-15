@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB generation failed.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Save this arc first to enable EPUB generation.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'லிட்டரரி யுனிவர்ஸ் உரிமம் பெற்ற கதைகளுக்கு வெளிப்புற இணைப்புகள் முடக்கப்பட்டுள்ளன. அதற்குப் பதிலாகக் கோப்புகளைப் பதிவேற்றவும், அவை குறியாக்கப்பட்ட சேமிப்பில் இருக்கும்.',
     'workshop.story.alternateFormats.fullStory.title': 'Full story file',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Ongoing access',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'All currently available chapters',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'உங்கள் கதையின் தொடக்கத்திலிருந்து எத்தனை அத்தியாயங்கள் யார் வேண்டுமானாலும் இலவசமாகப் படிக்கலாம் என்பதை அமைக்கவும். இது வாசகர்களை ஈர்க்க உதவுகிறது.',
     'workshop.monetization.fullStoryPricing': 'முழுமையான கதைக்கான விலை',
     'workshop.monetization.lowPriceFee': 'குறைந்த விலை நிலையான கட்டணம் செயலில் உள்ளது.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'கதைக்கள வளைவுகள் இன்னும் வரையறுக்கப்படவில்லை. மேலே உள்ள கதைக்கள வளைவுகள் பிரிவில் வளைவுகளைச் சேர்க்கவும்.',
     'workshop.monetization.noCurrencies': 'இந்தப் பதிப்பிற்கான விலைகளை அமைக்க நாணயங்களைச் சேர்க்கவும்.',
     'workshop.monetization.originalEdition': 'அசல்',
     'workshop.monetization.payoutSplits': 'பணம் செலுத்துதல் பிளவுகள்',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'முன்மொழியப்பட்ட வருவாய் பங்கு (%)',
     'workshop.collaborators.splitFromOwnerShare': 'இது உங்கள் பங்கிலிருந்து எடுக்கப்படும். அழைக்கப்படுபவர் ஏற்கும் முன் ஸ்ட்ரைப் பணம் செலுத்தும் அமைப்பை முடிக்க வேண்டும்.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'கதை வளைவுகள்',
+    'workshop.monetization.arcManagementHelp': 'அத்தியாய வரம்புகளை அமைப்பதன் மூலம் உங்கள் கதையின் காட்சிக்கோடுகளை வரையறுக்கவும். ஒவ்வொரு காட்சிக்கோடும் தனித்தனியாக விற்கப்படலாம்.',
+    'workshop.monetization.saveArcs': 'வளைவுகளைச் சேமி',
+    'workshop.monetization.arcsSaved': 'ஆர்க் கட்டமைப்பு சேமிக்கப்பட்டது.',
+    'workshop.monetization.lowPriceWarning': 'இந்த விலையில், நிலையான கட்டணக் குறைந்தபட்சம் பொருந்தும். உங்கள் செலுத்துகை, வழக்கமான {platformCut, number}% பங்கீட்டை விடக் குறைவாக இருக்கும். சிறந்த படைப்பாளர் செலுத்துகைக்கு, {thresholdPrice} அல்லது அதற்கு மேற்பட்ட விலையைக் கருத்தில் கொள்ளுங்கள்.',
+    'workshop.monetization.recommendedPrice': 'கதை நீளத்தின் அடிப்படையில் பரிந்துரைக்கப்பட்ட விலை ({wordCount, number} {countLabel}): {price}.'
 };
