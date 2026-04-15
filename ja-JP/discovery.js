@@ -91,5 +91,21 @@ export default {
     'story.buy.redirecting': 'リダイレクト...',
     'story.price.free': '無料',
     'story.price.owned': '所有',
-    'story.price.paid': '有料'
+    'story.price.paid': '有料',
+    'story.purchase.fullStory': '全文を購入する',
+    'story.purchase.byArc': 'またはアークで購入',
+    'story.purchase.includes': '{chaptersCount} 全章を収録',
+    'story.purchase.freePreview': '{count, plural, one {第1章は無料でプレビューできます} other {第1章 {count} 第2章は無料でプレビューできます}}',
+    'story.purchase.arcIncludes': 'チャプター {from}-{to}',
+    'story.purchase.savings': '{amount}',
+    'story.purchase.allArcsCost': 'すべてのアークを別々に： {price}',
+    'story.purchase.owned': 'この物語はあなたのもの',
+    'story.purchase.arcOwned': '所有',
+    'story.purchase.complete': '購入完了！あなたは今、この物語にフルアクセスできます。',
+    'story.purchase.header': 'この記事を読む',
+    'story.purchase.header.locked': 'プレミアム・ストーリー',
+    'story.purchase.forFullStory': '全文はこちら',
+    'story.purchase.secureCheckout': 'Stripeによる安全なチェックアウト',
+    'story.purchase.loginToBuy': 'ログインして購入する',
+    'story.chapter.freePreviewEnds': '無料試写会はここまで'
 };
