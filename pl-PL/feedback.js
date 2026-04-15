@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Zasugeruj nową funkcję',
     'feedback.lang.nosupport': 'Twój bieżący język nie jest wspierany przez narzędzie opinii, więc użyj języka angielskiego. Dziękujemy!',
     'feedback.new.thanks': 'Dziękujemy za powiadomienie! Wkrótce się tym zajmiemy.',
-    'feedback.comment.title': 'Komentarz',
     'feedback.comment.desc': 'Prześlij nam swoją opinię',
     'feedback.comment.legend': 'Twoja opinia - daj nam znać o czymkolwiek',
     'feedback.comment.success': 'Dziękujemy za Twoją opinię!',
@@ -55,7 +54,6 @@ export default {
     story {historia}
     other {historia}
   } jest naruszona?`,
-    'feedback.help.overview': 'Przegląd',
     'feedback.help.articles': 'Artykuły',
     'feedback.help.courses': 'Kursy',
     'feedback.help.videoTutorials': 'Samouczki wideo',
