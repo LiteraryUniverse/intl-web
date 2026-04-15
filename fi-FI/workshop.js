@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Generated on {generatedAt, date, medium} at {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB:n luominen epäonnistui.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Tallenna tämä kaari ensin, jotta EPUB-tuotanto on mahdollista.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Ulkoiset URL-osoitteet eivät ole käytössä Literary Universe -lisensoiduissa tarinoissa. Lataa sen sijaan tiedostoja, jotta ne pysyvät salatussa tallennustilassa.',
     'workshop.story.alternateFormats.fullStory.title': 'Koko tarina tiedosto',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Jatkuva pääsy',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Kaikki tällä hetkellä saatavilla olevat luvut',
