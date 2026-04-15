@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Rátáil',
     'rating.explained': 'Rátáil aoise agus srianta.',
-    'rating.all': 'Gach',
     'rating.desc.all': 'Ar fáil do gach aoisghrúpa agus grúpa.',
     'rating.teens': 'Déagóirí',
     'rating.desc.teens': 'Oiriúnach do lucht féachana idir 12 agus 18 bliain d\'aois.',
