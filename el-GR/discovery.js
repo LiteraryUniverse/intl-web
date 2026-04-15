@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Αναπροσανατολισμός...',
     'story.price.free': 'Δωρεάν',
     'story.price.owned': 'Ιδιοκτησία',
-    'story.price.paid': 'Πληρωμένο'
+    'story.price.paid': 'Πληρωμένο',
+    'story.purchase.fullStory': 'Αγοράστε ολόκληρη την ιστορία',
+    'story.purchase.byArc': 'ή να αγοράσετε από το τόξο',
+    'story.purchase.includes': 'Περιλαμβάνει όλα τα κεφάλαια {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Το πρώτο κεφάλαιο είναι ελεύθερο για προεπισκόπηση} other {Το πρώτο {count} κεφάλαιο είναι ελεύθερο για προεπισκόπηση}}',
+    'story.purchase.arcIncludes': 'Κεφάλαια {from}-{to}',
+    'story.purchase.savings': 'Αποθήκευση {amount}',
+    'story.purchase.allArcsCost': 'Όλα τα τόξα χωριστά: {price}',
+    'story.purchase.owned': 'Αυτή η ιστορία είναι δική σας',
+    'story.purchase.arcOwned': 'Ιδιοκτησία',
+    'story.purchase.complete': 'Η αγορά ολοκληρώθηκε! Τώρα έχετε πλήρη πρόσβαση σε αυτή την ιστορία.',
+    'story.purchase.header': 'Διαβάστε αυτή την ιστορία',
+    'story.purchase.header.locked': 'Premium ιστορία',
+    'story.purchase.forFullStory': 'για το πλήρες ρεπορτάζ',
+    'story.purchase.secureCheckout': 'Ασφαλές checkout μέσω Stripe',
+    'story.purchase.loginToBuy': 'Συνδεθείτε για να αγοράσετε',
+    'story.chapter.freePreviewEnds': 'Η δωρεάν προεπισκόπηση τελειώνει εδώ'
 };
