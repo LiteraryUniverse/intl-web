@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'ਇਸ ਅਧਿਆਇ ਨੂੰ ਖਰੀਦਣਾ ਲਾਜ਼ਮੀ ਹੈ।',
     'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
-    'reader.purchaseGate.buyFullStory': 'ਪੂਰੀ ਕਹਾਣੀ ਖਰੀਦੋ',
     'reader.purchaseGate.buyArc': 'ਜਾਂ ਇਹ ਆਰਕ ਖਰੀਦੋ',
-    'reader.purchaseGate.buying': 'ਚੈੱਕਆਊਟ ਵੱਲ ਰੀਡਾਇਰੈਕਟ ਹੋ ਰਿਹਾ ਹੈ...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} ਅਧਿਆਇ} other {{count} ਅਧਿਆਇ}} ਸ਼ਾਮਲ',
-    'reader.purchaseGate.loginRequired': 'ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਕਹਾਣੀ ਨੂੰ ਖਰੀਦਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ।'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} ਅਧਿਆਇ} other {{count} ਅਧਿਆਇ}} ਸ਼ਾਮਲ'
 };
