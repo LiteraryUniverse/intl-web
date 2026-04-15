@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Kutsuttu sähköpostitse',
     // Members table
     'org.members.joined': 'Liittynyt',
-    'org.members.actions': 'Toimet',
     'org.roles.super_admin': 'Super Admin'
 };
