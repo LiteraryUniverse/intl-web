@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Roinn le...',
     'sharing.feedback': 'An bhfuil áit ar bith in easnamh orainn ar mhaith leat a roinnt? Cuir in iúl dúinn faoi!',
     'sharing.copy': 'Cóipeáil',
-    'sharing.email': 'Ríomhphost',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
