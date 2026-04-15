@@ -101,5 +101,21 @@ export default {
     'story.buy.redirecting': 'Перенаправлення...',
     'story.price.free': 'Безкоштовно',
     'story.price.owned': 'Належить',
-    'story.price.paid': 'Оплачено'
+    'story.price.paid': 'Оплачено',
+    'story.purchase.fullStory': 'Купити повну версію',
+    'story.purchase.byArc': 'або купуйте по дузі',
+    'story.purchase.includes': 'Включає всі розділи {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Перший розділ доступний для попереднього перегляду} other {Перші {count} розділи доступні для попереднього перегляду}}',
+    'story.purchase.arcIncludes': 'Розділи {from}-{to}',
+    'story.purchase.savings': 'Зберегти {amount}',
+    'story.purchase.allArcsCost': 'Всі дуги окремо: {price}',
+    'story.purchase.owned': 'Ця історія належить тобі.',
+    'story.purchase.arcOwned': 'Належить',
+    'story.purchase.complete': 'Покупку завершено! Тепер ви маєте повний доступ до цієї історії.',
+    'story.purchase.header': 'Отримайте цю історію',
+    'story.purchase.header.locked': 'Преміальна історія',
+    'story.purchase.forFullStory': 'щоб прочитати повну версію',
+    'story.purchase.secureCheckout': 'Безпечна оплата через Stripe',
+    'story.purchase.loginToBuy': 'Увійдіть, щоб придбати',
+    'story.chapter.freePreviewEnds': 'Безкоштовний попередній перегляд закінчується тут'
 };
