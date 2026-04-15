@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review',
     // Story purchase
     'story.buy.button': 'შეიძინეთ {price}',
-    'story.buy.confirm': 'თქვენ ახლავე შეიძენთ ამას {price}-სთვის. გადახდის დასასრულებლად გადამისამართდებით Stripe-ზე. გააგრძელოთ?',
     'story.buy.currency': 'ვალუტის შეძენა',
     'story.buy.error.generic': 'შეძენა ვერ განხორციელდა',
-    'story.buy.loginRequired': 'შესვლა შესაძენად',
     'story.buy.redirecting': 'გადამისამართება...',
     'story.price.free': 'უფასო',
     'story.price.owned': 'საკუთრებაში',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'სრული ისტორიისთვის',
     'story.purchase.secureCheckout': 'უსაფრთხო გადახდა Stripe-ის მეშვეობით',
     'story.purchase.loginToBuy': 'შესვლა შესაძენად',
+    'story.purchase.loginToBuyArcs': 'შედით ინდივიდუალური სიუჟეტური ხაზების შესაძენად',
+    'story.purchase.pricingUnavailable': 'ფასების შესახებ ინფორმაცია ამჟამად ხელმისაწვდომი არ არის.',
+    'story.buy.error.timeout': 'მოთხოვნის დამუშავება დროში გაიწელა. გთხოვთ, სცადოთ ხელახლა.',
     'story.chapter.freePreviewEnds': 'უფასო წინასწარი დათვალიერება აქ მთავრდება'
 };
