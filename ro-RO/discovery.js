@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Evaluarea medie realizată de {avgRating, number} pe baza raportului {reviewsNum, number}',
     // Story purchase
     'story.buy.button': 'Cumpărați pentru {price}',
-    'story.buy.confirm': 'Sunteți pe cale să achiziționați acest produs pentru {price}. Veți fi redirecționat către Stripe pentru a finaliza plata. Continuați?',
     'story.buy.currency': 'Moneda de cumpărare',
     'story.buy.error.generic': 'Achiziție eșuată',
-    'story.buy.loginRequired': 'Conectați-vă pentru a cumpăra',
     'story.buy.redirecting': 'Redirecționarea...',
     'story.price.free': 'Gratuit',
     'story.price.owned': 'Deținută',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'pentru povestea completă',
     'story.purchase.secureCheckout': 'Checkout securizat prin Stripe',
     'story.purchase.loginToBuy': 'Conectați-vă pentru a cumpăra',
+    'story.purchase.loginToBuyArcs': 'Conectați-vă pentru a achiziționa arcuri de poveste individuale',
+    'story.purchase.pricingUnavailable': 'Informațiile privind prețurile nu sunt disponibile în prezent.',
+    'story.buy.error.timeout': 'Solicitarea a expirat. Vă rugăm să încercați din nou.',
     'story.chapter.freePreviewEnds': 'Previzualizarea gratuită se încheie aici'
 };
