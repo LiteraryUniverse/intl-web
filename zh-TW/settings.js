@@ -73,7 +73,6 @@ export default {
     'settings.country.select': '選擇您的國家',
     'settings.emailSubscriptions.newsletterTech': '來自我們開發人員的偶爾通訊',
     'settings.emailSubscriptions.newsletterFeatures': '有關新功能的資訊',
-    'settings.emailNotifications.title': '通知',
     'settings.emailNotifications.pm': '新訊息',
     'settings.emailNotifications.newChapters': '您關注的故事的新章節',
     'settings.emailNotifications.newStories': '宇宙中的新故事或您關注的作者的新故事',
