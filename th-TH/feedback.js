@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'แนะนำคุณสมบัติใหม่',
     'feedback.lang.nosupport': 'ภาษาปัจจุบันของคุณไม่รองรับสำหรับการให้คำแนะนำ โปรดเขียนเป็นภาษาอังกฤษ ขอบคุณ!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'ความคิดเห็น',
     'feedback.comment.desc': 'ส่งความคิดเห็นถึงเรา',
     'feedback.comment.legend': 'ความคิดเห็นของคุณ - แจ้งให้เราทราบเกี่ยวกับทุก ๆ สิ่ง',
     'feedback.comment.success': 'ขอบคุณสำหรับความคิดเห็นของคุณ!',
@@ -55,7 +54,6 @@ export default {
     story {เรื่อง}
     other {เรื่อง}
   } ที่ถูกละเมิด?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'หลักสูตร',
     'feedback.help.videoTutorials': 'Video tutorials',
