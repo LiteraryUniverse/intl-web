@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Rok',
   'resume.editor.awards.desc': 'Popis',
   'resume.editor.awards.add': 'Přidat ocenění',
-  'resume.editor.awards.remove': 'Odstranění stránky',
   // Theme
   'resume.editor.theme.heading': 'Téma životopisu',
   'resume.editor.theme.description': 'Zvolte si vizuální motiv pro stránku s veřejným životopisem.',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'Vytvořit přístupový odkaz',
   'resume.access.createLink.comment': 'Komentář (nepovinný)',
   'resume.access.createLink.language': 'Jazyk stránky',
-  'resume.access.createLink.create': 'Vytvořit',
   'resume.access.noLinks': 'Zatím nebyly vytvořeny žádné přístupové odkazy. Vytvořte odkaz a sdílejte svůj životopis.',
   'resume.access.copy': 'Kopírovat',
   'resume.access.copied': 'Zkopírováno!',
@@ -108,7 +106,6 @@ export default {
   'resume.access.created': 'Vytvořeno {date}',
   'resume.access.viewVisits': 'Zobrazit podrobnosti o návštěvě',
   'resume.access.noVisits': 'Zatím nebyly zaznamenány žádné návštěvy.',
-  'resume.access.anonymousVisitor': 'Anonymní',
   'resume.access.onsite': 'Na místě',
   'resume.access.visitNumber': '(navštivte #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
