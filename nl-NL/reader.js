@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Dit hoofdstuk vereist aankoop',
     'reader.purchaseGate.description': 'Om verder te lezen {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, moet u deze aanschaffen.',
-    'reader.purchaseGate.buyFullStory': 'Volledig verhaal kopen',
     'reader.purchaseGate.buyArc': 'Of koop deze boog',
-    'reader.purchaseGate.buying': 'Doorverwijzen naar afrekenen...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} hoofdstuk} other {{count} hoofdstukken}} inbegrepen',
-    'reader.purchaseGate.loginRequired': 'Log in om dit verhaal te kopen.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} hoofdstuk} other {{count} hoofdstukken}} inbegrepen'
 };
