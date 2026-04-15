@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Chọn quốc gia của bạn',
     'settings.emailSubscriptions.newsletterTech': 'Thông báo định kỳ từ các nhà phát triển của chúng tôi',
     'settings.emailSubscriptions.newsletterFeatures': 'Thông tin về tính năng mới',
-    'settings.emailNotifications.title': 'Thông báo',
     'settings.emailNotifications.pm': 'Tin nhắn mới',
     'settings.emailNotifications.newChapters': 'Những chương mới từ những câu chuyện bạn đang theo dõi',
     'settings.emailNotifications.newStories': 'Các câu chuyện mới trong các vũ trụ hoặc từ các tác giả mà bạn theo dõi',
