@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Audiencia',
     'rating.explained': 'Audiencia y restricción de edad.',
-    'rating.all': 'Todos',
     'rating.desc.all': 'Accesible para todas las edades y grupos.',
     'rating.teens': 'Adolescentes',
     'rating.desc.teens': 'Adecuado para un público de entre 12 y 18 años.',
