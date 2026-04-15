@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Údair',
     'universe.authors.desc': 'Cruthaitheoirí agus cuiditheoirí d\'aois {universe}',
     'universe.contributors': 'Cuiditheoirí',
-    'universe.translators': 'Aistritheoirí',
     'universe.authors.notice': 'D\'fhéadfadh go mbeadh duine pearsanta breise ag gach scéal a raibh baint acu leis. Chun tuilleadh eolais a fháil féach ar mhionsonra gach scéil.',
     'universe.createdBy': `{gender, select,
     male {Cruthaíodh}
