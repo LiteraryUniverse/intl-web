@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': '宇宙的一部分',
     'discover.search.rating': '年齡分級',
     'discover.search.license': '版權許可',
-    'discover.search.language': '語言',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {沒有符合您條件的宇宙}
         one {找到1個宇宙}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': '本故事僅提供作品預覽。',
     'discovery.includesAds': '包括廣告',
     // AI content related strings
-    'discovery.ai.content': 'AI 產生的內容',
     'discovery.ai.universes': 'AI 產生的宇宙',
     'discovery.ai.stories': 'AI 產生的故事',
     'discovery.ai.noContent': '目前尚未提供 AI 產生的內容。',
