@@ -57,7 +57,6 @@ export default {
   'resume.editor.awards.year': '年份',
   'resume.editor.awards.desc': '說明',
   'resume.editor.awards.add': '新增獎項',
-  'resume.editor.awards.remove': '移除',
   // Theme
   'resume.editor.theme.heading': '履歷主題',
   'resume.editor.theme.description': '為您的公開履歷頁面選擇視覺主題。',
@@ -92,7 +91,6 @@ export default {
   'resume.access.createLink.title': '建立存取連結',
   'resume.access.createLink.comment': '評論（選擇性）',
   'resume.access.createLink.language': '頁面語言',
-  'resume.access.createLink.create': '建立',
   'resume.access.noLinks': '尚未建立存取連結。建立連結來分享您的履歷。',
   'resume.access.copy': '複製',
   'resume.access.copied': '已複製！',
@@ -103,7 +101,6 @@ export default {
   'resume.access.created': '建立 {date}',
   'resume.access.viewVisits': '查看訪問詳情',
   'resume.access.noVisits': '尚未記錄任何訪問。',
-  'resume.access.anonymousVisitor': '匿名',
   'resume.access.onsite': '現場',
   'resume.access.visitNumber': '(請造訪 #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────
