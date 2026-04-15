@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Selectează-ți țara',
     'settings.emailSubscriptions.newsletterTech': 'Newsletter ocazional de la dezvoltatorii noștri',
     'settings.emailSubscriptions.newsletterFeatures': 'Informații despre funcționalități noi',
-    'settings.emailNotifications.title': 'Notificări',
     'settings.emailNotifications.pm': 'Mesaje noi',
     'settings.emailNotifications.newChapters': 'Noi capitole din poveștile pe care le urmărești',
     'settings.emailNotifications.newStories': 'Povestiri noi în universuri sau de la autori pe care îi urmăriți',
