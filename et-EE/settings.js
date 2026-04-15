@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'Vali oma riik',
     'settings.emailSubscriptions.newsletterTech': 'Aeg-ajalt uudiskiri meie arendajatelt',
     'settings.emailSubscriptions.newsletterFeatures': 'Teave uute funktsioonide kohta',
-    'settings.emailNotifications.title': 'Teavitused',
     'settings.emailNotifications.pm': 'Uued sõnumid',
     'settings.emailNotifications.newChapters': 'Uued peatükid lugudest, mida jälgite',
     'settings.emailNotifications.newStories': 'Uued lood universumites või autoritelt, keda te jälgite',
