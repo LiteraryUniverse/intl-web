@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Įvertinimas',
     'rating.explained': 'Amžiaus įvertinimas ir apribojimai.',
-    'rating.all': 'Visi',
     'rating.desc.all': 'Prieinama visiems amžiams ir grupėms.',
     'rating.teens': 'Paaugliai',
     'rating.desc.teens': 'Tinkama auditorijai nuo 12 iki 18 metų.',
