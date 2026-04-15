@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Chưa ai trả lời. Hãy là người đầu tiên!',
   'forums.noThreads': 'Không có gì để xem ở đây. Điều này tùy thuộc vào bạn để bắt đầu cuộc trò chuyện.',
   'forums.openingPost': 'Bài viết mở đầu',
-  'forums.post': 'Bài viết',
   'forums.post.new': 'Bài viết mới',
   'forums.posting': 'Đang đăng...',
   'forums.reply': 'Trả lời',
