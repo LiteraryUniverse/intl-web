@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Kirjailijat',
     'universe.authors.desc': 'Luojat ja yhteistyössä toimineet {universe}',
     'universe.contributors': 'Yhteistyössä toimineet',
-    'universe.translators': 'Kääntäjät',
     'universe.authors.notice': 'Jokaisella tarinalla voi olla lisää henkilöitä, jotka ovat olleet mukana. Lisätietoja näet tarinan tiedoista.',
     'universe.createdBy': `{gender, select,
     male {Luonut}
