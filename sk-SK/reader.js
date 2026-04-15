@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Na základe dátumov publikácií posledných {chaptersCount, number} kapitol sa očakáva, že ďalšia kapitola bude veľmi skoro uvoľnená.',
     'reader.nextChapterEstimation.days': 'Na základe dátumov publikácie posledných {chaptersCount, number} kapitol by nasledujúca kapitola mala byť dostupná približne o {daysLeft, plural, one {1 deň} few {# dní} many {# dní} other {# dní}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Poskytneme odhad, kedy by mohla byť zverejnená nasledujúca kapitola, keď bude príbeh obsahovať viac ako jednu kapitolu.',
-    'reader.comments.chapterNotAvailable': 'Zatiaľ nie sú k dispozícii žiadne komentáre. Je to preto, že kapitola ešte nebola vydaná.'
+    'reader.comments.chapterNotAvailable': 'Zatiaľ nie sú k dispozícii žiadne komentáre. Je to preto, že kapitola ešte nebola vydaná.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Táto kapitola vyžaduje nákup',
+    'reader.purchaseGate.description': 'Ak chcete pokračovať v čítaní {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, musíte si ju zakúpiť.',
+    'reader.purchaseGate.buyArc': 'Alebo si kúpte tento oblúk',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} kapitola} other {{count} kapitoly}} vrátane'
 };

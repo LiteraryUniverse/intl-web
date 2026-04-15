@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'จากวันที่เผยแพร่ล่าสุดของบท {chaptersCount, number} แล้ว บทต่อไปคาดว่าจะเผยแพร่ในเร็ว ๆ นี้',
     'reader.nextChapterEstimation.days': 'จากวันที่เผยแพร่ล่าสุดของบท {chaptersCount, number} แล้ว บทต่อไปคาดว่าจะพร้อมใช้งานในระยะเวลาประมาณ {daysLeft, plural, one {1 วัน} other {วัน}}',
     'reader.nextChapterEstimation.notEnoughChapters': 'เราจะให้การประมาณเมื่อบทต่อไปอาจจะเผยแพร่หลังจากเรื่องนี้มีมากกว่าหนึ่งบท',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'บทนี้ต้องซื้อ',
+    'reader.purchaseGate.description': 'หากต้องการอ่านต่อ {storyTitle}{authorName, select, undefined {} other { โดย {authorName}}}คุณจำเป็นต้องซื้อ',
+    'reader.purchaseGate.buyArc': 'หรือซื้อส่วนนี้',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} บทที่} other {{count} บทที่}} รวมอยู่ด้วย'
 };

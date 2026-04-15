@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Basierend auf den Veröffentlichungsdaten der letzten {chaptersCount, number} Kapitel wird das nächste Kapitel sehr bald veröffentlicht werden.',
     'reader.nextChapterEstimation.days': 'Ausgehend von den Veröffentlichungsterminen der letzten {chaptersCount, number} Kapitel, sollte das nächste Kapitel in etwa {daysLeft, plural, one {1 Tag} other {# Tage}} verfügbar sein.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Wenn diese Geschichte mehr als ein Kapitel hat, werden wir auch eine Schätzung abgeben, wann das nächste Kapitel veröffentlicht wird.',
-    'reader.comments.chapterNotAvailable': 'Noch keine Kommentare verfügbar. Das liegt daran, dass das Kapitel noch nicht veröffentlicht ist.'
+    'reader.comments.chapterNotAvailable': 'Noch keine Kommentare verfügbar. Das liegt daran, dass das Kapitel noch nicht veröffentlicht ist.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Dieses Kapitel erfordert den Kauf',
+    'reader.purchaseGate.description': 'Um {storyTitle}{authorName, select, undefined {} other { by {authorName}}}weiterzulesen, müssen Sie es kaufen.',
+    'reader.purchaseGate.buyArc': 'Oder kaufen Sie diesen Bogen',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} Kapitel} other {{count} Kapitel}} enthalten'
 };

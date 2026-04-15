@@ -9,5 +9,6 @@ export default {
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Будь ласка, введіть пошукові запити або застосуйте фільтри',
     'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search': 'Search Your Library',
+    'library.ownedStories': 'Куплені історії'
 };

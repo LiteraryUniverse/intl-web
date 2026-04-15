@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Com base nas datas de publicação dos últimos {chaptersCount, number} capítulos, o próximo capítulo deverá ser lançado muito em breve.',
     'reader.nextChapterEstimation.days': 'Com base nas datas de publicação dos últimos {chaptersCount, number} capítulos, o próximo capítulo deverá estar disponível em aproximadamente {daysLeft, plural, one {1 dia} other {# dias}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Também forneceremos uma estimativa de quando o próximo capítulo pode ser publicado assim que essa história tiver mais de um capítulo.',
-    'reader.comments.chapterNotAvailable': 'Ainda não há comentários disponíveis. Isso ocorre porque o capítulo ainda não foi lançado.'
+    'reader.comments.chapterNotAvailable': 'Ainda não há comentários disponíveis. Isso ocorre porque o capítulo ainda não foi lançado.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Este capítulo requer a compra',
+    'reader.purchaseGate.description': 'Para continuar lendo {storyTitle}{authorName, select, undefined {} other { por {authorName}}}, o senhor precisa comprá-lo.',
+    'reader.purchaseGate.buyArc': 'Ou compre este arco',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} capítulo} other {{count} capítulos}} incluído'
 };

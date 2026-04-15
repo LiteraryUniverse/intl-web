@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Bunaithe ar dátaí foilseachán na {chaptersCount, number} cinn deiridh, táthar ag súil go mbeidh an chéad chaibidil ar fáil go luath.',
     'reader.nextChapterEstimation.days': 'Bunaithe ar dátaí foilseachán na {chaptersCount, number} cinn deiridh, táthar ag súil go mbeidh an chéad chaibidil ar fáil i gcomhair {daysLeft, plural, one {1 lá} other {# lá}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Tabharfaimid meastachán freisin ar an am a d\'fhéadfadh an chéad chaibidil a bheith foilsithe nuair a bheidh níos mó ná cúpla chaibidil sa scéal seo.',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Teastaíonn an ceannachán don chaibidil seo.',
+    'reader.purchaseGate.description': 'Chun leanúint ort ag léamh {storyTitle}{authorName, select, undefined {} other { le {authorName}}}, ní mór duit é a cheannach.',
+    'reader.purchaseGate.buyArc': 'Nó ceannaigh an arc seo',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} caibidil} other {{count} caibidlí}} san áireamh'
 };

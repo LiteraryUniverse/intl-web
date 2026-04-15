@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Na podstawie dat publikacji ostatnich {chaptersCount, number} rozdziałów, następny rozdział powinien zostać wydany bardzo niedługo.',
     'reader.nextChapterEstimation.days': 'Na podstawie dat publikacji ostatnich {chaptersCount, number} rozdziałów, następny rozdział powinien być dostępny w ciągu około {daysLeft, plural, one {1 dnia} other {# dni}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Również podamy przybliżoną datę publikacji następnego rozdziału, gdy historia będzie miała więcej niż jeden rozdział.',
-    'reader.comments.chapterNotAvailable': 'Komentarze nie są jeszcze dostępne. To dlatego, że rozdział nie został jeszcze wydany.'
+    'reader.comments.chapterNotAvailable': 'Komentarze nie są jeszcze dostępne. To dlatego, że rozdział nie został jeszcze wydany.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Ten rozdział wymaga zakupu',
+    'reader.purchaseGate.description': 'Aby kontynuować czytanie {storyTitle}{authorName, select, undefined {} other { przez {authorName}}}, należy go zakupić.',
+    'reader.purchaseGate.buyArc': 'Lub kupić ten łuk',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} rozdział} other {{count} rozdziały}} w zestawie'
 };

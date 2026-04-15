@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': '基於最近 {chaptersCount, number} 章節的發布日期，下一章預計很快就會發布。',
     'reader.nextChapterEstimation.days': '基於最近 {chaptersCount, number} 章節的發布日期，下一章預計在大約 {daysLeft, plural, one {1天} other {天}}後可用。',
     'reader.nextChapterEstimation.notEnoughChapters': '一旦這個故事有超過一章時，我們也會提供下一章可能發布的一個估計。',
-    'reader.comments.chapterNotAvailable': '暫無評論。這是因為本章尚未發行。'
+    'reader.comments.chapterNotAvailable': '暫無評論。這是因為本章尚未發行。',
+    // Purchase gate
+    'reader.purchaseGate.title': '本章需要購買',
+    'reader.purchaseGate.description': '若要繼續閱讀 {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, 您需要購買。',
+    'reader.purchaseGate.buyArc': '或購買此電弧',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included'
 };

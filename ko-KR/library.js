@@ -9,5 +9,6 @@ export default {
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': '검색어를 입력하거나 필터를 적용하세요.',
     'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search': 'Search Your Library',
+    'library.ownedStories': '구매한 스토리'
 };

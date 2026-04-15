@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Basert på publiseringsdatoene for de siste {chaptersCount, number} kapitlene, forventes det at neste kapittel blir utgitt veldig snart.',
     'reader.nextChapterEstimation.days': 'Basert på publiseringsdatoene for de siste {chaptersCount, number} kapitlene, bør neste kapittel være tilgjengelig om cirka {daysLeft, plural, one {1 dag} other {# dager}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Vi vil også gi en estimert utgivelsesdato for neste kapittel når denne historien har mer enn ett kapittel.',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'This chapter requires purchase',
+    'reader.purchaseGate.description': 'To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.',
+    'reader.purchaseGate.buyArc': 'Or buy this arc',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} chapter} other {{count} chapters}} included'
 };

@@ -9,5 +9,6 @@ export default {
     'library.search.prompt': 'ابحث في مكتبتك للعثور على المحتوى',
     'library.search.noFilters': 'الرجاء إدخال مصطلحات البحث أو تطبيق عوامل التصفية',
     'library.yourLibrary': 'مكتبتك',
-    'library.search': 'ابحث في مكتبتك'
+    'library.search': 'ابحث في مكتبتك',
+    'library.ownedStories': 'القصص التي تم شراؤها'
 };

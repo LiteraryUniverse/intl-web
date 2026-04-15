@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'A legutóbbi {chaptersCount, number} fejezetek megjelenési dátuma alapján a következő fejezet hamarosan elérhetővé válik.',
     'reader.nextChapterEstimation.days': 'A legutóbbi {chaptersCount, number} fejezetek megjelenési dátuma alapján a következő fejezet várhatóan {daysLeft, plural, one {1 nap múlva lesz elérhető} other {# nap}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Az következő fejezet várható közzétételének időpontját is megadunk, amint ez a történet több fejezetet tartalmaz.',
-    'reader.comments.chapterNotAvailable': 'Még nincs elérhető hozzászólás. Ez azért van, mert a fejezet még nem jelent meg.'
+    'reader.comments.chapterNotAvailable': 'Még nincs elérhető hozzászólás. Ez azért van, mert a fejezet még nem jelent meg.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Ehhez az árucsoporthoz vásárlás szükséges',
+    'reader.purchaseGate.description': 'Az olvasás folytatásához {storyTitle}{authorName, select, undefined {} other { által {authorName}}}, meg kell vásárolni.',
+    'reader.purchaseGate.buyArc': 'Vagy vedd meg ezt az ívet',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} fejezet} other {{count} fejezetek}} tartalmazza.'
 };

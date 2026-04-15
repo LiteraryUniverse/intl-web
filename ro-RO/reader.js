@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Pe baza datelor de publicare ale ultimelor {chaptersCount, number} capitole, următorul capitol este așteptat să fie lansat foarte curând.',
     'reader.nextChapterEstimation.days': 'Pe baza datelor de publicare ale ultimelor {chaptersCount, number} capitole, următorul capitol ar trebui să fie disponibil în aproximativ {daysLeft, plural, one {1 zi} other {# zile}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Vom oferi și o estimare a momentului în care următorul capitol ar putea fi publicat odată ce această poveste va avea mai mult de un capitol.',
-    'reader.comments.chapterNotAvailable': 'Nu există comentarii disponibile încă. Acest lucru se datorează faptului că capitolul nu este încă lansat.'
+    'reader.comments.chapterNotAvailable': 'Nu există comentarii disponibile încă. Acest lucru se datorează faptului că capitolul nu este încă lansat.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Acest capitol necesită achiziționarea',
+    'reader.purchaseGate.description': 'Pentru a continua lectura {storyTitle}{authorName, select, undefined {} other { de {authorName}}}, trebuie să o achiziționați.',
+    'reader.purchaseGate.buyArc': 'Sau cumpărați acest arc',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} capitol} other {{count} capitole}} inclus'
 };

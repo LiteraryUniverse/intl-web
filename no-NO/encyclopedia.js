@@ -259,5 +259,5 @@ export default {
     'encyclopedia.templateField.curriculum': 'Curriculum',
     'encyclopedia.templateField.notable-alumni': 'Notable alumni',
     'encyclopedia.templateField.affiliation': 'Affiliation',
-    'encyclopedia.templateField.language': 'Language',
-}
+    'encyclopedia.templateField.language': 'Language'
+};

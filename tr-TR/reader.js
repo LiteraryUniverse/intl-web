@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Son {chaptersCount, number} bölümün yayın tarihlerine göre, bir sonraki bölüm çok yakında yayınlanacak.',
     'reader.nextChapterEstimation.days': 'Son {chaptersCount, number} bölümün yayın tarihlerine göre, bir sonraki bölüm yaklaşık olarak {daysLeft, plural, one {1 gün içinde mevcut olmalıdır} other {# gün}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Bu hikaye birkaç bölümden fazlası olduğunda, bir sonraki bölümün ne zaman yayınlanabileceği konusunda bir tahmin de vereceğiz.',
-    'reader.comments.chapterNotAvailable': 'Henüz yorum yok. Bunun nedeni bölümün henüz yayınlanmamış olmasıdır.'
+    'reader.comments.chapterNotAvailable': 'Henüz yorum yok. Bunun nedeni bölümün henüz yayınlanmamış olmasıdır.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Bu bölüm satın alma gerektirir',
+    'reader.purchaseGate.description': 'Okumaya devam etmek için {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, satın almanız gerekir.',
+    'reader.purchaseGate.buyArc': 'Ya da bu yayını al.',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} bölüm} other {{count} bölümler}} dahil'
 };

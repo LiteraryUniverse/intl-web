@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Viimase {chaptersCount, number} peatüki avaldamise kuupäevade põhjal oodatakse väga varsti järgmist peatükki.',
     'reader.nextChapterEstimation.days': 'Viimase {chaptersCount, number} peatüki avaldamise kuupäevade põhjal peaks järgmine peatükk olema saadaval umbes {daysLeft, plural, one {1 päeva} other {jooksul}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Kui sellel lool on rohkem kui üks peatükk, siis anname ka hinnangu, millal järgmine peatükk võib avaldatud saada.',
-    'reader.comments.chapterNotAvailable': 'Kommentaarid puuduvad veel. Seda seetõttu, et peatükk ei ole veel avaldatud.'
+    'reader.comments.chapterNotAvailable': 'Kommentaarid puuduvad veel. Seda seetõttu, et peatükk ei ole veel avaldatud.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'See peatükk eeldab ostmist',
+    'reader.purchaseGate.description': 'Et jätkata lugemist {storyTitle}{authorName, select, undefined {} other { poolt {authorName}}}, peate selle ostma.',
+    'reader.purchaseGate.buyArc': 'Või osta see kaar',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} peatükk} other {{count} peatükid}} lisatud'
 };

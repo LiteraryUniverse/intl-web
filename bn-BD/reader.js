@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'শেষ {chaptersCount, number} টি অধ্যায়ের প্রকাশের তারিখ উপস্থিত হলে, পরবর্তী অধ্যায়টি খুব শীঘ্রই মুক্ত হবে।',
     'reader.nextChapterEstimation.days': 'শেষ {chaptersCount, number} অধ্যায়গুলির প্রকাশের তারিখের ভিত্তিতে, পরবর্তী অধ্যায় আনুমানিক {daysLeft, plural, one {১ দিন} other {# দিন}} পর পাওয়া যাবে।',
     'reader.nextChapterEstimation.notEnoughChapters': 'এই গল্পে একটি অধ্যায়ের বেশি হওয়ায়, পরবর্তী অধ্যায়ের প্রকাশের তথ্য আমরা প্রদান করব।',
-    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'এই অধ্যায়টি ক্রয় করতে হবে।',
+    'reader.purchaseGate.description': '{storyTitle}{authorName, select, undefined {} other { by {authorName}}}পড়া চালিয়ে যেতে, আপনাকে এটি কিনতে হবে।',
+    'reader.purchaseGate.buyArc': 'অথবা এই আর্কটি কিনুন',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} অধ্যায়} other {{count} অধ্যায়সমূহ}} অন্তর্ভুক্ত'
 };

@@ -42,5 +42,10 @@ export default {
     'reader.nextChapterEstimation.verySoon': 'Βάσει των ημερομηνιών δημοσίευσης των τελευταίων {chaptersCount, number} κεφαλαίων, το επόμενο κεφάλαιο αναμένεται να κυκλοφορήσει πολύ σύντομα.',
     'reader.nextChapterEstimation.days': 'Βάσει των ημερομηνιών δημοσίευσης των τελευταίων {chaptersCount, number} κεφαλαίων, το επόμενο κεφάλαιο αναμένεται να είναι διαθέσιμο σε περίπου {daysLeft, plural, one {1 ημέρα} other {# ημέρες}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Θα παρέχουμε επίσης μια εκτίμηση για το πότε μπορεί να δημοσιευτεί το επόμενο κεφάλαιο αφού αυτή η ιστορία έχει περισσότερα από ένα κεφάλαια.',
-    'reader.comments.chapterNotAvailable': 'Δεν υπάρχουν ακόμη διαθέσιμα σχόλια. Αυτό συμβαίνει επειδή το κεφάλαιο δεν έχει κυκλοφορήσει ακόμα.'
+    'reader.comments.chapterNotAvailable': 'Δεν υπάρχουν ακόμη διαθέσιμα σχόλια. Αυτό συμβαίνει επειδή το κεφάλαιο δεν έχει κυκλοφορήσει ακόμα.',
+    // Purchase gate
+    'reader.purchaseGate.title': 'Το κεφάλαιο αυτό απαιτεί αγορά',
+    'reader.purchaseGate.description': 'Για να συνεχίσετε να διαβάζετε {storyTitle}{authorName, select, undefined {} other { από {authorName}}}, πρέπει να το αγοράσετε.',
+    'reader.purchaseGate.buyArc': 'Ή αγοράστε αυτό το τόξο',
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} κεφάλαιο} other {{count} κεφάλαια}} περιλαμβάνονται'
 };

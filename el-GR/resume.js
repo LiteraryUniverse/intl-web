@@ -1,1 +1,165 @@
-export default {}
+export default {
+  // ── Editor ──────────────────────────────────────────────────────────────────
+  'resume.editor.title': 'Βιογραφικό σημείωμα του συγγραφέα',
+  'resume.editor.preview': 'Προεπισκόπηση ως Εκδότης',
+  'resume.editor.introduction': 'Εισαγωγή',
+  'resume.editor.showcase': 'Βιτρίνα',
+  'resume.editor.contact': 'Επικοινωνία',
+  'resume.editor.aboutWork': 'Σχετικά με τη δουλειά μου',
+  'resume.editor.awards': 'Βραβεία',
+  'resume.editor.theme': 'Θέμα',
+  'resume.editor.access': 'Πρόσβαση',
+  // General / Introduction
+  'resume.editor.general.heading': 'Γενικά',
+  'resume.editor.general.enabled': 'Ενεργοποίηση σελίδας βιογραφικού σημειώματος',
+  'resume.editor.general.enabled.help':
+    'Όταν είναι ενεργοποιημένο, οι εκδοτικοί οργανισμοί στο Literary Universe μπορούν να δουν το βιογραφικό σας. Η προεπισκόπησή σας είναι πάντα διαθέσιμη ανεξάρτητα από αυτή τη ρύθμιση.',
+  'resume.editor.introduction.heading': 'Εισαγωγή',
+  'resume.editor.introduction.description':
+    'Γράψτε μια σύντομη εισαγωγή για τον εαυτό σας για τους εκδότες. Αυτό θα εμφανιστεί στην κορυφή της σελίδας του βιογραφικού σας σημειώματος.',
+  // Showcase
+  'resume.showcase.heading': 'Βιτρίνα',
+  'resume.showcase.description':
+    'Σύρετε για να αναδιατάξετε τα σύμπαντα και τις ιστορίες σας. Επιλέξτε στοιχεία για να τα συμπεριλάβετε στο βιογραφικό σας. Εξαιρούνται τα έργα που ανήκουν σε οργανισμούς, τα έργα με άδεια CC0 και τα έργα φαντασίας.',
+  'resume.showcase.empty': 'Δεν έχετε ακόμα επιλέξιμες ιστορίες ή σύμπαντα. Δημιουργήστε πρώτα κάποια στο Εργαστήριο.',
+  'resume.showcase.noStories': 'Δεν υπάρχουν επιλέξιμες ιστορίες σε αυτό το σύμπαν.',
+  'resume.showcase.standalone': 'Αυτόνομες ιστορίες',
+  'resume.showcase.hasPreview': 'Προεπισκόπηση εκδότη',
+  'resume.showcase.private': 'Ιδιωτικό',
+  'resume.showcase.ccLicense': 'CC Licensed',
+  'resume.showcase.ccWarning':
+    'Ορισμένες ιστορίες που παρουσιάζονται χρησιμοποιούν άδεια Creative Commons. Οι εκδότες θα πρέπει να γνωρίζουν ότι τα έργα αυτά έχουν συγκεκριμένους όρους αδειοδότησης που ενδέχεται να περιορίζουν την εμπορική χρήση.',
+  'resume.showcase.uploadPreview': 'Ανέβασμα Προεπισκόπηση εκδότη',
+  // Contact
+  'resume.editor.contact.heading': 'Στοιχεία επικοινωνίας',
+  'resume.editor.contact.name': 'Όνομα οθόνης',
+  'resume.editor.contact.email': 'Ηλεκτρονικό ταχυδρομείο',
+  'resume.editor.contact.phone': 'Τηλέφωνο',
+  'resume.editor.contact.website': 'Ιστοσελίδα',
+  // Address
+  'resume.editor.address.heading': 'Διεύθυνση αλληλογραφίας',
+  'resume.editor.address.encryptionNotice':
+    'Η διεύθυνσή σας είναι κρυπτογραφημένη και ορατή μόνο στους εκδότες που βλέπουν το βιογραφικό σας.',
+  'resume.editor.address.street': 'Διεύθυνση οδού',
+  'resume.editor.address.city': 'Πόλη',
+  'resume.editor.address.state': 'Πολιτεία / Επαρχία',
+  'resume.editor.address.zip': 'Ταχυδρομικός κώδικας',
+  'resume.editor.address.country': 'Χώρα',
+  // About My Work
+  'resume.editor.aboutWork.heading': 'Σχετικά με τη δουλειά μου',
+  'resume.editor.aboutWork.description':
+    'Γράψτε μια προαιρετική δήλωση καλλιτέχνη για το δημιουργικό σας έργο, τη διαδικασία ή το όραμά σας. Αυτό το τμήμα παρουσιάζεται στους εκδότες μαζί με τα έργα σας που παρουσιάζονται. Αφήστε κενό για να παραλείψετε αυτή την ενότητα.',
+  'resume.editor.aboutWork.label': 'Δήλωση του καλλιτέχνη',
+  'resume.editor.aboutWork.placeholder':
+    'Μοιραστείτε τη δημιουργική σας φιλοσοφία, τι σας οδηγεί στην αφήγηση ιστοριών, τα θέματα που εξερευνάτε...',
+  // Awards
+  'resume.editor.awards.heading': 'Βραβεία & τιμητικές διακρίσεις',
+  'resume.editor.awards.description': 'Προσθέστε βραβεία και διακρίσεις για τις ιστορίες ή τα σύμπαντά σας.',
+  'resume.editor.awards.title': 'Όνομα βραβείου',
+  'resume.editor.awards.organization': 'Οργανισμός',
+  'resume.editor.awards.year': 'Έτος',
+  'resume.editor.awards.desc': 'Περιγραφή',
+  'resume.editor.awards.add': 'Προσθήκη βραβείου',
+  'resume.editor.awards.remove': 'Αφαιρέστε το',
+  // Theme
+  'resume.editor.theme.heading': 'Θέμα βιογραφικού σημειώματος',
+  'resume.editor.theme.description': 'Επιλέξτε ένα οπτικό θέμα για τη δημόσια σελίδα του βιογραφικού σας.',
+  'resume.editor.theme.customize': 'Προσαρμογές',
+  'resume.editor.theme.accentColor': 'Παράκαμψη χρώματος έμφασης',
+  'resume.editor.theme.fontPreference': 'Προτίμηση γραμματοσειράς',
+  // Publisher Preview Settings
+  'resume.preview.settings': 'Προεπισκόπηση εκδότη για {title}',
+  'resume.preview.mode': 'Λειτουργία προεπισκόπησης',
+  'resume.preview.fromChapter': 'Από το κεφάλαιο',
+  'resume.preview.toChapter': 'Προς το Κεφάλαιο',
+  'resume.preview.chapterAccessInfo':
+    'Οι εκδότες θα μπορούν να διαβάζουν τα κεφάλαια {from} έως {to} απευθείας στο Literary Universe.',
+  'resume.preview.generateEpub': 'Δημιουργία προεπισκόπησης EPUB',
+  'resume.preview.epubReady': 'Προεπισκόπηση EPUB στο {date}',
+  'resume.preview.remove': 'Αφαίρεση προεπισκόπησης',
+  'resume.preview.save': 'Αποθήκευση ρυθμίσεων προεπισκόπησης',
+  'resume.preview.banner':
+    'Αυτή είναι μια προεπισκόπηση του τρόπου με τον οποίο οι εκδότες θα δουν το βιογραφικό σας σημείωμα. Είναι πάντα στη διάθεσή σας, ανεξάρτητα από τις ρυθμίσεις πρόσβασης.',
+  'resume.preview.backToEditor': 'Επιστροφή στον Εκδότη',
+  'resume.preview.noResume':
+    'Δεν έχετε δημιουργήσει ακόμη βιογραφικό σημείωμα. Πηγαίνετε στον συντάκτη για να ξεκινήσετε.',
+  'resume.preview.goToEditor': 'Πηγαίνετε στον συντάκτη',
+  // ── Access Settings ─────────────────────────────────────────────────────────
+  'resume.access.title': 'Συνεχίστε τις ρυθμίσεις πρόσβασης',
+  'resume.access.publisher': 'Πρόσβαση του εκδότη στο Literary Universe',
+  'resume.access.publisher.description':
+    'Όταν είναι ενεργοποιημένο, τα μέλη των εκδοτικών οργανισμών στο Literary Universe μπορούν να δουν το βιογραφικό σας απευθείας στο προφίλ του συγγραφέα σας.',
+  'resume.access.publisher.toggle': 'Ενεργοποίηση βιογραφικού σημειώματος για οργανισμούς εκδοτών',
+  'resume.access.publisher.toggleHelp':
+    'Η προεπισκόπηση του βιογραφικού σας σημειώματος είναι πάντα στη διάθεσή σας, ανεξάρτητα από αυτή τη ρύθμιση.',
+  'resume.access.links': 'Διαμοιραζόμενοι σύνδεσμοι',
+  'resume.access.links.description':
+    'Δημιουργήστε μοναδικούς συνδέσμους για να μοιραστείτε το βιογραφικό σας με εκδότες και άλλους. Κάθε σύνδεσμος παρακολουθεί τις επισκέψεις και μπορεί να απενεργοποιηθεί εάν διαρρεύσει.',
+  'resume.access.createLink': 'Δημιουργία νέου συνδέσμου',
+  'resume.access.createLink.title': 'Δημιουργία συνδέσμου πρόσβασης',
+  'resume.access.createLink.comment': 'Σχόλιο (προαιρετικό)',
+  'resume.access.createLink.language': 'Σελίδα Γλώσσα',
+  'resume.access.createLink.create': 'Δημιουργία',
+  'resume.access.noLinks':
+    'Δεν έχουν δημιουργηθεί ακόμη σύνδεσμοι πρόσβασης. Δημιουργήστε έναν σύνδεσμο για να μοιραστείτε το βιογραφικό σας.',
+  'resume.access.copy': 'Αντιγραφή',
+  'resume.access.copied': 'Αντιγραφή!',
+  'resume.access.disable': 'Απενεργοποίηση',
+  'resume.access.enable': 'Ενεργοποίηση',
+  'resume.access.disabled': 'Άτομα με ειδικές ανάγκες',
+  'resume.access.visits': '{count, plural, one {# visit} other {# visits}}',
+  'resume.access.created': 'Δημιουργήθηκε {date}',
+  'resume.access.viewVisits': 'Προβολή λεπτομερειών επίσκεψης',
+  'resume.access.noVisits': 'Δεν έχουν καταγραφεί ακόμη επισκέψεις.',
+  'resume.access.anonymousVisitor': 'Ανώνυμος',
+  'resume.access.onsite': 'Επί τόπου',
+  'resume.access.visitNumber': '(επισκεφθείτε το #{number})',
+  // ── Public Resume Page ──────────────────────────────────────────────────────
+  'resume.public.works': 'Επιλεγμένα έργα',
+  'resume.public.standaloneWorks': 'Άλλα έργα',
+  'resume.public.storiesInSeries': '{count, plural, one {# story} other {# stories}} in series',
+  'resume.public.availableIn': 'Διαθέσιμο σε:',
+  'resume.public.downloadPreview': 'Λήψη προεπισκόπησης',
+  'resume.public.readPreview': 'Διαβάστε την προεπισκόπηση (Κεφ. {from}-{to})',
+  'resume.public.chapters': '{published} κεφάλαια{total, select, 0 {~} other { of {total} προγραμματισμένο}}',
+  'resume.public.publishedDate': 'Δημοσιευμένο {date}',
+  'resume.public.contentWarnings': 'Προειδοποιήσεις περιεχομένου:',
+  'resume.public.status.completed': 'Ολοκληρωμένο',
+  'resume.public.status.ongoing': 'Συνεχής',
+  'resume.public.status.hiatus': 'Hiatus',
+  'resume.public.status.cancelled': 'Ακυρωμένο',
+  'resume.public.aboutWork': 'Σχετικά με τη δουλειά μου',
+  'resume.public.awards': 'Βραβεία & τιμητικές διακρίσεις',
+  'resume.public.viewOnLU': 'Προβολή στο Λογοτεχνικό Σύμπαν →',
+  'resume.public.accessDenied': 'Άρνηση πρόσβασης',
+  'resume.public.accessDenied.description':
+    'Πρέπει να είστε μέλος ενός οργανισμού εκδοτών για να δείτε αυτό το βιογραφικό.',
+  // Contact section
+  'resume.public.contact': 'Επικοινωνία',
+  'resume.public.contact.email': 'Ηλεκτρονικό ταχυδρομείο',
+  'resume.public.contact.phone': 'Τηλέφωνο',
+  'resume.public.contact.website': 'Ιστοσελίδα',
+  'resume.public.contact.address': 'Διεύθυνση',
+  'resume.public.readFreeStory': 'Διαβάστε ολόκληρη την ιστορία',
+  'resume.public.viewResume': 'Δείτε το βιογραφικό του {user}',
+  // Sharing / QR
+  'resume.sharing.businessCard': 'Επαγγελματική κάρτα',
+  'resume.sharing.fullPage': 'Πλήρης σελίδα',
+  'resume.sharing.selectLanguage': 'Γλώσσα / Σύνδεσμος',
+  'resume.sharing.selectLanguages': 'Επιλέξτε τους γλωσσικούς συνδέσμους που θέλετε να συμπεριλάβετε (max {max}):',
+  'resume.sharing.selectAtLeastOne': 'Επιλέξτε τουλάχιστον μία γλώσσα για τη δημιουργία κωδικών QR.',
+  'resume.sharing.authorTitle': 'Συγγραφέας',
+  'resume.sharing.cardSize': 'Μέγεθος κάρτας',
+  'resume.sharing.pageFormat': 'Μορφή σελίδας',
+  'resume.sharing.download': 'Λήψη PNG',
+  // Theme names
+  'resume.theme.light': 'Φως',
+  'resume.theme.dark': 'Σκούρο',
+  'resume.theme.sciFi': 'Sci-Fi',
+  'resume.theme.fantasy': 'Φαντασία',
+  'resume.theme.pragueUrban': 'Πράγα αστική',
+  'resume.theme.steampunk': 'Steampunk',
+  'resume.theme.horror': 'Τρόμος',
+  'resume.theme.militarySciFi': 'Στρατιωτική επιστημονική φαντασία',
+  'resume.theme.artDeco': 'Art Deco',
+};
