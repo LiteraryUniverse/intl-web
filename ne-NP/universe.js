@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'लेखकहरू',
     'universe.authors.desc': '{universe}को लागि सिर्जकहरू र सहयोगीहरू',
     'universe.contributors': 'सहयोगीहरू',
-    'universe.translators': 'अनुवादकहरू',
     'universe.authors.notice': 'प्रत्येक कथामा थप व्यक्तिगतहरुले काम गर्न सक्छन्। थप विवरण देख्नको लागि कृपया कथाको विवरण हेर्नुहोस्।',
     'universe.createdBy': `{gender, select,
     male {द्वारा सिर्जित}
