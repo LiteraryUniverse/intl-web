@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'ইমেইলের মাধ্যমে আমন্ত্রণ জানানো হয়েছে',
     // Members table
     'org.members.joined': 'যোগদান করেছেন',
-    'org.members.actions': 'ক্রিয়া',
     'org.roles.super_admin': 'সুপার অ্যাডমিন'
 };
