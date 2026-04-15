@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Beoordeling',
     'rating.explained': 'Leeftijdsclassificatie en beperking.',
-    'rating.all': 'Alle',
     'rating.desc.all': 'Toegankelijk voor alle leeftijden en groepen.',
     'rating.teens': 'Tieners',
     'rating.desc.teens': 'Geschikt voor een publiek tussen 12 en 18 jaar.',
