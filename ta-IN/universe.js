@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'ஆசிரியர்கள்',
     'universe.authors.desc': '{universe}க்கான அமைப்பாளர்கள் மற்றும் பங்களிப்புருக்காளர்கள்',
     'universe.contributors': 'பங்களிப்புருக்காளர்கள்',
-    'universe.translators': 'மொழிபெயர்ப்பாளர்கள்',
     'universe.authors.notice': 'ஒவ்வொரு கதையிலும் சேர்க்கப்பட்டவராக உள்ள தொழில்நுட்ப தனியார்கள் இருக்கலாம். மேலும் விவரங்களுக்கு கதையின் விபரங்களைப் பார்வையிட்டு பாருங்கள்.',
     'universe.createdBy': `{gender, select,
     male {உருவாக்கப்பட்டது}
