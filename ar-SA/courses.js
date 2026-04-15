@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': 'أنتم مدعوون للمشاركة في {count, plural, one {~ الدورة} other {الدورات}}.',
   'courses.invites.noInvites': 'ليس لديك أي دعوات للدورة التدريبية في الوقت الحالي.',
   'courses.invites.invitedBy': 'مدعو من قبل: ',
-  'courses.invites.accept': 'قبول',
-  'courses.invites.reject': 'رفض',
   'course.join.heading': 'انضم إلى هذه الدورة',
   'course.oneTimePayment': 'الدفع لمرة واحدة للوصول الكامل',
   'course.member': 'تم تسجيلك',
