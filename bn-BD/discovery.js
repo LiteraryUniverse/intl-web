@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'গড় রেটিং {avgRating, number} থেকে {reviewsNum, number} রিভিউ',
     // Story purchase
     'story.buy.button': 'এর জন্য কিনুন {price}',
-    'story.buy.confirm': 'আপনি {price}-এর জন্য এটি কিনতে যাচ্ছেন। পেমেন্ট সম্পন্ন করতে আপনাকে Stripe-এ পুনঃনির্দেশ করা হবে। চালিয়ে যাব?',
     'story.buy.currency': 'ক্রয় মুদ্রা',
     'story.buy.error.generic': 'ক্রয় ব্যর্থ হয়েছে',
-    'story.buy.loginRequired': 'ক্রয় করতে লগ ইন করুন',
     'story.buy.redirecting': 'পুনঃনির্দেশ করা হচ্ছে...',
     'story.price.free': 'বিনামূল্যে',
     'story.price.owned': 'মালিকানাধীন',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'সম্পূর্ণ গল্পের জন্য',
     'story.purchase.secureCheckout': 'স্ট্রাইপের মাধ্যমে নিরাপদ চেকআউট',
     'story.purchase.loginToBuy': 'ক্রয় করতে লগ ইন করুন',
+    'story.purchase.loginToBuyArcs': 'একক গল্পের আর্কগুলি কিনতে লগ ইন করুন',
+    'story.purchase.pricingUnavailable': 'মূল্য সংক্রান্ত তথ্য বর্তমানে অনুপলব্ধ।',
+    'story.buy.error.timeout': 'অনুরোধটি সময়সীমা অতিক্রম করেছে। অনুগ্রহ করে আবার চেষ্টা করুন।',
     'story.chapter.freePreviewEnds': 'বিনামূল্যে পূর্বরূপ এখানে শেষ হচ্ছে'
 };
