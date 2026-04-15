@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Proszę ustawić, ile rozdziałów od początku historii będzie można przeczytać za darmo. Pomaga to przyciągnąć czytelników.',
     'workshop.monetization.fullStoryPricing': 'Pełna wycena',
     'workshop.monetization.lowPriceFee': 'Aktywna zryczałtowana opłata w niskiej cenie.',
-    'workshop.monetization.noArcs': 'Nie zdefiniowano jeszcze łuków fabularnych. Proszę najpierw dodać łuki w ustawieniach fabuły.',
+    'workshop.monetization.noArcs': 'Nie zdefiniowano jeszcze łuków fabularnych. Proszę je dodać w sekcji powyżej.',
     'workshop.monetization.noCurrencies': 'Proszę dodać waluty, aby ustawić ceny dla tej edycji.',
     'workshop.monetization.originalEdition': 'Oryginał',
     'workshop.monetization.payoutSplits': 'Podział wypłat',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': 'Ta historia jest płatna. Zaproszeni muszą ukończyć konfigurację wypłat Stripe, zanim będą mogli je zaakceptować. Mogą Państwo zaproponować udział w przychodach poniżej - zostanie on pobrany z Państwa udziału.',
     'workshop.collaborators.proposedSplit': 'Proponowany udział w przychodach (%)',
-    'workshop.collaborators.splitFromOwnerShare': 'Zostanie ona pobrana z Państwa udziału. Osoba zaproszona musi ukończyć konfigurację wypłaty Stripe, zanim będzie mogła ją zaakceptować.'
+    'workshop.collaborators.splitFromOwnerShare': 'Zostanie ona pobrana z Państwa udziału. Osoba zaproszona musi ukończyć konfigurację wypłaty Stripe, zanim będzie mogła ją zaakceptować.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': 'Łuki fabularne',
+    'workshop.monetization.arcManagementHelp': 'Zdefiniuj łuki swojej historii, ustawiając zakresy rozdziałów. Każdy łuk może być sprzedawany oddzielnie.',
+    'workshop.monetization.saveArcs': 'Zapisywanie łuków',
+    'workshop.monetization.arcsSaved': 'Struktura łuku zapisana.',
+    'workshop.monetization.lowPriceWarning': 'Przy tej cenie obowiązuje minimalna opłata ryczałtowa. Państwa wypłata będzie niższa niż standardowy podział {platformCut, number}%. Proszę rozważyć wycenę na poziomie {thresholdPrice} lub wyższym, aby uzyskać najlepszą wypłatę dla twórcy.',
+    'workshop.monetization.recommendedPrice': 'Zalecana cena w zależności od długości historii ({wordCount, number} {countLabel}): {price}.'
 };
