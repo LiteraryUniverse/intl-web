@@ -71,7 +71,6 @@ export default {
     'settings.country.select': '国を選択してください',
     'settings.emailSubscriptions.newsletterTech': '開発者からのニュースレターが届くこともあります',
     'settings.emailSubscriptions.newsletterFeatures': '新機能に関する情報',
-    'settings.emailNotifications.title': '通知',
     'settings.emailNotifications.pm': '新しいメッセージ',
     'settings.emailNotifications.newChapters': 'あなたがフォローしたストーリーの新しい章',
     'settings.emailNotifications.newStories': 'あなたがフォローしているユニバースや作家の新しい物語',
