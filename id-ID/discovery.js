@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Mengalihkan...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Dimiliki',
-    'story.price.paid': 'Dibayar'
+    'story.price.paid': 'Dibayar',
+    'story.purchase.fullStory': 'Beli cerita lengkapnya',
+    'story.purchase.byArc': 'atau beli dengan busur',
+    'story.purchase.includes': 'Termasuk semua bab {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Bab pertama gratis untuk dibaca} other {Bab pertama {count} bab gratis untuk dibaca}}',
+    'story.purchase.arcIncludes': 'Bab {from}-{to}',
+    'story.purchase.savings': 'Simpan {amount}',
+    'story.purchase.allArcsCost': 'Semua busur secara terpisah: {price}',
+    'story.purchase.owned': 'Anda memiliki cerita ini',
+    'story.purchase.arcOwned': 'Dimiliki',
+    'story.purchase.complete': 'Pembelian selesai! Anda sekarang memiliki akses penuh ke cerita ini.',
+    'story.purchase.header': 'Dapatkan cerita ini',
+    'story.purchase.header.locked': 'Kisah premium',
+    'story.purchase.forFullStory': 'untuk cerita lengkapnya',
+    'story.purchase.secureCheckout': 'Pembayaran aman melalui Stripe',
+    'story.purchase.loginToBuy': 'Masuk untuk membeli',
+    'story.chapter.freePreviewEnds': 'Pratinjau gratis berakhir di sini'
 };
