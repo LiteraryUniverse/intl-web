@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Ymmärrän CC0:n ehdot ja oikeudelliset vaikutukset työhöni.',
     'licenses.learnMore': 'Lue lisää',
     'licenses.legalText': 'Lakiteksti',
-    'licenses.chooser.back': 'Takaisin',
     'licenses.chooser.select': 'Valitse tämä lisenssi',
     'licenses.commercial.title': 'Kaupallisen lisenssin tiedot',
     'licenses.commercial.exclusive': 'Tämän yksinoikeuslisenssin myötä Literary Universe ottaa 10 %:n palkkion tuloistasi. Tämä tarkoittaa, että saat 90 % tuloista, jotka syntyvät teoksestasi alustallamme.',
