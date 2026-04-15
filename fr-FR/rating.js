@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Évaluation',
     'rating.explained': 'Classification par âge et restriction.',
-    'rating.all': 'Tous',
     'rating.desc.all': 'Accessible à tous les âges et à tous les groupes.',
     'rating.teens': 'Adolescents',
     'rating.desc.teens': 'Convient à un public âgé de 12 à 18 ans.',
