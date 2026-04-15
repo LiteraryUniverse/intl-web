@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': '還沒有回覆。成為第一個！',
   'forums.noThreads': '這裡沒有任何內容。由您來開始對話。',
   'forums.openingPost': '開場白',
-  'forums.post': '發布',
   'forums.post.new': '新的貼文',
   'forums.posting': '發佈中...',
   'forums.reply': '回覆',
