@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Ma mõistan CC0 tingimusi ja õiguslikku mõju minu tööle.',
     'licenses.learnMore': 'Lisateave',
     'licenses.legalText': 'Õiguslik tekst',
-    'licenses.chooser.back': 'Tagasi',
     'licenses.chooser.select': 'Valige see litsents',
     'licenses.commercial.title': 'Kommertslitsentsi teave',
     'licenses.commercial.exclusive': 'Selle eksklusiivse litsentsiga võtab Literary Universe 10% tasu teie sissetulekust. See tähendab, et te saate 90% tulust, mis on saadud teie tööga meie platvormil.',
