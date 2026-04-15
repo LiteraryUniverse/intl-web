@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Gennemsnitlig bedømmelse af {avgRating, number} fra {reviewsNum, number} anmeldelse',
     // Story purchase
     'story.buy.button': 'Køb for {price}',
-    'story.buy.confirm': 'Du er ved at købe dette til {price}. Du vil blive omdirigeret til Stripe for at gennemføre betalingen. Vil du fortsætte?',
     'story.buy.currency': 'Købsvaluta',
     'story.buy.error.generic': 'Køb mislykkedes',
-    'story.buy.loginRequired': 'Log ind for at købe',
     'story.buy.redirecting': 'Omdirigering...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Ejet',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'for den fulde historie',
     'story.purchase.secureCheckout': 'Sikker checkout via Stripe',
     'story.purchase.loginToBuy': 'Log ind for at købe',
+    'story.purchase.loginToBuyArcs': 'Log ind for at købe individuelle historier',
+    'story.purchase.pricingUnavailable': 'Prisoplysninger er ikke tilgængelige i øjeblikket.',
+    'story.buy.error.timeout': 'Anmodningen blev afbrudt. Prøv venligst igen.',
     'story.chapter.freePreviewEnds': 'Gratis forhåndsvisning slutter her'
 };
