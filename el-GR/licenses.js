@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Κατανοώ τους όρους και τις νομικές επιπτώσεις του CC0 στο έργο μου',
     'licenses.learnMore': 'Μάθετε περισσότερα',
     'licenses.legalText': 'Νομικό κείμενο',
-    'licenses.chooser.back': 'Πίσω',
     'licenses.chooser.select': 'Επιλέξτε αυτή την άδεια',
     'licenses.commercial.title': 'Πληροφορίες εμπορικής άδειας',
     'licenses.commercial.exclusive': 'Με αυτή την αποκλειστική άδεια, το Literary Universe θα λάβει μια αμοιβή 10% από τα κέρδη σας. Αυτό σημαίνει ότι θα λαμβάνετε το 90% των εσόδων που προκύπτουν από το έργο σας στην πλατφόρμα μας.',
