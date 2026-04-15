@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Average rating of {avgRating, number} from {reviewsNum, number} review',
     // Story purchase
     'story.buy.button': 'Buy for {price}',
-    'story.buy.confirm': 'You are about to purchase this for {price}. You will be redirected to Stripe to complete the payment. Continue?',
     'story.buy.currency': 'Purchase currency',
     'story.buy.error.generic': 'Purchase failed',
-    'story.buy.loginRequired': 'Log in to purchase',
     'story.buy.redirecting': 'Redirecting...',
     'story.price.free': 'Free',
     'story.price.owned': 'Owned',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'for the full story',
     'story.purchase.secureCheckout': 'Secure checkout via Stripe',
     'story.purchase.loginToBuy': 'Log in to purchase',
+    'story.purchase.loginToBuyArcs': 'Log in to purchase individual story arcs',
+    'story.purchase.pricingUnavailable': 'Pricing information is currently unavailable.',
+    'story.buy.error.timeout': 'The request timed out. Please try again.',
     'story.chapter.freePreviewEnds': 'Free preview ends here'
 };
