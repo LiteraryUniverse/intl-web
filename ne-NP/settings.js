@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'तपाईंको देश चयन गर्नुहोस्',
     'settings.emailSubscriptions.newsletterTech': 'हाम्रा डेभलपरहरूबाट अनौठो समाचार पत्रिका',
     'settings.emailSubscriptions.newsletterFeatures': 'नयाँ सुविधाहरूको बारेमा जानकारी',
-    'settings.emailNotifications.title': 'सूचनाहरू',
     'settings.emailNotifications.pm': 'नयाँ सन्देशहरू',
     'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
     'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
