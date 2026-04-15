@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'يتطلب هذا الفصل الشراء',
     'reader.purchaseGate.description': 'لمواصلة القراءة {storyTitle}{authorName, select, undefined {} other { {authorName}}}، تحتاج إلى شرائه.',
-    'reader.purchaseGate.buyFullStory': 'اشتر القصة كاملة',
     'reader.purchaseGate.buyArc': 'أو اشتر هذا القوس',
-    'reader.purchaseGate.buying': 'إعادة التوجيه إلى الخروج...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count}} other {{count}}} ~ متضمنة',
-    'reader.purchaseGate.loginRequired': 'يُرجى تسجيل الدخول لشراء هذه القصة.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count}} other {{count}}} ~ متضمنة'
 };
