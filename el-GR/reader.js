@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Το κεφάλαιο αυτό απαιτεί αγορά',
     'reader.purchaseGate.description': 'Για να συνεχίσετε να διαβάζετε {storyTitle}{authorName, select, undefined {} other { από {authorName}}}, πρέπει να το αγοράσετε.',
-    'reader.purchaseGate.buyFullStory': 'Αγοράστε ολόκληρη την ιστορία',
     'reader.purchaseGate.buyArc': 'Ή αγοράστε αυτό το τόξο',
-    'reader.purchaseGate.buying': 'Επανακατεύθυνση στο ταμείο...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} κεφάλαιο} other {{count} κεφάλαια}} περιλαμβάνονται',
-    'reader.purchaseGate.loginRequired': 'Παρακαλούμε συνδεθείτε για να αγοράσετε αυτή την ιστορία.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} κεφάλαιο} other {{count} κεφάλαια}} περιλαμβάνονται'
 };
