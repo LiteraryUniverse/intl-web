@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'თავისუფალი შენიშვნები {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} პირადი შენიშვნა',
   'personalNotes.searchResults': 'ძიების შედეგი',
-  'personalNotes.type.story': 'სიმასთლე',
-  'personalNotes.type.universe': 'უნივერსი',
-  'personalNotes.type.chapter': 'თავისუფალი',
   'personalNotes.type.encEntry': 'ენციკლოპედიის ტექსტური ბლოკი',
   'personalNotes.type.revTextBlock': 'რევიზიის ტექსტური ბლოკი',
-  'personalNotes.chapter': 'თავისუფალი',
   'personalNotes.recentSearches': 'ბოლო ძიებები:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'
