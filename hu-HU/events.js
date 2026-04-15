@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Csatlakozás az eseményhez',
   'events.selection.origin': 'Esemény eredete',
-  'events.origin.universe': 'Univerzum',
   'events.origin.author': 'Szerző',
-  'events.origin.groups': 'Csoportok',
   'events.origin.organizations': 'Szervezetek',
   'events.origin.lu': 'Irodalmi Univerzum események',
   'events.visibility.label': 'Esemény láthatósága',
