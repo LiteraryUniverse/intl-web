@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'कुराहरूको भाग',
     'discover.search.rating': 'मापदण्ड रेटिङ',
     'discover.search.license': 'कपिराइट लाइसेन्स',
-    'discover.search.language': 'भाषा',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {तपाईंका मापदण्डहरूसँग कुनै विश्वहरू मेल खाँदैनन्}
         one {१ विश्व प्राप्त भयो}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',
