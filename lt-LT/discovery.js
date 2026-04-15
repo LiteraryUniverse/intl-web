@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Peradresavimas...',
     'story.price.free': 'Nemokamai',
     'story.price.owned': 'Turima',
-    'story.price.paid': 'Apmokėta'
+    'story.price.paid': 'Apmokėta',
+    'story.purchase.fullStory': 'Pirkti visą istoriją',
+    'story.purchase.byArc': 'arba pirkti pagal lanką',
+    'story.purchase.includes': 'Įtraukti visi {chaptersCount} skyriai',
+    'story.purchase.freePreview': '{count, plural, one {Pirmąjį skyrių galima peržiūrėti nemokamai} other {Pirmuosius {count} skyrius galima peržiūrėti nemokamai}}',
+    'story.purchase.arcIncludes': 'Skyriai {from}-{to}',
+    'story.purchase.savings': 'Išsaugoti {amount}',
+    'story.purchase.allArcsCost': 'Visi lankai atskirai: {price}',
+    'story.purchase.owned': 'Ši istorija priklauso jums',
+    'story.purchase.arcOwned': 'Turima',
+    'story.purchase.complete': 'Pirkimas baigtas! Dabar turite visišką prieigą prie šios istorijos.',
+    'story.purchase.header': 'Gaukite šią istoriją',
+    'story.purchase.header.locked': 'Aukščiausios kokybės istorija',
+    'story.purchase.forFullStory': 'visą istoriją',
+    'story.purchase.secureCheckout': 'Saugi kasa per "Stripe',
+    'story.purchase.loginToBuy': 'Prisijunkite, kad įsigytumėte',
+    'story.chapter.freePreviewEnds': 'Nemokama peržiūra baigiasi čia'
 };
