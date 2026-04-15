@@ -92,10 +92,8 @@ export default {
     'discover.ratingExplained': 'Priemerné hodnotenie {avgRating, number} od {reviewsNum, number} recenzia',
     // Story purchase
     'story.buy.button': 'Kúpiť na {price}',
-    'story.buy.confirm': 'Chystáte sa ho kúpiť na {price}. Budete presmerovaní na službu Stripe, kde dokončíte platbu. Pokračovať?',
     'story.buy.currency': 'Nákupná mena',
     'story.buy.error.generic': 'Nákup sa nepodaril',
-    'story.buy.loginRequired': 'Prihláste sa na nákup',
     'story.buy.redirecting': 'Presmerovanie...',
     'story.price.free': 'Bezplatne',
     'story.price.owned': 'Vlastné',
@@ -115,5 +113,8 @@ export default {
     'story.purchase.forFullStory': 'pre celý príbeh',
     'story.purchase.secureCheckout': 'Zabezpečené platby cez Stripe',
     'story.purchase.loginToBuy': 'Prihláste sa na nákup',
+    'story.purchase.loginToBuyArcs': 'Prihláste sa a zakúpte si jednotlivé príbehové oblúky',
+    'story.purchase.pricingUnavailable': 'Informácie o cenách v súčasnosti nie sú k dispozícii.',
+    'story.buy.error.timeout': 'Požiadavka sa oneskorila. Skúste to prosím znova.',
     'story.chapter.freePreviewEnds': 'Bezplatný náhľad končí tu'
 };
