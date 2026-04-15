@@ -94,10 +94,8 @@ export default {
     'discover.ratingExplained': 'Průměrné hodnocení {avgRating, number} od {reviewsNum, number} recenze',
     // Story purchase
     'story.buy.button': 'Koupit na {price}',
-    'story.buy.confirm': 'Chystáte se zakoupit tento produkt na {price}. Budete přesměrováni na službu Stripe, kde dokončíte platbu. Pokračovat?',
     'story.buy.currency': 'Nákupní měna',
     'story.buy.error.generic': 'Nákup se nezdařil',
-    'story.buy.loginRequired': 'Přihlaste se k nákupu',
     'story.buy.redirecting': 'Přesměrování...',
     'story.price.free': 'Zdarma',
     'story.price.owned': 'Vlastní',
@@ -117,5 +115,8 @@ export default {
     'story.purchase.forFullStory': 'pro celý příběh',
     'story.purchase.secureCheckout': 'Zabezpečené pokladny přes Stripe',
     'story.purchase.loginToBuy': 'Přihlaste se k nákupu',
+    'story.purchase.loginToBuyArcs': 'Přihlaste se k nákupu jednotlivých příběhů',
+    'story.purchase.pricingUnavailable': 'Informace o cenách nejsou v současné době k dispozici.',
+    'story.buy.error.timeout': 'Požadavek se vyčerpal. Zkuste to prosím znovu.',
     'story.chapter.freePreviewEnds': 'Bezplatný náhled končí zde'
 };
