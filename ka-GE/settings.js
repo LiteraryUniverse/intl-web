@@ -73,7 +73,6 @@ export default {
     'settings.country.select': 'აირჩიეთ თქვენი ქვეყანა',
     'settings.emailSubscriptions.newsletterTech': 'ჩვენი დეველოპერების პერიოდული საინფორმაციო ბიულეტენი',
     'settings.emailSubscriptions.newsletterFeatures': 'ინფორმაცია ახალი ფუნქციების შესახებ',
-    'settings.emailNotifications.title': 'შეტყობინებები',
     'settings.emailNotifications.pm': 'ახალი შეტყობინებები',
     'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
     'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
