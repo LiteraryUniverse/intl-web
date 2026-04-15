@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'En del af et univers',
     'discover.search.rating': 'Aldersvurdering',
     'discover.search.license': 'Ophavsret licens',
-    'discover.search.language': 'Sprog',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Ingen universer matcher dine parametre}
         one {1 univers fundet}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Denne historie gives kun som en forhåndsvisning af værket.',
     'discovery.includesAds': 'Inkluderer annoncer',
     // AI content related strings
-    'discovery.ai.content': 'AI-genereret indhold',
     'discovery.ai.universes': 'AI-genererede universer',
     'discovery.ai.stories': 'AI-genererede historier',
     'discovery.ai.noContent': 'Intet AI-genereret indhold tilgængeligt endnu.',
