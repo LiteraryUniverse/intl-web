@@ -103,5 +103,6 @@ export default {
 
   // Members table
   'org.members.joined': 'Joined',
+  'org.members.actions': 'Actions',
   'org.roles.super_admin': 'Super Admin',
 }
