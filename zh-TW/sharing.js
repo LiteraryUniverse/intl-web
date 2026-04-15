@@ -4,7 +4,6 @@ export default {
     'sharing.share': '與...',
     'sharing.feedback': '有任何您想分享的地方遺漏了嗎？請讓我們知道！',
     'sharing.copy': '複製',
-    'sharing.email': '電子郵件',
     'sharing.sms': '簡訊',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
