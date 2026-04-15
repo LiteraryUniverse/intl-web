@@ -117,5 +117,9 @@ export default {
   'story.purchase.forFullStory': 'for the full story',
   'story.purchase.secureCheckout': 'Secure checkout via Stripe',
   'story.purchase.loginToBuy': 'Log in to purchase',
+  'story.purchase.loginToBuyArcs': 'Log in to purchase individual story arcs',
+  'story.purchase.pricingUnavailable':
+    'Pricing information is currently unavailable.',
+  'story.buy.error.timeout': 'The request timed out. Please try again.',
   'story.chapter.freePreviewEnds': 'Free preview ends here',
 }
