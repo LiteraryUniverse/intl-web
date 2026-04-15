@@ -581,7 +581,7 @@ export default {
     'workshop.monetization.freePreviewHelp': '스토리의 시작부터 누구나 무료로 읽을 수 있는 챕터 수를 설정합니다. 이렇게 하면 독자를 유치하는 데 도움이 됩니다.',
     'workshop.monetization.fullStoryPricing': '전체 스토리 가격',
     'workshop.monetization.lowPriceFee': '저렴한 정액제 요금제 활성화.',
-    'workshop.monetization.noArcs': '아직 스토리 호가 정의되지 않았습니다. 먼저 스토리 설정에 호를 추가하세요.',
+    'workshop.monetization.noArcs': '아직 정의된 스토리 호가 없습니다. 위의 스토리 호 섹션에서 호를 추가하세요.',
     'workshop.monetization.noCurrencies': '통화를 추가하여 이 에디션의 가격을 설정합니다.',
     'workshop.monetization.originalEdition': '원본',
     'workshop.monetization.payoutSplits': '지급금 분할',
@@ -622,5 +622,12 @@ export default {
     // Collaborator monetization
     'workshop.collaborators.monetizedNotice': '이 스토리는 수익 창출이 가능합니다. 초대를 받은 사람은 수락하기 전에 Stripe 지급 설정을 완료해야 합니다. 아래에서 수익 배분을 제안할 수 있으며, 수익 배분은 귀하의 몫에서 차감됩니다.',
     'workshop.collaborators.proposedSplit': '제안된 수익 배분(%)',
-    'workshop.collaborators.splitFromOwnerShare': '이 금액은 회원님의 몫에서 차감됩니다. 초대를 받은 사람은 수락하기 전에 Stripe 지급 설정을 완료해야 합니다.'
+    'workshop.collaborators.splitFromOwnerShare': '이 금액은 회원님의 몫에서 차감됩니다. 초대를 받은 사람은 수락하기 전에 Stripe 지급 설정을 완료해야 합니다.',
+    // Arc management on monetization page
+    'workshop.monetization.arcManagement': '스토리 아크',
+    'workshop.monetization.arcManagementHelp': '챕터 범위를 설정하여 스토리의 아크를 정의하세요. 각 아크는 개별적으로 판매할 수 있습니다.',
+    'workshop.monetization.saveArcs': '호 저장',
+    'workshop.monetization.arcsSaved': '아크 구조가 저장되었습니다.',
+    'workshop.monetization.lowPriceWarning': '이 가격에서는 최소 정액 요금이 적용됩니다. 지급액은 표준 {platformCut, number}% 분할보다 낮습니다. 최고의 크리에이터 정산금을 받으려면 {thresholdPrice} 이상의 가격을 고려하세요.',
+    'workshop.monetization.recommendedPrice': '스토리 길이에 따른 권장 가격 ({wordCount, number} {countLabel}): {price}.'
 };
