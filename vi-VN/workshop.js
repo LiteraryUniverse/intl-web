@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Đang tải lên... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Tệp xem trước dành cho nhà xuất bản đã được tải lên cho bài viết này.',
     'workshop.story.publisherPreview.replace': 'Thay thế tệp',
-    'workshop.story.publisherPreview.remove': 'Xóa',
     // Story monetization
     'workshop.monetization.addCurrency': 'Thêm một loại tiền tệ được hỗ trợ khác',
     'workshop.monetization.arcDescription': 'Mô tả về Arc (hiển thị trong quá trình thanh toán trên Stripe)',
