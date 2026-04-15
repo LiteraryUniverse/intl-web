@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'Omdirigering...',
     'story.price.free': 'Gratis',
     'story.price.owned': 'Ejet',
-    'story.price.paid': 'Betalt'
+    'story.price.paid': 'Betalt',
+    'story.purchase.fullStory': 'Køb hele historien',
+    'story.purchase.byArc': 'eller køb med bue',
+    'story.purchase.includes': 'Indeholder alle kapitler på {chaptersCount}',
+    'story.purchase.freePreview': '{count, plural, one {Første kapitel er gratis at få vist} other {Første {count} kapitler er gratis at få vist}}',
+    'story.purchase.arcIncludes': 'Kapitler {from}-{to}',
+    'story.purchase.savings': 'Gem {amount}',
+    'story.purchase.allArcsCost': 'Alle buer hver for sig: {price}',
+    'story.purchase.owned': 'Du ejer denne historie',
+    'story.purchase.arcOwned': 'Ejet',
+    'story.purchase.complete': 'Købet er gennemført! Du har nu fuld adgang til denne historie.',
+    'story.purchase.header': 'Få denne historie',
+    'story.purchase.header.locked': 'Førsteklasses historie',
+    'story.purchase.forFullStory': 'for den fulde historie',
+    'story.purchase.secureCheckout': 'Sikker checkout via Stripe',
+    'story.purchase.loginToBuy': 'Log ind for at købe',
+    'story.chapter.freePreviewEnds': 'Gratis forhåndsvisning slutter her'
 };
