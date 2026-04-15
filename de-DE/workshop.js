@@ -298,6 +298,7 @@ export default {
     'workshop.story.alternateFormats.epub.generatedAt': 'Erzeugt am {generatedAt, date, medium} unter {generatedAt, time, short}',
     'workshop.story.alternateFormats.epub.generationFailed': 'EPUB-Erstellung fehlgeschlagen.',
     'workshop.story.alternateFormats.epub.saveArcBeforeGeneration': 'Speichern Sie diesen Bogen zuerst, um die EPUB-Erstellung zu aktivieren.',
+    'workshop.story.alternateFormats.externalUrls.secureStorageRequired': 'Externe URLs sind für lizenzierte Geschichten von Literary Universe deaktiviert. Laden Sie stattdessen Dateien hoch, damit sie auf einem verschlüsselten Speicherplatz bleiben.',
     'workshop.story.alternateFormats.fullStory.title': 'Vollständige Geschichte Datei',
     'workshop.story.alternateFormats.ongoingAccess.title': 'Fortlaufender Zugang',
     'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'Alle derzeit verfügbaren Kapitel',
@@ -581,7 +582,7 @@ export default {
     'workshop.monetization.freePreviewHelp': 'Legen Sie fest, wie viele Kapitel vom Anfang Ihrer Geschichte an für jedermann frei zugänglich sind. Das hilft, Leser anzuziehen.',
     'workshop.monetization.fullStoryPricing': 'Vollständige Geschichte Preise',
     'workshop.monetization.lowPriceFee': 'Preisgünstige Pauschalgebühr aktiv.',
-    'workshop.monetization.noArcs': 'No story arcs defined yet. Add arcs in the story arcs section above.',
+    'workshop.monetization.noArcs': 'Noch keine Handlungsbögen definiert. Fügen Sie Handlungsbögen im Abschnitt Handlungsbögen oben hinzu.',
     'workshop.monetization.noCurrencies': 'Fügen Sie Währungen hinzu, um Preise für diese Ausgabe festzulegen.',
     'workshop.monetization.originalEdition': 'Original',
     'workshop.monetization.payoutSplits': 'Auszahlungssplits',
@@ -624,10 +625,10 @@ export default {
     'workshop.collaborators.proposedSplit': 'Vorgeschlagene Umsatzbeteiligung (%)',
     'workshop.collaborators.splitFromOwnerShare': 'Dieser Betrag wird von Ihrem Anteil abgezogen. Der Eingeladene muss die Stripe-Auszahlung einrichten, bevor er akzeptieren kann.',
     // Arc management on monetization page
-    'workshop.monetization.arcManagement': 'Story arcs',
-    'workshop.monetization.arcManagementHelp': 'Define the arcs of your story by setting chapter ranges. Each arc can be sold separately.',
-    'workshop.monetization.saveArcs': 'Save arcs',
-    'workshop.monetization.arcsSaved': 'Arc structure saved.',
-    'workshop.monetization.lowPriceWarning': 'At this price, the flat-fee minimum applies. Your payout will be lower than the standard {platformCut, number}% split. Consider pricing at {thresholdPrice} or above for the best creator payout.',
-    'workshop.monetization.recommendedPrice': 'Recommended price based on story length ({wordCount, number} {countLabel}): {price}.'
+    'workshop.monetization.arcManagement': 'Handlungsbögen',
+    'workshop.monetization.arcManagementHelp': 'Definieren Sie die Bögen Ihrer Geschichte, indem Sie Kapitelbereiche festlegen. Jeder Bogen kann separat verkauft werden.',
+    'workshop.monetization.saveArcs': 'Bögen speichern',
+    'workshop.monetization.arcsSaved': 'Bogenstruktur gespeichert.',
+    'workshop.monetization.lowPriceWarning': 'Bei diesem Preis gilt das Flatfee-Minimum. Ihre Auszahlung wird niedriger sein als der Standard {platformCut, number}% Split. Ziehen Sie einen Preis von {thresholdPrice} oder höher in Erwägung, um die beste Auszahlung für den Ersteller zu erhalten.',
+    'workshop.monetization.recommendedPrice': 'Empfohlener Preis basierend auf der Länge der Geschichte ({wordCount, number} {countLabel}): {price}.'
 };
