@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'পুনঃনির্দেশ করা হচ্ছে...',
     'story.price.free': 'বিনামূল্যে',
     'story.price.owned': 'মালিকানাধীন',
-    'story.price.paid': 'বেতনপ্রাপ্ত'
+    'story.price.paid': 'বেতনপ্রাপ্ত',
+    'story.purchase.fullStory': 'সম্পূর্ণ গল্পটি কিনুন',
+    'story.purchase.byArc': 'অথবা আর্ক অনুযায়ী কিনুন',
+    'story.purchase.includes': '{chaptersCount} -এর সমস্ত অধ্যায় অন্তর্ভুক্ত',
+    'story.purchase.freePreview': '{count, plural, one {প্রথম অধ্যায় বিনামূল্যে প্রিভিউ} other {প্রথম {count} অধ্যায় বিনামূল্যে প্রিভিউ}}',
+    'story.purchase.arcIncludes': 'অধ্যায়সমূহ {from}–{to}',
+    'story.purchase.savings': 'সংরক্ষণ করুন {amount}',
+    'story.purchase.allArcsCost': 'সবগুলো আর্ক আলাদাভাবে: {price}',
+    'story.purchase.owned': 'এই গল্পটি আপনারই',
+    'story.purchase.arcOwned': 'মালিকানাধীন',
+    'story.purchase.complete': 'ক্রয় সম্পন্ন! এখন আপনি এই গল্পে সম্পূর্ণ অ্যাক্সেস পেয়েছেন।',
+    'story.purchase.header': 'এই গল্পটি পান',
+    'story.purchase.header.locked': 'প্রিমিয়াম গল্প',
+    'story.purchase.forFullStory': 'সম্পূর্ণ গল্পের জন্য',
+    'story.purchase.secureCheckout': 'স্ট্রাইপের মাধ্যমে নিরাপদ চেকআউট',
+    'story.purchase.loginToBuy': 'ক্রয় করতে লগ ইন করুন',
+    'story.chapter.freePreviewEnds': 'বিনামূল্যে পূর্বরূপ এখানে শেষ হচ্ছে'
 };
