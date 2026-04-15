@@ -86,10 +86,8 @@ export default {
     'discover.ratingExplained': 'Penilaian purata {avgRating, number} daripada {reviewsNum, number} ulasan',
     // Story purchase
     'story.buy.button': 'Beli untuk {price}',
-    'story.buy.confirm': 'Anda akan membeli ini untuk {price}. Anda akan diarahkan ke Stripe untuk menyelesaikan pembayaran. Teruskan?',
     'story.buy.currency': 'Membeli mata wang',
     'story.buy.error.generic': 'Pembelian gagal',
-    'story.buy.loginRequired': 'Log masuk untuk membuat pembelian',
     'story.buy.redirecting': 'Sedang mengalihkan...',
     'story.price.free': 'Percuma',
     'story.price.owned': 'Dimiliki',
@@ -109,5 +107,8 @@ export default {
     'story.purchase.forFullStory': 'untuk kisah penuh',
     'story.purchase.secureCheckout': 'Bayaran selamat melalui Stripe',
     'story.purchase.loginToBuy': 'Log masuk untuk membuat pembelian',
+    'story.purchase.loginToBuyArcs': 'Log masuk untuk membeli alur cerita individu',
+    'story.purchase.pricingUnavailable': 'Maklumat harga kini tidak tersedia.',
+    'story.buy.error.timeout': 'Permintaan telah tamat masa. Sila cuba lagi.',
     'story.chapter.freePreviewEnds': 'Akses pratonton percuma berakhir di sini'
 };
