@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'Цей розділ потрібно придбати',
     'reader.purchaseGate.description': 'Щоб продовжити читання {storyTitle}{authorName, select, undefined {} other { на {authorName}}}, вам потрібно його придбати.',
-    'reader.purchaseGate.buyFullStory': 'Купити повну версію',
     'reader.purchaseGate.buyArc': 'Або купити цю дугу',
-    'reader.purchaseGate.buying': 'Перенаправлення на оформлення замовлення...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} розділ} other {{count} глави}} включено',
-    'reader.purchaseGate.loginRequired': 'Будь ласка, увійдіть, щоб придбати цю історію.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} розділ} other {{count} глави}} включено'
 };
