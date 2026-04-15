@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'ਅੱਪਲੋਡ ਹੋ ਰਿਹਾ ਹੈ... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'ਇਸ ਕਹਾਣੀ ਲਈ ਇੱਕ ਪ੍ਰਕਾਸ਼ਕ ਪ੍ਰੀਵਿਊ ਫਾਈਲ ਅੱਪਲੋਡ ਕੀਤੀ ਗਈ ਹੈ।',
     'workshop.story.publisherPreview.replace': 'ਫਾਈਲ ਬਦਲੋ',
-    'workshop.story.publisherPreview.remove': 'ਹਟਾਓ',
     // Story monetization
     'workshop.monetization.addCurrency': 'ਹੋਰ ਇੱਕ ਸਹਿਯੋਗੀ ਮੁਦਰਾ ਸ਼ਾਮਲ ਕਰੋ',
     'workshop.monetization.arcDescription': 'ਆਰਕ ਵੇਰਵਾ (ਸਟ੍ਰਾਈਪ ਚੈੱਕਆਊਟ ਵਿੱਚ ਦਿਖਾਇਆ ਗਿਆ)',
