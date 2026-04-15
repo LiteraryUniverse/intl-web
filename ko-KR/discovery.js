@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': '우주의 일부',
     'discover.search.rating': '연령 등급',
     'discover.search.license': '저작권 라이선스',
-    'discover.search.language': '언어',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {매개변수와 일치하는 우주가 없습니다}
         one {1개의 우주가 발견되었습니다}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': '이 이야기는 작품의 미리보기로만 제공됩니다.',
     'discovery.includesAds': '광고 포함',
     // AI content related strings
-    'discovery.ai.content': 'AI 생성 콘텐츠',
     'discovery.ai.universes': 'AI 생성 유니버스',
     'discovery.ai.stories': 'AI가 생성한 스토리',
     'discovery.ai.noContent': '아직 AI가 생성한 콘텐츠가 없습니다.',
