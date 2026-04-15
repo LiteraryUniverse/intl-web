@@ -93,5 +93,21 @@ export default {
     'story.buy.redirecting': 'ਮੁੜ-ਨਿਰਦੇਸ਼ਿਤ ਕਰ ਰਿਹਾ ਹੈ...',
     'story.price.free': 'ਮੁਫ਼ਤ',
     'story.price.owned': 'ਮਾਲਕੀ',
-    'story.price.paid': 'ਭੁਗਤਾਨ ਕੀਤਾ ਹੋਇਆ'
+    'story.price.paid': 'ਭੁਗਤਾਨ ਕੀਤਾ ਹੋਇਆ',
+    'story.purchase.fullStory': 'ਪੂਰੀ ਕਹਾਣੀ ਖਰੀਦੋ',
+    'story.purchase.byArc': 'ਜਾਂ ਆਰਕ ਅਨੁਸਾਰ ਖਰੀਦੋ',
+    'story.purchase.includes': 'ਸਾਰੇ {chaptersCount} ਦੇ ਅਧਿਆਇ ਸ਼ਾਮਲ ਹਨ।',
+    'story.purchase.freePreview': '{count, plural, one {ਪਹਿਲਾ ਅਧਿਆਇ ਮੁਫ਼ਤ ਪ੍ਰੀਵਿਊ ਲਈ} other {ਪਹਿਲਾ {count} ਅਧਿਆਇ ਮੁਫ਼ਤ ਪ੍ਰੀਵਿਊ ਲਈ}}',
+    'story.purchase.arcIncludes': 'ਅਧਿਆਇ {from}–{to}',
+    'story.purchase.savings': 'ਬਚਾਓ {amount}',
+    'story.purchase.allArcsCost': 'ਸਾਰੇ ਆਰਕ ਵੱਖ-ਵੱਖ: {price}',
+    'story.purchase.owned': 'ਇਹ ਕਹਾਣੀ ਤੁਹਾਡੀ ਹੈ',
+    'story.purchase.arcOwned': 'ਮਾਲਕੀ',
+    'story.purchase.complete': 'ਖਰੀਦਦਾਰੀ ਪੂਰੀ ਹੋ ਗਈ! ਹੁਣ ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਕਹਾਣੀ ਤੱਕ ਪੂਰੀ ਪਹੁੰਚ ਹੈ।',
+    'story.purchase.header': 'ਇਹ ਕਹਾਣੀ ਲਓ',
+    'story.purchase.header.locked': 'ਪ੍ਰੀਮੀਅਮ ਕਹਾਣੀ',
+    'story.purchase.forFullStory': 'ਪੂਰੀ ਕਹਾਣੀ ਲਈ',
+    'story.purchase.secureCheckout': 'ਸਟ੍ਰਾਈਪ ਰਾਹੀਂ ਸੁਰੱਖਿਅਤ ਚੈੱਕਆਊਟ',
+    'story.purchase.loginToBuy': 'ਖਰੀਦਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ',
+    'story.chapter.freePreviewEnds': 'ਮੁਫ਼ਤ ਪ੍ਰੀਵਿਊ ਇੱਥੇ ਖਤਮ ਹੁੰਦੀ ਹੈ'
 };
