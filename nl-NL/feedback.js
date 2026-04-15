@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Een nieuwe functie voorstellen',
     'feedback.lang.nosupport': 'Uw huidige taal wordt niet ondersteund voor feedback, schrijf alstublieft in het Engels. Hartelijk dank!',
     'feedback.new.thanks': 'Bedankt voor de melding! We zullen er binnenkort naar kijken.',
-    'feedback.comment.title': 'Reactie',
     'feedback.comment.desc': 'Stuur ons uw feedback',
     'feedback.comment.legend': 'Uw feedback - laat het ons weten',
     'feedback.comment.success': 'Bedankt voor je feedback!',
@@ -55,7 +54,6 @@ export default {
     story {verhaal}
     other {verhaal}
   } wordt geschonden?`,
-    'feedback.help.overview': 'Overzicht',
     'feedback.help.articles': 'Artikelen',
     'feedback.help.courses': 'Cursussen',
     'feedback.help.videoTutorials': 'Video-handleidingen',
