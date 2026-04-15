@@ -46,9 +46,6 @@ export default {
     // Purchase gate
     'reader.purchaseGate.title': 'יש לרכוש את הפרק הזה',
     'reader.purchaseGate.description': 'כדי להמשיך לקרוא את {storyTitle}{authorName, select, undefined {} other { מאת {authorName}}}, עליך לרכוש את הספר.',
-    'reader.purchaseGate.buyFullStory': 'קנה את הסיפור המלא',
     'reader.purchaseGate.buyArc': 'או לקנות את הקשת הזו',
-    'reader.purchaseGate.buying': 'מנתבים לדף התשלום...',
-    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} פרק} other {{count} פרקים}} כלול',
-    'reader.purchaseGate.loginRequired': 'אנא התחבר כדי לרכוש את הסיפור הזה.'
+    'reader.purchaseGate.arcChapterCount': '{count, plural, one {{count} פרק} other {{count} פרקים}} כלול'
 };
