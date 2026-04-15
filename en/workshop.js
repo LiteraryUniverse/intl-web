@@ -350,6 +350,8 @@ export default {
     'EPUB generation failed.',
   'workshop.story.alternateFormats.epub.saveArcBeforeGeneration':
     'Save this arc first to enable EPUB generation.',
+  'workshop.story.alternateFormats.externalUrls.secureStorageRequired':
+    'External URLs are disabled for Literary Universe licensed stories. Upload files instead so they remain on encrypted storage.',
   'workshop.story.alternateFormats.fullStory.title': 'Full story file',
   'workshop.story.alternateFormats.ongoingAccess.title': 'Ongoing access',
   'workshop.story.alternateFormats.ongoingAccess.allAvailable': 'All currently available chapters',
