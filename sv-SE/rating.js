@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Betyg',
     'rating.explained': 'Åldersbetyg och begränsning.',
-    'rating.all': 'Alla',
     'rating.desc.all': 'Tillgängligt för alla åldrar och grupper.',
     'rating.teens': 'Tonåringar',
     'rating.desc.teens': 'Lämpligt för en publik mellan 12 och 18 år.',
