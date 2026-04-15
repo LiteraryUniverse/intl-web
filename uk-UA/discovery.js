@@ -94,10 +94,8 @@ export default {
     'discover.ratingExplained': 'Середня оцінка {avgRating, number} з {reviewsNum, number} відгуку',
     // Story purchase
     'story.buy.button': 'Купуйте на {price}',
-    'story.buy.confirm': 'Ви збираєтеся купити цей товар за адресою {price}. Вас буде перенаправлено на сайт Stripe для завершення оплати. Продовжити?',
     'story.buy.currency': 'Купівля валюти',
     'story.buy.error.generic': 'Покупка не вдалася',
-    'story.buy.loginRequired': 'Увійдіть, щоб придбати',
     'story.buy.redirecting': 'Перенаправлення...',
     'story.price.free': 'Безкоштовно',
     'story.price.owned': 'Належить',
@@ -117,5 +115,8 @@ export default {
     'story.purchase.forFullStory': 'щоб прочитати повну версію',
     'story.purchase.secureCheckout': 'Безпечна оплата через Stripe',
     'story.purchase.loginToBuy': 'Увійдіть, щоб придбати',
+    'story.purchase.loginToBuyArcs': 'Увійдіть, щоб придбати окремі сюжетні арки',
+    'story.purchase.pricingUnavailable': 'Інформація про ціни наразі недоступна.',
+    'story.buy.error.timeout': 'Закінчився термін дії запиту. Спробуйте ще раз.',
     'story.chapter.freePreviewEnds': 'Безкоштовний попередній перегляд закінчується тут'
 };
