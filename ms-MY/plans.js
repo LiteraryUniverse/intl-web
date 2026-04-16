@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Welcome aboard! Every contribution keeps the creative lights on and brings new chapters, art, and behind-the-scenes moments to life.',
     'plans.fanClub.thankYou.heroAlt': 'Celebratory illustration placeholder',
     'plans.fanClub.thankYou.closing': 'From everyone here, thank you for believing in this storyteller. Your support makes a real difference.',
-    'plans.fanClub.thankYou.eyebrow': 'Kejuangan disahkan',
     'plans.fanClub.thankYou.accessCta': 'Lihat akses ahli anda',
     'plans.fanClub.thankYou.backCta': 'Buka kelab peminat',
     'plans.fanClub.thankYou.whatsNextTitle': 'Apa yang berlaku seterusnya?',
