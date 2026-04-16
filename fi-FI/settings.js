@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Syötä näytöllä näkyvät 6 numeroa tähän loppuun saattamiseksi.',
     'settings.2fa.saved': 'Kaksivaiheinen tunnistautuminen onnistuneesti luotu!',
     'settings.2fa.disableOTP': 'Poista OTP-kaksivaiheinen tunnistautuminen käytöstä',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API-avaimet',
     'settings.apiKeys.description': 'API-avaimien avulla kolmannen osapuolen sovellukset voivat käyttää Literary Universe -tietojasi puolestasi. Kohtele niitä kuin salasanoja äläkä koskaan jaa niitä.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Pääset käyttämään käyttäjätunnusta, avataria ja julkista profiilia.',
     'settings.apiKeys.scope.library.read': 'Lue kirjasto',
     'settings.apiKeys.scope.library.read.desc': 'Pääset lukulistoihisi ja tallennettuihin tarinoihisi',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3-lompakon yhdistäminen',
     'settings.web3.explained': 'Voit yhdistää Web3-kryptovaluuttalompakkosi Literary Universe -tiliisi. Kun olet yhdistänyt lompakon, voit kirjautua sisään lompakollasi ja tehdä tulevaisuudessa vielä enemmän asioita, kun laajennamme Web3-tarjontaamme.',
