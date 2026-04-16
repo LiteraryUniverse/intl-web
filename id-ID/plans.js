@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Tidak terkunci melalui',
     'plans.benefits.giftAfter': 'Hadiah setelah {months} bulan',
     'plans.benefits.giftGranted': 'Hadiah tidak terkunci',
     'plans.reader.earlyAccess.until': 'Tersedia untuk pelanggan hingga {date}',
