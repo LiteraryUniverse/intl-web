@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Ketik 6 angka yang muncul di layar ke dalam input di sini untuk menyelesaikan.',
     'settings.2fa.saved': 'Autentikasi dua faktor berhasil dibuat!',
     'settings.2fa.disableOTP': 'Nonaktifkan autentikasi dua faktor OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Kunci API',
     'settings.apiKeys.description': 'Kunci API memungkinkan aplikasi pihak ketiga untuk mengakses data Literary Universe atas nama Anda. Perlakukan kunci API seperti kata sandi dan jangan pernah membagikannya.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Mengakses nama pengguna, avatar, dan profil publik Anda',
     'settings.apiKeys.scope.library.read': 'Baca perpustakaan',
     'settings.apiKeys.scope.library.read.desc': 'Mengakses daftar bacaan dan cerita yang disimpan',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Koneksi dompet Web3',
     'settings.web3.explained': 'Anda dapat menghubungkan dompet kripto Web3 Anda ke akun Literary Universe Anda. Setelah terhubung, Anda akan dapat login dengan dompet Anda dan melakukan hal-hal yang lebih banyak di masa depan saat kami memperluas penawaran Web3 kami.',
