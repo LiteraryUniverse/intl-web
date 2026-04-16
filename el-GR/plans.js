@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Καλώς ήρθατε! Κάθε συνεισφορά κρατάει τα δημιουργικά φώτα αναμμένα και φέρνει στη ζωή νέα κεφάλαια, τέχνη και στιγμές από τα παρασκήνια.',
     'plans.fanClub.thankYou.heroAlt': 'Εορταστική εικονογράφηση placeholder',
     'plans.fanClub.thankYou.closing': 'Από όλους εδώ, σας ευχαριστώ που πιστεύετε σε αυτόν τον παραμυθά. Η υποστήριξή σας κάνει την πραγματική διαφορά.',
-    'plans.fanClub.thankYou.eyebrow': 'Επιβεβαιώθηκε η ιδιότητα μέλους',
     'plans.fanClub.thankYou.accessCta': 'Δείτε την πρόσβαση των μελών σας',
     'plans.fanClub.thankYou.backCta': 'Ανοιχτό fan club',
     'plans.fanClub.thankYou.whatsNextTitle': 'Τι θα συμβεί στη συνέχεια',
