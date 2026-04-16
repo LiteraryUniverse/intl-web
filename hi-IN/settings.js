@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'स्क्रीन पर दिखाई देने वाले 6 नंबर्स को यहाँ इनपुट में दर्ज करें और समाप्त करें।',
     'settings.2fa.saved': 'दो-कारक प्रमाणीकरण सफलतापूर्वक स्थापित किया गया है!',
     'settings.2fa.disableOTP': 'ओटीपी द्वारा दो-कारक प्रमाणीकरण अक्षम करें',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API Keys',
     'settings.apiKeys.description': 'API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Access your username, avatar, and public profile',
     'settings.apiKeys.scope.library.read': 'Read library',
     'settings.apiKeys.scope.library.read.desc': 'Access your reading lists and saved stories',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 वॉलेट कनेक्शन',
     'settings.web3.explained': 'आप अपने Web3 क्रिप्टो वॉलेट को अपने Literary Universe खाते से कनेक्ट कर सकते हैं। एक बार कनेक्ट करने के बाद, आप अपने वॉलेट के साथ लॉगिन कर सकेंगे और हम अपनी Web3 पेशकश को बढ़ाते हुए भविष्य में और भी अधिक करने के लिए कर सकेंगे।',
