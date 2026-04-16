@@ -248,7 +248,6 @@ export default {
   'plans.fanClub.thankYou.heroAlt': 'Celebratory illustration placeholder',
   'plans.fanClub.thankYou.closing':
     'From everyone here, thank you for believing in this storyteller. Your support makes a real difference.',
-  'plans.fanClub.thankYou.eyebrow': 'Membership confirmed',
   'plans.fanClub.thankYou.accessCta': 'See your member access',
   'plans.fanClub.thankYou.backCta': 'Open fan club',
   'plans.fanClub.thankYou.whatsNextTitle': 'What happens next',
