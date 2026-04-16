@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Üdvözöljük a fedélzeten! Minden hozzájárulásoddal a kreatív fények égnek, és új fejezeteket, művészeti alkotásokat és kulisszák mögötti pillanatokat hozol életre.',
     'plans.fanClub.thankYou.heroAlt': 'Ünnepi illusztráció helytartó',
     'plans.fanClub.thankYou.closing': 'Mindenki nevében köszönöm, hogy hisznek ebben a mesemondóban. A támogatásotok valódi változást jelent.',
-    'plans.fanClub.thankYou.eyebrow': 'Tagság megerősítve',
     'plans.fanClub.thankYou.accessCta': 'Lásd a tagi hozzáférést',
     'plans.fanClub.thankYou.backCta': 'Nyitott rajongói klub',
     'plans.fanClub.thankYou.whatsNextTitle': 'Mi történik ezután',
