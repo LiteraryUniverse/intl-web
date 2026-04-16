@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Avatud läbi',
     'plans.benefits.giftAfter': 'Kingitus pärast {months} kuud',
     'plans.benefits.giftGranted': 'Kingitus vabastatakse',
     'plans.reader.earlyAccess.until': 'Saadaval tellijatele kuni {date}',
