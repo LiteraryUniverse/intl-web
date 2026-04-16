@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Cuir na 6 uimhirí a thaispeántar ar an scáileán isteach sa chásca anseo chun an próiseas a chríochnú.',
     'settings.2fa.saved': 'Dáileadh dhá-fhachtóra éirithe go rathúil!',
     'settings.2fa.disableOTP': 'Díchumasaigh dáileadh dhá-fhachtóra OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API Keys',
     'settings.apiKeys.description': 'API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Access your username, avatar, and public profile',
     'settings.apiKeys.scope.library.read': 'Read library',
     'settings.apiKeys.scope.library.read.desc': 'Access your reading lists and saved stories',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Nasc le criptóchóras Web3',
     'settings.web3.explained': 'Is féidir leat do chóras criptochuirsíochta Web3 a nascadh le do chuntas Domhan Liteartha. Nuair a bhíonn an nasc déanta, beidh tú in ann logáil isteach le do chóras agus rudaí níos mó a dhéanamh amach anseo sna blianta amach romhainn agus muid ag cur lenár dtairiscint Web3.',
