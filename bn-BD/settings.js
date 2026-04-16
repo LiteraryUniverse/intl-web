@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'স্ক্রিনে প্রদর্শিত ৬টি সংখ্যা এখানে ইনপুটে টাইপ করে শেষ করুন।',
     'settings.2fa.saved': 'দুই-ফ্যাক্টর প্রমাণীকরণ সফলভাবে স্থাপিত হয়েছে!',
     'settings.2fa.disableOTP': 'OTP দুই-ফ্যাক্টর প্রমাণীকরণ নিষ্ক্রিয় করুন',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API Keys',
     'settings.apiKeys.description': 'API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Access your username, avatar, and public profile',
     'settings.apiKeys.scope.library.read': 'Read library',
     'settings.apiKeys.scope.library.read.desc': 'Access your reading lists and saved stories',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 ওয়ালেট সংযোগ',
     'settings.web3.explained': 'আপনি আপনার Web3 ক্রিপ্টো ওয়ালেট আপনার লিটারারি ইউনিভার্স অ্যাকাউন্টের সাথে সংযুক্ত করতে পারেন। একবার সংযুক্ত হলে, আপনি আপনার ওয়ালেট দিয়ে লগইন করতে পারবেন এবং আমরা আমাদের Web3 অফারিং সম্প্রসারিত করার সাথে সাথে ভবিষ্যতে আরও অনেক কিছু করতে পারবেন।',
