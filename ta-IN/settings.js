@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'முடிக்க, திரையில் தோன்றும் 6 எண்களை இங்கே உள்ளிடவும்.',
     'settings.2fa.saved': 'இரு காரணி அங்கீகாரம் வெற்றிகரமாக நிறுவப்பட்டது!',
     'settings.2fa.disableOTP': 'OTP இரு காரணி அங்கீகாரத்தை முடக்கு',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API Keys',
     'settings.apiKeys.description': 'API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Access your username, avatar, and public profile',
     'settings.apiKeys.scope.library.read': 'Read library',
     'settings.apiKeys.scope.library.read.desc': 'Access your reading lists and saved stories',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 வாலட் இணைப்பு',
     'settings.web3.explained': 'உங்கள் Web3 கிரிப்டோ வாலெட்டை உங்கள் லிட்டரரி யுனிவர்ஸ் கணக்குடன் இணைக்கலாம். ஒருமுறை இணைத்தவுடன், உங்கள் வாலெட்டைக் கொண்டு உள்நுழைய முடியும், மேலும் நாங்கள் எங்கள் Web3 சலுகையை விரிவுபடுத்தும்போது எதிர்காலத்தில் இன்னும் பல விஷயங்களைச் செய்ய முடியும்.',
