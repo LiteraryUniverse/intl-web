@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Selamat bergabung! Setiap kontribusi membuat lampu kreatif tetap menyala dan menghidupkan babak baru, seni, dan momen di balik layar.',
     'plans.fanClub.thankYou.heroAlt': 'Tempat penampung ilustrasi perayaan',
     'plans.fanClub.thankYou.closing': 'Dari semua orang di sini, terima kasih telah percaya pada pendongeng ini. Dukungan Anda membuat perbedaan yang nyata.',
-    'plans.fanClub.thankYou.eyebrow': 'Keanggotaan dikonfirmasi',
     'plans.fanClub.thankYou.accessCta': 'Lihat akses anggota Anda',
     'plans.fanClub.thankYou.backCta': 'Klub penggemar terbuka',
     'plans.fanClub.thankYou.whatsNextTitle': 'Apa yang terjadi selanjutnya',
