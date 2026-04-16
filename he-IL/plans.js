@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'ברוכים הבאים! כל תרומה שומרת על היצירתיות ומביאה לחיים פרקים חדשים, אמנות ורגעים מאחורי הקלעים.',
     'plans.fanClub.thankYou.heroAlt': 'מקום שמור לאיור חגיגי',
     'plans.fanClub.thankYou.closing': 'מכל האנשים כאן, תודה על האמון שניתן בסיפור זה. תמיכתכם עושה את ההבדל.',
-    'plans.fanClub.thankYou.eyebrow': 'החברות אושרה',
     'plans.fanClub.thankYou.accessCta': 'עיין בגישה שלך כחבר',
     'plans.fanClub.thankYou.backCta': 'מועדון מעריצים פתוח',
     'plans.fanClub.thankYou.whatsNextTitle': 'מה יקרה בהמשך',
