@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Ξεκλείδωμα μέσω',
     'plans.benefits.giftAfter': 'Δώρο μετά από {months} μήνες',
     'plans.benefits.giftGranted': 'Δώρο ξεκλειδωμένο',
     'plans.reader.earlyAccess.until': 'Διαθέσιμο στους συνδρομητές μέχρι τη διεύθυνση {date}',
