@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': '透過以下方式解鎖',
     'plans.benefits.giftAfter': '{months} 個月後贈送',
     'plans.benefits.giftGranted': '禮物已解鎖',
     'plans.reader.earlyAccess.until': '訂閱者可使用至 {date}',
