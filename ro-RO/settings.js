@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Tastați cele 6 numere care apar pe ecran în câmpul de introducere pentru a finaliza procesul.',
     'settings.2fa.saved': 'Autentificarea în două etape a fost stabilită cu succes!',
     'settings.2fa.disableOTP': 'Dezactivați autentificarea în două etape cu cod OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Chei API',
     'settings.apiKeys.description': 'Cheile API permit aplicațiilor terțe să acceseze datele Universului Literar în numele dvs. Tratați-le precum parolele și nu le partajați niciodată.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Accesați numele dvs. de utilizator, avatarul și profilul public',
     'settings.apiKeys.scope.library.read': 'Citește biblioteca',
     'settings.apiKeys.scope.library.read.desc': 'Accesați listele de lectură și povestirile salvate',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Conexiune portofel Web3',
     'settings.web3.explained': 'Puteți conecta portofelul criptografic Web3 la contul dumneavoastră Literary Universe. Odată conectat, veți putea să vă autentificați cu ajutorul portofelului și să faceți și mai multe lucruri în viitor, pe măsură ce dezvoltăm oferta noastră Web3.',
