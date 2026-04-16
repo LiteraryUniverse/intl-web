@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Zadajte 6 čísel, ktoré sa zobrazia na obrazovke, do vstupného poľa a dokončite.',
     'settings.2fa.saved': 'Dvojfaktorové overenie bolo úspešne vytvorené!',
     'settings.2fa.disableOTP': 'Vypnúť dvojfaktorové OTP overenie',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Kľúče API',
     'settings.apiKeys.description': 'Kľúče API umožňujú aplikáciám tretích strán pristupovať k údajom v službe Literary Universe vo vašom mene. Zaobchádzajte s nimi ako s heslami a nikdy ich nezdieľajte.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Prístup k používateľskému menu, avatarovi a verejnému profilu',
     'settings.apiKeys.scope.library.read': 'Čítajte knižnicu',
     'settings.apiKeys.scope.library.read.desc': 'Prístup k zoznamom čítania a uloženým príbehom',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Pripojenie peňaženky Web3',
     'settings.web3.explained': 'Svoju kryptografickú peňaženku Web3 môžete pripojiť k účtu Literary Universe. Po pripojení sa budete môcť prihlásiť pomocou svojej peňaženky a v budúcnosti robiť ešte viac vecí, pretože našu ponuku Web3 rozširujeme.',
