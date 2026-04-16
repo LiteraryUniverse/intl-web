@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'הקלד את ה-6 מספרים שמופיעים על המסך לתוך הקלט כאן כדי לסיים.',
     'settings.2fa.saved': 'אימות דו-שלב הוקמה בהצלחה!',
     'settings.2fa.disableOTP': 'נטרל את אימות דו-שלב עם קוד OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'מפתחות API',
     'settings.apiKeys.description': 'מפתחות API מאפשרים ליישומים של צד שלישי לגשת לנתוני Literary Universe שלך בשמך. התייחס אליהם כמו אל סיסמאות ואל תשתף אותם עם אף אחד.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'גש לשם המשתמש, לאווטאר ולפרופיל הציבורי שלך',
     'settings.apiKeys.scope.library.read': 'קרא ספרייה',
     'settings.apiKeys.scope.library.read.desc': 'גש לרשימות הקריאה שלך ולסיפורים השמורים',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'חיבור כרסום Web3',
     'settings.web3.explained': 'ניתן לחבר את ארנק הקריפטו שלך בפרוטוקול Web3 לחשבון היצירתי שלך. לאחר החיבור, תוכל להתחבר עם הארנק שלך ולעשות עוד הרבה דברים בעתיד כשנרחיב את ההצעה שלנו בפרוטוקול Web3.',
