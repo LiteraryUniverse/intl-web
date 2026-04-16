@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Escribe los 6 números que aparecen en la pantalla aquí para terminar.',
     'settings.2fa.saved': '¡La autenticación de dos factores se ha establecido con éxito!',
     'settings.2fa.disableOTP': 'Desactivar la autenticación de dos factores OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Claves API',
     'settings.apiKeys.description': 'Las claves API permiten a las aplicaciones de terceros acceder a los datos de su Universo Literario en su nombre. Trátelas como contraseñas y no las comparta nunca.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Acceda a su nombre de usuario, avatar y perfil público',
     'settings.apiKeys.scope.library.read': 'Leer la biblioteca',
     'settings.apiKeys.scope.library.read.desc': 'Acceda a sus listas de lectura e historias guardadas',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Conexión con cartera Web3',
     'settings.web3.explained': 'Puedes conectar tu cartera de criptomonedas Web3 a tu cuenta de Literary Universe. Una vez lo hayas hecho, podrás iniciar sesión con tu cartera y hacer aún más cosas en el futuro, a medida que ampliamos nuestra oferta de Web3.',
