@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Įveskite 6 skaičius, kurie rodomi ekrane, įvesties lauke čia, kad užbaigtumėte.',
     'settings.2fa.saved': 'Dviejų veiksnių autentifikacija sėkmingai įdiegta!',
     'settings.2fa.disableOTP': 'Išjungti OTP dviejų veiksnių autentifikaciją',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API raktai',
     'settings.apiKeys.description': 'API raktai leidžia trečiųjų šalių programoms jūsų vardu pasiekti "Literary Universe" duomenis. Elkitės su jais kaip su slaptažodžiais ir niekada jais nesidalykite.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Prieiga prie vartotojo vardo, avataro ir viešo profilio',
     'settings.apiKeys.scope.library.read': 'Skaityti biblioteką',
     'settings.apiKeys.scope.library.read.desc': 'Prieiga prie skaitymo sąrašų ir išsaugotų istorijų',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 piniginės prisijungimas',
     'settings.web3.explained': 'Galite prisijungti savo Web3 kriptopiniginę prie jūsų Literary Universe paskyros. Kai prisijungsite, galėsite prisijungti su savo pinigine ir ateityje atlikti dar daugiau veiksmų, išplečiant mūsų Web3 pasiūlymą.',
