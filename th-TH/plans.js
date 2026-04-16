@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'ยินดีต้อนรับ! ทุกการมีส่วนร่วมช่วยรักษาไฟแห่งความคิดสร้างสรรค์ให้สว่างไสว และนำบทใหม่ ๆ ศิลปะ และช่วงเวลาเบื้องหลังมาสู่ชีวิต',
     'plans.fanClub.thankYou.heroAlt': 'ภาพประกอบสำหรับงานเฉลิมฉลอง',
     'plans.fanClub.thankYou.closing': 'จากทุกคนที่นี่ ขอบคุณที่เชื่อในนักเล่าเรื่องนี้ การสนับสนุนของคุณสร้างความแตกต่างที่แท้จริง',
-    'plans.fanClub.thankYou.eyebrow': 'ยืนยันการเป็นสมาชิกแล้ว',
     'plans.fanClub.thankYou.accessCta': 'ดูการเข้าถึงสมาชิกของคุณ',
     'plans.fanClub.thankYou.backCta': 'เปิดแฟนคลับ',
     'plans.fanClub.thankYou.whatsNextTitle': 'อะไรจะเกิดขึ้นต่อไป',
