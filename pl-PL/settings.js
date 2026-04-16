@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Aby zakończyć, wpisz 6 liczb, które pojawią się na ekranie, w polu wprowadzania danych.',
     'settings.2fa.saved': 'Uwierzytelnianie dwuskładnikowe zostało pomyślnie ustanowione!',
     'settings.2fa.disableOTP': 'Wyłącz uwierzytelnianie dwuskładnikowe OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Klucze API',
     'settings.apiKeys.description': 'Klucze API umożliwiają aplikacjom zewnętrznym dostęp do danych Literary Universe w Państwa imieniu. Proszę traktować je jak hasła i nigdy ich nie udostępniać.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Dostęp do nazwy użytkownika, awatara i profilu publicznego',
     'settings.apiKeys.scope.library.read': 'Proszę przeczytać bibliotekę',
     'settings.apiKeys.scope.library.read.desc': 'Dostęp do list czytelniczych i zapisanych historii',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Połączenie z portfelem Web3',
     'settings.web3.explained': 'Możesz połączyć swój portfel kryptowalutowy Web3 z kontem Literary Universe. Po połączeniu będziesz mógł logować się za pomocą swojego portfela i robić jeszcze więcej rzeczy w przyszłości, w miarę jak będziemy rozszerzać naszą ofertę Web3.',
