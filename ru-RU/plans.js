@@ -252,7 +252,7 @@ export default {
     'plans.fanClub.settings.ownerFallback': '{type} fan club',
     'plans.fanClub.settings.tierFallback': 'Your current tier for this fan club.',
     'plans.fanClub.settings.metaPrice': 'Price',
-    'plans.fanClub.settings.metaValidity': 'Access',
+    'plans.fanClub.settings.metaValidity': 'Доступ',
     'plans.fanClub.settings.metaRenewal': 'Renewal',
     'plans.fanClub.settings.lifetime': 'Lifetime',
     'plans.fanClub.settings.activeNow': 'Active now',
