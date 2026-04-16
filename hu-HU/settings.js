@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Írd be a képernyőn megjelenő 6 számot ide, hogy befejezd.',
     'settings.2fa.saved': 'Kétfaktoros azonosítás sikeresen beállítva!',
     'settings.2fa.disableOTP': 'OTP kétfaktoros azonosítás kikapcsolása',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API kulcsok',
     'settings.apiKeys.description': 'Az API-kulcsok lehetővé teszik harmadik fél alkalmazások számára, hogy az Ön nevében hozzáférjenek az Ön Literary Universe adataihoz. Kezelje őket jelszóként, és soha ne ossza meg őket.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Hozzáférés a felhasználónévhez, avatárhoz és nyilvános profilhoz',
     'settings.apiKeys.scope.library.read': 'Olvassa el a könyvtárat',
     'settings.apiKeys.scope.library.read.desc': 'Hozzáférés az olvasási listákhoz és a mentett történetekhez',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 pénztárcakapcsolat',
     'settings.web3.explained': 'Csatlakoztathatod a Web3 kriptovaluta pénztárcádat a Literary Universe fiókodhoz. Miután csatlakoztattad, lehetőséged lesz a pénztárcáddal bejelentkezni és még több dolgot elvégezni a jövőben, ahogy bővítjük a Web3 ajánlatunkat.',
