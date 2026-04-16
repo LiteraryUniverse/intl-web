@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Welcome aboard! Every contribution keeps the creative lights on and brings new chapters, art, and behind-the-scenes moments to life.',
     'plans.fanClub.thankYou.heroAlt': 'Celebratory illustration placeholder',
     'plans.fanClub.thankYou.closing': 'From everyone here, thank you for believing in this storyteller. Your support makes a real difference.',
-    'plans.fanClub.thankYou.eyebrow': 'सदस्यता पुष्टि भयो',
     'plans.fanClub.thankYou.accessCta': 'आफ्नो सदस्य पहुँच हेर्नुहोस्',
     'plans.fanClub.thankYou.backCta': 'फ्यान क्लब खोल्नुहोस्',
     'plans.fanClub.thankYou.whatsNextTitle': 'अब के हुन्छ',
