@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Vítejte na palubě! Každý příspěvek udržuje tvůrčí světlo a přináší nové kapitoly, umění a momenty ze zákulisí.',
     'plans.fanClub.thankYou.heroAlt': 'Slavnostní ilustrace placeholder',
     'plans.fanClub.thankYou.closing': 'Od všech zde přítomných vám děkuji, že věříte v tohoto vypravěče. Vaše podpora má skutečný význam.',
-    'plans.fanClub.thankYou.eyebrow': 'Potvrzení členství',
     'plans.fanClub.thankYou.accessCta': 'Podívejte se na svůj přístup pro členy',
     'plans.fanClub.thankYou.backCta': 'Otevřený fanklub',
     'plans.fanClub.thankYou.whatsNextTitle': 'Co bude dál',
