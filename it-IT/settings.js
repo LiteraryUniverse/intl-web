@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Digita i 6 numeri che appaiono sullo schermo nell\'input qui per finire.',
     'settings.2fa.saved': 'Autenticazione a due fattori stabilita con successo!',
     'settings.2fa.disableOTP': 'Disattivare l\'autenticazione a due fattori OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Chiavi API',
     'settings.apiKeys.description': 'Le chiavi API consentono alle applicazioni di terze parti di accedere ai dati del suo Literary Universe per suo conto. Le tratti come password e non le condivida mai.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Accede al suo nome utente, al suo avatar e al suo profilo pubblico.',
     'settings.apiKeys.scope.library.read': 'Leggi la biblioteca',
     'settings.apiKeys.scope.library.read.desc': 'Acceda alle sue liste di lettura e alle storie salvate',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Connessione al portafoglio Web3',
     'settings.web3.explained': 'Potete collegare il vostro portafoglio Web3 al vostro conto Literary Universe. Una volta collegato, potrete effettuare il login con il vostro portafoglio e fare ancora più cose in futuro, man mano che espanderemo la nostra offerta Web3.',
