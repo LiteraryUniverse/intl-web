@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': '¡Bienvenido a bordo! Cada contribución mantiene encendidas las luces creativas y da vida a nuevos capítulos, arte y momentos entre bastidores.',
     'plans.fanClub.thankYou.heroAlt': 'Marcador de posición de ilustración de celebración',
     'plans.fanClub.thankYou.closing': 'De parte de todos, gracias por creer en este narrador. Su apoyo marca una verdadera diferencia.',
-    'plans.fanClub.thankYou.eyebrow': 'Afiliación confirmada',
     'plans.fanClub.thankYou.accessCta': 'Ver su acceso de miembro',
     'plans.fanClub.thankYou.backCta': 'Club de fans abierto',
     'plans.fanClub.thankYou.whatsNextTitle': 'Qué ocurre a continuación',
