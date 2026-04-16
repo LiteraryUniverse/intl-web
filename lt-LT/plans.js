@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Sveiki atvykę į laivą! Kiekvienas indėlis palaiko kūrybinį žiburį ir suteikia naujų skyrių, meno ir užkulisių akimirkų.',
     'plans.fanClub.thankYou.heroAlt': 'Šventinės iliustracijos laikmena',
     'plans.fanClub.thankYou.closing': 'Nuo visų čia esančių dėkoju, kad tikite šiuo pasakotoju. Jūsų parama yra labai svarbi.',
-    'plans.fanClub.thankYou.eyebrow': 'Patvirtinta narystė',
     'plans.fanClub.thankYou.accessCta': 'Žiūrėkite savo nario prieigą',
     'plans.fanClub.thankYou.backCta': 'Atviras gerbėjų klubas',
     'plans.fanClub.thankYou.whatsNextTitle': 'Kas bus toliau',
