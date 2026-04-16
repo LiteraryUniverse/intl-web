@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': '画面に表示される6つの数字をここに入力すると終了です。',
     'settings.2fa.saved': '二要素認証設定が無事完了しました。',
     'settings.2fa.disableOTP': 'OTP二要素認証の無効化',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'APIキー',
     'settings.apiKeys.description': 'APIキーは、サードパーティアプリケーションがあなたの代わりにリテラリーユニバースのデータにアクセスすることを可能にします。パスワードのように扱い、決して共有しないでください。',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'ユーザー名、アバター、公開プロフィールにアクセスする',
     'settings.apiKeys.scope.library.read': '図書館を読む',
     'settings.apiKeys.scope.library.read.desc': '読書リストや保存したストーリーにアクセス',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3ウォレット接続',
     'settings.web3.explained': 'Web3暗号ウォレットをLeterary Universeのアカウントに接続することができます。一度接続すると、あなたのウォレットでログインすることができ、今後、私たちがWeb3で提供するものを拡大することで、将来的にはもっと多くのことができるようになります。',
