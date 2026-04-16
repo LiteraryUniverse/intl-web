@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Chào mừng bạn đến với chúng tôi! Mỗi đóng góp của bạn đều giúp duy trì ngọn lửa sáng tạo và mang đến những chương mới, tác phẩm nghệ thuật và những khoảnh khắc hậu trường đầy thú vị.',
     'plans.fanClub.thankYou.heroAlt': 'Hình minh họa chúc mừng (nơi đặt hình minh họa)',
     'plans.fanClub.thankYou.closing': 'Từ tất cả mọi người ở đây, xin chân thành cảm ơn vì đã tin tưởng vào người kể chuyện này. Sự ủng hộ của các bạn thực sự tạo nên sự khác biệt.',
-    'plans.fanClub.thankYou.eyebrow': 'Đã xác nhận tư cách thành viên',
     'plans.fanClub.thankYou.accessCta': 'Xem quyền truy cập dành cho thành viên của bạn',
     'plans.fanClub.thankYou.backCta': 'Mở câu lạc bộ người hâm mộ',
     'plans.fanClub.thankYou.whatsNextTitle': 'Tiếp theo sẽ xảy ra điều gì',
