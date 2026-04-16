@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Welcome aboard! Every contribution keeps the creative lights on and brings new chapters, art, and behind-the-scenes moments to life.',
     'plans.fanClub.thankYou.heroAlt': 'Celebratory illustration placeholder',
     'plans.fanClub.thankYou.closing': 'From everyone here, thank you for believing in this storyteller. Your support makes a real difference.',
-    'plans.fanClub.thankYou.eyebrow': 'உறுப்பினர் தகுதி உறுதி செய்யப்பட்டது',
     'plans.fanClub.thankYou.accessCta': 'உங்கள் உறுப்பினர் அணுகலைக் காண்க',
     'plans.fanClub.thankYou.backCta': 'ஆதரவாளர் மன்றத்தைத் திறக்கவும்',
     'plans.fanClub.thankYou.whatsNextTitle': 'அடுத்து என்ன நடக்கும்',
