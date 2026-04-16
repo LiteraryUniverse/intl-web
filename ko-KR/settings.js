@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': '화면에 나타나는 6자리 숫자를 여기에 입력하여 완료합니다.',
     'settings.2fa.saved': '이중 인증이 성공적으로 설정되었습니다!',
     'settings.2fa.disableOTP': 'OTP 이중 인증 비활성화',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API 키',
     'settings.apiKeys.description': 'API 키를 사용하면 타사 애플리케이션이 회원님을 대신하여 회원님의 문학 세계 데이터에 액세스할 수 있습니다. 비밀번호처럼 취급하고 절대 공유하지 마세요.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': '사용자 아이디, 아바타, 공개 프로필에 액세스하기',
     'settings.apiKeys.scope.library.read': '라이브러리 읽기',
     'settings.apiKeys.scope.library.read.desc': '읽기 목록 및 저장된 스토리에 액세스',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 지갑 연결',
     'settings.web3.explained': 'Web3 암호화 지갑을 Literary Universe 계정에 연결할 수 있습니다. 연결하면 지갑으로 로그인하고 앞으로 Web3 오퍼링을 확장함에 따라 더 많은 작업을 수행할 수 있습니다.',
