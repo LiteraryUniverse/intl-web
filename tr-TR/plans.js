@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Kilidi açıldı',
     'plans.benefits.giftAfter': 'Hediye {months} ay sonra',
     'plans.benefits.giftGranted': 'Hediye kilidi açıldı',
     'plans.reader.earlyAccess.until': 'Aboneler tarafından {date}adresine kadar kullanılabilir.',
