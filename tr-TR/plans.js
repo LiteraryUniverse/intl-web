@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Aramıza hoş geldiniz! Her katkı, yaratıcı ışıkların yanmasını sağlıyor ve yeni bölümleri, sanatı ve sahne arkası anları hayata geçiriyor.',
     'plans.fanClub.thankYou.heroAlt': 'Kutlama illüstrasyonu yer tutucu',
     'plans.fanClub.thankYou.closing': 'Buradaki herkes adına, bu hikaye anlatıcısına inandığınız için teşekkür ederim. Desteğiniz gerçek bir fark yaratıyor.',
-    'plans.fanClub.thankYou.eyebrow': 'Üyelik onaylandı',
     'plans.fanClub.thankYou.accessCta': 'Üye erişiminize bakın',
     'plans.fanClub.thankYou.backCta': 'Açık hayran kulübü',
     'plans.fanClub.thankYou.whatsNextTitle': 'Bundan sonra ne olacak',
