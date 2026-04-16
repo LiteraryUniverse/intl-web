@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': '在此輸入屏幕上顯示的6位數字，以完成設置。',
     'settings.2fa.saved': '雙因素認證已成功建立！',
     'settings.2fa.disableOTP': '停用OTP雙因素認證',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API 金鑰',
     'settings.apiKeys.description': 'API 金鑰允許第三方應用程式代表您存取您的 Literary Universe 資料。請像對待密碼一樣對待它們，切勿共用。',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': '存取您的使用者名稱、頭像和公開個人資料',
     'settings.apiKeys.scope.library.read': '閱讀圖書館',
     'settings.apiKeys.scope.library.read.desc': '存取您的閱讀清單和儲存的故事',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3錢包連接',
     'settings.web3.explained': '您可以將Web3加密錢包連接到您的Literary Universe帳戶。連接後，您將能夠使用您的錢包進行登錄，並在我們擴展Web3服務的未來執行更多操作。',
