@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Witamy na pokładzie! Każdy Państwa wkład sprawia, że twórcze światła są zapalone i ożywiają nowe rozdziały, dzieła sztuki i zakulisowe momenty.',
     'plans.fanClub.thankYou.heroAlt': 'Uroczysty symbol zastępczy ilustracji',
     'plans.fanClub.thankYou.closing': 'Dziękuję wszystkim za wiarę w tego gawędziarza. Państwa wsparcie robi prawdziwą różnicę.',
-    'plans.fanClub.thankYou.eyebrow': 'Członkostwo potwierdzone',
     'plans.fanClub.thankYou.accessCta': 'Proszę sprawdzić swój dostęp członkowski',
     'plans.fanClub.thankYou.backCta': 'Otwarty fanklub',
     'plans.fanClub.thankYou.whatsNextTitle': 'Co będzie dalej?',
