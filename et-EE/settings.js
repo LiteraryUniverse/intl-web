@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Sisestage siia ekraanil kuvatavad 6 numbrit, et lõpetada.',
     'settings.2fa.saved': 'Kaheastmeline autentimine edukalt seadistatud!',
     'settings.2fa.disableOTP': 'Keela OTP kaheastmeline autentimine',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API võtmed',
     'settings.apiKeys.description': 'API-võtmed võimaldavad kolmandate osapoolte rakendustele teie nimel juurdepääsu teie Literary Universe\'i andmetele. Käsitlege neid nagu paroole ja ärge kunagi jagage neid.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Juurdepääs oma kasutajanimele, avatarile ja avalikule profiilile',
     'settings.apiKeys.scope.library.read': 'Loe raamatukogu',
     'settings.apiKeys.scope.library.read.desc': 'Juurdepääs oma lugemisnimekirjadele ja salvestatud lugudele',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 rahakoti ühendus',
     'settings.web3.explained': 'Saate ühendada oma Web3 krüptorahakoti oma Literary Universe\'i kontoga. Pärast ühendamist saate oma rahakotiga sisse logida ja tulevikus teha veelgi rohkem asju, kui laiendame oma Web3 pakkumist.',
