@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': '참여를 환영합니다! 모든 기여는 창작의 불을 켜고 새로운 챕터, 아트, 비하인드 스토리에 생명을 불어넣습니다.',
     'plans.fanClub.thankYou.heroAlt': '축하 일러스트 플레이스홀더',
     'plans.fanClub.thankYou.closing': '이 스토리텔러를 믿어주신 모든 분들께 진심으로 감사드립니다. 여러분의 성원이 진정한 변화를 만들어냅니다.',
-    'plans.fanClub.thankYou.eyebrow': '회원 가입 확인',
     'plans.fanClub.thankYou.accessCta': '회원 액세스 권한 보기',
     'plans.fanClub.thankYou.backCta': '팬클럽 개설',
     'plans.fanClub.thankYou.whatsNextTitle': '다음 단계',
