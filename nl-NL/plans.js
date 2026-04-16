@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Welkom aan boord! Elke bijdrage houdt het creatieve licht aan en brengt nieuwe hoofdstukken, kunst en momenten achter de schermen tot leven.',
     'plans.fanClub.thankYou.heroAlt': 'Feestelijke illustratie plaatshouder',
     'plans.fanClub.thankYou.closing': 'Van iedereen hier, bedankt dat u in deze verhalenverteller gelooft. Uw steun maakt echt een verschil.',
-    'plans.fanClub.thankYou.eyebrow': 'Lidmaatschap bevestigd',
     'plans.fanClub.thankYou.accessCta': 'Bekijk uw ledentoegang',
     'plans.fanClub.thankYou.backCta': 'Open fanclub',
     'plans.fanClub.thankYou.whatsNextTitle': 'Wat gebeurt er nu?',
