@@ -36,16 +36,19 @@ export default {
   'settings.connectTo': 'Connect to {service}',
   'settings.export.title': 'Export Data',
   'settings.export.explain':
-    'This will allow you to get all your data that is stored in our database in a json format.',
+    'This will export all your personal data stored in our database as a JSON file. This includes your profile, stories, reading history, diary entries, personal notes, writing statistics, bookmarks, reading lists, community activity, memberships, and all other data associated with your account.',
   'settings.export.submit': 'Export data',
   'settings.delete.title': 'Delete Account',
-  'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
-    there is no way of getting it back. Note that this might not automatically delete your published works,
-    comments, etc. Please refer to Terms of Service for details.`,
+  'settings.delete.warning':
+    'WARNING: By deleting your account you permanently lose access to this account and there is no way of recovering it. All private data including diary entries, personal notes, reading history, and writing statistics will be permanently deleted.',
+  'settings.delete.published':
+    'You have published content on the platform. Deleting your account will anonymize your published works (remove your name and profile information) rather than deleting them. Your comments will be replaced with "[deleted]". If you want to unpublish your works first, please do so before deleting your account.',
   'settings.delete.confirm':
     'Just to make sure. Are you sure you want to delete your account?',
   'settings.delete.cancel': "I don't want to delete my account",
   'settings.delete.submit': 'Delete my account',
+  'settings.delete.error':
+    'Account deletion encountered an error. Please contact support if the problem persists.',
   'settings.legal.title': 'User consent agreements',
   'settings.legal.explained':
     'Here you can manage your agreement to various legal documents.',
