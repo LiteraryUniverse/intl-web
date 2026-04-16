@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'พิมพ์ตัวเลข 6 หลักที่ปรากฏบนหน้าจอลงในช่องนี่เพื่อเสร็จสิ้น',
     'settings.2fa.saved': 'การยืนยันตัวตนสองขั้นตอนเสร็จสมบูรณ์แล้ว!',
     'settings.2fa.disableOTP': 'ปิดการใช้งานการยืนยันตัวตนสองขั้นตอนด้วย OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'คีย์ API',
     'settings.apiKeys.description': 'คีย์ API ช่วยให้แอปพลิเคชันของบุคคลที่สามสามารถเข้าถึงข้อมูล Literary Universe ของคุณได้ในนามของคุณ โปรดปฏิบัติต่อคีย์ API เหมือนเป็นรหัสผ่านและอย่าเปิดเผยให้ผู้อื่นทราบ',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'เข้าถึงชื่อผู้ใช้, อวาตาร์, และโปรไฟล์สาธารณะของคุณ',
     'settings.apiKeys.scope.library.read': 'อ่านห้องสมุด',
     'settings.apiKeys.scope.library.read.desc': 'เข้าถึงรายการอ่านและเรื่องราวที่บันทึกไว้ของคุณ',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'การเชื่อมต่อกระเป๋าเงิน Web3',
     'settings.web3.explained': 'คุณสามารถเชื่อมต่อกระเป๋าเงินคริปโต Web3 กับบัญชี Literary Universe ของคุณ หลังจากเชื่อมต่อแล้วคุณจะสามารถเข้าสู่ระบบด้วยกระเป๋าเงินของคุณและทำสิ่งต่าง ๆ เพิ่มเติมในอนาคตเมื่อเราขยายการเสนอ Web3 ของเรา',
