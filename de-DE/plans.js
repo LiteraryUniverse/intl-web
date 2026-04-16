@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Freigegeben durch',
     'plans.benefits.giftAfter': 'Geschenk nach {months} Monaten',
     'plans.benefits.giftGranted': 'Geschenk freigeschaltet',
     'plans.reader.earlyAccess.until': 'Verfügbar für Abonnenten bis {date}',
