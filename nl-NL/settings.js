@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Voer de 6 cijfers in die op het scherm verschijnen in het invoerveld hier om de configuratie te voltooien.',
     'settings.2fa.saved': 'Tweestapsverificatie succesvol ingesteld!',
     'settings.2fa.disableOTP': 'Schakel OTP tweestapsverificatie uit',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API-sleutels',
     'settings.apiKeys.description': 'API-sleutels geven toepassingen van derden namens u toegang tot uw Literary Universe-gegevens. Behandel ze als wachtwoorden en deel ze nooit.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Toegang tot uw gebruikersnaam, avatar en openbaar profiel',
     'settings.apiKeys.scope.library.read': 'Lees bibliotheek',
     'settings.apiKeys.scope.library.read.desc': 'Toegang tot uw leeslijsten en opgeslagen verhalen',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 walletverbinding',
     'settings.web3.explained': 'U kunt uw Web3-cryptowallet verbinden met uw Literary Universe-account. Zodra deze is verbonden, kunt u inloggen met uw wallet en in de toekomst nog veel meer doen, terwijl we ons Web3-aanbod uitbreiden.',
