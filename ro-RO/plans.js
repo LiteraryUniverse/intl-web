@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Bine ați venit la bord! Fiecare contribuție menține luminile creative aprinse și aduce la viață noi capitole, artă și momente din spatele scenei.',
     'plans.fanClub.thankYou.heroAlt': 'Placeholder ilustrație de sărbătoare',
     'plans.fanClub.thankYou.closing': 'Din partea tuturor celor de aici, vă mulțumim pentru că credeți în acest povestitor. Sprijinul vostru face o diferență reală.',
-    'plans.fanClub.thankYou.eyebrow': 'Calitatea de membru a fost confirmată',
     'plans.fanClub.thankYou.accessCta': 'Vedeți accesul dvs. de membru',
     'plans.fanClub.thankYou.backCta': 'Fan club deschis',
     'plans.fanClub.thankYou.whatsNextTitle': 'Ce se întâmplă în continuare',
