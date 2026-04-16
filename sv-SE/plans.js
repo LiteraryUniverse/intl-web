@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Upplåst genom',
     'plans.benefits.giftAfter': 'Gåva efter {months} månader',
     'plans.benefits.giftGranted': 'Gåva upplåst',
     'plans.reader.earlyAccess.until': 'Tillgänglig för prenumeranter fram till {date}',
