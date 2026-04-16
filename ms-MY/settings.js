@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Taipkan 6 nombor yang muncul di skrin ke input di sini untuk menyelesaikan.',
     'settings.2fa.saved': 'Pengesahan dua faktor berjaya ditubuhkan!',
     'settings.2fa.disableOTP': 'Nyahaktifkan pengesahan dua faktor OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API Keys',
     'settings.apiKeys.description': 'API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Access your username, avatar, and public profile',
     'settings.apiKeys.scope.library.read': 'Read library',
     'settings.apiKeys.scope.library.read.desc': 'Access your reading lists and saved stories',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Sambungan dompet Web3',
     'settings.web3.explained': 'Anda boleh menyambungkan dompet kripto Web3 anda ke akaun Literary Universe anda. Setelah disambungkan, anda akan dapat log masuk dengan dompet anda dan melakukan lebih banyak perkara pada masa depan apabila kami memperluas tawaran Web3 kami.',
