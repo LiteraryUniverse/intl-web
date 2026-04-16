@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Avataan',
     'plans.benefits.giftAfter': 'Lahja {months} kuukausien jälkeen',
     'plans.benefits.giftGranted': 'Lahja avattu',
     'plans.reader.earlyAccess.until': 'Saatavilla tilaajille osoitteeseen {date}asti.',
