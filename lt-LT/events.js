@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Prisijungti prie įvykio',
   'events.selection.origin': 'Įvykio kilmė',
-  'events.origin.universe': 'Visata',
   'events.origin.author': 'Autorius',
-  'events.origin.groups': 'Grupės',
   'events.origin.organizations': 'Organizacijos',
   'events.origin.lu': 'Literatūrinės visatos įvykiai',
   'events.visibility.label': 'Renginio matomumas',

@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'பகிரவும்...',
     'sharing.feedback': 'நீங்கள் பகிர விரும்பும் ஏதேனும் இடத்தை நாங்கள் தவறவிடுகிறோமா? எங்களுக்குத் தெரியப்படுத்துங்கள்!',
     'sharing.copy': 'நகலெடு',
-    'sharing.email': 'மின்னஞ்சல்',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'ஃபேஸ்புக் மெஸஞ்சர்',
     'sharing.whatsapp': 'WhatsApp',

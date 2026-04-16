@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Níl aon duine tar éis freagra go fóill. Bí an chéad duine!',
   'forums.noThreads': 'Níl aon rud le feiceáil anseo. Is féidir leat tús a chur le comhrá.',
   'forums.openingPost': 'Príomhthéacs',
-  'forums.post': 'Poist',
   'forums.post.new': 'Altachán nua',
   'forums.posting': 'Ag postáil...',
   'forums.reply': 'Freagair',

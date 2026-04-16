@@ -4,7 +4,6 @@
 export default {
     'rating.name': '年齢格付け',
     'rating.explained': '年齢別で制限',
-    'rating.all': 'すべてのために',
     'rating.desc.all': 'すべての年齢やグループの方がアクセス可能',
     'rating.teens': '13歳から19歳までの少年少女',
     'rating.desc.teens': '12歳から18歳までの視聴者に適しています。',

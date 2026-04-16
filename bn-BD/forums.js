@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'এখনও কেউ উত্তর দেননি। প্রথম হতে চলে আসুন!',
   'forums.noThreads': 'এখানে কিছুই নেই। আপনার কাছে আলোচনা শুরু করা আছে কিনা তা আপনার উপর নির্ভর করবে।',
   'forums.openingPost': 'উদ্ঘাটনী পোস্ট',
-  'forums.post': 'পোস্ট',
   'forums.post.new': 'নতুন পোস্ট',
   'forums.posting': 'পোস্ট করা হচ্ছে...',
   'forums.reply': 'উত্তর দিন',

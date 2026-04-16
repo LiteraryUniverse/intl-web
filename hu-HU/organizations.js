@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Meghívás e-mailben',
     // Members table
     'org.members.joined': 'Csatlakozott',
-    'org.members.actions': 'Tevékenységek',
     'org.roles.super_admin': 'Super Admin'
 };

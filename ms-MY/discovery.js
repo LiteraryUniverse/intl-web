@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Bagian dari alam semesta',
     'discover.search.rating': 'Rating usia',
     'discover.search.license': 'Lisensi hak cipta',
-    'discover.search.language': 'Bahasa',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Tiada alam semesta sepadan dengan parameter anda}
         one {1 alam semesta dijumpai}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',

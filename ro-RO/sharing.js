@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Partajați cu...',
     'sharing.feedback': 'Ne lipsește vreun loc pe care ați dori să îl vizitați? Spuneți-ne despre el!',
     'sharing.copy': 'Copiere',
-    'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

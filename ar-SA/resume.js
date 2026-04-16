@@ -58,7 +58,6 @@ export default {
   'resume.editor.awards.year': 'السنة',
   'resume.editor.awards.desc': 'الوصف',
   'resume.editor.awards.add': 'إضافة جائزة',
-  'resume.editor.awards.remove': 'إزالة',
   // Theme
   'resume.editor.theme.heading': 'موضوع السيرة الذاتية',
   'resume.editor.theme.description': 'اختر سمة مرئية لصفحة سيرتك الذاتية العامة.',
@@ -94,7 +93,6 @@ export default {
   'resume.access.createLink.title': 'إنشاء رابط الوصول',
   'resume.access.createLink.comment': 'تعليق (اختياري)',
   'resume.access.createLink.language': 'لغة الصفحة',
-  'resume.access.createLink.create': 'إنشاء',
   'resume.access.noLinks': 'لم يتم إنشاء روابط وصول حتى الآن. قم بإنشاء رابط لمشاركة سيرتك الذاتية.',
   'resume.access.copy': 'نسخ',
   'resume.access.copied': 'تم النسخ',
@@ -105,7 +103,6 @@ export default {
   'resume.access.created': 'تم الإنشاء {date}',
   'resume.access.viewVisits': 'عرض تفاصيل الزيارة',
   'resume.access.noVisits': 'لم يتم تسجيل أي زيارات حتى الآن.',
-  'resume.access.anonymousVisitor': 'مجهول',
   'resume.access.onsite': 'في الموقع',
   'resume.access.visitNumber': '(تفضل بزيارة #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

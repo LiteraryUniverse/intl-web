@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'חלק מיקב',
     'discover.search.rating': 'דירוג גיל',
     'discover.search.license': 'רישיון זכויות יוצרים',
-    'discover.search.language': 'שפה',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {אין יקבים המתאימים לפרמטרים שלך}
         one {נמצא יקב אחד}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'סיפור זה מוצג רק כקדימון ליצירה.',
     'discovery.includesAds': 'כולל פרסומות',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',

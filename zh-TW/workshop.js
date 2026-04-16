@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': '上傳... {progress}%',
     'workshop.story.publisherPreview.uploaded': '本故事的出版商預覽檔案已上傳。',
     'workshop.story.publisherPreview.replace': '取代檔案',
-    'workshop.story.publisherPreview.remove': '移除',
     // Story monetization
     'workshop.monetization.addCurrency': '新增另一種支援的貨幣',
     'workshop.monetization.arcDescription': '弧形描述（在條紋結帳中顯示）',

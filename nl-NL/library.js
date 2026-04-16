@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Je hebt {readPercent, number, ::percent} van het verhaal gelezen.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Voer zoektermen in of pas filters toe',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Gekochte verhalen'
 };

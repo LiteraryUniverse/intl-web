@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': 'Os senhores estão convidados a participar do {count, plural, one {curso} other {cursos}}.',
   'courses.invites.noInvites': 'O senhor não tem nenhum convite para cursos no momento.',
   'courses.invites.invitedBy': 'Convidado pelo senhor: ',
-  'courses.invites.accept': 'Aceitar',
-  'courses.invites.reject': 'Rejeitar',
   'course.join.heading': 'Participe deste curso',
   'course.oneTimePayment': 'Pagamento único para acesso total',
   'course.member': 'O senhor está inscrito',

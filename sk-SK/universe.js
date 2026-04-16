@@ -16,7 +16,6 @@ export default {
     'universe.authors.title': 'Autori',
     'universe.authors.desc': 'Tvorcovia a prispievatelia do {universe}',
     'universe.contributors': 'Prispievatelia',
-    'universe.translators': 'Prekladatelia',
     'universe.authors.notice': 'Každý príbeh môže mať ďalšie osoby, ktoré na ňom pracovali. Podrobnejšie informácie nájdete v detailoch príbehu.',
     'universe.createdBy': `{gender, select,
     male {Vytvoril}

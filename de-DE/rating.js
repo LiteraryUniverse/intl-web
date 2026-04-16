@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Altersfreigabe',
     'rating.explained': 'Altersfreigabe und -beschränkung.',
-    'rating.all': 'Alle',
     'rating.desc.all': 'Zugänglich für alle Altersgruppen und Gruppen.',
     'rating.teens': 'Jugendliche',
     'rating.desc.teens': 'Geeignet für ein Publikum zwischen 12 und 18 Jahren.',

@@ -59,7 +59,6 @@ export default {
   'resume.editor.awards.year': '年',
   'resume.editor.awards.desc': '説明',
   'resume.editor.awards.add': '賞の追加',
-  'resume.editor.awards.remove': '削除',
   // Theme
   'resume.editor.theme.heading': '履歴書のテーマ',
   'resume.editor.theme.description': '公開する履歴書ページのビジュアルテーマを選びましょう。',
@@ -96,7 +95,6 @@ export default {
   'resume.access.createLink.title': 'アクセスリンクの作成',
   'resume.access.createLink.comment': 'コメント（任意）',
   'resume.access.createLink.language': 'ページ言語',
-  'resume.access.createLink.create': '作成',
   'resume.access.noLinks': 'アクセスリンクはまだ作成されていません。履歴書を共有するためのリンクを作成してください。',
   'resume.access.copy': 'コピー',
   'resume.access.copied': 'コピーした！',
@@ -107,7 +105,6 @@ export default {
   'resume.access.created': '作成 {date}',
   'resume.access.viewVisits': '訪問の詳細を見る',
   'resume.access.noVisits': '訪問記録はまだない。',
-  'resume.access.anonymousVisitor': '匿名',
   'resume.access.onsite': 'オンサイト',
   'resume.access.visitNumber': '( #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

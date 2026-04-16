@@ -14,7 +14,6 @@ export default {
     'universe.authors.title': '著者',
     'universe.authors.desc': '{universe}のクリエーターと携わった人',
     'universe.contributors': '携わった方々',
-    'universe.translators': '翻訳者',
     'universe.authors.notice': 'それぞれの物語には、その他関わってくださった方がいます。詳細については各物語でご確認ください。',
     'universe.createdBy': `作成者`,
     'universe.stories.for': '{universe}の物語',

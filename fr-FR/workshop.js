@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Téléchargement... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Un fichier de prévisualisation de l\'éditeur a été téléchargé pour cet article.',
     'workshop.story.publisherPreview.replace': 'Remplacer le fichier',
-    'workshop.story.publisherPreview.remove': 'Enlever',
     // Story monetization
     'workshop.monetization.addCurrency': 'Ajouter une autre devise prise en charge',
     'workshop.monetization.arcDescription': 'Description de l\'arc (illustré dans la caisse à rayures)',

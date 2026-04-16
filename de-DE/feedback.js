@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Eine neue Funktion vorschlagen',
     'feedback.lang.nosupport': 'Ihre aktuelle Sprache wird für Feedback nicht unterstützt, bitte schreiben Sie in Englisch. Dankeschön!',
     'feedback.new.thanks': 'Vielen Dank für den Hinweis! Wir werden uns das in Kürze ansehen.',
-    'feedback.comment.title': 'Kommentar',
     'feedback.comment.desc': 'Senden Sie uns Ihr Feedback',
     'feedback.comment.legend': 'Ihr Feedback - lassen Sie uns alles wissen',
     'feedback.comment.success': 'Vielen Dank für Ihr Feedback!',
@@ -55,7 +54,6 @@ export default {
     story {Geschichte}
     other {Geschichte}
   } wird verletzt?`,
-    'feedback.help.overview': 'Übersicht',
     'feedback.help.articles': 'Artikel',
     'feedback.help.courses': 'Kurse',
     'feedback.help.videoTutorials': 'Video-Tutorials',

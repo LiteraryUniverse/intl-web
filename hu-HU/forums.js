@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Még senki sem válaszolt. Légy Te az első!',
   'forums.noThreads': 'Nincs itt semmi látnivaló. Rajtad múlik, hogy elindítod a beszélgetést.',
   'forums.openingPost': 'Nyitó bejegyzés',
-  'forums.post': 'Bejegyzés',
   'forums.post.new': 'Új bejegyzés',
   'forums.posting': 'Küldés...',
   'forums.reply': 'Válasz',

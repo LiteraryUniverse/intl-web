@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': '我了解CC0對我作品的條款與法律效力',
     'licenses.learnMore': '瞭解更多',
     'licenses.legalText': '法律文本',
-    'licenses.chooser.back': '返回',
     'licenses.chooser.select': '選擇此授權',
     'licenses.commercial.title': '商業執照資訊',
     'licenses.commercial.exclusive': '有了這項獨家授權，Literary Universe 將從您的收入中抽取 10% 的費用。這表示您將獲得您的作品在我們的平台上所產生收入的 90%。',

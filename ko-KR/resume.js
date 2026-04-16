@@ -58,7 +58,6 @@ export default {
   'resume.editor.awards.year': '연도',
   'resume.editor.awards.desc': '설명',
   'resume.editor.awards.add': '어워드 추가',
-  'resume.editor.awards.remove': '제거',
   // Theme
   'resume.editor.theme.heading': '이력서 테마',
   'resume.editor.theme.description': '공개 이력서 페이지의 시각적 테마를 선택하세요.',
@@ -94,7 +93,6 @@ export default {
   'resume.access.createLink.title': '액세스 링크 만들기',
   'resume.access.createLink.comment': '댓글(선택 사항)',
   'resume.access.createLink.language': '페이지 언어',
-  'resume.access.createLink.create': '만들기',
   'resume.access.noLinks': '아직 액세스 링크가 생성되지 않았습니다. 이력서를 공유할 수 있는 링크를 만드세요.',
   'resume.access.copy': '복사',
   'resume.access.copied': '복사 완료!',
@@ -105,7 +103,6 @@ export default {
   'resume.access.created': '생성됨 {date}',
   'resume.access.viewVisits': '방문 세부 정보 보기',
   'resume.access.noVisits': '아직 방문 기록이 없습니다.',
-  'resume.access.anonymousVisitor': '익명',
   'resume.access.onsite': '온사이트',
   'resume.access.visitNumber': '( #{number} 방문 )',
   // ── Public Resume Page ──────────────────────────────────────────────────────

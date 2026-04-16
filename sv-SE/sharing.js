@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Dela med...',
     'sharing.feedback': 'Saknar vi något ställe där du vill dela? Låt oss veta det!',
     'sharing.copy': 'Kopiera',
-    'sharing.email': 'E-post',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

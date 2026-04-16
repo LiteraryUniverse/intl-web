@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'I understand the terms and legal effect of CC0 on my work',
     'licenses.learnMore': 'Learn More',
     'licenses.legalText': 'Legal Text',
-    'licenses.chooser.back': 'Back',
     'licenses.chooser.select': 'Select This License',
     'licenses.commercial.title': 'Commercial License Information',
     'licenses.commercial.exclusive': 'עם רישיון בלעדי זה, Literary Universe תגבה עמלה של 10% מהרווחים שלך. משמעות הדבר היא שתקבל 90% מההכנסות שנוצרו מעבודתך בפלטפורמה שלנו.',

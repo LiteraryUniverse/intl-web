@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'ਰੇਟਿੰਗ',
     'rating.explained': 'ਉਮਰ ਰੇਟਿੰਗ ਅਤੇ ਪਾਬੰਦੀ।',
-    'rating.all': 'ਸਭ',
     'rating.desc.all': 'ਸਭ ਉਮਰਾਂ ਅਤੇ ਗਰੁੱਪਾਂ ਲਈ ਪਹੁੰਚਯੋਗ।',
     'rating.teens': 'ਟੀਨਜ਼',
     'rating.desc.teens': '12 ਤੋਂ 18 ਸਾਲ ਦੀ ਉਡੀਕ ਵਾਲੇ ਦਰਸ਼ਕਾਂ ਲਈ ਉਪਯੋਗੀ।',

@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Mengunggah... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'File pratinjau penerbit telah diunggah untuk cerita ini.',
     'workshop.story.publisherPreview.replace': 'Ganti File',
-    'workshop.story.publisherPreview.remove': 'Menghapus',
     // Story monetization
     'workshop.monetization.addCurrency': 'Menambahkan mata uang lain yang didukung',
     'workshop.monetization.arcDescription': 'Deskripsi busur (ditampilkan di Stripe checkout)',

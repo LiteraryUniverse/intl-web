@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Jaga...',
     'sharing.feedback': 'Kas meil jääb mõni koht puudu, kuhu sooviksite jagada? Andke meile sellest teada!',
     'sharing.copy': 'Kopeeri',
-    'sharing.email': 'E-post',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

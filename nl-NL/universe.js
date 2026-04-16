@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Auteurs',
     'universe.authors.desc': 'Makers en bijdragers aan {universe}',
     'universe.contributors': 'Bijdragers',
-    'universe.translators': 'Vertalers',
     'universe.authors.notice': 'Elk verhaal kan extra personen hebben die eraan hebben gewerkt. Voor meer details zie de details van het verhaal.',
     'universe.createdBy': `{gender, select,
     male {Aangemaakt door}

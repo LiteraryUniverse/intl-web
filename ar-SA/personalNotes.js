@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'اسم الفصل {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} ملاحظة شخصية',
   'personalNotes.searchResults': 'نتائج البحث',
-  'personalNotes.type.story': 'قصة',
-  'personalNotes.type.universe': 'كون',
-  'personalNotes.type.chapter': 'فصل',
   'personalNotes.type.encEntry': 'مدخل الموسوعة',
   'personalNotes.type.revTextBlock': 'مقطع نصي للمراجعة',
-  'personalNotes.chapter': 'فصل',
   'personalNotes.recentSearches': 'البحث الأخيرة:',
   'personalNotes.myNotes': 'ملاحظاتي الشخصية',
   'personalNotes.hasNotes': 'لديه ملاحظات شخصية'

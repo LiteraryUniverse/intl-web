@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Foreslå en ny funksjon',
     'feedback.lang.nosupport': 'Ditt nåværende språk støttes ikke for tilbakemeldinger, vennligst skriv på engelsk. Takk!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'Kommentar',
     'feedback.comment.desc': 'Send oss dine tilbakemeldinger',
     'feedback.comment.legend': 'Dine tilbakemeldinger - gi oss beskjed om hva som helst',
     'feedback.comment.success': 'Takk for tilbakemeldingen din!',
@@ -55,7 +54,6 @@ export default {
     story {historie}
     other {historie}
   } blir det krenket?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Courses',
     'feedback.help.videoTutorials': 'Video tutorials',

@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'इमेलद्वारा निमन्त्रणा गरिएको',
     // Members table
     'org.members.joined': 'जोडिनुभयो',
-    'org.members.actions': 'कार्यहरू',
     'org.roles.super_admin': 'सुपर एडमिन'
 };

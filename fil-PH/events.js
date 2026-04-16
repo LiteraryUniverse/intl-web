@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Sumali sa kaganapan',
   'events.selection.origin': 'Pinagmulan ng kaganapan',
-  'events.origin.universe': 'Uniberso',
   'events.origin.author': 'May-akda',
-  'events.origin.groups': 'Mga Grupo',
   'events.origin.organizations': 'Mga Organisasyon',
   'events.origin.lu': 'Mga kaganapan sa Panitikang Uniberso',
   'events.visibility.label': 'Visibility ng Pangyayari',

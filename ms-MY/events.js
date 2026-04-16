@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Sertai acara',
   'events.selection.origin': 'Asal Acara',
-  'events.origin.universe': 'Universe',
   'events.origin.author': 'Penulis',
-  'events.origin.groups': 'Kumpulan',
   'events.origin.organizations': 'Organisasi',
   'events.origin.lu': 'Acara Alam Sastera',
   'events.visibility.label': 'Keterlihatan acara',

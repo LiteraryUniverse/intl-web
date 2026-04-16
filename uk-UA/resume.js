@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Рік',
   'resume.editor.awards.desc': 'Опис',
   'resume.editor.awards.add': 'Додати нагороду',
-  'resume.editor.awards.remove': 'Видалити',
   // Theme
   'resume.editor.theme.heading': 'Тема резюме',
   'resume.editor.theme.description': 'Виберіть візуальну тему для вашої публічної сторінки резюме.',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'Створити посилання доступу',
   'resume.access.createLink.comment': "Коментар (необов'язково)",
   'resume.access.createLink.language': 'Мова сторінки',
-  'resume.access.createLink.create': 'Створити',
   'resume.access.noLinks': 'Ще не створено жодного посилання. Створіть посилання, щоб поділитися своїм резюме.',
   'resume.access.copy': 'Зрозумів.',
   'resume.access.copied': 'Зрозумів!',
@@ -108,7 +106,6 @@ export default {
   'resume.access.created': 'Створено {date}',
   'resume.access.viewVisits': 'Переглянути деталі візиту',
   'resume.access.noVisits': 'Поки що не зафіксовано жодного візиту.',
-  'resume.access.anonymousVisitor': 'Анонім',
   'resume.access.onsite': 'На місці',
   'resume.access.visitNumber': '(відвідайте #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

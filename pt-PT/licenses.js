@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Compreendo os termos e o efeito legal da CC0 no meu trabalho',
     'licenses.learnMore': 'Saiba mais',
     'licenses.legalText': 'Texto legal',
-    'licenses.chooser.back': 'Voltar',
     'licenses.chooser.select': 'Selecione esta licença',
     'licenses.commercial.title': 'Informações sobre a licença comercial',
     'licenses.commercial.exclusive': 'Com esta licença exclusiva, o Universo Literário cobrará uma taxa de 10% dos seus ganhos. Isto significa que receberá 90% das receitas geradas pelo seu trabalho na nossa plataforma.',

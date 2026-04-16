@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': '新機能を提案する',
     'feedback.lang.nosupport': '申し訳ありませんが、ご使用の言語はフィードバックでサポートされていませんので、恐れ入りますが英語でご記入ください。よろしくお願いします。',
     'feedback.new.thanks': 'お知らせありがとうございます！すぐに調査いたします。',
-    'feedback.comment.title': 'ドキュメントにコメント',
     'feedback.comment.desc': 'ご意見をお聞かせください。',
     'feedback.comment.legend': 'お客様の声 - 何でもお聞かせください',
     'feedback.comment.success': '感想をお寄せいただきありがとうございます。',
@@ -55,7 +54,6 @@ export default {
     story {物語}
     other {物語}
   }が侵害されていますか？`,
-    'feedback.help.overview': '概要',
     'feedback.help.articles': '記事',
     'feedback.help.courses': 'コース',
     'feedback.help.videoTutorials': 'ビデオ・チュートリアル',

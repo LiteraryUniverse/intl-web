@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Peatükk {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} isiklik märkus',
   'personalNotes.searchResults': 'Otsingutulemused',
-  'personalNotes.type.story': 'Lugu',
-  'personalNotes.type.universe': 'Universum',
-  'personalNotes.type.chapter': 'Peatükk',
   'personalNotes.type.encEntry': 'Entsüklopeedia sissekanne',
   'personalNotes.type.revTextBlock': 'Parandusteksti plokk',
-  'personalNotes.chapter': 'Peatükk',
   'personalNotes.recentSearches': 'Viimased otsingud:',
   'personalNotes.myNotes': 'Minu isiklikud märkmed',
   'personalNotes.hasNotes': 'Omab isiklikke märkmeid'

@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Belum ada yang membalas. Jadilah yang pertama!',
   'forums.noThreads': 'Tidak ada yang bisa dilihat di sini. Bergantung pada Anda untuk memulai percakapan.',
   'forums.openingPost': 'Posting pembuka',
-  'forums.post': 'Kiriman',
   'forums.post.new': 'Pos baru',
   'forums.posting': 'Mengirim...',
   'forums.reply': 'Balas',

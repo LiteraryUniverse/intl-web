@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Nimeni nu a răspuns încă. Fii primul!',
   'forums.noThreads': 'Nu este nimic de văzut aici. Depinde de tine să începi o conversație.',
   'forums.openingPost': 'Mesajul de deschidere',
-  'forums.post': 'Postare',
   'forums.post.new': 'Postare nouă',
   'forums.posting': 'Se postează...',
   'forums.reply': 'Răspunde',

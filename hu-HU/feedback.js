@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Új funkció javaslása',
     'feedback.lang.nosupport': 'Az aktuális nyelved nem támogatott a visszajelzésekhez, kérjük, írj angolul. Köszönjük!',
     'feedback.new.thanks': 'Köszönjük az értesítést! Hamarosan utánanézünk a dolognak.',
-    'feedback.comment.title': 'Megjegyzés',
     'feedback.comment.desc': 'Küldj nekünk visszajelzést',
     'feedback.comment.legend': 'A visszajelzésed - tudass velünk bármit',
     'feedback.comment.success': 'Köszönjük a visszajelzést!',
@@ -55,7 +54,6 @@ export default {
     story {történet}
     other {történet}
   } sérül?`,
-    'feedback.help.overview': 'Áttekintés',
     'feedback.help.articles': 'Cikkek',
     'feedback.help.courses': 'Tanfolyamok',
     'feedback.help.videoTutorials': 'Videó oktatóvideók',

@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'ஏற்றுகிறது... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'இந்தக் கதைக்கான வெளியீட்டாளர் முன்னோட்டக் கோப்பு பதிவேற்றப்பட்டுள்ளது.',
     'workshop.story.publisherPreview.replace': 'கோப்பை மாற்று',
-    'workshop.story.publisherPreview.remove': 'நீக்கு',
     // Story monetization
     'workshop.monetization.addCurrency': 'இன்னொரு ஆதரிக்கப்படும் நாணயத்தைச் சேர்க்கவும்',
     'workshop.monetization.arcDescription': 'ஆர்க் விளக்கம் (ஸ்ட்ரைப் செக்அவுட்டில் காட்டப்படும்)',

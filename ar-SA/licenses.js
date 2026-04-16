@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'أنا أفهم الشروط والأثر القانوني ل CC0 على عملي',
     'licenses.learnMore': 'اعرف المزيد',
     'licenses.legalText': 'النص القانوني',
-    'licenses.chooser.back': 'رجوع',
     'licenses.chooser.select': 'اختر هذا الترخيص',
     'licenses.commercial.title': 'معلومات الرخصة التجارية',
     'licenses.commercial.exclusive': 'مع هذا الترخيص الحصري، سيحصل Literary Universe على رسوم بنسبة 10% من أرباحك. هذا يعني أنك ستحصل على 90% من الإيرادات الناتجة عن عملك على منصتنا.',

@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Cuireadh faighte trí ríomhphost',
     // Members table
     'org.members.joined': 'Cláraithe',
-    'org.members.actions': 'Gníomhartha',
     'org.roles.super_admin': 'Sár-Riarthóir'
 };

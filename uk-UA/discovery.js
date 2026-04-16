@@ -36,7 +36,6 @@ export default {
     'story.universeRelation.universe': 'Частина всесвіту',
     'discover.search.rating': 'Вікова категорія',
     'discover.search.license': 'Авторські права',
-    'discover.search.language': 'Мова',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Жоден всесвіт не відповідає вашим параметрам}
         one {Знайдено 1 всесвіт}
@@ -75,7 +74,6 @@ export default {
     'discovery.isPreview.explained': 'Ця історія надається лише для ознайомлення з роботою.',
     'discovery.includesAds': 'Включає рекламу',
     // AI content related strings
-    'discovery.ai.content': 'Контент, створений штучним інтелектом',
     'discovery.ai.universes': 'Всесвіти, створені штучним інтелектом',
     'discovery.ai.stories': 'Історії, створені штучним інтелектом',
     'discovery.ai.noContent': 'Контент, створений штучним інтелектом, поки що недоступний.',

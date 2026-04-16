@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Julkaisijan esikatselutiedosto on ladattu tätä juttua varten.',
     'workshop.story.publisherPreview.replace': 'Korvaa tiedosto',
-    'workshop.story.publisherPreview.remove': 'Poista',
     // Story monetization
     'workshop.monetization.addCurrency': 'Lisää toinen tuettu valuutta',
     'workshop.monetization.arcDescription': 'Kaaren kuvaus (näkyy Stripe-kassassa)',

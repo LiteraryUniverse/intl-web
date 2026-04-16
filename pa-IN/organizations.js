@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'ਈਮੇਲ ਰਾਹੀਂ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ',
     // Members table
     'org.members.joined': 'ਸ਼ਾਮਿਲ ਹੋਇਆ',
-    'org.members.actions': 'ਕਿਰਿਆਵਾਂ',
     'org.roles.super_admin': 'ਸੁਪਰ ਐਡਮਿਨ'
 };

@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Chia sẻ với...',
     'sharing.feedback': 'Chúng tôi đã bỏ sót một số nơi mà bạn muốn chia sẻ đến? Hãy cho chúng tôi biết về điều đó!',
     'sharing.copy': 'Sao chép',
-    'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

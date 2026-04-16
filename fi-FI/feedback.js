@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Ehdota uutta ominaisuutta',
     'feedback.lang.nosupport': 'Nykyistä kieltäsi ei tueta palautteen antamisessa, kirjoita englanniksi. Kiitos!',
     'feedback.new.thanks': 'Kiitos ilmoituksesta! Tutkimme asiaa lähiaikoina.',
-    'feedback.comment.title': 'Kommentti',
     'feedback.comment.desc': 'Lähetä meille palautetta',
     'feedback.comment.legend': 'Palautteesi - kerro meille mistä tahansa',
     'feedback.comment.success': 'Kiitos palautteestasi!',
@@ -55,7 +54,6 @@ export default {
     story {tarinaa}
     other {tarinaa}
   } loukataan?`,
-    'feedback.help.overview': 'Yleiskatsaus',
     'feedback.help.articles': 'Artikkelit',
     'feedback.help.courses': 'Kurssit',
     'feedback.help.videoTutorials': 'Video-oppaat',

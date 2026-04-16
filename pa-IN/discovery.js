@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'ਸੰਰਚਨਾ ਦਾ ਹਿੱਸਾ',
     'discover.search.rating': 'ਉਮਰ ਰੇਟਿੰਗ',
     'discover.search.license': 'ਕਾਪੀਰਾਈਟ ਲਾਈਸੈਂਸ',
-    'discover.search.language': 'ਭਾਸ਼ਾ',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {ਤੁਸੀਂ ਆਪਣੇ ਪੈਰਾਮੀਟਰਾਂ ਦੀ ਜ਼ਮੀਨ ਨਹੀਂ ਹਨ੍ਹੇ ਪਸਨਦਾ ਦੁਨੀਆ ਨਾਲ ਮੇਲਨ ਵਾਲੇ ਕੋਈ ਰਾਜ ਨਹੀਂ ਮਿਲੇ}
         one {1 ਦੁਨੀਆ ਮਿਲੀ}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',

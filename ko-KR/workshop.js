@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': '업로드 중... {progress}%',
     'workshop.story.publisherPreview.uploaded': '이 스토리에 대한 게시자 미리보기 파일이 업로드되었습니다.',
     'workshop.story.publisherPreview.replace': '파일 바꾸기',
-    'workshop.story.publisherPreview.remove': '제거',
     // Story monetization
     'workshop.monetization.addCurrency': '지원되는 다른 통화 추가',
     'workshop.monetization.arcDescription': '아크 설명(스트라이프 결제에 표시됨)',

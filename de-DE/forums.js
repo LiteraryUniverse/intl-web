@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Es hat noch niemand geantwortet. Seien Sie der Erste!',
   'forums.noThreads': 'Hier gibt es nichts zu sehen. Es liegt an Ihnen, ein Gespräch zu beginnen.',
   'forums.openingPost': 'Eröffnungsposten',
-  'forums.post': 'Beitrag',
   'forums.post.new': 'Neuer Post',
   'forums.posting': 'Veröffentliche...',
   'forums.reply': 'Antwort',

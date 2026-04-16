@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Никто ещё не ответил. Будьте первыми!',
   'forums.noThreads': 'Здесь не на что смотреть. Вы сами должны начать обсуждение.',
   'forums.openingPost': 'Открытие публикации',
-  'forums.post': 'Опубликовать',
   'forums.post.new': 'Новая публикация',
   'forums.posting': 'Публикация...',
   'forums.reply': 'Ответить',

@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'År',
   'resume.editor.awards.desc': 'Beskrivning',
   'resume.editor.awards.add': 'Lägg till pris',
-  'resume.editor.awards.remove': 'Ta bort',
   // Theme
   'resume.editor.theme.heading': 'Tema för CV',
   'resume.editor.theme.description': 'Välj ett visuellt tema för din offentliga CV-sida.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Skapa åtkomstlänk',
   'resume.access.createLink.comment': 'Kommentar (valfritt)',
   'resume.access.createLink.language': 'Språk på sidan',
-  'resume.access.createLink.create': 'Skapa',
   'resume.access.noLinks': 'Inga åtkomstlänkar skapade ännu. Skapa en länk för att dela ditt CV.',
   'resume.access.copy': 'Kopia',
   'resume.access.copied': 'Kopierat!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Skapad {date}',
   'resume.access.viewVisits': 'Visa detaljer om besöket',
   'resume.access.noVisits': 'Inga besök registrerade ännu.',
-  'resume.access.anonymousVisitor': 'Anonym',
   'resume.access.onsite': 'På plats',
   'resume.access.visitNumber': '(besök #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Magmungkahi ng bagong feature',
     'feedback.lang.nosupport': 'Hindi suportado ang iyong kasalukuyang wika para sa feedback, magpakasulatan sa Ingles. Salamat!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'Komento',
     'feedback.comment.desc': 'Ipadala ang iyong feedback',
     'feedback.comment.legend': 'Iyong feedback - sabihin mo sa amin tungkol sa anumang bagay',
     'feedback.comment.success': 'Salamat sa iyong feedback!',
@@ -55,7 +54,6 @@ export default {
     story {story}
     other {story}
   } is being infringed?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Courses',
     'feedback.help.videoTutorials': 'Video tutorials',

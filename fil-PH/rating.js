@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Pangkat',
     'rating.explained': 'Pangkat ng edad at pagbabawal.',
-    'rating.all': 'Lahat',
     'rating.desc.all': 'Abot-kaya para sa lahat ng edad at grupo.',
     'rating.teens': 'Mga Kabataan',
     'rating.desc.teens': 'Angkop para sa manonood na nasa edad 12 hanggang 18.',

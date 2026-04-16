@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'กำลังอัปโหลด... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'ไฟล์ตัวอย่างสำหรับผู้จัดพิมพ์ได้ถูกอัปโหลดสำหรับเรื่องนี้แล้ว',
     'workshop.story.publisherPreview.replace': 'แทนที่ไฟล์',
-    'workshop.story.publisherPreview.remove': 'ลบ',
     // Story monetization
     'workshop.monetization.addCurrency': 'เพิ่มสกุลเงินที่ได้รับการสนับสนุนอีกสกุลหนึ่ง',
     'workshop.monetization.arcDescription': 'คำอธิบายอาร์ค (แสดงใน Stripe checkout)',

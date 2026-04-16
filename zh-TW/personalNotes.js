@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': '第 {sequence} 章 - {title}',
   'personalNotes.objectPersonalNotes': '{object} 個個人筆記',
   'personalNotes.searchResults': '搜尋結果',
-  'personalNotes.type.story': '故事',
-  'personalNotes.type.universe': '宇宙',
-  'personalNotes.type.chapter': '章節',
   'personalNotes.type.encEntry': '百科全書條目',
   'personalNotes.type.revTextBlock': '修訂文字區塊',
-  'personalNotes.chapter': '章節',
   'personalNotes.recentSearches': '最近搜尋：',
   'personalNotes.myNotes': '我的個人筆記',
   'personalNotes.hasNotes': '具有個人筆記'

@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': '宇宙の一部',
     'discover.search.rating': '年齢別読者評価',
     'discover.search.license': '著作権ライセンス',
-    'discover.search.language': '言語',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {あなたのパラメータに合う宇宙はありません}
         other {# 宇宙が見つかりました}
@@ -65,7 +64,6 @@ export default {
     'discovery.isPreview.explained': 'この物語は作品のプレビューとしてのみ提供される。',
     'discovery.includesAds': '広告を含む',
     // AI content related strings
-    'discovery.ai.content': 'AIが生成したコンテンツ',
     'discovery.ai.universes': 'AIが生成する宇宙',
     'discovery.ai.stories': 'AIが生み出す物語',
     'discovery.ai.noContent': 'AIが生成したコンテンツはまだない。',

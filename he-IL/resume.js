@@ -59,7 +59,6 @@ export default {
   'resume.editor.awards.year': 'שנה',
   'resume.editor.awards.desc': 'תיאור',
   'resume.editor.awards.add': 'הוסף פרס',
-  'resume.editor.awards.remove': 'הסר',
   // Theme
   'resume.editor.theme.heading': 'ערכת עיצוב לקורות חיים',
   'resume.editor.theme.description': 'בחר ערכת נושא חזותית לדף קורות החיים הציבורי שלך.',
@@ -95,7 +94,6 @@ export default {
   'resume.access.createLink.title': 'צור קישור גישה',
   'resume.access.createLink.comment': 'הערה (לא חובה)',
   'resume.access.createLink.language': 'שפת הדף',
-  'resume.access.createLink.create': 'צור',
   'resume.access.noLinks': 'עדיין לא נוצרו קישורי גישה. צור קישור כדי לשתף את קורות החיים שלך.',
   'resume.access.copy': 'העתק',
   'resume.access.copied': 'הועתק!',
@@ -106,7 +104,6 @@ export default {
   'resume.access.created': 'נוצר ב- {date}',
   'resume.access.viewVisits': 'הצג פרטי הביקור',
   'resume.access.noVisits': 'עדיין לא נרשמו ביקורים.',
-  'resume.access.anonymousVisitor': 'אנונימי',
   'resume.access.onsite': 'במקום',
   'resume.access.visitNumber': '(בקרו באתר #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

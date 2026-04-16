@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'CC0\'ın şartlarını ve çalışmam üzerindeki yasal etkisini anlıyorum',
     'licenses.learnMore': 'Daha Fazla Bilgi',
     'licenses.legalText': 'Yasal Metin',
-    'licenses.chooser.back': 'Geri',
     'licenses.chooser.select': 'Bu Lisansı Seçin',
     'licenses.commercial.title': 'Ticari Lisans Bilgileri',
     'licenses.commercial.exclusive': 'Bu özel lisansla, Literary Universe kazançlarınızdan %10 oranında bir ücret alacaktır. Bu, platformumuzdaki çalışmalarınızdan elde edilen gelirin %90\'ını alacağınız anlamına gelir.',

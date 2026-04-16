@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Κανείς δεν έχει απαντήσει ακόμα. Να είστε ο πρώτος!',
   'forums.noThreads': 'Δεν υπάρχει τίποτα να δείτε εδώ. Είναι δική σας ευθύνη να ξεκινήσετε συζήτηση.',
   'forums.openingPost': 'Ανοικτή ανάρτηση',
-  'forums.post': 'Θέση',
   'forums.post.new': 'Νέα θέση',
   'forums.posting': 'Αποστολή...',
   'forums.reply': 'Απάντηση',

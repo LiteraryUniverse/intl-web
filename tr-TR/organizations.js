@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'E-posta ile davet edildi',
     // Members table
     'org.members.joined': 'Katıldım',
-    'org.members.actions': 'Eylemler',
     'org.roles.super_admin': 'Süper Yönetici'
 };

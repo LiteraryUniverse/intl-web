@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'Запрошуємо вас взяти участь у {count, plural, one {курсі} other {курсах}}.',
   'courses.invites.noInvites': 'Наразі у вас немає запрошень на курси.',
   'courses.invites.invitedBy': 'На запрошення: ',
-  'courses.invites.accept': 'Прийняти',
-  'courses.invites.reject': 'Відхилити',
   'course.join.heading': 'Приєднуйтесь до цього курсу',
   'course.oneTimePayment': 'Одноразова оплата за повний доступ',
   'course.member': 'Ви зараховані.',

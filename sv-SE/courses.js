@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'Du är inbjuden att ta del av {count, plural, one {kurs} other {kurser}}.',
   'courses.invites.noInvites': 'Du har inga kursinbjudningar för tillfället.',
   'courses.invites.invitedBy': 'Inbjuden av: ',
-  'courses.invites.accept': 'Acceptera',
-  'courses.invites.reject': 'Avvisa',
   'course.join.heading': 'Anmäl dig till denna kurs',
   'course.oneTimePayment': 'Engångsbetalning för full tillgång',
   'course.member': 'Du är inskriven',

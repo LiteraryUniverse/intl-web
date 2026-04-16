@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Skyrius {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} asmeninė pastaba',
   'personalNotes.searchResults': 'Paieškos rezultatai',
-  'personalNotes.type.story': 'Istorija',
-  'personalNotes.type.universe': 'Visata',
-  'personalNotes.type.chapter': 'Skyrius',
   'personalNotes.type.encEntry': 'Enciklopedijos įrašas',
   'personalNotes.type.revTextBlock': 'Peržiūros teksto blokas',
-  'personalNotes.chapter': 'Skyrius',
   'personalNotes.recentSearches': 'Neseniai ieškota:',
   'personalNotes.myNotes': 'Mano asmeninės pastabos',
   'personalNotes.hasNotes': 'Turi asmeninių pastabų'

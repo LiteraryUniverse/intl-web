@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Univerzum része',
     'discover.search.rating': 'Korhatár',
     'discover.search.license': 'Szerzői jogi engedély',
-    'discover.search.language': 'Nyelv',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Nincsenek univerzumok a paramétereidnek megfelelően}
         one {1 univerzum található}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Ez a történet csak a mű előzetese.',
     'discovery.includesAds': 'Tartalmazza a hirdetéseket',
     // AI content related strings
-    'discovery.ai.content': 'AI-generált tartalom',
     'discovery.ai.universes': 'Mesterséges intelligencia által generált univerzumok',
     'discovery.ai.stories': 'AI-generált történetek',
     'discovery.ai.noContent': 'Még nem áll rendelkezésre mesterséges intelligencia által generált tartalom.',

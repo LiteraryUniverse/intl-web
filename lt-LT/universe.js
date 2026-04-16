@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Autoriai',
     'universe.authors.desc': 'Kūrėjai ir bendradarbiai su {universe}',
     'universe.contributors': 'Bendradarbiai',
-    'universe.translators': 'Vertėjai',
     'universe.authors.notice': 'Kiekviena istorija gali turėti papildomų asmenų, kurie dirbo prie jos. Daugiau informacijos žr. istorijos detales.',
     'universe.createdBy': `{gender, select,
     male {Sukurta}

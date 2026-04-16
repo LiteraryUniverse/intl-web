@@ -4,7 +4,6 @@
 export default {
     'rating.name': '評分',
     'rating.explained': '年齡評分和限制。',
-    'rating.all': '全部',
     'rating.desc.all': '適合所有年齡和群體。',
     'rating.teens': '青少年',
     'rating.desc.teens': '適合12至18歲觀眾。',

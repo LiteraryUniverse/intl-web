@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'არავისთვის არაფერი უპასუხარია. იყავით პირველი!',
   'forums.noThreads': 'აქ არაფერია ნაჩვენები. თქვენ ხართ იმას მიმართავი, რომ დაიწყოთ კონვერსაცია.',
   'forums.openingPost': 'საწყისი პოსტი',
-  'forums.post': 'პოსტი',
   'forums.post.new': 'ახალი პოსტი',
   'forums.posting': 'პოსტირება...',
   'forums.reply': 'პასუხი',

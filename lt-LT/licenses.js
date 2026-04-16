@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Suprantu CC0 sąlygas ir teisinį poveikį mano darbui.',
     'licenses.learnMore': 'Sužinokite daugiau',
     'licenses.legalText': 'Teisinis tekstas',
-    'licenses.chooser.back': 'Atgal',
     'licenses.chooser.select': 'Pasirinkite šią licenciją',
     'licenses.commercial.title': 'Informacija apie komercinę licenciją',
     'licenses.commercial.exclusive': 'Naudodamiesi šia išskirtine licencija, "Literary Universe" paims 10 % mokestį nuo jūsų pajamų. Tai reiškia, kad gausite 90 % pajamų, gautų iš jūsų kūrinio mūsų platformoje.',

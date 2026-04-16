@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Feltöltés... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Ehhez a történethez feltöltöttünk egy kiadói előnézeti fájlt.',
     'workshop.story.publisherPreview.replace': 'Fájl cseréje',
-    'workshop.story.publisherPreview.remove': 'Távolítsa el a',
     // Story monetization
     'workshop.monetization.addCurrency': 'Egy másik támogatott pénznem hozzáadása',
     'workshop.monetization.arcDescription': 'Arc leírás (Stripe pénztárnál látható)',

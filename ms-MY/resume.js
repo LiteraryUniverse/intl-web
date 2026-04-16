@@ -61,7 +61,6 @@ export default {
   'resume.editor.awards.year': 'Tahun',
   'resume.editor.awards.desc': 'Keterangan',
   'resume.editor.awards.add': 'Tambah Anugerah',
-  'resume.editor.awards.remove': 'Buang',
   // Theme
   'resume.editor.theme.heading': 'Tema Resume',
   'resume.editor.theme.description': 'Pilih tema visual untuk halaman resume awam anda.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Buat pautan akses',
   'resume.access.createLink.comment': 'Komen (pilihan)',
   'resume.access.createLink.language': 'Bahasa Halaman',
-  'resume.access.createLink.create': 'Buat',
   'resume.access.noLinks': 'Tiada pautan akses yang telah dibuat lagi. Buat pautan untuk berkongsi resume anda.',
   'resume.access.copy': 'Salin',
   'resume.access.copied': 'Disalin!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Dicipta {date}',
   'resume.access.viewVisits': 'Lihat butiran lawatan',
   'resume.access.noVisits': 'Tiada lawatan yang direkodkan lagi.',
-  'resume.access.anonymousVisitor': 'Anonymous',
   'resume.access.onsite': 'Di tapak',
   'resume.access.visitNumber': '(Lawati #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

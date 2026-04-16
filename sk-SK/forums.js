@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Zatiaľ nikto neodpovedal. Buďte prvý!',
   'forums.noThreads': 'Nič tu nie je vidieť. Je na vás, aby ste začali konverzáciu.',
   'forums.openingPost': 'Úvodný príspevok',
-  'forums.post': 'Príspevok',
   'forums.post.new': 'Nový príspevok',
   'forums.posting': 'Posielam...',
   'forums.reply': 'Odpovedať',

@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Ik begrijp de voorwaarden en het juridische effect van CC0 op mijn werk',
     'licenses.learnMore': 'Meer informatie',
     'licenses.legalText': 'Wettelijke tekst',
-    'licenses.chooser.back': 'Terug',
     'licenses.chooser.select': 'Selecteer deze licentie',
     'licenses.commercial.title': 'Informatie over commerciële licenties',
     'licenses.commercial.exclusive': 'Met deze exclusieve licentie ontvangt Literary Universe een vergoeding van 10% van uw inkomsten. Dit betekent dat u 90% van de inkomsten uit uw werk op ons platform ontvangt.',

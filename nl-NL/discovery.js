@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Onderdeel van een universum',
     'discover.search.rating': 'Leeftijdsclassificatie',
     'discover.search.license': 'Auteursrechtelijke licentie',
-    'discover.search.language': 'Taal',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Geen universums voldoen aan uw parameters}
         one {1 universum gevonden}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Dit verhaal is alleen bedoeld als voorvertoning van het werk.',
     'discovery.includesAds': 'Inclusief advertenties',
     // AI content related strings
-    'discovery.ai.content': 'AI-gegenereerde inhoud',
     'discovery.ai.universes': 'AI-gegenereerde Universums',
     'discovery.ai.stories': 'AI-verhalen',
     'discovery.ai.noContent': 'Er is nog geen AI-gegenereerde inhoud beschikbaar.',

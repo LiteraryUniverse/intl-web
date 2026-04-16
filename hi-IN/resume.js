@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'वर्ष',
   'resume.editor.awards.desc': 'विवरण',
   'resume.editor.awards.add': 'पुरस्कार जोड़ें',
-  'resume.editor.awards.remove': 'हटाएँ',
   // Theme
   'resume.editor.theme.heading': 'थीम फिर से शुरू करें',
   'resume.editor.theme.description': 'अपने सार्वजनिक रिज़्यूमे पृष्ठ के लिए एक दृश्य थीम चुनें।',
@@ -97,7 +96,6 @@ export default {
   'resume.access.createLink.title': 'एक्सेस लिंक बनाएँ',
   'resume.access.createLink.comment': 'टिप्पणी (वैकल्पिक)',
   'resume.access.createLink.language': 'पृष्ठ भाषा',
-  'resume.access.createLink.create': 'बनाएँ',
   'resume.access.noLinks': 'अभी तक कोई एक्सेस लिंक नहीं बनाया गया है। अपना रिज़्यूमे साझा करने के लिए एक लिंक बनाएँ।',
   'resume.access.copy': 'प्रतिलिपि',
   'resume.access.copied': 'नकल हो गई!',
@@ -108,7 +106,6 @@ export default {
   'resume.access.created': 'निर्मित {date}',
   'resume.access.viewVisits': 'दौरे का विवरण देखें',
   'resume.access.noVisits': 'अभी तक कोई विज़िट दर्ज नहीं हुई है।',
-  'resume.access.anonymousVisitor': 'गुमनाम',
   'resume.access.onsite': 'स्थल पर',
   'resume.access.visitNumber': '( #{number} पर जाएँ)',
   // ── Public Resume Page ──────────────────────────────────────────────────────

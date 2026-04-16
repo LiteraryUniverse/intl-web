@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Sugerează o caracteristică nouă',
     'feedback.lang.nosupport': 'Limba ta curentă nu este suportată pentru feedback, te rugăm să scrii în limba engleză. Mulțumim!',
     'feedback.new.thanks': 'Vă mulțumim pentru notificare! Ne vom ocupa de aceasta în scurt timp.',
-    'feedback.comment.title': 'Comentariu',
     'feedback.comment.desc': 'Trimite-ne feedback-ul tău',
     'feedback.comment.legend': 'Feedback-ul tău - spune-ne orice',
     'feedback.comment.success': 'Mulțumim pentru feedback-ul tău!',
@@ -55,7 +54,6 @@ export default {
     story {poveste}
     other {poveste}
   } este încălcat?`,
-    'feedback.help.overview': 'Prezentare generală',
     'feedback.help.articles': 'Articole',
     'feedback.help.courses': 'Cursuri',
     'feedback.help.videoTutorials': 'Tutoriale video',

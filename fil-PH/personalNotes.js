@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Kabanata {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} personal na tala',
   'personalNotes.searchResults': 'Mga Resulta ng Paghahanap',
-  'personalNotes.type.story': 'Kuwento',
-  'personalNotes.type.universe': 'Uniberso',
-  'personalNotes.type.chapter': 'Kabanata',
   'personalNotes.type.encEntry': 'Talâ sa Ensiklopedya',
   'personalNotes.type.revTextBlock': 'Talâ sa Tekstong Rebisyon',
-  'personalNotes.chapter': 'Kabanata',
   'personalNotes.recentSearches': 'Mga Natatanging Paghahanap:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'

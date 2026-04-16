@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Đánh giá',
     'rating.explained': 'Đánh giá tuổi và hạn chế.',
-    'rating.all': 'Tất cả',
     'rating.desc.all': 'Phù hợp với mọi độ tuổi và nhóm.',
     'rating.teens': 'Thiếu niên',
     'rating.desc.teens': 'Phù hợp với khán giả từ 12 đến 18 tuổi.',

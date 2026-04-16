@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Uploading... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'A publisher preview file has been uploaded for this story.',
     'workshop.story.publisherPreview.replace': 'Replace File',
-    'workshop.story.publisherPreview.remove': 'Remove',
     // Story monetization
     'workshop.monetization.addCurrency': 'Add another supported currency',
     'workshop.monetization.arcDescription': 'Arc description (shown in Stripe checkout)',

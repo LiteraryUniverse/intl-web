@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Kviečiama el. paštu',
     // Members table
     'org.members.joined': 'Prisijungė prie',
-    'org.members.actions': 'Veiksmai',
     'org.roles.super_admin': 'Super administratorius'
 };

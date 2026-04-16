@@ -61,7 +61,6 @@ export default {
   'resume.editor.awards.year': 'Vuosi',
   'resume.editor.awards.desc': 'Kuvaus',
   'resume.editor.awards.add': 'Lisää palkinto',
-  'resume.editor.awards.remove': 'Poista',
   // Theme
   'resume.editor.theme.heading': 'Yhteenveto teema',
   'resume.editor.theme.description': 'Valitse visuaalinen teema julkiselle ansioluettelosivullesi.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Luo pääsylinkki',
   'resume.access.createLink.comment': 'Kommentti (valinnainen)',
   'resume.access.createLink.language': 'Sivun kieli',
-  'resume.access.createLink.create': 'Luo',
   'resume.access.noLinks': 'Pääsylinkkejä ei ole vielä luotu. Luo linkki jakaaksesi ansioluettelosi.',
   'resume.access.copy': 'Kopioi',
   'resume.access.copied': 'Kopioitu!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Luotu {date}',
   'resume.access.viewVisits': 'Näytä vierailun yksityiskohdat',
   'resume.access.noVisits': 'Käyntejä ei ole vielä kirjattu.',
-  'resume.access.anonymousVisitor': 'Anonyymi',
   'resume.access.onsite': 'Paikan päällä',
   'resume.access.visitNumber': '(käy osoitteessa #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

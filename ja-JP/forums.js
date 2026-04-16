@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'まだ誰も返信していません。一番乗りを目指しましょう。',
   'forums.noThreads': '何も掲示するものはありません。会話を始めるのはあなた次第です。',
   'forums.openingPost': 'オープニングポスト',
-  'forums.post': '投稿',
   'forums.post.new': '新規投稿',
   'forums.posting': '投稿中',
   'forums.reply': '返信',

@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'ตอน {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} บันทึกส่วนบุคคล',
   'personalNotes.searchResults': 'ผลลัพธ์การค้นหา',
-  'personalNotes.type.story': 'เรื่อง',
-  'personalNotes.type.universe': 'จักรวาล',
-  'personalNotes.type.chapter': 'ตอน',
   'personalNotes.type.encEntry': 'สารานุกรม',
   'personalNotes.type.revTextBlock': 'บล็อคข้อความการแก้ไข',
-  'personalNotes.chapter': 'ตอน',
   'personalNotes.recentSearches': 'การค้นหาล่าสุด:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'

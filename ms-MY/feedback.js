@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Cadangkan ciri baru',
     'feedback.lang.nosupport': 'Bahasa anda tidak disokong untuk maklum balas, sila tulis dalam Bahasa Inggeris. Terima kasih!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'Komen',
     'feedback.comment.desc': 'Hantar maklum balas anda',
     'feedback.comment.legend': 'Maklum balas anda - beritahu kami tentang apa-apa',
     'feedback.comment.success': 'Terima kasih atas maklum balas anda!',
@@ -55,7 +54,6 @@ export default {
     story {story}
     other {story}
   } is being infringed?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Courses',
     'feedback.help.videoTutorials': 'Video tutorials',

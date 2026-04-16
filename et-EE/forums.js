@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Keegi pole veel vastanud. Ole esimene!',
   'forums.noThreads': 'Siin pole midagi näha. Sinust sõltub vestluse alustamine.',
   'forums.openingPost': 'Algpostitus',
-  'forums.post': 'Postitus',
   'forums.post.new': 'Uus postitus',
   'forums.posting': 'Postitamine...',
   'forums.reply': 'Vasta',

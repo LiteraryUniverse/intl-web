@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': '아직 답변이 없습니다. 첫 번째로 답변을 달아보세요!',
   'forums.noThreads': '여기에 볼 것이 없습니다. 대화를 시작하는 것은 당신에게 달려 있습니다.',
   'forums.openingPost': '개시 글',
-  'forums.post': '포스트',
   'forums.post.new': '새 게시물',
   'forums.posting': '게시 중...',
   'forums.reply': '답글',

@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Comprendo i termini e gli effetti legali della CC0 sul mio lavoro.',
     'licenses.learnMore': 'Per saperne di più',
     'licenses.legalText': 'Testo legale',
-    'licenses.chooser.back': 'Indietro',
     'licenses.chooser.select': 'Selezioni questa licenza',
     'licenses.commercial.title': 'Informazioni sulla licenza commerciale',
     'licenses.commercial.exclusive': 'Con questa licenza esclusiva, Literary Universe preleverà una commissione del 10% sui suoi guadagni. Ciò significa che riceverà il 90% delle entrate generate dal suo lavoro sulla nostra piattaforma.',

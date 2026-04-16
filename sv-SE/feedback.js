@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Föreslå en ny funktion',
     'feedback.lang.nosupport': 'Ditt nuvarande språk stöds inte för feedback, var god skriv på engelska. Tack!',
     'feedback.new.thanks': 'Tack för meddelandet! Vi kommer att titta på det inom kort.',
-    'feedback.comment.title': 'Kommentar',
     'feedback.comment.desc': 'Skicka oss dina synpunkter',
     'feedback.comment.legend': 'Dina synpunkter - låt oss veta om allt',
     'feedback.comment.success': 'Tack för dina synpunkter!',
@@ -55,7 +54,6 @@ export default {
     story {berättelse}
     other {berättelse}
   } blir kränkt?`,
-    'feedback.help.overview': 'Översikt',
     'feedback.help.articles': 'Artiklar',
     'feedback.help.courses': 'Kurser',
     'feedback.help.videoTutorials': 'Videohandledning',

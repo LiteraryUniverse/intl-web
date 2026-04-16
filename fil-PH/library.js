@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Nabasa mo na ang {readPercent, number, ::percent} ng kwento.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Please enter search terms or apply filters',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Purchased stories'
 };

@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Hinnang',
     'rating.explained': 'Vanusehinnang ja piirang.',
-    'rating.all': 'Kõik',
     'rating.desc.all': 'Ligipääsetav kõikidele vanusegruppidele.',
     'rating.teens': 'Teismelised',
     'rating.desc.teens': 'Sobib publikule vanuses 12 kuni 18 aastat.',

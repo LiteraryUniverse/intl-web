@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Bir evrenin parçası',
     'discover.search.rating': 'Yaş sınırlaması',
     'discover.search.license': 'Telif hakkı lisansı',
-    'discover.search.language': 'Dil',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Parametrelerinizle eşleşen evren bulunamadı}
         one {1 evren bulundu}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Bu hikaye sadece eserin bir önizlemesi olarak sunulmaktadır.',
     'discovery.includesAds': 'Reklamlar dahildir',
     // AI content related strings
-    'discovery.ai.content': 'Yapay Zeka Tarafından Oluşturulan İçerik',
     'discovery.ai.universes': 'Yapay Zeka Tarafından Oluşturulan Evrenler',
     'discovery.ai.stories': 'Yapay Zeka Tarafından Oluşturulan Hikayeler',
     'discovery.ai.noContent': 'Henüz yapay zeka tarafından oluşturulmuş içerik mevcut değil.',

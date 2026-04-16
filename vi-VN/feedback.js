@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Đề xuất tính năng mới',
     'feedback.lang.nosupport': 'Ngôn ngữ hiện tại của bạn không được hỗ trợ cho phản hồi, vui lòng viết bằng tiếng Anh. Cảm ơn bạn!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'Bình luận',
     'feedback.comment.desc': 'Gửi phản hồi của bạn cho chúng tôi',
     'feedback.comment.legend': 'Phản hồi của bạn - hãy cho chúng tôi biết về bất cứ điều gì',
     'feedback.comment.success': 'Cảm ơn bạn đã gửi phản hồi!',
@@ -55,7 +54,6 @@ export default {
     story {câu chuyện nào}
     other {câu chuyện nào}
   } đang bị vi phạm?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'Các khóa học',
     'feedback.help.videoTutorials': 'Video tutorials',

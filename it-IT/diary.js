@@ -40,7 +40,6 @@ export default {
   'Includere il conteggio delle parole del diario nel totale delle statistiche di scrittura.',
  'diary.settings.prompts': 'Writing Prompts',
  'diary.settings.writingPromptsEnabled': 'Show writing prompts when starting a new diary entry',
- 'diary.settings.dashboard': 'Dashboard',
  'diary.settings.showOnDashboard': 'Show diary reminder on the dashboard',
  // Blog post creation
  'diary.createBlogPost.title': 'Create Blog Post from Diary Entry',

@@ -34,7 +34,6 @@ export default {
     'story.universeRelation.universe': 'Część wszechświata',
     'discover.search.rating': 'Klasyfikacja wiekowa',
     'discover.search.license': 'Licencja praw autorskich',
-    'discover.search.language': 'Język',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Żaden wszechświat nie pasuje do Twoich parametrów}
         one {Znaleziono 1 wszechświat}
@@ -73,7 +72,6 @@ export default {
     'discovery.isPreview.explained': 'Niniejsza historia stanowi jedynie zapowiedź utworu.',
     'discovery.includesAds': 'Obejmuje reklamy',
     // AI content related strings
-    'discovery.ai.content': 'Treści generowane przez sztuczną inteligencję',
     'discovery.ai.universes': 'Wszechświaty generowane przez SI',
     'discovery.ai.stories': 'Historie generowane przez sztuczną inteligencję',
     'discovery.ai.noContent': 'Zawartość generowana przez SI nie jest jeszcze dostępna.',

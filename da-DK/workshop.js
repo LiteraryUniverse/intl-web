@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Uploader ... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Der er uploadet en preview-fil til udgiveren for denne historie.',
     'workshop.story.publisherPreview.replace': 'Udskift filen',
-    'workshop.story.publisherPreview.remove': 'Fjerne',
     // Story monetization
     'workshop.monetization.addCurrency': 'Tilføj en anden understøttet valuta',
     'workshop.monetization.arcDescription': 'Beskrivelse af buen (vist i Stripe checkout)',

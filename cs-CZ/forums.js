@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Zatím nikdo neodpověděl. Buďte první!',
   'forums.noThreads': 'Zatím tu nic není. Je na Vás něco začít.',
   'forums.openingPost': 'Úvodní příspěvek',
-  'forums.post': 'Poslat',
   'forums.post.new': 'Nový příspěvek',
   'forums.posting': 'Odesílám...',
   'forums.reply': 'Odpovědět',

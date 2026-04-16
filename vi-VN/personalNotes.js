@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Chương {sequence} - {title}',
   'personalNotes.objectPersonalNotes': 'Ghi chú cá nhân  {object}',
   'personalNotes.searchResults': 'Kết quả tìm kiếm',
-  'personalNotes.type.story': 'Câu chuyện',
-  'personalNotes.type.universe': 'Vũ trụ',
-  'personalNotes.type.chapter': 'Chương',
   'personalNotes.type.encEntry': 'Mục bách khoa toàn thư',
   'personalNotes.type.revTextBlock': 'Mục block văn bản được sửa',
-  'personalNotes.chapter': 'Chương',
   'personalNotes.recentSearches': 'Tìm kiếm gần đây:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'

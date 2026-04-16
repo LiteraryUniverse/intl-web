@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'المؤلفون',
     'universe.authors.desc': 'المبدعون والمساهمون في {universe}',
     'universe.contributors': 'المساهمون',
-    'universe.translators': 'المترجمون',
     'universe.authors.notice': 'ربما يكون لكل قصة مساهمون إضافيون. لمزيد من التفاصيل، راجع تفاصيل القصة.',
     'universe.createdBy': `{gender, select,
     male {تم إنشاؤها}

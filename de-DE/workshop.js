@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Hochladen... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Für diese Geschichte wurde eine Verlagsvorschau-Datei hochgeladen.',
     'workshop.story.publisherPreview.replace': 'Datei austauschen',
-    'workshop.story.publisherPreview.remove': 'Entfernen Sie',
     // Story monetization
     'workshop.monetization.addCurrency': 'Eine weitere unterstützte Währung hinzufügen',
     'workshop.monetization.arcDescription': 'Bogenbeschreibung (in der Stripe-Kasse angezeigt)',

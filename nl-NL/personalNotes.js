@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Hoofdstuk {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} persoonlijke noot',
   'personalNotes.searchResults': 'Zoekresultaten',
-  'personalNotes.type.story': 'Verhaal',
-  'personalNotes.type.universe': 'Universum',
-  'personalNotes.type.chapter': 'Hoofdstuk',
   'personalNotes.type.encEntry': 'Encyclopedie-invoer',
   'personalNotes.type.revTextBlock': 'Revisietekstblok',
-  'personalNotes.chapter': 'Hoofdstuk',
   'personalNotes.recentSearches': 'Recente zoekopdrachten:',
   'personalNotes.myNotes': 'Mijn persoonlijke aantekeningen',
   'personalNotes.hasNotes': 'Heeft persoonlijke aantekeningen'

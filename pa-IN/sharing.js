@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'ਨਾਲ ਸਾਂਝਾ ਕਰੋ...',
     'sharing.feedback': 'ਕੀ ਅਸੀਂ ਕੋਈ ਥਾਂ ਛੱਡ ਦਿੱਤੀ ਹੈ ਜੋ ਤੁਸੀਂ ਸਾਂਝੀ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਸਾਨੂੰ ਦੱਸੋ!',
     'sharing.copy': 'ਕਾਪੀ ਕਰੋ',
-    'sharing.email': 'ਈਮੇਲ',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'ਫੇਸਬੁੱਕ ਮੈਸੇਂਜਰ',
     'sharing.whatsapp': 'WhatsApp',

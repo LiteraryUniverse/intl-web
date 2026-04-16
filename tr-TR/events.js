@@ -20,9 +20,7 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Etkinliğe katıl',
   'events.selection.origin': 'Etkinlik kaynağı',
-  'events.origin.universe': 'Evren',
   'events.origin.author': 'Yazar',
-  'events.origin.groups': 'Gruplar',
   'events.origin.organizations': 'Organizasyonlar',
   'events.origin.lu': 'Edebiyat Evreni etkinlikleri',
   'events.visibility.label': 'Etkinlik görünürlüğü',

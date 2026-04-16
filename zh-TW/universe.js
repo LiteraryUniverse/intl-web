@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': '作者',
     'universe.authors.desc': '創造者和貢獻者為 {universe}',
     'universe.contributors': '貢獻者',
-    'universe.translators': '翻譯者',
     'universe.authors.notice': '每個故事可能還有其他參與其中的人員。更多詳細資料請見故事的詳情。',
     'universe.createdBy': `{gender, select,
     male {創建者}

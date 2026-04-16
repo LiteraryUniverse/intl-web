@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'I understand the terms and legal effect of CC0 on my work',
     'licenses.learnMore': 'Learn More',
     'licenses.legalText': 'Legal Text',
-    'licenses.chooser.back': 'Back',
     'licenses.chooser.select': 'Select This License',
     'licenses.commercial.title': 'Commercial License Information',
     'licenses.commercial.exclusive': 'ด้วยใบอนุญาตพิเศษนี้ ลิเทอรัรี ยูนิเวิร์ส จะคิดค่าธรรมเนียม 10% จากรายได้ของคุณ ซึ่งหมายความว่าคุณจะได้รับ 90% ของรายได้ที่เกิดจากผลงานของคุณบนแพลตฟอร์มของเรา',

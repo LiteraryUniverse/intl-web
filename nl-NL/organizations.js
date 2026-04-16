@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Uitgenodigd per e-mail',
     // Members table
     'org.members.joined': 'Aangesloten bij',
-    'org.members.actions': 'Acties',
     'org.roles.super_admin': 'Super beheerder'
 };

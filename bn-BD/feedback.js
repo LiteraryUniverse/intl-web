@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'নতুন বৈশিষ্ট্য সাজান',
     'feedback.lang.nosupport': 'আপনার বর্তমান ভাষা ফিডব্যাকের জন্য সমর্থিত নয়, দয়া করে ইংরেজিতে লিখুন। ধন্যবাদ!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'মন্তব্য',
     'feedback.comment.desc': 'আমাদের কাছে আপনার মতামত পাঠান',
     'feedback.comment.legend': 'আপনার মতামত - আমাদের সম্পর্কে জানান',
     'feedback.comment.success': 'আপনার মতামতের জন্য ধন্যবাদ!',
@@ -55,7 +54,6 @@ export default {
     story {গল্প}
     other {গল্প}
   } অধিকার লঙ্ঘন হচ্ছে?`,
-    'feedback.help.overview': 'Overview',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'পাঠ্যক্রম',
     'feedback.help.videoTutorials': 'Video tutorials',

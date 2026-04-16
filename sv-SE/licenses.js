@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Jag förstår villkoren och den rättsliga effekten av CC0 på mitt arbete',
     'licenses.learnMore': 'Lär dig mer',
     'licenses.legalText': 'Juridisk text',
-    'licenses.chooser.back': 'Tillbaka',
     'licenses.chooser.select': 'Välj denna licens',
     'licenses.commercial.title': 'Information om kommersiell licens',
     'licenses.commercial.exclusive': 'Med denna exklusiva licens kommer Literary Universe att ta en avgift på 10 % av dina intäkter. Det innebär att du får 90 % av de intäkter som genereras från ditt arbete på vår plattform.',

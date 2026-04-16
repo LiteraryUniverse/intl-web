@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'লোড হচ্ছে... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'এই গল্পের জন্য একটি প্রকাশক পূর্বরূপ ফাইল আপলোড করা হয়েছে।',
     'workshop.story.publisherPreview.replace': 'ফাইল প্রতিস্থাপন করুন',
-    'workshop.story.publisherPreview.remove': 'সরান',
     // Story monetization
     'workshop.monetization.addCurrency': 'আরেকটি সমর্থিত মুদ্রা যোগ করুন',
     'workshop.monetization.arcDescription': 'আর্ক বিবরণ (স্ট্রাইপ চেকআউটে প্রদর্শিত)',

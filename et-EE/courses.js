@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': 'Olete oodatud osalema {count, plural, one {kursusel} other {kursustel}}.',
   'courses.invites.noInvites': 'Teil ei ole hetkel ühtegi kursuse kutset.',
   'courses.invites.invitedBy': 'Kutsuja: ',
-  'courses.invites.accept': 'Aktsepteeri',
-  'courses.invites.reject': 'Lükake tagasi',
   'course.join.heading': 'Liitu selle kursusega',
   'course.oneTimePayment': 'Ühekordne makse täieliku juurdepääsu eest',
   'course.member': 'Sa oled registreerunud',

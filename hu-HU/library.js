@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Elolvastad a történetet {readPercent, number, ::percent} alkalommal.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Kérjük, adja meg a keresési feltételeket vagy alkalmazzon szűrőket',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Vásárolt történetek'
 };

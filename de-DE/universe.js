@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Autoren',
     'universe.authors.desc': 'Schöpfer und Mitwirkende von {universe}',
     'universe.contributors': 'Mitwirkende',
-    'universe.translators': 'Übersetzer',
     'universe.authors.notice': 'Jede Story kann zusätzliches Personal haben, das an ihr gearbeitet hat. Weitere Details finden Sie in den Details der Geschichte.',
     'universe.createdBy': `{gender, select,
     male {Erstellt}

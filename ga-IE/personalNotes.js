@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Caibidil {sequence} - {title}',
   'personalNotes.objectPersonalNotes': 'Nóta pearsanta  {object}',
   'personalNotes.searchResults': 'Cuardach Torthaí',
-  'personalNotes.type.story': 'Scéal',
-  'personalNotes.type.universe': 'Domhan',
-  'personalNotes.type.chapter': 'Caibidil',
   'personalNotes.type.encEntry': 'Iontráil Leabhráin',
   'personalNotes.type.revTextBlock': 'Ríomhchlár téacs Athbhreithnithe',
-  'personalNotes.chapter': 'Caibidil',
   'personalNotes.recentSearches': 'Cuardachanna Déanaí:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'

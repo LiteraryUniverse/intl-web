@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Klasyfikacja',
     'rating.explained': 'Klasyfikacja wiekowa i ograniczenia.',
-    'rating.all': 'Dla wszystkich',
     'rating.desc.all': 'Dostępne dla wszystkich grup wiekowych.',
     'rating.teens': 'Dla nastolatków',
     'rating.desc.teens': 'Odpowiednie dla czytelników w wieku od 12 do 18 lat.',

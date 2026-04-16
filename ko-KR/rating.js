@@ -4,7 +4,6 @@
 export default {
     'rating.name': '등급',
     'rating.explained': '연령 등급 및 제한.',
-    'rating.all': '모두',
     'rating.desc.all': '모든 연령과 그룹이 이용할 수 있습니다.',
     'rating.teens': '청소년',
     'rating.desc.teens': '12세 이상 18세 미만의 시청자에게 적합합니다.',

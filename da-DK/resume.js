@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'År',
   'resume.editor.awards.desc': 'Beskrivelse',
   'resume.editor.awards.add': 'Tilføj pris',
-  'resume.editor.awards.remove': 'Fjerne',
   // Theme
   'resume.editor.theme.heading': 'Tema for CV',
   'resume.editor.theme.description': 'Vælg et visuelt tema til din offentlige CV-side.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Opret adgangslink',
   'resume.access.createLink.comment': 'Kommentar (valgfri)',
   'resume.access.createLink.language': 'Side Sprog',
-  'resume.access.createLink.create': 'Opret',
   'resume.access.noLinks': 'Ingen adgangslinks oprettet endnu. Opret et link for at dele dit CV.',
   'resume.access.copy': 'Kopi',
   'resume.access.copied': 'Kopieret!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Oprettet {date}',
   'resume.access.viewVisits': 'Se detaljer om besøget',
   'resume.access.noVisits': 'Ingen besøg registreret endnu.',
-  'resume.access.anonymousVisitor': 'Anonym',
   'resume.access.onsite': 'På stedet',
   'resume.access.visitNumber': '(besøg #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

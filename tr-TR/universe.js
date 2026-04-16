@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Yazarlar',
     'universe.authors.desc': '{universe}için oluşturucular ve katkıda bulunanlar',
     'universe.contributors': 'Katkıda bulunanlar',
-    'universe.translators': 'Çevirmenler',
     'universe.authors.notice': 'Her hikaye üzerinde çalışan ek kişi olabilir. Daha fazla bilgi için hikayenin detaylarına bakınız.',
     'universe.createdBy': `{gender, select,
     male {tarafından oluşturuldu}

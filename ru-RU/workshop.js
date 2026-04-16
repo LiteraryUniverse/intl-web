@@ -587,7 +587,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Загрузка... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Для этой истории был загружен файл предварительного просмотра издателя.',
     'workshop.story.publisherPreview.replace': 'Заменить файл',
-    'workshop.story.publisherPreview.remove': 'Удалить',
     // Story monetization
     'workshop.monetization.addCurrency': 'Добавьте еще одну поддерживаемую валюту',
     'workshop.monetization.arcDescription': 'Описание дуги (показано при оформлении Stripe)',

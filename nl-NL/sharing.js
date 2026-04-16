@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Delen met...',
     'sharing.feedback': 'Missen we een plek waar je naar wilt delen? Laat het ons weten!',
     'sharing.copy': 'Kopiëren',
-    'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

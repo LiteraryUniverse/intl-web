@@ -39,7 +39,6 @@ export default {
  'diary.settings.includeDiaryInStats': '쓰기 통계 합계에 일기 단어 수 포함하기',
  'diary.settings.prompts': 'Writing Prompts',
  'diary.settings.writingPromptsEnabled': 'Show writing prompts when starting a new diary entry',
- 'diary.settings.dashboard': 'Dashboard',
  'diary.settings.showOnDashboard': 'Show diary reminder on the dashboard',
  // Blog post creation
  'diary.createBlogPost.title': 'Create Blog Post from Diary Entry',

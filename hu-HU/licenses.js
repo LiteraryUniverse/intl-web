@@ -137,7 +137,6 @@ export default {
     'licenseChooser.cc0Confirmation.understanding': 'Megértem a CC0 feltételeit és a munkámra gyakorolt jogi hatását.',
     'licenses.learnMore': 'Tudjon meg többet',
     'licenses.legalText': 'Jogi szöveg',
-    'licenses.chooser.back': 'Vissza',
     'licenses.chooser.select': 'Válassza ki ezt a licencet',
     'licenses.commercial.title': 'Kereskedelmi licenc információk',
     'licenses.commercial.exclusive': 'Ezzel az exkluzív licenccel a Literary Universe 10%-os díjat von le a bevételéből. Ez azt jelenti, hogy a platformunkon megjelenő munkáidból származó bevétel 90%-át te kapod.',

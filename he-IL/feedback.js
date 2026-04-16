@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'הצעת תכונה חדשה',
     'feedback.lang.nosupport': 'השפה הנוכחית שלך אינה נתמכת עבור משוב, אנא כתוב באנגלית. תודה!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shortly.',
-    'feedback.comment.title': 'תגובה',
     'feedback.comment.desc': 'שלח לנו את המשוב שלך',
     'feedback.comment.legend': 'המשוב שלך - תשתף אותנו בכל דבר',
     'feedback.comment.success': 'תודה על המשוב שלך!',
@@ -55,7 +54,6 @@ export default {
     story {סיפור}
     other {סיפור}
   } נפגע בזכויות היוצרים?`,
-    'feedback.help.overview': 'סקירה כללית',
     'feedback.help.articles': 'Articles',
     'feedback.help.courses': 'קורסים',
     'feedback.help.videoTutorials': 'Video tutorials',

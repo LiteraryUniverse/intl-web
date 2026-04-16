@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'ब्रह्मांड का हिस्सा',
     'discover.search.rating': 'उम्र रेटिंग',
     'discover.search.license': 'कॉपीराइट लाइसेंस',
-    'discover.search.language': 'भाषा',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {आपके पैरामीटर्स के साथ कोई ब्रह्मांड मेल नहीं खाता}
         one {1 ब्रह्मांड पाया गया}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'This story is provided only as a preview of the work.',
     'discovery.includesAds': 'Includes Ads',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',

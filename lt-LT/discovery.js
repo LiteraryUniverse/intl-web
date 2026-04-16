@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Dalis visatos',
     'discover.search.rating': 'Amžiaus reitingas',
     'discover.search.license': 'Autorinės teisės licencija',
-    'discover.search.language': 'Kalba',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Jūsų parametrams neatitinka jokie visatos}
         one {Surasta 1 visata}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Ši istorija pateikiama tik kaip kūrinio peržiūra.',
     'discovery.includesAds': 'Įtraukiami skelbimai',
     // AI content related strings
-    'discovery.ai.content': 'dirbtinio intelekto sukurtas turinys',
     'discovery.ai.universes': 'Dirbtinio intelekto sukurtos visatos',
     'discovery.ai.stories': 'dirbtinio intelekto sukurtos istorijos',
     'discovery.ai.noContent': 'Dar nėra dirbtinio intelekto sukurto turinio.',

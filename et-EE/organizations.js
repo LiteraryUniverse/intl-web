@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Kutsutud e-posti teel',
     // Members table
     'org.members.joined': 'Liitunud',
-    'org.members.actions': 'Meetmed',
     'org.roles.super_admin': 'Super Admin'
 };

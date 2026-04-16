@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'Yükleniyor... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'Bu hikaye için bir yayıncı önizleme dosyası yüklenmiştir.',
     'workshop.story.publisherPreview.replace': 'Dosya Değiştir',
-    'workshop.story.publisherPreview.remove': 'Kaldırmak',
     // Story monetization
     'workshop.monetization.addCurrency': 'Desteklenen başka bir para birimi ekleyin',
     'workshop.monetization.arcDescription': 'Ark açıklaması (Stripe checkout\'ta gösterilir)',

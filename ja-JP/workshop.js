@@ -560,7 +560,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'アップロード中... {progress}%.',
     'workshop.story.publisherPreview.uploaded': 'この記事の出版社プレビューファイルがアップロードされました。',
     'workshop.story.publisherPreview.replace': 'ファイルの置換',
-    'workshop.story.publisherPreview.remove': '削除',
     // Story monetization
     'workshop.monetization.addCurrency': '他の対応通貨を追加する',
     'workshop.monetization.arcDescription': 'アークの説明（ストライプのチェックアウトで表示されます）',

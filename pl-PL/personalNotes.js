@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Rozdział {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} notatka osobista',
   'personalNotes.searchResults': 'Wyniki wyszukiwania',
-  'personalNotes.type.story': 'Opowieść',
-  'personalNotes.type.universe': 'Uniwersum',
-  'personalNotes.type.chapter': 'Rozdział',
   'personalNotes.type.encEntry': 'Wpis encyklopedii',
   'personalNotes.type.revTextBlock': 'Tekst rewizji',
-  'personalNotes.chapter': 'Rozdział',
   'personalNotes.recentSearches': 'Ostatnie wyszukiwania:',
   'personalNotes.myNotes': 'Moje osobiste notatki',
   'personalNotes.hasNotes': 'Ma osobiste notatki'

@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Dalintis su...',
     'sharing.feedback': 'Ar trūksta vietos, kur norėtumėte dalintis? Praneškite mums apie tai!',
     'sharing.copy': 'Kopijuoti',
-    'sharing.email': 'El. paštas',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

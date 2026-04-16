@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Глава {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} особиста нотатка',
   'personalNotes.searchResults': 'Результати пошуку',
-  'personalNotes.type.story': 'Історія',
-  'personalNotes.type.universe': 'Всесвіт',
-  'personalNotes.type.chapter': 'Розділ',
   'personalNotes.type.encEntry': 'Запис у енциклопедії',
   'personalNotes.type.revTextBlock': 'Блок тексту перегляду',
-  'personalNotes.chapter': 'Розділ',
   'personalNotes.recentSearches': 'Останні пошуки:',
   'personalNotes.myNotes': 'Мої особисті нотатки',
   'personalNotes.hasNotes': 'Має особисті нотатки'

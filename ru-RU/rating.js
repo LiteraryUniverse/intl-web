@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Рейтинг',
     'rating.explained': 'Возрастные рейтинги и ограничения.',
-    'rating.all': 'Все',
     'rating.desc.all': 'Доступно для всех возрастов и групп.',
     'rating.teens': 'Для подростков',
     'rating.desc.teens': 'Подходит для аудитории в возрасте от 12 до 18 лет.',

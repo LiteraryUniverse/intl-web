@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': '{count, plural, one {kursuna} other {kurslarına}}katılmaya davetlisiniz.',
   'courses.invites.noInvites': 'Şu anda herhangi bir kurs davetiyeniz yok.',
   'courses.invites.invitedBy': 'Davet eden: ',
-  'courses.invites.accept': 'Kabul et',
-  'courses.invites.reject': 'Reddet',
   'course.join.heading': 'Bu Kursa Katılın',
   'course.oneTimePayment': 'Tam erişim için tek seferlik ödeme',
   'course.member': 'Kaydınız Yapıldı',

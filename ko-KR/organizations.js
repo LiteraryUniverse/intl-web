@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': '이메일로 초대',
     // Members table
     'org.members.joined': '가입',
-    'org.members.actions': '작업',
     'org.roles.super_admin': '슈퍼 관리자'
 };

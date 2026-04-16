@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Luku {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} henkilökohtainen muistiinpano',
   'personalNotes.searchResults': 'Hakutulokset',
-  'personalNotes.type.story': 'Tarina',
-  'personalNotes.type.universe': 'Universumi',
-  'personalNotes.type.chapter': 'Luku',
   'personalNotes.type.encEntry': 'Tietosanakirjamerkintä',
   'personalNotes.type.revTextBlock': 'Muokkausmerkkiblokki',
-  'personalNotes.chapter': 'Luku',
   'personalNotes.recentSearches': 'Viimeisimmät haut:',
   'personalNotes.myNotes': 'Henkilökohtaiset muistiinpanoni',
   'personalNotes.hasNotes': 'On henkilökohtaisia muistiinpanoja'

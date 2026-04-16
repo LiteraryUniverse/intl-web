@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'Niemand heeft nog gereageerd. Wees de eerste!',
   'forums.noThreads': 'Hier valt niets te zien. Het is aan jou om het gesprek te beginnen.',
   'forums.openingPost': 'Opening post',
-  'forums.post': 'Bericht',
   'forums.post.new': 'Nieuwe post',
   'forums.posting': 'Posten...',
   'forums.reply': 'Antwoorden',

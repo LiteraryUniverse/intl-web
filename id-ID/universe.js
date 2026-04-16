@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Penulis',
     'universe.authors.desc': 'Pencipta dan kontributor untuk {universe}',
     'universe.contributors': 'Kontributor',
-    'universe.translators': 'Penerjemah',
     'universe.authors.notice': 'Setiap cerita mungkin memiliki personil tambahan yang telah bekerja pada cerita tersebut. Untuk lebih jelasnya, lihat detail cerita.',
     'universe.createdBy': `{gender, select,
     male {Dibuat}

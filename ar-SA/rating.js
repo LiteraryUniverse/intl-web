@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'تصنيف',
     'rating.explained': 'تصنيف العمر والقيود.',
-    'rating.all': 'الكل',
     'rating.desc.all': 'مناسب لجميع الأعمار والفئات.',
     'rating.teens': 'مراهقين',
     'rating.desc.teens': 'مناسب للجمهور بين سن 12 و 18 عامًا.',

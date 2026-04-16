@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Dijemput melalui e-mel',
     // Members table
     'org.members.joined': 'Bergabung',
-    'org.members.actions': 'Tindakan',
     'org.roles.super_admin': 'Super Pentadbir'
 };

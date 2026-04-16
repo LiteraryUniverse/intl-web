@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Предложить новую функцию',
     'feedback.lang.nosupport': 'Ваш текущий язык не поддерживается для обратной связи, пожалуйста, пишите на английском. Спасибо!',
     'feedback.new.thanks': 'Спасибо за уведомление! Мы рассмотрим это в ближайшее время.',
-    'feedback.comment.title': 'Комментирий',
     'feedback.comment.desc': 'Оставить отзыв',
     'feedback.comment.legend': 'Ваш отзыв - дайте нам знать обо всём',
     'feedback.comment.success': 'Спасибо за ваш отзыв!',
@@ -55,7 +54,6 @@ export default {
     story {история}
     other {история}
   } нарушается?`,
-    'feedback.help.overview': 'Обзор',
     'feedback.help.articles': 'Статьи',
     'feedback.help.courses': 'Курсы',
     'feedback.help.videoTutorials': 'Видеоуроки',

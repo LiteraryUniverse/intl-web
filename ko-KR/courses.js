@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': '{count, plural, one {코스} other {코스}}에 참여하도록 초대합니다.',
   'courses.invites.noInvites': '현재 코스 초대가 없습니다.',
   'courses.invites.invitedBy': '초대받은 사람: ',
-  'courses.invites.accept': '수락',
-  'courses.invites.reject': '거부',
   'course.join.heading': '이 과정 참여하기',
   'course.oneTimePayment': '전체 액세스 권한을 위한 일회성 결제',
   'course.member': '등록됨',

@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Kapittel {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} personlig notat',
   'personalNotes.searchResults': 'Søkeresultater',
-  'personalNotes.type.story': 'Historie',
-  'personalNotes.type.universe': 'Univers',
-  'personalNotes.type.chapter': 'Kapittel',
   'personalNotes.type.encEntry': 'Leksikonoppføring',
   'personalNotes.type.revTextBlock': 'Revisjonstekstblokk',
-  'personalNotes.chapter': 'Kapittel',
   'personalNotes.recentSearches': 'Nylige søk:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'

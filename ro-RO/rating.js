@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Clasificare',
     'rating.explained': 'Clasificare și restricții de vârstă.',
-    'rating.all': 'Toate',
     'rating.desc.all': 'Accesibil tuturor vârstelor și grupurilor.',
     'rating.teens': 'Adolescenți',
     'rating.desc.teens': 'Potrivit pentru un public între 12 și 18 ani.',

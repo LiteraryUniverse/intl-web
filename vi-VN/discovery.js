@@ -32,7 +32,6 @@ export default {
     'story.universeRelation.universe': 'Một phần của vũ trụ',
     'discover.search.rating': 'Đánh giá tuổi',
     'discover.search.license': 'Giấy phép bản quyền',
-    'discover.search.language': 'Ngôn ngữ',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Không có vũ trụ nào khớp với các thông số của bạn}
         one {Tìm thấy 1 vũ trụ}
@@ -67,7 +66,6 @@ export default {
     'discovery.isPreview.explained': 'Câu chuyện này chỉ được cung cấp như một bản xem trước của tác phẩm.',
     'discovery.includesAds': 'Bao gồm quảng cáo',
     // AI content related strings
-    'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
     'discovery.ai.noContent': 'No AI-generated content available yet.',

@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'Anul',
   'resume.editor.awards.desc': 'Descriere',
   'resume.editor.awards.add': 'Adaugă premiu',
-  'resume.editor.awards.remove': 'Eliminați',
   // Theme
   'resume.editor.theme.heading': 'Tema CV-ului',
   'resume.editor.theme.description': 'Alegeți o temă vizuală pentru pagina dvs. publică de CV.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'Crearea legăturii de acces',
   'resume.access.createLink.comment': 'Comentariu (opțional)',
   'resume.access.createLink.language': 'Limba paginii',
-  'resume.access.createLink.create': 'Creați',
   'resume.access.noLinks': 'Nu s-au creat încă linkuri de acces. Creați o legătură pentru a vă partaja CV-ul.',
   'resume.access.copy': 'Copiați',
   'resume.access.copied': 'Copiat!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'Creat {date}',
   'resume.access.viewVisits': 'Vezi detaliile vizitei',
   'resume.access.noVisits': 'Nu s-au înregistrat încă vizite.',
-  'resume.access.anonymousVisitor': 'Anonim',
   'resume.access.onsite': 'La fața locului',
   'resume.access.visitNumber': '(vizitați #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

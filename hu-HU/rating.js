@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Értékelés',
     'rating.explained': 'Korhatár és korlátozás.',
-    'rating.all': 'Összes',
     'rating.desc.all': 'Minden korosztály és csoport számára elérhető.',
     'rating.teens': 'Tinédzserek',
     'rating.desc.teens': '12 és 18 év közötti közönségnek megfelelő.',

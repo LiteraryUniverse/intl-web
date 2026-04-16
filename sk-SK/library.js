@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Přečetli jste si {readPercent, number, ::percent} příběhu.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Zadajte prosím vyhľadávacie výrazy alebo použite filtre',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Zakúpené príbehy'
 };

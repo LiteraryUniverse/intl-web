@@ -16,7 +16,6 @@ export default {
     'universe.authors.title': 'Autoři',
     'universe.authors.desc': 'Tvůrci a přispěvatelé do {universe}',
     'universe.contributors': 'Přispěvatelé',
-    'universe.translators': 'Překladatelé',
     'universe.authors.notice': 'Každý příběh může mít další osobu, která na něm pracuje. Další podrobnosti naleznete v podrobnostech příběhu.',
     'universe.createdBy': `{gender, select,
     male {Vytvořil}

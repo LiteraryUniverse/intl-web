@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Πρόσκληση μέσω email',
     // Members table
     'org.members.joined': 'Έγινε μέλος στο',
-    'org.members.actions': 'Δράσεις',
     'org.roles.super_admin': 'Super Admin'
 };

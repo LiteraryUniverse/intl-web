@@ -120,8 +120,6 @@ export default {
   'courses.invites.tile': 'U bent uitgenodigd om deel te nemen aan {count, plural, one {cursus} other {cursussen}}.',
   'courses.invites.noInvites': 'U hebt momenteel geen cursusuitnodigingen.',
   'courses.invites.invitedBy': 'Uitgenodigd door: ',
-  'courses.invites.accept': 'Accepteer',
-  'courses.invites.reject': 'Weiger',
   'course.join.heading': 'Doe mee met deze cursus',
   'course.oneTimePayment': 'Eenmalige betaling voor volledige toegang',
   'course.member': 'U bent ingeschreven',

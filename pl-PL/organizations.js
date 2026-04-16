@@ -94,6 +94,5 @@ export default {
     'org.members.emailInvite.sent': 'Zaproszeni przez e-mail',
     // Members table
     'org.members.joined': 'Przyłączony',
-    'org.members.actions': 'Działania',
     'org.roles.super_admin': 'Super Administrator'
 };

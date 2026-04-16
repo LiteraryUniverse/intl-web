@@ -4,7 +4,6 @@
 export default {
     'rating.name': 'Classificação',
     'rating.explained': 'Classificação por idade e restrição.',
-    'rating.all': 'Todas',
     'rating.desc.all': 'Acessível a todas as idades e grupos.',
     'rating.teens': 'Adolescentes',
     'rating.desc.teens': 'Adequado para um público entre os 12 e os 18 anos.',

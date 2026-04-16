@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'Kapitel {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} persönliche Notiz',
   'personalNotes.searchResults': 'Suchergebnisse',
-  'personalNotes.type.story': 'Geschichte',
-  'personalNotes.type.universe': 'Universum',
-  'personalNotes.type.chapter': 'Kapitel',
   'personalNotes.type.encEntry': 'Enzyklopädien-Eintrag',
   'personalNotes.type.revTextBlock': 'Textblock überarbeitet',
-  'personalNotes.chapter': 'Kapitel',
   'personalNotes.recentSearches': 'Letzte Suchergebnisse:',
   'personalNotes.myNotes': 'Meine persönlichen Notizen',
   'personalNotes.hasNotes': 'Hat persönliche Notizen'

@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Συγγραφείς',
     'universe.authors.desc': 'Δημιουργοί και συνεισφέροντες στο {universe}',
     'universe.contributors': 'Συνεισφέροντες',
-    'universe.translators': 'Μεταφραστές',
     'universe.authors.notice': 'Κάθε ιστορία μπορεί να έχει επιπλέον προσωπικό που έχει εργαστεί πάνω της. Για περισσότερες λεπτομέρειες δείτε τα στοιχεία της ιστορίας.',
     'universe.createdBy': `{gender, select,
     male {Δημιουργήθηκε}

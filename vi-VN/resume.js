@@ -61,7 +61,6 @@ export default {
   'resume.editor.awards.year': 'Năm',
   'resume.editor.awards.desc': 'Mô tả',
   'resume.editor.awards.add': 'Thêm giải thưởng',
-  'resume.editor.awards.remove': 'Xóa',
   // Theme
   'resume.editor.theme.heading': 'Chủ đề sơ yếu lý lịch',
   'resume.editor.theme.description': 'Chọn một chủ đề hình ảnh cho trang sơ yếu lý lịch công khai của bạn.',
@@ -99,7 +98,6 @@ export default {
   'resume.access.createLink.title': 'Tạo liên kết truy cập',
   'resume.access.createLink.comment': 'Bình luận (tùy chọn)',
   'resume.access.createLink.language': 'Ngôn ngữ trang',
-  'resume.access.createLink.create': 'Tạo',
   'resume.access.noLinks':
     'Chưa có liên kết chia sẻ nào được tạo. Hãy tạo một liên kết để chia sẻ sơ yếu lý lịch của bạn.',
   'resume.access.copy': 'Sao chép',
@@ -111,7 +109,6 @@ export default {
   'resume.access.created': 'Tạo bởi {date}',
   'resume.access.viewVisits': 'Xem chi tiết chuyến thăm',
   'resume.access.noVisits': 'Chưa có lượt truy cập nào được ghi nhận.',
-  'resume.access.anonymousVisitor': 'Không rõ tên',
   'resume.access.onsite': 'Tại chỗ',
   'resume.access.visitNumber': '(truy cập #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

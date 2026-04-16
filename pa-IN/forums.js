@@ -45,7 +45,6 @@ export default {
   'forums.noPosts': 'ਕਿਸੇ ਨੇ ਹਾਲੇ ਜਵਾਬ ਨਹੀਂ ਦਿੱਤਾ। ਪਹਿਲਾਂ ਤੁਸੀਂ ਦਿਓ!',
   'forums.noThreads': 'ਇੱਥੇ ਕੁਝ ਵੇਖਣ ਲਈ ਨਹੀਂ ਹੈ। ਤੁਸੀਂ ਸਾਂਝਾ ਕਰਨ ਲਈ ਹੋਵੋਗੇ।',
   'forums.openingPost': 'ਖੋਲਣ ਦਾ ਪੋਸਟ',
-  'forums.post': 'ਪੋਸਟ',
   'forums.post.new': 'ਨਵਾਂ ਪੋਸਟ',
   'forums.posting': 'ਪੋਸਟ ਕਰ ਰਿਹਾ ਹੈ...',
   'forums.reply': 'ਜਵਾਬ ਦਿਓ',

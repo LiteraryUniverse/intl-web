@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Autori',
     'universe.authors.desc': 'Creatori și contribuitori la {universe}',
     'universe.contributors': 'Contribuitori',
-    'universe.translators': 'Traducători',
     'universe.authors.notice': 'Fiecare poveste ar putea avea personal adițional care a lucrat la ea. Pentru mai multe detalii, consultați detaliile povestirii.',
     'universe.createdBy': `{gender, select,
     male {Creat}

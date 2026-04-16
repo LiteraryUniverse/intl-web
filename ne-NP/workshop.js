@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'अपलोड हुँदैछ... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'यस कथाको लागि प्रकाशक पूर्वावलोकन फाइल अपलोड गरिएको छ।',
     'workshop.story.publisherPreview.replace': 'फाइल प्रतिस्थापन गर्नुहोस्',
-    'workshop.story.publisherPreview.remove': 'हटाउनुहोस्',
     // Story monetization
     'workshop.monetization.addCurrency': 'अर्को समर्थित मुद्रा थप्नुहोस्',
     'workshop.monetization.arcDescription': 'आर्क विवरण (Stripe चेकआउटमा देखाइएको)',

@@ -568,7 +568,6 @@ export default {
     'workshop.story.publisherPreview.uploading': 'מעלה... {progress}%',
     'workshop.story.publisherPreview.uploaded': 'הועלה קובץ תצוגה מקדימה של המו"ל עבור כתבה זו.',
     'workshop.story.publisherPreview.replace': 'החלף קובץ',
-    'workshop.story.publisherPreview.remove': 'הסר',
     // Story monetization
     'workshop.monetization.addCurrency': 'הוסף מטבע נתמך נוסף',
     'workshop.monetization.arcDescription': 'תיאור הקשת (מוצג בעמוד התשלום ב-Stripe)',

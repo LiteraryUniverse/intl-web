@@ -4,7 +4,6 @@ export default {
     'sharing.share': 'Zdielať na...',
     'sharing.feedback': 'Chýba nám nejaké miesto, na ktorém by ste chceli zdielať? Dajte nám o ňom vedieť!',
     'sharing.copy': 'Kopírovat',
-    'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

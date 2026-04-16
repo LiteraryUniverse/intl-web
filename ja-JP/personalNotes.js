@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'チャプター {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} 個人メモ',
   'personalNotes.searchResults': '検索結果',
-  'personalNotes.type.story': '物語',
-  'personalNotes.type.universe': '宇宙',
-  'personalNotes.type.chapter': '章',
   'personalNotes.type.encEntry': '百科事典エントリー',
   'personalNotes.type.revTextBlock': '改訂テキストブロック',
-  'personalNotes.chapter': '章',
   'personalNotes.recentSearches': '最近の検索:',
   'personalNotes.myNotes': '個人的なメモ',
   'personalNotes.hasNotes': 'パーソナルノート'

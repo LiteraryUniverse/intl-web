@@ -119,8 +119,6 @@ export default {
   'courses.invites.tile': 'Sinut on kutsuttu osallistumaan {count, plural, one {kurssille} other {kursseille}}.',
   'courses.invites.noInvites': 'Sinulla ei ole tällä hetkellä kurssikutsuja.',
   'courses.invites.invitedBy': 'Kutsujana: ',
-  'courses.invites.accept': 'Hyväksy',
-  'courses.invites.reject': 'Hylkää',
   'course.join.heading': 'Liity tälle kurssille',
   'course.oneTimePayment': 'Kertamaksu täydestä käyttöoikeudesta',
   'course.member': 'Olet ilmoittautunut',

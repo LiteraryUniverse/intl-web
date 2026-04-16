@@ -16,12 +16,8 @@ export default {
   'personalNotes.chapterName': 'பதிகம் {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} தனிப்பட்ட குறிப்பு',
   'personalNotes.searchResults': 'தேடும் முடிவுகள்',
-  'personalNotes.type.story': 'கதை',
-  'personalNotes.type.universe': 'உலகம்',
-  'personalNotes.type.chapter': 'அதிகாரம்',
   'personalNotes.type.encEntry': 'அரசப் பட்டியம்',
   'personalNotes.type.revTextBlock': 'மீள்பதிவு எழுத்தடுக்கும் துறை பகுதி',
-  'personalNotes.chapter': 'அதிகாரம்',
   'personalNotes.recentSearches': 'சமீபத்திய தேடுகள்:',
   'personalNotes.myNotes': 'My Personal Notes',
   'personalNotes.hasNotes': 'Has Personal Notes'

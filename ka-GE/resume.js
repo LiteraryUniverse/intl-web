@@ -60,7 +60,6 @@ export default {
   'resume.editor.awards.year': 'წელი',
   'resume.editor.awards.desc': 'აღწერა',
   'resume.editor.awards.add': 'ჯილდოს დამატება',
-  'resume.editor.awards.remove': 'წაშლა',
   // Theme
   'resume.editor.theme.heading': 'რეზიუმეს თემა',
   'resume.editor.theme.description': 'აირჩიეთ ვიზუალური თემა თქვენი საჯარო რეზიუმეს გვერდისთვის.',
@@ -98,7 +97,6 @@ export default {
   'resume.access.createLink.title': 'შექმენით წვდომის ბმული',
   'resume.access.createLink.comment': 'კომენტარი (არასავალდებულო)',
   'resume.access.createLink.language': 'გვერდის ენა',
-  'resume.access.createLink.create': 'შექმენი',
   'resume.access.noLinks': 'მას შემდეგ, რაც რეზიუმეს გაზიარების ბმულს შექმნით, წვდომის ბმულები ავტომატურად შეიქმნება.',
   'resume.access.copy': 'ასლის გადაღება',
   'resume.access.copied': 'ასლი!',
@@ -109,7 +107,6 @@ export default {
   'resume.access.created': 'შექმნილი {date}',
   'resume.access.viewVisits': 'ვიზიტის დეტალების ნახვა',
   'resume.access.noVisits': 'ჯერ არცერთი ვიზიტი არ დაფიქსირებულა.',
-  'resume.access.anonymousVisitor': 'ანონიმური',
   'resume.access.onsite': 'ადგილზე',
   'resume.access.visitNumber': '(ეწვიეთ #{number})',
   // ── Public Resume Page ──────────────────────────────────────────────────────

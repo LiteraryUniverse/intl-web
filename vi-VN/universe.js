@@ -15,7 +15,6 @@ export default {
     'universe.authors.title': 'Tác giả',
     'universe.authors.desc': 'Người tạo và đóng góp cho {universe}',
     'universe.contributors': 'Người đóng góp',
-    'universe.translators': 'Các dịch giả',
     'universe.authors.notice': 'Mỗi câu chuyện có thể có thêm nhân sự đã làm việc trên đó. Để biết thêm chi tiết, xem thông tin chi tiết của câu chuyện.',
     'universe.createdBy': `{gender, select,
     male {Được tạo bởi}

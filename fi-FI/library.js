@@ -8,7 +8,6 @@ export default {
     'bookmark.statusSummary': 'Olet lukenut {readPercent, number, ::percent} tarinan.',
     'library.search.prompt': 'Search your library to find content',
     'library.search.noFilters': 'Anna hakusanat tai sovella suodattimia',
-    'library.yourLibrary': 'Your Library',
     'library.search': 'Search Your Library',
     'library.ownedStories': 'Ostetut tarinat'
 };

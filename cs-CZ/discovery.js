@@ -36,7 +36,6 @@ export default {
     'story.universeRelation.universe': 'Součást vesmíru',
     'discover.search.rating': 'Věkové hodnocení',
     'discover.search.license': 'Autorská licence',
-    'discover.search.language': 'Jazyk',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {Vašem požadavku neodpovídá žádný vesmír}
         one {Nalezen 1 vesmír}
@@ -75,7 +74,6 @@ export default {
     'discovery.isPreview.explained': 'Tento příběh slouží pouze jako ukázka z díla.',
     'discovery.includesAds': 'Zahrnuje reklamy',
     // AI content related strings
-    'discovery.ai.content': 'Obsah generovaný AI',
     'discovery.ai.universes': 'Vesmíry generované umělou inteligencí',
     'discovery.ai.stories': 'Příběhy generované AI',
     'discovery.ai.noContent': 'Zatím není k dispozici žádný obsah generovaný umělou inteligencí.',

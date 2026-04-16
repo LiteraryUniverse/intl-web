@@ -19,7 +19,6 @@ export default {
     'feedback.new.features': 'Foreslå en ny funktion',
     'feedback.lang.nosupport': 'Dit nuværende sprog understøttes ikke til feedback, venligst skriv på engelsk. Tak!',
     'feedback.new.thanks': 'Tak for beskeden! Vi undersøger det snarest.',
-    'feedback.comment.title': 'Kommentar',
     'feedback.comment.desc': 'Send os din feedback',
     'feedback.comment.legend': 'Din feedback - lad os vide om noget',
     'feedback.comment.success': 'Tak for din feedback!',
@@ -55,7 +54,6 @@ export default {
     story {historie}
     other {historie}
   } bliver overtrådt?`,
-    'feedback.help.overview': 'Oversigt',
     'feedback.help.articles': 'Artikler',
     'feedback.help.courses': 'Kurser',
     'feedback.help.videoTutorials': 'Video-tutorials',
