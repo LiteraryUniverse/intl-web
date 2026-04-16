@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Tervetuloa mukaan! Jokainen panos pitää luovan työn valot päällä ja herättää henkiin uusia lukuja, taidetta ja kulissien takaisia hetkiä.',
     'plans.fanClub.thankYou.heroAlt': 'Juhlallinen kuvitus paikanhaltija',
     'plans.fanClub.thankYou.closing': 'Kaikilta täällä olevilta kiitokset siitä, että uskotte tähän tarinankertojaan. Tuellanne on todellista merkitystä.',
-    'plans.fanClub.thankYou.eyebrow': 'Jäsenyys vahvistettu',
     'plans.fanClub.thankYou.accessCta': 'Katso jäsenoikeutesi',
     'plans.fanClub.thankYou.backCta': 'Avoin faniklubi',
     'plans.fanClub.thankYou.whatsNextTitle': 'Mitä tapahtuu seuraavaksi',
