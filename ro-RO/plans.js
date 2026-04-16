@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Deblocat prin',
     'plans.benefits.giftAfter': 'Cadou după {months} luni',
     'plans.benefits.giftGranted': 'Cadou deblocat',
     'plans.reader.earlyAccess.until': 'Disponibil pentru abonați până la {date}',
