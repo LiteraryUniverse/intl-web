@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Zadejte 6 čísel, která se objeví na obrazovce do vstupu pro dokončení.',
     'settings.2fa.saved': 'Dvoufaktorové ověření bylo úspěšně vytvořeno!',
     'settings.2fa.disableOTP': 'Vypnout OTP dvoufaktorové ověřování',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Klíče API',
     'settings.apiKeys.description': 'Klíče API umožňují aplikacím třetích stran přistupovat vaším jménem k datům služby Literary Universe. Zacházejte s nimi jako s hesly a nikdy je nesdílejte.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Přístup ke svému uživatelskému jménu, avataru a veřejnému profilu',
     'settings.apiKeys.scope.library.read': 'Číst knihovnu',
     'settings.apiKeys.scope.library.read.desc': 'Přístup k seznamům četby a uloženým příběhům',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Připojení k Web3 peněžence',
     'settings.web3.explained': 'K vašemu účtu Literary Universe můžete připojit peněženku Web3. Jakmile budete připojeni, budete se moci přihlásit do Vaší peněženky a v budoucnosti bude k dispozicí ještě více funkcionality, protože rozšiřujeme naši nabídku pro Web3.',
