@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Welcome aboard! Every contribution keeps the creative lights on and brings new chapters, art, and behind-the-scenes moments to life.',
     'plans.fanClub.thankYou.heroAlt': 'Celebratory illustration placeholder',
     'plans.fanClub.thankYou.closing': 'From everyone here, thank you for believing in this storyteller. Your support makes a real difference.',
-    'plans.fanClub.thankYou.eyebrow': 'Ballraíocht deimhnithe',
     'plans.fanClub.thankYou.accessCta': 'Féach ar do rochtain mar bhall',
     'plans.fanClub.thankYou.backCta': 'Club lucht leanúna oscailte',
     'plans.fanClub.thankYou.whatsNextTitle': 'Cad a tharlóidh ansin?',
