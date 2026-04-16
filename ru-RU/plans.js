@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Добро пожаловать на борт! Каждый вклад поддерживает творческий свет и дает жизнь новым главам, искусству и закулисным моментам.',
     'plans.fanClub.thankYou.heroAlt': 'Место для праздничной иллюстрации',
     'plans.fanClub.thankYou.closing': 'Спасибо всем, кто здесь присутствует, за то, что верите в эту сказочницу. Ваша поддержка действительно имеет значение.',
-    'plans.fanClub.thankYou.eyebrow': 'Членство подтверждено',
     'plans.fanClub.thankYou.accessCta': 'Ознакомьтесь с Вашим доступом для участников',
     'plans.fanClub.thankYou.backCta': 'Открытый фан-клуб',
     'plans.fanClub.thankYou.whatsNextTitle': 'Что будет дальше',
