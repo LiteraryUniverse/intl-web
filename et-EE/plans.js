@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Tere tulemast pardale! Iga panus hoiab loomingulised tuled põlemas ja toob ellu uusi peatükke, kunsti ja kulisside taga olevaid hetki.',
     'plans.fanClub.thankYou.heroAlt': 'Pidulik illustratsioon paigutuskoht',
     'plans.fanClub.thankYou.closing': 'Tänan teid kõiki, kes te usute sellesse jutustajasse. Teie toetus on väga oluline.',
-    'plans.fanClub.thankYou.eyebrow': 'Liikmelisus kinnitatud',
     'plans.fanClub.thankYou.accessCta': 'Vaata oma liikme juurdepääsu',
     'plans.fanClub.thankYou.backCta': 'Avatud fänniklubi',
     'plans.fanClub.thankYou.whatsNextTitle': 'Mis juhtub edasi',
