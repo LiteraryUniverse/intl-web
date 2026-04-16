@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'Välkommen ombord! Varje bidrag håller de kreativa lamporna tända och ger liv åt nya kapitel, konst och ögonblick bakom kulisserna.',
     'plans.fanClub.thankYou.heroAlt': 'Platshållare för festlig illustration',
     'plans.fanClub.thankYou.closing': 'Från alla här, tack för att ni tror på den här historieberättaren. Ert stöd gör en verklig skillnad.',
-    'plans.fanClub.thankYou.eyebrow': 'Medlemskap bekräftat',
     'plans.fanClub.thankYou.accessCta': 'Se din medlemsåtkomst',
     'plans.fanClub.thankYou.backCta': 'Öppen fanclub',
     'plans.fanClub.thankYou.whatsNextTitle': 'Vad händer härnäst?',
