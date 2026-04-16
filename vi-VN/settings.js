@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Nhập 6 số xuất hiện trên màn hình vào đây để hoàn tất.',
     'settings.2fa.saved': 'Xác thực hai yếu tố đã được thiết lập thành công!',
     'settings.2fa.disableOTP': 'Tắt xác thực hai yếu tố OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Khóa API',
     'settings.apiKeys.description': 'API keys cho phép các ứng dụng của bên thứ ba truy cập dữ liệu Literary Universe của bạn thay mặt bạn. Hãy coi chúng như mật khẩu và tuyệt đối không chia sẻ chúng.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Truy cập tên người dùng, avatar và hồ sơ công khai của bạn.',
     'settings.apiKeys.scope.library.read': 'Đọc thư viện',
     'settings.apiKeys.scope.library.read.desc': 'Truy cập danh sách đọc và các câu chuyện đã lưu của bạn',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Kết nối ví Web3',
     'settings.web3.explained': 'Bạn có thể kết nối ví tiền điện tử Web3 của mình với tài khoản Literary Universe của bạn. Sau khi kết nối, bạn sẽ có thể đăng nhập bằng ví của mình và làm nhiều việc hơn trong tương lai khi chúng tôi mở rộng ứng dụng Web3 của mình.',
