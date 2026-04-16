@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'ご搭乗ありがとうございます！すべての貢献がクリエイティブな灯をともし続け、新たな章、アート、舞台裏に命を吹き込む。',
     'plans.fanClub.thankYou.heroAlt': 'お祝いイラストのプレースホルダー',
     'plans.fanClub.thankYou.closing': 'ここにいる皆さん、このストーリーテラーを信じてくれてありがとう。あなたのサポートが本当の違いを生むのです。',
-    'plans.fanClub.thankYou.eyebrow': '入会が確定',
     'plans.fanClub.thankYou.accessCta': '会員アクセスを見る',
     'plans.fanClub.thankYou.backCta': 'オープン・ファンクラブ',
     'plans.fanClub.thankYou.whatsNextTitle': '次に起こること',
