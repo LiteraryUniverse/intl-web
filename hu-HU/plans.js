@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Feloldva a',
     'plans.benefits.giftAfter': 'Ajándék a {months} hónap után',
     'plans.benefits.giftGranted': 'Ajándék feloldva',
     'plans.reader.earlyAccess.until': 'Az előfizetők számára elérhető a {date}címen.',
