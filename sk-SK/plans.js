@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Odomknuté prostredníctvom',
     'plans.benefits.giftAfter': 'Darček po {months} mesiacoch',
     'plans.benefits.giftGranted': 'Darček odomknutý',
     'plans.reader.earlyAccess.until': 'K dispozícii pre predplatiteľov do {date}',
