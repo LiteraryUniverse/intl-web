@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'I-type ang 6 na numero na lumalabas sa screen dito sa input upang matapos.',
     'settings.2fa.saved': 'Matagumpay na na-establish ang dalawang-factor na pagpapatunay!',
     'settings.2fa.disableOTP': 'I-disable ang OTP dalawang-factor na pagpapatunay',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API Keys',
     'settings.apiKeys.description': 'API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Access your username, avatar, and public profile',
     'settings.apiKeys.scope.library.read': 'Read library',
     'settings.apiKeys.scope.library.read.desc': 'Access your reading lists and saved stories',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Koneksyon ng Web3 wallet',
     'settings.web3.explained': 'Maaari mong i-konekta ang iyong Web3 crypto wallet sa iyong Literary Universe account. Kapag nakakonekta ka na, magagamit mo ang iyong wallet para mag-login at gawin pa ang iba\'t ibang bagay sa hinaharap habang binabangon namin ang aming Web3 offering.',
