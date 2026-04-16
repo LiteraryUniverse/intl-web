@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Ekranda görünen 6 rakamı buraya girerek işlemi tamamlayın.',
     'settings.2fa.saved': 'İki faktörlü kimlik doğrulama başarıyla oluşturuldu!',
     'settings.2fa.disableOTP': 'OTP iki faktörlü kimlik doğrulamayı devre dışı bırak',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'API Anahtarları',
     'settings.apiKeys.description': 'API anahtarları, üçüncü taraf uygulamaların sizin adınıza Literary Universe verilerinize erişmesini sağlar. Bunlara parola gibi davranın ve asla paylaşmayın.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Kullanıcı adınıza, avatarınıza ve genel profilinize erişin',
     'settings.apiKeys.scope.library.read': 'Kütüphane okuyun',
     'settings.apiKeys.scope.library.read.desc': 'Okuma listelerinize ve kayıtlı hikayelerinize erişin',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Web3 cüzdan bağlantısı',
     'settings.web3.explained': 'Web3 kripto cüzdanınızı Edebiyat Evreni hesabınıza bağlayabilirsiniz. Bağlandıktan sonra cüzdanınızla giriş yapabilir ve Web3 teklifimizi genişlettikçe gelecekte daha fazla şey yapabilirsiniz.',
