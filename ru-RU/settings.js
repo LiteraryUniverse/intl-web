@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Введите 6 цифр, которые появятся на экране, в поле ввода здесь для завершения.',
     'settings.2fa.saved': 'Двухфакторная авторизация успешно установлена!',
     'settings.2fa.disableOTP': 'Отключить одноразовый код двухфакторной авторизации',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Ключи API',
     'settings.apiKeys.description': 'API-ключи позволяют сторонним приложениям получать доступ к данным Вашей Литературной Вселенной от Вашего имени. Относитесь к ним как к паролям и никогда не сообщайте их.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Получите доступ к своему имени пользователя, аватару и публичному профилю',
     'settings.apiKeys.scope.library.read': 'Библиотека для чтения',
     'settings.apiKeys.scope.library.read.desc': 'Получите доступ к спискам для чтения и сохраненным историям',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Подключение кошелька Web3',
     'settings.web3.explained': 'Вы можете подключить свой криптокошёлек Web3 к учётной записи Literary Universe. После подключения вы сможете войти в систему с помощью своего кошелька и делать ещё больше вещей в будущем, по мере того как мы будем расширять наши возможности для Web3.',
