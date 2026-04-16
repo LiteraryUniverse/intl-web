@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'Mở khóa thông qua',
     'plans.benefits.giftAfter': 'Quà tặng sau {months} tháng',
     'plans.benefits.giftGranted': 'Quà tặng đã được mở khóa',
     'plans.reader.earlyAccess.until': 'Có sẵn cho người đăng ký cho đến ngày {date}',
