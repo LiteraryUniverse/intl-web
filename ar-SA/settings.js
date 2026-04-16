@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'اكتب الأرقام الستة المعروضة على الشاشة في المدخل هنا لإنهاء العملية.',
     'settings.2fa.saved': 'تم تأسيس المصادقة ذات العاملين بنجاح!',
     'settings.2fa.disableOTP': 'تعطيل مصادقة المصادقة ذات العاملين برمز OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'مفاتيح واجهة برمجة التطبيقات',
     'settings.apiKeys.description': 'تسمح مفاتيح واجهة برمجة التطبيقات (API) لتطبيقات الجهات الخارجية بالوصول إلى بياناتك الأدبية في الكون الأدبي نيابةً عنك. تعامل معها مثل كلمات المرور ولا تشاركها أبدًا.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'الوصول إلى اسم المستخدم، والصورة الرمزية، والملف الشخصي العام',
     'settings.apiKeys.scope.library.read': 'قراءة المكتبة',
     'settings.apiKeys.scope.library.read.desc': 'الوصول إلى قوائم القراءة والقصص المحفوظة',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'اتصال محفظة Web3',
     'settings.web3.explained': 'يمكنك ربط محفظة العملات الرقمية Web3 الخاصة بك بحساب Literary Universe الخاص بك. بمجرد الاتصال، ستتمكن من تسجيل الدخول باستخدام محفظتك والقيام بالمزيد من الأشياء في المستقبل بما نوسع عرضنا في Web3.',
