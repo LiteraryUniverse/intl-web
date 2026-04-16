@@ -104,6 +104,8 @@ export default {
     'settings.2fa.instructions4': 'Tapez les 6 chiffres qui apparaissent à l\'écran dans le champ prévu à cet effet pour terminer.',
     'settings.2fa.saved': 'L\'authentification à deux facteurs a été réalisée avec succès !',
     'settings.2fa.disableOTP': 'Désactiver l\'authentification à deux facteurs OTP',
+    // Keys (combined page)
+    'settings.keys.title': 'API & Service Keys',
     // API Keys
     'settings.apiKeys.title': 'Clés API',
     'settings.apiKeys.description': 'Les clés API permettent à des applications tierces d\'accéder à vos données de l\'Univers littéraire en votre nom. Traitez-les comme des mots de passe et ne les partagez jamais.',
@@ -157,6 +159,18 @@ export default {
     'settings.apiKeys.scope.user.read.desc': 'Accédez à votre nom d\'utilisateur, à votre avatar et à votre profil public.',
     'settings.apiKeys.scope.library.read': 'Bibliothèque de lecture',
     'settings.apiKeys.scope.library.read.desc': 'Accédez à vos listes de lecture et aux histoires sauvegardées',
+    // External Service Keys (BYOK)
+    'settings.externalKeys.title': 'External Service Keys',
+    'settings.externalKeys.description': 'Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.',
+    'settings.externalKeys.securityNote': 'Treat API keys like passwords. Never share them with anyone.',
+    'settings.externalKeys.add': 'Add key',
+    'settings.externalKeys.update': 'Update',
+    'settings.externalKeys.configured': 'Configured',
+    'settings.externalKeys.remove': 'Remove key',
+    'settings.externalKeys.delete.confirm': 'Remove the stored API key for this service? You can add it again later.',
+    'settings.externalKeys.getKey': 'Get an API key from {name}',
+    'settings.externalKeys.keyLabel': 'API Key',
+    'settings.externalKeys.keyPlaceholder': 'Paste your API key here',
     // Web3
     'settings.web3.legend': 'Connexion au portefeuille Web3',
     'settings.web3.explained': 'Vous pouvez connecter votre portefeuille Crypto Web3 à votre compte Univers Littéraire. Une fois connecté, vous pourrez vous connecter avec votre portefeuille et faire encore plus de choses à l\'avenir, à mesure que nous développons notre offre Web3.',
