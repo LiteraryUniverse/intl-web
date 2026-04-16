@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': '歡迎加入！每一份貢獻都能讓創意之燈亮起，並帶來新的章節、藝術和幕後花絮。',
     'plans.fanClub.thankYou.heroAlt': '慶祝插圖占位符',
     'plans.fanClub.thankYou.closing': '在座各位，感謝您對這位說故事的人的信任。您的支持帶來了真正的改變。',
-    'plans.fanClub.thankYou.eyebrow': '確認會員資格',
     'plans.fanClub.thankYou.accessCta': '查看您的會員存取權限',
     'plans.fanClub.thankYou.backCta': '開放粉絲俱樂部',
     'plans.fanClub.thankYou.whatsNextTitle': '接下來會發生什麼',
