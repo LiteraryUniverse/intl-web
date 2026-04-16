@@ -216,7 +216,6 @@ export default {
     'plans.fanClub.thankYou.intro': 'مرحبًا بك معنا! كل مساهمة تبقي الأضواء الإبداعية مضاءة وتجلب فصولاً وفنوناً ولحظات جديدة من وراء الكواليس.',
     'plans.fanClub.thankYou.heroAlt': 'عنصر نائب التوضيح التوضيحي الاحتفالي',
     'plans.fanClub.thankYou.closing': 'من الجميع هنا، شكراً لإيمانكم بهذا الراوي. دعمكم يحدث فرقاً حقيقياً.',
-    'plans.fanClub.thankYou.eyebrow': 'تأكيد العضوية',
     'plans.fanClub.thankYou.accessCta': 'راجع وصول الأعضاء',
     'plans.fanClub.thankYou.backCta': 'نادي المعجبين المفتوح',
     'plans.fanClub.thankYou.whatsNextTitle': 'ما الذي سيحدث بعد ذلك',
