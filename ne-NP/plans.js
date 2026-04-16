@@ -327,6 +327,7 @@ export default {
     'plans.fanClub.access.permanentChip': 'In your library',
     'plans.fanClub.access.earnedProgress': '{current} of {total} months',
     'plans.fanClub.access.emptyStoryAccess': 'No story access benefits are attached to your membership yet.',
+    'plans.fanClub.access.unlocksLabel': 'मार्फत अनलक गरिएको',
     'plans.benefits.giftAfter': 'Gift after {months} months',
     'plans.benefits.giftGranted': 'Gift unlocked',
     'plans.reader.earlyAccess.until': 'Available to subscribers until {date}',
