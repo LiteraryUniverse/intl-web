@@ -114,5 +114,33 @@ export default {
     'stats.writingHistory.dayTooltip.stories': 'ისტორიები: {words}',
     'stats.writingHistory.dayTooltip.encyclopedia': 'ენციკლოპედია: {words}',
     'stats.writingHistory.dayTooltip.blog': 'ბლოგი: {words}',
-    'stats.writingHistory.dayTooltip.diary': 'დღიური: {words}'
+    'stats.writingHistory.dayTooltip.diary': 'დღიური: {words}',
+    // Sales tab — 'Encyclopedia' reuses common.encyclopedia
+    'stats.section.sales': 'Sales',
+    // Sales summary cards
+    'stats.sales.totalPurchases': 'Total Purchases',
+    'stats.sales.totalRevenue': 'Total Revenue',
+    'stats.sales.totalRefunds': 'Refunds',
+    'stats.sales.purchasesByType': 'Purchases by Type',
+    'stats.sales.type.story': 'Full story: {count}',
+    'stats.sales.type.arc': 'Arc: {count}',
+    'stats.sales.type.translation': 'Translation: {count}',
+    // Sales sections — 'Payment history' heading reuses payment.history.title
+    'stats.sales.stripePayments.description': 'Recorded Stripe payments for this story.',
+    'stats.sales.stripePaymentsUniverse.description': 'Recorded Stripe payments for stories in this universe.',
+    'stats.sales.history.type': 'Type',
+    'stats.sales.history.status': 'სტატუსი',
+    'stats.sales.history.status.refunded': 'Refunded',
+    'stats.sales.product.story': 'სრული ამბავი',
+    'stats.sales.product.translation': 'Translation',
+    'stats.sales.product.arc': 'Arc',
+    'stats.sales.noData': 'No sales data yet. Sales will appear here once readers purchase your story.',
+    'stats.sales.noDataUniverse': 'No sales data yet. Sales will appear here once readers purchase stories in this universe.',
+    // Universe sales — 'Story' column reuses common.story
+    'stats.sales.perStory': 'Sales by Story',
+    'stats.sales.perStory.purchases': 'Purchases',
+    'stats.sales.perStory.revenue': 'Revenue',
+    // Workshop sales overview
+    'stats.sales.overview.title': 'Sales Overview',
+    'stats.sales.overview.description': 'Overview of all your sales across stories.'
 };
