@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': '상점 이름',
     'workshop.shoppingExternal.itemUrl': '상품 URL',
     'workshop.shoppingExternal.storesOther': '다른 상점',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} 밀리초',
     'fictionalTime.countdownToStart': '시작 시간까지의 카운트다운',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
