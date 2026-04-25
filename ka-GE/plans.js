@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'თქვენი ნაგულისხმევი გადახდის მეთოდი გამოყენებული იქნება მომდევნო ციკლის გადასახდელად.',
-    'plans.subscribed.status': `გამოწერის სტატუსი: {status, select,
-    active {აქტიური}
-    incomplete {რაიმე დაკარგულია}
-    incomplete_expired {რაიმე დაკარგულია}
-    trialing {ცდა}
-    past_due {გადახდის გაგრძელება მოგვარებისას}
-    cancelled {გაუქმებულია}
-    unpaid {გადახდისგასამუშავებელია}
-    expired {ვადაგასულია}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'გადახდის მეთოდის შეცვლა',
     'plans.subscribed.willNotRenew': ', ციკლის ბოლოს აღარ განახლდება.',
     'plans.cancel.button': 'გამოწერის გაუქმება',
