@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'A következő ciklusra a default fizetési módot fogjuk használni.',
-    'plans.subscribed.status': `Előfizetés állapota: {status, select,
-    active {Aktív}
-    incomplete {Hiányzik valami}
-    incomplete_expired {Hiányzik valami}
-    trialing {Próba}
-    past_due {Hiányzik a fizetés}
-    cancelled {Törölve}
-    unpaid {Kifizetetlen}
-    expired {Lejárt}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Fizetési mód megváltoztatása',
     'plans.subscribed.willNotRenew': ', nem fog megújulni a ciklus végén.',
     'plans.cancel.button': 'Előfizetés megszüntetése',
