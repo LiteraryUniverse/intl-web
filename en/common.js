@@ -172,12 +172,6 @@ export default {
   select: 'Please select',
   'common.statusFailed': 'Failed to connect to the server.',
   'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
-  'common.swUpdate.ready.title': 'Update ready',
-  'common.swUpdate.ready.description':
-    'A new version is ready. You can apply it now.',
-  'common.swUpdate.ready.writerDescription':
-    'A new version is ready. Apply it when you finish your current writing edits.',
-  'common.swUpdate.apply': 'Update now',
   'slug.checking': 'Checking...',
   'slug.failed': 'This address already exists.',
   'slug.success': 'This address is available!',
@@ -252,6 +246,7 @@ export default {
   'common.time.years': 'Years',
   'common.monetization': 'Monetization',
   'common.tab.monetizationOptions': 'Monetization options',
+  'common.tab.externalSalesOptions': 'External sales options',
 
   'common.pagination': 'Pagination',
   'common.forum': 'Forum',
