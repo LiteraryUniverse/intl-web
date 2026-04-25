@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'שם חנות',
     'workshop.shoppingExternal.itemUrl': 'כתובת URL של הפריט',
     'workshop.shoppingExternal.storesOther': 'חנויות אחרות',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} מילישניות',
     'fictionalTime.countdownToStart': 'ספירה לתחילת הזמן',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
