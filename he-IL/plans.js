@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'שיטת התשלום המוגדרת כברירת מחדל תשמש לתשלום עבור המחזור הבא.',
-    'plans.subscribed.status': `מצב מנוי: {status, select,
-    active {פעיל}
-    incomplete {יש משהו חסר}
-    incomplete_expired {יש משהו חסר}
-    trialing {ניסיון}
-    past_due {אנחנו מפספסים את התשלום שלך}
-    cancelled {בוטל}
-    unpaid {לא שולם}
-    expired {פג תוקף}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'שנה שיטת תשלום',
     'plans.subscribed.willNotRenew': ', לא יתבצע חידוש בסיום המחזור.',
     'plans.cancel.button': 'ביטול המנוי',
