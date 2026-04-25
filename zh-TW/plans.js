@@ -90,17 +90,21 @@ export default {
     other {}
   }。`,
     'plans.subscribed.paymentMethod': '您的預設付款方式將用於支付下一個週期的費用。',
-    'plans.subscribed.status': `訂閱狀態： {status, select,
-    active {啟用}
-    incomplete {有一些遺漏}
-    incomplete_expired {有一些遺漏}
-    trialing {試用}
-    past_due {我們遺漏了您的付款}
-    cancelled {已取消}
-    unpaid {未付款}
-    expired {已過期}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': '更改付款方式',
     'plans.subscribed.willNotRenew': '，在週期結束時將不會自動續訂。',
     'plans.cancel.button': '取消訂閱',
