@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': '다음 주기에는 기본 결제 방법이 사용됩니다.',
-    'plans.subscribed.status': `구독 상태: {status, select,
-    active {활성}
-    incomplete {누락된 항목이 있습니다}
-    incomplete_expired {누락된 항목이 있습니다}
-    trialing {체험판}
-    past_due {결제가 누락되었습니다}
-    cancelled {취소}
-    unpaid {미결제}
-    expired {만료}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': '결제 방법 변경',
     'plans.subscribed.willNotRenew': '주기 종료 시 갱신되지 않습니다.',
     'plans.cancel.button': '구독 취소',
