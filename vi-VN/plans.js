@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Phương thức thanh toán mặc định của bạn sẽ được sử dụng để thanh toán cho chu kỳ tiếp theo.',
-    'plans.subscribed.status': `Trạng thái đăng ký: {status, select,
-    active {Đang hoạt động}
-    incomplete {Có một số thông tin bị thiếu}
-    incomplete_expired {Có một số thông tin bị thiếu}
-    trialing {Dùng thử}
-    past_due {Chúng tôi đang thiếu thanh toán của bạn}
-    cancelled {Đã hủy}
-    unpaid {Chưa thanh toán}
-    expired {Đã hết hạn}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Thay đổi phương thức thanh toán',
     'plans.subscribed.willNotRenew': ', sẽ không được gia hạn vào cuối chu kỳ.',
     'plans.cancel.button': 'Hủy đăng ký',
