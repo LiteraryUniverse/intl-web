@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Teie vaikimisi makseviisi kasutatakse järgmise tsükli eest tasumiseks.',
-    'plans.subscribed.status': `Tellimuse staatus: {status, select,
-    active {Aktiivne}
-    incomplete {Midagi on puudu}
-    incomplete_expired {Midagi on puudu}
-    trialing {Katsetus}
-    past_due {Meil jääb makse saamata}
-    cancelled {Tühistatud}
-    unpaid {Tasumata}
-    expired {Aegunud}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Muuda makseviisi',
     'plans.subscribed.willNotRenew': ', ei uuendata tsükli lõpus.',
     'plans.cancel.button': 'Tühista tellimus',
