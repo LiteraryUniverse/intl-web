@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'स्टोर का नाम',
     'workshop.shoppingExternal.itemUrl': 'आइटम URL',
     'workshop.shoppingExternal.storesOther': 'अन्य स्टोर',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} मिलीसेकंड',
     'fictionalTime.countdownToStart': 'शुरुआत के लिए उलटी गिनती',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
