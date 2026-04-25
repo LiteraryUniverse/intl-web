@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Nombre de la tienda',
     'workshop.shoppingExternal.itemUrl': 'Elemento URL',
     'workshop.shoppingExternal.storesOther': 'Otras tiendas',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} milisegundos',
     'fictionalTime.countdownToStart': 'Cuenta atrás para el inicio del tiempo',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
