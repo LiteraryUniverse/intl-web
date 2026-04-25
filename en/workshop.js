@@ -410,6 +410,11 @@ export default {
   'workshop.shoppingExternal.storeName': 'Store name',
   'workshop.shoppingExternal.itemUrl': 'Item URL',
   'workshop.shoppingExternal.storesOther': 'Other stores',
+  'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+  'workshop.shoppingExternal.copyFromOriginalHelp':
+    "Pre-fill this translation's links with the values from the original. Review and save to apply.",
+  'workshop.shoppingExternal.originalReadOnly':
+    "Only collaborators can edit the original story's external sales links. Switch to a translation tab to edit links for your language.",
   'fictionalTime.units.milliseconds': '{units, number} milliseconds',
   'fictionalTime.countdownToStart': 'Countdown to time beginning',
   'fictionalTime.unitsToETList': `{units, number} {unitName} = 
