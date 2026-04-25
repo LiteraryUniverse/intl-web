@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Metoda ta de plată implicită va fi folosită pentru plata următorului ciclu.',
-    'plans.subscribed.status': `Starea abonamentului: {status, select,
-    active {Activ}
-    incomplete {Lipsește ceva}
-    incomplete_expired {Lipsește ceva}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
     trialing {Trial}
-    past_due {Lipsește plata ta}
-    cancelled {Anulat}
-    unpaid {Neplătit}
-    expired {Expirat}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Schimbă metoda de plată',
     'plans.subscribed.willNotRenew': ', nu se va reînnoi la sfârșitul ciclului.',
     'plans.cancel.button': 'Anulează abonamentul',
