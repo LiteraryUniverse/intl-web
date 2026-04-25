@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'அடுத்த சுழற்சிக்குச் செலுத்த, உங்கள் இயல்புநிலை கட்டண முறை பயன்படுத்தப்படும்.',
-    'plans.subscribed.status': `சந்தா நிலை: {status, select,
-    active {செயலில் உள்ளது}
-    incomplete {ஒன்று இல்லை}
-    incomplete_expired {ஒன்று இல்லை}
-    trialing {சோதனை}
-    past_due {உங்கள் கட்டணம் இல்லை}
-    cancelled {ரத்து செய்யப்பட்டது}
-    unpaid {பணம் செலுத்தப்படவில்லை}
-    expired {காலாவதியானது}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'கட்டண முறையை மாற்றுக',
     'plans.subscribed.willNotRenew': 'சுழற்சியின் முடிவில் புதுப்பிக்கப்படாது.',
     'plans.cancel.button': 'சந்தாவை ரத்து செய்',
