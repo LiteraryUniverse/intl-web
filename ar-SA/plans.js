@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'سيتم استخدام طريقة الدفع الافتراضية الخاصة بك لدفع الدورة التالية.',
-    'plans.subscribed.status': `حالة الاشتراك: {status, select,
-    active {نشط}
-    incomplete {هناك شيء مفقود}
-    incomplete_expired {هناك شيء مفقود}
-    trialing {تجربة}
-    past_due {نحن بحاجة إلى دفعتك}
-    cancelled {تم الإلغاء}
-    unpaid {غير مدفوع}
-    expired {منتهي الصلاحية}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'تغيير طريقة الدفع',
     'plans.subscribed.willNotRenew': '، لن يتم تجديده في نهاية الدورة.',
     'plans.cancel.button': 'إلغاء الاشتراك',
