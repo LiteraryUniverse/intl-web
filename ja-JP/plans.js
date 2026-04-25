@@ -90,17 +90,21 @@ export default {
     other {}
   }更新されます。`,
     'plans.subscribed.paymentMethod': '次回の支払いの際も、お客様の現在の支払い方法が適用されます。',
-    'plans.subscribed.status': `サブスクリプションの状態: {status, select,
-    active {アクティブ}
-    incomplete {何かが足りません}
-    incomplete_expired {何かが足りません}
-    trialing {トライアル}
-    past_due {お支払いがありません}
-    cancelled {キャンセルされました}
-    unpaid {未払い}
-    expired {期限切れ}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': '支払い方法の変更',
     'plans.subscribed.willNotRenew': 'は、サイクル終了まで更新されません。',
     'plans.cancel.button': '購読キャンセル',
