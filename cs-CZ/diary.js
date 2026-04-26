@@ -1,14 +1,14 @@
 export default {
- 'common.diary': 'Diary',
- 'diary.title': 'Diary',
- 'diary.about': 'Your personal journal -- a private space to reflect, write, and grow as a thinker and storyteller.',
- 'diary.today': "Today's Diary",
- 'diary.writeToday': "Write today's entry",
+ 'common.diary': 'Deník',
+ 'diary.title': 'Deník',
+ 'diary.about': 'Váš osobní deník - soukromý prostor pro reflexi, psaní a růst jako myslitel a spisovatel.',
+ 'diary.today': 'Dnešní deník',
+ 'diary.writeToday': 'Napsat dnešní záznam',
  'diary.viewCalendar': 'View full diary calendar',
  // Entry (date formatting uses react-intl's formatDate directly)
  'diary.entry.dateDisplay': '{date, date, long}',
  'diary.entry.pageTitle': '{date, date, long}',
- 'diary.entry.seoTitle': 'Diary - {date, date, medium}',
+ 'diary.entry.seoTitle': 'Deník - {date, date, medium}',
  // Mood
  'diary.mood.label': 'How are you feeling?',
  'diary.mood.great': 'Great',
