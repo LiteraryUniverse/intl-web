@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': '範本 5',
     'sharing.advanced.printTemplate6': '範本 6',
     'sharing.advanced.fontColor': '字體顏色',
-    // Canvas labels
-    'sharing.canvas.by': '由',
-    'sharing.canvas.chapter': '章節 {chapterNumber}',
-    'sharing.canvas.publishesOn': '發表於 {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };
