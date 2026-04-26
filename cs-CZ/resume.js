@@ -61,7 +61,7 @@ export default {
   'resume.editor.awards.desc': 'Popis',
   'resume.editor.awards.add': 'Přidat ocenění',
   // Theme
-  'resume.editor.theme.heading': 'Téma životopisu',
+  'resume.editor.theme.heading': 'Vzhled životopisu',
   'resume.editor.theme.description': 'Zvolte si vizuální motiv pro stránku s veřejným životopisem.',
   'resume.editor.theme.customize': 'Přizpůsobení',
   'resume.editor.theme.accentColor': 'Přepínání barev akcentů',
