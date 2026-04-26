@@ -470,6 +470,18 @@ export default {
   'workshop.story.chapter': 'Chapter {sequence, number}',
   'workshop.work.includesAds':
     'Are there any advertisements or product placements in the work?',
+  'workshop.shortStory.toggle': 'Short Story format',
+  'workshop.shortStory.toggleDescription':
+    'A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.',
+  'workshop.shortStory.titleLocked':
+    'Short stories share the story title — edit it in Settings.',
+  'workshop.shortStory.overHardLimit':
+    'Short stories are limited to {limit, number} {metric, select, words {words} other {characters}}. Currently: {count, number}.',
+  'workshop.shortStory.softWarning':
+    'Approaching the short-story length limit ({count, number}/{limit, number}).',
+  'workshop.shortStory.dashboardHeading': 'Your short story',
+  'workshop.shortStory.dashboardIntro':
+    'Open the editor to write or revise. The chapter title stays in sync with the story title.',
   'workshop.universe.forumSettings': 'Internal universe forum settings',
   'workshop.ratingAdjusted':
     'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
