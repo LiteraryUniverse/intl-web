@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Sablon 5',
     'sharing.advanced.printTemplate6': 'Sablon 6',
     'sharing.advanced.fontColor': 'Betűszín',
-    // Canvas labels
-    'sharing.canvas.by': 'a',
-    'sharing.canvas.chapter': 'Fejezet {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Közzéteszi a {date}oldalon.',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };

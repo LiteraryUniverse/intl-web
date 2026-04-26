@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Šablóna 5',
     'sharing.advanced.printTemplate6': 'Šablóna 6',
     'sharing.advanced.fontColor': 'Farba písma',
-    // Canvas labels
-    'sharing.canvas.by': 'podľa',
-    'sharing.canvas.chapter': 'Kapitola {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Publikuje na {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };

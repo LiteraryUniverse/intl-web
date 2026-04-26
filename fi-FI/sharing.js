@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Malli 5',
     'sharing.advanced.printTemplate6': 'Malli 6',
     'sharing.advanced.fontColor': 'Fontin väri',
-    // Canvas labels
-    'sharing.canvas.by': 'by',
-    'sharing.canvas.chapter': 'Luku {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Julkaistu osoitteessa {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };

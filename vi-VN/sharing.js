@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Mẫu 5',
     'sharing.advanced.printTemplate6': 'Mẫu 6',
     'sharing.advanced.fontColor': 'Màu chữ',
-    // Canvas labels
-    'sharing.canvas.by': 'bởi',
-    'sharing.canvas.chapter': 'Chương {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Đăng tải trên {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };

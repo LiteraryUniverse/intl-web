@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'แม่แบบ 5',
     'sharing.advanced.printTemplate6': 'แม่แบบ 6',
     'sharing.advanced.fontColor': 'สีของฟอนต์',
-    // Canvas labels
-    'sharing.canvas.by': 'โดย',
-    'sharing.canvas.chapter': 'บทที่ {chapterNumber}',
-    'sharing.canvas.publishesOn': 'เผยแพร่ที่ {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };
