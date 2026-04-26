@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Sjabloon 5',
     'sharing.advanced.printTemplate6': 'Sjabloon 6',
     'sharing.advanced.fontColor': 'Letterkleur',
-    // Canvas labels
-    'sharing.canvas.by': 'door',
-    'sharing.canvas.chapter': 'Hoofdstuk {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Publiceert op {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };
