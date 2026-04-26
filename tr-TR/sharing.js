@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Şablon 5',
     'sharing.advanced.printTemplate6': 'Şablon 6',
     'sharing.advanced.fontColor': 'Yazı Tipi Rengi',
-    // Canvas labels
-    'sharing.canvas.by': 'tarafından',
-    'sharing.canvas.chapter': 'Bölüm {chapterNumber}',
-    'sharing.canvas.publishesOn': '{date}adresinde yayınlanmaktadır.',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };
