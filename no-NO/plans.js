@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Ditt standard betalingsmetode vil bli brukt til å betale for neste syklus.',
-    'plans.subscribed.status': `Abonnementsstatus: {status, select,
-    active {Aktiv}
-    incomplete {Det mangler noe}
-    incomplete_expired {Det mangler noe}
-    trialing {Prøveperiode}
-    past_due {Vi mangler betalingen din}
-    cancelled {Avbrutt}
-    unpaid {Ubetalt}
-    expired {Utløpt}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Endre betalingsmetode',
     'plans.subscribed.willNotRenew': ', vil ikke fornyes ved slutten av syklusen.',
     'plans.cancel.button': 'Avbryt abonnement',

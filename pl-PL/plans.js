@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Do zapłaty za następny cykl zostanie użyta domyślna metoda płatności.',
-    'plans.subscribed.status': `Status subskrypcji: {status, select,
-    active {Aktywna}
-    incomplete {Coś brakuje}
-    incomplete_expired {Coś brakuje}
-    trialing {Próba}
-    past_due {Brakuje nam Twojej płatności}
-    cancelled {Anulowana}
-    unpaid {Nieopłacona}
-    expired {Wygasła}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Zmień metodę płatności',
     'plans.subscribed.willNotRenew': 'Subskrypcja zostanie zakończona na koniec cyklu.',
     'plans.cancel.button': 'Anuluj subskrypcję',

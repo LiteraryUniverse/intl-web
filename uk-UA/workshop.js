@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Назва магазину',
     'workshop.shoppingExternal.itemUrl': 'URL товару',
     'workshop.shoppingExternal.storesOther': 'Інші магазини',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} мілісекунд',
     'fictionalTime.countdownToStart': 'Відлік до початку часу',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

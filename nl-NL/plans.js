@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Uw standaard betaalmethode wordt gebruikt om te betalen voor de volgende cyclus.',
-    'plans.subscribed.status': `Abonnementsstatus: {status, select,
-    active {Actief}
-    incomplete {Er ontbreekt iets}
-    incomplete_expired {Er ontbreekt iets}
-    trialing {Proefperiode}
-    past_due {We missen uw betaling}
-    cancelled {Geannuleerd}
-    unpaid {Niet betaald}
-    expired {Verlopen}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Betaalmethode wijzigen',
     'plans.subscribed.willNotRenew': ', wordt niet vernieuwd aan het einde van de cyclus.',
     'plans.cancel.button': 'Abonnement annuleren',

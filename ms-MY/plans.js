@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Kaedah pembayaran asal anda akan digunakan untuk membayar bagi kitaran seterusnya.',
-    'plans.subscribed.status': `Status langganan: {status, select,
-    active {Aktif}
-    incomplete {Ada sesuatu yang hilang}
-    incomplete_expired {Ada sesuatu yang hilang}
-    trialing {Percubaan}
-    past_due {Kami tidak menerima pembayaran anda}
-    cancelled {Dibatalkan}
-    unpaid {Belum dibayar}
-    expired {Tamat tempoh}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Tukar kaedah pembayaran',
     'plans.subscribed.willNotRenew': ', tidak akan diperbaharui pada akhir kitaran.',
     'plans.cancel.button': 'Batal langganan',

@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'วิธีการชำระเงินเริ่มต้นของคุณจะถูกใช้ในการชำระเงินสำหรับรอบถัดไป',
-    'plans.subscribed.status': `สถานะการสมัครสมาชิก: {status, select,
-    active {ใช้งาน}
-    incomplete {มีบางอย่างขาดหาย}
-    incomplete_expired {มีบางอย่างขาดหาย}
-    trialing {ทดลองใช้}
-    past_due {เราไม่ได้รับการชำระเงินของคุณ}
-    cancelled {ยกเลิก}
-    unpaid {ยังไม่ได้ชำระเงิน}
-    expired {หมดอายุ}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'เปลี่ยนวิธีการชำระเงิน',
     'plans.subscribed.willNotRenew': ', จะไม่ต่ออายุในสิ้นสุดของรอบ',
     'plans.cancel.button': 'ยกเลิกการสมัครสมาชิก',

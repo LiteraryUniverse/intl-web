@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Jūsų numatytas mokėjimo metodas bus naudojamas apmokėti kitą ciklą.',
-    'plans.subscribed.status': `Prenumeracijos būsena: {status, select,
-    active {Aktyvi}
-    incomplete {Kažkas trūksta}
-    incomplete_expired {Kažkas trūksta}
-    trialing {Išbandymas}
-    past_due {Trūksta jūsų mokėjimo}
-    cancelled {Atšaukta}
-    unpaid {Neapmokėta}
-    expired {Pasibaigusi}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Keisti mokėjimo metodą',
     'plans.subscribed.willNotRenew': ', nebus atnaujinta ciklo pabaigoje.',
     'plans.cancel.button': 'Atšaukti prenumeratą',

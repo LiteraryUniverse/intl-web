@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'স্টোরের নাম',
     'workshop.shoppingExternal.itemUrl': 'আইটেম URL',
     'workshop.shoppingExternal.storesOther': 'অন্যান্য স্টোর',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} মিলিসেকেন্ড',
     'fictionalTime.countdownToStart': 'শুরুর সময়ের উপর গণনা',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

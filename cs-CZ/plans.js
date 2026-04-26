@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Váš výchozí způsob platby bude použit k zaplacení za další cyklu.',
-    'plans.subscribed.status': `Stav předplatného: {status, select,
-    active {Aktivní}
-    incomplete {Něco chybí}
-    incomplete_expired {Něco chybí}
-    trialing {Zkušební verze}
-    past_due {Chybí nám platba}
-    cancelled {Zrušeno}
-    unpaid {Nezaplaceno}
-    expired {Expirovalo}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Změnit způsob platby',
     'plans.subscribed.willNotRenew': ', nebude obnovena na konci cyklu.',
     'plans.cancel.button': 'Zrušit předplatné',

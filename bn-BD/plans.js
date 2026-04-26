@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'পরবর্তী চক্রের জন্য আপনার ডিফল্ট পেমেন্ট পদ্ধতি ব্যবহার করা হবে।',
-    'plans.subscribed.status': `সাবস্ক্রিপশন স্থিতি: {status, select,
-    active {সক্রিয়}
-    incomplete {কিছু অনুপস্থিত আছে}
-    incomplete_expired {কিছু অনুপস্থিত আছে}
-    trialing {ট্রায়াল}
-    past_due {আমরা আপনার পেমেন্ট অনুপস্থিত}
-    cancelled {বাতিল}
-    unpaid {বিনা পরিশোধিত}
-    expired {মেয়াদ উত্তীর্ণ}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'পেমেন্ট পদ্ধতি পরিবর্তন করুন',
     'plans.subscribed.willNotRenew': ', চক্রের শেষে পুনর্নীত হবে না।',
     'plans.cancel.button': 'সাবস্ক্রিপশন বাতিল করুন',

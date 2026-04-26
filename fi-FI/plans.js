@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Seuraavalla laskutuskaudella käytetään oletusmaksutapaa.',
-    'plans.subscribed.status': `Tilauksen tila: {status, select,
-    active {Aktiivinen}
-    incomplete {Jotain puuttuu}
-    incomplete_expired {Jotain puuttuu}
-    trialing {Kokeilu}
-    past_due {Maksusuoritustasi puuttuu}
-    cancelled {Peruutettu}
-    unpaid {Maksamaton}
-    expired {Vanhentunut}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Vaihda maksutapaa',
     'plans.subscribed.willNotRenew': ', ei uudistu laskutuskauden päättyessä.',
     'plans.cancel.button': 'Peruuta tilaus',

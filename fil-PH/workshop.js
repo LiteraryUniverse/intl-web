@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Pangalan ng tindahan',
     'workshop.shoppingExternal.itemUrl': 'URL ng item',
     'workshop.shoppingExternal.storesOther': 'Iba pang mga tindahan',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} milyonsegundo',
     'fictionalTime.countdownToStart': 'Bilang ng pagbibilang pabalik sa simula',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

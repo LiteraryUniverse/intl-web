@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'ਤੁਹਾਡੀ ਡਿਫੌਲਟ ਭੁਗਤਾਨ ਵਿਧੀ ਅਗਲੇ ਚੱਕਰ ਲਈ ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਵਰਤੀ ਜਾਵੇਗੀ।',
-    'plans.subscribed.status': `ਗਾਹਕੀ ਦੀ ਸਥਿਤੀ: {status, select,
-    active {ਚਾਲੂ ਹੈ}
-    incomplete {ਕੁਝ ਗੱਲ ਹੈ}
-    incomplete_expired {ਕੁਝ ਗੱਲ ਹੈ}
-    trialing {ਟਰਾਈਲ}
-    past_due {ਸਾਡੀ ਪੈਮੇਂਟ ਗੱਲਬਾਤ ਹੈ}
-    cancelled {ਰੱਦ ਕੀਤਾ ਗਿਆ ਹੈ}
-    unpaid {ਅਨਪੈਡ}
-    expired {ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'ਭੁਗਤਾਨ ਵਿਧੀ ਬਦਲੋ',
     'plans.subscribed.willNotRenew': ', ਚੱਕਰ ਦੇ ਅੰਤ \'ਤੇ ਨਵਿਆਇਆ ਨਹੀਂ ਜਾਵੇਗਾ।',
     'plans.cancel.button': 'ਗਾਹਕੀ ਰੱਦ ਕਰੋ',

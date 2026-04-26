@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Úsáidfear do mhodh íocaíochta réamhshocraithe chun íoc as an gcéad timthriall eile.',
-    'plans.subscribed.status': `Stádas síntiúis: {status, select,
-    active {Gníomhach}
-    incomplete {Tá rud éigin ar iarraidh}
-    incomplete_expired {Tá rud éigin ar iarraidh}
-    trialing {Triail}
-    past_due {Tá do íocaíocht ar iarraidh}
-    cancelled {Cealaigh}
-    unpaid {Neamhíoctha}
-    expired {D'éirigh as}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Athraigh modh íocaíochta',
     'plans.subscribed.willNotRenew': ', ní dhéanfar athnuachan ag deireadh an timthrialla.',
     'plans.cancel.button': 'Cealaigh an síntiús',

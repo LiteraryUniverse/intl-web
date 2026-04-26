@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Ваш метод оплати за замовчуванням буде використовуватися для оплати наступного циклу.',
-    'plans.subscribed.status': `Статус підписки: {status, select,
-    active {Активна}
-    incomplete {Щось відсутнє}
-    incomplete_expired {Щось відсутнє}
-    trialing {Пробний}
-    past_due {Відсутня оплата}
-    cancelled {Скасована}
-    unpaid {Неоплачена}
-    expired {Закінчилась}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Змінити метод оплати',
     'plans.subscribed.willNotRenew': ', не буде продовжуватися в кінці циклу.',
     'plans.cancel.button': 'Скасувати підписку',

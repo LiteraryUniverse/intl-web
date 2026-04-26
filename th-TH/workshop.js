@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'ชื่อร้านค้า',
     'workshop.shoppingExternal.itemUrl': 'URL สินค้า',
     'workshop.shoppingExternal.storesOther': 'ร้านค้าอื่นๆ',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} มิลลิวินาที',
     'fictionalTime.countdownToStart': 'นับถอยหลังจนถึงเวลาเริ่มต้น',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

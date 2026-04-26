@@ -349,6 +349,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Názov obchodu',
     'workshop.shoppingExternal.itemUrl': 'URL adresa položky',
     'workshop.shoppingExternal.storesOther': 'Ostatné obchody',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} milisekúnd',
     'fictionalTime.countdownToStart': 'Odpočítavanie do začiatku času',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

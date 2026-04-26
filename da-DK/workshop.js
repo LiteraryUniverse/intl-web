@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Butiksnavn',
     'workshop.shoppingExternal.itemUrl': 'Vare-URL',
     'workshop.shoppingExternal.storesOther': 'Andre butikker',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} millisekunder',
     'fictionalTime.countdownToStart': 'Nedtælling til begyndelse af tid',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

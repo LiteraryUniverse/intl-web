@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Butiksnamn',
     'workshop.shoppingExternal.itemUrl': 'Artikel-URL',
     'workshop.shoppingExternal.storesOther': 'Andra butiker',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} millisekunder',
     'fictionalTime.countdownToStart': 'Nedräkning till tidens början',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

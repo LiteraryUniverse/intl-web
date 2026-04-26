@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Nama kedai',
     'workshop.shoppingExternal.itemUrl': 'URL item',
     'workshop.shoppingExternal.storesOther': 'Kedai lain',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} milidetik',
     'fictionalTime.countdownToStart': 'Bilangan menurun kepada permulaan masa',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

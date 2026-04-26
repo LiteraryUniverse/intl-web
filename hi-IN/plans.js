@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'आपका डिफ़ॉल्ट भुगतान विधि अगले साइकल के लिए उपयोग किया जाएगा।',
-    'plans.subscribed.status': `सदस्यता स्थिति: {status, select,
-    active {सक्रिय}
-    incomplete {कुछ चीज़ गुम है}
-    incomplete_expired {कुछ चीज़ गुम है}
-    trialing {परीक्षण}
-    past_due {हमें आपका भुगतान गुम है}
-    cancelled {रद्द किया गया}
-    unpaid {अवैतनिक}
-    expired {समाप्त}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'भुगतान विधि बदलें',
     'plans.subscribed.willNotRenew': ', साइकल के अंत में नवीनीकृत नहीं होगा।',
     'plans.cancel.button': 'सदस्यता रद्द करें',

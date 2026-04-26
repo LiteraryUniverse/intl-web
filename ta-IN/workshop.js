@@ -348,6 +348,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'கடை பெயர்',
     'workshop.shoppingExternal.itemUrl': 'பொருள் URL',
     'workshop.shoppingExternal.storesOther': 'பிற கடைகள்',
+    'workshop.shoppingExternal.copyFromOriginal': 'Copy from original',
+    'workshop.shoppingExternal.copyFromOriginalHelp': 'Pre-fill this translation\'s links with the values from the original. Review and save to apply.',
+    'workshop.shoppingExternal.originalReadOnly': 'Only collaborators can edit the original story\'s external sales links. Switch to a translation tab to edit links for your language.',
     'fictionalTime.units.milliseconds': '{units, number} மில்லிவினாடிகள்',
     'fictionalTime.countdownToStart': 'ஆரம்ப நேரத்திற்கான கவுண்ட்டவுன்',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 

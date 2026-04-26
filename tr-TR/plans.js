@@ -90,17 +90,21 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Varsayılan ödeme yönteminiz bir sonraki döngü için kullanılacak.',
-    'plans.subscribed.status': `Abonelik durumu: {status, select,
-    active {Aktif}
-    incomplete {Bir şey eksik}
-    incomplete_expired {Bir şey eksik}
-    trialing {Deneme}
-    past_due {Ödemeniz eksik}
-    cancelled {İptal edildi}
-    unpaid {Ödenmemiş}
-    expired {Süresi doldu}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trial {Trial}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
+    'plans.gift.subscription.noActions': 'This event-granted trial cannot be changed from the subscription settings page.',
+    'plans.subscription.setupRecurring': 'Set up recurring subscription',
+    'plans.subscription.error.scheduleTrialConversion': 'Could not set up recurring billing for the end of your trial. Please try again later.',
     'payments.changeMethod': 'Ödeme yöntemini değiştir',
     'plans.subscribed.willNotRenew': ', döngünün sonunda yenilenmeyecek.',
     'plans.cancel.button': 'Aboneliği iptal et',
