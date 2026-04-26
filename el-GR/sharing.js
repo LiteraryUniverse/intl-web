@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Υπόδειγμα 5',
     'sharing.advanced.printTemplate6': 'Υπόδειγμα 6',
     'sharing.advanced.fontColor': 'Χρώμα γραμματοσειράς',
-    // Canvas labels
-    'sharing.canvas.by': 'από',
-    'sharing.canvas.chapter': 'Κεφάλαιο {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Δημοσιεύει στο {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };
