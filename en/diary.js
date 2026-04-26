@@ -1,6 +1,5 @@
 export default {
 	'common.diary': 'Diary',
-	'diary.title': 'Diary',
 	'diary.about':
 		'Your personal journal -- a private space to reflect, write, and grow as a thinker and storyteller.',
 	'diary.today': "Today's Diary",
@@ -8,8 +7,6 @@ export default {
 	'diary.viewCalendar': 'View full diary calendar',
 
 	// Entry (date formatting uses react-intl's formatDate directly)
-	'diary.entry.dateDisplay': '{date, date, long}',
-	'diary.entry.pageTitle': '{date, date, long}',
 	'diary.entry.seoTitle': 'Diary - {date, date, medium}',
 
 	// Mood
@@ -24,9 +21,6 @@ export default {
 	'diary.prompt.show': 'Need a writing prompt?',
 	'diary.prompt.title': 'Writing prompt',
 	'diary.prompt.refresh': 'Try another prompt',
-
-	// Tags
-	'diary.tags.label': 'Tags',
 
 	// Streak
 	'diary.streak.current': 'Current streak',
@@ -64,14 +58,11 @@ export default {
 	'diary.createBlogPost.titleLabel': 'Blog post title',
 	'diary.createBlogPost.titlePlaceholder':
 		'Enter a title for your blog post',
-	'diary.createBlogPost.titleRequired':
-		'Please enter a title for the blog post',
 	'diary.createBlogPost.create': 'Create Draft',
 	'diary.createBlogPost.viewPost': 'View Blog Post',
 
 	// Dashboard
 	'diary.dashboard.written': 'Written today',
-	'diary.dashboard.writeToday': "Write today's entry",
 
 	// Scratchpad tabs
 	'scratchpad.tabs.aria': 'Scratchpad and diary tabs',
