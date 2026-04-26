@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': '템플릿 5',
     'sharing.advanced.printTemplate6': '템플릿 6',
     'sharing.advanced.fontColor': '글꼴 색상',
-    // Canvas labels
-    'sharing.canvas.by': 'by',
-    'sharing.canvas.chapter': 'Chapter {chapterNumber}',
-    'sharing.canvas.publishesOn': '{date}에 게시',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };
