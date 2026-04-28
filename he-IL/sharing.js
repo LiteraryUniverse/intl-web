@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'תבנית 5',
     'sharing.advanced.printTemplate6': 'תבנית 6',
     'sharing.advanced.fontColor': 'צבע הגופן',
-    // Canvas labels
-    'sharing.canvas.by': 'מאת',
-    'sharing.canvas.chapter': 'פרק {chapterNumber}',
-    'sharing.canvas.publishesOn': 'מתפרסם ב- {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };

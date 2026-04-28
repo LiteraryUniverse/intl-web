@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Șablon 5',
     'sharing.advanced.printTemplate6': 'Șablon 6',
     'sharing.advanced.fontColor': 'Culoarea fontului',
-    // Canvas labels
-    'sharing.canvas.by': 'de',
-    'sharing.canvas.chapter': 'Capitolul {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Publică pe {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };

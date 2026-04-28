@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': 'Template 5',
     'sharing.advanced.printTemplate6': 'Templat 6',
     'sharing.advanced.fontColor': 'Warna Font',
-    // Canvas labels
-    'sharing.canvas.by': 'oleh',
-    'sharing.canvas.chapter': 'Bab {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Diterbitkan di {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };

@@ -61,9 +61,8 @@ export default {
     'sharing.advanced.printTemplate5': '5 šablonas',
     'sharing.advanced.printTemplate6': '6 šablonas',
     'sharing.advanced.fontColor': 'Šrifto spalva',
-    // Canvas labels
-    'sharing.canvas.by': 'pagal',
-    'sharing.canvas.chapter': 'Skyrius {chapterNumber}',
-    'sharing.canvas.publishesOn': 'Skelbiama svetainėje {date}',
-    'sharing.advanced.shareQR': 'Share QR Link'
+    // Canvas labels — moved to sharingCanvas.json so they can be loaded for any
+    // locale on demand (advanced sharing language picker). Do not re-add here.
+    'sharing.advanced.shareQR': 'Share QR Link',
+    'sharing.advanced.displayLanguage': 'Display language'
 };
