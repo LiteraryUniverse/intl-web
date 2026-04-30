@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Nie je overené, kliknite na opätovné odoslanie overovacieho e-mailu.',
     'settings.email.verified.true': 'Overený e-mail',
     'settings.email.add': 'Pridaj e-mail',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Nastavenia jazyka',
     'settings.languages.notice': 'V súčasnosti sú angličtina a čeština jedinými oficiálne podporovanými jazykmi. Ostatné jazyky sú k dispozícii vďaka úžasným dobrovoľníkom a automatickému prekladu pomocou AI, ale môžu byť ešte neúplné a nesprávne na niektorých miestach.',
     'settings.languages.join': 'Ak nám chcete pomôcť, môžete preložiť aj Literárny vesmír.',
