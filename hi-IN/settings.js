@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'सत्यापित ईमेल',
     'settings.email.add': 'ईमेल जोड़ें',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'भाषा सेटिंग्स',
     'settings.languages.notice': 'अंग्रेज़ी और चेक वर्तमान में केवल आधिकारिक रूप से समर्थित भाषाएँ हैं। अन्य भाषाएँ अद्भुत स्वयंसेवकों और AI अनुवाद के धन्यवाद से उपलब्ध हैं, लेकिन यहां वे अधूरे और ग़लत भी हो सकती हैं।',
     'settings.languages.join': 'यदि आप हमारी मदद करना चाहें, तो आप लिटररी यूनिवर्स का अनुवाद भी कर सकते हैं।',
