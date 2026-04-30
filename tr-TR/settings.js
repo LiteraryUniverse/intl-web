@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Doğrulanmadı, doğrulama e-postasını yeniden göndermek için tıklayın.',
     'settings.email.verified.true': 'Doğrulanmış e-posta',
     'settings.email.add': 'E-posta ekle',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Dil ayarları',
     'settings.languages.notice': 'İngilizce ve Çekçe şu anda yalnızca resmi olarak desteklenen dillerdir. Diğer diller, harika gönüllüler ve yapay zeka çevirisi sayesinde mevcuttur, ancak hala eksik ve hatalı olabilirler.',
     'settings.languages.join': 'Bize yardımcı olmak isterseniz, Literary Universe\'yi de çevirebilirsiniz.',
