@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'ਪੁਸ਼ਟੀਕਰਨ ਹੋਈ ਈਮੇਲ',
     'settings.email.add': 'ਈਮੇਲ ਸ਼ਾਮਲ ਕਰੋ',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'ਭਾਸ਼ਾ ਸੈਟਿੰਗਜ਼',
     'settings.languages.notice': 'ਅੰਗਰੇਜ਼ੀ ਅਤੇ ਚੈਕ ਹੁਣ ਤੱਕ ਮਾਨਿਆ ਗਿਆ ਹੀ ਸਮਰਥਿਤ ਭਾਸ਼ਾਵਾਂ ਹਨ। ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਦੀ ਉਪਲਬਧਤਾ ਮਹਾਨ ਸਵੈ-ਸੇਵਕਾਂ ਅਤੇ ਐਚਆਈ ਅਨੁਵਾਦ ਦੇ ਕਾਰਨ ਹੈ, ਪਰ ਇਹ ਹਾਲਾਤ ਵਿੱਚ ਅਧੂਰੇ ਅਤੇ ਗਲਤ ਵੀ ਹੋ ਸਕਦੀਆਂ ਹਨ।',
     'settings.languages.join': 'ਜੇ ਤੁਸੀਂ ਸਾਨੂੰ ਮਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਨੂੰ ਵੀ ਅਨੁਵਾਦਿਤ ਕਰ ਸਕਦੇ ਹੋ।',
