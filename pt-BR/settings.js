@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Não verificado, clique para reenviar o e-mail de verificação.',
     'settings.email.verified.true': 'E-mail verificado',
     'settings.email.add': 'Adicionar e-mail',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Configurações de idioma',
     'settings.languages.notice': 'O inglês e o tcheco são atualmente os únicos idiomas oficialmente suportados. Outros idiomas estão disponíveis graças a voluntários incríveis e tradução por inteligência artificial, mas ainda podem estar incompletos e incorretos em alguns lugares.',
     'settings.languages.join': 'Se você gostaria de nos ajudar, você pode traduzir também o Universo Literário.',
