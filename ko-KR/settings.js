@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': '확인되지 않은 경우 클릭하여 확인 이메일을 다시 보내세요.',
     'settings.email.verified.true': '인증된 이메일',
     'settings.email.add': '이메일 추가',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': '언어 설정',
     'settings.languages.notice': '영어와 체코어는 현재 공식적으로 지원되는 언어입니다. 다른 언어는 놀라운 자원봉사자들과 AI 번역 덕분에 사용할 수 있지만, 여전히 부분적으로 완성되지 않거나 잘못된 부분이 있을 수 있습니다.',
     'settings.languages.join': 'Literary Universe를 번역하여 도움을 주실 수 있습니다.',
