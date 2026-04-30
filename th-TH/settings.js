@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'อีเมล์ที่ได้รับการยืนยันแล้ว',
     'settings.email.add': 'เพิ่มอีเมล์',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'การตั้งค่าภาษา',
     'settings.languages.notice': 'ภาษาอังกฤษและภาษาเช็กเป็นภาษาที่ได้รับการสนับสนุนอย่างเป็นทางการเท่านั้นในปัจจุบัน ภาษาอื่น ๆ สามารถใช้ได้ด้วยความกรุณาของอาสาสมัครที่น่าทึ่งและการแปลด้วยปัญญาประดิษฐ์ แต่อาจยังไม่สมบูรณ์และไม่ถูกต้องในบางส่วน',
     'settings.languages.join': 'หากคุณต้องการช่วยเรา คุณสามารถแปล Literary Universe ได้เช่นกัน',
