@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Не проверено, нажмите, чтобы повторно отправить письмо для проверки.',
     'settings.email.verified.true': 'Подтверждённая эл. почта',
     'settings.email.add': 'Добавить эл. почту',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Настройки языка',
     'settings.languages.notice': 'В настоящее время английский и чешский языки являются единственными официально поддерживаемыми языками. Другие языки доступны благодаря замечательным добровольцам и машинному переводу, но они всё ещё могут быть неполными и содержать ошибки в некоторых местах.',
     'settings.languages.join': 'Если вы хотите помочь нам, вы также можете перевести Literary Universe.',
