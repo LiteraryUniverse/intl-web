@@ -10,6 +10,8 @@ export default {
   'settings.email.verified.false': 'Not verified, click to resend verification email.',
   'settings.email.verified.true': 'Verified e-mail',
   'settings.email.add': 'Add e-mail',
+  'settings.email.verify.sent':
+    'Verification e-mail has been sent. Please check your inbox.',
   'settings.languages.title': 'Language settings',
   'settings.languages.notice':
     'English and Czech are currently the only officially supported languages. Other languages are available thanks to amazing volunteers and AI translation, but they might still be incomplete and incorrect in places.',
