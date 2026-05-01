@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Ei vahvistettu, klikkaa lähettääksesi vahvistussähköpostin uudelleen.',
     'settings.email.verified.true': 'Vahvistettu sähköposti',
     'settings.email.add': 'Lisää sähköposti',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Kielen asetukset',
     'settings.languages.notice': 'Englanti ja tšekki ovat tällä hetkellä ainoat virallisesti tuetut kielet. Muita kieliä on saatavilla upeiden vapaaehtoisten ja tekoälykäännösten ansiosta, mutta ne voivat olla vielä paikoitellen puutteellisia ja virheellisiä.',
     'settings.languages.join': 'Jos haluat auttaa meitä, voit myös kääntää Literary Universen.',

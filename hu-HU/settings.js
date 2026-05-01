@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Nem ellenőrzött, kattintson az ellenőrző e-mail újraküldéséhez.',
     'settings.email.verified.true': 'Ellenőrzött e-mail',
     'settings.email.add': 'E-mail hozzáadása',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Nyelvi beállítások',
     'settings.languages.notice': 'Az angol és a cseh jelenleg az egyetlen hivatalosan támogatott nyelvek. Más nyelvek elérhetőek fantasztikus önkéntesek és AI fordítás segítségével, de lehetnek hiányosságok és hibák bizonyos helyeken.',
     'settings.languages.join': 'Ha szeretnél segíteni, fordíthatod a Literary Universe-t is.',

@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'אימייל מאומת',
     'settings.email.add': 'הוספת אימייל',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'הגדרות שפה',
     'settings.languages.notice': 'אנגלית וצ׳כית הן כרגע השפות המותמנות רשמית. שפות אחרות זמינות בזכות מתנדבים מדהימים ותרגום באמצעות AI, אך עשויות להיות חסרות או שגויות במקומות מסוימים.',
     'settings.languages.join': 'אם ברצונך לעזור לנו, תוכל לתרגם את Literary Universe גם.',

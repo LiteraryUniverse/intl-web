@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'যাচাইকৃত ইমেইল',
     'settings.email.add': 'ইমেইল যোগ করুন',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'ভাষা সেটিংস',
     'settings.languages.notice': 'ইংরেজি এবং চেক বর্তমানে একমাত্র অফিসিয়ালি সমর্থিত ভাষা। অন্যান্য ভাষাগুলি অসাধারণ স্বেচ্ছাসেবকদের এবং AI অনুবাদের কারণে উপলব্ধ, তবে এটি এখনও অসম্পূর্ণ এবং অশুদ্ধ হতে পারে।',
     'settings.languages.join': 'আমাদের সাহায্য করতে চাইলে, আপনি Literary Universe কে অনুবাদ করতে পারেন।',
