@@ -45,6 +45,7 @@ export default {
   'stats.blog.posts': 'Posts',
   'stats.unknown': 'Unknown',
   'stats.noData': 'No data available at this time.',
+  'stats.notEnoughData': 'Not enough data',
   'stats.heatmap.less': 'Less',
   'stats.heatmap.more': 'More',
   'stats.date': 'Date',
@@ -79,6 +80,7 @@ export default {
   'stats.totalReadingTime.description': 'Combined time all readers spent on this story',
   'stats.averageReadingTime': 'Average reading time',
   'stats.averageReadingTime.description': 'Average time per reader',
+  'stats.readingTime.title': 'Reading Time Analytics',
   'stats.readingHabits.title': 'Reader habits by week',
   'stats.readingHabits.sessions': 'Reading sessions',
   'stats.readingHabits.averageSession': 'Average session',
@@ -86,6 +88,8 @@ export default {
   'stats.readingHabits.peakHour': 'Most active hour',
   'stats.readingHabits.profileSummary':
     'Reading in last {weeks, number} weeks: {sessions, number} sessions, {duration} total, most active on {day} around {hour}.',
+  'stats.readingHabits.profileSummaryNoPeak':
+    'Reading in last {weeks, number} weeks: {sessions, number} sessions, {duration} total.',
   'stats.quarterly.quarter': 'Quarter',
   'stats.storyWritingAnalytics.title': 'Writing analytics',
   'stats.storyWritingAnalytics.aggregate': 'Aggregate',
