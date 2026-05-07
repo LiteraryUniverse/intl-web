@@ -154,6 +154,13 @@ export default {
     'Celebration illustration for published story',
   'workshop.writingHistory.title': 'Writing history',
   'workshop.writingHistory.sessions': 'Writing sessions',
+  'workshop.readingHistory.title': 'Reading history',
+  'workshop.readingHistory.calendar': 'Yearly reading heatmap',
+  'workshop.readingHistory.weekHour': 'Best reading times',
+  'workshop.readingHistory.dayTooltip':
+    '{date}: {sessions, number} sessions, {duration}',
+  'workshop.readingHistory.weekHourTooltip':
+    '{day} at {hour}: {sessions, number} sessions, {duration}',
   'workshop.settings.edit': 'Edit settings',
   'workshop.story.publishedOn':
     'This story was published on {date, date, long} {date, time, short}',
