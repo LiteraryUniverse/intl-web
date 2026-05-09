@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Prossimi eventi',
   'events.settings.title': 'Impostazioni dell\'evento',
+  'events.attendees.title': 'Partecipanti all\'evento',
   'events.attendance.attending': 'Partecipanti',
   'events.attendance.tentative': 'Provvisorio',
   'events.attendance.notAttending': 'Non partecipa',
