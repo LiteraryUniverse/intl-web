@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Nadchádzajúce stretnutia',
   'events.settings.title': 'Nastavenia stretnutie',
+  'events.attendees.title': 'Účastníci podujatia',
   'events.attendance.attending': 'Zúčastní sa',
   'events.attendance.tentative': 'Nezáväzné',
   'events.attendance.notAttending': 'Nezúčastňujúci sa',
