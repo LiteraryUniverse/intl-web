@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': '即將舉行的活動',
   'events.settings.title': '活動設定',
+  'events.attendees.title': '活動參加者',
   'events.attendance.attending': '參加中',
   'events.attendance.tentative': '暫定',
   'events.attendance.notAttending': '不參加',
