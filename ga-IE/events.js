@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Imeachtaí atá le teacht',
   'events.settings.title': 'Socruithe imeachta',
+  'events.attendees.title': 'Láithreoirí',
   'events.attendance.attending': 'Ag freastal',
   'events.attendance.tentative': 'Céimniúil',
   'events.attendance.notAttending': 'Níl ag freastal',
