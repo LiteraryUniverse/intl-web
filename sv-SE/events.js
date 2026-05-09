@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Kommande evenemang',
   'events.settings.title': 'Evenemangsinställningar',
+  'events.attendees.title': 'Deltagare i evenemang',
   'events.attendance.attending': 'Närvarande',
   'events.attendance.tentative': 'Tentativ',
   'events.attendance.notAttending': 'Inte närvarande',
