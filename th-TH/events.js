@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'กิจกรรมที่กำลังจะเกิดขึ้น',
   'events.settings.title': 'การตั้งค่ากิจกรรม',
+  'events.attendees.title': 'ผู้เข้าร่วมงาน',
   'events.attendance.attending': 'เข้าร่วม',
   'events.attendance.tentative': 'รอการตอบรับ',
   'events.attendance.notAttending': 'ไม่เข้าร่วม',
