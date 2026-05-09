@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'ਆਉਣ ਵਾਲੀਆਂ ਘਟਨਾਵਾਂ',
   'events.settings.title': 'ਘਟਨਾ ਸੈਟਿੰਗਾਂ',
+  'events.attendees.title': 'ਸਮਾਗਮ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਵਾਲੇ',
   'events.attendance.attending': 'ਹਾਜ਼ਰੀ',
   'events.attendance.tentative': 'ਅਨਿਸ਼ਚਿਤ',
   'events.attendance.notAttending': 'ਹਾਜ਼ਰੀ ਨਾ ਕਰਨਾ',
