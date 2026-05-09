@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Evenimente viitoare',
   'events.settings.title': 'Setări eveniment',
+  'events.attendees.title': 'Participanți la eveniment',
   'events.attendance.attending': 'Participare',
   'events.attendance.tentative': 'Tentativ',
   'events.attendance.notAttending': 'Nu participă',
