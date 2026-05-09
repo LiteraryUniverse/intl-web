@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Artimiausi įvykiai',
   'events.settings.title': 'Įvykio nustatymai',
+  'events.attendees.title': 'Renginio dalyviai',
   'events.attendance.attending': 'Dalyvauja',
   'events.attendance.tentative': 'Laikinai',
   'events.attendance.notAttending': 'Nedalyvauja',
