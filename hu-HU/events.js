@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Közelgő események',
   'events.settings.title': 'Esemény beállítások',
+  'events.attendees.title': 'A rendezvény résztvevői',
   'events.attendance.attending': 'Részvétel',
   'events.attendance.tentative': 'Bizonytalan',
   'events.attendance.notAttending': 'Nem veszek részt',
