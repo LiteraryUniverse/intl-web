@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Komende evenementen',
   'events.settings.title': 'Evenementinstellingen',
+  'events.attendees.title': 'Deelnemers',
   'events.attendance.attending': 'Aanwezig',
   'events.attendance.tentative': 'Voorlopig',
   'events.attendance.notAttending': 'Niet aanwezig',
