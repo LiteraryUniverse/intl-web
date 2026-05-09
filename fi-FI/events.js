@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Tulevat tapahtumat',
   'events.settings.title': 'Tapahtuman asetukset',
+  'events.attendees.title': 'Tapahtuman osallistujat',
   'events.attendance.attending': 'Osallistuminen',
   'events.attendance.tentative': 'Tentative',
   'events.attendance.notAttending': 'Ei osallistu',
