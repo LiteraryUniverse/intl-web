@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Επερχόμενες εκδηλώσεις',
   'events.settings.title': 'Ρυθμίσεις εκδήλωσης',
+  'events.attendees.title': 'Συμμετέχοντες στην εκδήλωση',
   'events.attendance.attending': 'Παρακολούθηση',
   'events.attendance.tentative': 'Προσωρινή',
   'events.attendance.notAttending': 'Δεν θα παρακολουθήσω',
