@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Майбутні події',
   'events.settings.title': 'Налаштування події',
+  'events.attendees.title': 'Учасники заходу',
   'events.attendance.attending': 'Відвідування',
   'events.attendance.tentative': 'Планування',
   'events.attendance.notAttending': 'Не відвідувати',
