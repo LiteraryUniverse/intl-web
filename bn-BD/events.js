@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'আসন্ন ইভেন্টস',
   'events.settings.title': 'ইভেন্ট সেটিংস',
+  'events.attendees.title': 'ইভেন্টে অংশগ্রহণকারীরা',
   'events.attendance.attending': 'উপস্থিত',
   'events.attendance.tentative': 'অনিশ্চিত',
   'events.attendance.notAttending': 'উপস্থিত নেই',
