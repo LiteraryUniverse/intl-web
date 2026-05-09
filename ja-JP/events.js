@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': '今後のイベント予定',
   'events.settings.title': 'イベント設定',
+  'events.attendees.title': 'イベント参加者',
   'events.attendance.attending': '出席します',
   'events.attendance.tentative': '仮出席',
   'events.attendance.notAttending': '不参加',
