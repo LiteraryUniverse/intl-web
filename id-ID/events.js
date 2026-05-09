@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Acara mendatang',
   'events.settings.title': 'Pengaturan acara',
+  'events.attendees.title': 'Peserta acara',
   'events.attendance.attending': 'Hadiri',
   'events.attendance.tentative': 'Tentatif',
   'events.attendance.notAttending': 'Tidak hadir',
