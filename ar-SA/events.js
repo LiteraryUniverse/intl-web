@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'الأحداث القادمة',
   'events.settings.title': 'إعدادات الحدث',
+  'events.attendees.title': 'المشاركون في الفعالية',
   'events.attendance.attending': 'الحضور',
   'events.attendance.tentative': 'مؤقت',
   'events.attendance.notAttending': 'عدم الحضور',
