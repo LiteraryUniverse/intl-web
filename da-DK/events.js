@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Kommende begivenheder',
   'events.settings.title': 'Indstillinger for begivenhed',
+  'events.attendees.title': 'Deltagere i arrangementet',
   'events.attendance.attending': 'Deltager',
   'events.attendance.tentative': 'Mulig',
   'events.attendance.notAttending': 'Deltager ikke',

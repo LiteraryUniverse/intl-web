@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Nepatikrinta, spustelėkite, jei norite dar kartą išsiųsti patvirtinimo el. laišką.',
     'settings.email.verified.true': 'Patvirtintas el. paštas',
     'settings.email.add': 'Pridėti el. paštą',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Kalbos nustatymai',
     'settings.languages.notice': 'Anglų ir čekų kalbos šiuo metu yra vienintelės oficialiai palaikomos kalbos. Kitos kalbos yra prieinamos dėka nuostabių savanorių ir dirbtinio intelekto vertimo, tačiau jos gali būti nepilnos ir neteisingos kai kuriose vietose.',
     'settings.languages.join': 'Jei norite padėti mums, galite išversti ir Literary Universe.',

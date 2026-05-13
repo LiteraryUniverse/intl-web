@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Tulevased sündmused',
   'events.settings.title': 'Sündmuse seaded',
+  'events.attendees.title': 'Ürituse osalejad',
   'events.attendance.attending': 'Osalemine',
   'events.attendance.tentative': 'Määramata',
   'events.attendance.notAttending': 'Ei osale',

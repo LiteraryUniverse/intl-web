@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': '認証されていません。クリックして認証メールを再送してください。',
     'settings.email.verified.true': '確認済みメール',
     'settings.email.add': 'メールを追加',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': '言語設定',
     'settings.languages.notice': '英語とチェコ語は現在、公式にサポートされている言語です。その他の言語は、素晴らしいボランティアとAI翻訳のおかげで利用可能ですが、場所によってはまだ完璧でなく、正確ではない可能性があります。',
     'settings.languages.join': 'サポートいただけるようであれば、Lieterary Universeの翻訳をお願いいたします。',

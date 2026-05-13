@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Δεν έχει επαληθευτεί, κάντε κλικ για να στείλετε εκ νέου email επαλήθευσης.',
     'settings.email.verified.true': 'Επαληθευμένο e-mail',
     'settings.email.add': 'Προσθήκη e-mail',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Ρυθμίσεις γλώσσας',
     'settings.languages.notice': 'Η Αγγλικά και η Τσεχικά είναι αυτή τη στιγμή οι μόνες επίσημα υποστηριζόμενες γλώσσες. Άλλες γλώσσες είναι διαθέσιμες χάρη σε εθελοντές και μετάφραση με τη χρήση της τεχνητής νοημοσύνης, αλλά ενδέχεται να είναι ακόμα ανεπαρκείς και εσφαλμένες σε ορισμένα σημεία.',
     'settings.languages.join': 'Αν θέλετε να μας βοηθήσετε, μπορείτε να μεταφράσετε το Literary Universe επίσης.',

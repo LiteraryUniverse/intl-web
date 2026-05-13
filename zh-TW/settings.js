@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': '尚未驗證，請按一下以重新傳送驗證電子郵件。',
     'settings.email.verified.true': '已驗證的電子郵件',
     'settings.email.add': '添加電子郵件',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': '語言設定',
     'settings.languages.notice': '目前只有英文和捷克文是官方支援的語言。其他語言是由了不可思議的志願者和AI翻譯提供，但可能在某些地方仍然不完整和不正確。',
     'settings.languages.join': '如果您想幫助我們，您也可以翻譯Literary Universe。',

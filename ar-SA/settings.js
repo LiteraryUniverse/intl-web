@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'لم يتم التحقق، انقر لإعادة إرسال بريد إلكتروني للتحقق.',
     'settings.email.verified.true': 'البريد الإلكتروني المُتحقق',
     'settings.email.add': 'إضافة البريد الإلكتروني',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'إعدادات اللغة',
     'settings.languages.notice': 'الإنجليزية والتشيكية هما اللغتان المعتمدتان حاليًا رسميًا. اللغات الأخرى متاحة بفضل المتطوعين المذهلين والترجمة الذكية، ولكن قد تكون غير كاملة وغير صحيحة في بعض الأماكن.',
     'settings.languages.join': 'إذا كنت ترغب في مساعدتنا، يمكنك أيضًا ترجمة Literary Universe.',

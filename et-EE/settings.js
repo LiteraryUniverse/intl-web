@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Ei ole kontrollitud, klõpsake, et kinnitusmeil uuesti saata.',
     'settings.email.verified.true': 'Kinnitatud e-post',
     'settings.email.add': 'Lisa e-post',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Keelte seaded',
     'settings.languages.notice': 'Hetkel on inglise ja tšehhi keel ainsad ametlikult toetatud keeled. Teised keeled on saadaval tänu suurepärastele vabatahtlikele ja tehisintellekti tõlkele, kuid võivad siiski olla lõpetamata ja vigadega kohtades.',
     'settings.languages.join': 'Kui soovid meid aidata, saad tõlkida ka Literary Universet.',

@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'आगामी इवेंट्स',
   'events.settings.title': 'इवेंट सेटिंग्स',
+  'events.attendees.title': 'कार्यक्रम में उपस्थित लोग',
   'events.attendance.attending': 'उपस्थिति',
   'events.attendance.tentative': 'संभावित',
   'events.attendance.notAttending': 'उपस्थित नहीं होना',

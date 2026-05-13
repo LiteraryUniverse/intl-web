@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'მომავალი ღონისძიებები',
   'events.settings.title': 'ღონისძიების პარამეტრები',
+  'events.attendees.title': 'ღონისძიების მონაწილეები',
   'events.attendance.attending': 'დაესწრება',
   'events.attendance.tentative': 'წინასწარი',
   'events.attendance.notAttending': 'არ დასწრება',

@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'आगामी कार्यक्रमहरू',
   'events.settings.title': 'सभाका सेटिङहरू',
+  'events.attendees.title': 'कार्यक्रमका सहभागीहरू',
   'events.attendance.attending': 'सहभागी हुने',
   'events.attendance.tentative': 'संदेहशील',
   'events.attendance.notAttending': 'सहभागी नहुने',

@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Tidak terverifikasi, klik untuk mengirim ulang email verifikasi.',
     'settings.email.verified.true': 'Surel terverifikasi',
     'settings.email.add': 'Tambah surel',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Pengaturan bahasa',
     'settings.languages.notice': 'Bahasa Inggris dan Bahasa Czech saat ini adalah satu-satunya bahasa yang didukung secara resmi. Bahasa lain tersedia berkat sukarelawan yang luar biasa dan terjemahan AI, tetapi mungkin masih belum lengkap dan tidak akurat di beberapa tempat.',
     'settings.languages.join': 'Jika Anda ingin membantu kami, Anda dapat menerjemahkan Literary Universe juga.',

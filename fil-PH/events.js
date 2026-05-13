@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Mga darating na kaganapan',
   'events.settings.title': 'Mga setting ng kaganapan',
+  'events.attendees.title': 'Event attendees',
   'events.attendance.attending': 'Dadalo',
   'events.attendance.tentative': 'Tentative',
   'events.attendance.notAttending': 'Hindi dadalo',

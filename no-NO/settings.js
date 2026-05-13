@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Verifisert e-post',
     'settings.email.add': 'Legg til e-post',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Språkinnstillinger',
     'settings.languages.notice': 'Engelsk og tsjekkisk er for øyeblikket de eneste offisielt støttede språkene. Andre språk er tilgjengelige takket være fantastiske frivillige og AI-oversettelse, men de kan fortsatt være ufullstendige og feilaktige på noen områder.',
     'settings.languages.join': 'Hvis du ønsker å hjelpe oss, kan du også oversette Literary Universe.',

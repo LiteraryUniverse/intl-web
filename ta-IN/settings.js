@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'சரிபார்க்கப்பட்ட மின்னஞ்சல்',
     'settings.email.add': 'மின்னஞ்சல் சேர்க்க',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'மொழி அமைப்புகள்',
     'settings.languages.notice': 'ஆங்கிலம் மற்றும் செக் தற்போது அமைக்கப்படும் மொழிகளாக மட்டுமே ஆதரிக்கப்படுகின்றன. மற்ற மொழிகள் மிகுந்தமான தன்மையுடன் அனுபவிப்பதற்கு மிகுந்த தன்மையுடன் மரியாதையுடன் அனுபவிக்கின்றன, ஆனால் அவை இன்னும் பொருந்தாத பகுதிகளில் பிழைகளைக் கொண்டிருக்கலாம்.',
     'settings.languages.join': 'உங்களுக்கு உதவ விரும்பினால், நீங்களும் இலக்கணம் போன்றவையை மொழிபெயர்க்கலாம்.',

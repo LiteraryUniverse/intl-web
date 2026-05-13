@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'வரவிருக்கும் நிகழ்வுகள்',
   'events.settings.title': 'நிகழ்வு அமைப்புகள்',
+  'events.attendees.title': 'நிகழ்வில் கலந்துகொள்பவர்கள்',
   'events.attendance.attending': 'பங்கேற்கிறேன்',
   'events.attendance.tentative': 'முதலில் பங்கேற்கிறேன்',
   'events.attendance.notAttending': 'பங்கேற்காதே',

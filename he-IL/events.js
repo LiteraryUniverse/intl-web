@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'אירועים עתידיים',
   'events.settings.title': 'הגדרות אירוע',
+  'events.attendees.title': 'משתתפי האירוע',
   'events.attendance.attending': 'משתתפים',
   'events.attendance.tentative': 'בהסכמה',
   'events.attendance.notAttending': 'לא משתתף',

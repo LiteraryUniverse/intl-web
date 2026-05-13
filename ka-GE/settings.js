@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'დამოწმებული ელფოსტა',
     'settings.email.add': 'ელფოსტის დამატება',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'ენის პარამეტრები',
     'settings.languages.notice': 'ინგლისური და ჩეხური ამჟამად არიან ერთადერთი რეალურად მხარდაჭერდებადი ენები. სხვა ენები ხდება ხელმისაწვდომი ვოლონტებისა და არტემის მადლობით, მაგრამ ისინი შეიძლება კიდევ არასრული და არასწორი იყოს ზედამხედველი ადგილებში.',
     'settings.languages.join': 'თუ გსურთ ჩვენს დახმარება, შეგიძლიათ თქვენც თარგმნოთ Literary Universe.',

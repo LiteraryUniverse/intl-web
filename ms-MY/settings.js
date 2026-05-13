@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'E-mel disahkan',
     'settings.email.add': 'Tambah e-mel',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Tetapan bahasa',
     'settings.languages.notice': 'Bahasa Inggeris dan Czech adalah bahasa yang disokong secara rasmi pada masa ini. Bahasa lain tersedia berkat sumbangan sukarelawan yang hebat dan terjemahan AI, tetapi mungkin masih tidak lengkap dan tidak tepat di beberapa tempat.',
     'settings.languages.join': 'Jika anda ingin membantu kami, anda boleh menterjemahkan Literary Universe juga.',

@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Nu este verificat, faceți clic pentru a retrimite e-mailul de verificare.',
     'settings.email.verified.true': 'E-mail verificat',
     'settings.email.add': 'Adaugă e-mail',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Setări limbă',
     'settings.languages.notice': 'Engleza și ceha sunt în prezent singurele limbi acceptate oficial. Alte limbi sunt disponibile datorită voluntarilor și traducerii AI uimitoare, dar ar putea fi încă incomplete și incorecte în anumite locuri.',
     'settings.languages.join': 'Dacă doriți să ne ajutați, puteți traduce și Literary Universe.',

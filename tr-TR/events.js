@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Yaklaşan etkinlikler',
   'events.settings.title': 'Etkinlik ayarları',
+  'events.attendees.title': 'Etkinlik katılımcıları',
   'events.attendance.attending': 'Katılıyor',
   'events.attendance.tentative': 'Tentatif',
   'events.attendance.notAttending': 'Katılmıyor',

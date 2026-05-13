@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Ríomhphost dheimhnithe',
     'settings.email.add': 'Cuir ríomhphost leis',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Socruithe teanga',
     'settings.languages.notice': 'Is iad an Béarla agus an tSeicis an dá theanga atá tacaíocht oifigiúil acu faoi láthair. Tá teangacha eile ar fáil le buíon iontach de dheonach agus le haistriúchán AI, ach d\'fhéadfadh go mbeadh siad neamhiomlán agus mícheart fós in áiteanna.',
     'settings.languages.join': 'Má ba mhaith leat cabhrú linn, is féidir leat Literary Universe a aistriú freisin.',

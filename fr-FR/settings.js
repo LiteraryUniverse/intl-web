@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Non vérifié, cliquez pour renvoyer l\'email de vérification.',
     'settings.email.verified.true': 'Email vérifié',
     'settings.email.add': 'Ajouter un email',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Paramètres de la langue',
     'settings.languages.notice': 'L\'anglais et le tchèque sont actuellement les seules langues officiellement prises en charge. D\'autres langues sont disponibles grâce à des volontaires extraordinaires et à la traduction par IA, mais elles peuvent encore être incomplètes et incorrectes à certains endroits.',
     'settings.languages.join': 'Si vous souhaitez nous aider, vous pouvez également traduire l\'Univers Littéraire.',

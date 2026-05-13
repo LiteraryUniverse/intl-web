@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Sự kiện sắp tới',
   'events.settings.title': 'Cài đặt sự kiện',
+  'events.attendees.title': 'Những người tham dự sự kiện',
   'events.attendance.attending': 'Đang tham gia',
   'events.attendance.tentative': 'Dự định',
   'events.attendance.notAttending': 'Không tham gia',

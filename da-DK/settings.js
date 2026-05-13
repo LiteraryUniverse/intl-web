@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Ikke bekræftet, klik for at sende bekræftelsesmail igen.',
     'settings.email.verified.true': 'Verificeret e-mail',
     'settings.email.add': 'Tilføj e-mail',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Sprogindstillinger',
     'settings.languages.notice': 'Engelsk og tjekkisk er i øjeblikket de eneste officielt understøttede sprog. Andre sprog er tilgængelige takket være fantastiske frivillige og AI-oversættelse, men de kan stadig være ufuldstændige og forkerte på visse områder.',
     'settings.languages.join': 'Hvis du vil hjælpe os, kan du også oversætte Literary Universe.',

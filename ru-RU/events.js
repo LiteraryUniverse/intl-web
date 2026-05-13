@@ -1,6 +1,7 @@
 export default {
   'events.upcoming': 'Предстоящие события',
   'events.settings.title': 'Настройки событий',
+  'events.attendees.title': 'Посетители мероприятия',
   'events.attendance.attending': 'Участвует',
   'events.attendance.tentative': 'Пробует',
   'events.attendance.notAttending': 'Не участвует',

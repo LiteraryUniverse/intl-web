@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Не підтверджено, натисніть, щоб повторно надіслати підтвердження.',
     'settings.email.verified.true': 'Підтверджена електронна пошта',
     'settings.email.add': 'Додати електронну пошту',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Налаштування мовних параметрів',
     'settings.languages.notice': 'Наразі англійська та чеська є єдиними офіційно підтримуваними мовами. Інші мови доступні завдяки чудовим волонтерам та перекладу за допомогою штучного інтелекту, але вони все ще можуть бути неповними та некоректними в деяких місцях.',
     'settings.languages.join': 'Якщо ви хочете допомогти нам, ви також можете долучитися до перекладу.',

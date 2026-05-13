@@ -9,6 +9,7 @@ export default {
     'settings.email.verified.false': 'Non verificato, clicchi per inviare nuovamente l\'e-mail di verifica.',
     'settings.email.verified.true': 'E-mail verificata',
     'settings.email.add': 'Aggiungi e-mail',
+    'settings.email.verify.sent': 'Verification e-mail has been sent. Please check your inbox.',
     'settings.languages.title': 'Impostazioni lingua',
     'settings.languages.notice': 'L\'inglese e il ceco sono attualmente le uniche lingue ufficialmente supportate. Altre lingue sono disponibili grazie a fantastici volontari e alla traduzione AI, ma potrebbero essere ancora incomplete e incorrette in alcuni punti.',
     'settings.languages.join': 'Se vuoi aiutarci, puoi tradurre Literary Universe anche tu.',
