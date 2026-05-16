@@ -674,6 +674,8 @@ export default {
     'workshop.ai.chat.clear': 'Clear conversation',
     'workshop.ai.chat.noMessages': 'Start a conversation about your story. The assistant knows about your story, universe, and encyclopedia.',
     'workshop.ai.chat.selectedText': 'Selected text',
+    'workshop.ai.chat.webSearch': 'இணையத்தில் தேடுக',
+    'workshop.ai.chat.webSearch.hint': 'இந்தச் செய்திக்காக இணையத்தில் தேட உதவியாளரை அனுமதிக்கவும்',
     'workshop.ai.chat.createError': 'Failed to start a new conversation. Please try again.',
     'workshop.ai.chat.findInEditor': 'Click to find this passage in the editor',
     'workshop.ai.chat.modelLocked': 'Start a new conversation to change the model.',

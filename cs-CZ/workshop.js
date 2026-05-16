@@ -680,6 +680,8 @@ export default {
     'workshop.ai.chat.clear': 'Vyčistit konverzaci',
     'workshop.ai.chat.noMessages': 'Zahájit konverzaci o tvém příběhu. Asistentk ví o tvém příběhu, vesmíru a encyklopedii.',
     'workshop.ai.chat.selectedText': 'Vybraný text',
+    'workshop.ai.chat.webSearch': 'Vyhledávání na webu',
+    'workshop.ai.chat.webSearch.hint': 'Nechte asistenta vyhledat tuto zprávu na webu',
     'workshop.ai.chat.createError': 'Nepodařilo se zahájit novou konverzaci. Zkuste to prosím znovu.',
     'workshop.ai.chat.findInEditor': 'Kliknutím najdete tuto část v editoru',
     'workshop.ai.chat.modelLocked': 'Začněte novou konverzaci pro změnu modelu.',
