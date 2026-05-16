@@ -674,6 +674,8 @@ export default {
     'workshop.ai.chat.clear': 'Clear conversation',
     'workshop.ai.chat.noMessages': 'Start a conversation about your story. The assistant knows about your story, universe, and encyclopedia.',
     'workshop.ai.chat.selectedText': 'Selected text',
+    'workshop.ai.chat.webSearch': 'Pesquise na Web',
+    'workshop.ai.chat.webSearch.hint': 'Deixe o assistente procurar esta mensagem na Internet',
     'workshop.ai.chat.createError': 'Failed to start a new conversation. Please try again.',
     'workshop.ai.chat.findInEditor': 'Click to find this passage in the editor',
     'workshop.ai.chat.modelLocked': 'Start a new conversation to change the model.',
