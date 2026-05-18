@@ -1,0 +1,13 @@
+{
+  "library.add": "Dodaj do biblioteczki",
+  "library.remove": "Usuń z biblioteczki",
+  "library.bought": "Zakupione opowieści",
+  "library.stories": "Obserwowane opowieści",
+  "library.universes": "Podążanie za wszechświatami",
+  "bookmark.continueReading": "Czytaj dalej",
+  "bookmark.statusSummary": "Przeczytałeś {readPercent, number, ::percent} z historii.",
+  "library.search.prompt": "Search your library to find content",
+  "library.search.noFilters": "Proszę wprowadzić wyszukiwane hasła lub zastosować filtry",
+  "library.search": "Search Your Library",
+  "library.ownedStories": "Zakupione historie"
+}

@@ -1,0 +1,6 @@
+{
+  "comment.write": "Yorumunuzu yazın",
+  "comments.none": "Gösterilecek yorum yok.",
+  "comments.total": "Orada {count, plural,\n    =0 {yorum yok}\n    one {1 yorum var}\n    other {# yorum var}\n  }.",
+  "comments.show.older": "Daha eski yorumları göster"
+}

@@ -1,0 +1,18 @@
+{
+  "pm.conversation": "Samtale",
+  "pm.showolder": "Vis eldre meldinger",
+  "pm.errors.saysomething": "Du bør virkelig si noe...",
+  "pm.errors.addrecipient": "Du må legge til minst én annen bruker.",
+  "pm.message": "Melding",
+  "pm.send.message": "Send melding",
+  "pm.messages.own": "Dine meldinger",
+  "pm.conversations.none": "Du har for øyeblikket ingen samtaler.",
+  "pm.to": "Til:",
+  "pm.with": "Samtale med:",
+  "pm.send": "Send",
+  "pm.conversations.unreadCount": "Du har {count, plural,\n    zero {ingen uleste samtaler}\n    one {én ulest samtale}\n    other {# uleste samtaler}\n  }.",
+  "pm.form.minimumParticipants": "Du må velge en mottaker.",
+  "pm.form.maxParticipants": "Du kan ha maksimalt {maxPeople, plural,\n    one {én person}\n    other {# personer}\n  } i en samtale.",
+  "pm.new.aria": "Ny samtale",
+  "pm.new.buttonTitle": "Start en ny samtale"
+}

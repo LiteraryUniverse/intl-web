@@ -1,0 +1,6 @@
+{
+  "comment.write": "コメントを書いてください",
+  "comments.none": "申し訳ありませんが、表示するコメントはありません。",
+  "comments.total": "{count, plural,\n    =0 {コメントはありません}\n    other {#件のコメントがあります}\n}。",
+  "comments.show.older": "過去のコメントを表示する"
+}

@@ -1,0 +1,6 @@
+{
+  "comment.write": "আপনার মন্তব্য লিখুন",
+  "comments.none": "দুঃখিত, কোন মন্তব্য দেখানো যায় না।",
+  "comments.total": "সেখানে {count, plural,\n    =0 {কোনো মন্তব্য নেই}\n    one {১টি মন্তব্য আছে}\n    other {#টি মন্তব্য আছে}\n  }।",
+  "comments.show.older": "পুরানো মন্তব্য দেখান"
+}

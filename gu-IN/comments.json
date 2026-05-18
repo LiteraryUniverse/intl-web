@@ -1,0 +1,6 @@
+{
+  "comment.write": "તમારી ટિપ્પણી લખો",
+  "comments.none": "માફ કરશો, કોઈ ટિપ્પણીઓ બતાવવા માટે નથી.",
+  "comments.total": "અહીં {count, plural,\n    =0 {કોઈ ટિપ્પણીઓ નથી}\n    one {એક ટિપ્પણી છે}\n    other {# ટિપ્પણીઓ છે}\n  }.",
+  "comments.show.older": "જૂની ટિપ્પણીઓ બતાવો"
+}

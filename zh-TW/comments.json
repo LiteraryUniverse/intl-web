@@ -1,0 +1,6 @@
+{
+  "comment.write": "撰寫你的評論",
+  "comments.none": "抱歉，沒有評論可以顯示。",
+  "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
+  "comments.show.older": "顯示較早的評論"
+}

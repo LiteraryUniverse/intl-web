@@ -1,0 +1,6 @@
+{
+  "comment.write": "Escribe tu comentario",
+  "comments.none": "Lo sentimos, no hay comentarios.",
+  "comments.total": "{count, plural,\n    =0 {No hay comentarios}\n    one {Hay 1 comentario}\n    other {Hay # comentarios}\n  }.",
+  "comments.show.older": "Mostrar comentarios anteriores"
+}

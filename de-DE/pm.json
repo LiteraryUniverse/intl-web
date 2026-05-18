@@ -1,0 +1,18 @@
+{
+  "pm.conversation": "Konversation",
+  "pm.showolder": "Ältere Meldungen anzeigen",
+  "pm.errors.saysomething": "Sie sollten wirklich etwas sagen...",
+  "pm.errors.addrecipient": "Sie müssen mindestens einen weiteren Benutzer hinzufügen.",
+  "pm.message": "Nachricht",
+  "pm.send.message": "Nachricht senden",
+  "pm.messages.own": "Ihre Nachrichten",
+  "pm.conversations.none": "Sie führen derzeit kein Gespräch mit jemandem.",
+  "pm.to": "Zu:",
+  "pm.with": "Konversation mit:",
+  "pm.send": "Senden",
+  "pm.conversations.unreadCount": "Sie haben{count, plural,\n    zero {keine ungelesenen Konversationen}\n    one {eine ungelesene Unterhaltung}\n    other {# ungelesene Unterhaltungen}\n  }.",
+  "pm.form.minimumParticipants": "Sie müssen einen Empfänger auswählen.",
+  "pm.form.maxParticipants": "Sie können maximal {maxPeople, plural,\n    one {eine Person}\n    other {# Personen}\n  } an einer Unterhaltung teilnehmen.",
+  "pm.new.aria": "Neues Gespräch",
+  "pm.new.buttonTitle": "Neues Gespräch beginnen"
+}

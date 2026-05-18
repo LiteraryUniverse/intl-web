@@ -1,8 +1,0 @@
-export default {
-    'feed.name': 'ਫੀਡ',
-    'feed.post.new': 'ਨਵਾਂ ਪੋਸਟ',
-    'feed.post.like': 'ਪੋਸਟ ਪਸੰਦ ਕਰੋ',
-    'feed.post.unlike': 'ਪੋਸਟ ਦੀ ਪਸੰਦ ਵਾਪਸ ਲੈਣਾ',
-    'feed.empty': 'ਫੀਡ ਵਿੱਚ ਕੋਈ ਇੰਟਰੀ ਨਹੀਂ ਹੈ।',
-    'feed.placeholder': 'ਤੁਹਾਡੇ ਮਨ ਵਿੱਚ ਕੀ ਹੈ?'
-};

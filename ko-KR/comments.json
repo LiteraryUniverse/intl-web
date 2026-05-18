@@ -1,0 +1,6 @@
+{
+  "comment.write": "댓글 작성",
+  "comments.none": "표시할 댓글이 없습니다.",
+  "comments.total": "여기 {count, plural,\n    =0 {댓글이 없습니다}\n    other {댓글 #개입니다}\n  }.",
+  "comments.show.older": "이전 댓글 표시"
+}

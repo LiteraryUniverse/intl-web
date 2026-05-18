@@ -1,0 +1,18 @@
+{
+  "pm.conversation": "Conversa",
+  "pm.showolder": "Mostra missatges anteriors",
+  "pm.errors.saysomething": "Hauries de dir alguna cosa...",
+  "pm.errors.addrecipient": "Has d'afegir com a mínim un altre usuari.",
+  "pm.message": "Missatge",
+  "pm.send.message": "Envia missatge",
+  "pm.messages.own": "Els teus missatges",
+  "pm.conversations.none": "Actualment no estàs conversant amb ningú.",
+  "pm.to": "Per a:",
+  "pm.with": "Conversa amb:",
+  "pm.send": "Envia",
+  "pm.conversations.unreadCount": "Tens {count, plural,\n    zero {cap conversa no llegida}\n    one {una conversa no llegida}\n    other {# converses no llegides}\n  }.",
+  "pm.form.minimumParticipants": "Has de triar un destinatari.",
+  "pm.form.maxParticipants": "Pots tenir un màxim de {maxPeople, plural,\n    one {una persona}\n    other {# persones}\n  } en una conversa.",
+  "pm.new.aria": "Conversa nova",
+  "pm.new.buttonTitle": "Inicia una conversa nova"
+}

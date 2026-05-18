@@ -1,0 +1,18 @@
+{
+  "pm.conversation": "Konverzace",
+  "pm.showolder": "Zobrazit starší zprávy",
+  "pm.errors.saysomething": "Měli byste něco říci...",
+  "pm.errors.addrecipient": "Musíte přidat alespoň jednoho dalšího uživatele.",
+  "pm.message": "Zpráva",
+  "pm.send.message": "Poslat zprávu",
+  "pm.messages.own": "Vaše zprávy",
+  "pm.conversations.none": "Momentálně nemáte žádné koncerzace.",
+  "pm.to": "Komu:",
+  "pm.with": "Konverzace s:",
+  "pm.send": "Odeslat",
+  "pm.conversations.unreadCount": "Máte {count, plural,\n    one {jednu nepřečtenou konverzaci}\n    few {# nepřečtené konverzace}\n    other {# nepřečtených konverzací}\n  }.",
+  "pm.form.minimumParticipants": "Musíte vybrat příjemce.",
+  "pm.form.maxParticipants": "Můžete mít maximálně {maxPeople, plural,\n    one {jednu osobu}\n    few {# lidi}\n    many {# lidi}\n    other {# lidi}\n  } v konverzaci.",
+  "pm.new.aria": "Nová konverzace",
+  "pm.new.buttonTitle": "Zahájit novou konverzaci"
+}

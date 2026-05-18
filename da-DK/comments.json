@@ -1,0 +1,6 @@
+{
+  "comment.write": "Skriv din kommentar",
+  "comments.none": "Beklager, ingen kommentarer at vise.",
+  "comments.total": "Der {count, plural,\n    =0 {er ingen kommentarer}\n    one {er 1 kommentar}\n    other {er # kommentarer}\n  }.",
+  "comments.show.older": "Vis ældre kommentarer"
+}

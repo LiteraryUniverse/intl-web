@@ -1,0 +1,13 @@
+{
+  "library.add": "إضافة إلى المكتبة",
+  "library.remove": "إزالة من المكتبة",
+  "library.bought": "قصص تم شراؤها",
+  "library.stories": "قصص تمت متابعتها",
+  "library.universes": "الأكوان المتبعة",
+  "bookmark.continueReading": "متابعة القراءة",
+  "bookmark.statusSummary": "لقد قرأت {readPercent, number, ::percent} من القصة.",
+  "library.search.prompt": "ابحث في مكتبتك للعثور على المحتوى",
+  "library.search.noFilters": "الرجاء إدخال مصطلحات البحث أو تطبيق عوامل التصفية",
+  "library.search": "ابحث في مكتبتك",
+  "library.ownedStories": "القصص التي تم شراؤها"
+}

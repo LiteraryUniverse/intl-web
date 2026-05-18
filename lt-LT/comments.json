@@ -1,0 +1,6 @@
+{
+  "comment.write": "Įrašykite savo komentarą",
+  "comments.none": "Atsiprašome, nėra komentarų rodyti.",
+  "comments.total": "Ten {count, plural,\n    =0 {nėra komentarų}\n    one {yra 1 komentaras}\n    other {yra # komentarų}\n  }.",
+  "comments.show.older": "Rodyti senesnius komentarus"
+}

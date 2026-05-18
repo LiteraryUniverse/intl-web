@@ -1,0 +1,6 @@
+{
+  "comment.write": ".i piku do cusku lo se pilno",
+  "comments.none": ".i je'u klama le nu do na djuno lo nu do pu cusku vau li'o",
+  "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
+  "comments.show.older": ".i jarco lo purdi cusku"
+}

@@ -1,0 +1,6 @@
+{
+  "comment.write": "Kirjutage oma kommentaar",
+  "comments.none": "Vabandust, ei ole kommentaare näidata.",
+  "comments.total": "Seal {count, plural,\n    =0 {ei ole kommentaare}\n    one {on 1 kommentaar}\n    other {on # kommentaari}\n  }.",
+  "comments.show.older": "Näita vanemaid kommentaare"
+}

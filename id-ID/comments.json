@@ -1,0 +1,6 @@
+{
+  "comment.write": "Tulis komentar Anda",
+  "comments.none": "Maaf, tidak ada komentar yang tersedia.",
+  "comments.total": "Ada {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
+  "comments.show.older": "Tampilkan komentar terdahulu"
+}

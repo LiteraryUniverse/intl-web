@@ -1,0 +1,6 @@
+{
+  "comment.write": "Napište svůj komentář",
+  "comments.none": "Omlouváme se, ale nemáme žádné komentáře k zobrazení.",
+  "comments.total": "Celkem {count, plural,\n    zero {0 komentářů}\n    one {1 komentář}\n    few {# komentáře}\n    other {# komentářů}\n  }.",
+  "comments.show.older": "Zobrazit starší komentáře"
+}

@@ -1,0 +1,6 @@
+{
+  "comment.write": "Scríobh do chomhfhreagairt",
+  "comments.none": "Tá brón orm, níl aon tuairimí le taispeáint.",
+  "comments.total": "Níl aon nóta tráchta ann {count, plural,\n    =0 {níl aon nóta tráchta}\n    one {tá 1 nóta tráchta}\n    other {tá # nótaí tráchta}\n  }.",
+  "comments.show.older": "Taispeáin tuairimí níos sine"
+}

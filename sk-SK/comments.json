@@ -1,0 +1,6 @@
+{
+  "comment.write": "Napíšte svoj komentár",
+  "comments.none": "Je mi ľúto, ale nezobrazujú sa žiadne komentáre.",
+  "comments.total": "{count, plural,\n    =0 {Nie sú žiadne komentáre}\n    one {Je tu jeden komentár}\n    few {Sú tu # komentáre}\n    other {Je tu # komentárov}\n}.",
+  "comments.show.older": "Zobraziť staršie komentáre"
+}

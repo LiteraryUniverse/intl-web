@@ -1,0 +1,6 @@
+{
+  "comment.write": "Tulis komen anda",
+  "comments.none": "Maaf, tiada komen untuk ditunjukkan.",
+  "comments.total": "Tiada komen {count, plural,\n    =0 {ada 1 komen}\n    one {ada 1 komen}\n    other {ada # komen}\n  }.",
+  "comments.show.older": "Tunjukkan komen yang lebih lama"
+}

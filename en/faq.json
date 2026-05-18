@@ -41,7 +41,7 @@
   "faq.question.settings.translationMistake":
   "I found a mistake in the text on the website, where can I report it?",
   "faq.answer.settings.translationMistake":
-  "All our language files are available on GitHub. You can <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">our Crowdin page</a>.",
+  "All our language files are available on GitHub. You can <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href=\"https://trs.literaryuniverse.com\" target=\"_blank\">our Weblate page</a>.",
 
   "faq.question.discovery.explain": "What is the Discovery section?",
   "faq.answer.discovery.explain":

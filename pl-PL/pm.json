@@ -1,0 +1,18 @@
+{
+  "pm.conversation": "Rozmowa",
+  "pm.showolder": "Pokaż wcześniejsze wiadomości",
+  "pm.errors.saysomething": "Pasowałoby coś powiedzieć...",
+  "pm.errors.addrecipient": "Należy dodać co najmniej jednego innego użytkownika.",
+  "pm.message": "Wiadomość",
+  "pm.send.message": "Wyślij wiadomość",
+  "pm.messages.own": "Twoje wiadomości",
+  "pm.conversations.none": "Obecnie nie prowadzisz z nikim rozmów.",
+  "pm.to": "Do:",
+  "pm.with": "Rozmowa z:",
+  "pm.send": "Wyślij",
+  "pm.conversations.unreadCount": "Masz {count, plural,\n    one {jedną nieprzeczytaną wiadomość}\n    few {# nieprzeczytane wiadomości}\n    many {# nieprzeczytanych wiadomości}\n    other {# nieprzeczytanych wiadomości}\n  }.",
+  "pm.form.minimumParticipants": "Należy wybrać odbiorcę.",
+  "pm.form.maxParticipants": "Możesz mieć maksymalnie {maxPeople, plural,\n    one {jedną osobę}\n    other {# osób}\n  } w rozmowie.",
+  "pm.new.aria": "Nowa rozmowa",
+  "pm.new.buttonTitle": "Rozpocznij nową rozmowę"
+}

@@ -1,0 +1,6 @@
+{
+  "comment.write": "Verki komenton",
+  "comments.none": "Pardonu, ne estas komentoj por montri.",
+  "comments.total": "Jen {count, plural,\n    =0 {ne estas komentoj}\n    one {estas 1 komento}\n    other {estas # komentoj}\n  }.",
+  "comments.show.older": "Montri pli malnovajn komentojn"
+}

@@ -1,0 +1,6 @@
+{
+  "comment.write": "Escreva seu comentário",
+  "comments.none": "Desculpe, não há comentários para mostrar.",
+  "comments.total": "Ai {count, plural,\n    =0 {não há comentários}\n    one {é um comentário}\n    other {são # comentários}\n  }.",
+  "comments.show.older": "Mostrar comentários mais antigos"
+}

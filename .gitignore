@@ -1,1 +1,6 @@
-*/**/index.json
+# index.json used to be a local-only build artifact (git-ignored).
+# Post Crowdin→Weblate migration it is a TRACKED artifact: the
+# build-index CI workflow regenerates and commits */index.json on
+# every push to master (after a Weblate translation PR merges), so the
+# app consumes it directly from the submodule without an app-deploy
+# compile step. Do NOT re-ignore it.

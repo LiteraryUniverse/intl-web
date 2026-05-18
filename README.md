@@ -1,17 +1,39 @@
 # Literary Universe intl-web
-[![Crowdin](https://badges.crowdin.net/literary-universe/localized.svg)](https://crowdin.com/project/literary-universe)
 
-Localization for Literary Universe web app. The translation is being managed via Crowding. Please see [our page](https://crowdin.com/project/literary-universe) there to get easily started with translations.
+[![Translate on Weblate](https://img.shields.io/badge/translate-Weblate-1abc9c)](https://trs.literaryuniverse.com)
 
-If you have any questions feel free to open issue or to [contact us via Crowdin](https://crowdin.com/project/literary-universe/discussions).
+Localization for the Literary Universe web app. Translations are managed in our
+self-hosted **[Weblate](https://trs.literaryuniverse.com)** (migrated from
+Crowdin, 2026-05). Head there to start translating — no Git knowledge needed.
 
-## Rspack isolated JSON loaders (updated 2026-02-18)
+Questions or a mistake in the source text? [Open an issue](https://github.com/LiteraryUniverse/intl-web/issues/new/choose).
 
-For isolated page-level translation bundles (`faq.json`, `comparisons.json`, `signup.json`, `the_way.json`, `cookieconsent.json`, `tours.json`), use the centralized loaders in:
+## Structure
 
-- `/imports/i18n/isolatedLoaders.ts`
+Everything is **JSON** (there are no `.js` source files anymore):
 
-Use these helpers from app code instead of importing `meteor/lu-intl/<locale>/<file>.json` directly:
+- `en/<module>.json` — the English **source of truth**. Only English is edited
+  here (via PR); every other locale is translated in Weblate, which writes
+  translations back as PRs to `master`.
+- `<locale>/<module>.json` — per-locale translations (Weblate-managed).
+- `<locale>/index.json` — **generated, do not hand-edit.** The merged runtime
+  bundle the app fetches. Regenerated and committed by CI (`build-index`
+  workflow) on every push to `master`.
+- 8 namespaces are kept **out** of `index.json` and lazy-loaded on demand:
+  `faq`, `comparisons`, `signup`, `the_way`, `cookieconsent`, `tours`,
+  `eventSignup`, `sharingCanvas`.
+
+## Build
+
+`scripts/buildIndex.mjs` is the single source of truth for merging
+`<module>.json` → `<locale>/index.json` (deterministic, zero-dependency Node).
+It runs in CI here and, via a thin shim, as the app's `npm run
+intl:export-public` / `prestart`. Never edit `index.json` by hand.
+
+## App integration
+
+Consume the 8 isolated namespaces through the centralized loaders in
+`app/imports/i18n/isolatedLoaders.ts` rather than importing the JSON directly:
 
 - `loadFaqMessages(locale)`
 - `loadComparisonsMessages(locale)`
@@ -19,13 +41,13 @@ Use these helpers from app code instead of importing `meteor/lu-intl/<locale>/<f
 - `loadTheWayMessages(locale)`
 - `loadCookieConsentMessages(locale)`
 - `loadToursMessages(locale)`
+- `loadEventSignupMessages(locale)`
+- `loadSharingCanvasMessages(locale)`
 
-This keeps all isolated JSON imports explicit and discoverable for Rspack bundling.
+Everything else is served from the per-locale `index.json` bundle.
 
 ## Resources
 
-* [How to contribute to open source project on Github](http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/)
-* [Message Syntax](http://formatjs.io/guides/message-syntax/)
-* [ICU Guide](http://userguide.icu-project.org/formatparse/messages)
-* [Languages plural rules](https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html)
-
+* [Message Syntax (FormatJS)](http://formatjs.io/guides/message-syntax/)
+* [ICU MessageFormat guide](http://userguide.icu-project.org/formatparse/messages)
+* [CLDR plural rules](https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html)

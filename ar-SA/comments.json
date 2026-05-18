@@ -1,0 +1,6 @@
+{
+  "comment.write": "اكتب تعليقك",
+  "comments.none": "عذراً، لا توجد تعليقات للعرض.",
+  "comments.total": "لا يوجد {count, plural,\n    =0 {لا توجد تعليقات}\n    one {هو تعليق واحد}\n    other {هي # تعليقات}\n  }.",
+  "comments.show.older": "عرض التعليقات الأقدم"
+}

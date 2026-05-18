@@ -1,0 +1,18 @@
+{
+  "pm.conversation": "Cuộc trò chuyện",
+  "pm.showolder": "Hiển thị tin nhắn cũ hơn",
+  "pm.errors.saysomething": "Bạn nên nói gì đó...",
+  "pm.errors.addrecipient": "Bạn cần thêm ít nhất một người dùng khác.",
+  "pm.message": "Tin nhắn",
+  "pm.send.message": "Gửi tin nhắn",
+  "pm.messages.own": "Tin nhắn của bạn",
+  "pm.conversations.none": "Bạn hiện không đang trò chuyện với ai.",
+  "pm.to": "Đến:",
+  "pm.with": "Cuộc trò chuyện với:",
+  "pm.send": "Gửi",
+  "pm.conversations.unreadCount": "Bạn không có {count, plural,\n    zero {cuộc trò chuyện chưa đọc}\n    one {một cuộc trò chuyện chưa đọc}\n    other {# cuộc trò chuyện chưa đọc}\n  }.",
+  "pm.form.minimumParticipants": "Bạn cần chọn một người nhận.",
+  "pm.form.maxParticipants": "Bạn chỉ có thể có tối đa {maxPeople, plural,\n    one {một người}\n    other {# người}\n  } trong một cuộc trò chuyện.",
+  "pm.new.aria": "Cuộc trò chuyện mới",
+  "pm.new.buttonTitle": "Bắt đầu cuộc trò chuyện mới"
+}

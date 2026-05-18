@@ -1,0 +1,6 @@
+{
+  "comment.write": "כתוב את התגובה שלך",
+  "comments.none": "מצטערים, אין תגובות להצגה.",
+  "comments.total": "אין תגובות {count, plural,\n    =0 {}\n    one {יש תגובה אחת}\n    other {יש # תגובות}\n  }.",
+  "comments.show.older": "הצג תגובות ישנות יותר"
+}

@@ -1,0 +1,6 @@
+{
+  "comment.write": "Schreiben Sie Ihren Kommentar",
+  "comments.none": "Leider können keine Kommentare angezeigt werden.",
+  "comments.total": "Es {count, plural,\n    =0 {sind keine Kommentare}\n    one {ist ein Kommentar}\n    other {sind # Kommentare}\n  }.",
+  "comments.show.older": "Ältere Kommentare anzeigen"
+}

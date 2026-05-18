@@ -1,8 +1,0 @@
-project_id: '448024'
-api_token: >-
-  132d64f3db2138bd5f8ce5f26a8ea9ff33a3a5ad80f84249154baf9670919b4de974b738d2b695ec
-files:
-  - source: /en/*
-    ignore:
-      - index
-    translation: /%locale%/%original_file_name%

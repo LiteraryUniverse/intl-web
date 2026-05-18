@@ -1,0 +1,6 @@
+{
+  "comment.write": "Schrijf uw reactie",
+  "comments.none": "Sorry, geen reacties om te tonen.",
+  "comments.total": "Er {count, plural,\n    =0 {zijn geen commentaren}\n    one {is 1 commentaar}\n    other {zijn # commentaren}\n  }.",
+  "comments.show.older": "Toon oudere reacties"
+}

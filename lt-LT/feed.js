@@ -1,8 +1,0 @@
-export default {
-    'feed.name': 'Srautas',
-    'feed.post.new': 'Naujas įrašas',
-    'feed.post.like': 'Patinka įrašas',
-    'feed.post.unlike': 'Nepatinka įrašas',
-    'feed.empty': 'Nėra įrašų naujienose.',
-    'feed.placeholder': 'Ką galvojate?'
-};

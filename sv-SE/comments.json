@@ -1,0 +1,6 @@
+{
+  "comment.write": "Skriv din kommentar",
+  "comments.none": "Tyvärr, inga kommentarer att visa.",
+  "comments.total": "Det {count, plural,\n    =0 {finns inga kommentarer}\n    one {är 1 kommentar}\n    other {är # kommentarer}\n  }.",
+  "comments.show.older": "Visa äldre kommentarer"
+}

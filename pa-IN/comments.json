@@ -1,0 +1,6 @@
+{
+  "comment.write": "ਆਪਣਾ ਟਿੱਪਣੀ ਲਿਖੋ",
+  "comments.none": "ਮਾਫ ਕਰਨਾ, ਕੋਈ ਟਿੱਪਣੀਆਂ ਨਹੀਂ ਦਿਖਾਈ ਜਾਂਦੀਆਂ।",
+  "comments.total": "ਉੱਥੇ {count, plural,\n    =0 {ਕੋਈ ਟਿੱਪਣੀਆਂ ਨਹੀਂ ਹਨ}\n    one {1 ਟਿੱਪਣੀ ਹੈ}\n    other {# ਟਿੱਪਣੀਆਂ ਹਨ}\n  }.",
+  "comments.show.older": "ਪੁਰਾਣੀਆਂ ਟਿੱਪਣੀਆਂ ਵੇਖੋ"
+}

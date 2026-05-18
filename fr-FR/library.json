@@ -1,0 +1,13 @@
+{
+  "library.add": "Ajouter à la bibliothèque",
+  "library.remove": "Supprimer de la bibliothèque",
+  "library.bought": "Histoires achetées",
+  "library.stories": "Histoires suivies",
+  "library.universes": "Univers suivis",
+  "bookmark.continueReading": "Continuer la lecture",
+  "bookmark.statusSummary": "Vous avez lu {readPercent, number, ::percent} de l'histoire.",
+  "library.search.prompt": "Search your library to find content",
+  "library.search.noFilters": "Veuillez saisir des termes de recherche ou appliquer des filtres",
+  "library.search": "Search Your Library",
+  "library.ownedStories": "Histoires achetées"
+}

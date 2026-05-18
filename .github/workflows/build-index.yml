@@ -1,0 +1,46 @@
+name: Build intl index
+
+# Regenerates the merged <locale>/index.json bundles from the per-module
+# source .json and commits them back to master. Runs after a Weblate
+# translation PR (or any source edit) lands on master, so the app consumes
+# index.json straight from the submodule with no app-deploy compile step.
+#
+# Loop-safety: pushes made with the default GITHUB_TOKEN do NOT trigger
+# further workflow runs (GitHub built-in), and the commit is skipped
+# entirely when buildIndex.mjs produces no change.
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: true
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Regenerate index.json
+        run: node scripts/buildIndex.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- '*/index.json'; then
+            echo "index.json already up to date."
+            exit 0
+          fi
+          git add -- '*/index.json'
+          git commit -m "chore: regenerate index.json [skip ci]"
+          git push

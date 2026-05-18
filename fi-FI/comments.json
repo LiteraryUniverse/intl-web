@@ -1,0 +1,6 @@
+{
+  "comment.write": "Kirjoita kommenttisi",
+  "comments.none": "Anteeksi, ei kommentteja näytettäväksi.",
+  "comments.total": "{count, plural,\n    =0 {Ei kommentteja}\n    one {On 1 kommentti}\n    other {On # kommenttia}\n  }.",
+  "comments.show.older": "Näytä vanhemmat kommentit"
+}
