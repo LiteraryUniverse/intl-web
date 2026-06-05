@@ -1,6 +1,7 @@
 {
   "events.upcoming": "आगामी घटनाहरू",
   "events.settings.title": "घटना सेटिंग्स",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "हाजिरी",
   "events.attendance.tentative": "संदिग्ध",
   "events.attendance.notAttending": "हाजिर नहुने",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "घटना सुरु हुन्छ {startsAt}",
   "events.join.virtual": "घटनामा सामेल हुनुहोस्",
   "events.selection.origin": "घटना मूल",
-  "events.origin.universe": "ब्रह्माण्ड",
   "events.origin.author": "लेखक",
-  "events.origin.groups": "समूहहरू",
   "events.origin.organizations": "संगठनहरू",
   "events.origin.lu": "साहित्यिक विश्व घटनाहरू",
   "events.visibility.label": "घटना दृश्यता",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "निजी",
   "event.visibilityShort.public": "सार्वजनिक",
-  "event.visibilityShort.owner": "मालिक"
+  "event.visibilityShort.owner": "मालिक",
+  "events.origin.universe": "ब्रह्माण्ड",
+  "events.origin.groups": "समूहहरू"
 }

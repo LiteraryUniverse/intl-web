@@ -1,6 +1,7 @@
 {
   "events.upcoming": ".i lo fasnu cnino se cnemu",
   "events.settings.title": ".i lo fasnu se setca",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": ".i se stika",
   "events.attendance.tentative": ".i se cuxna se stika",
   "events.attendance.notAttending": ".i na se stika",
@@ -19,9 +20,7 @@
   "events.join.startsIn": ".i lo fasnu mo'u sance {startsAt}",
   "events.join.virtual": ".i se stika fi lo fasnu",
   "events.selection.origin": ".i lo fasnu noi mukti",
-  "events.origin.universe": ".i lo kensa",
   "events.origin.author": ".i lo skicu",
-  "events.origin.groups": ".i lo grupu",
   "events.origin.organizations": ".i lo jecta",
   "events.origin.lu": "kevna cfika be la lojban",
   "events.visibility.label": "Event visibility",
@@ -37,5 +36,7 @@
   "events.moreInfo": "Moi je'u",
   "event.visibilityShort.private": "Private",
   "event.visibilityShort.public": "Public",
-  "event.visibilityShort.owner": "Owner"
+  "event.visibilityShort.owner": "Owner",
+  "events.origin.universe": ".i lo kensa",
+  "events.origin.groups": ".i lo grupu"
 }

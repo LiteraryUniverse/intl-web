@@ -1,6 +1,7 @@
 {
   "events.upcoming": "Komende gebeurtenisse",
   "events.settings.title": "Gebeurtenis instellings",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "Bywoning",
   "events.attendance.tentative": "Vas",
   "events.attendance.notAttending": "Nie bywoning nie",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "Gebeurtenis begin {startsAt}",
   "events.join.virtual": "Sluit aan by gebeurtenis",
   "events.selection.origin": "Gebeurtenis oorsprong",
-  "events.origin.universe": "Heelal",
   "events.origin.author": "Skrywer",
-  "events.origin.groups": "Groepe",
   "events.origin.organizations": "Organisasies",
   "events.origin.lu": "Literary Universe gebeurtenisse",
   "events.visibility.label": "Gebeurtenis sigbaarheid",
@@ -37,5 +36,7 @@
   "events.moreInfo": "Meer inligting",
   "event.visibilityShort.private": "Privaat",
   "event.visibilityShort.public": "Openbaar",
-  "event.visibilityShort.owner": "Eienaar"
+  "event.visibilityShort.owner": "Eienaar",
+  "events.origin.universe": "Heelal",
+  "events.origin.groups": "Groepe"
 }

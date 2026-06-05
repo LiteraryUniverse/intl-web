@@ -1,6 +1,7 @@
 {
   "events.upcoming": "അടിയന്തരാവകാശം",
   "events.settings.title": "ഇവന്റ് ക്രമീകരണങ്ങൾ",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "പങ്കെടുക്കുന്നു",
   "events.attendance.tentative": "സന്നദ്ധമായ",
   "events.attendance.notAttending": "പങ്കെടുക്കരുത്",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "ഇവന്റ് ആരംഭിക്കുന്നു {startsAt}",
   "events.join.virtual": "ഇവന്റിലേക്ക് ചേരുക",
   "events.selection.origin": "ഇവന്റ് ഉണ്ടാക്കിയത്",
-  "events.origin.universe": "യൂണിവേഴ്സ്",
   "events.origin.author": "രചയിതാവ്",
-  "events.origin.groups": "ഗ്രൂപ്പുകൾ",
   "events.origin.organizations": "സംഘങ്ങൾ",
   "events.origin.lu": "സാഹിത്യ യൂണിവേഴ്സ് ഇവന്റുകൾ",
   "events.visibility.label": "Event visibility",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "സ്വകാര്യമായി",
   "event.visibilityShort.public": "പൊതുവായി",
-  "event.visibilityShort.owner": "Owner"
+  "event.visibilityShort.owner": "Owner",
+  "events.origin.universe": "യൂണിവേഴ്സ്",
+  "events.origin.groups": "ഗ്രൂപ്പുകൾ"
 }

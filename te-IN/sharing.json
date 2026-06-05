@@ -4,7 +4,6 @@
   "sharing.share": "షేర్ చేయండి...",
   "sharing.feedback": "మేము మీకు షేర్ చేయాలని ఆకాంక్షిస్తున్న ప్రాంతం లేదా ప్రదేశం లేదా లేకుండా ఉందామని మాకు తెలియజేయండి!",
   "sharing.copy": "కాపీ చేయండి",
-  "sharing.email": "ఇమెయిల్",
   "sharing.sms": "SMS",
   "sharing.messenger": "ఫేస్బుక్ మెస్సెంజర్",
   "sharing.whatsapp": "WhatsApp",
@@ -61,6 +60,9 @@
   "sharing.advanced.printTemplate5": "Template 5",
   "sharing.advanced.printTemplate6": "Template 6",
   "sharing.advanced.fontColor": "Font Color",
+  "sharing.advanced.shareQR": "Share QR Link",
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.email": "ఇమెయిల్",
   "sharing.canvas.by": "by",
   "sharing.canvas.chapter": "Chapter {chapterNumber}",
   "sharing.canvas.publishesOn": "Publishes on {date}"

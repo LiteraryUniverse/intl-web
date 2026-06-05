@@ -4,7 +4,6 @@
   "sharing.share": "ចែករំលែកជាមួយ...",
   "sharing.feedback": "តើយើងខូចចិត្តបានជំនួយអ្នកទេ? ប្រសិនបើអ្នកមានទីតាំងណា​មួយដែលអ្នកចង់ចែករំលែកទៅកាន់វា សូមប្រាប់យើងអំពីវា!",
   "sharing.copy": "ចម្លង",
-  "sharing.email": "អ៊ីមែល",
   "sharing.sms": "SMS",
   "sharing.messenger": "មេសាបានហ្វីអូកក្រុមហ៊ុនហ្រេសសិប្បកម្ម",
   "sharing.whatsapp": "WhatsApp",
@@ -61,6 +60,9 @@
   "sharing.advanced.printTemplate5": "Template 5",
   "sharing.advanced.printTemplate6": "Template 6",
   "sharing.advanced.fontColor": "Font Color",
+  "sharing.advanced.shareQR": "Share QR Link",
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.email": "អ៊ីមែល",
   "sharing.canvas.by": "by",
   "sharing.canvas.chapter": "Chapter {chapterNumber}",
   "sharing.canvas.publishesOn": "Publishes on {date}"

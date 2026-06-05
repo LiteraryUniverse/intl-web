@@ -81,5 +81,10 @@
   "org.permissions.workshop.viewAll": "View all workshop items",
   "org.permissions.forum.manager": "Manage forums",
   "org.permissions.blog.manage": "Manage blog",
-  "org.permissions.blog.post": "Create blog posts"
+  "org.permissions.blog.post": "Create blog posts",
+  "org.members.emailInvited": "Invited by email",
+  "org.members.emailInvite.registered": "Registered",
+  "org.members.emailInvite.sent": "Invited by email",
+  "org.members.joined": "Joined",
+  "org.roles.super_admin": "Super Admin"
 }

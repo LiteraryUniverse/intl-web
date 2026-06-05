@@ -11,7 +11,6 @@
   "universe.authors.title": "Authors",
   "universe.authors.desc": "Creators and contributors to {universe}",
   "universe.contributors": "Contributors",
-  "universe.translators": "Translators",
   "universe.authors.notice": "Each story might have additional personal that has worked on it. For more details see the details of the story.",
   "universe.createdBy": "{gender, select,\n    male {Created}\n    female {Created}\n    other {Created}} by ",
   "universe.stories.for": "Stories for {universe}",
@@ -22,5 +21,14 @@
   "universe.fanArt.submit": "Submit your art",
   "universe.fanArtHeaderDesc.item": "{universe} fan art - {name}",
   "universe.fanArtHeaderDesc.submit": "{universe} fan art submission",
-  "universe.fanArtHeaderDesc.overview": "{universe} fan art"
+  "universe.fanArtHeaderDesc.overview": "{universe} fan art",
+  "universe.fanFiction.hidden": "Hidden",
+  "universe.fanFiction.hide": "Hide fanfiction",
+  "universe.fanFiction.unhide": "Unhide fanfiction",
+  "universe.fanFiction.create": "Create new fan fiction",
+  "universe.fanFiction.notAllowed": "This Universe does not allow showing fan fiction.",
+  "universe.storiesCount": "Total number of stories in the universe",
+  "universe.createdAt": "Created: {date}",
+  "universe.authors.none": "No authors information available.",
+  "universe.translators": "Translators"
 }

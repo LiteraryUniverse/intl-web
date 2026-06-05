@@ -4,7 +4,6 @@
   "sharing.share": "Kunhavigi kun...",
   "sharing.feedback": "Ĉu ni forgesis iun lokon al kiu vi volus kunhavigi? Sciigu nin pri tio!",
   "sharing.copy": "Kopii",
-  "sharing.email": "Retpoŝto",
   "sharing.sms": "SMS",
   "sharing.messenger": "Facebook Messenger",
   "sharing.whatsapp": "WhatsApp",
@@ -61,6 +60,9 @@
   "sharing.advanced.printTemplate5": "Template 5",
   "sharing.advanced.printTemplate6": "Template 6",
   "sharing.advanced.fontColor": "Font Color",
+  "sharing.advanced.shareQR": "Share QR Link",
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.email": "Retpoŝto",
   "sharing.canvas.by": "by",
   "sharing.canvas.chapter": "Chapter {chapterNumber}",
   "sharing.canvas.publishesOn": "Publishes on {date}"

@@ -1,6 +1,7 @@
 {
   "events.upcoming": "సమీపంలో ఉన్న ఈవెంట్లు",
   "events.settings.title": "ఈవెంట్ సెట్టింగ్స్",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "పాలనకర్త",
   "events.attendance.tentative": "సందిగ్ధంగా",
   "events.attendance.notAttending": "పాలన చేయడం లేదు",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "ఈవెంట్ {startsAt}నిమిషాల లో ప్రారంభించును",
   "events.join.virtual": "ఈవెంట్కి చేరండి",
   "events.selection.origin": "ఈవెంట్ మూలం",
-  "events.origin.universe": "యూనివర్స్",
   "events.origin.author": "రచయిత",
-  "events.origin.groups": "గుంపులు",
   "events.origin.organizations": "సంఘాలు",
   "events.origin.lu": "సాహిత్య యూనివర్స్ ఈవెంట్లు",
   "events.visibility.label": "ఈవెంట్ దృశ్యతను",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ప్రైవేట్",
   "event.visibilityShort.public": "ప్రపంచంలో",
-  "event.visibilityShort.owner": "స్వామి"
+  "event.visibilityShort.owner": "స్వామి",
+  "events.origin.universe": "యూనివర్స్",
+  "events.origin.groups": "గుంపులు"
 }

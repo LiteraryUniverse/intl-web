@@ -11,6 +11,15 @@
   "personalNotes.goToStory": "Go to story",
   "personalNotes.goToChapter": "Go to chapter",
   "personalNotes.goToEncyclopedia": "Go to Universe’s Encyclopedia",
-  "personalNotes.goToEncyclopediaEntry": "Go To Enscylopedia’s Entry",
-  "personalNotes.closeDropdown": "Close the dropdown"
+  "personalNotes.goToEncEntry": "Go to entry",
+  "personalNotes.closeDropdown": "Close the dropdown",
+  "personalNotes.chapterName": "Chapter {sequence} - {title}",
+  "personalNotes.objectPersonalNotes": "{object} personal note",
+  "personalNotes.searchResults": "Search Results",
+  "personalNotes.type.encEntry": "Encyclopedia Entry",
+  "personalNotes.type.revTextBlock": "Revision Text Block",
+  "personalNotes.recentSearches": "Recent Searches:",
+  "personalNotes.myNotes": "My Personal Notes",
+  "personalNotes.hasNotes": "Has Personal Notes",
+  "personalNotes.goToEncyclopediaEntry": "Go To Enscylopedia’s Entry"
 }

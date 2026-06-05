@@ -22,6 +22,7 @@
   "common.blog": "ბლოგი",
   "common.blogs": "ბლოგები",
   "common.about": "ჩვენ შესახებ",
+  "common.missionVision": "Mission & Vision",
   "common.accessdenied": "წვდომა აკრძალულია",
   "common.accessdenied.msg": "თქვენ არ გაქვთ წვდომა ამ ადგილზე. თუ უნდა გქვიათ წვდომა აქ, გთხოვთ დაუკავშირდით მფლობელს და უთხარით მას, რომ გადაამოწმოს პარამეტრები.",
   "common.loading": "იტვირთება...",

@@ -1,6 +1,7 @@
 {
   "events.upcoming": "આવતી ઈવેન્ટ્સ",
   "events.settings.title": "ઈવેન્ટ સેટિંગ્સ",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "હાજરી",
   "events.attendance.tentative": "અનિશ્ચિત",
   "events.attendance.notAttending": "હાજરી નથી",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "ઈવેન્ટ શરૂ થાય છે {startsAt}",
   "events.join.virtual": "ઈવેન્ટમાં જોડાવો",
   "events.selection.origin": "ઈવેન્ટનું મૂળ",
-  "events.origin.universe": "યુનિવર્સ",
   "events.origin.author": "લેખક",
-  "events.origin.groups": "જૂથો",
   "events.origin.organizations": "સંસ્થાઓ",
   "events.origin.lu": "લિટરરી યુનિવર્સ ઈવેન્ટ્સ",
   "events.visibility.label": "ઘટનાની દૃષ્ટિગતિ",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ખાનગી",
   "event.visibilityShort.public": "સાર્વજનિક",
-  "event.visibilityShort.owner": "માલિક"
+  "event.visibilityShort.owner": "માલિક",
+  "events.origin.universe": "યુનિવર્સ",
+  "events.origin.groups": "જૂથો"
 }

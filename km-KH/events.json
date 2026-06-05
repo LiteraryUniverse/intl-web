@@ -1,6 +1,7 @@
 {
   "events.upcoming": "ព្រឹត្តិការណ៍ដែលនឹងកើតឡើង",
   "events.settings.title": "ការកំណត់ព័ត៌មានព្រឹត្តិការណ៍",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "ការចូលរួម",
   "events.attendance.tentative": "ការចូលរួមជាមួយស្តង់ដារ",
   "events.attendance.notAttending": "មិនចូលរួម",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "ការចាប់ផ្តើមព្រឹត្តិការណ៍ {startsAt}",
   "events.join.virtual": "ចូលរួមក្នុងព្រឹត្តិការណ៍",
   "events.selection.origin": "ប្រភពព្រឹត្តិការណ៍",
-  "events.origin.universe": "ជីវិត",
   "events.origin.author": "អ្នកនិពន្ធ",
-  "events.origin.groups": "ក្រុម",
   "events.origin.organizations": "អង្គការ",
   "events.origin.lu": "ព្រឹត្តិការណ៍របស់សីល្បត្តិកម្មសាន្ត",
   "events.visibility.label": "ការមើលឃើញព្រឹត្តិការណ៍",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ឯកជន",
   "event.visibilityShort.public": "សាធារណៈ",
-  "event.visibilityShort.owner": "ម្ចាស់ប្រជាជន"
+  "event.visibilityShort.owner": "ម្ចាស់ប្រជាជន",
+  "events.origin.universe": "ជីវិត",
+  "events.origin.groups": "ក្រុម"
 }

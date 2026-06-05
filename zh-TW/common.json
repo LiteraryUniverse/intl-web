@@ -22,6 +22,7 @@
   "common.blog": "部落格",
   "common.blogs": "部落格",
   "common.about": "關於我們",
+  "common.missionVision": "Mission & Vision",
   "common.accessdenied": "已拒絕存取",
   "common.accessdenied.msg": "您沒有權限進入此處。如果您應該有權限進入此處，請聯繫所有者並告訴他們重新檢查設定。",
   "common.loading": "載入中...",

@@ -1,6 +1,7 @@
 {
   "events.upcoming": "Upcoming events",
   "events.settings.title": "Event settings",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "Attending",
   "events.attendance.tentative": "Tentative",
   "events.attendance.notAttending": "Not attending",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "Event starts {startsAt}",
   "events.join.virtual": "Join event",
   "events.selection.origin": "Event origin",
-  "events.origin.universe": "འབྲི་རིམ།",
   "events.origin.author": "Author",
-  "events.origin.groups": "སྡེ་ཚན།",
   "events.origin.organizations": "Organizations",
   "events.origin.lu": "Literary Universe events",
   "events.visibility.label": "བྱེད་རིམ་གཞན་གྱི་སྒྲིག་འབྱེད།",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "Private",
   "event.visibilityShort.public": "Public",
-  "event.visibilityShort.owner": "ལག་ལེན།"
+  "event.visibilityShort.owner": "ལག་ལེན།",
+  "events.origin.universe": "འབྲི་རིམ།",
+  "events.origin.groups": "སྡེ་ཚན།"
 }

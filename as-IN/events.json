@@ -1,6 +1,7 @@
 {
   "events.upcoming": "আসন্ন ইভেন্টস",
   "events.settings.title": "ইভেন্ট ছেটিংস",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "উপস্থিত",
   "events.attendance.tentative": "সন্দিহান",
   "events.attendance.notAttending": "উপস্থিত নহয়",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "ইভেন্ট শুরু {startsAt}",
   "events.join.virtual": "ইভেন্টে যোগদান করুন",
   "events.selection.origin": "ইভেন্ট উত্স",
-  "events.origin.universe": "ইউনিভার্স",
   "events.origin.author": "লেখক",
-  "events.origin.groups": "গোষ্ঠীসমূহ",
   "events.origin.organizations": "সংগঠন",
   "events.origin.lu": "সাহিত্যিক ইউনিভার্স ইভেন্টস",
   "events.visibility.label": "ঘটনার দৃশ্যমানতা",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ব্যক্তিগত",
   "event.visibilityShort.public": "প্রকাশিত",
-  "event.visibilityShort.owner": "মালিক"
+  "event.visibilityShort.owner": "মালিক",
+  "events.origin.universe": "ইউনিভার্স",
+  "events.origin.groups": "গোষ্ঠীসমূহ"
 }

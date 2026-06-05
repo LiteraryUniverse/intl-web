@@ -1,6 +1,7 @@
 {
   "events.upcoming": "येती असलेले इव्हेंट्स",
   "events.settings.title": "इव्हेंट सेटिंग्ज",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "उपस्थित",
   "events.attendance.tentative": "संभावित",
   "events.attendance.notAttending": "उपस्थित नसलेले",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "इव्हेंट सुरु होणार {startsAt}",
   "events.join.virtual": "इव्हेंटमध्ये सामील व्हा",
   "events.selection.origin": "इव्हेंट मूळ",
-  "events.origin.universe": "विश्व",
   "events.origin.author": "लेखक",
-  "events.origin.groups": "गट",
   "events.origin.organizations": "संस्था",
   "events.origin.lu": "साहित्यिक विश्व इव्हेंट्स",
   "events.visibility.label": "कार्यक्रमची दृश्यता",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "खाजगी",
   "event.visibilityShort.public": "सार्वजनिक",
-  "event.visibilityShort.owner": "मालक"
+  "event.visibilityShort.owner": "मालक",
+  "events.origin.universe": "विश्व",
+  "events.origin.groups": "गट"
 }

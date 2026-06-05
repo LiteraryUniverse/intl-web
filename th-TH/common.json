@@ -22,6 +22,7 @@
   "common.blog": "บล็อก",
   "common.blogs": "บล็อก",
   "common.about": "เกี่ยวกับเรา",
+  "common.missionVision": "Mission & Vision",
   "common.accessdenied": "การเข้าถึงถูกปฏิเสธ",
   "common.accessdenied.msg": "คุณไม่ได้รับอนุญาตให้ไปที่นี่ หากคุณควรมีสิทธิ์ในการเข้าถึงที่นี่ โปรดติดต่อเจ้าของและบอกให้เขาตรวจสอบการตั้งค่าอีกครั้ง",
   "common.loading": "กำลังโหลด...",

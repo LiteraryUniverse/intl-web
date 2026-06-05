@@ -1,6 +1,7 @@
 {
   "events.upcoming": "Venontaj eventoj",
   "events.settings.title": "Agordo de evento",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "Partoprenas",
   "events.attendance.tentative": "Provizora",
   "events.attendance.notAttending": "Ne partoprenas",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "Evento komencas {startsAt}",
   "events.join.virtual": "Aliĝi al evento",
   "events.selection.origin": "Origino de evento",
-  "events.origin.universe": "Universo",
   "events.origin.author": "Aŭtoro",
-  "events.origin.groups": "Grupoj",
   "events.origin.organizations": "Organizoj",
   "events.origin.lu": "Eventoj de Literatura Universo",
   "events.visibility.label": "Videmo de evento",
@@ -37,5 +36,7 @@
   "events.moreInfo": "Plia informo",
   "event.visibilityShort.private": "Privata",
   "event.visibilityShort.public": "Publika",
-  "event.visibilityShort.owner": "Posedanto"
+  "event.visibilityShort.owner": "Posedanto",
+  "events.origin.universe": "Universo",
+  "events.origin.groups": "Grupoj"
 }

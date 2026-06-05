@@ -4,7 +4,6 @@
   "sharing.share": "བསྐྱར་ཆོག་གསར་བསྐྱར།",
   "sharing.feedback": "ཁྱེད་རང་གི་དུས་ཡུན་གནང་བ་དང་ག་ཡང་ཚོགས་པའི་ས་ཁོངས་འདི་འདི་ཡོད་པའི་གནང་བ་མི་འདུག",
   "sharing.copy": "ཅུང་དགོས།",
-  "sharing.email": "E-mail",
   "sharing.sms": "SMS",
   "sharing.messenger": "ཕེབསཀྱི་མེ་སེར།",
   "sharing.whatsapp": "ཝ་སེབསཔའི་མེ་སེར།",
@@ -61,6 +60,9 @@
   "sharing.advanced.printTemplate5": "Template 5",
   "sharing.advanced.printTemplate6": "Template 6",
   "sharing.advanced.fontColor": "Font Color",
+  "sharing.advanced.shareQR": "Share QR Link",
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.email": "E-mail",
   "sharing.canvas.by": "by",
   "sharing.canvas.chapter": "Chapter {chapterNumber}",
   "sharing.canvas.publishesOn": "Publishes on {date}"

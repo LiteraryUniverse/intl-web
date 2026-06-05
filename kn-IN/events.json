@@ -1,6 +1,7 @@
 {
   "events.upcoming": "ಮುಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು",
   "events.settings.title": "ಕಾರ್ಯಕ್ರಮ ಸೆಟ್ಟಿಂಗ್ಗಳು",
+  "events.attendees.title": "Event attendees",
   "events.attendance.attending": "ಹಾಜರಾಗುವುದು",
   "events.attendance.tentative": "ಸಂಶಯಾತ್ಮಕ",
   "events.attendance.notAttending": "ಹಾಜರಾಗುವುದಿಲ್ಲ",
@@ -19,9 +20,7 @@
   "events.join.startsIn": "ಕಾರ್ಯಕ್ರಮ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ {startsAt}",
   "events.join.virtual": "ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಸೇರಿರಿ",
   "events.selection.origin": "ಕಾರ್ಯಕ್ರಮ ಮೂಲ",
-  "events.origin.universe": "ವಿಶ್ವ",
   "events.origin.author": "ಲೇಖಕ",
-  "events.origin.groups": "ಗುಂಪುಗಳು",
   "events.origin.organizations": "ಸಂಸ್ಥೆಗಳು",
   "events.origin.lu": "ಸಾಹಿತ್ಯ ಯುನಿವರ್ಸ್ ಕಾರ್ಯಕ್ರಮಗಳು",
   "events.visibility.label": "ಕಾರ್ಯಕ್ರಮ ದೃಶ್ಯತೆ",
@@ -37,5 +36,7 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ಖಾಸಗಿ",
   "event.visibilityShort.public": "ಪ್ರಸ್ತುತವನ್ನು",
-  "event.visibilityShort.owner": "ಮಾಲಿಕ"
+  "event.visibilityShort.owner": "ಮಾಲಿಕ",
+  "events.origin.universe": "ವಿಶ್ವ",
+  "events.origin.groups": "ಗುಂಪುಗಳು"
 }
