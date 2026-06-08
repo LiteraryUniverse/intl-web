@@ -86,5 +86,16 @@
   "org.members.emailInvite.registered": "Registered",
   "org.members.emailInvite.sent": "Invited by email",
   "org.members.joined": "Joined",
-  "org.roles.super_admin": "Super Admin"
+  "org.roles.super_admin": "Super Admin",
+  "org.admin.create.title": "Create organization",
+  "org.admin.create.button": "Create organization",
+  "org.admin.edit.title": "Edit organization",
+  "org.admin.type": "Type",
+  "org.admin.superAdmin.change": "Change",
+  "org.admin.superAdminRequired": "Please select a super admin.",
+  "org.admin.createFailed": "Could not create the organization.",
+  "org.admin.features.title": "Features",
+  "org.admin.features.workshop": "Workshop",
+  "org.admin.features.courses": "Courses",
+  "org.admin.features.bbb": "Video meetings (BBB)"
 }
