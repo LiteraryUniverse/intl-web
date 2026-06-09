@@ -706,6 +706,7 @@
   "courses.role.owner": "Owner",
   "courses.role.teacher": "Teacher",
   "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Video meetings are not available for this organization.",
   "common.diary": "Diary",
   "diary.about": "Your personal journal -- a private space to reflect, write, and grow as a thinker and storyteller.",
   "diary.today": "Today's Diary",
