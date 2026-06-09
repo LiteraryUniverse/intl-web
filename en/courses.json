@@ -210,5 +210,6 @@
   "course.assignment.yourSubmission": "Your submission",
   "courses.role.owner": "Owner",
   "courses.role.teacher": "Teacher",
-  "courses.role.student": "Student"
+  "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Video meetings are not available for this organization."
 }
