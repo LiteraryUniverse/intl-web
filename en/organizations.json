@@ -97,5 +97,8 @@
   "org.admin.features.title": "Features",
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Courses",
-  "org.admin.features.bbb": "Video meetings (BBB)"
+  "org.admin.features.bbb": "Video meetings (BBB)",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }
