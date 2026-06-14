@@ -54,5 +54,19 @@
   "group.noticeBoard": "게시판",
   "group.leaveGroup.modalAria": "그룹에서 탈퇴할 것인지 확인합니다.",
   "group.leaveGroup.heading": "{groupName}?",
-  "group.leaveGroup.explain": "그룹에서 탈퇴하면 그룹 리소스에 대한 액세스 권한이 상실되어 그룹과 상호 작용할 수 없게 됩니다."
+  "group.leaveGroup.explain": "그룹에서 탈퇴하면 그룹 리소스에 대한 액세스 권한이 상실되어 그룹과 상호 작용할 수 없게 됩니다.",
+  "groups.category.label": "Category",
+  "groups.category.none": "Select a category",
+  "groups.category.bookClub": "Book club",
+  "groups.category.academic": "Academic group",
+  "groups.category.authorCommunity": "Author community group",
+  "groups.category.church": "Church group",
+  "groups.category.community": "Community group",
+  "groups.category.family": "Family group",
+  "groups.category.hobbyist": "Hobbyist group",
+  "groups.category.writer": "Writer group",
+  "groups.category.other": "Other kind of group",
+  "groups.category.filter.label": "Filter by category:",
+  "groups.language.filter.label": "Filter by language:",
+  "groups.noticeBoard.heading": "Notice board"
 }

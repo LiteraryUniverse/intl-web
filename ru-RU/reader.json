@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "Эта глава требует приобретения",
   "reader.purchaseGate.description": "Чтобы продолжить чтение {storyTitle}{authorName, select, undefined {} other { по {authorName}}}, Вам необходимо приобрести его.",
   "reader.purchaseGate.buyArc": "Или купите эту дугу",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} глава} other {{count} главы}} включено"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} глава} other {{count} главы}} включено",
+  "story.chapter.freePreview": "Бесплатно",
+  "story.chapter.locked": "Заблокировано",
+  "story.translation.noPricing": "Пока недоступно для покупки",
+  "story.ownAlready": "У вас уже есть эта история.",
+  "story.buy": "Купить историю",
+  "reader.privatePurchaseBlocked.heading": "Эта глава вам недоступна",
+  "reader.privatePurchaseBlocked.message": "Эта история сейчас приватная, поэтому дополнительные покупки больше недоступны. Вы можете продолжать читать главы, которые уже приобрели, но эта глава не входит в ваши покупки.",
+  "reader.printDisabled": "Это лицензированный контент. Автор отключил печать текста истории."
 }

@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Valige see litsents",
   "licenses.commercial.title": "Kommertslitsentsi teave",
   "licenses.commercial.exclusive": "Selle eksklusiivse litsentsiga võtab Literary Universe 10% tasu teie sissetulekust. See tähendab, et te saate 90% tulust, mis on saadud teie tööga meie platvormil.",
-  "licenses.commercial.nonExclusive": "Selle mitte-eksklusiivse litsentsi puhul võtab Literary Universe 30% tasu teie sissetulekust meie platvormil. See tähendab, et te saate 70% oma tööga Literary Universe'is teenitud tuludest."
+  "licenses.commercial.nonExclusive": "Selle mitte-eksklusiivse litsentsi puhul võtab Literary Universe 30% tasu teie sissetulekust meie platvormil. See tähendab, et te saate 70% oma tööga Literary Universe'is teenitud tuludest.",
+  "licenses.commercial.info.title": "Commercial License Information",
+  "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
+  "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
+  "licenses.moreInfo": "More Information"
 }

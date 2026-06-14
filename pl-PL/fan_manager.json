@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "Nie znaleziono ukrytych fan artów.",
   "fanManager.rejected.nothingFound": "Nie znaleziono odrzuconych fan artów.",
   "fanManager.approved.nothingFound": "Nie znaleziono zatwierdzonych fan artów.",
-  "fanManager.submitted.nothingFound": "Nie znaleziono żadnych przesłanych prac fanowskich."
+  "fanManager.submitted.nothingFound": "Nie znaleziono żadnych przesłanych prac fanowskich.",
+  "fanManager.goToSettings": "Przejdź do ustawień",
+  "fanManager.authorComment.label": "Komentarz autora uniwersum tylko dla Ciebie: ",
+  "fanManager.publicComment.label": "Publiczny komentarz autora uniwersum: ",
+  "fanManager.allowComments": "Zezwól na komentarze",
+  "fanManager.item.settings": "Ustawienia {artTitle}",
+  "fanManager.stateChange.Hide": "Ukryj fan art",
+  "fanManager.for": "Menedżer fanów dla {universe}",
+  "fanManager.sort": "Sortuj",
+  "fanManager.sortByDate": "Sortuj według daty",
+  "fanManager.sortByLikes": "Sortuj według polubień",
+  "fanManager.fanArt.info": "Informacje o fan arcie",
+  "fanManager.form.submit": "Zgłoś swój fan art do {universe}",
+  "fanManager.thankYou.wait": "Musisz poczekać, aż autor uniwersum zatwierdzi Twój fan art",
+  "fanManager.thankYou": "Dziękujemy za zgłoszenie swojego fan artu!",
+  "fanManager.thankYou.goBack": "Wróć do fan artów {universe}"
 }

@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Vũ trụ này không cho phép hiển thị fan fiction.",
   "universe.storiesCount": "Tổng số câu chuyện trong vũ trụ",
   "universe.createdAt": "Tạo bởi: {date}",
-  "universe.authors.none": "Không có thông tin về tác giả."
+  "universe.authors.none": "Không có thông tin về tác giả.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Bu Evren hayran kurgusunu göstermeye izin vermez.",
   "universe.storiesCount": "Evrendeki toplam hikaye sayısı",
   "universe.createdAt": "Oluşturuldu: {date}",
-  "universe.authors.none": "Yazar bilgisi mevcut değildir."
+  "universe.authors.none": "Yazar bilgisi mevcut değildir.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

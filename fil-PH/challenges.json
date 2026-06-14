@@ -24,5 +24,9 @@
   "challenges.report": "Iulat",
   "challenges.victory": "Congratulations! Natapos mo ang hamong ito.",
   "challenges.defeat": "Sayang, hindi mo natapos ang hamong ito.",
-  "challenges.baseline": "Ang kasalukuyang bilang ng salita para sa kwentong ito ay {wordcount, number}, ito ang magiging simula."
+  "challenges.baseline": "Ang kasalukuyang bilang ng salita para sa kwentong ito ay {wordcount, number}, ito ang magiging simula.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

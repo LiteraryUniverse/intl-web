@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Виберіть вибрані відео",
   "feedback.help.featuredVideosDescription": "Ці відео будуть відображатися у вигляді слайдера на сторінці категорії. Відео повинні мати мініатюру для кращого вигляду.",
   "feedback.help.backToCategory": "Повернутися до категорії",
-  "feedback.help.watchVideo": "Переглянути відео"
+  "feedback.help.watchVideo": "Переглянути відео",
+  "feedback.help.noFeaturedCourses": "Поки немає рекомендованих курсів.",
+  "resolutionCenter.action.correctAgeRating": "Виправити віковий рейтинг",
+  "resolutionCenter.reportDetail": "Деталі скарги",
+  "resolutionCenter.dashboard.title": "Центр вирішення спорів"
 }

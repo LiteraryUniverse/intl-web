@@ -9,5 +9,6 @@
   "library.search.prompt": "Search your library to find content",
   "library.search.noFilters": "გთხოვთ, შეიყვანოთ საძიებო ტერმინები ან გამოიყენოთ ფილტრები",
   "library.search": "Search Your Library",
-  "library.ownedStories": "შეძენილი ამბები"
+  "library.ownedStories": "შეძენილი ამბები",
+  "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

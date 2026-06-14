@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Kuka voi nähdä tietosanakirjamerkintäni?",
   "faq.answer.encyclopedia.visibility": "Voit asettaa merkinnät tai osan merkinnöistä julkisiksi tai yksityisiksi.",
   "faq.question.encyclopedia.troubleshooting": "Mitä jos en löydä tai muokkaa merkintää?",
-  "faq.answer.encyclopedia.troubleshooting": "Kokeile päivittää sivu. Jos ongelma jatkuu, tarkista käyttöoikeudet tai ota yhteyttä asiakaspalveluun."
+  "faq.answer.encyclopedia.troubleshooting": "Kokeile päivittää sivu. Jos ongelma jatkuu, tarkista käyttöoikeudet tai ota yhteyttä asiakaspalveluun.",
+  "faq.section.organization": "Organizations"
 }

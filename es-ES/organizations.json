@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Registrado",
   "org.members.emailInvite.sent": "Invitado por correo electrónico",
   "org.members.joined": "Se unió a",
-  "org.roles.super_admin": "Super Admin"
+  "org.roles.super_admin": "Super Admin",
+  "organization.blog.title": "{organization} - Noticias",
+  "organization.courses.title": "Cursos de {orgName}",
+  "organization.courses.none": "Esta organización todavía no ha publicado ningún curso."
 }

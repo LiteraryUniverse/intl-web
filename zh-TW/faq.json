@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "誰可以看到我的百科全書條目？",
   "faq.answer.encyclopedia.visibility": "您可以設定詞條或部分詞條為公開或隱私。",
   "faq.question.encyclopedia.troubleshooting": "如果我找不到或無法編輯條目，該怎麼辦？",
-  "faq.answer.encyclopedia.troubleshooting": "嘗試刷新頁面。如果問題仍然存在，請檢查您的權限或聯絡支援。"
+  "faq.answer.encyclopedia.troubleshooting": "嘗試刷新頁面。如果問題仍然存在，請檢查您的權限或聯絡支援。",
+  "faq.section.organization": "Organizations"
 }

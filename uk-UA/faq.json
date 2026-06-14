@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Хто може бачити мої статті в енциклопедії?",
   "faq.answer.encyclopedia.visibility": "Ви можете зробити записи або частину записів публічними або приватними.",
   "faq.question.encyclopedia.troubleshooting": "Що робити, якщо я не можу знайти або відредагувати запис?",
-  "faq.answer.encyclopedia.troubleshooting": "Спробуйте оновити сторінку. Якщо проблема не зникне, перевірте права доступу або зверніться до служби підтримки."
+  "faq.answer.encyclopedia.troubleshooting": "Спробуйте оновити сторінку. Якщо проблема не зникне, перевірте права доступу або зверніться до служби підтримки.",
+  "faq.section.organization": "Організації"
 }

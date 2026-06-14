@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Selectați această licență",
   "licenses.commercial.title": "Informații privind licența comercială",
   "licenses.commercial.exclusive": "Cu această licență exclusivă, Literary Universe va percepe o taxă de 10% din câștigurile tale. Acest lucru înseamnă că veți primi 90% din veniturile generate de lucrările dvs. pe platforma noastră.",
-  "licenses.commercial.nonExclusive": "Cu această licență neexclusivă, Literary Universe va încasa o taxă de 30% din câștigurile dvs. de pe platforma noastră. Aceasta înseamnă că veți primi 70% din veniturile generate de lucrările dvs. pe Literary Universe."
+  "licenses.commercial.nonExclusive": "Cu această licență neexclusivă, Literary Universe va încasa o taxă de 30% din câștigurile dvs. de pe platforma noastră. Aceasta înseamnă că veți primi 70% din veniturile generate de lucrările dvs. pe Literary Universe.",
+  "licenses.commercial.info.title": "Commercial License Information",
+  "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
+  "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
+  "licenses.moreInfo": "More Information"
 }

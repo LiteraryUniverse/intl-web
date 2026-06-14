@@ -93,5 +93,6 @@
 	"signup.stepCount": "Крок {current, number} від {total, number}",
 	"signup.writer.goals.description": "Розкажіть про свій письменницький досвід.",
 	"signup.complete.title": "Все готово!",
-	"signup.complete.description": "Дякуємо, що заповнили свій профіль. Ми налаштували ваш досвід відповідно до ваших уподобань."
+	"signup.complete.description": "Дякуємо, що заповнили свій профіль. Ми налаштували ваш досвід відповідно до ваших уподобань.",
+	"signup.password2.label": "Підтвердьте пароль"
 }

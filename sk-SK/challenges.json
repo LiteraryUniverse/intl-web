@@ -24,5 +24,9 @@
   "challenges.report": "Prehľad",
   "challenges.victory": "Gratulujeme! Túto výzvu ste splnili.",
   "challenges.defeat": "Bohužiaľ ste túto výzvu nedokončili.",
-  "challenges.baseline": "Aktuálny počet slov pre tento príbeh je {wordcount, number}, to bude východiskový bod."
+  "challenges.baseline": "Aktuálny počet slov pre tento príbeh je {wordcount, number}, to bude východiskový bod.",
+  "challenges.day": "Deň",
+  "challenges.words": "Slová",
+  "challenges.actualProgress": "Deň {day}: {words} slov",
+  "challenges.minimumRequired": "Minimálne potrebné: {words} slov"
 }

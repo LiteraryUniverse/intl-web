@@ -54,5 +54,19 @@
   "group.noticeBoard": "Доска объявлений",
   "group.leaveGroup.modalAria": "Подтвердите, что вы хотите покинуть группу.",
   "group.leaveGroup.heading": "Вы уверены, что хотите покинуть «{groupName}»?",
-  "group.leaveGroup.explain": "Выход из группы означает, что вы потеряете доступ к ресурсам группы и не сможете взаимодействовать с ней."
+  "group.leaveGroup.explain": "Выход из группы означает, что вы потеряете доступ к ресурсам группы и не сможете взаимодействовать с ней.",
+  "groups.category.label": "Категория",
+  "groups.category.none": "Выберите категорию",
+  "groups.category.bookClub": "Книжный клуб",
+  "groups.category.academic": "Академическая группа",
+  "groups.category.authorCommunity": "Сообщество авторов",
+  "groups.category.church": "Церковная группа",
+  "groups.category.community": "Группа сообщества",
+  "groups.category.family": "Семейная группа",
+  "groups.category.hobbyist": "Группа по интересам",
+  "groups.category.writer": "Группа писателей",
+  "groups.category.other": "Другой тип группы",
+  "groups.category.filter.label": "Фильтр по категории:",
+  "groups.language.filter.label": "Фильтр по языку:",
+  "groups.noticeBoard.heading": "Доска объявлений"
 }

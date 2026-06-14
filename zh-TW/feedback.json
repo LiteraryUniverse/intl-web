@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "選擇特色影片",
   "feedback.help.featuredVideosDescription": "這些影片將顯示在類別頁面的滑桿中。影片應有縮圖，以達到最佳外觀。",
   "feedback.help.backToCategory": "回到類別",
-  "feedback.help.watchVideo": "觀看影片"
+  "feedback.help.watchVideo": "觀看影片",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

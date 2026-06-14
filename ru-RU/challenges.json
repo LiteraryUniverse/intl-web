@@ -24,5 +24,9 @@
   "challenges.report": "Сообщить",
   "challenges.victory": "Поздравляем! Вы выполнили это испытание.",
   "challenges.defeat": "К сожалению, вы не выполнили это испытание.",
-  "challenges.baseline": "Текущее количество слов для этой истории равно {wordcount, number}, это и будет отправной точкой."
+  "challenges.baseline": "Текущее количество слов для этой истории равно {wordcount, number}, это и будет отправной точкой.",
+  "challenges.day": "День",
+  "challenges.words": "Слова",
+  "challenges.actualProgress": "День {day}: {words} слов",
+  "challenges.minimumRequired": "Минимум требуется: {words} слов"
 }

@@ -24,5 +24,9 @@
   "challenges.report": "রিপোর্ট",
   "challenges.victory": "অভিনন্দন! আপনি এই চ্যালেঞ্জটি সম্পন্ন করেছেন।",
   "challenges.defeat": "দুঃখিত আপনি এই চ্যালেঞ্জটি সম্পন্ন করেননি।",
-  "challenges.baseline": "এই গল্পৰ বৰ্তমান শব্দগণনা {wordcount, number}, এইটো শুৰুৱাতী বিন্দু হব।"
+  "challenges.baseline": "এই গল্পৰ বৰ্তমান শব্দগণনা {wordcount, number}, এইটো শুৰুৱাতী বিন্দু হব।",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

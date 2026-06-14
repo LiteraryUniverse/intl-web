@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "დარეგისტრირებული",
   "org.members.emailInvite.sent": "დაპატიჟებული ელფოსტით",
   "org.members.joined": "შემოერთდა",
-  "org.roles.super_admin": "სუპერ ადმინი"
+  "org.roles.super_admin": "სუპერ ადმინი",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

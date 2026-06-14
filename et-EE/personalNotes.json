@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Parandusteksti plokk",
   "personalNotes.recentSearches": "Viimased otsingud:",
   "personalNotes.myNotes": "Minu isiklikud märkmed",
-  "personalNotes.hasNotes": "Omab isiklikke märkmeid"
+  "personalNotes.hasNotes": "Omab isiklikke märkmeid",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

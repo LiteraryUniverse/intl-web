@@ -61,5 +61,14 @@
   "sharing.advanced.printTemplate6": "Mall 6",
   "sharing.advanced.fontColor": "Font färg",
   "sharing.advanced.shareQR": "Share QR Link",
-  "sharing.advanced.displayLanguage": "Display language"
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.advanced.showPublicationDate": "Show future publication date",
+  "sharing.advanced.backgroundImage": "Background image",
+  "sharing.advanced.genreBackgroundOption": "Genre",
+  "sharing.advanced.uploadingBackground": "Uploading…",
+  "sharing.advanced.uploadBackground": "+ Upload",
+  "sharing.advanced.shareWithQR": "Share with QR",
+  "sharing.advanced.bgLimitReached": "You have reached the maximum number of background images for your subscription.",
+  "sharing.advanced.bgUploadError": "Failed to upload background image.",
+  "sharing.advanced.deleteBackground": "Delete background"
 }

@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "Цей розділ потрібно придбати",
   "reader.purchaseGate.description": "Щоб продовжити читання {storyTitle}{authorName, select, undefined {} other { на {authorName}}}, вам потрібно його придбати.",
   "reader.purchaseGate.buyArc": "Або купити цю дугу",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} розділ} other {{count} глави}} включено"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} розділ} other {{count} глави}} включено",
+  "story.chapter.freePreview": "Безкоштовно",
+  "story.chapter.locked": "Заблоковано",
+  "story.translation.noPricing": "Поки недоступно для придбання",
+  "story.ownAlready": "Ви вже володієте цією історією.",
+  "story.buy": "Купити історію",
+  "reader.privatePurchaseBlocked.heading": "Цей розділ вам недоступний",
+  "reader.privatePurchaseBlocked.message": "Ця історія наразі приватна, тому додаткові покупки більше недоступні. Ви можете продовжувати читати вже придбані розділи, але цей розділ не входить до ваших покупок.",
+  "reader.printDisabled": "Це ліцензований контент. Автор вимкнув друк тексту історії."
 }

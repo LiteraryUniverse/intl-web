@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "이 장은 구매가 필요합니다.",
   "reader.purchaseGate.description": "{storyTitle}{authorName, select, undefined {} other { {authorName}}}를 계속 읽으려면 구매해야 합니다.",
   "reader.purchaseGate.buyArc": "또는 이 아크를 구입하세요.",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} 챕터} other {{count} 챕터}} 포함됨"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} 챕터} other {{count} 챕터}} 포함됨",
+  "story.chapter.freePreview": "Free",
+  "story.chapter.locked": "Locked",
+  "story.translation.noPricing": "Not yet available for purchase",
+  "story.ownAlready": "You already own this story.",
+  "story.buy": "Buy story",
+  "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
+  "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
 }

@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "Horror",
   "resume.theme.militarySciFi": "Militaire Sci-Fi",
-  "resume.theme.artDeco": "Art Deco"
+  "resume.theme.artDeco": "Art Deco",
+  "resume.editor.stories.hasPreview": "(heeft uitgeversvoorbeeld)",
+  "resume.editor.stories.heading": "Selecteer verhalen om te tonen",
+  "resume.editor.stories.description": "Kies welke gepubliceerde verhalen je in je cv wilt opnemen. Verhalen met uitgeversvoorbeelden zijn standaard geselecteerd.",
+  "resume.editor.stories.standalone": "Op zichzelf staande verhalen",
+  "resume.reader.loading": "Voorbeeld laden...",
+  "resume.reader.publisherPreview": "Uitgeversvoorbeeld",
+  "resume.reader.previewRange": "Hoofdstukken {from}–{to} worden getoond (uitgeversvoorbeeld)",
+  "resume.reader.loadingChapter": "Hoofdstuk laden...",
+  "resume.reader.chapterNotFound": "Hoofdstuk niet beschikbaar."
 }

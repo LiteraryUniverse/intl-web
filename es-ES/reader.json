@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "Este capítulo requiere la compra",
   "reader.purchaseGate.description": "Para continuar leyendo {storyTitle}{authorName, select, undefined {} other { por {authorName}}}, necesita adquirirlo.",
   "reader.purchaseGate.buyArc": "O compre este arco",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} capítulo} other {{count} capítulos}} incluido"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} capítulo} other {{count} capítulos}} incluido",
+  "story.chapter.freePreview": "Gratis",
+  "story.chapter.locked": "Bloqueado",
+  "story.translation.noPricing": "Todavía no está disponible para la compra",
+  "story.ownAlready": "Ya posees esta historia.",
+  "story.buy": "Comprar historia",
+  "reader.privatePurchaseBlocked.heading": "Este capítulo no está disponible para ti",
+  "reader.privatePurchaseBlocked.message": "Esta historia es actualmente privada, por lo que ya no es posible realizar compras adicionales. Puedes seguir leyendo los capítulos que ya compraste, pero este capítulo no está incluido en tus compras.",
+  "reader.printDisabled": "Este es contenido con licencia. El autor ha deshabilitado la impresión del texto de la historia."
 }

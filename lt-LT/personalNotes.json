@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Peržiūros teksto blokas",
   "personalNotes.recentSearches": "Neseniai ieškota:",
   "personalNotes.myNotes": "Mano asmeninės pastabos",
-  "personalNotes.hasNotes": "Turi asmeninių pastabų"
+  "personalNotes.hasNotes": "Turi asmeninių pastabų",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

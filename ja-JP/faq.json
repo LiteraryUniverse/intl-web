@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "誰が私の百科事典の項目を見ることができますか？",
   "faq.answer.encyclopedia.visibility": "エントリーまたはエントリーの一部を公開または非公開に設定することができます。",
   "faq.question.encyclopedia.troubleshooting": "エントリーが見つからない、編集できない場合は？",
-  "faq.answer.encyclopedia.troubleshooting": "ページを更新してみてください。問題が解決しない場合は、権限を確認するか、サポートにお問い合わせください。"
+  "faq.answer.encyclopedia.troubleshooting": "ページを更新してみてください。問題が解決しない場合は、権限を確認するか、サポートにお問い合わせください。",
+  "faq.section.organization": "Organizations"
 }

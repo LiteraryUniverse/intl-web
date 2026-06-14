@@ -103,5 +103,12 @@
   "theWay.task.universePublicationCount.description": "Nic nie dzieje się w próżni. Posiadanie uniwersum, które można budować i dzielić się nim między historiami lub po prostu w celu nadania pisaniu większej głębi, jest niezbędne.",
   "theWay.task.wordCount.title": "Reach a word count milestone",
   "theWay.task.wordCount.progress": "Current word count: {currentValue, number}/{targetValue, number}",
-  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way."
+  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way.",
+  "theWay.genreSelector.label": "Wybierz gatunek",
+  "theWay.genreSelector.placeholder": "Wybierz gatunek...",
+  "theWay.badge.title": "Poziom autora",
+  "theWay.badge.level": "Poziom {level}",
+  "theWay.progress.currentStreak": "Bieżąca passa: {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Opublikowano {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Gratulacje! Ty"
 }

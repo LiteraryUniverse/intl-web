@@ -24,5 +24,8 @@
   "personalNotes.chapter": "അദ്ധ്യായം",
   "personalNotes.recentSearches": "പുതിയ തിരയൽകൾ:",
   "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes"
+  "personalNotes.hasNotes": "Has Personal Notes",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

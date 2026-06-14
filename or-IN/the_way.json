@@ -106,5 +106,12 @@
   "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way.",
   "theWay.task.contestsPlacing.title": "Place in literary contests",
   "theWay.task.contestsPlacing.progress": "Current contests placed: {currentValue, number}/{targetValue, number}",
-  "theWay.task.contestsPlacing.description": "Enter literary contests to gain recognition and improve your writing skills!"
+  "theWay.task.contestsPlacing.description": "Enter literary contests to gain recognition and improve your writing skills!",
+  "theWay.genreSelector.label": "Select Genre",
+  "theWay.genreSelector.placeholder": "Select a genre...",
+  "theWay.badge.title": "Author Level",
+  "theWay.badge.level": "Level {level}",
+  "theWay.progress.currentStreak": "Current Streak: {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Published {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Congratulations! You"
 }

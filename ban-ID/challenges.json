@@ -45,5 +45,9 @@
   "nanowrimo.error.nobook": "No book has been found. Please make sure you have created your book on NaNoWriMo.",
   "nanowrimo.error.wordcount": "Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.",
   "nanowrimo.connected": "You have designated this story for NaNoWriMo.",
-  "nanowrimo.connected.other": "You have already connected another story."
+  "nanowrimo.connected.other": "You have already connected another story.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

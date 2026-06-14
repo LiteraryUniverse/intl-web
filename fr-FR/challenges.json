@@ -24,5 +24,9 @@
   "challenges.report": "Signaler",
   "challenges.victory": "Félicitations ! Vous avez réussi ce défi.",
   "challenges.defeat": "Malheureusement, vous n'avez pas réussi à relever ce défi.",
-  "challenges.baseline": "Le nombre de mots actuel pour cette histoire est {wordcount, number}, ce sera le point de départ."
+  "challenges.baseline": "Le nombre de mots actuel pour cette histoire est {wordcount, number}, ce sera le point de départ.",
+  "challenges.day": "Jour",
+  "challenges.words": "Mots",
+  "challenges.actualProgress": "Jour {day} : {words} mots",
+  "challenges.minimumRequired": "Minimum requis : {words} mots"
 }

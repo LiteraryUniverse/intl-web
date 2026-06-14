@@ -61,5 +61,14 @@
   "sharing.advanced.printTemplate6": "Šablóna 6",
   "sharing.advanced.fontColor": "Farba písma",
   "sharing.advanced.shareQR": "Share QR Link",
-  "sharing.advanced.displayLanguage": "Display language"
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.advanced.showPublicationDate": "Zobraziť budúci dátum publikovania",
+  "sharing.advanced.backgroundImage": "Obrázok pozadia",
+  "sharing.advanced.genreBackgroundOption": "Žáner",
+  "sharing.advanced.uploadingBackground": "Nahráva sa…",
+  "sharing.advanced.uploadBackground": "+ Nahrať",
+  "sharing.advanced.shareWithQR": "Zdieľať pomocou QR",
+  "sharing.advanced.bgLimitReached": "Dosiahli ste maximálny počet obrázkov pozadia pre vaše predplatné.",
+  "sharing.advanced.bgUploadError": "Nepodarilo sa nahrať obrázok pozadia.",
+  "sharing.advanced.deleteBackground": "Odstrániť pozadie"
 }

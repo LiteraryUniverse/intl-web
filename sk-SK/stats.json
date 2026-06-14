@@ -137,5 +137,19 @@
   "stats.sales.perStory.purchases": "Purchases",
   "stats.sales.perStory.revenue": "Revenue",
   "stats.sales.overview.title": "Sales Overview",
-  "stats.sales.overview.description": "Overview of all your sales across stories."
+  "stats.sales.overview.description": "Overview of all your sales across stories.",
+  "stats.noPosts": "Žiadne dostupné príspevky na blogu.",
+  "stats.noChapters": "Žiadne dostupné štatistiky kapitol.",
+  "stats.count": "Počet",
+  "stats.views": "zobrazení",
+  "stats.visitors": "návštevníkov",
+  "stats.chapter.number": "Kapitola",
+  "stats.characterCount": "{count} znakov",
+  "stats.chapterReadingTime.title": "Čas čítania podľa kapitoly",
+  "stats.chapterReadingTime.noData": "Pre tento jazyk zatiaľ nie sú dostupné žiadne údaje o čase čítania. Údaje sa zobrazia, keď čitatelia strávia čas pri vašich kapitolách.",
+  "stats.chapterReadingTime.chapter": "Kapitola",
+  "stats.chapterReadingTime.chapterTitle": "Názov",
+  "stats.chapterReadingTime.totalTime": "Celkový čas čítania",
+  "stats.hits.comingSoon": "Graf zobrazení v čase čoskoro pribudne...",
+  "stats.visitors.comingSoon": "Graf návštevníkov v čase čoskoro pribudne..."
 }

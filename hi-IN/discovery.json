@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "व्यक्तिगत स्टोरी आर्क खरीदने के लिए लॉग इन करें",
   "story.purchase.pricingUnavailable": "मूल्य की जानकारी वर्तमान में उपलब्ध नहीं है।",
   "story.buy.error.timeout": "अनुरोध समय-सीमा समाप्त हो गया। कृपया फिर से प्रयास करें।",
-  "story.chapter.freePreviewEnds": "मुफ्त पूर्वावलोकन यहीं समाप्त होता है"
+  "story.chapter.freePreviewEnds": "मुफ्त पूर्वावलोकन यहीं समाप्त होता है",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

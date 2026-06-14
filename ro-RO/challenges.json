@@ -24,5 +24,9 @@
   "challenges.report": "Raport",
   "challenges.victory": "Felicitări! Ai finalizat această provocare.",
   "challenges.defeat": "Din păcate, nu ai finalizat această provocare.",
-  "challenges.baseline": "Numărul actual de cuvinte pentru această poveste este {wordcount, number}, acesta va fi punctul de plecare."
+  "challenges.baseline": "Numărul actual de cuvinte pentru această poveste este {wordcount, number}, acesta va fi punctul de plecare.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

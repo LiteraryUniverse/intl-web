@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Verfolgen Sie die Zeit, die Sie für das Schreiben von Geschichten, Kapiteln und Enzyklopädieeinträgen aufwenden. Dazu gehören detaillierte Metriken wie Tippaktivitäten, Wortanzahl und Tageszeitmuster.",
   "settings.tracking.trackWritingTime": "Schreibzeit verfolgen",
   "settings.tracking.trackReadingTime": "Lesezeit verfolgen",
-  "settings.tracking.trackBlogWritingTime": "Verfolgen Sie die Zeit zum Schreiben Ihres Blogs"
+  "settings.tracking.trackBlogWritingTime": "Verfolgen Sie die Zeit zum Schreiben Ihres Blogs",
+  "settings.apiKeys.create.title": "Neuen API-Schlüssel erstellen",
+  "settings.apiKeys.create": "Neuen API-Schlüssel erstellen",
+  "settings.interests.description": "Erzählen Sie uns von Ihren Lesevorlieben, damit wir Ihnen Inhalte empfehlen können, die zu Ihren Interessen passen.",
+  "settings.interests.genres": "Lieblingsgenres",
+  "settings.interests.genres.help": "Wählen Sie Genres aus, die Sie interessieren.",
+  "settings.interests.tags": "Lieblings-Tags",
+  "settings.interests.tags.help": "Wählen Sie bis zu 20 Tags aus, die Sie interessieren."
 }

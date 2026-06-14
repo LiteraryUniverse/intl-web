@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "ติดตามเวลาที่ใช้ในการเขียนเรื่องราว บท และบทความในสารานุกรม ซึ่งรวมถึงการวัดผลอย่างละเอียด เช่น กิจกรรมในการพิมพ์ จำนวนคำ และรูปแบบของเวลาในแต่ละวัน",
   "settings.tracking.trackWritingTime": "ติดตามเวลาการเขียน",
   "settings.tracking.trackReadingTime": "ติดตามเวลาการอ่าน",
-  "settings.tracking.trackBlogWritingTime": "ติดตามเวลาที่ใช้ในการเขียนบล็อก"
+  "settings.tracking.trackBlogWritingTime": "ติดตามเวลาที่ใช้ในการเขียนบล็อก",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

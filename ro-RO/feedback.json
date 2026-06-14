@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Selectați videoclipuri recomandate",
   "feedback.help.featuredVideosDescription": "Aceste videoclipuri vor fi afișate într-un slider pe pagina categoriei. Videoclipurile ar trebui să aibă o miniatură pentru un aspect optim.",
   "feedback.help.backToCategory": "Înapoi la categorie",
-  "feedback.help.watchVideo": "Urmărește videoclipul"
+  "feedback.help.watchVideo": "Urmărește videoclipul",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

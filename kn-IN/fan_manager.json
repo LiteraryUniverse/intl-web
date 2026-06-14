@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "ಮರುಹೊಂದಿಲ್ಲದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
   "fanManager.rejected.nothingFound": "ಮರುಮರ್ಜನೆ ಮಾಡಲಾಗದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
   "fanManager.approved.nothingFound": "ಅನುಮೋದಿಸಲಾದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
-  "fanManager.submitted.nothingFound": "ಯಾವುದೇ ಸಲ್ಲಿಸಲಾದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದವು ಇಲ್ಲ."
+  "fanManager.submitted.nothingFound": "ಯಾವುದೇ ಸಲ್ಲಿಸಲಾದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದವು ಇಲ್ಲ.",
+  "fanManager.goToSettings": "Go to settings",
+  "fanManager.authorComment.label": "Comment from the universe author just for you: ",
+  "fanManager.publicComment.label": "Public comment from the universe author: ",
+  "fanManager.allowComments": "Allow comments",
+  "fanManager.item.settings": "{artTitle} settings",
+  "fanManager.stateChange.Hide": "Hide fan art",
+  "fanManager.for": "Fan manager for {universe}",
+  "fanManager.sort": "Sort",
+  "fanManager.sortByDate": "Sort by date",
+  "fanManager.sortByLikes": "Sort by likes",
+  "fanManager.fanArt.info": "Fan Art Info",
+  "fanManager.form.submit": "Submit your fan art to {universe}",
+  "fanManager.thankYou.wait": "You will need to wait for universe author to approve your fan art",
+  "fanManager.thankYou": "Thank you for submitting your fan art!",
+  "fanManager.thankYou.goBack": "Go back to {universe} fan arts"
 }

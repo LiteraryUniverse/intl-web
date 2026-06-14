@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Select This License",
   "licenses.commercial.title": "Commercial License Information",
   "licenses.commercial.exclusive": "Với giấy phép độc quyền này, Literary Universe sẽ thu 10% phí từ thu nhập của bạn. Điều này có nghĩa là bạn sẽ nhận được 90% doanh thu được tạo ra từ tác phẩm của bạn trên nền tảng của chúng tôi.",
-  "licenses.commercial.nonExclusive": "Với giấy phép không độc quyền này, Literary Universe sẽ thu 30% phí từ thu nhập của bạn trên nền tảng của chúng tôi. Điều này có nghĩa là bạn sẽ nhận được 70% doanh thu được tạo ra từ tác phẩm của bạn trên Literary Universe."
+  "licenses.commercial.nonExclusive": "Với giấy phép không độc quyền này, Literary Universe sẽ thu 30% phí từ thu nhập của bạn trên nền tảng của chúng tôi. Điều này có nghĩa là bạn sẽ nhận được 70% doanh thu được tạo ra từ tác phẩm của bạn trên Literary Universe.",
+  "licenses.commercial.info.title": "Commercial License Information",
+  "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
+  "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
+  "licenses.moreInfo": "More Information"
 }

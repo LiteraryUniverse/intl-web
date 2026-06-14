@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Acompanhe o tempo gasto escrevendo histórias, capítulos e verbetes de enciclopédia. Isso inclui métricas detalhadas, como atividade de digitação, contagem de palavras e padrões de horário do dia.",
   "settings.tracking.trackWritingTime": "Controle o tempo de escrita",
   "settings.tracking.trackReadingTime": "Acompanhar o tempo de leitura",
-  "settings.tracking.trackBlogWritingTime": "Controle o tempo de redação do blog"
+  "settings.tracking.trackBlogWritingTime": "Controle o tempo de redação do blog",
+  "settings.apiKeys.create.title": "Criar nova chave de API",
+  "settings.apiKeys.create": "Criar nova chave de API",
+  "settings.interests.description": "Conte-nos sobre suas preferências de leitura para nos ajudar a recomendar conteúdo que combine com seus interesses.",
+  "settings.interests.genres": "Gêneros favoritos",
+  "settings.interests.genres.help": "Selecione os gêneros que lhe interessam.",
+  "settings.interests.tags": "Tags favoritas",
+  "settings.interests.tags.help": "Selecione até 20 tags que lhe interessam."
 }

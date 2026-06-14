@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Registrováno",
   "org.members.emailInvite.sent": "Pozváno e-mailem",
   "org.members.joined": "Připojil se k",
-  "org.roles.super_admin": "Super administrátor"
+  "org.roles.super_admin": "Super administrátor",
+  "organization.blog.title": "{organization} – Novinky",
+  "organization.courses.title": "Kurzy od {orgName}",
+  "organization.courses.none": "Tato organizace zatím nezveřejnila žádné kurzy."
 }

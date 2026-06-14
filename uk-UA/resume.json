@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Стимпанк",
   "resume.theme.horror": "Жах",
   "resume.theme.militarySciFi": "Військова фантастика",
-  "resume.theme.artDeco": "Арт-деко"
+  "resume.theme.artDeco": "Арт-деко",
+  "resume.editor.stories.hasPreview": "(має видавничий перегляд)",
+  "resume.editor.stories.heading": "Виберіть історії для показу",
+  "resume.editor.stories.description": "Виберіть, які опубліковані історії включити до вашого резюме. Історії з видавничими переглядами вибрані за замовчуванням.",
+  "resume.editor.stories.standalone": "Окремі історії",
+  "resume.reader.loading": "Завантаження перегляду...",
+  "resume.reader.publisherPreview": "Видавничий перегляд",
+  "resume.reader.previewRange": "Показано розділи {from}–{to} (видавничий перегляд)",
+  "resume.reader.loadingChapter": "Завантаження розділу...",
+  "resume.reader.chapterNotFound": "Розділ недоступний."
 }

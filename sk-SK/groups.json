@@ -54,5 +54,19 @@
   "group.noticeBoard": "Informačná tabuľa",
   "group.leaveGroup.modalAria": "Potvrdenie, že chcete opustiť skupinu.",
   "group.leaveGroup.heading": "Ste si istí, že chcete opustiť {groupName}?",
-  "group.leaveGroup.explain": "Opustenie skupiny znamená, že stratíte prístup k jej zdrojom a nebudete s ňou môcť komunikovať."
+  "group.leaveGroup.explain": "Opustenie skupiny znamená, že stratíte prístup k jej zdrojom a nebudete s ňou môcť komunikovať.",
+  "groups.category.label": "Kategória",
+  "groups.category.none": "Vyberte kategóriu",
+  "groups.category.bookClub": "Knižný klub",
+  "groups.category.academic": "Akademická skupina",
+  "groups.category.authorCommunity": "Skupina autorskej komunity",
+  "groups.category.church": "Cirkevná skupina",
+  "groups.category.community": "Komunitná skupina",
+  "groups.category.family": "Rodinná skupina",
+  "groups.category.hobbyist": "Skupina nadšencov",
+  "groups.category.writer": "Skupina spisovateľov",
+  "groups.category.other": "Iný druh skupiny",
+  "groups.category.filter.label": "Filtrovať podľa kategórie:",
+  "groups.language.filter.label": "Filtrovať podľa jazyka:",
+  "groups.noticeBoard.heading": "Nástenka"
 }

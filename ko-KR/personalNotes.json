@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "개정 텍스트 블록",
   "personalNotes.recentSearches": "최근 검색:",
   "personalNotes.myNotes": "내 개인 노트",
-  "personalNotes.hasNotes": "개인 메모 있음"
+  "personalNotes.hasNotes": "개인 메모 있음",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

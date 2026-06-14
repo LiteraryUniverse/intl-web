@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Módosítási szöveg blokk",
   "personalNotes.recentSearches": "Legutóbbi keresések:",
   "personalNotes.myNotes": "Személyes jegyzeteim",
-  "personalNotes.hasNotes": "Személyes megjegyzésekkel rendelkezik"
+  "personalNotes.hasNotes": "Személyes megjegyzésekkel rendelkezik",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

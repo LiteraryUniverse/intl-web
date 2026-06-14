@@ -93,5 +93,6 @@
 	"signup.stepCount": "步驟 {current, number} 的 {total, number}",
 	"signup.writer.goals.description": "請告訴我們您的寫作經驗。",
 	"signup.complete.title": "你都準備好了！",
-	"signup.complete.description": "感謝您填寫您的個人資料。我們已根據您的喜好，為您量身打造您的體驗。"
+	"signup.complete.description": "感謝您填寫您的個人資料。我們已根據您的喜好，為您量身打造您的體驗。",
+	"signup.password2.label": "Confirm password"
 }

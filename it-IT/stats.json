@@ -137,5 +137,19 @@
   "stats.sales.perStory.purchases": "Purchases",
   "stats.sales.perStory.revenue": "Revenue",
   "stats.sales.overview.title": "Sales Overview",
-  "stats.sales.overview.description": "Overview of all your sales across stories."
+  "stats.sales.overview.description": "Overview of all your sales across stories.",
+  "stats.noPosts": "Nessun post del blog disponibile.",
+  "stats.noChapters": "Nessuna statistica sui capitoli disponibile.",
+  "stats.count": "Conteggio",
+  "stats.views": "visualizzazioni",
+  "stats.visitors": "visitatori",
+  "stats.chapter.number": "Capitolo",
+  "stats.characterCount": "{count} caratteri",
+  "stats.chapterReadingTime.title": "Tempo di lettura per capitolo",
+  "stats.chapterReadingTime.noData": "Nessun dato sul tempo di lettura ancora disponibile per questa lingua. I dati appariranno man mano che i lettori dedicheranno tempo ai tuoi capitoli.",
+  "stats.chapterReadingTime.chapter": "Capitolo",
+  "stats.chapterReadingTime.chapterTitle": "Titolo",
+  "stats.chapterReadingTime.totalTime": "Tempo di lettura totale",
+  "stats.hits.comingSoon": "Il grafico delle visite nel tempo sarà presto disponibile...",
+  "stats.visitors.comingSoon": "Il grafico dei visitatori nel tempo sarà presto disponibile..."
 }

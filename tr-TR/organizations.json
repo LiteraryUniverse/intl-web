@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Kayıtlı",
   "org.members.emailInvite.sent": "E-posta ile davet edildi",
   "org.members.joined": "Katıldım",
-  "org.roles.super_admin": "Süper Yönetici"
+  "org.roles.super_admin": "Süper Yönetici",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

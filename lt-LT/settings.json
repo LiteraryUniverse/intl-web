@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Stebėkite laiką, sugaištą rašant istorijas, skyrius ir enciklopedijos įrašus. Tai apima išsamius rodiklius, tokius kaip spausdinimo veikla, žodžių skaičius ir dienos laiko modeliai.",
   "settings.tracking.trackWritingTime": "Stebėti rašymo laiką",
   "settings.tracking.trackReadingTime": "Stebėti skaitymo laiką",
-  "settings.tracking.trackBlogWritingTime": "Stebėti tinklaraščio rašymo laiką"
+  "settings.tracking.trackBlogWritingTime": "Stebėti tinklaraščio rašymo laiką",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

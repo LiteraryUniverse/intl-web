@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "இந்த அத்தியாயத்தை வாங்க வேண்டும்",
   "reader.purchaseGate.description": "To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.",
   "reader.purchaseGate.buyArc": "அல்லது இந்த ஆர்க்கை வாங்குங்கள்",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} அத்தியாயம்} other {{count} அத்தியாயங்கள்}} சேர்க்கப்பட்டுள்ளது"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} அத்தியாயம்} other {{count} அத்தியாயங்கள்}} சேர்க்கப்பட்டுள்ளது",
+  "story.chapter.freePreview": "Free",
+  "story.chapter.locked": "Locked",
+  "story.translation.noPricing": "Not yet available for purchase",
+  "story.ownAlready": "You already own this story.",
+  "story.buy": "Buy story",
+  "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
+  "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
 }

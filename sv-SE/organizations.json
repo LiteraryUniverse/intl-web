@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Registrerad",
   "org.members.emailInvite.sent": "Inbjuden via e-post",
   "org.members.joined": "Ansluten",
-  "org.roles.super_admin": "Superadministratör"
+  "org.roles.super_admin": "Superadministratör",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

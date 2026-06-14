@@ -24,5 +24,9 @@
   "challenges.report": "अहवाल",
   "challenges.victory": "अभिनंदन! तुम्ही हा आव्हान पूर्ण केला आहे.",
   "challenges.defeat": "दुर्दैवाने तुम्ही हा आव्हान पूर्ण केला नाही.",
-  "challenges.baseline": "या कथेची सध्या शब्दांची संख्या {wordcount, number}आहे, ही सुरुवातीची बिंदू असेल."
+  "challenges.baseline": "या कथेची सध्या शब्दांची संख्या {wordcount, number}आहे, ही सुरुवातीची बिंदू असेल.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Επιλέξτε αυτή την άδεια",
   "licenses.commercial.title": "Πληροφορίες εμπορικής άδειας",
   "licenses.commercial.exclusive": "Με αυτή την αποκλειστική άδεια, το Literary Universe θα λάβει μια αμοιβή 10% από τα κέρδη σας. Αυτό σημαίνει ότι θα λαμβάνετε το 90% των εσόδων που προκύπτουν από το έργο σας στην πλατφόρμα μας.",
-  "licenses.commercial.nonExclusive": "Με αυτή τη μη αποκλειστική άδεια χρήσης, το Literary Universe θα λάβει μια αμοιβή 30% από τα κέρδη σας στην πλατφόρμα μας. Αυτό σημαίνει ότι θα λαμβάνετε το 70% των εσόδων που προκύπτουν από την εργασία σας στο Literary Universe."
+  "licenses.commercial.nonExclusive": "Με αυτή τη μη αποκλειστική άδεια χρήσης, το Literary Universe θα λάβει μια αμοιβή 30% από τα κέρδη σας στην πλατφόρμα μας. Αυτό σημαίνει ότι θα λαμβάνετε το 70% των εσόδων που προκύπτουν από την εργασία σας στο Literary Universe.",
+  "licenses.commercial.info.title": "Commercial License Information",
+  "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
+  "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
+  "licenses.moreInfo": "More Information"
 }

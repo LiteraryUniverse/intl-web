@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "একক গল্পের আর্কগুলি কিনতে লগ ইন করুন",
   "story.purchase.pricingUnavailable": "মূল্য সংক্রান্ত তথ্য বর্তমানে অনুপলব্ধ।",
   "story.buy.error.timeout": "অনুরোধটি সময়সীমা অতিক্রম করেছে। অনুগ্রহ করে আবার চেষ্টা করুন।",
-  "story.chapter.freePreviewEnds": "বিনামূল্যে পূর্বরূপ এখানে শেষ হচ্ছে"
+  "story.chapter.freePreviewEnds": "বিনামূল্যে পূর্বরূপ এখানে শেষ হচ্ছে",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

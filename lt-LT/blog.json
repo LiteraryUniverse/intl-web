@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Čia klausimus gali užduoti tik LU prenumeratoriai arba fanų klubo nariai.",
   "blogs.discussion": "Diskusija",
   "blogs.discussionOnForum": "Diskusija dėl šio tinklaraščio įrašo tęsiama mūsų forumuose.",
-  "blogs.joinDiscussion": "Prisijunkite prie diskusijos"
+  "blogs.joinDiscussion": "Prisijunkite prie diskusijos",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

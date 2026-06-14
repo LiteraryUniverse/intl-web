@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "Не знайдено жодних схованих фан-артів.",
   "fanManager.rejected.nothingFound": "Не знайдено жодних відхиленних фан-артів.",
   "fanManager.approved.nothingFound": "Не знайдено жодних схвалених фан-артів.",
-  "fanManager.submitted.nothingFound": "Не знайдено жодних поданих фан-артів."
+  "fanManager.submitted.nothingFound": "Не знайдено жодних поданих фан-артів.",
+  "fanManager.goToSettings": "Перейти до налаштувань",
+  "fanManager.authorComment.label": "Коментар від автора всесвіту лише для вас: ",
+  "fanManager.publicComment.label": "Публічний коментар від автора всесвіту: ",
+  "fanManager.allowComments": "Дозволити коментарі",
+  "fanManager.item.settings": "Налаштування {artTitle}",
+  "fanManager.stateChange.Hide": "Приховати фан-арт",
+  "fanManager.for": "Менеджер фанатів для {universe}",
+  "fanManager.sort": "Сортувати",
+  "fanManager.sortByDate": "Сортувати за датою",
+  "fanManager.sortByLikes": "Сортувати за вподобаннями",
+  "fanManager.fanArt.info": "Інформація про фан-арт",
+  "fanManager.form.submit": "Надішліть свій фан-арт до {universe}",
+  "fanManager.thankYou.wait": "Вам потрібно буде дочекатися, поки автор всесвіту схвалить ваш фан-арт",
+  "fanManager.thankYou": "Дякуємо за надсилання вашого фан-арту!",
+  "fanManager.thankYou.goBack": "Повернутися до фан-артів {universe}"
 }

@@ -24,5 +24,9 @@
   "challenges.report": "Rapor",
   "challenges.victory": "Tebrikler! Bu meydan okumayı tamamladınız.",
   "challenges.defeat": "Maalesef bu meydan okumayı tamamlayamadınız.",
-  "challenges.baseline": "Bu hikayenin mevcut kelime sayısı {wordcount, number}, bu başlangıç noktası olacak."
+  "challenges.baseline": "Bu hikayenin mevcut kelime sayısı {wordcount, number}, bu başlangıç noktası olacak.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

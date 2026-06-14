@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Memilih video unggulan",
   "feedback.help.featuredVideosDescription": "Video-video ini akan ditampilkan dalam sebuah slider di halaman kategori. Video harus memiliki gambar mini untuk tampilan terbaik.",
   "feedback.help.backToCategory": "Kembali ke kategori",
-  "feedback.help.watchVideo": "Tonton video"
+  "feedback.help.watchVideo": "Tonton video",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

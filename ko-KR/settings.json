@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "스토리, 챕터, 백과사전 항목 작성에 소요된 시간을 추적하세요. 여기에는 타이핑 활동, 단어 수, 시간대별 패턴과 같은 세부 메트릭이 포함됩니다.",
   "settings.tracking.trackWritingTime": "쓰기 시간 추적",
   "settings.tracking.trackReadingTime": "읽기 시간 추적",
-  "settings.tracking.trackBlogWritingTime": "블로그 작성 시간 추적"
+  "settings.tracking.trackBlogWritingTime": "블로그 작성 시간 추적",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

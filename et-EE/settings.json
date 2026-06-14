@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Jälgige lugude, peatükkide ja entsüklopeediakirjelduste kirjutamiseks kulunud aega. See hõlmab üksikasjalikke näitajaid, nagu kirjutamisaktiivsus, sõnade arv ja kellaaegade mustrid.",
   "settings.tracking.trackWritingTime": "Jälgi kirjutamise aega",
   "settings.tracking.trackReadingTime": "Jälgi lugemisaega",
-  "settings.tracking.trackBlogWritingTime": "Jälgi blogi kirjutamise aega"
+  "settings.tracking.trackBlogWritingTime": "Jälgi blogi kirjutamise aega",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

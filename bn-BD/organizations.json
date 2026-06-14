@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "নিবন্ধিত",
   "org.members.emailInvite.sent": "ইমেইলের মাধ্যমে আমন্ত্রণ জানানো হয়েছে",
   "org.members.joined": "যোগদান করেছেন",
-  "org.roles.super_admin": "সুপার অ্যাডমিন"
+  "org.roles.super_admin": "সুপার অ্যাডমিন",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

@@ -93,5 +93,6 @@
 	"signup.stepCount": "단계 {current, number} of {total, number}",
 	"signup.writer.goals.description": "글쓰기 경험에 대해 알려주세요.",
 	"signup.complete.title": "모든 준비가 완료되었습니다!",
-	"signup.complete.description": "프로필을 작성해 주셔서 감사합니다. 기본 설정에 따라 사용자 환경을 맞춤 설정했습니다."
+	"signup.complete.description": "프로필을 작성해 주셔서 감사합니다. 기본 설정에 따라 사용자 환경을 맞춤 설정했습니다.",
+	"signup.password2.label": "Confirm password"
 }

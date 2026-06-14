@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Blox Text Revizuire",
   "personalNotes.recentSearches": "Căutări Recent efectuate:",
   "personalNotes.myNotes": "Notele mele personale",
-  "personalNotes.hasNotes": "Are note personale"
+  "personalNotes.hasNotes": "Are note personale",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

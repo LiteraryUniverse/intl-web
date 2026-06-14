@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Ansiklopedi girdilerimi kimler görebilir?",
   "faq.answer.encyclopedia.visibility": "Girişleri veya girişlerin bir kısmını herkese açık veya özel olarak ayarlayabilirsiniz.",
   "faq.question.encyclopedia.troubleshooting": "Bir girişi bulamaz veya düzenleyemezsem ne olur?",
-  "faq.answer.encyclopedia.troubleshooting": "Sayfayı yenilemeyi deneyin. Sorun devam ederse izinlerinizi kontrol edin veya destek ekibiyle iletişime geçin."
+  "faq.answer.encyclopedia.troubleshooting": "Sayfayı yenilemeyi deneyin. Sorun devam ederse izinlerinizi kontrol edin veya destek ekibiyle iletişime geçin.",
+  "faq.section.organization": "Organizations"
 }

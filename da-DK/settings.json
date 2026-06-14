@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Spor den tid, du bruger på at skrive historier, kapitler og leksikonartikler. Dette inkluderer detaljerede målinger som skriveaktivitet, antal ord og mønstre for tid på dagen.",
   "settings.tracking.trackWritingTime": "Spor skrivetid",
   "settings.tracking.trackReadingTime": "Spor læsetid",
-  "settings.tracking.trackBlogWritingTime": "Følg med i bloggens skrivetid"
+  "settings.tracking.trackBlogWritingTime": "Følg med i bloggens skrivetid",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

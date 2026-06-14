@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Válassza ki ezt a licencet",
   "licenses.commercial.title": "Kereskedelmi licenc információk",
   "licenses.commercial.exclusive": "Ezzel az exkluzív licenccel a Literary Universe 10%-os díjat von le a bevételéből. Ez azt jelenti, hogy a platformunkon megjelenő munkáidból származó bevétel 90%-át te kapod.",
-  "licenses.commercial.nonExclusive": "Ezzel a nem kizárólagos licenccel a Literary Universe 30%-os díjat szed a platformunkon elért bevételeiből. Ez azt jelenti, hogy Ön a Literary Universe-en végzett munkáiból származó bevétel 70%-át kapja meg."
+  "licenses.commercial.nonExclusive": "Ezzel a nem kizárólagos licenccel a Literary Universe 30%-os díjat szed a platformunkon elért bevételeiből. Ez azt jelenti, hogy Ön a Literary Universe-en végzett munkáiból származó bevétel 70%-át kapja meg.",
+  "licenses.commercial.info.title": "Commercial License Information",
+  "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
+  "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
+  "licenses.moreInfo": "More Information"
 }

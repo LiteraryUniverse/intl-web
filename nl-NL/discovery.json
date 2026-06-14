@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Log in om afzonderlijke verhaalreeksen te kopen",
   "story.purchase.pricingUnavailable": "Prijsinformatie is momenteel niet beschikbaar.",
   "story.buy.error.timeout": "De aanvraag is verlopen. Probeer het opnieuw.",
-  "story.chapter.freePreviewEnds": "Gratis preview eindigt hier"
+  "story.chapter.freePreviewEnds": "Gratis preview eindigt hier",
+  "discovery.ai.stories.new": "Nieuwe AI-gegenereerde verhalen",
+  "discovery.ai.stories.updated": "Onlangs bijgewerkte AI-gegenereerde verhalen",
+  "discovery.ai.content.desc": "Ontdek content die met behulp van AI is gemaakt",
+  "discover.search.universal.title": "Zoeken",
+  "discover.search.encyclopedia": "Encyclopedie",
+  "discover.search.encyclopedia.comingSoon": "Zoeken in encyclopedie komt binnenkort.",
+  "discover.search.universal.description": "Zoek naar verhalen en universa",
+  "discover.search.typeSelection.aria": "Selectie van contenttype",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Geen resultaten gevonden} one {# resultaat gevonden} other {# resultaten gevonden}}"
 }

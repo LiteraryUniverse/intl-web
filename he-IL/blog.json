@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "רק מנויים ל-LU או חברי מועדון המעריצים יכולים לשאול כאן שאלות.",
   "blogs.discussion": "דיון",
   "blogs.discussionOnForum": "הדיון על פוסט זה בבלוג נמשך בפורומים שלנו.",
-  "blogs.joinDiscussion": "הצטרפו לדיון"
+  "blogs.joinDiscussion": "הצטרפו לדיון",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

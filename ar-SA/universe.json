@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "هذا الكون لا يسمح بعرض القصص الخيالية للمعجبين.",
   "universe.storiesCount": "إجمالي عدد القصص في الكون",
   "universe.createdAt": "تم إنشاؤها: {date}",
-  "universe.authors.none": "لا تتوفر معلومات عن المؤلفين."
+  "universe.authors.none": "لا تتوفر معلومات عن المؤلفين.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

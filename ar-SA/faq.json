@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "من يمكنه الاطلاع على إدخالات موسوعتي؟",
   "faq.answer.encyclopedia.visibility": "يمكنك تعيين الإدخالات أو جزء من الإدخالات لتكون عامة أو خاصة.",
   "faq.question.encyclopedia.troubleshooting": "ماذا لو لم أتمكن من العثور على إدخال أو تعديله؟",
-  "faq.answer.encyclopedia.troubleshooting": "حاول تحديث الصفحة. إذا استمرت المشكلة، تحقق من أذوناتك أو اتصل بالدعم."
+  "faq.answer.encyclopedia.troubleshooting": "حاول تحديث الصفحة. إذا استمرت المشكلة، تحقق من أذوناتك أو اتصل بالدعم.",
+  "faq.section.organization": "Organizations"
 }

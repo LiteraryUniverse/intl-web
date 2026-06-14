@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "Horreur",
   "resume.theme.militarySciFi": "Science-fiction militaire",
-  "resume.theme.artDeco": "Art déco"
+  "resume.theme.artDeco": "Art déco",
+  "resume.editor.stories.hasPreview": "(comporte un aperçu éditeur)",
+  "resume.editor.stories.heading": "Sélectionner les histoires à mettre en avant",
+  "resume.editor.stories.description": "Choisissez les histoires publiées à inclure dans votre CV. Les histoires comportant des aperçus éditeur sont sélectionnées par défaut.",
+  "resume.editor.stories.standalone": "Histoires autonomes",
+  "resume.reader.loading": "Chargement de l'aperçu...",
+  "resume.reader.publisherPreview": "Aperçu éditeur",
+  "resume.reader.previewRange": "Affichage des chapitres {from} à {to} (aperçu éditeur)",
+  "resume.reader.loadingChapter": "Chargement du chapitre...",
+  "resume.reader.chapterNotFound": "Chapitre non disponible."
 }

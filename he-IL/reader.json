@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "יש לרכוש את הפרק הזה",
   "reader.purchaseGate.description": "כדי להמשיך לקרוא את {storyTitle}{authorName, select, undefined {} other { מאת {authorName}}}, עליך לרכוש את הספר.",
   "reader.purchaseGate.buyArc": "או לקנות את הקשת הזו",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} פרק} other {{count} פרקים}} כלול"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} פרק} other {{count} פרקים}} כלול",
+  "story.chapter.freePreview": "Free",
+  "story.chapter.locked": "Locked",
+  "story.translation.noPricing": "Not yet available for purchase",
+  "story.ownAlready": "You already own this story.",
+  "story.buy": "Buy story",
+  "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
+  "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
 }

@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Блок тексту перегляду",
   "personalNotes.recentSearches": "Останні пошуки:",
   "personalNotes.myNotes": "Мої особисті нотатки",
-  "personalNotes.hasNotes": "Має особисті нотатки"
+  "personalNotes.hasNotes": "Має особисті нотатки",
+  "personalNotes.recentSearched": "Нещодавні пошуки:",
+  "personalNotes.search.noFound": "Нічого не знайдено",
+  "personalNotes.type": "Тип"
 }

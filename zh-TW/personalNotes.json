@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "修訂文字區塊",
   "personalNotes.recentSearches": "最近搜尋：",
   "personalNotes.myNotes": "我的個人筆記",
-  "personalNotes.hasNotes": "具有個人筆記"
+  "personalNotes.hasNotes": "具有個人筆記",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

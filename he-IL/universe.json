@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "היקום הזה אינו מאפשר להציג סיפורי מעריצים.",
   "universe.storiesCount": "מספר הסיפורים הכולל ביקום",
   "universe.createdAt": "נוצר: {date}",
-  "universe.authors.none": "אין מידע זמין על המחברים."
+  "universe.authors.none": "אין מידע זמין על המחברים.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

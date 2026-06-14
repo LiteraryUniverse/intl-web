@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "ストーリー、章、百科事典のエントリを書くのに費やした時間を追跡します。これには、タイピングアクティビティ、単語数、時間帯パターンなどの詳細なメトリクスが含まれます。",
   "settings.tracking.trackWritingTime": "執筆時間の記録",
   "settings.tracking.trackReadingTime": "読書時間の記録",
-  "settings.tracking.trackBlogWritingTime": "ブログ執筆時間の記録"
+  "settings.tracking.trackBlogWritingTime": "ブログ執筆時間の記録",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

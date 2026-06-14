@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Qui peut consulter mes entrées dans l'encyclopédie ?",
   "faq.answer.encyclopedia.visibility": "Vous pouvez définir des entrées ou des parties d'entrées comme étant publiques ou privées.",
   "faq.question.encyclopedia.troubleshooting": "Que faire si je ne parviens pas à trouver ou à modifier une entrée ?",
-  "faq.answer.encyclopedia.troubleshooting": "Essayez d'actualiser la page. Si le problème persiste, vérifiez vos autorisations ou contactez l'assistance."
+  "faq.answer.encyclopedia.troubleshooting": "Essayez d'actualiser la page. Si le problème persiste, vérifiez vos autorisations ou contactez l'assistance.",
+  "faq.section.organization": "Organisations"
 }

@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Seuraa tarinoiden, lukujen ja tietosanakirjamerkintöjen kirjoittamiseen käytettyä aikaa. Tämä sisältää yksityiskohtaisia mittareita, kuten kirjoitustoiminta, sanamäärät ja kellonaikamallit.",
   "settings.tracking.trackWritingTime": "Seuraa kirjoittamisaikaa",
   "settings.tracking.trackReadingTime": "Seuraa lukuaikaa",
-  "settings.tracking.trackBlogWritingTime": "Seuraa blogin kirjoittamisaikaa"
+  "settings.tracking.trackBlogWritingTime": "Seuraa blogin kirjoittamisaikaa",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

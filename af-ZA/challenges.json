@@ -24,5 +24,9 @@
   "challenges.report": "Rapporteer",
   "challenges.victory": "Gelukwens! Jy het hierdie uitdaging voltooi.",
   "challenges.defeat": "Ongelukkig het jy hierdie uitdaging nie voltooi nie.",
-  "challenges.baseline": "Die huidige woordtelling vir hierdie storie is {wordcount, number}, dit sal die beginpunt wees."
+  "challenges.baseline": "Die huidige woordtelling vir hierdie storie is {wordcount, number}, dit sal die beginpunt wees.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "Horor",
   "resume.theme.militarySciFi": "Vojenské sci-fi",
-  "resume.theme.artDeco": "Art Deco"
+  "resume.theme.artDeco": "Art Deco",
+  "resume.editor.stories.hasPreview": "(má vydavateľský náhľad)",
+  "resume.editor.stories.heading": "Vyberte príbehy na prezentáciu",
+  "resume.editor.stories.description": "Vyberte, ktoré publikované príbehy zahrnúť do svojho životopisu. Príbehy s vydavateľskými náhľadmi sú predvolene vybrané.",
+  "resume.editor.stories.standalone": "Samostatné príbehy",
+  "resume.reader.loading": "Načítava sa náhľad...",
+  "resume.reader.publisherPreview": "Vydavateľský náhľad",
+  "resume.reader.previewRange": "Zobrazujú sa kapitoly {from}–{to} (vydavateľský náhľad)",
+  "resume.reader.loadingChapter": "Načítava sa kapitola...",
+  "resume.reader.chapterNotFound": "Kapitola nie je dostupná."
 }

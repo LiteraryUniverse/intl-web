@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "Horror",
   "resume.theme.militarySciFi": "Ficção científica militar",
-  "resume.theme.artDeco": "Art Déco"
+  "resume.theme.artDeco": "Art Déco",
+  "resume.editor.stories.hasPreview": "(tem prévia da editora)",
+  "resume.editor.stories.heading": "Selecione histórias para exibir",
+  "resume.editor.stories.description": "Escolha quais histórias publicadas incluir no seu currículo. As histórias com prévias da editora são selecionadas por padrão.",
+  "resume.editor.stories.standalone": "Histórias independentes",
+  "resume.reader.loading": "Carregando prévia...",
+  "resume.reader.publisherPreview": "Prévia da editora",
+  "resume.reader.previewRange": "Mostrando os capítulos {from}–{to} (prévia da editora)",
+  "resume.reader.loadingChapter": "Carregando capítulo...",
+  "resume.reader.chapterNotFound": "Capítulo não disponível."
 }

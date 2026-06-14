@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Valitse esillä olevat videot",
   "feedback.help.featuredVideosDescription": "Nämä videot näytetään liukusäätimessä kategoriasivulla. Videoilla tulisi olla pikkukuva, jotta ne näkyisivät parhaiten.",
   "feedback.help.backToCategory": "Takaisin luokkaan",
-  "feedback.help.watchVideo": "Katso video"
+  "feedback.help.watchVideo": "Katso video",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

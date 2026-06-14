@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Αυτό το Σύμπαν δεν επιτρέπει την εμφάνιση φανταστικής λογοτεχνίας.",
   "universe.storiesCount": "Συνολικός αριθμός ιστοριών στο σύμπαν",
   "universe.createdAt": "Δημιουργήθηκε: {date}",
-  "universe.authors.none": "Δεν υπάρχουν διαθέσιμες πληροφορίες για τους συγγραφείς."
+  "universe.authors.none": "Δεν υπάρχουν διαθέσιμες πληροφορίες για τους συγγραφείς.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

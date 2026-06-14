@@ -54,5 +54,19 @@
   "group.noticeBoard": "Mededelingenbord",
   "group.leaveGroup.modalAria": "Bevestiging dat u de groep wilt verlaten.",
   "group.leaveGroup.heading": "Weet u zeker dat u {groupName}wilt verlaten?",
-  "group.leaveGroup.explain": "Als u de groep verlaat, verliest u de toegang tot de groepsbronnen en kunt u niet meer met de groep communiceren."
+  "group.leaveGroup.explain": "Als u de groep verlaat, verliest u de toegang tot de groepsbronnen en kunt u niet meer met de groep communiceren.",
+  "groups.category.label": "Categorie",
+  "groups.category.none": "Selecteer een categorie",
+  "groups.category.bookClub": "Boekenclub",
+  "groups.category.academic": "Academische groep",
+  "groups.category.authorCommunity": "Auteurscommunitygroep",
+  "groups.category.church": "Kerkgroep",
+  "groups.category.community": "Communitygroep",
+  "groups.category.family": "Familiegroep",
+  "groups.category.hobbyist": "Hobbygroep",
+  "groups.category.writer": "Schrijversgroep",
+  "groups.category.other": "Ander soort groep",
+  "groups.category.filter.label": "Filteren op categorie:",
+  "groups.language.filter.label": "Filteren op taal:",
+  "groups.noticeBoard.heading": "Mededelingenbord"
 }

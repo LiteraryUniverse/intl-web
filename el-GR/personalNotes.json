@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Τμήμα Αναθεώρησης Κειμένου",
   "personalNotes.recentSearches": "Πρόσφατες Αναζητήσεις:",
   "personalNotes.myNotes": "Οι προσωπικές μου σημειώσεις",
-  "personalNotes.hasNotes": "Έχει προσωπικές σημειώσεις"
+  "personalNotes.hasNotes": "Έχει προσωπικές σημειώσεις",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Select featured videos",
   "feedback.help.featuredVideosDescription": "These videos will be displayed in a slider on the category page. Videos should have a thumbnail for best appearance.",
   "feedback.help.backToCategory": "Back to category",
-  "feedback.help.watchVideo": "Watch video"
+  "feedback.help.watchVideo": "Watch video",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

@@ -24,5 +24,9 @@
   "challenges.report": "Αναφορά",
   "challenges.victory": "Συγχαρητήρια! Ολοκληρώσατε αυτήν την πρόκληση.",
   "challenges.defeat": "Δυστυχώς δεν ολοκληρώσατε αυτήν την πρόκληση.",
-  "challenges.baseline": "Ο τρέχων αριθμός λέξεων για αυτήν την ιστορία είναι {wordcount, number}, αυτό θα είναι το αρχικό σημείο."
+  "challenges.baseline": "Ο τρέχων αριθμός λέξεων για αυτήν την ιστορία είναι {wordcount, number}, αυτό θα είναι το αρχικό σημείο.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

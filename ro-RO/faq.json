@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Cine poate vedea intrările mele din enciclopedie?",
   "faq.answer.encyclopedia.visibility": "Puteți seta ca intrările sau părți din intrări să fie publice sau private.",
   "faq.question.encyclopedia.troubleshooting": "Ce se întâmplă dacă nu pot găsi sau edita o intrare?",
-  "faq.answer.encyclopedia.troubleshooting": "Încercați să reîmprospătați pagina. Dacă problema persistă, verificați permisiunile sau contactați asistența."
+  "faq.answer.encyclopedia.troubleshooting": "Încercați să reîmprospătați pagina. Dacă problema persistă, verificați permisiunile sau contactați asistența.",
+  "faq.section.organization": "Organizations"
 }

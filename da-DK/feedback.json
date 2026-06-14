@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Vælg udvalgte videoer",
   "feedback.help.featuredVideosDescription": "Disse videoer vil blive vist i en slider på kategorisiden. Videoerne skal have en miniature for at blive vist bedst muligt.",
   "feedback.help.backToCategory": "Tilbage til kategori",
-  "feedback.help.watchVideo": "Se video"
+  "feedback.help.watchVideo": "Se video",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

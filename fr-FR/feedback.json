@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Sélectionnez les vidéos à l'honneur",
   "feedback.help.featuredVideosDescription": "Ces vidéos seront affichées dans une barre de défilement sur la page de la catégorie. Les vidéos doivent être accompagnées d'une vignette pour une meilleure présentation.",
   "feedback.help.backToCategory": "Retour à la catégorie",
-  "feedback.help.watchVideo": "Voir la vidéo"
+  "feedback.help.watchVideo": "Voir la vidéo",
+  "feedback.help.noFeaturedCourses": "Aucun cours en vedette n'est encore disponible.",
+  "resolutionCenter.action.correctAgeRating": "Corriger la classification par âge",
+  "resolutionCenter.reportDetail": "Détails du signalement",
+  "resolutionCenter.dashboard.title": "Centre de résolution"
 }

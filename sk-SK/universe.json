@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Tento Vesmír neumožňuje zobrazenie fanúšikovskej fikcie.",
   "universe.storiesCount": "Celkový počet príbehov vo vesmíre",
   "universe.createdAt": "Vytvorené: {date}",
-  "universe.authors.none": "Informácie o autoroch nie sú k dispozícii."
+  "universe.authors.none": "Informácie o autoroch nie sú k dispozícii.",
+  "universe.blog.title": "{universe} – Novinky a aktualizácie",
+  "universe.fanarts.allowComments": "Povoliť komentáre",
+  "universe.createdby": "Vytvoril",
+  "universe.fanArt.picture": "Obrázok fanúšikovského diela",
+  "universe.stories": "Príbehy"
 }

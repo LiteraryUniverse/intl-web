@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "개별 스토리 아크를 구매하려면 로그인하세요.",
   "story.purchase.pricingUnavailable": "현재 가격 정보는 제공되지 않습니다.",
   "story.buy.error.timeout": "요청 시간이 초과되었습니다. 다시 시도해 주세요.",
-  "story.chapter.freePreviewEnds": "무료 미리 보기는 여기서 종료됩니다."
+  "story.chapter.freePreviewEnds": "무료 미리 보기는 여기서 종료됩니다.",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

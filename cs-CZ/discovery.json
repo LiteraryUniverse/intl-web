@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Přihlaste se k nákupu jednotlivých příběhů",
   "story.purchase.pricingUnavailable": "Informace o cenách nejsou v současné době k dispozici.",
   "story.buy.error.timeout": "Požadavek se vyčerpal. Zkuste to prosím znovu.",
-  "story.chapter.freePreviewEnds": "Bezplatný náhled končí zde"
+  "story.chapter.freePreviewEnds": "Bezplatný náhled končí zde",
+  "discovery.ai.stories.new": "Nové příběhy vygenerované AI",
+  "discovery.ai.stories.updated": "Nedávno aktualizované příběhy vygenerované AI",
+  "discovery.ai.content.desc": "Objevte obsah vytvořený s pomocí AI",
+  "discover.search.universal.title": "Hledat",
+  "discover.search.encyclopedia": "Encyklopedie",
+  "discover.search.encyclopedia.comingSoon": "Vyhledávání v encyklopedii již brzy.",
+  "discover.search.universal.description": "Hledat příběhy a universa",
+  "discover.search.typeSelection.aria": "Výběr typu obsahu",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nebyly nalezeny žádné výsledky} one {nalezen # výsledek} few {nalezeny # výsledky} other {nalezeno # výsledků}}"
 }

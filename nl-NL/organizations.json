@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Geregistreerd",
   "org.members.emailInvite.sent": "Uitgenodigd per e-mail",
   "org.members.joined": "Aangesloten bij",
-  "org.roles.super_admin": "Super beheerder"
+  "org.roles.super_admin": "Super beheerder",
+  "organization.blog.title": "{organization} - Nieuws",
+  "organization.courses.title": "Cursussen van {orgName}",
+  "organization.courses.none": "Deze organisatie heeft nog geen cursussen gepubliceerd."
 }

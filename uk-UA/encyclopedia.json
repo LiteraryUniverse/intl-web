@@ -280,5 +280,12 @@
   "encyclopedia.templateField.curriculum": "Curriculum",
   "encyclopedia.templateField.notable-alumni": "Notable alumni",
   "encyclopedia.templateField.affiliation": "Affiliation",
-  "encyclopedia.templateField.language": "Language"
+  "encyclopedia.templateField.language": "Language",
+  "canvas.label": "Підпис",
+  "encyclopedia.tags.placeholder": "Додати тег...",
+  "encyclopedia.search.filters": "Фільтрувати результати",
+  "encyclopedia.search.filters.upgrade": "Підпишіться на план Storyteller, щоб розблокувати ці фільтри.",
+  "encyclopedia.search.filter.wip": "У роботі",
+  "encyclopedia.search.filter.ai": "Згенеровано ШІ",
+  "encyclopedia.time.type.label": "Тип часу"
 }

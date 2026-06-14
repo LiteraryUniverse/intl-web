@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Chi può vedere le voci della mia enciclopedia?",
   "faq.answer.encyclopedia.visibility": "Può impostare le voci o parte delle voci come pubbliche o private.",
   "faq.question.encyclopedia.troubleshooting": "Cosa succede se non riesco a trovare o modificare una voce?",
-  "faq.answer.encyclopedia.troubleshooting": "Provi ad aggiornare la pagina. Se il problema persiste, controlli le sue autorizzazioni o contatti l'assistenza."
+  "faq.answer.encyclopedia.troubleshooting": "Provi ad aggiornare la pagina. Se il problema persiste, controlli le sue autorizzazioni o contatti l'assistenza.",
+  "faq.section.organization": "Organizzazioni"
 }

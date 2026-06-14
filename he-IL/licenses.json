@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Select This License",
   "licenses.commercial.title": "Commercial License Information",
   "licenses.commercial.exclusive": "עם רישיון בלעדי זה, Literary Universe תגבה עמלה של 10% מהרווחים שלך. משמעות הדבר היא שתקבל 90% מההכנסות שנוצרו מעבודתך בפלטפורמה שלנו.",
-  "licenses.commercial.nonExclusive": "עם רישיון לא בלעדי זה, Literary Universe תגבה עמלה של 30% מהרווחים שלך בפלטפורמה שלנו. משמעות הדבר היא שתקבל 70% מההכנסות שנוצרו מעבודתך ב-Literary Universe."
+  "licenses.commercial.nonExclusive": "עם רישיון לא בלעדי זה, Literary Universe תגבה עמלה של 30% מהרווחים שלך בפלטפורמה שלנו. משמעות הדבר היא שתקבל 70% מההכנסות שנוצרו מעבודתך ב-Literary Universe.",
+  "licenses.commercial.info.title": "Commercial License Information",
+  "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
+  "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
+  "licenses.moreInfo": "More Information"
 }

@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "تتبع الوقت المستغرق في كتابة القصص والفصول وإدخالات الموسوعة. يتضمن ذلك مقاييس مفصلة مثل نشاط الكتابة، وعدد الكلمات، وأنماط الوقت في اليوم.",
   "settings.tracking.trackWritingTime": "تتبع وقت الكتابة",
   "settings.tracking.trackReadingTime": "تتبع وقت القراءة",
-  "settings.tracking.trackBlogWritingTime": "تتبع وقت كتابة المدونة"
+  "settings.tracking.trackBlogWritingTime": "تتبع وقت كتابة المدونة",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

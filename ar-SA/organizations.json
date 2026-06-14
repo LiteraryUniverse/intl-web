@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "مسجل",
   "org.members.emailInvite.sent": "دُعيت عبر البريد الإلكتروني",
   "org.members.joined": "انضم",
-  "org.roles.super_admin": "المسؤول الفائق"
+  "org.roles.super_admin": "المسؤول الفائق",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

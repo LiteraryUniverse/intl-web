@@ -61,5 +61,14 @@
   "sharing.advanced.printTemplate6": "Modello 6",
   "sharing.advanced.fontColor": "Colore del carattere",
   "sharing.advanced.shareQR": "Share QR Link",
-  "sharing.advanced.displayLanguage": "Display language"
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.advanced.showPublicationDate": "Mostra la data di pubblicazione futura",
+  "sharing.advanced.backgroundImage": "Immagine di sfondo",
+  "sharing.advanced.genreBackgroundOption": "Genere",
+  "sharing.advanced.uploadingBackground": "Caricamento in corso…",
+  "sharing.advanced.uploadBackground": "+ Carica",
+  "sharing.advanced.shareWithQR": "Condividi con QR",
+  "sharing.advanced.bgLimitReached": "Hai raggiunto il numero massimo di immagini di sfondo per il tuo abbonamento.",
+  "sharing.advanced.bgUploadError": "Impossibile caricare l'immagine di sfondo.",
+  "sharing.advanced.deleteBackground": "Elimina lo sfondo"
 }

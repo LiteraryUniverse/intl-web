@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "ลงทะเบียนแล้ว",
   "org.members.emailInvite.sent": "ได้รับเชิญทางอีเมล",
   "org.members.joined": "เข้าร่วม",
-  "org.roles.super_admin": "ผู้ดูแลระบบระดับสูง"
+  "org.roles.super_admin": "ผู้ดูแลระบบระดับสูง",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

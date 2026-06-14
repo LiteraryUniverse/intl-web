@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "這個宇宙不允許展示同人小說。",
   "universe.storiesCount": "宇宙中的故事總數",
   "universe.createdAt": "已建立： {date}",
-  "universe.authors.none": "無作者資訊。"
+  "universe.authors.none": "無作者資訊。",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

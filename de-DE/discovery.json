@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Loggen Sie sich ein, um einzelne Handlungsstränge zu kaufen",
   "story.purchase.pricingUnavailable": "Preisinformationen sind derzeit nicht verfügbar.",
   "story.buy.error.timeout": "Die Anfrage wurde abgebrochen. Bitte versuchen Sie es erneut.",
-  "story.chapter.freePreviewEnds": "Kostenlose Vorschau endet hier"
+  "story.chapter.freePreviewEnds": "Kostenlose Vorschau endet hier",
+  "discovery.ai.stories.new": "Neue KI-generierte Geschichten",
+  "discovery.ai.stories.updated": "Kürzlich aktualisierte KI-generierte Geschichten",
+  "discovery.ai.content.desc": "Entdecken Sie mit Hilfe von KI erstellte Inhalte",
+  "discover.search.universal.title": "Suchen",
+  "discover.search.encyclopedia": "Enzyklopädie",
+  "discover.search.encyclopedia.comingSoon": "Die Enzyklopädie-Suche ist bald verfügbar.",
+  "discover.search.universal.description": "Nach Geschichten und Universen suchen",
+  "discover.search.typeSelection.aria": "Auswahl des Inhaltstyps",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Keine Ergebnisse gefunden} one {# Ergebnis gefunden} other {# Ergebnisse gefunden}}"
 }

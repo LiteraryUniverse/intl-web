@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Theo dõi thời gian dành cho việc viết truyện, chương và mục từ bách khoa toàn thư. Điều này bao gồm các chỉ số chi tiết như hoạt động gõ phím, số từ và mô hình thời gian trong ngày.",
   "settings.tracking.trackWritingTime": "Theo dõi thời gian viết",
   "settings.tracking.trackReadingTime": "Theo dõi thời gian đọc",
-  "settings.tracking.trackBlogWritingTime": "Theo dõi thời gian viết blog"
+  "settings.tracking.trackBlogWritingTime": "Theo dõi thời gian viết blog",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

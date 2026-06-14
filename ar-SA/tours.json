@@ -6,7 +6,8 @@
     "close": "جولة قريبة",
     "end": "إنهاء الجولة",
     "progress": "الخطوة {current, number} من {total, number}",
-    "keyboardHint": "استخدم مفاتيح الأسهم للتنقل و ESC للإغلاق"
+    "keyboardHint": "استخدم مفاتيح الأسهم للتنقل و ESC للإغلاق",
+    "start": "Start Tour"
   },
   "dashboard": {
     "title": "Welcome to Your Dashboard",
@@ -69,7 +70,8 @@
       "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
     },
     "writerActionButton": "Go to Workshop",
-    "readerActionButton": "Go to Discovery"
+    "readerActionButton": "Go to Discovery",
+    "takeTour": "New here? Take a quick tour of your dashboard!"
   },
   "workshop": {
     "title": "مرحباً بك في ورشة العمل الخاصة بك",

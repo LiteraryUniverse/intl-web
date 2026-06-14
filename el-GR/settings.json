@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Παρακολουθήστε το χρόνο που ξοδεύετε για τη συγγραφή ιστοριών, κεφαλαίων και λημμάτων εγκυκλοπαίδειας. Αυτό περιλαμβάνει λεπτομερείς μετρήσεις όπως η δραστηριότητα πληκτρολόγησης, ο αριθμός των λέξεων και τα μοτίβα της ώρας της ημέρας.",
   "settings.tracking.trackWritingTime": "Παρακολουθήστε το χρόνο γραφής",
   "settings.tracking.trackReadingTime": "Παρακολουθήστε το χρόνο ανάγνωσης",
-  "settings.tracking.trackBlogWritingTime": "Παρακολουθήστε το χρόνο συγγραφής ιστολογίου"
+  "settings.tracking.trackBlogWritingTime": "Παρακολουθήστε το χρόνο συγγραφής ιστολογίου",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

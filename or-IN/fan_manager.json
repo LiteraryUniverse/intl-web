@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "କୌଣସି ଲୁକାଚିତ ଫାନ୍ ଆର୍ଟସମୂହ ପାଇଁ ପାଇବେ ନାହିଁ।",
   "fanManager.rejected.nothingFound": "କୌଣସି ଫାନ୍ ଆର୍ଟସମୂହ ମନସାଇନକୁ ପାଇଁ ପାଇବେ ନାହିଁ।",
   "fanManager.approved.nothingFound": "କୌଣସି ମଞ୍ଜୁର ଫାନ୍ ଆର୍ଟସମୂହ ମିଳିବା ନାହିଁ।",
-  "fanManager.submitted.nothingFound": "କୌଣସି ଜମା ଆର୍ଟସମୂହ ବ୍ୟତିରେ ପାଇଥିବା ନାହିଁ ।"
+  "fanManager.submitted.nothingFound": "କୌଣସି ଜମା ଆର୍ଟସମୂହ ବ୍ୟତିରେ ପାଇଥିବା ନାହିଁ ।",
+  "fanManager.goToSettings": "Go to settings",
+  "fanManager.authorComment.label": "Comment from the universe author just for you: ",
+  "fanManager.publicComment.label": "Public comment from the universe author: ",
+  "fanManager.allowComments": "Allow comments",
+  "fanManager.item.settings": "{artTitle} settings",
+  "fanManager.stateChange.Hide": "Hide fan art",
+  "fanManager.for": "Fan manager for {universe}",
+  "fanManager.sort": "Sort",
+  "fanManager.sortByDate": "Sort by date",
+  "fanManager.sortByLikes": "Sort by likes",
+  "fanManager.fanArt.info": "Fan Art Info",
+  "fanManager.form.submit": "Submit your fan art to {universe}",
+  "fanManager.thankYou.wait": "You will need to wait for universe author to approve your fan art",
+  "fanManager.thankYou": "Thank you for submitting your fan art!",
+  "fanManager.thankYou.goBack": "Go back to {universe} fan arts"
 }

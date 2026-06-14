@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Daftar",
   "org.members.emailInvite.sent": "Dijemput melalui e-mel",
   "org.members.joined": "Bergabung",
-  "org.roles.super_admin": "Super Pentadbir"
+  "org.roles.super_admin": "Super Pentadbir",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Prisijunkite ir įsigykite atskirus istorijos fragmentus",
   "story.purchase.pricingUnavailable": "Informacijos apie kainas šiuo metu nėra.",
   "story.buy.error.timeout": "Užklausa užtruko. Bandykite dar kartą.",
-  "story.chapter.freePreviewEnds": "Nemokama peržiūra baigiasi čia"
+  "story.chapter.freePreviewEnds": "Nemokama peržiūra baigiasi čia",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

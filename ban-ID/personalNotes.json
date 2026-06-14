@@ -21,5 +21,8 @@
   "personalNotes.recentSearches": "Recent Searches:",
   "personalNotes.myNotes": "My Personal Notes",
   "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.goToEncyclopediaEntry": "Go To Enscylopedia’s Entry"
+  "personalNotes.goToEncyclopediaEntry": "Go To Enscylopedia’s Entry",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

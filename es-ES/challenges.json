@@ -24,5 +24,9 @@
   "challenges.report": "Reportar",
   "challenges.victory": "¡Enhorabuena! Has completado este reto.",
   "challenges.defeat": "Lamentablemente, no has completado este desafío.",
-  "challenges.baseline": "El número de palabras actual de esta historia es {wordcount, number}, este será nuestro punto de partida."
+  "challenges.baseline": "El número de palabras actual de esta historia es {wordcount, number}, este será nuestro punto de partida.",
+  "challenges.day": "Día",
+  "challenges.words": "Palabras",
+  "challenges.actualProgress": "Día {day}: {words} palabras",
+  "challenges.minimumRequired": "Mínimo requerido: {words} palabras"
 }

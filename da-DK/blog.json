@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Kun LU-abonnenter eller fanklubmedlemmer kan stille spørgsmål her.",
   "blogs.discussion": "Diskussion",
   "blogs.discussionOnForum": "Diskussionen om dette blogindlæg fortsætter på vores forum.",
-  "blogs.joinDiscussion": "Deltag i diskussionen"
+  "blogs.joinDiscussion": "Deltag i diskussionen",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

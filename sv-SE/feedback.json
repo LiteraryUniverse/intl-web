@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Välj utvalda videor",
   "feedback.help.featuredVideosDescription": "Dessa videor kommer att visas i en slider på kategorisidan. Videor bör ha en miniatyrbild för bästa utseende.",
   "feedback.help.backToCategory": "Tillbaka till kategori",
-  "feedback.help.watchVideo": "Titta på video"
+  "feedback.help.watchVideo": "Titta på video",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

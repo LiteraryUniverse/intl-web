@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Effettui il login per acquistare i singoli archi narrativi",
   "story.purchase.pricingUnavailable": "Le informazioni sui prezzi non sono attualmente disponibili.",
   "story.buy.error.timeout": "La richiesta è scaduta. La preghiamo di riprovare.",
-  "story.chapter.freePreviewEnds": "L'anteprima gratuita termina qui"
+  "story.chapter.freePreviewEnds": "L'anteprima gratuita termina qui",
+  "discovery.ai.stories.new": "Nuove storie generate dall'IA",
+  "discovery.ai.stories.updated": "Storie generate dall'IA aggiornate di recente",
+  "discovery.ai.content.desc": "Scopri contenuti creati con l'aiuto dell'IA",
+  "discover.search.universal.title": "Cerca",
+  "discover.search.encyclopedia": "Enciclopedia",
+  "discover.search.encyclopedia.comingSoon": "La ricerca nell'enciclopedia sarà presto disponibile.",
+  "discover.search.universal.description": "Cerca storie e universi",
+  "discover.search.typeSelection.aria": "Selezione del tipo di contenuto",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nessun risultato trovato} one {# risultato trovato} other {# risultati trovati}}"
 }

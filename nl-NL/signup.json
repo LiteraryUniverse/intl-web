@@ -93,5 +93,6 @@
 	"signup.stepCount": "Stap {current, number} van {total, number}",
 	"signup.writer.goals.description": "Vertel ons over uw schrijfervaring.",
 	"signup.complete.title": "U bent er helemaal klaar voor!",
-	"signup.complete.description": "Bedankt voor het invullen van uw profiel. Wij hebben uw ervaring aangepast op basis van uw voorkeuren."
+	"signup.complete.description": "Bedankt voor het invullen van uw profiel. Wij hebben uw ervaring aangepast op basis van uw voorkeuren.",
+	"signup.password2.label": "Wachtwoord bevestigen"
 }

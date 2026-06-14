@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Ez az Univerzum nem engedi a fan fiction megjelenítését.",
   "universe.storiesCount": "A történetek száma az univerzumban",
   "universe.createdAt": "Létrehozva: {date}",
-  "universe.authors.none": "A szerzőkről nem áll rendelkezésre információ."
+  "universe.authors.none": "A szerzőkről nem áll rendelkezésre információ.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

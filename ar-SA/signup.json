@@ -93,5 +93,6 @@
 	"signup.stepCount": "الخطوة {current, number} من ~ {total, number}",
 	"signup.writer.goals.description": "أخبرنا عن تجربتك في الكتابة.",
 	"signup.complete.title": "أنت جاهز!",
-	"signup.complete.description": "شكراً لك على استكمال ملفك الشخصي. لقد قمنا بتخصيص تجربتك بناءً على تفضيلاتك."
+	"signup.complete.description": "شكراً لك على استكمال ملفك الشخصي. لقد قمنا بتخصيص تجربتك بناءً على تفضيلاتك.",
+	"signup.password2.label": "Confirm password"
 }

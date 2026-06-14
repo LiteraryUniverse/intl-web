@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Revisietekstblok",
   "personalNotes.recentSearches": "Recente zoekopdrachten:",
   "personalNotes.myNotes": "Mijn persoonlijke aantekeningen",
-  "personalNotes.hasNotes": "Heeft persoonlijke aantekeningen"
+  "personalNotes.hasNotes": "Heeft persoonlijke aantekeningen",
+  "personalNotes.recentSearched": "Recente zoekopdrachten:",
+  "personalNotes.search.noFound": "Geen items gevonden",
+  "personalNotes.type": "Type"
 }

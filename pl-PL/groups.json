@@ -54,5 +54,19 @@
   "group.noticeBoard": "Tablica ogłoszeń",
   "group.leaveGroup.modalAria": "Potwierdzenie, że chcą Państwo opuścić grupę.",
   "group.leaveGroup.heading": "Czy jest Pan pewien, że chce opuścić stronę {groupName}?",
-  "group.leaveGroup.explain": "Opuszczenie grupy oznacza utratę dostępu do zasobów grupy i brak możliwości interakcji z nią."
+  "group.leaveGroup.explain": "Opuszczenie grupy oznacza utratę dostępu do zasobów grupy i brak możliwości interakcji z nią.",
+  "groups.category.label": "Kategoria",
+  "groups.category.none": "Wybierz kategorię",
+  "groups.category.bookClub": "Klub książki",
+  "groups.category.academic": "Grupa akademicka",
+  "groups.category.authorCommunity": "Grupa społeczności autorów",
+  "groups.category.church": "Grupa kościelna",
+  "groups.category.community": "Grupa społecznościowa",
+  "groups.category.family": "Grupa rodzinna",
+  "groups.category.hobbyist": "Grupa hobbystyczna",
+  "groups.category.writer": "Grupa pisarzy",
+  "groups.category.other": "Inny rodzaj grupy",
+  "groups.category.filter.label": "Filtruj według kategorii:",
+  "groups.language.filter.label": "Filtruj według języka:",
+  "groups.noticeBoard.heading": "Tablica ogłoszeń"
 }

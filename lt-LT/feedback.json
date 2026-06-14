@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Pasirinkite rodomus vaizdo įrašus",
   "feedback.help.featuredVideosDescription": "Šie vaizdo įrašai bus rodomi kategorijos puslapyje esančiame slankiklyje. Kad vaizdo įrašai atrodytų geriausiai, jie turėtų turėti miniatiūrą.",
   "feedback.help.backToCategory": "Atgal į kategoriją",
-  "feedback.help.watchVideo": "Žiūrėti vaizdo įrašą"
+  "feedback.help.watchVideo": "Žiūrėti vaizdo įrašą",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

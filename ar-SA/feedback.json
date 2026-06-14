@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "اختر مقاطع الفيديو المميزة",
   "feedback.help.featuredVideosDescription": "سيتم عرض مقاطع الفيديو هذه في شريط تمرير على صفحة الفئة. يجب أن تحتوي مقاطع الفيديو على صورة مصغرة للحصول على أفضل مظهر.",
   "feedback.help.backToCategory": "العودة إلى الفئة",
-  "feedback.help.watchVideo": "شاهد الفيديو"
+  "feedback.help.watchVideo": "شاهد الفيديو",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

@@ -280,5 +280,12 @@
   "encyclopedia.templateField.curriculum": "Curriculum",
   "encyclopedia.templateField.notable-alumni": "Notable alumni",
   "encyclopedia.templateField.affiliation": "Affiliation",
-  "encyclopedia.templateField.language": "Language"
+  "encyclopedia.templateField.language": "Language",
+  "canvas.label": "Метка",
+  "encyclopedia.tags.placeholder": "Добавить тег…",
+  "encyclopedia.search.filters": "Фильтровать результаты",
+  "encyclopedia.search.filters.upgrade": "Подпишитесь на план «Рассказчик», чтобы разблокировать эти фильтры.",
+  "encyclopedia.search.filter.wip": "В работе",
+  "encyclopedia.search.filter.ai": "Сгенерировано ИИ",
+  "encyclopedia.time.type.label": "Тип времени"
 }

@@ -24,5 +24,9 @@
   "challenges.report": "Raporti",
   "challenges.victory": "Gratulojn! Vi sukcesis ĉi tiun defion.",
   "challenges.defeat": "Bedaŭrinde vi ne sukcesis ĉi tiun defion.",
-  "challenges.baseline": "La aktuala vortokvanto por ĉi tiu rakonto estas {wordcount, number}, tio estos la komencopunkto."
+  "challenges.baseline": "La aktuala vortokvanto por ĉi tiu rakonto estas {wordcount, number}, tio estos la komencopunkto.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

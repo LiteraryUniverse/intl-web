@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "עקבו אחר הזמן שהוקדש לכתיבת סיפורים, פרקים וערכים באנציקלופדיה. זה כולל מדדים מפורטים כמו פעילות הקלדה, ספירת מילים ודפוסי זמן ביום.",
   "settings.tracking.trackWritingTime": "מעקב אחר זמן הכתיבה",
   "settings.tracking.trackReadingTime": "מעקב אחר זמן הקריאה",
-  "settings.tracking.trackBlogWritingTime": "עקוב אחר זמן כתיבת הבלוג"
+  "settings.tracking.trackBlogWritingTime": "עקוב אחר זמן כתיבת הבלוג",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

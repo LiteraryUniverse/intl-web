@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Đã đăng ký",
   "org.members.emailInvite.sent": "Được mời qua email",
   "org.members.joined": "Đã tham gia",
-  "org.roles.super_admin": "Quản trị viên cấp cao"
+  "org.roles.super_admin": "Quản trị viên cấp cao",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

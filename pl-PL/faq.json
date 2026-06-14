@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Kto może zobaczyć moje wpisy w encyklopedii?",
   "faq.answer.encyclopedia.visibility": "Można ustawić wpisy lub część wpisów jako publiczne lub prywatne.",
   "faq.question.encyclopedia.troubleshooting": "Co zrobić, jeśli nie mogę znaleźć lub edytować wpisu?",
-  "faq.answer.encyclopedia.troubleshooting": "Proszę spróbować odświeżyć stronę. Jeśli problem nie ustąpi, proszę sprawdzić uprawnienia lub skontaktować się z pomocą techniczną."
+  "faq.answer.encyclopedia.troubleshooting": "Proszę spróbować odświeżyć stronę. Jeśli problem nie ustąpi, proszę sprawdzić uprawnienia lub skontaktować się z pomocą techniczną.",
+  "faq.section.organization": "Organizacje"
 }

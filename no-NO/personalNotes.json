@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Revisjonstekstblokk",
   "personalNotes.recentSearches": "Nylige søk:",
   "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes"
+  "personalNotes.hasNotes": "Has Personal Notes",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

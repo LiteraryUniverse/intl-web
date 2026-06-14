@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "Tato kapitola vyžaduje zakoupení",
   "reader.purchaseGate.description": "Chcete-li pokračovat ve čtení {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, musíte si ji zakoupit.",
   "reader.purchaseGate.buyArc": "Nebo si kupte tento oblouk",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} kapitola} other {{count} kapitoly}} včetně"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} kapitola} other {{count} kapitoly}} včetně",
+  "story.chapter.freePreview": "Zdarma",
+  "story.chapter.locked": "Uzamčeno",
+  "story.translation.noPricing": "Zatím není k dispozici ke koupi",
+  "story.ownAlready": "Tento příběh již vlastníte.",
+  "story.buy": "Koupit příběh",
+  "reader.privatePurchaseBlocked.heading": "Tato kapitola pro vás není dostupná",
+  "reader.privatePurchaseBlocked.message": "Tento příběh je momentálně soukromý, takže další nákupy již nejsou možné. Můžete dál číst kapitoly, které jste si již zakoupili, ale tato kapitola není součástí vašich nákupů.",
+  "reader.printDisabled": "Toto je licencovaný obsah. Autor zakázal tisk textu příběhu."
 }

@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Эта вселенная не позволяет показывать фанфики.",
   "universe.storiesCount": "Общее количество историй во вселенной",
   "universe.createdAt": "Создано: {date}",
-  "universe.authors.none": "Информация об авторах отсутствует."
+  "universe.authors.none": "Информация об авторах отсутствует.",
+  "universe.blog.title": "{universe} — Новости и обновления",
+  "universe.fanarts.allowComments": "Разрешить комментарии",
+  "universe.createdby": "Создано",
+  "universe.fanArt.picture": "Изображение фан-арта",
+  "universe.stories": "Истории"
 }

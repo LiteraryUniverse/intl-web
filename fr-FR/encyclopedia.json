@@ -280,5 +280,12 @@
   "encyclopedia.templateField.curriculum": "Curriculum",
   "encyclopedia.templateField.notable-alumni": "Notable alumni",
   "encyclopedia.templateField.affiliation": "Affiliation",
-  "encyclopedia.templateField.language": "Language"
+  "encyclopedia.templateField.language": "Language",
+  "canvas.label": "Libellé",
+  "encyclopedia.tags.placeholder": "Ajouter une étiquette…",
+  "encyclopedia.search.filters": "Filtrer les résultats",
+  "encyclopedia.search.filters.upgrade": "Abonnez-vous au forfait Conteur pour débloquer ces filtres.",
+  "encyclopedia.search.filter.wip": "En cours de réalisation",
+  "encyclopedia.search.filter.ai": "Généré par IA",
+  "encyclopedia.time.type.label": "Type de temps"
 }

@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Houd bij hoeveel tijd u hebt besteed aan het schrijven van verhalen, hoofdstukken en encyclopedie-items. Dit omvat gedetailleerde statistieken zoals typeactiviteit, woordaantallen en patronen in de tijd van de dag.",
   "settings.tracking.trackWritingTime": "Schrijftijd bijhouden",
   "settings.tracking.trackReadingTime": "Leestijd bijhouden",
-  "settings.tracking.trackBlogWritingTime": "De schrijftijd van uw blog bijhouden"
+  "settings.tracking.trackBlogWritingTime": "De schrijftijd van uw blog bijhouden",
+  "settings.apiKeys.create.title": "Nieuwe API-sleutel maken",
+  "settings.apiKeys.create": "Nieuwe API-sleutel maken",
+  "settings.interests.description": "Vertel ons over je leesvoorkeuren zodat we content kunnen aanbevelen die aansluit bij je interesses.",
+  "settings.interests.genres": "Favoriete genres",
+  "settings.interests.genres.help": "Selecteer genres die je interesseren.",
+  "settings.interests.tags": "Favoriete tags",
+  "settings.interests.tags.help": "Selecteer maximaal 20 tags die je interesseren."
 }

@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Selecione esta licença",
   "licenses.commercial.title": "Informações sobre a licença comercial",
   "licenses.commercial.exclusive": "Com esta licença exclusiva, o Universo Literário cobrará uma taxa de 10% dos seus ganhos. Isto significa que receberá 90% das receitas geradas pelo seu trabalho na nossa plataforma.",
-  "licenses.commercial.nonExclusive": "Com esta licença não exclusiva, o Universo Literário cobrará uma taxa de 30% dos seus ganhos na nossa plataforma. Isto significa que receberá 70% das receitas geradas pelo seu trabalho no Universo Literário."
+  "licenses.commercial.nonExclusive": "Com esta licença não exclusiva, o Universo Literário cobrará uma taxa de 30% dos seus ganhos na nossa plataforma. Isto significa que receberá 70% das receitas geradas pelo seu trabalho no Universo Literário.",
+  "licenses.commercial.info.title": "Informações da licença comercial",
+  "licenses.commercial.exclusive.info": "Licença exclusiva: 10% de comissão da plataforma, fica com 90% dos ganhos",
+  "licenses.commercial.nonexclusive.info": "Licença não exclusiva: 30% de comissão da plataforma, fica com 70% dos ganhos",
+  "licenses.moreInfo": "Mais informações"
 }

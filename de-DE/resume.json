@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "Horror",
   "resume.theme.militarySciFi": "Militärische Sci-Fi",
-  "resume.theme.artDeco": "Art Deco"
+  "resume.theme.artDeco": "Art Deco",
+  "resume.editor.stories.hasPreview": "(hat Verlags-Vorschau)",
+  "resume.editor.stories.heading": "Geschichten zum Präsentieren auswählen",
+  "resume.editor.stories.description": "Wählen Sie, welche veröffentlichten Geschichten in Ihren Lebenslauf aufgenommen werden sollen. Geschichten mit Verlags-Vorschauen sind standardmäßig ausgewählt.",
+  "resume.editor.stories.standalone": "Eigenständige Geschichten",
+  "resume.reader.loading": "Vorschau wird geladen...",
+  "resume.reader.publisherPreview": "Verlags-Vorschau",
+  "resume.reader.previewRange": "Kapitel {from}–{to} werden angezeigt (Verlags-Vorschau)",
+  "resume.reader.loadingChapter": "Kapitel wird geladen...",
+  "resume.reader.chapterNotFound": "Kapitel nicht verfügbar."
 }

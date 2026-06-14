@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Dette Univers tillader ikke visning af fan fiction.",
   "universe.storiesCount": "Samlet antal historier i universet",
   "universe.createdAt": "Oprettet: {date}",
-  "universe.authors.none": "Ingen oplysninger om forfattere tilgængelige."
+  "universe.authors.none": "Ingen oplysninger om forfattere tilgængelige.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

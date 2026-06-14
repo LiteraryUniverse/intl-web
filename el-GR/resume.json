@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "Τρόμος",
   "resume.theme.militarySciFi": "Στρατιωτική επιστημονική φαντασία",
-  "resume.theme.artDeco": "Art Deco"
+  "resume.theme.artDeco": "Art Deco",
+  "resume.editor.stories.hasPreview": "(has publisher preview)",
+  "resume.editor.stories.heading": "Select Stories to Showcase",
+  "resume.editor.stories.description": "Choose which published stories to include in your resume. Stories with publisher previews are selected by default.",
+  "resume.editor.stories.standalone": "Standalone Stories",
+  "resume.reader.loading": "Loading preview...",
+  "resume.reader.publisherPreview": "Publisher Preview",
+  "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
+  "resume.reader.loadingChapter": "Loading chapter...",
+  "resume.reader.chapterNotFound": "Chapter not available."
 }

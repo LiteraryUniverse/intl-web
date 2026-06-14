@@ -24,5 +24,9 @@
   "challenges.report": "Aruanne",
   "challenges.victory": "Õnnitlused! Olete selle väljakutse lõpetanud.",
   "challenges.defeat": "Kahjuks te ei lõpetanud seda väljakutset.",
-  "challenges.baseline": "Selle loo hetkene sõnade arv on {wordcount, number}, see saab olema alguspunkt."
+  "challenges.baseline": "Selle loo hetkene sõnade arv on {wordcount, number}, see saab olema alguspunkt.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

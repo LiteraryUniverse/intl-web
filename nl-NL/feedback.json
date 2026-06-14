@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Uitgelichte video's selecteren",
   "feedback.help.featuredVideosDescription": "Deze video's worden weergegeven in een slider op de categoriepagina. Video's moeten een thumbnail hebben voor de beste weergave.",
   "feedback.help.backToCategory": "Terug naar categorie",
-  "feedback.help.watchVideo": "Video bekijken"
+  "feedback.help.watchVideo": "Video bekijken",
+  "feedback.help.noFeaturedCourses": "Nog geen uitgelichte cursussen beschikbaar.",
+  "resolutionCenter.action.correctAgeRating": "Leeftijdsclassificatie corrigeren",
+  "resolutionCenter.reportDetail": "Rapportagedetails",
+  "resolutionCenter.dashboard.title": "Geschillencentrum"
 }

@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "பதிவுசெய்த",
   "org.members.emailInvite.sent": "மின்னஞ்சல் மூலம் அழைக்கப்பட்டது",
   "org.members.joined": "சேர்ந்தார்",
-  "org.roles.super_admin": "சூப்பர் நிர்வாகி"
+  "org.roles.super_admin": "சூப்பர் நிர்வாகி",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

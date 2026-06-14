@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "特集ビデオを選ぶ",
   "feedback.help.featuredVideosDescription": "これらの動画はカテゴリーページのスライダーで表示されます。動画にはサムネイルを付けてください。",
   "feedback.help.backToCategory": "カテゴリーに戻る",
-  "feedback.help.watchVideo": "ビデオを見る"
+  "feedback.help.watchVideo": "ビデオを見る",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

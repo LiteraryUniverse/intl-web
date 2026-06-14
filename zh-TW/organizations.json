@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "註冊",
   "org.members.emailInvite.sent": "透過電子郵件邀請",
   "org.members.joined": "已加入",
-  "org.roles.super_admin": "超級管理員"
+  "org.roles.super_admin": "超級管理員",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

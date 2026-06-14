@@ -24,5 +24,9 @@
   "challenges.report": "Zgłoś",
   "challenges.victory": "Gratulacje! To wyzwanie zostało ukończone.",
   "challenges.defeat": "Niestety, ale nie ukończono tego wyzwania.",
-  "challenges.baseline": "Bieżąca liczba słów dla tej opowieści wynosi {wordcount, number} i będzie to punkt wyjściowy."
+  "challenges.baseline": "Bieżąca liczba słów dla tej opowieści wynosi {wordcount, number} i będzie to punkt wyjściowy.",
+  "challenges.day": "Dzień",
+  "challenges.words": "Słowa",
+  "challenges.actualProgress": "Dzień {day}: {words} słów",
+  "challenges.minimumRequired": "Wymagane minimum: {words} słów"
 }

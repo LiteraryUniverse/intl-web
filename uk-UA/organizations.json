@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Зареєстровано",
   "org.members.emailInvite.sent": "Запрошення на електронну пошту",
   "org.members.joined": "Приєднався",
-  "org.roles.super_admin": "Супер адміністратор"
+  "org.roles.super_admin": "Супер адміністратор",
+  "organization.blog.title": "{organization} — Новини",
+  "organization.courses.title": "Курси від {orgName}",
+  "organization.courses.none": "Ця організація ще не опублікувала жодного курсу."
 }

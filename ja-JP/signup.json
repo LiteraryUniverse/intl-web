@@ -93,5 +93,6 @@
 	"signup.stepCount": "ステップ {current, number} / {total, number}",
 	"signup.writer.goals.description": "あなたの執筆経験について教えてください。",
 	"signup.complete.title": "準備万端だ！",
-	"signup.complete.description": "プロフィールをご記入いただきありがとうございます。私たちはあなたの好みに基づいてあなたの経験をカスタマイズしました。"
+	"signup.complete.description": "プロフィールをご記入いただきありがとうございます。私たちはあなたの好みに基づいてあなたの経験をカスタマイズしました。",
+	"signup.password2.label": "Confirm password"
 }

@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Μόνο οι συνδρομητές του LU ή τα μέλη του Fan Club μπορούν να κάνουν ερωτήσεις εδώ.",
   "blogs.discussion": "Συζήτηση",
   "blogs.discussionOnForum": "Η συζήτηση για αυτή την ανάρτηση στο blog συνεχίζεται στα φόρουμ μας.",
-  "blogs.joinDiscussion": "Πάρτε μέρος στη συζήτηση"
+  "blogs.joinDiscussion": "Πάρτε μέρος στη συζήτηση",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

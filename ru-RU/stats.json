@@ -137,5 +137,19 @@
   "stats.sales.perStory.purchases": "Purchases",
   "stats.sales.perStory.revenue": "Revenue",
   "stats.sales.overview.title": "Sales Overview",
-  "stats.sales.overview.description": "Overview of all your sales across stories."
+  "stats.sales.overview.description": "Overview of all your sales across stories.",
+  "stats.noPosts": "Публикаций блога нет.",
+  "stats.noChapters": "Статистика по главам недоступна.",
+  "stats.count": "Количество",
+  "stats.views": "просмотров",
+  "stats.visitors": "посетителей",
+  "stats.chapter.number": "Глава",
+  "stats.characterCount": "{count} символов",
+  "stats.chapterReadingTime.title": "Время чтения по главам",
+  "stats.chapterReadingTime.noData": "Данных о времени чтения для этого языка пока нет. Данные появятся по мере того, как читатели будут проводить время за вашими главами.",
+  "stats.chapterReadingTime.chapter": "Глава",
+  "stats.chapterReadingTime.chapterTitle": "Название",
+  "stats.chapterReadingTime.totalTime": "Общее время чтения",
+  "stats.hits.comingSoon": "График посещений со временем скоро появится...",
+  "stats.visitors.comingSoon": "График посетителей со временем скоро появится..."
 }

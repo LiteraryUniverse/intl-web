@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Otázky tu môžu klásť len predplatitelia LU alebo členovia fanklubu.",
   "blogs.discussion": "Diskusia",
   "blogs.discussionOnForum": "Diskusia k tomuto príspevku na blogu pokračuje na našom fóre.",
-  "blogs.joinDiscussion": "Pripojte sa k diskusii"
+  "blogs.joinDiscussion": "Pripojte sa k diskusii",
+  "blog.posts.empty": "Zatiaľ nemáte žiadne príspevky. Vytvorte svoj prvý príspevok a začnite.",
+  "blog.qa.tabs.aria": "Záložky otázok blogu",
+  "blogs.literaryCommentary": "Literárny komentár",
+  "blog.qa.reference.encyclopedia.placeholder": "Hľadať záznamy v encyklopédii…",
+  "blog.qa.reference.story.placeholder": "Hľadať vo vašich príbehoch…",
+  "blog.qa.reference.blog.placeholder": "Hľadať príspevky na blogu…",
+  "literaryCommentary.tab": "Komentár"
 }

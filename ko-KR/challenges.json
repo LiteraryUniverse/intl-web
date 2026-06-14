@@ -24,5 +24,9 @@
   "challenges.report": "보고서",
   "challenges.victory": "축하합니다! 이 도전을 완료하셨습니다.",
   "challenges.defeat": "안타깝게도 이 도전을 완료하지 못했습니다.",
-  "challenges.baseline": "현재 이 이야기의 단어 수는 {wordcount, number}입니다, 이것이 시작점이 될 것입니다."
+  "challenges.baseline": "현재 이 이야기의 단어 수는 {wordcount, number}입니다, 이것이 시작점이 될 것입니다.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

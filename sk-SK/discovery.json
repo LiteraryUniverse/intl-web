@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Prihláste sa a zakúpte si jednotlivé príbehové oblúky",
   "story.purchase.pricingUnavailable": "Informácie o cenách v súčasnosti nie sú k dispozícii.",
   "story.buy.error.timeout": "Požiadavka sa oneskorila. Skúste to prosím znova.",
-  "story.chapter.freePreviewEnds": "Bezplatný náhľad končí tu"
+  "story.chapter.freePreviewEnds": "Bezplatný náhľad končí tu",
+  "discovery.ai.stories.new": "Nové príbehy vygenerované umelou inteligenciou",
+  "discovery.ai.stories.updated": "Nedávno aktualizované príbehy vygenerované umelou inteligenciou",
+  "discovery.ai.content.desc": "Objavte obsah vytvorený s pomocou umelej inteligencie",
+  "discover.search.universal.title": "Hľadať",
+  "discover.search.encyclopedia": "Encyklopédia",
+  "discover.search.encyclopedia.comingSoon": "Vyhľadávanie v encyklopédii čoskoro pribudne.",
+  "discover.search.universal.description": "Hľadať príbehy a univerzá",
+  "discover.search.typeSelection.aria": "Výber typu obsahu",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nenašli sa žiadne výsledky} one {Nájdený # výsledok} few {Nájdené # výsledky} other {Nájdených # výsledkov}}"
 }

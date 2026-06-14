@@ -6,7 +6,8 @@
     "close": "Sulje kierros",
     "end": "End Tour",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close"
+    "keyboardHint": "Use arrow keys to navigate, ESC to close",
+    "start": "Start Tour"
   },
   "dashboard": {
     "title": "Welcome to Your Dashboard",
@@ -69,7 +70,8 @@
       "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
     },
     "writerActionButton": "Go to Workshop",
-    "readerActionButton": "Go to Discovery"
+    "readerActionButton": "Go to Discovery",
+    "takeTour": "New here? Take a quick tour of your dashboard!"
   },
   "workshop": {
     "title": "Welcome to Your Workshop",

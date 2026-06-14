@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Selecione os vídeos em destaque",
   "feedback.help.featuredVideosDescription": "Estes vídeos serão apresentados numa barra deslizante na página da categoria. Os vídeos devem ter uma miniatura para uma melhor apresentação.",
   "feedback.help.backToCategory": "Voltar à categoria",
-  "feedback.help.watchVideo": "Veja o vídeo"
+  "feedback.help.watchVideo": "Veja o vídeo",
+  "feedback.help.noFeaturedCourses": "Ainda não há cursos em destaque.",
+  "resolutionCenter.action.correctAgeRating": "Corrigir classificação etária",
+  "resolutionCenter.reportDetail": "Detalhes da denúncia",
+  "resolutionCenter.dashboard.title": "Centro de resolução"
 }

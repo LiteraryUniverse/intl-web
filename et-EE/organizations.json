@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Registreeritud",
   "org.members.emailInvite.sent": "Kutsutud e-posti teel",
   "org.members.joined": "Liitunud",
-  "org.roles.super_admin": "Super Admin"
+  "org.roles.super_admin": "Super Admin",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

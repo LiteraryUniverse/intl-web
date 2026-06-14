@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "Nenašli sa žiadne skryté fanúšikovské umenia.",
   "fanManager.rejected.nothingFound": "Nenašli sa žiadne zamietnuté fanúšikovské umenia.",
   "fanManager.approved.nothingFound": "Nenašli sa žiadne schválené fanúšikovské umenia.",
-  "fanManager.submitted.nothingFound": "Nenašli sa žiadne odoslané fanúšikovské umenia."
+  "fanManager.submitted.nothingFound": "Nenašli sa žiadne odoslané fanúšikovské umenia.",
+  "fanManager.goToSettings": "Prejsť na nastavenia",
+  "fanManager.authorComment.label": "Komentár od autora univerza len pre vás: ",
+  "fanManager.publicComment.label": "Verejný komentár od autora univerza: ",
+  "fanManager.allowComments": "Povoliť komentáre",
+  "fanManager.item.settings": "Nastavenia {artTitle}",
+  "fanManager.stateChange.Hide": "Skryť fanúšikovské dielo",
+  "fanManager.for": "Správca fanúšikov pre {universe}",
+  "fanManager.sort": "Zoradiť",
+  "fanManager.sortByDate": "Zoradiť podľa dátumu",
+  "fanManager.sortByLikes": "Zoradiť podľa páčení",
+  "fanManager.fanArt.info": "Informácie o fanúšikovskom diele",
+  "fanManager.form.submit": "Odošlite svoje fanúšikovské dielo do {universe}",
+  "fanManager.thankYou.wait": "Budete musieť počkať, kým autor univerza schváli vaše fanúšikovské dielo",
+  "fanManager.thankYou": "Ďakujeme za odoslanie vášho fanúšikovského diela!",
+  "fanManager.thankYou.goBack": "Späť na fanúšikovské diela {universe}"
 }

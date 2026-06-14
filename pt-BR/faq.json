@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Quem pode ver meus verbetes de enciclopédia?",
   "faq.answer.encyclopedia.visibility": "O senhor pode definir entradas ou parte de entradas para serem públicas ou privadas.",
   "faq.question.encyclopedia.troubleshooting": "E se eu não conseguir localizar ou editar uma entrada?",
-  "faq.answer.encyclopedia.troubleshooting": "Tente atualizar a página. Se o problema persistir, verifique suas permissões ou entre em contato com o suporte."
+  "faq.answer.encyclopedia.troubleshooting": "Tente atualizar a página. Se o problema persistir, verifique suas permissões ou entre em contato com o suporte.",
+  "faq.section.organization": "Organizações"
 }

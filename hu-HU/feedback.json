@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Kiemelt videók kiválasztása",
   "feedback.help.featuredVideosDescription": "Ezek a videók egy csúszkában jelennek meg a kategóriaoldalon. A videóknak a legjobb megjelenés érdekében miniatűrrel kell rendelkezniük.",
   "feedback.help.backToCategory": "Vissza a kategóriába",
-  "feedback.help.watchVideo": "Videó megtekintése"
+  "feedback.help.watchVideo": "Videó megtekintése",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Vain LU-tilaajat tai Fan Clubin jäsenet voivat esittää kysymyksiä täällä.",
   "blogs.discussion": "Keskustelu",
   "blogs.discussionOnForum": "Keskustelu tästä blogikirjoituksesta jatkuu foorumeillamme.",
-  "blogs.joinDiscussion": "Osallistu keskusteluun"
+  "blogs.joinDiscussion": "Osallistu keskusteluun",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

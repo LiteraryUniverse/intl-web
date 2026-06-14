@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "この宇宙では、ファンフィクションの表示は許可されていません。",
   "universe.storiesCount": "宇宙の物語の総数",
   "universe.createdAt": "作成された： {date}",
-  "universe.authors.none": "著者情報はありません。"
+  "universe.authors.none": "著者情報はありません。",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

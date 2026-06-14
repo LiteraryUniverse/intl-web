@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Questo Universo non permette di mostrare fan fiction.",
   "universe.storiesCount": "Numero totale di storie nell'universo",
   "universe.createdAt": "Creato: {date}",
-  "universe.authors.none": "Non sono disponibili informazioni sugli autori."
+  "universe.authors.none": "Non sono disponibili informazioni sugli autori.",
+  "universe.blog.title": "{universe} - Notizie e aggiornamenti",
+  "universe.fanarts.allowComments": "Consenti i commenti",
+  "universe.createdby": "Creato da",
+  "universe.fanArt.picture": "Immagine della fan art",
+  "universe.stories": "Storie"
 }

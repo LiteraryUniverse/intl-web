@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Selecteer deze licentie",
   "licenses.commercial.title": "Informatie over commerciële licenties",
   "licenses.commercial.exclusive": "Met deze exclusieve licentie ontvangt Literary Universe een vergoeding van 10% van uw inkomsten. Dit betekent dat u 90% van de inkomsten uit uw werk op ons platform ontvangt.",
-  "licenses.commercial.nonExclusive": "Met deze niet-exclusieve licentie neemt Literary Universe een vergoeding van 30% van uw inkomsten op ons platform. Dit betekent dat u 70% van de inkomsten uit uw werk op Literary Universe ontvangt."
+  "licenses.commercial.nonExclusive": "Met deze niet-exclusieve licentie neemt Literary Universe een vergoeding van 30% van uw inkomsten op ons platform. Dit betekent dat u 70% van de inkomsten uit uw werk op Literary Universe ontvangt.",
+  "licenses.commercial.info.title": "Informatie over commerciële licentie",
+  "licenses.commercial.exclusive.info": "Exclusieve licentie: 10% platformkosten, je houdt 90% van de inkomsten",
+  "licenses.commercial.nonexclusive.info": "Niet-exclusieve licentie: 30% platformkosten, je houdt 70% van de inkomsten",
+  "licenses.moreInfo": "Meer informatie"
 }

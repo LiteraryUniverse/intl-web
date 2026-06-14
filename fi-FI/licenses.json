@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Valitse tämä lisenssi",
   "licenses.commercial.title": "Kaupallisen lisenssin tiedot",
   "licenses.commercial.exclusive": "Tämän yksinoikeuslisenssin myötä Literary Universe ottaa 10 %:n palkkion tuloistasi. Tämä tarkoittaa, että saat 90 % tuloista, jotka syntyvät teoksestasi alustallamme.",
-  "licenses.commercial.nonExclusive": "Tämän ei-yksinomaisen lisenssin myötä Literary Universe ottaa 30 % maksun alustallamme saamistasi tuloista. Tämä tarkoittaa, että saat 70 % tuloista, jotka syntyvät työstäsi Literary Universessa."
+  "licenses.commercial.nonExclusive": "Tämän ei-yksinomaisen lisenssin myötä Literary Universe ottaa 30 % maksun alustallamme saamistasi tuloista. Tämä tarkoittaa, että saat 70 % tuloista, jotka syntyvät työstäsi Literary Universessa.",
+  "licenses.commercial.info.title": "Commercial License Information",
+  "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
+  "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
+  "licenses.moreInfo": "More Information"
 }

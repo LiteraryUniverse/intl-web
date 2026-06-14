@@ -9,5 +9,6 @@
   "library.search.prompt": "Search your library to find content",
   "library.search.noFilters": "Digite os termos de pesquisa ou aplique filtros",
   "library.search": "Search Your Library",
-  "library.ownedStories": "Histórias compradas"
+  "library.ownedStories": "Histórias compradas",
+  "library.meta.description": "Sua biblioteca pessoal na Literary Universe. Acesse todas as suas histórias, universos e listas de leitura salvos em um só lugar."
 }

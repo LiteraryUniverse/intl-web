@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "इस अध्याय को खरीदना आवश्यक है।",
   "reader.purchaseGate.description": "{storyTitle}{authorName, select, undefined {} other { द्वारा {authorName}}}पढ़ना जारी रखने के लिए, आपको इसे खरीदना होगा।",
   "reader.purchaseGate.buyArc": "या यह आर्क खरीदें",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} अध्याय} other {{count} अध्याय}} शामिल"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} अध्याय} other {{count} अध्याय}} शामिल",
+  "story.chapter.freePreview": "Free",
+  "story.chapter.locked": "Locked",
+  "story.translation.noPricing": "Not yet available for purchase",
+  "story.ownAlready": "You already own this story.",
+  "story.buy": "Buy story",
+  "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
+  "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
 }

@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Masuk untuk membeli arc cerita individual",
   "story.purchase.pricingUnavailable": "Informasi harga saat ini tidak tersedia.",
   "story.buy.error.timeout": "Permintaan telah habis masa berlakunya. Silakan coba lagi.",
-  "story.chapter.freePreviewEnds": "Pratinjau gratis berakhir di sini"
+  "story.chapter.freePreviewEnds": "Pratinjau gratis berakhir di sini",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

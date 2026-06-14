@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "Nebyly nalezeny žádné skryté fanouškovské výtvarné práce.",
   "fanManager.rejected.nothingFound": "Nebyly nalezeny žádné zamítnuté fanouškovské výtvarné práce.",
   "fanManager.approved.nothingFound": "Nebyly nalezeny žádné schválené fanouškovské výtvarné práce.",
-  "fanManager.submitted.nothingFound": "Nebyly nalezeny žádné odeslané fanouškovské umění."
+  "fanManager.submitted.nothingFound": "Nebyly nalezeny žádné odeslané fanouškovské umění.",
+  "fanManager.goToSettings": "Přejít na nastavení",
+  "fanManager.authorComment.label": "Komentář od autora universa jen pro vás: ",
+  "fanManager.publicComment.label": "Veřejný komentář od autora universa: ",
+  "fanManager.allowComments": "Povolit komentáře",
+  "fanManager.item.settings": "Nastavení {artTitle}",
+  "fanManager.stateChange.Hide": "Skrýt fan art",
+  "fanManager.for": "Správce fanoušků pro {universe}",
+  "fanManager.sort": "Řadit",
+  "fanManager.sortByDate": "Řadit podle data",
+  "fanManager.sortByLikes": "Řadit podle líbí se",
+  "fanManager.fanArt.info": "Informace o fan artu",
+  "fanManager.form.submit": "Odešlete svůj fan art do {universe}",
+  "fanManager.thankYou.wait": "Budete muset počkat, až autor universa schválí váš fan art",
+  "fanManager.thankYou": "Děkujeme za odeslání vašeho fan artu!",
+  "fanManager.thankYou.goBack": "Zpět na fan arty {universe}"
 }

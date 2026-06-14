@@ -24,5 +24,8 @@
   "personalNotes.chapter": "ជំពូក",
   "personalNotes.recentSearches": "លទ្ធផលស្វែងរកថ្មីៗ៖",
   "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes"
+  "personalNotes.hasNotes": "Has Personal Notes",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

@@ -54,5 +54,19 @@
   "group.noticeBoard": "Дошка оголошень",
   "group.leaveGroup.modalAria": "Підтвердження того, що ви хочете вийти з групи.",
   "group.leaveGroup.heading": "Ви впевнені, що хочете залишити {groupName}?",
-  "group.leaveGroup.explain": "Вихід з групи означає, що ви втратите доступ до ресурсів групи і не зможете взаємодіяти з нею."
+  "group.leaveGroup.explain": "Вихід з групи означає, що ви втратите доступ до ресурсів групи і не зможете взаємодіяти з нею.",
+  "groups.category.label": "Категорія",
+  "groups.category.none": "Виберіть категорію",
+  "groups.category.bookClub": "Книжковий клуб",
+  "groups.category.academic": "Академічна група",
+  "groups.category.authorCommunity": "Авторська спільнота",
+  "groups.category.church": "Церковна група",
+  "groups.category.community": "Громадська група",
+  "groups.category.family": "Сімейна група",
+  "groups.category.hobbyist": "Група за інтересами",
+  "groups.category.writer": "Група письменників",
+  "groups.category.other": "Інший вид групи",
+  "groups.category.filter.label": "Фільтрувати за категорією:",
+  "groups.language.filter.label": "Фільтрувати за мовою:",
+  "groups.noticeBoard.heading": "Дошка оголошень"
 }

@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "追蹤撰寫故事、章節和百科全書詞條所花費的時間。這包括詳細的指標，例如打字活動、字數和每天的時間模式。",
   "settings.tracking.trackWritingTime": "追蹤寫作時間",
   "settings.tracking.trackReadingTime": "追蹤閱讀時間",
-  "settings.tracking.trackBlogWritingTime": "追蹤部落格撰寫時間"
+  "settings.tracking.trackBlogWritingTime": "追蹤部落格撰寫時間",
+  "settings.apiKeys.create.title": "Create New API Key",
+  "settings.apiKeys.create": "Create New API Key",
+  "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",
+  "settings.interests.genres": "Favorite Genres",
+  "settings.interests.genres.help": "Select genres that interest you.",
+  "settings.interests.tags": "Favorite Tags",
+  "settings.interests.tags.help": "Select up to 20 tags that interest you."
 }

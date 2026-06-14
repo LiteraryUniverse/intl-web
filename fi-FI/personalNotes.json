@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Muokkausmerkkiblokki",
   "personalNotes.recentSearches": "Viimeisimmät haut:",
   "personalNotes.myNotes": "Henkilökohtaiset muistiinpanoni",
-  "personalNotes.hasNotes": "On henkilökohtaisia muistiinpanoja"
+  "personalNotes.hasNotes": "On henkilökohtaisia muistiinpanoja",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

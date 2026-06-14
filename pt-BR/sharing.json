@@ -61,5 +61,14 @@
   "sharing.advanced.printTemplate6": "Modelo 6",
   "sharing.advanced.fontColor": "Cor da fonte",
   "sharing.advanced.shareQR": "Share QR Link",
-  "sharing.advanced.displayLanguage": "Display language"
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.advanced.showPublicationDate": "Mostrar data de publicação futura",
+  "sharing.advanced.backgroundImage": "Imagem de fundo",
+  "sharing.advanced.genreBackgroundOption": "Gênero",
+  "sharing.advanced.uploadingBackground": "Enviando…",
+  "sharing.advanced.uploadBackground": "+ Enviar",
+  "sharing.advanced.shareWithQR": "Compartilhar com QR",
+  "sharing.advanced.bgLimitReached": "Você atingiu o número máximo de imagens de fundo para sua assinatura.",
+  "sharing.advanced.bgUploadError": "Falha ao enviar a imagem de fundo.",
+  "sharing.advanced.deleteBackground": "Excluir fundo"
 }

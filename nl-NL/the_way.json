@@ -103,5 +103,12 @@
   "theWay.task.universePublicationCount.description": "Er gebeurt niet veel in een vacuüm. Het is essentieel om een universum te hebben dat u kunt opbouwen en delen tussen verhalen of gewoon om meer diepte aan uw schrijven te geven.",
   "theWay.task.wordCount.title": "Reach a word count milestone",
   "theWay.task.wordCount.progress": "Current word count: {currentValue, number}/{targetValue, number}",
-  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way."
+  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way.",
+  "theWay.genreSelector.label": "Genre selecteren",
+  "theWay.genreSelector.placeholder": "Selecteer een genre...",
+  "theWay.badge.title": "Auteursniveau",
+  "theWay.badge.level": "Niveau {level}",
+  "theWay.progress.currentStreak": "Huidige reeks: {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Gepubliceerd {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Gefeliciteerd! Je"
 }

@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Зарегистрированный",
   "org.members.emailInvite.sent": "Приглашение по электронной почте",
   "org.members.joined": "Присоединился",
-  "org.roles.super_admin": "Супер Администратор"
+  "org.roles.super_admin": "Супер Администратор",
+  "organization.blog.title": "{organization} — Новости",
+  "organization.courses.title": "Курсы от {orgName}",
+  "organization.courses.none": "Эта организация пока не опубликовала ни одного курса."
 }

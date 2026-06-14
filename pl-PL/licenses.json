@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Proszę wybrać tę licencję",
   "licenses.commercial.title": "Informacje o licencji komercyjnej",
   "licenses.commercial.exclusive": "Dzięki tej wyłącznej licencji Literary Universe pobierze 10% opłaty od Państwa zarobków. Oznacza to, że otrzymają Państwo 90% przychodów wygenerowanych z Państwa pracy na naszej platformie.",
-  "licenses.commercial.nonExclusive": "Dzięki tej niewyłącznej licencji Literary Universe pobierze 30% opłaty od Państwa zarobków na naszej platformie. Oznacza to, że otrzymają Państwo 70% przychodów wygenerowanych z Państwa pracy na Literary Universe."
+  "licenses.commercial.nonExclusive": "Dzięki tej niewyłącznej licencji Literary Universe pobierze 30% opłaty od Państwa zarobków na naszej platformie. Oznacza to, że otrzymają Państwo 70% przychodów wygenerowanych z Państwa pracy na Literary Universe.",
+  "licenses.commercial.info.title": "Informacje o licencji komercyjnej",
+  "licenses.commercial.exclusive.info": "Licencja wyłączna: 10% opłaty platformy, zatrzymujesz 90% zarobków",
+  "licenses.commercial.nonexclusive.info": "Licencja niewyłączna: 30% opłaty platformy, zatrzymujesz 70% zarobków",
+  "licenses.moreInfo": "Więcej informacji"
 }

@@ -93,5 +93,6 @@
 	"signup.stepCount": "Шаг {current, number} из {total, number}",
 	"signup.writer.goals.description": "Расскажите нам о своем писательском опыте.",
 	"signup.complete.title": "У Вас все готово!",
-	"signup.complete.description": "Спасибо, что заполнили свой профиль. Мы настроили Ваш опыт в соответствии с Вашими предпочтениями."
+	"signup.complete.description": "Спасибо, что заполнили свой профиль. Мы настроили Ваш опыт в соответствии с Вашими предпочтениями.",
+	"signup.password2.label": "Подтвердите пароль"
 }

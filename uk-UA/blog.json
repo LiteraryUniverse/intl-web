@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Тут можуть ставити запитання лише передплатники LU або члени Фан-клубу.",
   "blogs.discussion": "Обговорення",
   "blogs.discussionOnForum": "Обговорення цієї публікації в блозі триває на наших форумах.",
-  "blogs.joinDiscussion": "Приєднуйтесь до обговорення"
+  "blogs.joinDiscussion": "Приєднуйтесь до обговорення",
+  "blog.posts.empty": "У вас ще немає дописів. Створіть свій перший допис, щоб розпочати.",
+  "blog.qa.tabs.aria": "Вкладки питань блогу",
+  "blogs.literaryCommentary": "Літературний коментар",
+  "blog.qa.reference.encyclopedia.placeholder": "Пошук записів енциклопедії…",
+  "blog.qa.reference.story.placeholder": "Пошук ваших історій…",
+  "blog.qa.reference.blog.placeholder": "Пошук дописів блогу…",
+  "literaryCommentary.tab": "Коментар"
 }

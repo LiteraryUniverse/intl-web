@@ -93,5 +93,6 @@
 	"signup.stepCount": "Krok {current, number} z {total, number}",
 	"signup.writer.goals.description": "Povězte nám o svých zkušenostech s psaním.",
 	"signup.complete.title": "Vše je připraveno!",
-	"signup.complete.description": "Děkujeme vám za vyplnění profilu. Na základě vašich preferencí jsme přizpůsobili vaše zkušenosti."
+	"signup.complete.description": "Děkujeme vám za vyplnění profilu. Na základě vašich preferencí jsme přizpůsobili vaše zkušenosti.",
+	"signup.password2.label": "Potvrďte heslo"
 }

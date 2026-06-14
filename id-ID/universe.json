@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Semesta ini tidak mengizinkan menampilkan fan fiction.",
   "universe.storiesCount": "Jumlah total cerita di alam semesta",
   "universe.createdAt": "Dibuat: {date}",
-  "universe.authors.none": "Tidak ada informasi penulis yang tersedia."
+  "universe.authors.none": "Tidak ada informasi penulis yang tersedia.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

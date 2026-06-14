@@ -93,5 +93,6 @@
 	"signup.stepCount": "Žingsnis {current, number} iš {total, number}",
 	"signup.writer.goals.description": "Papasakokite apie savo rašymo patirtį.",
 	"signup.complete.title": "Viskas paruošta!",
-	"signup.complete.description": "Dėkojame, kad užpildėte savo profilį. Atsižvelgdami į jūsų pageidavimus, pritaikėme jūsų patirtį."
+	"signup.complete.description": "Dėkojame, kad užpildėte savo profilį. Atsižvelgdami į jūsų pageidavimus, pritaikėme jūsų patirtį.",
+	"signup.password2.label": "Confirm password"
 }

@@ -93,5 +93,6 @@
 	"signup.stepCount": "Langkah {current, number} dari {total, number}",
 	"signup.writer.goals.description": "Ceritakan kepada kami tentang pengalaman menulis Anda.",
 	"signup.complete.title": "Anda sudah siap!",
-	"signup.complete.description": "Terima kasih telah melengkapi profil Anda. Kami telah menyesuaikan pengalaman Anda berdasarkan preferensi Anda."
+	"signup.complete.description": "Terima kasih telah melengkapi profil Anda. Kami telah menyesuaikan pengalaman Anda berdasarkan preferensi Anda.",
+	"signup.password2.label": "Confirm password"
 }

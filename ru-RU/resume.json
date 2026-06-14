@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Стимпанк",
   "resume.theme.horror": "Ужасы",
   "resume.theme.militarySciFi": "Военная фантастика",
-  "resume.theme.artDeco": "Арт-деко"
+  "resume.theme.artDeco": "Арт-деко",
+  "resume.editor.stories.hasPreview": "(есть издательский предпросмотр)",
+  "resume.editor.stories.heading": "Выберите истории для демонстрации",
+  "resume.editor.stories.description": "Выберите, какие опубликованные истории включить в ваше резюме. Истории с издательским предпросмотром выбраны по умолчанию.",
+  "resume.editor.stories.standalone": "Отдельные истории",
+  "resume.reader.loading": "Загрузка предпросмотра...",
+  "resume.reader.publisherPreview": "Издательский предпросмотр",
+  "resume.reader.previewRange": "Показаны главы {from}–{to} (издательский предпросмотр)",
+  "resume.reader.loadingChapter": "Загрузка главы...",
+  "resume.reader.chapterNotFound": "Глава недоступна."
 }

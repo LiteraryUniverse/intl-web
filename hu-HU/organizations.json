@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Regisztrált",
   "org.members.emailInvite.sent": "Meghívás e-mailben",
   "org.members.joined": "Csatlakozott",
-  "org.roles.super_admin": "Super Admin"
+  "org.roles.super_admin": "Super Admin",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

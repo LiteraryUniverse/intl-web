@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Ten Wszechświat nie pozwala na wyświetlanie fan fiction.",
   "universe.storiesCount": "Całkowita liczba historii we wszechświecie",
   "universe.createdAt": "Utworzono: {date}",
-  "universe.authors.none": "Brak dostępnych informacji o autorach."
+  "universe.authors.none": "Brak dostępnych informacji o autorach.",
+  "universe.blog.title": "{universe} – Aktualności i nowości",
+  "universe.fanarts.allowComments": "Zezwól na komentarze",
+  "universe.createdby": "Utworzone przez",
+  "universe.fanArt.picture": "Obraz fan artu",
+  "universe.stories": "Opowiadania"
 }

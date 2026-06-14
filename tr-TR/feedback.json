@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Öne çıkan videoları seçin",
   "feedback.help.featuredVideosDescription": "Bu videolar kategori sayfasında bir kaydırıcıda görüntülenecektir. En iyi görünüm için videoların bir küçük resmi olmalıdır.",
   "feedback.help.backToCategory": "Kategoriye geri dön",
-  "feedback.help.watchVideo": "Videoyu izleyin"
+  "feedback.help.watchVideo": "Videoyu izleyin",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

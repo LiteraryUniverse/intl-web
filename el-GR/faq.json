@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Ποιος μπορεί να δει τις εγγραφές μου στην εγκυκλοπαίδεια;",
   "faq.answer.encyclopedia.visibility": "Μπορείτε να ορίσετε τις καταχωρήσεις ή μέρος των καταχωρήσεων να είναι δημόσιες ή ιδιωτικές.",
   "faq.question.encyclopedia.troubleshooting": "Τι γίνεται αν δεν μπορώ να βρω ή να επεξεργαστώ μια καταχώρηση;",
-  "faq.answer.encyclopedia.troubleshooting": "Δοκιμάστε να ανανεώσετε τη σελίδα. Αν το πρόβλημα παραμένει, ελέγξτε τα δικαιώματά σας ή επικοινωνήστε με την υποστήριξη."
+  "faq.answer.encyclopedia.troubleshooting": "Δοκιμάστε να ανανεώσετε τη σελίδα. Αν το πρόβλημα παραμένει, ελέγξτε τα δικαιώματά σας ή επικοινωνήστε με την υποστήριξη.",
+  "faq.section.organization": "Organizations"
 }

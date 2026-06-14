@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Revidovaný textový blok",
   "personalNotes.recentSearches": "Nedávne vyhľadávania:",
   "personalNotes.myNotes": "Moje osobné poznámky",
-  "personalNotes.hasNotes": "Má osobné poznámky"
+  "personalNotes.hasNotes": "Má osobné poznámky",
+  "personalNotes.recentSearched": "Nedávne vyhľadávania:",
+  "personalNotes.search.noFound": "Nenašli sa žiadne položky",
+  "personalNotes.type": "Typ"
 }

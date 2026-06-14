@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "L'orrore",
   "resume.theme.militarySciFi": "Fantascienza militare",
-  "resume.theme.artDeco": "Art Deco"
+  "resume.theme.artDeco": "Art Deco",
+  "resume.editor.stories.hasPreview": "(ha un'anteprima dell'editore)",
+  "resume.editor.stories.heading": "Seleziona le storie da mettere in evidenza",
+  "resume.editor.stories.description": "Scegli quali storie pubblicate includere nel tuo curriculum. Le storie con anteprime dell'editore sono selezionate per impostazione predefinita.",
+  "resume.editor.stories.standalone": "Storie autoconclusive",
+  "resume.reader.loading": "Caricamento dell'anteprima...",
+  "resume.reader.publisherPreview": "Anteprima dell'editore",
+  "resume.reader.previewRange": "Visualizzazione dei capitoli da {from} a {to} (anteprima dell'editore)",
+  "resume.reader.loadingChapter": "Caricamento del capitolo...",
+  "resume.reader.chapterNotFound": "Capitolo non disponibile."
 }

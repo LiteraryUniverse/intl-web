@@ -61,5 +61,14 @@
   "sharing.advanced.printTemplate6": "Modèle 6",
   "sharing.advanced.fontColor": "Couleur de la police",
   "sharing.advanced.shareQR": "Share QR Link",
-  "sharing.advanced.displayLanguage": "Display language"
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.advanced.showPublicationDate": "Afficher la date de publication future",
+  "sharing.advanced.backgroundImage": "Image d'arrière-plan",
+  "sharing.advanced.genreBackgroundOption": "Genre",
+  "sharing.advanced.uploadingBackground": "Téléversement…",
+  "sharing.advanced.uploadBackground": "+ Téléverser",
+  "sharing.advanced.shareWithQR": "Partager avec un QR",
+  "sharing.advanced.bgLimitReached": "Vous avez atteint le nombre maximum d'images d'arrière-plan pour votre abonnement.",
+  "sharing.advanced.bgUploadError": "Échec du téléversement de l'image d'arrière-plan.",
+  "sharing.advanced.deleteBackground": "Supprimer l'arrière-plan"
 }

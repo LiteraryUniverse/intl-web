@@ -24,5 +24,9 @@
   "challenges.report": "Lapor",
   "challenges.victory": "Selamat! Anda telah menyelesaikan tantangan ini.",
   "challenges.defeat": "Sayangnya Anda tidak menyelesaikan tantangan ini.",
-  "challenges.baseline": "Jumlah kata saat ini untuk cerita ini adalah {wordcount, number}, ini akan menjadi titik awal."
+  "challenges.baseline": "Jumlah kata saat ini untuk cerita ini adalah {wordcount, number}, ini akan menjadi titik awal.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

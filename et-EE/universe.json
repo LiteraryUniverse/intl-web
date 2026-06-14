@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "See Universum ei võimalda fännifiktsiooni näitamist.",
   "universe.storiesCount": "Lugude koguarv universumis",
   "universe.createdAt": "Loodud: {date}",
-  "universe.authors.none": "Andmed autorite kohta puuduvad."
+  "universe.authors.none": "Andmed autorite kohta puuduvad.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

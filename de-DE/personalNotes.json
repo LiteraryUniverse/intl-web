@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Textblock überarbeitet",
   "personalNotes.recentSearches": "Letzte Suchergebnisse:",
   "personalNotes.myNotes": "Meine persönlichen Notizen",
-  "personalNotes.hasNotes": "Hat persönliche Notizen"
+  "personalNotes.hasNotes": "Hat persönliche Notizen",
+  "personalNotes.recentSearched": "Letzte Suchanfragen:",
+  "personalNotes.search.noFound": "Keine Einträge gefunden",
+  "personalNotes.type": "Typ"
 }

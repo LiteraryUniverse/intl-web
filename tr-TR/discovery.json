@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Bireysel hikaye serilerini satın almak için giriş yapın",
   "story.purchase.pricingUnavailable": "Fiyatlandırma bilgileri şu anda mevcut değildir.",
   "story.buy.error.timeout": "İstek zaman aşımına uğradı. Lütfen tekrar deneyin.",
-  "story.chapter.freePreviewEnds": "Ücretsiz ön izleme burada sona eriyor"
+  "story.chapter.freePreviewEnds": "Ücretsiz ön izleme burada sona eriyor",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

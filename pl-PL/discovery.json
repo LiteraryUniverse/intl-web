@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Zaloguj się, aby zakupić poszczególne odcinki historii",
   "story.purchase.pricingUnavailable": "Informacje o cenach są obecnie niedostępne.",
   "story.buy.error.timeout": "Upłynął limit czasu żądania. Proszę spróbować ponownie.",
-  "story.chapter.freePreviewEnds": "Bezpłatny podgląd kończy się tutaj"
+  "story.chapter.freePreviewEnds": "Bezpłatny podgląd kończy się tutaj",
+  "discovery.ai.stories.new": "Nowe opowiadania wygenerowane przez AI",
+  "discovery.ai.stories.updated": "Ostatnio zaktualizowane opowiadania wygenerowane przez AI",
+  "discovery.ai.content.desc": "Odkryj treści tworzone z pomocą AI",
+  "discover.search.universal.title": "Szukaj",
+  "discover.search.encyclopedia": "Encyklopedia",
+  "discover.search.encyclopedia.comingSoon": "Wyszukiwanie w encyklopedii już wkrótce.",
+  "discover.search.universal.description": "Szukaj opowiadań i uniwersów",
+  "discover.search.typeSelection.aria": "Wybór typu treści",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nie znaleziono wyników} one {Znaleziono # wynik} few {Znaleziono # wyniki} many {Znaleziono # wyników} other {Znaleziono # wyników}}"
 }

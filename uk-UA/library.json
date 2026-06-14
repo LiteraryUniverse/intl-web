@@ -9,5 +9,6 @@
   "library.search.prompt": "Search your library to find content",
   "library.search.noFilters": "Будь ласка, введіть пошукові запити або застосуйте фільтри",
   "library.search": "Search Your Library",
-  "library.ownedStories": "Куплені історії"
+  "library.ownedStories": "Куплені історії",
+  "library.meta.description": "Ваша особиста бібліотека на Literary Universe. Доступ до всіх збережених історій, всесвітів і списків для читання в одному місці."
 }

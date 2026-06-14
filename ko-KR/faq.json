@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "누가 내 백과사전 항목을 볼 수 있나요?",
   "faq.answer.encyclopedia.visibility": "항목 또는 항목의 일부를 공개 또는 비공개로 설정할 수 있습니다.",
   "faq.question.encyclopedia.troubleshooting": "항목을 찾거나 편집할 수 없는 경우 어떻게 하나요?",
-  "faq.answer.encyclopedia.troubleshooting": "페이지를 새로고침해 보세요. 문제가 지속되면 권한을 확인하거나 지원팀에 문의하세요."
+  "faq.answer.encyclopedia.troubleshooting": "페이지를 새로고침해 보세요. 문제가 지속되면 권한을 확인하거나 지원팀에 문의하세요.",
+  "faq.section.organization": "Organizations"
 }

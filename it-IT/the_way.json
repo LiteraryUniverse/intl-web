@@ -103,5 +103,12 @@
   "theWay.task.universePublicationCount.description": "Nulla accade nel vuoto. Avere un universo che può costruire e condividere tra una storia e l'altra o semplicemente per dare maggiore profondità alla sua scrittura è essenziale.",
   "theWay.task.wordCount.title": "Reach a word count milestone",
   "theWay.task.wordCount.progress": "Current word count: {currentValue, number}/{targetValue, number}",
-  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way."
+  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way.",
+  "theWay.genreSelector.label": "Seleziona il genere",
+  "theWay.genreSelector.placeholder": "Seleziona un genere...",
+  "theWay.badge.title": "Livello dell'autore",
+  "theWay.badge.level": "Livello {level}",
+  "theWay.progress.currentStreak": "Serie attuale: {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Pubblicati {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Congratulazioni! Sei"
 }

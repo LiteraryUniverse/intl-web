@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "Geen verborgen fanart gevonden.",
   "fanManager.rejected.nothingFound": "Geen afgewezen fanart gevonden.",
   "fanManager.approved.nothingFound": "Geen goedgekeurde fanart gevonden.",
-  "fanManager.submitted.nothingFound": "Geen ingezonden fan-art gevonden."
+  "fanManager.submitted.nothingFound": "Geen ingezonden fan-art gevonden.",
+  "fanManager.goToSettings": "Ga naar instellingen",
+  "fanManager.authorComment.label": "Opmerking van de universumauteur, speciaal voor jou: ",
+  "fanManager.publicComment.label": "Openbare opmerking van de universumauteur: ",
+  "fanManager.allowComments": "Opmerkingen toestaan",
+  "fanManager.item.settings": "Instellingen voor {artTitle}",
+  "fanManager.stateChange.Hide": "Fanart verbergen",
+  "fanManager.for": "Fanbeheer voor {universe}",
+  "fanManager.sort": "Sorteren",
+  "fanManager.sortByDate": "Sorteren op datum",
+  "fanManager.sortByLikes": "Sorteren op vind-ik-leuks",
+  "fanManager.fanArt.info": "Fanart-info",
+  "fanManager.form.submit": "Dien je fanart in bij {universe}",
+  "fanManager.thankYou.wait": "Je moet wachten tot de universumauteur je fanart goedkeurt",
+  "fanManager.thankYou": "Bedankt voor het insturen van je fanart!",
+  "fanManager.thankYou.goBack": "Ga terug naar de fanart van {universe}"
 }

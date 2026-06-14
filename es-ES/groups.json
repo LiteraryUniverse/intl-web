@@ -54,5 +54,19 @@
   "group.noticeBoard": "Tablón de anuncios",
   "group.leaveGroup.modalAria": "Confirmación de que desea abandonar el grupo.",
   "group.leaveGroup.heading": "¿Está seguro de que quiere dejar {groupName}?",
-  "group.leaveGroup.explain": "Abandonar el grupo significa que perderá el acceso a los recursos del grupo y no podrá interactuar con él."
+  "group.leaveGroup.explain": "Abandonar el grupo significa que perderá el acceso a los recursos del grupo y no podrá interactuar con él.",
+  "groups.category.label": "Categoría",
+  "groups.category.none": "Selecciona una categoría",
+  "groups.category.bookClub": "Club de lectura",
+  "groups.category.academic": "Grupo académico",
+  "groups.category.authorCommunity": "Grupo de comunidad de autores",
+  "groups.category.church": "Grupo religioso",
+  "groups.category.community": "Grupo comunitario",
+  "groups.category.family": "Grupo familiar",
+  "groups.category.hobbyist": "Grupo de aficionados",
+  "groups.category.writer": "Grupo de escritores",
+  "groups.category.other": "Otro tipo de grupo",
+  "groups.category.filter.label": "Filtrar por categoría:",
+  "groups.language.filter.label": "Filtrar por idioma:",
+  "groups.noticeBoard.heading": "Tablón de anuncios"
 }

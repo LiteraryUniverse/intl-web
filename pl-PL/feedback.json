@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Proszę wybrać polecane filmy",
   "feedback.help.featuredVideosDescription": "Filmy te będą wyświetlane w suwaku na stronie kategorii. Aby filmy wyglądały jak najlepiej, powinny mieć miniaturę.",
   "feedback.help.backToCategory": "Powrót do kategorii",
-  "feedback.help.watchVideo": "Proszę obejrzeć wideo"
+  "feedback.help.watchVideo": "Proszę obejrzeć wideo",
+  "feedback.help.noFeaturedCourses": "Brak wyróżnionych kursów.",
+  "resolutionCenter.action.correctAgeRating": "Popraw klasyfikację wiekową",
+  "resolutionCenter.reportDetail": "Szczegóły zgłoszenia",
+  "resolutionCenter.dashboard.title": "Centrum rozwiązywania spraw"
 }

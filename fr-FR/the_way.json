@@ -103,5 +103,12 @@
   "theWay.task.universePublicationCount.description": "Rien ne se passe dans le vide. Il est essentiel d'avoir un univers que vous pouvez construire et partager entre les histoires ou simplement pour donner plus de profondeur à vos écrits.",
   "theWay.task.wordCount.title": "Reach a word count milestone",
   "theWay.task.wordCount.progress": "Current word count: {currentValue, number}/{targetValue, number}",
-  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way."
+  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way.",
+  "theWay.genreSelector.label": "Sélectionner un genre",
+  "theWay.genreSelector.placeholder": "Sélectionner un genre…",
+  "theWay.badge.title": "Niveau d'auteur",
+  "theWay.badge.level": "Niveau {level}",
+  "theWay.progress.currentStreak": "Série actuelle : {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Publié {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Félicitations ! Vous"
 }

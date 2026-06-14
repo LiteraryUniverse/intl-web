@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Vyberte odporúčané videá",
   "feedback.help.featuredVideosDescription": "Tieto videá sa zobrazia v posuvníku na stránke kategórie. Videá by mali mať miniatúru, aby vyzerali čo najlepšie.",
   "feedback.help.backToCategory": "Späť na kategóriu",
-  "feedback.help.watchVideo": "Pozrite si video"
+  "feedback.help.watchVideo": "Pozrite si video",
+  "feedback.help.noFeaturedCourses": "Zatiaľ nie sú dostupné žiadne odporúčané kurzy.",
+  "resolutionCenter.action.correctAgeRating": "Opraviť vekové hodnotenie",
+  "resolutionCenter.reportDetail": "Podrobnosti hlásenia",
+  "resolutionCenter.dashboard.title": "Centrum riešení"
 }

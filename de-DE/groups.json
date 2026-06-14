@@ -54,5 +54,19 @@
   "group.noticeBoard": "Schwarzes Brett",
   "group.leaveGroup.modalAria": "Bestätigen Sie, dass Sie die Gruppe verlassen möchten.",
   "group.leaveGroup.heading": "Sind Sie sicher, dass Sie {groupName}verlassen wollen?",
-  "group.leaveGroup.explain": "Wenn Sie die Gruppe verlassen, verlieren Sie den Zugriff auf die Ressourcen der Gruppe und können nicht mehr mit ihr interagieren."
+  "group.leaveGroup.explain": "Wenn Sie die Gruppe verlassen, verlieren Sie den Zugriff auf die Ressourcen der Gruppe und können nicht mehr mit ihr interagieren.",
+  "groups.category.label": "Kategorie",
+  "groups.category.none": "Wählen Sie eine Kategorie",
+  "groups.category.bookClub": "Buchclub",
+  "groups.category.academic": "Akademische Gruppe",
+  "groups.category.authorCommunity": "Autoren-Community-Gruppe",
+  "groups.category.church": "Kirchengruppe",
+  "groups.category.community": "Community-Gruppe",
+  "groups.category.family": "Familiengruppe",
+  "groups.category.hobbyist": "Hobbygruppe",
+  "groups.category.writer": "Autorengruppe",
+  "groups.category.other": "Andere Art von Gruppe",
+  "groups.category.filter.label": "Nach Kategorie filtern:",
+  "groups.language.filter.label": "Nach Sprache filtern:",
+  "groups.noticeBoard.heading": "Pinnwand"
 }

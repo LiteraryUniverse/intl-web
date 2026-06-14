@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Ki láthatja az enciklopédia bejegyzéseimet?",
   "faq.answer.encyclopedia.visibility": "A bejegyzéseket vagy a bejegyzések egy részét beállíthatja nyilvánosnak vagy privátnak.",
   "faq.question.encyclopedia.troubleshooting": "Mi történik, ha nem találok vagy nem tudok szerkeszteni egy bejegyzést?",
-  "faq.answer.encyclopedia.troubleshooting": "Próbálja meg frissíteni az oldalt. Ha a probléma továbbra is fennáll, ellenőrizze a jogosultságokat, vagy lépjen kapcsolatba az ügyfélszolgálattal."
+  "faq.answer.encyclopedia.troubleshooting": "Próbálja meg frissíteni az oldalt. Ha a probléma továbbra is fennáll, ellenőrizze a jogosultságokat, vagy lépjen kapcsolatba az ügyfélszolgálattal.",
+  "faq.section.organization": "Organizations"
 }

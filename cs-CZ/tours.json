@@ -6,7 +6,8 @@
     "close": "Prohlídka zblízka",
     "end": "End Tour",
     "progress": "Krok {current, number} z {total, number}",
-    "keyboardHint": "Pro navigaci použijte klávesy se šipkami, pro zavření klávesu ESC"
+    "keyboardHint": "Pro navigaci použijte klávesy se šipkami, pro zavření klávesu ESC",
+    "start": "Spustit prohlídku"
   },
   "dashboard": {
     "title": "Welcome to Your Dashboard",
@@ -69,7 +70,8 @@
       "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
     },
     "writerActionButton": "Jít do dílny",
-    "readerActionButton": "Přejít na Objevování"
+    "readerActionButton": "Přejít na Objevování",
+    "takeTour": "Jste tu noví? Projděte si rychlou prohlídku své nástěnky!"
   },
   "workshop": {
     "title": "Vítejte v dílně",

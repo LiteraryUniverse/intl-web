@@ -103,5 +103,12 @@
   "theWay.task.universePublicationCount.description": "Nič sa nedeje vo vákuu. Je dôležité mať vesmír, ktorý môžete budovať a zdieľať medzi príbehmi alebo len poskytnúť väčšiu hĺbku vášmu písaniu.",
   "theWay.task.wordCount.title": "Reach a word count milestone",
   "theWay.task.wordCount.progress": "Current word count: {currentValue, number}/{targetValue, number}",
-  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way."
+  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way.",
+  "theWay.genreSelector.label": "Vyberte žáner",
+  "theWay.genreSelector.placeholder": "Vyberte žáner...",
+  "theWay.badge.title": "Úroveň autora",
+  "theWay.badge.level": "Úroveň {level}",
+  "theWay.progress.currentStreak": "Aktuálna séria: {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Publikované {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Gratulujeme! Vy"
 }

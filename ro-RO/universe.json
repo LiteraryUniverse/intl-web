@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Această Univers nu permite afișarea ficțiunii fan.",
   "universe.storiesCount": "Numărul total de povești din univers",
   "universe.createdAt": "Creat: {date}",
-  "universe.authors.none": "Nu sunt disponibile informații privind autorii."
+  "universe.authors.none": "Nu sunt disponibile informații privind autorii.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

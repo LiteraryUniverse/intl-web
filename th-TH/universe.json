@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "จักรวาลนี้ไม่อนุญาตให้แสดงนิยายแฟนตาซี",
   "universe.storiesCount": "จำนวนเรื่องราวทั้งหมดในจักรวาล",
   "universe.createdAt": "สร้างขึ้น: {date}",
-  "universe.authors.none": "ไม่มีข้อมูลผู้แต่ง"
+  "universe.authors.none": "ไม่มีข้อมูลผู้แต่ง",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

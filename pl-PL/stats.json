@@ -137,5 +137,19 @@
   "stats.sales.perStory.purchases": "Purchases",
   "stats.sales.perStory.revenue": "Revenue",
   "stats.sales.overview.title": "Sales Overview",
-  "stats.sales.overview.description": "Overview of all your sales across stories."
+  "stats.sales.overview.description": "Overview of all your sales across stories.",
+  "stats.noPosts": "Brak dostępnych wpisów na blogu.",
+  "stats.noChapters": "Brak dostępnych statystyk rozdziałów.",
+  "stats.count": "Liczba",
+  "stats.views": "wyświetleń",
+  "stats.visitors": "odwiedzających",
+  "stats.chapter.number": "Rozdział",
+  "stats.characterCount": "{count} znaków",
+  "stats.chapterReadingTime.title": "Czas czytania według rozdziału",
+  "stats.chapterReadingTime.noData": "Brak danych o czasie czytania dla tego języka. Dane pojawią się, gdy czytelnicy spędzą czas na Twoich rozdziałach.",
+  "stats.chapterReadingTime.chapter": "Rozdział",
+  "stats.chapterReadingTime.chapterTitle": "Tytuł",
+  "stats.chapterReadingTime.totalTime": "Łączny czas czytania",
+  "stats.hits.comingSoon": "Wykres odsłon w czasie już wkrótce...",
+  "stats.visitors.comingSoon": "Wykres odwiedzających w czasie już wkrótce..."
 }

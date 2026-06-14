@@ -24,5 +24,9 @@
   "challenges.report": "Rapport",
   "challenges.victory": "Gefeliciteerd! Je hebt deze uitdaging voltooid.",
   "challenges.defeat": "Helaas heb je deze uitdaging niet voltooid.",
-  "challenges.baseline": "Het huidige aantal woorden voor dit verhaal is {wordcount, number}, dit zal het startpunt zijn."
+  "challenges.baseline": "Het huidige aantal woorden voor dit verhaal is {wordcount, number}, dit zal het startpunt zijn.",
+  "challenges.day": "Dag",
+  "challenges.words": "Woorden",
+  "challenges.actualProgress": "Dag {day}: {words} woorden",
+  "challenges.minimumRequired": "Minimaal vereist: {words} woorden"
 }

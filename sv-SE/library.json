@@ -9,5 +9,6 @@
   "library.search.prompt": "Search your library to find content",
   "library.search.noFilters": "Ange söktermer eller använd filter",
   "library.search": "Search Your Library",
-  "library.ownedStories": "Köpta berättelser"
+  "library.ownedStories": "Köpta berättelser",
+  "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

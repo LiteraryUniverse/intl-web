@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Chỉ thành viên đăng ký LU hoặc thành viên Câu lạc bộ Người hâm mộ mới có thể đặt câu hỏi tại đây.",
   "blogs.discussion": "Thảo luận",
   "blogs.discussionOnForum": "Cuộc thảo luận về bài viết blog này tiếp tục trên diễn đàn của chúng tôi.",
-  "blogs.joinDiscussion": "Tham gia cuộc thảo luận"
+  "blogs.joinDiscussion": "Tham gia cuộc thảo luận",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

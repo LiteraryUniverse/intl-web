@@ -24,5 +24,9 @@
   "challenges.report": "Rapport",
   "challenges.victory": "Tillykke! Du har fuldført denne udfordring.",
   "challenges.defeat": "Desværre fuldførte du ikke denne udfordring.",
-  "challenges.baseline": "Det aktuelle ordantal for denne historie er {wordcount, number}, dette vil være startpunktet."
+  "challenges.baseline": "Det aktuelle ordantal for denne historie er {wordcount, number}, dette vil være startpunktet.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

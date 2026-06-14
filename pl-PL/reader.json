@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "Ten rozdział wymaga zakupu",
   "reader.purchaseGate.description": "Aby kontynuować czytanie {storyTitle}{authorName, select, undefined {} other { przez {authorName}}}, należy go zakupić.",
   "reader.purchaseGate.buyArc": "Lub kupić ten łuk",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} rozdział} other {{count} rozdziały}} w zestawie"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} rozdział} other {{count} rozdziały}} w zestawie",
+  "story.chapter.freePreview": "Bezpłatny",
+  "story.chapter.locked": "Zablokowany",
+  "story.translation.noPricing": "Jeszcze niedostępne do zakupu",
+  "story.ownAlready": "Już posiadasz to opowiadanie.",
+  "story.buy": "Kup opowiadanie",
+  "reader.privatePurchaseBlocked.heading": "Ten rozdział nie jest dla Ciebie dostępny",
+  "reader.privatePurchaseBlocked.message": "To opowiadanie jest obecnie prywatne, więc dodatkowe zakupy nie są już dostępne. Możesz nadal czytać rozdziały, które już zakupiłeś, ale ten rozdział nie jest objęty Twoimi zakupami.",
+  "reader.printDisabled": "To jest treść licencjonowana. Autor wyłączył drukowanie tekstu opowiadania."
 }

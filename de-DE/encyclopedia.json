@@ -280,5 +280,12 @@
   "encyclopedia.templateField.curriculum": "Curriculum",
   "encyclopedia.templateField.notable-alumni": "Notable alumni",
   "encyclopedia.templateField.affiliation": "Affiliation",
-  "encyclopedia.templateField.language": "Language"
+  "encyclopedia.templateField.language": "Language",
+  "canvas.label": "Bezeichnung",
+  "encyclopedia.tags.placeholder": "Tag hinzufügen…",
+  "encyclopedia.search.filters": "Ergebnisse filtern",
+  "encyclopedia.search.filters.upgrade": "Abonnieren Sie den Storyteller-Tarif, um diese Filter freizuschalten.",
+  "encyclopedia.search.filter.wip": "In Bearbeitung",
+  "encyclopedia.search.filter.ai": "KI-generiert",
+  "encyclopedia.time.type.label": "Zeittyp"
 }

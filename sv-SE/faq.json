@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Vem kan se mina encyklopediposter?",
   "faq.answer.encyclopedia.visibility": "Du kan ange att poster eller delar av poster ska vara offentliga eller privata.",
   "faq.question.encyclopedia.troubleshooting": "Vad händer om jag inte kan hitta eller redigera en post?",
-  "faq.answer.encyclopedia.troubleshooting": "Försök att uppdatera sidan. Om problemet kvarstår, kontrollera dina behörigheter eller kontakta support."
+  "faq.answer.encyclopedia.troubleshooting": "Försök att uppdatera sidan. Om problemet kvarstår, kontrollera dina behörigheter eller kontakta support.",
+  "faq.section.organization": "Organizations"
 }

@@ -280,5 +280,12 @@
   "encyclopedia.templateField.curriculum": "Curriculum",
   "encyclopedia.templateField.notable-alumni": "Notable alumni",
   "encyclopedia.templateField.affiliation": "Affiliation",
-  "encyclopedia.templateField.language": "Language"
+  "encyclopedia.templateField.language": "Language",
+  "canvas.label": "Štítek",
+  "encyclopedia.tags.placeholder": "Přidat štítek...",
+  "encyclopedia.search.filters": "Filtrovat výsledky",
+  "encyclopedia.search.filters.upgrade": "Předplaťte si tarif Storyteller a odemkněte tyto filtry.",
+  "encyclopedia.search.filter.wip": "Rozpracováno",
+  "encyclopedia.search.filter.ai": "Vygenerováno AI",
+  "encyclopedia.time.type.label": "Typ času"
 }

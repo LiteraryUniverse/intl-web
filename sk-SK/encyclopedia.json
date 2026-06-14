@@ -280,5 +280,12 @@
   "encyclopedia.templateField.curriculum": "Curriculum",
   "encyclopedia.templateField.notable-alumni": "Notable alumni",
   "encyclopedia.templateField.affiliation": "Affiliation",
-  "encyclopedia.templateField.language": "Language"
+  "encyclopedia.templateField.language": "Language",
+  "canvas.label": "Štítok",
+  "encyclopedia.tags.placeholder": "Pridať značku...",
+  "encyclopedia.search.filters": "Filtrovať výsledky",
+  "encyclopedia.search.filters.upgrade": "Prihláste sa na odber plánu Rozprávač a odomknite tieto filtre.",
+  "encyclopedia.search.filter.wip": "Rozpracované",
+  "encyclopedia.search.filter.ai": "Vygenerované umelou inteligenciou",
+  "encyclopedia.time.type.label": "Typ času"
 }

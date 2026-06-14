@@ -24,5 +24,8 @@
   "personalNotes.chapter": "ଅଧ୍ୟାୟ",
   "personalNotes.recentSearches": "ସମ୍ପ୍ରତିକ ଅନୁସନ୍ଧାନ:",
   "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes"
+  "personalNotes.hasNotes": "Has Personal Notes",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

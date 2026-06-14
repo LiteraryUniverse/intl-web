@@ -10,5 +10,6 @@
   "library.search.noFilters": "कृपया शोध शब्द प्रविष्ट करा किंवा फिल्टर लागू करा",
   "library.search": "Search Your Library",
   "library.ownedStories": "Purchased stories",
-  "library.yourLibrary": "Your Library"
+  "library.yourLibrary": "Your Library",
+  "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

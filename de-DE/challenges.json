@@ -24,5 +24,9 @@
   "challenges.report": "Bericht",
   "challenges.victory": "Herzlichen Glückwunsch! Sie haben diese Herausforderung abgeschlossen.",
   "challenges.defeat": "Leider haben Sie diese Herausforderung nicht abgeschlossen.",
-  "challenges.baseline": "Die aktuelle Wortanzahl für diese Geschichte ist {wordcount, number}, dies wird der Ausgangspunkt sein."
+  "challenges.baseline": "Die aktuelle Wortanzahl für diese Geschichte ist {wordcount, number}, dies wird der Ausgangspunkt sein.",
+  "challenges.day": "Tag",
+  "challenges.words": "Wörter",
+  "challenges.actualProgress": "Tag {day}: {words} Wörter",
+  "challenges.minimumRequired": "Mindestens erforderlich: {words} Wörter"
 }

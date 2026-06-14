@@ -24,5 +24,9 @@
   "challenges.report": "Nahlásit",
   "challenges.victory": "Blahopřejeme! Dokončili jste tuto výzvu.",
   "challenges.defeat": "Bohužel jste tuto výzvu nedokončili.",
-  "challenges.baseline": "Současný počet slov pro tento příběh je {wordcount, number}, bude to výchozí bod."
+  "challenges.baseline": "Současný počet slov pro tento příběh je {wordcount, number}, bude to výchozí bod.",
+  "challenges.day": "Den",
+  "challenges.words": "Slova",
+  "challenges.actualProgress": "Den {day}: {words} slov",
+  "challenges.minimumRequired": "Minimálně požadováno: {words} slov"
 }

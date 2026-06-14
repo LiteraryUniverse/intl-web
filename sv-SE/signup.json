@@ -93,5 +93,6 @@
 	"signup.stepCount": "Steg {current, number} av {total, number}",
 	"signup.writer.goals.description": "Berätta om din erfarenhet av att skriva.",
 	"signup.complete.title": "Du är klar!",
-	"signup.complete.description": "Tack för att du har fyllt i din profil. Vi har anpassat din upplevelse baserat på dina preferenser."
+	"signup.complete.description": "Tack för att du har fyllt i din profil. Vi har anpassat din upplevelse baserat på dina preferenser.",
+	"signup.password2.label": "Confirm password"
 }

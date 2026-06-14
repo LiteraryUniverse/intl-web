@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "Не найдено скрытых иллюстрации фанатов.",
   "fanManager.rejected.nothingFound": "Не найдено отклонённых иллюстрации фанатов.",
   "fanManager.approved.nothingFound": "Не найдено одобренных иллюстрации фанатов.",
-  "fanManager.submitted.nothingFound": "Не найдено отправленных иллюстрации фанатов."
+  "fanManager.submitted.nothingFound": "Не найдено отправленных иллюстрации фанатов.",
+  "fanManager.goToSettings": "Перейти к настройкам",
+  "fanManager.authorComment.label": "Комментарий от автора вселенной лично для вас: ",
+  "fanManager.publicComment.label": "Публичный комментарий от автора вселенной: ",
+  "fanManager.allowComments": "Разрешить комментарии",
+  "fanManager.item.settings": "Настройки «{artTitle}»",
+  "fanManager.stateChange.Hide": "Скрыть фан-арт",
+  "fanManager.for": "Менеджер фанатов для {universe}",
+  "fanManager.sort": "Сортировка",
+  "fanManager.sortByDate": "Сортировать по дате",
+  "fanManager.sortByLikes": "Сортировать по лайкам",
+  "fanManager.fanArt.info": "Информация о фан-арте",
+  "fanManager.form.submit": "Отправьте свой фан-арт во вселенную {universe}",
+  "fanManager.thankYou.wait": "Вам нужно будет дождаться, пока автор вселенной одобрит ваш фан-арт",
+  "fanManager.thankYou": "Спасибо за отправку вашего фан-арта!",
+  "fanManager.thankYou.goBack": "Вернуться к фан-артам вселенной {universe}"
 }

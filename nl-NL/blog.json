@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Alleen LU abonnees of Fan Club leden kunnen hier vragen stellen.",
   "blogs.discussion": "Discussie",
   "blogs.discussionOnForum": "De discussie voor deze blogpost gaat verder op onze forums.",
-  "blogs.joinDiscussion": "Doe mee aan de discussie"
+  "blogs.joinDiscussion": "Doe mee aan de discussie",
+  "blog.posts.empty": "Je hebt nog geen berichten. Maak je eerste bericht om te beginnen.",
+  "blog.qa.tabs.aria": "Tabbladen blogvragen",
+  "blogs.literaryCommentary": "Literair commentaar",
+  "blog.qa.reference.encyclopedia.placeholder": "Zoek in encyclopedie-items...",
+  "blog.qa.reference.story.placeholder": "Zoek in je verhalen...",
+  "blog.qa.reference.blog.placeholder": "Zoek in blogberichten...",
+  "literaryCommentary.tab": "Commentaar"
 }

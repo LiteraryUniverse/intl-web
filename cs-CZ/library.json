@@ -9,5 +9,6 @@
   "library.search.prompt": "Hledat ve Vaší knihovně",
   "library.search.noFilters": "Zadejte prosím vyhledávací termíny nebo použijte filtry",
   "library.search": "Hledejte ve Vaší knihovně",
-  "library.ownedStories": "Zakoupené příběhy"
+  "library.ownedStories": "Zakoupené příběhy",
+  "library.meta.description": "Vaše osobní knihovna na Literary Universe. Přistupujte ke všem svým uloženým příběhům, universům a čtenářským seznamům na jednom místě."
 }

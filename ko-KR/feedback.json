@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "추천 동영상 선택",
   "feedback.help.featuredVideosDescription": "이러한 동영상은 카테고리 페이지의 슬라이더에 표시됩니다. 동영상이 가장 잘 보이도록 썸네일을 포함해야 합니다.",
   "feedback.help.backToCategory": "카테고리로 돌아가기",
-  "feedback.help.watchVideo": "동영상 보기"
+  "feedback.help.watchVideo": "동영상 보기",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Cláraithe",
   "org.members.emailInvite.sent": "Cuireadh faighte trí ríomhphost",
   "org.members.joined": "Cláraithe",
-  "org.roles.super_admin": "Sár-Riarthóir"
+  "org.roles.super_admin": "Sár-Riarthóir",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

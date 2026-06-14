@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Текст блока редактирования",
   "personalNotes.recentSearches": "Недавние поиски:",
   "personalNotes.myNotes": "Мои личные заметки",
-  "personalNotes.hasNotes": "Имеет личные заметки"
+  "personalNotes.hasNotes": "Имеет личные заметки",
+  "personalNotes.recentSearched": "Недавние запросы:",
+  "personalNotes.search.noFound": "Ничего не найдено",
+  "personalNotes.type": "Тип"
 }

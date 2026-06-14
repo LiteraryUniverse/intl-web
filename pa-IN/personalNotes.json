@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "ਸੰਪਾਦਨ ਟੈਕਸਟ ਬਲਾਕ",
   "personalNotes.recentSearches": "ਤਾਜ਼ਾ ਖੋਜਾਂ:",
   "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes"
+  "personalNotes.hasNotes": "Has Personal Notes",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

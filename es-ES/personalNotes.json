@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Bloque de texto de revisión",
   "personalNotes.recentSearches": "Búsquedas recientes:",
   "personalNotes.myNotes": "Mis notas personales",
-  "personalNotes.hasNotes": "Tiene notas personales"
+  "personalNotes.hasNotes": "Tiene notas personales",
+  "personalNotes.recentSearched": "Búsquedas recientes:",
+  "personalNotes.search.noFound": "No se encontraron elementos",
+  "personalNotes.type": "Tipo"
 }

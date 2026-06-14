@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "Только подписчики LU или члены Фан-клуба могут задавать здесь вопросы.",
   "blogs.discussion": "Обсуждение",
   "blogs.discussionOnForum": "Обсуждение этой записи в блоге продолжается на наших форумах.",
-  "blogs.joinDiscussion": "Присоединяйтесь к обсуждению"
+  "blogs.joinDiscussion": "Присоединяйтесь к обсуждению",
+  "blog.posts.empty": "У вас пока нет публикаций. Создайте первую публикацию, чтобы начать.",
+  "blog.qa.tabs.aria": "Вкладки вопросов блога",
+  "blogs.literaryCommentary": "Литературный комментарий",
+  "blog.qa.reference.encyclopedia.placeholder": "Поиск по статьям энциклопедии…",
+  "blog.qa.reference.story.placeholder": "Поиск по вашим историям…",
+  "blog.qa.reference.blog.placeholder": "Поиск по публикациям блога…",
+  "literaryCommentary.tab": "Комментарий"
 }

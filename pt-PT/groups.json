@@ -54,5 +54,19 @@
   "group.noticeBoard": "Painel de avisos",
   "group.leaveGroup.modalAria": "Confirmação de que pretende sair do grupo.",
   "group.leaveGroup.heading": "Tem a certeza que quer deixar {groupName}?",
-  "group.leaveGroup.explain": "Sair do grupo significa que perderá o acesso aos recursos do grupo e que não poderá interagir com ele."
+  "group.leaveGroup.explain": "Sair do grupo significa que perderá o acesso aos recursos do grupo e que não poderá interagir com ele.",
+  "groups.category.label": "Categoria",
+  "groups.category.none": "Selecione uma categoria",
+  "groups.category.bookClub": "Clube de leitura",
+  "groups.category.academic": "Grupo académico",
+  "groups.category.authorCommunity": "Grupo de comunidade de autores",
+  "groups.category.church": "Grupo religioso",
+  "groups.category.community": "Grupo comunitário",
+  "groups.category.family": "Grupo familiar",
+  "groups.category.hobbyist": "Grupo de passatempo",
+  "groups.category.writer": "Grupo de escritores",
+  "groups.category.other": "Outro tipo de grupo",
+  "groups.category.filter.label": "Filtrar por categoria:",
+  "groups.language.filter.label": "Filtrar por idioma:",
+  "groups.noticeBoard.heading": "Quadro de avisos"
 }

@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Sledujte čas strávený psaním příběhů, kapitol a encyklopedických hesel. To zahrnuje podrobné metriky, jako je aktivita psaní, počet slov a časové vzorce dne.",
   "settings.tracking.trackWritingTime": "Sledování času psaní",
   "settings.tracking.trackReadingTime": "Sledování doby čtení",
-  "settings.tracking.trackBlogWritingTime": "Sledování času psaní blogu"
+  "settings.tracking.trackBlogWritingTime": "Sledování času psaní blogu",
+  "settings.apiKeys.create.title": "Vytvořit nový API klíč",
+  "settings.apiKeys.create": "Vytvořit nový API klíč",
+  "settings.interests.description": "Řekněte nám o svých čtenářských preferencích, abychom vám mohli doporučit obsah, který odpovídá vašim zájmům.",
+  "settings.interests.genres": "Oblíbené žánry",
+  "settings.interests.genres.help": "Vyberte žánry, které vás zajímají.",
+  "settings.interests.tags": "Oblíbené štítky",
+  "settings.interests.tags.help": "Vyberte až 20 štítků, které vás zajímají."
 }

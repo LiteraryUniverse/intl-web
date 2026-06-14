@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "தனிப்பட்ட கதைத் தொடர்களை வாங்க உள்நுழையவும்",
   "story.purchase.pricingUnavailable": "விலைத் தகவல் தற்போது கிடைக்கவில்லை.",
   "story.buy.error.timeout": "கோரிக்கை காலாவதியானது. மீண்டும் முயற்சிக்கவும்.",
-  "story.chapter.freePreviewEnds": "இலவச முன்னோட்டம் இத்துடன் முடிகிறது"
+  "story.chapter.freePreviewEnds": "இலவச முன்னோட்டம் இத்துடன் முடிகிறது",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

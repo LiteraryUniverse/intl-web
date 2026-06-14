@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Hvem kan se mine opslag i encyklopædien?",
   "faq.answer.encyclopedia.visibility": "Du kan indstille poster eller dele af poster til at være offentlige eller private.",
   "faq.question.encyclopedia.troubleshooting": "Hvad hvis jeg ikke kan finde eller redigere en post?",
-  "faq.answer.encyclopedia.troubleshooting": "Prøv at opdatere siden. Hvis problemet fortsætter, skal du kontrollere dine tilladelser eller kontakte support."
+  "faq.answer.encyclopedia.troubleshooting": "Prøv at opdatere siden. Hvis problemet fortsætter, skal du kontrollere dine tilladelser eller kontakte support.",
+  "faq.section.organization": "Organizations"
 }

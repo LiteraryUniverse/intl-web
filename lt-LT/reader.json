@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "Šiame skyriuje reikia įsigyti",
   "reader.purchaseGate.description": "Norėdami toliau skaityti {storyTitle}{authorName, select, undefined {} other { iki {authorName}~}}, turite ją įsigyti.",
   "reader.purchaseGate.buyArc": "Arba nusipirkite šį lanką",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} skyrius} other {{count} skyriai}} įtraukti"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} skyrius} other {{count} skyriai}} įtraukti",
+  "story.chapter.freePreview": "Free",
+  "story.chapter.locked": "Locked",
+  "story.translation.noPricing": "Not yet available for purchase",
+  "story.ownAlready": "You already own this story.",
+  "story.buy": "Buy story",
+  "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
+  "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
 }

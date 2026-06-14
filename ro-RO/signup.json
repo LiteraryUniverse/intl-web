@@ -93,5 +93,6 @@
 	"signup.stepCount": "Pas {current, number} de {total, number}",
 	"signup.writer.goals.description": "Povestește-ne despre experiența ta în scris.",
 	"signup.complete.title": "Sunteți gata!",
-	"signup.complete.description": "Vă mulțumim pentru completarea profilului dumneavoastră. Ți-am personalizat experiența în funcție de preferințele tale."
+	"signup.complete.description": "Vă mulțumim pentru completarea profilului dumneavoastră. Ți-am personalizat experiența în funcție de preferințele tale.",
+	"signup.password2.label": "Confirm password"
 }

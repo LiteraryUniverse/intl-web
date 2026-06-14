@@ -93,5 +93,6 @@
 	"signup.stepCount": "Step {current, number} of {total, number}",
 	"signup.writer.goals.description": "Rääkige meile oma kirjutamiskogemusest.",
 	"signup.complete.title": "Kõik on valmis!",
-	"signup.complete.description": "Täname teid profiili täitmise eest. Oleme kohandanud teie kogemust teie eelistuste põhjal."
+	"signup.complete.description": "Täname teid profiili täitmise eest. Oleme kohandanud teie kogemust teie eelistuste põhjal.",
+	"signup.password2.label": "Confirm password"
 }

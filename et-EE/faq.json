@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Kes saab minu entsüklopeedia sissekandeid näha?",
   "faq.answer.encyclopedia.visibility": "Saate määrata kirjed või osa kirjetest avalikuks või privaatseks.",
   "faq.question.encyclopedia.troubleshooting": "Mis siis, kui ma ei leia või ei saa kirjet muuta?",
-  "faq.answer.encyclopedia.troubleshooting": "Proovige lehte värskendada. Kui probleem püsib, kontrollige oma õigusi või võtke ühendust klienditoega."
+  "faq.answer.encyclopedia.troubleshooting": "Proovige lehte värskendada. Kui probleem püsib, kontrollige oma õigusi või võtke ühendust klienditoega.",
+  "faq.section.organization": "Organizations"
 }

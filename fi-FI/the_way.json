@@ -103,5 +103,12 @@
   "theWay.task.universePublicationCount.description": "Mikään ei tapahdu tyhjiössä. On olennaisen tärkeää, että sinulla on universumi, jota voit rakentaa ja jakaa tarinoiden välillä tai vain lisätä kirjoituksesi syvyyttä.",
   "theWay.task.wordCount.title": "Reach a word count milestone",
   "theWay.task.wordCount.progress": "Current word count: {currentValue, number}/{targetValue, number}",
-  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way."
+  "theWay.task.wordCount.description": "Keep writing! Every word brings you closer to mastering the craft and unlocks the next milestone on your way.",
+  "theWay.genreSelector.label": "Select Genre",
+  "theWay.genreSelector.placeholder": "Select a genre...",
+  "theWay.badge.title": "Author Level",
+  "theWay.badge.level": "Level {level}",
+  "theWay.progress.currentStreak": "Current Streak: {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Published {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Congratulations! You"
 }

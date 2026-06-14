@@ -46,5 +46,13 @@
   "reader.purchaseGate.title": "Dit hoofdstuk vereist aankoop",
   "reader.purchaseGate.description": "Om verder te lezen {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, moet u deze aanschaffen.",
   "reader.purchaseGate.buyArc": "Of koop deze boog",
-  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} hoofdstuk} other {{count} hoofdstukken}} inbegrepen"
+  "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} hoofdstuk} other {{count} hoofdstukken}} inbegrepen",
+  "story.chapter.freePreview": "Gratis",
+  "story.chapter.locked": "Vergrendeld",
+  "story.translation.noPricing": "Nog niet beschikbaar om te kopen",
+  "story.ownAlready": "Je bent al eigenaar van dit verhaal.",
+  "story.buy": "Verhaal kopen",
+  "reader.privatePurchaseBlocked.heading": "Dit hoofdstuk is niet voor je beschikbaar",
+  "reader.privatePurchaseBlocked.message": "Dit verhaal is momenteel privé, dus extra aankopen zijn niet meer beschikbaar. Je kunt hoofdstukken die je al hebt gekocht blijven lezen, maar dit hoofdstuk is niet in je aankopen inbegrepen.",
+  "reader.printDisabled": "Dit is content met licentie. De auteur heeft het afdrukken van de verhaaltekst uitgeschakeld."
 }

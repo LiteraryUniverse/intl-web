@@ -54,5 +54,19 @@
   "group.noticeBoard": "Πίνακας ανακοινώσεων",
   "group.leaveGroup.modalAria": "Επιβεβαίωση ότι θέλετε να αποχωρήσετε από την ομάδα.",
   "group.leaveGroup.heading": "Είσαι σίγουρος ότι θέλεις να φύγεις από το {groupName};",
-  "group.leaveGroup.explain": "Η αποχώρηση από την ομάδα σημαίνει ότι θα χάσετε την πρόσβαση στους πόρους της ομάδας και δεν θα μπορείτε να αλληλεπιδράσετε με αυτήν."
+  "group.leaveGroup.explain": "Η αποχώρηση από την ομάδα σημαίνει ότι θα χάσετε την πρόσβαση στους πόρους της ομάδας και δεν θα μπορείτε να αλληλεπιδράσετε με αυτήν.",
+  "groups.category.label": "Category",
+  "groups.category.none": "Select a category",
+  "groups.category.bookClub": "Book club",
+  "groups.category.academic": "Academic group",
+  "groups.category.authorCommunity": "Author community group",
+  "groups.category.church": "Church group",
+  "groups.category.community": "Community group",
+  "groups.category.family": "Family group",
+  "groups.category.hobbyist": "Hobbyist group",
+  "groups.category.writer": "Writer group",
+  "groups.category.other": "Other kind of group",
+  "groups.category.filter.label": "Filter by category:",
+  "groups.language.filter.label": "Filter by language:",
+  "groups.noticeBoard.heading": "Notice board"
 }

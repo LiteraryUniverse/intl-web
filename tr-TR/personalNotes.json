@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Düzeltme Metin Bloğu",
   "personalNotes.recentSearches": "Son Aramalar:",
   "personalNotes.myNotes": "Kişisel Notlarım",
-  "personalNotes.hasNotes": "Kişisel Notları Var"
+  "personalNotes.hasNotes": "Kişisel Notları Var",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

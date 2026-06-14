@@ -150,5 +150,14 @@
   "resume.theme.steampunk": "Steampunk",
   "resume.theme.horror": "Horror",
   "resume.theme.militarySciFi": "Military Sci-Fi",
-  "resume.theme.artDeco": "Art Deco"
+  "resume.theme.artDeco": "Art Deco",
+  "resume.editor.stories.hasPreview": "(ma podgląd wydawcy)",
+  "resume.editor.stories.heading": "Wybierz opowiadania do prezentacji",
+  "resume.editor.stories.description": "Wybierz, które opublikowane opowiadania uwzględnić w swoim portfolio. Opowiadania z podglądami wydawcy są domyślnie zaznaczone.",
+  "resume.editor.stories.standalone": "Samodzielne opowiadania",
+  "resume.reader.loading": "Ładowanie podglądu...",
+  "resume.reader.publisherPreview": "Podgląd wydawcy",
+  "resume.reader.previewRange": "Wyświetlanie rozdziałów {from}–{to} (podgląd wydawcy)",
+  "resume.reader.loadingChapter": "Ładowanie rozdziału...",
+  "resume.reader.chapterNotFound": "Rozdział niedostępny."
 }

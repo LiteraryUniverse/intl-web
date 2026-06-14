@@ -6,7 +6,8 @@
     "close": "Close Tour",
     "end": "End Tour",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close"
+    "keyboardHint": "Use arrow keys to navigate, ESC to close",
+    "start": "Rozpocznij przewodnik"
   },
   "dashboard": {
     "title": "Welcome to Your Dashboard",
@@ -69,7 +70,8 @@
       "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
     },
     "writerActionButton": "Go to Workshop",
-    "readerActionButton": "Go to Discovery"
+    "readerActionButton": "Go to Discovery",
+    "takeTour": "Jesteś tu nowy? Skorzystaj z krótkiego przewodnika po swoim panelu!"
   },
   "workshop": {
     "title": "Welcome to Your Workshop",

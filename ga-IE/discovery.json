@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Logáil isteach chun cuair scéil aonair a cheannach.",
   "story.purchase.pricingUnavailable": "Níl faisnéis praghsála ar fáil faoi láthair.",
   "story.buy.error.timeout": "Tháinig am istigh ar an iarraidh. Déan iarracht eile, le do thoil.",
-  "story.chapter.freePreviewEnds": "Críoch leis an réamhamharc saor in aisce anseo"
+  "story.chapter.freePreviewEnds": "Críoch leis an réamhamharc saor in aisce anseo",
+  "discovery.ai.stories.new": "New AI-Generated Stories",
+  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
+  "discovery.ai.content.desc": "Discover content created with the help of AI",
+  "discover.search.universal.title": "Search",
+  "discover.search.encyclopedia": "Encyclopedia",
+  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
+  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.typeSelection.aria": "Content type selection",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

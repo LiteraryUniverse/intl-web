@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Connectez-vous pour acheter des épisodes individuels",
   "story.purchase.pricingUnavailable": "Les informations sur les prix ne sont pas encore disponibles.",
   "story.buy.error.timeout": "La demande a expiré. Veuillez réessayer.",
-  "story.chapter.freePreviewEnds": "L'avant-première gratuite se termine ici"
+  "story.chapter.freePreviewEnds": "L'avant-première gratuite se termine ici",
+  "discovery.ai.stories.new": "Nouvelles histoires générées par IA",
+  "discovery.ai.stories.updated": "Histoires générées par IA récemment mises à jour",
+  "discovery.ai.content.desc": "Découvrez du contenu créé avec l'aide de l'IA",
+  "discover.search.universal.title": "Rechercher",
+  "discover.search.encyclopedia": "Encyclopédie",
+  "discover.search.encyclopedia.comingSoon": "La recherche dans l'encyclopédie arrive bientôt.",
+  "discover.search.universal.description": "Rechercher des histoires et des univers",
+  "discover.search.typeSelection.aria": "Sélection du type de contenu",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Aucun résultat trouvé} one {# résultat trouvé} other {# résultats trouvés}}"
 }

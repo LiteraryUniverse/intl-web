@@ -54,5 +54,19 @@
   "group.noticeBoard": "Bacheca",
   "group.leaveGroup.modalAria": "Conferma di voler lasciare il gruppo.",
   "group.leaveGroup.heading": "È sicuro di voler lasciare {groupName}?",
-  "group.leaveGroup.explain": "Lasciare il gruppo significa che perderà l'accesso alle risorse del gruppo e non potrà interagire con esso."
+  "group.leaveGroup.explain": "Lasciare il gruppo significa che perderà l'accesso alle risorse del gruppo e non potrà interagire con esso.",
+  "groups.category.label": "Categoria",
+  "groups.category.none": "Seleziona una categoria",
+  "groups.category.bookClub": "Club del libro",
+  "groups.category.academic": "Gruppo accademico",
+  "groups.category.authorCommunity": "Gruppo della community di autori",
+  "groups.category.church": "Gruppo ecclesiastico",
+  "groups.category.community": "Gruppo della community",
+  "groups.category.family": "Gruppo familiare",
+  "groups.category.hobbyist": "Gruppo di appassionati",
+  "groups.category.writer": "Gruppo di scrittori",
+  "groups.category.other": "Altro tipo di gruppo",
+  "groups.category.filter.label": "Filtra per categoria:",
+  "groups.language.filter.label": "Filtra per lingua:",
+  "groups.noticeBoard.heading": "Bacheca"
 }

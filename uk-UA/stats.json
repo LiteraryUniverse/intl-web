@@ -137,5 +137,19 @@
   "stats.sales.perStory.purchases": "Purchases",
   "stats.sales.perStory.revenue": "Revenue",
   "stats.sales.overview.title": "Sales Overview",
-  "stats.sales.overview.description": "Overview of all your sales across stories."
+  "stats.sales.overview.description": "Overview of all your sales across stories.",
+  "stats.noPosts": "Немає доступних дописів блогу.",
+  "stats.noChapters": "Немає доступної статистики розділів.",
+  "stats.count": "Кількість",
+  "stats.views": "переглядів",
+  "stats.visitors": "відвідувачів",
+  "stats.chapter.number": "Розділ",
+  "stats.characterCount": "{count} символів",
+  "stats.chapterReadingTime.title": "Час читання за розділами",
+  "stats.chapterReadingTime.noData": "Для цієї мови ще немає даних про час читання. Дані з’являться, коли читачі проводитимуть час над вашими розділами.",
+  "stats.chapterReadingTime.chapter": "Розділ",
+  "stats.chapterReadingTime.chapterTitle": "Назва",
+  "stats.chapterReadingTime.totalTime": "Загальний час читання",
+  "stats.hits.comingSoon": "Графік переглядів за час незабаром...",
+  "stats.visitors.comingSoon": "Графік відвідувачів за час незабаром..."
 }

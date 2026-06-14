@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Šis Visata neleidžia rodyti fanų kūrybos.",
   "universe.storiesCount": "Bendras istorijų skaičius visatoje",
   "universe.createdAt": "Sukurta: {date}",
-  "universe.authors.none": "Informacijos apie autorius nėra."
+  "universe.authors.none": "Informacijos apie autorius nėra.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

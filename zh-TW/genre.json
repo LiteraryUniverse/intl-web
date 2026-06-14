@@ -54,5 +54,6 @@
   "genre.postapocalyptic.description": "這種科幻或推理小說的子類型設定在一個災難性事件發生後的世界或社會，例如全球災難、戰爭或大流行病。末日後的故事常常探索生存、適應和重建的主題，角色們在惡劣的環境和社會崩潰中努力生存。這些故事通常陰暗而可怕，但也可以為人類的未來帶來一線希望。",
   "genre.political.description": "關注政治事務、社會事務或例如藝術宣言的文件。",
   "genre.history.description": "具有歷史重要性或描述歷史事件的歷史文件和其他文學資料。",
-  "genre.isekai.description": "這個日本輕小說、漫畫和動畫的次類型圍繞著一個角色被傳送或轉生到不同的世界或平行宇宙。主角必須適應和適應新世界的獨特文化和環境，通常會獲得新能力，並在旅途中遇到新的盟友和敵人。這些故事可以從輕鬆愉快和喜劇到黑暗和激烈，但始終提供對經典冒險主題的新鮮和富有想像力的見解。"
+  "genre.isekai.description": "這個日本輕小說、漫畫和動畫的次類型圍繞著一個角色被傳送或轉生到不同的世界或平行宇宙。主角必須適應和適應新世界的獨特文化和環境，通常會獲得新能力，並在旅途中遇到新的盟友和敵人。這些故事可以從輕鬆愉快和喜劇到黑暗和激烈，但始終提供對經典冒險主題的新鮮和富有想像力的見解。",
+  "genres.meta.description": "Explore stories across all genres on Literary Universe. Find your next favorite story in fantasy, sci-fi, romance, mystery, and more."
 }

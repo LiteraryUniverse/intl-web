@@ -93,5 +93,6 @@
 	"signup.stepCount": "Passo {current, number} di {total, number}",
 	"signup.writer.goals.description": "Ci parli della sua esperienza di scrittore.",
 	"signup.complete.title": "È tutto pronto!",
-	"signup.complete.description": "Grazie per aver completato il suo profilo. Abbiamo personalizzato la sua esperienza in base alle sue preferenze."
+	"signup.complete.description": "Grazie per aver completato il suo profilo. Abbiamo personalizzato la sua esperienza in base alle sue preferenze.",
+	"signup.password2.label": "Conferma la password"
 }

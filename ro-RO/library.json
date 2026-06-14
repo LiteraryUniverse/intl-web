@@ -9,5 +9,6 @@
   "library.search.prompt": "Căutați în biblioteca dvs. pentru a găsi conținut",
   "library.search.noFilters": "Vă rugăm să introduceți termeni de căutare sau să aplicați filtre",
   "library.search": "Căutați în biblioteca dvs.",
-  "library.ownedStories": "Povești cumpărate"
+  "library.ownedStories": "Povești cumpărate",
+  "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

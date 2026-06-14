@@ -61,5 +61,14 @@
   "sharing.advanced.printTemplate6": "Plantilla 6",
   "sharing.advanced.fontColor": "Color de fuente",
   "sharing.advanced.shareQR": "Share QR Link",
-  "sharing.advanced.displayLanguage": "Display language"
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.advanced.showPublicationDate": "Mostrar fecha de publicación futura",
+  "sharing.advanced.backgroundImage": "Imagen de fondo",
+  "sharing.advanced.genreBackgroundOption": "Género",
+  "sharing.advanced.uploadingBackground": "Subiendo…",
+  "sharing.advanced.uploadBackground": "+ Subir",
+  "sharing.advanced.shareWithQR": "Compartir con QR",
+  "sharing.advanced.bgLimitReached": "Has alcanzado el número máximo de imágenes de fondo para tu suscripción.",
+  "sharing.advanced.bgUploadError": "No se pudo subir la imagen de fondo.",
+  "sharing.advanced.deleteBackground": "Eliminar fondo"
 }

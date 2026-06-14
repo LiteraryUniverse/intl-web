@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Выберите тематические видео",
   "feedback.help.featuredVideosDescription": "Эти видео будут отображаться в ползунке на странице категории. Чтобы видео лучше смотрелось, оно должно иметь миниатюру.",
   "feedback.help.backToCategory": "Назад к категории",
-  "feedback.help.watchVideo": "Смотреть видео"
+  "feedback.help.watchVideo": "Смотреть видео",
+  "feedback.help.noFeaturedCourses": "Рекомендуемых курсов пока нет.",
+  "resolutionCenter.action.correctAgeRating": "Исправить возрастной рейтинг",
+  "resolutionCenter.reportDetail": "Детали жалобы",
+  "resolutionCenter.dashboard.title": "Центр урегулирования"
 }

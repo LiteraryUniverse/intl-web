@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "Registruota",
   "org.members.emailInvite.sent": "Kviečiama el. paštu",
   "org.members.joined": "Prisijungė prie",
-  "org.roles.super_admin": "Super administratorius"
+  "org.roles.super_admin": "Super administratorius",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

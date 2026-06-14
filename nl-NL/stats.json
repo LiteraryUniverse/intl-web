@@ -137,5 +137,19 @@
   "stats.sales.perStory.purchases": "Purchases",
   "stats.sales.perStory.revenue": "Revenue",
   "stats.sales.overview.title": "Sales Overview",
-  "stats.sales.overview.description": "Overview of all your sales across stories."
+  "stats.sales.overview.description": "Overview of all your sales across stories.",
+  "stats.noPosts": "Geen blogberichten beschikbaar.",
+  "stats.noChapters": "Geen hoofdstukstatistieken beschikbaar.",
+  "stats.count": "Aantal",
+  "stats.views": "weergaven",
+  "stats.visitors": "bezoekers",
+  "stats.chapter.number": "Hoofdstuk",
+  "stats.characterCount": "{count} tekens",
+  "stats.chapterReadingTime.title": "Leestijd per hoofdstuk",
+  "stats.chapterReadingTime.noData": "Nog geen leestijdgegevens beschikbaar voor deze taal. Gegevens verschijnen naarmate lezers tijd aan je hoofdstukken besteden.",
+  "stats.chapterReadingTime.chapter": "Hoofdstuk",
+  "stats.chapterReadingTime.chapterTitle": "Titel",
+  "stats.chapterReadingTime.totalTime": "Totale leestijd",
+  "stats.hits.comingSoon": "Grafiek met hits in de tijd komt binnenkort...",
+  "stats.visitors.comingSoon": "Grafiek met bezoekers in de tijd komt binnenkort..."
 }

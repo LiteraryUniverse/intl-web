@@ -86,5 +86,8 @@
   "org.members.emailInvite.registered": "등록됨",
   "org.members.emailInvite.sent": "이메일로 초대",
   "org.members.joined": "가입",
-  "org.roles.super_admin": "슈퍼 관리자"
+  "org.roles.super_admin": "슈퍼 관리자",
+  "organization.blog.title": "{organization} - News",
+  "organization.courses.title": "Courses by {orgName}",
+  "organization.courses.none": "This organization hasn't published any courses yet."
 }

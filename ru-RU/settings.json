@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Отслеживайте время, потраченное на написание рассказов, глав и записей в энциклопедии. Сюда входят такие подробные показатели, как активность набора текста, количество слов и время суток.",
   "settings.tracking.trackWritingTime": "Отслеживайте время написания",
   "settings.tracking.trackReadingTime": "Отслеживайте время чтения",
-  "settings.tracking.trackBlogWritingTime": "Отслеживайте время написания блога"
+  "settings.tracking.trackBlogWritingTime": "Отслеживайте время написания блога",
+  "settings.apiKeys.create.title": "Создать новый API-ключ",
+  "settings.apiKeys.create": "Создать новый API-ключ",
+  "settings.interests.description": "Расскажите нам о ваших читательских предпочтениях, чтобы мы могли рекомендовать контент, соответствующий вашим интересам.",
+  "settings.interests.genres": "Любимые жанры",
+  "settings.interests.genres.help": "Выберите интересующие вас жанры.",
+  "settings.interests.tags": "Любимые теги",
+  "settings.interests.tags.help": "Выберите до 20 интересующих вас тегов."
 }

@@ -22,5 +22,20 @@
   "fanManager.hidden.nothingFound": "找不到任何隱藏的粉絲藝術品。",
   "fanManager.rejected.nothingFound": "找不到任何被拒絕的粉絲藝術品。",
   "fanManager.approved.nothingFound": "找不到任何已通過的粉絲藝術品。",
-  "fanManager.submitted.nothingFound": "找不到已提交的粉絲藝術作品。"
+  "fanManager.submitted.nothingFound": "找不到已提交的粉絲藝術作品。",
+  "fanManager.goToSettings": "Go to settings",
+  "fanManager.authorComment.label": "Comment from the universe author just for you: ",
+  "fanManager.publicComment.label": "Public comment from the universe author: ",
+  "fanManager.allowComments": "Allow comments",
+  "fanManager.item.settings": "{artTitle} settings",
+  "fanManager.stateChange.Hide": "Hide fan art",
+  "fanManager.for": "Fan manager for {universe}",
+  "fanManager.sort": "Sort",
+  "fanManager.sortByDate": "Sort by date",
+  "fanManager.sortByLikes": "Sort by likes",
+  "fanManager.fanArt.info": "Fan Art Info",
+  "fanManager.form.submit": "Submit your fan art to {universe}",
+  "fanManager.thankYou.wait": "You will need to wait for universe author to approve your fan art",
+  "fanManager.thankYou": "Thank you for submitting your fan art!",
+  "fanManager.thankYou.goBack": "Go back to {universe} fan arts"
 }

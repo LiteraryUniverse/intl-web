@@ -61,5 +61,14 @@
   "sharing.advanced.printTemplate6": "Шаблон 6",
   "sharing.advanced.fontColor": "Колір шрифту",
   "sharing.advanced.shareQR": "Share QR Link",
-  "sharing.advanced.displayLanguage": "Display language"
+  "sharing.advanced.displayLanguage": "Display language",
+  "sharing.advanced.showPublicationDate": "Показати майбутню дату публікації",
+  "sharing.advanced.backgroundImage": "Фонове зображення",
+  "sharing.advanced.genreBackgroundOption": "Жанр",
+  "sharing.advanced.uploadingBackground": "Завантаження…",
+  "sharing.advanced.uploadBackground": "+ Завантажити",
+  "sharing.advanced.shareWithQR": "Поділитися через QR",
+  "sharing.advanced.bgLimitReached": "Ви досягли максимальної кількості фонових зображень для вашої підписки.",
+  "sharing.advanced.bgUploadError": "Не вдалося завантажити фонове зображення.",
+  "sharing.advanced.deleteBackground": "Видалити фон"
 }

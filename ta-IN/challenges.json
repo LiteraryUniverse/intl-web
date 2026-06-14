@@ -24,5 +24,9 @@
   "challenges.report": "அறிக்கை",
   "challenges.victory": "வாழ்த்துக்கள்! நீங்கள் இந்த சவாலை முடித்துவிட்டீர்கள்.",
   "challenges.defeat": "மனதில் பதில் ஏற்படவில்லை. நீங்கள் இந்த சவாலை முடிக்க முடியவில்லை.",
-  "challenges.baseline": "இந்த கதையின் தற்போதைய சொற்கள் எண்ணிக்கை இதுவரை {wordcount, number}, இது தொடக்க புள்ளி ஆகும்."
+  "challenges.baseline": "இந்த கதையின் தற்போதைய சொற்கள் எண்ணிக்கை இதுவரை {wordcount, number}, இது தொடக்க புள்ளி ஆகும்.",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

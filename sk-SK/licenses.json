@@ -132,5 +132,9 @@
   "licenses.chooser.select": "Vyberte túto licenciu",
   "licenses.commercial.title": "Informácie o komerčnej licencii",
   "licenses.commercial.exclusive": "Vďaka tejto exkluzívnej licencii si spoločnosť Literary Universe zoberie 10 % poplatok z vašich príjmov. To znamená, že dostanete 90 % z príjmov z vašej práce na našej platforme.",
-  "licenses.commercial.nonExclusive": "V rámci tejto nevýhradnej licencie si spoločnosť Literary Universe zoberie 30 % poplatok z vašich príjmov na našej platforme. To znamená, že dostanete 70 % príjmov z vašej práce na Literary Universe."
+  "licenses.commercial.nonExclusive": "V rámci tejto nevýhradnej licencie si spoločnosť Literary Universe zoberie 30 % poplatok z vašich príjmov na našej platforme. To znamená, že dostanete 70 % príjmov z vašej práce na Literary Universe.",
+  "licenses.commercial.info.title": "Informácie o komerčnej licencii",
+  "licenses.commercial.exclusive.info": "Exkluzívna licencia: 10 % poplatok platformy, ponecháte si 90 % zárobkov",
+  "licenses.commercial.nonexclusive.info": "Neexkluzívna licencia: 30 % poplatok platformy, ponecháte si 70 % zárobkov",
+  "licenses.moreInfo": "Ďalšie informácie"
 }

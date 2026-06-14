@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Kas gali matyti mano enciklopedijos įrašus?",
   "faq.answer.encyclopedia.visibility": "Galite nustatyti, kad įrašai ar jų dalis būtų vieši arba privatūs.",
   "faq.question.encyclopedia.troubleshooting": "Ką daryti, jei negaliu rasti ar redaguoti įrašo?",
-  "faq.answer.encyclopedia.troubleshooting": "Pabandykite atnaujinti puslapį. Jei problema išlieka, patikrinkite leidimus arba kreipkitės į palaikymo komandą."
+  "faq.answer.encyclopedia.troubleshooting": "Pabandykite atnaujinti puslapį. Jei problema išlieka, patikrinkite leidimus arba kreipkitės į palaikymo komandą.",
+  "faq.section.organization": "Organizations"
 }

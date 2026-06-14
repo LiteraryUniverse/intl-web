@@ -121,5 +121,12 @@
   "blog.qa.warn.luOrFanRequired": "Only LU subscribers or Fan Club members can ask questions here.",
   "blogs.discussion": "Discussion",
   "blogs.discussionOnForum": "The discussion for this blog post continues on our forums.",
-  "blogs.joinDiscussion": "Join the discussion"
+  "blogs.joinDiscussion": "Join the discussion",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

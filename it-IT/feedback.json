@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Seleziona i video in evidenza",
   "feedback.help.featuredVideosDescription": "Questi video saranno visualizzati in uno slider sulla pagina della categoria. I video dovrebbero avere una miniatura per essere visualizzati al meglio.",
   "feedback.help.backToCategory": "Torna alla categoria",
-  "feedback.help.watchVideo": "Guarda il video"
+  "feedback.help.watchVideo": "Guarda il video",
+  "feedback.help.noFeaturedCourses": "Nessun corso in evidenza disponibile al momento.",
+  "resolutionCenter.action.correctAgeRating": "Correggi la classificazione per età",
+  "resolutionCenter.reportDetail": "Dettagli della segnalazione",
+  "resolutionCenter.dashboard.title": "Centro risoluzioni"
 }

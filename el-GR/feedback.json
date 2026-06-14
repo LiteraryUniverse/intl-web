@@ -92,5 +92,9 @@
   "feedback.help.selectFeaturedVideos": "Επιλέξτε βίντεο που εμφανίζονται",
   "feedback.help.featuredVideosDescription": "Αυτά τα βίντεο θα εμφανίζονται σε ένα slider στη σελίδα της κατηγορίας. Τα βίντεο θα πρέπει να έχουν μια μικρογραφία για καλύτερη εμφάνιση.",
   "feedback.help.backToCategory": "Επιστροφή στην κατηγορία",
-  "feedback.help.watchVideo": "Παρακολουθήστε το βίντεο"
+  "feedback.help.watchVideo": "Παρακολουθήστε το βίντεο",
+  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
+  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
+  "resolutionCenter.reportDetail": "Report Details",
+  "resolutionCenter.dashboard.title": "Resolution Center"
 }

@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "Blok Teks Revisi",
   "personalNotes.recentSearches": "Pencarian Terbaru:",
   "personalNotes.myNotes": "Catatan Pribadi Saya",
-  "personalNotes.hasNotes": "Memiliki Catatan Pribadi"
+  "personalNotes.hasNotes": "Memiliki Catatan Pribadi",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

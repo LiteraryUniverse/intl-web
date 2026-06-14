@@ -20,5 +20,8 @@
   "personalNotes.type.revTextBlock": "مقطع نصي للمراجعة",
   "personalNotes.recentSearches": "البحث الأخيرة:",
   "personalNotes.myNotes": "ملاحظاتي الشخصية",
-  "personalNotes.hasNotes": "لديه ملاحظات شخصية"
+  "personalNotes.hasNotes": "لديه ملاحظات شخصية",
+  "personalNotes.recentSearched": "Recent Searches:",
+  "personalNotes.search.noFound": "No items found",
+  "personalNotes.type": "Type"
 }

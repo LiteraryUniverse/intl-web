@@ -24,5 +24,9 @@
   "challenges.report": "रिपोर्ट",
   "challenges.victory": "बधाई छ! तपाईंले यो चुनौती सम्पन्न गर्नुभयो।",
   "challenges.defeat": "दुःख लाग्यो, तपाईंले यो चुनौती सम्पन्न गर्न सक्नुभयो।",
-  "challenges.baseline": "यह कहानीको वर्तमान शब्दसंख्या {wordcount, number}हो, यो सुरुवाती बिन्दु हुनेछ।"
+  "challenges.baseline": "यह कहानीको वर्तमान शब्दसंख्या {wordcount, number}हो, यो सुरुवाती बिन्दु हुनेछ।",
+  "challenges.day": "Day",
+  "challenges.words": "Words",
+  "challenges.actualProgress": "Day {day}: {words} words",
+  "challenges.minimumRequired": "Minimum required: {words} words"
 }

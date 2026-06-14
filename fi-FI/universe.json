@@ -29,5 +29,10 @@
   "universe.fanFiction.notAllowed": "Tämä Universumi ei salli fanifiktion näyttämistä.",
   "universe.storiesCount": "Universumin tarinoiden kokonaismäärä",
   "universe.createdAt": "Luotu: {date}",
-  "universe.authors.none": "Tekijöitä koskevia tietoja ei ole saatavilla."
+  "universe.authors.none": "Tekijöitä koskevia tietoja ei ole saatavilla.",
+  "universe.blog.title": "{universe} - News & Updates",
+  "universe.fanarts.allowComments": "Allow comments",
+  "universe.createdby": "Created by",
+  "universe.fanArt.picture": "Fan art image",
+  "universe.stories": "Stories"
 }

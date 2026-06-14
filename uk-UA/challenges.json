@@ -24,5 +24,9 @@
   "challenges.report": "Звіт",
   "challenges.victory": "Вітаємо! Ви завершили цей виклик.",
   "challenges.defeat": "На жаль, ви не завершили цей виклик.",
-  "challenges.baseline": "Поточна кількість слів для цієї історії становить {wordcount, number}, це буде початкова точка."
+  "challenges.baseline": "Поточна кількість слів для цієї історії становить {wordcount, number}, це буде початкова точка.",
+  "challenges.day": "День",
+  "challenges.words": "Слова",
+  "challenges.actualProgress": "День {day}: {words} слів",
+  "challenges.minimumRequired": "Мінімум: {words} слів"
 }

@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Inicie sessão para comprar arcos de histórias individuais",
   "story.purchase.pricingUnavailable": "Atualmente, não estão disponíveis informações sobre preços.",
   "story.buy.error.timeout": "O pedido expirou. Por favor, tente novamente.",
-  "story.chapter.freePreviewEnds": "A pré-visualização gratuita termina aqui"
+  "story.chapter.freePreviewEnds": "A pré-visualização gratuita termina aqui",
+  "discovery.ai.stories.new": "Novas histórias geradas por IA",
+  "discovery.ai.stories.updated": "Histórias geradas por IA atualizadas recentemente",
+  "discovery.ai.content.desc": "Descubra conteúdo criado com a ajuda de IA",
+  "discover.search.universal.title": "Pesquisar",
+  "discover.search.encyclopedia": "Enciclopédia",
+  "discover.search.encyclopedia.comingSoon": "Pesquisa na enciclopédia brevemente disponível.",
+  "discover.search.universal.description": "Pesquisar histórias e universos",
+  "discover.search.typeSelection.aria": "Seleção do tipo de conteúdo",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Não foram encontrados resultados} one {# resultado encontrado} other {# resultados encontrados}}"
 }

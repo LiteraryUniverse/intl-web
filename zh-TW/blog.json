@@ -118,5 +118,12 @@
   "blog.qa.warn.luOrFanRequired": "只有 LU 訂閱者或 Fan Club 會員才能在此提問。",
   "blogs.discussion": "討論",
   "blogs.discussionOnForum": "這篇部落格文章的討論仍在我們的論壇上繼續。",
-  "blogs.joinDiscussion": "加入討論"
+  "blogs.joinDiscussion": "加入討論",
+  "blog.posts.empty": "You don't have any posts yet. Create your first post to get started.",
+  "blog.qa.tabs.aria": "Blog question tabs",
+  "blogs.literaryCommentary": "Literary Commentary",
+  "blog.qa.reference.encyclopedia.placeholder": "Search encyclopedia entries...",
+  "blog.qa.reference.story.placeholder": "Search your stories...",
+  "blog.qa.reference.blog.placeholder": "Search blog posts...",
+  "literaryCommentary.tab": "Commentary"
 }

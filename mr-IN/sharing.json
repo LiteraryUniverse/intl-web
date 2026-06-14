@@ -65,5 +65,14 @@
   "sharing.email": "ई-मेल",
   "sharing.canvas.by": "by",
   "sharing.canvas.chapter": "Chapter {chapterNumber}",
-  "sharing.canvas.publishesOn": "Publishes on {date}"
+  "sharing.canvas.publishesOn": "Publishes on {date}",
+  "sharing.advanced.showPublicationDate": "Show future publication date",
+  "sharing.advanced.backgroundImage": "Background image",
+  "sharing.advanced.genreBackgroundOption": "Genre",
+  "sharing.advanced.uploadingBackground": "Uploading…",
+  "sharing.advanced.uploadBackground": "+ Upload",
+  "sharing.advanced.shareWithQR": "Share with QR",
+  "sharing.advanced.bgLimitReached": "You have reached the maximum number of background images for your subscription.",
+  "sharing.advanced.bgUploadError": "Failed to upload background image.",
+  "sharing.advanced.deleteBackground": "Delete background"
 }

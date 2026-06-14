@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Відстежуйте час, витрачений на написання статей, розділів і статей в енциклопедії. Це включає детальні показники, такі як активність набору тексту, кількість слів і час доби.",
   "settings.tracking.trackWritingTime": "Час написання треку",
   "settings.tracking.trackReadingTime": "Час зчитування треку",
-  "settings.tracking.trackBlogWritingTime": "Відстежуйте час написання блогу"
+  "settings.tracking.trackBlogWritingTime": "Відстежуйте час написання блогу",
+  "settings.apiKeys.create.title": "Створити новий ключ API",
+  "settings.apiKeys.create": "Створити новий ключ API",
+  "settings.interests.description": "Розкажіть нам про свої читацькі вподобання, щоб ми могли рекомендувати контент, який відповідає вашим інтересам.",
+  "settings.interests.genres": "Улюблені жанри",
+  "settings.interests.genres.help": "Виберіть жанри, які вас цікавлять.",
+  "settings.interests.tags": "Улюблені теги",
+  "settings.interests.tags.help": "Виберіть до 20 тегів, які вас цікавлять."
 }

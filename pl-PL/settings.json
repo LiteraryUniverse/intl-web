@@ -209,5 +209,12 @@
   "settings.tracking.writing.description": "Śledzenie czasu spędzonego na pisaniu opowiadań, rozdziałów i wpisów do encyklopedii. Obejmuje to szczegółowe dane, takie jak aktywność pisania, liczba słów i wzorce czasu w ciągu dnia.",
   "settings.tracking.trackWritingTime": "Śledzenie czasu pisania",
   "settings.tracking.trackReadingTime": "Śledzenie czasu odczytu",
-  "settings.tracking.trackBlogWritingTime": "Śledzenie czasu pisania bloga"
+  "settings.tracking.trackBlogWritingTime": "Śledzenie czasu pisania bloga",
+  "settings.apiKeys.create.title": "Utwórz nowy klucz API",
+  "settings.apiKeys.create": "Utwórz nowy klucz API",
+  "settings.interests.description": "Opowiedz nam o swoich preferencjach czytelniczych, abyśmy mogli polecać treści pasujące do Twoich zainteresowań.",
+  "settings.interests.genres": "Ulubione gatunki",
+  "settings.interests.genres.help": "Wybierz gatunki, które Cię interesują.",
+  "settings.interests.tags": "Ulubione tagi",
+  "settings.interests.tags.help": "Wybierz do 20 tagów, które Cię interesują."
 }

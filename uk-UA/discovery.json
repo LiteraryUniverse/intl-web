@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Увійдіть, щоб придбати окремі сюжетні арки",
   "story.purchase.pricingUnavailable": "Інформація про ціни наразі недоступна.",
   "story.buy.error.timeout": "Закінчився термін дії запиту. Спробуйте ще раз.",
-  "story.chapter.freePreviewEnds": "Безкоштовний попередній перегляд закінчується тут"
+  "story.chapter.freePreviewEnds": "Безкоштовний попередній перегляд закінчується тут",
+  "discovery.ai.stories.new": "Нові історії, згенеровані ШІ",
+  "discovery.ai.stories.updated": "Нещодавно оновлені історії, згенеровані ШІ",
+  "discovery.ai.content.desc": "Відкрийте для себе контент, створений за допомогою ШІ",
+  "discover.search.universal.title": "Пошук",
+  "discover.search.encyclopedia": "Енциклопедія",
+  "discover.search.encyclopedia.comingSoon": "Пошук в енциклопедії незабаром.",
+  "discover.search.universal.description": "Пошук історій та всесвітів",
+  "discover.search.typeSelection.aria": "Вибір типу контенту",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Нічого не знайдено} one {# результат знайдено} few {# результати знайдено} many {# результатів знайдено} other {# результатів знайдено}}"
 }

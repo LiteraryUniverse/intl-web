@@ -90,5 +90,14 @@
   "story.purchase.loginToBuyArcs": "Войдите в систему, чтобы приобрести отдельные сюжетные линии",
   "story.purchase.pricingUnavailable": "Информация о ценах в настоящее время недоступна.",
   "story.buy.error.timeout": "Запрос был отложен. Пожалуйста, попробуйте еще раз.",
-  "story.chapter.freePreviewEnds": "Бесплатный предварительный просмотр заканчивается здесь"
+  "story.chapter.freePreviewEnds": "Бесплатный предварительный просмотр заканчивается здесь",
+  "discovery.ai.stories.new": "Новые истории, созданные ИИ",
+  "discovery.ai.stories.updated": "Недавно обновлённые истории, созданные ИИ",
+  "discovery.ai.content.desc": "Откройте для себя контент, созданный с помощью ИИ",
+  "discover.search.universal.title": "Поиск",
+  "discover.search.encyclopedia": "Энциклопедия",
+  "discover.search.encyclopedia.comingSoon": "Поиск по энциклопедии скоро появится.",
+  "discover.search.universal.description": "Поиск историй и вселенных",
+  "discover.search.typeSelection.aria": "Выбор типа контента",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Ничего не найдено} one {Найден # результат} few {Найдено # результата} many {Найдено # результатов} other {Найдено # результата}}"
 }

@@ -103,5 +103,12 @@
   "theWay.task.universePublicationCount.description": "Nic se neděje ve vzduchoprázdnu. Je nezbytné mít vesmír, který můžete budovat a sdílet mezi příběhy nebo jen poskytnout větší hloubku vašemu psaní.",
   "theWay.task.wordCount.title": "Dosáhněte milníku v počtu slov",
   "theWay.task.wordCount.progress": "Aktuální počet slov: {currentValue, number}/{targetValue, number}",
-  "theWay.task.wordCount.description": "Pokračujte v psaní! Každé slovo tě přibližuje k mistrovství a odemkne další milník na vaší cestě."
+  "theWay.task.wordCount.description": "Pokračujte v psaní! Každé slovo tě přibližuje k mistrovství a odemkne další milník na vaší cestě.",
+  "theWay.genreSelector.label": "Vyberte žánr",
+  "theWay.genreSelector.placeholder": "Vyberte žánr...",
+  "theWay.badge.title": "Úroveň autora",
+  "theWay.badge.level": "Úroveň {level}",
+  "theWay.progress.currentStreak": "Aktuální série: {streak}/{target} {unit}",
+  "theWay.progress.currentValue": "Publikováno {current}/{target} {unit}",
+  "theWay.levelUp.toast": "Gratulujeme! Vy"
 }

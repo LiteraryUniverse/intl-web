@@ -123,5 +123,6 @@
   "faq.question.encyclopedia.visibility": "Who can see my encyclopedia entries?",
   "faq.answer.encyclopedia.visibility": "You can set entries or part of entries to be public or private.",
   "faq.question.encyclopedia.troubleshooting": "What if I can't find or edit an entry?",
-  "faq.answer.encyclopedia.troubleshooting": "Try refreshing the page. If the issue persists, check your permissions or contact support."
+  "faq.answer.encyclopedia.troubleshooting": "Try refreshing the page. If the issue persists, check your permissions or contact support.",
+  "faq.section.organization": "Organizations"
 }
