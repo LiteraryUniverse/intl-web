@@ -100,5 +100,12 @@
   "org.admin.features.bbb": "Video meetings (BBB)",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
-  "organization.courses.none": "This organization hasn't published any courses yet."
+  "organization.courses.none": "This organization hasn't published any courses yet.",
+  "orgConnect.payouts.tab": "Payouts",
+  "orgConnect.payouts.title": "Organization payouts",
+  "orgConnect.payouts.intro": "Set up Stripe payouts so this organization can receive its share of audiobook and story revenue (e.g. as an audiobook manager).",
+  "orgConnect.payouts.ready": "Payouts are set up for this organization.",
+  "orgConnect.payouts.manage": "Manage payouts on Stripe",
+  "orgConnect.payouts.pending": "Stripe is still verifying this organization's payout account. Click below to continue onboarding or check back later.",
+  "orgConnect.payouts.setup": "Set up organization payouts"
 }
