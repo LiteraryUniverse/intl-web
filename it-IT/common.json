@@ -408,5 +408,8 @@
   "common.published": "Pubblicato",
   "common.draft": "Bozza",
   "forms.selectOne": "Seleziona uno...",
-  "common.clear": "Cancella"
+  "common.clear": "Cancella",
+  "common.free": "Gratuito",
+  "common.manage": "Gestisci",
+  "common.unpublish": "Annulla pubblicazione"
 }

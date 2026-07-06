@@ -408,5 +408,8 @@
   "common.published": "Opublikowane",
   "common.draft": "Wersja robocza",
   "forms.selectOne": "Wybierz jedną opcję...",
-  "common.clear": "Wyczyść"
+  "common.clear": "Wyczyść",
+  "common.free": "Za darmo",
+  "common.manage": "Zarządzaj",
+  "common.unpublish": "Cofnij publikację"
 }

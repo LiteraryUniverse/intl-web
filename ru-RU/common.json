@@ -408,5 +408,8 @@
   "common.published": "Опубликовано",
   "common.draft": "Черновик",
   "forms.selectOne": "Выберите один...",
-  "common.clear": "Очистить"
+  "common.clear": "Очистить",
+  "common.free": "Бесплатно",
+  "common.manage": "Управление",
+  "common.unpublish": "Снять с публикации"
 }

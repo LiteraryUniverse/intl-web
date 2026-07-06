@@ -408,5 +408,8 @@
   "common.published": "Veröffentlicht",
   "common.draft": "Entwurf",
   "forms.selectOne": "Eine Option auswählen…",
-  "common.clear": "Löschen"
+  "common.clear": "Löschen",
+  "common.free": "Kostenlos",
+  "common.manage": "Verwalten",
+  "common.unpublish": "Veröffentlichung zurückziehen"
 }

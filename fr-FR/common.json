@@ -408,5 +408,8 @@
   "common.published": "Publié",
   "common.draft": "Brouillon",
   "forms.selectOne": "Sélectionnez-en un...",
-  "common.clear": "Effacer"
+  "common.clear": "Effacer",
+  "common.free": "Gratuit",
+  "common.manage": "Gérer",
+  "common.unpublish": "Dépublier"
 }

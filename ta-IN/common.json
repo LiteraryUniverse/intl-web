@@ -408,5 +408,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "இலவசம்",
+  "common.manage": "நிர்வகி",
+  "common.unpublish": "வெளியீட்டை நீக்கு"
 }

@@ -408,5 +408,8 @@
   "common.published": "Gepubliceerd",
   "common.draft": "Concept",
   "forms.selectOne": "Selecteer er één...",
-  "common.clear": "Wissen"
+  "common.clear": "Wissen",
+  "common.free": "Gratis",
+  "common.manage": "Beheren",
+  "common.unpublish": "Depubliceren"
 }

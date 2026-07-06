@@ -408,5 +408,8 @@
   "common.published": "Опубліковано",
   "common.draft": "Чернетка",
   "forms.selectOne": "Виберіть один...",
-  "common.clear": "Очистити"
+  "common.clear": "Очистити",
+  "common.free": "Безкоштовно",
+  "common.manage": "Керувати",
+  "common.unpublish": "Скасувати публікацію"
 }

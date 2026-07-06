@@ -412,5 +412,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "मोफत",
+  "common.manage": "व्यवस्थापित करा",
+  "common.unpublish": "अप्रकाशित करा"
 }

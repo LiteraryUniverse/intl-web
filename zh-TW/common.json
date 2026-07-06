@@ -408,5 +408,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "免費",
+  "common.manage": "管理",
+  "common.unpublish": "取消發佈"
 }

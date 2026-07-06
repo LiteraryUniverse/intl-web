@@ -412,5 +412,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "ఉచితం",
+  "common.manage": "నిర్వహించండి",
+  "common.unpublish": "ప్రచురణ రద్దు"
 }

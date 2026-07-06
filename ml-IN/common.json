@@ -412,5 +412,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "സൗജന്യം",
+  "common.manage": "കൈകാര്യം ചെയ്യുക",
+  "common.unpublish": "പ്രസിദ്ധീകരണം പിൻവലിക്കുക"
 }

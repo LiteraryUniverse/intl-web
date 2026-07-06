@@ -408,5 +408,8 @@
   "common.published": "Publikováno",
   "common.draft": "Koncept",
   "forms.selectOne": "Vyberte jednu možnost...",
-  "common.clear": "Vymazat"
+  "common.clear": "Vymazat",
+  "common.free": "Zdarma",
+  "common.manage": "Spravovat",
+  "common.unpublish": "Zrušit publikování"
 }

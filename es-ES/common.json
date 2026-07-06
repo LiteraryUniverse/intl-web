@@ -408,5 +408,8 @@
   "common.published": "Publicado",
   "common.draft": "Borrador",
   "forms.selectOne": "Selecciona una opción...",
-  "common.clear": "Borrar"
+  "common.clear": "Borrar",
+  "common.free": "Gratis",
+  "common.manage": "Gestionar",
+  "common.unpublish": "Despublicar"
 }

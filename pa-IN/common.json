@@ -408,5 +408,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "ਮੁਫ਼ਤ",
+  "common.manage": "ਪ੍ਰਬੰਧ ਕਰੋ",
+  "common.unpublish": "ਅਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ"
 }

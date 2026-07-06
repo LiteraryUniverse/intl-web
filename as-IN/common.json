@@ -412,5 +412,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "বিনামূলীয়া",
+  "common.manage": "পৰিচালনা কৰক",
+  "common.unpublish": "অপ্ৰকাশ কৰক"
 }

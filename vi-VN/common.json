@@ -408,5 +408,8 @@
   "common.published": "Published",
   "common.draft": "Draft",
   "forms.selectOne": "Select one...",
-  "common.clear": "Clear"
+  "common.clear": "Clear",
+  "common.free": "Miễn phí",
+  "common.manage": "Quản lý",
+  "common.unpublish": "Hủy xuất bản"
 }
