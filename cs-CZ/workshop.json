@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Vyhledávání podle názvu, např. \"Science fiction\".",
   "workshop.thema.quickRef": "📖 Stručný přehled témat",
   "workshop.story.new": "Vytvořit nový příběh",
+  "workshop.story.createPrivate": "Vytvořit jako soukromý",
+  "workshop.story.createPrivate.explain": "Jako ověřený autor můžete tento příběh vytvořit také jako soukromý: bude se počítat jako publikované dílo ve vašem životopise autora, aniž by byl viditelný pro veřejnost.",
   "workshop.story.publishing.notice": "Příběh bude zveřejněn automaticky, jakmile zveřejníte první kapitolu.",
   "workshop.story.published.congratulations.title": "Gratulujeme! Váš příběh je zveřejněn",
   "workshop.story.published.congratulations.heading": "Gratulujeme! Váš příběh byl zveřejněn",

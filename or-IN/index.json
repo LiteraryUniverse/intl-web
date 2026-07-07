@@ -3909,6 +3909,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Create a new story",
+  "workshop.story.createPrivate": "Create as private",
+  "workshop.story.createPrivate.explain": "As a verified author you can also create this story as private: it will count as a published work on your author's resume without being visible to the public.",
   "workshop.story.publishing.notice": "The story will be published automatically once you publish the first chapter.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

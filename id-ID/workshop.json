@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Cari berdasarkan nama, misalnya \"Fiksi ilmiah\"",
   "workshop.thema.quickRef": "📖 Referensi Cepat Tema",
   "workshop.story.new": "Buat cerita baru",
+  "workshop.story.createPrivate": "Buat sebagai pribadi",
+  "workshop.story.createPrivate.explain": "Sebagai penulis terverifikasi, Anda juga dapat membuat cerita ini sebagai pribadi: cerita ini akan dihitung sebagai karya terbit di Resume Penulis Anda tanpa terlihat oleh publik.",
   "workshop.story.publishing.notice": "Cerita akan dipublikasikan secara otomatis setelah Anda mempublikasikan bab pertama.",
   "workshop.story.published.congratulations.title": "Selamat! Cerita Anda telah diterbitkan",
   "workshop.story.published.congratulations.heading": "Selamat! Cerita Anda telah diterbitkan",

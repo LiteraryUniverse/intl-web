@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Skep 'n nuwe storie",
+  "workshop.story.createPrivate": "Skep as privaat",
+  "workshop.story.createPrivate.explain": "As 'n geverifieerde outeur kan jy hierdie storie ook as privaat skep: dit sal as 'n gepubliseerde werk in jou outeurs-CV tel sonder om vir die publiek sigbaar te wees.",
   "workshop.story.publishing.notice": "Die storie sal outomaties gepubliseer word sodra jy die eerste hoofstuk publiseer.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

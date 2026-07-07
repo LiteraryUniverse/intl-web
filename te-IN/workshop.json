@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "కొత్త కథ సృష్టించండి",
+  "workshop.story.createPrivate": "ప్రైవేట్‌గా సృష్టించండి",
+  "workshop.story.createPrivate.explain": "ధృవీకరించబడిన రచయితగా మీరు ఈ కథను ప్రైవేట్‌గా కూడా సృష్టించవచ్చు: ఇది ప్రజలకు కనిపించకుండా మీ రచయిత రెజ్యూమేలో ప్రచురించబడిన రచనగా లెక్కించబడుతుంది.",
   "workshop.story.publishing.notice": "మీరు మొదటి అధ్యాయం ప్రచురించిన తరువాత కథ స్వయంచాలకంగా ప్రచురించబడుతుంది.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

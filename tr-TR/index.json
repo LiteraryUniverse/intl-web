@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "İsme göre arama, örneğin \"Bilim kurgu\"",
   "workshop.thema.quickRef": "📖 Thema Hızlı Referans",
   "workshop.story.new": "Yeni bir hikaye oluştur",
+  "workshop.story.createPrivate": "Özel olarak oluştur",
+  "workshop.story.createPrivate.explain": "Doğrulanmış bir yazar olarak bu hikâyeyi özel olarak da oluşturabilirsiniz: halka görünür olmadan Yazarın Özgeçmişinizde yayımlanmış bir eser olarak sayılır.",
   "workshop.story.publishing.notice": "İlk bölümü yayınladığınızda hikaye otomatik olarak yayınlanacaktır.",
   "workshop.story.published.congratulations.title": "Tebrikler! Hikayeniz yayınlandı",
   "workshop.story.published.congratulations.heading": "Tebrikler! Hikayeniz yayınlandı",

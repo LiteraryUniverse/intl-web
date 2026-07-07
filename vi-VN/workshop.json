@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Tìm kiếm theo tên, ví dụ: \"Khoa học viễn tưởng\"",
   "workshop.thema.quickRef": "📖 Hướng dẫn nhanh về Thema",
   "workshop.story.new": "Tạo một câu chuyện mới",
+  "workshop.story.createPrivate": "Tạo ở chế độ riêng tư",
+  "workshop.story.createPrivate.explain": "Là tác giả đã được xác minh, bạn cũng có thể tạo truyện này ở chế độ riêng tư: truyện sẽ được tính là tác phẩm đã xuất bản trong sơ yếu lý lịch tác giả của bạn mà không hiển thị công khai.",
   "workshop.story.publishing.notice": "Câu chuyện sẽ được xuất bản tự động sau khi bạn xuất bản chương đầu tiên.",
   "workshop.story.published.congratulations.title": "Chúc mừng! Bài viết của bạn đã được đăng tải.",
   "workshop.story.published.congratulations.heading": "Chúc mừng! Câu chuyện của bạn đã được đăng tải.",

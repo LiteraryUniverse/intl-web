@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Cruthaigh scéal nua",
+  "workshop.story.createPrivate": "Cruthaigh mar scéal príobháideach",
+  "workshop.story.createPrivate.explain": "Mar údar fíoraithe is féidir leat an scéal seo a chruthú mar scéal príobháideach freisin: áireofar é mar shaothar foilsithe i do CV údair gan a bheith le feiceáil ag an bpobal.",
   "workshop.story.publishing.notice": "Cuirfear an scéal ar fáil go huathoibríoch nuair a fhoilsíonn tú an chéad chaibidil.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

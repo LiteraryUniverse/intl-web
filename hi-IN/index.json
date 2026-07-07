@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "एक नई कहानी बनाएँ",
+  "workshop.story.createPrivate": "निजी के रूप में बनाएँ",
+  "workshop.story.createPrivate.explain": "सत्यापित लेखक के रूप में आप इस कहानी को निजी के रूप में भी बना सकते हैं: यह सार्वजनिक रूप से दिखाई दिए बिना आपके लेखक के संक्षिप्त परिचय में प्रकाशित कृति के रूप में गिनी जाएगी।",
   "workshop.story.publishing.notice": "पहले अध्याय प्रकाशित करने पर कहानी स्वचालित रूप से प्रकाशित हो जाएगी।",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

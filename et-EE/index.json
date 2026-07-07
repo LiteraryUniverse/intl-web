@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Otsi nime järgi, nt \"Science fiction\".",
   "workshop.thema.quickRef": "📖 Teema kiirviide",
   "workshop.story.new": "Loo loomine",
+  "workshop.story.createPrivate": "Loo privaatsena",
+  "workshop.story.createPrivate.explain": "Kinnitatud autorina saad selle loo luua ka privaatsena: see läheb arvesse avaldatud teosena sinu autori elulookirjelduses, ilma et see oleks avalikult nähtav.",
   "workshop.story.publishing.notice": "Lugu avaldatakse automaatselt pärast esimese peatüki avaldamist.",
   "workshop.story.published.congratulations.title": "Palju õnne! Teie lugu on avaldatud",
   "workshop.story.published.congratulations.heading": "Palju õnne! Teie lugu on avaldatud",

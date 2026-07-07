@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Шукайте за назвою, наприклад, \"Наукова фантастика\"",
   "workshop.thema.quickRef": "📖 Короткий довідник по темі",
   "workshop.story.new": "Створити нову історію",
+  "workshop.story.createPrivate": "Створити як приватну",
+  "workshop.story.createPrivate.explain": "Як підтверджений автор ви також можете створити цю історію як приватну: вона вважатиметься опублікованою роботою у вашому резюме автора, не будучи видимою публічно.",
   "workshop.story.publishing.notice": "Історія опублікується автоматично, як тільки ви опублікуєте перший розділ.",
   "workshop.story.published.congratulations.title": "Вітаємо! Ваша історія опублікована",
   "workshop.story.published.congratulations.heading": "Вітаємо! Ваша історія опублікована",

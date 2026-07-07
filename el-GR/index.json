@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Αναζήτηση με βάση το όνομα, π.χ. \"Επιστημονική φαντασία\"",
   "workshop.thema.quickRef": "📖 Θέμα Γρήγορη αναφορά",
   "workshop.story.new": "Δημιουργία νέας ιστορίας",
+  "workshop.story.createPrivate": "Δημιουργία ως ιδιωτική",
+  "workshop.story.createPrivate.explain": "Ως επαληθευμένος συγγραφέας μπορείτε επίσης να δημιουργήσετε αυτήν την ιστορία ως ιδιωτική: θα υπολογίζεται ως δημοσιευμένο έργο στο βιογραφικό σημείωμα του συγγραφέα σας χωρίς να είναι ορατή στο κοινό.",
   "workshop.story.publishing.notice": "Η ιστορία θα δημοσιευθεί αυτόματα μόλις δημοσιεύσετε το πρώτο κεφάλαιο.",
   "workshop.story.published.congratulations.title": "Συγχαρητήρια! Η ιστορία σας δημοσιεύεται",
   "workshop.story.published.congratulations.heading": "Συγχαρητήρια! Η ιστορία σας έχει δημοσιευτεί",

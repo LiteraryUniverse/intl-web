@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "შექმენი ახალი ამბავი",
+  "workshop.story.createPrivate": "პირადად შექმნა",
+  "workshop.story.createPrivate.explain": "როგორც დადასტურებულ ავტორს, თქვენ შეგიძლიათ ეს ისტორია პირადადაც შექმნათ: ის ჩაითვლება გამოქვეყნებულ ნაწარმოებად თქვენს ავტორის რეზიუმეში, საჯაროდ ხილვის გარეშე.",
   "workshop.story.publishing.notice": "ისტორია ავტომატურად გამოქვეყნდება, როგორც კი პირველ თავს გამოაქვეყნებთ.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

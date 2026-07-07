@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "名前で検索（例：\"SF\"",
   "workshop.thema.quickRef": "📖 テーマ・クイックリファレンス",
   "workshop.story.new": "新しい物語を作る",
+  "workshop.story.createPrivate": "非公開として作成",
+  "workshop.story.createPrivate.explain": "認証済みの著者は、このストーリーを非公開として作成することもできます。一般に公開されることなく、著者の履歴書に公開作品として記載されます。",
   "workshop.story.publishing.notice": "第一章を発行すると、物語は自動的に公開されます。",
   "workshop.story.published.congratulations.title": "おめでとうあなたの物語が出版されました",
   "workshop.story.published.congratulations.heading": "おめでとうございます！あなたの記事が掲載されました",

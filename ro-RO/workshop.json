@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Căutare după nume, de ex. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Referință rapidă Thema",
   "workshop.story.new": "Creează o poveste nouă",
+  "workshop.story.createPrivate": "Creează ca privată",
+  "workshop.story.createPrivate.explain": "Ca autor verificat, poți crea această poveste și ca privată: va conta ca operă publicată în CV-ul autorului tău fără a fi vizibilă publicului.",
   "workshop.story.publishing.notice": "Povestea va fi publicată automat odată ce publici primul capitol.",
   "workshop.story.published.congratulations.title": "Felicitări! Povestea ta este publicată",
   "workshop.story.published.congratulations.heading": "Felicitări! Povestea ta a fost publicată",

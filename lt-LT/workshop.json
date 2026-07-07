@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Ieškoti pagal pavadinimą, pvz., \"Mokslinė fantastika\".",
   "workshop.thema.quickRef": "📖 Temos greitoji nuoroda",
   "workshop.story.new": "Sukurti naują istoriją",
+  "workshop.story.createPrivate": "Sukurti kaip privačią",
+  "workshop.story.createPrivate.explain": "Kaip patvirtintas autorius šią istoriją galite sukurti ir kaip privačią: ji bus įskaičiuota kaip publikuotas kūrinys jūsų autoriaus gyvenimo aprašyme, nebūdama matoma viešai.",
   "workshop.story.publishing.notice": "Istorija bus automatiškai publikuota, kai paskelbsite pirmąjį skyrių.",
   "workshop.story.published.congratulations.title": "Sveikiname! Jūsų istorija paskelbta",
   "workshop.story.published.congratulations.heading": "Sveikiname! Jūsų istorija paskelbta",

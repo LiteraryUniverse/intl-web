@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "依名稱搜尋，例如「科幻小說",
   "workshop.thema.quickRef": "📖 Thema 快速參考",
   "workshop.story.new": "創建一個新故事",
+  "workshop.story.createPrivate": "建立為私人作品",
+  "workshop.story.createPrivate.explain": "作為通過驗證的作者，您也可以將此故事建立為私人作品：它將計入您的作者簡歷中的已發表作品，而不會公開顯示。",
   "workshop.story.publishing.notice": "一旦您發布第一章，故事將自動發布。",
   "workshop.story.published.congratulations.title": "恭喜您您的故事發表了",
   "workshop.story.published.congratulations.heading": "恭喜您您的故事已經發表",

@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Поиск по названию, например, \"Научная фантастика\".",
   "workshop.thema.quickRef": "📖 Краткая справка по теме",
   "workshop.story.new": "Создать новую историю",
+  "workshop.story.createPrivate": "Создать как приватную",
+  "workshop.story.createPrivate.explain": "Как подтверждённый автор вы также можете создать эту историю как приватную: она будет считаться опубликованной работой в вашем резюме автора, не будучи видимой публично.",
   "workshop.story.publishing.notice": "История будет опубликована автоматически после публикации первой главы.",
   "workshop.story.published.congratulations.title": "Поздравляем! Ваша история опубликована",
   "workshop.story.published.congratulations.heading": "Поздравляем! Ваша история была опубликована",

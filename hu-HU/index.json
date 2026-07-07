@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Keresés név alapján, pl. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Téma gyorsreferencia",
   "workshop.story.new": "Új történet létrehozása",
+  "workshop.story.createPrivate": "Létrehozás privátként",
+  "workshop.story.createPrivate.explain": "Ellenőrzött szerzőként ezt a történetet privátként is létrehozhatod: publikált műként számít majd a szerzői önéletrajzodban anélkül, hogy nyilvánosan látható lenne.",
   "workshop.story.publishing.notice": "A történet automatikusan közzé lesz téve, amint közzéteszed az első fejezetet.",
   "workshop.story.published.congratulations.title": "Gratulálunk! A történeted megjelent",
   "workshop.story.published.congratulations.heading": "Gratulálunk! Történeted megjelent",

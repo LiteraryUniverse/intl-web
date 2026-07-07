@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Cipta cerita baru",
+  "workshop.story.createPrivate": "Cipta sebagai peribadi",
+  "workshop.story.createPrivate.explain": "Sebagai penulis yang disahkan, anda juga boleh mencipta cerita ini sebagai peribadi: ia akan dikira sebagai karya terbitan dalam Ringkasan Biodata Penulis anda tanpa kelihatan kepada umum.",
   "workshop.story.publishing.notice": "Cerita akan diterbitkan secara automatik apabila anda menerbitkan bab pertama.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

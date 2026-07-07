@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Haku nimen mukaan, esim. \"Science fiction\".",
   "workshop.thema.quickRef": "📖 Aiheen pikaohje",
   "workshop.story.new": "Luo uusi tarina",
+  "workshop.story.createPrivate": "Luo yksityisenä",
+  "workshop.story.createPrivate.explain": "Vahvistettuna kirjoittajana voit luoda tämän tarinan myös yksityisenä: se lasketaan julkaistuksi teokseksi kirjoittajan ansioluettelossasi olematta julkisesti näkyvissä.",
   "workshop.story.publishing.notice": "Tarina julkaistaan automaattisesti, kun julkaiset ensimmäisen luvun.",
   "workshop.story.published.congratulations.title": "Onnittelut! Tarinasi on julkaistu",
   "workshop.story.published.congratulations.heading": "Onnittelut! Tarinasi on julkaistu",

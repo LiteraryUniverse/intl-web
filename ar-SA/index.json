@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "البحث بالاسم، على سبيل المثال \"خيال علمي\"",
   "workshop.thema.quickRef": "📖 مرجع سريع للموضوعات",
   "workshop.story.new": "إنشاء قصة جديدة",
+  "workshop.story.createPrivate": "إنشاء كقصة خاصة",
+  "workshop.story.createPrivate.explain": "بصفتك مؤلفًا موثقًا يمكنك أيضًا إنشاء هذه القصة كقصة خاصة: ستُحتسب كعمل منشور في السيرة الذاتية للمؤلف الخاصة بك دون أن تكون مرئية للعامة.",
   "workshop.story.publishing.notice": "سيتم نشر القصة تلقائيًا عند نشر الفصل الأول.",
   "workshop.story.published.congratulations.title": "تهانينا! تم نشر قصتك",
   "workshop.story.published.congratulations.heading": "تهانينا! لقد تم نشر قصتك",

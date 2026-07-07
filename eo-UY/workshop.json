@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Krei novan rakonton",
+  "workshop.story.createPrivate": "Krei kiel privatan",
+  "workshop.story.createPrivate.explain": "Kiel kontrolita aŭtoro vi ankaŭ povas krei ĉi tiun rakonton kiel privatan: ĝi kalkuliĝos kiel publikigita verko en via aŭtora vivresumo sen esti videbla al la publiko.",
   "workshop.story.publishing.notice": "La rakonto estos aŭtomate publikigita kiam vi publikigos la unuan ĉapitron.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

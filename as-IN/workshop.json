@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "নতুন গল্প তৈৰি কৰক",
+  "workshop.story.createPrivate": "Create as private",
+  "workshop.story.createPrivate.explain": "As a verified author you can also create this story as private: it will count as a published work on your author's resume without being visible to the public.",
   "workshop.story.publishing.notice": "প্ৰথম অধ্যায় প্ৰকাশ কৰিলে গল্পটি স্বয়ংক্ৰিয়ভাৱে প্ৰকাশ হ'ব।",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

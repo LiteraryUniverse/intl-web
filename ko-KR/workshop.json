@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "이름으로 검색(예: \"공상 과학\")",
   "workshop.thema.quickRef": "📖 테마 빠른 참조",
   "workshop.story.new": "새 이야기 만들기",
+  "workshop.story.createPrivate": "비공개로 만들기",
+  "workshop.story.createPrivate.explain": "인증된 저자는 이 스토리를 비공개로 만들 수도 있습니다. 일반에 공개되지 않으면서 저자 이력서에 출판된 작품으로 집계됩니다.",
   "workshop.story.publishing.notice": "첫 번째 챕터를 게시하면 이야기가 자동으로 게시됩니다.",
   "workshop.story.published.congratulations.title": "축하합니다! 스토리가 게시되었습니다.",
   "workshop.story.published.congratulations.heading": "축하합니다! 스토리가 게시되었습니다.",

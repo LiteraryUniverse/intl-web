@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "ஒரு புதிய கதை உருவாக்கப்படும்",
+  "workshop.story.createPrivate": "தனிப்பட்டதாக உருவாக்கு",
+  "workshop.story.createPrivate.explain": "சரிபார்க்கப்பட்ட ஆசிரியராக, இந்தக் கதையைத் தனிப்பட்டதாகவும் உருவாக்கலாம்: இது பொதுமக்களுக்குத் தெரியாமல் உங்கள் ஆசிரியரின் சுயவிவரத்தில் வெளியிடப்பட்ட படைப்பாகக் கணக்கிடப்படும்.",
   "workshop.story.publishing.notice": "முதன்முதலில் அதிகாரப்பூர்வமாக பதிவை வெளியிடப்படும் போது இந்த கதையின் மேல் வெளியேற்றம் செய்யப்படும்.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

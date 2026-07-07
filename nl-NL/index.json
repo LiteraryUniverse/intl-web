@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Zoeken op naam, bijv. \"Science fiction\".",
   "workshop.thema.quickRef": "Thema Snelle referentie",
   "workshop.story.new": "Maak een nieuw verhaal",
+  "workshop.story.createPrivate": "Aanmaken als privé",
+  "workshop.story.createPrivate.explain": "Als geverifieerde auteur kunt u dit verhaal ook als privé aanmaken: het telt als gepubliceerd werk in uw CV van de auteur zonder zichtbaar te zijn voor het publiek.",
   "workshop.story.publishing.notice": "Het verhaal wordt automatisch gepubliceerd zodra je het eerste hoofdstuk publiceert.",
   "workshop.story.published.congratulations.title": "Gefeliciteerd! Uw verhaal is gepubliceerd",
   "workshop.story.published.congratulations.heading": "Gefeliciteerd! Uw verhaal is gepubliceerd",

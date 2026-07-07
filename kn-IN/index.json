@@ -3909,6 +3909,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "ಹೊಸ ಕಥೆಯನ್ನು ರಚಿಸಿ",
+  "workshop.story.createPrivate": "ಖಾಸಗಿಯಾಗಿ ರಚಿಸಿ",
+  "workshop.story.createPrivate.explain": "ಪರಿಶೀಲಿತ ಲೇಖಕರಾಗಿ ನೀವು ಈ ಕಥೆಯನ್ನು ಖಾಸಗಿಯಾಗಿಯೂ ರಚಿಸಬಹುದು: ಇದು ಸಾರ್ವಜನಿಕರಿಗೆ ಗೋಚರಿಸದೆ ನಿಮ್ಮ ಲೇಖಕರ ರೆಸ್ಯೂಮ್‌ನಲ್ಲಿ ಪ್ರಕಟಿತ ಕೃತಿಯಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
   "workshop.story.publishing.notice": "ಮೊದಲ ಅಧ್ಯಾಯವನ್ನು ಪ್ರಕಟಿಸುವ ಮೊದಲನೇ ಸಲ ಕಥೆ ಸ್ವಯಂಚಾಲಿತವಾಗುತ್ತದೆ.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Cerca per nome, ad esempio \"Fantascienza\".",
   "workshop.thema.quickRef": "📖 Riferimento rapido al Thema",
   "workshop.story.new": "Crea una nuova storia",
+  "workshop.story.createPrivate": "Crea come privata",
+  "workshop.story.createPrivate.explain": "In quanto autore verificato puoi anche creare questa storia come privata: verrà conteggiata come opera pubblicata nel tuo curriculum dell'autore senza essere visibile al pubblico.",
   "workshop.story.publishing.notice": "La storia verrà pubblicata automaticamente una volta pubblicato il primo capitolo.",
   "workshop.story.published.congratulations.title": "Congratulazioni! La sua storia è stata pubblicata",
   "workshop.story.published.congratulations.heading": "Congratulazioni! La sua storia è stata pubblicata",

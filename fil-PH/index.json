@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Lumikha ng bagong kwento",
+  "workshop.story.createPrivate": "Gumawa bilang pribado",
+  "workshop.story.createPrivate.explain": "Bilang beripikadong may-akda, maaari mo ring gawin ang kuwentong ito bilang pribado: mabibilang ito bilang nailathalang akda sa resume ng may-akda mo nang hindi nakikita ng publiko.",
   "workshop.story.publishing.notice": "Ang kwento ay awtomatikong mai-publish kapag inilathala mo ang unang kabanata.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "ค้นหาโดยชื่อ เช่น \"นิยายวิทยาศาสตร์\"",
   "workshop.thema.quickRef": "📖 หัวข้ออ้างอิงด่วน",
   "workshop.story.new": "สร้างเรื่องใหม่",
+  "workshop.story.createPrivate": "สร้างแบบส่วนตัว",
+  "workshop.story.createPrivate.explain": "ในฐานะนักเขียนที่ได้รับการยืนยัน คุณยังสามารถสร้างเรื่องนี้แบบส่วนตัวได้: เรื่องจะถูกนับเป็นผลงานที่เผยแพร่แล้วในประวัติย่อของผู้เขียนของคุณโดยไม่ปรากฏต่อสาธารณะ",
   "workshop.story.publishing.notice": "เรื่องนี้จะถูกเผยแพร่โดยอัตโนมัติเมื่อคุณเผยแพร่บทแรก",
   "workshop.story.published.congratulations.title": "ขอแสดงความยินดี! เรื่องของคุณได้รับการตีพิมพ์แล้ว",
   "workshop.story.published.congratulations.heading": "ขอแสดงความยินดี! เรื่องของคุณได้รับการตีพิมพ์แล้ว",

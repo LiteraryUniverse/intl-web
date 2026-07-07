@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Suche nach Namen, z.B. \"Science Fiction\"",
   "workshop.thema.quickRef": "📖 Thema Schnellreferenz",
   "workshop.story.new": "Eine neue Geschichte erstellen",
+  "workshop.story.createPrivate": "Als privat erstellen",
+  "workshop.story.createPrivate.explain": "Als verifizierter Autor können Sie diese Geschichte auch als privat erstellen: Sie zählt als veröffentlichtes Werk in Ihrem Lebenslauf des Autors, ohne öffentlich sichtbar zu sein.",
   "workshop.story.publishing.notice": "Die Geschichte wird automatisch veröffentlicht, sobald Sie das erste Kapitel veröffentlichen.",
   "workshop.story.published.congratulations.title": "Herzlichen Glückwunsch! Ihre Geschichte ist veröffentlicht",
   "workshop.story.published.congratulations.heading": "Herzlichen Glückwunsch! Ihre Geschichte wurde veröffentlicht",

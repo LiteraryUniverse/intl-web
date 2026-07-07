@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "नवीन कथा तयार करा",
+  "workshop.story.createPrivate": "खाजगी म्हणून तयार करा",
+  "workshop.story.createPrivate.explain": "सत्यापित लेखक म्हणून तुम्ही ही कथा खाजगी म्हणूनही तयार करू शकता: ती सार्वजनिकपणे न दिसता तुमच्या लेखकाच्या रिझ्युमेमध्ये प्रकाशित साहित्यकृती म्हणून गणली जाईल.",
   "workshop.story.publishing.notice": "पहिल्या अध्यायाची प्रकाशन करण्यानंतर कथा स्वतःच्या वेळेत प्रकाशित केली जाईल.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

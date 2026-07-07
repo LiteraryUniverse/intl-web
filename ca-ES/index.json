@@ -3909,6 +3909,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Crea una nova història",
+  "workshop.story.createPrivate": "Crea com a privada",
+  "workshop.story.createPrivate.explain": "Com a autor verificat també pots crear aquesta història com a privada: comptarà com a obra publicada al teu currículum d'autor sense ser visible per al públic.",
   "workshop.story.publishing.notice": "La història es publicarà automàticament una vegada que publiquis el primer capítol.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Søg på navn, f.eks. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Tema hurtig reference",
   "workshop.story.new": "Opret en ny historie",
+  "workshop.story.createPrivate": "Opret som privat",
+  "workshop.story.createPrivate.explain": "Som verificeret forfatter kan du også oprette denne historie som privat: den tæller som et udgivet værk i dit forfatter-CV uden at være synlig for offentligheden.",
   "workshop.story.publishing.notice": "Historien vil blive offentliggjort automatisk, når du udgiver det første kapitel.",
   "workshop.story.published.congratulations.title": "Tillykke med udgivelsen! Din historie er udgivet",
   "workshop.story.published.congratulations.heading": "Tillykke med det! Din historie er blevet udgivet",

@@ -66,6 +66,8 @@
   "workshop.thema.searchPlaceholder": "Search by name, e.g. \"Science fiction\"",
   "workshop.thema.quickRef": "📖 Thema Quick Reference",
   "workshop.story.new": "Opprett en ny historie",
+  "workshop.story.createPrivate": "Opprett som privat",
+  "workshop.story.createPrivate.explain": "Som verifisert forfatter kan du også opprette denne historien som privat: den teller som et publisert verk i forfatter-CV-en din uten å være synlig for offentligheten.",
   "workshop.story.publishing.notice": "Historien vil bli publisert automatisk når du publiserer det første kapittelet.",
   "workshop.story.published.congratulations.title": "Congratulations! Your story is published",
   "workshop.story.published.congratulations.heading": "Congratulations! Your story has been published",

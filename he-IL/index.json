@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "חיפוש לפי שם, לדוגמה \"מדע בדיוני\"",
   "workshop.thema.quickRef": "📖 התייחסות מהירה לנושא",
   "workshop.story.new": "צור סיפור חדש",
+  "workshop.story.createPrivate": "יצירה כסיפור פרטי",
+  "workshop.story.createPrivate.explain": "כמחבר מאומת באפשרותך גם ליצור סיפור זה כסיפור פרטי: הוא ייחשב כיצירה שפורסמה בקורות החיים של המחבר שלך מבלי להיות גלוי לציבור.",
   "workshop.story.publishing.notice": "הסיפור יפורסם אוטומטית ברגע שתפרסמו את הפרק הראשון.",
   "workshop.story.published.congratulations.title": "מזל טוב! הסיפור שלך פורסם",
   "workshop.story.published.congratulations.heading": "מזל טוב! הסיפור שלך פורסם",

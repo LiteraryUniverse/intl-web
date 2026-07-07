@@ -3875,6 +3875,8 @@
   "workshop.thema.searchPlaceholder": "Wyszukiwanie według nazwy, np. \"Science fiction\"",
   "workshop.thema.quickRef": "Skrócona informacja o temacie",
   "workshop.story.new": "Utwórz nową historię",
+  "workshop.story.createPrivate": "Utwórz jako prywatną",
+  "workshop.story.createPrivate.explain": "Jako zweryfikowany autor możesz również utworzyć tę historię jako prywatną: będzie liczyć się jako opublikowane dzieło w Twoim życiorysie autora, nie będąc widoczną publicznie.",
   "workshop.story.publishing.notice": "Opowiadanie zostanie opublikowane automatycznie po opublikowaniu pierwszego rozdziału.",
   "workshop.story.published.congratulations.title": "Gratulacje! Pana historia została opublikowana",
   "workshop.story.published.congratulations.heading": "Gratulacje! Państwa historia została opublikowana",
