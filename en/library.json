@@ -12,5 +12,7 @@
   "library.ownedStories": "Purchased stories",
   "library.ownedAudiobooks": "Audio books",
   "library.ownedAudiobooks.empty": "You haven't purchased any audio books yet.",
+  "library.ownedComics": "Comics",
+  "library.ownedComics.empty": "You haven't added any comics yet.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }
