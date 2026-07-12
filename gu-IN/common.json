@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "મફત",
   "common.manage": "મેનેજ કરો",
-  "common.unpublish": "અપ્રકાશિત કરો"
+  "common.unpublish": "અપ્રકાશિત કરો",
+  "common.moveUp": "ઉપર ખસેડો",
+  "common.moveDown": "નીચે ખસેડો"
 }

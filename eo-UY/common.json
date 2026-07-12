@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "Senpaga",
   "common.manage": "Administri",
-  "common.unpublish": "Malpublikigi"
+  "common.unpublish": "Malpublikigi",
+  "common.moveUp": "Movi supren",
+  "common.moveDown": "Movi malsupren"
 }

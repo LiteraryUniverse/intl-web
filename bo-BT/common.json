@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "རིན་མེད",
   "common.manage": "དོ་དམ",
-  "common.unpublish": "སྤེལ་བ་ཕྱིར་འཐེན"
+  "common.unpublish": "སྤེལ་བ་ཕྱིར་འཐེན",
+  "common.moveUp": "ཡར་སྤོ།",
+  "common.moveDown": "མར་སྤོ།"
 }

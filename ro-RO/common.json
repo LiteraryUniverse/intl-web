@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Gratuit",
   "common.manage": "Gestionează",
-  "common.unpublish": "Retrage publicarea"
+  "common.unpublish": "Retrage publicarea",
+  "common.moveUp": "Mutați în sus",
+  "common.moveDown": "Mutați în jos"
 }

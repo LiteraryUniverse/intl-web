@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "უფასო",
   "common.manage": "მართვა",
-  "common.unpublish": "გამოქვეყნების გაუქმება"
+  "common.unpublish": "გამოქვეყნების გაუქმება",
+  "common.moveUp": "აწევა",
+  "common.moveDown": "ჩამოწევა"
 }

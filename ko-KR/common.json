@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "무료",
   "common.manage": "관리",
-  "common.unpublish": "게시 취소"
+  "common.unpublish": "게시 취소",
+  "common.moveUp": "위로 이동",
+  "common.moveDown": "아래로 이동"
 }

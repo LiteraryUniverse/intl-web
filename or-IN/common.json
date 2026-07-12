@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "ମାଗଣା",
   "common.manage": "ପରିଚାଳନା କରନ୍ତୁ",
-  "common.unpublish": "ଅପ୍ରକାଶିତ କରନ୍ତୁ"
+  "common.unpublish": "ଅପ୍ରକାଶିତ କରନ୍ତୁ",
+  "common.moveUp": "ଉପରକୁ ଘୁଞ୍ଚାନ୍ତୁ",
+  "common.moveDown": "ତଳକୁ ଘୁଞ୍ଚାନ୍ତୁ"
 }

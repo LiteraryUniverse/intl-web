@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "nonseldi'a",
   "common.manage": "jitro",
-  "common.unpublish": "to'e gubgau"
+  "common.unpublish": "to'e gubgau",
+  "common.moveUp": "galmu'u",
+  "common.moveDown": "dizmu'u"
 }

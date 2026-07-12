@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Ingyenes",
   "common.manage": "Kezelés",
-  "common.unpublish": "Közzététel visszavonása"
+  "common.unpublish": "Közzététel visszavonása",
+  "common.moveUp": "Mozgatás felfelé",
+  "common.moveDown": "Mozgatás lefelé"
 }

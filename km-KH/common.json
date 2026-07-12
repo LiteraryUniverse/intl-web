@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "ឥតគិតថ្លៃ",
   "common.manage": "គ្រប់គ្រង",
-  "common.unpublish": "ដកការចេញផ្សាយ"
+  "common.unpublish": "ដកការចេញផ្សាយ",
+  "common.moveUp": "ផ្លាស់ទី​ឡើងលើ",
+  "common.moveDown": "ផ្លាស់ទី​ចុះក្រោម"
 }

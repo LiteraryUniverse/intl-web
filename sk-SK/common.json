@@ -411,5 +411,7 @@
   "common.clear": "Vymazať",
   "common.free": "Zadarmo",
   "common.manage": "Spravovať",
-  "common.unpublish": "Zrušiť publikovanie"
+  "common.unpublish": "Zrušiť publikovanie",
+  "common.moveUp": "Posunúť nahor",
+  "common.moveDown": "Posunúť nadol"
 }

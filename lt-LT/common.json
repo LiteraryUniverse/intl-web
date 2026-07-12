@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Nemokama",
   "common.manage": "Tvarkyti",
-  "common.unpublish": "Atšaukti publikavimą"
+  "common.unpublish": "Atšaukti publikavimą",
+  "common.moveUp": "Perkelti aukštyn",
+  "common.moveDown": "Perkelti žemyn"
 }

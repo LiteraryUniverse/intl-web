@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Saor in aisce",
   "common.manage": "Bainistigh",
-  "common.unpublish": "Dífhoilsigh"
+  "common.unpublish": "Dífhoilsigh",
+  "common.moveUp": "Bog suas",
+  "common.moveDown": "Bog síos"
 }

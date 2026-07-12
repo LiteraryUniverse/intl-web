@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "বিনামূল্যে",
   "common.manage": "পরিচালনা করুন",
-  "common.unpublish": "অপ্রকাশ করুন"
+  "common.unpublish": "অপ্রকাশ করুন",
+  "common.moveUp": "উপরে সরান",
+  "common.moveDown": "নিচে সরান"
 }

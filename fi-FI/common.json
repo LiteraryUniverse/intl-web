@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Ilmainen",
   "common.manage": "Hallinnoi",
-  "common.unpublish": "Peru julkaisu"
+  "common.unpublish": "Peru julkaisu",
+  "common.moveUp": "Siirrä ylös",
+  "common.moveDown": "Siirrä alas"
 }

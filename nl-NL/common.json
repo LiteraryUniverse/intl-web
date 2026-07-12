@@ -411,5 +411,7 @@
   "common.clear": "Wissen",
   "common.free": "Gratis",
   "common.manage": "Beheren",
-  "common.unpublish": "Depubliceren"
+  "common.unpublish": "Depubliceren",
+  "common.moveUp": "Omhoog",
+  "common.moveDown": "Omlaag"
 }

@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "निःशुल्क",
   "common.manage": "प्रबंधित करें",
-  "common.unpublish": "अप्रकाशित करें"
+  "common.unpublish": "अप्रकाशित करें",
+  "common.moveUp": "ऊपर ले जाएँ",
+  "common.moveDown": "नीचे ले जाएँ"
 }

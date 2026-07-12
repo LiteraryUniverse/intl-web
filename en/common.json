@@ -412,5 +412,7 @@
   "upload.files": "Uploaded Files",
   "upload.inProgress": "Upload in progress. Please wait...",
   "upload.maxSize": "Maximum file size: {size}",
-  "upload.success": "File uploaded successfully!"
+  "upload.success": "File uploaded successfully!",
+  "common.moveUp": "Move up",
+  "common.moveDown": "Move down"
 }

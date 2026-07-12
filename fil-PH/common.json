@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Libre",
   "common.manage": "Pamahalaan",
-  "common.unpublish": "Ialis sa paglathala"
+  "common.unpublish": "Ialis sa paglathala",
+  "common.moveUp": "Ilipat pataas",
+  "common.moveDown": "Ilipat pababa"
 }

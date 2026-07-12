@@ -411,5 +411,7 @@
   "common.clear": "Limpar",
   "common.free": "Grátis",
   "common.manage": "Gerenciar",
-  "common.unpublish": "Despublicar"
+  "common.unpublish": "Despublicar",
+  "common.moveUp": "Mover para cima",
+  "common.moveDown": "Mover para baixo"
 }
