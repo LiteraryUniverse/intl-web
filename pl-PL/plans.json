@@ -399,5 +399,6 @@
   "payment.history.author.empty": "Brak zakupów u autorów.",
   "stripeConnect.settings.goToStripeButton": "Przejdź do Stripe Connect",
   "payment.listMethods.cards": "Karty",
-  "plans.account.Adventurer": "Poszukiwacz przygód"
+  "plans.account.Adventurer": "Poszukiwacz przygód",
+  "plans.feature.customBlogCss": "Zaawansowany wygląd bloga (własny CSS)"
 }

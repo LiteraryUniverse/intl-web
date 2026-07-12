@@ -403,5 +403,6 @@
   "payment.history.author.empty": "No author purchases yet.",
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
-  "plans.account.Adventurer": "Adventurer"
+  "plans.account.Adventurer": "Adventurer",
+  "plans.feature.customBlogCss": "అధునాతన బ్లాగ్ డిజైన్ (కస్టమ్ CSS)"
 }

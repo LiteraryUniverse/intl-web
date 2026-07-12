@@ -399,5 +399,6 @@
   "payment.history.author.empty": "Nog geen auteursaankopen.",
   "stripeConnect.settings.goToStripeButton": "Ga naar Stripe Connect",
   "payment.listMethods.cards": "Kaarten",
-  "plans.account.Adventurer": "Avonturier"
+  "plans.account.Adventurer": "Avonturier",
+  "plans.feature.customBlogCss": "Geavanceerd blogontwerp (eigen CSS)"
 }

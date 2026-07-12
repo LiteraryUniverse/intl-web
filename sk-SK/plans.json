@@ -399,5 +399,6 @@
   "payment.history.author.empty": "Zatiaľ žiadne nákupy od autorov.",
   "stripeConnect.settings.goToStripeButton": "Prejsť na Stripe Connect",
   "payment.listMethods.cards": "Karty",
-  "plans.account.Adventurer": "Dobrodruh"
+  "plans.account.Adventurer": "Dobrodruh",
+  "plans.feature.customBlogCss": "Pokročilý vzhľad blogu (vlastné CSS)"
 }

@@ -399,5 +399,6 @@
   "payment.history.author.empty": "Покупок у авторов пока нет.",
   "stripeConnect.settings.goToStripeButton": "Перейти к Stripe Connect",
   "payment.listMethods.cards": "Карты",
-  "plans.account.Adventurer": "Искатель приключений"
+  "plans.account.Adventurer": "Искатель приключений",
+  "plans.feature.customBlogCss": "Расширенное оформление блога (свой CSS)"
 }

@@ -399,5 +399,6 @@
   "payment.history.author.empty": "Todavía no hay compras a autores.",
   "stripeConnect.settings.goToStripeButton": "Ir a Stripe Connect",
   "payment.listMethods.cards": "Tarjetas",
-  "plans.account.Adventurer": "Aventurero"
+  "plans.account.Adventurer": "Aventurero",
+  "plans.feature.customBlogCss": "Diseño avanzado del blog (CSS personalizado)"
 }
