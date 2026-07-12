@@ -46,6 +46,17 @@ Consume the 8 isolated namespaces through the centralized loaders in
 
 Everything else is served from the per-locale `index.json` bundle.
 
+## Validation
+
+`node scripts/validateLocale.mjs <locale>` (e.g. `ar-SA`) checks a locale
+against the English source: key parity (missing/obsolete), empty values,
+value types and top-level ICU placeholder parity. Run it before shipping a
+locale publicly; ICU *compilation* is covered by the apps' test suites.
+
+Arabic (`ar-SA`) is the first RTL locale and the canonical target for all
+`ar-*` browser tags. Keep it at full key parity — the main app maps every
+Arabic variant to this single translation set.
+
 ## Resources
 
 * [Message Syntax (FormatJS)](http://formatjs.io/guides/message-syntax/)

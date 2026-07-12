@@ -363,6 +363,7 @@
   "upload.error.inProgress": "Please wait for the current upload to finish before adding more files.",
   "upload.error.tooMany": "Maximum {maxFiles} files allowed",
   "upload.error.fileSize": "File size must be less than 10MB",
+  "upload.error.fileSizeMax": "يجب أن يكون حجم الملف أقل من {max}",
   "upload.error.metadata": "Error updating file metadata",
   "save": "Save",
   "common.type": "Type",

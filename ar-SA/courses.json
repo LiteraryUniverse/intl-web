@@ -211,6 +211,7 @@
   "courses.role.owner": "المالك",
   "courses.role.teacher": "مدرس",
   "courses.role.student": "طالب",
+  "course.lesson.meeting.disabled": "اجتماعات الفيديو غير متاحة لهذه المنظمة.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

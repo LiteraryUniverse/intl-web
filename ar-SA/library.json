@@ -10,5 +10,9 @@
   "library.search.noFilters": "الرجاء إدخال مصطلحات البحث أو تطبيق عوامل التصفية",
   "library.search": "ابحث في مكتبتك",
   "library.ownedStories": "القصص التي تم شراؤها",
+  "library.ownedAudiobooks": "الكتب الصوتية",
+  "library.ownedAudiobooks.empty": "لم تشترِ أي كتب صوتية بعد.",
+  "library.ownedComics": "القصص المصورة",
+  "library.ownedComics.empty": "لم تضف أي قصص مصورة بعد.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }
