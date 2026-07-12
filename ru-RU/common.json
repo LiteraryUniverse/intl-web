@@ -411,5 +411,7 @@
   "common.clear": "Очистить",
   "common.free": "Бесплатно",
   "common.manage": "Управление",
-  "common.unpublish": "Снять с публикации"
+  "common.unpublish": "Снять с публикации",
+  "common.moveUp": "Переместить вверх",
+  "common.moveDown": "Переместить вниз"
 }

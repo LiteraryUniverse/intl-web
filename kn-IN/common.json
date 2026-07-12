@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "ಉಚಿತ",
   "common.manage": "ನಿರ್ವಹಿಸಿ",
-  "common.unpublish": "ಪ್ರಕಟಣೆ ಹಿಂಪಡೆಯಿರಿ"
+  "common.unpublish": "ಪ್ರಕಟಣೆ ಹಿಂಪಡೆಯಿರಿ",
+  "common.moveUp": "ಮೇಲಕ್ಕೆ ಸರಿಸಿ",
+  "common.moveDown": "ಕೆಳಕ್ಕೆ ಸರಿಸಿ"
 }

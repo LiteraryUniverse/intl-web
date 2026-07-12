@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "免費",
   "common.manage": "管理",
-  "common.unpublish": "取消發佈"
+  "common.unpublish": "取消發佈",
+  "common.moveUp": "上移",
+  "common.moveDown": "下移"
 }

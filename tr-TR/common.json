@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Ücretsiz",
   "common.manage": "Yönet",
-  "common.unpublish": "Yayından kaldır"
+  "common.unpublish": "Yayından kaldır",
+  "common.moveUp": "Yukarı taşı",
+  "common.moveDown": "Aşağı taşı"
 }

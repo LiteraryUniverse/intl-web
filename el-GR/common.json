@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Δωρεάν",
   "common.manage": "Διαχείριση",
-  "common.unpublish": "Κατάργηση δημοσίευσης"
+  "common.unpublish": "Κατάργηση δημοσίευσης",
+  "common.moveUp": "Μετακίνηση επάνω",
+  "common.moveDown": "Μετακίνηση κάτω"
 }

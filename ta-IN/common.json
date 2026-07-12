@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "இலவசம்",
   "common.manage": "நிர்வகி",
-  "common.unpublish": "வெளியீட்டை நீக்கு"
+  "common.unpublish": "வெளியீட்டை நீக்கு",
+  "common.moveUp": "மேலே நகர்த்து",
+  "common.moveDown": "கீழே நகர்த்து"
 }

@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "無料",
   "common.manage": "管理",
-  "common.unpublish": "公開を取り消す"
+  "common.unpublish": "公開を取り消す",
+  "common.moveUp": "上へ移動",
+  "common.moveDown": "下へ移動"
 }

@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Percuma",
   "common.manage": "Urus",
-  "common.unpublish": "Nyahterbit"
+  "common.unpublish": "Nyahterbit",
+  "common.moveUp": "Alih ke atas",
+  "common.moveDown": "Alih ke bawah"
 }

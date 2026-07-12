@@ -411,5 +411,7 @@
   "common.clear": "Löschen",
   "common.free": "Kostenlos",
   "common.manage": "Verwalten",
-  "common.unpublish": "Veröffentlichung zurückziehen"
+  "common.unpublish": "Veröffentlichung zurückziehen",
+  "common.moveUp": "Nach oben",
+  "common.moveDown": "Nach unten"
 }

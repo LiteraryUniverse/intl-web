@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Gratis",
   "common.manage": "Ngatur",
-  "common.unpublish": "Batalang wedar"
+  "common.unpublish": "Batalang wedar",
+  "common.moveUp": "Pindahang menek",
+  "common.moveDown": "Pindahang tuun"
 }

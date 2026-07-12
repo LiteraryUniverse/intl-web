@@ -412,5 +412,7 @@
   "common.clear": "Clear",
   "common.free": "مجاني",
   "common.manage": "إدارة",
-  "common.unpublish": "إلغاء النشر"
+  "common.unpublish": "إلغاء النشر",
+  "common.moveUp": "نقل لأعلى",
+  "common.moveDown": "نقل لأسفل"
 }

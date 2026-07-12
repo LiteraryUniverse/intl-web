@@ -411,5 +411,7 @@
   "common.clear": "Cancella",
   "common.free": "Gratuito",
   "common.manage": "Gestisci",
-  "common.unpublish": "Annulla pubblicazione"
+  "common.unpublish": "Annulla pubblicazione",
+  "common.moveUp": "Sposta su",
+  "common.moveDown": "Sposta giù"
 }

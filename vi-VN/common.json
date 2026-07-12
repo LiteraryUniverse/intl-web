@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Miễn phí",
   "common.manage": "Quản lý",
-  "common.unpublish": "Hủy xuất bản"
+  "common.unpublish": "Hủy xuất bản",
+  "common.moveUp": "Chuyển lên",
+  "common.moveDown": "Chuyển xuống"
 }

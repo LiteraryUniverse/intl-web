@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "ฟรี",
   "common.manage": "จัดการ",
-  "common.unpublish": "ยกเลิกการเผยแพร่"
+  "common.unpublish": "ยกเลิกการเผยแพร่",
+  "common.moveUp": "ย้ายขึ้น",
+  "common.moveDown": "ย้ายลง"
 }

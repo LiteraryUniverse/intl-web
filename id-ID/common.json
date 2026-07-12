@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Gratis",
   "common.manage": "Kelola",
-  "common.unpublish": "Batalkan penerbitan"
+  "common.unpublish": "Batalkan penerbitan",
+  "common.moveUp": "Pindah ke atas",
+  "common.moveDown": "Pindah ke bawah"
 }

@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "חינם",
   "common.manage": "ניהול",
-  "common.unpublish": "ביטול פרסום"
+  "common.unpublish": "ביטול פרסום",
+  "common.moveUp": "העברה למעלה",
+  "common.moveDown": "העברה למטה"
 }

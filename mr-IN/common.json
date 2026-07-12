@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "मोफत",
   "common.manage": "व्यवस्थापित करा",
-  "common.unpublish": "अप्रकाशित करा"
+  "common.unpublish": "अप्रकाशित करा",
+  "common.moveUp": "वर हलवा",
+  "common.moveDown": "खाली हलवा"
 }

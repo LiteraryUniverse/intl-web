@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "Tasuta",
   "common.manage": "Halda",
-  "common.unpublish": "Tühista avaldamine"
+  "common.unpublish": "Tühista avaldamine",
+  "common.moveUp": "Liiguta üles",
+  "common.moveDown": "Liiguta alla"
 }

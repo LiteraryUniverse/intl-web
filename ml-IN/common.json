@@ -415,5 +415,7 @@
   "common.clear": "Clear",
   "common.free": "സൗജന്യം",
   "common.manage": "കൈകാര്യം ചെയ്യുക",
-  "common.unpublish": "പ്രസിദ്ധീകരണം പിൻവലിക്കുക"
+  "common.unpublish": "പ്രസിദ്ധീകരണം പിൻവലിക്കുക",
+  "common.moveUp": "മുകളിലേക്ക് നീക്കുക",
+  "common.moveDown": "താഴേക്ക് നീക്കുക"
 }

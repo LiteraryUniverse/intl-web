@@ -411,5 +411,7 @@
   "common.clear": "Clear",
   "common.free": "ਮੁਫ਼ਤ",
   "common.manage": "ਪ੍ਰਬੰਧ ਕਰੋ",
-  "common.unpublish": "ਅਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ"
+  "common.unpublish": "ਅਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ",
+  "common.moveUp": "ਉੱਪਰ ਲਿਜਾਓ",
+  "common.moveDown": "ਹੇਠਾਂ ਲਿਜਾਓ"
 }
