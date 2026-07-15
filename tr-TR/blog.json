@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Sayfa",
   "blog.menus.kind.external": "Harici bağlantı",
   "blog.menus.pickPage": "Bir sayfa seçin…",
-  "blog.menus.addItem": "Menü öğesi ekle"
+  "blog.menus.addItem": "Menü öğesi ekle",
+  "blog.domains": "Alan adı",
+  "blog.domains.info": "Bu blogu kendi adresinden yayınlayın. Okuyucular temiz bir bağlantı alır; yazma ve yönetim burada kalır.",
+  "blog.domains.status.active": "Etkin",
+  "blog.domains.status.pending": "Beklemede",
+  "blog.domains.status.verified": "Doğrulandı",
+  "blog.domains.status.suspended": "Askıya alındı",
+  "blog.domains.status.error": "Hata",
+  "blog.domains.subdomainLabel": "Alt alan adı",
+  "blog.domains.subdomainPlaceholder": "adiniz",
+  "blog.domains.claim": "Al",
+  "blog.domains.unavailable": "Bu alt alan adı kullanılamıyor.",
+  "blog.domains.available": "Kullanılabilir!",
+  "blog.domains.customComing": "Kendi alan adınızı bağlama (blog.adiniz.com gibi) yakında geliyor."
 }

@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Σελίδα",
   "blog.menus.kind.external": "Εξωτερικός σύνδεσμος",
   "blog.menus.pickPage": "Επιλέξτε σελίδα…",
-  "blog.menus.addItem": "Προσθήκη στοιχείου μενού"
+  "blog.menus.addItem": "Προσθήκη στοιχείου μενού",
+  "blog.domains": "Τομέας",
+  "blog.domains.info": "Σερβίρετε αυτό το ιστολόγιο από τη δική του διεύθυνση. Οι αναγνώστες παίρνουν καθαρό σύνδεσμο· η συγγραφή και η διαχείριση μένουν εδώ.",
+  "blog.domains.status.active": "Ενεργός",
+  "blog.domains.status.pending": "Σε εκκρεμότητα",
+  "blog.domains.status.verified": "Επαληθευμένος",
+  "blog.domains.status.suspended": "Σε αναστολή",
+  "blog.domains.status.error": "Σφάλμα",
+  "blog.domains.subdomainLabel": "Υποτομέας",
+  "blog.domains.subdomainPlaceholder": "toonomasas",
+  "blog.domains.claim": "Δέσμευση",
+  "blog.domains.unavailable": "Αυτός ο υποτομέας δεν είναι διαθέσιμος.",
+  "blog.domains.available": "Διαθέσιμος!",
+  "blog.domains.customComing": "Η σύνδεση δικού σας τομέα (όπως blog.toonomasas.gr) έρχεται σύντομα."
 }

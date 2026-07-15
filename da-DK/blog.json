@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Side",
   "blog.menus.kind.external": "Eksternt link",
   "blog.menus.pickPage": "Vælg en side…",
-  "blog.menus.addItem": "Tilføj menupunkt"
+  "blog.menus.addItem": "Tilføj menupunkt",
+  "blog.domains": "Domæne",
+  "blog.domains.info": "Servér denne blog fra sin egen adresse. Læserne får et rent link; skrivning og administration bliver her.",
+  "blog.domains.status.active": "Aktiv",
+  "blog.domains.status.pending": "Afventer",
+  "blog.domains.status.verified": "Bekræftet",
+  "blog.domains.status.suspended": "Suspenderet",
+  "blog.domains.status.error": "Fejl",
+  "blog.domains.subdomainLabel": "Subdomæne",
+  "blog.domains.subdomainPlaceholder": "ditnavn",
+  "blog.domains.claim": "Gør krav",
+  "blog.domains.unavailable": "Dette subdomæne er ikke tilgængeligt.",
+  "blog.domains.available": "Tilgængeligt!",
+  "blog.domains.customComing": "Tilslutning af eget domæne (som blog.ditnavn.dk) kommer snart."
 }

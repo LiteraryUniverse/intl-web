@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "Paĝo",
   "blog.menus.kind.external": "Ekstera ligilo",
   "blog.menus.pickPage": "Elektu paĝon…",
-  "blog.menus.addItem": "Aldoni menueron"
+  "blog.menus.addItem": "Aldoni menueron",
+  "blog.domains": "Domajno",
+  "blog.domains.info": "Servu ĉi tiun blogon el ĝia propra adreso. Legantoj ricevas puran ligilon; skribado kaj administrado restas ĉi tie.",
+  "blog.domains.status.active": "Aktiva",
+  "blog.domains.status.pending": "Atendanta",
+  "blog.domains.status.verified": "Kontrolita",
+  "blog.domains.status.suspended": "Paŭzigita",
+  "blog.domains.status.error": "Eraro",
+  "blog.domains.subdomainLabel": "Subdomajno",
+  "blog.domains.subdomainPlaceholder": "vianomo",
+  "blog.domains.claim": "Preni",
+  "blog.domains.unavailable": "Ĉi tiu subdomajno ne haveblas.",
+  "blog.domains.available": "Havebla!",
+  "blog.domains.customComing": "Konekto de propra domajno (kiel blog.vianomo.com) baldaŭ venos."
 }

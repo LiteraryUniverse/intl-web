@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Pagină",
   "blog.menus.kind.external": "Link extern",
   "blog.menus.pickPage": "Alegeți o pagină…",
-  "blog.menus.addItem": "Adăugați element de meniu"
+  "blog.menus.addItem": "Adăugați element de meniu",
+  "blog.domains": "Domeniu",
+  "blog.domains.info": "Serviți acest blog de la propria adresă. Cititorii primesc un link curat; scrisul și administrarea rămân aici.",
+  "blog.domains.status.active": "Activ",
+  "blog.domains.status.pending": "În așteptare",
+  "blog.domains.status.verified": "Verificat",
+  "blog.domains.status.suspended": "Suspendat",
+  "blog.domains.status.error": "Eroare",
+  "blog.domains.subdomainLabel": "Subdomeniu",
+  "blog.domains.subdomainPlaceholder": "numeledvs",
+  "blog.domains.claim": "Revendicați",
+  "blog.domains.unavailable": "Acest subdomeniu nu este disponibil.",
+  "blog.domains.available": "Disponibil!",
+  "blog.domains.customComing": "Conectarea propriului domeniu (precum blog.numeledvs.ro) vine în curând."
 }

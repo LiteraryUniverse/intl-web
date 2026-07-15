@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Seite",
   "blog.menus.kind.external": "Externer Link",
   "blog.menus.pickPage": "Seite auswählen…",
-  "blog.menus.addItem": "Menüeintrag hinzufügen"
+  "blog.menus.addItem": "Menüeintrag hinzufügen",
+  "blog.domains": "Domain",
+  "blog.domains.info": "Betreibe diesen Blog unter eigener Adresse. Leser bekommen einen sauberen Link; Schreiben und Verwaltung bleiben hier.",
+  "blog.domains.status.active": "Aktiv",
+  "blog.domains.status.pending": "Ausstehend",
+  "blog.domains.status.verified": "Verifiziert",
+  "blog.domains.status.suspended": "Ausgesetzt",
+  "blog.domains.status.error": "Fehler",
+  "blog.domains.subdomainLabel": "Subdomain",
+  "blog.domains.subdomainPlaceholder": "deinname",
+  "blog.domains.claim": "Sichern",
+  "blog.domains.unavailable": "Diese Subdomain ist nicht verfügbar.",
+  "blog.domains.available": "Verfügbar!",
+  "blog.domains.customComing": "Die Anbindung einer eigenen Domain (z. B. blog.deinname.de) kommt bald."
 }

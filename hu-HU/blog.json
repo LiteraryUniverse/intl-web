@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Oldal",
   "blog.menus.kind.external": "Külső hivatkozás",
   "blog.menus.pickPage": "Válasszon oldalt…",
-  "blog.menus.addItem": "Menüpont hozzáadása"
+  "blog.menus.addItem": "Menüpont hozzáadása",
+  "blog.domains": "Domain",
+  "blog.domains.info": "Szolgáld ki ezt a blogot saját címéről. Az olvasók tiszta linket kapnak; az írás és a kezelés itt marad.",
+  "blog.domains.status.active": "Aktív",
+  "blog.domains.status.pending": "Függőben",
+  "blog.domains.status.verified": "Ellenőrzött",
+  "blog.domains.status.suspended": "Felfüggesztve",
+  "blog.domains.status.error": "Hiba",
+  "blog.domains.subdomainLabel": "Aldomain",
+  "blog.domains.subdomainPlaceholder": "neved",
+  "blog.domains.claim": "Lefoglal",
+  "blog.domains.unavailable": "Ez az aldomain nem érhető el.",
+  "blog.domains.available": "Elérhető!",
+  "blog.domains.customComing": "Saját domain csatlakoztatása (pl. blog.neved.hu) hamarosan."
 }

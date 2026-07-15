@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "Gelişmiş blog tasarımı (özel CSS)"
+  "plans.feature.customBlogCss": "Gelişmiş blog tasarımı (özel CSS)",
+  "plans.feature.luSubdomain": "Kendi Literary Universe alt alan adınızda blog",
+  "plans.feature.customDomain": "Kendi alan adınızda blog"
 }

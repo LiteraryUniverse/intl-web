@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "გვერდი",
   "blog.menus.kind.external": "გარე ბმული",
   "blog.menus.pickPage": "აირჩიეთ გვერდი…",
-  "blog.menus.addItem": "მენიუს ელემენტის დამატება"
+  "blog.menus.addItem": "მენიუს ელემენტის დამატება",
+  "blog.domains": "დომენი",
+  "blog.domains.info": "მიაწოდეთ ეს ბლოგი საკუთარი მისამართიდან. მკითხველები იღებენ სუფთა ბმულს; წერა და მართვა აქ რჩება.",
+  "blog.domains.status.active": "აქტიური",
+  "blog.domains.status.pending": "მოლოდინში",
+  "blog.domains.status.verified": "დადასტურებული",
+  "blog.domains.status.suspended": "შეჩერებული",
+  "blog.domains.status.error": "შეცდომა",
+  "blog.domains.subdomainLabel": "ქვედომენი",
+  "blog.domains.subdomainPlaceholder": "tqvenisaxeli",
+  "blog.domains.claim": "დაკავება",
+  "blog.domains.unavailable": "ეს ქვედომენი მიუწვდომელია.",
+  "blog.domains.available": "ხელმისაწვდომია!",
+  "blog.domains.customComing": "საკუთარი დომენის დაკავშირება (მაგ. blog.tqvenisaxeli.ge) მალე იქნება."
 }

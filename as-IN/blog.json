@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "পৃষ্ঠা",
   "blog.menus.kind.external": "বাহ্যিক সংযোগ",
   "blog.menus.pickPage": "এটা পৃষ্ঠা বাছনি কৰক…",
-  "blog.menus.addItem": "মেনুৰ বস্তু যোগ কৰক"
+  "blog.menus.addItem": "মেনুৰ বস্তু যোগ কৰক",
+  "blog.domains": "ডমেইন",
+  "blog.domains.info": "এই ব্লগটো ইয়াৰ নিজা ঠিকনাৰ পৰা পৰিবেশন কৰক। পঢ়ুৱৈয়ে পৰিষ্কাৰ লিংক পায়; লিখা আৰু পৰিচালনা ইয়াতে থাকে।",
+  "blog.domains.status.active": "সক্ৰিয়",
+  "blog.domains.status.pending": "অপেক্ষাৰত",
+  "blog.domains.status.verified": "সত্যাপিত",
+  "blog.domains.status.suspended": "স্থগিত",
+  "blog.domains.status.error": "ত্ৰুটি",
+  "blog.domains.subdomainLabel": "ছাবডমেইন",
+  "blog.domains.subdomainPlaceholder": "aponarnam",
+  "blog.domains.claim": "লওক",
+  "blog.domains.unavailable": "এই ছাবডমেইনটো উপলব্ধ নহয়।",
+  "blog.domains.available": "উপলব্ধ!",
+  "blog.domains.customComing": "নিজৰ ডমেইন সংযোগ (যেনে blog.aponarnam.com) সোনকালে আহিব।"
 }

@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Сторінка",
   "blog.menus.kind.external": "Зовнішнє посилання",
   "blog.menus.pickPage": "Виберіть сторінку…",
-  "blog.menus.addItem": "Додати пункт меню"
+  "blog.menus.addItem": "Додати пункт меню",
+  "blog.domains": "Домен",
+  "blog.domains.info": "Розміщуйте цей блог за власною адресою. Читачі отримають чисте посилання; написання й керування залишаються тут.",
+  "blog.domains.status.active": "Активний",
+  "blog.domains.status.pending": "Очікує",
+  "blog.domains.status.verified": "Перевірений",
+  "blog.domains.status.suspended": "Призупинений",
+  "blog.domains.status.error": "Помилка",
+  "blog.domains.subdomainLabel": "Піддомен",
+  "blog.domains.subdomainPlaceholder": "vashe-imya",
+  "blog.domains.claim": "Зайняти",
+  "blog.domains.unavailable": "Цей піддомен недоступний.",
+  "blog.domains.available": "Доступний!",
+  "blog.domains.customComing": "Підключення власного домену (наприклад, blog.vashe-imya.ua) незабаром."
 }

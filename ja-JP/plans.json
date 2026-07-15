@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "高度なブログデザイン（カスタムCSS）"
+  "plans.feature.customBlogCss": "高度なブログデザイン（カスタムCSS）",
+  "plans.feature.luSubdomain": "Literary Universe のサブドメインでブログを公開",
+  "plans.feature.customDomain": "独自ドメインでブログを公開"
 }

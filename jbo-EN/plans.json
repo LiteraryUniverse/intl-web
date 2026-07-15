@@ -404,5 +404,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "clani blogu tarmi (steci CSS)"
+  "plans.feature.customBlogCss": "clani blogu tarmi (steci CSS)",
+  "plans.feature.luSubdomain": "blogu fi lo do Literary Universe klesi samjudri",
+  "plans.feature.customDomain": "blogu fi lo do samjudri"
 }

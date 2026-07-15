@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Leht",
   "blog.menus.kind.external": "Väline link",
   "blog.menus.pickPage": "Vali leht…",
-  "blog.menus.addItem": "Lisa menüükirje"
+  "blog.menus.addItem": "Lisa menüükirje",
+  "blog.domains": "Domeen",
+  "blog.domains.info": "Serveeri seda blogi tema oma aadressilt. Lugejad saavad puhta lingi; kirjutamine ja haldus jäävad siia.",
+  "blog.domains.status.active": "Aktiivne",
+  "blog.domains.status.pending": "Ootel",
+  "blog.domains.status.verified": "Kinnitatud",
+  "blog.domains.status.suspended": "Peatatud",
+  "blog.domains.status.error": "Viga",
+  "blog.domains.subdomainLabel": "Alamdomeen",
+  "blog.domains.subdomainPlaceholder": "sinunimi",
+  "blog.domains.claim": "Võta",
+  "blog.domains.unavailable": "See alamdomeen pole saadaval.",
+  "blog.domains.available": "Saadaval!",
+  "blog.domains.customComing": "Oma domeeni ühendamine (nt blog.sinunimi.ee) tuleb peagi."
 }

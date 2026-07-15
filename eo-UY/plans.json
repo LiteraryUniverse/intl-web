@@ -404,5 +404,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "Altnivela bloga fasono (propra CSS)"
+  "plans.feature.customBlogCss": "Altnivela bloga fasono (propra CSS)",
+  "plans.feature.luSubdomain": "Blogo en via propra subdomajno de Literary Universe",
+  "plans.feature.customDomain": "Blogo en via propra domajno"
 }

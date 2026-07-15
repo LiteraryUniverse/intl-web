@@ -404,5 +404,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "ཟིན་བྲིས་བཟོ་བཀོད་མཐོ་རིམ། (རང་མོས་ CSS)"
+  "plans.feature.customBlogCss": "ཟིན་བྲིས་བཟོ་བཀོད་མཐོ་རིམ། (རང་མོས་ CSS)",
+  "plans.feature.luSubdomain": "རང་གི་ Literary Universe དྲ་གནས་ཡན་ལག་ཏུ་ཟིན་བྲིས།",
+  "plans.feature.customDomain": "རང་གི་དྲ་གནས་སུ་ཟིན་བྲིས།"
 }

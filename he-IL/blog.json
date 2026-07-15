@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "עמוד",
   "blog.menus.kind.external": "קישור חיצוני",
   "blog.menus.pickPage": "בחרו עמוד…",
-  "blog.menus.addItem": "הוספת פריט תפריט"
+  "blog.menus.addItem": "הוספת פריט תפריט",
+  "blog.domains": "דומיין",
+  "blog.domains.info": "הגישו את הבלוג מכתובת משלו. הקוראים מקבלים קישור נקי; הכתיבה והניהול נשארים כאן.",
+  "blog.domains.status.active": "פעיל",
+  "blog.domains.status.pending": "ממתין",
+  "blog.domains.status.verified": "מאומת",
+  "blog.domains.status.suspended": "מושהה",
+  "blog.domains.status.error": "שגיאה",
+  "blog.domains.subdomainLabel": "תת-דומיין",
+  "blog.domains.subdomainPlaceholder": "yourname",
+  "blog.domains.claim": "תפיסה",
+  "blog.domains.unavailable": "תת-דומיין זה אינו זמין.",
+  "blog.domains.available": "זמין!",
+  "blog.domains.customComing": "חיבור דומיין משלכם (כמו blog.yourname.com) יגיע בקרוב."
 }

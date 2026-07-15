@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Pahina",
   "blog.menus.kind.external": "Panlabas na link",
   "blog.menus.pickPage": "Pumili ng pahina…",
-  "blog.menus.addItem": "Magdagdag ng menu item"
+  "blog.menus.addItem": "Magdagdag ng menu item",
+  "blog.domains": "Domain",
+  "blog.domains.info": "Ihain ang blog na ito mula sa sarili nitong address. Nakakakuha ang mga mambabasa ng malinis na link; ang pagsusulat at pamamahala ay nananatili rito.",
+  "blog.domains.status.active": "Aktibo",
+  "blog.domains.status.pending": "Nakabinbin",
+  "blog.domains.status.verified": "Na-verify",
+  "blog.domains.status.suspended": "Nakasuspinde",
+  "blog.domains.status.error": "Error",
+  "blog.domains.subdomainLabel": "Subdomain",
+  "blog.domains.subdomainPlaceholder": "iyongpangalan",
+  "blog.domains.claim": "I-claim",
+  "blog.domains.unavailable": "Hindi available ang subdomain na ito.",
+  "blog.domains.available": "Available!",
+  "blog.domains.customComing": "Malapit nang dumating ang pagkonekta ng sarili mong domain (tulad ng blog.iyongpangalan.com)."
 }

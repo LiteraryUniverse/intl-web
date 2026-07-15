@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "Bladsy",
   "blog.menus.kind.external": "Eksterne skakel",
   "blog.menus.pickPage": "Kies 'n bladsy…",
-  "blog.menus.addItem": "Voeg kieslysitem by"
+  "blog.menus.addItem": "Voeg kieslysitem by",
+  "blog.domains": "Domein",
+  "blog.domains.info": "Bedien hierdie blog vanaf sy eie adres. Lesers kry 'n skoon skakel; skryf en bestuur bly hier.",
+  "blog.domains.status.active": "Aktief",
+  "blog.domains.status.pending": "Hangende",
+  "blog.domains.status.verified": "Geverifieer",
+  "blog.domains.status.suspended": "Opgeskort",
+  "blog.domains.status.error": "Fout",
+  "blog.domains.subdomainLabel": "Subdomein",
+  "blog.domains.subdomainPlaceholder": "jounaam",
+  "blog.domains.claim": "Eis",
+  "blog.domains.unavailable": "Hierdie subdomein is nie beskikbaar nie.",
+  "blog.domains.available": "Beskikbaar!",
+  "blog.domains.customComing": "Die koppeling van jou eie domein (soos blog.jounaam.co.za) kom binnekort."
 }

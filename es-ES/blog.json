@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Página",
   "blog.menus.kind.external": "Enlace externo",
   "blog.menus.pickPage": "Elige una página…",
-  "blog.menus.addItem": "Añadir elemento de menú"
+  "blog.menus.addItem": "Añadir elemento de menú",
+  "blog.domains": "Dominio",
+  "blog.domains.info": "Sirve este blog desde su propia dirección. Los lectores obtienen un enlace limpio; la escritura y la gestión se quedan aquí.",
+  "blog.domains.status.active": "Activo",
+  "blog.domains.status.pending": "Pendiente",
+  "blog.domains.status.verified": "Verificado",
+  "blog.domains.status.suspended": "Suspendido",
+  "blog.domains.status.error": "Error",
+  "blog.domains.subdomainLabel": "Subdominio",
+  "blog.domains.subdomainPlaceholder": "tunombre",
+  "blog.domains.claim": "Reclamar",
+  "blog.domains.unavailable": "Este subdominio no está disponible.",
+  "blog.domains.available": "¡Disponible!",
+  "blog.domains.customComing": "La conexión de tu propio dominio (como blog.tunombre.com) llegará pronto."
 }

@@ -401,5 +401,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "تصميم متقدم للمدونة (CSS مخصص)"
+  "plans.feature.customBlogCss": "تصميم متقدم للمدونة (CSS مخصص)",
+  "plans.feature.luSubdomain": "مدونة على نطاق فرعي خاص بك في Literary Universe",
+  "plans.feature.customDomain": "مدونة على نطاقك الخاص"
 }

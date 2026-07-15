@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Stránka",
   "blog.menus.kind.external": "Externý odkaz",
   "blog.menus.pickPage": "Vyberte stránku…",
-  "blog.menus.addItem": "Pridať položku ponuky"
+  "blog.menus.addItem": "Pridať položku ponuky",
+  "blog.domains": "Doména",
+  "blog.domains.info": "Prevádzkujte tento blog na vlastnej adrese. Čitatelia dostanú pekný odkaz; písanie a správa zostávajú tu.",
+  "blog.domains.status.active": "Aktívna",
+  "blog.domains.status.pending": "Čaká",
+  "blog.domains.status.verified": "Overená",
+  "blog.domains.status.suspended": "Pozastavená",
+  "blog.domains.status.error": "Chyba",
+  "blog.domains.subdomainLabel": "Subdoména",
+  "blog.domains.subdomainPlaceholder": "vasemeno",
+  "blog.domains.claim": "Zabrať",
+  "blog.domains.unavailable": "Táto subdoména nie je dostupná.",
+  "blog.domains.available": "Dostupná!",
+  "blog.domains.customComing": "Pripojenie vlastnej domény (napr. blog.vasemeno.sk) už čoskoro."
 }

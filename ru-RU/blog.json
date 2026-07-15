@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Страница",
   "blog.menus.kind.external": "Внешняя ссылка",
   "blog.menus.pickPage": "Выберите страницу…",
-  "blog.menus.addItem": "Добавить пункт меню"
+  "blog.menus.addItem": "Добавить пункт меню",
+  "blog.domains": "Домен",
+  "blog.domains.info": "Разместите этот блог на собственном адресе. Читатели получат чистую ссылку; написание и управление остаются здесь.",
+  "blog.domains.status.active": "Активен",
+  "blog.domains.status.pending": "Ожидает",
+  "blog.domains.status.verified": "Проверен",
+  "blog.domains.status.suspended": "Приостановлен",
+  "blog.domains.status.error": "Ошибка",
+  "blog.domains.subdomainLabel": "Поддомен",
+  "blog.domains.subdomainPlaceholder": "vashe-imya",
+  "blog.domains.claim": "Занять",
+  "blog.domains.unavailable": "Этот поддомен недоступен.",
+  "blog.domains.available": "Доступен!",
+  "blog.domains.customComing": "Подключение собственного домена (например, blog.vashe-imya.ru) скоро появится."
 }

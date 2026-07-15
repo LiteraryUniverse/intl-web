@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Pagina",
   "blog.menus.kind.external": "Externe link",
   "blog.menus.pickPage": "Kies een pagina…",
-  "blog.menus.addItem": "Menu-item toevoegen"
+  "blog.menus.addItem": "Menu-item toevoegen",
+  "blog.domains": "Domein",
+  "blog.domains.info": "Serveer deze blog vanaf een eigen adres. Lezers krijgen een schone link; schrijven en beheer blijven hier.",
+  "blog.domains.status.active": "Actief",
+  "blog.domains.status.pending": "In afwachting",
+  "blog.domains.status.verified": "Geverifieerd",
+  "blog.domains.status.suspended": "Opgeschort",
+  "blog.domains.status.error": "Fout",
+  "blog.domains.subdomainLabel": "Subdomein",
+  "blog.domains.subdomainPlaceholder": "jouwnaam",
+  "blog.domains.claim": "Claimen",
+  "blog.domains.unavailable": "Dit subdomein is niet beschikbaar.",
+  "blog.domains.available": "Beschikbaar!",
+  "blog.domains.customComing": "Het koppelen van je eigen domein (zoals blog.jouwnaam.nl) komt binnenkort."
 }

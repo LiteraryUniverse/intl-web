@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Sida",
   "blog.menus.kind.external": "Extern länk",
   "blog.menus.pickPage": "Välj en sida…",
-  "blog.menus.addItem": "Lägg till menyalternativ"
+  "blog.menus.addItem": "Lägg till menyalternativ",
+  "blog.domains": "Domän",
+  "blog.domains.info": "Servera den här bloggen från sin egen adress. Läsarna får en ren länk; skrivande och hantering stannar här.",
+  "blog.domains.status.active": "Aktiv",
+  "blog.domains.status.pending": "Väntar",
+  "blog.domains.status.verified": "Verifierad",
+  "blog.domains.status.suspended": "Pausad",
+  "blog.domains.status.error": "Fel",
+  "blog.domains.subdomainLabel": "Subdomän",
+  "blog.domains.subdomainPlaceholder": "dittnamn",
+  "blog.domains.claim": "Ta",
+  "blog.domains.unavailable": "Den här subdomänen är inte tillgänglig.",
+  "blog.domains.available": "Tillgänglig!",
+  "blog.domains.customComing": "Anslutning av egen domän (som blog.dittnamn.se) kommer snart."
 }

@@ -404,5 +404,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "വിപുലമായ ബ്ലോഗ് ഡിസൈൻ (കസ്റ്റം CSS)"
+  "plans.feature.customBlogCss": "വിപുലമായ ബ്ലോഗ് ഡിസൈൻ (കസ്റ്റം CSS)",
+  "plans.feature.luSubdomain": "നിങ്ങളുടെ സ്വന്തം Literary Universe സബ്ഡൊമെയ്നിൽ ബ്ലോഗ്",
+  "plans.feature.customDomain": "നിങ്ങളുടെ സ്വന്തം ഡൊമെയ്നിൽ ബ്ലോഗ്"
 }

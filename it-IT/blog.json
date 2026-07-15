@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Pagina",
   "blog.menus.kind.external": "Link esterno",
   "blog.menus.pickPage": "Scegli una pagina…",
-  "blog.menus.addItem": "Aggiungi voce di menu"
+  "blog.menus.addItem": "Aggiungi voce di menu",
+  "blog.domains": "Dominio",
+  "blog.domains.info": "Servi questo blog dal suo indirizzo. I lettori ottengono un link pulito; scrittura e gestione restano qui.",
+  "blog.domains.status.active": "Attivo",
+  "blog.domains.status.pending": "In attesa",
+  "blog.domains.status.verified": "Verificato",
+  "blog.domains.status.suspended": "Sospeso",
+  "blog.domains.status.error": "Errore",
+  "blog.domains.subdomainLabel": "Sottodominio",
+  "blog.domains.subdomainPlaceholder": "tuonome",
+  "blog.domains.claim": "Rivendica",
+  "blog.domains.unavailable": "Questo sottodominio non è disponibile.",
+  "blog.domains.available": "Disponibile!",
+  "blog.domains.customComing": "Il collegamento di un dominio proprio (come blog.tuonome.it) arriverà presto."
 }

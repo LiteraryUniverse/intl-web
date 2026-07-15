@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "Haladó blogdizájn (egyéni CSS)"
+  "plans.feature.customBlogCss": "Haladó blogdizájn (egyéni CSS)",
+  "plans.feature.luSubdomain": "Blog a saját Literary Universe aldomaineden",
+  "plans.feature.customDomain": "Blog a saját domaineden"
 }

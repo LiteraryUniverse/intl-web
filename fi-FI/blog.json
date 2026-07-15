@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Sivu",
   "blog.menus.kind.external": "Ulkoinen linkki",
   "blog.menus.pickPage": "Valitse sivu…",
-  "blog.menus.addItem": "Lisää valikon kohde"
+  "blog.menus.addItem": "Lisää valikon kohde",
+  "blog.domains": "Verkkotunnus",
+  "blog.domains.info": "Tarjoa tämä blogi omasta osoitteestaan. Lukijat saavat siistin linkin; kirjoittaminen ja hallinta pysyvät täällä.",
+  "blog.domains.status.active": "Aktiivinen",
+  "blog.domains.status.pending": "Odottaa",
+  "blog.domains.status.verified": "Vahvistettu",
+  "blog.domains.status.suspended": "Keskeytetty",
+  "blog.domains.status.error": "Virhe",
+  "blog.domains.subdomainLabel": "Aliverkkotunnus",
+  "blog.domains.subdomainPlaceholder": "nimesi",
+  "blog.domains.claim": "Varaa",
+  "blog.domains.unavailable": "Tämä aliverkkotunnus ei ole saatavilla.",
+  "blog.domains.available": "Saatavilla!",
+  "blog.domains.customComing": "Oman verkkotunnuksen liittäminen (kuten blog.nimesi.fi) tulossa pian."
 }
