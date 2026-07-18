@@ -91,13 +91,13 @@
   "story.purchase.pricingUnavailable": "معلومات التسعير غير متوفرة حالياً.",
   "story.buy.error.timeout": "انتهت مهلة الطلب. يرجى المحاولة مرة أخرى.",
   "story.chapter.freePreviewEnds": "تنتهي المعاينة المجانية هنا",
-  "discovery.ai.stories.new": "New AI-Generated Stories",
-  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
-  "discovery.ai.content.desc": "Discover content created with the help of AI",
-  "discover.search.universal.title": "Search",
-  "discover.search.encyclopedia": "Encyclopedia",
-  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
-  "discover.search.typeSelection.aria": "Content type selection",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
+  "discovery.ai.stories.new": "قصص جديدة منشأة بالذكاء الاصطناعي",
+  "discovery.ai.stories.updated": "قصص منشأة بالذكاء الاصطناعي محدثة مؤخرًا",
+  "discovery.ai.content.desc": "اكتشف محتوى أُنشئ بمساعدة الذكاء الاصطناعي",
+  "discover.search.universal.title": "بحث",
+  "discover.search.encyclopedia": "الموسوعة",
+  "discover.search.encyclopedia.comingSoon": "البحث في الموسوعة قادم قريبًا.",
+  "discover.search.universal.description": "ابحث عن القصص والأكوان",
+  "discover.search.typeSelection.aria": "اختيار نوع المحتوى",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {لم يتم العثور على نتائج} one {تم العثور على نتيجة واحدة} other {تم العثور على # نتائج}}"
 }

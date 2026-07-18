@@ -136,7 +136,7 @@
   "email.blog.update.subject": "Ενημέρωση ιστολογίου",
   "email.blog.update.body": "Ένα ιστολόγιο που ακολουθείτε έχει ενημερωθεί.",
   "email.comment.general.subject": "Νέο σχόλιο στο \"{contentTitle}\"",
-  "email.comment.general.body": "{commenterName} commented on \"{contentTitle}\": \"{commentText}\"",
+  "email.comment.general.body": "Ο χρήστης {commenterName} σχολίασε στο \"{contentTitle}\": \"{commentText}\"",
   "email.comment.reply.subject": "Απάντηση στο σχόλιό σας",
   "email.comment.reply.body": "{replierName} απάντησε στο σχόλιό σας στο \"{contentTitle}\": \"{replyText}\"",
   "email.comment.like.subject": "Το σχόλιό σας άρεσε",

@@ -1,6 +1,6 @@
 {
-  "comment.write": "Write your comment",
-  "comments.none": "Sorry, no comments to show.",
-  "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
-  "comments.show.older": "Show older comments"
+  "comment.write": "Tulis komentar sampeyan",
+  "comments.none": "Nuwun sewu, ora ana komentar sing bisa dituduhake.",
+  "comments.total": "{count, plural,\n    =0 {Ora ana komentar}\n    one {Ana 1 komentar}\n    other {Ana # komentar}\n  }.",
+  "comments.show.older": "Tuduhake komentar sing luwih lawas"
 }

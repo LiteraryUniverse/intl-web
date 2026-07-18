@@ -45,7 +45,7 @@
   "forums.post.new": "Neuer Post",
   "forums.posting": "Veröffentliche...",
   "forums.reply": "Antwort",
-  "forums.reset": "Reset",
+  "forums.reset": "Zurücksetzen",
   "forums.settings": "Forum-Einstellungen",
   "forums.settings.accessControls": "Zugangskontrollen",
   "forums.thread.createdAt": "Erstellt am {createdAt, date, medium}",

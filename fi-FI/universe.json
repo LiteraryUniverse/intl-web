@@ -7,7 +7,7 @@
   "universe.fansettings.for": "{universe} Fan Asetukset",
   "universe.fanfiction.stories": "Tarinat",
   "universe.fanfiction.fanarts": "Fanitaiteet",
-  "universe.stories.count": "Tässä universumissa on {num, plural,\n    =0 {kirjaa}\n    one {on yksi tarina}\n    other {, ja}\n    } on lukumäärä tarinaa.",
+  "universe.stories.count": "Tässä universumissa {num, plural,\n    =0 {ei ole tarinoita}\n    one {on yksi tarina}\n    other {on # tarinaa}\n    }.",
   "universe.authors.title": "Kirjailijat",
   "universe.authors.desc": "Luojat ja yhteistyössä toimineet {universe}",
   "universe.contributors": "Yhteistyössä toimineet",

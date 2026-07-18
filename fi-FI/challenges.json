@@ -25,8 +25,8 @@
   "challenges.victory": "Onnittelut! Olet suorittanut tämän haasteen.",
   "challenges.defeat": "Valitettavasti et suorittanut tätä haastetta.",
   "challenges.baseline": "Tämän tarinan nykyinen sanamäärä on {wordcount, number}, tämä tulee olemaan lähtökohta.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "Päivä",
+  "challenges.words": "Sanat",
+  "challenges.actualProgress": "Päivä {day}: {words} sanaa",
+  "challenges.minimumRequired": "Vähimmäisvaatimus: {words} sanaa"
 }

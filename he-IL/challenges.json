@@ -25,8 +25,8 @@
   "challenges.victory": "מזל טוב! השלמת את האתגר הזה.",
   "challenges.defeat": "לצערנו, לא השלמת את האתגר הזה.",
   "challenges.baseline": "מספר המילים הנוכחי עבור סיפור זה הוא {wordcount, number}, זה יהיה נקודת ההתחלה.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "יום",
+  "challenges.words": "מילים",
+  "challenges.actualProgress": "יום {day}: {words} מילים",
+  "challenges.minimumRequired": "מינימום נדרש: {words} מילים"
 }

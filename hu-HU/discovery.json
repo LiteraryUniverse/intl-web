@@ -91,13 +91,13 @@
   "story.purchase.pricingUnavailable": "Jelenleg nem áll rendelkezésre árinformáció.",
   "story.buy.error.timeout": "A kérés időzített. Kérjük, próbálja meg újra.",
   "story.chapter.freePreviewEnds": "Az ingyenes előnézet itt ér véget",
-  "discovery.ai.stories.new": "New AI-Generated Stories",
-  "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
-  "discovery.ai.content.desc": "Discover content created with the help of AI",
-  "discover.search.universal.title": "Search",
-  "discover.search.encyclopedia": "Encyclopedia",
-  "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
-  "discover.search.typeSelection.aria": "Content type selection",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
+  "discovery.ai.stories.new": "Új AI-generált történetek",
+  "discovery.ai.stories.updated": "Nemrég frissített AI-generált történetek",
+  "discovery.ai.content.desc": "Fedezd fel az AI segítségével készült tartalmakat",
+  "discover.search.universal.title": "Keresés",
+  "discover.search.encyclopedia": "Enciklopédia",
+  "discover.search.encyclopedia.comingSoon": "Az enciklopédia-keresés hamarosan érkezik.",
+  "discover.search.universal.description": "Keresés történetekre és univerzumokra",
+  "discover.search.typeSelection.aria": "Tartalomtípus kiválasztása",
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nincs találat} one {# találat} other {# találat}}"
 }

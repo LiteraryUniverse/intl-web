@@ -1,6 +1,6 @@
 {
-  "comment.write": "Write your comment",
-  "comments.none": "Sorry, no comments to show.",
-  "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
-  "comments.show.older": "Show older comments"
+  "comment.write": "Suratang komentar ragané",
+  "comments.none": "Ampura, nenten wenten komentar sane prasida kaedengang.",
+  "comments.total": "{count, plural,\n    =0 {Nenten wenten komentar}\n    one {Wenten 1 komentar}\n    other {Wenten # komentar}\n  }.",
+  "comments.show.older": "Edengang komentar sane lawas"
 }

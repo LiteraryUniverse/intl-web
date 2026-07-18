@@ -25,8 +25,8 @@
   "challenges.victory": "تهانينا! لقد أكملت هذا التحدي.",
   "challenges.defeat": "للأسف لم تكمل هذا التحدي.",
   "challenges.baseline": "عدد الكلمات الحالي لهذه القصة هو {wordcount, number}، وسيكون هذا هو نقطة البداية.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "اليوم",
+  "challenges.words": "الكلمات",
+  "challenges.actualProgress": "اليوم {day}: {words} كلمة",
+  "challenges.minimumRequired": "الحد الأدنى المطلوب: {words} كلمة"
 }

@@ -2,8 +2,8 @@
   "challenges.current": "現在の課題",
   "challenges.wordcount.goal": "目標語数",
   "challenges.wordcount.dailygoal": "一日の目標語数",
-  "challenges.wordcount.today": "今日の記事",
-  "challenges.wordcount.total": "総書記数",
+  "challenges.wordcount.today": "今日書いた語数",
+  "challenges.wordcount.total": "総執筆語数",
   "challenges.wordcount.remaining": "残り文字数",
   "challenges.wordcount.daysleft": "残り日数",
   "challenges.wordcount.currentDay": "今日",
@@ -25,8 +25,8 @@
   "challenges.victory": "おめでとう！ このチャレンジを完了しました。",
   "challenges.defeat": "残念ながら、この課題をクリアできませんでした。",
   "challenges.baseline": "この物語の現在の語数は{wordcount, number}で、これが出発点となる。",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "日",
+  "challenges.words": "語数",
+  "challenges.actualProgress": "{day}日目：{words}語",
+  "challenges.minimumRequired": "最低必要語数：{words}語"
 }

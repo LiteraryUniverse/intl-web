@@ -1,5 +1,5 @@
 {
-  "genre.scifi": "Science Fiction",
+  "genre.scifi": "Science-Fiction",
   "genre.fantasy": "Fantasie",
   "genre.adventure": "Abenteuer",
   "genre.poetry": "Poesie",
@@ -12,8 +12,8 @@
   "genre.tragedy": "Tragödie",
   "genre.crime": "Krimi",
   "genre.historical": "Historische Belletristik",
-  "genre.horror": "Schrecken",
-  "genre.mystery": "Geheimnis",
+  "genre.horror": "Horror",
+  "genre.mystery": "Mystery",
   "genre.thriller": "Thriller",
   "genre.western": "Western",
   "genre.memoir": "Memoiren",

@@ -16,7 +16,7 @@
   "challenges.startDate": "Alguskuupäev",
   "challenges.endDate": "Lõppkuupäev",
   "challenges.future": "Tulevased väljakutsed",
-  "challenges.future.wordcount": "Sõnade arvu väljakutse algab {startDate, date, short} eesmärgiga kirjutada kokku {target, number} sõna {endDate, date, short}poolt.",
+  "challenges.future.wordcount": "Sõnade arvu väljakutse algab {startDate, date, short} eesmärgiga kirjutada {endDate, date, short} kuupäevaks kokku {target, number} sõna.",
   "challenges.wordcount": "Sõnade arv",
   "challenges.wordcount.desc": "Sea endale eesmärk, mitu sõna sa soovid sel kuul kirjutada selle {type, select,\n    story {loo}\n    universe {universumi}\n    other {}\n  }.",
   "challenges.wordcount.select": "Mitu sõna soovite endale väljakutseks seada?",
@@ -25,8 +25,8 @@
   "challenges.victory": "Õnnitlused! Olete selle väljakutse lõpetanud.",
   "challenges.defeat": "Kahjuks te ei lõpetanud seda väljakutset.",
   "challenges.baseline": "Selle loo hetkene sõnade arv on {wordcount, number}, see saab olema alguspunkt.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "Päev",
+  "challenges.words": "Sõnad",
+  "challenges.actualProgress": "Päev {day}: {words} sõna",
+  "challenges.minimumRequired": "Minimaalselt nõutav: {words} sõna"
 }

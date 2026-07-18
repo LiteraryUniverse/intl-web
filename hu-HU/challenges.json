@@ -25,8 +25,8 @@
   "challenges.victory": "Gratulálok! Teljesítetted ezt a kihívást.",
   "challenges.defeat": "Sajnos nem sikerült teljesíteni ezt a kihívást.",
   "challenges.baseline": "A jelenlegi szószám ennek a történetnek a {wordcount, number}, ez lesz a kiindulási pont.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "Nap",
+  "challenges.words": "Szavak",
+  "challenges.actualProgress": "{day}. nap: {words} szó",
+  "challenges.minimumRequired": "Minimum szükséges: {words} szó"
 }

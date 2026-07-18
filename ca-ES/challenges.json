@@ -25,8 +25,8 @@
   "challenges.victory": "Felicitats! Has completat aquest desafiament.",
   "challenges.defeat": "Lamentablement no has completat aquest desafiament.",
   "challenges.baseline": "El nombre actual de paraules d'aquesta història és {wordcount, number}, aquest serà el punt de partida.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "Dia",
+  "challenges.words": "Paraules",
+  "challenges.actualProgress": "Dia {day}: {words} paraules",
+  "challenges.minimumRequired": "Mínim requerit: {words} paraules"
 }

@@ -1,6 +1,6 @@
 {
   "comment.write": "Escriu el teu comentari",
   "comments.none": "Ho sentim, no hi ha cap comentari per mostrar.",
-  "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
+  "comments.total": "{count, plural,\n    =0 {No hi ha cap comentari}\n    one {Hi ha 1 comentari}\n    other {Hi ha # comentaris}\n  }.",
   "comments.show.older": "Mostra els comentaris més antics"
 }

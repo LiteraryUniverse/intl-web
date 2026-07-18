@@ -1,7 +1,7 @@
 {
   "blog.noneMsg": "Momentálně nemáte {type, select,\n    organization {žádný blog}\n    universe {stránky pro svůj vesmír}\n    user {osobní blog}\n    other {}\n  }.",
   "blog.create": "Vytvořit nový blog",
-  "blog.settings": "{type, select,\n    org {Blog}\n    universe {Stránky pro vesmír}\n    user {Blog}\n    other {}\n  } settings",
+  "blog.settings": "Nastavení {type, select,\n    org {blogu}\n    universe {stránek pro vesmír}\n    user {blogu}\n    other {}\n  }",
   "blog.description": "Představení",
   "blog.theme": "Vzhled",
   "blog.theme.info": "Přizpůsobte si vzhled svého blogu: vyberte si předvolbu nebo upravte jednotlivé barvy, písma a tvary. Barvy se nastavují zvlášť pro světlý a tmavý režim.",

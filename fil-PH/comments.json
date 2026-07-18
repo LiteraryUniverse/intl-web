@@ -1,6 +1,6 @@
 {
   "comment.write": "Isulat ang iyong komento",
   "comments.none": "Pasensya na, walang mga komento na ipinapakita.",
-  "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
+  "comments.total": "{count, plural,\n    =0 {Walang komento}\n    one {Mayroong 1 komento}\n    other {Mayroong # na komento}\n  }.",
   "comments.show.older": "Ipakita ang mas lumang mga komento"
 }

@@ -1,6 +1,6 @@
 {
   "comment.write": "Írja meg a kommentjét",
   "comments.none": "Sajnáljuk, nincsenek megjeleníthető kommentek.",
-  "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",
+  "comments.total": "{count, plural,\n    =0 {Nincsenek hozzászólások}\n    one {1 hozzászólás van}\n    other {# hozzászólás van}\n  }.",
   "comments.show.older": "Régebbi kommentek megjelenítése"
 }
