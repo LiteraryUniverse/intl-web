@@ -91,8 +91,6 @@
   "story.purchase.pricingUnavailable": "Pricing information is currently unavailable.",
   "story.buy.error.timeout": "The request timed out. Please try again.",
   "story.chapter.freePreviewEnds": "Free preview ends here",
-  "discover.search.language": "ভাষা",
-  "discovery.ai.content": "AI-Generated Content",
   "discovery.ai.stories.new": "New AI-Generated Stories",
   "discovery.ai.stories.updated": "Recently Updated AI-Generated Stories",
   "discovery.ai.content.desc": "Discover content created with the help of AI",

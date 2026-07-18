@@ -36,7 +36,5 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ખાનગી",
   "event.visibilityShort.public": "સાર્વજનિક",
-  "event.visibilityShort.owner": "માલિક",
-  "events.origin.universe": "યુનિવર્સ",
-  "events.origin.groups": "જૂથો"
+  "event.visibilityShort.owner": "માલિક"
 }

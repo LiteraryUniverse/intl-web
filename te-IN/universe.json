@@ -11,7 +11,6 @@
   "universe.authors.title": "రచయితలు",
   "universe.authors.desc": "{universe}కు రచయితలు మరియు కాంట్రిబ్యూటర్లు",
   "universe.contributors": "కాంట్రిబ్యూటర్లు",
-  "universe.translators": "అనువాదకులు",
   "universe.authors.notice": "ప్రతి కథ అదనప్పటికే ఉండవచ్చు వారు. మరిన్ని వివరాలకు కథ వివరాలను చూడండి",
   "universe.createdBy": "ద్వారా {gender, select,\n    male {సృష్టించబడింది ద్వారా}\n    female {సృష్టించబడింది}\n    other {}} ",
   "universe.stories.for": "{universe}కోసం కథలు",

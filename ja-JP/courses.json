@@ -211,6 +211,7 @@
   "courses.role.owner": "オーナー",
   "courses.role.teacher": "教師",
   "courses.role.student": "学生",
+  "course.lesson.meeting.disabled": "この組織ではビデオミーティングは利用できません。",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

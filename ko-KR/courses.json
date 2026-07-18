@@ -211,6 +211,7 @@
   "courses.role.owner": "소유자",
   "courses.role.teacher": "교사",
   "courses.role.student": "학생",
+  "course.lesson.meeting.disabled": "이 조직에서는 화상 미팅을 사용할 수 없습니다.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

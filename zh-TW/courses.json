@@ -211,6 +211,7 @@
   "courses.role.owner": "業主",
   "courses.role.teacher": "教師",
   "courses.role.student": "學生",
+  "course.lesson.meeting.disabled": "此組織無法使用視訊會議。",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

@@ -10,5 +10,9 @@
   "library.search.noFilters": "ਕਿਰਪਾ ਕਰਕੇ ਖੋਜ ਸ਼ਬਦ ਦਰਜ ਕਰੋ ਜਾਂ ਫਿਲਟਰ ਲਾਗੂ ਕਰੋ",
   "library.search": "Search Your Library",
   "library.ownedStories": "ਖਰੀਦੀਆਂ ਕਹਾਣੀਆਂ",
+  "library.ownedAudiobooks": "ਆਡੀਓ ਬੁੱਕਾਂ",
+  "library.ownedAudiobooks.empty": "ਤੁਸੀਂ ਹਾਲੇ ਕੋਈ ਆਡੀਓ ਬੁੱਕ ਨਹੀਂ ਖਰੀਦੀ।",
+  "library.ownedComics": "ਕਾਮਿਕਸ",
+  "library.ownedComics.empty": "ਤੁਸੀਂ ਹਾਲੇ ਕੋਈ ਕਾਮਿਕ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀ।",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

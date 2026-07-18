@@ -36,7 +36,5 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "खाजगी",
   "event.visibilityShort.public": "सार्वजनिक",
-  "event.visibilityShort.owner": "मालक",
-  "events.origin.universe": "विश्व",
-  "events.origin.groups": "गट"
+  "event.visibilityShort.owner": "मालक"
 }

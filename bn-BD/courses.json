@@ -211,6 +211,7 @@
   "courses.role.owner": "মালিক",
   "courses.role.teacher": "শিক্ষক",
   "courses.role.student": "ছাত্র",
+  "course.lesson.meeting.disabled": "এই সংগঠনের জন্য ভিডিও মিটিং উপলব্ধ নয়।",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

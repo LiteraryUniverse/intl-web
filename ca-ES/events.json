@@ -36,7 +36,5 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "Privada",
   "event.visibilityShort.public": "Pública",
-  "event.visibilityShort.owner": "Propietari",
-  "events.origin.universe": "Univers",
-  "events.origin.groups": "Grups"
+  "event.visibilityShort.owner": "Propietari"
 }

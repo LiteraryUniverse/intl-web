@@ -11,7 +11,6 @@
   "universe.authors.title": "skicu",
   "universe.authors.desc": "Creators and contributors to {universe}",
   "universe.contributors": "Contributors",
-  "universe.translators": "Translators",
   "universe.authors.notice": "Each story might have additional personal that has worked on it. For more details see the details of the story.",
   "universe.createdBy": "{gender, select,\n    male {se facki}\n    female {se facki}\n    other {se facki}} fa lo ",
   "universe.stories.for": "Sutrau lo se du'u {universe}",

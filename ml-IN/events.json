@@ -36,7 +36,5 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "സ്വകാര്യമായി",
   "event.visibilityShort.public": "പൊതുവായി",
-  "event.visibilityShort.owner": "Owner",
-  "events.origin.universe": "യൂണിവേഴ്സ്",
-  "events.origin.groups": "ഗ്രൂപ്പുകൾ"
+  "event.visibilityShort.owner": "Owner"
 }

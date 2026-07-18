@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "Tõlke sõnastikud",
   "plans.feature.chatSupport": "Vestlustoetus",
   "plans.feature.storyDownloads": "Loo allalaadimine",
+  "plans.feature.mediaOffline": "Heli allalaadimine võrguühenduseta kuulamiseks",
   "plans.currency.select": "Vali valuuta",
   "payment.minimumAmount": "Minimaalne igakuine summa",
   "payment.currency": "Valuuta",

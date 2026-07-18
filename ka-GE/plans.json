@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "თარგმნის ლექსიკონები",
   "plans.feature.chatSupport": "ჩატის მხარდაჭერა",
   "plans.feature.storyDownloads": "Story downloads",
+  "plans.feature.mediaOffline": "აუდიოს ოფლაინ ჩამოტვირთვა",
   "plans.currency.select": "აირჩიეთ ვალუტა",
   "payment.minimumAmount": "Minimum monthly amount",
   "payment.currency": "Currency",

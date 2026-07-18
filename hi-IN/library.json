@@ -10,5 +10,9 @@
   "library.search.noFilters": "कृपया खोज शब्द दर्ज करें या फ़िल्टर लागू करें",
   "library.search": "Search Your Library",
   "library.ownedStories": "खरीदी गई कहानियाँ",
+  "library.ownedAudiobooks": "ऑडियो बुक्स",
+  "library.ownedAudiobooks.empty": "आपने अभी तक कोई ऑडियो बुक नहीं खरीदी है।",
+  "library.ownedComics": "कॉमिक्स",
+  "library.ownedComics.empty": "आपने अभी तक कोई कॉमिक नहीं जोड़ी है।",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

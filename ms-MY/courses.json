@@ -211,6 +211,7 @@
   "courses.role.owner": "Pemilik",
   "courses.role.teacher": "Guru",
   "courses.role.student": "Pelajar",
+  "course.lesson.meeting.disabled": "Mesyuarat video tidak tersedia untuk organisasi ini.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

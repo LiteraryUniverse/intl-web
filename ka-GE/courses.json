@@ -211,6 +211,7 @@
   "courses.role.owner": "მფლობელი",
   "courses.role.teacher": "მასწავლებელი",
   "courses.role.student": "სტუდენტი",
+  "course.lesson.meeting.disabled": "ვიდეოშეხვედრები ამ ორგანიზაციისთვის მიუწვდომელია.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

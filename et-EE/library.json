@@ -10,5 +10,9 @@
   "library.search.noFilters": "Palun sisestage otsingusõnad või rakendage filtreid",
   "library.search": "Search Your Library",
   "library.ownedStories": "Ostetud lood",
+  "library.ownedAudiobooks": "Audioraamatud",
+  "library.ownedAudiobooks.empty": "Sa pole veel ühtegi audioraamatut ostnud.",
+  "library.ownedComics": "Koomiksid",
+  "library.ownedComics.empty": "Sa pole veel ühtegi koomiksit lisanud.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

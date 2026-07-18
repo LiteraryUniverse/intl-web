@@ -10,6 +10,9 @@
   "library.search.noFilters": "कृपया खोज शब्द दर्ज करू वा फिल्टर लागू करू",
   "library.search": "Search Your Library",
   "library.ownedStories": "Purchased stories",
-  "library.yourLibrary": "Your Library",
+  "library.ownedAudiobooks": "अडियो बुक सभ",
+  "library.ownedAudiobooks.empty": "अहाँ एखन धरि कोनो अडियो बुक नहि कीनने छी।",
+  "library.ownedComics": "कॉमिक्स",
+  "library.ownedComics.empty": "अहाँ एखन धरि कोनो कॉमिक्स नहि जोड़ने छी।",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

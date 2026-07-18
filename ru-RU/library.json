@@ -10,5 +10,9 @@
   "library.search.noFilters": "Пожалуйста, введите условия поиска или примените фильтры",
   "library.search": "Search Your Library",
   "library.ownedStories": "Приобретенные истории",
+  "library.ownedAudiobooks": "Аудиокниги",
+  "library.ownedAudiobooks.empty": "Вы ещё не купили ни одной аудиокниги.",
+  "library.ownedComics": "Комиксы",
+  "library.ownedComics.empty": "Вы ещё не добавили ни одного комикса.",
   "library.meta.description": "Ваша личная библиотека на Literary Universe. Доступ ко всем сохранённым историям, вселенным и спискам для чтения в одном месте."
 }

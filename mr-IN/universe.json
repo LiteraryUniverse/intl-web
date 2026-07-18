@@ -11,7 +11,6 @@
   "universe.authors.title": "लेखक",
   "universe.authors.desc": "{universe}साठी सृजकांचे आणि सहयोग देणारे.",
   "universe.contributors": "सहयोगी",
-  "universe.translators": "भाषांतरक",
   "universe.authors.notice": "प्रत्येक कथेच्या आपल्यासह काम करणारे अतिरिक्त व्यक्ती असू शकतात. इतर तपशीलांसाठी कथेची तपशील पहा.",
   "universe.createdBy": "{gender, select,\n    male {द्वारा तयार केले गेले}\n    female {तयार केले गेले}\n    other {तयार केले गेले}} ",
   "universe.stories.for": "{universe}साठी कथा",

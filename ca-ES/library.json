@@ -9,7 +9,10 @@
   "library.search.prompt": "Search your library to find content",
   "library.search.noFilters": "Introduïu termes de cerca o apliqueu filtres",
   "library.search": "Search Your Library",
-  "library.ownedStories": "Purchased stories",
-  "library.yourLibrary": "Your Library",
+  "library.ownedStories": "Històries comprades",
+  "library.ownedAudiobooks": "Audiollibres",
+  "library.ownedAudiobooks.empty": "Encara no has comprat cap audiollibre.",
+  "library.ownedComics": "Còmics",
+  "library.ownedComics.empty": "Encara no has afegit cap còmic.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

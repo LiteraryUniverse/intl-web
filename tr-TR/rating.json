@@ -1,5 +1,6 @@
 {
   "rating.name": "Derecelendirme",
+  "rating.all": "Tüm yaşlar",
   "rating.explained": "Yaş derecelendirmesi ve kısıtlama.",
   "rating.desc.all": "Tüm yaş ve gruplara uygun.",
   "rating.teens": "Gençler",

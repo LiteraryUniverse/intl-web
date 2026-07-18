@@ -11,7 +11,6 @@
   "universe.authors.title": "લેખકો",
   "universe.authors.desc": "{universe}ના સર્જકો અને યોગદાનકારો",
   "universe.contributors": "યોગદાનકારો",
-  "universe.translators": "અનુવાદકો",
   "universe.authors.notice": "દરેક વાતોની કેથિત વિગતો કથા પર કામ કરેલ વ્યકતિ હોઈ શકે છે. વધુ વિગતો માટે કથાની વિગતો જુઓ.",
   "universe.createdBy": "{gender, select,\n    male {દ્વારા સર્જન કરેલ!}\n    female {દ્વારા સર્જન કરેલ!}\n    other {દ્વારા સર્જન કરેલ!}} કરી શકે છે ",
   "universe.stories.for": "{universe}ની કથાઓ",

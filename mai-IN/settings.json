@@ -210,7 +210,6 @@
   "settings.tracking.trackWritingTime": "Track writing time",
   "settings.tracking.trackReadingTime": "Track reading time",
   "settings.tracking.trackBlogWritingTime": "Track blog writing time",
-  "settings.emailNotifications.title": "सूचनाहरू",
   "settings.apiKeys.create.title": "Create New API Key",
   "settings.apiKeys.create": "Create New API Key",
   "settings.interests.description": "Tell us about your reading preferences to help us recommend content that matches your interests.",

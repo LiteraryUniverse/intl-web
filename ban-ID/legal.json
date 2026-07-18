@@ -11,6 +11,5 @@
   "legal.publicationAgreements": "Publication agreements",
   "legal.generalPublishingAgreement": "General Publishing Agreement",
   "legal.documentsFor": "Legal documents for {workTitle}",
-  "legal.modal.agreeToAll": "Agree to All",
-  "legal.modal.fewmore": "Few more things..."
+  "legal.modal.agreeToAll": "Agree to All"
 }

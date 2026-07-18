@@ -1,5 +1,6 @@
 {
   "rating.name": "Évaluation",
+  "rating.all": "Tout public",
   "rating.explained": "Classification par âge et restriction.",
   "rating.desc.all": "Accessible à tous les âges et à tous les groupes.",
   "rating.teens": "Adolescents",

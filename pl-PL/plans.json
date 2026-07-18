@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "Glosariusze tłumaczeń",
   "plans.feature.chatSupport": "Wsparcie czatu",
   "plans.feature.storyDownloads": "Pobieranie historii",
+  "plans.feature.mediaOffline": "Pobieranie audio offline",
   "plans.currency.select": "Wybierz walutę",
   "payment.minimumAmount": "Minimalna kwota miesięczna",
   "payment.currency": "Waluta",

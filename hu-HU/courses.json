@@ -211,6 +211,7 @@
   "courses.role.owner": "Tulajdonos",
   "courses.role.teacher": "Tanár",
   "courses.role.student": "Diák",
+  "course.lesson.meeting.disabled": "Ehhez a szervezethez nem érhetők el videótalálkozók.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

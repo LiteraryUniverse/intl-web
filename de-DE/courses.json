@@ -211,6 +211,7 @@
   "courses.role.owner": "Eigentümer",
   "courses.role.teacher": "Lehrer",
   "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Videokonferenzen sind für diese Organisation nicht verfügbar.",
   "course.assignment.responseType.none": "Keine schriftliche Antwort",
   "course.assignment.responseType.essay": "Aufsatz",
   "course.assignment.responseType.journal": "Lesetagebuch",

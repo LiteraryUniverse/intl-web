@@ -36,7 +36,5 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ಖಾಸಗಿ",
   "event.visibilityShort.public": "ಪ್ರಸ್ತುತವನ್ನು",
-  "event.visibilityShort.owner": "ಮಾಲಿಕ",
-  "events.origin.universe": "ವಿಶ್ವ",
-  "events.origin.groups": "ಗುಂಪುಗಳು"
+  "event.visibilityShort.owner": "ಮಾಲಿಕ"
 }

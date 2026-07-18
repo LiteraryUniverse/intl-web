@@ -1,5 +1,6 @@
 {
   "rating.name": "Penilaian",
+  "rating.all": "Semua peringkat umur",
   "rating.explained": "Penilaian umur dan sekatan.",
   "rating.desc.all": "Boleh diakses oleh semua peringkat umur dan kumpulan.",
   "rating.teens": "Remaja",

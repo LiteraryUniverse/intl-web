@@ -211,6 +211,7 @@
   "courses.role.owner": "Właściciel",
   "courses.role.teacher": "Nauczyciel",
   "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Spotkania wideo nie są dostępne dla tej organizacji.",
   "course.assignment.responseType.none": "Bez odpowiedzi pisemnej",
   "course.assignment.responseType.essay": "Esej",
   "course.assignment.responseType.journal": "Dziennik lektury",

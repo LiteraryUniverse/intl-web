@@ -211,6 +211,7 @@
   "courses.role.owner": "เจ้าของ",
   "courses.role.teacher": "ครู",
   "courses.role.student": "นักเรียน",
+  "course.lesson.meeting.disabled": "การประชุมทางวิดีโอไม่พร้อมใช้งานสำหรับองค์กรนี้",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

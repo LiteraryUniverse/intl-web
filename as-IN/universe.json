@@ -11,7 +11,6 @@
   "universe.authors.title": "লেখকসকল",
   "universe.authors.desc": "{universe}ৰ প্ৰণয়ী আৰু অংশগ্ৰহণকাৰী",
   "universe.contributors": "অংশগ্ৰহণকাৰীসকল",
-  "universe.translators": "অনুবাদকসকল",
   "universe.authors.notice": "প্ৰতিটা গল্পত অতিৰিক্ত ব্যক্তিগত যিবুলি থাকিত। অধিক বিবৰণৰ বাবে গল্পৰ বিবৰণ চাওক।",
   "universe.createdBy": "{gender, select,\n    male {দ্বারা সৃষ্টি কৰা হৈছে}\n    female {দ্বারা সৃষ্টি কৰা হৈছে}\n    other {দ্বারা সৃষ্টি কৰা হৈছে}} দ্বারা সৃষ্টি কৰা হৈছে! ",
   "universe.stories.for": "{universe}ৰ জন্যা গল্পসমূহ",

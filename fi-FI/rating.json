@@ -1,5 +1,6 @@
 {
   "rating.name": "Ikäluokitus",
+  "rating.all": "Kaikenikäisille",
   "rating.explained": "Ikäluokitus ja rajoitus.",
   "rating.desc.all": "Sopii kaikenikäisille ja -ryhmille.",
   "rating.teens": "Teini",

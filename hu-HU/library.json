@@ -10,5 +10,9 @@
   "library.search.noFilters": "Kérjük, adja meg a keresési feltételeket vagy alkalmazzon szűrőket",
   "library.search": "Search Your Library",
   "library.ownedStories": "Vásárolt történetek",
+  "library.ownedAudiobooks": "Hangoskönyvek",
+  "library.ownedAudiobooks.empty": "Még nem vásárolt hangoskönyvet.",
+  "library.ownedComics": "Képregények",
+  "library.ownedComics.empty": "Még nem adott hozzá képregényt.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

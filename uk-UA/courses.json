@@ -211,6 +211,7 @@
   "courses.role.owner": "Власник",
   "courses.role.teacher": "Учитель",
   "courses.role.student": "Студент",
+  "course.lesson.meeting.disabled": "Відеозустрічі недоступні для цієї організації.",
   "course.assignment.responseType.none": "Без письмової відповіді",
   "course.assignment.responseType.essay": "Есе",
   "course.assignment.responseType.journal": "Читацький щоденник",

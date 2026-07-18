@@ -11,7 +11,6 @@
   "universe.authors.title": "Aŭtoroj",
   "universe.authors.desc": "Kreintoj kaj kontribuantoj al {universe}",
   "universe.contributors": "Kontribuantoj",
-  "universe.translators": "Tradukistoj",
   "universe.authors.notice": "Ĉiu rakonto povas havi aldonan personan, kiu laboris ĝin. Por pliaj detaloj vidu la detalojn de la rakonto.",
   "universe.createdBy": "{gender, select,\n    male {Kreita}\n    female {Kreita}\n    other {Kreita}} de ",
   "universe.stories.for": "Rakontoj por {universe}",

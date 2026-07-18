@@ -10,5 +10,9 @@
   "library.search.noFilters": "Παρακαλούμε εισάγετε όρους αναζήτησης ή εφαρμόστε φίλτρα",
   "library.search": "Search Your Library",
   "library.ownedStories": "Αγορασμένες ιστορίες",
+  "library.ownedAudiobooks": "Ηχητικά βιβλία",
+  "library.ownedAudiobooks.empty": "Δεν έχετε αγοράσει ακόμη κανένα ηχητικό βιβλίο.",
+  "library.ownedComics": "Κόμικς",
+  "library.ownedComics.empty": "Δεν έχετε προσθέσει ακόμη κανένα κόμικ.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

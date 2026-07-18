@@ -211,6 +211,7 @@
   "courses.role.owner": "Savininkas",
   "courses.role.teacher": "Mokytojas",
   "courses.role.student": "Studentas",
+  "course.lesson.meeting.disabled": "Šiai organizacijai vaizdo susitikimai nepasiekiami.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

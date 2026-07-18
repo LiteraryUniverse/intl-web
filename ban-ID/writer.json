@@ -71,6 +71,5 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Enter reading (e.g. かんじ)",
   "writer.linkToWork": "Link to a universe, story or chapter",
-  "writer.insertWorkCard": "Insert story or universe card",
-  "writer.wordcount": "{characters, number} characters, {words, number} words"
+  "writer.insertWorkCard": "Insert story or universe card"
 }

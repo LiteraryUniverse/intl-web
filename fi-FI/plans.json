@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "Käännössanastot",
   "plans.feature.chatSupport": "Chat-tuki",
   "plans.feature.storyDownloads": "Tarinan lataukset",
+  "plans.feature.mediaOffline": "Äänen offline-lataukset",
   "plans.currency.select": "Valitse valuutta",
   "payment.minimumAmount": "Kuukausittainen vähimmäismäärä",
   "payment.currency": "Valuutta",

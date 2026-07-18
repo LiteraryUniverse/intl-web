@@ -211,6 +211,7 @@
   "courses.role.owner": "Владелец",
   "courses.role.teacher": "Преподаватель",
   "courses.role.student": "Студент",
+  "course.lesson.meeting.disabled": "Видеовстречи недоступны для этой организации.",
   "course.assignment.responseType.none": "Без письменного ответа",
   "course.assignment.responseType.essay": "Эссе",
   "course.assignment.responseType.journal": "Читательский дневник",

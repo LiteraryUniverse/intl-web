@@ -211,6 +211,7 @@
   "courses.role.owner": "ਮਾਲਕ",
   "courses.role.teacher": "ਅਧਿਆਪਕ",
   "courses.role.student": "ਵਿਦਿਆਰਥੀ",
+  "course.lesson.meeting.disabled": "ਇਸ ਸੰਗਠਨ ਲਈ ਵੀਡੀਓ ਮੀਟਿੰਗਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ।",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

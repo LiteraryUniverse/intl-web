@@ -10,6 +10,9 @@
   "library.search.noFilters": "Bonvolu enigi serĉajn terminojn aŭ apliki filtrilojn.",
   "library.search": "Search Your Library",
   "library.ownedStories": "Purchased stories",
-  "library.yourLibrary": "Your Library",
+  "library.ownedAudiobooks": "Sonlibroj",
+  "library.ownedAudiobooks.empty": "Vi ankoraŭ ne aĉetis sonlibrojn.",
+  "library.ownedComics": "Komiksoj",
+  "library.ownedComics.empty": "Vi ankoraŭ ne aldonis komiksojn.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

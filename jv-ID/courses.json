@@ -211,6 +211,7 @@
   "courses.role.owner": "Owner",
   "courses.role.teacher": "Teacher",
   "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Rapat video ora kasedhiya kanggo organisasi iki.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

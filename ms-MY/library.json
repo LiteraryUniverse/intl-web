@@ -10,5 +10,9 @@
   "library.search.noFilters": "Sila masukkan istilah carian atau terapkan penapis",
   "library.search": "Search Your Library",
   "library.ownedStories": "Cerita yang dibeli",
+  "library.ownedAudiobooks": "Buku audio",
+  "library.ownedAudiobooks.empty": "Anda belum membeli sebarang buku audio.",
+  "library.ownedComics": "Komik",
+  "library.ownedComics.empty": "Anda belum menambah sebarang komik.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "Γλωσσάρια μεταφράσεων",
   "plans.feature.chatSupport": "Υποστήριξη μέσω συνομιλίας",
   "plans.feature.storyDownloads": "Λήψεις ιστοριών",
+  "plans.feature.mediaOffline": "Λήψη ήχου για ακρόαση εκτός σύνδεσης",
   "plans.currency.select": "Επιλογή νομίσματος",
   "payment.minimumAmount": "Ελάχιστο μηνιαίο ποσό",
   "payment.currency": "Νόμισμα",

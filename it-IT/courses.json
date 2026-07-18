@@ -211,6 +211,7 @@
   "courses.role.owner": "Proprietario",
   "courses.role.teacher": "Insegnante",
   "courses.role.student": "Studente",
+  "course.lesson.meeting.disabled": "Le riunioni video non sono disponibili per questa organizzazione.",
   "course.assignment.responseType.none": "Nessuna risposta scritta",
   "course.assignment.responseType.essay": "Saggio",
   "course.assignment.responseType.journal": "Diario di lettura",

@@ -10,5 +10,9 @@
   "library.search.noFilters": "אנא הזן מונחי חיפוש או החל מסננים",
   "library.search": "Search Your Library",
   "library.ownedStories": "סיפורים שנרכשו",
+  "library.ownedAudiobooks": "ספרי אודיו",
+  "library.ownedAudiobooks.empty": "עדיין לא רכשתם ספרי אודיו.",
+  "library.ownedComics": "קומיקסים",
+  "library.ownedComics.empty": "עדיין לא הוספתם קומיקסים.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

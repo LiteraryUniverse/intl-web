@@ -211,6 +211,7 @@
   "courses.role.owner": "Majitel",
   "courses.role.teacher": "Učitel",
   "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Videoschůzky nejsou pro tuto organizaci dostupné.",
   "course.assignment.responseType.none": "Bez písemné odpovědi",
   "course.assignment.responseType.essay": "Esej",
   "course.assignment.responseType.journal": "Čtenářský deník",

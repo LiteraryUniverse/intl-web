@@ -10,5 +10,9 @@
   "library.search.noFilters": "Voer zoektermen in of pas filters toe",
   "library.search": "Search Your Library",
   "library.ownedStories": "Gekochte verhalen",
+  "library.ownedAudiobooks": "Luisterboeken",
+  "library.ownedAudiobooks.empty": "Je hebt nog geen luisterboeken gekocht.",
+  "library.ownedComics": "Strips",
+  "library.ownedComics.empty": "Je hebt nog geen strips toegevoegd.",
   "library.meta.description": "Je persoonlijke bibliotheek op Literary Universe. Toegang tot al je opgeslagen verhalen, universa en leeslijsten op één plek."
 }

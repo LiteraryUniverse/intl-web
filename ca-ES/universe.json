@@ -11,7 +11,6 @@
   "universe.authors.title": "Autors",
   "universe.authors.desc": "Creadors i col·laboradors a {universe}",
   "universe.contributors": "Col·laboradors",
-  "universe.translators": "Traductors",
   "universe.authors.notice": "Cada història pot tenir personal addicional que hi ha treballat. Per obtenir més detalls, consulteu els detalls de la història.",
   "universe.createdBy": "{gender, select,\n    male {Creat per}\n    female {Creat per}\n    other {Creat per}} ",
   "universe.stories.for": "Històries per {universe}",

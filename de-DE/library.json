@@ -10,5 +10,9 @@
   "library.search.noFilters": "Bitte Suchbegriffe eingeben oder Filter anwenden",
   "library.search": "Search Your Library",
   "library.ownedStories": "Gekaufte Geschichten",
+  "library.ownedAudiobooks": "Hörbücher",
+  "library.ownedAudiobooks.empty": "Du hast noch keine Hörbücher gekauft.",
+  "library.ownedComics": "Comics",
+  "library.ownedComics.empty": "Du hast noch keine Comics hinzugefügt.",
   "library.meta.description": "Ihre persönliche Bibliothek auf Literary Universe. Greifen Sie an einem Ort auf alle Ihre gespeicherten Geschichten, Universen und Leselisten zu."
 }

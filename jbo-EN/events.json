@@ -36,7 +36,5 @@
   "events.moreInfo": "Moi je'u",
   "event.visibilityShort.private": "Private",
   "event.visibilityShort.public": "Public",
-  "event.visibilityShort.owner": "Owner",
-  "events.origin.universe": ".i lo kensa",
-  "events.origin.groups": ".i lo grupu"
+  "event.visibilityShort.owner": "Owner"
 }

@@ -10,5 +10,9 @@
   "library.search.noFilters": "Įveskite paieškos terminus arba naudokite filtrus",
   "library.search": "Search Your Library",
   "library.ownedStories": "Įsigytos istorijos",
+  "library.ownedAudiobooks": "Garso knygos",
+  "library.ownedAudiobooks.empty": "Dar neįsigijote nė vienos garso knygos.",
+  "library.ownedComics": "Komiksai",
+  "library.ownedComics.empty": "Dar nepridėjote nė vieno komikso.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

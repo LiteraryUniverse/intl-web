@@ -211,6 +211,7 @@
   "courses.role.owner": "בעלים",
   "courses.role.teacher": "מורה",
   "courses.role.student": "סטודנט",
+  "course.lesson.meeting.disabled": "פגישות וידאו אינן זמינות עבור הארגון הזה.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

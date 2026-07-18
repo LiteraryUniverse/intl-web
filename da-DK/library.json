@@ -10,5 +10,9 @@
   "library.search.noFilters": "Indtast venligst søgeord eller anvend filtre",
   "library.search": "Search Your Library",
   "library.ownedStories": "Købte historier",
+  "library.ownedAudiobooks": "Lydbøger",
+  "library.ownedAudiobooks.empty": "Du har ikke købt nogen lydbøger endnu.",
+  "library.ownedComics": "Tegneserier",
+  "library.ownedComics.empty": "Du har ikke tilføjet nogen tegneserier endnu.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

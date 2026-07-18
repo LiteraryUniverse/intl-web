@@ -211,6 +211,7 @@
   "courses.role.owner": "Omanik",
   "courses.role.teacher": "Õpetaja",
   "courses.role.student": "Õpilane",
+  "course.lesson.meeting.disabled": "Videokohtumised pole selles organisatsioonis saadaval.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

@@ -10,5 +10,9 @@
   "library.search.noFilters": "Zadajte prosím vyhľadávacie výrazy alebo použite filtre",
   "library.search": "Search Your Library",
   "library.ownedStories": "Zakúpené príbehy",
+  "library.ownedAudiobooks": "Audioknihy",
+  "library.ownedAudiobooks.empty": "Zatiaľ ste si nezakúpili žiadne audioknihy.",
+  "library.ownedComics": "Komiksy",
+  "library.ownedComics.empty": "Zatiaľ ste si nepridali žiadne komiksy.",
   "library.meta.description": "Vaša osobná knižnica na Literary Universe. Získajte prístup ku všetkým svojim uloženým príbehom, univerzám a zoznamom na čítanie na jednom mieste."
 }

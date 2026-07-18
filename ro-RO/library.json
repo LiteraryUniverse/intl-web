@@ -10,5 +10,9 @@
   "library.search.noFilters": "Vă rugăm să introduceți termeni de căutare sau să aplicați filtre",
   "library.search": "Căutați în biblioteca dvs.",
   "library.ownedStories": "Povești cumpărate",
+  "library.ownedAudiobooks": "Cărți audio",
+  "library.ownedAudiobooks.empty": "Nu ai cumpărat încă nicio carte audio.",
+  "library.ownedComics": "Benzi desenate",
+  "library.ownedComics.empty": "Nu ai adăugat încă nicio bandă desenată.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

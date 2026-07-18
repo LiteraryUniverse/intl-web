@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "พจนานุกรมแปลภาษา",
   "plans.feature.chatSupport": "สนับสนุนทางแชท",
   "plans.feature.storyDownloads": "ดาวน์โหลดเรื่องราว",
+  "plans.feature.mediaOffline": "ดาวน์โหลดเสียงเพื่อฟังออฟไลน์",
   "plans.currency.select": "เลือกสกุลเงิน",
   "payment.minimumAmount": "จำนวนเงินขั้นต่ำต่อเดือน",
   "payment.currency": "สกุลเงิน",

@@ -10,6 +10,9 @@
   "library.search.noFilters": "దయచేసి శోధన పదాలను నమోదు చేయండి లేదా ఫిల్టర్‌లను వర్తింపజేయండి",
   "library.search": "Search Your Library",
   "library.ownedStories": "Purchased stories",
-  "library.yourLibrary": "Your Library",
+  "library.ownedAudiobooks": "ఆడియో పుస్తకాలు",
+  "library.ownedAudiobooks.empty": "మీరు ఇంకా ఏ ఆడియో పుస్తకాన్ని కొనలేదు.",
+  "library.ownedComics": "కామిక్స్",
+  "library.ownedComics.empty": "మీరు ఇంకా ఏ కామిక్‌ను జోడించలేదు.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

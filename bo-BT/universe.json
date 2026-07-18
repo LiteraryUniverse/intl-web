@@ -11,7 +11,6 @@
   "universe.authors.title": "གསར་འགྱུར་ཚིག་ཡིག་པའི་གྲོགས་པོ།",
   "universe.authors.desc": "{universe}གསར་འགྱུར་དང་བསྐྱར་རིས་དང་འབྲེལ་བ་བརྗོད་པ།",
   "universe.contributors": "བསྐྱར་རིས་ཚུ།",
-  "universe.translators": "བརྗོད་པ།",
   "universe.authors.notice": "Each story might have additional personal that has worked on it. For more details see the details of the story.",
   "universe.createdBy": "{gender, select,\n    male {གསར་འགྱུར་ཚིག་མཛོད་}\n    female {གསར་འགྱུར་ཚིག་མཛོད་}\n    other {གསར་འགྱུར་ཚིག་མཛོད་}} ནང་འདྲེན་བྱེད་པ་ ",
   "universe.stories.for": "གསར་འགྱུར་ཚིག་མཛོད་ནང་གི་ {universe}གནས་ཚུལ་ཚིག་མཛོད་",

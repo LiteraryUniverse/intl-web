@@ -36,7 +36,5 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ব্যক্তিগত",
   "event.visibilityShort.public": "প্রকাশিত",
-  "event.visibilityShort.owner": "মালিক",
-  "events.origin.universe": "ইউনিভার্স",
-  "events.origin.groups": "গোষ্ঠীসমূহ"
+  "event.visibilityShort.owner": "মালিক"
 }

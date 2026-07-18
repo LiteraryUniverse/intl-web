@@ -211,6 +211,7 @@
   "courses.role.owner": "Eigenaar",
   "courses.role.teacher": "Leraar",
   "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Videovergaderingen zijn niet beschikbaar voor deze organisatie.",
   "course.assignment.responseType.none": "Geen geschreven antwoord",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Leesdagboek",

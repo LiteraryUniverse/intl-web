@@ -10,5 +10,9 @@
   "library.search.noFilters": "Anna hakusanat tai sovella suodattimia",
   "library.search": "Search Your Library",
   "library.ownedStories": "Ostetut tarinat",
+  "library.ownedAudiobooks": "Äänikirjat",
+  "library.ownedAudiobooks.empty": "Et ole vielä ostanut yhtään äänikirjaa.",
+  "library.ownedComics": "Sarjakuvat",
+  "library.ownedComics.empty": "Et ole vielä lisännyt yhtään sarjakuvaa.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

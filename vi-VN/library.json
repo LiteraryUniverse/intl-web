@@ -10,5 +10,9 @@
   "library.search.noFilters": "Vui lòng nhập từ khóa tìm kiếm hoặc áp dụng bộ lọc",
   "library.search": "Search Your Library",
   "library.ownedStories": "Các câu chuyện đã mua",
+  "library.ownedAudiobooks": "Sách nói",
+  "library.ownedAudiobooks.empty": "Bạn chưa mua sách nói nào.",
+  "library.ownedComics": "Truyện tranh",
+  "library.ownedComics.empty": "Bạn chưa thêm truyện tranh nào.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

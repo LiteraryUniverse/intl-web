@@ -10,5 +10,9 @@
   "library.search.noFilters": "Будь ласка, введіть пошукові запити або застосуйте фільтри",
   "library.search": "Search Your Library",
   "library.ownedStories": "Куплені історії",
+  "library.ownedAudiobooks": "Аудіокниги",
+  "library.ownedAudiobooks.empty": "Ви ще не придбали жодної аудіокниги.",
+  "library.ownedComics": "Комікси",
+  "library.ownedComics.empty": "Ви ще не додали жодного коміксу.",
   "library.meta.description": "Ваша особиста бібліотека на Literary Universe. Доступ до всіх збережених історій, всесвітів і списків для читання в одному місці."
 }

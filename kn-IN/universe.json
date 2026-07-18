@@ -11,7 +11,6 @@
   "universe.authors.title": "ಲೇಖಕರು",
   "universe.authors.desc": "{universe}ಗೆ ಸೃಷ್ಟಿಸಿದ ನಿರ್ಮಾಪಕರು ಮತ್ತು ಕೊಡುಗೆದಾರರು",
   "universe.contributors": "ಕೊಡುಗೆದಾರರು",
-  "universe.translators": "ಭಾಷಾಂತರಕರು",
   "universe.authors.notice": "ಪ್ರತಿ ಕಥೆಗೆ ಇನ್ನಷ್ಟು ವ್ಯಕ್ತಿಗಳು ಸಹ ಕೆಲಸ ಮಾಡಿರುವರು. ಹೆಚ್ಚಿನ ವಿವರಗಳನ್ನು ಕಥೆಯ ವಿವರಗಳಲ್ಲಿ ನೋಡಿ.",
   "universe.createdBy": "{gender, select,\n    male {ದ್ವಾರಾ ರಚಿತ}\n    female {ದ್ವಾರಾ ರಚಿತ}\n    other {ದ್ವಾರಾ ರಚಿತ}} ",
   "universe.stories.for": "{universe}ಕಥೆಗಳು",

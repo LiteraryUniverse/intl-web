@@ -11,7 +11,6 @@
   "universe.authors.title": "<span class=\"notranslate\">लेखकहरू</span>",
   "universe.authors.desc": "{universe}को निर्माताहरू र सहसंपादकहरू",
   "universe.contributors": "<span class=\"notranslate\">सहसंपादकहरू</span>",
-  "universe.translators": "<span class=\"notranslate\">अनुवादकहरू</span>",
   "universe.authors.notice": "प्रत्येक कथामा थप व्यक्तिगत कर्मचारीहरू हुन सक्छन्। थप विवरणको लागि कृपया कथाको विवरण हेर्नुहोस्।",
   "universe.createdBy": "{gender, select,\n    male {द्वारा निर्माण,}\n    female {द्वारा निर्माण,}\n    other {द्वारा निर्माण,}} द्वारा निर्माण ",
   "universe.stories.for": "{universe}को लागि कथाहरू",

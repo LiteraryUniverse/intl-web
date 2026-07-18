@@ -211,6 +211,7 @@
   "courses.role.owner": "Propietario",
   "courses.role.teacher": "Profesor",
   "courses.role.student": "Estudiante",
+  "course.lesson.meeting.disabled": "Las videollamadas no están disponibles para esta organización.",
   "course.assignment.responseType.none": "Sin respuesta escrita",
   "course.assignment.responseType.essay": "Ensayo",
   "course.assignment.responseType.journal": "Diario de lectura",

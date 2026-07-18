@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "Översättningsordlistor",
   "plans.feature.chatSupport": "Chattsupport",
   "plans.feature.storyDownloads": "Nedladdningar av berättelser",
+  "plans.feature.mediaOffline": "Offlinenedladdning av ljud",
   "plans.currency.select": "Välj valuta",
   "payment.minimumAmount": "Lägsta belopp per månad",
   "payment.currency": "Valuta",

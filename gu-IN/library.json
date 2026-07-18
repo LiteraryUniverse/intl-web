@@ -10,6 +10,9 @@
   "library.search.noFilters": "કૃપા કરીને શોધ શબ્દો દાખલ કરો અથવા ફિલ્ટર્સ લાગુ કરો",
   "library.search": "Search Your Library",
   "library.ownedStories": "Purchased stories",
-  "library.yourLibrary": "Your Library",
+  "library.ownedAudiobooks": "ઑડિયો બુક",
+  "library.ownedAudiobooks.empty": "તમે હજી કોઈ ઑડિયો બુક ખરીદી નથી.",
+  "library.ownedComics": "કૉમિક્સ",
+  "library.ownedComics.empty": "તમે હજી કોઈ કૉમિક ઉમેરી નથી.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

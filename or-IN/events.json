@@ -36,7 +36,5 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "Private",
   "event.visibilityShort.public": "Public",
-  "event.visibilityShort.owner": "ମାଲିକ",
-  "events.origin.universe": "Universe",
-  "events.origin.groups": "ଗୋଷ୍ଠୀଗୁଡ଼ିକ"
+  "event.visibilityShort.owner": "ମାଲିକ"
 }

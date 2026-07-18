@@ -211,6 +211,7 @@
   "courses.role.owner": "Proprietar",
   "courses.role.teacher": "Învățător",
   "courses.role.student": "Student",
+  "course.lesson.meeting.disabled": "Întâlnirile video nu sunt disponibile pentru această organizație.",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

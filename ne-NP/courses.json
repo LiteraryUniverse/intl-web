@@ -211,6 +211,7 @@
   "courses.role.owner": "मालिक",
   "courses.role.teacher": "शिक्षक",
   "courses.role.student": "विद्यार्थी",
+  "course.lesson.meeting.disabled": "यस संगठनका लागि भिडियो बैठकहरू उपलब्ध छैनन्।",
   "course.assignment.responseType.none": "No written response",
   "course.assignment.responseType.essay": "Essay",
   "course.assignment.responseType.journal": "Reading journal",

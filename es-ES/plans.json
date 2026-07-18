@@ -55,6 +55,7 @@
   "plans.feature.glossaries": "Glosarios de traducción",
   "plans.feature.chatSupport": "Asistencia por chat",
   "plans.feature.storyDownloads": "Descargas de cuentos",
+  "plans.feature.mediaOffline": "Descargas de audio sin conexión",
   "plans.currency.select": "Seleccionar divisa",
   "payment.minimumAmount": "Importe mínimo mensual",
   "payment.currency": "Moneda",

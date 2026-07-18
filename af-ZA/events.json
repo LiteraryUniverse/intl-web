@@ -36,7 +36,5 @@
   "events.moreInfo": "Meer inligting",
   "event.visibilityShort.private": "Privaat",
   "event.visibilityShort.public": "Openbaar",
-  "event.visibilityShort.owner": "Eienaar",
-  "events.origin.universe": "Heelal",
-  "events.origin.groups": "Groepe"
+  "event.visibilityShort.owner": "Eienaar"
 }

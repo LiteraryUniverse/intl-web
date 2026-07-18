@@ -10,5 +10,9 @@
   "library.search.noFilters": "Please enter search terms or apply filters",
   "library.search": "Search Your Library",
   "library.ownedStories": "Purchased stories",
+  "library.ownedAudiobooks": "Buku audio",
+  "library.ownedAudiobooks.empty": "Ragané durung numbas buku audio.",
+  "library.ownedComics": "Komik",
+  "library.ownedComics.empty": "Ragané durung nambahang komik.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

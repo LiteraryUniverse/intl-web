@@ -11,7 +11,6 @@
   "universe.authors.title": "എഴുത്തുകാരുകൾ",
   "universe.authors.desc": "{universe}സൃഷ്ടിക്കുന്നുവെന്നും സംഭാവനകൾ",
   "universe.contributors": "സംഭാവനകൾ",
-  "universe.translators": "പരിഭാഷകർ",
   "universe.authors.notice": "ഓരോ കഥയുടെയും ഇതര വ്യക്തിഗതികൾക്കും കൂടുതൽ വ്യക്തമായ തിരുത്തലുകളുണ്ടാവാനായി. കഥയുടെ വിശദാംശങ്ങൾ കാണുകയായിരിക്കുന്നുണ്ട്.",
   "universe.createdBy": "{gender, select,\n    male {സൃഷ്ടിച്ചത്}\n    female {സൃഷ്ടിച്ചത്}\n    other {സൃഷ്ടിച്ചത്}} ദ്വാരെ  ",
   "universe.stories.for": "{universe}പ്രമേയങ്ങൾ",

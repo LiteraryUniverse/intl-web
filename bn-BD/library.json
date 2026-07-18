@@ -10,5 +10,9 @@
   "library.search.noFilters": "অনুগ্রহ করে অনুসন্ধান শব্দগুলি লিখুন অথবা ফিল্টার প্রয়োগ করুন",
   "library.search": "Search Your Library",
   "library.ownedStories": "ক্রয়কৃত গল্পসমূহ",
+  "library.ownedAudiobooks": "অডিও বই",
+  "library.ownedAudiobooks.empty": "আপনি এখনও কোনো অডিও বই কেনেননি।",
+  "library.ownedComics": "কমিক্স",
+  "library.ownedComics.empty": "আপনি এখনও কোনো কমিক্স যোগ করেননি।",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }
