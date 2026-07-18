@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Page",
   "blog.menus.kind.external": "External link",
   "blog.menus.pickPage": "Pick a page…",
-  "blog.menus.addItem": "Add menu item"
+  "blog.menus.addItem": "Add menu item",
+  "blog.domains": "Domain",
+  "blog.domains.info": "Serve this blog from its own address. Readers get a clean link; writing and management stay here.",
+  "blog.domains.status.active": "Active",
+  "blog.domains.status.pending": "Pending",
+  "blog.domains.status.verified": "Verified",
+  "blog.domains.status.suspended": "Suspended",
+  "blog.domains.status.error": "Error",
+  "blog.domains.subdomainLabel": "Subdomain",
+  "blog.domains.subdomainPlaceholder": "yourname",
+  "blog.domains.claim": "Claim",
+  "blog.domains.unavailable": "This subdomain is not available.",
+  "blog.domains.available": "Available!",
+  "blog.domains.customComing": "Connecting your own domain (like blog.yourname.com) is coming soon."
 }

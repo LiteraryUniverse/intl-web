@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Página",
   "blog.menus.kind.external": "Ligação externa",
   "blog.menus.pickPage": "Escolha uma página…",
-  "blog.menus.addItem": "Adicionar item de menu"
+  "blog.menus.addItem": "Adicionar item de menu",
+  "blog.domains": "Domínio",
+  "blog.domains.info": "Sirva este blogue a partir do seu próprio endereço. Os leitores recebem uma ligação limpa; a escrita e a gestão ficam aqui.",
+  "blog.domains.status.active": "Ativo",
+  "blog.domains.status.pending": "Pendente",
+  "blog.domains.status.verified": "Verificado",
+  "blog.domains.status.suspended": "Suspenso",
+  "blog.domains.status.error": "Erro",
+  "blog.domains.subdomainLabel": "Subdomínio",
+  "blog.domains.subdomainPlaceholder": "oseunome",
+  "blog.domains.claim": "Reservar",
+  "blog.domains.unavailable": "Este subdomínio não está disponível.",
+  "blog.domains.available": "Disponível!",
+  "blog.domains.customComing": "A ligação do seu próprio domínio (como blog.oseunome.pt) chega em breve."
 }

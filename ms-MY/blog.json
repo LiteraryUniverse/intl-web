@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Halaman",
   "blog.menus.kind.external": "Pautan luaran",
   "blog.menus.pickPage": "Pilih halaman…",
-  "blog.menus.addItem": "Tambah item menu"
+  "blog.menus.addItem": "Tambah item menu",
+  "blog.domains": "Domain",
+  "blog.domains.info": "Sajikan blog ini dari alamatnya sendiri. Pembaca mendapat pautan bersih; penulisan dan pengurusan kekal di sini.",
+  "blog.domains.status.active": "Aktif",
+  "blog.domains.status.pending": "Menunggu",
+  "blog.domains.status.verified": "Disahkan",
+  "blog.domains.status.suspended": "Digantung",
+  "blog.domains.status.error": "Ralat",
+  "blog.domains.subdomainLabel": "Subdomain",
+  "blog.domains.subdomainPlaceholder": "namaanda",
+  "blog.domains.claim": "Tuntut",
+  "blog.domains.unavailable": "Subdomain ini tidak tersedia.",
+  "blog.domains.available": "Tersedia!",
+  "blog.domains.customComing": "Penyambungan domain sendiri (seperti blog.namaanda.com) akan datang tidak lama lagi."
 }

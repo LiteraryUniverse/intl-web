@@ -404,5 +404,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "រចនា​ប្លុក​កម្រិត​ខ្ពស់ (CSS ផ្ទាល់ខ្លួន)"
+  "plans.feature.customBlogCss": "រចនា​ប្លុក​កម្រិត​ខ្ពស់ (CSS ផ្ទាល់ខ្លួន)",
+  "plans.feature.luSubdomain": "ប្លុក​នៅលើ​ដែនរង Literary Universe ផ្ទាល់ខ្លួន",
+  "plans.feature.customDomain": "ប្លុក​នៅលើ​ដែន​ផ្ទាល់ខ្លួន"
 }

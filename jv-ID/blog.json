@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "Kaca",
   "blog.menus.kind.external": "Pranala njaba",
   "blog.menus.pickPage": "Pilih kaca…",
-  "blog.menus.addItem": "Tambah item menu"
+  "blog.menus.addItem": "Tambah item menu",
+  "blog.domains": "Domain",
+  "blog.domains.info": "Sajekake blog iki saka alamate dhewe. Sing maca entuk pranala resik; nulis lan ngatur tetep ing kene.",
+  "blog.domains.status.active": "Aktif",
+  "blog.domains.status.pending": "Ngenteni",
+  "blog.domains.status.verified": "Wis diverifikasi",
+  "blog.domains.status.suspended": "Ditundha",
+  "blog.domains.status.error": "Kesalahan",
+  "blog.domains.subdomainLabel": "Subdomain",
+  "blog.domains.subdomainPlaceholder": "jenengmu",
+  "blog.domains.claim": "Klaim",
+  "blog.domains.unavailable": "Subdomain iki ora kasedhiya.",
+  "blog.domains.available": "Kasedhiya!",
+  "blog.domains.customComing": "Nyambungake domain dhewe (kaya blog.jenengmu.com) bakal teka."
 }

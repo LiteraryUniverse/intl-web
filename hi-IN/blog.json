@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "पृष्ठ",
   "blog.menus.kind.external": "बाहरी लिंक",
   "blog.menus.pickPage": "कोई पृष्ठ चुनें…",
-  "blog.menus.addItem": "मेनू आइटम जोड़ें"
+  "blog.menus.addItem": "मेनू आइटम जोड़ें",
+  "blog.domains": "डोमेन",
+  "blog.domains.info": "इस ब्लॉग को उसके अपने पते से परोसें। पाठकों को साफ़ लिंक मिलता है; लेखन और प्रबंधन यहीं रहता है।",
+  "blog.domains.status.active": "सक्रिय",
+  "blog.domains.status.pending": "लंबित",
+  "blog.domains.status.verified": "सत्यापित",
+  "blog.domains.status.suspended": "निलंबित",
+  "blog.domains.status.error": "त्रुटि",
+  "blog.domains.subdomainLabel": "सबडोमेन",
+  "blog.domains.subdomainPlaceholder": "aapkanaam",
+  "blog.domains.claim": "लें",
+  "blog.domains.unavailable": "यह सबडोमेन उपलब्ध नहीं है।",
+  "blog.domains.available": "उपलब्ध है!",
+  "blog.domains.customComing": "अपना डोमेन जोड़ना (जैसे blog.aapkanaam.com) जल्द आ रहा है।"
 }

@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Aller à Stripe Connect",
   "payment.listMethods.cards": "Cartes",
   "plans.account.Adventurer": "Aventurier",
-  "plans.feature.customBlogCss": "Design de blog avancé (CSS personnalisé)"
+  "plans.feature.customBlogCss": "Design de blog avancé (CSS personnalisé)",
+  "plans.feature.luSubdomain": "Blog sur votre sous-domaine Literary Universe",
+  "plans.feature.customDomain": "Blog sur votre propre domaine"
 }

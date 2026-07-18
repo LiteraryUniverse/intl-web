@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "पृष्ठ",
   "blog.menus.kind.external": "बाहरी लिंक",
   "blog.menus.pickPage": "पृष्ठ चुनू…",
-  "blog.menus.addItem": "मेनू आइटम जोड़ू"
+  "blog.menus.addItem": "मेनू आइटम जोड़ू",
+  "blog.domains": "डोमेन",
+  "blog.domains.info": "एहि ब्लॉगकेँ एकर अपन पतासँ परसू। पाठककेँ साफ लिंक भेटैत अछि; लेखन आ प्रबंधन एतहि रहैत अछि।",
+  "blog.domains.status.active": "सक्रिय",
+  "blog.domains.status.pending": "लंबित",
+  "blog.domains.status.verified": "सत्यापित",
+  "blog.domains.status.suspended": "निलंबित",
+  "blog.domains.status.error": "त्रुटि",
+  "blog.domains.subdomainLabel": "सबडोमेन",
+  "blog.domains.subdomainPlaceholder": "ahankanaam",
+  "blog.domains.claim": "लिअ",
+  "blog.domains.unavailable": "ई सबडोमेन उपलब्ध नहि अछि।",
+  "blog.domains.available": "उपलब्ध अछि!",
+  "blog.domains.customComing": "अपन डोमेन जोड़ब (जेना blog.ahankanaam.com) जल्दिये आबि रहल अछि।"
 }

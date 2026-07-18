@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "ਪੰਨਾ",
   "blog.menus.kind.external": "ਬਾਹਰੀ ਲਿੰਕ",
   "blog.menus.pickPage": "ਪੰਨਾ ਚੁਣੋ…",
-  "blog.menus.addItem": "ਮੀਨੂ ਆਈਟਮ ਜੋੜੋ"
+  "blog.menus.addItem": "ਮੀਨੂ ਆਈਟਮ ਜੋੜੋ",
+  "blog.domains": "ਡੋਮੇਨ",
+  "blog.domains.info": "ਇਸ ਬਲੌਗ ਨੂੰ ਇਸਦੇ ਆਪਣੇ ਪਤੇ ਤੋਂ ਪਰੋਸੋ। ਪਾਠਕਾਂ ਨੂੰ ਸਾਫ਼ ਲਿੰਕ ਮਿਲਦਾ ਹੈ; ਲਿਖਣਾ ਅਤੇ ਪ੍ਰਬੰਧਨ ਇੱਥੇ ਹੀ ਰਹਿੰਦਾ ਹੈ।",
+  "blog.domains.status.active": "ਸਰਗਰਮ",
+  "blog.domains.status.pending": "ਬਕਾਇਆ",
+  "blog.domains.status.verified": "ਤਸਦੀਕਸ਼ੁਦਾ",
+  "blog.domains.status.suspended": "ਮੁਅੱਤਲ",
+  "blog.domains.status.error": "ਗਲਤੀ",
+  "blog.domains.subdomainLabel": "ਸਬਡੋਮੇਨ",
+  "blog.domains.subdomainPlaceholder": "tuhadanaam",
+  "blog.domains.claim": "ਲਵੋ",
+  "blog.domains.unavailable": "ਇਹ ਸਬਡੋਮੇਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।",
+  "blog.domains.available": "ਉਪਲਬਧ ਹੈ!",
+  "blog.domains.customComing": "ਆਪਣਾ ਡੋਮੇਨ ਜੋੜਨਾ (ਜਿਵੇਂ blog.tuhadanaam.com) ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ।"
 }

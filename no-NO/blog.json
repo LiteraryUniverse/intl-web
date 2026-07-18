@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Side",
   "blog.menus.kind.external": "Ekstern lenke",
   "blog.menus.pickPage": "Velg en side…",
-  "blog.menus.addItem": "Legg til menyelement"
+  "blog.menus.addItem": "Legg til menyelement",
+  "blog.domains": "Domene",
+  "blog.domains.info": "Servér denne bloggen fra sin egen adresse. Leserne får en ren lenke; skriving og administrasjon blir her.",
+  "blog.domains.status.active": "Aktiv",
+  "blog.domains.status.pending": "Venter",
+  "blog.domains.status.verified": "Verifisert",
+  "blog.domains.status.suspended": "Suspendert",
+  "blog.domains.status.error": "Feil",
+  "blog.domains.subdomainLabel": "Underdomene",
+  "blog.domains.subdomainPlaceholder": "dittnavn",
+  "blog.domains.claim": "Krev",
+  "blog.domains.unavailable": "Dette underdomenet er ikke tilgjengelig.",
+  "blog.domains.available": "Tilgjengelig!",
+  "blog.domains.customComing": "Tilkobling av eget domene (som blog.dittnavn.no) kommer snart."
 }

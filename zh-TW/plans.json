@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "進階部落格設計（自訂 CSS）"
+  "plans.feature.customBlogCss": "進階部落格設計（自訂 CSS）",
+  "plans.feature.luSubdomain": "在您專屬的 Literary Universe 子網域上經營部落格",
+  "plans.feature.customDomain": "在您自己的網域上經營部落格"
 }

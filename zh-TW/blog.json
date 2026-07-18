@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "頁面",
   "blog.menus.kind.external": "外部連結",
   "blog.menus.pickPage": "選擇頁面…",
-  "blog.menus.addItem": "新增選單項目"
+  "blog.menus.addItem": "新增選單項目",
+  "blog.domains": "網域",
+  "blog.domains.info": "以專屬網址提供此部落格。讀者獲得簡潔連結；寫作與管理仍在這裡進行。",
+  "blog.domains.status.active": "啟用中",
+  "blog.domains.status.pending": "待處理",
+  "blog.domains.status.verified": "已驗證",
+  "blog.domains.status.suspended": "已暫停",
+  "blog.domains.status.error": "錯誤",
+  "blog.domains.subdomainLabel": "子網域",
+  "blog.domains.subdomainPlaceholder": "yourname",
+  "blog.domains.claim": "取得",
+  "blog.domains.unavailable": "此子網域無法使用。",
+  "blog.domains.available": "可以使用！",
+  "blog.domains.customComing": "連接您自己的網域（例如 blog.yourname.com）即將推出。"
 }

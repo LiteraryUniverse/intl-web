@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "ཤོག་ངོས།",
   "blog.menus.kind.external": "ཕྱིའི་སྦྲེལ་ཐག",
   "blog.menus.pickPage": "ཤོག་ངོས་ཤིག་འདེམས།…",
-  "blog.menus.addItem": "འདེམས་ཐོའི་ནང་དོན་སྣོན།"
+  "blog.menus.addItem": "འདེམས་ཐོའི་ནང་དོན་སྣོན།",
+  "blog.domains": "དྲ་གནས།",
+  "blog.domains.info": "ཟིན་བྲིས་འདི་རང་གི་ཁ་བྱང་ནས་སྤེལ། ཀློག་མཁན་ལ་གཙང་མའི་སྦྲེལ་ཐག་ཐོབ། རྩོམ་དང་དོ་དམ་འདིར་གནས།",
+  "blog.domains.status.active": "ཤུགས་ལྡན།",
+  "blog.domains.status.pending": "སྒུག་བཞིན།",
+  "blog.domains.status.verified": "ར་སྤྲོད་ཟིན།",
+  "blog.domains.status.suspended": "མཚམས་བཞག",
+  "blog.domains.status.error": "ནོར་འཁྲུལ།",
+  "blog.domains.subdomainLabel": "དྲ་གནས་ཡན་ལག",
+  "blog.domains.subdomainPlaceholder": "yourname",
+  "blog.domains.claim": "ལེན།",
+  "blog.domains.unavailable": "དྲ་གནས་ཡན་ལག་འདི་ཐོབ་མི་ཐུབ།",
+  "blog.domains.available": "ཐོབ་ཐུབ།",
+  "blog.domains.customComing": "རང་གི་དྲ་གནས་སྦྲེལ་བ་(blog.yourname.com ལྟ་བུ་)མྱུར་དུ་ཡོང་ངེས།"
 }

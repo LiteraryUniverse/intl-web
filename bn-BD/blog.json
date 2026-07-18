@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "পৃষ্ঠা",
   "blog.menus.kind.external": "বাহ্যিক লিংক",
   "blog.menus.pickPage": "একটি পৃষ্ঠা বাছুন…",
-  "blog.menus.addItem": "মেনু আইটেম যোগ করুন"
+  "blog.menus.addItem": "মেনু আইটেম যোগ করুন",
+  "blog.domains": "ডোমেইন",
+  "blog.domains.info": "এই ব্লগটি নিজস্ব ঠিকানা থেকে পরিবেশন করুন। পাঠকেরা পরিচ্ছন্ন লিংক পান; লেখা ও ব্যবস্থাপনা এখানেই থাকে।",
+  "blog.domains.status.active": "সক্রিয়",
+  "blog.domains.status.pending": "অপেক্ষমাণ",
+  "blog.domains.status.verified": "যাচাইকৃত",
+  "blog.domains.status.suspended": "স্থগিত",
+  "blog.domains.status.error": "ত্রুটি",
+  "blog.domains.subdomainLabel": "সাবডোমেইন",
+  "blog.domains.subdomainPlaceholder": "apnarnaam",
+  "blog.domains.claim": "নিন",
+  "blog.domains.unavailable": "এই সাবডোমেইনটি পাওয়া যাচ্ছে না।",
+  "blog.domains.available": "পাওয়া যাচ্ছে!",
+  "blog.domains.customComing": "নিজের ডোমেইন যুক্ত করা (যেমন blog.apnarnaam.com) শীঘ্রই আসছে।"
 }

@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "페이지",
   "blog.menus.kind.external": "외부 링크",
   "blog.menus.pickPage": "페이지 선택…",
-  "blog.menus.addItem": "메뉴 항목 추가"
+  "blog.menus.addItem": "메뉴 항목 추가",
+  "blog.domains": "도메인",
+  "blog.domains.info": "이 블로그를 고유 주소로 제공하세요. 독자는 깔끔한 링크를 받고, 글쓰기와 관리는 여기서 그대로 합니다.",
+  "blog.domains.status.active": "활성",
+  "blog.domains.status.pending": "대기 중",
+  "blog.domains.status.verified": "확인됨",
+  "blog.domains.status.suspended": "일시 중지됨",
+  "blog.domains.status.error": "오류",
+  "blog.domains.subdomainLabel": "서브도메인",
+  "blog.domains.subdomainPlaceholder": "yourname",
+  "blog.domains.claim": "확보",
+  "blog.domains.unavailable": "이 서브도메인은 사용할 수 없습니다.",
+  "blog.domains.available": "사용 가능!",
+  "blog.domains.customComing": "자체 도메인 연결(blog.yourname.com 등)은 곧 지원됩니다."
 }

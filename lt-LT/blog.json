@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Puslapis",
   "blog.menus.kind.external": "Išorinė nuoroda",
   "blog.menus.pickPage": "Pasirinkite puslapį…",
-  "blog.menus.addItem": "Pridėti meniu punktą"
+  "blog.menus.addItem": "Pridėti meniu punktą",
+  "blog.domains": "Domenas",
+  "blog.domains.info": "Pateikite šį tinklaraštį jo paties adresu. Skaitytojai gauna švarią nuorodą; rašymas ir tvarkymas lieka čia.",
+  "blog.domains.status.active": "Aktyvus",
+  "blog.domains.status.pending": "Laukiama",
+  "blog.domains.status.verified": "Patvirtintas",
+  "blog.domains.status.suspended": "Sustabdytas",
+  "blog.domains.status.error": "Klaida",
+  "blog.domains.subdomainLabel": "Subdomenas",
+  "blog.domains.subdomainPlaceholder": "jusuvardas",
+  "blog.domains.claim": "Užimti",
+  "blog.domains.unavailable": "Šis subdomenas nepasiekiamas.",
+  "blog.domains.available": "Pasiekiamas!",
+  "blog.domains.customComing": "Savo domeno prijungimas (pvz., blog.jusuvardas.lt) netrukus."
 }

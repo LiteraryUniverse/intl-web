@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "ページ",
   "blog.menus.kind.external": "外部リンク",
   "blog.menus.pickPage": "ページを選択…",
-  "blog.menus.addItem": "メニュー項目を追加"
+  "blog.menus.addItem": "メニュー項目を追加",
+  "blog.domains": "ドメイン",
+  "blog.domains.info": "このブログを独自のアドレスで公開できます。読者にはすっきりしたリンクが届き、執筆と管理はここで行います。",
+  "blog.domains.status.active": "有効",
+  "blog.domains.status.pending": "保留中",
+  "blog.domains.status.verified": "確認済み",
+  "blog.domains.status.suspended": "停止中",
+  "blog.domains.status.error": "エラー",
+  "blog.domains.subdomainLabel": "サブドメイン",
+  "blog.domains.subdomainPlaceholder": "yourname",
+  "blog.domains.claim": "取得",
+  "blog.domains.unavailable": "このサブドメインは利用できません。",
+  "blog.domains.available": "利用できます！",
+  "blog.domains.customComing": "独自ドメイン（blog.yourname.com など）の接続は近日対応予定です。"
 }

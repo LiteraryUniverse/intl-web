@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "صفحة",
   "blog.menus.kind.external": "رابط خارجي",
   "blog.menus.pickPage": "اختر صفحة…",
-  "blog.menus.addItem": "إضافة عنصر قائمة"
+  "blog.menus.addItem": "إضافة عنصر قائمة",
+  "blog.domains": "النطاق",
+  "blog.domains.info": "قدّم هذه المدونة من عنوانها الخاص. يحصل القرّاء على رابط أنيق؛ وتبقى الكتابة والإدارة هنا.",
+  "blog.domains.status.active": "نشط",
+  "blog.domains.status.pending": "قيد الانتظار",
+  "blog.domains.status.verified": "تم التحقق",
+  "blog.domains.status.suspended": "معلّق",
+  "blog.domains.status.error": "خطأ",
+  "blog.domains.subdomainLabel": "نطاق فرعي",
+  "blog.domains.subdomainPlaceholder": "yourname",
+  "blog.domains.claim": "حجز",
+  "blog.domains.unavailable": "هذا النطاق الفرعي غير متاح.",
+  "blog.domains.available": "متاح!",
+  "blog.domains.customComing": "ربط نطاقك الخاص (مثل blog.yourname.com) قادم قريبًا."
 }

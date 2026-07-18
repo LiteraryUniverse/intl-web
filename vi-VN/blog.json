@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Trang",
   "blog.menus.kind.external": "Liên kết ngoài",
   "blog.menus.pickPage": "Chọn một trang…",
-  "blog.menus.addItem": "Thêm mục trình đơn"
+  "blog.menus.addItem": "Thêm mục trình đơn",
+  "blog.domains": "Tên miền",
+  "blog.domains.info": "Cung cấp blog này từ địa chỉ riêng. Độc giả nhận liên kết gọn gàng; việc viết và quản lý vẫn ở đây.",
+  "blog.domains.status.active": "Hoạt động",
+  "blog.domains.status.pending": "Đang chờ",
+  "blog.domains.status.verified": "Đã xác minh",
+  "blog.domains.status.suspended": "Tạm ngưng",
+  "blog.domains.status.error": "Lỗi",
+  "blog.domains.subdomainLabel": "Tên miền phụ",
+  "blog.domains.subdomainPlaceholder": "tencuaban",
+  "blog.domains.claim": "Nhận",
+  "blog.domains.unavailable": "Tên miền phụ này không khả dụng.",
+  "blog.domains.available": "Khả dụng!",
+  "blog.domains.customComing": "Kết nối tên miền riêng (như blog.tencuaban.com) sẽ sớm ra mắt."
 }

@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "Προηγμένη σχεδίαση ιστολογίου (προσαρμοσμένο CSS)"
+  "plans.feature.customBlogCss": "Προηγμένη σχεδίαση ιστολογίου (προσαρμοσμένο CSS)",
+  "plans.feature.luSubdomain": "Ιστολόγιο στον δικό σας υποτομέα Literary Universe",
+  "plans.feature.customDomain": "Ιστολόγιο στον δικό σας τομέα"
 }

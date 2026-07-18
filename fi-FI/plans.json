@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "Edistynyt blogin ulkoasu (oma CSS)"
+  "plans.feature.customBlogCss": "Edistynyt blogin ulkoasu (oma CSS)",
+  "plans.feature.luSubdomain": "Blogi omalla Literary Universe -aliverkkotunnuksella",
+  "plans.feature.customDomain": "Blogi omalla verkkotunnuksella"
 }

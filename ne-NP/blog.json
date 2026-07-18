@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "पृष्ठ",
   "blog.menus.kind.external": "बाह्य लिंक",
   "blog.menus.pickPage": "पृष्ठ छान्नुहोस्…",
-  "blog.menus.addItem": "मेनु वस्तु थप्नुहोस्"
+  "blog.menus.addItem": "मेनु वस्तु थप्नुहोस्",
+  "blog.domains": "डोमेन",
+  "blog.domains.info": "यो ब्लगलाई यसकै आफ्नै ठेगानाबाट प्रदान गर्नुहोस्। पाठकहरूले सफा लिंक पाउँछन्; लेखन र व्यवस्थापन यहीँ रहन्छ।",
+  "blog.domains.status.active": "सक्रिय",
+  "blog.domains.status.pending": "विचाराधीन",
+  "blog.domains.status.verified": "प्रमाणित",
+  "blog.domains.status.suspended": "निलम्बित",
+  "blog.domains.status.error": "त्रुटि",
+  "blog.domains.subdomainLabel": "सबडोमेन",
+  "blog.domains.subdomainPlaceholder": "tapaiknaam",
+  "blog.domains.claim": "लिनुहोस्",
+  "blog.domains.unavailable": "यो सबडोमेन उपलब्ध छैन।",
+  "blog.domains.available": "उपलब्ध छ!",
+  "blog.domains.customComing": "आफ्नै डोमेन जोड्ने सुविधा (जस्तै blog.tapaiknaam.com) चाँडै आउँदैछ।"
 }

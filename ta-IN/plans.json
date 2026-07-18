@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "மேம்பட்ட வலைப்பதிவு வடிவமைப்பு (தனிப்பயன் CSS)"
+  "plans.feature.customBlogCss": "மேம்பட்ட வலைப்பதிவு வடிவமைப்பு (தனிப்பயன் CSS)",
+  "plans.feature.luSubdomain": "உங்கள் சொந்த Literary Universe துணை டொமைனில் வலைப்பதிவு",
+  "plans.feature.customDomain": "உங்கள் சொந்த டொமைனில் வலைப்பதிவு"
 }

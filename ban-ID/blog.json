@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "Kaca",
   "blog.menus.kind.external": "Pranala jaba",
   "blog.menus.pickPage": "Pilih kaca…",
-  "blog.menus.addItem": "Imbuhin item menu"
+  "blog.menus.addItem": "Imbuhin item menu",
+  "blog.domains": "Domain",
+  "blog.domains.info": "Sajiang blog puniki saking alamatnyane pedidi. Sang ngwacen polih pranala bersih; nyurat lan ngatur tetep iriki.",
+  "blog.domains.status.active": "Aktif",
+  "blog.domains.status.pending": "Ngantosang",
+  "blog.domains.status.verified": "Sampun kaverifikasi",
+  "blog.domains.status.suspended": "Katunda",
+  "blog.domains.status.error": "Iwang",
+  "blog.domains.subdomainLabel": "Subdomain",
+  "blog.domains.subdomainPlaceholder": "adanragane",
+  "blog.domains.claim": "Klaim",
+  "blog.domains.unavailable": "Subdomain puniki nenten wenten.",
+  "blog.domains.available": "Wenten!",
+  "blog.domains.customComing": "Nyambungang domain pedidi (sekadi blog.adanragane.com) jagi rauh."
 }

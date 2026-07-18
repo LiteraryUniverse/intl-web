@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "பக்கம்",
   "blog.menus.kind.external": "வெளி இணைப்பு",
   "blog.menus.pickPage": "ஒரு பக்கத்தைத் தேர்ந்தெடு…",
-  "blog.menus.addItem": "மெனு உருப்படியைச் சேர்"
+  "blog.menus.addItem": "மெனு உருப்படியைச் சேர்",
+  "blog.domains": "டொமைன்",
+  "blog.domains.info": "இந்த வலைப்பதிவை அதன் சொந்த முகவரியிலிருந்து வழங்குங்கள். வாசகர்களுக்கு சுத்தமான இணைப்பு கிடைக்கும்; எழுதுதலும் நிர்வாகமும் இங்கேயே இருக்கும்.",
+  "blog.domains.status.active": "செயலில்",
+  "blog.domains.status.pending": "நிலுவையில்",
+  "blog.domains.status.verified": "சரிபார்க்கப்பட்டது",
+  "blog.domains.status.suspended": "இடைநிறுத்தப்பட்டது",
+  "blog.domains.status.error": "பிழை",
+  "blog.domains.subdomainLabel": "துணை டொமைன்",
+  "blog.domains.subdomainPlaceholder": "ungalpeyar",
+  "blog.domains.claim": "எடு",
+  "blog.domains.unavailable": "இந்த துணை டொமைன் கிடைக்கவில்லை.",
+  "blog.domains.available": "கிடைக்கிறது!",
+  "blog.domains.customComing": "சொந்த டொமைனை இணைப்பது (blog.ungalpeyar.com போன்று) விரைவில் வருகிறது."
 }

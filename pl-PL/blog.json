@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Strona",
   "blog.menus.kind.external": "Link zewnętrzny",
   "blog.menus.pickPage": "Wybierz stronę…",
-  "blog.menus.addItem": "Dodaj pozycję menu"
+  "blog.menus.addItem": "Dodaj pozycję menu",
+  "blog.domains": "Domena",
+  "blog.domains.info": "Udostępniaj ten blog pod własnym adresem. Czytelnicy dostają czysty link; pisanie i zarządzanie zostają tutaj.",
+  "blog.domains.status.active": "Aktywna",
+  "blog.domains.status.pending": "Oczekuje",
+  "blog.domains.status.verified": "Zweryfikowana",
+  "blog.domains.status.suspended": "Zawieszona",
+  "blog.domains.status.error": "Błąd",
+  "blog.domains.subdomainLabel": "Subdomena",
+  "blog.domains.subdomainPlaceholder": "twojenazwisko",
+  "blog.domains.claim": "Zajmij",
+  "blog.domains.unavailable": "Ta subdomena nie jest dostępna.",
+  "blog.domains.available": "Dostępna!",
+  "blog.domains.customComing": "Podłączenie własnej domeny (np. blog.twojenazwisko.pl) już wkrótce."
 }

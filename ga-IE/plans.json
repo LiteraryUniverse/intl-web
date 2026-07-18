@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "Ardearadh blag (CSS saincheaptha)"
+  "plans.feature.customBlogCss": "Ardearadh blag (CSS saincheaptha)",
+  "plans.feature.luSubdomain": "Blag ar do fhofhearann Literary Universe féin",
+  "plans.feature.customDomain": "Blag ar d'fhearann féin"
 }

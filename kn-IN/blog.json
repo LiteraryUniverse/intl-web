@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "ಪುಟ",
   "blog.menus.kind.external": "ಬಾಹ್ಯ ಲಿಂಕ್",
   "blog.menus.pickPage": "ಪುಟವನ್ನು ಆರಿಸಿ…",
-  "blog.menus.addItem": "ಮೆನು ಐಟಂ ಸೇರಿಸಿ"
+  "blog.menus.addItem": "ಮೆನು ಐಟಂ ಸೇರಿಸಿ",
+  "blog.domains": "ಡೊಮೇನ್",
+  "blog.domains.info": "ಈ ಬ್ಲಾಗ್ ಅನ್ನು ಅದರ ಸ್ವಂತ ವಿಳಾಸದಿಂದ ಒದಗಿಸಿ. ಓದುಗರಿಗೆ ಸ್ವಚ್ಛ ಲಿಂಕ್ ಸಿಗುತ್ತದೆ; ಬರವಣಿಗೆ ಮತ್ತು ನಿರ್ವಹಣೆ ಇಲ್ಲೇ ಇರುತ್ತವೆ.",
+  "blog.domains.status.active": "ಸಕ್ರಿಯ",
+  "blog.domains.status.pending": "ಬಾಕಿ",
+  "blog.domains.status.verified": "ಪರಿಶೀಲಿಸಲಾಗಿದೆ",
+  "blog.domains.status.suspended": "ಅಮಾನತು",
+  "blog.domains.status.error": "ದೋಷ",
+  "blog.domains.subdomainLabel": "ಸಬ್‌ಡೊಮೇನ್",
+  "blog.domains.subdomainPlaceholder": "nimmahesaru",
+  "blog.domains.claim": "ಪಡೆಯಿರಿ",
+  "blog.domains.unavailable": "ಈ ಸಬ್‌ಡೊಮೇನ್ ಲಭ್ಯವಿಲ್ಲ.",
+  "blog.domains.available": "ಲಭ್ಯವಿದೆ!",
+  "blog.domains.customComing": "ನಿಮ್ಮ ಸ್ವಂತ ಡೊಮೇನ್ ಸಂಪರ್ಕ (ಉದಾ. blog.nimmahesaru.com) ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ."
 }

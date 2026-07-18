@@ -171,5 +171,18 @@
   "blog.menus.kind.page": "Stránka",
   "blog.menus.kind.external": "Externí odkaz",
   "blog.menus.pickPage": "Vyberte stránku…",
-  "blog.menus.addItem": "Přidat položku nabídky"
+  "blog.menus.addItem": "Přidat položku nabídky",
+  "blog.domains": "Doména",
+  "blog.domains.info": "Provozujte tento blog na vlastní adrese. Čtenáři dostanou hezký odkaz; psaní a správa zůstávají tady.",
+  "blog.domains.status.active": "Aktivní",
+  "blog.domains.status.pending": "Čeká",
+  "blog.domains.status.verified": "Ověřeno",
+  "blog.domains.status.suspended": "Pozastaveno",
+  "blog.domains.status.error": "Chyba",
+  "blog.domains.subdomainLabel": "Subdoména",
+  "blog.domains.subdomainPlaceholder": "vasejmeno",
+  "blog.domains.claim": "Zabrat",
+  "blog.domains.unavailable": "Tato subdoména není dostupná.",
+  "blog.domains.available": "Dostupná!",
+  "blog.domains.customComing": "Připojení vlastní domény (např. blog.vasejmeno.cz) již brzy."
 }

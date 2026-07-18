@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "ბლოგის გაფართოებული დიზაინი (საკუთარი CSS)"
+  "plans.feature.customBlogCss": "ბლოგის გაფართოებული დიზაინი (საკუთარი CSS)",
+  "plans.feature.luSubdomain": "ბლოგი საკუთარ Literary Universe ქვედომენზე",
+  "plans.feature.customDomain": "ბლოგი საკუთარ დომენზე"
 }

@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "પૃષ્ઠ",
   "blog.menus.kind.external": "બાહ્ય લિંક",
   "blog.menus.pickPage": "પૃષ્ઠ પસંદ કરો…",
-  "blog.menus.addItem": "મેનૂ આઇટમ ઉમેરો"
+  "blog.menus.addItem": "મેનૂ આઇટમ ઉમેરો",
+  "blog.domains": "ડોમેન",
+  "blog.domains.info": "આ બ્લોગને તેના પોતાના સરનામેથી પીરસો. વાચકોને સ્વચ્છ લિંક મળે છે; લેખન અને સંચાલન અહીં જ રહે છે.",
+  "blog.domains.status.active": "સક્રિય",
+  "blog.domains.status.pending": "બાકી",
+  "blog.domains.status.verified": "ચકાસાયેલ",
+  "blog.domains.status.suspended": "સ્થગિત",
+  "blog.domains.status.error": "ભૂલ",
+  "blog.domains.subdomainLabel": "સબડોમેન",
+  "blog.domains.subdomainPlaceholder": "tamarunaam",
+  "blog.domains.claim": "લો",
+  "blog.domains.unavailable": "આ સબડોમેન ઉપલબ્ધ નથી.",
+  "blog.domains.available": "ઉપલબ્ધ છે!",
+  "blog.domains.customComing": "તમારું પોતાનું ડોમેન જોડવું (જેમ કે blog.tamarunaam.com) જલદી આવી રહ્યું છે."
 }

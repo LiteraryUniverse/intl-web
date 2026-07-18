@@ -174,5 +174,18 @@
   "blog.menus.kind.page": "पृष्ठ",
   "blog.menus.kind.external": "बाह्य दुवा",
   "blog.menus.pickPage": "पृष्ठ निवडा…",
-  "blog.menus.addItem": "मेनू आयटम जोडा"
+  "blog.menus.addItem": "मेनू आयटम जोडा",
+  "blog.domains": "डोमेन",
+  "blog.domains.info": "हा ब्लॉग त्याच्या स्वतःच्या पत्त्यावरून द्या. वाचकांना स्वच्छ लिंक मिळते; लेखन आणि व्यवस्थापन इथेच राहते.",
+  "blog.domains.status.active": "सक्रिय",
+  "blog.domains.status.pending": "प्रलंबित",
+  "blog.domains.status.verified": "पडताळलेले",
+  "blog.domains.status.suspended": "निलंबित",
+  "blog.domains.status.error": "त्रुटी",
+  "blog.domains.subdomainLabel": "सबडोमेन",
+  "blog.domains.subdomainPlaceholder": "tumchenav",
+  "blog.domains.claim": "घ्या",
+  "blog.domains.unavailable": "हे सबडोमेन उपलब्ध नाही.",
+  "blog.domains.available": "उपलब्ध आहे!",
+  "blog.domains.customComing": "स्वतःचे डोमेन जोडणे (जसे blog.tumchenav.com) लवकरच येत आहे."
 }

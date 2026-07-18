@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Go to Stripe Connect",
   "payment.listMethods.cards": "Cards",
   "plans.account.Adventurer": "Adventurer",
-  "plans.feature.customBlogCss": "Thiết kế blog nâng cao (CSS tùy chỉnh)"
+  "plans.feature.customBlogCss": "Thiết kế blog nâng cao (CSS tùy chỉnh)",
+  "plans.feature.luSubdomain": "Blog trên tên miền phụ Literary Universe của riêng bạn",
+  "plans.feature.customDomain": "Blog trên tên miền riêng của bạn"
 }

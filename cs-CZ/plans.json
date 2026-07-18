@@ -400,5 +400,7 @@
   "stripeConnect.settings.goToStripeButton": "Přejít na Stripe Connect",
   "payment.listMethods.cards": "Karty",
   "plans.account.Adventurer": "Dobrodruh",
-  "plans.feature.customBlogCss": "Pokročilý vzhled blogu (vlastní CSS)"
+  "plans.feature.customBlogCss": "Pokročilý vzhled blogu (vlastní CSS)",
+  "plans.feature.luSubdomain": "Blog na vlastní subdoméně Literary Universe",
+  "plans.feature.customDomain": "Blog na vlastní doméně"
 }
