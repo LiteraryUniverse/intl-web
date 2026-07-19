@@ -22,7 +22,7 @@
   "events.selection.origin": ".i lo fasnu noi mukti",
   "events.origin.author": ".i lo skicu",
   "events.origin.organizations": ".i lo jecta",
-  "events.origin.lu": "kevna cfika be la lojban",
+  "events.origin.lu": "lo fasnu pe la Literary Universe",
   "events.visibility.label": "Event visibility",
   "events.visibility.public": "Public - anyone can see this event",
   "events.visibility.owner": "Owner - only {type, select,\n    group {members of your group}\n    universe {collaborators and fans of the universe}\n    organization {members of your organization}\n    other {you and the people you invite}\n  } can see this event",

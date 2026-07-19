@@ -25,8 +25,8 @@
   "challenges.victory": "Sveikiname! Jūs baigėte šį iššūkį.",
   "challenges.defeat": "Deja, jūs nepavykdėte šio iššūkio.",
   "challenges.baseline": "Šios istorijos dabartinis žodžių skaičius yra {wordcount, number}, tai bus pradžios taškas.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "Diena",
+  "challenges.words": "Žodžiai",
+  "challenges.actualProgress": "Diena {day}: {words} žodžių",
+  "challenges.minimumRequired": "Mažiausiai reikalinga: {words} žodžių"
 }

@@ -25,8 +25,8 @@
   "challenges.victory": "Comhghairdeas! Tá tú tar éis an dúshláin seo a chríochnú.",
   "challenges.defeat": "Áfach, níor chríochnaigh tú an dúshlán seo.",
   "challenges.baseline": "Is é an líon focal reatha don scéal seo {wordcount, number}, seo a bheidh mar thús áite.",
-  "challenges.day": "Day",
-  "challenges.words": "Words",
-  "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.day": "Lá",
+  "challenges.words": "Focail",
+  "challenges.actualProgress": "Lá {day}: {words} focal",
+  "challenges.minimumRequired": "Íosmhéid riachtanach: {words} focal"
 }

@@ -1,8 +1,8 @@
 {
   "feed.name": "Féach",
   "feed.post.new": "Altachán nua",
-  "feed.post.like": "Cosaint post",
-  "feed.post.unlike": "Ná cosaint post",
+  "feed.post.like": "Mol an phostáil",
+  "feed.post.unlike": "Ná mol an phostáil",
   "feed.empty": "Gan iontrálacha sa bhfuinneog.",
   "feed.placeholder": "Cad atá ar do intinn?"
 }
