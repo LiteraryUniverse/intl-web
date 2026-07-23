@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "Kunci API ngidini situs njaba (kayata situs web WIX) maca data publik organisasimu. Anggep kaya tembung sandhi lan aja nate dibagi.",
+  "org.apiKeys.noKeys": "Organisasi iki durung duwe kunci API apa wae.",
+  "org.apiKeys.create.title": "Gawe kunci waca publik",
+  "org.apiKeys.create.description": "Kunci iki menehi akses waca-thok menyang data publik organisasimu (profil, crita sing wis diterbitake, jagad, lan kursus) supaya bisa dipampang ing situs njaba.",
+  "org.apiKeys.name.placeholder": "contone, situs web WIX",
+  "org.apiKeys.revoke": "Batalake",
   "org.auditLog.title": "Audit log",
   "org.settings.title": "Organization settings",
   "org.settings.name": "Organization name",

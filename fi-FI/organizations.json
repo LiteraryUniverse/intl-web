@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "API-avaimet antavat ulkoiselle sivustolle (kuten WIX-sivustolle) mahdollisuuden lukea organisaatiosi julkisia tietoja. Käsittele niitä kuin salasanoja äläkä koskaan jaa niitä.",
+  "org.apiKeys.noKeys": "Tällä organisaatiolla ei ole vielä yhtään API-avainta.",
+  "org.apiKeys.create.title": "Luo julkinen lukuavain",
+  "org.apiKeys.create.description": "Tämä avain myöntää vain lukuoikeuden organisaatiosi julkisiin tietoihin (profiili, julkaistut tarinat, universumit ja kurssit), jotta voit näyttää ne ulkoisella sivustolla.",
+  "org.apiKeys.name.placeholder": "esim. WIX-sivusto",
+  "org.apiKeys.revoke": "Mitätöi",
   "org.auditLog.title": "Tarkastusloki",
   "org.settings.title": "Organisaation asetukset",
   "org.settings.name": "Organisaation nimi",

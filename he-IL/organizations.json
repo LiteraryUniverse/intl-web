@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "מפתחות API מאפשרים לאתר חיצוני (כגון אתר WIX) לקרוא את הנתונים הציבוריים של הארגון שלך. התייחסו אליהם כמו לסיסמאות ולעולם אל תשתפו אותם.",
+  "org.apiKeys.noKeys": "לארגון הזה עדיין אין מפתחות API.",
+  "org.apiKeys.create.title": "יצירת מפתח קריאה ציבורי",
+  "org.apiKeys.create.description": "מפתח זה מעניק גישת קריאה בלבד לנתונים הציבוריים של הארגון שלך (פרופיל, סיפורים שפורסמו, יקומים וקורסים) כדי שתוכלו להציג אותם באתר חיצוני.",
+  "org.apiKeys.name.placeholder": "לדוגמה, אתר WIX",
+  "org.apiKeys.revoke": "בטל",
   "org.auditLog.title": "יומן הבדיקה",
   "org.settings.title": "הגדרות הארגון",
   "org.settings.name": "שם הארגון",

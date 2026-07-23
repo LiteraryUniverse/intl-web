@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "Kunci API ngicénin galah ring situs eksternal (minakadi situs web WIX) mamaca data publik organisasi ragané. Anggé sakadi kata sandi tur sampunang naenin kabagiang ring anak lianan.",
+  "org.apiKeys.noKeys": "Organisasi puniki durung madué kunci API.",
+  "org.apiKeys.create.title": "Ngae kunci maca publik",
+  "org.apiKeys.create.description": "Kunci puniki ngicénin akses wacén-manten ring data publik organisasi ragané (profil, satua sané sampun kamedalang, jagat, lan kursus) mangda prasida kapajang ring situs eksternal.",
+  "org.apiKeys.name.placeholder": "conto, situs web WIX",
+  "org.apiKeys.revoke": "Batalang",
   "org.auditLog.title": "Audit log",
   "org.settings.title": "Organization settings",
   "org.settings.name": "Organization name",

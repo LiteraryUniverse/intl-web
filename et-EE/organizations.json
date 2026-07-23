@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "API-võtmed võimaldavad välisel saidil (näiteks WIX-i veebisaidil) lugeda sinu organisatsiooni avalikke andmeid. Käsitle neid nagu paroole ja ära jaga neid kunagi.",
+  "org.apiKeys.noKeys": "Sellel organisatsioonil pole veel ühtegi API-võtit.",
+  "org.apiKeys.create.title": "Loo avalik lugemisvõti",
+  "org.apiKeys.create.description": "See võti annab kirjutuskaitstud juurdepääsu sinu organisatsiooni avalikele andmetele (profiil, avaldatud lood, universumid ja kursused), et saaksid neid välisel saidil kuvada.",
+  "org.apiKeys.name.placeholder": "nt WIX-i veebisait",
+  "org.apiKeys.revoke": "Tühista",
   "org.auditLog.title": "Tegevusloend",
   "org.settings.title": "Organisatsiooni seaded",
   "org.settings.name": "Organisatsiooni nimi",

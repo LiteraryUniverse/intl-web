@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "API kľúče umožňujú externej webovej stránke (napríklad stránke na platforme WIX) čítať verejné údaje vašej organizácie. Zaobchádzajte s nimi ako s heslami a nikdy ich nezdieľajte.",
+  "org.apiKeys.noKeys": "Táto organizácia zatiaľ nemá žiadne API kľúče.",
+  "org.apiKeys.create.title": "Vytvoriť verejný kľúč na čítanie",
+  "org.apiKeys.create.description": "Tento kľúč udeľuje prístup iba na čítanie k verejným údajom vašej organizácie (profil, publikované príbehy, vesmíry a kurzy), aby ste ich mohli zobraziť na externej webovej stránke.",
+  "org.apiKeys.name.placeholder": "napr. web na WIX",
+  "org.apiKeys.revoke": "Odvolať",
   "org.auditLog.title": "Denník auditu",
   "org.settings.title": "Nastavenia organizácie",
   "org.settings.name": "Meno organizácie",

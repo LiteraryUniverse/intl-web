@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "API anahtarları, harici bir sitenin (örneğin bir WIX web sitesi) kuruluşunuzun herkese açık verilerini okumasına olanak tanır. Bunları parolalar gibi ele alın ve asla paylaşmayın.",
+  "org.apiKeys.noKeys": "Bu kuruluşun henüz hiç API anahtarı yok.",
+  "org.apiKeys.create.title": "Herkese açık okuma anahtarı oluştur",
+  "org.apiKeys.create.description": "Bu anahtar, kuruluşunuzun herkese açık verilerine (profil, yayımlanan hikâyeler, evrenler ve kurslar) yalnızca okuma erişimi vererek bunları harici bir sitede görüntülemenizi sağlar.",
+  "org.apiKeys.name.placeholder": "örn., WIX web sitesi",
+  "org.apiKeys.revoke": "İptal et",
   "org.auditLog.title": "Denetim kaydı",
   "org.settings.title": "Organizasyon ayarları",
   "org.settings.name": "Organizasyon adı",

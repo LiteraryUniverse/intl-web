@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "API-Schlüssel ermöglichen es einer externen Website (etwa einer WIX-Website), die öffentlichen Daten deiner Organisation zu lesen. Behandle sie wie Passwörter und gib sie niemals weiter.",
+  "org.apiKeys.noKeys": "Diese Organisation hat noch keine API-Schlüssel.",
+  "org.apiKeys.create.title": "Öffentlichen Leseschlüssel erstellen",
+  "org.apiKeys.create.description": "Dieser Schlüssel gewährt schreibgeschützten Zugriff auf die öffentlichen Daten deiner Organisation (Profil, veröffentlichte Geschichten, Universen und Kurse), damit du sie auf einer externen Website anzeigen kannst.",
+  "org.apiKeys.name.placeholder": "z. B. WIX-Website",
+  "org.apiKeys.revoke": "Widerrufen",
   "org.auditLog.title": "Audit-Protokoll",
   "org.settings.title": "Organisationseinstellungen",
   "org.settings.name": "Name der Organisation",

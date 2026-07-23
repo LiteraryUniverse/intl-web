@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "API 金鑰可讓外部網站（例如 WIX 網站）讀取貴組織的公開資料。請像密碼一樣妥善保管，切勿與他人分享。",
+  "org.apiKeys.noKeys": "此組織尚未擁有任何 API 金鑰。",
+  "org.apiKeys.create.title": "建立公開讀取金鑰",
+  "org.apiKeys.create.description": "此金鑰授予對貴組織公開資料（個人檔案、已發佈的故事、宇宙與課程）的唯讀存取權限，讓您能將其顯示於外部網站。",
+  "org.apiKeys.name.placeholder": "例如：WIX 網站",
+  "org.apiKeys.revoke": "撤銷",
   "org.auditLog.title": "稽核日誌",
   "org.settings.title": "組織設定",
   "org.settings.name": "組織名稱",

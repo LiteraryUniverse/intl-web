@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "Le chiavi API consentono a un sito esterno (come un sito web WIX) di leggere i dati pubblici della tua organizzazione. Trattale come password e non condividerle mai.",
+  "org.apiKeys.noKeys": "Questa organizzazione non ha ancora nessuna chiave API.",
+  "org.apiKeys.create.title": "Crea una chiave di lettura pubblica",
+  "org.apiKeys.create.description": "Questa chiave concede l'accesso in sola lettura ai dati pubblici della tua organizzazione (profilo, storie pubblicate, universi e corsi) così da poterli mostrare su un sito esterno.",
+  "org.apiKeys.name.placeholder": "es., sito web WIX",
+  "org.apiKeys.revoke": "Revoca",
   "org.auditLog.title": "Registro di controllo",
   "org.settings.title": "Impostazioni dell'organizzazione",
   "org.settings.name": "Nome dell'organizzazione",

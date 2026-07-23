@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "Kunci API membolehkan tapak luaran (seperti tapak web WIX) membaca data awam organisasi anda. Perlakukannya seperti kata laluan dan jangan sekali-kali berkongsinya.",
+  "org.apiKeys.noKeys": "Organisasi ini belum mempunyai sebarang kunci API lagi.",
+  "org.apiKeys.create.title": "Cipta kunci baca awam",
+  "org.apiKeys.create.description": "Kunci ini memberikan akses baca sahaja kepada data awam organisasi anda (profil, cerita yang diterbitkan, alam semesta dan kursus) supaya anda boleh memaparkannya di tapak luaran.",
+  "org.apiKeys.name.placeholder": "cth., tapak web WIX",
+  "org.apiKeys.revoke": "Batalkan",
   "org.auditLog.title": "Log Audit",
   "org.settings.title": "Tetapan Organisasi",
   "org.settings.name": "Nama Organisasi",

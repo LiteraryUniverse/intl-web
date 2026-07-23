@@ -1,4 +1,10 @@
 {
+  "org.apiKeys.description": "API raktai leidžia išorinei svetainei (pavyzdžiui, WIX svetainei) skaityti viešus jūsų organizacijos duomenis. Elkitės su jais kaip su slaptažodžiais ir niekada jų neatskleiskite.",
+  "org.apiKeys.noKeys": "Ši organizacija dar neturi jokių API raktų.",
+  "org.apiKeys.create.title": "Sukurti viešą skaitymo raktą",
+  "org.apiKeys.create.description": "Šis raktas suteikia tik skaitymo prieigą prie viešų jūsų organizacijos duomenų (profilio, publikuotų istorijų, visatų ir kursų), kad galėtumėte juos rodyti išorinėje svetainėje.",
+  "org.apiKeys.name.placeholder": "pvz., WIX svetainė",
+  "org.apiKeys.revoke": "Atšaukti",
   "org.auditLog.title": "Audito žurnalas",
   "org.settings.title": "Organizacijos nustatymai",
   "org.settings.name": "Organizacijos pavadinimas",
