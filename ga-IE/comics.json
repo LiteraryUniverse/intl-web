@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Greannáin a chuireann an scéal seo in oiriúint",
   "comics.aiModel": "Múnla IS a úsáideadh",
+  "comics.attachExisting": "Ceangail greannán atá ann cheana",
   "comics.buyFull": "Ceannaigh — {price}",
   "comics.chapter.published": "Foilsithe",
   "comics.chapter.publishLater": "Foilsigh níos déanaí",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Eagarthóir míre sraithe",
   "comics.layers.pageNumber": "(leathanach {number})",
   "comics.layers.static": "statach",
+  "comics.manage.intro": "Greannáin, manga agus webtoons atá nasctha le {name}. Cruthaigh ceann nua nó ceangail ceann atá ann cheana.",
   "comics.settings.universe": "Cruinne",
   "comics.tag.category": "Catagóir",
   "comics.tag.finish": "Críochnaigh an chlibeáil",

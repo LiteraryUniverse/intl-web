@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Komik sing ngadaptasi crita iki",
   "comics.aiModel": "Model AI sing dienggo",
+  "comics.attachExisting": "Gandhengake komik sing wis ana",
   "comics.buyFull": "Tuku — {price}",
   "comics.chapter.published": "Wis diterbitake",
   "comics.chapter.publishLater": "Terbitake mengko",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Editor item lapisan",
   "comics.layers.pageNumber": "(kaca {number})",
   "comics.layers.static": "statis",
+  "comics.manage.intro": "Komik, manga, lan webtoon sing kagandheng karo {name}. Gawe sing anyar utawa gandhengake sing wis ana.",
   "comics.settings.universe": "Jagad",
   "comics.tag.category": "Kategori",
   "comics.tag.finish": "Rampungake menehi tag",

@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "ਇਸ ਕਹਾਣੀ ਨੂੰ ਢਾਲਣ ਵਾਲੀਆਂ ਕਾਮਿਕਸ",
   "comics.aiModel": "ਵਰਤਿਆ ਗਿਆ AI ਮਾਡਲ",
+  "comics.attachExisting": "ਮੌਜੂਦਾ ਕਾਮਿਕ ਜੋੜੋ",
   "comics.buyFull": "ਖਰੀਦੋ — {price}",
   "comics.chapter.published": "ਪ੍ਰਕਾਸ਼ਿਤ",
   "comics.chapter.publishLater": "ਬਾਅਦ ਵਿੱਚ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "ਲੇਅਰ ਆਈਟਮ ਸੰਪਾਦਕ",
   "comics.layers.pageNumber": "(ਪੰਨਾ {number})",
   "comics.layers.static": "ਸਥਿਰ",
+  "comics.manage.intro": "{name} ਨਾਲ ਜੁੜੀਆਂ ਕਾਮਿਕਸ, ਮੰਗਾ ਅਤੇ ਵੈਬਟੂਨ। ਨਵੀਂ ਬਣਾਓ ਜਾਂ ਮੌਜੂਦਾ ਜੋੜੋ।",
   "comics.settings.universe": "ਬ੍ਰਹਮੰਡ",
   "comics.tag.category": "ਸ਼੍ਰੇਣੀ",
   "comics.tag.finish": "ਟੈਗਿੰਗ ਪੂਰੀ ਕਰੋ",

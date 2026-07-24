@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "ഈ കഥ അവലംബമാക്കിയ കോമിക്സ്",
   "comics.aiModel": "ഉപയോഗിച്ച AI മോഡൽ",
+  "comics.attachExisting": "നിലവിലുള്ള കോമിക് ചേർക്കുക",
   "comics.buyFull": "വാങ്ങുക — {price}",
   "comics.chapter.published": "പ്രസിദ്ധീകരിച്ചു",
   "comics.chapter.publishLater": "പിന്നീട് പ്രസിദ്ധീകരിക്കുക",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "ലെയർ ഇനം എഡിറ്റർ",
   "comics.layers.pageNumber": "(പേജ് {number})",
   "comics.layers.static": "സ്ഥിരം",
+  "comics.manage.intro": "{name} മായി ബന്ധിപ്പിച്ച കോമിക്സ്, മാംഗ, വെബ്ടൂൺ. പുതിയത് സൃഷ്ടിക്കുക അല്ലെങ്കിൽ നിലവിലുള്ളത് ചേർക്കുക.",
   "comics.settings.universe": "ബ്രഹ്മാണ്ഡം",
   "comics.tag.category": "വിഭാഗം",
   "comics.tag.finish": "ടാഗിംഗ് പൂർത്തിയാക്കുക",

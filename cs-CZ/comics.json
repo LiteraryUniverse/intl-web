@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Komiksy zpracovávající tento příběh",
   "comics.aiModel": "Použitý AI model",
+  "comics.attachExisting": "Připojit existující komiks",
   "comics.buyFull": "Koupit — {price}",
   "comics.chapter.published": "Zveřejněno",
   "comics.chapter.publishLater": "Zveřejnit později",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Editor položek vrstvy",
   "comics.layers.pageNumber": "(stránka {number})",
   "comics.layers.static": "statické",
+  "comics.manage.intro": "Komiksy, manga a webtoony propojené s {name}. Vytvořte nový, nebo připojte existující.",
   "comics.settings.universe": "Vesmír",
   "comics.tag.category": "Kategorie",
   "comics.tag.finish": "Dokončit propojování",

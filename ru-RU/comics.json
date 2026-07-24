@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Комиксы по этой истории",
   "comics.aiModel": "Использованная ИИ-модель",
+  "comics.attachExisting": "Прикрепить существующий комикс",
   "comics.buyFull": "Купить — {price}",
   "comics.chapter.published": "Опубликовано",
   "comics.chapter.publishLater": "Опубликовать позже",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Редактор элемента слоя",
   "comics.layers.pageNumber": "(страница {number})",
   "comics.layers.static": "статичный",
+  "comics.manage.intro": "Комиксы, манга и вебтуны, связанные с {name}. Создайте новый или прикрепите существующий.",
   "comics.settings.universe": "Вселенная",
   "comics.tag.category": "Категория",
   "comics.tag.finish": "Завершить разметку",

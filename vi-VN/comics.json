@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Truyện tranh chuyển thể từ truyện này",
   "comics.aiModel": "Mô hình AI đã dùng",
+  "comics.attachExisting": "Đính kèm truyện tranh có sẵn",
   "comics.buyFull": "Mua — {price}",
   "comics.chapter.published": "Đã xuất bản",
   "comics.chapter.publishLater": "Xuất bản sau",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Trình chỉnh sửa mục của lớp",
   "comics.layers.pageNumber": "(trang {number})",
   "comics.layers.static": "tĩnh",
+  "comics.manage.intro": "Truyện tranh, manga và webtoon liên kết với {name}. Tạo mới hoặc đính kèm truyện đã có.",
   "comics.settings.universe": "Vũ trụ",
   "comics.tag.category": "Danh mục",
   "comics.tag.finish": "Hoàn tất gắn thẻ",

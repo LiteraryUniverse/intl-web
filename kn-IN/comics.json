@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "ಈ ಕಥೆಯನ್ನು ಅಳವಡಿಸುವ ಚಿತ್ರಕಥೆಗಳು",
   "comics.aiModel": "ಬಳಸಿದ AI ಮಾದರಿ",
+  "comics.attachExisting": "ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಕಾಮಿಕ್ ಲಗತ್ತಿಸಿ",
   "comics.buyFull": "ಖರೀದಿಸಿ — {price}",
   "comics.chapter.published": "ಪ್ರಕಟಿಸಲಾಗಿದೆ",
   "comics.chapter.publishLater": "ನಂತರ ಪ್ರಕಟಿಸಿ",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "ಪದರ ಐಟಂ ಸಂಪಾದಕ",
   "comics.layers.pageNumber": "(ಪುಟ {number})",
   "comics.layers.static": "ಸ್ಥಿರ",
+  "comics.manage.intro": "{name} ಗೆ ಲಿಂಕ್ ಆಗಿರುವ ಕಾಮಿಕ್ಸ್, ಮಂಗಾ ಮತ್ತು ವೆಬ್‌ಟೂನ್‌ಗಳು. ಹೊಸದನ್ನು ರಚಿಸಿ ಅಥವಾ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವುದನ್ನು ಲಗತ್ತಿಸಿ.",
   "comics.settings.universe": "ಸಂಪೂರ್ಣ ಬ್ರಹ್ಮಾಂಡ",
   "comics.tag.category": "ವರ್ಗ",
   "comics.tag.finish": "ಟ್ಯಾಗ್ ಮಾಡುವುದನ್ನು ಮುಗಿಸಿ",

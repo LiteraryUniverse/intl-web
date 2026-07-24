@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Komik yang mengadaptasi cerita ini",
   "comics.aiModel": "Model AI digunakan",
+  "comics.attachExisting": "Lampirkan komik sedia ada",
   "comics.buyFull": "Beli — {price}",
   "comics.chapter.published": "Diterbitkan",
   "comics.chapter.publishLater": "Terbitkan kemudian",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Editor item lapisan",
   "comics.layers.pageNumber": "(halaman {number})",
   "comics.layers.static": "statik",
+  "comics.manage.intro": "Komik, manga dan webtoon yang dipautkan dengan {name}. Cipta yang baharu atau lampirkan yang sedia ada.",
   "comics.settings.universe": "Univers",
   "comics.tag.category": "Kategori",
   "comics.tag.finish": "Selesai menanda",

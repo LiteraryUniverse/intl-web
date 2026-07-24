@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "この物語を漫画化した作品",
   "comics.aiModel": "使用したAIモデル",
+  "comics.attachExisting": "既存の作品を紐付ける",
   "comics.buyFull": "購入 — {price}",
   "comics.chapter.published": "公開済み",
   "comics.chapter.publishLater": "後で公開",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "レイヤー項目エディター",
   "comics.layers.pageNumber": "（{number}ページ）",
   "comics.layers.static": "固定",
+  "comics.manage.intro": "{name} に紐付いたコミック・漫画・ウェブトゥーン。新規作成するか、既存の作品を紐付けます。",
   "comics.settings.universe": "宇宙",
   "comics.tag.category": "カテゴリ",
   "comics.tag.finish": "タグ付けを完了",

@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Mga komiks na umaangkop sa kuwentong ito",
   "comics.aiModel": "Ginamit na AI model",
+  "comics.attachExisting": "Ikabit ang umiiral nang komiks",
   "comics.buyFull": "Bumili — {price}",
   "comics.chapter.published": "Nailathala",
   "comics.chapter.publishLater": "Ilathala mamaya",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Editor ng item ng layer",
   "comics.layers.pageNumber": "(pahina {number})",
   "comics.layers.static": "static",
+  "comics.manage.intro": "Mga komiks, manga at webtoon na nakaugnay sa {name}. Gumawa ng bago o ikabit ang isang mayroon na.",
   "comics.settings.universe": "Uniberso",
   "comics.tag.category": "Kategorya",
   "comics.tag.finish": "Tapusin ang pag-tag",

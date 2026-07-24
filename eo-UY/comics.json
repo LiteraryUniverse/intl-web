@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Komiksoj adaptantaj ĉi tiun rakonton",
   "comics.aiModel": "Uzita AI-modelo",
+  "comics.attachExisting": "Ligu ekzistantan komikson",
   "comics.buyFull": "Aĉeti — {price}",
   "comics.chapter.published": "Publikigita",
   "comics.chapter.publishLater": "Publikigi poste",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Redaktilo de tavoleroj",
   "comics.layers.pageNumber": "(paĝo {number})",
   "comics.layers.static": "statika",
+  "comics.manage.intro": "Komiksoj, mangaoj kaj webtoon-oj ligitaj al {name}. Kreu novan aŭ ligu ekzistantan.",
   "comics.settings.universe": "Universo",
   "comics.tag.category": "Kategorio",
   "comics.tag.finish": "Fini etikedadon",

@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "이 이야기를 각색한 만화",
   "comics.aiModel": "사용된 AI 모델",
+  "comics.attachExisting": "기존 만화 연결",
   "comics.buyFull": "구매 — {price}",
   "comics.chapter.published": "게시됨",
   "comics.chapter.publishLater": "나중에 게시",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "레이어 항목 편집기",
   "comics.layers.pageNumber": "({number}페이지)",
   "comics.layers.static": "정적",
+  "comics.manage.intro": "{name}에 연결된 코믹스, 만화, 웹툰입니다. 새로 만들거나 기존 작품을 연결하세요.",
   "comics.settings.universe": "우주",
   "comics.tag.category": "카테고리",
   "comics.tag.finish": "태그 지정 완료",

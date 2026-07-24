@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "קומיקסים המעבדים את הסיפור הזה",
   "comics.aiModel": "מודל הבינה המלאכותית שנעשה בו שימוש",
+  "comics.attachExisting": "צרף קומיקס קיים",
   "comics.buyFull": "קנייה — {price}",
   "comics.chapter.published": "פורסם",
   "comics.chapter.publishLater": "פרסום מאוחר יותר",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "עורך פריט שכבה",
   "comics.layers.pageNumber": "(עמוד {number})",
   "comics.layers.static": "סטטי",
+  "comics.manage.intro": "קומיקס, מנגה ווובטונים המקושרים ל־{name}. צרו חדש או צרפו קיים.",
   "comics.settings.universe": "יקום",
   "comics.tag.category": "קטגוריה",
   "comics.tag.finish": "סיום התיוג",

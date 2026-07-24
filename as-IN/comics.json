@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "এই কাহিনী অভিযোজন কৰা কমিকসমূহ",
   "comics.aiModel": "ব্যৱহৃত AI মডেল",
+  "comics.attachExisting": "এটা বৰ্তমানৰ কমিক সংলগ্ন কৰক",
   "comics.buyFull": "কিনক — {price}",
   "comics.chapter.published": "প্ৰকাশিত",
   "comics.chapter.publishLater": "পিছত প্ৰকাশ কৰক",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "স্তৰ আইটেম সম্পাদক",
   "comics.layers.pageNumber": "(পৃষ্ঠা {number})",
   "comics.layers.static": "স্থিৰ",
+  "comics.manage.intro": "{name}ৰ সৈতে সংযুক্ত কমিক, মাংগা আৰু ৱেবটুন। এটা নতুন সৃষ্টি কৰক বা বৰ্তমানৰ এটা সংলগ্ন কৰক।",
   "comics.settings.universe": "মহাজাগতিক",
   "comics.tag.category": "শ্ৰেণী",
   "comics.tag.finish": "টেগিং সমাপ্ত কৰক",

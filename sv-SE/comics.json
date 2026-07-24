@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Serier som bygger på den här berättelsen",
   "comics.aiModel": "Använd AI-modell",
+  "comics.attachExisting": "Koppla en befintlig serie",
   "comics.buyFull": "Köp — {price}",
   "comics.chapter.published": "Publicerad",
   "comics.chapter.publishLater": "Publicera senare",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Redigerare för lagerobjekt",
   "comics.layers.pageNumber": "(sida {number})",
   "comics.layers.static": "statisk",
+  "comics.manage.intro": "Serier, manga och webtoons som är kopplade till {name}. Skapa en ny eller koppla en befintlig.",
   "comics.settings.universe": "Universum",
   "comics.tag.category": "Kategori",
   "comics.tag.finish": "Slutför taggning",

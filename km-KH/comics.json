@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "សៀវភៅតុក្កតាដែលកែសម្រួលរឿងនេះ",
   "comics.aiModel": "ម៉ូដែល AI ដែលបានប្រើ",
+  "comics.attachExisting": "ភ្ជាប់សៀវភៅរូបភាពដែលមានស្រាប់",
   "comics.buyFull": "ទិញ — {price}",
   "comics.chapter.published": "បានចេញផ្សាយ",
   "comics.chapter.publishLater": "ចេញផ្សាយពេលក្រោយ",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "កម្មវិធីកែសម្រួលធាតុស្រទាប់",
   "comics.layers.pageNumber": "(ទំព័រ {number})",
   "comics.layers.static": "ថេរ",
+  "comics.manage.intro": "សៀវភៅរូបភាព ម៉ាំងហ្គា និងវេបធូនដែលភ្ជាប់ជាមួយ {name}។ បង្កើតថ្មី ឬភ្ជាប់ដែលមានស្រាប់។",
   "comics.settings.universe": "ពិភពលោក",
   "comics.tag.category": "ប្រភេទ",
   "comics.tag.finish": "បញ្ចប់ការដាក់ស្លាក",

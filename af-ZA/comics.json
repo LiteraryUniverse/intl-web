@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Strokiesprente wat hierdie storie verwerk",
   "comics.aiModel": "KI-model gebruik",
+  "comics.attachExisting": "Heg 'n bestaande strokiesprent aan",
   "comics.buyFull": "Koop — {price}",
   "comics.chapter.published": "Gepubliseer",
   "comics.chapter.publishLater": "Publiseer later",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Laagitem-redigeerder",
   "comics.layers.pageNumber": "(bladsy {number})",
   "comics.layers.static": "staties",
+  "comics.manage.intro": "Strokiesprente, manga en webtoons wat aan {name} gekoppel is. Skep 'n nuwe een of heg 'n bestaande een aan.",
   "comics.settings.universe": "Heelal",
   "comics.tag.category": "Kategorie",
   "comics.tag.finish": "Voltooi merking",

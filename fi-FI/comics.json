@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Tätä tarinaa mukauttavat sarjakuvat",
   "comics.aiModel": "Käytetty tekoälymalli",
+  "comics.attachExisting": "Liitä olemassa oleva sarjakuva",
   "comics.buyFull": "Osta — {price}",
   "comics.chapter.published": "Julkaistu",
   "comics.chapter.publishLater": "Julkaise myöhemmin",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Tason kohteen muokkain",
   "comics.layers.pageNumber": "(sivu {number})",
   "comics.layers.static": "staattinen",
+  "comics.manage.intro": "Kohteeseen {name} liitetyt sarjakuvat, mangat ja webtoonit. Luo uusi tai liitä olemassa oleva.",
   "comics.settings.universe": "Universumi",
   "comics.tag.category": "Kategoria",
   "comics.tag.finish": "Lopeta merkitseminen",

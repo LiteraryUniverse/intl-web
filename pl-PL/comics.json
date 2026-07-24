@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Komiksy na podstawie tej historii",
   "comics.aiModel": "Użyty model AI",
+  "comics.attachExisting": "Dołącz istniejący komiks",
   "comics.buyFull": "Kup — {price}",
   "comics.chapter.published": "Opublikowano",
   "comics.chapter.publishLater": "Opublikuj później",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Edytor elementu warstwy",
   "comics.layers.pageNumber": "(strona {number})",
   "comics.layers.static": "statyczny",
+  "comics.manage.intro": "Komiksy, mangi i webtoony powiązane z {name}. Utwórz nowy lub dołącz istniejący.",
   "comics.settings.universe": "Uniwersum",
   "comics.tag.category": "Kategoria",
   "comics.tag.finish": "Zakończ tagowanie",

@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Комікси за цією історією",
   "comics.aiModel": "Використана модель ШІ",
+  "comics.attachExisting": "Прикріпити наявний комікс",
   "comics.buyFull": "Купити — {price}",
   "comics.chapter.published": "Опубліковано",
   "comics.chapter.publishLater": "Опублікувати пізніше",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Редактор елемента шару",
   "comics.layers.pageNumber": "(сторінка {number})",
   "comics.layers.static": "статичний",
+  "comics.manage.intro": "Комікси, манґа та вебтуни, пов'язані з {name}. Створіть новий або прикріпіть наявний.",
   "comics.settings.universe": "Всесвіт",
   "comics.tag.category": "Категорія",
   "comics.tag.finish": "Завершити розмітку",

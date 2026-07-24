@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Šią istoriją adaptuojantys komiksai",
   "comics.aiModel": "Naudotas DI modelis",
+  "comics.attachExisting": "Pridėti esamą komiksą",
   "comics.buyFull": "Pirkti — {price}",
   "comics.chapter.published": "Paskelbta",
   "comics.chapter.publishLater": "Paskelbti vėliau",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Sluoksnio elemento redaktorius",
   "comics.layers.pageNumber": "({number} psl.)",
   "comics.layers.static": "statinis",
+  "comics.manage.intro": "Komiksai, manga ir webtoon'ai, susieti su {name}. Sukurkite naują arba pridėkite esamą.",
   "comics.settings.universe": "Visata",
   "comics.tag.category": "Kategorija",
   "comics.tag.finish": "Baigti žymėjimą",

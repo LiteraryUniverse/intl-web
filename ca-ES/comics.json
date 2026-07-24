@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Còmics que adapten aquesta història",
   "comics.aiModel": "Model d’IA utilitzat",
+  "comics.attachExisting": "Adjunta un còmic existent",
   "comics.buyFull": "Compra — {price}",
   "comics.chapter.published": "Publicat",
   "comics.chapter.publishLater": "Publica més tard",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Editor d’elements de capa",
   "comics.layers.pageNumber": "(pàgina {number})",
   "comics.layers.static": "estàtic",
+  "comics.manage.intro": "Còmics, manga i webtoons vinculats a {name}. Crea'n un de nou o adjunta'n un d'existent.",
   "comics.settings.universe": "Univers",
   "comics.tag.category": "Categoria",
   "comics.tag.finish": "Finalitza l’etiquetatge",

@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Bu hikâyeyi uyarlayan çizgi romanlar",
   "comics.aiModel": "Kullanılan yapay zeka modeli",
+  "comics.attachExisting": "Mevcut bir çizgi romanı ekle",
   "comics.buyFull": "Satın al — {price}",
   "comics.chapter.published": "Yayınlandı",
   "comics.chapter.publishLater": "Daha sonra yayınla",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Katman öğesi düzenleyici",
   "comics.layers.pageNumber": "(sayfa {number})",
   "comics.layers.static": "statik",
+  "comics.manage.intro": "{name} ile bağlantılı çizgi romanlar, mangalar ve webtoon'lar. Yeni bir tane oluşturun veya mevcut olanı ekleyin.",
   "comics.settings.universe": "Evren",
   "comics.tag.category": "Kategori",
   "comics.tag.finish": "Etiketlemeyi bitir",

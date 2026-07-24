@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Seda lugu kohandavad koomiksid",
   "comics.aiModel": "Kasutatud tehisintellekti mudel",
+  "comics.attachExisting": "Lisa olemasolev koomiks",
   "comics.buyFull": "Osta — {price}",
   "comics.chapter.published": "Avaldatud",
   "comics.chapter.publishLater": "Avalda hiljem",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Kihielemendi redaktor",
   "comics.layers.pageNumber": "(lk {number})",
   "comics.layers.static": "staatiline",
+  "comics.manage.intro": "Teosega {name} seotud koomiksid, manga ja webtoon'id. Loo uus või lisa olemasolev.",
   "comics.settings.universe": "Universum",
   "comics.tag.category": "Kategooria",
   "comics.tag.finish": "Lõpeta märgistamine",

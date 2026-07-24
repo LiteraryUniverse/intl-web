@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "ଏହି କାହାଣୀକୁ ରୂପାନ୍ତର କରୁଥିବା କମିକ୍‌ଗୁଡ଼ିକ",
   "comics.aiModel": "ବ୍ୟବହୃତ AI ମଡେଲ୍",
+  "comics.attachExisting": "ବିଦ୍ୟମାନ କମିକ୍ ଯୋଡ଼ନ୍ତୁ",
   "comics.buyFull": "କିଣନ୍ତୁ — {price}",
   "comics.chapter.published": "ପ୍ରକାଶିତ",
   "comics.chapter.publishLater": "ପରେ ପ୍ରକାଶ କରନ୍ତୁ",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "ସ୍ତର ଆଇଟମ୍ ସମ୍ପାଦକ",
   "comics.layers.pageNumber": "(ପୃଷ୍ଠା {number})",
   "comics.layers.static": "ସ୍ଥିର",
+  "comics.manage.intro": "{name} ସହ ଯୋଡ଼ାଯାଇଥିବା କମିକ୍ସ, ମାଙ୍ଗା ଏବଂ ୱେବଟୁନ୍। ନୂଆ ତିଆରି କରନ୍ତୁ କିମ୍ବା ବିଦ୍ୟମାନ ଯୋଡ଼ନ୍ତୁ।",
   "comics.settings.universe": "ବିଶ୍ବ",
   "comics.tag.category": "ବର୍ଗ",
   "comics.tag.finish": "ଟ୍ୟାଗିଂ ସମାପ୍ତ କରନ୍ତୁ",

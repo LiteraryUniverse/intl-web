@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "pixra lisri poi fukpi lo vi lisri",
   "comics.aiModel": "se pilno runme'i ciste",
+  "comics.attachExisting": "jorne lo zasti pixra lisri",
   "comics.buyFull": "te vecnu — {price}",
   "comics.chapter.published": "gubgau",
   "comics.chapter.publishLater": "gubgau ba",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "lo galfi tutci be lo senta dacti",
   "comics.layers.pageNumber": "(papri {number})",
   "comics.layers.static": "stodi",
+  "comics.manage.intro": "lo pixra lisri .e lo Manga .e lo Webtoon poi jorne la'o zoi. {name} .zoi. do kakne lo nu cupra lo cnino ja jorne lo zasti",
   "comics.settings.universe": "lo munje",
   "comics.tag.category": "klesi",
   "comics.tag.finish": "mulgau lo nu tcita",

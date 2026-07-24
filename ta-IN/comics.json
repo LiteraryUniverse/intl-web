@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "இந்தக் கதையைத் தழுவிய காமிக்ஸ்",
   "comics.aiModel": "பயன்படுத்திய AI மாதிரி",
+  "comics.attachExisting": "இருக்கும் காமிக்கை இணைக்கவும்",
   "comics.buyFull": "வாங்கு — {price}",
   "comics.chapter.published": "வெளியிடப்பட்டது",
   "comics.chapter.publishLater": "பிறகு வெளியிடு",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "அடுக்கு உருப்படி திருத்தி",
   "comics.layers.pageNumber": "(பக்கம் {number})",
   "comics.layers.static": "நிலையானது",
+  "comics.manage.intro": "{name} உடன் இணைக்கப்பட்ட காமிக்ஸ், மாங்கா மற்றும் வெப்டூன்கள். புதியதை உருவாக்கவும் அல்லது இருப்பதை இணைக்கவும்.",
   "comics.settings.universe": "உலகம்",
   "comics.tag.category": "வகை",
   "comics.tag.finish": "குறியிடலை முடி",

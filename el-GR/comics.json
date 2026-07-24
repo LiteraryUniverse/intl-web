@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Κόμικ που διασκευάζουν αυτή την ιστορία",
   "comics.aiModel": "Μοντέλο AI που χρησιμοποιήθηκε",
+  "comics.attachExisting": "Σύνδεση υπάρχοντος κόμικ",
   "comics.buyFull": "Αγορά — {price}",
   "comics.chapter.published": "Δημοσιεύτηκε",
   "comics.chapter.publishLater": "Δημοσίευση αργότερα",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Επεξεργαστής στοιχείων επιπέδου",
   "comics.layers.pageNumber": "(σελίδα {number})",
   "comics.layers.static": "στατικό",
+  "comics.manage.intro": "Κόμικς, manga και webtoons που συνδέονται με {name}. Δημιουργήστε ένα νέο ή συνδέστε ένα υπάρχον.",
   "comics.settings.universe": "Σύμπαν",
   "comics.tag.category": "Κατηγορία",
   "comics.tag.finish": "Ολοκλήρωση επισήμανσης",

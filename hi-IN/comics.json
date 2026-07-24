@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "इस कहानी को रूपांतरित करने वाली कॉमिक्स",
   "comics.aiModel": "उपयोग किया गया AI मॉडल",
+  "comics.attachExisting": "मौजूदा कॉमिक जोड़ें",
   "comics.buyFull": "खरीदें — {price}",
   "comics.chapter.published": "प्रकाशित",
   "comics.chapter.publishLater": "बाद में प्रकाशित करें",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "परत आइटम संपादक",
   "comics.layers.pageNumber": "(पृष्ठ {number})",
   "comics.layers.static": "स्थिर",
+  "comics.manage.intro": "{name} से जुड़े कॉमिक्स, मंगा और वेबटून। नया बनाएँ या मौजूदा जोड़ें।",
   "comics.settings.universe": "ब्रह्मांड",
   "comics.tag.category": "श्रेणी",
   "comics.tag.finish": "टैगिंग पूर्ण करें",

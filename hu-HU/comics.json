@@ -1,6 +1,7 @@
 {
   "comics.adaptingStory": "Ezt a történetet feldolgozó képregények",
   "comics.aiModel": "Használt MI-modell",
+  "comics.attachExisting": "Meglévő képregény csatolása",
   "comics.buyFull": "Megvásárlás — {price}",
   "comics.chapter.published": "Közzétéve",
   "comics.chapter.publishLater": "Közzététel később",
@@ -82,6 +83,7 @@
   "comics.layers.overlayAria": "Rétegelem-szerkesztő",
   "comics.layers.pageNumber": "({number}. oldal)",
   "comics.layers.static": "statikus",
+  "comics.manage.intro": "A(z) {name} elemhez kapcsolt képregények, mangák és webtoonok. Hozz létre újat, vagy csatolj egy meglévőt.",
   "comics.settings.universe": "Univerzum",
   "comics.tag.category": "Kategória",
   "comics.tag.finish": "Címkézés befejezése",
