@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} gereageerd op uw revisie: \"{commentText}\"",
   "email.comment.feedback.subject": "Nieuw commentaar op feedback",
   "email.comment.feedback.body": "{commenterName} gereageerd op uw feedbackkwestie: \"{commentText}\"",
-  "email.welcome.subject": "Welkom bij Literair Universum!"
+  "email.welcome.subject": "Welkom bij Literair Universum!",
+  "email.comics.chapterPublished.subject": "Nieuw hoofdstuk beschikbaar: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Nieuw hoofdstuk gepubliceerd",
+  "email.comics.chapterPublished.details": "Strip: {comicTitle} - Hoofdstuk: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Open hoofdstuk"
 }

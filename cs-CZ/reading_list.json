@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Zatím nemáte žádnou mangu ani komiks",
   "readingList.title": "Seznamy četby",
+  "readingList.type.comics": "Manga a komiksy",
   "readingList.type.label": "Typ seznamu",
   "readingList.type.stories": "Příběhy",
   "readingList.type.universes": "Vesmíry",

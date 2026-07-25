@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} kommenterede din revision: \"{commentText}\"",
   "email.comment.feedback.subject": "Ny kommentar til feedback",
   "email.comment.feedback.body": "{commenterName} kommenterede på dit feedback-problem: \"{commentText}\"",
-  "email.welcome.subject": "Velkommen til det litterære univers!"
+  "email.welcome.subject": "Velkommen til det litterære univers!",
+  "email.comics.chapterPublished.subject": "Nyt kapitel tilgængeligt: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Nyt kapitel udgivet",
+  "email.comics.chapterPublished.details": "Tegneserie: {comicTitle} - Kapitel: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Åbent kapitel"
 }

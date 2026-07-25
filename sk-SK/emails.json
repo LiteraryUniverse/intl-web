@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} komentoval vašu revíziu: \"{commentText}\"",
   "email.comment.feedback.subject": "Nový komentár k spätnej väzbe",
   "email.comment.feedback.body": "{commenterName} komentoval váš problém so spätnou väzbou: \"{commentText}\"",
-  "email.welcome.subject": "Vitajte v Literárnom vesmíre!"
+  "email.welcome.subject": "Vitajte v Literárnom vesmíre!",
+  "email.comics.chapterPublished.subject": "K dispozícii je nová kapitola: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Uverejnená nová kapitola",
+  "email.comics.chapterPublished.details": "Komiks: {comicTitle} - Kapitola: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Otvorená kapitola"
 }

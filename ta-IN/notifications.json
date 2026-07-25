@@ -15,6 +15,8 @@
   "notifications.menu.delete": "அறிவிப்பை நீக்கு",
   "notification.workshopStoryStatus.toHiatus": "உங்கள் கதை {storyName} நிரப்புப்படுத்தப்பட்டுள்ளது பொறுப்பற்றது என்று தானாக்கம் செய்யப்பட்டது.",
   "notification.workshopStoryStatus.toCancelled": "உங்கள் கதை {storyName} நிரப்புப்பட்டுள்ளது ரத்துசெய்யப்பட்டது என்று தானாக்கம் செய்யப்பட்டது.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} முன்னேற்றம் நிறுத்தப்பட்டுள்ளது.",
   "notification.followingStoryStatus.toCancelled": "{storyName} ரத்து செய்யப்பட்டுள்ளது.",
   "notification.followingNewChapter.new": "புதிய பதிகை {storyName} வெளியிடப்பட்டுள்ளது!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.followingNewComicChapter.new": "புதிய பதிகை {comicName} வெளியிடப்பட்டுள்ளது!"
 }

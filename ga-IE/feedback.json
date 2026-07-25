@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Coireachta cóipcheart",
   "feedback.copyrightReport.desc": "Tuairisc a dhéanamh ar Choireachta cóipcheart",
   "feedback.report.noUser": "Ní mór duit bheith logáilte isteach chun tuairisc a chur isteach.",
+  "feedback.takedown": "Bainte anuas",
+  "feedback.takedown.action": "Bain anuas",
   "feedback.voting.totalVoters": "Vótálaithe: {voted, number}",
   "feedback.voting.upvote": "Uasmhéid",
   "feedback.voting.downvote": "Ísleasmhéid",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "Eile",
-  "feedback.report.copyrightType.propertySelectLabel": "Cén {type, select,\n    universe {domhan}\n    story {scéal}\n    other {scéal}\n  } atá á gcruthú?",
+  "feedback.report.copyrightType.propertySelectLabel": "Cén {type, select,\n    universe {domhan}\n    story {scéal}\n    comic {Greannán}\n    other {scéal}\n  } atá á gcruthú?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Cúrsaí",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Greannán · Socruithe"
 }

@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Sampeyan durung duwe manga utawa komik",
   "readingList.title": "Reading list",
+  "readingList.type.comics": "Manga & komik",
   "readingList.type.label": "List type",
   "readingList.type.stories": "Stories",
   "readingList.type.universes": "Universes",

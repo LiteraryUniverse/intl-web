@@ -12,7 +12,7 @@
   "library.ownedStories": "Įsigytos istorijos",
   "library.ownedAudiobooks": "Garso knygos",
   "library.ownedAudiobooks.empty": "Dar neįsigijote nė vienos garso knygos.",
-  "library.ownedComics": "Komiksai",
-  "library.ownedComics.empty": "Dar nepridėjote nė vieno komikso.",
+  "library.ownedComics": "Manga ir komiksai",
+  "library.ownedComics.empty": "Dar nepridėjote jokios mangos ar komikso.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

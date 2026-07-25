@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} σχολίασε την αναθεώρησή σας: \"{commentText}\"",
   "email.comment.feedback.subject": "Νέο σχόλιο σχετικά με την ανατροφοδότηση",
   "email.comment.feedback.body": "{commenterName} σχολίασε το θέμα της ανατροφοδότησής σας: \"{commentText}\"",
-  "email.welcome.subject": "Καλώς ήρθατε στο Λογοτεχνικό Σύμπαν!"
+  "email.welcome.subject": "Καλώς ήρθατε στο Λογοτεχνικό Σύμπαν!",
+  "email.comics.chapterPublished.subject": "Νέο κεφάλαιο διαθέσιμο: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Νέο κεφάλαιο που δημοσιεύθηκε",
+  "email.comics.chapterPublished.details": "Κόμικ: {comicTitle} - Ιστορία: Κεφάλαιο: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Ανοίξτε το κεφάλαιο"
 }

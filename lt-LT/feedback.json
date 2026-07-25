@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Autorinių teisių pažeidimas",
   "feedback.copyrightReport.desc": "Pranešti apie autorių teisių pažeidimą",
   "feedback.report.noUser": "Norėdami pateikti pranešimą, turite prisijungti.",
+  "feedback.takedown": "Pašalinta",
+  "feedback.takedown.action": "Pašalinti",
   "feedback.voting.totalVoters": "Balsavo vartotojai: {voted, number}",
   "feedback.voting.upvote": "Balsuoti už",
   "feedback.voting.downvote": "Balsuoti prieš",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Prašymas",
   "feedback.reportType.aiUnmarked": "Nepažymėtas dirbtinio intelekto sukurtas turinys",
   "feedback.reportType.other": "Kita",
-  "feedback.report.copyrightType.propertySelectLabel": "Kurios {type, select,\n    universe {visatos}\n    story {istorijos}\n    other {istorija}\n  } yra pažeidžiama?",
+  "feedback.report.copyrightType.propertySelectLabel": "Kurios {type, select,\n    universe {visatos}\n    story {istorijos}\n    comic {Komiksas}\n    other {istorija}\n  } yra pažeidžiama?",
   "feedback.help.articles": "Straipsniai",
   "feedback.help.courses": "Kursai",
   "feedback.help.videoTutorials": "Vaizdo pamokos",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Komiksas · Nustatymai"
 }

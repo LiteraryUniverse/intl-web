@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Ophavsretskrænkelse",
   "feedback.copyrightReport.desc": "Rapportér ophavsretskrænkelse",
   "feedback.report.noUser": "Du skal være logget ind for at indsende en rapport.",
+  "feedback.takedown": "Fjernet",
+  "feedback.takedown.action": "Fjern fra visning",
   "feedback.voting.totalVoters": "Brugere har stemt: {voted, number}",
   "feedback.voting.upvote": "Opstem",
   "feedback.voting.downvote": "Nedstem",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Opfordring til",
   "feedback.reportType.aiUnmarked": "Umærket AI-genereret indhold",
   "feedback.reportType.other": "Andet",
-  "feedback.report.copyrightType.propertySelectLabel": "Hvilket {type, select,\n    universe {univers}\n    story {historie}\n    other {historie}\n  } bliver overtrådt?",
+  "feedback.report.copyrightType.propertySelectLabel": "Hvilket {type, select,\n    universe {univers}\n    story {historie}\n    comic {Tegneserie}\n    other {historie}\n  } bliver overtrådt?",
   "feedback.help.articles": "Artikler",
   "feedback.help.courses": "Kurser",
   "feedback.help.videoTutorials": "Video-tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Tegneserie · Indstillinger"
 }

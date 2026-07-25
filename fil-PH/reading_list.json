@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Wala ka pang manga o komiks",
   "readingList.title": "Listahan ng Pagbabasa",
+  "readingList.type.comics": "Manga at komiks",
   "readingList.type.label": "Uri ng Listahan",
   "readingList.type.stories": "Mga Kuwento",
   "readingList.type.universes": "Mga Uniberso",

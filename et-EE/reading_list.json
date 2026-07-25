@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Sul pole veel ühtegi mangat ega koomiksit",
   "readingList.title": "Lugemisnimekiri",
+  "readingList.type.comics": "Manga ja koomiksid",
   "readingList.type.label": "Loendi tüüp",
   "readingList.type.stories": "Lood",
   "readingList.type.universes": "Universumid",

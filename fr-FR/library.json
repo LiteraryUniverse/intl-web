@@ -12,7 +12,7 @@
   "library.ownedStories": "Histoires achetées",
   "library.ownedAudiobooks": "Livres audio",
   "library.ownedAudiobooks.empty": "Vous n’avez pas encore acheté de livre audio.",
-  "library.ownedComics": "Bandes dessinées",
-  "library.ownedComics.empty": "Vous n’avez pas encore ajouté de bande dessinée.",
+  "library.ownedComics": "Manga & BD",
+  "library.ownedComics.empty": "Vous n'avez encore ajouté aucun manga ni BD.",
   "library.meta.description": "Votre bibliothèque personnelle sur Literary Universe. Accédez à toutes vos histoires, univers et listes de lecture enregistrés en un seul endroit."
 }

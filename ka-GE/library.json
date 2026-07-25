@@ -12,7 +12,7 @@
   "library.ownedStories": "შეძენილი ამბები",
   "library.ownedAudiobooks": "აუდიოწიგნები",
   "library.ownedAudiobooks.empty": "ჯერ არცერთი აუდიოწიგნი არ შეგიძენიათ.",
-  "library.ownedComics": "კომიქსები",
-  "library.ownedComics.empty": "ჯერ არცერთი კომიქსი არ დაგიმატებიათ.",
+  "library.ownedComics": "მანგა და კომიქსები",
+  "library.ownedComics.empty": "ჯერ არ დაგიმატებიათ მანგა ან კომიქსი.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Παραβίαση πνευματικών δικαιωμάτων",
   "feedback.copyrightReport.desc": "Αναφορά παραβίασης πνευματικών δικαιωμάτων",
   "feedback.report.noUser": "Πρέπει να είστε συνδεδεμένος για να καταθέσετε μια αναφορά.",
+  "feedback.takedown": "Αποσύρθηκε",
+  "feedback.takedown.action": "Απόσυρση",
   "feedback.voting.totalVoters": "Ψήφισαν οι χρήστες: {voted, number}",
   "feedback.voting.upvote": "Θετική ψήφος",
   "feedback.voting.downvote": "Αρνητική ψήφος",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Συναλλαγή",
   "feedback.reportType.aiUnmarked": "Μη επισημασμένο περιεχόμενο που παράγεται από τεχνητή νοημοσύνη",
   "feedback.reportType.other": "Άλλα",
-  "feedback.report.copyrightType.propertySelectLabel": "Ποιο {type, select,\n    universe {σύμπαν}\n    story {ιστορία}\n    other {ιστορία}\n  } παραβιάζεται;",
+  "feedback.report.copyrightType.propertySelectLabel": "Ποιο {type, select,\n    universe {σύμπαν}\n    story {ιστορία}\n    comic {Κόμικ}\n    other {ιστορία}\n  } παραβιάζεται;",
   "feedback.help.articles": "Άρθρα",
   "feedback.help.courses": "Μαθήματα",
   "feedback.help.videoTutorials": "Εκπαιδευτικά βίντεο",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Κόμικ · Ρυθμίσεις"
 }

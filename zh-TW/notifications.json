@@ -15,6 +15,8 @@
   "notifications.menu.delete": "刪除通知",
   "notification.workshopStoryStatus.toHiatus": "您的故事 {storyName} 在6個月的不活動後自動進入中止狀態。",
   "notification.workshopStoryStatus.toCancelled": "您的故事 {storyName} 在一年的不活動後自動取消。",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} 進入了中止狀態。",
   "notification.followingStoryStatus.toCancelled": "{storyName} 已被取消。",
   "notification.followingNewChapter.new": "{storyName} 有新章節發布了！",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "有關您內容建立與管理活動的通知",
   "notifications.category.community.description": "有關社群互動和社群參與的通知",
   "notifications.category.reading.description": "有關新內容和閱讀活動的通知",
-  "notifications.category.system.description": "系統通知和重要更新"
+  "notifications.category.system.description": "系統通知和重要更新",
+  "notification.followingNewComicChapter.new": "{comicName} 有新章節發布了！"
 }

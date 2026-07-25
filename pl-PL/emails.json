@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} skomentował pańską rewizję: \"{commentText}\".",
   "email.comment.feedback.subject": "Nowy komentarz dotyczący opinii",
   "email.comment.feedback.body": "{commenterName} skomentował Państwa opinię: \"{commentText}\".",
-  "email.welcome.subject": "Witamy w Literary Universe!"
+  "email.welcome.subject": "Witamy w Literary Universe!",
+  "email.comics.chapterPublished.subject": "Nowy rozdział dostępny: \"{comicTitle}\".",
+  "email.comics.chapterPublished.title": "Opublikowano nowy rozdział",
+  "email.comics.chapterPublished.details": "Historia: {comicTitle} - Rozdział: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Rozdział otwarty"
 }

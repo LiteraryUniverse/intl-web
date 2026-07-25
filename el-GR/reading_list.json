@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Δεν έχετε ακόμη manga ή κόμικς",
   "readingList.title": "Λίστα ανάγνωσης",
+  "readingList.type.comics": "Manga & κόμικς",
   "readingList.type.label": "Τύπος λίστας",
   "readingList.type.stories": "Ιστορίες",
   "readingList.type.universes": "Σύμπαντα",

@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Nu ai încă manga sau benzi desenate",
   "readingList.title": "Lista de lectură",
+  "readingList.type.comics": "Manga și benzi desenate",
   "readingList.type.label": "Tipul listei",
   "readingList.type.stories": "Povești",
   "readingList.type.universes": "Universuri",

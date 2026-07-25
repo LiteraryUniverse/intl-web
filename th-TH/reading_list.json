@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "คุณยังไม่มีมังงะหรือการ์ตูน",
   "readingList.title": "รายการอ่าน",
+  "readingList.type.comics": "มังงะและการ์ตูน",
   "readingList.type.label": "ประเภทรายการ",
   "readingList.type.stories": "เรื่องราว",
   "readingList.type.universes": "จักรวาล",

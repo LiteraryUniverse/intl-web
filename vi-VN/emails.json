@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} Đã bình luận về bản sửa đổi của bạn: \"{commentText}\"",
   "email.comment.feedback.subject": "Bình luận mới về phản hồi",
   "email.comment.feedback.body": "{commenterName} Đã bình luận về vấn đề phản hồi của bạn: \"{commentText}\"",
-  "email.welcome.subject": "Chào mừng đến với Thế giới Văn học!"
+  "email.welcome.subject": "Chào mừng đến với Thế giới Văn học!",
+  "email.comics.chapterPublished.subject": "Chương mới đã có sẵn: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Chương mới đã được xuất bản",
+  "email.comics.chapterPublished.details": "Truyện tranh: {comicTitle} • Chương: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Mở chương"
 }

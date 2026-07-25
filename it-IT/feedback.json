@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Violazione di copyright",
   "feedback.copyrightReport.desc": "Segnala violazione del copyright",
   "feedback.report.noUser": "Per inviare una segnalazione, devi effettuare l'accesso.",
+  "feedback.takedown": "Rimosso",
+  "feedback.takedown.action": "Rimuovi",
   "feedback.voting.totalVoters": "Gli utenti hanno votato: {voted, number}",
   "feedback.voting.upvote": "Voto positivo",
   "feedback.voting.downvote": "Voto negativo",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Adescamento",
   "feedback.reportType.aiUnmarked": "Contenuti generati dall'AI non contrassegnati",
   "feedback.reportType.other": "Altro",
-  "feedback.report.copyrightType.propertySelectLabel": "Quale {type, select,\n    universe {universo}\n    story {storia}\n    other {storia}\n    } è stato/a violato/a?",
+  "feedback.report.copyrightType.propertySelectLabel": "Quale {type, select,\n    universe {universo}\n    story {storia}\n    comic {Fumetto}\n    other {storia}\n    } è stato/a violato/a?",
   "feedback.help.articles": "Articoli",
   "feedback.help.courses": "Corsi",
   "feedback.help.videoTutorials": "Tutorial video",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "Nessun corso in evidenza disponibile al momento.",
   "resolutionCenter.action.correctAgeRating": "Correggi la classificazione per età",
   "resolutionCenter.reportDetail": "Dettagli della segnalazione",
-  "resolutionCenter.dashboard.title": "Centro risoluzioni"
+  "resolutionCenter.dashboard.title": "Centro risoluzioni",
+  "feedback.report.actions.comicSettings": "Fumetto · Impostazioni"
 }

@@ -12,7 +12,7 @@
   "library.ownedStories": "Purchased stories",
   "library.ownedAudiobooks": "Klankboeke",
   "library.ownedAudiobooks.empty": "Jy het nog geen klankboeke gekoop nie.",
-  "library.ownedComics": "Strokiesprente",
-  "library.ownedComics.empty": "Jy het nog geen strokiesprente bygevoeg nie.",
+  "library.ownedComics": "Manga & strokiesprente",
+  "library.ownedComics.empty": "Jy het nog geen manga of strokiesprente bygevoeg nie.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

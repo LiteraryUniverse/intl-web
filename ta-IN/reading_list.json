@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "உங்களிடம் இன்னும் மாங்கா அல்லது காமிக்ஸ் இல்லை",
   "readingList.title": "பட்டியல்",
+  "readingList.type.comics": "மாங்கா மற்றும் காமிக்ஸ்",
   "readingList.type.label": "பட்டியல் வகை",
   "readingList.type.stories": "கதைகள்",
   "readingList.type.universes": "உலகங்கள்",

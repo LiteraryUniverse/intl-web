@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "আপনার কোনো মাঙ্গা বা কমিকস নেই",
   "readingList.title": "পড়ার তালিকা",
+  "readingList.type.comics": "মাঙ্গা ও কমিকস",
   "readingList.type.label": "তালিকা প্রকার",
   "readingList.type.stories": "গল্প",
   "readingList.type.universes": "বিশ্বগুলি",

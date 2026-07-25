@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "ਤੁਹਾਡੇ ਕੋਲ ਹਾਲੇ ਕੋਈ ਮੰਗਾ ਜਾਂ ਕਾਮਿਕਸ ਨਹੀਂ",
   "readingList.title": "ਪੜ੍ਹਨ ਲਿਸਟ",
+  "readingList.type.comics": "ਮੰਗਾ ਅਤੇ ਕਾਮਿਕਸ",
   "readingList.type.label": "ਸੂਚੀ ਦੀ ਕਿਸਮ",
   "readingList.type.stories": "ਕਹਾਣੀਆਂ",
   "readingList.type.universes": "ਬ੍ਰਹਮੰਡਾਂ",

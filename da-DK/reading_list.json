@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Du har endnu ingen manga eller tegneserier",
   "readingList.title": "Læseliste",
+  "readingList.type.comics": "Manga & tegneserier",
   "readingList.type.label": "Listetype",
   "readingList.type.stories": "Historier",
   "readingList.type.universes": "Universer",

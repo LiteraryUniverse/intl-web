@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "কপিরাইট লঙ্ঘন",
   "feedback.copyrightReport.desc": "কপিরাইট লঙ্ঘন রিপোর্ট করুন",
   "feedback.report.noUser": "আপনাকে একটি রিপোর্ট জমা দিতে অবশ্যই সাইন ইন করতে হবে।",
+  "feedback.takedown": "সরানো হয়েছে",
+  "feedback.takedown.action": "সরিয়ে ফেলুন",
   "feedback.voting.totalVoters": "ব্যবহারকারীরা ভোট দিয়েছেন: {voted, number}",
   "feedback.voting.upvote": "উপভোট",
   "feedback.voting.downvote": "নিম্নভোট",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "অন্যান্য",
-  "feedback.report.copyrightType.propertySelectLabel": "কোন {type, select,\n    universe {ব্রহ্মাণ্ড}\n    story {গল্প}\n    other {গল্প}\n  } অধিকার লঙ্ঘন হচ্ছে?",
+  "feedback.report.copyrightType.propertySelectLabel": "কোন {type, select,\n    universe {ব্রহ্মাণ্ড}\n    story {গল্প}\n    comic {কমিক্স}\n    other {গল্প}\n  } অধিকার লঙ্ঘন হচ্ছে?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "পাঠ্যক্রম",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "কমিক্স · সেটিংস"
 }

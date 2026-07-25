@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "انتهاك حقوق الطبع والنشر",
   "feedback.copyrightReport.desc": "الإبلاغ عن انتهاك حقوق الطبع والنشر",
   "feedback.report.noUser": "يجب أن تكون مسجلاً الدخول لتتمكن من تقديم تقرير.",
+  "feedback.takedown": "تمت إزالته",
+  "feedback.takedown.action": "إزالة من العرض",
   "feedback.voting.totalVoters": "تصويت المستخدمين: {voted, number}",
   "feedback.voting.upvote": "التصويت لأعلى",
   "feedback.voting.downvote": "التصويت لأسفل",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "الالتماس",
   "feedback.reportType.aiUnmarked": "محتوى غير مميز من إنشاء الذكاء الاصطناعي",
   "feedback.reportType.other": "أخرى",
-  "feedback.report.copyrightType.propertySelectLabel": "ما هو {type, select,\n    universe {الكون}\n    story {القصة}\n    other {القصة}\n  } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟",
+  "feedback.report.copyrightType.propertySelectLabel": "ما هو {type, select,\n    universe {الكون}\n    story {القصة}\n    comic {قصة مصورة}\n    other {القصة}\n  } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟",
   "feedback.help.articles": "المقالات",
   "feedback.help.courses": "الدورات التدريبية",
   "feedback.help.videoTutorials": "فيديوهات تعليمية",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "قصة مصورة · الإعدادات"
 }

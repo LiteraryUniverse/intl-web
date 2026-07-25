@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Du hast noch keine Manga oder Comics",
   "readingList.title": "Leseliste",
+  "readingList.type.comics": "Manga & Comics",
   "readingList.type.label": "Listentyp",
   "readingList.type.stories": "Geschichten",
   "readingList.type.universes": "Universen",

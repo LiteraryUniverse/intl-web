@@ -12,7 +12,7 @@
   "library.ownedStories": "구매한 스토리",
   "library.ownedAudiobooks": "오디오북",
   "library.ownedAudiobooks.empty": "아직 구매한 오디오북이 없습니다.",
-  "library.ownedComics": "만화",
-  "library.ownedComics.empty": "아직 추가한 만화가 없습니다.",
+  "library.ownedComics": "만화·코믹스",
+  "library.ownedComics.empty": "아직 추가한 만화나 코믹스가 없습니다.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

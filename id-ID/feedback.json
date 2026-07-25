@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Pelanggaran hak cipta",
   "feedback.copyrightReport.desc": "Laporkan Pelanggaran Hak Cipta",
   "feedback.report.noUser": "Anda perlu masuk, untuk melaporkan pelanggaran.",
+  "feedback.takedown": "Diturunkan",
+  "feedback.takedown.action": "Turunkan",
   "feedback.voting.totalVoters": "Pengguna yang memberikan suara: {voted, number}",
   "feedback.voting.upvote": "Vote atas",
   "feedback.voting.downvote": "Vote bawah",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Meminta",
   "feedback.reportType.aiUnmarked": "Konten yang dihasilkan AI yang tidak ditandai",
   "feedback.reportType.other": "Lainnya",
-  "feedback.report.copyrightType.propertySelectLabel": "Yang mana {type, select,\n    universe {alam semesta}\n    story {cerita}\n    other {cerita}\n  } yang dilanggar?",
+  "feedback.report.copyrightType.propertySelectLabel": "Yang mana {type, select,\n    universe {alam semesta}\n    story {cerita}\n    comic {Komik}\n    other {cerita}\n  } yang dilanggar?",
   "feedback.help.articles": "Artikel",
   "feedback.help.courses": "Kursus",
   "feedback.help.videoTutorials": "Video tutorial",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Komik · Pengaturan"
 }

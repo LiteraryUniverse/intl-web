@@ -15,6 +15,8 @@
   "notifications.menu.delete": "ప్రకటనను తొలగించండి",
   "notification.workshopStoryStatus.toHiatus": "మీ కథ {storyName} ని 6 నెలల నిష్క్రమణం అయంతం తరవాత ఆటమాటిక్ గా నిలిపివేయబడింది.",
   "notification.workshopStoryStatus.toCancelled": "మీ కథ {storyName} ని ఒక సంవత్సరం నిష్క్రమణం అయంతం తరవాత ఆటమాటిక్ గా రద్దు ఆయింది.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} ని నిలిపిస్తుంది.",
   "notification.followingStoryStatus.toCancelled": "{storyName} రద్దు చేయబడింది.",
   "notification.followingNewChapter.new": "కథ {storyName} లో కొత్త అధ్యాయం ప్రచురించబడింది!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.followingNewComicChapter.new": "కథ {comicName} లో కొత్త అధ్యాయం ప్రచురించబడింది!"
 }

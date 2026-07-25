@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "तुमच्याकडे अजून मंगा किंवा कॉमिक्स नाहीत",
   "readingList.title": "सूची वाचण्याची",
+  "readingList.type.comics": "मंगा आणि कॉमिक्स",
   "readingList.type.label": "सूची प्रकार",
   "readingList.type.stories": "कथा",
   "readingList.type.universes": "ब्रह्मांडे",

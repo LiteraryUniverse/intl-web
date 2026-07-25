@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} прокоментували вашу правку: \"{commentText}\"",
   "email.comment.feedback.subject": "Новий коментар до зворотного зв'язку",
   "email.comment.feedback.body": "{commenterName} прокоментували вашу проблему зі зворотним зв'язком: \"{commentText}\"",
-  "email.welcome.subject": "Ласкаво просимо до Літературного Всесвіту!"
+  "email.welcome.subject": "Ласкаво просимо до Літературного Всесвіту!",
+  "email.comics.chapterPublished.subject": "Доступна нова глава: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Опубліковано нову главу",
+  "email.comics.chapterPublished.details": "Комікс: {comicTitle} - Розділ: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Відкритий розділ"
 }

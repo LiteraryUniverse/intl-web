@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} 수정 사항에 댓글을 달았습니다: \"{commentText}\"",
   "email.comment.feedback.subject": "피드백에 대한 새 댓글",
   "email.comment.feedback.body": "{commenterName} 피드백 문제에 댓글을 달았습니다: \"{commentText}\"",
-  "email.welcome.subject": "리터러리 유니버스에 오신 것을 환영합니다!"
+  "email.welcome.subject": "리터러리 유니버스에 오신 것을 환영합니다!",
+  "email.comics.chapterPublished.subject": "새 챕터를 사용할 수 있습니다: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "새 챕터 게시",
+  "email.comics.chapterPublished.details": "스토리: {comicTitle} - Chapter: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "챕터 열기"
 }

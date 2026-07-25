@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "ଆପଣଙ୍କ ପାଖରେ ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ମାଙ୍ଗା କିମ୍ବା କମିକ୍ସ ନାହିଁ",
   "readingList.title": "ପଢ଼ନ ତାଲିକା",
+  "readingList.type.comics": "ମାଙ୍ଗା ଓ କମିକ୍ସ",
   "readingList.type.label": "ତାଲିକା ପ୍ରକାର",
   "readingList.type.stories": "କାହାଣୀଗୁଡ଼ିକ",
   "readingList.type.universes": "ବିଶ୍ଵଗୁଡ଼ିକ",

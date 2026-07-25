@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Törlés",
   "notification.workshopStoryStatus.toHiatus": "Az {storyName} történeted automatikusan átállításra került pihenésre inaktivitás után 6 hónap után.",
   "notification.workshopStoryStatus.toCancelled": "Az {storyName} történeted automatikusan átállításra került megszűntre inaktivitás után egy év után.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "Az {storyName} történet pihen.",
   "notification.followingStoryStatus.toCancelled": "Az {storyName} történet megszűnt.",
   "notification.followingNewChapter.new": "Új fejezet jelent meg a követett {storyName} történetben!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Értesítések az Ön tartalomkészítési és -kezelési tevékenységeiről",
   "notifications.category.community.description": "Értesítések a társadalmi interakciókról és a közösségi szerepvállalásról",
   "notifications.category.reading.description": "Értesítések új tartalmakról és olvasási tevékenységekről",
-  "notifications.category.system.description": "Rendszerértesítések és fontos frissítések"
+  "notifications.category.system.description": "Rendszerértesítések és fontos frissítések",
+  "notification.followingNewComicChapter.new": "Új fejezet jelent meg a követett {comicName} történetben!"
 }

@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Vi phạm bản quyền",
   "feedback.copyrightReport.desc": "Báo cáo vi phạm bản quyền",
   "feedback.report.noUser": "Bạn cần đăng nhập để gửi báo cáo.",
+  "feedback.takedown": "Đã gỡ xuống",
+  "feedback.takedown.action": "Gỡ xuống",
   "feedback.voting.totalVoters": "Người dùng đã bình chọn: {voted, number}",
   "feedback.voting.upvote": "Bình chọn thuận",
   "feedback.voting.downvote": "Bình chọn chống",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "Khác",
-  "feedback.report.copyrightType.propertySelectLabel": "Vũ trụ nào {type, select,\n    universe {câu chuyện nào}\n    story {câu chuyện nào}\n    other {câu chuyện nào}\n  } đang bị vi phạm?",
+  "feedback.report.copyrightType.propertySelectLabel": "Vũ trụ nào {type, select,\n    universe {câu chuyện nào}\n    story {câu chuyện nào}\n    comic {Truyện tranh}\n    other {câu chuyện nào}\n  } đang bị vi phạm?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Các khóa học",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Truyện tranh · Cài đặt"
 }

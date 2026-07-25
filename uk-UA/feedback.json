@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Порушення авторських прав",
   "feedback.copyrightReport.desc": "Повідомити про порушення авторських прав",
   "feedback.report.noUser": "Вам потрібно увійти, щоб подати звіт.",
+  "feedback.takedown": "Знято з публікації",
+  "feedback.takedown.action": "Зняти з публікації",
   "feedback.voting.totalVoters": "Користувачі проголосували: {voted, number}",
   "feedback.voting.upvote": "Голосувати за",
   "feedback.voting.downvote": "Проголосувати проти",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Вимагання",
   "feedback.reportType.aiUnmarked": "Немаркований вміст, створений штучним інтелектом",
   "feedback.reportType.other": "Інше",
-  "feedback.report.copyrightType.propertySelectLabel": "Який {type, select,\n    universe {всесвіт}\n    story {історія}\n    other {історія}\n  } порушується?",
+  "feedback.report.copyrightType.propertySelectLabel": "Який {type, select,\n    universe {всесвіт}\n    story {історія}\n    comic {Комікс}\n    other {історія}\n  } порушується?",
   "feedback.help.articles": "Статті",
   "feedback.help.courses": "Курси",
   "feedback.help.videoTutorials": "Відеоуроки",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "Поки немає рекомендованих курсів.",
   "resolutionCenter.action.correctAgeRating": "Виправити віковий рейтинг",
   "resolutionCenter.reportDetail": "Деталі скарги",
-  "resolutionCenter.dashboard.title": "Центр вирішення спорів"
+  "resolutionCenter.dashboard.title": "Центр вирішення спорів",
+  "feedback.report.actions.comicSettings": "Комікс · Налаштування"
 }

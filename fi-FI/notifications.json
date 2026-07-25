@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Poista ilmoitus",
   "notification.workshopStoryStatus.toHiatus": "Tarinasi {storyName} on automaattisesti siirretty tauolle 6 kuukauden passiivisuuden jälkeen.",
   "notification.workshopStoryStatus.toCancelled": "Tarina {storyName} on automaattisesti peruutettu 1 vuoden passiivisuuden jälkeen.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} on tauolla.",
   "notification.followingStoryStatus.toCancelled": "{storyName} on peruutettu.",
   "notification.followingNewChapter.new": "Uusi luku tarinassa {storyName} on julkaistu!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Ilmoitukset sisällön luomisesta ja hallinnasta",
   "notifications.category.community.description": "Ilmoitukset sosiaalisesta vuorovaikutuksesta ja yhteisön sitoutumisesta",
   "notifications.category.reading.description": "Ilmoitukset uudesta sisällöstä ja lukutehtävistä",
-  "notifications.category.system.description": "Järjestelmäilmoitukset ja tärkeät päivitykset"
+  "notifications.category.system.description": "Järjestelmäilmoitukset ja tärkeät päivitykset",
+  "notification.followingNewComicChapter.new": "Uusi luku tarinassa {comicName} on julkaistu!"
 }

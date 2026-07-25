@@ -15,6 +15,8 @@
   "notifications.menu.delete": "מחק התראה",
   "notification.workshopStoryStatus.toHiatus": "הסיפור שלך {storyName} הוכרז כנעול אוטומטית לאחר 6 חודשים של חוסר פעילות.",
   "notification.workshopStoryStatus.toCancelled": "הסיפור שלך {storyName} הוכרז כבוטל אוטומטית לאחר שנה של חוסר פעילות.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} מוחזק במצב נעול.",
   "notification.followingStoryStatus.toCancelled": "{storyName} בוטל.",
   "notification.followingNewChapter.new": "פרק חדש של {storyName} פורסם!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "הודעות על פעילויות יצירת תוכן וניהול תוכן",
   "notifications.category.community.description": "הודעות על אינטראקציות חברתיות ומעורבות בקהילה",
   "notifications.category.reading.description": "הודעות על תוכן חדש ופעילויות קריאה",
-  "notifications.category.system.description": "הודעות מערכת ועדכונים חשובים"
+  "notifications.category.system.description": "הודעות מערכת ועדכונים חשובים",
+  "notification.followingNewComicChapter.new": "פרק חדש של {comicName} פורסם!"
 }

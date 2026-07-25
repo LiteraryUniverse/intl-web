@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Anda belum memiliki manga atau komik",
   "readingList.title": "Daftar bacaan",
+  "readingList.type.comics": "Manga & komik",
   "readingList.type.label": "Jenis daftar",
   "readingList.type.stories": "Cerita",
   "readingList.type.universes": "Universes",

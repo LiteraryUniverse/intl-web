@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} mengomentari revisi Anda: \"{commentText}\"",
   "email.comment.feedback.subject": "Komentar baru tentang umpan balik",
   "email.comment.feedback.body": "{commenterName} mengomentari masalah umpan balik Anda: \"{commentText}\"",
-  "email.welcome.subject": "Selamat datang di Literary Universe!"
+  "email.welcome.subject": "Selamat datang di Literary Universe!",
+  "email.comics.chapterPublished.subject": "Bab baru tersedia: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Bab baru diterbitkan",
+  "email.comics.chapterPublished.details": "Komik: {comicTitle} - Bab: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Buka bab"
 }

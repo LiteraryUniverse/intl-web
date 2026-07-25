@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "ჯერ არ გაქვთ მანგა ან კომიქსი",
   "readingList.title": "სიახლის სია",
+  "readingList.type.comics": "მანგა და კომიქსები",
   "readingList.type.label": "სიახლის ტიპი",
   "readingList.type.stories": "მოთხოვნები",
   "readingList.type.universes": "უნივერსუმები",

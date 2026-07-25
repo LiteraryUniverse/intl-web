@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Șterge notificarea",
   "notification.workshopStoryStatus.toHiatus": "Povestea dvs. {storyName} a fost setată automat pe pauză după 6 luni de inactivitate.",
   "notification.workshopStoryStatus.toCancelled": "Povestea dvs. {storyName} a fost setată automat pe anulată după un an de inactivitate.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} este în pauză.",
   "notification.followingStoryStatus.toCancelled": "{storyName} a fost anulată.",
   "notification.followingNewChapter.new": "Capitolul nou în {storyName} a fost publicat!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notificări cu privire la activitățile dvs. de creare și gestionare a conținutului",
   "notifications.category.community.description": "Notificări privind interacțiunile sociale și implicarea în comunitate",
   "notifications.category.reading.description": "Notificări cu privire la conținut nou și activități de lectură",
-  "notifications.category.system.description": "Notificări de sistem și actualizări importante"
+  "notifications.category.system.description": "Notificări de sistem și actualizări importante",
+  "notification.followingNewComicChapter.new": "Capitolul nou în {comicName} a fost publicat!"
 }

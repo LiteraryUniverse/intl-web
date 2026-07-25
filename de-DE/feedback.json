@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Urheberrechtsverletzung",
   "feedback.copyrightReport.desc": "Copyright-Verletzung melden",
   "feedback.report.noUser": "Sie müssen angemeldet sein, um einen Bericht erstellen zu können.",
+  "feedback.takedown": "Entfernt",
+  "feedback.takedown.action": "Entfernen",
   "feedback.voting.totalVoters": "Benutzer haben abgestimmt: {voted, number}",
   "feedback.voting.upvote": "Aufwärts stimmen",
   "feedback.voting.downvote": "Abwärts stimmen",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Fordern Sie  an.",
   "feedback.reportType.aiUnmarked": "Nicht markierte KI-generierte Inhalte",
   "feedback.reportType.other": "Andere",
-  "feedback.report.copyrightType.propertySelectLabel": "Welches {type, select,\n    universe {Universum}\n    story {Geschichte}\n    other {Geschichte}\n  } wird verletzt?",
+  "feedback.report.copyrightType.propertySelectLabel": "Welches {type, select,\n    universe {Universum}\n    story {Geschichte}\n    comic {Comic}\n    other {Geschichte}\n  } wird verletzt?",
   "feedback.help.articles": "Artikel",
   "feedback.help.courses": "Kurse",
   "feedback.help.videoTutorials": "Video-Tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "Noch keine empfohlenen Kurse verfügbar.",
   "resolutionCenter.action.correctAgeRating": "Altersfreigabe korrigieren",
   "resolutionCenter.reportDetail": "Meldungsdetails",
-  "resolutionCenter.dashboard.title": "Lösungszentrum"
+  "resolutionCenter.dashboard.title": "Lösungszentrum",
+  "feedback.report.actions.comicSettings": "Comic · Einstellungen"
 }

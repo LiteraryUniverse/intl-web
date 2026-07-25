@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Supprimer la notification",
   "notification.workshopStoryStatus.toHiatus": "Votre histoire {storyName} a été automatiquement mise en pause après 6 mois d'inactivité.",
   "notification.workshopStoryStatus.toCancelled": "Votre histoire {storyName} a été automatiquement annulée après un an d'inactivité.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} est en pause.",
   "notification.followingStoryStatus.toCancelled": "{storyName} a été annulé.",
   "notification.followingNewChapter.new": "Nouveau chapitre dans {storyName} publié !",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications concernant vos activités de création et de gestion de contenu",
   "notifications.category.community.description": "Notifications concernant les interactions sociales et l'engagement de la communauté",
   "notifications.category.reading.description": "Notifications sur les nouveaux contenus et activités de lecture",
-  "notifications.category.system.description": "Notifications du système et mises à jour importantes"
+  "notifications.category.system.description": "Notifications du système et mises à jour importantes",
+  "notification.followingNewComicChapter.new": "Nouveau chapitre dans {comicName} publié !"
 }

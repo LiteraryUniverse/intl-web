@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Copyright violation",
   "feedback.copyrightReport.desc": "Report Copyright violation",
   "feedback.report.noUser": "You need to be signed in, in order to file a report.",
+  "feedback.takedown": "ತೆಗೆದುಹಾಕಲಾಗಿದೆ",
+  "feedback.takedown.action": "ತೆಗೆದುಹಾಕಿ",
   "feedback.voting.totalVoters": "Users voted: {voted, number}",
   "feedback.voting.upvote": "Up vote",
   "feedback.voting.downvote": "Down vote",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "ಇತರ",
-  "feedback.report.copyrightType.propertySelectLabel": "Which {type, select,\n    universe {universe}\n    story {story}\n    other {story}\n  } is being infringed?",
+  "feedback.report.copyrightType.propertySelectLabel": "Which {type, select,\n    universe {universe}\n    story {story}\n    comic {ಚಿತ್ರಕಥೆ}\n    other {story}\n  } is being infringed?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "ಚಿತ್ರಕಥೆ · ಸೆಟ್ಟಿಂಗ್ಗಳು"
 }

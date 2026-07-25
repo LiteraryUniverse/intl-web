@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} pakomentavo jūsų peržiūrą: \"{commentText}\"",
   "email.comment.feedback.subject": "Naujas komentaras apie atsiliepimus",
   "email.comment.feedback.body": "{commenterName} pakomentavo jūsų atsiliepimų klausimą: \"{commentText}\"",
-  "email.welcome.subject": "Sveiki atvykę į Literatūrinę visatą!"
+  "email.welcome.subject": "Sveiki atvykę į Literatūrinę visatą!",
+  "email.comics.chapterPublished.subject": "Naujas skyrius: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Paskelbtas naujas skyrius",
+  "email.comics.chapterPublished.details": "Istorija: {comicTitle} - Skyrius: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Atviras skyrius"
 }

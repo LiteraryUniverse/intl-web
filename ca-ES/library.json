@@ -12,7 +12,7 @@
   "library.ownedStories": "Històries comprades",
   "library.ownedAudiobooks": "Audiollibres",
   "library.ownedAudiobooks.empty": "Encara no has comprat cap audiollibre.",
-  "library.ownedComics": "Còmics",
-  "library.ownedComics.empty": "Encara no has afegit cap còmic.",
+  "library.ownedComics": "Manga i còmics",
+  "library.ownedComics.empty": "Encara no has afegit cap manga ni còmic.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

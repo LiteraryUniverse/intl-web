@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "ليس لديك أي مانغا أو قصص مصورة بعد",
   "readingList.title": "قائمة القراءة",
+  "readingList.type.comics": "المانغا والقصص المصورة",
   "readingList.type.label": "نوع القائمة",
   "readingList.type.stories": "قصص",
   "readingList.type.universes": "الأكوان",

@@ -15,6 +15,8 @@
   "notifications.menu.delete": "حذف الإشعار",
   "notification.workshopStoryStatus.toHiatus": "تم تعليق قصتك {storyName} تلقائيًا بعد 6 أشهر من الخمول.",
   "notification.workshopStoryStatus.toCancelled": "تم إلغاء قصتك {storyName} تلقائيًا بعد عام من الخمول.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} في وضع الخمول.",
   "notification.followingStoryStatus.toCancelled": "{storyName} تم إلغاؤها.",
   "notification.followingNewChapter.new": "تم نشر فصل جديد في {storyName} !",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "إشعارات حول أنشطة إنشاء المحتوى وإدارته",
   "notifications.category.community.description": "إشعارات حول التفاعلات الاجتماعية والمشاركة المجتمعية",
   "notifications.category.reading.description": "إشعارات حول المحتوى الجديد وأنشطة القراءة",
-  "notifications.category.system.description": "إشعارات النظام والتحديثات المهمة"
+  "notifications.category.system.description": "إشعارات النظام والتحديثات المهمة",
+  "notification.followingNewComicChapter.new": "تم نشر فصل جديد في {comicName} !"
 }

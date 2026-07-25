@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} kommenterade din revision: \"{commentText}\"",
   "email.comment.feedback.subject": "Ny kommentar om återkoppling",
   "email.comment.feedback.body": "{commenterName} kommenterade på din feedbackfråga: \"{commentText}\"",
-  "email.welcome.subject": "Välkommen till Literary Universe!"
+  "email.welcome.subject": "Välkommen till Literary Universe!",
+  "email.comics.chapterPublished.subject": "Nytt kapitel tillgängligt: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Nytt kapitel publicerat",
+  "email.comics.chapterPublished.details": "Serie: {comicTitle} - Kapitel: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Öppet kapitel"
 }

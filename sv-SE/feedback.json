@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Upphovsrättsintrång",
   "feedback.copyrightReport.desc": "Rapportera upphovsrättsintrång",
   "feedback.report.noUser": "Du måste vara inloggad för att kunna lämna en rapport.",
+  "feedback.takedown": "Nedtagen",
+  "feedback.takedown.action": "Ta ned",
   "feedback.voting.totalVoters": "Användare har röstat: {voted, number}",
   "feedback.voting.upvote": "Rösta upp",
   "feedback.voting.downvote": "Rösta ner",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Uppmaning",
   "feedback.reportType.aiUnmarked": "Omärkt AI-genererat innehåll",
   "feedback.reportType.other": "Övrigt",
-  "feedback.report.copyrightType.propertySelectLabel": "Vilket {type, select,\n    universe {universum}\n    story {berättelse}\n    other {berättelse}\n  } blir kränkt?",
+  "feedback.report.copyrightType.propertySelectLabel": "Vilket {type, select,\n    universe {universum}\n    story {berättelse}\n    comic {Serie}\n    other {berättelse}\n  } blir kränkt?",
   "feedback.help.articles": "Artiklar",
   "feedback.help.courses": "Kurser",
   "feedback.help.videoTutorials": "Videohandledning",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Serie · Inställningar"
 }

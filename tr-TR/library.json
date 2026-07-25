@@ -12,7 +12,7 @@
   "library.ownedStories": "Satın alınan hikayeler",
   "library.ownedAudiobooks": "Sesli kitaplar",
   "library.ownedAudiobooks.empty": "Henüz sesli kitap satın almadınız.",
-  "library.ownedComics": "Çizgi romanlar",
-  "library.ownedComics.empty": "Henüz çizgi roman eklemediniz.",
+  "library.ownedComics": "Manga ve çizgi romanlar",
+  "library.ownedComics.empty": "Henüz manga veya çizgi roman eklemediniz.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

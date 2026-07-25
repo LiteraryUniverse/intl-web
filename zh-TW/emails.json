@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} 評論了您的修改：\"{commentText}\"",
   "email.comment.feedback.subject": "有關回饋的新評論",
   "email.comment.feedback.body": "{commenterName} 評論了您的反饋問題：\"{commentText}\"",
-  "email.welcome.subject": "歡迎來到 Literary Universe！"
+  "email.welcome.subject": "歡迎來到 Literary Universe！",
+  "email.comics.chapterPublished.subject": "新章可用：\"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "新章已出版",
+  "email.comics.chapterPublished.details": "漫畫 {comicTitle} - 章節： {chapterTitle}",
+  "email.comics.chapterPublished.cta": "開啟章節"
 }

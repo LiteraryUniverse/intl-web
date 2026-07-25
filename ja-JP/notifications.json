@@ -15,6 +15,8 @@
   "notifications.menu.delete": "通知を削除",
   "notification.workshopStoryStatus.toHiatus": "あなたの物語 {storyName} は、無活動状態が6か月続いた後、自動的に中断状態に設定されました。",
   "notification.workshopStoryStatus.toCancelled": "あなたの物語 {storyName} は、無活動状態が1年間続いた後、自動的にキャンセル状態に設定されました。",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} は中断状態です。",
   "notification.followingStoryStatus.toCancelled": "{storyName} はキャンセルされました。",
   "notification.followingNewChapter.new": "{storyName} に新しい章が公開されました！",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "コンテンツの作成と管理活動に関する通知",
   "notifications.category.community.description": "ソーシャル・インタラクションやコミュニティ・エンゲージメントに関する通知",
   "notifications.category.reading.description": "新しいコンテンツや読書活動に関する通知",
-  "notifications.category.system.description": "システム通知と重要なアップデート"
+  "notifications.category.system.description": "システム通知と重要なアップデート",
+  "notification.followingNewComicChapter.new": "{comicName} に新しい章が公開されました！"
 }

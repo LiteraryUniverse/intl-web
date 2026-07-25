@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "మీ వద్ద ఇంకా మాంగా లేదా కామిక్స్ లేవు",
   "readingList.title": "చదువుకు జాబితా",
+  "readingList.type.comics": "మాంగా మరియు కామిక్స్",
   "readingList.type.label": "జాబితా రకం",
   "readingList.type.stories": "కథలు",
   "readingList.type.universes": "యూనివర్స్‌లు",

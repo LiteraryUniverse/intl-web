@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "तपाईंसँग अहिले कुनै मान्गा वा कमिक छैन",
   "readingList.title": "पढ्ने सूची",
+  "readingList.type.comics": "मान्गा र कमिक",
   "readingList.type.label": "सूची प्रकार",
   "readingList.type.stories": "कथाहरू",
   "readingList.type.universes": "ब्रह्माण्डहरू",

@@ -12,7 +12,7 @@
   "library.ownedStories": "Purchased stories",
   "library.ownedAudiobooks": "Sonlibroj",
   "library.ownedAudiobooks.empty": "Vi ankoraŭ ne aĉetis sonlibrojn.",
-  "library.ownedComics": "Komiksoj",
-  "library.ownedComics.empty": "Vi ankoraŭ ne aldonis komiksojn.",
+  "library.ownedComics": "Mangaoj kaj komiksoj",
+  "library.ownedComics.empty": "Vi ankoraŭ ne aldonis mangaon aŭ komikson.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

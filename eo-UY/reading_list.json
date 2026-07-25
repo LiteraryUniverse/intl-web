@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Vi ankoraŭ ne havas mangaojn aŭ komiksojn",
   "readingList.title": "Legolisto",
+  "readingList.type.comics": "Mangaoj kaj komiksoj",
   "readingList.type.label": "Listo de tipo",
   "readingList.type.stories": "Rakontoj",
   "readingList.type.universes": "Universes",

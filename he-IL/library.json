@@ -12,7 +12,7 @@
   "library.ownedStories": "סיפורים שנרכשו",
   "library.ownedAudiobooks": "ספרי אודיו",
   "library.ownedAudiobooks.empty": "עדיין לא רכשתם ספרי אודיו.",
-  "library.ownedComics": "קומיקסים",
-  "library.ownedComics.empty": "עדיין לא הוספתם קומיקסים.",
+  "library.ownedComics": "מנגה וקומיקס",
+  "library.ownedComics.empty": "עדיין לא הוספתם מנגה או קומיקס.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

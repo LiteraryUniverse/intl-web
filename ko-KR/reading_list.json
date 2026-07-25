@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "아직 만화나 코믹스가 없습니다",
   "readingList.title": "읽기 목록",
+  "readingList.type.comics": "만화·코믹스",
   "readingList.type.label": "목록 유형",
   "readingList.type.stories": "이야기",
   "readingList.type.universes": "우주들",

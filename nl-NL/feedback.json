@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Schending van het auteursrecht",
   "feedback.copyrightReport.desc": "Rapporteer auteursrechtinbreuk",
   "feedback.report.noUser": "U moet aangemeld zijn om een rapport te kunnen indienen.",
+  "feedback.takedown": "Offline gehaald",
+  "feedback.takedown.action": "Offline halen",
   "feedback.voting.totalVoters": "Gebruikers hebben gestemd: {voted, number}",
   "feedback.voting.upvote": "Stemmen omhoog",
   "feedback.voting.downvote": "Omlaag stemmen",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Werven op",
   "feedback.reportType.aiUnmarked": "Niet-gemarkeerde AI-gegenereerde inhoud",
   "feedback.reportType.other": "Overig",
-  "feedback.report.copyrightType.propertySelectLabel": "Welk {type, select,\n    universe {universum}\n    story {verhaal}\n    other {verhaal}\n  } wordt geschonden?",
+  "feedback.report.copyrightType.propertySelectLabel": "Welk {type, select,\n    universe {universum}\n    story {verhaal}\n    comic {Strip}\n    other {verhaal}\n  } wordt geschonden?",
   "feedback.help.articles": "Artikelen",
   "feedback.help.courses": "Cursussen",
   "feedback.help.videoTutorials": "Video-handleidingen",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "Nog geen uitgelichte cursussen beschikbaar.",
   "resolutionCenter.action.correctAgeRating": "Leeftijdsclassificatie corrigeren",
   "resolutionCenter.reportDetail": "Rapportagedetails",
-  "resolutionCenter.dashboard.title": "Geschillencentrum"
+  "resolutionCenter.dashboard.title": "Geschillencentrum",
+  "feedback.report.actions.comicSettings": "Strip · Instellingen"
 }

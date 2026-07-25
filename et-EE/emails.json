@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} kommenteeris teie ülevaatust: \"{commentText}\"",
   "email.comment.feedback.subject": "Uus kommentaar tagasiside kohta",
   "email.comment.feedback.body": "{commenterName} kommenteeris teie tagasiside küsimust: \"{commentText}\"",
-  "email.welcome.subject": "Tere tulemast Kirjandusuniversumisse!"
+  "email.welcome.subject": "Tere tulemast Kirjandusuniversumisse!",
+  "email.comics.chapterPublished.subject": "Uus peatükk saadaval: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Uus peatükk avaldatud",
+  "email.comics.chapterPublished.details": "Koomiks: {comicTitle} - Peatükk: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Avatud peatükk"
 }

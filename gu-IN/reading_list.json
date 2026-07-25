@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "તમારી પાસે હજી કોઈ મંગા કે કોમિક્સ નથી",
   "readingList.title": "યાદદાન સૂચી",
+  "readingList.type.comics": "મંગા અને કોમિક્સ",
   "readingList.type.label": "યાદદાન પ્રકાર",
   "readingList.type.stories": "વાર્તાઓ",
   "readingList.type.universes": "બ્રહ્માંડો",

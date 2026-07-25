@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Sinulla ei ole vielä mangaa tai sarjakuvia",
   "readingList.title": "Lukulista",
+  "readingList.type.comics": "Manga ja sarjakuvat",
   "readingList.type.label": "Luettelon tyyppi",
   "readingList.type.stories": "Tarinat",
   "readingList.type.universes": "Universumit",

@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "საავტორო უფლებების დარღვევა",
   "feedback.copyrightReport.desc": "საავტორო უფლებების დარღვევის შეტყობინება",
   "feedback.report.noUser": "ანგარიშის წარსადგენად, სისტემაში უნდა იყოთ შესული.",
+  "feedback.takedown": "მოხსნილია",
+  "feedback.takedown.action": "მოხსნა",
   "feedback.voting.totalVoters": "მომხმარებლები ხმა იძლეოდნენ: {voted, number}",
   "feedback.voting.upvote": "მოიწონეთ",
   "feedback.voting.downvote": "არასასურველი",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "სხვა",
-  "feedback.report.copyrightType.propertySelectLabel": "რომელი {type, select,\n    universe {უნივერსუმი}\n    story {ისტორია}\n    other {ისტორია}\n  } არის დაფიქსირებული?",
+  "feedback.report.copyrightType.propertySelectLabel": "რომელი {type, select,\n    universe {უნივერსუმი}\n    story {ისტორია}\n    comic {კომიქსი}\n    other {ისტორია}\n  } არის დაფიქსირებული?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "კურსები",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "კომიქსი · პარამეტრები"
 }

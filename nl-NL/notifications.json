@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Verwijder melding",
   "notification.workshopStoryStatus.toHiatus": "Je verhaal {storyName} is automatisch op pauze gezet na 6 maanden inactiviteit.",
   "notification.workshopStoryStatus.toCancelled": "Je verhaal {storyName} is automatisch geannuleerd na één jaar inactiviteit.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} staat op pauze.",
   "notification.followingStoryStatus.toCancelled": "{storyName} is geannuleerd.",
   "notification.followingNewChapter.new": "Nieuw hoofdstuk in {storyName} is gepubliceerd!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Meldingen over uw activiteiten voor het maken en beheren van inhoud",
   "notifications.category.community.description": "Meldingen over sociale interacties en betrokkenheid bij de gemeenschap",
   "notifications.category.reading.description": "Meldingen over nieuwe inhoud en leesactiviteiten",
-  "notifications.category.system.description": "Systeemmeldingen en belangrijke updates"
+  "notifications.category.system.description": "Systeemmeldingen en belangrijke updates",
+  "notification.followingNewComicChapter.new": "Nieuw hoofdstuk in {comicName} is gepubliceerd!"
 }

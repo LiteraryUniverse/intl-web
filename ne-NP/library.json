@@ -12,7 +12,7 @@
   "library.ownedStories": "खरिद गरिएका कथाहरू",
   "library.ownedAudiobooks": "अडियो बुकहरू",
   "library.ownedAudiobooks.empty": "तपाईंले अहिलेसम्म कुनै अडियो बुक किन्नुभएको छैन।",
-  "library.ownedComics": "कमिकहरू",
-  "library.ownedComics.empty": "तपाईंले अहिलेसम्म कुनै कमिक थप्नुभएको छैन।",
+  "library.ownedComics": "मान्गा र कमिक",
+  "library.ownedComics.empty": "तपाईंले अहिलेसम्म कुनै मान्गा वा कमिक थप्नुभएको छैन।",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

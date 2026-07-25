@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Paglabag sa karapatan sa pag-aaring intelektwal",
   "feedback.copyrightReport.desc": "Iulat ang Paglabag sa Karapatan sa Pag-aaring Intelektwal",
   "feedback.report.noUser": "Kailangan mong mag-sign in upang mag-file ng ulat.",
+  "feedback.takedown": "Tinanggal",
+  "feedback.takedown.action": "Tanggalin",
   "feedback.voting.totalVoters": "Mga bumoto na mga user: {voted, number}",
   "feedback.voting.upvote": "Up vote",
   "feedback.voting.downvote": "Down vote",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "Iba Pa",
-  "feedback.report.copyrightType.propertySelectLabel": "Which {type, select,\n    universe {universe}\n    story {story}\n    other {story}\n  } is being infringed?",
+  "feedback.report.copyrightType.propertySelectLabel": "Which {type, select,\n    universe {universe}\n    story {story}\n    comic {Komiks}\n    other {story}\n  } is being infringed?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Komiks · Mga Setting"
 }

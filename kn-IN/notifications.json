@@ -15,6 +15,8 @@
   "notifications.menu.delete": "ಅಧಿಸೂಚನೆಯನ್ನು ಅಳಿಸಿ",
   "notification.workshopStoryStatus.toHiatus": "ನಿಷ್ಕ್ರಮಣ ಸ್ಥಿತಿಗೆ ಆಯ್ಕೆಮಾಡಲಾಗದ ನಿಮ್ಮ ಕಥೆ {storyName} ಆಫ್ಟರ್ 6 ತಿಂಗಳಾದ ನಿಷ್ಕ್ರಮಣ.",
   "notification.workshopStoryStatus.toCancelled": "ನಿಷ್ಕ್ರಮಣ ಸ್ಥಿತಿಗೆ ಆಯ್ಕೆಮಾಡಲಾಗದ ನಿಮ್ಮ ಕಥೆ {storyName} ಆಫ್ಟರ್ 1 ವರ್ಷವಾದ ನಿಷ್ಕ್ರಮಣ.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} ನಿಷ್ಕ್ರಮಣಗೊಂಡಿದೆ.",
   "notification.followingStoryStatus.toCancelled": "{storyName} ರದ್ದಾಗಿದೆ.",
   "notification.followingNewChapter.new": "{storyName} ನ ಹೊಸ ಅಧ್ಯಾಯವು ಪ್ರಕಟವಾಯಿತು!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.followingNewComicChapter.new": "{comicName} ನ ಹೊಸ ಅಧ್ಯಾಯವು ಪ್ರಕಟವಾಯಿತು!"
 }

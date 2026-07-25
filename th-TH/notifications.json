@@ -15,6 +15,8 @@
   "notifications.menu.delete": "ลบการแจ้งเตือน",
   "notification.workshopStoryStatus.toHiatus": "เรื่องของคุณ {storyName} ถูกตั้งลงอยู่ในการพักหลังจากไม่มีกิจกรรมเป็นเวลา 6 เดือน",
   "notification.workshopStoryStatus.toCancelled": "เรื่องของคุณ {storyName} ถูกตั้งลงถูกยกเลิกอัตโนมัติหลังจากไม่มีกิจกรรมเป็นเวลาหนึ่งปี",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} อยู่ในการพักหลัง",
   "notification.followingStoryStatus.toCancelled": "{storyName} ได้ถูกยกเลิกแล้ว",
   "notification.followingNewChapter.new": "ตอนใหม่ใน {storyName} ได้ถูกเผยแพร่แล้ว",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "การแจ้งเตือนเกี่ยวกับกิจกรรมการสร้างและการจัดการเนื้อหาของคุณ",
   "notifications.category.community.description": "การแจ้งเตือนเกี่ยวกับการมีปฏิสัมพันธ์ทางสังคมและการมีส่วนร่วมในชุมชน",
   "notifications.category.reading.description": "การแจ้งเตือนเกี่ยวกับเนื้อหาใหม่และกิจกรรมการอ่าน",
-  "notifications.category.system.description": "การแจ้งเตือนระบบและการอัปเดตที่สำคัญ"
+  "notifications.category.system.description": "การแจ้งเตือนระบบและการอัปเดตที่สำคัญ",
+  "notification.followingNewComicChapter.new": "ตอนใหม่ใน {comicName} ได้ถูกเผยแพร่แล้ว"
 }

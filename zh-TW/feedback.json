@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "版權侵犯",
   "feedback.copyrightReport.desc": "舉報版權侵犯",
   "feedback.report.noUser": "您需要登錄才能提交舉報。",
+  "feedback.takedown": "已下架",
+  "feedback.takedown.action": "下架",
   "feedback.voting.totalVoters": "用戶投票： {voted, number}",
   "feedback.voting.upvote": "支持",
   "feedback.voting.downvote": "反對",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "拉客",
   "feedback.reportType.aiUnmarked": "未標示的 AI 產生內容",
   "feedback.reportType.other": "其他",
-  "feedback.report.copyrightType.propertySelectLabel": "哪個 {type, select,\n    universe {宇宙}\n    story {故事}\n    other {故事}\n  } 受到侵害？",
+  "feedback.report.copyrightType.propertySelectLabel": "哪個 {type, select,\n    universe {宇宙}\n    story {故事}\n    comic {漫畫}\n    other {故事}\n  } 受到侵害？",
   "feedback.help.articles": "文章",
   "feedback.help.courses": "課程",
   "feedback.help.videoTutorials": "視訊教學",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "漫畫 · 設定"
 }

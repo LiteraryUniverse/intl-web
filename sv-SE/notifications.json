@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Ta bort meddelande",
   "notification.workshopStoryStatus.toHiatus": "Din berättelse {storyName} har automatiskt satts på paus efter sex månaders inaktivitet.",
   "notification.workshopStoryStatus.toCancelled": "Din berättelse {storyName} har automatiskt avbrutits efter ett års inaktivitet.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} är på paus.",
   "notification.followingStoryStatus.toCancelled": "{storyName} har avbrutits.",
   "notification.followingNewChapter.new": "Ny kapitel i {storyName} har publicerats!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Meddelanden om dina aktiviteter för att skapa och hantera innehåll",
   "notifications.category.community.description": "Meddelanden om sociala interaktioner och samhällsengagemang",
   "notifications.category.reading.description": "Meddelanden om nytt innehåll och läsaktiviteter",
-  "notifications.category.system.description": "Systemmeddelanden och viktiga uppdateringar"
+  "notifications.category.system.description": "Systemmeddelanden och viktiga uppdateringar",
+  "notification.followingNewComicChapter.new": "Ny kapitel i {comicName} har publicerats!"
 }

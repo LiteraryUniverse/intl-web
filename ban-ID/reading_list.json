@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Ragané durung madué manga utawi komik",
   "readingList.title": "Reading list",
+  "readingList.type.comics": "Manga & Komik",
   "readingList.type.label": "List type",
   "readingList.type.stories": "Stories",
   "readingList.type.universes": "Universes",

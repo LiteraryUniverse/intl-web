@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Henüz manganız veya çizgi romanınız yok",
   "readingList.title": "Okuma listesi",
+  "readingList.type.comics": "Manga ve çizgi romanlar",
   "readingList.type.label": "Liste tipi",
   "readingList.type.stories": "Hikayeler",
   "readingList.type.universes": "Evrenler",

@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "У вас ще немає манґи чи коміксів",
   "readingList.title": "Список для читання",
+  "readingList.type.comics": "Манґа та комікси",
   "readingList.type.label": "Тип списку",
   "readingList.type.stories": "Iсторії",
   "readingList.type.universes": "Всесвіти",

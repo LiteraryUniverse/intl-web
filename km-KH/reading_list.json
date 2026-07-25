@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "អ្នកមិនទាន់មានម៉ាំងហ្គា ឬសៀវភៅរូបភាពទេ",
   "readingList.title": "បញ្ជី​អាន",
+  "readingList.type.comics": "ម៉ាំងហ្គា និងសៀវភៅរូបភាព",
   "readingList.type.label": "ប្រភេទ​បញ្ជី",
   "readingList.type.stories": "រឿងថ្មីៗ",
   "readingList.type.universes": "ពិភពលោក",

@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Bạn chưa có manga hoặc truyện tranh nào",
   "readingList.title": "Danh sách đọc",
+  "readingList.type.comics": "Manga & truyện tranh",
   "readingList.type.label": "Loại danh sách",
   "readingList.type.stories": "Câu chuyện",
   "readingList.type.universes": "Các vũ trụ",

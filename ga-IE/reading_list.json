@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Níl aon manga ná greannáin agat fós",
   "readingList.title": "Liosta léitheoireachta",
+  "readingList.type.comics": "Manga & greannáin",
   "readingList.type.label": "Cineál liosta",
   "readingList.type.stories": "Scéalta",
   "readingList.type.universes": "Aontachtaí",

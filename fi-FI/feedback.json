@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Tekijänoikeuden rikkominen",
   "feedback.copyrightReport.desc": "Raportti tekijänoikeusrikkomuksesta",
   "feedback.report.noUser": "Sinun on kirjauduttava sisään, jotta voit tehdä raportin.",
+  "feedback.takedown": "Poistettu näkyvistä",
+  "feedback.takedown.action": "Poista näkyvistä",
   "feedback.voting.totalVoters": "Käyttäjät äänestivät: {voted, number}",
   "feedback.voting.upvote": "Tykkää",
   "feedback.voting.downvote": "Tykkäämättä",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Merkitsemätön tekoälyn luoma sisältö",
   "feedback.reportType.other": "Muut",
-  "feedback.report.copyrightType.propertySelectLabel": "Minkä {type, select,\n    universe {universumin}\n    story {tarinaa}\n    other {tarinaa}\n  } loukataan?",
+  "feedback.report.copyrightType.propertySelectLabel": "Minkä {type, select,\n    universe {universumin}\n    story {tarinaa}\n    comic {Sarjakuva}\n    other {tarinaa}\n  } loukataan?",
   "feedback.help.articles": "Artikkelit",
   "feedback.help.courses": "Kurssit",
   "feedback.help.videoTutorials": "Video-oppaat",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Sarjakuva · Asetukset"
 }

@@ -15,6 +15,8 @@
   "notifications.menu.delete": "सूचना हटाएं",
   "notification.workshopStoryStatus.toHiatus": "आपकी कहानी {storyName} स्वचालित रूप से सक्रियता के 6 महीने के बाद विराम पर सेट की गई है।",
   "notification.workshopStoryStatus.toCancelled": "आपकी कहानी {storyName} स्वचालित रूप से सक्रियता के एक वर्ष के बाद रद्द कर दी गई है।",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} विराम पर है।",
   "notification.followingStoryStatus.toCancelled": "{storyName} रद्द कर दी गई है।",
   "notification.followingNewChapter.new": "{storyName} में नया अध्याय प्रकाशित हुआ है!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.followingNewComicChapter.new": "{comicName} में नया अध्याय प्रकाशित हुआ है!"
 }

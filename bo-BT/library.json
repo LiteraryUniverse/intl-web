@@ -12,7 +12,7 @@
   "library.ownedStories": "Purchased stories",
   "library.ownedAudiobooks": "སྒྲ་དེབ",
   "library.ownedAudiobooks.empty": "ཁྱེད་ཀྱིས་ད་དུང་སྒྲ་དེབ་གང་ཡང་ཉོས་མེད།",
-  "library.ownedComics": "རི་མོ་སྒྲུང",
-  "library.ownedComics.empty": "ཁྱེད་ཀྱིས་ད་དུང་རི་མོ་སྒྲུང་གང་ཡང་སྣོན་མེད།",
+  "library.ownedComics": "Manga དང་རི་མོ་སྒྲུང་།",
+  "library.ownedComics.empty": "ཁྱེད་ཀྱིས་ད་དུང་ Manga ཡང་ན་རི་མོ་སྒྲུང་གང་ཡང་བསྣན་མེད།",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

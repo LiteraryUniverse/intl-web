@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "การละเมิดลิขสิทธิ์",
   "feedback.copyrightReport.desc": "รายงานการละเมิดลิขสิทธิ์",
   "feedback.report.noUser": "คุณต้องลงชื่อเข้าใช้เพื่อแจ้งรายงาน",
+  "feedback.takedown": "ถูกถอดออก",
+  "feedback.takedown.action": "ถอดออก",
   "feedback.voting.totalVoters": "ผู้ใช้งานลงคะแนนเสียง: {voted, number}",
   "feedback.voting.upvote": "ลงคะแนนเสียงเพื่อเป็นกำลังใจ",
   "feedback.voting.downvote": "ลงคะแนนเสียงเพื่อลดความนิยม",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "อื่นๆ",
-  "feedback.report.copyrightType.propertySelectLabel": "ในจักรวาล {type, select,\n    universe {นิทาน}\n    story {เรื่อง}\n    other {เรื่อง}\n  } ที่ถูกละเมิด?",
+  "feedback.report.copyrightType.propertySelectLabel": "ในจักรวาล {type, select,\n    universe {นิทาน}\n    story {เรื่อง}\n    comic {การ์ตูน}\n    other {เรื่อง}\n  } ที่ถูกละเมิด?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "หลักสูตร",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "การ์ตูน · ตั้งค่า"
 }

@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Διαγραφή ειδοποίησης",
   "notification.workshopStoryStatus.toHiatus": "Η ιστορία σας {storyName} πήρε αυτόματα μία παύση μετά από 6 μήνες αδράνειας.",
   "notification.workshopStoryStatus.toCancelled": "Η ιστορία σας {storyName} πήρε αυτόματα ακύρωση μετά από ένα χρόνο αδράνειας.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} είναι σε παύση.",
   "notification.followingStoryStatus.toCancelled": "{storyName} έχει ακυρωθεί.",
   "notification.followingNewChapter.new": "Νέο κεφάλαιο στο {storyName} έχει δημοσιευτεί!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Ειδοποιήσεις σχετικά με τις δραστηριότητες δημιουργίας και διαχείρισης περιεχομένου",
   "notifications.category.community.description": "Ειδοποιήσεις για κοινωνικές αλληλεπιδράσεις και συμμετοχή στην κοινότητα",
   "notifications.category.reading.description": "Ειδοποιήσεις για νέο περιεχόμενο και δραστηριότητες ανάγνωσης",
-  "notifications.category.system.description": "Ειδοποιήσεις συστήματος και σημαντικές ενημερώσεις"
+  "notifications.category.system.description": "Ειδοποιήσεις συστήματος και σημαντικές ενημερώσεις",
+  "notification.followingNewComicChapter.new": "Νέο κεφάλαιο στο {comicName} έχει δημοσιευτεί!"
 }

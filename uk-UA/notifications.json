@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Видалити сповіщення",
   "notification.workshopStoryStatus.toHiatus": "Вашу історію {storyName} автоматично переведено в режим паузи після 6 місяців бездіяльності.",
   "notification.workshopStoryStatus.toCancelled": "Вашу історію {storyName} автоматично скасовано після одного року бездіяльності.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} перебуває в режимі паузи.",
   "notification.followingStoryStatus.toCancelled": "{storyName} було скасовано.",
   "notification.followingNewChapter.new": "Опубліковано нову главу в {storyName}!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Сповіщення про вашу діяльність зі створення та управління контентом",
   "notifications.category.community.description": "Сповіщення про соціальні взаємодії та залучення громадськості",
   "notifications.category.reading.description": "Сповіщення про новий контент та активності з читання",
-  "notifications.category.system.description": "Системні сповіщення та важливі оновлення"
+  "notifications.category.system.description": "Системні сповіщення та важливі оновлення",
+  "notification.followingNewComicChapter.new": "Опубліковано нову главу в {comicName}!"
 }

@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "നിങ്ങൾക്ക് ഇതുവരെ മാംഗയോ കോമിക്സോ ഇല്ല",
   "readingList.title": "പട്ടിക വായനാപട്ടി",
+  "readingList.type.comics": "മാംഗയും കോമിക്സും",
   "readingList.type.label": "പട്ടിക തരം",
   "readingList.type.stories": "കഥകൾ",
   "readingList.type.universes": "ബ്രഹ്മാണ്ഡങ്ങൾ",

@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Még nincs mangád vagy képregényed",
   "readingList.title": "Olvasási lista",
+  "readingList.type.comics": "Manga és képregények",
   "readingList.type.label": "Lista típus",
   "readingList.type.stories": "Történetek",
   "readingList.type.universes": "Univerzumok",

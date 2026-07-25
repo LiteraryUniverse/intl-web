@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Jy het nog geen manga of strokiesprente nie",
   "readingList.title": "Leeslys",
+  "readingList.type.comics": "Manga & strokiesprente",
   "readingList.type.label": "Lys tipe",
   "readingList.type.stories": "Stories",
   "readingList.type.universes": "Heelalle",

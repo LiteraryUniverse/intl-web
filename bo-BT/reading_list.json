@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "ཁྱེད་ལ་ Manga ཡང་ན་རི་མོ་སྒྲུང་མེད།",
   "readingList.title": "Reading list",
+  "readingList.type.comics": "Manga དང་རི་མོ་སྒྲུང་།",
   "readingList.type.label": "List type",
   "readingList.type.stories": "Stories",
   "readingList.type.universes": "ནང་བསྟན་ཚགས་པ།",

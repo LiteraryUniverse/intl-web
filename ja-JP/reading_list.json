@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "まだ漫画・コミックがありません",
   "readingList.title": "読書リスト",
+  "readingList.type.comics": "漫画・コミック",
   "readingList.type.label": "リストタイプ",
   "readingList.type.stories": "物語",
   "readingList.type.universes": "宇宙関連もの",

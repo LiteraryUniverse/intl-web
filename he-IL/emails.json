@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} הגיב על התיקון שלך: \"{commentText}\"",
   "email.comment.feedback.subject": "תגובה חדשה על משוב",
   "email.comment.feedback.body": "{commenterName} הגיב על הבעיה שהעלית: \"{commentText}\"",
-  "email.welcome.subject": "ברוכים הבאים ליקום הספרותי!"
+  "email.welcome.subject": "ברוכים הבאים ליקום הספרותי!",
+  "email.comics.chapterPublished.subject": "פרק חדש זמין: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "פרק חדש פורסם",
+  "email.comics.chapterPublished.details": "קומיקס: {comicTitle} • פרק: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "פתח פרק"
 }

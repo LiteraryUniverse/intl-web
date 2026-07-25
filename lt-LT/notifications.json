@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Ištrinti pranešimą",
   "notification.workshopStoryStatus.toHiatus": "Jūsų istorija {storyName} automatiškai nustatyta kaip laikinas po 6 mėnesių neaktyvumo.",
   "notification.workshopStoryStatus.toCancelled": "Jūsų istorija {storyName} automatiškai nustatyta kaip atšaukta po vienerių metų neaktyvumo.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} sustojo.",
   "notification.followingStoryStatus.toCancelled": "{storyName} buvo atšauktas.",
   "notification.followingNewChapter.new": "Paskelbtas naujas skyrius {storyName}!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Pranešimai apie turinio kūrimo ir valdymo veiklą",
   "notifications.category.community.description": "Pranešimai apie socialinę sąveiką ir bendruomenės dalyvavimą",
   "notifications.category.reading.description": "Pranešimai apie naują turinį ir skaitymo veiklą",
-  "notifications.category.system.description": "Sistemos pranešimai ir svarbūs atnaujinimai"
+  "notifications.category.system.description": "Sistemos pranešimai ir svarbūs atnaujinimai",
+  "notification.followingNewComicChapter.new": "Paskelbtas naujas skyrius {comicName}!"
 }

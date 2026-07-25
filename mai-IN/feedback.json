@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "कपीराइट उल्लंघन",
   "feedback.copyrightReport.desc": "कपीराइट उल्लंघन सूचना दिनुहोस्",
   "feedback.report.noUser": "कृपया रिपोर्ट फाइल गर्नका लागि साइन इन गर्नुहोस्।",
+  "feedback.takedown": "हटाओल गेल",
+  "feedback.takedown.action": "हटाउ",
   "feedback.voting.totalVoters": "प्रयोगकर्ताहरूले मत दिएको छन्: {voted, number}",
   "feedback.voting.upvote": "मत दिनुहोस्",
   "feedback.voting.downvote": "मत नदिनुहोस्",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "अन्य",
-  "feedback.report.copyrightType.propertySelectLabel": "कुन {type, select,\n    universe {यूनिभर्स}\n    story {कथा}\n    other {कथा}\n  } उल्लंघन गरिएको छ?",
+  "feedback.report.copyrightType.propertySelectLabel": "कुन {type, select,\n    universe {यूनिभर्स}\n    story {कथा}\n    comic {कॉमिक्स}\n    other {कथा}\n  } उल्लंघन गरिएको छ?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "कॉमिक्स · सेटिंग्स"
 }

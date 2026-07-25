@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Нарушение авторских прав",
   "feedback.copyrightReport.desc": "Сообщить о нарушении авторских прав",
   "feedback.report.noUser": "Вы должны войти, чтобы отправить жалобу.",
+  "feedback.takedown": "Снято с публикации",
+  "feedback.takedown.action": "Снять с публикации",
   "feedback.voting.totalVoters": "Пользователей проголосовали: {voted, number}",
   "feedback.voting.upvote": "Полож. голос",
   "feedback.voting.downvote": "Отриц. голос",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Привлечение",
   "feedback.reportType.aiUnmarked": "Неотмеченный контент, созданный искусственным интеллектом",
   "feedback.reportType.other": "Другое",
-  "feedback.report.copyrightType.propertySelectLabel": "Какая {type, select,\n    universe {вселенная}\n    story {история}\n    other {история}\n  } нарушается?",
+  "feedback.report.copyrightType.propertySelectLabel": "Какая {type, select,\n    universe {вселенная}\n    story {история}\n    comic {Комикс}\n    other {история}\n  } нарушается?",
   "feedback.help.articles": "Статьи",
   "feedback.help.courses": "Курсы",
   "feedback.help.videoTutorials": "Видеоуроки",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "Рекомендуемых курсов пока нет.",
   "resolutionCenter.action.correctAgeRating": "Исправить возрастной рейтинг",
   "resolutionCenter.reportDetail": "Детали жалобы",
-  "resolutionCenter.dashboard.title": "Центр урегулирования"
+  "resolutionCenter.dashboard.title": "Центр урегулирования",
+  "feedback.report.actions.comicSettings": "Комикс · Настройки"
 }

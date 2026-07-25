@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Aŭtorsrajta malobservo",
   "feedback.copyrightReport.desc": "Raporti aŭtorsrajtan malobservon",
   "feedback.report.noUser": "Vi devas esti ensalutinta por raporti.",
+  "feedback.takedown": "Forigita",
+  "feedback.takedown.action": "Forigi",
   "feedback.voting.totalVoters": "Uzantoj voĉdonis: {voted, number}",
   "feedback.voting.upvote": "Supervoti",
   "feedback.voting.downvote": "Malsupervoti",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "Aliaj",
-  "feedback.report.copyrightType.propertySelectLabel": "Kiu {type, select,\n    universe {universo}\n    story {rakonto}\n    other {rakonto}\n  } estas ŝteliĝanta?",
+  "feedback.report.copyrightType.propertySelectLabel": "Kiu {type, select,\n    universe {universo}\n    story {rakonto}\n    comic {Komikso}\n    other {rakonto}\n  } estas ŝteliĝanta?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Komikso · Agordoj"
 }

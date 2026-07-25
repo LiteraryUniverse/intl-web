@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} แสดงความคิดเห็นเกี่ยวกับการแก้ไขของคุณ: \"{commentText}\"",
   "email.comment.feedback.subject": "ความคิดเห็นใหม่เกี่ยวกับข้อเสนอแนะ",
   "email.comment.feedback.body": "{commenterName} แสดงความคิดเห็นเกี่ยวกับปัญหาข้อเสนอแนะของคุณ: \"{commentText}\"",
-  "email.welcome.subject": "ยินดีต้อนรับสู่จักรวาลวรรณกรรม!"
+  "email.welcome.subject": "ยินดีต้อนรับสู่จักรวาลวรรณกรรม!",
+  "email.comics.chapterPublished.subject": "บทใหม่พร้อมให้อ่านแล้ว: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "บทใหม่เผยแพร่แล้ว",
+  "email.comics.chapterPublished.details": "เรื่อง: {comicTitle} • บท: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "เปิดบท"
 }

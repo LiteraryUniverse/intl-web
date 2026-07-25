@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Copyright violation",
   "feedback.copyrightReport.desc": "Report Copyright violation",
   "feedback.report.noUser": "You need to be signed in, in order to file a report.",
+  "feedback.takedown": "ହଟାଯାଇଛି",
+  "feedback.takedown.action": "ହଟାନ୍ତୁ",
   "feedback.voting.totalVoters": "Users voted: {voted, number}",
   "feedback.voting.upvote": "Up vote",
   "feedback.voting.downvote": "Down vote",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "ଅନ୍ୟ",
-  "feedback.report.copyrightType.propertySelectLabel": "କୌଣ {type, select,\n    universe {ବିଶ୍ବ}\n    story {କାହାଣୀ}\n    other {କାହାଣୀ}\n  } ଅପରାଧ କରାଯାଇଛି?",
+  "feedback.report.copyrightType.propertySelectLabel": "କୌଣ {type, select,\n    universe {ବିଶ୍ବ}\n    story {କାହାଣୀ}\n    comic {କମିକ୍}\n    other {କାହାଣୀ}\n  } ଅପରାଧ କରାଯାଇଛି?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "କମିକ୍ · Settings"
 }

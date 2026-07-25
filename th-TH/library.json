@@ -12,7 +12,7 @@
   "library.ownedStories": "เรื่องราวที่ซื้อมา",
   "library.ownedAudiobooks": "หนังสือเสียง",
   "library.ownedAudiobooks.empty": "คุณยังไม่ได้ซื้อหนังสือเสียงเลย",
-  "library.ownedComics": "การ์ตูน",
-  "library.ownedComics.empty": "คุณยังไม่ได้เพิ่มการ์ตูนเลย",
+  "library.ownedComics": "มังงะและการ์ตูน",
+  "library.ownedComics.empty": "คุณยังไม่ได้เพิ่มมังงะหรือการ์ตูน",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

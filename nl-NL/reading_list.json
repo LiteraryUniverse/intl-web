@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Je hebt nog geen manga of strips",
   "readingList.title": "Leeslijst",
+  "readingList.type.comics": "Manga & strips",
   "readingList.type.label": "Lijsttype",
   "readingList.type.stories": "Verhalen",
   "readingList.type.universes": "Universums",

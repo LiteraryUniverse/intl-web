@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "אין לכם עדיין מנגה או קומיקס",
   "readingList.title": "רשימת קריאה",
+  "readingList.type.comics": "מנגה וקומיקס",
   "readingList.type.label": "סוג רשימה",
   "readingList.type.stories": "סיפורים",
   "readingList.type.universes": "יקומים",

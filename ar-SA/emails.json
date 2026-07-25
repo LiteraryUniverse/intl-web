@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} علّق على مراجعتك \"{commentText}\"",
   "email.comment.feedback.subject": "تعليق جديد على الملاحظات",
   "email.comment.feedback.body": "{commenterName} علّق على مشكلة ملاحظاتك \"{commentText}\"",
-  "email.welcome.subject": "مرحباً بك في عالم الأدب!"
+  "email.welcome.subject": "مرحباً بك في عالم الأدب!",
+  "email.comics.chapterPublished.subject": "فصل جديد متاح \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "تم نشر فصل جديد",
+  "email.comics.chapterPublished.details": "القصة مصورة {comicTitle} - الفصل: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "الفصل المفتوح"
 }

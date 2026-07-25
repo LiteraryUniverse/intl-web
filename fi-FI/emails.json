@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} kommentoi tarkistustasi: \"{commentText}\"",
   "email.comment.feedback.subject": "Uusi kommentti palautteesta",
   "email.comment.feedback.body": "{commenterName} kommentoi palauteasiaa: \"{commentText}\"",
-  "email.welcome.subject": "Tervetuloa kirjallisuuden universumiin!"
+  "email.welcome.subject": "Tervetuloa kirjallisuuden universumiin!",
+  "email.comics.chapterPublished.subject": "Uusi luku saatavilla: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Uusi luku julkaistu",
+  "email.comics.chapterPublished.details": "Sarjakuva: {comicTitle} - Kertomus: Luku: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Avaa luku"
 }

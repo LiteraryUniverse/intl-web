@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Violació dels drets d'autor",
   "feedback.copyrightReport.desc": "Informar sobre una violació dels drets d'autor",
   "feedback.report.noUser": "Has d'iniciar sessió per poder presentar un informe.",
+  "feedback.takedown": "Retirat",
+  "feedback.takedown.action": "Retira",
   "feedback.voting.totalVoters": "Usuaris que han votat: {voted, number}",
   "feedback.voting.upvote": "Vot positiu",
   "feedback.voting.downvote": "Vot negatiu",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "Altres",
-  "feedback.report.copyrightType.propertySelectLabel": "Quin {type, select,\n    universe {univers}\n    story {història}\n    other {història}\n  } s'està infringint?",
+  "feedback.report.copyrightType.propertySelectLabel": "Quin {type, select,\n    universe {univers}\n    story {història}\n    comic {Còmic}\n    other {història}\n  } s'està infringint?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Còmic · Configuració"
 }

@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "著作権侵害",
   "feedback.copyrightReport.desc": "著作権侵害を報告する",
   "feedback.report.noUser": "レポートを提出するには、サインインする必要があります。",
+  "feedback.takedown": "非公開化済み",
+  "feedback.takedown.action": "非公開にする",
   "feedback.voting.totalVoters": "ユーザーが投票しました：{voted, number}",
   "feedback.voting.upvote": "賛成票",
   "feedback.voting.downvote": "反対票",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "勧誘",
   "feedback.reportType.aiUnmarked": "無印のAI生成コンテンツ",
   "feedback.reportType.other": "その他",
-  "feedback.report.copyrightType.propertySelectLabel": "どの {type, select,\n    universe {宇宙}\n    story {物語}\n    other {物語}\n  }が侵害されていますか？",
+  "feedback.report.copyrightType.propertySelectLabel": "どの {type, select,\n    universe {宇宙}\n    story {物語}\n    comic {コミック}\n    other {物語}\n  }が侵害されていますか？",
   "feedback.help.articles": "記事",
   "feedback.help.courses": "コース",
   "feedback.help.videoTutorials": "ビデオ・チュートリアル",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "コミック · 設定"
 }

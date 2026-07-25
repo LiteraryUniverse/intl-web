@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "ನಿಮ್ಮ ಬಳಿ ಇನ್ನೂ ಮಂಗಾ ಅಥವಾ ಕಾಮಿಕ್ಸ್ ಇಲ್ಲ",
   "readingList.title": "ಓದುಗರ ಪಟ್ಟಿ",
+  "readingList.type.comics": "ಮಂಗಾ ಮತ್ತು ಕಾಮಿಕ್ಸ್",
   "readingList.type.label": "ಪಟ್ಟಿ ಪ್ರಕಾರ",
   "readingList.type.stories": "ಕಥೆಗಳು",
   "readingList.type.universes": "ಬ್ರಹ್ಮಾಂಡಗಳು",

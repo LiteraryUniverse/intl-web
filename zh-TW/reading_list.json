@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "你還沒有任何漫畫",
   "readingList.title": "閱讀清單",
+  "readingList.type.comics": "漫畫",
   "readingList.type.label": "清單類型",
   "readingList.type.stories": "故事",
   "readingList.type.universes": "宇宙",

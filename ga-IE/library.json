@@ -12,7 +12,7 @@
   "library.ownedStories": "Scéalta ceannaithe",
   "library.ownedAudiobooks": "Closleabhair",
   "library.ownedAudiobooks.empty": "Níor cheannaigh tú aon chlosleabhar fós.",
-  "library.ownedComics": "Greannáin",
-  "library.ownedComics.empty": "Níor chuir tú aon ghreannán leis fós.",
+  "library.ownedComics": "Manga & greannáin",
+  "library.ownedComics.empty": "Níor chuir tú manga ná greannáin leis go fóill.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} あなたのリビジョンについてコメントしました：\"{commentText}\"",
   "email.comment.feedback.subject": "フィードバックに関する新しいコメント",
   "email.comment.feedback.body": "{commenterName} コメント\"{commentText}\"",
-  "email.welcome.subject": "文学の宇宙へようこそ！"
+  "email.welcome.subject": "文学の宇宙へようこそ！",
+  "email.comics.chapterPublished.subject": "新章スタート\"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "新章を発表",
+  "email.comics.chapterPublished.details": "ストーリー {comicTitle} - 章 {chapterTitle}",
+  "email.comics.chapterPublished.cta": "章を開く"
 }

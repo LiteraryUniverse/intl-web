@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Smazat oznámení",
   "notification.workshopStoryStatus.toHiatus": "Váš příběh {storyName} byl automaticky nastaven na hiatus po 6 měsících nečinnosti.",
   "notification.workshopStoryStatus.toCancelled": "Váš příběh {storyName} byl automaticky nastaven na zrušený po roce bez nových kapitol.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} je na hiatusu.",
   "notification.followingStoryStatus.toCancelled": "{storyName} byla zrušena.",
   "notification.followingNewChapter.new": "Nová kapitola {storyName} byla publikována!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Upozornění na činnosti související s tvorbou a správou obsahu",
   "notifications.category.community.description": "Oznámení o sociálních interakcích a zapojení komunity",
   "notifications.category.reading.description": "Upozornění na nový obsah a aktivity spojené se čtením",
-  "notifications.category.system.description": "Systémová oznámení a důležité aktualizace"
+  "notifications.category.system.description": "Systémová oznámení a důležité aktualizace",
+  "notification.followingNewComicChapter.new": "Nová kapitola {comicName} byla publikována!"
 }

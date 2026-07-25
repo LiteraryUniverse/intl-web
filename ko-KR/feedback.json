@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "저작권 위반",
   "feedback.copyrightReport.desc": "저작권 위반 신고",
   "feedback.report.noUser": "신고를 제출하려면 로그인해야 합니다.",
+  "feedback.takedown": "게시 중단됨",
+  "feedback.takedown.action": "게시 중단",
   "feedback.voting.totalVoters": "사용자 투표: {voted, number}",
   "feedback.voting.upvote": "추천",
   "feedback.voting.downvote": "비추천",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "권유하기",
   "feedback.reportType.aiUnmarked": "표시되지 않은 AI 생성 콘텐츠",
   "feedback.reportType.other": "기타",
-  "feedback.report.copyrightType.propertySelectLabel": "어느 {type, select,\n    universe {유니버스}\n    story {스토리}\n    other {스토리}\n  } 의 저작권이 침해되고 있나요?",
+  "feedback.report.copyrightType.propertySelectLabel": "어느 {type, select,\n    universe {유니버스}\n    story {스토리}\n    comic {코믹}\n    other {스토리}\n  } 의 저작권이 침해되고 있나요?",
   "feedback.help.articles": "기사",
   "feedback.help.courses": "코스",
   "feedback.help.videoTutorials": "동영상 튜토리얼",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "코믹 · 설정"
 }

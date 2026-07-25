@@ -12,7 +12,7 @@
   "library.ownedStories": "Các câu chuyện đã mua",
   "library.ownedAudiobooks": "Sách nói",
   "library.ownedAudiobooks.empty": "Bạn chưa mua sách nói nào.",
-  "library.ownedComics": "Truyện tranh",
-  "library.ownedComics.empty": "Bạn chưa thêm truyện tranh nào.",
+  "library.ownedComics": "Manga & truyện tranh",
+  "library.ownedComics.empty": "Bạn chưa thêm manga hoặc truyện tranh nào.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

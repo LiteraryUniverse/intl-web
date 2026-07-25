@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Szerzői jog megsértése",
   "feedback.copyrightReport.desc": "Szerzői jog megsértésének jelentése",
   "feedback.report.noUser": "Be kell jelentkezned ahhoz, hogy jelentést küldhess.",
+  "feedback.takedown": "Levéve",
+  "feedback.takedown.action": "Levétel",
   "feedback.voting.totalVoters": "A felhasználók szavaztak: {voted, number}",
   "feedback.voting.upvote": "Felfelé szavazás",
   "feedback.voting.downvote": "Lefelé szavazás",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "A  weboldalon történő felkérés.",
   "feedback.reportType.aiUnmarked": "Jelöletlen mesterséges intelligencia által generált tartalom",
   "feedback.reportType.other": "Egyéb",
-  "feedback.report.copyrightType.propertySelectLabel": "Melyik {type, select,\n    universe {univerzum}\n    story {történet}\n    other {történet}\n  } sérül?",
+  "feedback.report.copyrightType.propertySelectLabel": "Melyik {type, select,\n    universe {univerzum}\n    story {történet}\n    comic {Képregény}\n    other {történet}\n  } sérül?",
   "feedback.help.articles": "Cikkek",
   "feedback.help.courses": "Tanfolyamok",
   "feedback.help.videoTutorials": "Videó oktatóvideók",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Képregény · Beállítások"
 }

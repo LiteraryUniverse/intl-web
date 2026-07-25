@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Kustuta teavitus",
   "notification.workshopStoryStatus.toHiatus": "Teie lugu {storyName} seati pärast 6 kuud tegevusetust automaatselt peatusse.",
   "notification.workshopStoryStatus.toCancelled": "Teie lugu {storyName} seati pärast üheaastast tegevusetust automaatselt tühistatuks.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} on peatusse seatud.",
   "notification.followingStoryStatus.toCancelled": "{storyName} on tühistatud.",
   "notification.followingNewChapter.new": "{storyName} -s on avaldatud uus peatükk!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Teated teie sisu loomise ja haldamise tegevuste kohta",
   "notifications.category.community.description": "Teated sotsiaalse suhtluse ja kogukonna kaasamise kohta",
   "notifications.category.reading.description": "Teated uue sisu ja lugemistegevuste kohta",
-  "notifications.category.system.description": "Süsteemi teated ja olulised uuendused"
+  "notifications.category.system.description": "Süsteemi teated ja olulised uuendused",
+  "notification.followingNewComicChapter.new": "{comicName} -s on avaldatud uus peatükk!"
 }

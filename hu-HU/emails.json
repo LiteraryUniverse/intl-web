@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} kommentálta az átdolgozását: \"{commentText}\"",
   "email.comment.feedback.subject": "Új megjegyzés a visszajelzésekhez",
   "email.comment.feedback.body": "{commenterName} kommentálta az Ön visszajelzési kérdését: \"{commentText}\"",
-  "email.welcome.subject": "Üdvözöljük az Irodalmi Univerzumban!"
+  "email.welcome.subject": "Üdvözöljük az Irodalmi Univerzumban!",
+  "email.comics.chapterPublished.subject": "Új fejezet elérhető: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Új fejezet megjelent",
+  "email.comics.chapterPublished.details": "Képregény: {comicTitle} - Fejezet: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Fejezet megnyitása"
 }

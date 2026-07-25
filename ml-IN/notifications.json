@@ -15,6 +15,8 @@
   "notifications.menu.delete": "അറിയിപ്പിൽ നിന്ന് മായ്‌ക്കുക",
   "notification.workshopStoryStatus.toHiatus": "നിങ്ങളുടെ കഥ {storyName} നിട്ടും നിഷ്ക്രിയമായി പൊഴിച്ചോട്ട് സജ്ജമാക്കപ്പെടുന്നു.",
   "notification.workshopStoryStatus.toCancelled": "നിങ്ങളുടെ കഥ {storyName} നിലവിൽ നിലവാരക്കാർക്ക് നിരോധിച്ചു പൊളിപ്പിച്ചു.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} പൊഴിച്ചോട്ട് ഡിറ്റണായിരിക്കുന്നു.",
   "notification.followingStoryStatus.toCancelled": "{storyName} പൊഴിച്ചോട്ട് അവസാനിക്കുന്നു.",
   "notification.followingNewChapter.new": "{storyName} കഥയിൽ പുതിയ അദ്ധ്യായം പ്രസിദ്ധീകരിച്ചു!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.followingNewComicChapter.new": "{comicName} കഥയിൽ പുതിയ അദ്ധ്യായം പ്രസിദ്ധീകരിച്ചു!"
 }

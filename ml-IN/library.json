@@ -12,7 +12,7 @@
   "library.ownedStories": "Purchased stories",
   "library.ownedAudiobooks": "ഓഡിയോ പുസ്തകങ്ങൾ",
   "library.ownedAudiobooks.empty": "നിങ്ങൾ ഇതുവരെ ഓഡിയോ പുസ്തകങ്ങളൊന്നും വാങ്ങിയിട്ടില്ല.",
-  "library.ownedComics": "കോമിക്സ്",
-  "library.ownedComics.empty": "നിങ്ങൾ ഇതുവരെ കോമിക്സൊന്നും ചേർത്തിട്ടില്ല.",
+  "library.ownedComics": "മാംഗയും കോമിക്സും",
+  "library.ownedComics.empty": "നിങ്ങൾ ഇതുവരെ മാംഗയോ കോമിക്സോ ചേർത്തിട്ടില്ല.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

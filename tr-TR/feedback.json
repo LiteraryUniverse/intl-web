@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Telif hakkı ihlali",
   "feedback.copyrightReport.desc": "Telif hakkı ihlali bildir",
   "feedback.report.noUser": "Bir rapor göndermek için giriş yapmanız gerekmektedir.",
+  "feedback.takedown": "Yayından kaldırıldı",
+  "feedback.takedown.action": "Yayından kaldır",
   "feedback.voting.totalVoters": "Kullanıcılar oy kullandı: {voted, number}",
   "feedback.voting.upvote": "Yukarı oy",
   "feedback.voting.downvote": "Aşağı oy",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "İşaretlenmemiş yapay zeka tarafından oluşturulmuş içerik",
   "feedback.reportType.other": "Diğer",
-  "feedback.report.copyrightType.propertySelectLabel": "Hangi {type, select,\n    universe {evrenin}\n    story {hikayesi}\n    other {hikayesi}\n  } ihlal ediliyor?",
+  "feedback.report.copyrightType.propertySelectLabel": "Hangi {type, select,\n    universe {evrenin}\n    story {hikayesi}\n    comic {Çizgi roman}\n    other {hikayesi}\n  } ihlal ediliyor?",
   "feedback.help.articles": "Makaleler",
   "feedback.help.courses": "Kurslar",
   "feedback.help.videoTutorials": "Video eğitimleri",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Çizgi roman · Ayarlar"
 }

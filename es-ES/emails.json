@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} ha comentado su revisión: \"{commentText}\"",
   "email.comment.feedback.subject": "Nuevo comentario sobre la retroalimentación",
   "email.comment.feedback.body": "{commenterName} comentó su problema de retroalimentación: \"{commentText}\"",
-  "email.welcome.subject": "¡Bienvenido al Universo Literario!"
+  "email.welcome.subject": "¡Bienvenido al Universo Literario!",
+  "email.comics.chapterPublished.subject": "Nuevo capítulo disponible: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Nuevo capítulo publicado",
+  "email.comics.chapterPublished.details": "Cómic: {comicTitle} - Capítulo: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Abrir capítulo"
 }

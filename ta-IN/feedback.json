@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "பதிப்பாக்கல் மீறல்",
   "feedback.copyrightReport.desc": "பதிப்பாக்கல் மீறலை புகாரளிக்கவும்",
   "feedback.report.noUser": "அறிவிப்பை பதிவு செய்ய நீங்கள் உள்நுழைய வேண்டும்.",
+  "feedback.takedown": "அகற்றப்பட்டது",
+  "feedback.takedown.action": "அகற்று",
   "feedback.voting.totalVoters": "பயனர்கள் வாக்களித்தனர்: {voted, number}",
   "feedback.voting.upvote": "மேலே வாக்கு",
   "feedback.voting.downvote": "கீழே வாக்கு",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "மற்றவை",
-  "feedback.report.copyrightType.propertySelectLabel": "எந்த {type, select,\n    universe {உலகம்}\n    story {கதை}\n    other {கதை}\n  } மீட்டப்படுகிறது?",
+  "feedback.report.copyrightType.propertySelectLabel": "எந்த {type, select,\n    universe {உலகம்}\n    story {கதை}\n    comic {காமிக்}\n    other {கதை}\n  } மீட்டப்படுகிறது?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "பாடநெறிகள்",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "காமிக் · அமைப்புகள்"
 }

@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Удалить уведомление",
   "notification.workshopStoryStatus.toHiatus": "Ваша история \"{storyName}\" была автоматически переведена в состояние приостановленой после 6 месяцев неактивности.",
   "notification.workshopStoryStatus.toCancelled": "Ваша история \"{storyName}\" была автоматически переведена в состояние отменённых после одного года неактивности.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} — приостановлена.",
   "notification.followingStoryStatus.toCancelled": "{storyName} — отменена.",
   "notification.followingNewChapter.new": "Опубликована новая глава в \"{storyName}\"!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Уведомления о Ваших действиях по созданию и управлению контентом",
   "notifications.category.community.description": "Уведомления о социальных взаимодействиях и участии в жизни сообщества",
   "notifications.category.reading.description": "Уведомления о новых материалах и занятиях по чтению",
-  "notifications.category.system.description": "Системные уведомления и важные обновления"
+  "notifications.category.system.description": "Системные уведомления и важные обновления",
+  "notification.followingNewComicChapter.new": "Опубликована новая глава в \"{comicName}\"!"
 }

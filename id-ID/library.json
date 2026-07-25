@@ -12,7 +12,7 @@
   "library.ownedStories": "Cerita yang dibeli",
   "library.ownedAudiobooks": "Buku audio",
   "library.ownedAudiobooks.empty": "Anda belum membeli buku audio apa pun.",
-  "library.ownedComics": "Komik",
-  "library.ownedComics.empty": "Anda belum menambahkan komik apa pun.",
+  "library.ownedComics": "Manga & komik",
+  "library.ownedComics.empty": "Anda belum menambahkan manga atau komik apa pun.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

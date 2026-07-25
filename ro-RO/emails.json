@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} a comentat revizuirea dumneavoastră: \"{commentText}\"",
   "email.comment.feedback.subject": "Comentariu nou privind feedback-ul",
   "email.comment.feedback.body": "{commenterName} a comentat pe problema dvs. de feedback: \"{commentText}\"",
-  "email.welcome.subject": "Bine ați venit la Literary Universe!"
+  "email.welcome.subject": "Bine ați venit la Literary Universe!",
+  "email.comics.chapterPublished.subject": "Nou capitol disponibil: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Capitol nou publicat",
+  "email.comics.chapterPublished.details": "Bandă desenată: {comicTitle} - Capitolul: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Deschideți capitolul"
 }

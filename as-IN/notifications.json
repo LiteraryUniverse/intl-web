@@ -15,6 +15,8 @@
   "notifications.menu.delete": "জাননি মচি পৰিলোঁগিক কৰক",
   "notification.workshopStoryStatus.toHiatus": "আপোনাৰ গল্প {storyName} ব্যৱহাৰ অনকুলতাৰ পিছত শান্তিময় হৈ গছিল।",
   "notification.workshopStoryStatus.toCancelled": "আপোনাৰ গল্প {storyName} ব্যৱহাৰ নবাধ্য হৈ গছিল।",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} শান্তিময়।",
   "notification.followingStoryStatus.toCancelled": "{storyName} নিষ্ক্ৰিয় কৰিবলৈ আগতি দিব।",
   "notification.followingNewChapter.new": "নতুন চাপ্তা {storyName} প্ৰকাশ হৈছে!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.followingNewComicChapter.new": "নতুন চাপ্তা {comicName} প্ৰকাশ হৈছে!"
 }

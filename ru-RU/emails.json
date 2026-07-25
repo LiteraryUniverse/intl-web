@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} прокомментировал Вашу ревизию: \"{commentText}\"",
   "email.comment.feedback.subject": "Новый комментарий к отзыву",
   "email.comment.feedback.body": "{commenterName} прокомментировал Ваш отзыв: \"{commentText}\"",
-  "email.welcome.subject": "Добро пожаловать в Литературную Вселенную!"
+  "email.welcome.subject": "Добро пожаловать в Литературную Вселенную!",
+  "email.comics.chapterPublished.subject": "Новая глава доступна: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Опубликована новая глава",
+  "email.comics.chapterPublished.details": "Комикс: {comicTitle} - Глава: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Открытая глава"
 }

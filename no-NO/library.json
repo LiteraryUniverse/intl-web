@@ -12,7 +12,7 @@
   "library.ownedStories": "Purchased stories",
   "library.ownedAudiobooks": "Lydbøker",
   "library.ownedAudiobooks.empty": "Du har ikke kjøpt noen lydbøker ennå.",
-  "library.ownedComics": "Tegneserier",
-  "library.ownedComics.empty": "Du har ikke lagt til noen tegneserier ennå.",
+  "library.ownedComics": "Manga & tegneserier",
+  "library.ownedComics.empty": "Du har ikke lagt til noen manga eller tegneserier ennå.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

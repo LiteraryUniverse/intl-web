@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Tanggalin ang abiso",
   "notification.workshopStoryStatus.toHiatus": "Naisettings sa hiatus ang iyong kuwento {storyName} matapos ang 6 na buwan ng hindi paggamit.",
   "notification.workshopStoryStatus.toCancelled": "Naisettings sa cancelled ang iyong kuwento {storyName} matapos ang isang taon ng hindi paggamit.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "Nasa hiatus ang  {storyName}.",
   "notification.followingStoryStatus.toCancelled": "Nacancelled na ang  {storyName}.",
   "notification.followingNewChapter.new": "Bagong kabanata sa {storyName}.",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.followingNewComicChapter.new": "Bagong kabanata sa {comicName}."
 }

@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} revizyonunuz hakkında yorum yaptı: \"{commentText}\"",
   "email.comment.feedback.subject": "Geri bildirim hakkında yeni yorum",
   "email.comment.feedback.body": "{commenterName} geri bildirim sorununuz hakkında yorum yaptı: \"{commentText}\"",
-  "email.welcome.subject": "Edebiyat Evrenine hoş geldiniz!"
+  "email.welcome.subject": "Edebiyat Evrenine hoş geldiniz!",
+  "email.comics.chapterPublished.subject": "Yeni bölüm mevcut: \"{comicTitle}\"",
+  "email.comics.chapterPublished.title": "Yeni bölüm yayınlandı",
+  "email.comics.chapterPublished.details": "Çizgi roman: {comicTitle} - Bölüm: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Açık bölüm"
 }

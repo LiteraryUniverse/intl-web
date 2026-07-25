@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Naruszenie praw autorskich",
   "feedback.copyrightReport.desc": "Zgłoś naruszenie praw autorskich",
   "feedback.report.noUser": "Należy się zalogować, aby przesłać zgłoszenie.",
+  "feedback.takedown": "Zdjęto",
+  "feedback.takedown.action": "Zdejmij",
   "feedback.voting.totalVoters": "Głosów użytkowników: {voted, number}",
   "feedback.voting.upvote": "Głos pozytywny",
   "feedback.voting.downvote": "Głos negatywny",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Nagabywanie",
   "feedback.reportType.aiUnmarked": "Nieoznaczona zawartość generowana przez sztuczną inteligencję",
   "feedback.reportType.other": "Inne",
-  "feedback.report.copyrightType.propertySelectLabel": "Który {type, select,\n    universe {wszechświat}\n    story {historia}\n    other {historia}\n  } jest naruszona?",
+  "feedback.report.copyrightType.propertySelectLabel": "Który {type, select,\n    universe {wszechświat}\n    story {historia}\n    comic {Komiks}\n    other {historia}\n  } jest naruszona?",
   "feedback.help.articles": "Artykuły",
   "feedback.help.courses": "Kursy",
   "feedback.help.videoTutorials": "Samouczki wideo",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "Brak wyróżnionych kursów.",
   "resolutionCenter.action.correctAgeRating": "Popraw klasyfikację wiekową",
   "resolutionCenter.reportDetail": "Szczegóły zgłoszenia",
-  "resolutionCenter.dashboard.title": "Centrum rozwiązywania spraw"
+  "resolutionCenter.dashboard.title": "Centrum rozwiązywania spraw",
+  "feedback.report.actions.comicSettings": "Komiks · Ustawienia"
 }

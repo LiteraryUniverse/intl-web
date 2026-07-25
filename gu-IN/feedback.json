@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "કૉપિરાઇટ ઉલ્લંઘન",
   "feedback.copyrightReport.desc": "કૉપિરાઇટ ઉલ્લંઘન રિપોર્ટ કરો",
   "feedback.report.noUser": "રિપોર્ટ કરવા માટે તમે સાઇન ઇન કરવું આવશ્યક છે.",
+  "feedback.takedown": "દૂર કરાયું",
+  "feedback.takedown.action": "દૂર કરો",
   "feedback.voting.totalVoters": "વપરાશકર્તાઓ મત આપ્યા: {voted, number}",
   "feedback.voting.upvote": "ઉપવોટ",
   "feedback.voting.downvote": "નીચેનું મત આપો",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "અન્ય",
-  "feedback.report.copyrightType.propertySelectLabel": "કોણ નકલી કરી રહ્યો છે? કોઈ {type, select,\n    universe {યુનિવર્સ}\n    story {કથા}\n    other {કથા}\n  } પર?",
+  "feedback.report.copyrightType.propertySelectLabel": "કોણ નકલી કરી રહ્યો છે? કોઈ {type, select,\n    universe {યુનિવર્સ}\n    story {કથા}\n    comic {કૉમિક}\n    other {કથા}\n  } પર?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "કૉમિક · સેટિંગ્સ"
 }

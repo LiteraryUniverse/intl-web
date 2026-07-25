@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Încălcare a drepturilor de autor",
   "feedback.copyrightReport.desc": "Raportează încălcare a drepturilor de autor",
   "feedback.report.noUser": "Trebuie să fii autentificat pentru a raporta o problemă.",
+  "feedback.takedown": "Retras",
+  "feedback.takedown.action": "Retrage",
   "feedback.voting.totalVoters": "Utilizatori care au votat: {voted, number}",
   "feedback.voting.upvote": "Votează în sus",
   "feedback.voting.downvote": "Votează în jos",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Solicitare",
   "feedback.reportType.aiUnmarked": "Conținut generat de AI nemarcat",
   "feedback.reportType.other": "Altele",
-  "feedback.report.copyrightType.propertySelectLabel": "Care {type, select,\n    universe {univers}\n    story {poveste}\n    other {poveste}\n  } este încălcat?",
+  "feedback.report.copyrightType.propertySelectLabel": "Care {type, select,\n    universe {univers}\n    story {poveste}\n    comic {Bandă desenată}\n    other {poveste}\n  } este încălcat?",
   "feedback.help.articles": "Articole",
   "feedback.help.courses": "Cursuri",
   "feedback.help.videoTutorials": "Tutoriale video",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Bandă desenată · Setări"
 }

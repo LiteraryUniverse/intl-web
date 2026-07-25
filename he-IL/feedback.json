@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "הפרה של זכויות יוצרים",
   "feedback.copyrightReport.desc": "דווח על הפרת זכויות יוצרים",
   "feedback.report.noUser": "עליך להתחבר כדי לדווח.",
+  "feedback.takedown": "הוסר",
+  "feedback.takedown.action": "הסרה",
   "feedback.voting.totalVoters": "משתמשים הצביעו: {voted, number}",
   "feedback.voting.upvote": "הצבעה חיובית",
   "feedback.voting.downvote": "הצבעה שלילית",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "אחר",
-  "feedback.report.copyrightType.propertySelectLabel": "איזה {type, select,\n    universe {יקום}\n    story {סיפור}\n    other {סיפור}\n  } נפגע בזכויות היוצרים?",
+  "feedback.report.copyrightType.propertySelectLabel": "איזה {type, select,\n    universe {יקום}\n    story {סיפור}\n    comic {קומיקס}\n    other {סיפור}\n  } נפגע בזכויות היוצרים?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "קורסים",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "קומיקס · הגדרות"
 }

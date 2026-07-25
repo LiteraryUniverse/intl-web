@@ -1,5 +1,7 @@
 {
+  "readingList.addItem.noOwnComics": "Dar neturite mangos ar komiksų",
   "readingList.title": "Skaitymo sąrašas",
+  "readingList.type.comics": "Manga ir komiksai",
   "readingList.type.label": "Sąrašo tipas",
   "readingList.type.stories": "Istorijos",
   "readingList.type.universes": "Visatos",

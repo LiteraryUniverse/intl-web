@@ -15,6 +15,8 @@
   "notifications.menu.delete": "Xóa thông báo",
   "notification.workshopStoryStatus.toHiatus": "Câu chuyện của bạn {storyName} đã tự động chuyển sang tạm dừng sau 6 tháng không hoạt động.",
   "notification.workshopStoryStatus.toCancelled": "Câu chuyện của bạn {storyName} đã tự động chuyển sang hủy sau một năm không hoạt động.",
+  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
+  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
   "notification.followingStoryStatus.toHiatus": "{storyName} đang tạm dừng.",
   "notification.followingStoryStatus.toCancelled": "{storyName} đã bị hủy.",
   "notification.followingNewChapter.new": "Chương mới trong {storyName} đã được xuất bản!",
@@ -93,5 +95,6 @@
   "notifications.category.workshop.description": "Thông báo về các hoạt động tạo và quản lý nội dung của bạn",
   "notifications.category.community.description": "Thông báo về các tương tác xã hội và sự tham gia của cộng đồng",
   "notifications.category.reading.description": "Thông báo về nội dung mới và hoạt động đọc",
-  "notifications.category.system.description": "Thông báo hệ thống và các bản cập nhật quan trọng"
+  "notifications.category.system.description": "Thông báo hệ thống và các bản cập nhật quan trọng",
+  "notification.followingNewComicChapter.new": "Chương mới trong {comicName} đã được xuất bản!"
 }

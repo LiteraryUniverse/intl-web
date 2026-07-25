@@ -12,7 +12,7 @@
   "library.ownedStories": "Zakoupené příběhy",
   "library.ownedAudiobooks": "Audioknihy",
   "library.ownedAudiobooks.empty": "Zatím jste si nezakoupili žádné audioknihy.",
-  "library.ownedComics": "Komiksy",
-  "library.ownedComics.empty": "Zatím jste si nepřidali žádné komiksy.",
+  "library.ownedComics": "Manga a komiksy",
+  "library.ownedComics.empty": "Zatím jste nepřidali žádnou mangu ani komiks.",
   "library.meta.description": "Vaše osobní knihovna na Literary Universe. Přistupujte ke všem svým uloženým příběhům, universům a čtenářským seznamům na jednom místě."
 }

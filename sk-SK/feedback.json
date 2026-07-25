@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Porušenie autorských práv",
   "feedback.copyrightReport.desc": "Nahlásiť porušenie autorských práv",
   "feedback.report.noUser": "Ak chcete podať správu, musíte byť prihlásení.",
+  "feedback.takedown": "Stiahnuté",
+  "feedback.takedown.action": "Stiahnuť z publikácie",
   "feedback.voting.totalVoters": "Používatelia hlasovali: {voted, number}",
   "feedback.voting.upvote": "Hore",
   "feedback.voting.downvote": "Dole",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Žiadosť o pomoc",
   "feedback.reportType.aiUnmarked": "Neoznačený obsah vytvorený umelou inteligenciou",
   "feedback.reportType.other": "Ostatné",
-  "feedback.report.copyrightType.propertySelectLabel": "Ktorý {type, select,\n    universe {vesmír}\n    story {príbeh}\n    other {príbeh}\n  } je porušený?",
+  "feedback.report.copyrightType.propertySelectLabel": "Ktorý {type, select,\n    universe {vesmír}\n    story {príbeh}\n    comic {Komiks}\n    other {príbeh}\n  } je porušený?",
   "feedback.help.articles": "Články",
   "feedback.help.courses": "Kurzy",
   "feedback.help.videoTutorials": "Videonávody",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "Zatiaľ nie sú dostupné žiadne odporúčané kurzy.",
   "resolutionCenter.action.correctAgeRating": "Opraviť vekové hodnotenie",
   "resolutionCenter.reportDetail": "Podrobnosti hlásenia",
-  "resolutionCenter.dashboard.title": "Centrum riešení"
+  "resolutionCenter.dashboard.title": "Centrum riešení",
+  "feedback.report.actions.comicSettings": "Komiks · Nastavenia"
 }

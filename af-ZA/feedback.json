@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Oortreding van kopiereg",
   "feedback.copyrightReport.desc": "Rapporteer kopieregskending",
   "feedback.report.noUser": "Jy moet aangemeld wees om 'n verslag in te dien.",
+  "feedback.takedown": "Verwyder",
+  "feedback.takedown.action": "Verwyder van publiek",
   "feedback.voting.totalVoters": "Gebruikers gestem: {voted, number}",
   "feedback.voting.upvote": "Opstem",
   "feedback.voting.downvote": "Afstem",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "Ander",
-  "feedback.report.copyrightType.propertySelectLabel": "Watter {type, select,\n    universe {heelal se}\n    story {storie}\n    other {storie}\n  } word geskend?",
+  "feedback.report.copyrightType.propertySelectLabel": "Watter {type, select,\n    universe {heelal se}\n    story {storie}\n    comic {Strokiesprent}\n    other {storie}\n  } word geskend?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Strokiesprent · Instellings"
 }

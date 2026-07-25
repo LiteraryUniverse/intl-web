@@ -12,7 +12,7 @@
   "library.ownedStories": "வாங்கப்பட்ட கதைகள்",
   "library.ownedAudiobooks": "ஆடியோ புத்தகங்கள்",
   "library.ownedAudiobooks.empty": "நீங்கள் இன்னும் எந்த ஆடியோ புத்தகத்தையும் வாங்கவில்லை.",
-  "library.ownedComics": "காமிக்ஸ்",
-  "library.ownedComics.empty": "நீங்கள் இன்னும் எந்தக் காமிக்கையும் சேர்க்கவில்லை.",
+  "library.ownedComics": "மாங்கா மற்றும் காமிக்ஸ்",
+  "library.ownedComics.empty": "நீங்கள் இன்னும் மாங்கா அல்லது காமிக்ஸ் எதையும் சேர்க்கவில்லை.",
   "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
 }

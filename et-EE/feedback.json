@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Autoriõiguse rikkumine",
   "feedback.copyrightReport.desc": "Raporteeri autoriõiguse rikkumine",
   "feedback.report.noUser": "Sa pead olema sisse logitud, et esitada raport.",
+  "feedback.takedown": "Eemaldatud",
+  "feedback.takedown.action": "Eemalda",
   "feedback.voting.totalVoters": "Kasutajad hääletasid: {voted, number}",
   "feedback.voting.upvote": "Üles hääletama",
   "feedback.voting.downvote": "Alla hääletama",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Märgistamata tehisintellekti loodud sisu",
   "feedback.reportType.other": "Muu",
-  "feedback.report.copyrightType.propertySelectLabel": "Milline {type, select,\n    universe {universum}\n    story {lugu}\n    other {lugu}\n  } on rikutud?",
+  "feedback.report.copyrightType.propertySelectLabel": "Milline {type, select,\n    universe {universum}\n    story {lugu}\n    comic {Koomiks}\n    other {lugu}\n  } on rikutud?",
   "feedback.help.articles": "Artiklid",
   "feedback.help.courses": "Kursused",
   "feedback.help.videoTutorials": "Videoõpetused",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "Koomiks · Seaded"
 }

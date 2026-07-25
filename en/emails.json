@@ -149,5 +149,9 @@
   "email.comment.revision.body": "{commenterName} commented on your revision: \"{commentText}\"",
   "email.comment.feedback.subject": "New comment on feedback",
   "email.comment.feedback.body": "{commenterName} commented on your feedback issue: \"{commentText}\"",
-  "email.welcome.subject": "Welcome to Literary Universe!"
+  "email.welcome.subject": "Welcome to Literary Universe!",
+  "email.comics.chapterPublished.subject": "New chapter in {comicTitle}",
+  "email.comics.chapterPublished.title": "A new chapter awaits you!",
+  "email.comics.chapterPublished.details": "Comic: {comicTitle} • Chapter: {chapterTitle}",
+  "email.comics.chapterPublished.cta": "Read the new chapter"
 }

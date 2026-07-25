@@ -26,6 +26,8 @@
   "feedback.copyrightReport.title": "Copyright violation",
   "feedback.copyrightReport.desc": "Report Copyright violation",
   "feedback.report.noUser": "You need to be signed in, in order to file a report.",
+  "feedback.takedown": "നീക്കം ചെയ്തു",
+  "feedback.takedown.action": "നീക്കം ചെയ്യുക",
   "feedback.voting.totalVoters": "Users voted: {voted, number}",
   "feedback.voting.upvote": "Up vote",
   "feedback.voting.downvote": "Down vote",
@@ -49,7 +51,7 @@
   "feedback.reportType.soliciting": "Soliciting",
   "feedback.reportType.aiUnmarked": "Unmarked AI-generated content",
   "feedback.reportType.other": "മറ്റുള്ളവ",
-  "feedback.report.copyrightType.propertySelectLabel": "ഏത് {type, select,\n    universe {യൂണിവേഴ്സ്}\n    story {കഥ}\n    other {കഥ}\n  } അപകടപ്പെടുത്തപ്പെടുന്നു?",
+  "feedback.report.copyrightType.propertySelectLabel": "ഏത് {type, select,\n    universe {യൂണിവേഴ്സ്}\n    story {കഥ}\n    comic {കോമിക്}\n    other {കഥ}\n  } അപകടപ്പെടുത്തപ്പെടുന്നു?",
   "feedback.help.articles": "Articles",
   "feedback.help.courses": "Courses",
   "feedback.help.videoTutorials": "Video tutorials",
@@ -96,5 +98,6 @@
   "feedback.help.noFeaturedCourses": "No featured courses available yet.",
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center"
+  "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicSettings": "കോമിക് · ക്രമീകരണങ്ങൾ"
 }
