@@ -56,6 +56,8 @@
   "common.collaborator": "Yhteistyökumppani",
   "common.collaborators": "Yhteistyökumppanit",
   "common.comic": "Sarjakuva",
+  "common.comicChapter": "Sarjakuvan luku",
+  "common.comicPage": "Sarjakuvan sivu",
   "common.comment": "Kommentti",
   "common.comments": "Kommentit",
   "common.commentsCount": "Kommentit: {comments, number}",

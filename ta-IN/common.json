@@ -56,6 +56,8 @@
   "common.collaborator": "இணையதள பங்களிப்பாளர்",
   "common.collaborators": "இணையதள பங்களிப்பாளர்கள்",
   "common.comic": "காமிக்",
+  "common.comicChapter": "காமிக் அத்தியாயம்",
+  "common.comicPage": "காமிக் பக்கம்",
   "common.comment": "கருத்து",
   "common.comments": "கருத்துக்கள்",
   "common.commentsCount": "Comments: {comments, number}",

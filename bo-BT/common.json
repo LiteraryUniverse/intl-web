@@ -56,6 +56,8 @@
   "common.collaborator": "འབྲེལ་བ།",
   "common.collaborators": "འབྲེལ་བཚེ།",
   "common.comic": "རི་མོ་སྒྲུང",
+  "common.comicChapter": "Comic chapter",
+  "common.comicPage": "Comic page",
   "common.comment": "བསམ།",
   "common.comments": "བསམ་ཚེ།",
   "common.commentsCount": "མཆན་གྲངས། {comments, number}",

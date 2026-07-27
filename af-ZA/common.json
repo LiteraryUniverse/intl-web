@@ -56,6 +56,8 @@
   "common.collaborator": "Medewerker",
   "common.collaborators": "Medewerkers",
   "common.comic": "Strokiesprent",
+  "common.comicChapter": "Strokiesprent-hoofstuk",
+  "common.comicPage": "Strokiesprent-bladsy",
   "common.comment": "Kommentaar",
   "common.comments": "Kommentaar",
   "common.commentsCount": "Kommentaar: {comments, number}",

@@ -56,6 +56,8 @@
   "common.collaborator": "സഹകരി",
   "common.collaborators": "സഹകരികൾ",
   "common.comic": "കോമിക്",
+  "common.comicChapter": "കോമിക് അധ്യായം",
+  "common.comicPage": "കോമിക് പേജ്",
   "common.comment": "അഭിപ്രായം",
   "common.comments": "അഭിപ്രായങ്ങൾ",
   "common.commentsCount": "Comments: {comments, number}",

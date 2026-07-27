@@ -56,6 +56,8 @@
   "common.collaborator": "Comhoibrí",
   "common.collaborators": "Comhoibrithe",
   "common.comic": "Greannán",
+  "common.comicChapter": "Caibidil ghreannáin",
+  "common.comicPage": "Leathanach greannáin",
   "common.comment": "Nóta",
   "common.comments": "Nótaí",
   "common.commentsCount": "Nótaí: {comments, number}",

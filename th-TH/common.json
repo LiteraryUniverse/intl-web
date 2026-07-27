@@ -56,6 +56,8 @@
   "common.collaborator": "ผู้ร่วมงาน",
   "common.collaborators": "ผู้ร่วมงาน",
   "common.comic": "การ์ตูน",
+  "common.comicChapter": "บทการ์ตูน",
+  "common.comicPage": "หน้าการ์ตูน",
   "common.comment": "ความคิดเห็น",
   "common.comments": "ความคิดเห็น",
   "common.commentsCount": "Comments: {comments, number}",

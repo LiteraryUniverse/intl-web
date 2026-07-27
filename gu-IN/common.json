@@ -56,6 +56,8 @@
   "common.collaborator": "સહયોગદાતા",
   "common.collaborators": "સહયોગદાતાઓ",
   "common.comic": "કૉમિક",
+  "common.comicChapter": "કૉમિકનું પ્રકરણ",
+  "common.comicPage": "કૉમિકનું પાનું",
   "common.comment": "ટિપ્પણી",
   "common.comments": "ટિપ્પણીઓ",
   "common.commentsCount": "Comments: {comments, number}",

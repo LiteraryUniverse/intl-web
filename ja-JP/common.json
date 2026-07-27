@@ -56,6 +56,8 @@
   "common.collaborator": "共同執筆者",
   "common.collaborators": "共同執筆者",
   "common.comic": "コミック",
+  "common.comicChapter": "コミックの章",
+  "common.comicPage": "コミックのページ",
   "common.comment": "コメント",
   "common.comments": "コメント",
   "common.commentsCount": "コメント：{comments, number}",

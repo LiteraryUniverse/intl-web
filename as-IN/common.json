@@ -56,6 +56,8 @@
   "common.collaborator": "সহযোগী",
   "common.collaborators": "সহযোগীসমূহ",
   "common.comic": "কমিক",
+  "common.comicChapter": "কমিকৰ অধ্যায়",
+  "common.comicPage": "কমিকৰ পৃষ্ঠা",
   "common.comment": "মন্তব্য",
   "common.comments": "মন্তব্যসমূহ",
   "common.commentsCount": "মন্তব্য: {comments, number}",

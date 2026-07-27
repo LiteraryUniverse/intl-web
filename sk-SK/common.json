@@ -56,6 +56,8 @@
   "common.collaborator": "Spolupracovník",
   "common.collaborators": "Spolupracovníci",
   "common.comic": "Komiks",
+  "common.comicChapter": "Kapitola komiksu",
+  "common.comicPage": "Strana komiksu",
   "common.comment": "Komentár",
   "common.comments": "Komentáre",
   "common.commentsCount": "Komentáre: {comments, number}",

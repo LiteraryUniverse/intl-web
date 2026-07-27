@@ -56,6 +56,8 @@
   "common.collaborator": "Співавтор",
   "common.collaborators": "Співавтори",
   "common.comic": "Комікс",
+  "common.comicChapter": "Розділ коміксу",
+  "common.comicPage": "Сторінка коміксу",
   "common.comment": "Коментар",
   "common.comments": "Коментарі",
   "common.commentsCount": "Коментарів: {comments, number}",

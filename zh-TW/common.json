@@ -56,6 +56,8 @@
   "common.collaborator": "合作者",
   "common.collaborators": "合作者",
   "common.comic": "漫畫",
+  "common.comicChapter": "漫畫章節",
+  "common.comicPage": "漫畫頁面",
   "common.comment": "評論",
   "common.comments": "評論",
   "common.commentsCount": "Comments: {comments, number}",

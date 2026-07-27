@@ -56,6 +56,8 @@
   "common.collaborator": "Mitarbeiter",
   "common.collaborators": "Mitarbeiter",
   "common.comic": "Comic",
+  "common.comicChapter": "Comic-Kapitel",
+  "common.comicPage": "Comic-Seite",
   "common.comment": "Kommentar",
   "common.comments": "Kommentare",
   "common.commentsCount": "Kommentare: {comments, number}",

@@ -99,5 +99,6 @@
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
   "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicChapter": "章エディターへ移動",
   "feedback.report.actions.comicSettings": "コミック · 設定"
 }

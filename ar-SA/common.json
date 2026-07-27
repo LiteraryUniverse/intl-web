@@ -56,6 +56,8 @@
   "common.collaborator": "مشارك",
   "common.collaborators": "المشاركون",
   "common.comic": "قصة مصورة",
+  "common.comicChapter": "فصل القصة المصورة",
+  "common.comicPage": "صفحة القصة المصورة",
   "common.comment": "تعليق",
   "common.comments": "تعليقات",
   "common.commentsCount": "التعليقات: {comments, number}",

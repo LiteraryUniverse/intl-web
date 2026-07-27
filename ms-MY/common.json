@@ -56,6 +56,8 @@
   "common.collaborator": "Rakan Kongsi",
   "common.collaborators": "Rakan Kongsi",
   "common.comic": "Komik",
+  "common.comicChapter": "Bab komik",
+  "common.comicPage": "Halaman komik",
   "common.comment": "Komen",
   "common.comments": "Komen-komen",
   "common.commentsCount": "Comments: {comments, number}",

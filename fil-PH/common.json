@@ -56,6 +56,8 @@
   "common.collaborator": "Kasamang Manggagawa",
   "common.collaborators": "Mga Kasamahan sa Pagtutulungan",
   "common.comic": "Komiks",
+  "common.comicChapter": "Kabanata ng komiks",
+  "common.comicPage": "Pahina ng komiks",
   "common.comment": "Komento",
   "common.comments": "Mga Komento",
   "common.commentsCount": "Mga Komento: {comments, number}",

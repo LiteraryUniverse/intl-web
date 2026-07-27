@@ -56,6 +56,8 @@
   "common.collaborator": "Συνεργάτης",
   "common.collaborators": "Συνεργάτες",
   "common.comic": "Κόμικ",
+  "common.comicChapter": "Κεφάλαιο κόμικ",
+  "common.comicPage": "Σελίδα κόμικ",
   "common.comment": "Σχόλιο",
   "common.comments": "Σχόλια",
   "common.commentsCount": "Σχόλια: {comments, number}",

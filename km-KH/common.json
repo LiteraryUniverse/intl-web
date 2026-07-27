@@ -56,6 +56,8 @@
   "common.collaborator": "អ្នកសម្រង់",
   "common.collaborators": "អ្នកសម្រង់",
   "common.comic": "សៀវភៅតុក្កតា",
+  "common.comicChapter": "ជំពូកសៀវភៅតុក្កតា",
+  "common.comicPage": "ទំព័រសៀវភៅតុក្កតា",
   "common.comment": "មតិ",
   "common.comments": "មតិ",
   "common.commentsCount": "Comments: {comments, number}",

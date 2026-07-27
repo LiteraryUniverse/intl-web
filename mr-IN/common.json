@@ -56,6 +56,8 @@
   "common.collaborator": "सहयोगी",
   "common.collaborators": "सहयोगी",
   "common.comic": "कॉमिक",
+  "common.comicChapter": "कॉमिकचा अध्याय",
+  "common.comicPage": "कॉमिकचे पान",
   "common.comment": "टिप्पणी",
   "common.comments": "टिप्पण्या",
   "common.commentsCount": "Comments: {comments, number}",

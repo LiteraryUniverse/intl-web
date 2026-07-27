@@ -56,6 +56,8 @@
   "common.collaborator": "ಸಹಕರಿಸುವವರು",
   "common.collaborators": "ಸಹಕರಿಸುವವರುಗಳು",
   "common.comic": "ಚಿತ್ರಕಥೆ",
+  "common.comicChapter": "ಕಾಮಿಕ್ ಅಧ್ಯಾಯ",
+  "common.comicPage": "ಕಾಮಿಕ್ ಪುಟ",
   "common.comment": "ಟಿಪ್ಪಣಿ",
   "common.comments": "ಟಿಪ್ಪಣಿಗಳು",
   "common.commentsCount": "Comments: {comments, number}",

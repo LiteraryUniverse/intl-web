@@ -56,6 +56,8 @@
   "common.collaborator": "Colaborador",
   "common.collaborators": "Colaboradores",
   "common.comic": "Banda desenhada",
+  "common.comicChapter": "Capítulo de banda desenhada",
+  "common.comicPage": "Página de banda desenhada",
   "common.comment": "Comentário",
   "common.comments": "Comentários",
   "common.commentsCount": "Comentários: {comments, number}",

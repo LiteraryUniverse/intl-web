@@ -99,5 +99,6 @@
   "resolutionCenter.action.correctAgeRating": "Исправить возрастной рейтинг",
   "resolutionCenter.reportDetail": "Детали жалобы",
   "resolutionCenter.dashboard.title": "Центр урегулирования",
+  "feedback.report.actions.comicChapter": "Перейти в редактор главы",
   "feedback.report.actions.comicSettings": "Комикс · Настройки"
 }

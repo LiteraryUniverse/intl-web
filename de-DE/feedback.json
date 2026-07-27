@@ -99,5 +99,6 @@
   "resolutionCenter.action.correctAgeRating": "Altersfreigabe korrigieren",
   "resolutionCenter.reportDetail": "Meldungsdetails",
   "resolutionCenter.dashboard.title": "Lösungszentrum",
+  "feedback.report.actions.comicChapter": "Zum Kapitel-Editor",
   "feedback.report.actions.comicSettings": "Comic · Einstellungen"
 }

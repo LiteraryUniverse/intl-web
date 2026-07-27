@@ -56,6 +56,8 @@
   "common.collaborator": "సహకరించేవాడు",
   "common.collaborators": "సహకరించేవారు",
   "common.comic": "కామిక్",
+  "common.comicChapter": "కామిక్ అధ్యాయం",
+  "common.comicPage": "కామిక్ పేజీ",
   "common.comment": "వ్యాఖ్య",
   "common.comments": "వ్యాఖ్యలు",
   "common.commentsCount": "Comments: {comments, number}",

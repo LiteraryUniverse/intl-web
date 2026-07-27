@@ -56,6 +56,8 @@
   "common.collaborator": "Cộng Tác Viên",
   "common.collaborators": "Cộng tác viên",
   "common.comic": "Truyện tranh",
+  "common.comicChapter": "Chương truyện tranh",
+  "common.comicPage": "Trang truyện tranh",
   "common.comment": "Bình luận",
   "common.comments": "Các Bình luận",
   "common.commentsCount": "Comments: {comments, number}",

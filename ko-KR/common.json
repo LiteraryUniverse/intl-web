@@ -56,6 +56,8 @@
   "common.collaborator": "공동 참여자",
   "common.collaborators": "공동 참여자들",
   "common.comic": "코믹",
+  "common.comicChapter": "코믹 챕터",
+  "common.comicPage": "코믹 페이지",
   "common.comment": "댓글",
   "common.comments": "댓글들",
   "common.commentsCount": "Comments: {comments, number}",

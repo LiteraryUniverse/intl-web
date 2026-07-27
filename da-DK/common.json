@@ -56,6 +56,8 @@
   "common.collaborator": "Samarbejdspartner",
   "common.collaborators": "Samarbejdspartnere",
   "common.comic": "Tegneserie",
+  "common.comicChapter": "Tegneseriekapitel",
+  "common.comicPage": "Tegneserieside",
   "common.comment": "Kommentar",
   "common.comments": "Kommentarer",
   "common.commentsCount": "Kommentarer: {comments, number}",

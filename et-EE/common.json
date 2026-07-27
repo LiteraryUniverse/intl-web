@@ -56,6 +56,8 @@
   "common.collaborator": "Kaasautor",
   "common.collaborators": "Kaasautorid",
   "common.comic": "Koomiks",
+  "common.comicChapter": "Koomiksi peatükk",
+  "common.comicPage": "Koomiksi lehekülg",
   "common.comment": "Kommentaar",
   "common.comments": "Kommentaarid",
   "common.commentsCount": "Kommentaare: {comments, number}",

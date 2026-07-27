@@ -56,6 +56,8 @@
   "common.collaborator": "Ortak",
   "common.collaborators": "Ortaklar",
   "common.comic": "Çizgi roman",
+  "common.comicChapter": "Çizgi roman bölümü",
+  "common.comicPage": "Çizgi roman sayfası",
   "common.comment": "Yorum",
   "common.comments": "Yorumlar",
   "common.commentsCount": "Comments: {comments, number}",

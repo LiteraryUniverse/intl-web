@@ -79,6 +79,7 @@
   "feedback.report.actions.none": "No quick action available",
   "feedback.report.actions.storySettings": "Go to story settings",
   "feedback.report.actions.universeSettings": "Go to universe settings",
+  "feedback.report.actions.comicChapter": "Go to chapter editor",
   "feedback.report.actions.comicSettings": "Go to comic settings",
   "feedback.report.description": "Provided description",
   "feedback.report.copyrightReport": "We have received copyright claim to this work. We will review the claim and make determination. If you want to provide any additional comment or context, please do so bellow.",

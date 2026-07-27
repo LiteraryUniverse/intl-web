@@ -99,5 +99,6 @@
   "resolutionCenter.action.correctAgeRating": "Corregir clasificación por edad",
   "resolutionCenter.reportDetail": "Detalles del informe",
   "resolutionCenter.dashboard.title": "Centro de resolución",
+  "feedback.report.actions.comicChapter": "Ir al editor de capítulos",
   "feedback.report.actions.comicSettings": "Cómic · Configuración"
 }

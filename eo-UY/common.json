@@ -56,6 +56,8 @@
   "common.collaborator": "Kunlaboranto",
   "common.collaborators": "Kunlaborantoj",
   "common.comic": "Komikso",
+  "common.comicChapter": "Ĉapitro de komikso",
+  "common.comicPage": "Paĝo de komikso",
   "common.comment": "Komentoj",
   "common.comments": "Komentoj",
   "common.commentsCount": "Komentoj: {comments, number}",

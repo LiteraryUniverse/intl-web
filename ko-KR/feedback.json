@@ -99,5 +99,6 @@
   "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
   "resolutionCenter.reportDetail": "Report Details",
   "resolutionCenter.dashboard.title": "Resolution Center",
+  "feedback.report.actions.comicChapter": "챕터 편집기로 이동",
   "feedback.report.actions.comicSettings": "코믹 · 설정"
 }

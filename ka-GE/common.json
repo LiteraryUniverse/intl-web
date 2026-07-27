@@ -56,6 +56,8 @@
   "common.collaborator": "თანამშრომელი",
   "common.collaborators": "თანამშრომლები",
   "common.comic": "კომიქსი",
+  "common.comicChapter": "კომიქსის თავი",
+  "common.comicPage": "კომიქსის გვერდი",
   "common.comment": "კომენტარი",
   "common.comments": "კომენტარები",
   "common.commentsCount": "Comments: {comments, number}",

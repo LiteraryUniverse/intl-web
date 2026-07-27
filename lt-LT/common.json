@@ -56,6 +56,8 @@
   "common.collaborator": "Bendradarbis",
   "common.collaborators": "Bendradarbiai",
   "common.comic": "Komiksas",
+  "common.comicChapter": "Komikso skyrius",
+  "common.comicPage": "Komikso puslapis",
   "common.comment": "Komentaras",
   "common.comments": "Komentarai",
   "common.commentsCount": "Komentarai: {comments, number}",
