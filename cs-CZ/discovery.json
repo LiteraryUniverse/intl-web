@@ -100,5 +100,6 @@
   "discover.search.encyclopedia.comingSoon": "Vyhledávání v encyklopedii již brzy.",
   "discover.search.universal.description": "Hledat příběhy a universa",
   "discover.search.typeSelection.aria": "Výběr typu obsahu",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Nebyly nalezeny žádné výsledky} one {nalezen # výsledek} few {nalezeny # výsledky} other {nalezeno # výsledků}}"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nebyly nalezeny žádné výsledky} one {nalezen # výsledek} few {nalezeny # výsledky} other {nalezeno # výsledků}}",
+  "discovery.translation.chaptersAvailable": "Kapitoly dostupné v tomto překladu"
 }

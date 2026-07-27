@@ -100,5 +100,6 @@
   "discover.search.encyclopedia.comingSoon": "Zoeken in encyclopedie komt binnenkort.",
   "discover.search.universal.description": "Zoek naar verhalen en universa",
   "discover.search.typeSelection.aria": "Selectie van contenttype",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Geen resultaten gevonden} one {# resultaat gevonden} other {# resultaten gevonden}}"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Geen resultaten gevonden} one {# resultaat gevonden} other {# resultaten gevonden}}",
+  "discovery.translation.chaptersAvailable": "Hoofdstukken beschikbaar in deze vertaling"
 }

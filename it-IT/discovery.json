@@ -100,5 +100,6 @@
   "discover.search.encyclopedia.comingSoon": "La ricerca nell'enciclopedia sarà presto disponibile.",
   "discover.search.universal.description": "Cerca storie e universi",
   "discover.search.typeSelection.aria": "Selezione del tipo di contenuto",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Nessun risultato trovato} one {# risultato trovato} other {# risultati trovati}}"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nessun risultato trovato} one {# risultato trovato} other {# risultati trovati}}",
+  "discovery.translation.chaptersAvailable": "Capitoli disponibili in questa traduzione"
 }

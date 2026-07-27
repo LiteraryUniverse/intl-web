@@ -100,5 +100,6 @@
   "discover.search.encyclopedia.comingSoon": "Поиск по энциклопедии скоро появится.",
   "discover.search.universal.description": "Поиск историй и вселенных",
   "discover.search.typeSelection.aria": "Выбор типа контента",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Ничего не найдено} one {Найден # результат} few {Найдено # результата} many {Найдено # результатов} other {Найдено # результата}}"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Ничего не найдено} one {Найден # результат} few {Найдено # результата} many {Найдено # результатов} other {Найдено # результата}}",
+  "discovery.translation.chaptersAvailable": "Главы, доступные в этом переводе"
 }

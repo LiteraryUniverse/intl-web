@@ -100,5 +100,6 @@
   "discover.search.encyclopedia.comingSoon": "Az enciklopédia-keresés hamarosan érkezik.",
   "discover.search.universal.description": "Keresés történetekre és univerzumokra",
   "discover.search.typeSelection.aria": "Tartalomtípus kiválasztása",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Nincs találat} one {# találat} other {# találat}}"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nincs találat} one {# találat} other {# találat}}",
+  "discovery.translation.chaptersAvailable": "Az ebben a fordításban elérhető fejezetek"
 }

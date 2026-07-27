@@ -42,6 +42,7 @@
   "discovery.chapters.showAll": "Show all chapters",
   "discovery.chapters.showMore": "Show more chapters",
   "discovery.chaptersTotal": "Total number of chapters in the story",
+  "discovery.translation.chaptersAvailable": "Chapters available in this translation",
   "discovery.readFromStart": "Read from first chapter",
   "discovery.readLatest": "Read the latest chapter",
   "discovery.author": "Author",
