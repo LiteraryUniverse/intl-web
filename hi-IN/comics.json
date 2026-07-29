@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "रंग कलाकार",
   "comics.team.role.inker": "स्याही कलाकार",
   "comics.team.role.coverArtist": "कवर कलाकार",
-  "comics.team.role.writer": "लेखक"
+  "comics.team.role.writer": "लेखक",
+  "comics.pages.exportGuide": "Clip Studio Paint, Procreate या किसी अन्य आर्ट ऐप से निर्यात कर रहे हैं? <link>गाइड पढ़ें</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# फ़ाइल छोड़ी गई} other {# फ़ाइलें छोड़ी गईं}} ({names}). पेज PNG या JPEG के रूप में निर्यात करें — <link>गाइड देखें</link>।"
 }

@@ -507,6 +507,8 @@
   "comics.team.role.inker": "ペン入れ担当",
   "comics.team.role.coverArtist": "表紙担当",
   "comics.team.role.writer": "原作者",
+  "comics.pages.exportGuide": "CLIP STUDIO PAINT、Procreate、その他のお絵かきアプリから書き出していますか？ <link>ガイドを読む</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# 件のファイルをスキップ}}（{names}）。ページを PNG または JPEG で書き出してください — <link>ガイドを見る</link>。",
   "comment.write": "コメントを書いてください",
   "comments.none": "申し訳ありませんが、表示するコメントはありません。",
   "comments.total": "{count, plural,\n    =0 {コメントはありません}\n    other {#件のコメントがあります}\n}。",

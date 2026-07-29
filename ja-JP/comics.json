@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "彩色担当",
   "comics.team.role.inker": "ペン入れ担当",
   "comics.team.role.coverArtist": "表紙担当",
-  "comics.team.role.writer": "原作者"
+  "comics.team.role.writer": "原作者",
+  "comics.pages.exportGuide": "CLIP STUDIO PAINT、Procreate、その他のお絵かきアプリから書き出していますか？ <link>ガイドを読む</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# 件のファイルをスキップ}}（{names}）。ページを PNG または JPEG で書き出してください — <link>ガイドを見る</link>。"
 }

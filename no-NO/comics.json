@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Kolorist",
   "comics.team.role.inker": "Tusjtegner",
   "comics.team.role.coverArtist": "Omslagskunstner",
-  "comics.team.role.writer": "Forfatter"
+  "comics.team.role.writer": "Forfatter",
+  "comics.pages.exportGuide": "Eksporterer du fra Clip Studio Paint, Procreate eller en annen tegneapp? <link>Les guiden</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} hoppet over ({names}). Eksporter sider som PNG eller JPEG — <link>se guiden</link>."
 }

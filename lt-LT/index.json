@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Tušuotojas",
   "comics.team.role.coverArtist": "Viršelio dailininkas",
   "comics.team.role.writer": "Scenaristas",
+  "comics.pages.exportGuide": "Eksportuojate iš Clip Studio Paint, Procreate ar kitos piešimo programos? <link>Skaityti vadovą</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# failas praleistas} few {# failai praleisti} many {# failų praleista} other {# failų praleista}} ({names}). Eksportuokite puslapius kaip PNG arba JPEG — <link>žr. vadovą</link>.",
   "comment.write": "Įrašykite savo komentarą",
   "comments.none": "Atsiprašome, nėra komentarų rodyti.",
   "comments.total": "Ten {count, plural,\n    =0 {nėra komentarų}\n    one {yra 1 komentaras}\n    other {yra # komentarų}\n  }.",

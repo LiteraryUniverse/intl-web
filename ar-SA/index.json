@@ -507,6 +507,8 @@
   "comics.team.role.inker": "محبّر",
   "comics.team.role.coverArtist": "رسام الغلاف",
   "comics.team.role.writer": "كاتب",
+  "comics.pages.exportGuide": "هل تصدّر من Clip Studio Paint أو Procreate أو تطبيق رسم آخر؟ <link>اقرأ الدليل</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, zero {لم يُتخطَّ أي ملف} one {تم تخطي ملف واحد} two {تم تخطي ملفين} few {تم تخطي # ملفات} many {تم تخطي # ملفًا} other {تم تخطي # ملف}} ({names}). صدّر الصفحات كـ PNG أو JPEG — <link>انظر الدليل</link>.",
   "comment.write": "اكتب تعليقك",
   "comments.none": "عذراً، لا توجد تعليقات للعرض.",
   "comments.total": "لا يوجد {count, plural,\n    =0 {لا توجد تعليقات}\n    one {هو تعليق واحد}\n    other {هي # تعليقات}\n  }.",

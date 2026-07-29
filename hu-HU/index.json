@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Tusrajzoló",
   "comics.team.role.coverArtist": "Borítórajzoló",
   "comics.team.role.writer": "Író",
+  "comics.pages.exportGuide": "Clip Studio Paintből, Procreate-ből vagy másik rajzalkalmazásból exportálsz? <link>Olvasd el az útmutatót</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fájl kihagyva} other {# fájl kihagyva}} ({names}). Exportáld az oldalakat PNG vagy JPEG formátumban — <link>lásd az útmutatót</link>.",
   "comment.write": "Írja meg a kommentjét",
   "comments.none": "Sajnáljuk, nincsenek megjeleníthető kommentek.",
   "comments.total": "{count, plural,\n    =0 {Nincsenek hozzászólások}\n    one {1 hozzászólás van}\n    other {# hozzászólás van}\n  }.",

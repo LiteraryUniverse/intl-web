@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "นักลงสี",
   "comics.team.role.inker": "นักตัดเส้น",
   "comics.team.role.coverArtist": "นักวาดปก",
-  "comics.team.role.writer": "ผู้เขียนเรื่อง"
+  "comics.team.role.writer": "ผู้เขียนเรื่อง",
+  "comics.pages.exportGuide": "กำลังส่งออกจาก Clip Studio Paint, Procreate หรือแอปวาดอื่น? <link>อ่านคู่มือ</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {ข้าม # ไฟล์}} ({names}). ส่งออกหน้าเป็น PNG หรือ JPEG — <link>ดูคู่มือ</link>"
 }

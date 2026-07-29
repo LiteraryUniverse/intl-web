@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Pendakwat",
   "comics.team.role.coverArtist": "Artis kulit buku",
   "comics.team.role.writer": "Penulis",
+  "comics.pages.exportGuide": "Mengeksport dari Clip Studio Paint, Procreate, atau aplikasi seni lain? <link>Baca panduan</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# fail dilangkau}} ({names}). Eksport halaman sebagai PNG atau JPEG — <link>lihat panduan</link>.",
   "comment.write": "Tulis komen anda",
   "comments.none": "Maaf, tiada komen untuk ditunjukkan.",
   "comments.total": "Tiada komen {count, plural,\n    =0 {ada 1 komen}\n    one {ada 1 komen}\n    other {ada # komen}\n  }.",

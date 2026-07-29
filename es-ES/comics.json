@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Colorista",
   "comics.team.role.inker": "Entintador",
   "comics.team.role.coverArtist": "Portadista",
-  "comics.team.role.writer": "Guionista"
+  "comics.team.role.writer": "Guionista",
+  "comics.pages.exportGuide": "¿Exportas desde Clip Studio Paint, Procreate u otra aplicación de dibujo? <link>Lee la guía</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# archivo omitido} other {# archivos omitidos}} ({names}). Exporta las páginas como PNG o JPEG — <link>consulta la guía</link>."
 }

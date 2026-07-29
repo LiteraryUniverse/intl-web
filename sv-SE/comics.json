@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Kolorist",
   "comics.team.role.inker": "Tuschare",
   "comics.team.role.coverArtist": "Omslagskonstnär",
-  "comics.team.role.writer": "Författare"
+  "comics.team.role.writer": "Författare",
+  "comics.pages.exportGuide": "Exporterar du från Clip Studio Paint, Procreate eller en annan ritapp? <link>Läs guiden</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} hoppades över ({names}). Exportera sidor som PNG eller JPEG — <link>se guiden</link>."
 }

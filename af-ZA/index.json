@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Inker",
   "comics.team.role.coverArtist": "Omslagkunstenaar",
   "comics.team.role.writer": "Skrywer",
+  "comics.pages.exportGuide": "Voer jy uit vanuit Clip Studio Paint, Procreate of ’n ander kuns-app? <link>Lees die gids</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# lêer} other {# lêers}} oorgeslaan ({names}). Voer bladsye uit as PNG of JPEG — <link>sien die gids</link>.",
   "comment.write": "Skryf jou opmerking",
   "comments.none": "Jammer, daar is geen opmerkings om te wys nie.",
   "comments.total": "Daar {count, plural, =0 {is geen opmerkings} one {is 1 opmerking} other {is # opmerkings}}.",

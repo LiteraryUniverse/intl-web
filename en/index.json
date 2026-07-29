@@ -453,6 +453,8 @@
   "comics.pages.delete": "Delete page",
   "comics.pages.replace": "Replace page image",
   "comics.pages.uploading": "Uploading {done}/{total}…",
+  "comics.pages.exportGuide": "Exporting from Clip Studio Paint, Procreate, or another art app? <link>Read the guide</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# file} other {# files}} skipped ({names}). Export pages as PNG or JPEG — <link>see the guide</link>.",
   "comics.pricing.chapter": "Per-chapter price",
   "comics.pricing.chapterHelp": "Readers can buy a single chapter. Can be sold alongside the whole {format} and volumes.",
   "comics.pricing.full": "Whole {format} price",

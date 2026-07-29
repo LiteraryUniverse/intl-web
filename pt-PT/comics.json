@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Colorista",
   "comics.team.role.inker": "Arte-finalista",
   "comics.team.role.coverArtist": "Artista de capa",
-  "comics.team.role.writer": "Argumentista"
+  "comics.team.role.writer": "Argumentista",
+  "comics.pages.exportGuide": "A exportar do Clip Studio Paint, Procreate ou outra app de desenho? <link>Leia o guia</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# ficheiro ignorado} other {# ficheiros ignorados}} ({names}). Exporte as páginas como PNG ou JPEG — <link>veja o guia</link>."
 }

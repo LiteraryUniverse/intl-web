@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Inkter",
   "comics.team.role.coverArtist": "Coverartiest",
   "comics.team.role.writer": "Scenarist",
+  "comics.pages.exportGuide": "Exporteer je uit Clip Studio Paint, Procreate of een andere teken-app? <link>Lees de gids</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# bestand} other {# bestanden}} overgeslagen ({names}). Exporteer pagina’s als PNG of JPEG — <link>zie de gids</link>.",
   "comment.write": "Schrijf uw reactie",
   "comments.none": "Sorry, geen reacties om te tonen.",
   "comments.total": "Er {count, plural,\n    =0 {zijn geen commentaren}\n    one {is 1 commentaar}\n    other {zijn # commentaren}\n  }.",

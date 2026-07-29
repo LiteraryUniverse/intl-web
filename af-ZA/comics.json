@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Inkleurder",
   "comics.team.role.inker": "Inker",
   "comics.team.role.coverArtist": "Omslagkunstenaar",
-  "comics.team.role.writer": "Skrywer"
+  "comics.team.role.writer": "Skrywer",
+  "comics.pages.exportGuide": "Voer jy uit vanuit Clip Studio Paint, Procreate of ’n ander kuns-app? <link>Lees die gids</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# lêer} other {# lêers}} oorgeslaan ({names}). Voer bladsye uit as PNG of JPEG — <link>sien die gids</link>."
 }

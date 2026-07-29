@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Inchiostratore",
   "comics.team.role.coverArtist": "Copertinista",
   "comics.team.role.writer": "Sceneggiatore",
+  "comics.pages.exportGuide": "Esporti da Clip Studio Paint, Procreate o un’altra app di disegno? <link>Leggi la guida</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# file saltato} other {# file saltati}} ({names}). Esporta le pagine come PNG o JPEG — <link>vedi la guida</link>.",
   "comment.write": "Scrivi il tuo commento",
   "comments.none": "Spiacente, nessun commento da mostrare.",
   "comments.total": "Hai{count, plural,\n    =0 {zero commenti}\n    one {un commento}\n    other {# commenti}\n  }.",

@@ -507,6 +507,8 @@
   "comics.team.role.inker": "אמן דיו",
   "comics.team.role.coverArtist": "אמן כריכה",
   "comics.team.role.writer": "כותב",
+  "comics.pages.exportGuide": "מייצאים מ-Clip Studio Paint, Procreate או אפליקציית ציור אחרת? <link>קראו את המדריך</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {קובץ אחד דולג} two {# קבצים דולגו} many {# קבצים דולגו} other {# קבצים דולגו}} ({names}). ייצאו דפים כ-PNG או JPEG — <link>ראו את המדריך</link>.",
   "comment.write": "כתוב את התגובה שלך",
   "comments.none": "מצטערים, אין תגובות להצגה.",
   "comments.total": "אין תגובות {count, plural,\n    =0 {}\n    one {יש תגובה אחת}\n    other {יש # תגובות}\n  }.",

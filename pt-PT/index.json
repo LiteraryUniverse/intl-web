@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Arte-finalista",
   "comics.team.role.coverArtist": "Artista de capa",
   "comics.team.role.writer": "Argumentista",
+  "comics.pages.exportGuide": "A exportar do Clip Studio Paint, Procreate ou outra app de desenho? <link>Leia o guia</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# ficheiro ignorado} other {# ficheiros ignorados}} ({names}). Exporte as páginas como PNG ou JPEG — <link>veja o guia</link>.",
   "comment.write": "Escreva o seu comentário",
   "comments.none": "Desculpe, não existem comentários a mostrar.",
   "comments.total": "{count, plural,\n    =0 {Não existem comentários}\n    one {Existe um comentário}\n    other {Existem # comentários}\n  }.",

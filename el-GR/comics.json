@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Χρωματιστής",
   "comics.team.role.inker": "Μελανωτής",
   "comics.team.role.coverArtist": "Καλλιτέχνης εξωφύλλου",
-  "comics.team.role.writer": "Σεναριογράφος"
+  "comics.team.role.writer": "Σεναριογράφος",
+  "comics.pages.exportGuide": "Εξάγετε από Clip Studio Paint, Procreate ή άλλη εφαρμογή σχεδίασης; <link>Διαβάστε τον οδηγό</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# αρχείο παραλείφθηκε} other {# αρχεία παραλείφθηκαν}} ({names}). Εξάγετε τις σελίδες ως PNG ή JPEG — <link>δείτε τον οδηγό</link>."
 }

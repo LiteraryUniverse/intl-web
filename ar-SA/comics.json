@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "ملوّن",
   "comics.team.role.inker": "محبّر",
   "comics.team.role.coverArtist": "رسام الغلاف",
-  "comics.team.role.writer": "كاتب"
+  "comics.team.role.writer": "كاتب",
+  "comics.pages.exportGuide": "هل تصدّر من Clip Studio Paint أو Procreate أو تطبيق رسم آخر؟ <link>اقرأ الدليل</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, zero {لم يُتخطَّ أي ملف} one {تم تخطي ملف واحد} two {تم تخطي ملفين} few {تم تخطي # ملفات} many {تم تخطي # ملفًا} other {تم تخطي # ملف}} ({names}). صدّر الصفحات كـ PNG أو JPEG — <link>انظر الدليل</link>."
 }

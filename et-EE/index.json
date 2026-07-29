@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Tušikunstnik",
   "comics.team.role.coverArtist": "Kaanekunstnik",
   "comics.team.role.writer": "Stsenarist",
+  "comics.pages.exportGuide": "Kas ekspordid Clip Studio Paintist, Procreate’ist või muust joonistusäpist? <link>Loe juhendit</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fail vahele jäetud} other {# faili vahele jäetud}} ({names}). Ekspordi lehed PNG või JPEG formaadis — <link>vaata juhendit</link>.",
   "comment.write": "Kirjutage oma kommentaar",
   "comments.none": "Vabandust, ei ole kommentaare näidata.",
   "comments.total": "Seal {count, plural,\n    =0 {ei ole kommentaare}\n    one {on 1 kommentaar}\n    other {on # kommentaari}\n  }.",

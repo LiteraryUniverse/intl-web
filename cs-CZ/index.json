@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Tušér",
   "comics.team.role.coverArtist": "Autor obálky",
   "comics.team.role.writer": "Scenárista",
+  "comics.pages.exportGuide": "Exportujete z Clip Studio Paint, Procreate nebo jiné výtvarné aplikace? <link>Přečtěte si průvodce</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# soubor přeskočen} few {# soubory přeskočeny} many {# souborů přeskočeno} other {# souborů přeskočeno}} ({names}). Exportujte stránky jako PNG nebo JPEG — <link>viz průvodce</link>.",
   "comment.write": "Napište svůj komentář",
   "comments.none": "Omlouváme se, ale nemáme žádné komentáře k zobrazení.",
   "comments.total": "Celkem {count, plural,\n    zero {0 komentářů}\n    one {1 komentář}\n    few {# komentáře}\n    other {# komentářů}\n  }.",

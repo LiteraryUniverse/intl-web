@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Контуровщик",
   "comics.team.role.coverArtist": "Художник обложки",
   "comics.team.role.writer": "Сценарист",
+  "comics.pages.exportGuide": "Экспортируете из Clip Studio Paint, Procreate или другого графического приложения? <link>Читать руководство</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# файл пропущен} few {# файла пропущено} many {# файлов пропущено} other {# файла пропущено}} ({names}). Экспортируйте страницы как PNG или JPEG — <link>см. руководство</link>.",
   "comment.write": "Напишите свой комментарий",
   "comments.none": "Извините, комментариев нет.",
   "comments.total": "{count, plural,\n    =0 {Нет комментариев}\n    one {1 комментарий}\n    few {# комментария}\n    many {# комментариев}\n    other {# комментариев}\n  }.",

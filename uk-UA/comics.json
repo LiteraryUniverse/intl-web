@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Колорист",
   "comics.team.role.inker": "Контурувальник",
   "comics.team.role.coverArtist": "Художник обкладинки",
-  "comics.team.role.writer": "Сценарист"
+  "comics.team.role.writer": "Сценарист",
+  "comics.pages.exportGuide": "Експортуєте з Clip Studio Paint, Procreate чи іншої графічної програми? <link>Читати посібник</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# файл пропущено} few {# файли пропущено} many {# файлів пропущено} other {# файлу пропущено}} ({names}). Експортуйте сторінки як PNG або JPEG — <link>див. посібник</link>."
 }

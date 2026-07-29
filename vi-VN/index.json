@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Họa sĩ đi nét",
   "comics.team.role.coverArtist": "Họa sĩ bìa",
   "comics.team.role.writer": "Biên kịch",
+  "comics.pages.exportGuide": "Bạn đang xuất từ Clip Studio Paint, Procreate hoặc ứng dụng vẽ khác? <link>Đọc hướng dẫn</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {Đã bỏ qua # tệp}} ({names}). Xuất trang dưới dạng PNG hoặc JPEG — <link>xem hướng dẫn</link>.",
   "comment.write": "Viết bình luận của bạn",
   "comments.none": "Xin lỗi, không có bình luận để hiển thị.",
   "comments.total": "Hiện có {count, plural,\n    =0 {bình luận}\n    one {có 1 bình luận}\n    other {có # bình luận}\n  }.",

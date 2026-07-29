@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Họa sĩ tô màu",
   "comics.team.role.inker": "Họa sĩ đi nét",
   "comics.team.role.coverArtist": "Họa sĩ bìa",
-  "comics.team.role.writer": "Biên kịch"
+  "comics.team.role.writer": "Biên kịch",
+  "comics.pages.exportGuide": "Bạn đang xuất từ Clip Studio Paint, Procreate hoặc ứng dụng vẽ khác? <link>Đọc hướng dẫn</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {Đã bỏ qua # tệp}} ({names}). Xuất trang dưới dạng PNG hoặc JPEG — <link>xem hướng dẫn</link>."
 }

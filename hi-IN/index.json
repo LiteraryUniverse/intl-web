@@ -507,6 +507,8 @@
   "comics.team.role.inker": "स्याही कलाकार",
   "comics.team.role.coverArtist": "कवर कलाकार",
   "comics.team.role.writer": "लेखक",
+  "comics.pages.exportGuide": "Clip Studio Paint, Procreate या किसी अन्य आर्ट ऐप से निर्यात कर रहे हैं? <link>गाइड पढ़ें</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# फ़ाइल छोड़ी गई} other {# फ़ाइलें छोड़ी गईं}} ({names}). पेज PNG या JPEG के रूप में निर्यात करें — <link>गाइड देखें</link>।",
   "comment.write": "अपनी टिप्पणी लिखें",
   "comments.none": "क्षमा करें, कोई टिप्पणी नहीं है।",
   "comments.total": "यहाँ {count, plural,\n    =0 {कोई टिप्पणी नहीं है}\n    one {1 टिप्पणी है}\n    other {# टिप्पणियाँ हैं}\n  }।",

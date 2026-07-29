@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Tusjtegner",
   "comics.team.role.coverArtist": "Omslagskunstner",
   "comics.team.role.writer": "Forfatter",
+  "comics.pages.exportGuide": "Eksporterer du fra Clip Studio Paint, Procreate eller en annen tegneapp? <link>Les guiden</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} hoppet over ({names}). Eksporter sider som PNG eller JPEG — <link>se guiden</link>.",
   "comment.write": "Skriv din kommentar",
   "comments.none": "Beklager, ingen kommentarer å vise.",
   "comments.total": "There {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",

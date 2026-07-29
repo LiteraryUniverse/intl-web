@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Mürekkep sanatçısı",
   "comics.team.role.coverArtist": "Kapak sanatçısı",
   "comics.team.role.writer": "Senarist",
+  "comics.pages.exportGuide": "Clip Studio Paint, Procreate veya başka bir çizim uygulamasından mı dışa aktarıyorsunuz? <link>Rehberi oku</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# dosya atlandı} other {# dosya atlandı}} ({names}). Sayfaları PNG veya JPEG olarak dışa aktarın — <link>rehbere bak</link>.",
   "comment.write": "Yorumunuzu yazın",
   "comments.none": "Gösterilecek yorum yok.",
   "comments.total": "Orada {count, plural,\n    =0 {yorum yok}\n    one {1 yorum var}\n    other {# yorum var}\n  }.",

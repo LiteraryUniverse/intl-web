@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "上色師",
   "comics.team.role.inker": "上墨師",
   "comics.team.role.coverArtist": "封面繪師",
-  "comics.team.role.writer": "編劇"
+  "comics.team.role.writer": "編劇",
+  "comics.pages.exportGuide": "從 Clip Studio Paint、Procreate 或其他繪圖 App 匯出？ <link>閱讀指南</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {已略過 # 個檔案}}（{names}）。請將頁面匯出為 PNG 或 JPEG — <link>查看指南</link>。"
 }

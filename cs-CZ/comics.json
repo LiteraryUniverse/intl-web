@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Kolorista",
   "comics.team.role.inker": "Tušér",
   "comics.team.role.coverArtist": "Autor obálky",
-  "comics.team.role.writer": "Scenárista"
+  "comics.team.role.writer": "Scenárista",
+  "comics.pages.exportGuide": "Exportujete z Clip Studio Paint, Procreate nebo jiné výtvarné aplikace? <link>Přečtěte si průvodce</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# soubor přeskočen} few {# soubory přeskočeny} many {# souborů přeskočeno} other {# souborů přeskočeno}} ({names}). Exportujte stránky jako PNG nebo JPEG — <link>viz průvodce</link>."
 }

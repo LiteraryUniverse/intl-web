@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Kolorista",
   "comics.team.role.inker": "Tagapagtinta",
   "comics.team.role.coverArtist": "Artist ng pabalat",
-  "comics.team.role.writer": "Manunulat"
+  "comics.team.role.writer": "Manunulat",
+  "comics.pages.exportGuide": "Nag-e-export mula sa Clip Studio Paint, Procreate, o ibang art app? <link>Basahin ang gabay</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# file} other {# files}} nilaktawan ({names}). I-export ang mga pahina bilang PNG o JPEG — <link>tingnan ang gabay</link>."
 }

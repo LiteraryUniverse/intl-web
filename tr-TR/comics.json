@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Renklendirici",
   "comics.team.role.inker": "Mürekkep sanatçısı",
   "comics.team.role.coverArtist": "Kapak sanatçısı",
-  "comics.team.role.writer": "Senarist"
+  "comics.team.role.writer": "Senarist",
+  "comics.pages.exportGuide": "Clip Studio Paint, Procreate veya başka bir çizim uygulamasından mı dışa aktarıyorsunuz? <link>Rehberi oku</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# dosya atlandı} other {# dosya atlandı}} ({names}). Sayfaları PNG veya JPEG olarak dışa aktarın — <link>rehbere bak</link>."
 }

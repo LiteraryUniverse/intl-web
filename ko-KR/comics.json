@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "채색 담당",
   "comics.team.role.inker": "잉킹 담당",
   "comics.team.role.coverArtist": "표지 담당",
-  "comics.team.role.writer": "글 작가"
+  "comics.team.role.writer": "글 작가",
+  "comics.pages.exportGuide": "Clip Studio Paint, Procreate 또는 다른 그림 앱에서 내보내시나요? <link>가이드 읽기</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {#개 파일 건너뜀}} ({names}). 페이지를 PNG 또는 JPEG로 내보내세요 — <link>가이드 보기</link>."
 }

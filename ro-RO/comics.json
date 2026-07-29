@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Colorist",
   "comics.team.role.inker": "Artist de tuș",
   "comics.team.role.coverArtist": "Artist de copertă",
-  "comics.team.role.writer": "Scenarist"
+  "comics.team.role.writer": "Scenarist",
+  "comics.pages.exportGuide": "Exportați din Clip Studio Paint, Procreate sau altă aplicație de desen? <link>Citește ghidul</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fișier omis} few {# fișiere omise} other {# de fișiere omise}} ({names}). Exportați paginile ca PNG sau JPEG — <link>vezi ghidul</link>."
 }

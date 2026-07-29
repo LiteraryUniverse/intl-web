@@ -172,5 +172,7 @@
   "comics.team.role.colorist": "Pewarna",
   "comics.team.role.inker": "Peninta",
   "comics.team.role.coverArtist": "Ilustrator sampul",
-  "comics.team.role.writer": "Penulis"
+  "comics.team.role.writer": "Penulis",
+  "comics.pages.exportGuide": "Mengekspor dari Clip Studio Paint, Procreate, atau aplikasi gambar lain? <link>Baca panduan</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# file dilewati}} ({names}). Ekspor halaman sebagai PNG atau JPEG — <link>lihat panduan</link>."
 }

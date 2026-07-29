@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Peninta",
   "comics.team.role.coverArtist": "Ilustrator sampul",
   "comics.team.role.writer": "Penulis",
+  "comics.pages.exportGuide": "Mengekspor dari Clip Studio Paint, Procreate, atau aplikasi gambar lain? <link>Baca panduan</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# file dilewati}} ({names}). Ekspor halaman sebagai PNG atau JPEG — <link>lihat panduan</link>.",
   "comment.write": "Tulis komentar Anda",
   "comments.none": "Maaf, tidak ada komentar yang tersedia.",
   "comments.total": "Ada {count, plural,\n    =0 {are no comments}\n    one {is 1 comment}\n    other {are # comments}\n  }.",

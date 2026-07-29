@@ -507,6 +507,8 @@
   "comics.team.role.inker": "Entintador",
   "comics.team.role.coverArtist": "Artista de coberta",
   "comics.team.role.writer": "Guionista",
+  "comics.pages.exportGuide": "Exportes des de Clip Studio Paint, Procreate o una altra aplicació de dibuix? <link>Llegeix la guia</link>",
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fitxer omès} other {# fitxers omesos}} ({names}). Exporta les pàgines com a PNG o JPEG — <link>consulta la guia</link>.",
   "comment.write": "Escriu el teu comentari",
   "comments.none": "Ho sentim, no hi ha cap comentari per mostrar.",
   "comments.total": "{count, plural,\n    =0 {No hi ha cap comentari}\n    one {Hi ha 1 comentari}\n    other {Hi ha # comentaris}\n  }.",
