@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Protokolo de revizoro",
   "org.apiKeys.description": "API-ŝlosiloj ebligas al ekstera retejo (kiel WIX-retejo) legi la publikajn datumojn de via organizo. Traktu ilin kiel pasvortojn kaj neniam kunhavigu ilin.",
   "org.apiKeys.noKeys": "Ĉi tiu organizo ankoraŭ ne havas iujn ajn API-ŝlosilojn.",
   "org.apiKeys.create.title": "Krei publikan legŝlosilon",
   "org.apiKeys.create.description": "Ĉi tiu ŝlosilo donas nurlegan aliron al la publikaj datumoj de via organizo (profilo, publikigitaj rakontoj, universoj kaj kursoj), por ke vi povu montri ilin sur ekstera retejo.",
   "org.apiKeys.name.placeholder": "ekz., WIX-retejo",
   "org.apiKeys.revoke": "Nuligi",
-  "org.auditLog.title": "Protokolo de revizoro",
   "org.settings.title": "Agordo de la organizo",
   "org.settings.name": "Nomo de la organizo",
   "org.settings.membersPrivate": "NE montri membrojn publike",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Kursoj",
   "org.admin.features.bbb": "Videokunvenoj (BBB)",
+  "org.settings.location": "Jura loko",
+  "org.settings.country": "Lando",
+  "org.settings.address.line1": "Adresa linio 1",
+  "org.settings.address.line2": "Adresa linio 2",
+  "org.settings.address.city": "Urbo",
+  "org.settings.address.state": "Ŝtato, provinco aŭ regiono",
+  "org.settings.address.postalCode": "Poŝtkodo",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Elpagoj estas agorditaj por ĉi tiu organizo.",
   "orgConnect.payouts.manage": "Administri elpagojn ĉe Stripe",
   "orgConnect.payouts.pending": "Stripe ankoraŭ kontrolas la elpagan konton de ĉi tiu organizo. Alklaku sube por daŭrigi la agordadon aŭ revenu poste.",
-  "orgConnect.payouts.setup": "Agordi elpagojn de la organizo"
+  "orgConnect.payouts.setup": "Agordi elpagojn de la organizo",
+  "orgConnect.payouts.timeout": "Stripe ne respondis ĝustatempe. Bonvolu reprovi agordi elpagojn."
 }

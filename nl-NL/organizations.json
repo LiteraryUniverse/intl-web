@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Auditlog",
   "org.apiKeys.description": "Met API-sleutels kan een externe site (zoals een WIX-website) de openbare gegevens van je organisatie lezen. Behandel ze als wachtwoorden en deel ze nooit.",
   "org.apiKeys.noKeys": "Deze organisatie heeft nog geen API-sleutels.",
   "org.apiKeys.create.title": "Openbare leessleutel aanmaken",
   "org.apiKeys.create.description": "Deze sleutel verleent alleen-lezentoegang tot de openbare gegevens van je organisatie (profiel, gepubliceerde verhalen, universums en cursussen), zodat je ze op een externe site kunt weergeven.",
   "org.apiKeys.name.placeholder": "bijv. WIX-website",
   "org.apiKeys.revoke": "Intrekken",
-  "org.auditLog.title": "Auditlog",
   "org.settings.title": "Organisatie-instellingen",
   "org.settings.name": "Organisatienaam",
   "org.settings.membersPrivate": "Toon GEEN leden openbaar",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Cursussen",
   "org.admin.features.bbb": "Videovergaderingen (BBB)",
+  "org.settings.location": "Juridische vestigingsplaats",
+  "org.settings.country": "Land",
+  "org.settings.address.line1": "Adresregel 1",
+  "org.settings.address.line2": "Adresregel 2",
+  "org.settings.address.city": "Plaats",
+  "org.settings.address.state": "Staat, provincie of regio",
+  "org.settings.address.postalCode": "Postcode",
   "organization.blog.title": "{organization} - Nieuws",
   "organization.courses.title": "Cursussen van {orgName}",
   "organization.courses.none": "Deze organisatie heeft nog geen cursussen gepubliceerd.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Uitbetalingen zijn ingesteld voor deze organisatie.",
   "orgConnect.payouts.manage": "Uitbetalingen beheren op Stripe",
   "orgConnect.payouts.pending": "Stripe is het uitbetalingsaccount van deze organisatie nog aan het verifiëren. Klik hieronder om door te gaan met de registratie of kom later terug.",
-  "orgConnect.payouts.setup": "Organisatie-uitbetalingen instellen"
+  "orgConnect.payouts.setup": "Organisatie-uitbetalingen instellen",
+  "orgConnect.payouts.timeout": "Stripe reageerde niet op tijd. Probeer de uitbetalingen opnieuw in te stellen."
 }

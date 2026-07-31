@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Journal d'audit",
   "org.apiKeys.description": "Les clés API permettent à un site externe (tel qu'un site web WIX) de lire les données publiques de votre organisation. Traitez-les comme des mots de passe et ne les partagez jamais.",
   "org.apiKeys.noKeys": "Cette organisation n'a pas encore de clés API.",
   "org.apiKeys.create.title": "Créer une clé de lecture publique",
   "org.apiKeys.create.description": "Cette clé accorde un accès en lecture seule aux données publiques de votre organisation (profil, histoires publiées, univers et cours) afin que vous puissiez les afficher sur un site externe.",
   "org.apiKeys.name.placeholder": "p. ex., site web WIX",
   "org.apiKeys.revoke": "Révoquer",
-  "org.auditLog.title": "Journal d'audit",
   "org.settings.title": "Paramètres de l'organisation",
   "org.settings.name": "Nom de l'organisme",
   "org.settings.membersPrivate": "Ne PAS afficher les membres publiquement",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Atelier",
   "org.admin.features.courses": "Cours",
   "org.admin.features.bbb": "Réunions vidéo (BBB)",
+  "org.settings.location": "Siège légal",
+  "org.settings.country": "Pays",
+  "org.settings.address.line1": "Adresse ligne 1",
+  "org.settings.address.line2": "Adresse ligne 2",
+  "org.settings.address.city": "Ville",
+  "org.settings.address.state": "État, province ou région",
+  "org.settings.address.postalCode": "Code postal",
   "organization.blog.title": "{organization} - Actualités",
   "organization.courses.title": "Cours de {orgName}",
   "organization.courses.none": "Cette organisation n'a encore publié aucun cours.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Les versements sont configurés pour cette organisation.",
   "orgConnect.payouts.manage": "Gérer les versements sur Stripe",
   "orgConnect.payouts.pending": "Stripe vérifie encore le compte de versement de cette organisation. Cliquez ci-dessous pour poursuivre la configuration ou revenez plus tard.",
-  "orgConnect.payouts.setup": "Configurer les versements de l’organisation"
+  "orgConnect.payouts.setup": "Configurer les versements de l’organisation",
+  "orgConnect.payouts.timeout": "Stripe n’a pas répondu à temps. Veuillez réessayer de configurer les versements."
 }

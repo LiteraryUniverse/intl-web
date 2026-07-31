@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Audit log",
   "org.apiKeys.description": "Kunci API ngidini situs njaba (kayata situs web WIX) maca data publik organisasimu. Anggep kaya tembung sandhi lan aja nate dibagi.",
   "org.apiKeys.noKeys": "Organisasi iki durung duwe kunci API apa wae.",
   "org.apiKeys.create.title": "Gawe kunci waca publik",
   "org.apiKeys.create.description": "Kunci iki menehi akses waca-thok menyang data publik organisasimu (profil, crita sing wis diterbitake, jagad, lan kursus) supaya bisa dipampang ing situs njaba.",
   "org.apiKeys.name.placeholder": "contone, situs web WIX",
   "org.apiKeys.revoke": "Batalake",
-  "org.auditLog.title": "Audit log",
   "org.settings.title": "Organization settings",
   "org.settings.name": "Organization name",
   "org.settings.membersPrivate": "Do NOT display members publicly",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Kursus",
   "org.admin.features.bbb": "Rapat video (BBB)",
+  "org.settings.location": "Lokasi legal",
+  "org.settings.country": "Negara",
+  "org.settings.address.line1": "Baris alamat 1",
+  "org.settings.address.line2": "Baris alamat 2",
+  "org.settings.address.city": "Kutha",
+  "org.settings.address.state": "Negara bagéan, provinsi, utawa wilayah",
+  "org.settings.address.postalCode": "Kode pos",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Pencairan dana wis disiyapake kanggo organisasi iki.",
   "orgConnect.payouts.manage": "Kelola pencairan dana ing Stripe",
   "orgConnect.payouts.pending": "Stripe isih mriksa akun pencairan dana organisasi iki. Klik ing ngisor iki kanggo nerusake proses pendaftaran utawa cek maneh mengko.",
-  "orgConnect.payouts.setup": "Siyapake pencairan dana organisasi"
+  "orgConnect.payouts.setup": "Siyapake pencairan dana organisasi",
+  "orgConnect.payouts.timeout": "Stripe ora nanggapi ing wektu. Mangga coba maneh nyetel pambayaran."
 }

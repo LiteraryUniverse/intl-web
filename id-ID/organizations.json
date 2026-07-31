@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Catatan Audit",
   "org.apiKeys.description": "Kunci API memungkinkan situs eksternal (seperti situs web WIX) membaca data publik organisasi Anda. Perlakukan seperti kata sandi dan jangan pernah membagikannya.",
   "org.apiKeys.noKeys": "Organisasi ini belum memiliki kunci API apa pun.",
   "org.apiKeys.create.title": "Buat kunci baca publik",
   "org.apiKeys.create.description": "Kunci ini memberikan akses hanya-baca ke data publik organisasi Anda (profil, cerita yang diterbitkan, dunia, dan kursus) sehingga Anda dapat menampilkannya di situs eksternal.",
   "org.apiKeys.name.placeholder": "mis., situs web WIX",
   "org.apiKeys.revoke": "Cabut",
-  "org.auditLog.title": "Catatan Audit",
   "org.settings.title": "Pengaturan Organisasi",
   "org.settings.name": "Nama Organisasi",
   "org.settings.membersPrivate": "DILARANG menampilkan anggota secara publik",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Kursus",
   "org.admin.features.bbb": "Pertemuan video (BBB)",
+  "org.settings.location": "Lokasi legal",
+  "org.settings.country": "Negara",
+  "org.settings.address.line1": "Baris alamat 1",
+  "org.settings.address.line2": "Baris alamat 2",
+  "org.settings.address.city": "Kota",
+  "org.settings.address.state": "Negara bagian, provinsi, atau wilayah",
+  "org.settings.address.postalCode": "Kode pos",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Pencairan dana sudah disiapkan untuk organisasi ini.",
   "orgConnect.payouts.manage": "Kelola pencairan dana di Stripe",
   "orgConnect.payouts.pending": "Stripe masih memverifikasi akun pencairan dana organisasi ini. Klik di bawah untuk melanjutkan proses pendaftaran atau periksa kembali nanti.",
-  "orgConnect.payouts.setup": "Siapkan pencairan dana organisasi"
+  "orgConnect.payouts.setup": "Siapkan pencairan dana organisasi",
+  "orgConnect.payouts.timeout": "Stripe tidak merespons tepat waktu. Silakan coba atur pembayaran lagi."
 }

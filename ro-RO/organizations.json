@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Jurnal de audit",
   "org.apiKeys.description": "Cheile API permit unui site extern (cum ar fi un site web WIX) să citească datele publice ale organizației tale. Tratează-le ca pe niște parole și nu le partaja niciodată.",
   "org.apiKeys.noKeys": "Această organizație nu are încă nicio cheie API.",
   "org.apiKeys.create.title": "Creează o cheie de citire publică",
   "org.apiKeys.create.description": "Această cheie acordă acces doar pentru citire la datele publice ale organizației tale (profil, povești publicate, universuri și cursuri), ca să le poți afișa pe un site extern.",
   "org.apiKeys.name.placeholder": "de ex., site web WIX",
   "org.apiKeys.revoke": "Revocă",
-  "org.auditLog.title": "Jurnal de audit",
   "org.settings.title": "Setări organizație",
   "org.settings.name": "Nume organizație",
   "org.settings.membersPrivate": "NU afișați membrii public",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Atelier",
   "org.admin.features.courses": "Cursuri",
   "org.admin.features.bbb": "Întâlniri video (BBB)",
+  "org.settings.location": "Locație legală",
+  "org.settings.country": "Țară",
+  "org.settings.address.line1": "Adresă — linia 1",
+  "org.settings.address.line2": "Adresă — linia 2",
+  "org.settings.address.city": "Oraș",
+  "org.settings.address.state": "Stat, provincie sau regiune",
+  "org.settings.address.postalCode": "Cod poștal",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Plățile sunt configurate pentru această organizație.",
   "orgConnect.payouts.manage": "Gestionează plățile pe Stripe",
   "orgConnect.payouts.pending": "Stripe încă verifică contul de plăți al acestei organizații. Apasă mai jos pentru a continua configurarea sau revino mai târziu.",
-  "orgConnect.payouts.setup": "Configurează plățile organizației"
+  "orgConnect.payouts.setup": "Configurează plățile organizației",
+  "orgConnect.payouts.timeout": "Stripe nu a răspuns la timp. Încercați din nou să configurați plățile."
 }

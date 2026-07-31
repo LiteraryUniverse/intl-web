@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Audit-Protokoll",
   "org.apiKeys.description": "API-Schlüssel ermöglichen es einer externen Website (etwa einer WIX-Website), die öffentlichen Daten deiner Organisation zu lesen. Behandle sie wie Passwörter und gib sie niemals weiter.",
   "org.apiKeys.noKeys": "Diese Organisation hat noch keine API-Schlüssel.",
   "org.apiKeys.create.title": "Öffentlichen Leseschlüssel erstellen",
   "org.apiKeys.create.description": "Dieser Schlüssel gewährt schreibgeschützten Zugriff auf die öffentlichen Daten deiner Organisation (Profil, veröffentlichte Geschichten, Universen und Kurse), damit du sie auf einer externen Website anzeigen kannst.",
   "org.apiKeys.name.placeholder": "z. B. WIX-Website",
   "org.apiKeys.revoke": "Widerrufen",
-  "org.auditLog.title": "Audit-Protokoll",
   "org.settings.title": "Organisationseinstellungen",
   "org.settings.name": "Name der Organisation",
   "org.settings.membersPrivate": "Mitglieder NICHT öffentlich anzeigen",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Kurse",
   "org.admin.features.bbb": "Videokonferenzen (BBB)",
+  "org.settings.location": "Rechtlicher Standort",
+  "org.settings.country": "Land",
+  "org.settings.address.line1": "Adresszeile 1",
+  "org.settings.address.line2": "Adresszeile 2",
+  "org.settings.address.city": "Stadt",
+  "org.settings.address.state": "Bundesland, Provinz oder Region",
+  "org.settings.address.postalCode": "Postleitzahl",
   "organization.blog.title": "{organization} – Neuigkeiten",
   "organization.courses.title": "Kurse von {orgName}",
   "organization.courses.none": "Diese Organisation hat noch keine Kurse veröffentlicht.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Auszahlungen sind für diese Organisation eingerichtet.",
   "orgConnect.payouts.manage": "Auszahlungen auf Stripe verwalten",
   "orgConnect.payouts.pending": "Stripe überprüft das Auszahlungskonto dieser Organisation noch. Klicke unten, um mit dem Onboarding fortzufahren, oder schau später wieder vorbei.",
-  "orgConnect.payouts.setup": "Organisations-Auszahlungen einrichten"
+  "orgConnect.payouts.setup": "Organisations-Auszahlungen einrichten",
+  "orgConnect.payouts.timeout": "Stripe hat nicht rechtzeitig geantwortet. Bitte versuche, die Auszahlungen erneut einzurichten."
 }

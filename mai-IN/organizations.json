@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "अडिट लग",
   "org.apiKeys.description": "API कीसभ कोनो बाहरी साइटकेँ (जेना एकटा WIX वेबसाइट) अहाँक संगठनक सार्वजनिक डेटा पढ़बाक अनुमति दैत अछि। इनका पासवर्ड जकाँ मानू आ कहियो साझा नहि करू।",
   "org.apiKeys.noKeys": "एहि संगठनक लग अखन धरि कोनो API की नहि अछि।",
   "org.apiKeys.create.title": "सार्वजनिक रीड की बनाउ",
   "org.apiKeys.create.description": "ई की अहाँक संगठनक सार्वजनिक डेटा (प्रोफाइल, प्रकाशित कथा, ब्रह्मांड आ पाठ्यक्रम) पर केवल-पढ़बाक पहुँच दैत अछि, जाहिसँ अहाँ एकरा कोनो बाहरी साइट पर देखा सकी।",
   "org.apiKeys.name.placeholder": "जेना WIX वेबसाइट",
   "org.apiKeys.revoke": "रद्द करू",
-  "org.auditLog.title": "अडिट लग",
   "org.settings.title": "संगठन सेटिंग्स",
   "org.settings.name": "संगठन का नाम",
   "org.settings.membersPrivate": "सदस्यों को सार्वजनिक रूप से प्रदर्शित न करें",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "कार्यशाला",
   "org.admin.features.courses": "पाठ्यक्रम",
   "org.admin.features.bbb": "वीडियो मीटिंग (BBB)",
+  "org.settings.location": "कानूनी स्थान",
+  "org.settings.country": "देश",
+  "org.settings.address.line1": "पता पंक्ति 1",
+  "org.settings.address.line2": "पता पंक्ति 2",
+  "org.settings.address.city": "शहर",
+  "org.settings.address.state": "राज्य, प्रांत वा क्षेत्र",
+  "org.settings.address.postalCode": "पिन कोड",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "एहि संगठन लेल पेआउट सेट भऽ गेल अछि।",
   "orgConnect.payouts.manage": "Stripe पर पेआउट प्रबंधित करू",
   "orgConnect.payouts.pending": "Stripe एखनो एहि संगठनक पेआउट खाताक सत्यापन कऽ रहल अछि। अनबोर्डिंग जारी रखबाक लेल नीचाँ क्लिक करू वा बादमे फेर देखू।",
-  "orgConnect.payouts.setup": "संगठन पेआउट सेट करू"
+  "orgConnect.payouts.setup": "संगठन पेआउट सेट करू",
+  "orgConnect.payouts.timeout": "Stripe समय पर जवाब नहि देलक। कृपया भुगतान फेर सँ सेट अप करबाक प्रयास करू।"
 }

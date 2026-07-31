@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Denník auditu",
   "org.apiKeys.description": "API kľúče umožňujú externej webovej stránke (napríklad stránke na platforme WIX) čítať verejné údaje vašej organizácie. Zaobchádzajte s nimi ako s heslami a nikdy ich nezdieľajte.",
   "org.apiKeys.noKeys": "Táto organizácia zatiaľ nemá žiadne API kľúče.",
   "org.apiKeys.create.title": "Vytvoriť verejný kľúč na čítanie",
   "org.apiKeys.create.description": "Tento kľúč udeľuje prístup iba na čítanie k verejným údajom vašej organizácie (profil, publikované príbehy, vesmíry a kurzy), aby ste ich mohli zobraziť na externej webovej stránke.",
   "org.apiKeys.name.placeholder": "napr. web na WIX",
   "org.apiKeys.revoke": "Odvolať",
-  "org.auditLog.title": "Denník auditu",
   "org.settings.title": "Nastavenia organizácie",
   "org.settings.name": "Meno organizácie",
   "org.settings.membersPrivate": "Nezobrazujte členov verejne",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Dielňa",
   "org.admin.features.courses": "Kurzy",
   "org.admin.features.bbb": "Videostretnutia (BBB)",
+  "org.settings.location": "Právne sídlo",
+  "org.settings.country": "Krajina",
+  "org.settings.address.line1": "Ulica a číslo 1",
+  "org.settings.address.line2": "Ulica a číslo 2",
+  "org.settings.address.city": "Mesto",
+  "org.settings.address.state": "Štát, kraj alebo región",
+  "org.settings.address.postalCode": "PSČ",
   "organization.blog.title": "{organization} – Novinky",
   "organization.courses.title": "Kurzy od {orgName}",
   "organization.courses.none": "Táto organizácia zatiaľ nepublikovala žiadne kurzy.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Výplaty sú pre túto organizáciu nastavené.",
   "orgConnect.payouts.manage": "Spravovať výplaty v Stripe",
   "orgConnect.payouts.pending": "Stripe stále overuje výplatný účet tejto organizácie. Kliknite nižšie a pokračujte v registrácii, alebo sa vráťte neskôr.",
-  "orgConnect.payouts.setup": "Nastaviť výplaty organizácie"
+  "orgConnect.payouts.setup": "Nastaviť výplaty organizácie",
+  "orgConnect.payouts.timeout": "Stripe neodpovedal včas. Skúste prosím znova nastaviť výplaty."
 }

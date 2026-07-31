@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Courses",
   "org.admin.features.bbb": "Video meetings (BBB)",
+  "org.settings.location": "Legal location",
+  "org.settings.country": "Country",
+  "org.settings.address.line1": "Address line 1",
+  "org.settings.address.line2": "Address line 2",
+  "org.settings.address.city": "City",
+  "org.settings.address.state": "State, province, or region",
+  "org.settings.address.postalCode": "Postal code",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Payouts are set up for this organization.",
   "orgConnect.payouts.manage": "Manage payouts on Stripe",
   "orgConnect.payouts.pending": "Stripe is still verifying this organization's payout account. Click below to continue onboarding or check back later.",
-  "orgConnect.payouts.setup": "Set up organization payouts"
+  "orgConnect.payouts.setup": "Set up organization payouts",
+  "orgConnect.payouts.timeout": "Stripe did not respond in time. Please try setting up payouts again."
 }

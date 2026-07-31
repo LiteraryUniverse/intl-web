@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "יומן הבדיקה",
   "org.apiKeys.description": "מפתחות API מאפשרים לאתר חיצוני (כגון אתר WIX) לקרוא את הנתונים הציבוריים של הארגון שלך. התייחסו אליהם כמו לסיסמאות ולעולם אל תשתפו אותם.",
   "org.apiKeys.noKeys": "לארגון הזה עדיין אין מפתחות API.",
   "org.apiKeys.create.title": "יצירת מפתח קריאה ציבורי",
   "org.apiKeys.create.description": "מפתח זה מעניק גישת קריאה בלבד לנתונים הציבוריים של הארגון שלך (פרופיל, סיפורים שפורסמו, יקומים וקורסים) כדי שתוכלו להציג אותם באתר חיצוני.",
   "org.apiKeys.name.placeholder": "לדוגמה, אתר WIX",
   "org.apiKeys.revoke": "בטל",
-  "org.auditLog.title": "יומן הבדיקה",
   "org.settings.title": "הגדרות הארגון",
   "org.settings.name": "שם הארגון",
   "org.settings.membersPrivate": "אל תציגו את החברים באופן ציבורי",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "סדנה",
   "org.admin.features.courses": "קורסים",
   "org.admin.features.bbb": "פגישות וידאו (BBB)",
+  "org.settings.location": "מיקום משפטי",
+  "org.settings.country": "מדינה",
+  "org.settings.address.line1": "שורת כתובת 1",
+  "org.settings.address.line2": "שורת כתובת 2",
+  "org.settings.address.city": "עיר",
+  "org.settings.address.state": "מדינה, מחוז או אזור",
+  "org.settings.address.postalCode": "מיקוד",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "התשלומים הוגדרו עבור הארגון הזה.",
   "orgConnect.payouts.manage": "ניהול תשלומים ב-Stripe",
   "orgConnect.payouts.pending": "Stripe עדיין מאמת את חשבון התשלומים של הארגון הזה. לחצו למטה כדי להמשיך בתהליך ההצטרפות או בדקו שוב מאוחר יותר.",
-  "orgConnect.payouts.setup": "הגדרת תשלומי הארגון"
+  "orgConnect.payouts.setup": "הגדרת תשלומי הארגון",
+  "orgConnect.payouts.timeout": "Stripe לא הגיב בזמן. נסו להגדיר שוב את התשלומים."
 }

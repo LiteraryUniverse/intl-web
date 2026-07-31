@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Audit log",
   "org.apiKeys.description": "Kunci API ngicénin galah ring situs eksternal (minakadi situs web WIX) mamaca data publik organisasi ragané. Anggé sakadi kata sandi tur sampunang naenin kabagiang ring anak lianan.",
   "org.apiKeys.noKeys": "Organisasi puniki durung madué kunci API.",
   "org.apiKeys.create.title": "Ngae kunci maca publik",
   "org.apiKeys.create.description": "Kunci puniki ngicénin akses wacén-manten ring data publik organisasi ragané (profil, satua sané sampun kamedalang, jagat, lan kursus) mangda prasida kapajang ring situs eksternal.",
   "org.apiKeys.name.placeholder": "conto, situs web WIX",
   "org.apiKeys.revoke": "Batalang",
-  "org.auditLog.title": "Audit log",
   "org.settings.title": "Organization settings",
   "org.settings.name": "Organization name",
   "org.settings.membersPrivate": "Do NOT display members publicly",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Workshop",
   "org.admin.features.courses": "Kursus",
   "org.admin.features.bbb": "Rapat video (BBB)",
+  "org.settings.location": "Genah legal",
+  "org.settings.country": "Negara",
+  "org.settings.address.line1": "Baris alamat 1",
+  "org.settings.address.line2": "Baris alamat 2",
+  "org.settings.address.city": "Kota",
+  "org.settings.address.state": "Negara bagian, provinsi, utawi wilayah",
+  "org.settings.address.postalCode": "Kode pos",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Pencairan dana sampun kasiagayang anggen organisasi puniki.",
   "orgConnect.payouts.manage": "Kelola pencairan dana ring Stripe",
   "orgConnect.payouts.pending": "Stripe kantun mriksa akun pencairan dana organisasi puniki. Klik ring sor anggen nglanturang proses pendaftaran utawi cek malih rikawekasan.",
-  "orgConnect.payouts.setup": "Siagayang pencairan dana organisasi"
+  "orgConnect.payouts.setup": "Siagayang pencairan dana organisasi",
+  "orgConnect.payouts.timeout": "Stripe nenten nyawis ring galah sané patut. Mangda coba malih nyetel pembayaran organisasi."
 }

@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Revisjonslogg",
   "org.apiKeys.description": "API-nøkler lar et eksternt nettsted (for eksempel et WIX-nettsted) lese organisasjonens offentlige data. Behandle dem som passord, og del dem aldri.",
   "org.apiKeys.noKeys": "Denne organisasjonen har ingen API-nøkler ennå.",
   "org.apiKeys.create.title": "Opprett offentlig lesenøkkel",
   "org.apiKeys.create.description": "Denne nøkkelen gir skrivebeskyttet tilgang til organisasjonens offentlige data (profil, publiserte historier, universer og kurs), slik at du kan vise dem på et eksternt nettsted.",
   "org.apiKeys.name.placeholder": "f.eks. WIX-nettsted",
   "org.apiKeys.revoke": "Tilbakekall",
-  "org.auditLog.title": "Revisjonslogg",
   "org.settings.title": "Organisasjonsinnstillinger",
   "org.settings.name": "Organisasjonsnavn",
   "org.settings.membersPrivate": "Ikke vis medlemmer offentlig",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Verksted",
   "org.admin.features.courses": "Kurs",
   "org.admin.features.bbb": "Videomøter (BBB)",
+  "org.settings.location": "Juridisk plassering",
+  "org.settings.country": "Land",
+  "org.settings.address.line1": "Adresselinje 1",
+  "org.settings.address.line2": "Adresselinje 2",
+  "org.settings.address.city": "By",
+  "org.settings.address.state": "Delstat, provins eller region",
+  "org.settings.address.postalCode": "Postnummer",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Utbetalinger er satt opp for denne organisasjonen.",
   "orgConnect.payouts.manage": "Administrer utbetalinger på Stripe",
   "orgConnect.payouts.pending": "Stripe holder fortsatt på å verifisere organisasjonens utbetalingskonto. Klikk nedenfor for å fortsette registreringen, eller kom tilbake senere.",
-  "orgConnect.payouts.setup": "Sett opp utbetalinger for organisasjonen"
+  "orgConnect.payouts.setup": "Sett opp utbetalinger for organisasjonen",
+  "orgConnect.payouts.timeout": "Stripe svarte ikke i tide. Prøv å sette opp utbetalinger på nytt."
 }

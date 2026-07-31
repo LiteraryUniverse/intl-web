@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "บันทึกการตรวจสอบ",
   "org.apiKeys.description": "คีย์ API ช่วยให้เว็บไซต์ภายนอก (เช่น เว็บไซต์ WIX) สามารถอ่านข้อมูลสาธารณะขององค์กรของคุณได้ โปรดเก็บรักษาไว้เหมือนรหัสผ่านและอย่าเปิดเผยแก่ผู้อื่น",
   "org.apiKeys.noKeys": "องค์กรนี้ยังไม่มีคีย์ API",
   "org.apiKeys.create.title": "สร้างคีย์อ่านข้อมูลสาธารณะ",
   "org.apiKeys.create.description": "คีย์นี้ให้สิทธิ์เข้าถึงข้อมูลสาธารณะขององค์กรของคุณแบบอ่านอย่างเดียว (โปรไฟล์ เรื่องราวที่เผยแพร่ จักรวาล และคอร์ส) เพื่อให้คุณสามารถแสดงบนเว็บไซต์ภายนอกได้",
   "org.apiKeys.name.placeholder": "เช่น เว็บไซต์ WIX",
   "org.apiKeys.revoke": "เพิกถอน",
-  "org.auditLog.title": "บันทึกการตรวจสอบ",
   "org.settings.title": "การตั้งค่าองค์กร",
   "org.settings.name": "ชื่อองค์กร",
   "org.settings.membersPrivate": "ไม่แสดงสมาชิกต่อสาธารณะ",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "เวิร์กชอป",
   "org.admin.features.courses": "คอร์ส",
   "org.admin.features.bbb": "การประชุมทางวิดีโอ (BBB)",
+  "org.settings.location": "ที่ตั้งทางกฎหมาย",
+  "org.settings.country": "ประเทศ",
+  "org.settings.address.line1": "ที่อยู่บรรทัดที่ 1",
+  "org.settings.address.line2": "ที่อยู่บรรทัดที่ 2",
+  "org.settings.address.city": "เมือง",
+  "org.settings.address.state": "รัฐ จังหวัด หรือภูมิภาค",
+  "org.settings.address.postalCode": "รหัสไปรษณีย์",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "ตั้งค่าการจ่ายเงินสำหรับองค์กรนี้เรียบร้อยแล้ว",
   "orgConnect.payouts.manage": "จัดการการจ่ายเงินบน Stripe",
   "orgConnect.payouts.pending": "Stripe กำลังตรวจสอบบัญชีรับเงินขององค์กรนี้อยู่ คลิกด้านล่างเพื่อดำเนินการลงทะเบียนต่อ หรือกลับมาตรวจสอบภายหลัง",
-  "orgConnect.payouts.setup": "ตั้งค่าการจ่ายเงินขององค์กร"
+  "orgConnect.payouts.setup": "ตั้งค่าการจ่ายเงินขององค์กร",
+  "orgConnect.payouts.timeout": "Stripe ไม่ตอบสนองทันเวลา โปรดลองตั้งค่าการรับเงินอีกครั้ง"
 }

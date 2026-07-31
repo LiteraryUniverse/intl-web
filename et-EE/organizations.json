@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Tegevusloend",
   "org.apiKeys.description": "API-võtmed võimaldavad välisel saidil (näiteks WIX-i veebisaidil) lugeda sinu organisatsiooni avalikke andmeid. Käsitle neid nagu paroole ja ära jaga neid kunagi.",
   "org.apiKeys.noKeys": "Sellel organisatsioonil pole veel ühtegi API-võtit.",
   "org.apiKeys.create.title": "Loo avalik lugemisvõti",
   "org.apiKeys.create.description": "See võti annab kirjutuskaitstud juurdepääsu sinu organisatsiooni avalikele andmetele (profiil, avaldatud lood, universumid ja kursused), et saaksid neid välisel saidil kuvada.",
   "org.apiKeys.name.placeholder": "nt WIX-i veebisait",
   "org.apiKeys.revoke": "Tühista",
-  "org.auditLog.title": "Tegevusloend",
   "org.settings.title": "Organisatsiooni seaded",
   "org.settings.name": "Organisatsiooni nimi",
   "org.settings.membersPrivate": "Ära näita liikmeid avalikult",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Töötuba",
   "org.admin.features.courses": "Kursused",
   "org.admin.features.bbb": "Videokohtumised (BBB)",
+  "org.settings.location": "Juriidiline asukoht",
+  "org.settings.country": "Riik",
+  "org.settings.address.line1": "Aadressirida 1",
+  "org.settings.address.line2": "Aadressirida 2",
+  "org.settings.address.city": "Linn",
+  "org.settings.address.state": "Osariik, provints või piirkond",
+  "org.settings.address.postalCode": "Postiindeks",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Väljamaksed on selle organisatsiooni jaoks seadistatud.",
   "orgConnect.payouts.manage": "Halda väljamakseid Stripe'is",
   "orgConnect.payouts.pending": "Stripe alles kontrollib selle organisatsiooni väljamaksekontot. Jätkamiseks klõpsa allpool või tule hiljem tagasi.",
-  "orgConnect.payouts.setup": "Seadista organisatsiooni väljamaksed"
+  "orgConnect.payouts.setup": "Seadista organisatsiooni väljamaksed",
+  "orgConnect.payouts.timeout": "Stripe ei vastanud õigel ajal. Proovige väljamakseid uuesti seadistada."
 }

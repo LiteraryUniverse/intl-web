@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "अडिट लग",
   "org.apiKeys.description": "API कीहरूले कुनै बाह्य साइट (जस्तै WIX वेबसाइट) लाई तपाईंको संगठनको सार्वजनिक डेटा पढ्न अनुमति दिन्छ। तिनीहरूलाई पासवर्डझैं व्यवहार गर्नुहोस् र कहिल्यै साझा नगर्नुहोस्।",
   "org.apiKeys.noKeys": "यस संगठनसँग अहिलेसम्म कुनै API की छैन।",
   "org.apiKeys.create.title": "सार्वजनिक रिड की सिर्जना गर्नुहोस्",
   "org.apiKeys.create.description": "यो कीले तपाईंको संगठनको सार्वजनिक डेटा (प्रोफाइल, प्रकाशित कथाहरू, ब्रह्माण्डहरू र पाठ्यक्रमहरू) मा पढ्ने-मात्र पहुँच दिन्छ, ताकि तपाईंले यसलाई बाह्य साइटमा प्रदर्शन गर्न सक्नुहुन्छ।",
   "org.apiKeys.name.placeholder": "जस्तै WIX वेबसाइट",
   "org.apiKeys.revoke": "रद्द गर्नुहोस्",
-  "org.auditLog.title": "अडिट लग",
   "org.settings.title": "संगठन सेटिङहरू",
   "org.settings.name": "संगठनको नाम",
   "org.settings.membersPrivate": "सदस्यहरूलाई सार्वजनिक रूपमा प्रदर्शन नगर्नुहोस्",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "कार्यशाला",
   "org.admin.features.courses": "पाठ्यक्रमहरू",
   "org.admin.features.bbb": "भिडियो बैठकहरू (BBB)",
+  "org.settings.location": "कानुनी स्थान",
+  "org.settings.country": "देश",
+  "org.settings.address.line1": "ठेगाना पङ्क्ति १",
+  "org.settings.address.line2": "ठेगाना पङ्क्ति २",
+  "org.settings.address.city": "सहर",
+  "org.settings.address.state": "राज्य, प्रदेश वा क्षेत्र",
+  "org.settings.address.postalCode": "हुलाक कोड",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "यस संगठनका लागि पेआउट सेटअप भइसकेको छ।",
   "orgConnect.payouts.manage": "Stripe मा पेआउट व्यवस्थापन गर्नुहोस्",
   "orgConnect.payouts.pending": "Stripe ले अझै यस संगठनको पेआउट खाताको प्रमाणीकरण गर्दैछ। अनबोर्डिङ जारी राख्न तल क्लिक गर्नुहोस् वा पछि फेरि हेर्नुहोस्।",
-  "orgConnect.payouts.setup": "संगठन पेआउट सेटअप गर्नुहोस्"
+  "orgConnect.payouts.setup": "संगठन पेआउट सेटअप गर्नुहोस्",
+  "orgConnect.payouts.timeout": "Stripe ले समयमै जवाफ दिएन। कृपया भुक्तानी फेरि सेटअप गर्ने प्रयास गर्नुहोस्।"
 }

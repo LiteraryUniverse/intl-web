@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Diário de auditoria",
   "org.apiKeys.description": "As chaves de API permitem que um site externo (como um site WIX) leia os dados públicos da sua organização. Trate-as como senhas e nunca as compartilhe.",
   "org.apiKeys.noKeys": "Esta organização ainda não tem nenhuma chave de API.",
   "org.apiKeys.create.title": "Criar chave de leitura pública",
   "org.apiKeys.create.description": "Esta chave concede acesso somente leitura aos dados públicos da sua organização (perfil, histórias publicadas, universos e cursos) para que você possa exibi-los em um site externo.",
   "org.apiKeys.name.placeholder": "ex.: site WIX",
   "org.apiKeys.revoke": "Revogar",
-  "org.auditLog.title": "Diário de auditoria",
   "org.settings.title": "Configurações da organização",
   "org.settings.name": "Nome da organização",
   "org.settings.membersPrivate": "NÃO exibir membros publicamente",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Oficina",
   "org.admin.features.courses": "Cursos",
   "org.admin.features.bbb": "Reuniões por vídeo (BBB)",
+  "org.settings.location": "Localização legal",
+  "org.settings.country": "País",
+  "org.settings.address.line1": "Endereço — linha 1",
+  "org.settings.address.line2": "Endereço — linha 2",
+  "org.settings.address.city": "Cidade",
+  "org.settings.address.state": "Estado, província ou região",
+  "org.settings.address.postalCode": "CEP",
   "organization.blog.title": "{organization} - Notícias",
   "organization.courses.title": "Cursos de {orgName}",
   "organization.courses.none": "Esta organização ainda não publicou nenhum curso.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Os pagamentos estão configurados para esta organização.",
   "orgConnect.payouts.manage": "Gerenciar pagamentos no Stripe",
   "orgConnect.payouts.pending": "O Stripe ainda está verificando a conta de pagamentos desta organização. Clique abaixo para continuar o cadastro ou volte mais tarde.",
-  "orgConnect.payouts.setup": "Configurar pagamentos da organização"
+  "orgConnect.payouts.setup": "Configurar pagamentos da organização",
+  "orgConnect.payouts.timeout": "O Stripe não respondeu a tempo. Tente configurar os pagamentos novamente."
 }

@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "આડિટ લોગ",
   "org.apiKeys.description": "API કીઓ કોઈ બાહ્ય સાઇટને (જેમ કે WIX વેબસાઇટ) તમારી સંસ્થાનો સાર્વજનિક ડેટા વાંચવા દે છે. તેમને પાસવર્ડની જેમ ગણો અને ક્યારેય શેર કરશો નહીં.",
   "org.apiKeys.noKeys": "આ સંસ્થા પાસે હજી સુધી કોઈ API કી નથી.",
   "org.apiKeys.create.title": "સાર્વજનિક વાંચન કી બનાવો",
   "org.apiKeys.create.description": "આ કી તમારી સંસ્થાના સાર્વજનિક ડેટા (પ્રોફાઇલ, પ્રકાશિત વાર્તાઓ, વિશ્વો અને કોર્સ) માટે ફક્ત-વાંચન ઍક્સેસ આપે છે, જેથી તમે તેને કોઈ બાહ્ય સાઇટ પર દર્શાવી શકો.",
   "org.apiKeys.name.placeholder": "દા.ત., WIX વેબસાઇટ",
   "org.apiKeys.revoke": "રદ કરો",
-  "org.auditLog.title": "આડિટ લોગ",
   "org.settings.title": "સંસ્થા સેટિંગ્સ",
   "org.settings.name": "સંસ્થાનું નામ",
   "org.settings.membersPrivate": "સભ્યોને જનતામાં દર્શાવવું ન રાખો",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "વર્કશોપ",
   "org.admin.features.courses": "કોર્સ",
   "org.admin.features.bbb": "વિડિયો મીટિંગ (BBB)",
+  "org.settings.location": "કાનૂની સ્થાન",
+  "org.settings.country": "દેશ",
+  "org.settings.address.line1": "સરનામું લાઇન 1",
+  "org.settings.address.line2": "સરનામું લાઇન 2",
+  "org.settings.address.city": "શહેર",
+  "org.settings.address.state": "રાજ્ય, પ્રાંત અથવા પ્રદેશ",
+  "org.settings.address.postalCode": "પોસ્ટલ કોડ",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "આ સંસ્થા માટે પેઆઉટ સેટ થઈ ગયા છે.",
   "orgConnect.payouts.manage": "Stripe પર પેઆઉટ મેનેજ કરો",
   "orgConnect.payouts.pending": "Stripe હજી આ સંસ્થાના પેઆઉટ ખાતાની ચકાસણી કરી રહ્યું છે. ઓનબોર્ડિંગ ચાલુ રાખવા નીચે ક્લિક કરો અથવા પછીથી ફરી તપાસો.",
-  "orgConnect.payouts.setup": "સંસ્થાના પેઆઉટ સેટ કરો"
+  "orgConnect.payouts.setup": "સંસ્થાના પેઆઉટ સેટ કરો",
+  "orgConnect.payouts.timeout": "Stripeએ સમયસર જવાબ આપ્યો નથી. કૃપા કરીને ફરીથી પેઆઉટ સેટ અપ કરવાનો પ્રયાસ કરો."
 }

@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Revisionslogg",
   "org.apiKeys.description": "API-nycklar låter en extern webbplats (till exempel en WIX-webbplats) läsa din organisations offentliga data. Behandla dem som lösenord och dela dem aldrig.",
   "org.apiKeys.noKeys": "Den här organisationen har inga API-nycklar än.",
   "org.apiKeys.create.title": "Skapa offentlig läsnyckel",
   "org.apiKeys.create.description": "Den här nyckeln ger skrivskyddad åtkomst till din organisations offentliga data (profil, publicerade berättelser, universum och kurser) så att du kan visa dem på en extern webbplats.",
   "org.apiKeys.name.placeholder": "t.ex. WIX-webbplats",
   "org.apiKeys.revoke": "Återkalla",
-  "org.auditLog.title": "Revisionslogg",
   "org.settings.title": "Organisationsinställningar",
   "org.settings.name": "Organisationsnamn",
   "org.settings.membersPrivate": "Visa INTE medlemmar offentligt",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Verkstad",
   "org.admin.features.courses": "Kurser",
   "org.admin.features.bbb": "Videomöten (BBB)",
+  "org.settings.location": "Juridisk plats",
+  "org.settings.country": "Land",
+  "org.settings.address.line1": "Adressrad 1",
+  "org.settings.address.line2": "Adressrad 2",
+  "org.settings.address.city": "Ort",
+  "org.settings.address.state": "Delstat, provins eller region",
+  "org.settings.address.postalCode": "Postnummer",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Utbetalningar är konfigurerade för den här organisationen.",
   "orgConnect.payouts.manage": "Hantera utbetalningar på Stripe",
   "orgConnect.payouts.pending": "Stripe verifierar fortfarande organisationens utbetalningskonto. Klicka nedan för att fortsätta registreringen eller kom tillbaka senare.",
-  "orgConnect.payouts.setup": "Konfigurera organisationens utbetalningar"
+  "orgConnect.payouts.setup": "Konfigurera organisationens utbetalningar",
+  "orgConnect.payouts.timeout": "Stripe svarade inte i tid. Försök ställa in utbetalningar igen."
 }

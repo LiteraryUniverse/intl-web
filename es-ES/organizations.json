@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Registro de auditoría",
   "org.apiKeys.description": "Las claves API permiten que un sitio externo (como un sitio web de WIX) lea los datos públicos de tu organización. Trátalas como contraseñas y no las compartas nunca.",
   "org.apiKeys.noKeys": "Esta organización aún no tiene ninguna clave API.",
   "org.apiKeys.create.title": "Crear clave de lectura pública",
   "org.apiKeys.create.description": "Esta clave concede acceso de solo lectura a los datos públicos de tu organización (perfil, historias publicadas, universos y cursos) para que puedas mostrarlos en un sitio externo.",
   "org.apiKeys.name.placeholder": "p. ej., sitio web de WIX",
   "org.apiKeys.revoke": "Revocar",
-  "org.auditLog.title": "Registro de auditoría",
   "org.settings.title": "Configuración de organización",
   "org.settings.name": "Nombre de la organización",
   "org.settings.membersPrivate": "NO mostrar miembros públicamente",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Taller",
   "org.admin.features.courses": "Cursos",
   "org.admin.features.bbb": "Videollamadas (BBB)",
+  "org.settings.location": "Ubicación legal",
+  "org.settings.country": "País",
+  "org.settings.address.line1": "Línea de dirección 1",
+  "org.settings.address.line2": "Línea de dirección 2",
+  "org.settings.address.city": "Ciudad",
+  "org.settings.address.state": "Estado, provincia o región",
+  "org.settings.address.postalCode": "Código postal",
   "organization.blog.title": "{organization} - Noticias",
   "organization.courses.title": "Cursos de {orgName}",
   "organization.courses.none": "Esta organización todavía no ha publicado ningún curso.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Los pagos están configurados para esta organización.",
   "orgConnect.payouts.manage": "Gestionar los pagos en Stripe",
   "orgConnect.payouts.pending": "Stripe todavía está verificando la cuenta de pagos de esta organización. Haz clic abajo para continuar con el registro o vuelve más tarde.",
-  "orgConnect.payouts.setup": "Configurar los pagos de la organización"
+  "orgConnect.payouts.setup": "Configurar los pagos de la organización",
+  "orgConnect.payouts.timeout": "Stripe no respondió a tiempo. Intenta configurar los pagos de nuevo."
 }

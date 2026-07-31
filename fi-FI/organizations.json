@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Tarkastusloki",
   "org.apiKeys.description": "API-avaimet antavat ulkoiselle sivustolle (kuten WIX-sivustolle) mahdollisuuden lukea organisaatiosi julkisia tietoja. Käsittele niitä kuin salasanoja äläkä koskaan jaa niitä.",
   "org.apiKeys.noKeys": "Tällä organisaatiolla ei ole vielä yhtään API-avainta.",
   "org.apiKeys.create.title": "Luo julkinen lukuavain",
   "org.apiKeys.create.description": "Tämä avain myöntää vain lukuoikeuden organisaatiosi julkisiin tietoihin (profiili, julkaistut tarinat, universumit ja kurssit), jotta voit näyttää ne ulkoisella sivustolla.",
   "org.apiKeys.name.placeholder": "esim. WIX-sivusto",
   "org.apiKeys.revoke": "Mitätöi",
-  "org.auditLog.title": "Tarkastusloki",
   "org.settings.title": "Organisaation asetukset",
   "org.settings.name": "Organisaation nimi",
   "org.settings.membersPrivate": "Älä näytä jäseniä julkisesti",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Työpaja",
   "org.admin.features.courses": "Kurssit",
   "org.admin.features.bbb": "Videokokoukset (BBB)",
+  "org.settings.location": "Oikeudellinen sijainti",
+  "org.settings.country": "Maa",
+  "org.settings.address.line1": "Osoiterivi 1",
+  "org.settings.address.line2": "Osoiterivi 2",
+  "org.settings.address.city": "Kaupunki",
+  "org.settings.address.state": "Osavaltio, lääni tai alue",
+  "org.settings.address.postalCode": "Postinumero",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Tilitykset on määritetty tälle organisaatiolle.",
   "orgConnect.payouts.manage": "Hallinnoi tilityksiä Stripessä",
   "orgConnect.payouts.pending": "Stripe vahvistaa vielä tämän organisaation tilitystiliä. Jatka rekisteröintiä napsauttamalla alta tai palaa myöhemmin.",
-  "orgConnect.payouts.setup": "Määritä organisaation tilitykset"
+  "orgConnect.payouts.setup": "Määritä organisaation tilitykset",
+  "orgConnect.payouts.timeout": "Stripe ei vastannut ajoissa. Yritä määrittää maksut uudelleen."
 }

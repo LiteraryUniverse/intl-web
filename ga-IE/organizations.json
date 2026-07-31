@@ -1,11 +1,11 @@
 {
+  "org.auditLog.title": "Log Cuntas",
   "org.apiKeys.description": "Ligeann eochracha API do shuíomh seachtrach (ar nós suíomh gréasáin WIX) sonraí poiblí d'eagraíochta a léamh. Caith leo mar fhocail faire agus ná roinn go deo iad.",
   "org.apiKeys.noKeys": "Níl aon eochracha API ag an eagraíocht seo go fóill.",
   "org.apiKeys.create.title": "Cruthaigh eochair léitheoireachta phoiblí",
   "org.apiKeys.create.description": "Tugann an eochair seo rochtain léitheoireachta amháin ar shonraí poiblí d'eagraíochta (próifíl, scéalta foilsithe, aontachtaí agus cúrsaí) ionas gur féidir leat iad a thaispeáint ar shuíomh seachtrach.",
   "org.apiKeys.name.placeholder": "m.sh., suíomh gréasáin WIX",
   "org.apiKeys.revoke": "Cúlghair",
-  "org.auditLog.title": "Log Cuntas",
   "org.settings.title": "Socruithe an Eagraíochta",
   "org.settings.name": "Ainm na hEagraíochta",
   "org.settings.membersPrivate": "NÁ léiríonn baill go poiblí",
@@ -104,6 +104,13 @@
   "org.admin.features.workshop": "Ceardlann",
   "org.admin.features.courses": "Cúrsaí",
   "org.admin.features.bbb": "Cruinnithe físe (BBB)",
+  "org.settings.location": "Suíomh dlíthiúil",
+  "org.settings.country": "Tír",
+  "org.settings.address.line1": "Líne seolta 1",
+  "org.settings.address.line2": "Líne seolta 2",
+  "org.settings.address.city": "Cathair",
+  "org.settings.address.state": "Stát, cúige nó réigiún",
+  "org.settings.address.postalCode": "Cód poist",
   "organization.blog.title": "{organization} - News",
   "organization.courses.title": "Courses by {orgName}",
   "organization.courses.none": "This organization hasn't published any courses yet.",
@@ -113,5 +120,6 @@
   "orgConnect.payouts.ready": "Tá na híocaíochtaí amach socraithe don eagraíocht seo.",
   "orgConnect.payouts.manage": "Bainistigh íocaíochtaí amach ar Stripe",
   "orgConnect.payouts.pending": "Tá Stripe fós ag fíorú chuntas íocaíochtaí amach na heagraíochta seo. Cliceáil thíos chun leanúint ar aghaidh leis an gclárú nó fill ar ball.",
-  "orgConnect.payouts.setup": "Socraigh íocaíochtaí amach na heagraíochta"
+  "orgConnect.payouts.setup": "Socraigh íocaíochtaí amach na heagraíochta",
+  "orgConnect.payouts.timeout": "Níor fhreagair Stripe in am. Bain triail eile as na híocaíochtaí a shocrú."
 }
