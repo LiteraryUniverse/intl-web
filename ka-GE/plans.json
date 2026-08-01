@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ბლოგის გაფართოებული დიზაინი (საკუთარი CSS)",
   "plans.feature.luSubdomain": "ბლოგი საკუთარ Literary Universe ქვედომენზე",
-  "plans.feature.customDomain": "ბლოგი საკუთარ დომენზე"
+  "plans.feature.customDomain": "ბლოგი საკუთარ დომენზე",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

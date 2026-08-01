@@ -184,5 +184,7 @@
   "blog.domains.claim": "حجز",
   "blog.domains.unavailable": "هذا النطاق الفرعي غير متاح.",
   "blog.domains.available": "متاح!",
-  "blog.domains.customComing": "ربط نطاقك الخاص (مثل blog.yourname.com) قادم قريبًا."
+  "blog.domains.customComing": "ربط نطاقك الخاص (مثل blog.yourname.com) قادم قريبًا.",
+  "blog.post.viewPublished": "عرض المنشور المنشور",
+  "blog.post.edit": "تعديل المنشور"
 }

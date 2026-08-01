@@ -184,5 +184,7 @@
   "blog.domains.claim": "Zajmij",
   "blog.domains.unavailable": "Ta subdomena nie jest dostępna.",
   "blog.domains.available": "Dostępna!",
-  "blog.domains.customComing": "Podłączenie własnej domeny (np. blog.twojenazwisko.pl) już wkrótce."
+  "blog.domains.customComing": "Podłączenie własnej domeny (np. blog.twojenazwisko.pl) już wkrótce.",
+  "blog.post.viewPublished": "Zobacz opublikowany wpis",
+  "blog.post.edit": "Edytuj wpis"
 }

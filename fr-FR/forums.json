@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Articles de blog",
   "forums.settings.systemPosts.blogs.enable": "Créer automatiquement des fils de discussion pour les nouveaux articles de blog",
   "forums.settings.systemPosts.blogs.category": "Post to category :",
-  "forums.settings.systemPosts.blogs.selectCategory": "Sélectionnez une catégorie..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Sélectionnez une catégorie...",
+  "forums.posts.loadError": "Erreur lors du chargement des messages",
+  "forums.category.orgRoles": "Limiter aux rôles de l’organisation (aucun = tous les membres)"
 }

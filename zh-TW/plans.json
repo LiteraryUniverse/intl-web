@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "進階部落格設計（自訂 CSS）",
   "plans.feature.luSubdomain": "在您專屬的 Literary Universe 子網域上經營部落格",
-  "plans.feature.customDomain": "在您自己的網域上經營部落格"
+  "plans.feature.customDomain": "在您自己的網域上經營部落格",
+  "payment.testMode.docs": "Stripe 文件",
+  "payment.testMode.short": "這不是正式環境！",
+  "payment.testMode.warning": "這不是正式環境，請依 {docs} 使用測試卡。"
 }

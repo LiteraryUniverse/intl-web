@@ -65,10 +65,12 @@
   "forums.category.postingPermission": "Who can create threads",
   "forums.category.postingPermission.everyone": "Everyone",
   "forums.category.postingPermission.owner": "Forum owner only",
+  "forums.category.orgRoles": "Limit to organization roles (none = all members)",
   "forums.settings.systemPosts": "System Posts",
   "forums.settings.systemPosts.description": "Configure automatic posting of system-generated content to your forum.",
   "forums.settings.systemPosts.blogs": "Blog Posts",
   "forums.settings.systemPosts.blogs.enable": "Automatically create forum threads for new blog posts",
   "forums.settings.systemPosts.blogs.category": "Post to category:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Select a category..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Select a category...",
+  "forums.posts.loadError": "Error loading posts"
 }

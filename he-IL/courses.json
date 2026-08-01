@@ -323,5 +323,8 @@
   "meeting.notStarted": "הפגישה עדיין לא התחילה",
   "course.curriculum.heading": "תוכנית הלימודים של הקורס",
   "course.curriculum.andMore": "... ועוד {count} שיעורים ומשימות.",
-  "course.organization.by": "מאת {orgName}"
+  "course.organization.by": "מאת {orgName}",
+  "courses.members.tabsAria": "לשוניות חברי הקורס",
+  "course.works.select": "בחירת יצירות",
+  "course.reading.prompt.placeholder": "לדוגמה: בחרו סיפור כלשהו מהרשימה שנבחרה שמתמקד במספר לא אמין."
 }

@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "New chapter in {comicName} has been published!"
+  "notification.followingNewComicChapter.new": "New chapter in {comicName} has been published!",
+  "notification.orgWorkProposal.received": "{work} ནི་ {organization} ལ་འཆར་འབུལ་བྱས།",
+  "notification.orgWorkProposal.accepted": "{organization} གིས་ཁྱེད་ཀྱི་བརྩམས་ཆོས་ {work} དང་ལེན་བྱས།",
+  "notification.orgWorkProposal.rejected": "{organization} གིས་ཁྱེད་ཀྱི་བརྩམས་ཆོས་ {work} ངོས་ལེན་མ་བྱས།"
 }

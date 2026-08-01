@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Pranešimai apie socialinę sąveiką ir bendruomenės dalyvavimą",
   "notifications.category.reading.description": "Pranešimai apie naują turinį ir skaitymo veiklą",
   "notifications.category.system.description": "Sistemos pranešimai ir svarbūs atnaujinimai",
-  "notification.followingNewComicChapter.new": "Paskelbtas naujas skyrius {comicName}!"
+  "notification.followingNewComicChapter.new": "Paskelbtas naujas skyrius {comicName}!",
+  "notification.orgWorkProposal.received": "Kūrinys {work} pasiūlytas organizacijai {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} priėmė jūsų kūrinį {work}",
+  "notification.orgWorkProposal.rejected": "{organization} atmetė jūsų kūrinį {work}"
 }

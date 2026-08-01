@@ -323,5 +323,8 @@
   "meeting.notStarted": "Kokous ei ole vielä alkanut",
   "course.curriculum.heading": "Kurssin opetussuunnitelma",
   "course.curriculum.andMore": "... ja {count} muuta oppituntia ja tehtävää.",
-  "course.organization.by": "Järjestäjä: {orgName}"
+  "course.organization.by": "Järjestäjä: {orgName}",
+  "courses.members.tabsAria": "Kurssin jäsenten välilehdet",
+  "course.works.select": "Valitse teokset",
+  "course.reading.prompt.placeholder": "Esimerkiksi: valitse mikä tahansa tarina valitusta listasta, joka keskittyy epäluotettavaan kertojaan."
 }

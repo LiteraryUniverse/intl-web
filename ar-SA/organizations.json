@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "إدارة المدفوعات على Stripe",
   "orgConnect.payouts.pending": "لا يزال Stripe يتحقق من حساب المدفوعات الخاص بهذه المنظمة. انقر أدناه لمتابعة الإعداد أو تحقق مرة أخرى لاحقًا.",
   "orgConnect.payouts.setup": "إعداد مدفوعات المنظمة",
-  "orgConnect.payouts.timeout": "لم يستجب Stripe في الوقت المحدد. يُرجى محاولة إعداد المدفوعات مرة أخرى."
+  "orgConnect.payouts.timeout": "لم يستجب Stripe في الوقت المحدد. يُرجى محاولة إعداد المدفوعات مرة أخرى.",
+  "org.notFound": "لم يتم العثور على المنظمة.",
+  "org.admin.features.comics": "القصص المصورة والمانغا والويبتون",
+  "org.roles.artist": "رسّام",
+  "org.roles.title": "الأدوار والصلاحيات",
+  "org.roles.intro": "يمنح الدور مجموعة من الصلاحيات. أضف صلاحيات فردية فوق الدور للحصول على تحكم أدق.",
+  "org.permissions.courses.attend": "حضور الدورات الداخلية",
+  "org.workProposal.title": "الأعمال المقترحة",
+  "org.workProposal.intro": "اعرض أحد أعمالك على هذه المنظمة. إذا وافق أحد المشرفين، تصبح المنظمة مالكة له.",
+  "org.workProposal.propose": "اقتراح عمل",
+  "org.workProposal.selectWork": "العمل المراد اقتراحه",
+  "org.workProposal.note": "رسالة إلى المنظمة (اختياري)",
+  "org.workProposal.submit": "اقتراح العمل",
+  "org.workProposal.withdraw": "سحب الاقتراح",
+  "org.workProposal.status.pending": "بانتظار القرار",
+  "org.workProposal.status.accepted": "مقبول",
+  "org.workProposal.status.rejected": "مرفوض",
+  "org.workProposal.status.withdrawn": "مسحوب"
 }

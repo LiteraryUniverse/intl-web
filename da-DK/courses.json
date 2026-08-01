@@ -323,5 +323,8 @@
   "meeting.notStarted": "Mødet er ikke startet endnu",
   "course.curriculum.heading": "Kursusplan",
   "course.curriculum.andMore": "... og {count} flere lektioner og opgaver.",
-  "course.organization.by": "Af {orgName}"
+  "course.organization.by": "Af {orgName}",
+  "courses.members.tabsAria": "Kursusmedlem-faner",
+  "course.works.select": "Vælg værker",
+  "course.reading.prompt.placeholder": "For eksempel: vælg en hvilken som helst historie fra den valgte liste, der fokuserer på upålidelig fortælling."
 }

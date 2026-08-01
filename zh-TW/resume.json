@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "履歷預覽",
+  "resume.storyPreview.chapterAccess": "章節存取",
+  "resume.storyPreview.generateEpub": "產生 EPUB 預覽",
+  "resume.theme.font.sans": "無襯線",
+  "resume.theme.font.mono": "等寬",
+  "resume.theme.font.serif": "襯線",
+  "resume.access.linkName.placeholder": "例如：2026 書展用"
 }

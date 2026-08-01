@@ -184,5 +184,7 @@
   "blog.domains.claim": "Al",
   "blog.domains.unavailable": "Bu alt alan adı kullanılamıyor.",
   "blog.domains.available": "Kullanılabilir!",
-  "blog.domains.customComing": "Kendi alan adınızı bağlama (blog.adiniz.com gibi) yakında geliyor."
+  "blog.domains.customComing": "Kendi alan adınızı bağlama (blog.adiniz.com gibi) yakında geliyor.",
+  "blog.post.viewPublished": "Yayınlanan gönderiyi görüntüle",
+  "blog.post.edit": "Gönderiyi düzenle"
 }

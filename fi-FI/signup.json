@@ -94,5 +94,6 @@
 	"signup.writer.goals.description": "Kerro meille kirjoituskokemuksestasi.",
 	"signup.complete.title": "Kaikki on valmista!",
 	"signup.complete.description": "Kiitos, että täytit profiilisi. Olemme räätälöineet kokemuksesi mieltymystesi perusteella.",
-	"signup.password2.label": "Confirm password"
+	"signup.password2.label": "Confirm password",
+	"signup.wizard.title": "Rekisteröitymisavustaja"
 }

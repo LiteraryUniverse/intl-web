@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notificações sobre interações sociais e envolvimento da comunidade",
   "notifications.category.reading.description": "Notificações sobre novos conteúdos e actividades de leitura",
   "notifications.category.system.description": "Notificações do sistema e actualizações importantes",
-  "notification.followingNewComicChapter.new": "Novo capítulo em {comicName} foi publicado!"
+  "notification.followingNewComicChapter.new": "Novo capítulo em {comicName} foi publicado!",
+  "notification.orgWorkProposal.received": "{work} foi proposta a {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} aceitou a sua obra {work}",
+  "notification.orgWorkProposal.rejected": "{organization} recusou a sua obra {work}"
 }

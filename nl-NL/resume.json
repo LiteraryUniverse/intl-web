@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Uitgeversvoorbeeld",
   "resume.reader.previewRange": "Hoofdstukken {from}–{to} worden getoond (uitgeversvoorbeeld)",
   "resume.reader.loadingChapter": "Hoofdstuk laden...",
-  "resume.reader.chapterNotFound": "Hoofdstuk niet beschikbaar."
+  "resume.reader.chapterNotFound": "Hoofdstuk niet beschikbaar.",
+  "resume.preview.title": "CV-voorbeeld",
+  "resume.storyPreview.chapterAccess": "Hoofdstuktoegang",
+  "resume.storyPreview.generateEpub": "EPUB-voorbeeld genereren",
+  "resume.theme.font.sans": "Schreefloos",
+  "resume.theme.font.mono": "Monospace",
+  "resume.theme.font.serif": "Schreef",
+  "resume.access.linkName.placeholder": "bijv. Voor Boekenbeurs 2026"
 }

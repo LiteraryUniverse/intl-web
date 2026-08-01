@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "{comicName} കഥയിൽ പുതിയ അദ്ധ്യായം പ്രസിദ്ധീകരിച്ചു!"
+  "notification.followingNewComicChapter.new": "{comicName} കഥയിൽ പുതിയ അദ്ധ്യായം പ്രസിദ്ധീകരിച്ചു!",
+  "notification.orgWorkProposal.received": "{work} {organization}ന് നിർദ്ദേശിച്ചു",
+  "notification.orgWorkProposal.accepted": "{organization} നിങ്ങളുടെ സൃഷ്ടി {work} സ്വീകരിച്ചു",
+  "notification.orgWorkProposal.rejected": "{organization} നിങ്ങളുടെ സൃഷ്ടി {work} നിരസിച്ചു"
 }

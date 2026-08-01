@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Θέσεις στο blog",
   "forums.settings.systemPosts.blogs.enable": "Αυτόματη δημιουργία θεμάτων φόρουμ για νέες αναρτήσεις στο ιστολόγιο",
   "forums.settings.systemPosts.blogs.category": "Δημοσίευση στην κατηγορία:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Επιλέξτε μια κατηγορία..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Επιλέξτε μια κατηγορία...",
+  "forums.posts.loadError": "Σφάλμα φόρτωσης αναρτήσεων",
+  "forums.category.orgRoles": "Περιορισμός σε ρόλους του οργανισμού (κανένας = όλα τα μέλη)"
 }

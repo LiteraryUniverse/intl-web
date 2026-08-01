@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "תצוגה מקדימה של קורות חיים",
+  "resume.storyPreview.chapterAccess": "גישה לפרקים",
+  "resume.storyPreview.generateEpub": "יצירת תצוגה מקדימה של EPUB",
+  "resume.theme.font.sans": "ללא תג",
+  "resume.theme.font.mono": "רוחב קבוע",
+  "resume.theme.font.serif": "עם תג",
+  "resume.access.linkName.placeholder": "למשל, ליריד הספרים 2026"
 }

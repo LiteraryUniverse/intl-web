@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Thiết kế blog nâng cao (CSS tùy chỉnh)",
   "plans.feature.luSubdomain": "Blog trên tên miền phụ Literary Universe của riêng bạn",
-  "plans.feature.customDomain": "Blog trên tên miền riêng của bạn"
+  "plans.feature.customDomain": "Blog trên tên miền riêng của bạn",
+  "payment.testMode.docs": "Tài liệu Stripe",
+  "payment.testMode.short": "Đây không phải môi trường thật!",
+  "payment.testMode.warning": "Đây không phải môi trường thật, vui lòng dùng thẻ thử nghiệm theo {docs}."
 }

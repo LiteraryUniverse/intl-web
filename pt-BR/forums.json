@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Publicações do blog",
   "forums.settings.systemPosts.blogs.enable": "Criar automaticamente tópicos de fórum para novas postagens de blog",
   "forums.settings.systemPosts.blogs.category": "Postar na categoria:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Selecione uma categoria..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Selecione uma categoria...",
+  "forums.posts.loadError": "Erro ao carregar postagens",
+  "forums.category.orgRoles": "Limitar às funções da organização (nenhuma = todos os membros)"
 }

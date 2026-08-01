@@ -184,5 +184,7 @@
   "blog.domains.claim": "Klaim",
   "blog.domains.unavailable": "Subdomain puniki nenten wenten.",
   "blog.domains.available": "Wenten!",
-  "blog.domains.customComing": "Nyambungang domain pedidi (sekadi blog.adanragane.com) jagi rauh."
+  "blog.domains.customComing": "Nyambungang domain pedidi (sekadi blog.adanragane.com) jagi rauh.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

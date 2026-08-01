@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "Caipitle nua curtha ar fáil i {comicName}!"
+  "notification.followingNewComicChapter.new": "Caipitle nua curtha ar fáil i {comicName}!",
+  "notification.orgWorkProposal.received": "Moladh {work} do {organization}",
+  "notification.orgWorkProposal.accepted": "Ghlac {organization} le do shaothar {work}",
+  "notification.orgWorkProposal.rejected": "Dhiúltaigh {organization} do shaothar {work}"
 }

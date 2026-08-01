@@ -94,5 +94,6 @@
 	"signup.writer.goals.description": "Bize yazarlık deneyiminizden bahsedin.",
 	"signup.complete.title": "Her şey hazır!",
 	"signup.complete.description": "Profilinizi doldurduğunuz için teşekkür ederiz. Deneyiminizi tercihlerinize göre özelleştirdik.",
-	"signup.password2.label": "Confirm password"
+	"signup.password2.label": "Confirm password",
+	"signup.wizard.title": "Kayıt sihirbazı"
 }

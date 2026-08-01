@@ -184,5 +184,7 @@
   "blog.domains.claim": "Klaim",
   "blog.domains.unavailable": "Subdomain iki ora kasedhiya.",
   "blog.domains.available": "Kasedhiya!",
-  "blog.domains.customComing": "Nyambungake domain dhewe (kaya blog.jenengmu.com) bakal teka."
+  "blog.domains.customComing": "Nyambungake domain dhewe (kaya blog.jenengmu.com) bakal teka.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

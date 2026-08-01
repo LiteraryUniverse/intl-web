@@ -323,5 +323,8 @@
   "meeting.notStarted": "Meeting has not started yet",
   "course.curriculum.heading": "Course Curriculum",
   "course.curriculum.andMore": "... and {count} more lessons and assignments.",
-  "course.organization.by": "By {orgName}"
+  "course.organization.by": "By {orgName}",
+  "courses.members.tabsAria": "कोर्स सदस्य टैब",
+  "course.works.select": "रचनाएँ चुनें",
+  "course.reading.prompt.placeholder": "उदाहरण: चयनित सूची से कोई भी कहानी चुनें जो अविश्वसनीय कथन पर केंद्रित हो।"
 }

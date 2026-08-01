@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Название",
   "stats.chapterReadingTime.totalTime": "Общее время чтения",
   "stats.hits.comingSoon": "График посещений со временем скоро появится...",
-  "stats.visitors.comingSoon": "График посетителей со временем скоро появится..."
+  "stats.visitors.comingSoon": "График посетителей со временем скоро появится...",
+  "stats.blog.noPageStats": "Статистика страниц блога недоступна.",
+  "stats.chapter.numberWithSequence": "Глава {sequence, number}"
 }

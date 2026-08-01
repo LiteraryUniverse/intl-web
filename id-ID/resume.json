@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "Pratinjau resume",
+  "resume.storyPreview.chapterAccess": "Akses bab",
+  "resume.storyPreview.generateEpub": "Buat pratinjau EPUB",
+  "resume.theme.font.sans": "Sans-serif",
+  "resume.theme.font.mono": "Monospace",
+  "resume.theme.font.serif": "Serif",
+  "resume.access.linkName.placeholder": "mis., Untuk Pameran Buku 2026"
 }

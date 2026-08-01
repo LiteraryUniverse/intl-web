@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Керувати виплатами у Stripe",
   "orgConnect.payouts.pending": "Stripe усе ще перевіряє рахунок для виплат цієї організації. Натисніть нижче, щоб продовжити реєстрацію, або поверніться пізніше.",
   "orgConnect.payouts.setup": "Налаштувати виплати організації",
-  "orgConnect.payouts.timeout": "Stripe не відповів вчасно. Спробуйте ще раз налаштувати виплати."
+  "orgConnect.payouts.timeout": "Stripe не відповів вчасно. Спробуйте ще раз налаштувати виплати.",
+  "org.notFound": "Організацію не знайдено.",
+  "org.admin.features.comics": "Комікси, манґа та вебтуни",
+  "org.roles.artist": "Художник",
+  "org.roles.title": "Ролі та права",
+  "org.roles.intro": "Роль надає набір прав. Для точнішого налаштування додайте до ролі окремі права.",
+  "org.permissions.courses.attend": "Брати участь у внутрішніх курсах",
+  "org.workProposal.title": "Запропоновані твори",
+  "org.workProposal.intro": "Запропонуйте організації один зі своїх творів. Якщо адміністратор його прийме, організація стане його власником.",
+  "org.workProposal.propose": "Запропонувати твір",
+  "org.workProposal.selectWork": "Твір для пропозиції",
+  "org.workProposal.note": "Повідомлення для організації (необов’язково)",
+  "org.workProposal.submit": "Запропонувати твір",
+  "org.workProposal.withdraw": "Відкликати",
+  "org.workProposal.status.pending": "Очікує рішення",
+  "org.workProposal.status.accepted": "Прийнято",
+  "org.workProposal.status.rejected": "Відхилено",
+  "org.workProposal.status.withdrawn": "Відкликано"
 }

@@ -184,5 +184,7 @@
   "blog.domains.claim": "લો",
   "blog.domains.unavailable": "આ સબડોમેન ઉપલબ્ધ નથી.",
   "blog.domains.available": "ઉપલબ્ધ છે!",
-  "blog.domains.customComing": "તમારું પોતાનું ડોમેન જોડવું (જેમ કે blog.tamarunaam.com) જલદી આવી રહ્યું છે."
+  "blog.domains.customComing": "તમારું પોતાનું ડોમેન જોડવું (જેમ કે blog.tamarunaam.com) જલદી આવી રહ્યું છે.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

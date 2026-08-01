@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Entradas de blog",
   "forums.settings.systemPosts.blogs.enable": "Crear automáticamente hilos en el foro para las nuevas entradas del blog",
   "forums.settings.systemPosts.blogs.category": "Publicar en la categoría:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Seleccione una categoría..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Seleccione una categoría...",
+  "forums.posts.loadError": "Error al cargar las publicaciones",
+  "forums.category.orgRoles": "Limitar a roles de la organización (ninguno = todos los miembros)"
 }

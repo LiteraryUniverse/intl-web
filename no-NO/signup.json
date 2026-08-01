@@ -94,5 +94,6 @@
 	"signup.writer.goals.description": "Tell us about your writing experience.",
 	"signup.complete.title": "You're all set!",
 	"signup.complete.description": "Thank you for completing your profile. We've customized your experience based on your preferences.",
-	"signup.password2.label": "Confirm password"
+	"signup.password2.label": "Confirm password",
+	"signup.wizard.title": "Registreringsveiviser"
 }

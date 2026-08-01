@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Haladó blogdizájn (egyéni CSS)",
   "plans.feature.luSubdomain": "Blog a saját Literary Universe aldomaineden",
-  "plans.feature.customDomain": "Blog a saját domaineden"
+  "plans.feature.customDomain": "Blog a saját domaineden",
+  "payment.testMode.docs": "Stripe dokumentáció",
+  "payment.testMode.short": "Ez nem éles környezet!",
+  "payment.testMode.warning": "Ez nem éles környezet, ezért használjon tesztkártyákat a {docs} szerint."
 }

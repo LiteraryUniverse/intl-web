@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blogikirjoitukset",
   "forums.settings.systemPosts.blogs.enable": "Luo automaattisesti foorumiketjuja uusille blogiviesteille",
   "forums.settings.systemPosts.blogs.category": "Postitse luokkaan:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Valitse luokka..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Valitse luokka...",
+  "forums.posts.loadError": "Virhe ladattaessa julkaisuja",
+  "forums.category.orgRoles": "Rajaa organisaation rooleihin (ei yhtään = kaikki jäsenet)"
 }

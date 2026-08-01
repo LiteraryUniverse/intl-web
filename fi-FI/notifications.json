@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Ilmoitukset sosiaalisesta vuorovaikutuksesta ja yhteisön sitoutumisesta",
   "notifications.category.reading.description": "Ilmoitukset uudesta sisällöstä ja lukutehtävistä",
   "notifications.category.system.description": "Järjestelmäilmoitukset ja tärkeät päivitykset",
-  "notification.followingNewComicChapter.new": "Uusi luku tarinassa {comicName} on julkaistu!"
+  "notification.followingNewComicChapter.new": "Uusi luku tarinassa {comicName} on julkaistu!",
+  "notification.orgWorkProposal.received": "Teos {work} ehdotettiin organisaatiolle {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} hyväksyi teoksesi {work}",
+  "notification.orgWorkProposal.rejected": "{organization} hylkäsi teoksesi {work}"
 }

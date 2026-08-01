@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Verlags-Vorschau",
   "resume.reader.previewRange": "Kapitel {from}–{to} werden angezeigt (Verlags-Vorschau)",
   "resume.reader.loadingChapter": "Kapitel wird geladen...",
-  "resume.reader.chapterNotFound": "Kapitel nicht verfügbar."
+  "resume.reader.chapterNotFound": "Kapitel nicht verfügbar.",
+  "resume.preview.title": "Lebenslauf-Vorschau",
+  "resume.storyPreview.chapterAccess": "Kapitelzugriff",
+  "resume.storyPreview.generateEpub": "EPUB-Vorschau generieren",
+  "resume.theme.font.sans": "Serifenlos",
+  "resume.theme.font.mono": "Monospace",
+  "resume.theme.font.serif": "Serifenschrift",
+  "resume.access.linkName.placeholder": "z. B. Für die Buchmesse 2026"
 }

@@ -94,5 +94,6 @@
 	"signup.writer.goals.description": "Povedzte nám o svojich skúsenostiach s písaním.",
 	"signup.complete.title": "Všetko je pripravené!",
 	"signup.complete.description": "Ďakujeme vám za vyplnenie profilu. Vaše skúsenosti sme prispôsobili na základe vašich preferencií.",
-	"signup.password2.label": "Potvrďte heslo"
+	"signup.password2.label": "Potvrďte heslo",
+	"signup.wizard.title": "Sprievodca registráciou"
 }

@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "រចនា​ប្លុក​កម្រិត​ខ្ពស់ (CSS ផ្ទាល់ខ្លួន)",
   "plans.feature.luSubdomain": "ប្លុក​នៅលើ​ដែនរង Literary Universe ផ្ទាល់ខ្លួន",
-  "plans.feature.customDomain": "ប្លុក​នៅលើ​ដែន​ផ្ទាល់ខ្លួន"
+  "plans.feature.customDomain": "ប្លុក​នៅលើ​ដែន​ផ្ទាល់ខ្លួន",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Disseny avançat del blog (CSS personalitzat)",
   "plans.feature.luSubdomain": "Blog al vostre subdomini de Literary Universe",
-  "plans.feature.customDomain": "Blog al vostre propi domini"
+  "plans.feature.customDomain": "Blog al vostre propi domini",
+  "payment.testMode.docs": "Documentació de Stripe",
+  "payment.testMode.short": "Aquest no és un entorn en viu!",
+  "payment.testMode.warning": "Aquest no és un entorn en viu, així que useu targetes de prova segons {docs}."
 }

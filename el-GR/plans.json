@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Προηγμένη σχεδίαση ιστολογίου (προσαρμοσμένο CSS)",
   "plans.feature.luSubdomain": "Ιστολόγιο στον δικό σας υποτομέα Literary Universe",
-  "plans.feature.customDomain": "Ιστολόγιο στον δικό σας τομέα"
+  "plans.feature.customDomain": "Ιστολόγιο στον δικό σας τομέα",
+  "payment.testMode.docs": "Τεκμηρίωση Stripe",
+  "payment.testMode.short": "Αυτό δεν είναι ζωντανό περιβάλλον!",
+  "payment.testMode.warning": "Αυτό δεν είναι ζωντανό περιβάλλον, χρησιμοποιήστε δοκιμαστικές κάρτες σύμφωνα με {docs}."
 }

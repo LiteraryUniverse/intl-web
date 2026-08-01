@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blogbejegyzések",
   "forums.settings.systemPosts.blogs.enable": "Automatikusan hozzon létre fórumtémákat az új blogbejegyzésekhez",
   "forums.settings.systemPosts.blogs.category": "Hozzászólás a kategóriához:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Válasszon ki egy kategóriát..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Válasszon ki egy kategóriát...",
+  "forums.posts.loadError": "Hiba a bejegyzések betöltésekor",
+  "forums.category.orgRoles": "Korlátozás szervezeti szerepkörökre (egy sem = minden tag)"
 }

@@ -184,5 +184,7 @@
   "blog.domains.claim": "Võta",
   "blog.domains.unavailable": "See alamdomeen pole saadaval.",
   "blog.domains.available": "Saadaval!",
-  "blog.domains.customComing": "Oma domeeni ühendamine (nt blog.sinunimi.ee) tuleb peagi."
+  "blog.domains.customComing": "Oma domeeni ühendamine (nt blog.sinunimi.ee) tuleb peagi.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

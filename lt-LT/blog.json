@@ -184,5 +184,7 @@
   "blog.domains.claim": "Užimti",
   "blog.domains.unavailable": "Šis subdomenas nepasiekiamas.",
   "blog.domains.available": "Pasiekiamas!",
-  "blog.domains.customComing": "Savo domeno prijungimas (pvz., blog.jusuvardas.lt) netrukus."
+  "blog.domains.customComing": "Savo domeno prijungimas (pvz., blog.jusuvardas.lt) netrukus.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

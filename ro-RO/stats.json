@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Title",
   "stats.chapterReadingTime.totalTime": "Total reading time",
   "stats.hits.comingSoon": "Hits over time chart coming soon...",
-  "stats.visitors.comingSoon": "Visitors over time chart coming soon..."
+  "stats.visitors.comingSoon": "Visitors over time chart coming soon...",
+  "stats.blog.noPageStats": "Nu există statistici ale paginilor de blog.",
+  "stats.chapter.numberWithSequence": "Capitolul {sequence, number}"
 }

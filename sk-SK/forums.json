@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Príspevky na blogu",
   "forums.settings.systemPosts.blogs.enable": "Automatické vytváranie vlákien fóra pre nové príspevky na blogu",
   "forums.settings.systemPosts.blogs.category": "Príspevok do kategórie:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Vyberte kategóriu..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Vyberte kategóriu...",
+  "forums.posts.loadError": "Chyba pri načítaní príspevkov",
+  "forums.category.orgRoles": "Obmedziť na roly v organizácii (žiadna = všetci členovia)"
 }

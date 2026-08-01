@@ -184,5 +184,7 @@
   "blog.domains.claim": "Lefoglal",
   "blog.domains.unavailable": "Ez az aldomain nem érhető el.",
   "blog.domains.available": "Elérhető!",
-  "blog.domains.customComing": "Saját domain csatlakoztatása (pl. blog.neved.hu) hamarosan."
+  "blog.domains.customComing": "Saját domain csatlakoztatása (pl. blog.neved.hu) hamarosan.",
+  "blog.post.viewPublished": "Közzétett bejegyzés megtekintése",
+  "blog.post.edit": "Bejegyzés szerkesztése"
 }

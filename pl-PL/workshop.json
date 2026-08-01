@@ -635,5 +635,7 @@
   "workshop.universe.forum": "Wewnętrzne forum {universeName}",
   "workshop.universe.monetizationTitle": "Monetyzacja uniwersum",
   "workshop.statistics": "Statystyki autora",
-  "workshop.authorResume": "Portfolio autora"
+  "workshop.authorResume": "Portfolio autora",
+  "workshop.ai.llmstxt.copyStoryInfo": "Kopiuj URL informacji o historii dla usług AI",
+  "workshop.ai.llmstxt.copyFullContent": "Kopiuj URL pełnej treści historii dla usług AI"
 }

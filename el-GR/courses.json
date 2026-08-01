@@ -323,5 +323,8 @@
   "meeting.notStarted": "Η συνάντηση δεν έχει ξεκινήσει ακόμη",
   "course.curriculum.heading": "Πρόγραμμα σπουδών μαθήματος",
   "course.curriculum.andMore": "... και {count} ακόμη μαθήματα και εργασίες.",
-  "course.organization.by": "Από {orgName}"
+  "course.organization.by": "Από {orgName}",
+  "courses.members.tabsAria": "Καρτέλες μελών μαθήματος",
+  "course.works.select": "Επιλογή έργων",
+  "course.reading.prompt.placeholder": "Για παράδειγμα: επιλέξτε οποιαδήποτε ιστορία από την επιλεγμένη λίστα που εστιάζει στον αναξιόπιστο αφηγητή."
 }

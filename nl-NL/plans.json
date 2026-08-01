@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Avonturier",
   "plans.feature.customBlogCss": "Geavanceerd blogontwerp (eigen CSS)",
   "plans.feature.luSubdomain": "Blog op je eigen Literary Universe-subdomein",
-  "plans.feature.customDomain": "Blog op je eigen domein"
+  "plans.feature.customDomain": "Blog op je eigen domein",
+  "payment.testMode.docs": "Stripe-documentatie",
+  "payment.testMode.short": "Dit is geen live omgeving!",
+  "payment.testMode.warning": "Dit is geen live omgeving, gebruik daarom testkaarten volgens {docs}."
 }

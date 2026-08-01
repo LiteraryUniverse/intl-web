@@ -184,5 +184,7 @@
   "blog.domains.claim": "लिअ",
   "blog.domains.unavailable": "ई सबडोमेन उपलब्ध नहि अछि।",
   "blog.domains.available": "उपलब्ध अछि!",
-  "blog.domains.customComing": "अपन डोमेन जोड़ब (जेना blog.ahankanaam.com) जल्दिये आबि रहल अछि।"
+  "blog.domains.customComing": "अपन डोमेन जोड़ब (जेना blog.ahankanaam.com) जल्दिये आबि रहल अछि।",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

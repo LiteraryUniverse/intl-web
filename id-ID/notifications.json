@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Pemberitahuan tentang interaksi sosial dan keterlibatan komunitas",
   "notifications.category.reading.description": "Pemberitahuan tentang konten baru dan aktivitas membaca",
   "notifications.category.system.description": "Pemberitahuan sistem dan pembaruan penting",
-  "notification.followingNewComicChapter.new": "Bab baru di {comicName} telah diterbitkan!"
+  "notification.followingNewComicChapter.new": "Bab baru di {comicName} telah diterbitkan!",
+  "notification.orgWorkProposal.received": "{work} diusulkan kepada {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} menerima karyamu {work}",
+  "notification.orgWorkProposal.rejected": "{organization} menolak karyamu {work}"
 }

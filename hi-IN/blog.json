@@ -184,5 +184,7 @@
   "blog.domains.claim": "लें",
   "blog.domains.unavailable": "यह सबडोमेन उपलब्ध नहीं है।",
   "blog.domains.available": "उपलब्ध है!",
-  "blog.domains.customComing": "अपना डोमेन जोड़ना (जैसे blog.aapkanaam.com) जल्द आ रहा है।"
+  "blog.domains.customComing": "अपना डोमेन जोड़ना (जैसे blog.aapkanaam.com) जल्द आ रहा है।",
+  "blog.post.viewPublished": "प्रकाशित पोस्ट देखें",
+  "blog.post.edit": "पोस्ट संपादित करें"
 }

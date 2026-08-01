@@ -184,5 +184,7 @@
   "blog.domains.claim": "നേടുക",
   "blog.domains.unavailable": "ഈ സബ്ഡൊമെയ്ൻ ലഭ്യമല്ല.",
   "blog.domains.available": "ലഭ്യമാണ്!",
-  "blog.domains.customComing": "സ്വന്തം ഡൊമെയ്ൻ ബന്ധിപ്പിക്കൽ (ഉദാ. blog.yourname.com) ഉടൻ വരുന്നു."
+  "blog.domains.customComing": "സ്വന്തം ഡൊമെയ്ൻ ബന്ധിപ്പിക്കൽ (ഉദാ. blog.yourname.com) ഉടൻ വരുന്നു.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

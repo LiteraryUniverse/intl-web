@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "블로그 게시물",
   "forums.settings.systemPosts.blogs.enable": "새 블로그 게시물에 대한 포럼 스레드 자동 생성",
   "forums.settings.systemPosts.blogs.category": "카테고리에 게시합니다:",
-  "forums.settings.systemPosts.blogs.selectCategory": "카테고리 선택..."
+  "forums.settings.systemPosts.blogs.selectCategory": "카테고리 선택...",
+  "forums.posts.loadError": "게시물 로딩 오류",
+  "forums.category.orgRoles": "조직 역할로 제한(선택 없음 = 모든 구성원)"
 }

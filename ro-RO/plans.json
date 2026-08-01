@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Design avansat de blog (CSS personalizat)",
   "plans.feature.luSubdomain": "Blog pe propriul subdomeniu Literary Universe",
-  "plans.feature.customDomain": "Blog pe propriul domeniu"
+  "plans.feature.customDomain": "Blog pe propriul domeniu",
+  "payment.testMode.docs": "Documentație Stripe",
+  "payment.testMode.short": "Acesta nu este un mediu live!",
+  "payment.testMode.warning": "Acesta nu este un mediu live, deci folosește carduri de test conform {docs}."
 }

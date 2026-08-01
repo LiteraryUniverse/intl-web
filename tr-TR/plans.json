@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Gelişmiş blog tasarımı (özel CSS)",
   "plans.feature.luSubdomain": "Kendi Literary Universe alt alan adınızda blog",
-  "plans.feature.customDomain": "Kendi alan adınızda blog"
+  "plans.feature.customDomain": "Kendi alan adınızda blog",
+  "payment.testMode.docs": "Stripe belgelendirmesi",
+  "payment.testMode.short": "Bu canlı bir ortam değil!",
+  "payment.testMode.warning": "Bu canlı bir ortam değil, lütfen {docs} uyarınca test kartları kullanın."
 }

@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "clani blogu tarmi (steci CSS)",
   "plans.feature.luSubdomain": "blogu fi lo do Literary Universe klesi samjudri",
-  "plans.feature.customDomain": "blogu fi lo do samjudri"
+  "plans.feature.customDomain": "blogu fi lo do samjudri",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

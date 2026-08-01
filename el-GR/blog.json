@@ -184,5 +184,7 @@
   "blog.domains.claim": "Δέσμευση",
   "blog.domains.unavailable": "Αυτός ο υποτομέας δεν είναι διαθέσιμος.",
   "blog.domains.available": "Διαθέσιμος!",
-  "blog.domains.customComing": "Η σύνδεση δικού σας τομέα (όπως blog.toonomasas.gr) έρχεται σύντομα."
+  "blog.domains.customComing": "Η σύνδεση δικού σας τομέα (όπως blog.toonomasas.gr) έρχεται σύντομα.",
+  "blog.post.viewPublished": "Προβολή δημοσιευμένης ανάρτησης",
+  "blog.post.edit": "Επεξεργασία ανάρτησης"
 }

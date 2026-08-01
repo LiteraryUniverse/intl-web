@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Oznámení o sociálních interakcích a zapojení komunity",
   "notifications.category.reading.description": "Upozornění na nový obsah a aktivity spojené se čtením",
   "notifications.category.system.description": "Systémová oznámení a důležité aktualizace",
-  "notification.followingNewComicChapter.new": "Nová kapitola {comicName} byla publikována!"
+  "notification.followingNewComicChapter.new": "Nová kapitola {comicName} byla publikována!",
+  "notification.orgWorkProposal.received": "Dílo {work} bylo nabídnuto organizaci {organization}",
+  "notification.orgWorkProposal.accepted": "Organizace {organization} přijala vaše dílo {work}",
+  "notification.orgWorkProposal.rejected": "Organizace {organization} odmítla vaše dílo {work}"
 }

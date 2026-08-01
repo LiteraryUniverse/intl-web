@@ -184,5 +184,7 @@
   "blog.domains.claim": "ਲਵੋ",
   "blog.domains.unavailable": "ਇਹ ਸਬਡੋਮੇਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।",
   "blog.domains.available": "ਉਪਲਬਧ ਹੈ!",
-  "blog.domains.customComing": "ਆਪਣਾ ਡੋਮੇਨ ਜੋੜਨਾ (ਜਿਵੇਂ blog.tuhadanaam.com) ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ।"
+  "blog.domains.customComing": "ਆਪਣਾ ਡੋਮੇਨ ਜੋੜਨਾ (ਜਿਵੇਂ blog.tuhadanaam.com) ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ।",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

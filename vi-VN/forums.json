@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Bài viết trên blog",
   "forums.settings.systemPosts.blogs.enable": "Tự động tạo các chủ đề diễn đàn cho các bài đăng blog mới.",
   "forums.settings.systemPosts.blogs.category": "Đăng vào danh mục:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Chọn một danh mục..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Chọn một danh mục...",
+  "forums.posts.loadError": "Lỗi tải bài viết",
+  "forums.category.orgRoles": "Giới hạn theo vai trò trong tổ chức (không chọn = mọi thành viên)"
 }

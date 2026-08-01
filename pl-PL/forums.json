@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Posty na blogu",
   "forums.settings.systemPosts.blogs.enable": "Automatyczne tworzenie wątków na forum dla nowych wpisów na blogu",
   "forums.settings.systemPosts.blogs.category": "Post do kategorii:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Proszę wybrać kategorię..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Proszę wybrać kategorię...",
+  "forums.posts.loadError": "Błąd ładowania postów",
+  "forums.category.orgRoles": "Ogranicz do ról w organizacji (brak = wszyscy członkowie)"
 }

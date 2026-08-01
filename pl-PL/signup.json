@@ -94,5 +94,6 @@
 	"signup.writer.goals.description": "Proszę opowiedzieć nam o swoim doświadczeniu w pisaniu.",
 	"signup.complete.title": "Wszystko gotowe!",
 	"signup.complete.description": "Dziękujemy za wypełnienie Państwa profilu. Spersonalizowaliśmy Państwa profil w oparciu o Państwa preferencje.",
-	"signup.password2.label": "Potwierdź hasło"
+	"signup.password2.label": "Potwierdź hasło",
+	"signup.wizard.title": "Kreator rejestracji"
 }

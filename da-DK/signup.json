@@ -94,5 +94,6 @@
 	"signup.writer.goals.description": "Fortæl os om din skriveerfaring.",
 	"signup.complete.title": "Så er du klar!",
 	"signup.complete.description": "Tak, fordi du har udfyldt din profil. Vi har tilpasset din oplevelse ud fra dine præferencer.",
-	"signup.password2.label": "Confirm password"
+	"signup.password2.label": "Confirm password",
+	"signup.wizard.title": "Tilmeldingsguide"
 }

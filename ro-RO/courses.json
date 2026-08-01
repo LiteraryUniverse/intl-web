@@ -323,5 +323,8 @@
   "meeting.notStarted": "Meeting has not started yet",
   "course.curriculum.heading": "Course Curriculum",
   "course.curriculum.andMore": "... and {count} more lessons and assignments.",
-  "course.organization.by": "By {orgName}"
+  "course.organization.by": "By {orgName}",
+  "courses.members.tabsAria": "File membri curs",
+  "course.works.select": "Selectează lucrări",
+  "course.reading.prompt.placeholder": "De exemplu: alege orice poveste din lista selectată care se concentrează pe narațiunea nesigură."
 }

@@ -323,5 +323,8 @@
   "meeting.notStarted": "Stretnutie ešte nezačalo",
   "course.curriculum.heading": "Učebný plán kurzu",
   "course.curriculum.andMore": "... a ďalších {count} lekcií a zadaní.",
-  "course.organization.by": "Od {orgName}"
+  "course.organization.by": "Od {orgName}",
+  "courses.members.tabsAria": "Karty členov kurzu",
+  "course.works.select": "Vybrať diela",
+  "course.reading.prompt.placeholder": "Napríklad: vyberte ľubovoľný príbeh z vybraného zoznamu, ktorý sa zameriava na nespoľahlivého rozprávača."
 }

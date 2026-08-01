@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Aperçu éditeur",
   "resume.reader.previewRange": "Affichage des chapitres {from} à {to} (aperçu éditeur)",
   "resume.reader.loadingChapter": "Chargement du chapitre...",
-  "resume.reader.chapterNotFound": "Chapitre non disponible."
+  "resume.reader.chapterNotFound": "Chapitre non disponible.",
+  "resume.preview.title": "Aperçu du CV",
+  "resume.storyPreview.chapterAccess": "Accès aux chapitres",
+  "resume.storyPreview.generateEpub": "Générer un aperçu EPUB",
+  "resume.theme.font.sans": "Sans empattement",
+  "resume.theme.font.mono": "Monospace",
+  "resume.theme.font.serif": "Avec empattement",
+  "resume.access.linkName.placeholder": "ex. : Pour le Salon du livre 2026"
 }

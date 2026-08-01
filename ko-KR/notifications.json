@@ -96,5 +96,8 @@
   "notifications.category.community.description": "소셜 상호작용 및 커뮤니티 참여에 대한 알림",
   "notifications.category.reading.description": "새 콘텐츠 및 읽기 활동에 대한 알림",
   "notifications.category.system.description": "시스템 알림 및 중요 업데이트",
-  "notification.followingNewComicChapter.new": "{comicName} 에 새로운 챕터가 발행되었습니다!"
+  "notification.followingNewComicChapter.new": "{comicName} 에 새로운 챕터가 발행되었습니다!",
+  "notification.orgWorkProposal.received": "{work}이(가) {organization}에 제안되었습니다",
+  "notification.orgWorkProposal.accepted": "{organization}이(가) 회원님의 작품 {work}을(를) 수락했습니다",
+  "notification.orgWorkProposal.rejected": "{organization}이(가) 회원님의 작품 {work}을(를) 거절했습니다"
 }

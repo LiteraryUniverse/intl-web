@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Meldingen over sociale interacties en betrokkenheid bij de gemeenschap",
   "notifications.category.reading.description": "Meldingen over nieuwe inhoud en leesactiviteiten",
   "notifications.category.system.description": "Systeemmeldingen en belangrijke updates",
-  "notification.followingNewComicChapter.new": "Nieuw hoofdstuk in {comicName} is gepubliceerd!"
+  "notification.followingNewComicChapter.new": "Nieuw hoofdstuk in {comicName} is gepubliceerd!",
+  "notification.orgWorkProposal.received": "{work} is voorgesteld aan {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} heeft je werk {work} geaccepteerd",
+  "notification.orgWorkProposal.rejected": "{organization} heeft je werk {work} afgewezen"
 }

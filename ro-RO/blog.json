@@ -184,5 +184,7 @@
   "blog.domains.claim": "Revendicați",
   "blog.domains.unavailable": "Acest subdomeniu nu este disponibil.",
   "blog.domains.available": "Disponibil!",
-  "blog.domains.customComing": "Conectarea propriului domeniu (precum blog.numeledvs.ro) vine în curând."
+  "blog.domains.customComing": "Conectarea propriului domeniu (precum blog.numeledvs.ro) vine în curând.",
+  "blog.post.viewPublished": "Vezi postarea publicată",
+  "blog.post.edit": "Editează postarea"
 }

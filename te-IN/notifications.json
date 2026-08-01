@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "కథ {comicName} లో కొత్త అధ్యాయం ప్రచురించబడింది!"
+  "notification.followingNewComicChapter.new": "కథ {comicName} లో కొత్త అధ్యాయం ప్రచురించబడింది!",
+  "notification.orgWorkProposal.received": "{work} {organization}కు ప్రతిపాదించబడింది",
+  "notification.orgWorkProposal.accepted": "{organization} మీ రచన {work}ను ఆమోదించింది",
+  "notification.orgWorkProposal.rejected": "{organization} మీ రచన {work}ను తిరస్కరించింది"
 }

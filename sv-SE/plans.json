@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Avancerad bloggdesign (egen CSS)",
   "plans.feature.luSubdomain": "Blogg på din egen Literary Universe-subdomän",
-  "plans.feature.customDomain": "Blogg på din egen domän"
+  "plans.feature.customDomain": "Blogg på din egen domän",
+  "payment.testMode.docs": "Stripe-dokumentation",
+  "payment.testMode.short": "Detta är inte en skarp miljö!",
+  "payment.testMode.warning": "Detta är inte en skarp miljö, använd därför testkort enligt {docs}."
 }

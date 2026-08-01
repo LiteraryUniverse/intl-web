@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Ödemeleri Stripe'ta yönet",
   "orgConnect.payouts.pending": "Stripe bu organizasyonun ödeme hesabını hâlâ doğruluyor. Katılım sürecine devam etmek için aşağıya tıklayın veya daha sonra tekrar kontrol edin.",
   "orgConnect.payouts.setup": "Organizasyon ödemelerini ayarla",
-  "orgConnect.payouts.timeout": "Stripe zamanında yanıt vermedi. Lütfen ödemeleri yeniden ayarlamayı deneyin."
+  "orgConnect.payouts.timeout": "Stripe zamanında yanıt vermedi. Lütfen ödemeleri yeniden ayarlamayı deneyin.",
+  "org.notFound": "Organizasyon bulunamadı.",
+  "org.admin.features.comics": "Çizgi romanlar, manga ve webtoon’lar",
+  "org.roles.artist": "Çizer",
+  "org.roles.title": "Roller ve izinler",
+  "org.roles.intro": "Bir rol, bir dizi izin verir. Daha ince denetim için role tek tek izinler ekleyin.",
+  "org.permissions.courses.attend": "İç eğitimlere katılma",
+  "org.workProposal.title": "Önerilen eserler",
+  "org.workProposal.intro": "Kendi eserlerinizden birini bu kuruluşa önerin. Bir yönetici kabul ederse eserin sahibi kuruluş olur.",
+  "org.workProposal.propose": "Eser öner",
+  "org.workProposal.selectWork": "Önerilecek eser",
+  "org.workProposal.note": "Kuruluşa mesaj (isteğe bağlı)",
+  "org.workProposal.submit": "Eseri öner",
+  "org.workProposal.withdraw": "Geri çek",
+  "org.workProposal.status.pending": "Karar bekliyor",
+  "org.workProposal.status.accepted": "Kabul edildi",
+  "org.workProposal.status.rejected": "Reddedildi",
+  "org.workProposal.status.withdrawn": "Geri çekildi"
 }

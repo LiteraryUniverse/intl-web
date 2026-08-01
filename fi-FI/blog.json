@@ -184,5 +184,7 @@
   "blog.domains.claim": "Varaa",
   "blog.domains.unavailable": "Tämä aliverkkotunnus ei ole saatavilla.",
   "blog.domains.available": "Saatavilla!",
-  "blog.domains.customComing": "Oman verkkotunnuksen liittäminen (kuten blog.nimesi.fi) tulossa pian."
+  "blog.domains.customComing": "Oman verkkotunnuksen liittäminen (kuten blog.nimesi.fi) tulossa pian.",
+  "blog.post.viewPublished": "Näytä julkaistu julkaisu",
+  "blog.post.edit": "Muokkaa julkaisua"
 }

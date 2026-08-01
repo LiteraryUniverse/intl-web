@@ -323,5 +323,8 @@
   "meeting.notStarted": "لم يبدأ الاجتماع بعد",
   "course.curriculum.heading": "منهج الدورة",
   "course.curriculum.andMore": "... و{count} دروس ومهام أخرى.",
-  "course.organization.by": "بواسطة {orgName}"
+  "course.organization.by": "بواسطة {orgName}",
+  "courses.members.tabsAria": "علامات تبويب أعضاء الدورة",
+  "course.works.select": "اختيار الأعمال",
+  "course.reading.prompt.placeholder": "على سبيل المثال: اختر أي قصة من القائمة المحددة تركز على الراوي غير الموثوق."
 }

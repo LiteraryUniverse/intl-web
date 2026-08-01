@@ -323,5 +323,8 @@
   "meeting.notStarted": "Зустріч ще не розпочалася",
   "course.curriculum.heading": "Навчальна програма курсу",
   "course.curriculum.andMore": "... та ще {count} уроків і завдань.",
-  "course.organization.by": "Від {orgName}"
+  "course.organization.by": "Від {orgName}",
+  "courses.members.tabsAria": "Вкладки учасників курсу",
+  "course.works.select": "Вибрати твори",
+  "course.reading.prompt.placeholder": "Наприклад: оберіть будь-яку історію з вибраного списку, що зосереджена на ненадійному оповідачі."
 }

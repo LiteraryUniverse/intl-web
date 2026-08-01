@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "उन्नत ब्लॉग डिज़ाइन (कस्टम CSS)",
   "plans.feature.luSubdomain": "आपके अपने Literary Universe सबडोमेन पर ब्लॉग",
-  "plans.feature.customDomain": "आपके अपने डोमेन पर ब्लॉग"
+  "plans.feature.customDomain": "आपके अपने डोमेन पर ब्लॉग",
+  "payment.testMode.docs": "Stripe दस्तावेज़ीकरण",
+  "payment.testMode.short": "यह लाइव वातावरण नहीं है!",
+  "payment.testMode.warning": "यह लाइव वातावरण नहीं है, इसलिए {docs} के अनुसार परीक्षण कार्ड उपयोग करें।"
 }

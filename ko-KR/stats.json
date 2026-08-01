@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Title",
   "stats.chapterReadingTime.totalTime": "Total reading time",
   "stats.hits.comingSoon": "Hits over time chart coming soon...",
-  "stats.visitors.comingSoon": "Visitors over time chart coming soon..."
+  "stats.visitors.comingSoon": "Visitors over time chart coming soon...",
+  "stats.blog.noPageStats": "사용 가능한 블로그 페이지 통계가 없습니다.",
+  "stats.chapter.numberWithSequence": "챕터 {sequence, number}"
 }

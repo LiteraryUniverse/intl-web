@@ -184,5 +184,7 @@
   "blog.domains.claim": "Éiligh",
   "blog.domains.unavailable": "Níl an fofhearann seo ar fáil.",
   "blog.domains.available": "Ar fáil!",
-  "blog.domains.customComing": "Beidh ceangal d'fhearainn féin (mar blog.dainm.ie) ar fáil go luath."
+  "blog.domains.customComing": "Beidh ceangal d'fhearainn féin (mar blog.dainm.ie) ar fáil go luath.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

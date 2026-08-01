@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Posting Blog",
   "forums.settings.systemPosts.blogs.enable": "Secara otomatis membuat utas forum untuk postingan blog baru",
   "forums.settings.systemPosts.blogs.category": "Posting ke kategori:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Pilih kategori..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Pilih kategori...",
+  "forums.posts.loadError": "Kesalahan memuat postingan",
+  "forums.category.orgRoles": "Batasi ke peran organisasi (kosong = semua anggota)"
 }

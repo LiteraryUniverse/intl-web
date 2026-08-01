@@ -635,5 +635,7 @@
   "workshop.universe.forum": "Внутрішній форум {universeName}",
   "workshop.universe.monetizationTitle": "Монетизація всесвіту",
   "workshop.statistics": "Статистика автора",
-  "workshop.authorResume": "Резюме автора"
+  "workshop.authorResume": "Резюме автора",
+  "workshop.ai.llmstxt.copyStoryInfo": "Скопіювати URL з інформацією про історію для ШІ-сервісів",
+  "workshop.ai.llmstxt.copyFullContent": "Скопіювати URL з повним вмістом історії для ШІ-сервісів"
 }

@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "નવી ચાપાંકાં {comicName} પ્રકાશિત થઇ ગઈ છે"
+  "notification.followingNewComicChapter.new": "નવી ચાપાંકાં {comicName} પ્રકાશિત થઇ ગઈ છે",
+  "notification.orgWorkProposal.received": "{work} {organization}ને પ્રસ્તાવિત કરાઈ",
+  "notification.orgWorkProposal.accepted": "{organization}એ તમારી કૃતિ {work} સ્વીકારી",
+  "notification.orgWorkProposal.rejected": "{organization}એ તમારી કૃતિ {work} નકારી"
 }

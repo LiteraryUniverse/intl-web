@@ -184,5 +184,7 @@
   "blog.domains.claim": "取得",
   "blog.domains.unavailable": "このサブドメインは利用できません。",
   "blog.domains.available": "利用できます！",
-  "blog.domains.customComing": "独自ドメイン（blog.yourname.com など）の接続は近日対応予定です。"
+  "blog.domains.customComing": "独自ドメイン（blog.yourname.com など）の接続は近日対応予定です。",
+  "blog.post.viewPublished": "公開済みの投稿を表示",
+  "blog.post.edit": "投稿を編集"
 }

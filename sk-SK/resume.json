@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Vydavateľský náhľad",
   "resume.reader.previewRange": "Zobrazujú sa kapitoly {from}–{to} (vydavateľský náhľad)",
   "resume.reader.loadingChapter": "Načítava sa kapitola...",
-  "resume.reader.chapterNotFound": "Kapitola nie je dostupná."
+  "resume.reader.chapterNotFound": "Kapitola nie je dostupná.",
+  "resume.preview.title": "Náhľad životopisu",
+  "resume.storyPreview.chapterAccess": "Prístup ku kapitolám",
+  "resume.storyPreview.generateEpub": "Vygenerovať EPUB náhľad",
+  "resume.theme.font.sans": "Bezpätkové",
+  "resume.theme.font.mono": "Neproporcionálne",
+  "resume.theme.font.serif": "Pätkové",
+  "resume.access.linkName.placeholder": "napr. Pre knižný veľtrh 2026"
 }

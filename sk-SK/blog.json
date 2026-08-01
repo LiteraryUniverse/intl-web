@@ -184,5 +184,7 @@
   "blog.domains.claim": "Zabrať",
   "blog.domains.unavailable": "Táto subdoména nie je dostupná.",
   "blog.domains.available": "Dostupná!",
-  "blog.domains.customComing": "Pripojenie vlastnej domény (napr. blog.vasemeno.sk) už čoskoro."
+  "blog.domains.customComing": "Pripojenie vlastnej domény (napr. blog.vasemeno.sk) už čoskoro.",
+  "blog.post.viewPublished": "Zobraziť publikovaný príspevok",
+  "blog.post.edit": "Upraviť príspevok"
 }

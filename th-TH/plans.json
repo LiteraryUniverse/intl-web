@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ดีไซน์บล็อกขั้นสูง (CSS กำหนดเอง)",
   "plans.feature.luSubdomain": "บล็อกบนซับโดเมน Literary Universe ของคุณเอง",
-  "plans.feature.customDomain": "บล็อกบนโดเมนของคุณเอง"
+  "plans.feature.customDomain": "บล็อกบนโดเมนของคุณเอง",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

@@ -96,5 +96,8 @@
   "notifications.category.community.description": "הודעות על אינטראקציות חברתיות ומעורבות בקהילה",
   "notifications.category.reading.description": "הודעות על תוכן חדש ופעילויות קריאה",
   "notifications.category.system.description": "הודעות מערכת ועדכונים חשובים",
-  "notification.followingNewComicChapter.new": "פרק חדש של {comicName} פורסם!"
+  "notification.followingNewComicChapter.new": "פרק חדש של {comicName} פורסם!",
+  "notification.orgWorkProposal.received": "{work} הוצעה לארגון {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} אישר את היצירה שלך {work}",
+  "notification.orgWorkProposal.rejected": "{organization} דחה את היצירה שלך {work}"
 }

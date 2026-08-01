@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Desain blog lanjut (CSS khusus)",
   "plans.feature.luSubdomain": "Blog ring subdomain Literary Universe ragane pedidi",
-  "plans.feature.customDomain": "Blog ring domain ragane pedidi"
+  "plans.feature.customDomain": "Blog ring domain ragane pedidi",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

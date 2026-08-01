@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Meddelelser om sociale interaktioner og engagement i samfundet",
   "notifications.category.reading.description": "Meddelelser om nyt indhold og læseaktiviteter",
   "notifications.category.system.description": "Systemmeddelelser og vigtige opdateringer",
-  "notification.followingNewComicChapter.new": "Nyt kapitel i {comicName} er blevet udgivet!"
+  "notification.followingNewComicChapter.new": "Nyt kapitel i {comicName} er blevet udgivet!",
+  "notification.orgWorkProposal.received": "{work} blev foreslået til {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} accepterede dit værk {work}",
+  "notification.orgWorkProposal.rejected": "{organization} afviste dit værk {work}"
 }

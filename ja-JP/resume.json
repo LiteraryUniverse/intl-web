@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "履歴書プレビュー",
+  "resume.storyPreview.chapterAccess": "章へのアクセス",
+  "resume.storyPreview.generateEpub": "EPUBプレビューを生成",
+  "resume.theme.font.sans": "ゴシック体",
+  "resume.theme.font.mono": "等幅",
+  "resume.theme.font.serif": "明朝体",
+  "resume.access.linkName.placeholder": "例：2026年ブックフェア用"
 }

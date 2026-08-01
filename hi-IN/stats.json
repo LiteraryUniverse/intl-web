@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Title",
   "stats.chapterReadingTime.totalTime": "Total reading time",
   "stats.hits.comingSoon": "Hits over time chart coming soon...",
-  "stats.visitors.comingSoon": "Visitors over time chart coming soon..."
+  "stats.visitors.comingSoon": "Visitors over time chart coming soon...",
+  "stats.blog.noPageStats": "कोई ब्लॉग पृष्ठ आँकड़े उपलब्ध नहीं।",
+  "stats.chapter.numberWithSequence": "अध्याय {sequence, number}"
 }

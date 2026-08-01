@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "అధునాతన బ్లాగ్ డిజైన్ (కస్టమ్ CSS)",
   "plans.feature.luSubdomain": "మీ సొంత Literary Universe సబ్‌డొమైన్‌లో బ్లాగ్",
-  "plans.feature.customDomain": "మీ సొంత డొమైన్‌లో బ్లాగ్"
+  "plans.feature.customDomain": "మీ సొంత డొమైన్‌లో బ్లాగ్",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "บทความในบล็อก",
   "forums.settings.systemPosts.blogs.enable": "สร้างกระทู้ในฟอรั่มโดยอัตโนมัติสำหรับโพสต์บล็อกใหม่",
   "forums.settings.systemPosts.blogs.category": "โพสต์ไปยังหมวดหมู่:",
-  "forums.settings.systemPosts.blogs.selectCategory": "เลือกหมวดหมู่..."
+  "forums.settings.systemPosts.blogs.selectCategory": "เลือกหมวดหมู่...",
+  "forums.posts.loadError": "Error loading posts",
+  "forums.category.orgRoles": "จำกัดเฉพาะบทบาทในองค์กร (ไม่เลือก = สมาชิกทุกคน)"
 }

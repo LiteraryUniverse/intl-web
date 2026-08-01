@@ -635,5 +635,7 @@
   "workshop.universe.forum": "Interné fórum {universeName}",
   "workshop.universe.monetizationTitle": "Speňaženie univerza",
   "workshop.statistics": "Štatistiky autora",
-  "workshop.authorResume": "Životopis autora"
+  "workshop.authorResume": "Životopis autora",
+  "workshop.ai.llmstxt.copyStoryInfo": "Kopírovať URL s informáciami o príbehu pre AI služby",
+  "workshop.ai.llmstxt.copyFullContent": "Kopírovať URL s plným obsahom príbehu pre AI služby"
 }

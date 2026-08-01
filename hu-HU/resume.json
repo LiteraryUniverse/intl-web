@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "Önéletrajz előnézet",
+  "resume.storyPreview.chapterAccess": "Fejezet-hozzáférés",
+  "resume.storyPreview.generateEpub": "EPUB előnézet generálása",
+  "resume.theme.font.sans": "Talpatlan",
+  "resume.theme.font.mono": "Fix szélességű",
+  "resume.theme.font.serif": "Talpas",
+  "resume.access.linkName.placeholder": "pl. A 2026-os könyvvásárra"
 }

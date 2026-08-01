@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "部落格文章",
   "forums.settings.systemPosts.blogs.enable": "自動為新的部落格文章建立論壇主題",
   "forums.settings.systemPosts.blogs.category": "張貼至類別：",
-  "forums.settings.systemPosts.blogs.selectCategory": "選擇類別..."
+  "forums.settings.systemPosts.blogs.selectCategory": "選擇類別...",
+  "forums.posts.loadError": "載入文章時發生錯誤",
+  "forums.category.orgRoles": "限定組織角色（未選＝所有成員）"
 }

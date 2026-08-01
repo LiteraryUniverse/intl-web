@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blog Yazıları",
   "forums.settings.systemPosts.blogs.enable": "Yeni blog gönderileri için otomatik olarak forum konuları oluşturun",
   "forums.settings.systemPosts.blogs.category": "Kategoriye gönder:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Bir kategori seçin..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Bir kategori seçin...",
+  "forums.posts.loadError": "Gönderiler yüklenirken hata",
+  "forums.category.orgRoles": "Kuruluş rolleriyle sınırla (hiçbiri = tüm üyeler)"
 }

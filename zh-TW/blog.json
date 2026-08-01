@@ -184,5 +184,7 @@
   "blog.domains.claim": "取得",
   "blog.domains.unavailable": "此子網域無法使用。",
   "blog.domains.available": "可以使用！",
-  "blog.domains.customComing": "連接您自己的網域（例如 blog.yourname.com）即將推出。"
+  "blog.domains.customComing": "連接您自己的網域（例如 blog.yourname.com）即將推出。",
+  "blog.post.viewPublished": "檢視已發佈的文章",
+  "blog.post.edit": "編輯文章"
 }

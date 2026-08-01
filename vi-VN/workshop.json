@@ -635,5 +635,7 @@
   "workshop.universe.forum": "Internal {universeName} forum",
   "workshop.universe.monetizationTitle": "Universe monetization",
   "workshop.statistics": "Author Statistics",
-  "workshop.authorResume": "Author's Resume"
+  "workshop.authorResume": "Author's Resume",
+  "workshop.ai.llmstxt.copyStoryInfo": "Sao chép URL thông tin truyện cho dịch vụ AI",
+  "workshop.ai.llmstxt.copyFullContent": "Sao chép URL nội dung đầy đủ truyện cho dịch vụ AI"
 }

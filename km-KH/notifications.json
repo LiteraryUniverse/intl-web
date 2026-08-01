@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "បានបោះពុម្ពថ្មីនៃជិតដំបូងក្នុង {comicName}!"
+  "notification.followingNewComicChapter.new": "បានបោះពុម្ពថ្មីនៃជិតដំបូងក្នុង {comicName}!",
+  "notification.orgWorkProposal.received": "{work} ត្រូវបានស្នើទៅ {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} បានទទួលយកស្នាដៃរបស់អ្នក {work}",
+  "notification.orgWorkProposal.rejected": "{organization} បានបដិសេធស្នាដៃរបស់អ្នក {work}"
 }

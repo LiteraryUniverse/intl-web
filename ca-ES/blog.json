@@ -184,5 +184,7 @@
   "blog.domains.claim": "Reclama",
   "blog.domains.unavailable": "Aquest subdomini no està disponible.",
   "blog.domains.available": "Disponible!",
-  "blog.domains.customComing": "La connexió del vostre propi domini (com blog.elteunom.cat) arribarà aviat."
+  "blog.domains.customComing": "La connexió del vostre propi domini (com blog.elteunom.cat) arribarà aviat.",
+  "blog.post.viewPublished": "Veure la publicació publicada",
+  "blog.post.edit": "Editar la publicació"
 }

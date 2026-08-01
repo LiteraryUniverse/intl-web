@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blogipostitused",
   "forums.settings.systemPosts.blogs.enable": "Automaatselt luua foorumi teemad uute blogipostituste jaoks",
   "forums.settings.systemPosts.blogs.category": "Postitus kategooriasse:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Valige kategooria..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Valige kategooria...",
+  "forums.posts.loadError": "Error loading posts",
+  "forums.category.orgRoles": "Piira organisatsiooni rollidega (ükski = kõik liikmed)"
 }

@@ -184,5 +184,7 @@
   "blog.domains.claim": "Krev",
   "blog.domains.unavailable": "Dette underdomenet er ikke tilgjengelig.",
   "blog.domains.available": "Tilgjengelig!",
-  "blog.domains.customComing": "Tilkobling av eget domene (som blog.dittnavn.no) kommer snart."
+  "blog.domains.customComing": "Tilkobling av eget domene (som blog.dittnavn.no) kommer snart.",
+  "blog.post.viewPublished": "Vis publisert innlegg",
+  "blog.post.edit": "Rediger innlegg"
 }

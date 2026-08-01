@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Dobrodruh",
   "plans.feature.customBlogCss": "Pokročilý vzhled blogu (vlastní CSS)",
   "plans.feature.luSubdomain": "Blog na vlastní subdoméně Literary Universe",
-  "plans.feature.customDomain": "Blog na vlastní doméně"
+  "plans.feature.customDomain": "Blog na vlastní doméně",
+  "payment.testMode.docs": "Dokumentace Stripe",
+  "payment.testMode.short": "Toto není ostré prostředí!",
+  "payment.testMode.warning": "Toto není ostré prostředí, proto používejte testovací karty podle {docs}."
 }

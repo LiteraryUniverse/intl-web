@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "புதிய பதிகை {comicName} வெளியிடப்பட்டுள்ளது!"
+  "notification.followingNewComicChapter.new": "புதிய பதிகை {comicName} வெளியிடப்பட்டுள்ளது!",
+  "notification.orgWorkProposal.received": "{work} {organization}க்கு முன்மொழியப்பட்டது",
+  "notification.orgWorkProposal.accepted": "{organization} உங்கள் படைப்பு {work} ஐ ஏற்றது",
+  "notification.orgWorkProposal.rejected": "{organization} உங்கள் படைப்பு {work} ஐ நிராகரித்தது"
 }

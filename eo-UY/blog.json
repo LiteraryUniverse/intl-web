@@ -184,5 +184,7 @@
   "blog.domains.claim": "Preni",
   "blog.domains.unavailable": "Ĉi tiu subdomajno ne haveblas.",
   "blog.domains.available": "Havebla!",
-  "blog.domains.customComing": "Konekto de propra domajno (kiel blog.vianomo.com) baldaŭ venos."
+  "blog.domains.customComing": "Konekto de propra domajno (kiel blog.vianomo.com) baldaŭ venos.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

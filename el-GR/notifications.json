@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Ειδοποιήσεις για κοινωνικές αλληλεπιδράσεις και συμμετοχή στην κοινότητα",
   "notifications.category.reading.description": "Ειδοποιήσεις για νέο περιεχόμενο και δραστηριότητες ανάγνωσης",
   "notifications.category.system.description": "Ειδοποιήσεις συστήματος και σημαντικές ενημερώσεις",
-  "notification.followingNewComicChapter.new": "Νέο κεφάλαιο στο {comicName} έχει δημοσιευτεί!"
+  "notification.followingNewComicChapter.new": "Νέο κεφάλαιο στο {comicName} έχει δημοσιευτεί!",
+  "notification.orgWorkProposal.received": "Το {work} προτάθηκε στον οργανισμό {organization}",
+  "notification.orgWorkProposal.accepted": "Ο οργανισμός {organization} αποδέχτηκε το έργο σου {work}",
+  "notification.orgWorkProposal.rejected": "Ο οργανισμός {organization} απέρριψε το έργο σου {work}"
 }

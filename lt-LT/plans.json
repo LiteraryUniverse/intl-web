@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Išplėstinis tinklaraščio dizainas (savas CSS)",
   "plans.feature.luSubdomain": "Tinklaraštis jūsų Literary Universe subdomene",
-  "plans.feature.customDomain": "Tinklaraštis jūsų domene"
+  "plans.feature.customDomain": "Tinklaraštis jūsų domene",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

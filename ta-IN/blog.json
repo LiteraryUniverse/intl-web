@@ -184,5 +184,7 @@
   "blog.domains.claim": "எடு",
   "blog.domains.unavailable": "இந்த துணை டொமைன் கிடைக்கவில்லை.",
   "blog.domains.available": "கிடைக்கிறது!",
-  "blog.domains.customComing": "சொந்த டொமைனை இணைப்பது (blog.ungalpeyar.com போன்று) விரைவில் வருகிறது."
+  "blog.domains.customComing": "சொந்த டொமைனை இணைப்பது (blog.ungalpeyar.com போன்று) விரைவில் வருகிறது.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

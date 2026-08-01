@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Titel",
   "stats.chapterReadingTime.totalTime": "Totale leestijd",
   "stats.hits.comingSoon": "Grafiek met hits in de tijd komt binnenkort...",
-  "stats.visitors.comingSoon": "Grafiek met bezoekers in de tijd komt binnenkort..."
+  "stats.visitors.comingSoon": "Grafiek met bezoekers in de tijd komt binnenkort...",
+  "stats.blog.noPageStats": "Geen blogpaginastatistieken beschikbaar.",
+  "stats.chapter.numberWithSequence": "Hoofdstuk {sequence, number}"
 }

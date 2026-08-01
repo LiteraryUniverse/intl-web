@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Értesítések a társadalmi interakciókról és a közösségi szerepvállalásról",
   "notifications.category.reading.description": "Értesítések új tartalmakról és olvasási tevékenységekről",
   "notifications.category.system.description": "Rendszerértesítések és fontos frissítések",
-  "notification.followingNewComicChapter.new": "Új fejezet jelent meg a követett {comicName} történetben!"
+  "notification.followingNewComicChapter.new": "Új fejezet jelent meg a követett {comicName} történetben!",
+  "notification.orgWorkProposal.received": "{work} felajánlva a következőnek: {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} elfogadta a művedet: {work}",
+  "notification.orgWorkProposal.rejected": "{organization} elutasította a művedet: {work}"
 }

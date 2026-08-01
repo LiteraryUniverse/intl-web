@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blog Posts",
   "forums.settings.systemPosts.blogs.enable": "Automatically create forum threads for new blog posts",
   "forums.settings.systemPosts.blogs.category": "Post to category:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Select a category..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Select a category...",
+  "forums.posts.loadError": "Error loading posts",
+  "forums.category.orgRoles": "Limitahan sa mga tungkulin sa organisasyon (wala = lahat ng miyembro)"
 }

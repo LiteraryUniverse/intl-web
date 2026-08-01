@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Advanced na disenyo ng blog (custom na CSS)",
   "plans.feature.luSubdomain": "Blog sa sarili mong Literary Universe subdomain",
-  "plans.feature.customDomain": "Blog sa sarili mong domain"
+  "plans.feature.customDomain": "Blog sa sarili mong domain",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

@@ -96,5 +96,8 @@
   "notifications.category.community.description": "有關社群互動和社群參與的通知",
   "notifications.category.reading.description": "有關新內容和閱讀活動的通知",
   "notifications.category.system.description": "系統通知和重要更新",
-  "notification.followingNewComicChapter.new": "{comicName} 有新章節發布了！"
+  "notification.followingNewComicChapter.new": "{comicName} 有新章節發布了！",
+  "notification.orgWorkProposal.received": "{work} 已提案給 {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} 接受了你的作品 {work}",
+  "notification.orgWorkProposal.rejected": "{organization} 婉拒了你的作品 {work}"
 }

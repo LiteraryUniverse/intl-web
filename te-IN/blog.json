@@ -184,5 +184,7 @@
   "blog.domains.claim": "తీసుకోండి",
   "blog.domains.unavailable": "ఈ సబ్‌డొమైన్ అందుబాటులో లేదు.",
   "blog.domains.available": "అందుబాటులో ఉంది!",
-  "blog.domains.customComing": "మీ సొంత డొమైన్ కనెక్ట్ చేయడం (blog.meeperu.com వంటివి) త్వరలో వస్తుంది."
+  "blog.domains.customComing": "మీ సొంత డొమైన్ కనెక్ట్ చేయడం (blog.meeperu.com వంటివి) త్వరలో వస్తుంది.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

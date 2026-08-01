@@ -184,5 +184,7 @@
   "blog.domains.claim": "จอง",
   "blog.domains.unavailable": "ซับโดเมนนี้ไม่พร้อมใช้งาน",
   "blog.domains.available": "ใช้ได้!",
-  "blog.domains.customComing": "การเชื่อมต่อโดเมนของคุณเอง (เช่น blog.yourname.com) จะมาเร็ว ๆ นี้"
+  "blog.domains.customComing": "การเชื่อมต่อโดเมนของคุณเอง (เช่น blog.yourname.com) จะมาเร็ว ๆ นี้",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

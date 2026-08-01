@@ -184,5 +184,7 @@
   "blog.domains.claim": "Claimen",
   "blog.domains.unavailable": "Dit subdomein is niet beschikbaar.",
   "blog.domains.available": "Beschikbaar!",
-  "blog.domains.customComing": "Het koppelen van je eigen domein (zoals blog.jouwnaam.nl) komt binnenkort."
+  "blog.domains.customComing": "Het koppelen van je eigen domein (zoals blog.jouwnaam.nl) komt binnenkort.",
+  "blog.post.viewPublished": "Gepubliceerde post bekijken",
+  "blog.post.edit": "Post bewerken"
 }

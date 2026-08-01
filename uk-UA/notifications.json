@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Сповіщення про соціальні взаємодії та залучення громадськості",
   "notifications.category.reading.description": "Сповіщення про новий контент та активності з читання",
   "notifications.category.system.description": "Системні сповіщення та важливі оновлення",
-  "notification.followingNewComicChapter.new": "Опубліковано нову главу в {comicName}!"
+  "notification.followingNewComicChapter.new": "Опубліковано нову главу в {comicName}!",
+  "notification.orgWorkProposal.received": "Твір {work} запропоновано організації {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} прийняла ваш твір {work}",
+  "notification.orgWorkProposal.rejected": "{organization} відхилила ваш твір {work}"
 }

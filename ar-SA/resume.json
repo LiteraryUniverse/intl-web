@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "معاينة السيرة الذاتية",
+  "resume.storyPreview.chapterAccess": "الوصول إلى الفصول",
+  "resume.storyPreview.generateEpub": "إنشاء معاينة EPUB",
+  "resume.theme.font.sans": "بلا زخرفة",
+  "resume.theme.font.mono": "أحادي المسافة",
+  "resume.theme.font.serif": "مزخرف",
+  "resume.access.linkName.placeholder": "مثال: لمعرض الكتاب 2026"
 }

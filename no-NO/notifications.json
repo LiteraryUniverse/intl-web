@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "Nytt kapittel i {comicName} er blitt publisert!"
+  "notification.followingNewComicChapter.new": "Nytt kapittel i {comicName} er blitt publisert!",
+  "notification.orgWorkProposal.received": "{work} ble foreslått til {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} godtok verket ditt {work}",
+  "notification.orgWorkProposal.rejected": "{organization} avslo verket ditt {work}"
 }

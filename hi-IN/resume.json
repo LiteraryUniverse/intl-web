@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "रिज्यूमे पूर्वावलोकन",
+  "resume.storyPreview.chapterAccess": "अध्याय पहुँच",
+  "resume.storyPreview.generateEpub": "EPUB पूर्वावलोकन बनाएँ",
+  "resume.theme.font.sans": "सैंस-सेरिफ़",
+  "resume.theme.font.mono": "मोनोस्पेस",
+  "resume.theme.font.serif": "सेरिफ़",
+  "resume.access.linkName.placeholder": "उदा., पुस्तक मेला 2026 के लिए"
 }

@@ -184,5 +184,7 @@
   "blog.domains.claim": "Nhận",
   "blog.domains.unavailable": "Tên miền phụ này không khả dụng.",
   "blog.domains.available": "Khả dụng!",
-  "blog.domains.customComing": "Kết nối tên miền riêng (như blog.tencuaban.com) sẽ sớm ra mắt."
+  "blog.domains.customComing": "Kết nối tên miền riêng (như blog.tencuaban.com) sẽ sớm ra mắt.",
+  "blog.post.viewPublished": "Xem bài đã xuất bản",
+  "blog.post.edit": "Chỉnh sửa bài"
 }

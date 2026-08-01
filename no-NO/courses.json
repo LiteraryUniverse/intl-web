@@ -323,5 +323,8 @@
   "meeting.notStarted": "Meeting has not started yet",
   "course.curriculum.heading": "Course Curriculum",
   "course.curriculum.andMore": "... and {count} more lessons and assignments.",
-  "course.organization.by": "By {orgName}"
+  "course.organization.by": "By {orgName}",
+  "courses.members.tabsAria": "Kursmedlemsfaner",
+  "course.works.select": "Velg verk",
+  "course.reading.prompt.placeholder": "For eksempel: velg en hvilken som helst historie fra den valgte listen som fokuserer på upålitelig forteller."
 }

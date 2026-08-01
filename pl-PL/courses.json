@@ -323,5 +323,8 @@
   "meeting.notStarted": "Spotkanie jeszcze się nie rozpoczęło",
   "course.curriculum.heading": "Program kursu",
   "course.curriculum.andMore": "... oraz {count} więcej lekcji i zadań.",
-  "course.organization.by": "Autor: {orgName}"
+  "course.organization.by": "Autor: {orgName}",
+  "courses.members.tabsAria": "Karty członków kursu",
+  "course.works.select": "Wybierz utwory",
+  "course.reading.prompt.placeholder": "Na przykład: wybierz dowolną historię z wybranej listy, która skupia się na zawodnym narratorze."
 }

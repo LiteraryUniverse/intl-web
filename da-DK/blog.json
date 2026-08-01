@@ -184,5 +184,7 @@
   "blog.domains.claim": "Gør krav",
   "blog.domains.unavailable": "Dette subdomæne er ikke tilgængeligt.",
   "blog.domains.available": "Tilgængeligt!",
-  "blog.domains.customComing": "Tilslutning af eget domæne (som blog.ditnavn.dk) kommer snart."
+  "blog.domains.customComing": "Tilslutning af eget domæne (som blog.ditnavn.dk) kommer snart.",
+  "blog.post.viewPublished": "Se publiceret indlæg",
+  "blog.post.edit": "Rediger indlæg"
 }

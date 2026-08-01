@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "이력서 미리보기",
+  "resume.storyPreview.chapterAccess": "챕터 접근",
+  "resume.storyPreview.generateEpub": "EPUB 미리보기 생성",
+  "resume.theme.font.sans": "고딕",
+  "resume.theme.font.mono": "고정폭",
+  "resume.theme.font.serif": "명조",
+  "resume.access.linkName.placeholder": "예: 2026 도서 박람회용"
 }

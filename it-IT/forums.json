@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Messaggi del blog",
   "forums.settings.systemPosts.blogs.enable": "Crea automaticamente dei thread del forum per i nuovi post del blog.",
   "forums.settings.systemPosts.blogs.category": "Pubblichi alla categoria:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Selezioni una categoria..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Selezioni una categoria...",
+  "forums.posts.loadError": "Errore nel caricamento dei post",
+  "forums.category.orgRoles": "Limita ai ruoli dell’organizzazione (nessuno = tutti i membri)"
 }

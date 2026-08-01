@@ -184,5 +184,7 @@
   "blog.domains.claim": "დაკავება",
   "blog.domains.unavailable": "ეს ქვედომენი მიუწვდომელია.",
   "blog.domains.available": "ხელმისაწვდომია!",
-  "blog.domains.customComing": "საკუთარი დომენის დაკავშირება (მაგ. blog.tqvenisaxeli.ge) მალე იქნება."
+  "blog.domains.customComing": "საკუთარი დომენის დაკავშირება (მაგ. blog.tqvenisaxeli.ge) მალე იქნება.",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

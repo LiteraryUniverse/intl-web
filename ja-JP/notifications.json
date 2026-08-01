@@ -96,5 +96,8 @@
   "notifications.category.community.description": "ソーシャル・インタラクションやコミュニティ・エンゲージメントに関する通知",
   "notifications.category.reading.description": "新しいコンテンツや読書活動に関する通知",
   "notifications.category.system.description": "システム通知と重要なアップデート",
-  "notification.followingNewComicChapter.new": "{comicName} に新しい章が公開されました！"
+  "notification.followingNewComicChapter.new": "{comicName} に新しい章が公開されました！",
+  "notification.orgWorkProposal.received": "{work} が {organization} に提案されました",
+  "notification.orgWorkProposal.accepted": "{organization} があなたの作品 {work} を承認しました",
+  "notification.orgWorkProposal.rejected": "{organization} があなたの作品 {work} を却下しました"
 }

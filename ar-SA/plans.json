@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "تصميم متقدم للمدونة (CSS مخصص)",
   "plans.feature.luSubdomain": "مدونة على نطاق فرعي خاص بك في Literary Universe",
-  "plans.feature.customDomain": "مدونة على نطاقك الخاص"
+  "plans.feature.customDomain": "مدونة على نطاقك الخاص",
+  "payment.testMode.docs": "وثائق Stripe",
+  "payment.testMode.short": "هذه ليست بيئة حية!",
+  "payment.testMode.warning": "هذه ليست بيئة حية، لذا يُرجى استخدام بطاقات الاختبار وفقًا لـ {docs}."
 }

@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Управлять выплатами в Stripe",
   "orgConnect.payouts.pending": "Stripe всё ещё проверяет платёжный аккаунт этой организации. Нажмите ниже, чтобы продолжить настройку, или загляните позже.",
   "orgConnect.payouts.setup": "Настроить выплаты организации",
-  "orgConnect.payouts.timeout": "Stripe не ответил вовремя. Пожалуйста, попробуйте настроить выплаты ещё раз."
+  "orgConnect.payouts.timeout": "Stripe не ответил вовремя. Пожалуйста, попробуйте настроить выплаты ещё раз.",
+  "org.notFound": "Организация не найдена.",
+  "org.admin.features.comics": "Комиксы, манга и вебтуны",
+  "org.roles.artist": "Художник",
+  "org.roles.title": "Роли и права",
+  "org.roles.intro": "Роль даёт набор прав. Для более точной настройки добавьте к роли отдельные права.",
+  "org.permissions.courses.attend": "Участвовать во внутренних курсах",
+  "org.workProposal.title": "Предложенные работы",
+  "org.workProposal.intro": "Предложите организации одну из своих работ. Если администратор примет её, организация станет её владельцем.",
+  "org.workProposal.propose": "Предложить работу",
+  "org.workProposal.selectWork": "Работа для предложения",
+  "org.workProposal.note": "Сообщение организации (необязательно)",
+  "org.workProposal.submit": "Предложить работу",
+  "org.workProposal.withdraw": "Отозвать",
+  "org.workProposal.status.pending": "Ожидает решения",
+  "org.workProposal.status.accepted": "Принята",
+  "org.workProposal.status.rejected": "Отклонена",
+  "org.workProposal.status.withdrawn": "Отозвана"
 }

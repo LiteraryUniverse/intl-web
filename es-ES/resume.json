@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Vista previa del editor",
   "resume.reader.previewRange": "Mostrando los capítulos {from}–{to} (vista previa del editor)",
   "resume.reader.loadingChapter": "Cargando capítulo...",
-  "resume.reader.chapterNotFound": "Capítulo no disponible."
+  "resume.reader.chapterNotFound": "Capítulo no disponible.",
+  "resume.preview.title": "Vista previa del currículum",
+  "resume.storyPreview.chapterAccess": "Acceso a capítulos",
+  "resume.storyPreview.generateEpub": "Generar vista previa EPUB",
+  "resume.theme.font.sans": "Sans-serif",
+  "resume.theme.font.mono": "Monoespaciada",
+  "resume.theme.font.serif": "Serif",
+  "resume.access.linkName.placeholder": "p. ej., Para la Feria del Libro 2026"
 }

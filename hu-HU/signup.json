@@ -94,5 +94,6 @@
 	"signup.writer.goals.description": "Meséljen nekünk az írói tapasztalatairól.",
 	"signup.complete.title": "Készen állsz!",
 	"signup.complete.description": "Köszönjük, hogy kitöltötte profilját. Az Ön preferenciái alapján testre szabtuk az élményét.",
-	"signup.password2.label": "Confirm password"
+	"signup.password2.label": "Confirm password",
+	"signup.wizard.title": "Regisztrációs varázsló"
 }

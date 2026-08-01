@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Издательский предпросмотр",
   "resume.reader.previewRange": "Показаны главы {from}–{to} (издательский предпросмотр)",
   "resume.reader.loadingChapter": "Загрузка главы...",
-  "resume.reader.chapterNotFound": "Глава недоступна."
+  "resume.reader.chapterNotFound": "Глава недоступна.",
+  "resume.preview.title": "Предпросмотр резюме",
+  "resume.storyPreview.chapterAccess": "Доступ к главам",
+  "resume.storyPreview.generateEpub": "Создать EPUB-предпросмотр",
+  "resume.theme.font.sans": "Без засечек",
+  "resume.theme.font.mono": "Моноширинный",
+  "resume.theme.font.serif": "С засечками",
+  "resume.access.linkName.placeholder": "напр., Для книжной ярмарки 2026"
 }

@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "અદ્યતન બ્લોગ ડિઝાઇન (કસ્ટમ CSS)",
   "plans.feature.luSubdomain": "તમારા પોતાના Literary Universe સબડોમેન પર બ્લોગ",
-  "plans.feature.customDomain": "તમારા પોતાના ડોમેન પર બ્લોગ"
+  "plans.feature.customDomain": "તમારા પોતાના ડોમેન પર બ્લોગ",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

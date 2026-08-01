@@ -184,5 +184,7 @@
   "blog.domains.claim": "Klaim",
   "blog.domains.unavailable": "Subdomain ini tidak tersedia.",
   "blog.domains.available": "Tersedia!",
-  "blog.domains.customComing": "Menghubungkan domain sendiri (seperti blog.namaanda.com) segera hadir."
+  "blog.domains.customComing": "Menghubungkan domain sendiri (seperti blog.namaanda.com) segera hadir.",
+  "blog.post.viewPublished": "Lihat postingan yang dipublikasikan",
+  "blog.post.edit": "Edit postingan"
 }

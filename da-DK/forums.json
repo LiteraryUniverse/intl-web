@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blogindlæg",
   "forums.settings.systemPosts.blogs.enable": "Opret automatisk forumtråde til nye blogindlæg",
   "forums.settings.systemPosts.blogs.category": "Indlæg til kategori:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Vælg en kategori..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Vælg en kategori...",
+  "forums.posts.loadError": "Fejl ved indlæsning af indlæg",
+  "forums.category.orgRoles": "Begræns til organisationsroller (ingen = alle medlemmer)"
 }

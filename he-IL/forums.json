@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "פוסטים בבלוג",
   "forums.settings.systemPosts.blogs.enable": "יצירת שרשורים בפורום באופן אוטומטי עבור פוסטים חדשים בבלוג",
   "forums.settings.systemPosts.blogs.category": "פרסם בקטגוריה:",
-  "forums.settings.systemPosts.blogs.selectCategory": "בחר קטגוריה..."
+  "forums.settings.systemPosts.blogs.selectCategory": "בחר קטגוריה...",
+  "forums.posts.loadError": "שגיאה בטעינת פוסטים",
+  "forums.category.orgRoles": "הגבלה לתפקידי הארגון (ללא = כל החברים)"
 }

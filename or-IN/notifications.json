@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "{comicName} ରେ ନୂତନ ଅଧ୍ୟାୟ ପ୍ରକାଶିତ ହେଇଛି!"
+  "notification.followingNewComicChapter.new": "{comicName} ରେ ନୂତନ ଅଧ୍ୟାୟ ପ୍ରକାଶିତ ହେଇଛି!",
+  "notification.orgWorkProposal.received": "{work} {organization}କୁ ପ୍ରସ୍ତାବ କରାଯାଇଛି",
+  "notification.orgWorkProposal.accepted": "{organization} ଆପଣଙ୍କ କୃତି {work} ଗ୍ରହଣ କରିଛି",
+  "notification.orgWorkProposal.rejected": "{organization} ଆପଣଙ୍କ କୃତି {work} ପ୍ରତ୍ୟାଖ୍ୟାନ କରିଛି"
 }

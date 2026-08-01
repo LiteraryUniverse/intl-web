@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Tvarkyti išmokas „Stripe“ platformoje",
   "orgConnect.payouts.pending": "Stripe vis dar tikrina šios organizacijos išmokų paskyrą. Spustelėkite žemiau, kad tęstumėte registraciją, arba grįžkite vėliau.",
   "orgConnect.payouts.setup": "Nustatyti organizacijos išmokas",
-  "orgConnect.payouts.timeout": "Stripe laiku neatsakė. Bandykite dar kartą nustatyti išmokas."
+  "orgConnect.payouts.timeout": "Stripe laiku neatsakė. Bandykite dar kartą nustatyti išmokas.",
+  "org.notFound": "Organization not found.",
+  "org.admin.features.comics": "Komiksai, manga ir webtoon'ai",
+  "org.roles.artist": "Dailininkas",
+  "org.roles.title": "Rolės ir teisės",
+  "org.roles.intro": "Rolė suteikia teisių rinkinį. Tikslesniam valdymui prie rolės pridėkite atskiras teises.",
+  "org.permissions.courses.attend": "Dalyvauti vidiniuose kursuose",
+  "org.workProposal.title": "Pasiūlyti kūriniai",
+  "org.workProposal.intro": "Pasiūlykite šiai organizacijai vieną iš savo kūrinių. Jei administratorius priims, organizacija taps jo savininke.",
+  "org.workProposal.propose": "Pasiūlyti kūrinį",
+  "org.workProposal.selectWork": "Siūlomas kūrinys",
+  "org.workProposal.note": "Žinutė organizacijai (nebūtina)",
+  "org.workProposal.submit": "Pasiūlyti kūrinį",
+  "org.workProposal.withdraw": "Atšaukti pasiūlymą",
+  "org.workProposal.status.pending": "Laukiama sprendimo",
+  "org.workProposal.status.accepted": "Priimta",
+  "org.workProposal.status.rejected": "Atmesta",
+  "org.workProposal.status.withdrawn": "Atšaukta"
 }

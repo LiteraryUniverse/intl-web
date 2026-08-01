@@ -184,5 +184,7 @@
   "blog.domains.claim": "Занять",
   "blog.domains.unavailable": "Этот поддомен недоступен.",
   "blog.domains.available": "Доступен!",
-  "blog.domains.customComing": "Подключение собственного домена (например, blog.vashe-imya.ru) скоро появится."
+  "blog.domains.customComing": "Подключение собственного домена (например, blog.vashe-imya.ru) скоро появится.",
+  "blog.post.viewPublished": "Посмотреть опубликованный пост",
+  "blog.post.edit": "Редактировать пост"
 }

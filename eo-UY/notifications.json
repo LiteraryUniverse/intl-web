@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "Nova ĉapitro en {comicName} estis publikigita!"
+  "notification.followingNewComicChapter.new": "Nova ĉapitro en {comicName} estis publikigita!",
+  "notification.orgWorkProposal.received": "{work} estis proponita al {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} akceptis vian verkon {work}",
+  "notification.orgWorkProposal.rejected": "{organization} rifuzis vian verkon {work}"
 }

@@ -184,5 +184,7 @@
   "blog.domains.claim": "Rivendica",
   "blog.domains.unavailable": "Questo sottodominio non è disponibile.",
   "blog.domains.available": "Disponibile!",
-  "blog.domains.customComing": "Il collegamento di un dominio proprio (come blog.tuonome.it) arriverà presto."
+  "blog.domains.customComing": "Il collegamento di un dominio proprio (come blog.tuonome.it) arriverà presto.",
+  "blog.post.viewPublished": "Vedi post pubblicato",
+  "blog.post.edit": "Modifica post"
 }

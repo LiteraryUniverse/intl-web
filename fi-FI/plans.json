@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Edistynyt blogin ulkoasu (oma CSS)",
   "plans.feature.luSubdomain": "Blogi omalla Literary Universe -aliverkkotunnuksella",
-  "plans.feature.customDomain": "Blogi omalla verkkotunnuksella"
+  "plans.feature.customDomain": "Blogi omalla verkkotunnuksella",
+  "payment.testMode.docs": "Stripe-dokumentaatio",
+  "payment.testMode.short": "Tämä ei ole tuotantoympäristö!",
+  "payment.testMode.warning": "Tämä ei ole tuotantoympäristö, joten käytä testikortteja {docs} mukaan."
 }

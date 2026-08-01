@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Уведомления о социальных взаимодействиях и участии в жизни сообщества",
   "notifications.category.reading.description": "Уведомления о новых материалах и занятиях по чтению",
   "notifications.category.system.description": "Системные уведомления и важные обновления",
-  "notification.followingNewComicChapter.new": "Опубликована новая глава в \"{comicName}\"!"
+  "notification.followingNewComicChapter.new": "Опубликована новая глава в \"{comicName}\"!",
+  "notification.orgWorkProposal.received": "Работа {work} предложена организации {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} приняла вашу работу {work}",
+  "notification.orgWorkProposal.rejected": "{organization} отклонила вашу работу {work}"
 }

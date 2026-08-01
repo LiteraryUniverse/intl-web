@@ -635,5 +635,7 @@
   "workshop.universe.forum": "Internal {universeName} forum",
   "workshop.universe.monetizationTitle": "Universe monetization",
   "workshop.statistics": "Author Statistics",
-  "workshop.authorResume": "Author's Resume"
+  "workshop.authorResume": "Author's Resume",
+  "workshop.ai.llmstxt.copyStoryInfo": "Copiază URL-ul cu informații despre poveste pentru servicii AI",
+  "workshop.ai.llmstxt.copyFullContent": "Copiază URL-ul conținutului complet al poveștii pentru servicii AI"
 }

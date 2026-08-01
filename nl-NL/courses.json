@@ -323,5 +323,8 @@
   "meeting.notStarted": "Bijeenkomst is nog niet begonnen",
   "course.curriculum.heading": "Cursuscurriculum",
   "course.curriculum.andMore": "... en nog {count} lessen en opdrachten.",
-  "course.organization.by": "Door {orgName}"
+  "course.organization.by": "Door {orgName}",
+  "courses.members.tabsAria": "Cursusleden-tabbladen",
+  "course.works.select": "Werken selecteren",
+  "course.reading.prompt.placeholder": "Bijvoorbeeld: kies een willekeurig verhaal uit de geselecteerde lijst dat zich richt op onbetrouwbare vertelling."
 }

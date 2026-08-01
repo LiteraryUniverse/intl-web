@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "고급 블로그 디자인(사용자 지정 CSS)",
   "plans.feature.luSubdomain": "Literary Universe 서브도메인 블로그",
-  "plans.feature.customDomain": "자체 도메인 블로그"
+  "plans.feature.customDomain": "자체 도메인 블로그",
+  "payment.testMode.docs": "Stripe 문서",
+  "payment.testMode.short": "이 환경은 라이브가 아닙니다!",
+  "payment.testMode.warning": "이 환경은 라이브가 아니므로 {docs}에 따라 테스트 카드를 사용하세요."
 }

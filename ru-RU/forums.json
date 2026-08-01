@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Записи в блоге",
   "forums.settings.systemPosts.blogs.enable": "Автоматически создавайте темы на форуме для новых записей в блоге",
   "forums.settings.systemPosts.blogs.category": "Пост в категорию:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Выберите категорию..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Выберите категорию...",
+  "forums.posts.loadError": "Ошибка загрузки сообщений",
+  "forums.category.orgRoles": "Ограничить ролями организации (ни одной = все участники)"
 }

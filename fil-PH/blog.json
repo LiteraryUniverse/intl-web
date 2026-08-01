@@ -184,5 +184,7 @@
   "blog.domains.claim": "I-claim",
   "blog.domains.unavailable": "Hindi available ang subdomain na ito.",
   "blog.domains.available": "Available!",
-  "blog.domains.customComing": "Malapit nang dumating ang pagkonekta ng sarili mong domain (tulad ng blog.iyongpangalan.com)."
+  "blog.domains.customComing": "Malapit nang dumating ang pagkonekta ng sarili mong domain (tulad ng blog.iyongpangalan.com).",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

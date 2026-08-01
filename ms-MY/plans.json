@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Reka bentuk blog lanjutan (CSS tersuai)",
   "plans.feature.luSubdomain": "Blog di subdomain Literary Universe anda sendiri",
-  "plans.feature.customDomain": "Blog di domain anda sendiri"
+  "plans.feature.customDomain": "Blog di domain anda sendiri",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

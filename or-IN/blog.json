@@ -184,5 +184,7 @@
   "blog.domains.claim": "ନିଅନ୍ତୁ",
   "blog.domains.unavailable": "ଏହି ସବ୍‌ଡୋମେନ୍ ଉପଲବ୍ଧ ନାହିଁ।",
   "blog.domains.available": "ଉପଲବ୍ଧ!",
-  "blog.domains.customComing": "ନିଜ ଡୋମେନ୍ ଯୋଡ଼ିବା (ଯେପରି blog.apananama.com) ଶୀଘ୍ର ଆସୁଛି।"
+  "blog.domains.customComing": "ନିଜ ଡୋମେନ୍ ଯୋଡ଼ିବା (ଯେପରି blog.apananama.com) ଶୀଘ୍ର ଆସୁଛି।",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

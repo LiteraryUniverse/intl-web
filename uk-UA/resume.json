@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Видавничий перегляд",
   "resume.reader.previewRange": "Показано розділи {from}–{to} (видавничий перегляд)",
   "resume.reader.loadingChapter": "Завантаження розділу...",
-  "resume.reader.chapterNotFound": "Розділ недоступний."
+  "resume.reader.chapterNotFound": "Розділ недоступний.",
+  "resume.preview.title": "Попередній перегляд резюме",
+  "resume.storyPreview.chapterAccess": "Доступ до розділів",
+  "resume.storyPreview.generateEpub": "Згенерувати EPUB-попередній перегляд",
+  "resume.theme.font.sans": "Без зарубок",
+  "resume.theme.font.mono": "Моноширинний",
+  "resume.theme.font.serif": "Із зарубками",
+  "resume.access.linkName.placeholder": "напр., Для книжкового ярмарку 2026"
 }

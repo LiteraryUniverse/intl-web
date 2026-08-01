@@ -635,5 +635,7 @@
   "workshop.universe.forum": "Internal {universeName} forum",
   "workshop.universe.monetizationTitle": "Universe monetization",
   "workshop.statistics": "Author Statistics",
-  "workshop.authorResume": "Author's Resume"
+  "workshop.authorResume": "Author's Resume",
+  "workshop.ai.llmstxt.copyStoryInfo": "複製故事資訊 URL 供 AI 服務使用",
+  "workshop.ai.llmstxt.copyFullContent": "複製完整故事內容 URL 供 AI 服務使用"
 }

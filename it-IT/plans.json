@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Design avanzato del blog (CSS personalizzato)",
   "plans.feature.luSubdomain": "Blog su un sottodominio Literary Universe",
-  "plans.feature.customDomain": "Blog su un dominio proprio"
+  "plans.feature.customDomain": "Blog su un dominio proprio",
+  "payment.testMode.docs": "Documentazione Stripe",
+  "payment.testMode.short": "Questo non è un ambiente live!",
+  "payment.testMode.warning": "Questo non è un ambiente live, quindi usa carte di test come da {docs}."
 }

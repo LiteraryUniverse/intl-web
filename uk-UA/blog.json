@@ -184,5 +184,7 @@
   "blog.domains.claim": "Зайняти",
   "blog.domains.unavailable": "Цей піддомен недоступний.",
   "blog.domains.available": "Доступний!",
-  "blog.domains.customComing": "Підключення власного домену (наприклад, blog.vashe-imya.ua) незабаром."
+  "blog.domains.customComing": "Підключення власного домену (наприклад, blog.vashe-imya.ua) незабаром.",
+  "blog.post.viewPublished": "Переглянути опублікований допис",
+  "blog.post.edit": "Редагувати допис"
 }

@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Stripe에서 지급금 관리",
   "orgConnect.payouts.pending": "Stripe에서 아직 이 조직의 지급 계정을 확인하고 있습니다. 아래를 클릭해 온보딩을 계속하거나 나중에 다시 확인해 주세요.",
   "orgConnect.payouts.setup": "조직 지급금 설정",
-  "orgConnect.payouts.timeout": "Stripe가 제시간에 응답하지 않았습니다. 지급 설정을 다시 시도해 주세요."
+  "orgConnect.payouts.timeout": "Stripe가 제시간에 응답하지 않았습니다. 지급 설정을 다시 시도해 주세요.",
+  "org.notFound": "조직을 찾을 수 없습니다.",
+  "org.admin.features.comics": "만화, 망가, 웹툰",
+  "org.roles.artist": "작화가",
+  "org.roles.title": "역할 및 권한",
+  "org.roles.intro": "역할은 권한 묶음을 부여합니다. 더 세밀하게 제어하려면 역할에 개별 권한을 추가하세요.",
+  "org.permissions.courses.attend": "내부 강좌 참여",
+  "org.workProposal.title": "제안된 작품",
+  "org.workProposal.intro": "자신의 작품을 이 조직에 제안하세요. 관리자가 수락하면 조직이 해당 작품의 소유자가 됩니다.",
+  "org.workProposal.propose": "작품 제안",
+  "org.workProposal.selectWork": "제안할 작품",
+  "org.workProposal.note": "조직에 보낼 메시지(선택)",
+  "org.workProposal.submit": "작품 제안하기",
+  "org.workProposal.withdraw": "제안 철회",
+  "org.workProposal.status.pending": "결정 대기 중",
+  "org.workProposal.status.accepted": "수락됨",
+  "org.workProposal.status.rejected": "거절됨",
+  "org.workProposal.status.withdrawn": "철회됨"
 }

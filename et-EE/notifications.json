@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Teated sotsiaalse suhtluse ja kogukonna kaasamise kohta",
   "notifications.category.reading.description": "Teated uue sisu ja lugemistegevuste kohta",
   "notifications.category.system.description": "Süsteemi teated ja olulised uuendused",
-  "notification.followingNewComicChapter.new": "{comicName} -s on avaldatud uus peatükk!"
+  "notification.followingNewComicChapter.new": "{comicName} -s on avaldatud uus peatükk!",
+  "notification.orgWorkProposal.received": "Teos {work} pakuti organisatsioonile {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} võttis su teose {work} vastu",
+  "notification.orgWorkProposal.rejected": "{organization} lükkas su teose {work} tagasi"
 }

@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "ブログ記事",
   "forums.settings.systemPosts.blogs.enable": "新しいブログ記事に対して自動的にフォーラムのスレッドを作成する",
   "forums.settings.systemPosts.blogs.category": "カテゴリーに投稿する",
-  "forums.settings.systemPosts.blogs.selectCategory": "カテゴリーを選択..."
+  "forums.settings.systemPosts.blogs.selectCategory": "カテゴリーを選択...",
+  "forums.posts.loadError": "投稿の読み込みエラー",
+  "forums.category.orgRoles": "組織のロールに限定（未選択＝全メンバー）"
 }

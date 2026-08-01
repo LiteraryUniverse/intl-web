@@ -323,5 +323,8 @@
   "meeting.notStarted": "Meeting has not started yet",
   "course.curriculum.heading": "Course Curriculum",
   "course.curriculum.andMore": "... and {count} more lessons and assignments.",
-  "course.organization.by": "By {orgName}"
+  "course.organization.by": "By {orgName}",
+  "courses.members.tabsAria": "課程成員分頁",
+  "course.works.select": "選擇作品",
+  "course.reading.prompt.placeholder": "例如：從所選清單中選擇任何聚焦不可靠敘事的故事。"
 }

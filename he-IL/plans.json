@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "עיצוב בלוג מתקדם (CSS מותאם אישית)",
   "plans.feature.luSubdomain": "בלוג בתת-דומיין משלכם ב-Literary Universe",
-  "plans.feature.customDomain": "בלוג בדומיין משלכם"
+  "plans.feature.customDomain": "בלוג בדומיין משלכם",
+  "payment.testMode.docs": "תיעוד Stripe",
+  "payment.testMode.short": "זו אינה סביבה חיה!",
+  "payment.testMode.warning": "זו אינה סביבה חיה, לכן השתמשו בכרטיסי בדיקה לפי {docs}."
 }

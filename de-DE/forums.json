@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blog-Beiträge",
   "forums.settings.systemPosts.blogs.enable": "Automatisches Erstellen von Forumsthemen für neue Blogbeiträge",
   "forums.settings.systemPosts.blogs.category": "Beitrag zur Kategorie:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Wählen Sie eine Kategorie aus..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Wählen Sie eine Kategorie aus...",
+  "forums.posts.loadError": "Fehler beim Laden der Beiträge",
+  "forums.category.orgRoles": "Auf Organisationsrollen beschränken (keine = alle Mitglieder)"
 }

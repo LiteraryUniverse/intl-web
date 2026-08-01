@@ -184,5 +184,7 @@
   "blog.domains.claim": "লওক",
   "blog.domains.unavailable": "এই ছাবডমেইনটো উপলব্ধ নহয়।",
   "blog.domains.available": "উপলব্ধ!",
-  "blog.domains.customComing": "নিজৰ ডমেইন সংযোগ (যেনে blog.aponarnam.com) সোনকালে আহিব।"
+  "blog.domains.customComing": "নিজৰ ডমেইন সংযোগ (যেনে blog.aponarnam.com) সোনকালে আহিব।",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

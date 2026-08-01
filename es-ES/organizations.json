@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Gestionar los pagos en Stripe",
   "orgConnect.payouts.pending": "Stripe todavía está verificando la cuenta de pagos de esta organización. Haz clic abajo para continuar con el registro o vuelve más tarde.",
   "orgConnect.payouts.setup": "Configurar los pagos de la organización",
-  "orgConnect.payouts.timeout": "Stripe no respondió a tiempo. Intenta configurar los pagos de nuevo."
+  "orgConnect.payouts.timeout": "Stripe no respondió a tiempo. Intenta configurar los pagos de nuevo.",
+  "org.notFound": "Organización no encontrada.",
+  "org.admin.features.comics": "Cómics, manga y webtoons",
+  "org.roles.artist": "Dibujante",
+  "org.roles.title": "Roles y permisos",
+  "org.roles.intro": "Un rol otorga un conjunto de permisos. Añade permisos individuales sobre un rol para un control más preciso.",
+  "org.permissions.courses.attend": "Participar en cursos internos",
+  "org.workProposal.title": "Obras propuestas",
+  "org.workProposal.intro": "Ofrece una de tus obras a esta organización. Si un administrador la acepta, la organización pasa a ser su propietaria.",
+  "org.workProposal.propose": "Proponer una obra",
+  "org.workProposal.selectWork": "Obra a proponer",
+  "org.workProposal.note": "Mensaje para la organización (opcional)",
+  "org.workProposal.submit": "Proponer obra",
+  "org.workProposal.withdraw": "Retirar",
+  "org.workProposal.status.pending": "Pendiente de decisión",
+  "org.workProposal.status.accepted": "Aceptada",
+  "org.workProposal.status.rejected": "Rechazada",
+  "org.workProposal.status.withdrawn": "Retirada"
 }

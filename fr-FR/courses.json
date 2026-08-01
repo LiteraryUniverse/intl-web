@@ -323,5 +323,8 @@
   "meeting.notStarted": "La réunion n'a pas encore commencé",
   "course.curriculum.heading": "Programme du cours",
   "course.curriculum.andMore": "... et {count} leçons et devoirs supplémentaires.",
-  "course.organization.by": "Par {orgName}"
+  "course.organization.by": "Par {orgName}",
+  "courses.members.tabsAria": "Onglets des membres du cours",
+  "course.works.select": "Sélectionner des œuvres",
+  "course.reading.prompt.placeholder": "Par exemple : choisissez n’importe quelle histoire de la liste sélectionnée qui porte sur la narration peu fiable."
 }

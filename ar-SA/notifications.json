@@ -96,5 +96,8 @@
   "notifications.category.community.description": "إشعارات حول التفاعلات الاجتماعية والمشاركة المجتمعية",
   "notifications.category.reading.description": "إشعارات حول المحتوى الجديد وأنشطة القراءة",
   "notifications.category.system.description": "إشعارات النظام والتحديثات المهمة",
-  "notification.followingNewComicChapter.new": "تم نشر فصل جديد في {comicName} !"
+  "notification.followingNewComicChapter.new": "تم نشر فصل جديد في {comicName} !",
+  "notification.orgWorkProposal.received": "تم اقتراح {work} على {organization}",
+  "notification.orgWorkProposal.accepted": "قبلت {organization} عملك {work}",
+  "notification.orgWorkProposal.rejected": "رفضت {organization} عملك {work}"
 }

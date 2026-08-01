@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Tinklaraščio įrašai",
   "forums.settings.systemPosts.blogs.enable": "Automatiškai sukurti forumo temas naujiems tinklaraščio įrašams",
   "forums.settings.systemPosts.blogs.category": "Rašyti į kategoriją:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Pasirinkite kategoriją..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Pasirinkite kategoriją...",
+  "forums.posts.loadError": "Error loading posts",
+  "forums.category.orgRoles": "Apriboti organizacijos rolėmis (nė vienos = visi nariai)"
 }

@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Дописи в блозі",
   "forums.settings.systemPosts.blogs.enable": "Автоматично створювати теми на форумі для нових дописів у блозі",
   "forums.settings.systemPosts.blogs.category": "Пост до категорії:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Виберіть категорію..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Виберіть категорію...",
+  "forums.posts.loadError": "Помилка завантаження дописів",
+  "forums.category.orgRoles": "Обмежити ролями організації (жодної = усі учасники)"
 }

@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "ახალი თემა {comicName} -ში გამოქვეყნდა!"
+  "notification.followingNewComicChapter.new": "ახალი თემა {comicName} -ში გამოქვეყნდა!",
+  "notification.orgWorkProposal.received": "{work} შესთავაზეს ორგანიზაციას {organization}",
+  "notification.orgWorkProposal.accepted": "{organization}-მა მიიღო თქვენი ნამუშევარი {work}",
+  "notification.orgWorkProposal.rejected": "{organization}-მა უარყო თქვენი ნამუშევარი {work}"
 }

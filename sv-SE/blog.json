@@ -184,5 +184,7 @@
   "blog.domains.claim": "Ta",
   "blog.domains.unavailable": "Den här subdomänen är inte tillgänglig.",
   "blog.domains.available": "Tillgänglig!",
-  "blog.domains.customComing": "Anslutning av egen domän (som blog.dittnamn.se) kommer snart."
+  "blog.domains.customComing": "Anslutning av egen domän (som blog.dittnamn.se) kommer snart.",
+  "blog.post.viewPublished": "Visa publicerat inlägg",
+  "blog.post.edit": "Redigera inlägg"
 }

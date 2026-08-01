@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Stripeで入金を管理",
   "orgConnect.payouts.pending": "Stripeがこの組織の入金アカウントをまだ確認中です。下のボタンから手続きを続けるか、後ほど再度ご確認ください。",
   "orgConnect.payouts.setup": "組織の入金を設定",
-  "orgConnect.payouts.timeout": "Stripeが時間内に応答しませんでした。入金の設定をもう一度お試しください。"
+  "orgConnect.payouts.timeout": "Stripeが時間内に応答しませんでした。入金の設定をもう一度お試しください。",
+  "org.notFound": "組織が見つかりません。",
+  "org.admin.features.comics": "コミック・マンガ・ウェブトゥーン",
+  "org.roles.artist": "アーティスト",
+  "org.roles.title": "ロールと権限",
+  "org.roles.intro": "ロールは権限のセットを付与します。より細かく制御するには、ロールに個別の権限を追加してください。",
+  "org.permissions.courses.attend": "内部コースへの参加",
+  "org.workProposal.title": "提案された作品",
+  "org.workProposal.intro": "自分の作品をこの組織に提案できます。管理者が承認すると、その作品の所有者は組織になります。",
+  "org.workProposal.propose": "作品を提案",
+  "org.workProposal.selectWork": "提案する作品",
+  "org.workProposal.note": "組織へのメッセージ（任意）",
+  "org.workProposal.submit": "作品を提案する",
+  "org.workProposal.withdraw": "取り下げる",
+  "org.workProposal.status.pending": "判断待ち",
+  "org.workProposal.status.accepted": "承認済み",
+  "org.workProposal.status.rejected": "却下",
+  "org.workProposal.status.withdrawn": "取り下げ済み"
 }

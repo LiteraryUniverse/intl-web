@@ -121,5 +121,22 @@
   "orgConnect.payouts.manage": "Administrér udbetalinger på Stripe",
   "orgConnect.payouts.pending": "Stripe er stadig ved at verificere denne organisations udbetalingskonto. Klik nedenfor for at fortsætte opsætningen, eller kig forbi igen senere.",
   "orgConnect.payouts.setup": "Opsæt organisationsudbetalinger",
-  "orgConnect.payouts.timeout": "Stripe svarede ikke i tide. Prøv venligst at konfigurere udbetalinger igen."
+  "orgConnect.payouts.timeout": "Stripe svarede ikke i tide. Prøv venligst at konfigurere udbetalinger igen.",
+  "org.notFound": "Organisationen blev ikke fundet.",
+  "org.admin.features.comics": "Tegneserier, manga og webtoons",
+  "org.roles.artist": "Tegner",
+  "org.roles.title": "Roller og rettigheder",
+  "org.roles.intro": "En rolle giver et sæt rettigheder. Tilføj enkelte rettigheder oven på en rolle for finere styring.",
+  "org.permissions.courses.attend": "Deltag i interne kurser",
+  "org.workProposal.title": "Foreslåede værker",
+  "org.workProposal.intro": "Tilbyd et af dine egne værker til denne organisation. Hvis en administrator accepterer, bliver organisationen ejer af det.",
+  "org.workProposal.propose": "Foreslå et værk",
+  "org.workProposal.selectWork": "Værk der skal foreslås",
+  "org.workProposal.note": "Besked til organisationen (valgfrit)",
+  "org.workProposal.submit": "Foreslå værk",
+  "org.workProposal.withdraw": "Træk tilbage",
+  "org.workProposal.status.pending": "Afventer beslutning",
+  "org.workProposal.status.accepted": "Accepteret",
+  "org.workProposal.status.rejected": "Afvist",
+  "org.workProposal.status.withdrawn": "Trukket tilbage"
 }

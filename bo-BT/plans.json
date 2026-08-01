@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ཟིན་བྲིས་བཟོ་བཀོད་མཐོ་རིམ། (རང་མོས་ CSS)",
   "plans.feature.luSubdomain": "རང་གི་ Literary Universe དྲ་གནས་ཡན་ལག་ཏུ་ཟིན་བྲིས།",
-  "plans.feature.customDomain": "རང་གི་དྲ་གནས་སུ་ཟིན་བྲིས།"
+  "plans.feature.customDomain": "རང་གི་དྲ་གནས་སུ་ཟིན་བྲིས།",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

@@ -184,5 +184,7 @@
   "blog.domains.claim": "យក",
   "blog.domains.unavailable": "ដែនរង​នេះ​មិន​អាច​ប្រើ​បាន​ទេ។",
   "blog.domains.available": "អាច​ប្រើ​បាន!",
-  "blog.domains.customComing": "ការភ្ជាប់​ដែន​ផ្ទាល់ខ្លួន (ដូចជា blog.yourname.com) នឹង​មក​ដល់​ឆាប់ៗ។"
+  "blog.domains.customComing": "ការភ្ជាប់​ដែន​ផ្ទាល់ខ្លួន (ដូចជា blog.yourname.com) នឹង​មក​ដល់​ឆាប់ៗ។",
+  "blog.post.viewPublished": "View published post",
+  "blog.post.edit": "Edit post"
 }

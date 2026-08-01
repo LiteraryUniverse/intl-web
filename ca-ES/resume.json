@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "Previsualització del currículum",
+  "resume.storyPreview.chapterAccess": "Accés als capítols",
+  "resume.storyPreview.generateEpub": "Generar previsualització EPUB",
+  "resume.theme.font.sans": "Sense gràcia",
+  "resume.theme.font.mono": "Monoespaiada",
+  "resume.theme.font.serif": "Amb gràcia",
+  "resume.access.linkName.placeholder": "p. ex., Per a la Fira del Llibre 2026"
 }

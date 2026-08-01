@@ -323,5 +323,8 @@
   "meeting.notStarted": "Встреча ещё не началась",
   "course.curriculum.heading": "Учебная программа курса",
   "course.curriculum.andMore": "... и ещё {count} уроков и заданий.",
-  "course.organization.by": "От {orgName}"
+  "course.organization.by": "От {orgName}",
+  "courses.members.tabsAria": "Вкладки участников курса",
+  "course.works.select": "Выбрать произведения",
+  "course.reading.prompt.placeholder": "Например: выберите любую историю из выбранного списка, которая посвящена ненадёжному рассказчику."
 }

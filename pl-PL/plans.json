@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Poszukiwacz przygód",
   "plans.feature.customBlogCss": "Zaawansowany wygląd bloga (własny CSS)",
   "plans.feature.luSubdomain": "Blog na własnej subdomenie Literary Universe",
-  "plans.feature.customDomain": "Blog na własnej domenie"
+  "plans.feature.customDomain": "Blog na własnej domenie",
+  "payment.testMode.docs": "Dokumentacja Stripe",
+  "payment.testMode.short": "To nie jest środowisko produkcyjne!",
+  "payment.testMode.warning": "To nie jest środowisko produkcyjne — używaj kart testowych zgodnie z {docs}."
 }

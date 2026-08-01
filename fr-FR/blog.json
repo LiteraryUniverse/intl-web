@@ -184,5 +184,7 @@
   "blog.domains.claim": "Réserver",
   "blog.domains.unavailable": "Ce sous-domaine n'est pas disponible.",
   "blog.domains.available": "Disponible !",
-  "blog.domains.customComing": "La connexion de votre propre domaine (comme blog.votrenom.fr) arrive bientôt."
+  "blog.domains.customComing": "La connexion de votre propre domaine (comme blog.votrenom.fr) arrive bientôt.",
+  "blog.post.viewPublished": "Voir l’article publié",
+  "blog.post.edit": "Modifier l’article"
 }

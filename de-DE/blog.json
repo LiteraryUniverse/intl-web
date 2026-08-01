@@ -184,5 +184,7 @@
   "blog.domains.claim": "Sichern",
   "blog.domains.unavailable": "Diese Subdomain ist nicht verfügbar.",
   "blog.domains.available": "Verfügbar!",
-  "blog.domains.customComing": "Die Anbindung einer eigenen Domain (z. B. blog.deinname.de) kommt bald."
+  "blog.domains.customComing": "Die Anbindung einer eigenen Domain (z. B. blog.deinname.de) kommt bald.",
+  "blog.post.viewPublished": "Veröffentlichten Beitrag ansehen",
+  "blog.post.edit": "Beitrag bearbeiten"
 }

@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Publisher Preview",
   "resume.reader.previewRange": "Showing chapters {from}–{to} (publisher preview)",
   "resume.reader.loadingChapter": "Loading chapter...",
-  "resume.reader.chapterNotFound": "Chapter not available."
+  "resume.reader.chapterNotFound": "Chapter not available.",
+  "resume.preview.title": "CV-esikatselu",
+  "resume.storyPreview.chapterAccess": "Lukujen käyttöoikeus",
+  "resume.storyPreview.generateEpub": "Luo EPUB-esikatselu",
+  "resume.theme.font.sans": "Päätteetön",
+  "resume.theme.font.mono": "Tasalevyinen",
+  "resume.theme.font.serif": "Päätteellinen",
+  "resume.access.linkName.placeholder": "esim. Kirjamessuille 2026"
 }

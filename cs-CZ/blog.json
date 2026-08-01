@@ -184,5 +184,7 @@
   "blog.domains.claim": "Zabrat",
   "blog.domains.unavailable": "Tato subdoména není dostupná.",
   "blog.domains.available": "Dostupná!",
-  "blog.domains.customComing": "Připojení vlastní domény (např. blog.vasejmeno.cz) již brzy."
+  "blog.domains.customComing": "Připojení vlastní domény (např. blog.vasejmeno.cz) již brzy.",
+  "blog.post.viewPublished": "Zobrazit publikovaný příspěvek",
+  "blog.post.edit": "Upravit příspěvek"
 }

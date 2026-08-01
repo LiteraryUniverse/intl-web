@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Título",
   "stats.chapterReadingTime.totalTime": "Tempo total de leitura",
   "stats.hits.comingSoon": "Gráfico de acessos ao longo do tempo em breve...",
-  "stats.visitors.comingSoon": "Gráfico de visitantes ao longo do tempo em breve..."
+  "stats.visitors.comingSoon": "Gráfico de visitantes ao longo do tempo em breve...",
+  "stats.blog.noPageStats": "Nenhuma estatística de página do blog disponível.",
+  "stats.chapter.numberWithSequence": "Capítulo {sequence, number}"
 }

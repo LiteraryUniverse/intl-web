@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Podgląd wydawcy",
   "resume.reader.previewRange": "Wyświetlanie rozdziałów {from}–{to} (podgląd wydawcy)",
   "resume.reader.loadingChapter": "Ładowanie rozdziału...",
-  "resume.reader.chapterNotFound": "Rozdział niedostępny."
+  "resume.reader.chapterNotFound": "Rozdział niedostępny.",
+  "resume.preview.title": "Podgląd CV",
+  "resume.storyPreview.chapterAccess": "Dostęp do rozdziałów",
+  "resume.storyPreview.generateEpub": "Wygeneruj podgląd EPUB",
+  "resume.theme.font.sans": "Bezszeryfowa",
+  "resume.theme.font.mono": "Monospace",
+  "resume.theme.font.serif": "Szeryfowa",
+  "resume.access.linkName.placeholder": "np. Na Targi Książki 2026"
 }

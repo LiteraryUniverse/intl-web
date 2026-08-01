@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Tytuł",
   "stats.chapterReadingTime.totalTime": "Łączny czas czytania",
   "stats.hits.comingSoon": "Wykres odsłon w czasie już wkrótce...",
-  "stats.visitors.comingSoon": "Wykres odwiedzających w czasie już wkrótce..."
+  "stats.visitors.comingSoon": "Wykres odwiedzających w czasie już wkrótce...",
+  "stats.blog.noPageStats": "Brak dostępnych statystyk stron bloga.",
+  "stats.chapter.numberWithSequence": "Rozdział {sequence, number}"
 }

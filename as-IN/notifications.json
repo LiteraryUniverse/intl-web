@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
   "notifications.category.system.description": "System notifications and important updates",
-  "notification.followingNewComicChapter.new": "নতুন চাপ্তা {comicName} প্ৰকাশ হৈছে!"
+  "notification.followingNewComicChapter.new": "নতুন চাপ্তা {comicName} প্ৰকাশ হৈছে!",
+  "notification.orgWorkProposal.received": "{work} {organization}ক প্ৰস্তাৱ কৰা হৈছে",
+  "notification.orgWorkProposal.accepted": "{organization}-এ আপোনাৰ সৃষ্টি {work} গ্ৰহণ কৰিছে",
+  "notification.orgWorkProposal.rejected": "{organization}-এ আপোনাৰ সৃষ্টি {work} প্ৰত্যাখ্যান কৰিছে"
 }

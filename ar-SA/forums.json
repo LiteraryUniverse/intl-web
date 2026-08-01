@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "منشورات المدونة",
   "forums.settings.systemPosts.blogs.enable": "إنشاء سلاسل رسائل المنتدى تلقائيًا لمنشورات المدونة الجديدة",
   "forums.settings.systemPosts.blogs.category": "نشر إلى الفئة:",
-  "forums.settings.systemPosts.blogs.selectCategory": "اختر فئة..."
+  "forums.settings.systemPosts.blogs.selectCategory": "اختر فئة...",
+  "forums.posts.loadError": "خطأ في تحميل المنشورات",
+  "forums.category.orgRoles": "التقييد بأدوار المنظمة (بلا تحديد = جميع الأعضاء)"
 }

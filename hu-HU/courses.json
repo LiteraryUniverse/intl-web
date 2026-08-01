@@ -323,5 +323,8 @@
   "meeting.notStarted": "A megbeszélés még nem kezdődött el",
   "course.curriculum.heading": "Kurzus tananyaga",
   "course.curriculum.andMore": "... és további {count} lecke és feladat.",
-  "course.organization.by": "{orgName} szervezésében"
+  "course.organization.by": "{orgName} szervezésében",
+  "courses.members.tabsAria": "Kurzustagok lapjai",
+  "course.works.select": "Művek kiválasztása",
+  "course.reading.prompt.placeholder": "Például: válasszon bármely történetet a kiválasztott listából, amely a megbízhatatlan elbeszélésre fókuszál."
 }

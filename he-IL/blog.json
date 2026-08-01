@@ -184,5 +184,7 @@
   "blog.domains.claim": "תפיסה",
   "blog.domains.unavailable": "תת-דומיין זה אינו זמין.",
   "blog.domains.available": "זמין!",
-  "blog.domains.customComing": "חיבור דומיין משלכם (כמו blog.yourname.com) יגיע בקרוב."
+  "blog.domains.customComing": "חיבור דומיין משלכם (כמו blog.yourname.com) יגיע בקרוב.",
+  "blog.post.viewPublished": "צפייה בפוסט שפורסם",
+  "blog.post.edit": "עריכת פוסט"
 }

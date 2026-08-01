@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blogginlägg",
   "forums.settings.systemPosts.blogs.enable": "Skapa automatiskt forumtrådar för nya blogginlägg",
   "forums.settings.systemPosts.blogs.category": "Inlägg till kategori:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Välj en kategori..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Välj en kategori...",
+  "forums.posts.loadError": "Fel vid inläsning av inlägg",
+  "forums.category.orgRoles": "Begränsa till organisationsroller (ingen = alla medlemmar)"
 }

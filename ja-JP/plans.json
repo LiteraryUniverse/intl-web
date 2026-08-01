@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "高度なブログデザイン（カスタムCSS）",
   "plans.feature.luSubdomain": "Literary Universe のサブドメインでブログを公開",
-  "plans.feature.customDomain": "独自ドメインでブログを公開"
+  "plans.feature.customDomain": "独自ドメインでブログを公開",
+  "payment.testMode.docs": "Stripeドキュメント",
+  "payment.testMode.short": "これは本番環境ではありません！",
+  "payment.testMode.warning": "これは本番環境ではないため、{docs}に従ってテストカードを使用してください。"
 }

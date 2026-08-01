@@ -323,5 +323,8 @@
   "meeting.notStarted": "Das Meeting hat noch nicht begonnen",
   "course.curriculum.heading": "Kurslehrplan",
   "course.curriculum.andMore": "... und {count} weitere Lektionen und Aufgaben.",
-  "course.organization.by": "Von {orgName}"
+  "course.organization.by": "Von {orgName}",
+  "courses.members.tabsAria": "Kursmitglieder-Tabs",
+  "course.works.select": "Werke auswählen",
+  "course.reading.prompt.placeholder": "Zum Beispiel: wählen Sie eine beliebige Geschichte aus der ausgewählten Liste, die sich auf unzuverlässiges Erzählen konzentriert."
 }

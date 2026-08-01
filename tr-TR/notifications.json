@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Sosyal etkileşimler ve topluluk katılımı hakkında bildirimler",
   "notifications.category.reading.description": "Yeni içerik ve okuma etkinlikleri hakkında bildirimler",
   "notifications.category.system.description": "Sistem bildirimleri ve önemli güncellemeler",
-  "notification.followingNewComicChapter.new": "{comicName} adlı hikayede yeni bir bölüm yayınlandı!"
+  "notification.followingNewComicChapter.new": "{comicName} adlı hikayede yeni bir bölüm yayınlandı!",
+  "notification.orgWorkProposal.received": "{work} eseri {organization} kuruluşuna önerildi",
+  "notification.orgWorkProposal.accepted": "{organization} eserinizi kabul etti: {work}",
+  "notification.orgWorkProposal.rejected": "{organization} eserinizi reddetti: {work}"
 }

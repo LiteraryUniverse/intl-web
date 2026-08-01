@@ -635,5 +635,7 @@
   "workshop.universe.forum": "Intern forum van {universeName}",
   "workshop.universe.monetizationTitle": "Universummonetisatie",
   "workshop.statistics": "Auteursstatistieken",
-  "workshop.authorResume": "Cv van auteur"
+  "workshop.authorResume": "Cv van auteur",
+  "workshop.ai.llmstxt.copyStoryInfo": "URL met verhaalinformatie voor AI-diensten kopiëren",
+  "workshop.ai.llmstxt.copyFullContent": "URL met volledige verhaalinhoud voor AI-diensten kopiëren"
 }

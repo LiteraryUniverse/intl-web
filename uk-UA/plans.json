@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Шукач пригод",
   "plans.feature.customBlogCss": "Розширене оформлення блогу (власний CSS)",
   "plans.feature.luSubdomain": "Блог на власному піддомені Literary Universe",
-  "plans.feature.customDomain": "Блог на власному домені"
+  "plans.feature.customDomain": "Блог на власному домені",
+  "payment.testMode.docs": "Документація Stripe",
+  "payment.testMode.short": "Це не робоче середовище!",
+  "payment.testMode.warning": "Це не робоче середовище, тому використовуйте тестові картки згідно з {docs}."
 }

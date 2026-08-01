@@ -96,5 +96,8 @@
   "notifications.category.community.description": "Notificări privind interacțiunile sociale și implicarea în comunitate",
   "notifications.category.reading.description": "Notificări cu privire la conținut nou și activități de lectură",
   "notifications.category.system.description": "Notificări de sistem și actualizări importante",
-  "notification.followingNewComicChapter.new": "Capitolul nou în {comicName} a fost publicat!"
+  "notification.followingNewComicChapter.new": "Capitolul nou în {comicName} a fost publicat!",
+  "notification.orgWorkProposal.received": "{work} a fost propusă către {organization}",
+  "notification.orgWorkProposal.accepted": "{organization} a acceptat lucrarea ta {work}",
+  "notification.orgWorkProposal.rejected": "{organization} a respins lucrarea ta {work}"
 }

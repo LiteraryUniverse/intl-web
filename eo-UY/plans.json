@@ -404,5 +404,8 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Altnivela bloga fasono (propra CSS)",
   "plans.feature.luSubdomain": "Blogo en via propra subdomajno de Literary Universe",
-  "plans.feature.customDomain": "Blogo en via propra domajno"
+  "plans.feature.customDomain": "Blogo en via propra domajno",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
 }

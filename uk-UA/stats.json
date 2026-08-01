@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Назва",
   "stats.chapterReadingTime.totalTime": "Загальний час читання",
   "stats.hits.comingSoon": "Графік переглядів за час незабаром...",
-  "stats.visitors.comingSoon": "Графік відвідувачів за час незабаром..."
+  "stats.visitors.comingSoon": "Графік відвідувачів за час незабаром...",
+  "stats.blog.noPageStats": "Статистика сторінок блогу недоступна.",
+  "stats.chapter.numberWithSequence": "Розділ {sequence, number}"
 }

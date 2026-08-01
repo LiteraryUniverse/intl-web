@@ -70,5 +70,7 @@
   "forums.settings.systemPosts.blogs": "Blog Berichten",
   "forums.settings.systemPosts.blogs.enable": "Maak automatisch forumthreads aan voor nieuwe blogberichten",
   "forums.settings.systemPosts.blogs.category": "Geplaatst in categorie:",
-  "forums.settings.systemPosts.blogs.selectCategory": "Selecteer een categorie..."
+  "forums.settings.systemPosts.blogs.selectCategory": "Selecteer een categorie...",
+  "forums.posts.loadError": "Fout bij het laden van berichten",
+  "forums.category.orgRoles": "Beperken tot organisatierollen (geen = alle leden)"
 }

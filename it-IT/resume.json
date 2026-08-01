@@ -159,5 +159,12 @@
   "resume.reader.publisherPreview": "Anteprima dell'editore",
   "resume.reader.previewRange": "Visualizzazione dei capitoli da {from} a {to} (anteprima dell'editore)",
   "resume.reader.loadingChapter": "Caricamento del capitolo...",
-  "resume.reader.chapterNotFound": "Capitolo non disponibile."
+  "resume.reader.chapterNotFound": "Capitolo non disponibile.",
+  "resume.preview.title": "Anteprima curriculum",
+  "resume.storyPreview.chapterAccess": "Accesso ai capitoli",
+  "resume.storyPreview.generateEpub": "Genera anteprima EPUB",
+  "resume.theme.font.sans": "Senza grazie",
+  "resume.theme.font.mono": "Monospace",
+  "resume.theme.font.serif": "Con grazie",
+  "resume.access.linkName.placeholder": "es. Per la Fiera del libro 2026"
 }

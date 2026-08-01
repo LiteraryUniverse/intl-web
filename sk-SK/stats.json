@@ -151,5 +151,7 @@
   "stats.chapterReadingTime.chapterTitle": "Názov",
   "stats.chapterReadingTime.totalTime": "Celkový čas čítania",
   "stats.hits.comingSoon": "Graf zobrazení v čase čoskoro pribudne...",
-  "stats.visitors.comingSoon": "Graf návštevníkov v čase čoskoro pribudne..."
+  "stats.visitors.comingSoon": "Graf návštevníkov v čase čoskoro pribudne...",
+  "stats.blog.noPageStats": "Štatistiky stránok blogu nie sú k dispozícii.",
+  "stats.chapter.numberWithSequence": "Kapitola {sequence, number}"
 }

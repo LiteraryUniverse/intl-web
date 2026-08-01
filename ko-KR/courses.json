@@ -323,5 +323,8 @@
   "meeting.notStarted": "Meeting has not started yet",
   "course.curriculum.heading": "Course Curriculum",
   "course.curriculum.andMore": "... and {count} more lessons and assignments.",
-  "course.organization.by": "By {orgName}"
+  "course.organization.by": "By {orgName}",
+  "courses.members.tabsAria": "코스 멤버 탭",
+  "course.works.select": "작품 선택",
+  "course.reading.prompt.placeholder": "예: 선택한 목록에서 신뢰할 수 없는 서술자에 초점을 맞춘 이야기를 고르세요."
 }
