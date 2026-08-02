@@ -17,6 +17,7 @@
   "comics.continueReading": "Đọc tiếp",
   "comics.create.fromStory": "Đang tạo bản chuyển thể của “{title}” — các thông tin bên dưới đã được điền sẵn từ truyện.",
   "comics.create.intro": "Xuất bản nghệ thuật tuần tự — truyện tranh phương Tây, manga, hoặc webtoon cuộn dọc. Bạn có thể liên kết với các truyện và bách khoa của mình sau này.",
+  "comics.requiresStoryteller": "Tạo truyện tranh, manga và webtoon cần gói đăng ký Storyteller. {link}",
   "comics.create.submit": "Tạo {format}",
   "comics.create.title": "{format} mới",
   "comics.cover.alt": "Ảnh bìa của {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Họa sĩ bìa",
   "comics.team.role.writer": "Biên kịch",
   "comics.pages.exportGuide": "Bạn đang xuất từ Clip Studio Paint, Procreate hoặc ứng dụng vẽ khác? <link>Đọc hướng dẫn</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, other {Đã bỏ qua # tệp}} ({names}). Xuất trang dưới dạng PNG hoặc JPEG — <link>xem hướng dẫn</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, other {Đã bỏ qua # tệp}} ({names}). Xuất trang dưới dạng PNG hoặc JPEG — <link>xem hướng dẫn</link>.",
+  "comics.team.role.assistant": "Trợ lý"
 }

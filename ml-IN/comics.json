@@ -17,6 +17,7 @@
   "comics.continueReading": "വായന തുടരുക",
   "comics.create.fromStory": "“{title}”-ന്റെ ഒരു രൂപാന്തരം സൃഷ്ടിക്കുന്നു — താഴെയുള്ള വിശദാംശങ്ങൾ കഥയിൽ നിന്ന് മുൻകൂട്ടി പൂരിപ്പിച്ചതാണ്.",
   "comics.create.intro": "സീക്വൻഷ്യൽ ആർട്ട് പ്രസിദ്ധീകരിക്കുക — പാശ്ചാത്യ കോമിക്സ്, മാംഗ, അല്ലെങ്കിൽ ലംബ-സ്ക്രോൾ വെബ്‌ടൂണുകൾ. നിങ്ങൾക്ക് പിന്നീട് ഇത് നിങ്ങളുടെ കഥകളുമായും വിജ്ഞാനകോശവുമായും ബന്ധിപ്പിക്കാം.",
+  "comics.requiresStoryteller": "കോമിക്സ്, മംഗ, വെബ്‌ടൂണുകൾ സൃഷ്ടിക്കാൻ Storyteller സബ്‌സ്‌ക്രിപ്‌ഷൻ ആവശ്യമാണ്. {link}",
   "comics.create.submit": "{format} സൃഷ്ടിക്കുക",
   "comics.create.title": "പുതിയ {format}",
   "comics.cover.alt": "{title}-നുള്ള കവർ ചിത്രം.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "വർണ്ണ കലാകാരൻ",
   "comics.team.role.inker": "മഷി കലാകാരൻ",
   "comics.team.role.coverArtist": "കവർ കലാകാരൻ",
-  "comics.team.role.writer": "എഴുത്തുകാരൻ"
+  "comics.team.role.writer": "എഴുത്തുകാരൻ",
+  "comics.team.role.assistant": "സഹായി"
 }

@@ -17,6 +17,7 @@
   "comics.continueReading": "Czytaj dalej",
   "comics.create.fromStory": "Tworzą Państwo adaptację utworu „{title}” — poniższe dane zostały wstępnie wypełnione na podstawie historii.",
   "comics.create.intro": "Publikuj sztukę sekwencyjną — komiksy zachodnie, mangę lub webtoony z pionowym przewijaniem. Później możesz połączyć ją ze swoimi historiami i encyklopedią.",
+  "comics.requiresStoryteller": "Tworzenie komiksów, mangi i webtoonów wymaga subskrypcji Storyteller. {link}",
   "comics.create.submit": "Utwórz {format}",
   "comics.create.title": "Nowy {format}",
   "comics.cover.alt": "Okładka: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Autor okładki",
   "comics.team.role.writer": "Scenarzysta",
   "comics.pages.exportGuide": "Eksportujesz z Clip Studio Paint, Procreate lub innej aplikacji do rysowania? <link>Przeczytaj przewodnik</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# plik pominięty} few {# pliki pominięte} many {# plików pominiętych} other {# pliku pominięte}} ({names}). Eksportuj strony jako PNG lub JPEG — <link>zobacz przewodnik</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# plik pominięty} few {# pliki pominięte} many {# plików pominiętych} other {# pliku pominięte}} ({names}). Eksportuj strony jako PNG lub JPEG — <link>zobacz przewodnik</link>.",
+  "comics.team.role.assistant": "Asystent"
 }

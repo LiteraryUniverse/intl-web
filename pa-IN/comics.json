@@ -17,6 +17,7 @@
   "comics.continueReading": "ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖੋ",
   "comics.create.fromStory": "“{title}” ਦਾ ਰੂਪਾਂਤਰ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ — ਹੇਠਾਂ ਦਿੱਤੇ ਵੇਰਵੇ ਕਹਾਣੀ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਭਰੇ ਗਏ ਹਨ।",
   "comics.create.intro": "ਕ੍ਰਮਵਾਰ ਕਲਾ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ — ਪੱਛਮੀ ਕਾਮਿਕਸ, ਮਾਂਗਾ, ਜਾਂ ਖੜ੍ਹਵੇਂ-ਸਕ੍ਰੌਲ ਵੈੱਬਟੂਨ। ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਇਸਨੂੰ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਅਤੇ ਐਨਸਾਈਕਲੋਪੀਡੀਆ ਨਾਲ ਲਿੰਕ ਕਰ ਸਕਦੇ ਹੋ।",
+  "comics.requiresStoryteller": "ਕਾਮਿਕਸ, ਮਾਂਗਾ ਅਤੇ ਵੈੱਬਟੂਨ ਬਣਾਉਣ ਲਈ Storyteller ਮੈਂਬਰਸ਼ਿਪ ਲੋੜੀਂਦੀ ਹੈ। {link}",
   "comics.create.submit": "{format} ਬਣਾਓ",
   "comics.create.title": "ਨਵਾਂ {format}",
   "comics.cover.alt": "{title} ਲਈ ਕਵਰ ਚਿੱਤਰ।",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "ਰੰਗ ਕਲਾਕਾਰ",
   "comics.team.role.inker": "ਸਿਆਹੀ ਕਲਾਕਾਰ",
   "comics.team.role.coverArtist": "ਕਵਰ ਕਲਾਕਾਰ",
-  "comics.team.role.writer": "ਲੇਖਕ"
+  "comics.team.role.writer": "ਲੇਖਕ",
+  "comics.team.role.assistant": "ਸਹਾਇਕ"
 }

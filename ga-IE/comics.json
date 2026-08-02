@@ -17,6 +17,7 @@
   "comics.continueReading": "Lean ort ag léamh",
   "comics.create.fromStory": "Oiriúnú de “{title}” á chruthú — tá na sonraí thíos réamhlíonta ón scéal.",
   "comics.create.intro": "Foilsigh ealaín sheicheamhach — greannáin iartharacha, manga, nó webtoons a scrollaíonn go hingearach. Is féidir leat é a nascadh le do scéalta agus le do chiclipéid níos déanaí.",
+  "comics.requiresStoryteller": "Tá síntiús Storyteller de dhíth chun greannáin, manga agus webtoons a chruthú. {link}",
   "comics.create.submit": "Cruthaigh {format}",
   "comics.create.title": "{format} nua",
   "comics.cover.alt": "Íomhá chlúdaigh do {title}.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "Dathadóir",
   "comics.team.role.inker": "Ealaíontóir dúigh",
   "comics.team.role.coverArtist": "Ealaíontóir clúdaigh",
-  "comics.team.role.writer": "Scríbhneoir"
+  "comics.team.role.writer": "Scríbhneoir",
+  "comics.team.role.assistant": "Cúntóir"
 }

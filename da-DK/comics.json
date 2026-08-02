@@ -17,6 +17,7 @@
   "comics.continueReading": "Fortsæt læsning",
   "comics.create.fromStory": "Du opretter en adaption af “{title}” — detaljerne nedenfor er udfyldt på forhånd ud fra historien.",
   "comics.create.intro": "Udgiv sekventiel kunst — vestlige tegneserier, manga eller webtoons med lodret scroll. Du kan senere knytte den til dine historier og din encyklopædi.",
+  "comics.requiresStoryteller": "Oprettelse af tegneserier, manga og webtoons kræver et Storyteller-abonnement. {link}",
   "comics.create.submit": "Opret {format}",
   "comics.create.title": "Ny {format}",
   "comics.cover.alt": "Omslag: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Omslagskunstner",
   "comics.team.role.writer": "Forfatter",
   "comics.pages.exportGuide": "Eksporterer du fra Clip Studio Paint, Procreate eller en anden tegneapp? <link>Læs guiden</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} sprunget over ({names}). Eksporter sider som PNG eller JPEG — <link>se guiden</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} sprunget over ({names}). Eksporter sider som PNG eller JPEG — <link>se guiden</link>.",
+  "comics.team.role.assistant": "Assistent"
 }

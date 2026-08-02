@@ -17,6 +17,7 @@
   "comics.continueReading": "Olvasás folytatása",
   "comics.create.fromStory": "„{title}” adaptációjának létrehozása — az alábbi adatok a történetből lettek előre kitöltve.",
   "comics.create.intro": "Tegyen közzé szekvenciális művészetet — nyugati képregényeket, mangákat vagy függőlegesen görgethető webtoonokat. Később összekapcsolhatja a történeteivel és az enciklopédiával.",
+  "comics.requiresStoryteller": "Képregények, mangák és webtoonok létrehozásához Storyteller előfizetés szükséges. {link}",
   "comics.create.submit": "{format} létrehozása",
   "comics.create.title": "Új {format}",
   "comics.cover.alt": "Borító: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Borítórajzoló",
   "comics.team.role.writer": "Író",
   "comics.pages.exportGuide": "Clip Studio Paintből, Procreate-ből vagy másik rajzalkalmazásból exportálsz? <link>Olvasd el az útmutatót</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# fájl kihagyva} other {# fájl kihagyva}} ({names}). Exportáld az oldalakat PNG vagy JPEG formátumban — <link>lásd az útmutatót</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fájl kihagyva} other {# fájl kihagyva}} ({names}). Exportáld az oldalakat PNG vagy JPEG formátumban — <link>lásd az útmutatót</link>.",
+  "comics.team.role.assistant": "Asszisztens"
 }

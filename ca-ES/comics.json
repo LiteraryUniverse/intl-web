@@ -17,6 +17,7 @@
   "comics.continueReading": "Continua llegint",
   "comics.create.fromStory": "Estàs creant una adaptació de «{title}»: les dades de sota s'han emplenat a partir de la història.",
   "comics.create.intro": "Publica art seqüencial — còmics occidentals, manga o webtoons de desplaçament vertical. Més endavant els pots enllaçar amb les teves històries i la teva enciclopèdia.",
+  "comics.requiresStoryteller": "Crear còmics, manga i webtoons requereix una subscripció Storyteller. {link}",
   "comics.create.submit": "Crea {format}",
   "comics.create.title": "Nou {format}",
   "comics.cover.alt": "Imatge de portada de {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Artista de coberta",
   "comics.team.role.writer": "Guionista",
   "comics.pages.exportGuide": "Exportes des de Clip Studio Paint, Procreate o una altra aplicació de dibuix? <link>Llegeix la guia</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# fitxer omès} other {# fitxers omesos}} ({names}). Exporta les pàgines com a PNG o JPEG — <link>consulta la guia</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fitxer omès} other {# fitxers omesos}} ({names}). Exporta les pàgines com a PNG o JPEG — <link>consulta la guia</link>.",
+  "comics.team.role.assistant": "Assistent"
 }

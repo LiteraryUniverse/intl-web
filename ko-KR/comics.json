@@ -17,6 +17,7 @@
   "comics.continueReading": "이어서 읽기",
   "comics.create.fromStory": "“{title}”의 각색 만화를 만들고 있습니다 — 아래 정보는 이야기에서 미리 채워졌습니다.",
   "comics.create.intro": "순차 예술을 게시하세요 — 서양 코믹, 망가, 또는 세로 스크롤 웹툰. 나중에 이야기 및 백과사전과 연결할 수 있습니다.",
+  "comics.requiresStoryteller": "만화, 망가, 웹툰을 만들려면 Storyteller 구독이 필요합니다. {link}",
   "comics.create.submit": "{format} 만들기",
   "comics.create.title": "새 {format}",
   "comics.cover.alt": "{title}의 표지 이미지.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "표지 담당",
   "comics.team.role.writer": "글 작가",
   "comics.pages.exportGuide": "Clip Studio Paint, Procreate 또는 다른 그림 앱에서 내보내시나요? <link>가이드 읽기</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, other {#개 파일 건너뜀}} ({names}). 페이지를 PNG 또는 JPEG로 내보내세요 — <link>가이드 보기</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, other {#개 파일 건너뜀}} ({names}). 페이지를 PNG 또는 JPEG로 내보내세요 — <link>가이드 보기</link>.",
+  "comics.team.role.assistant": "어시스턴트"
 }

@@ -17,6 +17,7 @@
   "comics.continueReading": "ପଢ଼ିବା ଜାରି ରଖନ୍ତୁ",
   "comics.create.fromStory": "“{title}”-ର ଏକ ରୂପାନ୍ତର ତିଆରି ହେଉଛି — ତଳର ବିବରଣୀଗୁଡ଼ିକ କାହାଣୀରୁ ପୂର୍ବରୁ ଭରାଯାଇଛି।",
   "comics.create.intro": "କ୍ରମିକ କଳା ପ୍ରକାଶ କରନ୍ତୁ — ପାଶ୍ଚାତ୍ୟ କମିକ୍, ମାଙ୍ଗା, କିମ୍ବା ଭୂଲମ୍ବ-ସ୍କ୍ରୋଲ୍ ୱେବଟୁନ୍। ଆପଣ ଏହାକୁ ପରେ ଆପଣଙ୍କ କାହାଣୀ ଓ ବିଶ୍ୱକୋଷ ସହ ଲିଙ୍କ କରି ପାରିବେ।",
+  "comics.requiresStoryteller": "କମିକ୍ସ, ମାଙ୍ଗା ଏବଂ ୱେବଟୁନ୍ ତିଆରି କରିବାକୁ Storyteller ସଦସ୍ୟତା ଆବଶ୍ୟକ। {link}",
   "comics.create.submit": "{format} ତିଆରି କରନ୍ତୁ",
   "comics.create.title": "ନୂଆ {format}",
   "comics.cover.alt": "{title}-ର ପ୍ରଚ୍ଛଦ ଚିତ୍ର।",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "ରଙ୍ଗ କଳାକାର",
   "comics.team.role.inker": "କାଳି କଳାକାର",
   "comics.team.role.coverArtist": "ପ୍ରଚ୍ଛଦ କଳାକାର",
-  "comics.team.role.writer": "ଲେଖକ"
+  "comics.team.role.writer": "ଲେଖକ",
+  "comics.team.role.assistant": "ସହାୟକ"
 }

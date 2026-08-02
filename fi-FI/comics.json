@@ -17,6 +17,7 @@
   "comics.continueReading": "Jatka lukemista",
   "comics.create.fromStory": "Luodaan sovitusta tarinasta ”{title}” — alla olevat tiedot on esitäytetty tarinan pohjalta.",
   "comics.create.intro": "Julkaise sarjallista kuvakerrontaa — länsimaisia sarjakuvia, mangaa tai pystyvieritettäviä webtooneja. Voit yhdistää sen tarinoihisi ja tietosanakirjaan myöhemmin.",
+  "comics.requiresStoryteller": "Sarjakuvien, mangan ja webtoonien luominen vaatii Storyteller-tilauksen. {link}",
   "comics.create.submit": "Luo {format}",
   "comics.create.title": "Uusi {format}",
   "comics.cover.alt": "Kansi: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Kansitaiteilija",
   "comics.team.role.writer": "Käsikirjoittaja",
   "comics.pages.exportGuide": "Vietkö Clip Studio Paintista, Procreatesta tai toisesta piirrossovelluksesta? <link>Lue opas</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# tiedosto ohitettu} other {# tiedostoa ohitettu}} ({names}). Vie sivut PNG- tai JPEG-muodossa — <link>katso opas</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# tiedosto ohitettu} other {# tiedostoa ohitettu}} ({names}). Vie sivut PNG- tai JPEG-muodossa — <link>katso opas</link>.",
+  "comics.team.role.assistant": "Assistentti"
 }

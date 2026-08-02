@@ -17,6 +17,7 @@
   "comics.continueReading": "Lees verder",
   "comics.create.fromStory": "Skep 'n verwerking van “{title}” — die besonderhede hieronder is vooraf ingevul vanaf die storie.",
   "comics.create.intro": "Publiseer sekwensiële kuns — westerse strokiesprente, manga, of vertikaal-rollende webtoons. Jy kan dit later aan jou stories en ensiklopedie koppel.",
+  "comics.requiresStoryteller": "Om strokiesprente, manga en webtoons te skep vereis ’n Storyteller-intekening. {link}",
   "comics.create.submit": "Skep {format}",
   "comics.create.title": "Nuwe {format}",
   "comics.cover.alt": "Omslagbeeld vir {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Omslagkunstenaar",
   "comics.team.role.writer": "Skrywer",
   "comics.pages.exportGuide": "Voer jy uit vanuit Clip Studio Paint, Procreate of ’n ander kuns-app? <link>Lees die gids</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# lêer} other {# lêers}} oorgeslaan ({names}). Voer bladsye uit as PNG of JPEG — <link>sien die gids</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# lêer} other {# lêers}} oorgeslaan ({names}). Voer bladsye uit as PNG of JPEG — <link>sien die gids</link>.",
+  "comics.team.role.assistant": "Assistent"
 }

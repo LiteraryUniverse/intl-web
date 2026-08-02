@@ -17,6 +17,7 @@
   "comics.continueReading": "ಓದುವುದನ್ನು ಮುಂದುವರಿಸಿ",
   "comics.create.fromStory": "“{title}” ಕಥೆಯ ಅಳವಡಿಕೆಯನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ — ಕೆಳಗಿನ ವಿವರಗಳನ್ನು ಕಥೆಯಿಂದ ಮೊದಲೇ ತುಂಬಲಾಗಿದೆ.",
   "comics.create.intro": "ಅನುಕ್ರಮ ಕಲೆಯನ್ನು ಪ್ರಕಟಿಸಿ — ಪಾಶ್ಚಾತ್ಯ ಚಿತ್ರಕಥೆಗಳು, Manga, ಅಥವಾ ಲಂಬವಾಗಿ-ಸ್ಕ್ರೋಲ್ ಆಗುವ Webtoon. ನಂತರ ಅದನ್ನು ನಿಮ್ಮ ಕಥೆಗಳು ಮತ್ತು ವಿಶ್ವಕೋಶಕ್ಕೆ ಲಿಂಕ್ ಮಾಡಬಹುದು.",
+  "comics.requiresStoryteller": "ಕಾಮಿಕ್‌ಗಳು, ಮಂಗಾ ಮತ್ತು ವೆಬ್‌ಟೂನ್‌ಗಳನ್ನು ರಚಿಸಲು Storyteller ಚಂದಾದಾರಿಕೆ ಅಗತ್ಯ. {link}",
   "comics.create.submit": "{format} ರಚಿಸಿ",
   "comics.create.title": "ಹೊಸ {format}",
   "comics.cover.alt": "{title} ಗಾಗಿ ಮುಖಪುಟ ಚಿತ್ರ.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "ಬಣ್ಣ ಕಲಾವಿದ",
   "comics.team.role.inker": "ಶಾಯಿ ಕಲಾವಿದ",
   "comics.team.role.coverArtist": "ಮುಖಪುಟ ಕಲಾವಿದ",
-  "comics.team.role.writer": "ಬರಹಗಾರ"
+  "comics.team.role.writer": "ಬರಹಗಾರ",
+  "comics.team.role.assistant": "ಸಹಾಯಕ"
 }

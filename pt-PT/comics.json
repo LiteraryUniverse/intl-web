@@ -17,6 +17,7 @@
   "comics.continueReading": "Continuar a ler",
   "comics.create.fromStory": "A criar uma adaptação de «{title}» — os dados abaixo foram pré-preenchidos a partir da história.",
   "comics.create.intro": "Publica arte sequencial — banda desenhada ocidental, manga ou webtoons de deslocamento vertical. Podes associá-la às tuas histórias e enciclopédia mais tarde.",
+  "comics.requiresStoryteller": "Criar banda desenhada, manga e webtoons requer uma subscrição Storyteller. {link}",
   "comics.create.submit": "Criar obra ({format})",
   "comics.create.title": "Nova obra ({format})",
   "comics.cover.alt": "Imagem de capa de {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Artista de capa",
   "comics.team.role.writer": "Argumentista",
   "comics.pages.exportGuide": "A exportar do Clip Studio Paint, Procreate ou outra app de desenho? <link>Leia o guia</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# ficheiro ignorado} other {# ficheiros ignorados}} ({names}). Exporte as páginas como PNG ou JPEG — <link>veja o guia</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# ficheiro ignorado} other {# ficheiros ignorados}} ({names}). Exporte as páginas como PNG ou JPEG — <link>veja o guia</link>.",
+  "comics.team.role.assistant": "Assistente"
 }

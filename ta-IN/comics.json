@@ -17,6 +17,7 @@
   "comics.continueReading": "தொடர்ந்து படி",
   "comics.create.fromStory": "“{title}” கதையின் தழுவல் உருவாக்கப்படுகிறது — கீழுள்ள விவரங்கள் கதையிலிருந்து முன்கூட்டியே நிரப்பப்பட்டுள்ளன.",
   "comics.create.intro": "வரிசைக் கலையை வெளியிடுங்கள் — மேற்கத்திய காமிக்ஸ், மங்கா அல்லது செங்குத்து-ஸ்க்ரோல் வெப்டூன்கள். பிறகு அதை உங்கள் கதைகள் மற்றும் கலைக்களஞ்சியத்துடன் இணைக்கலாம்.",
+  "comics.requiresStoryteller": "காமிக்ஸ், மாங்கா மற்றும் வெப்டூன்களை உருவாக்க Storyteller சந்தா தேவை. {link}",
   "comics.create.submit": "{format} உருவாக்கு",
   "comics.create.title": "புதிய {format}",
   "comics.cover.alt": "{title}-க்கான அட்டைப் படம்.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "வண்ணக் கலைஞர்",
   "comics.team.role.inker": "மைக் கலைஞர்",
   "comics.team.role.coverArtist": "அட்டைப்படக் கலைஞர்",
-  "comics.team.role.writer": "எழுத்தாளர்"
+  "comics.team.role.writer": "எழுத்தாளர்",
+  "comics.team.role.assistant": "உதவியாளர்"
 }

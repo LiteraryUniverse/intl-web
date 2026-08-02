@@ -18,6 +18,7 @@
   "comics.continueReading": "Continue reading",
   "comics.create.fromStory": "Creating an adaptation of “{title}” — the details below are pre-filled from the story.",
   "comics.create.intro": "Publish sequential art — western comics, manga, or vertical-scroll webtoons. You can link it to your stories and encyclopedia later.",
+  "comics.requiresStoryteller": "Creating comics, manga, and webtoons requires a Storyteller subscription. {link}",
   "comics.create.submit": "Create {format}",
   "comics.create.title": "New {format}",
   "comics.cover.alt": "Cover image for {title}.",
@@ -189,5 +190,6 @@
   "comics.team.role.colorist": "Colorist",
   "comics.team.role.inker": "Inker",
   "comics.team.role.coverArtist": "Cover artist",
-  "comics.team.role.writer": "Writer"
+  "comics.team.role.writer": "Writer",
+  "comics.team.role.assistant": "Assistant"
 }

@@ -17,6 +17,7 @@
   "comics.continueReading": "繼續閱讀",
   "comics.create.fromStory": "正在建立「{title}」的改編作品 — 以下資料已從故事預先填入。",
   "comics.create.intro": "發佈連續藝術作品——西方漫畫、日本漫畫，或垂直捲動的網路漫畫。您稍後可將其連結至您的故事與百科。",
+  "comics.requiresStoryteller": "建立漫畫、日式漫畫與網路漫畫需要 Storyteller 訂閱。{link}",
   "comics.create.submit": "建立{format}",
   "comics.create.title": "新{format}",
   "comics.cover.alt": "{title} 的封面圖片。",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "封面繪師",
   "comics.team.role.writer": "編劇",
   "comics.pages.exportGuide": "從 Clip Studio Paint、Procreate 或其他繪圖 App 匯出？ <link>閱讀指南</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, other {已略過 # 個檔案}}（{names}）。請將頁面匯出為 PNG 或 JPEG — <link>查看指南</link>。"
+  "comics.pages.unsupportedSkipped": "{count, plural, other {已略過 # 個檔案}}（{names}）。請將頁面匯出為 PNG 或 JPEG — <link>查看指南</link>。",
+  "comics.team.role.assistant": "助理"
 }

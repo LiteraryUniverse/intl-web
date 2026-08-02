@@ -17,6 +17,7 @@
   "comics.continueReading": "མུ་མཐུད་ཀློག་པ",
   "comics.create.fromStory": "“{title}” ཡི་བསྒྱུར་བཟོ་ཞིག་བཟོ་བཞིན་པ — འོག་གི་ཞིབ་ཕྲ་རྣམས་སྒྲུང་ནས་སྔོན་ཚུད་ནས་བཀང་ཡོད།",
   "comics.create.intro": "རིམ་པའི་སྒྱུ་རྩལ་སྤེལ་བ — ནུབ་ཕྱོགས་རི་མོ་སྒྲུང་། Manga། ཡང་ན་ཀེར་ཕྲེང་དུ་བཤར་བའི Webtoon། རྗེས་སུ་རང་གི་སྒྲུང་དང་རིག་མཛོད་ལ་སྦྲེལ་ཐག་འཇོག་ཆོག",
+  "comics.requiresStoryteller": "Comics, manga, and webtoons བཟོ་བར Storyteller མཁོ། {link}",
   "comics.create.submit": "{format} བཟོ་བ",
   "comics.create.title": "{format} གསར་པ",
   "comics.cover.alt": "{title} ཡི་མདུན་ཤོག་པར་རིས།",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "ཚོན་འགོད་པ།",
   "comics.team.role.inker": "སྣག་ཚའི་རི་མོ་བ།",
   "comics.team.role.coverArtist": "མདུན་ཤོག་རི་མོ་བ།",
-  "comics.team.role.writer": "རྩོམ་པ་པོ།"
+  "comics.team.role.writer": "རྩོམ་པ་པོ།",
+  "comics.team.role.assistant": "རོགས་རམ་པ"
 }

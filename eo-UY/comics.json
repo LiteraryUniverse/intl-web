@@ -17,6 +17,7 @@
   "comics.continueReading": "Daŭrigi legadon",
   "comics.create.fromStory": "Kreado de adapto de “{title}” — la subaj detaloj estas antaŭplenigitaj el la rakonto.",
   "comics.create.intro": "Publikigu sinsekvan arton — okcidentajn komiksojn, mangaojn, aŭ vertikal-rulumajn webtoon-ojn. Vi povas ligi ĝin al viaj rakontoj kaj enciklopedio poste.",
+  "comics.requiresStoryteller": "Krei bildliteraturon, mangan kaj retumajn bildstriojn postulas abonon Storyteller. {link}",
   "comics.create.submit": "Krei verkon ({format})",
   "comics.create.title": "Nova {format}",
   "comics.cover.alt": "Kovrilbildo por {title}.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "Koloristo",
   "comics.team.role.inker": "Inkisto",
   "comics.team.role.coverArtist": "Kovrilartisto",
-  "comics.team.role.writer": "Verkisto"
+  "comics.team.role.writer": "Verkisto",
+  "comics.team.role.assistant": "Asistanto"
 }

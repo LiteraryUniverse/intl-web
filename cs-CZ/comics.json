@@ -17,6 +17,7 @@
   "comics.continueReading": "Pokračovat ve čtení",
   "comics.create.fromStory": "Vytváříte adaptaci díla „{title}“ — údaje níže jsou předvyplněny z příběhu.",
   "comics.create.intro": "Vydejte sekvenční umění — západní komiksy, mangu nebo webtoony s vertikálním posunem. Později je můžete propojit se svými příběhy a encyklopedií.",
+  "comics.requiresStoryteller": "Tvorba komiksů, mangy a webtoonů vyžaduje předplatné Storyteller. {link}",
   "comics.create.submit": "Vytvořit {format}",
   "comics.create.title": "Nový {format}",
   "comics.cover.alt": "Obálka: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Autor obálky",
   "comics.team.role.writer": "Scenárista",
   "comics.pages.exportGuide": "Exportujete z Clip Studio Paint, Procreate nebo jiné výtvarné aplikace? <link>Přečtěte si průvodce</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# soubor přeskočen} few {# soubory přeskočeny} many {# souborů přeskočeno} other {# souborů přeskočeno}} ({names}). Exportujte stránky jako PNG nebo JPEG — <link>viz průvodce</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# soubor přeskočen} few {# soubory přeskočeny} many {# souborů přeskočeno} other {# souborů přeskočeno}} ({names}). Exportujte stránky jako PNG nebo JPEG — <link>viz průvodce</link>.",
+  "comics.team.role.assistant": "Asistent"
 }

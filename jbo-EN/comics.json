@@ -17,6 +17,7 @@
   "comics.continueReading": "ranji lo nu tcidu",
   "comics.create.fromStory": "do ca'o finti lo fukpi be “{title}” — lo cnita datni cu ba'o se culno fi lo lisri",
   "comics.create.intro": "gubgau lo porsi pixra — ricfu pixra lisri, Manga, ja sraji sakli Webtoon. do kakne lo nu ba jorne sy lo do lisri .e lo sitna cukta",
+  "comics.requiresStoryteller": "lo nu zbasu lo karni je lo manga je lo webtoon cu se nitcu lo Storyteller jdima .i {link}",
   "comics.create.submit": "finti lo {format}",
   "comics.create.title": "cnino {format}",
   "comics.cover.alt": "lo gacri pixra be “{title}”",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "Colorist",
   "comics.team.role.inker": "Inker",
   "comics.team.role.coverArtist": "Cover artist",
-  "comics.team.role.writer": "Writer"
+  "comics.team.role.writer": "Writer",
+  "comics.team.role.assistant": "sidju"
 }

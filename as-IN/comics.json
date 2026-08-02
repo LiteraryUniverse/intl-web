@@ -17,6 +17,7 @@
   "comics.continueReading": "পঢ়া অব্যাহত ৰাখক",
   "comics.create.fromStory": "“{title}”-ৰ এটা ৰূপান্তৰ তৈয়াৰ কৰা হৈছে — তলৰ বিৱৰণসমূহ গল্পটোৰ পৰা আগতীয়াকৈ পূৰণ কৰা হৈছে।",
   "comics.create.intro": "ক্ৰমিক শিল্প প্ৰকাশ কৰক — পাশ্চাত্য কমিক, মাংগা, বা উলম্ব-স্ক্ৰল ৱেবটুন। আপুনি ইয়াক পিছত আপোনাৰ কাহিনী আৰু বিশ্বকোষৰ সৈতে সংযোগ কৰিব পাৰে।",
+  "comics.requiresStoryteller": "কমিছ, মাংগা আৰু ৱেবটুন সৃষ্টি কৰিবলৈ Storyteller চাবস্ক্ৰিপচনৰ প্ৰয়োজন। {link}",
   "comics.create.submit": "{format} সৃষ্টি কৰক",
   "comics.create.title": "নতুন {format}",
   "comics.cover.alt": "{title}-ৰ বেটুপাতৰ ছবি।",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "ৰং শিল্পী",
   "comics.team.role.inker": "চিয়াঁহী শিল্পী",
   "comics.team.role.coverArtist": "বেটুপাত শিল্পী",
-  "comics.team.role.writer": "লেখক"
+  "comics.team.role.writer": "লেখক",
+  "comics.team.role.assistant": "সহকাৰী"
 }

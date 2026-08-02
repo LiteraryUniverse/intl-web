@@ -17,6 +17,7 @@
   "comics.continueReading": "អានបន្ត",
   "comics.create.fromStory": "កំពុងបង្កើតកំណែកែសម្រួលនៃ “{title}” — ព័ត៌មានលម្អិតខាងក្រោមត្រូវបានបំពេញជាមុនពីរឿងដើម។",
   "comics.create.intro": "ចេញផ្សាយសិល្បៈតាមលំដាប់ — សៀវភៅតុក្កតាលោកខាងលិច Manga ឬ Webtoon រំកិលបញ្ឈរ។ អ្នកអាចភ្ជាប់វាទៅរឿង និងសព្វវចនាធិប្បាយរបស់អ្នកនៅពេលក្រោយ។",
+  "comics.requiresStoryteller": "ការបង្កើតកូមិច ម៉ង់ហ្គា និងវិបទូន ត្រូវការការជាវ Storyteller។ {link}",
   "comics.create.submit": "បង្កើត{format}",
   "comics.create.title": "{format}ថ្មី",
   "comics.cover.alt": "រូបភាពគម្របសម្រាប់ {title}។",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "អ្នកផាត់ពណ៌",
   "comics.team.role.inker": "អ្នកគូសទឹកខ្មៅ",
   "comics.team.role.coverArtist": "វិចិត្រករគម្រប",
-  "comics.team.role.writer": "អ្នកនិពន្ធ"
+  "comics.team.role.writer": "អ្នកនិពន្ធ",
+  "comics.team.role.assistant": "ជំនួយការ"
 }

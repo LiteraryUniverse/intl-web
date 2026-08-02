@@ -17,6 +17,7 @@
   "comics.continueReading": "Okumaya devam et",
   "comics.create.fromStory": "“{title}” uyarlaması oluşturuluyor — aşağıdaki bilgiler hikâyeden önceden dolduruldu.",
   "comics.create.intro": "Ardışık sanat yayınlayın — batı çizgi romanları, manga veya dikey kaydırmalı webtoon'lar. Daha sonra hikâyelerinize ve ansiklopediye bağlayabilirsiniz.",
+  "comics.requiresStoryteller": "Çizgi roman, manga ve webtoon oluşturmak için Storyteller aboneliği gerekir. {link}",
   "comics.create.submit": "{format} oluştur",
   "comics.create.title": "Yeni {format}",
   "comics.cover.alt": "{title} için kapak görseli.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Kapak sanatçısı",
   "comics.team.role.writer": "Senarist",
   "comics.pages.exportGuide": "Clip Studio Paint, Procreate veya başka bir çizim uygulamasından mı dışa aktarıyorsunuz? <link>Rehberi oku</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# dosya atlandı} other {# dosya atlandı}} ({names}). Sayfaları PNG veya JPEG olarak dışa aktarın — <link>rehbere bak</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# dosya atlandı} other {# dosya atlandı}} ({names}). Sayfaları PNG veya JPEG olarak dışa aktarın — <link>rehbere bak</link>.",
+  "comics.team.role.assistant": "Asistan"
 }

@@ -17,6 +17,7 @@
   "comics.continueReading": "続きを読む",
   "comics.create.fromStory": "「{title}」の漫画化作品を作成しています — 以下の項目は物語から自動入力されています。",
   "comics.create.intro": "連続したコマ作品を公開しましょう — 西洋のコミック、漫画、または縦スクロールのウェブトゥーン。あとで物語や百科事典にリンクできます。",
+  "comics.requiresStoryteller": "コミック、漫画、ウェブトゥーンの作成には Storyteller サブスクリプションが必要です。{link}",
   "comics.create.submit": "{format}を作成",
   "comics.create.title": "新しい{format}",
   "comics.cover.alt": "{title}の表紙画像。",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "表紙担当",
   "comics.team.role.writer": "原作者",
   "comics.pages.exportGuide": "CLIP STUDIO PAINT、Procreate、その他のお絵かきアプリから書き出していますか？ <link>ガイドを読む</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, other {# 件のファイルをスキップ}}（{names}）。ページを PNG または JPEG で書き出してください — <link>ガイドを見る</link>。"
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# 件のファイルをスキップ}}（{names}）。ページを PNG または JPEG で書き出してください — <link>ガイドを見る</link>。",
+  "comics.team.role.assistant": "アシスタント"
 }

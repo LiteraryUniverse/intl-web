@@ -17,6 +17,7 @@
   "comics.continueReading": "Lanturang ngwacen",
   "comics.create.fromStory": "Ngae adaptasi saking “{title}” — rincian ring sor sampun kaisi dumun saking satuanyané.",
   "comics.create.intro": "Wedarang seni sekuensial — komik barat, manga, utawi webtoon gulung tegak. Ragané prasida ngubungang ka satua lan ensiklopedi ragané rikawekasan.",
+  "comics.requiresStoryteller": "Ngardi komik, manga, lan webtoon merluang langganan Storyteller. {link}",
   "comics.create.submit": "Ngae {format}",
   "comics.create.title": "{format} anyar",
   "comics.cover.alt": "Gambar sampul anggen {title}.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "Pewarna",
   "comics.team.role.inker": "Peninta",
   "comics.team.role.coverArtist": "Seniman sampul",
-  "comics.team.role.writer": "Pangawi"
+  "comics.team.role.writer": "Pangawi",
+  "comics.team.role.assistant": "Asisten"
 }

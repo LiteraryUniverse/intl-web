@@ -17,6 +17,7 @@
   "comics.continueReading": "वाचन सुरू ठेवा",
   "comics.create.fromStory": "“{title}” चे रूपांतर तयार करत आहोत — खालील तपशील कथेमधून आधीच भरलेले आहेत.",
   "comics.create.intro": "अनुक्रमिक कला प्रकाशित करा — पाश्चात्य कॉमिक्स, मंगा, किंवा उभ्या-स्क्रोल वेबटून. तुम्ही नंतर ती तुमच्या कथा व विश्वकोशाशी जोडू शकता.",
+  "comics.requiresStoryteller": "कॉमिक्स, मांगा आणि वेबटून तयार करण्यासाठी Storyteller सदस्यता आवश्यक आहे. {link}",
   "comics.create.submit": "{format} तयार करा",
   "comics.create.title": "नवीन {format}",
   "comics.cover.alt": "{title} साठी मुखपृष्ठ प्रतिमा.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "रंग कलाकार",
   "comics.team.role.inker": "शाई कलाकार",
   "comics.team.role.coverArtist": "मुखपृष्ठ कलाकार",
-  "comics.team.role.writer": "लेखक"
+  "comics.team.role.writer": "लेखक",
+  "comics.team.role.assistant": "सहाय्यक"
 }

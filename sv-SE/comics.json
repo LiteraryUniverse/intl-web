@@ -17,6 +17,7 @@
   "comics.continueReading": "Fortsätt läsa",
   "comics.create.fromStory": "Skapar en adaption av ”{title}” — uppgifterna nedan är förifyllda från berättelsen.",
   "comics.create.intro": "Publicera sekventiell konst — västerländska serier, manga eller webtoons med vertikal skrollning. Du kan koppla den till dina berättelser och encyklopedi senare.",
+  "comics.requiresStoryteller": "Att skapa serier, manga och webtoons kräver en Storyteller-prenumeration. {link}",
   "comics.create.submit": "Skapa {format}",
   "comics.create.title": "Ny {format}",
   "comics.cover.alt": "Omslag: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Omslagskonstnär",
   "comics.team.role.writer": "Författare",
   "comics.pages.exportGuide": "Exporterar du från Clip Studio Paint, Procreate eller en annan ritapp? <link>Läs guiden</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} hoppades över ({names}). Exportera sidor som PNG eller JPEG — <link>se guiden</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} hoppades över ({names}). Exportera sidor som PNG eller JPEG — <link>se guiden</link>.",
+  "comics.team.role.assistant": "Assistent"
 }

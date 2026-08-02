@@ -17,6 +17,7 @@
   "comics.continueReading": "Jätka lugemist",
   "comics.create.fromStory": "Lood kohandust loost „{title}“ — allolevad andmed on loo põhjal eeltäidetud.",
   "comics.create.intro": "Avalda järjestikune kunst — läänelikud koomiksid, manga või vertikaalse kerimisega webtoon'id. Saad selle hiljem oma lugude ja entsüklopeediaga siduda.",
+  "comics.requiresStoryteller": "Koomiksite, manga ja veebitoonide loomine nõuab Storytelleri tellimust. {link}",
   "comics.create.submit": "Loo {format}",
   "comics.create.title": "Uus {format}",
   "comics.cover.alt": "Kaas: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Kaanekunstnik",
   "comics.team.role.writer": "Stsenarist",
   "comics.pages.exportGuide": "Kas ekspordid Clip Studio Paintist, Procreate’ist või muust joonistusäpist? <link>Loe juhendit</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# fail vahele jäetud} other {# faili vahele jäetud}} ({names}). Ekspordi lehed PNG või JPEG formaadis — <link>vaata juhendit</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fail vahele jäetud} other {# faili vahele jäetud}} ({names}). Ekspordi lehed PNG või JPEG formaadis — <link>vaata juhendit</link>.",
+  "comics.team.role.assistant": "Assistent"
 }

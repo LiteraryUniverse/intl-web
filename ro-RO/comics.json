@@ -17,6 +17,7 @@
   "comics.continueReading": "Continuă lectura",
   "comics.create.fromStory": "Creezi o adaptare a „{title}” — detaliile de mai jos sunt precompletate din poveste.",
   "comics.create.intro": "Publică artă secvențială — benzi desenate occidentale, manga sau webtoon-uri cu derulare verticală. O poți asocia mai târziu cu poveștile și enciclopedia ta.",
+  "comics.requiresStoryteller": "Crearea de benzi desenate, manga și webtoon-uri necesită un abonament Storyteller. {link}",
   "comics.create.submit": "Creează {format}",
   "comics.create.title": "{format} nou",
   "comics.cover.alt": "Copertă: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Artist de copertă",
   "comics.team.role.writer": "Scenarist",
   "comics.pages.exportGuide": "Exportați din Clip Studio Paint, Procreate sau altă aplicație de desen? <link>Citește ghidul</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# fișier omis} few {# fișiere omise} other {# de fișiere omise}} ({names}). Exportați paginile ca PNG sau JPEG — <link>vezi ghidul</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fișier omis} few {# fișiere omise} other {# de fișiere omise}} ({names}). Exportați paginile ca PNG sau JPEG — <link>vezi ghidul</link>.",
+  "comics.team.role.assistant": "Asistent"
 }

@@ -17,6 +17,7 @@
   "comics.continueReading": "Verder lezen",
   "comics.create.fromStory": "Je maakt een bewerking van “{title}” — de onderstaande gegevens zijn vooraf ingevuld vanuit het verhaal.",
   "comics.create.intro": "Publiceer sequentiële kunst — westerse strips, manga of verticaal scrollende webtoons. Je kunt het later koppelen aan je verhalen en encyclopedie.",
+  "comics.requiresStoryteller": "Voor het maken van strips, manga en webtoons is een Storyteller-abonnement vereist. {link}",
   "comics.create.submit": "{format} maken",
   "comics.create.title": "Nieuwe {format}",
   "comics.cover.alt": "Omslagafbeelding voor {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Coverartiest",
   "comics.team.role.writer": "Scenarist",
   "comics.pages.exportGuide": "Exporteer je uit Clip Studio Paint, Procreate of een andere teken-app? <link>Lees de gids</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# bestand} other {# bestanden}} overgeslagen ({names}). Exporteer pagina’s als PNG of JPEG — <link>zie de gids</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# bestand} other {# bestanden}} overgeslagen ({names}). Exporteer pagina’s als PNG of JPEG — <link>zie de gids</link>.",
+  "comics.team.role.assistant": "Assistent"
 }

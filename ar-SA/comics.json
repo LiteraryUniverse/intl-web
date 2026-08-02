@@ -17,6 +17,7 @@
   "comics.continueReading": "متابعة القراءة",
   "comics.create.fromStory": "إنشاء اقتباس من «{title}» — التفاصيل أدناه معبأة مسبقًا من القصة.",
   "comics.create.intro": "انشر فنًا تسلسليًا — قصص مصورة غربية أو مانغا أو ويبتون بتمرير عمودي. يمكنك ربطه بقصصك وموسوعتك لاحقًا.",
+  "comics.requiresStoryteller": "يتطلب إنشاء القصص المصورة والمانجا والويبتون اشتراك Storyteller. {link}",
   "comics.create.submit": "إنشاء {format}",
   "comics.create.title": "{format} جديد",
   "comics.cover.alt": "صورة غلاف لـ {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "رسام الغلاف",
   "comics.team.role.writer": "كاتب",
   "comics.pages.exportGuide": "هل تصدّر من Clip Studio Paint أو Procreate أو تطبيق رسم آخر؟ <link>اقرأ الدليل</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, zero {لم يُتخطَّ أي ملف} one {تم تخطي ملف واحد} two {تم تخطي ملفين} few {تم تخطي # ملفات} many {تم تخطي # ملفًا} other {تم تخطي # ملف}} ({names}). صدّر الصفحات كـ PNG أو JPEG — <link>انظر الدليل</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, zero {لم يُتخطَّ أي ملف} one {تم تخطي ملف واحد} two {تم تخطي ملفين} few {تم تخطي # ملفات} many {تم تخطي # ملفًا} other {تم تخطي # ملف}} ({names}). صدّر الصفحات كـ PNG أو JPEG — <link>انظر الدليل</link>.",
+  "comics.team.role.assistant": "مساعد"
 }

@@ -2,7 +2,8 @@
   "workshop.title": "Your work",
   "workshop.noneassigned": "You have not been assigned any yet.",
   "workshop.notavailable": "This feature is not yet available.",
-  "workshop.none": "You currently have no {type, select,\n      universe {universe}\n      story {story}\n      fanfiction {fan fiction}\n      other {}\n    }. Create one now!",
+  "workshop.none": "You currently have no {type, select,\n      universe {universe}\n      story {story}\n      fanfiction {fan fiction}\n      comic {comic}\n      other {}\n    }. Create one now!",
+  "workshop.comic.new": "Create a new comic",
   "workshop.collab": "Collaborative work",
   "workshop.betareadings": "Beta readings",
   "workshop.translations": "Translations",
@@ -645,5 +646,13 @@
   "workshop.statistics": "Author Statistics",
   "workshop.authorResume": "Author's Resume",
   "workshop.ai.llmstxt.copyStoryInfo": "Copy story information URL for AI services",
-  "workshop.ai.llmstxt.copyFullContent": "Copy full story content URL for AI services"
+  "workshop.ai.llmstxt.copyFullContent": "Copy full story content URL for AI services",
+  "workshop.team.role.coAuthor": "Co-author",
+  "workshop.team.role.editor": "Editor",
+  "workshop.team.role.proofreader": "Proofreader",
+  "workshop.team.role.sensitivityReader": "Sensitivity reader",
+  "workshop.team.role.researcher": "Researcher",
+  "workshop.team.role.illustrator": "Illustrator",
+  "workshop.team.role.cartographer": "Cartographer",
+  "workshop.team.role.loreKeeper": "Lore keeper"
 }

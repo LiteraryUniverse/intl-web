@@ -17,6 +17,7 @@
   "comics.continueReading": "კითხვის გაგრძელება",
   "comics.create.fromStory": "იქმნება „{title}“-ის ადაპტაცია — ქვემოთ მოცემული მონაცემები წინასწარ შევსებულია ამბიდან.",
   "comics.create.intro": "გამოაქვეყნეთ თანმიმდევრული ხელოვნება — დასავლური კომიქსები, მანგა ან ვერტიკალურად გადასაფურცლავი ვებტუნები. მოგვიანებით შეგიძლიათ დააკავშიროთ ის თქვენს ისტორიებსა და ენციკლოპედიასთან.",
+  "comics.requiresStoryteller": "კომიქსების, მანგასა და ვებტუნების შექმნას Storyteller-ის გამოწერა სჭირდება. {link}",
   "comics.create.submit": "{format}-ის შექმნა",
   "comics.create.title": "ახალი {format}",
   "comics.cover.alt": "ყდის სურათი {title}-ისთვის.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "კოლორისტი",
   "comics.team.role.inker": "მელნის მხატვარი",
   "comics.team.role.coverArtist": "გარეკანის მხატვარი",
-  "comics.team.role.writer": "სცენარისტი"
+  "comics.team.role.writer": "სცენარისტი",
+  "comics.team.role.assistant": "ასისტენტი"
 }

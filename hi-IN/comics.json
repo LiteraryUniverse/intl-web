@@ -17,6 +17,7 @@
   "comics.continueReading": "पढ़ना जारी रखें",
   "comics.create.fromStory": "“{title}” का रूपांतरण बनाया जा रहा है — नीचे दिए गए विवरण कहानी से पहले से भरे गए हैं।",
   "comics.create.intro": "अनुक्रमिक कला प्रकाशित करें — पश्चिमी कॉमिक्स, मंगा, या लंबवत-स्क्रॉल वेबटून। आप इसे बाद में अपनी कहानियों और विश्वकोश से लिंक कर सकते हैं।",
+  "comics.requiresStoryteller": "कॉमिक्स, मांगा और वेबटून बनाने के लिए Storyteller सदस्यता आवश्यक है। {link}",
   "comics.create.submit": "{format} बनाएं",
   "comics.create.title": "नया {format}",
   "comics.cover.alt": "{title} के लिए कवर छवि।",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "कवर कलाकार",
   "comics.team.role.writer": "लेखक",
   "comics.pages.exportGuide": "Clip Studio Paint, Procreate या किसी अन्य आर्ट ऐप से निर्यात कर रहे हैं? <link>गाइड पढ़ें</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# फ़ाइल छोड़ी गई} other {# फ़ाइलें छोड़ी गईं}} ({names}). पेज PNG या JPEG के रूप में निर्यात करें — <link>गाइड देखें</link>।"
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# फ़ाइल छोड़ी गई} other {# फ़ाइलें छोड़ी गईं}} ({names}). पेज PNG या JPEG के रूप में निर्यात करें — <link>गाइड देखें</link>।",
+  "comics.team.role.assistant": "सहायक"
 }

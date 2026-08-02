@@ -17,6 +17,7 @@
   "comics.continueReading": "Fortsett å lese",
   "comics.create.fromStory": "Oppretter en adaptasjon av «{title}» — detaljene nedenfor er forhåndsutfylt fra historien.",
   "comics.create.intro": "Publiser sekvenskunst — vestlige tegneserier, manga eller webtoon med vertikal rulling. Du kan koble den til historiene og leksikonet ditt senere.",
+  "comics.requiresStoryteller": "Å lage tegneserier, manga og webtoons krever et Storyteller-abonnement. {link}",
   "comics.create.submit": "Opprett {format}",
   "comics.create.title": "Ny {format}",
   "comics.cover.alt": "Omslag: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Omslagskunstner",
   "comics.team.role.writer": "Forfatter",
   "comics.pages.exportGuide": "Eksporterer du fra Clip Studio Paint, Procreate eller en annen tegneapp? <link>Les guiden</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} hoppet over ({names}). Eksporter sider som PNG eller JPEG — <link>se guiden</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# fil} other {# filer}} hoppet over ({names}). Eksporter sider som PNG eller JPEG — <link>se guiden</link>.",
+  "comics.team.role.assistant": "Assistent"
 }

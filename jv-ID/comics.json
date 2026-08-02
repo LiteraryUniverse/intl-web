@@ -17,6 +17,7 @@
   "comics.continueReading": "Terusake maca",
   "comics.create.fromStory": "Nggawe adaptasi saka “{title}” — rincian ing ngisor iki wis diisi luwih dhisik saka critane.",
   "comics.create.intro": "Terbitake seni urut — komik barat, manga, utawa webtoon gulung tegak. Sampeyan bisa nyambungake menyang crita lan ensiklopedia mengko.",
+  "comics.requiresStoryteller": "Nggawe komik, manga, lan webtoon mbutuhake langganan Storyteller. {link}",
   "comics.create.submit": "Gawe {format}",
   "comics.create.title": "{format} anyar",
   "comics.cover.alt": "Gambar sampul kanggo {title}.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "Pewarna",
   "comics.team.role.inker": "Peninta",
   "comics.team.role.coverArtist": "Seniman sampul",
-  "comics.team.role.writer": "Panulis"
+  "comics.team.role.writer": "Panulis",
+  "comics.team.role.assistant": "Asisten"
 }

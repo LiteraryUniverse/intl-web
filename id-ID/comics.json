@@ -17,6 +17,7 @@
   "comics.continueReading": "Lanjutkan membaca",
   "comics.create.fromStory": "Membuat adaptasi dari “{title}” — detail di bawah sudah diisi otomatis dari cerita.",
   "comics.create.intro": "Terbitkan seni sekuensial — komik barat, manga, atau webtoon gulir vertikal. Anda dapat menautkannya ke cerita dan ensiklopedia Anda nanti.",
+  "comics.requiresStoryteller": "Membuat komik, manga, dan webtoon memerlukan langganan Storyteller. {link}",
   "comics.create.submit": "Buat {format}",
   "comics.create.title": "{format} baru",
   "comics.cover.alt": "Gambar sampul untuk {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Ilustrator sampul",
   "comics.team.role.writer": "Penulis",
   "comics.pages.exportGuide": "Mengekspor dari Clip Studio Paint, Procreate, atau aplikasi gambar lain? <link>Baca panduan</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, other {# file dilewati}} ({names}). Ekspor halaman sebagai PNG atau JPEG — <link>lihat panduan</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# file dilewati}} ({names}). Ekspor halaman sebagai PNG atau JPEG — <link>lihat panduan</link>.",
+  "comics.team.role.assistant": "Asisten"
 }

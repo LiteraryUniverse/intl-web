@@ -17,6 +17,7 @@
   "comics.continueReading": "చదవడం కొనసాగించు",
   "comics.create.fromStory": "“{title}” కథ యొక్క అనుసరణ సృష్టించబడుతోంది — క్రింది వివరాలు కథ నుండి ముందుగానే నింపబడ్డాయి.",
   "comics.create.intro": "క్రమానుగత కళను ప్రచురించండి — పాశ్చాత్య కామిక్స్, మంగా లేదా నిలువు-స్క్రోల్ వెబ్‌టూన్‌లు. దీన్ని తర్వాత మీ కథలు మరియు ఎన్‌సైక్లోపీడియాతో లింక్ చేయవచ్చు.",
+  "comics.requiresStoryteller": "కామిక్స్, మాంగా మరియు వెబ్‌టూన్‌లు సృష్టించడానికి Storyteller సబ్‌స్క్రిప్షన్ అవసరం. {link}",
   "comics.create.submit": "{format} సృష్టించండి",
   "comics.create.title": "కొత్త {format}",
   "comics.cover.alt": "{title} కోసం కవర్ చిత్రం.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "రంగుల కళాకారుడు",
   "comics.team.role.inker": "సిరా కళాకారుడు",
   "comics.team.role.coverArtist": "కవర్ కళాకారుడు",
-  "comics.team.role.writer": "రచయిత"
+  "comics.team.role.writer": "రచయిత",
+  "comics.team.role.assistant": "సహాయకుడు"
 }

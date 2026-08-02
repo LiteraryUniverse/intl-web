@@ -17,6 +17,7 @@
   "comics.continueReading": "Sambung membaca",
   "comics.create.fromStory": "Mencipta adaptasi “{title}” — butiran di bawah telah diisi terlebih dahulu daripada cerita.",
   "comics.create.intro": "Terbitkan seni jujukan — komik barat, manga, atau webtoon tatal menegak. Anda boleh memautkannya ke cerita dan ensiklopedia anda kemudian.",
+  "comics.requiresStoryteller": "Mencipta komik, manga dan webtoon memerlukan langganan Storyteller. {link}",
   "comics.create.submit": "Cipta {format}",
   "comics.create.title": "{format} baharu",
   "comics.cover.alt": "Imej kulit untuk {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Artis kulit buku",
   "comics.team.role.writer": "Penulis",
   "comics.pages.exportGuide": "Mengeksport dari Clip Studio Paint, Procreate, atau aplikasi seni lain? <link>Baca panduan</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, other {# fail dilangkau}} ({names}). Eksport halaman sebagai PNG atau JPEG — <link>lihat panduan</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, other {# fail dilangkau}} ({names}). Eksport halaman sebagai PNG atau JPEG — <link>lihat panduan</link>.",
+  "comics.team.role.assistant": "Pembantu"
 }

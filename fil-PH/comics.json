@@ -17,6 +17,7 @@
   "comics.continueReading": "Ipagpatuloy ang pagbabasa",
   "comics.create.fromStory": "Gumagawa ng adaptasyon ng “{title}” — ang mga detalye sa ibaba ay paunang napunan mula sa kuwento.",
   "comics.create.intro": "Maglathala ng sequential art — western comics, manga, o vertical-scroll na webtoon. Maaari mo itong i-link sa iyong mga kuwento at encyclopedia sa ibang pagkakataon.",
+  "comics.requiresStoryteller": "Kailangan ng Storyteller subscription para gumawa ng comics, manga, at webtoons. {link}",
   "comics.create.submit": "Gumawa ng {format}",
   "comics.create.title": "Bagong {format}",
   "comics.cover.alt": "Larawan ng pabalat para sa {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Artist ng pabalat",
   "comics.team.role.writer": "Manunulat",
   "comics.pages.exportGuide": "Nag-e-export mula sa Clip Studio Paint, Procreate, o ibang art app? <link>Basahin ang gabay</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# file} other {# files}} nilaktawan ({names}). I-export ang mga pahina bilang PNG o JPEG — <link>tingnan ang gabay</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# file} other {# files}} nilaktawan ({names}). I-export ang mga pahina bilang PNG o JPEG — <link>tingnan ang gabay</link>.",
+  "comics.team.role.assistant": "Assistant"
 }

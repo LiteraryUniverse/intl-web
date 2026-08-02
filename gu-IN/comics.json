@@ -17,6 +17,7 @@
   "comics.continueReading": "વાંચવાનું ચાલુ રાખો",
   "comics.create.fromStory": "“{title}”નું રૂપાંતરણ બનાવી રહ્યાં છીએ — નીચેની વિગતો વાર્તામાંથી પહેલેથી ભરેલી છે.",
   "comics.create.intro": "ક્રમિક કલા પ્રકાશિત કરો — પશ્ચિમી કૉમિક્સ, મંગા, અથવા ઊભી-સ્ક્રોલ વેબટૂન. તમે તેને પછીથી તમારી વાર્તાઓ અને જ્ઞાનકોશ સાથે લિંક કરી શકો છો.",
+  "comics.requiresStoryteller": "કોમિક્સ, માંગા અને વેબટૂન બનાવવા માટે Storyteller સબ્સ્ક્રિપ્શન જરૂરી છે. {link}",
   "comics.create.submit": "{format} બનાવો",
   "comics.create.title": "નવું {format}",
   "comics.cover.alt": "{title} માટે કવર છબી.",
@@ -172,5 +173,6 @@
   "comics.team.role.colorist": "રંગ કલાકાર",
   "comics.team.role.inker": "શાહી કલાકાર",
   "comics.team.role.coverArtist": "કવર કલાકાર",
-  "comics.team.role.writer": "લેખક"
+  "comics.team.role.writer": "લેખક",
+  "comics.team.role.assistant": "સહાયક"
 }

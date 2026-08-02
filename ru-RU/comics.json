@@ -17,6 +17,7 @@
   "comics.continueReading": "Продолжить чтение",
   "comics.create.fromStory": "Создание адаптации «{title}» — данные ниже предзаполнены из истории.",
   "comics.create.intro": "Публикуйте последовательное искусство — западные комиксы, мангу или вертикальные вебтуны. Позже вы сможете связать это со своими историями и энциклопедией.",
+  "comics.requiresStoryteller": "Для создания комиксов, манги и вебтунов нужна подписка Storyteller. {link}",
   "comics.create.submit": "Создать {format}",
   "comics.create.title": "Новый {format}",
   "comics.cover.alt": "Обложка: {title}.",
@@ -174,5 +175,6 @@
   "comics.team.role.coverArtist": "Художник обложки",
   "comics.team.role.writer": "Сценарист",
   "comics.pages.exportGuide": "Экспортируете из Clip Studio Paint, Procreate или другого графического приложения? <link>Читать руководство</link>",
-  "comics.pages.unsupportedSkipped": "{count, plural, one {# файл пропущен} few {# файла пропущено} many {# файлов пропущено} other {# файла пропущено}} ({names}). Экспортируйте страницы как PNG или JPEG — <link>см. руководство</link>."
+  "comics.pages.unsupportedSkipped": "{count, plural, one {# файл пропущен} few {# файла пропущено} many {# файлов пропущено} other {# файла пропущено}} ({names}). Экспортируйте страницы как PNG или JPEG — <link>см. руководство</link>.",
+  "comics.team.role.assistant": "Ассистент"
 }
