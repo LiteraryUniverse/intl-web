@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Fakturapdf",
   "payment.invoice.total": "Totalt",
   "payment.invoice.what": "Fakturabeskrivelse",
+  "payment.testMode.docs": "Stripe-dokumentasjon",
+  "payment.testMode.short": "Dette er ikke et live-miljø!",
+  "payment.testMode.warning": "Dette er ikke et live-miljø, så bruk testkort i henhold til {docs}.",
   "payment.stripe.powered": "Levert av ",
   "payment.listMethods.card": "Kort",
   "payment.expiresAt": "Utløper {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Registrer deg for en gratis Literary Universe-konto og begynn å skape!",
   "plans.button.seeComparison": "Finn ut mer om planer og priser på sammenligningssiden vår!",
   "plans.button.chooseThisSubscription": "Velg denne planen",
+  "plans.button.openingCheckout": "Åpner utsjekkingen…",
   "plans.button.chooseFree": "Kom i gang gratis",
   "plans.features.allInPreviousTiers": "Alt i forrige nivå",
   "plan.button.chooseNow": "Velg ditt Literary Universe-abonnement nå",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Avansert bloggdesign (egendefinert CSS)",
   "plans.feature.luSubdomain": "Blogg på ditt eget Literary Universe-underdomene",
-  "plans.feature.customDomain": "Blogg på ditt eget domene",
-  "payment.testMode.docs": "Stripe-dokumentasjon",
-  "payment.testMode.short": "Dette er ikke et live-miljø!",
-  "payment.testMode.warning": "Dette er ikke et live-miljø, så bruk testkort i henhold til {docs}."
+  "plans.feature.customDomain": "Blogg på ditt eget domene"
 }

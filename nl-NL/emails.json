@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} nodigde u uit om lid te worden van \"{orgName}\"",
   "email.notifications.orgInvite.title": "U bent uitgenodigd om lid te worden van {orgName}!",
   "email.notifications.orgInvite.details": "Uitgenodigd door: {inviterName}",
+  "email.notifications.orgInvite.role": "Rol: {role}",
   "email.notifications.orgInvite.cta": "Uitnodiging herzien",
   "email.notifications.dailyDigest.subject": "Uw dagelijkse updates",
   "email.notifications.dailyDigest.title": "Uw dagelijkse updates",

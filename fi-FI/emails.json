@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} kutsui sinut liittymään \"{orgName}\"",
   "email.notifications.orgInvite.title": "Olet tervetullut mukaan {orgName}!",
   "email.notifications.orgInvite.details": "Kutsujana: {inviterName}",
+  "email.notifications.orgInvite.role": "Rooli: {role}",
   "email.notifications.orgInvite.cta": "Arvostelukutsu",
   "email.notifications.dailyDigest.subject": "Päivittäiset päivitykset",
   "email.notifications.dailyDigest.title": "Päivittäiset päivitykset",

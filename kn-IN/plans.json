@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "ಚಲಾನೆ PDF",
   "payment.invoice.total": "ಒಟ್ಟು",
   "payment.invoice.what": "ಚಲಾನೆ ವಿವರಣೆ",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "ಪ್ರಾಮುಖ್ಯತೆ ನೀಡಲಾಗಿದೆ ",
   "payment.listMethods.card": "ಕಾರ್ಡ್‌ಗಳು",
   "payment.expiresAt": "ಅವಧಿ ಮುಗಿಸುವುದು {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Sign-up for a free Literary Universe account and start creating!",
   "plans.button.seeComparison": "Find out more about plans and pricing on our comparison page!",
   "plans.button.chooseThisSubscription": "Select this plan",
+  "plans.button.openingCheckout": "ಚೆಕ್‌ಔಟ್ ತೆರೆಯುತ್ತಿದೆ…",
   "plans.button.chooseFree": "Start for free",
   "plans.features.allInPreviousTiers": "Everything in previous tier",
   "plan.button.chooseNow": "Choose your Literary Universe plan now",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ಸುಧಾರಿತ ಬ್ಲಾಗ್ ಡಿಸೈನ್ (ಕಸ್ಟಮ್ CSS)",
   "plans.feature.luSubdomain": "ನಿಮ್ಮ ಸ್ವಂತ Literary Universe ಸಬ್‌ಡೊಮೇನ್‌ನಲ್ಲಿ ಬ್ಲಾಗ್",
-  "plans.feature.customDomain": "ನಿಮ್ಮ ಸ್ವಂತ ಡೊಮೇನ್‌ನಲ್ಲಿ ಬ್ಲಾಗ್",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "ನಿಮ್ಮ ಸ್ವಂತ ಡೊಮೇನ್‌ನಲ್ಲಿ ಬ್ಲಾಗ್"
 }

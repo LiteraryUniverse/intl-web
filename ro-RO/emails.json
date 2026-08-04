@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} v-a invitat să vă alăturați \"{orgName}\"",
   "email.notifications.orgInvite.title": "Sunteți invitați să vă alăturați {orgName}!",
   "email.notifications.orgInvite.details": "Invitat de: {inviterName}",
+  "email.notifications.orgInvite.role": "Rol: {role}",
   "email.notifications.orgInvite.cta": "Invitație la revizuire",
   "email.notifications.dailyDigest.subject": "Actualizările dvs. zilnice",
   "email.notifications.dailyDigest.title": "Actualizările dvs. zilnice",

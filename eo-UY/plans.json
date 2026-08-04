@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Fakturo PDF",
   "payment.invoice.total": "Sumo",
   "payment.invoice.what": "Fakturo priskribo",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "Potencigita de ",
   "payment.listMethods.card": "Kartoj",
   "payment.expiresAt": "Eksvalidiĝas je {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Aliĝu al senpaga Literary Universe konto kaj komencu krei!",
   "plans.button.seeComparison": "Eliru pli pri planoj kaj prezoj sur nia kompara paĝo!",
   "plans.button.chooseThisSubscription": "Elektu tiun planon",
+  "plans.button.openingCheckout": "Malfermante la pagpaĝon…",
   "plans.button.chooseFree": "Komencu senpage",
   "plans.features.allInPreviousTiers": "Ĉio en antaŭa nivelo",
   "plan.button.chooseNow": "Elektu vian Literary Universe planon nun",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Altnivela bloga fasono (propra CSS)",
   "plans.feature.luSubdomain": "Blogo en via propra subdomajno de Literary Universe",
-  "plans.feature.customDomain": "Blogo en via propra domajno",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "Blogo en via propra domajno"
 }

@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "கணக்குப் பற்றுப் படி PDF",
   "payment.invoice.total": "மொத்தம்",
   "payment.invoice.what": "கணக்குப் பற்று விவரம்",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "ஆற்றலளிக்கிறது ",
   "payment.listMethods.card": "அட்டைகள்",
   "payment.expiresAt": "காலாவதியாகிறது {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "இலவச லிட்டரரி யுனிவர்ஸ் கணக்கிற்குப் பதிவுசெய்து உருவாக்கத் தொடங்குங்கள்!",
   "plans.button.seeComparison": "எங்கள் ஒப்பீட்டுப் பக்கத்தில் திட்டங்கள் மற்றும் விலை நிர்ணயம் பற்றி மேலும் அறியுங்கள்!",
   "plans.button.chooseThisSubscription": "இந்தத் திட்டத்தைத் தேர்ந்தெடுக்கவும்",
+  "plans.button.openingCheckout": "செக்அவுட்டைத் திறக்கிறது…",
   "plans.button.chooseFree": "இலவசமாகத் தொடங்குங்கள்",
   "plans.features.allInPreviousTiers": "முந்தைய அடுக்குகளில் உள்ள அனைத்தும்",
   "plan.button.chooseNow": "உங்கள் இலக்கியப் பிரபஞ்சத் திட்டத்தை இப்போது தேர்ந்தெடுங்கள்",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "மேம்பட்ட வலைப்பதிவு வடிவமைப்பு (தனிப்பயன் CSS)",
   "plans.feature.luSubdomain": "உங்கள் சொந்த Literary Universe துணை டொமைனில் வலைப்பதிவு",
-  "plans.feature.customDomain": "உங்கள் சொந்த டொமைனில் வலைப்பதிவு",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "உங்கள் சொந்த டொமைனில் வலைப்பதிவு"
 }

@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "송장 PDF",
   "payment.invoice.total": "총액",
   "payment.invoice.what": "송장 설명",
+  "payment.testMode.docs": "Stripe 문서",
+  "payment.testMode.short": "이 환경은 라이브가 아닙니다!",
+  "payment.testMode.warning": "이 환경은 라이브가 아니므로 {docs}에 따라 테스트 카드를 사용하세요.",
   "payment.stripe.powered": "제공: ",
   "payment.listMethods.card": "카드",
   "payment.expiresAt": "만료일 {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "무료 Literary Universe 계정을 등록하고 창작을 시작하세요!",
   "plans.button.seeComparison": "요금제와 가격에 대해 자세히 알아보세요!",
   "plans.button.chooseThisSubscription": "이 요금제 선택하기",
+  "plans.button.openingCheckout": "결제 페이지를 여는 중…",
   "plans.button.chooseFree": "무료로 시작하기",
   "plans.features.allInPreviousTiers": "이전 단계의 모든 기능",
   "plan.button.chooseNow": "지금 Literary Universe 요금제를 선택하세요",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "고급 블로그 디자인(사용자 지정 CSS)",
   "plans.feature.luSubdomain": "Literary Universe 서브도메인 블로그",
-  "plans.feature.customDomain": "자체 도메인 블로그",
-  "payment.testMode.docs": "Stripe 문서",
-  "payment.testMode.short": "이 환경은 라이브가 아닙니다!",
-  "payment.testMode.warning": "이 환경은 라이브가 아니므로 {docs}에 따라 테스트 카드를 사용하세요."
+  "plans.feature.customDomain": "자체 도메인 블로그"
 }

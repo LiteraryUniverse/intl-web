@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "請求書のpdf",
   "payment.invoice.total": "合計",
   "payment.invoice.what": "請求書詳細",
+  "payment.testMode.docs": "Stripeドキュメント",
+  "payment.testMode.short": "これは本番環境ではありません！",
+  "payment.testMode.warning": "これは本番環境ではないため、{docs}に従ってテストカードを使用してください。",
   "payment.stripe.powered": "～で処理",
   "payment.listMethods.card": "カード",
   "payment.expiresAt": "有効期限は{month}/{year}です。",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Literary Universeの無料アカウントに登録し、作成を開始します！",
   "plans.button.seeComparison": "プランと価格の詳細は、比較ページでご確認ください！",
   "plans.button.chooseThisSubscription": "このプランを選択する",
+  "plans.button.openingCheckout": "チェックアウトを開いています…",
   "plans.button.chooseFree": "無料で始める",
   "plans.features.allInPreviousTiers": "これまでのものは前の階層にあります",
   "plan.button.chooseNow": "Literary Universeのプランを今すぐ選ぶ",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "高度なブログデザイン（カスタムCSS）",
   "plans.feature.luSubdomain": "Literary Universe のサブドメインでブログを公開",
-  "plans.feature.customDomain": "独自ドメインでブログを公開",
-  "payment.testMode.docs": "Stripeドキュメント",
-  "payment.testMode.short": "これは本番環境ではありません！",
-  "payment.testMode.warning": "これは本番環境ではないため、{docs}に従ってテストカードを使用してください。"
+  "plans.feature.customDomain": "独自ドメインでブログを公開"
 }

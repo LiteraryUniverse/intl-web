@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} sizi \"{orgName} \" adresine katılmaya davet etti.",
   "email.notifications.orgInvite.title": "{orgName} adresine katılmaya davetlisiniz!",
   "email.notifications.orgInvite.details": "Davet eden: {inviterName}",
+  "email.notifications.orgInvite.role": "Rol: {role}",
   "email.notifications.orgInvite.cta": "Davetiyeyi gözden geçirin",
   "email.notifications.dailyDigest.subject": "Günlük güncellemeleriniz",
   "email.notifications.dailyDigest.title": "Günlük güncellemeleriniz",

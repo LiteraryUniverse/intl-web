@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Factură PDF",
   "payment.invoice.total": "Total",
   "payment.invoice.what": "Descriere factură",
+  "payment.testMode.docs": "Documentație Stripe",
+  "payment.testMode.short": "Acesta nu este un mediu live!",
+  "payment.testMode.warning": "Acesta nu este un mediu live, deci folosește carduri de test conform {docs}.",
   "payment.stripe.powered": "Powered by ",
   "payment.listMethods.card": "Carduri",
   "payment.expiresAt": "Expiră {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Înregistrează-te pentru un cont gratuit Literary Universe și începe să creezi!",
   "plans.button.seeComparison": "Află mai multe despre planuri și prețuri pe pagina noastră de comparație!",
   "plans.button.chooseThisSubscription": "Selectează acest plan",
+  "plans.button.openingCheckout": "Se deschide checkout-ul…",
   "plans.button.chooseFree": "Începe gratuit",
   "plans.features.allInPreviousTiers": "Tot ce este inclus în nivelul anterior",
   "plan.button.chooseNow": "Alege-ți acum planul Literary Universe",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Design avansat de blog (CSS personalizat)",
   "plans.feature.luSubdomain": "Blog pe propriul subdomeniu Literary Universe",
-  "plans.feature.customDomain": "Blog pe propriul domeniu",
-  "payment.testMode.docs": "Documentație Stripe",
-  "payment.testMode.short": "Acesta nu este un mediu live!",
-  "payment.testMode.warning": "Acesta nu este un mediu live, deci folosește carduri de test conform {docs}."
+  "plans.feature.customDomain": "Blog pe propriul domeniu"
 }

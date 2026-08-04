@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} σας προσκάλεσε να συμμετάσχετε στο \"{orgName}\"",
   "email.notifications.orgInvite.title": "Σας προσκαλούμε να συμμετάσχετε στο {orgName}!",
   "email.notifications.orgInvite.details": "Προσκεκλημένος από: {inviterName}",
+  "email.notifications.orgInvite.role": "Ρόλος: {role}",
   "email.notifications.orgInvite.cta": "Πρόσκληση αναθεώρησης",
   "email.notifications.dailyDigest.subject": "Οι καθημερινές σας ενημερώσεις",
   "email.notifications.dailyDigest.title": "Οι καθημερινές σας ενημερώσεις",

@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF invois",
   "payment.invoice.total": "Jumlah",
   "payment.invoice.what": "Penerangan invois",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "Dikuasakan oleh ",
   "payment.listMethods.card": "Kad",
   "payment.expiresAt": "Tamat pada {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Daftar akaun Literary Universe percuma dan mula mencipta!",
   "plans.button.seeComparison": "Ketahui lebih lanjut tentang pelan dan harga di laman perbandingan kami!",
   "plans.button.chooseThisSubscription": "Pilih pelan ini",
+  "plans.button.openingCheckout": "Membuka checkout…",
   "plans.button.chooseFree": "Mula secara percuma",
   "plans.features.allInPreviousTiers": "Segala-galanya dalam tier sebelumnya",
   "plan.button.chooseNow": "Pilih pelan Literary Universe anda sekarang",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Reka bentuk blog lanjutan (CSS tersuai)",
   "plans.feature.luSubdomain": "Blog di subdomain Literary Universe anda sendiri",
-  "plans.feature.customDomain": "Blog di domain anda sendiri",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "Blog di domain anda sendiri"
 }

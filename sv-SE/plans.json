@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Fakturapdf",
   "payment.invoice.total": "Totalt",
   "payment.invoice.what": "Faktureringsbeskrivning",
+  "payment.testMode.docs": "Stripe-dokumentation",
+  "payment.testMode.short": "Detta är inte en skarp miljö!",
+  "payment.testMode.warning": "Detta är inte en skarp miljö, använd därför testkort enligt {docs}.",
   "payment.stripe.powered": "Drivs av ",
   "payment.listMethods.card": "Kort",
   "payment.expiresAt": "Utgår {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Registrera dig för ett gratis Literary Universe-konto och börja skapa!",
   "plans.button.seeComparison": "Läs mer om planer och prissättning på vår jämförelsesida!",
   "plans.button.chooseThisSubscription": "Välj den här prenumerationen",
+  "plans.button.openingCheckout": "Öppnar utcheckningen…",
   "plans.button.chooseFree": "Börja gratis",
   "plans.features.allInPreviousTiers": "Allt i föregående nivå",
   "plan.button.chooseNow": "Välj din Literary Universe-plan nu",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Avancerad bloggdesign (egen CSS)",
   "plans.feature.luSubdomain": "Blogg på din egen Literary Universe-subdomän",
-  "plans.feature.customDomain": "Blogg på din egen domän",
-  "payment.testMode.docs": "Stripe-dokumentation",
-  "payment.testMode.short": "Detta är inte en skarp miljö!",
-  "payment.testMode.warning": "Detta är inte en skarp miljö, använd därför testkort enligt {docs}."
+  "plans.feature.customDomain": "Blogg på din egen domän"
 }

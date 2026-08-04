@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} Tugadh cuireadh duit a bheith páirteach in \"{orgName}\"",
   "email.notifications.orgInvite.title": "Tugtar cuireadh duit a bheith páirteach in {orgName}!",
   "email.notifications.orgInvite.details": "Ar cuireadh ó: {inviterName}",
+  "email.notifications.orgInvite.role": "Ról: {role}",
   "email.notifications.orgInvite.cta": "Cuireadh chun athbhreithniú a dhéanamh",
   "email.notifications.dailyDigest.subject": "Do nuashonruithe laethúla",
   "email.notifications.dailyDigest.title": "Do nuashonruithe laethúla",

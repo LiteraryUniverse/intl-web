@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} запросив вас приєднатися до \"{orgName}\"",
   "email.notifications.orgInvite.title": "Запрошуємо вас приєднатися до {orgName}!",
   "email.notifications.orgInvite.details": "На запрошення: {inviterName}",
+  "email.notifications.orgInvite.role": "Роль: {role}",
   "email.notifications.orgInvite.cta": "Запрошення на огляд",
   "email.notifications.dailyDigest.subject": "Ваші щоденні оновлення",
   "email.notifications.dailyDigest.title": "Ваші щоденні оновлення",

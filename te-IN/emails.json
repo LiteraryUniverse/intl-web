@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "Invitation to join an organization",
   "email.notifications.orgInvite.title": "You're invited to join {orgName}",
   "email.notifications.orgInvite.details": "Inviter: {inviterName}",
+  "email.notifications.orgInvite.role": "పాత్ర: {role}",
   "email.notifications.orgInvite.cta": "Review invitation",
   "email.notifications.dailyDigest.subject": "Your daily updates",
   "email.notifications.dailyDigest.title": "Your daily updates",

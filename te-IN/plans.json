@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "వాయిస్ పిడిఎఫ్",
   "payment.invoice.total": "మొత్తం",
   "payment.invoice.what": "వాయిస్ వివరణ",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "ద్వారా ప్రాప్యత చేసినది ",
   "payment.listMethods.card": "కార్డులు",
   "payment.expiresAt": "ముగింపు {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Sign-up for a free Literary Universe account and start creating!",
   "plans.button.seeComparison": "Find out more about plans and pricing on our comparison page!",
   "plans.button.chooseThisSubscription": "Select this plan",
+  "plans.button.openingCheckout": "చెక్అవుట్ తెరుస్తోంది…",
   "plans.button.chooseFree": "Start for free",
   "plans.features.allInPreviousTiers": "Everything in previous tier",
   "plan.button.chooseNow": "Choose your Literary Universe plan now",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "అధునాతన బ్లాగ్ డిజైన్ (కస్టమ్ CSS)",
   "plans.feature.luSubdomain": "మీ సొంత Literary Universe సబ్‌డొమైన్‌లో బ్లాగ్",
-  "plans.feature.customDomain": "మీ సొంత డొమైన్‌లో బ్లాగ్",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "మీ సొంత డొమైన్‌లో బ్లాగ్"
 }

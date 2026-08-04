@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF ng invoice",
   "payment.invoice.total": "Kabuuan",
   "payment.invoice.what": "Paglalarawan ng invoice",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "Powered by ",
   "payment.listMethods.card": "Mga Card",
   "payment.expiresAt": "Magwawakas sa {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Mag-sign up para sa libreng account sa Literary Universe at magsimulang lumikha!",
   "plans.button.seeComparison": "Alamin ang iba pang tungkol sa mga plano at presyo sa aming pahina ng paghahambing!",
   "plans.button.chooseThisSubscription": "Pumili ng plan na ito",
+  "plans.button.openingCheckout": "Binubuksan ang checkout…",
   "plans.button.chooseFree": "Magsimula ng libre",
   "plans.features.allInPreviousTiers": "Lahat ng nasa nakaraang antas",
   "plan.button.chooseNow": "Piliin ang iyong Literary Universe plan ngayon",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Advanced na disenyo ng blog (custom na CSS)",
   "plans.feature.luSubdomain": "Blog sa sarili mong Literary Universe subdomain",
-  "plans.feature.customDomain": "Blog sa sarili mong domain",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "Blog sa sarili mong domain"
 }

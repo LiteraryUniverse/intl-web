@@ -119,6 +119,9 @@
   "payment.invoice.pdf": ".i .e'u pa selkei jdima cu se pdf",
   "payment.invoice.total": ".i .e'u pa selkei jdima cu se jmina",
   "payment.invoice.what": ".i .e'u pa selkei jdima cu se smuni",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": ".i .e'u pa selkei jdima cu se jalge lo ka ",
   "payment.listMethods.card": ".i .e'u pa selkei jdima cu se liste lo kard",
   "payment.expiresAt": "Expires {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "jboske seltcana se sinma lo nunji be lo nu se joi lo se finti lo nu finti",
   "plans.button.seeComparison": "jboske seltcana e selmabru se joi lo nunji be lo nu se joi lo nu jdice",
   "plans.button.chooseThisSubscription": "jboske seltcana se jdice",
+  "plans.button.openingCheckout": "ca'o kalri lo te vecnu…",
   "plans.button.chooseFree": "jboske se sinma lo nu se joi lo nu finti",
   "plans.features.allInPreviousTiers": "jboske seltcana se sinma lo nunji be lo nu finti lo nu se joi lo se finti",
   "plan.button.chooseNow": "jboske seltcana be do se jdice",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "clani blogu tarmi (steci CSS)",
   "plans.feature.luSubdomain": "blogu fi lo do Literary Universe klesi samjudri",
-  "plans.feature.customDomain": "blogu fi lo do samjudri",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "blogu fi lo do samjudri"
 }

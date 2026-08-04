@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} 邀請您加入 \"{orgName}\"",
   "email.notifications.orgInvite.title": "歡迎您加入 {orgName}！",
   "email.notifications.orgInvite.details": "受邀者： {inviterName}",
+  "email.notifications.orgInvite.role": "角色：{role}",
   "email.notifications.orgInvite.cta": "審核邀請",
   "email.notifications.dailyDigest.subject": "您的每日更新",
   "email.notifications.dailyDigest.title": "您的每日更新",

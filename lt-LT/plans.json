@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Sąskaitos PDF",
   "payment.invoice.total": "Viso",
   "payment.invoice.what": "Sąskaitos aprašymas",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "Aptarnauja ",
   "payment.listMethods.card": "Kortelės",
   "payment.expiresAt": "Pasibaigs {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Užsiregistruokite nemokamai „Literary Universe“ paskyrai ir pradėkite kurti!",
   "plans.button.seeComparison": "Sužinokite daugiau apie planus ir kainas mūsų palyginimo puslapyje!",
   "plans.button.chooseThisSubscription": "Pasirinkite šį planą",
+  "plans.button.openingCheckout": "Atveriamas apmokėjimas…",
   "plans.button.chooseFree": "Pradėkite nemokamai",
   "plans.features.allInPreviousTiers": "Viskas, kas buvo ankstesniame lygyje",
   "plan.button.chooseNow": "Pasirinkite savo „Literary Universe“ planą dabar",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Išplėstinis tinklaraščio dizainas (savas CSS)",
   "plans.feature.luSubdomain": "Tinklaraštis jūsų Literary Universe subdomene",
-  "plans.feature.customDomain": "Tinklaraštis jūsų domene",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "Tinklaraštis jūsų domene"
 }

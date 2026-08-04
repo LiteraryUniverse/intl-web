@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Factuur pdf",
   "payment.invoice.total": "Totaal",
   "payment.invoice.what": "Factuurbeschrijving",
+  "payment.testMode.docs": "Stripe-documentatie",
+  "payment.testMode.short": "Dit is geen live omgeving!",
+  "payment.testMode.warning": "Dit is geen live omgeving, gebruik daarom testkaarten volgens {docs}.",
   "payment.stripe.powered": "Aangedreven door ",
   "payment.listMethods.card": "Kaarten",
   "payment.expiresAt": "Verloopt op {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Meld u aan voor een gratis Literary Universe-account en begin met creëren!",
   "plans.button.seeComparison": "Ontdek meer over plannen en prijzen op onze vergelijkingspagina!",
   "plans.button.chooseThisSubscription": "Selecteer dit plan",
+  "plans.button.openingCheckout": "Afrekenen openen…",
   "plans.button.chooseFree": "Begin gratis",
   "plans.features.allInPreviousTiers": "Alles in vorige laag",
   "plan.button.chooseNow": "Kies nu uw Literary Universe-plan",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Avonturier",
   "plans.feature.customBlogCss": "Geavanceerd blogontwerp (eigen CSS)",
   "plans.feature.luSubdomain": "Blog op je eigen Literary Universe-subdomein",
-  "plans.feature.customDomain": "Blog op je eigen domein",
-  "payment.testMode.docs": "Stripe-documentatie",
-  "payment.testMode.short": "Dit is geen live omgeving!",
-  "payment.testMode.warning": "Dit is geen live omgeving, gebruik daarom testkaarten volgens {docs}."
+  "plans.feature.customDomain": "Blog op je eigen domein"
 }

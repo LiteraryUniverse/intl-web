@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "चालान पीडीएफ",
   "payment.invoice.total": "कुल",
   "payment.invoice.what": "चालान विवरण",
+  "payment.testMode.docs": "Stripe दस्तावेज़ीकरण",
+  "payment.testMode.short": "यह लाइव वातावरण नहीं है!",
+  "payment.testMode.warning": "यह लाइव वातावरण नहीं है, इसलिए {docs} के अनुसार परीक्षण कार्ड उपयोग करें।",
   "payment.stripe.powered": "द्वारा प्रदर्शित ",
   "payment.listMethods.card": "कार्ड",
   "payment.expiresAt": "समाप्त होता है {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "एक मुफ़्त लिटररी यूनिवर्स खाता बनाएं और बनाना शुरू करें!",
   "plans.button.seeComparison": "हमारे तुलना पृष्ठ पर योजनाओं और मूल्य जानें!",
   "plans.button.chooseThisSubscription": "इस योजना का चयन करें",
+  "plans.button.openingCheckout": "चेकआउट खुल रहा है…",
   "plans.button.chooseFree": "मुफ़्त में शुरू करें",
   "plans.features.allInPreviousTiers": "पिछले टियर में सब कुछ",
   "plan.button.chooseNow": "अपनी लिटररी यूनिवर्स योजना अब चुनें",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "उन्नत ब्लॉग डिज़ाइन (कस्टम CSS)",
   "plans.feature.luSubdomain": "आपके अपने Literary Universe सबडोमेन पर ब्लॉग",
-  "plans.feature.customDomain": "आपके अपने डोमेन पर ब्लॉग",
-  "payment.testMode.docs": "Stripe दस्तावेज़ीकरण",
-  "payment.testMode.short": "यह लाइव वातावरण नहीं है!",
-  "payment.testMode.warning": "यह लाइव वातावरण नहीं है, इसलिए {docs} के अनुसार परीक्षण कार्ड उपयोग करें।"
+  "plans.feature.customDomain": "आपके अपने डोमेन पर ब्लॉग"
 }

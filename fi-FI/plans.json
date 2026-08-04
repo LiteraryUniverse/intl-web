@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Laskun PDF",
   "payment.invoice.total": "Yhteensä",
   "payment.invoice.what": "Laskun kuvaus",
+  "payment.testMode.docs": "Stripe-dokumentaatio",
+  "payment.testMode.short": "Tämä ei ole tuotantoympäristö!",
+  "payment.testMode.warning": "Tämä ei ole tuotantoympäristö, joten käytä testikortteja {docs} mukaan.",
   "payment.stripe.powered": "Powered by ",
   "payment.listMethods.card": "Kortit",
   "payment.expiresAt": "Vanhenee {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Rekisteröidy ilmaiseen Literary Universe -tiliin ja aloita luominen!",
   "plans.button.seeComparison": "Lue lisää suunnitelmista ja hinnoista vertailusivullamme!",
   "plans.button.chooseThisSubscription": "Valitse tämä suunnitelma",
+  "plans.button.openingCheckout": "Avataan kassaa…",
   "plans.button.chooseFree": "Aloita ilmaiseksi",
   "plans.features.allInPreviousTiers": "Kaikki edellisen tason ominaisuudet",
   "plan.button.chooseNow": "Valitse Literary Universe -suunnitelmasi nyt",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Edistynyt blogin ulkoasu (oma CSS)",
   "plans.feature.luSubdomain": "Blogi omalla Literary Universe -aliverkkotunnuksella",
-  "plans.feature.customDomain": "Blogi omalla verkkotunnuksella",
-  "payment.testMode.docs": "Stripe-dokumentaatio",
-  "payment.testMode.short": "Tämä ei ole tuotantoympäristö!",
-  "payment.testMode.warning": "Tämä ei ole tuotantoympäristö, joten käytä testikortteja {docs} mukaan."
+  "plans.feature.customDomain": "Blogi omalla verkkotunnuksella"
 }

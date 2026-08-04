@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} kutsus teid liituma \"{orgName}\"",
   "email.notifications.orgInvite.title": "Olete oodatud liituma {orgName}!",
   "email.notifications.orgInvite.details": "Kutsuja: {inviterName}",
+  "email.notifications.orgInvite.role": "Roll: {role}",
   "email.notifications.orgInvite.cta": "Kutse läbivaatamine",
   "email.notifications.dailyDigest.subject": "Teie igapäevased uuendused",
   "email.notifications.dailyDigest.title": "Teie igapäevased uuendused",

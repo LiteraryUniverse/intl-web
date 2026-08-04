@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Számla PDF",
   "payment.invoice.total": "Összesen",
   "payment.invoice.what": "Számla leírása",
+  "payment.testMode.docs": "Stripe dokumentáció",
+  "payment.testMode.short": "Ez nem éles környezet!",
+  "payment.testMode.warning": "Ez nem éles környezet, ezért használjon tesztkártyákat a {docs} szerint.",
   "payment.stripe.powered": "Powered by ",
   "payment.listMethods.card": "Kártyák",
   "payment.expiresAt": "Lejár {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Regisztráljon ingyenes Literary Universe fiókra és kezdjen el alkotni!",
   "plans.button.seeComparison": "Tudjon meg többet a tervekről és az árakról a összehasonlító oldalunkon!",
   "plans.button.chooseThisSubscription": "Válassza ezt a tervet",
+  "plans.button.openingCheckout": "Pénztár megnyitása…",
   "plans.button.chooseFree": "Kezdje ingyen",
   "plans.features.allInPreviousTiers": "Minden az előző szinten",
   "plan.button.chooseNow": "Válassza ki a Literary Universe tervét most",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Haladó blogdizájn (egyéni CSS)",
   "plans.feature.luSubdomain": "Blog a saját Literary Universe aldomaineden",
-  "plans.feature.customDomain": "Blog a saját domaineden",
-  "payment.testMode.docs": "Stripe dokumentáció",
-  "payment.testMode.short": "Ez nem éles környezet!",
-  "payment.testMode.warning": "Ez nem éles környezet, ezért használjon tesztkártyákat a {docs} szerint."
+  "plans.feature.customDomain": "Blog a saját domaineden"
 }

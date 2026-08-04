@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} دعوتك للانضمام إلى \"{orgName}\"",
   "email.notifications.orgInvite.title": "أنت مدعو للانضمام إلى {orgName}!",
   "email.notifications.orgInvite.details": "مدعو من قبل: {inviterName}",
+  "email.notifications.orgInvite.role": "الدور: {role}",
   "email.notifications.orgInvite.cta": "مراجعة الدعوة",
   "email.notifications.dailyDigest.subject": "تحديثاتك اليومية",
   "email.notifications.dailyDigest.title": "تحديثاتك اليومية",

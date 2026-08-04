@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} vás pozval, aby ste sa pripojili k \"{orgName}\"",
   "email.notifications.orgInvite.title": "Pozývame vás na stránku {orgName}!",
   "email.notifications.orgInvite.details": "Pozýva: {inviterName}",
+  "email.notifications.orgInvite.role": "Rola: {role}",
   "email.notifications.orgInvite.cta": "Pozvánka na recenziu",
   "email.notifications.dailyDigest.subject": "Vaše denné aktualizácie",
   "email.notifications.dailyDigest.title": "Vaše denné aktualizácie",

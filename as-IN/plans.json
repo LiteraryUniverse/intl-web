@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "চালান পিডিএফ",
   "payment.invoice.total": "মোট",
   "payment.invoice.what": "চালানের বিবরণ",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "পাওয়ার মাধ্যমে ",
   "payment.listMethods.card": "কার্ডস",
   "payment.expiresAt": "মেয়াদ শেষ হয়েছে {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "এটা মুক্ত সাহিত্যিক বিশ্বব্যাপী একাউণ্টত সাইন আপ কৰক আৰু সৃষ্টি আৰম্ভ কৰক!",
   "plans.button.seeComparison": "পছন্দ কৰক আৰু মূল্যবন্ধনৰ বিষয়ত আমাৰ তুলনা পৃষ্ঠাত অধিক জানকা পোৱাত যাওক!",
   "plans.button.chooseThisSubscription": "এই পঞ্চমীয় আৰু শেষ সাপ্তাহিক পৰিকল্পনা নিৰ্বাচন কৰক",
+  "plans.button.openingCheckout": "চেকআউট খোলা হৈ আছে…",
   "plans.button.chooseFree": "মুক্তত আৰম্ভ কৰক",
   "plans.features.allInPreviousTiers": "পূৰ্ববর্তী সকলোতকৈই",
   "plan.button.chooseNow": "আপোনাৰ সাহিত্যিক বিশ্ব পঞ্চমীয় আৰু শেষ সাপ্তাহিক পৰিকল্পনা নিৰ্বাচন কৰক",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "উন্নত ব্লগ ডিজাইন (কাষ্টম CSS)",
   "plans.feature.luSubdomain": "আপোনাৰ নিজা Literary Universe ছাবডমেইনত ব্লগ",
-  "plans.feature.customDomain": "আপোনাৰ নিজা ডমেইনত ব্লগ",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "আপোনাৰ নিজা ডমেইনত ব্লগ"
 }

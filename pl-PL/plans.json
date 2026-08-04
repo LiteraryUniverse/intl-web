@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF faktury",
   "payment.invoice.total": "Suma",
   "payment.invoice.what": "Opis faktury",
+  "payment.testMode.docs": "Dokumentacja Stripe",
+  "payment.testMode.short": "To nie jest środowisko produkcyjne!",
+  "payment.testMode.warning": "To nie jest środowisko produkcyjne — używaj kart testowych zgodnie z {docs}.",
   "payment.stripe.powered": "Powered by ",
   "payment.listMethods.card": "Karty",
   "payment.expiresAt": "Wygasa {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Zarejestruj się na darmowe konto w Literary Universe i zacznij tworzyć!",
   "plans.button.seeComparison": "Dowiedz się więcej o planach i cenach na naszej stronie porównania!",
   "plans.button.chooseThisSubscription": "Wybierz ten plan",
+  "plans.button.openingCheckout": "Otwieranie płatności…",
   "plans.button.chooseFree": "Zacznij za darmo",
   "plans.features.allInPreviousTiers": "Wszystko z poprzedniego poziomu",
   "plan.button.chooseNow": "Wybierz teraz swój plan w Literary Universe",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Poszukiwacz przygód",
   "plans.feature.customBlogCss": "Zaawansowany wygląd bloga (własny CSS)",
   "plans.feature.luSubdomain": "Blog na własnej subdomenie Literary Universe",
-  "plans.feature.customDomain": "Blog na własnej domenie",
-  "payment.testMode.docs": "Dokumentacja Stripe",
-  "payment.testMode.short": "To nie jest środowisko produkcyjne!",
-  "payment.testMode.warning": "To nie jest środowisko produkcyjne — używaj kart testowych zgodnie z {docs}."
+  "plans.feature.customDomain": "Blog na własnej domenie"
 }

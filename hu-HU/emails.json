@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} meghívta Önt, hogy csatlakozzon a \"{orgName}\"",
   "email.notifications.orgInvite.title": "Szeretettel meghívjuk a {orgName}!",
   "email.notifications.orgInvite.details": "Meghívott:: {inviterName}",
+  "email.notifications.orgInvite.role": "Szerepkör: {role}",
   "email.notifications.orgInvite.cta": "Felülvizsgálati felhívás",
   "email.notifications.dailyDigest.subject": "Az Ön napi frissítései",
   "email.notifications.dailyDigest.title": "Az Ön napi frissítései",

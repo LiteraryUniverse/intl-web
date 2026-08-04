@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Arve PDF",
   "payment.invoice.total": "Kokku",
   "payment.invoice.what": "Arve kirjeldus",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "Toetatud ",
   "payment.listMethods.card": "Kaardid",
   "payment.expiresAt": "Aegub {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Registreeruge tasuta Literary Universe'i kontole ja alustage loomist!",
   "plans.button.seeComparison": "Lisateabe saamiseks plaanide ja hindade kohta külastage meie võrdlustabelit!",
   "plans.button.chooseThisSubscription": "Valige see plaan",
+  "plans.button.openingCheckout": "Kassa avamine…",
   "plans.button.chooseFree": "Alustage tasuta",
   "plans.features.allInPreviousTiers": "Kõik eelmises astmes olev",
   "plan.button.chooseNow": "Valige oma Literary Universe'i plaan kohe",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Täiustatud blogikujundus (kohandatud CSS)",
   "plans.feature.luSubdomain": "Blogi sinu enda Literary Universe'i alamdomeenil",
-  "plans.feature.customDomain": "Blogi sinu enda domeenil",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "Blogi sinu enda domeenil"
 }

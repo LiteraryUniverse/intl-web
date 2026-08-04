@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} inviterede dig til at deltage i \"{orgName}\"",
   "email.notifications.orgInvite.title": "Du er inviteret til at deltage i {orgName}!",
   "email.notifications.orgInvite.details": "Inviteret af: {inviterName}",
+  "email.notifications.orgInvite.role": "Rolle: {role}",
   "email.notifications.orgInvite.cta": "Invitation til gennemgang",
   "email.notifications.dailyDigest.subject": "Dine daglige opdateringer",
   "email.notifications.dailyDigest.title": "Dine daglige opdateringer",

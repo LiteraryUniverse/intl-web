@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF τιμολογίου",
   "payment.invoice.total": "Σύνολο",
   "payment.invoice.what": "Περιγραφή τιμολογίου",
+  "payment.testMode.docs": "Τεκμηρίωση Stripe",
+  "payment.testMode.short": "Αυτό δεν είναι ζωντανό περιβάλλον!",
+  "payment.testMode.warning": "Αυτό δεν είναι ζωντανό περιβάλλον, χρησιμοποιήστε δοκιμαστικές κάρτες σύμφωνα με {docs}.",
   "payment.stripe.powered": "Υποστηρίζεται από ",
   "payment.listMethods.card": "Κάρτες",
   "payment.expiresAt": "Λήγει στις {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Εγγραφείτε για ένα δωρεάν λογαριασμό στο Literary Universe και αρχίστε να δημιουργείτε!",
   "plans.button.seeComparison": "Μάθετε περισσότερα για τα πακέτα και τις τιμές στη σελίδα σύγκρισης μας!",
   "plans.button.chooseThisSubscription": "Επιλέξτε αυτήν τη συνδρομή",
+  "plans.button.openingCheckout": "Άνοιγμα checkout…",
   "plans.button.chooseFree": "Ξεκινήστε δωρεάν",
   "plans.features.allInPreviousTiers": "Όλα στο προηγούμενο επίπεδο",
   "plan.button.chooseNow": "Επιλέξτε το πακέτο σας στο Literary Universe τώρα",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Προηγμένη σχεδίαση ιστολογίου (προσαρμοσμένο CSS)",
   "plans.feature.luSubdomain": "Ιστολόγιο στον δικό σας υποτομέα Literary Universe",
-  "plans.feature.customDomain": "Ιστολόγιο στον δικό σας τομέα",
-  "payment.testMode.docs": "Τεκμηρίωση Stripe",
-  "payment.testMode.short": "Αυτό δεν είναι ζωντανό περιβάλλον!",
-  "payment.testMode.warning": "Αυτό δεν είναι ζωντανό περιβάλλον, χρησιμοποιήστε δοκιμαστικές κάρτες σύμφωνα με {docs}."
+  "plans.feature.customDomain": "Ιστολόγιο στον δικό σας τομέα"
 }

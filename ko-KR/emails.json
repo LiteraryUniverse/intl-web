@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} \"{orgName}\"",
   "email.notifications.orgInvite.title": "{orgName} 에 초대합니다!",
   "email.notifications.orgInvite.details": "초대받은 사람: {inviterName}",
+  "email.notifications.orgInvite.role": "역할: {role}",
   "email.notifications.orgInvite.cta": "초대 검토",
   "email.notifications.dailyDigest.subject": "일일 업데이트",
   "email.notifications.dailyDigest.title": "일일 업데이트",

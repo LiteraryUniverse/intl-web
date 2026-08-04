@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} mengundang Anda untuk bergabung dengan \"{orgName}\"",
   "email.notifications.orgInvite.title": "Anda diundang untuk bergabung dengan {orgName}!",
   "email.notifications.orgInvite.details": "Diundang oleh: {inviterName}",
+  "email.notifications.orgInvite.role": "Peran: {role}",
   "email.notifications.orgInvite.cta": "Undangan tinjauan",
   "email.notifications.dailyDigest.subject": "Pembaruan harian Anda",
   "email.notifications.dailyDigest.title": "Pembaruan harian Anda",

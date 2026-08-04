@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "ഇൻവോയിസ് പിഡിഎഫ്",
   "payment.invoice.total": "മൊത്തം",
   "payment.invoice.what": "ഇൻവോയിസ് വിവരണം",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "പ്രാമുഖ്യം നൽകുന്നത് ",
   "payment.listMethods.card": "കാർഡുകൾ",
   "payment.expiresAt": "അവസാനിക്കുന്നത് {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Sign-up for a free Literary Universe account and start creating!",
   "plans.button.seeComparison": "Find out more about plans and pricing on our comparison page!",
   "plans.button.chooseThisSubscription": "Select this plan",
+  "plans.button.openingCheckout": "ചെക്ക്ഔട്ട് തുറക്കുന്നു…",
   "plans.button.chooseFree": "Start for free",
   "plans.features.allInPreviousTiers": "Everything in previous tier",
   "plan.button.chooseNow": "Choose your Literary Universe plan now",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "വിപുലമായ ബ്ലോഗ് ഡിസൈൻ (കസ്റ്റം CSS)",
   "plans.feature.luSubdomain": "നിങ്ങളുടെ സ്വന്തം Literary Universe സബ്ഡൊമെയ്നിൽ ബ്ലോഗ്",
-  "plans.feature.customDomain": "നിങ്ങളുടെ സ്വന്തം ഡൊമെയ്നിൽ ബ്ലോഗ്",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "നിങ്ങളുടെ സ്വന്തം ഡൊമെയ്നിൽ ബ്ലോഗ്"
 }

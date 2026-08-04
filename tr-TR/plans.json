@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Fatura PDF'i",
   "payment.invoice.total": "Toplam",
   "payment.invoice.what": "Fatura açıklaması",
+  "payment.testMode.docs": "Stripe belgelendirmesi",
+  "payment.testMode.short": "Bu canlı bir ortam değil!",
+  "payment.testMode.warning": "Bu canlı bir ortam değil, lütfen {docs} uyarınca test kartları kullanın.",
   "payment.stripe.powered": "Tarafından sağlanmıştır ",
   "payment.listMethods.card": "Kartlar",
   "payment.expiresAt": "Son kullanma tarihi: {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Ücretsiz Literary Universe hesabı oluşturun ve oluşturmaya başlayın!",
   "plans.button.seeComparison": "Planlar ve fiyatlandırma hakkında daha fazla bilgi edinin!",
   "plans.button.chooseThisSubscription": "Bu planı seçin",
+  "plans.button.openingCheckout": "Ödeme sayfası açılıyor…",
   "plans.button.chooseFree": "Ücretsiz başlayın",
   "plans.features.allInPreviousTiers": "Önceki seviyedeki tüm özellikler",
   "plan.button.chooseNow": "Literary Universe planınızı şimdi seçin",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Gelişmiş blog tasarımı (özel CSS)",
   "plans.feature.luSubdomain": "Kendi Literary Universe alt alan adınızda blog",
-  "plans.feature.customDomain": "Kendi alan adınızda blog",
-  "payment.testMode.docs": "Stripe belgelendirmesi",
-  "payment.testMode.short": "Bu canlı bir ortam değil!",
-  "payment.testMode.warning": "Bu canlı bir ortam değil, lütfen {docs} uyarınca test kartları kullanın."
+  "plans.feature.customDomain": "Kendi alan adınızda blog"
 }

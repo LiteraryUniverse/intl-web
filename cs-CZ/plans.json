@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Faktura ve formátu pdf",
   "payment.invoice.total": "Celkem",
   "payment.invoice.what": "Popis faktury",
+  "payment.testMode.docs": "Dokumentace Stripe",
+  "payment.testMode.short": "Toto není ostré prostředí!",
+  "payment.testMode.warning": "Toto není ostré prostředí, proto používejte testovací karty podle {docs}.",
   "payment.stripe.powered": "Zprostředkovává ",
   "payment.listMethods.card": "Karty",
   "payment.expiresAt": "Platí do {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Založte si Literary Universe účet a začněte tvořit!",
   "plans.button.seeComparison": "Zjistěte více o plánech a cenách na naší porovnávací stránce!",
   "plans.button.chooseThisSubscription": "Vybrat tento plán",
+  "plans.button.openingCheckout": "Otevírání pokladny…",
   "plans.button.chooseFree": "Začněte zdarma",
   "plans.features.allInPreviousTiers": "Vše v předchozí úrovni",
   "plan.button.chooseNow": "Vyberte si svůj plán pro Literary Universe",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Dobrodruh",
   "plans.feature.customBlogCss": "Pokročilý vzhled blogu (vlastní CSS)",
   "plans.feature.luSubdomain": "Blog na vlastní subdoméně Literary Universe",
-  "plans.feature.customDomain": "Blog na vlastní doméně",
-  "payment.testMode.docs": "Dokumentace Stripe",
-  "payment.testMode.short": "Toto není ostré prostředí!",
-  "payment.testMode.warning": "Toto není ostré prostředí, proto používejte testovací karty podle {docs}."
+  "plans.feature.customDomain": "Blog na vlastní doméně"
 }

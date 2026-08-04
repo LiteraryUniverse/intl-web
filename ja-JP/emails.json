@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName}{orgName} \" に招待された。",
   "email.notifications.orgInvite.title": "{orgName} ！",
   "email.notifications.orgInvite.details": "招待者 {inviterName}",
+  "email.notifications.orgInvite.role": "役割：{role}",
   "email.notifications.orgInvite.cta": "レビュー招待",
   "email.notifications.dailyDigest.subject": "毎日の更新",
   "email.notifications.dailyDigest.title": "毎日の更新",

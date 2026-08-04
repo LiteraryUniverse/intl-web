@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} ਤੁਹਾਨੂੰ \"{orgName} \" ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।",
   "email.notifications.orgInvite.title": "ਤੁਹਾਨੂੰ {orgName} ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ!",
   "email.notifications.orgInvite.details": "ਦੁਆਰਾ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ: {inviterName}",
+  "email.notifications.orgInvite.role": "ਭੂਮਿਕਾ: {role}",
   "email.notifications.orgInvite.cta": "Review invitation",
   "email.notifications.dailyDigest.subject": "Your daily updates",
   "email.notifications.dailyDigest.title": "Your daily updates",

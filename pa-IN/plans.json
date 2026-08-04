@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "ਇੰਵੋਇਸ ਪੀ.ਡੀ.ਐਫ.",
   "payment.invoice.total": "ਕੁੱਲ",
   "payment.invoice.what": "ਇੰਵੋਇਸ ਦਾ ਵੇਰਵਾ",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "ਦੁਆਰਾ ਸ਼ਕਤੀਸ਼ਾਲਿਤ ",
   "payment.listMethods.card": "ਕਾਰਡਾਂ",
   "payment.expiresAt": "ਮਿਆਦ ਖਤਮ ਹੋਵੇਗੀ {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "ਇੱਕ ਮੁਫ਼ਤ ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਖਾਤੇ ਲਈ ਸਾਈਨ-ਅੱਪ ਕਰੋ ਅਤੇ ਰਚਨਾ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ!",
   "plans.button.seeComparison": "ਸਾਡੇ ਤੁਲਨਾ ਪੰਨੇ 'ਤੇ ਯੋਜਨਾਵਾਂ ਅਤੇ ਕੀਮਤਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ!",
   "plans.button.chooseThisSubscription": "ਇਸ ਯੋਜਨਾ ਨੂੰ ਚੁਣੋ",
+  "plans.button.openingCheckout": "ਚੈੱਕਆਊਟ ਖੁੱਲ੍ਹ ਰਿਹਾ ਹੈ…",
   "plans.button.chooseFree": "ਮੁਫ਼ਤ ਵਿੱਚ ਸ਼ੁਰੂ ਕਰੋ",
   "plans.features.allInPreviousTiers": "ਪਿਛਲੇ ਪੱਧਰ ਵਿੱਚ ਸਭ ਕੁਝ",
   "plan.button.chooseNow": "ਹੁਣੇ ਆਪਣਾ ਸਾਹਿਤਕ ਬ੍ਰਹਿਮੰਡ ਯੋਜਨਾ ਚੁਣੋ",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ਉੱਨਤ ਬਲੌਗ ਡਿਜ਼ਾਈਨ (ਕਸਟਮ CSS)",
   "plans.feature.luSubdomain": "ਤੁਹਾਡੇ ਆਪਣੇ Literary Universe ਸਬਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
-  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ"
 }

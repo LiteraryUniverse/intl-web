@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF de la factura",
   "payment.invoice.total": "Total",
   "payment.invoice.what": "Descripció de la factura",
+  "payment.testMode.docs": "Documentació de Stripe",
+  "payment.testMode.short": "Aquest no és un entorn en viu!",
+  "payment.testMode.warning": "Aquest no és un entorn en viu, així que useu targetes de prova segons {docs}.",
   "payment.stripe.powered": "Desenvolupat per ",
   "payment.listMethods.card": "Targetes",
   "payment.expiresAt": "Caduca {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Registra't per a un compte gratuït de Literary Universe i comença a crear!",
   "plans.button.seeComparison": "Descobreix més sobre els plans i els preus a la nostra pàgina de comparació!",
   "plans.button.chooseThisSubscription": "Selecciona aquest pla",
+  "plans.button.openingCheckout": "S'està obrint el pagament…",
   "plans.button.chooseFree": "Comença de franc",
   "plans.features.allInPreviousTiers": "Tot del nivell anterior",
   "plan.button.chooseNow": "Tria ara el teu pla de Literary Universe",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Disseny avançat del blog (CSS personalitzat)",
   "plans.feature.luSubdomain": "Blog al vostre subdomini de Literary Universe",
-  "plans.feature.customDomain": "Blog al vostre propi domini",
-  "payment.testMode.docs": "Documentació de Stripe",
-  "payment.testMode.short": "Aquest no és un entorn en viu!",
-  "payment.testMode.warning": "Aquest no és un entorn en viu, així que useu targetes de prova segons {docs}."
+  "plans.feature.customDomain": "Blog al vostre propi domini"
 }

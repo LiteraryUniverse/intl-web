@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} pakvietė prisijungti prie \"{orgName}\"",
   "email.notifications.orgInvite.title": "Kviečiame prisijungti prie {orgName}!",
   "email.notifications.orgInvite.details": "Kviečia: {inviterName}",
+  "email.notifications.orgInvite.role": "Vaidmuo: {role}",
   "email.notifications.orgInvite.cta": "Peržiūrėti kvietimą",
   "email.notifications.dailyDigest.subject": "Jūsų kasdieniai atnaujinimai",
   "email.notifications.dailyDigest.title": "Jūsų kasdieniai atnaujinimai",

@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF חשבונית",
   "payment.invoice.total": "סה\"כ",
   "payment.invoice.what": "תיאור חשבונית",
+  "payment.testMode.docs": "תיעוד Stripe",
+  "payment.testMode.short": "זו אינה סביבה חיה!",
+  "payment.testMode.warning": "זו אינה סביבה חיה, לכן השתמשו בכרטיסי בדיקה לפי {docs}.",
   "payment.stripe.powered": "מופעל על ידי ",
   "payment.listMethods.card": "כרטיסים",
   "payment.expiresAt": "תפוג בתאריך {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "הירשם לחשבון ב־Literary Universe בחינם והתחל ליצור!",
   "plans.button.seeComparison": "גלה עוד על התוכניות והמחירים בדף השוואה שלנו!",
   "plans.button.chooseThisSubscription": "בחר תוכנית זו",
+  "plans.button.openingCheckout": "פתיחת התשלום…",
   "plans.button.chooseFree": "התחל בחינם",
   "plans.features.allInPreviousTiers": "הכל בשכבה הקודמת",
   "plan.button.chooseNow": "בחר את תוכנית Literary Universe שלך עכשיו",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "עיצוב בלוג מתקדם (CSS מותאם אישית)",
   "plans.feature.luSubdomain": "בלוג בתת-דומיין משלכם ב-Literary Universe",
-  "plans.feature.customDomain": "בלוג בדומיין משלכם",
-  "payment.testMode.docs": "תיעוד Stripe",
-  "payment.testMode.short": "זו אינה סביבה חיה!",
-  "payment.testMode.warning": "זו אינה סביבה חיה, לכן השתמשו בכרטיסי בדיקה לפי {docs}."
+  "plans.feature.customDomain": "בלוג בדומיין משלכם"
 }

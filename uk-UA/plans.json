@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF рахунку",
   "payment.invoice.total": "Всього",
   "payment.invoice.what": "Опис рахунку",
+  "payment.testMode.docs": "Документація Stripe",
+  "payment.testMode.short": "Це не робоче середовище!",
+  "payment.testMode.warning": "Це не робоче середовище, тому використовуйте тестові картки згідно з {docs}.",
   "payment.stripe.powered": "Працює на основі ",
   "payment.listMethods.card": "Картки",
   "payment.expiresAt": "Термін дії: {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Зареєструйтесь для безкоштовного облікового запису у Literary Universe та почніть створювати!",
   "plans.button.seeComparison": "Дізнайтеся більше про плани та ціни на нашій сторінці порівняння!",
   "plans.button.chooseThisSubscription": "Виберіть цей план",
+  "plans.button.openingCheckout": "Відкриваємо оплату…",
   "plans.button.chooseFree": "Почніть безкоштовно",
   "plans.features.allInPreviousTiers": "Все з попереднього рівня",
   "plan.button.chooseNow": "Оберіть свій план Literary Universe зараз",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Шукач пригод",
   "plans.feature.customBlogCss": "Розширене оформлення блогу (власний CSS)",
   "plans.feature.luSubdomain": "Блог на власному піддомені Literary Universe",
-  "plans.feature.customDomain": "Блог на власному домені",
-  "payment.testMode.docs": "Документація Stripe",
-  "payment.testMode.short": "Це не робоче середовище!",
-  "payment.testMode.warning": "Це не робоче середовище, тому використовуйте тестові картки згідно з {docs}."
+  "plans.feature.customDomain": "Блог на власному домені"
 }

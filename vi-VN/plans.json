@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF hóa đơn",
   "payment.invoice.total": "Tổng cộng",
   "payment.invoice.what": "Mô tả hóa đơn",
+  "payment.testMode.docs": "Tài liệu Stripe",
+  "payment.testMode.short": "Đây không phải môi trường thật!",
+  "payment.testMode.warning": "Đây không phải môi trường thật, vui lòng dùng thẻ thử nghiệm theo {docs}.",
   "payment.stripe.powered": "Được cung cấp bởi ",
   "payment.listMethods.card": "Thẻ",
   "payment.expiresAt": "Hết hạn {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Đăng ký tài khoản Literary Universe miễn phí và bắt đầu sáng tạo!",
   "plans.button.seeComparison": "Tìm hiểu thêm về gói và giá cả trên trang so sánh của chúng tôi!",
   "plans.button.chooseThisSubscription": "Chọn gói này",
+  "plans.button.openingCheckout": "Đang mở trang thanh toán…",
   "plans.button.chooseFree": "Bắt đầu miễn phí",
   "plans.features.allInPreviousTiers": "Tất cả trong các mức trước",
   "plan.button.chooseNow": "Chọn gói Literary Universe của bạn ngay bây giờ",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Thiết kế blog nâng cao (CSS tùy chỉnh)",
   "plans.feature.luSubdomain": "Blog trên tên miền phụ Literary Universe của riêng bạn",
-  "plans.feature.customDomain": "Blog trên tên miền riêng của bạn",
-  "payment.testMode.docs": "Tài liệu Stripe",
-  "payment.testMode.short": "Đây không phải môi trường thật!",
-  "payment.testMode.warning": "Đây không phải môi trường thật, vui lòng dùng thẻ thử nghiệm theo {docs}."
+  "plans.feature.customDomain": "Blog trên tên miền riêng của bạn"
 }

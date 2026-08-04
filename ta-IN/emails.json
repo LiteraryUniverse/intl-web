@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} \"{orgName} \"-இல் சேர உங்களை அழைக்கிறோம்",
   "email.notifications.orgInvite.title": "{orgName} -இல் இணைய உங்களை அழைக்கிறோம்!",
   "email.notifications.orgInvite.details": "அழைப்பு விடுத்தவர்: {inviterName}",
+  "email.notifications.orgInvite.role": "பங்கு: {role}",
   "email.notifications.orgInvite.cta": "Review invitation",
   "email.notifications.dailyDigest.subject": "Your daily updates",
   "email.notifications.dailyDigest.title": "Your daily updates",

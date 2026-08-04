@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "देयक पीडीएफ",
   "payment.invoice.total": "एकूण",
   "payment.invoice.what": "देयकाचे वर्णन",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "द्वारे संचालित ",
   "payment.listMethods.card": "कार्ड्स",
   "payment.expiresAt": "संपले ते तारीख {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "एक विनामूल्य लिटररी युनिव्हर्स खाते साइन अप करा आणि सृजन सुरू करा!",
   "plans.button.seeComparison": "आपल्याला योजना आणि मूल्यसूचीची अधिक माहिती मिळवा!",
   "plans.button.chooseThisSubscription": "ही योजना निवडा",
+  "plans.button.openingCheckout": "चेकआउट उघडत आहे…",
   "plans.button.chooseFree": "विनामूल्यपैकी सुरू करा",
   "plans.features.allInPreviousTiers": "मागील पाचवीसवीटील सर्व गोष्टी",
   "plan.button.chooseNow": "तुमचा लिटररी युनिव्हर्स योजना आता निवडा",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "प्रगत ब्लॉग डिझाइन (कस्टम CSS)",
   "plans.feature.luSubdomain": "तुमच्या स्वतःच्या Literary Universe सबडोमेनवर ब्लॉग",
-  "plans.feature.customDomain": "तुमच्या स्वतःच्या डोमेनवर ब्लॉग",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "तुमच्या स्वतःच्या डोमेनवर ब्लॉग"
 }

@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} đã mời bạn tham gia \"{orgName}\"",
   "email.notifications.orgInvite.title": "Mời bạn tham gia diễn đàn {orgName}!",
   "email.notifications.orgInvite.details": "Được mời bởi: {inviterName}",
+  "email.notifications.orgInvite.role": "Vai trò: {role}",
   "email.notifications.orgInvite.cta": "Mời tham gia đánh giá",
   "email.notifications.dailyDigest.subject": "Cập nhật hàng ngày của bạn",
   "email.notifications.dailyDigest.title": "Cập nhật hàng ngày của bạn",

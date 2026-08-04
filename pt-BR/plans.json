@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF da fatura",
   "payment.invoice.total": "Total",
   "payment.invoice.what": "Descrição da fatura",
+  "payment.testMode.docs": "Documentação do Stripe",
+  "payment.testMode.short": "Este não é um ambiente ao vivo!",
+  "payment.testMode.warning": "Este não é um ambiente ao vivo, então use cartões de teste conforme {docs}.",
   "payment.stripe.powered": "Desenvolvido por ",
   "payment.listMethods.card": "Cartões",
   "payment.expiresAt": "Expira em {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Cadastre-se para obter uma conta gratuita no Literary Universe e comece a criar!",
   "plans.button.seeComparison": "Saiba mais sobre planos e preços em nossa página de comparação!",
   "plans.button.chooseThisSubscription": "Selecione este plano",
+  "plans.button.openingCheckout": "Abrindo o checkout…",
   "plans.button.chooseFree": "Comece de graça",
   "plans.features.allInPreviousTiers": "Tudo no plano anterior",
   "plan.button.chooseNow": "Escolha agora o seu plano do Literary Universe",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Aventureiro",
   "plans.feature.customBlogCss": "Design avançado do blog (CSS personalizado)",
   "plans.feature.luSubdomain": "Blog no seu subdomínio Literary Universe",
-  "plans.feature.customDomain": "Blog no seu próprio domínio",
-  "payment.testMode.docs": "Documentação do Stripe",
-  "payment.testMode.short": "Este não é um ambiente ao vivo!",
-  "payment.testMode.warning": "Este não é um ambiente ao vivo, então use cartões de teste conforme {docs}."
+  "plans.feature.customDomain": "Blog no seu próprio domínio"
 }

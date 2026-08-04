@@ -100,5 +100,14 @@
   "notifications.category.workshop.description": "Notifications about your content creation and management activities",
   "notifications.category.community.description": "Notifications about social interactions and community engagement",
   "notifications.category.reading.description": "Notifications about new content and reading activities",
-  "notifications.category.system.description": "System notifications and important updates"
+  "notifications.category.system.description": "System notifications and important updates",
+  "notification.team.invited": "You were invited to {workTitle} as {role}.",
+  "notification.team.inviteAccepted": "{user} accepted your invitation to {workTitle} as {role}.",
+  "notification.team.inviteDeclined": "{user} declined your invitation to {workTitle} as {role}.",
+  "notification.team.inviteCancelled": "Your invitation to {workTitle} as {role} was cancelled.",
+  "notification.team.removed": "You were removed from the team of {workTitle} ({role}).",
+  "notification.team.left": "{user} left the team of {workTitle} ({role}).",
+  "notification.team.compensationChanged": "Your compensation on {workTitle} changed to {compensation}.",
+  "notificationExtra.team.viewInvitations": "View invitations",
+  "notificationExtra.team.goToWork": "Go to the work"
 }

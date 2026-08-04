@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} הזמין אותך להצטרף ל\"{orgName}\"",
   "email.notifications.orgInvite.title": "אתם מוזמנים להצטרף ל- {orgName}!",
   "email.notifications.orgInvite.details": "בהזמנת: {inviterName}",
+  "email.notifications.orgInvite.role": "תפקיד: {role}",
   "email.notifications.orgInvite.cta": "הזמנה לסקירה",
   "email.notifications.dailyDigest.subject": "העדכונים היומיים שלך",
   "email.notifications.dailyDigest.title": "העדכונים היומיים שלך",

@@ -654,5 +654,21 @@
   "workshop.team.role.researcher": "Researcher",
   "workshop.team.role.illustrator": "Illustrator",
   "workshop.team.role.cartographer": "Cartographer",
-  "workshop.team.role.loreKeeper": "Lore keeper"
+  "workshop.team.role.loreKeeper": "Lore keeper",
+  "workshop.compensation.label": "Compensation",
+  "workshop.compensation.type.revenueSplit": "Revenue share",
+  "workshop.compensation.type.none": "Unpaid",
+  "workshop.compensation.type.other": "Other",
+  "workshop.compensation.type.perChapter": "Per chapter",
+  "workshop.compensation.type.lumpSum": "Lump sum",
+  "workshop.compensation.noteLabel": "What was agreed?",
+  "workshop.compensation.notePlaceholder": "e.g. flat fee paid outside Literary Universe",
+  "workshop.compensation.otherNotice": "Literary Universe does not process this payment. Arrange and settle it directly.",
+  "workshop.compensation.unset": "Not set",
+  "workshop.compensation.notOnSplit": "Not on the revenue share",
+  "workshop.team.creditOnly": "Credit only",
+  "workshop.team.creditName": "Name to credit",
+  "workshop.invitations": "Invitations",
+  "workshop.invitations.received": "Received",
+  "workshop.invitations.sent": "Sent"
 }

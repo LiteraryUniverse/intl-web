@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Facture pdf",
   "payment.invoice.total": "Total",
   "payment.invoice.what": "Description de la facture",
+  "payment.testMode.docs": "Documentation Stripe",
+  "payment.testMode.short": "Ce n’est pas un environnement en production !",
+  "payment.testMode.warning": "Ce n’est pas un environnement en production, veuillez utiliser des cartes de test selon {docs}.",
   "payment.stripe.powered": "Propulsé par ",
   "payment.listMethods.card": "Cartes",
   "payment.expiresAt": "Expire le {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Inscrivez-vous gratuitement à un compte Literary Universe et commencez à créer !",
   "plans.button.seeComparison": "Découvrez-en plus sur les plans et les tarifs sur notre page de comparaison !",
   "plans.button.chooseThisSubscription": "Sélectionnez ce plan",
+  "plans.button.openingCheckout": "Ouverture du paiement…",
   "plans.button.chooseFree": "Commencez gratuitement",
   "plans.features.allInPreviousTiers": "Tout ce qui est inclus dans le niveau précédent",
   "plan.button.chooseNow": "Choisissez dès maintenant votre plan Literary Universe",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Aventurier",
   "plans.feature.customBlogCss": "Design de blog avancé (CSS personnalisé)",
   "plans.feature.luSubdomain": "Blog sur votre sous-domaine Literary Universe",
-  "plans.feature.customDomain": "Blog sur votre propre domaine",
-  "payment.testMode.docs": "Documentation Stripe",
-  "payment.testMode.short": "Ce n’est pas un environnement en production !",
-  "payment.testMode.warning": "Ce n’est pas un environnement en production, veuillez utiliser des cartes de test selon {docs}."
+  "plans.feature.customDomain": "Blog sur votre propre domaine"
 }

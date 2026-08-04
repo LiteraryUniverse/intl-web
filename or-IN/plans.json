@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "ଚାଲାନ ପିଡିଏଫ଼",
   "payment.invoice.total": "ମୋଟ",
   "payment.invoice.what": "ଚାଲାନ ବର୍ଣ୍ଣନା",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "ଦ୍ୱାରା ପ୍ରାଧାନ୍ୟ ପାଇଁ ",
   "payment.listMethods.card": "କାର୍ଡସ୍",
   "payment.expiresAt": "ମାତ୍ର {month}/{year}ପର୍ଯ୍ୟନ୍ତ ବୈଧ",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Sign-up for a free Literary Universe account and start creating!",
   "plans.button.seeComparison": "Find out more about plans and pricing on our comparison page!",
   "plans.button.chooseThisSubscription": "Select this plan",
+  "plans.button.openingCheckout": "ଚେକଆଉଟ୍ ଖୋଲାଯାଉଛି…",
   "plans.button.chooseFree": "Start for free",
   "plans.features.allInPreviousTiers": "Everything in previous tier",
   "plan.button.chooseNow": "Choose your Literary Universe plan now",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ଉନ୍ନତ ବ୍ଲଗ୍ ଡିଜାଇନ୍ (କଷ୍ଟମ୍ CSS)",
   "plans.feature.luSubdomain": "ଆପଣଙ୍କ ନିଜ Literary Universe ସବ୍‌ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
-  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍"
 }

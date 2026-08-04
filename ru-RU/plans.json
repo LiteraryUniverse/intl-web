@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "PDF счета-фактуры",
   "payment.invoice.total": "Итого",
   "payment.invoice.what": "Описание счета-фактуры",
+  "payment.testMode.docs": "Документация Stripe",
+  "payment.testMode.short": "Это не рабочая среда!",
+  "payment.testMode.warning": "Это не рабочая среда, поэтому используйте тестовые карты согласно {docs}.",
   "payment.stripe.powered": "Работает на ",
   "payment.listMethods.card": "Карты",
   "payment.expiresAt": "Истекает {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Зарегистрируйте бесплатную учётную запись Literary Universe и начните творить!",
   "plans.button.seeComparison": "Узнайте больше о планах подписки и ценах на нашей странице сравнения!",
   "plans.button.chooseThisSubscription": "Выбрать этот план",
+  "plans.button.openingCheckout": "Открываем оплату…",
   "plans.button.chooseFree": "Начать бесплатно",
   "plans.features.allInPreviousTiers": "Всё предыдущее",
   "plan.button.chooseNow": "Выберите план подписки на Literary Universe сейчас",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Искатель приключений",
   "plans.feature.customBlogCss": "Расширенное оформление блога (свой CSS)",
   "plans.feature.luSubdomain": "Блог на собственном поддомене Literary Universe",
-  "plans.feature.customDomain": "Блог на собственном домене",
-  "payment.testMode.docs": "Документация Stripe",
-  "payment.testMode.short": "Это не рабочая среда!",
-  "payment.testMode.warning": "Это не рабочая среда, поэтому используйте тестовые карты согласно {docs}."
+  "plans.feature.customDomain": "Блог на собственном домене"
 }

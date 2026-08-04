@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "發票 PDF",
   "payment.invoice.total": "總計",
   "payment.invoice.what": "發票描述",
+  "payment.testMode.docs": "Stripe 文件",
+  "payment.testMode.short": "這不是正式環境！",
+  "payment.testMode.warning": "這不是正式環境，請依 {docs} 使用測試卡。",
   "payment.stripe.powered": "Powered by ",
   "payment.listMethods.card": "信用卡",
   "payment.expiresAt": "到期日 {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "註冊免費的Literary Universe帳戶，開始創作！",
   "plans.button.seeComparison": "在我們的比較頁面上了解更多關於方案和價格的資訊！",
   "plans.button.chooseThisSubscription": "選擇此方案",
+  "plans.button.openingCheckout": "正在開啟結帳…",
   "plans.button.chooseFree": "免費開始",
   "plans.features.allInPreviousTiers": "前一層所有功能",
   "plan.button.chooseNow": "立即選擇您的Literary Universe方案",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "進階部落格設計（自訂 CSS）",
   "plans.feature.luSubdomain": "在您專屬的 Literary Universe 子網域上經營部落格",
-  "plans.feature.customDomain": "在您自己的網域上經營部落格",
-  "payment.testMode.docs": "Stripe 文件",
-  "payment.testMode.short": "這不是正式環境！",
-  "payment.testMode.warning": "這不是正式環境，請依 {docs} 使用測試卡。"
+  "plans.feature.customDomain": "在您自己的網域上經營部落格"
 }

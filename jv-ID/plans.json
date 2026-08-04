@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "Invoice pdf",
   "payment.invoice.total": "Total",
   "payment.invoice.what": "Invoice description",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "Powered by ",
   "payment.listMethods.card": "Cards",
   "payment.expiresAt": "Expires {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "Sign-up for a free Literary Universe account and start creating!",
   "plans.button.seeComparison": "Find out more about plans and pricing on our comparison page!",
   "plans.button.chooseThisSubscription": "Select this plan",
+  "plans.button.openingCheckout": "Mbukak checkout…",
   "plans.button.chooseFree": "Start for free",
   "plans.features.allInPreviousTiers": "Everything in previous tier",
   "plan.button.chooseNow": "Choose your Literary Universe plan now",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Desain blog canggih (CSS khusus)",
   "plans.feature.luSubdomain": "Blog ing subdomain Literary Universe sampeyan dhewe",
-  "plans.feature.customDomain": "Blog ing domain sampeyan dhewe",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "Blog ing domain sampeyan dhewe"
 }

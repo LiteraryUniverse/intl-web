@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "चलानी पीडीएफ",
   "payment.invoice.total": "कुल",
   "payment.invoice.what": "चलानी विवरण",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "प्रदान गर्दछ ",
   "payment.listMethods.card": "कार्डहरू",
   "payment.expiresAt": "समाप्त भएको {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "एक नि: शुल्क साहित्यिक ब्रह्माण्ड खाता बनाउनुहोस् र सिर्जना गर्न सुरु गर्नुहोस्!",
   "plans.button.seeComparison": "हाम्रो तुलना पृष्ठमा योजना र मुद्राको माथि अझै थप जानकारी प्राप्त गर्नुहोस्!",
   "plans.button.chooseThisSubscription": "यो योजना छनौट गर्नुहोस्",
+  "plans.button.openingCheckout": "चेकआउट खुल्दैछ…",
   "plans.button.chooseFree": "नि: शुल्कमा सुरु गर्नुहोस्",
   "plans.features.allInPreviousTiers": "पूर्वमा रहेका सबै तहमा",
   "plan.button.chooseNow": "तपाईंको साहित्यिक ब्रह्माण्ड योजना अब छनौट गर्नुहोस्",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "उन्नत ब्लग डिजाइन (कस्टम CSS)",
   "plans.feature.luSubdomain": "तपाईंको आफ्नै Literary Universe सबडोमेनमा ब्लग",
-  "plans.feature.customDomain": "तपाईंको आफ्नै डोमेनमा ब्लग",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "तपाईंको आफ्नै डोमेनमा ब्लग"
 }

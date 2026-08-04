@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "ไฟล์ PDF ใบแจ้งหนี้",
   "payment.invoice.total": "รวมทั้งสิ้น",
   "payment.invoice.what": "รายละเอียดใบแจ้งหนี้",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "ขับเคลื่อนด้วย ",
   "payment.listMethods.card": "บัตร",
   "payment.expiresAt": "หมดอายุ {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "ลงทะเบียนสำหรับบัญชี Literary Universe ฟรีและเริ่มสร้างสรรค์ได้ทันที!",
   "plans.button.seeComparison": "ดูข้อมูลเพิ่มเติมเกี่ยวกับแผนและราคาในหน้าเปรียบเทียบของเรา!",
   "plans.button.chooseThisSubscription": "เลือกแผนนี้",
+  "plans.button.openingCheckout": "กำลังเปิดหน้าชำระเงิน…",
   "plans.button.chooseFree": "เริ่มต้นฟรี",
   "plans.features.allInPreviousTiers": "ทุกอย่างในระดับก่อนหน้านี้",
   "plan.button.chooseNow": "เลือกแผน Literary Universe ของคุณตอนนี้",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ดีไซน์บล็อกขั้นสูง (CSS กำหนดเอง)",
   "plans.feature.luSubdomain": "บล็อกบนซับโดเมน Literary Universe ของคุณเอง",
-  "plans.feature.customDomain": "บล็อกบนโดเมนของคุณเอง",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "บล็อกบนโดเมนของคุณเอง"
 }

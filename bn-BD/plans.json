@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "চালান PDF",
   "payment.invoice.total": "মোট",
   "payment.invoice.what": "চালানের বিবরণ",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "পাওয়ার জন্য ",
   "payment.listMethods.card": "কার্ডগুলি",
   "payment.expiresAt": "মেয়াদ শেষ হয় {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "একটি বিনামূল্যে লিটারারি ইউনিভার্স অ্যাকাউন্টে সাইন আপ করুন এবং সৃজন করতে শুরু করুন!",
   "plans.button.seeComparison": "আমাদের তুলনা পৃষ্ঠায় পরিকল্পনা এবং মূল্য সম্পর্কে আরও জানুন!",
   "plans.button.chooseThisSubscription": "এই প্ল্যানটি নির্বাচন করুন",
+  "plans.button.openingCheckout": "চেকআউট খোলা হচ্ছে…",
   "plans.button.chooseFree": "বিনামূল্যে শুরু করুন",
   "plans.features.allInPreviousTiers": "পূর্ববর্তী সমস্ত স্তরের সবকিছু",
   "plan.button.chooseNow": "এখনই আপনার লিটারারি ইউনিভার্স প্ল্যান চয়ন করুন",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "উন্নত ব্লগ ডিজাইন (কাস্টম CSS)",
   "plans.feature.luSubdomain": "আপনার নিজস্ব Literary Universe সাবডোমেইনে ব্লগ",
-  "plans.feature.customDomain": "আপনার নিজস্ব ডোমেইনে ব্লগ",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "আপনার নিজস্ব ডোমেইনে ব্লগ"
 }

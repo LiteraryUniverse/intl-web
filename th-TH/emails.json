@@ -95,6 +95,7 @@
   "email.notifications.orgInvite.subject": "{inviterName} เชิญคุณเข้าร่วม \"{orgName}\"",
   "email.notifications.orgInvite.title": "คุณได้รับเชิญให้เข้าร่วม {orgName}!",
   "email.notifications.orgInvite.details": "ได้รับเชิญโดย: {inviterName}",
+  "email.notifications.orgInvite.role": "บทบาท: {role}",
   "email.notifications.orgInvite.cta": "คำเชิญให้รีวิว",
   "email.notifications.dailyDigest.subject": "การอัปเดตประจำวันของคุณ",
   "email.notifications.dailyDigest.title": "การอัปเดตประจำวันของคุณ",

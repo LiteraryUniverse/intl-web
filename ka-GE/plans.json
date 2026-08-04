@@ -119,6 +119,9 @@
   "payment.invoice.pdf": "ინვოისის PDF",
   "payment.invoice.total": "ჯამი",
   "payment.invoice.what": "ინვოისის აღწერა",
+  "payment.testMode.docs": "Stripe documentation",
+  "payment.testMode.short": "This is not a live environment!",
+  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}.",
   "payment.stripe.powered": "გამოყენებულია ",
   "payment.listMethods.card": "ბარათები",
   "payment.expiresAt": "ვადაგასულია {month}/{year}",
@@ -138,6 +141,7 @@
   "plans.call.signUpBottom": "დარეგისტრირდით Literary Universe-ზე უფასოდ და დაიწყეთ ქმნა!",
   "plans.button.seeComparison": "გაიგეთ მეტი გეგმებისა და ფასების შესახებ ჩვენს შედარების გვერდზე!",
   "plans.button.chooseThisSubscription": "აირჩიეთ ეს გეგმა",
+  "plans.button.openingCheckout": "გადახდის გვერდი იხსნება…",
   "plans.button.chooseFree": "დაიწყეთ უფასოდ",
   "plans.features.allInPreviousTiers": "წინა დონეზე არსებული ყველაფერი",
   "plan.button.chooseNow": "ახლავე აირჩიეთ თქვენი ლიტერატურული სამყაროს გეგმა",
@@ -404,8 +408,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ბლოგის გაფართოებული დიზაინი (საკუთარი CSS)",
   "plans.feature.luSubdomain": "ბლოგი საკუთარ Literary Universe ქვედომენზე",
-  "plans.feature.customDomain": "ბლოგი საკუთარ დომენზე",
-  "payment.testMode.docs": "Stripe documentation",
-  "payment.testMode.short": "This is not a live environment!",
-  "payment.testMode.warning": "This is not a live environment, so please use testing cards per {docs}."
+  "plans.feature.customDomain": "ბლოგი საკუთარ დომენზე"
 }
