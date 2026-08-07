@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "ಹೇಳಿಕೆಗಳು",
   "organizationLibrary.creator.downloadCsv": "CSV ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
   "organizationLibrary.creator.units": "ಘಟಕಗಳು",
-  "organizationLibrary.creator.revokeReason": "ಹಿಂಪಡೆಯುವಿಕೆಗೆ ಕಾರಣ (ಅಗತ್ಯ)"
+  "organizationLibrary.creator.revokeReason": "ಹಿಂಪಡೆಯುವಿಕೆಗೆ ಕಾರಣ (ಅಗತ್ಯ)",
+  "organizationLibrary.admin.nav": "ಲೈಬ್ರರಿ ರಾಯಧನಗಳು",
+  "organizationLibrary.admin.title": "ಲೈಬ್ರರಿ ರಾಯಧನ ಮೇಲ್ವಿಚಾರಣೆ",
+  "organizationLibrary.admin.outstanding": "ಸೃಷ್ಟಿಕರ್ತರಿಗೆ ಪಾವತಿಸಬೇಕಾದ ಬಾಕಿ",
+  "organizationLibrary.admin.none": "ಗಮನ ಅಗತ್ಯವಿರುವ ಯಾವುದೂ ಇಲ್ಲ.",
+  "organizationLibrary.admin.periods": "ಗಮನ ಅಗತ್ಯವಿರುವ ಅವಧಿಗಳು",
+  "organizationLibrary.admin.allocations": "ಗಮನ ಅಗತ್ಯವಿರುವ ಹಂಚಿಕೆಗಳು",
+  "organizationLibrary.admin.locked": "ಇತ್ಯರ್ಥ ನಡೆಯುತ್ತಿದೆ",
+  "organizationLibrary.admin.retry": "ಇತ್ಯರ್ಥವನ್ನು ಮರುಪ್ರಯತ್ನಿಸಿ",
+  "organizationLibrary.admin.reason": "ಕಾರಣ",
+  "organizationLibrary.admin.recipient": "ಸ್ವೀಕರಿಸುವವರು",
+  "organizationLibrary.admin.attempts": "ಪ್ರಯತ್ನಗಳು"
 }

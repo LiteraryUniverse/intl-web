@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "របាយការណ៍",
   "organizationLibrary.creator.downloadCsv": "ទាញយក CSV",
   "organizationLibrary.creator.units": "ឯកតា",
-  "organizationLibrary.creator.revokeReason": "មូលហេតុនៃការដកហូត (ចាំបាច់)"
+  "organizationLibrary.creator.revokeReason": "មូលហេតុនៃការដកហូត (ចាំបាច់)",
+  "organizationLibrary.admin.nav": "កម្រៃសិទ្ធិបណ្ណាល័យ",
+  "organizationLibrary.admin.title": "ការត្រួតពិនិត្យកម្រៃសិទ្ធិបណ្ណាល័យ",
+  "organizationLibrary.admin.outstanding": "បំណុលដែលនៅជំពាក់អ្នកបង្កើត",
+  "organizationLibrary.admin.none": "គ្មានអ្វីត្រូវយកចិត្តទុកដាក់ទេ។",
+  "organizationLibrary.admin.periods": "រយៈពេលដែលត្រូវយកចិត្តទុកដាក់",
+  "organizationLibrary.admin.allocations": "ការបែងចែកដែលត្រូវយកចិត្តទុកដាក់",
+  "organizationLibrary.admin.locked": "កំពុងធ្វើការទូទាត់",
+  "organizationLibrary.admin.retry": "ព្យាយាមទូទាត់ម្តងទៀត",
+  "organizationLibrary.admin.reason": "មូលហេតុ",
+  "organizationLibrary.admin.recipient": "អ្នកទទួល",
+  "organizationLibrary.admin.attempts": "ចំនួនព្យាយាម"
 }

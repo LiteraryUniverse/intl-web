@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "विवरण सभ",
   "organizationLibrary.creator.downloadCsv": "CSV डाउनलोड करू",
   "organizationLibrary.creator.units": "इकाई सभ",
-  "organizationLibrary.creator.revokeReason": "वापस लेबाक कारण (आवश्यक)"
+  "organizationLibrary.creator.revokeReason": "वापस लेबाक कारण (आवश्यक)",
+  "organizationLibrary.admin.nav": "लाइब्रेरी रॉयल्टी",
+  "organizationLibrary.admin.title": "लाइब्रेरी रॉयल्टी निगरानी",
+  "organizationLibrary.admin.outstanding": "रचनाकार सभक बकाया देयता",
+  "organizationLibrary.admin.none": "ध्यान देबाक लेल किछु नहि अछि।",
+  "organizationLibrary.admin.periods": "ध्यान देबाक योग्य अवधि",
+  "organizationLibrary.admin.allocations": "ध्यान देबाक योग्य बँटवारा",
+  "organizationLibrary.admin.locked": "निपटान चलि रहल अछि",
+  "organizationLibrary.admin.retry": "निपटान फेरसँ करू",
+  "organizationLibrary.admin.reason": "कारण",
+  "organizationLibrary.admin.recipient": "प्राप्तकर्ता",
+  "organizationLibrary.admin.attempts": "प्रयास"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Bảng kê",
   "organizationLibrary.creator.downloadCsv": "Tải xuống CSV",
   "organizationLibrary.creator.units": "Đơn vị",
-  "organizationLibrary.creator.revokeReason": "Lý do thu hồi (bắt buộc)"
+  "organizationLibrary.creator.revokeReason": "Lý do thu hồi (bắt buộc)",
+  "organizationLibrary.admin.nav": "Tiền bản quyền Thư viện",
+  "organizationLibrary.admin.title": "Giám sát tiền bản quyền Thư viện",
+  "organizationLibrary.admin.outstanding": "Công nợ phải trả nhà sáng tạo",
+  "organizationLibrary.admin.none": "Không có mục nào cần chú ý.",
+  "organizationLibrary.admin.periods": "Các kỳ cần chú ý",
+  "organizationLibrary.admin.allocations": "Các khoản phân bổ cần chú ý",
+  "organizationLibrary.admin.locked": "đang quyết toán",
+  "organizationLibrary.admin.retry": "Thử lại quyết toán",
+  "organizationLibrary.admin.reason": "Lý do",
+  "organizationLibrary.admin.recipient": "Người nhận",
+  "organizationLibrary.admin.attempts": "Số lần thử"
 }

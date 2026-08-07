@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Overzichten",
   "organizationLibrary.creator.downloadCsv": "CSV downloaden",
   "organizationLibrary.creator.units": "Eenheden",
-  "organizationLibrary.creator.revokeReason": "Reden voor intrekking (verplicht)"
+  "organizationLibrary.creator.revokeReason": "Reden voor intrekking (verplicht)",
+  "organizationLibrary.admin.nav": "Bibliotheekroyalty's",
+  "organizationLibrary.admin.title": "Toezicht op bibliotheekroyalty's",
+  "organizationLibrary.admin.outstanding": "Openstaande verplichtingen aan makers",
+  "organizationLibrary.admin.none": "Niets vereist aandacht.",
+  "organizationLibrary.admin.periods": "Periodes die aandacht vereisen",
+  "organizationLibrary.admin.allocations": "Verdelingen die aandacht vereisen",
+  "organizationLibrary.admin.locked": "afrekening loopt",
+  "organizationLibrary.admin.retry": "Afrekening opnieuw proberen",
+  "organizationLibrary.admin.reason": "Reden",
+  "organizationLibrary.admin.recipient": "Ontvanger",
+  "organizationLibrary.admin.attempts": "Pogingen"
 }

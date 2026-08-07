@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Abrechnungen",
   "organizationLibrary.creator.downloadCsv": "CSV herunterladen",
   "organizationLibrary.creator.units": "Einheiten",
-  "organizationLibrary.creator.revokeReason": "Grund für den Widerruf (erforderlich)"
+  "organizationLibrary.creator.revokeReason": "Grund für den Widerruf (erforderlich)",
+  "organizationLibrary.admin.nav": "Bibliothekstantiemen",
+  "organizationLibrary.admin.title": "Aufsicht über Bibliothekstantiemen",
+  "organizationLibrary.admin.outstanding": "Ausstehende Creator-Verbindlichkeiten",
+  "organizationLibrary.admin.none": "Kein Handlungsbedarf.",
+  "organizationLibrary.admin.periods": "Zeiträume mit Handlungsbedarf",
+  "organizationLibrary.admin.allocations": "Verteilungen mit Handlungsbedarf",
+  "organizationLibrary.admin.locked": "Abrechnung läuft",
+  "organizationLibrary.admin.retry": "Abrechnung wiederholen",
+  "organizationLibrary.admin.reason": "Grund",
+  "organizationLibrary.admin.recipient": "Empfänger",
+  "organizationLibrary.admin.attempts": "Versuche"
 }

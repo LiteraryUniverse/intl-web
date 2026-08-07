@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "State",
   "organizationLibrary.creator.downloadCsv": "Laai CSV af",
   "organizationLibrary.creator.units": "Eenhede",
-  "organizationLibrary.creator.revokeReason": "Rede vir herroeping (vereis)"
+  "organizationLibrary.creator.revokeReason": "Rede vir herroeping (vereis)",
+  "organizationLibrary.admin.nav": "Biblioteek-tantième",
+  "organizationLibrary.admin.title": "Toesig oor Biblioteek-tantième",
+  "organizationLibrary.admin.outstanding": "Uitstaande verpligtinge aan skeppers",
+  "organizationLibrary.admin.none": "Niks vereis aandag nie.",
+  "organizationLibrary.admin.periods": "Tydperke wat aandag vereis",
+  "organizationLibrary.admin.allocations": "Toedelings wat aandag vereis",
+  "organizationLibrary.admin.locked": "vereffening aan die gang",
+  "organizationLibrary.admin.retry": "Probeer vereffening weer",
+  "organizationLibrary.admin.reason": "Rede",
+  "organizationLibrary.admin.recipient": "Ontvanger",
+  "organizationLibrary.admin.attempts": "Pogings"
 }

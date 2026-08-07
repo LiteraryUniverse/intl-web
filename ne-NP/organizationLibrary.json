@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "विवरणहरू",
   "organizationLibrary.creator.downloadCsv": "CSV डाउनलोड गर्नुहोस्",
   "organizationLibrary.creator.units": "एकाइहरू",
-  "organizationLibrary.creator.revokeReason": "फिर्ता लिनुको कारण (आवश्यक)"
+  "organizationLibrary.creator.revokeReason": "फिर्ता लिनुको कारण (आवश्यक)",
+  "organizationLibrary.admin.nav": "लाइब्रेरी रोयल्टी",
+  "organizationLibrary.admin.title": "लाइब्रेरी रोयल्टी अनुगमन",
+  "organizationLibrary.admin.outstanding": "सर्जकलाई तिर्न बाँकी दायित्व",
+  "organizationLibrary.admin.none": "ध्यान दिनुपर्ने केही छैन।",
+  "organizationLibrary.admin.periods": "ध्यान दिनुपर्ने अवधिहरू",
+  "organizationLibrary.admin.allocations": "ध्यान दिनुपर्ने बाँडफाँटहरू",
+  "organizationLibrary.admin.locked": "फर्छ्यौट चलिरहेको छ",
+  "organizationLibrary.admin.retry": "फर्छ्यौट पुनः चलाउनुहोस्",
+  "organizationLibrary.admin.reason": "कारण",
+  "organizationLibrary.admin.recipient": "प्राप्तकर्ता",
+  "organizationLibrary.admin.attempts": "प्रयास"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Situații",
   "organizationLibrary.creator.downloadCsv": "Descarcă CSV",
   "organizationLibrary.creator.units": "Unități",
-  "organizationLibrary.creator.revokeReason": "Motivul revocării (obligatoriu)"
+  "organizationLibrary.creator.revokeReason": "Motivul revocării (obligatoriu)",
+  "organizationLibrary.admin.nav": "Redevențe din Bibliotecă",
+  "organizationLibrary.admin.title": "Supravegherea redevențelor din Bibliotecă",
+  "organizationLibrary.admin.outstanding": "Obligații neachitate către creatori",
+  "organizationLibrary.admin.none": "Nimic nu necesită atenție.",
+  "organizationLibrary.admin.periods": "Perioade care necesită atenție",
+  "organizationLibrary.admin.allocations": "Alocări care necesită atenție",
+  "organizationLibrary.admin.locked": "decontare în curs",
+  "organizationLibrary.admin.retry": "Reia decontarea",
+  "organizationLibrary.admin.reason": "Motiv",
+  "organizationLibrary.admin.recipient": "Destinatar",
+  "organizationLibrary.admin.attempts": "Încercări"
 }

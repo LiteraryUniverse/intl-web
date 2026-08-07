@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Laporan",
   "organizationLibrary.creator.downloadCsv": "Undhuh CSV",
   "organizationLibrary.creator.units": "Unit",
-  "organizationLibrary.creator.revokeReason": "Alasan mbatalake (wajib)"
+  "organizationLibrary.creator.revokeReason": "Alasan mbatalake (wajib)",
+  "organizationLibrary.admin.nav": "Royalti Perpustakaan",
+  "organizationLibrary.admin.title": "Pengawasan royalti Perpustakaan",
+  "organizationLibrary.admin.outstanding": "Kewajiban marang kreator sing durung lunas",
+  "organizationLibrary.admin.none": "Ora ana sing perlu digatekake.",
+  "organizationLibrary.admin.periods": "Periode sing perlu digatekake",
+  "organizationLibrary.admin.allocations": "Alokasi sing perlu digatekake",
+  "organizationLibrary.admin.locked": "penyelesaian lagi mlaku",
+  "organizationLibrary.admin.retry": "Baleni penyelesaian",
+  "organizationLibrary.admin.reason": "Alasan",
+  "organizationLibrary.admin.recipient": "Panampa",
+  "organizationLibrary.admin.attempts": "Percobaan"
 }

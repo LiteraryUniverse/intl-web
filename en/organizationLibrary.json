@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Statements",
   "organizationLibrary.creator.downloadCsv": "Download CSV",
   "organizationLibrary.creator.units": "Units",
-  "organizationLibrary.creator.revokeReason": "Reason for revocation (required)"
+  "organizationLibrary.creator.revokeReason": "Reason for revocation (required)",
+  "organizationLibrary.admin.nav": "Library royalties",
+  "organizationLibrary.admin.title": "Library royalty oversight",
+  "organizationLibrary.admin.outstanding": "Outstanding creator liabilities",
+  "organizationLibrary.admin.none": "Nothing needs attention.",
+  "organizationLibrary.admin.periods": "Periods needing attention",
+  "organizationLibrary.admin.allocations": "Allocations needing attention",
+  "organizationLibrary.admin.locked": "settlement running",
+  "organizationLibrary.admin.retry": "Retry settlement",
+  "organizationLibrary.admin.reason": "Reason",
+  "organizationLibrary.admin.recipient": "Recipient",
+  "organizationLibrary.admin.attempts": "Attempts"
 }

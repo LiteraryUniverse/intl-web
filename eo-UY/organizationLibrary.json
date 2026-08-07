@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Kalkuloj",
   "organizationLibrary.creator.downloadCsv": "Elŝuti CSV",
   "organizationLibrary.creator.units": "Unuoj",
-  "organizationLibrary.creator.revokeReason": "Kialo de revoko (deviga)"
+  "organizationLibrary.creator.revokeReason": "Kialo de revoko (deviga)",
+  "organizationLibrary.admin.nav": "Bibliotekaj tantiemoj",
+  "organizationLibrary.admin.title": "Kontrolo de bibliotekaj tantiemoj",
+  "organizationLibrary.admin.outstanding": "Nepagitaj ŝuldoj al kreantoj",
+  "organizationLibrary.admin.none": "Nenio bezonas atenton.",
+  "organizationLibrary.admin.periods": "Periodoj bezonantaj atenton",
+  "organizationLibrary.admin.allocations": "Asignoj bezonantaj atenton",
+  "organizationLibrary.admin.locked": "elpago plenumiĝas",
+  "organizationLibrary.admin.retry": "Reprovi elpagon",
+  "organizationLibrary.admin.reason": "Kialo",
+  "organizationLibrary.admin.recipient": "Ricevanto",
+  "organizationLibrary.admin.attempts": "Provoj"
 }

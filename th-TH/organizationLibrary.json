@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "รายงาน",
   "organizationLibrary.creator.downloadCsv": "ดาวน์โหลด CSV",
   "organizationLibrary.creator.units": "หน่วย",
-  "organizationLibrary.creator.revokeReason": "เหตุผลในการเพิกถอน (จำเป็น)"
+  "organizationLibrary.creator.revokeReason": "เหตุผลในการเพิกถอน (จำเป็น)",
+  "organizationLibrary.admin.nav": "ค่าลิขสิทธิ์ห้องสมุด",
+  "organizationLibrary.admin.title": "การกำกับดูแลค่าลิขสิทธิ์ห้องสมุด",
+  "organizationLibrary.admin.outstanding": "ยอดค้างจ่ายแก่ครีเอเตอร์",
+  "organizationLibrary.admin.none": "ไม่มีรายการที่ต้องดำเนินการ",
+  "organizationLibrary.admin.periods": "งวดที่ต้องดำเนินการ",
+  "organizationLibrary.admin.allocations": "การจัดสรรที่ต้องดำเนินการ",
+  "organizationLibrary.admin.locked": "กำลังปิดงวด",
+  "organizationLibrary.admin.retry": "ปิดงวดอีกครั้ง",
+  "organizationLibrary.admin.reason": "เหตุผล",
+  "organizationLibrary.admin.recipient": "ผู้รับเงิน",
+  "organizationLibrary.admin.attempts": "จำนวนครั้ง"
 }

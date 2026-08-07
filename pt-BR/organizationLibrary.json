@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Demonstrativos",
   "organizationLibrary.creator.downloadCsv": "Baixar CSV",
   "organizationLibrary.creator.units": "Unidades",
-  "organizationLibrary.creator.revokeReason": "Motivo da revogação (obrigatório)"
+  "organizationLibrary.creator.revokeReason": "Motivo da revogação (obrigatório)",
+  "organizationLibrary.admin.nav": "Royalties da Biblioteca",
+  "organizationLibrary.admin.title": "Supervisão de royalties da Biblioteca",
+  "organizationLibrary.admin.outstanding": "Obrigações pendentes com criadores",
+  "organizationLibrary.admin.none": "Nada requer atenção.",
+  "organizationLibrary.admin.periods": "Períodos que requerem atenção",
+  "organizationLibrary.admin.allocations": "Alocações que requerem atenção",
+  "organizationLibrary.admin.locked": "liquidação em andamento",
+  "organizationLibrary.admin.retry": "Repetir liquidação",
+  "organizationLibrary.admin.reason": "Motivo",
+  "organizationLibrary.admin.recipient": "Destinatário",
+  "organizationLibrary.admin.attempts": "Tentativas"
 }

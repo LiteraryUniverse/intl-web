@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Opgørelser",
   "organizationLibrary.creator.downloadCsv": "Download CSV",
   "organizationLibrary.creator.units": "Enheder",
-  "organizationLibrary.creator.revokeReason": "Årsag til tilbagekaldelse (påkrævet)"
+  "organizationLibrary.creator.revokeReason": "Årsag til tilbagekaldelse (påkrævet)",
+  "organizationLibrary.admin.nav": "Biblioteksroyalties",
+  "organizationLibrary.admin.title": "Tilsyn med biblioteksroyalties",
+  "organizationLibrary.admin.outstanding": "Udestående forpligtelser over for skabere",
+  "organizationLibrary.admin.none": "Intet kræver opmærksomhed.",
+  "organizationLibrary.admin.periods": "Perioder der kræver opmærksomhed",
+  "organizationLibrary.admin.allocations": "Fordelinger der kræver opmærksomhed",
+  "organizationLibrary.admin.locked": "afregning kører",
+  "organizationLibrary.admin.retry": "Prøv afregning igen",
+  "organizationLibrary.admin.reason": "Årsag",
+  "organizationLibrary.admin.recipient": "Modtager",
+  "organizationLibrary.admin.attempts": "Forsøg"
 }

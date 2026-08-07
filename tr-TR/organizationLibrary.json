@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Bildirimler",
   "organizationLibrary.creator.downloadCsv": "CSV indir",
   "organizationLibrary.creator.units": "Birimler",
-  "organizationLibrary.creator.revokeReason": "İptal nedeni (zorunlu)"
+  "organizationLibrary.creator.revokeReason": "İptal nedeni (zorunlu)",
+  "organizationLibrary.admin.nav": "Kütüphane telif ücretleri",
+  "organizationLibrary.admin.title": "Kütüphane telif ücreti gözetimi",
+  "organizationLibrary.admin.outstanding": "Yaratıcılara ödenmemiş borçlar",
+  "organizationLibrary.admin.none": "Dikkat gerektiren bir şey yok.",
+  "organizationLibrary.admin.periods": "Dikkat gerektiren dönemler",
+  "organizationLibrary.admin.allocations": "Dikkat gerektiren dağıtımlar",
+  "organizationLibrary.admin.locked": "mutabakat sürüyor",
+  "organizationLibrary.admin.retry": "Mutabakatı yeniden dene",
+  "organizationLibrary.admin.reason": "Neden",
+  "organizationLibrary.admin.recipient": "Alıcı",
+  "organizationLibrary.admin.attempts": "Deneme sayısı"
 }

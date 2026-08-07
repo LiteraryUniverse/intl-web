@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "lo notci",
   "organizationLibrary.creator.downloadCsv": "kibycpa lo CSV",
   "organizationLibrary.creator.units": "lo klani",
-  "organizationLibrary.creator.revokeReason": "lo krinu be lo nu xruti (sarcu)"
+  "organizationLibrary.creator.revokeReason": "lo krinu be lo nu xruti (sarcu)",
+  "organizationLibrary.admin.nav": "lo ckusro fintypleji",
+  "organizationLibrary.admin.title": "lo nu zgana lo ckusro fintypleji",
+  "organizationLibrary.admin.outstanding": "lo ca'o se dejni be fi lo finti",
+  "organizationLibrary.admin.none": ".i no da nitcu lo nu se jundi.",
+  "organizationLibrary.admin.periods": "lo temci poi nitcu lo nu se jundi",
+  "organizationLibrary.admin.allocations": "lo te fatri poi nitcu lo nu se jundi",
+  "organizationLibrary.admin.locked": "ca'o fatri lo jdini",
+  "organizationLibrary.admin.retry": "za'ure'u fatri lo jdini",
+  "organizationLibrary.admin.reason": "lo krinu",
+  "organizationLibrary.admin.recipient": "lo te benji",
+  "organizationLibrary.admin.attempts": "lo ni troci"
 }

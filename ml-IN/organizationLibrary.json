@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "സ്റ്റേറ്റ്മെന്റുകൾ",
   "organizationLibrary.creator.downloadCsv": "CSV ഡൗൺലോഡ് ചെയ്യുക",
   "organizationLibrary.creator.units": "യൂണിറ്റുകൾ",
-  "organizationLibrary.creator.revokeReason": "റദ്ദാക്കാനുള്ള കാരണം (നിർബന്ധം)"
+  "organizationLibrary.creator.revokeReason": "റദ്ദാക്കാനുള്ള കാരണം (നിർബന്ധം)",
+  "organizationLibrary.admin.nav": "ലൈബ്രറി റോയൽറ്റികൾ",
+  "organizationLibrary.admin.title": "ലൈബ്രറി റോയൽറ്റി മേൽനോട്ടം",
+  "organizationLibrary.admin.outstanding": "സ്രഷ്ടാക്കൾക്കുള്ള കുടിശ്ശിക ബാധ്യതകൾ",
+  "organizationLibrary.admin.none": "ശ്രദ്ധ ആവശ്യമുള്ളതൊന്നുമില്ല.",
+  "organizationLibrary.admin.periods": "ശ്രദ്ധ ആവശ്യമുള്ള കാലയളവുകൾ",
+  "organizationLibrary.admin.allocations": "ശ്രദ്ധ ആവശ്യമുള്ള വിഹിതങ്ങൾ",
+  "organizationLibrary.admin.locked": "സെറ്റിൽമെന്റ് നടക്കുന്നു",
+  "organizationLibrary.admin.retry": "സെറ്റിൽമെന്റ് വീണ്ടും ശ്രമിക്കുക",
+  "organizationLibrary.admin.reason": "കാരണം",
+  "organizationLibrary.admin.recipient": "സ്വീകർത്താവ്",
+  "organizationLibrary.admin.attempts": "ശ്രമങ്ങൾ"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "རྩིས་ཐོ།",
   "organizationLibrary.creator.downloadCsv": "CSV ཕབ་ལེན།",
   "organizationLibrary.creator.units": "གྲངས་ཚད།",
-  "organizationLibrary.creator.revokeReason": "ཕྱིར་བསྡུའི་རྒྱུ་མཚན། (ངེས་པར་དགོས།)"
+  "organizationLibrary.creator.revokeReason": "ཕྱིར་བསྡུའི་རྒྱུ་མཚན། (ངེས་པར་དགོས།)",
+  "organizationLibrary.admin.nav": "དཔེ་མཛོད་ཀྱི་རྩོམ་ཡོན།",
+  "organizationLibrary.admin.title": "དཔེ་མཛོད་རྩོམ་ཡོན་གྱི་ལྟ་རྟོག",
+  "organizationLibrary.admin.outstanding": "གསར་རྩོམ་པ་ཚོར་མ་སྤྲད་པའི་བུ་ལོན།",
+  "organizationLibrary.admin.none": "དོ་སྣང་བྱེད་དགོས་པ་གང་ཡང་མེད།",
+  "organizationLibrary.admin.periods": "དོ་སྣང་བྱེད་དགོས་པའི་དུས་ཡུན།",
+  "organizationLibrary.admin.allocations": "དོ་སྣང་བྱེད་དགོས་པའི་བགོ་འགྲེམས།",
+  "organizationLibrary.admin.locked": "རྩིས་གཙང་བྱེད་བཞིན་པ།",
+  "organizationLibrary.admin.retry": "རྩིས་གཙང་ཡང་བསྐྱར་ཚོད་ལྟ།",
+  "organizationLibrary.admin.reason": "རྒྱུ་མཚན།",
+  "organizationLibrary.admin.recipient": "ལེན་མཁན།",
+  "organizationLibrary.admin.attempts": "ཚོད་ལྟའི་ཐེངས་གྲངས།"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "ਸਟੇਟਮੈਂਟਾਂ",
   "organizationLibrary.creator.downloadCsv": "CSV ਡਾਊਨਲੋਡ ਕਰੋ",
   "organizationLibrary.creator.units": "ਯੂਨਿਟਾਂ",
-  "organizationLibrary.creator.revokeReason": "ਰੱਦ ਕਰਨ ਦਾ ਕਾਰਨ (ਲਾਜ਼ਮੀ)"
+  "organizationLibrary.creator.revokeReason": "ਰੱਦ ਕਰਨ ਦਾ ਕਾਰਨ (ਲਾਜ਼ਮੀ)",
+  "organizationLibrary.admin.nav": "ਲਾਇਬ੍ਰੇਰੀ ਰਾਇਲਟੀਆਂ",
+  "organizationLibrary.admin.title": "ਲਾਇਬ੍ਰੇਰੀ ਰਾਇਲਟੀਆਂ ਦੀ ਨਿਗਰਾਨੀ",
+  "organizationLibrary.admin.outstanding": "ਸਿਰਜਣਹਾਰਾਂ ਪ੍ਰਤੀ ਬਕਾਇਆ ਦੇਣਦਾਰੀਆਂ",
+  "organizationLibrary.admin.none": "ਕਿਸੇ ਚੀਜ਼ ਨੂੰ ਧਿਆਨ ਦੀ ਲੋੜ ਨਹੀਂ।",
+  "organizationLibrary.admin.periods": "ਧਿਆਨ ਦੀ ਲੋੜ ਵਾਲੀਆਂ ਮਿਆਦਾਂ",
+  "organizationLibrary.admin.allocations": "ਧਿਆਨ ਦੀ ਲੋੜ ਵਾਲੀਆਂ ਵੰਡਾਂ",
+  "organizationLibrary.admin.locked": "ਨਿਪਟਾਰਾ ਚੱਲ ਰਿਹਾ ਹੈ",
+  "organizationLibrary.admin.retry": "ਨਿਪਟਾਰਾ ਮੁੜ ਚਲਾਓ",
+  "organizationLibrary.admin.reason": "ਕਾਰਨ",
+  "organizationLibrary.admin.recipient": "ਪ੍ਰਾਪਤਕਰਤਾ",
+  "organizationLibrary.admin.attempts": "ਕੋਸ਼ਿਸ਼ਾਂ"
 }

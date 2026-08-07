@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Laporan",
   "organizationLibrary.creator.downloadCsv": "Unduh CSV",
   "organizationLibrary.creator.units": "Unit",
-  "organizationLibrary.creator.revokeReason": "Alasan pencabutan (wajib)"
+  "organizationLibrary.creator.revokeReason": "Alasan pencabutan (wajib)",
+  "organizationLibrary.admin.nav": "Royalti Perpustakaan",
+  "organizationLibrary.admin.title": "Pengawasan royalti perpustakaan",
+  "organizationLibrary.admin.outstanding": "Kewajiban terutang kepada kreator",
+  "organizationLibrary.admin.none": "Tidak ada yang perlu perhatian.",
+  "organizationLibrary.admin.periods": "Periode yang perlu perhatian",
+  "organizationLibrary.admin.allocations": "Alokasi yang perlu perhatian",
+  "organizationLibrary.admin.locked": "penyelesaian sedang berjalan",
+  "organizationLibrary.admin.retry": "Ulangi penyelesaian",
+  "organizationLibrary.admin.reason": "Alasan",
+  "organizationLibrary.admin.recipient": "Penerima",
+  "organizationLibrary.admin.attempts": "Percobaan"
 }

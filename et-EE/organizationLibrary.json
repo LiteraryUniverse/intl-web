@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Aruanded",
   "organizationLibrary.creator.downloadCsv": "Laadi alla CSV",
   "organizationLibrary.creator.units": "Ühikud",
-  "organizationLibrary.creator.revokeReason": "Tagasivõtmise põhjus (kohustuslik)"
+  "organizationLibrary.creator.revokeReason": "Tagasivõtmise põhjus (kohustuslik)",
+  "organizationLibrary.admin.nav": "Raamatukogu autoritasud",
+  "organizationLibrary.admin.title": "Raamatukogu autoritasude järelevalve",
+  "organizationLibrary.admin.outstanding": "Tasumata kohustused loojate ees",
+  "organizationLibrary.admin.none": "Midagi ei vaja tähelepanu.",
+  "organizationLibrary.admin.periods": "Tähelepanu vajavad perioodid",
+  "organizationLibrary.admin.allocations": "Tähelepanu vajavad jaotused",
+  "organizationLibrary.admin.locked": "arveldus käib",
+  "organizationLibrary.admin.retry": "Proovi arveldust uuesti",
+  "organizationLibrary.admin.reason": "Põhjus",
+  "organizationLibrary.admin.recipient": "Saaja",
+  "organizationLibrary.admin.attempts": "Katsed"
 }

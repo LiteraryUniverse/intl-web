@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "ବିବରଣୀ",
   "organizationLibrary.creator.downloadCsv": "CSV ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
   "organizationLibrary.creator.units": "ୟୁନିଟ୍",
-  "organizationLibrary.creator.revokeReason": "ପ୍ରତ୍ୟାହାରର କାରଣ (ଆବଶ୍ୟକ)"
+  "organizationLibrary.creator.revokeReason": "ପ୍ରତ୍ୟାହାରର କାରଣ (ଆବଶ୍ୟକ)",
+  "organizationLibrary.admin.nav": "ଲାଇବ୍ରେରୀ ରୟାଲଟି",
+  "organizationLibrary.admin.title": "ଲାଇବ୍ରେରୀ ରୟାଲଟି ତଦାରଖ",
+  "organizationLibrary.admin.outstanding": "ସୃଷ୍ଟିକର୍ତ୍ତାଙ୍କ ପ୍ରତି ବକେୟା ଦାୟିତ୍ୱ",
+  "organizationLibrary.admin.none": "ମନୋଯୋଗ ଆବଶ୍ୟକ କରୁଥିବା କିଛି ନାହିଁ।",
+  "organizationLibrary.admin.periods": "ମନୋଯୋଗ ଆବଶ୍ୟକ କରୁଥିବା ଅବଧି",
+  "organizationLibrary.admin.allocations": "ମନୋଯୋଗ ଆବଶ୍ୟକ କରୁଥିବା ବଣ୍ଟନ",
+  "organizationLibrary.admin.locked": "ସେଟଲମେଣ୍ଟ ଚାଲିଛି",
+  "organizationLibrary.admin.retry": "ସେଟଲମେଣ୍ଟ ପୁନଃ ଚଲାନ୍ତୁ",
+  "organizationLibrary.admin.reason": "କାରଣ",
+  "organizationLibrary.admin.recipient": "ପ୍ରାପକ",
+  "organizationLibrary.admin.attempts": "ପ୍ରଚେଷ୍ଟା"
 }

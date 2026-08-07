@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Výkazy",
   "organizationLibrary.creator.downloadCsv": "Stáhnout CSV",
   "organizationLibrary.creator.units": "Jednotky",
-  "organizationLibrary.creator.revokeReason": "Důvod odvolání (povinné)"
+  "organizationLibrary.creator.revokeReason": "Důvod odvolání (povinné)",
+  "organizationLibrary.admin.nav": "Tantiémy knihovny",
+  "organizationLibrary.admin.title": "Dohled nad tantiémami knihovny",
+  "organizationLibrary.admin.outstanding": "Neuhrazené závazky vůči tvůrcům",
+  "organizationLibrary.admin.none": "Nic nevyžaduje pozornost.",
+  "organizationLibrary.admin.periods": "Období vyžadující pozornost",
+  "organizationLibrary.admin.allocations": "Alokace vyžadující pozornost",
+  "organizationLibrary.admin.locked": "probíhá vypořádání",
+  "organizationLibrary.admin.retry": "Opakovat vypořádání",
+  "organizationLibrary.admin.reason": "Důvod",
+  "organizationLibrary.admin.recipient": "Příjemce",
+  "organizationLibrary.admin.attempts": "Pokusy"
 }

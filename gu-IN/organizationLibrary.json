@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "સ્ટેટમેન્ટ",
   "organizationLibrary.creator.downloadCsv": "CSV ડાઉનલોડ કરો",
   "organizationLibrary.creator.units": "એકમો",
-  "organizationLibrary.creator.revokeReason": "રદ કરવાનું કારણ (જરૂરી)"
+  "organizationLibrary.creator.revokeReason": "રદ કરવાનું કારણ (જરૂરી)",
+  "organizationLibrary.admin.nav": "લાઇબ્રેરી રૉયલ્ટી",
+  "organizationLibrary.admin.title": "લાઇબ્રેરી રૉયલ્ટીની દેખરેખ",
+  "organizationLibrary.admin.outstanding": "સર્જકો પ્રત્યેની બાકી જવાબદારીઓ",
+  "organizationLibrary.admin.none": "ધ્યાન માગતું કંઈ નથી.",
+  "organizationLibrary.admin.periods": "ધ્યાન માગતા સમયગાળા",
+  "organizationLibrary.admin.allocations": "ધ્યાન માગતી ફાળવણીઓ",
+  "organizationLibrary.admin.locked": "પતાવટ ચાલુ છે",
+  "organizationLibrary.admin.retry": "પતાવટ ફરી ચલાવો",
+  "organizationLibrary.admin.reason": "કારણ",
+  "organizationLibrary.admin.recipient": "પ્રાપ્તકર્તા",
+  "organizationLibrary.admin.attempts": "પ્રયાસો"
 }

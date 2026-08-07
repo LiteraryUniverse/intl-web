@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "বিৱৰণীসমূহ",
   "organizationLibrary.creator.downloadCsv": "CSV ডাউনল'ড কৰক",
   "organizationLibrary.creator.units": "একক",
-  "organizationLibrary.creator.revokeReason": "প্ৰত্যাহাৰৰ কাৰণ (প্ৰয়োজনীয়)"
+  "organizationLibrary.creator.revokeReason": "প্ৰত্যাহাৰৰ কাৰণ (প্ৰয়োজনীয়)",
+  "organizationLibrary.admin.nav": "লাইব্ৰেৰী ৰয়েল্টি",
+  "organizationLibrary.admin.title": "লাইব্ৰেৰী ৰয়েল্টিৰ তত্ত্বাৱধান",
+  "organizationLibrary.admin.outstanding": "সৃষ্টিকৰ্তাৰ বকেয়া দায়",
+  "organizationLibrary.admin.none": "মনোযোগৰ প্ৰয়োজন থকা একো নাই।",
+  "organizationLibrary.admin.periods": "মনোযোগৰ প্ৰয়োজন থকা সময়সীমা",
+  "organizationLibrary.admin.allocations": "মনোযোগৰ প্ৰয়োজন থকা বিতৰণ",
+  "organizationLibrary.admin.locked": "নিষ্পত্তি চলি আছে",
+  "organizationLibrary.admin.retry": "নিষ্পত্তি পুনৰ চলাওক",
+  "organizationLibrary.admin.reason": "কাৰণ",
+  "organizationLibrary.admin.recipient": "গ্ৰহীতা",
+  "organizationLibrary.admin.attempts": "প্ৰচেষ্টা"
 }

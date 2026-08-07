@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Kimutatások",
   "organizationLibrary.creator.downloadCsv": "CSV letöltése",
   "organizationLibrary.creator.units": "Egységek",
-  "organizationLibrary.creator.revokeReason": "Visszavonás indoka (kötelező)"
+  "organizationLibrary.creator.revokeReason": "Visszavonás indoka (kötelező)",
+  "organizationLibrary.admin.nav": "Könyvtári jogdíjak",
+  "organizationLibrary.admin.title": "Könyvtári jogdíjak felügyelete",
+  "organizationLibrary.admin.outstanding": "Alkotók felé fennálló kötelezettségek",
+  "organizationLibrary.admin.none": "Semmi sem igényel figyelmet.",
+  "organizationLibrary.admin.periods": "Figyelmet igénylő időszakok",
+  "organizationLibrary.admin.allocations": "Figyelmet igénylő elosztások",
+  "organizationLibrary.admin.locked": "elszámolás folyamatban",
+  "organizationLibrary.admin.retry": "Elszámolás újrapróbálása",
+  "organizationLibrary.admin.reason": "Ok",
+  "organizationLibrary.admin.recipient": "Címzett",
+  "organizationLibrary.admin.attempts": "Kísérletek"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "דוחות",
   "organizationLibrary.creator.downloadCsv": "הורדת CSV",
   "organizationLibrary.creator.units": "יחידות",
-  "organizationLibrary.creator.revokeReason": "סיבת הביטול (חובה)"
+  "organizationLibrary.creator.revokeReason": "סיבת הביטול (חובה)",
+  "organizationLibrary.admin.nav": "תמלוגי ספרייה",
+  "organizationLibrary.admin.title": "פיקוח על תמלוגי הספרייה",
+  "organizationLibrary.admin.outstanding": "התחייבויות פתוחות ליוצרים",
+  "organizationLibrary.admin.none": "אין דבר הדורש טיפול.",
+  "organizationLibrary.admin.periods": "תקופות הדורשות טיפול",
+  "organizationLibrary.admin.allocations": "הקצאות הדורשות טיפול",
+  "organizationLibrary.admin.locked": "התחשבנות מתבצעת",
+  "organizationLibrary.admin.retry": "הרצת ההתחשבנות מחדש",
+  "organizationLibrary.admin.reason": "סיבה",
+  "organizationLibrary.admin.recipient": "מקבל התשלום",
+  "organizationLibrary.admin.attempts": "ניסיונות"
 }

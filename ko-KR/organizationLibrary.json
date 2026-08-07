@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "명세서",
   "organizationLibrary.creator.downloadCsv": "CSV 다운로드",
   "organizationLibrary.creator.units": "단위",
-  "organizationLibrary.creator.revokeReason": "철회 사유 (필수)"
+  "organizationLibrary.creator.revokeReason": "철회 사유 (필수)",
+  "organizationLibrary.admin.nav": "라이브러리 로열티",
+  "organizationLibrary.admin.title": "라이브러리 로열티 관리",
+  "organizationLibrary.admin.outstanding": "창작자 미지급금",
+  "organizationLibrary.admin.none": "주의가 필요한 항목이 없습니다.",
+  "organizationLibrary.admin.periods": "주의가 필요한 기간",
+  "organizationLibrary.admin.allocations": "주의가 필요한 배분",
+  "organizationLibrary.admin.locked": "정산 진행 중",
+  "organizationLibrary.admin.retry": "정산 재시도",
+  "organizationLibrary.admin.reason": "사유",
+  "organizationLibrary.admin.recipient": "수취인",
+  "organizationLibrary.admin.attempts": "시도 횟수"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Звіти",
   "organizationLibrary.creator.downloadCsv": "Завантажити CSV",
   "organizationLibrary.creator.units": "Одиниці",
-  "organizationLibrary.creator.revokeReason": "Причина відкликання (обов'язково)"
+  "organizationLibrary.creator.revokeReason": "Причина відкликання (обов'язково)",
+  "organizationLibrary.admin.nav": "Роялті Бібліотеки",
+  "organizationLibrary.admin.title": "Нагляд за роялті Бібліотеки",
+  "organizationLibrary.admin.outstanding": "Заборгованість перед авторами",
+  "organizationLibrary.admin.none": "Нічого не потребує уваги.",
+  "organizationLibrary.admin.periods": "Періоди, що потребують уваги",
+  "organizationLibrary.admin.allocations": "Розподіли, що потребують уваги",
+  "organizationLibrary.admin.locked": "триває розрахунок",
+  "organizationLibrary.admin.retry": "Повторити розрахунок",
+  "organizationLibrary.admin.reason": "Причина",
+  "organizationLibrary.admin.recipient": "Отримувач",
+  "organizationLibrary.admin.attempts": "Спроби"
 }

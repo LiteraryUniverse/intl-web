@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Laporan",
   "organizationLibrary.creator.downloadCsv": "Unduh CSV",
   "organizationLibrary.creator.units": "Unit",
-  "organizationLibrary.creator.revokeReason": "Alasan pembatalan (kabuatang)"
+  "organizationLibrary.creator.revokeReason": "Alasan pembatalan (kabuatang)",
+  "organizationLibrary.admin.nav": "Royalti Perpustakaan",
+  "organizationLibrary.admin.title": "Pengawasan Royalti Perpustakaan",
+  "organizationLibrary.admin.outstanding": "Kewajiban sané kantun majeng ring pangripta",
+  "organizationLibrary.admin.none": "Nénten wénten sané patut kauratiang.",
+  "organizationLibrary.admin.periods": "Periode sané patut kauratiang",
+  "organizationLibrary.admin.allocations": "Pembagian sané patut kauratiang",
+  "organizationLibrary.admin.locked": "penyelesaian kantun mamargi",
+  "organizationLibrary.admin.retry": "Margiang malih penyelesaian",
+  "organizationLibrary.admin.reason": "Alasan",
+  "organizationLibrary.admin.recipient": "Panampi",
+  "organizationLibrary.admin.attempts": "Percobaan"
 }

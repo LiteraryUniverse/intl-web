@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "నివేదికలు",
   "organizationLibrary.creator.downloadCsv": "CSV డౌన్‌లోడ్ చేయండి",
   "organizationLibrary.creator.units": "యూనిట్లు",
-  "organizationLibrary.creator.revokeReason": "రద్దుకు కారణం (తప్పనిసరి)"
+  "organizationLibrary.creator.revokeReason": "రద్దుకు కారణం (తప్పనిసరి)",
+  "organizationLibrary.admin.nav": "లైబ్రరీ రాయల్టీలు",
+  "organizationLibrary.admin.title": "లైబ్రరీ రాయల్టీ పర్యవేక్షణ",
+  "organizationLibrary.admin.outstanding": "సృష్టికర్తలకు చెల్లించాల్సిన బకాయిలు",
+  "organizationLibrary.admin.none": "దేనికీ శ్రద్ధ అవసరం లేదు.",
+  "organizationLibrary.admin.periods": "శ్రద్ధ అవసరమైన కాలాలు",
+  "organizationLibrary.admin.allocations": "శ్రద్ధ అవసరమైన కేటాయింపులు",
+  "organizationLibrary.admin.locked": "సెటిల్‌మెంట్ జరుగుతోంది",
+  "organizationLibrary.admin.retry": "సెటిల్‌మెంట్‌ను మళ్లీ ప్రయత్నించండి",
+  "organizationLibrary.admin.reason": "కారణం",
+  "organizationLibrary.admin.recipient": "గ్రహీత",
+  "organizationLibrary.admin.attempts": "ప్రయత్నాలు"
 }

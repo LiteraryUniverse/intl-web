@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "বিবরণী",
   "organizationLibrary.creator.downloadCsv": "CSV ডাউনলোড করুন",
   "organizationLibrary.creator.units": "একক",
-  "organizationLibrary.creator.revokeReason": "প্রত্যাহারের কারণ (আবশ্যক)"
+  "organizationLibrary.creator.revokeReason": "প্রত্যাহারের কারণ (আবশ্যক)",
+  "organizationLibrary.admin.nav": "লাইব্রেরি রয়্যালটি",
+  "organizationLibrary.admin.title": "লাইব্রেরি রয়্যালটির তত্ত্বাবধান",
+  "organizationLibrary.admin.outstanding": "নির্মাতাদের বকেয়া দায়",
+  "organizationLibrary.admin.none": "মনোযোগ প্রয়োজন এমন কিছু নেই।",
+  "organizationLibrary.admin.periods": "মনোযোগ প্রয়োজন এমন সময়কাল",
+  "organizationLibrary.admin.allocations": "মনোযোগ প্রয়োজন এমন বণ্টন",
+  "organizationLibrary.admin.locked": "নিষ্পত্তি চলছে",
+  "organizationLibrary.admin.retry": "নিষ্পত্তি পুনরায় চালান",
+  "organizationLibrary.admin.reason": "কারণ",
+  "organizationLibrary.admin.recipient": "গ্রহীতা",
+  "organizationLibrary.admin.attempts": "প্রচেষ্টা"
 }

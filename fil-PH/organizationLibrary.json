@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Mga statement",
   "organizationLibrary.creator.downloadCsv": "I-download ang CSV",
   "organizationLibrary.creator.units": "Mga unit",
-  "organizationLibrary.creator.revokeReason": "Dahilan ng pagbawi (kinakailangan)"
+  "organizationLibrary.creator.revokeReason": "Dahilan ng pagbawi (kinakailangan)",
+  "organizationLibrary.admin.nav": "Mga royalty ng Library",
+  "organizationLibrary.admin.title": "Pangangasiwa sa mga royalty ng Library",
+  "organizationLibrary.admin.outstanding": "Mga natitirang pananagutan sa mga creator",
+  "organizationLibrary.admin.none": "Walang nangangailangan ng atensyon.",
+  "organizationLibrary.admin.periods": "Mga panahong nangangailangan ng atensyon",
+  "organizationLibrary.admin.allocations": "Mga paghahating nangangailangan ng atensyon",
+  "organizationLibrary.admin.locked": "isinasagawa ang settlement",
+  "organizationLibrary.admin.retry": "Ulitin ang settlement",
+  "organizationLibrary.admin.reason": "Dahilan",
+  "organizationLibrary.admin.recipient": "Tatanggap",
+  "organizationLibrary.admin.attempts": "Mga pagsubok"
 }

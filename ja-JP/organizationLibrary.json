@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "明細",
   "organizationLibrary.creator.downloadCsv": "CSVをダウンロード",
   "organizationLibrary.creator.units": "ユニット",
-  "organizationLibrary.creator.revokeReason": "取り消しの理由(必須)"
+  "organizationLibrary.creator.revokeReason": "取り消しの理由(必須)",
+  "organizationLibrary.admin.nav": "ライブラリロイヤリティ",
+  "organizationLibrary.admin.title": "ライブラリロイヤリティ管理",
+  "organizationLibrary.admin.outstanding": "クリエイターへの未払債務",
+  "organizationLibrary.admin.none": "対応が必要な項目はありません。",
+  "organizationLibrary.admin.periods": "要対応の期間",
+  "organizationLibrary.admin.allocations": "要対応の配分",
+  "organizationLibrary.admin.locked": "精算実行中",
+  "organizationLibrary.admin.retry": "精算を再実行",
+  "organizationLibrary.admin.reason": "理由",
+  "organizationLibrary.admin.recipient": "受取人",
+  "organizationLibrary.admin.attempts": "試行回数"
 }

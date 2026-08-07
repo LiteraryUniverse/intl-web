@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Rendiconti",
   "organizationLibrary.creator.downloadCsv": "Scarica CSV",
   "organizationLibrary.creator.units": "Unità",
-  "organizationLibrary.creator.revokeReason": "Motivo della revoca (obbligatorio)"
+  "organizationLibrary.creator.revokeReason": "Motivo della revoca (obbligatorio)",
+  "organizationLibrary.admin.nav": "Royalty della Biblioteca",
+  "organizationLibrary.admin.title": "Supervisione delle royalty della Biblioteca",
+  "organizationLibrary.admin.outstanding": "Passività verso i creatori",
+  "organizationLibrary.admin.none": "Nessun elemento richiede attenzione.",
+  "organizationLibrary.admin.periods": "Periodi che richiedono attenzione",
+  "organizationLibrary.admin.allocations": "Ripartizioni che richiedono attenzione",
+  "organizationLibrary.admin.locked": "liquidazione in corso",
+  "organizationLibrary.admin.retry": "Riprova liquidazione",
+  "organizationLibrary.admin.reason": "Motivo",
+  "organizationLibrary.admin.recipient": "Destinatario",
+  "organizationLibrary.admin.attempts": "Tentativi"
 }

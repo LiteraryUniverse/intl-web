@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Ráitis",
   "organizationLibrary.creator.downloadCsv": "Íoslódáil CSV",
   "organizationLibrary.creator.units": "Aonaid",
-  "organizationLibrary.creator.revokeReason": "Cúis leis an gcúlghairm (riachtanach)"
+  "organizationLibrary.creator.revokeReason": "Cúis leis an gcúlghairm (riachtanach)",
+  "organizationLibrary.admin.nav": "Ríchíosanna Leabharlainne",
+  "organizationLibrary.admin.title": "Maoirseacht ar Ríchíosanna Leabharlainne",
+  "organizationLibrary.admin.outstanding": "Dliteanais gan íoc i leith cruthaitheoirí",
+  "organizationLibrary.admin.none": "Níl aon rud ann a éilíonn aird.",
+  "organizationLibrary.admin.periods": "Tréimhsí a éilíonn aird",
+  "organizationLibrary.admin.allocations": "Leithdháiltí a éilíonn aird",
+  "organizationLibrary.admin.locked": "socraíocht ar siúl",
+  "organizationLibrary.admin.retry": "Atriail an tsocraíocht",
+  "organizationLibrary.admin.reason": "Cúis",
+  "organizationLibrary.admin.recipient": "Faighteoir",
+  "organizationLibrary.admin.attempts": "Iarrachtaí"
 }

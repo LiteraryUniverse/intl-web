@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Tilitykset",
   "organizationLibrary.creator.downloadCsv": "Lataa CSV",
   "organizationLibrary.creator.units": "Yksiköt",
-  "organizationLibrary.creator.revokeReason": "Peruutuksen syy (pakollinen)"
+  "organizationLibrary.creator.revokeReason": "Peruutuksen syy (pakollinen)",
+  "organizationLibrary.admin.nav": "Kirjaston rojaltit",
+  "organizationLibrary.admin.title": "Kirjaston rojaltien valvonta",
+  "organizationLibrary.admin.outstanding": "Tekijöille maksamattomat velat",
+  "organizationLibrary.admin.none": "Mikään ei vaadi huomiota.",
+  "organizationLibrary.admin.periods": "Huomiota vaativat jaksot",
+  "organizationLibrary.admin.allocations": "Huomiota vaativat jako-osuudet",
+  "organizationLibrary.admin.locked": "tilitys käynnissä",
+  "organizationLibrary.admin.retry": "Yritä tilitystä uudelleen",
+  "organizationLibrary.admin.reason": "Syy",
+  "organizationLibrary.admin.recipient": "Saaja",
+  "organizationLibrary.admin.attempts": "Yrityskerrat"
 }

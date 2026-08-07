@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "विवरणपत्रे",
   "organizationLibrary.creator.downloadCsv": "CSV डाउनलोड करा",
   "organizationLibrary.creator.units": "युनिट्स",
-  "organizationLibrary.creator.revokeReason": "मागे घेण्याचे कारण (आवश्यक)"
+  "organizationLibrary.creator.revokeReason": "मागे घेण्याचे कारण (आवश्यक)",
+  "organizationLibrary.admin.nav": "लायब्ररी रॉयल्टी",
+  "organizationLibrary.admin.title": "लायब्ररी रॉयल्टी देखरेख",
+  "organizationLibrary.admin.outstanding": "निर्मात्यांची थकीत देणी",
+  "organizationLibrary.admin.none": "लक्ष देण्याजोगे काहीही नाही.",
+  "organizationLibrary.admin.periods": "लक्ष देण्याजोगे कालावधी",
+  "organizationLibrary.admin.allocations": "लक्ष देण्याजोगी वाटपे",
+  "organizationLibrary.admin.locked": "सेटलमेंट सुरू आहे",
+  "organizationLibrary.admin.retry": "सेटलमेंट पुन्हा करा",
+  "organizationLibrary.admin.reason": "कारण",
+  "organizationLibrary.admin.recipient": "प्राप्तकर्ता",
+  "organizationLibrary.admin.attempts": "प्रयत्न"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Oppgjør",
   "organizationLibrary.creator.downloadCsv": "Last ned CSV",
   "organizationLibrary.creator.units": "Enheter",
-  "organizationLibrary.creator.revokeReason": "Årsak til tilbakekalling (påkrevd)"
+  "organizationLibrary.creator.revokeReason": "Årsak til tilbakekalling (påkrevd)",
+  "organizationLibrary.admin.nav": "Bibliotekroyalties",
+  "organizationLibrary.admin.title": "Tilsyn med bibliotekroyalties",
+  "organizationLibrary.admin.outstanding": "Utestående forpliktelser til skapere",
+  "organizationLibrary.admin.none": "Ingenting krever oppmerksomhet.",
+  "organizationLibrary.admin.periods": "Perioder som krever oppmerksomhet",
+  "organizationLibrary.admin.allocations": "Fordelinger som krever oppmerksomhet",
+  "organizationLibrary.admin.locked": "oppgjør pågår",
+  "organizationLibrary.admin.retry": "Kjør oppgjør på nytt",
+  "organizationLibrary.admin.reason": "Årsak",
+  "organizationLibrary.admin.recipient": "Mottaker",
+  "organizationLibrary.admin.attempts": "Forsøk"
 }

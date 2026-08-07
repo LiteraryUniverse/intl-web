@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Zestawienia",
   "organizationLibrary.creator.downloadCsv": "Pobierz CSV",
   "organizationLibrary.creator.units": "Jednostki",
-  "organizationLibrary.creator.revokeReason": "Powód cofnięcia (wymagany)"
+  "organizationLibrary.creator.revokeReason": "Powód cofnięcia (wymagany)",
+  "organizationLibrary.admin.nav": "Tantiemy Biblioteki",
+  "organizationLibrary.admin.title": "Nadzór nad tantiemami Biblioteki",
+  "organizationLibrary.admin.outstanding": "Nierozliczone zobowiązania wobec twórców",
+  "organizationLibrary.admin.none": "Nic nie wymaga uwagi.",
+  "organizationLibrary.admin.periods": "Okresy wymagające uwagi",
+  "organizationLibrary.admin.allocations": "Podziały wymagające uwagi",
+  "organizationLibrary.admin.locked": "rozliczenie w toku",
+  "organizationLibrary.admin.retry": "Ponów rozliczenie",
+  "organizationLibrary.admin.reason": "Powód",
+  "organizationLibrary.admin.recipient": "Odbiorca",
+  "organizationLibrary.admin.attempts": "Próby"
 }

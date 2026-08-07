@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Отчёты",
   "organizationLibrary.creator.downloadCsv": "Скачать CSV",
   "organizationLibrary.creator.units": "Единицы",
-  "organizationLibrary.creator.revokeReason": "Причина отзыва (обязательно)"
+  "organizationLibrary.creator.revokeReason": "Причина отзыва (обязательно)",
+  "organizationLibrary.admin.nav": "Роялти Библиотеки",
+  "organizationLibrary.admin.title": "Контроль роялти Библиотеки",
+  "organizationLibrary.admin.outstanding": "Непогашенные обязательства перед авторами",
+  "organizationLibrary.admin.none": "Ничего не требует внимания.",
+  "organizationLibrary.admin.periods": "Периоды, требующие внимания",
+  "organizationLibrary.admin.allocations": "Распределения, требующие внимания",
+  "organizationLibrary.admin.locked": "идёт расчёт",
+  "organizationLibrary.admin.retry": "Повторить расчёт",
+  "organizationLibrary.admin.reason": "Причина",
+  "organizationLibrary.admin.recipient": "Получатель",
+  "organizationLibrary.admin.attempts": "Попытки"
 }

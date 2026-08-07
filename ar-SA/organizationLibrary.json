@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "الكشوف",
   "organizationLibrary.creator.downloadCsv": "تنزيل CSV",
   "organizationLibrary.creator.units": "الوحدات",
-  "organizationLibrary.creator.revokeReason": "سبب الإلغاء (مطلوب)"
+  "organizationLibrary.creator.revokeReason": "سبب الإلغاء (مطلوب)",
+  "organizationLibrary.admin.nav": "إتاوات المكتبة",
+  "organizationLibrary.admin.title": "الإشراف على إتاوات المكتبة",
+  "organizationLibrary.admin.outstanding": "الالتزامات المستحقة للمبدعين",
+  "organizationLibrary.admin.none": "لا يوجد ما يستدعي الانتباه.",
+  "organizationLibrary.admin.periods": "فترات تستدعي الانتباه",
+  "organizationLibrary.admin.allocations": "توزيعات تستدعي الانتباه",
+  "organizationLibrary.admin.locked": "التسوية قيد التنفيذ",
+  "organizationLibrary.admin.retry": "إعادة محاولة التسوية",
+  "organizationLibrary.admin.reason": "السبب",
+  "organizationLibrary.admin.recipient": "المستلم",
+  "organizationLibrary.admin.attempts": "المحاولات"
 }

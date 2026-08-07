@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "結算單",
   "organizationLibrary.creator.downloadCsv": "下載 CSV",
   "organizationLibrary.creator.units": "單位",
-  "organizationLibrary.creator.revokeReason": "撤銷原因（必填）"
+  "organizationLibrary.creator.revokeReason": "撤銷原因（必填）",
+  "organizationLibrary.admin.nav": "書庫版稅",
+  "organizationLibrary.admin.title": "書庫版稅監督",
+  "organizationLibrary.admin.outstanding": "應付創作者款項",
+  "organizationLibrary.admin.none": "沒有需要處理的項目。",
+  "organizationLibrary.admin.periods": "需要處理的期間",
+  "organizationLibrary.admin.allocations": "需要處理的分配項目",
+  "organizationLibrary.admin.locked": "結算進行中",
+  "organizationLibrary.admin.retry": "重新結算",
+  "organizationLibrary.admin.reason": "原因",
+  "organizationLibrary.admin.recipient": "收款人",
+  "organizationLibrary.admin.attempts": "嘗試次數"
 }

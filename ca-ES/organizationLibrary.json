@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Liquidacions",
   "organizationLibrary.creator.downloadCsv": "Baixa el CSV",
   "organizationLibrary.creator.units": "Unitats",
-  "organizationLibrary.creator.revokeReason": "Motiu de la revocació (obligatori)"
+  "organizationLibrary.creator.revokeReason": "Motiu de la revocació (obligatori)",
+  "organizationLibrary.admin.nav": "Royalties de la Biblioteca",
+  "organizationLibrary.admin.title": "Supervisió dels royalties de la Biblioteca",
+  "organizationLibrary.admin.outstanding": "Deutes pendents amb els creadors",
+  "organizationLibrary.admin.none": "Res no requereix atenció.",
+  "organizationLibrary.admin.periods": "Períodes que requereixen atenció",
+  "organizationLibrary.admin.allocations": "Repartiments que requereixen atenció",
+  "organizationLibrary.admin.locked": "liquidació en curs",
+  "organizationLibrary.admin.retry": "Reintenta la liquidació",
+  "organizationLibrary.admin.reason": "Motiu",
+  "organizationLibrary.admin.recipient": "Destinatari",
+  "organizationLibrary.admin.attempts": "Intents"
 }

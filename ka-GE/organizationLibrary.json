@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "ანგარიშგებები",
   "organizationLibrary.creator.downloadCsv": "CSV-ის ჩამოტვირთვა",
   "organizationLibrary.creator.units": "ერთეულები",
-  "organizationLibrary.creator.revokeReason": "გაუქმების მიზეზი (სავალდებულო)"
+  "organizationLibrary.creator.revokeReason": "გაუქმების მიზეზი (სავალდებულო)",
+  "organizationLibrary.admin.nav": "ბიბლიოთეკის როიალტები",
+  "organizationLibrary.admin.title": "ბიბლიოთეკის როიალტების ზედამხედველობა",
+  "organizationLibrary.admin.outstanding": "დავალიანება შემქმნელთა წინაშე",
+  "organizationLibrary.admin.none": "ყურადღებას არაფერი საჭიროებს.",
+  "organizationLibrary.admin.periods": "საყურადღებო პერიოდები",
+  "organizationLibrary.admin.allocations": "საყურადღებო განაწილებები",
+  "organizationLibrary.admin.locked": "ანგარიშსწორება მიმდინარეობს",
+  "organizationLibrary.admin.retry": "ანგარიშსწორების გამეორება",
+  "organizationLibrary.admin.reason": "მიზეზი",
+  "organizationLibrary.admin.recipient": "მიმღები",
+  "organizationLibrary.admin.attempts": "მცდელობები"
 }

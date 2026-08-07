@@ -191,6 +191,5 @@
   "comics.team.role.inker": "Encreur",
   "comics.team.role.coverArtist": "Illustrateur de couverture",
   "comics.team.role.writer": "Scénariste",
-  "comics.team.role.assistant": "Assistant",
-  "comics.reader.guidedView": "Vue guidée"
+  "comics.team.role.assistant": "Assistant"
 }

@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Ataskaitos",
   "organizationLibrary.creator.downloadCsv": "Atsisiųsti CSV",
   "organizationLibrary.creator.units": "Vienetai",
-  "organizationLibrary.creator.revokeReason": "Atšaukimo priežastis (privaloma)"
+  "organizationLibrary.creator.revokeReason": "Atšaukimo priežastis (privaloma)",
+  "organizationLibrary.admin.nav": "Bibliotekos honorarai",
+  "organizationLibrary.admin.title": "Bibliotekos honorarų priežiūra",
+  "organizationLibrary.admin.outstanding": "Neapmokėti įsipareigojimai kūrėjams",
+  "organizationLibrary.admin.none": "Dėmesio reikalaujančių įrašų nėra.",
+  "organizationLibrary.admin.periods": "Dėmesio reikalaujantys laikotarpiai",
+  "organizationLibrary.admin.allocations": "Dėmesio reikalaujantys paskirstymai",
+  "organizationLibrary.admin.locked": "vykdomas atsiskaitymas",
+  "organizationLibrary.admin.retry": "Kartoti atsiskaitymą",
+  "organizationLibrary.admin.reason": "Priežastis",
+  "organizationLibrary.admin.recipient": "Gavėjas",
+  "organizationLibrary.admin.attempts": "Bandymai"
 }

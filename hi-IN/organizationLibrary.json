@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "विवरण",
   "organizationLibrary.creator.downloadCsv": "CSV डाउनलोड करें",
   "organizationLibrary.creator.units": "इकाइयाँ",
-  "organizationLibrary.creator.revokeReason": "रद्द करने का कारण (आवश्यक)"
+  "organizationLibrary.creator.revokeReason": "रद्द करने का कारण (आवश्यक)",
+  "organizationLibrary.admin.nav": "लाइब्रेरी रॉयल्टी",
+  "organizationLibrary.admin.title": "लाइब्रेरी रॉयल्टी निगरानी",
+  "organizationLibrary.admin.outstanding": "रचनाकारों के प्रति बकाया देनदारियाँ",
+  "organizationLibrary.admin.none": "ध्यान देने योग्य कुछ नहीं है।",
+  "organizationLibrary.admin.periods": "ध्यान देने योग्य अवधियाँ",
+  "organizationLibrary.admin.allocations": "ध्यान देने योग्य आवंटन",
+  "organizationLibrary.admin.locked": "निपटान जारी है",
+  "organizationLibrary.admin.retry": "निपटान पुनः चलाएँ",
+  "organizationLibrary.admin.reason": "कारण",
+  "organizationLibrary.admin.recipient": "प्राप्तकर्ता",
+  "organizationLibrary.admin.attempts": "प्रयास"
 }

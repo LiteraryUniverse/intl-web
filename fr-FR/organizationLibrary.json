@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Relevés",
   "organizationLibrary.creator.downloadCsv": "Télécharger le CSV",
   "organizationLibrary.creator.units": "Unités",
-  "organizationLibrary.creator.revokeReason": "Motif de la révocation (obligatoire)"
+  "organizationLibrary.creator.revokeReason": "Motif de la révocation (obligatoire)",
+  "organizationLibrary.admin.nav": "Redevances Bibliothèque",
+  "organizationLibrary.admin.title": "Supervision des redevances de la Bibliothèque",
+  "organizationLibrary.admin.outstanding": "Sommes restant dues aux créateurs",
+  "organizationLibrary.admin.none": "Aucune action requise.",
+  "organizationLibrary.admin.periods": "Périodes nécessitant une action",
+  "organizationLibrary.admin.allocations": "Répartitions nécessitant une action",
+  "organizationLibrary.admin.locked": "règlement en cours",
+  "organizationLibrary.admin.retry": "Relancer le règlement",
+  "organizationLibrary.admin.reason": "Motif",
+  "organizationLibrary.admin.recipient": "Destinataire",
+  "organizationLibrary.admin.attempts": "Tentatives"
 }

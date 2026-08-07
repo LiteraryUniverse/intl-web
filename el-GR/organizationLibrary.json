@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Εκκαθαρίσεις",
   "organizationLibrary.creator.downloadCsv": "Λήψη CSV",
   "organizationLibrary.creator.units": "Μονάδες",
-  "organizationLibrary.creator.revokeReason": "Λόγος ανάκλησης (υποχρεωτικό)"
+  "organizationLibrary.creator.revokeReason": "Λόγος ανάκλησης (υποχρεωτικό)",
+  "organizationLibrary.admin.nav": "Δικαιώματα Βιβλιοθήκης",
+  "organizationLibrary.admin.title": "Εποπτεία δικαιωμάτων Βιβλιοθήκης",
+  "organizationLibrary.admin.outstanding": "Εκκρεμείς υποχρεώσεις προς δημιουργούς",
+  "organizationLibrary.admin.none": "Τίποτα δεν χρειάζεται προσοχή.",
+  "organizationLibrary.admin.periods": "Περίοδοι που χρειάζονται προσοχή",
+  "organizationLibrary.admin.allocations": "Κατανομές που χρειάζονται προσοχή",
+  "organizationLibrary.admin.locked": "εκκαθάριση σε εξέλιξη",
+  "organizationLibrary.admin.retry": "Επανάληψη εκκαθάρισης",
+  "organizationLibrary.admin.reason": "Αιτία",
+  "organizationLibrary.admin.recipient": "Δικαιούχος",
+  "organizationLibrary.admin.attempts": "Προσπάθειες"
 }

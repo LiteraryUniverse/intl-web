@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "Besked",
   "organizationLibrary.creator.downloadCsv": "Ladda ner CSV",
   "organizationLibrary.creator.units": "Enheter",
-  "organizationLibrary.creator.revokeReason": "Skäl till återkallelse (obligatoriskt)"
+  "organizationLibrary.creator.revokeReason": "Skäl till återkallelse (obligatoriskt)",
+  "organizationLibrary.admin.nav": "Biblioteksroyaltyer",
+  "organizationLibrary.admin.title": "Övervakning av biblioteksroyaltyer",
+  "organizationLibrary.admin.outstanding": "Utestående skulder till kreatörer",
+  "organizationLibrary.admin.none": "Inget kräver uppmärksamhet.",
+  "organizationLibrary.admin.periods": "Perioder som kräver uppmärksamhet",
+  "organizationLibrary.admin.allocations": "Fördelningar som kräver uppmärksamhet",
+  "organizationLibrary.admin.locked": "avräkning pågår",
+  "organizationLibrary.admin.retry": "Kör avräkning igen",
+  "organizationLibrary.admin.reason": "Skäl",
+  "organizationLibrary.admin.recipient": "Mottagare",
+  "organizationLibrary.admin.attempts": "Försök"
 }

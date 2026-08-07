@@ -80,5 +80,16 @@
   "organizationLibrary.creator.statements": "அறிக்கைகள்",
   "organizationLibrary.creator.downloadCsv": "CSV பதிவிறக்கவும்",
   "organizationLibrary.creator.units": "அலகுகள்",
-  "organizationLibrary.creator.revokeReason": "ரத்துக்கான காரணம் (கட்டாயம்)"
+  "organizationLibrary.creator.revokeReason": "ரத்துக்கான காரணம் (கட்டாயம்)",
+  "organizationLibrary.admin.nav": "நூலக ராயல்டிகள்",
+  "organizationLibrary.admin.title": "நூலக ராயல்டி மேற்பார்வை",
+  "organizationLibrary.admin.outstanding": "படைப்பாளர்களுக்குச் செலுத்த வேண்டிய நிலுவைத் தொகைகள்",
+  "organizationLibrary.admin.none": "கவனம் தேவைப்படும் எதுவும் இல்லை.",
+  "organizationLibrary.admin.periods": "கவனம் தேவைப்படும் காலங்கள்",
+  "organizationLibrary.admin.allocations": "கவனம் தேவைப்படும் பங்கீடுகள்",
+  "organizationLibrary.admin.locked": "கணக்குத் தீர்வு நடைபெறுகிறது",
+  "organizationLibrary.admin.retry": "கணக்குத் தீர்வை மீண்டும் முயற்சிக்கவும்",
+  "organizationLibrary.admin.reason": "காரணம்",
+  "organizationLibrary.admin.recipient": "பெறுநர்",
+  "organizationLibrary.admin.attempts": "முயற்சிகள்"
 }
