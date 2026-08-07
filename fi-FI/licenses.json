@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · sinä {rest}%",
+  "licenses.orgBasedOn": "({org}, perustuu lisenssiin {license})",
+  "licenses.switchNotice": "Tämä teos poistuu organisaation {org} lisenssistä {date} — organisaation {org} kautta tarjottu pääsy voi päättyä silloin.",
+  "licenses.orgCut.label": "Organisaation osuus bruttomyynnistä (%)",
+  "licenses.orgCut.help": "Otetaan tekijän osasta tulonjaossa, kun teos ottaa tämän lisenssin käyttöön.",
+  "licenses.scope.international": "Kansainvälinen",
+  "licenses.scope.regional": "Alueellinen (käännökset)",
+  "licenses.scope.help": "Laajuus — kansainvälinen kattaa teoksen kaikkine käännöksineen, alueellinen koskee yhtä käännöstä"
 }

@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ਉੱਨਤ ਬਲੌਗ ਡਿਜ਼ਾਈਨ (ਕਸਟਮ CSS)",
   "plans.feature.luSubdomain": "ਤੁਹਾਡੇ ਆਪਣੇ Literary Universe ਸਬਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
-  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ"
+  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
+  "fanClub.partner.label": "ਫੈਨ ਕਲੱਬ ਸੰਗਠਨ ਦਾ ਹਿੱਸਾ ਹੈ",
+  "fanClub.partner.none": "ਕੋਈ ਨਹੀਂ — ਸਾਰੀ ਆਮਦਨ ਤੁਹਾਡੇ ਕੋਲ ਰਹਿੰਦੀ ਹੈ",
+  "fanClub.partner.help": "ਜੇ ਕਿਸੇ ਸੰਗਠਨ ਨਾਲ ਤੁਹਾਡੇ ਇਕਰਾਰਨਾਮੇ ਵਿੱਚ ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ ਸ਼ਾਮਲ ਹੈ, ਤਾਂ ਇੱਥੇ ਉਸਨੂੰ ਚੁਣੋ — ਚੋਣ ਦੇ ਸਮੇਂ ਸੰਗਠਨ ਦੀ ਮੌਜੂਦਾ ਦਰ ਪੱਕੀ ਹੋ ਜਾਂਦੀ ਹੈ।",
+  "fanClub.partner.breakdown": "ਸੰਗਠਨ ਨੂੰ ਇਸ ਫੈਨ ਕਲੱਬ ਦੀ ਆਮਦਨ ਦਾ {org}% ਮਿਲਦਾ ਹੈ (ਚੋਣ ਵੇਲੇ ਪੱਕਾ), ਪਲੇਟਫਾਰਮ ਫ਼ੀਸ ਤੋਂ ਇਲਾਵਾ। ਇਹ ਮੌਜੂਦਾ ਸਬਸਕ੍ਰਾਈਬਰਾਂ 'ਤੇ ਵੀ ਲਾਗੂ ਹੁੰਦਾ ਹੈ।"
 }

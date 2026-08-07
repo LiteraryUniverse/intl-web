@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · du {rest}%",
+  "licenses.orgBasedOn": "({org}, baserad på {license})",
+  "licenses.switchNotice": "Detta verk lämnar {org}s licens den {date} — åtkomst som ges via {org} kan då upphöra.",
+  "licenses.orgCut.label": "Organisationens andel av bruttoförsäljningen (%)",
+  "licenses.orgCut.help": "Tas från författarens del av intäktsfördelningen när ett verk antar denna licens.",
+  "licenses.scope.international": "Internationell",
+  "licenses.scope.regional": "Regional (översättningar)",
+  "licenses.scope.help": "Omfattning — internationell täcker ett verk med alla dess översättningar, regional gäller en enskild översättning"
 }

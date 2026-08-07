@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Desain blog lanjut (CSS khusus)",
   "plans.feature.luSubdomain": "Blog ring subdomain Literary Universe ragane pedidi",
-  "plans.feature.customDomain": "Blog ring domain ragane pedidi"
+  "plans.feature.customDomain": "Blog ring domain ragane pedidi",
+  "fanClub.partner.label": "Fan club is part of organization",
+  "fanClub.partner.none": "None — all revenue stays with you",
+  "fanClub.partner.help": "If your contract with an organization includes your fan club, select it here — the organization's current rate is fixed at the moment of selection.",
+  "fanClub.partner.breakdown": "The organization receives {org}% of this fan club's revenue (fixed when selected), on top of the platform fee. Applies to current subscribers too."
 }

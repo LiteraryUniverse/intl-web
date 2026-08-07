@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · നിങ്ങൾ {rest}%",
+  "licenses.orgBasedOn": "({org}, {license} അടിസ്ഥാനമാക്കി)",
+  "licenses.switchNotice": "ഈ കൃതി {date} ന് {org} ന്റെ ലൈസൻസിൽ നിന്ന് പുറത്തുപോകുന്നു — {org} വഴി നൽകിയിരുന്ന ആക്സസ് അപ്പോൾ അവസാനിച്ചേക്കാം.",
+  "licenses.orgCut.label": "മൊത്ത വിൽപ്പനയിൽ സംഘടനയുടെ വിഹിതം (%)",
+  "licenses.orgCut.help": "ഒരു കൃതി ഈ ലൈസൻസ് സ്വീകരിക്കുമ്പോൾ വരുമാന വിഭജനത്തിലെ രചയിതാവിന്റെ ഭാഗത്തുനിന്ന് എടുക്കുന്നു.",
+  "licenses.scope.international": "അന്താരാഷ്ട്രം",
+  "licenses.scope.regional": "പ്രാദേശികം (പരിഭാഷകൾ)",
+  "licenses.scope.help": "വ്യാപ്തി — അന്താരാഷ്ട്രം ഒരു കൃതിയെയും അതിന്റെ എല്ലാ പരിഭാഷകളെയും ഉൾക്കൊള്ളുന്നു, പ്രാദേശികം ഒരൊറ്റ പരിഭാഷയ്ക്ക് മാത്രം ബാധകമാണ്"
 }

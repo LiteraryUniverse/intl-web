@@ -111,5 +111,6 @@
   "audiobook.team.title": "Lydbokteam",
   "audiobook.team.voiceActors": "Innlesere",
   "audiobook.team.you": "deg",
-  "audiobook.whereToListen": "Hvor du kan lytte"
+  "audiobook.whereToListen": "Hvor du kan lytte",
+  "audiobook.orgFeatureDisabled": "Lydbøker er ikke aktivert for denne organisasjonen."
 }

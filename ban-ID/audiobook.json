@@ -111,5 +111,6 @@
   "audiobook.team.title": "Tim buku audio",
   "audiobook.team.voiceActors": "Pangisi suara",
   "audiobook.team.you": "ragané",
-  "audiobook.whereToListen": "Genah mirengang"
+  "audiobook.whereToListen": "Genah mirengang",
+  "audiobook.orgFeatureDisabled": "Audio books are not enabled for this organization."
 }

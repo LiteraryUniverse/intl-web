@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Desain blog canggih (CSS khusus)",
   "plans.feature.luSubdomain": "Blog ing subdomain Literary Universe sampeyan dhewe",
-  "plans.feature.customDomain": "Blog ing domain sampeyan dhewe"
+  "plans.feature.customDomain": "Blog ing domain sampeyan dhewe",
+  "fanClub.partner.label": "Fan club dadi bagian saka organisasi",
+  "fanClub.partner.none": "Ora ana — kabeh penghasilan tetep dadi duweke sampeyan",
+  "fanClub.partner.help": "Yen kontrak sampeyan karo organisasi nyakup fan club sampeyan, pilihen ing kene — tarif organisasi saiki ditetepake nalika dipilih.",
+  "fanClub.partner.breakdown": "Organisasi nampa {org}% saka penghasilan fan club iki (ditetepake nalika dipilih), saliyane biaya platform. Uga ditrapake kanggo pelanggan saiki."
 }

@@ -111,5 +111,6 @@
   "audiobook.team.title": "ഓഡിയോ പുസ്തക ടീം",
   "audiobook.team.voiceActors": "ശബ്ദ കലാകാരന്മാർ",
   "audiobook.team.you": "നിങ്ങൾ",
-  "audiobook.whereToListen": "എവിടെ കേൾക്കാം"
+  "audiobook.whereToListen": "എവിടെ കേൾക്കാം",
+  "audiobook.orgFeatureDisabled": "ഈ സംഘടനയ്ക്ക് ഓഡിയോ ബുക്കുകൾ പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ല."
 }

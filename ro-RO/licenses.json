@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · tu {rest}%",
+  "licenses.orgBasedOn": "({org}, bazată pe {license})",
+  "licenses.switchNotice": "Această operă părăsește licența {org} pe {date} — accesul oferit prin {org} se poate încheia atunci.",
+  "licenses.orgCut.label": "Cota organizației din vânzarea brută (%)",
+  "licenses.orgCut.help": "Luată din partea autorului din împărțirea veniturilor atunci când o operă adoptă această licență.",
+  "licenses.scope.international": "Internațională",
+  "licenses.scope.regional": "Regională (traduceri)",
+  "licenses.scope.help": "Domeniu — internațională acoperă o operă cu toate traducerile sale, regională se aplică unei singure traduceri"
 }

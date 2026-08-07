@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Naam vir erkenning",
   "workshop.invitations": "Uitnodigings",
   "workshop.invitations.received": "Ontvang",
-  "workshop.invitations.sent": "Gestuur"
+  "workshop.invitations.sent": "Gestuur",
+  "workshop.revShare.orgShare": "Organisasie-aandeel",
+  "workshop.license.adoptOrg.action": "Neem organisasielisensie aan",
+  "workshop.license.adoptOrg.oneWayWarning": "Om 'n organisasielisensie aan te neem, voeg die organisasie se vaste aandeel by hierdie werk se inkomsteverdeling (uit jou deel geneem). Om dit later te verander of te verlaat, vereis 'n kennisgewingstydperk wat aan lesers gewys word.",
+  "workshop.license.change.action": "Verander organisasielisensie",
+  "workshop.license.change.leaveOption": "Geen — keer terug na {license}",
+  "workshop.license.change.notice": "'n Ander lisensie van dieselfde organisasie geld onmiddellik. Om na 'n ander organisasie oor te skakel of na {license} terug te keer, tree in werking ná 'n kennisgewing van {days} dae wat aan lesers op die werk gewys word — die huidige lisensie bly tot dan aktief.",
+  "workshop.license.change.scheduled": "Lisensieverandering geskeduleer vir {date}. Lesers sien tot dan 'n kennisgewing op die werk; die huidige lisensie bly aktief.",
+  "workshop.translations.license.title": "Vertalingslisensies",
+  "workshop.translations.license.default": "Verstek ({license})",
+  "workshop.translations.license.viaOrg": "'n Streekslisensie van 'n organisasie word aangebied wanneer jy aan die organisasie behoort, of wanneer een van sy lede daardie taal vertaal. Om dit toe te pas, lys die vertaling in daardie organisasie se katalogus en voeg die organisasie se aandeel by daardie uitgawe se inkomsteverdeling (uit jou deel geneem). Dit sluit sodra die vertaling gepubliseer is.",
+  "workshop.translations.license.internationalCovered": "Hierdie werk se internasionale organisasielisensie dek al sy vertalings."
 }

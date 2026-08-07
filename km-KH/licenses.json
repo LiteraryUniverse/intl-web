@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · អ្នក {rest}%",
+  "licenses.orgBasedOn": "({org} ផ្អែកលើ {license})",
+  "licenses.switchNotice": "ស្នាដៃនេះនឹងចាកចេញពីអាជ្ញាប័ណ្ណរបស់ {org} នៅ {date} — ការចូលប្រើដែលផ្ដល់ជូនតាមរយៈ {org} អាចបញ្ចប់នៅពេលនោះ។",
+  "licenses.orgCut.label": "ចំណែករបស់អង្គភាពពីការលក់សរុប (%)",
+  "licenses.orgCut.help": "យកចេញពីផ្នែករបស់អ្នកនិពន្ធក្នុងការបែងចែកចំណូល នៅពេលស្នាដៃប្រើអាជ្ញាប័ណ្ណនេះ។",
+  "licenses.scope.international": "អន្តរជាតិ",
+  "licenses.scope.regional": "តាមតំបន់ (ការបកប្រែ)",
+  "licenses.scope.help": "វិសាលភាព — អន្តរជាតិគ្របដណ្ដប់ស្នាដៃរួមទាំងការបកប្រែទាំងអស់ ចំណែកតាមតំបន់អនុវត្តចំពោះការបកប្រែតែមួយ"
 }

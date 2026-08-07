@@ -111,5 +111,6 @@
   "audiobook.team.title": "Pasukan buku audio",
   "audiobook.team.voiceActors": "Pelakon suara",
   "audiobook.team.you": "anda",
-  "audiobook.whereToListen": "Tempat untuk mendengar"
+  "audiobook.whereToListen": "Tempat untuk mendengar",
+  "audiobook.orgFeatureDisabled": "Buku audio tidak diaktifkan untuk organisasi ini."
 }

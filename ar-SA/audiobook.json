@@ -111,5 +111,6 @@
   "audiobook.team.inviteFailed": "فشلت الدعوة",
   "audiobook.team.inviteMember": "دعوة عضو إلى الفريق",
   "audiobook.team.removeFailed": "تعذّر إزالة عضو الفريق.",
-  "audiobook.whereToListen": "أين تستمع"
+  "audiobook.whereToListen": "أين تستمع",
+  "audiobook.orgFeatureDisabled": "الكتب الصوتية غير مفعّلة لهذه المنظمة."
 }

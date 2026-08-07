@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Nom à créditer",
   "workshop.invitations": "Invitations",
   "workshop.invitations.received": "Reçues",
-  "workshop.invitations.sent": "Envoyées"
+  "workshop.invitations.sent": "Envoyées",
+  "workshop.revShare.orgShare": "Part de l'organisation",
+  "workshop.license.adoptOrg.action": "Adopter la licence de l'organisation",
+  "workshop.license.adoptOrg.oneWayWarning": "Adopter une licence d'organisation ajoute la part fixe de l'organisation à la répartition des revenus de cette œuvre (prélevée sur votre part). En changer ou la quitter plus tard nécessite un délai de préavis affiché aux lecteurs.",
+  "workshop.license.change.action": "Changer de licence d'organisation",
+  "workshop.license.change.leaveOption": "Aucune — revenir à {license}",
+  "workshop.license.change.notice": "Une autre licence de la même organisation s'applique immédiatement. Passer à une autre organisation ou revenir à {license} prend effet après un préavis de {days} jours affiché aux lecteurs sur l'œuvre — la licence actuelle reste active jusque-là.",
+  "workshop.license.change.scheduled": "Changement de licence prévu pour le {date}. Jusque-là, les lecteurs voient un avis sur l'œuvre ; la licence actuelle reste active.",
+  "workshop.translations.license.title": "Licences de traduction",
+  "workshop.translations.license.default": "Par défaut ({license})",
+  "workshop.translations.license.viaOrg": "Une licence d'organisation régionale est proposée lorsque vous appartenez à l'organisation, ou lorsqu'un de ses membres traduit cette langue. L'appliquer ajoute la traduction au catalogue de cette organisation et ajoute la part de l'organisation à la répartition des revenus de cette édition (prélevée sur votre part). Elle se verrouille une fois la traduction publiée.",
+  "workshop.translations.license.internationalCovered": "La licence d'organisation internationale de cette œuvre couvre toutes ses traductions."
 }

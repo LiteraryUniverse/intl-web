@@ -670,5 +670,16 @@
   "workshop.team.creditName": "କୃତିତ୍ୱର ନାମ",
   "workshop.invitations": "ଆମନ୍ତ୍ରଣଗୁଡ଼ିକ",
   "workshop.invitations.received": "ପ୍ରାପ୍ତ",
-  "workshop.invitations.sent": "ପଠାଯାଇଛି"
+  "workshop.invitations.sent": "ପଠାଯାଇଛି",
+  "workshop.revShare.orgShare": "ସଂଗଠନ ଅଂଶ",
+  "workshop.license.adoptOrg.action": "ସଂଗଠନ ଲାଇସେନ୍ସ ଗ୍ରହଣ କରନ୍ତୁ",
+  "workshop.license.adoptOrg.oneWayWarning": "ସଂଗଠନ ଲାଇସେନ୍ସ ଗ୍ରହଣ କଲେ ଏହି କୃତିର ଆୟ ବଣ୍ଟନରେ ସଂଗଠନର ସ୍ଥିର ଅଂଶ ଯୋଡ଼ାଯାଏ (ଆପଣଙ୍କ ଭାଗରୁ ନିଆଯାଏ)। ପରେ ଏହାକୁ ବଦଳାଇବା କିମ୍ବା ଛାଡ଼ିବା ପାଇଁ ପାଠକମାନଙ୍କୁ ଦେଖାଯାଉଥିବା ସୂଚନା ଅବଧି ଆବଶ୍ୟକ ହୁଏ।",
+  "workshop.license.change.action": "ସଂଗଠନ ଲାଇସେନ୍ସ ବଦଳାନ୍ତୁ",
+  "workshop.license.change.leaveOption": "କିଛି ନାହିଁ — {license} କୁ ଫେରନ୍ତୁ",
+  "workshop.license.change.notice": "ସେହି ସଂଗଠନର ଅନ୍ୟ ଏକ ଲାଇସେନ୍ସ ତୁରନ୍ତ ଲାଗୁ ହୁଏ। ଅନ୍ୟ ସଂଗଠନକୁ ଯିବା କିମ୍ବା {license} କୁ ଫେରିବା କୃତିରେ ପାଠକମାନଙ୍କୁ ଦେଖାଯାଉଥିବା {days}-ଦିନର ସୂଚନା ପରେ ଲାଗୁ ହୁଏ — ସେ ପର୍ଯ୍ୟନ୍ତ ବର୍ତ୍ତମାନର ଲାଇସେନ୍ସ ସକ୍ରିୟ ରହେ।",
+  "workshop.license.change.scheduled": "ଲାଇସେନ୍ସ ପରିବର୍ତ୍ତନ {date} ପାଇଁ ନିର୍ଧାରିତ ହୋଇଛି। ସେ ପର୍ଯ୍ୟନ୍ତ ପାଠକମାନେ କୃତିରେ ଏକ ସୂଚନା ଦେଖନ୍ତି; ବର୍ତ୍ତମାନର ଲାଇସେନ୍ସ ସକ୍ରିୟ ରହେ।",
+  "workshop.translations.license.title": "ଅନୁବାଦ ଲାଇସେନ୍ସ",
+  "workshop.translations.license.default": "ଡିଫଲ୍ଟ ({license})",
+  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
+  "workshop.translations.license.internationalCovered": "ଏହି କୃତିର ଆନ୍ତର୍ଜାତୀୟ ସଂଗଠନ ଲାଇସେନ୍ସ ତାହାର ସମସ୍ତ ଅନୁବାଦକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।"
 }

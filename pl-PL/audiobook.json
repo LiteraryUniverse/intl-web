@@ -111,5 +111,6 @@
   "audiobook.team.title": "Zespół audiobooka",
   "audiobook.team.voiceActors": "Lektorzy",
   "audiobook.team.you": "Ty",
-  "audiobook.whereToListen": "Gdzie posłuchać"
+  "audiobook.whereToListen": "Gdzie posłuchać",
+  "audiobook.orgFeatureDisabled": "Audiobooki nie są włączone dla tej organizacji."
 }

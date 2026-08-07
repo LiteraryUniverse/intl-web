@@ -111,5 +111,6 @@
   "audiobook.team.title": "Sesli kitap ekibi",
   "audiobook.team.voiceActors": "Seslendirme sanatçıları",
   "audiobook.team.you": "siz",
-  "audiobook.whereToListen": "Nereden dinlenir"
+  "audiobook.whereToListen": "Nereden dinlenir",
+  "audiobook.orgFeatureDisabled": "Sesli kitaplar bu kuruluş için etkin değil."
 }

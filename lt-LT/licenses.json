@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · jūs {rest}%",
+  "licenses.orgBasedOn": "({org}, pagrįsta {license})",
+  "licenses.switchNotice": "Šis kūrinys palieka {org} licenciją {date} — per {org} suteikta prieiga tada gali baigtis.",
+  "licenses.orgCut.label": "Organizacijos dalis nuo bendros pardavimo sumos (%)",
+  "licenses.orgCut.help": "Atskaitoma iš autoriaus pajamų pasidalijimo dalies, kai kūrinys priima šią licenciją.",
+  "licenses.scope.international": "Tarptautinė",
+  "licenses.scope.regional": "Regioninė (vertimai)",
+  "licenses.scope.help": "Apimtis — tarptautinė apima kūrinį su visais jo vertimais, regioninė taikoma vienam vertimui"
 }

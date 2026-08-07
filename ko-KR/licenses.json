@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · 본인 {rest}%",
+  "licenses.orgBasedOn": "({org}, {license} 기반)",
+  "licenses.switchNotice": "이 작품은 {date}에 {org}의 라이선스에서 벗어납니다 — {org}을(를) 통해 제공되던 이용 권한이 그때 종료될 수 있습니다.",
+  "licenses.orgCut.label": "총 판매액에 대한 조직의 몫 (%)",
+  "licenses.orgCut.help": "작품이 이 라이선스를 채택하면 수익 분배에서 저자의 몫에서 차감됩니다.",
+  "licenses.scope.international": "국제",
+  "licenses.scope.regional": "지역 (번역)",
+  "licenses.scope.help": "범위 — 국제는 작품과 모든 번역을 포함하고, 지역은 단일 번역에만 적용됩니다"
 }

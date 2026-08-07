@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Шукач пригод",
   "plans.feature.customBlogCss": "Розширене оформлення блогу (власний CSS)",
   "plans.feature.luSubdomain": "Блог на власному піддомені Literary Universe",
-  "plans.feature.customDomain": "Блог на власному домені"
+  "plans.feature.customDomain": "Блог на власному домені",
+  "fanClub.partner.label": "Фан-клуб є частиною організації",
+  "fanClub.partner.none": "Немає — весь дохід залишається вам",
+  "fanClub.partner.help": "Якщо ваш контракт з організацією включає ваш фан-клуб, виберіть її тут — поточна ставка організації фіксується в момент вибору.",
+  "fanClub.partner.breakdown": "Організація отримує {org}% доходу цього фан-клубу (фіксується при виборі), додатково до комісії платформи. Стосується й поточних підписників."
 }

@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Dobrodruh",
   "plans.feature.customBlogCss": "Pokročilý vzhled blogu (vlastní CSS)",
   "plans.feature.luSubdomain": "Blog na vlastní subdoméně Literary Universe",
-  "plans.feature.customDomain": "Blog na vlastní doméně"
+  "plans.feature.customDomain": "Blog na vlastní doméně",
+  "fanClub.partner.label": "Fan Club je součástí organizace",
+  "fanClub.partner.none": "Žádná — všechny příjmy zůstávají vám",
+  "fanClub.partner.help": "Pokud vaše smlouva s organizací zahrnuje váš Fan Club, vyberte ji zde — aktuální sazba organizace se zafixuje v okamžiku výběru.",
+  "fanClub.partner.breakdown": "Organizace získává {org}% z příjmů tohoto Fan Clubu (zafixováno při výběru), nad rámec poplatku platformy. Platí i pro stávající předplatitele."
 }

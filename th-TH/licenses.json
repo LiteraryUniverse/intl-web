@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · คุณ {rest}%",
+  "licenses.orgBasedOn": "({org} อ้างอิงจาก {license})",
+  "licenses.switchNotice": "ผลงานนี้จะออกจากใบอนุญาตของ {org} ในวันที่ {date} — การเข้าถึงที่ให้ผ่าน {org} อาจสิ้นสุดลงในตอนนั้น",
+  "licenses.orgCut.label": "ส่วนแบ่งขององค์กรจากยอดขายรวม (%)",
+  "licenses.orgCut.help": "หักจากส่วนของผู้แต่งในการแบ่งรายได้เมื่อผลงานใช้ใบอนุญาตนี้",
+  "licenses.scope.international": "ระหว่างประเทศ",
+  "licenses.scope.regional": "ระดับภูมิภาค (งานแปล)",
+  "licenses.scope.help": "ขอบเขต — ระหว่างประเทศครอบคลุมผลงานพร้อมงานแปลทั้งหมด ส่วนระดับภูมิภาคใช้กับงานแปลเพียงฉบับเดียว"
 }

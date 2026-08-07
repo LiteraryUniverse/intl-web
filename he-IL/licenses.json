@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · אתם {rest}%",
+  "licenses.orgBasedOn": "({org}, מבוסס על {license})",
+  "licenses.switchNotice": "יצירה זו עוזבת את הרישיון של {org} בתאריך {date} — ייתכן שגישה הניתנת דרך {org} תסתיים אז.",
+  "licenses.orgCut.label": "נתח הארגון מהמכירה ברוטו (%)",
+  "licenses.orgCut.help": "נלקח מחלקו של המחבר בחלוקת ההכנסות כאשר יצירה מאמצת רישיון זה.",
+  "licenses.scope.international": "בינלאומי",
+  "licenses.scope.regional": "אזורי (תרגומים)",
+  "licenses.scope.help": "היקף — בינלאומי מכסה יצירה על כל תרגומיה, אזורי חל על תרגום יחיד"
 }

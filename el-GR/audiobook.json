@@ -111,5 +111,6 @@
   "audiobook.team.title": "Ομάδα ηχητικού βιβλίου",
   "audiobook.team.voiceActors": "Αφηγητές",
   "audiobook.team.you": "εσείς",
-  "audiobook.whereToListen": "Πού να ακούσετε"
+  "audiobook.whereToListen": "Πού να ακούσετε",
+  "audiobook.orgFeatureDisabled": "Τα ηχητικά βιβλία δεν είναι ενεργοποιημένα για αυτόν τον οργανισμό."
 }

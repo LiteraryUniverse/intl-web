@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · tusa {rest}%",
+  "licenses.orgBasedOn": "({org}, bunaithe ar {license})",
+  "licenses.switchNotice": "Fágfaidh an saothar seo ceadúnas {org} ar {date} — seans go dtiocfaidh deireadh ansin leis an rochtain a chuirtear ar fáil trí {org}.",
+  "licenses.orgCut.label": "Sciar na heagraíochta den olldíolachán (%)",
+  "licenses.orgCut.help": "Baintear as cuid an údair den scoilt ioncaim é nuair a ghlacann saothar an ceadúnas seo.",
+  "licenses.scope.international": "Idirnáisiúnta",
+  "licenses.scope.regional": "Réigiúnach (aistriúcháin)",
+  "licenses.scope.help": "Scóip — clúdaíonn idirnáisiúnta saothar lena chuid aistriúchán go léir, baineann réigiúnach le haistriúchán amháin"
 }

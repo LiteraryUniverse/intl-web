@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Aventurero",
   "plans.feature.customBlogCss": "Diseño avanzado del blog (CSS personalizado)",
   "plans.feature.luSubdomain": "Blog en tu propio subdominio de Literary Universe",
-  "plans.feature.customDomain": "Blog en tu propio dominio"
+  "plans.feature.customDomain": "Blog en tu propio dominio",
+  "fanClub.partner.label": "El club de fans es parte de una organización",
+  "fanClub.partner.none": "Ninguna — todos los ingresos se quedan contigo",
+  "fanClub.partner.help": "Si tu contrato con una organización incluye tu club de fans, selecciónala aquí — la tarifa actual de la organización se fija en el momento de la selección.",
+  "fanClub.partner.breakdown": "La organización recibe el {org}% de los ingresos de este club de fans (fijado al seleccionarla), además de la comisión de la plataforma. Se aplica también a los suscriptores actuales."
 }

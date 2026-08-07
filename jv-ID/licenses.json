@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · sampeyan {rest}%",
+  "licenses.orgBasedOn": "({org}, adhedhasar {license})",
+  "licenses.switchNotice": "Karya iki bakal metu saka lisensi {org} tanggal {date} — akses sing diwenehake liwat {org} bisa uga rampung nalika iku.",
+  "licenses.orgCut.label": "Bagian organisasi saka penjualan kotor (%)",
+  "licenses.orgCut.help": "Dijupuk saka bagian panulis ing pembagian penghasilan nalika sawijining karya nganggo lisensi iki.",
+  "licenses.scope.international": "Internasional",
+  "licenses.scope.regional": "Regional (terjemahan)",
+  "licenses.scope.help": "Cakupan — internasional nyakup karya karo kabeh terjemahane, regional mung kanggo siji terjemahan"
 }

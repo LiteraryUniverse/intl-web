@@ -111,5 +111,6 @@
   "audiobook.team.title": "অডিও বই দল",
   "audiobook.team.voiceActors": "কণ্ঠশিল্পী",
   "audiobook.team.you": "আপনি",
-  "audiobook.whereToListen": "কোথায় শুনবেন"
+  "audiobook.whereToListen": "কোথায় শুনবেন",
+  "audiobook.orgFeatureDisabled": "এই প্রতিষ্ঠানের জন্য অডিওবুক সক্রিয় নেই।"
 }

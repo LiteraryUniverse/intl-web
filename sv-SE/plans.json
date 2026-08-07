@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Avancerad bloggdesign (egen CSS)",
   "plans.feature.luSubdomain": "Blogg på din egen Literary Universe-subdomän",
-  "plans.feature.customDomain": "Blogg på din egen domän"
+  "plans.feature.customDomain": "Blogg på din egen domän",
+  "fanClub.partner.label": "Fan Club är en del av organisationen",
+  "fanClub.partner.none": "Ingen — alla intäkter stannar hos dig",
+  "fanClub.partner.help": "Om ditt kontrakt med en organisation omfattar din Fan Club, välj den här — organisationens aktuella sats låses i valögonblicket.",
+  "fanClub.partner.breakdown": "Organisationen får {org}% av denna Fan Clubs intäkter (låst vid valet), utöver plattformsavgiften. Gäller även nuvarande prenumeranter."
 }

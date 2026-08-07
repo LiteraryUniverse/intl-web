@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · మీరు {rest}%",
+  "licenses.orgBasedOn": "({org}, {license} ఆధారంగా)",
+  "licenses.switchNotice": "ఈ రచన {date}న {org} లైసెన్సు నుండి వైదొలుగుతుంది — {org} ద్వారా అందించబడే యాక్సెస్ అప్పుడు ముగియవచ్చు.",
+  "licenses.orgCut.label": "స్థూల అమ్మకంలో సంస్థ వాటా (%)",
+  "licenses.orgCut.help": "ఒక రచన ఈ లైసెన్సును స్వీకరించినప్పుడు ఆదాయ పంపిణీలో రచయిత భాగం నుండి తీసుకోబడుతుంది.",
+  "licenses.scope.international": "అంతర్జాతీయ",
+  "licenses.scope.regional": "ప్రాంతీయ (అనువాదాలు)",
+  "licenses.scope.help": "పరిధి — అంతర్జాతీయ లైసెన్సు రచనను దాని అన్ని అనువాదాలతో సహా కవర్ చేస్తుంది; ప్రాంతీయ లైసెన్సు ఒకే అనువాదానికి వర్తిస్తుంది"
 }

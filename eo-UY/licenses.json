@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · vi {rest}%",
+  "licenses.orgBasedOn": "({org}, bazita sur {license})",
+  "licenses.switchNotice": "Ĉi tiu verko forlasos la permesilon de {org} je {date} — la aliro provizita per {org} eble finiĝos tiam.",
+  "licenses.orgCut.label": "Parto de la organizo el la malneta vendo (%)",
+  "licenses.orgCut.help": "Prenata el la parto de la aŭtoro en la divido de enspezoj, kiam verko adoptas ĉi tiun permesilon.",
+  "licenses.scope.international": "Internacia",
+  "licenses.scope.regional": "Regiona (tradukoj)",
+  "licenses.scope.help": "Amplekso — internacia kovras verkon kun ĉiuj ĝiaj tradukoj, regiona validas por unu sola traduko"
 }

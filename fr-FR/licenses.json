@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Informations sur la licence commerciale",
   "licenses.commercial.exclusive.info": "Licence exclusive : 10 % de frais de plateforme, vous conservez 90 % des revenus",
   "licenses.commercial.nonexclusive.info": "Licence non exclusive : 30 % de frais de plateforme, vous conservez 70 % des revenus",
-  "licenses.moreInfo": "Plus d'informations"
+  "licenses.moreInfo": "Plus d'informations",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · vous {rest}%",
+  "licenses.orgBasedOn": "({org}, basée sur {license})",
+  "licenses.switchNotice": "Cette œuvre quittera la licence de {org} le {date} — l'accès fourni via {org} pourra alors prendre fin.",
+  "licenses.orgCut.label": "Part de l'organisation sur la vente brute (%)",
+  "licenses.orgCut.help": "Prélevée sur la part de l'auteur dans la répartition des revenus lorsqu'une œuvre adopte cette licence.",
+  "licenses.scope.international": "Internationale",
+  "licenses.scope.regional": "Régionale (traductions)",
+  "licenses.scope.help": "Portée — internationale couvre une œuvre avec toutes ses traductions, régionale s'applique à une seule traduction"
 }

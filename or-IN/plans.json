@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ଉନ୍ନତ ବ୍ଲଗ୍ ଡିଜାଇନ୍ (କଷ୍ଟମ୍ CSS)",
   "plans.feature.luSubdomain": "ଆପଣଙ୍କ ନିଜ Literary Universe ସବ୍‌ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
-  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍"
+  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
+  "fanClub.partner.label": "ଫ୍ୟାନ୍ କ୍ଲବ୍ ସଂଗଠନର ଅଂଶ ଅଟେ",
+  "fanClub.partner.none": "କିଛି ନାହିଁ — ସମସ୍ତ ରାଜସ୍ୱ ଆପଣଙ୍କ ପାଖରେ ରହେ",
+  "fanClub.partner.help": "ଯଦି ସଂଗଠନ ସହ ଆପଣଙ୍କ ଚୁକ୍ତିରେ ଆପଣଙ୍କ ଫ୍ୟାନ୍ କ୍ଲବ୍ ଅନ୍ତର୍ଭୁକ୍ତ, ତେବେ ଏଠାରେ ତାହା ବାଛନ୍ତୁ — ବାଛିବା ମୁହୂର୍ତ୍ତରେ ସଂଗଠନର ବର୍ତ୍ତମାନ ହାର ସ୍ଥିର ହୋଇଯାଏ।",
+  "fanClub.partner.breakdown": "ପ୍ଲାଟଫର୍ମ ଶୁଳ୍କ ବ୍ୟତୀତ, ଏହି ଫ୍ୟାନ୍ କ୍ଲବ୍‌ର ରାଜସ୍ୱର {org}% ସଂଗଠନ ପାଏ (ବାଛିବା ସମୟରେ ସ୍ଥିର)। ବର୍ତ୍ତମାନର ଗ୍ରାହକମାନଙ୍କ ପାଇଁ ମଧ୍ୟ ଲାଗୁ।"
 }

@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · আপুনি {rest}%",
+  "licenses.orgBasedOn": "({org}, {license}-ৰ ওপৰত আধাৰিত)",
+  "licenses.switchNotice": "এই ৰচনাই {date}-ত {org}-ৰ লাইচেন্স এৰিব — {org}-ৰ জৰিয়তে দিয়া প্ৰৱেশাধিকাৰ তেতিয়া শেষ হ'ব পাৰে।",
+  "licenses.orgCut.label": "মুঠ বিক্ৰীত সংগঠনৰ অংশ (%)",
+  "licenses.orgCut.help": "কোনো ৰচনাই এই লাইচেন্স গ্ৰহণ কৰিলে উপাৰ্জন বিভাজনত লেখকৰ ভাগৰ পৰা লোৱা হয়।",
+  "licenses.scope.international": "আন্তঃৰাষ্ট্ৰীয়",
+  "licenses.scope.regional": "আঞ্চলিক (অনুবাদসমূহ)",
+  "licenses.scope.help": "পৰিসৰ — আন্তঃৰাষ্ট্ৰীয়ই এটা ৰচনা আৰু তাৰ সকলো অনুবাদ সামৰি লয়, আঞ্চলিক কেৱল এটা অনুবাদৰ ক্ষেত্ৰত প্ৰযোজ্য"
 }

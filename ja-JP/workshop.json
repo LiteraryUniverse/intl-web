@@ -670,5 +670,16 @@
   "workshop.team.creditName": "クレジットに表示する名前",
   "workshop.invitations": "招待",
   "workshop.invitations.received": "受信",
-  "workshop.invitations.sent": "送信"
+  "workshop.invitations.sent": "送信",
+  "workshop.revShare.orgShare": "組織シェア",
+  "workshop.license.adoptOrg.action": "組織ライセンスを採用",
+  "workshop.license.adoptOrg.oneWayWarning": "組織ライセンスを採用すると、組織の固定シェアがこの作品の収益分配に追加されます（あなたの取り分から差し引かれます）。後から変更したり離脱したりするには、読者に表示される予告期間が必要です。",
+  "workshop.license.change.action": "組織ライセンスを変更",
+  "workshop.license.change.leaveOption": "なし — {license} に戻す",
+  "workshop.license.change.notice": "同じ組織の別のライセンスは即時に適用されます。別の組織への切り替えや {license} への復帰は、作品上で読者に表示される {days} 日間の予告の後に有効になります — それまでは現在のライセンスが有効なままです。",
+  "workshop.license.change.scheduled": "ライセンス変更は {date} に予定されています。それまで読者には作品上に通知が表示され、現在のライセンスが有効なままです。",
+  "workshop.translations.license.title": "翻訳ライセンス",
+  "workshop.translations.license.default": "デフォルト（{license}）",
+  "workshop.translations.license.viaOrg": "地域組織ライセンスは、あなたがその組織に所属している場合、またはその組織のメンバーがその言語を翻訳している場合に提示されます。適用すると、翻訳がその組織のカタログに掲載され、組織のシェアがその版の収益分配に追加されます（あなたの取り分から差し引かれます）。翻訳が公開されるとロックされます。",
+  "workshop.translations.license.internationalCovered": "この作品の国際組織ライセンスは、そのすべての翻訳をカバーしています。"
 }

@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "高度なブログデザイン（カスタムCSS）",
   "plans.feature.luSubdomain": "Literary Universe のサブドメインでブログを公開",
-  "plans.feature.customDomain": "独自ドメインでブログを公開"
+  "plans.feature.customDomain": "独自ドメインでブログを公開",
+  "fanClub.partner.label": "ファンクラブは組織の一部です",
+  "fanClub.partner.none": "なし — すべての収益はあなたのものです",
+  "fanClub.partner.help": "組織との契約にファンクラブが含まれている場合は、ここで選択してください — 組織の現在の料率は選択した時点で固定されます。",
+  "fanClub.partner.breakdown": "組織は、プラットフォーム手数料に加えて、このファンクラブの収益の {org}% を受け取ります（選択時に固定）。現在の購読者にも適用されます。"
 }

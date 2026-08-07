@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · თქვენ {rest}%",
+  "licenses.orgBasedOn": "({org}, დაფუძნებული {license}-ზე)",
+  "licenses.switchNotice": "ეს ნაწარმოები ტოვებს {org}-ის ლიცენზიას {date}-ს — შესაძლოა მაშინ დასრულდეს {org}-ის მეშვეობით მიწოდებული წვდომა.",
+  "licenses.orgCut.label": "ორგანიზაციის წილი მთლიანი გაყიდვიდან (%)",
+  "licenses.orgCut.help": "აიღება ავტორის ნაწილიდან შემოსავლის განაწილებაში, როდესაც ნაწარმოები ამ ლიცენზიას იღებს.",
+  "licenses.scope.international": "საერთაშორისო",
+  "licenses.scope.regional": "რეგიონული (თარგმანები)",
+  "licenses.scope.help": "მოქმედების არეალი — საერთაშორისო მოიცავს ნაწარმოებს ყველა თარგმანთან ერთად, რეგიონული ვრცელდება ერთ თარგმანზე"
 }

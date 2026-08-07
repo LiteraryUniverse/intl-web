@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · तुम्ही {rest}%",
+  "licenses.orgBasedOn": "({org}, {license} वर आधारित)",
+  "licenses.switchNotice": "ही कृती {date} रोजी {org} च्या परवान्यातून बाहेर पडते — {org} मार्फत मिळणारा प्रवेश तेव्हा संपू शकतो.",
+  "licenses.orgCut.label": "एकूण विक्रीतील संघटनेचा हिस्सा (%)",
+  "licenses.orgCut.help": "एखादी कृती हा परवाना स्वीकारते तेव्हा उत्पन्न विभागणीतील लेखकाच्या भागातून घेतला जातो.",
+  "licenses.scope.international": "आंतरराष्ट्रीय",
+  "licenses.scope.regional": "प्रादेशिक (भाषांतरे)",
+  "licenses.scope.help": "व्याप्ती — आंतरराष्ट्रीय कृती आणि तिची सर्व भाषांतरे समाविष्ट करते, प्रादेशिक फक्त एका भाषांतराला लागू होते"
 }

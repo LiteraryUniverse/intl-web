@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Nom als crèdits",
   "workshop.invitations": "Invitacions",
   "workshop.invitations.received": "Rebudes",
-  "workshop.invitations.sent": "Enviades"
+  "workshop.invitations.sent": "Enviades",
+  "workshop.revShare.orgShare": "Participació de l'organització",
+  "workshop.license.adoptOrg.action": "Adopta la llicència de l'organització",
+  "workshop.license.adoptOrg.oneWayWarning": "Adoptar una llicència de l'organització afegeix la participació fixa de l'organització al repartiment d'ingressos d'aquesta obra (presa de la teva part). Canviar-la o deixar-la més endavant requereix un període de preavís que es mostra als lectors.",
+  "workshop.license.change.action": "Canvia la llicència de l'organització",
+  "workshop.license.change.leaveOption": "Cap — torna a {license}",
+  "workshop.license.change.notice": "Una llicència diferent de la mateixa organització s'aplica immediatament. Canviar a una altra organització o tornar a {license} té efecte després d'un preavís de {days} dies que es mostra als lectors a l'obra — la llicència actual continua activa fins llavors.",
+  "workshop.license.change.scheduled": "Canvi de llicència programat per al {date}. Fins llavors els lectors veuen un avís a l'obra; la llicència actual continua activa.",
+  "workshop.translations.license.title": "Llicències de traducció",
+  "workshop.translations.license.default": "Per defecte ({license})",
+  "workshop.translations.license.viaOrg": "S'ofereix una llicència regional de l'organització quan pertanys a l'organització, o quan un dels seus membres tradueix aquella llengua. Aplicar-la inclou la traducció al catàleg d'aquella organització i afegeix la participació de l'organització al repartiment d'ingressos d'aquesta edició (presa de la teva part). Es bloqueja quan la traducció es publica.",
+  "workshop.translations.license.internationalCovered": "La llicència internacional de l'organització d'aquesta obra cobreix totes les seves traduccions."
 }

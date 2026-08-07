@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Gelişmiş blog tasarımı (özel CSS)",
   "plans.feature.luSubdomain": "Kendi Literary Universe alt alan adınızda blog",
-  "plans.feature.customDomain": "Kendi alan adınızda blog"
+  "plans.feature.customDomain": "Kendi alan adınızda blog",
+  "fanClub.partner.label": "Hayran kulübü kuruluşun bir parçası",
+  "fanClub.partner.none": "Yok — tüm gelir sizde kalır",
+  "fanClub.partner.help": "Bir kuruluşla sözleşmeniz hayran kulübünüzü kapsıyorsa burada seçin — kuruluşun güncel oranı seçim anında sabitlenir.",
+  "fanClub.partner.breakdown": "Kuruluş, bu hayran kulübü gelirinin {org}%'sini platform ücretine ek olarak alır (seçim anında sabitlenir). Mevcut aboneler için de geçerlidir."
 }

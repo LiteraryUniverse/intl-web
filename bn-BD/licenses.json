@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · আপনি {rest}%",
+  "licenses.orgBasedOn": "({org}, {license}-এর ভিত্তিতে)",
+  "licenses.switchNotice": "এই কাজটি {date} তারিখে {org}-এর লাইসেন্স ছেড়ে যাবে — {org}-এর মাধ্যমে দেওয়া অ্যাক্সেস তখন শেষ হতে পারে।",
+  "licenses.orgCut.label": "মোট বিক্রয়ে প্রতিষ্ঠানের শেয়ার (%)",
+  "licenses.orgCut.help": "কোনও কাজ এই লাইসেন্স গ্রহণ করলে আয় বণ্টনে লেখকের অংশ থেকে নেওয়া হয়।",
+  "licenses.scope.international": "আন্তর্জাতিক",
+  "licenses.scope.regional": "আঞ্চলিক (অনুবাদ)",
+  "licenses.scope.help": "পরিধি — আন্তর্জাতিক একটি কাজ ও তার সব অনুবাদ কভার করে, আঞ্চলিক শুধু একটি অনুবাদের ক্ষেত্রে প্রযোজ্য"
 }

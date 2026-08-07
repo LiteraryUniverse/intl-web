@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ดีไซน์บล็อกขั้นสูง (CSS กำหนดเอง)",
   "plans.feature.luSubdomain": "บล็อกบนซับโดเมน Literary Universe ของคุณเอง",
-  "plans.feature.customDomain": "บล็อกบนโดเมนของคุณเอง"
+  "plans.feature.customDomain": "บล็อกบนโดเมนของคุณเอง",
+  "fanClub.partner.label": "แฟนคลับเป็นส่วนหนึ่งขององค์กร",
+  "fanClub.partner.none": "ไม่มี — รายได้ทั้งหมดเป็นของคุณ",
+  "fanClub.partner.help": "หากสัญญาของคุณกับองค์กรครอบคลุมแฟนคลับของคุณ ให้เลือกที่นี่ — อัตราปัจจุบันขององค์กรจะถูกกำหนดตายตัว ณ ตอนที่เลือก",
+  "fanClub.partner.breakdown": "องค์กรจะได้รับ {org}% ของรายได้แฟนคลับนี้ (กำหนดตายตัวเมื่อเลือก) นอกเหนือจากค่าธรรมเนียมแพลตฟอร์ม มีผลกับผู้สมัครสมาชิกปัจจุบันด้วย"
 }

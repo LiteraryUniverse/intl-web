@@ -670,5 +670,16 @@
   "workshop.team.creditName": "কৃতিত্বৰ নাম",
   "workshop.invitations": "নিমন্ত্ৰণসমূহ",
   "workshop.invitations.received": "প্ৰাপ্ত",
-  "workshop.invitations.sent": "প্ৰেৰিত"
+  "workshop.invitations.sent": "প্ৰেৰিত",
+  "workshop.revShare.orgShare": "সংগঠনৰ অংশ",
+  "workshop.license.adoptOrg.action": "সংগঠনৰ লাইচেন্স গ্ৰহণ কৰক",
+  "workshop.license.adoptOrg.oneWayWarning": "সংগঠনৰ লাইচেন্স গ্ৰহণ কৰিলে এই ৰচনাৰ উপাৰ্জন বিভাজনত সংগঠনৰ নিৰ্ধাৰিত অংশ যোগ হয় (আপোনাৰ ভাগৰ পৰা লোৱা)। পিছত ইয়াক সলনি কৰিবলৈ বা এৰিবলৈ পাঠকক দেখুওৱা এটা জাননী সময়সীমাৰ প্ৰয়োজন হয়।",
+  "workshop.license.change.action": "সংগঠনৰ লাইচেন্স সলনি কৰক",
+  "workshop.license.change.leaveOption": "নাই — {license}-লৈ উভতি যাওক",
+  "workshop.license.change.notice": "একে সংগঠনৰ বেলেগ লাইচেন্স তৎক্ষণাত প্ৰযোজ্য হয়। আন এটা সংগঠনলৈ সলনি কৰা বা {license}-লৈ উভতি যোৱাটো ৰচনাত পাঠকক দেখুওৱা {days} দিনৰ জাননীৰ পিছত কাৰ্যকৰী হয় — তেতিয়ালৈকে বৰ্তমানৰ লাইচেন্স সক্ৰিয় থাকে।",
+  "workshop.license.change.scheduled": "{date}-ত লাইচেন্স সলনি কৰাৰ সময়সূচী নিৰ্ধাৰণ কৰা হৈছে। তেতিয়ালৈকে পাঠকে ৰচনাত এটা জাননী দেখে; বৰ্তমানৰ লাইচেন্স সক্ৰিয় থাকে।",
+  "workshop.translations.license.title": "অনুবাদৰ লাইচেন্স",
+  "workshop.translations.license.default": "ডিফ'ল্ট ({license})",
+  "workshop.translations.license.viaOrg": "আপুনি সংগঠনটোৰ সদস্য হ'লে, বা ইয়াৰ কোনো সদস্যই সেই ভাষালৈ অনুবাদ কৰিলে এটা আঞ্চলিক সংগঠন লাইচেন্স আগবঢ়োৱা হয়। ইয়াক প্ৰয়োগ কৰিলে অনুবাদটো সেই সংগঠনৰ কেটালগত তালিকাভুক্ত হয় আৰু সেই সংস্কৰণৰ উপাৰ্জন বিভাজনত সংগঠনৰ অংশ যোগ হয় (আপোনাৰ ভাগৰ পৰা লোৱা)। অনুবাদ প্ৰকাশ হোৱাৰ লগে লগে ই লক হয়।",
+  "workshop.translations.license.internationalCovered": "এই ৰচনাৰ আন্তঃৰাষ্ট্ৰীয় সংগঠন লাইচেন্সে ইয়াৰ সকলো অনুবাদ সামৰি লয়।"
 }

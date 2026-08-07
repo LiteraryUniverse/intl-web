@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Informácie o komerčnej licencii",
   "licenses.commercial.exclusive.info": "Exkluzívna licencia: 10 % poplatok platformy, ponecháte si 90 % zárobkov",
   "licenses.commercial.nonexclusive.info": "Neexkluzívna licencia: 30 % poplatok platformy, ponecháte si 70 % zárobkov",
-  "licenses.moreInfo": "Ďalšie informácie"
+  "licenses.moreInfo": "Ďalšie informácie",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · vy {rest}%",
+  "licenses.orgBasedOn": "({org}, založená na {license})",
+  "licenses.switchNotice": "Toto dielo opúšťa licenciu organizácie {org} dňa {date} — prístup poskytovaný cez {org} sa tým môže skončiť.",
+  "licenses.orgCut.label": "Podiel organizácie z hrubého predaja (%)",
+  "licenses.orgCut.help": "Berie sa z autorovej časti rozdelenia príjmov, keď dielo prijme túto licenciu.",
+  "licenses.scope.international": "Medzinárodná",
+  "licenses.scope.regional": "Regionálna (preklady)",
+  "licenses.scope.help": "Rozsah — medzinárodná pokrýva dielo so všetkými jeho prekladmi, regionálna sa vzťahuje na jediný preklad"
 }

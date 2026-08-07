@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Naam voor de vermelding",
   "workshop.invitations": "Uitnodigingen",
   "workshop.invitations.received": "Ontvangen",
-  "workshop.invitations.sent": "Verzonden"
+  "workshop.invitations.sent": "Verzonden",
+  "workshop.revShare.orgShare": "Organisatie aandeel",
+  "workshop.license.adoptOrg.action": "Organisatielicentie aannemen",
+  "workshop.license.adoptOrg.oneWayWarning": "Door een organisatielicentie aan te nemen wordt het vaste aandeel van de organisatie toegevoegd aan de opbrengstverdeling van dit werk (genomen uit jouw deel). Deze later wijzigen of verlaten vereist een opzegtermijn die aan lezers wordt getoond.",
+  "workshop.license.change.action": "Organisatielicentie wijzigen",
+  "workshop.license.change.leaveOption": "Geen — terug naar {license}",
+  "workshop.license.change.notice": "Een andere licentie van dezelfde organisatie gaat direct in. Overstappen naar een andere organisatie of terugkeren naar {license} gaat in na een opzegtermijn van {days} dagen die aan lezers op het werk wordt getoond — de huidige licentie blijft tot die tijd van kracht.",
+  "workshop.license.change.scheduled": "Licentiewijziging gepland voor {date}. Tot die tijd zien lezers een melding op het werk; de huidige licentie blijft van kracht.",
+  "workshop.translations.license.title": "Vertaallicenties",
+  "workshop.translations.license.default": "Standaard ({license})",
+  "workshop.translations.license.viaOrg": "Een regionale organisatielicentie wordt aangeboden wanneer je tot de organisatie behoort, of wanneer een van haar leden die taal vertaalt. Door deze toe te passen verschijnt de vertaling in de catalogus van die organisatie en wordt het aandeel van de organisatie toegevoegd aan de opbrengstverdeling van die editie (genomen uit jouw deel). De licentie wordt vergrendeld zodra de vertaling is gepubliceerd.",
+  "workshop.translations.license.internationalCovered": "De internationale organisatielicentie van dit werk dekt al zijn vertalingen."
 }

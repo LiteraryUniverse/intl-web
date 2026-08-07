@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Mainitav nimi",
   "workshop.invitations": "Kutsed",
   "workshop.invitations.received": "Saadud",
-  "workshop.invitations.sent": "Saadetud"
+  "workshop.invitations.sent": "Saadetud",
+  "workshop.revShare.orgShare": "Organisatsiooni osa",
+  "workshop.license.adoptOrg.action": "Võta organisatsiooni litsents kasutusele",
+  "workshop.license.adoptOrg.oneWayWarning": "Organisatsiooni litsentsi kasutuselevõtt lisab organisatsiooni fikseeritud osa selle teose tulude jaotusse (võetakse sinu osast). Hilisem muutmine või lahkumine nõuab etteteatamisaega, mida näidatakse lugejatele.",
+  "workshop.license.change.action": "Muuda organisatsiooni litsentsi",
+  "workshop.license.change.leaveOption": "Puudub — tagasi litsentsile {license}",
+  "workshop.license.change.notice": "Sama organisatsiooni teine litsents rakendub kohe. Teisele organisatsioonile üleminek või tagasipöördumine litsentsile {license} jõustub pärast {days}-päevast etteteatamist, mida näidatakse lugejatele teose juures — seni jääb kehtima praegune litsents.",
+  "workshop.license.change.scheduled": "Litsentsi muudatus on kavandatud kuupäevale {date}. Seni näevad lugejad teose juures teadet; praegune litsents jääb kehtima.",
+  "workshop.translations.license.title": "Tõlkelitsentsid",
+  "workshop.translations.license.default": "Vaikimisi ({license})",
+  "workshop.translations.license.viaOrg": "Piirkondlikku organisatsiooni litsentsi pakutakse, kui kuulud organisatsiooni või kui üks selle liikmetest tõlgib seda keelt. Selle rakendamine lisab tõlke selle organisatsiooni kataloogi ja lisab organisatsiooni osa selle väljaande tulude jaotusse (võetakse sinu osast). See lukustub, kui tõlge avaldatakse.",
+  "workshop.translations.license.internationalCovered": "Selle teose rahvusvaheline organisatsiooni litsents katab kõik selle tõlked."
 }

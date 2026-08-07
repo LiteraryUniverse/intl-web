@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · ikaw {rest}%",
+  "licenses.orgBasedOn": "({org}, batay sa {license})",
+  "licenses.switchNotice": "Aalis ang akdang ito sa lisensya ng {org} sa {date} — maaaring matapos noon ang access na ibinibigay sa pamamagitan ng {org}.",
+  "licenses.orgCut.label": "Bahagi ng organisasyon sa kabuuang benta (%)",
+  "licenses.orgCut.help": "Kinukuha mula sa bahagi ng may-akda sa hatian ng kita kapag ginamit ng isang akda ang lisensyang ito.",
+  "licenses.scope.international": "Internasyonal",
+  "licenses.scope.regional": "Rehiyonal (mga pagsasalin)",
+  "licenses.scope.help": "Saklaw — sinasaklaw ng internasyonal ang isang akda kasama ang lahat ng pagsasalin nito, ang rehiyonal ay nalalapat sa iisang pagsasalin"
 }

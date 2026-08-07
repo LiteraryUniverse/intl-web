@@ -670,5 +670,16 @@
   "workshop.team.creditName": "श्रेय द्यायचे नाव",
   "workshop.invitations": "आमंत्रणे",
   "workshop.invitations.received": "प्राप्त",
-  "workshop.invitations.sent": "पाठवलेली"
+  "workshop.invitations.sent": "पाठवलेली",
+  "workshop.revShare.orgShare": "संघटनेचा हिस्सा",
+  "workshop.license.adoptOrg.action": "संघटनेचा परवाना स्वीकारा",
+  "workshop.license.adoptOrg.oneWayWarning": "संघटनेचा परवाना स्वीकारल्याने या कृतीच्या उत्पन्न विभागणीत संघटनेचा निश्चित हिस्सा जोडला जातो (तुमच्या भागातून घेतला जातो). नंतर तो बदलण्यासाठी किंवा सोडण्यासाठी वाचकांना दाखवला जाणारा सूचना कालावधी आवश्यक असतो.",
+  "workshop.license.change.action": "संघटनेचा परवाना बदला",
+  "workshop.license.change.leaveOption": "काहीही नाही — {license} वर परत जा",
+  "workshop.license.change.notice": "त्याच संघटनेचा दुसरा परवाना लगेच लागू होतो. दुसऱ्या संघटनेकडे जाणे किंवा {license} वर परत जाणे, कृतीवर वाचकांना दाखवल्या जाणाऱ्या {days} दिवसांच्या सूचनेनंतर लागू होते — तोपर्यंत सध्याचा परवाना सक्रिय राहतो.",
+  "workshop.license.change.scheduled": "परवाना बदल {date} साठी नियोजित आहे. तोपर्यंत वाचकांना कृतीवर सूचना दिसते; सध्याचा परवाना सक्रिय राहतो.",
+  "workshop.translations.license.title": "भाषांतर परवाने",
+  "workshop.translations.license.default": "डीफॉल्ट ({license})",
+  "workshop.translations.license.viaOrg": "तुम्ही संघटनेचे सदस्य असता, किंवा तिचा एखादा सदस्य ती भाषा भाषांतरित करतो, तेव्हा प्रादेशिक संघटना परवाना देऊ केला जातो. तो लागू केल्याने भाषांतर त्या संघटनेच्या कॅटलॉगमध्ये सूचीबद्ध होते आणि त्या आवृत्तीच्या उत्पन्न विभागणीत संघटनेचा हिस्सा जोडला जातो (तुमच्या भागातून घेतला जातो). भाषांतर प्रकाशित झाल्यावर तो लॉक होतो.",
+  "workshop.translations.license.internationalCovered": "या कृतीचा आंतरराष्ट्रीय संघटना परवाना तिची सर्व भाषांतरे समाविष्ट करतो."
 }

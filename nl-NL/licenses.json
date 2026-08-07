@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Informatie over commerciële licentie",
   "licenses.commercial.exclusive.info": "Exclusieve licentie: 10% platformkosten, je houdt 90% van de inkomsten",
   "licenses.commercial.nonexclusive.info": "Niet-exclusieve licentie: 30% platformkosten, je houdt 70% van de inkomsten",
-  "licenses.moreInfo": "Meer informatie"
+  "licenses.moreInfo": "Meer informatie",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · jij {rest}%",
+  "licenses.orgBasedOn": "({org}, gebaseerd op {license})",
+  "licenses.switchNotice": "Dit werk verlaat de licentie van {org} op {date} — toegang die via {org} wordt geboden kan dan eindigen.",
+  "licenses.orgCut.label": "Aandeel van de organisatie in de brutoverkoop (%)",
+  "licenses.orgCut.help": "Wordt genomen uit het auteursdeel van de opbrengstverdeling wanneer een werk deze licentie aanneemt.",
+  "licenses.scope.international": "Internationaal",
+  "licenses.scope.regional": "Regionaal (vertalingen)",
+  "licenses.scope.help": "Bereik — internationaal dekt een werk met al zijn vertalingen, regionaal geldt voor één enkele vertaling"
 }

@@ -670,5 +670,16 @@
   "workshop.team.creditName": "క్రెడిట్‌లో చూపే పేరు",
   "workshop.invitations": "ఆహ్వానాలు",
   "workshop.invitations.received": "అందినవి",
-  "workshop.invitations.sent": "పంపినవి"
+  "workshop.invitations.sent": "పంపినవి",
+  "workshop.revShare.orgShare": "సంస్థ వాటా",
+  "workshop.license.adoptOrg.action": "సంస్థ లైసెన్సును స్వీకరించండి",
+  "workshop.license.adoptOrg.oneWayWarning": "సంస్థ లైసెన్సును స్వీకరించడం వల్ల సంస్థ స్థిర వాటా ఈ రచన ఆదాయ పంపిణీకి జోడించబడుతుంది (మీ భాగం నుండి తీసుకోబడుతుంది). తరువాత దాన్ని మార్చడానికి లేదా వదిలివేయడానికి పాఠకులకు చూపించే నోటీసు వ్యవధి అవసరం.",
+  "workshop.license.change.action": "సంస్థ లైసెన్సును మార్చండి",
+  "workshop.license.change.leaveOption": "ఏదీ లేదు — {license}కు తిరిగి వెళ్లండి",
+  "workshop.license.change.notice": "అదే సంస్థకు చెందిన వేరే లైసెన్సు వెంటనే వర్తిస్తుంది. మరో సంస్థకు మారడం లేదా {license}కు తిరిగి రావడం, రచనపై పాఠకులకు చూపించే {days}-రోజుల నోటీసు తర్వాత అమలులోకి వస్తుంది — అప్పటివరకు ప్రస్తుత లైసెన్సు అమలులో ఉంటుంది.",
+  "workshop.license.change.scheduled": "లైసెన్సు మార్పు {date}కి షెడ్యూల్ చేయబడింది. అప్పటివరకు పాఠకులు రచనపై నోటీసును చూస్తారు; ప్రస్తుత లైసెన్సు అమలులో ఉంటుంది.",
+  "workshop.translations.license.title": "అనువాద లైసెన్సులు",
+  "workshop.translations.license.default": "డిఫాల్ట్ ({license})",
+  "workshop.translations.license.viaOrg": "మీరు సంస్థలో సభ్యులుగా ఉన్నప్పుడు, లేదా దాని సభ్యులలో ఒకరు ఆ భాషను అనువదించినప్పుడు ప్రాంతీయ సంస్థ లైసెన్సు అందించబడుతుంది. దాన్ని వర్తింపజేస్తే అనువాదం ఆ సంస్థ కేటలాగ్‌లో చేర్చబడుతుంది; ఆ ఎడిషన్ ఆదాయ పంపిణీకి సంస్థ వాటా జోడించబడుతుంది (మీ భాగం నుండి తీసుకోబడుతుంది). అనువాదం ప్రచురించబడిన తర్వాత అది లాక్ అవుతుంది.",
+  "workshop.translations.license.internationalCovered": "ఈ రచన అంతర్జాతీయ సంస్థ లైసెన్సు దాని అన్ని అనువాదాలను కవర్ చేస్తుంది."
 }

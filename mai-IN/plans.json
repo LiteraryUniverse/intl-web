@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "उन्नत ब्लॉग डिजाइन (कस्टम CSS)",
   "plans.feature.luSubdomain": "अहाँक अपन Literary Universe सबडोमेन पर ब्लॉग",
-  "plans.feature.customDomain": "अहाँक अपन डोमेन पर ब्लॉग"
+  "plans.feature.customDomain": "अहाँक अपन डोमेन पर ब्लॉग",
+  "fanClub.partner.label": "फैन क्लब संगठनक हिस्सा अछि",
+  "fanClub.partner.none": "किछु नहि — सम्पूर्ण आय अहाँक लग रहैत अछि",
+  "fanClub.partner.help": "यदि संगठनक संग अहाँक अनुबंध मे अहाँक फैन क्लब सामिल अछि त एकरा एतय चुनू — चुनबाक क्षण मे संगठनक वर्तमान दर निश्चित भ' जाइत अछि।",
+  "fanClub.partner.breakdown": "प्लेटफार्म शुल्कक अतिरिक्त, एहि फैन क्लबक आयक {org}% संगठन केँ भेटैत अछि (चुनबा काल निश्चित)। वर्तमान ग्राहक सभ पर सेहो लागू।"
 }

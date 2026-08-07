@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Navn til kreditering",
   "workshop.invitations": "Invitasjoner",
   "workshop.invitations.received": "Mottatte",
-  "workshop.invitations.sent": "Sendte"
+  "workshop.invitations.sent": "Sendte",
+  "workshop.revShare.orgShare": "Organisasjonsandel",
+  "workshop.license.adoptOrg.action": "Ta i bruk organisasjonslisens",
+  "workshop.license.adoptOrg.oneWayWarning": "Å ta i bruk en organisasjonslisens legger organisasjonens faste andel til dette verkets inntektsfordeling (tatt fra din del). Å endre eller forlate den senere krever en varslingsperiode som vises til leserne.",
+  "workshop.license.change.action": "Endre organisasjonslisens",
+  "workshop.license.change.leaveOption": "Ingen — tilbake til {license}",
+  "workshop.license.change.notice": "En annen lisens fra samme organisasjon gjelder umiddelbart. Å bytte til en annen organisasjon eller gå tilbake til {license} trer i kraft etter et varsel på {days} dager som vises til leserne på verket — den nåværende lisensen forblir aktiv til da.",
+  "workshop.license.change.scheduled": "Lisensendring planlagt til {date}. Leserne ser et varsel på verket frem til da; den nåværende lisensen forblir aktiv.",
+  "workshop.translations.license.title": "Oversettelseslisenser",
+  "workshop.translations.license.default": "Standard ({license})",
+  "workshop.translations.license.viaOrg": "En regional organisasjonslisens tilbys når du tilhører organisasjonen, eller når et av medlemmene oversetter det språket. Ved å bruke den blir oversettelsen oppført i organisasjonens katalog, og organisasjonens andel legges til den utgavens inntektsfordeling (tatt fra din del). Den låses når oversettelsen publiseres.",
+  "workshop.translations.license.internationalCovered": "Dette verkets internasjonale organisasjonslisens dekker alle oversettelsene."
 }

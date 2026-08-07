@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Mainittava nimi",
   "workshop.invitations": "Kutsut",
   "workshop.invitations.received": "Vastaanotetut",
-  "workshop.invitations.sent": "Lähetetyt"
+  "workshop.invitations.sent": "Lähetetyt",
+  "workshop.revShare.orgShare": "Organisaation osuus",
+  "workshop.license.adoptOrg.action": "Ota organisaation lisenssi käyttöön",
+  "workshop.license.adoptOrg.oneWayWarning": "Organisaation lisenssin käyttöönotto lisää organisaation kiinteän osuuden tämän teoksen tulonjakoon (otetaan sinun osastasi). Myöhempi vaihtaminen tai lisenssistä luopuminen edellyttää lukijoille näytettävää ilmoitusaikaa.",
+  "workshop.license.change.action": "Vaihda organisaation lisenssi",
+  "workshop.license.change.leaveOption": "Ei mitään — palaa lisenssiin {license}",
+  "workshop.license.change.notice": "Saman organisaation toinen lisenssi tulee voimaan heti. Vaihto toiseen organisaatioon tai paluu lisenssiin {license} tulee voimaan {days} päivän ilmoitusajan jälkeen, joka näytetään lukijoille teoksessa — nykyinen lisenssi pysyy voimassa siihen asti.",
+  "workshop.license.change.scheduled": "Lisenssin vaihto on ajoitettu päivälle {date}. Siihen asti lukijat näkevät teoksessa ilmoituksen; nykyinen lisenssi pysyy voimassa.",
+  "workshop.translations.license.title": "Käännöslisenssit",
+  "workshop.translations.license.default": "Oletus ({license})",
+  "workshop.translations.license.viaOrg": "Alueellista organisaation lisenssiä tarjotaan, kun kuulut organisaatioon tai kun joku sen jäsenistä kääntää kyseistä kieltä. Sen soveltaminen listaa käännöksen kyseisen organisaation katalogiin ja lisää organisaation osuuden kyseisen laitoksen tulonjakoon (otetaan sinun osastasi). Se lukittuu, kun käännös julkaistaan.",
+  "workshop.translations.license.internationalCovered": "Tämän teoksen kansainvälinen organisaation lisenssi kattaa kaikki sen käännökset."
 }

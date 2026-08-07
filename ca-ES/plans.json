@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Disseny avançat del blog (CSS personalitzat)",
   "plans.feature.luSubdomain": "Blog al vostre subdomini de Literary Universe",
-  "plans.feature.customDomain": "Blog al vostre propi domini"
+  "plans.feature.customDomain": "Blog al vostre propi domini",
+  "fanClub.partner.label": "El Fan Club forma part de l'organització",
+  "fanClub.partner.none": "Cap — tots els ingressos es queden amb tu",
+  "fanClub.partner.help": "Si el teu contracte amb una organització inclou el teu Fan Club, selecciona-la aquí — la taxa actual de l'organització queda fixada en el moment de la selecció.",
+  "fanClub.partner.breakdown": "L'organització rep el {org}% dels ingressos d'aquest Fan Club (fixat en seleccionar-la), a més de la comissió de la plataforma. També s'aplica als subscriptors actuals."
 }

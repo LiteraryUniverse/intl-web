@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Nama dalam kredit",
   "workshop.invitations": "Undangan",
   "workshop.invitations.received": "Diterima",
-  "workshop.invitations.sent": "Terkirim"
+  "workshop.invitations.sent": "Terkirim",
+  "workshop.revShare.orgShare": "Bagian organisasi",
+  "workshop.license.adoptOrg.action": "Adopsi lisensi organisasi",
+  "workshop.license.adoptOrg.oneWayWarning": "Mengadopsi lisensi organisasi menambahkan bagian tetap organisasi ke pembagian pendapatan karya ini (diambil dari bagian Anda). Mengubah atau meninggalkannya nanti memerlukan masa pemberitahuan yang ditampilkan kepada pembaca.",
+  "workshop.license.change.action": "Ubah lisensi organisasi",
+  "workshop.license.change.leaveOption": "Tidak ada — kembali ke {license}",
+  "workshop.license.change.notice": "Lisensi lain dari organisasi yang sama langsung berlaku. Beralih ke organisasi lain atau kembali ke {license} berlaku setelah pemberitahuan {days} hari yang ditampilkan kepada pembaca pada karya — hingga saat itu lisensi saat ini tetap aktif.",
+  "workshop.license.change.scheduled": "Perubahan lisensi dijadwalkan pada {date}. Hingga saat itu pembaca melihat pemberitahuan pada karya; lisensi saat ini tetap aktif.",
+  "workshop.translations.license.title": "Lisensi terjemahan",
+  "workshop.translations.license.default": "Default ({license})",
+  "workshop.translations.license.viaOrg": "Lisensi organisasi regional ditawarkan saat Anda tergabung dalam organisasi tersebut, atau saat salah satu anggotanya menerjemahkan bahasa itu. Menerapkannya mencantumkan terjemahan di katalog organisasi tersebut dan menambahkan bagian organisasi ke pembagian pendapatan edisi itu (diambil dari bagian Anda). Lisensi terkunci setelah terjemahan diterbitkan.",
+  "workshop.translations.license.internationalCovered": "Lisensi organisasi internasional karya ini mencakup semua terjemahannya."
 }

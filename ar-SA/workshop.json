@@ -670,5 +670,16 @@
   "workshop.team.creditName": "الاسم المراد ذكره",
   "workshop.invitations": "الدعوات",
   "workshop.invitations.received": "المستلمة",
-  "workshop.invitations.sent": "المرسلة"
+  "workshop.invitations.sent": "المرسلة",
+  "workshop.revShare.orgShare": "حصة المنظمة",
+  "workshop.license.adoptOrg.action": "اعتماد ترخيص المنظمة",
+  "workshop.license.adoptOrg.oneWayWarning": "اعتماد ترخيص المنظمة يضيف حصة المنظمة الثابتة إلى تقسيم إيرادات هذا العمل (تُقتطع من جزئك). يتطلب تغييره أو تركه لاحقًا فترة إشعار تُعرض للقراء.",
+  "workshop.license.change.action": "تغيير ترخيص المنظمة",
+  "workshop.license.change.leaveOption": "بلا — العودة إلى {license}",
+  "workshop.license.change.notice": "يسري ترخيص مختلف من المنظمة نفسها فورًا. أما التحول إلى منظمة أخرى أو العودة إلى {license} فيسري بعد إشعار مدته {days} يومًا يُعرض للقراء على العمل — ويبقى الترخيص الحالي ساريًا حتى ذلك الحين.",
+  "workshop.license.change.scheduled": "تمت جدولة تغيير الترخيص في {date}. يرى القراء إشعارًا على العمل حتى ذلك الحين؛ ويبقى الترخيص الحالي ساريًا.",
+  "workshop.translations.license.title": "تراخيص الترجمة",
+  "workshop.translations.license.default": "الافتراضي ({license})",
+  "workshop.translations.license.viaOrg": "يُعرض ترخيص منظمة إقليمي عندما تنتمي إلى المنظمة، أو عندما يترجم أحد أعضائها تلك اللغة. تطبيقه يدرج الترجمة في كتالوج تلك المنظمة ويضيف حصة المنظمة إلى تقسيم إيرادات تلك النسخة (تُقتطع من جزئك). ويُقفل بمجرد نشر الترجمة.",
+  "workshop.translations.license.internationalCovered": "ترخيص المنظمة الدولي لهذا العمل يغطي جميع ترجماته."
 }

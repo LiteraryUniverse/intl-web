@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "تصميم متقدم للمدونة (CSS مخصص)",
   "plans.feature.luSubdomain": "مدونة على نطاق فرعي خاص بك في Literary Universe",
-  "plans.feature.customDomain": "مدونة على نطاقك الخاص"
+  "plans.feature.customDomain": "مدونة على نطاقك الخاص",
+  "fanClub.partner.label": "نادي المعجبين جزء من منظمة",
+  "fanClub.partner.none": "لا شيء — تبقى جميع الإيرادات لك",
+  "fanClub.partner.help": "إذا كان عقدك مع منظمة يشمل نادي المعجبين الخاص بك، فاخترها هنا — تُثبَّت نسبة المنظمة الحالية لحظة الاختيار.",
+  "fanClub.partner.breakdown": "تتلقى المنظمة {org}% من إيرادات نادي المعجبين هذا (تُثبَّت عند الاختيار)، إضافة إلى رسوم المنصة. ينطبق ذلك أيضًا على المشتركين الحاليين."
 }

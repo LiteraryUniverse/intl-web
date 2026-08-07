@@ -670,5 +670,16 @@
   "workshop.team.creditName": "致謝顯示名稱",
   "workshop.invitations": "邀請",
   "workshop.invitations.received": "收到的邀請",
-  "workshop.invitations.sent": "寄出的邀請"
+  "workshop.invitations.sent": "寄出的邀請",
+  "workshop.revShare.orgShare": "組織佔有率",
+  "workshop.license.adoptOrg.action": "採用組織許可證",
+  "workshop.license.adoptOrg.oneWayWarning": "採用組織許可證會將組織的固定份額加入此作品的收益分配（從您的部分扣除）。之後若要變更或退出許可證，需要一段向讀者顯示的預告期。",
+  "workshop.license.change.action": "變更組織許可證",
+  "workshop.license.change.leaveOption": "無 — 回到 {license}",
+  "workshop.license.change.notice": "同一組織的另一份許可證會立即生效。改用其他組織的許可證或回到 {license}，則會在作品上向讀者顯示 {days} 天預告後才生效 — 在此之前目前的許可證仍然有效。",
+  "workshop.license.change.scheduled": "許可證變更已排定於 {date} 生效。在此之前讀者會在作品上看到通知；目前的許可證仍然有效。",
+  "workshop.translations.license.title": "翻譯許可證",
+  "workshop.translations.license.default": "預設（{license}）",
+  "workshop.translations.license.viaOrg": "當您屬於該組織，或其成員之一翻譯該語言時，即可選用區域組織許可證。套用後，該翻譯會列入該組織的目錄，並將組織的份額加入該版本的收益分配（從您的部分扣除）。翻譯發佈後即鎖定。",
+  "workshop.translations.license.internationalCovered": "此作品的國際組織許可證涵蓋其所有翻譯。"
 }

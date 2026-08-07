@@ -111,5 +111,6 @@
   "audiobook.team.title": "Audioraamatu meeskond",
   "audiobook.team.voiceActors": "Ettelugejad",
   "audiobook.team.you": "sina",
-  "audiobook.whereToListen": "Kus kuulata"
+  "audiobook.whereToListen": "Kus kuulata",
+  "audiobook.orgFeatureDisabled": "Audioraamatud ei ole selle organisatsiooni jaoks lubatud."
 }

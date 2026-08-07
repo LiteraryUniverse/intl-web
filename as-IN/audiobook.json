@@ -111,5 +111,6 @@
   "audiobook.team.title": "অডিঅ' বুক দল",
   "audiobook.team.voiceActors": "ভইচ অভিনেতা",
   "audiobook.team.you": "আপুনি",
-  "audiobook.whereToListen": "ক'ত শুনিব"
+  "audiobook.whereToListen": "ক'ত শুনিব",
+  "audiobook.orgFeatureDisabled": "এই সংগঠনৰ বাবে অডিঅ'বুক সক্ৰিয় কৰা হোৱা নাই।"
 }

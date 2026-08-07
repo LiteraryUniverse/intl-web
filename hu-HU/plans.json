@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Haladó blogdizájn (egyéni CSS)",
   "plans.feature.luSubdomain": "Blog a saját Literary Universe aldomaineden",
-  "plans.feature.customDomain": "Blog a saját domaineden"
+  "plans.feature.customDomain": "Blog a saját domaineden",
+  "fanClub.partner.label": "A rajongói klub a szervezet része",
+  "fanClub.partner.none": "Nincs — minden bevétel nálad marad",
+  "fanClub.partner.help": "Ha a szervezettel kötött szerződésed kiterjed a rajongói klubodra, válaszd ki itt — a szervezet aktuális mértéke a kiválasztás pillanatában rögzül.",
+  "fanClub.partner.breakdown": "A szervezet a rajongói klub bevételének {org}%-át kapja (a kiválasztáskor rögzítve), a platformdíjon felül. A jelenlegi feliratkozókra is vonatkozik."
 }

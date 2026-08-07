@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Künyede görünecek ad",
   "workshop.invitations": "Davetler",
   "workshop.invitations.received": "Alınanlar",
-  "workshop.invitations.sent": "Gönderilenler"
+  "workshop.invitations.sent": "Gönderilenler",
+  "workshop.revShare.orgShare": "Kuruluş payı",
+  "workshop.license.adoptOrg.action": "Kuruluş lisansını benimse",
+  "workshop.license.adoptOrg.oneWayWarning": "Bir kuruluş lisansını benimsemek, kuruluşun sabit payını bu eserin gelir paylaşımına ekler (sizin payınızdan alınır). Daha sonra lisansı değiştirmek veya lisanstan ayrılmak, okuyuculara gösterilen bir bildirim süresi gerektirir.",
+  "workshop.license.change.action": "Kuruluş lisansını değiştir",
+  "workshop.license.change.leaveOption": "Yok — {license} lisansına geri dön",
+  "workshop.license.change.notice": "Aynı kuruluştan farklı bir lisans hemen uygulanır. Başka bir kuruluşa geçmek veya {license} lisansına geri dönmek, eser üzerinde okuyuculara gösterilen {days} günlük bildirim süresinden sonra yürürlüğe girer — o zamana kadar mevcut lisans geçerli kalır.",
+  "workshop.license.change.scheduled": "Lisans değişikliği {date} tarihine planlandı. O zamana kadar okuyucular eserde bir bildirim görür; mevcut lisans geçerli kalır.",
+  "workshop.translations.license.title": "Çeviri lisansları",
+  "workshop.translations.license.default": "Varsayılan ({license})",
+  "workshop.translations.license.viaOrg": "Bölgesel bir kuruluş lisansı, kuruluşa üye olduğunuzda veya üyelerinden biri o dile çeviri yaptığında sunulur. Uygulandığında çeviri o kuruluşun kataloğunda listelenir ve kuruluşun payı bu baskının gelir paylaşımına eklenir (sizin payınızdan alınır). Çeviri yayınlandığında kilitlenir.",
+  "workshop.translations.license.internationalCovered": "Bu eserin uluslararası kuruluş lisansı tüm çevirilerini kapsar."
 }

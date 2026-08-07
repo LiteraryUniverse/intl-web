@@ -670,5 +670,16 @@
   "workshop.team.creditName": "ชื่อที่จะให้เครดิต",
   "workshop.invitations": "คำเชิญ",
   "workshop.invitations.received": "ที่ได้รับ",
-  "workshop.invitations.sent": "ที่ส่งแล้ว"
+  "workshop.invitations.sent": "ที่ส่งแล้ว",
+  "workshop.revShare.orgShare": "ส่วนแบ่งขององค์กร",
+  "workshop.license.adoptOrg.action": "ใช้ใบอนุญาตขององค์กร",
+  "workshop.license.adoptOrg.oneWayWarning": "การใช้ใบอนุญาตขององค์กรจะเพิ่มส่วนแบ่งคงที่ขององค์กรลงในการแบ่งรายได้ของผลงานนี้ (หักจากส่วนของคุณ) การเปลี่ยนหรือออกจากใบอนุญาตในภายหลังต้องมีระยะเวลาแจ้งล่วงหน้าที่แสดงให้ผู้อ่านเห็น",
+  "workshop.license.change.action": "เปลี่ยนใบอนุญาตขององค์กร",
+  "workshop.license.change.leaveOption": "ไม่ใช้ — กลับไปใช้ {license}",
+  "workshop.license.change.notice": "ใบอนุญาตอื่นจากองค์กรเดียวกันจะมีผลทันที ส่วนการเปลี่ยนไปใช้องค์กรอื่นหรือกลับไปใช้ {license} จะมีผลหลังจากระยะเวลาแจ้งล่วงหน้า {days} วันที่แสดงให้ผู้อ่านเห็นบนผลงาน — ใบอนุญาตปัจจุบันยังคงมีผลจนถึงตอนนั้น",
+  "workshop.license.change.scheduled": "กำหนดเปลี่ยนใบอนุญาตในวันที่ {date} ผู้อ่านจะเห็นประกาศบนผลงานจนถึงตอนนั้น ใบอนุญาตปัจจุบันยังคงมีผล",
+  "workshop.translations.license.title": "ใบอนุญาตงานแปล",
+  "workshop.translations.license.default": "ค่าเริ่มต้น ({license})",
+  "workshop.translations.license.viaOrg": "ใบอนุญาตองค์กรระดับภูมิภาคจะมีให้เลือกเมื่อคุณเป็นสมาชิกขององค์กร หรือเมื่อสมาชิกคนหนึ่งขององค์กรแปลภาษานั้น การใช้ใบอนุญาตนี้จะแสดงงานแปลในแค็ตตาล็อกขององค์กรนั้น และเพิ่มส่วนแบ่งขององค์กรลงในการแบ่งรายได้ของฉบับนั้น (หักจากส่วนของคุณ) ใบอนุญาตจะถูกล็อกเมื่องานแปลถูกเผยแพร่",
+  "workshop.translations.license.internationalCovered": "ใบอนุญาตองค์กรระหว่างประเทศของผลงานนี้ครอบคลุมงานแปลทั้งหมดของผลงาน"
 }

@@ -111,5 +111,6 @@
   "audiobook.team.title": "Команда аудиокниги",
   "audiobook.team.voiceActors": "Чтецы",
   "audiobook.team.you": "вы",
-  "audiobook.whereToListen": "Где послушать"
+  "audiobook.whereToListen": "Где послушать",
+  "audiobook.orgFeatureDisabled": "Аудиокниги не включены для этой организации."
 }

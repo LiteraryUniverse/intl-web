@@ -111,5 +111,6 @@
   "audiobook.team.title": "Teamo de la sonlibro",
   "audiobook.team.voiceActors": "Voĉaktoroj",
   "audiobook.team.you": "vi",
-  "audiobook.whereToListen": "Kie aŭskulti"
+  "audiobook.whereToListen": "Kie aŭskulti",
+  "audiobook.orgFeatureDisabled": "Sonlibroj ne estas ebligitaj por ĉi tiu organizo."
 }

@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Jeneng ing kredit",
   "workshop.invitations": "Undangan",
   "workshop.invitations.received": "Ditampa",
-  "workshop.invitations.sent": "Dikirim"
+  "workshop.invitations.sent": "Dikirim",
+  "workshop.revShare.orgShare": "Bagian organisasi",
+  "workshop.license.adoptOrg.action": "Nganggo lisensi organisasi",
+  "workshop.license.adoptOrg.oneWayWarning": "Nganggo lisensi organisasi nambahake bagian tetep organisasi menyang pembagian penghasilan karya iki (dijupuk saka bagian sampeyan). Kanggo ngganti utawa metu mengko, dibutuhake periode kabar sing dituduhake marang pamaca.",
+  "workshop.license.change.action": "Ganti lisensi organisasi",
+  "workshop.license.change.leaveOption": "Ora ana — bali menyang {license}",
+  "workshop.license.change.notice": "Lisensi liya saka organisasi sing padha langsung ditrapake. Pindhah menyang organisasi liya utawa bali menyang {license} bakal ditrapake sawise kabar {days} dina sing dituduhake marang pamaca ing karya — nganti wektu iku lisensi saiki tetep aktif.",
+  "workshop.license.change.scheduled": "Owah-owahan lisensi dijadwalake tanggal {date}. Nganti wektu iku pamaca ndeleng kabar ing karya; lisensi saiki tetep aktif.",
+  "workshop.translations.license.title": "Lisensi terjemahan",
+  "workshop.translations.license.default": "Standar ({license})",
+  "workshop.translations.license.viaOrg": "Lisensi organisasi regional ditawakake yen sampeyan dadi anggota organisasi kasebut, utawa yen salah siji anggotane nerjemahake basa kasebut. Yen ditrapake, terjemahan bakal kadaptar ing katalog organisasi kasebut lan bagian organisasi ditambahake menyang pembagian penghasilan edisi kasebut (dijupuk saka bagian sampeyan). Lisensi iki dikunci sawise terjemahan diterbitake.",
+  "workshop.translations.license.internationalCovered": "Lisensi organisasi internasional karya iki nyakup kabeh terjemahane."
 }

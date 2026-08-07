@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "અદ્યતન બ્લોગ ડિઝાઇન (કસ્ટમ CSS)",
   "plans.feature.luSubdomain": "તમારા પોતાના Literary Universe સબડોમેન પર બ્લોગ",
-  "plans.feature.customDomain": "તમારા પોતાના ડોમેન પર બ્લોગ"
+  "plans.feature.customDomain": "તમારા પોતાના ડોમેન પર બ્લોગ",
+  "fanClub.partner.label": "ફેન ક્લબ સંગઠનનો ભાગ છે",
+  "fanClub.partner.none": "કોઈ નહીં — બધી આવક તમારી પાસે રહે છે",
+  "fanClub.partner.help": "જો કોઈ સંગઠન સાથેના તમારા કરારમાં તમારું ફેન ક્લબ સામેલ હોય, તો તેને અહીં પસંદ કરો — પસંદગીની ક્ષણે સંગઠનનો વર્તમાન દર નિશ્ચિત થાય છે.",
+  "fanClub.partner.breakdown": "સંગઠનને આ ફેન ક્લબની આવકનો {org}% મળે છે (પસંદગી વખતે નિશ્ચિત), પ્લેટફોર્મ ફી ઉપરાંત. વર્તમાન સબ્સ્ક્રાઇબરોને પણ લાગુ પડે છે."
 }

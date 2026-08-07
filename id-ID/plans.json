@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Desain blog lanjutan (CSS kustom)",
   "plans.feature.luSubdomain": "Blog di subdomain Literary Universe Anda sendiri",
-  "plans.feature.customDomain": "Blog di domain Anda sendiri"
+  "plans.feature.customDomain": "Blog di domain Anda sendiri",
+  "fanClub.partner.label": "Klub penggemar adalah bagian dari organisasi",
+  "fanClub.partner.none": "Tidak ada — semua pendapatan tetap milik Anda",
+  "fanClub.partner.help": "Jika kontrak Anda dengan sebuah organisasi mencakup klub penggemar Anda, pilih di sini — tarif organisasi saat ini dikunci pada saat pemilihan.",
+  "fanClub.partner.breakdown": "Organisasi menerima {org}% dari pendapatan klub penggemar ini (dikunci saat dipilih), di luar biaya platform. Berlaku juga untuk pelanggan saat ini."
 }

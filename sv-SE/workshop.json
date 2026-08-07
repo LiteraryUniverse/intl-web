@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Namn att kreditera",
   "workshop.invitations": "Inbjudningar",
   "workshop.invitations.received": "Mottagna",
-  "workshop.invitations.sent": "Skickade"
+  "workshop.invitations.sent": "Skickade",
+  "workshop.revShare.orgShare": "Organisationens andel",
+  "workshop.license.adoptOrg.action": "Anta organisationslicens",
+  "workshop.license.adoptOrg.oneWayWarning": "Att anta en organisationslicens lägger till organisationens fasta andel i verkets intäktsfördelning (tas från din del). Att senare byta eller lämna licensen kräver en varselperiod som visas för läsarna.",
+  "workshop.license.change.action": "Byt organisationslicens",
+  "workshop.license.change.leaveOption": "Ingen — återgå till {license}",
+  "workshop.license.change.notice": "En annan licens från samma organisation gäller omedelbart. Byte till en annan organisation eller återgång till {license} träder i kraft efter en varselperiod på {days} dagar som visas för läsarna på verket — den nuvarande licensen gäller fram till dess.",
+  "workshop.license.change.scheduled": "Licensbytet är schemalagt till {date}. Fram till dess ser läsarna ett meddelande på verket; den nuvarande licensen fortsätter att gälla.",
+  "workshop.translations.license.title": "Översättningslicenser",
+  "workshop.translations.license.default": "Standard ({license})",
+  "workshop.translations.license.viaOrg": "En regional organisationslicens erbjuds när du tillhör organisationen, eller när en av dess medlemmar översätter det språket. Att tillämpa den listar översättningen i den organisationens katalog och lägger till organisationens andel i den utgåvans intäktsfördelning (tas från din del). Den låses när översättningen publiceras.",
+  "workshop.translations.license.internationalCovered": "Verkets internationella organisationslicens täcker alla dess översättningar."
 }

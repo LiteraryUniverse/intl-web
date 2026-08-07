@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · நீங்கள் {rest}%",
+  "licenses.orgBasedOn": "({org}, {license} அடிப்படையில்)",
+  "licenses.switchNotice": "இந்தப் படைப்பு {date} அன்று {org} அமைப்பின் உரிமத்திலிருந்து விலகுகிறது — {org} வழியாக வழங்கப்படும் அணுகல் அப்போது முடிவடையலாம்.",
+  "licenses.orgCut.label": "மொத்த விற்பனையில் அமைப்பின் பங்கு (%)",
+  "licenses.orgCut.help": "ஒரு படைப்பு இந்த உரிமத்தை ஏற்கும்போது வருவாய் பங்கீட்டில் ஆசிரியரின் பகுதியிலிருந்து எடுக்கப்படும்.",
+  "licenses.scope.international": "பன்னாட்டு",
+  "licenses.scope.regional": "மண்டல (மொழிபெயர்ப்புகள்)",
+  "licenses.scope.help": "எல்லை — பன்னாட்டு உரிமம் ஒரு படைப்பையும் அதன் அனைத்து மொழிபெயர்ப்புகளையும் உள்ளடக்கும்; மண்டல உரிமம் ஒரு தனி மொழிபெயர்ப்புக்கு மட்டுமே பொருந்தும்"
 }

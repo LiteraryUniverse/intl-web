@@ -111,5 +111,6 @@
   "audiobook.team.title": "צוות ספר האודיו",
   "audiobook.team.voiceActors": "שחקני קול",
   "audiobook.team.you": "אתם",
-  "audiobook.whereToListen": "היכן להאזין"
+  "audiobook.whereToListen": "היכן להאזין",
+  "audiobook.orgFeatureDisabled": "ספרי אודיו אינם מופעלים עבור ארגון זה."
 }

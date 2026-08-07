@@ -111,5 +111,6 @@
   "audiobook.team.title": "Garso knygos komanda",
   "audiobook.team.voiceActors": "Įgarsintojai",
   "audiobook.team.you": "jūs",
-  "audiobook.whereToListen": "Kur klausytis"
+  "audiobook.whereToListen": "Kur klausytis",
+  "audiobook.orgFeatureDisabled": "Šiai organizacijai audioknygos neįjungtos."
 }

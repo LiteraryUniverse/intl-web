@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Uváděné jméno",
   "workshop.invitations": "Pozvánky",
   "workshop.invitations.received": "Přijaté",
-  "workshop.invitations.sent": "Odeslané"
+  "workshop.invitations.sent": "Odeslané",
+  "workshop.revShare.orgShare": "Podíl organizace",
+  "workshop.license.adoptOrg.action": "Přijmout licenci organizace",
+  "workshop.license.adoptOrg.oneWayWarning": "Přijetím licence organizace se do rozdělení příjmů tohoto díla přidá pevný podíl organizace (odečtený z vaší části). Pozdější změna nebo opuštění licence vyžaduje výpovědní lhůtu zobrazenou čtenářům.",
+  "workshop.license.change.action": "Změnit licenci organizace",
+  "workshop.license.change.leaveOption": "Žádná — návrat k {license}",
+  "workshop.license.change.notice": "Jiná licence od stejné organizace platí okamžitě. Přechod k jiné organizaci nebo návrat k {license} nabývá účinnosti po lhůtě {days} dnů, během níž se čtenářům u díla zobrazuje upozornění — do té doby zůstává v platnosti současná licence.",
+  "workshop.license.change.scheduled": "Změna licence je naplánována na {date}. Do té doby čtenáři vidí u díla upozornění; současná licence zůstává v platnosti.",
+  "workshop.translations.license.title": "Licence překladů",
+  "workshop.translations.license.default": "Výchozí ({license})",
+  "workshop.translations.license.viaOrg": "Regionální licence organizace se nabízí, když do organizace patříte, nebo když některý z jejích členů překládá daný jazyk. Jejím použitím se překlad zařadí do katalogu dané organizace a do rozdělení příjmů dané edice se přidá podíl organizace (odečtený z vaší části). Po publikování překladu se uzamkne.",
+  "workshop.translations.license.internationalCovered": "Mezinárodní licence organizace tohoto díla pokrývá všechny jeho překlady."
 }

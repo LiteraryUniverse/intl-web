@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ბლოგის გაფართოებული დიზაინი (საკუთარი CSS)",
   "plans.feature.luSubdomain": "ბლოგი საკუთარ Literary Universe ქვედომენზე",
-  "plans.feature.customDomain": "ბლოგი საკუთარ დომენზე"
+  "plans.feature.customDomain": "ბლოგი საკუთარ დომენზე",
+  "fanClub.partner.label": "ფან კლუბი ორგანიზაციის ნაწილია",
+  "fanClub.partner.none": "არცერთი — მთელი შემოსავალი თქვენთან რჩება",
+  "fanClub.partner.help": "თუ თქვენი კონტრაქტი ორგანიზაციასთან მოიცავს თქვენს ფან კლუბს, აირჩიეთ ის აქ — ორგანიზაციის მიმდინარე განაკვეთი ფიქსირდება არჩევის მომენტში.",
+  "fanClub.partner.breakdown": "ორგანიზაცია იღებს ამ ფან კლუბის შემოსავლის {org}%-ს (ფიქსირდება არჩევისას), პლატფორმის საკომისიოს დამატებით. ვრცელდება ამჟამინდელ გამომწერებზეც."
 }

@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Nazwa wśród twórców",
   "workshop.invitations": "Zaproszenia",
   "workshop.invitations.received": "Otrzymane",
-  "workshop.invitations.sent": "Wysłane"
+  "workshop.invitations.sent": "Wysłane",
+  "workshop.revShare.orgShare": "Udział organizacji",
+  "workshop.license.adoptOrg.action": "Przyjmij licencję organizacji",
+  "workshop.license.adoptOrg.oneWayWarning": "Przyjęcie licencji organizacji dodaje stały udział organizacji do podziału przychodów tego dzieła (pobierany z Twojej części). Późniejsza zmiana lub rezygnacja wymaga okresu wypowiedzenia widocznego dla czytelników.",
+  "workshop.license.change.action": "Zmień licencję organizacji",
+  "workshop.license.change.leaveOption": "Brak — powrót do {license}",
+  "workshop.license.change.notice": "Inna licencja tej samej organizacji obowiązuje natychmiast. Przejście do innej organizacji lub powrót do {license} następuje po upływie {days}-dniowego okresu wypowiedzenia widocznego dla czytelników na dziele — do tego czasu obowiązuje dotychczasowa licencja.",
+  "workshop.license.change.scheduled": "Zmiana licencji zaplanowana na {date}. Do tego czasu czytelnicy widzą powiadomienie na dziele; dotychczasowa licencja pozostaje aktywna.",
+  "workshop.translations.license.title": "Licencje tłumaczeń",
+  "workshop.translations.license.default": "Domyślna ({license})",
+  "workshop.translations.license.viaOrg": "Regionalna licencja organizacji jest oferowana, gdy należysz do organizacji lub gdy jeden z jej członków tłumaczy dany język. Jej zastosowanie umieszcza tłumaczenie w katalogu tej organizacji i dodaje udział organizacji do podziału przychodów tego wydania (pobierany z Twojej części). Blokuje się po opublikowaniu tłumaczenia.",
+  "workshop.translations.license.internationalCovered": "Międzynarodowa licencja organizacji tego dzieła obejmuje wszystkie jego tłumaczenia."
 }

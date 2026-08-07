@@ -48,6 +48,7 @@
   "audiobook.noChaptersMatch": "No chapters match your search.",
   "audiobook.offlineUnsupported": "Offline storage is not available in this browser.",
   "audiobook.openExternal": "This audio can’t play inline here — open it in a new tab",
+  "audiobook.orgFeatureDisabled": "Audio books are not enabled for this organization.",
   "audiobook.perChapter": "Per-chapter narration",
   "audiobook.playbackSpeed": "Playback speed",
   "audiobook.pricing.chapter": "Per-chapter price",

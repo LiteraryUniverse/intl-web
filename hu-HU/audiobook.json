@@ -111,5 +111,6 @@
   "audiobook.team.title": "Hangoskönyv csapata",
   "audiobook.team.voiceActors": "Felolvasók",
   "audiobook.team.you": "Ön",
-  "audiobook.whereToListen": "Hol hallgatható meg"
+  "audiobook.whereToListen": "Hol hallgatható meg",
+  "audiobook.orgFeatureDisabled": "A hangoskönyvek nincsenek engedélyezve ennél a szervezetnél."
 }

@@ -670,5 +670,16 @@
   "workshop.team.creditName": "શ્રેય માટેનું નામ",
   "workshop.invitations": "આમંત્રણો",
   "workshop.invitations.received": "મળેલાં",
-  "workshop.invitations.sent": "મોકલેલાં"
+  "workshop.invitations.sent": "મોકલેલાં",
+  "workshop.revShare.orgShare": "સંગઠનનો હિસ્સો",
+  "workshop.license.adoptOrg.action": "સંગઠનનું લાઇસન્સ અપનાવો",
+  "workshop.license.adoptOrg.oneWayWarning": "સંગઠનનું લાઇસન્સ અપનાવવાથી સંગઠનનો નિશ્ચિત હિસ્સો આ કૃતિની આવક વહેંચણીમાં ઉમેરાય છે (તમારા ભાગમાંથી લેવાય છે). પછીથી તેને બદલવા કે છોડવા માટે વાચકોને બતાવવામાં આવતો સૂચના સમયગાળો જરૂરી છે.",
+  "workshop.license.change.action": "સંગઠનનું લાઇસન્સ બદલો",
+  "workshop.license.change.leaveOption": "કોઈ નહીં — {license} પર પાછા ફરો",
+  "workshop.license.change.notice": "એ જ સંગઠનનું બીજું લાઇસન્સ તરત જ લાગુ થાય છે. બીજા સંગઠનમાં જવું અથવા {license} પર પાછા ફરવું કૃતિ પર વાચકોને બતાવવામાં આવતી {days}-દિવસની સૂચના પછી અમલમાં આવે છે — ત્યાં સુધી હાલનું લાઇસન્સ સક્રિય રહે છે.",
+  "workshop.license.change.scheduled": "લાઇસન્સ ફેરફાર {date} માટે નિર્ધારિત છે. ત્યાં સુધી વાચકોને કૃતિ પર સૂચના દેખાય છે; હાલનું લાઇસન્સ સક્રિય રહે છે.",
+  "workshop.translations.license.title": "અનુવાદ લાઇસન્સ",
+  "workshop.translations.license.default": "ડિફૉલ્ટ ({license})",
+  "workshop.translations.license.viaOrg": "પ્રાદેશિક સંગઠન લાઇસન્સ ત્યારે ઑફર થાય છે જ્યારે તમે તે સંગઠનના સભ્ય હો, અથવા જ્યારે તેનો કોઈ સભ્ય તે ભાષાનો અનુવાદ કરે. તેને લાગુ કરવાથી અનુવાદ તે સંગઠનની સૂચિમાં ઉમેરાય છે અને તે આવૃત્તિની આવક વહેંચણીમાં સંગઠનનો હિસ્સો ઉમેરાય છે (તમારા ભાગમાંથી લેવાય છે). અનુવાદ પ્રકાશિત થયા પછી તે લૉક થઈ જાય છે.",
+  "workshop.translations.license.internationalCovered": "આ કૃતિનું આંતરરાષ્ટ્રીય સંગઠન લાઇસન્સ તેના બધા અનુવાદોને આવરી લે છે."
 }

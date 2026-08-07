@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "עיצוב בלוג מתקדם (CSS מותאם אישית)",
   "plans.feature.luSubdomain": "בלוג בתת-דומיין משלכם ב-Literary Universe",
-  "plans.feature.customDomain": "בלוג בדומיין משלכם"
+  "plans.feature.customDomain": "בלוג בדומיין משלכם",
+  "fanClub.partner.label": "מועדון המעריצים הוא חלק מהארגון",
+  "fanClub.partner.none": "ללא — כל ההכנסות נשארות אצלכם",
+  "fanClub.partner.help": "אם החוזה שלכם עם ארגון כולל את מועדון המעריצים שלכם, בחרו אותו כאן — השיעור הנוכחי של הארגון נקבע ברגע הבחירה.",
+  "fanClub.partner.breakdown": "הארגון מקבל {org}% מהכנסות מועדון המעריצים הזה (נקבע בעת הבחירה), בנוסף לעמלת הפלטפורמה. חל גם על מנויים קיימים."
 }

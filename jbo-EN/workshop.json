@@ -670,5 +670,16 @@
   "workshop.team.creditName": "jarco cmene",
   "workshop.invitations": "friti",
   "workshop.invitations.received": "se cpacu",
-  "workshop.invitations.sent": "se benji"
+  "workshop.invitations.sent": "se benji",
+  "workshop.revShare.orgShare": "Organization share",
+  "workshop.license.adoptOrg.action": "Adopt organization license",
+  "workshop.license.adoptOrg.oneWayWarning": "Adopting an organization license adds the organization's fixed share to this work's revenue split (taken from your part). Changing or leaving it later requires a notice period shown to readers.",
+  "workshop.license.change.action": "Change organization license",
+  "workshop.license.change.leaveOption": "None — return to {license}",
+  "workshop.license.change.notice": "A different license from the same organization applies immediately. Switching to another organization or returning to {license} takes effect after a {days}-day notice shown to readers on the work — the current license stays active until then.",
+  "workshop.license.change.scheduled": "License change scheduled for {date}. Readers see a notice on the work until then; the current license stays active.",
+  "workshop.translations.license.title": "Translation licenses",
+  "workshop.translations.license.default": "Default ({license})",
+  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
+  "workshop.translations.license.internationalCovered": "This work's international organization license covers all its translations."
 }

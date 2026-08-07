@@ -111,5 +111,6 @@
   "audiobook.team.title": "Ljudboksteam",
   "audiobook.team.voiceActors": "Uppläsare",
   "audiobook.team.you": "du",
-  "audiobook.whereToListen": "Var du kan lyssna"
+  "audiobook.whereToListen": "Var du kan lyssna",
+  "audiobook.orgFeatureDisabled": "Ljudböcker är inte aktiverade för den här organisationen."
 }

@@ -111,5 +111,6 @@
   "audiobook.team.title": "sance cukta gunma",
   "audiobook.team.voiceActors": "voksa tigni",
   "audiobook.team.you": "do",
-  "audiobook.whereToListen": "lo tirna stuzi"
+  "audiobook.whereToListen": "lo tirna stuzi",
+  "audiobook.orgFeatureDisabled": "Audio books are not enabled for this organization."
 }

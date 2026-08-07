@@ -111,5 +111,6 @@
   "audiobook.team.title": "Equipe do audiolivro",
   "audiobook.team.voiceActors": "Dubladores",
   "audiobook.team.you": "você",
-  "audiobook.whereToListen": "Onde ouvir"
+  "audiobook.whereToListen": "Onde ouvir",
+  "audiobook.orgFeatureDisabled": "Os audiolivros não estão habilitados para esta organização."
 }

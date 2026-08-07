@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Інформація про комерційну ліцензію",
   "licenses.commercial.exclusive.info": "Ексклюзивна ліцензія: 10% комісія платформи, ви залишаєте собі 90% доходу",
   "licenses.commercial.nonexclusive.info": "Неексклюзивна ліцензія: 30% комісія платформи, ви залишаєте собі 70% доходу",
-  "licenses.moreInfo": "Докладніше"
+  "licenses.moreInfo": "Докладніше",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · ви {rest}%",
+  "licenses.orgBasedOn": "({org}, на основі {license})",
+  "licenses.switchNotice": "{date} цей твір виходить з-під ліцензії {org} — доступ, наданий через {org}, може тоді припинитися.",
+  "licenses.orgCut.label": "Частка організації від валового продажу (%)",
+  "licenses.orgCut.help": "Береться з авторської частини розподілу доходу, коли твір приймає цю ліцензію.",
+  "licenses.scope.international": "Міжнародна",
+  "licenses.scope.regional": "Регіональна (переклади)",
+  "licenses.scope.help": "Область дії — міжнародна охоплює твір з усіма його перекладами, регіональна стосується одного перекладу"
 }

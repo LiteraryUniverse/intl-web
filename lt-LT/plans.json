@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Išplėstinis tinklaraščio dizainas (savas CSS)",
   "plans.feature.luSubdomain": "Tinklaraštis jūsų Literary Universe subdomene",
-  "plans.feature.customDomain": "Tinklaraštis jūsų domene"
+  "plans.feature.customDomain": "Tinklaraštis jūsų domene",
+  "fanClub.partner.label": "Fanų klubas yra organizacijos dalis",
+  "fanClub.partner.none": "Nėra — visos pajamos lieka jums",
+  "fanClub.partner.help": "Jei jūsų sutartis su organizacija apima jūsų fanų klubą, pasirinkite ją čia — dabartinis organizacijos tarifas užfiksuojamas pasirinkimo momentu.",
+  "fanClub.partner.breakdown": "Organizacija gauna {org}% šio fanų klubo pajamų (užfiksuota pasirenkant), papildomai prie platformos mokesčio. Taikoma ir dabartiniams prenumeratoriams."
 }

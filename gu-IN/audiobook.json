@@ -111,5 +111,6 @@
   "audiobook.team.title": "ઑડિયો બુક ટીમ",
   "audiobook.team.voiceActors": "વૉઇસ એક્ટર્સ",
   "audiobook.team.you": "તમે",
-  "audiobook.whereToListen": "ક્યાં સાંભળવું"
+  "audiobook.whereToListen": "ક્યાં સાંભળવું",
+  "audiobook.orgFeatureDisabled": "આ સંગઠન માટે ઑડિયોબુક સક્ષમ નથી."
 }

@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Poszukiwacz przygód",
   "plans.feature.customBlogCss": "Zaawansowany wygląd bloga (własny CSS)",
   "plans.feature.luSubdomain": "Blog na własnej subdomenie Literary Universe",
-  "plans.feature.customDomain": "Blog na własnej domenie"
+  "plans.feature.customDomain": "Blog na własnej domenie",
+  "fanClub.partner.label": "Klub fanów jest częścią organizacji",
+  "fanClub.partner.none": "Brak — cały przychód zostaje u Ciebie",
+  "fanClub.partner.help": "Jeśli Twoja umowa z organizacją obejmuje Twój klub fanów, wybierz ją tutaj — aktualna stawka organizacji zostaje ustalona w chwili wyboru.",
+  "fanClub.partner.breakdown": "Organizacja otrzymuje {org}% przychodów tego klubu fanów (ustalone w chwili wyboru), oprócz opłaty platformy. Dotyczy również obecnych subskrybentów."
 }

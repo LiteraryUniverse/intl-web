@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Edistynyt blogin ulkoasu (oma CSS)",
   "plans.feature.luSubdomain": "Blogi omalla Literary Universe -aliverkkotunnuksella",
-  "plans.feature.customDomain": "Blogi omalla verkkotunnuksella"
+  "plans.feature.customDomain": "Blogi omalla verkkotunnuksella",
+  "fanClub.partner.label": "Fanikerho on osa organisaatiota",
+  "fanClub.partner.none": "Ei mitään — kaikki tulot jäävät sinulle",
+  "fanClub.partner.help": "Jos sopimuksesi organisaation kanssa kattaa fanikerhosi, valitse se tässä — organisaation nykyinen prosentti kiinnitetään valintahetkellä.",
+  "fanClub.partner.breakdown": "Organisaatio saa {org}% tämän fanikerhon tuloista (kiinnitetty valittaessa) alustamaksun lisäksi. Koskee myös nykyisiä tilaajia."
 }

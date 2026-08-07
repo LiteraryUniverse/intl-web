@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · εσείς {rest}%",
+  "licenses.orgBasedOn": "({org}, βασισμένη σε {license})",
+  "licenses.switchNotice": "Αυτό το έργο αποχωρεί από την άδεια του {org} στις {date} — η πρόσβαση που παρέχεται μέσω του {org} ενδέχεται να λήξει τότε.",
+  "licenses.orgCut.label": "Μερίδιο του οργανισμού από την ακαθάριστη πώληση (%)",
+  "licenses.orgCut.help": "Λαμβάνεται από το μέρος του συγγραφέα στην κατανομή εσόδων όταν ένα έργο υιοθετεί αυτήν την άδεια.",
+  "licenses.scope.international": "Διεθνής",
+  "licenses.scope.regional": "Περιφερειακή (μεταφράσεις)",
+  "licenses.scope.help": "Εμβέλεια — η διεθνής καλύπτει ένα έργο με όλες τις μεταφράσεις του, η περιφερειακή ισχύει για μία μόνο μετάφραση"
 }

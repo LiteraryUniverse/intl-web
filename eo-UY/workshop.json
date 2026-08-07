@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Nomo en la kreditoj",
   "workshop.invitations": "Invitoj",
   "workshop.invitations.received": "Ricevitaj",
-  "workshop.invitations.sent": "Senditaj"
+  "workshop.invitations.sent": "Senditaj",
+  "workshop.revShare.orgShare": "Parto de la organizo",
+  "workshop.license.adoptOrg.action": "Adopti permesilon de organizo",
+  "workshop.license.adoptOrg.oneWayWarning": "Adopti permesilon de organizo aldonas la fiksitan parton de la organizo al la divido de enspezoj de ĉi tiu verko (prenata el via parto). Ŝanĝi aŭ forlasi ĝin poste postulas antaŭavertan periodon montratan al legantoj.",
+  "workshop.license.change.action": "Ŝanĝi permesilon de organizo",
+  "workshop.license.change.leaveOption": "Neniu — reveni al {license}",
+  "workshop.license.change.notice": "Alia permesilo de la sama organizo ekvalidas tuj. Ŝanĝo al alia organizo aŭ reveno al {license} ekvalidas post {days}-taga antaŭaverto montrata al legantoj sur la verko — ĝis tiam la nuna permesilo restas aktiva.",
+  "workshop.license.change.scheduled": "Ŝanĝo de permesilo estas planita por {date}. Ĝis tiam legantoj vidas averton sur la verko; la nuna permesilo restas aktiva.",
+  "workshop.translations.license.title": "Permesiloj de tradukoj",
+  "workshop.translations.license.default": "Defaŭlta ({license})",
+  "workshop.translations.license.viaOrg": "Regiona permesilo de organizo estas proponata, kiam vi apartenas al la organizo, aŭ kiam unu el ĝiaj membroj tradukas tiun lingvon. Apliki ĝin listigas la tradukon en la katalogo de tiu organizo kaj aldonas la parton de la organizo al la divido de enspezoj de tiu eldono (prenata el via parto). Ĝi ŝlosiĝas, kiam la traduko estas publikigita.",
+  "workshop.translations.license.internationalCovered": "La internacia organiza permesilo de ĉi tiu verko kovras ĉiujn ĝiajn tradukojn."
 }

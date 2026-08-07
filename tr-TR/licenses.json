@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · siz {rest}%",
+  "licenses.orgBasedOn": "({org}, {license} temel alınarak)",
+  "licenses.switchNotice": "Bu eser {date} tarihinde {org} lisansından ayrılıyor — {org} aracılığıyla sağlanan erişim o tarihte sona erebilir.",
+  "licenses.orgCut.label": "Kuruluşun brüt satıştan aldığı pay (%)",
+  "licenses.orgCut.help": "Bir eser bu lisansı benimsediğinde, gelir paylaşımında yazarın payından alınır.",
+  "licenses.scope.international": "Uluslararası",
+  "licenses.scope.regional": "Bölgesel (çeviriler)",
+  "licenses.scope.help": "Kapsam — uluslararası, bir eseri tüm çevirileriyle birlikte kapsar; bölgesel, tek bir çeviri için geçerlidir"
 }

@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Tên để ghi công",
   "workshop.invitations": "Lời mời",
   "workshop.invitations.received": "Đã nhận",
-  "workshop.invitations.sent": "Đã gửi"
+  "workshop.invitations.sent": "Đã gửi",
+  "workshop.revShare.orgShare": "Phần chia của tổ chức",
+  "workshop.license.adoptOrg.action": "Áp dụng giấy phép tổ chức",
+  "workshop.license.adoptOrg.oneWayWarning": "Áp dụng giấy phép tổ chức sẽ thêm phần chia cố định của tổ chức vào phân chia doanh thu của tác phẩm này (lấy từ phần của bạn). Việc thay đổi hoặc rời khỏi giấy phép sau này cần một khoảng thời gian thông báo hiển thị cho độc giả.",
+  "workshop.license.change.action": "Thay đổi giấy phép tổ chức",
+  "workshop.license.change.leaveOption": "Không — quay lại {license}",
+  "workshop.license.change.notice": "Giấy phép khác của cùng tổ chức sẽ áp dụng ngay lập tức. Việc chuyển sang tổ chức khác hoặc quay lại {license} có hiệu lực sau thời gian thông báo {days} ngày hiển thị cho độc giả trên tác phẩm — giấy phép hiện tại vẫn có hiệu lực cho đến lúc đó.",
+  "workshop.license.change.scheduled": "Việc thay đổi giấy phép được lên lịch vào {date}. Cho đến lúc đó, độc giả sẽ thấy thông báo trên tác phẩm; giấy phép hiện tại vẫn có hiệu lực.",
+  "workshop.translations.license.title": "Giấy phép bản dịch",
+  "workshop.translations.license.default": "Mặc định ({license})",
+  "workshop.translations.license.viaOrg": "Giấy phép tổ chức khu vực được cung cấp khi bạn thuộc tổ chức đó, hoặc khi một thành viên của tổ chức dịch ngôn ngữ đó. Áp dụng nó sẽ đưa bản dịch vào danh mục của tổ chức đó và thêm phần chia của tổ chức vào phân chia doanh thu của ấn bản đó (lấy từ phần của bạn). Nó sẽ bị khóa khi bản dịch được xuất bản.",
+  "workshop.translations.license.internationalCovered": "Giấy phép tổ chức quốc tế của tác phẩm này bao gồm tất cả bản dịch của nó."
 }

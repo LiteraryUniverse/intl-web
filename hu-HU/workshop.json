@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Feltüntetendő név",
   "workshop.invitations": "Meghívások",
   "workshop.invitations.received": "Kapott",
-  "workshop.invitations.sent": "Küldött"
+  "workshop.invitations.sent": "Küldött",
+  "workshop.revShare.orgShare": "Szervezet részesedése",
+  "workshop.license.adoptOrg.action": "Szervezeti licenc átvétele",
+  "workshop.license.adoptOrg.oneWayWarning": "Egy szervezeti licenc átvétele hozzáadja a szervezet rögzített részesedését a mű bevételmegosztásához (a te részedből levonva). Későbbi módosításához vagy elhagyásához az olvasóknak megjelenített felmondási idő szükséges.",
+  "workshop.license.change.action": "Szervezeti licenc módosítása",
+  "workshop.license.change.leaveOption": "Nincs — visszatérés ehhez: {license}",
+  "workshop.license.change.notice": "Ugyanazon szervezet másik licence azonnal érvénybe lép. A másik szervezetre váltás vagy a(z) {license} licencre való visszatérés a művön az olvasóknak megjelenített {days} napos értesítés után lép életbe — addig a jelenlegi licenc marad érvényben.",
+  "workshop.license.change.scheduled": "A licencváltás időpontja: {date}. Addig az olvasók értesítést látnak a művön; a jelenlegi licenc érvényben marad.",
+  "workshop.translations.license.title": "Fordítási licencek",
+  "workshop.translations.license.default": "Alapértelmezett ({license})",
+  "workshop.translations.license.viaOrg": "Regionális szervezeti licencet akkor ajánlunk fel, ha a szervezet tagja vagy, vagy ha az egyik tagja fordítja az adott nyelvet. Alkalmazásával a fordítás bekerül a szervezet katalógusába, és a szervezet részesedése hozzáadódik az adott kiadás bevételmegosztásához (a te részedből levonva). A fordítás közzététele után rögzül.",
+  "workshop.translations.license.internationalCovered": "A mű nemzetközi szervezeti licence az összes fordítására kiterjed."
 }

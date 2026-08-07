@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Informacje o licencji komercyjnej",
   "licenses.commercial.exclusive.info": "Licencja wyłączna: 10% opłaty platformy, zatrzymujesz 90% zarobków",
   "licenses.commercial.nonexclusive.info": "Licencja niewyłączna: 30% opłaty platformy, zatrzymujesz 70% zarobków",
-  "licenses.moreInfo": "Więcej informacji"
+  "licenses.moreInfo": "Więcej informacji",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · Ty {rest}%",
+  "licenses.orgBasedOn": "({org}, na podstawie {license})",
+  "licenses.switchNotice": "To dzieło opuszcza licencję {org} w dniu {date} — dostęp zapewniany przez {org} może wtedy wygasnąć.",
+  "licenses.orgCut.label": "Udział organizacji w sprzedaży brutto (%)",
+  "licenses.orgCut.help": "Pobierany z części autora w podziale przychodów, gdy dzieło przyjmie tę licencję.",
+  "licenses.scope.international": "Międzynarodowa",
+  "licenses.scope.regional": "Regionalna (tłumaczenia)",
+  "licenses.scope.help": "Zakres — międzynarodowa obejmuje dzieło ze wszystkimi jego tłumaczeniami, regionalna dotyczy pojedynczego tłumaczenia"
 }

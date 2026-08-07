@@ -670,5 +670,16 @@
   "workshop.team.creditName": "크레딧에 표시할 이름",
   "workshop.invitations": "초대",
   "workshop.invitations.received": "받은 초대",
-  "workshop.invitations.sent": "보낸 초대"
+  "workshop.invitations.sent": "보낸 초대",
+  "workshop.revShare.orgShare": "조직 공유",
+  "workshop.license.adoptOrg.action": "조직 라이선스 채택",
+  "workshop.license.adoptOrg.oneWayWarning": "조직 라이선스를 채택하면 조직의 고정 몫이 이 작품의 수익 분배에 추가됩니다(본인 몫에서 차감). 나중에 변경하거나 탈퇴하려면 독자에게 표시되는 예고 기간이 필요합니다.",
+  "workshop.license.change.action": "조직 라이선스 변경",
+  "workshop.license.change.leaveOption": "없음 — {license}(으)로 돌아가기",
+  "workshop.license.change.notice": "같은 조직의 다른 라이선스는 즉시 적용됩니다. 다른 조직으로 전환하거나 {license}(으)로 돌아가는 것은 작품에서 독자에게 표시되는 {days}일간의 예고 후에 적용되며, 그때까지는 현재 라이선스가 계속 유효합니다.",
+  "workshop.license.change.scheduled": "라이선스 변경이 {date}로 예약되었습니다. 그때까지 독자에게 작품에 안내가 표시되며, 현재 라이선스는 계속 유효합니다.",
+  "workshop.translations.license.title": "번역 라이선스",
+  "workshop.translations.license.default": "기본 ({license})",
+  "workshop.translations.license.viaOrg": "지역 조직 라이선스는 해당 조직에 소속되어 있거나 조직의 회원이 그 언어를 번역할 때 제공됩니다. 적용하면 번역이 해당 조직의 카탈로그에 등록되고, 조직의 몫이 해당 판의 수익 분배에 추가됩니다(본인 몫에서 차감). 번역이 게시되면 잠깁니다.",
+  "workshop.translations.license.internationalCovered": "이 작품의 국제 조직 라이선스는 모든 번역을 포함합니다."
 }

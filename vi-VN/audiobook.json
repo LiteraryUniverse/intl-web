@@ -111,5 +111,6 @@
   "audiobook.team.title": "Nhóm sách nói",
   "audiobook.team.voiceActors": "Người lồng tiếng",
   "audiobook.team.you": "bạn",
-  "audiobook.whereToListen": "Nơi để nghe"
+  "audiobook.whereToListen": "Nơi để nghe",
+  "audiobook.orgFeatureDisabled": "Sách nói chưa được bật cho tổ chức này."
 }

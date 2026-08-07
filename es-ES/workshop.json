@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Nombre en los créditos",
   "workshop.invitations": "Invitaciones",
   "workshop.invitations.received": "Recibidas",
-  "workshop.invitations.sent": "Enviadas"
+  "workshop.invitations.sent": "Enviadas",
+  "workshop.revShare.orgShare": "Cuota de la organización",
+  "workshop.license.adoptOrg.action": "Adoptar licencia de la organización",
+  "workshop.license.adoptOrg.oneWayWarning": "Adoptar una licencia de la organización añade la cuota fija de la organización al reparto de ingresos de esta obra (tomada de tu parte). Cambiarla o abandonarla más adelante requiere un período de preaviso que se muestra a los lectores.",
+  "workshop.license.change.action": "Cambiar licencia de la organización",
+  "workshop.license.change.leaveOption": "Ninguna — volver a {license}",
+  "workshop.license.change.notice": "Una licencia diferente de la misma organización se aplica de inmediato. Cambiar a otra organización o volver a {license} surte efecto tras un preaviso de {days} días que se muestra a los lectores en la obra — hasta entonces la licencia actual sigue activa.",
+  "workshop.license.change.scheduled": "Cambio de licencia programado para el {date}. Hasta entonces los lectores ven un aviso en la obra; la licencia actual sigue activa.",
+  "workshop.translations.license.title": "Licencias de traducción",
+  "workshop.translations.license.default": "Predeterminada ({license})",
+  "workshop.translations.license.viaOrg": "Se ofrece una licencia regional de la organización cuando perteneces a la organización o cuando uno de sus miembros traduce ese idioma. Al aplicarla, la traducción aparece en el catálogo de esa organización y se añade la cuota de la organización al reparto de ingresos de esa edición (tomada de tu parte). Se bloquea cuando la traducción se publica.",
+  "workshop.translations.license.internationalCovered": "La licencia internacional de la organización de esta obra cubre todas sus traducciones."
 }

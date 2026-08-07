@@ -670,5 +670,16 @@
   "workshop.team.creditName": "שם לקרדיט",
   "workshop.invitations": "הזמנות",
   "workshop.invitations.received": "התקבלו",
-  "workshop.invitations.sent": "נשלחו"
+  "workshop.invitations.sent": "נשלחו",
+  "workshop.revShare.orgShare": "נתח הארגון",
+  "workshop.license.adoptOrg.action": "אימוץ רישיון הארגון",
+  "workshop.license.adoptOrg.oneWayWarning": "אימוץ רישיון ארגון מוסיף את הנתח הקבוע של הארגון לחלוקת ההכנסות של יצירה זו (הנלקח מחלקכם). שינוי הרישיון או עזיבתו בהמשך מחייבים תקופת הודעה מוקדמת המוצגת לקוראים.",
+  "workshop.license.change.action": "שינוי רישיון הארגון",
+  "workshop.license.change.leaveOption": "ללא — חזרה אל {license}",
+  "workshop.license.change.notice": "רישיון אחר מאותו ארגון חל מיידית. מעבר לארגון אחר או חזרה אל {license} נכנסים לתוקף לאחר הודעה מוקדמת של {days} ימים המוצגת לקוראים על היצירה — הרישיון הנוכחי נשאר בתוקף עד אז.",
+  "workshop.license.change.scheduled": "שינוי הרישיון מתוזמן ל-{date}. עד אז הקוראים רואים הודעה על היצירה; הרישיון הנוכחי נשאר בתוקף.",
+  "workshop.translations.license.title": "רישיונות תרגום",
+  "workshop.translations.license.default": "ברירת מחדל ({license})",
+  "workshop.translations.license.viaOrg": "רישיון ארגון אזורי מוצע כאשר אתם חברים בארגון, או כאשר אחד מחבריו מתרגם לשפה זו. החלתו מוסיפה את התרגום לקטלוג של אותו ארגון ומוסיפה את נתח הארגון לחלוקת ההכנסות של אותה מהדורה (הנלקח מחלקכם). הרישיון ננעל לאחר פרסום התרגום.",
+  "workshop.translations.license.internationalCovered": "רישיון הארגון הבינלאומי של יצירה זו מכסה את כל תרגומיה."
 }

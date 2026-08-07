@@ -111,5 +111,6 @@
   "audiobook.team.title": "Tým audioknihy",
   "audiobook.team.voiceActors": "Dabéři",
   "audiobook.team.you": "vy",
-  "audiobook.whereToListen": "Kde poslouchat"
+  "audiobook.whereToListen": "Kde poslouchat",
+  "audiobook.orgFeatureDisabled": "Audioknihy nejsou pro tuto organizaci povoleny."
 }

@@ -111,5 +111,6 @@
   "audiobook.team.title": "Equip de l’audiollibre",
   "audiobook.team.voiceActors": "Actors de veu",
   "audiobook.team.you": "tu",
-  "audiobook.whereToListen": "On escoltar"
+  "audiobook.whereToListen": "On escoltar",
+  "audiobook.orgFeatureDisabled": "Els audiollibres no estan habilitats per a aquesta organització."
 }

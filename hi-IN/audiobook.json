@@ -111,5 +111,6 @@
   "audiobook.team.title": "ऑडियो बुक टीम",
   "audiobook.team.voiceActors": "वॉइस अभिनेता",
   "audiobook.team.you": "आप",
-  "audiobook.whereToListen": "कहाँ सुनें"
+  "audiobook.whereToListen": "कहाँ सुनें",
+  "audiobook.orgFeatureDisabled": "इस संगठन के लिए ऑडियोबुक सक्षम नहीं हैं।"
 }

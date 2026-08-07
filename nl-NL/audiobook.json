@@ -111,5 +111,6 @@
   "audiobook.team.title": "Luisterboekteam",
   "audiobook.team.voiceActors": "Stemacteurs",
   "audiobook.team.you": "jij",
-  "audiobook.whereToListen": "Waar te luisteren"
+  "audiobook.whereToListen": "Waar te luisteren",
+  "audiobook.orgFeatureDisabled": "Luisterboeken zijn niet ingeschakeld voor deze organisatie."
 }

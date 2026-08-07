@@ -111,5 +111,6 @@
   "audiobook.team.title": "Äänikirjan tiimi",
   "audiobook.team.voiceActors": "Lukijat",
   "audiobook.team.you": "sinä",
-  "audiobook.whereToListen": "Missä kuunnella"
+  "audiobook.whereToListen": "Missä kuunnella",
+  "audiobook.orgFeatureDisabled": "Äänikirjat eivät ole käytössä tässä organisaatiossa."
 }

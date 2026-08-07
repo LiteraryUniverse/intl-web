@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · sina {rest}%",
+  "licenses.orgBasedOn": "({org}, põhineb litsentsil {license})",
+  "licenses.switchNotice": "See teos lahkub organisatsiooni {org} litsentsi alt kuupäeval {date} — organisatsiooni {org} kaudu antud juurdepääs võib siis lõppeda.",
+  "licenses.orgCut.label": "Organisatsiooni osa brutomüügist (%)",
+  "licenses.orgCut.help": "Võetakse autori osast tulude jaotuses, kui teos võtab selle litsentsi kasutusele.",
+  "licenses.scope.international": "Rahvusvaheline",
+  "licenses.scope.regional": "Piirkondlik (tõlked)",
+  "licenses.scope.help": "Ulatus — rahvusvaheline hõlmab teost koos kõigi selle tõlgetega, piirkondlik kehtib ühe tõlke kohta"
 }

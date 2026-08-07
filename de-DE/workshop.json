@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Zu nennender Name",
   "workshop.invitations": "Einladungen",
   "workshop.invitations.received": "Erhalten",
-  "workshop.invitations.sent": "Gesendet"
+  "workshop.invitations.sent": "Gesendet",
+  "workshop.revShare.orgShare": "Anteil der Organisation",
+  "workshop.license.adoptOrg.action": "Organisationslizenz übernehmen",
+  "workshop.license.adoptOrg.oneWayWarning": "Mit der Übernahme einer Organisationslizenz wird der feste Anteil der Organisation zur Erlösaufteilung dieses Werks hinzugefügt (von Ihrem Anteil abgezogen). Ein späterer Wechsel oder Ausstieg erfordert eine Ankündigungsfrist, die Lesern angezeigt wird.",
+  "workshop.license.change.action": "Organisationslizenz wechseln",
+  "workshop.license.change.leaveOption": "Keine — zurück zu {license}",
+  "workshop.license.change.notice": "Eine andere Lizenz derselben Organisation gilt sofort. Der Wechsel zu einer anderen Organisation oder die Rückkehr zu {license} wird nach einer {days}-tägigen Ankündigung wirksam, die Lesern am Werk angezeigt wird — bis dahin bleibt die aktuelle Lizenz aktiv.",
+  "workshop.license.change.scheduled": "Lizenzwechsel geplant für den {date}. Bis dahin sehen Leser einen Hinweis am Werk; die aktuelle Lizenz bleibt aktiv.",
+  "workshop.translations.license.title": "Übersetzungslizenzen",
+  "workshop.translations.license.default": "Standard ({license})",
+  "workshop.translations.license.viaOrg": "Eine regionale Organisationslizenz wird angeboten, wenn Sie der Organisation angehören oder wenn eines ihrer Mitglieder in diese Sprache übersetzt. Bei Anwendung wird die Übersetzung im Katalog dieser Organisation aufgeführt und der Anteil der Organisation zur Erlösaufteilung dieser Ausgabe hinzugefügt (von Ihrem Anteil abgezogen). Sie wird gesperrt, sobald die Übersetzung veröffentlicht ist.",
+  "workshop.translations.license.internationalCovered": "Die internationale Organisationslizenz dieses Werks deckt alle seine Übersetzungen ab."
 }

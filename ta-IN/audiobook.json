@@ -111,5 +111,6 @@
   "audiobook.team.title": "ஆடியோ புத்தக அணி",
   "audiobook.team.voiceActors": "குரல் கலைஞர்கள்",
   "audiobook.team.you": "நீங்கள்",
-  "audiobook.whereToListen": "எங்கே கேட்கலாம்"
+  "audiobook.whereToListen": "எங்கே கேட்கலாம்",
+  "audiobook.orgFeatureDisabled": "இந்த அமைப்பிற்கு ஒலிப் புத்தகங்கள் இயக்கப்படவில்லை."
 }

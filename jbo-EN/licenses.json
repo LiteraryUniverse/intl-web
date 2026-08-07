@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · you {rest}%",
+  "licenses.orgBasedOn": "({org}, based on {license})",
+  "licenses.switchNotice": "This work leaves {org}'s license on {date} — access provided through {org} may end then.",
+  "licenses.orgCut.label": "Organization's share of the gross sale (%)",
+  "licenses.orgCut.help": "Taken from the author's part of the revenue split when a work adopts this license.",
+  "licenses.scope.international": "International",
+  "licenses.scope.regional": "Regional (translations)",
+  "licenses.scope.help": "Scope — international covers a work with all its translations, regional applies to a single translation"
 }

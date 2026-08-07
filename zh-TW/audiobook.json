@@ -111,5 +111,6 @@
   "audiobook.team.title": "有聲書團隊",
   "audiobook.team.voiceActors": "配音員",
   "audiobook.team.you": "您",
-  "audiobook.whereToListen": "收聽管道"
+  "audiobook.whereToListen": "收聽管道",
+  "audiobook.orgFeatureDisabled": "此組織未啟用有聲書。"
 }

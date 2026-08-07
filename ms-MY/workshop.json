@@ -670,5 +670,16 @@
   "workshop.team.creditName": "Nama dalam kredit",
   "workshop.invitations": "Jemputan",
   "workshop.invitations.received": "Diterima",
-  "workshop.invitations.sent": "Dihantar"
+  "workshop.invitations.sent": "Dihantar",
+  "workshop.revShare.orgShare": "Perkongsian organisasi",
+  "workshop.license.adoptOrg.action": "Guna pakai lesen organisasi",
+  "workshop.license.adoptOrg.oneWayWarning": "Menggunakan lesen organisasi menambah bahagian tetap organisasi pada pembahagian hasil karya ini (diambil daripada bahagian anda). Menukar atau meninggalkannya kemudian memerlukan tempoh notis yang dipaparkan kepada pembaca.",
+  "workshop.license.change.action": "Tukar lesen organisasi",
+  "workshop.license.change.leaveOption": "Tiada — kembali kepada {license}",
+  "workshop.license.change.notice": "Lesen lain daripada organisasi yang sama berkuat kuasa serta-merta. Bertukar kepada organisasi lain atau kembali kepada {license} berkuat kuasa selepas notis {days} hari yang dipaparkan kepada pembaca pada karya — lesen semasa kekal aktif sehingga itu.",
+  "workshop.license.change.scheduled": "Pertukaran lesen dijadualkan pada {date}. Pembaca melihat notis pada karya sehingga itu; lesen semasa kekal aktif.",
+  "workshop.translations.license.title": "Lesen terjemahan",
+  "workshop.translations.license.default": "Lalai ({license})",
+  "workshop.translations.license.viaOrg": "Lesen organisasi serantau ditawarkan apabila anda menganggotai organisasi itu, atau apabila salah seorang ahlinya menterjemah bahasa tersebut. Menggunakannya menyenaraikan terjemahan itu dalam katalog organisasi berkenaan dan menambah bahagian organisasi pada pembahagian hasil edisi itu (diambil daripada bahagian anda). Ia dikunci setelah terjemahan diterbitkan.",
+  "workshop.translations.license.internationalCovered": "Lesen organisasi antarabangsa karya ini merangkumi semua terjemahannya."
 }

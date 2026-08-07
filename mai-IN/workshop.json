@@ -670,5 +670,16 @@
   "workshop.team.creditName": "श्रेयक लेल नाम",
   "workshop.invitations": "आमंत्रण",
   "workshop.invitations.received": "प्राप्त",
-  "workshop.invitations.sent": "पठाओल"
+  "workshop.invitations.sent": "पठाओल",
+  "workshop.revShare.orgShare": "संगठनक हिस्सा",
+  "workshop.license.adoptOrg.action": "संगठनक लाइसेंस अपनाउ",
+  "workshop.license.adoptOrg.oneWayWarning": "संगठनक लाइसेंस अपनौला सँ एहि रचनाक आय बँटवारा मे संगठनक निश्चित हिस्सा जुड़ि जाइत अछि (अहाँक भाग सँ लेल जाइत अछि)। बाद मे एकरा बदलबा वा छोड़बा लेल पाठक लोकनि केँ देखाओल जाए बला सूचना अवधि आवश्यक अछि।",
+  "workshop.license.change.action": "संगठनक लाइसेंस बदलू",
+  "workshop.license.change.leaveOption": "किछु नहि — {license} पर घुरू",
+  "workshop.license.change.notice": "ओही संगठनक दोसर लाइसेंस तुरंत लागू भऽ जाइत अछि। दोसर संगठन मे जेबाक वा {license} पर घुरबाक परिवर्तन, रचना पर पाठक लोकनि केँ देखाओल जाए बला {days} दिनक सूचनाक बाद लागू होइत अछि — ताबत धरि वर्तमान लाइसेंस सक्रिय रहैत अछि।",
+  "workshop.license.change.scheduled": "लाइसेंस परिवर्तन {date} लेल निर्धारित अछि। ताबत धरि पाठक लोकनि रचना पर सूचना देखैत छथि; वर्तमान लाइसेंस सक्रिय रहैत अछि।",
+  "workshop.translations.license.title": "अनुवाद लाइसेंस",
+  "workshop.translations.license.default": "डिफ़ॉल्ट ({license})",
+  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
+  "workshop.translations.license.internationalCovered": "एहि कृतिक अंतर्राष्ट्रीय संगठन लाइसेंस ओकर सभ अनुवाद केँ समेटैत अछि।"
 }

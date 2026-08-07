@@ -111,5 +111,6 @@
   "audiobook.team.title": "オーディオブックチーム",
   "audiobook.team.voiceActors": "声優",
   "audiobook.team.you": "あなた",
-  "audiobook.whereToListen": "聴ける場所"
+  "audiobook.whereToListen": "聴ける場所",
+  "audiobook.orgFeatureDisabled": "この組織ではオーディオブックが有効になっていません。"
 }

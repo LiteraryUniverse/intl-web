@@ -111,5 +111,6 @@
   "audiobook.team.title": "Klankboekspan",
   "audiobook.team.voiceActors": "Stemakteurs",
   "audiobook.team.you": "jy",
-  "audiobook.whereToListen": "Waar om te luister"
+  "audiobook.whereToListen": "Waar om te luister",
+  "audiobook.orgFeatureDisabled": "Oudioboeke is nie vir hierdie organisasie geaktiveer nie."
 }

@@ -670,5 +670,16 @@
   "workshop.team.creditName": "श्रेयका लागि नाम",
   "workshop.invitations": "निमन्त्रणाहरू",
   "workshop.invitations.received": "प्राप्त",
-  "workshop.invitations.sent": "पठाइएका"
+  "workshop.invitations.sent": "पठाइएका",
+  "workshop.revShare.orgShare": "संगठन साझेदारी",
+  "workshop.license.adoptOrg.action": "संगठन लाइसेन्स अपनाउनुहोस्",
+  "workshop.license.adoptOrg.oneWayWarning": "संगठन लाइसेन्स अपनाउँदा यस कृतिको आम्दानी विभाजनमा संगठनको निश्चित हिस्सा थपिन्छ (तपाईंको भागबाट लिइन्छ)। पछि यसलाई परिवर्तन गर्न वा छोड्न पाठकहरूलाई देखाइने सूचना अवधि आवश्यक हुन्छ।",
+  "workshop.license.change.action": "संगठन लाइसेन्स परिवर्तन गर्नुहोस्",
+  "workshop.license.change.leaveOption": "कुनै पनि होइन — {license} मा फर्कनुहोस्",
+  "workshop.license.change.notice": "उही संगठनको फरक लाइसेन्स तुरुन्तै लागू हुन्छ। अर्को संगठनमा जानु वा {license} मा फर्कनु कृतिमा पाठकहरूलाई देखाइने {days}-दिने सूचनापछि लागू हुन्छ — त्यतिबेलासम्म हालको लाइसेन्स सक्रिय रहन्छ।",
+  "workshop.license.change.scheduled": "लाइसेन्स परिवर्तन {date} का लागि निर्धारित छ। त्यतिबेलासम्म पाठकहरूले कृतिमा सूचना देख्छन्; हालको लाइसेन्स सक्रिय रहन्छ।",
+  "workshop.translations.license.title": "अनुवाद लाइसेन्सहरू",
+  "workshop.translations.license.default": "पूर्वनिर्धारित ({license})",
+  "workshop.translations.license.viaOrg": "तपाईं संगठनको सदस्य हुँदा, वा त्यसको कुनै सदस्यले त्यो भाषा अनुवाद गर्दा क्षेत्रीय संगठन लाइसेन्स प्रस्ताव गरिन्छ। यसलाई लागू गर्दा अनुवाद त्यस संगठनको सूचीमा सूचीबद्ध हुन्छ र त्यस संस्करणको आम्दानी विभाजनमा संगठनको हिस्सा थपिन्छ (तपाईंको भागबाट लिइन्छ)। अनुवाद प्रकाशित भएपछि यो लक हुन्छ।",
+  "workshop.translations.license.internationalCovered": "यस कृतिको अन्तर्राष्ट्रिय संगठन लाइसेन्सले त्यसका सबै अनुवादहरू समेट्छ।"
 }

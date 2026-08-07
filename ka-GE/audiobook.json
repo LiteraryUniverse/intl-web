@@ -111,5 +111,6 @@
   "audiobook.team.title": "აუდიოწიგნის გუნდი",
   "audiobook.team.voiceActors": "ხმის მსახიობები",
   "audiobook.team.you": "თქვენ",
-  "audiobook.whereToListen": "სად მოვისმინოთ"
+  "audiobook.whereToListen": "სად მოვისმინოთ",
+  "audiobook.orgFeatureDisabled": "ამ ორგანიზაციისთვის აუდიოწიგნები ჩართული არ არის."
 }

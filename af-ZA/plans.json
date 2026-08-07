@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Gevorderde blogontwerp (eie CSS)",
   "plans.feature.luSubdomain": "Blog op jou eie Literary Universe-subdomein",
-  "plans.feature.customDomain": "Blog op jou eie domein"
+  "plans.feature.customDomain": "Blog op jou eie domein",
+  "fanClub.partner.label": "Ondersteunersklub is deel van organisasie",
+  "fanClub.partner.none": "Geen — alle inkomste bly by jou",
+  "fanClub.partner.help": "As jou kontrak met 'n organisasie jou ondersteunersklub insluit, kies dit hier — die organisasie se huidige koers word op die oomblik van keuse vasgestel.",
+  "fanClub.partner.breakdown": "Die organisasie ontvang {org}% van hierdie ondersteunersklub se inkomste (vasgestel by keuse), bykomend tot die platformfooi. Geld ook vir huidige intekenare."
 }

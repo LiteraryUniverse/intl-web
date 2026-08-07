@@ -408,5 +408,9 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Täiustatud blogikujundus (kohandatud CSS)",
   "plans.feature.luSubdomain": "Blogi sinu enda Literary Universe'i alamdomeenil",
-  "plans.feature.customDomain": "Blogi sinu enda domeenil"
+  "plans.feature.customDomain": "Blogi sinu enda domeenil",
+  "fanClub.partner.label": "Fänniklubi on organisatsiooni osa",
+  "fanClub.partner.none": "Puudub — kõik tulud jäävad sinule",
+  "fanClub.partner.help": "Kui sinu leping organisatsiooniga hõlmab sinu fänniklubi, vali see siin — organisatsiooni kehtiv määr fikseeritakse valimise hetkel.",
+  "fanClub.partner.breakdown": "Organisatsioon saab {org}% selle fänniklubi tuludest (fikseeritud valimisel), lisaks platvormitasule. Kehtib ka praegustele tellijatele."
 }

@@ -111,5 +111,6 @@
   "audiobook.team.title": "ក្រុមសៀវភៅសំឡេង",
   "audiobook.team.voiceActors": "អ្នកបញ្ចេញសំឡេង",
   "audiobook.team.you": "អ្នក",
-  "audiobook.whereToListen": "កន្លែងស្ដាប់"
+  "audiobook.whereToListen": "កន្លែងស្ដាប់",
+  "audiobook.orgFeatureDisabled": "សៀវភៅសំឡេងមិនត្រូវបានបើកសម្រាប់អង្គភាពនេះទេ។"
 }

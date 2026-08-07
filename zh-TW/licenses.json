@@ -136,5 +136,13 @@
   "licenses.commercial.info.title": "Commercial License Information",
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
-  "licenses.moreInfo": "More Information"
+  "licenses.moreInfo": "More Information",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · 您 {rest}%",
+  "licenses.orgBasedOn": "（{org}，基於 {license}）",
+  "licenses.switchNotice": "此作品將於 {date} 退出 {org} 的許可證 — 屆時透過 {org} 提供的存取權可能終止。",
+  "licenses.orgCut.label": "組織從總銷售額中獲得的份額 (%)",
+  "licenses.orgCut.help": "當作品採用此許可證時，從收益分配中作者的部分扣除。",
+  "licenses.scope.international": "國際",
+  "licenses.scope.regional": "區域（翻譯）",
+  "licenses.scope.help": "範圍 — 國際涵蓋作品及其所有翻譯，區域僅適用於單一翻譯"
 }

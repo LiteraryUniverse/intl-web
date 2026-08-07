@@ -111,5 +111,6 @@
   "audiobook.team.title": "Koponan ng audiobook",
   "audiobook.team.voiceActors": "Mga voice actor",
   "audiobook.team.you": "ikaw",
-  "audiobook.whereToListen": "Saan makikinig"
+  "audiobook.whereToListen": "Saan makikinig",
+  "audiobook.orgFeatureDisabled": "Hindi naka-enable ang mga audiobook para sa organisasyong ito."
 }
