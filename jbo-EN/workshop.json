@@ -116,7 +116,7 @@
   "workshop.settings.tags": "cmima",
   "workshop.settings.tags.placeholder": "Add a tag…",
   "workshop.revision": "finti",
-  "workshop.revisions.title": "{story}: {chapter} se finti <span class=\"notranslate\">2</span>",
+  "workshop.revisions.title": "{story}: {chapter} se finti",
   "workshop.revisions.current": "se finti se jmina",
   "workshop.revisions.new.beta": "zbasu lo se finti jdini lo se finti se jmina",
   "workshop.revisions.new.public": "zbasu lo se finti jdini lo se finti se jmina be fi lo fatci",

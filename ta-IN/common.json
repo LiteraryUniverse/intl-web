@@ -343,7 +343,7 @@
   "mobileMenu": "மொபைல் மெனு",
   "next": "அடுத்தது",
   "notVerified.msg": "உங்கள் கணக்கு {option, select,\n    email {மின்னஞ்சல்}\n    wallet {பண பைத்தியம்}\n    other {மின்னஞ்சல்}\n    } சரிபார்க்கப்படவில்லை.",
-  "notVerified.verify": "தயவுசெய்து உங்கள் {option, select,\n    email {மின்னஞ்சல்}\n    wallet {பண பைத்தியத்தை}\n    other {மின்னஞ்சல்}\n    }சரிபார்க்கவும்.",
+  "notVerified.verify": "தயவுசெய்து உங்கள் {option, select,\n    email {மின்னஞ்சலைச்}\n    wallet {பணப்பையைச்}\n    other {மின்னஞ்சலைச்}\n    } சரிபார்க்கவும்.",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "உங்கள் வரம்பை அதிகரிக்க மேலும் மேம்படுத்துங்கள்.",
   "premium.only": "Not high enough membership rank",

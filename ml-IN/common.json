@@ -343,7 +343,7 @@
   "mobileMenu": "മൊബൈൽ മെനു",
   "next": "അടുത്തത്",
   "notVerified.msg": "നിങ്ങളുടെ അക്കൗണ്ട് {option, select,\n    email {ഇമെയിൽ}\n    wallet {വാലറ്റ്}\n    other {ഇമെയിൽ}\n    } പരിശോധിച്ചിട്ടില്ല.",
-  "notVerified.verify": "ദയവായി നിങ്ങളുടെ {option, select,\n    email {ഇമെയിൽ}\n    wallet {വാലറ്റ്}\n    other {ഇമെയിൽ}\n    }പരിശോധിക്കുക.",
+  "notVerified.verify": "ദയവായി നിങ്ങളുടെ {option, select,\n    email {ഇമെയിൽ}\n    wallet {വാലറ്റ്}\n    other {ഇമെയിൽ}\n    } പരിശോധിക്കുക.",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "നിങ്ങളുടെ പരിധി വർധിപ്പിക്കുന്നതിന് അപ്ഗ്രേഡ് ചെയ്യുക.",
   "premium.only": "Not high enough membership rank",

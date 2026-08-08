@@ -343,7 +343,7 @@
   "mobileMenu": "Bileog gutháin",
   "next": "Ar Aghaidh",
   "notVerified.msg": "Níl do chuntas {option, select,\n    email {ríomhphost}\n    wallet {brósaíocht}\n    other {ríomhphost}\n    } faighte.",
-  "notVerified.verify": "Deimhnigh do {option, select,\n    email {ríomhphost}\n    wallet {brósaíocht}\n    other {ríomhphost}\n    }le do thoil.",
+  "notVerified.verify": "Deimhnigh do {option, select,\n    email {ríomhphost}\n    wallet {brósaíocht}\n    other {ríomhphost}\n    } le do thoil.",
   "notice.thankYou": "Go raibh maith agat as do thacaíocht!",
   "premium.increaseLimit": "Cíortar suas chun cur le do theorainn.",
   "premium.only": "Níl do chéim bhallraíochta ard go leor",

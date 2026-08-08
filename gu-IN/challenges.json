@@ -18,7 +18,7 @@
   "challenges.future": "આવતી ચૂંટણીઓ",
   "challenges.future.wordcount": "શબ્દગણના ચેલેંજ આગામી {startDate, date, short} પર શરૂ થાય છે, જેમાં લક્ષ્ય છે કે તમે {target, number} સાથે {endDate, date, short}સાથે કેટલાક શબ્દો લખવાના માંગો છો.",
   "challenges.wordcount": "શબ્દગણતરી",
-  "challenges.wordcount.desc": "આ મહિના માટે તમારા આ {type, select,\n    story {કથા}\n    universe {યુનિવર્સ}\n    other {}\n  }માટે કેટલાક શબ્દો લખવાનો લક્ષ્ય સેટ કરો.",
+  "challenges.wordcount.desc": "આ મહિને આ {type, select,\n    story {કથા}\n    universe {યુનિવર્સ}\n    other {}\n  } માટે તમે કેટલા શબ્દો લખવા માંગો છો તેનું લક્ષ્ય નક્કી કરો.",
   "challenges.wordcount.select": "તમે કેટલા શબ્દોની ચૂંટણી લેવાની ઈચ્છો છો?",
   "challenges.start": "ચૂંટણી શરૂ કરો",
   "challenges.report": "અહેવાલ",

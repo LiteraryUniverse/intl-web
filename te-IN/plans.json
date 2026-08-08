@@ -266,6 +266,10 @@
   "plans.fanClub.userSettings": "మీ అభిమానం క్లబ్ చంపనులను నిర్వహించండి",
   "plans.fanClub.subscribers": "సబ్స్క్రైబర్లు",
   "plans.fanClub.activatedLabel": "ఫాన్ క్లబ్ సక్రియం చేయబడింది",
+  "fanClub.partner.label": "ఫాన్ క్లబ్ సంస్థలో భాగం",
+  "fanClub.partner.none": "ఏదీ లేదు — మొత్తం ఆదాయం మీ వద్దే ఉంటుంది",
+  "fanClub.partner.help": "సంస్థతో మీ ఒప్పందంలో మీ ఫాన్ క్లబ్ చేర్చబడి ఉంటే, దాన్ని ఇక్కడ ఎంచుకోండి — ఎంపిక చేసిన క్షణంలో సంస్థ ప్రస్తుత రేటు స్థిరపరచబడుతుంది.",
+  "fanClub.partner.breakdown": "ప్లాట్‌ఫారమ్ రుసుముకు అదనంగా, ఈ ఫాన్ క్లబ్ ఆదాయంలో {org}% సంస్థ పొందుతుంది (ఎంచుకున్నప్పుడు స్థిరపరచబడుతుంది). ప్రస్తుత సబ్‌స్క్రైబర్లకు కూడా వర్తిస్తుంది.",
   "plans.fanClub.inactiveWarning": "మీ ఫ్యాన్ క్లబ్ ఇంకా సక్రమించబడలేదు, మీరు ప్లాన్స్ ని సిద్ధంగా కావాలనుకుంటే మీరు అదనపు సెట్టింగుల లో దానిని సక్రమించవచ్చు.",
   "payment.fanClub.editTier": "Edit tier",
   "plans.deletePlan.modalAria": "Delete plan confirmation",
@@ -408,9 +412,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "అధునాతన బ్లాగ్ డిజైన్ (కస్టమ్ CSS)",
   "plans.feature.luSubdomain": "మీ సొంత Literary Universe సబ్‌డొమైన్‌లో బ్లాగ్",
-  "plans.feature.customDomain": "మీ సొంత డొమైన్‌లో బ్లాగ్",
-  "fanClub.partner.label": "ఫాన్ క్లబ్ సంస్థలో భాగం",
-  "fanClub.partner.none": "ఏదీ లేదు — మొత్తం ఆదాయం మీ వద్దే ఉంటుంది",
-  "fanClub.partner.help": "సంస్థతో మీ ఒప్పందంలో మీ ఫాన్ క్లబ్ చేర్చబడి ఉంటే, దాన్ని ఇక్కడ ఎంచుకోండి — ఎంపిక చేసిన క్షణంలో సంస్థ ప్రస్తుత రేటు స్థిరపరచబడుతుంది.",
-  "fanClub.partner.breakdown": "ప్లాట్‌ఫారమ్ రుసుముకు అదనంగా, ఈ ఫాన్ క్లబ్ ఆదాయంలో {org}% సంస్థ పొందుతుంది (ఎంచుకున్నప్పుడు స్థిరపరచబడుతుంది). ప్రస్తుత సబ్‌స్క్రైబర్లకు కూడా వర్తిస్తుంది."
+  "plans.feature.customDomain": "మీ సొంత డొమైన్‌లో బ్లాగ్"
 }

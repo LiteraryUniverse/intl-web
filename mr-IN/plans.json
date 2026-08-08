@@ -125,7 +125,7 @@
   "payment.stripe.powered": "द्वारे संचालित ",
   "payment.listMethods.card": "कार्ड्स",
   "payment.expiresAt": "संपले ते तारीख {month}/{year}",
-  "payment.card.details": "{type, select,\n    credit {क्रेडिट कार्ड}\n    debit {डेबिट कार्ड}\n    other {कार्ड}\n  } शेवटी {last4}नंतर",
+  "payment.card.details": "{type, select,\n    credit {क्रेडिट कार्ड}\n    debit {डेबिट कार्ड}\n    other {कार्ड}\n  }, शेवटचे अंक {last4}",
   "payment.options.default": "मुलभूत",
   "payment.method.add": "नवीन देयक प्रकार जोडा",
   "payment.methods.adding": "तुमचे नवीन देयक प्रकार तुमच्या खात्यात जोडले गेले आहे.",
@@ -266,6 +266,10 @@
   "plans.fanClub.userSettings": "आपले फॅन क्लब सदस्यता व्यवस्थापित करा",
   "plans.fanClub.subscribers": "सब्सक्राइबर्स",
   "plans.fanClub.activatedLabel": "फॅन क्लब सक्रिय केला",
+  "fanClub.partner.label": "फॅन क्लब संघटनेचा भाग आहे",
+  "fanClub.partner.none": "काहीही नाही — सर्व उत्पन्न तुमच्याकडेच राहते",
+  "fanClub.partner.help": "संघटनेसोबतच्या तुमच्या करारात तुमचा फॅन क्लब समाविष्ट असल्यास, तो येथे निवडा — निवडीच्या क्षणी संघटनेचा सध्याचा दर निश्चित होतो.",
+  "fanClub.partner.breakdown": "प्लॅटफॉर्म शुल्काव्यतिरिक्त, या फॅन क्लबच्या उत्पन्नातील {org}% संघटनेला मिळते (निवडताना निश्चित). सध्याच्या वर्गणीदारांनाही लागू.",
   "plans.fanClub.inactiveWarning": "आपल्या फॅन क्लबला प्रशिक्षण केला जाणार नाही, आपण अजून प्लॅन सुद्धा तयार करू शकता आणि तयार झाल्यावर आपण ते सेटिंगमध्ये सक्रिय करू शकता.",
   "payment.fanClub.editTier": "Edit tier",
   "plans.deletePlan.modalAria": "Delete plan confirmation",
@@ -408,9 +412,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "प्रगत ब्लॉग डिझाइन (कस्टम CSS)",
   "plans.feature.luSubdomain": "तुमच्या स्वतःच्या Literary Universe सबडोमेनवर ब्लॉग",
-  "plans.feature.customDomain": "तुमच्या स्वतःच्या डोमेनवर ब्लॉग",
-  "fanClub.partner.label": "फॅन क्लब संघटनेचा भाग आहे",
-  "fanClub.partner.none": "काहीही नाही — सर्व उत्पन्न तुमच्याकडेच राहते",
-  "fanClub.partner.help": "संघटनेसोबतच्या तुमच्या करारात तुमचा फॅन क्लब समाविष्ट असल्यास, तो येथे निवडा — निवडीच्या क्षणी संघटनेचा सध्याचा दर निश्चित होतो.",
-  "fanClub.partner.breakdown": "प्लॅटफॉर्म शुल्काव्यतिरिक्त, या फॅन क्लबच्या उत्पन्नातील {org}% संघटनेला मिळते (निवडताना निश्चित). सध्याच्या वर्गणीदारांनाही लागू."
+  "plans.feature.customDomain": "तुमच्या स्वतःच्या डोमेनवर ब्लॉग"
 }

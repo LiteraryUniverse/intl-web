@@ -20,7 +20,7 @@
   "organizationLibrary.tier.creatorPool": "Percento fondu tvorcov",
   "organizationLibrary.tier.allocation": "Metrika rozdeľovania",
   "organizationLibrary.tier.savePolicy": "Uložiť politiku Knižnice",
-  "organizationLibrary.paymentDescriptor": "LU Library",
+  "organizationLibrary.paymentDescriptor": "LU Kniznica",
   "organizationLibrary.payoutReady": "Príjemca výplat je pripravený",
   "organizationLibrary.payoutRequired": "Vyžaduje sa nastavenie výplat",
   "organizationLibrary.activeTiers": "{count, plural, one {# aktívna úroveň} few {# aktívne úrovne} many {# aktívnej úrovne} other {# aktívnych úrovní}}",

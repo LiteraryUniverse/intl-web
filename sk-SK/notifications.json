@@ -1,5 +1,5 @@
 {
-  "flashnews.admin": "Flashnews Admin",
+  "flashnews.admin": "Správa bleskových správ",
   "flashnews.create": "Vytvorenie novej bleskové správy",
   "flashnews.startsAt": "Začnite zobrazovať túto správu od",
   "flashnews.endsAt": "Prestaňte zobrazovať túto správu od",
@@ -18,8 +18,8 @@
   "notification.orgWorkProposal.accepted": "Organizácia {organization} prijala vaše dielo {work}",
   "notification.orgWorkProposal.rejected": "Organizácia {organization} odmietla vaše dielo {work}",
   "notification.workshopStoryStatus.toCancelled": "Vaša príbeh {storyName} bol automaticky zrušený po jednom roku nečinnosti.",
-  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
-  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
+  "notification.workshopComicStatus.toHiatus": "Váš komiks {comicName} bol automaticky nastavený na hiatus po 6 mesiacoch nečinnosti.",
+  "notification.workshopComicStatus.toCancelled": "Váš komiks {comicName} bol automaticky zrušený po jednom roku nečinnosti.",
   "notification.followingStoryStatus.toHiatus": "{storyName} je na hiatusu.",
   "notification.followingStoryStatus.toCancelled": "{storyName} bol zrušen.",
   "notification.followingNewChapter.new": "Bol zverejnený nový kapitola v {storyName}!",

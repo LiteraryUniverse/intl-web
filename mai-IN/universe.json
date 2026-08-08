@@ -1,5 +1,5 @@
 {
-  "universe.authors.title.meta": "{title} <span class=\"notranslate\">लेखक</span>",
+  "universe.authors.title.meta": "{title} लेखक",
   "universe.fanfiction.see": "{universe}को लागि सबै फ्यान फिक्शनहरू",
   "universe.fanfiction.desc": "{universe}को लागि फ्यान फिक्शन",
   "universe.fanfiction.for": "{universe} फ्यान फिक्शन",
@@ -8,9 +8,9 @@
   "universe.fanfiction.stories": "कथाहरू",
   "universe.fanfiction.fanarts": "फैन आर्ट",
   "universe.stories.count": "There {num, plural,\n    =0 {are no stories}\n    one {is one story}\n    other {are # stories}\n    } in this universe.",
-  "universe.authors.title": "<span class=\"notranslate\">लेखकहरू</span>",
+  "universe.authors.title": "लेखकहरू",
   "universe.authors.desc": "{universe}को निर्माताहरू र सहसंपादकहरू",
-  "universe.contributors": "<span class=\"notranslate\">सहसंपादकहरू</span>",
+  "universe.contributors": "सहसंपादकहरू",
   "universe.authors.notice": "प्रत्येक कथामा थप व्यक्तिगत कर्मचारीहरू हुन सक्छन्। थप विवरणको लागि कृपया कथाको विवरण हेर्नुहोस्।",
   "universe.createdBy": "{gender, select,\n    male {द्वारा निर्माण,}\n    female {द्वारा निर्माण,}\n    other {द्वारा निर्माण,}} द्वारा निर्माण ",
   "universe.stories.for": "{universe}को लागि कथाहरू",

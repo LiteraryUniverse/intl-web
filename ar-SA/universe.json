@@ -30,9 +30,9 @@
   "universe.storiesCount": "إجمالي عدد القصص في الكون",
   "universe.createdAt": "تم إنشاؤها: {date}",
   "universe.authors.none": "لا تتوفر معلومات عن المؤلفين.",
-  "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
-  "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
-  "universe.stories": "Stories"
+  "universe.blog.title": "{universe} - الأخبار والتحديثات",
+  "universe.fanarts.allowComments": "السماح بالتعليقات",
+  "universe.createdby": "أنشأه",
+  "universe.fanArt.picture": "صورة فن المعجبين",
+  "universe.stories": "القصص"
 }

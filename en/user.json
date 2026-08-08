@@ -1,4 +1,7 @@
 {
+  "profile.contributions": "Contributions",
+  "profile.contributions.empty": "No public contributions yet.",
+  "profile.contributions.more": "Load more contributions",
   "user.friend.request.add": "Add to friends",
   "user.friend.requests": "You have {num, number} new friend {num, plural,\n    zero {requests}\n    one {request}\n    many {requests}\n    other {requests}\n  }",
   "user.friend.unfriend": "Unfriend",

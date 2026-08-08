@@ -876,7 +876,7 @@
   "mobileMenu": "Menu Mudah Alih",
   "next": "Seterusnya",
   "notVerified.msg": "Akaun anda {option, select,\n    email {e-mel}\n    wallet {dompet}\n    other {e-mel}\n    } tidak disahkan.",
-  "notVerified.verify": "Sila sahkan {option, select,\n    email {e-mel}\n    wallet {dompet}\n    other {e-mel}\n    }anda.",
+  "notVerified.verify": "Sila sahkan {option, select,\n    email {e-mel}\n    wallet {dompet}\n    other {e-mel}\n    } anda.",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "Pertimbangkan untuk meningkatkan had anda.",
   "premium.only": "Not high enough membership rank",

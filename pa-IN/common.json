@@ -343,7 +343,7 @@
   "mobileMenu": "ਮੋਬਾਈਲ ਮੀਨੂ",
   "next": "ਅਗਲਾ",
   "notVerified.msg": "ਤੁਹਾਡਾ ਖਾਤਾ {option, select,\n    email {ਈਮੇਲ}\n    wallet {ਵਾਲੇਟ}\n    other {ਈਮੇਲ}\n    } ਦੀ ਪੁਸ਼ਟੀ ਨਹੀਂ ਹੈ।",
-  "notVerified.verify": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ {option, select,\n    email {ਈਮੇਲ}\n    wallet {ਵਾਲੇਟ}\n    other {ਈਮੇਲ}\n    }ਦੁਆਰਾ।",
+  "notVerified.verify": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ {option, select,\n    email {ਈਮੇਲ}\n    wallet {ਵਾਲੇਟ}\n    other {ਈਮੇਲ}\n    } ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "ਆਪਣੀ ਸੀਮਾ ਵਾਧਾਓ ਲਈ ਅਪਗਰੇਡ ਕਰੋ।",
   "premium.only": "Not high enough membership rank",

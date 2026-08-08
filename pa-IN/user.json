@@ -4,7 +4,7 @@
   "user.friend.unfriend": "ਮਿੱਤਰੀ ਤੋਂ ਹਟਾਓ",
   "user.block": "ਬਲਾਕ ਕਰੋ",
   "user.unblock": "ਅਨਬਲਾਕ ਕਰੋ",
-  "user.joined": "{gender, select,\n    male {ਨੇ}\n    female {ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਇਆ!}\n    other {ਨੇ}} ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਇਆ!  ਤੇ {date, date, long}ਨੇ ਸ਼ਾਮਲ ਹੋਇਆ!",
+  "user.joined": "{date, date, long} ਨੂੰ {gender, select,\n    male {ਸ਼ਾਮਲ ਹੋਇਆ}\n    female {ਸ਼ਾਮਲ ਹੋਈ}\n    other {ਸ਼ਾਮਲ ਹੋਏ}}",
   "user.friend.request.accept": "ਮਿੱਤਰੀ ਦੀ ਬੇਨਤੀ ਮਨਜ਼ੂਰ ਕਰੋ",
   "user.friend.request.cancel": "ਮਿੱਤਰੀ ਦੀ ਬੇਨਤੀ ਰੱਦ ਕਰੋ",
   "user.friend.request.deny": "ਮਿੱਤਰੀ ਨੂੰ ਇਨਕਾਰ ਕਰੋ",

@@ -22,7 +22,7 @@
   "roadmap.item.inPreview": "এই বৈশিষ্ট্যটি ষ্টৰিটেলাৰ সাবচ্চ্ৰাইবাৰসকললৈ উপলব্ধ হৈছে {previewAt, date}।",
   "roadmap.item.inGa": "এই বৈশিষ্ট্যটি সাধাৰণতেই উপলব্ধ হৈছে {gaAt, date}।",
   "roadmap.item.originalIssue": "এই বৈশিষ্ট্যটি আমাৰ ব্যৱহাৰকাৰীসকলৰ দ্বাৰা প্ৰথমবাৰে প্ৰস্তাবিত হৈছিল।",
-  "roadmap.eta.mapTitle": "{year, date, ::yyyy}}\n  } Q4}\n    other {Q3}\n    Q4 {Q2}\n    Q3 {Q1}\n    Q2 {{quarter, select,\n    Q1 {লক্ষ্যভূক্ত",
+  "roadmap.eta.mapTitle": "{quarter, select,\n    Q1 {Q1}\n    Q2 {Q2}\n    Q3 {Q3}\n    Q4 {Q4}\n    other {}\n  } {year, date, ::yyyy}ৰ বাবে পৰিকল্পিত",
   "roadmap.eta.mapTitleFinished": "{time, date, ::MMMM ::yyyy}শেষ হৈছে",
   "roadmap.back": "পথনিৰ্দেশিকাৰ পৰা পিছত যাওক",
   "roadmap.seeBacklog": "আমাৰ অন্যান্য কৰিবলৈ যোজনাৰ বিষয়বস্তুসমূহ চাওক",

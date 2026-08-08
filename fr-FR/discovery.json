@@ -21,7 +21,7 @@
   "story.status.inProgress": "En cours",
   "discover.search.universeConnection": "Connexion de l'histoire à l'univers",
   "story.universeRelation.standalone": "Histoire autonome",
-  "story.universeRelation.fanFiction": "Fan Fiction",
+  "story.universeRelation.fanFiction": "Fan fiction",
   "story.universeRelation.universe": "Partie d'un univers",
   "discover.search.rating": "Classement par âge",
   "discover.search.license": "Licence de droit d'auteur",
@@ -42,6 +42,7 @@
   "discovery.chapters.showAll": "Afficher tous les chapitres",
   "discovery.chapters.showMore": "Afficher plus de chapitres",
   "discovery.chaptersTotal": "Nombre total de chapitres dans l'histoire",
+  "discovery.translation.chaptersAvailable": "Chapitres disponibles dans cette traduction",
   "discovery.readFromStart": "Lire depuis le premier chapitre",
   "discovery.readLatest": "Lire le dernier chapitre",
   "discovery.author": "Auteur",
@@ -100,6 +101,5 @@
   "discover.search.encyclopedia.comingSoon": "La recherche dans l'encyclopédie arrive bientôt.",
   "discover.search.universal.description": "Rechercher des histoires et des univers",
   "discover.search.typeSelection.aria": "Sélection du type de contenu",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Aucun résultat trouvé} one {# résultat trouvé} other {# résultats trouvés}}",
-  "discovery.translation.chaptersAvailable": "Chapitres disponibles dans cette traduction"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Aucun résultat trouvé} one {# résultat trouvé} other {# résultats trouvés}}"
 }

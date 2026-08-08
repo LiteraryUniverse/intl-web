@@ -48,6 +48,7 @@
   "audiobook.noChaptersMatch": "আপোনাৰ সন্ধানৰ সৈতে কোনো অধ্যায় মিল নাখায়।",
   "audiobook.offlineUnsupported": "এই ব্ৰাউজাৰত অফলাইন ষ্ট'ৰেজ উপলব্ধ নহয়।",
   "audiobook.openExternal": "এই অডিঅ' ইয়াত ইনলাইনকৈ বজাব নোৱাৰি — ইয়াক এটা নতুন টেবত খোলক",
+  "audiobook.orgFeatureDisabled": "এই সংগঠনৰ বাবে অডিঅ'বুক সক্ৰিয় কৰা হোৱা নাই।",
   "audiobook.perChapter": "অধ্যায়-প্ৰতি বৰ্ণনা",
   "audiobook.playbackSpeed": "প্লেবেক গতি",
   "audiobook.pricing.chapter": "অধ্যায়-প্ৰতি মূল্য",
@@ -111,6 +112,5 @@
   "audiobook.team.title": "অডিঅ' বুক দল",
   "audiobook.team.voiceActors": "ভইচ অভিনেতা",
   "audiobook.team.you": "আপুনি",
-  "audiobook.whereToListen": "ক'ত শুনিব",
-  "audiobook.orgFeatureDisabled": "এই সংগঠনৰ বাবে অডিঅ'বুক সক্ৰিয় কৰা হোৱা নাই।"
+  "audiobook.whereToListen": "ক'ত শুনিব"
 }

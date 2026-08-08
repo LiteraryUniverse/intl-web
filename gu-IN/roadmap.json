@@ -22,7 +22,7 @@
   "roadmap.item.inPreview": "આ ફીચર સ્ટોરીટેલર સબ્સ્ક્રાઇબર્સ માટે ઉપલબ્ધ થયો છે {previewAt, date}.",
   "roadmap.item.inGa": "આ ફીચર સામાન્ય રીતે ઉપલબ્ધ થયો છે {gaAt, date}.",
   "roadmap.item.originalIssue": "આ ફીચર પ્રાથમિકતાની આધારે સૂચવવામાં આવ્યો હતો.",
-  "roadmap.eta.mapTitle": "યોજનામાં {quarter, select,\n    Q1 {Q1}\n    Q2 {Q2}\n    Q3 {Q3}\n    Q4 {Q4}\n    other {}\n  } {year, date, ::yyyy}માટે પ્લાન બનાવવામાં આવ્યું છે.",
+  "roadmap.eta.mapTitle": "{quarter, select,\n    Q1 {Q1}\n    Q2 {Q2}\n    Q3 {Q3}\n    Q4 {Q4}\n    other {}\n  } {year, date, ::yyyy} માટે આયોજિત",
   "roadmap.eta.mapTitleFinished": "પૂર્ણ થયેલ છે {time, date, ::MMMM ::yyyy}",
   "roadmap.back": "યોજના પરત જવા માટે પાછા જાઓ",
   "roadmap.seeBacklog": "અન્ય કામો જોવા માટે ચેક કરો",

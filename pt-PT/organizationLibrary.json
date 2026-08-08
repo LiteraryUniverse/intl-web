@@ -20,7 +20,7 @@
   "organizationLibrary.tier.creatorPool": "Percentagem do fundo de criadores",
   "organizationLibrary.tier.allocation": "Métrica de alocação",
   "organizationLibrary.tier.savePolicy": "Guardar política da Biblioteca",
-  "organizationLibrary.paymentDescriptor": "LU Library",
+  "organizationLibrary.paymentDescriptor": "LU Biblioteca",
   "organizationLibrary.payoutReady": "Destinatário de pagamentos pronto",
   "organizationLibrary.payoutRequired": "É necessária a configuração de pagamentos",
   "organizationLibrary.activeTiers": "{count, plural, one {# nível ativo} other {# níveis ativos}}",

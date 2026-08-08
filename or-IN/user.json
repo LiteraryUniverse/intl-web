@@ -4,7 +4,7 @@
   "user.friend.unfriend": "ସହପାଠୀତ୍ୟ ଛେଡ଼ିବା",
   "user.block": "ବନ୍ଦି କରନ୍ତୁ",
   "user.unblock": "ଅନବନ୍ଦିତ କରନ୍ତୁ",
-  "user.joined": "{gender, select,\n    male {ଯୋଡ଼ିବାରେ}\n    female {ଯୋଡ଼ିବାରେ}\n    other {ଯୋଡ଼ିବାରେ}} {date, date, long}ରେ ସଂଯୁକ୍ତ ହୋଇଛନ୍ତି",
+  "user.joined": "{date, date, long}ରେ {gender, select,\n    male {ଯୋଗ ଦେଇଛନ୍ତି}\n    female {ଯୋଗ ଦେଇଛନ୍ତି}\n    other {ଯୋଗ ଦେଇଛନ୍ତି}}",
   "user.friend.request.accept": "ସହପାଠୀତ୍ୟ ଅନୁଗ୍ରହ କରନ୍ତୁ",
   "user.friend.request.cancel": "ସହପାଠୀତ୍ୟ ଅନୁଗ୍ରହ ରଦ୍ଦ କରନ୍ତୁ",
   "user.friend.request.deny": "ସହପାଠୀତ୍ୟ ନିରାକରଣ କରନ୍ତୁ",

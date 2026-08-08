@@ -22,7 +22,7 @@
   "roadmap.item.inPreview": "ఈ ఫీచర్ స్టోరీటెలర్ ఛార్చబడిన వాడకరులకు అందుబాటులో ఉంది {previewAt, date}.",
   "roadmap.item.inGa": "ఈ ఫీచర్ సాధారణంగా అందుబాటులో ఉంది {gaAt, date}.",
   "roadmap.item.originalIssue": "ఈ ఫీచర్ మొదటిగా మా వాడుకరుల సలహాల ద్వారా సూచించబడింది.",
-  "roadmap.eta.mapTitle": "}\n  } {year, date, ::yyyy}}\n    other {Q4}\n    Q4 {Q3}\n    Q3 {Q2}\n    Q2 {Q1 కోసం ప్రారంభించబడింది {quarter, select,\n    Q1 {కోసం ప్రారంభించబడింది.",
+  "roadmap.eta.mapTitle": "{quarter, select,\n    Q1 {Q1}\n    Q2 {Q2}\n    Q3 {Q3}\n    Q4 {Q4}\n    other {}\n  } {year, date, ::yyyy} కోసం ప్రణాళిక చేయబడింది",
   "roadmap.eta.mapTitleFinished": "{time, date, ::MMMM ::yyyy}లో పూర్తి చేయబడింది",
   "roadmap.back": "రోడ్‌మ్యాప్‌కు తిరిగి వెళ్ళండి",
   "roadmap.seeBacklog": "మేము చేయడానికి మరియు ప్రారంభించడానికి మరొక విషయాలను చూడండి",

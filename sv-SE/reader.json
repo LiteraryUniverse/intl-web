@@ -44,7 +44,7 @@
   "reader.nextChapterEstimation.notEnoughChapters": "Vi kommer också att ge en uppskattning av när nästa kapitel kan bli publicerat när denna berättelse har mer än ett kapitel.",
   "reader.comments.chapterNotAvailable": "Inga kommentarer tillgängliga ännu. Detta beror på att kapitlet ännu inte har släppts.",
   "reader.purchaseGate.title": "Detta kapitel kräver inköp",
-  "reader.purchaseGate.description": "För att fortsätta läsa {storyTitle}{authorName, select, undefined {} other { av {authorName}}}måste du köpa den.",
+  "reader.purchaseGate.description": "För att fortsätta läsa {storyTitle}{authorName, select, undefined {} other { av {authorName}}} måste du köpa den.",
   "reader.purchaseGate.buyArc": "Eller köp denna båge",
   "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} kapitel} other {{count} kapitel}} ingår",
   "story.chapter.freePreview": "Free",

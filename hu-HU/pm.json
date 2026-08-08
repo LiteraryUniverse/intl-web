@@ -10,7 +10,7 @@
   "pm.to": "Címzett:",
   "pm.with": "Beszélgetés vele:",
   "pm.send": "Küldés",
-  "pm.conversations.unreadCount": "{count, plural,\n    zero {Nincsenek olvasatlan beszélgetéseid.}\n    one {Egy olvasatlan beszélgetésed van.}\n    other {Olvasatlan beszélgetéseid vannak.}\n  }Olvasatlan beszélgetéseid vannak.",
+  "pm.conversations.unreadCount": "{count, plural,\n    zero {Nincsenek olvasatlan beszélgetéseid.}\n    one {Egy olvasatlan beszélgetésed van.}\n    other {# olvasatlan beszélgetésed van.}\n  }",
   "pm.form.minimumParticipants": "Ki kell választanod egy címzettet.",
   "pm.form.maxParticipants": "Egy beszélgetésben legfeljebb {maxPeople, plural,\n    one {egy személy lehet}\n    other {# ember}\n  } .",
   "pm.new.aria": "Új beszélgetés",

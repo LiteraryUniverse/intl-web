@@ -4,7 +4,7 @@
   "user.friend.unfriend": "స్నేహితుడను తొలగించు",
   "user.block": "నిరోధించు",
   "user.unblock": "నిరోధనను తీసుకోండి",
-  "user.joined": "{gender, select,\n    male {}\n    female {}\n    other {}} లో {date, date, long}లో చేరారు.",
+  "user.joined": "{date, date, long}న {gender, select,\n    male {చేరారు}\n    female {చేరారు}\n    other {చేరారు}}",
   "user.friend.request.accept": "స్నేహం అభ్యర్థనను అంగీకరించండి",
   "user.friend.request.cancel": "స్నేహం అభ్యర్థనను రద్దు చేయండి",
   "user.friend.request.deny": "స్నేహం తిరస్కరించాలి",

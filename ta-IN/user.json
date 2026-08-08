@@ -4,7 +4,7 @@
   "user.friend.unfriend": "நண்பர்களிலிருந்து நீக்கு",
   "user.block": "தடுக்க",
   "user.unblock": "தடுப்பை நீக்கு",
-  "user.joined": "{gender, select,\n    male {இன் சேர்ந்துள்ளீர்கள்}\n    female {இன் சேர்ந்துள்ளீர்கள்}\n    other {இன் சேர்ந்துள்ளீர்கள்}} இன் சேர்ந்துள்ளீர்கள் {date, date, long}இல்",
+  "user.joined": "{date, date, long}இல் {gender, select,\n    male {சேர்ந்தார்}\n    female {சேர்ந்தார்}\n    other {சேர்ந்தார்}}",
   "user.friend.request.accept": "நண்பர்களாக கேட்கையை ஏற்றுக்கொள்",
   "user.friend.request.cancel": "நண்பர்களாக கேட்கையை ரத்து செய்",
   "user.friend.request.deny": "நண்பர் விலக்கு",

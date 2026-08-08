@@ -343,7 +343,7 @@
   "mobileMenu": "मोबाइल मेनु",
   "next": "अर्को",
   "notVerified.msg": "तपाईंको खाता {option, select,\n    email {ईमेल}\n    wallet {वॉलेट}\n    other {ईमेल}\n    } सत्यापित छैन।",
-  "notVerified.verify": "कृपया आफ्नो {option, select,\n    email {ईमेल}\n    wallet {वॉलेट}\n    other {ईमेल}\n    }सत्यापित गर्नुहोस्।",
+  "notVerified.verify": "कृपया आफ्नो {option, select,\n    email {ईमेल}\n    wallet {वॉलेट}\n    other {ईमेल}\n    } सत्यापित गर्नुहोस्।",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "तपाईंको सीमा बढाउनका लागि अपग्रेड गर्नुहोस्।",
   "premium.only": "Not high enough membership rank",

@@ -20,7 +20,7 @@
   "organizationLibrary.tier.creatorPool": "Pourcentage du pool de créateurs",
   "organizationLibrary.tier.allocation": "Critère de répartition",
   "organizationLibrary.tier.savePolicy": "Enregistrer la politique de la Bibliothèque",
-  "organizationLibrary.paymentDescriptor": "LU Library",
+  "organizationLibrary.paymentDescriptor": "LU Bibliothèque",
   "organizationLibrary.payoutReady": "Destinataire des paiements prêt",
   "organizationLibrary.payoutRequired": "Configuration des paiements requise",
   "organizationLibrary.activeTiers": "{count, plural, one {# palier actif} other {# paliers actifs}}",

@@ -20,7 +20,7 @@
   "user.verification.publicFigure": "Figura pública verificada",
   "profile.storiesCount": "{count, number} {count, plural,\n    one {história}\n    other {histórias}\n  }",
   "profile.universesCount": "{count, number} {count, plural,\n    one {universo}\n    other {universos}\n  }",
-  "profile.fanFictionsCount": "{count, number} {count, plural,\n    one {fan fiction}\n    other {fan fictions} \n  }",
+  "profile.fanFictionsCount": "{count, number} {count, plural,\n    one {ficção de fãs}\n    other {ficções de fãs} \n  }",
   "profile.works": "Obras",
   "profile.wishlist": "Lista de desejos",
   "profile.storiesBy": "Histórias criadas por {username}",

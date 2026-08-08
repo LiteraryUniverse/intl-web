@@ -21,7 +21,7 @@
   "personalNotes.recentSearches": "البحث الأخيرة:",
   "personalNotes.myNotes": "ملاحظاتي الشخصية",
   "personalNotes.hasNotes": "لديه ملاحظات شخصية",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
-  "personalNotes.type": "Type"
+  "personalNotes.recentSearched": "عمليات البحث الأخيرة:",
+  "personalNotes.search.noFound": "لم يتم العثور على أي عناصر",
+  "personalNotes.type": "النوع"
 }

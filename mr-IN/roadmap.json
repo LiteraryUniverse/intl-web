@@ -22,7 +22,7 @@
   "roadmap.item.inPreview": "ही सुविधा स्टोरीटेलर सदस्यांसाठी उपलब्ध झाली आहे {previewAt, date}.",
   "roadmap.item.inGa": "ही सुविधा सामान्यपणे उपलब्ध झाली आहे {gaAt, date}.",
   "roadmap.item.originalIssue": "ही सुविधा प्रारंभिकपणे आमच्या वापरकर्त्यांनी सुचवली आहे.",
-  "roadmap.eta.mapTitle": "{year, date, ::yyyy}}\n  } }\n    other {Q4}\n    Q4 {Q3}\n    Q3 {Q2}\n    Q2 {Q1 {quarter, select,\n    Q1 {मध्ये योजनित केली आहे.",
+  "roadmap.eta.mapTitle": "{quarter, select,\n    Q1 {Q1}\n    Q2 {Q2}\n    Q3 {Q3}\n    Q4 {Q4}\n    other {}\n  } {year, date, ::yyyy}मध्ये योजनित केली आहे",
   "roadmap.eta.mapTitleFinished": "{time, date, ::MMMM ::yyyy}मध्ये संपली",
   "roadmap.back": "रोडमॅपमध्ये परत जा",
   "roadmap.seeBacklog": "आपल्याला काय करायला आवडेल ते बघा",

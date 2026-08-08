@@ -125,7 +125,7 @@
   "payment.stripe.powered": "ଦ୍ୱାରା ପ୍ରାଧାନ୍ୟ ପାଇଁ ",
   "payment.listMethods.card": "କାର୍ଡସ୍",
   "payment.expiresAt": "ମାତ୍ର {month}/{year}ପର୍ଯ୍ୟନ୍ତ ବୈଧ",
-  "payment.card.details": "{type, select,\n    credit {କ୍ରେଡିଟ୍ କାର୍ଡ}\n    debit {ଡେବିଟ୍ କାର୍ଡ}\n    other {କାର୍ଡ}\n  } ଶେଷ ହେଉଛି {last4}ସହିତ",
+  "payment.card.details": "{type, select,\n    credit {କ୍ରେଡିଟ୍ କାର୍ଡ}\n    debit {ଡେବିଟ୍ କାର୍ଡ}\n    other {କାର୍ଡ}\n  } {last4} ସହିତ ଶେଷ ହେଉଛି",
   "payment.options.default": "ପୂର୍ବନିର୍ଧାରିତ",
   "payment.method.add": "ନୂତନ ପେୟ୍ମେଣ୍ଟ ପ୍ରଣାଳୀ ଯୋଡ଼ାଯାଇଛି",
   "payment.methods.adding": "ଆପଣଙ୍କ ନୂତନ ପେୟ୍ମେଣ୍ଟ ପ୍ରଣାଳୀ ଆପଙ୍କ ଅକାଉଣ୍ଟରେ ଯୋଡ଼ାଯାଇଛି ।",
@@ -266,6 +266,10 @@
   "plans.fanClub.userSettings": "ଆପଣଙ୍କ ଫାନ କ୍ଲବର ଚଢ଼ାଇ ଯୋଇଥିବାକୁ ପରିଚାଳିତ କରନ୍ତୁ",
   "plans.fanClub.subscribers": "ସଦସ୍ୟଗଣ",
   "plans.fanClub.activatedLabel": "ଫ୍ୟାନ୍ କ୍ଲବଟି ସକ୍ରିୟ ହୋଇଛି",
+  "fanClub.partner.label": "ଫ୍ୟାନ୍ କ୍ଲବ୍ ସଂଗଠନର ଅଂଶ ଅଟେ",
+  "fanClub.partner.none": "କିଛି ନାହିଁ — ସମସ୍ତ ରାଜସ୍ୱ ଆପଣଙ୍କ ପାଖରେ ରହେ",
+  "fanClub.partner.help": "ଯଦି ସଂଗଠନ ସହ ଆପଣଙ୍କ ଚୁକ୍ତିରେ ଆପଣଙ୍କ ଫ୍ୟାନ୍ କ୍ଲବ୍ ଅନ୍ତର୍ଭୁକ୍ତ, ତେବେ ଏଠାରେ ତାହା ବାଛନ୍ତୁ — ବାଛିବା ମୁହୂର୍ତ୍ତରେ ସଂଗଠନର ବର୍ତ୍ତମାନ ହାର ସ୍ଥିର ହୋଇଯାଏ।",
+  "fanClub.partner.breakdown": "ପ୍ଲାଟଫର୍ମ ଶୁଳ୍କ ବ୍ୟତୀତ, ଏହି ଫ୍ୟାନ୍ କ୍ଲବ୍‌ର ରାଜସ୍ୱର {org}% ସଂଗଠନ ପାଏ (ବାଛିବା ସମୟରେ ସ୍ଥିର)। ବର୍ତ୍ତମାନର ଗ୍ରାହକମାନଙ୍କ ପାଇଁ ମଧ୍ୟ ଲାଗୁ।",
   "plans.fanClub.inactiveWarning": "ଆପଣଙ୍କ ଫାନ୍ କ୍ଲବ ଏହି ମାମିଲାରେ ସକ୍ରିୟରେ ନୁହେଲେ, ସାଧାରଣ ସିଦ୍ଧାନ୍ତରେ ପଛକୁ ଆପଣ ଯୋଡ଼ିବାକୁ ଆଗେରି ଆସିପାରିବେ । ସେଟିଂସରେ ଏହି ସକ୍ରିୟରେ କରିପାରିବେ ।",
   "payment.fanClub.editTier": "Edit tier",
   "plans.deletePlan.modalAria": "Delete plan confirmation",
@@ -408,9 +412,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ଉନ୍ନତ ବ୍ଲଗ୍ ଡିଜାଇନ୍ (କଷ୍ଟମ୍ CSS)",
   "plans.feature.luSubdomain": "ଆପଣଙ୍କ ନିଜ Literary Universe ସବ୍‌ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
-  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
-  "fanClub.partner.label": "ଫ୍ୟାନ୍ କ୍ଲବ୍ ସଂଗଠନର ଅଂଶ ଅଟେ",
-  "fanClub.partner.none": "କିଛି ନାହିଁ — ସମସ୍ତ ରାଜସ୍ୱ ଆପଣଙ୍କ ପାଖରେ ରହେ",
-  "fanClub.partner.help": "ଯଦି ସଂଗଠନ ସହ ଆପଣଙ୍କ ଚୁକ୍ତିରେ ଆପଣଙ୍କ ଫ୍ୟାନ୍ କ୍ଲବ୍ ଅନ୍ତର୍ଭୁକ୍ତ, ତେବେ ଏଠାରେ ତାହା ବାଛନ୍ତୁ — ବାଛିବା ମୁହୂର୍ତ୍ତରେ ସଂଗଠନର ବର୍ତ୍ତମାନ ହାର ସ୍ଥିର ହୋଇଯାଏ।",
-  "fanClub.partner.breakdown": "ପ୍ଲାଟଫର୍ମ ଶୁଳ୍କ ବ୍ୟତୀତ, ଏହି ଫ୍ୟାନ୍ କ୍ଲବ୍‌ର ରାଜସ୍ୱର {org}% ସଂଗଠନ ପାଏ (ବାଛିବା ସମୟରେ ସ୍ଥିର)। ବର୍ତ୍ତମାନର ଗ୍ରାହକମାନଙ୍କ ପାଇଁ ମଧ୍ୟ ଲାଗୁ।"
+  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍"
 }

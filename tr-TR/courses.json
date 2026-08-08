@@ -116,7 +116,7 @@
   "course.type.paid": "Ücretli",
   "course.type.forSale": "Satılık",
   "course.type.invite": "Sadece Davetliler",
-  "courses.invites.tile": "{count, plural, one {kursuna} other {kurslarına}}katılmaya davetlisiniz.",
+  "courses.invites.tile": "{count, plural, one {Kursa} other {Kurslara}} katılmaya davetlisiniz.",
   "courses.invites.noInvites": "Şu anda herhangi bir kurs davetiyeniz yok.",
   "courses.invites.invitedBy": "Davet eden: ",
   "course.join.heading": "Bu Kursa Katılın",

@@ -20,7 +20,7 @@
   "organizationLibrary.tier.creatorPool": "Procent puli twórców",
   "organizationLibrary.tier.allocation": "Metryka podziału",
   "organizationLibrary.tier.savePolicy": "Zapisz zasady Biblioteki",
-  "organizationLibrary.paymentDescriptor": "LU Library",
+  "organizationLibrary.paymentDescriptor": "LU Biblioteka",
   "organizationLibrary.payoutReady": "Odbiorca wypłat gotowy",
   "organizationLibrary.payoutRequired": "Wymagana konfiguracja wypłat",
   "organizationLibrary.activeTiers": "{count, plural, one {# aktywny poziom} few {# aktywne poziomy} many {# aktywnych poziomów} other {# aktywnego poziomu}}",

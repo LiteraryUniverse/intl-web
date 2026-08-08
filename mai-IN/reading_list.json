@@ -13,7 +13,7 @@
   "readingList.edit.aria": "पढ़ने की सूची की सेटिंग्स संपादित करने के लिए मॉडल",
   "readingList.library.title": "आपकी पढ़ने की सूचियाँ",
   "readingList.public.label": "क्या सार्वजनिक रूप से दिखाई देता है?",
-  "readingList.addItem": "{type, select,\n    universes {यूनिवर्स की कहानी}\n    stories {कहानियाँ}\n    other {कहानियाँ और यूनिवर्स}\n  }जोड़ें",
+  "readingList.addItem": "{type, select,\n    universes {यूनिवर्स}\n    stories {कहानी}\n    other {कहानियाँ और यूनिवर्स}\n  } जोड़ें",
   "readingList.addItem.modalAria": "पढ़ने की सूची में {type, select,\n    universes {यूनिवर्स}\n    stories {कहानियाँ}\n    other {कहानियाँ और यूनिवर्स}\n  } जोड़ने के लिए मॉडल",
   "readingList.addItem.fromLibrary": "लाइब्रेरी से",
   "readingList.addItem.yourOwn": "Your own {type, select,\n    universes {universes}\n    stories {stories}\n    other {properties}\n  }",

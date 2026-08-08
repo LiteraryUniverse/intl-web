@@ -343,7 +343,7 @@
   "mobileMenu": "Mobil menü",
   "next": "Sonraki",
   "notVerified.msg": "Hesabınızın {option, select,\n    email {e-posta}\n    wallet {cüzdan}\n    other {e-posta}\n    } doğrulanmamış.",
-  "notVerified.verify": "Lütfen {option, select,\n    email {e-posta}\n    wallet {cüzdan}\n    other {e-posta}\n    }doğrulayın.",
+  "notVerified.verify": "Lütfen {option, select,\n    email {e-postanızı}\n    wallet {cüzdanınızı}\n    other {e-postanızı}\n    } doğrulayın.",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "Sınırlamanızı artırmak için yükseltmeyi düşünün.",
   "premium.only": "Not high enough membership rank",

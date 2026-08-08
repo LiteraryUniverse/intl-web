@@ -7,7 +7,7 @@
   "universe.fansettings.for": "{universe} Socruithe Bhfanna",
   "universe.fanfiction.stories": "Scéalta",
   "universe.fanfiction.fanarts": "Ealaín Lucht leanúna",
-  "universe.stories.count": "Níl aon scéalta anseo in {num, plural,\n    =0 {}\n    one {Tá scéal amháin anseo!}\n    other {Tá !<span class=\"notranslate\">#</span>! scéalta anseo!}\n    } sa chruinne seo.",
+  "universe.stories.count": "Níl aon scéalta anseo in {num, plural,\n    =0 {}\n    one {Tá scéal amháin anseo!}\n    other {Tá # scéalta anseo!}\n    } sa chruinne seo.",
   "universe.authors.title": "Údair",
   "universe.authors.desc": "Cruthaitheoirí agus cuiditheoirí d'aois {universe}",
   "universe.contributors": "Cuiditheoirí",

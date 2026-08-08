@@ -13,7 +13,7 @@
   "readingList.edit.aria": "Modaal om de instellingen van de leeslijst te bewerken",
   "readingList.library.title": "Jouw leeslijsten",
   "readingList.public.label": "Is publiekelijk zichtbaar?",
-  "readingList.addItem": "Voeg {type, select,\n    universes {universum}\n    stories {verhaal}\n    other {verhalen en universums}\n  }toe",
+  "readingList.addItem": "Voeg {type, select,\n    universes {universum}\n    stories {verhaal}\n    other {verhalen en universums}\n  } toe",
   "readingList.addItem.modalAria": "Modaal om {type, select,\n    universes {universums}\n    stories {verhalen}\n    other {verhalen en universums}\n  } toe te voegen aan de leeslijst.",
   "readingList.addItem.fromLibrary": "Uit bibliotheek",
   "readingList.addItem.yourOwn": "Uw eigen {type, select,\n    universes {universums}\n    stories {verhalen}\n    other {eigenschappen}\n  }",

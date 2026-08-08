@@ -1,5 +1,5 @@
 {
-  "email.enrollAccount.subject": "{usernameさん}Literary Universeへのお誘い",
+  "email.enrollAccount.subject": "{username}さんへ：Literary Universeへのお誘い",
   "email.enrollAccount.message": "こんにちは{username}\n\n\n    あなたをLiterary Univeseへご招待したいと思います。Literary Universeのすべての機能にアクセスできるよう特別な個人アカウントを作成しました。 次世代の創造性豊かなライティングおよびリーディングツールの作成にご参加ください。\n    アカウントを有効にするには、以下のリンクをクリックしてください:\n{url}",
   "email.resetPassword.subject": "Literary Universeパスワードリセット",
   "email.resetPassword.message": "こんにちは{username}!\n\n\n アカウントパスワードリセットリクエストを受け取りました。\n        以下のリンクに従って、パスワードをリセットしてください:\n\n{url}",

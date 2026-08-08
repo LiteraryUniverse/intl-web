@@ -22,7 +22,7 @@
   "roadmap.item.inPreview": "Esta función está disponible para los suscriptores de Storyteller desde {previewAt, date}.",
   "roadmap.item.inGa": "Esta función está disponible de forma generalizada desde el {gaAt, date}.",
   "roadmap.item.originalIssue": "Esta función fue sugerida originalmente por nuestros usuarios.",
-  "roadmap.eta.mapTitle": "¡Planeado para {quarter, select,\n    P1 {Q1}\n    P2 {Q2}\n    P3 {Q3}\n    P4 {Q4}\n    otro {}\n  } {year, date, ::yyyy}",
+  "roadmap.eta.mapTitle": "Planeado para {quarter, select,\n    Q1 {Q1}\n    Q2 {Q2}\n    Q3 {Q3}\n    Q4 {Q4}\n    other {}\n  } {year, date, ::yyyy}",
   "roadmap.eta.mapTitleFinished": "Finalizado el {time, date, ::MMMM ::yyyy}",
   "roadmap.back": "Volver a la hoja de ruta",
   "roadmap.seeBacklog": "Mira que otras cosas tenemos previsto hacer",

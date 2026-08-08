@@ -11,7 +11,7 @@
   "personalNotes.goToStory": "कथेत जा",
   "personalNotes.goToChapter": "अध्यायात जा",
   "personalNotes.goToEncyclopedia": "यूनिव्हर्सच्या ज्ञानकोशात जा",
-  "personalNotes.goToEncEntry": "प्रवेशक  उंची <span class=\"notranslate\">0</span>  <span class=\"notranslate\">1</span>",
+  "personalNotes.goToEncEntry": "प्रविष्टीत जा",
   "personalNotes.closeDropdown": "ड्रॉपडाउन बंद करा",
   "personalNotes.chapterName": "अध्याय {sequence} - {title}",
   "personalNotes.objectPersonalNotes": "{object} वैयक्तिक टिप्पण्या",

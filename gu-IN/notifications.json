@@ -13,7 +13,7 @@
   "notifications.menu.markUnread": "અવાચક તરીકે ગણો",
   "notifications.menu.markRead": "વાંચેનો તરીકે ગણો",
   "notifications.menu.delete": "નોટિફિકેશન કાઢો",
-  "notification.workshopStoryStatus.toHiatus": "તમારી વાર્તા {storyName} અચલતા પછી {{6}} મહિનાઓ પછી આપાધપીત થઇ ગઈ છે.",
+  "notification.workshopStoryStatus.toHiatus": "તમારી વાર્તા {storyName} અચલતા પછી 6 મહિનાઓ પછી આપાધપીત થઇ ગઈ છે.",
   "notification.orgWorkProposal.received": "{work} {organization}ને પ્રસ્તાવિત કરાઈ",
   "notification.orgWorkProposal.accepted": "{organization}એ તમારી કૃતિ {work} સ્વીકારી",
   "notification.orgWorkProposal.rejected": "{organization}એ તમારી કૃતિ {work} નકારી",

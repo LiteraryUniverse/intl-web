@@ -20,7 +20,7 @@
   "organizationLibrary.tier.creatorPool": "Creator-Pool-Anteil in Prozent",
   "organizationLibrary.tier.allocation": "Verteilungsmetrik",
   "organizationLibrary.tier.savePolicy": "Bibliotheksrichtlinie speichern",
-  "organizationLibrary.paymentDescriptor": "LU Library",
+  "organizationLibrary.paymentDescriptor": "LU Bibliothek",
   "organizationLibrary.payoutReady": "Auszahlungsempfänger eingerichtet",
   "organizationLibrary.payoutRequired": "Auszahlungseinrichtung erforderlich",
   "organizationLibrary.activeTiers": "{count, plural, one {# aktive Stufe} other {# aktive Stufen}}",

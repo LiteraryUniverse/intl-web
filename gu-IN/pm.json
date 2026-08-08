@@ -10,7 +10,7 @@
   "pm.to": "થી:",
   "pm.with": "સંવાદ સાથે:",
   "pm.send": "મોકલો",
-  "pm.conversations.unreadCount": "તમારા સંવાદોમાં કોઈ વાંચનયોગ્ય સંવાદો નથી {count, plural,\n    zero {ના વાંચનયોગ્ય સંવાદો}\n    one {એક વાંચનયોગ્ય સંવાદ}\n    other {# વાંચનયોગ્ય સંવાદો}\n  }છે.",
+  "pm.conversations.unreadCount": "તમારી પાસે {count, plural,\n    zero {કોઈ ન વાંચેલા સંવાદો નથી}\n    one {એક ન વાંચેલો સંવાદ છે}\n    other {# ન વાંચેલા સંવાદો છે}\n  }.",
   "pm.form.minimumParticipants": "તમે પ્રાપ્તિકર્તા પસંદ કરવી જ જોઈએ.",
   "pm.form.maxParticipants": "તમે એક સંભાષણમાં મહકામાં સુધી મહત્તમ {maxPeople, plural,\n    one {એક વ્યક્તિ હોઈ શકો છો! લોકોની સંખ્યા છે}\n    other {# લોકો}\n  } માં.",
   "pm.new.aria": "નવો સંવાદ",

@@ -4,7 +4,7 @@
   "user.friend.unfriend": "મિત્રતા તોડી નાંખો",
   "user.block": "બ્લોક કરો",
   "user.unblock": "અનબ્લોક કરો",
-  "user.joined": "{gender, select,\n    male {ને}\n    female {પર જોડાયેલી છે}\n    other {પર જોડાયેલી છે}} પર જોડાયેલી છે {date, date, long}પર જોડાયેલી છે!",
+  "user.joined": "{date, date, long}ના રોજ {gender, select,\n    male {જોડાયા}\n    female {જોડાયાં}\n    other {જોડાયા}}",
   "user.friend.request.accept": "મિત્રતાની વિનંતી સ્વીકારો",
   "user.friend.request.cancel": "મિત્રતાની વિનંતી રદ કરો",
   "user.friend.request.deny": "મિત્રતા નકારો",

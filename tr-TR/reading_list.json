@@ -13,7 +13,7 @@
   "readingList.edit.aria": "Okuma listesinin ayarlarını düzenlemek için iletişim kutusu",
   "readingList.library.title": "Okuma listeleriniz",
   "readingList.public.label": "Herkese açık mı?",
-  "readingList.addItem": "{type, select,\n    universes {evren}\n    stories {hikaye}\n    other {hikaye ve evren}\n  }ekle",
+  "readingList.addItem": "{type, select,\n    universes {Evren}\n    stories {Hikaye}\n    other {Hikaye ve evren}\n  } ekle",
   "readingList.addItem.modalAria": "Okuma listesine {type, select,\n    universes {evren}\n    stories {hikaye}\n    other {hikaye ve evren}\n  } ekleme iletişim kutusu",
   "readingList.addItem.fromLibrary": "Kütüphaneden",
   "readingList.addItem.yourOwn": "Kendinize ait {type, select,\n    universes {evrenler}\n    stories {hikayeler}\n    other {özellikler}\n  }",

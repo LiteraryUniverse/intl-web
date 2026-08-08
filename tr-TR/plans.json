@@ -125,7 +125,7 @@
   "payment.stripe.powered": "Tarafından sağlanmıştır ",
   "payment.listMethods.card": "Kartlar",
   "payment.expiresAt": "Son kullanma tarihi: {month}/{year}",
-  "payment.card.details": "{type, select,\n    credit {Kredi kartı}\n    debit {Banka kartı}\n    other {Kart}\n  } {last4}ile biten",
+  "payment.card.details": "{last4} ile biten {type, select,\n    credit {kredi kartı}\n    debit {banka kartı}\n    other {kart}\n  }",
   "payment.options.default": "Varsayılan",
   "payment.method.add": "Yeni bir ödeme yöntemi ekle",
   "payment.methods.adding": "Yeni ödeme yöntemi hesabınıza eklendi.",
@@ -266,6 +266,10 @@
   "plans.fanClub.userSettings": "Hayran kulübü aboneliklerinizi yönetin",
   "plans.fanClub.subscribers": "Aboneler",
   "plans.fanClub.activatedLabel": "Hayran Kulübü etkinleştirildi",
+  "fanClub.partner.label": "Hayran kulübü kuruluşun bir parçası",
+  "fanClub.partner.none": "Yok — tüm gelir sizde kalır",
+  "fanClub.partner.help": "Bir kuruluşla sözleşmeniz hayran kulübünüzü kapsıyorsa burada seçin — kuruluşun güncel oranı seçim anında sabitlenir.",
+  "fanClub.partner.breakdown": "Kuruluş, bu hayran kulübü gelirinin {org}%'sini platform ücretine ek olarak alır (seçim anında sabitlenir). Mevcut aboneler için de geçerlidir.",
   "plans.fanClub.inactiveWarning": "Hayran kulübünüz henüz etkinleştirilmedi, hala planlarınızı hazırlayabilir ve istediğiniz zaman ayarlardan etkinleştirebilirsiniz.",
   "payment.fanClub.editTier": "Katmanı düzenle",
   "plans.deletePlan.modalAria": "Plan onayını sil",
@@ -408,9 +412,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Gelişmiş blog tasarımı (özel CSS)",
   "plans.feature.luSubdomain": "Kendi Literary Universe alt alan adınızda blog",
-  "plans.feature.customDomain": "Kendi alan adınızda blog",
-  "fanClub.partner.label": "Hayran kulübü kuruluşun bir parçası",
-  "fanClub.partner.none": "Yok — tüm gelir sizde kalır",
-  "fanClub.partner.help": "Bir kuruluşla sözleşmeniz hayran kulübünüzü kapsıyorsa burada seçin — kuruluşun güncel oranı seçim anında sabitlenir.",
-  "fanClub.partner.breakdown": "Kuruluş, bu hayran kulübü gelirinin {org}%'sini platform ücretine ek olarak alır (seçim anında sabitlenir). Mevcut aboneler için de geçerlidir."
+  "plans.feature.customDomain": "Kendi alan adınızda blog"
 }

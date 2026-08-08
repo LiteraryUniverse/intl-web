@@ -125,7 +125,7 @@
   "payment.stripe.powered": "ਦੁਆਰਾ ਸ਼ਕਤੀਸ਼ਾਲਿਤ ",
   "payment.listMethods.card": "ਕਾਰਡਾਂ",
   "payment.expiresAt": "ਮਿਆਦ ਖਤਮ ਹੋਵੇਗੀ {month}/{year}",
-  "payment.card.details": "{type, select,\n    credit {ਕਰੈਡਿਟ ਕਾਰਡ}\n    debit {ਡੈਬਿਟ ਕਾਰਡ}\n    other {ਕਾਰਡ}\n  } ਦਾ ਅੰਤ {last4}ਨਾਲ",
+  "payment.card.details": "{type, select,\n    credit {ਕਰੈਡਿਟ ਕਾਰਡ}\n    debit {ਡੈਬਿਟ ਕਾਰਡ}\n    other {ਕਾਰਡ}\n  } ਜਿਸਦਾ ਅੰਤ {last4} ਨਾਲ ਹੁੰਦਾ ਹੈ",
   "payment.options.default": "ਮੂਲ",
   "payment.method.add": "ਨਵੀਂ ਭੁਗਤਾਨ ਵਿਧੀ ਸ਼ਾਮਲ ਕਰੋ",
   "payment.methods.adding": "ਤੁਹਾਡੀ ਨਵੀਂ ਭੁਗਤਾਨ ਵਿਧੀ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਜੋੜੀ ਗਈ ਹੈ।",
@@ -266,6 +266,10 @@
   "plans.fanClub.userSettings": "ਆਪਣੇ ਫੈਨ ਕਲੱਬ ਗਾਹਕੀਆਂ ਨੂੰ ਸੰਭਾਲੋ",
   "plans.fanClub.subscribers": "ਸਬਸਕਰਾਈਬਰਾਂ",
   "plans.fanClub.activatedLabel": "ਫੈਨ ਕਲੱਬ ਸ਼ੁਰੂ ਕੀਤਾ ਗਿਆ ਹੈ",
+  "fanClub.partner.label": "ਫੈਨ ਕਲੱਬ ਸੰਗਠਨ ਦਾ ਹਿੱਸਾ ਹੈ",
+  "fanClub.partner.none": "ਕੋਈ ਨਹੀਂ — ਸਾਰੀ ਆਮਦਨ ਤੁਹਾਡੇ ਕੋਲ ਰਹਿੰਦੀ ਹੈ",
+  "fanClub.partner.help": "ਜੇ ਕਿਸੇ ਸੰਗਠਨ ਨਾਲ ਤੁਹਾਡੇ ਇਕਰਾਰਨਾਮੇ ਵਿੱਚ ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ ਸ਼ਾਮਲ ਹੈ, ਤਾਂ ਇੱਥੇ ਉਸਨੂੰ ਚੁਣੋ — ਚੋਣ ਦੇ ਸਮੇਂ ਸੰਗਠਨ ਦੀ ਮੌਜੂਦਾ ਦਰ ਪੱਕੀ ਹੋ ਜਾਂਦੀ ਹੈ।",
+  "fanClub.partner.breakdown": "ਸੰਗਠਨ ਨੂੰ ਇਸ ਫੈਨ ਕਲੱਬ ਦੀ ਆਮਦਨ ਦਾ {org}% ਮਿਲਦਾ ਹੈ (ਚੋਣ ਵੇਲੇ ਪੱਕਾ), ਪਲੇਟਫਾਰਮ ਫ਼ੀਸ ਤੋਂ ਇਲਾਵਾ। ਇਹ ਮੌਜੂਦਾ ਸਬਸਕ੍ਰਾਈਬਰਾਂ 'ਤੇ ਵੀ ਲਾਗੂ ਹੁੰਦਾ ਹੈ।",
   "plans.fanClub.inactiveWarning": "ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ ਹਾਲੇ ਚਾਲੂ ਨਹੀਂ ਹੈ, ਤੁਸੀਂ ਹੁਣੇ ਹੀ ਯੋਜਨਾਵਾਂ ਤਿਆਰ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਜਦੋਂ ਤੁਹਾਡੀ ਤਿਆਰੀ ਹੋ ਜਾਵੇ ਤਾਂ ਤੁਸੀਂ ਇਹ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।",
   "payment.fanClub.editTier": "ਪੱਧਰ ਸੰਪਾਦਿਤ ਕਰੋ",
   "plans.deletePlan.modalAria": "ਯੋਜਨਾ ਦੀ ਪੁਸ਼ਟੀ ਮਿਟਾਓ",
@@ -408,9 +412,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ਉੱਨਤ ਬਲੌਗ ਡਿਜ਼ਾਈਨ (ਕਸਟਮ CSS)",
   "plans.feature.luSubdomain": "ਤੁਹਾਡੇ ਆਪਣੇ Literary Universe ਸਬਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
-  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
-  "fanClub.partner.label": "ਫੈਨ ਕਲੱਬ ਸੰਗਠਨ ਦਾ ਹਿੱਸਾ ਹੈ",
-  "fanClub.partner.none": "ਕੋਈ ਨਹੀਂ — ਸਾਰੀ ਆਮਦਨ ਤੁਹਾਡੇ ਕੋਲ ਰਹਿੰਦੀ ਹੈ",
-  "fanClub.partner.help": "ਜੇ ਕਿਸੇ ਸੰਗਠਨ ਨਾਲ ਤੁਹਾਡੇ ਇਕਰਾਰਨਾਮੇ ਵਿੱਚ ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ ਸ਼ਾਮਲ ਹੈ, ਤਾਂ ਇੱਥੇ ਉਸਨੂੰ ਚੁਣੋ — ਚੋਣ ਦੇ ਸਮੇਂ ਸੰਗਠਨ ਦੀ ਮੌਜੂਦਾ ਦਰ ਪੱਕੀ ਹੋ ਜਾਂਦੀ ਹੈ।",
-  "fanClub.partner.breakdown": "ਸੰਗਠਨ ਨੂੰ ਇਸ ਫੈਨ ਕਲੱਬ ਦੀ ਆਮਦਨ ਦਾ {org}% ਮਿਲਦਾ ਹੈ (ਚੋਣ ਵੇਲੇ ਪੱਕਾ), ਪਲੇਟਫਾਰਮ ਫ਼ੀਸ ਤੋਂ ਇਲਾਵਾ। ਇਹ ਮੌਜੂਦਾ ਸਬਸਕ੍ਰਾਈਬਰਾਂ 'ਤੇ ਵੀ ਲਾਗੂ ਹੁੰਦਾ ਹੈ।"
+  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ"
 }

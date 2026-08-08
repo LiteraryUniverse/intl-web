@@ -876,7 +876,7 @@
   "mobileMenu": "Menu di động",
   "next": "Tiếp theo",
   "notVerified.msg": "Tài khoản của bạn {option, select,\n    email {email}\n    wallet {ví}\n    other {email}\n    } chưa được xác minh.",
-  "notVerified.verify": "Vui lòng xác minh {option, select,\n    email {email}\n    wallet {ví}\n    other {email}\n    }của bạn.",
+  "notVerified.verify": "Vui lòng xác minh {option, select,\n    email {email}\n    wallet {ví}\n    other {email}\n    } của bạn.",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "Xem xét nâng cấp để tăng giới hạn của bạn.",
   "premium.only": "Not high enough membership rank",

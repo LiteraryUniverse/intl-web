@@ -116,7 +116,11 @@ async function main() {
   console.log('Done.')
 }
 
-main().catch((error) => {
+// Awaited at the top level so importers (the app's intl:export-public shim)
+// block until every index.json is written. Without the await the module's
+// evaluation promise resolves as soon as main() is *called*, and the export
+// races ahead copying half-written bundles.
+await main().catch((error) => {
   console.error(error.message || error)
   process.exit(1)
 })

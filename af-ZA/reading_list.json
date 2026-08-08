@@ -13,7 +13,7 @@
   "readingList.edit.aria": "Modale venster om leeslys se instellings te wysig",
   "readingList.library.title": "Jou leeslyste",
   "readingList.public.label": "Is dit openbaar sigbaar?",
-  "readingList.addItem": "Voeg {type, select,\n    universes {heelal}\n    stories {storie}\n    other {stories en heelale}\n  }by",
+  "readingList.addItem": "Voeg {type, select,\n    universes {heelal}\n    stories {storie}\n    other {stories en heelalle}\n  } by",
   "readingList.addItem.modalAria": "Modale venster om {type, select,\n    universes {heelale}\n    stories {stories}\n    other {stories en heelale}\n  } by die leeslys te voeg.",
   "readingList.addItem.fromLibrary": "Vanaf biblioteek",
   "readingList.addItem.yourOwn": "Your own {type, select,\n    universes {universes}\n    stories {stories}\n    other {properties}\n  }",

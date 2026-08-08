@@ -22,7 +22,7 @@
   "roadmap.item.inPreview": "Esta funcionalidade ficou disponível aos subscritores do Contador de Histórias em {previewAt, date}.",
   "roadmap.item.inGa": "Esta funcionalidade tornou-se disponível geralmente no {gaAt, date}.",
   "roadmap.item.originalIssue": "Esta funcionalidade foi originalmente sugerida pelos nossos utilizadores.",
-  "roadmap.eta.mapTitle": "Planeado para {quarter, select,\n    T1 {Q1}\n    T2 {Q2}\n    T3 {Q3}\n    T4 {Q4}\n    Outro {}\n  } {year, date, ::yyyy}",
+  "roadmap.eta.mapTitle": "Planeado para {quarter, select,\n    Q1 {Q1}\n    Q2 {Q2}\n    Q3 {Q3}\n    Q4 {Q4}\n    other {}\n  } {year, date, ::yyyy}",
   "roadmap.eta.mapTitleFinished": "Terminado em {time, date, ::MMMM ::yyyy}",
   "roadmap.back": "Voltar ao roteiro",
   "roadmap.seeBacklog": "Veja que outras coisas planeamos fazer",

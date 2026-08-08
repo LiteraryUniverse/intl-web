@@ -18,7 +18,7 @@
   "challenges.future": "আসন্ন চ্যালেঞ্জসমূহ",
   "challenges.future.wordcount": "শব্দগণনা চ্যালেঞ্জ {startDate, date, short} শুরু হচ্ছে, লক্ষ্য হচ্ছে {target, number} শব্দ লিখতে {endDate, date, short}এর মাধ্যমে।",
   "challenges.wordcount": "শব্দ গণনা",
-  "challenges.wordcount.desc": "এই {type, select,\n    story {গল্প}\n    universe {ইউনিভার্স}\n    other {}\n  }জন্য এই মাসে আপনি কতগুলি শব্দ লিখতে চান তা নির্ধারণ করুন।",
+  "challenges.wordcount.desc": "এই {type, select,\n    story {গল্প}\n    universe {ইউনিভাৰ্স}\n    other {}\n  }ৰ বাবে এই মাহত আপুনি কিমান শব্দ লিখিব বিচাৰে তাৰ লক্ষ্য নিৰ্ধাৰণ কৰক।",
   "challenges.wordcount.select": "আপনি কতগুলি শব্দের চ্যালেঞ্জ নিতে চান?",
   "challenges.start": "চ্যালেঞ্জ শুরু করুন",
   "challenges.report": "রিপোর্ট",

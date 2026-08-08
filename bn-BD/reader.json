@@ -44,7 +44,7 @@
   "reader.nextChapterEstimation.notEnoughChapters": "এই গল্পে একটি অধ্যায়ের বেশি হওয়ায়, পরবর্তী অধ্যায়ের প্রকাশের তথ্য আমরা প্রদান করব।",
   "reader.comments.chapterNotAvailable": "No comments available yet. This is because chapter is not yet released.",
   "reader.purchaseGate.title": "এই অধ্যায়টি ক্রয় করতে হবে।",
-  "reader.purchaseGate.description": "{storyTitle}{authorName, select, undefined {} other { by {authorName}}}পড়া চালিয়ে যেতে, আপনাকে এটি কিনতে হবে।",
+  "reader.purchaseGate.description": "{storyTitle}{authorName, select, undefined {} other { ({authorName} রচিত)}} পড়া চালিয়ে যেতে, আপনাকে এটি কিনতে হবে।",
   "reader.purchaseGate.buyArc": "অথবা এই আর্কটি কিনুন",
   "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} অধ্যায়} other {{count} অধ্যায়সমূহ}} অন্তর্ভুক্ত",
   "story.chapter.freePreview": "Free",

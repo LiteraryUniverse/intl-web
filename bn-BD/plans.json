@@ -125,7 +125,7 @@
   "payment.stripe.powered": "পাওয়ার জন্য ",
   "payment.listMethods.card": "কার্ডগুলি",
   "payment.expiresAt": "মেয়াদ শেষ হয় {month}/{year}",
-  "payment.card.details": "{type, select,\n    credit {ক্রেডিট কার্ড}\n    debit {ডেবিট কার্ড}\n    other {কার্ড}\n  } শেষ হয়েছে {last4}দিয়ে",
+  "payment.card.details": "{type, select,\n    credit {ক্রেডিট কার্ড}\n    debit {ডেবিট কার্ড}\n    other {কার্ড}\n  } {last4} দিয়ে শেষ হয়েছে",
   "payment.options.default": "ডিফল্ট",
   "payment.method.add": "নতুন পেমেন্ট পদ্ধতি যোগ করুন",
   "payment.methods.adding": "আপনার নতুন পেমেন্ট পদ্ধতি আপনার অ্যাকাউন্টে যোগ করা হয়েছে।",
@@ -266,6 +266,10 @@
   "plans.fanClub.userSettings": "আপনার ফ্যান ক্লাব সাবস্ক্রিপশনগুলি পরিচালনা করুন",
   "plans.fanClub.subscribers": "সাবস্ক্রাইবারগণ",
   "plans.fanClub.activatedLabel": "ফ্যান ক্লাব সক্রিয় হয়েছে",
+  "fanClub.partner.label": "ফ্যান ক্লাব প্রতিষ্ঠানের অংশ",
+  "fanClub.partner.none": "কোনওটি নয় — সমস্ত আয় আপনার কাছেই থাকে",
+  "fanClub.partner.help": "যদি কোনও প্রতিষ্ঠানের সঙ্গে আপনার চুক্তিতে আপনার ফ্যান ক্লাব অন্তর্ভুক্ত থাকে, এখানে সেটি নির্বাচন করুন — নির্বাচনের মুহূর্তে প্রতিষ্ঠানের বর্তমান হার স্থির হয়ে যায়।",
+  "fanClub.partner.breakdown": "প্ল্যাটফর্ম ফি-র অতিরিক্ত হিসেবে প্রতিষ্ঠান এই ফ্যান ক্লাবের আয়ের {org}% পায় (নির্বাচনের সময় স্থির)। বর্তমান সাবস্ক্রাইবারদের ক্ষেত্রেও প্রযোজ্য।",
   "plans.fanClub.inactiveWarning": "আপনার ফ্যান ক্লাবটি এখনও সক্রিয় হয়নি, আপনি এখনও পরিকল্পনা তৈরি করতে পারেন এবং একবার প্রস্তুত হলে এটি সেটিংসে সক্রিয় করতে পারেন।",
   "payment.fanClub.editTier": "স্তর সম্পাদনা করুন",
   "plans.deletePlan.modalAria": "পরিকল্পনা নিশ্চিতকরণ মুছুন",
@@ -408,9 +412,5 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "উন্নত ব্লগ ডিজাইন (কাস্টম CSS)",
   "plans.feature.luSubdomain": "আপনার নিজস্ব Literary Universe সাবডোমেইনে ব্লগ",
-  "plans.feature.customDomain": "আপনার নিজস্ব ডোমেইনে ব্লগ",
-  "fanClub.partner.label": "ফ্যান ক্লাব প্রতিষ্ঠানের অংশ",
-  "fanClub.partner.none": "কোনওটি নয় — সমস্ত আয় আপনার কাছেই থাকে",
-  "fanClub.partner.help": "যদি কোনও প্রতিষ্ঠানের সঙ্গে আপনার চুক্তিতে আপনার ফ্যান ক্লাব অন্তর্ভুক্ত থাকে, এখানে সেটি নির্বাচন করুন — নির্বাচনের মুহূর্তে প্রতিষ্ঠানের বর্তমান হার স্থির হয়ে যায়।",
-  "fanClub.partner.breakdown": "প্ল্যাটফর্ম ফি-র অতিরিক্ত হিসেবে প্রতিষ্ঠান এই ফ্যান ক্লাবের আয়ের {org}% পায় (নির্বাচনের সময় স্থির)। বর্তমান সাবস্ক্রাইবারদের ক্ষেত্রেও প্রযোজ্য।"
+  "plans.feature.customDomain": "আপনার নিজস্ব ডোমেইনে ব্লগ"
 }

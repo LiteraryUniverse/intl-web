@@ -343,7 +343,7 @@
   "mobileMenu": "মোবাইল মেনু",
   "next": "পৰৱৰ্তী",
   "notVerified.msg": "আপোনাৰ একাউণ্ট {option, select,\n    email {ইমেইল}\n    wallet {ওয়ালেট}\n    other {ইমেইল}\n    } যাচাই কৰা হোৱা নাই।",
-  "notVerified.verify": "অনুগ্ৰহ কৰি আপোনাৰ {option, select,\n    email {ইমেইল}\n    wallet {ওয়ালেট}\n    other {ইমেইল}\n    }যাচাই কৰক।",
+  "notVerified.verify": "অনুগ্ৰহ কৰি আপোনাৰ {option, select,\n    email {ইমেইল}\n    wallet {ওয়ালেট}\n    other {ইমেইল}\n    } যাচাই কৰক।",
   "notice.thankYou": "আপোনাৰ সমৰ্থনৰ বাবে ধন্যবাদ!",
   "premium.increaseLimit": "আপোনাৰ সীমা বৃদ্ধি কৰিবলৈ আপগ্ৰেড কৰক।",
   "premium.only": "পৰ্যাপ্ত উচ্চ সদস্যপদ স্তৰ নাই",

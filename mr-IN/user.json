@@ -1,10 +1,10 @@
 {
   "user.friend.request.add": "मित्रांमध्ये जोडा",
-  "user.friend.requests": "तुम्हाला {num, number} नवीन मित्र {num, plural,\n    zero {विनंती}\n    one {विनंती}\n    many {विनंती}\n    other {विनंती}\n  }आहेत",
+  "user.friend.requests": "तुम्हाला {num, number} नवीन मित्र {num, plural,\n    zero {विनंत्या}\n    one {विनंती}\n    many {विनंत्या}\n    other {विनंत्या}\n  } आहेत",
   "user.friend.unfriend": "मित्रत्व तोडा",
   "user.block": "ब्लॉक करा",
   "user.unblock": "अनब्लॉक करा",
-  "user.joined": "{gender, select,\n    male {ने}\n    female {वर जॉईन केले}\n    other {वर जॉईन केले}} वर जॉईन केले {date, date, long}वर",
+  "user.joined": "{date, date, long} रोजी {gender, select,\n    male {सामील झाले}\n    female {सामील झाल्या}\n    other {सामील झाले}}",
   "user.friend.request.accept": "मित्रत्व विनंती स्वीकारा",
   "user.friend.request.cancel": "मित्रत्व विनंती रद्द करा",
   "user.friend.request.deny": "मित्रत्व निराकरण करा",

@@ -343,7 +343,7 @@
   "mobileMenu": "Mobile menu",
   "next": "ପରବର୍ତ୍ତୀ",
   "notVerified.msg": "ଆପଣଙ୍କର ଅକାଉଣ୍ଟ {option, select,\n    email {ଇମେଲ}\n    wallet {ଓଲେଟ}\n    other {ଇମେଲ}\n    } ଯାଞ୍ଚିତ ନାହିଁ |",
-  "notVerified.verify": "ଦୟାକରି ଆପଣଙ୍କର {option, select,\n    email {ଇମେଲ}\n    wallet {ଓଲେଟ}\n    other {ଇମେଲ}\n    }ଯାଞ୍ଚିତ କରନ୍ତୁ |",
+  "notVerified.verify": "ଦୟାକରି ଆପଣଙ୍କର {option, select,\n    email {ଇମେଲ}\n    wallet {ଓଲେଟ}\n    other {ଇମେଲ}\n    } ଯାଞ୍ଚ କରନ୍ତୁ।",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "ଆପଣଙ୍କୁ ଆପଣଙ୍କର ମର୍ଯ୍ୟାଦା ବୃଦ୍ଧି କରିବା ପାଇଁ ଆପଗ୍ରେଡ୍ କରନ୍ତୁ।",
   "premium.only": "Not high enough membership rank",

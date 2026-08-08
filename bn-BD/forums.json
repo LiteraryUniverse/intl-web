@@ -48,7 +48,7 @@
   "forums.reset": "রিসেট করুন",
   "forums.settings": "ফোরাম সেটিংস",
   "forums.settings.accessControls": "অ্যাক্সেস নিয়ন্ত্রণ",
-  "forums.thread.createdAt": "{createdAt, date, medium}তৈরি করা হয়েছে !<span class=\"notranslate\">1</span>!",
+  "forums.thread.createdAt": "{createdAt, date, medium} তৈরি করা হয়েছে",
   "forums.thread.delete": "থ্রেড মুছুন",
   "forums.thread.new": "নতুন থ্রেড",
   "forums.thread.noReplies": "এখানে বর্তমানে কোনও উত্তর নেই।",

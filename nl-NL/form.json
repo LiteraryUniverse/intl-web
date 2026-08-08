@@ -5,7 +5,7 @@
   "form.validator.minNumber": "Moet groter zijn dan {min, number}",
   "form.validator.maxNumber": "Moet lager zijn dan {max, number}",
   "form.validator.maxLength": "Moet kleiner zijn dan {max, number} {what, select,\n    characters {karakters}\n    tags {tags}\n    genres {genres}\n    numbers {nummers}\n    other {}\n  }",
-  "form.validator.minLength": "Moet minstens {min, number} {what, select,\n    characters {karakters}\n    tags {tags}\n    genres {genres}\n    genre {genre}\n    numbers {nummers}\n    other {}\n  }zijn",
+  "form.validator.minLength": "Moet minstens {min, number} {what, select,\n    characters {karakters}\n    tags {tags}\n    genres {genres}\n    genre {genre}\n    numbers {nummers}\n    other {}\n  } zijn",
   "form.validator.email": "Moet een geldig e-mailadres zijn",
   "form.validator.url": "Moet een geldige URL zijn",
   "form.validator.slug": "Moet een geldig onderdeel van de URL zijn",

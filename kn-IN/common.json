@@ -343,7 +343,7 @@
   "mobileMenu": "ಮೊಬೈಲ್ ಮೆನು",
   "next": "ಮುಂದುವರೆಸು",
   "notVerified.msg": "ನಿಮ್ಮ ಖಾತೆ {option, select,\n    email {ಇ-ಮೇಲು}\n    wallet {ವಾಲೆಟ್}\n    other {ಇ-ಮೇಲು}\n    } ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟಿದೆ.",
-  "notVerified.verify": "ದಯವಿಟ್ಟು ನಿಮ್ಮ {option, select,\n    email {ಇ-ಮೇಲು}\n    wallet {ವಾಲೆಟ್}\n    other {ಇ-ಮೇಲು}\n    }ಪರಿಶೀಲಿಸಿ.",
+  "notVerified.verify": "ದಯವಿಟ್ಟು ನಿಮ್ಮ {option, select,\n    email {ಇ-ಮೇಲು}\n    wallet {ವಾಲೆಟ್}\n    other {ಇ-ಮೇಲು}\n    } ಪರಿಶೀಲಿಸಿ.",
   "notice.thankYou": "Thank you for your support!",
   "premium.increaseLimit": "ನಿಮ್ಮ ಮಿತಿಯನ್ನು ಹೆಚ್ಚಿಸಲು ಮೆಚ್ಚುಗೆಯಾಗಿ ಮೆರುಗುವುದನ್ನು ಪರಿಗಣಿಸಿ.",
   "premium.only": "Not high enough membership rank",
