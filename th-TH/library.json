@@ -1,6 +1,7 @@
 {
   "library.add": "เพิ่มลงในห้องสมุด",
   "library.remove": "เอาออกจากห้องสมุด",
+  "library.inLibrary": "อยู่ในห้องสมุด",
   "library.bought": "เรื่องที่ซื้อแล้ว",
   "library.stories": "เรื่องที่ติดตาม",
   "library.universes": "จำนวนยูนิเวิร์สที่ติดตาม",

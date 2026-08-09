@@ -1,6 +1,7 @@
 {
   "library.add": "បន្ថែម​ទៅ​ក្រុមបណ្ដុំ",
   "library.remove": "យកចេញ​ពី​ក្រុមបណ្ដុំ",
+  "library.inLibrary": "នៅក្នុងបណ្ណាល័យ",
   "library.bought": "របៀប​បញ្ជាទិញ​របស់​របរ",
   "library.stories": "របៀប​តាមដាន​របរ",
   "library.universes": "ការតាមដានជីវិតរបស់ជនជាតិ",

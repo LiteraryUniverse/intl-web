@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Historieanbefalinger",
+  "settings.recommendations.mode": "Hvordan skal vi anbefale historier til dig?",
+  "settings.recommendations.automatic": "Automatisk (standard for din region)",
+  "settings.recommendations.personalised": "Personaliseret",
+  "settings.recommendations.community": "Fællesskab",
+  "settings.recommendations.chronological": "Kronologisk",
+  "settings.recommendations.explained": "Personaliseret bruger din læseaktivitet og dine yndlingsgenrer. Fællesskab viser, hvad der er populært blandt alle læsere, uden profilering. Kronologisk viser kun det nyeste indhold og de historier, du udtrykkeligt følger."
 }

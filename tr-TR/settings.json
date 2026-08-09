@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Hikâye önerileri",
+  "settings.recommendations.mode": "Size hikâyeleri nasıl önerelim?",
+  "settings.recommendations.automatic": "Otomatik (bölgeniz için varsayılan)",
+  "settings.recommendations.personalised": "Kişiselleştirilmiş",
+  "settings.recommendations.community": "Topluluk",
+  "settings.recommendations.chronological": "Kronolojik",
+  "settings.recommendations.explained": "Kişiselleştirilmiş mod okuma etkinliğinizi ve favori türlerinizi kullanır. Topluluk modu profilleme yapmadan tüm okuyucular arasında popüler olanları gösterir. Kronolojik mod yalnızca en yeni içeriği ve açıkça takip ettiğiniz hikâyeleri gösterir."
 }

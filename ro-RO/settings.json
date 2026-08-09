@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Recomandări de povești",
+  "settings.recommendations.mode": "Cum ar trebui să îți recomandăm povești?",
+  "settings.recommendations.automatic": "Automat (implicit pentru regiunea ta)",
+  "settings.recommendations.personalised": "Personalizat",
+  "settings.recommendations.community": "Comunitate",
+  "settings.recommendations.chronological": "Cronologic",
+  "settings.recommendations.explained": "Modul personalizat folosește activitatea ta de lectură și genurile preferate. Modul comunitate arată ce este popular printre toți cititorii, fără profilare. Modul cronologic arată doar conținutul cel mai nou și poveștile pe care le urmărești explicit."
 }

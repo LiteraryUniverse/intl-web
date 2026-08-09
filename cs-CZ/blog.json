@@ -186,5 +186,15 @@
   "blog.domains.available": "Dostupná!",
   "blog.domains.customComing": "Připojení vlastní domény (např. blog.vasejmeno.cz) již brzy.",
   "blog.post.viewPublished": "Zobrazit publikovaný příspěvek",
-  "blog.post.edit": "Upravit příspěvek"
+  "blog.post.edit": "Upravit příspěvek",
+  "blog.qa.autoQuestion.author.1": "Co vás inspirovalo k tomu, abyste začali psát?",
+  "blog.qa.autoQuestion.author.2": "Která část tvůrčího procesu vás baví nejvíce?",
+  "blog.qa.autoQuestion.author.3": "Která z vašich postav je vám nejbližší a proč?",
+  "blog.qa.autoQuestion.author.4": "Jakou radu byste dali začínajícím spisovatelům?",
+  "blog.qa.autoQuestion.author.5": "Na čem právě teď pracujete?",
+  "blog.qa.autoQuestion.universe.1": "Jaká je základní myšlenka za {name}?",
+  "blog.qa.autoQuestion.universe.2": "Jak jste začali budovat svět {name}?",
+  "blog.qa.autoQuestion.universe.3": "Čím je {name} jedinečný ve srovnání s jinými světy?",
+  "blog.qa.autoQuestion.universe.4": "Je v {name} nějaké místo nebo postava, které fanoušci často přehlížejí?",
+  "blog.qa.autoQuestion.universe.5": "Co čeká příběhy odehrávající se v {name} dál?"
 }

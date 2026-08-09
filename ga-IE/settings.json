@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Moltaí scéalta",
+  "settings.recommendations.mode": "Conas ba chóir dúinn scéalta a mholadh duit?",
+  "settings.recommendations.automatic": "Uathoibríoch (réamhshocrú do do réigiún)",
+  "settings.recommendations.personalised": "Pearsantaithe",
+  "settings.recommendations.community": "Pobal",
+  "settings.recommendations.chronological": "Croineolaíoch",
+  "settings.recommendations.explained": "Úsáideann an mód pearsantaithe do ghníomhaíocht léitheoireachta agus na seánraí is fearr leat. Taispeánann an mód pobail a bhfuil coitianta i measc na léitheoirí uile, gan phróifíliú. Ní thaispeánann an mód croineolaíoch ach an t-ábhar is nuaí agus na scéalta a leanann tú go sainráite."
 }

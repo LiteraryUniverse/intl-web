@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Νέο κεφάλαιο διαθέσιμο: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Νέο κεφάλαιο που δημοσιεύθηκε",
   "email.comics.chapterPublished.details": "Κόμικ: {comicTitle} - Ιστορία: Κεφάλαιο: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Ανοίξτε το κεφάλαιο"
+  "email.comics.chapterPublished.cta": "Ανοίξτε το κεφάλαιο",
+  "email.notifications.qaNewQuestion.subject": "Νέα ερώτηση στο {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Νέα ερώτηση στο {blogName} από {askerName}",
+  "email.notifications.qaNewQuestion.title": "Έχετε μια νέα ερώτηση!",
+  "email.notifications.qaNewQuestion.details": "Ο/Η {askerName} έκανε μια ερώτηση στο blog σας \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "Απάντηση στην ερώτηση",
+  "email.notifications.qaAnswerReceived.subject": "Ο/Η {authorName} απάντησε στην ερώτησή σας",
+  "email.notifications.qaAnswerReceived.preview": "Ο/Η {authorName} απάντησε στην ερώτησή σας στο {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Η ερώτησή σας απαντήθηκε!",
+  "email.notifications.qaAnswerReceived.details": "Ο/Η {authorName} απάντησε στην ερώτησή σας στο \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "Αυτή η απάντηση είναι ιδιωτική και ορατή μόνο σε εσάς.",
+  "email.notifications.qaAnswerReceived.cta": "Προβολή απάντησης"
 }

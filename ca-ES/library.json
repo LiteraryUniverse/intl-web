@@ -1,6 +1,7 @@
 {
   "library.add": "Afegir a la biblioteca",
   "library.remove": "Eliminar de la biblioteca",
+  "library.inLibrary": "A la biblioteca",
   "library.bought": "Històries comprades",
   "library.stories": "Històries seguides",
   "library.universes": "Followed universes",

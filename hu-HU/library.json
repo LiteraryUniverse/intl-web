@@ -1,6 +1,7 @@
 {
   "library.add": "Hozzáadás a könyvtárhoz",
   "library.remove": "Eltávolítás a könyvtárból",
+  "library.inLibrary": "A könyvtárban",
   "library.bought": "Megvásárolt történetek",
   "library.stories": "Követett történetek",
   "library.universes": "Követett univerzumok",

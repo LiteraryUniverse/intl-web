@@ -186,5 +186,15 @@
   "blog.domains.available": "Διαθέσιμος!",
   "blog.domains.customComing": "Η σύνδεση δικού σας τομέα (όπως blog.toonomasas.gr) έρχεται σύντομα.",
   "blog.post.viewPublished": "Προβολή δημοσιευμένης ανάρτησης",
-  "blog.post.edit": "Επεξεργασία ανάρτησης"
+  "blog.post.edit": "Επεξεργασία ανάρτησης",
+  "blog.qa.autoQuestion.author.1": "Τι σας ενέπνευσε να ξεκινήσετε να γράφετε;",
+  "blog.qa.autoQuestion.author.2": "Ποιο είναι το αγαπημένο σας μέρος της δημιουργικής διαδικασίας;",
+  "blog.qa.autoQuestion.author.3": "Ποιος από τους χαρακτήρες σας σας αγγίζει περισσότερο, και γιατί;",
+  "blog.qa.autoQuestion.author.4": "Τι συμβουλή θα δίνατε σε νέους συγγραφείς;",
+  "blog.qa.autoQuestion.author.5": "Σε τι δουλεύετε αυτή τη στιγμή;",
+  "blog.qa.autoQuestion.universe.1": "Ποια είναι η βασική ιδέα πίσω από το {name};",
+  "blog.qa.autoQuestion.universe.2": "Πώς ξεκινήσατε να χτίζετε τον κόσμο του {name};",
+  "blog.qa.autoQuestion.universe.3": "Τι κάνει το {name} μοναδικό σε σύγκριση με άλλα σκηνικά;",
+  "blog.qa.autoQuestion.universe.4": "Υπάρχει τοποθεσία ή χαρακτήρας στο {name} που οι θαυμαστές συχνά παραβλέπουν;",
+  "blog.qa.autoQuestion.universe.5": "Τι ακολουθεί για τις ιστορίες που διαδραματίζονται στο {name};"
 }

@@ -1,6 +1,7 @@
 {
   "library.add": "पुस्तकालय में जोड़ें",
   "library.remove": "पुस्तकालय से हटाएँ",
+  "library.inLibrary": "लाइब्रेरी में है",
   "library.bought": "खरीदी गई कहानियाँ",
   "library.stories": "फ़ॉलो की गई कहानियाँ",
   "library.universes": "फ़ॉलो किए गए यूनिवर्सेस",

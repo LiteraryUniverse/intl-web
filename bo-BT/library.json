@@ -1,6 +1,7 @@
 {
   "library.add": "ལེན་པའི་ཡིག་ཆ་བསྐྱེད་པ།",
   "library.remove": "ལེན་པའི་ཡིག་ཆ་བསྐོར་བ།",
+  "library.inLibrary": "དཔེ་མཛོད་ནང་ཡོད།",
   "library.bought": "བསྐྱེད་པའི་བརྗོད་ཚུ།",
   "library.stories": "བརྗོད་ཚུ་བསྐྱེད་པ།",
   "library.universes": "བདེ་བ་འདི་ཚུ་བཙུག་རུས་བརྗོད་པ།",

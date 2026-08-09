@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "新章スタート\"{comicTitle}\"",
   "email.comics.chapterPublished.title": "新章を発表",
   "email.comics.chapterPublished.details": "ストーリー {comicTitle} - 章 {chapterTitle}",
-  "email.comics.chapterPublished.cta": "章を開く"
+  "email.comics.chapterPublished.cta": "章を開く",
+  "email.notifications.qaNewQuestion.subject": "{blogName} に新しい質問があります",
+  "email.notifications.qaNewQuestion.preview": "{blogName} への {askerName} からの新しい質問",
+  "email.notifications.qaNewQuestion.title": "新しい質問があります！",
+  "email.notifications.qaNewQuestion.details": "{askerName} がブログ「{blogName}」に質問しました：",
+  "email.notifications.qaNewQuestion.cta": "質問に回答する",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} があなたの質問に回答しました",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} が {blogName} でのあなたの質問に回答しました",
+  "email.notifications.qaAnswerReceived.title": "質問に回答がありました！",
+  "email.notifications.qaAnswerReceived.details": "{authorName} が「{blogName}」でのあなたの質問に回答しました：",
+  "email.notifications.qaAnswerReceived.privateNote": "この回答は非公開で、あなただけが閲覧できます。",
+  "email.notifications.qaAnswerReceived.cta": "回答を見る"
 }

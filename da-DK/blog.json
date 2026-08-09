@@ -186,5 +186,15 @@
   "blog.domains.available": "Tilgængeligt!",
   "blog.domains.customComing": "Tilslutning af eget domæne (som blog.ditnavn.dk) kommer snart.",
   "blog.post.viewPublished": "Se publiceret indlæg",
-  "blog.post.edit": "Rediger indlæg"
+  "blog.post.edit": "Rediger indlæg",
+  "blog.qa.autoQuestion.author.1": "Hvad inspirerede dig til at begynde at skrive?",
+  "blog.qa.autoQuestion.author.2": "Hvilken del af den kreative proces kan du bedst lide?",
+  "blog.qa.autoQuestion.author.3": "Hvilken af dine karakterer ligger dig nærmest, og hvorfor?",
+  "blog.qa.autoQuestion.author.4": "Hvilket råd ville du give til nye forfattere?",
+  "blog.qa.autoQuestion.author.5": "Hvad arbejder du på i øjeblikket?",
+  "blog.qa.autoQuestion.universe.1": "Hvad er kerneidéen bag {name}?",
+  "blog.qa.autoQuestion.universe.2": "Hvordan begyndte du at bygge verden i {name}?",
+  "blog.qa.autoQuestion.universe.3": "Hvad gør {name} unikt sammenlignet med andre settings?",
+  "blog.qa.autoQuestion.universe.4": "Er der et sted eller en karakter i {name}, som fans ofte overser?",
+  "blog.qa.autoQuestion.universe.5": "Hvad er det næste for historierne i {name}?"
 }

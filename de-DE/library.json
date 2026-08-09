@@ -1,6 +1,7 @@
 {
   "library.add": "Zur Bibliothek hinzufügen",
   "library.remove": "Aus der Bibliothek entfernen",
+  "library.inLibrary": "In der Bibliothek",
   "library.bought": "Gekaufte Geschichten",
   "library.stories": "Verfolgte Geschichten",
   "library.universes": "Folgende Universen",

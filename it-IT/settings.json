@@ -216,5 +216,12 @@
   "settings.interests.genres": "Generi preferiti",
   "settings.interests.genres.help": "Seleziona i generi che ti interessano.",
   "settings.interests.tags": "Tag preferiti",
-  "settings.interests.tags.help": "Seleziona fino a 20 tag che ti interessano."
+  "settings.interests.tags.help": "Seleziona fino a 20 tag che ti interessano.",
+  "settings.recommendations.title": "Consigli di lettura",
+  "settings.recommendations.mode": "Come vuoi che ti consigliamo le storie?",
+  "settings.recommendations.automatic": "Automatico (predefinito per la tua regione)",
+  "settings.recommendations.personalised": "Personalizzato",
+  "settings.recommendations.community": "Community",
+  "settings.recommendations.chronological": "Cronologico",
+  "settings.recommendations.explained": "La modalità personalizzata usa la tua attività di lettura e i tuoi generi preferiti. La modalità community mostra ciò che è popolare tra tutti i lettori, senza profilazione. La modalità cronologica mostra solo i contenuti più recenti e le storie che segui esplicitamente."
 }

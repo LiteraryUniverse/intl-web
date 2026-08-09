@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Nyt kapitel tilgængeligt: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Nyt kapitel udgivet",
   "email.comics.chapterPublished.details": "Tegneserie: {comicTitle} - Kapitel: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Åbent kapitel"
+  "email.comics.chapterPublished.cta": "Åbent kapitel",
+  "email.notifications.qaNewQuestion.subject": "Nyt spørgsmål på {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Nyt spørgsmål på {blogName} fra {askerName}",
+  "email.notifications.qaNewQuestion.title": "Du har et nyt spørgsmål!",
+  "email.notifications.qaNewQuestion.details": "{askerName} stillede et spørgsmål på din blog \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "Besvar spørgsmålet",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} besvarede dit spørgsmål",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} besvarede dit spørgsmål på {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Dit spørgsmål er blevet besvaret!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} har besvaret dit spørgsmål på \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "Dette svar er privat og kun synligt for dig.",
+  "email.notifications.qaAnswerReceived.cta": "Se svar"
 }

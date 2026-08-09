@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Uusi luku saatavilla: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Uusi luku julkaistu",
   "email.comics.chapterPublished.details": "Sarjakuva: {comicTitle} - Kertomus: Luku: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Avaa luku"
+  "email.comics.chapterPublished.cta": "Avaa luku",
+  "email.notifications.qaNewQuestion.subject": "Uusi kysymys kohteessa {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Uusi kysymys kohteessa {blogName} käyttäjältä {askerName}",
+  "email.notifications.qaNewQuestion.title": "Sinulla on uusi kysymys!",
+  "email.notifications.qaNewQuestion.details": "{askerName} esitti kysymyksen blogissasi \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "Vastaa kysymykseen",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} vastasi kysymykseesi",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} vastasi kysymykseesi kohteessa {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Kysymykseesi on vastattu!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} on vastannut kysymykseesi kohteessa \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "Tämä vastaus on yksityinen ja näkyy vain sinulle.",
+  "email.notifications.qaAnswerReceived.cta": "Näytä vastaus"
 }

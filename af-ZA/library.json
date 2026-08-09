@@ -1,6 +1,7 @@
 {
   "library.add": "Voeg by biblioteek",
   "library.remove": "Verwyder uit biblioteek",
+  "library.inLibrary": "In biblioteek",
   "library.bought": "Gekoopte stories",
   "library.stories": "Gevolgde stories",
   "library.universes": "Followed universes",

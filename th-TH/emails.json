@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "บทใหม่พร้อมให้อ่านแล้ว: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "บทใหม่เผยแพร่แล้ว",
   "email.comics.chapterPublished.details": "เรื่อง: {comicTitle} • บท: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "เปิดบท"
+  "email.comics.chapterPublished.cta": "เปิดบท",
+  "email.notifications.qaNewQuestion.subject": "คำถามใหม่บน {blogName}",
+  "email.notifications.qaNewQuestion.preview": "คำถามใหม่บน {blogName} จาก {askerName}",
+  "email.notifications.qaNewQuestion.title": "คุณมีคำถามใหม่!",
+  "email.notifications.qaNewQuestion.details": "{askerName} ถามคำถามบนบล็อก \"{blogName}\" ของคุณ:",
+  "email.notifications.qaNewQuestion.cta": "ตอบคำถาม",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} ตอบคำถามของคุณแล้ว",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} ตอบคำถามของคุณบน {blogName}",
+  "email.notifications.qaAnswerReceived.title": "คำถามของคุณได้รับการตอบแล้ว!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} ได้ตอบคำถามของคุณบน \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "คำตอบนี้เป็นส่วนตัวและมีเพียงคุณเท่านั้นที่มองเห็น",
+  "email.notifications.qaAnswerReceived.cta": "ดูคำตอบ"
 }

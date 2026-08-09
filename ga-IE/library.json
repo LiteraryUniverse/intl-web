@@ -1,6 +1,7 @@
 {
   "library.add": "Cuir le leabharlann",
   "library.remove": "Bain ón leabharlann",
+  "library.inLibrary": "Sa leabharlann",
   "library.bought": "Scéalta a cheannaigh",
   "library.stories": "Scéalta a lean",
   "library.universes": "Dháileadh na cruinneachtaí",

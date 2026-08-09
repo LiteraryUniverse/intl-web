@@ -1,6 +1,7 @@
 {
   "library.add": "ბიბლიოთეკაში დამატება",
   "library.remove": "ბიბლიოთეკიდან ამოღება",
+  "library.inLibrary": "ბიბლიოთეკაშია",
   "library.bought": "ყიდული ამბები",
   "library.stories": "გამოწერილი ამბები",
   "library.universes": "გამოყენებული უნივერსები",

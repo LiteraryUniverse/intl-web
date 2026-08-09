@@ -186,5 +186,15 @@
   "blog.domains.available": "Доступен!",
   "blog.domains.customComing": "Подключение собственного домена (например, blog.vashe-imya.ru) скоро появится.",
   "blog.post.viewPublished": "Посмотреть опубликованный пост",
-  "blog.post.edit": "Редактировать пост"
+  "blog.post.edit": "Редактировать пост",
+  "blog.qa.autoQuestion.author.1": "Что вдохновило вас начать писать?",
+  "blog.qa.autoQuestion.author.2": "Какая часть творческого процесса вам нравится больше всего?",
+  "blog.qa.autoQuestion.author.3": "Какой из ваших персонажей вам ближе всего и почему?",
+  "blog.qa.autoQuestion.author.4": "Какой совет вы бы дали начинающим писателям?",
+  "blog.qa.autoQuestion.author.5": "Над чем вы сейчас работаете?",
+  "blog.qa.autoQuestion.universe.1": "В чём основная идея {name}?",
+  "blog.qa.autoQuestion.universe.2": "Как вы начали строить мир {name}?",
+  "blog.qa.autoQuestion.universe.3": "Чем {name} отличается от других миров?",
+  "blog.qa.autoQuestion.universe.4": "Есть ли в {name} место или персонаж, которых фанаты часто упускают из виду?",
+  "blog.qa.autoQuestion.universe.5": "Что дальше ждёт истории, происходящие в {name}?"
 }

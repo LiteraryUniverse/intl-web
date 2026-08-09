@@ -186,5 +186,15 @@
   "blog.domains.available": "Verfügbar!",
   "blog.domains.customComing": "Die Anbindung einer eigenen Domain (z. B. blog.deinname.de) kommt bald.",
   "blog.post.viewPublished": "Veröffentlichten Beitrag ansehen",
-  "blog.post.edit": "Beitrag bearbeiten"
+  "blog.post.edit": "Beitrag bearbeiten",
+  "blog.qa.autoQuestion.author.1": "Was hat Sie dazu inspiriert, mit dem Schreiben anzufangen?",
+  "blog.qa.autoQuestion.author.2": "Welcher Teil des kreativen Prozesses gefällt Ihnen am besten?",
+  "blog.qa.autoQuestion.author.3": "Welche Ihrer Figuren liegt Ihnen am meisten am Herzen – und warum?",
+  "blog.qa.autoQuestion.author.4": "Welchen Rat würden Sie neuen Autoren geben?",
+  "blog.qa.autoQuestion.author.5": "Woran arbeiten Sie gerade?",
+  "blog.qa.autoQuestion.universe.1": "Was ist die Kernidee hinter {name}?",
+  "blog.qa.autoQuestion.universe.2": "Wie haben Sie begonnen, die Welt von {name} aufzubauen?",
+  "blog.qa.autoQuestion.universe.3": "Was macht {name} im Vergleich zu anderen Settings einzigartig?",
+  "blog.qa.autoQuestion.universe.4": "Gibt es in {name} einen Ort oder eine Figur, den Fans oft übersehen?",
+  "blog.qa.autoQuestion.universe.5": "Was kommt als Nächstes für die Geschichten in {name}?"
 }

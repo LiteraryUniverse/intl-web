@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Nieuw hoofdstuk beschikbaar: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Nieuw hoofdstuk gepubliceerd",
   "email.comics.chapterPublished.details": "Strip: {comicTitle} - Hoofdstuk: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Open hoofdstuk"
+  "email.comics.chapterPublished.cta": "Open hoofdstuk",
+  "email.notifications.qaNewQuestion.subject": "Nieuwe vraag op {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Nieuwe vraag op {blogName} van {askerName}",
+  "email.notifications.qaNewQuestion.title": "Je hebt een nieuwe vraag!",
+  "email.notifications.qaNewQuestion.details": "{askerName} stelde een vraag op je blog \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "Vraag beantwoorden",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} heeft je vraag beantwoord",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} heeft je vraag op {blogName} beantwoord",
+  "email.notifications.qaAnswerReceived.title": "Je vraag is beantwoord!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} heeft je vraag op \"{blogName}\" beantwoord:",
+  "email.notifications.qaAnswerReceived.privateNote": "Dit antwoord is privé en alleen voor jou zichtbaar.",
+  "email.notifications.qaAnswerReceived.cta": "Antwoord bekijken"
 }

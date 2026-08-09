@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "K dispozici je nová kapitola: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Zveřejněna nová kapitola",
   "email.comics.chapterPublished.details": "Komiks: {comicTitle} - Kapitola: Příběh: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Otevřená kapitola"
+  "email.comics.chapterPublished.cta": "Otevřená kapitola",
+  "email.notifications.qaNewQuestion.subject": "Nová otázka na {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Nová otázka na {blogName} od {askerName}",
+  "email.notifications.qaNewQuestion.title": "Máte novou otázku!",
+  "email.notifications.qaNewQuestion.details": "{askerName} položil(a) otázku na vašem blogu „{blogName}“:",
+  "email.notifications.qaNewQuestion.cta": "Odpovědět na otázku",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} odpověděl(a) na vaši otázku",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} odpověděl(a) na vaši otázku na {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Na vaši otázku bylo odpovězeno!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} odpověděl(a) na vaši otázku na blogu „{blogName}“:",
+  "email.notifications.qaAnswerReceived.privateNote": "Tato odpověď je soukromá a viditelná pouze pro vás.",
+  "email.notifications.qaAnswerReceived.cta": "Zobrazit odpověď"
 }

@@ -186,5 +186,15 @@
   "blog.domains.available": "Tersedia!",
   "blog.domains.customComing": "Menghubungkan domain sendiri (seperti blog.namaanda.com) segera hadir.",
   "blog.post.viewPublished": "Lihat postingan yang dipublikasikan",
-  "blog.post.edit": "Edit postingan"
+  "blog.post.edit": "Edit postingan",
+  "blog.qa.autoQuestion.author.1": "Apa yang menginspirasi Anda untuk mulai menulis?",
+  "blog.qa.autoQuestion.author.2": "Bagian mana dari proses kreatif yang paling Anda sukai?",
+  "blog.qa.autoQuestion.author.3": "Karakter mana yang paling dekat di hati Anda, dan mengapa?",
+  "blog.qa.autoQuestion.author.4": "Saran apa yang akan Anda berikan kepada penulis baru?",
+  "blog.qa.autoQuestion.author.5": "Apa yang sedang Anda kerjakan saat ini?",
+  "blog.qa.autoQuestion.universe.1": "Apa ide inti di balik {name}?",
+  "blog.qa.autoQuestion.universe.2": "Bagaimana Anda mulai membangun dunia {name}?",
+  "blog.qa.autoQuestion.universe.3": "Apa yang membuat {name} unik dibandingkan latar lainnya?",
+  "blog.qa.autoQuestion.universe.4": "Apakah ada lokasi atau karakter di {name} yang sering diabaikan penggemar?",
+  "blog.qa.autoQuestion.universe.5": "Apa selanjutnya untuk kisah-kisah yang berlatar di {name}?"
 }

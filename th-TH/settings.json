@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "การแนะนำเรื่อง",
+  "settings.recommendations.mode": "ต้องการให้เราแนะนำเรื่องให้คุณอย่างไร?",
+  "settings.recommendations.automatic": "อัตโนมัติ (ค่าเริ่มต้นของภูมิภาคคุณ)",
+  "settings.recommendations.personalised": "ปรับตามบุคคล",
+  "settings.recommendations.community": "ชุมชน",
+  "settings.recommendations.chronological": "ตามลำดับเวลา",
+  "settings.recommendations.explained": "โหมดปรับตามบุคคลใช้กิจกรรมการอ่านและแนวเรื่องโปรดของคุณ โหมดชุมชนแสดงสิ่งที่เป็นที่นิยมในหมู่ผู้อ่านทุกคนโดยไม่ทำโปรไฟล์ โหมดตามลำดับเวลาแสดงเฉพาะเนื้อหาล่าสุดและเรื่องที่คุณติดตามอย่างชัดแจ้ง"
 }

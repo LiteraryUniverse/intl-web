@@ -186,5 +186,15 @@
   "blog.domains.available": "Disponível!",
   "blog.domains.customComing": "A ligação do seu próprio domínio (como blog.oseunome.pt) chega em breve.",
   "blog.post.viewPublished": "Ver publicação publicada",
-  "blog.post.edit": "Editar publicação"
+  "blog.post.edit": "Editar publicação",
+  "blog.qa.autoQuestion.author.1": "O que o inspirou a começar a escrever?",
+  "blog.qa.autoQuestion.author.2": "Qual é a sua parte favorita do processo criativo?",
+  "blog.qa.autoQuestion.author.3": "Qual das suas personagens lhe é mais querida, e porquê?",
+  "blog.qa.autoQuestion.author.4": "Que conselho daria a novos escritores?",
+  "blog.qa.autoQuestion.author.5": "Em que está a trabalhar atualmente?",
+  "blog.qa.autoQuestion.universe.1": "Qual é a ideia central por trás de {name}?",
+  "blog.qa.autoQuestion.universe.2": "Como começou a construir o mundo de {name}?",
+  "blog.qa.autoQuestion.universe.3": "O que torna {name} único em comparação com outros cenários?",
+  "blog.qa.autoQuestion.universe.4": "Há algum local ou personagem em {name} que os fãs costumam ignorar?",
+  "blog.qa.autoQuestion.universe.5": "O que se segue para as histórias ambientadas em {name}?"
 }

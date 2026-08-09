@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Chương mới đã có sẵn: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Chương mới đã được xuất bản",
   "email.comics.chapterPublished.details": "Truyện tranh: {comicTitle} • Chương: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Mở chương"
+  "email.comics.chapterPublished.cta": "Mở chương",
+  "email.notifications.qaNewQuestion.subject": "Câu hỏi mới trên {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Câu hỏi mới trên {blogName} từ {askerName}",
+  "email.notifications.qaNewQuestion.title": "Bạn có câu hỏi mới!",
+  "email.notifications.qaNewQuestion.details": "{askerName} đã đặt câu hỏi trên blog \"{blogName}\" của bạn:",
+  "email.notifications.qaNewQuestion.cta": "Trả lời câu hỏi",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} đã trả lời câu hỏi của bạn",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} đã trả lời câu hỏi của bạn trên {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Câu hỏi của bạn đã được trả lời!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} đã trả lời câu hỏi của bạn trên \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "Câu trả lời này là riêng tư và chỉ bạn mới thấy được.",
+  "email.notifications.qaAnswerReceived.cta": "Xem câu trả lời"
 }

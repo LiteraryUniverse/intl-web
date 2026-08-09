@@ -1,6 +1,7 @@
 {
   "library.add": "Adaugă în bibliotecă",
   "library.remove": "Șterge din bibliotecă",
+  "library.inLibrary": "În bibliotecă",
   "library.bought": "Povești cumpărate",
   "library.stories": "Povești urmărite",
   "library.universes": "Universuri urmărite",

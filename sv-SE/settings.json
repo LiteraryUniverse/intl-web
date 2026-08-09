@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Berättelserekommendationer",
+  "settings.recommendations.mode": "Hur ska vi rekommendera berättelser till dig?",
+  "settings.recommendations.automatic": "Automatiskt (standard för din region)",
+  "settings.recommendations.personalised": "Personaliserat",
+  "settings.recommendations.community": "Gemenskap",
+  "settings.recommendations.chronological": "Kronologiskt",
+  "settings.recommendations.explained": "Personaliserat använder din läsaktivitet och dina favoritgenrer. Gemenskap visar vad som är populärt bland alla läsare, utan profilering. Kronologiskt visar bara det senaste innehållet och de berättelser du uttryckligen följer."
 }

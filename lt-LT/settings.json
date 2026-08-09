@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Istorijų rekomendacijos",
+  "settings.recommendations.mode": "Kaip turėtume jums rekomenduoti istorijas?",
+  "settings.recommendations.automatic": "Automatinis (numatytasis jūsų regionui)",
+  "settings.recommendations.personalised": "Suasmeninta",
+  "settings.recommendations.community": "Bendruomenė",
+  "settings.recommendations.chronological": "Chronologinis",
+  "settings.recommendations.explained": "Suasmenintas režimas naudoja jūsų skaitymo veiklą ir mėgstamus žanrus. Bendruomenės režimas rodo, kas populiaru tarp visų skaitytojų, be profiliavimo. Chronologinis režimas rodo tik naujausią turinį ir istorijas, kurias aiškiai sekate."
 }

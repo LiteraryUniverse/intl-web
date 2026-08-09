@@ -186,5 +186,15 @@
   "blog.domains.available": "Kullanılabilir!",
   "blog.domains.customComing": "Kendi alan adınızı bağlama (blog.adiniz.com gibi) yakında geliyor.",
   "blog.post.viewPublished": "Yayınlanan gönderiyi görüntüle",
-  "blog.post.edit": "Gönderiyi düzenle"
+  "blog.post.edit": "Gönderiyi düzenle",
+  "blog.qa.autoQuestion.author.1": "Yazmaya başlamanıza ne ilham verdi?",
+  "blog.qa.autoQuestion.author.2": "Yaratıcı sürecin en sevdiğiniz kısmı nedir?",
+  "blog.qa.autoQuestion.author.3": "Karakterlerinizden hangisi kalbinize en yakın ve neden?",
+  "blog.qa.autoQuestion.author.4": "Yeni yazarlara ne tavsiye edersiniz?",
+  "blog.qa.autoQuestion.author.5": "Şu anda ne üzerinde çalışıyorsunuz?",
+  "blog.qa.autoQuestion.universe.1": "{name} arkasındaki temel fikir nedir?",
+  "blog.qa.autoQuestion.universe.2": "{name} dünyasını inşa etmeye nasıl başladınız?",
+  "blog.qa.autoQuestion.universe.3": "{name} diğer ortamlara kıyasla neyiyle benzersiz?",
+  "blog.qa.autoQuestion.universe.4": "{name} içinde hayranların sıkça gözden kaçırdığı bir yer veya karakter var mı?",
+  "blog.qa.autoQuestion.universe.5": "{name} ortamındaki hikâyeler için sırada ne var?"
 }

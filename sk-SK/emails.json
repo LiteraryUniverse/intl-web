@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "K dispozícii je nová kapitola: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Uverejnená nová kapitola",
   "email.comics.chapterPublished.details": "Komiks: {comicTitle} - Kapitola: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Otvorená kapitola"
+  "email.comics.chapterPublished.cta": "Otvorená kapitola",
+  "email.notifications.qaNewQuestion.subject": "Nová otázka na {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Nová otázka na {blogName} od {askerName}",
+  "email.notifications.qaNewQuestion.title": "Máte novú otázku!",
+  "email.notifications.qaNewQuestion.details": "{askerName} položil(a) otázku na vašom blogu „{blogName}“:",
+  "email.notifications.qaNewQuestion.cta": "Odpovedať na otázku",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} odpovedal(a) na vašu otázku",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} odpovedal(a) na vašu otázku na {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Na vašu otázku bolo odpovedané!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} odpovedal(a) na vašu otázku na blogu „{blogName}“:",
+  "email.notifications.qaAnswerReceived.privateNote": "Táto odpoveď je súkromná a viditeľná iba pre vás.",
+  "email.notifications.qaAnswerReceived.cta": "Zobraziť odpoveď"
 }

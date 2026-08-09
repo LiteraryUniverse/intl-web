@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "ಕಥೆ ಶಿಫಾರಸುಗಳು",
+  "settings.recommendations.mode": "ನಾವು ನಿಮಗೆ ಕಥೆಗಳನ್ನು ಹೇಗೆ ಶಿಫಾರಸು ಮಾಡಬೇಕು?",
+  "settings.recommendations.automatic": "ಸ್ವಯಂಚಾಲಿತ (ನಿಮ್ಮ ಪ್ರದೇಶದ ಡೀಫಾಲ್ಟ್)",
+  "settings.recommendations.personalised": "ವೈಯಕ್ತೀಕರಿಸಿದ",
+  "settings.recommendations.community": "ಸಮುದಾಯ",
+  "settings.recommendations.chronological": "ಕಾಲಾನುಕ್ರಮ",
+  "settings.recommendations.explained": "ವೈಯಕ್ತೀಕರಿಸಿದ ಮೋಡ್ ನಿಮ್ಮ ಓದುವ ಚಟುವಟಿಕೆ ಮತ್ತು ಮೆಚ್ಚಿನ ಪ್ರಕಾರಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಸಮುದಾಯ ಮೋಡ್ ಪ್ರೊಫೈಲಿಂಗ್ ಇಲ್ಲದೆ ಎಲ್ಲ ಓದುಗರಲ್ಲಿ ಜನಪ್ರಿಯವಾದದ್ದನ್ನು ತೋರಿಸುತ್ತದೆ. ಕಾಲಾನುಕ್ರಮ ಮೋಡ್ ಹೊಸ ವಿಷಯ ಮತ್ತು ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಅನುಸರಿಸುವ ಕಥೆಗಳನ್ನು ಮಾತ್ರ ತೋರಿಸುತ್ತದೆ."
 }

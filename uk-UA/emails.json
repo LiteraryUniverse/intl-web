@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Доступна нова глава: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Опубліковано нову главу",
   "email.comics.chapterPublished.details": "Комікс: {comicTitle} - Розділ: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Відкритий розділ"
+  "email.comics.chapterPublished.cta": "Відкритий розділ",
+  "email.notifications.qaNewQuestion.subject": "Нове запитання в {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Нове запитання в {blogName} від {askerName}",
+  "email.notifications.qaNewQuestion.title": "У вас нове запитання!",
+  "email.notifications.qaNewQuestion.details": "{askerName} поставив(ла) запитання у вашому блозі «{blogName}»:",
+  "email.notifications.qaNewQuestion.cta": "Відповісти на запитання",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} відповів(ла) на ваше запитання",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} відповів(ла) на ваше запитання в {blogName}",
+  "email.notifications.qaAnswerReceived.title": "На ваше запитання відповіли!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} відповів(ла) на ваше запитання в «{blogName}»:",
+  "email.notifications.qaAnswerReceived.privateNote": "Ця відповідь приватна і видима лише вам.",
+  "email.notifications.qaAnswerReceived.cta": "Переглянути відповідь"
 }

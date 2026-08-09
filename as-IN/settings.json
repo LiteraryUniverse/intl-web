@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "কাহিনীৰ পৰামৰ্শ",
+  "settings.recommendations.mode": "আমি আপোনাক কেনেকৈ কাহিনী পৰামৰ্শ দিম?",
+  "settings.recommendations.automatic": "স্বয়ংক্ৰিয় (আপোনাৰ অঞ্চলৰ বাবে ডিফল্ট)",
+  "settings.recommendations.personalised": "ব্যক্তিগতকৃত",
+  "settings.recommendations.community": "সম্প্ৰদায়",
+  "settings.recommendations.chronological": "কালানুক্ৰমিক",
+  "settings.recommendations.explained": "ব্যক্তিগতকৃত ধৰণে আপোনাৰ পঢ়াৰ কাৰ্যকলাপ আৰু প্ৰিয় ধাৰাসমূহ ব্যৱহাৰ কৰে। সম্প্ৰদায় ধৰণে প্ৰ'ফাইলিং নকৰাকৈ সকলো পাঠকৰ মাজত জনপ্ৰিয় কাহিনী দেখুৱায়। কালানুক্ৰমিক ধৰণে কেৱল নতুন সমল আৰু আপুনি অনুসৰণ কৰা কাহিনী দেখুৱায়।"
 }

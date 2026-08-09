@@ -216,5 +216,12 @@
   "settings.interests.genres": "Genres favoris",
   "settings.interests.genres.help": "Sélectionnez les genres qui vous intéressent.",
   "settings.interests.tags": "Étiquettes favorites",
-  "settings.interests.tags.help": "Sélectionnez jusqu'à 20 étiquettes qui vous intéressent."
+  "settings.interests.tags.help": "Sélectionnez jusqu'à 20 étiquettes qui vous intéressent.",
+  "settings.recommendations.title": "Recommandations d'histoires",
+  "settings.recommendations.mode": "Comment devons-nous vous recommander des histoires ?",
+  "settings.recommendations.automatic": "Automatique (par défaut pour votre région)",
+  "settings.recommendations.personalised": "Personnalisé",
+  "settings.recommendations.community": "Communauté",
+  "settings.recommendations.chronological": "Chronologique",
+  "settings.recommendations.explained": "Le mode personnalisé utilise votre activité de lecture et vos genres favoris. Le mode communauté montre ce qui est populaire auprès de tous les lecteurs, sans profilage. Le mode chronologique n'affiche que les contenus les plus récents et les histoires que vous suivez explicitement."
 }

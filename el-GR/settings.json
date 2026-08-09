@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Προτάσεις ιστοριών",
+  "settings.recommendations.mode": "Πώς θέλετε να σας προτείνουμε ιστορίες;",
+  "settings.recommendations.automatic": "Αυτόματο (προεπιλογή για την περιοχή σας)",
+  "settings.recommendations.personalised": "Εξατομικευμένο",
+  "settings.recommendations.community": "Κοινότητα",
+  "settings.recommendations.chronological": "Χρονολογικό",
+  "settings.recommendations.explained": "Το εξατομικευμένο χρησιμοποιεί τη δραστηριότητα ανάγνωσης και τα αγαπημένα σας είδη. Η κοινότητα δείχνει ό,τι είναι δημοφιλές σε όλους τους αναγνώστες, χωρίς κατάρτιση προφίλ. Το χρονολογικό δείχνει μόνο το νεότερο περιεχόμενο και τις ιστορίες που ακολουθείτε ρητά."
 }

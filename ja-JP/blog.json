@@ -186,5 +186,15 @@
   "blog.domains.available": "利用できます！",
   "blog.domains.customComing": "独自ドメイン（blog.yourname.com など）の接続は近日対応予定です。",
   "blog.post.viewPublished": "公開済みの投稿を表示",
-  "blog.post.edit": "投稿を編集"
+  "blog.post.edit": "投稿を編集",
+  "blog.qa.autoQuestion.author.1": "執筆を始めたきっかけは何ですか？",
+  "blog.qa.autoQuestion.author.2": "創作過程で一番好きな部分は何ですか？",
+  "blog.qa.autoQuestion.author.3": "一番思い入れのあるキャラクターは誰ですか？またその理由は？",
+  "blog.qa.autoQuestion.author.4": "新しい書き手にどんなアドバイスをしますか？",
+  "blog.qa.autoQuestion.author.5": "今取り組んでいることは何ですか？",
+  "blog.qa.autoQuestion.universe.1": "{name} の中心にあるアイデアは何ですか？",
+  "blog.qa.autoQuestion.universe.2": "{name} の世界をどのように作り始めましたか？",
+  "blog.qa.autoQuestion.universe.3": "他の設定と比べて、{name} をユニークにしている点は何ですか？",
+  "blog.qa.autoQuestion.universe.4": "{name} の中で、ファンがよく見落とす場所やキャラクターはありますか？",
+  "blog.qa.autoQuestion.universe.5": "{name} を舞台にした物語の次の展開は？"
 }

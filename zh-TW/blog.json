@@ -186,5 +186,15 @@
   "blog.domains.available": "可以使用！",
   "blog.domains.customComing": "連接您自己的網域（例如 blog.yourname.com）即將推出。",
   "blog.post.viewPublished": "檢視已發佈的文章",
-  "blog.post.edit": "編輯文章"
+  "blog.post.edit": "編輯文章",
+  "blog.qa.autoQuestion.author.1": "是什麼啟發你開始寫作？",
+  "blog.qa.autoQuestion.author.2": "創作過程中你最喜歡的部分是什麼？",
+  "blog.qa.autoQuestion.author.3": "你最鍾愛的角色是哪一位？為什麼？",
+  "blog.qa.autoQuestion.author.4": "你會給新作家什麼建議？",
+  "blog.qa.autoQuestion.author.5": "你目前正在創作什麼？",
+  "blog.qa.autoQuestion.universe.1": "{name} 的核心構想是什麼？",
+  "blog.qa.autoQuestion.universe.2": "你是如何開始建構 {name} 這個世界的？",
+  "blog.qa.autoQuestion.universe.3": "與其他世界觀相比，{name} 的獨特之處是什麼？",
+  "blog.qa.autoQuestion.universe.4": "{name} 中有沒有常被粉絲忽略的地點或角色？",
+  "blog.qa.autoQuestion.universe.5": "以 {name} 為舞台的故事接下來會如何發展？"
 }

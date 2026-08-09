@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "스토리 추천",
+  "settings.recommendations.mode": "스토리를 어떻게 추천해 드릴까요?",
+  "settings.recommendations.automatic": "자동(지역 기본값)",
+  "settings.recommendations.personalised": "맞춤형",
+  "settings.recommendations.community": "커뮤니티",
+  "settings.recommendations.chronological": "시간순",
+  "settings.recommendations.explained": "맞춤형은 독서 활동과 좋아하는 장르를 활용합니다. 커뮤니티는 프로파일링 없이 모든 독자에게 인기 있는 작품을 보여줍니다. 시간순은 최신 콘텐츠와 명시적으로 팔로우한 작품만 보여줍니다."
 }

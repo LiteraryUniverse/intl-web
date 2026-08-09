@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Story recommendations",
+  "settings.recommendations.mode": "How should we recommend stories to you?",
+  "settings.recommendations.automatic": "Automatic (default for your region)",
+  "settings.recommendations.personalised": "Personalised",
+  "settings.recommendations.community": "Community",
+  "settings.recommendations.chronological": "Chronological",
+  "settings.recommendations.explained": "Personalised uses your reading activity and favourite genres. Community shows what is popular with all readers, without profiling you. Chronological shows only the newest content and the stories you explicitly follow."
 }

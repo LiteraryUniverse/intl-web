@@ -216,5 +216,12 @@
   "settings.interests.genres": "Улюблені жанри",
   "settings.interests.genres.help": "Виберіть жанри, які вас цікавлять.",
   "settings.interests.tags": "Улюблені теги",
-  "settings.interests.tags.help": "Виберіть до 20 тегів, які вас цікавлять."
+  "settings.interests.tags.help": "Виберіть до 20 тегів, які вас цікавлять.",
+  "settings.recommendations.title": "Рекомендації історій",
+  "settings.recommendations.mode": "Як нам рекомендувати вам історії?",
+  "settings.recommendations.automatic": "Автоматично (типово для вашого регіону)",
+  "settings.recommendations.personalised": "Персоналізовано",
+  "settings.recommendations.community": "Спільнота",
+  "settings.recommendations.chronological": "Хронологічно",
+  "settings.recommendations.explained": "Персоналізований режим використовує вашу читацьку активність та улюблені жанри. Режим спільноти показує те, що популярне серед усіх читачів, без профілювання. Хронологічний режим показує лише найновіший вміст та історії, за якими ви явно стежите."
 }

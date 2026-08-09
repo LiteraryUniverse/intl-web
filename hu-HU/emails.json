@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Új fejezet elérhető: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Új fejezet megjelent",
   "email.comics.chapterPublished.details": "Képregény: {comicTitle} - Fejezet: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Fejezet megnyitása"
+  "email.comics.chapterPublished.cta": "Fejezet megnyitása",
+  "email.notifications.qaNewQuestion.subject": "Új kérdés a(z) {blogName} blogon",
+  "email.notifications.qaNewQuestion.preview": "Új kérdés a(z) {blogName} blogon tőle: {askerName}",
+  "email.notifications.qaNewQuestion.title": "Új kérdésed érkezett!",
+  "email.notifications.qaNewQuestion.details": "{askerName} kérdést tett fel a(z) „{blogName}” blogodon:",
+  "email.notifications.qaNewQuestion.cta": "Kérdés megválaszolása",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} megválaszolta a kérdésed",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} megválaszolta a kérdésed a(z) {blogName} blogon",
+  "email.notifications.qaAnswerReceived.title": "Megválaszolták a kérdésedet!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} megválaszolta a kérdésed a(z) „{blogName}” blogon:",
+  "email.notifications.qaAnswerReceived.privateNote": "Ez a válasz privát, és csak te láthatod.",
+  "email.notifications.qaAnswerReceived.cta": "Válasz megtekintése"
 }

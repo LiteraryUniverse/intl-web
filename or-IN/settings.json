@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "କାହାଣୀ ସୁପାରିଶ",
+  "settings.recommendations.mode": "ଆମେ ଆପଣଙ୍କୁ କିପରି କାହାଣୀ ସୁପାରିଶ କରିବୁ?",
+  "settings.recommendations.automatic": "ସ୍ୱୟଂଚାଳିତ (ଆପଣଙ୍କ ଅଞ୍ଚଳର ଡିଫଲ୍ଟ)",
+  "settings.recommendations.personalised": "ବ୍ୟକ୍ତିଗତ",
+  "settings.recommendations.community": "ସମ୍ପ୍ରଦାୟ",
+  "settings.recommendations.chronological": "କାଳକ୍ରମିକ",
+  "settings.recommendations.explained": "ବ୍ୟକ୍ତିଗତ ମୋଡ୍ ଆପଣଙ୍କ ପଠନ କାର୍ଯ୍ୟକଳାପ ଏବଂ ପ୍ରିୟ ଧାରା ବ୍ୟବହାର କରେ। ସମ୍ପ୍ରଦାୟ ମୋଡ୍ ପ୍ରୋଫାଇଲିଂ ବିନା ସମସ୍ତ ପାଠକଙ୍କ ମଧ୍ୟରେ ଲୋକପ୍ରିୟ କାହାଣୀ ଦେଖାଏ। କାଳକ୍ରମିକ ମୋଡ୍ କେବଳ ନୂତନତମ ବିଷୟବସ୍ତୁ ଏବଂ ଆପଣ ସ୍ପଷ୍ଟ ଭାବରେ ଅନୁସରଣ କରୁଥିବା କାହାଣୀ ଦେଖାଏ।"
 }

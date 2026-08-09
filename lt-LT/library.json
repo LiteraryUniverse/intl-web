@@ -1,6 +1,7 @@
 {
   "library.add": "Pridėti į biblioteką",
   "library.remove": "Pašalinti iš bibliotekos",
+  "library.inLibrary": "Bibliotekoje",
   "library.bought": "Įsigytos pasakos",
   "library.stories": "Sekamos pasakos",
   "library.universes": "Sekami visatos",

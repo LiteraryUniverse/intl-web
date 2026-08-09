@@ -216,5 +216,12 @@
   "settings.interests.genres": "الأنواع المفضلة",
   "settings.interests.genres.help": "حدد الأنواع التي تهمك.",
   "settings.interests.tags": "العلامات المفضلة",
-  "settings.interests.tags.help": "حدد ما يصل إلى 20 علامة تهمك."
+  "settings.interests.tags.help": "حدد ما يصل إلى 20 علامة تهمك.",
+  "settings.recommendations.title": "توصيات القصص",
+  "settings.recommendations.mode": "كيف تريد أن نوصي لك بالقصص؟",
+  "settings.recommendations.automatic": "تلقائي (الافتراضي لمنطقتك)",
+  "settings.recommendations.personalised": "مخصص",
+  "settings.recommendations.community": "المجتمع",
+  "settings.recommendations.chronological": "زمني",
+  "settings.recommendations.explained": "الوضع المخصص يستخدم نشاط قراءتك وأنواعك المفضلة. وضع المجتمع يعرض ما هو رائج لدى جميع القراء دون تنميط. الوضع الزمني يعرض فقط أحدث المحتوى والقصص التي تتابعها صراحةً."
 }

@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Történetajánlások",
+  "settings.recommendations.mode": "Hogyan ajánljunk neked történeteket?",
+  "settings.recommendations.automatic": "Automatikus (a régiód alapértelmezése)",
+  "settings.recommendations.personalised": "Személyre szabott",
+  "settings.recommendations.community": "Közösségi",
+  "settings.recommendations.chronological": "Időrendi",
+  "settings.recommendations.explained": "A személyre szabott mód az olvasási tevékenységedet és kedvenc műfajaidat használja. A közösségi mód azt mutatja, ami minden olvasó körében népszerű, profilalkotás nélkül. Az időrendi mód csak a legújabb tartalmakat és az általad kifejezetten követett történeteket mutatja."
 }

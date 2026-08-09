@@ -216,5 +216,12 @@
   "settings.interests.genres": "Oblíbené žánry",
   "settings.interests.genres.help": "Vyberte žánry, které vás zajímají.",
   "settings.interests.tags": "Oblíbené štítky",
-  "settings.interests.tags.help": "Vyberte až 20 štítků, které vás zajímají."
+  "settings.interests.tags.help": "Vyberte až 20 štítků, které vás zajímají.",
+  "settings.recommendations.title": "Doporučování příběhů",
+  "settings.recommendations.mode": "Jak vám máme doporučovat příběhy?",
+  "settings.recommendations.automatic": "Automaticky (výchozí pro váš region)",
+  "settings.recommendations.personalised": "Personalizovaně",
+  "settings.recommendations.community": "Komunitně",
+  "settings.recommendations.chronological": "Chronologicky",
+  "settings.recommendations.explained": "Personalizovaný režim využívá vaši čtenářskou aktivitu a oblíbené žánry. Komunitní režim ukazuje, co je populární mezi všemi čtenáři, bez profilování. Chronologický režim zobrazuje jen nejnovější obsah a příběhy, které výslovně sledujete."
 }

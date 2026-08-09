@@ -186,5 +186,15 @@
   "blog.domains.available": "Saatavilla!",
   "blog.domains.customComing": "Oman verkkotunnuksen liittäminen (kuten blog.nimesi.fi) tulossa pian.",
   "blog.post.viewPublished": "Näytä julkaistu julkaisu",
-  "blog.post.edit": "Muokkaa julkaisua"
+  "blog.post.edit": "Muokkaa julkaisua",
+  "blog.qa.autoQuestion.author.1": "Mikä inspiroi sinua aloittamaan kirjoittamisen?",
+  "blog.qa.autoQuestion.author.2": "Mikä on suosikkiosasi luovasta prosessista?",
+  "blog.qa.autoQuestion.author.3": "Mikä hahmoistasi on lähinnä sydäntäsi ja miksi?",
+  "blog.qa.autoQuestion.author.4": "Mitä neuvoa antaisit uusille kirjoittajille?",
+  "blog.qa.autoQuestion.author.5": "Mitä työstät tällä hetkellä?",
+  "blog.qa.autoQuestion.universe.1": "Mikä on {name}:n ydinajatus?",
+  "blog.qa.autoQuestion.universe.2": "Miten aloitit {name}-maailman rakentamisen?",
+  "blog.qa.autoQuestion.universe.3": "Mikä tekee {name}:sta ainutlaatuisen verrattuna muihin ympäristöihin?",
+  "blog.qa.autoQuestion.universe.4": "Onko {name}:ssa paikkaa tai hahmoa, jonka fanit usein ohittavat?",
+  "blog.qa.autoQuestion.universe.5": "Mitä seuraavaksi {name}:iin sijoittuville tarinoille?"
 }

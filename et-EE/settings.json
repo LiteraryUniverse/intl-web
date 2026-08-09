@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Loosoovitused",
+  "settings.recommendations.mode": "Kuidas peaksime sulle lugusid soovitama?",
+  "settings.recommendations.automatic": "Automaatne (sinu piirkonna vaikeseade)",
+  "settings.recommendations.personalised": "Isikupärastatud",
+  "settings.recommendations.community": "Kogukond",
+  "settings.recommendations.chronological": "Kronoloogiline",
+  "settings.recommendations.explained": "Isikupärastatud režiim kasutab sinu lugemisaktiivsust ja lemmikžanre. Kogukonnarežiim näitab, mis on kõigi lugejate seas populaarne, ilma profileerimiseta. Kronoloogiline režiim näitab ainult uusimat sisu ja lugusid, mida sa otseselt jälgid."
 }

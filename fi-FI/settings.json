@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Tarinasuositukset",
+  "settings.recommendations.mode": "Miten haluat, että suosittelemme tarinoita?",
+  "settings.recommendations.automatic": "Automaattinen (alueesi oletus)",
+  "settings.recommendations.personalised": "Personoitu",
+  "settings.recommendations.community": "Yhteisö",
+  "settings.recommendations.chronological": "Aikajärjestys",
+  "settings.recommendations.explained": "Personoitu käyttää lukuaktiivisuuttasi ja lempigenrejäsi. Yhteisö näyttää, mikä on suosittua kaikkien lukijoiden keskuudessa, ilman profilointia. Aikajärjestys näyttää vain uusimman sisällön ja tarinat, joita nimenomaisesti seuraat."
 }

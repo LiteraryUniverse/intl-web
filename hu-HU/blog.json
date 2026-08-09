@@ -186,5 +186,15 @@
   "blog.domains.available": "Elérhető!",
   "blog.domains.customComing": "Saját domain csatlakoztatása (pl. blog.neved.hu) hamarosan.",
   "blog.post.viewPublished": "Közzétett bejegyzés megtekintése",
-  "blog.post.edit": "Bejegyzés szerkesztése"
+  "blog.post.edit": "Bejegyzés szerkesztése",
+  "blog.qa.autoQuestion.author.1": "Mi inspirált arra, hogy írni kezdj?",
+  "blog.qa.autoQuestion.author.2": "Mi a kedvenc része az alkotói folyamatnak?",
+  "blog.qa.autoQuestion.author.3": "Melyik karaktered áll a legközelebb a szívedhez, és miért?",
+  "blog.qa.autoQuestion.author.4": "Milyen tanácsot adnál kezdő íróknak?",
+  "blog.qa.autoQuestion.author.5": "Min dolgozol jelenleg?",
+  "blog.qa.autoQuestion.universe.1": "Mi a központi ötlet {name} mögött?",
+  "blog.qa.autoQuestion.universe.2": "Hogyan kezdted el felépíteni {name} világát?",
+  "blog.qa.autoQuestion.universe.3": "Mi teszi egyedivé a {name} világot más környezetekhez képest?",
+  "blog.qa.autoQuestion.universe.4": "Van olyan helyszín vagy karakter {name} világában, amit a rajongók gyakran figyelmen kívül hagynak?",
+  "blog.qa.autoQuestion.universe.5": "Mi következik a {name} világában játszódó történeteknél?"
 }

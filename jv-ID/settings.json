@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Rekomendasi crita",
+  "settings.recommendations.mode": "Kepiye sebaiknya kita menehi rekomendasi crita marang sampeyan?",
+  "settings.recommendations.automatic": "Otomatis (gawan kanggo wilayah sampeyan)",
+  "settings.recommendations.personalised": "Dipersonalisasi",
+  "settings.recommendations.community": "Komunitas",
+  "settings.recommendations.chronological": "Kronologis",
+  "settings.recommendations.explained": "Mode dipersonalisasi nggunakake aktivitas maca lan genre favorit sampeyan. Mode komunitas nuduhake sing populer ing antarane kabeh pamaca, tanpa profiling. Mode kronologis mung nuduhake konten paling anyar lan crita sing sampeyan tindakake kanthi jelas."
 }

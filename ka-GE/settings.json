@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "ისტორიების რეკომენდაციები",
+  "settings.recommendations.mode": "როგორ გირჩიოთ ისტორიები?",
+  "settings.recommendations.automatic": "ავტომატური (თქვენი რეგიონის ნაგულისხმევი)",
+  "settings.recommendations.personalised": "პერსონალიზებული",
+  "settings.recommendations.community": "საზოგადოება",
+  "settings.recommendations.chronological": "ქრონოლოგიური",
+  "settings.recommendations.explained": "პერსონალიზებული იყენებს თქვენს კითხვის აქტივობას და საყვარელ ჟანრებს. საზოგადოება აჩვენებს, რაც პოპულარულია ყველა მკითხველში, პროფილირების გარეშე. ქრონოლოგიური აჩვენებს მხოლოდ უახლეს კონტენტს და ისტორიებს, რომლებსაც აშკარად მიჰყვებით."
 }

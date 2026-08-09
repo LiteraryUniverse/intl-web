@@ -216,5 +216,12 @@
   "settings.interests.genres": "Любимые жанры",
   "settings.interests.genres.help": "Выберите интересующие вас жанры.",
   "settings.interests.tags": "Любимые теги",
-  "settings.interests.tags.help": "Выберите до 20 интересующих вас тегов."
+  "settings.interests.tags.help": "Выберите до 20 интересующих вас тегов.",
+  "settings.recommendations.title": "Рекомендации историй",
+  "settings.recommendations.mode": "Как нам рекомендовать вам истории?",
+  "settings.recommendations.automatic": "Автоматически (по умолчанию для вашего региона)",
+  "settings.recommendations.personalised": "Персонализированно",
+  "settings.recommendations.community": "Сообщество",
+  "settings.recommendations.chronological": "Хронологически",
+  "settings.recommendations.explained": "Персонализированный режим использует вашу читательскую активность и любимые жанры. Режим сообщества показывает то, что популярно среди всех читателей, без профилирования. Хронологический режим показывает только новейший контент и истории, на которые вы явно подписаны."
 }

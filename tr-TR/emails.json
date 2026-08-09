@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Yeni bölüm mevcut: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Yeni bölüm yayınlandı",
   "email.comics.chapterPublished.details": "Çizgi roman: {comicTitle} - Bölüm: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Açık bölüm"
+  "email.comics.chapterPublished.cta": "Açık bölüm",
+  "email.notifications.qaNewQuestion.subject": "{blogName} üzerinde yeni soru",
+  "email.notifications.qaNewQuestion.preview": "{blogName} üzerinde {askerName} adlı kullanıcıdan yeni soru",
+  "email.notifications.qaNewQuestion.title": "Yeni bir sorunuz var!",
+  "email.notifications.qaNewQuestion.details": "{askerName}, \"{blogName}\" blogunuzda bir soru sordu:",
+  "email.notifications.qaNewQuestion.cta": "Soruyu yanıtla",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} sorunuzu yanıtladı",
+  "email.notifications.qaAnswerReceived.preview": "{authorName}, {blogName} üzerindeki sorunuzu yanıtladı",
+  "email.notifications.qaAnswerReceived.title": "Sorunuz yanıtlandı!",
+  "email.notifications.qaAnswerReceived.details": "{authorName}, \"{blogName}\" üzerindeki sorunuzu yanıtladı:",
+  "email.notifications.qaAnswerReceived.privateNote": "Bu yanıt özeldir ve yalnızca sizin tarafınızdan görülebilir.",
+  "email.notifications.qaAnswerReceived.cta": "Yanıtı görüntüle"
 }

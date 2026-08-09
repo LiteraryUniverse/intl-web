@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Rekomendasi cerita",
+  "settings.recommendations.mode": "Bagaimana kami sebaiknya merekomendasikan cerita untukmu?",
+  "settings.recommendations.automatic": "Otomatis (bawaan untuk wilayahmu)",
+  "settings.recommendations.personalised": "Dipersonalisasi",
+  "settings.recommendations.community": "Komunitas",
+  "settings.recommendations.chronological": "Kronologis",
+  "settings.recommendations.explained": "Mode dipersonalisasi menggunakan aktivitas membaca dan genre favoritmu. Mode komunitas menampilkan yang populer di antara semua pembaca, tanpa pemrofilan. Mode kronologis hanya menampilkan konten terbaru dan cerita yang kamu ikuti secara eksplisit."
 }

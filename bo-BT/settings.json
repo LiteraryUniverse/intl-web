@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "སྒྲུང་གི་འོས་སྦྱོར།",
+  "settings.recommendations.mode": "ང་ཚོས་ཁྱེད་ལ་སྒྲུང་ཇི་ལྟར་འོས་སྦྱོར་བྱེད་དགོས་སམ།",
+  "settings.recommendations.automatic": "རང་འགུལ། (ཁྱེད་ཀྱི་ས་ཁུལ་གྱི་སྔོན་སྒྲིག)",
+  "settings.recommendations.personalised": "སྒེར་སྒྲིག",
+  "settings.recommendations.community": "སྤྱི་ཚོགས།",
+  "settings.recommendations.chronological": "དུས་རིམ།",
+  "settings.recommendations.explained": "སྒེར་སྒྲིག་གིས་ཁྱེད་ཀྱི་ཀློག་པའི་བྱེད་སྒོ་དང་དགའ་པོའི་རིགས་བེད་སྤྱོད་བྱེད། སྤྱི་ཚོགས་ཀྱིས་ཀློག་པ་པོ་ཚང་མའི་ནང་དར་ཁྱབ་ཆེ་བ་སྟོན། དུས་རིམ་གྱིས་ནང་དོན་གསར་ཤོས་དང་ཁྱེད་ཀྱིས་རྗེས་འདེད་བྱས་པའི་སྒྲུང་ཁོ་ན་སྟོན།"
 }

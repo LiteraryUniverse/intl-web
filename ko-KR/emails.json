@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "새 챕터를 사용할 수 있습니다: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "새 챕터 게시",
   "email.comics.chapterPublished.details": "스토리: {comicTitle} - Chapter: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "챕터 열기"
+  "email.comics.chapterPublished.cta": "챕터 열기",
+  "email.notifications.qaNewQuestion.subject": "{blogName}에 새 질문이 있습니다",
+  "email.notifications.qaNewQuestion.preview": "{blogName}의 {askerName} 새 질문",
+  "email.notifications.qaNewQuestion.title": "새 질문이 있습니다!",
+  "email.notifications.qaNewQuestion.details": "{askerName}님이 블로그 \"{blogName}\"에 질문을 남겼습니다:",
+  "email.notifications.qaNewQuestion.cta": "질문에 답변",
+  "email.notifications.qaAnswerReceived.subject": "{authorName}님이 질문에 답변했습니다",
+  "email.notifications.qaAnswerReceived.preview": "{authorName}님이 {blogName}에서 질문에 답변했습니다",
+  "email.notifications.qaAnswerReceived.title": "질문에 답변이 달렸습니다!",
+  "email.notifications.qaAnswerReceived.details": "{authorName}님이 \"{blogName}\"에서 질문에 답변했습니다:",
+  "email.notifications.qaAnswerReceived.privateNote": "이 답변은 비공개이며 본인만 볼 수 있습니다.",
+  "email.notifications.qaAnswerReceived.cta": "답변 보기"
 }

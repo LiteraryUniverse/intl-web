@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "فصل جديد متاح \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "تم نشر فصل جديد",
   "email.comics.chapterPublished.details": "القصة مصورة {comicTitle} - الفصل: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "الفصل المفتوح"
+  "email.comics.chapterPublished.cta": "الفصل المفتوح",
+  "email.notifications.qaNewQuestion.subject": "سؤال جديد في {blogName}",
+  "email.notifications.qaNewQuestion.preview": "سؤال جديد في {blogName} من {askerName}",
+  "email.notifications.qaNewQuestion.title": "لديك سؤال جديد!",
+  "email.notifications.qaNewQuestion.details": "طرح {askerName} سؤالاً على مدونتك \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "الإجابة على السؤال",
+  "email.notifications.qaAnswerReceived.subject": "أجاب {authorName} على سؤالك",
+  "email.notifications.qaAnswerReceived.preview": "أجاب {authorName} على سؤالك في {blogName}",
+  "email.notifications.qaAnswerReceived.title": "تمت الإجابة على سؤالك!",
+  "email.notifications.qaAnswerReceived.details": "أجاب {authorName} على سؤالك في \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "هذه الإجابة خاصة ومرئية لك فقط.",
+  "email.notifications.qaAnswerReceived.cta": "عرض الإجابة"
 }

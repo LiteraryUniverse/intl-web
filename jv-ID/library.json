@@ -1,6 +1,7 @@
 {
   "library.add": "Add to library",
   "library.remove": "Remove from library",
+  "library.inLibrary": "Ing perpustakaan",
   "library.bought": "Bought stories",
   "library.stories": "Followed stories",
   "library.universes": "Followed universes",

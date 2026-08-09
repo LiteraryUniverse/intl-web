@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Nou capitol disponibil: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Capitol nou publicat",
   "email.comics.chapterPublished.details": "Bandă desenată: {comicTitle} - Capitolul: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Deschideți capitolul"
+  "email.comics.chapterPublished.cta": "Deschideți capitolul",
+  "email.notifications.qaNewQuestion.subject": "Întrebare nouă pe {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Întrebare nouă pe {blogName} de la {askerName}",
+  "email.notifications.qaNewQuestion.title": "Ai o întrebare nouă!",
+  "email.notifications.qaNewQuestion.details": "{askerName} a pus o întrebare pe blogul tău „{blogName}”:",
+  "email.notifications.qaNewQuestion.cta": "Răspunde la întrebare",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} a răspuns la întrebarea ta",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} a răspuns la întrebarea ta pe {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Întrebarea ta a primit un răspuns!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} a răspuns la întrebarea ta pe „{blogName}”:",
+  "email.notifications.qaAnswerReceived.privateNote": "Acest răspuns este privat și vizibil doar pentru tine.",
+  "email.notifications.qaAnswerReceived.cta": "Vezi răspunsul"
 }

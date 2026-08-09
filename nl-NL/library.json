@@ -1,6 +1,7 @@
 {
   "library.add": "Toevoegen aan bibliotheek",
   "library.remove": "Verwijderen uit bibliotheek",
+  "library.inLibrary": "In bibliotheek",
   "library.bought": "Gekochte verhalen",
   "library.stories": "Gevolgde verhalen",
   "library.universes": "Gevolgde universums",

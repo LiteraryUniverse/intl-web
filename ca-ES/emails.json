@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "New chapter available: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "New chapter published",
   "email.comics.chapterPublished.details": "Story: {comicTitle} • Chapter: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Open chapter"
+  "email.comics.chapterPublished.cta": "Open chapter",
+  "email.notifications.qaNewQuestion.subject": "Nova pregunta a {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Nova pregunta a {blogName} de {askerName}",
+  "email.notifications.qaNewQuestion.title": "Tens una nova pregunta!",
+  "email.notifications.qaNewQuestion.details": "{askerName} ha fet una pregunta al teu blog \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "Respondre la pregunta",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} ha respost a la teva pregunta",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} ha respost a la teva pregunta a {blogName}",
+  "email.notifications.qaAnswerReceived.title": "La teva pregunta ha estat resposta!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} ha respost a la teva pregunta a \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "Aquesta resposta és privada i només la pots veure tu.",
+  "email.notifications.qaAnswerReceived.cta": "Veure la resposta"
 }

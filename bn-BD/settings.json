@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "গল্পের সুপারিশ",
+  "settings.recommendations.mode": "আমরা কীভাবে আপনাকে গল্প সুপারিশ করব?",
+  "settings.recommendations.automatic": "স্বয়ংক্রিয় (আপনার অঞ্চলের ডিফল্ট)",
+  "settings.recommendations.personalised": "ব্যক্তিগতকৃত",
+  "settings.recommendations.community": "কমিউনিটি",
+  "settings.recommendations.chronological": "কালানুক্রমিক",
+  "settings.recommendations.explained": "ব্যক্তিগতকৃত মোড আপনার পড়ার কার্যকলাপ ও প্রিয় ধারা ব্যবহার করে। কমিউনিটি মোড প্রোফাইলিং ছাড়াই সব পাঠকের মধ্যে জনপ্রিয় গল্প দেখায়। কালানুক্রমিক মোড শুধু নতুন কন্টেন্ট ও আপনি স্পষ্টভাবে অনুসরণ করা গল্প দেখায়।"
 }

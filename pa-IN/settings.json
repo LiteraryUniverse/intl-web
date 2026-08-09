@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "ਕਹਾਣੀ ਸਿਫ਼ਾਰਸ਼ਾਂ",
+  "settings.recommendations.mode": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਕਹਾਣੀਆਂ ਕਿਵੇਂ ਸਿਫ਼ਾਰਸ਼ ਕਰੀਏ?",
+  "settings.recommendations.automatic": "ਆਟੋਮੈਟਿਕ (ਤੁਹਾਡੇ ਖੇਤਰ ਦਾ ਡਿਫੌਲਟ)",
+  "settings.recommendations.personalised": "ਵਿਅਕਤੀਗਤ",
+  "settings.recommendations.community": "ਭਾਈਚਾਰਾ",
+  "settings.recommendations.chronological": "ਕਾਲਕ੍ਰਮਿਕ",
+  "settings.recommendations.explained": "ਵਿਅਕਤੀਗਤ ਮੋਡ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀਵਿਧੀ ਅਤੇ ਪਸੰਦੀਦਾ ਸ਼ੈਲੀਆਂ ਵਰਤਦਾ ਹੈ। ਭਾਈਚਾਰਾ ਮੋਡ ਪ੍ਰੋਫਾਈਲਿੰਗ ਤੋਂ ਬਿਨਾਂ ਸਾਰੇ ਪਾਠਕਾਂ ਵਿੱਚ ਪ੍ਰਸਿੱਧ ਕਹਾਣੀਆਂ ਦਿਖਾਉਂਦਾ ਹੈ। ਕਾਲਕ੍ਰਮਿਕ ਮੋਡ ਸਿਰਫ਼ ਨਵੀਨਤਮ ਸਮੱਗਰੀ ਅਤੇ ਉਹ ਕਹਾਣੀਆਂ ਦਿਖਾਉਂਦਾ ਹੈ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਸਪੱਸ਼ਟ ਤੌਰ 'ਤੇ ਫਾਲੋ ਕਰਦੇ ਹੋ।"
 }

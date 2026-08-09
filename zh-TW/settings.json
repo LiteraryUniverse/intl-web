@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "故事推薦",
+  "settings.recommendations.mode": "我們該如何為您推薦故事？",
+  "settings.recommendations.automatic": "自動（您所在地區的預設值）",
+  "settings.recommendations.personalised": "個人化",
+  "settings.recommendations.community": "社群",
+  "settings.recommendations.chronological": "時間順序",
+  "settings.recommendations.explained": "個人化模式使用您的閱讀活動和喜愛的類型。社群模式顯示所有讀者中的熱門作品，不進行個人剖析。時間順序模式僅顯示最新內容和您明確追蹤的故事。"
 }

@@ -1,6 +1,7 @@
 {
   "library.add": "Kütüphaneye ekle",
   "library.remove": "Kütüphaneden kaldır",
+  "library.inLibrary": "Kütüphanede",
   "library.bought": "Satın alınan hikayeler",
   "library.stories": "Takip edilen hikayeler",
   "library.universes": "Takip edilen evrenler",

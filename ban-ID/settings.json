@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Rekomendasi satua",
+  "settings.recommendations.mode": "Sapunapi antuk tiang ngrekomendasiang satua ring ragane?",
+  "settings.recommendations.automatic": "Otomatis (default wewidangan ragane)",
+  "settings.recommendations.personalised": "Pribadi",
+  "settings.recommendations.community": "Komunitas",
+  "settings.recommendations.chronological": "Kronologis",
+  "settings.recommendations.explained": "Mode pribadi nganggen aktivitas maca lan genre kesenengan ragane. Mode komunitas nyihnayang sane kasub ring sami pamaca, tan wenten profiling. Mode kronologis wantah nyihnayang daging paling anyar lan satua sane katututin ragane."
 }

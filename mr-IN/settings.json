@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "कथा शिफारसी",
+  "settings.recommendations.mode": "आम्ही तुम्हाला कथा कशा सुचवाव्यात?",
+  "settings.recommendations.automatic": "स्वयंचलित (तुमच्या प्रदेशासाठी डीफॉल्ट)",
+  "settings.recommendations.personalised": "वैयक्तिकृत",
+  "settings.recommendations.community": "समुदाय",
+  "settings.recommendations.chronological": "कालानुक्रमे",
+  "settings.recommendations.explained": "वैयक्तिकृत मोड तुमची वाचन क्रिया आणि आवडते प्रकार वापरतो. समुदाय मोड प्रोफाइलिंगशिवाय सर्व वाचकांमध्ये लोकप्रिय असलेले दाखवतो. कालानुक्रमे मोड फक्त नवीनतम मजकूर आणि तुम्ही स्पष्टपणे फॉलो करत असलेल्या कथा दाखवतो."
 }

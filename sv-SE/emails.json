@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Nytt kapitel tillgängligt: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Nytt kapitel publicerat",
   "email.comics.chapterPublished.details": "Serie: {comicTitle} - Kapitel: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Öppet kapitel"
+  "email.comics.chapterPublished.cta": "Öppet kapitel",
+  "email.notifications.qaNewQuestion.subject": "Ny fråga på {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Ny fråga på {blogName} från {askerName}",
+  "email.notifications.qaNewQuestion.title": "Du har en ny fråga!",
+  "email.notifications.qaNewQuestion.details": "{askerName} ställde en fråga på din blogg \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "Besvara frågan",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} svarade på din fråga",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} svarade på din fråga på {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Din fråga har besvarats!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} har svarat på din fråga på \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "Detta svar är privat och synligt endast för dig.",
+  "email.notifications.qaAnswerReceived.cta": "Visa svar"
 }

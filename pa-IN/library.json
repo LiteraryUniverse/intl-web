@@ -1,6 +1,7 @@
 {
   "library.add": "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ",
   "library.remove": "ਲਾਇਬ੍ਰੇਰੀ ਤੋਂ ਹਟਾਓ",
+  "library.inLibrary": "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਹੈ",
   "library.bought": "ਖਰੀਦੇ ਗਏ ਕਹਾਣੀਆਂ",
   "library.stories": "ਪਿਛੇ ਲਈ ਗਈਆਂ ਕਹਾਣੀਆਂ",
   "library.universes": "ਪਾਲਿਆ ਗਿਆ ਯੂਨੀਵਰਸ",

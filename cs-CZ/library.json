@@ -1,6 +1,7 @@
 {
   "library.add": "Přidat do knihovny",
   "library.remove": "Odebrat z knihovny",
+  "library.inLibrary": "V knihovně",
   "library.bought": "Zakoupené příběhy",
   "library.stories": "Sledované příběhy",
   "library.universes": "Sledované vesmíry",

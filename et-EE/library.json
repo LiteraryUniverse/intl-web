@@ -1,6 +1,7 @@
 {
   "library.add": "Lisa raamatukokku",
   "library.remove": "Eemalda raamatukogust",
+  "library.inLibrary": "Raamatukogus",
   "library.bought": "Ostetud lood",
   "library.stories": "Jälgitud lood",
   "library.universes": "Jälgitud universumid",

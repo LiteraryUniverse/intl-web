@@ -1,6 +1,7 @@
 {
   "library.add": "Aldoni al biblioteko",
   "library.remove": "Forigi el biblioteko",
+  "library.inLibrary": "En biblioteko",
   "library.bought": "Aĉetitaj rakontoj",
   "library.stories": "Sekvitaj rakontoj",
   "library.universes": "Sekvitaj universoj",

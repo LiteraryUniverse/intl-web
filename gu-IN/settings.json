@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "વાર્તા ભલામણો",
+  "settings.recommendations.mode": "અમે તમને વાર્તાઓ કેવી રીતે ભલામણ કરીએ?",
+  "settings.recommendations.automatic": "સ્વચાલિત (તમારા પ્રદેશ માટે ડિફોલ્ટ)",
+  "settings.recommendations.personalised": "વ્યક્તિગત",
+  "settings.recommendations.community": "સમુદાય",
+  "settings.recommendations.chronological": "કાળક્રમિક",
+  "settings.recommendations.explained": "વ્યક્તિગત મોડ તમારી વાંચન પ્રવૃત્તિ અને પ્રિય શૈલીઓનો ઉપયોગ કરે છે. સમુદાય મોડ પ્રોફાઇલિંગ વિના બધા વાચકોમાં લોકપ્રિય શું છે તે બતાવે છે. કાળક્રમિક મોડ ફક્ત નવીનતમ સામગ્રી અને તમે સ્પષ્ટપણે અનુસરો છો તે વાર્તાઓ બતાવે છે."
 }

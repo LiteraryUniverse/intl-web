@@ -216,5 +216,12 @@
   "settings.interests.genres": "Ulubione gatunki",
   "settings.interests.genres.help": "Wybierz gatunki, które Cię interesują.",
   "settings.interests.tags": "Ulubione tagi",
-  "settings.interests.tags.help": "Wybierz do 20 tagów, które Cię interesują."
+  "settings.interests.tags.help": "Wybierz do 20 tagów, które Cię interesują.",
+  "settings.recommendations.title": "Rekomendacje historii",
+  "settings.recommendations.mode": "Jak mamy polecać ci historie?",
+  "settings.recommendations.automatic": "Automatycznie (domyślne dla twojego regionu)",
+  "settings.recommendations.personalised": "Spersonalizowane",
+  "settings.recommendations.community": "Społeczność",
+  "settings.recommendations.chronological": "Chronologicznie",
+  "settings.recommendations.explained": "Tryb spersonalizowany wykorzystuje twoją aktywność czytelniczą i ulubione gatunki. Tryb społeczności pokazuje, co jest popularne wśród wszystkich czytelników, bez profilowania. Tryb chronologiczny pokazuje tylko najnowsze treści i historie, które jawnie obserwujesz."
 }

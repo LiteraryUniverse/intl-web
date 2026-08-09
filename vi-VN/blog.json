@@ -186,5 +186,15 @@
   "blog.domains.available": "Khả dụng!",
   "blog.domains.customComing": "Kết nối tên miền riêng (như blog.tencuaban.com) sẽ sớm ra mắt.",
   "blog.post.viewPublished": "Xem bài đã xuất bản",
-  "blog.post.edit": "Chỉnh sửa bài"
+  "blog.post.edit": "Chỉnh sửa bài",
+  "blog.qa.autoQuestion.author.1": "Điều gì đã truyền cảm hứng để bạn bắt đầu viết?",
+  "blog.qa.autoQuestion.author.2": "Phần nào trong quá trình sáng tạo bạn thích nhất?",
+  "blog.qa.autoQuestion.author.3": "Nhân vật nào của bạn gần gũi với bạn nhất, và tại sao?",
+  "blog.qa.autoQuestion.author.4": "Bạn sẽ khuyên các tác giả mới điều gì?",
+  "blog.qa.autoQuestion.author.5": "Bạn đang làm việc trên điều gì?",
+  "blog.qa.autoQuestion.universe.1": "Ý tưởng cốt lõi đằng sau {name} là gì?",
+  "blog.qa.autoQuestion.universe.2": "Bạn bắt đầu xây dựng thế giới {name} như thế nào?",
+  "blog.qa.autoQuestion.universe.3": "Điều gì khiến {name} độc đáo so với các bối cảnh khác?",
+  "blog.qa.autoQuestion.universe.4": "Có địa điểm hoặc nhân vật nào trong {name} mà người hâm mộ thường bỏ qua không?",
+  "blog.qa.autoQuestion.universe.5": "Điều gì sẽ đến tiếp theo với các câu chuyện lấy bối cảnh {name}?"
 }

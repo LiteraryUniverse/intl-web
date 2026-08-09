@@ -1,6 +1,7 @@
 {
   "library.add": "Προσθήκη στη βιβλιοθήκη",
   "library.remove": "Αφαίρεση από τη βιβλιοθήκη",
+  "library.inLibrary": "Στη βιβλιοθήκη",
   "library.bought": "Αγόρασε ιστορίες",
   "library.stories": "Ακολούθησαν ιστορίες",
   "library.universes": "Ακολουθούμενα σύμπαντα",

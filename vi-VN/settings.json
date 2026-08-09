@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Đề xuất truyện",
+  "settings.recommendations.mode": "Bạn muốn chúng tôi đề xuất truyện như thế nào?",
+  "settings.recommendations.automatic": "Tự động (mặc định cho khu vực của bạn)",
+  "settings.recommendations.personalised": "Cá nhân hóa",
+  "settings.recommendations.community": "Cộng đồng",
+  "settings.recommendations.chronological": "Theo thời gian",
+  "settings.recommendations.explained": "Chế độ cá nhân hóa dùng hoạt động đọc và thể loại yêu thích của bạn. Chế độ cộng đồng hiển thị những gì phổ biến với mọi độc giả, không lập hồ sơ. Chế độ theo thời gian chỉ hiển thị nội dung mới nhất và những truyện bạn theo dõi rõ ràng."
 }

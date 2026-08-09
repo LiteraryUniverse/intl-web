@@ -1,6 +1,7 @@
 {
   "library.add": "Lisää kirjastoon",
   "library.remove": "Poista kirjastosta",
+  "library.inLibrary": "Kirjastossa",
   "library.bought": "Ostetut tarinat",
   "library.stories": "Seuratut tarinat",
   "library.universes": "Seuratut universumit",

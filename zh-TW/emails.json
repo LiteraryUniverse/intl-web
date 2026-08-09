@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "新章可用：\"{comicTitle}\"",
   "email.comics.chapterPublished.title": "新章已出版",
   "email.comics.chapterPublished.details": "漫畫 {comicTitle} - 章節： {chapterTitle}",
-  "email.comics.chapterPublished.cta": "開啟章節"
+  "email.comics.chapterPublished.cta": "開啟章節",
+  "email.notifications.qaNewQuestion.subject": "{blogName} 有新問題",
+  "email.notifications.qaNewQuestion.preview": "{blogName} 來自 {askerName} 的新問題",
+  "email.notifications.qaNewQuestion.title": "你有一個新問題！",
+  "email.notifications.qaNewQuestion.details": "{askerName} 在你的部落格「{blogName}」提出了問題：",
+  "email.notifications.qaNewQuestion.cta": "回答問題",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} 回答了你的問題",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} 在 {blogName} 回答了你的問題",
+  "email.notifications.qaAnswerReceived.title": "你的問題已獲得回答！",
+  "email.notifications.qaAnswerReceived.details": "{authorName} 在「{blogName}」回答了你的問題：",
+  "email.notifications.qaAnswerReceived.privateNote": "此回答為私人內容，僅你可見。",
+  "email.notifications.qaAnswerReceived.cta": "查看回答"
 }

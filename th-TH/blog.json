@@ -186,5 +186,15 @@
   "blog.domains.available": "ใช้ได้!",
   "blog.domains.customComing": "การเชื่อมต่อโดเมนของคุณเอง (เช่น blog.yourname.com) จะมาเร็ว ๆ นี้",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.qa.autoQuestion.author.1": "อะไรเป็นแรงบันดาลใจให้คุณเริ่มเขียน?",
+  "blog.qa.autoQuestion.author.2": "ส่วนไหนของกระบวนการสร้างสรรค์ที่คุณชอบที่สุด?",
+  "blog.qa.autoQuestion.author.3": "ตัวละครใดของคุณที่ใกล้ชิดหัวใจที่สุด และเพราะอะไร?",
+  "blog.qa.autoQuestion.author.4": "คุณจะให้คำแนะนำอะไรกับนักเขียนมือใหม่?",
+  "blog.qa.autoQuestion.author.5": "ตอนนี้คุณกำลังทำงานอะไรอยู่?",
+  "blog.qa.autoQuestion.universe.1": "แนวคิดหลักเบื้องหลัง {name} คืออะไร?",
+  "blog.qa.autoQuestion.universe.2": "คุณเริ่มสร้างโลกของ {name} ได้อย่างไร?",
+  "blog.qa.autoQuestion.universe.3": "อะไรทำให้ {name} โดดเด่นเมื่อเทียบกับฉากอื่นๆ?",
+  "blog.qa.autoQuestion.universe.4": "มีสถานที่หรือตัวละครใน {name} ที่แฟนๆ มักมองข้ามหรือไม่?",
+  "blog.qa.autoQuestion.universe.5": "เรื่องราวใน {name} จะไปต่ออย่างไรต่อไป?"
 }

@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favoriete genres",
   "settings.interests.genres.help": "Selecteer genres die je interesseren.",
   "settings.interests.tags": "Favoriete tags",
-  "settings.interests.tags.help": "Selecteer maximaal 20 tags die je interesseren."
+  "settings.interests.tags.help": "Selecteer maximaal 20 tags die je interesseren.",
+  "settings.recommendations.title": "Verhaalaanbevelingen",
+  "settings.recommendations.mode": "Hoe moeten we je verhalen aanbevelen?",
+  "settings.recommendations.automatic": "Automatisch (standaard voor je regio)",
+  "settings.recommendations.personalised": "Gepersonaliseerd",
+  "settings.recommendations.community": "Community",
+  "settings.recommendations.chronological": "Chronologisch",
+  "settings.recommendations.explained": "Gepersonaliseerd gebruikt je leesactiviteit en favoriete genres. Community toont wat populair is onder alle lezers, zonder profilering. Chronologisch toont alleen de nieuwste inhoud en de verhalen die je expliciet volgt."
 }

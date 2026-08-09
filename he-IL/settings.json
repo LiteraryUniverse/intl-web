@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "המלצות סיפורים",
+  "settings.recommendations.mode": "איך תרצו שנמליץ לכם על סיפורים?",
+  "settings.recommendations.automatic": "אוטומטי (ברירת המחדל לאזורכם)",
+  "settings.recommendations.personalised": "מותאם אישית",
+  "settings.recommendations.community": "קהילה",
+  "settings.recommendations.chronological": "כרונולוגי",
+  "settings.recommendations.explained": "מצב מותאם אישית משתמש בפעילות הקריאה ובז'אנרים המועדפים שלכם. מצב קהילה מציג את מה שפופולרי בקרב כלל הקוראים, ללא יצירת פרופיל. מצב כרונולוגי מציג רק את התוכן החדש ביותר ואת הסיפורים שאתם עוקבים אחריהם במפורש."
 }

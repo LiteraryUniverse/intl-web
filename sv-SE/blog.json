@@ -186,5 +186,15 @@
   "blog.domains.available": "Tillgänglig!",
   "blog.domains.customComing": "Anslutning av egen domän (som blog.dittnamn.se) kommer snart.",
   "blog.post.viewPublished": "Visa publicerat inlägg",
-  "blog.post.edit": "Redigera inlägg"
+  "blog.post.edit": "Redigera inlägg",
+  "blog.qa.autoQuestion.author.1": "Vad inspirerade dig att börja skriva?",
+  "blog.qa.autoQuestion.author.2": "Vilken del av den kreativa processen gillar du mest?",
+  "blog.qa.autoQuestion.author.3": "Vilken av dina karaktärer ligger dig närmast om hjärtat, och varför?",
+  "blog.qa.autoQuestion.author.4": "Vilket råd skulle du ge till nya författare?",
+  "blog.qa.autoQuestion.author.5": "Vad arbetar du med just nu?",
+  "blog.qa.autoQuestion.universe.1": "Vad är kärnidén bakom {name}?",
+  "blog.qa.autoQuestion.universe.2": "Hur började du bygga världen i {name}?",
+  "blog.qa.autoQuestion.universe.3": "Vad gör {name} unikt jämfört med andra miljöer?",
+  "blog.qa.autoQuestion.universe.4": "Finns det en plats eller karaktär i {name} som fans ofta förbiser?",
+  "blog.qa.autoQuestion.universe.5": "Vad är nästa steg för berättelserna i {name}?"
 }

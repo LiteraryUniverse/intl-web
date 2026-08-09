@@ -1,6 +1,7 @@
 {
   "library.add": "加入圖書館",
   "library.remove": "從圖書館移除",
+  "library.inLibrary": "已在圖書館中",
   "library.bought": "已購買的故事",
   "library.stories": "已追蹤的故事",
   "library.universes": "已追蹤的宇宙",

@@ -186,5 +186,15 @@
   "blog.domains.available": "사용 가능!",
   "blog.domains.customComing": "자체 도메인 연결(blog.yourname.com 등)은 곧 지원됩니다.",
   "blog.post.viewPublished": "게시된 글 보기",
-  "blog.post.edit": "글 편집"
+  "blog.post.edit": "글 편집",
+  "blog.qa.autoQuestion.author.1": "글을 쓰기 시작하게 된 계기는 무엇인가요?",
+  "blog.qa.autoQuestion.author.2": "창작 과정에서 가장 좋아하는 부분은 무엇인가요?",
+  "blog.qa.autoQuestion.author.3": "가장 애정이 가는 캐릭터는 누구이며, 그 이유는 무엇인가요?",
+  "blog.qa.autoQuestion.author.4": "신규 작가에게 어떤 조언을 하시겠습니까?",
+  "blog.qa.autoQuestion.author.5": "현재 어떤 작업을 하고 계신가요?",
+  "blog.qa.autoQuestion.universe.1": "{name}의 핵심 아이디어는 무엇인가요?",
+  "blog.qa.autoQuestion.universe.2": "{name} 세계를 어떻게 구축하기 시작하셨나요?",
+  "blog.qa.autoQuestion.universe.3": "다른 설정과 비교했을 때 {name}을(를) 특별하게 만드는 점은 무엇인가요?",
+  "blog.qa.autoQuestion.universe.4": "{name}에서 팬들이 자주 놓치는 장소나 캐릭터가 있나요?",
+  "blog.qa.autoQuestion.universe.5": "{name}을(를) 배경으로 한 이야기의 다음 단계는 무엇인가요?"
 }

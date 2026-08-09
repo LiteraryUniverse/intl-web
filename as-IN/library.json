@@ -1,6 +1,7 @@
 {
   "library.add": "লাইব্ৰেৰীত যোগ কৰক",
   "library.remove": "লাইব্ৰেৰীৰ পৰা আঁতৰাওক",
+  "library.inLibrary": "লাইব্ৰেৰীত আছে",
   "library.bought": "কিনা গল্পসমূহ",
   "library.stories": "অনুসরণ কৰা গল্পসমূহ",
   "library.universes": "অনুসরণ কৰা বৃহৎমন্ডলীসমূহ",

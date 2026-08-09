@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Recomanacions d'històries",
+  "settings.recommendations.mode": "Com vols que et recomanem històries?",
+  "settings.recommendations.automatic": "Automàtic (per defecte a la teva regió)",
+  "settings.recommendations.personalised": "Personalitzat",
+  "settings.recommendations.community": "Comunitat",
+  "settings.recommendations.chronological": "Cronològic",
+  "settings.recommendations.explained": "El mode personalitzat utilitza la teva activitat de lectura i els teus gèneres preferits. El mode comunitat mostra el que és popular entre tots els lectors, sense elaborar perfils. El mode cronològic només mostra el contingut més recent i les històries que segueixes explícitament."
 }

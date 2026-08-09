@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Neues Kapitel verfügbar: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Neues Kapitel veröffentlicht",
   "email.comics.chapterPublished.details": "Comic: {comicTitle} - Kapitel: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Kapitel öffnen"
+  "email.comics.chapterPublished.cta": "Kapitel öffnen",
+  "email.notifications.qaNewQuestion.subject": "Neue Frage zu {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Neue Frage zu {blogName} von {askerName}",
+  "email.notifications.qaNewQuestion.title": "Sie haben eine neue Frage!",
+  "email.notifications.qaNewQuestion.details": "{askerName} hat eine Frage in Ihrem Blog „{blogName}“ gestellt:",
+  "email.notifications.qaNewQuestion.cta": "Frage beantworten",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} hat Ihre Frage beantwortet",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} hat Ihre Frage zu {blogName} beantwortet",
+  "email.notifications.qaAnswerReceived.title": "Ihre Frage wurde beantwortet!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} hat Ihre Frage in „{blogName}“ beantwortet:",
+  "email.notifications.qaAnswerReceived.privateNote": "Diese Antwort ist privat und nur für Sie sichtbar.",
+  "email.notifications.qaAnswerReceived.cta": "Antwort ansehen"
 }

@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Новая глава доступна: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Опубликована новая глава",
   "email.comics.chapterPublished.details": "Комикс: {comicTitle} - Глава: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Открытая глава"
+  "email.comics.chapterPublished.cta": "Открытая глава",
+  "email.notifications.qaNewQuestion.subject": "Новый вопрос в {blogName}",
+  "email.notifications.qaNewQuestion.preview": "Новый вопрос в {blogName} от {askerName}",
+  "email.notifications.qaNewQuestion.title": "У вас новый вопрос!",
+  "email.notifications.qaNewQuestion.details": "{askerName} задал(а) вопрос в вашем блоге «{blogName}»:",
+  "email.notifications.qaNewQuestion.cta": "Ответить на вопрос",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} ответил(а) на ваш вопрос",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} ответил(а) на ваш вопрос в {blogName}",
+  "email.notifications.qaAnswerReceived.title": "На ваш вопрос ответили!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} ответил(а) на ваш вопрос в «{blogName}»:",
+  "email.notifications.qaAnswerReceived.privateNote": "Этот ответ является личным и виден только вам.",
+  "email.notifications.qaAnswerReceived.cta": "Посмотреть ответ"
 }

@@ -186,5 +186,15 @@
   "blog.domains.available": "Dostępna!",
   "blog.domains.customComing": "Podłączenie własnej domeny (np. blog.twojenazwisko.pl) już wkrótce.",
   "blog.post.viewPublished": "Zobacz opublikowany wpis",
-  "blog.post.edit": "Edytuj wpis"
+  "blog.post.edit": "Edytuj wpis",
+  "blog.qa.autoQuestion.author.1": "Co zainspirowało Cię do rozpoczęcia pisania?",
+  "blog.qa.autoQuestion.author.2": "Która część procesu twórczego podoba Ci się najbardziej?",
+  "blog.qa.autoQuestion.author.3": "Która z Twoich postaci jest Ci najbliższa i dlaczego?",
+  "blog.qa.autoQuestion.author.4": "Jaką radę dałbyś nowym pisarzom?",
+  "blog.qa.autoQuestion.author.5": "Nad czym obecnie pracujesz?",
+  "blog.qa.autoQuestion.universe.1": "Jaka jest główna idea stojąca za {name}?",
+  "blog.qa.autoQuestion.universe.2": "Jak zacząłeś budować świat {name}?",
+  "blog.qa.autoQuestion.universe.3": "Co wyróżnia {name} na tle innych uniwersów?",
+  "blog.qa.autoQuestion.universe.4": "Czy w {name} jest miejsce lub postać, które fani często pomijają?",
+  "blog.qa.autoQuestion.universe.5": "Co dalej z historiami osadzonych w {name}?"
 }

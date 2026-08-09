@@ -186,5 +186,15 @@
   "blog.domains.available": "Disponibil!",
   "blog.domains.customComing": "Conectarea propriului domeniu (precum blog.numeledvs.ro) vine în curând.",
   "blog.post.viewPublished": "Vezi postarea publicată",
-  "blog.post.edit": "Editează postarea"
+  "blog.post.edit": "Editează postarea",
+  "blog.qa.autoQuestion.author.1": "Ce te-a inspirat să începi să scrii?",
+  "blog.qa.autoQuestion.author.2": "Care este partea ta preferată din procesul creativ?",
+  "blog.qa.autoQuestion.author.3": "Care dintre personajele tale îți este cel mai drag și de ce?",
+  "blog.qa.autoQuestion.author.4": "Ce sfat ai da scriitorilor la început de drum?",
+  "blog.qa.autoQuestion.author.5": "La ce lucrezi în prezent?",
+  "blog.qa.autoQuestion.universe.1": "Care este ideea centrală din spatele {name}?",
+  "blog.qa.autoQuestion.universe.2": "Cum ai început să construiești lumea din {name}?",
+  "blog.qa.autoQuestion.universe.3": "Ce face {name} unic față de alte universuri?",
+  "blog.qa.autoQuestion.universe.4": "Există un loc sau un personaj în {name} pe care fanii îl trec adesea cu vederea?",
+  "blog.qa.autoQuestion.universe.5": "Ce urmează pentru poveștile plasate în {name}?"
 }

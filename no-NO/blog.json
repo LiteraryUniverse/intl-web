@@ -186,5 +186,15 @@
   "blog.domains.available": "Tilgjengelig!",
   "blog.domains.customComing": "Tilkobling av eget domene (som blog.dittnavn.no) kommer snart.",
   "blog.post.viewPublished": "Vis publisert innlegg",
-  "blog.post.edit": "Rediger innlegg"
+  "blog.post.edit": "Rediger innlegg",
+  "blog.qa.autoQuestion.author.1": "Hva inspirerte deg til å begynne å skrive?",
+  "blog.qa.autoQuestion.author.2": "Hvilken del av den kreative prosessen liker du best?",
+  "blog.qa.autoQuestion.author.3": "Hvilken av karakterene dine ligger deg nærmest, og hvorfor?",
+  "blog.qa.autoQuestion.author.4": "Hvilket råd ville du gi til nye forfattere?",
+  "blog.qa.autoQuestion.author.5": "Hva jobber du med for øyeblikket?",
+  "blog.qa.autoQuestion.universe.1": "Hva er kjerneideen bak {name}?",
+  "blog.qa.autoQuestion.universe.2": "Hvordan begynte du å bygge verden i {name}?",
+  "blog.qa.autoQuestion.universe.3": "Hva gjør {name} unikt sammenlignet med andre settinger?",
+  "blog.qa.autoQuestion.universe.4": "Finnes det et sted eller en karakter i {name} som fans ofte overser?",
+  "blog.qa.autoQuestion.universe.5": "Hva er det neste for historiene i {name}?"
 }

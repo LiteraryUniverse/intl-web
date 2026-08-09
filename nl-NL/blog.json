@@ -186,5 +186,15 @@
   "blog.domains.available": "Beschikbaar!",
   "blog.domains.customComing": "Het koppelen van je eigen domein (zoals blog.jouwnaam.nl) komt binnenkort.",
   "blog.post.viewPublished": "Gepubliceerde post bekijken",
-  "blog.post.edit": "Post bewerken"
+  "blog.post.edit": "Post bewerken",
+  "blog.qa.autoQuestion.author.1": "Wat heeft je geïnspireerd om te gaan schrijven?",
+  "blog.qa.autoQuestion.author.2": "Wat is je favoriete deel van het creatieve proces?",
+  "blog.qa.autoQuestion.author.3": "Welk van je personages ligt je het meest na aan het hart, en waarom?",
+  "blog.qa.autoQuestion.author.4": "Welke tip zou je nieuwe schrijvers geven?",
+  "blog.qa.autoQuestion.author.5": "Waar werk je momenteel aan?",
+  "blog.qa.autoQuestion.universe.1": "Wat is het kernidee achter {name}?",
+  "blog.qa.autoQuestion.universe.2": "Hoe ben je begonnen met het opbouwen van de wereld van {name}?",
+  "blog.qa.autoQuestion.universe.3": "Wat maakt {name} uniek vergeleken met andere settings?",
+  "blog.qa.autoQuestion.universe.4": "Is er een locatie of personage in {name} die fans vaak over het hoofd zien?",
+  "blog.qa.autoQuestion.universe.5": "Wat is de volgende stap voor de verhalen in {name}?"
 }

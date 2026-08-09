@@ -216,5 +216,12 @@
   "settings.interests.genres": "好きなジャンル",
   "settings.interests.genres.help": "興味のあるジャンルを選択してください。",
   "settings.interests.tags": "好きなタグ",
-  "settings.interests.tags.help": "興味のあるタグを20個まで選択してください。"
+  "settings.interests.tags.help": "興味のあるタグを20個まで選択してください。",
+  "settings.recommendations.title": "ストーリーのおすすめ",
+  "settings.recommendations.mode": "どのようにストーリーをおすすめしますか？",
+  "settings.recommendations.automatic": "自動（お住まいの地域の既定）",
+  "settings.recommendations.personalised": "パーソナライズ",
+  "settings.recommendations.community": "コミュニティ",
+  "settings.recommendations.chronological": "時系列",
+  "settings.recommendations.explained": "パーソナライズはあなたの読書履歴と好きなジャンルを利用します。コミュニティはプロファイリングなしで全読者に人気の作品を表示します。時系列は最新のコンテンツと明示的にフォローしている作品のみを表示します。"
 }

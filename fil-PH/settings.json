@@ -216,5 +216,12 @@
   "settings.interests.genres": "Favorite Genres",
   "settings.interests.genres.help": "Select genres that interest you.",
   "settings.interests.tags": "Favorite Tags",
-  "settings.interests.tags.help": "Select up to 20 tags that interest you."
+  "settings.interests.tags.help": "Select up to 20 tags that interest you.",
+  "settings.recommendations.title": "Mga rekomendasyon ng kuwento",
+  "settings.recommendations.mode": "Paano ka namin dapat rekomendahan ng mga kuwento?",
+  "settings.recommendations.automatic": "Awtomatiko (default para sa iyong rehiyon)",
+  "settings.recommendations.personalised": "Personalisado",
+  "settings.recommendations.community": "Komunidad",
+  "settings.recommendations.chronological": "Sunud-sunod sa panahon",
+  "settings.recommendations.explained": "Ginagamit ng personalisado ang iyong aktibidad sa pagbabasa at mga paboritong genre. Ipinapakita ng komunidad kung ano ang sikat sa lahat ng mambabasa, nang walang profiling. Ipinapakita lang ng sunud-sunod sa panahon ang pinakabagong nilalaman at ang mga kuwentong hayagang sinusundan mo."
 }
