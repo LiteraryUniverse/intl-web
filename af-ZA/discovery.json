@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "Hierdie stories is gewild onder alle lesers — geen profilering word gebruik nie.",
+  "discovery.recommendations.sourceChronological": "Dit is die nuutste stories — geen rangordening of profilering word gebruik nie.",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "Gemiddelde beoordeling van {avgRating, number} vanaf {reviewsNum, number} resensie",

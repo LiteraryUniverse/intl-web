@@ -1424,6 +1424,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "Những truyện này phổ biến với mọi độc giả — không sử dụng lập hồ sơ.",
+  "discovery.recommendations.sourceChronological": "Đây là những truyện mới nhất — không xếp hạng, không lập hồ sơ.",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Chỉ hiển thị các vũ trụ mẫu (bách khoa toàn thư có thể sao chép)",
   "discover.ratingExplained": "Điểm đánh giá trung bình {avgRating, number} từ bài đánh giá {reviewsNum, number}",

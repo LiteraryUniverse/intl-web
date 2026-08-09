@@ -1424,6 +1424,8 @@
   "discovery.aiContent.indicator.model": "Model AI: {model}",
   "discovery.recommendations.storiesTitle": "Polecane historie",
   "discovery.recommendations.recommendationsExplained": "Te historie są polecane na podstawie naszego silnika rekomendacji. Wykorzystuje on uczenie maszynowe, aby polecać Państwu historie.",
+  "discovery.recommendations.sourceCommunity": "Te historie są popularne wśród wszystkich czytelników — bez profilowania.",
+  "discovery.recommendations.sourceChronological": "To najnowsze historie — bez rankingu i profilowania.",
   "discovery.recommendations.recommendationsSettings": "Można to wyłączyć w ustawieniach.",
   "discover.search.templateUniverses": "Pokazuje tylko szablony wszechświatów (encyklopedie z możliwością kopiowania)",
   "discover.ratingExplained": "Średnia ocena {avgRating, number} z {reviewsNum, number} recenzji",

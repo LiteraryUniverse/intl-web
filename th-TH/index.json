@@ -1424,6 +1424,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "เรื่องเหล่านี้เป็นที่นิยมในหมู่ผู้อ่านทุกคน — ไม่มีการทำโปรไฟล์",
+  "discovery.recommendations.sourceChronological": "นี่คือเรื่องล่าสุด — ไม่มีการจัดอันดับหรือการทำโปรไฟล์",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "แสดงเฉพาะจักรวาลเทมเพลต (สารานุกรมที่คัดลอกได้)",
   "discover.ratingExplained": "คะแนนเฉลี่ย {avgRating, number} จาก {reviewsNum, number} รีวิว",

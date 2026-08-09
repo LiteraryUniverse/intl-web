@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "Cerita ini popular dalam kalangan semua pembaca — tiada pemprofilan digunakan.",
+  "discovery.recommendations.sourceChronological": "Ini cerita terbaharu — tiada pemeringkatan atau pemprofilan digunakan.",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "Penilaian purata {avgRating, number} daripada {reviewsNum, number} ulasan",

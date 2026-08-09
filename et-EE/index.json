@@ -1414,6 +1414,8 @@
   "discovery.aiContent.indicator.model": "AI mudel: {model}",
   "discovery.recommendations.storiesTitle": "Soovitatavad lood",
   "discovery.recommendations.recommendationsExplained": "Neid lugusid soovitatakse meie soovituste süsteemi alusel. mis kasutab masinõpet, et soovitada teile lugusid.",
+  "discovery.recommendations.sourceCommunity": "Need lood on populaarsed kõigi lugejate seas — profileerimist ei kasutata.",
+  "discovery.recommendations.sourceChronological": "Need on uusimad lood — järjestamist ega profileerimist ei kasutata.",
   "discovery.recommendations.recommendationsSettings": "Saate selle oma seadetes keelata.",
   "discover.search.templateUniverses": "Näita ainult malliuniversumeid (kopeeritavad entsüklopeediad)",
   "discover.ratingExplained": "Keskmine hinnang {avgRating, number} alates {reviewsNum, number} arvustusest",

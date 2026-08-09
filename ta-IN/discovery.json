@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "இந்தக் கதைகள் எல்லா வாசகர்களிடையேயும் பிரபலமானவை — சுயவிவரமாக்கல் பயன்படுத்தப்படவில்லை.",
+  "discovery.recommendations.sourceChronological": "இவை புதிய கதைகள் — தரவரிசையோ சுயவிவரமாக்கலோ பயன்படுத்தப்படவில்லை.",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "{reviewsNum, number} விமர்சனத்திலிருந்து {avgRating, number} இன் சராசரி மதிப்பீடு",

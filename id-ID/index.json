@@ -1424,6 +1424,8 @@
   "discovery.aiContent.indicator.model": "Model AI: {model}",
   "discovery.recommendations.storiesTitle": "Cerita yang direkomendasikan",
   "discovery.recommendations.recommendationsExplained": "Cerita-cerita ini direkomendasikan berdasarkan mesin rekomendasi kami. Yang menggunakan pembelajaran mesin untuk merekomendasikan cerita untuk Anda.",
+  "discovery.recommendations.sourceCommunity": "Cerita-cerita ini populer di antara semua pembaca — tanpa pemrofilan.",
+  "discovery.recommendations.sourceChronological": "Ini adalah cerita terbaru — tanpa pemeringkatan atau pemrofilan.",
   "discovery.recommendations.recommendationsSettings": "Anda dapat menonaktifkan ini di Pengaturan Anda.",
   "discover.search.templateUniverses": "Tampilkan hanya template semesta (ensiklopedia yang dapat disalin)",
   "discover.ratingExplained": "Peringkat rata-rata dari {avgRating, number} dari {reviewsNum, number} review",

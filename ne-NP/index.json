@@ -1414,6 +1414,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "यी कथाहरू सबै पाठकहरूमाझ लोकप्रिय छन् — कुनै प्रोफाइलिङ प्रयोग गरिँदैन।",
+  "discovery.recommendations.sourceChronological": "यी नवीनतम कथाहरू हुन् — कुनै श्रेणीकरण वा प्रोफाइलिङ प्रयोग गरिँदैन।",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "{reviewsNum, number} समीक्षाबाट {avgRating, number} को औसत रेटिङ",

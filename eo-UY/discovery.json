@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "Ĉi tiuj rakontoj popularas inter ĉiuj legantoj — sen profilado.",
+  "discovery.recommendations.sourceChronological": "Jen la plej novaj rakontoj — sen rangordigo aŭ profilado.",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "Mezuma takso de {avgRating, number} el {reviewsNum, number} recenzo",

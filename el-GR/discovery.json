@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "Μοντέλο AI: {model}",
   "discovery.recommendations.storiesTitle": "Συνιστώμενες ιστορίες",
   "discovery.recommendations.recommendationsExplained": "Αυτές οι ιστορίες συνιστώνται με βάση τη μηχανή συστάσεών μας. Η οποία χρησιμοποιεί μηχανική μάθηση για να σας προτείνει ιστορίες.",
+  "discovery.recommendations.sourceCommunity": "Αυτές οι ιστορίες είναι δημοφιλείς σε όλους τους αναγνώστες — χωρίς κατάρτιση προφίλ.",
+  "discovery.recommendations.sourceChronological": "Αυτές είναι οι νεότερες ιστορίες — χωρίς κατάταξη ή κατάρτιση προφίλ.",
   "discovery.recommendations.recommendationsSettings": "Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις σας.",
   "discover.search.templateUniverses": "Εμφάνιση μόνο πρότυπων συμπάντων (αντιγράψιμες εγκυκλοπαίδειες)",
   "discover.ratingExplained": "Μέση βαθμολογία της {avgRating, number} από την {reviewsNum, number} κριτική",

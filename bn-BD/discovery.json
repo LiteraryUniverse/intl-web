@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "এই গল্পগুলো সব পাঠকের মধ্যে জনপ্রিয় — কোনো প্রোফাইলিং ব্যবহার করা হয়নি।",
+  "discovery.recommendations.sourceChronological": "এগুলো নতুনতম গল্প — কোনো র‍্যাঙ্কিং বা প্রোফাইলিং ব্যবহার করা হয়নি।",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "গড় রেটিং {avgRating, number} থেকে {reviewsNum, number} রিভিউ",

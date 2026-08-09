@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "ई कथा सभ पाठक मे लोकप्रिय अछि — कोनो प्रोफ़ाइलिंग नहि होइत अछि।",
+  "discovery.recommendations.sourceChronological": "ई सभसँ नव कथा अछि — कोनो रैंकिंग वा प्रोफ़ाइलिंग नहि होइत अछि।",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "{avgRating, number} सँ {reviewsNum, number} समीक्षा केर औसत रेटिंग",

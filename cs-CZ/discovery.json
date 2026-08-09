@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "Model AI: {model}",
   "discovery.recommendations.storiesTitle": "Doporučené příběhy",
   "discovery.recommendations.recommendationsExplained": "Tyto příběhy jsou doporučovány na základě našich doporučení. Ten využívá strojové učení k doporučování příběhů.",
+  "discovery.recommendations.sourceCommunity": "Tyto příběhy jsou populární mezi všemi čtenáři — bez profilování.",
+  "discovery.recommendations.sourceChronological": "Toto jsou nejnovější příběhy — bez řazení podle skóre a bez profilování.",
   "discovery.recommendations.recommendationsSettings": "Tuto funkci můžete zakázat ve svém nastavení.",
   "discover.search.templateUniverses": "Zobrazit pouze šablony vesmírů (kopírovatelné encyklopedie)",
   "discover.ratingExplained": "Průměrné hodnocení {avgRating, number} od {reviewsNum, number} recenze",

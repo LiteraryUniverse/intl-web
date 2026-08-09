@@ -1424,6 +1424,8 @@
   "discovery.aiContent.indicator.model": "AI Modell: {model}",
   "discovery.recommendations.storiesTitle": "Rekommenderade berättelser",
   "discovery.recommendations.recommendationsExplained": "Dessa berättelser rekommenderas baserat på vår rekommendationsmotor. Den använder maskininlärning för att rekommendera berättelser åt dig.",
+  "discovery.recommendations.sourceCommunity": "Dessa berättelser är populära bland alla läsare — ingen profilering används.",
+  "discovery.recommendations.sourceChronological": "Detta är de senaste berättelserna — ingen rankning eller profilering används.",
   "discovery.recommendations.recommendationsSettings": "Du kan inaktivera detta i dina inställningar.",
   "discover.search.templateUniverses": "Visa endast malluniversum (kopierbara encyklopedier)",
   "discover.ratingExplained": "Genomsnittligt betyg på {avgRating, number} från {reviewsNum, number} recension",

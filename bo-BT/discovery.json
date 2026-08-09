@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "སྒྲུང་འདི་དག་ཀློག་པ་པོ་ཚང་མའི་ནང་དར་ཁྱབ་ཆེ། སྒེར་གྱི་དབྱེ་ཞིབ་བེད་སྤྱོད་མེད།",
+  "discovery.recommendations.sourceChronological": "འདི་དག་སྒྲུང་གསར་ཤོས་ཡིན། གོ་རིམ་དང་དབྱེ་ཞིབ་བེད་སྤྱོད་མེད།",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "Average rating of {avgRating, number} from {reviewsNum, number} review",

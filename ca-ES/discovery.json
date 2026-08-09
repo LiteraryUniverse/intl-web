@@ -63,6 +63,8 @@
   "discovery.aiContent.indicator.model": "AI Model: {model}",
   "discovery.recommendations.storiesTitle": "Recommended stories",
   "discovery.recommendations.recommendationsExplained": "These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.",
+  "discovery.recommendations.sourceCommunity": "Aquestes històries són populars entre tots els lectors — no s'hi fa servir cap perfilat.",
+  "discovery.recommendations.sourceChronological": "Aquestes són les històries més noves — sense classificació ni perfilat.",
   "discovery.recommendations.recommendationsSettings": "You can disable this in Your settings.",
   "discover.search.templateUniverses": "Show only template universes (copyable encyclopedias)",
   "discover.ratingExplained": "Puntuació mitjana de {avgRating, number} de {reviewsNum, number} ressenya",

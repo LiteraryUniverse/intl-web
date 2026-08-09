@@ -1424,6 +1424,8 @@
   "discovery.aiContent.indicator.model": "Modelo AI: {model}",
   "discovery.recommendations.storiesTitle": "Histórias recomendadas",
   "discovery.recommendations.recommendationsExplained": "Estas histórias são recomendadas com base no nosso motor de recomendações. Que utiliza a aprendizagem automática para recomendar histórias para si.",
+  "discovery.recommendations.sourceCommunity": "Estas histórias são populares entre todos os leitores — sem definição de perfis.",
+  "discovery.recommendations.sourceChronological": "Estas são as histórias mais recentes — sem classificação nem definição de perfis.",
   "discovery.recommendations.recommendationsSettings": "Pode desativar esta opção nas suas definições.",
   "discover.search.templateUniverses": "Mostrar apenas universos modelo (enciclopédias copiáveis)",
   "discover.ratingExplained": "Classificação média de {avgRating, number} de {reviewsNum, number} avaliação",
