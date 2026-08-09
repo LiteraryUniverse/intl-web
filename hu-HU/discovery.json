@@ -21,7 +21,7 @@
   "story.status.inProgress": "Folyamatban",
   "discover.search.universeConnection": "Történet kapcsolódása univerzumhoz",
   "story.universeRelation.standalone": "Önálló történet",
-  "story.universeRelation.fanFiction": "Fan Fiction",
+  "story.universeRelation.fanFiction": "Rajongói írás",
   "story.universeRelation.universe": "Univerzum része",
   "discover.search.rating": "Korhatár",
   "discover.search.license": "Szerzői jogi engedély",
@@ -42,6 +42,7 @@
   "discovery.chapters.showAll": "Összes fejezet megjelenítése",
   "discovery.chapters.showMore": "További fejezetek megjelenítése",
   "discovery.chaptersTotal": "A történet összes fejezete",
+  "discovery.translation.chaptersAvailable": "Az ebben a fordításban elérhető fejezetek",
   "discovery.readFromStart": "Olvasás az első fejezettől",
   "discovery.readLatest": "Legfrissebb fejezet olvasása",
   "discovery.author": "Szerző",
@@ -100,6 +101,5 @@
   "discover.search.encyclopedia.comingSoon": "Az enciklopédia-keresés hamarosan érkezik.",
   "discover.search.universal.description": "Keresés történetekre és univerzumokra",
   "discover.search.typeSelection.aria": "Tartalomtípus kiválasztása",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Nincs találat} one {# találat} other {# találat}}",
-  "discovery.translation.chaptersAvailable": "Az ebben a fordításban elérhető fejezetek"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nincs találat} one {# találat} other {# találat}}"
 }

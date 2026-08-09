@@ -79,6 +79,8 @@
   "feedback.report.actions.none": "Nincs gyorsintézkedés",
   "feedback.report.actions.storySettings": "Menj a történet beállításaihoz",
   "feedback.report.actions.universeSettings": "Menj az univerzum beállításaihoz",
+  "feedback.report.actions.comicChapter": "Ugrás a fejezetszerkesztőbe",
+  "feedback.report.actions.comicSettings": "Képregény · Beállítások",
   "feedback.report.description": "Adott leírás",
   "feedback.report.copyrightReport": "Erre a műre szerzői jogi igényt kaptunk. Átvizsgáljuk az igényt és döntést hozunk. Ha további megjegyzéseket vagy kontextust szeretne megadni, kérjük, tegye meg az alábbiakban.",
   "feedback.help.selectFeaturedArticles": "Válassza ki a kiemelt cikkeket",
@@ -95,10 +97,8 @@
   "feedback.help.featuredVideosDescription": "Ezek a videók egy csúszkában jelennek meg a kategóriaoldalon. A videóknak a legjobb megjelenés érdekében miniatűrrel kell rendelkezniük.",
   "feedback.help.backToCategory": "Vissza a kategóriába",
   "feedback.help.watchVideo": "Videó megtekintése",
-  "feedback.help.noFeaturedCourses": "No featured courses available yet.",
-  "resolutionCenter.action.correctAgeRating": "Correct Age Rating",
-  "resolutionCenter.reportDetail": "Report Details",
-  "resolutionCenter.dashboard.title": "Resolution Center",
-  "feedback.report.actions.comicChapter": "Ugrás a fejezetszerkesztőbe",
-  "feedback.report.actions.comicSettings": "Képregény · Beállítások"
+  "feedback.help.noFeaturedCourses": "Még nincsenek elérhető kiemelt tanfolyamok.",
+  "resolutionCenter.action.correctAgeRating": "Korhatár-besorolás javítása",
+  "resolutionCenter.reportDetail": "Jelentés részletei",
+  "resolutionCenter.dashboard.title": "Vitarendezési központ"
 }

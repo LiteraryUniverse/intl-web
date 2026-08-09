@@ -48,11 +48,11 @@
   "reader.purchaseGate.buyArc": "または、このアークを購入する",
   "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} 章} other {{count} 章}} 含む",
   "story.chapter.freePreview": "Free",
-  "story.chapter.locked": "Locked",
-  "story.translation.noPricing": "Not yet available for purchase",
-  "story.ownAlready": "You already own this story.",
-  "story.buy": "Buy story",
-  "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
-  "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
-  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
+  "story.chapter.locked": "ロック中",
+  "story.translation.noPricing": "まだ購入できません",
+  "story.ownAlready": "この物語はすでに購入済みです。",
+  "story.buy": "物語を購入",
+  "reader.privatePurchaseBlocked.heading": "この章はご利用いただけません",
+  "reader.privatePurchaseBlocked.message": "この物語は現在非公開のため、新たな購入はできません。すでに購入された章は引き続きお読みいただけますが、この章は購入に含まれていません。",
+  "reader.printDisabled": "これはライセンスされたコンテンツです。著者は物語本文の印刷を無効にしています。"
 }

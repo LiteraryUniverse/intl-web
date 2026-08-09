@@ -6,7 +6,7 @@
   "universe.fanarts.for": "{universe} Fan Art",
   "universe.fansettings.for": "{universe} Fan-indstillinger",
   "universe.fanfiction.stories": "Historier",
-  "universe.fanfiction.fanarts": "Fan Arts",
+  "universe.fanfiction.fanarts": "Fan Art",
   "universe.stories.count": "Der {num, plural,\n    =0 {er ingen historier}\n    one {er én historie}\n    other {er # historier}\n    } i dette univers.",
   "universe.authors.title": "Forfattere",
   "universe.authors.desc": "Skabere og bidragsydere til {universe}",
@@ -30,9 +30,9 @@
   "universe.storiesCount": "Samlet antal historier i universet",
   "universe.createdAt": "Oprettet: {date}",
   "universe.authors.none": "Ingen oplysninger om forfattere tilgængelige.",
-  "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
-  "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
-  "universe.stories": "Stories"
+  "universe.blog.title": "{universe} - nyheder og opdateringer",
+  "universe.fanarts.allowComments": "Tillad kommentarer",
+  "universe.createdby": "Oprettet af",
+  "universe.fanArt.picture": "Fan art-billede",
+  "universe.stories": "Historier"
 }

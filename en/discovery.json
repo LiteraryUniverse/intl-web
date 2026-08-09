@@ -15,6 +15,8 @@
   "discover.searchStory.description": "Search for a stories",
   "discover.searchUniverse.title": "Search for a universe",
   "discover.searchUniverse.description": "Search for a universes",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics",
   "discover.search.storyStatus": "Story progress status",
   "discover.search.genres": "Genres",
   "story.status.complete": "Complete",

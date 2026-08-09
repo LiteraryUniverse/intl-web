@@ -10,7 +10,7 @@
   "user.friend.request.deny": "Afvis venskab",
   "user.listing": "Brugerliste",
   "user.profile.visit": "Besøg {user}'s profil.",
-  "user.profile.avatar": "{username}'s avatar",
+  "user.profile.avatar": "Avatar for {username}",
   "user.friend.list.requests": "Anmodninger om venskaber",
   "user.friend.norequests": "Du har ingen ønsker om venskab.",
   "user.dashboardWelcome": "Godt {dayPart, select,\n    morning {morgen}\n    afternoon {eftermiddag}\n    evening {aften}\n    night {nat}\n    other {dag}\n  } {displayName}!",
@@ -20,7 +20,7 @@
   "user.verification.publicFigure": "Verificeret offentlig person",
   "profile.storiesCount": "{count, number} {count, plural,\n    one {historie}\n    other {historier}\n  }",
   "profile.universesCount": "{count, number} {count, plural,\n    one {univers}\n    other {universer}\n  }",
-  "profile.fanFictionsCount": "{count, number} {count, plural,\n    one {fan fiction}\n    other {fan fictions} \n  }",
+  "profile.fanFictionsCount": "{count, number} {count, plural,\n    one {fanfiction}\n    other {fanfictions} \n  }",
   "profile.works": "Værker",
   "profile.wishlist": "Ønskeliste",
   "profile.storiesBy": "Historier oprettet af {username}",
@@ -38,5 +38,5 @@
   "storiesType.short_story": "Novelle",
   "user.settings.introTitle": "Velkommen til dine indstillinger!",
   "user.settings.introText": "Profilindstillinger giver dig mulighed for at tilpasse oplysninger om dig selv, f.eks. dit navn, din avatar osv. Kontoindstillinger giver dig mulighed for at indstille de mere tekniske aspekter, der har indflydelse på din oplevelse, f.eks. dit sprog, e-mails, webstedets tema, AI-indstillinger osv. Abonnement og betalinger giver dig mulighed for at administrere dine abonnementer og betalingsmuligheder. Endelig er Monetization det sted, hvor du kan administrere dine udbetalinger, fanklubber og andre muligheder for at tjene penge.",
-  "login.login": "Log in"
+  "login.login": "Log ind"
 }

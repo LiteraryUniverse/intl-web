@@ -14,7 +14,7 @@
   "forums.category.intlName.characters": "Personages",
   "forums.category.intlName.community": "Community",
   "forums.category.intlName.general": "Algemeen",
-  "forums.category.intlName.help": "Help",
+  "forums.category.intlName.help": "Hulp",
   "forums.category.intlName.history": "Geschiedenis",
   "forums.category.intlName.inspiration": "Inspiratie",
   "forums.category.intlName.locations": "Locaties",
@@ -41,7 +41,7 @@
   "forums.forumRestrictionsMessages.usersOnlyForum": "Dit forum is alleen toegankelijk voor geregistreerde gebruikers.",
   "forums.noPosts": "Niemand heeft nog gereageerd. Wees de eerste!",
   "forums.noThreads": "Hier valt niets te zien. Het is aan jou om het gesprek te beginnen.",
-  "forums.openingPost": "Opening post",
+  "forums.openingPost": "Openingsbericht",
   "forums.post.new": "Nieuwe post",
   "forums.posting": "Posten...",
   "forums.reply": "Antwoorden",
@@ -65,12 +65,12 @@
   "forums.category.postingPermission": "Wie kan threads aanmaken",
   "forums.category.postingPermission.everyone": "Iedereen",
   "forums.category.postingPermission.owner": "Alleen forum eigenaar",
+  "forums.category.orgRoles": "Beperken tot organisatierollen (geen = alle leden)",
   "forums.settings.systemPosts": "Systeem Berichten",
   "forums.settings.systemPosts.description": "Configureer het automatisch posten van door het systeem gegenereerde inhoud naar uw forum.",
   "forums.settings.systemPosts.blogs": "Blog Berichten",
   "forums.settings.systemPosts.blogs.enable": "Maak automatisch forumthreads aan voor nieuwe blogberichten",
   "forums.settings.systemPosts.blogs.category": "Geplaatst in categorie:",
   "forums.settings.systemPosts.blogs.selectCategory": "Selecteer een categorie...",
-  "forums.posts.loadError": "Fout bij het laden van berichten",
-  "forums.category.orgRoles": "Beperken tot organisatierollen (geen = alle leden)"
+  "forums.posts.loadError": "Fout bij het laden van berichten"
 }

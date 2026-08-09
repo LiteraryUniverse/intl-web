@@ -1,5 +1,5 @@
 {
-  "flashnews.admin": "Flashnews Admin",
+  "flashnews.admin": "Flashnieuwsbeheer",
   "flashnews.create": "Maak een nieuwe nieuwflits aan",
   "flashnews.startsAt": "Begin met het weergeven van dit bericht om",
   "flashnews.endsAt": "Stop met het weergeven van dit bericht om",
@@ -18,8 +18,8 @@
   "notification.orgWorkProposal.accepted": "{organization} heeft je werk {work} geaccepteerd",
   "notification.orgWorkProposal.rejected": "{organization} heeft je werk {work} afgewezen",
   "notification.workshopStoryStatus.toCancelled": "Je verhaal {storyName} is automatisch geannuleerd na één jaar inactiviteit.",
-  "notification.workshopComicStatus.toHiatus": "Your comic {comicName} was automatically set to hiatus after 6 months of inactivity.",
-  "notification.workshopComicStatus.toCancelled": "Your comic {comicName} was automatically set to cancelled after one year of inactivity.",
+  "notification.workshopComicStatus.toHiatus": "Je strip {comicName} is automatisch op pauze gezet na 6 maanden inactiviteit.",
+  "notification.workshopComicStatus.toCancelled": "Je strip {comicName} is automatisch geannuleerd na één jaar inactiviteit.",
   "notification.followingStoryStatus.toHiatus": "{storyName} staat op pauze.",
   "notification.followingStoryStatus.toCancelled": "{storyName} is geannuleerd.",
   "notification.followingNewChapter.new": "Nieuw hoofdstuk in {storyName} is gepubliceerd!",

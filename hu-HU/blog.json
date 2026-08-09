@@ -172,7 +172,7 @@
   "blog.menus.kind.external": "Külső hivatkozás",
   "blog.menus.pickPage": "Válasszon oldalt…",
   "blog.menus.addItem": "Menüpont hozzáadása",
-  "blog.domains": "Domain",
+  "blog.domains": "Domainek",
   "blog.domains.info": "Szolgáld ki ezt a blogot saját címéről. Az olvasók tiszta linket kapnak; az írás és a kezelés itt marad.",
   "blog.domains.status.active": "Aktív",
   "blog.domains.status.pending": "Függőben",

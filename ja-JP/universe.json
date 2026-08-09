@@ -30,9 +30,9 @@
   "universe.storiesCount": "宇宙の物語の総数",
   "universe.createdAt": "作成された： {date}",
   "universe.authors.none": "著者情報はありません。",
-  "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
-  "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
-  "universe.stories": "Stories"
+  "universe.blog.title": "{universe} - ニュースと最新情報",
+  "universe.fanarts.allowComments": "コメントを許可する",
+  "universe.createdby": "作成者",
+  "universe.fanArt.picture": "ファンアート画像",
+  "universe.stories": "物語"
 }
