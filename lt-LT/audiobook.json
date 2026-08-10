@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Šį leidimą vėl bus galima rasti ir jį galės įsigyti nauji klausytojai.",
   "audiobook.dangerZone": "Pavojaus zona",
   "audiobook.discoveryTitle": "Garso knygos",
+  "audiobook.discoveryDescription": "Ieškoti audioknygų",
   "audiobook.downloadFailed": "Atsisiųsti nepavyko",
   "audiobook.downloadFailedStatus": "Atsisiųsti nepavyko ({status})",
   "audiobook.downloadOffline": "Atsisiųsti naudoti neprisijungus",

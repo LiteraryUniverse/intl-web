@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "此版本將可再次被探索到，並開放給新聽眾購買。",
   "audiobook.dangerZone": "危險區域",
   "audiobook.discoveryTitle": "有聲書",
+  "audiobook.discoveryDescription": "搜尋有聲書",
   "audiobook.downloadFailed": "下載失敗",
   "audiobook.downloadFailedStatus": "下載失敗（{status}）",
   "audiobook.downloadOffline": "下載以離線使用",

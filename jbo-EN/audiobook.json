@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "lo vi sance cukta ba za'u re'u se facki gi'e curmi lo nu lo cnino tirna prenu cu te vecnu",
   "audiobook.dangerZone": "ckape stuzi",
   "audiobook.discoveryTitle": "sance cukta",
+  "audiobook.discoveryDescription": "sisku lo sance cukta",
   "audiobook.downloadFailed": "lo nu download cu na snada",
   "audiobook.downloadFailedStatus": "lo nu download cu na snada ({status})",
   "audiobook.downloadOffline": "download tezu'e lo nu na kansa la .internet.",

@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Toto vydanie bude opäť možné objaviť a bude dostupné na kúpu novým poslucháčom.",
   "audiobook.dangerZone": "Nebezpečná zóna",
   "audiobook.discoveryTitle": "Audioknihy",
+  "audiobook.discoveryDescription": "Hľadať audioknihy",
   "audiobook.downloadFailed": "Sťahovanie zlyhalo",
   "audiobook.downloadFailedStatus": "Sťahovanie zlyhalo ({status})",
   "audiobook.downloadOffline": "Stiahnuť offline",

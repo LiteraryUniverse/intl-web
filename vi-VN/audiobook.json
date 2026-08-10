@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Phiên bản này sẽ có thể được khám phá trở lại và người nghe mới có thể mua.",
   "audiobook.dangerZone": "Vùng nguy hiểm",
   "audiobook.discoveryTitle": "Sách nói",
+  "audiobook.discoveryDescription": "Tìm sách nói",
   "audiobook.downloadFailed": "Tải xuống thất bại",
   "audiobook.downloadFailedStatus": "Tải xuống thất bại ({status})",
   "audiobook.downloadOffline": "Tải xuống để nghe ngoại tuyến",

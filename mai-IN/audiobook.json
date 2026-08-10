@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "ई संस्करण फेरसँ खोज-योग्य होएत आ नव श्रोता सभक कीनबाक लेल उपलब्ध होएत।",
   "audiobook.dangerZone": "खतरा क्षेत्र",
   "audiobook.discoveryTitle": "अडियो बुक",
+  "audiobook.discoveryDescription": "ऑडियोबुक ताकू",
   "audiobook.downloadFailed": "डाउनलोड विफल",
   "audiobook.downloadFailedStatus": "डाउनलोड विफल ({status})",
   "audiobook.downloadOffline": "अफलाइनक लेल डाउनलोड करू",

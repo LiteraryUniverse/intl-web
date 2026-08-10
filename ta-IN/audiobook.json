@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "இந்தப் பதிப்பு மீண்டும் கண்டுபிடிக்கக்கூடியதாக இருக்கும், மேலும் புதிய கேட்பவர்கள் வாங்குவதற்குக் கிடைக்கும்.",
   "audiobook.dangerZone": "ஆபத்து மண்டலம்",
   "audiobook.discoveryTitle": "ஆடியோ புத்தகங்கள்",
+  "audiobook.discoveryDescription": "ஒலிப்புத்தகங்களைத் தேடுங்கள்",
   "audiobook.downloadFailed": "பதிவிறக்கம் தோல்வியடைந்தது",
   "audiobook.downloadFailedStatus": "பதிவிறக்கம் தோல்வியடைந்தது ({status})",
   "audiobook.downloadOffline": "ஆஃப்லைனுக்குப் பதிவிறக்கு",

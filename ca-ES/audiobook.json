@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Aquesta edició es tornarà a poder descobrir i estarà disponible perquè els nous oients la comprin.",
   "audiobook.dangerZone": "Zona de perill",
   "audiobook.discoveryTitle": "Audiollibres",
+  "audiobook.discoveryDescription": "Cerca audiollibres",
   "audiobook.downloadFailed": "Ha fallat la baixada",
   "audiobook.downloadFailedStatus": "Ha fallat la baixada ({status})",
   "audiobook.downloadOffline": "Baixa per escoltar sense connexió",

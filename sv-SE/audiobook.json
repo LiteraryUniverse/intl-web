@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Den här utgåvan blir åter synlig i upptäck och tillgänglig för nya lyssnare att köpa.",
   "audiobook.dangerZone": "Riskzon",
   "audiobook.discoveryTitle": "Ljudböcker",
+  "audiobook.discoveryDescription": "Sök efter ljudböcker",
   "audiobook.downloadFailed": "Nedladdningen misslyckades",
   "audiobook.downloadFailedStatus": "Nedladdningen misslyckades ({status})",
   "audiobook.downloadOffline": "Ladda ner för offline",

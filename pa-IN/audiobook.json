@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "ਇਹ ਐਡੀਸ਼ਨ ਦੁਬਾਰਾ ਖੋਜਯੋਗ ਹੋਵੇਗਾ ਅਤੇ ਨਵੇਂ ਸਰੋਤਿਆਂ ਦੇ ਖਰੀਦਣ ਲਈ ਉਪਲਬਧ ਹੋਵੇਗਾ।",
   "audiobook.dangerZone": "ਖ਼ਤਰੇ ਵਾਲਾ ਖੇਤਰ",
   "audiobook.discoveryTitle": "ਆਡੀਓ ਬੁੱਕਾਂ",
+  "audiobook.discoveryDescription": "ਆਡੀਓਬੁੱਕਾਂ ਖੋਜੋ",
   "audiobook.downloadFailed": "ਡਾਊਨਲੋਡ ਅਸਫਲ",
   "audiobook.downloadFailedStatus": "ਡਾਊਨਲੋਡ ਅਸਫਲ ({status})",
   "audiobook.downloadOffline": "ਆਫਲਾਈਨ ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ",

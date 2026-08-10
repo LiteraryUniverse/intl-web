@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Ĉi tiu eldono estos denove eltrovebla kaj havebla por aĉeto de novaj aŭskultantoj.",
   "audiobook.dangerZone": "Danĝera zono",
   "audiobook.discoveryTitle": "Sonlibroj",
+  "audiobook.discoveryDescription": "Serĉi aŭdlibrojn",
   "audiobook.downloadFailed": "Elŝuto malsukcesis",
   "audiobook.downloadFailedStatus": "Elŝuto malsukcesis ({status})",
   "audiobook.downloadOffline": "Elŝuti por eksterreta uzo",

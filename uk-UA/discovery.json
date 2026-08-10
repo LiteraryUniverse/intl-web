@@ -27,6 +27,8 @@
   "discover.search.license": "Авторські права",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Жоден всесвіт не відповідає вашим параметрам}\n        one {Знайдено 1 всесвіт}\n        few {# всесвітів знайдено}\n        many {# всесвітів знайдено}\n        other {# всесвіти знайдено}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Жодна історія не відповідає вашим параметрам}\n        one {історію знайдено}\n        few {# історій знайдено}\n        many {# історій знайдено}\n        other {# історії знайдено}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Жодна аудіокнига не відповідає вашим параметрам} one {Знайдено # аудіокнигу} few {Знайдено # аудіокниги} other {Знайдено # аудіокниг}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Жодна манга чи комікс не відповідає вашим параметрам} one {Знайдено # твір} few {Знайдено # твори} other {Знайдено # творів}}.",
   "discover.viewSelection.aria": "Переглянути вибране",
   "discover.searchDisplay.covers": "Перелік обкладинок",
   "discover.searchDisplay.list": "Стислий список",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Пошук",
   "discover.search.encyclopedia": "Енциклопедія",
   "discover.search.encyclopedia.comingSoon": "Пошук в енциклопедії незабаром.",
-  "discover.search.universal.description": "Пошук історій та всесвітів",
+  "discover.search.universal.description": "Шукайте історії, всесвіти, аудіокниги, мангу та комікси",
   "discover.search.typeSelection.aria": "Вибір типу контенту",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Нічого не знайдено} one {# результат знайдено} few {# результати знайдено} many {# результатів знайдено} other {# результатів знайдено}}",
   "discovery.translation.chaptersAvailable": "Розділи, доступні в цьому перекладі"

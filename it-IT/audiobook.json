@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Questa edizione tornerà a essere individuabile e disponibile all'acquisto per i nuovi ascoltatori.",
   "audiobook.dangerZone": "Zona pericolosa",
   "audiobook.discoveryTitle": "Audiolibri",
+  "audiobook.discoveryDescription": "Cerca audiolibri",
   "audiobook.downloadFailed": "Download non riuscito",
   "audiobook.downloadFailedStatus": "Download non riuscito ({status})",
   "audiobook.downloadOffline": "Scarica per l’ascolto offline",

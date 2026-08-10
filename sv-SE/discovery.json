@@ -27,6 +27,8 @@
   "discover.search.license": "Upphovsrättslicens",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Inga universum matchar dina parametrar}\n        one {1 universum hittat}\n        other {# universum hittade}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Inga berättelser matchar dina parametrar}\n        one {1 berättelse hittad}\n        other {# berättelser hittade}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Inga ljudböcker matchar dina parametrar} one {1 ljudbok hittades} other {# ljudböcker hittades}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Ingen manga eller serietidning matchar dina parametrar} one {1 titel hittades} other {# titlar hittades}}.",
   "discover.viewSelection.aria": "Visa urval",
   "discover.searchDisplay.covers": "Omslagförteckning",
   "discover.searchDisplay.list": "Kompakt lista",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "Sök efter berättelser, universum, ljudböcker, manga och serier",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "Kapitel tillgängliga i denna översättning"

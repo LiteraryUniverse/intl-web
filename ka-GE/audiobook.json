@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "ეს გამოცემა კვლავ იქნება აღმოჩენადი და ხელმისაწვდომი ახალი მსმენელების შესაძენად.",
   "audiobook.dangerZone": "საშიში ზონა",
   "audiobook.discoveryTitle": "აუდიოწიგნები",
+  "audiobook.discoveryDescription": "აუდიოწიგნების ძიება",
   "audiobook.downloadFailed": "ჩამოტვირთვა ვერ მოხერხდა",
   "audiobook.downloadFailedStatus": "ჩამოტვირთვა ვერ მოხერხდა ({status})",
   "audiobook.downloadOffline": "ჩამოტვირთვა ოფლაინისთვის",

@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Hierdie uitgawe sal weer ontdekbaar wees en beskikbaar vir nuwe luisteraars om te koop.",
   "audiobook.dangerZone": "Gevaarsone",
   "audiobook.discoveryTitle": "Klankboeke",
+  "audiobook.discoveryDescription": "Soek vir oudioboeke",
   "audiobook.downloadFailed": "Aflaai het misluk",
   "audiobook.downloadFailedStatus": "Aflaai het misluk ({status})",
   "audiobook.downloadOffline": "Laai af vir aflyn gebruik",

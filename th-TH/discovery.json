@@ -27,6 +27,8 @@
   "discover.search.license": "ลิขสิทธิ์",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {ไม่มีจักรวาลที่ตรงกับพารามิเตอร์ของคุณ}\n        one {พบจักรวาล 1 รายการ}\n        other {พบจักรวาล # รายการ}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {ไม่มีเรื่องที่ตรงกับพารามิเตอร์ของคุณ}\n        one {พบเรื่อง 1 รายการ}\n        other {พบเรื่อง # รายการ}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, other {พบหนังสือเสียง # เล่ม}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, other {พบ # เรื่อง}}.",
   "discover.viewSelection.aria": "เลือกการแสดงผล",
   "discover.searchDisplay.covers": "รายการปก",
   "discover.searchDisplay.list": "รายการย่อ",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "ค้นหาเรื่องราว จักรวาล หนังสือเสียง มังงะ และการ์ตูน",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "บทที่มีในคำแปลนี้"

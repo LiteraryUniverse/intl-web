@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Denne utgaven blir synlig igjen og tilgjengelig for kjøp for nye lyttere.",
   "audiobook.dangerZone": "Faresone",
   "audiobook.discoveryTitle": "Lydbøker",
+  "audiobook.discoveryDescription": "Søk etter lydbøker",
   "audiobook.downloadFailed": "Nedlasting mislyktes",
   "audiobook.downloadFailedStatus": "Nedlasting mislyktes ({status})",
   "audiobook.downloadOffline": "Last ned for frakoblet bruk",

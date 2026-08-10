@@ -27,6 +27,8 @@
   "discover.search.license": "പകർപ്പവകാശ ലൈസൻസ്",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {നിങ്ങളുടെ പരമാവധി പരമാവധിയായിരിക്കുന്ന യൂണിവേഴ്സുകൾ താങ്കൾക്ക് പരിഗണിക്കുന്നതിന് പരമാവധി പരമാവധിയായിരിക്കുന്നവയാണ്}\n        one {1 യൂണിവേഴ്സ് കണ്ടെത്തി}\n        other {# യൂണിവേഴ്സുകൾ കണ്ടെത്തി}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {നിങ്ങളുടെ പരമാവധി പരമാവധിയായിരിക്കുന്ന കഥകൾ താങ്കൾക്ക് പരിഗണിക്കുന്നതിന് പരമാവധി പരമാവധിയായിരിക്കുന്നവയാണ്}\n        one {1 കഥ കണ്ടെത്തി}\n        other {# കഥകൾ കണ്ടെത്തി}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {നിങ്ങളുടെ മാനദണ്ഡങ്ങളുമായി ഒരു ഓഡിയോബുക്കും പൊരുത്തപ്പെടുന്നില്ല} one {1 ഓഡിയോബുക്ക് കണ്ടെത്തി} other {# ഓഡിയോബുക്കുകൾ കണ്ടെത്തി}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {നിങ്ങളുടെ മാനദണ്ഡങ്ങളുമായി ഒരു മാംഗയോ കോമിക്കോ പൊരുത്തപ്പെടുന്നില്ല} one {1 ശീർഷകം കണ്ടെത്തി} other {# ശീർഷകങ്ങൾ കണ്ടെത്തി}}.",
   "discover.viewSelection.aria": "കാണുന്നതിന്",
   "discover.searchDisplay.covers": "കവറുകൾ പട്ടിക",
   "discover.searchDisplay.list": "സംക്ഷിപ്ത പട്ടിക",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "കഥകൾ, പ്രപഞ്ചങ്ങൾ, ഓഡിയോബുക്കുകൾ, മാംഗ, കോമിക്സ് എന്നിവ തിരയുക",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "ഈ വിവർത്തനത്തിൽ ലഭ്യമായ അധ്യായങ്ങൾ"

@@ -27,6 +27,8 @@
   "discover.search.license": "Autorská licence",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Vašem požadavku neodpovídá žádný vesmír}\n        one {Nalezen 1 vesmír}\n        few {Nalezeny # vesmíry}\n        many {Nalezeno # vesmírů}\n        other {Nalezeno # vesmírů}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Vašemu požadavku neodpovídá žádný příběh}\n        one {Nalezen 1 příběh}\n        few {Nalezeny # příběhy}\n        many {Nalezeno # příběhů}\n        other {Nalezeno # příběhů}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Vašim parametrům neodpovídají žádné audioknihy} one {Nalezena 1 audiokniha} few {Nalezeny # audioknihy} other {Nalezeno # audioknih}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Vašim parametrům neodpovídá žádná manga ani komiks} one {Nalezen 1 titul} few {Nalezeny # tituly} other {Nalezeno # titulů}}.",
   "discover.viewSelection.aria": "Zobrazení výběru",
   "discover.searchDisplay.covers": "Zobrazení dle obálky",
   "discover.searchDisplay.list": "Kompaktní zobrazení",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Hledat",
   "discover.search.encyclopedia": "Encyklopedie",
   "discover.search.encyclopedia.comingSoon": "Vyhledávání v encyklopedii již brzy.",
-  "discover.search.universal.description": "Hledat příběhy a universa",
+  "discover.search.universal.description": "Hledejte příběhy, univerza, audioknihy, mangu a komiksy",
   "discover.search.typeSelection.aria": "Výběr typu obsahu",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Nebyly nalezeny žádné výsledky} one {nalezen # výsledek} few {nalezeny # výsledky} other {nalezeno # výsledků}}",
   "discovery.translation.chaptersAvailable": "Kapitoly dostupné v tomto překladu"

@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "See väljaanne on taas avastatav ja uutel kuulajatel võimalik osta.",
   "audiobook.dangerZone": "Ohutsoon",
   "audiobook.discoveryTitle": "Audioraamatud",
+  "audiobook.discoveryDescription": "Otsi audioraamatuid",
   "audiobook.downloadFailed": "Allalaadimine ebaõnnestus",
   "audiobook.downloadFailedStatus": "Allalaadimine ebaõnnestus ({status})",
   "audiobook.downloadOffline": "Laadi alla võrguühenduseta kasutamiseks",

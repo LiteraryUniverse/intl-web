@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Muling matutuklasan ang edisyong ito at magiging available para bilhin ng mga bagong tagapakinig.",
   "audiobook.dangerZone": "Mapanganib na seksyon",
   "audiobook.discoveryTitle": "Mga audiobook",
+  "audiobook.discoveryDescription": "Maghanap ng mga audiobook",
   "audiobook.downloadFailed": "Nabigo ang pag-download",
   "audiobook.downloadFailedStatus": "Nabigo ang pag-download ({status})",
   "audiobook.downloadOffline": "I-download para sa offline",

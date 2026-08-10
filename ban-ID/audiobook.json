@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Edisi puniki jagi prasida kapanggihin malih lan sayaga anggen katumbas olih pamireng anyar.",
   "audiobook.dangerZone": "Wewengkon bahaya",
   "audiobook.discoveryTitle": "Buku audio",
+  "audiobook.discoveryDescription": "Rereh buku audio",
   "audiobook.downloadFailed": "Unduhan gagal",
   "audiobook.downloadFailedStatus": "Unduhan gagal ({status})",
   "audiobook.downloadOffline": "Unduh anggen offline",

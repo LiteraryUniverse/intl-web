@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "यह संस्करण फिर से खोजने योग्य होगा और नए श्रोताओं के खरीदने के लिए उपलब्ध होगा।",
   "audiobook.dangerZone": "जोखिम क्षेत्र",
   "audiobook.discoveryTitle": "ऑडियो बुक",
+  "audiobook.discoveryDescription": "ऑडियोबुक खोजें",
   "audiobook.downloadFailed": "डाउनलोड विफल",
   "audiobook.downloadFailedStatus": "डाउनलोड विफल ({status})",
   "audiobook.downloadOffline": "ऑफ़लाइन के लिए डाउनलोड करें",

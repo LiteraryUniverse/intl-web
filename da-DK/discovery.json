@@ -27,6 +27,8 @@
   "discover.search.license": "Ophavsret licens",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Ingen universer matcher dine parametre}\n        one {1 univers fundet}\n        other {# universer fundet}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ingen historier matcher dine parametre}\n        one {1 historie fundet}\n        other {# historier fundet}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ingen lydbøger matcher dine parametre} one {1 lydbog fundet} other {# lydbøger fundet}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Ingen manga eller tegneserier matcher dine parametre} one {1 titel fundet} other {# titler fundet}}.",
   "discover.viewSelection.aria": "Visning af valg",
   "discover.searchDisplay.covers": "Omslag liste",
   "discover.searchDisplay.list": "Kompakt liste",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Søg",
   "discover.search.encyclopedia": "Encyklopædi",
   "discover.search.encyclopedia.comingSoon": "Encyklopædisøgning kommer snart.",
-  "discover.search.universal.description": "Søg efter historier og universer",
+  "discover.search.universal.description": "Søg efter historier, universer, lydbøger, manga og tegneserier",
   "discover.search.typeSelection.aria": "Valg af indholdstype",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Ingen resultater fundet} one {# resultat fundet} other {# resultater fundet}}",
   "discovery.translation.chaptersAvailable": "Kapitler tilgængelige i denne oversættelse"

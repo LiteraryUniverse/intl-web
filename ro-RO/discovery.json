@@ -27,6 +27,8 @@
   "discover.search.license": "Licență de drepturi de autor",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Nu există universuri care să se potrivească cu parametrii tăi}\n        one {1 univers găsit}\n        other {# universuri găsite}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Nu există povești care să se potrivească cu parametrii tăi}\n        one {1 poveste găsită}\n        other {# povești găsite}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Nicio carte audio nu corespunde parametrilor tăi} one {1 carte audio găsită} few {# cărți audio găsite} other {# de cărți audio găsite}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Niciun manga sau bandă desenată nu corespunde parametrilor tăi} one {1 titlu găsit} few {# titluri găsite} other {# de titluri găsite}}.",
   "discover.viewSelection.aria": "Vizualizare selecție",
   "discover.searchDisplay.covers": "Listă cu coperți",
   "discover.searchDisplay.list": "Listă compactă",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "Caută povești, universuri, cărți audio, manga și benzi desenate",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "Capitole disponibile în această traducere"

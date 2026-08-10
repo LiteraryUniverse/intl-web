@@ -27,6 +27,8 @@
   "discover.search.license": "Opphavsrettlisens",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Ingen universer samsvarer med parameterne dine}\n        one {1 univers funnet}\n        other {# universer funnet}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ingen historier samsvarer med parameterne dine}\n        one {1 historie funnet}\n        other {# historier funnet}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ingen lydbøker samsvarer med parameterne dine} one {1 lydbok funnet} other {# lydbøker funnet}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Ingen manga eller tegneserier samsvarer med parameterne dine} one {1 tittel funnet} other {# titler funnet}}.",
   "discover.viewSelection.aria": "Visningsvalg",
   "discover.searchDisplay.covers": "Liste over omslag",
   "discover.searchDisplay.list": "Kompakt liste",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "Søk etter historier, universer, lydbøker, manga og tegneserier",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "Kapitler tilgjengelige i denne oversettelsen"

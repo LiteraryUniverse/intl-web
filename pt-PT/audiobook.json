@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Esta edição voltará a ficar visível na descoberta e disponível para novos ouvintes comprarem.",
   "audiobook.dangerZone": "Zona de perigo",
   "audiobook.discoveryTitle": "Audiolivros",
+  "audiobook.discoveryDescription": "Procurar audiolivros",
   "audiobook.downloadFailed": "Falha na transferência",
   "audiobook.downloadFailedStatus": "Falha na transferência ({status})",
   "audiobook.downloadOffline": "Transferir para ouvir sem ligação",

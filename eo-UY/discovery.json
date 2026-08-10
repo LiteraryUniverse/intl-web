@@ -27,6 +27,8 @@
   "discover.search.license": "Aŭtorrajta permesilo",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Ne ekzistas universoj kongruantaj viajn parametron}\n        one {1 universo trovita}\n        other {# universoj trovitaj}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ne ekzistas rakontoj kongruantaj viajn parametron}\n        one {1 rakonto trovita}\n        other {# rakontoj trovitaj}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Neniuj aŭdlibroj kongruas kun viaj parametroj} one {1 aŭdlibro trovita} other {# aŭdlibroj trovitaj}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Neniuj mangaoj aŭ bildstrioj kongruas kun viaj parametroj} one {1 titolo trovita} other {# titoloj trovitaj}}.",
   "discover.viewSelection.aria": "Elektita vidado",
   "discover.searchDisplay.covers": "Kovrilistigo",
   "discover.searchDisplay.list": "Kompakta listo",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "Serĉu rakontojn, universojn, aŭdlibrojn, mangaojn kaj bildstriojn",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "Ĉapitroj disponeblaj en ĉi tiu traduko"

@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "ការបោះពុម្ពនេះនឹងអាចរកឃើញបានម្ដងទៀត ហើយអាចឱ្យអ្នកស្ដាប់ថ្មីទិញបាន។",
   "audiobook.dangerZone": "តំបន់គ្រោះថ្នាក់",
   "audiobook.discoveryTitle": "សៀវភៅសំឡេង",
+  "audiobook.discoveryDescription": "ស្វែងរកសៀវភៅសំឡេង",
   "audiobook.downloadFailed": "ការទាញយកបរាជ័យ",
   "audiobook.downloadFailedStatus": "ការទាញយកបរាជ័យ ({status})",
   "audiobook.downloadOffline": "ទាញយកសម្រាប់ប្រើក្រៅបណ្ដាញ",

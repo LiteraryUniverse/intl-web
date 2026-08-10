@@ -27,6 +27,8 @@
   "discover.search.license": "Licencia de derechos de autor",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Ningún universo coincide con tus parámetros}\n        one {1 universo encontrado}\n        other {# universos encontrados}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ninguna historia coincide con tus parámetros}\n        one {1 historia encontrada}\n        other {# historias encontradas}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ningún audiolibro coincide con tus parámetros} one {1 audiolibro encontrado} other {# audiolibros encontrados}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Ningún manga o cómic coincide con tus parámetros} one {1 título encontrado} other {# títulos encontrados}}.",
   "discover.viewSelection.aria": "Ver selección",
   "discover.searchDisplay.covers": "Listado de portadas",
   "discover.searchDisplay.list": "Lista compacta",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Buscar",
   "discover.search.encyclopedia": "Enciclopedia",
   "discover.search.encyclopedia.comingSoon": "La búsqueda en la enciclopedia estará disponible pronto.",
-  "discover.search.universal.description": "Busca historias y universos",
+  "discover.search.universal.description": "Busca historias, universos, audiolibros, manga y cómics",
   "discover.search.typeSelection.aria": "Selección del tipo de contenido",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No se encontraron resultados} one {# resultado encontrado} other {# resultados encontrados}}",
   "discovery.translation.chaptersAvailable": "Capítulos disponibles en esta traducción"

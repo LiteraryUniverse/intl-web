@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "ഈ പതിപ്പ് വീണ്ടും കണ്ടെത്താനാകും, പുതിയ ശ്രോതാക്കൾക്ക് വാങ്ങാൻ ലഭ്യമാകും.",
   "audiobook.dangerZone": "അപകട മേഖല",
   "audiobook.discoveryTitle": "ഓഡിയോ പുസ്തകങ്ങൾ",
+  "audiobook.discoveryDescription": "ഓഡിയോബുക്കുകൾ തിരയുക",
   "audiobook.downloadFailed": "ഡൗൺലോഡ് പരാജയപ്പെട്ടു",
   "audiobook.downloadFailedStatus": "ഡൗൺലോഡ് പരാജയപ്പെട്ടു ({status})",
   "audiobook.downloadOffline": "ഓഫ്‌ലൈനിനായി ഡൗൺലോഡ് ചെയ്യുക",

@@ -27,6 +27,8 @@
   "discover.search.license": "საავტორო უფლება",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {არცერთი უნივერსი არ ემთხვევა თქვენს პარამეტრებს}\n        one {1 უნივერსი მოიძებნა}\n        other {# უნივერსი მოიძებნა}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {არცერთი ისტორია არ ემთხვევა თქვენს პარამეტრებს}\n        one {1 ისტორია მოიძებნა}\n        other {# ისტორია მოიძებნა}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {თქვენს პარამეტრებს არც ერთი აუდიოწიგნი არ ემთხვევა} one {ნაპოვნია 1 აუდიოწიგნი} other {ნაპოვნია # აუდიოწიგნი}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {თქვენს პარამეტრებს არც ერთი მანგა ან კომიქსი არ ემთხვევა} one {ნაპოვნია 1 ნაწარმოები} other {ნაპოვნია # ნაწარმოები}}.",
   "discover.viewSelection.aria": "ხელსაწყოთა არჩევა",
   "discover.searchDisplay.covers": "გარეკანის ჩამონათვალი",
   "discover.searchDisplay.list": "კომპაქტური სია",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "მოძებნეთ ისტორიები, სამყაროები, აუდიოწიგნები, მანგა და კომიქსები",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "ამ თარგმანში ხელმისაწვდომი თავები"

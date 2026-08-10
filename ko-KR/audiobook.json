@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "이 판본은 다시 탐색에 표시되고 새로운 청취자가 구매할 수 있게 됩니다.",
   "audiobook.dangerZone": "위험 구역",
   "audiobook.discoveryTitle": "오디오북",
+  "audiobook.discoveryDescription": "오디오북 검색",
   "audiobook.downloadFailed": "다운로드 실패",
   "audiobook.downloadFailedStatus": "다운로드 실패 ({status})",
   "audiobook.downloadOffline": "오프라인용 다운로드",

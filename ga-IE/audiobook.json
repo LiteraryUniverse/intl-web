@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Beidh an t-eagrán seo inaimsithe arís agus ar fáil d'éisteoirí nua le ceannach.",
   "audiobook.dangerZone": "Crios contúirte",
   "audiobook.discoveryTitle": "Closleabhair",
+  "audiobook.discoveryDescription": "Cuardaigh closleabhair",
   "audiobook.downloadFailed": "Theip ar an íoslódáil",
   "audiobook.downloadFailedStatus": "Theip ar an íoslódáil ({status})",
   "audiobook.downloadOffline": "Íoslódáil le haghaidh úsáide as líne",

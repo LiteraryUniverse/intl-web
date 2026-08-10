@@ -4,6 +4,7 @@
   "audiobook.buy": "شراء الكتاب الصوتي",
   "audiobook.create": "إنشاء كتاب صوتي",
   "audiobook.discoveryTitle": "الكتب الصوتية",
+  "audiobook.discoveryDescription": "البحث عن الكتب الصوتية",
   "audiobook.downloadFailed": "فشل التنزيل",
   "audiobook.downloadFailedStatus": "فشل التنزيل ({status})",
   "audiobook.downloadOffline": "التنزيل للاستماع دون اتصال",

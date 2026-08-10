@@ -27,6 +27,8 @@
   "discover.search.license": "Giấy phép bản quyền",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Không có vũ trụ nào khớp với các thông số của bạn}\n        one {Tìm thấy 1 vũ trụ}\n        other {Tìm thấy # vũ trụ}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Không có câu chuyện nào khớp với các thông số của bạn}\n        one {Tìm thấy 1 câu chuyện}\n        other {Tìm thấy # câu chuyện}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, other {Tìm thấy # sách nói}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, other {Tìm thấy # tựa truyện}}.",
   "discover.viewSelection.aria": "Lựa chọn xem",
   "discover.searchDisplay.covers": "Danh sách bìa",
   "discover.searchDisplay.list": "Danh sách nhỏ gọn",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "Tìm truyện, vũ trụ, sách nói, manga và truyện tranh",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "Các chương có trong bản dịch này"

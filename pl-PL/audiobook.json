@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "To wydanie znów będzie widoczne w sekcji odkrywania i dostępne do kupienia dla nowych słuchaczy.",
   "audiobook.dangerZone": "Strefa zagrożenia",
   "audiobook.discoveryTitle": "Audiobooki",
+  "audiobook.discoveryDescription": "Szukaj audiobooków",
   "audiobook.downloadFailed": "Pobieranie nie powiodło się",
   "audiobook.downloadFailedStatus": "Pobieranie nie powiodło się ({status})",
   "audiobook.downloadOffline": "Pobierz do trybu offline",

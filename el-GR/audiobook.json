@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Αυτή η έκδοση θα μπορεί να ανακαλυφθεί ξανά και θα είναι διαθέσιμη για αγορά από νέους ακροατές.",
   "audiobook.dangerZone": "Ζώνη κινδύνου",
   "audiobook.discoveryTitle": "Ηχητικά βιβλία",
+  "audiobook.discoveryDescription": "Αναζήτηση ηχητικών βιβλίων",
   "audiobook.downloadFailed": "Η λήψη απέτυχε",
   "audiobook.downloadFailedStatus": "Η λήψη απέτυχε ({status})",
   "audiobook.downloadOffline": "Λήψη για offline",

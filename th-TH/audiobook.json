@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "ฉบับนี้จะสามารถค้นพบได้อีกครั้งและเปิดให้ผู้ฟังใหม่ซื้อได้",
   "audiobook.dangerZone": "พื้นที่อันตราย",
   "audiobook.discoveryTitle": "หนังสือเสียง",
+  "audiobook.discoveryDescription": "ค้นหาหนังสือเสียง",
   "audiobook.downloadFailed": "ดาวน์โหลดไม่สำเร็จ",
   "audiobook.downloadFailedStatus": "ดาวน์โหลดไม่สำเร็จ ({status})",
   "audiobook.downloadOffline": "ดาวน์โหลดไว้ใช้แบบออฟไลน์",

@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Tämä laitos on jälleen löydettävissä ja uusien kuuntelijoiden ostettavissa.",
   "audiobook.dangerZone": "Vaara-alue",
   "audiobook.discoveryTitle": "Äänikirjat",
+  "audiobook.discoveryDescription": "Hae äänikirjoja",
   "audiobook.downloadFailed": "Lataus epäonnistui",
   "audiobook.downloadFailedStatus": "Lataus epäonnistui ({status})",
   "audiobook.downloadOffline": "Lataa offline-käyttöön",

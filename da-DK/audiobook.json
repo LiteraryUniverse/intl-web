@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Denne udgave vil igen kunne findes og være tilgængelig for nye lyttere at købe.",
   "audiobook.dangerZone": "Farezone",
   "audiobook.discoveryTitle": "Lydbøger",
+  "audiobook.discoveryDescription": "Søg efter lydbøger",
   "audiobook.downloadFailed": "Download mislykkedes",
   "audiobook.downloadFailedStatus": "Download mislykkedes ({status})",
   "audiobook.downloadOffline": "Download til offline",

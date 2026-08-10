@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "この版は再び発見できるようになり、新しいリスナーが購入できるようになります。",
   "audiobook.dangerZone": "危険な操作",
   "audiobook.discoveryTitle": "オーディオブック",
+  "audiobook.discoveryDescription": "オーディオブックを検索",
   "audiobook.downloadFailed": "ダウンロードに失敗しました",
   "audiobook.downloadFailedStatus": "ダウンロードに失敗しました（{status}）",
   "audiobook.downloadOffline": "オフライン用にダウンロード",

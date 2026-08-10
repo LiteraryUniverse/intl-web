@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "এই সংস্করণটি আবার আবিষ্কারযোগ্য হবে এবং নতুন শ্রোতাদের কেনার জন্য উপলব্ধ থাকবে।",
   "audiobook.dangerZone": "বিপদ অঞ্চল",
   "audiobook.discoveryTitle": "অডিও বই",
+  "audiobook.discoveryDescription": "অডিও বই খুঁজুন",
   "audiobook.downloadFailed": "ডাউনলোড ব্যর্থ হয়েছে",
   "audiobook.downloadFailedStatus": "ডাউনলোড ব্যর্থ হয়েছে ({status})",
   "audiobook.downloadOffline": "অফলাইনের জন্য ডাউনলোড করুন",

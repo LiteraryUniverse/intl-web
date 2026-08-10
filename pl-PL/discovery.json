@@ -27,6 +27,8 @@
   "discover.search.license": "Licencja praw autorskich",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Żaden wszechświat nie pasuje do Twoich parametrów}\n        one {Znaleziono 1 wszechświat}\n        few {Znaleziono # wszechświaty}\n        many {Znaleziono # wszechświatów}\n        other {# znalezionych wszechświatów}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Żadne opowieści nie pasują do Twoich parametrów}\n        one {Znaleziono 1 piętro}\n        few {Znaleziono # historie}\n        many {Znaleziono # historii}\n        other {# znalezionych historii}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Żadne audiobooki nie pasują do twoich parametrów} one {Znaleziono 1 audiobook} few {Znaleziono # audiobooki} other {Znaleziono # audiobooków}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Żadna manga ani komiks nie pasują do twoich parametrów} one {Znaleziono 1 tytuł} few {Znaleziono # tytuły} other {Znaleziono # tytułów}}.",
   "discover.viewSelection.aria": "Zobacz zaznaczenie",
   "discover.searchDisplay.covers": "Lista okładek",
   "discover.searchDisplay.list": "Lista kompaktowa",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Szukaj",
   "discover.search.encyclopedia": "Encyklopedia",
   "discover.search.encyclopedia.comingSoon": "Wyszukiwanie w encyklopedii już wkrótce.",
-  "discover.search.universal.description": "Szukaj opowiadań i uniwersów",
+  "discover.search.universal.description": "Szukaj historii, uniwersów, audiobooków, mangi i komiksów",
   "discover.search.typeSelection.aria": "Wybór typu treści",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Nie znaleziono wyników} one {Znaleziono # wynik} few {Znaleziono # wyniki} many {Znaleziono # wyników} other {Znaleziono # wyników}}",
   "discovery.translation.chaptersAvailable": "Rozdziały dostępne w tym tłumaczeniu"

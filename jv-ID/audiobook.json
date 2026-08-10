@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Edhisi iki bakal bisa ditemokake maneh lan kasedhiya kanggo dituku pamireng anyar.",
   "audiobook.dangerZone": "Zona bebaya",
   "audiobook.discoveryTitle": "Buku audio",
+  "audiobook.discoveryDescription": "Golek buku audio",
   "audiobook.downloadFailed": "Undhuh gagal",
   "audiobook.downloadFailedStatus": "Undhuh gagal ({status})",
   "audiobook.downloadOffline": "Undhuh kanggo offline",

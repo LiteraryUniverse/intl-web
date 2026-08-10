@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "པར་གཞི་འདི་ཡང་བསྐྱར་འཚོལ་རྙེད་ཐུབ་ཅིང་ཉན་མཁན་གསར་པ་ཚོས་ཉོ་ཆོག་པར་འགྱུར།",
   "audiobook.dangerZone": "ཉེན་ཁའི་ས་ཁོངས",
   "audiobook.discoveryTitle": "སྒྲ་དེབ",
+  "audiobook.discoveryDescription": "སྒྲ་དེབ་འཚོལ།",
   "audiobook.downloadFailed": "ཕབ་ལེན་མ་ཐུབ",
   "audiobook.downloadFailedStatus": "ཕབ་ལེན་མ་ཐུབ ({status})",
   "audiobook.downloadOffline": "དྲ་མེད་ཆེད་ཕབ་ལེན",

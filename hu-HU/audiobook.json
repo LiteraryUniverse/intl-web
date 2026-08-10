@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Ez a kiadás ismét felfedezhető lesz, és az új hallgatók megvásárolhatják.",
   "audiobook.dangerZone": "Veszélyzóna",
   "audiobook.discoveryTitle": "Hangoskönyvek",
+  "audiobook.discoveryDescription": "Hangoskönyvek keresése",
   "audiobook.downloadFailed": "A letöltés sikertelen",
   "audiobook.downloadFailedStatus": "A letöltés sikertelen ({status})",
   "audiobook.downloadOffline": "Letöltés offline használatra",

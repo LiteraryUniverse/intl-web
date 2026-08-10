@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "This edition will be discoverable again and available for new listeners to buy.",
   "audiobook.dangerZone": "Danger zone",
   "audiobook.discoveryTitle": "Audio books",
+  "audiobook.discoveryDescription": "Search for audio books",
   "audiobook.downloadFailed": "Download failed",
   "audiobook.downloadFailedStatus": "Download failed ({status})",
   "audiobook.downloadOffline": "Download for offline",

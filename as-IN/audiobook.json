@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "এই সংস্কৰণটো পুনৰ অনুসন্ধানযোগ্য হ'ব আৰু নতুন শ্ৰোতাসকলে কিনিবলৈ উপলব্ধ হ'ব।",
   "audiobook.dangerZone": "বিপদ অঞ্চল",
   "audiobook.discoveryTitle": "অডিঅ' বুকসমূহ",
+  "audiobook.discoveryDescription": "অডিঅ' বুক সন্ধান কৰক",
   "audiobook.downloadFailed": "ডাউনল'ড বিফল",
   "audiobook.downloadFailedStatus": "ডাউনল'ড বিফল ({status})",
   "audiobook.downloadOffline": "অফলাইনৰ বাবে ডাউনল'ড কৰক",

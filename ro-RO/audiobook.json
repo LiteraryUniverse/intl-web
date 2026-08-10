@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Această ediție va putea fi din nou descoperită și disponibilă pentru cumpărare de către noii ascultători.",
   "audiobook.dangerZone": "Zonă periculoasă",
   "audiobook.discoveryTitle": "Cărți audio",
+  "audiobook.discoveryDescription": "Caută cărți audio",
   "audiobook.downloadFailed": "Descărcarea a eșuat",
   "audiobook.downloadFailedStatus": "Descărcarea a eșuat ({status})",
   "audiobook.downloadOffline": "Descarcă pentru offline",

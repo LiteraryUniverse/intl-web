@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Bu baskı tekrar keşfedilebilir ve yeni dinleyicilerin satın alabileceği hale gelecek.",
   "audiobook.dangerZone": "Tehlikeli bölge",
   "audiobook.discoveryTitle": "Sesli kitaplar",
+  "audiobook.discoveryDescription": "Sesli kitap ara",
   "audiobook.downloadFailed": "İndirme başarısız",
   "audiobook.downloadFailedStatus": "İndirme başarısız ({status})",
   "audiobook.downloadOffline": "Çevrimdışı için indir",

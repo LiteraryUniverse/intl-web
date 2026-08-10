@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Deze editie is weer vindbaar en beschikbaar voor nieuwe luisteraars om te kopen.",
   "audiobook.dangerZone": "Gevarenzone",
   "audiobook.discoveryTitle": "Luisterboeken",
+  "audiobook.discoveryDescription": "Zoek luisterboeken",
   "audiobook.downloadFailed": "Download mislukt",
   "audiobook.downloadFailedStatus": "Download mislukt ({status})",
   "audiobook.downloadOffline": "Downloaden voor offline gebruik",

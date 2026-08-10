@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Edisi ini akan dapat ditemukan kembali dan tersedia untuk dibeli oleh pendengar baru.",
   "audiobook.dangerZone": "Zona berbahaya",
   "audiobook.discoveryTitle": "Buku audio",
+  "audiobook.discoveryDescription": "Cari buku audio",
   "audiobook.downloadFailed": "Unduhan gagal",
   "audiobook.downloadFailedStatus": "Unduhan gagal ({status})",
   "audiobook.downloadOffline": "Unduh untuk mode offline",

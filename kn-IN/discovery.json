@@ -27,6 +27,8 @@
   "discover.search.license": "ಪರಿಮಿತಿ ಹಕ್ಕಿಗೆ ಮಾಹಿತಿ ಪತ್ರ",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {ನಿಮ್ಮ ಪಾರಮೇಟರ್‌ಗಳಿಗೆ ಯಾವುದೇ ವಿಶ್ವಗಳು ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ}\n        one {1 ವಿಶ್ವ ಕಂಡುಬಂದಿದೆ}\n        other {# ವಿಶ್ವಗಳು ಕಂಡುಬಂದಿವೆ}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {ನಿಮ್ಮ ಪಾರಮೇಟರ್‌ಗಳಿಗೆ ಯಾವುದೇ ಕಥೆಗಳು ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ}\n        one {1 ಕಥೆ ಕಂಡುಬಂದಿದೆ}\n        other {# ಕಥೆಗಳು ಕಂಡುಬಂದಿವೆ}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {ನಿಮ್ಮ ಮಾನದಂಡಗಳಿಗೆ ಯಾವುದೇ ಆಡಿಯೊಬುಕ್ ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ} one {1 ಆಡಿಯೊಬುಕ್ ಸಿಕ್ಕಿದೆ} other {# ಆಡಿಯೊಬುಕ್‌ಗಳು ಸಿಕ್ಕಿವೆ}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {ನಿಮ್ಮ ಮಾನದಂಡಗಳಿಗೆ ಯಾವುದೇ ಮಾಂಗಾ ಅಥವಾ ಕಾಮಿಕ್ ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ} one {1 ಶೀರ್ಷಿಕೆ ಸಿಕ್ಕಿದೆ} other {# ಶೀರ್ಷಿಕೆಗಳು ಸಿಕ್ಕಿವೆ}}.",
   "discover.viewSelection.aria": "ಆಯ್ಕೆ ಮಾದರಿ ವೀಕ್ಷಣೆ",
   "discover.searchDisplay.covers": "ಮೇಲ್ಮಟ್ಟದ ಪಟಗಳು",
   "discover.searchDisplay.list": "ಸಂಕ್ಷಿಪ್ತ ಪಟಗಳು",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "ಕಥೆಗಳು, ಬ್ರಹ್ಮಾಂಡಗಳು, ಆಡಿಯೊಬುಕ್‌ಗಳು, ಮಾಂಗಾ ಮತ್ತು ಕಾಮಿಕ್ಸ್ ಹುಡುಕಿ",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "ಈ ಅನುವಾದದಲ್ಲಿ ಲಭ್ಯವಿರುವ ಅಧ್ಯಾಯಗಳು"

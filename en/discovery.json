@@ -29,6 +29,8 @@
   "discover.search.license": "Copyright license",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {No universes match your parameters}\n        one {1 universe found}\n        other {# universes found}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {No stories match your parameters}\n        one {1 story found}\n        other {# stories found}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {No audio books match your parameters} one {1 audio book found} other {# audio books found}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {No manga or comics match your parameters} one {1 title found} other {# titles found}}.",
   "discover.viewSelection.aria": "View selection",
   "discover.searchDisplay.covers": "Covers listing",
   "discover.searchDisplay.list": "Compact list",
@@ -103,7 +105,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "Search for stories, universes, audio books, manga and comics",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}"
 }

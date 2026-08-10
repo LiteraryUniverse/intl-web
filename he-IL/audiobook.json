@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "המהדורה הזו תהיה שוב ניתנת לגילוי וזמינה לרכישה על ידי מאזינים חדשים.",
   "audiobook.dangerZone": "אזור מסוכן",
   "audiobook.discoveryTitle": "ספרי אודיו",
+  "audiobook.discoveryDescription": "חיפוש ספרי שמע",
   "audiobook.downloadFailed": "ההורדה נכשלה",
   "audiobook.downloadFailedStatus": "ההורדה נכשלה ({status})",
   "audiobook.downloadOffline": "הורדה למצב לא מקוון",

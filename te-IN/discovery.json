@@ -27,6 +27,8 @@
   "discover.search.license": "కాపీరైట్ లైసెన్స్",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {మీ పరామీతాలకు యూనివర్సులు ఎక్కడించవడం లేదు}\n        one {1 యూనివర్సు కనుగొనబడింది}\n        other {# యూనివర్సులు కనుగొనబడింది}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {మీ పరామీతాలకు కథలు ఎక్కడించవడం లేదు}\n        one {1 కథ కనుగొనబడింది}\n        other {# కథలు కనుగొనబడింది}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {మీ ప్రమాణాలకు సరిపోలే ఆడియోబుక్ ఏదీ లేదు} one {1 ఆడియోబుక్ దొరికింది} other {# ఆడియోబుక్‌లు దొరికాయి}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {మీ ప్రమాణాలకు సరిపోలే మాంగా లేదా కామిక్ ఏదీ లేదు} one {1 శీర్షిక దొరికింది} other {# శీర్షికలు దొరికాయి}}.",
   "discover.viewSelection.aria": "చూడడానికి ఎంపిక",
   "discover.searchDisplay.covers": "కవర్ల జాబితా",
   "discover.searchDisplay.list": "సంక్షేప జాబితా",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "కథలు, విశ్వాలు, ఆడియోబుక్‌లు, మాంగా మరియు కామిక్స్ వెతకండి",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "ఈ అనువాదంలో అందుబాటులో ఉన్న అధ్యాయాలు"

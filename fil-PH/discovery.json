@@ -27,6 +27,8 @@
   "discover.search.license": "Lisensya sa karapatan",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {Walang mga palapagang mundo na tugma sa iyong mga parameter}\n        one {Nakita ang 1 palapagang mundo}\n        other {Nakita ang # mga palapagang mundo}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Walang mga kuwentong tugma sa iyong mga parameter}\n        one {Nakita ang 1 kwento}\n        other {Nakita ang # mga kwento}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Walang audiobook na tumutugma sa iyong mga parametro} one {1 audiobook ang natagpuan} other {# audiobook ang natagpuan}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {Walang manga o komiks na tumutugma sa iyong mga parametro} one {1 titulo ang natagpuan} other {# titulo ang natagpuan}}.",
   "discover.viewSelection.aria": "Tingnan ang pagpipilian",
   "discover.searchDisplay.covers": "Listahan ng mga pabalat",
   "discover.searchDisplay.list": "Tinipid na listahan",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "Maghanap ng mga kuwento, uniberso, audiobook, manga at komiks",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "Mga kabanatang available sa pagsasaling ito"

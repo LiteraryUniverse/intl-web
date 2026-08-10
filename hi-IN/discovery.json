@@ -27,6 +27,8 @@
   "discover.search.license": "कॉपीराइट लाइसेंस",
   "discover.search.resultsTotal.universe": "{results, plural,\n        =0 {आपके पैरामीटर्स के साथ कोई ब्रह्मांड मेल नहीं खाता}\n        one {1 ब्रह्मांड पाया गया}\n        other {# ब्रह्मांड पाए गए}\n    }.",
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {आपके पैरामीटर्स के साथ कोई कहानी मेल नहीं खाती}\n        one {1 कहानी पाई गई}\n        other {# कहानियाँ मिलीं}\n    }.",
+  "discover.search.resultsTotal.audiobook": "{results, plural, =0 {आपके मापदंडों से कोई ऑडियोबुक मेल नहीं खाती} one {1 ऑडियोबुक मिली} other {# ऑडियोबुक मिलीं}}.",
+  "discover.search.resultsTotal.comic": "{results, plural, =0 {आपके मापदंडों से कोई मांगा या कॉमिक मेल नहीं खाती} one {1 शीर्षक मिला} other {# शीर्षक मिले}}.",
   "discover.viewSelection.aria": "विचार चुनव",
   "discover.searchDisplay.covers": "कवर लिस्ट",
   "discover.searchDisplay.list": "संक्षिप्त सूची",
@@ -100,7 +102,7 @@
   "discover.search.universal.title": "Search",
   "discover.search.encyclopedia": "Encyclopedia",
   "discover.search.encyclopedia.comingSoon": "Encyclopedia search coming soon.",
-  "discover.search.universal.description": "Search for stories and universes",
+  "discover.search.universal.description": "कहानियाँ, यूनिवर्स, ऑडियोबुक, मांगा और कॉमिक्स खोजें",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
   "discovery.translation.chaptersAvailable": "इस अनुवाद में उपलब्ध अध्याय"

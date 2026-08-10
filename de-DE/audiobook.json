@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "Diese Ausgabe wird wieder auffindbar und kann von neuen Hörern gekauft werden.",
   "audiobook.dangerZone": "Gefahrenzone",
   "audiobook.discoveryTitle": "Hörbücher",
+  "audiobook.discoveryDescription": "Nach Hörbüchern suchen",
   "audiobook.downloadFailed": "Download fehlgeschlagen",
   "audiobook.downloadFailedStatus": "Download fehlgeschlagen ({status})",
   "audiobook.downloadOffline": "Für offline herunterladen",

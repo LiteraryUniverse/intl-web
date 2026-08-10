@@ -25,6 +25,7 @@
   "audiobook.danger.makePublic.warning": "ఈ ఎడిషన్ మళ్లీ కనుగొనదగినదిగా మరియు కొత్త శ్రోతలు కొనేందుకు అందుబాటులో ఉంటుంది.",
   "audiobook.dangerZone": "ప్రమాద జోన్",
   "audiobook.discoveryTitle": "ఆడియో పుస్తకాలు",
+  "audiobook.discoveryDescription": "ఆడియోబుక్‌ల కోసం వెతకండి",
   "audiobook.downloadFailed": "డౌన్‌లోడ్ విఫలమైంది",
   "audiobook.downloadFailedStatus": "డౌన్‌లోడ్ విఫలమైంది ({status})",
   "audiobook.downloadOffline": "ఆఫ్‌లైన్ కోసం డౌన్‌లోడ్ చేయండి",
