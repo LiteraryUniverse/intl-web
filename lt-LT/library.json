@@ -1,7 +1,10 @@
 {
   "library.add": "Pridėti į biblioteką",
   "library.remove": "Pašalinti iš bibliotekos",
-  "library.inLibrary": "Bibliotekoje",
+  "library.inLibrary": "Jūsų bibliotekoje",
+  "library.included": "Įskaičiuota",
+  "library.includedOrg": "Įskaičiuota · {org}",
+  "library.includedFanClub": "Įskaičiuota · Gerbėjų klubas",
   "library.bought": "Įsigytos pasakos",
   "library.stories": "Sekamos pasakos",
   "library.universes": "Sekami visatos",

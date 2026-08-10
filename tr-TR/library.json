@@ -1,7 +1,10 @@
 {
   "library.add": "Kütüphaneye ekle",
   "library.remove": "Kütüphaneden kaldır",
-  "library.inLibrary": "Kütüphanede",
+  "library.inLibrary": "Kitaplığınızda",
+  "library.included": "Dahil",
+  "library.includedOrg": "Dahil · {org}",
+  "library.includedFanClub": "Dahil · Hayran kulübü",
   "library.bought": "Satın alınan hikayeler",
   "library.stories": "Takip edilen hikayeler",
   "library.universes": "Takip edilen evrenler",

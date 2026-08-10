@@ -1,7 +1,10 @@
 {
   "library.add": "Cuir le leabharlann",
   "library.remove": "Bain ón leabharlann",
-  "library.inLibrary": "Sa leabharlann",
+  "library.inLibrary": "I do leabharlann",
+  "library.included": "San áireamh",
+  "library.includedOrg": "San áireamh · {org}",
+  "library.includedFanClub": "San áireamh · Club leantóirí",
   "library.bought": "Scéalta a cheannaigh",
   "library.stories": "Scéalta a lean",
   "library.universes": "Dháileadh na cruinneachtaí",

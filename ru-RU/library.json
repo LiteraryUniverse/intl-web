@@ -1,7 +1,10 @@
 {
   "library.add": "Добавить в библиотеку",
   "library.remove": "Удалить из библиотеки",
-  "library.inLibrary": "В библиотеке",
+  "library.inLibrary": "В вашей библиотеке",
+  "library.included": "Включено",
+  "library.includedOrg": "Включено · {org}",
+  "library.includedFanClub": "Включено · Фан-клуб",
   "library.bought": "Купленные истории",
   "library.stories": "Отслеживаемые истории",
   "library.universes": "Отслеживаемые вселенные",

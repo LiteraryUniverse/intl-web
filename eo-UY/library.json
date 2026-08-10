@@ -1,7 +1,10 @@
 {
   "library.add": "Aldoni al biblioteko",
   "library.remove": "Forigi el biblioteko",
-  "library.inLibrary": "En biblioteko",
+  "library.inLibrary": "En via biblioteko",
+  "library.included": "Inkluzivita",
+  "library.includedOrg": "Inkluzivita · {org}",
+  "library.includedFanClub": "Inkluzivita · Ŝatantoklubo",
   "library.bought": "Aĉetitaj rakontoj",
   "library.stories": "Sekvitaj rakontoj",
   "library.universes": "Sekvitaj universoj",

@@ -1,7 +1,10 @@
 {
   "library.add": "Afegir a la biblioteca",
   "library.remove": "Eliminar de la biblioteca",
-  "library.inLibrary": "A la biblioteca",
+  "library.inLibrary": "A la teva biblioteca",
+  "library.included": "Inclòs",
+  "library.includedOrg": "Inclòs · {org}",
+  "library.includedFanClub": "Inclòs · Club de fans",
   "library.bought": "Històries comprades",
   "library.stories": "Històries seguides",
   "library.universes": "Followed universes",

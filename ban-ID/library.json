@@ -1,7 +1,10 @@
 {
   "library.add": "Add to library",
   "library.remove": "Remove from library",
-  "library.inLibrary": "Sampun ring pustaka",
+  "library.inLibrary": "Ring pustaka ragane",
+  "library.included": "Kasertayang",
+  "library.includedOrg": "Kasertayang · {org}",
+  "library.includedFanClub": "Kasertayang · Klub Penggemar",
   "library.bought": "Bought stories",
   "library.stories": "Followed stories",
   "library.universes": "Followed universes",

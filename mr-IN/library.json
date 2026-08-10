@@ -1,7 +1,10 @@
 {
   "library.add": "पुस्तकालयात जोडा",
   "library.remove": "पुस्तकालयातून काढा",
-  "library.inLibrary": "लायब्ररीत आहे",
+  "library.inLibrary": "तुमच्या लायब्ररीत आहे",
+  "library.included": "समाविष्ट",
+  "library.includedOrg": "समाविष्ट · {org}",
+  "library.includedFanClub": "समाविष्ट · फॅन क्लब",
   "library.bought": "विकत घेतलेली कथा",
   "library.stories": "अनुसरण केलेली कथा",
   "library.universes": "अनुसरण केलेले विश्व",

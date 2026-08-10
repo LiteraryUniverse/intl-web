@@ -1,7 +1,10 @@
 {
   "library.add": "ライブラリーに追加",
   "library.remove": "ライブラリーから削除",
-  "library.inLibrary": "ライブラリーに追加済み",
+  "library.inLibrary": "マイライブラリーに追加済み",
+  "library.included": "利用可能",
+  "library.includedOrg": "利用可能 · {org}",
+  "library.includedFanClub": "利用可能 · ファンクラブ",
   "library.bought": "物語を購入",
   "library.stories": "ストーリーをフォローする",
   "library.universes": "宇宙小説をフォローする",

@@ -1,7 +1,10 @@
 {
   "library.add": "라이브러리에 추가",
   "library.remove": "라이브러리에서 제거",
-  "library.inLibrary": "라이브러리에 있음",
+  "library.inLibrary": "내 라이브러리에 있음",
+  "library.included": "이용 가능",
+  "library.includedOrg": "이용 가능 · {org}",
+  "library.includedFanClub": "이용 가능 · 팬클럽",
   "library.bought": "구매한 스토리",
   "library.stories": "팔로우한 스토리",
   "library.universes": "팔로우한 유니버스",

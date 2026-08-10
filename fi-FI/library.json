@@ -1,7 +1,10 @@
 {
   "library.add": "Lisää kirjastoon",
   "library.remove": "Poista kirjastosta",
-  "library.inLibrary": "Kirjastossa",
+  "library.inLibrary": "Kirjastossasi",
+  "library.included": "Sisältyy",
+  "library.includedOrg": "Sisältyy · {org}",
+  "library.includedFanClub": "Sisältyy · Faniklubi",
   "library.bought": "Ostetut tarinat",
   "library.stories": "Seuratut tarinat",
   "library.universes": "Seuratut universumit",

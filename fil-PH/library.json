@@ -1,7 +1,10 @@
 {
   "library.add": "Idagdag sa aklatan",
   "library.remove": "Tanggalin sa aklatan",
-  "library.inLibrary": "Nasa aklatan",
+  "library.inLibrary": "Nasa aklatan mo",
+  "library.included": "Kasama",
+  "library.includedOrg": "Kasama · {org}",
+  "library.includedFanClub": "Kasama · Fan Club",
   "library.bought": "Mga biniling kwento",
   "library.stories": "Mga sinusundang kwento",
   "library.universes": "Sinusundang mga universe",

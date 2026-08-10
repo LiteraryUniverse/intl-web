@@ -1,7 +1,10 @@
 {
   "library.add": "ലൈബ്രറിയിലേക്ക് ചേരുക",
   "library.remove": "ലൈബ്രറിയിൽ നിന്ന് നീക്കം ചെയ്യുക",
-  "library.inLibrary": "ലൈബ്രറിയിലുണ്ട്",
+  "library.inLibrary": "നിങ്ങളുടെ ലൈബ്രറിയിലുണ്ട്",
+  "library.included": "ഉൾപ്പെടുന്നു",
+  "library.includedOrg": "ഉൾപ്പെടുന്നു · {org}",
+  "library.includedFanClub": "ഉൾപ്പെടുന്നു · ഫാൻ ക്ലബ്",
   "library.bought": "വാങ്ങിയ കഥകൾ",
   "library.stories": "പിന്തുടരുന്ന കഥകൾ",
   "library.universes": "പിന്തുടരുന്ന മാനദണ്ഡങ്ങൾ",

@@ -1,7 +1,10 @@
 {
   "library.add": "ଲାଇବ୍ରେରୀରେ ଯୋଡ଼ନ୍ତୁ",
   "library.remove": "ଲାଇବ୍ରେରୀରୁ ବାହାର କରନ୍ତୁ",
-  "library.inLibrary": "ଲାଇବ୍ରେରୀରେ ଅଛି",
+  "library.inLibrary": "ଆପଣଙ୍କ ଲାଇବ୍ରେରୀରେ ଅଛି",
+  "library.included": "ଅନ୍ତର୍ଭୁକ୍ତ",
+  "library.includedOrg": "ଅନ୍ତର୍ଭୁକ୍ତ · {org}",
+  "library.includedFanClub": "ଅନ୍ତର୍ଭୁକ୍ତ · ଫ୍ୟାନ କ୍ଲବ",
   "library.bought": "କିନାରେ ଥିବା କଥାଗୁଡ଼ିକ",
   "library.stories": "ଅନୁଗାମୀ କଥାଗୁଡ଼ିକ",
   "library.universes": "ସମ୍ପାଦିତ ବିଶ୍ଵଗୁଡ଼ିକ",

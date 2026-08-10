@@ -1,7 +1,10 @@
 {
   "library.add": "Add to library",
   "library.remove": "Remove from library",
-  "library.inLibrary": "In library",
+  "library.inLibrary": "In your library",
+  "library.included": "Included",
+  "library.includedOrg": "Included · {org}",
+  "library.includedFanClub": "Included · Fan Club",
   "library.bought": "Bought stories",
   "library.stories": "Followed stories",
   "library.universes": "Followed universes",

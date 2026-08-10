@@ -1,7 +1,10 @@
 {
   "library.add": "Pridať do knižnice",
   "library.remove": "Odstrániť z knižnice",
-  "library.inLibrary": "V knižnici",
+  "library.inLibrary": "Vo vašej knižnici",
+  "library.included": "V predplatnom",
+  "library.includedOrg": "V predplatnom · {org}",
+  "library.includedFanClub": "V predplatnom · fanklub",
   "library.bought": "Kúpené príbehy",
   "library.stories": "Sledované príbehy",
   "library.universes": "Sledované vesmíry",

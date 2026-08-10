@@ -1,7 +1,10 @@
 {
   "library.add": "Hozzáadás a könyvtárhoz",
   "library.remove": "Eltávolítás a könyvtárból",
-  "library.inLibrary": "A könyvtárban",
+  "library.inLibrary": "A könyvtáradban",
+  "library.included": "Benne van",
+  "library.includedOrg": "Benne van · {org}",
+  "library.includedFanClub": "Benne van · Rajongói klub",
   "library.bought": "Megvásárolt történetek",
   "library.stories": "Követett történetek",
   "library.universes": "Követett univerzumok",

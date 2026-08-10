@@ -1,7 +1,10 @@
 {
   "library.add": "நூலயக்கத்தில் சேர்க்கவும்",
   "library.remove": "நூலயக்கத்திலிருந்து அகற்றுக",
-  "library.inLibrary": "நூலகத்தில் உள்ளது",
+  "library.inLibrary": "உங்கள் நூலகத்தில் உள்ளது",
+  "library.included": "உள்ளடங்கியது",
+  "library.includedOrg": "உள்ளடங்கியது · {org}",
+  "library.includedFanClub": "உள்ளடங்கியது · ரசிகர் மன்றம்",
   "library.bought": "வாங்கிய கதைகள்",
   "library.stories": "பின்னூட்டப்பட்ட கதைகள்",
   "library.universes": "பின்புகளை பின்பற்றப்பட்ட புலம்பல்கள்",

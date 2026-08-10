@@ -1,7 +1,10 @@
 {
   "library.add": "Tilføj til bibliotek",
   "library.remove": "Fjern fra bibliotek",
-  "library.inLibrary": "I biblioteket",
+  "library.inLibrary": "I dit bibliotek",
+  "library.included": "Inkluderet",
+  "library.includedOrg": "Inkluderet · {org}",
+  "library.includedFanClub": "Inkluderet · Fanklub",
   "library.bought": "Købte historier",
   "library.stories": "Følgte historier",
   "library.universes": "Fulgte universer",

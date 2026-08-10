@@ -1,7 +1,10 @@
 {
   "library.add": "Voeg by biblioteek",
   "library.remove": "Verwyder uit biblioteek",
-  "library.inLibrary": "In biblioteek",
+  "library.inLibrary": "In jou biblioteek",
+  "library.included": "Ingesluit",
+  "library.includedOrg": "Ingesluit · {org}",
+  "library.includedFanClub": "Ingesluit · Aanhangersklub",
   "library.bought": "Gekoopte stories",
   "library.stories": "Gevolgde stories",
   "library.universes": "Followed universes",

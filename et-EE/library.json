@@ -1,7 +1,10 @@
 {
   "library.add": "Lisa raamatukokku",
   "library.remove": "Eemalda raamatukogust",
-  "library.inLibrary": "Raamatukogus",
+  "library.inLibrary": "Sinu raamatukogus",
+  "library.included": "Kaasas",
+  "library.includedOrg": "Kaasas · {org}",
+  "library.includedFanClub": "Kaasas · Fänniklubi",
   "library.bought": "Ostetud lood",
   "library.stories": "Jälgitud lood",
   "library.universes": "Jälgitud universumid",

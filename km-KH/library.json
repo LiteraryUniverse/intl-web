@@ -1,7 +1,10 @@
 {
   "library.add": "បន្ថែម​ទៅ​ក្រុមបណ្ដុំ",
   "library.remove": "យកចេញ​ពី​ក្រុមបណ្ដុំ",
-  "library.inLibrary": "នៅក្នុងបណ្ណាល័យ",
+  "library.inLibrary": "នៅក្នុងបណ្ណាល័យរបស់អ្នក",
+  "library.included": "រួមបញ្ចូល",
+  "library.includedOrg": "រួមបញ្ចូល · {org}",
+  "library.includedFanClub": "រួមបញ្ចូល · ក្លឹបអ្នកគាំទ្រ",
   "library.bought": "របៀប​បញ្ជាទិញ​របស់​របរ",
   "library.stories": "របៀប​តាមដាន​របរ",
   "library.universes": "ការតាមដានជីវិតរបស់ជនជាតិ",

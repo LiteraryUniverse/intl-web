@@ -1,7 +1,10 @@
 {
   "library.add": "Thêm vào thư viện",
   "library.remove": "Xóa khỏi thư viện",
-  "library.inLibrary": "Trong thư viện",
+  "library.inLibrary": "Trong thư viện của bạn",
+  "library.included": "Bao gồm",
+  "library.includedOrg": "Bao gồm · {org}",
+  "library.includedFanClub": "Bao gồm · Câu lạc bộ người hâm mộ",
   "library.bought": "Các truyện đã mua",
   "library.stories": "Các truyện đã theo dõi",
   "library.universes": "Các vũ trụ đã theo dõi",

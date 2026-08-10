@@ -1,7 +1,10 @@
 {
   "library.add": "લાયબ્રેરીમાં ઉમેરો",
   "library.remove": "લાયબ્રેરીમાંથી દૂર કરો",
-  "library.inLibrary": "લાઇબ્રેરીમાં છે",
+  "library.inLibrary": "તમારી લાઇબ્રેરીમાં છે",
+  "library.included": "સામેલ",
+  "library.includedOrg": "સામેલ · {org}",
+  "library.includedFanClub": "સામેલ · ફેન ક્લબ",
   "library.bought": "ખરીદેલી કથાઓ",
   "library.stories": "અનુસરાયેલી કથાઓ",
   "library.universes": "અનુસરેલા યુનિવર્સો",

@@ -1,7 +1,10 @@
 {
   "library.add": "पुस्तकालयमा थप्नुहोस्",
   "library.remove": "पुस्तकालयबाट हटाउनुहोस्",
-  "library.inLibrary": "पुस्तकालयमा छ",
+  "library.inLibrary": "तपाईंको पुस्तकालयमा छ",
+  "library.included": "समावेश",
+  "library.includedOrg": "समावेश · {org}",
+  "library.includedFanClub": "समावेश · फ्यान क्लब",
   "library.bought": "किनेका कथाहरू",
   "library.stories": "अनुसरिएका कथाहरू",
   "library.universes": "अनुसरण गरिएका ब्रह्माण्डहरू",
