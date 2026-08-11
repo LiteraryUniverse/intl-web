@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "Apa sing ndadekake {name} unik dibandhingake setting liyane?",
   "blog.qa.autoQuestion.universe.4": "Apa ana panggonan utawa tokoh ing {name} sing kerep dilirwakake para penggemar?",
   "blog.qa.autoQuestion.universe.5": "Apa sabanjure kanggo crita-crita sing dumadi ing {name}?",
-  "blog.widget.countdown.done": "Wis teka!"
+  "blog.widget.countdown.done": "Wis teka!",
+  "blog.post.cover": "Gambar sampul"
 }

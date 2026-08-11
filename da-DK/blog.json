@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "Hvad gør {name} unikt sammenlignet med andre settings?",
   "blog.qa.autoQuestion.universe.4": "Er der et sted eller en karakter i {name}, som fans ofte overser?",
   "blog.qa.autoQuestion.universe.5": "Hvad er det næste for historierne i {name}?",
-  "blog.widget.countdown.done": "Det er her!"
+  "blog.widget.countdown.done": "Det er her!",
+  "blog.post.cover": "Forsidebillede"
 }

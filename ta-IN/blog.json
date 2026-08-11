@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "மற்ற அமைப்புகளுடன் ஒப்பிடும்போது {name}-ஐ எது தனித்துவமாக்குகிறது?",
   "blog.qa.autoQuestion.universe.4": "{name}-ல் ரசிகர்கள் அடிக்கடி கவனிக்காமல் விடும் இடம் அல்லது கதாபாத்திரம் ஏதேனும் உள்ளதா?",
   "blog.qa.autoQuestion.universe.5": "{name}-ல் நடக்கும் கதைகளுக்கு அடுத்து என்ன?",
-  "blog.widget.countdown.done": "வந்துவிட்டது!"
+  "blog.widget.countdown.done": "வந்துவிட்டது!",
+  "blog.post.cover": "அட்டைப் படம்"
 }

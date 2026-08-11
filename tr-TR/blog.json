@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "{name} diğer ortamlara kıyasla neyiyle benzersiz?",
   "blog.qa.autoQuestion.universe.4": "{name} içinde hayranların sıkça gözden kaçırdığı bir yer veya karakter var mı?",
   "blog.qa.autoQuestion.universe.5": "{name} ortamındaki hikâyeler için sırada ne var?",
-  "blog.widget.countdown.done": "İşte geldi!"
+  "blog.widget.countdown.done": "İşte geldi!",
+  "blog.post.cover": "Kapak görseli"
 }

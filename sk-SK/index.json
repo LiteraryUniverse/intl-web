@@ -318,6 +318,7 @@
   "blog.qa.autoQuestion.universe.4": "Je v {name} nejaké miesto alebo postava, ktoré fanúšikovia často prehliadajú?",
   "blog.qa.autoQuestion.universe.5": "Čo čaká príbehy odohrávajúce sa v {name} ďalej?",
   "blog.widget.countdown.done": "Je to tu!",
+  "blog.post.cover": "Titulný obrázok",
   "challenges.current": "Aktuálne výzvy",
   "challenges.wordcount.goal": "Cieľový počet slov",
   "challenges.wordcount.dailygoal": "Cieľový denný počet slov",

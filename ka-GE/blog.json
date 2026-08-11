@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "რა ხდის {name}-ს უნიკალურს სხვა გარემოებებთან შედარებით?",
   "blog.qa.autoQuestion.universe.4": "არის თუ არა {name}-ში ადგილი ან პერსონაჟი, რომელსაც გულშემატკივრები ხშირად გადიან გვერდზე?",
   "blog.qa.autoQuestion.universe.5": "რა არის შემდეგი ისტორიებისთვის, რომლებიც {name}-ში ვითარდება?",
-  "blog.widget.countdown.done": "დადგა!"
+  "blog.widget.countdown.done": "დადგა!",
+  "blog.post.cover": "ყდის სურათი"
 }

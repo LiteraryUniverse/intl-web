@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "與其他世界觀相比，{name} 的獨特之處是什麼？",
   "blog.qa.autoQuestion.universe.4": "{name} 中有沒有常被粉絲忽略的地點或角色？",
   "blog.qa.autoQuestion.universe.5": "以 {name} 為舞台的故事接下來會如何發展？",
-  "blog.widget.countdown.done": "已經推出！"
+  "blog.widget.countdown.done": "已經推出！",
+  "blog.post.cover": "封面圖片"
 }

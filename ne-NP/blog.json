@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "अन्य सेटिङहरूको तुलनामा {name} लाई केले अद्वितीय बनाउँछ?",
   "blog.qa.autoQuestion.universe.4": "{name} मा कुनै स्थान वा पात्र छ जसलाई प्रशंसकहरूले प्रायः बेवास्ता गर्छन्?",
   "blog.qa.autoQuestion.universe.5": "{name} मा सेट भएका कथाहरूका लागि अर्को के छ?",
-  "blog.widget.countdown.done": "आइपुग्यो!"
+  "blog.widget.countdown.done": "आइपुग्यो!",
+  "blog.post.cover": "कभर तस्बिर"
 }

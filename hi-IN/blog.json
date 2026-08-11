@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "अन्य परिवेशों की तुलना में {name} को क्या अनोखा बनाता है?",
   "blog.qa.autoQuestion.universe.4": "{name} में कोई ऐसा स्थान या पात्र है जिसे प्रशंसक अक्सर नज़रअंदाज़ करते हैं?",
   "blog.qa.autoQuestion.universe.5": "{name} में आधारित कहानियों के लिए आगे क्या है?",
-  "blog.widget.countdown.done": "यह आ गया!"
+  "blog.widget.countdown.done": "यह आ गया!",
+  "blog.post.cover": "कवर छवि"
 }

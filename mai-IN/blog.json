@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "दोसर सेटिंगक तुलनामे {name} केँ की अनोखा बनबैत अछि?",
   "blog.qa.autoQuestion.universe.4": "{name} मे कोनो एहन स्थान वा पात्र अछि जकरा प्रशंसक अक्सर अनदेखा करैत छथि?",
   "blog.qa.autoQuestion.universe.5": "{name} मे सेट कएल गेल कथासभक लेल आगू की अछि?",
-  "blog.widget.countdown.done": "आबि गेल!"
+  "blog.widget.countdown.done": "आबि गेल!",
+  "blog.post.cover": "कवर चित्र"
 }

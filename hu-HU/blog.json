@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "Mi teszi egyedivé a {name} világot más környezetekhez képest?",
   "blog.qa.autoQuestion.universe.4": "Van olyan helyszín vagy karakter {name} világában, amit a rajongók gyakran figyelmen kívül hagynak?",
   "blog.qa.autoQuestion.universe.5": "Mi következik a {name} világában játszódó történeteknél?",
-  "blog.widget.countdown.done": "Megérkezett!"
+  "blog.widget.countdown.done": "Megérkezett!",
+  "blog.post.cover": "Borítókép"
 }

@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "O que torna {name} único em comparação com outros cenários?",
   "blog.qa.autoQuestion.universe.4": "Há algum local ou personagem em {name} que os fãs costumam ignorar?",
   "blog.qa.autoQuestion.universe.5": "O que vem a seguir para as histórias ambientadas em {name}?",
-  "blog.widget.countdown.done": "Chegou!"
+  "blog.widget.countdown.done": "Chegou!",
+  "blog.post.cover": "Imagem de capa"
 }

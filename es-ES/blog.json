@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "¿Qué hace único a {name} en comparación con otros escenarios?",
   "blog.qa.autoQuestion.universe.4": "¿Hay algún lugar o personaje en {name} que los fans suelen pasar por alto?",
   "blog.qa.autoQuestion.universe.5": "¿Qué es lo siguiente para las historias ambientadas en {name}?",
-  "blog.widget.countdown.done": "¡Ya está aquí!"
+  "blog.widget.countdown.done": "¡Ya está aquí!",
+  "blog.post.cover": "Imagen de portada"
 }

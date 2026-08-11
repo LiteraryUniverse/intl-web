@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "Τι κάνει το {name} μοναδικό σε σύγκριση με άλλα σκηνικά;",
   "blog.qa.autoQuestion.universe.4": "Υπάρχει τοποθεσία ή χαρακτήρας στο {name} που οι θαυμαστές συχνά παραβλέπουν;",
   "blog.qa.autoQuestion.universe.5": "Τι ακολουθεί για τις ιστορίες που διαδραματίζονται στο {name};",
-  "blog.widget.countdown.done": "Έφτασε!"
+  "blog.widget.countdown.done": "Έφτασε!",
+  "blog.post.cover": "Εικόνα εξωφύλλου"
 }

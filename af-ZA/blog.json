@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "Wat maak {name} uniek in vergelyking met ander omgewings?",
   "blog.qa.autoQuestion.universe.4": "Is daar 'n plek of karakter in {name} wat aanhangers dikwels miskyk?",
   "blog.qa.autoQuestion.universe.5": "Wat is volgende vir die stories wat in {name} afspeel?",
-  "blog.widget.countdown.done": "Dit is hier!"
+  "blog.widget.countdown.done": "Dit is hier!",
+  "blog.post.cover": "Omslagprent"
 }

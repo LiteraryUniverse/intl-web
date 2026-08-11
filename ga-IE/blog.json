@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "Cad a fhágann {name} uathúil i gcomparáid le suíomhanna eile?",
   "blog.qa.autoQuestion.universe.4": "An bhfuil áit nó carachtar i {name} a ndéanann lucht leanúna neamhaird air go minic?",
   "blog.qa.autoQuestion.universe.5": "Cad atá le teacht do na scéalta atá suite i {name}?",
-  "blog.widget.countdown.done": "Tá sé anseo!"
+  "blog.widget.countdown.done": "Tá sé anseo!",
+  "blog.post.cover": "Íomhá chlúdaigh"
 }

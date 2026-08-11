@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "અન્ય સેટિંગ્સની સરખામણીમાં {name}ને શું અનોખું બનાવે છે?",
   "blog.qa.autoQuestion.universe.4": "{name}માં કોઈ એવું સ્થાન કે પાત્ર છે જેને ચાહકો ઘણી વાર અવગણે છે?",
   "blog.qa.autoQuestion.universe.5": "{name}માં સેટ થયેલી વાર્તાઓ માટે આગળ શું છે?",
-  "blog.widget.countdown.done": "આવી ગયું!"
+  "blog.widget.countdown.done": "આવી ગયું!",
+  "blog.post.cover": "કવર છબી"
 }

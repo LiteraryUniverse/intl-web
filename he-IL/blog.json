@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "מה הופך את {name} לייחודי בהשוואה לעולמות אחרים?",
   "blog.qa.autoQuestion.universe.4": "יש מקום או דמות ב-{name} שמעריצים לרוב מפספסים?",
   "blog.qa.autoQuestion.universe.5": "מה הצעד הבא לסיפורים שמתרחשים ב-{name}?",
-  "blog.widget.countdown.done": "זה כאן!"
+  "blog.widget.countdown.done": "זה כאן!",
+  "blog.post.cover": "תמונת שער"
 }

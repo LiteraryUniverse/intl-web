@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "Kas daro {name} unikaliu palyginti su kitais pasauliais?",
   "blog.qa.autoQuestion.universe.4": "Ar {name} yra vieta ar personažas, kurį gerbėjai dažnai pražiūri?",
   "blog.qa.autoQuestion.universe.5": "Kas toliau laukia istorijų, vykstančių {name}?",
-  "blog.widget.countdown.done": "Jau čia!"
+  "blog.widget.countdown.done": "Jau čia!",
+  "blog.post.cover": "Viršelio paveikslėlis"
 }

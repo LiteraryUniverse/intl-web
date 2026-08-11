@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "इतर सेटिंग्जच्या तुलनेत {name} ला काय अनोखे बनवते?",
   "blog.qa.autoQuestion.universe.4": "{name} मध्ये असे कोणते स्थान किंवा पात्र आहे जे चाहते अनेकदा दुर्लक्षित करतात?",
   "blog.qa.autoQuestion.universe.5": "{name} मध्ये घडणाऱ्या कथांसाठी पुढे काय आहे?",
-  "blog.widget.countdown.done": "आले आहे!"
+  "blog.widget.countdown.done": "आले आहे!",
+  "blog.post.cover": "मुखपृष्ठ प्रतिमा"
 }

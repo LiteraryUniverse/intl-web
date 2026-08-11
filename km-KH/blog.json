@@ -197,5 +197,6 @@
   "blog.qa.autoQuestion.universe.3": "អ្វីដែលធ្វើឱ្យ {name} មានលក្ខណៈពិសេសបើប្រៀបធៀបនឹងបរិបទផ្សេងទៀត?",
   "blog.qa.autoQuestion.universe.4": "តើមានទីកន្លែង ឬតួអង្គនៅក្នុង {name} ដែលអ្នកគាំទ្រតែងតែមើលរំលងទេ?",
   "blog.qa.autoQuestion.universe.5": "តើអ្វីជាជំហានបន្ទាប់សម្រាប់រឿងដែលកើតឡើងក្នុង {name}?",
-  "blog.widget.countdown.done": "មកដល់ហើយ!"
+  "blog.widget.countdown.done": "មកដល់ហើយ!",
+  "blog.post.cover": "រូបភាពគម្រប"
 }
