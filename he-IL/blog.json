@@ -219,7 +219,6 @@
   "blog.theme.border": "צבע המסגרת",
   "blog.theme.contrastWarning": "קשה לקריאה על {background} ({ratio}:1, נדרש {target}:1).",
   "blog.theme.contrastFix": "השתמש ב-{color}",
-  "blog.theme.reset": "איפוס לערכת הנושא של Literary Universe",
   "blog.theme.preview.modeSwitch": "מצב תצוגה מקדימה",
   "blog.theme.preview.both": "שניהם",
   "blog.theme.preview.lightOnly": "בהיר",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "שזיף",
   "blog.theme.preset.rust": "חלודה",
   "blog.theme.preset.mint": "נענע",
-  "blog.theme.preset.cobalt": "קובלט"
+  "blog.theme.preset.cobalt": "קובלט",
+  "blog.theme.preset.starfield": "שדה כוכבים",
+  "blog.theme.preset.nebula": "ערפילית",
+  "blog.theme.preset.terminal": "מסוף",
+  "blog.theme.preset.chrome": "כרום",
+  "blog.theme.preset.arcane": "נסתר",
+  "blog.theme.preset.dragonfire": "אש דרקון",
+  "blog.theme.preset.grimoire": "ספר כשפים",
+  "blog.theme.preset.runestone": "אבן רונית",
+  "blog.theme.preset.sylvan": "יערי"
 }

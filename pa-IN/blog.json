@@ -219,7 +219,6 @@
   "blog.theme.border": "ਕਿਨਾਰੇ ਦਾ ਰੰਗ",
   "blog.theme.contrastWarning": "{background} ਉੱਤੇ ਪੜ੍ਹਨਾ ਔਖਾ ({ratio}:1, ਲੋੜੀਂਦਾ {target}:1)।",
   "blog.theme.contrastFix": "{color} ਵਰਤੋ",
-  "blog.theme.reset": "Literary Universe ਥੀਮ ਉੱਤੇ ਰੀਸੈੱਟ ਕਰੋ",
   "blog.theme.preview.modeSwitch": "ਝਲਕ ਮੋਡ",
   "blog.theme.preview.both": "ਦੋਵੇਂ",
   "blog.theme.preview.lightOnly": "ਹਲਕਾ",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "ਆਲੂਬੁਖਾਰਾ",
   "blog.theme.preset.rust": "ਜੰਗਾਲ",
   "blog.theme.preset.mint": "ਪੁਦੀਨਾ",
-  "blog.theme.preset.cobalt": "ਕੋਬਾਲਟ"
+  "blog.theme.preset.cobalt": "ਕੋਬਾਲਟ",
+  "blog.theme.preset.starfield": "ਤਾਰਾ ਖੇਤਰ",
+  "blog.theme.preset.nebula": "ਨੀਹਾਰਿਕਾ",
+  "blog.theme.preset.terminal": "ਟਰਮੀਨਲ",
+  "blog.theme.preset.chrome": "ਕਰੋਮ",
+  "blog.theme.preset.arcane": "ਗੂੜ੍ਹ ਵਿਦਿਆ",
+  "blog.theme.preset.dragonfire": "ਡਰੈਗਨ ਅੱਗ",
+  "blog.theme.preset.grimoire": "ਮੰਤਰਗ੍ਰੰਥ",
+  "blog.theme.preset.runestone": "ਰੂਨ ਪੱਥਰ",
+  "blog.theme.preset.sylvan": "ਵਣ"
 }

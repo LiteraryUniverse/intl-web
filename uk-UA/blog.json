@@ -219,7 +219,6 @@
   "blog.theme.border": "Колір меж",
   "blog.theme.contrastWarning": "Погано читається на {background} ({ratio}:1, потрібно {target}:1).",
   "blog.theme.contrastFix": "Використати {color}",
-  "blog.theme.reset": "Скинути до теми Literary Universe",
   "blog.theme.preview.modeSwitch": "Режим перегляду",
   "blog.theme.preview.both": "Обидві",
   "blog.theme.preview.lightOnly": "Світла",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Слива",
   "blog.theme.preset.rust": "Іржа",
   "blog.theme.preset.mint": "М’ята",
-  "blog.theme.preset.cobalt": "Кобальт"
+  "blog.theme.preset.cobalt": "Кобальт",
+  "blog.theme.preset.starfield": "Зоряне поле",
+  "blog.theme.preset.nebula": "Туманність",
+  "blog.theme.preset.terminal": "Термінал",
+  "blog.theme.preset.chrome": "Хром",
+  "blog.theme.preset.arcane": "Таємне",
+  "blog.theme.preset.dragonfire": "Драконове полум’я",
+  "blog.theme.preset.grimoire": "Гримуар",
+  "blog.theme.preset.runestone": "Рунний камінь",
+  "blog.theme.preset.sylvan": "Лісовий"
 }

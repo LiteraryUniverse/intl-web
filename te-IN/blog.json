@@ -219,7 +219,6 @@
   "blog.theme.border": "అంచు రంగు",
   "blog.theme.contrastWarning": "{background} పై చదవడం కష్టం ({ratio}:1, అవసరం {target}:1).",
   "blog.theme.contrastFix": "{color} వాడండి",
-  "blog.theme.reset": "Literary Universe థీమ్‌కు రీసెట్ చేయండి",
   "blog.theme.preview.modeSwitch": "ప్రివ్యూ మోడ్",
   "blog.theme.preview.both": "రెండూ",
   "blog.theme.preview.lightOnly": "లేత",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "రేగు",
   "blog.theme.preset.rust": "తుప్పు",
   "blog.theme.preset.mint": "పుదీనా",
-  "blog.theme.preset.cobalt": "కోబాల్ట్"
+  "blog.theme.preset.cobalt": "కోబాల్ట్",
+  "blog.theme.preset.starfield": "నక్షత్ర క్షేత్రం",
+  "blog.theme.preset.nebula": "నిహారిక",
+  "blog.theme.preset.terminal": "టెర్మినల్",
+  "blog.theme.preset.chrome": "క్రోమ్",
+  "blog.theme.preset.arcane": "గూఢవిద్య",
+  "blog.theme.preset.dragonfire": "డ్రాగన్ అగ్ని",
+  "blog.theme.preset.grimoire": "మంత్రగ్రంథం",
+  "blog.theme.preset.runestone": "రూన్ శిల",
+  "blog.theme.preset.sylvan": "వన్య"
 }

@@ -219,7 +219,6 @@
   "blog.theme.border": "Warna wates",
   "blog.theme.contrastWarning": "Angel diwaca ing {background} ({ratio}:1, butuh {target}:1).",
   "blog.theme.contrastFix": "Nganggo {color}",
-  "blog.theme.reset": "Balekake menyang tema Literary Universe",
   "blog.theme.preview.modeSwitch": "Mode pratinjau",
   "blog.theme.preview.both": "Loro-lorone",
   "blog.theme.preview.lightOnly": "Padhang",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Plum",
   "blog.theme.preset.rust": "Teyeng",
   "blog.theme.preset.mint": "Mint",
-  "blog.theme.preset.cobalt": "Kobalt"
+  "blog.theme.preset.cobalt": "Kobalt",
+  "blog.theme.preset.starfield": "Ara-ara Lintang",
+  "blog.theme.preset.nebula": "Nebula",
+  "blog.theme.preset.terminal": "Terminal",
+  "blog.theme.preset.chrome": "Krom",
+  "blog.theme.preset.arcane": "Arkana",
+  "blog.theme.preset.dragonfire": "Geni Naga",
+  "blog.theme.preset.grimoire": "Kitab Mantra",
+  "blog.theme.preset.runestone": "Watu Rune",
+  "blog.theme.preset.sylvan": "Alas"
 }

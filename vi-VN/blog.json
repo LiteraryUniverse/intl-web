@@ -219,7 +219,6 @@
   "blog.theme.border": "Màu viền",
   "blog.theme.contrastWarning": "Khó đọc trên {background} ({ratio}:1, cần {target}:1).",
   "blog.theme.contrastFix": "Dùng {color}",
-  "blog.theme.reset": "Đặt lại về giao diện Literary Universe",
   "blog.theme.preview.modeSwitch": "Chế độ xem trước",
   "blog.theme.preview.both": "Cả hai",
   "blog.theme.preview.lightOnly": "Sáng",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Mận",
   "blog.theme.preset.rust": "Gỉ sét",
   "blog.theme.preset.mint": "Bạc hà",
-  "blog.theme.preset.cobalt": "Coban"
+  "blog.theme.preset.cobalt": "Coban",
+  "blog.theme.preset.starfield": "Trường sao",
+  "blog.theme.preset.nebula": "Tinh vân",
+  "blog.theme.preset.terminal": "Thiết bị đầu cuối",
+  "blog.theme.preset.chrome": "Crôm",
+  "blog.theme.preset.arcane": "Bí thuật",
+  "blog.theme.preset.dragonfire": "Lửa rồng",
+  "blog.theme.preset.grimoire": "Sách phù chú",
+  "blog.theme.preset.runestone": "Đá rune",
+  "blog.theme.preset.sylvan": "Rừng thẳm"
 }

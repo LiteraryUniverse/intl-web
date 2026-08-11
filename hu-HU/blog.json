@@ -219,7 +219,6 @@
   "blog.theme.border": "Szegély színe",
   "blog.theme.contrastWarning": "Nehezen olvasható ezen: {background} ({ratio}:1, kell {target}:1).",
   "blog.theme.contrastFix": "{color} használata",
-  "blog.theme.reset": "Visszaállítás a Literary Universe témára",
   "blog.theme.preview.modeSwitch": "Előnézeti mód",
   "blog.theme.preview.both": "Mindkettő",
   "blog.theme.preview.lightOnly": "Világos",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Szilva",
   "blog.theme.preset.rust": "Rozsda",
   "blog.theme.preset.mint": "Menta",
-  "blog.theme.preset.cobalt": "Kobalt"
+  "blog.theme.preset.cobalt": "Kobalt",
+  "blog.theme.preset.starfield": "Csillagmező",
+  "blog.theme.preset.nebula": "Köd",
+  "blog.theme.preset.terminal": "Terminál",
+  "blog.theme.preset.chrome": "Króm",
+  "blog.theme.preset.arcane": "Arkán",
+  "blog.theme.preset.dragonfire": "Sárkánytűz",
+  "blog.theme.preset.grimoire": "Varázskönyv",
+  "blog.theme.preset.runestone": "Rúnakő",
+  "blog.theme.preset.sylvan": "Erdei"
 }

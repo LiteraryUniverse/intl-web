@@ -219,7 +219,6 @@
   "blog.theme.border": "لون الحدود",
   "blog.theme.contrastWarning": "صعب القراءة على {background} ({ratio}:1، يلزم {target}:1).",
   "blog.theme.contrastFix": "استخدم {color}",
-  "blog.theme.reset": "إعادة التعيين إلى سمة Literary Universe",
   "blog.theme.preview.modeSwitch": "وضع المعاينة",
   "blog.theme.preview.both": "كلاهما",
   "blog.theme.preview.lightOnly": "فاتح",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "برقوق",
   "blog.theme.preset.rust": "صدأ",
   "blog.theme.preset.mint": "نعناع",
-  "blog.theme.preset.cobalt": "كوبالت"
+  "blog.theme.preset.cobalt": "كوبالت",
+  "blog.theme.preset.starfield": "حقل النجوم",
+  "blog.theme.preset.nebula": "سديم",
+  "blog.theme.preset.terminal": "طرفية",
+  "blog.theme.preset.chrome": "كروم",
+  "blog.theme.preset.arcane": "سحر خفي",
+  "blog.theme.preset.dragonfire": "نار التنين",
+  "blog.theme.preset.grimoire": "كتاب السحر",
+  "blog.theme.preset.runestone": "حجر الرونية",
+  "blog.theme.preset.sylvan": "غابيّ"
 }

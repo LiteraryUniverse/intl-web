@@ -219,7 +219,6 @@
   "blog.theme.border": "Couleur des bordures",
   "blog.theme.contrastWarning": "Peu lisible sur {background} ({ratio}:1, il faut {target}:1).",
   "blog.theme.contrastFix": "Utiliser {color}",
-  "blog.theme.reset": "Rétablir le thème Literary Universe",
   "blog.theme.preview.modeSwitch": "Mode aperçu",
   "blog.theme.preview.both": "Les deux",
   "blog.theme.preview.lightOnly": "Clair",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Prune",
   "blog.theme.preset.rust": "Rouille",
   "blog.theme.preset.mint": "Menthe",
-  "blog.theme.preset.cobalt": "Cobalt"
+  "blog.theme.preset.cobalt": "Cobalt",
+  "blog.theme.preset.starfield": "Champ d’étoiles",
+  "blog.theme.preset.nebula": "Nébuleuse",
+  "blog.theme.preset.terminal": "Terminal",
+  "blog.theme.preset.chrome": "Chrome",
+  "blog.theme.preset.arcane": "Arcane",
+  "blog.theme.preset.dragonfire": "Feu de dragon",
+  "blog.theme.preset.grimoire": "Grimoire",
+  "blog.theme.preset.runestone": "Pierre runique",
+  "blog.theme.preset.sylvan": "Sylvestre"
 }

@@ -219,7 +219,6 @@
   "blog.theme.border": "Χρώμα περιγράμματος",
   "blog.theme.contrastWarning": "Δυσανάγνωστο σε {background} ({ratio}:1, απαιτείται {target}:1).",
   "blog.theme.contrastFix": "Χρήση {color}",
-  "blog.theme.reset": "Επαναφορά στο θέμα Literary Universe",
   "blog.theme.preview.modeSwitch": "Λειτουργία προεπισκόπησης",
   "blog.theme.preview.both": "Και τα δύο",
   "blog.theme.preview.lightOnly": "Φωτεινό",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Δαμάσκηνο",
   "blog.theme.preset.rust": "Σκουριά",
   "blog.theme.preset.mint": "Μέντα",
-  "blog.theme.preset.cobalt": "Κοβάλτιο"
+  "blog.theme.preset.cobalt": "Κοβάλτιο",
+  "blog.theme.preset.starfield": "Αστρικό πεδίο",
+  "blog.theme.preset.nebula": "Νεφέλωμα",
+  "blog.theme.preset.terminal": "Τερματικό",
+  "blog.theme.preset.chrome": "Χρώμιο",
+  "blog.theme.preset.arcane": "Απόκρυφο",
+  "blog.theme.preset.dragonfire": "Φωτιά δράκου",
+  "blog.theme.preset.grimoire": "Γκριμόριο",
+  "blog.theme.preset.runestone": "Ρουνόπετρα",
+  "blog.theme.preset.sylvan": "Δασικό"
 }

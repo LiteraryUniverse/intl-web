@@ -219,7 +219,6 @@
   "blog.theme.border": "ಅಂಚಿನ ಬಣ್ಣ",
   "blog.theme.contrastWarning": "{background} ಮೇಲೆ ಓದಲು ಕಷ್ಟ ({ratio}:1, ಬೇಕು {target}:1).",
   "blog.theme.contrastFix": "{color} ಬಳಸಿ",
-  "blog.theme.reset": "Literary Universe ಥೀಮ್‌ಗೆ ಮರುಹೊಂದಿಸಿ",
   "blog.theme.preview.modeSwitch": "ಪೂರ್ವವೀಕ್ಷಣೆ ಮೋಡ್",
   "blog.theme.preview.both": "ಎರಡೂ",
   "blog.theme.preview.lightOnly": "ತಿಳಿ",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "ಪ್ಲಮ್",
   "blog.theme.preset.rust": "ತುಕ್ಕು",
   "blog.theme.preset.mint": "ಪುದೀನ",
-  "blog.theme.preset.cobalt": "ಕೋಬಾಲ್ಟ್"
+  "blog.theme.preset.cobalt": "ಕೋಬಾಲ್ಟ್",
+  "blog.theme.preset.starfield": "ನಕ್ಷತ್ರ ಕ್ಷೇತ್ರ",
+  "blog.theme.preset.nebula": "ನೀಹಾರಿಕೆ",
+  "blog.theme.preset.terminal": "ಟರ್ಮಿನಲ್",
+  "blog.theme.preset.chrome": "ಕ್ರೋಮ್",
+  "blog.theme.preset.arcane": "ಗೂಢವಿದ್ಯೆ",
+  "blog.theme.preset.dragonfire": "ಡ್ರ್ಯಾಗನ್ ಬೆಂಕಿ",
+  "blog.theme.preset.grimoire": "ಮಂತ್ರಗ್ರಂಥ",
+  "blog.theme.preset.runestone": "ರೂನ್ ಶಿಲೆ",
+  "blog.theme.preset.sylvan": "ವನ್ಯ"
 }

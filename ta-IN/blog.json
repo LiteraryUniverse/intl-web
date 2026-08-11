@@ -219,7 +219,6 @@
   "blog.theme.border": "விளிம்பு நிறம்",
   "blog.theme.contrastWarning": "{background} மீது படிக்க கடினம் ({ratio}:1, தேவை {target}:1).",
   "blog.theme.contrastFix": "{color} பயன்படுத்து",
-  "blog.theme.reset": "Literary Universe தீமிற்கு மீட்டமை",
   "blog.theme.preview.modeSwitch": "முன்னோட்ட பயன்முறை",
   "blog.theme.preview.both": "இரண்டும்",
   "blog.theme.preview.lightOnly": "ஒளி",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "உலர் திராட்சை",
   "blog.theme.preset.rust": "துரு",
   "blog.theme.preset.mint": "புதினா",
-  "blog.theme.preset.cobalt": "கோபால்ட்"
+  "blog.theme.preset.cobalt": "கோபால்ட்",
+  "blog.theme.preset.starfield": "நட்சத்திர வெளி",
+  "blog.theme.preset.nebula": "நெபுலா",
+  "blog.theme.preset.terminal": "முனையம்",
+  "blog.theme.preset.chrome": "குரோம்",
+  "blog.theme.preset.arcane": "மறைவிதை",
+  "blog.theme.preset.dragonfire": "டிராகன் தீ",
+  "blog.theme.preset.grimoire": "மந்திர நூல்",
+  "blog.theme.preset.runestone": "ரூன் கல்",
+  "blog.theme.preset.sylvan": "வனம்"
 }

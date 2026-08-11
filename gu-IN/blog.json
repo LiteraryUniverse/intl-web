@@ -219,7 +219,6 @@
   "blog.theme.border": "કિનારીનો રંગ",
   "blog.theme.contrastWarning": "{background} પર વાંચવું મુશ્કેલ ({ratio}:1, જરૂરી {target}:1).",
   "blog.theme.contrastFix": "{color} વાપરો",
-  "blog.theme.reset": "Literary Universe થીમ પર રીસેટ કરો",
   "blog.theme.preview.modeSwitch": "પૂર્વાવલોકન મોડ",
   "blog.theme.preview.both": "બંને",
   "blog.theme.preview.lightOnly": "હળવું",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "આલુબુખારા",
   "blog.theme.preset.rust": "કાટ",
   "blog.theme.preset.mint": "ફુદીનો",
-  "blog.theme.preset.cobalt": "કોબાલ્ટ"
+  "blog.theme.preset.cobalt": "કોબાલ્ટ",
+  "blog.theme.preset.starfield": "તારામંડળ",
+  "blog.theme.preset.nebula": "નિહારિકા",
+  "blog.theme.preset.terminal": "ટર્મિનલ",
+  "blog.theme.preset.chrome": "ક્રોમ",
+  "blog.theme.preset.arcane": "ગૂઢ વિદ્યા",
+  "blog.theme.preset.dragonfire": "ડ્રેગન અગ્નિ",
+  "blog.theme.preset.grimoire": "મંત્રગ્રંથ",
+  "blog.theme.preset.runestone": "રૂન શિલા",
+  "blog.theme.preset.sylvan": "વનવાસી"
 }

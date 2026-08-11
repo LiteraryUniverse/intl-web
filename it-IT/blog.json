@@ -219,7 +219,6 @@
   "blog.theme.border": "Colore dei bordi",
   "blog.theme.contrastWarning": "Poco leggibile su {background} ({ratio}:1, servono {target}:1).",
   "blog.theme.contrastFix": "Usa {color}",
-  "blog.theme.reset": "Ripristina il tema Literary Universe",
   "blog.theme.preview.modeSwitch": "Modalità anteprima",
   "blog.theme.preview.both": "Entrambi",
   "blog.theme.preview.lightOnly": "Chiaro",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Prugna",
   "blog.theme.preset.rust": "Ruggine",
   "blog.theme.preset.mint": "Menta",
-  "blog.theme.preset.cobalt": "Cobalto"
+  "blog.theme.preset.cobalt": "Cobalto",
+  "blog.theme.preset.starfield": "Campo stellare",
+  "blog.theme.preset.nebula": "Nebulosa",
+  "blog.theme.preset.terminal": "Terminale",
+  "blog.theme.preset.chrome": "Cromo",
+  "blog.theme.preset.arcane": "Arcano",
+  "blog.theme.preset.dragonfire": "Fuoco di drago",
+  "blog.theme.preset.grimoire": "Grimorio",
+  "blog.theme.preset.runestone": "Pietra runica",
+  "blog.theme.preset.sylvan": "Silvano"
 }

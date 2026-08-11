@@ -219,7 +219,6 @@
   "blog.theme.border": "枠線の色",
   "blog.theme.contrastWarning": "{background}の上では読みにくいです（{ratio}:1、必要{target}:1）。",
   "blog.theme.contrastFix": "{color} を使う",
-  "blog.theme.reset": "Literary Universe のテーマに戻す",
   "blog.theme.preview.modeSwitch": "プレビューモード",
   "blog.theme.preview.both": "両方",
   "blog.theme.preview.lightOnly": "ライト",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "すもも",
   "blog.theme.preset.rust": "錆",
   "blog.theme.preset.mint": "ミント",
-  "blog.theme.preset.cobalt": "コバルト"
+  "blog.theme.preset.cobalt": "コバルト",
+  "blog.theme.preset.starfield": "星野",
+  "blog.theme.preset.nebula": "星雲",
+  "blog.theme.preset.terminal": "ターミナル",
+  "blog.theme.preset.chrome": "クローム",
+  "blog.theme.preset.arcane": "秘術",
+  "blog.theme.preset.dragonfire": "竜炎",
+  "blog.theme.preset.grimoire": "魔道書",
+  "blog.theme.preset.runestone": "ルーン石",
+  "blog.theme.preset.sylvan": "森郷"
 }

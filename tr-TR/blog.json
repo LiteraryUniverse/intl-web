@@ -219,7 +219,6 @@
   "blog.theme.border": "Kenarlık rengi",
   "blog.theme.contrastWarning": "{background} üzerinde okunması zor ({ratio}:1, gereken {target}:1).",
   "blog.theme.contrastFix": "{color} kullan",
-  "blog.theme.reset": "Literary Universe temasına sıfırla",
   "blog.theme.preview.modeSwitch": "Önizleme modu",
   "blog.theme.preview.both": "İkisi de",
   "blog.theme.preview.lightOnly": "Açık",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Erik",
   "blog.theme.preset.rust": "Pas",
   "blog.theme.preset.mint": "Nane",
-  "blog.theme.preset.cobalt": "Kobalt"
+  "blog.theme.preset.cobalt": "Kobalt",
+  "blog.theme.preset.starfield": "Yıldız Alanı",
+  "blog.theme.preset.nebula": "Bulutsu",
+  "blog.theme.preset.terminal": "Terminal",
+  "blog.theme.preset.chrome": "Krom",
+  "blog.theme.preset.arcane": "Gizemli",
+  "blog.theme.preset.dragonfire": "Ejderha Ateşi",
+  "blog.theme.preset.grimoire": "Büyü Kitabı",
+  "blog.theme.preset.runestone": "Rün Taşı",
+  "blog.theme.preset.sylvan": "Orman"
 }

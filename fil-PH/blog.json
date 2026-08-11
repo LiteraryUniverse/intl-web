@@ -219,7 +219,6 @@
   "blog.theme.border": "Kulay ng gilid",
   "blog.theme.contrastWarning": "Mahirap basahin sa {background} ({ratio}:1, kailangan {target}:1).",
   "blog.theme.contrastFix": "Gamitin ang {color}",
-  "blog.theme.reset": "I-reset sa tema ng Literary Universe",
   "blog.theme.preview.modeSwitch": "Mode ng preview",
   "blog.theme.preview.both": "Pareho",
   "blog.theme.preview.lightOnly": "Maliwanag",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Siruwelas",
   "blog.theme.preset.rust": "Kalawang",
   "blog.theme.preset.mint": "Mint",
-  "blog.theme.preset.cobalt": "Kobalto"
+  "blog.theme.preset.cobalt": "Kobalto",
+  "blog.theme.preset.starfield": "Bukid ng Bituin",
+  "blog.theme.preset.nebula": "Nebula",
+  "blog.theme.preset.terminal": "Terminal",
+  "blog.theme.preset.chrome": "Kromo",
+  "blog.theme.preset.arcane": "Arkano",
+  "blog.theme.preset.dragonfire": "Apoy ng Dragon",
+  "blog.theme.preset.grimoire": "Grimoryo",
+  "blog.theme.preset.runestone": "Batong Runiko",
+  "blog.theme.preset.sylvan": "Kagubatan"
 }

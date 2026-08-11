@@ -219,7 +219,6 @@
   "blog.theme.border": "किनारे का रंग",
   "blog.theme.contrastWarning": "{background} पर पढ़ना कठिन ({ratio}:1, आवश्यक {target}:1)।",
   "blog.theme.contrastFix": "{color} उपयोग करें",
-  "blog.theme.reset": "Literary Universe थीम पर रीसेट करें",
   "blog.theme.preview.modeSwitch": "पूर्वावलोकन मोड",
   "blog.theme.preview.both": "दोनों",
   "blog.theme.preview.lightOnly": "हल्का",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "आलूबुखारा",
   "blog.theme.preset.rust": "जंग",
   "blog.theme.preset.mint": "पुदीना",
-  "blog.theme.preset.cobalt": "कोबाल्ट"
+  "blog.theme.preset.cobalt": "कोबाल्ट",
+  "blog.theme.preset.starfield": "तारा क्षेत्र",
+  "blog.theme.preset.nebula": "निहारिका",
+  "blog.theme.preset.terminal": "टर्मिनल",
+  "blog.theme.preset.chrome": "क्रोम",
+  "blog.theme.preset.arcane": "गूढ़ विद्या",
+  "blog.theme.preset.dragonfire": "ड्रैगन अग्नि",
+  "blog.theme.preset.grimoire": "मंत्रग्रंथ",
+  "blog.theme.preset.runestone": "रूण शिला",
+  "blog.theme.preset.sylvan": "वन्य"
 }

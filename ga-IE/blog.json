@@ -219,7 +219,6 @@
   "blog.theme.border": "Dath na himlíne",
   "blog.theme.contrastWarning": "Deacair a léamh ar {background} ({ratio}:1, teastaíonn {target}:1).",
   "blog.theme.contrastFix": "Úsáid {color}",
-  "blog.theme.reset": "Athshocraigh go téama Literary Universe",
   "blog.theme.preview.modeSwitch": "Mód réamhamhairc",
   "blog.theme.preview.both": "Araon",
   "blog.theme.preview.lightOnly": "Sorcha",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "Pluma",
   "blog.theme.preset.rust": "Meirg",
   "blog.theme.preset.mint": "Miontas",
-  "blog.theme.preset.cobalt": "Cóbalt"
+  "blog.theme.preset.cobalt": "Cóbalt",
+  "blog.theme.preset.starfield": "Réaltréimse",
+  "blog.theme.preset.nebula": "Réaltnéal",
+  "blog.theme.preset.terminal": "Teirminéal",
+  "blog.theme.preset.chrome": "Cróm",
+  "blog.theme.preset.arcane": "Rúndiamhair",
+  "blog.theme.preset.dragonfire": "Tine Dragain",
+  "blog.theme.preset.grimoire": "Leabhar Asarlaíochta",
+  "blog.theme.preset.runestone": "Rúnchloch",
+  "blog.theme.preset.sylvan": "Coillteach"
 }

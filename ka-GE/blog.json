@@ -219,7 +219,6 @@
   "blog.theme.border": "საზღვრის ფერი",
   "blog.theme.contrastWarning": "ძნელად იკითხება {background}-ზე ({ratio}:1, საჭიროა {target}:1).",
   "blog.theme.contrastFix": "{color}-ის გამოყენება",
-  "blog.theme.reset": "Literary Universe-ის თემაზე დაბრუნება",
   "blog.theme.preview.modeSwitch": "გადახედვის რეჟიმი",
   "blog.theme.preview.both": "ორივე",
   "blog.theme.preview.lightOnly": "ნათელი",
@@ -234,5 +233,14 @@
   "blog.theme.preset.plum": "ქლიავი",
   "blog.theme.preset.rust": "ჟანგი",
   "blog.theme.preset.mint": "პიტნა",
-  "blog.theme.preset.cobalt": "კობალტი"
+  "blog.theme.preset.cobalt": "კობალტი",
+  "blog.theme.preset.starfield": "ვარსკვლავთა ველი",
+  "blog.theme.preset.nebula": "ნისლეული",
+  "blog.theme.preset.terminal": "ტერმინალი",
+  "blog.theme.preset.chrome": "ქრომი",
+  "blog.theme.preset.arcane": "საიდუმლო",
+  "blog.theme.preset.dragonfire": "დრაკონის ცეცხლი",
+  "blog.theme.preset.grimoire": "გრიმუარი",
+  "blog.theme.preset.runestone": "რუნული ქვა",
+  "blog.theme.preset.sylvan": "ტყიური"
 }
