@@ -186,5 +186,6 @@
   "blog.domains.available": "उपलब्ध आहे!",
   "blog.domains.customComing": "स्वतःचे डोमेन जोडणे (जसे blog.tumchenav.com) लवकरच येत आहे.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "आले आहे!"
 }

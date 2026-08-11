@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Ang fan club ay bahagi ng organisasyon",
   "fanClub.partner.none": "Wala — mananatili sa iyo ang lahat ng kita",
   "fanClub.partner.help": "Kung ang iyong kontrata sa isang organisasyon ay kinabibilangan ng iyong fan club, piliin ito rito — ang kasalukuyang rate ng organisasyon ay naitatakda sa sandali ng pagpili.",
-  "fanClub.partner.breakdown": "Tumatanggap ang organisasyon ng {org}% ng kita ng fan club na ito (nakapirmi kapag napili), bukod pa sa bayarin ng platform. Nalalapat din sa mga kasalukuyang subscriber."
+  "fanClub.partner.breakdown": "Tumatanggap ang organisasyon ng {org}% ng kita ng fan club na ito (nakapirmi kapag napili), bukod pa sa bayarin ng platform. Nalalapat din sa mga kasalukuyang subscriber.",
+  "plans.feature.blogWidgets": "Mga widget sa mga pahina ng blog"
 }

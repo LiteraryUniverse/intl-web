@@ -186,5 +186,6 @@
   "blog.domains.available": "זמין!",
   "blog.domains.customComing": "חיבור דומיין משלכם (כמו blog.yourname.com) יגיע בקרוב.",
   "blog.post.viewPublished": "צפייה בפוסט שפורסם",
-  "blog.post.edit": "עריכת פוסט"
+  "blog.post.edit": "עריכת פוסט",
+  "blog.widget.countdown.done": "זה כאן!"
 }

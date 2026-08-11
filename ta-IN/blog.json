@@ -186,5 +186,6 @@
   "blog.domains.available": "கிடைக்கிறது!",
   "blog.domains.customComing": "சொந்த டொமைனை இணைப்பது (blog.ungalpeyar.com போன்று) விரைவில் வருகிறது.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "வந்துவிட்டது!"
 }

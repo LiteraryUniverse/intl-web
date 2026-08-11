@@ -186,5 +186,6 @@
   "blog.domains.available": "Saadaval!",
   "blog.domains.customComing": "Oma domeeni ühendamine (nt blog.sinunimi.ee) tuleb peagi.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "See on kohal!"
 }

@@ -196,5 +196,6 @@
   "blog.qa.autoQuestion.universe.2": "Wie haben Sie begonnen, die Welt von {name} aufzubauen?",
   "blog.qa.autoQuestion.universe.3": "Was macht {name} im Vergleich zu anderen Settings einzigartig?",
   "blog.qa.autoQuestion.universe.4": "Gibt es in {name} einen Ort oder eine Figur, den Fans oft übersehen?",
-  "blog.qa.autoQuestion.universe.5": "Was kommt als Nächstes für die Geschichten in {name}?"
+  "blog.qa.autoQuestion.universe.5": "Was kommt als Nächstes für die Geschichten in {name}?",
+  "blog.widget.countdown.done": "Es ist so weit!"
 }

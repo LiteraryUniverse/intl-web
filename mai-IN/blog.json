@@ -186,5 +186,6 @@
   "blog.domains.available": "उपलब्ध अछि!",
   "blog.domains.customComing": "अपन डोमेन जोड़ब (जेना blog.ahankanaam.com) जल्दिये आबि रहल अछि।",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "आबि गेल!"
 }

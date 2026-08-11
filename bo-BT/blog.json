@@ -186,5 +186,6 @@
   "blog.domains.available": "ཐོབ་ཐུབ།",
   "blog.domains.customComing": "རང་གི་དྲ་གནས་སྦྲེལ་བ་(blog.yourname.com ལྟ་བུ་)མྱུར་དུ་ཡོང་ངེས།",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "སླེབས་སོང་།"
 }

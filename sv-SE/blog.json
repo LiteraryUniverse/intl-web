@@ -196,5 +196,6 @@
   "blog.qa.autoQuestion.universe.2": "Hur började du bygga världen i {name}?",
   "blog.qa.autoQuestion.universe.3": "Vad gör {name} unikt jämfört med andra miljöer?",
   "blog.qa.autoQuestion.universe.4": "Finns det en plats eller karaktär i {name} som fans ofta förbiser?",
-  "blog.qa.autoQuestion.universe.5": "Vad är nästa steg för berättelserna i {name}?"
+  "blog.qa.autoQuestion.universe.5": "Vad är nästa steg för berättelserna i {name}?",
+  "blog.widget.countdown.done": "Det är här!"
 }

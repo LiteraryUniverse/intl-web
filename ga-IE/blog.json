@@ -186,5 +186,6 @@
   "blog.domains.available": "Ar fáil!",
   "blog.domains.customComing": "Beidh ceangal d'fhearainn féin (mar blog.dainm.ie) ar fáil go luath.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "Tá sé anseo!"
 }

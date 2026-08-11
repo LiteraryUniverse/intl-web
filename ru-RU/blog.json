@@ -196,5 +196,6 @@
   "blog.qa.autoQuestion.universe.2": "Как вы начали строить мир {name}?",
   "blog.qa.autoQuestion.universe.3": "Чем {name} отличается от других миров?",
   "blog.qa.autoQuestion.universe.4": "Есть ли в {name} место или персонаж, которых фанаты часто упускают из виду?",
-  "blog.qa.autoQuestion.universe.5": "Что дальше ждёт истории, происходящие в {name}?"
+  "blog.qa.autoQuestion.universe.5": "Что дальше ждёт истории, происходящие в {name}?",
+  "blog.widget.countdown.done": "Уже здесь!"
 }

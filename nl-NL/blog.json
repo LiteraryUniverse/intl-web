@@ -196,5 +196,6 @@
   "blog.qa.autoQuestion.universe.2": "Hoe ben je begonnen met het opbouwen van de wereld van {name}?",
   "blog.qa.autoQuestion.universe.3": "Wat maakt {name} uniek vergeleken met andere settings?",
   "blog.qa.autoQuestion.universe.4": "Is er een locatie of personage in {name} die fans vaak over het hoofd zien?",
-  "blog.qa.autoQuestion.universe.5": "Wat is de volgende stap voor de verhalen in {name}?"
+  "blog.qa.autoQuestion.universe.5": "Wat is de volgende stap voor de verhalen in {name}?",
+  "blog.widget.countdown.done": "Het is zover!"
 }

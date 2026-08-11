@@ -186,5 +186,6 @@
   "blog.domains.available": "Available!",
   "blog.domains.customComing": "Malapit nang dumating ang pagkonekta ng sarili mong domain (tulad ng blog.iyongpangalan.com).",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "Narito na!"
 }

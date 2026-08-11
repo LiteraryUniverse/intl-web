@@ -412,5 +412,6 @@
   "plans.account.Adventurer": "Шукач пригод",
   "plans.feature.customBlogCss": "Розширене оформлення блогу (власний CSS)",
   "plans.feature.luSubdomain": "Блог на власному піддомені Literary Universe",
-  "plans.feature.customDomain": "Блог на власному домені"
+  "plans.feature.customDomain": "Блог на власному домені",
+  "plans.feature.blogWidgets": "Віджети на сторінках блогу"
 }

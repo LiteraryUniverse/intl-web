@@ -186,5 +186,6 @@
   "blog.domains.available": "Beskikbaar!",
   "blog.domains.customComing": "Die koppeling van jou eie domein (soos blog.jounaam.co.za) kom binnekort.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "Dit is hier!"
 }

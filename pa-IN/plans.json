@@ -412,5 +412,6 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ਉੱਨਤ ਬਲੌਗ ਡਿਜ਼ਾਈਨ (ਕਸਟਮ CSS)",
   "plans.feature.luSubdomain": "ਤੁਹਾਡੇ ਆਪਣੇ Literary Universe ਸਬਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
-  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ"
+  "plans.feature.customDomain": "ਤੁਹਾਡੇ ਆਪਣੇ ਡੋਮੇਨ 'ਤੇ ਬਲੌਗ",
+  "plans.feature.blogWidgets": "ਬਲੌਗ ਪੰਨਿਆਂ 'ਤੇ ਵਿਜੇਟ"
 }

@@ -412,5 +412,6 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "Gelişmiş blog tasarımı (özel CSS)",
   "plans.feature.luSubdomain": "Kendi Literary Universe alt alan adınızda blog",
-  "plans.feature.customDomain": "Kendi alan adınızda blog"
+  "plans.feature.customDomain": "Kendi alan adınızda blog",
+  "plans.feature.blogWidgets": "Blog sayfalarında widget'lar"
 }

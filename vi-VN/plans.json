@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Câu lạc bộ người hâm mộ là một phần của tổ chức",
   "fanClub.partner.none": "Không — toàn bộ doanh thu thuộc về bạn",
   "fanClub.partner.help": "Nếu hợp đồng của bạn với một tổ chức bao gồm câu lạc bộ người hâm mộ của bạn, hãy chọn tổ chức đó tại đây — tỷ lệ hiện tại của tổ chức được cố định tại thời điểm chọn.",
-  "fanClub.partner.breakdown": "Tổ chức nhận {org}% doanh thu của câu lạc bộ người hâm mộ này (cố định khi chọn), cộng thêm phí nền tảng. Cũng áp dụng cho những người đăng ký hiện tại."
+  "fanClub.partner.breakdown": "Tổ chức nhận {org}% doanh thu của câu lạc bộ người hâm mộ này (cố định khi chọn), cộng thêm phí nền tảng. Cũng áp dụng cho những người đăng ký hiện tại.",
+  "plans.feature.blogWidgets": "Tiện ích trên trang blog"
 }

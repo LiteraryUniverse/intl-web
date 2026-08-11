@@ -186,5 +186,6 @@
   "blog.domains.available": "Tersedia!",
   "blog.domains.customComing": "Penyambungan domain sendiri (seperti blog.namaanda.com) akan datang tidak lama lagi.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "Sudah tiba!"
 }

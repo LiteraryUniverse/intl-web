@@ -186,5 +186,6 @@
   "blog.domains.available": "Pasiekiamas!",
   "blog.domains.customComing": "Savo domeno prijungimas (pvz., blog.jusuvardas.lt) netrukus.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "Jau čia!"
 }

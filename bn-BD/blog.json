@@ -186,5 +186,6 @@
   "blog.domains.available": "পাওয়া যাচ্ছে!",
   "blog.domains.customComing": "নিজের ডোমেইন যুক্ত করা (যেমন blog.apnarnaam.com) শীঘ্রই আসছে।",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "এসে গেছে!"
 }

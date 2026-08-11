@@ -186,5 +186,6 @@
   "blog.domains.available": "ઉપલબ્ધ છે!",
   "blog.domains.customComing": "તમારું પોતાનું ડોમેન જોડવું (જેમ કે blog.tamarunaam.com) જલદી આવી રહ્યું છે.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "આવી ગયું!"
 }

@@ -186,5 +186,6 @@
   "blog.domains.available": "ലഭ്യമാണ്!",
   "blog.domains.customComing": "സ്വന്തം ഡൊമെയ്ൻ ബന്ധിപ്പിക്കൽ (ഉദാ. blog.yourname.com) ഉടൻ വരുന്നു.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "എത്തി!"
 }

@@ -186,5 +186,6 @@
   "blog.domains.available": "उपलब्ध छ!",
   "blog.domains.customComing": "आफ्नै डोमेन जोड्ने सुविधा (जस्तै blog.tapaiknaam.com) चाँडै आउँदैछ।",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.widget.countdown.done": "आइपुग्यो!"
 }

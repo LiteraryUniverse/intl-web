@@ -412,5 +412,6 @@
   "fanClub.partner.label": "粉絲俱樂部隸屬於組織",
   "fanClub.partner.none": "無 — 所有收入歸您所有",
   "fanClub.partner.help": "如果您與組織的合約包含您的粉絲俱樂部，請在此選擇 — 組織的目前比例會在選擇當下固定。",
-  "fanClub.partner.breakdown": "除平台費用外，組織會獲得此粉絲俱樂部收入的 {org}%（於選擇時固定）。也適用於目前的訂閱者。"
+  "fanClub.partner.breakdown": "除平台費用外，組織會獲得此粉絲俱樂部收入的 {org}%（於選擇時固定）。也適用於目前的訂閱者。",
+  "plans.feature.blogWidgets": "部落格頁面小工具"
 }
