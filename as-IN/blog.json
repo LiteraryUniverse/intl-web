@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "{name}-ত এনে কোনো স্থান বা চৰিত্ৰ আছে নেকি যিটো ভক্তসকলে সঘনাই এৰাই চায়?",
   "blog.qa.autoQuestion.universe.5": "{name}-ত স্থাপিত কাহিনীবোৰৰ বাবে পৰৱৰ্তী কি?",
   "blog.widget.countdown.done": "আহি পালে!",
-  "blog.post.cover": "কভাৰ ছবি"
+  "blog.post.cover": "কভাৰ ছবি",
+  "blog.menus.addChild": "ড্ৰপডাউন প্ৰবিষ্টি যোগ কৰক"
 }

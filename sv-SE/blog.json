@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Finns det en plats eller karaktär i {name} som fans ofta förbiser?",
   "blog.qa.autoQuestion.universe.5": "Vad är nästa steg för berättelserna i {name}?",
   "blog.widget.countdown.done": "Det är här!",
-  "blog.post.cover": "Omslagsbild"
+  "blog.post.cover": "Omslagsbild",
+  "blog.menus.addChild": "Lägg till rullgardinspost"
 }

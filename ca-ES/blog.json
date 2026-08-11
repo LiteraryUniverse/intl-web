@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Hi ha algun lloc o personatge a {name} que els fans solen passar per alt?",
   "blog.qa.autoQuestion.universe.5": "Què ve a continuació per a les històries ambientades a {name}?",
   "blog.widget.countdown.done": "Ja és aquí!",
-  "blog.post.cover": "Imatge de portada"
+  "blog.post.cover": "Imatge de portada",
+  "blog.menus.addChild": "Afegeix una entrada desplegable"
 }

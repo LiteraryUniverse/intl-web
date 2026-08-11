@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Há algum local ou personagem em {name} que os fãs costumam ignorar?",
   "blog.qa.autoQuestion.universe.5": "O que se segue para as histórias ambientadas em {name}?",
   "blog.widget.countdown.done": "Chegou!",
-  "blog.post.cover": "Imagem de capa"
+  "blog.post.cover": "Imagem de capa",
+  "blog.menus.addChild": "Adicionar entrada pendente"
 }

@@ -319,6 +319,7 @@
   "blog.qa.autoQuestion.universe.5": "Que réserve l’avenir aux histoires se déroulant dans {name} ?",
   "blog.widget.countdown.done": "Ça y est !",
   "blog.post.cover": "Image de couverture",
+  "blog.menus.addChild": "Ajouter une entrée de menu déroulant",
   "challenges.current": "Défis actuels",
   "challenges.wordcount.goal": "Nombre de mots cible",
   "challenges.wordcount.dailygoal": "Nombre de mots quotidien souhaité",

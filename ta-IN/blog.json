@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "{name}-ல் ரசிகர்கள் அடிக்கடி கவனிக்காமல் விடும் இடம் அல்லது கதாபாத்திரம் ஏதேனும் உள்ளதா?",
   "blog.qa.autoQuestion.universe.5": "{name}-ல் நடக்கும் கதைகளுக்கு அடுத்து என்ன?",
   "blog.widget.countdown.done": "வந்துவிட்டது!",
-  "blog.post.cover": "அட்டைப் படம்"
+  "blog.post.cover": "அட்டைப் படம்",
+  "blog.menus.addChild": "கீழ்த்தோன்றல் உள்ளீட்டைச் சேர்"
 }

@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "{name}-ൽ ആരാധകർ പലപ്പോഴും അവഗണിക്കുന്ന ഒരു സ്ഥലമോ കഥാപാത്രമോ ഉണ്ടോ?",
   "blog.qa.autoQuestion.universe.5": "{name}-ൽ നടക്കുന്ന കഥകൾക്ക് അടുത്തത് എന്താണ്?",
   "blog.widget.countdown.done": "എത്തി!",
-  "blog.post.cover": "കവർ ചിത്രം"
+  "blog.post.cover": "കവർ ചിത്രം",
+  "blog.menus.addChild": "ഡ്രോപ്പ്ഡൗൺ എൻട്രി ചേർക്കുക"
 }

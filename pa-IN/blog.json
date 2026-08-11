@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "{name} ਵਿੱਚ ਕੋਈ ਅਜਿਹਾ ਸਥਾਨ ਜਾਂ ਪਾਤਰ ਹੈ ਜਿਸ ਨੂੰ ਪ੍ਰਸ਼ੰਸਕ ਅਕਸਰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰਦੇ ਹਨ?",
   "blog.qa.autoQuestion.universe.5": "{name} ਵਿੱਚ ਸੈੱਟ ਕਹਾਣੀਆਂ ਲਈ ਅੱਗੇ ਕੀ ਹੈ?",
   "blog.widget.countdown.done": "ਆ ਗਿਆ!",
-  "blog.post.cover": "ਕਵਰ ਤਸਵੀਰ"
+  "blog.post.cover": "ਕਵਰ ਤਸਵੀਰ",
+  "blog.menus.addChild": "ਡਰਾਪਡਾਊਨ ਐਂਟਰੀ ਸ਼ਾਮਲ ਕਰੋ"
 }

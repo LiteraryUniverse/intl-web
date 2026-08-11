@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "C’è un luogo o un personaggio in {name} che i fan spesso trascurano?",
   "blog.qa.autoQuestion.universe.5": "Cosa c’è in serbo per le storie ambientate in {name}?",
   "blog.widget.countdown.done": "È arrivato!",
-  "blog.post.cover": "Immagine di copertina"
+  "blog.post.cover": "Immagine di copertina",
+  "blog.menus.addChild": "Aggiungi voce a discesa"
 }

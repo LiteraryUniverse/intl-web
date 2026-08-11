@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "{name}-এ এমন কোনো স্থান বা চরিত্র আছে যা ভক্তরা প্রায়শই উপেক্ষা করেন?",
   "blog.qa.autoQuestion.universe.5": "{name}-এ স্থাপিত গল্পগুলোর জন্য পরবর্তী কী?",
   "blog.widget.countdown.done": "এসে গেছে!",
-  "blog.post.cover": "কভার ছবি"
+  "blog.post.cover": "কভার ছবি",
+  "blog.menus.addChild": "ড্রপডাউন এন্ট্রি যোগ করুন"
 }

@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Czy w {name} jest miejsce lub postać, które fani często pomijają?",
   "blog.qa.autoQuestion.universe.5": "Co dalej z historiami osadzonych w {name}?",
   "blog.widget.countdown.done": "Już jest!",
-  "blog.post.cover": "Obraz tytułowy"
+  "blog.post.cover": "Obraz tytułowy",
+  "blog.menus.addChild": "Dodaj pozycję menu rozwijanego"
 }

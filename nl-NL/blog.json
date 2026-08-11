@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Is er een locatie of personage in {name} die fans vaak over het hoofd zien?",
   "blog.qa.autoQuestion.universe.5": "Wat is de volgende stap voor de verhalen in {name}?",
   "blog.widget.countdown.done": "Het is zover!",
-  "blog.post.cover": "Omslagafbeelding"
+  "blog.post.cover": "Omslagafbeelding",
+  "blog.menus.addChild": "Dropdown-item toevoegen"
 }

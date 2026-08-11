@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Van olyan helyszín vagy karakter {name} világában, amit a rajongók gyakran figyelmen kívül hagynak?",
   "blog.qa.autoQuestion.universe.5": "Mi következik a {name} világában játszódó történeteknél?",
   "blog.widget.countdown.done": "Megérkezett!",
-  "blog.post.cover": "Borítókép"
+  "blog.post.cover": "Borítókép",
+  "blog.menus.addChild": "Legördülő elem hozzáadása"
 }

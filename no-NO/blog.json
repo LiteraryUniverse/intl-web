@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Finnes det et sted eller en karakter i {name} som fans ofte overser?",
   "blog.qa.autoQuestion.universe.5": "Hva er det neste for historiene i {name}?",
   "blog.widget.countdown.done": "Det er her!",
-  "blog.post.cover": "Forsidebilde"
+  "blog.post.cover": "Forsidebilde",
+  "blog.menus.addChild": "Legg til nedtrekksoppføring"
 }

@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Kas {name}-s on koht või tegelane, millest fännid sageli mööda vaatavad?",
   "blog.qa.autoQuestion.universe.5": "Mis on järgmine samm lugudele, mis toimuvad maailmas {name}?",
   "blog.widget.countdown.done": "See on kohal!",
-  "blog.post.cover": "Kaanepilt"
+  "blog.post.cover": "Kaanepilt",
+  "blog.menus.addChild": "Lisa rippmenüü kirje"
 }

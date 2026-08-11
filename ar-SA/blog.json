@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "هل هناك موقع أو شخصية في {name} يغفل عنها المعجبون غالباً؟",
   "blog.qa.autoQuestion.universe.5": "ما الخطوة التالية للقصص التي تدور أحداثها في {name}؟",
   "blog.widget.countdown.done": "لقد وصل!",
-  "blog.post.cover": "صورة الغلاف"
+  "blog.post.cover": "صورة الغلاف",
+  "blog.menus.addChild": "إضافة عنصر منسدل"
 }

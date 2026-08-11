@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "{name} ನಲ್ಲಿ ಅಭಿಮಾನಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಕಡೆಗಣಿಸುವ ಸ್ಥಳ ಅಥವಾ ಪಾತ್ರವಿದೆಯೇ?",
   "blog.qa.autoQuestion.universe.5": "{name} ನಲ್ಲಿ ನಡೆಯುವ ಕಥೆಗಳಿಗೆ ಮುಂದೆ ಏನಿದೆ?",
   "blog.widget.countdown.done": "ಬಂದಿದೆ!",
-  "blog.post.cover": "ಕವರ್ ಚಿತ್ರ"
+  "blog.post.cover": "ಕವರ್ ಚಿತ್ರ",
+  "blog.menus.addChild": "ಡ್ರಾಪ್‌ಡೌನ್ ನಮೂದು ಸೇರಿಸಿ"
 }

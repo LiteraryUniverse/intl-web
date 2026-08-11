@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "Чи є в {name} місце або персонаж, яких фанати часто не помічають?",
   "blog.qa.autoQuestion.universe.5": "Що далі чекає на історії, події яких відбуваються в {name}?",
   "blog.widget.countdown.done": "Уже тут!",
-  "blog.post.cover": "Обкладинка"
+  "blog.post.cover": "Обкладинка",
+  "blog.menus.addChild": "Додати пункт випадного меню"
 }

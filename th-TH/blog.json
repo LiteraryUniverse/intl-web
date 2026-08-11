@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "มีสถานที่หรือตัวละครใน {name} ที่แฟนๆ มักมองข้ามหรือไม่?",
   "blog.qa.autoQuestion.universe.5": "เรื่องราวใน {name} จะไปต่ออย่างไรต่อไป?",
   "blog.widget.countdown.done": "มาแล้ว!",
-  "blog.post.cover": "ภาพปก"
+  "blog.post.cover": "ภาพปก",
+  "blog.menus.addChild": "เพิ่มรายการเมนูแบบเลื่อนลง"
 }

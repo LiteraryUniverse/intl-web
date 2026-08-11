@@ -198,5 +198,6 @@
   "blog.qa.autoQuestion.universe.4": "{name} ནང་དུ་རྒྱབ་སྐྱོར་བ་ཚོས་རྒྱུན་དུ་བརྗེད་པའི་ས་གནས་ཤིག་གམ་མི་སྣ་ཞིག་ཡོད་དམ།",
   "blog.qa.autoQuestion.universe.5": "{name} ནང་བཞག་པའི་གཏམ་རྒྱུད་ཀྱི་ཆེད་དུ་རྗེས་མ་གང་ཡིན།",
   "blog.widget.countdown.done": "སླེབས་སོང་།",
-  "blog.post.cover": "འགེབས་པར།"
+  "blog.post.cover": "འགེབས་པར།",
+  "blog.menus.addChild": "མར་འདེམས་ཐོའི་ནང་དོན་སྣོན།"
 }
