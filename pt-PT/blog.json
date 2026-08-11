@@ -196,5 +196,6 @@
   "blog.qa.autoQuestion.universe.2": "Como começou a construir o mundo de {name}?",
   "blog.qa.autoQuestion.universe.3": "O que torna {name} único em comparação com outros cenários?",
   "blog.qa.autoQuestion.universe.4": "Há algum local ou personagem em {name} que os fãs costumam ignorar?",
-  "blog.qa.autoQuestion.universe.5": "O que se segue para as histórias ambientadas em {name}?"
+  "blog.qa.autoQuestion.universe.5": "O que se segue para as histórias ambientadas em {name}?",
+  "blog.widget.countdown.done": "Chegou!"
 }

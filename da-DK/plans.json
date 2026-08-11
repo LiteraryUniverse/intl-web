@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Fanklubben er en del af en organisation",
   "fanClub.partner.none": "Ingen — alle indtægter bliver hos dig",
   "fanClub.partner.help": "Hvis din kontrakt med en organisation omfatter din fanklub, skal du vælge den her — organisationens aktuelle sats fastlåses i det øjeblik, du vælger den.",
-  "fanClub.partner.breakdown": "Organisationen modtager {org}% af denne fanklubs indtægter (fastlåst ved valget) oven i platformgebyret. Gælder også for nuværende abonnenter."
+  "fanClub.partner.breakdown": "Organisationen modtager {org}% af denne fanklubs indtægter (fastlåst ved valget) oven i platformgebyret. Gælder også for nuværende abonnenter.",
+  "plans.feature.blogWidgets": "Widgets på blogsider"
 }

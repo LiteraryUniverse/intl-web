@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Fanų klubas yra organizacijos dalis",
   "fanClub.partner.none": "Nėra — visos pajamos lieka jums",
   "fanClub.partner.help": "Jei jūsų sutartis su organizacija apima jūsų fanų klubą, pasirinkite ją čia — dabartinis organizacijos tarifas užfiksuojamas pasirinkimo momentu.",
-  "fanClub.partner.breakdown": "Organizacija gauna {org}% šio fanų klubo pajamų (užfiksuota pasirenkant), papildomai prie platformos mokesčio. Taikoma ir dabartiniams prenumeratoriams."
+  "fanClub.partner.breakdown": "Organizacija gauna {org}% šio fanų klubo pajamų (užfiksuota pasirenkant), papildomai prie platformos mokesčio. Taikoma ir dabartiniams prenumeratoriams.",
+  "plans.feature.blogWidgets": "Valdikliai tinklaraščio puslapiuose"
 }

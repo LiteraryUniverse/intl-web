@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Fanikerho on osa organisaatiota",
   "fanClub.partner.none": "Ei mitään — kaikki tulot jäävät sinulle",
   "fanClub.partner.help": "Jos sopimuksesi organisaation kanssa kattaa fanikerhosi, valitse se tässä — organisaation nykyinen prosentti kiinnitetään valintahetkellä.",
-  "fanClub.partner.breakdown": "Organisaatio saa {org}% tämän fanikerhon tuloista (kiinnitetty valittaessa) alustamaksun lisäksi. Koskee myös nykyisiä tilaajia."
+  "fanClub.partner.breakdown": "Organisaatio saa {org}% tämän fanikerhon tuloista (kiinnitetty valittaessa) alustamaksun lisäksi. Koskee myös nykyisiä tilaajia.",
+  "plans.feature.blogWidgets": "Vimpaimet blogisivuilla"
 }

@@ -196,5 +196,6 @@
   "blog.qa.autoQuestion.universe.2": "{name} 세계를 어떻게 구축하기 시작하셨나요?",
   "blog.qa.autoQuestion.universe.3": "다른 설정과 비교했을 때 {name}을(를) 특별하게 만드는 점은 무엇인가요?",
   "blog.qa.autoQuestion.universe.4": "{name}에서 팬들이 자주 놓치는 장소나 캐릭터가 있나요?",
-  "blog.qa.autoQuestion.universe.5": "{name}을(를) 배경으로 한 이야기의 다음 단계는 무엇인가요?"
+  "blog.qa.autoQuestion.universe.5": "{name}을(를) 배경으로 한 이야기의 다음 단계는 무엇인가요?",
+  "blog.widget.countdown.done": "공개되었습니다!"
 }

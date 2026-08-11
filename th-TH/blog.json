@@ -196,5 +196,6 @@
   "blog.qa.autoQuestion.universe.2": "คุณเริ่มสร้างโลกของ {name} ได้อย่างไร?",
   "blog.qa.autoQuestion.universe.3": "อะไรทำให้ {name} โดดเด่นเมื่อเทียบกับฉากอื่นๆ?",
   "blog.qa.autoQuestion.universe.4": "มีสถานที่หรือตัวละครใน {name} ที่แฟนๆ มักมองข้ามหรือไม่?",
-  "blog.qa.autoQuestion.universe.5": "เรื่องราวใน {name} จะไปต่ออย่างไรต่อไป?"
+  "blog.qa.autoQuestion.universe.5": "เรื่องราวใน {name} จะไปต่ออย่างไรต่อไป?",
+  "blog.widget.countdown.done": "มาแล้ว!"
 }

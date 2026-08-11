@@ -412,5 +412,6 @@
   "plans.account.Adventurer": "Adventurer",
   "plans.feature.customBlogCss": "ଉନ୍ନତ ବ୍ଲଗ୍ ଡିଜାଇନ୍ (କଷ୍ଟମ୍ CSS)",
   "plans.feature.luSubdomain": "ଆପଣଙ୍କ ନିଜ Literary Universe ସବ୍‌ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
-  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍"
+  "plans.feature.customDomain": "ଆପଣଙ୍କ ନିଜ ଡୋମେନ୍‌ରେ ବ୍ଲଗ୍",
+  "plans.feature.blogWidgets": "ବ୍ଲଗ୍ ପୃଷ୍ଠାରେ ୱିଜେଟ୍"
 }

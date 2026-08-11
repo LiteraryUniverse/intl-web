@@ -412,5 +412,6 @@
   "fanClub.partner.label": "A rajongói klub a szervezet része",
   "fanClub.partner.none": "Nincs — minden bevétel nálad marad",
   "fanClub.partner.help": "Ha a szervezettel kötött szerződésed kiterjed a rajongói klubodra, válaszd ki itt — a szervezet aktuális mértéke a kiválasztás pillanatában rögzül.",
-  "fanClub.partner.breakdown": "A szervezet a rajongói klub bevételének {org}%-át kapja (a kiválasztáskor rögzítve), a platformdíjon felül. A jelenlegi feliratkozókra is vonatkozik."
+  "fanClub.partner.breakdown": "A szervezet a rajongói klub bevételének {org}%-át kapja (a kiválasztáskor rögzítve), a platformdíjon felül. A jelenlegi feliratkozókra is vonatkozik.",
+  "plans.feature.blogWidgets": "Widgetek a blogoldalakon"
 }

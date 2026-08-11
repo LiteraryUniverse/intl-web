@@ -412,5 +412,6 @@
   "plans.account.Adventurer": "Dobrodruh",
   "plans.feature.customBlogCss": "Pokročilý vzhľad blogu (vlastné CSS)",
   "plans.feature.luSubdomain": "Blog na vlastnej subdoméne Literary Universe",
-  "plans.feature.customDomain": "Blog na vlastnej doméne"
+  "plans.feature.customDomain": "Blog na vlastnej doméne",
+  "plans.feature.blogWidgets": "Widgety na stránkach blogu"
 }

@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Tá an club lucht tacaíochta mar chuid den eagraíocht",
   "fanClub.partner.none": "Faic — fanann an t-ioncam ar fad agatsa",
   "fanClub.partner.help": "Má tá do chlub lucht tacaíochta san áireamh i do chonradh le heagraíocht, roghnaigh anseo í — socraítear ráta reatha na heagraíochta ag nóiméad an roghnaithe.",
-  "fanClub.partner.breakdown": "Faigheann an eagraíocht {org}% d'ioncam an chlub lucht tacaíochta seo (socraithe nuair a roghnaítear é), sa bhreis ar tháille an ardáin. Baineann sé le síntiúsóirí reatha freisin."
+  "fanClub.partner.breakdown": "Faigheann an eagraíocht {org}% d'ioncam an chlub lucht tacaíochta seo (socraithe nuair a roghnaítear é), sa bhreis ar tháille an ardáin. Baineann sé le síntiúsóirí reatha freisin.",
+  "plans.feature.blogWidgets": "Giuirléidí ar leathanaigh bhlag"
 }

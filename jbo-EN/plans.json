@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Fan club is part of organization",
   "fanClub.partner.none": "None — all revenue stays with you",
   "fanClub.partner.help": "If your contract with an organization includes your fan club, select it here — the organization's current rate is fixed at the moment of selection.",
-  "fanClub.partner.breakdown": "The organization receives {org}% of this fan club's revenue (fixed when selected), on top of the platform fee. Applies to current subscribers too."
+  "fanClub.partner.breakdown": "The organization receives {org}% of this fan club's revenue (fixed when selected), on top of the platform fee. Applies to current subscribers too.",
+  "plans.feature.blogWidgets": "uidje pe lo blogu papri"
 }

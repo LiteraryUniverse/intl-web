@@ -412,5 +412,6 @@
   "plans.account.Adventurer": "Avventuriero",
   "plans.feature.customBlogCss": "Design avanzato del blog (CSS personalizzato)",
   "plans.feature.luSubdomain": "Blog su un sottodominio Literary Universe",
-  "plans.feature.customDomain": "Blog su un dominio proprio"
+  "plans.feature.customDomain": "Blog su un dominio proprio",
+  "plans.feature.blogWidgets": "Widget sulle pagine del blog"
 }

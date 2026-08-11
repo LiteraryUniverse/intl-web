@@ -412,5 +412,6 @@
   "plans.account.Adventurer": "مغامر",
   "plans.feature.customBlogCss": "تصميم متقدم للمدونة (CSS مخصص)",
   "plans.feature.luSubdomain": "مدونة على نطاق فرعي خاص بك في Literary Universe",
-  "plans.feature.customDomain": "مدونة على نطاقك الخاص"
+  "plans.feature.customDomain": "مدونة على نطاقك الخاص",
+  "plans.feature.blogWidgets": "عناصر واجهة في صفحات المدونة"
 }

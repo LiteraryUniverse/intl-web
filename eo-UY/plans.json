@@ -412,5 +412,6 @@
   "fanClub.partner.label": "Fanklubo estas parto de organizo",
   "fanClub.partner.none": "Neniu — ĉiuj enspezoj restas ĉe vi",
   "fanClub.partner.help": "Se via kontrakto kun organizo inkluzivas vian fanklubon, elektu ĝin ĉi tie — la aktuala procento de la organizo estas fiksita je la momento de elekto.",
-  "fanClub.partner.breakdown": "La organizo ricevas {org}% de la enspezoj de ĉi tiu fanklubo (fiksita ĉe elekto), aldone al la platforma kotizo. Validas ankaŭ por nunaj abonantoj."
+  "fanClub.partner.breakdown": "La organizo ricevas {org}% de la enspezoj de ĉi tiu fanklubo (fiksita ĉe elekto), aldone al la platforma kotizo. Validas ankaŭ por nunaj abonantoj.",
+  "plans.feature.blogWidgets": "Fenestraĵoj sur blogaj paĝoj"
 }
