@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {沒有符合您條件的故事}\n        one {找到1個故事}\n        other {找到#個故事}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, other {找到 # 本有聲書}}。",
   "discover.search.resultsTotal.comic": "{results, plural, other {找到 # 部作品}}。",
+  "discovery.connectedWorks": "相關作品：",
   "discover.viewSelection.aria": "檢視選擇",
   "discover.searchDisplay.covers": "封面列表",
   "discover.searchDisplay.list": "簡潔列表",

@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {आपके मापदण्डों के साथ कोई कथा नहीं मिल रही है}\n        one {1 कथा मिली}\n        other {# कथा मिली}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {अहाँक मापदंड सँ कोनो ऑडियोबुक नहि मिलल} one {1 ऑडियोबुक भेटल} other {# ऑडियोबुक भेटल}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {अहाँक मापदंड सँ कोनो मांगा वा कॉमिक नहि मिलल} one {1 शीर्षक भेटल} other {# शीर्षक भेटल}}.",
+  "discovery.connectedWorks": "जुड़ल रचना सभ:",
   "discover.viewSelection.aria": "चयन हेर्नुहोस्",
   "discover.searchDisplay.covers": "कवरहरूको सूची",
   "discover.searchDisplay.list": "संक्षेप तालिका",

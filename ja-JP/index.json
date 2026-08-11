@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {あなたのパラメータに一致する物語はありません}\n        other {# 物語が見つかりました}\n    }。",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {条件に一致するオーディオブックはありません} other {#件のオーディオブックが見つかりました}}。",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {条件に一致するマンガ・コミックはありません} other {#件の作品が見つかりました}}。",
+  "discovery.connectedWorks": "関連作品：",
   "discover.viewSelection.aria": "セレクションを見る",
   "discover.searchDisplay.covers": "カバー一覧",
   "discover.searchDisplay.list": "コンパクトリスト",

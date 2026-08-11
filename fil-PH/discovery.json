@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Walang mga kuwentong tugma sa iyong mga parameter}\n        one {Nakita ang 1 kwento}\n        other {Nakita ang # mga kwento}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Walang audiobook na tumutugma sa iyong mga parametro} one {1 audiobook ang natagpuan} other {# audiobook ang natagpuan}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Walang manga o komiks na tumutugma sa iyong mga parametro} one {1 titulo ang natagpuan} other {# titulo ang natagpuan}}.",
+  "discovery.connectedWorks": "Mga konektadong akda:",
   "discover.viewSelection.aria": "Tingnan ang pagpipilian",
   "discover.searchDisplay.covers": "Listahan ng mga pabalat",
   "discover.searchDisplay.list": "Tinipid na listahan",

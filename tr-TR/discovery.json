@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Parametrelerinizle eşleşen hikaye bulunamadı}\n        one {1 hikaye bulundu}\n        other {# hikaye bulundu}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Parametrelerinizle eşleşen sesli kitap yok} one {1 sesli kitap bulundu} other {# sesli kitap bulundu}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Parametrelerinizle eşleşen manga veya çizgi roman yok} one {1 eser bulundu} other {# eser bulundu}}.",
+  "discovery.connectedWorks": "Bağlantılı eserler:",
   "discover.viewSelection.aria": "Görüntü seçimi",
   "discover.searchDisplay.covers": "Kapaklar listesi",
   "discover.searchDisplay.list": "Kompakt liste",

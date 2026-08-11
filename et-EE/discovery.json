@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ühtegi lugu ei vasta teie parameetritele}\n        one {1 lugu leitud}\n        other {# lugusid leitud}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ükski audioraamat ei vasta sinu parameetritele} one {Leitud 1 audioraamat} other {Leitud # audioraamatut}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Ükski manga ega koomiks ei vasta sinu parameetritele} one {Leitud 1 teos} other {Leitud # teost}}.",
+  "discovery.connectedWorks": "Seotud teosed:",
   "discover.viewSelection.aria": "Vaate valik",
   "discover.searchDisplay.covers": "Kaatrite loetelu",
   "discover.searchDisplay.list": "Kompaktne loend",

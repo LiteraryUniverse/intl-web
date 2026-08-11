@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {તમારા પેરામેટર્સથી કોઈ વાર્તા મેળવી શકાય નથી}\n        one {1 વાર્તા મળી}\n        other {# વાર્તાઓ મળીઓ}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {તમારા પરિમાણો સાથે કોઈ ઑડિયોબુક મળી નથી} one {1 ઑડિયોબુક મળી} other {# ઑડિયોબુક મળી}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {તમારા પરિમાણો સાથે કોઈ માંગા કે કૉમિક મળી નથી} one {1 શીર્ષક મળ્યું} other {# શીર્ષક મળ્યાં}}.",
+  "discovery.connectedWorks": "જોડાયેલી કૃતિઓ:",
   "discover.viewSelection.aria": "વિઝ્યુ પસંદગી",
   "discover.searchDisplay.covers": "કવર્સ યાદી",
   "discover.searchDisplay.list": "સંકુચિત યાદી",

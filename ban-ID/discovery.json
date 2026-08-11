@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {No stories match your parameters}\n        one {1 story found}\n        other {# stories found}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Nenten wenten buku audio sane manut} one {1 buku audio kapanggih} other {# buku audio kapanggih}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Nenten wenten manga utawi komik sane manut} one {1 judul kapanggih} other {# judul kapanggih}}.",
+  "discovery.connectedWorks": "Karya sane mapaiketan:",
   "discover.viewSelection.aria": "View selection",
   "discover.searchDisplay.covers": "Covers listing",
   "discover.searchDisplay.list": "Compact list",

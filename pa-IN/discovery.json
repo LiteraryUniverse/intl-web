@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {ਤੁਸੀਂ ਆਪਣੇ ਪੈਰਾਮੀਟਰਾਂ ਦੀ ਜ਼ਮੀਨ ਨਹੀਂ ਹਨ੍ਹੇ ਪਸਨਦਾ ਖਾਨਾਂ ਨਾਲ ਮੇਲਨ ਵਾਲੇ ਕੋਈ ਕਹਾਣੀ ਨਹੀਂ ਮਿਲੀ}\n        one {1 ਕਹਾਣੀ ਮਿਲੀ}\n        other {# ਕਹਾਣੀਆਂ ਮਿਲੀਆਂ}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {ਤੁਹਾਡੇ ਮਾਪਦੰਡਾਂ ਨਾਲ ਕੋਈ ਆਡੀਓਬੁੱਕ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ} one {1 ਆਡੀਓਬੁੱਕ ਮਿਲੀ} other {# ਆਡੀਓਬੁੱਕਾਂ ਮਿਲੀਆਂ}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {ਤੁਹਾਡੇ ਮਾਪਦੰਡਾਂ ਨਾਲ ਕੋਈ ਮਾਂਗਾ ਜਾਂ ਕਾਮਿਕ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ} one {1 ਸਿਰਲੇਖ ਮਿਲਿਆ} other {# ਸਿਰਲੇਖ ਮਿਲੇ}}.",
+  "discovery.connectedWorks": "ਜੁੜੀਆਂ ਰਚਨਾਵਾਂ:",
   "discover.viewSelection.aria": "ਵਿਚੋਂ ਚੁਣਨਾ",
   "discover.searchDisplay.covers": "ਕਵਰਜ਼ ਲਿਸਟ",
   "discover.searchDisplay.list": "ਸੰਕੇਤ ਸੂਚੀ",

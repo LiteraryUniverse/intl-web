@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Không có câu chuyện nào khớp với các thông số của bạn}\n        one {Tìm thấy 1 câu chuyện}\n        other {Tìm thấy # câu chuyện}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, other {Tìm thấy # sách nói}}.",
   "discover.search.resultsTotal.comic": "{results, plural, other {Tìm thấy # tựa truyện}}.",
+  "discovery.connectedWorks": "Tác phẩm liên kết:",
   "discover.viewSelection.aria": "Lựa chọn xem",
   "discover.searchDisplay.covers": "Danh sách bìa",
   "discover.searchDisplay.list": "Danh sách nhỏ gọn",

@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {אין סיפורים המתאימים לפרמטרים שלך}\n        one {נמצא סיפור אחד}\n        other {נמצאו # סיפורים}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {אין ספרי שמע התואמים לפרמטרים שלך} one {נמצא ספר שמע אחד} other {נמצאו # ספרי שמע}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {אין מנגה או קומיקס התואמים לפרמטרים שלך} one {נמצא כותר אחד} other {נמצאו # כותרים}}.",
+  "discovery.connectedWorks": "יצירות מקושרות:",
   "discover.viewSelection.aria": "בחירת תצוגה",
   "discover.searchDisplay.covers": "עטיפות רשימה",
   "discover.searchDisplay.list": "רשימה קומפקטית",

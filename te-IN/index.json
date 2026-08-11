@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {మీ పరామీతాలకు కథలు ఎక్కడించవడం లేదు}\n        one {1 కథ కనుగొనబడింది}\n        other {# కథలు కనుగొనబడింది}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {మీ ప్రమాణాలకు సరిపోలే ఆడియోబుక్ ఏదీ లేదు} one {1 ఆడియోబుక్ దొరికింది} other {# ఆడియోబుక్‌లు దొరికాయి}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {మీ ప్రమాణాలకు సరిపోలే మాంగా లేదా కామిక్ ఏదీ లేదు} one {1 శీర్షిక దొరికింది} other {# శీర్షికలు దొరికాయి}}.",
+  "discovery.connectedWorks": "అనుసంధానించిన రచనలు:",
   "discover.viewSelection.aria": "చూడడానికి ఎంపిక",
   "discover.searchDisplay.covers": "కవర్ల జాబితా",
   "discover.searchDisplay.list": "సంక్షేప జాబితా",

@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ne ekzistas rakontoj kongruantaj viajn parametron}\n        one {1 rakonto trovita}\n        other {# rakontoj trovitaj}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Neniuj aŭdlibroj kongruas kun viaj parametroj} one {1 aŭdlibro trovita} other {# aŭdlibroj trovitaj}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Neniuj mangaoj aŭ bildstrioj kongruas kun viaj parametroj} one {1 titolo trovita} other {# titoloj trovitaj}}.",
+  "discovery.connectedWorks": "Ligitaj verkoj:",
   "discover.viewSelection.aria": "Elektita vidado",
   "discover.searchDisplay.covers": "Kovrilistigo",
   "discover.searchDisplay.list": "Kompakta listo",

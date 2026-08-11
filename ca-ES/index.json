@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Cap història fa coincidir amb els teus paràmetres}\n        one {1 història trobada}\n        other {# històries trobades}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Cap audiollibre coincideix amb els teus paràmetres} one {S'ha trobat 1 audiollibre} other {S'han trobat # audiollibres}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Cap manga o còmic coincideix amb els teus paràmetres} one {S'ha trobat 1 títol} other {S'han trobat # títols}}.",
+  "discovery.connectedWorks": "Obres relacionades:",
   "discover.viewSelection.aria": "Selecció de visualització",
   "discover.searchDisplay.covers": "Llistat de cobertes",
   "discover.searchDisplay.list": "Llista compacte",

@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {আপনার প্যারামিটারগুলির সাথে কোনও গল্পগুলি মেলে না}\n        one {1 টি গল্প পাওয়া গেছে}\n        other {# টি গল্প পাওয়া গেছে}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {আপোনাৰ মাপকাঠীৰ সৈতে কোনো অডিঅ' বুক মিলা নাই} one {১টা অডিঅ' বুক পোৱা গৈছে} other {#টা অডিঅ' বুক পোৱা গৈছে}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {আপোনাৰ মাপকাঠীৰ সৈতে কোনো মাংগা বা কমিক মিলা নাই} one {১টা শিৰোনাম পোৱা গৈছে} other {#টা শিৰোনাম পোৱা গৈছে}}.",
+  "discovery.connectedWorks": "সংযুক্ত ৰচনাসমূহ:",
   "discover.viewSelection.aria": "ভিউ নির্বাচন",
   "discover.searchDisplay.covers": "কাভার তালিকা",
   "discover.searchDisplay.list": "সংক্ষিপ্ত তালিকা",

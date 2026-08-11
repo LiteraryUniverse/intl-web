@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {നിങ്ങളുടെ പരമാവധി പരമാവധിയായിരിക്കുന്ന കഥകൾ താങ്കൾക്ക് പരിഗണിക്കുന്നതിന് പരമാവധി പരമാവധിയായിരിക്കുന്നവയാണ്}\n        one {1 കഥ കണ്ടെത്തി}\n        other {# കഥകൾ കണ്ടെത്തി}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {നിങ്ങളുടെ മാനദണ്ഡങ്ങളുമായി ഒരു ഓഡിയോബുക്കും പൊരുത്തപ്പെടുന്നില്ല} one {1 ഓഡിയോബുക്ക് കണ്ടെത്തി} other {# ഓഡിയോബുക്കുകൾ കണ്ടെത്തി}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {നിങ്ങളുടെ മാനദണ്ഡങ്ങളുമായി ഒരു മാംഗയോ കോമിക്കോ പൊരുത്തപ്പെടുന്നില്ല} one {1 ശീർഷകം കണ്ടെത്തി} other {# ശീർഷകങ്ങൾ കണ്ടെത്തി}}.",
+  "discovery.connectedWorks": "ബന്ധിപ്പിച്ച കൃതികൾ:",
   "discover.viewSelection.aria": "കാണുന്നതിന്",
   "discover.searchDisplay.covers": "കവറുകൾ പട്ടിക",
   "discover.searchDisplay.list": "സംക്ഷിപ്ത പട്ടിക",

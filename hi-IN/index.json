@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {आपके पैरामीटर्स के साथ कोई कहानी मेल नहीं खाती}\n        one {1 कहानी पाई गई}\n        other {# कहानियाँ मिलीं}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {आपके मापदंडों से कोई ऑडियोबुक मेल नहीं खाती} one {1 ऑडियोबुक मिली} other {# ऑडियोबुक मिलीं}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {आपके मापदंडों से कोई मांगा या कॉमिक मेल नहीं खाती} one {1 शीर्षक मिला} other {# शीर्षक मिले}}.",
+  "discovery.connectedWorks": "जुड़ी हुई रचनाएँ:",
   "discover.viewSelection.aria": "विचार चुनव",
   "discover.searchDisplay.covers": "कवर लिस्ट",
   "discover.searchDisplay.list": "संक्षिप्त सूची",

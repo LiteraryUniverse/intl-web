@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ei tarinoita, jotka vastaavat parametrejasi}\n        one {löydettiin 1 tarina}\n        other {löydettiin # tarinaa}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Yksikään äänikirja ei vastaa hakuehtojasi} one {Löytyi 1 äänikirja} other {Löytyi # äänikirjaa}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Yksikään manga tai sarjakuva ei vastaa hakuehtojasi} one {Löytyi 1 teos} other {Löytyi # teosta}}.",
+  "discovery.connectedWorks": "Yhdistetyt teokset:",
   "discover.viewSelection.aria": "Valintanäkymä",
   "discover.searchDisplay.covers": "Kansien luettelo",
   "discover.searchDisplay.list": "Kompakti lista",

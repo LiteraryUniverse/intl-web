@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ninguna historia coincide con tus parámetros}\n        one {1 historia encontrada}\n        other {# historias encontradas}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ningún audiolibro coincide con tus parámetros} one {1 audiolibro encontrado} other {# audiolibros encontrados}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Ningún manga o cómic coincide con tus parámetros} one {1 título encontrado} other {# títulos encontrados}}.",
+  "discovery.connectedWorks": "Obras relacionadas:",
   "discover.viewSelection.aria": "Ver selección",
   "discover.searchDisplay.covers": "Listado de portadas",
   "discover.searchDisplay.list": "Lista compacta",

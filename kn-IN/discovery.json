@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {ನಿಮ್ಮ ಪಾರಮೇಟರ್‌ಗಳಿಗೆ ಯಾವುದೇ ಕಥೆಗಳು ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ}\n        one {1 ಕಥೆ ಕಂಡುಬಂದಿದೆ}\n        other {# ಕಥೆಗಳು ಕಂಡುಬಂದಿವೆ}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {ನಿಮ್ಮ ಮಾನದಂಡಗಳಿಗೆ ಯಾವುದೇ ಆಡಿಯೊಬುಕ್ ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ} one {1 ಆಡಿಯೊಬುಕ್ ಸಿಕ್ಕಿದೆ} other {# ಆಡಿಯೊಬುಕ್‌ಗಳು ಸಿಕ್ಕಿವೆ}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {ನಿಮ್ಮ ಮಾನದಂಡಗಳಿಗೆ ಯಾವುದೇ ಮಾಂಗಾ ಅಥವಾ ಕಾಮಿಕ್ ಹೊಂದಿಕೆಯಾಗಿಲ್ಲ} one {1 ಶೀರ್ಷಿಕೆ ಸಿಕ್ಕಿದೆ} other {# ಶೀರ್ಷಿಕೆಗಳು ಸಿಕ್ಕಿವೆ}}.",
+  "discovery.connectedWorks": "ಸಂಪರ್ಕಿತ ಕೃತಿಗಳು:",
   "discover.viewSelection.aria": "ಆಯ್ಕೆ ಮಾದರಿ ವೀಕ್ಷಣೆ",
   "discover.searchDisplay.covers": "ಮೇಲ್ಮಟ್ಟದ ಪಟಗಳು",
   "discover.searchDisplay.list": "ಸಂಕ್ಷಿಪ್ತ ಪಟಗಳು",

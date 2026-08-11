@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Tiada cerita sepadan dengan parameter anda}\n        one {1 cerita dijumpai}\n        other {# cerita dijumpai}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Tiada buku audio sepadan dengan parameter anda} other {# buku audio ditemui}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Tiada manga atau komik sepadan dengan parameter anda} other {# judul ditemui}}.",
+  "discovery.connectedWorks": "Karya berkaitan:",
   "discover.viewSelection.aria": "Pilihan tampilan",
   "discover.searchDisplay.covers": "Daftar sampul",
   "discover.searchDisplay.list": "Daftar ringkas",

@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ingen historier matcher dine parametre}\n        one {1 historie fundet}\n        other {# historier fundet}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ingen lydbøger matcher dine parametre} one {1 lydbog fundet} other {# lydbøger fundet}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Ingen manga eller tegneserier matcher dine parametre} one {1 titel fundet} other {# titler fundet}}.",
+  "discovery.connectedWorks": "Forbundne værker:",
   "discover.viewSelection.aria": "Visning af valg",
   "discover.searchDisplay.covers": "Omslag liste",
   "discover.searchDisplay.list": "Kompakt liste",

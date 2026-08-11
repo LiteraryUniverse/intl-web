@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {କୌଣସି ଗଳ୍ପ ଆପଣଙ୍କର ପାରମେଟରଗୁଡ଼ିକୁ ମିଳେନି}\n        one {1 ଗଳ୍ପ ମିଳିଛି}\n        other {# ଗଳ୍ପ ମିଳିଛି}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {ଆପଣଙ୍କ ମାନଦଣ୍ଡ ସହିତ କୌଣସି ଅଡିଓବୁକ୍ ମେଳ ଖାଉନାହିଁ} one {1ଟି ଅଡିଓବୁକ୍ ମିଳିଲା} other {#ଟି ଅଡିଓବୁକ୍ ମିଳିଲା}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {ଆପଣଙ୍କ ମାନଦଣ୍ଡ ସହିତ କୌଣସି ମାଙ୍ଗା କିମ୍ବା କମିକ୍ ମେଳ ଖାଉନାହିଁ} one {1ଟି ଶୀର୍ଷକ ମିଳିଲା} other {#ଟି ଶୀର୍ଷକ ମିଳିଲା}}.",
+  "discovery.connectedWorks": "ସଂଯୁକ୍ତ କୃତିଗୁଡ଼ିକ:",
   "discover.viewSelection.aria": "ଦେଖାଯାଇଥିବା ପସନ୍ଦ",
   "discover.searchDisplay.covers": "କଭର୍‌ସ୍ ତାଲିକା",
   "discover.searchDisplay.list": "ସଂକୁଚିତ ତାଲିକା",

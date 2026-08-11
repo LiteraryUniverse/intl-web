@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Nincsenek történetek a paramétereidnek megfelelően}\n        one {1 történet található}\n        other {# történet található}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Egy hangoskönyv sem felel meg a paramétereidnek} one {1 hangoskönyv található} other {# hangoskönyv található}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Egy manga vagy képregény sem felel meg a paramétereidnek} one {1 cím található} other {# cím található}}.",
+  "discovery.connectedWorks": "Kapcsolódó művek:",
   "discover.viewSelection.aria": "Nézet kiválasztása",
   "discover.searchDisplay.covers": "Címlista",
   "discover.searchDisplay.list": "Kompakt lista",

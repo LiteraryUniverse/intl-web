@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {لا توجد قصص تطابق معاييرك}\n        one {تم العثور على قصة واحدة}\n        other {تم العثور على # قصص}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {لا توجد كتب صوتية مطابقة لمعاييرك} one {تم العثور على كتاب صوتي واحد} two {تم العثور على كتابين صوتيين} few {تم العثور على # كتب صوتية} many {تم العثور على # كتابًا صوتيًا} other {تم العثور على # كتاب صوتي}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {لا توجد مانغا أو قصص مصورة مطابقة لمعاييرك} one {تم العثور على عنوان واحد} two {تم العثور على عنوانين} few {تم العثور على # عناوين} many {تم العثور على # عنوانًا} other {تم العثور على # عنوان}}.",
+  "discovery.connectedWorks": "أعمال مرتبطة:",
   "discover.viewSelection.aria": "اختيار العرض",
   "discover.searchDisplay.covers": "قوائم الأغلفة",
   "discover.searchDisplay.list": "قائمة مدمجة",

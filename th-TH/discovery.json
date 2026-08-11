@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {ไม่มีเรื่องที่ตรงกับพารามิเตอร์ของคุณ}\n        one {พบเรื่อง 1 รายการ}\n        other {พบเรื่อง # รายการ}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, other {พบหนังสือเสียง # เล่ม}}.",
   "discover.search.resultsTotal.comic": "{results, plural, other {พบ # เรื่อง}}.",
+  "discovery.connectedWorks": "ผลงานที่เชื่อมโยง:",
   "discover.viewSelection.aria": "เลือกการแสดงผล",
   "discover.searchDisplay.covers": "รายการปก",
   "discover.searchDisplay.list": "รายการย่อ",

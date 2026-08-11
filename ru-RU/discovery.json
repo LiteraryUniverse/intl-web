@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Ни одна история не соответствует вашим параметрам}\n        one {Найдена 1 история}\n        few {Найдено # истории}\n        many {Найдено # историй}\n        other {Найдено # историй}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ни одна аудиокнига не соответствует вашим параметрам} one {Найдена # аудиокнига} few {Найдены # аудиокниги} other {Найдено # аудиокниг}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Ни одна манга или комикс не соответствует вашим параметрам} one {Найдено # произведение} few {Найдены # произведения} other {Найдено # произведений}}.",
+  "discovery.connectedWorks": "Связанные произведения:",
   "discover.viewSelection.aria": "Просмотр выбранного",
   "discover.searchDisplay.covers": "Список обложек",
   "discover.searchDisplay.list": "Компактный список",

@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {No stories match your parameters}\n        one {1 story found}\n        other {# stories found}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, other {# sance cukta cu se facki}}.",
   "discover.search.resultsTotal.comic": "{results, plural, other {# lisri cmene cu se facki}}.",
+  "discovery.connectedWorks": "lo jorne selfinti:",
   "discover.viewSelection.aria": "viska farlu'i",
   "discover.searchDisplay.covers": "klaku be sunla",
   "discover.searchDisplay.list": "dundu slilu",

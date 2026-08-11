@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Níl aon scéal arím ar a dtaispeántar do chuid patrún}\n        one {Aimsíodh scéal amháin}\n        other {aimsíodh scéalta #}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Níl aon chlosleabhar ag teacht le do pharaiméadair} one {Aimsíodh 1 chlosleabhar} two {Aimsíodh # chlosleabhar} few {Aimsíodh # chlosleabhar} many {Aimsíodh # gclosleabhar} other {Aimsíodh # closleabhar}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Níl aon manga ná greannán ag teacht le do pharaiméadair} one {Aimsíodh 1 teideal} other {Aimsíodh # teideal}}.",
+  "discovery.connectedWorks": "Saothair nasctha:",
   "discover.viewSelection.aria": "Rogha féachta",
   "discover.searchDisplay.covers": "Liostaí comharthaí",
   "discover.searchDisplay.list": "Liosta cumachta",

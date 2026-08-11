@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {매개변수와 일치하는 이야기가 없습니다}\n        one {1개의 이야기가 발견되었습니다}\n        other {#개의 이야기가 발견되었습니다}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {조건에 맞는 오디오북이 없습니다} other {오디오북 #권을 찾았습니다}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {조건에 맞는 만화가 없습니다} other {작품 #개를 찾았습니다}}.",
+  "discovery.connectedWorks": "연결된 작품:",
   "discover.viewSelection.aria": "선택 보기",
   "discover.searchDisplay.covers": "커버 목록",
   "discover.searchDisplay.list": "간결한 목록",

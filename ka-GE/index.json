@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {არცერთი ისტორია არ ემთხვევა თქვენს პარამეტრებს}\n        one {1 ისტორია მოიძებნა}\n        other {# ისტორია მოიძებნა}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {თქვენს პარამეტრებს არც ერთი აუდიოწიგნი არ ემთხვევა} one {ნაპოვნია 1 აუდიოწიგნი} other {ნაპოვნია # აუდიოწიგნი}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {თქვენს პარამეტრებს არც ერთი მანგა ან კომიქსი არ ემთხვევა} one {ნაპოვნია 1 ნაწარმოები} other {ნაპოვნია # ნაწარმოები}}.",
+  "discovery.connectedWorks": "დაკავშირებული ნაწარმოებები:",
   "discover.viewSelection.aria": "ხელსაწყოთა არჩევა",
   "discover.searchDisplay.covers": "გარეკანის ჩამონათვალი",
   "discover.searchDisplay.list": "კომპაქტური სია",

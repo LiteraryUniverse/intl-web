@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {আপনার পরিমাণগুলির সাথে কোনও গল্প মেলে না}\n        one {1 টি গল্প পাওয়া গেছে}\n        other {# টি গল্প পাওয়া গেছে}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {আপনার মানদণ্ডের সাথে কোনো অডিও বই মেলেনি} one {১টি অডিও বই পাওয়া গেছে} other {#টি অডিও বই পাওয়া গেছে}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {আপনার মানদণ্ডের সাথে কোনো মাঙ্গা বা কমিক মেলেনি} one {১টি শিরোনাম পাওয়া গেছে} other {#টি শিরোনাম পাওয়া গেছে}}.",
+  "discovery.connectedWorks": "সংযুক্ত রচনাসমূহ:",
   "discover.viewSelection.aria": "দেখার নির্বাচন",
   "discover.searchDisplay.covers": "কভারগুলি তালিকা",
   "discover.searchDisplay.list": "সংক্ষিপ্ত তালিকা",

@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {आपल्या पॅरामीटरवरून कोणतत्वविषयक कथा आहे नाहीत}\n        one {1 कथा आढळली}\n        other {# कथा आढळले}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {तुमच्या निकषांशी जुळणारे कोणतेही ऑडिओबुक नाही} one {1 ऑडिओबुक सापडले} other {# ऑडिओबुक सापडली}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {तुमच्या निकषांशी जुळणारे कोणतेही मांगा किंवा कॉमिक नाही} one {1 शीर्षक सापडले} other {# शीर्षके सापडली}}.",
+  "discovery.connectedWorks": "जोडलेली कामे:",
   "discover.viewSelection.aria": "पहा निवड",
   "discover.searchDisplay.covers": "छिटपुट याद्या",
   "discover.searchDisplay.list": "संक्षिप्त सूची",

@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {तपाईंका मापदण्डहरूसँग कुनै कथाहरू मेल खाँदैनन्}\n        one {१ कथा प्राप्त भयो}\n        other {# कथाहरू प्राप्त भयो}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {तपाईंका मापदण्डसँग कुनै अडियोबुक मेल खाएन} one {1 अडियोबुक भेटियो} other {# अडियोबुक भेटिए}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {तपाईंका मापदण्डसँग कुनै माङ्गा वा कमिक मेल खाएन} one {1 शीर्षक भेटियो} other {# शीर्षक भेटिए}}.",
+  "discovery.connectedWorks": "जोडिएका कृतिहरू:",
   "discover.viewSelection.aria": "दृश्य चयन",
   "discover.searchDisplay.covers": "कवरहरूको सूची",
   "discover.searchDisplay.list": "संक्षिप्त सूची",

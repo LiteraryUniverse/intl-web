@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Vašemu požadavku neodpovídá žádný příběh}\n        one {Nalezen 1 příběh}\n        few {Nalezeny # příběhy}\n        many {Nalezeno # příběhů}\n        other {Nalezeno # příběhů}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Vašim parametrům neodpovídají žádné audioknihy} one {Nalezena 1 audiokniha} few {Nalezeny # audioknihy} other {Nalezeno # audioknih}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Vašim parametrům neodpovídá žádná manga ani komiks} one {Nalezen 1 titul} few {Nalezeny # tituly} other {Nalezeno # titulů}}.",
+  "discovery.connectedWorks": "Propojená díla:",
   "discover.viewSelection.aria": "Zobrazení výběru",
   "discover.searchDisplay.covers": "Zobrazení dle obálky",
   "discover.searchDisplay.list": "Kompaktní zobrazení",

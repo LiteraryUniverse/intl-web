@@ -1391,6 +1391,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Δεν υπάρχουν ιστορίες που να ταιριάζουν με τα παράμετρα σας}\n        one {1 ιστορία βρέθηκε}\n        other {# ιστορίες βρέθηκαν}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Κανένα ηχητικό βιβλίο δεν ταιριάζει στις παραμέτρους σας} one {Βρέθηκε 1 ηχητικό βιβλίο} other {Βρέθηκαν # ηχητικά βιβλία}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Κανένα μάνγκα ή κόμικ δεν ταιριάζει στις παραμέτρους σας} one {Βρέθηκε 1 τίτλος} other {Βρέθηκαν # τίτλοι}}.",
+  "discovery.connectedWorks": "Συνδεδεμένα έργα:",
   "discover.viewSelection.aria": "Επιλογή προβολής",
   "discover.searchDisplay.covers": "Κατάλογος εξωφύλλων",
   "discover.searchDisplay.list": "Συμπυκνωμένη λίστα",

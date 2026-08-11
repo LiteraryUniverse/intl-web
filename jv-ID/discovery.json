@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {No stories match your parameters}\n        one {1 story found}\n        other {# stories found}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Ora ana buku audio sing cocog karo parametermu} other {# buku audio ditemokake}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Ora ana manga utawa komik sing cocog karo parametermu} other {# judhul ditemokake}}.",
+  "discovery.connectedWorks": "Karya sing gegandhengan:",
   "discover.viewSelection.aria": "View selection",
   "discover.searchDisplay.covers": "Covers listing",
   "discover.searchDisplay.list": "Compact list",

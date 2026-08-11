@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {គ្មានរឿងដែលត្រូវលើភាពរបស់អ្នក}\n        one {រឿងមួយទូទៅបានរកឃើញ}\n        other {រឿងបានរកឃើញ}\n    }រឿងបានរកឃើញ។",
   "discover.search.resultsTotal.audiobook": "{results, plural, other {រកឃើញសៀវភៅសំឡេង #}}។",
   "discover.search.resultsTotal.comic": "{results, plural, other {រកឃើញចំណងជើង #}}។",
+  "discovery.connectedWorks": "ស្នាដៃដែលភ្ជាប់៖",
   "discover.viewSelection.aria": "ជម្រើសកែមើល",
   "discover.searchDisplay.covers": "បញ្ជីផ្សាំ",
   "discover.searchDisplay.list": "បញ្ជីតិច",

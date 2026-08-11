@@ -1381,6 +1381,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Geen stories voldoen aan jou parameters}\n        one {1 story gevind}\n        other {# stories gevind}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Geen oudioboeke pas by jou parameters nie} one {1 oudioboek gevind} other {# oudioboeke gevind}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Geen manga of strokiesprente pas by jou parameters nie} one {1 titel gevind} other {# titels gevind}}.",
+  "discovery.connectedWorks": "Verwante werke:",
   "discover.viewSelection.aria": "Beskouingskeuse",
   "discover.searchDisplay.covers": "Omslae lys",
   "discover.searchDisplay.list": "Kompakte lys",

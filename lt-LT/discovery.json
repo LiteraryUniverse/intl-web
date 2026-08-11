@@ -29,6 +29,7 @@
   "discover.search.resultsTotal.story": "{results, plural,\n        =0 {Jūsų parametrams neatitinka jokie istorijos}\n        one {Surasta 1 istorija}\n        other {Surasta # istorijos}\n    }.",
   "discover.search.resultsTotal.audiobook": "{results, plural, =0 {Jūsų parametrų neatitinka nė viena audioknyga} one {Rasta 1 audioknyga} few {Rastos # audioknygos} other {Rasta # audioknygų}}.",
   "discover.search.resultsTotal.comic": "{results, plural, =0 {Jūsų parametrų neatitinka nė viena manga ar komiksas} one {Rastas 1 kūrinys} few {Rasti # kūriniai} other {Rasta # kūrinių}}.",
+  "discovery.connectedWorks": "Susiję kūriniai:",
   "discover.viewSelection.aria": "Peržiūrėti pasirinkimą",
   "discover.searchDisplay.covers": "Viršelių sąrašas",
   "discover.searchDisplay.list": "Sutrumpintas sąrašas",
