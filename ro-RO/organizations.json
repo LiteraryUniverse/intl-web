@@ -161,5 +161,8 @@
   "org.licenses.create": "Creează o licență",
   "org.licenses.legal.label": "Link către textul juridic complet",
   "org.licenses.baseLicense.label": "Bazată pe licența LU",
-  "org.licenses.unarchive": "Dezarhivează"
+  "org.licenses.unarchive": "Dezarhivează",
+  "org.workshop.licensed": "Lucrări licențiate",
+  "org.workshop.licensed.intro": "Lucrări deținute de creatori care poartă una dintre licențele organizației tale. Le poți promova; editarea rămâne la proprietar.",
+  "org.workshop.licensed.empty": "Nicio lucrare nu poartă încă licențele tale."
 }

@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Serĉu rakontojn, universojn, aŭdlibrojn, mangaojn kaj bildstriojn",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "Ĉapitroj disponeblaj en ĉi tiu traduko"
+  "discovery.translation.chaptersAvailable": "Ĉapitroj disponeblaj en ĉi tiu traduko",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

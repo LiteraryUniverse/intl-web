@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Αναζητήστε ιστορίες, σύμπαντα, ηχητικά βιβλία, μάνγκα και κόμικς",
   "discover.search.typeSelection.aria": "Επιλογή τύπου περιεχομένου",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Δεν βρέθηκαν αποτελέσματα} one {Βρέθηκε # αποτέλεσμα} other {Βρέθηκαν # αποτελέσματα}}",
-  "discovery.translation.chaptersAvailable": "Διαθέσιμα κεφάλαια σε αυτή τη μετάφραση"
+  "discovery.translation.chaptersAvailable": "Διαθέσιμα κεφάλαια σε αυτή τη μετάφραση",
+  "discover.searchComic.title": "Αναζήτηση manga και κόμικς",
+  "discover.searchComic.description": "Αναζήτηση manga και κόμικς"
 }

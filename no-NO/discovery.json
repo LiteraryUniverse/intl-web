@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Søk etter historier, universer, lydbøker, manga og tegneserier",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "Kapitler tilgjengelige i denne oversettelsen"
+  "discovery.translation.chaptersAvailable": "Kapitler tilgjengelige i denne oversettelsen",
+  "discover.searchComic.title": "Søk etter manga og tegneserier",
+  "discover.searchComic.description": "Søk etter manga og tegneserier"
 }

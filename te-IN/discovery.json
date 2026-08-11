@@ -106,5 +106,7 @@
   "discover.search.universal.description": "కథలు, విశ్వాలు, ఆడియోబుక్‌లు, మాంగా మరియు కామిక్స్ వెతకండి",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "ఈ అనువాదంలో అందుబాటులో ఉన్న అధ్యాయాలు"
+  "discovery.translation.chaptersAvailable": "ఈ అనువాదంలో అందుబాటులో ఉన్న అధ్యాయాలు",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

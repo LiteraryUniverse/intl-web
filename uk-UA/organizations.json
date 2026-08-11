@@ -161,5 +161,8 @@
   "org.licenses.create": "Створити ліцензію",
   "org.licenses.legal.label": "Посилання на повний юридичний текст",
   "org.licenses.baseLicense.label": "На основі ліцензії LU",
-  "org.licenses.unarchive": "Розархівувати"
+  "org.licenses.unarchive": "Розархівувати",
+  "org.workshop.licensed": "Роботи за ліцензією",
+  "org.workshop.licensed.intro": "Роботи, що належать їхнім творцям і мають одну з ліцензій вашої організації. Ви можете їх просувати; редагування залишається у власника.",
+  "org.workshop.licensed.empty": "Поки жодна робота не має ваших ліцензій."
 }

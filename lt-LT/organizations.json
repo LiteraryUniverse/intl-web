@@ -161,5 +161,8 @@
   "org.licenses.create": "Sukurti licenciją",
   "org.licenses.legal.label": "Nuoroda į pilną teisinį tekstą",
   "org.licenses.baseLicense.label": "Pagrįsta LU licencija",
-  "org.licenses.unarchive": "Išarchyvuoti"
+  "org.licenses.unarchive": "Išarchyvuoti",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

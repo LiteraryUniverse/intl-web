@@ -161,5 +161,8 @@
   "org.licenses.create": "สร้างใบอนุญาต",
   "org.licenses.legal.label": "ลิงก์ไปยังข้อความทางกฎหมายฉบับเต็ม",
   "org.licenses.baseLicense.label": "อ้างอิงจากใบอนุญาต LU",
-  "org.licenses.unarchive": "ยกเลิกการเก็บถาวร"
+  "org.licenses.unarchive": "ยกเลิกการเก็บถาวร",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

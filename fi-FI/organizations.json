@@ -161,5 +161,8 @@
   "org.licenses.create": "Luo lisenssi",
   "org.licenses.legal.label": "Linkki täydelliseen oikeudelliseen tekstiin",
   "org.licenses.baseLicense.label": "Perustuu LU-lisenssiin",
-  "org.licenses.unarchive": "Palauta arkistosta"
+  "org.licenses.unarchive": "Palauta arkistosta",
+  "org.workshop.licensed": "Lisensoidut teokset",
+  "org.workshop.licensed.intro": "Tekijöidensä omistamia teoksia, joilla on yksi organisaatiosi lisensseistä. Voit mainostaa niitä; muokkaus säilyy omistajalla.",
+  "org.workshop.licensed.empty": "Mikään teos ei vielä kanna lisenssejäsi."
 }

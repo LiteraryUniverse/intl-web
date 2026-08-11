@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Stripe पर पेआउट प्रबंधित करू",
   "orgConnect.payouts.pending": "Stripe एखनो एहि संगठनक पेआउट खाताक सत्यापन कऽ रहल अछि। अनबोर्डिंग जारी रखबाक लेल नीचाँ क्लिक करू वा बादमे फेर देखू।",
   "orgConnect.payouts.setup": "संगठन पेआउट सेट करू",
-  "orgConnect.payouts.timeout": "Stripe समय पर जवाब नहि देलक। कृपया भुगतान फेर सँ सेट अप करबाक प्रयास करू।"
+  "orgConnect.payouts.timeout": "Stripe समय पर जवाब नहि देलक। कृपया भुगतान फेर सँ सेट अप करबाक प्रयास करू।",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

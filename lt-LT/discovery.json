@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Ieškokite istorijų, visatų, audioknygų, mangų ir komiksų",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "Šiame vertime pasiekiami skyriai"
+  "discovery.translation.chaptersAvailable": "Šiame vertime pasiekiami skyriai",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

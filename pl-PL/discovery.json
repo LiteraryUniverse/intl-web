@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Szukaj historii, uniwersów, audiobooków, mangi i komiksów",
   "discover.search.typeSelection.aria": "Wybór typu treści",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Nie znaleziono wyników} one {Znaleziono # wynik} few {Znaleziono # wyniki} many {Znaleziono # wyników} other {Znaleziono # wyników}}",
-  "discovery.translation.chaptersAvailable": "Rozdziały dostępne w tym tłumaczeniu"
+  "discovery.translation.chaptersAvailable": "Rozdziały dostępne w tym tłumaczeniu",
+  "discover.searchComic.title": "Szukaj mangi i komiksów",
+  "discover.searchComic.description": "Szukaj mangi i komiksów"
 }

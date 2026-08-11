@@ -106,5 +106,7 @@
   "discover.search.universal.description": "sisku lo lisri .e lo munje .e lo sance cukta .e lo manga .e lo lisri pixra",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "Chapters available in this translation"
+  "discovery.translation.chaptersAvailable": "Chapters available in this translation",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

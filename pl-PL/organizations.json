@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Zarządzaj wypłatami w Stripe",
   "orgConnect.payouts.pending": "Stripe wciąż weryfikuje konto wypłat tej organizacji. Proszę kliknąć poniżej, aby kontynuować rejestrację, lub sprawdzić ponownie później.",
   "orgConnect.payouts.setup": "Skonfiguruj wypłaty organizacji",
-  "orgConnect.payouts.timeout": "Stripe nie odpowiedział na czas. Spróbuj ponownie skonfigurować wypłaty."
+  "orgConnect.payouts.timeout": "Stripe nie odpowiedział na czas. Spróbuj ponownie skonfigurować wypłaty.",
+  "org.workshop.licensed": "Utwory na licencji",
+  "org.workshop.licensed.intro": "Utwory należące do ich twórców, które mają jedną z licencji Twojej organizacji. Możesz je promować; edycja pozostaje u właściciela.",
+  "org.workshop.licensed.empty": "Żadne utwory nie mają jeszcze Twoich licencji."
 }

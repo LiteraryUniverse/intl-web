@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Stripe-ରେ ପେଆଉଟ୍ ପରିଚାଳନା କରନ୍ତୁ",
   "orgConnect.payouts.pending": "Stripe ଏବେ ବି ଏହି ସଂଗଠନର ପେଆଉଟ୍ ଆକାଉଣ୍ଟ ଯାଞ୍ଚ କରୁଛି। ଅନବୋର୍ଡିଂ ଜାରି ରଖିବାକୁ ତଳେ କ୍ଲିକ୍ କରନ୍ତୁ କିମ୍ବା ପରେ ପୁଣି ଦେଖନ୍ତୁ।",
   "orgConnect.payouts.setup": "ସଂଗଠନର ପେଆଉଟ୍ ସେଟ୍ ଅପ୍ କରନ୍ତୁ",
-  "orgConnect.payouts.timeout": "Stripe ସମୟରେ ଉତ୍ତର ଦେଇନାହିଁ। ଦୟାକରି ପୁଣି ପେଆଉଟ୍ ସେଟ୍ ଅପ୍ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।"
+  "orgConnect.payouts.timeout": "Stripe ସମୟରେ ଉତ୍ତର ଦେଇନାହିଁ। ଦୟାକରି ପୁଣି ପେଆଉଟ୍ ସେଟ୍ ଅପ୍ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

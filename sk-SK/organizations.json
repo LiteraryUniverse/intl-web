@@ -161,5 +161,8 @@
   "org.licenses.create": "Vytvoriť licenciu",
   "org.licenses.legal.label": "Odkaz na úplný právny text",
   "org.licenses.baseLicense.label": "Založená na licencii LU",
-  "org.licenses.unarchive": "Obnoviť z archívu"
+  "org.licenses.unarchive": "Obnoviť z archívu",
+  "org.workshop.licensed": "Licencované diela",
+  "org.workshop.licensed.intro": "Diela vlastnené ich tvorcami, ktoré nesú jednu z licencií vašej organizácie. Môžete ich propagovať; úpravy zostávajú u vlastníka.",
+  "org.workshop.licensed.empty": "Zatiaľ žiadne diela nenesú vaše licencie."
 }

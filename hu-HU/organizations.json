@@ -161,5 +161,8 @@
   "org.licenses.create": "Licenc létrehozása",
   "org.licenses.legal.label": "Hivatkozás a teljes jogi szövegre",
   "org.licenses.baseLicense.label": "Alapjául szolgáló LU licenc",
-  "org.licenses.unarchive": "Archiválás visszavonása"
+  "org.licenses.unarchive": "Archiválás visszavonása",
+  "org.workshop.licensed": "Licencelt művek",
+  "org.workshop.licensed.intro": "A készítőik tulajdonában lévő művek, amelyek a szervezeted egyik licencét viselik. Promótálhatod őket; a szerkesztés a tulajdonosnál marad.",
+  "org.workshop.licensed.empty": "Még egy mű sem viseli a licenceidet."
 }

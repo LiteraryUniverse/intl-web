@@ -161,5 +161,8 @@
   "org.licenses.create": "Создать лицензию",
   "org.licenses.legal.label": "Ссылка на полный юридический текст",
   "org.licenses.baseLicense.label": "На основе лицензии LU",
-  "org.licenses.unarchive": "Восстановить из архива"
+  "org.licenses.unarchive": "Восстановить из архива",
+  "org.workshop.licensed": "Работы по лицензии",
+  "org.workshop.licensed.intro": "Работы, принадлежащие их создателям и несущие одну из лицензий вашей организации. Вы можете их продвигать; редактирование остаётся у владельца.",
+  "org.workshop.licensed.empty": "Пока ни одна работа не несёт ваши лицензии."
 }

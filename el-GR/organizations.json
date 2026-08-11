@@ -161,5 +161,8 @@
   "org.licenses.create": "Δημιουργία άδειας",
   "org.licenses.legal.label": "Σύνδεσμος προς το πλήρες νομικό κείμενο",
   "org.licenses.baseLicense.label": "Βασισμένη σε άδεια LU",
-  "org.licenses.unarchive": "Αναίρεση αρχειοθέτησης"
+  "org.licenses.unarchive": "Αναίρεση αρχειοθέτησης",
+  "org.workshop.licensed": "Αδειοδοτημένα έργα",
+  "org.workshop.licensed.intro": "Έργα των δημιουργών τους που φέρουν μία από τις άδειες του οργανισμού σας. Μπορείτε να τα προωθήσετε· η επεξεργασία μένει στον ιδιοκτήτη.",
+  "org.workshop.licensed.empty": "Κανένα έργο δεν φέρει ακόμη τις άδειές σας."
 }

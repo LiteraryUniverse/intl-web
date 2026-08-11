@@ -161,5 +161,8 @@
   "org.licenses.create": "ライセンスを作成",
   "org.licenses.legal.label": "法的な全文へのリンク",
   "org.licenses.baseLicense.label": "基となるLUライセンス",
-  "org.licenses.unarchive": "アーカイブ解除"
+  "org.licenses.unarchive": "アーカイブ解除",
+  "org.workshop.licensed": "ライセンス作品",
+  "org.workshop.licensed.intro": "作成者所有で、組織のライセンスのひとつを付与された作品です。宣伝はできますが、編集は所有者のままです。",
+  "org.workshop.licensed.empty": "まだライセンスが付いた作品はありません。"
 }

@@ -186,5 +186,15 @@
   "blog.domains.available": "זמין!",
   "blog.domains.customComing": "חיבור דומיין משלכם (כמו blog.yourname.com) יגיע בקרוב.",
   "blog.post.viewPublished": "צפייה בפוסט שפורסם",
-  "blog.post.edit": "עריכת פוסט"
+  "blog.post.edit": "עריכת פוסט",
+  "blog.qa.autoQuestion.author.1": "מה נתן לך השראה להתחיל לכתוב?",
+  "blog.qa.autoQuestion.author.2": "מה החלק האהוב עליך בתהליך היצירתי?",
+  "blog.qa.autoQuestion.author.3": "איזה מדמויותיך הכי קרובה לליבך, ולמה?",
+  "blog.qa.autoQuestion.author.4": "איזו עצה היית נותן לכותבים חדשים?",
+  "blog.qa.autoQuestion.author.5": "על מה אתה עובד כרגע?",
+  "blog.qa.autoQuestion.universe.1": "מה הרעיון המרכזי מאחורי {name}?",
+  "blog.qa.autoQuestion.universe.2": "איך התחלת לבנות את העולם של {name}?",
+  "blog.qa.autoQuestion.universe.3": "מה הופך את {name} לייחודי בהשוואה לעולמות אחרים?",
+  "blog.qa.autoQuestion.universe.4": "האם יש מקום או דמות ב-{name} שמעריצים נוטים לפספס?",
+  "blog.qa.autoQuestion.universe.5": "מה הלאה עבור הסיפורים המתרחשים ב-{name}?"
 }

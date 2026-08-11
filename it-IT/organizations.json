@@ -161,5 +161,8 @@
   "org.licenses.create": "Crea una licenza",
   "org.licenses.legal.label": "Link al testo legale completo",
   "org.licenses.baseLicense.label": "Basata sulla licenza LU",
-  "org.licenses.unarchive": "Annulla archiviazione"
+  "org.licenses.unarchive": "Annulla archiviazione",
+  "org.workshop.licensed": "Opere con licenza",
+  "org.workshop.licensed.intro": "Opere di proprietà dei loro creatori che portano una delle licenze della tua organizzazione. Puoi promuoverle; la modifica resta al proprietario.",
+  "org.workshop.licensed.empty": "Nessuna opera porta ancora le tue licenze."
 }

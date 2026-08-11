@@ -106,5 +106,7 @@
   "discover.search.universal.description": "ಕಥೆಗಳು, ಬ್ರಹ್ಮಾಂಡಗಳು, ಆಡಿಯೊಬುಕ್‌ಗಳು, ಮಾಂಗಾ ಮತ್ತು ಕಾಮಿಕ್ಸ್ ಹುಡುಕಿ",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "ಈ ಅನುವಾದದಲ್ಲಿ ಲಭ್ಯವಿರುವ ಅಧ್ಯಾಯಗಳು"
+  "discovery.translation.chaptersAvailable": "ಈ ಅನುವಾದದಲ್ಲಿ ಲಭ್ಯವಿರುವ ಅಧ್ಯಾಯಗಳು",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

@@ -161,5 +161,8 @@
   "org.licenses.create": "Skapa en licens",
   "org.licenses.legal.label": "Länk till den fullständiga juridiska texten",
   "org.licenses.baseLicense.label": "Baserad på LU-licens",
-  "org.licenses.unarchive": "Avarkivera"
+  "org.licenses.unarchive": "Avarkivera",
+  "org.workshop.licensed": "Licensierade verk",
+  "org.workshop.licensed.intro": "Verk som ägs av sina skapare och bär en av din organisations licenser. Du kan marknadsföra dem; redigering ligger kvar hos ägaren.",
+  "org.workshop.licensed.empty": "Inga verk bär dina licenser ännu."
 }

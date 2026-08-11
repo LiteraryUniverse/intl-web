@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Cerca històries, universos, audiollibres, manga i còmics",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "Capítols disponibles en aquesta traducció"
+  "discovery.translation.chaptersAvailable": "Capítols disponibles en aquesta traducció",
+  "discover.searchComic.title": "Cerca manga i còmics",
+  "discover.searchComic.description": "Cerca manga i còmics"
 }

@@ -161,5 +161,8 @@
   "org.licenses.create": "Gawe lisensi",
   "org.licenses.legal.label": "Pranala menyang teks hukum lengkap",
   "org.licenses.baseLicense.label": "Adhedhasar lisensi LU",
-  "org.licenses.unarchive": "Batal arsip"
+  "org.licenses.unarchive": "Batal arsip",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Stripe에서 지급금 관리",
   "orgConnect.payouts.pending": "Stripe에서 아직 이 조직의 지급 계정을 확인하고 있습니다. 아래를 클릭해 온보딩을 계속하거나 나중에 다시 확인해 주세요.",
   "orgConnect.payouts.setup": "조직 지급금 설정",
-  "orgConnect.payouts.timeout": "Stripe가 제시간에 응답하지 않았습니다. 지급 설정을 다시 시도해 주세요."
+  "orgConnect.payouts.timeout": "Stripe가 제시간에 응답하지 않았습니다. 지급 설정을 다시 시도해 주세요.",
+  "org.workshop.licensed": "라이선스 작품",
+  "org.workshop.licensed.intro": "창작자가 소유하며 조직의 라이선스 중 하나를 가진 작품입니다. 홍보는 할 수 있지만 편집은 소유자에게 남습니다.",
+  "org.workshop.licensed.empty": "아직 라이선스가 적용된 작품이 없습니다."
 }

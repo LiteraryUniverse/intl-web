@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "إدارة المدفوعات على Stripe",
   "orgConnect.payouts.pending": "لا يزال Stripe يتحقق من حساب المدفوعات الخاص بهذه المنظمة. انقر أدناه لمتابعة الإعداد أو تحقق مرة أخرى لاحقًا.",
   "orgConnect.payouts.setup": "إعداد مدفوعات المنظمة",
-  "orgConnect.payouts.timeout": "لم يستجب Stripe في الوقت المحدد. يُرجى محاولة إعداد المدفوعات مرة أخرى."
+  "orgConnect.payouts.timeout": "لم يستجب Stripe في الوقت المحدد. يُرجى محاولة إعداد المدفوعات مرة أخرى.",
+  "org.workshop.licensed": "أعمال مرخّصة",
+  "org.workshop.licensed.intro": "أعمال يملكها منشئوها وتحمل إحدى رخص منظمتك. يمكنك الترويج لها؛ ويبقى التحرير لدى المالك.",
+  "org.workshop.licensed.empty": "لا توجد أعمال تحمل رخصك بعد."
 }

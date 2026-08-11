@@ -106,5 +106,7 @@
   "discover.search.encyclopedia.comingSoon": "Az enciklopédia-keresés hamarosan érkezik.",
   "discover.search.universal.description": "Keress történeteket, univerzumokat, hangoskönyveket, mangákat és képregényeket",
   "discover.search.typeSelection.aria": "Tartalomtípus kiválasztása",
-  "discover.search.resultsTotal.all": "{results, plural, =0 {Nincs találat} one {# találat} other {# találat}}"
+  "discover.search.resultsTotal.all": "{results, plural, =0 {Nincs találat} one {# találat} other {# találat}}",
+  "discover.searchComic.title": "Manga és képregény keresése",
+  "discover.searchComic.description": "Manga és képregény keresése"
 }

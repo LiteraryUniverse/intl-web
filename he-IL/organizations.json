@@ -161,5 +161,8 @@
   "org.licenses.create": "יצירת רישיון",
   "org.licenses.legal.label": "קישור לנוסח המשפטי המלא",
   "org.licenses.baseLicense.label": "מבוסס על רישיון LU",
-  "org.licenses.unarchive": "הוצאה מהארכיון"
+  "org.licenses.unarchive": "הוצאה מהארכיון",
+  "org.workshop.licensed": "יצירות ברישיון",
+  "org.workshop.licensed.intro": "יצירות בבעלות יוצריהן הנושאות אחת מרישיונות הארגון שלך. אפשר לקדם אותן; העריכה נשארת אצל הבעלים.",
+  "org.workshop.licensed.empty": "עדיין אין יצירות הנושאות את הרישיונות שלך."
 }

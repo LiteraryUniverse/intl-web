@@ -161,5 +161,8 @@
   "org.licenses.create": "Create a license",
   "org.licenses.legal.label": "Link to the full legal text",
   "org.licenses.baseLicense.label": "Based on LU license",
-  "org.licenses.unarchive": "Unarchive"
+  "org.licenses.unarchive": "Unarchive",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

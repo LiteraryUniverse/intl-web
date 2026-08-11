@@ -161,5 +161,8 @@
   "org.licenses.create": "परवाना तयार करा",
   "org.licenses.legal.label": "संपूर्ण कायदेशीर मजकुराची लिंक",
   "org.licenses.baseLicense.label": "LU परवान्यावर आधारित",
-  "org.licenses.unarchive": "संग्रहातून काढा"
+  "org.licenses.unarchive": "संग्रहातून काढा",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

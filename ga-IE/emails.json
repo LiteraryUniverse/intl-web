@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "Caibidil nua ar fáil: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "Caibidil nua foilsithe",
   "email.comics.chapterPublished.details": "Greannán: {comicTitle} • Caibidil: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "Oscail caibidil"
+  "email.comics.chapterPublished.cta": "Oscail caibidil",
+  "email.notifications.qaNewQuestion.subject": "New question on {blogName}",
+  "email.notifications.qaNewQuestion.preview": "New question on {blogName} from {askerName}",
+  "email.notifications.qaNewQuestion.title": "You have a new question!",
+  "email.notifications.qaNewQuestion.details": "{askerName} asked a question on your blog \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "Answer Question",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} answered your question",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} answered your question on {blogName}",
+  "email.notifications.qaAnswerReceived.title": "Your question has been answered!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} has answered your question on \"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "This answer is private and visible only to you.",
+  "email.notifications.qaAnswerReceived.cta": "View Answer"
 }

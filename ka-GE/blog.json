@@ -186,5 +186,15 @@
   "blog.domains.available": "ხელმისაწვდომია!",
   "blog.domains.customComing": "საკუთარი დომენის დაკავშირება (მაგ. blog.tqvenisaxeli.ge) მალე იქნება.",
   "blog.post.viewPublished": "View published post",
-  "blog.post.edit": "Edit post"
+  "blog.post.edit": "Edit post",
+  "blog.qa.autoQuestion.author.1": "What inspired you to start writing?",
+  "blog.qa.autoQuestion.author.2": "What is your favorite part of the creative process?",
+  "blog.qa.autoQuestion.author.3": "Which of your characters is closest to your heart, and why?",
+  "blog.qa.autoQuestion.author.4": "What advice would you give to new writers?",
+  "blog.qa.autoQuestion.author.5": "What are you currently working on?",
+  "blog.qa.autoQuestion.universe.1": "What is the core idea behind {name}?",
+  "blog.qa.autoQuestion.universe.2": "How did you start building the world of {name}?",
+  "blog.qa.autoQuestion.universe.3": "What makes {name} unique compared to other settings?",
+  "blog.qa.autoQuestion.universe.4": "Is there a location or character in {name} that fans often overlook?",
+  "blog.qa.autoQuestion.universe.5": "What is next for the stories set in {name}?"
 }

@@ -161,5 +161,8 @@
   "org.licenses.create": "Crear una licencia",
   "org.licenses.legal.label": "Enlace al texto legal completo",
   "org.licenses.baseLicense.label": "Basada en la licencia de LU",
-  "org.licenses.unarchive": "Desarchivar"
+  "org.licenses.unarchive": "Desarchivar",
+  "org.workshop.licensed": "Obras con licencia",
+  "org.workshop.licensed.intro": "Obras de sus creadores que llevan una de las licencias de tu organización. Puedes promocionarlas; la edición sigue siendo del propietario.",
+  "org.workshop.licensed.empty": "Aún no hay obras con tus licencias."
 }

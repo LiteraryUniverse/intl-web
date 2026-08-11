@@ -161,5 +161,8 @@
   "org.licenses.create": "Opprett en lisens",
   "org.licenses.legal.label": "Lenke til den fullstendige juridiske teksten",
   "org.licenses.baseLicense.label": "Basert på LU-lisens",
-  "org.licenses.unarchive": "Opphev arkivering"
+  "org.licenses.unarchive": "Opphev arkivering",
+  "org.workshop.licensed": "Lisensierte verk",
+  "org.workshop.licensed.intro": "Verk eid av skaperne som bærer en av organisasjonens lisenser. Du kan promotere dem; redigering forblir hos eieren.",
+  "org.workshop.licensed.empty": "Ingen verk bærer lisensene dine ennå."
 }

@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Gerir pagamentos no Stripe",
   "orgConnect.payouts.pending": "O Stripe ainda está a verificar a conta de pagamentos desta organização. Clica abaixo para continuar o registo ou volta mais tarde.",
   "orgConnect.payouts.setup": "Configurar os pagamentos da organização",
-  "orgConnect.payouts.timeout": "O Stripe não respondeu a tempo. Tente configurar os pagamentos novamente."
+  "orgConnect.payouts.timeout": "O Stripe não respondeu a tempo. Tente configurar os pagamentos novamente.",
+  "org.workshop.licensed": "Obras licenciadas",
+  "org.workshop.licensed.intro": "Obras dos seus criadores que têm uma das licenças da sua organização. Pode promovê-las; a edição fica com o proprietário.",
+  "org.workshop.licensed.empty": "Ainda nenhuma obra tem as suas licenças."
 }

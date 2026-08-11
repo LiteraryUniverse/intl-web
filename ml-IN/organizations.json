@@ -161,5 +161,8 @@
   "org.licenses.create": "ഒരു ലൈസൻസ് സൃഷ്ടിക്കുക",
   "org.licenses.legal.label": "പൂർണ്ണ നിയമ വാചകത്തിലേക്കുള്ള ലിങ്ക്",
   "org.licenses.baseLicense.label": "LU ലൈസൻസിനെ അടിസ്ഥാനമാക്കി",
-  "org.licenses.unarchive": "ആർക്കൈവിൽ നിന്ന് നീക്കുക"
+  "org.licenses.unarchive": "ആർക്കൈവിൽ നിന്ന് നീക്കുക",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

@@ -161,5 +161,8 @@
   "org.licenses.create": "Cipta lesen",
   "org.licenses.legal.label": "Pautan ke teks undang-undang penuh",
   "org.licenses.baseLicense.label": "Berdasarkan lesen LU",
-  "org.licenses.unarchive": "Keluarkan daripada arkib"
+  "org.licenses.unarchive": "Keluarkan daripada arkib",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

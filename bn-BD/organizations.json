@@ -161,5 +161,8 @@
   "org.licenses.create": "লাইসেন্স তৈরি করুন",
   "org.licenses.legal.label": "সম্পূর্ণ আইনি পাঠ্যের লিঙ্ক",
   "org.licenses.baseLicense.label": "LU লাইসেন্সের ভিত্তিতে",
-  "org.licenses.unarchive": "আন-আর্কাইভ করুন"
+  "org.licenses.unarchive": "আন-আর্কাইভ করুন",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

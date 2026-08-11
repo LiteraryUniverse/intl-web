@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Hľadajte príbehy, univerzá, audioknihy, mangu a komiksy",
   "discover.search.typeSelection.aria": "Výber typu obsahu",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Nenašli sa žiadne výsledky} one {Nájdený # výsledok} few {Nájdené # výsledky} other {Nájdených # výsledkov}}",
-  "discovery.translation.chaptersAvailable": "Kapitoly dostupné v tomto preklade"
+  "discovery.translation.chaptersAvailable": "Kapitoly dostupné v tomto preklade",
+  "discover.searchComic.title": "Hľadať mangu a komiksy",
+  "discover.searchComic.description": "Hľadať mangu a komiksy"
 }

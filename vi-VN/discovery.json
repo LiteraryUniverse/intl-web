@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Tìm truyện, vũ trụ, sách nói, manga và truyện tranh",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "Các chương có trong bản dịch này"
+  "discovery.translation.chaptersAvailable": "Các chương có trong bản dịch này",
+  "discover.searchComic.title": "Tìm manga và truyện tranh",
+  "discover.searchComic.description": "Tìm manga và truyện tranh"
 }

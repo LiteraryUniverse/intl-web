@@ -106,5 +106,7 @@
   "discover.search.universal.description": "搜尋故事、宇宙、有聲書、漫畫",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "此翻譯可閱讀的章節"
+  "discovery.translation.chaptersAvailable": "此翻譯可閱讀的章節",
+  "discover.searchComic.title": "搜尋漫畫與漫畫作品",
+  "discover.searchComic.description": "搜尋漫畫與漫畫作品"
 }

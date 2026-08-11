@@ -161,5 +161,8 @@
   "org.licenses.create": "建立許可證",
   "org.licenses.legal.label": "完整法律文本連結",
   "org.licenses.baseLicense.label": "基於 LU 許可證",
-  "org.licenses.unarchive": "取消封存"
+  "org.licenses.unarchive": "取消封存",
+  "org.workshop.licensed": "授權作品",
+  "org.workshop.licensed.intro": "由創作者擁有、並帶有貴組織授權的作品。你可以推廣它們；編輯權仍屬擁有者。",
+  "org.workshop.licensed.empty": "尚未有作品使用你的授權。"
 }

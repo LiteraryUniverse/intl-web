@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Stripe இல் பணப்பட்டுவாடாவை நிர்வகி",
   "orgConnect.payouts.pending": "இந்த அமைப்பின் பணப்பட்டுவாடா கணக்கை Stripe இன்னும் சரிபார்த்து வருகிறது. தொடர கீழே கிளிக் செய்யவும் அல்லது பிறகு மீண்டும் பார்க்கவும்.",
   "orgConnect.payouts.setup": "அமைப்பின் பணப்பட்டுவாடாவை அமை",
-  "orgConnect.payouts.timeout": "Stripe சரியான நேரத்தில் பதிலளிக்கவில்லை. பணம் செலுத்தல்களை மீண்டும் அமைக்க முயற்சிக்கவும்."
+  "orgConnect.payouts.timeout": "Stripe சரியான நேரத்தில் பதிலளிக்கவில்லை. பணம் செலுத்தல்களை மீண்டும் அமைக்க முயற்சிக்கவும்.",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

@@ -106,5 +106,7 @@
   "discover.search.universal.description": "কাহিনী, ব্ৰহ্মাণ্ড, অডিঅ' বুক, মাংগা আৰু কমিক সন্ধান কৰক",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "এই অনুবাদত উপলব্ধ অধ্যায়সমূহ"
+  "discovery.translation.chaptersAvailable": "এই অনুবাদত উপলব্ধ অধ্যায়সমূহ",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

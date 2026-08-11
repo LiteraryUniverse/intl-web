@@ -161,5 +161,8 @@
   "org.licenses.create": "Tạo giấy phép",
   "org.licenses.legal.label": "Liên kết đến toàn văn pháp lý",
   "org.licenses.baseLicense.label": "Dựa trên giấy phép LU",
-  "org.licenses.unarchive": "Bỏ lưu trữ"
+  "org.licenses.unarchive": "Bỏ lưu trữ",
+  "org.workshop.licensed": "Tác phẩm được cấp phép",
+  "org.workshop.licensed.intro": "Tác phẩm thuộc về người sáng tạo và mang một trong các giấy phép của tổ chức bạn. Bạn có thể quảng bá; quyền chỉnh sửa vẫn thuộc chủ sở hữu.",
+  "org.workshop.licensed.empty": "Chưa có tác phẩm nào mang giấy phép của bạn."
 }

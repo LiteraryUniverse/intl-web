@@ -161,5 +161,8 @@
   "org.licenses.create": "ლიცენზიის შექმნა",
   "org.licenses.legal.label": "ბმული სრულ იურიდიულ ტექსტზე",
   "org.licenses.baseLicense.label": "დაფუძნებულია LU ლიცენზიაზე",
-  "org.licenses.unarchive": "არქივიდან ამოღება"
+  "org.licenses.unarchive": "არქივიდან ამოღება",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

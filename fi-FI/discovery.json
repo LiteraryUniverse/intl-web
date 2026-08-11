@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Hae tarinoita, universumeita, äänikirjoja, mangaa ja sarjakuvia",
   "discover.search.typeSelection.aria": "Sisältötyypin valinta",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Ei tuloksia} one {# tulos löytyi} other {# tulosta löytyi}}",
-  "discovery.translation.chaptersAvailable": "Tässä käännöksessä saatavilla olevat luvut"
+  "discovery.translation.chaptersAvailable": "Tässä käännöksessä saatavilla olevat luvut",
+  "discover.searchComic.title": "Etsi mangaa ja sarjakuvia",
+  "discover.searchComic.description": "Etsi mangaa ja sarjakuvia"
 }

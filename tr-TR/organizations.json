@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Ödemeleri Stripe'ta yönet",
   "orgConnect.payouts.pending": "Stripe bu organizasyonun ödeme hesabını hâlâ doğruluyor. Katılım sürecine devam etmek için aşağıya tıklayın veya daha sonra tekrar kontrol edin.",
   "orgConnect.payouts.setup": "Organizasyon ödemelerini ayarla",
-  "orgConnect.payouts.timeout": "Stripe zamanında yanıt vermedi. Lütfen ödemeleri yeniden ayarlamayı deneyin."
+  "orgConnect.payouts.timeout": "Stripe zamanında yanıt vermedi. Lütfen ödemeleri yeniden ayarlamayı deneyin.",
+  "org.workshop.licensed": "Lisanslı eserler",
+  "org.workshop.licensed.intro": "Yaratıcılarına ait ve kuruluşunuzun lisanslarından birini taşıyan eserler. Tanıtabilirsiniz; düzenleme sahiplerinde kalır.",
+  "org.workshop.licensed.empty": "Henüz lisanslarınızı taşıyan eser yok."
 }

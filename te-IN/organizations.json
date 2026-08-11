@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Stripe‌లో చెల్లింపులను నిర్వహించు",
   "orgConnect.payouts.pending": "ఈ సంస్థ చెల్లింపు ఖాతాను Stripe ఇంకా ధృవీకరిస్తోంది. కొనసాగించడానికి క్రింద క్లిక్ చేయండి లేదా తర్వాత మళ్లీ చూడండి.",
   "orgConnect.payouts.setup": "సంస్థ చెల్లింపులను సెటప్ చేయి",
-  "orgConnect.payouts.timeout": "Stripe సమయానికి స్పందించలేదు. దయచేసి చెల్లింపులను మళ్లీ సెటప్ చేయడానికి ప్రయత్నించండి."
+  "orgConnect.payouts.timeout": "Stripe సమయానికి స్పందించలేదు. దయచేసి చెల్లింపులను మళ్లీ సెటప్ చేయడానికి ప్రయత్నించండి.",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

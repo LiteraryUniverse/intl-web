@@ -161,5 +161,8 @@
   "org.licenses.create": "Krei permesilon",
   "org.licenses.legal.label": "Ligilo al la plena jura teksto",
   "org.licenses.baseLicense.label": "Bazita sur permesilo de LU",
-  "org.licenses.unarchive": "Malarkivi"
+  "org.licenses.unarchive": "Malarkivi",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

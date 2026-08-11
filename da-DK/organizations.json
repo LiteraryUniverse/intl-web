@@ -161,5 +161,8 @@
   "org.licenses.create": "Opret en licens",
   "org.licenses.legal.label": "Link til den fulde juridiske tekst",
   "org.licenses.baseLicense.label": "Baseret på LU-licens",
-  "org.licenses.unarchive": "Fjern fra arkiv"
+  "org.licenses.unarchive": "Fjern fra arkiv",
+  "org.workshop.licensed": "Licenserede værker",
+  "org.workshop.licensed.intro": "Værker ejet af deres skabere, som bærer en af din organisations licenser. Du kan promovere dem; redigering forbliver hos ejeren.",
+  "org.workshop.licensed.empty": "Ingen værker bærer dine licenser endnu."
 }

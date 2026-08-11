@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Zoek verhalen, universums, luisterboeken, manga en strips",
   "discover.search.typeSelection.aria": "Selectie van contenttype",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Geen resultaten gevonden} one {# resultaat gevonden} other {# resultaten gevonden}}",
-  "discovery.translation.chaptersAvailable": "Hoofdstukken beschikbaar in deze vertaling"
+  "discovery.translation.chaptersAvailable": "Hoofdstukken beschikbaar in deze vertaling",
+  "discover.searchComic.title": "Zoek manga en strips",
+  "discover.searchComic.description": "Zoek naar manga en strips"
 }

@@ -106,5 +106,7 @@
   "discover.search.universal.description": "스토리, 유니버스, 오디오북, 만화를 검색하세요",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "이 번역에서 볼 수 있는 챕터"
+  "discovery.translation.chaptersAvailable": "이 번역에서 볼 수 있는 챕터",
+  "discover.searchComic.title": "만화 및 코믹 검색",
+  "discover.searchComic.description": "만화 및 코믹 검색"
 }

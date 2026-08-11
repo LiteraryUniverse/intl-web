@@ -154,5 +154,16 @@
   "email.comics.chapterPublished.subject": "פרק חדש זמין: \"{comicTitle}\"",
   "email.comics.chapterPublished.title": "פרק חדש פורסם",
   "email.comics.chapterPublished.details": "קומיקס: {comicTitle} • פרק: {chapterTitle}",
-  "email.comics.chapterPublished.cta": "פתח פרק"
+  "email.comics.chapterPublished.cta": "פתח פרק",
+  "email.notifications.qaNewQuestion.subject": "שאלה חדשה ב-{blogName}",
+  "email.notifications.qaNewQuestion.preview": "שאלה חדשה ב-{blogName} מ-{askerName}",
+  "email.notifications.qaNewQuestion.title": "יש לך שאלה חדשה!",
+  "email.notifications.qaNewQuestion.details": "{askerName} שאל שאלה בבלוג שלך \"{blogName}\":",
+  "email.notifications.qaNewQuestion.cta": "ענה על השאלה",
+  "email.notifications.qaAnswerReceived.subject": "{authorName} ענה על השאלה שלך",
+  "email.notifications.qaAnswerReceived.preview": "{authorName} ענה על השאלה שלך ב-{blogName}",
+  "email.notifications.qaAnswerReceived.title": "השאלה שלך נענתה!",
+  "email.notifications.qaAnswerReceived.details": "{authorName} ענה על השאלה שלך ב-\"{blogName}\":",
+  "email.notifications.qaAnswerReceived.privateNote": "תשובה זו פרטית ונראית רק לך.",
+  "email.notifications.qaAnswerReceived.cta": "הצג תשובה"
 }

@@ -106,5 +106,7 @@
   "discover.search.universal.description": "കഥകൾ, പ്രപഞ്ചങ്ങൾ, ഓഡിയോബുക്കുകൾ, മാംഗ, കോമിക്സ് എന്നിവ തിരയുക",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "ഈ വിവർത്തനത്തിൽ ലഭ്യമായ അധ്യായങ്ങൾ"
+  "discovery.translation.chaptersAvailable": "ഈ വിവർത്തനത്തിൽ ലഭ്യമായ അധ്യായങ്ങൾ",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

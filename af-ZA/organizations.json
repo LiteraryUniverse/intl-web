@@ -161,5 +161,8 @@
   "org.licenses.create": "Skep 'n lisensie",
   "org.licenses.legal.label": "Skakel na die volledige regsteks",
   "org.licenses.baseLicense.label": "Gebaseer op LU-lisensie",
-  "org.licenses.unarchive": "Ontargiveer"
+  "org.licenses.unarchive": "Ontargiveer",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

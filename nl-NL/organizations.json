@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Uitbetalingen beheren op Stripe",
   "orgConnect.payouts.pending": "Stripe is het uitbetalingsaccount van deze organisatie nog aan het verifiëren. Klik hieronder om door te gaan met de registratie of kom later terug.",
   "orgConnect.payouts.setup": "Organisatie-uitbetalingen instellen",
-  "orgConnect.payouts.timeout": "Stripe reageerde niet op tijd. Probeer de uitbetalingen opnieuw in te stellen."
+  "orgConnect.payouts.timeout": "Stripe reageerde niet op tijd. Probeer de uitbetalingen opnieuw in te stellen.",
+  "org.workshop.licensed": "Gelicentieerde werken",
+  "org.workshop.licensed.intro": "Werken van hun makers die een van de licenties van je organisatie dragen. Je kunt ze promoten; bewerken blijft bij de eigenaar.",
+  "org.workshop.licensed.empty": "Er dragen nog geen werken je licenties."
 }

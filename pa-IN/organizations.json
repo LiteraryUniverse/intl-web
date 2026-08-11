@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Stripe 'ਤੇ ਭੁਗਤਾਨ ਪ੍ਰਬੰਧਿਤ ਕਰੋ",
   "orgConnect.payouts.pending": "Stripe ਹਾਲੇ ਵੀ ਇਸ ਸੰਗਠਨ ਦੇ ਭੁਗਤਾਨ ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰ ਰਿਹਾ ਹੈ। ਆਨਬੋਰਡਿੰਗ ਜਾਰੀ ਰੱਖਣ ਲਈ ਹੇਠਾਂ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਦੇਖੋ।",
   "orgConnect.payouts.setup": "ਸੰਗਠਨ ਭੁਗਤਾਨ ਸੈੱਟ ਕਰੋ",
-  "orgConnect.payouts.timeout": "Stripe ਨੇ ਸਮੇਂ ਸਿਰ ਜਵਾਬ ਨਹੀਂ ਦਿੱਤਾ। ਕਿਰਪਾ ਕਰਕੇ ਭੁਗਤਾਨ ਮੁੜ ਸੈੱਟ ਅੱਪ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  "orgConnect.payouts.timeout": "Stripe ਨੇ ਸਮੇਂ ਸਿਰ ਜਵਾਬ ਨਹੀਂ ਦਿੱਤਾ। ਕਿਰਪਾ ਕਰਕੇ ਭੁਗਤਾਨ ਮੁੜ ਸੈੱਟ ਅੱਪ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

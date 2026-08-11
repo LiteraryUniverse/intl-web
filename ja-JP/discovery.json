@@ -106,5 +106,7 @@
   "discover.search.universal.description": "ストーリー、ユニバース、オーディオブック、マンガ・コミックを検索",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "この翻訳で読める章"
+  "discovery.translation.chaptersAvailable": "この翻訳で読める章",
+  "discover.searchComic.title": "マンガ・コミックを検索",
+  "discover.searchComic.description": "マンガとコミックを検索"
 }

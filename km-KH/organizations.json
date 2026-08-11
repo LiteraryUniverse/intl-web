@@ -161,5 +161,8 @@
   "org.licenses.create": "បង្កើតអាជ្ញាប័ណ្ណ",
   "org.licenses.legal.label": "តំណទៅអត្ថបទផ្លូវច្បាប់ពេញលេញ",
   "org.licenses.baseLicense.label": "ផ្អែកលើអាជ្ញាប័ណ្ណ LU",
-  "org.licenses.unarchive": "ដកចេញពីបណ្ណសារ"
+  "org.licenses.unarchive": "ដកចេញពីបណ្ណសារ",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

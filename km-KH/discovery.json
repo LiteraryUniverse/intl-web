@@ -106,5 +106,7 @@
   "discover.search.universal.description": "ស្វែងរករឿង សកលលោក សៀវភៅសំឡេង ម៉ង់ហ្គា និងរឿងកំប្លែង",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "ជំពូកដែលមាននៅក្នុងការបកប្រែនេះ"
+  "discovery.translation.chaptersAvailable": "ជំពូកដែលមាននៅក្នុងការបកប្រែនេះ",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }

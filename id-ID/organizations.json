@@ -161,5 +161,8 @@
   "org.licenses.create": "Buat lisensi",
   "org.licenses.legal.label": "Tautan ke teks hukum lengkap",
   "org.licenses.baseLicense.label": "Berdasarkan lisensi LU",
-  "org.licenses.unarchive": "Batalkan arsip"
+  "org.licenses.unarchive": "Batalkan arsip",
+  "org.workshop.licensed": "Karya berlisensi",
+  "org.workshop.licensed.intro": "Karya milik penciptanya yang membawa salah satu lisensi organisasi Anda. Anda dapat mempromosikannya; pengeditan tetap pada pemilik.",
+  "org.workshop.licensed.empty": "Belum ada karya yang membawa lisensi Anda."
 }

@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Stripe પર પેઆઉટ મેનેજ કરો",
   "orgConnect.payouts.pending": "Stripe હજી આ સંસ્થાના પેઆઉટ ખાતાની ચકાસણી કરી રહ્યું છે. ઓનબોર્ડિંગ ચાલુ રાખવા નીચે ક્લિક કરો અથવા પછીથી ફરી તપાસો.",
   "orgConnect.payouts.setup": "સંસ્થાના પેઆઉટ સેટ કરો",
-  "orgConnect.payouts.timeout": "Stripeએ સમયસર જવાબ આપ્યો નથી. કૃપા કરીને ફરીથી પેઆઉટ સેટ અપ કરવાનો પ્રયાસ કરો."
+  "orgConnect.payouts.timeout": "Stripeએ સમયસર જવાબ આપ્યો નથી. કૃપા કરીને ફરીથી પેઆઉટ સેટ અપ કરવાનો પ્રયાસ કરો.",
+  "org.workshop.licensed": "Licensed works",
+  "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
+  "org.workshop.licensed.empty": "No works carry your licenses yet."
 }

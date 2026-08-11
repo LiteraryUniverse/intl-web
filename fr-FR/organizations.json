@@ -161,5 +161,8 @@
   "orgConnect.payouts.manage": "Gérer les versements sur Stripe",
   "orgConnect.payouts.pending": "Stripe vérifie encore le compte de versement de cette organisation. Cliquez ci-dessous pour poursuivre la configuration ou revenez plus tard.",
   "orgConnect.payouts.setup": "Configurer les versements de l’organisation",
-  "orgConnect.payouts.timeout": "Stripe n’a pas répondu à temps. Veuillez réessayer de configurer les versements."
+  "orgConnect.payouts.timeout": "Stripe n’a pas répondu à temps. Veuillez réessayer de configurer les versements.",
+  "org.workshop.licensed": "Œuvres sous licence",
+  "org.workshop.licensed.intro": "Œuvres appartenant à leurs créateurs et portant l’une des licences de votre organisation. Vous pouvez les promouvoir ; l’édition reste au propriétaire.",
+  "org.workshop.licensed.empty": "Aucune œuvre ne porte encore vos licences."
 }

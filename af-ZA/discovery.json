@@ -106,5 +106,7 @@
   "discover.search.universal.description": "Soek vir stories, heelalle, oudioboeke, manga en strokiesprente",
   "discover.search.typeSelection.aria": "Content type selection",
   "discover.search.resultsTotal.all": "{results, plural, =0 {No results found} one {# result found} other {# results found}}",
-  "discovery.translation.chaptersAvailable": "Hoofstukke beskikbaar in hierdie vertaling"
+  "discovery.translation.chaptersAvailable": "Hoofstukke beskikbaar in hierdie vertaling",
+  "discover.searchComic.title": "Search for manga & comics",
+  "discover.searchComic.description": "Search for manga and comics"
 }
