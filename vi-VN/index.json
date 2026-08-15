@@ -277,6 +277,8 @@
   "blog.pages.edit": "Đang chỉnh sửa {title}",
   "blog.pages.empty": "Bạn chưa có trang nào. Trang dành cho nội dung không phải bài viết — như Giới thiệu hoặc Nhận đặt hàng.",
   "blog.pages.builtIn": "Tích hợp",
+  "blog.pages.showIntro": "Hiện phần giới thiệu",
+  "blog.pages.hideIntro": "Ẩn phần giới thiệu",
   "blog.pages.homepage": "Trang chủ",
   "blog.pages.setHomepage": "Dùng làm trang chủ",
   "blog.pages.clearHomepage": "Ngừng dùng làm trang chủ",

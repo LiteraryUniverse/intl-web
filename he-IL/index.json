@@ -277,6 +277,8 @@
   "blog.pages.edit": "עריכת {title}",
   "blog.pages.empty": "אין לכם עמודים עדיין. עמודים מיועדים לתוכן שאינו פוסט — כמו אודות או הזמנות.",
   "blog.pages.builtIn": "מובנה",
+  "blog.pages.showIntro": "הצג פתיח",
+  "blog.pages.hideIntro": "הסתר פתיח",
   "blog.pages.homepage": "עמוד הבית",
   "blog.pages.setHomepage": "שימוש כעמוד הבית",
   "blog.pages.clearHomepage": "הפסקת שימוש כעמוד הבית",

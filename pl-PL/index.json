@@ -277,6 +277,8 @@
   "blog.pages.edit": "Edycja {title}",
   "blog.pages.empty": "Nie masz jeszcze żadnych stron. Strony służą do treści, które nie są wpisami – np. O mnie lub Zlecenia.",
   "blog.pages.builtIn": "Wbudowana",
+  "blog.pages.showIntro": "Pokaż wstęp",
+  "blog.pages.hideIntro": "Ukryj wstęp",
   "blog.pages.homepage": "Strona główna",
   "blog.pages.setHomepage": "Ustaw jako stronę główną",
   "blog.pages.clearHomepage": "Przestań używać jako strony głównej",

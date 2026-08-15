@@ -277,6 +277,8 @@
   "blog.pages.edit": "{title} རྩོམ་སྒྲིག་བྱེད་བཞིན།",
   "blog.pages.empty": "ཁྱེད་ལ་ད་དུང་ཤོག་ངོས་མེད། ཤོག་ངོས་ནི་རྩོམ་ཡིག་མིན་པའི་ནང་དོན་ཆེད་ཡིན། དཔེར་ན་ངོ་སྤྲོད་དང་བཀའ་མངགས།",
   "blog.pages.builtIn": "ནང་ཆུད།",
+  "blog.pages.showIntro": "ངོ་སྤྲོད་སྟོན།",
+  "blog.pages.hideIntro": "ངོ་སྤྲོད་སྦས།",
   "blog.pages.homepage": "མདུན་ཤོག",
   "blog.pages.setHomepage": "མདུན་ཤོག་ཏུ་བེད་སྤྱོད།",
   "blog.pages.clearHomepage": "མདུན་ཤོག་ཏུ་བེད་སྤྱོད་མཚམས་འཇོག",

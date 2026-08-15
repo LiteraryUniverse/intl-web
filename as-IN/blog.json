@@ -157,6 +157,8 @@
   "blog.pages.edit": "{title} সম্পাদনা কৰা হৈছে",
   "blog.pages.empty": "আপোনাৰ এতিয়ালৈকে কোনো পৃষ্ঠা নাই। পৃষ্ঠা এনে সমলৰ বাবে যি প'ষ্ট নহয় — যেনে পৰিচয় বা কমিছন।",
   "blog.pages.builtIn": "অন্তৰ্নিৰ্মিত",
+  "blog.pages.showIntro": "পাতনি দেখুৱাওক",
+  "blog.pages.hideIntro": "পাতনি লুকুৱাওক",
   "blog.pages.homepage": "মুখ্য পৃষ্ঠা",
   "blog.pages.setHomepage": "মুখ্য পৃষ্ঠা হিচাপে ব্যৱহাৰ কৰক",
   "blog.pages.clearHomepage": "মুখ্য পৃষ্ঠা হিচাপে ব্যৱহাৰ বন্ধ কৰক",

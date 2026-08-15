@@ -287,6 +287,8 @@
   "blog.pages.edit": "Editing {title}",
   "blog.pages.empty": "You don't have any pages yet. Pages are for content that isn't a post — like About or Commissions.",
   "blog.pages.builtIn": "Built-in",
+  "blog.pages.showIntro": "Show intro",
+  "blog.pages.hideIntro": "Hide intro",
   "blog.pages.homepage": "Homepage",
   "blog.pages.setHomepage": "Use as homepage",
   "blog.pages.clearHomepage": "Stop using as homepage",

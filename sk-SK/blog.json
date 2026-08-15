@@ -157,6 +157,8 @@
   "blog.pages.edit": "Úprava {title}",
   "blog.pages.empty": "Zatiaľ nemáte žiadne stránky. Stránky slúžia na obsah, ktorý nie je príspevkom – napríklad O mne alebo Zákazky.",
   "blog.pages.builtIn": "Vstavaná",
+  "blog.pages.showIntro": "Zobraziť úvod",
+  "blog.pages.hideIntro": "Skryť úvod",
   "blog.pages.homepage": "Úvodná stránka",
   "blog.pages.setHomepage": "Použiť ako úvodnú stránku",
   "blog.pages.clearHomepage": "Prestať používať ako úvodnú stránku",

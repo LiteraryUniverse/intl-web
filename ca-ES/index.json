@@ -277,6 +277,8 @@
   "blog.pages.edit": "S'està editant {title}",
   "blog.pages.empty": "Encara no teniu pàgines. Les pàgines són per a contingut que no és una entrada, com Quant a o Encàrrecs.",
   "blog.pages.builtIn": "Integrada",
+  "blog.pages.showIntro": "Mostra la introducció",
+  "blog.pages.hideIntro": "Amaga la introducció",
   "blog.pages.homepage": "Pàgina d'inici",
   "blog.pages.setHomepage": "Utilitza com a pàgina d'inici",
   "blog.pages.clearHomepage": "Deixa d'utilitzar com a pàgina d'inici",

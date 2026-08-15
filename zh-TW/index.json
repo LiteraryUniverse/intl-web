@@ -277,6 +277,8 @@
   "blog.pages.edit": "正在編輯 {title}",
   "blog.pages.empty": "您還沒有任何頁面。頁面適合非文章的內容，例如「關於」或「委託」。",
   "blog.pages.builtIn": "內建",
+  "blog.pages.showIntro": "顯示簡介",
+  "blog.pages.hideIntro": "隱藏簡介",
   "blog.pages.homepage": "首頁",
   "blog.pages.setHomepage": "設為首頁",
   "blog.pages.clearHomepage": "取消設為首頁",

@@ -157,6 +157,8 @@
   "blog.pages.edit": "{title} सम्पादन हुँदैछ",
   "blog.pages.empty": "तपाईंसँग अझै कुनै पृष्ठ छैन। पृष्ठहरू पोस्ट नभएको सामग्रीका लागि हुन् — जस्तै मेरो बारेमा वा कमिसन।",
   "blog.pages.builtIn": "निर्मित",
+  "blog.pages.showIntro": "परिचय देखाउनुहोस्",
+  "blog.pages.hideIntro": "परिचय लुकाउनुहोस्",
   "blog.pages.homepage": "गृहपृष्ठ",
   "blog.pages.setHomepage": "गृहपृष्ठका रूपमा प्रयोग गर्नुहोस्",
   "blog.pages.clearHomepage": "गृहपृष्ठका रूपमा प्रयोग बन्द गर्नुहोस्",

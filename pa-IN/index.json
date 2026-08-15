@@ -277,6 +277,8 @@
   "blog.pages.edit": "{title} ਸੰਪਾਦਿਤ ਹੋ ਰਿਹਾ ਹੈ",
   "blog.pages.empty": "ਤੁਹਾਡੇ ਕੋਲ ਅਜੇ ਕੋਈ ਪੰਨਾ ਨਹੀਂ ਹੈ। ਪੰਨੇ ਅਜਿਹੀ ਸਮੱਗਰੀ ਲਈ ਹਨ ਜੋ ਪੋਸਟ ਨਹੀਂ ਹੈ — ਜਿਵੇਂ ਮੇਰੇ ਬਾਰੇ ਜਾਂ ਕਮਿਸ਼ਨ।",
   "blog.pages.builtIn": "ਬਿਲਟ-ਇਨ",
+  "blog.pages.showIntro": "ਜਾਣ-ਪਛਾਣ ਦਿਖਾਓ",
+  "blog.pages.hideIntro": "ਜਾਣ-ਪਛਾਣ ਲੁਕਾਓ",
   "blog.pages.homepage": "ਮੁੱਖ ਪੰਨਾ",
   "blog.pages.setHomepage": "ਮੁੱਖ ਪੰਨੇ ਵਜੋਂ ਵਰਤੋ",
   "blog.pages.clearHomepage": "ਮੁੱਖ ਪੰਨੇ ਵਜੋਂ ਵਰਤਣਾ ਬੰਦ ਕਰੋ",

@@ -157,6 +157,8 @@
   "blog.pages.edit": "{title} を編集中",
   "blog.pages.empty": "まだページがありません。ページは「自己紹介」や「依頼について」など、記事ではないコンテンツ向けです。",
   "blog.pages.builtIn": "標準",
+  "blog.pages.showIntro": "イントロを表示",
+  "blog.pages.hideIntro": "イントロを非表示",
   "blog.pages.homepage": "ホームページ",
   "blog.pages.setHomepage": "ホームページに設定",
   "blog.pages.clearHomepage": "ホームページ設定を解除",

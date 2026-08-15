@@ -277,6 +277,8 @@
   "blog.pages.edit": "กำลังแก้ไข {title}",
   "blog.pages.empty": "คุณยังไม่มีหน้า หน้าเหมาะสำหรับเนื้อหาที่ไม่ใช่โพสต์ เช่น เกี่ยวกับ หรือ รับงาน",
   "blog.pages.builtIn": "ในตัว",
+  "blog.pages.showIntro": "แสดงบทนำ",
+  "blog.pages.hideIntro": "ซ่อนบทนำ",
   "blog.pages.homepage": "หน้าแรก",
   "blog.pages.setHomepage": "ใช้เป็นหน้าแรก",
   "blog.pages.clearHomepage": "เลิกใช้เป็นหน้าแรก",

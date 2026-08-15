@@ -277,6 +277,8 @@
   "blog.pages.edit": "{title} რედაქტირდება",
   "blog.pages.empty": "გვერდები ჯერ არ გაქვთ. გვერდები იმ შინაარსისთვისაა, რომელიც პოსტი არ არის — მაგ. ჩემ შესახებ ან შეკვეთები.",
   "blog.pages.builtIn": "ჩაშენებული",
+  "blog.pages.showIntro": "შესავლის ჩვენება",
+  "blog.pages.hideIntro": "შესავლის დამალვა",
   "blog.pages.homepage": "მთავარი გვერდი",
   "blog.pages.setHomepage": "მთავარ გვერდად გამოყენება",
   "blog.pages.clearHomepage": "მთავარ გვერდად გამოყენების შეწყვეტა",

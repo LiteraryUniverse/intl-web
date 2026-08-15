@@ -157,6 +157,8 @@
   "blog.pages.edit": "{title} bearbeiten",
   "blog.pages.empty": "Du hast noch keine Seiten. Seiten sind für Inhalte, die keine Beiträge sind – z. B. Über mich oder Aufträge.",
   "blog.pages.builtIn": "Integriert",
+  "blog.pages.showIntro": "Einleitung anzeigen",
+  "blog.pages.hideIntro": "Einleitung ausblenden",
   "blog.pages.homepage": "Startseite",
   "blog.pages.setHomepage": "Als Startseite verwenden",
   "blog.pages.clearHomepage": "Nicht mehr als Startseite verwenden",

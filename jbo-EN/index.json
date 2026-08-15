@@ -277,6 +277,8 @@
   "blog.pages.edit": "ca'o galfi la'o zoi {title} zoi",
   "blog.pages.empty": "do na ponse pa papri .i lo papri cu srana lo naldatni pe lo notci — mu'a lo se skicu .a lo se cpedu",
   "blog.pages.builtIn": "jinzi",
+  "blog.pages.showIntro": "viska lo lidne",
+  "blog.pages.hideIntro": "mipri lo lidne",
   "blog.pages.homepage": "ralju papri",
   "blog.pages.setHomepage": "pilno fi lo ralju papri",
   "blog.pages.clearHomepage": "sisti lo nu pilno fi lo ralju papri",

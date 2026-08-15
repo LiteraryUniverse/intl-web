@@ -277,6 +277,8 @@
   "blog.pages.edit": "{title} എഡിറ്റ് ചെയ്യുന്നു",
   "blog.pages.empty": "നിങ്ങൾക്ക് ഇതുവരെ പേജുകളില്ല. പോസ്റ്റ് അല്ലാത്ത ഉള്ളടക്കത്തിനാണ് പേജുകൾ — ഉദാ. എന്നെക്കുറിച്ച് അല്ലെങ്കിൽ കമ്മീഷനുകൾ.",
   "blog.pages.builtIn": "ബിൽറ്റ്-ഇൻ",
+  "blog.pages.showIntro": "ആമുഖം കാണിക്കുക",
+  "blog.pages.hideIntro": "ആമുഖം മറയ്ക്കുക",
   "blog.pages.homepage": "ഹോംപേജ്",
   "blog.pages.setHomepage": "ഹോംപേജായി ഉപയോഗിക്കുക",
   "blog.pages.clearHomepage": "ഹോംപേജായി ഉപയോഗിക്കുന്നത് നിർത്തുക",

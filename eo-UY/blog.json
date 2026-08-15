@@ -157,6 +157,8 @@
   "blog.pages.edit": "Redaktado de {title}",
   "blog.pages.empty": "Vi ankoraŭ ne havas paĝojn. Paĝoj estas por enhavo, kiu ne estas afiŝo – kiel Pri mi aŭ Mendoj.",
   "blog.pages.builtIn": "Enkonstruita",
+  "blog.pages.showIntro": "Montri enkondukon",
+  "blog.pages.hideIntro": "Kaŝi enkondukon",
   "blog.pages.homepage": "Ĉefpaĝo",
   "blog.pages.setHomepage": "Uzi kiel ĉefpaĝon",
   "blog.pages.clearHomepage": "Ĉesi uzi kiel ĉefpaĝon",

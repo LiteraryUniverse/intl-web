@@ -277,6 +277,8 @@
   "blog.pages.edit": "Nyunting {title}",
   "blog.pages.empty": "Sampeyan durung duwe kaca. Kaca kanggo konten sing dudu kiriman — kaya Babagan utawa Pesenan.",
   "blog.pages.builtIn": "Bawaan",
+  "blog.pages.showIntro": "Tampilake intro",
+  "blog.pages.hideIntro": "Delikake intro",
   "blog.pages.homepage": "Kaca ngarep",
   "blog.pages.setHomepage": "Gunakake minangka kaca ngarep",
   "blog.pages.clearHomepage": "Mandheg nggunakake minangka kaca ngarep",

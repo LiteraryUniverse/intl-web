@@ -157,6 +157,8 @@
   "blog.pages.edit": "Editando {title}",
   "blog.pages.empty": "Você ainda não tem páginas. Páginas são para conteúdo que não é post – como Sobre ou Encomendas.",
   "blog.pages.builtIn": "Integrada",
+  "blog.pages.showIntro": "Mostrar introdução",
+  "blog.pages.hideIntro": "Ocultar introdução",
   "blog.pages.homepage": "Página inicial",
   "blog.pages.setHomepage": "Usar como página inicial",
   "blog.pages.clearHomepage": "Parar de usar como página inicial",

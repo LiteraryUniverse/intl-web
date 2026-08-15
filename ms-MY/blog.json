@@ -157,6 +157,8 @@
   "blog.pages.edit": "Mengedit {title}",
   "blog.pages.empty": "Anda belum ada halaman. Halaman untuk kandungan yang bukan kiriman — seperti Perihal atau Tempahan.",
   "blog.pages.builtIn": "Terbina dalam",
+  "blog.pages.showIntro": "Tunjukkan pengenalan",
+  "blog.pages.hideIntro": "Sembunyikan pengenalan",
   "blog.pages.homepage": "Halaman utama",
   "blog.pages.setHomepage": "Guna sebagai halaman utama",
   "blog.pages.clearHomepage": "Berhenti guna sebagai halaman utama",

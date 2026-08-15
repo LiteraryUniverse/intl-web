@@ -277,6 +277,8 @@
   "blog.pages.edit": "{title} szerkesztése",
   "blog.pages.empty": "Még nincsenek oldalai. Az oldalak nem bejegyzés jellegű tartalomhoz valók – például Rólam vagy Megrendelések.",
   "blog.pages.builtIn": "Beépített",
+  "blog.pages.showIntro": "Bevezető megjelenítése",
+  "blog.pages.hideIntro": "Bevezető elrejtése",
   "blog.pages.homepage": "Kezdőlap",
   "blog.pages.setHomepage": "Használat kezdőlapként",
   "blog.pages.clearHomepage": "Kezdőlapként való használat leállítása",

@@ -157,6 +157,8 @@
   "blog.pages.edit": "Redigerer {title}",
   "blog.pages.empty": "Du har ingen sider ennå. Sider er for innhold som ikke er innlegg – som Om eller Bestillinger.",
   "blog.pages.builtIn": "Innebygd",
+  "blog.pages.showIntro": "Vis introduksjon",
+  "blog.pages.hideIntro": "Skjul introduksjon",
   "blog.pages.homepage": "Forside",
   "blog.pages.setHomepage": "Bruk som forside",
   "blog.pages.clearHomepage": "Slutt å bruke som forside",

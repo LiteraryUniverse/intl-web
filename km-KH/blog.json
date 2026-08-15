@@ -157,6 +157,8 @@
   "blog.pages.edit": "កំពុង​កែសម្រួល {title}",
   "blog.pages.empty": "អ្នក​មិនទាន់​មាន​ទំព័រ​ទេ។ ទំព័រ​សម្រាប់​មាតិកា​ដែល​មិនមែន​ជា​ប្រកាស — ដូចជា អំពី ឬ ការកម្ម៉ង់។",
   "blog.pages.builtIn": "មានស្រាប់",
+  "blog.pages.showIntro": "បង្ហាញសេចក្តីផ្តើម",
+  "blog.pages.hideIntro": "លាក់សេចក្តីផ្តើម",
   "blog.pages.homepage": "ទំព័រដើម",
   "blog.pages.setHomepage": "ប្រើ​ជា​ទំព័រដើម",
   "blog.pages.clearHomepage": "ឈប់​ប្រើ​ជា​ទំព័រដើម",
