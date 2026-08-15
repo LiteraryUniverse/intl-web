@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "Lägg till en sektion:",
   "blog.menus.addText": "Lägg till text",
   "blog.menus.addLogo": "Lägg till logotyp",
+  "blog.admin": "Bloggadministration",
   "blog.menus.pickPost": "Välj ett inlägg…",
   "blog.domains": "Domän",
   "blog.domains.info": "Servera den här bloggen från sin egen adress. Läsarna får en ren länk; skrivande och hantering stannar här.",

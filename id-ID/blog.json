@@ -180,6 +180,7 @@
   "blog.menus.quickAdd": "Tambahkan bagian:",
   "blog.menus.addText": "Tambah teks",
   "blog.menus.addLogo": "Tambah logo",
+  "blog.admin": "Admin Blog",
   "blog.menus.pickPost": "Pilih kiriman…",
   "blog.domains": "Domain",
   "blog.domains.info": "Sajikan blog ini dari alamatnya sendiri. Pembaca mendapat tautan bersih; menulis dan mengelola tetap di sini.",

@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "Aggiungi una sezione:",
   "blog.menus.addText": "Aggiungi testo",
   "blog.menus.addLogo": "Aggiungi logo",
+  "blog.admin": "Amministrazione blog",
   "blog.menus.pickPost": "Scegli un articolo…",
   "blog.domains": "Dominio",
   "blog.domains.info": "Servi questo blog dal suo indirizzo. I lettori ottengono un link pulito; scrittura e gestione restano qui.",

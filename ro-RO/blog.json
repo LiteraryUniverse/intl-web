@@ -180,6 +180,7 @@
   "blog.menus.quickAdd": "Adaugă o secțiune:",
   "blog.menus.addText": "Adaugă text",
   "blog.menus.addLogo": "Adaugă siglă",
+  "blog.admin": "Administrare blog",
   "blog.menus.pickPost": "Alege o postare…",
   "blog.domains": "Domeniu",
   "blog.domains.info": "Serviți acest blog de la propria adresă. Cititorii primesc un link curat; scrisul și administrarea rămân aici.",

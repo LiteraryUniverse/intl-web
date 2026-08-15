@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "Bereich hinzufügen:",
   "blog.menus.addText": "Text hinzufügen",
   "blog.menus.addLogo": "Logo hinzufügen",
+  "blog.admin": "Blog-Verwaltung",
   "blog.menus.pickPost": "Beitrag auswählen…",
   "blog.domains": "Domain",
   "blog.domains.info": "Betreibe diesen Blog unter eigener Adresse. Leser bekommen einen sauberen Link; Schreiben und Verwaltung bleiben hier.",

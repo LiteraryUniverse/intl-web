@@ -180,6 +180,7 @@
   "blog.menus.quickAdd": "เพิ่มส่วน:",
   "blog.menus.addText": "เพิ่มข้อความ",
   "blog.menus.addLogo": "เพิ่มโลโก้",
+  "blog.admin": "จัดการบล็อก",
   "blog.menus.pickPost": "เลือกโพสต์…",
   "blog.domains": "โดเมน",
   "blog.domains.info": "ให้บริการบล็อกนี้จากที่อยู่ของตัวเอง ผู้อ่านได้ลิงก์ที่สะอาด ส่วนการเขียนและจัดการยังอยู่ที่นี่",

@@ -180,6 +180,7 @@
   "blog.menus.quickAdd": "Añadir una sección:",
   "blog.menus.addText": "Añadir texto",
   "blog.menus.addLogo": "Añadir logotipo",
+  "blog.admin": "Administración del blog",
   "blog.menus.pickPost": "Elige una publicación…",
   "blog.domains": "Dominio",
   "blog.domains.info": "Sirve este blog desde su propia dirección. Los lectores obtienen un enlace limpio; la escritura y la gestión se quedan aquí.",

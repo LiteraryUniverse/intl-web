@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "Rovat hozzáadása:",
   "blog.menus.addText": "Szöveg hozzáadása",
   "blog.menus.addLogo": "Logó hozzáadása",
+  "blog.admin": "Blog kezelése",
   "blog.menus.pickPost": "Válassz bejegyzést…",
   "blog.domains": "Domainek",
   "blog.domains.info": "Szolgáld ki ezt a blogot saját címéről. Az olvasók tiszta linket kapnak; az írás és a kezelés itt marad.",

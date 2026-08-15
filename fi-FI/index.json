@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "Lisää osio:",
   "blog.menus.addText": "Lisää teksti",
   "blog.menus.addLogo": "Lisää logo",
+  "blog.admin": "Blogin hallinta",
   "blog.menus.pickPost": "Valitse julkaisu…",
   "blog.domains": "Verkkotunnus",
   "blog.domains.info": "Tarjoa tämä blogi omasta osoitteestaan. Lukijat saavat siistin linkin; kirjoittaminen ja hallinta pysyvät täällä.",

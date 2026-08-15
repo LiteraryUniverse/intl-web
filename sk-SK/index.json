@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "Pridať sekciu:",
   "blog.menus.addText": "Pridať text",
   "blog.menus.addLogo": "Pridať logo",
+  "blog.admin": "Správa blogu",
   "blog.menus.pickPost": "Vyberte príspevok…",
   "blog.domains": "Doména",
   "blog.domains.info": "Prevádzkujte tento blog na vlastnej adrese. Čitatelia dostanú pekný odkaz; písanie a správa zostávajú tu.",

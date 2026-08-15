@@ -180,6 +180,7 @@
   "blog.menus.quickAdd": "अनुभाग जोड़ें:",
   "blog.menus.addText": "पाठ जोड़ें",
   "blog.menus.addLogo": "लोगो जोड़ें",
+  "blog.admin": "ब्लॉग व्यवस्थापन",
   "blog.menus.pickPost": "पोस्ट चुनें…",
   "blog.domains": "डोमेन",
   "blog.domains.info": "इस ब्लॉग को उसके अपने पते से परोसें। पाठकों को साफ़ लिंक मिलता है; लेखन और प्रबंधन यहीं रहता है।",

@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "セクションを追加:",
   "blog.menus.addText": "テキストを追加",
   "blog.menus.addLogo": "ロゴを追加",
+  "blog.admin": "ブログ管理",
   "blog.menus.pickPost": "投稿を選択…",
   "blog.domains": "ドメイン",
   "blog.domains.info": "このブログを独自のアドレスで公開できます。読者にはすっきりしたリンクが届き、執筆と管理はここで行います。",

@@ -180,6 +180,7 @@
   "blog.menus.quickAdd": "Tilføj en sektion:",
   "blog.menus.addText": "Tilføj tekst",
   "blog.menus.addLogo": "Tilføj logo",
+  "blog.admin": "Blogadministration",
   "blog.menus.pickPost": "Vælg et indlæg…",
   "blog.domains": "Domæne",
   "blog.domains.info": "Servér denne blog fra sin egen adresse. Læserne får et rent link; skrivning og administration bliver her.",

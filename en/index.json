@@ -310,6 +310,7 @@
   "blog.menus.quickAdd": "Add a section:",
   "blog.menus.addText": "Add text",
   "blog.menus.addLogo": "Add logo",
+  "blog.admin": "Blog Admin",
   "blog.menus.pickPost": "Pick a post…",
   "blog.domains": "Domain",
   "blog.domains.info": "Serve this blog from its own address. Readers get a clean link; writing and management stay here.",

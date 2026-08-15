@@ -300,6 +300,7 @@
   "blog.menus.quickAdd": "섹션 추가:",
   "blog.menus.addText": "텍스트 추가",
   "blog.menus.addLogo": "로고 추가",
+  "blog.admin": "블로그 관리",
   "blog.menus.pickPost": "게시물 선택…",
   "blog.domains": "도메인",
   "blog.domains.info": "이 블로그를 고유 주소로 제공하세요. 독자는 깔끔한 링크를 받고, 글쓰기와 관리는 여기서 그대로 합니다.",
