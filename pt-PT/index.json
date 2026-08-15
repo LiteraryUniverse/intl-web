@@ -276,6 +276,7 @@
   "blog.pages.create": "Criar uma nova página",
   "blog.pages.edit": "A editar {title}",
   "blog.pages.empty": "Ainda não tem páginas. As páginas destinam-se a conteúdo que não é um artigo – como Sobre ou Encomendas.",
+  "blog.pages.builtIn": "Integrada",
   "blog.pages.homepage": "Página inicial",
   "blog.pages.setHomepage": "Usar como página inicial",
   "blog.pages.clearHomepage": "Deixar de usar como página inicial",

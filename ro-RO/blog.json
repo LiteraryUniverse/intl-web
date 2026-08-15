@@ -156,6 +156,7 @@
   "blog.pages.create": "Creați o pagină nouă",
   "blog.pages.edit": "Se editează {title}",
   "blog.pages.empty": "Nu aveți încă pagini. Paginile sunt pentru conținut care nu este articol – precum Despre sau Comenzi.",
+  "blog.pages.builtIn": "Integrată",
   "blog.pages.homepage": "Pagina de start",
   "blog.pages.setHomepage": "Folosiți ca pagină de start",
   "blog.pages.clearHomepage": "Nu mai folosiți ca pagină de start",

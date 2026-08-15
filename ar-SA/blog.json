@@ -156,6 +156,7 @@
   "blog.pages.create": "إنشاء صفحة جديدة",
   "blog.pages.edit": "تحرير {title}",
   "blog.pages.empty": "ليس لديك أي صفحات بعد. الصفحات مخصصة للمحتوى الذي ليس تدوينة — مثل «من أنا» أو «الطلبات».",
+  "blog.pages.builtIn": "مدمج",
   "blog.pages.homepage": "الصفحة الرئيسية",
   "blog.pages.setHomepage": "استخدام كصفحة رئيسية",
   "blog.pages.clearHomepage": "إيقاف استخدامها كصفحة رئيسية",

@@ -156,6 +156,7 @@
   "blog.pages.create": "Cruthaigh leathanach nua",
   "blog.pages.edit": "{title} á chur in eagar",
   "blog.pages.empty": "Níl aon leathanaigh agat fós. Is le haghaidh ábhair nach postáil é atá leathanaigh – mar shampla Maidir linn nó Coimisiúin.",
+  "blog.pages.builtIn": "Ionsuite",
   "blog.pages.homepage": "Leathanach baile",
   "blog.pages.setHomepage": "Úsáid mar leathanach baile",
   "blog.pages.clearHomepage": "Stop á úsáid mar leathanach baile",

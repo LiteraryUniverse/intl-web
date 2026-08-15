@@ -156,6 +156,7 @@
   "blog.pages.create": "Gumawa ng bagong pahina",
   "blog.pages.edit": "Ine-edit ang {title}",
   "blog.pages.empty": "Wala ka pang mga pahina. Ang mga pahina ay para sa content na hindi post — tulad ng Tungkol o Mga Komisyon.",
+  "blog.pages.builtIn": "Built-in",
   "blog.pages.homepage": "Homepage",
   "blog.pages.setHomepage": "Gamitin bilang homepage",
   "blog.pages.clearHomepage": "Itigil ang paggamit bilang homepage",

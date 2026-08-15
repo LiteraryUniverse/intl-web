@@ -156,6 +156,7 @@
   "blog.pages.create": "Crea una nuova pagina",
   "blog.pages.edit": "Modifica di {title}",
   "blog.pages.empty": "Non hai ancora pagine. Le pagine servono per contenuti che non sono post, come Chi sono o Commissioni.",
+  "blog.pages.builtIn": "Integrata",
   "blog.pages.homepage": "Pagina iniziale",
   "blog.pages.setHomepage": "Usa come pagina iniziale",
   "blog.pages.clearHomepage": "Smetti di usare come pagina iniziale",

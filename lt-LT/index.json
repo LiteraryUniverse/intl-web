@@ -276,6 +276,7 @@
   "blog.pages.create": "Sukurti naują puslapį",
   "blog.pages.edit": "Redaguojama {title}",
   "blog.pages.empty": "Dar neturite puslapių. Puslapiai skirti turiniui, kuris nėra įrašas – pvz., Apie arba Užsakymai.",
+  "blog.pages.builtIn": "Integruota",
   "blog.pages.homepage": "Pradžios puslapis",
   "blog.pages.setHomepage": "Naudoti kaip pradžios puslapį",
   "blog.pages.clearHomepage": "Nebenaudoti kaip pradžios puslapio",

@@ -156,6 +156,7 @@
   "blog.pages.create": "Nieuwe pagina maken",
   "blog.pages.edit": "{title} bewerken",
   "blog.pages.empty": "Je hebt nog geen pagina's. Pagina's zijn voor inhoud die geen bericht is – zoals Over mij of Opdrachten.",
+  "blog.pages.builtIn": "Ingebouwd",
   "blog.pages.homepage": "Startpagina",
   "blog.pages.setHomepage": "Gebruiken als startpagina",
   "blog.pages.clearHomepage": "Niet meer gebruiken als startpagina",

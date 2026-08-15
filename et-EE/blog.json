@@ -156,6 +156,7 @@
   "blog.pages.create": "Loo uus leht",
   "blog.pages.edit": "Muudetakse {title}",
   "blog.pages.empty": "Sul pole veel ühtegi lehte. Lehed on sisu jaoks, mis pole postitus – näiteks Minust või Tellimused.",
+  "blog.pages.builtIn": "Sisseehitatud",
   "blog.pages.homepage": "Avaleht",
   "blog.pages.setHomepage": "Kasuta avalehena",
   "blog.pages.clearHomepage": "Lõpeta avalehena kasutamine",

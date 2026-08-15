@@ -156,6 +156,7 @@
   "blog.pages.create": "ಹೊಸ ಪುಟ ರಚಿಸಿ",
   "blog.pages.edit": "{title} ಸಂಪಾದಿಸಲಾಗುತ್ತಿದೆ",
   "blog.pages.empty": "ನಿಮ್ಮಲ್ಲಿ ಇನ್ನೂ ಪುಟಗಳಿಲ್ಲ. ಪುಟಗಳು ಪೋಸ್ಟ್ ಅಲ್ಲದ ವಿಷಯಕ್ಕಾಗಿ — ಉದಾ. ನನ್ನ ಬಗ್ಗೆ ಅಥವಾ ಕಮಿಷನ್‌ಗಳು.",
+  "blog.pages.builtIn": "ಅಂತರ್ನಿರ್ಮಿತ",
   "blog.pages.homepage": "ಮುಖಪುಟ",
   "blog.pages.setHomepage": "ಮುಖಪುಟವಾಗಿ ಬಳಸಿ",
   "blog.pages.clearHomepage": "ಮುಖಪುಟವಾಗಿ ಬಳಸುವುದನ್ನು ನಿಲ್ಲಿಸಿ",

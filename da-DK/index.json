@@ -276,6 +276,7 @@
   "blog.pages.create": "Opret en ny side",
   "blog.pages.edit": "Redigerer {title}",
   "blog.pages.empty": "Du har ingen sider endnu. Sider er til indhold, der ikke er et indlæg – som Om eller Bestillinger.",
+  "blog.pages.builtIn": "Indbygget",
   "blog.pages.homepage": "Forside",
   "blog.pages.setHomepage": "Brug som forside",
   "blog.pages.clearHomepage": "Stop med at bruge som forside",

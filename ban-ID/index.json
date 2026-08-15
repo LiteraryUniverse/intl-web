@@ -276,6 +276,7 @@
   "blog.pages.create": "Karya kaca anyar",
   "blog.pages.edit": "Ngedit {title}",
   "blog.pages.empty": "Ragane durung madue kaca. Kaca anggen daging sane nenten kiriman — sekadi Indik utawi Pesenan.",
+  "blog.pages.builtIn": "Bawaan",
   "blog.pages.homepage": "Kaca ngarep",
   "blog.pages.setHomepage": "Anggen dados kaca ngarep",
   "blog.pages.clearHomepage": "Wusan nganggen dados kaca ngarep",

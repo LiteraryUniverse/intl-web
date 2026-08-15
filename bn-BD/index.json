@@ -276,6 +276,7 @@
   "blog.pages.create": "নতুন পৃষ্ঠা তৈরি করুন",
   "blog.pages.edit": "{title} সম্পাদনা হচ্ছে",
   "blog.pages.empty": "আপনার এখনো কোনো পৃষ্ঠা নেই। পৃষ্ঠা এমন কন্টেন্টের জন্য যা পোস্ট নয় — যেমন পরিচিতি বা কমিশন।",
+  "blog.pages.builtIn": "অন্তর্নির্মিত",
   "blog.pages.homepage": "হোমপেজ",
   "blog.pages.setHomepage": "হোমপেজ হিসেবে ব্যবহার করুন",
   "blog.pages.clearHomepage": "হোমপেজ হিসেবে ব্যবহার বন্ধ করুন",

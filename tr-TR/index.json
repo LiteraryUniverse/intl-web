@@ -276,6 +276,7 @@
   "blog.pages.create": "Yeni sayfa oluştur",
   "blog.pages.edit": "{title} düzenleniyor",
   "blog.pages.empty": "Henüz sayfanız yok. Sayfalar, Hakkımda veya Siparişler gibi gönderi olmayan içerikler içindir.",
+  "blog.pages.builtIn": "Yerleşik",
   "blog.pages.homepage": "Ana sayfa",
   "blog.pages.setHomepage": "Ana sayfa olarak kullan",
   "blog.pages.clearHomepage": "Ana sayfa olarak kullanmayı bırak",

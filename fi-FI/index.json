@@ -276,6 +276,7 @@
   "blog.pages.create": "Luo uusi sivu",
   "blog.pages.edit": "Muokataan {title}",
   "blog.pages.empty": "Sinulla ei ole vielä sivuja. Sivut ovat sisällölle, joka ei ole artikkeli – kuten Tietoja tai Tilaukset.",
+  "blog.pages.builtIn": "Sisäänrakennettu",
   "blog.pages.homepage": "Etusivu",
   "blog.pages.setHomepage": "Käytä etusivuna",
   "blog.pages.clearHomepage": "Lopeta käyttö etusivuna",

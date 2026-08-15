@@ -276,6 +276,7 @@
   "blog.pages.create": "Створити нову сторінку",
   "blog.pages.edit": "Редагування {title}",
   "blog.pages.empty": "У вас поки немає сторінок. Сторінки — для вмісту, що не є дописом, наприклад «Про мене» чи «Замовлення».",
+  "blog.pages.builtIn": "Вбудована",
   "blog.pages.homepage": "Головна сторінка",
   "blog.pages.setHomepage": "Зробити головною сторінкою",
   "blog.pages.clearHomepage": "Більше не використовувати як головну",

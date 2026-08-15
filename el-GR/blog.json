@@ -156,6 +156,7 @@
   "blog.pages.create": "Δημιουργία νέας σελίδας",
   "blog.pages.edit": "Επεξεργασία του {title}",
   "blog.pages.empty": "Δεν έχετε ακόμη σελίδες. Οι σελίδες είναι για περιεχόμενο που δεν είναι ανάρτηση – όπως Σχετικά ή Παραγγελίες.",
+  "blog.pages.builtIn": "Ενσωματωμένη",
   "blog.pages.homepage": "Αρχική σελίδα",
   "blog.pages.setHomepage": "Χρήση ως αρχική σελίδα",
   "blog.pages.clearHomepage": "Διακοπή χρήσης ως αρχικής σελίδας",

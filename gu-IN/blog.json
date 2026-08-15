@@ -156,6 +156,7 @@
   "blog.pages.create": "નવું પૃષ્ઠ બનાવો",
   "blog.pages.edit": "{title} સંપાદિત થઈ રહ્યું છે",
   "blog.pages.empty": "તમારી પાસે હજી કોઈ પૃષ્ઠ નથી. પૃષ્ઠો એવા કન્ટેન્ટ માટે છે જે પોસ્ટ નથી — જેમ કે પરિચય અથવા કમિશન.",
+  "blog.pages.builtIn": "બિલ્ટ-ઇન",
   "blog.pages.homepage": "હોમપેજ",
   "blog.pages.setHomepage": "હોમપેજ તરીકે વાપરો",
   "blog.pages.clearHomepage": "હોમપેજ તરીકે વાપરવાનું બંધ કરો",

@@ -276,6 +276,7 @@
   "blog.pages.create": "Vytvořit novou stránku",
   "blog.pages.edit": "Úprava {title}",
   "blog.pages.empty": "Zatím nemáte žádné stránky. Stránky slouží pro obsah, který není příspěvkem – například O mně nebo Zakázky.",
+  "blog.pages.builtIn": "Vestavěná",
   "blog.pages.homepage": "Úvodní stránka",
   "blog.pages.setHomepage": "Použít jako úvodní stránku",
   "blog.pages.clearHomepage": "Přestat používat jako úvodní stránku",

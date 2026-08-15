@@ -276,6 +276,7 @@
   "blog.pages.create": "Buat halaman baru",
   "blog.pages.edit": "Mengedit {title}",
   "blog.pages.empty": "Anda belum punya halaman. Halaman untuk konten yang bukan pos — seperti Tentang atau Komisi.",
+  "blog.pages.builtIn": "Bawaan",
   "blog.pages.homepage": "Beranda",
   "blog.pages.setHomepage": "Gunakan sebagai beranda",
   "blog.pages.clearHomepage": "Berhenti menggunakan sebagai beranda",

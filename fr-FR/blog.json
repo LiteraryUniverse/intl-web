@@ -156,6 +156,7 @@
   "blog.pages.create": "Créer une nouvelle page",
   "blog.pages.edit": "Modification de {title}",
   "blog.pages.empty": "Vous n'avez pas encore de pages. Les pages servent au contenu qui n'est pas un article – comme À propos ou Commandes.",
+  "blog.pages.builtIn": "Intégrée",
   "blog.pages.homepage": "Page d'accueil",
   "blog.pages.setHomepage": "Utiliser comme page d'accueil",
   "blog.pages.clearHomepage": "Ne plus utiliser comme page d'accueil",

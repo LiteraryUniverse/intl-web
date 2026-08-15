@@ -156,6 +156,7 @@
   "blog.pages.create": "కొత్త పేజీ సృష్టించండి",
   "blog.pages.edit": "{title} సవరించబడుతోంది",
   "blog.pages.empty": "మీకు ఇంకా పేజీలు లేవు. పేజీలు పోస్ట్ కాని కంటెంట్ కోసం — ఉదా. నా గురించి లేదా కమిషన్లు.",
+  "blog.pages.builtIn": "అంతర్నిర్మిత",
   "blog.pages.homepage": "హోమ్‌పేజీ",
   "blog.pages.setHomepage": "హోమ్‌పేజీగా ఉపయోగించండి",
   "blog.pages.clearHomepage": "హోమ్‌పేజీగా ఉపయోగించడం ఆపండి",
