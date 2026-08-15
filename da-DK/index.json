@@ -119,7 +119,7 @@
   "auditLog.header.action": "Hvad",
   "auditLog.header.group": "Gruppe",
   "auditLog.header.user": "Hvem",
-  "blog.noneMsg": "Du har i øjeblikket ingen {type, select,\n    organization {blog}\n    universe {en blog til dit univers}\n    user {en blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Du har i øjeblikket ingen {type, select,\n    organization {blog}\n    universe {en blog til dit univers}\n    user {en blog}\n    other {en blog}\n  }.",
   "blog.create": "Opret en ny blog",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Universe side}\n    user {Blog}\n    other {}\n  } indstillinger",
   "blog.description": "Blog introduktion",

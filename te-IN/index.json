@@ -119,7 +119,7 @@
   "auditLog.header.action": "ఏమిటి",
   "auditLog.header.group": "గ్రూప్",
   "auditLog.header.user": "ఎవరు",
-  "blog.noneMsg": "మీరు ప్రస్తుతం ఎందుకున్నారు కాదు {type, select,\n    organization {ఏదీనికి సంబంధించిన బ్లాగు లేదు}\n    universe {మీ యూనివర్స్ కోసం ఒక బ్లాగు లేదు}\n    user {బ్లాగు లేదు}\n    other {}\n  }.",
+  "blog.noneMsg": "మీరు ప్రస్తుతం ఎందుకున్నారు కాదు {type, select,\n    organization {ఏదీనికి సంబంధించిన బ్లాగు లేదు}\n    universe {మీ యూనివర్స్ కోసం ఒక బ్లాగు లేదు}\n    user {బ్లాగు లేదు}\n    other {బ్లాగు లేదు}\n  }.",
   "blog.create": "కొత్త బ్లాగ్ సృష్టించండి",
   "blog.settings": "{type, select,\n    org {బ్లాగ్}\n    universe {యూనివర్స్ పేజీ}\n    user {బ్లాగ్}\n    other {}\n  } అమరికై సెట్టింగ్లు",
   "blog.description": "బ్లాగ్ పరిచయం",

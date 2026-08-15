@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "현재 {type, select,\n    organization {블로그가 없습니다.}\n    universe {당신의 우주를 위한 블로그,}\n    user {블로그,}\n    other {}\n  }.",
+  "blog.noneMsg": "현재 {type, select,\n    organization {블로그가 없습니다.}\n    universe {당신의 우주를 위한 블로그,}\n    user {블로그,}\n    other {블로그,}\n  }.",
   "blog.create": "새 블로그 만들기",
   "blog.settings": "{type, select,\n    org {블로그}\n    universe {우주 페이지}\n    user {블로그}\n    other {}\n  } 설정",
   "blog.description": "블로그 소개",

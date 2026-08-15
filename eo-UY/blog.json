@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Vi aktuale ne havas {type, select,\n    organization {ian blogon}\n    universe {blogon por via universo}\n    user {blogon}\n    other {}\n  }.",
+  "blog.noneMsg": "Vi aktuale ne havas {type, select,\n    organization {ian blogon}\n    universe {blogon por via universo}\n    user {blogon}\n    other {blogon}\n  }.",
   "blog.create": "Krei novan blogon",
   "blog.settings": "{type, select,\n    org {Bloga}\n    universe {Paĝo de la universo}\n    user {Bloga}\n    other {}\n  } agordoj",
   "blog.description": "Enkonduko de la blogo",

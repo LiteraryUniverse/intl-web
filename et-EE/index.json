@@ -119,7 +119,7 @@
   "auditLog.header.action": "Mida",
   "auditLog.header.group": "Grupp",
   "auditLog.header.user": "Kes",
-  "blog.noneMsg": "Teil ei ole praegu {type, select,\n    organization {ühtegi blogi}\n    universe {blogi oma universumi jaoks}\n    user {blogi}\n    other {}\n  }.",
+  "blog.noneMsg": "Teil ei ole praegu {type, select,\n    organization {ühtegi blogi}\n    universe {blogi oma universumi jaoks}\n    user {blogi}\n    other {blogi}\n  }.",
   "blog.create": "Loo uus blogi",
   "blog.settings": "{type, select,\n    org {Blogi}\n    universe {Universumi leht}\n    user {Blogi}\n    other {}\n  } seaded",
   "blog.description": "Blogi sissejuhatus",

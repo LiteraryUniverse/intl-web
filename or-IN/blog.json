@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "ଆପଣଙ୍କର ବର୍ତ୍ତମାନ {type, select,\n    organization {କୌଣସି ବ୍ଲଗ}\n    universe {ଆପଣଙ୍କ ବିଶ୍ବ ପାଇଁ ଏକ ବ୍ଲଗ}\n    user {ଏକ ବ୍ଲଗ}\n    other {}\n  } ନାହିଁ ।",
+  "blog.noneMsg": "ଆପଣଙ୍କର ବର୍ତ୍ତମାନ {type, select,\n    organization {କୌଣସି ବ୍ଲଗ}\n    universe {ଆପଣଙ୍କ ବିଶ୍ବ ପାଇଁ ଏକ ବ୍ଲଗ}\n    user {ଏକ ବ୍ଲଗ}\n    other {ଏକ ବ୍ଲଗ}\n  } ନାହିଁ ।",
   "blog.create": "Create a new blog",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Universe page}\n    user {Blog}\n    other {}\n  } settings",
   "blog.description": "Blog introduction",

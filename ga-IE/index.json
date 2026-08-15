@@ -119,7 +119,7 @@
   "auditLog.header.action": "Cad",
   "auditLog.header.group": "Grúpa",
   "auditLog.header.user": "Cé",
-  "blog.noneMsg": "Níl {type, select,\n    organization {bliog ar bith agat faoi láthair}\n    universe {bliog do do dhomhan}\n    user {bliog}\n    other {}\n  }.",
+  "blog.noneMsg": "Níl {type, select,\n    organization {bliog ar bith agat faoi láthair}\n    universe {bliog do do dhomhan}\n    user {bliog}\n    other {bliog}\n  }.",
   "blog.create": "Cruthaigh blag nua",
   "blog.settings": "{type, select,\n    org {Blag}\n    universe {Leathanach Domhainthreoir}\n    user {Blag}\n    other {}\n  } socrúcháin",
   "blog.description": "Réamhrá an bhlag",

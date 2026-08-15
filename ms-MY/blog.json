@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Anda kini tidak mempunyai {type, select,\n    organization {sebarang blog}\n    universe {satu blog untuk alam semesta anda}\n    user {sebuah blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Anda kini tidak mempunyai {type, select,\n    organization {sebarang blog}\n    universe {satu blog untuk alam semesta anda}\n    user {sebuah blog}\n    other {sebuah blog}\n  }.",
   "blog.create": "Cipta blog baru",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Halaman alam}\n    user {Blog}\n    other {}\n  } tetapan",
   "blog.description": "Pengenalan blog",

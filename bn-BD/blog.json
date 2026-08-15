@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "আপনার কাছে বর্তমানে নেই {type, select,\n    organization {কোনো ব্লগ}\n    universe {আপনার মহাবিশ্বের জন্য একটি ব্লগ}\n    user {একটি ব্লগ}\n    other {}\n  }",
+  "blog.noneMsg": "আপনার কাছে বর্তমানে নেই {type, select,\n    organization {কোনো ব্লগ}\n    universe {আপনার মহাবিশ্বের জন্য একটি ব্লগ}\n    user {একটি ব্লগ}\n    other {একটি ব্লগ}\n  }",
   "blog.create": "একটি নতুন ব্লগ তৈরি করুন",
   "blog.settings": "{type, select,\n    org {ব্লগ}\n    universe {ইউনিভার্স পৃষ্ঠা}\n    user {ব্লগ}\n    other {}\n  } সেটিংস",
   "blog.description": "ব্লগ পরিচিতি",

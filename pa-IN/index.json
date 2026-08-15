@@ -119,7 +119,7 @@
   "auditLog.header.action": "ਕੀ",
   "auditLog.header.group": "ਗਰੁੱਪ",
   "auditLog.header.user": "ਕੌਣ",
-  "blog.noneMsg": "ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਸਮੇਂ {type, select,\n    organization {ਕੋਈ ਬਲੌਗ ਨਹੀਂ}\n    universe {ਤੁਹਾਡੇ ਬ੍ਰਹਿਮੰਡ ਲਈ ਇੱਕ ਬਲੌਗ}\n    user {ਇੱਕ ਬਲੌਗ}\n    other {}\n  } ਨਹੀਂ ਹੈ।",
+  "blog.noneMsg": "ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਸਮੇਂ {type, select,\n    organization {ਕੋਈ ਬਲੌਗ ਨਹੀਂ}\n    universe {ਤੁਹਾਡੇ ਬ੍ਰਹਿਮੰਡ ਲਈ ਇੱਕ ਬਲੌਗ}\n    user {ਇੱਕ ਬਲੌਗ}\n    other {ਇੱਕ ਬਲੌਗ}\n  } ਨਹੀਂ ਹੈ।",
   "blog.create": "ਇੱਕ ਨਵਾਂ ਬਲਾਗ ਬਣਾਓ",
   "blog.settings": "{type, select,\n    org {ਬਲਾਗ}\n    universe {ਯੂਨੀਵਰਸ ਪੰਨਾ}\n    user {ਬਲਾਗ}\n    other {}\n  } ਸੈਟਿੰਗਾਂ",
   "blog.description": "ਬਲਾਗ ਦਾ ਪਰਿਚਯ",

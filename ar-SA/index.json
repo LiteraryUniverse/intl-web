@@ -119,7 +119,7 @@
   "auditLog.header.action": "ماذا",
   "auditLog.header.group": "مجموعة",
   "auditLog.header.user": "مَن",
-  "blog.noneMsg": "لا يوجد لديك حاليًا {type, select,\n    organization {أي مدونة}\n    universe {مدونة لعالمك}\n    user {مدونة}\n    other {}\n  }.",
+  "blog.noneMsg": "لا يوجد لديك حاليًا {type, select,\n    organization {أي مدونة}\n    universe {مدونة لعالمك}\n    user {مدونة}\n    other {مدونة}\n  }.",
   "blog.create": "إنشاء مدونة جديدة",
   "blog.settings": "{type, select,\n    org {صفحة المدونة في الكون}\n    universe {إعدادات المدونة}\n    user {المدونة}\n    other {}\n  }",
   "blog.description": "مقدمة المدونة",

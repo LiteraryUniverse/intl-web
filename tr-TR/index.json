@@ -119,7 +119,7 @@
   "auditLog.header.action": "Ne",
   "auditLog.header.group": "Grup",
   "auditLog.header.user": "Kim",
-  "blog.noneMsg": "Şu anda {type, select,\n    organization {blogunuz yok}\n    universe {evreniniz için bir blog}\n    user {bir blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Şu anda {type, select,\n    organization {blogunuz yok}\n    universe {evreniniz için bir blog}\n    user {bir blog}\n    other {bir blog}\n  }.",
   "blog.create": "Yeni bir blog oluştur",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Evren sayfası}\n    user {Blog}\n    other {}\n  } ayarları",
   "blog.description": "Blog tanıtımı",

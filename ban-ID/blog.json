@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Ragané mangkin durung madue {type, select,\n    organization {blog}\n    universe {blog anggen jagat ragané}\n    user {blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Ragané mangkin durung madue {type, select,\n    organization {blog}\n    universe {blog anggen jagat ragané}\n    user {blog}\n    other {blog}\n  }.",
   "blog.create": "Ngae blog anyar",
   "blog.settings": "Setelan {type, select,\n    org {blog}\n    universe {kaca jagat}\n    user {blog}\n    other {}\n  }",
   "blog.description": "Pamahbah blog",

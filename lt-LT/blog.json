@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Jūs neturite {type, select,\n    organization {jokio tinklaraščio}\n    universe {tinklaraštis savo visatai}\n    user {tinklaraštis}\n    other {}\n  }.",
+  "blog.noneMsg": "Jūs neturite {type, select,\n    organization {jokio tinklaraščio}\n    universe {tinklaraštis savo visatai}\n    user {tinklaraštis}\n    other {tinklaraštis}\n  }.",
   "blog.create": "Kurti naują tinklaraštį",
   "blog.settings": "{type, select,\n    org {Tinklaraščio}\n    universe {Pasaulio puslapis}\n    user {Tinklaraščio}\n    other {nustatymai}\n  }",
   "blog.description": "Tinklaraščio įvadas",

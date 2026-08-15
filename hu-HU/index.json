@@ -119,7 +119,7 @@
   "auditLog.header.action": "Mi",
   "auditLog.header.group": "Csoport",
   "auditLog.header.user": "Ki",
-  "blog.noneMsg": "Jelenleg nincs semmilyen {type, select,\n    organization {blog}\n    universe {blog az univerzuma számára}\n    user {blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Jelenleg nincs semmilyen {type, select,\n    organization {blog}\n    universe {blog az univerzuma számára}\n    user {blog}\n    other {blog}\n  }.",
   "blog.create": "Új blog létrehozása",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Univerzum oldal}\n    user {Blog}\n    other {}\n  } beállítások",
   "blog.description": "Blog bevezetés",

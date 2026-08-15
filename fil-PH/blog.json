@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Sa kasalukuyan ay wala kang {type, select,\n    organization {anumang blog}\n    universe {blog para sa iyong universe}\n    user {blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Sa kasalukuyan ay wala kang {type, select,\n    organization {anumang blog}\n    universe {blog para sa iyong universe}\n    user {blog}\n    other {blog}\n  }.",
   "blog.create": "Gumawa ng bagong blog",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Pahina ng Universe ng Blog}\n    user {Blog}\n    other {}\n  } settings",
   "blog.description": "Panimula ng blog",

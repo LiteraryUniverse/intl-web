@@ -119,7 +119,7 @@
   "auditLog.header.action": "Ce",
   "auditLog.header.group": "Grup",
   "auditLog.header.user": "Cine",
-  "blog.noneMsg": "În prezent nu ai {type, select,\n    organization {niciun blog}\n    universe {un blog pentru universul tău}\n    user {un blog}\n    other {}\n  }.",
+  "blog.noneMsg": "În prezent nu ai {type, select,\n    organization {niciun blog}\n    universe {un blog pentru universul tău}\n    user {un blog}\n    other {un blog}\n  }.",
   "blog.create": "Creați un blog nou",
   "blog.settings": "Setări blog {type, select,\n    org {Pagina univers}\n    universe {Setări blog}\n    user {}\n    other {}\n  }",
   "blog.description": "Introducere în blog",

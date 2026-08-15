@@ -119,7 +119,7 @@
   "auditLog.header.action": "რა",
   "auditLog.header.group": "ჯგუფი",
   "auditLog.header.user": "ვინ",
-  "blog.noneMsg": "ამჟამად თქვენ არ გაქვს {type, select,\n    organization {არცერთი ბლოგი}\n    universe {სამაგიდოსთვის}\n    user {ბლოგი}\n    other {}\n  }.",
+  "blog.noneMsg": "ამჟამად თქვენ არ გაქვს {type, select,\n    organization {არცერთი ბლოგი}\n    universe {სამაგიდოსთვის}\n    user {ბლოგი}\n    other {ბლოგი}\n  }.",
   "blog.create": "ახალი ბლოგის შექმნა",
   "blog.settings": "{type, select,\n    org {ბლოგის}\n    universe {უნივერსის გვერდი}\n    user {ბლოგის}\n    other {}\n  } პარამეტრები",
   "blog.description": "ბლოგის შესავალი",

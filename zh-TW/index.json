@@ -119,7 +119,7 @@
   "auditLog.header.action": "什麼",
   "auditLog.header.group": "群組",
   "auditLog.header.user": "誰",
-  "blog.noneMsg": "您目前沒有 {type, select,\n    organization {任何部落格}\n    universe {您宇宙的部落格}\n    user {一個部落格}\n    other {}\n  }。",
+  "blog.noneMsg": "您目前沒有 {type, select,\n    organization {任何部落格}\n    universe {您宇宙的部落格}\n    user {一個部落格}\n    other {一個部落格}\n  }。",
   "blog.create": "創建一個新的部落格",
   "blog.settings": "{type, select,\n    org {部落格}\n    universe {宇宙頁面}\n    user {部落格}\n    other {}\n  } 設定",
   "blog.description": "部落格介紹",

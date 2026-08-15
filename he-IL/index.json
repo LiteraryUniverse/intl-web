@@ -119,7 +119,7 @@
   "auditLog.header.action": "מה",
   "auditLog.header.group": "קבוצה",
   "auditLog.header.user": "מי",
-  "blog.noneMsg": "אין לך כרגע {type, select,\n    organization {שום בלוג}\n    universe {בלוג עבור היקום שלך}\n    user {בלוג}\n    other {}\n  }.",
+  "blog.noneMsg": "אין לך כרגע {type, select,\n    organization {שום בלוג}\n    universe {בלוג עבור היקום שלך}\n    user {בלוג}\n    other {בלוג}\n  }.",
   "blog.create": "צור בלוג חדש",
   "blog.settings": "{type, select,\n    org {בלוג}\n    universe {דף יחידת היקום}\n    user {בלוג}\n    other {}\n  } הגדרות",
   "blog.description": "מבוא לבלוג",

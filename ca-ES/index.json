@@ -119,7 +119,7 @@
   "auditLog.header.action": "Què",
   "auditLog.header.group": "Grup",
   "auditLog.header.user": "Qui",
-  "blog.noneMsg": "Actualment no tens cap blog per al teu univers {type, select,\n    organization {un blog}\n    universe {un blog per al teu univers}\n    user {un blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Actualment no tens cap blog per al teu univers {type, select,\n    organization {un blog}\n    universe {un blog per al teu univers}\n    user {un blog}\n    other {un blog}\n  }.",
   "blog.create": "Crear un nou blog",
   "blog.settings": "Configuració {type, select,\n    org {del blog}\n    universe {de la pàgina de l'univers}\n    user {del blog}\n    other {}\n  }",
   "blog.description": "Introducció al blog",

@@ -119,7 +119,7 @@
   "auditLog.header.action": "Τι",
   "auditLog.header.group": "Ομάδα",
   "auditLog.header.user": "Ποιος",
-  "blog.noneMsg": "Δεν έχετε αυτήν τη στιγμή {type, select,\n    organization {κανένα blog}\n    universe {ένα blog για το σύμπαν σας}\n    user {ένα blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Δεν έχετε αυτήν τη στιγμή {type, select,\n    organization {κανένα blog}\n    universe {ένα blog για το σύμπαν σας}\n    user {ένα blog}\n    other {ένα blog}\n  }.",
   "blog.create": "Δημιουργία νέου blog",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Σελίδα Συμπαντος}\n    user {Blog}\n    other {}\n  } ρυθμίσεις",
   "blog.description": "Εισαγωγή blog",

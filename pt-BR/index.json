@@ -119,7 +119,7 @@
   "auditLog.header.action": "O quê",
   "auditLog.header.group": "Grupo",
   "auditLog.header.user": "Quem",
-  "blog.noneMsg": "Atualmente você não tem {type, select,\n    organization {nenhum blog}\n    universe {um blog para o seu universo}\n    user {um blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Atualmente você não tem {type, select,\n    organization {nenhum blog}\n    universe {um blog para o seu universo}\n    user {um blog}\n    other {um blog}\n  }.",
   "blog.create": "Criar um novo blog",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Página do universo}\n    user {Blog}\n    other {}\n  } configurações",
   "blog.description": "Introdução ao Blog",

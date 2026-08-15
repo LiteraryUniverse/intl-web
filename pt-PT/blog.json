@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Atualmente não tem {type, select,\n    organization {nenhum blog}\n    universe {um blog para o seu universo}\n    user {um blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Atualmente não tem {type, select,\n    organization {nenhum blog}\n    universe {um blog para o seu universo}\n    user {um blog}\n    other {um blog}\n  }.",
   "blog.create": "Crie um novo blog",
   "blog.settings": "Definições {type, select,\n    org {do Blog}\n    universe {da página do universo}\n    user {do blog}\n    other {}\n  }",
   "blog.description": "Introdução ao Blog",

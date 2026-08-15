@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Du har för närvarande inte {type, select,\n    organization {någon blogg}\n    universe {en blogg för ditt universum}\n    user {en blogg}\n    other {}\n  }.",
+  "blog.noneMsg": "Du har för närvarande inte {type, select,\n    organization {någon blogg}\n    universe {en blogg för ditt universum}\n    user {en blogg}\n    other {en blogg}\n  }.",
   "blog.create": "Skapa en ny blogg",
   "blog.settings": "{type, select,\n    org {Blogg}\n    universe {Universumssida för bloggen}\n    user {Blogg}\n    other {}\n  } inställningar",
   "blog.description": "Blogginledning",

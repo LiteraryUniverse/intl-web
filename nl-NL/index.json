@@ -119,7 +119,7 @@
   "auditLog.header.action": "Wat",
   "auditLog.header.group": "Groep",
   "auditLog.header.user": "Wie",
-  "blog.noneMsg": "Je hebt momenteel geen {type, select,\n    organization {geen blog}\n    universe {een blog voor je universum}\n    user {een blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Je hebt momenteel geen {type, select,\n    organization {geen blog}\n    universe {een blog voor je universum}\n    user {een blog}\n    other {een blog}\n  }.",
   "blog.create": "Nieuwe blog aanmaken",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Universe page}\n    user {Blog}\n    other {}\n  } instellingen",
   "blog.description": "Blog introductie",

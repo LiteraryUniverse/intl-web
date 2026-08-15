@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "do ca ponse no {type, select,\n    organization {blogu}\n    universe {blogu pe lo do munje}\n    user {blogu}\n    other {}\n  }.",
+  "blog.noneMsg": "do ca ponse no {type, select,\n    organization {blogu}\n    universe {blogu pe lo do munje}\n    user {blogu}\n    other {blogu}\n  }.",
   "blog.create": "Sutra lo jorne blogu",
   "blog.settings": "lo se setca be {type, select,\n    org {lo blogu}\n    universe {lo munje papri}\n    user {lo blogu}\n    other {}\n  }",
   "blog.description": "Jorne la'o gy. blogu",

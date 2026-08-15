@@ -119,7 +119,7 @@
   "auditLog.header.action": "Mikä",
   "auditLog.header.group": "Ryhmä",
   "auditLog.header.user": "Kuka",
-  "blog.noneMsg": "Sinulla ei tällä hetkellä ole {type, select,\n    organization {mitään blogia}\n    universe {blogia universumillesi}\n    user {blogia}\n    other {}\n  }.",
+  "blog.noneMsg": "Sinulla ei tällä hetkellä ole {type, select,\n    organization {mitään blogia}\n    universe {blogia universumillesi}\n    user {blogia}\n    other {blogia}\n  }.",
   "blog.create": "Luo uusi blogi",
   "blog.settings": "{type, select,\n    org {Blogi}\n    universe {Universumi sivu}\n    user {Blogi}\n    other {}\n  } asetukset",
   "blog.description": "Blogiesittely",

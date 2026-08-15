@@ -119,7 +119,7 @@
   "auditLog.header.action": "འདི་གི་བརྡ་དོན་",
   "auditLog.header.group": "སྡེ་ཚན་",
   "auditLog.header.user": "ནང་འབྲེལ་",
-  "blog.noneMsg": "ད་ལྟ་ཁྱེད་ལ་{type, select,\n    organization {ཟིན་བྲིས་གང་ཡང་}\n    universe {ཁྱེད་ཀྱི་འཇིག་རྟེན་གྱི་ཟིན་བྲིས་ཤིག་}\n    user {ཟིན་བྲིས་ཤིག་}\n    other {}\n  }མེད།",
+  "blog.noneMsg": "ད་ལྟ་ཁྱེད་ལ་{type, select,\n    organization {ཟིན་བྲིས་གང་ཡང་}\n    universe {ཁྱེད་ཀྱི་འཇིག་རྟེན་གྱི་ཟིན་བྲིས་ཤིག་}\n    user {ཟིན་བྲིས་ཤིག་}\n    other {ཟིན་བྲིས་ཤིག་}\n  }མེད།",
   "blog.create": "ཟིན་བྲིས་གསར་པ་བཟོ་བ",
   "blog.settings": "{type, select,\n    org {བློ་གྲོས་}\n    universe {འབྲེལ་ཡོད་པའི་ ཤོག་ལེབ་}\n    user {བློ་གྲོས་}\n    other {}\n  } སྒྲིག་འཇུགས་",
   "blog.description": "ཟིན་བྲིས་ངོ་སྤྲོད",

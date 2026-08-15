@@ -119,7 +119,7 @@
   "auditLog.header.action": "Что",
   "auditLog.header.group": "Группа",
   "auditLog.header.user": "Кто",
-  "blog.noneMsg": "У вас пока нет {type, select,\n    organization {какого-либо блога}\n    universe {блога для вашей вселенной}\n    user {блога}\n    other {}\n  }.",
+  "blog.noneMsg": "У вас пока нет {type, select,\n    organization {какого-либо блога}\n    universe {блога для вашей вселенной}\n    user {блога}\n    other {блога}\n  }.",
   "blog.create": "Создать новый блог",
   "blog.settings": "Настройки {type, select,\n    org {блога}\n    universe {страницы вселенной}\n    user {блога}\n    other {}\n  }",
   "blog.description": "Ознакомление к блогом",

@@ -119,7 +119,7 @@
   "auditLog.header.action": "Co",
   "auditLog.header.group": "Skupina",
   "auditLog.header.user": "Kdo",
-  "blog.noneMsg": "Momentálně nemáte {type, select,\n    organization {žádný blog}\n    universe {stránky pro svůj vesmír}\n    user {osobní blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Momentálně nemáte {type, select,\n    organization {žádný blog}\n    universe {stránky pro svůj vesmír}\n    user {osobní blog}\n    other {osobní blog}\n  }.",
   "blog.create": "Vytvořit nový blog",
   "blog.settings": "Nastavení {type, select,\n    org {blogu}\n    universe {stránek pro vesmír}\n    user {blogu}\n    other {}\n  }",
   "blog.description": "Představení",

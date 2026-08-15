@@ -119,7 +119,7 @@
   "auditLog.header.action": "എന്ത്",
   "auditLog.header.group": "ഗ്രൂപ്പ്",
   "auditLog.header.user": "ആർക്ക്",
-  "blog.noneMsg": "{type, select,\n    organization {നിങ്ങൾക്ക് ഇപ്പോൾ}\n    universe {ഒരു യൂണിവേഴ്സിനുള്ള blog ഉണ്ടാക്കാൻ സാധിച്ചിട്ടില്ല}\n    user {ഒരു blog}\n    other {}\n  }.",
+  "blog.noneMsg": "{type, select,\n    organization {നിങ്ങൾക്ക് ഇപ്പോൾ}\n    universe {ഒരു യൂണിവേഴ്സിനുള്ള blog ഉണ്ടാക്കാൻ സാധിച്ചിട്ടില്ല}\n    user {ഒരു blog}\n    other {ഒരു blog}\n  }.",
   "blog.create": "ഒരു പുതിയ ബ്ലോഗ് സൃഷ്ടിക്കുക",
   "blog.settings": "{type, select,\n    org {ബ്ലോഗ്}\n    universe {യൂണിവേഴ്‌സ് പേജ്}\n    user {ബ്ലോഗ്}\n    other {}\n  } ക്രമീകരണങ്ങൾ",
   "blog.description": "ബ്ലോഗ് പരിചയം",

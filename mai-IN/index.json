@@ -119,7 +119,7 @@
   "auditLog.header.action": "के",
   "auditLog.header.group": "समूह",
   "auditLog.header.user": "कौन",
-  "blog.noneMsg": "तुम्हारे वर्तमान में कोई ब्लॉग नहीं है {type, select,\n    organization {तुम्हारे यूनिवर्स के लिए कोई ब्लॉग नहीं है}\n    universe {एक ब्लॉग}\n    user {एक ब्लॉग}\n    other {}\n  }.",
+  "blog.noneMsg": "तुम्हारे वर्तमान में कोई ब्लॉग नहीं है {type, select,\n    organization {तुम्हारे यूनिवर्स के लिए कोई ब्लॉग नहीं है}\n    universe {एक ब्लॉग}\n    user {एक ब्लॉग}\n    other {एक ब्लॉग}\n  }.",
   "blog.create": "नया ब्लॉग बनाएँ",
   "blog.settings": "{type, select,\n    org {ब्लॉग}\n    universe {ब्रह्माण्ड पृष्ठ}\n    user {ब्लॉग}\n    other {}\n  } सेटिंग्स",
   "blog.description": "ब्लॉग परिचय",

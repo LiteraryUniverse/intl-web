@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "Sampeyan saiki durung duwe {type, select,\n    organization {blog}\n    universe {blog kanggo jagad sampeyan}\n    user {blog}\n    other {}\n  }.",
+  "blog.noneMsg": "Sampeyan saiki durung duwe {type, select,\n    organization {blog}\n    universe {blog kanggo jagad sampeyan}\n    user {blog}\n    other {blog}\n  }.",
   "blog.create": "Gawe blog anyar",
   "blog.settings": "Setelan {type, select,\n    org {blog}\n    universe {kaca jagad}\n    user {blog}\n    other {}\n  }",
   "blog.description": "Pambuka blog",

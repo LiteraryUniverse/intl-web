@@ -1,5 +1,5 @@
 {
-  "blog.noneMsg": "លទ្ធផលនេះមិនអាចមានក្នុង {type, select,\n    organization {ប្រភេទណាមួយ}\n    universe {ប្លុកសម្ងាត់របស់អ្នកអះអាងប៉ុណ្ណោះទេ}\n    user {ប្លុកសម្ងាត់}\n    other {}\n  }។",
+  "blog.noneMsg": "លទ្ធផលនេះមិនអាចមានក្នុង {type, select,\n    organization {ប្រភេទណាមួយ}\n    universe {ប្លុកសម្ងាត់របស់អ្នកអះអាងប៉ុណ្ណោះទេ}\n    user {ប្លុកសម្ងាត់}\n    other {ប្លុកសម្ងាត់}\n  }។",
   "blog.create": "បង្កើត​ក្រុមទិន្នន័យ​ថ្មីនៅក្នុង​ប្លុក",
   "blog.settings": "{type, select,\n    org {ប្លុក}\n    universe {ទំព័រជីវិត}\n    user {ប្លុក}\n    other {}\n  } ការកំណត់",
   "blog.description": "ការ​ណែនាំ​ពីប្លុក",

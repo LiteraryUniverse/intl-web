@@ -119,7 +119,7 @@
   "auditLog.header.action": "何が",
   "auditLog.header.group": "グループ",
   "auditLog.header.user": "人",
-  "blog.noneMsg": "現在{type, select,\n    organization {はブログを持っていませんね}\n    universe {、あなたの宇宙にはブログがありません}\n    user {はブログを持っていませんね}\n    other {}\n  }。",
+  "blog.noneMsg": "現在{type, select,\n    organization {はブログを持っていませんね}\n    universe {、あなたの宇宙にはブログがありません}\n    user {はブログを持っていませんね}\n    other {はブログを持っていませんね}\n  }。",
   "blog.create": "新しいブログを作成する",
   "blog.settings": "{type, select,\n    org {ブログ}\n    universe {宇宙のページ}\n    user {ブログ}\n    other {}\n  }設定",
   "blog.description": "ブログ紹介",
