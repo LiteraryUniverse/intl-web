@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · du {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Forfatter} other {du}} {rest}%",
   "licenses.orgBasedOn": "({org}, basert på {license})",
   "licenses.switchNotice": "Dette verket forlater {org} sin lisens {date} — tilgang gitt gjennom {org} kan opphøre da.",
   "licenses.orgCut.label": "Organisasjonens andel av bruttosalget (%)",

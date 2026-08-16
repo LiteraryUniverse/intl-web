@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Ejderha Ateşi",
   "blog.theme.preset.grimoire": "Büyü Kitabı",
   "blog.theme.preset.runestone": "Rün Taşı",
-  "blog.theme.preset.sylvan": "Orman"
+  "blog.theme.preset.sylvan": "Orman",
+  "blog.theme.preset.manuscript": "El Yazması",
+  "blog.theme.preset.codex": "Kodeks",
+  "blog.theme.preset.architect": "Mimar",
+  "blog.theme.preset.chronicler": "Vakanüvis"
 }

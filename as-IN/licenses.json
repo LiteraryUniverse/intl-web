@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · আপুনি {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {লেখক} other {আপুনি}} {rest}%",
   "licenses.orgBasedOn": "({org}, {license}-ৰ ওপৰত আধাৰিত)",
   "licenses.switchNotice": "এই ৰচনাই {date}-ত {org}-ৰ লাইচেন্স এৰিব — {org}-ৰ জৰিয়তে দিয়া প্ৰৱেশাধিকাৰ তেতিয়া শেষ হ'ব পাৰে।",
   "licenses.orgCut.label": "মুঠ বিক্ৰীত সংগঠনৰ অংশ (%)",

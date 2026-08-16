@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · tu {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Autor} other {tu}} {rest}%",
   "licenses.orgBasedOn": "({org}, bazată pe {license})",
   "licenses.switchNotice": "Această operă părăsește licența {org} pe {date} — accesul oferit prin {org} se poate încheia atunci.",
   "licenses.orgCut.label": "Cota organizației din vânzarea brută (%)",

@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "نار التنين",
   "blog.theme.preset.grimoire": "كتاب السحر",
   "blog.theme.preset.runestone": "حجر الرونية",
-  "blog.theme.preset.sylvan": "غابيّ"
+  "blog.theme.preset.sylvan": "غابيّ",
+  "blog.theme.preset.manuscript": "مخطوطة",
+  "blog.theme.preset.codex": "مخطوط قديم",
+  "blog.theme.preset.architect": "معماري",
+  "blog.theme.preset.chronicler": "مؤرِّخ"
 }

@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "ไฟมังกร",
   "blog.theme.preset.grimoire": "ตำราเวทมนตร์",
   "blog.theme.preset.runestone": "ศิลารูน",
-  "blog.theme.preset.sylvan": "พงไพร"
+  "blog.theme.preset.sylvan": "พงไพร",
+  "blog.theme.preset.manuscript": "ต้นฉบับลายมือ",
+  "blog.theme.preset.codex": "โคเด็กซ์",
+  "blog.theme.preset.architect": "สถาปนิก",
+  "blog.theme.preset.chronicler": "นักบันทึกพงศาวดาร"
 }

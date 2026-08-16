@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Licencja wyłączna: 10% opłaty platformy, zatrzymujesz 90% zarobków",
   "licenses.commercial.nonexclusive.info": "Licencja niewyłączna: 30% opłaty platformy, zatrzymujesz 70% zarobków",
   "licenses.moreInfo": "Więcej informacji",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · Ty {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Autor} other {Ty}} {rest}%",
   "licenses.orgBasedOn": "({org}, na podstawie {license})",
   "licenses.switchNotice": "To dzieło opuszcza licencję {org} w dniu {date} — dostęp zapewniany przez {org} może wtedy wygasnąć.",
   "licenses.orgCut.label": "Udział organizacji w sprzedaży brutto (%)",

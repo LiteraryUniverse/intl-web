@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "אש דרקון",
   "blog.theme.preset.grimoire": "ספר כשפים",
   "blog.theme.preset.runestone": "אבן רונית",
-  "blog.theme.preset.sylvan": "יערי"
+  "blog.theme.preset.sylvan": "יערי",
+  "blog.theme.preset.manuscript": "כתב יד",
+  "blog.theme.preset.codex": "קודקס",
+  "blog.theme.preset.architect": "אדריכל",
+  "blog.theme.preset.chronicler": "כרוניקאי"
 }

@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Apoy ng Dragon",
   "blog.theme.preset.grimoire": "Grimoryo",
   "blog.theme.preset.runestone": "Batong Runiko",
-  "blog.theme.preset.sylvan": "Kagubatan"
+  "blog.theme.preset.sylvan": "Kagubatan",
+  "blog.theme.preset.manuscript": "Manuskrito",
+  "blog.theme.preset.codex": "Kodise",
+  "blog.theme.preset.architect": "Arkitekto",
+  "blog.theme.preset.chronicler": "Tagapagtala"
 }

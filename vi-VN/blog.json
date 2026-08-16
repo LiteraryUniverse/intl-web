@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Lửa rồng",
   "blog.theme.preset.grimoire": "Sách phù chú",
   "blog.theme.preset.runestone": "Đá rune",
-  "blog.theme.preset.sylvan": "Rừng thẳm"
+  "blog.theme.preset.sylvan": "Rừng thẳm",
+  "blog.theme.preset.manuscript": "Bản thảo",
+  "blog.theme.preset.codex": "Sách cổ",
+  "blog.theme.preset.architect": "Kiến trúc sư",
+  "blog.theme.preset.chronicler": "Người chép sử"
 }

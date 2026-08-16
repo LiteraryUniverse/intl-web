@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "འབྲུག་མེ།",
   "blog.theme.preset.grimoire": "སྔགས་དཔེ།",
   "blog.theme.preset.runestone": "ཡིག་རྡོ།",
-  "blog.theme.preset.sylvan": "ནགས་ཚལ།"
+  "blog.theme.preset.sylvan": "ནགས་ཚལ།",
+  "blog.theme.preset.manuscript": "ཕྱག་བྲིས་མ།",
+  "blog.theme.preset.codex": "དཔེ་རྙིང་།",
+  "blog.theme.preset.architect": "ཨར་པོ།",
+  "blog.theme.preset.chronicler": "ལོ་རྒྱུས་འབྲི་མཁན།"
 }

@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Drageild",
   "blog.theme.preset.grimoire": "Trolldomsbok",
   "blog.theme.preset.runestone": "Runestein",
-  "blog.theme.preset.sylvan": "Skogaktig"
+  "blog.theme.preset.sylvan": "Skogaktig",
+  "blog.theme.preset.manuscript": "Manuskript",
+  "blog.theme.preset.codex": "Kodeks",
+  "blog.theme.preset.architect": "Arkitekt",
+  "blog.theme.preset.chronicler": "Krønikeskriver"
 }

@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · אתם {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {מחבר} other {אתם}} {rest}%",
   "licenses.orgBasedOn": "({org}, מבוסס על {license})",
   "licenses.switchNotice": "יצירה זו עוזבת את הרישיון של {org} בתאריך {date} — ייתכן שגישה הניתנת דרך {org} תסתיים אז.",
   "licenses.orgCut.label": "נתח הארגון מהמכירה ברוטו (%)",

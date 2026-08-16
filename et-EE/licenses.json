@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · sina {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Autor} other {sina}} {rest}%",
   "licenses.orgBasedOn": "({org}, põhineb litsentsil {license})",
   "licenses.switchNotice": "See teos lahkub organisatsiooni {org} litsentsi alt kuupäeval {date} — organisatsiooni {org} kaudu antud juurdepääs võib siis lõppeda.",
   "licenses.orgCut.label": "Organisatsiooni osa brutomüügist (%)",

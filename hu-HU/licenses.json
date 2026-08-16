@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · tiéd {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Szerző} other {tiéd}} {rest}%",
   "licenses.orgBasedOn": "({org}, a(z) {license} alapján)",
   "licenses.switchNotice": "Ez a mű {date} napján elhagyja a(z) {org} licencét — a(z) {org} révén biztosított hozzáférés ekkor megszűnhet.",
   "licenses.orgCut.label": "A szervezet részesedése a bruttó eladásból (%)",

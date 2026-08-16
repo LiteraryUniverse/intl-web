@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "ភ្លើងនាគ",
   "blog.theme.preset.grimoire": "គម្ពីរមន្ត",
   "blog.theme.preset.runestone": "ថ្មរូន",
-  "blog.theme.preset.sylvan": "ព្រៃ"
+  "blog.theme.preset.sylvan": "ព្រៃ",
+  "blog.theme.preset.manuscript": "សាត្រាស្លឹករឹត",
+  "blog.theme.preset.codex": "សៀវភៅបុរាណ",
+  "blog.theme.preset.architect": "ស្ថាបត្យករ",
+  "blog.theme.preset.chronicler": "អ្នកកត់ត្រាប្រវត្តិ"
 }

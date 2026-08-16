@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "龍炎",
   "blog.theme.preset.grimoire": "魔導書",
   "blog.theme.preset.runestone": "符文石",
-  "blog.theme.preset.sylvan": "林野"
+  "blog.theme.preset.sylvan": "林野",
+  "blog.theme.preset.manuscript": "手稿",
+  "blog.theme.preset.codex": "古抄本",
+  "blog.theme.preset.architect": "建築師",
+  "blog.theme.preset.chronicler": "史官"
 }

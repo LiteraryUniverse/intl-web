@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "ಡ್ರ್ಯಾಗನ್ ಬೆಂಕಿ",
   "blog.theme.preset.grimoire": "ಮಂತ್ರಗ್ರಂಥ",
   "blog.theme.preset.runestone": "ರೂನ್ ಶಿಲೆ",
-  "blog.theme.preset.sylvan": "ವನ್ಯ"
+  "blog.theme.preset.sylvan": "ವನ್ಯ",
+  "blog.theme.preset.manuscript": "ಹಸ್ತಪ್ರತಿ",
+  "blog.theme.preset.codex": "ಕೋಡೆಕ್ಸ್",
+  "blog.theme.preset.architect": "ವಾಸ್ತುಶಿಲ್ಪಿ",
+  "blog.theme.preset.chronicler": "ಚರಿತ್ರಕಾರ"
 }

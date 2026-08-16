@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "დრაკონის ცეცხლი",
   "blog.theme.preset.grimoire": "გრიმუარი",
   "blog.theme.preset.runestone": "რუნული ქვა",
-  "blog.theme.preset.sylvan": "ტყიური"
+  "blog.theme.preset.sylvan": "ტყიური",
+  "blog.theme.preset.manuscript": "ხელნაწერი",
+  "blog.theme.preset.codex": "კოდექსი",
+  "blog.theme.preset.architect": "არქიტექტორი",
+  "blog.theme.preset.chronicler": "მემატიანე"
 }

@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "ડ્રેગન અગ્નિ",
   "blog.theme.preset.grimoire": "મંત્રગ્રંથ",
   "blog.theme.preset.runestone": "રૂન શિલા",
-  "blog.theme.preset.sylvan": "વનવાસી"
+  "blog.theme.preset.sylvan": "વનવાસી",
+  "blog.theme.preset.manuscript": "હસ્તપ્રત",
+  "blog.theme.preset.codex": "કોડેક્સ",
+  "blog.theme.preset.architect": "સ્થપતિ",
+  "blog.theme.preset.chronicler": "ઇતિહાસકાર"
 }

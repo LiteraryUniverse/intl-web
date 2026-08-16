@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Sárkánytűz",
   "blog.theme.preset.grimoire": "Varázskönyv",
   "blog.theme.preset.runestone": "Rúnakő",
-  "blog.theme.preset.sylvan": "Erdei"
+  "blog.theme.preset.sylvan": "Erdei",
+  "blog.theme.preset.manuscript": "Kézirat",
+  "blog.theme.preset.codex": "Kódex",
+  "blog.theme.preset.architect": "Építész",
+  "blog.theme.preset.chronicler": "Krónikás"
 }

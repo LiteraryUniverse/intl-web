@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Drakeld",
   "blog.theme.preset.grimoire": "Trollboken",
   "blog.theme.preset.runestone": "Runsten",
-  "blog.theme.preset.sylvan": "Skogig"
+  "blog.theme.preset.sylvan": "Skogig",
+  "blog.theme.preset.manuscript": "Manuskript",
+  "blog.theme.preset.codex": "Kodex",
+  "blog.theme.preset.architect": "Arkitekt",
+  "blog.theme.preset.chronicler": "Krönikör"
 }

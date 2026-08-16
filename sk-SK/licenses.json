@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exkluzívna licencia: 10 % poplatok platformy, ponecháte si 90 % zárobkov",
   "licenses.commercial.nonexclusive.info": "Neexkluzívna licencia: 30 % poplatok platformy, ponecháte si 70 % zárobkov",
   "licenses.moreInfo": "Ďalšie informácie",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · vy {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Autor} other {vy}} {rest}%",
   "licenses.orgBasedOn": "({org}, založená na {license})",
   "licenses.switchNotice": "Toto dielo opúšťa licenciu organizácie {org} dňa {date} — prístup poskytovaný cez {org} sa tým môže skončiť.",
   "licenses.orgCut.label": "Podiel organizácie z hrubého predaja (%)",

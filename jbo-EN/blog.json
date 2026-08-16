@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "drakono fagri",
   "blog.theme.preset.grimoire": "makfa cukta",
   "blog.theme.preset.runestone": "lerfu rokci",
-  "blog.theme.preset.sylvan": "ricfoi"
+  "blog.theme.preset.sylvan": "ricfoi",
+  "blog.theme.preset.manuscript": "xatra prenu",
+  "blog.theme.preset.codex": "vreji dacti",
+  "blog.theme.preset.architect": "zbasu prenu",
+  "blog.theme.preset.chronicler": "citri prenu"
 }

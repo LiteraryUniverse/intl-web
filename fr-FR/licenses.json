@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Licence exclusive : 10 % de frais de plateforme, vous conservez 90 % des revenus",
   "licenses.commercial.nonexclusive.info": "Licence non exclusive : 30 % de frais de plateforme, vous conservez 70 % des revenus",
   "licenses.moreInfo": "Plus d'informations",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · vous {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Auteur} other {vous}} {rest}%",
   "licenses.orgBasedOn": "({org}, basée sur {license})",
   "licenses.switchNotice": "Cette œuvre quittera la licence de {org} le {date} — l'accès fourni via {org} pourra alors prendre fin.",
   "licenses.orgCut.label": "Part de l'organisation sur la vente brute (%)",

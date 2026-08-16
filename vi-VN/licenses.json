@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · bạn {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Tác giả} other {bạn}} {rest}%",
   "licenses.orgBasedOn": "({org}, dựa trên {license})",
   "licenses.switchNotice": "Tác phẩm này sẽ rời khỏi giấy phép của {org} vào {date} — quyền truy cập được cung cấp qua {org} có thể kết thúc khi đó.",
   "licenses.orgCut.label": "Phần chia của tổ chức từ doanh thu gộp (%)",

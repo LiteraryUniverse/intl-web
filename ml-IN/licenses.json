@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · നിങ്ങൾ {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {രചയിതാവ്} other {നിങ്ങൾ}} {rest}%",
   "licenses.orgBasedOn": "({org}, {license} അടിസ്ഥാനമാക്കി)",
   "licenses.switchNotice": "ഈ കൃതി {date} ന് {org} ന്റെ ലൈസൻസിൽ നിന്ന് പുറത്തുപോകുന്നു — {org} വഴി നൽകിയിരുന്ന ആക്സസ് അപ്പോൾ അവസാനിച്ചേക്കാം.",
   "licenses.orgCut.label": "മൊത്ത വിൽപ്പനയിൽ സംഘടനയുടെ വിഹിതം (%)",

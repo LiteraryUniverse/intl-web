@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "ড্ৰেগন অগ্নি",
   "blog.theme.preset.grimoire": "মন্ত্ৰগ্ৰন্থ",
   "blog.theme.preset.runestone": "ৰুন শিলা",
-  "blog.theme.preset.sylvan": "বনৰ"
+  "blog.theme.preset.sylvan": "বনৰ",
+  "blog.theme.preset.manuscript": "পাণ্ডুলিপি",
+  "blog.theme.preset.codex": "প্ৰাচীন গ্ৰন্থ",
+  "blog.theme.preset.architect": "স্থপতি",
+  "blog.theme.preset.chronicler": "ইতিহাসলেখক"
 }

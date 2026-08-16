@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · εσείς {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Συγγραφέας} other {εσείς}} {rest}%",
   "licenses.orgBasedOn": "({org}, βασισμένη σε {license})",
   "licenses.switchNotice": "Αυτό το έργο αποχωρεί από την άδεια του {org} στις {date} — η πρόσβαση που παρέχεται μέσω του {org} ενδέχεται να λήξει τότε.",
   "licenses.orgCut.label": "Μερίδιο του οργανισμού από την ακαθάριστη πώληση (%)",

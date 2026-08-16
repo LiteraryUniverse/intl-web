@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Api Naga",
   "blog.theme.preset.grimoire": "Kitab Mantra",
   "blog.theme.preset.runestone": "Batu Rune",
-  "blog.theme.preset.sylvan": "Rimba"
+  "blog.theme.preset.sylvan": "Rimba",
+  "blog.theme.preset.manuscript": "Naskah",
+  "blog.theme.preset.codex": "Kodeks",
+  "blog.theme.preset.architect": "Arsitek",
+  "blog.theme.preset.chronicler": "Pencatat Sejarah"
 }

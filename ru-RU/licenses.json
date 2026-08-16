@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Эксклюзивная лицензия: 10% комиссии платформы, вы оставляете себе 90% дохода",
   "licenses.commercial.nonexclusive.info": "Неэксклюзивная лицензия: 30% комиссии платформы, вы оставляете себе 70% дохода",
   "licenses.moreInfo": "Подробнее",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · вы {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Автор} other {вы}} {rest}%",
   "licenses.orgBasedOn": "({org}, на основе {license})",
   "licenses.switchNotice": "{date} это произведение выходит из-под лицензии {org} — доступ, предоставляемый через {org}, может после этого прекратиться.",
   "licenses.orgCut.label": "Доля организации от валовой продажи (%)",

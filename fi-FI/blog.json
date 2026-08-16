@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Lohikäärmetuli",
   "blog.theme.preset.grimoire": "Loitsukirja",
   "blog.theme.preset.runestone": "Riimukivi",
-  "blog.theme.preset.sylvan": "Metsäinen"
+  "blog.theme.preset.sylvan": "Metsäinen",
+  "blog.theme.preset.manuscript": "Käsikirjoitus",
+  "blog.theme.preset.codex": "Koodeksi",
+  "blog.theme.preset.architect": "Arkkitehti",
+  "blog.theme.preset.chronicler": "Kronikoitsija"
 }

@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "డ్రాగన్ అగ్ని",
   "blog.theme.preset.grimoire": "మంత్రగ్రంథం",
   "blog.theme.preset.runestone": "రూన్ శిల",
-  "blog.theme.preset.sylvan": "వన్య"
+  "blog.theme.preset.sylvan": "వన్య",
+  "blog.theme.preset.manuscript": "రాతప్రతి",
+  "blog.theme.preset.codex": "కోడెక్స్",
+  "blog.theme.preset.architect": "వాస్తుశిల్పి",
+  "blog.theme.preset.chronicler": "చరిత్రకారుడు"
 }

@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Licença exclusiva: 10% de taxa da plataforma, você fica com 90% dos ganhos",
   "licenses.commercial.nonexclusive.info": "Licença não exclusiva: 30% de taxa da plataforma, você fica com 70% dos ganhos",
   "licenses.moreInfo": "Mais informações",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · você {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Autor} other {você}} {rest}%",
   "licenses.orgBasedOn": "({org}, baseada em {license})",
   "licenses.switchNotice": "Esta obra deixará a licença de {org} em {date} — o acesso fornecido por meio de {org} pode terminar nessa data.",
   "licenses.orgCut.label": "Participação da organização na venda bruta (%)",

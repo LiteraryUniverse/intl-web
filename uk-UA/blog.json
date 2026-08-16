@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Драконове полум’я",
   "blog.theme.preset.grimoire": "Гримуар",
   "blog.theme.preset.runestone": "Рунний камінь",
-  "blog.theme.preset.sylvan": "Лісовий"
+  "blog.theme.preset.sylvan": "Лісовий",
+  "blog.theme.preset.manuscript": "Рукопис",
+  "blog.theme.preset.codex": "Кодекс",
+  "blog.theme.preset.architect": "Архітектор",
+  "blog.theme.preset.chronicler": "Літописець"
 }

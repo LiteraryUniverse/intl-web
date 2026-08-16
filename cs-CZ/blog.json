@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Dračí oheň",
   "blog.theme.preset.grimoire": "Grimoár",
   "blog.theme.preset.runestone": "Runový kámen",
-  "blog.theme.preset.sylvan": "Hvozd"
+  "blog.theme.preset.sylvan": "Hvozd",
+  "blog.theme.preset.manuscript": "Rukopis",
+  "blog.theme.preset.codex": "Kodex",
+  "blog.theme.preset.architect": "Architekt",
+  "blog.theme.preset.chronicler": "Kronikář"
 }

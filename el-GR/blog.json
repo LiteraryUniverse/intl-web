@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Φωτιά δράκου",
   "blog.theme.preset.grimoire": "Γκριμόριο",
   "blog.theme.preset.runestone": "Ρουνόπετρα",
-  "blog.theme.preset.sylvan": "Δασικό"
+  "blog.theme.preset.sylvan": "Δασικό",
+  "blog.theme.preset.manuscript": "Χειρόγραφο",
+  "blog.theme.preset.codex": "Κώδικας",
+  "blog.theme.preset.architect": "Αρχιτέκτονας",
+  "blog.theme.preset.chronicler": "Χρονικογράφος"
 }

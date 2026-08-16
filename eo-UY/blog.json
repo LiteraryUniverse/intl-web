@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Drakfajro",
   "blog.theme.preset.grimoire": "Grimuaro",
   "blog.theme.preset.runestone": "Runŝtono",
-  "blog.theme.preset.sylvan": "Arbara"
+  "blog.theme.preset.sylvan": "Arbara",
+  "blog.theme.preset.manuscript": "Manuskripto",
+  "blog.theme.preset.codex": "Kodekso",
+  "blog.theme.preset.architect": "Arkitekto",
+  "blog.theme.preset.chronicler": "Kronikisto"
 }

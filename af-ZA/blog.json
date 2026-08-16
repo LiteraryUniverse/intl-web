@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Draakvuur",
   "blog.theme.preset.grimoire": "Towerboek",
   "blog.theme.preset.runestone": "Runesteen",
-  "blog.theme.preset.sylvan": "Woudagtig"
+  "blog.theme.preset.sylvan": "Woudagtig",
+  "blog.theme.preset.manuscript": "Manuskrip",
+  "blog.theme.preset.codex": "Kodeks",
+  "blog.theme.preset.architect": "Argitek",
+  "blog.theme.preset.chronicler": "Kroniekskrywer"
 }

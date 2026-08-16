@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · you {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Panulis} other {you}} {rest}%",
   "licenses.orgBasedOn": "({org}, based on {license})",
   "licenses.switchNotice": "This work leaves {org}'s license on {date} — access provided through {org} may end then.",
   "licenses.orgCut.label": "Organization's share of the gross sale (%)",

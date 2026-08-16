@@ -137,7 +137,7 @@
   "licenses.commercial.exclusive.info": "Exclusieve licentie: 10% platformkosten, je houdt 90% van de inkomsten",
   "licenses.commercial.nonexclusive.info": "Niet-exclusieve licentie: 30% platformkosten, je houdt 70% van de inkomsten",
   "licenses.moreInfo": "Meer informatie",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · jij {rest}%",
+  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Auteur} other {jij}} {rest}%",
   "licenses.orgBasedOn": "({org}, gebaseerd op {license})",
   "licenses.switchNotice": "Dit werk verlaat de licentie van {org} op {date} — toegang die via {org} wordt geboden kan dan eindigen.",
   "licenses.orgCut.label": "Aandeel van de organisatie in de brutoverkoop (%)",

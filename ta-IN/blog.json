@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "டிராகன் தீ",
   "blog.theme.preset.grimoire": "மந்திர நூல்",
   "blog.theme.preset.runestone": "ரூன் கல்",
-  "blog.theme.preset.sylvan": "வனம்"
+  "blog.theme.preset.sylvan": "வனம்",
+  "blog.theme.preset.manuscript": "கையெழுத்துப் பிரதி",
+  "blog.theme.preset.codex": "கோடெக்ஸ்",
+  "blog.theme.preset.architect": "கட்டிடக் கலைஞர்",
+  "blog.theme.preset.chronicler": "வரலாற்றாசிரியர்"
 }

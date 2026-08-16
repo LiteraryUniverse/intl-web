@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Smoczy ogień",
   "blog.theme.preset.grimoire": "Grimuar",
   "blog.theme.preset.runestone": "Kamień runiczny",
-  "blog.theme.preset.sylvan": "Leśny"
+  "blog.theme.preset.sylvan": "Leśny",
+  "blog.theme.preset.manuscript": "Rękopis",
+  "blog.theme.preset.codex": "Kodeks",
+  "blog.theme.preset.architect": "Architekt",
+  "blog.theme.preset.chronicler": "Kronikarz"
 }

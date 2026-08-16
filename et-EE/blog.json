@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Draakonituli",
   "blog.theme.preset.grimoire": "Nõiaraamat",
   "blog.theme.preset.runestone": "Ruunikivi",
-  "blog.theme.preset.sylvan": "Metsane"
+  "blog.theme.preset.sylvan": "Metsane",
+  "blog.theme.preset.manuscript": "Käsikiri",
+  "blog.theme.preset.codex": "Koodeks",
+  "blog.theme.preset.architect": "Arhitekt",
+  "blog.theme.preset.chronicler": "Kroonik"
 }

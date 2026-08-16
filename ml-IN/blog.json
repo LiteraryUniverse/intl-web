@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "ഡ്രാഗൺ അഗ്നി",
   "blog.theme.preset.grimoire": "മന്ത്രഗ്രന്ഥം",
   "blog.theme.preset.runestone": "റൂൺ ശില",
-  "blog.theme.preset.sylvan": "വനഭൂമി"
+  "blog.theme.preset.sylvan": "വനഭൂമി",
+  "blog.theme.preset.manuscript": "കൈയെഴുത്തുപ്രതി",
+  "blog.theme.preset.codex": "കോഡെക്സ്",
+  "blog.theme.preset.architect": "വാസ്തുശില്പി",
+  "blog.theme.preset.chronicler": "ചരിത്രകാരൻ"
 }

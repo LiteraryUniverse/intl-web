@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "ਡਰੈਗਨ ਅੱਗ",
   "blog.theme.preset.grimoire": "ਮੰਤਰਗ੍ਰੰਥ",
   "blog.theme.preset.runestone": "ਰੂਨ ਪੱਥਰ",
-  "blog.theme.preset.sylvan": "ਵਣ"
+  "blog.theme.preset.sylvan": "ਵਣ",
+  "blog.theme.preset.manuscript": "ਹੱਥ-ਲਿਖਤ",
+  "blog.theme.preset.codex": "ਕੋਡੈਕਸ",
+  "blog.theme.preset.architect": "ਵਾਸਤੂਕਾਰ",
+  "blog.theme.preset.chronicler": "ਇਤਿਹਾਸਕਾਰ"
 }

@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Drakono ugnis",
   "blog.theme.preset.grimoire": "Burtų knyga",
   "blog.theme.preset.runestone": "Runų akmuo",
-  "blog.theme.preset.sylvan": "Girios"
+  "blog.theme.preset.sylvan": "Girios",
+  "blog.theme.preset.manuscript": "Rankraštis",
+  "blog.theme.preset.codex": "Kodeksas",
+  "blog.theme.preset.architect": "Architektas",
+  "blog.theme.preset.chronicler": "Metraštininkas"
 }

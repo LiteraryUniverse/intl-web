@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Focul dragonului",
   "blog.theme.preset.grimoire": "Grimoar",
   "blog.theme.preset.runestone": "Piatră runică",
-  "blog.theme.preset.sylvan": "Silvan"
+  "blog.theme.preset.sylvan": "Silvan",
+  "blog.theme.preset.manuscript": "Manuscris",
+  "blog.theme.preset.codex": "Codex",
+  "blog.theme.preset.architect": "Arhitect",
+  "blog.theme.preset.chronicler": "Cronicar"
 }

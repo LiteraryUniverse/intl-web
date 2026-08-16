@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Drachenfeuer",
   "blog.theme.preset.grimoire": "Grimoire",
   "blog.theme.preset.runestone": "Runenstein",
-  "blog.theme.preset.sylvan": "Waldig"
+  "blog.theme.preset.sylvan": "Waldig",
+  "blog.theme.preset.manuscript": "Manuskript",
+  "blog.theme.preset.codex": "Kodex",
+  "blog.theme.preset.architect": "Architekt",
+  "blog.theme.preset.chronicler": "Chronist"
 }

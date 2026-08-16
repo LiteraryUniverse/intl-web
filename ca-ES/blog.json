@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "Foc de drac",
   "blog.theme.preset.grimoire": "Grimori",
   "blog.theme.preset.runestone": "Pedra rúnica",
-  "blog.theme.preset.sylvan": "Silvestre"
+  "blog.theme.preset.sylvan": "Silvestre",
+  "blog.theme.preset.manuscript": "Manuscrit",
+  "blog.theme.preset.codex": "Còdex",
+  "blog.theme.preset.architect": "Arquitecte",
+  "blog.theme.preset.chronicler": "Cronista"
 }

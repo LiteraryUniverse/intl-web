@@ -255,5 +255,9 @@
   "blog.theme.preset.dragonfire": "竜炎",
   "blog.theme.preset.grimoire": "魔道書",
   "blog.theme.preset.runestone": "ルーン石",
-  "blog.theme.preset.sylvan": "森郷"
+  "blog.theme.preset.sylvan": "森郷",
+  "blog.theme.preset.manuscript": "写本",
+  "blog.theme.preset.codex": "古文書",
+  "blog.theme.preset.architect": "建築家",
+  "blog.theme.preset.chronicler": "年代記作家"
 }
