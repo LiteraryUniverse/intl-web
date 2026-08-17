@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Použít jako úvodní stránku",
   "blog.pages.clearHomepage": "Přestat používat jako úvodní stránku",
   "blog.pages.publishHint": "„Publikovat“ zde ukládá obsah stránky. Viditelnou ji uděláte v seznamu stránek.",
+  "blog.pages.starter.intro": "Představte tuto sekci svým čtenářům.",
   "blog.menus": "Nabídky",
   "blog.menus.info": "Položky nabídky odkazují na vaše stránky, vestavěné sekce blogu nebo externí weby. Nově dostupné sekce se objeví v Přidat sekci, kde je můžete přidat a přeuspořádat.",
   "blog.menus.top": "Horní nabídka",

@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Naudoti kaip pradžios puslapį",
   "blog.pages.clearHomepage": "Nebenaudoti kaip pradžios puslapio",
   "blog.pages.publishHint": "„Publikuoti“ čia išsaugo puslapio turinį. Matomą jį padarysite puslapių sąraše.",
+  "blog.pages.starter.intro": "Pristatykite šį skyrių savo skaitytojams.",
   "blog.menus": "Meniu",
   "blog.menus.info": "Meniu elementai nukreipia į jūsų puslapius, integruotas tinklaraščio skiltis arba išorines svetaines. Naujos skiltys atsiranda skiltyje Pridėti skiltį, kur galite jas pridėti ir pertvarkyti.",
   "blog.menus.top": "Viršutinis meniu",

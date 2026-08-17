@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Gunakan sebagai beranda",
   "blog.pages.clearHomepage": "Berhenti menggunakan sebagai beranda",
   "blog.pages.publishHint": "“Terbitkan” di sini menyimpan konten halaman. Jadikan halaman terlihat dari daftar halaman.",
+  "blog.pages.starter.intro": "Perkenalkan bagian ini kepada pembacamu.",
   "blog.menus": "Menu",
   "blog.menus.info": "Item menu menautkan ke halaman Anda, bagian blog bawaan, atau situs eksternal. Bagian yang baru tersedia muncul di Tambahkan bagian, tempat Anda dapat menambah dan mengatur ulangnya.",
   "blog.menus.top": "Menu atas",

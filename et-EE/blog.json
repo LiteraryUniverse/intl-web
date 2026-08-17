@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Kasuta avalehena",
   "blog.pages.clearHomepage": "Lõpeta avalehena kasutamine",
   "blog.pages.publishHint": "„Avalda“ salvestab siin lehe sisu. Nähtavaks tee leht lehtede loendist.",
+  "blog.pages.starter.intro": "Tutvusta seda jaotist oma lugejatele.",
   "blog.menus": "Menüüd",
   "blog.menus.info": "Menüü-üksused viitavad sinu lehtedele, blogi sisseehitatud jaotistele või välistele saitidele. Uued jaotised ilmuvad jaotise Lisa jaotis all, kus saad need lisada ja ümber järjestada.",
   "blog.menus.top": "Ülamenüü",

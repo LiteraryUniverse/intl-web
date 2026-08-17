@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Ustaw jako stronę główną",
   "blog.pages.clearHomepage": "Przestań używać jako strony głównej",
   "blog.pages.publishHint": "„Opublikuj” zapisuje tutaj treść strony. Widoczną uczynisz ją z listy stron.",
+  "blog.pages.starter.intro": "Przedstaw tę sekcję swoim czytelnikom.",
   "blog.menus": "Menu",
   "blog.menus.info": "Elementy menu prowadzą do Twoich stron, wbudowanych sekcji bloga lub witryn zewnętrznych. Nowo dostępne sekcje pojawiają się w Dodaj sekcję, gdzie możesz je dodać i przestawiać.",
   "blog.menus.top": "Górne menu",

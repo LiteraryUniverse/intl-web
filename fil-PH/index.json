@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Gamitin bilang homepage",
   "blog.pages.clearHomepage": "Itigil ang paggamit bilang homepage",
   "blog.pages.publishHint": "Ang “I-publish” dito ay nagse-save ng content ng pahina. Gawin itong nakikita mula sa listahan ng mga pahina.",
+  "blog.pages.starter.intro": "Ipakilala ang seksyong ito sa iyong mga mambabasa.",
   "blog.menus": "Mga menu",
   "blog.menus.info": "Ang mga item sa menu ay nagli-link sa iyong mga pahina, mga built-in na seksyon ng blog, o mga panlabas na site. Ang mga bagong available na seksyon ay lumalabas sa Magdagdag ng seksyon, kung saan maaari mo silang idagdag at muling ayusin.",
   "blog.menus.top": "Menu sa itaas",

@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "ホームページに設定",
   "blog.pages.clearHomepage": "ホームページ設定を解除",
   "blog.pages.publishHint": "ここでの「公開」はページ内容の保存です。表示はページ一覧から切り替えられます。",
+  "blog.pages.starter.intro": "このセクションを読者に紹介しましょう。",
   "blog.menus": "メニュー",
   "blog.menus.info": "メニュー項目は、あなたのページ、ブログの標準セクション、外部サイトにリンクします。新たに利用できるセクションは「セクションを追加」に表示され、そこで追加や並べ替えができます。",
   "blog.menus.top": "トップメニュー",

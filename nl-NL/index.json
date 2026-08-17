@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Gebruiken als startpagina",
   "blog.pages.clearHomepage": "Niet meer gebruiken als startpagina",
   "blog.pages.publishHint": "„Publiceren” slaat hier de pagina-inhoud op. Maak de pagina zichtbaar via de paginalijst.",
+  "blog.pages.starter.intro": "Stel dit onderdeel voor aan je lezers.",
   "blog.menus": "Menu's",
   "blog.menus.info": "Menu-items verwijzen naar je pagina's, ingebouwde blogsecties of externe sites. Nieuw beschikbare secties verschijnen onder Sectie toevoegen, waar je ze kunt toevoegen en herschikken.",
   "blog.menus.top": "Bovenmenu",

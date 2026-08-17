@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Ana sayfa olarak kullan",
   "blog.pages.clearHomepage": "Ana sayfa olarak kullanmayı bırak",
   "blog.pages.publishHint": "Buradaki “Yayınla” sayfa içeriğini kaydeder. Sayfayı sayfa listesinden görünür yapın.",
+  "blog.pages.starter.intro": "Bu bölümü okurlarınıza tanıtın.",
   "blog.menus": "Menüler",
   "blog.menus.info": "Menü öğeleri sayfalarınıza, blogun yerleşik bölümlerine veya dış sitelere bağlanır. Yeni kullanılabilir bölümler Bölüm ekle altında görünür; oradan ekleyebilir ve sıralayabilirsiniz.",
   "blog.menus.top": "Üst menü",

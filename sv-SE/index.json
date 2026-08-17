@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Använd som startsida",
   "blog.pages.clearHomepage": "Sluta använda som startsida",
   "blog.pages.publishHint": "”Publicera” här sparar sidans innehåll. Gör sidan synlig från sidlistan.",
+  "blog.pages.starter.intro": "Presentera det här avsnittet för dina läsare.",
   "blog.menus": "Menyer",
   "blog.menus.info": "Menyalternativ länkar till dina sidor, inbyggda bloggavsnitt eller externa webbplatser. Nya tillgängliga avsnitt visas under Lägg till en sektion, där du kan lägga till och ordna om dem.",
   "blog.menus.top": "Toppmeny",

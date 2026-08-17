@@ -173,6 +173,7 @@
   "blog.pages.setHomepage": "Use as homepage",
   "blog.pages.clearHomepage": "Stop using as homepage",
   "blog.pages.publishHint": "“Publish” here saves the page content. Make the page visible from the pages list.",
+  "blog.pages.starter.intro": "Introduce this section to your readers.",
   "blog.menus": "Menus",
   "blog.menus.info": "Menu items link to your pages, built-in blog sections or external sites. Newly available sections appear under Add a section, where you can add and reorder them.",
   "blog.menus.top": "Top menu",

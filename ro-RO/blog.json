@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Folosiți ca pagină de start",
   "blog.pages.clearHomepage": "Nu mai folosiți ca pagină de start",
   "blog.pages.publishHint": "„Publicați” aici salvează conținutul paginii. Faceți-o vizibilă din lista de pagini.",
+  "blog.pages.starter.intro": "Prezintă această secțiune cititorilor tăi.",
   "blog.menus": "Meniuri",
   "blog.menus.info": "Elementele de meniu duc la paginile tale, la secțiuni integrate ale blogului sau la site-uri externe. Secțiunile nou disponibile apar la Adaugă o secțiune, unde le poți adăuga și reordona.",
   "blog.menus.top": "Meniul de sus",

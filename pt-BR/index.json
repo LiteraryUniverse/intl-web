@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Usar como página inicial",
   "blog.pages.clearHomepage": "Parar de usar como página inicial",
   "blog.pages.publishHint": "“Publicar” aqui salva o conteúdo da página. Torne-a visível na lista de páginas.",
+  "blog.pages.starter.intro": "Apresente esta seção aos seus leitores.",
   "blog.menus": "Menus",
   "blog.menus.info": "Os itens do menu levam às suas páginas, a seções integradas do blog ou a sites externos. As novas seções disponíveis aparecem em Adicionar uma seção, onde você pode adicioná-las e reordená-las.",
   "blog.menus.top": "Menu superior",

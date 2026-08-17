@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Dùng làm trang chủ",
   "blog.pages.clearHomepage": "Ngừng dùng làm trang chủ",
   "blog.pages.publishHint": "“Xuất bản” ở đây lưu nội dung trang. Hãy hiển thị trang từ danh sách trang.",
+  "blog.pages.starter.intro": "Giới thiệu mục này với độc giả của bạn.",
   "blog.menus": "Trình đơn",
   "blog.menus.info": "Các mục menu liên kết đến trang của bạn, các mục có sẵn của blog hoặc trang web bên ngoài. Các mục mới có sẵn xuất hiện trong Thêm mục, nơi bạn có thể thêm và sắp xếp lại.",
   "blog.menus.top": "Trình đơn trên",

@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "設為首頁",
   "blog.pages.clearHomepage": "取消設為首頁",
   "blog.pages.publishHint": "此處的「發佈」會儲存頁面內容。請在頁面清單中將頁面設為可見。",
+  "blog.pages.starter.intro": "向讀者介紹這個區塊。",
   "blog.menus": "選單",
   "blog.menus.info": "選單項目可連結到你的頁面、網誌內建區塊或外部網站。新出現的區塊會顯示在「新增區塊」底下，你可以在那裡加入並調整順序。",
   "blog.menus.top": "頂部選單",
