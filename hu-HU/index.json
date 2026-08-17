@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Kezdőlapként való használat leállítása",
   "blog.pages.publishHint": "A „Közzététel” itt az oldal tartalmát menti. Láthatóvá az oldallistából teheti.",
   "blog.menus": "Menük",
-  "blog.menus.info": "A menüelemek az oldalaidra, a blog beépített rovataira vagy külső webhelyekre mutatnak. A rovatok automatikusan megjelennek, amikor bekapcsolsz egy funkciót – tetszés szerint átrendezheted vagy eltávolíthatod őket.",
+  "blog.menus.info": "A menüelemek az oldalaidra, a blog beépített rovataira vagy külső webhelyekre mutatnak. Az újonnan elérhető rovatok a Rovat hozzáadása alatt jelennek meg, ahol hozzáadhatod és átrendezheted őket.",
   "blog.menus.top": "Felső menü",
   "blog.menus.location.left": "Bal menü",
   "blog.menus.location.right": "Jobb menü",

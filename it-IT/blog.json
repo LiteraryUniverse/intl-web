@@ -164,7 +164,7 @@
   "blog.pages.clearHomepage": "Smetti di usare come pagina iniziale",
   "blog.pages.publishHint": "«Pubblica» qui salva il contenuto della pagina. Rendila visibile dall'elenco delle pagine.",
   "blog.menus": "Menu",
-  "blog.menus.info": "Le voci di menù rimandano alle tue pagine, alle sezioni integrate del blog o a siti esterni. Le sezioni compaiono automaticamente quando attivi una funzione: riordinale o rimuovile come preferisci.",
+  "blog.menus.info": "Le voci di menù rimandano alle tue pagine, alle sezioni integrate del blog o a siti esterni. Le nuove sezioni disponibili compaiono in Aggiungi una sezione, dove puoi aggiungerle e riordinarle.",
   "blog.menus.top": "Menu superiore",
   "blog.menus.location.left": "Menù sinistro",
   "blog.menus.location.right": "Menù destro",

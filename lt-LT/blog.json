@@ -164,7 +164,7 @@
   "blog.pages.clearHomepage": "Nebenaudoti kaip pradžios puslapio",
   "blog.pages.publishHint": "„Publikuoti“ čia išsaugo puslapio turinį. Matomą jį padarysite puslapių sąraše.",
   "blog.menus": "Meniu",
-  "blog.menus.info": "Meniu elementai nukreipia į jūsų puslapius, integruotas tinklaraščio skiltis arba išorines svetaines. Skiltys atsiranda automatiškai įjungus funkciją — pertvarkykite arba pašalinkite jas kaip norite.",
+  "blog.menus.info": "Meniu elementai nukreipia į jūsų puslapius, integruotas tinklaraščio skiltis arba išorines svetaines. Naujos skiltys atsiranda skiltyje Pridėti skiltį, kur galite jas pridėti ir pertvarkyti.",
   "blog.menus.top": "Viršutinis meniu",
   "blog.menus.location.left": "Kairysis meniu",
   "blog.menus.location.right": "Dešinysis meniu",

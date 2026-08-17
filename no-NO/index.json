@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Slutt å bruke som forside",
   "blog.pages.publishHint": "«Publiser» lagrer her sidens innhold. Gjør siden synlig fra sidelisten.",
   "blog.menus": "Menyer",
-  "blog.menus.info": "Menyelementer lenker til sidene dine, innebygde bloggseksjoner eller eksterne nettsteder. Seksjoner vises automatisk når du slår på en funksjon – omorganiser eller fjern dem som du vil.",
+  "blog.menus.info": "Menyelementer lenker til sidene dine, innebygde bloggseksjoner eller eksterne nettsteder. Nye tilgjengelige seksjoner vises under Legg til en seksjon, der du kan legge dem til og omorganisere dem.",
   "blog.menus.top": "Toppmeny",
   "blog.menus.location.left": "Venstre meny",
   "blog.menus.location.right": "Høyre meny",

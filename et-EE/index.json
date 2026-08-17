@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Lõpeta avalehena kasutamine",
   "blog.pages.publishHint": "„Avalda“ salvestab siin lehe sisu. Nähtavaks tee leht lehtede loendist.",
   "blog.menus": "Menüüd",
-  "blog.menus.info": "Menüü-üksused viitavad sinu lehtedele, blogi sisseehitatud jaotistele või välistele saitidele. Jaotised ilmuvad automaatselt, kui funktsiooni sisse lülitad — järjesta või eemalda need oma soovi järgi.",
+  "blog.menus.info": "Menüü-üksused viitavad sinu lehtedele, blogi sisseehitatud jaotistele või välistele saitidele. Uued jaotised ilmuvad jaotise Lisa jaotis all, kus saad need lisada ja ümber järjestada.",
   "blog.menus.top": "Ülamenüü",
   "blog.menus.location.left": "Vasak menüü",
   "blog.menus.location.right": "Parem menüü",

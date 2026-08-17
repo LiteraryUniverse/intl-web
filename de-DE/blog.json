@@ -164,7 +164,7 @@
   "blog.pages.clearHomepage": "Nicht mehr als Startseite verwenden",
   "blog.pages.publishHint": "„Veröffentlichen“ speichert hier den Seiteninhalt. Sichtbar machst du die Seite in der Seitenliste.",
   "blog.menus": "Menüs",
-  "blog.menus.info": "Menüeinträge verweisen auf deine Seiten, integrierte Blog-Bereiche oder externe Websites. Bereiche erscheinen automatisch, sobald du eine Funktion aktivierst – ordne sie um oder entferne sie nach Belieben.",
+  "blog.menus.info": "Menüeinträge verweisen auf deine Seiten, integrierte Blog-Bereiche oder externe Websites. Neu verfügbare Bereiche erscheinen unter Bereich hinzufügen, wo du sie hinzufügen und umordnen kannst.",
   "blog.menus.top": "Oberes Menü",
   "blog.menus.location.left": "Linkes Menü",
   "blog.menus.location.right": "Rechtes Menü",

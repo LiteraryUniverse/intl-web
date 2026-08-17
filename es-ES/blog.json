@@ -164,7 +164,7 @@
   "blog.pages.clearHomepage": "Dejar de usar como página de inicio",
   "blog.pages.publishHint": "«Publicar» aquí guarda el contenido de la página. Hazla visible desde la lista de páginas.",
   "blog.menus": "Menús",
-  "blog.menus.info": "Los elementos del menú enlazan con tus páginas, con secciones integradas del blog o con sitios externos. Las secciones aparecen automáticamente al activar una función: reordénalas o elimínalas como quieras.",
+  "blog.menus.info": "Los elementos del menú enlazan con tus páginas, con secciones integradas del blog o con sitios externos. Las secciones nuevas aparecen en Añadir una sección, donde puedes añadirlas y reordenarlas.",
   "blog.menus.top": "Menú superior",
   "blog.menus.location.left": "Menú izquierdo",
   "blog.menus.location.right": "Menú derecho",

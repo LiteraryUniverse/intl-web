@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Ngừng dùng làm trang chủ",
   "blog.pages.publishHint": "“Xuất bản” ở đây lưu nội dung trang. Hãy hiển thị trang từ danh sách trang.",
   "blog.menus": "Trình đơn",
-  "blog.menus.info": "Các mục menu liên kết đến trang của bạn, các mục có sẵn của blog hoặc trang web bên ngoài. Các mục sẽ tự động xuất hiện khi bạn bật một tính năng — sắp xếp lại hoặc xóa tùy ý.",
+  "blog.menus.info": "Các mục menu liên kết đến trang của bạn, các mục có sẵn của blog hoặc trang web bên ngoài. Các mục mới có sẵn xuất hiện trong Thêm mục, nơi bạn có thể thêm và sắp xếp lại.",
   "blog.menus.top": "Trình đơn trên",
   "blog.menus.location.left": "Menu trái",
   "blog.menus.location.right": "Menu phải",

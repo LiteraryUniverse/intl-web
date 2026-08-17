@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Deixa d'utilitzar com a pàgina d'inici",
   "blog.pages.publishHint": "«Publica» aquí desa el contingut de la pàgina. Feu-la visible des de la llista de pàgines.",
   "blog.menus": "Menús",
-  "blog.menus.info": "Els elements del menú enllacen a les vostres pàgines, a seccions integrades del blog o a llocs externs. Les seccions apareixen automàticament quan activeu una funció: reordeneu-les o suprimiu-les com vulgueu.",
+  "blog.menus.info": "Els elements del menú enllacen a les vostres pàgines, a seccions integrades del blog o a llocs externs. Les seccions noves apareixen a Afegeix una secció, on les podeu afegir i reordenar.",
   "blog.menus.top": "Menú superior",
   "blog.menus.location.left": "Menú esquerre",
   "blog.menus.location.right": "Menú dret",

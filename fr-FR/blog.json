@@ -164,7 +164,7 @@
   "blog.pages.clearHomepage": "Ne plus utiliser comme page d'accueil",
   "blog.pages.publishHint": "« Publier » enregistre ici le contenu de la page. Rendez-la visible depuis la liste des pages.",
   "blog.menus": "Menus",
-  "blog.menus.info": "Les éléments de menu renvoient à vos pages, aux sections intégrées du blog ou à des sites externes. Les sections apparaissent automatiquement lorsque vous activez une fonctionnalité — réorganisez-les ou retirez-les à votre guise.",
+  "blog.menus.info": "Les éléments de menu renvoient à vos pages, aux sections intégrées du blog ou à des sites externes. Les nouvelles sections disponibles apparaissent sous Ajouter une section, où vous pouvez les ajouter et les réorganiser.",
   "blog.menus.top": "Menu supérieur",
   "blog.menus.location.left": "Menu de gauche",
   "blog.menus.location.right": "Menu de droite",

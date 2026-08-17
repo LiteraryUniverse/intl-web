@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Prestať používať ako úvodnú stránku",
   "blog.pages.publishHint": "„Publikovať“ tu ukladá obsah stránky. Viditeľnou ju urobíte v zozname stránok.",
   "blog.menus": "Ponuky",
-  "blog.menus.info": "Položky ponuky odkazujú na vaše stránky, vstavané sekcie blogu alebo externé weby. Sekcie sa zobrazia automaticky po zapnutí funkcie — môžete ich preusporiadať alebo odstrániť.",
+  "blog.menus.info": "Položky ponuky odkazujú na vaše stránky, vstavané sekcie blogu alebo externé weby. Nové dostupné sekcie sa zobrazia v Pridať sekciu, kde ich môžete pridať a preusporiadať.",
   "blog.menus.top": "Horná ponuka",
   "blog.menus.location.left": "Ľavá ponuka",
   "blog.menus.location.right": "Pravá ponuka",

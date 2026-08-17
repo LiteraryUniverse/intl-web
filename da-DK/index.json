@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Stop med at bruge som forside",
   "blog.pages.publishHint": "„Udgiv“ gemmer her sidens indhold. Gør siden synlig fra sidelisten.",
   "blog.menus": "Menuer",
-  "blog.menus.info": "Menupunkter linker til dine sider, indbyggede blogsektioner eller eksterne websteder. Sektioner vises automatisk, når du slår en funktion til – omarranger eller fjern dem, som du vil.",
+  "blog.menus.info": "Menupunkter linker til dine sider, indbyggede blogsektioner eller eksterne websteder. Nye tilgængelige sektioner vises under Tilføj en sektion, hvor du kan tilføje og omarrangere dem.",
   "blog.menus.top": "Topmenu",
   "blog.menus.location.left": "Venstre menu",
   "blog.menus.location.right": "Højre menu",

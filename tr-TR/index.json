@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Ana sayfa olarak kullanmayı bırak",
   "blog.pages.publishHint": "Buradaki “Yayınla” sayfa içeriğini kaydeder. Sayfayı sayfa listesinden görünür yapın.",
   "blog.menus": "Menüler",
-  "blog.menus.info": "Menü öğeleri sayfalarınıza, blogun yerleşik bölümlerine veya dış sitelere bağlanır. Bir özelliği açtığınızda bölümler otomatik olarak görünür — dilediğiniz gibi sıralayın veya kaldırın.",
+  "blog.menus.info": "Menü öğeleri sayfalarınıza, blogun yerleşik bölümlerine veya dış sitelere bağlanır. Yeni kullanılabilir bölümler Bölüm ekle altında görünür; oradan ekleyebilir ve sıralayabilirsiniz.",
   "blog.menus.top": "Üst menü",
   "blog.menus.location.left": "Sol menü",
   "blog.menus.location.right": "Sağ menü",

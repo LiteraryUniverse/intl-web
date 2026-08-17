@@ -284,7 +284,7 @@
   "blog.pages.clearHomepage": "Sluta använda som startsida",
   "blog.pages.publishHint": "”Publicera” här sparar sidans innehåll. Gör sidan synlig från sidlistan.",
   "blog.menus": "Menyer",
-  "blog.menus.info": "Menyalternativ länkar till dina sidor, inbyggda bloggavsnitt eller externa webbplatser. Avsnitt visas automatiskt när du aktiverar en funktion – ordna om eller ta bort dem som du vill.",
+  "blog.menus.info": "Menyalternativ länkar till dina sidor, inbyggda bloggavsnitt eller externa webbplatser. Nya tillgängliga avsnitt visas under Lägg till en sektion, där du kan lägga till och ordna om dem.",
   "blog.menus.top": "Toppmeny",
   "blog.menus.location.left": "Vänstermeny",
   "blog.menus.location.right": "Högermeny",
