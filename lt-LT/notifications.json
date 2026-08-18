@@ -109,5 +109,13 @@
   "notification.team.left": "{user} paliko „{workTitle}“ komandą ({role}).",
   "notification.team.compensationChanged": "Jūsų atlygis už „{workTitle}“ dabar: {compensation}.",
   "notificationExtra.team.viewInvitations": "Peržiūrėti kvietimus",
-  "notificationExtra.team.goToWork": "Eiti į kūrinį"
+  "notificationExtra.team.goToWork": "Eiti į kūrinį",
+  "notification.orgLicense.proposed": "{organization}: licencijos pasiūlymas kūriniui „{work}“ ({license}) laukia sprendimo.",
+  "notification.orgLicense.accepted": "Licencija {license} kūriniui „{work}“ su {organization} dabar aktyvi.",
+  "notification.orgLicense.rejected": "Licencijos pasiūlymas kūriniui „{work}“ su {organization} buvo atmestas.",
+  "notification.orgLicense.terminated": "Licencija {license} kūriniui „{work}“ su {organization} baigiasi — ji lieka aktyvi 30 dienų įspėjimo laikotarpiu.",
+  "notification.orgLicense.carveOutRequested": "{organization}: kūrinio „{work}“ autorius prašo atlaisvinti vieną kalbą iš jūsų licencijos.",
+  "notification.orgLicense.carveOutApproved": "{organization} atlaisvino vieną kūrinio „{work}“ kalbą — tą vertimą galite licencijuoti kitur.",
+  "notification.orgLicense.carveOutRejected": "{organization} išlaikė savo kūrinio „{work}“ kalbų aprėptį.",
+  "notification.orgLicense.subscriptionRemoval": "Kūrinys „{work}“ po 30 dienų palieka {organization} prenumeratą — iki tol skaitytojai išsaugo prieigą."
 }

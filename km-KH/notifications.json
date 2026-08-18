@@ -109,5 +109,13 @@
   "notification.team.left": "{user} បានចាកចេញពីក្រុមរបស់ {workTitle} ({role})។",
   "notification.team.compensationChanged": "ប្រាក់កម្រៃរបស់អ្នកលើ {workTitle} បានប្ដូរទៅ {compensation}។",
   "notificationExtra.team.viewInvitations": "មើលការអញ្ជើញ",
-  "notificationExtra.team.goToWork": "ទៅកាន់ស្នាដៃ"
+  "notificationExtra.team.goToWork": "ទៅកាន់ស្នាដៃ",
+  "notification.orgLicense.proposed": "{organization}៖ សំណើអាជ្ញាប័ណ្ណសម្រាប់ “{work}” ({license}) កំពុងរង់ចាំការសម្រេច។",
+  "notification.orgLicense.accepted": "អាជ្ញាប័ណ្ណ {license} សម្រាប់ “{work}” ជាមួយ {organization} ឥឡូវនេះសកម្មហើយ។",
+  "notification.orgLicense.rejected": "សំណើអាជ្ញាប័ណ្ណសម្រាប់ “{work}” ជាមួយ {organization} ត្រូវបានបដិសេធ។",
+  "notification.orgLicense.terminated": "អាជ្ញាប័ណ្ណ {license} សម្រាប់ “{work}” ជាមួយ {organization} ជិតបញ្ចប់ហើយ — វានៅតែសកម្មក្នុងអំឡុងពេលជូនដំណឹង 30 ថ្ងៃ។",
+  "notification.orgLicense.carveOutRequested": "{organization}៖ អ្នកនិពន្ធនៃ “{work}” ស្នើសុំដោះលែងភាសាមួយចេញពីអាជ្ញាប័ណ្ណរបស់អ្នក។",
+  "notification.orgLicense.carveOutApproved": "{organization} បានដោះលែងភាសាមួយនៃ “{work}” — អ្នកអាចផ្ដល់អាជ្ញាប័ណ្ណការបកប្រែនោះនៅកន្លែងផ្សេង។",
+  "notification.orgLicense.carveOutRejected": "{organization} បានរក្សាការគ្របដណ្ដប់ភាសារបស់ខ្លួនលើ “{work}”។",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” នឹងចាកចេញពីការជាវរបស់ {organization} ក្នុងរយៈពេល 30 ថ្ងៃ — អ្នកអានរក្សាការចូលប្រើរហូតដល់ពេលនោះ។"
 }

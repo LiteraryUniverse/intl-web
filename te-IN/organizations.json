@@ -80,7 +80,7 @@
   "org.roles.title": "పాత్రలు మరియు అనుమతులు",
   "org.roles.intro": "ఒక పాత్ర అనుమతుల సమూహాన్ని ఇస్తుంది. మరింత సూక్ష్మ నియంత్రణ కోసం పాత్రపై విడివిడిగా అనుమతులను జోడించండి.",
   "org.workProposal.title": "ప్రతిపాదిత రచనలు",
-  "org.workProposal.intro": "మీ రచనలలో ఒకదాన్ని ఈ సంస్థకు అందించండి. నిర్వాహకుడు అంగీకరిస్తే, సంస్థ దాని యజమాని అవుతుంది.",
+  "org.workProposal.intro": "మీ రచనలలో ఒకదాన్ని ఈ సంస్థకు దాని లైసెన్సులలో ఒకదాని కింద అందించండి. ఆమోదిస్తే, రచన మీదే ఉంటుంది — సంస్థకు లైసెన్సు హక్కులు మరియు ఆదాయంలో దాని వాటా లభిస్తాయి.",
   "org.workProposal.propose": "రచనను ప్రతిపాదించండి",
   "org.workProposal.selectWork": "ప్రతిపాదించాల్సిన రచన",
   "org.workProposal.note": "సంస్థకు సందేశం (ఐచ్ఛికం)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe సమయానికి స్పందించలేదు. దయచేసి చెల్లింపులను మళ్లీ సెటప్ చేయడానికి ప్రయత్నించండి.",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "ప్రధాన సంపాదకుడు",
+  "org.permissions.licensing": "లైసెన్సింగ్ నిర్వహణ",
+  "org.curation.title": "సభ్యత్వాలలో లైసెన్సు పొందిన రచనలు",
+  "org.curation.intro": "ఒక రచనను మీ సభ్యత్వాలలో చేర్చడానికి లైసెన్సు అనుమతిస్తుంది — చేర్చాల్సిన అవసరం లేదు. ఒక స్థాయి ఎంపికను తీసివేస్తే ఆ రచన మీ కేటలాగ్ నుండి మాత్రమే అమ్ముడవుతుంది; ఆ తర్వాత 30 రోజుల పాటు పాఠకులు యాక్సెస్‌ను కలిగి ఉంటారు.",
+  "org.carveOut.request": "{language} భాషను విడుదల చేయాలా?"
 }

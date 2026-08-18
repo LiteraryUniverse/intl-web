@@ -78,7 +78,7 @@
   "org.roles.title": "Peran dan izin",
   "org.roles.intro": "Sebuah peran memberikan sekumpulan izin. Tambahkan izin satuan di atas peran untuk kendali yang lebih rinci.",
   "org.workProposal.title": "Karya yang diusulkan",
-  "org.workProposal.intro": "Tawarkan salah satu karyamu kepada organisasi ini. Jika admin menerimanya, organisasi menjadi pemiliknya.",
+  "org.workProposal.intro": "Tawarkan salah satu karyamu kepada organisasi ini di bawah salah satu lisensinya. Jika diterima, karya tetap milikmu — organisasi memperoleh hak lisensi beserta bagiannya dari pendapatan.",
   "org.workProposal.propose": "Usulkan karya",
   "org.workProposal.selectWork": "Karya yang diusulkan",
   "org.workProposal.note": "Pesan untuk organisasi (opsional)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Batalkan arsip",
   "org.workshop.licensed": "Karya berlisensi",
   "org.workshop.licensed.intro": "Karya milik penciptanya yang membawa salah satu lisensi organisasi Anda. Anda dapat mempromosikannya; pengeditan tetap pada pemilik.",
-  "org.workshop.licensed.empty": "Belum ada karya yang membawa lisensi Anda."
+  "org.workshop.licensed.empty": "Belum ada karya yang membawa lisensi Anda.",
+  "org.roles.editor": "Pemimpin redaksi",
+  "org.permissions.licensing": "Kelola lisensi",
+  "org.curation.title": "Karya berlisensi dalam langganan",
+  "org.curation.intro": "Lisensi memungkinkan Anda memasukkan sebuah karya ke dalam langganan Anda — tetapi tidak mewajibkannya. Hapus centang pada sebuah tingkat untuk menjual karya itu hanya dari katalog Anda; pembaca tetap memiliki akses selama 30 hari setelahnya.",
+  "org.carveOut.request": "Lepaskan {language}?"
 }

@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Owah-owahan lisensi dijadwalake tanggal {date}. Nganti wektu iku pamaca ndeleng kabar ing karya; lisensi saiki tetep aktif.",
   "workshop.translations.license.title": "Lisensi terjemahan",
   "workshop.translations.license.default": "Standar ({license})",
-  "workshop.translations.license.viaOrg": "Lisensi organisasi regional ditawakake yen sampeyan dadi anggota organisasi kasebut, utawa yen salah siji anggotane nerjemahake basa kasebut. Yen ditrapake, terjemahan bakal kadaptar ing katalog organisasi kasebut lan bagian organisasi ditambahake menyang pembagian penghasilan edisi kasebut (dijupuk saka bagian sampeyan). Lisensi iki dikunci sawise terjemahan diterbitake.",
-  "workshop.translations.license.internationalCovered": "Lisensi organisasi internasional karya iki nyakup kabeh terjemahane.",
+  "workshop.translations.license.viaOrg": "Lisensi organisasi sing nyakup basa kasebut ditawakake yen sampeyan dadi anggota organisasi kasebut, utawa yen salah siji anggotane nerjemahake basa kasebut. Yen ditrapake, terjemahan bakal kadaptar ing katalog organisasi kasebut lan bagian organisasi ditambahake menyang pembagian penghasilan edisi kasebut (dijupuk saka bagian sampeyan). Lisensi iki dikunci sawise terjemahan diterbitake.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Kacakup dening lisensi organisasi karya iki.",
+  "legal.licenseAgreements": "Perjanjian lisensi organisasi",
+  "legal.licenseTranslatorBudget": "Penerjemah sing ditunjuk organisasi bisa nampa nganti {budget}% kanthi bebarengan.",
+  "legal.licenseEndingOn": "Rampung tanggal {date}. Nganti wektu iku kabeh tetep ditrapake.",
+  "legal.licenseNoticeTerms": "Saben pihak bisa mungkasi lisensi iki kanthi kabar {days} dina sing dituduhake marang pamaca. Sawise iku bagian organisasi bali menyang sampeyan lan pamaca tetep nduweni apa sing wis dientuk.",
+  "legal.licenseAcceptedOn": "Ditampa tanggal {date}",
+  "legal.endLicense": "Pungkasi lisensi"
 }

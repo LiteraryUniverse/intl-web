@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "Manuscris",
   "blog.theme.preset.codex": "Codex",
   "blog.theme.preset.architect": "Arhitect",
-  "blog.theme.preset.chronicler": "Cronicar"
+  "blog.theme.preset.chronicler": "Cronicar",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

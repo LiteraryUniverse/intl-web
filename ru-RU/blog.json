@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "Рукопись",
   "blog.theme.preset.codex": "Кодекс",
   "blog.theme.preset.architect": "Архитектор",
-  "blog.theme.preset.chronicler": "Летописец"
+  "blog.theme.preset.chronicler": "Летописец",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

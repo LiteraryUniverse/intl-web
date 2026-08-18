@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Nakatakda ang pagpapalit ng lisensya sa {date}. Hanggang doon, makakakita ang mga mambabasa ng abiso sa akda; mananatiling aktibo ang kasalukuyang lisensya.",
   "workshop.translations.license.title": "Mga lisensya ng pagsasalin",
   "workshop.translations.license.default": "Default ({license})",
-  "workshop.translations.license.viaOrg": "Ang rehiyonal na lisensya ng organisasyon ay inaalok kapag kabilang ka sa organisasyon, o kapag isinasalin ng isa sa mga miyembro nito ang wikang iyon. Ang paglalapat nito ay naglilista ng pagsasalin sa katalogo ng organisasyong iyon at nagdaragdag ng bahagi ng organisasyon sa hatian ng kita ng edisyong iyon (kinukuha mula sa iyong bahagi). Nagla-lock ito kapag nailathala na ang pagsasalin.",
-  "workshop.translations.license.internationalCovered": "Sinasaklaw ng internasyonal na lisensya ng organisasyon ng akdang ito ang lahat ng pagsasalin nito.",
+  "workshop.translations.license.viaOrg": "Ang lisensya ng organisasyon na sumasaklaw sa wika ay inaalok kapag kabilang ka sa organisasyon, o kapag isinasalin ng isa sa mga miyembro nito ang wikang iyon. Ang paglalapat nito ay naglilista ng pagsasalin sa katalogo ng organisasyong iyon at nagdaragdag ng bahagi ng organisasyon sa hatian ng kita ng edisyong iyon (kinukuha mula sa iyong bahagi). Nagla-lock ito kapag nailathala na ang pagsasalin.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Saklaw ng lisensya ng organisasyon ng akda.",
+  "legal.licenseAgreements": "Mga kasunduan sa lisensya ng organisasyon",
+  "legal.licenseTranslatorBudget": "Ang mga tagasaling itinalaga ng organisasyon ay maaaring makatanggap ng hanggang {budget}% nang sama-sama.",
+  "legal.licenseEndingOn": "Magtatapos sa {date}. Hanggang doon ay mananatiling may bisa ang lahat.",
+  "legal.licenseNoticeTerms": "Maaaring tapusin ng alinmang panig ang lisensyang ito sa pamamagitan ng {days}-araw na abiso na ipinapakita sa mga mambabasa. Pagkatapos, babalik sa iyo ang bahagi ng organisasyon at mananatili sa mga mambabasa ang nakuha na nila.",
+  "legal.licenseAcceptedOn": "Tinanggap noong {date}",
+  "legal.endLicense": "Tapusin ang lisensya"
 }

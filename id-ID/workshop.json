@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Perubahan lisensi dijadwalkan pada {date}. Hingga saat itu pembaca melihat pemberitahuan pada karya; lisensi saat ini tetap aktif.",
   "workshop.translations.license.title": "Lisensi terjemahan",
   "workshop.translations.license.default": "Default ({license})",
-  "workshop.translations.license.viaOrg": "Lisensi organisasi regional ditawarkan saat Anda tergabung dalam organisasi tersebut, atau saat salah satu anggotanya menerjemahkan bahasa itu. Menerapkannya mencantumkan terjemahan di katalog organisasi tersebut dan menambahkan bagian organisasi ke pembagian pendapatan edisi itu (diambil dari bagian Anda). Lisensi terkunci setelah terjemahan diterbitkan.",
-  "workshop.translations.license.internationalCovered": "Lisensi organisasi internasional karya ini mencakup semua terjemahannya.",
+  "workshop.translations.license.viaOrg": "Lisensi organisasi yang mencakup bahasa tersebut ditawarkan saat Anda tergabung dalam organisasi tersebut, atau saat salah satu anggotanya menerjemahkan bahasa itu. Menerapkannya mencantumkan terjemahan di katalog organisasi tersebut dan menambahkan bagian organisasi ke pembagian pendapatan edisi itu (diambil dari bagian Anda). Lisensi terkunci setelah terjemahan diterbitkan.",
   "workshop.universe.forum.short": "Forum universe",
   "workshop.team.role.designer": "Desainer",
   "workshop.team.role.production": "Produksi",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Editor audio",
   "workshop.credit.role.soundEngineer": "Insinyur suara",
   "workshop.credit.role.composer": "Komposer",
-  "workshop.credit.role.betaReader": "Pembaca beta"
+  "workshop.credit.role.betaReader": "Pembaca beta",
+  "workshop.translations.license.coveredByOrg": "Dicakup oleh lisensi organisasi karya ini.",
+  "legal.licenseAgreements": "Perjanjian lisensi organisasi",
+  "legal.licenseTranslatorBudget": "Penerjemah yang ditugaskan organisasi dapat menerima hingga {budget}% secara bersama-sama.",
+  "legal.licenseEndingOn": "Berakhir pada {date}. Hingga saat itu semuanya tetap berlaku.",
+  "legal.licenseNoticeTerms": "Masing-masing pihak dapat mengakhiri lisensi ini dengan pemberitahuan {days} hari yang ditampilkan kepada pembaca. Setelah itu bagian organisasi kembali kepada Anda dan pembaca tetap memiliki apa yang sudah mereka peroleh.",
+  "legal.licenseAcceptedOn": "Diterima pada {date}",
+  "legal.endLicense": "Akhiri lisensi"
 }

@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Cambio di licenza programmato per il {date}. Fino ad allora i lettori vedono un avviso sull'opera; la licenza attuale resta attiva.",
   "workshop.translations.license.title": "Licenze di traduzione",
   "workshop.translations.license.default": "Predefinita ({license})",
-  "workshop.translations.license.viaOrg": "Una licenza regionale dell'organizzazione viene proposta quando appartieni all'organizzazione o quando uno dei suoi membri traduce quella lingua. Applicarla inserisce la traduzione nel catalogo di quell'organizzazione e aggiunge la quota dell'organizzazione alla ripartizione dei ricavi di quell'edizione (prelevata dalla tua parte). Si blocca una volta pubblicata la traduzione.",
-  "workshop.translations.license.internationalCovered": "La licenza internazionale dell'organizzazione di quest'opera copre tutte le sue traduzioni.",
+  "workshop.translations.license.viaOrg": "Una licenza dell'organizzazione che copre la lingua viene proposta quando appartieni all'organizzazione o quando uno dei suoi membri traduce quella lingua. Applicarla inserisce la traduzione nel catalogo di quell'organizzazione e aggiunge la quota dell'organizzazione alla ripartizione dei ricavi di quell'edizione (prelevata dalla tua parte). Si blocca una volta pubblicata la traduzione.",
   "workshop.revShare.mustMatchCreatorShare": "Le righe dei creatori devono sommarsi a {creatorShare, number}% perché la quota della piattaforma è fissa a {platformShare, number}%.",
   "workshop.revShare.owner": "Proprietario",
   "workshop.revShare.ownerLocked": "Il proprietario della storia deve partecipare alla divisione dei pagamenti.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Editor audio",
   "workshop.credit.role.soundEngineer": "Tecnico del suono",
   "workshop.credit.role.composer": "Compositore",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Coperto dalla licenza dell'organizzazione dell'opera.",
+  "legal.licenseAgreements": "Accordi di licenza con l'organizzazione",
+  "legal.licenseTranslatorBudget": "I traduttori incaricati dall'organizzazione possono ricevere complessivamente fino al {budget}%.",
+  "legal.licenseEndingOn": "Termina il {date}. Fino ad allora resta tutto in vigore.",
+  "legal.licenseNoticeTerms": "Entrambe le parti possono porre fine a questa licenza con un preavviso di {days} giorni mostrato ai lettori. Dopo, la quota dell'organizzazione torna a te e i lettori mantengono quanto hanno già ottenuto.",
+  "legal.licenseAcceptedOn": "Accettata il {date}",
+  "legal.endLicense": "Termina licenza"
 }

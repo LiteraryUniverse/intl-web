@@ -78,7 +78,7 @@
   "org.roles.title": "តួនាទី និងសិទ្ធិ",
   "org.roles.intro": "តួនាទីផ្តល់នូវសំណុំសិទ្ធិមួយ។ សម្រាប់ការគ្រប់គ្រងលម្អិតជាង សូមបន្ថែមសិទ្ធិនីមួយៗលើតួនាទីនោះ។",
   "org.workProposal.title": "ស្នាដៃដែលបានស្នើ",
-  "org.workProposal.intro": "ផ្តល់ស្នាដៃរបស់អ្នកមួយដល់អង្គការនេះ។ ប្រសិនបើអ្នកគ្រប់គ្រងទទួលយក អង្គការនឹងក្លាយជាម្ចាស់របស់វា។",
+  "org.workProposal.intro": "ផ្តល់ស្នាដៃរបស់អ្នកមួយដល់អង្គការនេះ ក្រោមអាជ្ញាប័ណ្ណណាមួយរបស់វា។ ប្រសិនបើត្រូវបានទទួលយក ស្នាដៃនៅតែជារបស់អ្នក — អង្គការទទួលបានសិទ្ធិនៃអាជ្ញាប័ណ្ណ និងចំណែកចំណូលរបស់ខ្លួន។",
   "org.workProposal.propose": "ស្នើស្នាដៃ",
   "org.workProposal.selectWork": "ស្នាដៃដែលត្រូវស្នើ",
   "org.workProposal.note": "សារទៅអង្គការ (ស្រេចចិត្ត)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "ដកចេញពីបណ្ណសារ",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "និពន្ធនាយក",
+  "org.permissions.licensing": "គ្រប់គ្រងអាជ្ញាប័ណ្ណ",
+  "org.curation.title": "ស្នាដៃដែលមានអាជ្ញាប័ណ្ណនៅក្នុងការជាវ",
+  "org.curation.intro": "អាជ្ញាប័ណ្ណអនុញ្ញាតឱ្យអ្នកដាក់ស្នាដៃមួយចូលក្នុងការជាវរបស់អ្នក — ប៉ុន្តែមិនចាំបាច់ធ្វើទេ។ ដកសញ្ញាធីកចេញពីកម្រិតណាមួយ ដើម្បីលក់ស្នាដៃនោះតែពីកាតាឡុករបស់អ្នកប៉ុណ្ណោះ អ្នកអាននៅតែចូលប្រើបានរយៈពេល 30 ថ្ងៃបន្ទាប់ពីនោះ។",
+  "org.carveOut.request": "ប្រគល់ {language} ចេញឬទេ?"
 }

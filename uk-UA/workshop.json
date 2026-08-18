@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Зміну ліцензії заплановано на {date}. До того часу читачі бачать сповіщення на творі; поточна ліцензія залишається чинною.",
   "workshop.translations.license.title": "Ліцензії перекладів",
   "workshop.translations.license.default": "За замовчуванням ({license})",
-  "workshop.translations.license.viaOrg": "Регіональна ліцензія організації пропонується, коли ви належите до організації або коли один з її учасників перекладає цю мову. Її застосування додає переклад до каталогу цієї організації та додає частку організації до розподілу доходу цього видання (береться з вашої частини). Вона фіксується після публікації перекладу.",
-  "workshop.translations.license.internationalCovered": "Міжнародна ліцензія організації цього твору охоплює всі його переклади.",
+  "workshop.translations.license.viaOrg": "Ліцензія організації, що охоплює мову, пропонується, коли ви належите до організації або коли один з її учасників перекладає цю мову. Її застосування додає переклад до каталогу цієї організації та додає частку організації до розподілу доходу цього видання (береться з вашої частини). Вона фіксується після публікації перекладу.",
   "workshop.revShare.mustMatchCreatorShare": "Рядки творців повинні мати вигляд {creatorShare, number}%, оскільки частка платформи фіксована за адресою {platformShare, number}%.",
   "workshop.revShare.owner": "Власник",
   "workshop.revShare.ownerLocked": "Власник історії повинен отримати частину виплат.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Аудіоредактор",
   "workshop.credit.role.soundEngineer": "Звукоінженер",
   "workshop.credit.role.composer": "Композитор",
-  "workshop.credit.role.betaReader": "Бета-читач"
+  "workshop.credit.role.betaReader": "Бета-читач",
+  "workshop.translations.license.coveredByOrg": "Охоплено ліцензією організації цього твору.",
+  "legal.licenseAgreements": "Ліцензійні угоди з організаціями",
+  "legal.licenseTranslatorBudget": "Перекладачі, призначені організацією, можуть разом отримати до {budget}%.",
+  "legal.licenseEndingOn": "Завершується {date}. До того часу все залишається чинним.",
+  "legal.licenseNoticeTerms": "Будь-яка зі сторін може завершити цю ліцензію з {days}-денним попередженням, яке показується читачам. Після цього частка організації повертається до вас, а читачі зберігають те, що вже отримали.",
+  "legal.licenseAcceptedOn": "Прийнято {date}",
+  "legal.endLicense": "Завершити ліцензію"
 }

@@ -78,7 +78,7 @@
   "org.roles.title": "ভূমিকা ও অনুমতি",
   "org.roles.intro": "একটি ভূমিকা একগুচ্ছ অনুমতি দেয়। আরও সূক্ষ্ম নিয়ন্ত্রণের জন্য ভূমিকার সঙ্গে আলাদা অনুমতি যোগ করুন।",
   "org.workProposal.title": "প্রস্তাবিত কাজ",
-  "org.workProposal.intro": "আপনার নিজের কোনো কাজ এই সংস্থাকে প্রস্তাব করুন। কোনো অ্যাডমিন গ্রহণ করলে সংস্থাই তার মালিক হবে।",
+  "org.workProposal.intro": "আপনার নিজের কোনো কাজ এই সংস্থাকে তার কোনো একটি লাইসেন্সের অধীনে প্রস্তাব করুন। গৃহীত হলে কাজটি আপনারই থাকবে — সংস্থা লাইসেন্সের অধিকার ও আয়ের নিজস্ব ভাগ পাবে।",
   "org.workProposal.propose": "কাজ প্রস্তাব করুন",
   "org.workProposal.selectWork": "প্রস্তাব করার কাজ",
   "org.workProposal.note": "সংস্থার জন্য বার্তা (ঐচ্ছিক)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "আন-আর্কাইভ করুন",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "প্রধান সম্পাদক",
+  "org.permissions.licensing": "লাইসেন্সিং পরিচালনা করুন",
+  "org.curation.title": "সাবস্ক্রিপশনে লাইসেন্সকৃত কাজ",
+  "org.curation.intro": "লাইসেন্স আপনাকে আপনার সাবস্ক্রিপশনে কোনও কাজ রাখার সুযোগ দেয় — এটি বাধ্যতামূলক নয়। কাজটি শুধু আপনার ক্যাটালগ থেকে বিক্রি করতে চাইলে স্তরটির টিক তুলে দিন; এরপরেও পাঠকরা 30 দিন অ্যাক্সেস ধরে রাখেন।",
+  "org.carveOut.request": "{language} মুক্ত করবেন?"
 }

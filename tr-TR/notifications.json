@@ -109,5 +109,13 @@
   "notification.team.left": "{user}, {workTitle} adlı eserin ekibinden ayrıldı ({role}).",
   "notification.team.compensationChanged": "{workTitle} için ücretlendirmeniz şu şekilde değişti: {compensation}.",
   "notificationExtra.team.viewInvitations": "Davetleri görüntüle",
-  "notificationExtra.team.goToWork": "Esere git"
+  "notificationExtra.team.goToWork": "Esere git",
+  "notification.orgLicense.proposed": "{organization}: “{work}” için bir lisans önerisi ({license}) karar bekliyor.",
+  "notification.orgLicense.accepted": "{organization} ile “{work}” için {license} lisansı artık etkin.",
+  "notification.orgLicense.rejected": "{organization} ile “{work}” için lisans önerisi reddedildi.",
+  "notification.orgLicense.terminated": "{organization} ile “{work}” için {license} lisansı sona eriyor — 30 günlük bildirim süresi boyunca etkin kalır.",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}” eserinin yazarı lisansınızdan bir dilin serbest bırakılmasını istiyor.",
+  "notification.orgLicense.carveOutApproved": "{organization}, “{work}” eserinin bir dilini serbest bıraktı — bu çeviriyi başka bir yere lisanslayabilirsiniz.",
+  "notification.orgLicense.carveOutRejected": "{organization}, “{work}” eserindeki dil kapsamını korudu.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 gün içinde {organization} aboneliğinden ayrılıyor — okuyucular o zamana kadar erişimlerini korur."
 }

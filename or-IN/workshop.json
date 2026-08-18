@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "ଲାଇସେନ୍ସ ପରିବର୍ତ୍ତନ {date} ପାଇଁ ନିର୍ଧାରିତ ହୋଇଛି। ସେ ପର୍ଯ୍ୟନ୍ତ ପାଠକମାନେ କୃତିରେ ଏକ ସୂଚନା ଦେଖନ୍ତି; ବର୍ତ୍ତମାନର ଲାଇସେନ୍ସ ସକ୍ରିୟ ରହେ।",
   "workshop.translations.license.title": "ଅନୁବାଦ ଲାଇସେନ୍ସ",
   "workshop.translations.license.default": "ଡିଫଲ୍ଟ ({license})",
-  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
-  "workshop.translations.license.internationalCovered": "ଏହି କୃତିର ଆନ୍ତର୍ଜାତୀୟ ସଂଗଠନ ଲାଇସେନ୍ସ ତାହାର ସମସ୍ତ ଅନୁବାଦକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।",
+  "workshop.translations.license.viaOrg": "ଆପଣ ସଂଗଠନର ସଦସ୍ୟ ଥିଲେ, କିମ୍ବା ତାହାର କୌଣସି ସଦସ୍ୟ ସେହି ଭାଷାକୁ ଅନୁବାଦ କଲେ, ସେହି ଭାଷାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରୁଥିବା ସଂଗଠନ ଲାଇସେନ୍ସ ପ୍ରଦାନ କରାଯାଏ। ଏହାକୁ ଲାଗୁ କଲେ ଅନୁବାଦଟି ସେହି ସଂଗଠନର କାଟାଲଗରେ ତାଲିକାଭୁକ୍ତ ହୁଏ ଏବଂ ସେହି ସଂସ୍କରଣର ଆୟ ବଣ୍ଟନରେ ସଂଗଠନର ଅଂଶ ଯୋଡ଼ାଯାଏ (ଆପଣଙ୍କ ଭାଗରୁ ନିଆଯାଏ)। ଅନୁବାଦ ପ୍ରକାଶିତ ହେବା ପରେ ଏହା ଲକ ହୋଇଯାଏ।",
   "workshop.revShare.mustMatchCreatorShare": "Creator rows must add up to {creatorShare, number}% because platform share is fixed at {platformShare, number}%.",
   "workshop.revShare.owner": "Owner",
   "workshop.revShare.ownerLocked": "The story owner must remain part of the payout split.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "ଏହି କୃତିର ସଂଗଠନ ଲାଇସେନ୍ସ ଦ୍ୱାରା ଅନ୍ତର୍ଭୁକ୍ତ।",
+  "legal.licenseAgreements": "ସଂଗଠନ ଲାଇସେନ୍ସ ଚୁକ୍ତିନାମା",
+  "legal.licenseTranslatorBudget": "ସଂଗଠନ ନିଯୁକ୍ତ କରିଥିବା ଅନୁବାଦକମାନେ ମିଳିତ ଭାବରେ ସର୍ବାଧିକ {budget}% ପାଇପାରନ୍ତି।",
+  "legal.licenseEndingOn": "{date} ରେ ସମାପ୍ତ ହେବ। ସେ ପର୍ଯ୍ୟନ୍ତ ସବୁ କିଛି ଲାଗୁ ରହେ।",
+  "legal.licenseNoticeTerms": "ଯେକୌଣସି ପକ୍ଷ ପାଠକମାନଙ୍କୁ ଦେଖାଯାଉଥିବା {days}-ଦିନର ସୂଚନା ସହିତ ଏହି ଲାଇସେନ୍ସ ସମାପ୍ତ କରିପାରିବେ। ତାହା ପରେ ସଂଗଠନର ଅଂଶ ଆପଣଙ୍କ ପାଖକୁ ଫେରିଆସେ ଏବଂ ପାଠକମାନେ ଆଗରୁ ଅର୍ଜନ କରିଥିବା ଜିନିଷ ରଖନ୍ତି।",
+  "legal.licenseAcceptedOn": "{date} ରେ ଗୃହୀତ",
+  "legal.endLicense": "ଲାଇସେନ୍ସ ସମାପ୍ତ କରନ୍ତୁ"
 }

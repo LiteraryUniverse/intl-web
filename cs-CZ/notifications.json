@@ -109,5 +109,13 @@
   "notification.team.left": "{user} opustil tým díla {workTitle} ({role}).",
   "notification.team.compensationChanged": "Vaše odměna u díla {workTitle} se změnila na: {compensation}.",
   "notificationExtra.team.viewInvitations": "Zobrazit pozvánky",
-  "notificationExtra.team.goToWork": "Přejít na dílo"
+  "notificationExtra.team.goToWork": "Přejít na dílo",
+  "notification.orgLicense.proposed": "{organization}: návrh licence pro dílo „{work}“ ({license}) čeká na rozhodnutí.",
+  "notification.orgLicense.accepted": "Licence {license} pro dílo „{work}“ s organizací {organization} je nyní aktivní.",
+  "notification.orgLicense.rejected": "Návrh licence pro dílo „{work}“ s organizací {organization} byl odmítnut.",
+  "notification.orgLicense.terminated": "Licence {license} pro dílo „{work}“ s organizací {organization} končí — po dobu 30denní výpovědní lhůty zůstává aktivní.",
+  "notification.orgLicense.carveOutRequested": "{organization}: autor díla „{work}“ žádá o uvolnění jednoho jazyka z vaší licence.",
+  "notification.orgLicense.carveOutApproved": "{organization} uvolnila jeden jazyk díla „{work}“ — tento překlad můžete licencovat jinde.",
+  "notification.orgLicense.carveOutRejected": "{organization} si ponechala své jazykové pokrytí díla „{work}“.",
+  "notification.orgLicense.subscriptionRemoval": "Dílo „{work}“ opustí předplatné organizace {organization} za 30 dní — čtenáři si do té doby přístup ponechají."
 }

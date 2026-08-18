@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "Χειρόγραφο",
   "blog.theme.preset.codex": "Κώδικας",
   "blog.theme.preset.architect": "Αρχιτέκτονας",
-  "blog.theme.preset.chronicler": "Χρονικογράφος"
+  "blog.theme.preset.chronicler": "Χρονικογράφος",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

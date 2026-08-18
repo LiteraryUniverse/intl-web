@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "Bản thảo",
   "blog.theme.preset.codex": "Sách cổ",
   "blog.theme.preset.architect": "Kiến trúc sư",
-  "blog.theme.preset.chronicler": "Người chép sử"
+  "blog.theme.preset.chronicler": "Người chép sử",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

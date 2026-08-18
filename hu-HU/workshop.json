@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "A licencváltás időpontja: {date}. Addig az olvasók értesítést látnak a művön; a jelenlegi licenc érvényben marad.",
   "workshop.translations.license.title": "Fordítási licencek",
   "workshop.translations.license.default": "Alapértelmezett ({license})",
-  "workshop.translations.license.viaOrg": "Regionális szervezeti licencet akkor ajánlunk fel, ha a szervezet tagja vagy, vagy ha az egyik tagja fordítja az adott nyelvet. Alkalmazásával a fordítás bekerül a szervezet katalógusába, és a szervezet részesedése hozzáadódik az adott kiadás bevételmegosztásához (a te részedből levonva). A fordítás közzététele után rögzül.",
-  "workshop.translations.license.internationalCovered": "A mű nemzetközi szervezeti licence az összes fordítására kiterjed.",
+  "workshop.translations.license.viaOrg": "A nyelvet lefedő szervezeti licencet akkor ajánlunk fel, ha a szervezet tagja vagy, vagy ha az egyik tagja fordítja az adott nyelvet. Alkalmazásával a fordítás bekerül a szervezet katalógusába, és a szervezet részesedése hozzáadódik az adott kiadás bevételmegosztásához (a te részedből levonva). A fordítás közzététele után rögzül.",
   "workshop.revShare.mustMatchCreatorShare": "Az alkotói sorok összege {creatorShare, number}% kell, hogy legyen, mivel a platform részesedése {platformShare, number} %-ban van rögzítve.",
   "workshop.revShare.owner": "Tulajdonos",
   "workshop.revShare.ownerLocked": "A történet tulajdonosának a kifizetés felosztásában továbbra is részt kell vennie.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Hangvágó",
   "workshop.credit.role.soundEngineer": "Hangmérnök",
   "workshop.credit.role.composer": "Zeneszerző",
-  "workshop.credit.role.betaReader": "Bétaolvasó"
+  "workshop.credit.role.betaReader": "Bétaolvasó",
+  "workshop.translations.license.coveredByOrg": "A mű szervezeti licence lefedi.",
+  "legal.licenseAgreements": "Szervezeti licencszerződések",
+  "legal.licenseTranslatorBudget": "A szervezet által kijelölt fordítók együttesen legfeljebb {budget}%-ot kaphatnak.",
+  "legal.licenseEndingOn": "Véget ér: {date}. Addig minden érvényben marad.",
+  "legal.licenseNoticeTerms": "A licencet bármelyik fél megszüntetheti {days} napos felmondási idővel, amely az olvasók számára is megjelenik. Utána a szervezet részesedése visszaszáll rád, az olvasók pedig megtartják, amit már megszereztek.",
+  "legal.licenseAcceptedOn": "Elfogadva: {date}",
+  "legal.endLicense": "Licenc megszüntetése"
 }

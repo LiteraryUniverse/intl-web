@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Lisensieverandering geskeduleer vir {date}. Lesers sien tot dan 'n kennisgewing op die werk; die huidige lisensie bly aktief.",
   "workshop.translations.license.title": "Vertalingslisensies",
   "workshop.translations.license.default": "Verstek ({license})",
-  "workshop.translations.license.viaOrg": "'n Streekslisensie van 'n organisasie word aangebied wanneer jy aan die organisasie behoort, of wanneer een van sy lede daardie taal vertaal. Om dit toe te pas, lys die vertaling in daardie organisasie se katalogus en voeg die organisasie se aandeel by daardie uitgawe se inkomsteverdeling (uit jou deel geneem). Dit sluit sodra die vertaling gepubliseer is.",
-  "workshop.translations.license.internationalCovered": "Hierdie werk se internasionale organisasielisensie dek al sy vertalings.",
+  "workshop.translations.license.viaOrg": "'n Organisasielisensie wat die taal dek, word aangebied wanneer jy aan die organisasie behoort, of wanneer een van sy lede daardie taal vertaal. Om dit toe te pas, lys die vertaling in daardie organisasie se katalogus en voeg die organisasie se aandeel by daardie uitgawe se inkomsteverdeling (uit jou deel geneem). Dit sluit sodra die vertaling gepubliseer is.",
   "workshop.revShare.mustMatchCreatorShare": "Creator rows must add up to {creatorShare, number}% because platform share is fixed at {platformShare, number}%.",
   "workshop.revShare.owner": "Owner",
   "workshop.revShare.ownerLocked": "The story owner must remain part of the payout split.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Gedek deur die werk se organisasielisensie.",
+  "legal.licenseAgreements": "Organisasielisensie-ooreenkomste",
+  "legal.licenseTranslatorBudget": "Vertalers wat deur die organisasie aangewys word, kan saam tot {budget}% ontvang.",
+  "legal.licenseEndingOn": "Eindig op {date}. Tot dan bly alles van krag.",
+  "legal.licenseNoticeTerms": "Albei partye kan hierdie lisensie beëindig met 'n kennisgewingtydperk van {days} dae wat aan lesers gewys word. Daarna keer die organisasie se aandeel na jou terug en lesers behou wat hulle reeds verdien het.",
+  "legal.licenseAcceptedOn": "Aanvaar op {date}",
+  "legal.endLicense": "Beëindig lisensie"
 }

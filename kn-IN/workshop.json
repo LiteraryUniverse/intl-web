@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "ಪರವಾನಗಿ ಬದಲಾವಣೆಯನ್ನು {date} ಕ್ಕೆ ನಿಗದಿಪಡಿಸಲಾಗಿದೆ. ಅಲ್ಲಿಯವರೆಗೆ ಓದುಗರು ಕೃತಿಯ ಮೇಲೆ ಸೂಚನೆಯನ್ನು ನೋಡುತ್ತಾರೆ; ಪ್ರಸ್ತುತ ಪರವಾನಗಿ ಸಕ್ರಿಯವಾಗಿರುತ್ತದೆ.",
   "workshop.translations.license.title": "ಭಾಷಾಂತರ ಪರವಾನಗಿಗಳು",
   "workshop.translations.license.default": "ಡೀಫಾಲ್ಟ್ ({license})",
-  "workshop.translations.license.viaOrg": "ನೀವು ಸಂಸ್ಥೆಗೆ ಸೇರಿದ್ದರೆ, ಅಥವಾ ಅದರ ಸದಸ್ಯರೊಬ್ಬರು ಆ ಭಾಷೆಯನ್ನು ಭಾಷಾಂತರಿಸುತ್ತಿದ್ದರೆ, ಪ್ರಾದೇಶಿಕ ಸಂಸ್ಥೆಯ ಪರವಾನಗಿಯನ್ನು ನೀಡಲಾಗುತ್ತದೆ. ಅದನ್ನು ಅನ್ವಯಿಸಿದರೆ ಭಾಷಾಂತರವು ಆ ಸಂಸ್ಥೆಯ ಕ್ಯಾಟಲಾಗ್‌ನಲ್ಲಿ ಸೇರುತ್ತದೆ ಮತ್ತು ಸಂಸ್ಥೆಯ ಪಾಲು ಆ ಆವೃತ್ತಿಯ ಆದಾಯ ಹಂಚಿಕೆಗೆ ಸೇರುತ್ತದೆ (ನಿಮ್ಮ ಭಾಗದಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತದೆ). ಭಾಷಾಂತರ ಪ್ರಕಟವಾದ ನಂತರ ಅದು ಲಾಕ್ ಆಗುತ್ತದೆ.",
-  "workshop.translations.license.internationalCovered": "ಈ ಕೃತಿಯ ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಸ್ಥೆಯ ಪರವಾನಗಿ ಅದರ ಎಲ್ಲಾ ಭಾಷಾಂತರಗಳನ್ನು ಒಳಗೊಳ್ಳುತ್ತದೆ.",
+  "workshop.translations.license.viaOrg": "ನೀವು ಸಂಸ್ಥೆಗೆ ಸೇರಿದ್ದರೆ, ಅಥವಾ ಅದರ ಸದಸ್ಯರೊಬ್ಬರು ಆ ಭಾಷೆಯನ್ನು ಭಾಷಾಂತರಿಸುತ್ತಿದ್ದರೆ, ಆ ಭಾಷೆಯನ್ನು ಒಳಗೊಳ್ಳುವ ಸಂಸ್ಥೆಯ ಪರವಾನಗಿಯನ್ನು ನೀಡಲಾಗುತ್ತದೆ. ಅದನ್ನು ಅನ್ವಯಿಸಿದರೆ ಭಾಷಾಂತರವು ಆ ಸಂಸ್ಥೆಯ ಕ್ಯಾಟಲಾಗ್‌ನಲ್ಲಿ ಸೇರುತ್ತದೆ ಮತ್ತು ಸಂಸ್ಥೆಯ ಪಾಲು ಆ ಆವೃತ್ತಿಯ ಆದಾಯ ಹಂಚಿಕೆಗೆ ಸೇರುತ್ತದೆ (ನಿಮ್ಮ ಭಾಗದಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತದೆ). ಭಾಷಾಂತರ ಪ್ರಕಟವಾದ ನಂತರ ಅದು ಲಾಕ್ ಆಗುತ್ತದೆ.",
   "workshop.revShare.mustMatchCreatorShare": "Creator rows must add up to {creatorShare, number}% because platform share is fixed at {platformShare, number}%.",
   "workshop.revShare.owner": "Owner",
   "workshop.revShare.ownerLocked": "The story owner must remain part of the payout split.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "ಈ ಕೃತಿಯ ಸಂಸ್ಥೆಯ ಪರವಾನಗಿಯಿಂದ ಒಳಗೊಳ್ಳಲಾಗಿದೆ.",
+  "legal.licenseAgreements": "ಸಂಸ್ಥೆಯ ಪರವಾನಗಿ ಒಪ್ಪಂದಗಳು",
+  "legal.licenseTranslatorBudget": "ಸಂಸ್ಥೆ ನಿಯೋಜಿಸಿದ ಭಾಷಾಂತರಿಗಳು ಒಟ್ಟಾಗಿ ಗರಿಷ್ಠ {budget}% ವರೆಗೆ ಪಡೆಯಬಹುದು.",
+  "legal.licenseEndingOn": "{date} ರಂದು ಮುಕ್ತಾಯವಾಗುತ್ತದೆ. ಅಲ್ಲಿಯವರೆಗೆ ಎಲ್ಲವೂ ಜಾರಿಯಲ್ಲಿರುತ್ತದೆ.",
+  "legal.licenseNoticeTerms": "ಓದುಗರಿಗೆ ತೋರಿಸಲಾಗುವ {days} ದಿನಗಳ ಸೂಚನೆಯೊಂದಿಗೆ ಎರಡೂ ಕಡೆಯವರೂ ಈ ಪರವಾನಗಿಯನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸಬಹುದು. ನಂತರ ಸಂಸ್ಥೆಯ ಪಾಲು ನಿಮಗೆ ಮರಳುತ್ತದೆ ಮತ್ತು ಓದುಗರು ಈಗಾಗಲೇ ಗಳಿಸಿದ್ದನ್ನು ಉಳಿಸಿಕೊಳ್ಳುತ್ತಾರೆ.",
+  "legal.licenseAcceptedOn": "{date} ರಂದು ಸ್ವೀಕರಿಸಲಾಗಿದೆ",
+  "legal.endLicense": "ಪರವಾನಗಿಯನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸಿ"
 }

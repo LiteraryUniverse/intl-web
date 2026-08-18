@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "കൈയെഴുത്തുപ്രതി",
   "blog.theme.preset.codex": "കോഡെക്സ്",
   "blog.theme.preset.architect": "വാസ്തുശില്പി",
-  "blog.theme.preset.chronicler": "ചരിത്രകാരൻ"
+  "blog.theme.preset.chronicler": "ചരിത്രകാരൻ",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

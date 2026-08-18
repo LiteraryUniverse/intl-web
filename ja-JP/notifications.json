@@ -109,5 +109,13 @@
   "notification.team.left": "{user} さんが {workTitle} のチームを離れました（{role}）。",
   "notification.team.compensationChanged": "{workTitle} での報酬が {compensation} に変更されました。",
   "notificationExtra.team.viewInvitations": "招待を見る",
-  "notificationExtra.team.goToWork": "作品に移動する"
+  "notificationExtra.team.goToWork": "作品に移動する",
+  "notification.orgLicense.proposed": "{organization}: 「{work}」のライセンス提案（{license}）が決定を待っています。",
+  "notification.orgLicense.accepted": "{organization} との「{work}」のライセンス {license} が有効になりました。",
+  "notification.orgLicense.rejected": "{organization} との「{work}」のライセンス提案は却下されました。",
+  "notification.orgLicense.terminated": "{organization} との「{work}」のライセンス {license} は終了予定です — 30日間の予告期間中は有効なままです。",
+  "notification.orgLicense.carveOutRequested": "{organization}: 「{work}」の著者が、ライセンスから 1 つの言語を解放するよう求めています。",
+  "notification.orgLicense.carveOutApproved": "{organization} が「{work}」の 1 言語を解放しました — その翻訳を他社にライセンスできます。",
+  "notification.orgLicense.carveOutRejected": "{organization} は「{work}」の言語範囲を維持しました。",
+  "notification.orgLicense.subscriptionRemoval": "「{work}」は 30 日後に {organization} のサブスクリプションから離脱します — それまで読者はアクセスを保持します。"
 }

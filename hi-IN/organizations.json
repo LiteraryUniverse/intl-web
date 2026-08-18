@@ -78,7 +78,7 @@
   "org.roles.title": "भूमिकाएँ और अनुमतियाँ",
   "org.roles.intro": "भूमिका अनुमतियों का एक समूह देती है। अधिक बारीक नियंत्रण के लिए भूमिका के ऊपर अलग-अलग अनुमतियाँ जोड़ें।",
   "org.workProposal.title": "प्रस्तावित कृतियाँ",
-  "org.workProposal.intro": "अपनी कोई कृति इस संगठन को प्रस्तावित करें। यदि कोई प्रशासक स्वीकार करता है, तो संगठन उसका स्वामी बन जाएगा।",
+  "org.workProposal.intro": "अपनी कोई कृति इस संगठन को उसके किसी लाइसेंस के तहत प्रस्तावित करें। स्वीकार होने पर कृति आपकी ही रहती है — संगठन को लाइसेंस के अधिकार और आय में उसका हिस्सा मिलता है।",
   "org.workProposal.propose": "कृति प्रस्तावित करें",
   "org.workProposal.selectWork": "प्रस्तावित की जाने वाली कृति",
   "org.workProposal.note": "संगठन के लिए संदेश (वैकल्पिक)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "संग्रह से निकालें",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "प्रधान संपादक",
+  "org.permissions.licensing": "लाइसेंसिंग प्रबंधित करें",
+  "org.curation.title": "सब्सक्रिप्शन में लाइसेंस प्राप्त कृतियाँ",
+  "org.curation.intro": "लाइसेंस आपको कृति को अपनी सब्सक्रिप्शन में शामिल करने की अनुमति देता है — यह ज़रूरी नहीं है। कृति को केवल अपने कैटलॉग से बेचने के लिए किसी टियर का चयन हटा दें; उसके बाद 30 दिन तक पाठकों की पहुँच बनी रहती है।",
+  "org.carveOut.request": "{language} को मुक्त करें?"
 }

@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "हस्तलिखित",
   "blog.theme.preset.codex": "कोडेक्स",
   "blog.theme.preset.architect": "वास्तुविशारद",
-  "blog.theme.preset.chronicler": "इतिहासकार"
+  "blog.theme.preset.chronicler": "इतिहासकार",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

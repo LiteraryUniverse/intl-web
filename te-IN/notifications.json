@@ -109,5 +109,13 @@
   "notification.team.left": "{workTitle} బృందం నుండి {user} వైదొలిగారు ({role}).",
   "notification.team.compensationChanged": "{workTitle}పై మీ పారితోషికం ఇప్పుడు {compensation}గా మార్చబడింది.",
   "notificationExtra.team.viewInvitations": "ఆహ్వానాలను చూడు",
-  "notificationExtra.team.goToWork": "రచనకు వెళ్ళు"
+  "notificationExtra.team.goToWork": "రచనకు వెళ్ళు",
+  "notification.orgLicense.proposed": "{organization}: “{work}” కోసం లైసెన్సు ప్రతిపాదన ({license}) నిర్ణయం కోసం వేచి ఉంది.",
+  "notification.orgLicense.accepted": "{organization}తో “{work}” కోసం లైసెన్సు {license} ఇప్పుడు యాక్టివ్‌గా ఉంది.",
+  "notification.orgLicense.rejected": "{organization}తో “{work}” కోసం లైసెన్సు ప్రతిపాదన తిరస్కరించబడింది.",
+  "notification.orgLicense.terminated": "{organization}తో “{work}” కోసం లైసెన్సు {license} ముగియబోతోంది — 30 రోజుల నోటీసు వ్యవధిలో అది యాక్టివ్‌గా ఉంటుంది.",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}” రచయిత మీ లైసెన్సు నుండి ఒక భాషను విడుదల చేయాలని కోరుతున్నారు.",
+  "notification.orgLicense.carveOutApproved": "{organization} “{work}” యొక్క ఒక భాషను విడుదల చేసింది — ఆ అనువాదాన్ని మీరు వేరే చోట లైసెన్సు ఇవ్వవచ్చు.",
+  "notification.orgLicense.carveOutRejected": "{organization} “{work}” యొక్క తన భాషా పరిధిని కొనసాగించింది.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 రోజుల్లో {organization} సభ్యత్వం నుండి వైదొలుగుతుంది — అప్పటివరకు పాఠకులు యాక్సెస్‌ను కలిగి ఉంటారు."
 }

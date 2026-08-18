@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "ཕྱག་བྲིས་མ།",
   "blog.theme.preset.codex": "དཔེ་རྙིང་།",
   "blog.theme.preset.architect": "ཨར་པོ།",
-  "blog.theme.preset.chronicler": "ལོ་རྒྱུས་འབྲི་མཁན།"
+  "blog.theme.preset.chronicler": "ལོ་རྒྱུས་འབྲི་མཁན།",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

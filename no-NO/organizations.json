@@ -78,7 +78,7 @@
   "org.roles.title": "Roller og rettigheter",
   "org.roles.intro": "En rolle gir et sett med rettigheter. Legg til enkeltrettigheter på toppen av en rolle for finere styring.",
   "org.workProposal.title": "Foreslåtte verk",
-  "org.workProposal.intro": "Tilby et av dine egne verk til denne organisasjonen. Hvis en administrator godtar, blir organisasjonen eier.",
+  "org.workProposal.intro": "Tilby et av dine egne verk til denne organisasjonen under en av dens lisenser. Hvis det godtas, forblir verket ditt — organisasjonen får lisensens rettigheter og sin andel av inntektene.",
   "org.workProposal.propose": "Foreslå et verk",
   "org.workProposal.selectWork": "Verk å foreslå",
   "org.workProposal.note": "Melding til organisasjonen (valgfritt)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Opphev arkivering",
   "org.workshop.licensed": "Lisensierte verk",
   "org.workshop.licensed.intro": "Verk eid av skaperne som bærer en av organisasjonens lisenser. Du kan promotere dem; redigering forblir hos eieren.",
-  "org.workshop.licensed.empty": "Ingen verk bærer lisensene dine ennå."
+  "org.workshop.licensed.empty": "Ingen verk bærer lisensene dine ennå.",
+  "org.roles.editor": "Sjefredaktør",
+  "org.permissions.licensing": "Administrer lisensiering",
+  "org.curation.title": "Lisensierte verk i abonnementer",
+  "org.curation.intro": "En lisens lar deg ta et verk med i abonnementene dine — den forplikter deg ikke til det. Fjern haken for et nivå for å selge verket kun fra katalogen din; leserne beholder tilgangen i 30 dager etterpå.",
+  "org.carveOut.request": "Frigi {language}?"
 }

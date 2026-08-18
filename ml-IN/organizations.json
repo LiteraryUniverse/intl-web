@@ -78,7 +78,7 @@
   "org.roles.title": "റോളുകളും അനുമതികളും",
   "org.roles.intro": "ഒരു റോൾ ഒരു കൂട്ടം അനുമതികൾ നൽകുന്നു. കൂടുതൽ കൃത്യമായ നിയന്ത്രണത്തിന് റോളിനു മുകളിൽ പ്രത്യേക അനുമതികൾ ചേർക്കുക.",
   "org.workProposal.title": "നിർദ്ദേശിച്ച സൃഷ്ടികൾ",
-  "org.workProposal.intro": "നിങ്ങളുടെ ഒരു സൃഷ്ടി ഈ സംഘടനയ്ക്ക് വാഗ്ദാനം ചെയ്യുക. ഒരു അഡ്മിൻ സ്വീകരിച്ചാൽ സംഘടന അതിന്റെ ഉടമയാകും.",
+  "org.workProposal.intro": "നിങ്ങളുടെ ഒരു സൃഷ്ടി ഈ സംഘടനയ്ക്ക് അതിന്റെ ഏതെങ്കിലും ഒരു ലൈസൻസിന് കീഴിൽ വാഗ്ദാനം ചെയ്യുക. സ്വീകരിച്ചാൽ സൃഷ്ടി നിങ്ങളുടേതായി തുടരും — സംഘടനയ്ക്ക് ലൈസൻസിന്റെ അവകാശങ്ങളും വരുമാനത്തിൽ അതിന്റെ വിഹിതവും ലഭിക്കും.",
   "org.workProposal.propose": "സൃഷ്ടി നിർദ്ദേശിക്കുക",
   "org.workProposal.selectWork": "നിർദ്ദേശിക്കേണ്ട സൃഷ്ടി",
   "org.workProposal.note": "സംഘടനയ്ക്കുള്ള സന്ദേശം (ഐച്ഛികം)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "ആർക്കൈവിൽ നിന്ന് നീക്കുക",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "മുഖ്യ പത്രാധിപർ",
+  "org.permissions.licensing": "ലൈസൻസിംഗ് കൈകാര്യം ചെയ്യുക",
+  "org.curation.title": "സബ്‌സ്ക്രിപ്ഷനുകളിലെ ലൈസൻസ് ചെയ്ത കൃതികൾ",
+  "org.curation.intro": "ഒരു കൃതി നിങ്ങളുടെ സബ്‌സ്ക്രിപ്ഷനുകളിൽ ഉൾപ്പെടുത്താൻ ലൈസൻസ് അനുവദിക്കുന്നു — അത് നിർബന്ധമല്ല. കൃതി നിങ്ങളുടെ കാറ്റലോഗിൽ നിന്ന് മാത്രം വിൽക്കാൻ ഒരു ടയറിന്റെ ചെക്ക് ഒഴിവാക്കുക; അതിനുശേഷം 30 ദിവസത്തേക്ക് വായനക്കാർക്ക് ആക്സസ് നിലനിൽക്കും.",
+  "org.carveOut.request": "{language} — ഈ ഭാഷ വിട്ടുനൽകണോ?"
 }

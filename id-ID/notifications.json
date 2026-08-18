@@ -109,5 +109,13 @@
   "notification.team.left": "{user} meninggalkan tim {workTitle} ({role}).",
   "notification.team.compensationChanged": "Kompensasi Anda pada {workTitle} berubah menjadi {compensation}.",
   "notificationExtra.team.viewInvitations": "Lihat undangan",
-  "notificationExtra.team.goToWork": "Pergi ke karya"
+  "notificationExtra.team.goToWork": "Pergi ke karya",
+  "notification.orgLicense.proposed": "{organization}: sebuah usulan lisensi untuk “{work}” ({license}) menunggu keputusan.",
+  "notification.orgLicense.accepted": "Lisensi {license} untuk “{work}” dengan {organization} kini aktif.",
+  "notification.orgLicense.rejected": "Usulan lisensi untuk “{work}” dengan {organization} ditolak.",
+  "notification.orgLicense.terminated": "Lisensi {license} untuk “{work}” dengan {organization} akan berakhir — lisensi tetap aktif selama masa pemberitahuan 30 hari.",
+  "notification.orgLicense.carveOutRequested": "{organization}: penulis “{work}” meminta agar satu bahasa dilepaskan dari lisensi Anda.",
+  "notification.orgLicense.carveOutApproved": "{organization} melepaskan satu bahasa dari “{work}” — Anda dapat melisensikan terjemahan itu di tempat lain.",
+  "notification.orgLicense.carveOutRejected": "{organization} mempertahankan cakupan bahasanya untuk “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” meninggalkan langganan {organization} dalam 30 hari — pembaca tetap memiliki akses hingga saat itu."
 }

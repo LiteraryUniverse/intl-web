@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "필사본",
   "blog.theme.preset.codex": "고문서",
   "blog.theme.preset.architect": "건축가",
-  "blog.theme.preset.chronicler": "연대기 작가"
+  "blog.theme.preset.chronicler": "연대기 작가",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

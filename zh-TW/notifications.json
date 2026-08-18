@@ -109,5 +109,13 @@
   "notification.team.left": "{user} 已離開 {workTitle} 的團隊（{role}）。",
   "notification.team.compensationChanged": "您在 {workTitle} 的報酬已變更為 {compensation}。",
   "notificationExtra.team.viewInvitations": "查看邀請",
-  "notificationExtra.team.goToWork": "前往作品"
+  "notificationExtra.team.goToWork": "前往作品",
+  "notification.orgLicense.proposed": "{organization}：「{work}」的許可證提案（{license}）正等待決定。",
+  "notification.orgLicense.accepted": "與 {organization} 就「{work}」簽訂的許可證 {license} 現已生效。",
+  "notification.orgLicense.rejected": "與 {organization} 就「{work}」的許可證提案已被拒絕。",
+  "notification.orgLicense.terminated": "與 {organization} 就「{work}」簽訂的許可證 {license} 即將結束 — 在 30 天通知期內仍然有效。",
+  "notification.orgLicense.carveOutRequested": "{organization}：「{work}」的作者請求從你們的許可證中釋出一種語言。",
+  "notification.orgLicense.carveOutApproved": "{organization} 已釋出「{work}」的一種語言 — 你可以將該翻譯授權給其他方。",
+  "notification.orgLicense.carveOutRejected": "{organization} 維持了「{work}」的語言涵蓋範圍。",
+  "notification.orgLicense.subscriptionRemoval": "「{work}」將於 30 天後退出 {organization} 的訂閱 — 在此之前讀者仍保有存取權。"
 }

@@ -78,7 +78,7 @@
   "org.roles.title": "Szerepkörök és jogosultságok",
   "org.roles.intro": "Egy szerepkör jogosultságok csoportját adja meg. A finomabb szabályozáshoz adj a szerepkörhöz egyedi jogosultságokat.",
   "org.workProposal.title": "Felajánlott művek",
-  "org.workProposal.intro": "Ajánld fel valamelyik saját művedet ennek a szervezetnek. Ha egy adminisztrátor elfogadja, a szervezet lesz a tulajdonosa.",
+  "org.workProposal.intro": "Ajánld fel valamelyik saját művedet ennek a szervezetnek a szervezet egyik licence alatt. Ha elfogadják, a mű a tiéd marad — a szervezet megkapja a licenc jogait és a bevételből járó részesedését.",
   "org.workProposal.propose": "Mű felajánlása",
   "org.workProposal.selectWork": "Felajánlandó mű",
   "org.workProposal.note": "Üzenet a szervezetnek (nem kötelező)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Archiválás visszavonása",
   "org.workshop.licensed": "Licencelt művek",
   "org.workshop.licensed.intro": "A készítőik tulajdonában lévő művek, amelyek a szervezeted egyik licencét viselik. Promótálhatod őket; a szerkesztés a tulajdonosnál marad.",
-  "org.workshop.licensed.empty": "Még egy mű sem viseli a licenceidet."
+  "org.workshop.licensed.empty": "Még egy mű sem viseli a licenceidet.",
+  "org.roles.editor": "Főszerkesztő",
+  "org.permissions.licensing": "Licencelés kezelése",
+  "org.curation.title": "Licencelt művek az előfizetésekben",
+  "org.curation.intro": "A licenc lehetővé teszi, hogy egy művet az előfizetéseidbe emelj — de nem kötelez rá. Vedd ki a pipát egy szintnél, ha a művet csak a katalógusodból szeretnéd árusítani; az olvasók ezután még 30 napig megtartják a hozzáférést.",
+  "org.carveOut.request": "Felszabadítod ezt a nyelvet: {language}?"
 }

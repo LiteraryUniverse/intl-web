@@ -109,5 +109,13 @@
   "notification.team.left": "غادر {user} فريق {workTitle} ({role}).",
   "notification.team.compensationChanged": "تغيّر تعويضك على {workTitle} إلى {compensation}.",
   "notificationExtra.team.viewInvitations": "عرض الدعوات",
-  "notificationExtra.team.goToWork": "الانتقال إلى العمل"
+  "notificationExtra.team.goToWork": "الانتقال إلى العمل",
+  "notification.orgLicense.proposed": "{organization}: اقتراح ترخيص للعمل «{work}» ({license}) بانتظار قرار.",
+  "notification.orgLicense.accepted": "أصبح الترخيص {license} للعمل «{work}» مع {organization} ساريًا الآن.",
+  "notification.orgLicense.rejected": "رُفض اقتراح الترخيص للعمل «{work}» مع {organization}.",
+  "notification.orgLicense.terminated": "الترخيص {license} للعمل «{work}» مع {organization} في طور الانتهاء — يبقى ساريًا خلال مهلة الإشعار البالغة 30 يومًا.",
+  "notification.orgLicense.carveOutRequested": "{organization}: يطلب مؤلف العمل «{work}» تحرير لغة واحدة من ترخيصكم.",
+  "notification.orgLicense.carveOutApproved": "حرَّرت {organization} إحدى لغات العمل «{work}» — يمكنك ترخيص تلك الترجمة في مكان آخر.",
+  "notification.orgLicense.carveOutRejected": "أبقت {organization} على تغطيتها اللغوية للعمل «{work}».",
+  "notification.orgLicense.subscriptionRemoval": "يغادر العمل «{work}» اشتراك {organization} خلال 30 يومًا — يحتفظ القراء بالوصول حتى ذلك الحين."
 }

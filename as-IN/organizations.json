@@ -78,7 +78,7 @@
   "org.roles.title": "ভূমিকা আৰু অনুমতি",
   "org.roles.intro": "এটা ভূমিকাই কিছুমান অনুমতি প্ৰদান কৰে। অধিক সূক্ষ্ম নিয়ন্ত্ৰণৰ বাবে ভূমিকাৰ ওপৰত পৃথক অনুমতি যোগ কৰক।",
   "org.workProposal.title": "প্ৰস্তাৱিত সৃষ্টি",
-  "org.workProposal.intro": "আপোনাৰ নিজৰ কোনো সৃষ্টি এই সংগঠনক আগবঢ়াওক। কোনো প্ৰশাসকে গ্ৰহণ কৰিলে সংগঠনেই ইয়াৰ গৰাকী হ’ব।",
+  "org.workProposal.intro": "আপোনাৰ নিজৰ কোনো সৃষ্টি এই সংগঠনক ইয়াৰ কোনো এটা লাইচেন্সৰ অধীনত আগবঢ়াওক। গ্ৰহণ কৰা হ'লে সৃষ্টিটো আপোনাৰেই থাকিব — সংগঠনে লাইচেন্সৰ অধিকাৰ আৰু ৰাজহৰ নিজৰ ভাগ লাভ কৰিব।",
   "org.workProposal.propose": "সৃষ্টি প্ৰস্তাৱ কৰক",
   "org.workProposal.selectWork": "প্ৰস্তাৱ কৰিবলগীয়া সৃষ্টি",
   "org.workProposal.note": "সংগঠনলৈ বাৰ্তা (ঐচ্ছিক)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "আন-আৰ্কাইভ কৰক",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "মুখ্য সম্পাদক",
+  "org.permissions.licensing": "লাইচেন্সিং পৰিচালনা কৰক",
+  "org.curation.title": "চাবস্ক্ৰিপশ্বনত লাইচেন্সপ্ৰাপ্ত ৰচনা",
+  "org.curation.intro": "লাইচেন্সে আপোনাক নিজৰ চাবস্ক্ৰিপশ্বনত এটা ৰচনা অন্তৰ্ভুক্ত কৰাৰ সুবিধা দিয়ে — কৰিবই লাগিব বুলি নাই। ৰচনাটো কেৱল আপোনাৰ কেটালগৰ পৰা বিক্ৰী কৰিবলৈ স্তৰটোৰ টিক আঁতৰাওক; তাৰ পিছতো পাঠকে 30 দিন প্ৰৱেশাধিকাৰ বজাই ৰাখে।",
+  "org.carveOut.request": "{language} মুক্ত কৰিবনে?"
 }

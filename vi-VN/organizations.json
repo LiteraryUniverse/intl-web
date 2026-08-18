@@ -78,7 +78,7 @@
   "org.roles.title": "Vai trò và quyền hạn",
   "org.roles.intro": "Một vai trò cấp một nhóm quyền. Thêm từng quyền riêng lẻ lên trên vai trò để kiểm soát chi tiết hơn.",
   "org.workProposal.title": "Tác phẩm được đề xuất",
-  "org.workProposal.intro": "Đề xuất một trong các tác phẩm của bạn cho tổ chức này. Nếu quản trị viên chấp nhận, tổ chức sẽ trở thành chủ sở hữu.",
+  "org.workProposal.intro": "Đề xuất một trong các tác phẩm của bạn cho tổ chức này theo một trong các giấy phép của tổ chức. Nếu được chấp nhận, tác phẩm vẫn là của bạn — tổ chức nhận được các quyền của giấy phép và phần doanh thu của mình.",
   "org.workProposal.propose": "Đề xuất tác phẩm",
   "org.workProposal.selectWork": "Tác phẩm cần đề xuất",
   "org.workProposal.note": "Lời nhắn cho tổ chức (không bắt buộc)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Bỏ lưu trữ",
   "org.workshop.licensed": "Tác phẩm được cấp phép",
   "org.workshop.licensed.intro": "Tác phẩm thuộc về người sáng tạo và mang một trong các giấy phép của tổ chức bạn. Bạn có thể quảng bá; quyền chỉnh sửa vẫn thuộc chủ sở hữu.",
-  "org.workshop.licensed.empty": "Chưa có tác phẩm nào mang giấy phép của bạn."
+  "org.workshop.licensed.empty": "Chưa có tác phẩm nào mang giấy phép của bạn.",
+  "org.roles.editor": "Tổng biên tập",
+  "org.permissions.licensing": "Quản lý cấp phép",
+  "org.curation.title": "Tác phẩm được cấp phép trong gói đăng ký",
+  "org.curation.intro": "Giấy phép cho phép bạn đưa một tác phẩm vào các gói đăng ký — nhưng không bắt buộc. Bỏ chọn một hạng để chỉ bán tác phẩm từ danh mục của bạn; người đọc vẫn giữ quyền truy cập trong 30 ngày sau đó.",
+  "org.carveOut.request": "Nhượng lại {language}?"
 }

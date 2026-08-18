@@ -78,7 +78,7 @@
   "org.roles.title": "Rolės ir teisės",
   "org.roles.intro": "Rolė suteikia teisių rinkinį. Tikslesniam valdymui prie rolės pridėkite atskiras teises.",
   "org.workProposal.title": "Pasiūlyti kūriniai",
-  "org.workProposal.intro": "Pasiūlykite šiai organizacijai vieną iš savo kūrinių. Jei administratorius priims, organizacija taps jo savininke.",
+  "org.workProposal.intro": "Pasiūlykite šiai organizacijai vieną iš savo kūrinių pagal vieną iš jos licencijų. Jei pasiūlymas priimamas, kūrinys lieka jūsų — organizacija gauna licencijos teises ir savo pajamų dalį.",
   "org.workProposal.propose": "Pasiūlyti kūrinį",
   "org.workProposal.selectWork": "Siūlomas kūrinys",
   "org.workProposal.note": "Žinutė organizacijai (nebūtina)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Išarchyvuoti",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "Vyriausiasis redaktorius",
+  "org.permissions.licensing": "Tvarkyti licencijavimą",
+  "org.curation.title": "Licencijuoti kūriniai prenumeratose",
+  "org.curation.intro": "Licencija leidžia įtraukti kūrinį į jūsų prenumeratas — bet neįpareigoja. Nuimkite pakopos žymėjimą, kad kūrinys būtų parduodamas tik iš katalogo; skaitytojai prieigą išlaikys dar 30 dienų.",
+  "org.carveOut.request": "Atlaisvinti kalbą {language}?"
 }

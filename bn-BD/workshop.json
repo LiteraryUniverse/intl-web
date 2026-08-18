@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "{date} তারিখে লাইসেন্স পরিবর্তন নির্ধারিত হয়েছে। ততদিন পর্যন্ত পাঠকরা কাজটিতে একটি বিজ্ঞপ্তি দেখেন; বর্তমান লাইসেন্স সক্রিয় থাকে।",
   "workshop.translations.license.title": "অনুবাদের লাইসেন্স",
   "workshop.translations.license.default": "ডিফল্ট ({license})",
-  "workshop.translations.license.viaOrg": "আপনি প্রতিষ্ঠানের সদস্য হলে, বা এর কোনও সদস্য সেই ভাষায় অনুবাদ করলে একটি আঞ্চলিক প্রতিষ্ঠান লাইসেন্স প্রস্তাব করা হয়। এটি প্রয়োগ করলে অনুবাদটি সেই প্রতিষ্ঠানের ক্যাটালগে তালিকাভুক্ত হয় এবং সেই সংস্করণের আয় বণ্টনে প্রতিষ্ঠানের শেয়ার যোগ হয় (আপনার অংশ থেকে নেওয়া)। অনুবাদ প্রকাশিত হলে এটি লক হয়ে যায়।",
-  "workshop.translations.license.internationalCovered": "এই কাজের আন্তর্জাতিক প্রতিষ্ঠান লাইসেন্স তার সব অনুবাদ কভার করে।",
+  "workshop.translations.license.viaOrg": "আপনি প্রতিষ্ঠানের সদস্য হলে, বা এর কোনও সদস্য সেই ভাষায় অনুবাদ করলে সেই ভাষা কভার করা একটি প্রতিষ্ঠান লাইসেন্স প্রস্তাব করা হয়। এটি প্রয়োগ করলে অনুবাদটি সেই প্রতিষ্ঠানের ক্যাটালগে তালিকাভুক্ত হয় এবং সেই সংস্করণের আয় বণ্টনে প্রতিষ্ঠানের শেয়ার যোগ হয় (আপনার অংশ থেকে নেওয়া)। অনুবাদ প্রকাশিত হলে এটি লক হয়ে যায়।",
   "workshop.revShare.mustMatchCreatorShare": "স্রষ্টা সারিগুলো যোগ করলে {creatorShare, number}% হতে হবে, কারণ প্ল্যাটফর্ম শেয়ার {platformShare, number}% এ স্থির।",
   "workshop.revShare.owner": "মালিক",
   "workshop.revShare.ownerLocked": "স্টোরি মালিককে পেমেন্ট ভাগাভাগির অংশে থাকতে হবে।",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "এই কাজের প্রতিষ্ঠান লাইসেন্স দ্বারা কভার করা হয়েছে।",
+  "legal.licenseAgreements": "প্রতিষ্ঠানের লাইসেন্স চুক্তিসমূহ",
+  "legal.licenseTranslatorBudget": "প্রতিষ্ঠানের নিযুক্ত অনুবাদকরা মিলিতভাবে সর্বোচ্চ {budget}% পেতে পারেন।",
+  "legal.licenseEndingOn": "{date} তারিখে শেষ হবে। ততদিন পর্যন্ত সবকিছু বলবৎ থাকে।",
+  "legal.licenseNoticeTerms": "যে কোনও পক্ষ পাঠকদের দেখানো {days} দিনের বিজ্ঞপ্তি দিয়ে এই লাইসেন্সটি শেষ করতে পারে। এরপর প্রতিষ্ঠানের শেয়ার আপনার কাছে ফিরে আসে এবং পাঠকরা ইতিমধ্যে যা অর্জন করেছেন তা ধরে রাখেন।",
+  "legal.licenseAcceptedOn": "{date} তারিখে গৃহীত",
+  "legal.endLicense": "লাইসেন্স শেষ করুন"
 }

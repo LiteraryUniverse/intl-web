@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Zmiana licencji zaplanowana na {date}. Do tego czasu czytelnicy widzą powiadomienie na dziele; dotychczasowa licencja pozostaje aktywna.",
   "workshop.translations.license.title": "Licencje tłumaczeń",
   "workshop.translations.license.default": "Domyślna ({license})",
-  "workshop.translations.license.viaOrg": "Regionalna licencja organizacji jest oferowana, gdy należysz do organizacji lub gdy jeden z jej członków tłumaczy dany język. Jej zastosowanie umieszcza tłumaczenie w katalogu tej organizacji i dodaje udział organizacji do podziału przychodów tego wydania (pobierany z Twojej części). Blokuje się po opublikowaniu tłumaczenia.",
-  "workshop.translations.license.internationalCovered": "Międzynarodowa licencja organizacji tego dzieła obejmuje wszystkie jego tłumaczenia.",
+  "workshop.translations.license.viaOrg": "Licencja organizacji obejmująca dany język jest oferowana, gdy należysz do organizacji lub gdy jeden z jej członków tłumaczy dany język. Jej zastosowanie umieszcza tłumaczenie w katalogu tej organizacji i dodaje udział organizacji do podziału przychodów tego wydania (pobierany z Twojej części). Blokuje się po opublikowaniu tłumaczenia.",
   "workshop.revShare.mustMatchCreatorShare": "Wiersze twórcy muszą sumować się do {creatorShare, number}%, ponieważ udział platformy jest ustalony na {platformShare, number}%.",
   "workshop.revShare.owner": "Właściciel",
   "workshop.revShare.ownerLocked": "Właściciel historii musi pozostać częścią podziału wypłaty.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Montażysta dźwięku",
   "workshop.credit.role.soundEngineer": "Inżynier dźwięku",
   "workshop.credit.role.composer": "Kompozytor",
-  "workshop.credit.role.betaReader": "Beta-czytelnik"
+  "workshop.credit.role.betaReader": "Beta-czytelnik",
+  "workshop.translations.license.coveredByOrg": "Objęte licencją organizacji tego dzieła.",
+  "legal.licenseAgreements": "Umowy licencyjne z organizacjami",
+  "legal.licenseTranslatorBudget": "Tłumacze wyznaczeni przez organizację mogą otrzymać łącznie do {budget}%.",
+  "legal.licenseEndingOn": "Kończy się {date}. Do tego czasu wszystko pozostaje w mocy.",
+  "legal.licenseNoticeTerms": "Każda ze stron może zakończyć tę licencję z {days}-dniowym okresem wypowiedzenia, widocznym dla czytelników. Potem udział organizacji wraca do Ciebie, a czytelnicy zachowują to, co już zdobyli.",
+  "legal.licenseAcceptedOn": "Przyjęto {date}",
+  "legal.endLicense": "Zakończ licencję"
 }

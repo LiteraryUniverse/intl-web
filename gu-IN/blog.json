@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "હસ્તપ્રત",
   "blog.theme.preset.codex": "કોડેક્સ",
   "blog.theme.preset.architect": "સ્થપતિ",
-  "blog.theme.preset.chronicler": "ઇતિહાસકાર"
+  "blog.theme.preset.chronicler": "ઇતિહાસકાર",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

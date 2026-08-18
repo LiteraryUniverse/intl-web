@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "License change scheduled for {date}. Readers see a notice on the work until then; the current license stays active.",
   "workshop.translations.license.title": "Translation licenses",
   "workshop.translations.license.default": "Default ({license})",
-  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
-  "workshop.translations.license.internationalCovered": "This work's international organization license covers all its translations.",
+  "workshop.translations.license.viaOrg": "སྐད་ཡིག་དེ་ཁྱབ་པའི་ཚོགས་པའི་ཆོག་མཆན་ནི་ཁྱེད་ཚོགས་པ་དེའི་ནང་ཡོད་སྐབས་སམ། ཚོགས་མི་ཞིག་གིས་སྐད་ཡིག་དེ་ཡིག་སྒྱུར་བྱེད་སྐབས་མཁོ་སྤྲོད་བྱེད། དེ་བེད་སྤྱོད་བྱས་ན་ཡིག་སྒྱུར་དེ་ཚོགས་པ་དེའི་དཀར་ཆག་ནང་འགོད་ཅིང་། པར་གཞི་དེའི་ཡོང་འབབ་བགོ་བཤའ་ནང་ཚོགས་པའི་བགོ་སྐལ་སྣོན་ཡོད། (ཁྱེད་ཀྱི་ཆ་ཤས་ནས་ལེན།) ཡིག་སྒྱུར་དེ་དཔར་སྤེལ་བྱས་རྗེས་ཟྭ་རྒྱག་ཡོད།",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "བརྩམས་ཆོས་འདིའི་ཚོགས་པའི་ཆོག་མཆན་གྱིས་ཁྱབ་ཡོད།",
+  "legal.licenseAgreements": "ཚོགས་པའི་ཆོག་མཆན་གྱི་ཆིངས་ཡིག",
+  "legal.licenseTranslatorBudget": "ཚོགས་པས་བསྐོས་པའི་ཡིག་སྒྱུར་བ་ཚོར་མཉམ་དུ་མཐར་ཐུག {budget}% བར་ཐོབ་ཆོག",
+  "legal.licenseEndingOn": "{date} ལ་མཇུག་རྫོགས། དེ་བར་དུ་ཚང་མ་སྔར་བཞིན་གནས།",
+  "legal.licenseNoticeTerms": "ཕྱོགས་གང་རུང་གིས་ཀློག་མཁན་ཚོར་སྟོན་པའི་ཉིན {days} གི་བརྡ་ཐོ་དང་བཅས་ཆོག་མཆན་འདི་མཇུག་བསྒྲིལ་ཆོག དེ་རྗེས་ཚོགས་པའི་བགོ་སྐལ་ཁྱེད་ལ་ཕྱིར་ལོག་ཅིང་། ཀློག་མཁན་ཚོས་ཐོབ་ཟིན་པ་རྣམས་སོར་འཛིན།",
+  "legal.licenseAcceptedOn": "{date} ལ་དང་ལེན་བྱས།",
+  "legal.endLicense": "ཆོག་མཆན་མཇུག་བསྒྲིལ།"
 }

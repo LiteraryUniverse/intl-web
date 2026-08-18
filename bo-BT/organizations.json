@@ -78,7 +78,7 @@
   "org.roles.title": "ལས་འགན་དང་ཆོག་མཆན།",
   "org.roles.intro": "ལས་འགན་གིས་ཆོག་མཆན་ཚོགས་ཤིག་སྤྲོད། ཞིབ་ཕྲའི་ཚོད་འཛིན་གྱི་ཆེད་དུ་ལས་འགན་གྱི་སྟེང་དུ་ཆོག་མཆན་རེ་རེ་ཁ་སྣོན་གྱིས།",
   "org.workProposal.title": "འཆར་འབུལ་བྱས་པའི་བརྩམས་ཆོས།",
-  "org.workProposal.intro": "རང་གི་བརྩམས་ཆོས་ཤིག་ཚོགས་པ་འདི་ལ་འབུལ། དོ་དམ་པས་དང་ལེན་བྱས་ན་ཚོགས་པ་དེ་བདག་པོར་འགྱུར།",
+  "org.workProposal.intro": "རང་གི་བརྩམས་ཆོས་ཤིག་ཚོགས་པ་འདིའི་ཆོག་མཆན་ཞིག་གི་འོག་ཏུ་འབུལ། དང་ལེན་བྱས་ན་བརྩམས་ཆོས་དེ་རང་གི་བདག་དབང་དུ་གནས — ཚོགས་པས་ཆོག་མཆན་གྱི་ཐོབ་ཐང་དང་ཡོང་འབབ་ཀྱི་སྐལ་བ་ཐོབ།",
   "org.workProposal.propose": "བརྩམས་ཆོས་འཆར་འབུལ།",
   "org.workProposal.selectWork": "འཆར་འབུལ་བྱ་རྒྱུའི་བརྩམས་ཆོས།",
   "org.workProposal.note": "ཚོགས་པར་འཕྲིན་ཐུང་ (གདམ་ཀ)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Unarchive",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "སྤྱི་ཁྱབ་རྩོམ་སྒྲིག་པ།",
+  "org.permissions.licensing": "ཆོག་མཆན་དོ་དམ།",
+  "org.curation.title": "མངགས་ཉོ་ནང་གི་ཆོག་མཆན་ཐོབ་པའི་བརྩམས་ཆོས།",
+  "org.curation.intro": "ཆོག་མཆན་གྱིས་ཁྱེད་ལ་བརྩམས་ཆོས་ཤིག་རང་གི་མངགས་ཉོ་ནང་འགོད་ཆོག་པ་བྱེད་ཀྱང་། དེ་ལྟར་བྱེད་དགོས་པ་མིན། བརྩམས་ཆོས་དེ་དཀར་ཆག་ནས་ཚོང་འགྲེམས་ཁོ་ན་བྱེད་ན་རིམ་པའི་རྟགས་དེ་ཕྱིར་འཐེན་གྱིས། དེ་རྗེས་ཀློག་མཁན་ཚོར་ཉིན 30 རིང་འཛུལ་སྤྱོད་གནས།",
+  "org.carveOut.request": "{language} གློད་དམ།"
 }

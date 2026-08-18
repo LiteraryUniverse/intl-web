@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Ŝanĝo de permesilo estas planita por {date}. Ĝis tiam legantoj vidas averton sur la verko; la nuna permesilo restas aktiva.",
   "workshop.translations.license.title": "Permesiloj de tradukoj",
   "workshop.translations.license.default": "Defaŭlta ({license})",
-  "workshop.translations.license.viaOrg": "Regiona permesilo de organizo estas proponata, kiam vi apartenas al la organizo, aŭ kiam unu el ĝiaj membroj tradukas tiun lingvon. Apliki ĝin listigas la tradukon en la katalogo de tiu organizo kaj aldonas la parton de la organizo al la divido de enspezoj de tiu eldono (prenata el via parto). Ĝi ŝlosiĝas, kiam la traduko estas publikigita.",
-  "workshop.translations.license.internationalCovered": "La internacia organiza permesilo de ĉi tiu verko kovras ĉiujn ĝiajn tradukojn.",
+  "workshop.translations.license.viaOrg": "Permesilo de organizo kovranta la lingvon estas proponata, kiam vi apartenas al la organizo, aŭ kiam unu el ĝiaj membroj tradukas tiun lingvon. Apliki ĝin listigas la tradukon en la katalogo de tiu organizo kaj aldonas la parton de la organizo al la divido de enspezoj de tiu eldono (prenata el via parto). Ĝi ŝlosiĝas, kiam la traduko estas publikigita.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Kovrita de la organiza permesilo de la verko.",
+  "legal.licenseAgreements": "Permesilaj interkonsentoj de organizoj",
+  "legal.licenseTranslatorBudget": "Tradukistoj asignitaj de la organizo povas ricevi kune ĝis {budget}%.",
+  "legal.licenseEndingOn": "Finiĝas je {date}. Ĝis tiam ĉio restas valida.",
+  "legal.licenseNoticeTerms": "Ambaŭ flankoj povas fini ĉi tiun permesilon kun {days}-taga antaŭaverto montrata al legantoj. Poste la parto de la organizo revenas al vi, kaj legantoj konservas tion, kion ili jam gajnis.",
+  "legal.licenseAcceptedOn": "Akceptita je {date}",
+  "legal.endLicense": "Fini permesilon"
 }

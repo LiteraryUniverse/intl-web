@@ -80,7 +80,7 @@
   "org.roles.title": "Role i uprawnienia",
   "org.roles.intro": "Rola nadaje zestaw uprawnień. Aby uzyskać większą kontrolę, dodaj do roli pojedyncze uprawnienia.",
   "org.workProposal.title": "Zaproponowane dzieła",
-  "org.workProposal.intro": "Zaproponuj tej organizacji jedno ze swoich dzieł. Jeśli administrator je przyjmie, organizacja stanie się jego właścicielem.",
+  "org.workProposal.intro": "Zaproponuj tej organizacji jedno ze swoich dzieł na podstawie jednej z jej licencji. Jeśli propozycja zostanie przyjęta, dzieło pozostaje twoje — organizacja zyskuje prawa wynikające z licencji i swój udział w przychodach.",
   "org.workProposal.propose": "Zaproponuj dzieło",
   "org.workProposal.selectWork": "Dzieło do zaproponowania",
   "org.workProposal.note": "Wiadomość do organizacji (opcjonalnie)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe nie odpowiedział na czas. Spróbuj ponownie skonfigurować wypłaty.",
   "org.workshop.licensed": "Utwory na licencji",
   "org.workshop.licensed.intro": "Utwory należące do ich twórców, które mają jedną z licencji Twojej organizacji. Możesz je promować; edycja pozostaje u właściciela.",
-  "org.workshop.licensed.empty": "Żadne utwory nie mają jeszcze Twoich licencji."
+  "org.workshop.licensed.empty": "Żadne utwory nie mają jeszcze Twoich licencji.",
+  "org.roles.editor": "Redaktor naczelny",
+  "org.permissions.licensing": "Zarządzanie licencjami",
+  "org.curation.title": "Licencjonowane dzieła w subskrypcjach",
+  "org.curation.intro": "Licencja pozwala włączyć dzieło do Twoich subskrypcji — ale nie musisz tego robić. Odznacz poziom, aby sprzedawać dzieło wyłącznie z katalogu; czytelnicy zachowają dostęp jeszcze przez 30 dni.",
+  "org.carveOut.request": "Zwolnić język {language}?"
 }

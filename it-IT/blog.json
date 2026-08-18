@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "Manoscritto",
   "blog.theme.preset.codex": "Codice",
   "blog.theme.preset.architect": "Architetto",
-  "blog.theme.preset.chronicler": "Cronista"
+  "blog.theme.preset.chronicler": "Cronista",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

@@ -78,7 +78,7 @@
   "org.roles.title": "Rolle en regte",
   "org.roles.intro": "’n Rol verleen ’n stel regte. Voeg individuele regte by ’n rol vir fyner beheer.",
   "org.workProposal.title": "Voorgestelde werke",
-  "org.workProposal.intro": "Bied een van jou eie werke aan hierdie organisasie aan. As ’n administrateur dit aanvaar, word die organisasie die eienaar.",
+  "org.workProposal.intro": "Bied een van jou eie werke aan hierdie organisasie aan onder een van sy lisensies. As dit aanvaar word, bly die werk joune — die organisasie kry die lisensie se regte en sy deel van die inkomste.",
   "org.workProposal.propose": "Stel ’n werk voor",
   "org.workProposal.selectWork": "Werk om voor te stel",
   "org.workProposal.note": "Boodskap aan die organisasie (opsioneel)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Ontargiveer",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "Hoofredakteur",
+  "org.permissions.licensing": "Bestuur lisensiëring",
+  "org.curation.title": "Gelisensieerde werke in intekeninge",
+  "org.curation.intro": "'n Lisensie laat jou toe om 'n werk by jou intekeninge in te sluit — dit verplig jou nie daartoe nie. Ontmerk 'n vlak om die werk slegs uit jou katalogus te verkoop; lesers behou daarna nog 30 dae toegang.",
+  "org.carveOut.request": "{language} vrystel?"
 }

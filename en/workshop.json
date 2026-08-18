@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "License change scheduled for {date}. Readers see a notice on the work until then; the current license stays active.",
   "workshop.translations.license.title": "Translation licenses",
   "workshop.translations.license.default": "Default ({license})",
-  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
-  "workshop.translations.license.internationalCovered": "This work's international organization license covers all its translations.",
+  "workshop.translations.license.viaOrg": "An organization license covering the language is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
   "workshop.revShare.mustMatchCreatorShare": "Creator rows must add up to {creatorShare, number}% because platform share is fixed at {platformShare, number}%.",
   "workshop.revShare.owner": "Owner",
   "workshop.revShare.ownerLocked": "The story owner must remain part of the payout split.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.betaReader": "Beta reader",
   "workshop.invitations": "Invitations",
   "workshop.invitations.received": "Received",
-  "workshop.invitations.sent": "Sent"
+  "workshop.invitations.sent": "Sent",
+  "workshop.translations.license.coveredByOrg": "Covered by the work's organization license.",
+  "legal.licenseAgreements": "Organization license agreements",
+  "legal.licenseTranslatorBudget": "Translators assigned by the organization may receive up to {budget}% together.",
+  "legal.licenseEndingOn": "Ending on {date}. Until then everything stays in force.",
+  "legal.licenseNoticeTerms": "Either side can end this license with a {days}-day notice shown to readers. Afterwards the organization's share returns to you and readers keep what they already earned.",
+  "legal.licenseAcceptedOn": "Accepted on {date}",
+  "legal.endLicense": "End license"
 }

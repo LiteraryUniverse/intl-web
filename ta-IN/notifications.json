@@ -109,5 +109,13 @@
   "notification.team.left": "{workTitle} அணியிலிருந்து {user} விலகினார் ({role}).",
   "notification.team.compensationChanged": "{workTitle}-இல் உங்கள் ஊதியம் {compensation} ஆக மாற்றப்பட்டது.",
   "notificationExtra.team.viewInvitations": "அழைப்புகளைப் பார்",
-  "notificationExtra.team.goToWork": "படைப்புக்குச் செல்க"
+  "notificationExtra.team.goToWork": "படைப்புக்குச் செல்க",
+  "notification.orgLicense.proposed": "{organization}: “{work}” க்கான உரிம முன்மொழிவு ({license}) முடிவுக்காகக் காத்திருக்கிறது.",
+  "notification.orgLicense.accepted": "{organization} உடனான “{work}” க்கான உரிமம் {license} இப்போது செயலில் உள்ளது.",
+  "notification.orgLicense.rejected": "{organization} உடனான “{work}” க்கான உரிம முன்மொழிவு நிராகரிக்கப்பட்டது.",
+  "notification.orgLicense.terminated": "{organization} உடனான “{work}” க்கான உரிமம் {license} முடிவடையவுள்ளது — 30 நாள் அறிவிப்புக் காலத்தில் அது செயலில் இருக்கும்.",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}” இன் ஆசிரியர் உங்கள் உரிமத்திலிருந்து ஒரு மொழியை விடுவிக்கக் கோருகிறார்.",
+  "notification.orgLicense.carveOutApproved": "{organization} “{work}” இன் ஒரு மொழியை விடுவித்தது — அந்த மொழிபெயர்ப்பை நீங்கள் வேறு இடத்தில் உரிமம் வழங்கலாம்.",
+  "notification.orgLicense.carveOutRejected": "{organization} “{work}” இன் மொழி பரப்பைத் தக்கவைத்துக் கொண்டது.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 நாட்களில் {organization} அமைப்பின் சந்தாவிலிருந்து விலகும் — அதுவரை வாசகர்கள் அணுகலைத் தக்கவைத்திருப்பார்கள்."
 }

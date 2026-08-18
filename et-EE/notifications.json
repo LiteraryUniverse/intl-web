@@ -109,5 +109,13 @@
   "notification.team.left": "{user} lahkus teose {workTitle} meeskonnast ({role}).",
   "notification.team.compensationChanged": "Teie tasu teose {workTitle} eest muutus: {compensation}.",
   "notificationExtra.team.viewInvitations": "Vaata kutseid",
-  "notificationExtra.team.goToWork": "Mine teose juurde"
+  "notificationExtra.team.goToWork": "Mine teose juurde",
+  "notification.orgLicense.proposed": "{organization}: litsentsiettepanek teosele „{work}“ ({license}) ootab otsust.",
+  "notification.orgLicense.accepted": "Litsents {license} teosele „{work}“ organisatsiooniga {organization} on nüüd aktiivne.",
+  "notification.orgLicense.rejected": "Litsentsiettepanek teosele „{work}“ organisatsiooniga {organization} lükati tagasi.",
+  "notification.orgLicense.terminated": "Litsents {license} teosele „{work}“ organisatsiooniga {organization} on lõppemas — 30-päevase etteteatamisaja jooksul jääb see aktiivseks.",
+  "notification.orgLicense.carveOutRequested": "{organization}: teose „{work}“ autor palub vabastada teie litsentsist ühe keele.",
+  "notification.orgLicense.carveOutApproved": "{organization} vabastas teose „{work}“ ühe keele — võite selle tõlke mujal litsentsida.",
+  "notification.orgLicense.carveOutRejected": "{organization} säilitas teose „{work}“ keelte katvuse.",
+  "notification.orgLicense.subscriptionRemoval": "Teos „{work}“ lahkub organisatsiooni {organization} tellimusest 30 päeva pärast — lugejad säilitavad juurdepääsu senikaua."
 }

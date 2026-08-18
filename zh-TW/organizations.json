@@ -78,7 +78,7 @@
   "org.roles.title": "角色與權限",
   "org.roles.intro": "角色會授予一組權限。若需更細緻的控制，可在角色之上加入個別權限。",
   "org.workProposal.title": "提案作品",
-  "org.workProposal.intro": "將你自己的作品提案給這個組織。管理員接受後，組織即成為該作品的擁有者。",
+  "org.workProposal.intro": "將你自己的作品依這個組織的其中一份許可證提案給該組織。若獲接受，作品仍屬於你 — 組織將取得許可證所載的權利及其收益分成。",
   "org.workProposal.propose": "提案作品",
   "org.workProposal.selectWork": "要提案的作品",
   "org.workProposal.note": "給組織的訊息（選填）",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "取消封存",
   "org.workshop.licensed": "授權作品",
   "org.workshop.licensed.intro": "由創作者擁有、並帶有貴組織授權的作品。你可以推廣它們；編輯權仍屬擁有者。",
-  "org.workshop.licensed.empty": "尚未有作品使用你的授權。"
+  "org.workshop.licensed.empty": "尚未有作品使用你的授權。",
+  "org.roles.editor": "總編輯",
+  "org.permissions.licensing": "管理許可證",
+  "org.curation.title": "訂閱中的授權作品",
+  "org.curation.intro": "許可證讓您可以把作品納入訂閱 — 但並非必須。取消勾選某個等級，該作品就只會在您的目錄中單獨販售；讀者在那之後仍可存取 30 天。",
+  "org.carveOut.request": "要釋出 {language} 嗎？"
 }

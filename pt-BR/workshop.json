@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Mudança de licença agendada para {date}. Até lá, os leitores veem um aviso na obra; a licença atual permanece ativa.",
   "workshop.translations.license.title": "Licenças de tradução",
   "workshop.translations.license.default": "Padrão ({license})",
-  "workshop.translations.license.viaOrg": "Uma licença regional da organização é oferecida quando você pertence à organização, ou quando um de seus membros traduz aquele idioma. Aplicá-la lista a tradução no catálogo daquela organização e adiciona a participação da organização à divisão de receita dessa edição (retirada da sua parte). Ela é bloqueada assim que a tradução é publicada.",
-  "workshop.translations.license.internationalCovered": "A licença internacional da organização desta obra cobre todas as suas traduções.",
+  "workshop.translations.license.viaOrg": "Uma licença da organização que cobre o idioma é oferecida quando você pertence à organização, ou quando um de seus membros traduz aquele idioma. Aplicá-la lista a tradução no catálogo daquela organização e adiciona a participação da organização à divisão de receita dessa edição (retirada da sua parte). Ela é bloqueada assim que a tradução é publicada.",
   "workshop.revShare.mustMatchCreatorShare": "As linhas do criador devem somar {creatorShare, number}% porque a participação da plataforma é fixa em {platformShare, number}%.",
   "workshop.revShare.owner": "Proprietário",
   "workshop.revShare.ownerLocked": "O proprietário da história deve permanecer como parte da divisão do pagamento.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Editor de áudio",
   "workshop.credit.role.soundEngineer": "Engenheiro de som",
   "workshop.credit.role.composer": "Compositor",
-  "workshop.credit.role.betaReader": "Leitor beta"
+  "workshop.credit.role.betaReader": "Leitor beta",
+  "workshop.translations.license.coveredByOrg": "Coberto pela licença da organização da obra.",
+  "legal.licenseAgreements": "Acordos de licença da organização",
+  "legal.licenseTranslatorBudget": "Os tradutores designados pela organização podem receber, juntos, até {budget}%.",
+  "legal.licenseEndingOn": "Termina em {date}. Até lá, tudo continua valendo.",
+  "legal.licenseNoticeTerms": "Qualquer um dos lados pode encerrar esta licença com um aviso prévio de {days} dias exibido aos leitores. Depois, a participação da organização volta para você e os leitores mantêm o que já conquistaram.",
+  "legal.licenseAcceptedOn": "Aceita em {date}",
+  "legal.endLicense": "Encerrar licença"
 }

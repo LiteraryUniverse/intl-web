@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "ต้นฉบับลายมือ",
   "blog.theme.preset.codex": "โคเด็กซ์",
   "blog.theme.preset.architect": "สถาปนิก",
-  "blog.theme.preset.chronicler": "นักบันทึกพงศาวดาร"
+  "blog.theme.preset.chronicler": "นักบันทึกพงศาวดาร",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

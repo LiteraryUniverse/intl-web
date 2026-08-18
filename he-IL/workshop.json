@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "שינוי הרישיון מתוזמן ל-{date}. עד אז הקוראים רואים הודעה על היצירה; הרישיון הנוכחי נשאר בתוקף.",
   "workshop.translations.license.title": "רישיונות תרגום",
   "workshop.translations.license.default": "ברירת מחדל ({license})",
-  "workshop.translations.license.viaOrg": "רישיון ארגון אזורי מוצע כאשר אתם חברים בארגון, או כאשר אחד מחבריו מתרגם לשפה זו. החלתו מוסיפה את התרגום לקטלוג של אותו ארגון ומוסיפה את נתח הארגון לחלוקת ההכנסות של אותה מהדורה (הנלקח מחלקכם). הרישיון ננעל לאחר פרסום התרגום.",
-  "workshop.translations.license.internationalCovered": "רישיון הארגון הבינלאומי של יצירה זו מכסה את כל תרגומיה.",
+  "workshop.translations.license.viaOrg": "רישיון ארגון המכסה את השפה מוצע כאשר אתם חברים בארגון, או כאשר אחד מחבריו מתרגם לשפה זו. החלתו מוסיפה את התרגום לקטלוג של אותו ארגון ומוסיפה את נתח הארגון לחלוקת ההכנסות של אותה מהדורה (הנלקח מחלקכם). הרישיון ננעל לאחר פרסום התרגום.",
   "workshop.universe.forum.short": "פורום היקום",
   "workshop.team.role.designer": "מעצב",
   "workshop.team.role.production": "הפקה",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "עורך שמע",
   "workshop.credit.role.soundEngineer": "מהנדס קול",
   "workshop.credit.role.composer": "מלחין",
-  "workshop.credit.role.betaReader": "קורא בטא"
+  "workshop.credit.role.betaReader": "קורא בטא",
+  "workshop.translations.license.coveredByOrg": "מכוסה על ידי רישיון הארגון של היצירה.",
+  "legal.licenseAgreements": "הסכמי רישיון של ארגונים",
+  "legal.licenseTranslatorBudget": "מתרגמים שהארגון מציב עשויים לקבל יחד עד {budget}%.",
+  "legal.licenseEndingOn": "מסתיים ב-{date}. עד אז הכול נשאר בתוקף.",
+  "legal.licenseNoticeTerms": "כל אחד מהצדדים יכול לסיים את הרישיון הזה בהודעה מוקדמת של {days} ימים שמוצגת לקוראים. לאחר מכן נתח הארגון חוזר אליכם והקוראים שומרים על מה שכבר זכו בו.",
+  "legal.licenseAcceptedOn": "התקבל ב-{date}",
+  "legal.endLicense": "סיום הרישיון"
 }

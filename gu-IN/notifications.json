@@ -109,5 +109,13 @@
   "notification.team.left": "{user}એ {workTitle}ની ટીમ છોડી દીધી ({role}).",
   "notification.team.compensationChanged": "{workTitle} પરનું તમારું મહેનતાણું બદલાઈને {compensation} થયું.",
   "notificationExtra.team.viewInvitations": "આમંત્રણો જુઓ",
-  "notificationExtra.team.goToWork": "કૃતિ પર જાઓ"
+  "notificationExtra.team.goToWork": "કૃતિ પર જાઓ",
+  "notification.orgLicense.proposed": "{organization}: “{work}” માટે લાઇસન્સ દરખાસ્ત ({license}) નિર્ણયની રાહ જુએ છે.",
+  "notification.orgLicense.accepted": "{organization} સાથે “{work}” માટેનું લાઇસન્સ {license} હવે સક્રિય છે.",
+  "notification.orgLicense.rejected": "{organization} સાથે “{work}” માટેની લાઇસન્સ દરખાસ્ત નકારવામાં આવી.",
+  "notification.orgLicense.terminated": "{organization} સાથે “{work}” માટેનું લાઇસન્સ {license} સમાપ્ત થઈ રહ્યું છે — 30 દિવસની નોટિસ દરમિયાન તે સક્રિય રહે છે.",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}”ના લેખક તમારા લાઇસન્સમાંથી એક ભાષા મુક્ત કરવાની વિનંતી કરે છે.",
+  "notification.orgLicense.carveOutApproved": "{organization}એ “{work}”ની એક ભાષા મુક્ત કરી — તમે તે અનુવાદનું લાઇસન્સ અન્યત્ર આપી શકો છો.",
+  "notification.orgLicense.carveOutRejected": "{organization}એ “{work}”ની ભાષા કવરેજ જાળવી રાખી.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 દિવસમાં {organization}નું સબ્સ્ક્રિપ્શન છોડે છે — વાચકો ત્યાં સુધી ઍક્સેસ જાળવી રાખશે."
 }

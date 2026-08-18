@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "手稿",
   "blog.theme.preset.codex": "古抄本",
   "blog.theme.preset.architect": "建築師",
-  "blog.theme.preset.chronicler": "史官"
+  "blog.theme.preset.chronicler": "史官",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

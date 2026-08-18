@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "ლიცენზიის შეცვლა დაგეგმილია {date}-ისთვის. მანამდე მკითხველები ნაწარმოებზე ხედავენ შეტყობინებას; მიმდინარე ლიცენზია რჩება მოქმედი.",
   "workshop.translations.license.title": "თარგმანის ლიცენზიები",
   "workshop.translations.license.default": "ნაგულისხმევი ({license})",
-  "workshop.translations.license.viaOrg": "რეგიონული ორგანიზაციის ლიცენზია შემოთავაზებულია, როდესაც ორგანიზაციას ეკუთვნით, ან როდესაც მისი რომელიმე წევრი თარგმნის ამ ენაზე. მისი გამოყენება თარგმანს ათავსებს ამ ორგანიზაციის კატალოგში და ამ გამოცემის შემოსავლის განაწილებას უმატებს ორგანიზაციის წილს (აიღება თქვენი ნაწილიდან). ის იკეტება თარგმანის გამოქვეყნებისთანავე.",
-  "workshop.translations.license.internationalCovered": "ამ ნაწარმოების საერთაშორისო ორგანიზაციის ლიცენზია მოიცავს მის ყველა თარგმანს.",
+  "workshop.translations.license.viaOrg": "ენის მომცველი ორგანიზაციის ლიცენზია შემოთავაზებულია, როდესაც ორგანიზაციას ეკუთვნით, ან როდესაც მისი რომელიმე წევრი თარგმნის ამ ენაზე. მისი გამოყენება თარგმანს ათავსებს ამ ორგანიზაციის კატალოგში და ამ გამოცემის შემოსავლის განაწილებას უმატებს ორგანიზაციის წილს (აიღება თქვენი ნაწილიდან). ის იკეტება თარგმანის გამოქვეყნებისთანავე.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "მოცულია ნაწარმოების ორგანიზაციის ლიცენზიით.",
+  "legal.licenseAgreements": "ორგანიზაციის ლიცენზიის შეთანხმებები",
+  "legal.licenseTranslatorBudget": "ორგანიზაციის მიერ დანიშნულმა მთარგმნელებმა ერთად შეიძლება მიიღონ {budget}%-მდე.",
+  "legal.licenseEndingOn": "სრულდება {date}. მანამდე ყველაფერი ძალაში რჩება.",
+  "legal.licenseNoticeTerms": "ამ ლიცენზიის დასრულება ნებისმიერ მხარეს შეუძლია {days}-დღიანი შეტყობინებით, რომელიც მკითხველებს ეჩვენებათ. შემდეგ ორგანიზაციის წილი გიბრუნდებათ და მკითხველები ინარჩუნებენ იმას, რაც უკვე მოიპოვეს.",
+  "legal.licenseAcceptedOn": "მიღებულია {date}",
+  "legal.endLicense": "ლიცენზიის დასრულება"
 }

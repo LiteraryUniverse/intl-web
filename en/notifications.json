@@ -109,5 +109,13 @@
   "notification.team.left": "{user} left the team of {workTitle} ({role}).",
   "notification.team.compensationChanged": "Your compensation on {workTitle} changed to {compensation}.",
   "notificationExtra.team.viewInvitations": "View invitations",
-  "notificationExtra.team.goToWork": "Go to the work"
+  "notificationExtra.team.goToWork": "Go to the work",
+  "notification.orgLicense.proposed": "{organization}: a license proposal for “{work}” ({license}) awaits a decision.",
+  "notification.orgLicense.accepted": "The license {license} for “{work}” with {organization} is now active.",
+  "notification.orgLicense.rejected": "The license proposal for “{work}” with {organization} was declined.",
+  "notification.orgLicense.terminated": "The license {license} for “{work}” with {organization} is ending — it stays active during the 30-day notice.",
+  "notification.orgLicense.carveOutRequested": "{organization}: the author of “{work}” asks to release one language from your license.",
+  "notification.orgLicense.carveOutApproved": "{organization} released a language of “{work}” — you can license that translation elsewhere.",
+  "notification.orgLicense.carveOutRejected": "{organization} kept its language coverage of “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” leaves {organization}'s subscription in 30 days — readers keep access until then."
 }

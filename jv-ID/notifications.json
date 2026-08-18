@@ -109,5 +109,13 @@
   "notification.team.left": "{user} metu saka tim {workTitle} ({role}).",
   "notification.team.compensationChanged": "Imbalan sampeyan ing {workTitle} owah dadi {compensation}.",
   "notificationExtra.team.viewInvitations": "Deleng undangan",
-  "notificationExtra.team.goToWork": "Menyang karya"
+  "notificationExtra.team.goToWork": "Menyang karya",
+  "notification.orgLicense.proposed": "{organization}: ana usulan lisensi kanggo “{work}” ({license}) sing ngenteni keputusan.",
+  "notification.orgLicense.accepted": "Lisensi {license} kanggo “{work}” karo {organization} saiki aktif.",
+  "notification.orgLicense.rejected": "Usulan lisensi kanggo “{work}” karo {organization} ditolak.",
+  "notification.orgLicense.terminated": "Lisensi {license} kanggo “{work}” karo {organization} arep rampung — tetep aktif sajrone wektu pemberitahuan 30 dina.",
+  "notification.orgLicense.carveOutRequested": "{organization}: panulis “{work}” njaluk supaya siji basa dibebasake saka lisensi panjenengan.",
+  "notification.orgLicense.carveOutApproved": "{organization} wis mbebasake siji basa saka “{work}” — panjenengan bisa nglisensi terjemahan iku ing papan liya.",
+  "notification.orgLicense.carveOutRejected": "{organization} tetep njaga cakupan basa “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” bakal metu saka langganan {organization} sajrone 30 dina — pamaca isih duwe akses nganti wektu iku."
 }

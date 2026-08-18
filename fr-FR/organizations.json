@@ -80,7 +80,7 @@
   "org.roles.title": "Rôles et permissions",
   "org.roles.intro": "Un rôle accorde un ensemble de permissions. Ajoutez des permissions individuelles à un rôle pour un contrôle plus fin.",
   "org.workProposal.title": "Œuvres proposées",
-  "org.workProposal.intro": "Proposez l’une de vos œuvres à cette organisation. Si un administrateur accepte, l’organisation en devient propriétaire.",
+  "org.workProposal.intro": "Proposez l’une de vos œuvres à cette organisation sous l’une de ses licences. En cas d’acceptation, l’œuvre reste la vôtre — l’organisation obtient les droits de la licence et sa part des revenus.",
   "org.workProposal.propose": "Proposer une œuvre",
   "org.workProposal.selectWork": "Œuvre à proposer",
   "org.workProposal.note": "Message à l’organisation (facultatif)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe n’a pas répondu à temps. Veuillez réessayer de configurer les versements.",
   "org.workshop.licensed": "Œuvres sous licence",
   "org.workshop.licensed.intro": "Œuvres appartenant à leurs créateurs et portant l’une des licences de votre organisation. Vous pouvez les promouvoir ; l’édition reste au propriétaire.",
-  "org.workshop.licensed.empty": "Aucune œuvre ne porte encore vos licences."
+  "org.workshop.licensed.empty": "Aucune œuvre ne porte encore vos licences.",
+  "org.roles.editor": "Rédacteur en chef",
+  "org.permissions.licensing": "Gérer les licences",
+  "org.curation.title": "Œuvres sous licence dans les abonnements",
+  "org.curation.intro": "Une licence vous permet d'inclure une œuvre dans vos abonnements — elle ne vous y oblige pas. Décochez un niveau pour vendre l'œuvre uniquement depuis votre catalogue ; les lecteurs conservent l'accès pendant 30 jours après cela.",
+  "org.carveOut.request": "Libérer {language} ?"
 }

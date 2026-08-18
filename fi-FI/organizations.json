@@ -78,7 +78,7 @@
   "org.roles.title": "Roolit ja oikeudet",
   "org.roles.intro": "Rooli myöntää joukon oikeuksia. Lisää roolin päälle yksittäisiä oikeuksia tarkempaa hallintaa varten.",
   "org.workProposal.title": "Ehdotetut teokset",
-  "org.workProposal.intro": "Tarjoa jokin omista teoksistasi tälle organisaatiolle. Jos ylläpitäjä hyväksyy, organisaatiosta tulee sen omistaja.",
+  "org.workProposal.intro": "Tarjoa jokin omista teoksistasi tälle organisaatiolle jonkin sen lisenssin alaisena. Jos tarjous hyväksytään, teos pysyy sinun — organisaatio saa lisenssin oikeudet ja osuutensa tuloista.",
   "org.workProposal.propose": "Ehdota teosta",
   "org.workProposal.selectWork": "Ehdotettava teos",
   "org.workProposal.note": "Viesti organisaatiolle (valinnainen)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Palauta arkistosta",
   "org.workshop.licensed": "Lisensoidut teokset",
   "org.workshop.licensed.intro": "Tekijöidensä omistamia teoksia, joilla on yksi organisaatiosi lisensseistä. Voit mainostaa niitä; muokkaus säilyy omistajalla.",
-  "org.workshop.licensed.empty": "Mikään teos ei vielä kanna lisenssejäsi."
+  "org.workshop.licensed.empty": "Mikään teos ei vielä kanna lisenssejäsi.",
+  "org.roles.editor": "Päätoimittaja",
+  "org.permissions.licensing": "Hallitse lisensointia",
+  "org.curation.title": "Lisensoidut teokset tilauksissa",
+  "org.curation.intro": "Lisenssi antaa sinulle mahdollisuuden sisällyttää teos tilauksiisi — pakko ei ole. Poista tason valinta, jos haluat myydä teoksen vain katalogistasi; lukijat säilyttävät pääsyn vielä 30 päivän ajan sen jälkeen.",
+  "org.carveOut.request": "Vapautetaanko kieli {language}?"
 }

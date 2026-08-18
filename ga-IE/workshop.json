@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Tá athrú ceadúnais sceidealta le haghaidh {date}. Go dtí sin, feiceann léitheoirí fógra ar an saothar; fanann an ceadúnas reatha i bhfeidhm.",
   "workshop.translations.license.title": "Ceadúnais aistriúcháin",
   "workshop.translations.license.default": "Réamhshocraithe ({license})",
-  "workshop.translations.license.viaOrg": "Tairgtear ceadúnas eagraíochta réigiúnach nuair is ball den eagraíocht thú, nó nuair a aistríonn duine dá baill an teanga sin. Nuair a chuireann tú i bhfeidhm é, liostaítear an t-aistriúchán i gcatalóg na heagraíochta sin agus cuirtear sciar na heagraíochta le scoilt ioncaim an eagráin sin (bainte as do chuid féin). Glasáiltear é nuair a fhoilsítear an t-aistriúchán.",
-  "workshop.translations.license.internationalCovered": "Clúdaíonn ceadúnas idirnáisiúnta eagraíochta an tsaothair seo a chuid aistriúchán go léir.",
+  "workshop.translations.license.viaOrg": "Tairgtear ceadúnas eagraíochta a chlúdaíonn an teanga nuair is ball den eagraíocht thú, nó nuair a aistríonn duine dá baill an teanga sin. Nuair a chuireann tú i bhfeidhm é, liostaítear an t-aistriúchán i gcatalóg na heagraíochta sin agus cuirtear sciar na heagraíochta le scoilt ioncaim an eagráin sin (bainte as do chuid féin). Glasáiltear é nuair a fhoilsítear an t-aistriúchán.",
   "workshop.revShare.mustMatchCreatorShare": "Caithfidh sraitheanna na gcruthaitheoirí {creatorShare, number}% a shuimiú toisc go bhfuil sciar an ardáin socraithe ag {platformShare, number}%.",
   "workshop.revShare.owner": "Úinéir",
   "workshop.revShare.ownerLocked": "Caithfidh úinéir an scéil a bheith páirteach i gcónaí sa roinnt íocaíochta.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Clúdaithe ag ceadúnas eagraíochta an tsaothair.",
+  "legal.licenseAgreements": "Comhaontuithe ceadúnais eagraíochta",
+  "legal.licenseTranslatorBudget": "Féadfaidh na haistritheoirí a cheapann an eagraíocht suas le {budget}% a fháil eatarthu.",
+  "legal.licenseEndingOn": "Críochnóidh sé ar {date}. Go dtí sin fanann gach rud i bhfeidhm.",
+  "legal.licenseNoticeTerms": "Is féidir le ceachtar taobh deireadh a chur leis an gceadúnas seo le fógra {days} lá a thaispeántar do léitheoirí. Ina dhiaidh sin filleann sciar na heagraíochta ortsa agus coinníonn léitheoirí a bhfuil tuillte acu cheana.",
+  "legal.licenseAcceptedOn": "Glacadh leis ar {date}",
+  "legal.endLicense": "Cuir deireadh leis an gceadúnas"
 }

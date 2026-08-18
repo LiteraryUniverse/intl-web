@@ -80,7 +80,7 @@
   "org.roles.title": "ଭୂମିକା ଓ ଅନୁମତି",
   "org.roles.intro": "ଭୂମିକା ଏକ ଗୁଚ୍ଛ ଅନୁମତି ପ୍ରଦାନ କରେ। ଅଧିକ ସୂକ୍ଷ୍ମ ନିୟନ୍ତ୍ରଣ ପାଇଁ ଭୂମିକା ଉପରେ ଅଲଗା ଅନୁମତି ଯୋଡ଼ନ୍ତୁ।",
   "org.workProposal.title": "ପ୍ରସ୍ତାବିତ କୃତି",
-  "org.workProposal.intro": "ଆପଣଙ୍କ ନିଜର କୌଣସି କୃତି ଏହି ସଂଗଠନକୁ ଦିଅନ୍ତୁ। କୌଣସି ପ୍ରଶାସକ ଗ୍ରହଣ କଲେ ସଂଗଠନ ହିଁ ଏହାର ମାଲିକ ହେବ।",
+  "org.workProposal.intro": "ଆପଣଙ୍କ ନିଜର କୌଣସି କୃତି ଏହି ସଂଗଠନକୁ ତାହାର କୌଣସି ଏକ ଲାଇସେନ୍ସ ଅଧୀନରେ ପ୍ରସ୍ତାବ ଦିଅନ୍ତୁ। ଗ୍ରହଣ ହେଲେ କୃତି ଆପଣଙ୍କରି ରହିବ — ସଂଗଠନ ଲାଇସେନ୍ସର ଅଧିକାର ଏବଂ ଆୟରେ ତାହାର ଭାଗ ପାଇବ।",
   "org.workProposal.propose": "କୃତି ପ୍ରସ୍ତାବ କରନ୍ତୁ",
   "org.workProposal.selectWork": "ପ୍ରସ୍ତାବ କରିବାକୁ ଥିବା କୃତି",
   "org.workProposal.note": "ସଂଗଠନ ପାଇଁ ବାର୍ତ୍ତା (ଐଚ୍ଛିକ)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe ସମୟରେ ଉତ୍ତର ଦେଇନାହିଁ। ଦୟାକରି ପୁଣି ପେଆଉଟ୍ ସେଟ୍ ଅପ୍ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "ମୁଖ୍ୟ ସମ୍ପାଦକ",
+  "org.permissions.licensing": "ଲାଇସେନ୍ସିଂ ପରିଚାଳନା କରନ୍ତୁ",
+  "org.curation.title": "ସଦସ୍ୟତାରେ ଲାଇସେନ୍ସପ୍ରାପ୍ତ କୃତି",
+  "org.curation.intro": "ଲାଇସେନ୍ସ ଆପଣଙ୍କୁ ନିଜ ସଦସ୍ୟତାରେ କୌଣସି କୃତି ରଖିବାର ସୁଯୋଗ ଦିଏ — ରଖିବା ବାଧ୍ୟତାମୂଳକ ନୁହେଁ। କୃତିଟିକୁ କେବଳ ଆପଣଙ୍କ କାଟାଲଗରୁ ବିକ୍ରି କରିବାକୁ ଟିଅର୍ ଉପରୁ ଟିକ୍ ହଟାନ୍ତୁ; ତାହା ପରେ ମଧ୍ୟ ପାଠକମାନେ 30 ଦିନ ପ୍ରବେଶ ବଜାୟ ରଖନ୍ତି।",
+  "org.carveOut.request": "{language} ମୁକ୍ତ କରିବେ?"
 }

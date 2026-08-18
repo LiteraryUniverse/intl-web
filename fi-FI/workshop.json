@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Lisenssin vaihto on ajoitettu päivälle {date}. Siihen asti lukijat näkevät teoksessa ilmoituksen; nykyinen lisenssi pysyy voimassa.",
   "workshop.translations.license.title": "Käännöslisenssit",
   "workshop.translations.license.default": "Oletus ({license})",
-  "workshop.translations.license.viaOrg": "Alueellista organisaation lisenssiä tarjotaan, kun kuulut organisaatioon tai kun joku sen jäsenistä kääntää kyseistä kieltä. Sen soveltaminen listaa käännöksen kyseisen organisaation katalogiin ja lisää organisaation osuuden kyseisen laitoksen tulonjakoon (otetaan sinun osastasi). Se lukittuu, kun käännös julkaistaan.",
-  "workshop.translations.license.internationalCovered": "Tämän teoksen kansainvälinen organisaation lisenssi kattaa kaikki sen käännökset.",
+  "workshop.translations.license.viaOrg": "Kielen kattavaa organisaation lisenssiä tarjotaan, kun kuulut organisaatioon tai kun joku sen jäsenistä kääntää kyseistä kieltä. Sen soveltaminen listaa käännöksen kyseisen organisaation katalogiin ja lisää organisaation osuuden kyseisen laitoksen tulonjakoon (otetaan sinun osastasi). Se lukittuu, kun käännös julkaistaan.",
   "workshop.universe.forum.short": "Universumin foorumi",
   "workshop.team.role.designer": "Suunnittelija",
   "workshop.team.role.production": "Tuotanto",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Äänieditoija",
   "workshop.credit.role.soundEngineer": "Ääni-insinööri",
   "workshop.credit.role.composer": "Säveltäjä",
-  "workshop.credit.role.betaReader": "Betalukija"
+  "workshop.credit.role.betaReader": "Betalukija",
+  "workshop.translations.license.coveredByOrg": "Teoksen organisaatiolisenssin kattama.",
+  "legal.licenseAgreements": "Organisaation lisenssisopimukset",
+  "legal.licenseTranslatorBudget": "Organisaation nimeämät kääntäjät voivat saada yhteensä enintään {budget} %.",
+  "legal.licenseEndingOn": "Päättyy {date}. Siihen asti kaikki pysyy voimassa.",
+  "legal.licenseNoticeTerms": "Kumpi tahansa osapuoli voi päättää tämän lisenssin {days} päivän irtisanomisajalla, joka näytetään lukijoille. Sen jälkeen organisaation osuus palautuu sinulle ja lukijat säilyttävät sen, minkä ovat jo ansainneet.",
+  "legal.licenseAcceptedOn": "Hyväksytty {date}",
+  "legal.endLicense": "Päätä lisenssi"
 }

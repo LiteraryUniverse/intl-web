@@ -109,5 +109,13 @@
   "notification.team.left": "{user} {workTitle} क टीम छोड़ि देलनि ({role})।",
   "notification.team.compensationChanged": "{workTitle} पर अहाँक पारिश्रमिक बदलि कऽ {compensation} भऽ गेल।",
   "notificationExtra.team.viewInvitations": "आमंत्रण देखू",
-  "notificationExtra.team.goToWork": "रचना पर जाउ"
+  "notificationExtra.team.goToWork": "रचना पर जाउ",
+  "notification.orgLicense.proposed": "{organization}: “{work}” लेल एकटा लाइसेंस प्रस्ताव ({license}) निर्णयक प्रतीक्षा मे अछि।",
+  "notification.orgLicense.accepted": "{organization} क सङ्ग “{work}” क लाइसेंस {license} आब सक्रिय अछि।",
+  "notification.orgLicense.rejected": "{organization} क सङ्ग “{work}” क लाइसेंस प्रस्ताव अस्वीकार कयल गेल।",
+  "notification.orgLicense.terminated": "{organization} क सङ्ग “{work}” क लाइसेंस {license} समाप्त भऽ रहल अछि — 30 दिनक सूचना अवधि मे ई सक्रिय रहत।",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}” क लेखक अहाँक लाइसेंस सँ एकटा भाषा मुक्त करबाक अनुरोध कऽ रहल छथि।",
+  "notification.orgLicense.carveOutApproved": "{organization} “{work}” क एकटा भाषा मुक्त कऽ देलक — अहाँ ओहि अनुवाद केँ आन ठाम लाइसेंस दऽ सकैत छी।",
+  "notification.orgLicense.carveOutRejected": "{organization} “{work}” क अपन भाषा कवरेज बनौने रखलक।",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 दिन मे {organization} क सदस्यता छोड़ि देत — पाठक तखन तक पहुँच बनौने रहताह।"
 }

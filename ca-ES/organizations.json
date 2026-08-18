@@ -78,7 +78,7 @@
   "org.roles.title": "Rols i permisos",
   "org.roles.intro": "Un rol atorga un conjunt de permisos. Afegeix permisos individuals sobre un rol per a un control més precís.",
   "org.workProposal.title": "Obres proposades",
-  "org.workProposal.intro": "Ofereix una de les teves obres a aquesta organització. Si un administrador l’accepta, l’organització en passa a ser propietària.",
+  "org.workProposal.intro": "Ofereix una de les teves obres a aquesta organització sota una de les seves llicències. Si s'accepta, l'obra continua sent teva — l'organització obté els drets de la llicència i la seva part dels ingressos.",
   "org.workProposal.propose": "Proposar una obra",
   "org.workProposal.selectWork": "Obra a proposar",
   "org.workProposal.note": "Missatge per a l’organització (opcional)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Desarxiva",
   "org.workshop.licensed": "Obres amb llicència",
   "org.workshop.licensed.intro": "Obres dels seus creadors que porten una de les llicències de la teva organització. Les pots promoure; l’edició resta al propietari.",
-  "org.workshop.licensed.empty": "Encara no hi ha obres amb les teves llicències."
+  "org.workshop.licensed.empty": "Encara no hi ha obres amb les teves llicències.",
+  "org.roles.editor": "Redactor en cap",
+  "org.permissions.licensing": "Gestionar les llicències",
+  "org.curation.title": "Obres amb llicència a les subscripcions",
+  "org.curation.intro": "Una llicència et permet incloure una obra a les teves subscripcions — no t'hi obliga. Desmarca un nivell per vendre l'obra només des del teu catàleg; els lectors conserven l'accés durant 30 dies després d'això.",
+  "org.carveOut.request": "Alliberar {language}?"
 }

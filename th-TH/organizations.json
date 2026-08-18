@@ -78,7 +78,7 @@
   "org.roles.title": "บทบาทและสิทธิ์",
   "org.roles.intro": "บทบาทจะให้ชุดสิทธิ์ หากต้องการควบคุมละเอียดขึ้น ให้เพิ่มสิทธิ์รายข้อบนบทบาทนั้น",
   "org.workProposal.title": "ผลงานที่เสนอ",
-  "org.workProposal.intro": "เสนอผลงานของคุณให้องค์กรนี้ หากผู้ดูแลยอมรับ องค์กรจะกลายเป็นเจ้าของผลงานนั้น",
+  "org.workProposal.intro": "เสนอผลงานของคุณให้องค์กรนี้ภายใต้ใบอนุญาตหนึ่งขององค์กร หากได้รับการยอมรับ ผลงานยังคงเป็นของคุณ — องค์กรจะได้รับสิทธิ์ตามใบอนุญาตและส่วนแบ่งรายได้ขององค์กร",
   "org.workProposal.propose": "เสนอผลงาน",
   "org.workProposal.selectWork": "ผลงานที่จะเสนอ",
   "org.workProposal.note": "ข้อความถึงองค์กร (ไม่บังคับ)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "ยกเลิกการเก็บถาวร",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "บรรณาธิการบริหาร",
+  "org.permissions.licensing": "จัดการใบอนุญาต",
+  "org.curation.title": "ผลงานที่ได้รับอนุญาตในการสมัครสมาชิก",
+  "org.curation.intro": "ใบอนุญาตเปิดให้คุณนำผลงานเข้าไปอยู่ในการสมัครสมาชิกได้ แต่ไม่จำเป็นต้องทำ ยกเลิกการเลือกระดับใดระดับหนึ่งเพื่อขายผลงานจากแค็ตตาล็อกของคุณเท่านั้น ผู้อ่านจะยังเข้าถึงได้อีก 30 วันหลังจากนั้น",
+  "org.carveOut.request": "ปล่อยสิทธิ์ {language} หรือไม่?"
 }

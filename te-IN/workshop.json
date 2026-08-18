@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "లైసెన్సు మార్పు {date}కి షెడ్యూల్ చేయబడింది. అప్పటివరకు పాఠకులు రచనపై నోటీసును చూస్తారు; ప్రస్తుత లైసెన్సు అమలులో ఉంటుంది.",
   "workshop.translations.license.title": "అనువాద లైసెన్సులు",
   "workshop.translations.license.default": "డిఫాల్ట్ ({license})",
-  "workshop.translations.license.viaOrg": "మీరు సంస్థలో సభ్యులుగా ఉన్నప్పుడు, లేదా దాని సభ్యులలో ఒకరు ఆ భాషను అనువదించినప్పుడు ప్రాంతీయ సంస్థ లైసెన్సు అందించబడుతుంది. దాన్ని వర్తింపజేస్తే అనువాదం ఆ సంస్థ కేటలాగ్‌లో చేర్చబడుతుంది; ఆ ఎడిషన్ ఆదాయ పంపిణీకి సంస్థ వాటా జోడించబడుతుంది (మీ భాగం నుండి తీసుకోబడుతుంది). అనువాదం ప్రచురించబడిన తర్వాత అది లాక్ అవుతుంది.",
-  "workshop.translations.license.internationalCovered": "ఈ రచన అంతర్జాతీయ సంస్థ లైసెన్సు దాని అన్ని అనువాదాలను కవర్ చేస్తుంది.",
+  "workshop.translations.license.viaOrg": "మీరు సంస్థలో సభ్యులుగా ఉన్నప్పుడు, లేదా దాని సభ్యులలో ఒకరు ఆ భాషను అనువదించినప్పుడు, ఆ భాషను కవర్ చేసే సంస్థ లైసెన్సు అందించబడుతుంది. దాన్ని వర్తింపజేస్తే అనువాదం ఆ సంస్థ కేటలాగ్‌లో చేర్చబడుతుంది; ఆ ఎడిషన్ ఆదాయ పంపిణీకి సంస్థ వాటా జోడించబడుతుంది (మీ భాగం నుండి తీసుకోబడుతుంది). అనువాదం ప్రచురించబడిన తర్వాత అది లాక్ అవుతుంది.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "ఈ రచన సంస్థ లైసెన్సుతో కవర్ చేయబడింది.",
+  "legal.licenseAgreements": "సంస్థ లైసెన్సు ఒప్పందాలు",
+  "legal.licenseTranslatorBudget": "సంస్థ నియమించిన అనువాదకులు అందరూ కలిపి గరిష్ఠంగా {budget}% వరకు పొందవచ్చు.",
+  "legal.licenseEndingOn": "{date}న ముగుస్తుంది. అప్పటివరకు అంతా అమలులో ఉంటుంది.",
+  "legal.licenseNoticeTerms": "పాఠకులకు చూపబడే {days} రోజుల నోటీసుతో ఏ పక్షమైనా ఈ లైసెన్సును ముగించవచ్చు. ఆ తర్వాత సంస్థ వాటా మీకే తిరిగి వస్తుంది, పాఠకులు ఇప్పటికే సంపాదించినది వారికే ఉంటుంది.",
+  "legal.licenseAcceptedOn": "{date}న ఆమోదించబడింది",
+  "legal.endLicense": "లైసెన్సును ముగించండి"
 }

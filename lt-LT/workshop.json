@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Licencijos pakeitimas suplanuotas {date}. Iki tol skaitytojai prie kūrinio mato pranešimą; dabartinė licencija lieka galioti.",
   "workshop.translations.license.title": "Vertimų licencijos",
   "workshop.translations.license.default": "Numatytoji ({license})",
-  "workshop.translations.license.viaOrg": "Regioninė organizacijos licencija siūloma, kai priklausote organizacijai arba kai vienas iš jos narių verčia į tą kalbą. Ją pritaikius, vertimas įtraukiamas į tos organizacijos katalogą, o organizacijos dalis pridedama prie to leidimo pajamų pasidalijimo (atskaitoma iš jūsų dalies). Paskelbus vertimą, ji užrakinama.",
-  "workshop.translations.license.internationalCovered": "Šio kūrinio tarptautinė organizacijos licencija apima visus jo vertimus.",
+  "workshop.translations.license.viaOrg": "Kalbą apimanti organizacijos licencija siūloma, kai priklausote organizacijai arba kai vienas iš jos narių verčia į tą kalbą. Ją pritaikius, vertimas įtraukiamas į tos organizacijos katalogą, o organizacijos dalis pridedama prie to leidimo pajamų pasidalijimo (atskaitoma iš jūsų dalies). Paskelbus vertimą, ji užrakinama.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Apima kūrinio organizacijos licencija.",
+  "legal.licenseAgreements": "Licencinės sutartys su organizacijomis",
+  "legal.licenseTranslatorBudget": "Organizacijos paskirti vertėjai kartu gali gauti iki {budget} %.",
+  "legal.licenseEndingOn": "Baigiasi {date}. Iki tol viskas lieka galioti.",
+  "legal.licenseNoticeTerms": "Bet kuri pusė gali nutraukti šią licenciją, apie tai įspėjusi prieš {days} dienų; įspėjimas rodomas skaitytojams. Vėliau organizacijos dalis grįžta jums, o skaitytojai išsaugo tai, ką jau įgijo.",
+  "legal.licenseAcceptedOn": "Priimta {date}",
+  "legal.endLicense": "Nutraukti licenciją"
 }

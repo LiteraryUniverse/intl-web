@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Lisans değişikliği {date} tarihine planlandı. O zamana kadar okuyucular eserde bir bildirim görür; mevcut lisans geçerli kalır.",
   "workshop.translations.license.title": "Çeviri lisansları",
   "workshop.translations.license.default": "Varsayılan ({license})",
-  "workshop.translations.license.viaOrg": "Bölgesel bir kuruluş lisansı, kuruluşa üye olduğunuzda veya üyelerinden biri o dile çeviri yaptığında sunulur. Uygulandığında çeviri o kuruluşun kataloğunda listelenir ve kuruluşun payı bu baskının gelir paylaşımına eklenir (sizin payınızdan alınır). Çeviri yayınlandığında kilitlenir.",
-  "workshop.translations.license.internationalCovered": "Bu eserin uluslararası kuruluş lisansı tüm çevirilerini kapsar.",
+  "workshop.translations.license.viaOrg": "Dili kapsayan bir kuruluş lisansı, kuruluşa üye olduğunuzda veya üyelerinden biri o dile çeviri yaptığında sunulur. Uygulandığında çeviri o kuruluşun kataloğunda listelenir ve kuruluşun payı bu baskının gelir paylaşımına eklenir (sizin payınızdan alınır). Çeviri yayınlandığında kilitlenir.",
   "workshop.revShare.mustMatchCreatorShare": "Platform payı {platformShare, number} % olarak sabitlendiğinden, içerik oluşturucu satırlarının toplamı {creatorShare, number}% olmalıdır.",
   "workshop.revShare.owner": "Sahibi",
   "workshop.revShare.ownerLocked": "Hikâye sahibi ödeme paylaşımının bir parçası olarak kalmalıdır.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Ses editörü",
   "workshop.credit.role.soundEngineer": "Ses mühendisi",
   "workshop.credit.role.composer": "Besteci",
-  "workshop.credit.role.betaReader": "Beta okuyucu"
+  "workshop.credit.role.betaReader": "Beta okuyucu",
+  "workshop.translations.license.coveredByOrg": "Eserin kuruluş lisansı kapsamındadır.",
+  "legal.licenseAgreements": "Kuruluş lisans sözleşmeleri",
+  "legal.licenseTranslatorBudget": "Kuruluşun görevlendirdiği çevirmenler birlikte en fazla %{budget} alabilir.",
+  "legal.licenseEndingOn": "{date} tarihinde sona eriyor. O tarihe kadar her şey geçerliliğini korur.",
+  "legal.licenseNoticeTerms": "Taraflardan her biri bu lisansı, okuyuculara gösterilen {days} günlük bir bildirim süresiyle sona erdirebilir. Sonrasında kuruluşun payı size geri döner ve okuyucular halihazırda elde ettiklerini korur.",
+  "legal.licenseAcceptedOn": "{date} tarihinde kabul edildi",
+  "legal.endLicense": "Lisansı sonlandır"
 }

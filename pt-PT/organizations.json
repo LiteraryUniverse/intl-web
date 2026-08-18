@@ -80,7 +80,7 @@
   "org.roles.title": "Funções e permissões",
   "org.roles.intro": "Uma função concede um conjunto de permissões. Adicione permissões individuais a uma função para um controlo mais fino.",
   "org.workProposal.title": "Obras propostas",
-  "org.workProposal.intro": "Ofereça uma das suas obras a esta organização. Se um administrador aceitar, a organização passa a ser a sua proprietária.",
+  "org.workProposal.intro": "Ofereça uma das suas obras a esta organização ao abrigo de uma das suas licenças. Se for aceite, a obra continua a ser sua — a organização obtém os direitos da licença e a sua parte das receitas.",
   "org.workProposal.propose": "Propor uma obra",
   "org.workProposal.selectWork": "Obra a propor",
   "org.workProposal.note": "Mensagem para a organização (opcional)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "O Stripe não respondeu a tempo. Tente configurar os pagamentos novamente.",
   "org.workshop.licensed": "Obras licenciadas",
   "org.workshop.licensed.intro": "Obras dos seus criadores que têm uma das licenças da sua organização. Pode promovê-las; a edição fica com o proprietário.",
-  "org.workshop.licensed.empty": "Ainda nenhuma obra tem as suas licenças."
+  "org.workshop.licensed.empty": "Ainda nenhuma obra tem as suas licenças.",
+  "org.roles.editor": "Editor-chefe",
+  "org.permissions.licensing": "Gerir licenciamento",
+  "org.curation.title": "Obras licenciadas nas subscrições",
+  "org.curation.intro": "Uma licença permite-lhe incluir uma obra nas suas subscrições — não o obriga a isso. Desmarque um nível para vender a obra apenas a partir do seu catálogo; os leitores mantêm o acesso durante 30 dias depois disso.",
+  "org.carveOut.request": "Libertar {language}?"
 }

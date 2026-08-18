@@ -83,7 +83,7 @@
   "org.roles.title": "Roles and permissions",
   "org.roles.intro": "A role grants a set of permissions. Add individual permissions on top of a role for finer control.",
   "org.workProposal.title": "Proposed works",
-  "org.workProposal.intro": "Offer one of your own works to this organization. If an admin accepts, the organization becomes its owner.",
+  "org.workProposal.intro": "Offer one of your own works to this organization under one of its licenses. If accepted, the work stays yours — the organization gains the license's rights and its share of the revenue.",
   "org.workProposal.propose": "Propose a work",
   "org.workProposal.selectWork": "Work to propose",
   "org.workProposal.note": "Message to the organization (optional)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.manage": "Manage payouts on Stripe",
   "orgConnect.payouts.pending": "Stripe is still verifying this organization's payout account. Click below to continue onboarding or check back later.",
   "orgConnect.payouts.setup": "Set up organization payouts",
-  "orgConnect.payouts.timeout": "Stripe did not respond in time. Please try setting up payouts again."
+  "orgConnect.payouts.timeout": "Stripe did not respond in time. Please try setting up payouts again.",
+  "org.roles.editor": "Editor-in-chief",
+  "org.permissions.licensing": "Manage licensing",
+  "org.curation.title": "Licensed works in subscriptions",
+  "org.curation.intro": "A license lets you include a work in your subscriptions — it does not have to. Uncheck a tier to sell the work from your catalogue only; readers keep access for 30 days after that.",
+  "org.carveOut.request": "Release {language}?"
 }

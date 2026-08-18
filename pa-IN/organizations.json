@@ -80,7 +80,7 @@
   "org.roles.title": "ਭੂਮਿਕਾਵਾਂ ਅਤੇ ਇਜਾਜ਼ਤਾਂ",
   "org.roles.intro": "ਭੂਮਿਕਾ ਇਜਾਜ਼ਤਾਂ ਦਾ ਸਮੂਹ ਦਿੰਦੀ ਹੈ। ਹੋਰ ਬਾਰੀਕ ਕੰਟਰੋਲ ਲਈ ਭੂਮਿਕਾ ਉੱਤੇ ਵੱਖਰੀਆਂ ਇਜਾਜ਼ਤਾਂ ਜੋੜੋ।",
   "org.workProposal.title": "ਪ੍ਰਸਤਾਵਿਤ ਰਚਨਾਵਾਂ",
-  "org.workProposal.intro": "ਆਪਣੀ ਕੋਈ ਰਚਨਾ ਇਸ ਸੰਸਥਾ ਨੂੰ ਪੇਸ਼ ਕਰੋ। ਜੇ ਕੋਈ ਪ੍ਰਬੰਧਕ ਮਨਜ਼ੂਰ ਕਰਦਾ ਹੈ, ਤਾਂ ਸੰਸਥਾ ਇਸਦੀ ਮਾਲਕ ਬਣ ਜਾਵੇਗੀ।",
+  "org.workProposal.intro": "ਆਪਣੀ ਕੋਈ ਰਚਨਾ ਇਸ ਸੰਸਥਾ ਨੂੰ ਉਸਦੇ ਕਿਸੇ ਇੱਕ ਲਾਇਸੈਂਸ ਹੇਠ ਪੇਸ਼ ਕਰੋ। ਮਨਜ਼ੂਰ ਹੋਣ 'ਤੇ ਰਚਨਾ ਤੁਹਾਡੀ ਹੀ ਰਹਿੰਦੀ ਹੈ — ਸੰਸਥਾ ਨੂੰ ਲਾਇਸੈਂਸ ਦੇ ਹੱਕ ਅਤੇ ਆਮਦਨ ਵਿੱਚ ਉਸਦਾ ਹਿੱਸਾ ਮਿਲਦਾ ਹੈ।",
   "org.workProposal.propose": "ਰਚਨਾ ਪ੍ਰਸਤਾਵਿਤ ਕਰੋ",
   "org.workProposal.selectWork": "ਪ੍ਰਸਤਾਵਿਤ ਕਰਨ ਵਾਲੀ ਰਚਨਾ",
   "org.workProposal.note": "ਸੰਸਥਾ ਲਈ ਸੁਨੇਹਾ (ਚੋਣਵਾਂ)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe ਨੇ ਸਮੇਂ ਸਿਰ ਜਵਾਬ ਨਹੀਂ ਦਿੱਤਾ। ਕਿਰਪਾ ਕਰਕੇ ਭੁਗਤਾਨ ਮੁੜ ਸੈੱਟ ਅੱਪ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "ਮੁੱਖ ਸੰਪਾਦਕ",
+  "org.permissions.licensing": "ਲਾਇਸੈਂਸਿੰਗ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
+  "org.curation.title": "ਗਾਹਕੀਆਂ ਵਿੱਚ ਲਾਇਸੈਂਸਸ਼ੁਦਾ ਰਚਨਾਵਾਂ",
+  "org.curation.intro": "ਲਾਇਸੈਂਸ ਤੁਹਾਨੂੰ ਕਿਸੇ ਰਚਨਾ ਨੂੰ ਆਪਣੀਆਂ ਗਾਹਕੀਆਂ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਦਿੰਦਾ ਹੈ — ਇਹ ਜ਼ਰੂਰੀ ਨਹੀਂ ਹੈ। ਰਚਨਾ ਨੂੰ ਸਿਰਫ਼ ਆਪਣੇ ਕੈਟਾਲਾਗ ਵਿੱਚੋਂ ਵੇਚਣ ਲਈ ਟੀਅਰ ਦਾ ਨਿਸ਼ਾਨ ਹਟਾ ਦਿਓ; ਉਸ ਤੋਂ ਬਾਅਦ ਪਾਠਕਾਂ ਕੋਲ 30 ਦਿਨ ਪਹੁੰਚ ਰਹਿੰਦੀ ਹੈ।",
+  "org.carveOut.request": "{language} ਛੱਡ ਦੇਈਏ?"
 }

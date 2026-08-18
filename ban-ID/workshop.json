@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "License change scheduled for {date}. Readers see a notice on the work until then; the current license stays active.",
   "workshop.translations.license.title": "Translation licenses",
   "workshop.translations.license.default": "Default ({license})",
-  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
-  "workshop.translations.license.internationalCovered": "This work's international organization license covers all its translations.",
+  "workshop.translations.license.viaOrg": "Lisensi organisasi sane nyakup basa punika kasediaang yening ragane dados anggota organisasi punika, utawi yening silih tunggil anggotannyane nerjemahang basa punika. Yening kaanggen, terjemahan punika kadaftarang ring katalog organisasi punika tur bagian organisasi kaimbuhang ring pembagian pendapatan edisi punika (kaambil saking bagian ragane). Lisensi puniki kakunci sasampun terjemahan kawedar.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Kacakup olih lisensi organisasi karya puniki.",
+  "legal.licenseAgreements": "Prajanjian lisensi organisasi",
+  "legal.licenseTranslatorBudget": "Para penerjemah sané kapicayang antuk organisasiné dados nrima kantos {budget}% sareng sami.",
+  "legal.licenseEndingOn": "Puput ring {date}. Kantos punika makasami kantun mamargi.",
+  "legal.licenseNoticeTerms": "Silih tunggil pihak dados muputang lisensi puniki antuk galah pawarah {days} rahina sané kacingakin olih pamaos. Sasampun punika bagian organisasiné mawali ring ragané tur pamaos kantun ngamolihang napi sané sampun kapolihang ipun.",
+  "legal.licenseAcceptedOn": "Katrima ring {date}",
+  "legal.endLicense": "Puputang lisensi"
 }

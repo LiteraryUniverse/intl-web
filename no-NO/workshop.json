@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Lisensendring planlagt til {date}. Leserne ser et varsel på verket frem til da; den nåværende lisensen forblir aktiv.",
   "workshop.translations.license.title": "Oversettelseslisenser",
   "workshop.translations.license.default": "Standard ({license})",
-  "workshop.translations.license.viaOrg": "En regional organisasjonslisens tilbys når du tilhører organisasjonen, eller når et av medlemmene oversetter det språket. Ved å bruke den blir oversettelsen oppført i organisasjonens katalog, og organisasjonens andel legges til den utgavens inntektsfordeling (tatt fra din del). Den låses når oversettelsen publiseres.",
-  "workshop.translations.license.internationalCovered": "Dette verkets internasjonale organisasjonslisens dekker alle oversettelsene.",
+  "workshop.translations.license.viaOrg": "En organisasjonslisens som dekker språket tilbys når du tilhører organisasjonen, eller når et av medlemmene oversetter det språket. Ved å bruke den blir oversettelsen oppført i organisasjonens katalog, og organisasjonens andel legges til den utgavens inntektsfordeling (tatt fra din del). Den låses når oversettelsen publiseres.",
   "workshop.universe.forum.short": "Universforum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Produksjon",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Lydredaktør",
   "workshop.credit.role.soundEngineer": "Lydtekniker",
   "workshop.credit.role.composer": "Komponist",
-  "workshop.credit.role.betaReader": "Betaleser"
+  "workshop.credit.role.betaReader": "Betaleser",
+  "workshop.translations.license.coveredByOrg": "Dekket av verkets organisasjonslisens.",
+  "legal.licenseAgreements": "Organisasjonslisensavtaler",
+  "legal.licenseTranslatorBudget": "Oversettere utpekt av organisasjonen kan til sammen motta inntil {budget}%.",
+  "legal.licenseEndingOn": "Slutter {date}. Fram til da står alt ved lag.",
+  "legal.licenseNoticeTerms": "Begge parter kan avslutte denne lisensen med et varsel på {days} dager som vises til leserne. Etterpå går organisasjonens andel tilbake til deg, og leserne beholder det de allerede har opptjent.",
+  "legal.licenseAcceptedOn": "Godtatt {date}",
+  "legal.endLicense": "Avslutt lisens"
 }

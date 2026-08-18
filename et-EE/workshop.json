@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Litsentsi muudatus on kavandatud kuupäevale {date}. Seni näevad lugejad teose juures teadet; praegune litsents jääb kehtima.",
   "workshop.translations.license.title": "Tõlkelitsentsid",
   "workshop.translations.license.default": "Vaikimisi ({license})",
-  "workshop.translations.license.viaOrg": "Piirkondlikku organisatsiooni litsentsi pakutakse, kui kuulud organisatsiooni või kui üks selle liikmetest tõlgib seda keelt. Selle rakendamine lisab tõlke selle organisatsiooni kataloogi ja lisab organisatsiooni osa selle väljaande tulude jaotusse (võetakse sinu osast). See lukustub, kui tõlge avaldatakse.",
-  "workshop.translations.license.internationalCovered": "Selle teose rahvusvaheline organisatsiooni litsents katab kõik selle tõlked.",
+  "workshop.translations.license.viaOrg": "Keelt katvat organisatsiooni litsentsi pakutakse, kui kuulud organisatsiooni või kui üks selle liikmetest tõlgib seda keelt. Selle rakendamine lisab tõlke selle organisatsiooni kataloogi ja lisab organisatsiooni osa selle väljaande tulude jaotusse (võetakse sinu osast). See lukustub, kui tõlge avaldatakse.",
   "workshop.revShare.mustMatchCreatorShare": "Loojaridade summa peab olema {creatorShare, number}%, sest platvormi osakaal on fikseeritud {platformShare, number}%.",
   "workshop.revShare.owner": "Omanik",
   "workshop.revShare.ownerLocked": "Loo omanik peab jääma osa väljamaksete jagamisest.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Kaetud teose organisatsiooni litsentsiga.",
+  "legal.licenseAgreements": "Organisatsiooni litsentsilepingud",
+  "legal.licenseTranslatorBudget": "Organisatsiooni määratud tõlkijad võivad kokku saada kuni {budget}%.",
+  "legal.licenseEndingOn": "Lõpeb {date}. Seni jääb kõik kehtima.",
+  "legal.licenseNoticeTerms": "Kumbki pool võib selle litsentsi lõpetada {days}-päevase etteteatamisajaga, mida näidatakse lugejatele. Pärast seda naaseb organisatsiooni osa sinu juurde ja lugejad säilitavad selle, mille on juba teeninud.",
+  "legal.licenseAcceptedOn": "Vastu võetud {date}",
+  "legal.endLicense": "Lõpeta litsents"
 }

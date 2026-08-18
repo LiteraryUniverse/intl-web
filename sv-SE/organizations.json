@@ -78,7 +78,7 @@
   "org.roles.title": "Roller och behörigheter",
   "org.roles.intro": "En roll ger en uppsättning behörigheter. Lägg till enskilda behörigheter ovanpå en roll för finare styrning.",
   "org.workProposal.title": "Föreslagna verk",
-  "org.workProposal.intro": "Erbjud ett av dina egna verk till den här organisationen. Om en administratör accepterar blir organisationen ägare.",
+  "org.workProposal.intro": "Erbjud ett av dina egna verk till den här organisationen under en av dess licenser. Om det accepteras förblir verket ditt — organisationen får licensens rättigheter och sin andel av intäkterna.",
   "org.workProposal.propose": "Föreslå ett verk",
   "org.workProposal.selectWork": "Verk att föreslå",
   "org.workProposal.note": "Meddelande till organisationen (valfritt)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Avarkivera",
   "org.workshop.licensed": "Licensierade verk",
   "org.workshop.licensed.intro": "Verk som ägs av sina skapare och bär en av din organisations licenser. Du kan marknadsföra dem; redigering ligger kvar hos ägaren.",
-  "org.workshop.licensed.empty": "Inga verk bär dina licenser ännu."
+  "org.workshop.licensed.empty": "Inga verk bär dina licenser ännu.",
+  "org.roles.editor": "Chefredaktör",
+  "org.permissions.licensing": "Hantera licensiering",
+  "org.curation.title": "Licensierade verk i prenumerationer",
+  "org.curation.intro": "En licens låter dig ta med ett verk i dina prenumerationer — den kräver det inte. Avmarkera en nivå för att sälja verket enbart från din katalog; läsarna behåller åtkomsten i 30 dagar därefter.",
+  "org.carveOut.request": "Frigöra {language}?"
 }

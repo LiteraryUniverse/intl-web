@@ -78,7 +78,7 @@
   "org.roles.title": "Role a oprávnění",
   "org.roles.intro": "Role uděluje sadu oprávnění. Pro jemnější nastavení přidejte k roli jednotlivá oprávnění.",
   "org.workProposal.title": "Nabídnutá díla",
-  "org.workProposal.intro": "Nabídněte organizaci některé ze svých děl. Pokud správce nabídku přijme, stane se organizace jeho vlastníkem.",
+  "org.workProposal.intro": "Nabídněte této organizaci některé ze svých děl pod jednou z jejích licencí. Pokud bude nabídka přijata, dílo zůstane vaše — organizace získá práva plynoucí z licence a svůj podíl z příjmů.",
   "org.workProposal.propose": "Nabídnout dílo",
   "org.workProposal.selectWork": "Dílo k nabídnutí",
   "org.workProposal.note": "Zpráva pro organizaci (nepovinné)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Obnovit z archivu",
   "org.workshop.licensed": "Licencovaná díla",
   "org.workshop.licensed.intro": "Díla vlastněná jejich tvůrci, která nesou jednu z licencí vaší organizace. Můžete je propagovat; úpravy zůstávají u vlastníka.",
-  "org.workshop.licensed.empty": "Zatím žádná díla nenesou vaše licence."
+  "org.workshop.licensed.empty": "Zatím žádná díla nenesou vaše licence.",
+  "org.roles.editor": "Šéfredaktor",
+  "org.permissions.licensing": "Správa licencí",
+  "org.curation.title": "Licencovaná díla v předplatných",
+  "org.curation.intro": "Licence vám umožňuje zařadit dílo do vašich předplatných — nemusíte to však udělat. Zrušením zaškrtnutí úrovně budete dílo prodávat jen z katalogu; čtenářům pak zůstane přístup ještě 30 dní.",
+  "org.carveOut.request": "Uvolnit jazyk {language}?"
 }

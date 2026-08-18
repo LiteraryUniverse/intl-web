@@ -109,5 +109,13 @@
   "notification.team.left": "{user} forlasis la teamon de {workTitle} ({role}).",
   "notification.team.compensationChanged": "Via kompenso pri {workTitle} ŝanĝiĝis al {compensation}.",
   "notificationExtra.team.viewInvitations": "Vidi invitojn",
-  "notificationExtra.team.goToWork": "Iri al la verko"
+  "notificationExtra.team.goToWork": "Iri al la verko",
+  "notification.orgLicense.proposed": "{organization}: permesila propono por “{work}” ({license}) atendas decidon.",
+  "notification.orgLicense.accepted": "La permesilo {license} por “{work}” kun {organization} nun estas aktiva.",
+  "notification.orgLicense.rejected": "La permesila propono por “{work}” kun {organization} estis malakceptita.",
+  "notification.orgLicense.terminated": "La permesilo {license} por “{work}” kun {organization} finiĝas — ĝi restas aktiva dum la 30-taga avizperiodo.",
+  "notification.orgLicense.carveOutRequested": "{organization}: la aŭtoro de “{work}” petas liberigi unu lingvon el via permesilo.",
+  "notification.orgLicense.carveOutApproved": "{organization} liberigis unu lingvon de “{work}” — vi povas permesi tiun tradukon aliloke.",
+  "notification.orgLicense.carveOutRejected": "{organization} konservis sian lingvan kovradon de “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” forlasos la abonon de {organization} post 30 tagoj — legantoj konservas aliron ĝis tiam."
 }

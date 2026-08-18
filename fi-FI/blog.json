@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "Käsikirjoitus",
   "blog.theme.preset.codex": "Koodeksi",
   "blog.theme.preset.architect": "Arkkitehti",
-  "blog.theme.preset.chronicler": "Kronikoitsija"
+  "blog.theme.preset.chronicler": "Kronikoitsija",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

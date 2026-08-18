@@ -109,5 +109,13 @@
   "notification.team.left": "{user} a părăsit echipa operei {workTitle} ({role}).",
   "notification.team.compensationChanged": "Remunerația dumneavoastră pentru {workTitle} s-a schimbat în: {compensation}.",
   "notificationExtra.team.viewInvitations": "Vezi invitațiile",
-  "notificationExtra.team.goToWork": "Du-te la operă"
+  "notificationExtra.team.goToWork": "Du-te la operă",
+  "notification.orgLicense.proposed": "{organization}: o propunere de licență pentru „{work}” ({license}) așteaptă o decizie.",
+  "notification.orgLicense.accepted": "Licența {license} pentru „{work}” cu {organization} este acum activă.",
+  "notification.orgLicense.rejected": "Propunerea de licență pentru „{work}” cu {organization} a fost respinsă.",
+  "notification.orgLicense.terminated": "Licența {license} pentru „{work}” cu {organization} se încheie — rămâne activă pe durata preavizului de 30 de zile.",
+  "notification.orgLicense.carveOutRequested": "{organization}: autorul operei „{work}” cere eliberarea unei limbi din licența voastră.",
+  "notification.orgLicense.carveOutApproved": "{organization} a eliberat o limbă a operei „{work}” — poți licenția acea traducere în altă parte.",
+  "notification.orgLicense.carveOutRejected": "{organization} și-a păstrat acoperirea lingvistică pentru „{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "„{work}” părăsește abonamentul {organization} în 30 de zile — cititorii păstrează accesul până atunci."
 }

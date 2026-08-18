@@ -109,5 +109,13 @@
   "notification.team.left": "{user} pu cliva lo {workTitle} gunma ({role}).",
   "notification.team.compensationChanged": "lo do se pleji fi {workTitle} cu ba'o binxo lo {compensation}.",
   "notificationExtra.team.viewInvitations": "zgana lo friti",
-  "notificationExtra.team.goToWork": "klama lo se finti"
+  "notificationExtra.team.goToWork": "klama lo se finti",
+  "notification.orgLicense.proposed": "{organization}: lo stidi be le klesi tu'a dunda be'o pe “{work}” ({license}) cu denpa lo jdice",
+  "notification.orgLicense.accepted": "le klesi tu'a dunda po'u {license} pe “{work}” joi {organization} cu ca'o tolsisti",
+  "notification.orgLicense.rejected": "{organization} cu natfe lo stidi be le klesi tu'a dunda bei “{work}”",
+  "notification.orgLicense.terminated": "le klesi tu'a dunda po'u {license} pe “{work}” joi {organization} cu jbini lo nu fanmo .i ri za'o tolsisti ca lo 30 djedi temci",
+  "notification.orgLicense.carveOutRequested": "{organization}: lo finti be “{work}” cu cpedu lo nu zifre fa pa bangu fi le klesi tu'a dunda be do",
+  "notification.orgLicense.carveOutApproved": "{organization} cu zifre gasnu pa bangu be “{work}” .i do ka'e dunda le klesi be le fanva be ri fi lo drata",
+  "notification.orgLicense.carveOutRejected": "{organization} cu ralte lo bangu poi se vasru “{work}”",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” cu cliva lo selpleji be {organization} ba lo 30 djedi .i lo tcidu prenu cu ralte lo nu pilno co'u ri"
 }

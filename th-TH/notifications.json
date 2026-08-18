@@ -109,5 +109,13 @@
   "notification.team.left": "{user} ออกจากทีมของ {workTitle} ({role})",
   "notification.team.compensationChanged": "ค่าตอบแทนของคุณใน {workTitle} เปลี่ยนเป็น {compensation}",
   "notificationExtra.team.viewInvitations": "ดูคำเชิญ",
-  "notificationExtra.team.goToWork": "ไปที่ผลงาน"
+  "notificationExtra.team.goToWork": "ไปที่ผลงาน",
+  "notification.orgLicense.proposed": "{organization}: ข้อเสนอใบอนุญาตสำหรับ “{work}” ({license}) กำลังรอการตัดสินใจ",
+  "notification.orgLicense.accepted": "ใบอนุญาต {license} สำหรับ “{work}” กับ {organization} มีผลใช้งานแล้ว",
+  "notification.orgLicense.rejected": "ข้อเสนอใบอนุญาตสำหรับ “{work}” กับ {organization} ถูกปฏิเสธ",
+  "notification.orgLicense.terminated": "ใบอนุญาต {license} สำหรับ “{work}” กับ {organization} กำลังจะสิ้นสุด — ยังคงมีผลใช้งานตลอดระยะเวลาแจ้งล่วงหน้า 30 วัน",
+  "notification.orgLicense.carveOutRequested": "{organization}: ผู้เขียน “{work}” ขอปลดหนึ่งภาษาออกจากใบอนุญาตของคุณ",
+  "notification.orgLicense.carveOutApproved": "{organization} ได้ปลดหนึ่งภาษาของ “{work}” — คุณสามารถให้สิทธิ์การแปลนั้นแก่ที่อื่นได้",
+  "notification.orgLicense.carveOutRejected": "{organization} ยังคงความครอบคลุมภาษาของ “{work}” ไว้",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” จะออกจากการสมัครสมาชิกของ {organization} ใน 30 วัน — ผู้อ่านยังคงเข้าถึงได้จนถึงตอนนั้น"
 }

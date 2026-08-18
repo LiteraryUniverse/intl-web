@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "ലൈസൻസ് മാറ്റം {date} ലേക്ക് ഷെഡ്യൂൾ ചെയ്തിരിക്കുന്നു. അതുവരെ വായനക്കാർ കൃതിയിൽ ഒരു അറിയിപ്പ് കാണും; നിലവിലെ ലൈസൻസ് സജീവമായി തുടരും.",
   "workshop.translations.license.title": "പരിഭാഷാ ലൈസൻസുകൾ",
   "workshop.translations.license.default": "ഡിഫോൾട്ട് ({license})",
-  "workshop.translations.license.viaOrg": "നിങ്ങൾ സംഘടനയിൽ അംഗമായിരിക്കുമ്പോഴോ, അതിലെ ഒരു അംഗം ആ ഭാഷ പരിഭാഷപ്പെടുത്തുമ്പോഴോ ഒരു പ്രാദേശിക സംഘടനാ ലൈസൻസ് വാഗ്ദാനം ചെയ്യപ്പെടുന്നു. ഇത് പ്രയോഗിക്കുന്നത് പരിഭാഷയെ ആ സംഘടനയുടെ കാറ്റലോഗിൽ ഉൾപ്പെടുത്തുകയും ആ പതിപ്പിന്റെ വരുമാന വിഭജനത്തിലേക്ക് സംഘടനയുടെ വിഹിതം ചേർക്കുകയും ചെയ്യുന്നു (നിങ്ങളുടെ ഭാഗത്തുനിന്ന് എടുക്കുന്നു). പരിഭാഷ പ്രസിദ്ധീകരിച്ചുകഴിഞ്ഞാൽ ഇത് ലോക്ക് ആകുന്നു.",
-  "workshop.translations.license.internationalCovered": "ഈ കൃതിയുടെ അന്താരാഷ്ട്ര സംഘടനാ ലൈസൻസ് അതിന്റെ എല്ലാ പരിഭാഷകളെയും ഉൾക്കൊള്ളുന്നു.",
+  "workshop.translations.license.viaOrg": "നിങ്ങൾ സംഘടനയിൽ അംഗമായിരിക്കുമ്പോഴോ, അതിലെ ഒരു അംഗം ആ ഭാഷ പരിഭാഷപ്പെടുത്തുമ്പോഴോ ആ ഭാഷ ഉൾക്കൊള്ളുന്ന ഒരു സംഘടനാ ലൈസൻസ് വാഗ്ദാനം ചെയ്യപ്പെടുന്നു. ഇത് പ്രയോഗിക്കുന്നത് പരിഭാഷയെ ആ സംഘടനയുടെ കാറ്റലോഗിൽ ഉൾപ്പെടുത്തുകയും ആ പതിപ്പിന്റെ വരുമാന വിഭജനത്തിലേക്ക് സംഘടനയുടെ വിഹിതം ചേർക്കുകയും ചെയ്യുന്നു (നിങ്ങളുടെ ഭാഗത്തുനിന്ന് എടുക്കുന്നു). പരിഭാഷ പ്രസിദ്ധീകരിച്ചുകഴിഞ്ഞാൽ ഇത് ലോക്ക് ആകുന്നു.",
   "workshop.revShare.mustMatchCreatorShare": "Creator rows must add up to {creatorShare, number}% because platform share is fixed at {platformShare, number}%.",
   "workshop.revShare.owner": "Owner",
   "workshop.revShare.ownerLocked": "The story owner must remain part of the payout split.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "ഈ കൃതിയുടെ സംഘടനാ ലൈസൻസിൽ ഉൾപ്പെടുന്നു.",
+  "legal.licenseAgreements": "സംഘടനാ ലൈസൻസ് കരാറുകൾ",
+  "legal.licenseTranslatorBudget": "സംഘടന നിയോഗിക്കുന്ന പരിഭാഷകർക്ക് എല്ലാവർക്കും കൂടി പരമാവധി {budget}% വരെ ലഭിക്കാം.",
+  "legal.licenseEndingOn": "{date}-ന് അവസാനിക്കും. അതുവരെ എല്ലാം പ്രാബല്യത്തിൽ തുടരും.",
+  "legal.licenseNoticeTerms": "വായനക്കാർക്ക് കാണിക്കുന്ന {days} ദിവസത്തെ അറിയിപ്പോടെ ഇരു കക്ഷികൾക്കും ഈ ലൈസൻസ് അവസാനിപ്പിക്കാം. അതിനുശേഷം സംഘടനയുടെ വിഹിതം നിങ്ങൾക്ക് തിരികെ ലഭിക്കും, വായനക്കാർ ഇതിനകം നേടിയത് അവർക്ക് നിലനിൽക്കുകയും ചെയ്യും.",
+  "legal.licenseAcceptedOn": "{date}-ന് സ്വീകരിച്ചു",
+  "legal.endLicense": "ലൈസൻസ് അവസാനിപ്പിക്കുക"
 }

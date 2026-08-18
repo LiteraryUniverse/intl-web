@@ -109,5 +109,13 @@
   "notification.team.left": "{user} kilépett a(z) {workTitle} csapatából ({role}).",
   "notification.team.compensationChanged": "A(z) {workTitle} című műért járó díjazásod megváltozott: {compensation}.",
   "notificationExtra.team.viewInvitations": "Meghívások megtekintése",
-  "notificationExtra.team.goToWork": "Ugrás a műre"
+  "notificationExtra.team.goToWork": "Ugrás a műre",
+  "notification.orgLicense.proposed": "{organization}: egy licencjavaslat vár döntésre a(z) „{work}” című műhöz ({license}).",
+  "notification.orgLicense.accepted": "A(z) {license} licenc a(z) „{work}” című műre a(z) {organization} szervezettel mostantól aktív.",
+  "notification.orgLicense.rejected": "A(z) „{work}” című műre vonatkozó licencjavaslatot a(z) {organization} szervezettel elutasították.",
+  "notification.orgLicense.terminated": "A(z) {license} licenc a(z) „{work}” című műre a(z) {organization} szervezettel hamarosan véget ér — a 30 napos felmondási idő alatt aktív marad.",
+  "notification.orgLicense.carveOutRequested": "{organization}: a(z) „{work}” című mű szerzője egy nyelv felszabadítását kéri a licencetekből.",
+  "notification.orgLicense.carveOutApproved": "A(z) {organization} felszabadított egy nyelvet a(z) „{work}” című műből — ezt a fordítást máshol licencelheted.",
+  "notification.orgLicense.carveOutRejected": "A(z) {organization} megtartotta a(z) „{work}” című mű nyelvi lefedettségét.",
+  "notification.orgLicense.subscriptionRemoval": "A(z) „{work}” című mű 30 nap múlva elhagyja a(z) {organization} előfizetését — az olvasók addig megtartják a hozzáférést."
 }

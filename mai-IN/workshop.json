@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "लाइसेंस परिवर्तन {date} लेल निर्धारित अछि। ताबत धरि पाठक लोकनि रचना पर सूचना देखैत छथि; वर्तमान लाइसेंस सक्रिय रहैत अछि।",
   "workshop.translations.license.title": "अनुवाद लाइसेंस",
   "workshop.translations.license.default": "डिफ़ॉल्ट ({license})",
-  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
-  "workshop.translations.license.internationalCovered": "एहि कृतिक अंतर्राष्ट्रीय संगठन लाइसेंस ओकर सभ अनुवाद केँ समेटैत अछि।",
+  "workshop.translations.license.viaOrg": "भाषा केँ समेटय बला संगठन लाइसेंस तखन देल जाइत अछि जखन अहाँ ओहि संगठनक सदस्य होइ, वा जखन ओकर कोनो सदस्य ओहि भाषाक अनुवाद करैत अछि। एकरा लागू केला सँ अनुवाद ओहि संगठनक सूची मे जुड़ि जाइत अछि आ ओहि संस्करणक आय विभाजन मे संगठनक हिस्सा जुड़ि जाइत अछि (अहाँक हिस्सा सँ लेल जाइत अछि)। अनुवाद प्रकाशित भेला पर ई लॉक भ' जाइत अछि।",
   "workshop.revShare.mustMatchCreatorShare": "Creator rows must add up to {creatorShare, number}% because platform share is fixed at {platformShare, number}%.",
   "workshop.revShare.owner": "Owner",
   "workshop.revShare.ownerLocked": "The story owner must remain part of the payout split.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "एहि कृतिक संगठन लाइसेंस सँ समेटल गेल अछि।",
+  "legal.licenseAgreements": "संगठन लाइसेंस समझौता सभ",
+  "legal.licenseTranslatorBudget": "संगठन द्वारा नियुक्त अनुवादक लोकनि मिलि कऽ बेसी सँ बेसी {budget}% पाबि सकैत छथि।",
+  "legal.licenseEndingOn": "{date} केँ समाप्त भऽ रहल अछि। ताबत धरि सभ किछु लागू रहैत अछि।",
+  "legal.licenseNoticeTerms": "कोनो पक्ष ई लाइसेंस {days} दिनक सूचना दऽ कऽ समाप्त कऽ सकैत अछि, जे पाठक लोकनि केँ देखाओल जाइत अछि। ओकर बाद संगठनक हिस्सा अहाँ केँ घुरि अबैत अछि आ पाठक लोकनि जे पहिनहि अर्जित कऽ नेने छथि से हुनका लग बनल रहैत अछि।",
+  "legal.licenseAcceptedOn": "{date} केँ स्वीकार कयल गेल",
+  "legal.endLicense": "लाइसेंस समाप्त करू"
 }

@@ -78,7 +78,7 @@
   "org.roles.title": "Ruoli e permessi",
   "org.roles.intro": "Un ruolo concede un insieme di permessi. Aggiungi singoli permessi a un ruolo per un controllo più preciso.",
   "org.workProposal.title": "Opere proposte",
-  "org.workProposal.intro": "Offri una delle tue opere a questa organizzazione. Se un amministratore accetta, l’organizzazione ne diventa proprietaria.",
+  "org.workProposal.intro": "Offri una delle tue opere a questa organizzazione sotto una delle sue licenze. Se accettata, l’opera resta tua — l’organizzazione ottiene i diritti della licenza e la sua quota dei ricavi.",
   "org.workProposal.propose": "Proponi un’opera",
   "org.workProposal.selectWork": "Opera da proporre",
   "org.workProposal.note": "Messaggio per l’organizzazione (facoltativo)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Annulla archiviazione",
   "org.workshop.licensed": "Opere con licenza",
   "org.workshop.licensed.intro": "Opere di proprietà dei loro creatori che portano una delle licenze della tua organizzazione. Puoi promuoverle; la modifica resta al proprietario.",
-  "org.workshop.licensed.empty": "Nessuna opera porta ancora le tue licenze."
+  "org.workshop.licensed.empty": "Nessuna opera porta ancora le tue licenze.",
+  "org.roles.editor": "Caporedattore",
+  "org.permissions.licensing": "Gestire le licenze",
+  "org.curation.title": "Opere con licenza negli abbonamenti",
+  "org.curation.intro": "Una licenza ti permette di includere un'opera nei tuoi abbonamenti — non ti obbliga a farlo. Deseleziona un livello per vendere l'opera solo dal tuo catalogo; i lettori mantengono l'accesso per 30 giorni dopo.",
+  "org.carveOut.request": "Liberare {language}?"
 }

@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "تمت جدولة تغيير الترخيص في {date}. يرى القراء إشعارًا على العمل حتى ذلك الحين؛ ويبقى الترخيص الحالي ساريًا.",
   "workshop.translations.license.title": "تراخيص الترجمة",
   "workshop.translations.license.default": "الافتراضي ({license})",
-  "workshop.translations.license.viaOrg": "يُعرض ترخيص منظمة إقليمي عندما تنتمي إلى المنظمة، أو عندما يترجم أحد أعضائها تلك اللغة. تطبيقه يدرج الترجمة في كتالوج تلك المنظمة ويضيف حصة المنظمة إلى تقسيم إيرادات تلك النسخة (تُقتطع من جزئك). ويُقفل بمجرد نشر الترجمة.",
-  "workshop.translations.license.internationalCovered": "ترخيص المنظمة الدولي لهذا العمل يغطي جميع ترجماته.",
+  "workshop.translations.license.viaOrg": "يُعرض ترخيص منظمة يغطي اللغة عندما تنتمي إلى المنظمة، أو عندما يترجم أحد أعضائها تلك اللغة. تطبيقه يدرج الترجمة في كتالوج تلك المنظمة ويضيف حصة المنظمة إلى تقسيم إيرادات تلك النسخة (تُقتطع من جزئك). ويُقفل بمجرد نشر الترجمة.",
   "workshop.revShare.mustMatchCreatorShare": "يجب أن يصل مجموع صفوف المبدعين إلى {creatorShare, number}% لأن حصة المنصة ثابتة عند {platformShare, number}%.",
   "workshop.revShare.owner": "المالك",
   "workshop.revShare.ownerLocked": "يجب أن يظل صاحب القصة جزءًا من تقسيم المدفوعات.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "محرر صوت",
   "workshop.credit.role.soundEngineer": "مهندس صوت",
   "workshop.credit.role.composer": "ملحن",
-  "workshop.credit.role.betaReader": "قارئ تجريبي"
+  "workshop.credit.role.betaReader": "قارئ تجريبي",
+  "workshop.translations.license.coveredByOrg": "مشمول بترخيص المنظمة الخاص بهذا العمل.",
+  "legal.licenseAgreements": "اتفاقيات تراخيص المنظمات",
+  "legal.licenseTranslatorBudget": "قد يحصل المترجمون الذين تعيّنهم المنظمة على ما يصل إلى {budget}% مجتمعين.",
+  "legal.licenseEndingOn": "ينتهي في {date}. وحتى ذلك الحين يبقى كل شيء ساريًا.",
+  "legal.licenseNoticeTerms": "يمكن لأي من الطرفين إنهاء هذا الترخيص بإشعار مدته {days} يومًا يظهر للقراء. وبعد ذلك تعود حصة المنظمة إليك ويحتفظ القراء بما كسبوه بالفعل.",
+  "legal.licenseAcceptedOn": "قُبل في {date}",
+  "legal.endLicense": "إنهاء الترخيص"
 }

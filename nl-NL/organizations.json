@@ -80,7 +80,7 @@
   "org.roles.title": "Rollen en rechten",
   "org.roles.intro": "Een rol verleent een set rechten. Voeg losse rechten toe aan een rol voor fijnere controle.",
   "org.workProposal.title": "Voorgestelde werken",
-  "org.workProposal.intro": "Bied een van je eigen werken aan deze organisatie aan. Als een beheerder het accepteert, wordt de organisatie de eigenaar.",
+  "org.workProposal.intro": "Bied een van je eigen werken aan deze organisatie aan onder een van haar licenties. Bij acceptatie blijft het werk van jou — de organisatie krijgt de rechten van de licentie en haar aandeel in de opbrengsten.",
   "org.workProposal.propose": "Werk voorstellen",
   "org.workProposal.selectWork": "Voor te stellen werk",
   "org.workProposal.note": "Bericht aan de organisatie (optioneel)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe reageerde niet op tijd. Probeer de uitbetalingen opnieuw in te stellen.",
   "org.workshop.licensed": "Gelicentieerde werken",
   "org.workshop.licensed.intro": "Werken van hun makers die een van de licenties van je organisatie dragen. Je kunt ze promoten; bewerken blijft bij de eigenaar.",
-  "org.workshop.licensed.empty": "Er dragen nog geen werken je licenties."
+  "org.workshop.licensed.empty": "Er dragen nog geen werken je licenties.",
+  "org.roles.editor": "Hoofdredacteur",
+  "org.permissions.licensing": "Licenties beheren",
+  "org.curation.title": "Gelicentieerde werken in abonnementen",
+  "org.curation.intro": "Met een licentie kun je een werk in je abonnementen opnemen — het hoeft niet. Vink een niveau uit om het werk alleen vanuit je catalogus te verkopen; lezers behouden daarna nog 30 dagen toegang.",
+  "org.carveOut.request": "{language} vrijgeven?"
 }

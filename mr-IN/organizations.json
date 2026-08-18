@@ -78,7 +78,7 @@
   "org.roles.title": "भूमिका आणि परवानग्या",
   "org.roles.intro": "भूमिका परवानग्यांचा संच देते. अधिक बारकाईने नियंत्रणासाठी भूमिकेवर स्वतंत्र परवानग्या जोडा.",
   "org.workProposal.title": "प्रस्तावित कलाकृती",
-  "org.workProposal.intro": "तुमची एखादी कलाकृती या संस्थेला देऊ करा. प्रशासकाने स्वीकारल्यास संस्था तिची मालक होईल.",
+  "org.workProposal.intro": "तुमची एखादी कलाकृती या संस्थेला तिच्या एखाद्या परवान्याखाली देऊ करा. स्वीकारल्यास कलाकृती तुमचीच राहते — संस्थेला परवान्याचे हक्क आणि उत्पन्नातील तिचा वाटा मिळतो.",
   "org.workProposal.propose": "कलाकृती प्रस्तावित करा",
   "org.workProposal.selectWork": "प्रस्तावित करावयाची कलाकृती",
   "org.workProposal.note": "संस्थेसाठी संदेश (ऐच्छिक)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "संग्रहातून काढा",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "मुख्य संपादक",
+  "org.permissions.licensing": "परवाना व्यवस्थापन",
+  "org.curation.title": "सदस्यतांमधील परवानाधारक कृती",
+  "org.curation.intro": "परवान्यामुळे तुम्हाला कृती तुमच्या सदस्यतांमध्ये समाविष्ट करता येते — पण ते बंधनकारक नाही. कृती फक्त तुमच्या कॅटलॉगमधून विकायची असेल तर एखाद्या स्तराची निवड काढून टाका; त्यानंतर 30 दिवस वाचकांचा प्रवेश कायम राहतो.",
+  "org.carveOut.request": "{language} मोकळी करायची?"
 }

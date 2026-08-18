@@ -80,7 +80,7 @@
   "org.roles.title": "Roller ve izinler",
   "org.roles.intro": "Bir rol, bir dizi izin verir. Daha ince denetim için role tek tek izinler ekleyin.",
   "org.workProposal.title": "Önerilen eserler",
-  "org.workProposal.intro": "Kendi eserlerinizden birini bu kuruluşa önerin. Bir yönetici kabul ederse eserin sahibi kuruluş olur.",
+  "org.workProposal.intro": "Kendi eserlerinizden birini bu kuruluşa, kuruluşun lisanslarından biri kapsamında önerin. Kabul edilirse eser sizin kalır — kuruluş, lisansın haklarını ve gelirden kendi payını alır.",
   "org.workProposal.propose": "Eser öner",
   "org.workProposal.selectWork": "Önerilecek eser",
   "org.workProposal.note": "Kuruluşa mesaj (isteğe bağlı)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe zamanında yanıt vermedi. Lütfen ödemeleri yeniden ayarlamayı deneyin.",
   "org.workshop.licensed": "Lisanslı eserler",
   "org.workshop.licensed.intro": "Yaratıcılarına ait ve kuruluşunuzun lisanslarından birini taşıyan eserler. Tanıtabilirsiniz; düzenleme sahiplerinde kalır.",
-  "org.workshop.licensed.empty": "Henüz lisanslarınızı taşıyan eser yok."
+  "org.workshop.licensed.empty": "Henüz lisanslarınızı taşıyan eser yok.",
+  "org.roles.editor": "Genel yayın yönetmeni",
+  "org.permissions.licensing": "Lisanslamayı yönet",
+  "org.curation.title": "Aboneliklerdeki lisanslı eserler",
+  "org.curation.intro": "Lisans, bir eseri aboneliklerinize eklemenize imkân tanır — bunu zorunlu kılmaz. Eseri yalnızca kataloğunuzdan satmak için bir kademenin işaretini kaldırın; okuyucular bundan sonra 30 gün boyunca erişimlerini korur.",
+  "org.carveOut.request": "Şu dil serbest bırakılsın mı: {language}?"
 }

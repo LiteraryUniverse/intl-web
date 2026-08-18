@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "Naskah",
   "blog.theme.preset.codex": "Kodeks",
   "blog.theme.preset.architect": "Arsitek",
-  "blog.theme.preset.chronicler": "Pencatat Sejarah"
+  "blog.theme.preset.chronicler": "Pencatat Sejarah",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

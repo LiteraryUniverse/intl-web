@@ -109,5 +109,13 @@
   "notification.team.left": "{user} saiu da equipe de {workTitle} ({role}).",
   "notification.team.compensationChanged": "Sua remuneração em {workTitle} mudou para {compensation}.",
   "notificationExtra.team.viewInvitations": "Ver convites",
-  "notificationExtra.team.goToWork": "Ir para a obra"
+  "notificationExtra.team.goToWork": "Ir para a obra",
+  "notification.orgLicense.proposed": "{organization}: uma proposta de licença para “{work}” ({license}) aguarda uma decisão.",
+  "notification.orgLicense.accepted": "A licença {license} para “{work}” com {organization} agora está ativa.",
+  "notification.orgLicense.rejected": "A proposta de licença para “{work}” com {organization} foi recusada.",
+  "notification.orgLicense.terminated": "A licença {license} para “{work}” com {organization} está sendo encerrada — ela permanece ativa durante o aviso prévio de 30 dias.",
+  "notification.orgLicense.carveOutRequested": "{organization}: o autor de “{work}” pede a liberação de um idioma da sua licença.",
+  "notification.orgLicense.carveOutApproved": "{organization} liberou um idioma de “{work}” — você pode licenciar essa tradução em outro lugar.",
+  "notification.orgLicense.carveOutRejected": "{organization} manteve sua cobertura de idiomas de “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” deixará a assinatura de {organization} em 30 dias — os leitores mantêm o acesso até lá."
 }

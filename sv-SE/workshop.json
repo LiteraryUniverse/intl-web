@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Licensbytet är schemalagt till {date}. Fram till dess ser läsarna ett meddelande på verket; den nuvarande licensen fortsätter att gälla.",
   "workshop.translations.license.title": "Översättningslicenser",
   "workshop.translations.license.default": "Standard ({license})",
-  "workshop.translations.license.viaOrg": "En regional organisationslicens erbjuds när du tillhör organisationen, eller när en av dess medlemmar översätter det språket. Att tillämpa den listar översättningen i den organisationens katalog och lägger till organisationens andel i den utgåvans intäktsfördelning (tas från din del). Den låses när översättningen publiceras.",
-  "workshop.translations.license.internationalCovered": "Verkets internationella organisationslicens täcker alla dess översättningar.",
+  "workshop.translations.license.viaOrg": "En organisationslicens som täcker språket erbjuds när du tillhör organisationen, eller när en av dess medlemmar översätter det språket. Att tillämpa den listar översättningen i den organisationens katalog och lägger till organisationens andel i den utgåvans intäktsfördelning (tas från din del). Den låses när översättningen publiceras.",
   "workshop.universe.forum.short": "Universumsforum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Produktion",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Ljudredigerare",
   "workshop.credit.role.soundEngineer": "Ljudtekniker",
   "workshop.credit.role.composer": "Kompositör",
-  "workshop.credit.role.betaReader": "Betaläsare"
+  "workshop.credit.role.betaReader": "Betaläsare",
+  "workshop.translations.license.coveredByOrg": "Täcks av verkets organisationslicens.",
+  "legal.licenseAgreements": "Organisationslicensavtal",
+  "legal.licenseTranslatorBudget": "Översättare som utsetts av organisationen kan tillsammans få upp till {budget}%.",
+  "legal.licenseEndingOn": "Avslutas {date}. Fram till dess gäller allt som vanligt.",
+  "legal.licenseNoticeTerms": "Båda parter kan avsluta denna licens med en varselperiod på {days} dagar som visas för läsarna. Därefter går organisationens andel tillbaka till dig och läsarna behåller det de redan har tjänat in.",
+  "legal.licenseAcceptedOn": "Accepterad {date}",
+  "legal.endLicense": "Avsluta licens"
 }

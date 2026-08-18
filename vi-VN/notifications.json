@@ -109,5 +109,13 @@
   "notification.team.left": "{user} đã rời nhóm của {workTitle} ({role}).",
   "notification.team.compensationChanged": "Thù lao của bạn cho {workTitle} đã đổi thành {compensation}.",
   "notificationExtra.team.viewInvitations": "Xem lời mời",
-  "notificationExtra.team.goToWork": "Đi đến tác phẩm"
+  "notificationExtra.team.goToWork": "Đi đến tác phẩm",
+  "notification.orgLicense.proposed": "{organization}: một đề xuất giấy phép cho “{work}” ({license}) đang chờ quyết định.",
+  "notification.orgLicense.accepted": "Giấy phép {license} cho “{work}” với {organization} hiện đã có hiệu lực.",
+  "notification.orgLicense.rejected": "Đề xuất giấy phép cho “{work}” với {organization} đã bị từ chối.",
+  "notification.orgLicense.terminated": "Giấy phép {license} cho “{work}” với {organization} sắp kết thúc — giấy phép vẫn có hiệu lực trong thời hạn thông báo 30 ngày.",
+  "notification.orgLicense.carveOutRequested": "{organization}: tác giả của “{work}” đề nghị giải phóng một ngôn ngữ khỏi giấy phép của bạn.",
+  "notification.orgLicense.carveOutApproved": "{organization} đã giải phóng một ngôn ngữ của “{work}” — bạn có thể cấp phép bản dịch đó ở nơi khác.",
+  "notification.orgLicense.carveOutRejected": "{organization} vẫn giữ nguyên phạm vi ngôn ngữ của “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” sẽ rời khỏi gói đăng ký của {organization} sau 30 ngày — độc giả vẫn giữ quyền truy cập đến lúc đó."
 }

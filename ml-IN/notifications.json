@@ -109,5 +109,13 @@
   "notification.team.left": "{user} {workTitle}-ന്റെ ടീമിൽ നിന്ന് പുറത്തുപോയി ({role}).",
   "notification.team.compensationChanged": "{workTitle}-ലെ നിങ്ങളുടെ പ്രതിഫലം {compensation} ആയി മാറി.",
   "notificationExtra.team.viewInvitations": "ക്ഷണങ്ങൾ കാണുക",
-  "notificationExtra.team.goToWork": "സൃഷ്ടിയിലേക്ക് പോവുക"
+  "notificationExtra.team.goToWork": "സൃഷ്ടിയിലേക്ക് പോവുക",
+  "notification.orgLicense.proposed": "{organization}: “{work}”-നുള്ള ഒരു ലൈസൻസ് നിർദ്ദേശം ({license}) തീരുമാനത്തിനായി കാത്തിരിക്കുന്നു.",
+  "notification.orgLicense.accepted": "{organization}-മായുള്ള “{work}”-ന്റെ ലൈസൻസ് {license} ഇപ്പോൾ സജീവമാണ്.",
+  "notification.orgLicense.rejected": "{organization}-മായുള്ള “{work}”-ന്റെ ലൈസൻസ് നിർദ്ദേശം നിരസിച്ചു.",
+  "notification.orgLicense.terminated": "{organization}-മായുള്ള “{work}”-ന്റെ ലൈസൻസ് {license} അവസാനിക്കുകയാണ് — 30 ദിവസത്തെ അറിയിപ്പ് കാലയളവിൽ അത് സജീവമായി തുടരും.",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}”-ന്റെ രചയിതാവ് നിങ്ങളുടെ ലൈസൻസിൽ നിന്ന് ഒരു ഭാഷ വിട്ടുനൽകാൻ അഭ്യർത്ഥിക്കുന്നു.",
+  "notification.orgLicense.carveOutApproved": "{organization} “{work}”-ന്റെ ഒരു ഭാഷ വിട്ടുനൽകി — ആ പരിഭാഷ നിങ്ങൾക്ക് മറ്റൊരിടത്ത് ലൈസൻസ് ചെയ്യാം.",
+  "notification.orgLicense.carveOutRejected": "{organization} “{work}”-ന്റെ ഭാഷാ പരിധി നിലനിർത്തി.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 ദിവസത്തിനുള്ളിൽ {organization}-ന്റെ സബ്‌സ്ക്രിപ്ഷനിൽ നിന്ന് പുറത്തുപോകും — അതുവരെ വായനക്കാർക്ക് ആക്സസ് നിലനിൽക്കും."
 }

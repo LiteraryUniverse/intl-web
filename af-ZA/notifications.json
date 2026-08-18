@@ -109,5 +109,13 @@
   "notification.team.left": "{user} het die span van {workTitle} verlaat ({role}).",
   "notification.team.compensationChanged": "Jou vergoeding vir {workTitle} het na {compensation} verander.",
   "notificationExtra.team.viewInvitations": "Bekyk uitnodigings",
-  "notificationExtra.team.goToWork": "Gaan na die werk"
+  "notificationExtra.team.goToWork": "Gaan na die werk",
+  "notification.orgLicense.proposed": "{organization}: ’n lisensievoorstel vir “{work}” ({license}) wag op ’n besluit.",
+  "notification.orgLicense.accepted": "Die lisensie {license} vir “{work}” met {organization} is nou aktief.",
+  "notification.orgLicense.rejected": "Die lisensievoorstel vir “{work}” met {organization} is afgekeur.",
+  "notification.orgLicense.terminated": "Die lisensie {license} vir “{work}” met {organization} eindig binnekort — dit bly aktief gedurende die 30-dae-kennisgewingtydperk.",
+  "notification.orgLicense.carveOutRequested": "{organization}: die outeur van “{work}” vra om een taal uit julle lisensie vry te stel.",
+  "notification.orgLicense.carveOutApproved": "{organization} het ’n taal van “{work}” vrygestel — jy kan daardie vertaling elders lisensieer.",
+  "notification.orgLicense.carveOutRejected": "{organization} het sy taaldekking van “{work}” behou.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” verlaat {organization} se intekening oor 30 dae — lesers behou toegang tot dan."
 }

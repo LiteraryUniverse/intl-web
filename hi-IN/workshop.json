@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "लाइसेंस परिवर्तन {date} के लिए निर्धारित है। तब तक पाठकों को कृति पर एक सूचना दिखाई देती है; वर्तमान लाइसेंस सक्रिय रहता है।",
   "workshop.translations.license.title": "अनुवाद लाइसेंस",
   "workshop.translations.license.default": "डिफ़ॉल्ट ({license})",
-  "workshop.translations.license.viaOrg": "क्षेत्रीय संगठन लाइसेंस तब पेश किया जाता है जब आप उस संगठन के सदस्य हों, या जब उसका कोई सदस्य उस भाषा का अनुवाद करता हो। इसे लागू करने से अनुवाद उस संगठन की सूची में शामिल हो जाता है और उस संस्करण के आय विभाजन में संगठन का हिस्सा जुड़ जाता है (आपके हिस्से से लिया जाता है)। अनुवाद प्रकाशित होने के बाद यह लॉक हो जाता है।",
-  "workshop.translations.license.internationalCovered": "इस कृति का अंतरराष्ट्रीय संगठन लाइसेंस इसके सभी अनुवादों को कवर करता है।",
+  "workshop.translations.license.viaOrg": "भाषा को कवर करने वाला संगठन लाइसेंस तब पेश किया जाता है जब आप उस संगठन के सदस्य हों, या जब उसका कोई सदस्य उस भाषा का अनुवाद करता हो। इसे लागू करने से अनुवाद उस संगठन की सूची में शामिल हो जाता है और उस संस्करण के आय विभाजन में संगठन का हिस्सा जुड़ जाता है (आपके हिस्से से लिया जाता है)। अनुवाद प्रकाशित होने के बाद यह लॉक हो जाता है।",
   "workshop.revShare.mustMatchCreatorShare": "क्रिएटर रो का कुल योग {creatorShare, number}% होना चाहिए क्योंकि प्लेटफ़ॉर्म का हिस्सा {platformShare, number}% पर स्थिर है।",
   "workshop.revShare.owner": "मालिक",
   "workshop.revShare.ownerLocked": "कहानी का मालिक भुगतान विभाजन का हिस्सा बना रहना चाहिए।",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "इस कृति के संगठन लाइसेंस द्वारा कवर किया गया है।",
+  "legal.licenseAgreements": "संगठन लाइसेंस अनुबंध",
+  "legal.licenseTranslatorBudget": "संगठन द्वारा नियुक्त अनुवादकों को मिलाकर अधिकतम {budget}% तक मिल सकता है।",
+  "legal.licenseEndingOn": "{date} को समाप्त होगा। तब तक सब कुछ लागू रहेगा।",
+  "legal.licenseNoticeTerms": "कोई भी पक्ष यह लाइसेंस {days} दिन की सूचना के साथ समाप्त कर सकता है, जो पाठकों को दिखाई जाती है। उसके बाद संगठन का हिस्सा आपको लौट आता है और पाठकों ने जो पहले ही अर्जित कर लिया है वह उनके पास रहता है।",
+  "legal.licenseAcceptedOn": "{date} को स्वीकार किया गया",
+  "legal.endLicense": "लाइसेंस समाप्त करें"
 }

@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Zmena licencie je naplánovaná na {date}. Dovtedy čitatelia vidia na diele upozornenie; aktuálna licencia zostáva v platnosti.",
   "workshop.translations.license.title": "Licencie prekladov",
   "workshop.translations.license.default": "Predvolená ({license})",
-  "workshop.translations.license.viaOrg": "Regionálna licencia organizácie sa ponúka, keď patríte do organizácie alebo keď niektorý z jej členov prekladá daný jazyk. Jej použitím sa preklad zaradí do katalógu tej organizácie a do rozdelenia príjmov tohto vydania sa pridá podiel organizácie (berie sa z vašej časti). Po publikovaní prekladu sa uzamkne.",
-  "workshop.translations.license.internationalCovered": "Medzinárodná licencia organizácie tohto diela pokrýva všetky jeho preklady.",
+  "workshop.translations.license.viaOrg": "Licencia organizácie pokrývajúca daný jazyk sa ponúka, keď patríte do organizácie alebo keď niektorý z jej členov prekladá daný jazyk. Jej použitím sa preklad zaradí do katalógu tej organizácie a do rozdelenia príjmov tohto vydania sa pridá podiel organizácie (berie sa z vašej časti). Po publikovaní prekladu sa uzamkne.",
   "workshop.revShare.mustMatchCreatorShare": "Riadky tvorcov sa musia sčítať {creatorShare, number}%, pretože podiel platformy je pevne stanovený na {platformShare, number}%.",
   "workshop.revShare.owner": "Vlastník",
   "workshop.revShare.ownerLocked": "Vlastník príbehu musí zostať súčasťou rozdelenia výplaty.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Zvukový strihač",
   "workshop.credit.role.soundEngineer": "Zvukár",
   "workshop.credit.role.composer": "Skladateľ",
-  "workshop.credit.role.betaReader": "Beta čitateľ"
+  "workshop.credit.role.betaReader": "Beta čitateľ",
+  "workshop.translations.license.coveredByOrg": "Pokryté licenciou organizácie tohto diela.",
+  "legal.licenseAgreements": "Licenčné zmluvy s organizáciami",
+  "legal.licenseTranslatorBudget": "Prekladatelia poverení organizáciou môžu spolu dostať až {budget} %.",
+  "legal.licenseEndingOn": "Končí {date}. Dovtedy všetko zostáva v platnosti.",
+  "legal.licenseNoticeTerms": "Túto licenciu môže ktorákoľvek strana ukončiť s výpovednou lehotou {days} dní, ktorá sa zobrazuje čitateľom. Potom sa podiel organizácie vracia vám a čitateľom zostáva, čo už získali.",
+  "legal.licenseAcceptedOn": "Prijaté {date}",
+  "legal.endLicense": "Ukončiť licenciu"
 }

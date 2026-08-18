@@ -109,5 +109,13 @@
   "notification.team.left": "{user}এ {workTitle}ৰ দল এৰিছে ({role})।",
   "notification.team.compensationChanged": "{workTitle}ত আপোনাৰ পাৰিশ্ৰমিক সলনি হৈ {compensation} হৈছে।",
   "notificationExtra.team.viewInvitations": "নিমন্ত্ৰণসমূহ চাওক",
-  "notificationExtra.team.goToWork": "কামটোলৈ যাওক"
+  "notificationExtra.team.goToWork": "কামটোলৈ যাওক",
+  "notification.orgLicense.proposed": "{organization}: “{work}”-ৰ বাবে এটা লাইচেন্স প্ৰস্তাৱ ({license}) সিদ্ধান্তৰ অপেক্ষাত আছে।",
+  "notification.orgLicense.accepted": "{organization}-ৰ সৈতে “{work}”-ৰ লাইচেন্স {license} এতিয়া সক্ৰিয়।",
+  "notification.orgLicense.rejected": "{organization}-ৰ সৈতে “{work}”-ৰ লাইচেন্স প্ৰস্তাৱ নাকচ কৰা হ'ল।",
+  "notification.orgLicense.terminated": "{organization}-ৰ সৈতে “{work}”-ৰ লাইচেন্স {license} শেষ হ'বলৈ গৈ আছে — 30 দিনৰ জাননী কালত ই সক্ৰিয় হৈ থাকিব।",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}”-ৰ লেখকে আপোনাৰ লাইচেন্সৰ পৰা এটা ভাষা মুক্ত কৰিবলৈ অনুৰোধ কৰিছে।",
+  "notification.orgLicense.carveOutApproved": "{organization}-এ “{work}”-ৰ এটা ভাষা মুক্ত কৰিলে — আপুনি সেই অনুবাদটো আন ঠাইত লাইচেন্স দিব পাৰে।",
+  "notification.orgLicense.carveOutRejected": "{organization}-এ “{work}”-ৰ ভাষা সামৰণি বজাই ৰাখিলে।",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 দিনৰ ভিতৰত {organization}-ৰ চাবস্ক্ৰিপশ্বন এৰিব — পাঠকসকলে তেতিয়ালৈকে প্ৰৱেশাধিকাৰ বজাই ৰাখিব।"
 }

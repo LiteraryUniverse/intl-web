@@ -109,5 +109,13 @@
   "notification.team.left": "{user}님이 {workTitle} 팀에서 나갔습니다({role}).",
   "notification.team.compensationChanged": "{workTitle}의 보상이 {compensation}(으)로 변경되었습니다.",
   "notificationExtra.team.viewInvitations": "초대 보기",
-  "notificationExtra.team.goToWork": "작품으로 이동"
+  "notificationExtra.team.goToWork": "작품으로 이동",
+  "notification.orgLicense.proposed": "{organization}: “{work}”에 대한 라이선스 제안({license})이 결정을 기다리고 있습니다.",
+  "notification.orgLicense.accepted": "{organization}과(와)의 “{work}” 라이선스 {license}이(가) 이제 활성화되었습니다.",
+  "notification.orgLicense.rejected": "{organization}과(와)의 “{work}” 라이선스 제안이 거절되었습니다.",
+  "notification.orgLicense.terminated": "{organization}과(와)의 “{work}” 라이선스 {license}이(가) 종료됩니다 — 30일 통지 기간 동안에는 유효하게 유지됩니다.",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}”의 작가가 귀하의 라이선스에서 한 언어를 해제해 달라고 요청했습니다.",
+  "notification.orgLicense.carveOutApproved": "{organization}이(가) “{work}”의 한 언어를 해제했습니다 — 해당 번역을 다른 곳에 라이선스할 수 있습니다.",
+  "notification.orgLicense.carveOutRejected": "{organization}이(가) “{work}”의 언어 범위를 유지했습니다.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}”은(는) 30일 후 {organization}의 구독에서 제외됩니다 — 그때까지 독자는 이용 권한을 유지합니다."
 }

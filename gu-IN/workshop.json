@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "લાઇસન્સ ફેરફાર {date} માટે નિર્ધારિત છે. ત્યાં સુધી વાચકોને કૃતિ પર સૂચના દેખાય છે; હાલનું લાઇસન્સ સક્રિય રહે છે.",
   "workshop.translations.license.title": "અનુવાદ લાઇસન્સ",
   "workshop.translations.license.default": "ડિફૉલ્ટ ({license})",
-  "workshop.translations.license.viaOrg": "પ્રાદેશિક સંગઠન લાઇસન્સ ત્યારે ઑફર થાય છે જ્યારે તમે તે સંગઠનના સભ્ય હો, અથવા જ્યારે તેનો કોઈ સભ્ય તે ભાષાનો અનુવાદ કરે. તેને લાગુ કરવાથી અનુવાદ તે સંગઠનની સૂચિમાં ઉમેરાય છે અને તે આવૃત્તિની આવક વહેંચણીમાં સંગઠનનો હિસ્સો ઉમેરાય છે (તમારા ભાગમાંથી લેવાય છે). અનુવાદ પ્રકાશિત થયા પછી તે લૉક થઈ જાય છે.",
-  "workshop.translations.license.internationalCovered": "આ કૃતિનું આંતરરાષ્ટ્રીય સંગઠન લાઇસન્સ તેના બધા અનુવાદોને આવરી લે છે.",
+  "workshop.translations.license.viaOrg": "ભાષાને આવરી લેતું સંગઠન લાઇસન્સ ત્યારે ઑફર થાય છે જ્યારે તમે તે સંગઠનના સભ્ય હો, અથવા જ્યારે તેનો કોઈ સભ્ય તે ભાષાનો અનુવાદ કરે. તેને લાગુ કરવાથી અનુવાદ તે સંગઠનની સૂચિમાં ઉમેરાય છે અને તે આવૃત્તિની આવક વહેંચણીમાં સંગઠનનો હિસ્સો ઉમેરાય છે (તમારા ભાગમાંથી લેવાય છે). અનુવાદ પ્રકાશિત થયા પછી તે લૉક થઈ જાય છે.",
   "workshop.revShare.mustMatchCreatorShare": "Creator rows must add up to {creatorShare, number}% because platform share is fixed at {platformShare, number}%.",
   "workshop.revShare.owner": "Owner",
   "workshop.revShare.ownerLocked": "The story owner must remain part of the payout split.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "આ કૃતિના સંગઠન લાઇસન્સ દ્વારા આવરી લેવાયું છે.",
+  "legal.licenseAgreements": "સંગઠન લાઇસન્સ કરારો",
+  "legal.licenseTranslatorBudget": "સંગઠને નીમેલા અનુવાદકો સાથે મળીને વધુમાં વધુ {budget}% મેળવી શકે છે.",
+  "legal.licenseEndingOn": "{date}ના રોજ સમાપ્ત થાય છે. ત્યાં સુધી બધું અમલમાં રહે છે.",
+  "legal.licenseNoticeTerms": "કોઈ પણ પક્ષ આ લાઇસન્સ {days} દિવસની સૂચના સાથે સમાપ્ત કરી શકે છે, જે વાચકોને બતાવવામાં આવે છે. ત્યાર પછી સંગઠનનો હિસ્સો તમને પાછો મળે છે અને વાચકોએ જે પહેલેથી મેળવ્યું હોય તે તેમની પાસે રહે છે.",
+  "legal.licenseAcceptedOn": "{date}ના રોજ સ્વીકારાયું",
+  "legal.endLicense": "લાઇસન્સ સમાપ્ત કરો"
 }

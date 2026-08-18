@@ -109,5 +109,13 @@
   "notification.team.left": "Umalis si {user} sa koponan ng {workTitle} ({role}).",
   "notification.team.compensationChanged": "Naging {compensation} na ang iyong kabayaran sa {workTitle}.",
   "notificationExtra.team.viewInvitations": "Tingnan ang mga imbitasyon",
-  "notificationExtra.team.goToWork": "Pumunta sa akda"
+  "notificationExtra.team.goToWork": "Pumunta sa akda",
+  "notification.orgLicense.proposed": "{organization}: may panukalang lisensya para sa “{work}” ({license}) na naghihintay ng desisyon.",
+  "notification.orgLicense.accepted": "Aktibo na ang lisensyang {license} para sa “{work}” kasama ang {organization}.",
+  "notification.orgLicense.rejected": "Tinanggihan ang panukalang lisensya para sa “{work}” kasama ang {organization}.",
+  "notification.orgLicense.terminated": "Magtatapos na ang lisensyang {license} para sa “{work}” kasama ang {organization} — mananatili itong aktibo sa loob ng 30-araw na abiso.",
+  "notification.orgLicense.carveOutRequested": "{organization}: hinihiling ng may-akda ng “{work}” na palayain ang isang wika mula sa inyong lisensya.",
+  "notification.orgLicense.carveOutApproved": "Pinalaya ng {organization} ang isang wika ng “{work}” — maaari mong ilisensya ang pagsasaling iyon sa ibang lugar.",
+  "notification.orgLicense.carveOutRejected": "Pinanatili ng {organization} ang saklaw nitong mga wika para sa “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "Aalis ang “{work}” sa subscription ng {organization} sa loob ng 30 araw — mananatili ang access ng mga mambabasa hanggang noon."
 }

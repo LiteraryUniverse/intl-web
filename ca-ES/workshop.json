@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Canvi de llicència programat per al {date}. Fins llavors els lectors veuen un avís a l'obra; la llicència actual continua activa.",
   "workshop.translations.license.title": "Llicències de traducció",
   "workshop.translations.license.default": "Per defecte ({license})",
-  "workshop.translations.license.viaOrg": "S'ofereix una llicència regional de l'organització quan pertanys a l'organització, o quan un dels seus membres tradueix aquella llengua. Aplicar-la inclou la traducció al catàleg d'aquella organització i afegeix la participació de l'organització al repartiment d'ingressos d'aquesta edició (presa de la teva part). Es bloqueja quan la traducció es publica.",
-  "workshop.translations.license.internationalCovered": "La llicència internacional de l'organització d'aquesta obra cobreix totes les seves traduccions.",
+  "workshop.translations.license.viaOrg": "S'ofereix una llicència d'organització que cobreix la llengua quan pertanys a l'organització, o quan un dels seus membres tradueix aquella llengua. Aplicar-la inclou la traducció al catàleg d'aquella organització i afegeix la participació de l'organització al repartiment d'ingressos d'aquesta edició (presa de la teva part). Es bloqueja quan la traducció es publica.",
   "workshop.universe.forum.short": "Fòrum de l’univers",
   "workshop.team.role.designer": "Dissenyador",
   "workshop.team.role.production": "Producció",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Editor d’àudio",
   "workshop.credit.role.soundEngineer": "Enginyer de so",
   "workshop.credit.role.composer": "Compositor",
-  "workshop.credit.role.betaReader": "Lector beta"
+  "workshop.credit.role.betaReader": "Lector beta",
+  "workshop.translations.license.coveredByOrg": "Cobert per la llicència d'organització de l'obra.",
+  "legal.licenseAgreements": "Acords de llicència d'organització",
+  "legal.licenseTranslatorBudget": "Els traductors assignats per l'organització poden rebre fins a un {budget}% entre tots.",
+  "legal.licenseEndingOn": "S'acaba el {date}. Fins llavors tot continua vigent.",
+  "legal.licenseNoticeTerms": "Qualsevol de les dues parts pot posar fi a aquesta llicència amb un preavís de {days} dies que es mostra als lectors. Després, la participació de l'organització torna a tu i els lectors conserven el que ja havien obtingut.",
+  "legal.licenseAcceptedOn": "Acceptada el {date}",
+  "legal.endLicense": "Finalitza la llicència"
 }

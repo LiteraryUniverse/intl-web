@@ -78,7 +78,7 @@
   "org.roles.title": "Peran lan wewenang",
   "org.roles.intro": "Peran menehi sakumpulan wewenang. Tambahake wewenang siji-siji ing ndhuwur peran kanggo kontrol sing luwih rinci.",
   "org.workProposal.title": "Karya sing diusulake",
-  "org.workProposal.intro": "Tawakake salah siji karyamu marang organisasi iki. Yen admin nampa, organisasi dadi sing nduweni.",
+  "org.workProposal.intro": "Tawakake salah siji karyamu marang organisasi iki miturut salah siji lisensine. Yen ditampa, karyane tetep duwekmu — organisasi entuk hak lisensi lan bageane saka asil.",
   "org.workProposal.propose": "Usulake karya",
   "org.workProposal.selectWork": "Karya sing arep diusulake",
   "org.workProposal.note": "Pesen kanggo organisasi (opsional)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Batal arsip",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "Pemimpin redaksi",
+  "org.permissions.licensing": "Ngatur lisensi",
+  "org.curation.title": "Karya berlisensi ing langganan",
+  "org.curation.intro": "Lisensi ngidini sampeyan nglebokake karya ing langgananmu — nanging ora mewajibake. Busak centhang ing sawijining tingkatan supaya karya kasebut mung didol saka katalogmu; pamaca tetep duwe akses sajrone 30 dina sawise iku.",
+  "org.carveOut.request": "Bebasake {language}?"
 }

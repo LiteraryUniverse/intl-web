@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Schimbarea licenței este programată pentru {date}. Până atunci, cititorii văd o notificare pe operă; licența actuală rămâne activă.",
   "workshop.translations.license.title": "Licențe de traducere",
   "workshop.translations.license.default": "Implicită ({license})",
-  "workshop.translations.license.viaOrg": "O licență regională de organizație este oferită atunci când aparții organizației sau când unul dintre membrii ei traduce limba respectivă. Aplicarea ei listează traducerea în catalogul acelei organizații și adaugă cota organizației la împărțirea veniturilor acelei ediții (luată din partea ta). Se blochează odată ce traducerea este publicată.",
-  "workshop.translations.license.internationalCovered": "Licența internațională de organizație a acestei opere acoperă toate traducerile sale.",
+  "workshop.translations.license.viaOrg": "O licență de organizație care acoperă limba este oferită atunci când aparții organizației sau când unul dintre membrii ei traduce limba respectivă. Aplicarea ei listează traducerea în catalogul acelei organizații și adaugă cota organizației la împărțirea veniturilor acelei ediții (luată din partea ta). Se blochează odată ce traducerea este publicată.",
   "workshop.universe.forum.short": "Forum univers",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Producție",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Editor audio",
   "workshop.credit.role.soundEngineer": "Inginer de sunet",
   "workshop.credit.role.composer": "Compozitor",
-  "workshop.credit.role.betaReader": "Cititor beta"
+  "workshop.credit.role.betaReader": "Cititor beta",
+  "workshop.translations.license.coveredByOrg": "Acoperit de licența de organizație a operei.",
+  "legal.licenseAgreements": "Acorduri de licență cu organizația",
+  "legal.licenseTranslatorBudget": "Traducătorii desemnați de organizație pot primi împreună până la {budget}%.",
+  "legal.licenseEndingOn": "Se încheie la {date}. Până atunci, totul rămâne în vigoare.",
+  "legal.licenseNoticeTerms": "Oricare dintre părți poate încheia această licență cu un preaviz de {days} zile afișat cititorilor. După aceea, cota organizației revine la tine, iar cititorii păstrează ce au obținut deja.",
+  "legal.licenseAcceptedOn": "Acceptată la {date}",
+  "legal.endLicense": "Încheie licența"
 }

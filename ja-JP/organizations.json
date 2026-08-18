@@ -78,7 +78,7 @@
   "org.roles.title": "ロールと権限",
   "org.roles.intro": "ロールは権限のセットを付与します。より細かく制御するには、ロールに個別の権限を追加してください。",
   "org.workProposal.title": "提案された作品",
-  "org.workProposal.intro": "自分の作品をこの組織に提案できます。管理者が承認すると、その作品の所有者は組織になります。",
+  "org.workProposal.intro": "自分の作品を、この組織のいずれかのライセンスの下で提案できます。承認されても作品の所有権はあなたのまま — 組織はライセンスに定められた権利と収益の取り分を得ます。",
   "org.workProposal.propose": "作品を提案",
   "org.workProposal.selectWork": "提案する作品",
   "org.workProposal.note": "組織へのメッセージ（任意）",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "アーカイブ解除",
   "org.workshop.licensed": "ライセンス作品",
   "org.workshop.licensed.intro": "作成者所有で、組織のライセンスのひとつを付与された作品です。宣伝はできますが、編集は所有者のままです。",
-  "org.workshop.licensed.empty": "まだライセンスが付いた作品はありません。"
+  "org.workshop.licensed.empty": "まだライセンスが付いた作品はありません。",
+  "org.roles.editor": "編集長",
+  "org.permissions.licensing": "ライセンスの管理",
+  "org.curation.title": "サブスクリプション内のライセンス作品",
+  "org.curation.intro": "ライセンスがあれば作品をサブスクリプションに含めることができますが、必須ではありません。ティアのチェックを外すと、その作品はカタログでの販売のみになります。読者はその後 30 日間はアクセスを保持します。",
+  "org.carveOut.request": "{language} を解放しますか？"
 }

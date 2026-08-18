@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "ការផ្លាស់ប្ដូរអាជ្ញាប័ណ្ណត្រូវបានកំណត់ពេលសម្រាប់ {date}។ អ្នកអានឃើញការជូនដំណឹងនៅលើស្នាដៃរហូតដល់ពេលនោះ ហើយអាជ្ញាប័ណ្ណបច្ចុប្បន្ននៅតែមានប្រសិទ្ធភាព។",
   "workshop.translations.license.title": "អាជ្ញាប័ណ្ណការបកប្រែ",
   "workshop.translations.license.default": "លំនាំដើម ({license})",
-  "workshop.translations.license.viaOrg": "អាជ្ញាប័ណ្ណអង្គភាពតាមតំបន់ត្រូវបានផ្ដល់ជូន នៅពេលអ្នកជាសមាជិកនៃអង្គភាព ឬនៅពេលសមាជិកម្នាក់របស់វាបកប្រែភាសានោះ។ ការអនុវត្តវានឹងដាក់ការបកប្រែក្នុងកាតាឡុករបស់អង្គភាពនោះ ហើយបន្ថែមចំណែករបស់អង្គភាពទៅក្នុងការបែងចែកចំណូលនៃការបោះពុម្ពនោះ (យកចេញពីផ្នែករបស់អ្នក)។ វានឹងចាក់សោនៅពេលការបកប្រែត្រូវបានផ្សព្វផ្សាយ។",
-  "workshop.translations.license.internationalCovered": "អាជ្ញាប័ណ្ណអង្គភាពអន្តរជាតិនៃស្នាដៃនេះគ្របដណ្ដប់ការបកប្រែទាំងអស់របស់វា។",
+  "workshop.translations.license.viaOrg": "អាជ្ញាប័ណ្ណអង្គភាពដែលគ្របដណ្ដប់ភាសានោះត្រូវបានផ្ដល់ជូន នៅពេលអ្នកជាសមាជិកនៃអង្គភាព ឬនៅពេលសមាជិកម្នាក់របស់វាបកប្រែភាសានោះ។ ការអនុវត្តវានឹងដាក់ការបកប្រែក្នុងកាតាឡុករបស់អង្គភាពនោះ ហើយបន្ថែមចំណែករបស់អង្គភាពទៅក្នុងការបែងចែកចំណូលនៃការបោះពុម្ពនោះ (យកចេញពីផ្នែករបស់អ្នក)។ វានឹងចាក់សោនៅពេលការបកប្រែត្រូវបានផ្សព្វផ្សាយ។",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "គ្របដណ្ដប់ដោយអាជ្ញាប័ណ្ណអង្គភាពរបស់ស្នាដៃនេះ។",
+  "legal.licenseAgreements": "កិច្ចព្រមព្រៀងអាជ្ញាប័ណ្ណអង្គភាព",
+  "legal.licenseTranslatorBudget": "អ្នកបកប្រែដែលអង្គភាពបានចាត់តាំង អាចទទួលបានរួមគ្នារហូតដល់ {budget}%។",
+  "legal.licenseEndingOn": "នឹងបញ្ចប់នៅ {date}។ រហូតដល់ពេលនោះ អ្វីៗទាំងអស់នៅតែមានប្រសិទ្ធភាព។",
+  "legal.licenseNoticeTerms": "ភាគីណាមួយអាចបញ្ចប់អាជ្ញាប័ណ្ណនេះបាន ដោយមានការជូនដំណឹងជាមុន {days} ថ្ងៃ ដែលបង្ហាញដល់អ្នកអាន។ បន្ទាប់មក ចំណែករបស់អង្គភាពត្រឡប់មកអ្នកវិញ ហើយអ្នកអានរក្សាបាននូវអ្វីដែលពួកគេទទួលបានរួចហើយ។",
+  "legal.licenseAcceptedOn": "បានទទួលយកនៅ {date}",
+  "legal.endLicense": "បញ្ចប់អាជ្ញាប័ណ្ណ"
 }

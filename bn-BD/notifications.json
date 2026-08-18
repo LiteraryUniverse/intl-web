@@ -109,5 +109,13 @@
   "notification.team.left": "{user} {workTitle}-এর দল ছেড়েছেন ({role})।",
   "notification.team.compensationChanged": "{workTitle}-এ আপনার পারিশ্রমিক পরিবর্তিত হয়ে {compensation} হয়েছে।",
   "notificationExtra.team.viewInvitations": "আমন্ত্রণগুলি দেখুন",
-  "notificationExtra.team.goToWork": "কাজটিতে যান"
+  "notificationExtra.team.goToWork": "কাজটিতে যান",
+  "notification.orgLicense.proposed": "{organization}: “{work}”-এর জন্য একটি লাইসেন্স প্রস্তাব ({license}) সিদ্ধান্তের অপেক্ষায় আছে।",
+  "notification.orgLicense.accepted": "{organization}-এর সঙ্গে “{work}”-এর লাইসেন্স {license} এখন সক্রিয়।",
+  "notification.orgLicense.rejected": "{organization}-এর সঙ্গে “{work}”-এর লাইসেন্স প্রস্তাব প্রত্যাখ্যান করা হয়েছে।",
+  "notification.orgLicense.terminated": "{organization}-এর সঙ্গে “{work}”-এর লাইসেন্স {license} শেষ হতে চলেছে — 30 দিনের নোটিশ চলাকালীন এটি সক্রিয় থাকবে।",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}”-এর লেখক আপনার লাইসেন্স থেকে একটি ভাষা মুক্ত করার অনুরোধ করেছেন।",
+  "notification.orgLicense.carveOutApproved": "{organization} “{work}”-এর একটি ভাষা মুক্ত করেছে — আপনি সেই অনুবাদটি অন্যত্র লাইসেন্স দিতে পারেন।",
+  "notification.orgLicense.carveOutRejected": "{organization} “{work}”-এর ভাষা কভারেজ বজায় রেখেছে।",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 দিনের মধ্যে {organization}-এর সাবস্ক্রিপশন ছেড়ে যাবে — পাঠকরা ততক্ষণ পর্যন্ত অ্যাক্সেস ধরে রাখবেন।"
 }

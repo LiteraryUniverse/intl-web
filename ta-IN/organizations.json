@@ -80,7 +80,7 @@
   "org.roles.title": "பணிகளும் அனுமதிகளும்",
   "org.roles.intro": "ஒரு பணி அனுமதிகளின் தொகுப்பை வழங்குகிறது. இன்னும் நுட்பமான கட்டுப்பாட்டுக்கு பணிக்கு மேல் தனித்தனி அனுமதிகளைச் சேர்க்கவும்.",
   "org.workProposal.title": "முன்மொழியப்பட்ட படைப்புகள்",
-  "org.workProposal.intro": "உங்கள் படைப்புகளில் ஒன்றை இந்த அமைப்புக்கு வழங்குங்கள். நிர்வாகி ஏற்றால், அமைப்பே அதன் உரிமையாளராகும்.",
+  "org.workProposal.intro": "உங்கள் படைப்புகளில் ஒன்றை இந்த அமைப்புக்கு அதன் உரிமங்களில் ஒன்றின் கீழ் வழங்குங்கள். ஏற்கப்பட்டால், படைப்பு உங்களுடையதாகவே இருக்கும் — அமைப்பு உரிமத்தின் உரிமைகளையும் வருவாயில் அதன் பங்கையும் பெறும்.",
   "org.workProposal.propose": "படைப்பை முன்மொழி",
   "org.workProposal.selectWork": "முன்மொழியும் படைப்பு",
   "org.workProposal.note": "அமைப்புக்கான செய்தி (விருப்பத்தேர்வு)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe சரியான நேரத்தில் பதிலளிக்கவில்லை. பணம் செலுத்தல்களை மீண்டும் அமைக்க முயற்சிக்கவும்.",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "தலைமை ஆசிரியர்",
+  "org.permissions.licensing": "உரிம நிர்வாகம்",
+  "org.curation.title": "சந்தாக்களில் உரிமம் பெற்ற படைப்புகள்",
+  "org.curation.intro": "ஒரு படைப்பை உங்கள் சந்தாக்களில் சேர்க்க உரிமம் அனுமதிக்கிறது — ஆனால் சேர்க்க வேண்டிய கட்டாயம் இல்லை. ஒரு நிலையின் தேர்வை நீக்கினால், அந்தப் படைப்பு உங்கள் பட்டியலிலிருந்து மட்டும் விற்கப்படும்; அதன் பிறகு 30 நாட்களுக்கு வாசகர்கள் அணுகலைத் தக்கவைத்திருப்பார்கள்.",
+  "org.carveOut.request": "{language} மொழியை விடுவிக்கவா?"
 }

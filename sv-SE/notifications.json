@@ -109,5 +109,13 @@
   "notification.team.left": "{user} lämnade teamet för {workTitle} ({role}).",
   "notification.team.compensationChanged": "Din ersättning för {workTitle} har ändrats till {compensation}.",
   "notificationExtra.team.viewInvitations": "Visa inbjudningar",
-  "notificationExtra.team.goToWork": "Gå till verket"
+  "notificationExtra.team.goToWork": "Gå till verket",
+  "notification.orgLicense.proposed": "{organization}: ett licensförslag för “{work}” ({license}) väntar på beslut.",
+  "notification.orgLicense.accepted": "Licensen {license} för “{work}” med {organization} är nu aktiv.",
+  "notification.orgLicense.rejected": "Licensförslaget för “{work}” med {organization} avslogs.",
+  "notification.orgLicense.terminated": "Licensen {license} för “{work}” med {organization} håller på att avslutas — den förblir aktiv under uppsägningstiden på 30 dagar.",
+  "notification.orgLicense.carveOutRequested": "{organization}: författaren till “{work}” ber om att ett språk frigörs från er licens.",
+  "notification.orgLicense.carveOutApproved": "{organization} frigjorde ett språk av “{work}” — du kan licensiera den översättningen någon annanstans.",
+  "notification.orgLicense.carveOutRejected": "{organization} behöll sin språktäckning av “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” lämnar {organization}s prenumeration om 30 dagar — läsarna behåller åtkomsten till dess."
 }

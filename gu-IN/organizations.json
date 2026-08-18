@@ -80,7 +80,7 @@
   "org.roles.title": "ભૂમિકાઓ અને પરવાનગીઓ",
   "org.roles.intro": "ભૂમિકા પરવાનગીઓનો સમૂહ આપે છે. વધુ ઝીણવટભર્યા નિયંત્રણ માટે ભૂમિકા ઉપર અલગ પરવાનગીઓ ઉમેરો.",
   "org.workProposal.title": "પ્રસ્તાવિત કૃતિઓ",
-  "org.workProposal.intro": "તમારી કોઈ કૃતિ આ સંસ્થાને ઓફર કરો. જો કોઈ સંચાલક સ્વીકારે, તો સંસ્થા તેની માલિક બનશે.",
+  "org.workProposal.intro": "તમારી કોઈ કૃતિ આ સંસ્થાને તેના કોઈ એક લાઇસન્સ હેઠળ ઓફર કરો. સ્વીકારાય તો કૃતિ તમારી જ રહે છે — સંસ્થાને લાઇસન્સના અધિકારો અને આવકમાં તેનો હિસ્સો મળે છે.",
   "org.workProposal.propose": "કૃતિ પ્રસ્તાવિત કરો",
   "org.workProposal.selectWork": "પ્રસ્તાવિત કરવાની કૃતિ",
   "org.workProposal.note": "સંસ્થા માટે સંદેશ (વૈકલ્પિક)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripeએ સમયસર જવાબ આપ્યો નથી. કૃપા કરીને ફરીથી પેઆઉટ સેટ અપ કરવાનો પ્રયાસ કરો.",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "મુખ્ય સંપાદક",
+  "org.permissions.licensing": "લાઇસન્સિંગનું સંચાલન કરો",
+  "org.curation.title": "સબ્સ્ક્રિપ્શનમાં લાઇસન્સવાળી કૃતિઓ",
+  "org.curation.intro": "લાઇસન્સ તમને કૃતિને તમારાં સબ્સ્ક્રિપ્શનમાં સામેલ કરવા દે છે — તે ફરજિયાત નથી. કૃતિ ફક્ત તમારા કૅટલોગમાંથી વેચવી હોય તો ટિયરની પસંદગી હટાવી દો; ત્યાર પછી વાચકોની ઍક્સેસ 30 દિવસ સુધી ચાલુ રહે છે.",
+  "org.carveOut.request": "{language} મુક્ત કરીએ?"
 }

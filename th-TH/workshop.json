@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "กำหนดเปลี่ยนใบอนุญาตในวันที่ {date} ผู้อ่านจะเห็นประกาศบนผลงานจนถึงตอนนั้น ใบอนุญาตปัจจุบันยังคงมีผล",
   "workshop.translations.license.title": "ใบอนุญาตงานแปล",
   "workshop.translations.license.default": "ค่าเริ่มต้น ({license})",
-  "workshop.translations.license.viaOrg": "ใบอนุญาตองค์กรระดับภูมิภาคจะมีให้เลือกเมื่อคุณเป็นสมาชิกขององค์กร หรือเมื่อสมาชิกคนหนึ่งขององค์กรแปลภาษานั้น การใช้ใบอนุญาตนี้จะแสดงงานแปลในแค็ตตาล็อกขององค์กรนั้น และเพิ่มส่วนแบ่งขององค์กรลงในการแบ่งรายได้ของฉบับนั้น (หักจากส่วนของคุณ) ใบอนุญาตจะถูกล็อกเมื่องานแปลถูกเผยแพร่",
-  "workshop.translations.license.internationalCovered": "ใบอนุญาตองค์กรระหว่างประเทศของผลงานนี้ครอบคลุมงานแปลทั้งหมดของผลงาน",
+  "workshop.translations.license.viaOrg": "ใบอนุญาตองค์กรที่ครอบคลุมภาษานั้นจะมีให้เลือกเมื่อคุณเป็นสมาชิกขององค์กร หรือเมื่อสมาชิกคนหนึ่งขององค์กรแปลภาษานั้น การใช้ใบอนุญาตนี้จะแสดงงานแปลในแค็ตตาล็อกขององค์กรนั้น และเพิ่มส่วนแบ่งขององค์กรลงในการแบ่งรายได้ของฉบับนั้น (หักจากส่วนของคุณ) ใบอนุญาตจะถูกล็อกเมื่องานแปลถูกเผยแพร่",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "ครอบคลุมโดยใบอนุญาตองค์กรของผลงานนี้",
+  "legal.licenseAgreements": "ข้อตกลงใบอนุญาตขององค์กร",
+  "legal.licenseTranslatorBudget": "ผู้แปลที่องค์กรมอบหมายอาจได้รับรวมกันสูงสุด {budget}%",
+  "legal.licenseEndingOn": "จะสิ้นสุดในวันที่ {date} จนถึงตอนนั้นทุกอย่างยังคงมีผลบังคับใช้",
+  "legal.licenseNoticeTerms": "ทั้งสองฝ่ายสามารถยุติใบอนุญาตนี้ได้ด้วยการแจ้งล่วงหน้า {days} วันที่แสดงให้ผู้อ่านเห็น หลังจากนั้นส่วนแบ่งขององค์กรจะกลับมาเป็นของคุณ และผู้อ่านยังคงเก็บสิ่งที่ได้รับไปแล้วไว้",
+  "legal.licenseAcceptedOn": "ยอมรับเมื่อ {date}",
+  "legal.endLicense": "ยุติใบอนุญาต"
 }

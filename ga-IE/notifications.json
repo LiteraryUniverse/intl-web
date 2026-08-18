@@ -109,5 +109,13 @@
   "notification.team.left": "D'fhág {user} foireann {workTitle} ({role}).",
   "notification.team.compensationChanged": "Athraíodh do chúiteamh ar {workTitle}: {compensation}.",
   "notificationExtra.team.viewInvitations": "Féach ar na cuirí",
-  "notificationExtra.team.goToWork": "Téigh go dtí an saothar"
+  "notificationExtra.team.goToWork": "Téigh go dtí an saothar",
+  "notification.orgLicense.proposed": "{organization}: tá togra ceadúnais do “{work}” ({license}) ag fanacht le cinneadh.",
+  "notification.orgLicense.accepted": "Tá an ceadúnas {license} do “{work}” le {organization} gníomhach anois.",
+  "notification.orgLicense.rejected": "Diúltaíodh don togra ceadúnais do “{work}” le {organization}.",
+  "notification.orgLicense.terminated": "Tá an ceadúnas {license} do “{work}” le {organization} ag teacht chun deiridh — fanann sé gníomhach le linn na tréimhse fógra 30 lá.",
+  "notification.orgLicense.carveOutRequested": "{organization}: tá údar “{work}” ag iarraidh teanga amháin a scaoileadh ó bhur gceadúnas.",
+  "notification.orgLicense.carveOutApproved": "Scaoil {organization} teanga de “{work}” — is féidir leat an t-aistriúchán sin a cheadúnú in áit eile.",
+  "notification.orgLicense.carveOutRejected": "Choinnigh {organization} a chumhdach teangacha ar “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "Fágfaidh “{work}” síntiús {organization} i gceann 30 lá — coinníonn léitheoirí rochtain go dtí sin."
 }

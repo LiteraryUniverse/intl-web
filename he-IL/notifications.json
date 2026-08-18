@@ -109,5 +109,13 @@
   "notification.team.left": "{user} עזב את הצוות של {workTitle} ({role}).",
   "notification.team.compensationChanged": "התגמול שלך על {workTitle} שונה ל־{compensation}.",
   "notificationExtra.team.viewInvitations": "הצג הזמנות",
-  "notificationExtra.team.goToWork": "עבור ליצירה"
+  "notificationExtra.team.goToWork": "עבור ליצירה",
+  "notification.orgLicense.proposed": "{organization}: הצעת רישיון עבור “{work}” ({license}) ממתינה להחלטה.",
+  "notification.orgLicense.accepted": "הרישיון {license} עבור “{work}” עם {organization} פעיל כעת.",
+  "notification.orgLicense.rejected": "הצעת הרישיון עבור “{work}” עם {organization} נדחתה.",
+  "notification.orgLicense.terminated": "הרישיון {license} עבור “{work}” עם {organization} מסתיים — הוא נשאר פעיל במהלך תקופת ההודעה המוקדמת של 30 יום.",
+  "notification.orgLicense.carveOutRequested": "{organization}: המחבר של “{work}” מבקש לשחרר שפה אחת מהרישיון שלכם.",
+  "notification.orgLicense.carveOutApproved": "{organization} שחררה שפה של “{work}” — אפשר להעניק רישיון לתרגום הזה במקום אחר.",
+  "notification.orgLicense.carveOutRejected": "{organization} שמרה על כיסוי השפות שלה עבור “{work}”.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” עוזבת את המינוי של {organization} בעוד 30 יום — הקוראים שומרים על הגישה עד אז."
 }

@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "கையெழுத்துப் பிரதி",
   "blog.theme.preset.codex": "கோடெக்ஸ்",
   "blog.theme.preset.architect": "கட்டிடக் கலைஞர்",
-  "blog.theme.preset.chronicler": "வரலாற்றாசிரியர்"
+  "blog.theme.preset.chronicler": "வரலாற்றாசிரியர்",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

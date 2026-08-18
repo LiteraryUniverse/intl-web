@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "សាត្រាស្លឹករឹត",
   "blog.theme.preset.codex": "សៀវភៅបុរាណ",
   "blog.theme.preset.architect": "ស្ថាបត្យករ",
-  "blog.theme.preset.chronicler": "អ្នកកត់ត្រាប្រវត្តិ"
+  "blog.theme.preset.chronicler": "អ្នកកត់ត្រាប្រវត្តិ",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

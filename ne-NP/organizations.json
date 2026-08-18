@@ -80,7 +80,7 @@
   "org.roles.title": "भूमिका र अनुमति",
   "org.roles.intro": "भूमिकाले अनुमतिहरूको समूह दिन्छ। थप सूक्ष्म नियन्त्रणका लागि भूमिकामाथि छुट्टै अनुमतिहरू थप्नुहोस्।",
   "org.workProposal.title": "प्रस्तावित कृतिहरू",
-  "org.workProposal.intro": "आफ्नो कुनै कृति यस संस्थालाई प्रस्ताव गर्नुहोस्। प्रशासकले स्वीकार गरेमा संस्था नै त्यसको मालिक हुनेछ।",
+  "org.workProposal.intro": "आफ्नो कुनै कृति यस संस्थालाई उसको कुनै एक लाइसेन्स अन्तर्गत प्रस्ताव गर्नुहोस्। स्वीकार भएमा कृति तपाईंकै रहन्छ — संस्थाले लाइसेन्सका अधिकारहरू र आम्दानीमा आफ्नो हिस्सा पाउँछ।",
   "org.workProposal.propose": "कृति प्रस्ताव गर्नुहोस्",
   "org.workProposal.selectWork": "प्रस्ताव गर्नुपर्ने कृति",
   "org.workProposal.note": "संस्थाका लागि सन्देश (वैकल्पिक)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe ले समयमै जवाफ दिएन। कृपया भुक्तानी फेरि सेटअप गर्ने प्रयास गर्नुहोस्।",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "प्रधान सम्पादक",
+  "org.permissions.licensing": "लाइसेन्सिङ व्यवस्थापन गर्नुहोस्",
+  "org.curation.title": "सदस्यतामा लाइसेन्सप्राप्त कृतिहरू",
+  "org.curation.intro": "लाइसेन्सले तपाईंलाई कृति आफ्ना सदस्यतामा राख्न दिन्छ — तर त्यो अनिवार्य होइन। कृति आफ्नो क्याटलगबाट मात्र बेच्न कुनै तहको चिन्ह हटाउनुहोस्; त्यसपछि पाठकहरूको पहुँच 30 दिनसम्म कायम रहन्छ।",
+  "org.carveOut.request": "{language} मुक्त गर्ने?"
 }

@@ -78,7 +78,7 @@
   "org.roles.title": "Roluri și permisiuni",
   "org.roles.intro": "Un rol acordă un set de permisiuni. Adaugă permisiuni individuale peste un rol pentru un control mai fin.",
   "org.workProposal.title": "Lucrări propuse",
-  "org.workProposal.intro": "Oferă una dintre lucrările tale acestei organizații. Dacă un administrator acceptă, organizația devine proprietara ei.",
+  "org.workProposal.intro": "Oferă una dintre lucrările tale acestei organizații sub una dintre licențele ei. Dacă este acceptată, lucrarea rămâne a ta — organizația obține drepturile licenței și partea sa din venituri.",
   "org.workProposal.propose": "Propune o lucrare",
   "org.workProposal.selectWork": "Lucrarea de propus",
   "org.workProposal.note": "Mesaj pentru organizație (opțional)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Dezarhivează",
   "org.workshop.licensed": "Lucrări licențiate",
   "org.workshop.licensed.intro": "Lucrări deținute de creatori care poartă una dintre licențele organizației tale. Le poți promova; editarea rămâne la proprietar.",
-  "org.workshop.licensed.empty": "Nicio lucrare nu poartă încă licențele tale."
+  "org.workshop.licensed.empty": "Nicio lucrare nu poartă încă licențele tale.",
+  "org.roles.editor": "Redactor-șef",
+  "org.permissions.licensing": "Gestionează licențierea",
+  "org.curation.title": "Opere licențiate în abonamente",
+  "org.curation.intro": "O licență îți permite să incluzi o operă în abonamentele tale — nu te obligă. Debifează un nivel pentru a vinde opera doar din catalogul tău; cititorii păstrează accesul încă 30 de zile după aceea.",
+  "org.carveOut.request": "Eliberezi {language}?"
 }

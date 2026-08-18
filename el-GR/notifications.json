@@ -109,5 +109,13 @@
   "notification.team.left": "{user} αποχώρησε από την ομάδα του έργου {workTitle} ({role}).",
   "notification.team.compensationChanged": "Η αμοιβή σας στο {workTitle} άλλαξε σε: {compensation}.",
   "notificationExtra.team.viewInvitations": "Προβολή προσκλήσεων",
-  "notificationExtra.team.goToWork": "Μετάβαση στο έργο"
+  "notificationExtra.team.goToWork": "Μετάβαση στο έργο",
+  "notification.orgLicense.proposed": "{organization}: μια πρόταση άδειας για το «{work}» ({license}) περιμένει απόφαση.",
+  "notification.orgLicense.accepted": "Η άδεια {license} για το «{work}» με τον {organization} είναι πλέον ενεργή.",
+  "notification.orgLicense.rejected": "Η πρόταση άδειας για το «{work}» με τον {organization} απορρίφθηκε.",
+  "notification.orgLicense.terminated": "Η άδεια {license} για το «{work}» με τον {organization} λήγει — παραμένει ενεργή κατά την 30ήμερη προθεσμία ειδοποίησης.",
+  "notification.orgLicense.carveOutRequested": "{organization}: ο συγγραφέας του «{work}» ζητά να απελευθερωθεί μία γλώσσα από την άδειά σας.",
+  "notification.orgLicense.carveOutApproved": "Ο {organization} απελευθέρωσε μία γλώσσα του «{work}» — μπορείτε να αδειοδοτήσετε αυτή τη μετάφραση αλλού.",
+  "notification.orgLicense.carveOutRejected": "Ο {organization} διατήρησε την κάλυψη γλωσσών του «{work}».",
+  "notification.orgLicense.subscriptionRemoval": "Το «{work}» αποχωρεί από τη συνδρομή του {organization} σε 30 ημέρες — οι αναγνώστες διατηρούν την πρόσβαση μέχρι τότε."
 }

@@ -78,7 +78,7 @@
   "org.roles.title": "lo se gunka je lo se curmi",
   "org.roles.intro": "lo se gunka cu dunda pa girzu be lo se curmi. ko jmina lo pa se curmi lo se gunka ki'u lo nu vlipa mulno",
   "org.workProposal.title": "lo se stidi cukta",
-  "org.workProposal.intro": "ko stidi lo do cukta le kagni. ganai lo gunma turni cu zanru gi le kagni cu ponse ri",
+  "org.workProposal.intro": "ko stidi lo do cukta le kagni sepi'o pa le ri klesi tu'a dunda .i ganai zanru gi lo cukta cu za'o se ponse do .i le kagni cu cpacu lo krali be le klesi tu'a dunda .e lo ri fatri be lo jdini",
   "org.workProposal.propose": "stidi pa cukta",
   "org.workProposal.selectWork": "lo cukta poi se stidi",
   "org.workProposal.note": "notci le kagni (na sarcu)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Unarchive",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "ralju galfi",
+  "org.permissions.licensing": "vlipa lo jaspu",
+  "org.curation.title": "lo se curmi se finti bu'u lo selpleji",
+  "org.curation.intro": ".i lo klesi tu'a dunda cu curmi lo nu do jmina lo se finti lo do selpleji gi'e na bilga do .i ko na cuxna lo klesi tezu'e lo nu vecnu lo se finti fi lo do liste po'o .i ba bo lo tcidu prenu cu ralte lo nu ka'e tcidu ze'a lo 30 djedi",
+  "org.carveOut.request": "xu zifre gau lo bangu po'u {language}"
 }

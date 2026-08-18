@@ -109,5 +109,13 @@
   "notification.team.left": "{user} lähti teoksen {workTitle} tiimistä ({role}).",
   "notification.team.compensationChanged": "Korvauksesi teoksesta {workTitle} muuttui: {compensation}.",
   "notificationExtra.team.viewInvitations": "Näytä kutsut",
-  "notificationExtra.team.goToWork": "Siirry teokseen"
+  "notificationExtra.team.goToWork": "Siirry teokseen",
+  "notification.orgLicense.proposed": "{organization}: lisenssiehdotus teokselle “{work}” ({license}) odottaa päätöstä.",
+  "notification.orgLicense.accepted": "Lisenssi {license} teokselle “{work}” organisaation {organization} kanssa on nyt voimassa.",
+  "notification.orgLicense.rejected": "Lisenssiehdotus teokselle “{work}” organisaation {organization} kanssa hylättiin.",
+  "notification.orgLicense.terminated": "Lisenssi {license} teokselle “{work}” organisaation {organization} kanssa on päättymässä — se pysyy voimassa 30 päivän irtisanomisajan.",
+  "notification.orgLicense.carveOutRequested": "{organization}: teoksen “{work}” tekijä pyytää vapauttamaan yhden kielen lisenssistänne.",
+  "notification.orgLicense.carveOutApproved": "{organization} vapautti yhden teoksen “{work}” kielen — voit lisensoida sen käännöksen muualle.",
+  "notification.orgLicense.carveOutRejected": "{organization} säilytti teoksen “{work}” kielikattavuutensa.",
+  "notification.orgLicense.subscriptionRemoval": "Teos “{work}” poistuu organisaation {organization} tilauksesta 30 päivän kuluttua — lukijat säilyttävät pääsyn siihen asti."
 }

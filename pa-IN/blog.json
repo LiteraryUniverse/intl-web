@@ -287,5 +287,11 @@
   "blog.theme.preset.manuscript": "ਹੱਥ-ਲਿਖਤ",
   "blog.theme.preset.codex": "ਕੋਡੈਕਸ",
   "blog.theme.preset.architect": "ਵਾਸਤੂਕਾਰ",
-  "blog.theme.preset.chronicler": "ਇਤਿਹਾਸਕਾਰ"
+  "blog.theme.preset.chronicler": "ਇਤਿਹਾਸਕਾਰ",
+  "blog.menus.settings.justify": "Alignment",
+  "blog.menus.settings.justify.default": "Default (theme)",
+  "blog.menus.settings.presentation": "Layout",
+  "blog.menus.settings.presentation.panel": "Sidebar",
+  "blog.menus.settings.presentation.floating": "Floating",
+  "blog.menus.settings.hideOnMobile": "Hide on small screens"
 }

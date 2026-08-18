@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "許可證變更已排定於 {date} 生效。在此之前讀者會在作品上看到通知；目前的許可證仍然有效。",
   "workshop.translations.license.title": "翻譯許可證",
   "workshop.translations.license.default": "預設（{license}）",
-  "workshop.translations.license.viaOrg": "當您屬於該組織，或其成員之一翻譯該語言時，即可選用區域組織許可證。套用後，該翻譯會列入該組織的目錄，並將組織的份額加入該版本的收益分配（從您的部分扣除）。翻譯發佈後即鎖定。",
-  "workshop.translations.license.internationalCovered": "此作品的國際組織許可證涵蓋其所有翻譯。",
+  "workshop.translations.license.viaOrg": "當您屬於該組織，或其成員之一翻譯該語言時，即可選用涵蓋該語言的組織許可證。套用後，該翻譯會列入該組織的目錄，並將組織的份額加入該版本的收益分配（從您的部分扣除）。翻譯發佈後即鎖定。",
   "workshop.universe.forum.short": "宇宙論壇",
   "workshop.team.role.designer": "設計師",
   "workshop.team.role.production": "製作",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "音訊剪輯",
   "workshop.credit.role.soundEngineer": "音效工程師",
   "workshop.credit.role.composer": "作曲家",
-  "workshop.credit.role.betaReader": "測試讀者"
+  "workshop.credit.role.betaReader": "測試讀者",
+  "workshop.translations.license.coveredByOrg": "由此作品的組織許可證涵蓋。",
+  "legal.licenseAgreements": "組織許可證協議",
+  "legal.licenseTranslatorBudget": "由組織指派的譯者合計最多可獲得 {budget}%。",
+  "legal.licenseEndingOn": "將於 {date} 結束。在此之前一切維持有效。",
+  "legal.licenseNoticeTerms": "任何一方都可以結束這份許可證，並向讀者顯示 {days} 天的預告。結束之後，組織的份額回到您身上，讀者也會保留他們已經取得的權益。",
+  "legal.licenseAcceptedOn": "於 {date} 接受",
+  "legal.endLicense": "結束許可證"
 }

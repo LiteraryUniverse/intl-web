@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Licentiewijziging gepland voor {date}. Tot die tijd zien lezers een melding op het werk; de huidige licentie blijft van kracht.",
   "workshop.translations.license.title": "Vertaallicenties",
   "workshop.translations.license.default": "Standaard ({license})",
-  "workshop.translations.license.viaOrg": "Een regionale organisatielicentie wordt aangeboden wanneer je tot de organisatie behoort, of wanneer een van haar leden die taal vertaalt. Door deze toe te passen verschijnt de vertaling in de catalogus van die organisatie en wordt het aandeel van de organisatie toegevoegd aan de opbrengstverdeling van die editie (genomen uit jouw deel). De licentie wordt vergrendeld zodra de vertaling is gepubliceerd.",
-  "workshop.translations.license.internationalCovered": "De internationale organisatielicentie van dit werk dekt al zijn vertalingen.",
+  "workshop.translations.license.viaOrg": "Een organisatielicentie die de taal dekt wordt aangeboden wanneer je tot de organisatie behoort, of wanneer een van haar leden die taal vertaalt. Door deze toe te passen verschijnt de vertaling in de catalogus van die organisatie en wordt het aandeel van de organisatie toegevoegd aan de opbrengstverdeling van die editie (genomen uit jouw deel). De licentie wordt vergrendeld zodra de vertaling is gepubliceerd.",
   "workshop.revShare.mustMatchCreatorShare": "Scheppersrijen moeten opgeteld {creatorShare, number}% zijn omdat het platformaandeel vast is ingesteld op {platformShare, number}%.",
   "workshop.revShare.owner": "Eigenaar",
   "workshop.revShare.ownerLocked": "De eigenaar van het verhaal moet deel blijven uitmaken van de uitbetalingssplitsing.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio-editor",
   "workshop.credit.role.soundEngineer": "Geluidsingenieur",
   "workshop.credit.role.composer": "Componist",
-  "workshop.credit.role.betaReader": "Bètalezer"
+  "workshop.credit.role.betaReader": "Bètalezer",
+  "workshop.translations.license.coveredByOrg": "Gedekt door de organisatielicentie van het werk.",
+  "legal.licenseAgreements": "Licentieovereenkomsten met organisaties",
+  "legal.licenseTranslatorBudget": "Vertalers die door de organisatie worden aangewezen, kunnen samen tot {budget}% ontvangen.",
+  "legal.licenseEndingOn": "Loopt af op {date}. Tot dan blijft alles van kracht.",
+  "legal.licenseNoticeTerms": "Beide partijen kunnen deze licentie beëindigen met een opzegtermijn van {days} dagen die aan lezers wordt getoond. Daarna keert het aandeel van de organisatie terug naar jou en behouden lezers wat ze al hebben verdiend.",
+  "legal.licenseAcceptedOn": "Geaccepteerd op {date}",
+  "legal.endLicense": "Licentie beëindigen"
 }

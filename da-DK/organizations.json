@@ -78,7 +78,7 @@
   "org.roles.title": "Roller og rettigheder",
   "org.roles.intro": "En rolle giver et sæt rettigheder. Tilføj enkelte rettigheder oven på en rolle for finere styring.",
   "org.workProposal.title": "Foreslåede værker",
-  "org.workProposal.intro": "Tilbyd et af dine egne værker til denne organisation. Hvis en administrator accepterer, bliver organisationen ejer af det.",
+  "org.workProposal.intro": "Tilbyd et af dine egne værker til denne organisation under en af dens licenser. Hvis det accepteres, forbliver værket dit — organisationen får licensens rettigheder og sin andel af indtægterne.",
   "org.workProposal.propose": "Foreslå et værk",
   "org.workProposal.selectWork": "Værk der skal foreslås",
   "org.workProposal.note": "Besked til organisationen (valgfrit)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Fjern fra arkiv",
   "org.workshop.licensed": "Licenserede værker",
   "org.workshop.licensed.intro": "Værker ejet af deres skabere, som bærer en af din organisations licenser. Du kan promovere dem; redigering forbliver hos ejeren.",
-  "org.workshop.licensed.empty": "Ingen værker bærer dine licenser endnu."
+  "org.workshop.licensed.empty": "Ingen værker bærer dine licenser endnu.",
+  "org.roles.editor": "Chefredaktør",
+  "org.permissions.licensing": "Administrer licensering",
+  "org.curation.title": "Licenserede værker i abonnementer",
+  "org.curation.intro": "En licens giver dig mulighed for at inkludere et værk i dine abonnementer — det er ikke et krav. Fjern fluebenet ved et niveau for kun at sælge værket fra dit katalog; læserne beholder adgangen i 30 dage derefter.",
+  "org.carveOut.request": "Frigiv {language}?"
 }

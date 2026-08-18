@@ -78,7 +78,7 @@
   "org.roles.title": "Roles y permisos",
   "org.roles.intro": "Un rol otorga un conjunto de permisos. Añade permisos individuales sobre un rol para un control más preciso.",
   "org.workProposal.title": "Obras propuestas",
-  "org.workProposal.intro": "Ofrece una de tus obras a esta organización. Si un administrador la acepta, la organización pasa a ser su propietaria.",
+  "org.workProposal.intro": "Ofrece una de tus obras a esta organización bajo una de sus licencias. Si se acepta, la obra sigue siendo tuya — la organización obtiene los derechos de la licencia y su parte de los ingresos.",
   "org.workProposal.propose": "Proponer una obra",
   "org.workProposal.selectWork": "Obra a proponer",
   "org.workProposal.note": "Mensaje para la organización (opcional)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Desarchivar",
   "org.workshop.licensed": "Obras con licencia",
   "org.workshop.licensed.intro": "Obras de sus creadores que llevan una de las licencias de tu organización. Puedes promocionarlas; la edición sigue siendo del propietario.",
-  "org.workshop.licensed.empty": "Aún no hay obras con tus licencias."
+  "org.workshop.licensed.empty": "Aún no hay obras con tus licencias.",
+  "org.roles.editor": "Redactor jefe",
+  "org.permissions.licensing": "Gestionar las licencias",
+  "org.curation.title": "Obras con licencia en las suscripciones",
+  "org.curation.intro": "Una licencia te permite incluir una obra en tus suscripciones — no te obliga a ello. Desmarca un nivel para vender la obra solo desde tu catálogo; los lectores conservan el acceso durante 30 días después de eso.",
+  "org.carveOut.request": "¿Liberar {language}?"
 }

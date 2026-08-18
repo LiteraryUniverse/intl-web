@@ -109,5 +109,13 @@
   "notification.team.left": "{user} покинул команду «{workTitle}» ({role}).",
   "notification.team.compensationChanged": "Ваше вознаграждение за «{workTitle}» теперь: {compensation}.",
   "notificationExtra.team.viewInvitations": "Посмотреть приглашения",
-  "notificationExtra.team.goToWork": "Перейти к произведению"
+  "notificationExtra.team.goToWork": "Перейти к произведению",
+  "notification.orgLicense.proposed": "{organization}: предложение лицензии для «{work}» ({license}) ожидает решения.",
+  "notification.orgLicense.accepted": "Лицензия {license} для «{work}» с организацией {organization} теперь активна.",
+  "notification.orgLicense.rejected": "Предложение лицензии для «{work}» с организацией {organization} отклонено.",
+  "notification.orgLicense.terminated": "Лицензия {license} для «{work}» с организацией {organization} завершается — она остаётся активной в течение 30-дневного срока уведомления.",
+  "notification.orgLicense.carveOutRequested": "{organization}: автор произведения «{work}» просит освободить один язык из вашей лицензии.",
+  "notification.orgLicense.carveOutApproved": "{organization} освободила один язык произведения «{work}» — вы можете лицензировать этот перевод в другом месте.",
+  "notification.orgLicense.carveOutRejected": "{organization} сохранила своё языковое покрытие произведения «{work}».",
+  "notification.orgLicense.subscriptionRemoval": "Произведение «{work}» выйдет из подписки {organization} через 30 дней — до этого момента читатели сохраняют доступ."
 }

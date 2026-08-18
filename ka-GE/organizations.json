@@ -78,7 +78,7 @@
   "org.roles.title": "როლები და უფლებები",
   "org.roles.intro": "როლი ანიჭებს უფლებების ერთობლიობას. უფრო ზუსტი მართვისთვის როლს დაამატეთ ცალკეული უფლებები.",
   "org.workProposal.title": "შემოთავაზებული ნამუშევრები",
-  "org.workProposal.intro": "შესთავაზეთ ამ ორგანიზაციას თქვენი ერთ-ერთი ნამუშევარი. თუ ადმინისტრატორი დაეთანხმება, ორგანიზაცია გახდება მისი მფლობელი.",
+  "org.workProposal.intro": "შესთავაზეთ ამ ორგანიზაციას თქვენი ერთ-ერთი ნამუშევარი მისი რომელიმე ლიცენზიით. მიღების შემთხვევაში ნამუშევარი თქვენი რჩება — ორგანიზაცია იღებს ლიცენზიის უფლებებს და თავის წილს შემოსავლიდან.",
   "org.workProposal.propose": "ნამუშევრის შეთავაზება",
   "org.workProposal.selectWork": "შესათავაზებელი ნამუშევარი",
   "org.workProposal.note": "შეტყობინება ორგანიზაციისთვის (არასავალდებულო)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "არქივიდან ამოღება",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "მთავარი რედაქტორი",
+  "org.permissions.licensing": "ლიცენზირების მართვა",
+  "org.curation.title": "ლიცენზირებული ნაწარმოებები გამოწერებში",
+  "org.curation.intro": "ლიცენზია საშუალებას გაძლევთ, ნაწარმოები თქვენს გამოწერებში ჩართოთ — მაგრამ არ გავალდებულებთ. მოხსენით მონიშვნა საფეხურს, რომ ნაწარმოები მხოლოდ თქვენი კატალოგიდან გაიყიდოს; მკითხველები წვდომას ამის შემდეგ 30 დღე ინარჩუნებენ.",
+  "org.carveOut.request": "გავათავისუფლოთ {language}?"
 }

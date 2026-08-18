@@ -78,7 +78,7 @@
   "org.roles.title": "Peran miwah wewenang",
   "org.roles.intro": "Peran ngicén akéh wewenang. Wewehin wewenang siki-siki ring duur peran mangda kontrolné becikan.",
   "org.workProposal.title": "Karya sané kausulang",
-  "org.workProposal.intro": "Aturang silih tunggil karyan ragané ring organisasi puniki. Yéning admin nyak, organisasi dados sané nruénang.",
+  "org.workProposal.intro": "Aturang silih tunggil karyan ragané ring organisasi puniki nganggén silih tunggil lisensinnyané. Yéning katrima, karyané kantun druén ragané — organisasiné polih hak lisensi miwah pahnyané saking asil.",
   "org.workProposal.propose": "Usulang karya",
   "org.workProposal.selectWork": "Karya sané jagi kausulang",
   "org.workProposal.note": "Pesan majeng ring organisasi (opsional)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Unarchive",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "Pamimpin redaksi",
+  "org.permissions.licensing": "Ngatur lisensi",
+  "org.curation.title": "Karya malisensi ring langganan",
+  "org.curation.intro": "Lisensiné ngicénin ragané nyantumang karya ring langganan ragané — nénten kawajibang. Icalang cek ring silih tunggil tingkatan mangda karyané wantah kaadol saking katalog ragané; pamaos kantun polih akses salami 30 rahina sasampun punika.",
+  "org.carveOut.request": "Lebang {language}?"
 }

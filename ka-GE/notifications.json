@@ -109,5 +109,13 @@
   "notification.team.left": "მომხმარებელი {user} გავიდა {workTitle}-ის გუნდიდან ({role}).",
   "notification.team.compensationChanged": "თქვენი ანაზღაურება {workTitle}-ზე შეიცვალა: {compensation}.",
   "notificationExtra.team.viewInvitations": "მოწვევების ნახვა",
-  "notificationExtra.team.goToWork": "ნაწარმოებზე გადასვლა"
+  "notificationExtra.team.goToWork": "ნაწარმოებზე გადასვლა",
+  "notification.orgLicense.proposed": "{organization}: ლიცენზიის შეთავაზება ნამუშევრისთვის “{work}” ({license}) გადაწყვეტილებას ელოდება.",
+  "notification.orgLicense.accepted": "ლიცენზია {license} ნამუშევრისთვის “{work}” ორგანიზაციასთან {organization} უკვე აქტიურია.",
+  "notification.orgLicense.rejected": "ლიცენზიის შეთავაზება ნამუშევრისთვის “{work}” ორგანიზაციასთან {organization} უარყოფილია.",
+  "notification.orgLicense.terminated": "ლიცენზია {license} ნამუშევრისთვის “{work}” ორგანიზაციასთან {organization} სრულდება — ის აქტიური რჩება 30-დღიანი გაფრთხილების ვადის განმავლობაში.",
+  "notification.orgLicense.carveOutRequested": "{organization}: “{work}”-ის ავტორი ითხოვს ერთი ენის გათავისუფლებას თქვენი ლიცენზიიდან.",
+  "notification.orgLicense.carveOutApproved": "{organization}-მა გაათავისუფლა “{work}”-ის ერთი ენა — ამ თარგმანზე ლიცენზიის გაცემა სხვაგან შეგიძლიათ.",
+  "notification.orgLicense.carveOutRejected": "{organization}-მა შეინარჩუნა “{work}”-ის ენობრივი დაფარვა.",
+  "notification.orgLicense.subscriptionRemoval": "“{work}” ტოვებს {organization}-ის გამოწერას 30 დღეში — მკითხველები მანამდე ინარჩუნებენ წვდომას."
 }

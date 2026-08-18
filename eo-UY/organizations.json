@@ -78,7 +78,7 @@
   "org.roles.title": "Roloj kaj permesoj",
   "org.roles.intro": "Rolo donas aron da permesoj. Aldonu unuopajn permesojn super rolo por pli preciza regado.",
   "org.workProposal.title": "Proponitaj verkoj",
-  "org.workProposal.intro": "Proponu unu el viaj propraj verkoj al ĉi tiu organizo. Se administranto akceptas, la organizo iĝas ĝia posedanto.",
+  "org.workProposal.intro": "Proponu unu el viaj propraj verkoj al ĉi tiu organizo sub unu el ĝiaj permesiloj. Se ĝi estos akceptita, la verko restos via — la organizo ricevos la rajtojn de la permesilo kaj sian parton de la enspezoj.",
   "org.workProposal.propose": "Proponi verkon",
   "org.workProposal.selectWork": "Verko por proponi",
   "org.workProposal.note": "Mesaĝo al la organizo (nedeviga)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Malarkivi",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "Ĉefredaktoro",
+  "org.permissions.licensing": "Administri permesilojn",
+  "org.curation.title": "Permesitaj verkoj en abonoj",
+  "org.curation.intro": "Permesilo ebligas al vi inkluzivi verkon en viajn abonojn — ĝi ne devigas tion. Malmarku nivelon por vendi la verkon nur el via katalogo; legantoj konservas aliron dum 30 tagoj poste.",
+  "org.carveOut.request": "Ĉu liberigi la lingvon {language}?"
 }

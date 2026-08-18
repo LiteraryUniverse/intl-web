@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "License change scheduled for {date}. Readers see a notice on the work until then; the current license stays active.",
   "workshop.translations.license.title": "Translation licenses",
   "workshop.translations.license.default": "Default ({license})",
-  "workshop.translations.license.viaOrg": "A regional organization license is offered when you belong to the organization, or when one of its members translates that language. Applying it lists the translation in that organization's catalog and adds the organization's share to that edition's revenue split (taken from your part). It locks once the translation is published.",
-  "workshop.translations.license.internationalCovered": "This work's international organization license covers all its translations.",
+  "workshop.translations.license.viaOrg": "lo girzu jaspu poi vasru lo bangu cu se friti ca lo nu do cmima lo girzu kei .a lo nu pa lo cmima be ri cu fanva fi lo bangu .i lo nu pilno ri cu rinka lo nu lo se fanva cu se jmina lo ckusro be lo girzu .ije lo pagbu be lo girzu cu se jmina lo jdini fatri be lo selpapri (to se lebna lo do pagbu toi) .i ri se stela ca lo nu lo se fanva cu se gubgau",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "se vasru lo girzu jaspu pe lo se finti",
+  "legal.licenseAgreements": "lo girzu klesi tu'a dunda tugni",
+  "legal.licenseTranslatorBudget": ".i lo fanva prenu poi se cuxna lo girzu cu ka'e gunma cpacu lo su'e {budget}%",
+  "legal.licenseEndingOn": ".i fanmo ca {date} .i co'u ta ro da cu ranji lo ka vlipa",
+  "legal.licenseNoticeTerms": ".i do .a lo girzu cu ka'e sisti lo vi klesi tu'a dunda sepi'o lo {days} djedi notci poi se jarco lo tcidu prenu .i ba bo lo pagbu be lo girzu cu xruti do .ije lo tcidu prenu cu ralte lo ba'o se jerna",
+  "legal.licenseAcceptedOn": "se zanru ca {date}",
+  "legal.endLicense": "sisti lo klesi tu'a dunda"
 }

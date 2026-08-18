@@ -680,8 +680,7 @@
   "workshop.license.change.scheduled": "Pertukaran lesen dijadualkan pada {date}. Pembaca melihat notis pada karya sehingga itu; lesen semasa kekal aktif.",
   "workshop.translations.license.title": "Lesen terjemahan",
   "workshop.translations.license.default": "Lalai ({license})",
-  "workshop.translations.license.viaOrg": "Lesen organisasi serantau ditawarkan apabila anda menganggotai organisasi itu, atau apabila salah seorang ahlinya menterjemah bahasa tersebut. Menggunakannya menyenaraikan terjemahan itu dalam katalog organisasi berkenaan dan menambah bahagian organisasi pada pembahagian hasil edisi itu (diambil daripada bahagian anda). Ia dikunci setelah terjemahan diterbitkan.",
-  "workshop.translations.license.internationalCovered": "Lesen organisasi antarabangsa karya ini merangkumi semua terjemahannya.",
+  "workshop.translations.license.viaOrg": "Lesen organisasi yang meliputi bahasa itu ditawarkan apabila anda menganggotai organisasi itu, atau apabila salah seorang ahlinya menterjemah bahasa tersebut. Menggunakannya menyenaraikan terjemahan itu dalam katalog organisasi berkenaan dan menambah bahagian organisasi pada pembahagian hasil edisi itu (diambil daripada bahagian anda). Ia dikunci setelah terjemahan diterbitkan.",
   "workshop.universe.forum.short": "Universe forum",
   "workshop.team.role.designer": "Designer",
   "workshop.team.role.production": "Production",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Audio editor",
   "workshop.credit.role.soundEngineer": "Sound engineer",
   "workshop.credit.role.composer": "Composer",
-  "workshop.credit.role.betaReader": "Beta reader"
+  "workshop.credit.role.betaReader": "Beta reader",
+  "workshop.translations.license.coveredByOrg": "Diliputi oleh lesen organisasi karya ini.",
+  "legal.licenseAgreements": "Perjanjian lesen organisasi",
+  "legal.licenseTranslatorBudget": "Penterjemah yang ditugaskan oleh organisasi boleh menerima sehingga {budget}% secara keseluruhan.",
+  "legal.licenseEndingOn": "Tamat pada {date}. Sehingga itu semuanya kekal berkuat kuasa.",
+  "legal.licenseNoticeTerms": "Mana-mana pihak boleh menamatkan lesen ini dengan notis {days} hari yang dipaparkan kepada pembaca. Selepas itu bahagian organisasi kembali kepada anda dan pembaca mengekalkan apa yang sudah mereka peroleh.",
+  "legal.licenseAcceptedOn": "Diterima pada {date}",
+  "legal.endLicense": "Tamatkan lesen"
 }

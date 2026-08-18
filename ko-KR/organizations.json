@@ -80,7 +80,7 @@
   "org.roles.title": "역할 및 권한",
   "org.roles.intro": "역할은 권한 묶음을 부여합니다. 더 세밀하게 제어하려면 역할에 개별 권한을 추가하세요.",
   "org.workProposal.title": "제안된 작품",
-  "org.workProposal.intro": "자신의 작품을 이 조직에 제안하세요. 관리자가 수락하면 조직이 해당 작품의 소유자가 됩니다.",
+  "org.workProposal.intro": "자신의 작품을 이 조직의 라이선스 중 하나로 제안하세요. 수락되더라도 작품은 여전히 당신의 것입니다 — 조직은 라이선스에 명시된 권리와 수익 지분을 얻습니다.",
   "org.workProposal.propose": "작품 제안",
   "org.workProposal.selectWork": "제안할 작품",
   "org.workProposal.note": "조직에 보낼 메시지(선택)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe가 제시간에 응답하지 않았습니다. 지급 설정을 다시 시도해 주세요.",
   "org.workshop.licensed": "라이선스 작품",
   "org.workshop.licensed.intro": "창작자가 소유하며 조직의 라이선스 중 하나를 가진 작품입니다. 홍보는 할 수 있지만 편집은 소유자에게 남습니다.",
-  "org.workshop.licensed.empty": "아직 라이선스가 적용된 작품이 없습니다."
+  "org.workshop.licensed.empty": "아직 라이선스가 적용된 작품이 없습니다.",
+  "org.roles.editor": "편집장",
+  "org.permissions.licensing": "라이선스 관리",
+  "org.curation.title": "구독에 포함된 라이선스 작품",
+  "org.curation.intro": "라이선스가 있으면 작품을 구독에 포함할 수 있지만, 반드시 그래야 하는 것은 아닙니다. 등급의 선택을 해제하면 그 작품은 카탈로그에서 개별 판매로만 제공되며, 독자는 그 후 30일 동안 이용 권한을 유지합니다.",
+  "org.carveOut.request": "{language}을(를) 해제할까요?"
 }

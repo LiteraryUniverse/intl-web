@@ -80,7 +80,7 @@
   "org.roles.title": "ಪಾತ್ರಗಳು ಮತ್ತು ಅನುಮತಿಗಳು",
   "org.roles.intro": "ಪಾತ್ರವು ಅನುಮತಿಗಳ ಗುಂಪನ್ನು ನೀಡುತ್ತದೆ. ಹೆಚ್ಚು ಸೂಕ್ಷ್ಮ ನಿಯಂತ್ರಣಕ್ಕಾಗಿ ಪಾತ್ರದ ಮೇಲೆ ಪ್ರತ್ಯೇಕ ಅನುಮತಿಗಳನ್ನು ಸೇರಿಸಿ.",
   "org.workProposal.title": "ಪ್ರಸ್ತಾವಿತ ಕೃತಿಗಳು",
-  "org.workProposal.intro": "ನಿಮ್ಮ ಕೃತಿಗಳಲ್ಲಿ ಒಂದನ್ನು ಈ ಸಂಸ್ಥೆಗೆ ನೀಡಿ. ನಿರ್ವಾಹಕರು ಒಪ್ಪಿಕೊಂಡರೆ, ಸಂಸ್ಥೆಯೇ ಅದರ ಮಾಲೀಕರಾಗುತ್ತದೆ.",
+  "org.workProposal.intro": "ನಿಮ್ಮ ಕೃತಿಗಳಲ್ಲಿ ಒಂದನ್ನು ಈ ಸಂಸ್ಥೆಗೆ ಅದರ ಪರವಾನಗಿಗಳಲ್ಲಿ ಒಂದರ ಅಡಿಯಲ್ಲಿ ನೀಡಿ. ಸ್ವೀಕರಿಸಿದರೆ, ಕೃತಿ ನಿಮ್ಮದೇ ಆಗಿ ಉಳಿಯುತ್ತದೆ — ಸಂಸ್ಥೆಗೆ ಪರವಾನಗಿಯ ಹಕ್ಕುಗಳು ಮತ್ತು ಆದಾಯದಲ್ಲಿ ಅದರ ಪಾಲು ಸಿಗುತ್ತದೆ.",
   "org.workProposal.propose": "ಕೃತಿಯನ್ನು ಪ್ರಸ್ತಾಪಿಸಿ",
   "org.workProposal.selectWork": "ಪ್ರಸ್ತಾಪಿಸಬೇಕಾದ ಕೃತಿ",
   "org.workProposal.note": "ಸಂಸ್ಥೆಗೆ ಸಂದೇಶ (ಐಚ್ಛಿಕ)",
@@ -164,5 +164,10 @@
   "orgConnect.payouts.timeout": "Stripe ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಪಾವತಿಗಳನ್ನು ಮತ್ತೆ ಸೆಟಪ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ.",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "ಪ್ರಧಾನ ಸಂಪಾದಕ",
+  "org.permissions.licensing": "ಪರವಾನಗಿ ನಿರ್ವಹಣೆ",
+  "org.curation.title": "ಚಂದಾದಾರಿಕೆಗಳಲ್ಲಿ ಪರವಾನಗಿ ಪಡೆದ ಕೃತಿಗಳು",
+  "org.curation.intro": "ಕೃತಿಯನ್ನು ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಗಳಲ್ಲಿ ಸೇರಿಸಲು ಪರವಾನಗಿ ಅವಕಾಶ ಕೊಡುತ್ತದೆ — ಅದು ಕಡ್ಡಾಯವಲ್ಲ. ಕೃತಿಯನ್ನು ನಿಮ್ಮ ಕ್ಯಾಟಲಾಗ್‌ನಿಂದ ಮಾತ್ರ ಮಾರಾಟ ಮಾಡಲು ಶ್ರೇಣಿಯ ಗುರುತನ್ನು ತೆಗೆಯಿರಿ; ಅದಾದ ನಂತರ 30 ದಿನಗಳವರೆಗೆ ಓದುಗರು ಪ್ರವೇಶವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುತ್ತಾರೆ.",
+  "org.carveOut.request": "{language} — ಈ ಭಾಷೆಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆ?"
 }

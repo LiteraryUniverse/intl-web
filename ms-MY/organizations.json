@@ -78,7 +78,7 @@
   "org.roles.title": "Peranan dan kebenaran",
   "org.roles.intro": "Peranan memberikan satu set kebenaran. Tambah kebenaran individu pada peranan untuk kawalan yang lebih halus.",
   "org.workProposal.title": "Karya yang dicadangkan",
-  "org.workProposal.intro": "Tawarkan salah satu karya anda kepada organisasi ini. Jika pentadbir menerimanya, organisasi akan menjadi pemiliknya.",
+  "org.workProposal.intro": "Tawarkan salah satu karya anda kepada organisasi ini di bawah salah satu lesennya. Jika diterima, karya kekal milik anda — organisasi memperoleh hak lesen dan bahagiannya daripada hasil.",
   "org.workProposal.propose": "Cadangkan karya",
   "org.workProposal.selectWork": "Karya untuk dicadangkan",
   "org.workProposal.note": "Mesej kepada organisasi (pilihan)",
@@ -164,5 +164,10 @@
   "org.licenses.unarchive": "Keluarkan daripada arkib",
   "org.workshop.licensed": "Licensed works",
   "org.workshop.licensed.intro": "Works owned by their creators that carry one of your organization's licenses. You can promote them; editing stays with the owner.",
-  "org.workshop.licensed.empty": "No works carry your licenses yet."
+  "org.workshop.licensed.empty": "No works carry your licenses yet.",
+  "org.roles.editor": "Ketua editor",
+  "org.permissions.licensing": "Urus pelesenan",
+  "org.curation.title": "Karya berlesen dalam langganan",
+  "org.curation.intro": "Lesen membolehkan anda memasukkan sesebuah karya ke dalam langganan anda — ia bukan kewajipan. Nyahtanda sesuatu peringkat untuk menjual karya itu daripada katalog anda sahaja; pembaca mengekalkan akses selama 30 hari selepas itu.",
+  "org.carveOut.request": "Lepaskan {language}?"
 }

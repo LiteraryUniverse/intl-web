@@ -534,8 +534,7 @@
   "workshop.license.change.scheduled": "Licensændring planlagt til {date}. Læserne ser et varsel på værket indtil da; den nuværende licens forbliver aktiv.",
   "workshop.translations.license.title": "Oversættelseslicenser",
   "workshop.translations.license.default": "Standard ({license})",
-  "workshop.translations.license.viaOrg": "En regional organisationslicens tilbydes, når du tilhører organisationen, eller når et af dens medlemmer oversætter det pågældende sprog. Anvendes den, opføres oversættelsen i organisationens katalog, og organisationens andel tilføjes til den udgaves indtægtsfordeling (taget fra din del). Den låses, når oversættelsen udgives.",
-  "workshop.translations.license.internationalCovered": "Dette værks internationale organisationslicens dækker alle dets oversættelser.",
+  "workshop.translations.license.viaOrg": "En organisationslicens, der dækker sproget, tilbydes, når du tilhører organisationen, eller når et af dens medlemmer oversætter det pågældende sprog. Anvendes den, opføres oversættelsen i organisationens katalog, og organisationens andel tilføjes til den udgaves indtægtsfordeling (taget fra din del). Den låses, når oversættelsen udgives.",
   "workshop.revShare.mustMatchCreatorShare": "Creator-rækkerne skal tilsammen udgøre {creatorShare, number}%, fordi platformens andel er fastsat til {platformShare, number}%.",
   "workshop.revShare.owner": "Ejer",
   "workshop.revShare.ownerLocked": "Historiens ejer skal fortsat være en del af udbetalingsdelingen.",
@@ -797,5 +796,12 @@
   "workshop.credit.role.audioEditor": "Lydredaktør",
   "workshop.credit.role.soundEngineer": "Lydtekniker",
   "workshop.credit.role.composer": "Komponist",
-  "workshop.credit.role.betaReader": "Betalæser"
+  "workshop.credit.role.betaReader": "Betalæser",
+  "workshop.translations.license.coveredByOrg": "Dækket af værkets organisationslicens.",
+  "legal.licenseAgreements": "Organisationslicensaftaler",
+  "legal.licenseTranslatorBudget": "Oversættere udpeget af organisationen kan tilsammen modtage op til {budget}%.",
+  "legal.licenseEndingOn": "Slutter {date}. Indtil da forbliver alt i kraft.",
+  "legal.licenseNoticeTerms": "Begge parter kan afslutte denne licens med et varsel på {days} dage, der vises for læserne. Derefter går organisationens andel tilbage til dig, og læserne beholder det, de allerede har optjent.",
+  "legal.licenseAcceptedOn": "Accepteret den {date}",
+  "legal.endLicense": "Afslut licens"
 }
