@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Bestuur lisensiëring",
   "org.curation.title": "Gelisensieerde werke in intekeninge",
   "org.curation.intro": "'n Lisensie laat jou toe om 'n werk by jou intekeninge in te sluit — dit verplig jou nie daartoe nie. Ontmerk 'n vlak om die werk slegs uit jou katalogus te verkoop; lesers behou daarna nog 30 dae toegang.",
-  "org.carveOut.request": "{language} vrystel?"
+  "org.carveOut.request": "{language} vrystel?",
+  "org.translators.intro": "Wys jou lede aan om 'n gelisensieerde taal te vertaal. Hulle ontvang 'n uitnodiging en besluit self.",
+  "org.translators.share": "Aandeel (maks. {budget}%)",
+  "org.translators.assign": "Wys vertaler aan"
 }

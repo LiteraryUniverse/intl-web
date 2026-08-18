@@ -169,5 +169,8 @@
   "org.permissions.licensing": "vlipa lo jaspu",
   "org.curation.title": "lo se curmi se finti bu'u lo selpleji",
   "org.curation.intro": ".i lo klesi tu'a dunda cu curmi lo nu do jmina lo se finti lo do selpleji gi'e na bilga do .i ko na cuxna lo klesi tezu'e lo nu vecnu lo se finti fi lo do liste po'o .i ba bo lo tcidu prenu cu ralte lo nu ka'e tcidu ze'a lo 30 djedi",
-  "org.carveOut.request": "xu zifre gau lo bangu po'u {language}"
+  "org.carveOut.request": "xu zifre gau lo bangu po'u {language}",
+  "org.translators.intro": ".i ko cuxna lo do cmima poi fanva lo se curmi bangu .i ra cpacu lo friti gi'e sezyjdice",
+  "org.translators.share": "fatri (lo su'e {budget}%)",
+  "org.translators.assign": "cuxna lo fanva prenu"
 }

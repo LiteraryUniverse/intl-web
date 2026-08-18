@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Ngatur lisensi",
   "org.curation.title": "Karya berlisensi ing langganan",
   "org.curation.intro": "Lisensi ngidini sampeyan nglebokake karya ing langgananmu — nanging ora mewajibake. Busak centhang ing sawijining tingkatan supaya karya kasebut mung didol saka katalogmu; pamaca tetep duwe akses sajrone 30 dina sawise iku.",
-  "org.carveOut.request": "Bebasake {language}?"
+  "org.carveOut.request": "Bebasake {language}?",
+  "org.translators.intro": "Tunjuk anggota sampeyan kanggo nerjemahake basa sing dilisensi. Dheweke bakal nampa undhangan lan mutusake dhewe.",
+  "org.translators.share": "Bagean (paling akeh {budget}%)",
+  "org.translators.assign": "Tunjuk penerjemah"
 }

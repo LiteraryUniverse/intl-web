@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Lizenzierung verwalten",
   "org.curation.title": "Lizenzierte Werke in Abonnements",
   "org.curation.intro": "Eine Lizenz erlaubt Ihnen, ein Werk in Ihre Abonnements aufzunehmen — sie verpflichtet Sie aber nicht dazu. Deaktivieren Sie eine Stufe, um das Werk nur aus Ihrem Katalog zu verkaufen; Leser behalten danach noch 30 Tage lang Zugang.",
-  "org.carveOut.request": "{language} freigeben?"
+  "org.carveOut.request": "{language} freigeben?",
+  "org.translators.intro": "Beauftragen Sie Ihre Mitglieder mit der Übersetzung einer lizenzierten Sprache. Sie erhalten eine Einladung und entscheiden selbst.",
+  "org.translators.share": "Anteil (max. {budget}%)",
+  "org.translators.assign": "Übersetzer beauftragen"
 }

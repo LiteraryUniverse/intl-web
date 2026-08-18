@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Pamahalaan ang paglilisensya",
   "org.curation.title": "Mga lisensyadong akda sa mga subscription",
   "org.curation.intro": "Pinapayagan ka ng lisensya na isama ang isang akda sa iyong mga subscription — hindi ito kinakailangan. Alisan ng tsek ang isang antas upang ipagbili ang akda mula sa iyong katalogo lamang; mananatili ang access ng mga mambabasa nang 30 araw pagkatapos noon.",
-  "org.carveOut.request": "Palayain ang {language}?"
+  "org.carveOut.request": "Palayain ang {language}?",
+  "org.translators.intro": "Italaga ang iyong mga miyembro upang isalin ang isang lisensyadong wika. Makakatanggap sila ng imbitasyon at sila mismo ang magpapasya.",
+  "org.translators.share": "Bahagi (hanggang {budget}%)",
+  "org.translators.assign": "Italaga ang tagasalin"
 }

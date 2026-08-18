@@ -169,5 +169,8 @@
   "org.permissions.licensing": "ניהול רישוי",
   "org.curation.title": "יצירות ברישיון במינויים",
   "org.curation.intro": "רישיון מאפשר לכם לכלול יצירה במינויים שלכם — הוא לא מחייב. בטלו סימון של רמה כדי למכור את היצירה מהקטלוג שלכם בלבד; הקוראים שומרים על הגישה למשך 30 יום לאחר מכן.",
-  "org.carveOut.request": "לשחרר את {language}?"
+  "org.carveOut.request": "לשחרר את {language}?",
+  "org.translators.intro": "הציבו את חברי הארגון לתרגום שפה מורשית. הם מקבלים הזמנה ומחליטים בעצמם.",
+  "org.translators.share": "חלק (עד {budget}%)",
+  "org.translators.assign": "הצבת מתרגם"
 }

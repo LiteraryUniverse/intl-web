@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Quản lý cấp phép",
   "org.curation.title": "Tác phẩm được cấp phép trong gói đăng ký",
   "org.curation.intro": "Giấy phép cho phép bạn đưa một tác phẩm vào các gói đăng ký — nhưng không bắt buộc. Bỏ chọn một hạng để chỉ bán tác phẩm từ danh mục của bạn; người đọc vẫn giữ quyền truy cập trong 30 ngày sau đó.",
-  "org.carveOut.request": "Nhượng lại {language}?"
+  "org.carveOut.request": "Nhượng lại {language}?",
+  "org.translators.intro": "Chỉ định thành viên của bạn dịch một ngôn ngữ đã được cấp phép. Họ sẽ nhận lời mời và tự quyết định.",
+  "org.translators.share": "Phần (tối đa {budget}%)",
+  "org.translators.assign": "Chỉ định dịch giả"
 }

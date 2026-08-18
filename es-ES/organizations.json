@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Gestionar las licencias",
   "org.curation.title": "Obras con licencia en las suscripciones",
   "org.curation.intro": "Una licencia te permite incluir una obra en tus suscripciones — no te obliga a ello. Desmarca un nivel para vender la obra solo desde tu catálogo; los lectores conservan el acceso durante 30 días después de eso.",
-  "org.carveOut.request": "¿Liberar {language}?"
+  "org.carveOut.request": "¿Liberar {language}?",
+  "org.translators.intro": "Asigna a tus miembros para traducir un idioma licenciado. Reciben una invitación y deciden ellos mismos.",
+  "org.translators.share": "Parte (máx. {budget}%)",
+  "org.translators.assign": "Asignar traductor"
 }

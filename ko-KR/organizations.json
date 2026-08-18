@@ -169,5 +169,8 @@
   "org.permissions.licensing": "라이선스 관리",
   "org.curation.title": "구독에 포함된 라이선스 작품",
   "org.curation.intro": "라이선스가 있으면 작품을 구독에 포함할 수 있지만, 반드시 그래야 하는 것은 아닙니다. 등급의 선택을 해제하면 그 작품은 카탈로그에서 개별 판매로만 제공되며, 독자는 그 후 30일 동안 이용 권한을 유지합니다.",
-  "org.carveOut.request": "{language}을(를) 해제할까요?"
+  "org.carveOut.request": "{language}을(를) 해제할까요?",
+  "org.translators.intro": "라이선스를 받은 언어를 번역할 구성원을 지정하세요. 구성원은 초대를 받고 직접 결정합니다.",
+  "org.translators.share": "몫 (최대 {budget}%)",
+  "org.translators.assign": "번역자 지정"
 }

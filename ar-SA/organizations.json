@@ -169,5 +169,8 @@
   "org.permissions.licensing": "إدارة الترخيص",
   "org.curation.title": "الأعمال المرخّصة في الاشتراكات",
   "org.curation.intro": "يتيح لك الترخيص إدراج العمل في اشتراكاتك — لكنه لا يُلزمك بذلك. ألغِ تحديد مستوى لبيع العمل من كتالوجك فقط؛ ويحتفظ القراء بالوصول لمدة 30 يومًا بعد ذلك.",
-  "org.carveOut.request": "هل تريد التنازل عن {language}؟"
+  "org.carveOut.request": "هل تريد التنازل عن {language}؟",
+  "org.translators.intro": "عيّن أعضاءك لترجمة لغة مرخّصة. يتلقون دعوة ويقرّرون بأنفسهم.",
+  "org.translators.share": "الحصة (بحد أقصى {budget}%)",
+  "org.translators.assign": "تعيين مترجم"
 }

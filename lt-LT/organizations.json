@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Tvarkyti licencijavimą",
   "org.curation.title": "Licencijuoti kūriniai prenumeratose",
   "org.curation.intro": "Licencija leidžia įtraukti kūrinį į jūsų prenumeratas — bet neįpareigoja. Nuimkite pakopos žymėjimą, kad kūrinys būtų parduodamas tik iš katalogo; skaitytojai prieigą išlaikys dar 30 dienų.",
-  "org.carveOut.request": "Atlaisvinti kalbą {language}?"
+  "org.carveOut.request": "Atlaisvinti kalbą {language}?",
+  "org.translators.intro": "Paskirkite savo narius versti licencijuotą kalbą. Jie gauna kvietimą ir sprendžia patys.",
+  "org.translators.share": "Dalis (ne daugiau kaip {budget} %)",
+  "org.translators.assign": "Paskirti vertėją"
 }

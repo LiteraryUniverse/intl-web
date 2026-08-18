@@ -169,5 +169,8 @@
   "org.permissions.licensing": "Administrer licensering",
   "org.curation.title": "Licenserede værker i abonnementer",
   "org.curation.intro": "En licens giver dig mulighed for at inkludere et værk i dine abonnementer — det er ikke et krav. Fjern fluebenet ved et niveau for kun at sælge værket fra dit katalog; læserne beholder adgangen i 30 dage derefter.",
-  "org.carveOut.request": "Frigiv {language}?"
+  "org.carveOut.request": "Frigiv {language}?",
+  "org.translators.intro": "Udpeg dine medlemmer til at oversætte et licenseret sprog. De modtager en invitation og beslutter selv.",
+  "org.translators.share": "Andel (maks. {budget}%)",
+  "org.translators.assign": "Udpeg oversætter"
 }
