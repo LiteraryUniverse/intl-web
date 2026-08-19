@@ -2665,6 +2665,7 @@
   "licensing.organizations.curation": "A license gives you the right to include a work in your subscriptions, not an obligation: you decide which licensed works go into which plan and which stay in your catalogue for sale only. Taking a work out of a subscription also takes {days} days, so readers are never cut off without warning.",
   "licensing.readers.title": "For readers",
   "licensing.readers.body": "When a work is about to leave an organization's license or subscription, a notice appears on the work at least {days} days beforehand. Anything you bought stays yours, and permanent access you already earned through a subscription is kept.",
+  "licenses.editionSwitchNotice": "This translation leaves its organization licence on {date} — access provided through it may end then.",
   "flashnews.admin": "Flashnews Admin",
   "flashnews.create": "Create a new news flash",
   "flashnews.startsAt": "Start displaying this message at",
