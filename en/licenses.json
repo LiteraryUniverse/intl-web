@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "A license can cover every language or a specific list. If you hold a work in all languages and its author wants another organization for one translation, that language is only released with your approval — and it returns to you automatically when the other license ends.",
   "licensing.organizations.curation": "A license gives you the right to include a work in your subscriptions, not an obligation: you decide which licensed works go into which plan and which stay in your catalogue for sale only. Taking a work out of a subscription also takes {days} days, so readers are never cut off without warning.",
   "licensing.readers.title": "For readers",
-  "licensing.readers.body": "When a work is about to leave an organization's license or subscription, a notice appears on the work at least {days} days beforehand. Anything you bought stays yours, and permanent access you already earned through a subscription is kept."
+  "licensing.readers.body": "When a work is about to leave an organization's license or subscription, a notice appears on the work at least {days} days beforehand. Anything you bought stays yours, and permanent access you already earned through a subscription is kept.",
+  "licenses.editionSwitchNotice": "This translation leaves its organization licence on {date} — access provided through it may end then."
 }
