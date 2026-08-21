@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: autor díla „{work}“ žádá o uvolnění jednoho jazyka z vaší licence.",
   "notification.orgLicense.carveOutApproved": "{organization} uvolnila jeden jazyk díla „{work}“ — tento překlad můžete licencovat jinde.",
   "notification.orgLicense.carveOutRejected": "{organization} si ponechala své jazykové pokrytí díla „{work}“.",
-  "notification.orgLicense.subscriptionRemoval": "Dílo „{work}“ opustí předplatné organizace {organization} za 30 dní — čtenáři si do té doby přístup ponechají."
+  "notification.orgLicense.subscriptionRemoval": "Dílo „{work}“ opustí předplatné organizace {organization} za 30 dní — čtenáři si do té doby přístup ponechají.",
+  "notification.orgLicense.withdrawn": "Návrh licence pro „{work}“ s {organization} byl stažen.",
+  "notification.orgLicense.ended": "Licence {license} pro „{work}“ s {organization} skončila — podíl organizace i přístup skončily."
 }

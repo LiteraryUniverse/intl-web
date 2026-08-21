@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: Der Autor von „{work}“ bittet darum, eine Sprache aus eurer Lizenz freizugeben.",
   "notification.orgLicense.carveOutApproved": "{organization} hat eine Sprache von „{work}“ freigegeben — du kannst diese Übersetzung anderweitig lizenzieren.",
   "notification.orgLicense.carveOutRejected": "{organization} hat seine Sprachabdeckung von „{work}“ beibehalten.",
-  "notification.orgLicense.subscriptionRemoval": "„{work}“ verlässt das Abonnement von {organization} in 30 Tagen — Leser behalten bis dahin den Zugang."
+  "notification.orgLicense.subscriptionRemoval": "„{work}“ verlässt das Abonnement von {organization} in 30 Tagen — Leser behalten bis dahin den Zugang.",
+  "notification.orgLicense.withdrawn": "Der Lizenzvorschlag für „{work}“ mit {organization} wurde zurückgezogen.",
+  "notification.orgLicense.ended": "Die Lizenz {license} für „{work}“ mit {organization} ist beendet — Anteil und Zugang der Organisation sind erloschen."
 }

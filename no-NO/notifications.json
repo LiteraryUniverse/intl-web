@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: forfatteren av «{work}» ber om å frigi ett språk fra lisensen deres.",
   "notification.orgLicense.carveOutApproved": "{organization} frigjorde et språk av «{work}» — du kan lisensiere den oversettelsen et annet sted.",
   "notification.orgLicense.carveOutRejected": "{organization} beholdt språkdekningen sin av «{work}».",
-  "notification.orgLicense.subscriptionRemoval": "«{work}» forlater {organization} sitt abonnement om 30 dager — leserne beholder tilgangen til da."
+  "notification.orgLicense.subscriptionRemoval": "«{work}» forlater {organization} sitt abonnement om 30 dager — leserne beholder tilgangen til da.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

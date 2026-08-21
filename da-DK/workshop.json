@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Slutter {date}. Indtil da forbliver alt i kraft.",
   "legal.licenseNoticeTerms": "Begge parter kan afslutte denne licens med et varsel på {days} dage, der vises for læserne. Derefter går organisationens andel tilbage til dig, og læserne beholder det, de allerede har optjent.",
   "legal.licenseAcceptedOn": "Accepteret den {date}",
-  "legal.endLicense": "Afslut licens"
+  "legal.endLicense": "Afslut licens",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

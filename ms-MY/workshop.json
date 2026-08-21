@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Tamat pada {date}. Sehingga itu semuanya kekal berkuat kuasa.",
   "legal.licenseNoticeTerms": "Mana-mana pihak boleh menamatkan lesen ini dengan notis {days} hari yang dipaparkan kepada pembaca. Selepas itu bahagian organisasi kembali kepada anda dan pembaca mengekalkan apa yang sudah mereka peroleh.",
   "legal.licenseAcceptedOn": "Diterima pada {date}",
-  "legal.endLicense": "Tamatkan lesen"
+  "legal.endLicense": "Tamatkan lesen",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

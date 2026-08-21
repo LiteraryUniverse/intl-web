@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} मा समाप्त हुँदै। तबसम्म सबै कुरा लागू रहन्छ।",
   "legal.licenseNoticeTerms": "कुनै पनि पक्षले यो लाइसेन्स {days} दिनको सूचना दिएर अन्त्य गर्न सक्छ, जुन सूचना पाठकहरूलाई देखाइन्छ। त्यसपछि संगठनको हिस्सा तपाईंकहाँ फर्कन्छ र पाठकहरूले पहिल्यै प्राप्त गरेको कुरा उनीहरूसँगै रहन्छ।",
   "legal.licenseAcceptedOn": "{date} मा स्वीकार गरिएको",
-  "legal.endLicense": "लाइसेन्स अन्त्य गर्नुहोस्"
+  "legal.endLicense": "लाइसेन्स अन्त्य गर्नुहोस्",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

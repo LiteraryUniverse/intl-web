@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "ينتهي في {date}. وحتى ذلك الحين يبقى كل شيء ساريًا.",
   "legal.licenseNoticeTerms": "يمكن لأي من الطرفين إنهاء هذا الترخيص بإشعار مدته {days} يومًا يظهر للقراء. وبعد ذلك تعود حصة المنظمة إليك ويحتفظ القراء بما كسبوه بالفعل.",
   "legal.licenseAcceptedOn": "قُبل في {date}",
-  "legal.endLicense": "إنهاء الترخيص"
+  "legal.endLicense": "إنهاء الترخيص",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

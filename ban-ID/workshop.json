@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Puput ring {date}. Kantos punika makasami kantun mamargi.",
   "legal.licenseNoticeTerms": "Silih tunggil pihak dados muputang lisensi puniki antuk galah pawarah {days} rahina sané kacingakin olih pamaos. Sasampun punika bagian organisasiné mawali ring ragané tur pamaos kantun ngamolihang napi sané sampun kapolihang ipun.",
   "legal.licenseAcceptedOn": "Katrima ring {date}",
-  "legal.endLicense": "Puputang lisensi"
+  "legal.endLicense": "Puputang lisensi",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Véget ér: {date}. Addig minden érvényben marad.",
   "legal.licenseNoticeTerms": "A licencet bármelyik fél megszüntetheti {days} napos felmondási idővel, amely az olvasók számára is megjelenik. Utána a szervezet részesedése visszaszáll rád, az olvasók pedig megtartják, amit már megszereztek.",
   "legal.licenseAcceptedOn": "Elfogadva: {date}",
-  "legal.endLicense": "Licenc megszüntetése"
+  "legal.endLicense": "Licenc megszüntetése",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

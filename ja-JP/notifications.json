@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: 「{work}」の著者が、ライセンスから 1 つの言語を解放するよう求めています。",
   "notification.orgLicense.carveOutApproved": "{organization} が「{work}」の 1 言語を解放しました — その翻訳を他社にライセンスできます。",
   "notification.orgLicense.carveOutRejected": "{organization} は「{work}」の言語範囲を維持しました。",
-  "notification.orgLicense.subscriptionRemoval": "「{work}」は 30 日後に {organization} のサブスクリプションから離脱します — それまで読者はアクセスを保持します。"
+  "notification.orgLicense.subscriptionRemoval": "「{work}」は 30 日後に {organization} のサブスクリプションから離脱します — それまで読者はアクセスを保持します。",
+  "notification.orgLicense.withdrawn": "「{work}」の{organization}とのライセンス提案は取り下げられました。",
+  "notification.orgLicense.ended": "「{work}」の{organization}とのライセンス{license}が終了しました。組織の取り分とアクセスは停止しました。"
 }

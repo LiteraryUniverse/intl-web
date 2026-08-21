@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} ਨੂੰ ਖ਼ਤਮ ਹੋ ਰਿਹਾ ਹੈ। ਉਦੋਂ ਤੱਕ ਸਭ ਕੁਝ ਲਾਗੂ ਰਹਿੰਦਾ ਹੈ।",
   "legal.licenseNoticeTerms": "ਕੋਈ ਵੀ ਧਿਰ ਇਹ ਲਾਇਸੈਂਸ {days} ਦਿਨਾਂ ਦੇ ਨੋਟਿਸ ਨਾਲ ਖ਼ਤਮ ਕਰ ਸਕਦੀ ਹੈ, ਜੋ ਪਾਠਕਾਂ ਨੂੰ ਦਿਖਾਇਆ ਜਾਂਦਾ ਹੈ। ਉਸ ਤੋਂ ਬਾਅਦ ਸੰਗਠਨ ਦਾ ਹਿੱਸਾ ਤੁਹਾਨੂੰ ਵਾਪਸ ਮਿਲ ਜਾਂਦਾ ਹੈ ਅਤੇ ਪਾਠਕਾਂ ਕੋਲ ਉਹ ਬਰਕਰਾਰ ਰਹਿੰਦਾ ਹੈ ਜੋ ਉਹ ਪਹਿਲਾਂ ਹੀ ਕਮਾ ਚੁੱਕੇ ਹਨ।",
   "legal.licenseAcceptedOn": "{date} ਨੂੰ ਸਵੀਕਾਰ ਕੀਤਾ ਗਿਆ",
-  "legal.endLicense": "ਲਾਇਸੈਂਸ ਖ਼ਤਮ ਕਰੋ"
+  "legal.endLicense": "ਲਾਇਸੈਂਸ ਖ਼ਤਮ ਕਰੋ",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

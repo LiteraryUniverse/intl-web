@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: автор произведения «{work}» просит освободить один язык из вашей лицензии.",
   "notification.orgLicense.carveOutApproved": "{organization} освободила один язык произведения «{work}» — вы можете лицензировать этот перевод в другом месте.",
   "notification.orgLicense.carveOutRejected": "{organization} сохранила своё языковое покрытие произведения «{work}».",
-  "notification.orgLicense.subscriptionRemoval": "Произведение «{work}» выйдет из подписки {organization} через 30 дней — до этого момента читатели сохраняют доступ."
+  "notification.orgLicense.subscriptionRemoval": "Произведение «{work}» выйдет из подписки {organization} через 30 дней — до этого момента читатели сохраняют доступ.",
+  "notification.orgLicense.withdrawn": "Предложение лицензии на «{work}» с {organization} отозвано.",
+  "notification.orgLicense.ended": "Лицензия {license} на «{work}» с {organization} завершена — доля и доступ организации прекращены."
 }

@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: “{work}” రచయిత మీ లైసెన్సు నుండి ఒక భాషను విడుదల చేయాలని కోరుతున్నారు.",
   "notification.orgLicense.carveOutApproved": "{organization} “{work}” యొక్క ఒక భాషను విడుదల చేసింది — ఆ అనువాదాన్ని మీరు వేరే చోట లైసెన్సు ఇవ్వవచ్చు.",
   "notification.orgLicense.carveOutRejected": "{organization} “{work}” యొక్క తన భాషా పరిధిని కొనసాగించింది.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 రోజుల్లో {organization} సభ్యత్వం నుండి వైదొలుగుతుంది — అప్పటివరకు పాఠకులు యాక్సెస్‌ను కలిగి ఉంటారు."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 రోజుల్లో {organization} సభ్యత్వం నుండి వైదొలుగుతుంది — అప్పటివరకు పాఠకులు యాక్సెస్‌ను కలిగి ఉంటారు.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

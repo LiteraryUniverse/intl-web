@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} அன்று முடிவடைகிறது. அதுவரை அனைத்தும் அமலில் இருக்கும்.",
   "legal.licenseNoticeTerms": "இரு தரப்பிலும் யார் வேண்டுமானாலும் இந்த உரிமத்தை முடிவுக்குக் கொண்டுவரலாம்; வாசகர்களுக்குக் காட்டப்படும் {days} நாள் அறிவிப்புக் காலம் பொருந்தும். அதன் பிறகு அமைப்பின் பங்கு உங்களிடமே திரும்பும்; வாசகர்கள் ஏற்கனவே ஈட்டியதைத் தக்கவைத்துக்கொள்வார்கள்.",
   "legal.licenseAcceptedOn": "{date} அன்று ஏற்கப்பட்டது",
-  "legal.endLicense": "உரிமத்தை முடிக்கவும்"
+  "legal.endLicense": "உரிமத்தை முடிக்கவும்",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

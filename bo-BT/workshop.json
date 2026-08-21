@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} ལ་མཇུག་རྫོགས། དེ་བར་དུ་ཚང་མ་སྔར་བཞིན་གནས།",
   "legal.licenseNoticeTerms": "ཕྱོགས་གང་རུང་གིས་ཀློག་མཁན་ཚོར་སྟོན་པའི་ཉིན {days} གི་བརྡ་ཐོ་དང་བཅས་ཆོག་མཆན་འདི་མཇུག་བསྒྲིལ་ཆོག དེ་རྗེས་ཚོགས་པའི་བགོ་སྐལ་ཁྱེད་ལ་ཕྱིར་ལོག་ཅིང་། ཀློག་མཁན་ཚོས་ཐོབ་ཟིན་པ་རྣམས་སོར་འཛིན།",
   "legal.licenseAcceptedOn": "{date} ལ་དང་ལེན་བྱས།",
-  "legal.endLicense": "ཆོག་མཆན་མཇུག་བསྒྲིལ།"
+  "legal.endLicense": "ཆོག་མཆན་མཇུག་བསྒྲིལ།",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Termina em {date}. Até lá, tudo continua valendo.",
   "legal.licenseNoticeTerms": "Qualquer um dos lados pode encerrar esta licença com um aviso prévio de {days} dias exibido aos leitores. Depois, a participação da organização volta para você e os leitores mantêm o que já conquistaram.",
   "legal.licenseAcceptedOn": "Aceita em {date}",
-  "legal.endLicense": "Encerrar licença"
+  "legal.endLicense": "Encerrar licença",
+  "workshop.license.adoptOrg.proposed": "Seu pedido foi enviado a {org}. A licença se aplica assim que for aceita; você será notificado.",
+  "workshop.license.requiresApproval": "Você não é membro de {org} — ao salvar, um pedido de licença é enviado, e a licença só se aplica depois de aceita."
 }

@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: hinihiling ng may-akda ng “{work}” na palayain ang isang wika mula sa inyong lisensya.",
   "notification.orgLicense.carveOutApproved": "Pinalaya ng {organization} ang isang wika ng “{work}” — maaari mong ilisensya ang pagsasaling iyon sa ibang lugar.",
   "notification.orgLicense.carveOutRejected": "Pinanatili ng {organization} ang saklaw nitong mga wika para sa “{work}”.",
-  "notification.orgLicense.subscriptionRemoval": "Aalis ang “{work}” sa subscription ng {organization} sa loob ng 30 araw — mananatili ang access ng mga mambabasa hanggang noon."
+  "notification.orgLicense.subscriptionRemoval": "Aalis ang “{work}” sa subscription ng {organization} sa loob ng 30 araw — mananatili ang access ng mga mambabasa hanggang noon.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

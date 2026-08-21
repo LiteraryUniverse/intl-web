@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: “{work}” चे लेखक तुमच्या परवान्यातून एक भाषा मोकळी करण्याची विनंती करत आहेत.",
   "notification.orgLicense.carveOutApproved": "{organization} ने “{work}” ची एक भाषा मोकळी केली — ते भाषांतर तुम्ही इतरत्र परवानाकृत करू शकता.",
   "notification.orgLicense.carveOutRejected": "{organization} ने “{work}” चे भाषा कव्हरेज कायम ठेवले.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 दिवसांत {organization} च्या सदस्यतेतून बाहेर पडेल — वाचक तोपर्यंत प्रवेश टिकवून ठेवतील."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 दिवसांत {organization} च्या सदस्यतेतून बाहेर पडेल — वाचक तोपर्यंत प्रवेश टिकवून ठेवतील.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

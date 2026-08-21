@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Prend fin le {date}. Jusque-là, tout reste en vigueur.",
   "legal.licenseNoticeTerms": "Chacune des deux parties peut mettre fin à cette licence avec un préavis de {days} jours affiché aux lecteurs. Ensuite, la part de l'organisation vous revient et les lecteurs conservent ce qu'ils ont déjà obtenu.",
   "legal.licenseAcceptedOn": "Acceptée le {date}",
-  "legal.endLicense": "Mettre fin à la licence"
+  "legal.endLicense": "Mettre fin à la licence",
+  "workshop.license.adoptOrg.proposed": "Votre demande a été envoyée à {org}. La licence s’appliquera dès son acceptation ; vous serez prévenu.",
+  "workshop.license.requiresApproval": "Vous n’êtes pas membre de {org} — l’enregistrement lui envoie une demande de licence, et la licence ne s’applique qu’après son acceptation."
 }

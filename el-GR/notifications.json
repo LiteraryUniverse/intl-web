@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: ο συγγραφέας του «{work}» ζητά να απελευθερωθεί μία γλώσσα από την άδειά σας.",
   "notification.orgLicense.carveOutApproved": "Ο {organization} απελευθέρωσε μία γλώσσα του «{work}» — μπορείτε να αδειοδοτήσετε αυτή τη μετάφραση αλλού.",
   "notification.orgLicense.carveOutRejected": "Ο {organization} διατήρησε την κάλυψη γλωσσών του «{work}».",
-  "notification.orgLicense.subscriptionRemoval": "Το «{work}» αποχωρεί από τη συνδρομή του {organization} σε 30 ημέρες — οι αναγνώστες διατηρούν την πρόσβαση μέχρι τότε."
+  "notification.orgLicense.subscriptionRemoval": "Το «{work}» αποχωρεί από τη συνδρομή του {organization} σε 30 ημέρες — οι αναγνώστες διατηρούν την πρόσβαση μέχρι τότε.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

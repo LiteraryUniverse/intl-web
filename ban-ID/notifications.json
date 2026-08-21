@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: panyurat “{work}” nunas mangda asiki basa kalebang saking lisensi ragané.",
   "notification.orgLicense.carveOutApproved": "{organization} sampun ngelebang asiki basa saking “{work}” — ragané dados nglisensiang terjemahan punika ring genah lianan.",
   "notification.orgLicense.carveOutRejected": "{organization} kantun ngamargiang cakupan basa “{work}”.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” jagi ninggal langganan {organization} ring 30 rahina — sang ngwacen kantun polih akses ngantos punika."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” jagi ninggal langganan {organization} ring 30 rahina — sang ngwacen kantun polih akses ngantos punika.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

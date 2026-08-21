@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} に終了します。それまではすべてがそのまま有効です。",
   "legal.licenseNoticeTerms": "このライセンスはどちらの側からでも終了でき、その際は {days} 日前の予告が読者に表示されます。終了後は組織のシェアがあなたに戻り、読者はすでに獲得したものを保持します。",
   "legal.licenseAcceptedOn": "{date} に承諾",
-  "legal.endLicense": "ライセンスを終了"
+  "legal.endLicense": "ライセンスを終了",
+  "workshop.license.adoptOrg.proposed": "申請を{org}に送信しました。承諾されるとライセンスが適用され、通知が届きます。",
+  "workshop.license.requiresApproval": "あなたは{org}のメンバーではありません。保存するとライセンス申請が送信され、承諾後にのみライセンスが適用されます。"
 }

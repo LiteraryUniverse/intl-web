@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: “{work}” ର ଲେଖକ ଆପଣଙ୍କ ଲାଇସେନ୍ସରୁ ଗୋଟିଏ ଭାଷା ମୁକ୍ତ କରିବାକୁ ଅନୁରୋଧ କରୁଛନ୍ତି।",
   "notification.orgLicense.carveOutApproved": "{organization} “{work}” ର ଗୋଟିଏ ଭାଷା ମୁକ୍ତ କଲା — ଆପଣ ସେହି ଅନୁବାଦକୁ ଅନ୍ୟତ୍ର ଲାଇସେନ୍ସ ଦେଇପାରିବେ।",
   "notification.orgLicense.carveOutRejected": "{organization} “{work}” ର ନିଜ ଭାଷା ପରିସର ବଜାୟ ରଖିଲା।",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 ଦିନ ମଧ୍ୟରେ {organization} ର ସଦସ୍ୟତା ଛାଡ଼ିବ — ପାଠକମାନେ ସେ ପର୍ଯ୍ୟନ୍ତ ପ୍ରବେଶ ବଜାୟ ରଖିବେ।"
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 ଦିନ ମଧ୍ୟରେ {organization} ର ସଦସ୍ୟତା ଛାଡ଼ିବ — ପାଠକମାନେ ସେ ପର୍ଯ୍ୟନ୍ତ ପ୍ରବେଶ ବଜାୟ ରଖିବେ।",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "將於 {date} 結束。在此之前一切維持有效。",
   "legal.licenseNoticeTerms": "任何一方都可以結束這份許可證，並向讀者顯示 {days} 天的預告。結束之後，組織的份額回到您身上，讀者也會保留他們已經取得的權益。",
   "legal.licenseAcceptedOn": "於 {date} 接受",
-  "legal.endLicense": "結束許可證"
+  "legal.endLicense": "結束許可證",
+  "workshop.license.adoptOrg.proposed": "您的申請已送至{org}。待其接受後授權即生效，屆時會通知您。",
+  "workshop.license.requiresApproval": "您不是{org}的成員——儲存後會向其送出授權申請，授權僅在對方接受後才生效。"
 }

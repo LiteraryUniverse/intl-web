@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}：「{work}」的作者請求從你們的許可證中釋出一種語言。",
   "notification.orgLicense.carveOutApproved": "{organization} 已釋出「{work}」的一種語言 — 你可以將該翻譯授權給其他方。",
   "notification.orgLicense.carveOutRejected": "{organization} 維持了「{work}」的語言涵蓋範圍。",
-  "notification.orgLicense.subscriptionRemoval": "「{work}」將於 30 天後退出 {organization} 的訂閱 — 在此之前讀者仍保有存取權。"
+  "notification.orgLicense.subscriptionRemoval": "「{work}」將於 30 天後退出 {organization} 的訂閱 — 在此之前讀者仍保有存取權。",
+  "notification.orgLicense.withdrawn": "「{work}」與{organization}的授權提案已撤回。",
+  "notification.orgLicense.ended": "「{work}」與{organization}的授權{license}已結束——組織的份額與存取權已停止。"
 }

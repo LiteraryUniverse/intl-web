@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Ending on {date}. Until then everything stays in force.",
   "legal.licenseNoticeTerms": "Either side can end this license with a {days}-day notice shown to readers. Afterwards the organization's share returns to you and readers keep what they already earned.",
   "legal.licenseAcceptedOn": "Accepted on {date}",
-  "legal.endLicense": "End license"
+  "legal.endLicense": "End license",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

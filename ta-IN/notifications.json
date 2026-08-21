@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: “{work}” இன் ஆசிரியர் உங்கள் உரிமத்திலிருந்து ஒரு மொழியை விடுவிக்கக் கோருகிறார்.",
   "notification.orgLicense.carveOutApproved": "{organization} “{work}” இன் ஒரு மொழியை விடுவித்தது — அந்த மொழிபெயர்ப்பை நீங்கள் வேறு இடத்தில் உரிமம் வழங்கலாம்.",
   "notification.orgLicense.carveOutRejected": "{organization} “{work}” இன் மொழி பரப்பைத் தக்கவைத்துக் கொண்டது.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 நாட்களில் {organization} அமைப்பின் சந்தாவிலிருந்து விலகும் — அதுவரை வாசகர்கள் அணுகலைத் தக்கவைத்திருப்பார்கள்."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 நாட்களில் {organization} அமைப்பின் சந்தாவிலிருந்து விலகும் — அதுவரை வாசகர்கள் அணுகலைத் தக்கவைத்திருப்பார்கள்.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

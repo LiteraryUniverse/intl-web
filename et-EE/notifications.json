@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: teose „{work}“ autor palub vabastada teie litsentsist ühe keele.",
   "notification.orgLicense.carveOutApproved": "{organization} vabastas teose „{work}“ ühe keele — võite selle tõlke mujal litsentsida.",
   "notification.orgLicense.carveOutRejected": "{organization} säilitas teose „{work}“ keelte katvuse.",
-  "notification.orgLicense.subscriptionRemoval": "Teos „{work}“ lahkub organisatsiooni {organization} tellimusest 30 päeva pärast — lugejad säilitavad juurdepääsu senikaua."
+  "notification.orgLicense.subscriptionRemoval": "Teos „{work}“ lahkub organisatsiooni {organization} tellimusest 30 päeva pärast — lugejad säilitavad juurdepääsu senikaua.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

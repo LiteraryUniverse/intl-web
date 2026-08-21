@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: “{work}”-ৰ লেখকে আপোনাৰ লাইচেন্সৰ পৰা এটা ভাষা মুক্ত কৰিবলৈ অনুৰোধ কৰিছে।",
   "notification.orgLicense.carveOutApproved": "{organization}-এ “{work}”-ৰ এটা ভাষা মুক্ত কৰিলে — আপুনি সেই অনুবাদটো আন ঠাইত লাইচেন্স দিব পাৰে।",
   "notification.orgLicense.carveOutRejected": "{organization}-এ “{work}”-ৰ ভাষা সামৰণি বজাই ৰাখিলে।",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 দিনৰ ভিতৰত {organization}-ৰ চাবস্ক্ৰিপশ্বন এৰিব — পাঠকসকলে তেতিয়ালৈকে প্ৰৱেশাধিকাৰ বজাই ৰাখিব।"
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 দিনৰ ভিতৰত {organization}-ৰ চাবস্ক্ৰিপশ্বন এৰিব — পাঠকসকলে তেতিয়ালৈকে প্ৰৱেশাধিকাৰ বজাই ৰাখিব।",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

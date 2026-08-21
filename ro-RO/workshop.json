@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Se încheie la {date}. Până atunci, totul rămâne în vigoare.",
   "legal.licenseNoticeTerms": "Oricare dintre părți poate încheia această licență cu un preaviz de {days} zile afișat cititorilor. După aceea, cota organizației revine la tine, iar cititorii păstrează ce au obținut deja.",
   "legal.licenseAcceptedOn": "Acceptată la {date}",
-  "legal.endLicense": "Încheie licența"
+  "legal.endLicense": "Încheie licența",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

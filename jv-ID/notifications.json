@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: panulis “{work}” njaluk supaya siji basa dibebasake saka lisensi panjenengan.",
   "notification.orgLicense.carveOutApproved": "{organization} wis mbebasake siji basa saka “{work}” — panjenengan bisa nglisensi terjemahan iku ing papan liya.",
   "notification.orgLicense.carveOutRejected": "{organization} tetep njaga cakupan basa “{work}”.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” bakal metu saka langganan {organization} sajrone 30 dina — pamaca isih duwe akses nganti wektu iku."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” bakal metu saka langganan {organization} sajrone 30 dina — pamaca isih duwe akses nganti wektu iku.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} केँ समाप्त भऽ रहल अछि। ताबत धरि सभ किछु लागू रहैत अछि।",
   "legal.licenseNoticeTerms": "कोनो पक्ष ई लाइसेंस {days} दिनक सूचना दऽ कऽ समाप्त कऽ सकैत अछि, जे पाठक लोकनि केँ देखाओल जाइत अछि। ओकर बाद संगठनक हिस्सा अहाँ केँ घुरि अबैत अछि आ पाठक लोकनि जे पहिनहि अर्जित कऽ नेने छथि से हुनका लग बनल रहैत अछि।",
   "legal.licenseAcceptedOn": "{date} केँ स्वीकार कयल गेल",
-  "legal.endLicense": "लाइसेंस समाप्त करू"
+  "legal.endLicense": "लाइसेंस समाप्त करू",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

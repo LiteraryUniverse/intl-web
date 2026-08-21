@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: tá údar “{work}” ag iarraidh teanga amháin a scaoileadh ó bhur gceadúnas.",
   "notification.orgLicense.carveOutApproved": "Scaoil {organization} teanga de “{work}” — is féidir leat an t-aistriúchán sin a cheadúnú in áit eile.",
   "notification.orgLicense.carveOutRejected": "Choinnigh {organization} a chumhdach teangacha ar “{work}”.",
-  "notification.orgLicense.subscriptionRemoval": "Fágfaidh “{work}” síntiús {organization} i gceann 30 lá — coinníonn léitheoirí rochtain go dtí sin."
+  "notification.orgLicense.subscriptionRemoval": "Fágfaidh “{work}” síntiús {organization} i gceann 30 lá — coinníonn léitheoirí rochtain go dtí sin.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

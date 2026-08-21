@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: “{work}” eserinin yazarı lisansınızdan bir dilin serbest bırakılmasını istiyor.",
   "notification.orgLicense.carveOutApproved": "{organization}, “{work}” eserinin bir dilini serbest bıraktı — bu çeviriyi başka bir yere lisanslayabilirsiniz.",
   "notification.orgLicense.carveOutRejected": "{organization}, “{work}” eserindeki dil kapsamını korudu.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 gün içinde {organization} aboneliğinden ayrılıyor — okuyucular o zamana kadar erişimlerini korur."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” 30 gün içinde {organization} aboneliğinden ayrılıyor — okuyucular o zamana kadar erişimlerini korur.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Magtatapos sa {date}. Hanggang doon ay mananatiling may bisa ang lahat.",
   "legal.licenseNoticeTerms": "Maaaring tapusin ng alinmang panig ang lisensyang ito sa pamamagitan ng {days}-araw na abiso na ipinapakita sa mga mambabasa. Pagkatapos, babalik sa iyo ang bahagi ng organisasyon at mananatili sa mga mambabasa ang nakuha na nila.",
   "legal.licenseAcceptedOn": "Tinanggap noong {date}",
-  "legal.endLicense": "Tapusin ang lisensya"
+  "legal.endLicense": "Tapusin ang lisensya",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

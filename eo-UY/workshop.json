@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Finiĝas je {date}. Ĝis tiam ĉio restas valida.",
   "legal.licenseNoticeTerms": "Ambaŭ flankoj povas fini ĉi tiun permesilon kun {days}-taga antaŭaverto montrata al legantoj. Poste la parto de la organizo revenas al vi, kaj legantoj konservas tion, kion ili jam gajnis.",
   "legal.licenseAcceptedOn": "Akceptita je {date}",
-  "legal.endLicense": "Fini permesilon"
+  "legal.endLicense": "Fini permesilon",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

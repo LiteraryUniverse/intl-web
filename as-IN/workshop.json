@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date}-ত শেষ হ'ব। তেতিয়ালৈকে সকলো বলবৎ হৈ থাকে।",
   "legal.licenseNoticeTerms": "যিকোনো এটা পক্ষই পাঠকক দেখুওৱা {days} দিনৰ জাননীৰে এই লাইচেন্সটো শেষ কৰিব পাৰে। তাৰ পিছত সংগঠনৰ অংশ আপোনালৈ ঘূৰি আহে আৰু পাঠকসকলে ইতিমধ্যে অৰ্জন কৰা বস্তু বজাই ৰাখে।",
   "legal.licenseAcceptedOn": "{date}-ত গৃহীত",
-  "legal.endLicense": "লাইচেন্স শেষ কৰক"
+  "legal.endLicense": "লাইচেন্স শেষ কৰক",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Endet am {date}. Bis dahin bleibt alles in Kraft.",
   "legal.licenseNoticeTerms": "Beide Seiten können diese Lizenz mit einer Kündigungsfrist von {days} Tagen beenden, die den Lesern angezeigt wird. Danach fällt der Anteil der Organisation an Sie zurück, und Leser behalten, was sie sich bereits verdient haben.",
   "legal.licenseAcceptedOn": "Angenommen am {date}",
-  "legal.endLicense": "Lizenz beenden"
+  "legal.endLicense": "Lizenz beenden",
+  "workshop.license.adoptOrg.proposed": "Ihre Anfrage wurde an {org} gesendet. Die Lizenz gilt, sobald sie angenommen wird; Sie werden benachrichtigt.",
+  "workshop.license.requiresApproval": "Sie sind kein Mitglied von {org} — beim Speichern wird eine Lizenzanfrage gesendet, und die Lizenz gilt erst nach deren Annahme."
 }

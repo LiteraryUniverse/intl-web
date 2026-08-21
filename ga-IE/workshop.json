@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Críochnóidh sé ar {date}. Go dtí sin fanann gach rud i bhfeidhm.",
   "legal.licenseNoticeTerms": "Is féidir le ceachtar taobh deireadh a chur leis an gceadúnas seo le fógra {days} lá a thaispeántar do léitheoirí. Ina dhiaidh sin filleann sciar na heagraíochta ortsa agus coinníonn léitheoirí a bhfuil tuillte acu cheana.",
   "legal.licenseAcceptedOn": "Glacadh leis ar {date}",
-  "legal.endLicense": "Cuir deireadh leis an gceadúnas"
+  "legal.endLicense": "Cuir deireadh leis an gceadúnas",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

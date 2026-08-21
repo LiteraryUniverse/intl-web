@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: tác giả của “{work}” đề nghị giải phóng một ngôn ngữ khỏi giấy phép của bạn.",
   "notification.orgLicense.carveOutApproved": "{organization} đã giải phóng một ngôn ngữ của “{work}” — bạn có thể cấp phép bản dịch đó ở nơi khác.",
   "notification.orgLicense.carveOutRejected": "{organization} vẫn giữ nguyên phạm vi ngôn ngữ của “{work}”.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” sẽ rời khỏi gói đăng ký của {organization} sau 30 ngày — độc giả vẫn giữ quyền truy cập đến lúc đó."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” sẽ rời khỏi gói đăng ký của {organization} sau 30 ngày — độc giả vẫn giữ quyền truy cập đến lúc đó.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

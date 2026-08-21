@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: lo finti be “{work}” cu cpedu lo nu zifre fa pa bangu fi le klesi tu'a dunda be do",
   "notification.orgLicense.carveOutApproved": "{organization} cu zifre gasnu pa bangu be “{work}” .i do ka'e dunda le klesi be le fanva be ri fi lo drata",
   "notification.orgLicense.carveOutRejected": "{organization} cu ralte lo bangu poi se vasru “{work}”",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” cu cliva lo selpleji be {organization} ba lo 30 djedi .i lo tcidu prenu cu ralte lo nu pilno co'u ri"
+  "notification.orgLicense.subscriptionRemoval": "“{work}” cu cliva lo selpleji be {organization} ba lo 30 djedi .i lo tcidu prenu cu ralte lo nu pilno co'u ri",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

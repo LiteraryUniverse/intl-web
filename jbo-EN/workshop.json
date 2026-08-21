@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": ".i fanmo ca {date} .i co'u ta ro da cu ranji lo ka vlipa",
   "legal.licenseNoticeTerms": ".i do .a lo girzu cu ka'e sisti lo vi klesi tu'a dunda sepi'o lo {days} djedi notci poi se jarco lo tcidu prenu .i ba bo lo pagbu be lo girzu cu xruti do .ije lo tcidu prenu cu ralte lo ba'o se jerna",
   "legal.licenseAcceptedOn": "se zanru ca {date}",
-  "legal.endLicense": "sisti lo klesi tu'a dunda"
+  "legal.endLicense": "sisti lo klesi tu'a dunda",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

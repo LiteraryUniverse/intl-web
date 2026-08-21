@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Baigiasi {date}. Iki tol viskas lieka galioti.",
   "legal.licenseNoticeTerms": "Bet kuri pusė gali nutraukti šią licenciją, apie tai įspėjusi prieš {days} dienų; įspėjimas rodomas skaitytojams. Vėliau organizacijos dalis grįžta jums, o skaitytojai išsaugo tai, ką jau įgijo.",
   "legal.licenseAcceptedOn": "Priimta {date}",
-  "legal.endLicense": "Nutraukti licenciją"
+  "legal.endLicense": "Nutraukti licenciją",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

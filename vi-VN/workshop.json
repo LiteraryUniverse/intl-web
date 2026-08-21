@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Kết thúc vào {date}. Cho đến lúc đó mọi thứ vẫn giữ nguyên hiệu lực.",
   "legal.licenseNoticeTerms": "Bên nào cũng có thể kết thúc giấy phép này với thông báo trước {days} ngày hiển thị cho người đọc. Sau đó phần chia của tổ chức quay về với bạn và người đọc vẫn giữ những gì họ đã có được.",
   "legal.licenseAcceptedOn": "Đã chấp nhận vào {date}",
-  "legal.endLicense": "Kết thúc giấy phép"
+  "legal.endLicense": "Kết thúc giấy phép",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

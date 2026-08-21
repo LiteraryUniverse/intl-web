@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date}-ന് അവസാനിക്കും. അതുവരെ എല്ലാം പ്രാബല്യത്തിൽ തുടരും.",
   "legal.licenseNoticeTerms": "വായനക്കാർക്ക് കാണിക്കുന്ന {days} ദിവസത്തെ അറിയിപ്പോടെ ഇരു കക്ഷികൾക്കും ഈ ലൈസൻസ് അവസാനിപ്പിക്കാം. അതിനുശേഷം സംഘടനയുടെ വിഹിതം നിങ്ങൾക്ക് തിരികെ ലഭിക്കും, വായനക്കാർ ഇതിനകം നേടിയത് അവർക്ക് നിലനിൽക്കുകയും ചെയ്യും.",
   "legal.licenseAcceptedOn": "{date}-ന് സ്വീകരിച്ചു",
-  "legal.endLicense": "ലൈസൻസ് അവസാനിപ്പിക്കുക"
+  "legal.endLicense": "ലൈസൻസ് അവസാനിപ്പിക്കുക",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

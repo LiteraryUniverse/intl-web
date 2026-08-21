@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "នឹងបញ្ចប់នៅ {date}។ រហូតដល់ពេលនោះ អ្វីៗទាំងអស់នៅតែមានប្រសិទ្ធភាព។",
   "legal.licenseNoticeTerms": "ភាគីណាមួយអាចបញ្ចប់អាជ្ញាប័ណ្ណនេះបាន ដោយមានការជូនដំណឹងជាមុន {days} ថ្ងៃ ដែលបង្ហាញដល់អ្នកអាន។ បន្ទាប់មក ចំណែករបស់អង្គភាពត្រឡប់មកអ្នកវិញ ហើយអ្នកអានរក្សាបាននូវអ្វីដែលពួកគេទទួលបានរួចហើយ។",
   "legal.licenseAcceptedOn": "បានទទួលយកនៅ {date}",
-  "legal.endLicense": "បញ្ចប់អាជ្ញាប័ណ្ណ"
+  "legal.endLicense": "បញ្ចប់អាជ្ញាប័ណ្ណ",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

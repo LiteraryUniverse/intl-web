@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} रोजी संपेल. तोपर्यंत सर्व काही लागू राहील.",
   "legal.licenseNoticeTerms": "कोणतीही बाजू हा परवाना {days} दिवसांची सूचना देऊन संपवू शकते, ती सूचना वाचकांना दाखवली जाते. नंतर संघटनेचा हिस्सा तुमच्याकडे परत येतो आणि वाचकांनी आधीच मिळवलेले त्यांच्याकडेच राहते.",
   "legal.licenseAcceptedOn": "{date} रोजी स्वीकारला",
-  "legal.endLicense": "परवाना संपवा"
+  "legal.endLicense": "परवाना संपवा",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

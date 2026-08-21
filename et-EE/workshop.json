@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Lõpeb {date}. Seni jääb kõik kehtima.",
   "legal.licenseNoticeTerms": "Kumbki pool võib selle litsentsi lõpetada {days}-päevase etteteatamisajaga, mida näidatakse lugejatele. Pärast seda naaseb organisatsiooni osa sinu juurde ja lugejad säilitavad selle, mille on juba teeninud.",
   "legal.licenseAcceptedOn": "Vastu võetud {date}",
-  "legal.endLicense": "Lõpeta litsents"
+  "legal.endLicense": "Lõpeta litsents",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

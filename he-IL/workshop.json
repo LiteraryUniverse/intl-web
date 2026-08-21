@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "מסתיים ב-{date}. עד אז הכול נשאר בתוקף.",
   "legal.licenseNoticeTerms": "כל אחד מהצדדים יכול לסיים את הרישיון הזה בהודעה מוקדמת של {days} ימים שמוצגת לקוראים. לאחר מכן נתח הארגון חוזר אליכם והקוראים שומרים על מה שכבר זכו בו.",
   "legal.licenseAcceptedOn": "התקבל ב-{date}",
-  "legal.endLicense": "סיום הרישיון"
+  "legal.endLicense": "סיום הרישיון",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

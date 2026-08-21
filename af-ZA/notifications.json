@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: die outeur van “{work}” vra om een taal uit julle lisensie vry te stel.",
   "notification.orgLicense.carveOutApproved": "{organization} het ’n taal van “{work}” vrygestel — jy kan daardie vertaling elders lisensieer.",
   "notification.orgLicense.carveOutRejected": "{organization} het sy taaldekking van “{work}” behou.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” verlaat {organization} se intekening oor 30 dae — lesers behou toegang tot dan."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” verlaat {organization} se intekening oor 30 dae — lesers behou toegang tot dan.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

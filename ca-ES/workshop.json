@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "S'acaba el {date}. Fins llavors tot continua vigent.",
   "legal.licenseNoticeTerms": "Qualsevol de les dues parts pot posar fi a aquesta llicència amb un preavís de {days} dies que es mostra als lectors. Després, la participació de l'organització torna a tu i els lectors conserven el que ja havien obtingut.",
   "legal.licenseAcceptedOn": "Acceptada el {date}",
-  "legal.endLicense": "Finalitza la llicència"
+  "legal.endLicense": "Finalitza la llicència",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

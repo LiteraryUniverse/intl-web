@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: “{work}” གི་རྩོམ་པ་པོས་ཁྱེད་ཀྱི་ཆོག་མཆན་ནས་སྐད་ཡིག་གཅིག་གློད་པར་རེ་སྐུལ་བྱེད།",
   "notification.orgLicense.carveOutApproved": "{organization} གིས “{work}” གི་སྐད་ཡིག་གཅིག་བཏང་སོང — ཁྱེད་ཀྱིས་ཡིག་སྒྱུར་དེ་ས་གཞན་དུ་ཆོག་མཆན་སྤྲོད་ཐུབ།",
   "notification.orgLicense.carveOutRejected": "{organization} གིས “{work}” གི་སྐད་ཡིག་ཁྱབ་ཚད་མུ་མཐུད་བཟུང་།",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” ཉིན 30 ནང་ {organization} གི་མངགས་ཉོ་ལས་ཐོན་འགྲོ — དེ་བར་དུ་ཀློག་མཁན་ཚོས་བེད་སྤྱོད་བྱེད་ཐུབ།"
+  "notification.orgLicense.subscriptionRemoval": "“{work}” ཉིན 30 ནང་ {organization} གི་མངགས་ཉོ་ལས་ཐོན་འགྲོ — དེ་བར་དུ་ཀློག་མཁན་ཚོས་བེད་སྤྱོད་བྱེད་ཐུབ།",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

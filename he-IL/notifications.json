@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: המחבר של “{work}” מבקש לשחרר שפה אחת מהרישיון שלכם.",
   "notification.orgLicense.carveOutApproved": "{organization} שחררה שפה של “{work}” — אפשר להעניק רישיון לתרגום הזה במקום אחר.",
   "notification.orgLicense.carveOutRejected": "{organization} שמרה על כיסוי השפות שלה עבור “{work}”.",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” עוזבת את המינוי של {organization} בעוד 30 יום — הקוראים שומרים על הגישה עד אז."
+  "notification.orgLicense.subscriptionRemoval": "“{work}” עוזבת את המינוי של {organization} בעוד 30 יום — הקוראים שומרים על הגישה עד אז.",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

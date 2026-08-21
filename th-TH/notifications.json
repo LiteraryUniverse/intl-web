@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}: ผู้เขียน “{work}” ขอปลดหนึ่งภาษาออกจากใบอนุญาตของคุณ",
   "notification.orgLicense.carveOutApproved": "{organization} ได้ปลดหนึ่งภาษาของ “{work}” — คุณสามารถให้สิทธิ์การแปลนั้นแก่ที่อื่นได้",
   "notification.orgLicense.carveOutRejected": "{organization} ยังคงความครอบคลุมภาษาของ “{work}” ไว้",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” จะออกจากการสมัครสมาชิกของ {organization} ใน 30 วัน — ผู้อ่านยังคงเข้าถึงได้จนถึงตอนนั้น"
+  "notification.orgLicense.subscriptionRemoval": "“{work}” จะออกจากการสมัครสมาชิกของ {organization} ใน 30 วัน — ผู้อ่านยังคงเข้าถึงได้จนถึงตอนนั้น",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Λήγει στις {date}. Μέχρι τότε όλα παραμένουν σε ισχύ.",
   "legal.licenseNoticeTerms": "Κάθε πλευρά μπορεί να τερματίσει αυτή την άδεια με προθεσμία ειδοποίησης {days} ημερών που εμφανίζεται στους αναγνώστες. Στη συνέχεια το μερίδιο του οργανισμού επιστρέφει σε εσάς και οι αναγνώστες διατηρούν όσα έχουν ήδη αποκτήσει.",
   "legal.licenseAcceptedOn": "Έγινε αποδεκτή στις {date}",
-  "legal.endLicense": "Τερματισμός άδειας"
+  "legal.endLicense": "Τερματισμός άδειας",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

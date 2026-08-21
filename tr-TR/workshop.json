@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date} tarihinde sona eriyor. O tarihe kadar her şey geçerliliğini korur.",
   "legal.licenseNoticeTerms": "Taraflardan her biri bu lisansı, okuyuculara gösterilen {days} günlük bir bildirim süresiyle sona erdirebilir. Sonrasında kuruluşun payı size geri döner ve okuyucular halihazırda elde ettiklerini korur.",
   "legal.licenseAcceptedOn": "{date} tarihinde kabul edildi",
-  "legal.endLicense": "Lisansı sonlandır"
+  "legal.endLicense": "Lisansı sonlandır",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

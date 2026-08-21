@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Kończy się {date}. Do tego czasu wszystko pozostaje w mocy.",
   "legal.licenseNoticeTerms": "Każda ze stron może zakończyć tę licencję z {days}-dniowym okresem wypowiedzenia, widocznym dla czytelników. Potem udział organizacji wraca do Ciebie, a czytelnicy zachowują to, co już zdobyli.",
   "legal.licenseAcceptedOn": "Przyjęto {date}",
-  "legal.endLicense": "Zakończ licencję"
+  "legal.endLicense": "Zakończ licencję",
+  "workshop.license.adoptOrg.proposed": "Twoja prośba została wysłana do {org}. Licencja zacznie obowiązywać po jej zaakceptowaniu; otrzymasz powiadomienie.",
+  "workshop.license.requiresApproval": "Nie jesteś członkiem {org} — zapisanie wyśle prośbę o licencję, a licencja zacznie obowiązywać dopiero po jej zaakceptowaniu."
 }

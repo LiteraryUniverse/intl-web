@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "จะสิ้นสุดในวันที่ {date} จนถึงตอนนั้นทุกอย่างยังคงมีผลบังคับใช้",
   "legal.licenseNoticeTerms": "ทั้งสองฝ่ายสามารถยุติใบอนุญาตนี้ได้ด้วยการแจ้งล่วงหน้า {days} วันที่แสดงให้ผู้อ่านเห็น หลังจากนั้นส่วนแบ่งขององค์กรจะกลับมาเป็นของคุณ และผู้อ่านยังคงเก็บสิ่งที่ได้รับไปแล้วไว้",
   "legal.licenseAcceptedOn": "ยอมรับเมื่อ {date}",
-  "legal.endLicense": "ยุติใบอนุญาต"
+  "legal.endLicense": "ยุติใบอนุญาต",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }

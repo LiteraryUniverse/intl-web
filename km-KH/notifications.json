@@ -117,5 +117,7 @@
   "notification.orgLicense.carveOutRequested": "{organization}៖ អ្នកនិពន្ធនៃ “{work}” ស្នើសុំដោះលែងភាសាមួយចេញពីអាជ្ញាប័ណ្ណរបស់អ្នក។",
   "notification.orgLicense.carveOutApproved": "{organization} បានដោះលែងភាសាមួយនៃ “{work}” — អ្នកអាចផ្ដល់អាជ្ញាប័ណ្ណការបកប្រែនោះនៅកន្លែងផ្សេង។",
   "notification.orgLicense.carveOutRejected": "{organization} បានរក្សាការគ្របដណ្ដប់ភាសារបស់ខ្លួនលើ “{work}”។",
-  "notification.orgLicense.subscriptionRemoval": "“{work}” នឹងចាកចេញពីការជាវរបស់ {organization} ក្នុងរយៈពេល 30 ថ្ងៃ — អ្នកអានរក្សាការចូលប្រើរហូតដល់ពេលនោះ។"
+  "notification.orgLicense.subscriptionRemoval": "“{work}” នឹងចាកចេញពីការជាវរបស់ {organization} ក្នុងរយៈពេល 30 ថ្ងៃ — អ្នកអានរក្សាការចូលប្រើរហូតដល់ពេលនោះ។",
+  "notification.orgLicense.withdrawn": "The license proposal for “{work}” with {organization} was withdrawn.",
+  "notification.orgLicense.ended": "The license {license} for “{work}” with {organization} has ended — the organization’s share and access have stopped."
 }

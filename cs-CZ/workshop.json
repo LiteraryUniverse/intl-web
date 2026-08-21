@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "Končí {date}. Do té doby vše zůstává v platnosti.",
   "legal.licenseNoticeTerms": "Tuto licenci může kterákoli strana ukončit s výpovědní lhůtou {days} dnů, která se zobrazuje čtenářům. Poté se podíl organizace vrací vám a čtenářům zůstává, co už získali.",
   "legal.licenseAcceptedOn": "Přijato {date}",
-  "legal.endLicense": "Ukončit licenci"
+  "legal.endLicense": "Ukončit licenci",
+  "workshop.license.adoptOrg.proposed": "Vaše žádost byla odeslána organizaci {org}. Licence začne platit, jakmile ji přijme; dáme vám vědět.",
+  "workshop.license.requiresApproval": "Nejste členem organizace {org} — uložením jí odešlete žádost o licenci a licence začne platit až po jejím přijetí."
 }

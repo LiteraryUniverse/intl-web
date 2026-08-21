@@ -804,5 +804,7 @@
   "legal.licenseEndingOn": "{date}న ముగుస్తుంది. అప్పటివరకు అంతా అమలులో ఉంటుంది.",
   "legal.licenseNoticeTerms": "పాఠకులకు చూపబడే {days} రోజుల నోటీసుతో ఏ పక్షమైనా ఈ లైసెన్సును ముగించవచ్చు. ఆ తర్వాత సంస్థ వాటా మీకే తిరిగి వస్తుంది, పాఠకులు ఇప్పటికే సంపాదించినది వారికే ఉంటుంది.",
   "legal.licenseAcceptedOn": "{date}న ఆమోదించబడింది",
-  "legal.endLicense": "లైసెన్సును ముగించండి"
+  "legal.endLicense": "లైసెన్సును ముగించండి",
+  "workshop.license.adoptOrg.proposed": "Your request was sent to {org}. The license applies once they accept it; you will be notified.",
+  "workshop.license.requiresApproval": "You are not a member of {org} — saving sends them a license request, and the license applies only once they accept."
 }
