@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Usulang karya",
   "org.workProposal.selectWork": "Karya sané jagi kausulang",
   "org.workProposal.note": "Pesan majeng ring organisasi (opsional)",
+  "org.workProposal.translatorBudget": "Anggaran penerjemah (wates % majeng ring penerjemah sane kapilih olih organisasi, opsional)",
   "org.workProposal.submit": "Kirim usulan",
   "org.workProposal.withdraw": "Tarik malih",
   "org.workProposal.status.pending": "Ngantosang putusan",

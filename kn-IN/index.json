@@ -2991,6 +2991,7 @@
   "org.workProposal.propose": "ಕೃತಿಯನ್ನು ಪ್ರಸ್ತಾಪಿಸಿ",
   "org.workProposal.selectWork": "ಪ್ರಸ್ತಾಪಿಸಬೇಕಾದ ಕೃತಿ",
   "org.workProposal.note": "ಸಂಸ್ಥೆಗೆ ಸಂದೇಶ (ಐಚ್ಛಿಕ)",
+  "org.workProposal.translatorBudget": "ಅನುವಾದಕರ ಬಜೆಟ್ (ಸಂಸ್ಥೆ ನಿಯೋಜಿಸುವ ಅನುವಾದಕರಿಗೆ % ಮಿತಿ, ಐಚ್ಛಿಕ)",
   "org.workProposal.submit": "ಕೃತಿಯನ್ನು ಪ್ರಸ್ತಾಪಿಸಿ",
   "org.workProposal.withdraw": "ಹಿಂಪಡೆಯಿರಿ",
   "org.workProposal.status.pending": "ನಿರ್ಧಾರಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ",

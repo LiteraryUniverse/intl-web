@@ -84,6 +84,7 @@
   "org.workProposal.propose": "Werk vorschlagen",
   "org.workProposal.selectWork": "Vorzuschlagendes Werk",
   "org.workProposal.note": "Nachricht an die Organisation (optional)",
+  "org.workProposal.translatorBudget": "Übersetzerbudget (Obergrenze in % für von der Organisation zugewiesene Übersetzer, optional)",
   "org.workProposal.submit": "Werk vorschlagen",
   "org.workProposal.withdraw": "Zurückziehen",
   "org.workProposal.status.pending": "Wartet auf Entscheidung",

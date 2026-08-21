@@ -82,6 +82,7 @@
   "org.workProposal.propose": "Usulake karya",
   "org.workProposal.selectWork": "Karya sing arep diusulake",
   "org.workProposal.note": "Pesen kanggo organisasi (opsional)",
+  "org.workProposal.translatorBudget": "Anggaran penerjemah (wates % kanggo penerjemah sing ditugasake organisasi, opsional)",
   "org.workProposal.submit": "Kirim usulan",
   "org.workProposal.withdraw": "Tarik maneh",
   "org.workProposal.status.pending": "Ngenteni putusan",

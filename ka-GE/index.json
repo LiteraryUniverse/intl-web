@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "ნამუშევრის შეთავაზება",
   "org.workProposal.selectWork": "შესათავაზებელი ნამუშევარი",
   "org.workProposal.note": "შეტყობინება ორგანიზაციისთვის (არასავალდებულო)",
+  "org.workProposal.translatorBudget": "მთარგმნელთა ბიუჯეტი (% ზღვარი ორგანიზაციის მიერ დანიშნული მთარგმნელებისთვის, არასავალდებულო)",
   "org.workProposal.submit": "ნამუშევრის შეთავაზება",
   "org.workProposal.withdraw": "გატანა",
   "org.workProposal.status.pending": "ელოდება გადაწყვეტილებას",

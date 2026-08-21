@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Pasiūlyti kūrinį",
   "org.workProposal.selectWork": "Siūlomas kūrinys",
   "org.workProposal.note": "Žinutė organizacijai (nebūtina)",
+  "org.workProposal.translatorBudget": "Vertėjų biudžetas (% riba organizacijos paskirtiems vertėjams, neprivaloma)",
   "org.workProposal.submit": "Pasiūlyti kūrinį",
   "org.workProposal.withdraw": "Atšaukti pasiūlymą",
   "org.workProposal.status.pending": "Laukiama sprendimo",

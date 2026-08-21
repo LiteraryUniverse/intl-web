@@ -84,6 +84,7 @@
   "org.workProposal.propose": "రచనను ప్రతిపాదించండి",
   "org.workProposal.selectWork": "ప్రతిపాదించాల్సిన రచన",
   "org.workProposal.note": "సంస్థకు సందేశం (ఐచ్ఛికం)",
+  "org.workProposal.translatorBudget": "అనువాదకుల బడ్జెట్ (సంస్థ నియమించే అనువాదకులకు % పరిమితి, ఐచ్ఛికం)",
   "org.workProposal.submit": "రచనను ప్రతిపాదించండి",
   "org.workProposal.withdraw": "ఉపసంహరించండి",
   "org.workProposal.status.pending": "నిర్ణయం కోసం ఎదురుచూస్తోంది",

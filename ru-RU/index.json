@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Предложить работу",
   "org.workProposal.selectWork": "Работа для предложения",
   "org.workProposal.note": "Сообщение организации (необязательно)",
+  "org.workProposal.translatorBudget": "Бюджет переводчиков (потолок в % для переводчиков, назначенных организацией, необязательно)",
   "org.workProposal.submit": "Предложить работу",
   "org.workProposal.withdraw": "Отозвать",
   "org.workProposal.status.pending": "Ожидает решения",

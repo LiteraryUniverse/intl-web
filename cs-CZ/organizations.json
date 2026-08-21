@@ -82,6 +82,7 @@
   "org.workProposal.propose": "Nabídnout dílo",
   "org.workProposal.selectWork": "Dílo k nabídnutí",
   "org.workProposal.note": "Zpráva pro organizaci (nepovinné)",
+  "org.workProposal.translatorBudget": "Rozpočet pro překladatele (strop v % pro překladatele přidělené organizací, nepovinné)",
   "org.workProposal.submit": "Nabídnout dílo",
   "org.workProposal.withdraw": "Stáhnout nabídku",
   "org.workProposal.status.pending": "Čeká na rozhodnutí",

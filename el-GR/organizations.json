@@ -82,6 +82,7 @@
   "org.workProposal.propose": "Πρότεινε ένα έργο",
   "org.workProposal.selectWork": "Έργο προς πρόταση",
   "org.workProposal.note": "Μήνυμα προς τον οργανισμό (προαιρετικό)",
+  "org.workProposal.translatorBudget": "Προϋπολογισμός μεταφραστών (ανώτατο όριο % για μεταφραστές που ορίζει ο οργανισμός, προαιρετικό)",
   "org.workProposal.submit": "Πρότεινε το έργο",
   "org.workProposal.withdraw": "Απόσυρση",
   "org.workProposal.status.pending": "Αναμένεται απόφαση",

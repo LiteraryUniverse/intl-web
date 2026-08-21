@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Propune o lucrare",
   "org.workProposal.selectWork": "Lucrarea de propus",
   "org.workProposal.note": "Mesaj pentru organizație (opțional)",
+  "org.workProposal.translatorBudget": "Buget pentru traducători (plafon în % pentru traducătorii desemnați de organizație, opțional)",
   "org.workProposal.submit": "Propune lucrarea",
   "org.workProposal.withdraw": "Retrage",
   "org.workProposal.status.pending": "În așteptarea deciziei",

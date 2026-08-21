@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "הצעת יצירה",
   "org.workProposal.selectWork": "יצירה להצעה",
   "org.workProposal.note": "הודעה לארגון (רשות)",
+  "org.workProposal.translatorBudget": "תקציב מתרגמים (תקרה ב-% למתרגמים שהארגון ממנה, אופציונלי)",
   "org.workProposal.submit": "להציע יצירה",
   "org.workProposal.withdraw": "משיכה בחזרה",
   "org.workProposal.status.pending": "ממתין להחלטה",

@@ -2995,6 +2995,7 @@
   "org.workProposal.propose": "Propose a work",
   "org.workProposal.selectWork": "Work to propose",
   "org.workProposal.note": "Message to the organization (optional)",
+  "org.workProposal.translatorBudget": "Translator budget (% cap for translators the organization assigns, optional)",
   "org.workProposal.submit": "Propose work",
   "org.workProposal.withdraw": "Withdraw",
   "org.workProposal.status.pending": "Awaiting decision",

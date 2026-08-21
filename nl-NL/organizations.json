@@ -84,6 +84,7 @@
   "org.workProposal.propose": "Werk voorstellen",
   "org.workProposal.selectWork": "Voor te stellen werk",
   "org.workProposal.note": "Bericht aan de organisatie (optioneel)",
+  "org.workProposal.translatorBudget": "Vertalersbudget (plafond in % voor vertalers die de organisatie aanwijst, optioneel)",
   "org.workProposal.submit": "Werk voorstellen",
   "org.workProposal.withdraw": "Intrekken",
   "org.workProposal.status.pending": "Wacht op beslissing",

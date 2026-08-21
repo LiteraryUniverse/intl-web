@@ -84,6 +84,7 @@
   "org.workProposal.propose": "ਰਚਨਾ ਪ੍ਰਸਤਾਵਿਤ ਕਰੋ",
   "org.workProposal.selectWork": "ਪ੍ਰਸਤਾਵਿਤ ਕਰਨ ਵਾਲੀ ਰਚਨਾ",
   "org.workProposal.note": "ਸੰਸਥਾ ਲਈ ਸੁਨੇਹਾ (ਚੋਣਵਾਂ)",
+  "org.workProposal.translatorBudget": "ਅਨੁਵਾਦਕ ਬਜਟ (ਸੰਸਥਾ ਵੱਲੋਂ ਨਿਯੁਕਤ ਅਨੁਵਾਦਕਾਂ ਲਈ % ਸੀਮਾ, ਵਿਕਲਪਿਕ)",
   "org.workProposal.submit": "ਰਚਨਾ ਪ੍ਰਸਤਾਵਿਤ ਕਰੋ",
   "org.workProposal.withdraw": "ਵਾਪਸ ਲਵੋ",
   "org.workProposal.status.pending": "ਫ਼ੈਸਲੇ ਦੀ ਉਡੀਕ",

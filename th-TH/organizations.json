@@ -82,6 +82,7 @@
   "org.workProposal.propose": "เสนอผลงาน",
   "org.workProposal.selectWork": "ผลงานที่จะเสนอ",
   "org.workProposal.note": "ข้อความถึงองค์กร (ไม่บังคับ)",
+  "org.workProposal.translatorBudget": "งบประมาณผู้แปล (เพดาน % สำหรับผู้แปลที่องค์กรมอบหมาย ไม่บังคับ)",
   "org.workProposal.submit": "เสนอผลงาน",
   "org.workProposal.withdraw": "ถอนข้อเสนอ",
   "org.workProposal.status.pending": "รอการตัดสินใจ",

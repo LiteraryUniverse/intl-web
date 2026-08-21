@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Magmungkahi ng akda",
   "org.workProposal.selectWork": "Akdang imumungkahi",
   "org.workProposal.note": "Mensahe sa organisasyon (opsyonal)",
+  "org.workProposal.translatorBudget": "Badyet para sa tagasalin (% na limitasyon para sa mga tagasaling itinalaga ng organisasyon, opsyonal)",
   "org.workProposal.submit": "Imungkahi ang akda",
   "org.workProposal.withdraw": "Bawiin",
   "org.workProposal.status.pending": "Naghihintay ng desisyon",

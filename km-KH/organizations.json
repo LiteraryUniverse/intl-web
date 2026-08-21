@@ -82,6 +82,7 @@
   "org.workProposal.propose": "ស្នើស្នាដៃ",
   "org.workProposal.selectWork": "ស្នាដៃដែលត្រូវស្នើ",
   "org.workProposal.note": "សារទៅអង្គការ (ស្រេចចិត្ត)",
+  "org.workProposal.translatorBudget": "ថវិកាអ្នកបកប្រែ (កម្រិតកំណត់ % សម្រាប់អ្នកបកប្រែដែលអង្គការចាត់តាំង ជាជម្រើស)",
   "org.workProposal.submit": "ស្នើស្នាដៃ",
   "org.workProposal.withdraw": "ដកសំណើ",
   "org.workProposal.status.pending": "កំពុងរង់ចាំការសម្រេច",

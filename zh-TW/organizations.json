@@ -82,6 +82,7 @@
   "org.workProposal.propose": "提案作品",
   "org.workProposal.selectWork": "要提案的作品",
   "org.workProposal.note": "給組織的訊息（選填）",
+  "org.workProposal.translatorBudget": "譯者預算（組織指派譯者的 % 上限，選填）",
   "org.workProposal.submit": "送出提案",
   "org.workProposal.withdraw": "撤回",
   "org.workProposal.status.pending": "等待決定",

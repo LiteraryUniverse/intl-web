@@ -82,6 +82,7 @@
   "org.workProposal.propose": "Mű felajánlása",
   "org.workProposal.selectWork": "Felajánlandó mű",
   "org.workProposal.note": "Üzenet a szervezetnek (nem kötelező)",
+  "org.workProposal.translatorBudget": "Fordítói keret (%-os felső határ a szervezet által kijelölt fordítóknak, nem kötelező)",
   "org.workProposal.submit": "Mű felajánlása",
   "org.workProposal.withdraw": "Visszavonás",
   "org.workProposal.status.pending": "Döntésre vár",

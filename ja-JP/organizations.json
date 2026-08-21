@@ -82,6 +82,7 @@
   "org.workProposal.propose": "作品を提案",
   "org.workProposal.selectWork": "提案する作品",
   "org.workProposal.note": "組織へのメッセージ（任意）",
+  "org.workProposal.translatorBudget": "翻訳者予算（組織が任命する翻訳者への上限 %、任意）",
   "org.workProposal.submit": "作品を提案する",
   "org.workProposal.withdraw": "取り下げる",
   "org.workProposal.status.pending": "判断待ち",

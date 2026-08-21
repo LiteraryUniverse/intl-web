@@ -82,6 +82,7 @@
   "org.workProposal.propose": "സൃഷ്ടി നിർദ്ദേശിക്കുക",
   "org.workProposal.selectWork": "നിർദ്ദേശിക്കേണ്ട സൃഷ്ടി",
   "org.workProposal.note": "സംഘടനയ്ക്കുള്ള സന്ദേശം (ഐച്ഛികം)",
+  "org.workProposal.translatorBudget": "പരിഭാഷക ബജറ്റ് (സംഘടന നിയോഗിക്കുന്ന പരിഭാഷകർക്കുള്ള % പരിധി, ഐച്ഛികം)",
   "org.workProposal.submit": "സൃഷ്ടി നിർദ്ദേശിക്കുക",
   "org.workProposal.withdraw": "പിൻവലിക്കുക",
   "org.workProposal.status.pending": "തീരുമാനത്തിനായി കാത്തിരിക്കുന്നു",

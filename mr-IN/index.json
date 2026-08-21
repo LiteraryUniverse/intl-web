@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "कलाकृती प्रस्तावित करा",
   "org.workProposal.selectWork": "प्रस्तावित करावयाची कलाकृती",
   "org.workProposal.note": "संस्थेसाठी संदेश (ऐच्छिक)",
+  "org.workProposal.translatorBudget": "अनुवादक बजेट (संस्थेने नेमलेल्या अनुवादकांसाठी % मर्यादा, ऐच्छिक)",
   "org.workProposal.submit": "कलाकृती प्रस्तावित करा",
   "org.workProposal.withdraw": "मागे घ्या",
   "org.workProposal.status.pending": "निर्णयाच्या प्रतीक्षेत",

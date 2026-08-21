@@ -84,6 +84,7 @@
   "org.workProposal.propose": "작품 제안",
   "org.workProposal.selectWork": "제안할 작품",
   "org.workProposal.note": "조직에 보낼 메시지(선택)",
+  "org.workProposal.translatorBudget": "번역자 예산 (조직이 배정하는 번역자에 대한 % 상한, 선택 사항)",
   "org.workProposal.submit": "작품 제안하기",
   "org.workProposal.withdraw": "제안 철회",
   "org.workProposal.status.pending": "결정 대기 중",

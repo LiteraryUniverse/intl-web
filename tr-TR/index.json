@@ -2991,6 +2991,7 @@
   "org.workProposal.propose": "Eser öner",
   "org.workProposal.selectWork": "Önerilecek eser",
   "org.workProposal.note": "Kuruluşa mesaj (isteğe bağlı)",
+  "org.workProposal.translatorBudget": "Çevirmen bütçesi (kuruluşun atadığı çevirmenler için % üst sınırı, isteğe bağlı)",
   "org.workProposal.submit": "Eseri öner",
   "org.workProposal.withdraw": "Geri çek",
   "org.workProposal.status.pending": "Karar bekliyor",

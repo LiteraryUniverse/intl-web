@@ -84,6 +84,7 @@
   "org.workProposal.propose": "କୃତି ପ୍ରସ୍ତାବ କରନ୍ତୁ",
   "org.workProposal.selectWork": "ପ୍ରସ୍ତାବ କରିବାକୁ ଥିବା କୃତି",
   "org.workProposal.note": "ସଂଗଠନ ପାଇଁ ବାର୍ତ୍ତା (ଐଚ୍ଛିକ)",
+  "org.workProposal.translatorBudget": "ଅନୁବାଦକ ବଜେଟ୍ (ସଂସ୍ଥା ନିଯୁକ୍ତ ଅନୁବାଦକମାନଙ୍କ ପାଇଁ % ସୀମା, ଐଚ୍ଛିକ)",
   "org.workProposal.submit": "କୃତି ପ୍ରସ୍ତାବ କରନ୍ତୁ",
   "org.workProposal.withdraw": "ପ୍ରତ୍ୟାହାର କରନ୍ତୁ",
   "org.workProposal.status.pending": "ନିଷ୍ପତ୍ତି ଅପେକ୍ଷାରେ",

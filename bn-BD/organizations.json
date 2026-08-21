@@ -82,6 +82,7 @@
   "org.workProposal.propose": "কাজ প্রস্তাব করুন",
   "org.workProposal.selectWork": "প্রস্তাব করার কাজ",
   "org.workProposal.note": "সংস্থার জন্য বার্তা (ঐচ্ছিক)",
+  "org.workProposal.translatorBudget": "অনুবাদক বাজেট (সংস্থা নিযুক্ত অনুবাদকদের জন্য % সীমা, ঐচ্ছিক)",
   "org.workProposal.submit": "কাজ প্রস্তাব করুন",
   "org.workProposal.withdraw": "প্রত্যাহার করুন",
   "org.workProposal.status.pending": "সিদ্ধান্তের অপেক্ষায়",

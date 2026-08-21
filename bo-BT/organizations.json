@@ -82,6 +82,7 @@
   "org.workProposal.propose": "བརྩམས་ཆོས་འཆར་འབུལ།",
   "org.workProposal.selectWork": "འཆར་འབུལ་བྱ་རྒྱུའི་བརྩམས་ཆོས།",
   "org.workProposal.note": "ཚོགས་པར་འཕྲིན་ཐུང་ (གདམ་ཀ)",
+  "org.workProposal.translatorBudget": "ཡིག་སྒྱུར་བའི་འགྲོ་གྲོན། (ཚོགས་པས་བསྐོ་བཞག་བྱས་པའི་ཡིག་སྒྱུར་བའི་% ཚད་བཀག གདམ་ཀ)",
   "org.workProposal.submit": "བརྩམས་ཆོས་འཆར་འབུལ།",
   "org.workProposal.withdraw": "ཕྱིར་འཐེན།",
   "org.workProposal.status.pending": "ཐག་གཅོད་ལ་སྒུག་བཞིན།",

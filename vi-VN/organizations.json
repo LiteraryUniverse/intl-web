@@ -82,6 +82,7 @@
   "org.workProposal.propose": "Đề xuất tác phẩm",
   "org.workProposal.selectWork": "Tác phẩm cần đề xuất",
   "org.workProposal.note": "Lời nhắn cho tổ chức (không bắt buộc)",
+  "org.workProposal.translatorBudget": "Ngân sách dịch giả (mức trần % cho các dịch giả do tổ chức chỉ định, tùy chọn)",
   "org.workProposal.submit": "Gửi đề xuất",
   "org.workProposal.withdraw": "Rút lại",
   "org.workProposal.status.pending": "Đang chờ quyết định",

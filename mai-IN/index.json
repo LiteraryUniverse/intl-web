@@ -2991,6 +2991,7 @@
   "org.workProposal.propose": "रचना प्रस्तावित करू",
   "org.workProposal.selectWork": "प्रस्तावित करबाक रचना",
   "org.workProposal.note": "संगठन लेल संदेश (वैकल्पिक)",
+  "org.workProposal.translatorBudget": "अनुवादक बजट (संगठन द्वारा नियुक्त अनुवादक सभक लेल % सीमा, वैकल्पिक)",
   "org.workProposal.submit": "रचना प्रस्तावित करू",
   "org.workProposal.withdraw": "वापस लिअ",
   "org.workProposal.status.pending": "निर्णयक प्रतीक्षा",

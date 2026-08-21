@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Ehdota teosta",
   "org.workProposal.selectWork": "Ehdotettava teos",
   "org.workProposal.note": "Viesti organisaatiolle (valinnainen)",
+  "org.workProposal.translatorBudget": "Kääntäjäbudjetti (%-yläraja organisaation nimeämille kääntäjille, valinnainen)",
   "org.workProposal.submit": "Ehdota teosta",
   "org.workProposal.withdraw": "Peruuta ehdotus",
   "org.workProposal.status.pending": "Odottaa päätöstä",

@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Proposar una obra",
   "org.workProposal.selectWork": "Obra a proposar",
   "org.workProposal.note": "Missatge per a l’organització (opcional)",
+  "org.workProposal.translatorBudget": "Pressupost de traductors (límit en % per als traductors que assigni l'organització, opcional)",
   "org.workProposal.submit": "Proposar obra",
   "org.workProposal.withdraw": "Retirar",
   "org.workProposal.status.pending": "Pendent de decisió",

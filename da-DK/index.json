@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Foreslå et værk",
   "org.workProposal.selectWork": "Værk der skal foreslås",
   "org.workProposal.note": "Besked til organisationen (valgfrit)",
+  "org.workProposal.translatorBudget": "Oversætterbudget (loft i % for oversættere, som organisationen tildeler, valgfrit)",
   "org.workProposal.submit": "Foreslå værk",
   "org.workProposal.withdraw": "Træk tilbage",
   "org.workProposal.status.pending": "Afventer beslutning",

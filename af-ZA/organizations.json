@@ -82,6 +82,7 @@
   "org.workProposal.propose": "Stel ’n werk voor",
   "org.workProposal.selectWork": "Werk om voor te stel",
   "org.workProposal.note": "Boodskap aan die organisasie (opsioneel)",
+  "org.workProposal.translatorBudget": "Vertalerbegroting (%-plafon vir vertalers wat die organisasie aanwys, opsioneel)",
   "org.workProposal.submit": "Stel werk voor",
   "org.workProposal.withdraw": "Trek terug",
   "org.workProposal.status.pending": "Wag op besluit",

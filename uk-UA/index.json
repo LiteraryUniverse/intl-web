@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Запропонувати твір",
   "org.workProposal.selectWork": "Твір для пропозиції",
   "org.workProposal.note": "Повідомлення для організації (необов’язково)",
+  "org.workProposal.translatorBudget": "Бюджет перекладачів (межа у % для перекладачів, призначених організацією, необов'язково)",
   "org.workProposal.submit": "Запропонувати твір",
   "org.workProposal.withdraw": "Відкликати",
   "org.workProposal.status.pending": "Очікує рішення",

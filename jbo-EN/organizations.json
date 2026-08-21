@@ -82,6 +82,7 @@
   "org.workProposal.propose": "stidi pa cukta",
   "org.workProposal.selectWork": "lo cukta poi se stidi",
   "org.workProposal.note": "notci le kagni (na sarcu)",
+  "org.workProposal.translatorBudget": "fanva jdini (le zmadu parbi pe le fanva poi le kagni cu cuxna, na sarcu)",
   "org.workProposal.submit": "stidi le cukta",
   "org.workProposal.withdraw": "xruti lo se stidi",
   "org.workProposal.status.pending": "denpa lo nu pajni",

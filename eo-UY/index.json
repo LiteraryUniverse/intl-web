@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Proponi verkon",
   "org.workProposal.selectWork": "Verko por proponi",
   "org.workProposal.note": "Mesaĝo al la organizo (nedeviga)",
+  "org.workProposal.translatorBudget": "Tradukista buĝeto (%-plafono por tradukistoj, kiujn la organizo asignas, nedeviga)",
   "org.workProposal.submit": "Proponi verkon",
   "org.workProposal.withdraw": "Retiri",
   "org.workProposal.status.pending": "Atendas decidon",

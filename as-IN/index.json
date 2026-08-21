@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "সৃষ্টি প্ৰস্তাৱ কৰক",
   "org.workProposal.selectWork": "প্ৰস্তাৱ কৰিবলগীয়া সৃষ্টি",
   "org.workProposal.note": "সংগঠনলৈ বাৰ্তা (ঐচ্ছিক)",
+  "org.workProposal.translatorBudget": "অনুবাদক বাজেট (সংস্থাই নিযুক্ত কৰা অনুবাদকসকলৰ বাবে % সীমা, ঐচ্ছিক)",
   "org.workProposal.submit": "সৃষ্টি প্ৰস্তাৱ কৰক",
   "org.workProposal.withdraw": "প্ৰত্যাহাৰ কৰক",
   "org.workProposal.status.pending": "সিদ্ধান্তৰ অপেক্ষাত",

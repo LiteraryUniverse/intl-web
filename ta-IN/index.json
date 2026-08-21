@@ -2991,6 +2991,7 @@
   "org.workProposal.propose": "படைப்பை முன்மொழி",
   "org.workProposal.selectWork": "முன்மொழியும் படைப்பு",
   "org.workProposal.note": "அமைப்புக்கான செய்தி (விருப்பத்தேர்வு)",
+  "org.workProposal.translatorBudget": "மொழிபெயர்ப்பாளர் பட்ஜெட் (அமைப்பு நியமிக்கும் மொழிபெயர்ப்பாளர்களுக்கான % வரம்பு, விருப்பத்திற்குரியது)",
   "org.workProposal.submit": "படைப்பை முன்மொழி",
   "org.workProposal.withdraw": "திரும்பப் பெறு",
   "org.workProposal.status.pending": "முடிவுக்குக் காத்திருக்கிறது",

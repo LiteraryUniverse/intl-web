@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Ponúknuť dielo",
   "org.workProposal.selectWork": "Dielo na ponúknutie",
   "org.workProposal.note": "Správa pre organizáciu (nepovinné)",
+  "org.workProposal.translatorBudget": "Rozpočet pre prekladateľov (strop v % pre prekladateľov pridelených organizáciou, nepovinné)",
   "org.workProposal.submit": "Ponúknuť dielo",
   "org.workProposal.withdraw": "Stiahnuť ponuku",
   "org.workProposal.status.pending": "Čaká na rozhodnutie",

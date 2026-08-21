@@ -84,6 +84,7 @@
   "org.workProposal.propose": "કૃતિ પ્રસ્તાવિત કરો",
   "org.workProposal.selectWork": "પ્રસ્તાવિત કરવાની કૃતિ",
   "org.workProposal.note": "સંસ્થા માટે સંદેશ (વૈકલ્પિક)",
+  "org.workProposal.translatorBudget": "અનુવાદક બજેટ (સંસ્થા દ્વારા સોંપાયેલા અનુવાદકો માટે % મર્યાદા, વૈકલ્પિક)",
   "org.workProposal.submit": "કૃતિ પ્રસ્તાવિત કરો",
   "org.workProposal.withdraw": "પાછું ખેંચો",
   "org.workProposal.status.pending": "નિર્ણયની રાહમાં",

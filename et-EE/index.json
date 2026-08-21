@@ -2989,6 +2989,7 @@
   "org.workProposal.propose": "Paku teost",
   "org.workProposal.selectWork": "Pakutav teos",
   "org.workProposal.note": "Sõnum organisatsioonile (valikuline)",
+  "org.workProposal.translatorBudget": "Tõlkijate eelarve (%-ülempiir organisatsiooni määratud tõlkijatele, valikuline)",
   "org.workProposal.submit": "Paku teost",
   "org.workProposal.withdraw": "Võta tagasi",
   "org.workProposal.status.pending": "Ootab otsust",

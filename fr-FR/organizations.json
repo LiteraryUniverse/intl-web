@@ -84,6 +84,7 @@
   "org.workProposal.propose": "Proposer une œuvre",
   "org.workProposal.selectWork": "Œuvre à proposer",
   "org.workProposal.note": "Message à l’organisation (facultatif)",
+  "org.workProposal.translatorBudget": "Budget traducteurs (plafond en % pour les traducteurs désignés par l'organisation, facultatif)",
   "org.workProposal.submit": "Proposer l’œuvre",
   "org.workProposal.withdraw": "Retirer",
   "org.workProposal.status.pending": "En attente de décision",

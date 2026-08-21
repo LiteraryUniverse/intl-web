@@ -82,6 +82,7 @@
   "org.workProposal.propose": "Mol saothar",
   "org.workProposal.selectWork": "Saothar le moladh",
   "org.workProposal.note": "Teachtaireacht chuig an eagraíocht (roghnach)",
+  "org.workProposal.translatorBudget": "Buiséad aistritheoirí (uasteorainn % d'aistritheoirí a shannann an eagraíocht, roghnach)",
   "org.workProposal.submit": "Mol an saothar",
   "org.workProposal.withdraw": "Tarraing siar",
   "org.workProposal.status.pending": "Ag fanacht le cinneadh",
