@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Personer",
+  "blog.people.intro": "Giv nogen adgang til en del af denne blog uden at give dem din konto. Hver tilladelse virker for sig og gælder kun denne blog.",
+  "blog.people.add": "Tilføj nogen til denne blog",
+  "blog.people.none": "Ingen andre har adgang til denne blog endnu.",
+  "blog.people.mine": "Blogs, du hjælper med at drive",
+  "blog.permission.manage": "Blogadministration",
+  "blog.permission.manage.help": "Indstillinger, tema, sider og menuer.",
+  "blog.permission.content.help": "Skrive, redigere og udgive indlæg.",
+  "blog.permission.billing.help": "Åbne betalingsportalen og skifte abonnement. Portalen omfatter hele den konto, der betaler for denne blog — alle dens abonnementer, fakturaer og betalingsmetoder, ikke kun denne blog.",
+  "blog.billing": "Betaling",
+  "blog.billing.intro": "Administrér det abonnement, der betaler for denne blog — skift abonnement, opdatér betalingsmetoden eller hent fakturaer.",
+  "blog.billing.open": "Åbn betalingsportalen"
 }

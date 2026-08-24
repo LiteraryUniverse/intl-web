@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Люди",
+  "blog.people.intro": "Дайте кому-то доступ к части этого блога, не отдавая свою учётную запись. Каждое разрешение действует само по себе и относится только к этому блогу.",
+  "blog.people.add": "Добавить кого-то в этот блог",
+  "blog.people.none": "Пока ни у кого больше нет доступа к этому блогу.",
+  "blog.people.mine": "Блоги, которые вы помогаете вести",
+  "blog.permission.manage": "Управление блогом",
+  "blog.permission.manage.help": "Настройки, оформление, страницы и меню.",
+  "blog.permission.content.help": "Писать, редактировать и публиковать записи.",
+  "blog.permission.billing.help": "Открытие платёжного портала и смена тарифа. Портал охватывает всю учётную запись, которая оплачивает этот блог, — все её подписки, счета и способы оплаты, а не только этот блог.",
+  "blog.billing": "Оплата",
+  "blog.billing.intro": "Управляйте подпиской, которая оплачивает этот блог: смените тариф, обновите способ оплаты или скачайте счета.",
+  "blog.billing.open": "Открыть платёжный портал"
 }

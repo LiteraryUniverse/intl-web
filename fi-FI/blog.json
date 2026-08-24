@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Henkilöt",
+  "blog.people.intro": "Anna jollekulle pääsy osaan tästä blogista luovuttamatta tiliäsi. Jokainen oikeus toimii erikseen ja koskee vain tätä blogia.",
+  "blog.people.add": "Lisää joku tähän blogiin",
+  "blog.people.none": "Kenelläkään muulla ei vielä ole pääsyä tähän blogiin.",
+  "blog.people.mine": "Blogit, joita autat hoitamaan",
+  "blog.permission.manage": "Blogin hallinta",
+  "blog.permission.manage.help": "Asetukset, teema, sivut ja valikot.",
+  "blog.permission.content.help": "Kirjoita, muokkaa ja julkaise kirjoituksia.",
+  "blog.permission.billing.help": "Maksuportaalin avaaminen ja tilauksen vaihtaminen. Portaali kattaa koko tilin, joka maksaa tämän blogin — kaikki sen tilaukset, laskut ja maksutavat, ei vain tätä blogia.",
+  "blog.billing": "Laskutus",
+  "blog.billing.intro": "Hallinnoi tilausta, joka maksaa tämän blogin: vaihda tilausta, päivitä maksutapa tai lataa laskuja.",
+  "blog.billing.open": "Avaa maksuportaali"
 }

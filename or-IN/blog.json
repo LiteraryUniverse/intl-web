@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "ଲୋକମାନେ",
+  "blog.people.intro": "ନିଜ ଖାତା ନ ଦେଇ କାହାକୁ ଏହି ବ୍ଲଗର ଏକ ଅଂଶକୁ ପ୍ରବେଶ ଦିଅନ୍ତୁ। ପ୍ରତ୍ୟେକ ଅନୁମତି ଅଲଗା ଭାବରେ କାମ କରେ ଏବଂ କେବଳ ଏହି ବ୍ଲଗ ପାଇଁ ପ୍ରଯୁଜ୍ୟ।",
+  "blog.people.add": "ଏହି ବ୍ଲଗରେ କାହାକୁ ଯୋଡ଼ନ୍ତୁ",
+  "blog.people.none": "ଏପର୍ଯ୍ୟନ୍ତ ଅନ୍ୟ କାହାରି ଏହି ବ୍ଲଗକୁ ପ୍ରବେଶ ନାହିଁ।",
+  "blog.people.mine": "ଆପଣ ଚଳାଇବାରେ ସାହାଯ୍ୟ କରୁଥିବା ବ୍ଲଗଗୁଡ଼ିକ",
+  "blog.permission.manage": "ବ୍ଲଗ ପରିଚାଳନା",
+  "blog.permission.manage.help": "ସେଟିଂସ, ଥିମ, ପୃଷ୍ଠା ଓ ମେନୁ।",
+  "blog.permission.content.help": "ପୋଷ୍ଟ ଲେଖିବା, ସମ୍ପାଦନା ଓ ପ୍ରକାଶନ।",
+  "blog.permission.billing.help": "ଦେୟ ପୋର୍ଟାଲ ଖୋଲିବା ଏବଂ ଯୋଜନା ବଦଳାଇବା। ଏହି ପୋର୍ଟାଲ ସେହି ସମ୍ପୂର୍ଣ୍ଣ ଖାତାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ ଯାହା ଏହି ବ୍ଲଗର ଦେୟ ଦିଏ — କେବଳ ଏହି ବ୍ଲଗ ନୁହେଁ, ସେହି ଖାତାର ସମସ୍ତ ସଦସ୍ୟତା, ଚାଲାନ ଓ ଦେୟ ପଦ୍ଧତି।",
+  "blog.billing": "ଦେୟ",
+  "blog.billing.intro": "ଏହି ବ୍ଲଗର ଦେୟ ଦେଉଥିବା ସଦସ୍ୟତା ପରିଚାଳନା କରନ୍ତୁ: ଯୋଜନା ବଦଳାନ୍ତୁ, ଦେୟ ପଦ୍ଧତି ଅଦ୍ୟତନ କରନ୍ତୁ କିମ୍ବା ଚାଲାନ ଡାଉନଲୋଡ କରନ୍ତୁ।",
+  "blog.billing.open": "ଦେୟ ପୋର୍ଟାଲ ଖୋଲନ୍ତୁ"
 }

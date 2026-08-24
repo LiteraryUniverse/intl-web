@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "ადამიანები",
+  "blog.people.intro": "მიეცით ვინმეს წვდომა ამ ბლოგის ნაწილზე ისე, რომ თქვენი ანგარიში არ გადასცეთ. თითოეული ნებართვა ცალკე მოქმედებს და მხოლოდ ამ ბლოგს ეხება.",
+  "blog.people.add": "ვინმეს დამატება ამ ბლოგზე",
+  "blog.people.none": "ჯერჯერობით სხვას არ აქვს წვდომა ამ ბლოგზე.",
+  "blog.people.mine": "ბლოგები, რომელთა მართვაშიც ეხმარებით",
+  "blog.permission.manage": "ბლოგის მართვა",
+  "blog.permission.manage.help": "პარამეტრები, თემა, გვერდები და მენიუები.",
+  "blog.permission.content.help": "პოსტების დაწერა, რედაქტირება და გამოქვეყნება.",
+  "blog.permission.billing.help": "გადახდის პორტალის გახსნა და გეგმის შეცვლა. პორტალი მოიცავს მთელ ანგარიშს, რომელიც ამ ბლოგს იხდის — მის ყველა გამოწერას, ანგარიშ-ფაქტურასა და გადახდის მეთოდს, და არა მხოლოდ ამ ბლოგს.",
+  "blog.billing": "გადახდები",
+  "blog.billing.intro": "მართეთ გამოწერა, რომელიც ამ ბლოგს იხდის: შეცვალეთ გეგმა, განაახლეთ გადახდის მეთოდი ან ჩამოტვირთეთ ანგარიშ-ფაქტურები.",
+  "blog.billing.open": "გადახდის პორტალის გახსნა"
 }

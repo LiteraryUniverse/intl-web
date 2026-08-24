@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "ಜನರು",
+  "blog.people.intro": "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಒಪ್ಪಿಸದೆಯೇ ಈ ಬ್ಲಾಗ್‌ನ ಒಂದು ಭಾಗಕ್ಕೆ ಯಾರಿಗಾದರೂ ಪ್ರವೇಶ ನೀಡಿ. ಪ್ರತಿ ಅನುಮತಿಯೂ ಪ್ರತ್ಯೇಕವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಮತ್ತು ಈ ಬ್ಲಾಗ್‌ಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ.",
+  "blog.people.add": "ಈ ಬ್ಲಾಗ್‌ಗೆ ಯಾರನ್ನಾದರೂ ಸೇರಿಸಿ",
+  "blog.people.none": "ಇನ್ನೂ ಬೇರೆ ಯಾರಿಗೂ ಈ ಬ್ಲಾಗ್‌ಗೆ ಪ್ರವೇಶವಿಲ್ಲ.",
+  "blog.people.mine": "ನೀವು ನಿರ್ವಹಿಸಲು ಸಹಾಯ ಮಾಡುವ ಬ್ಲಾಗ್‌ಗಳು",
+  "blog.permission.manage": "ಬ್ಲಾಗ್ ನಿರ್ವಹಣೆ",
+  "blog.permission.manage.help": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ಥೀಮ್, ಪುಟಗಳು ಮತ್ತು ಮೆನುಗಳು.",
+  "blog.permission.content.help": "ಪೋಸ್ಟ್‌ಗಳನ್ನು ಬರೆಯುವುದು, ಸಂಪಾದಿಸುವುದು ಮತ್ತು ಪ್ರಕಟಿಸುವುದು.",
+  "blog.permission.billing.help": "ಪಾವತಿ ಪೋರ್ಟಲ್ ತೆರೆಯುವುದು ಮತ್ತು ಯೋಜನೆ ಬದಲಾಯಿಸುವುದು. ಈ ಪೋರ್ಟಲ್ ಈ ಬ್ಲಾಗ್‌ಗೆ ಪಾವತಿಸುವ ಇಡೀ ಖಾತೆಯನ್ನು ಒಳಗೊಳ್ಳುತ್ತದೆ — ಈ ಬ್ಲಾಗ್ ಮಾತ್ರವಲ್ಲ, ಆ ಖಾತೆಯ ಎಲ್ಲ ಚಂದಾದಾರಿಕೆಗಳು, ಇನ್‌ವಾಯ್ಸ್‌ಗಳು ಮತ್ತು ಪಾವತಿ ವಿಧಾನಗಳು.",
+  "blog.billing": "ಪಾವತಿ",
+  "blog.billing.intro": "ಈ ಬ್ಲಾಗ್‌ಗೆ ಪಾವತಿಸುವ ಚಂದಾದಾರಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ: ಯೋಜನೆ ಬದಲಾಯಿಸಿ, ಪಾವತಿ ವಿಧಾನ ನವೀಕರಿಸಿ ಅಥವಾ ಇನ್‌ವಾಯ್ಸ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.",
+  "blog.billing.open": "ಪಾವತಿ ಪೋರ್ಟಲ್ ತೆರೆಯಿರಿ"
 }

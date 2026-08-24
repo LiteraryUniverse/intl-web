@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Homoj",
+  "blog.people.intro": "Donu al iu aliron al parto de ĉi tiu blogo sen transdoni vian konton. Ĉiu permeso funkcias aparte kaj validas nur por ĉi tiu blogo.",
+  "blog.people.add": "Aldoni iun al ĉi tiu blogo",
+  "blog.people.none": "Neniu alia ankoraŭ havas aliron al ĉi tiu blogo.",
+  "blog.people.mine": "Blogoj kiujn vi helpas administri",
+  "blog.permission.manage": "Administrado de blogo",
+  "blog.permission.manage.help": "Agordoj, etoso, paĝoj kaj menuoj.",
+  "blog.permission.content.help": "Verki, redakti kaj publikigi afiŝojn.",
+  "blog.permission.billing.help": "Malfermi la pagportalon kaj ŝanĝi la planon. La portalo koncernas la tutan konton kiu pagas ĉi tiun blogon — ĉiujn ĝiajn abonojn, fakturojn kaj pagmetodojn, ne nur ĉi tiun blogon.",
+  "blog.billing": "Fakturado",
+  "blog.billing.intro": "Administru la abonon kiu pagas ĉi tiun blogon: ŝanĝu la planon, ĝisdatigu la pagmetodon aŭ elŝutu fakturojn.",
+  "blog.billing.open": "Malfermi la pagportalon"
 }

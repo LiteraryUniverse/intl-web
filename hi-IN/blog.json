@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "लोग",
+  "blog.people.intro": "अपना खाता सौंपे बिना किसी को इस ब्लॉग के एक हिस्से तक पहुँच दें। हर अनुमति अलग से काम करती है और सिर्फ़ इसी ब्लॉग पर लागू होती है।",
+  "blog.people.add": "इस ब्लॉग में किसी को जोड़ें",
+  "blog.people.none": "अभी तक किसी और के पास इस ब्लॉग तक पहुँच नहीं है।",
+  "blog.people.mine": "वे ब्लॉग जिन्हें चलाने में आप मदद करते हैं",
+  "blog.permission.manage": "ब्लॉग प्रबंधन",
+  "blog.permission.manage.help": "सेटिंग्स, थीम, पेज और मेन्यू।",
+  "blog.permission.content.help": "पोस्ट लिखना, संपादित करना और प्रकाशित करना।",
+  "blog.permission.billing.help": "भुगतान पोर्टल खोलना और योजना बदलना। यह पोर्टल उस पूरे खाते को कवर करता है जो इस ब्लॉग का भुगतान करता है — उसकी सभी सदस्यताएँ, चालान और भुगतान विधियाँ, न कि केवल यह ब्लॉग।",
+  "blog.billing": "भुगतान",
+  "blog.billing.intro": "उस सदस्यता का प्रबंधन करें जो इस ब्लॉग का भुगतान करती है: योजना बदलें, भुगतान विधि अपडेट करें या चालान डाउनलोड करें।",
+  "blog.billing.open": "भुगतान पोर्टल खोलें"
 }

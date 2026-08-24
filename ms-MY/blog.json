@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Orang",
+  "blog.people.intro": "Beri seseorang akses kepada sebahagian blog ini tanpa menyerahkan akaun anda. Setiap kebenaran berfungsi secara berasingan dan hanya terpakai untuk blog ini.",
+  "blog.people.add": "Tambah seseorang ke blog ini",
+  "blog.people.none": "Belum ada orang lain yang mempunyai akses ke blog ini.",
+  "blog.people.mine": "Blog yang anda bantu uruskan",
+  "blog.permission.manage": "Pengurusan blog",
+  "blog.permission.manage.help": "Tetapan, tema, halaman dan menu.",
+  "blog.permission.content.help": "Menulis, menyunting dan menerbitkan catatan.",
+  "blog.permission.billing.help": "Membuka portal pembayaran dan menukar pelan. Portal ini merangkumi keseluruhan akaun yang membayar blog ini — semua langganan, invois dan kaedah pembayarannya, bukan blog ini sahaja.",
+  "blog.billing": "Pembayaran",
+  "blog.billing.intro": "Uruskan langganan yang membayar blog ini: tukar pelan, kemas kini kaedah pembayaran atau muat turun invois.",
+  "blog.billing.open": "Buka portal pembayaran"
 }

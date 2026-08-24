@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "メンバー",
+  "blog.people.intro": "アカウントを渡さずに、このブログの一部だけを他の人に任せられます。各権限はそれぞれ独立して働き、このブログにのみ適用されます。",
+  "blog.people.add": "このブログにメンバーを追加",
+  "blog.people.none": "まだ他の人はこのブログにアクセスできません。",
+  "blog.people.mine": "運営を手伝っているブログ",
+  "blog.permission.manage": "ブログ管理",
+  "blog.permission.manage.help": "設定、テーマ、固定ページ、メニュー。",
+  "blog.permission.content.help": "記事の作成・編集・公開。",
+  "blog.permission.billing.help": "支払いポータルを開き、プランを変更します。ポータルはこのブログの費用を支払っているアカウント全体を対象とし、このブログだけでなく、そのアカウントのすべてのサブスクリプション・請求書・支払い方法が含まれます。",
+  "blog.billing": "支払い",
+  "blog.billing.intro": "このブログの費用を支払っているサブスクリプションを管理します。プランの変更、支払い方法の更新、請求書のダウンロードができます。",
+  "blog.billing.open": "支払いポータルを開く"
 }

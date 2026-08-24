@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Ľudia",
+  "blog.people.intro": "Dajte niekomu prístup k časti tohto blogu bez toho, aby ste mu dali svoj účet. Každé oprávnenie funguje samostatne a platí len pre tento blog.",
+  "blog.people.add": "Pridať niekoho k tomuto blogu",
+  "blog.people.none": "Zatiaľ k tomuto blogu nemá prístup nikto ďalší.",
+  "blog.people.mine": "Blogy, ktoré pomáhate spravovať",
+  "blog.permission.manage": "Správa blogu",
+  "blog.permission.manage.help": "Nastavenia, vzhľad, stránky a ponuky.",
+  "blog.permission.content.help": "Písanie, úprava a publikovanie príspevkov.",
+  "blog.permission.billing.help": "Otvorenie platobného portálu a zmena tarifu. Portál sa týka celého účtu, ktorý tento blog platí — všetkých jeho predplatných, faktúr a platobných metód, nielen tohto blogu.",
+  "blog.billing": "Platby",
+  "blog.billing.intro": "Spravujte predplatné, ktoré platí tento blog — zmeňte tarif, aktualizujte platobnú metódu alebo si stiahnite faktúry.",
+  "blog.billing.open": "Otvoriť platobný portál"
 }

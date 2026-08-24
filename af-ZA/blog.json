@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Mense",
+  "blog.people.intro": "Gee iemand toegang tot 'n deel van hierdie blog sonder om jou rekening af te staan. Elke magtiging werk op sy eie en geld net vir hierdie blog.",
+  "blog.people.add": "Voeg iemand by hierdie blog",
+  "blog.people.none": "Niemand anders het nog toegang tot hierdie blog nie.",
+  "blog.people.mine": "Blogs wat jy help bestuur",
+  "blog.permission.manage": "Blogbestuur",
+  "blog.permission.manage.help": "Instellings, tema, bladsye en spyskaarte.",
+  "blog.permission.content.help": "Skryf, redigeer en publiseer plasings.",
+  "blog.permission.billing.help": "Maak die betaalportaal oop en verander die plan. Die portaal dek die hele rekening wat vir hierdie blog betaal — al die intekeninge, fakture en betaalmetodes daarop, nie net hierdie blog nie.",
+  "blog.billing": "Fakturering",
+  "blog.billing.intro": "Bestuur die intekening wat vir hierdie blog betaal: verander die plan, werk die betaalmetode by of laai fakture af.",
+  "blog.billing.open": "Maak betaalportaal oop"
 }

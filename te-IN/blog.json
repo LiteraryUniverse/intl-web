@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "వ్యక్తులు",
+  "blog.people.intro": "మీ ఖాతాను అప్పగించకుండానే ఈ బ్లాగులోని ఒక భాగానికి ఎవరికైనా ప్రవేశం ఇవ్వండి. ప్రతి అనుమతి విడిగా పనిచేస్తుంది, ఈ బ్లాగుకు మాత్రమే వర్తిస్తుంది.",
+  "blog.people.add": "ఈ బ్లాగుకు ఎవరినైనా జోడించండి",
+  "blog.people.none": "ఈ బ్లాగుకు ఇంకా ఎవరికీ ప్రవేశం లేదు.",
+  "blog.people.mine": "మీరు నిర్వహించడంలో సహాయపడే బ్లాగులు",
+  "blog.permission.manage": "బ్లాగు నిర్వహణ",
+  "blog.permission.manage.help": "సెట్టింగ్‌లు, థీమ్, పేజీలు, మెనూలు.",
+  "blog.permission.content.help": "పోస్ట్‌లు రాయడం, సవరించడం, ప్రచురించడం.",
+  "blog.permission.billing.help": "చెల్లింపు పోర్టల్‌ను తెరవడం, ప్లాన్ మార్చడం. ఈ బ్లాగుకు చెల్లిస్తున్న మొత్తం ఖాతాను ఈ పోర్టల్ కవర్ చేస్తుంది — ఈ బ్లాగు మాత్రమే కాదు, ఆ ఖాతాలోని అన్ని సభ్యత్వాలు, ఇన్‌వాయిస్‌లు, చెల్లింపు పద్ధతులు.",
+  "blog.billing": "చెల్లింపు",
+  "blog.billing.intro": "ఈ బ్లాగుకు చెల్లిస్తున్న సభ్యత్వాన్ని నిర్వహించండి: ప్లాన్ మార్చండి, చెల్లింపు పద్ధతిని నవీకరించండి లేదా ఇన్‌వాయిస్‌లను డౌన్‌లోడ్ చేయండి.",
+  "blog.billing.open": "చెల్లింపు పోర్టల్ తెరవండి"
 }

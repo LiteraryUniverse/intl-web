@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "લોકો",
+  "blog.people.intro": "તમારું ખાતું સોંપ્યા વિના કોઈને આ બ્લોગના એક ભાગની ઍક્સેસ આપો. દરેક પરવાનગી અલગથી કામ કરે છે અને માત્ર આ બ્લોગને લાગુ પડે છે.",
+  "blog.people.add": "આ બ્લોગમાં કોઈને ઉમેરો",
+  "blog.people.none": "હજી સુધી બીજા કોઈને આ બ્લોગની ઍક્સેસ નથી.",
+  "blog.people.mine": "તમે જે બ્લોગ ચલાવવામાં મદદ કરો છો",
+  "blog.permission.manage": "બ્લોગ સંચાલન",
+  "blog.permission.manage.help": "સેટિંગ્સ, થીમ, પાનાં અને મેનુ.",
+  "blog.permission.content.help": "પોસ્ટ લખવી, સંપાદિત કરવી અને પ્રકાશિત કરવી.",
+  "blog.permission.billing.help": "ચુકવણી પોર્ટલ ખોલવું અને પ્લાન બદલવો. આ પોર્ટલ એ આખા ખાતાને આવરી લે છે જે આ બ્લોગનો ખર્ચ ચૂકવે છે — માત્ર આ બ્લોગ નહીં, તેની બધી સબસ્ક્રિપ્શન, ઇન્વૉઇસ અને ચુકવણી પદ્ધતિઓ.",
+  "blog.billing": "ચુકવણી",
+  "blog.billing.intro": "આ બ્લોગનો ખર્ચ ચૂકવતી સબસ્ક્રિપ્શનનું સંચાલન કરો: પ્લાન બદલો, ચુકવણી પદ્ધતિ અપડેટ કરો કે ઇન્વૉઇસ ડાઉનલોડ કરો.",
+  "blog.billing.open": "ચુકવણી પોર્ટલ ખોલો"
 }

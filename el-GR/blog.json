@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Άτομα",
+  "blog.people.intro": "Δώστε σε κάποιον πρόσβαση σε ένα μέρος αυτού του ιστολογίου χωρίς να του δώσετε τον λογαριασμό σας. Κάθε δικαίωμα λειτουργεί ξεχωριστά και ισχύει μόνο για αυτό το ιστολόγιο.",
+  "blog.people.add": "Προσθήκη κάποιου σε αυτό το ιστολόγιο",
+  "blog.people.none": "Κανείς άλλος δεν έχει ακόμη πρόσβαση σε αυτό το ιστολόγιο.",
+  "blog.people.mine": "Ιστολόγια που βοηθάτε να διαχειρίζονται",
+  "blog.permission.manage": "Διαχείριση ιστολογίου",
+  "blog.permission.manage.help": "Ρυθμίσεις, θέμα, σελίδες και μενού.",
+  "blog.permission.content.help": "Σύνταξη, επεξεργασία και δημοσίευση αναρτήσεων.",
+  "blog.permission.billing.help": "Άνοιγμα της πύλης χρέωσης και αλλαγή προγράμματος. Η πύλη αφορά ολόκληρο τον λογαριασμό που πληρώνει αυτό το ιστολόγιο — όλες τις συνδρομές, τα τιμολόγια και τους τρόπους πληρωμής του, όχι μόνο αυτό το ιστολόγιο.",
+  "blog.billing": "Χρέωση",
+  "blog.billing.intro": "Διαχειριστείτε τη συνδρομή που πληρώνει αυτό το ιστολόγιο: αλλάξτε πρόγραμμα, ενημερώστε τον τρόπο πληρωμής ή κατεβάστε τιμολόγια.",
+  "blog.billing.open": "Άνοιγμα πύλης χρέωσης"
 }

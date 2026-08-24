@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Anak",
+  "blog.people.intro": "Baang anak lianan akses ka silih tunggil bagian blog puniki tanpa nyerahang akun ragané. Suang-suang idin mamargi padidi tur wantah maprakanti ring blog puniki.",
+  "blog.people.add": "Imbuhin anak ring blog puniki",
+  "blog.people.none": "Durung wénten anak lianan sané madué akses ka blog puniki.",
+  "blog.people.mine": "Blog sané kabantu ragané ngenter",
+  "blog.permission.manage": "Pangenter blog",
+  "blog.permission.manage.help": "Setélan, téma, kaca, miwah menu.",
+  "blog.permission.content.help": "Nyurat, nyunting, miwah ngmedalang kiriman.",
+  "blog.permission.billing.help": "Ngedengang portal pamayahan miwah ngentosin paket. Portal puniki ngranjing akun sané mayah blog puniki — sami langganan, tagihan, miwah cara pamayahannyané, boya ja wantah blog puniki.",
+  "blog.billing": "Pamayahan",
+  "blog.billing.intro": "Enterang langganan sané mayah blog puniki: entosin paket, anyarin cara pamayahan, utawi undhuh tagihan.",
+  "blog.billing.open": "Buka portal pamayahan"
 }

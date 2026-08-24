@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "មនុស្ស",
+  "blog.people.intro": "ផ្តល់សិទ្ធិចូលប្រើផ្នែកខ្លះនៃប្លុកនេះដល់អ្នកផ្សេង ដោយមិនចាំបាច់ប្រគល់គណនីរបស់អ្នក។ សិទ្ធិនីមួយៗដំណើរការដោយឡែក ហើយអនុវត្តតែចំពោះប្លុកនេះប៉ុណ្ណោះ។",
+  "blog.people.add": "បន្ថែមអ្នកណាម្នាក់ទៅប្លុកនេះ",
+  "blog.people.none": "មិនទាន់មានអ្នកផ្សេងអាចចូលប្រើប្លុកនេះទេ។",
+  "blog.people.mine": "ប្លុកដែលអ្នកជួយគ្រប់គ្រង",
+  "blog.permission.manage": "ការគ្រប់គ្រងប្លុក",
+  "blog.permission.manage.help": "ការកំណត់ រូបរាង ទំព័រ និងម៉ឺនុយ។",
+  "blog.permission.content.help": "សរសេរ កែសម្រួល និងផ្សាយប្រកាស។",
+  "blog.permission.billing.help": "បើកវិបផតថលទូទាត់ និងប្តូរគម្រោង។ វិបផតថលនេះគ្របដណ្តប់គណនីទាំងមូលដែលបង់ថ្លៃប្លុកនេះ — រាល់ការជាវ វិក្កយបត្រ និងវិធីទូទាត់របស់វា មិនមែនតែប្លុកនេះទេ។",
+  "blog.billing": "ការទូទាត់",
+  "blog.billing.intro": "គ្រប់គ្រងការជាវដែលបង់ថ្លៃប្លុកនេះ៖ ប្តូរគម្រោង ធ្វើបច្ចុប្បន្នភាពវិធីទូទាត់ ឬទាញយកវិក្កយបត្រ។",
+  "blog.billing.open": "បើកវិបផតថលទូទាត់"
 }

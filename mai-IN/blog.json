@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "लोक",
+  "blog.people.intro": "अपन खाता देने बिना ककरो एहि ब्लॉगक एक भागमे प्रवेश दिअ। प्रत्येक अनुमति अलग-अलग काज करैत अछि आ केवल एहि ब्लॉगपर लागू होइत अछि।",
+  "blog.people.add": "एहि ब्लॉगमे ककरो जोड़ू",
+  "blog.people.none": "एखन धरि आन ककरो एहि ब्लॉगमे प्रवेश नहि अछि।",
+  "blog.people.mine": "जे ब्लॉग चलेबामे अहाँ मदद करैत छी",
+  "blog.permission.manage": "ब्लॉग प्रबंधन",
+  "blog.permission.manage.help": "सेटिंग्स, थीम, पन्ना आ मेनू।",
+  "blog.permission.content.help": "पोस्ट लिखनाइ, संपादन आ प्रकाशन।",
+  "blog.permission.billing.help": "भुगतान पोर्टल खोलनाइ आ योजना बदलनाइ। ई पोर्टल ओहि पूरा खाताकेँ समेटैत अछि जे एहि ब्लॉगक भुगतान करैत अछि — केवल ई ब्लॉग नहि, ओकर सभ सदस्यता, चालान आ भुगतान विधि।",
+  "blog.billing": "भुगतान",
+  "blog.billing.intro": "ओहि सदस्यताक प्रबंधन करू जे एहि ब्लॉगक भुगतान करैत अछि: योजना बदलू, भुगतान विधि अद्यतन करू वा चालान डाउनलोड करू।",
+  "blog.billing.open": "भुगतान पोर्टल खोलू"
 }

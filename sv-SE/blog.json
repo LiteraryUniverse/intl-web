@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Personer",
+  "blog.people.intro": "Ge någon åtkomst till en del av den här bloggen utan att lämna ifrån dig ditt konto. Varje behörighet fungerar för sig och gäller bara den här bloggen.",
+  "blog.people.add": "Lägg till någon i den här bloggen",
+  "blog.people.none": "Ingen annan har åtkomst till den här bloggen ännu.",
+  "blog.people.mine": "Bloggar du hjälper till att sköta",
+  "blog.permission.manage": "Blogghantering",
+  "blog.permission.manage.help": "Inställningar, tema, sidor och menyer.",
+  "blog.permission.content.help": "Skriva, redigera och publicera inlägg.",
+  "blog.permission.billing.help": "Öppna betalportalen och byta abonnemang. Portalen omfattar hela det konto som betalar för den här bloggen — alla dess abonnemang, fakturor och betalsätt, inte bara den här bloggen.",
+  "blog.billing": "Betalning",
+  "blog.billing.intro": "Hantera abonnemanget som betalar för den här bloggen — byt abonnemang, uppdatera betalsättet eller ladda ner fakturor.",
+  "blog.billing.open": "Öppna betalportalen"
 }

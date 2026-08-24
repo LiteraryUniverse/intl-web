@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "사용자",
+  "blog.people.intro": "계정을 넘기지 않고도 이 블로그의 일부에 대한 접근 권한을 줄 수 있습니다. 각 권한은 개별적으로 작동하며 이 블로그에만 적용됩니다.",
+  "blog.people.add": "이 블로그에 사용자 추가",
+  "blog.people.none": "아직 다른 사용자는 이 블로그에 접근할 수 없습니다.",
+  "blog.people.mine": "운영을 돕고 있는 블로그",
+  "blog.permission.manage": "블로그 관리",
+  "blog.permission.manage.help": "설정, 테마, 페이지, 메뉴.",
+  "blog.permission.content.help": "글 작성, 편집, 발행.",
+  "blog.permission.billing.help": "결제 포털을 열고 요금제를 변경합니다. 포털은 이 블로그의 비용을 지불하는 계정 전체를 다루며, 이 블로그뿐 아니라 그 계정의 모든 구독, 청구서, 결제 수단이 포함됩니다.",
+  "blog.billing": "결제",
+  "blog.billing.intro": "이 블로그의 비용을 지불하는 구독을 관리합니다. 요금제 변경, 결제 수단 업데이트, 청구서 다운로드가 가능합니다.",
+  "blog.billing.open": "결제 포털 열기"
 }

@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Personen",
+  "blog.people.intro": "Gib jemandem Zugriff auf einen Teil dieses Blogs, ohne dein Konto aus der Hand zu geben. Jede Berechtigung wirkt für sich und gilt nur für diesen Blog.",
+  "blog.people.add": "Jemanden zu diesem Blog hinzufügen",
+  "blog.people.none": "Bisher hat niemand sonst Zugriff auf diesen Blog.",
+  "blog.people.mine": "Blogs, die du mitbetreust",
+  "blog.permission.manage": "Blogverwaltung",
+  "blog.permission.manage.help": "Einstellungen, Thema, Seiten und Menüs.",
+  "blog.permission.content.help": "Beiträge schreiben, bearbeiten und veröffentlichen.",
+  "blog.permission.billing.help": "Das Zahlungsportal öffnen und den Tarif ändern. Das Portal umfasst das gesamte Konto, das diesen Blog bezahlt — alle Abonnements, Rechnungen und Zahlungsmethoden darauf, nicht nur diesen Blog.",
+  "blog.billing": "Abrechnung",
+  "blog.billing.intro": "Verwalte das Abonnement, das diesen Blog bezahlt — Tarif wechseln, Zahlungsmethode aktualisieren oder Rechnungen herunterladen.",
+  "blog.billing.open": "Zahlungsportal öffnen"
 }

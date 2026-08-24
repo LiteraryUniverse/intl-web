@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Persoane",
+  "blog.people.intro": "Oferă cuiva acces la o parte din acest blog fără să îi dai contul tău. Fiecare permisiune funcționează separat și se aplică doar acestui blog.",
+  "blog.people.add": "Adaugă pe cineva la acest blog",
+  "blog.people.none": "Deocamdată nimeni altcineva nu are acces la acest blog.",
+  "blog.people.mine": "Bloguri pe care ajuți să le administrezi",
+  "blog.permission.manage": "Administrarea blogului",
+  "blog.permission.manage.help": "Setări, temă, pagini și meniuri.",
+  "blog.permission.content.help": "Scrierea, editarea și publicarea articolelor.",
+  "blog.permission.billing.help": "Deschiderea portalului de facturare și schimbarea planului. Portalul acoperă întregul cont care plătește acest blog — toate abonamentele, facturile și metodele de plată din el, nu doar acest blog.",
+  "blog.billing": "Facturare",
+  "blog.billing.intro": "Administrează abonamentul care plătește acest blog: schimbă planul, actualizează metoda de plată sau descarcă facturi.",
+  "blog.billing.open": "Deschide portalul de facturare"
 }

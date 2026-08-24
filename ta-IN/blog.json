@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "நபர்கள்",
+  "blog.people.intro": "உங்கள் கணக்கை ஒப்படைக்காமலேயே இந்த வலைப்பதிவின் ஒரு பகுதிக்கு மற்றொருவருக்கு அணுகல் கொடுங்கள். ஒவ்வொரு அனுமதியும் தனித்தனியாகச் செயல்படும், இந்த வலைப்பதிவுக்கு மட்டுமே பொருந்தும்.",
+  "blog.people.add": "இந்த வலைப்பதிவில் ஒருவரைச் சேர்க்கவும்",
+  "blog.people.none": "இந்த வலைப்பதிவுக்கு வேறு யாருக்கும் இதுவரை அணுகல் இல்லை.",
+  "blog.people.mine": "நீங்கள் நிர்வகிக்க உதவும் வலைப்பதிவுகள்",
+  "blog.permission.manage": "வலைப்பதிவு நிர்வாகம்",
+  "blog.permission.manage.help": "அமைப்புகள், தோற்றம், பக்கங்கள், பட்டிகள்.",
+  "blog.permission.content.help": "இடுகைகளை எழுதுதல், திருத்துதல், வெளியிடுதல்.",
+  "blog.permission.billing.help": "கட்டணப் போர்ட்டலைத் திறந்து திட்டத்தை மாற்றுதல். இந்த வலைப்பதிவுக்குக் கட்டணம் செலுத்தும் முழுக் கணக்கையும் இந்தப் போர்ட்டல் உள்ளடக்கும் — இந்த வலைப்பதிவு மட்டுமல்ல, அந்தக் கணக்கின் அனைத்து சந்தாக்கள், விலைப்பட்டியல்கள், கட்டண முறைகள் அனைத்தும்.",
+  "blog.billing": "கட்டணம்",
+  "blog.billing.intro": "இந்த வலைப்பதிவுக்குக் கட்டணம் செலுத்தும் சந்தாவை நிர்வகிக்கவும்: திட்டத்தை மாற்றவும், கட்டண முறையைப் புதுப்பிக்கவும் அல்லது விலைப்பட்டியல்களைப் பதிவிறக்கவும்.",
+  "blog.billing.open": "கட்டணப் போர்ட்டலைத் திற"
 }

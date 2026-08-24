@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Daoine",
+  "blog.people.intro": "Tabhair rochtain do dhuine ar chuid den bhlag seo gan do chuntas a thabhairt uait. Oibríonn gach cead leis féin agus ní bhaineann sé ach leis an mblag seo.",
+  "blog.people.add": "Cuir duine leis an mblag seo",
+  "blog.people.none": "Níl rochtain ag aon duine eile ar an mblag seo go fóill.",
+  "blog.people.mine": "Blaganna a gcuidíonn tú lena mbainistiú",
+  "blog.permission.manage": "Bainistiú an bhlag",
+  "blog.permission.manage.help": "Socruithe, téama, leathanaigh agus roghchláir.",
+  "blog.permission.content.help": "Postálacha a scríobh, a chur in eagar agus a fhoilsiú.",
+  "blog.permission.billing.help": "An tairseach billeála a oscailt agus an plean a athrú. Clúdaíonn an tairseach an cuntas iomlán a íocann as an mblag seo — gach síntiús, sonrasc agus modh íocaíochta air, ní hé an blag seo amháin.",
+  "blog.billing": "Billeáil",
+  "blog.billing.intro": "Bainistigh an síntiús a íocann as an mblag seo: athraigh an plean, nuashonraigh an modh íocaíochta nó íoslódáil sonraisc.",
+  "blog.billing.open": "Oscail an tairseach billeála"
 }

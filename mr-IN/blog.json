@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "लोक",
+  "blog.people.intro": "तुमचे खाते न देता कुणालाही या ब्लॉगच्या एका भागाचा प्रवेश द्या. प्रत्येक परवानगी स्वतंत्रपणे काम करते आणि फक्त याच ब्लॉगला लागू होते.",
+  "blog.people.add": "या ब्लॉगमध्ये कुणाला तरी जोडा",
+  "blog.people.none": "अजून इतर कुणालाही या ब्लॉगचा प्रवेश नाही.",
+  "blog.people.mine": "तुम्ही चालवायला मदत करता ते ब्लॉग",
+  "blog.permission.manage": "ब्लॉग व्यवस्थापन",
+  "blog.permission.manage.help": "सेटिंग्ज, थीम, पाने आणि मेनू.",
+  "blog.permission.content.help": "पोस्ट लिहिणे, संपादित करणे आणि प्रकाशित करणे.",
+  "blog.permission.billing.help": "देयक पोर्टल उघडणे आणि योजना बदलणे. हे पोर्टल या ब्लॉगचे पैसे भरणारे संपूर्ण खाते व्यापते — फक्त हा ब्लॉग नव्हे, तर त्या खात्यावरील सर्व वर्गण्या, पावत्या आणि देयक पद्धती.",
+  "blog.billing": "देयक",
+  "blog.billing.intro": "या ब्लॉगचे पैसे भरणारी वर्गणी व्यवस्थापित करा: योजना बदला, देयक पद्धत अद्ययावत करा किंवा पावत्या डाउनलोड करा.",
+  "blog.billing.open": "देयक पोर्टल उघडा"
 }

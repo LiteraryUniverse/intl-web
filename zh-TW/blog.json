@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "成員",
+  "blog.people.intro": "不必交出帳號，也能讓別人管理這個部落格的一部分。每項權限各自獨立，且只適用於這個部落格。",
+  "blog.people.add": "新增成員到這個部落格",
+  "blog.people.none": "目前還沒有其他人能存取這個部落格。",
+  "blog.people.mine": "你協助管理的部落格",
+  "blog.permission.manage": "部落格管理",
+  "blog.permission.manage.help": "設定、佈景主題、頁面與選單。",
+  "blog.permission.content.help": "撰寫、編輯與發佈文章。",
+  "blog.permission.billing.help": "開啟付款入口並變更方案。此入口涵蓋支付這個部落格費用的整個帳號——該帳號上的所有訂閱、帳單與付款方式，不只這個部落格。",
+  "blog.billing": "付款",
+  "blog.billing.intro": "管理支付這個部落格費用的訂閱：變更方案、更新付款方式或下載帳單。",
+  "blog.billing.open": "開啟付款入口"
 }

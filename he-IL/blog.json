@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "אנשים",
+  "blog.people.intro": "אפשר לתת למישהו גישה לחלק מהבלוג הזה בלי למסור לו את החשבון שלך. כל הרשאה פועלת בנפרד וחלה על הבלוג הזה בלבד.",
+  "blog.people.add": "הוספת מישהו לבלוג הזה",
+  "blog.people.none": "לאף אחד אחר עדיין אין גישה לבלוג הזה.",
+  "blog.people.mine": "בלוגים שאתם עוזרים לנהל",
+  "blog.permission.manage": "ניהול הבלוג",
+  "blog.permission.manage.help": "הגדרות, עיצוב, עמודים ותפריטים.",
+  "blog.permission.content.help": "כתיבה, עריכה ופרסום של רשומות.",
+  "blog.permission.billing.help": "פתיחת פורטל התשלומים ושינוי המסלול. הפורטל מקיף את כל החשבון שמשלם עבור הבלוג הזה — כל המנויים, החשבוניות ואמצעי התשלום שבו, ולא רק את הבלוג הזה.",
+  "blog.billing": "חיוב",
+  "blog.billing.intro": "ניהול המנוי שמשלם עבור הבלוג הזה: החלפת מסלול, עדכון אמצעי תשלום או הורדת חשבוניות.",
+  "blog.billing.open": "פתיחת פורטל התשלומים"
 }

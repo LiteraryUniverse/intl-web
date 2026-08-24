@@ -293,5 +293,17 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens"
+  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.people": "Persones",
+  "blog.people.intro": "Dona accés a una part d'aquest blog sense lliurar el teu compte. Cada permís funciona per separat i només s'aplica a aquest blog.",
+  "blog.people.add": "Afegeix algú a aquest blog",
+  "blog.people.none": "Encara ningú més no té accés a aquest blog.",
+  "blog.people.mine": "Blogs que ajudes a gestionar",
+  "blog.permission.manage": "Gestió del blog",
+  "blog.permission.manage.help": "Configuració, tema, pàgines i menús.",
+  "blog.permission.content.help": "Escriure, editar i publicar entrades.",
+  "blog.permission.billing.help": "Obrir el portal de facturació i canviar de pla. El portal abasta tot el compte que paga aquest blog — totes les seves subscripcions, factures i mètodes de pagament, no només aquest blog.",
+  "blog.billing": "Facturació",
+  "blog.billing.intro": "Gestiona la subscripció que paga aquest blog: canvia de pla, actualitza el mètode de pagament o descarrega factures.",
+  "blog.billing.open": "Obre el portal de facturació"
 }
