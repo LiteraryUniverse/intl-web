@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "கட்டணப் போர்ட்டலைத் திறந்து திட்டத்தை மாற்றுதல். இந்த வலைப்பதிவுக்குக் கட்டணம் செலுத்தும் முழுக் கணக்கையும் இந்தப் போர்ட்டல் உள்ளடக்கும் — இந்த வலைப்பதிவு மட்டுமல்ல, அந்தக் கணக்கின் அனைத்து சந்தாக்கள், விலைப்பட்டியல்கள், கட்டண முறைகள் அனைத்தும்.",
   "blog.billing": "கட்டணம்",
   "blog.billing.intro": "இந்த வலைப்பதிவுக்குக் கட்டணம் செலுத்தும் சந்தாவை நிர்வகிக்கவும்: திட்டத்தை மாற்றவும், கட்டண முறையைப் புதுப்பிக்கவும் அல்லது விலைப்பட்டியல்களைப் பதிவிறக்கவும்.",
-  "blog.billing.open": "கட்டணப் போர்ட்டலைத் திற"
+  "blog.billing.open": "கட்டணப் போர்ட்டலைத் திற",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

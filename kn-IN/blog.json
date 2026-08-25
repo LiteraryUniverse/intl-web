@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "ಪಾವತಿ ಪೋರ್ಟಲ್ ತೆರೆಯುವುದು ಮತ್ತು ಯೋಜನೆ ಬದಲಾಯಿಸುವುದು. ಈ ಪೋರ್ಟಲ್ ಈ ಬ್ಲಾಗ್‌ಗೆ ಪಾವತಿಸುವ ಇಡೀ ಖಾತೆಯನ್ನು ಒಳಗೊಳ್ಳುತ್ತದೆ — ಈ ಬ್ಲಾಗ್ ಮಾತ್ರವಲ್ಲ, ಆ ಖಾತೆಯ ಎಲ್ಲ ಚಂದಾದಾರಿಕೆಗಳು, ಇನ್‌ವಾಯ್ಸ್‌ಗಳು ಮತ್ತು ಪಾವತಿ ವಿಧಾನಗಳು.",
   "blog.billing": "ಪಾವತಿ",
   "blog.billing.intro": "ಈ ಬ್ಲಾಗ್‌ಗೆ ಪಾವತಿಸುವ ಚಂದಾದಾರಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ: ಯೋಜನೆ ಬದಲಾಯಿಸಿ, ಪಾವತಿ ವಿಧಾನ ನವೀಕರಿಸಿ ಅಥವಾ ಇನ್‌ವಾಯ್ಸ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.",
-  "blog.billing.open": "ಪಾವತಿ ಪೋರ್ಟಲ್ ತೆರೆಯಿರಿ"
+  "blog.billing.open": "ಪಾವತಿ ಪೋರ್ಟಲ್ ತೆರೆಯಿರಿ",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

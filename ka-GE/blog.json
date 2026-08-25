@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "გადახდის პორტალის გახსნა და გეგმის შეცვლა. პორტალი მოიცავს მთელ ანგარიშს, რომელიც ამ ბლოგს იხდის — მის ყველა გამოწერას, ანგარიშ-ფაქტურასა და გადახდის მეთოდს, და არა მხოლოდ ამ ბლოგს.",
   "blog.billing": "გადახდები",
   "blog.billing.intro": "მართეთ გამოწერა, რომელიც ამ ბლოგს იხდის: შეცვალეთ გეგმა, განაახლეთ გადახდის მეთოდი ან ჩამოტვირთეთ ანგარიშ-ფაქტურები.",
-  "blog.billing.open": "გადახდის პორტალის გახსნა"
+  "blog.billing.open": "გადახდის პორტალის გახსნა",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Malfermi la pagportalon kaj ŝanĝi la planon. La portalo koncernas la tutan konton kiu pagas ĉi tiun blogon — ĉiujn ĝiajn abonojn, fakturojn kaj pagmetodojn, ne nur ĉi tiun blogon.",
   "blog.billing": "Fakturado",
   "blog.billing.intro": "Administru la abonon kiu pagas ĉi tiun blogon: ŝanĝu la planon, ĝisdatigu la pagmetodon aŭ elŝutu fakturojn.",
-  "blog.billing.open": "Malfermi la pagportalon"
+  "blog.billing.open": "Malfermi la pagportalon",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Aprire il portale di fatturazione e cambiare piano. Il portale riguarda l'intero account che paga questo blog — tutti i suoi abbonamenti, le fatture e i metodi di pagamento, non solo questo blog.",
   "blog.billing": "Fatturazione",
   "blog.billing.intro": "Gestisci l'abbonamento che paga questo blog: cambia piano, aggiorna il metodo di pagamento o scarica le fatture.",
-  "blog.billing.open": "Apri il portale di fatturazione"
+  "blog.billing.open": "Apri il portale di fatturazione",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

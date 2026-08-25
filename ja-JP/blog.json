@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "支払いポータルを開き、プランを変更します。ポータルはこのブログの費用を支払っているアカウント全体を対象とし、このブログだけでなく、そのアカウントのすべてのサブスクリプション・請求書・支払い方法が含まれます。",
   "blog.billing": "支払い",
   "blog.billing.intro": "このブログの費用を支払っているサブスクリプションを管理します。プランの変更、支払い方法の更新、請求書のダウンロードができます。",
-  "blog.billing.open": "支払いポータルを開く"
+  "blog.billing.open": "支払いポータルを開く",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

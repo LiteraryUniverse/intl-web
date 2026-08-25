@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Otvorenie platobného portálu a zmena tarifu. Portál sa týka celého účtu, ktorý tento blog platí — všetkých jeho predplatných, faktúr a platobných metód, nielen tohto blogu.",
   "blog.billing": "Platby",
   "blog.billing.intro": "Spravujte predplatné, ktoré platí tento blog — zmeňte tarif, aktualizujte platobnú metódu alebo si stiahnite faktúry.",
-  "blog.billing.open": "Otvoriť platobný portál"
+  "blog.billing.open": "Otvoriť platobný portál",
+  "blog.theme.layout.hideName": "Skryť názov blogu",
+  "blog.menus.logoSize": "Veľkosť loga",
+  "blog.menus.logoSize.small": "Malé",
+  "blog.menus.logoSize.medium": "Stredné",
+  "blog.menus.logoSize.large": "Veľké",
+  "blog.menus.logoSize.full": "Plná šírka"
 }

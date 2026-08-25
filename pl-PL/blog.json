@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Otwieranie portalu płatności i zmiana planu. Portal obejmuje całe konto, które płaci za tego bloga — wszystkie jego subskrypcje, faktury i metody płatności, nie tylko tego bloga.",
   "blog.billing": "Płatności",
   "blog.billing.intro": "Zarządzaj subskrypcją, która opłaca tego bloga — zmień plan, zaktualizuj metodę płatności lub pobierz faktury.",
-  "blog.billing.open": "Otwórz portal płatności"
+  "blog.billing.open": "Otwórz portal płatności",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

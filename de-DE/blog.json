@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Das Zahlungsportal öffnen und den Tarif ändern. Das Portal umfasst das gesamte Konto, das diesen Blog bezahlt — alle Abonnements, Rechnungen und Zahlungsmethoden darauf, nicht nur diesen Blog.",
   "blog.billing": "Abrechnung",
   "blog.billing.intro": "Verwalte das Abonnement, das diesen Blog bezahlt — Tarif wechseln, Zahlungsmethode aktualisieren oder Rechnungen herunterladen.",
-  "blog.billing.open": "Zahlungsportal öffnen"
+  "blog.billing.open": "Zahlungsportal öffnen",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

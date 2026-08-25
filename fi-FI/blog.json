@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Maksuportaalin avaaminen ja tilauksen vaihtaminen. Portaali kattaa koko tilin, joka maksaa tämän blogin — kaikki sen tilaukset, laskut ja maksutavat, ei vain tätä blogia.",
   "blog.billing": "Laskutus",
   "blog.billing.intro": "Hallinnoi tilausta, joka maksaa tämän blogin: vaihda tilausta, päivitä maksutapa tai lataa laskuja.",
-  "blog.billing.open": "Avaa maksuportaali"
+  "blog.billing.open": "Avaa maksuportaali",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

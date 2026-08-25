@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "ਭੁਗਤਾਨ ਪੋਰਟਲ ਖੋਲ੍ਹਣਾ ਅਤੇ ਯੋਜਨਾ ਬਦਲਣਾ। ਇਹ ਪੋਰਟਲ ਉਸ ਪੂਰੇ ਖਾਤੇ ਨੂੰ ਕਵਰ ਕਰਦਾ ਹੈ ਜੋ ਇਸ ਬਲੌਗ ਦਾ ਭੁਗਤਾਨ ਕਰਦਾ ਹੈ — ਸਿਰਫ਼ ਇਹ ਬਲੌਗ ਨਹੀਂ, ਸਗੋਂ ਉਸ ਦੀਆਂ ਸਾਰੀਆਂ ਗਾਹਕੀਆਂ, ਬਿੱਲ ਅਤੇ ਭੁਗਤਾਨ ਢੰਗ।",
   "blog.billing": "ਭੁਗਤਾਨ",
   "blog.billing.intro": "ਉਸ ਗਾਹਕੀ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ ਜੋ ਇਸ ਬਲੌਗ ਦਾ ਭੁਗਤਾਨ ਕਰਦੀ ਹੈ: ਯੋਜਨਾ ਬਦਲੋ, ਭੁਗਤਾਨ ਢੰਗ ਅੱਪਡੇਟ ਕਰੋ ਜਾਂ ਬਿੱਲ ਡਾਊਨਲੋਡ ਕਰੋ।",
-  "blog.billing.open": "ਭੁਗਤਾਨ ਪੋਰਟਲ ਖੋਲ੍ਹੋ"
+  "blog.billing.open": "ਭੁਗਤਾਨ ਪੋਰਟਲ ਖੋਲ੍ਹੋ",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

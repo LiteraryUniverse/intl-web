@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "فتح بوابة الدفع وتغيير الخطة. تشمل البوابة الحساب بأكمله الذي يدفع مقابل هذه المدونة — جميع اشتراكاته وفواتيره وطرق الدفع فيه، وليس هذه المدونة وحدها.",
   "blog.billing": "الفوترة",
   "blog.billing.intro": "أدر الاشتراك الذي يدفع مقابل هذه المدونة: غيّر الخطة أو حدّث طريقة الدفع أو نزّل الفواتير.",
-  "blog.billing.open": "فتح بوابة الدفع"
+  "blog.billing.open": "فتح بوابة الدفع",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

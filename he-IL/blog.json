@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "פתיחת פורטל התשלומים ושינוי המסלול. הפורטל מקיף את כל החשבון שמשלם עבור הבלוג הזה — כל המנויים, החשבוניות ואמצעי התשלום שבו, ולא רק את הבלוג הזה.",
   "blog.billing": "חיוב",
   "blog.billing.intro": "ניהול המנוי שמשלם עבור הבלוג הזה: החלפת מסלול, עדכון אמצעי תשלום או הורדת חשבוניות.",
-  "blog.billing.open": "פתיחת פורטל התשלומים"
+  "blog.billing.open": "פתיחת פורטל התשלומים",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

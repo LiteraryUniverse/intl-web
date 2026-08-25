@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "ચુકવણી પોર્ટલ ખોલવું અને પ્લાન બદલવો. આ પોર્ટલ એ આખા ખાતાને આવરી લે છે જે આ બ્લોગનો ખર્ચ ચૂકવે છે — માત્ર આ બ્લોગ નહીં, તેની બધી સબસ્ક્રિપ્શન, ઇન્વૉઇસ અને ચુકવણી પદ્ધતિઓ.",
   "blog.billing": "ચુકવણી",
   "blog.billing.intro": "આ બ્લોગનો ખર્ચ ચૂકવતી સબસ્ક્રિપ્શનનું સંચાલન કરો: પ્લાન બદલો, ચુકવણી પદ્ધતિ અપડેટ કરો કે ઇન્વૉઇસ ડાઉનલોડ કરો.",
-  "blog.billing.open": "ચુકવણી પોર્ટલ ખોલો"
+  "blog.billing.open": "ચુકવણી પોર્ટલ ખોલો",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

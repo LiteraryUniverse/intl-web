@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "भुगतान पोर्टल खोलना और योजना बदलना। यह पोर्टल उस पूरे खाते को कवर करता है जो इस ब्लॉग का भुगतान करता है — उसकी सभी सदस्यताएँ, चालान और भुगतान विधियाँ, न कि केवल यह ब्लॉग।",
   "blog.billing": "भुगतान",
   "blog.billing.intro": "उस सदस्यता का प्रबंधन करें जो इस ब्लॉग का भुगतान करती है: योजना बदलें, भुगतान विधि अपडेट करें या चालान डाउनलोड करें।",
-  "blog.billing.open": "भुगतान पोर्टल खोलें"
+  "blog.billing.open": "भुगतान पोर्टल खोलें",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

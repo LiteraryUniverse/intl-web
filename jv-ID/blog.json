@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Mbukak portal pambayaran lan ngganti paket. Portal iki nyakup kabèh akun sing mbayar blog iki — kabèh langganan, tagihan, lan cara pambayarané, ora mung blog iki.",
   "blog.billing": "Pambayaran",
   "blog.billing.intro": "Urusi langganan sing mbayar blog iki: ganti paket, anyari cara pambayaran, utawa ngundhuh tagihan.",
-  "blog.billing.open": "Bukak portal pambayaran"
+  "blog.billing.open": "Bukak portal pambayaran",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

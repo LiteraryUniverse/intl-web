@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "ଦେୟ ପୋର୍ଟାଲ ଖୋଲିବା ଏବଂ ଯୋଜନା ବଦଳାଇବା। ଏହି ପୋର୍ଟାଲ ସେହି ସମ୍ପୂର୍ଣ୍ଣ ଖାତାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ ଯାହା ଏହି ବ୍ଲଗର ଦେୟ ଦିଏ — କେବଳ ଏହି ବ୍ଲଗ ନୁହେଁ, ସେହି ଖାତାର ସମସ୍ତ ସଦସ୍ୟତା, ଚାଲାନ ଓ ଦେୟ ପଦ୍ଧତି।",
   "blog.billing": "ଦେୟ",
   "blog.billing.intro": "ଏହି ବ୍ଲଗର ଦେୟ ଦେଉଥିବା ସଦସ୍ୟତା ପରିଚାଳନା କରନ୍ତୁ: ଯୋଜନା ବଦଳାନ୍ତୁ, ଦେୟ ପଦ୍ଧତି ଅଦ୍ୟତନ କରନ୍ତୁ କିମ୍ବା ଚାଲାନ ଡାଉନଲୋଡ କରନ୍ତୁ।",
-  "blog.billing.open": "ଦେୟ ପୋର୍ଟାଲ ଖୋଲନ୍ତୁ"
+  "blog.billing.open": "ଦେୟ ପୋର୍ଟାଲ ଖୋଲନ୍ତୁ",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

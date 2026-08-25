@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "開啟付款入口並變更方案。此入口涵蓋支付這個部落格費用的整個帳號——該帳號上的所有訂閱、帳單與付款方式，不只這個部落格。",
   "blog.billing": "付款",
   "blog.billing.intro": "管理支付這個部落格費用的訂閱：變更方案、更新付款方式或下載帳單。",
-  "blog.billing.open": "開啟付款入口"
+  "blog.billing.open": "開啟付款入口",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "បើកវិបផតថលទូទាត់ និងប្តូរគម្រោង។ វិបផតថលនេះគ្របដណ្តប់គណនីទាំងមូលដែលបង់ថ្លៃប្លុកនេះ — រាល់ការជាវ វិក្កយបត្រ និងវិធីទូទាត់របស់វា មិនមែនតែប្លុកនេះទេ។",
   "blog.billing": "ការទូទាត់",
   "blog.billing.intro": "គ្រប់គ្រងការជាវដែលបង់ថ្លៃប្លុកនេះ៖ ប្តូរគម្រោង ធ្វើបច្ចុប្បន្នភាពវិធីទូទាត់ ឬទាញយកវិក្កយបត្រ។",
-  "blog.billing.open": "បើកវិបផតថលទូទាត់"
+  "blog.billing.open": "បើកវិបផតថលទូទាត់",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

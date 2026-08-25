@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Öppna betalportalen och byta abonnemang. Portalen omfattar hela det konto som betalar för den här bloggen — alla dess abonnemang, fakturor och betalsätt, inte bara den här bloggen.",
   "blog.billing": "Betalning",
   "blog.billing.intro": "Hantera abonnemanget som betalar för den här bloggen — byt abonnemang, uppdatera betalsättet eller ladda ner fakturor.",
-  "blog.billing.open": "Öppna betalportalen"
+  "blog.billing.open": "Öppna betalportalen",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

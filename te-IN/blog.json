@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "చెల్లింపు పోర్టల్‌ను తెరవడం, ప్లాన్ మార్చడం. ఈ బ్లాగుకు చెల్లిస్తున్న మొత్తం ఖాతాను ఈ పోర్టల్ కవర్ చేస్తుంది — ఈ బ్లాగు మాత్రమే కాదు, ఆ ఖాతాలోని అన్ని సభ్యత్వాలు, ఇన్‌వాయిస్‌లు, చెల్లింపు పద్ధతులు.",
   "blog.billing": "చెల్లింపు",
   "blog.billing.intro": "ఈ బ్లాగుకు చెల్లిస్తున్న సభ్యత్వాన్ని నిర్వహించండి: ప్లాన్ మార్చండి, చెల్లింపు పద్ధతిని నవీకరించండి లేదా ఇన్‌వాయిస్‌లను డౌన్‌లోడ్ చేయండి.",
-  "blog.billing.open": "చెల్లింపు పోర్టల్ తెరవండి"
+  "blog.billing.open": "చెల్లింపు పోర్టల్ తెరవండి",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "le ka gasnu le pleji fenra gi'e galfi le plani. le fenra cu se pilno fi ro da poi le jdini be le velckupra cu se pleji — ro nurpleji je jdice je pleji tadji ku noi na po'o le ni'o velckupra",
   "blog.billing": "pleji",
   "blog.billing.intro": "ko jitro le nurpleji poi pleji le ni'o velckupra: galfi le plani, cnino le pleji tadji, ja cpacu le jdice",
-  "blog.billing.open": "gasnu le pleji fenra"
+  "blog.billing.open": "gasnu le pleji fenra",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

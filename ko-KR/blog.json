@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "결제 포털을 열고 요금제를 변경합니다. 포털은 이 블로그의 비용을 지불하는 계정 전체를 다루며, 이 블로그뿐 아니라 그 계정의 모든 구독, 청구서, 결제 수단이 포함됩니다.",
   "blog.billing": "결제",
   "blog.billing.intro": "이 블로그의 비용을 지불하는 구독을 관리합니다. 요금제 변경, 결제 수단 업데이트, 청구서 다운로드가 가능합니다.",
-  "blog.billing.open": "결제 포털 열기"
+  "blog.billing.open": "결제 포털 열기",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

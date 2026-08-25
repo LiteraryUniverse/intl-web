@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "भुक्तानी पोर्टल खोल्ने र योजना बदल्ने। यो पोर्टलले यो ब्लगको भुक्तानी गर्ने पूरै खातालाई समेट्छ — यो ब्लग मात्र होइन, त्यस खाताका सबै सदस्यता, बिजक र भुक्तानी विधिहरू।",
   "blog.billing": "भुक्तानी",
   "blog.billing.intro": "यो ब्लगको भुक्तानी गर्ने सदस्यता व्यवस्थापन गर्नुहोस्: योजना बदल्नुहोस्, भुक्तानी विधि अद्यावधिक गर्नुहोस् वा बिजक डाउनलोड गर्नुहोस्।",
-  "blog.billing.open": "भुक्तानी पोर्टल खोल्नुहोस्"
+  "blog.billing.open": "भुक्तानी पोर्टल खोल्नुहोस्",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

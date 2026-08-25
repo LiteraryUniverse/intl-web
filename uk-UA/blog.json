@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Відкриття платіжного порталу та зміна тарифу. Портал охоплює весь обліковий запис, який оплачує цей блог, — усі його підписки, рахунки та способи оплати, а не лише цей блог.",
   "blog.billing": "Оплата",
   "blog.billing.intro": "Керуйте підпискою, яка оплачує цей блог: змініть тариф, оновіть спосіб оплати або завантажте рахунки.",
-  "blog.billing.open": "Відкрити платіжний портал"
+  "blog.billing.open": "Відкрити платіжний портал",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

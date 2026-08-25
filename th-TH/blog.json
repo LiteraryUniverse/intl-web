@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "เปิดพอร์ทัลการชำระเงินและเปลี่ยนแผน พอร์ทัลครอบคลุมทั้งบัญชีที่จ่ายค่าบล็อกนี้ — การสมัครสมาชิก ใบแจ้งหนี้ และวิธีชำระเงินทั้งหมดในบัญชีนั้น ไม่ใช่เฉพาะบล็อกนี้",
   "blog.billing": "การชำระเงิน",
   "blog.billing.intro": "จัดการการสมัครสมาชิกที่จ่ายค่าบล็อกนี้ เปลี่ยนแผน อัปเดตวิธีชำระเงิน หรือดาวน์โหลดใบแจ้งหนี้",
-  "blog.billing.open": "เปิดพอร์ทัลการชำระเงิน"
+  "blog.billing.open": "เปิดพอร์ทัลการชำระเงิน",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

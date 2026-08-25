@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Otevření platebního portálu a změna tarifu. Portál se týká celého účtu, který tento blog platí — všech jeho předplatných, faktur a platebních metod, nejen tohoto blogu.",
   "blog.billing": "Platby",
   "blog.billing.intro": "Spravujte předplatné, které platí tento blog — změňte tarif, aktualizujte platební metodu nebo si stáhněte faktury.",
-  "blog.billing.open": "Otevřít platební portál"
+  "blog.billing.open": "Otevřít platební portál",
+  "blog.theme.layout.hideName": "Skrýt název blogu",
+  "blog.menus.logoSize": "Velikost loga",
+  "blog.menus.logoSize.small": "Malé",
+  "blog.menus.logoSize.medium": "Střední",
+  "blog.menus.logoSize.large": "Velké",
+  "blog.menus.logoSize.full": "Plná šířka"
 }

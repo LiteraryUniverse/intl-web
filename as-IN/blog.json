@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "পেমেণ্ট প’ৰ্টেল খোলা আৰু আঁচনি সলনি কৰা। এই প’ৰ্টেলে এই ব্লগৰ খৰচ দিয়া গোটেই একাউণ্টটো সামৰি লয় — কেৱল এই ব্লগ নহয়, সেই একাউণ্টৰ সকলো চাবস্ক্ৰিপচন, চালান আৰু পেমেণ্ট পদ্ধতি।",
   "blog.billing": "পেমেণ্ট",
   "blog.billing.intro": "এই ব্লগৰ খৰচ দিয়া চাবস্ক্ৰিপচনটো পৰিচালনা কৰক: আঁচনি সলনি কৰক, পেমেণ্ট পদ্ধতি আপডেট কৰক বা চালান ডাউনলোড কৰক।",
-  "blog.billing.open": "পেমেণ্ট প’ৰ্টেল খোলক"
+  "blog.billing.open": "পেমেণ্ট প’ৰ্টেল খোলক",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

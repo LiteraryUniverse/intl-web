@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Ngedengang portal pamayahan miwah ngentosin paket. Portal puniki ngranjing akun sané mayah blog puniki — sami langganan, tagihan, miwah cara pamayahannyané, boya ja wantah blog puniki.",
   "blog.billing": "Pamayahan",
   "blog.billing.intro": "Enterang langganan sané mayah blog puniki: entosin paket, anyarin cara pamayahan, utawi undhuh tagihan.",
-  "blog.billing.open": "Buka portal pamayahan"
+  "blog.billing.open": "Buka portal pamayahan",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

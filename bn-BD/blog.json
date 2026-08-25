@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "পেমেন্ট পোর্টাল খোলা এবং প্ল্যান পরিবর্তন। এই পোর্টাল ওই পুরো অ্যাকাউন্ট নিয়ে কাজ করে যা এই ব্লগের খরচ দেয় — শুধু এই ব্লগ নয়, সেই অ্যাকাউন্টের সব সাবস্ক্রিপশন, চালান ও পেমেন্ট পদ্ধতি।",
   "blog.billing": "পেমেন্ট",
   "blog.billing.intro": "এই ব্লগের খরচ দেয় এমন সাবস্ক্রিপশন পরিচালনা করুন: প্ল্যান বদলান, পেমেন্ট পদ্ধতি হালনাগাদ করুন বা চালান ডাউনলোড করুন।",
-  "blog.billing.open": "পেমেন্ট পোর্টাল খুলুন"
+  "blog.billing.open": "পেমেন্ট পোর্টাল খুলুন",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

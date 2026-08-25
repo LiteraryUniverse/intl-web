@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Abrir o portal de faturação e mudar de plano. O portal abrange toda a conta que paga este blogue — todas as suas subscrições, faturas e métodos de pagamento, não apenas este blogue.",
   "blog.billing": "Faturação",
   "blog.billing.intro": "Faça a gestão da subscrição que paga este blogue: mude de plano, atualize o método de pagamento ou transfira faturas.",
-  "blog.billing.open": "Abrir o portal de faturação"
+  "blog.billing.open": "Abrir o portal de faturação",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Ödeme portalını açma ve planı değiştirme. Portal, bu blogun parasını ödeyen hesabın tamamını kapsar — yalnızca bu blogu değil, hesaptaki tüm abonelikleri, faturaları ve ödeme yöntemlerini.",
   "blog.billing": "Ödemeler",
   "blog.billing.intro": "Bu blogun parasını ödeyen aboneliği yönetin: plan değiştirin, ödeme yöntemini güncelleyin veya fatura indirin.",
-  "blog.billing.open": "Ödeme portalını aç"
+  "blog.billing.open": "Ödeme portalını aç",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

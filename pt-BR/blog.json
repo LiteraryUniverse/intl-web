@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Abrir o portal de pagamento e mudar de plano. O portal abrange toda a conta que paga por este blog — todas as assinaturas, faturas e formas de pagamento nela, não apenas este blog.",
   "blog.billing": "Pagamentos",
   "blog.billing.intro": "Gerencie a assinatura que paga por este blog: mude de plano, atualize a forma de pagamento ou baixe faturas.",
-  "blog.billing.open": "Abrir portal de pagamento"
+  "blog.billing.open": "Abrir portal de pagamento",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

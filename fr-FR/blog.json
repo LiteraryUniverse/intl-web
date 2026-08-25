@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Ouvrir le portail de facturation et changer de formule. Le portail couvre l'ensemble du compte qui paie ce blog — tous ses abonnements, factures et moyens de paiement, pas seulement ce blog.",
   "blog.billing": "Facturation",
   "blog.billing.intro": "Gérez l'abonnement qui paie ce blog — changez de formule, mettez à jour le moyen de paiement ou téléchargez les factures.",
-  "blog.billing.open": "Ouvrir le portail de facturation"
+  "blog.billing.open": "Ouvrir le portail de facturation",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

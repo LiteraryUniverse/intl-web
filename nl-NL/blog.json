@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Het betaalportaal openen en het abonnement wijzigen. Het portaal omvat het hele account dat voor deze blog betaalt — alle abonnementen, facturen en betaalmethoden daarop, niet alleen deze blog.",
   "blog.billing": "Facturering",
   "blog.billing.intro": "Beheer het abonnement dat voor deze blog betaalt — wissel van abonnement, werk de betaalmethode bij of download facturen.",
-  "blog.billing.open": "Betaalportaal openen"
+  "blog.billing.open": "Betaalportaal openen",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

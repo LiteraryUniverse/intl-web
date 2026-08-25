@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Åbne betalingsportalen og skifte abonnement. Portalen omfatter hele den konto, der betaler for denne blog — alle dens abonnementer, fakturaer og betalingsmetoder, ikke kun denne blog.",
   "blog.billing": "Betaling",
   "blog.billing.intro": "Administrér det abonnement, der betaler for denne blog — skift abonnement, opdatér betalingsmetoden eller hent fakturaer.",
-  "blog.billing.open": "Åbn betalingsportalen"
+  "blog.billing.open": "Åbn betalingsportalen",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

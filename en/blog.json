@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Open the billing portal and change the plan. The portal covers the whole account that pays for this blog — every subscription, invoice and payment method on it, not only this blog.",
   "blog.billing": "Billing",
   "blog.billing.intro": "Manage the subscription that pays for this blog — change the plan, update the payment method, or download invoices.",
-  "blog.billing.open": "Open billing portal"
+  "blog.billing.open": "Open billing portal",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

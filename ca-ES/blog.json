@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Obrir el portal de facturació i canviar de pla. El portal abasta tot el compte que paga aquest blog — totes les seves subscripcions, factures i mètodes de pagament, no només aquest blog.",
   "blog.billing": "Facturació",
   "blog.billing.intro": "Gestiona la subscripció que paga aquest blog: canvia de pla, actualitza el mètode de pagament o descarrega factures.",
-  "blog.billing.open": "Obre el portal de facturació"
+  "blog.billing.open": "Obre el portal de facturació",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

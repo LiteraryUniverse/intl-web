@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Maak die betaalportaal oop en verander die plan. Die portaal dek die hele rekening wat vir hierdie blog betaal — al die intekeninge, fakture en betaalmetodes daarop, nie net hierdie blog nie.",
   "blog.billing": "Fakturering",
   "blog.billing.intro": "Bestuur die intekening wat vir hierdie blog betaal: verander die plan, werk die betaalmetode by of laai fakture af.",
-  "blog.billing.open": "Maak betaalportaal oop"
+  "blog.billing.open": "Maak betaalportaal oop",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }

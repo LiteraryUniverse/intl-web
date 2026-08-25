@@ -344,5 +344,11 @@
   "blog.permission.billing.help": "Membuka portal pembayaran dan mengubah paket. Portal ini mencakup seluruh akun yang membayar blog ini — semua langganan, faktur, dan metode pembayarannya, bukan hanya blog ini.",
   "blog.billing": "Pembayaran",
   "blog.billing.intro": "Kelola langganan yang membayar blog ini: ganti paket, perbarui metode pembayaran, atau unduh faktur.",
-  "blog.billing.open": "Buka portal pembayaran"
+  "blog.billing.open": "Buka portal pembayaran",
+  "blog.theme.layout.hideName": "Hide the blog name",
+  "blog.menus.logoSize": "Logo size",
+  "blog.menus.logoSize.small": "Small",
+  "blog.menus.logoSize.medium": "Medium",
+  "blog.menus.logoSize.large": "Large",
+  "blog.menus.logoSize.full": "Full width"
 }
