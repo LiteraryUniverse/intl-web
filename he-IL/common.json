@@ -246,6 +246,7 @@
   "common.upload.error.remove": "הסרת התמונה נכשלה. אנא נסו שוב.",
   "common.upload.error.tooLarge": "התמונה חייבת להיות קטנה מ-5MB",
   "common.upload.error.unsupportedType": "אנא העלו סוג תמונה נתמך",
+  "common.upload.recommendedSize": "גודל מומלץ: {width}×{height} פיקסלים ({ratio}) — גם תמונות גדולות יותר באותו יחס מתאימות.",
   "common.upload.success": "ההעלאה הצליחה!",
   "common.uploading": "מעלה...",
   "common.user": "משתמש",

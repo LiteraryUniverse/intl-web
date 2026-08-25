@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Bild konnte nicht entfernt werden. Bitte versuchen Sie es erneut.",
   "common.upload.error.tooLarge": "Das Bild muss kleiner als 5 MB sein",
   "common.upload.error.unsupportedType": "Bitte laden Sie einen unterstützten Bildtyp hoch",
+  "common.upload.recommendedSize": "Empfohlene Größe: {width}×{height} px ({ratio}) — größere Bilder mit demselben Seitenverhältnis funktionieren ebenfalls.",
   "common.upload.success": "Hochladen erfolgreich!",
   "common.uploading": "Wird hochgeladen...",
   "common.user": "Benutzer",

@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Не вдалося видалити зображення. Спробуйте ще раз.",
   "common.upload.error.tooLarge": "Зображення має бути меншим за 5 МБ",
   "common.upload.error.unsupportedType": "Будь ласка, завантажте підтримуваний тип зображення",
+  "common.upload.recommendedSize": "Рекомендований розмір: {width}×{height} px ({ratio}) — більші зображення з таким самим співвідношенням теж підійдуть.",
   "common.upload.success": "Завантаження успішне!",
   "common.uploading": "Завантаження...",
   "common.user": "Користувач",

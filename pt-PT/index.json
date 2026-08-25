@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Não foi possível remover a imagem. Tente novamente.",
   "common.upload.error.tooLarge": "A imagem tem de ter menos de 5 MB",
   "common.upload.error.unsupportedType": "Carregue um tipo de imagem suportado",
+  "common.upload.recommendedSize": "Tamanho recomendado: {width}×{height} px ({ratio}) — imagens maiores com a mesma proporção também funcionam.",
   "common.upload.success": "Carregamento concluído com êxito!",
   "common.uploading": "A carregar...",
   "common.user": "Utilizador",

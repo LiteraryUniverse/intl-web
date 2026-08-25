@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Ora kasil mbusak gambar. Mangga coba maneh.",
   "common.upload.error.tooLarge": "Gambar kudu kurang saka 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
+  "common.upload.recommendedSize": "Ukuran sing disaranake: {width}×{height} px ({ratio}) — gambar sing luwih gedhe kanthi rasio sing padha uga bisa.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "User",

@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Failed to remove image. Please try again.",
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
+  "common.upload.recommendedSize": "सिफारिस गरिएको आकार: {width}×{height} px ({ratio}) — उही अनुपातका ठूला तस्बिरहरू पनि चल्छन्।",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "प्रयोगकर्ता",

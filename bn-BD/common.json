@@ -246,6 +246,7 @@
   "common.upload.error.remove": "ছবি সরানো যায়নি। অনুগ্রহ করে আবার চেষ্টা করুন।",
   "common.upload.error.tooLarge": "ছবির আকার 5MB-এর কম হতে হবে",
   "common.upload.error.unsupportedType": "অনুগ্রহ করে সমর্থিত ধরনের একটি ছবি আপলোড করুন",
+  "common.upload.recommendedSize": "প্রস্তাবিত আকার: {width}×{height} px ({ratio}) — একই অনুপাতের বড় ছবিও চলবে।",
   "common.upload.success": "আপলোড সফল হয়েছে!",
   "common.uploading": "আপলোড হচ্ছে...",
   "common.user": "ব্যবহারকারী",

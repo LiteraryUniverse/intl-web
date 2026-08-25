@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Níorbh fhéidir an íomhá a bhaint. Bain triail eile as.",
   "common.upload.error.tooLarge": "Ní mór don íomhá a bheith níos lú ná 5MB",
   "common.upload.error.unsupportedType": "Uaslódáil cineál íomhá a dtacaítear leis le do thoil",
+  "common.upload.recommendedSize": "Méid molta: {width}×{height} px ({ratio}) — oibríonn íomhánna níos mó leis an gcóimheas céanna freisin.",
   "common.upload.success": "D'éirigh leis an uaslódáil!",
   "common.uploading": "Ag uaslódáil...",
   "common.user": "Úsáideoir",

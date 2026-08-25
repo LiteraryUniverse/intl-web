@@ -246,6 +246,7 @@
   "common.upload.error.remove": "छवि हटाने में विफल। कृपया पुनः प्रयास करें।",
   "common.upload.error.tooLarge": "छवि 5MB से कम होनी चाहिए",
   "common.upload.error.unsupportedType": "कृपया समर्थित प्रकार की छवि अपलोड करें",
+  "common.upload.recommendedSize": "अनुशंसित आकार: {width}×{height} px ({ratio}) — समान अनुपात वाली बड़ी छवियाँ भी काम करती हैं।",
   "common.upload.success": "अपलोड सफल!",
   "common.uploading": "अपलोड हो रहा है...",
   "common.user": "उपयोगकर्ता",

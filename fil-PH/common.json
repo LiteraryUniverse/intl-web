@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Nabigong alisin ang larawan. Pakisubukang muli.",
   "common.upload.error.tooLarge": "Ang larawan ay dapat mas maliit sa 5MB",
   "common.upload.error.unsupportedType": "Mangyaring mag-upload ng suportadong uri ng larawan",
+  "common.upload.recommendedSize": "Inirerekomendang sukat: {width}×{height} px ({ratio}) — gumagana rin ang mas malalaking larawan na may parehong ratio.",
   "common.upload.success": "Matagumpay ang pag-upload!",
   "common.uploading": "Nag-a-upload...",
   "common.user": "User",

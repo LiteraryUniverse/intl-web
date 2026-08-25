@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Malsukcesis forigi la bildon. Bonvolu reprovi.",
   "common.upload.error.tooLarge": "Bildo devas esti malpli ol 5MB",
   "common.upload.error.unsupportedType": "Bonvolu alŝuti subtenatan bildotipon",
+  "common.upload.recommendedSize": "Rekomendita grando: {width}×{height} px ({ratio}) — pli grandaj bildoj kun la sama proporcio ankaŭ funkcias.",
   "common.upload.success": "Alŝuto sukcesa!",
   "common.uploading": "Alŝutante...",
   "common.user": "Uzanto",

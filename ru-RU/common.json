@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Не удалось удалить изображение. Пожалуйста, попробуйте снова.",
   "common.upload.error.tooLarge": "Размер изображения должен быть менее 5 МБ",
   "common.upload.error.unsupportedType": "Пожалуйста, загрузите поддерживаемый тип изображения",
+  "common.upload.recommendedSize": "Рекомендуемый размер: {width}×{height} px ({ratio}) — изображения большего размера с тем же соотношением сторон тоже подойдут.",
   "common.upload.success": "Загрузка выполнена успешно!",
   "common.uploading": "Загрузка...",
   "common.user": "Пользователь",

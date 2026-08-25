@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Afbeelding verwijderen mislukt. Probeer het opnieuw.",
   "common.upload.error.tooLarge": "Afbeelding moet kleiner zijn dan 5 MB",
   "common.upload.error.unsupportedType": "Upload een ondersteund afbeeldingstype",
+  "common.upload.recommendedSize": "Aanbevolen formaat: {width}×{height} px ({ratio}) — grotere afbeeldingen met dezelfde verhouding werken ook.",
   "common.upload.success": "Upload geslaagd!",
   "common.uploading": "Uploaden...",
   "common.user": "Gebruiker",

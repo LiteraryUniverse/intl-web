@@ -246,6 +246,7 @@
   "common.upload.error.remove": "فشل في إزالة الصورة. يرجى المحاولة مرة أخرى.",
   "common.upload.error.tooLarge": "يجب أن يكون حجم الصورة أقل من 5 ميغابايت",
   "common.upload.error.unsupportedType": "يرجى رفع نوع صورة مدعوم",
+  "common.upload.recommendedSize": "الحجم الموصى به: {width}×{height} بكسل ({ratio}) — الصور الأكبر بالنسبة نفسها تعمل أيضًا.",
   "common.upload.success": "تم الرفع بنجاح!",
   "common.uploading": "جارٍ الرفع...",
   "common.user": "مستخدم",

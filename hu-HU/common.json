@@ -246,6 +246,7 @@
   "common.upload.error.remove": "A kép eltávolítása nem sikerült. Kérjük, próbálja újra.",
   "common.upload.error.tooLarge": "A kép mérete nem haladhatja meg az 5 MB-ot",
   "common.upload.error.unsupportedType": "Kérjük, támogatott képtípust töltsön fel",
+  "common.upload.recommendedSize": "Ajánlott méret: {width}×{height} px ({ratio}) — az azonos képarányú nagyobb képek is megfelelnek.",
   "common.upload.success": "Sikeres feltöltés!",
   "common.uploading": "Feltöltés...",
   "common.user": "Felhasználó",

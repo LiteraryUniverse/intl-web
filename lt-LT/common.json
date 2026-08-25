@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Nepavyko pašalinti vaizdo. Bandykite dar kartą.",
   "common.upload.error.tooLarge": "Vaizdas turi būti mažesnis nei 5MB",
   "common.upload.error.unsupportedType": "Įkelkite palaikomo tipo vaizdą",
+  "common.upload.recommendedSize": "Rekomenduojamas dydis: {width}×{height} px ({ratio}) — tinka ir didesni to paties santykio paveikslėliai.",
   "common.upload.success": "Įkėlimas sėkmingas!",
   "common.uploading": "Įkeliama...",
   "common.user": "Naudotojas",

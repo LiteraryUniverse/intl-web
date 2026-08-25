@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Odstranění obrázku se nezdařilo. Zkuste to prosím znovu.",
   "common.upload.error.tooLarge": "Obrázek musí být menší než 5 MB",
   "common.upload.error.unsupportedType": "Nahrajte prosím podporovaný typ obrázku",
+  "common.upload.recommendedSize": "Doporučená velikost: {width}×{height} px ({ratio}) — větší obrázky se stejným poměrem stran fungují také.",
   "common.upload.success": "Nahrání úspěšné!",
   "common.uploading": "Nahrávání...",
   "common.user": "Uživatel",

@@ -246,6 +246,7 @@
   "common.upload.error.remove": "པར་རིས་ཕྱིར་བཏོན་མ་ཐུབ། ཡང་བསྐྱར་ཚོད་ལྟ་གྱིས།",
   "common.upload.error.tooLarge": "པར་རིས 5MB ལས་ཆུང་དགོས།",
   "common.upload.error.unsupportedType": "རྒྱབ་སྐྱོར་ཡོད་པའི་པར་རིས་རིགས་ཤིག་ཡར་འཇུག་གནང་རོགས།",
+  "common.upload.recommendedSize": "Recommended size: {width}×{height} px ({ratio}) — larger images with the same ratio work too.",
   "common.upload.success": "ཡར་འཇུག་ལེགས་གྲུབ།",
   "common.uploading": "ཡར་འཇུག་བྱེད་བཞིན…",
   "common.user": "ལག་ལེན་པ",

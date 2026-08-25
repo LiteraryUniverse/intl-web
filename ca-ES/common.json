@@ -246,6 +246,7 @@
   "common.upload.error.remove": "No s'ha pogut eliminar la imatge. Torna-ho a provar.",
   "common.upload.error.tooLarge": "La imatge ha de ser de menys de 5 MB",
   "common.upload.error.unsupportedType": "Puja un tipus d'imatge compatible",
+  "common.upload.recommendedSize": "Mida recomanada: {width}×{height} px ({ratio}) — les imatges més grans amb la mateixa proporció també funcionen.",
   "common.upload.success": "Pujada correcta!",
   "common.uploading": "Pujant...",
   "common.user": "Usuari",

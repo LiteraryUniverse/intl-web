@@ -246,6 +246,7 @@
   "common.upload.error.remove": "lo nu vimcu lo pixra cu na snada .i ko za'u re'u troci.",
   "common.upload.error.tooLarge": ".ei lo pixra cu mleca lo 5MB",
   "common.upload.error.unsupportedType": "ko samymri lo pixra klesi poi se sabji",
+  "common.upload.recommendedSize": "Recommended size: {width}×{height} px ({ratio}) — larger images with the same ratio work too.",
   "common.upload.success": "lo nu samymri cu snada!",
   "common.uploading": "ca'o samymri...",
   "common.user": "sampli",

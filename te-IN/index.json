@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Failed to remove image. Please try again.",
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
+  "common.upload.recommendedSize": "సిఫారసు చేసిన పరిమాణం: {width}×{height} px ({ratio}) — అదే నిష్పత్తిలో పెద్ద చిత్రాలు కూడా పని చేస్తాయి.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "వాడుకరి",

@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Αποτυχία αφαίρεσης της εικόνας. Παρακαλούμε δοκιμάστε ξανά.",
   "common.upload.error.tooLarge": "Η εικόνα πρέπει να είναι μικρότερη από 5MB",
   "common.upload.error.unsupportedType": "Παρακαλούμε μεταφορτώστε έναν υποστηριζόμενο τύπο εικόνας",
+  "common.upload.recommendedSize": "Συνιστώμενο μέγεθος: {width}×{height} px ({ratio}) — μεγαλύτερες εικόνες με την ίδια αναλογία λειτουργούν επίσης.",
   "common.upload.success": "Η μεταφόρτωση ολοκληρώθηκε με επιτυχία!",
   "common.uploading": "Μεταφόρτωση...",
   "common.user": "Χρήστης",

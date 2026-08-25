@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Pildi eemaldamine ebaõnnestus. Palun proovige uuesti.",
   "common.upload.error.tooLarge": "Pilt peab olema väiksem kui 5 MB",
   "common.upload.error.unsupportedType": "Palun laadige üles toetatud pilditüüp",
+  "common.upload.recommendedSize": "Soovitatav suurus: {width}×{height} px ({ratio}) — sama kuvasuhtega suuremad pildid sobivad samuti.",
   "common.upload.success": "Üleslaadimine õnnestus!",
   "common.uploading": "Üleslaadimine...",
   "common.user": "Kasutaja",

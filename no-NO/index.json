@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Failed to remove image. Please try again.",
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
+  "common.upload.recommendedSize": "Anbefalt størrelse: {width}×{height} px ({ratio}) — større bilder med samme forhold fungerer også.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "Bruker",

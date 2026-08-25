@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Failed to remove image. Please try again.",
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
+  "common.upload.recommendedSize": "권장 크기: {width}×{height} px ({ratio}) — 같은 비율이라면 더 큰 이미지도 괜찮습니다.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "사용자",

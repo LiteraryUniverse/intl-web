@@ -246,6 +246,7 @@
   "common.upload.error.remove": "画像の削除に失敗しました。もう一度お試しください。",
   "common.upload.error.tooLarge": "画像は5MB未満にしてください",
   "common.upload.error.unsupportedType": "対応している画像形式をアップロードしてください",
+  "common.upload.recommendedSize": "推奨サイズ: {width}×{height} px（{ratio}）— 同じ比率であれば、より大きな画像でも問題ありません。",
   "common.upload.success": "アップロードに成功しました！",
   "common.uploading": "アップロード中...",
   "common.user": "ユーザー",

@@ -942,6 +942,7 @@
   "common.upload.error.remove": "Nenten prasida ngaadang gambar. Ledang indayang malih.",
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
+  "common.upload.recommendedSize": "Ukuran sané kasaranin: {width}×{height} px ({ratio}) — gambar sané agengan sareng rasio sané pateh taler dados.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "User",

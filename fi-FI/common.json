@@ -246,6 +246,7 @@
   "common.upload.error.remove": "Kuvan poistaminen epäonnistui. Yritä uudelleen.",
   "common.upload.error.tooLarge": "Kuvan on oltava alle 5 Mt",
   "common.upload.error.unsupportedType": "Lataa tuettua kuvatyyppiä oleva tiedosto",
+  "common.upload.recommendedSize": "Suositeltu koko: {width}×{height} px ({ratio}) — myös suuremmat kuvat samassa kuvasuhteessa toimivat.",
   "common.upload.success": "Lataus onnistui!",
   "common.uploading": "Ladataan...",
   "common.user": "Käyttäjä",
