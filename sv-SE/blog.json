@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Använd som startsida",
   "blog.pages.clearHomepage": "Sluta använda som startsida",
   "blog.pages.publishHint": "”Publicera” här sparar sidans innehåll. Gör sidan synlig från sidlistan.",
+  "blog.pages.followingContent": "Sidan fortsätter nedan med inbyggt innehåll som inte kan redigeras här.",
   "blog.pages.resetTemplate": "Återställ till mall",
   "blog.pages.templates.title": "Börja från en mall",
   "blog.pages.templates.blank": "Tom sida",

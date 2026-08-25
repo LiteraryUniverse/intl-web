@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "ਮੁੱਖ ਪੰਨੇ ਵਜੋਂ ਵਰਤੋ",
   "blog.pages.clearHomepage": "ਮੁੱਖ ਪੰਨੇ ਵਜੋਂ ਵਰਤਣਾ ਬੰਦ ਕਰੋ",
   "blog.pages.publishHint": "ਇੱਥੇ “ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ” ਪੰਨੇ ਦੀ ਸਮੱਗਰੀ ਸੰਭਾਲਦਾ ਹੈ। ਪੰਨਿਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਇਸਨੂੰ ਦਿਖਾਈ ਦੇਣ ਵਾਲਾ ਬਣਾਓ।",
+  "blog.pages.followingContent": "ਪੰਨਾ ਹੇਠਾਂ ਬਿਲਟ-ਇਨ ਸਮੱਗਰੀ ਨਾਲ ਜਾਰੀ ਰਹਿੰਦਾ ਹੈ ਜਿਸ ਨੂੰ ਇੱਥੇ ਸੋਧਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।",
   "blog.pages.resetTemplate": "ਟੈਂਪਲੇਟ 'ਤੇ ਰੀਸੈੱਟ ਕਰੋ",
   "blog.pages.templates.title": "ਟੈਂਪਲੇਟ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ",
   "blog.pages.templates.blank": "ਖਾਲੀ ਪੰਨਾ",

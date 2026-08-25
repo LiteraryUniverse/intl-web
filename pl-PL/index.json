@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Ustaw jako stronę główną",
   "blog.pages.clearHomepage": "Przestań używać jako strony głównej",
   "blog.pages.publishHint": "„Opublikuj” zapisuje tutaj treść strony. Widoczną uczynisz ją z listy stron.",
+  "blog.pages.followingContent": "Strona jest kontynuowana poniżej wbudowaną treścią, której nie można tutaj edytować.",
   "blog.pages.resetTemplate": "Przywróć szablon",
   "blog.pages.templates.title": "Zacznij od szablonu",
   "blog.pages.templates.blank": "Pusta strona",

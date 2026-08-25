@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "હોમપેજ તરીકે વાપરો",
   "blog.pages.clearHomepage": "હોમપેજ તરીકે વાપરવાનું બંધ કરો",
   "blog.pages.publishHint": "અહીં “પ્રકાશિત કરો” પૃષ્ઠની સામગ્રી સાચવે છે. પૃષ્ઠ સૂચિમાંથી તેને દૃશ્યમાન બનાવો.",
+  "blog.pages.followingContent": "પૃષ્ઠ નીચે બિલ્ટ-ઇન કન્ટેન્ટ સાથે ચાલુ રહે છે જે અહીં સંપાદિત કરી શકાતું નથી.",
   "blog.pages.resetTemplate": "ટેમ્પલેટ પર રીસેટ કરો",
   "blog.pages.templates.title": "ટેમ્પલેટથી શરૂ કરો",
   "blog.pages.templates.blank": "ખાલી પૃષ્ઠ",

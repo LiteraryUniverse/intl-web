@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "హోమ్‌పేజీగా ఉపయోగించండి",
   "blog.pages.clearHomepage": "హోమ్‌పేజీగా ఉపయోగించడం ఆపండి",
   "blog.pages.publishHint": "ఇక్కడ “ప్రచురించు” పేజీ కంటెంట్‌ను సేవ్ చేస్తుంది. పేజీల జాబితా నుండి దాన్ని కనిపించేలా చేయండి.",
+  "blog.pages.followingContent": "పేజీ కింద అంతర్నిర్మిత కంటెంట్‌తో కొనసాగుతుంది; దాన్ని ఇక్కడ సవరించలేరు.",
   "blog.pages.resetTemplate": "టెంప్లేట్‌కు రీసెట్ చేయండి",
   "blog.pages.templates.title": "టెంప్లేట్ నుండి ప్రారంభించండి",
   "blog.pages.templates.blank": "ఖాళీ పేజీ",

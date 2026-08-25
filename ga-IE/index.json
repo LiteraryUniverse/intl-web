@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Úsáid mar leathanach baile",
   "blog.pages.clearHomepage": "Stop á úsáid mar leathanach baile",
   "blog.pages.publishHint": "Sábhálann «Foilsigh» anseo ábhar an leathanaigh. Déan infheicthe é ó liosta na leathanach.",
+  "blog.pages.followingContent": "Leanann an leathanach thíos le hábhar ionsuite nach féidir a chur in eagar anseo.",
   "blog.pages.resetTemplate": "Athshocraigh go teimpléad",
   "blog.pages.templates.title": "Tosaigh ó theimpléad",
   "blog.pages.templates.blank": "Leathanach bán",

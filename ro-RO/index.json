@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Folosiți ca pagină de start",
   "blog.pages.clearHomepage": "Nu mai folosiți ca pagină de start",
   "blog.pages.publishHint": "„Publicați” aici salvează conținutul paginii. Faceți-o vizibilă din lista de pagini.",
+  "blog.pages.followingContent": "Pagina continuă mai jos cu conținut integrat care nu poate fi editat aici.",
   "blog.pages.resetTemplate": "Resetează la șablon",
   "blog.pages.templates.title": "Începe de la un șablon",
   "blog.pages.templates.blank": "Pagină goală",

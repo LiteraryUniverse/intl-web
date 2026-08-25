@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Brug som forside",
   "blog.pages.clearHomepage": "Stop med at bruge som forside",
   "blog.pages.publishHint": "„Udgiv“ gemmer her sidens indhold. Gør siden synlig fra sidelisten.",
+  "blog.pages.followingContent": "Siden fortsætter nedenfor med indbygget indhold, som ikke kan redigeres her.",
   "blog.pages.resetTemplate": "Nulstil til skabelon",
   "blog.pages.templates.title": "Start fra en skabelon",
   "blog.pages.templates.blank": "Tom side",

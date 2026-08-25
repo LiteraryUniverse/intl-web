@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Als Startseite verwenden",
   "blog.pages.clearHomepage": "Nicht mehr als Startseite verwenden",
   "blog.pages.publishHint": "„Veröffentlichen“ speichert hier den Seiteninhalt. Sichtbar machst du die Seite in der Seitenliste.",
+  "blog.pages.followingContent": "Die Seite geht unten mit integriertem Inhalt weiter, der hier nicht bearbeitet werden kann.",
   "blog.pages.resetTemplate": "Auf Vorlage zurücksetzen",
   "blog.pages.templates.title": "Mit einer Vorlage beginnen",
   "blog.pages.templates.blank": "Leere Seite",

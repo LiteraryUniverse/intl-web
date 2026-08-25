@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "মুখ্য পৃষ্ঠা হিচাপে ব্যৱহাৰ কৰক",
   "blog.pages.clearHomepage": "মুখ্য পৃষ্ঠা হিচাপে ব্যৱহাৰ বন্ধ কৰক",
   "blog.pages.publishHint": "ইয়াত “প্ৰকাশ” এ পৃষ্ঠাৰ সমল সংৰক্ষণ কৰে। পৃষ্ঠাৰ তালিকাৰ পৰা ইয়াক দৃশ্যমান কৰক।",
+  "blog.pages.followingContent": "পৃষ্ঠাটো তলত অন্তৰ্নিৰ্মিত সমলৰ সৈতে অব্যাহত থাকে যি ইয়াত সম্পাদনা কৰিব নোৱাৰি।",
   "blog.pages.resetTemplate": "টেমপ্লেটলৈ ৰিছেট কৰক",
   "blog.pages.templates.title": "টেমপ্লেটৰ পৰা আৰম্ভ কৰক",
   "blog.pages.templates.blank": "খালী পৃষ্ঠা",

@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Naudoti kaip pradžios puslapį",
   "blog.pages.clearHomepage": "Nebenaudoti kaip pradžios puslapio",
   "blog.pages.publishHint": "„Publikuoti“ čia išsaugo puslapio turinį. Matomą jį padarysite puslapių sąraše.",
+  "blog.pages.followingContent": "Puslapis tęsiasi žemiau su integruotu turiniu, kurio čia redaguoti negalima.",
   "blog.pages.resetTemplate": "Atkurti pagal šabloną",
   "blog.pages.templates.title": "Pradėti nuo šablono",
   "blog.pages.templates.blank": "Tuščias puslapis",

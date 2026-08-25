@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "गृहपृष्ठका रूपमा प्रयोग गर्नुहोस्",
   "blog.pages.clearHomepage": "गृहपृष्ठका रूपमा प्रयोग बन्द गर्नुहोस्",
   "blog.pages.publishHint": "यहाँ “प्रकाशित गर्नुहोस्” ले पृष्ठको सामग्री बचत गर्छ। पृष्ठ सूचीबाट यसलाई देखिने बनाउनुहोस्।",
+  "blog.pages.followingContent": "पृष्ठ तल निर्मित सामग्रीसँग जारी रहन्छ जुन यहाँ सम्पादन गर्न सकिँदैन।",
   "blog.pages.resetTemplate": "टेम्प्लेटमा रिसेट गर्नुहोस्",
   "blog.pages.templates.title": "टेम्प्लेटबाट सुरु गर्नुहोस्",
   "blog.pages.templates.blank": "खाली पृष्ठ",

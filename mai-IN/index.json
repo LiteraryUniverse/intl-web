@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "मुखपृष्ठक रूपमे उपयोग करू",
   "blog.pages.clearHomepage": "मुखपृष्ठक रूपमे उपयोग बंद करू",
   "blog.pages.publishHint": "एतय “प्रकाशित करू” पृष्ठक सामग्री सहेजैत अछि। पृष्ठ सूचीसँ एकरा देखार बनाउ।",
+  "blog.pages.followingContent": "पृष्ठ नीचाँ अंतर्निहित सामग्रीक संग जारी रहैत अछि जे एतय संपादित नहि कएल जा सकैत अछि।",
   "blog.pages.resetTemplate": "टेम्पलेट पर रीसेट करू",
   "blog.pages.templates.title": "टेम्पलेट सँ शुरू करू",
   "blog.pages.templates.blank": "खाली पन्ना",

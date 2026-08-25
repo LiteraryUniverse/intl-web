@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Utilitza com a pàgina d'inici",
   "blog.pages.clearHomepage": "Deixa d'utilitzar com a pàgina d'inici",
   "blog.pages.publishHint": "«Publica» aquí desa el contingut de la pàgina. Feu-la visible des de la llista de pàgines.",
+  "blog.pages.followingContent": "La pàgina continua a sota amb contingut integrat que no es pot editar aquí.",
   "blog.pages.resetTemplate": "Restableix a la plantilla",
   "blog.pages.templates.title": "Comença des d'una plantilla",
   "blog.pages.templates.blank": "Pàgina en blanc",

@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Bruk som forside",
   "blog.pages.clearHomepage": "Slutt å bruke som forside",
   "blog.pages.publishHint": "«Publiser» lagrer her sidens innhold. Gjør siden synlig fra sidelisten.",
+  "blog.pages.followingContent": "Siden fortsetter nedenfor med innebygd innhold som ikke kan redigeres her.",
   "blog.pages.resetTemplate": "Tilbakestill til mal",
   "blog.pages.templates.title": "Start fra en mal",
   "blog.pages.templates.blank": "Tom side",

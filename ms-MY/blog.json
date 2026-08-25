@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Guna sebagai halaman utama",
   "blog.pages.clearHomepage": "Berhenti guna sebagai halaman utama",
   "blog.pages.publishHint": "“Terbitkan” di sini menyimpan kandungan halaman. Jadikan halaman kelihatan daripada senarai halaman.",
+  "blog.pages.followingContent": "Halaman diteruskan di bawah dengan kandungan terbina dalam yang tidak boleh diedit di sini.",
   "blog.pages.resetTemplate": "Tetapkan semula kepada templat",
   "blog.pages.templates.title": "Mula daripada templat",
   "blog.pages.templates.blank": "Halaman kosong",

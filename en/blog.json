@@ -173,6 +173,7 @@
   "blog.pages.setHomepage": "Use as homepage",
   "blog.pages.clearHomepage": "Stop using as homepage",
   "blog.pages.publishHint": "“Publish” here saves the page content. Make the page visible from the pages list.",
+  "blog.pages.followingContent": "The page continues below with built-in content that is not editable here.",
   "blog.pages.resetTemplate": "Reset to template",
   "blog.pages.templates.title": "Start from a template",
   "blog.pages.templates.blank": "Blank page",

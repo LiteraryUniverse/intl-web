@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "設為首頁",
   "blog.pages.clearHomepage": "取消設為首頁",
   "blog.pages.publishHint": "此處的「發佈」會儲存頁面內容。請在頁面清單中將頁面設為可見。",
+  "blog.pages.followingContent": "頁面會在下方接續內建內容，此處無法編輯。",
   "blog.pages.resetTemplate": "重設為範本",
   "blog.pages.templates.title": "從範本開始",
   "blog.pages.templates.blank": "空白頁面",

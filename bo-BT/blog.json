@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "མདུན་ཤོག་ཏུ་བེད་སྤྱོད།",
   "blog.pages.clearHomepage": "མདུན་ཤོག་ཏུ་བེད་སྤྱོད་མཚམས་འཇོག",
   "blog.pages.publishHint": "འདིར་«དཔེ་སྐྲུན»གྱིས་ཤོག་ངོས་ཀྱི་ནང་དོན་ཉར་ཚགས་བྱེད། ཤོག་ངོས་ཐོ་ནས་མཐོང་ཐུབ་པ་བཟོས།",
+  "blog.pages.followingContent": "ཤོག་ངོས་འདི་འོག་ཏུ་ནང་ཆུད་ནང་དོན་གྱིས་མུ་མཐུད། འདིར་རྩོམ་སྒྲིག་བྱེད་མི་ཐུབ།",
   "blog.pages.resetTemplate": "དཔེ་གཞིར་སླར་སྒྲིག",
   "blog.pages.templates.title": "དཔེ་གཞི་ནས་འགོ་འཛུགས།",
   "blog.pages.templates.blank": "ཤོག་ངོས་སྟོང་པ།",

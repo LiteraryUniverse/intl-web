@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "홈페이지로 사용",
   "blog.pages.clearHomepage": "홈페이지 사용 해제",
   "blog.pages.publishHint": "여기서 ‘게시’는 페이지 내용을 저장합니다. 공개는 페이지 목록에서 설정하세요.",
+  "blog.pages.followingContent": "이 페이지는 여기에서 편집할 수 없는 기본 제공 콘텐츠로 아래에서 이어집니다.",
   "blog.pages.resetTemplate": "템플릿으로 초기화",
   "blog.pages.templates.title": "템플릿으로 시작하기",
   "blog.pages.templates.blank": "빈 페이지",

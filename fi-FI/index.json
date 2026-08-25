@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Käytä etusivuna",
   "blog.pages.clearHomepage": "Lopeta käyttö etusivuna",
   "blog.pages.publishHint": "”Julkaise” tallentaa tässä sivun sisällön. Tee sivusta näkyvä sivuluettelosta.",
+  "blog.pages.followingContent": "Sivu jatkuu alla sisäänrakennetulla sisällöllä, jota ei voi muokata täällä.",
   "blog.pages.resetTemplate": "Palauta malliin",
   "blog.pages.templates.title": "Aloita mallista",
   "blog.pages.templates.blank": "Tyhjä sivu",

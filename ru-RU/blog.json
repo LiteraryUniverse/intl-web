@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Сделать главной страницей",
   "blog.pages.clearHomepage": "Больше не использовать как главную",
   "blog.pages.publishHint": "«Опубликовать» здесь сохраняет содержимое страницы. Видимой её можно сделать в списке страниц.",
+  "blog.pages.followingContent": "Ниже страница продолжается встроенным контентом, который здесь нельзя изменить.",
   "blog.pages.resetTemplate": "Сбросить к шаблону",
   "blog.pages.templates.title": "Начните с шаблона",
   "blog.pages.templates.blank": "Пустая страница",

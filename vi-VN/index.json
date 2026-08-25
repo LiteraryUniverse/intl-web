@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Dùng làm trang chủ",
   "blog.pages.clearHomepage": "Ngừng dùng làm trang chủ",
   "blog.pages.publishHint": "“Xuất bản” ở đây lưu nội dung trang. Hãy hiển thị trang từ danh sách trang.",
+  "blog.pages.followingContent": "Trang tiếp tục bên dưới với nội dung tích hợp không thể chỉnh sửa tại đây.",
   "blog.pages.resetTemplate": "Đặt lại theo mẫu",
   "blog.pages.templates.title": "Bắt đầu từ mẫu",
   "blog.pages.templates.blank": "Trang trống",

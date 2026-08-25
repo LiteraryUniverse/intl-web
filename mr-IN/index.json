@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "मुखपृष्ठ म्हणून वापरा",
   "blog.pages.clearHomepage": "मुखपृष्ठ म्हणून वापरणे थांबवा",
   "blog.pages.publishHint": "येथे “प्रकाशित करा” पृष्ठाचा मजकूर जतन करते. पृष्ठ सूचीमधून ते दृश्यमान करा.",
+  "blog.pages.followingContent": "पृष्ठ खाली अंगभूत मजकुराने सुरू राहते जे येथे संपादित करता येत नाही.",
   "blog.pages.resetTemplate": "टेम्पलेटवर रीसेट करा",
   "blog.pages.templates.title": "टेम्पलेटपासून सुरुवात करा",
   "blog.pages.templates.blank": "रिकामे पान",

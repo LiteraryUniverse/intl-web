@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "მთავარ გვერდად გამოყენება",
   "blog.pages.clearHomepage": "მთავარ გვერდად გამოყენების შეწყვეტა",
   "blog.pages.publishHint": "«გამოქვეყნება» აქ ინახავს გვერდის შინაარსს. ხილული გახადეთ გვერდების სიიდან.",
+  "blog.pages.followingContent": "გვერდი ქვემოთ გრძელდება ჩაშენებული შინაარსით, რომლის რედაქტირება აქ შეუძლებელია.",
   "blog.pages.resetTemplate": "შაბლონზე დაბრუნება",
   "blog.pages.templates.title": "დაიწყეთ შაბლონიდან",
   "blog.pages.templates.blank": "ცარიელი გვერდი",

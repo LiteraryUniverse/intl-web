@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Použiť ako úvodnú stránku",
   "blog.pages.clearHomepage": "Prestať používať ako úvodnú stránku",
   "blog.pages.publishHint": "„Publikovať“ tu ukladá obsah stránky. Viditeľnou ju urobíte v zozname stránok.",
+  "blog.pages.followingContent": "Stránka pokračuje nižšie vstavaným obsahom, ktorý tu nemožno upraviť.",
   "blog.pages.resetTemplate": "Obnoviť zo šablóny",
   "blog.pages.templates.title": "Začnite zo šablóny",
   "blog.pages.templates.blank": "Prázdna stránka",

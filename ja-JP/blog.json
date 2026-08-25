@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "ホームページに設定",
   "blog.pages.clearHomepage": "ホームページ設定を解除",
   "blog.pages.publishHint": "ここでの「公開」はページ内容の保存です。表示はページ一覧から切り替えられます。",
+  "blog.pages.followingContent": "この下に、ここでは編集できない標準コンテンツが続きます。",
   "blog.pages.resetTemplate": "テンプレートにリセット",
   "blog.pages.templates.title": "テンプレートから始める",
   "blog.pages.templates.blank": "白紙のページ",

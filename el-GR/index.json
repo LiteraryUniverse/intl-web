@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Χρήση ως αρχική σελίδα",
   "blog.pages.clearHomepage": "Διακοπή χρήσης ως αρχικής σελίδας",
   "blog.pages.publishHint": "Η «Δημοσίευση» εδώ αποθηκεύει το περιεχόμενο της σελίδας. Κάντε τη ορατή από τη λίστα σελίδων.",
+  "blog.pages.followingContent": "Η σελίδα συνεχίζεται παρακάτω με ενσωματωμένο περιεχόμενο που δεν μπορεί να επεξεργαστεί εδώ.",
   "blog.pages.resetTemplate": "Επαναφορά στο πρότυπο",
   "blog.pages.templates.title": "Ξεκινήστε από ένα πρότυπο",
   "blog.pages.templates.blank": "Κενή σελίδα",

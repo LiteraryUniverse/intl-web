@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "ใช้เป็นหน้าแรก",
   "blog.pages.clearHomepage": "เลิกใช้เป็นหน้าแรก",
   "blog.pages.publishHint": "“เผยแพร่” ที่นี่คือการบันทึกเนื้อหาหน้า ทำให้หน้าแสดงผลได้จากรายการหน้า",
+  "blog.pages.followingContent": "หน้านี้ดำเนินต่อด้านล่างด้วยเนื้อหาในตัวที่แก้ไขที่นี่ไม่ได้",
   "blog.pages.resetTemplate": "รีเซ็ตเป็นเทมเพลต",
   "blog.pages.templates.title": "เริ่มจากเทมเพลต",
   "blog.pages.templates.blank": "หน้าว่าง",

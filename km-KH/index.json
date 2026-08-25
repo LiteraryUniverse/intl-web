@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "ប្រើ​ជា​ទំព័រដើម",
   "blog.pages.clearHomepage": "ឈប់​ប្រើ​ជា​ទំព័រដើម",
   "blog.pages.publishHint": "«បោះផ្សាយ» នៅទីនេះ​រក្សាទុក​មាតិកា​ទំព័រ។ ធ្វើឱ្យ​វា​មើលឃើញ​ពី​បញ្ជី​ទំព័រ។",
+  "blog.pages.followingContent": "ទំព័របន្តខាងក្រោមជាមួយមាតិកាមានស្រាប់ដែលមិនអាចកែបាននៅទីនេះ។",
   "blog.pages.resetTemplate": "កំណត់ឡើងវិញទៅគំរូ",
   "blog.pages.templates.title": "ចាប់ផ្តើមពីគំរូ",
   "blog.pages.templates.blank": "ទំព័រទទេ",

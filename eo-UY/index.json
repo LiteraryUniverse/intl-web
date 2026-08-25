@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Uzi kiel ĉefpaĝon",
   "blog.pages.clearHomepage": "Ĉesi uzi kiel ĉefpaĝon",
   "blog.pages.publishHint": "«Publikigi» ĉi tie konservas la enhavon de la paĝo. Videbligu ĝin el la listo de paĝoj.",
+  "blog.pages.followingContent": "La paĝo daŭras sube kun enkonstruita enhavo, kiu ne estas redaktebla ĉi tie.",
   "blog.pages.resetTemplate": "Restarigi al ŝablono",
   "blog.pages.templates.title": "Komenci de ŝablono",
   "blog.pages.templates.blank": "Malplena paĝo",

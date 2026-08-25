@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "שימוש כעמוד הבית",
   "blog.pages.clearHomepage": "הפסקת שימוש כעמוד הבית",
   "blog.pages.publishHint": "«פרסום» כאן שומר את תוכן העמוד. הפכו אותו לגלוי מרשימת העמודים.",
+  "blog.pages.followingContent": "העמוד ממשיך למטה עם תוכן מובנה שאי אפשר לערוך כאן.",
   "blog.pages.resetTemplate": "איפוס לתבנית",
   "blog.pages.templates.title": "התחלה מתבנית",
   "blog.pages.templates.blank": "עמוד ריק",

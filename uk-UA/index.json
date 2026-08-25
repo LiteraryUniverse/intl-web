@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Зробити головною сторінкою",
   "blog.pages.clearHomepage": "Більше не використовувати як головну",
   "blog.pages.publishHint": "«Опублікувати» тут зберігає вміст сторінки. Видимою її можна зробити у списку сторінок.",
+  "blog.pages.followingContent": "Нижче сторінка продовжується вбудованим вмістом, який тут не можна редагувати.",
   "blog.pages.resetTemplate": "Скинути до шаблону",
   "blog.pages.templates.title": "Почніть із шаблону",
   "blog.pages.templates.blank": "Порожня сторінка",

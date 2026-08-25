@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Utiliser comme page d'accueil",
   "blog.pages.clearHomepage": "Ne plus utiliser comme page d'accueil",
   "blog.pages.publishHint": "« Publier » enregistre ici le contenu de la page. Rendez-la visible depuis la liste des pages.",
+  "blog.pages.followingContent": "La page se poursuit ci-dessous avec du contenu intégré qui n'est pas modifiable ici.",
   "blog.pages.resetTemplate": "Réinitialiser au modèle",
   "blog.pages.templates.title": "Partir d'un modèle",
   "blog.pages.templates.blank": "Page vierge",

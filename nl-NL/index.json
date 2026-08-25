@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Gebruiken als startpagina",
   "blog.pages.clearHomepage": "Niet meer gebruiken als startpagina",
   "blog.pages.publishHint": "„Publiceren” slaat hier de pagina-inhoud op. Maak de pagina zichtbaar via de paginalijst.",
+  "blog.pages.followingContent": "De pagina gaat hieronder verder met ingebouwde inhoud die hier niet bewerkt kan worden.",
   "blog.pages.resetTemplate": "Terugzetten naar sjabloon",
   "blog.pages.templates.title": "Begin met een sjabloon",
   "blog.pages.templates.blank": "Lege pagina",

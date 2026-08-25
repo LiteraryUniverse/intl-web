@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Használat kezdőlapként",
   "blog.pages.clearHomepage": "Kezdőlapként való használat leállítása",
   "blog.pages.publishHint": "A „Közzététel” itt az oldal tartalmát menti. Láthatóvá az oldallistából teheti.",
+  "blog.pages.followingContent": "Az oldal alább beépített tartalommal folytatódik, amely itt nem szerkeszthető.",
   "blog.pages.resetTemplate": "Visszaállítás a sablonra",
   "blog.pages.templates.title": "Kezdés sablonból",
   "blog.pages.templates.blank": "Üres oldal",

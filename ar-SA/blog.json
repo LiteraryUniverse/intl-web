@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "استخدام كصفحة رئيسية",
   "blog.pages.clearHomepage": "إيقاف استخدامها كصفحة رئيسية",
   "blog.pages.publishHint": "«نشر» هنا يحفظ محتوى الصفحة. اجعلها مرئية من قائمة الصفحات.",
+  "blog.pages.followingContent": "تستمر الصفحة أدناه بمحتوى مدمج لا يمكن تحريره هنا.",
   "blog.pages.resetTemplate": "إعادة التعيين إلى القالب",
   "blog.pages.templates.title": "ابدأ من قالب",
   "blog.pages.templates.blank": "صفحة فارغة",

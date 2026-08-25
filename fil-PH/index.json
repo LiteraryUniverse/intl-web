@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "Gamitin bilang homepage",
   "blog.pages.clearHomepage": "Itigil ang paggamit bilang homepage",
   "blog.pages.publishHint": "Ang “I-publish” dito ay nagse-save ng content ng pahina. Gawin itong nakikita mula sa listahan ng mga pahina.",
+  "blog.pages.followingContent": "Magpapatuloy ang pahina sa ibaba ng built-in na content na hindi mae-edit dito.",
   "blog.pages.resetTemplate": "I-reset sa template",
   "blog.pages.templates.title": "Magsimula mula sa template",
   "blog.pages.templates.blank": "Blangkong pahina",

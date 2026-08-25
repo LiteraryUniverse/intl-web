@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Usa come pagina iniziale",
   "blog.pages.clearHomepage": "Smetti di usare come pagina iniziale",
   "blog.pages.publishHint": "«Pubblica» qui salva il contenuto della pagina. Rendila visibile dall'elenco delle pagine.",
+  "blog.pages.followingContent": "La pagina continua sotto con contenuti integrati che non si possono modificare qui.",
   "blog.pages.resetTemplate": "Ripristina il modello",
   "blog.pages.templates.title": "Inizia da un modello",
   "blog.pages.templates.blank": "Pagina vuota",

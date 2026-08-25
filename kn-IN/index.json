@@ -283,6 +283,7 @@
   "blog.pages.setHomepage": "ಮುಖಪುಟವಾಗಿ ಬಳಸಿ",
   "blog.pages.clearHomepage": "ಮುಖಪುಟವಾಗಿ ಬಳಸುವುದನ್ನು ನಿಲ್ಲಿಸಿ",
   "blog.pages.publishHint": "ಇಲ್ಲಿ “ಪ್ರಕಟಿಸಿ” ಪುಟದ ವಿಷಯವನ್ನು ಉಳಿಸುತ್ತದೆ. ಪುಟಗಳ ಪಟ್ಟಿಯಿಂದ ಅದನ್ನು ಗೋಚರಗೊಳಿಸಿ.",
+  "blog.pages.followingContent": "ಪುಟವು ಕೆಳಗೆ ಅಂತರ್ನಿರ್ಮಿತ ವಿಷಯದೊಂದಿಗೆ ಮುಂದುವರಿಯುತ್ತದೆ, ಅದನ್ನು ಇಲ್ಲಿ ಸಂಪಾದಿಸಲಾಗುವುದಿಲ್ಲ.",
   "blog.pages.resetTemplate": "ಟೆಂಪ್ಲೇಟ್‌ಗೆ ಮರುಹೊಂದಿಸಿ",
   "blog.pages.templates.title": "ಟೆಂಪ್ಲೇಟ್‌ನಿಂದ ಪ್ರಾರಂಭಿಸಿ",
   "blog.pages.templates.blank": "ಖಾಲಿ ಪುಟ",

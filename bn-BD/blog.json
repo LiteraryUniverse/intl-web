@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "হোমপেজ হিসেবে ব্যবহার করুন",
   "blog.pages.clearHomepage": "হোমপেজ হিসেবে ব্যবহার বন্ধ করুন",
   "blog.pages.publishHint": "এখানে “প্রকাশ” পৃষ্ঠার বিষয়বস্তু সংরক্ষণ করে। পৃষ্ঠা তালিকা থেকে এটি দৃশ্যমান করুন।",
+  "blog.pages.followingContent": "পৃষ্ঠাটি নিচে অন্তর্নির্মিত কন্টেন্ট দিয়ে চলতে থাকে যা এখানে সম্পাদনা করা যায় না।",
   "blog.pages.resetTemplate": "টেমপ্লেটে রিসেট করুন",
   "blog.pages.templates.title": "টেমপ্লেট থেকে শুরু করুন",
   "blog.pages.templates.blank": "খালি পৃষ্ঠা",

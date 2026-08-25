@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Ana sayfa olarak kullan",
   "blog.pages.clearHomepage": "Ana sayfa olarak kullanmayı bırak",
   "blog.pages.publishHint": "Buradaki “Yayınla” sayfa içeriğini kaydeder. Sayfayı sayfa listesinden görünür yapın.",
+  "blog.pages.followingContent": "Sayfa, burada düzenlenemeyen yerleşik içerikle aşağıda devam eder.",
   "blog.pages.resetTemplate": "Şablona sıfırla",
   "blog.pages.templates.title": "Bir şablonla başlayın",
   "blog.pages.templates.blank": "Boş sayfa",

@@ -163,6 +163,7 @@
   "blog.pages.setHomepage": "Gunakan sebagai beranda",
   "blog.pages.clearHomepage": "Berhenti menggunakan sebagai beranda",
   "blog.pages.publishHint": "“Terbitkan” di sini menyimpan konten halaman. Jadikan halaman terlihat dari daftar halaman.",
+  "blog.pages.followingContent": "Halaman berlanjut di bawah dengan konten bawaan yang tidak dapat disunting di sini.",
   "blog.pages.resetTemplate": "Atur ulang ke templat",
   "blog.pages.templates.title": "Mulai dari templat",
   "blog.pages.templates.blank": "Halaman kosong",
