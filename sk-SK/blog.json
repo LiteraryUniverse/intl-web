@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Malé",
   "blog.menus.logoSize.medium": "Stredné",
   "blog.menus.logoSize.large": "Veľké",
-  "blog.menus.logoSize.full": "Plná šírka"
+  "blog.menus.logoSize.full": "Plná šírka",
+  "blog.pages.import": "Importovať dizajnovú šablónu",
+  "blog.pages.import.hint": "Vyberte HTML súbor šablóny spolu s obrázkami, na ktoré odkazuje. Texty a obrázky zostanú po importe upraviteľné.",
+  "blog.pages.import.files": "Súbor šablóny + obrázky",
+  "blog.pages.import.applyPalette": "Použiť farby šablóny aj na vzhľad blogu",
+  "blog.pages.import.noHtml": "Vyberte jeden HTML súbor (plus jeho obrázky).",
+  "blog.pages.import.warnings": "Poznámky k importu",
+  "blog.pages.import.missingAssets": "Nedodané (obrázkové polia zostali prázdne): {names}",
+  "blog.pages.import.apply": "Importovať",
+  "blog.pages.import.replaceWarning": "Import nahradí aktuálne plátno. Vaše upravené texty zostanú tam, kde sa zhodujú kľúče polí šablóny."
 }

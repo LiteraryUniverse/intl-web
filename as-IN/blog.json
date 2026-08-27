@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "ডিজাইন টেমপ্লেট আমদানি কৰক",
+  "blog.pages.import.hint": "টেমপ্লেটৰ HTML ফাইল আৰু ই উল্লেখ কৰা ছবিসমূহ বাছনি কৰক। আমদানিৰ পিছতো লিখনী আৰু ছবি সম্পাদনযোগ্য থাকিব।",
+  "blog.pages.import.files": "টেমপ্লেট ফাইল + ছবি",
+  "blog.pages.import.applyPalette": "টেমপ্লেটৰ ৰংসমূহ ব্লগ থীমতো প্ৰয়োগ কৰক",
+  "blog.pages.import.noHtml": "এটা HTML ফাইল (আৰু ইয়াৰ ছবি) বাছনি কৰক।",
+  "blog.pages.import.warnings": "আমদানিৰ টোকা",
+  "blog.pages.import.missingAssets": "যোগান ধৰা হোৱা নাই (ছবিৰ ক্ষেত্ৰ খালী ৰখা হৈছে): {names}",
+  "blog.pages.import.apply": "আমদানি",
+  "blog.pages.import.replaceWarning": "আমদানিয়ে বৰ্তমানৰ কেনভাছ সলনি কৰিব। টেমপ্লেটৰ ক্ষেত্ৰ কী মিলা ঠাইত আপোনাৰ সম্পাদিত লিখনী সংৰক্ষিত থাকিব।"
 }

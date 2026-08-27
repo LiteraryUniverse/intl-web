@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "डिजाइन टेम्प्लेट आयात गर्नुहोस्",
+  "blog.pages.import.hint": "टेम्प्लेटको HTML फाइल र यसले सन्दर्भ गर्ने छविहरू छान्नुहोस्। आयातपछि पनि पाठ र छविहरू सम्पादनयोग्य रहन्छन्।",
+  "blog.pages.import.files": "टेम्प्लेट फाइल + छविहरू",
+  "blog.pages.import.applyPalette": "टेम्प्लेटका रंगहरू ब्लग थिममा पनि लागू गर्नुहोस्",
+  "blog.pages.import.noHtml": "एउटा HTML फाइल (र यसका छविहरू) छान्नुहोस्।",
+  "blog.pages.import.warnings": "आयात टिप्पणीहरू",
+  "blog.pages.import.missingAssets": "उपलब्ध गराइएको छैन (छवि फिल्डहरू खाली छोडिए): {names}",
+  "blog.pages.import.apply": "आयात गर्नुहोस्",
+  "blog.pages.import.replaceWarning": "आयातले हालको क्यानभास प्रतिस्थापन गर्छ। टेम्प्लेटका फिल्ड कुञ्जीहरू मेल खाने ठाउँमा तपाईंले सम्पादन गरेका पाठहरू सुरक्षित रहन्छन्।"
 }

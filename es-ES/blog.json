@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Importar plantilla de diseño",
+  "blog.pages.import.hint": "Selecciona el archivo HTML de la plantilla junto con las imágenes a las que hace referencia. Los textos e imágenes seguirán siendo editables tras la importación.",
+  "blog.pages.import.files": "Archivo de plantilla + imágenes",
+  "blog.pages.import.applyPalette": "Aplicar también los colores de la plantilla al tema del blog",
+  "blog.pages.import.noHtml": "Selecciona un archivo HTML (más sus imágenes).",
+  "blog.pages.import.warnings": "Notas de importación",
+  "blog.pages.import.missingAssets": "No proporcionados (campos de imagen vacíos): {names}",
+  "blog.pages.import.apply": "Importar",
+  "blog.pages.import.replaceWarning": "La importación sustituye el lienzo actual. Tus textos editados se conservan donde coinciden las claves de campo de la plantilla."
 }

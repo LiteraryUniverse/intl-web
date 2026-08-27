@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "匯入設計範本",
+  "blog.pages.import.hint": "請選擇範本的 HTML 檔案以及其參照的圖片。匯入後文字與圖片仍可編輯。",
+  "blog.pages.import.files": "範本檔案 + 圖片",
+  "blog.pages.import.applyPalette": "同時將範本配色套用至部落格主題",
+  "blog.pages.import.noHtml": "請選擇一個 HTML 檔案（及其圖片）。",
+  "blog.pages.import.warnings": "匯入注意事項",
+  "blog.pages.import.missingAssets": "未提供（圖片欄位留空）：{names}",
+  "blog.pages.import.apply": "匯入",
+  "blog.pages.import.replaceWarning": "匯入會取代目前的畫布。範本欄位鍵相符處會保留您編輯過的文字。"
 }

@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "ਡਿਜ਼ਾਈਨ ਟੈਂਪਲੇਟ ਆਯਾਤ ਕਰੋ",
+  "blog.pages.import.hint": "ਟੈਂਪਲੇਟ ਦੀ HTML ਫ਼ਾਈਲ ਅਤੇ ਇਸ ਵੱਲੋਂ ਹਵਾਲਾ ਦਿੱਤੀਆਂ ਤਸਵੀਰਾਂ ਚੁਣੋ। ਆਯਾਤ ਤੋਂ ਬਾਅਦ ਵੀ ਲਿਖਤ ਅਤੇ ਤਸਵੀਰਾਂ ਸੋਧਣਯੋਗ ਰਹਿੰਦੀਆਂ ਹਨ।",
+  "blog.pages.import.files": "ਟੈਂਪਲੇਟ ਫ਼ਾਈਲ + ਤਸਵੀਰਾਂ",
+  "blog.pages.import.applyPalette": "ਟੈਂਪਲੇਟ ਦੇ ਰੰਗ ਬਲੌਗ ਥੀਮ 'ਤੇ ਵੀ ਲਾਗੂ ਕਰੋ",
+  "blog.pages.import.noHtml": "ਇੱਕ HTML ਫ਼ਾਈਲ (ਅਤੇ ਇਸ ਦੀਆਂ ਤਸਵੀਰਾਂ) ਚੁਣੋ।",
+  "blog.pages.import.warnings": "ਆਯਾਤ ਨੋਟ",
+  "blog.pages.import.missingAssets": "ਮੁਹੱਈਆ ਨਹੀਂ ਕੀਤੇ (ਤਸਵੀਰ ਖੇਤਰ ਖਾਲੀ ਛੱਡੇ): {names}",
+  "blog.pages.import.apply": "ਆਯਾਤ ਕਰੋ",
+  "blog.pages.import.replaceWarning": "ਆਯਾਤ ਮੌਜੂਦਾ ਕੈਨਵਸ ਨੂੰ ਬਦਲ ਦੇਵੇਗਾ। ਜਿੱਥੇ ਟੈਂਪਲੇਟ ਦੀਆਂ ਖੇਤਰ ਕੁੰਜੀਆਂ ਮੇਲ ਖਾਂਦੀਆਂ ਹਨ, ਉੱਥੇ ਤੁਹਾਡੀਆਂ ਸੋਧੀਆਂ ਲਿਖਤਾਂ ਸੁਰੱਖਿਅਤ ਰਹਿੰਦੀਆਂ ਹਨ।"
 }

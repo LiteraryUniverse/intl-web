@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Tuo suunnittelumalli",
+  "blog.pages.import.hint": "Valitse mallin HTML-tiedosto sekä siihen viittaavat kuvat. Tekstit ja kuvat pysyvät muokattavina tuonnin jälkeen.",
+  "blog.pages.import.files": "Mallitiedosto + kuvat",
+  "blog.pages.import.applyPalette": "Käytä mallin värejä myös blogin teemaan",
+  "blog.pages.import.noHtml": "Valitse yksi HTML-tiedosto (ja sen kuvat).",
+  "blog.pages.import.warnings": "Tuonnin huomautukset",
+  "blog.pages.import.missingAssets": "Ei toimitettu (kuvakentät jätetty tyhjiksi): {names}",
+  "blog.pages.import.apply": "Tuo",
+  "blog.pages.import.replaceWarning": "Tuonti korvaa nykyisen kankaan. Muokatut tekstisi säilyvät siellä, missä mallin kenttäavaimet täsmäävät."
 }

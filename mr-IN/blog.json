@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "डिझाइन टेम्पलेट आयात करा",
+  "blog.pages.import.hint": "टेम्पलेटची HTML फाइल आणि ती संदर्भ देत असलेल्या प्रतिमा निवडा. आयातीनंतरही मजकूर आणि प्रतिमा संपादनयोग्य राहतात.",
+  "blog.pages.import.files": "टेम्पलेट फाइल + प्रतिमा",
+  "blog.pages.import.applyPalette": "टेम्पलेटचे रंग ब्लॉग थीमलाही लागू करा",
+  "blog.pages.import.noHtml": "एक HTML फाइल (आणि तिच्या प्रतिमा) निवडा.",
+  "blog.pages.import.warnings": "आयात नोंदी",
+  "blog.pages.import.missingAssets": "पुरवलेले नाही (प्रतिमा फील्ड रिकामे ठेवले): {names}",
+  "blog.pages.import.apply": "आयात करा",
+  "blog.pages.import.replaceWarning": "आयात सध्याचा कॅनव्हास बदलेल. टेम्पलेटच्या फील्ड की जुळतात तिथे तुमचे संपादित मजकूर जपले जातात."
 }

@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "I-import ang design template",
+  "blog.pages.import.hint": "Piliin ang HTML file ng template kasama ang mga larawang tinutukoy nito. Mananatiling nae-edit ang mga teksto at larawan pagkatapos ng import.",
+  "blog.pages.import.files": "Template file + mga larawan",
+  "blog.pages.import.applyPalette": "Ilapat din ang mga kulay ng template sa tema ng blog",
+  "blog.pages.import.noHtml": "Pumili ng isang HTML file (kasama ang mga larawan nito).",
+  "blog.pages.import.warnings": "Mga tala sa import",
+  "blog.pages.import.missingAssets": "Hindi ibinigay (iniwang blangko ang mga field ng larawan): {names}",
+  "blog.pages.import.apply": "I-import",
+  "blog.pages.import.replaceWarning": "Papalitan ng import ang kasalukuyang canvas. Mananatili ang iyong mga na-edit na teksto kung saan tumutugma ang mga field key ng template."
 }

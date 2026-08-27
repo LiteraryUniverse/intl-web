@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Import design template",
+  "blog.pages.import.hint": "Select the template HTML file, together with the images it references. Texts and pictures stay editable after import.",
+  "blog.pages.import.files": "Template file + images",
+  "blog.pages.import.applyPalette": "Also apply the template's colours to the blog theme",
+  "blog.pages.import.noHtml": "Select one HTML file (plus its images).",
+  "blog.pages.import.warnings": "Import notes",
+  "blog.pages.import.missingAssets": "Not provided (image fields left empty): {names}",
+  "blog.pages.import.apply": "Import",
+  "blog.pages.import.replaceWarning": "Importing replaces the current canvas. Your edited texts are kept where the template's field keys match."
 }

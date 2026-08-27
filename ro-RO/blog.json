@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Importă șablonul de design",
+  "blog.pages.import.hint": "Selectați fișierul HTML al șablonului împreună cu imaginile la care face referire. Textele și imaginile rămân editabile după import.",
+  "blog.pages.import.files": "Fișier șablon + imagini",
+  "blog.pages.import.applyPalette": "Aplică și culorile șablonului temei blogului",
+  "blog.pages.import.noHtml": "Selectați un fișier HTML (plus imaginile sale).",
+  "blog.pages.import.warnings": "Note de import",
+  "blog.pages.import.missingAssets": "Nefurnizate (câmpurile de imagine lăsate goale): {names}",
+  "blog.pages.import.apply": "Importă",
+  "blog.pages.import.replaceWarning": "Importul înlocuiește pânza curentă. Textele editate se păstrează acolo unde cheile câmpurilor șablonului se potrivesc."
 }

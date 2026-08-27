@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Importér designskabelon",
+  "blog.pages.import.hint": "Vælg skabelonens HTML-fil sammen med de billeder, den henviser til. Tekster og billeder kan stadig redigeres efter import.",
+  "blog.pages.import.files": "Skabelonfil + billeder",
+  "blog.pages.import.applyPalette": "Anvend også skabelonens farver på bloggens tema",
+  "blog.pages.import.noHtml": "Vælg én HTML-fil (plus dens billeder).",
+  "blog.pages.import.warnings": "Importnoter",
+  "blog.pages.import.missingAssets": "Ikke leveret (billedfelter efterladt tomme): {names}",
+  "blog.pages.import.apply": "Importér",
+  "blog.pages.import.replaceWarning": "Import erstatter det nuværende lærred. Dine redigerede tekster bevares, hvor skabelonens feltnøgler matcher."
 }

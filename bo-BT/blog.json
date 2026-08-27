@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "འཆར་འགོད་དཔེ་གཞི་ནང་འདྲེན།",
+  "blog.pages.import.hint": "དཔེ་གཞིའི་ HTML ཡིག་ཆ་དང་དེས་གསལ་བཤད་བྱེད་པའི་པར་རིས་རྣམས་འདེམས་རོགས། ནང་འདྲེན་རྗེས་སུའང་ཡི་གེ་དང་པར་རིས་རྣམས་བཟོ་བཅོས་བྱེད་ཐུབ།",
+  "blog.pages.import.files": "དཔེ་གཞིའི་ཡིག་ཆ་ + པར་རིས།",
+  "blog.pages.import.applyPalette": "དཔེ་གཞིའི་ཚོན་མདོག་རྣམས་ཟིན་བྲིས་ཀྱི་བརྗོད་གཞིར་ཡང་བཀོལ་སྤྱོད་བྱེད།",
+  "blog.pages.import.noHtml": "HTML ཡིག་ཆ་གཅིག་ (དང་དེའི་པར་རིས་) འདེམས་རོགས།",
+  "blog.pages.import.warnings": "ནང་འདྲེན་གྱི་མཆན་བུ།",
+  "blog.pages.import.missingAssets": "མཁོ་སྤྲོད་མ་བྱས་ (པར་རིས་ཀྱི་ཞིང་སྟོང་པར་བཞག་)： {names}",
+  "blog.pages.import.apply": "ནང་འདྲེན།",
+  "blog.pages.import.replaceWarning": "ནང་འདྲེན་གྱིས་ད་ལྟའི་རས་གཞི་ཚབ་བྱེད། དཔེ་གཞིའི་ཞིང་གི་ལྡེ་མིག་མཐུན་ས་རུ་ཁྱེད་ཀྱིས་བཟོ་བཅོས་བྱས་པའི་ཡི་གེ་རྣམས་ཉར་ཚགས་བྱེད།"
 }

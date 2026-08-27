@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Iompórtáil teimpléad deartha",
+  "blog.pages.import.hint": "Roghnaigh comhad HTML an teimpléid mar aon leis na híomhánna a dtagraíonn sé dóibh. Fanann téacsanna agus íomhánna in-eagarthóireachta tar éis na hiompórtála.",
+  "blog.pages.import.files": "Comhad teimpléid + íomhánna",
+  "blog.pages.import.applyPalette": "Cuir dathanna an teimpléid i bhfeidhm ar théama an bhlag freisin",
+  "blog.pages.import.noHtml": "Roghnaigh comhad HTML amháin (agus a íomhánna).",
+  "blog.pages.import.warnings": "Nótaí iompórtála",
+  "blog.pages.import.missingAssets": "Níor soláthraíodh (réimsí íomhá fágtha folamh): {names}",
+  "blog.pages.import.apply": "Iompórtáil",
+  "blog.pages.import.replaceWarning": "Cuireann an iompórtáil an chanbhás reatha in ionad. Coimeádtar do théacsanna curtha in eagar nuair a mheaitseálann eochracha réimsí an teimpléid."
 }

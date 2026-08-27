@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Importera designmall",
+  "blog.pages.import.hint": "Välj mallens HTML-fil tillsammans med bilderna den refererar till. Texter och bilder förblir redigerbara efter importen.",
+  "blog.pages.import.files": "Mallfil + bilder",
+  "blog.pages.import.applyPalette": "Tillämpa även mallens färger på bloggens tema",
+  "blog.pages.import.noHtml": "Välj en HTML-fil (plus dess bilder).",
+  "blog.pages.import.warnings": "Importanteckningar",
+  "blog.pages.import.missingAssets": "Saknas (bildfält lämnade tomma): {names}",
+  "blog.pages.import.apply": "Importera",
+  "blog.pages.import.replaceWarning": "Importen ersätter nuvarande arbetsyta. Dina redigerade texter behålls där mallens fältnycklar matchar."
 }

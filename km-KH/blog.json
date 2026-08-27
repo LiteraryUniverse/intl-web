@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "នាំចូលគំរូរចនា",
+  "blog.pages.import.hint": "ជ្រើសរើសឯកសារ HTML របស់គំរូ រួមជាមួយរូបភាពដែលវាយោង។ អត្ថបទ និងរូបភាពនៅតែអាចកែសម្រួលបានបន្ទាប់ពីនាំចូល។",
+  "blog.pages.import.files": "ឯកសារគំរូ + រូបភាព",
+  "blog.pages.import.applyPalette": "អនុវត្តពណ៌របស់គំរូទៅលើរូបរាងប្លុកផងដែរ",
+  "blog.pages.import.noHtml": "ជ្រើសរើសឯកសារ HTML មួយ (និងរូបភាពរបស់វា)។",
+  "blog.pages.import.warnings": "កំណត់ចំណាំនាំចូល",
+  "blog.pages.import.missingAssets": "មិនបានផ្តល់ (វាលរូបភាពទុកទទេ)៖ {names}",
+  "blog.pages.import.apply": "នាំចូល",
+  "blog.pages.import.replaceWarning": "ការនាំចូលនឹងជំនួសផ្ទាំងបច្ចុប្បន្ន។ អត្ថបទដែលអ្នកបានកែសម្រួលនឹងត្រូវរក្សាទុកនៅកន្លែងដែលសោវាលរបស់គំរូត្រូវគ្នា។"
 }

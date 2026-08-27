@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Impordi kujundusmall",
+  "blog.pages.import.hint": "Vali malli HTML-fail koos piltidega, millele see viitab. Tekstid ja pildid jäävad pärast importi muudetavaks.",
+  "blog.pages.import.files": "Mallifail + pildid",
+  "blog.pages.import.applyPalette": "Rakenda malli värvid ka blogi teemale",
+  "blog.pages.import.noHtml": "Vali üks HTML-fail (ja selle pildid).",
+  "blog.pages.import.warnings": "Impordi märkused",
+  "blog.pages.import.missingAssets": "Ei esitatud (pildiväljad jäeti tühjaks): {names}",
+  "blog.pages.import.apply": "Impordi",
+  "blog.pages.import.replaceWarning": "Import asendab praeguse lõuendi. Sinu muudetud tekstid säilivad seal, kus malli väljavõtmed ühtivad."
 }

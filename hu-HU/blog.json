@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Tervsablon importálása",
+  "blog.pages.import.hint": "Válassza ki a sablon HTML-fájlját a hivatkozott képekkel együtt. A szövegek és képek az importálás után is szerkeszthetők maradnak.",
+  "blog.pages.import.files": "Sablonfájl + képek",
+  "blog.pages.import.applyPalette": "A sablon színeit a blog témájára is alkalmazza",
+  "blog.pages.import.noHtml": "Válasszon egy HTML-fájlt (és a képeit).",
+  "blog.pages.import.warnings": "Importálási megjegyzések",
+  "blog.pages.import.missingAssets": "Nem lett megadva (a képmezők üresen maradtak): {names}",
+  "blog.pages.import.apply": "Importálás",
+  "blog.pages.import.replaceWarning": "Az importálás lecseréli a jelenlegi vásznat. A szerkesztett szövegek megmaradnak ott, ahol a sablon mezőkulcsai egyeznek."
 }

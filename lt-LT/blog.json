@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Importuoti dizaino šabloną",
+  "blog.pages.import.hint": "Pasirinkite šablono HTML failą kartu su jame nurodytais paveikslėliais. Tekstai ir paveikslėliai po importo lieka redaguojami.",
+  "blog.pages.import.files": "Šablono failas + paveikslėliai",
+  "blog.pages.import.applyPalette": "Šablono spalvas pritaikyti ir tinklaraščio temai",
+  "blog.pages.import.noHtml": "Pasirinkite vieną HTML failą (ir jo paveikslėlius).",
+  "blog.pages.import.warnings": "Importo pastabos",
+  "blog.pages.import.missingAssets": "Nepateikta (paveikslėlių laukai palikti tušti): {names}",
+  "blog.pages.import.apply": "Importuoti",
+  "blog.pages.import.replaceWarning": "Importas pakeis dabartinę drobę. Jūsų redaguoti tekstai išliks ten, kur sutampa šablono laukų raktai."
 }

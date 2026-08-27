@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Импортировать дизайн-шаблон",
+  "blog.pages.import.hint": "Выберите HTML-файл шаблона вместе с изображениями, на которые он ссылается. Тексты и изображения останутся редактируемыми после импорта.",
+  "blog.pages.import.files": "Файл шаблона + изображения",
+  "blog.pages.import.applyPalette": "Также применить цвета шаблона к теме блога",
+  "blog.pages.import.noHtml": "Выберите один HTML-файл (плюс его изображения).",
+  "blog.pages.import.warnings": "Примечания к импорту",
+  "blog.pages.import.missingAssets": "Не предоставлены (поля изображений оставлены пустыми): {names}",
+  "blog.pages.import.apply": "Импортировать",
+  "blog.pages.import.replaceWarning": "Импорт заменит текущий холст. Ваши отредактированные тексты сохранятся там, где ключи полей шаблона совпадают."
 }

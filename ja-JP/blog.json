@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "デザインテンプレートをインポート",
+  "blog.pages.import.hint": "テンプレートのHTMLファイルと、参照している画像を選択してください。テキストと画像はインポート後も編集できます。",
+  "blog.pages.import.files": "テンプレートファイル + 画像",
+  "blog.pages.import.applyPalette": "テンプレートの配色をブログテーマにも適用する",
+  "blog.pages.import.noHtml": "HTMLファイルを1つ（と画像）選択してください。",
+  "blog.pages.import.warnings": "インポートの注意",
+  "blog.pages.import.missingAssets": "未提供（画像フィールドは空のまま）: {names}",
+  "blog.pages.import.apply": "インポート",
+  "blog.pages.import.replaceWarning": "インポートすると現在のキャンバスが置き換わります。テンプレートのフィールドキーが一致する箇所では、編集済みのテキストが保持されます。"
 }

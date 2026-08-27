@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Importa modello di design",
+  "blog.pages.import.hint": "Seleziona il file HTML del modello insieme alle immagini a cui fa riferimento. Testi e immagini restano modificabili dopo l'importazione.",
+  "blog.pages.import.files": "File del modello + immagini",
+  "blog.pages.import.applyPalette": "Applica anche i colori del modello al tema del blog",
+  "blog.pages.import.noHtml": "Seleziona un file HTML (più le sue immagini).",
+  "blog.pages.import.warnings": "Note sull'importazione",
+  "blog.pages.import.missingAssets": "Non forniti (campi immagine lasciati vuoti): {names}",
+  "blog.pages.import.apply": "Importa",
+  "blog.pages.import.replaceWarning": "L'importazione sostituisce la tela attuale. I tuoi testi modificati vengono mantenuti dove le chiavi dei campi del modello corrispondono."
 }

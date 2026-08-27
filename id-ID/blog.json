@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Impor templat desain",
+  "blog.pages.import.hint": "Pilih berkas HTML templat beserta gambar yang dirujuknya. Teks dan gambar tetap dapat diedit setelah diimpor.",
+  "blog.pages.import.files": "Berkas templat + gambar",
+  "blog.pages.import.applyPalette": "Terapkan juga warna templat ke tema blog",
+  "blog.pages.import.noHtml": "Pilih satu berkas HTML (beserta gambarnya).",
+  "blog.pages.import.warnings": "Catatan impor",
+  "blog.pages.import.missingAssets": "Tidak disediakan (kolom gambar dibiarkan kosong): {names}",
+  "blog.pages.import.apply": "Impor",
+  "blog.pages.import.replaceWarning": "Impor akan mengganti kanvas saat ini. Teks yang Anda edit dipertahankan jika kunci kolom templat cocok."
 }

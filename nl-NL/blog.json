@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Ontwerpsjabloon importeren",
+  "blog.pages.import.hint": "Selecteer het HTML-bestand van de sjabloon samen met de afbeeldingen waarnaar het verwijst. Teksten en afbeeldingen blijven na het importeren bewerkbaar.",
+  "blog.pages.import.files": "Sjabloonbestand + afbeeldingen",
+  "blog.pages.import.applyPalette": "Kleuren van de sjabloon ook toepassen op het blogthema",
+  "blog.pages.import.noHtml": "Selecteer één HTML-bestand (plus de afbeeldingen).",
+  "blog.pages.import.warnings": "Opmerkingen bij import",
+  "blog.pages.import.missingAssets": "Niet aangeleverd (afbeeldingsvelden leeg gelaten): {names}",
+  "blog.pages.import.apply": "Importeren",
+  "blog.pages.import.replaceWarning": "Importeren vervangt het huidige canvas. Je bewerkte teksten blijven behouden waar de veldsleutels van de sjabloon overeenkomen."
 }

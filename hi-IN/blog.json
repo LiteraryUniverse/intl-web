@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "डिज़ाइन टेम्पलेट आयात करें",
+  "blog.pages.import.hint": "टेम्पलेट की HTML फ़ाइल को उन छवियों के साथ चुनें जिनका वह संदर्भ देती है। आयात के बाद भी टेक्स्ट और छवियाँ संपादन योग्य रहती हैं।",
+  "blog.pages.import.files": "टेम्पलेट फ़ाइल + छवियाँ",
+  "blog.pages.import.applyPalette": "टेम्पलेट के रंग ब्लॉग थीम पर भी लागू करें",
+  "blog.pages.import.noHtml": "एक HTML फ़ाइल (और उसकी छवियाँ) चुनें।",
+  "blog.pages.import.warnings": "आयात नोट",
+  "blog.pages.import.missingAssets": "उपलब्ध नहीं कराए गए (छवि फ़ील्ड खाली छोड़े गए): {names}",
+  "blog.pages.import.apply": "आयात करें",
+  "blog.pages.import.replaceWarning": "आयात वर्तमान कैनवास को बदल देगा। जहाँ टेम्पलेट की फ़ील्ड कुंजियाँ मेल खाती हैं, वहाँ आपके संपादित टेक्स्ट सुरक्षित रहते हैं।"
 }

@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "Impor templat desain",
+  "blog.pages.import.hint": "Pilih berkas HTML templat bebarengan karo gambar sing dirujuk. Teks lan gambar tetep bisa disunting sawise diimpor.",
+  "blog.pages.import.files": "Berkas templat + gambar",
+  "blog.pages.import.applyPalette": "Terapake uga warna templat menyang tema blog",
+  "blog.pages.import.noHtml": "Pilih siji berkas HTML (lan gambaré).",
+  "blog.pages.import.warnings": "Cathetan impor",
+  "blog.pages.import.missingAssets": "Ora disedhiyakake (kolom gambar ditinggal kosong): {names}",
+  "blog.pages.import.apply": "Impor",
+  "blog.pages.import.replaceWarning": "Impor bakal ngganti kanvas saiki. Teks sing wis kosunting tetep disimpen ing panggonan kunci kolom templat cocog."
 }

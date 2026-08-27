@@ -350,5 +350,14 @@
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width"
+  "blog.menus.logoSize.full": "Full width",
+  "blog.pages.import": "ייבוא תבנית עיצוב",
+  "blog.pages.import.hint": "בחרו את קובץ ה-HTML של התבנית יחד עם התמונות שהוא מפנה אליהן. הטקסטים והתמונות יישארו ניתנים לעריכה לאחר הייבוא.",
+  "blog.pages.import.files": "קובץ תבנית + תמונות",
+  "blog.pages.import.applyPalette": "להחיל את צבעי התבנית גם על ערכת הנושא של הבלוג",
+  "blog.pages.import.noHtml": "בחרו קובץ HTML אחד (בתוספת התמונות שלו).",
+  "blog.pages.import.warnings": "הערות ייבוא",
+  "blog.pages.import.missingAssets": "לא סופקו (שדות התמונה נותרו ריקים): {names}",
+  "blog.pages.import.apply": "ייבוא",
+  "blog.pages.import.replaceWarning": "הייבוא מחליף את הקנבס הנוכחי. הטקסטים שערכתם נשמרים במקומות שבהם מפתחות השדות של התבנית תואמים."
 }
