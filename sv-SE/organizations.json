@@ -173,5 +173,6 @@
   "org.carveOut.request": "Frigöra {language}?",
   "org.translators.intro": "Utse dina medlemmar att översätta ett licensierat språk. De får en inbjudan och bestämmer själva.",
   "org.translators.share": "Andel (max {budget}%)",
-  "org.translators.assign": "Utse översättare"
+  "org.translators.assign": "Utse översättare",
+  "org.establish": "Establish an organization"
 }

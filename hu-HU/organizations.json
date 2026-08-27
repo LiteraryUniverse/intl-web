@@ -173,5 +173,6 @@
   "org.carveOut.request": "Felszabadítod ezt a nyelvet: {language}?",
   "org.translators.intro": "Jelölje ki tagjait egy licencelt nyelv fordítására. Meghívást kapnak, és maguk döntenek.",
   "org.translators.share": "Részesedés (legfeljebb {budget}%)",
-  "org.translators.assign": "Fordító kijelölése"
+  "org.translators.assign": "Fordító kijelölése",
+  "org.establish": "Establish an organization"
 }

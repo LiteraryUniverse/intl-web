@@ -173,5 +173,6 @@
   "org.carveOut.request": "Απελευθέρωση της γλώσσας {language};",
   "org.translators.intro": "Ορίστε μέλη σας για τη μετάφραση μιας αδειοδοτημένης γλώσσας. Λαμβάνουν πρόσκληση και αποφασίζουν οι ίδιοι.",
   "org.translators.share": "Μερίδιο (έως {budget}%)",
-  "org.translators.assign": "Ορισμός μεταφραστή"
+  "org.translators.assign": "Ορισμός μεταφραστή",
+  "org.establish": "Establish an organization"
 }

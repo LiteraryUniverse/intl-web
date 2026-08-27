@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} मुक्त कयल जाय?",
   "org.translators.intro": "लाइसेंस भेल भाषाक अनुवाद लेल अपन सदस्य सभकेँ नियुक्त करू। हुनका आमंत्रण भेटैत छनि आ ओ अपने निर्णय लैत छथि।",
   "org.translators.share": "हिस्सा (बेसी सँ बेसी {budget}%)",
-  "org.translators.assign": "अनुवादक नियुक्त करू"
+  "org.translators.assign": "अनुवादक नियुक्त करू",
+  "org.establish": "Establish an organization"
 }

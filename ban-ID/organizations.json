@@ -173,5 +173,6 @@
   "org.carveOut.request": "Lebang {language}?",
   "org.translators.intro": "Picayang anggota Ragané mangda nerjemahang basa sané kalisensiang. Ipun pacang nrima undangan tur mutusang padidi.",
   "org.translators.share": "Duman (paling akéh {budget}%)",
-  "org.translators.assign": "Picayang penerjemah"
+  "org.translators.assign": "Picayang penerjemah",
+  "org.establish": "Establish an organization"
 }

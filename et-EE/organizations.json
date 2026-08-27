@@ -173,5 +173,6 @@
   "org.carveOut.request": "Kas vabastada keel {language}?",
   "org.translators.intro": "Määra oma liikmed litsentsitud keelt tõlkima. Nad saavad kutse ja otsustavad ise.",
   "org.translators.share": "Osa (kuni {budget}%)",
-  "org.translators.assign": "Määra tõlkija"
+  "org.translators.assign": "Määra tõlkija",
+  "org.establish": "Establish an organization"
 }

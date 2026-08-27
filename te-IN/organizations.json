@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} భాషను విడుదల చేయాలా?",
   "org.translators.intro": "లైసెన్స్ పొందిన భాషను అనువదించడానికి మీ సభ్యులను నియమించండి. వారికి ఆహ్వానం అందుతుంది, నిర్ణయం వారే తీసుకుంటారు.",
   "org.translators.share": "వాటా (గరిష్ఠంగా {budget}%)",
-  "org.translators.assign": "అనువాదకుడిని నియమించండి"
+  "org.translators.assign": "అనువాదకుడిని నియమించండి",
+  "org.establish": "Establish an organization"
 }

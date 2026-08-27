@@ -173,5 +173,6 @@
   "org.carveOut.request": "هل تريد التنازل عن {language}؟",
   "org.translators.intro": "عيّن أعضاءك لترجمة لغة مرخّصة. يتلقون دعوة ويقرّرون بأنفسهم.",
   "org.translators.share": "الحصة (بحد أقصى {budget}%)",
-  "org.translators.assign": "تعيين مترجم"
+  "org.translators.assign": "تعيين مترجم",
+  "org.establish": "Establish an organization"
 }

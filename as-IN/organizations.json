@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} মুক্ত কৰিবনে?",
   "org.translators.intro": "লাইচেন্স লোৱা এটা ভাষা অনুবাদ কৰিবলৈ আপোনাৰ সদস্যসকলক নিযুক্তি দিয়ক। তেওঁলোকে এটা নিমন্ত্ৰণ পায় আৰু নিজে সিদ্ধান্ত লয়।",
   "org.translators.share": "অংশ (সৰ্বাধিক {budget}%)",
-  "org.translators.assign": "অনুবাদক নিযুক্তি দিয়ক"
+  "org.translators.assign": "অনুবাদক নিযুক্তি দিয়ক",
+  "org.establish": "Establish an organization"
 }

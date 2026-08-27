@@ -173,5 +173,6 @@
   "org.carveOut.request": "Frigiv {language}?",
   "org.translators.intro": "Udpeg dine medlemmer til at oversætte et licenseret sprog. De modtager en invitation og beslutter selv.",
   "org.translators.share": "Andel (maks. {budget}%)",
-  "org.translators.assign": "Udpeg oversætter"
+  "org.translators.assign": "Udpeg oversætter",
+  "org.establish": "Establish an organization"
 }

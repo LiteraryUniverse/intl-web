@@ -173,5 +173,6 @@
   "org.carveOut.request": "Ĉu liberigi la lingvon {language}?",
   "org.translators.intro": "Asignu viajn membrojn por traduki licencitan lingvon. Ili ricevas inviton kaj mem decidas.",
   "org.translators.share": "Parto (maks. {budget}%)",
-  "org.translators.assign": "Asigni tradukiston"
+  "org.translators.assign": "Asigni tradukiston",
+  "org.establish": "Establish an organization"
 }

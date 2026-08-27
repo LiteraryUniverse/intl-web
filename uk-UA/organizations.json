@@ -173,5 +173,6 @@
   "org.carveOut.request": "Звільнити мову {language}?",
   "org.translators.intro": "Призначте учасників для перекладу ліцензованої мови. Вони отримають запрошення й вирішать самі.",
   "org.translators.share": "Частка (не більше {budget}%)",
-  "org.translators.assign": "Призначити перекладача"
+  "org.translators.assign": "Призначити перекладача",
+  "org.establish": "Establish an organization"
 }

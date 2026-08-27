@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} — ಈ ಭಾಷೆಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆ?",
   "org.translators.intro": "ಪರವಾನಗಿ ಪಡೆದ ಭಾಷೆಯನ್ನು ಭಾಷಾಂತರಿಸಲು ನಿಮ್ಮ ಸದಸ್ಯರನ್ನು ನಿಯೋಜಿಸಿ. ಅವರಿಗೆ ಆಹ್ವಾನ ಸಿಗುತ್ತದೆ ಮತ್ತು ಅವರೇ ನಿರ್ಧರಿಸುತ್ತಾರೆ.",
   "org.translators.share": "ಪಾಲು (ಗರಿಷ್ಠ {budget}%)",
-  "org.translators.assign": "ಭಾಷಾಂತರಿಯನ್ನು ನಿಯೋಜಿಸಿ"
+  "org.translators.assign": "ಭಾಷಾಂತರಿಯನ್ನು ನಿಯೋಜಿಸಿ",
+  "org.establish": "Establish an organization"
 }

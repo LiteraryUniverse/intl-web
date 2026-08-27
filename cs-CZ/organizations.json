@@ -173,5 +173,6 @@
   "org.carveOut.request": "Uvolnit jazyk {language}?",
   "org.translators.intro": "Pověřte své členy překladem licencovaného jazyka. Dostanou pozvánku a rozhodnou se sami.",
   "org.translators.share": "Podíl (max. {budget} %)",
-  "org.translators.assign": "Pověřit překladatele"
+  "org.translators.assign": "Pověřit překladatele",
+  "org.establish": "Establish an organization"
 }

@@ -173,5 +173,6 @@
   "org.carveOut.request": "Bebasake {language}?",
   "org.translators.intro": "Tunjuk anggota sampeyan kanggo nerjemahake basa sing dilisensi. Dheweke bakal nampa undhangan lan mutusake dhewe.",
   "org.translators.share": "Bagean (paling akeh {budget}%)",
-  "org.translators.assign": "Tunjuk penerjemah"
+  "org.translators.assign": "Tunjuk penerjemah",
+  "org.establish": "Establish an organization"
 }

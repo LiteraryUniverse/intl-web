@@ -173,5 +173,6 @@
   "org.carveOut.request": "Liberare {language}?",
   "org.translators.intro": "Incarica i tuoi membri di tradurre una lingua concessa in licenza. Ricevono un invito e decidono da soli.",
   "org.translators.share": "Quota (max {budget}%)",
-  "org.translators.assign": "Incarica traduttore"
+  "org.translators.assign": "Incarica traduttore",
+  "org.establish": "Establish an organization"
 }

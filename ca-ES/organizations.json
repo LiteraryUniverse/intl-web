@@ -173,5 +173,6 @@
   "org.carveOut.request": "Alliberar {language}?",
   "org.translators.intro": "Assigna els teus membres perquè tradueixin una llengua llicenciada. Reben una invitació i decideixen ells mateixos.",
   "org.translators.share": "Part (màx. {budget}%)",
-  "org.translators.assign": "Assigna un traductor"
+  "org.translators.assign": "Assigna un traductor",
+  "org.establish": "Establish an organization"
 }

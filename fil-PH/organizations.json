@@ -173,5 +173,6 @@
   "org.carveOut.request": "Palayain ang {language}?",
   "org.translators.intro": "Italaga ang iyong mga miyembro upang isalin ang isang lisensyadong wika. Makakatanggap sila ng imbitasyon at sila mismo ang magpapasya.",
   "org.translators.share": "Bahagi (hanggang {budget}%)",
-  "org.translators.assign": "Italaga ang tagasalin"
+  "org.translators.assign": "Italaga ang tagasalin",
+  "org.establish": "Establish an organization"
 }

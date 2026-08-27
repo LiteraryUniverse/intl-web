@@ -173,5 +173,6 @@
   "org.carveOut.request": "Zwolnić język {language}?",
   "org.translators.intro": "Wyznacz swoich członków do tłumaczenia licencjonowanego języka. Otrzymują zaproszenie i sami decydują.",
   "org.translators.share": "Udział (maks. {budget}%)",
-  "org.translators.assign": "Wyznacz tłumacza"
+  "org.translators.assign": "Wyznacz tłumacza",
+  "org.establish": "Establish an organization"
 }

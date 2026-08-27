@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} ਛੱਡ ਦੇਈਏ?",
   "org.translators.intro": "ਲਾਇਸੰਸਸ਼ੁਦਾ ਭਾਸ਼ਾ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਆਪਣੇ ਮੈਂਬਰਾਂ ਨੂੰ ਨਿਯੁਕਤ ਕਰੋ। ਉਨ੍ਹਾਂ ਨੂੰ ਨਿਮੰਤਰਣ ਮਿਲਦਾ ਹੈ ਅਤੇ ਉਹ ਆਪ ਫ਼ੈਸਲਾ ਕਰਦੇ ਹਨ।",
   "org.translators.share": "ਹਿੱਸਾ (ਵੱਧ ਤੋਂ ਵੱਧ {budget}%)",
-  "org.translators.assign": "ਅਨੁਵਾਦਕ ਨਿਯੁਕਤ ਕਰੋ"
+  "org.translators.assign": "ਅਨੁਵਾਦਕ ਨਿਯੁਕਤ ਕਰੋ",
+  "org.establish": "Establish an organization"
 }

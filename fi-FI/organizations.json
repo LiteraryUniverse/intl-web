@@ -173,5 +173,6 @@
   "org.carveOut.request": "Vapautetaanko kieli {language}?",
   "org.translators.intro": "Nimeä jäsenesi kääntämään lisensoitu kieli. He saavat kutsun ja päättävät itse.",
   "org.translators.share": "Osuus (enintään {budget} %)",
-  "org.translators.assign": "Nimeä kääntäjä"
+  "org.translators.assign": "Nimeä kääntäjä",
+  "org.establish": "Establish an organization"
 }

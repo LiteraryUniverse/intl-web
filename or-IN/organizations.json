@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} ମୁକ୍ତ କରିବେ?",
   "org.translators.intro": "ଲାଇସେନ୍ସପ୍ରାପ୍ତ ଭାଷା ଅନୁବାଦ କରିବା ପାଇଁ ଆପଣଙ୍କ ସଦସ୍ୟମାନଙ୍କୁ ନିଯୁକ୍ତ କରନ୍ତୁ। ସେମାନେ ଏକ ଆମନ୍ତ୍ରଣ ପାଆନ୍ତି ଏବଂ ନିଜେ ନିଷ୍ପତ୍ତି ନିଅନ୍ତି।",
   "org.translators.share": "ଭାଗ (ସର୍ବାଧିକ {budget}%)",
-  "org.translators.assign": "ଅନୁବାଦକ ନିଯୁକ୍ତ କରନ୍ତୁ"
+  "org.translators.assign": "ଅନୁବାଦକ ନିଯୁକ୍ତ କରନ୍ତୁ",
+  "org.establish": "Establish an organization"
 }

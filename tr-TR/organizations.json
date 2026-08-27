@@ -173,5 +173,6 @@
   "org.carveOut.request": "Şu dil serbest bırakılsın mı: {language}?",
   "org.translators.intro": "Lisanslı bir dili çevirmek için üyelerinizi görevlendirin. Bir davet alırlar ve kararı kendileri verir.",
   "org.translators.share": "Pay (en fazla %{budget})",
-  "org.translators.assign": "Çevirmen görevlendir"
+  "org.translators.assign": "Çevirmen görevlendir",
+  "org.establish": "Establish an organization"
 }

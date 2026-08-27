@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} を解放しますか？",
   "org.translators.intro": "ライセンスを受けた言語の翻訳にメンバーを指名します。メンバーには招待が届き、本人が判断します。",
   "org.translators.share": "取り分 (最大 {budget}%)",
-  "org.translators.assign": "翻訳者を指名"
+  "org.translators.assign": "翻訳者を指名",
+  "org.establish": "Establish an organization"
 }

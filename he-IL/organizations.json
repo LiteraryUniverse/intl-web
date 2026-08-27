@@ -173,5 +173,6 @@
   "org.carveOut.request": "לשחרר את {language}?",
   "org.translators.intro": "הציבו את חברי הארגון לתרגום שפה מורשית. הם מקבלים הזמנה ומחליטים בעצמם.",
   "org.translators.share": "חלק (עד {budget}%)",
-  "org.translators.assign": "הצבת מתרגם"
+  "org.translators.assign": "הצבת מתרגם",
+  "org.establish": "Establish an organization"
 }

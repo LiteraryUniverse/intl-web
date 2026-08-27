@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} གློད་དམ།",
   "org.translators.intro": "ཆོག་མཆན་ཐོབ་པའི་སྐད་ཡིག་ཅིག་བསྒྱུར་བར་ཁྱེད་ཀྱི་ཚོགས་མི་རྣམས་བསྐོ་གཞག་བྱོས། ཁོང་ཚོར་མགྲོན་འབོད་ཅིག་འབྱོར་ཞིང་རང་ཉིད་ཀྱིས་ཐག་གཅོད་བྱེད།",
   "org.translators.share": "ཐོབ་ཆ (མཐར་ཐུག {budget}%)",
-  "org.translators.assign": "ཡིག་སྒྱུར་བ་བསྐོ་གཞག"
+  "org.translators.assign": "ཡིག་སྒྱུར་བ་བསྐོ་གཞག",
+  "org.establish": "Establish an organization"
 }

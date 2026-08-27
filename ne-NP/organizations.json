@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} मुक्त गर्ने?",
   "org.translators.intro": "इजाजतपत्र लिइएको भाषा अनुवाद गर्न आफ्ना सदस्यहरूलाई तोक्नुहोस्। उनीहरूले निमन्त्रणा पाउँछन् र आफैँ निर्णय गर्छन्।",
   "org.translators.share": "हिस्सा (बढीमा {budget}%)",
-  "org.translators.assign": "अनुवादक तोक्नुहोस्"
+  "org.translators.assign": "अनुवादक तोक्नुहोस्",
+  "org.establish": "Establish an organization"
 }

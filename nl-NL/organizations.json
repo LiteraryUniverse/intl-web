@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} vrijgeven?",
   "org.translators.intro": "Wijs je leden aan om een gelicentieerde taal te vertalen. Ze ontvangen een uitnodiging en beslissen zelf.",
   "org.translators.share": "Aandeel (max. {budget}%)",
-  "org.translators.assign": "Vertaler aanwijzen"
+  "org.translators.assign": "Vertaler aanwijzen",
+  "org.establish": "Establish an organization"
 }

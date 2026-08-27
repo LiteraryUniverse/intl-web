@@ -173,5 +173,6 @@
   "org.carveOut.request": "Nhượng lại {language}?",
   "org.translators.intro": "Chỉ định thành viên của bạn dịch một ngôn ngữ đã được cấp phép. Họ sẽ nhận lời mời và tự quyết định.",
   "org.translators.share": "Phần (tối đa {budget}%)",
-  "org.translators.assign": "Chỉ định dịch giả"
+  "org.translators.assign": "Chỉ định dịch giả",
+  "org.establish": "Establish an organization"
 }

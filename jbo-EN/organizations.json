@@ -173,5 +173,6 @@
   "org.carveOut.request": "xu zifre gau lo bangu po'u {language}",
   "org.translators.intro": ".i ko cuxna lo do cmima poi fanva lo se curmi bangu .i ra cpacu lo friti gi'e sezyjdice",
   "org.translators.share": "fatri (lo su'e {budget}%)",
-  "org.translators.assign": "cuxna lo fanva prenu"
+  "org.translators.assign": "cuxna lo fanva prenu",
+  "org.establish": "Establish an organization"
 }

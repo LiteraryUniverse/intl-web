@@ -173,5 +173,6 @@
   "org.carveOut.request": "Eliberezi {language}?",
   "org.translators.intro": "Desemnează-ți membrii pentru a traduce o limbă licențiată. Primesc o invitație și decid singuri.",
   "org.translators.share": "Cotă (max. {budget}%)",
-  "org.translators.assign": "Desemnează traducător"
+  "org.translators.assign": "Desemnează traducător",
+  "org.establish": "Establish an organization"
 }

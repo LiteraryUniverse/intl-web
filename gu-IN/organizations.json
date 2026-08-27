@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} મુક્ત કરીએ?",
   "org.translators.intro": "લાઇસન્સ મેળવેલી ભાષાનો અનુવાદ કરવા માટે તમારા સભ્યોને નીમો. તેમને આમંત્રણ મળે છે અને તેઓ પોતે નિર્ણય લે છે.",
   "org.translators.share": "હિસ્સો (વધુમાં વધુ {budget}%)",
-  "org.translators.assign": "અનુવાદક નીમો"
+  "org.translators.assign": "અનુવાદક નીમો",
+  "org.establish": "Establish an organization"
 }

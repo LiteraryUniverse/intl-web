@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} freigeben?",
   "org.translators.intro": "Beauftragen Sie Ihre Mitglieder mit der Übersetzung einer lizenzierten Sprache. Sie erhalten eine Einladung und entscheiden selbst.",
   "org.translators.share": "Anteil (max. {budget}%)",
-  "org.translators.assign": "Übersetzer beauftragen"
+  "org.translators.assign": "Übersetzer beauftragen",
+  "org.establish": "Establish an organization"
 }

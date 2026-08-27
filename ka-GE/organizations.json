@@ -173,5 +173,6 @@
   "org.carveOut.request": "გავათავისუფლოთ {language}?",
   "org.translators.intro": "დანიშნეთ თქვენი წევრები ლიცენზირებული ენის სათარგმნად. ისინი მიიღებენ მოწვევას და თავად გადაწყვეტენ.",
   "org.translators.share": "წილი (მაქს. {budget}%)",
-  "org.translators.assign": "მთარგმნელის დანიშვნა"
+  "org.translators.assign": "მთარგმნელის დანიშვნა",
+  "org.establish": "Establish an organization"
 }

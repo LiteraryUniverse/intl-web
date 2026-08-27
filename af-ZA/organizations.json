@@ -173,5 +173,6 @@
   "org.carveOut.request": "{language} vrystel?",
   "org.translators.intro": "Wys jou lede aan om 'n gelisensieerde taal te vertaal. Hulle ontvang 'n uitnodiging en besluit self.",
   "org.translators.share": "Aandeel (maks. {budget}%)",
-  "org.translators.assign": "Wys vertaler aan"
+  "org.translators.assign": "Wys vertaler aan",
+  "org.establish": "Establish an organization"
 }

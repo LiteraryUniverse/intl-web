@@ -173,5 +173,6 @@
   "org.carveOut.request": "Frigi {language}?",
   "org.translators.intro": "Utpek medlemmene dine til å oversette et lisensiert språk. De mottar en invitasjon og bestemmer selv.",
   "org.translators.share": "Andel (maks. {budget}%)",
-  "org.translators.assign": "Utpek oversetter"
+  "org.translators.assign": "Utpek oversetter",
+  "org.establish": "Establish an organization"
 }
