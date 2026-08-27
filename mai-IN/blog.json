@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "आयात टिप्पणी",
   "blog.pages.import.missingAssets": "उपलब्ध नहि कराओल गेल (छवि फील्ड खाली छोड़ल गेल): {names}",
   "blog.pages.import.apply": "आयात करू",
-  "blog.pages.import.replaceWarning": "आयात वर्तमान कैनवास केँ बदलि देत। जतय टेम्पलेटक फील्ड कुंजी मेल खाइत अछि ओतय अहाँक संपादित पाठ सुरक्षित रहैत अछि।"
+  "blog.pages.import.replaceWarning": "आयात वर्तमान कैनवास केँ बदलि देत। जतय टेम्पलेटक फील्ड कुंजी मेल खाइत अछि ओतय अहाँक संपादित पाठ सुरक्षित रहैत अछि।",
+  "blog.theme.generate": "चित्र सँ रंग",
+  "blog.theme.generate.hint": "एकटा चित्र (आवरण, बैनर, मूड छवि) चुनू आ ओहि सँ पैलेट बनत। चित्र अहाँक डिवाइस पर रहैत अछि; केवल रंग राखल जाइत अछि आ नीचाँ प्रत्येक केँ सूक्ष्म रूप सँ मिलाओल जा सकैत अछि।",
+  "blog.theme.generate.pick": "चित्र चुनू",
+  "blog.theme.generate.fromBanner": "ब्लॉग बैनर प्रयोग करू",
+  "blog.theme.generate.mode": "पैलेट शैली",
+  "blog.theme.generate.mode.vibrant": "चटख",
+  "blog.theme.generate.mode.muted": "मद्धिम",
+  "blog.theme.generate.mode.mono": "एकरंगी",
+  "blog.theme.generate.mode.pastel": "पेस्टल",
+  "blog.theme.generate.nudged": "पठनीयता लेल समायोजित: {tokens}।",
+  "blog.theme.generate.unreadable": "ओ चित्र पढ़ल नहि जा सकल। एकरा डाउनलोड करू आ फाइलक रूप मे चुनू।"
 }

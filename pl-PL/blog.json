@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Uwagi do importu",
   "blog.pages.import.missingAssets": "Nie dostarczono (pola obrazów pozostawiono puste): {names}",
   "blog.pages.import.apply": "Importuj",
-  "blog.pages.import.replaceWarning": "Import zastąpi bieżące płótno. Twoje edytowane teksty zostaną zachowane tam, gdzie klucze pól szablonu się zgadzają."
+  "blog.pages.import.replaceWarning": "Import zastąpi bieżące płótno. Twoje edytowane teksty zostaną zachowane tam, gdzie klucze pól szablonu się zgadzają.",
+  "blog.theme.generate": "Kolory z obrazu",
+  "blog.theme.generate.hint": "Wybierz obraz (okładkę, baner, obraz nastroju), a zostanie z niego wyprowadzona paleta. Obraz pozostaje na Twoim urządzeniu; zapisywane są tylko kolory, a każdy możesz dostroić poniżej.",
+  "blog.theme.generate.pick": "Wybierz obraz",
+  "blog.theme.generate.fromBanner": "Użyj banera bloga",
+  "blog.theme.generate.mode": "Styl palety",
+  "blog.theme.generate.mode.vibrant": "Żywa",
+  "blog.theme.generate.mode.muted": "Stonowana",
+  "blog.theme.generate.mode.mono": "Monochromatyczna",
+  "blog.theme.generate.mode.pastel": "Pastelowa",
+  "blog.theme.generate.nudged": "Dostosowano dla czytelności: {tokens}.",
+  "blog.theme.generate.unreadable": "Nie udało się odczytać tego obrazu. Pobierz go i wybierz jako plik."
 }

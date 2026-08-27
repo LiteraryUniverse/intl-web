@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "आयात नोट",
   "blog.pages.import.missingAssets": "उपलब्ध नहीं कराए गए (छवि फ़ील्ड खाली छोड़े गए): {names}",
   "blog.pages.import.apply": "आयात करें",
-  "blog.pages.import.replaceWarning": "आयात वर्तमान कैनवास को बदल देगा। जहाँ टेम्पलेट की फ़ील्ड कुंजियाँ मेल खाती हैं, वहाँ आपके संपादित टेक्स्ट सुरक्षित रहते हैं।"
+  "blog.pages.import.replaceWarning": "आयात वर्तमान कैनवास को बदल देगा। जहाँ टेम्पलेट की फ़ील्ड कुंजियाँ मेल खाती हैं, वहाँ आपके संपादित टेक्स्ट सुरक्षित रहते हैं।",
+  "blog.theme.generate": "चित्र से रंग",
+  "blog.theme.generate.hint": "एक चित्र (कवर, बैनर, मूड इमेज) चुनें और उससे एक पैलेट बनाया जाएगा। चित्र आपके डिवाइस पर ही रहता है; केवल रंग रखे जाते हैं और आप नीचे हर रंग को सूक्ष्म-समायोजित कर सकते हैं।",
+  "blog.theme.generate.pick": "चित्र चुनें",
+  "blog.theme.generate.fromBanner": "ब्लॉग बैनर का उपयोग करें",
+  "blog.theme.generate.mode": "पैलेट शैली",
+  "blog.theme.generate.mode.vibrant": "चटख",
+  "blog.theme.generate.mode.muted": "मद्धम",
+  "blog.theme.generate.mode.mono": "एकरंगी",
+  "blog.theme.generate.mode.pastel": "पेस्टल",
+  "blog.theme.generate.nudged": "पठनीयता के लिए समायोजित: {tokens}।",
+  "blog.theme.generate.unreadable": "वह चित्र पढ़ा नहीं जा सका। उसे डाउनलोड करें और फ़ाइल के रूप में चुनें।"
 }

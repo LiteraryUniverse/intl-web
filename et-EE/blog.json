@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Impordi märkused",
   "blog.pages.import.missingAssets": "Ei esitatud (pildiväljad jäeti tühjaks): {names}",
   "blog.pages.import.apply": "Impordi",
-  "blog.pages.import.replaceWarning": "Import asendab praeguse lõuendi. Sinu muudetud tekstid säilivad seal, kus malli väljavõtmed ühtivad."
+  "blog.pages.import.replaceWarning": "Import asendab praeguse lõuendi. Sinu muudetud tekstid säilivad seal, kus malli väljavõtmed ühtivad.",
+  "blog.theme.generate": "Värvid pildist",
+  "blog.theme.generate.hint": "Vali pilt (kaas, bänner, meeleolupilt) ja sellest tuletatakse palett. Pilt jääb sinu seadmesse; salvestatakse ainult värvid ja igaüht saab allpool täpsustada.",
+  "blog.theme.generate.pick": "Vali pilt",
+  "blog.theme.generate.fromBanner": "Kasuta blogi bännerit",
+  "blog.theme.generate.mode": "Paleti stiil",
+  "blog.theme.generate.mode.vibrant": "Erksad",
+  "blog.theme.generate.mode.muted": "Summutatud",
+  "blog.theme.generate.mode.mono": "Ühevärviline",
+  "blog.theme.generate.mode.pastel": "Pastelsed",
+  "blog.theme.generate.nudged": "Loetavuse huvides kohandatud: {tokens}.",
+  "blog.theme.generate.unreadable": "Seda pilti ei õnnestunud lugeda. Laadi see alla ja vali failina."
 }

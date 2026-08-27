@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "កំណត់ចំណាំនាំចូល",
   "blog.pages.import.missingAssets": "មិនបានផ្តល់ (វាលរូបភាពទុកទទេ)៖ {names}",
   "blog.pages.import.apply": "នាំចូល",
-  "blog.pages.import.replaceWarning": "ការនាំចូលនឹងជំនួសផ្ទាំងបច្ចុប្បន្ន។ អត្ថបទដែលអ្នកបានកែសម្រួលនឹងត្រូវរក្សាទុកនៅកន្លែងដែលសោវាលរបស់គំរូត្រូវគ្នា។"
+  "blog.pages.import.replaceWarning": "ការនាំចូលនឹងជំនួសផ្ទាំងបច្ចុប្បន្ន។ អត្ថបទដែលអ្នកបានកែសម្រួលនឹងត្រូវរក្សាទុកនៅកន្លែងដែលសោវាលរបស់គំរូត្រូវគ្នា។",
+  "blog.theme.generate": "ពណ៌ពីរូបភាព",
+  "blog.theme.generate.hint": "ជ្រើសរើសរូបភាព (គម្រប បដា រូបភាពអារម្មណ៍) ហើយក្ដារពណ៌នឹងត្រូវបានទាញចេញពីវា។ រូបភាពនៅតែស្ថិតលើឧបករណ៍របស់អ្នក; មានតែពណ៌ប៉ុណ្ណោះដែលត្រូវរក្សាទុក ហើយអ្នកអាចកែតម្រូវនីមួយៗខាងក្រោម។",
+  "blog.theme.generate.pick": "ជ្រើសរើសរូបភាព",
+  "blog.theme.generate.fromBanner": "ប្រើបដាប្លុក",
+  "blog.theme.generate.mode": "រចនាប័ទ្មក្ដារពណ៌",
+  "blog.theme.generate.mode.vibrant": "ភ្លឺរស់",
+  "blog.theme.generate.mode.muted": "ស្រអាប់",
+  "blog.theme.generate.mode.mono": "ពណ៌តែមួយ",
+  "blog.theme.generate.mode.pastel": "ប៉ាស្តែល",
+  "blog.theme.generate.nudged": "បានកែតម្រូវដើម្បីងាយអាន៖ {tokens}។",
+  "blog.theme.generate.unreadable": "មិនអាចអានរូបភាពនោះបានទេ។ សូមទាញយកវា ហើយជ្រើសរើសជាឯកសារ។"
 }

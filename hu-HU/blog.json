@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Importálási megjegyzések",
   "blog.pages.import.missingAssets": "Nem lett megadva (a képmezők üresen maradtak): {names}",
   "blog.pages.import.apply": "Importálás",
-  "blog.pages.import.replaceWarning": "Az importálás lecseréli a jelenlegi vásznat. A szerkesztett szövegek megmaradnak ott, ahol a sablon mezőkulcsai egyeznek."
+  "blog.pages.import.replaceWarning": "Az importálás lecseréli a jelenlegi vásznat. A szerkesztett szövegek megmaradnak ott, ahol a sablon mezőkulcsai egyeznek.",
+  "blog.theme.generate": "Színek egy képből",
+  "blog.theme.generate.hint": "Válasszon egy képet (borítót, bannert, hangulatképet), és abból paletta készül. A kép az eszközén marad; csak a színek kerülnek mentésre, és mindegyiket finomhangolhatja alább.",
+  "blog.theme.generate.pick": "Kép kiválasztása",
+  "blog.theme.generate.fromBanner": "A blog bannerének használata",
+  "blog.theme.generate.mode": "Paletta stílusa",
+  "blog.theme.generate.mode.vibrant": "Élénk",
+  "blog.theme.generate.mode.muted": "Tompított",
+  "blog.theme.generate.mode.mono": "Egyszínű",
+  "blog.theme.generate.mode.pastel": "Pasztell",
+  "blog.theme.generate.nudged": "Olvashatóság miatt módosítva: {tokens}.",
+  "blog.theme.generate.unreadable": "A képet nem sikerült beolvasni. Töltse le, és válassza ki fájlként."
 }

@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Import notes",
   "blog.pages.import.missingAssets": "Not provided (image fields left empty): {names}",
   "blog.pages.import.apply": "Import",
-  "blog.pages.import.replaceWarning": "Importing replaces the current canvas. Your edited texts are kept where the template's field keys match."
+  "blog.pages.import.replaceWarning": "Importing replaces the current canvas. Your edited texts are kept where the template's field keys match.",
+  "blog.theme.generate": "Colours from a picture",
+  "blog.theme.generate.hint": "Choose a picture (a cover, a banner, a mood image) and a palette is drawn from it. The picture stays on your device; only the colours are kept, and you can fine-tune each one below.",
+  "blog.theme.generate.pick": "Choose a picture",
+  "blog.theme.generate.fromBanner": "Use the blog banner",
+  "blog.theme.generate.mode": "Palette style",
+  "blog.theme.generate.mode.vibrant": "Vibrant",
+  "blog.theme.generate.mode.muted": "Muted",
+  "blog.theme.generate.mode.mono": "Monochrome",
+  "blog.theme.generate.mode.pastel": "Pastel",
+  "blog.theme.generate.nudged": "Adjusted for readability: {tokens}.",
+  "blog.theme.generate.unreadable": "That picture could not be read. Download it and choose it as a file."
 }

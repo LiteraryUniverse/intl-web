@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Importnoter",
   "blog.pages.import.missingAssets": "Ikke leveret (billedfelter efterladt tomme): {names}",
   "blog.pages.import.apply": "Importér",
-  "blog.pages.import.replaceWarning": "Import erstatter det nuværende lærred. Dine redigerede tekster bevares, hvor skabelonens feltnøgler matcher."
+  "blog.pages.import.replaceWarning": "Import erstatter det nuværende lærred. Dine redigerede tekster bevares, hvor skabelonens feltnøgler matcher.",
+  "blog.theme.generate": "Farver fra et billede",
+  "blog.theme.generate.hint": "Vælg et billede (et omslag, et banner, et stemningsbillede), og en palet udledes af det. Billedet bliver på din enhed; kun farverne gemmes, og du kan finjustere hver enkelt nedenfor.",
+  "blog.theme.generate.pick": "Vælg billede",
+  "blog.theme.generate.fromBanner": "Brug bloggens banner",
+  "blog.theme.generate.mode": "Paletstil",
+  "blog.theme.generate.mode.vibrant": "Livlig",
+  "blog.theme.generate.mode.muted": "Dæmpet",
+  "blog.theme.generate.mode.mono": "Monokrom",
+  "blog.theme.generate.mode.pastel": "Pastel",
+  "blog.theme.generate.nudged": "Justeret for læsbarhed: {tokens}.",
+  "blog.theme.generate.unreadable": "Billedet kunne ikke læses. Download det og vælg det som fil."
 }

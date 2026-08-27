@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "आयात नोंदी",
   "blog.pages.import.missingAssets": "पुरवलेले नाही (प्रतिमा फील्ड रिकामे ठेवले): {names}",
   "blog.pages.import.apply": "आयात करा",
-  "blog.pages.import.replaceWarning": "आयात सध्याचा कॅनव्हास बदलेल. टेम्पलेटच्या फील्ड की जुळतात तिथे तुमचे संपादित मजकूर जपले जातात."
+  "blog.pages.import.replaceWarning": "आयात सध्याचा कॅनव्हास बदलेल. टेम्पलेटच्या फील्ड की जुळतात तिथे तुमचे संपादित मजकूर जपले जातात.",
+  "blog.theme.generate": "चित्रातून रंग",
+  "blog.theme.generate.hint": "एक चित्र (मुखपृष्ठ, बॅनर, मूड प्रतिमा) निवडा आणि त्यातून पॅलेट तयार होईल. चित्र तुमच्या डिव्हाइसवरच राहते; फक्त रंग ठेवले जातात आणि खाली प्रत्येक रंग सूक्ष्मपणे जुळवता येतो.",
+  "blog.theme.generate.pick": "चित्र निवडा",
+  "blog.theme.generate.fromBanner": "ब्लॉग बॅनर वापरा",
+  "blog.theme.generate.mode": "पॅलेट शैली",
+  "blog.theme.generate.mode.vibrant": "ठळक",
+  "blog.theme.generate.mode.muted": "मंद",
+  "blog.theme.generate.mode.mono": "एकरंगी",
+  "blog.theme.generate.mode.pastel": "पेस्टल",
+  "blog.theme.generate.nudged": "वाचनीयतेसाठी समायोजित: {tokens}.",
+  "blog.theme.generate.unreadable": "ते चित्र वाचता आले नाही. ते डाउनलोड करून फाइल म्हणून निवडा."
 }

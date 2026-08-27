@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Note de import",
   "blog.pages.import.missingAssets": "Nefurnizate (câmpurile de imagine lăsate goale): {names}",
   "blog.pages.import.apply": "Importă",
-  "blog.pages.import.replaceWarning": "Importul înlocuiește pânza curentă. Textele editate se păstrează acolo unde cheile câmpurilor șablonului se potrivesc."
+  "blog.pages.import.replaceWarning": "Importul înlocuiește pânza curentă. Textele editate se păstrează acolo unde cheile câmpurilor șablonului se potrivesc.",
+  "blog.theme.generate": "Culori dintr-o imagine",
+  "blog.theme.generate.hint": "Alegeți o imagine (o copertă, un banner, o imagine de atmosferă) și din ea se extrage o paletă. Imaginea rămâne pe dispozitivul dvs.; se păstrează doar culorile, iar fiecare poate fi ajustată mai jos.",
+  "blog.theme.generate.pick": "Alegeți o imagine",
+  "blog.theme.generate.fromBanner": "Folosiți bannerul blogului",
+  "blog.theme.generate.mode": "Stil paletă",
+  "blog.theme.generate.mode.vibrant": "Vibrant",
+  "blog.theme.generate.mode.muted": "Estompat",
+  "blog.theme.generate.mode.mono": "Monocrom",
+  "blog.theme.generate.mode.pastel": "Pastel",
+  "blog.theme.generate.nudged": "Ajustat pentru lizibilitate: {tokens}.",
+  "blog.theme.generate.unreadable": "Imaginea nu a putut fi citită. Descărcați-o și alegeți-o ca fișier."
 }

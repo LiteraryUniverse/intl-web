@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "આયાત નોંધો",
   "blog.pages.import.missingAssets": "પૂરી પાડવામાં આવી નથી (છબી ફીલ્ડ ખાલી છોડ્યા): {names}",
   "blog.pages.import.apply": "આયાત કરો",
-  "blog.pages.import.replaceWarning": "આયાત વર્તમાન કેનવાસને બદલશે. જ્યાં ટેમ્પલેટની ફીલ્ડ કી મેળ ખાય છે ત્યાં તમારા સંપાદિત લખાણો સચવાય છે."
+  "blog.pages.import.replaceWarning": "આયાત વર્તમાન કેનવાસને બદલશે. જ્યાં ટેમ્પલેટની ફીલ્ડ કી મેળ ખાય છે ત્યાં તમારા સંપાદિત લખાણો સચવાય છે.",
+  "blog.theme.generate": "ચિત્રમાંથી રંગો",
+  "blog.theme.generate.hint": "એક ચિત્ર (કવર, બેનર, મૂડ છબી) પસંદ કરો અને તેમાંથી પેલેટ બનાવવામાં આવશે. ચિત્ર તમારા ઉપકરણ પર જ રહે છે; ફક્ત રંગો રાખવામાં આવે છે અને તમે નીચે દરેકને ઝીણવટથી ગોઠવી શકો છો.",
+  "blog.theme.generate.pick": "ચિત્ર પસંદ કરો",
+  "blog.theme.generate.fromBanner": "બ્લોગ બેનર વાપરો",
+  "blog.theme.generate.mode": "પેલેટ શૈલી",
+  "blog.theme.generate.mode.vibrant": "ઘેરા",
+  "blog.theme.generate.mode.muted": "ઝાંખા",
+  "blog.theme.generate.mode.mono": "એકરંગી",
+  "blog.theme.generate.mode.pastel": "પેસ્ટલ",
+  "blog.theme.generate.nudged": "વાંચનક્ષમતા માટે ગોઠવેલ: {tokens}.",
+  "blog.theme.generate.unreadable": "તે ચિત્ર વાંચી શકાયું નહીં. તેને ડાઉનલોડ કરીને ફાઇલ તરીકે પસંદ કરો."
 }

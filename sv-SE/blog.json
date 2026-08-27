@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Importanteckningar",
   "blog.pages.import.missingAssets": "Saknas (bildfält lämnade tomma): {names}",
   "blog.pages.import.apply": "Importera",
-  "blog.pages.import.replaceWarning": "Importen ersätter nuvarande arbetsyta. Dina redigerade texter behålls där mallens fältnycklar matchar."
+  "blog.pages.import.replaceWarning": "Importen ersätter nuvarande arbetsyta. Dina redigerade texter behålls där mallens fältnycklar matchar.",
+  "blog.theme.generate": "Färger från en bild",
+  "blog.theme.generate.hint": "Välj en bild (ett omslag, en banner, en stämningsbild) så tas en palett fram ur den. Bilden stannar på din enhet; bara färgerna sparas och du kan finjustera varje färg nedan.",
+  "blog.theme.generate.pick": "Välj bild",
+  "blog.theme.generate.fromBanner": "Använd bloggens banner",
+  "blog.theme.generate.mode": "Palettstil",
+  "blog.theme.generate.mode.vibrant": "Livfull",
+  "blog.theme.generate.mode.muted": "Dämpad",
+  "blog.theme.generate.mode.mono": "Monokrom",
+  "blog.theme.generate.mode.pastel": "Pastell",
+  "blog.theme.generate.nudged": "Justerad för läsbarhet: {tokens}.",
+  "blog.theme.generate.unreadable": "Bilden kunde inte läsas. Ladda ner den och välj den som fil."
 }

@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Catatan impor",
   "blog.pages.import.missingAssets": "Tidak disediakan (kolom gambar dibiarkan kosong): {names}",
   "blog.pages.import.apply": "Impor",
-  "blog.pages.import.replaceWarning": "Impor akan mengganti kanvas saat ini. Teks yang Anda edit dipertahankan jika kunci kolom templat cocok."
+  "blog.pages.import.replaceWarning": "Impor akan mengganti kanvas saat ini. Teks yang Anda edit dipertahankan jika kunci kolom templat cocok.",
+  "blog.theme.generate": "Warna dari gambar",
+  "blog.theme.generate.hint": "Pilih gambar (sampul, spanduk, gambar suasana) dan palet akan diambil darinya. Gambar tetap di perangkat Anda; hanya warnanya yang disimpan dan Anda bisa menyetel setiap warna di bawah.",
+  "blog.theme.generate.pick": "Pilih gambar",
+  "blog.theme.generate.fromBanner": "Gunakan spanduk blog",
+  "blog.theme.generate.mode": "Gaya palet",
+  "blog.theme.generate.mode.vibrant": "Cerah",
+  "blog.theme.generate.mode.muted": "Redup",
+  "blog.theme.generate.mode.mono": "Monokrom",
+  "blog.theme.generate.mode.pastel": "Pastel",
+  "blog.theme.generate.nudged": "Disesuaikan agar mudah dibaca: {tokens}.",
+  "blog.theme.generate.unreadable": "Gambar itu tidak dapat dibaca. Unduh lalu pilih sebagai berkas."
 }

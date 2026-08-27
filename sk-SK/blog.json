@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Poznámky k importu",
   "blog.pages.import.missingAssets": "Nedodané (obrázkové polia zostali prázdne): {names}",
   "blog.pages.import.apply": "Importovať",
-  "blog.pages.import.replaceWarning": "Import nahradí aktuálne plátno. Vaše upravené texty zostanú tam, kde sa zhodujú kľúče polí šablóny."
+  "blog.pages.import.replaceWarning": "Import nahradí aktuálne plátno. Vaše upravené texty zostanú tam, kde sa zhodujú kľúče polí šablóny.",
+  "blog.theme.generate": "Farby z obrázka",
+  "blog.theme.generate.hint": "Vyberte obrázok (obálku, banner, náladový obrázok) a paleta sa z neho odvodí. Obrázok zostáva vo vašom zariadení; uložia sa len farby a každú môžete nižšie doladiť.",
+  "blog.theme.generate.pick": "Vybrať obrázok",
+  "blog.theme.generate.fromBanner": "Použiť banner blogu",
+  "blog.theme.generate.mode": "Štýl palety",
+  "blog.theme.generate.mode.vibrant": "Živá",
+  "blog.theme.generate.mode.muted": "Tlmená",
+  "blog.theme.generate.mode.mono": "Monochromatická",
+  "blog.theme.generate.mode.pastel": "Pastelová",
+  "blog.theme.generate.nudged": "Upravené kvôli čitateľnosti: {tokens}.",
+  "blog.theme.generate.unreadable": "Tento obrázok sa nepodarilo načítať. Stiahnite ho a vyberte ako súbor."
 }

@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Ghi chú nhập",
   "blog.pages.import.missingAssets": "Chưa cung cấp (các trường hình ảnh để trống): {names}",
   "blog.pages.import.apply": "Nhập",
-  "blog.pages.import.replaceWarning": "Việc nhập sẽ thay thế khung vẽ hiện tại. Văn bản bạn đã chỉnh sửa được giữ lại ở nơi khóa trường của mẫu khớp."
+  "blog.pages.import.replaceWarning": "Việc nhập sẽ thay thế khung vẽ hiện tại. Văn bản bạn đã chỉnh sửa được giữ lại ở nơi khóa trường của mẫu khớp.",
+  "blog.theme.generate": "Màu sắc từ một bức ảnh",
+  "blog.theme.generate.hint": "Chọn một bức ảnh (bìa, banner, ảnh tạo không khí) và bảng màu sẽ được rút ra từ đó. Ảnh nằm trên thiết bị của bạn; chỉ giữ lại màu sắc và bạn có thể tinh chỉnh từng màu bên dưới.",
+  "blog.theme.generate.pick": "Chọn ảnh",
+  "blog.theme.generate.fromBanner": "Dùng banner của blog",
+  "blog.theme.generate.mode": "Kiểu bảng màu",
+  "blog.theme.generate.mode.vibrant": "Rực rỡ",
+  "blog.theme.generate.mode.muted": "Dịu",
+  "blog.theme.generate.mode.mono": "Đơn sắc",
+  "blog.theme.generate.mode.pastel": "Pastel",
+  "blog.theme.generate.nudged": "Đã điều chỉnh để dễ đọc: {tokens}.",
+  "blog.theme.generate.unreadable": "Không thể đọc bức ảnh đó. Hãy tải về và chọn dưới dạng tệp."
 }

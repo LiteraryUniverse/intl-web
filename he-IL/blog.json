@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "הערות ייבוא",
   "blog.pages.import.missingAssets": "לא סופקו (שדות התמונה נותרו ריקים): {names}",
   "blog.pages.import.apply": "ייבוא",
-  "blog.pages.import.replaceWarning": "הייבוא מחליף את הקנבס הנוכחי. הטקסטים שערכתם נשמרים במקומות שבהם מפתחות השדות של התבנית תואמים."
+  "blog.pages.import.replaceWarning": "הייבוא מחליף את הקנבס הנוכחי. הטקסטים שערכתם נשמרים במקומות שבהם מפתחות השדות של התבנית תואמים.",
+  "blog.theme.generate": "צבעים מתוך תמונה",
+  "blog.theme.generate.hint": "בחרו תמונה (כריכה, באנר, תמונת אווירה) ותופק ממנה פלטה. התמונה נשארת במכשיר שלכם; רק הצבעים נשמרים, וניתן לכוונן כל אחד מהם למטה.",
+  "blog.theme.generate.pick": "בחירת תמונה",
+  "blog.theme.generate.fromBanner": "שימוש בבאנר הבלוג",
+  "blog.theme.generate.mode": "סגנון פלטה",
+  "blog.theme.generate.mode.vibrant": "עז",
+  "blog.theme.generate.mode.muted": "מעומעם",
+  "blog.theme.generate.mode.mono": "מונוכרום",
+  "blog.theme.generate.mode.pastel": "פסטל",
+  "blog.theme.generate.nudged": "הותאם לקריאות: {tokens}.",
+  "blog.theme.generate.unreadable": "לא ניתן היה לקרוא את התמונה. הורידו אותה ובחרו אותה כקובץ."
 }

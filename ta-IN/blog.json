@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "இறக்குமதி குறிப்புகள்",
   "blog.pages.import.missingAssets": "வழங்கப்படவில்லை (படப் புலங்கள் காலியாக விடப்பட்டன): {names}",
   "blog.pages.import.apply": "இறக்குமதி",
-  "blog.pages.import.replaceWarning": "இறக்குமதி தற்போதைய கேன்வாஸை மாற்றும். வார்ப்புருவின் புலச் சாவிகள் பொருந்தும் இடங்களில் நீங்கள் திருத்திய உரைகள் பாதுகாக்கப்படும்."
+  "blog.pages.import.replaceWarning": "இறக்குமதி தற்போதைய கேன்வாஸை மாற்றும். வார்ப்புருவின் புலச் சாவிகள் பொருந்தும் இடங்களில் நீங்கள் திருத்திய உரைகள் பாதுகாக்கப்படும்.",
+  "blog.theme.generate": "படத்திலிருந்து நிறங்கள்",
+  "blog.theme.generate.hint": "ஒரு படத்தைத் (அட்டை, பேனர், மனநிலைப் படம்) தேர்ந்தெடுங்கள்; அதிலிருந்து ஒரு வண்ணத்தட்டு உருவாக்கப்படும். படம் உங்கள் சாதனத்திலேயே இருக்கும்; நிறங்கள் மட்டுமே சேமிக்கப்படும், ஒவ்வொன்றையும் கீழே நுணுக்கமாகச் சரிசெய்யலாம்.",
+  "blog.theme.generate.pick": "படத்தைத் தேர்ந்தெடு",
+  "blog.theme.generate.fromBanner": "வலைப்பதிவு பேனரைப் பயன்படுத்து",
+  "blog.theme.generate.mode": "வண்ணத்தட்டு பாணி",
+  "blog.theme.generate.mode.vibrant": "துடிப்பான",
+  "blog.theme.generate.mode.muted": "மங்கலான",
+  "blog.theme.generate.mode.mono": "ஒற்றை நிறம்",
+  "blog.theme.generate.mode.pastel": "பாஸ்டல்",
+  "blog.theme.generate.nudged": "வாசிப்புத்திறனுக்காக சரிசெய்யப்பட்டது: {tokens}.",
+  "blog.theme.generate.unreadable": "அந்தப் படத்தைப் படிக்க முடியவில்லை. பதிவிறக்கி கோப்பாகத் தேர்ந்தெடுக்கவும்."
 }

@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "ଆମଦାନି ଟିପ୍ପଣୀ",
   "blog.pages.import.missingAssets": "ପ୍ରଦାନ କରାଯାଇନାହିଁ (ଛବି କ୍ଷେତ୍ର ଖାଲି ରଖାଯାଇଛି): {names}",
   "blog.pages.import.apply": "ଆମଦାନି",
-  "blog.pages.import.replaceWarning": "ଆମଦାନି ବର୍ତ୍ତମାନର କ୍ୟାନଭାସ୍‌କୁ ବଦଳାଇବ। ଟେମ୍ପଲେଟ୍‌ର କ୍ଷେତ୍ର କି ମେଳ ଖାଉଥିବା ସ୍ଥାନରେ ଆପଣଙ୍କ ସମ୍ପାଦିତ ଲେଖା ସୁରକ୍ଷିତ ରହିବ।"
+  "blog.pages.import.replaceWarning": "ଆମଦାନି ବର୍ତ୍ତମାନର କ୍ୟାନଭାସ୍‌କୁ ବଦଳାଇବ। ଟେମ୍ପଲେଟ୍‌ର କ୍ଷେତ୍ର କି ମେଳ ଖାଉଥିବା ସ୍ଥାନରେ ଆପଣଙ୍କ ସମ୍ପାଦିତ ଲେଖା ସୁରକ୍ଷିତ ରହିବ।",
+  "blog.theme.generate": "ଚିତ୍ରରୁ ରଙ୍ଗ",
+  "blog.theme.generate.hint": "ଏକ ଚିତ୍ର (କଭର, ବ୍ୟାନର, ମୁଡ୍ ଛବି) ବାଛନ୍ତୁ ଏବଂ ସେଥିରୁ ଏକ ପ୍ୟାଲେଟ୍ ତିଆରି ହେବ। ଚିତ୍ର ଆପଣଙ୍କ ଡିଭାଇସରେ ରହେ; କେବଳ ରଙ୍ଗ ରଖାଯାଏ ଏବଂ ଆପଣ ତଳେ ପ୍ରତ୍ୟେକକୁ ସୂକ୍ଷ୍ମ ଭାବେ ସଜାଡ଼ି ପାରିବେ।",
+  "blog.theme.generate.pick": "ଚିତ୍ର ବାଛନ୍ତୁ",
+  "blog.theme.generate.fromBanner": "ବ୍ଲଗ୍ ବ୍ୟାନର ବ୍ୟବହାର କରନ୍ତୁ",
+  "blog.theme.generate.mode": "ପ୍ୟାଲେଟ୍ ଶୈଳୀ",
+  "blog.theme.generate.mode.vibrant": "ଉଜ୍ଜ୍ୱଳ",
+  "blog.theme.generate.mode.muted": "ମଳିନ",
+  "blog.theme.generate.mode.mono": "ଏକରଙ୍ଗୀ",
+  "blog.theme.generate.mode.pastel": "ପେଷ୍ଟେଲ",
+  "blog.theme.generate.nudged": "ପଠନୀୟତା ପାଇଁ ସଜାଡ଼ାଯାଇଛି: {tokens}।",
+  "blog.theme.generate.unreadable": "ସେହି ଚିତ୍ର ପଢ଼ି ହେଲା ନାହିଁ। ଏହାକୁ ଡାଉନଲୋଡ୍ କରି ଫାଇଲ୍ ଭାବେ ବାଛନ୍ତୁ।"
 }

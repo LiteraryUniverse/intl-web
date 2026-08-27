@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "ਆਯਾਤ ਨੋਟ",
   "blog.pages.import.missingAssets": "ਮੁਹੱਈਆ ਨਹੀਂ ਕੀਤੇ (ਤਸਵੀਰ ਖੇਤਰ ਖਾਲੀ ਛੱਡੇ): {names}",
   "blog.pages.import.apply": "ਆਯਾਤ ਕਰੋ",
-  "blog.pages.import.replaceWarning": "ਆਯਾਤ ਮੌਜੂਦਾ ਕੈਨਵਸ ਨੂੰ ਬਦਲ ਦੇਵੇਗਾ। ਜਿੱਥੇ ਟੈਂਪਲੇਟ ਦੀਆਂ ਖੇਤਰ ਕੁੰਜੀਆਂ ਮੇਲ ਖਾਂਦੀਆਂ ਹਨ, ਉੱਥੇ ਤੁਹਾਡੀਆਂ ਸੋਧੀਆਂ ਲਿਖਤਾਂ ਸੁਰੱਖਿਅਤ ਰਹਿੰਦੀਆਂ ਹਨ।"
+  "blog.pages.import.replaceWarning": "ਆਯਾਤ ਮੌਜੂਦਾ ਕੈਨਵਸ ਨੂੰ ਬਦਲ ਦੇਵੇਗਾ। ਜਿੱਥੇ ਟੈਂਪਲੇਟ ਦੀਆਂ ਖੇਤਰ ਕੁੰਜੀਆਂ ਮੇਲ ਖਾਂਦੀਆਂ ਹਨ, ਉੱਥੇ ਤੁਹਾਡੀਆਂ ਸੋਧੀਆਂ ਲਿਖਤਾਂ ਸੁਰੱਖਿਅਤ ਰਹਿੰਦੀਆਂ ਹਨ।",
+  "blog.theme.generate": "ਤਸਵੀਰ ਤੋਂ ਰੰਗ",
+  "blog.theme.generate.hint": "ਇੱਕ ਤਸਵੀਰ (ਕਵਰ, ਬੈਨਰ, ਮੂਡ ਚਿੱਤਰ) ਚੁਣੋ ਅਤੇ ਉਸ ਤੋਂ ਇੱਕ ਪੈਲੇਟ ਬਣੇਗਾ। ਤਸਵੀਰ ਤੁਹਾਡੇ ਡਿਵਾਈਸ 'ਤੇ ਹੀ ਰਹਿੰਦੀ ਹੈ; ਸਿਰਫ਼ ਰੰਗ ਰੱਖੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਤੁਸੀਂ ਹੇਠਾਂ ਹਰ ਇੱਕ ਨੂੰ ਬਾਰੀਕੀ ਨਾਲ ਸੋਧ ਸਕਦੇ ਹੋ।",
+  "blog.theme.generate.pick": "ਤਸਵੀਰ ਚੁਣੋ",
+  "blog.theme.generate.fromBanner": "ਬਲੌਗ ਬੈਨਰ ਵਰਤੋ",
+  "blog.theme.generate.mode": "ਪੈਲੇਟ ਸ਼ੈਲੀ",
+  "blog.theme.generate.mode.vibrant": "ਚਮਕਦਾਰ",
+  "blog.theme.generate.mode.muted": "ਫਿੱਕੇ",
+  "blog.theme.generate.mode.mono": "ਇੱਕਰੰਗੀ",
+  "blog.theme.generate.mode.pastel": "ਪੇਸਟਲ",
+  "blog.theme.generate.nudged": "ਪੜ੍ਹਨਯੋਗਤਾ ਲਈ ਸੋਧਿਆ: {tokens}।",
+  "blog.theme.generate.unreadable": "ਉਹ ਤਸਵੀਰ ਪੜ੍ਹੀ ਨਹੀਂ ਜਾ ਸਕੀ। ਇਸਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਫ਼ਾਈਲ ਵਜੋਂ ਚੁਣੋ।"
 }

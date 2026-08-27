@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "匯入注意事項",
   "blog.pages.import.missingAssets": "未提供（圖片欄位留空）：{names}",
   "blog.pages.import.apply": "匯入",
-  "blog.pages.import.replaceWarning": "匯入會取代目前的畫布。範本欄位鍵相符處會保留您編輯過的文字。"
+  "blog.pages.import.replaceWarning": "匯入會取代目前的畫布。範本欄位鍵相符處會保留您編輯過的文字。",
+  "blog.theme.generate": "從圖片取色",
+  "blog.theme.generate.hint": "選擇一張圖片（封面、橫幅或氛圍圖），系統會從中產生配色。圖片留在您的裝置上，只保留顏色，每個顏色都可在下方微調。",
+  "blog.theme.generate.pick": "選擇圖片",
+  "blog.theme.generate.fromBanner": "使用部落格橫幅",
+  "blog.theme.generate.mode": "配色風格",
+  "blog.theme.generate.mode.vibrant": "鮮明",
+  "blog.theme.generate.mode.muted": "柔和",
+  "blog.theme.generate.mode.mono": "單色",
+  "blog.theme.generate.mode.pastel": "粉彩",
+  "blog.theme.generate.nudged": "為了可讀性已調整：{tokens}。",
+  "blog.theme.generate.unreadable": "無法讀取該圖片。請下載後以檔案方式選擇。"
 }

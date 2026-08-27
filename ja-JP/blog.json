@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "インポートの注意",
   "blog.pages.import.missingAssets": "未提供（画像フィールドは空のまま）: {names}",
   "blog.pages.import.apply": "インポート",
-  "blog.pages.import.replaceWarning": "インポートすると現在のキャンバスが置き換わります。テンプレートのフィールドキーが一致する箇所では、編集済みのテキストが保持されます。"
+  "blog.pages.import.replaceWarning": "インポートすると現在のキャンバスが置き換わります。テンプレートのフィールドキーが一致する箇所では、編集済みのテキストが保持されます。",
+  "blog.theme.generate": "画像から配色を作成",
+  "blog.theme.generate.hint": "画像（表紙、バナー、イメージ画像など）を選ぶと、そこから配色を作成します。画像は端末から送信されず、色だけが保存されます。各色は下で微調整できます。",
+  "blog.theme.generate.pick": "画像を選択",
+  "blog.theme.generate.fromBanner": "ブログのバナーを使う",
+  "blog.theme.generate.mode": "配色のスタイル",
+  "blog.theme.generate.mode.vibrant": "鮮やか",
+  "blog.theme.generate.mode.muted": "落ち着いた",
+  "blog.theme.generate.mode.mono": "モノクローム",
+  "blog.theme.generate.mode.pastel": "パステル",
+  "blog.theme.generate.nudged": "読みやすさのために調整しました: {tokens}。",
+  "blog.theme.generate.unreadable": "この画像を読み取れませんでした。ダウンロードしてファイルとして選択してください。"
 }

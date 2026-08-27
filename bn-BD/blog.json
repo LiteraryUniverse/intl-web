@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "আমদানি নোট",
   "blog.pages.import.missingAssets": "সরবরাহ করা হয়নি (ছবির ক্ষেত্র খালি রাখা হয়েছে): {names}",
   "blog.pages.import.apply": "আমদানি",
-  "blog.pages.import.replaceWarning": "আমদানি বর্তমান ক্যানভাস প্রতিস্থাপন করবে। টেমপ্লেটের ফিল্ড কী মিললে আপনার সম্পাদিত লেখা সংরক্ষিত থাকবে।"
+  "blog.pages.import.replaceWarning": "আমদানি বর্তমান ক্যানভাস প্রতিস্থাপন করবে। টেমপ্লেটের ফিল্ড কী মিললে আপনার সম্পাদিত লেখা সংরক্ষিত থাকবে।",
+  "blog.theme.generate": "ছবি থেকে রং",
+  "blog.theme.generate.hint": "একটি ছবি (প্রচ্ছদ, ব্যানার, মুড ইমেজ) বেছে নিন এবং তা থেকে একটি প্যালেট তৈরি হবে। ছবিটি আপনার ডিভাইসেই থাকে; শুধু রংগুলি রাখা হয় এবং নিচে প্রতিটি সূক্ষ্মভাবে সমন্বয় করা যায়।",
+  "blog.theme.generate.pick": "ছবি বেছে নিন",
+  "blog.theme.generate.fromBanner": "ব্লগ ব্যানার ব্যবহার করুন",
+  "blog.theme.generate.mode": "প্যালেট শৈলী",
+  "blog.theme.generate.mode.vibrant": "উজ্জ্বল",
+  "blog.theme.generate.mode.muted": "ম্লান",
+  "blog.theme.generate.mode.mono": "একরঙা",
+  "blog.theme.generate.mode.pastel": "প্যাস্টেল",
+  "blog.theme.generate.nudged": "পাঠযোগ্যতার জন্য সমন্বিত: {tokens}।",
+  "blog.theme.generate.unreadable": "ছবিটি পড়া যায়নি। এটি ডাউনলোড করে ফাইল হিসেবে বেছে নিন।"
 }

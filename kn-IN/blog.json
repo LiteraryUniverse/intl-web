@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "ಆಮದು ಟಿಪ್ಪಣಿಗಳು",
   "blog.pages.import.missingAssets": "ಒದಗಿಸಿಲ್ಲ (ಚಿತ್ರ ಕ್ಷೇತ್ರಗಳನ್ನು ಖಾಲಿ ಬಿಡಲಾಗಿದೆ): {names}",
   "blog.pages.import.apply": "ಆಮದು",
-  "blog.pages.import.replaceWarning": "ಆಮದು ಪ್ರಸ್ತುತ ಕ್ಯಾನ್ವಾಸ್ ಅನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ. ಟೆಂಪ್ಲೇಟ್‌ನ ಕ್ಷೇತ್ರ ಕೀಗಳು ಹೊಂದಿಕೆಯಾಗುವಲ್ಲಿ ನೀವು ಸಂಪಾದಿಸಿದ ಪಠ್ಯಗಳು ಉಳಿಯುತ್ತವೆ."
+  "blog.pages.import.replaceWarning": "ಆಮದು ಪ್ರಸ್ತುತ ಕ್ಯಾನ್ವಾಸ್ ಅನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ. ಟೆಂಪ್ಲೇಟ್‌ನ ಕ್ಷೇತ್ರ ಕೀಗಳು ಹೊಂದಿಕೆಯಾಗುವಲ್ಲಿ ನೀವು ಸಂಪಾದಿಸಿದ ಪಠ್ಯಗಳು ಉಳಿಯುತ್ತವೆ.",
+  "blog.theme.generate": "ಚಿತ್ರದಿಂದ ಬಣ್ಣಗಳು",
+  "blog.theme.generate.hint": "ಒಂದು ಚಿತ್ರ (ಮುಖಪುಟ, ಬ್ಯಾನರ್, ಮನಸ್ಥಿತಿ ಚಿತ್ರ) ಆಯ್ಕೆಮಾಡಿ; ಅದರಿಂದ ಬಣ್ಣಪಟ್ಟಿ ರಚಿಸಲಾಗುತ್ತದೆ. ಚಿತ್ರ ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ ಉಳಿಯುತ್ತದೆ; ಬಣ್ಣಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಪ್ರತಿಯೊಂದನ್ನು ಕೆಳಗೆ ಹೊಂದಿಸಬಹುದು.",
+  "blog.theme.generate.pick": "ಚಿತ್ರ ಆಯ್ಕೆಮಾಡಿ",
+  "blog.theme.generate.fromBanner": "ಬ್ಲಾಗ್ ಬ್ಯಾನರ್ ಬಳಸಿ",
+  "blog.theme.generate.mode": "ಬಣ್ಣಪಟ್ಟಿ ಶೈಲಿ",
+  "blog.theme.generate.mode.vibrant": "ಗಾಢ",
+  "blog.theme.generate.mode.muted": "ಮಂದ",
+  "blog.theme.generate.mode.mono": "ಏಕವರ್ಣ",
+  "blog.theme.generate.mode.pastel": "ಪ್ಯಾಸ್ಟೆಲ್",
+  "blog.theme.generate.nudged": "ಓದುವಿಕೆಗಾಗಿ ಹೊಂದಿಸಲಾಗಿದೆ: {tokens}.",
+  "blog.theme.generate.unreadable": "ಆ ಚಿತ್ರವನ್ನು ಓದಲಾಗಲಿಲ್ಲ. ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಫೈಲ್ ಆಗಿ ಆಯ್ಕೆಮಾಡಿ."
 }

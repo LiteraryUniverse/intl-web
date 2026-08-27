@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "notci be lo nu cpacu",
   "blog.pages.import.missingAssets": "na se dunda (lo pixra kunti se stali): {names}",
   "blog.pages.import.apply": "cpacu",
-  "blog.pages.import.replaceWarning": ".i lo nu cpacu cu basti lo cabna kanvasi .i lo do galfi lerpoi cu se ralte va'o lo nu lo tcita ckiku cu mapti"
+  "blog.pages.import.replaceWarning": ".i lo nu cpacu cu basti lo cabna kanvasi .i lo do galfi lerpoi cu se ralte va'o lo nu lo tcita ckiku cu mapti",
+  "blog.theme.generate": "lo skari be lo pixra",
+  "blog.theme.generate.hint": ".i ko cuxna lo pixra (lo gacri .a lo lanci .a lo cinmo pixra) .i lo skari cu se cpacu ri .i lo pixra cu stali lo do minji .i lo skari po'o cu se ralte .i do ka'e galfi ro ri cnita",
+  "blog.theme.generate.pick": "cuxna lo pixra",
+  "blog.theme.generate.fromBanner": "pilno lo blogi lanci",
+  "blog.theme.generate.mode": "skari tarmi",
+  "blog.theme.generate.mode.vibrant": "carmi",
+  "blog.theme.generate.mode.muted": "ruble",
+  "blog.theme.generate.mode.mono": "pavyska",
+  "blog.theme.generate.mode.pastel": "pastela",
+  "blog.theme.generate.nudged": "se galfi tezu'e lo ka tcidu: {tokens}",
+  "blog.theme.generate.unreadable": ".i na ka'e tcidu lo pixra .i ko kibycpa ri gi'e cuxna ri lo datnyvei"
 }

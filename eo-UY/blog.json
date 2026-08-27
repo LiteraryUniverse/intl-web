@@ -359,5 +359,16 @@
   "blog.pages.import.warnings": "Importaj notoj",
   "blog.pages.import.missingAssets": "Ne provizitaj (bildaj kampoj lasitaj malplenaj): {names}",
   "blog.pages.import.apply": "Importi",
-  "blog.pages.import.replaceWarning": "La importo anstataŭigas la nunan kanvason. Viaj redaktitaj tekstoj konserviĝas kie la kampaj ŝlosiloj de la ŝablono kongruas."
+  "blog.pages.import.replaceWarning": "La importo anstataŭigas la nunan kanvason. Viaj redaktitaj tekstoj konserviĝas kie la kampaj ŝlosiloj de la ŝablono kongruas.",
+  "blog.theme.generate": "Koloroj el bildo",
+  "blog.theme.generate.hint": "Elektu bildon (kovrilon, standardon, etosan bildon) kaj el ĝi estos derivita paletro. La bildo restas en via aparato; nur la koloroj estas konservataj, kaj vi povas fajnagordi ĉiun sube.",
+  "blog.theme.generate.pick": "Elekti bildon",
+  "blog.theme.generate.fromBanner": "Uzi la blogan standardon",
+  "blog.theme.generate.mode": "Stilo de paletro",
+  "blog.theme.generate.mode.vibrant": "Vigla",
+  "blog.theme.generate.mode.muted": "Mildigita",
+  "blog.theme.generate.mode.mono": "Unukolora",
+  "blog.theme.generate.mode.pastel": "Pastela",
+  "blog.theme.generate.nudged": "Alĝustigita por legebleco: {tokens}.",
+  "blog.theme.generate.unreadable": "Tiu bildo ne legeblis. Elŝutu ĝin kaj elektu ĝin kiel dosieron."
 }
