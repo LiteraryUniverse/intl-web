@@ -174,5 +174,6 @@
   "org.translators.intro": "परवाना मिळालेल्या भाषेचे भाषांतर करण्यासाठी तुमच्या सदस्यांना नेमा. त्यांना आमंत्रण मिळते आणि ते स्वतः निर्णय घेतात.",
   "org.translators.share": "वाटा (कमाल {budget}%)",
   "org.translators.assign": "भाषांतरकार नेमा",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

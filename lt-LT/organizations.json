@@ -174,5 +174,6 @@
   "org.translators.intro": "Paskirkite savo narius versti licencijuotą kalbą. Jie gauna kvietimą ir sprendžia patys.",
   "org.translators.share": "Dalis (ne daugiau kaip {budget} %)",
   "org.translators.assign": "Paskirti vertėją",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

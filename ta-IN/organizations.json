@@ -174,5 +174,6 @@
   "org.translators.intro": "உரிமம் பெற்ற மொழியை மொழிபெயர்க்க உங்கள் உறுப்பினர்களை நியமிக்கவும். அவர்களுக்கு அழைப்பு வரும், முடிவை அவர்களே எடுப்பார்கள்.",
   "org.translators.share": "பங்கு (அதிகபட்சம் {budget}%)",
   "org.translators.assign": "மொழிபெயர்ப்பாளரை நியமிக்கவும்",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

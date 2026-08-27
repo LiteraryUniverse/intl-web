@@ -174,5 +174,6 @@
   "org.translators.intro": "ចាត់តាំងសមាជិករបស់អ្នកឱ្យបកប្រែភាសាដែលមានអាជ្ញាបណ្ណ។ ពួកគេទទួលបានការអញ្ជើញ ហើយសម្រេចចិត្តដោយខ្លួនឯង។",
   "org.translators.share": "ចំណែក (អតិបរមា {budget}%)",
   "org.translators.assign": "ចាត់តាំងអ្នកបកប្រែ",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

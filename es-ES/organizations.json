@@ -174,5 +174,6 @@
   "org.translators.intro": "Asigna a tus miembros para traducir un idioma licenciado. Reciben una invitación y deciden ellos mismos.",
   "org.translators.share": "Parte (máx. {budget}%)",
   "org.translators.assign": "Asignar traductor",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

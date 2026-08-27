@@ -174,5 +174,6 @@
   "org.translators.intro": "הציבו את חברי הארגון לתרגום שפה מורשית. הם מקבלים הזמנה ומחליטים בעצמם.",
   "org.translators.share": "חלק (עד {budget}%)",
   "org.translators.assign": "הצבת מתרגם",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

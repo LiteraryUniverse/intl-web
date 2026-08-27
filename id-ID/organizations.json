@@ -174,5 +174,6 @@
   "org.translators.intro": "Tugaskan anggota Anda untuk menerjemahkan bahasa yang dilisensikan. Mereka menerima undangan dan memutuskan sendiri.",
   "org.translators.share": "Bagian (maks. {budget}%)",
   "org.translators.assign": "Tugaskan penerjemah",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

@@ -174,5 +174,6 @@
   "org.translators.intro": "Poverte svojich členov prekladom licencovaného jazyka. Dostanú pozvánku a rozhodnú sa sami.",
   "org.translators.share": "Podiel (max. {budget} %)",
   "org.translators.assign": "Poveriť prekladateľa",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

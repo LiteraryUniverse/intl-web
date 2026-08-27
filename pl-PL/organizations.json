@@ -174,5 +174,6 @@
   "org.translators.intro": "Wyznacz swoich członków do tłumaczenia licencjonowanego języka. Otrzymują zaproszenie i sami decydują.",
   "org.translators.share": "Udział (maks. {budget}%)",
   "org.translators.assign": "Wyznacz tłumacza",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

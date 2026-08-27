@@ -174,5 +174,6 @@
   "org.translators.intro": "Tunjuk anggota sampeyan kanggo nerjemahake basa sing dilisensi. Dheweke bakal nampa undhangan lan mutusake dhewe.",
   "org.translators.share": "Bagean (paling akeh {budget}%)",
   "org.translators.assign": "Tunjuk penerjemah",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

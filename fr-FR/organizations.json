@@ -174,5 +174,6 @@
   "org.translators.intro": "Désignez vos membres pour traduire une langue sous licence. Ils reçoivent une invitation et décident eux-mêmes.",
   "org.translators.share": "Part (max. {budget} %)",
   "org.translators.assign": "Désigner un traducteur",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

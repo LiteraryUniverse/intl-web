@@ -174,5 +174,6 @@
   "org.translators.intro": "დანიშნეთ თქვენი წევრები ლიცენზირებული ენის სათარგმნად. ისინი მიიღებენ მოწვევას და თავად გადაწყვეტენ.",
   "org.translators.share": "წილი (მაქს. {budget}%)",
   "org.translators.assign": "მთარგმნელის დანიშვნა",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

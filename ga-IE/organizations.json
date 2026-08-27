@@ -174,5 +174,6 @@
   "org.translators.intro": "Ceap do bhaill chun teanga cheadúnaithe a aistriú. Faigheann siad cuireadh agus déanann siad a gcinneadh féin.",
   "org.translators.share": "Sciar (uasmhéid {budget}%)",
   "org.translators.assign": "Ceap aistritheoir",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

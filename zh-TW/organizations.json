@@ -174,5 +174,6 @@
   "org.translators.intro": "指派成員翻譯已授權的語言。他們會收到邀請並自行決定。",
   "org.translators.share": "分潤 (最多 {budget}%)",
   "org.translators.assign": "指派譯者",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

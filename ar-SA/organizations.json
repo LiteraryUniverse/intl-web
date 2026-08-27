@@ -174,5 +174,6 @@
   "org.translators.intro": "عيّن أعضاءك لترجمة لغة مرخّصة. يتلقون دعوة ويقرّرون بأنفسهم.",
   "org.translators.share": "الحصة (بحد أقصى {budget}%)",
   "org.translators.assign": "تعيين مترجم",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

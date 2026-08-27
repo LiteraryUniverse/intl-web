@@ -174,5 +174,6 @@
   "org.translators.intro": "Udpeg dine medlemmer til at oversætte et licenseret sprog. De modtager en invitation og beslutter selv.",
   "org.translators.share": "Andel (maks. {budget}%)",
   "org.translators.assign": "Udpeg oversætter",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

@@ -454,5 +454,6 @@
   "plans.org.feature.workshop": "Organization workshop (stories & universes)",
   "plans.org.corporate.negotiated": "Negotiated seats, features and licensing terms",
   "plans.org.corporate.invoicing": "Invoicing and bank transfer",
-  "plans.org.addon.price": "{addon} (+{price})"
+  "plans.org.addon.price": "{addon} (+{price})",
+  "plans.org.price.from": "From {price}"
 }

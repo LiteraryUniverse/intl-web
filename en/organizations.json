@@ -175,5 +175,6 @@
   "org.translators.share": "Share (max {budget}%)",
   "org.translators.assign": "Assign translator",
   "org.payouts.requiredForPaidFeatures": "Set up organization payouts first — see the Payouts tab in organization settings. Licences, subscription tiers and the fan club all pay out through your organization's Stripe account.",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

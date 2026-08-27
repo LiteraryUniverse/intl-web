@@ -174,5 +174,6 @@
   "org.translators.intro": "라이선스를 받은 언어를 번역할 구성원을 지정하세요. 구성원은 초대를 받고 직접 결정합니다.",
   "org.translators.share": "몫 (최대 {budget}%)",
   "org.translators.assign": "번역자 지정",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

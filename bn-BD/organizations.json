@@ -174,5 +174,6 @@
   "org.translators.intro": "লাইসেন্স করা একটি ভাষা অনুবাদ করতে আপনার সদস্যদের নিযুক্ত করুন। তাঁরা একটি আমন্ত্রণ পান এবং নিজেরাই সিদ্ধান্ত নেন।",
   "org.translators.share": "অংশ (সর্বোচ্চ {budget}%)",
   "org.translators.assign": "অনুবাদক নিযুক্ত করুন",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }

@@ -174,5 +174,6 @@
   "org.translators.intro": "लाइसेंस प्राप्त भाषा का अनुवाद करने के लिए अपने सदस्यों को नियुक्त करें। उन्हें आमंत्रण मिलता है और वे स्वयं निर्णय लेते हैं।",
   "org.translators.share": "हिस्सा (अधिकतम {budget}%)",
   "org.translators.assign": "अनुवादक नियुक्त करें",
-  "org.establish": "Establish an organization"
+  "org.establish": "Establish an organization",
+  "org.admin.features.api": "API access (organization & blog)"
 }
