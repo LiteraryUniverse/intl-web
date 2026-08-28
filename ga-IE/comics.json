@@ -195,5 +195,7 @@
   "comics.volume.to": "Go caibidil",
   "comics.volumes": "Imleabhair",
   "comics.volumes.empty": "Níl aon imleabhar sainithe.",
-  "comics.volumesHelp": "Díol raonta caibidlí mar imleabhair. Tá uimhreacha na gcaibidlí san áireamh agus níor cheart do na raonta forluí."
+  "comics.volumesHelp": "Díol raonta caibidlí mar imleabhair. Tá uimhreacha na gcaibidlí san áireamh agus níor cheart do na raonta forluí.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

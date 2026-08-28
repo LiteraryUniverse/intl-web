@@ -195,5 +195,7 @@
   "comics.volume.to": "Đến chương",
   "comics.volumes": "Các tập",
   "comics.volumes.empty": "Chưa định nghĩa tập nào.",
-  "comics.volumesHelp": "Bán các khoảng chương dưới dạng tập. Số chương bao gồm cả hai đầu và các khoảng không được chồng lấn."
+  "comics.volumesHelp": "Bán các khoảng chương dưới dạng tập. Số chương bao gồm cả hai đầu và các khoảng không được chồng lấn.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

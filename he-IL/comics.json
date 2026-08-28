@@ -195,5 +195,7 @@
   "comics.volume.to": "עד פרק",
   "comics.volumes": "כרכים",
   "comics.volumes.empty": "לא הוגדרו כרכים.",
-  "comics.volumesHelp": "מכרו טווחי פרקים ככרכים. מספרי הפרקים כלולים והטווחים אינם יכולים לחפוף."
+  "comics.volumesHelp": "מכרו טווחי פרקים ככרכים. מספרי הפרקים כלולים והטווחים אינם יכולים לחפוף.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

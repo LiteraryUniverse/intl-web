@@ -195,5 +195,7 @@
   "comics.volume.to": "Til kapitel",
   "comics.volumes": "Bind",
   "comics.volumes.empty": "Ingen bind defineret.",
-  "comics.volumesHelp": "Sælg kapitelintervaller som bind. Kapitelnumre er inklusive, og intervaller må ikke overlappe."
+  "comics.volumesHelp": "Sælg kapitelintervaller som bind. Kapitelnumre er inklusive, og intervaller må ikke overlappe.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

@@ -195,5 +195,7 @@
   "comics.volume.to": "ถึงตอน",
   "comics.volumes": "เล่ม",
   "comics.volumes.empty": "ยังไม่ได้กำหนดเล่ม",
-  "comics.volumesHelp": "ขายช่วงตอนเป็นเล่ม หมายเลขตอนนับรวมปลายทั้งสอง และช่วงต้องไม่ทับซ้อนกัน"
+  "comics.volumesHelp": "ขายช่วงตอนเป็นเล่ม หมายเลขตอนนับรวมปลายทั้งสอง และช่วงต้องไม่ทับซ้อนกัน",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

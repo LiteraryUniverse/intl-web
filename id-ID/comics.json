@@ -195,5 +195,7 @@
   "comics.volume.to": "Sampai bab",
   "comics.volumes": "Volume",
   "comics.volumes.empty": "Belum ada volume yang ditentukan.",
-  "comics.volumesHelp": "Jual rentang bab sebagai volume. Nomor bab bersifat inklusif dan rentang tidak boleh tumpang tindih."
+  "comics.volumesHelp": "Jual rentang bab sebagai volume. Nomor bab bersifat inklusif dan rentang tidak boleh tumpang tindih.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

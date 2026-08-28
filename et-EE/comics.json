@@ -195,5 +195,7 @@
   "comics.volume.to": "Kuni peatükini",
   "comics.volumes": "Köited",
   "comics.volumes.empty": "Köiteid pole määratud.",
-  "comics.volumesHelp": "Müü peatükivahemikke köidetena. Peatükinumbrid on kaasavad ja vahemikud ei tohi kattuda."
+  "comics.volumesHelp": "Müü peatükivahemikke köidetena. Peatükinumbrid on kaasavad ja vahemikud ei tohi kattuda.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

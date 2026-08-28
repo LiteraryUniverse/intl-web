@@ -195,5 +195,7 @@
   "comics.volume.to": "അധ്യായം വരെ",
   "comics.volumes": "വോള്യങ്ങൾ",
   "comics.volumes.empty": "വോള്യങ്ങളൊന്നും നിർവചിച്ചിട്ടില്ല.",
-  "comics.volumesHelp": "അധ്യായ ശ്രേണികൾ വോള്യങ്ങളായി വിൽക്കുക. അധ്യായ നമ്പറുകൾ ഉൾപ്പെടുന്നു, ശ്രേണികൾ ഓവർലാപ്പ് ചെയ്യരുത്."
+  "comics.volumesHelp": "അധ്യായ ശ്രേണികൾ വോള്യങ്ങളായി വിൽക്കുക. അധ്യായ നമ്പറുകൾ ഉൾപ്പെടുന്നു, ശ്രേണികൾ ഓവർലാപ്പ് ചെയ്യരുത്.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

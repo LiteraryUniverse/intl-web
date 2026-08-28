@@ -195,5 +195,7 @@
   "comics.volume.to": "Do rozdziału",
   "comics.volumes": "Tomy",
   "comics.volumes.empty": "Nie zdefiniowano tomów.",
-  "comics.volumesHelp": "Sprzedawaj zakresy rozdziałów jako tomy. Numery rozdziałów są włączne, a zakresy nie mogą się nakładać."
+  "comics.volumesHelp": "Sprzedawaj zakresy rozdziałów jako tomy. Numery rozdziałów są włączne, a zakresy nie mogą się nakładać.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

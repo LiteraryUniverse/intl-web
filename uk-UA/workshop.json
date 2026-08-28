@@ -806,5 +806,7 @@
   "legal.licenseAcceptedOn": "Прийнято {date}",
   "legal.endLicense": "Завершити ліцензію",
   "workshop.license.adoptOrg.proposed": "Ваш запит надіслано до {org}. Ліцензія набуде чинності після його прийняття; ви отримаєте сповіщення.",
-  "workshop.license.requiresApproval": "Ви не є учасником {org} — збереження надішле їй запит ліцензії, і ліцензія набуде чинності лише після прийняття."
+  "workshop.license.requiresApproval": "Ви не є учасником {org} — збереження надішле їй запит ліцензії, і ліцензія набуде чинності лише після прийняття.",
+  "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
 }

@@ -195,5 +195,7 @@
   "comics.volume.to": "Tot hoofdstuk",
   "comics.volumes": "Delen",
   "comics.volumes.empty": "Geen delen gedefinieerd.",
-  "comics.volumesHelp": "Verkoop hoofdstukbereiken als delen. Hoofdstuknummers zijn inclusief en bereiken mogen niet overlappen."
+  "comics.volumesHelp": "Verkoop hoofdstukbereiken als delen. Hoofdstuknummers zijn inclusief en bereiken mogen niet overlappen.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

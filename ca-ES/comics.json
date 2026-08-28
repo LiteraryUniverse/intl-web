@@ -195,5 +195,7 @@
   "comics.volume.to": "Fins al capítol",
   "comics.volumes": "Volums",
   "comics.volumes.empty": "No hi ha cap volum definit.",
-  "comics.volumesHelp": "Ven intervals de capítols com a volums. Els números de capítol són inclusius i els intervals no s’han de solapar."
+  "comics.volumesHelp": "Ven intervals de capítols com a volums. Els números de capítol són inclusius i els intervals no s’han de solapar.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

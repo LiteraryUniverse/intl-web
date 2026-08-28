@@ -195,5 +195,7 @@
   "comics.volume.to": "Ĝis ĉapitro",
   "comics.volumes": "Volumoj",
   "comics.volumes.empty": "Neniuj volumoj difinitaj.",
-  "comics.volumesHelp": "Vendu ĉapitrajn intervalojn kiel volumojn. Ĉapitraj numeroj estas inkluzivaj kaj intervaloj ne devas interkovri."
+  "comics.volumesHelp": "Vendu ĉapitrajn intervalojn kiel volumojn. Ĉapitraj numeroj estas inkluzivaj kaj intervaloj ne devas interkovri.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

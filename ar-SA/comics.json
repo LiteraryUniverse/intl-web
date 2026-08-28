@@ -195,5 +195,7 @@
   "comics.volume.to": "إلى الفصل",
   "comics.volumes": "المجلدات",
   "comics.volumes.empty": "لم تُحدد أي مجلدات.",
-  "comics.volumesHelp": "بِع نطاقات الفصول كمجلدات. أرقام الفصول شاملة ويجب ألا تتداخل النطاقات."
+  "comics.volumesHelp": "بِع نطاقات الفصول كمجلدات. أرقام الفصول شاملة ويجب ألا تتداخل النطاقات.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

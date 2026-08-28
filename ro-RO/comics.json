@@ -195,5 +195,7 @@
   "comics.volume.to": "Până la capitolul",
   "comics.volumes": "Volume",
   "comics.volumes.empty": "Niciun volum definit.",
-  "comics.volumesHelp": "Vinde intervale de capitole ca volume. Numerele capitolelor sunt incluse, iar intervalele nu trebuie să se suprapună."
+  "comics.volumesHelp": "Vinde intervale de capitole ca volume. Numerele capitolelor sunt incluse, iar intervalele nu trebuie să se suprapună.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

@@ -195,5 +195,7 @@
   "comics.volume.to": "Bis Kapitel",
   "comics.volumes": "Bände",
   "comics.volumes.empty": "Keine Bände definiert.",
-  "comics.volumesHelp": "Verkaufe Kapitelbereiche als Bände. Die Kapitelnummern sind inklusive und die Bereiche dürfen sich nicht überschneiden."
+  "comics.volumesHelp": "Verkaufe Kapitelbereiche als Bände. Die Kapitelnummern sind inklusive und die Bereiche dürfen sich nicht überschneiden.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

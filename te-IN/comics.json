@@ -195,5 +195,7 @@
   "comics.volume.to": "అధ్యాయం వరకు",
   "comics.volumes": "వాల్యూమ్‌లు",
   "comics.volumes.empty": "వాల్యూమ్‌లు ఏవీ నిర్వచించబడలేదు.",
-  "comics.volumesHelp": "అధ్యాయ శ్రేణులను వాల్యూమ్‌లుగా అమ్మండి. అధ్యాయ సంఖ్యలు కలుపుకొని ఉంటాయి, మరియు శ్రేణులు అతివ్యాప్తి చెందకూడదు."
+  "comics.volumesHelp": "అధ్యాయ శ్రేణులను వాల్యూమ్‌లుగా అమ్మండి. అధ్యాయ సంఖ్యలు కలుపుకొని ఉంటాయి, మరియు శ్రేణులు అతివ్యాప్తి చెందకూడదు.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

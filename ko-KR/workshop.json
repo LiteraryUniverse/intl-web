@@ -806,5 +806,7 @@
   "legal.licenseAcceptedOn": "{date}에 수락됨",
   "legal.endLicense": "라이선스 종료",
   "workshop.license.adoptOrg.proposed": "요청이 {org}에 전송되었습니다. 수락되면 라이선스가 적용되며 알림을 받게 됩니다.",
-  "workshop.license.requiresApproval": "{org}의 구성원이 아닙니다. 저장하면 라이선스 요청이 전송되며, 수락된 후에만 라이선스가 적용됩니다."
+  "workshop.license.requiresApproval": "{org}의 구성원이 아닙니다. 저장하면 라이선스 요청이 전송되며, 수락된 후에만 라이선스가 적용됩니다.",
+  "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
 }

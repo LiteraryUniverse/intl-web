@@ -195,5 +195,7 @@
   "comics.volume.to": "Ka bab",
   "comics.volumes": "Volume",
   "comics.volumes.empty": "Nenten wenten volume kadefinisiang.",
-  "comics.volumesHelp": "Adol rentang bab dados volume. Nomer bab kalebet lan rentang nenten dados matumpang tindih."
+  "comics.volumesHelp": "Adol rentang bab dados volume. Nomer bab kalebet lan rentang nenten dados matumpang tindih.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

@@ -195,5 +195,7 @@
   "comics.volume.to": "Au chapitre",
   "comics.volumes": "Volumes",
   "comics.volumes.empty": "Aucun volume défini.",
-  "comics.volumesHelp": "Vendez des plages de chapitres sous forme de volumes. Les numéros de chapitres sont inclus et les plages ne doivent pas se chevaucher."
+  "comics.volumesHelp": "Vendez des plages de chapitres sous forme de volumes. Les numéros de chapitres sont inclus et les plages ne doivent pas se chevaucher.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

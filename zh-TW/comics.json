@@ -195,5 +195,7 @@
   "comics.volume.to": "結束章節",
   "comics.volumes": "卷",
   "comics.volumes.empty": "尚未定義任何卷。",
-  "comics.volumesHelp": "以卷為單位銷售章節範圍。章節編號含頭尾，且範圍不得重疊。"
+  "comics.volumesHelp": "以卷為單位銷售章節範圍。章節編號含頭尾，且範圍不得重疊。",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

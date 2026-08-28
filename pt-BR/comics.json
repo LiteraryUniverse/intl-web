@@ -195,5 +195,7 @@
   "comics.volume.to": "Até o capítulo",
   "comics.volumes": "Volumes",
   "comics.volumes.empty": "Nenhum volume definido.",
-  "comics.volumesHelp": "Venda intervalos de capítulos como volumes. Os números dos capítulos são inclusivos e os intervalos não podem se sobrepor."
+  "comics.volumesHelp": "Venda intervalos de capítulos como volumes. Os números dos capítulos são inclusivos e os intervalos não podem se sobrepor.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

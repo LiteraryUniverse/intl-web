@@ -195,5 +195,7 @@
   "comics.volume.to": "fanmo pagbu",
   "comics.volumes": "vluma",
   "comics.volumes.empty": "noda vluma",
-  "comics.volumesHelp": "ko vecnu lo pagbu porsi ta'i lo vluma. lo pagbu namcu cu se vau gi'e lo porsi cu bilga lo nu na simxu kuspe"
+  "comics.volumesHelp": "ko vecnu lo pagbu porsi ta'i lo vluma. lo pagbu namcu cu se vau gi'e lo porsi cu bilga lo nu na simxu kuspe",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

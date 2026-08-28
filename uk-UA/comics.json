@@ -195,5 +195,7 @@
   "comics.volume.to": "До розділу",
   "comics.volumes": "Томи",
   "comics.volumes.empty": "Томи не визначено.",
-  "comics.volumesHelp": "Продавайте діапазони розділів як томи. Номери розділів включно, і діапазони не повинні перетинатися."
+  "comics.volumesHelp": "Продавайте діапазони розділів як томи. Номери розділів включно, і діапазони не повинні перетинатися.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

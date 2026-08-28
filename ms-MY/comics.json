@@ -195,5 +195,7 @@
   "comics.volume.to": "Hingga bab",
   "comics.volumes": "Jilid",
   "comics.volumes.empty": "Tiada jilid ditakrifkan.",
-  "comics.volumesHelp": "Jual julat bab sebagai jilid. Nombor bab adalah inklusif dan julat tidak boleh bertindih."
+  "comics.volumesHelp": "Jual julat bab sebagai jilid. Nombor bab adalah inklusif dan julat tidak boleh bertindih.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

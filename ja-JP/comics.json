@@ -195,5 +195,7 @@
   "comics.volume.to": "終了章",
   "comics.volumes": "巻",
   "comics.volumes.empty": "巻が定義されていません。",
-  "comics.volumesHelp": "章の範囲を巻として販売します。章番号は範囲に含まれ、範囲同士が重複してはいけません。"
+  "comics.volumesHelp": "章の範囲を巻として販売します。章番号は範囲に含まれ、範囲同士が重複してはいけません。",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

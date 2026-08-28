@@ -195,5 +195,7 @@
   "comics.volume.to": "Έως κεφάλαιο",
   "comics.volumes": "Τόμοι",
   "comics.volumes.empty": "Δεν έχουν οριστεί τόμοι.",
-  "comics.volumesHelp": "Πουλήστε εύρη κεφαλαίων ως τόμους. Οι αριθμοί κεφαλαίων είναι συμπεριληπτικοί και τα εύρη δεν πρέπει να επικαλύπτονται."
+  "comics.volumesHelp": "Πουλήστε εύρη κεφαλαίων ως τόμους. Οι αριθμοί κεφαλαίων είναι συμπεριληπτικοί και τα εύρη δεν πρέπει να επικαλύπτονται.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

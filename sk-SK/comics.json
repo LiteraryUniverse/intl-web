@@ -195,5 +195,7 @@
   "comics.volume.to": "Po kapitolu",
   "comics.volumes": "Zväzky",
   "comics.volumes.empty": "Nie sú definované žiadne zväzky.",
-  "comics.volumesHelp": "Predávajte rozsahy kapitol ako zväzky. Čísla kapitol sú vrátane a rozsahy sa nesmú prekrývať."
+  "comics.volumesHelp": "Predávajte rozsahy kapitol ako zväzky. Čísla kapitol sú vrátane a rozsahy sa nesmú prekrývať.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

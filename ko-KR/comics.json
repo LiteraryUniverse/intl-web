@@ -195,5 +195,7 @@
   "comics.volume.to": "끝 챕터",
   "comics.volumes": "볼륨",
   "comics.volumes.empty": "정의된 볼륨이 없습니다.",
-  "comics.volumesHelp": "챕터 범위를 볼륨으로 판매하세요. 챕터 번호는 포함되며 범위는 겹치면 안 됩니다."
+  "comics.volumesHelp": "챕터 범위를 볼륨으로 판매하세요. 챕터 번호는 포함되며 범위는 겹치면 안 됩니다.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

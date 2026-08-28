@@ -195,5 +195,7 @@
   "comics.volume.to": "Iki skyriaus",
   "comics.volumes": "Tomai",
   "comics.volumes.empty": "Tomų nenustatyta.",
-  "comics.volumesHelp": "Parduokite skyrių intervalus kaip tomus. Skyrių numeriai įskaitomi, o intervalai negali persidengti."
+  "comics.volumesHelp": "Parduokite skyrių intervalus kaip tomus. Skyrių numeriai įskaitomi, o intervalai negali persidengti.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

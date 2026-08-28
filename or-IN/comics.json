@@ -195,5 +195,7 @@
   "comics.volume.to": "ଅଧ୍ୟାୟ ପର୍ଯ୍ୟନ୍ତ",
   "comics.volumes": "ଭଲ୍ୟୁମ୍‌ଗୁଡ଼ିକ",
   "comics.volumes.empty": "କୌଣସି ଭଲ୍ୟୁମ୍ ପରିଭାଷିତ ନାହିଁ।",
-  "comics.volumesHelp": "ଅଧ୍ୟାୟ ପରିସରକୁ ଭଲ୍ୟୁମ୍ ଭାବେ ବିକ୍ରି କରନ୍ତୁ। ଅଧ୍ୟାୟ ସଂଖ୍ୟା ଅନ୍ତର୍ଭୁକ୍ତ ଏବଂ ପରିସର ଓଭରଲ୍ୟାପ୍ ହେବା ଉଚିତ ନୁହେଁ।"
+  "comics.volumesHelp": "ଅଧ୍ୟାୟ ପରିସରକୁ ଭଲ୍ୟୁମ୍ ଭାବେ ବିକ୍ରି କରନ୍ତୁ। ଅଧ୍ୟାୟ ସଂଖ୍ୟା ଅନ୍ତର୍ଭୁକ୍ତ ଏବଂ ପରିସର ଓଭରଲ୍ୟାପ୍ ହେବା ଉଚିତ ନୁହେଁ।",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

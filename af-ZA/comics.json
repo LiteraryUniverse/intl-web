@@ -195,5 +195,7 @@
   "comics.volume.to": "Tot hoofstuk",
   "comics.volumes": "Volumes",
   "comics.volumes.empty": "Geen volumes gedefinieer nie.",
-  "comics.volumesHelp": "Verkoop hoofstukreekse as volumes. Hoofstuknommers is insluitend en reekse mag nie oorvleuel nie."
+  "comics.volumesHelp": "Verkoop hoofstukreekse as volumes. Hoofstuknommers is insluitend en reekse mag nie oorvleuel nie.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

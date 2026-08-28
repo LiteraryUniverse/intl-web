@@ -806,5 +806,7 @@
   "legal.licenseAcceptedOn": "Geaccepteerd op {date}",
   "legal.endLicense": "Licentie beëindigen",
   "workshop.license.adoptOrg.proposed": "Je verzoek is naar {org} gestuurd. De licentie gaat in zodra ze het accepteren; je krijgt bericht.",
-  "workshop.license.requiresApproval": "Je bent geen lid van {org} — opslaan stuurt hen een licentieverzoek, en de licentie gaat pas in na acceptatie."
+  "workshop.license.requiresApproval": "Je bent geen lid van {org} — opslaan stuurt hen een licentieverzoek, en de licentie gaat pas in na acceptatie.",
+  "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
 }

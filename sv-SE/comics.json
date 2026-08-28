@@ -195,5 +195,7 @@
   "comics.volume.to": "Till kapitel",
   "comics.volumes": "Volymer",
   "comics.volumes.empty": "Inga volymer definierade.",
-  "comics.volumesHelp": "Sälj kapitelintervall som volymer. Kapitelnummer är inklusive och intervall får inte överlappa."
+  "comics.volumesHelp": "Sälj kapitelintervall som volymer. Kapitelnummer är inklusive och intervall får inte överlappa.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

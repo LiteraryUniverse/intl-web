@@ -195,5 +195,7 @@
   "comics.volume.to": "অধ্যায়লৈ",
   "comics.volumes": "খণ্ডসমূহ",
   "comics.volumes.empty": "কোনো খণ্ড নিৰ্ধাৰণ কৰা হোৱা নাই।",
-  "comics.volumesHelp": "অধ্যায়ৰ পৰিসৰ খণ্ড হিচাপে বিক্ৰী কৰক। অধ্যায় সংখ্যা অন্তৰ্ভুক্ত আৰু পৰিসৰবোৰ ওভাৰলেপ নহ'ব লাগিব।"
+  "comics.volumesHelp": "অধ্যায়ৰ পৰিসৰ খণ্ড হিচাপে বিক্ৰী কৰক। অধ্যায় সংখ্যা অন্তৰ্ভুক্ত আৰু পৰিসৰবোৰ ওভাৰলেপ নহ'ব লাগিব।",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

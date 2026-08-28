@@ -195,5 +195,7 @@
   "comics.volume.to": "ལེའུ་བར",
   "comics.volumes": "པོད",
   "comics.volumes.empty": "པོད་གཏན་འཁེལ་མེད།",
-  "comics.volumesHelp": "ལེའུའི་ཁྱབ་ཚད་པོད་ཚུལ་དུ་ཚོང་། ལེའུ་ཨང་གྲངས་ནང་ཚུད་ཡིན་ཞིང་ཁྱབ་ཚད་ཕན་ཚུན་མི་མཉམ་པ་དགོས།"
+  "comics.volumesHelp": "ལེའུའི་ཁྱབ་ཚད་པོད་ཚུལ་དུ་ཚོང་། ལེའུ་ཨང་གྲངས་ནང་ཚུད་ཡིན་ཞིང་ཁྱབ་ཚད་ཕན་ཚུན་མི་མཉམ་པ་དགོས།",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

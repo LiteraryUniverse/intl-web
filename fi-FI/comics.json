@@ -195,5 +195,7 @@
   "comics.volume.to": "Lukuun",
   "comics.volumes": "Niteet",
   "comics.volumes.empty": "Niteitä ei ole määritetty.",
-  "comics.volumesHelp": "Myy lukualueita niteinä. Lukunumerot ovat mukaan lukevia, eivätkä alueet saa mennä päällekkäin."
+  "comics.volumesHelp": "Myy lukualueita niteinä. Lukunumerot ovat mukaan lukevia, eivätkä alueet saa mennä päällekkäin.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

@@ -195,5 +195,7 @@
   "comics.volume.to": "თავამდე",
   "comics.volumes": "ტომები",
   "comics.volumes.empty": "ტომები არ არის განსაზღვრული.",
-  "comics.volumesHelp": "გაყიდეთ თავების დიაპაზონები ტომების სახით. თავების ნომრები ჩართულია და დიაპაზონები არ უნდა გადაფარავდნენ ერთმანეთს."
+  "comics.volumesHelp": "გაყიდეთ თავების დიაპაზონები ტომების სახით. თავების ნომრები ჩართულია და დიაპაზონები არ უნდა გადაფარავდნენ ერთმანეთს.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

@@ -806,5 +806,7 @@
   "legal.licenseAcceptedOn": "於 {date} 接受",
   "legal.endLicense": "結束許可證",
   "workshop.license.adoptOrg.proposed": "您的申請已送至{org}。待其接受後授權即生效，屆時會通知您。",
-  "workshop.license.requiresApproval": "您不是{org}的成員——儲存後會向其送出授權申請，授權僅在對方接受後才生效。"
+  "workshop.license.requiresApproval": "您不是{org}的成員——儲存後會向其送出授權申請，授權僅在對方接受後才生效。",
+  "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
 }

@@ -195,5 +195,7 @@
   "comics.volume.to": "अध्याय धरि",
   "comics.volumes": "खंड",
   "comics.volumes.empty": "कोनो खंड परिभाषित नहि।",
-  "comics.volumesHelp": "अध्याय श्रेणी सभकेँ खंडक रूपमे बेचू। अध्याय संख्या समावेशी अछि आ श्रेणी सभ ओवरलैप नहि होएब चाही।"
+  "comics.volumesHelp": "अध्याय श्रेणी सभकेँ खंडक रूपमे बेचू। अध्याय संख्या समावेशी अछि आ श्रेणी सभ ओवरलैप नहि होएब चाही।",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

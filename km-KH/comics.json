@@ -195,5 +195,7 @@
   "comics.volume.to": "ដល់ជំពូក",
   "comics.volumes": "ភាគ",
   "comics.volumes.empty": "មិនទាន់កំណត់ភាគទេ។",
-  "comics.volumesHelp": "លក់ជួរជំពូកជាភាគ។ លេខជំពូករាប់បញ្ចូល ហើយជួរមិនត្រូវត្រួតគ្នាទេ។"
+  "comics.volumesHelp": "លក់ជួរជំពូកជាភាគ។ លេខជំពូករាប់បញ្ចូល ហើយជួរមិនត្រូវត្រួតគ្នាទេ។",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

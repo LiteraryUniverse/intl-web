@@ -806,5 +806,7 @@
   "legal.licenseAcceptedOn": "Accettata il {date}",
   "legal.endLicense": "Termina licenza",
   "workshop.license.adoptOrg.proposed": "La tua richiesta è stata inviata a {org}. La licenza si applicherà quando verrà accettata; riceverai una notifica.",
-  "workshop.license.requiresApproval": "Non sei membro di {org}: salvando invii una richiesta di licenza, e la licenza si applica solo dopo l’accettazione."
+  "workshop.license.requiresApproval": "Non sei membro di {org}: salvando invii una richiesta di licenza, e la licenza si applica solo dopo l’accettazione.",
+  "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
 }

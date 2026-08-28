@@ -195,5 +195,7 @@
   "comics.volume.to": "ਅਧਿਆਇ ਤੱਕ",
   "comics.volumes": "ਵੌਲਿਊਮ",
   "comics.volumes.empty": "ਕੋਈ ਵੌਲਿਊਮ ਪਰਿਭਾਸ਼ਿਤ ਨਹੀਂ।",
-  "comics.volumesHelp": "ਅਧਿਆਇ ਰੇਂਜਾਂ ਨੂੰ ਵੌਲਿਊਮਾਂ ਵਜੋਂ ਵੇਚੋ। ਅਧਿਆਇ ਨੰਬਰ ਸ਼ਾਮਲ ਹਨ ਅਤੇ ਰੇਂਜਾਂ ਓਵਰਲੈਪ ਨਹੀਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ।"
+  "comics.volumesHelp": "ਅਧਿਆਇ ਰੇਂਜਾਂ ਨੂੰ ਵੌਲਿਊਮਾਂ ਵਜੋਂ ਵੇਚੋ। ਅਧਿਆਇ ਨੰਬਰ ਸ਼ਾਮਲ ਹਨ ਅਤੇ ਰੇਂਜਾਂ ਓਵਰਲੈਪ ਨਹੀਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ।",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

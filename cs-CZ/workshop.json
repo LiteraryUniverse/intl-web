@@ -806,5 +806,7 @@
   "legal.licenseAcceptedOn": "Přijato {date}",
   "legal.endLicense": "Ukončit licenci",
   "workshop.license.adoptOrg.proposed": "Vaše žádost byla odeslána organizaci {org}. Licence začne platit, jakmile ji přijme; dáme vám vědět.",
-  "workshop.license.requiresApproval": "Nejste členem organizace {org} — uložením jí odešlete žádost o licenci a licence začne platit až po jejím přijetí."
+  "workshop.license.requiresApproval": "Nejste členem organizace {org} — uložením jí odešlete žádost o licenci a licence začne platit až po jejím přijetí.",
+  "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
 }

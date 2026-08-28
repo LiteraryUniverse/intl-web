@@ -806,5 +806,7 @@
   "legal.licenseAcceptedOn": "{date} に承諾",
   "legal.endLicense": "ライセンスを終了",
   "workshop.license.adoptOrg.proposed": "申請を{org}に送信しました。承諾されるとライセンスが適用され、通知が届きます。",
-  "workshop.license.requiresApproval": "あなたは{org}のメンバーではありません。保存するとライセンス申請が送信され、承諾後にのみライセンスが適用されます。"
+  "workshop.license.requiresApproval": "あなたは{org}のメンバーではありません。保存するとライセンス申請が送信され、承諾後にのみライセンスが適用されます。",
+  "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
 }

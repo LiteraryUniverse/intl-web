@@ -195,5 +195,7 @@
   "comics.volume.to": "অধ্যায় পর্যন্ত",
   "comics.volumes": "খণ্ড",
   "comics.volumes.empty": "কোনো খণ্ড নির্ধারিত হয়নি।",
-  "comics.volumesHelp": "অধ্যায়ের পরিসর খণ্ড হিসাবে বিক্রি করুন। অধ্যায় সংখ্যা অন্তর্ভুক্ত এবং পরিসরগুলো ওভারল্যাপ করা যাবে না।"
+  "comics.volumesHelp": "অধ্যায়ের পরিসর খণ্ড হিসাবে বিক্রি করুন। অধ্যায় সংখ্যা অন্তর্ভুক্ত এবং পরিসরগুলো ওভারল্যাপ করা যাবে না।",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

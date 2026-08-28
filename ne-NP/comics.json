@@ -195,5 +195,7 @@
   "comics.volume.to": "अध्यायसम्म",
   "comics.volumes": "भोल्युमहरू",
   "comics.volumes.empty": "कुनै भोल्युम परिभाषित छैन।",
-  "comics.volumesHelp": "अध्याय दायराहरूलाई भोल्युमको रूपमा बेच्नुहोस्। अध्याय संख्याहरू समावेशी छन् र दायराहरू ओभरल्याप हुनु हुँदैन।"
+  "comics.volumesHelp": "अध्याय दायराहरूलाई भोल्युमको रूपमा बेच्नुहोस्। अध्याय संख्याहरू समावेशी छन् र दायराहरू ओभरल्याप हुनु हुँदैन।",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }

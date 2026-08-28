@@ -195,5 +195,7 @@
   "comics.volume.to": "அத்தியாயம் வரை",
   "comics.volumes": "தொகுதிகள்",
   "comics.volumes.empty": "தொகுதிகள் எதுவும் வரையறுக்கப்படவில்லை.",
-  "comics.volumesHelp": "அத்தியாய வரம்புகளைத் தொகுதிகளாக விற்கவும். அத்தியாய எண்கள் உள்ளடக்கப்பட்டவை, மேலும் வரம்புகள் ஒன்றுடன் ஒன்று மேவக்கூடாது."
+  "comics.volumesHelp": "அத்தியாய வரம்புகளைத் தொகுதிகளாக விற்கவும். அத்தியாய எண்கள் உள்ளடக்கப்பட்டவை, மேலும் வரம்புகள் ஒன்றுடன் ஒன்று மேவக்கூடாது.",
+  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
 }
