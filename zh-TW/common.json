@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "LU 宇宙搜尋",
   "seo.opensearch.users": "LU 使用者搜尋",
   "seo.universe.llms": "宇宙 LLMs.txt",
-  "seo.universe.encyclopediaLlms": "宇宙百科 LLMs.txt"
+  "seo.universe.encyclopediaLlms": "宇宙百科 LLMs.txt",
+  "common.legal.security": "Security"
 }

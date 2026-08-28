@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "Αναζήτηση σύμπαντων LU",
   "seo.opensearch.users": "Αναζήτηση χρηστών LU",
   "seo.universe.llms": "LLMs.txt σύμπαντος",
-  "seo.universe.encyclopediaLlms": "LLMs.txt εγκυκλοπαίδειας σύμπαντος"
+  "seo.universe.encyclopediaLlms": "LLMs.txt εγκυκλοπαίδειας σύμπαντος",
+  "common.legal.security": "Security"
 }

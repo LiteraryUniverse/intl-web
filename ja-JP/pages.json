@@ -169,5 +169,18 @@
   "mission.cultural.slop.text": "私たちはAIに反対しているわけではありません。いずれ一部のクリエイターが、本物の読者を持つ意義あるAI生成作品を生み出すと信じています。しかし現在の市場は、AIスロップ——労力が少なく大量生産された、特徴のない自動生成コンテンツ——にあふれており、発見機能を圧迫し、読者を疲弊させ、力のある著者が見つけられ、報われることを難しくしています。Literary Universeは、人間が書いたもの、AI支援、AI生成という分類を明確にラベル付けし、信頼と質のシグナルを優先する発見システム、大量生成投稿に対するアンチスパムルール、そして主要なショーケースでの人間によるキュレーションをもって、この問題に対処します。目的は技術を禁じることではなく、意義ある語りを守ることです。",
   "mission.cultural.politics.title": "政治的な揺さぶりへの耐性",
   "mission.cultural.politics.text": "私たちは、ミッションから注意をそらすような政治的・イデオロギー的アジェンダから距離を置きます。Literary Universeは、多様な視点を尊重しつつアクティビズムには与せず、創造性とプロフェッショナリズムの育成に集中します。ニュースで声高に叫ばれる多くのことや、モラル・パニックの多くは、結局のところ、人類の壮大な物語のなかでは一瞬の点滅、あるいは脚注程度のものに過ぎないことが少なくありません。だからこそ私たちは、芸術と伝統に焦点を合わせます。",
-  "homepage.title": "Marvel Cinematic Universe"
+  "homepage.title": "Marvel Cinematic Universe",
+  "security.title": "Security & Responsible Disclosure",
+  "security.desc": "How to report a security vulnerability in Literary Universe and what to expect from us.",
+  "security.summary": "<ul><li>Report vulnerabilities privately to security@literaryuniverse.com.</li><li>We acknowledge reports within 3 business days.</li><li>Good-faith research that follows this policy will not face legal action.</li><li>No monetary bounty; public credit on request.</li></ul>",
+  "security.report.title": "How to report",
+  "security.report.desc": "Email <a>security@literaryuniverse.com</a> with the affected URL or component, the steps to reproduce and the impact you observed, in English or Czech. Machine-readable contact details are published at <b>/.well-known/security.txt</b> (RFC 9116). Please do not open a public issue or post about it before we have responded.",
+  "security.scope.title": "Scope",
+  "security.scope.desc": "<ul><li>The web application at literaryuniverse.com and its APIs (GraphQL, DDP, /api).</li><li>The administration and support applications.</li><li>Our official mobile and browser integrations.</li></ul>Out of scope: third-party services we integrate (Stripe, sign-in providers), denial-of-service and volumetric attacks, social engineering of staff or users, and findings that require an already compromised device or account.",
+  "security.rules.title": "Rules of engagement",
+  "security.rules.desc": "<ul><li>Only test with accounts you own; never access, modify or delete other people's data.</li><li>Stop and report as soon as you can demonstrate the issue — do not exfiltrate data or pivot further.</li><li>Keep automated scanning well below our rate limits.</li><li>Do not disclose the issue publicly until we have confirmed a fix or 90 days have passed.</li></ul>",
+  "security.response.title": "What to expect",
+  "security.response.desc": "We acknowledge every report within 3 business days, keep you informed while we investigate, and aim to fix confirmed issues within 90 days depending on severity. We do not run a paid bug bounty; with your agreement we credit you on this page once the fix ships.",
+  "security.safeHarbor.title": "Safe harbour",
+  "security.safeHarbor.desc": "Research conducted in good faith and in line with this policy is authorised. We will not pursue legal action against you for it, and we will support you if a third party does."
 }

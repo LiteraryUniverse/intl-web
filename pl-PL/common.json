@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "Wyszukiwanie uniwersów LU",
   "seo.opensearch.users": "Wyszukiwanie użytkowników LU",
   "seo.universe.llms": "LLMs.txt uniwersum",
-  "seo.universe.encyclopediaLlms": "LLMs.txt encyklopedii uniwersum"
+  "seo.universe.encyclopediaLlms": "LLMs.txt encyklopedii uniwersum",
+  "common.legal.security": "Security"
 }

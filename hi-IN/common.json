@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "LU ब्रह्मांड खोज",
   "seo.opensearch.users": "LU उपयोगकर्ता खोज",
   "seo.universe.llms": "ब्रह्मांड LLMs.txt",
-  "seo.universe.encyclopediaLlms": "ब्रह्मांड विश्वकोश LLMs.txt"
+  "seo.universe.encyclopediaLlms": "ब्रह्मांड विश्वकोश LLMs.txt",
+  "common.legal.security": "Security"
 }

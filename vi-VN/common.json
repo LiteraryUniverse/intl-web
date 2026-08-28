@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "Tìm kiếm vũ trụ LU",
   "seo.opensearch.users": "Tìm kiếm người dùng LU",
   "seo.universe.llms": "LLMs.txt vũ trụ",
-  "seo.universe.encyclopediaLlms": "LLMs.txt bách khoa vũ trụ"
+  "seo.universe.encyclopediaLlms": "LLMs.txt bách khoa vũ trụ",
+  "common.legal.security": "Security"
 }

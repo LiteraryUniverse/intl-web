@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "LU 유니버스 검색",
   "seo.opensearch.users": "LU 사용자 검색",
   "seo.universe.llms": "유니버스 LLMs.txt",
-  "seo.universe.encyclopediaLlms": "유니버스 백과사전 LLMs.txt"
+  "seo.universe.encyclopediaLlms": "유니버스 백과사전 LLMs.txt",
+  "common.legal.security": "Security"
 }

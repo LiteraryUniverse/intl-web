@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "Hledání univerz LU",
   "seo.opensearch.users": "Hledání uživatelů LU",
   "seo.universe.llms": "LLMs.txt univerz",
-  "seo.universe.encyclopediaLlms": "LLMs.txt encyklopedie univerz"
+  "seo.universe.encyclopediaLlms": "LLMs.txt encyklopedie univerz",
+  "common.legal.security": "Security"
 }

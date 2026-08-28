@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "LUユニバース検索",
   "seo.opensearch.users": "LUユーザー検索",
   "seo.universe.llms": "ユニバース LLMs.txt",
-  "seo.universe.encyclopediaLlms": "ユニバース百科事典 LLMs.txt"
+  "seo.universe.encyclopediaLlms": "ユニバース百科事典 LLMs.txt",
+  "common.legal.security": "Security"
 }

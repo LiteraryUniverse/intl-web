@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "LU-univers-søk",
   "seo.opensearch.users": "LU-bruker-søk",
   "seo.universe.llms": "Univers LLMs.txt",
-  "seo.universe.encyclopediaLlms": "Univers-encyklopedi LLMs.txt"
+  "seo.universe.encyclopediaLlms": "Univers-encyklopedi LLMs.txt",
+  "common.legal.security": "Security"
 }

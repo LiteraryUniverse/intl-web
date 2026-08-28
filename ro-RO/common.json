@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "Căutare universuri LU",
   "seo.opensearch.users": "Căutare utilizatori LU",
   "seo.universe.llms": "LLMs.txt univers",
-  "seo.universe.encyclopediaLlms": "LLMs.txt enciclopedie univers"
+  "seo.universe.encyclopediaLlms": "LLMs.txt enciclopedie univers",
+  "common.legal.security": "Security"
 }

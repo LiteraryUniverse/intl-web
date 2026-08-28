@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "بحث أكوان LU",
   "seo.opensearch.users": "بحث مستخدمي LU",
   "seo.universe.llms": "LLMs.txt للكون",
-  "seo.universe.encyclopediaLlms": "LLMs.txt لموسوعة الكون"
+  "seo.universe.encyclopediaLlms": "LLMs.txt لموسوعة الكون",
+  "common.legal.security": "Security"
 }

@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "Pencarian alam semesta LU",
   "seo.opensearch.users": "Pencarian pengguna LU",
   "seo.universe.llms": "LLMs.txt alam semesta",
-  "seo.universe.encyclopediaLlms": "LLMs.txt ensiklopedia alam semesta"
+  "seo.universe.encyclopediaLlms": "LLMs.txt ensiklopedia alam semesta",
+  "common.legal.security": "Security"
 }

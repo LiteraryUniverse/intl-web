@@ -443,5 +443,6 @@
   "seo.opensearch.universes": "חיפוש יקומי LU",
   "seo.opensearch.users": "חיפוש משתמשי LU",
   "seo.universe.llms": "LLMs.txt של היקום",
-  "seo.universe.encyclopediaLlms": "LLMs.txt של אנציקלופדיית היקום"
+  "seo.universe.encyclopediaLlms": "LLMs.txt של אנציקלופדיית היקום",
+  "common.legal.security": "Security"
 }
