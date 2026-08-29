@@ -448,7 +448,7 @@
   "plans.org.price.platformFee": "{price} platform fee",
   "plans.org.members": "Members",
   "plans.org.total": "Your price",
-  "plans.org.plan.circle.approval": "Subject to approval: clubs and small groups only.",
+  "plans.org.plan.circle.approval": "Podléhá schválení: pouze kluby a malé skupiny. Začátek zdarma; konečná cena se dohodne při schválení.",
   "plans.org.price.maxMembers": "Up to {count} members",
   "plans.org.addon.api": "API access (organization & blog)",
   "plans.org.feature.workshop": "Organization workshop (stories & universes)",

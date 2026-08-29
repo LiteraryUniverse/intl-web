@@ -448,7 +448,7 @@
   "plans.org.price.platformFee": "{price} platform fee",
   "plans.org.members": "Members",
   "plans.org.total": "Your price",
-  "plans.org.plan.circle.approval": "Subject to approval: clubs and small groups only.",
+  "plans.org.plan.circle.approval": "承認制：クラブや小規模グループのみ。開始は無料、最終的な料金は承認時に個別に決定します。",
   "plans.org.price.maxMembers": "Up to {count} members",
   "plans.org.addon.api": "API access (organization & blog)",
   "plans.org.feature.workshop": "Organization workshop (stories & universes)",
