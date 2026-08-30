@@ -5493,6 +5493,7 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work is sold or included in a paid plan, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
   "writer.menu.optionsAria": "Redigeringsalternativer-meny",
   "writer.menu.saveOptionsAria": "Lagre alternativer",
   "writer.undo": "Angre",
