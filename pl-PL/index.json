@@ -5492,7 +5492,7 @@
   "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released.",
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
-  "workshop.rating.monetizedNotice": "This work is sold or included in a paid plan, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
+  "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
   "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
   "writer.menu.optionsAria": "Menu opcji edytora",
   "writer.menu.saveOptionsAria": "Zapisz opcje",
