@@ -808,5 +808,8 @@
   "workshop.license.adoptOrg.proposed": "Vaše žádost byla odeslána organizaci {org}. Licence začne platit, jakmile ji přijme; dáme vám vědět.",
   "workshop.license.requiresApproval": "Nejste členem organizace {org} — uložením jí odešlete žádost o licenci a licence začne platit až po jejím přijetí.",
   "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released.",
+  "workshop.requests.expires": "Expires {date, date, short}",
+  "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
+  "workshop.rating.monetizedNotice": "This work is sold or included in a paid plan, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first."
 }

@@ -808,5 +808,8 @@
   "workshop.license.adoptOrg.proposed": "申請を{org}に送信しました。承諾されるとライセンスが適用され、通知が届きます。",
   "workshop.license.requiresApproval": "あなたは{org}のメンバーではありません。保存するとライセンス申請が送信され、承諾後にのみライセンスが適用されます。",
   "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released.",
+  "workshop.requests.expires": "Expires {date, date, short}",
+  "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
+  "workshop.rating.monetizedNotice": "This work is sold or included in a paid plan, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first."
 }

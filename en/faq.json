@@ -11,41 +11,25 @@
   "faq.section.blogs": "Blogs",
   "faq.section.organizations": "Organizations",
   "faq.question.about.whatIsLU": "What is Literary Universe?",
-  "faq.answer.about.whatIsLU":
-  "Literary Universe is a platform for writers and readers to create, share and discover stories and worlds.",
-  "faq.question.about.difference":
-  "What is the difference between Literary Universe and other online reading platforms?",
-  "faq.answer.about.difference":
-  "Literary Universe is all-in-one platform which means it includes tools for writing, reading, worldbuilding, and community building. The key difference is inclusion of all these tools together in one platform and their interconnectedness.",
+  "faq.answer.about.whatIsLU": "Literary Universe is a platform for writers and readers to create, share and discover stories and worlds.",
+  "faq.question.about.difference": "What is the difference between Literary Universe and other online reading platforms?",
+  "faq.answer.about.difference": "Literary Universe is all-in-one platform which means it includes tools for writing, reading, worldbuilding, and community building. The key difference is inclusion of all these tools together in one platform and their interconnectedness.",
   "faq.question.about.dataLocation": "Where is LU data stored?",
-  "faq.answer.about.dataLocation":
-  "Literary Universe data is stored on servers in the United States of America, specifically AWS us-east-1 region.",
+  "faq.answer.about.dataLocation": "Literary Universe data is stored on servers in the United States of America, specifically AWS us-east-1 region.",
   "faq.question.about.incorporation": "Where are you incorporated?",
-  "faq.answer.about.incorporation":
-  "Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href=\"/about\">about us page</a>.",
-  "faq.question.about.roadmap":
-  "What are the next steps for Literary Universe?",
-  "faq.answer.about.roadmap":
-  "This is constantly evolving. Check out our <a href=\"/roadmap\">roadmap</a> for more details.",
-
-  "faq.question.settings.changeTheme":
-  "How do I change the look of Literary Universe?",
-  "faq.answer.settings.changeTheme":
-  "Registered users can change their theme in the <a href=\"/user/settings/account\">account settings</a> under \"site theming\" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.",
+  "faq.answer.about.incorporation": "Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href=\"/about\">about us page</a>.",
+  "faq.question.about.roadmap": "What are the next steps for Literary Universe?",
+  "faq.answer.about.roadmap": "This is constantly evolving. Check out our <a href=\"/roadmap\">roadmap</a> for more details.",
+  "faq.question.settings.changeTheme": "How do I change the look of Literary Universe?",
+  "faq.answer.settings.changeTheme": "Registered users can change their theme in the <a href=\"/user/settings/account\">account settings</a> under \"site theming\" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.",
   "faq.question.settings.changeAvatar": "How do I change my avatar?",
-  "faq.answer.settings.changeAvatar":
-  "You can change your avatar in the <a href=\"/user/settings/profile\">profile settings</a>.",
+  "faq.answer.settings.changeAvatar": "You can change your avatar in the <a href=\"/user/settings/profile\">profile settings</a>.",
   "faq.question.settings.changeLanguage": "How do I change the language?",
-  "faq.answer.settings.changeLanguage":
-  "You can change the language of Literary Universe in the <a href=\"/user/settings/account\">account settings</a>.",
-  "faq.question.settings.translationMistake":
-  "I found a mistake in the text on the website, where can I report it?",
-  "faq.answer.settings.translationMistake":
-  "All our language files are available on GitHub. You can <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href=\"https://trs.literaryuniverse.com\" target=\"_blank\">our Weblate page</a>.",
-
+  "faq.answer.settings.changeLanguage": "You can change the language of Literary Universe in the <a href=\"/user/settings/account\">account settings</a>.",
+  "faq.question.settings.translationMistake": "I found a mistake in the text on the website, where can I report it?",
+  "faq.answer.settings.translationMistake": "All our language files are available on GitHub. You can <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href=\"https://trs.literaryuniverse.com\" target=\"_blank\">our Weblate page</a>.",
   "faq.question.discovery.explain": "What is the Discovery section?",
-  "faq.answer.discovery.explain":
-  "The Discovery section is where you can find new stories, universes, blogs, groups and other content. It is a place to explore and find new things to read and enjoy.",
+  "faq.answer.discovery.explain": "The Discovery section is where you can find new stories, universes, blogs, groups and other content. It is a place to explore and find new things to read and enjoy.",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",
   "faq.answer.discovery.filters": "Use the filter panel at the top of the Discovery search page to narrow down stories by genre, language, tags, and more.",
   "faq.question.discovery.recommendations": "How do recommendations work?",
@@ -54,20 +38,12 @@
   "faq.answer.discovery.hide": "Yes, explicit content is by default blocked and you can filter search results to your likes. In your settings you can also disable specific genres by default. More options will come in the future.",
   "faq.question.discovery.inappropriateContent": "How do I report inappropriate content in Discovery?",
   "faq.answer.discovery.inappropriateContent": "If you find inappropriate content, click the 'Report' button (sometimes just a flag icon) on the story or user profile. Our moderators will review your report as soon as possible.",
-
-  "faq.question.writer.howToCreateStory":
-  "How do I create a new story in Literary Universe?",
-  "faq.answer.writer.howToCreateStory":
-  "You can create a new story by going to the <a href=\"/workshop\">workshop</a> and clicking on one of the create buttons or go to the main <a href=\"/workshop/create\">create page</a> where you can select a <a href=\"/workshop/create/story\">new standalone story</a> or <a href=\"/workshop/create/fanfiction\">fan fiction</a>. To create a new story in a universe, go first to that universe and then select \"stories\" on the dashboard and on the next page click the big red button on the right side of the page title. You will be asked to fill in the details of your story and then you can start writing.",
-  "faq.question.writer.schedule":
-  "How do I schedule a chapter to be released in Literary Universe?",
-  "faq.answer.writer.schedule":
-  "You can schedule a chapter to be released when clicking on the publish button in the chapter editor. A modal will be shown where you will have the option to schedule a release or publish immediately. If you choose to schedule a release, you will be asked to select the date and time when you want the chapter to be released. We recommend scheduling chapters at least 24 hours in advance to give readers time to prepare for the new chapter and to release on the same day and time of the week.",
-
-  "faq.question.reader.creativeTypes":
-  "What is the difference between Universe, Stories and Fan Fiction?",
-  "faq.answer.reader.creativeTypes":
-  "Universe is a place where you can find all the stories and other content related to a specific literary world. Stories are either standalone stories or part of a universe that. Fan Fiction is a story that is based on another literary universe created by someone else.",
+  "faq.question.writer.howToCreateStory": "How do I create a new story in Literary Universe?",
+  "faq.answer.writer.howToCreateStory": "You can create a new story by going to the <a href=\"/workshop\">workshop</a> and clicking on one of the create buttons or go to the main <a href=\"/workshop/create\">create page</a> where you can select a <a href=\"/workshop/create/story\">new standalone story</a> or <a href=\"/workshop/create/fanfiction\">fan fiction</a>. To create a new story in a universe, go first to that universe and then select \"stories\" on the dashboard and on the next page click the big red button on the right side of the page title. You will be asked to fill in the details of your story and then you can start writing.",
+  "faq.question.writer.schedule": "How do I schedule a chapter to be released in Literary Universe?",
+  "faq.answer.writer.schedule": "You can schedule a chapter to be released when clicking on the publish button in the chapter editor. A modal will be shown where you will have the option to schedule a release or publish immediately. If you choose to schedule a release, you will be asked to select the date and time when you want the chapter to be released. We recommend scheduling chapters at least 24 hours in advance to give readers time to prepare for the new chapter and to release on the same day and time of the week.",
+  "faq.question.reader.creativeTypes": "What is the difference between Universe, Stories and Fan Fiction?",
+  "faq.answer.reader.creativeTypes": "Universe is a place where you can find all the stories and other content related to a specific literary world. Stories are either standalone stories or part of a universe that. Fan Fiction is a story that is based on another literary universe created by someone else.",
   "faq.question.reader.navigation": "How do I navigate between chapters and sections while reading?",
   "faq.answer.reader.navigation": "Use the navigation arrows or the chapter list to move between chapters and sections. You can also use keyboard shortcuts for faster navigation.",
   "faq.question.reader.settings": "How do I adjust reading settings like font size or theme?",
@@ -82,54 +58,32 @@
   "faq.answer.reader.supportedFormats": "The reader supports stories, universes, and other content created on Literary Universe. External formats like EPUB or PDF are not currently supported.",
   "faq.question.reader.troubleshooting": "What should I do if the reader is not working correctly?",
   "faq.answer.reader.troubleshooting": "Try refreshing the page or clearing your browser cache. If problems persist, contact support with details about your issue.",
-
   "faq.question.workshop.explain": "What is the Workshop?",
-  "faq.answer.workshop.explain":
-  "The Workshop is where you can create new stories, fan fiction, universes, and other content. It is a place to write, edit and manage your creative content.",
-  "faq.question.workshop.creativeTypes":
-  "What is the difference between Universe, Stories and Fan Fiction?",
-  "faq.answer.workshop.creativeTypes":
-  "Universe is a central place for your literary universe in which you create stories that inhabit the same literary world, manage encyclopedia with all the intricacies of your world and do anything else related to it. Fan Fiction is a story that is based on another story or universe created by someone else. Standalone stories are stories that are not connected to any universe, use this for example for poetry or literary works that are set in real world without many characters or immersive details that would require encyclopedia or other benefits of having a universe.",
-  "faq.question.workshop.continueStory":
-  "How do I continue a previously created story?",
-  "faq.answer.workshop.continueStory":
-  "You can continue a previously created story by going to the <a href=\"/workshop\">workshop</a> and selecting the story you want to continue or if it is a story in a universe, you need to first go to the universe and select the story from the stories listing. On the story dashboard you can then click on the chapter you want to continue writing or create a new chapter.",
+  "faq.answer.workshop.explain": "The Workshop is where you can create new stories, fan fiction, universes, and other content. It is a place to write, edit and manage your creative content.",
+  "faq.question.workshop.creativeTypes": "What is the difference between Universe, Stories and Fan Fiction?",
+  "faq.answer.workshop.creativeTypes": "Universe is a central place for your literary universe in which you create stories that inhabit the same literary world, manage encyclopedia with all the intricacies of your world and do anything else related to it. Fan Fiction is a story that is based on another story or universe created by someone else. Standalone stories are stories that are not connected to any universe, use this for example for poetry or literary works that are set in real world without many characters or immersive details that would require encyclopedia or other benefits of having a universe.",
+  "faq.question.workshop.continueStory": "How do I continue a previously created story?",
+  "faq.answer.workshop.continueStory": "You can continue a previously created story by going to the <a href=\"/workshop\">workshop</a> and selecting the story you want to continue or if it is a story in a universe, you need to first go to the universe and select the story from the stories listing. On the story dashboard you can then click on the chapter you want to continue writing or create a new chapter.",
   "faq.question.workshop.whatIsALicense": "What is a Story License?",
-  "faq.answer.workshop.whatIsALicense":
-  "A story license is a legal document that defines how your story/universe can be used by others. It is a way to protect your rights and to define how others can use your work.",
+  "faq.answer.workshop.whatIsALicense": "A story license is a legal document that defines how your story/universe can be used by others. It is a way to protect your rights and to define how others can use your work.",
   "faq.question.workshop.licenses": "What licenses are available?",
-  "faq.answer.workshop.licenses":
-  "We offer a variety of licenses to choose from. When creating a new work in the licenses section will be a button which will list all available licenses with their full details. In general we offer full copyright protections and <a href=\"https://creativecommons.org/\" target=\"_blank\" rel=\"noreferrer noopener external\">Creative Commons</a> licenses.",
+  "faq.answer.workshop.licenses": "We offer a variety of licenses to choose from. When creating a new work in the licenses section will be a button which will list all available licenses with their full details. In general we offer full copyright protections and <a href=\"https://creativecommons.org/\" target=\"_blank\" rel=\"noreferrer noopener external\">Creative Commons</a> licenses.",
   "faq.question.workshop.guildOwnership": "What is organization ownership?",
-  "faq.answer.workshop.guildOwnership":
-  "Organization ownership indicates a work owned by an organization. This could be a publisher or another type of company or non-profit. Ownership is usually more complex and the author might not have full control — the work is managed through the organization rather than from the author's personal account.",
-  "faq.question.workshop.howToInviteCollaborators":
-  "How do I invite collaborators for a story/universe?",
-  "faq.answer.workshop.howToInviteCollaborators":
-  "You can invite collaborators to your story/universe by going to the story/universe dashboard and clicking the \"collaborators\" button. There you can invite other users to collaborate on your story/universe by entering their username and selecting the role you want to assign to them.",
-  "faq.question.workshop.howToTranslation":
-  "How can I translate my story or universe?",
-  "faq.answer.workshop.howToTranslation":
-  "You can translate your story or universe by going to the story/universe dashboard and clicking the \"Translations\" button. There you can add a new translations for your work and if you have someone to do the translation you can invite them to join on the translation. From there you can also manage the translations yourself.",
-  "faq.question.workshop.betaReaders":
-  "What are Beta Readers and what is their purpose to my story?",
-  "faq.answer.workshop.betaReaders":
-  "Beta readers are people who read your story before it is published and give you feedback. They can help you find mistakes, give you ideas for improvement, and help you make your story better.",
+  "faq.answer.workshop.guildOwnership": "Organization ownership indicates a work owned by an organization. This could be a publisher or another type of company or non-profit. Ownership is usually more complex and the author might not have full control — the work is managed through the organization rather than from the author's personal account.",
+  "faq.question.workshop.howToInviteCollaborators": "How do I invite collaborators for a story/universe?",
+  "faq.answer.workshop.howToInviteCollaborators": "You can invite collaborators to your story/universe by going to the story/universe dashboard and clicking the \"collaborators\" button. There you can invite other users to collaborate on your story/universe by entering their username and selecting the role you want to assign to them.",
+  "faq.question.workshop.howToTranslation": "How can I translate my story or universe?",
+  "faq.answer.workshop.howToTranslation": "You can translate your story or universe by going to the story/universe dashboard and clicking the \"Translations\" button. There you can add a new translations for your work and if you have someone to do the translation you can invite them to join on the translation. From there you can also manage the translations yourself.",
+  "faq.question.workshop.betaReaders": "What are Beta Readers and what is their purpose to my story?",
+  "faq.answer.workshop.betaReaders": "Beta readers are people who read your story before it is published and give you feedback. They can help you find mistakes, give you ideas for improvement, and help you make your story better.",
   "faq.question.workshop.hiatus": "What is a hiatus in the story status?",
-  "faq.answer.workshop.hiatus":
-  "Hiatus is a status for your story that indicates that you are taking a break from writing and publishing new chapters. It is a way to let your readers know that you are not actively working on the story at the moment. This status gets set automatically after 6 months without any new chapters. After additional 6 months of inactivity the story will be marked as cancelled.",
-  "faq.question.workshop.finished":
-  "How do I indicate that my story is finished?",
-  "faq.answer.workshop.finished":
-  "You can indicate that your story is finished by going to the story dashboard and on the bottom there is a green button which says \"Change story status to Completed\". This will mark the story as finished adjusting the last page to tell the readers that the story is finished and to check out your other works. It will also indicate so in discovery making your story more visible to readers who are looking for finished stories.",
-  "faq.question.workshop.seo":
-  "What is the use of SEO-Friendly-Address in various settings?",
-  "faq.answer.workshop.seo":
-  "SEO-Friendly-Address is a way to make your story, universe, blog post more visible to search engines and easier to read URL for humans. It is a way to make your work more discoverable and to help people find your work when they search for something similar.",
-  "faq.question.workshop.descriptionLength":
-  "What is the optimal length for story and universe descriptions?",
-  "faq.answer.workshop.descriptionLength":
-  "Aim for a length of 150-160 characters to ensure your description provides enough information without being truncated in search results. This helps improve your work's visibility on search engines and social media platforms. A well-crafted description within this range will display fully in Google search results and social media previews, making it more likely to attract readers.",
+  "faq.answer.workshop.hiatus": "Hiatus is a status for your story that indicates that you are taking a break from writing and publishing new chapters. It is a way to let your readers know that you are not actively working on the story at the moment. This status gets set automatically after 6 months without any new chapters. After additional 6 months of inactivity the story will be marked as cancelled.",
+  "faq.question.workshop.finished": "How do I indicate that my story is finished?",
+  "faq.answer.workshop.finished": "You can indicate that your story is finished by going to the story dashboard and on the bottom there is a green button which says \"Change story status to Completed\". This will mark the story as finished adjusting the last page to tell the readers that the story is finished and to check out your other works. It will also indicate so in discovery making your story more visible to readers who are looking for finished stories.",
+  "faq.question.workshop.seo": "What is the use of SEO-Friendly-Address in various settings?",
+  "faq.answer.workshop.seo": "SEO-Friendly-Address is a way to make your story, universe, blog post more visible to search engines and easier to read URL for humans. It is a way to make your work more discoverable and to help people find your work when they search for something similar.",
+  "faq.question.workshop.descriptionLength": "What is the optimal length for story and universe descriptions?",
+  "faq.answer.workshop.descriptionLength": "Aim for a length of 150-160 characters to ensure your description provides enough information without being truncated in search results. This helps improve your work's visibility on search engines and social media platforms. A well-crafted description within this range will display fully in Google search results and social media previews, making it more likely to attract readers.",
   "faq.question.workshop.createProject": "How do I start a new universe in the Workshop?",
   "faq.answer.workshop.createProject": "Go to the Workshop and click on the 'Create' button, then select an universe. You can start a new standalone story, fan fiction, or a story within a universe.",
   "faq.question.workshop.editingTools": "What editing tools are available in the Workshop?",
@@ -146,7 +100,6 @@
   "faq.answer.workshop.exporting": "We are currently working on the export feature and publication on other platforms (for non-exclusive works).",
   "faq.question.workshop.troubleshooting": "What if the Workshop is not saving or loading my work?",
   "faq.answer.workshop.troubleshooting": "Check if there are any error messages visible anywhere, then check your internet connection and try refreshing the page. If issues persist, contact support for help.",
-
   "faq.question.library.addItem": "How do I add a story or universe to my library?",
   "faq.answer.library.addItem": "You can add a story or universe to your library by clicking the 'Add to Library' button on the story or universe page. Once added, it will appear in your library for easy access and you will get notified about any developments with that story or universe.",
   "faq.question.library.removeItem": "How do I remove something from my library?",
@@ -159,7 +112,6 @@
   "faq.answer.library.missing": "If you notice missing items, try refreshing the page or logging out and back in. If the problem persists, please contact support.",
   "faq.question.library.deletedStory": "What happens if a story is deleted by the author?",
   "faq.answer.library.deletedStory": "Published stories can not be deleted by the author, but there are some exceptions like copyright and rules violations. If that is the case then the story will no longer be accessible or visible in your library. For other cases of copyrighted material the story might no longer be accessible publicly or for new readers, but if you have bought the story or added it to your library you will still be able to access it.",
-
   "faq.question.encyclopedia.creating": "How do I create a new encyclopedia entry?",
   "faq.answer.encyclopedia.creating": "Go to the Encyclopedia section and click the 'Add Entry' button in the menu or in the specific category of the menu. Fill in the details and save your entry.",
   "faq.question.encyclopedia.editing": "How do I edit or update an encyclopedia entry?",
@@ -191,5 +143,7 @@
   "faq.question.comicApps.unsupportedFiles": "Why were some of my files skipped?",
   "faq.answer.comicApps.unsupportedFiles": "Project files such as .clip, .psd, .tif, .pdf, .mdp, or .procreate can't be displayed by web browsers, so the uploader skips them. Export your pages as PNG or JPEG in your art app and upload those instead.",
   "faq.question.comicApps.pageSize": "Why was a page rejected as too large?",
-  "faq.answer.comicApps.pageSize": "Each page can be at most 15 MB. If a page is rejected, export it at a lower resolution, or split very tall webtoon strips into slices around 2,000 px tall — most apps can do this automatically (in Clip Studio Paint use “Divide vertically” in the webtoon export)."
+  "faq.answer.comicApps.pageSize": "Each page can be at most 15 MB. If a page is rejected, export it at a lower resolution, or split very tall webtoon strips into slices around 2,000 px tall — most apps can do this automatically (in Clip Studio Paint use “Divide vertically” in the webtoon export).",
+  "faq.question.workshop.explicitMonetization": "Can I sell a story, comic or audiobook rated Explicit (21+)?",
+  "faq.answer.workshop.explicitMonetization": "<p>No. Explicit-rated works can be published and read under the rating system, but they cannot be sold, paywalled, offered as a fan-club perk, or included in a paid library subscription, and they do not earn library read-time credit. This is a payment-processor policy: card networks and Stripe do not allow selling explicit content, and platforms that ignored it have been shut down.</p><p>If a work is already monetized you must remove its pricing and paid-plan inclusion before you can raise its rating to Explicit. Literary Universe also shows no advertising, so there is no ad revenue alternative.</p>"
 }

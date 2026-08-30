@@ -808,5 +808,8 @@
   "workshop.license.adoptOrg.proposed": "您的申請已送至{org}。待其接受後授權即生效，屆時會通知您。",
   "workshop.license.requiresApproval": "您不是{org}的成員——儲存後會向其送出授權申請，授權僅在對方接受後才生效。",
   "workshop.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released."
+  "workshop.finish.scheduledNotice": "The story will be marked as completed on {date}, when its last scheduled chapter is released.",
+  "workshop.requests.expires": "Expires {date, date, short}",
+  "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
+  "workshop.rating.monetizedNotice": "This work is sold or included in a paid plan, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first."
 }

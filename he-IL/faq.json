@@ -143,5 +143,7 @@
   "faq.question.comicApps.unsupportedFiles": "למה חלק מהקבצים שלי דולגו?",
   "faq.answer.comicApps.unsupportedFiles": "קבצי פרויקט כמו .clip, .psd, .tif, .pdf, .mdp או .procreate לא יכולים להיות מוצגים בדפדפני אינטרנט, ולכן המעלה מדלג עליהם. ייצאו את הדפים כ-PNG או JPEG באפליקציית הציור והעלו אותם.",
   "faq.question.comicApps.pageSize": "למה דף נדחה כי הוא גדול מדי?",
-  "faq.answer.comicApps.pageSize": "כל דף יכול להיות עד 15 MB. אם דף נדחה, ייצאו אותו ברזולוציה נמוכה יותר, או פצלו רצועות וובטון גבוהות מאוד לפרוסות בגובה של כ־2,000 פיקסלים — רוב האפליקציות יכולות לעשות זאת אוטומטית (ב-Clip Studio Paint השתמשו ב„חלוקה אנכית“ בייצוא וובטון)."
+  "faq.answer.comicApps.pageSize": "כל דף יכול להיות עד 15 MB. אם דף נדחה, ייצאו אותו ברזולוציה נמוכה יותר, או פצלו רצועות וובטון גבוהות מאוד לפרוסות בגובה של כ־2,000 פיקסלים — רוב האפליקציות יכולות לעשות זאת אוטומטית (ב-Clip Studio Paint השתמשו ב„חלוקה אנכית“ בייצוא וובטון).",
+  "faq.question.workshop.explicitMonetization": "Can I sell a story, comic or audiobook rated Explicit (21+)?",
+  "faq.answer.workshop.explicitMonetization": "<p>No. Explicit-rated works can be published and read under the rating system, but they cannot be sold, paywalled, offered as a fan-club perk, or included in a paid library subscription, and they do not earn library read-time credit. This is a payment-processor policy: card networks and Stripe do not allow selling explicit content, and platforms that ignored it have been shut down.</p><p>If a work is already monetized you must remove its pricing and paid-plan inclusion before you can raise its rating to Explicit. Literary Universe also shows no advertising, so there is no ad revenue alternative.</p>"
 }

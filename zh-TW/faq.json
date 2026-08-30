@@ -143,5 +143,7 @@
   "faq.question.comicApps.unsupportedFiles": "為什麼有些檔案被略過？",
   "faq.answer.comicApps.unsupportedFiles": ".clip、.psd、.tif、.pdf、.mdp 或 .procreate 等專案檔無法由瀏覽器顯示，因此上傳器會略過它們。請在繪圖 App 將頁面匯出為 PNG 或 JPEG 再上傳。",
   "faq.question.comicApps.pageSize": "為什麼頁面因過大被拒絕？",
-  "faq.answer.comicApps.pageSize": "每頁最多 15 MB。若被拒絕，請以較低解析度匯出，或將極高的條漫長條切成高度約 2,000 px 的切片——多數 App 可自動完成（Clip Studio Paint 在 webtoon 匯出使用「垂直分割」）。"
+  "faq.answer.comicApps.pageSize": "每頁最多 15 MB。若被拒絕，請以較低解析度匯出，或將極高的條漫長條切成高度約 2,000 px 的切片——多數 App 可自動完成（Clip Studio Paint 在 webtoon 匯出使用「垂直分割」）。",
+  "faq.question.workshop.explicitMonetization": "Can I sell a story, comic or audiobook rated Explicit (21+)?",
+  "faq.answer.workshop.explicitMonetization": "<p>No. Explicit-rated works can be published and read under the rating system, but they cannot be sold, paywalled, offered as a fan-club perk, or included in a paid library subscription, and they do not earn library read-time credit. This is a payment-processor policy: card networks and Stripe do not allow selling explicit content, and platforms that ignored it have been shut down.</p><p>If a work is already monetized you must remove its pricing and paid-plan inclusion before you can raise its rating to Explicit. Literary Universe also shows no advertising, so there is no ad revenue alternative.</p>"
 }
