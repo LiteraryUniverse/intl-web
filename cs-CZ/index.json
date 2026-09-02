@@ -753,7 +753,7 @@
   "common.aiContent.custom": "Vlastní model AI",
   "common.aiContent.declare": "Tento obsah byl vygenerován umělou inteligencí",
   "common.aiContent.indicator": "Obsah generovaný umělou inteligencí",
-  "common.aiContent.model": "Model AI: {model}",
+  "common.aiContent.model": "AI Model: {model}",
   "common.aiContent.model.custom.label": "Vlastní model AI",
   "common.aiContent.model.custom.placeholder": "Zadejte název modelu AI",
   "common.aiContent.model.label": "Model umělé inteligence",
