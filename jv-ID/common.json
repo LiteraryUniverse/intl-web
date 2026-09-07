@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Jembaraké navigasi",
+  "a11y.navigation.collapse": "Ciutaké navigasi",
+  "dashboard.quickActions": "Tumindak cepet",
+  "dashboard.quickAction.newStoryHint": "Miwiti jagad utawa crita anyar",
+  "dashboard.quickAction.libraryHint": "Golèki crita sing wis koksimpen",
   "404": "Kaca ora ditemokake",
   "a11y.navigation": "Navigasi",
   "a11y.user.menu": "Menu pangguna",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Your blog",
   "dashboard.profile": "Your profile",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "What is new",
   "dashboard.writerResume": "Author's Resume",

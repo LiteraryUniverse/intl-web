@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "ਨੈਵੀਗੇਸ਼ਨ ਫੈਲਾਓ",
+  "a11y.navigation.collapse": "ਨੈਵੀਗੇਸ਼ਨ ਸਮੇਟੋ",
+  "dashboard.quickActions": "ਤੁਰੰਤ ਕਾਰਵਾਈਆਂ",
+  "dashboard.quickAction.newStoryHint": "ਨਵਾਂ ਸੰਸਾਰ ਜਾਂ ਕਹਾਣੀ ਸ਼ੁਰੂ ਕਰੋ",
+  "dashboard.quickAction.libraryHint": "ਆਪਣੀਆਂ ਸੰਭਾਲੀਆਂ ਕਹਾਣੀਆਂ ਲੱਭੋ",
   "404": "ਪੰਨਾ ਨਹੀਂ ਲੱਭਿਆ",
   "a11y.navigation": "ਨੇਵੀਗੇਸ਼ਨ",
   "a11y.user.menu": "ਯੂਜ਼ਰ ਮੀਨੂ",
@@ -272,7 +277,6 @@
   "dashboard.blog": "ਤੁਹਾਡਾ ਬਲੌਗ",
   "dashboard.profile": "ਤੁਹਾਡਾ ਪ੍ਰੋਫਾਈਲ",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "ਨਵੀਆਂ ਕੀ ਹੈ",
   "dashboard.writerResume": "ਲੇਖਕ ਦਾ ਸੰਖੇਪ ਜੀਵਨ-ਪਰਿਚੈ",

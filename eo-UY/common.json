@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Etendi la navigadon",
+  "a11y.navigation.collapse": "Maletendi la navigadon",
+  "dashboard.quickActions": "Rapidaj agoj",
+  "dashboard.quickAction.newStoryHint": "Komencu novan universon aŭ rakonton",
+  "dashboard.quickAction.libraryHint": "Trovu viajn konservitajn rakontojn",
   "404": "Paĝo ne trovita",
   "a11y.navigation": "Navigado",
   "a11y.user.menu": "Uzantmenuo",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Via blogo",
   "dashboard.profile": "Via profilo",
   "dashboard.resumeWriting": "Daŭrigi verkadon",
-  "dashboard.resumeWriting.description": "Resaltu en la rakonton aŭ universon, pri kiu vi laboris plej lastatempe.",
   "dashboard.resumeWriting.lastWorked": "Laste prilaborita {time}.",
   "dashboard.whatsnew": "Kio novas",
   "dashboard.writerResume": "Vivresumo de la aŭtoro",

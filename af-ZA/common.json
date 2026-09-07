@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Vou navigasie uit",
+  "a11y.navigation.collapse": "Vou navigasie in",
+  "dashboard.quickActions": "Vinnige aksies",
+  "dashboard.quickAction.newStoryHint": "Begin 'n nuwe heelal of storie",
+  "dashboard.quickAction.libraryHint": "Vind jou gestoorde stories",
   "404": "Bladsy bestaan nie",
   "a11y.navigation": "Navigasie",
   "a11y.user.menu": "Gebruiker kieslys",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Jou blog",
   "dashboard.profile": "Jou profiel",
   "dashboard.resumeWriting": "Hervat skryf",
-  "dashboard.resumeWriting.description": "Spring terug in die storie of heelal waaraan jy die onlangste gewerk het.",
   "dashboard.resumeWriting.lastWorked": "Laas daaraan gewerk {time}.",
   "dashboard.whatsnew": "Wat's nuut",
   "dashboard.writerResume": "Outeurs-CV",

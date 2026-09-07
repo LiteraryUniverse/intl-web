@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Expandir navegação",
+  "a11y.navigation.collapse": "Recolher navegação",
+  "dashboard.quickActions": "Ações rápidas",
+  "dashboard.quickAction.newStoryHint": "Começa um novo universo ou uma nova história",
+  "dashboard.quickAction.libraryHint": "Encontra as tuas histórias guardadas",
   "404": "Página não encontrada",
   "a11y.navigation": "Navegação",
   "a11y.user.menu": "Menu do utilizador",
@@ -272,7 +277,6 @@
   "dashboard.blog": "O seu blogue",
   "dashboard.profile": "O seu perfil",
   "dashboard.resumeWriting": "Retomar a escrita",
-  "dashboard.resumeWriting.description": "Volte à história ou ao universo em que trabalhou mais recentemente.",
   "dashboard.resumeWriting.lastWorked": "Última atividade {time}.",
   "dashboard.whatsnew": "O que existe de novo",
   "dashboard.writerResume": "Currículo do autor",

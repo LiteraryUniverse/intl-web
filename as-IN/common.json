@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "নেভিগেশ্বন বহল কৰক",
+  "a11y.navigation.collapse": "নেভিগেশ্বন সংকুচিত কৰক",
+  "dashboard.quickActions": "দ্ৰুত কাৰ্যসমূহ",
+  "dashboard.quickAction.newStoryHint": "নতুন বিশ্ব বা কাহিনী আৰম্ভ কৰক",
+  "dashboard.quickAction.libraryHint": "আপোনাৰ সংৰক্ষিত কাহিনীবোৰ বিচাৰক",
   "404": "পৃষ্ঠা পোৱা নহয়",
   "a11y.navigation": "নেভিগেশন",
   "a11y.user.menu": "ব্যৱহাৰকাৰী মেনু",
@@ -272,7 +277,6 @@
   "dashboard.blog": "আপোনাৰ ব্লগ",
   "dashboard.profile": "আপোনাৰ প্ৰ'ফাইল",
   "dashboard.resumeWriting": "লিখা পুনৰ আৰম্ভ কৰক",
-  "dashboard.resumeWriting.description": "আপুনি শেহতীয়াকৈ কাম কৰা গল্প বা ইউনিভার্সলৈ ঘূৰি যাওক।",
   "dashboard.resumeWriting.lastWorked": "শেষবাৰ {time}ত কাম কৰা হৈছিল।",
   "dashboard.whatsnew": "নতুন কি আছে",
   "dashboard.writerResume": "লেখকৰ জীৱনপঞ্জী",

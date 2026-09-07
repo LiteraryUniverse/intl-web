@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Extinde navigarea",
+  "a11y.navigation.collapse": "Restrânge navigarea",
+  "dashboard.quickActions": "Acțiuni rapide",
+  "dashboard.quickAction.newStoryHint": "Începe un univers sau o poveste nouă",
+  "dashboard.quickAction.libraryHint": "Găsește poveștile salvate",
   "404": "Pagina nu a fost găsită",
   "a11y.navigation": "Navigare",
   "a11y.user.menu": "Meniu utilizator",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Blogul tău",
   "dashboard.profile": "Profilul dumneavoastră",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "Ce este nou",
   "dashboard.writerResume": "CV-ul autorului",

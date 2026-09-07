@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Expandeix la navegació",
+  "a11y.navigation.collapse": "Redueix la navegació",
+  "dashboard.quickActions": "Accions ràpides",
+  "dashboard.quickAction.newStoryHint": "Comença un univers o una història nous",
+  "dashboard.quickAction.libraryHint": "Troba les teves històries desades",
   "404": "Pàgina no trobada",
   "a11y.navigation": "Navegació",
   "a11y.user.menu": "Menú d'usuari",
@@ -272,7 +277,6 @@
   "dashboard.blog": "El teu blog",
   "dashboard.profile": "El vostre perfil",
   "dashboard.resumeWriting": "Reprèn l'escriptura",
-  "dashboard.resumeWriting.description": "Torna a la història o l'univers en què has treballat més recentment.",
   "dashboard.resumeWriting.lastWorked": "Treballat per última vegada {time}.",
   "dashboard.whatsnew": "Què hi ha de nou",
   "dashboard.writerResume": "Currículum de l'autor",

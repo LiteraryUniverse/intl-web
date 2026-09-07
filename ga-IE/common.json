@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Leathnaigh an nascleanúint",
+  "a11y.navigation.collapse": "Laghdaigh an nascleanúint",
+  "dashboard.quickActions": "Gníomhartha tapa",
+  "dashboard.quickAction.newStoryHint": "Tosaigh cruinne nó scéal nua",
+  "dashboard.quickAction.libraryHint": "Aimsigh do scéalta sábháilte",
   "404": "Leathanach gan aimsiú",
   "a11y.navigation": "Seoladh",
   "a11y.user.menu": "Menu úsáideora",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Do bhlag",
   "dashboard.profile": "Do phróifíl",
   "dashboard.resumeWriting": "Lean den scríbhneoireacht",
-  "dashboard.resumeWriting.description": "Léim ar ais isteach sa scéal nó sa chruinne is déanaí a d'oibrigh tú air.",
   "dashboard.resumeWriting.lastWorked": "Oibríodh air go deireanach {time}.",
   "dashboard.whatsnew": "Cad atá nua",
   "dashboard.writerResume": "Athfhriotal an Údair",

@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "નેવિગેશન વિસ્તૃત કરો",
+  "a11y.navigation.collapse": "નેવિગેશન સંકોચો",
+  "dashboard.quickActions": "ઝડપી ક્રિયાઓ",
+  "dashboard.quickAction.newStoryHint": "નવું વિશ્વ અથવા વાર્તા શરૂ કરો",
+  "dashboard.quickAction.libraryHint": "તમારી સાચવેલી વાર્તાઓ શોધો",
   "404": "પૃષ્ઠ મળ્યું નથી",
   "a11y.navigation": "નેવિગેશન",
   "a11y.user.menu": "User menu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "તમારું બ્લોગ",
   "dashboard.profile": "Your profile",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "નવું શું છે",
   "dashboard.writerResume": "Author's Resume",

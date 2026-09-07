@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "നാവിഗേഷൻ വികസിപ്പിക്കുക",
+  "a11y.navigation.collapse": "നാവിഗേഷൻ ചുരുക്കുക",
+  "dashboard.quickActions": "ദ്രുത പ്രവർത്തനങ്ങൾ",
+  "dashboard.quickAction.newStoryHint": "പുതിയ ലോകമോ കഥയോ തുടങ്ങുക",
+  "dashboard.quickAction.libraryHint": "നിങ്ങൾ സംരക്ഷിച്ച കഥകൾ കണ്ടെത്തുക",
   "404": "പേജ് കണ്ടെത്തിയില്ല",
   "a11y.navigation": "നാവിഗേഷൻ",
   "a11y.user.menu": "User menu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "നിങ്ങളുടെ ബ്ലോഗ്",
   "dashboard.profile": "Your profile",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "പുതിയതെന്തൊക്കെ",
   "dashboard.writerResume": "Author's Resume",

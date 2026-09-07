@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Laienda navigeerimist",
+  "a11y.navigation.collapse": "Ahenda navigeerimist",
+  "dashboard.quickActions": "Kiirtoimingud",
+  "dashboard.quickAction.newStoryHint": "Alusta uut universumit või lugu",
+  "dashboard.quickAction.libraryHint": "Leia oma salvestatud lood",
   "404": "Lehekülg ei leitud",
   "a11y.navigation": "Navigeerimine",
   "a11y.user.menu": "Kasutajamenüü",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Sinu blogi",
   "dashboard.profile": "Teie profiil",
   "dashboard.resumeWriting": "Jätka kirjutamist",
-  "dashboard.resumeWriting.description": "Hüppa tagasi loo või universumi juurde, millega viimati töötasid.",
   "dashboard.resumeWriting.lastWorked": "Viimati töötatud {time}.",
   "dashboard.whatsnew": "Mis on uut",
   "dashboard.writerResume": "Autori elulookirjeldus",

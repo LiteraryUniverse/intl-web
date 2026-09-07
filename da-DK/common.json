@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Udvid navigationen",
+  "a11y.navigation.collapse": "Fold navigationen sammen",
+  "dashboard.quickActions": "Hurtige handlinger",
+  "dashboard.quickAction.newStoryHint": "Start et nyt univers eller en ny historie",
+  "dashboard.quickAction.libraryHint": "Find dine gemte historier",
   "404": "Side ikke fundet",
   "a11y.navigation": "Navigation",
   "a11y.user.menu": "Brugermenu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Din blog",
   "dashboard.profile": "Din profil",
   "dashboard.resumeWriting": "Genoptag skrivningen",
-  "dashboard.resumeWriting.description": "Hop tilbage til den historie eller det univers, du senest har arbejdet på.",
   "dashboard.resumeWriting.lastWorked": "Senest arbejdet på {time}.",
   "dashboard.whatsnew": "Hvad er nyt",
   "dashboard.writerResume": "Forfatterens CV",

@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Mở rộng điều hướng",
+  "a11y.navigation.collapse": "Thu gọn điều hướng",
+  "dashboard.quickActions": "Thao tác nhanh",
+  "dashboard.quickAction.newStoryHint": "Bắt đầu một vũ trụ hoặc câu chuyện mới",
+  "dashboard.quickAction.libraryHint": "Tìm những câu chuyện đã lưu",
   "404": "Không tìm thấy trang",
   "a11y.navigation": "Điều hướng",
   "a11y.user.menu": "Menu người dùng",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Blog của bạn",
   "dashboard.profile": "Hồ sơ của bạn",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "Có gì mới",
   "dashboard.writerResume": "Sơ yếu lý lịch của tác giả",

@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "ཕྱོགས་སྟོན་རྒྱ་བསྐྱེད།",
+  "a11y.navigation.collapse": "ཕྱོགས་སྟོན་བསྡུ་སྐུམ།",
+  "dashboard.quickActions": "མྱུར་མགྱོགས་བྱ་བ།",
+  "dashboard.quickAction.newStoryHint": "འཛམ་གླིང་ངམ་སྒྲུང་གསར་པ་ཞིག་འགོ་འཛུགས།",
+  "dashboard.quickAction.libraryHint": "ཉར་ཚགས་བྱས་པའི་སྒྲུང་རྣམས་འཚོལ།",
   "404": "ཤོག་གྲངས་མེད་པར་མེད།",
   "a11y.navigation": "འཛོལ་བ།",
   "a11y.user.menu": "ལག་ལེན་པའི་འདེམས་ཐོ",
@@ -272,7 +277,6 @@
   "dashboard.blog": "ཁྱེད་རའི་བྱེད་བརྗོད།",
   "dashboard.profile": "ཁྱེད་ཀྱི་ངོ་སྤྲོད",
   "dashboard.resumeWriting": "འབྲི་མུས་མཐུད་པ",
-  "dashboard.resumeWriting.description": "ཉེ་ཆར་ཤོས་ལ་ལས་ཀ་བྱས་པའི་སྒྲུང་ངམ་འཇིག་རྟེན་དུ་ཕྱིར་ལོག",
   "dashboard.resumeWriting.lastWorked": "མཐའ་མཇུག་ལས་ཀ་བྱས་པ {time}།",
   "dashboard.whatsnew": "རེ་བ་གཅིག",
   "dashboard.writerResume": "རྩོམ་པ་པོའི་ལོ་རྒྱུས་མདོར་བསྡུས",

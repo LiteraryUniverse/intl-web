@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "توسيع قائمة التنقل",
+  "a11y.navigation.collapse": "طي قائمة التنقل",
+  "dashboard.quickActions": "إجراءات سريعة",
+  "dashboard.quickAction.newStoryHint": "ابدأ عالماً أو قصة جديدة",
+  "dashboard.quickAction.libraryHint": "اعثر على قصصك المحفوظة",
   "404": "الصفحة غير موجودة",
   "a11y.navigation": "التنقل",
   "a11y.user.menu": "قائمة المستخدم",
@@ -272,7 +277,6 @@
   "dashboard.blog": "مدونتك",
   "dashboard.profile": "ملفك الشخصي",
   "dashboard.resumeWriting": "استئناف الكتابة",
-  "dashboard.resumeWriting.description": "عد مباشرة إلى القصة أو الكون الذي عملت عليه مؤخرًا.",
   "dashboard.resumeWriting.lastWorked": "آخر عمل عليه {time}.",
   "dashboard.whatsnew": "ما الجديد",
   "dashboard.writerResume": "السيرة الذاتية للمؤلف",

@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "ნავიგაციის გაშლა",
+  "a11y.navigation.collapse": "ნავიგაციის შეკეცვა",
+  "dashboard.quickActions": "სწრაფი მოქმედებები",
+  "dashboard.quickAction.newStoryHint": "დაიწყეთ ახალი სამყარო ან ამბავი",
+  "dashboard.quickAction.libraryHint": "იპოვეთ თქვენი შენახული ამბები",
   "404": "გვერდი ვერ მოიძებნა",
   "a11y.navigation": "ნავიგაცია",
   "a11y.user.menu": "მომხმარებლის მენიუ",
@@ -272,7 +277,6 @@
   "dashboard.blog": "შენი ბლოგი",
   "dashboard.profile": "თქვენი პროფილი",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "რა ახალია",
   "dashboard.writerResume": "ავტორის რეზიუმე",

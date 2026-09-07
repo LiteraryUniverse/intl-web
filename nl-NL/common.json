@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Navigatie uitklappen",
+  "a11y.navigation.collapse": "Navigatie inklappen",
+  "dashboard.quickActions": "Snelle acties",
+  "dashboard.quickAction.newStoryHint": "Begin een nieuw universum of verhaal",
+  "dashboard.quickAction.libraryHint": "Vind je opgeslagen verhalen",
   "404": "Pagina niet gevonden",
   "a11y.navigation": "Navigatie",
   "a11y.user.menu": "Gebruikersmenu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Jouw blog",
   "dashboard.profile": "Je profiel",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "Wat is er nieuw",
   "dashboard.writerResume": "CV van de auteur",

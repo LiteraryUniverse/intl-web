@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "ナビゲーションを展開",
+  "a11y.navigation.collapse": "ナビゲーションを折りたたむ",
+  "dashboard.quickActions": "クイックアクション",
+  "dashboard.quickAction.newStoryHint": "新しい世界や物語を作り始める",
+  "dashboard.quickAction.libraryHint": "保存した物語を見つける",
   "404": "ページが見つかりませんでした",
   "a11y.navigation": "ナビ",
   "a11y.user.menu": "ユーザーメニュー",
@@ -272,7 +277,6 @@
   "dashboard.blog": "あなたのブログ",
   "dashboard.profile": "あなたのプロフィール",
   "dashboard.resumeWriting": "執筆を再開",
-  "dashboard.resumeWriting.description": "最近作業した物語や宇宙にすぐ戻れます。",
   "dashboard.resumeWriting.lastWorked": "最終作業：{time}。",
   "dashboard.whatsnew": "新着情報",
   "dashboard.writerResume": "著者の履歴書",

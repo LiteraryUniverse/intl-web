@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Развернуть навигацию",
+  "a11y.navigation.collapse": "Свернуть навигацию",
+  "dashboard.quickActions": "Быстрые действия",
+  "dashboard.quickAction.newStoryHint": "Начните новую вселенную или историю",
+  "dashboard.quickAction.libraryHint": "Найдите сохранённые истории",
   "404": "Страница не найдена",
   "a11y.navigation": "Навигация",
   "a11y.user.menu": "Меню пользователя",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Ваш блог",
   "dashboard.profile": "Ваш профиль",
   "dashboard.resumeWriting": "Продолжить писать",
-  "dashboard.resumeWriting.description": "Вернитесь к истории или вселенной, над которой вы работали в последний раз.",
   "dashboard.resumeWriting.lastWorked": "Последний раз вы работали {time}.",
   "dashboard.whatsnew": "Что нового",
   "dashboard.writerResume": "Резюме автора",

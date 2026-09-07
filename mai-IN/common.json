@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "नेविगेशन विस्तृत करू",
+  "a11y.navigation.collapse": "नेविगेशन संकुचित करू",
+  "dashboard.quickActions": "त्वरित कार्य",
+  "dashboard.quickAction.newStoryHint": "नव संसार वा कथा शुरू करू",
+  "dashboard.quickAction.libraryHint": "अपन सहेजल कथा खोजू",
   "404": "पृष्ठ भेटिएन",
   "a11y.navigation": "नेभिगेशन",
   "a11y.user.menu": "उपयोगकर्ता मेनू",
@@ -272,7 +277,6 @@
   "dashboard.blog": "तपाईंको ब्लग",
   "dashboard.profile": "आपकी प्रोफ़ाइल",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "नयाँ के हो",
   "dashboard.writerResume": "Author's Resume",

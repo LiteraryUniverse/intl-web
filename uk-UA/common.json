@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Розгорнути навігацію",
+  "a11y.navigation.collapse": "Згорнути навігацію",
+  "dashboard.quickActions": "Швидкі дії",
+  "dashboard.quickAction.newStoryHint": "Почніть новий всесвіт або історію",
+  "dashboard.quickAction.libraryHint": "Знайдіть збережені історії",
   "404": "Сторінку не знайдено",
   "a11y.navigation": "Навігація",
   "a11y.user.menu": "Меню користувача",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Ваш блоґ",
   "dashboard.profile": "Ваш профіль",
   "dashboard.resumeWriting": "Продовжити писати",
-  "dashboard.resumeWriting.description": "Поверніться до історії або всесвіту, над якими ви працювали востаннє.",
   "dashboard.resumeWriting.lastWorked": "Востаннє працювали {time}.",
   "dashboard.whatsnew": "Що нового",
   "dashboard.writerResume": "Резюме автора",

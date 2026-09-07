@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Rozbaliť navigáciu",
+  "a11y.navigation.collapse": "Zbaliť navigáciu",
+  "dashboard.quickActions": "Rýchle akcie",
+  "dashboard.quickAction.newStoryHint": "Začnite nový vesmír alebo príbeh",
+  "dashboard.quickAction.libraryHint": "Nájdite svoje uložené príbehy",
   "404": "Stránka nebola nájdená",
   "a11y.navigation": "Navigácia",
   "a11y.user.menu": "Používateľské menu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Tvoje blog",
   "dashboard.profile": "Váš profil",
   "dashboard.resumeWriting": "Pokračovať v písaní",
-  "dashboard.resumeWriting.description": "Vráťte sa k príbehu alebo vesmíru, na ktorom ste naposledy pracovali.",
   "dashboard.resumeWriting.lastWorked": "Naposledy ste pracovali {time}.",
   "dashboard.whatsnew": "Čo je nové",
   "dashboard.writerResume": "Životopis autora",

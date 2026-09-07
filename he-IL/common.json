@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "הרחבת הניווט",
+  "a11y.navigation.collapse": "צמצום הניווט",
+  "dashboard.quickActions": "פעולות מהירות",
+  "dashboard.quickAction.newStoryHint": "התחילו יקום או סיפור חדש",
+  "dashboard.quickAction.libraryHint": "מצאו את הסיפורים השמורים שלכם",
   "404": "הדף לא נמצא",
   "a11y.navigation": "ניווט",
   "a11y.user.menu": "תפריט משתמש",
@@ -272,7 +277,6 @@
   "dashboard.blog": "הבלוג שלך",
   "dashboard.profile": "הפרופיל שלך",
   "dashboard.resumeWriting": "המשך כתיבה",
-  "dashboard.resumeWriting.description": "חזרו היישר אל הסיפור או היקום שעבדתם עליו לאחרונה.",
   "dashboard.resumeWriting.lastWorked": "עבודה אחרונה: {time}.",
   "dashboard.whatsnew": "מה חדש",
   "dashboard.writerResume": "קורות החיים של המחבר",

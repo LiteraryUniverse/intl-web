@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "탐색 메뉴 펼치기",
+  "a11y.navigation.collapse": "탐색 메뉴 접기",
+  "dashboard.quickActions": "빠른 작업",
+  "dashboard.quickAction.newStoryHint": "새 세계관이나 이야기 시작하기",
+  "dashboard.quickAction.libraryHint": "저장한 이야기 찾기",
   "404": "페이지를 찾을 수 없습니다",
   "a11y.navigation": "탐색",
   "a11y.user.menu": "사용자 메뉴",
@@ -272,7 +277,6 @@
   "dashboard.blog": "내 블로그",
   "dashboard.profile": "내 프로필",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "의 새로운 기능",
   "dashboard.writerResume": "저자 이력서",

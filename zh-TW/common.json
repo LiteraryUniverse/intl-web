@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "展開導覽",
+  "a11y.navigation.collapse": "收合導覽",
+  "dashboard.quickActions": "快速操作",
+  "dashboard.quickAction.newStoryHint": "開始建立新的宇宙或故事",
+  "dashboard.quickAction.libraryHint": "尋找已儲存的故事",
   "404": "找不到頁面",
   "a11y.navigation": "導航",
   "a11y.user.menu": "使用者選單",
@@ -272,7 +277,6 @@
   "dashboard.blog": "您的部落格",
   "dashboard.profile": "您的個人資料",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "最新消息",
   "dashboard.writerResume": "作者簡歷",

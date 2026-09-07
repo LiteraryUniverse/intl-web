@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "ពង្រីកការរុករក",
+  "a11y.navigation.collapse": "បង្រួមការរុករក",
+  "dashboard.quickActions": "សកម្មភាពរហ័ស",
+  "dashboard.quickAction.newStoryHint": "ចាប់ផ្តើមពិភពលោក ឬរឿងថ្មី",
+  "dashboard.quickAction.libraryHint": "ស្វែងរករឿងដែលអ្នកបានរក្សាទុក",
   "404": "រកមិនឃើញទំព័រ",
   "a11y.navigation": "ការរុករក",
   "a11y.user.menu": "User menu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "ប្លុករបស់អ្នក",
   "dashboard.profile": "Your profile",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "អ្វីដែលថ្មី",
   "dashboard.writerResume": "Author's Resume",

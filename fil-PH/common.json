@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Palawakin ang nabigasyon",
+  "a11y.navigation.collapse": "Paliitin ang nabigasyon",
+  "dashboard.quickActions": "Mabilis na mga aksyon",
+  "dashboard.quickAction.newStoryHint": "Magsimula ng bagong uniberso o kuwento",
+  "dashboard.quickAction.libraryHint": "Hanapin ang iyong mga naka-save na kuwento",
   "404": "Hindi Mabasa ang Pahina",
   "a11y.navigation": "Pag-navigate",
   "a11y.user.menu": "Menu ng User",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Iyong blog",
   "dashboard.profile": "Iyong profile",
   "dashboard.resumeWriting": "Ipagpatuloy ang pagsusulat",
-  "dashboard.resumeWriting.description": "Bumalik agad sa kuwento o universe na pinakahuli mong pinagtrabahuhan.",
   "dashboard.resumeWriting.lastWorked": "Huling pinagtrabahuhan {time}.",
   "dashboard.whatsnew": "Ano ang bago",
   "dashboard.writerResume": "Resume ng May-akda",

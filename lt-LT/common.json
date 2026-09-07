@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Išskleisti naršymą",
+  "a11y.navigation.collapse": "Suskleisti naršymą",
+  "dashboard.quickActions": "Spartieji veiksmai",
+  "dashboard.quickAction.newStoryHint": "Pradėkite naują visatą arba istoriją",
+  "dashboard.quickAction.libraryHint": "Raskite išsaugotas istorijas",
   "404": "Puslapis nerastas",
   "a11y.navigation": "Navigacija",
   "a11y.user.menu": "Vartotojo meniu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Jūsų tinklaraštis",
   "dashboard.profile": "Jūsų profilis",
   "dashboard.resumeWriting": "Tęsti rašymą",
-  "dashboard.resumeWriting.description": "Grįžkite prie istorijos ar visatos, prie kurios dirbote paskiausiai.",
   "dashboard.resumeWriting.lastWorked": "Paskutinį kartą dirbta {time}.",
   "dashboard.whatsnew": "Kas naujo",
   "dashboard.writerResume": "Autoriaus gyvenimo aprašymas",

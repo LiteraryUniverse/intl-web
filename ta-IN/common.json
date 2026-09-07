@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "வழிசெலுத்தலை விரிவாக்கு",
+  "a11y.navigation.collapse": "வழிசெலுத்தலைச் சுருக்கு",
+  "dashboard.quickActions": "விரைவுச் செயல்கள்",
+  "dashboard.quickAction.newStoryHint": "புதிய உலகம் அல்லது கதையைத் தொடங்குங்கள்",
+  "dashboard.quickAction.libraryHint": "நீங்கள் சேமித்த கதைகளைக் கண்டறியுங்கள்",
   "404": "பக்கம் காணப்படவில்லை",
   "a11y.navigation": "வழிசெலுத்தல்",
   "a11y.user.menu": "பயனர் பட்டி",
@@ -272,7 +277,6 @@
   "dashboard.blog": "உங்கள் வலைப்பதிவு",
   "dashboard.profile": "உங்கள் சுயவிவரம்",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "என்னுடைய புதியது என்ன?",
   "dashboard.writerResume": "ஆசிரியரின் சுயவிவரம்",

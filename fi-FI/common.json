@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Laajenna navigointi",
+  "a11y.navigation.collapse": "Supista navigointi",
+  "dashboard.quickActions": "Pikatoiminnot",
+  "dashboard.quickAction.newStoryHint": "Aloita uusi universumi tai tarina",
+  "dashboard.quickAction.libraryHint": "Löydä tallentamasi tarinat",
   "404": "Sivua ei löytynyt",
   "a11y.navigation": "Navigointi",
   "a11y.user.menu": "Käyttäjävalikko",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Sinun blogi",
   "dashboard.profile": "Profiilisi",
   "dashboard.resumeWriting": "Jatka kirjoittamista",
-  "dashboard.resumeWriting.description": "Palaa tarinaan tai universumiin, jota työstit viimeksi.",
   "dashboard.resumeWriting.lastWorked": "Viimeksi työstetty {time}.",
   "dashboard.whatsnew": "Mitä uutta",
   "dashboard.writerResume": "Kirjoittajan ansioluettelo",

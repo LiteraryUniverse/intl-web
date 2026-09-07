@@ -1,4 +1,9 @@
 {
+  "a11y.navigation.expand": "Expand navigation",
+  "a11y.navigation.collapse": "Collapse navigation",
+  "dashboard.quickActions": "Quick actions",
+  "dashboard.quickAction.newStoryHint": "Start a new universe or story",
+  "dashboard.quickAction.libraryHint": "Find your saved stories",
   "404": "Page not found",
   "a11y.navigation": "Navigation",
   "a11y.user.menu": "User menu",
@@ -272,7 +277,6 @@
   "dashboard.blog": "Your blog",
   "dashboard.profile": "Your profile",
   "dashboard.resumeWriting": "Resume writing",
-  "dashboard.resumeWriting.description": "Jump back into the story or universe you worked on most recently.",
   "dashboard.resumeWriting.lastWorked": "Last worked on {time}.",
   "dashboard.whatsnew": "What is new",
   "dashboard.writerResume": "Author's Resume",
