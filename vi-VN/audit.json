@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Ngày",
   "auditLog.header.action": "Gì",
-  "auditLog.header.group": "Nhóm",
-  "auditLog.header.user": "Ai"
+  "auditLog.header.user": "Ai",
+  "auditLog.filter.from": "Từ",
+  "auditLog.filter.to": "Đến",
+  "auditLog.details": "Chi tiết"
 }

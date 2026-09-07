@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "தேதி",
   "auditLog.header.action": "என்ன",
-  "auditLog.header.group": "குழு",
-  "auditLog.header.user": "யார்"
+  "auditLog.header.user": "யார்",
+  "auditLog.filter.from": "முதல்",
+  "auditLog.filter.to": "வரை",
+  "auditLog.details": "விவரங்கள்"
 }

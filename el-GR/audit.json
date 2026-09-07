@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Ημερομηνία",
   "auditLog.header.action": "Τι",
-  "auditLog.header.group": "Ομάδα",
-  "auditLog.header.user": "Ποιος"
+  "auditLog.header.user": "Ποιος",
+  "auditLog.filter.from": "Από",
+  "auditLog.filter.to": "Έως",
+  "auditLog.details": "Λεπτομέρειες"
 }

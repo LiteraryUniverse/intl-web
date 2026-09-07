@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "日期",
   "auditLog.header.action": "什麼",
-  "auditLog.header.group": "群組",
-  "auditLog.header.user": "誰"
+  "auditLog.header.user": "誰",
+  "auditLog.filter.from": "從",
+  "auditLog.filter.to": "到",
+  "auditLog.details": "詳細資料"
 }

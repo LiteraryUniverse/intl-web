@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Päivämäärä",
   "auditLog.header.action": "Mikä",
-  "auditLog.header.group": "Ryhmä",
-  "auditLog.header.user": "Kuka"
+  "auditLog.header.user": "Kuka",
+  "auditLog.filter.from": "Alkaen",
+  "auditLog.filter.to": "Asti",
+  "auditLog.details": "Tiedot"
 }

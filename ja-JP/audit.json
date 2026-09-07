@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "日付",
   "auditLog.header.action": "何が",
-  "auditLog.header.group": "グループ",
-  "auditLog.header.user": "人"
+  "auditLog.header.user": "人",
+  "auditLog.filter.from": "開始日",
+  "auditLog.filter.to": "終了日",
+  "auditLog.details": "詳細"
 }

@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "날짜",
   "auditLog.header.action": "무엇",
-  "auditLog.header.group": "그룹",
-  "auditLog.header.user": "누구"
+  "auditLog.header.user": "누구",
+  "auditLog.filter.from": "시작일",
+  "auditLog.filter.to": "종료일",
+  "auditLog.details": "상세 정보"
 }

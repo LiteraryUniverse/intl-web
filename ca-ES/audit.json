@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Data",
   "auditLog.header.action": "Què",
-  "auditLog.header.group": "Grup",
-  "auditLog.header.user": "Qui"
+  "auditLog.header.user": "Qui",
+  "auditLog.filter.from": "Des de",
+  "auditLog.filter.to": "Fins a",
+  "auditLog.details": "Detalls"
 }

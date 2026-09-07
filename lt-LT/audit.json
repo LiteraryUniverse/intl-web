@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Data",
   "auditLog.header.action": "Kas",
-  "auditLog.header.group": "Grupė",
-  "auditLog.header.user": "Kas"
+  "auditLog.header.user": "Kas",
+  "auditLog.filter.from": "Nuo",
+  "auditLog.filter.to": "Iki",
+  "auditLog.details": "Išsami informacija"
 }

@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Дата",
   "auditLog.header.action": "Що",
-  "auditLog.header.group": "Група",
-  "auditLog.header.user": "Хто"
+  "auditLog.header.user": "Хто",
+  "auditLog.filter.from": "З",
+  "auditLog.filter.to": "По",
+  "auditLog.details": "Деталі"
 }

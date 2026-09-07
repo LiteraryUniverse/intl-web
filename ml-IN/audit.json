@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "തീയതി",
   "auditLog.header.action": "എന്ത്",
-  "auditLog.header.group": "ഗ്രൂപ്പ്",
-  "auditLog.header.user": "ആർക്ക്"
+  "auditLog.header.user": "ആർക്ക്",
+  "auditLog.filter.from": "മുതൽ",
+  "auditLog.filter.to": "വരെ",
+  "auditLog.details": "വിശദാംശങ്ങൾ"
 }

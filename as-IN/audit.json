@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "তারিখ",
   "auditLog.header.action": "কি",
-  "auditLog.header.group": "গোষ্ঠী",
-  "auditLog.header.user": "কে"
+  "auditLog.header.user": "কে",
+  "auditLog.filter.from": "পৰা",
+  "auditLog.filter.to": "লৈ",
+  "auditLog.details": "সবিশেষ"
 }

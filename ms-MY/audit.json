@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Tarikh",
   "auditLog.header.action": "Apa",
-  "auditLog.header.group": "Kumpulan",
-  "auditLog.header.user": "Siapa"
+  "auditLog.header.user": "Siapa",
+  "auditLog.filter.from": "Dari",
+  "auditLog.filter.to": "Hingga",
+  "auditLog.details": "Butiran"
 }

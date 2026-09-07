@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "თარიღი",
   "auditLog.header.action": "რა",
-  "auditLog.header.group": "ჯგუფი",
-  "auditLog.header.user": "ვინ"
+  "auditLog.header.user": "ვინ",
+  "auditLog.filter.from": "დან",
+  "auditLog.filter.to": "მდე",
+  "auditLog.details": "დეტალები"
 }

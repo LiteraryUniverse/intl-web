@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "తేదీ",
   "auditLog.header.action": "ఏమిటి",
-  "auditLog.header.group": "గ్రూప్",
-  "auditLog.header.user": "ఎవరు"
+  "auditLog.header.user": "ఎవరు",
+  "auditLog.filter.from": "నుండి",
+  "auditLog.filter.to": "వరకు",
+  "auditLog.details": "వివరాలు"
 }

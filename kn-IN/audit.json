@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "ದಿನಾಂಕ",
   "auditLog.header.action": "ಏನು",
-  "auditLog.header.group": "ಗುಂಪು",
-  "auditLog.header.user": "ಯಾರು"
+  "auditLog.header.user": "ಯಾರು",
+  "auditLog.filter.from": "ಇಂದ",
+  "auditLog.filter.to": "ವರೆಗೆ",
+  "auditLog.details": "ವಿವರಗಳು"
 }

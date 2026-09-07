@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "Pinanggal",
   "auditLog.header.action": "Napi",
-  "auditLog.header.group": "Grup",
-  "auditLog.header.user": "Sira"
+  "auditLog.header.user": "Sira",
+  "auditLog.filter.from": "Saking",
+  "auditLog.filter.to": "Kantos",
+  "auditLog.details": "Rincian"
 }

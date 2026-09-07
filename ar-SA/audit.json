@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "التاريخ",
   "auditLog.header.action": "ماذا",
-  "auditLog.header.group": "مجموعة",
-  "auditLog.header.user": "مَن"
+  "auditLog.header.user": "مَن",
+  "auditLog.filter.from": "من",
+  "auditLog.filter.to": "إلى",
+  "auditLog.details": "التفاصيل"
 }

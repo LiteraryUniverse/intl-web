@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "תאריך",
   "auditLog.header.action": "מה",
-  "auditLog.header.group": "קבוצה",
-  "auditLog.header.user": "מי"
+  "auditLog.header.user": "מי",
+  "auditLog.filter.from": "מ-",
+  "auditLog.filter.to": "עד",
+  "auditLog.details": "פרטים"
 }

@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "तारीख",
   "auditLog.header.action": "के",
-  "auditLog.header.group": "समूह",
-  "auditLog.header.user": "कौन"
+  "auditLog.header.user": "कौन",
+  "auditLog.filter.from": "सँ",
+  "auditLog.filter.to": "धरि",
+  "auditLog.details": "विवरण"
 }

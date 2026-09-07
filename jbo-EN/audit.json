@@ -1,6 +1,8 @@
 {
   "auditLog.header.date": "detri",
   "auditLog.header.action": "ma",
-  "auditLog.header.group": "girzu",
-  "auditLog.header.user": "prenu"
+  "auditLog.header.user": "prenu",
+  "auditLog.filter.from": "co'a",
+  "auditLog.filter.to": "co'u",
+  "auditLog.details": "tcila"
 }
