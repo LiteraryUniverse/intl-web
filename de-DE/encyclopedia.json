@@ -287,5 +287,7 @@
   "encyclopedia.search.filters.upgrade": "Abonnieren Sie den Storyteller-Tarif, um diese Filter freizuschalten.",
   "encyclopedia.search.filter.wip": "In Bearbeitung",
   "encyclopedia.search.filter.ai": "KI-generiert",
-  "encyclopedia.time.type.label": "Zeittyp"
+  "encyclopedia.time.type.label": "Zeittyp",
+  "encyclopedia.fields.fictionalTime": "Fiktive Zeit",
+  "encyclopedia.time.invalidFormat": "Entspricht nicht dem Format von {name}, zum Beispiel {example}"
 }

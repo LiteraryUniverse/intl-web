@@ -287,5 +287,7 @@
   "encyclopedia.search.filters.upgrade": "اشترك في خطة الروائي لفتح عوامل التصفية هذه.",
   "encyclopedia.search.filter.wip": "قيد التطوير",
   "encyclopedia.search.filter.ai": "من إنشاء الذكاء الاصطناعي",
-  "encyclopedia.time.type.label": "نوع الوقت"
+  "encyclopedia.time.type.label": "نوع الوقت",
+  "encyclopedia.fields.fictionalTime": "الوقت الخيالي",
+  "encyclopedia.time.invalidFormat": "لا يطابق تنسيق {name}، مثلاً {example}"
 }

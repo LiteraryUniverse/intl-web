@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Maak er nu een aan!",
   "workshop.fictionalTime.createTitle": "Maak een nieuwe fictieve tijd aan",
   "workshop.fictionalTime.editTitle": "Bewerk {ftName}",
-  "workshop.fictionalTime.formDescription": "Hier kunt u uw eigen fictieve tijd maken. Op dit moment is dit hulpmiddel beperkt en kan het alleen\n        symmetrische tijden maken. Dit betekent dat u niet in staat zult zijn om de Maya kalender of de Gregoriaanse kalender na te maken. Op dit moment verwacht\n        deze tool dat alle tijdsperioden altijd hetzelfde zijn, bijv. maanden hebben altijd 30 dagen zonder uitzonderingen, enzovoort\n        . In latere versies zullen we hier aandacht aan besteden, maar tot die tijd is deze tool meer geschikt voor het maken van voornamelijk op\n        sci-fi gebaseerde tijdsystemen.",
+  "workshop.fictionalTime.formDescription": "Definieer je tijd van de kleinste eenheid tot de grootste. Een eenheid kan in lengte variëren, bijvoorbeeld maanden met een verschillend aantal dagen, en elke waarde wordt geschreven als verstreken tijd sinds het begin van die tijd.",
   "workshop.fictionalTime.timeName": "Tijdnaam",
   "workshop.fictionalTime.basicInfo": "Basisinformatie",
   "workshop.fictionalTime.timeSetup": "Tijdsinstelling",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Optioneel: lengte van elke {unit} in {previous}, gescheiden door komma's (bijvoorbeeld 31, 28, 31 als maanden verschillen)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Eenheidslengtes moeten positieve gehele getallen zijn, één voor elke eenheid binnen de eerstvolgende grotere eenheid.",
+  "workshop.fictionalTime.exportJSON": "Configuratie exporteren (JSON)",
+  "fictionalTime.example": "Voorbeeld: {example}"
 }

@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "أنشئ واحدة الآن!",
   "workshop.fictionalTime.createTitle": "أنشئ وقت خيالي جديد",
   "workshop.fictionalTime.editTitle": "تحرير {ftName}",
-  "workshop.fictionalTime.formDescription": "هنا يمكنك إنشاء وقتك الخيالي الخاص بك. في الوقت الحالي، هذه الأداة محدودة وقادرة فقط على إنشاء\n        الأوقات المتماثلة. هذا يعني أنك لن تتمكن من إعادة إنشاء تقويم المايا أو التقويم الميلادي. في هذه اللحظة،\n        هذه الأداة تتوقع أن تكون جميع الفترات الزمنية متماثلة دائمًا، على سبيل المثال، الأشهر دائمًا 30 يومًا دون استثناءات وهكذا\n        . سنقوم بمعالجة هذا الأمر في إصدارات لاحقة، ولكن حتى ذلك الحين، هذه الأداة مناسبة أكثر لإنشاء أنظمة زمنية قائمة على\n        في المقام الأول على أساس الخيال العلمي.",
+  "workshop.fictionalTime.formDescription": "عرّف زمنك من أصغر وحدة إلى أكبرها. يمكن أن يختلف طول الوحدة، مثل الأشهر ذات عدد أيام مختلف، وتُكتب كل قيمة كزمن منقضٍ منذ بداية هذا الزمن.",
   "workshop.fictionalTime.timeName": "اسم الوقت",
   "workshop.fictionalTime.basicInfo": "معلومات أساسية",
   "workshop.fictionalTime.timeSetup": "إعداد الوقت",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "اختياري: طول كل {unit} بوحدات {previous}، مفصولة بفواصل (مثلاً 31, 28, 31 عندما تختلف الأشهر)",
+  "workshop.fictionalTime.unitLengthsInvalid": "يجب أن تكون أطوال الوحدات أعداداً صحيحة موجبة، واحد لكل وحدة داخل الوحدة الأكبر التالية.",
+  "workshop.fictionalTime.exportJSON": "تصدير الإعدادات (JSON)",
+  "fictionalTime.example": "مثال: {example}"
 }

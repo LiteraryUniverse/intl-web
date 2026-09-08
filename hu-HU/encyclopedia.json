@@ -287,5 +287,7 @@
   "encyclopedia.search.filters.upgrade": "Fizessen elő a Storyteller csomagra a szűrők feloldásához.",
   "encyclopedia.search.filter.wip": "Folyamatban lévő munka",
   "encyclopedia.search.filter.ai": "AI-generált",
-  "encyclopedia.time.type.label": "Idő típusa"
+  "encyclopedia.time.type.label": "Idő típusa",
+  "encyclopedia.fields.fictionalTime": "Kitalált idő",
+  "encyclopedia.time.invalidFormat": "Nem felel meg a(z) {name} formátumának, például {example}"
 }

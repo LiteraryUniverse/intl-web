@@ -287,5 +287,7 @@
   "encyclopedia.search.filters.upgrade": "Subscreva o plano Storyteller para desbloquear estes filtros.",
   "encyclopedia.search.filter.wip": "Trabalho em curso",
   "encyclopedia.search.filter.ai": "Gerado por IA",
-  "encyclopedia.time.type.label": "Tipo de tempo"
+  "encyclopedia.time.type.label": "Tipo de tempo",
+  "encyclopedia.fields.fictionalTime": "Tempo fictício",
+  "encyclopedia.time.invalidFormat": "Não corresponde ao formato de {name}, por exemplo {example}"
 }

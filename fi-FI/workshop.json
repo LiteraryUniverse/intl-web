@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Luo sellainen nyt!",
   "workshop.fictionalTime.createTitle": "Luo uusi kuvitteellinen aika",
   "workshop.fictionalTime.editTitle": "Muokkaa {ftName}",
-  "workshop.fictionalTime.formDescription": "Täällä voit luoda oman kuvitteellisen aikasi. Tällä hetkellä tämä työkalu on rajoitettu ja pystyy luomaan vain\n        symmetrisiä aikoja. Tämä tarkoittaa, että et voi luoda uudelleen Mayojen kalenteria tai gregoriaanista kalenteria. Tällä hetkellä\n        tämä työkalu olettaa, että kaikki ajanjaksot ovat aina samanlaisia, esim. kuukausissa on aina 30 päivää ilman poikkeuksia ja niin edelleen\n        . Tähän puututaan myöhemmissä versioissa, mutta siihen asti tämä työkalu soveltuu paremmin ensisijaisesti\n        sci-fi-pohjaisten aikajärjestelmien luomiseen.",
+  "workshop.fictionalTime.formDescription": "Määritä aikasi pienimmästä yksiköstä suurimpaan. Yksikön pituus voi vaihdella, esimerkiksi kuukaudet, joissa on eri määrä päiviä, ja jokainen arvo kirjoitetaan ajan alusta kuluneena aikana.",
   "workshop.fictionalTime.timeName": "Ajan nimi",
   "workshop.fictionalTime.basicInfo": "Perustiedot",
   "workshop.fictionalTime.timeSetup": "Ajan asetukset",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Valinnainen: kunkin {unit} pituus yksikössä {previous}, pilkuilla eroteltuna (esimerkiksi 31, 28, 31, kun kuukaudet eroavat)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Yksiköiden pituuksien on oltava positiivisia kokonaislukuja, yksi jokaista seuraavan suuremman yksikön sisällä olevaa yksikköä kohden.",
+  "workshop.fictionalTime.exportJSON": "Vie asetukset (JSON)",
+  "fictionalTime.example": "Esimerkki: {example}"
 }

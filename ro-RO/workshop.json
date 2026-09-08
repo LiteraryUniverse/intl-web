@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Creează una acum!",
   "workshop.fictionalTime.createTitle": "Creează o nouă timp ficțional",
   "workshop.fictionalTime.editTitle": "Editează {ftName}",
-  "workshop.fictionalTime.formDescription": "Aici vă puteți crea propriul timp fictiv. În prezent, acest instrument este limitat și este capabil să creeze doar timpuri simetrice\n        . Aceasta înseamnă că nu veți putea să recreați calendarul mayaș sau calendarul gregorian. În acest moment,\n        acest instrument se așteaptă ca toate perioadele de timp să fie întotdeauna la fel, de exemplu, lunile au întotdeauna 30 de zile fără excepții și așa mai departe\n        . Vom aborda acest aspect în versiunile ulterioare, dar până atunci, acest instrument este mai potrivit pentru crearea de sisteme temporale bazate în principal pe\n        sci-fi.",
+  "workshop.fictionalTime.formDescription": "Definește-ți timpul de la cea mai mică unitate la cea mai mare. O unitate poate varia în lungime, de exemplu luni cu un număr diferit de zile, iar fiecare valoare se scrie ca timp scurs de la începutul acelui timp.",
   "workshop.fictionalTime.timeName": "Numele timpului",
   "workshop.fictionalTime.basicInfo": "Informații de bază",
   "workshop.fictionalTime.timeSetup": "Configurare timp",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Opțional: lungimea fiecărui {unit} în {previous}, separate prin virgule (de exemplu 31, 28, 31 când lunile diferă)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Lungimile unităților trebuie să fie numere întregi pozitive, câte una pentru fiecare unitate din următoarea unitate mai mare.",
+  "workshop.fictionalTime.exportJSON": "Exportă configurația (JSON)",
+  "fictionalTime.example": "Exemplu: {example}"
 }

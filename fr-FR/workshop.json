@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Créez-en un maintenant !",
   "workshop.fictionalTime.createTitle": "Créer un nouveau temps fictif",
   "workshop.fictionalTime.editTitle": "Modifier {ftName}",
-  "workshop.fictionalTime.formDescription": "Vous pouvez y créer votre propre temps fictif. Actuellement, cet outil est limité et n'est capable de créer que des temps symétriques\n        . Cela signifie que vous ne pourrez pas recréer le calendrier maya ou le calendrier grégorien. Pour l'instant,\n        cet outil s'attend à ce que toutes les périodes de temps soient toujours les mêmes, c'est-à-dire que les mois aient toujours 30 jours sans exception, et ainsi de suite\n        . Nous y remédierons dans les versions ultérieures, mais en attendant, cet outil est plus adapté à la création de systèmes temporels basés sur la science-fiction\n        .",
+  "workshop.fictionalTime.formDescription": "Définissez votre temps de la plus petite unité à la plus grande. Une unité peut varier en longueur, par exemple des mois avec un nombre de jours différent, et chaque valeur s'écrit comme le temps écoulé depuis le début de ce temps.",
   "workshop.fictionalTime.timeName": "Nom du temps",
   "workshop.fictionalTime.basicInfo": "Informations de base",
   "workshop.fictionalTime.timeSetup": "Configuration du temps",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Facultatif : longueur de chaque {unit} en {previous}, séparées par des virgules (par exemple 31, 28, 31 si les mois diffèrent)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Les longueurs d'unités doivent être des nombres entiers positifs, un pour chaque unité contenue dans l'unité supérieure.",
+  "workshop.fictionalTime.exportJSON": "Exporter la configuration (JSON)",
+  "fictionalTime.example": "Exemple : {example}"
 }

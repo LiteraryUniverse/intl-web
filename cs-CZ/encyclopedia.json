@@ -287,5 +287,7 @@
   "encyclopedia.search.filters.upgrade": "Předplaťte si tarif Storyteller a odemkněte tyto filtry.",
   "encyclopedia.search.filter.wip": "Rozpracováno",
   "encyclopedia.search.filter.ai": "Vygenerováno AI",
-  "encyclopedia.time.type.label": "Typ času"
+  "encyclopedia.time.type.label": "Typ času",
+  "encyclopedia.fields.fictionalTime": "Fiktivní čas",
+  "encyclopedia.time.invalidFormat": "Neodpovídá formátu času {name}, například {example}"
 }

@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Crie um agora!",
   "workshop.fictionalTime.createTitle": "Criar um novo tempo fictício",
   "workshop.fictionalTime.editTitle": "Editar {ftName}",
-  "workshop.fictionalTime.formDescription": "Aqui pode criar o seu próprio tempo fictício. Atualmente, esta ferramenta é limitada e só é capaz de criar\n        tempos simétricos. Isto significa que não poderá recriar o calendário Maia ou o calendário Gregoriano. Neste momento,\n        esta ferramenta espera que todos os períodos de tempo sejam sempre iguais, por exemplo, os meses têm sempre 30 dias sem excepções e assim\n        por diante. Iremos abordar esta questão em versões posteriores, mas até lá, esta ferramenta é mais adequada para criar principalmente sistemas temporais baseados em\n        ficção científica.",
+  "workshop.fictionalTime.formDescription": "Defina o seu tempo da unidade mais pequena para a maior. Uma unidade pode variar de comprimento, por exemplo meses com um número diferente de dias, e cada valor é escrito como tempo decorrido desde o início desse tempo.",
   "workshop.fictionalTime.timeName": "Nome do tempo",
   "workshop.fictionalTime.basicInfo": "Informação básica",
   "workshop.fictionalTime.timeSetup": "Configuração do tempo",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Opcional: comprimento de cada {unit} em {previous}, separados por vírgulas (por exemplo 31, 28, 31 quando os meses diferem)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Os comprimentos das unidades têm de ser números inteiros positivos, um por cada unidade dentro da unidade maior seguinte.",
+  "workshop.fictionalTime.exportJSON": "Exportar configuração (JSON)",
+  "fictionalTime.example": "Exemplo: {example}"
 }

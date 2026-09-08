@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Sukurkite dabar!",
   "workshop.fictionalTime.createTitle": "Sukurkite naują fiktyvų laiką",
   "workshop.fictionalTime.editTitle": "Redaguoti {ftName}",
-  "workshop.fictionalTime.formDescription": "Čia galite susikurti savo išgalvotą laiką. Šiuo metu šis įrankis yra ribotas ir gali kurti tik\n        simetrinius laikus. Tai reiškia, kad negalėsite atkurti majų ar Grigaliaus kalendoriaus. Šiuo metu\n        šis įrankis tikisi, kad visi laiko periodai visada yra vienodi, pavyzdžiui, mėnesiai visada turi 30 dienų be jokių išimčių ir t. t.\n        . Šią problemą išspręsime vėlesnėse versijose, tačiau iki tol šis įrankis labiau tinka kurti daugiausia\n        sci-fi paremtas laiko sistemas.",
+  "workshop.fictionalTime.formDescription": "Apibrėžkite savo laiką nuo mažiausio vieneto iki didžiausio. Vieneto ilgis gali skirtis, pavyzdžiui mėnesiai su skirtingu dienų skaičiumi, o kiekviena reikšmė rašoma kaip laikas, praėjęs nuo to laiko pradžios.",
   "workshop.fictionalTime.timeName": "Laiko pavadinimas",
   "workshop.fictionalTime.basicInfo": "Pagrindinė informacija",
   "workshop.fictionalTime.timeSetup": "Laiko nustatymas",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Neprivaloma: kiekvieno {unit} ilgis {previous} vienetais, atskirtas kableliais (pavyzdžiui 31, 28, 31, kai mėnesiai skiriasi)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Vienetų ilgiai turi būti teigiami sveikieji skaičiai, po vieną kiekvienam vienetui kito didesnio vieneto viduje.",
+  "workshop.fictionalTime.exportJSON": "Eksportuoti konfigūraciją (JSON)",
+  "fictionalTime.example": "Pavyzdys: {example}"
 }

@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Stwórz go już teraz!",
   "workshop.fictionalTime.createTitle": "Utwórz nowy fikcyjny czas",
   "workshop.fictionalTime.editTitle": "Edytuj {ftName}",
-  "workshop.fictionalTime.formDescription": "Tutaj mogą Państwo stworzyć swój własny fikcyjny czas. Obecnie narzędzie to jest ograniczone i umożliwia jedynie tworzenie symetrycznych czasów\n        . Oznacza to, że nie będą Państwo w stanie odtworzyć kalendarza Majów lub kalendarza gregoriańskiego. W tej chwili\n        to narzędzie oczekuje, że wszystkie okresy czasu są zawsze takie same, np. miesiące zawsze mają 30 dni bez wyjątków i tak dalej\n        . Zajmiemy się tym w późniejszych wersjach, ale do tego czasu narzędzie to jest bardziej odpowiednie do tworzenia głównie\n        systemów czasu opartych na sci-fi.",
+  "workshop.fictionalTime.formDescription": "Zdefiniuj swój czas od najmniejszej jednostki do największej. Jednostka może mieć zmienną długość, na przykład miesiące o różnej liczbie dni, a każda wartość jest zapisywana jako czas, który upłynął od początku tego czasu.",
   "workshop.fictionalTime.timeName": "Nazwa czasu",
   "workshop.fictionalTime.basicInfo": "Podstawowe informacje",
   "workshop.fictionalTime.timeSetup": "Konfiguracja czasu",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Opcjonalnie: długość każdej jednostki {unit} w jednostkach {previous}, oddzielone przecinkami (na przykład 31, 28, 31, gdy miesiące się różnią)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Długości jednostek muszą być dodatnimi liczbami całkowitymi, po jednej dla każdej jednostki w najbliższej większej jednostce.",
+  "workshop.fictionalTime.exportJSON": "Eksportuj konfigurację (JSON)",
+  "fictionalTime.example": "Przykład: {example}"
 }

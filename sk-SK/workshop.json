@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Vytvorte si ho teraz!",
   "workshop.fictionalTime.createTitle": "Vytvoriť nový fiktívny čas",
   "workshop.fictionalTime.editTitle": "Upraviť {ftName}",
-  "workshop.fictionalTime.formDescription": "Tu si môžete vytvoriť vlastný fiktívny čas. V súčasnosti je tento nástroj obmedzený a dokáže vytvárať len\n        symetrické časy. To znamená, že nebudete môcť vytvoriť mayský alebo gregoriánsky kalendár. V tejto chvíli\n        tento nástroj očakáva, že všetky časové obdobia sú vždy rovnaké, napr. mesiace majú vždy 30 dní bez výnimky a tak\n        ďalej. Budeme to riešiť v neskorších verziách, ale dovtedy je tento nástroj vhodnejší na vytváranie predovšetkým\n        časových systémov založených na sci-fi.",
+  "workshop.fictionalTime.formDescription": "Definujte svoj čas od najmenšej jednotky po najväčšiu. Jednotka môže mať premenlivú dĺžku, napríklad mesiace s rôznym počtom dní, a každá hodnota sa zapisuje ako čas uplynutý od začiatku tohto času.",
   "workshop.fictionalTime.timeName": "Názov času",
   "workshop.fictionalTime.basicInfo": "Základné informácie",
   "workshop.fictionalTime.timeSetup": "Nastavenie času",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Voliteľné: dĺžka každej jednotky {unit} v jednotkách {previous}, oddelené čiarkou (napríklad 31, 28, 31, ak sa mesiace líšia)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Dĺžky jednotiek musia byť kladné celé čísla, jedno pre každú jednotku vnútri najbližšej väčšej jednotky.",
+  "workshop.fictionalTime.exportJSON": "Exportovať konfiguráciu (JSON)",
+  "fictionalTime.example": "Príklad: {example}"
 }

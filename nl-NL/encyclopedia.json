@@ -287,5 +287,7 @@
   "encyclopedia.search.filters.upgrade": "Abonneer op het Storyteller-abonnement om deze filters te ontgrendelen.",
   "encyclopedia.search.filter.wip": "In bewerking",
   "encyclopedia.search.filter.ai": "AI-gegenereerd",
-  "encyclopedia.time.type.label": "Tijdtype"
+  "encyclopedia.time.type.label": "Tijdtype",
+  "encyclopedia.fields.fictionalTime": "Fictieve tijd",
+  "encyclopedia.time.invalidFormat": "Komt niet overeen met de notatie van {name}, bijvoorbeeld {example}"
 }

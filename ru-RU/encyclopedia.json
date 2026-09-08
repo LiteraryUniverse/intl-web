@@ -287,5 +287,7 @@
   "encyclopedia.search.filters.upgrade": "Подпишитесь на план «Рассказчик», чтобы разблокировать эти фильтры.",
   "encyclopedia.search.filter.wip": "В работе",
   "encyclopedia.search.filter.ai": "Сгенерировано ИИ",
-  "encyclopedia.time.type.label": "Тип времени"
+  "encyclopedia.time.type.label": "Тип времени",
+  "encyclopedia.fields.fictionalTime": "Время фанфика",
+  "encyclopedia.time.invalidFormat": "Не соответствует формату времени {name}, например {example}"
 }

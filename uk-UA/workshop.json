@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Створіть його зараз!",
   "workshop.fictionalTime.createTitle": "Створити новий неіснуючий час",
   "workshop.fictionalTime.editTitle": "Редагувати {ftName}",
-  "workshop.fictionalTime.formDescription": "Тут ви можете створити власний вигаданий час. Наразі цей інструмент обмежений і може створювати лише симетричний час\n        . Це означає, що ви не зможете відтворити календар майя або григоріанський календар. На даний момент\n        цей інструмент очікує, що всі часові періоди завжди однакові, наприклад, місяці завжди мають 30 днів без винятків і так\n        далі. Ми вирішимо цю проблему в наступних версіях, але поки що цей інструмент більше підходить для створення насамперед\n        науково-фантастичних систем часу.",
+  "workshop.fictionalTime.formDescription": "Визначте свій час від найменшої одиниці до найбільшої. Одиниця може мати різну довжину, наприклад місяці з різною кількістю днів, а кожне значення записується як час, що минув від початку цього часу.",
   "workshop.fictionalTime.timeName": "Назва часового періоду",
   "workshop.fictionalTime.basicInfo": "Основа інформація",
   "workshop.fictionalTime.timeSetup": "Налаштування часового періоду",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Необов'язково: довжина кожної одиниці {unit} в одиницях {previous}, через кому (наприклад 31, 28, 31, якщо місяці відрізняються)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Довжини одиниць мають бути додатними цілими числами, по одній для кожної одиниці всередині наступної більшої одиниці.",
+  "workshop.fictionalTime.exportJSON": "Експортувати конфігурацію (JSON)",
+  "fictionalTime.example": "Приклад: {example}"
 }

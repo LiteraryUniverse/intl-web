@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Şimdi bir tane oluşturun!",
   "workshop.fictionalTime.createTitle": "Yeni bir hayali zaman oluştur",
   "workshop.fictionalTime.editTitle": "Düzenle {ftName}",
-  "workshop.fictionalTime.formDescription": "Burada kendi kurgusal zamanınızı oluşturabilirsiniz. Şu anda bu araç sınırlıdır ve yalnızca\n        simetrik zamanlar oluşturabilmektedir. Bu, Maya takvimini veya Gregoryen takvimini yeniden yaratamayacağınız anlamına gelir. Şu anda\n        bu araç tüm zaman dilimlerinin her zaman aynı olmasını beklemektedir; örneğin aylar istisnasız her zaman 30 gündür ve bu şekilde\n        devam eder. Bunu daha sonraki sürümlerde ele alacağız, ancak o zamana kadar bu araç öncelikle\n        sci-fi tabanlı zaman sistemleri oluşturmak için daha uygundur.",
+  "workshop.fictionalTime.formDescription": "Zamanınızı en küçük birimden en büyüğe doğru tanımlayın. Bir birimin uzunluğu değişebilir, örneğin farklı gün sayısına sahip aylar; her değer o zamanın başlangıcından itibaren geçen süre olarak yazılır.",
   "workshop.fictionalTime.timeName": "Zaman adı",
   "workshop.fictionalTime.basicInfo": "Temel bilgiler",
   "workshop.fictionalTime.timeSetup": "Zaman ayarı",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "İsteğe bağlı: her {unit} için {previous} cinsinden uzunluk, virgülle ayrılmış (örneğin aylar farklıysa 31, 28, 31)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Birim uzunlukları pozitif tam sayı olmalı ve bir sonraki büyük birimin içindeki her birim için bir tane bulunmalıdır.",
+  "workshop.fictionalTime.exportJSON": "Yapılandırmayı dışa aktar (JSON)",
+  "fictionalTime.example": "Örnek: {example}"
 }

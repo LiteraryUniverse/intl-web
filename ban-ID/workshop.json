@@ -248,7 +248,7 @@
   "workshop.fictionalTime.createNow": "Create one now!",
   "workshop.fictionalTime.createTitle": "Create a new fictional time",
   "workshop.fictionalTime.editTitle": "Edit {ftName}",
-  "workshop.fictionalTime.formDescription": "Here you can create your own fictional time. Currently this tool is limited and is only capable of creating\n        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment\n        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so\n        on. We will address this in later versions, but till then this tool is more suited for creating primarily\n        sci-fi based times.",
+  "workshop.fictionalTime.formDescription": "Tentuang galah ragané saking unit sané pinih alit kantos pinih ageng. Unit prasida mabinayan panjangnyané, minakadi sasih sané mabinayan akéh rahinanyané, tur sakancan nilai kasurat pinaka galah sané sampun lintang saking pangawit galah punika.",
   "workshop.fictionalTime.timeName": "Time name",
   "workshop.fictionalTime.basicInfo": "Basic information",
   "workshop.fictionalTime.timeSetup": "Time setup",
@@ -812,5 +812,9 @@
   "workshop.requests.expires": "Expires {date, date, short}",
   "workshop.monetization.explicitNotEligible": "Explicit-rated works cannot be monetized: our payment processor's policy does not allow selling explicit content. The work stays readable for free.",
   "workshop.rating.monetizedNotice": "This work has active pricing, so it cannot be rated Explicit (21+) — payment processor policy. Remove monetization first.",
-  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background."
+  "workshop.monetization.explicitNotEligible.more": "Why? Read the policy and the background.",
+  "workshop.fictionalTime.unitLengths": "Pilihan: panjang saban {unit} ring {previous}, kapalasang antuk koma (minakadi 31, 28, 31 yéning sasih mabinayan)",
+  "workshop.fictionalTime.unitLengthsInvalid": "Panjang unit patut wilangan bulat positif, asiki ring saban unit sané wénten ring unit sané agengan salanturnyané.",
+  "workshop.fictionalTime.exportJSON": "Ekspor konfigurasi (JSON)",
+  "fictionalTime.example": "Conto: {example}"
 }
