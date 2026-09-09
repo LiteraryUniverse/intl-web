@@ -166,5 +166,12 @@
   "resume.theme.font.sans": "Sans-serif",
   "resume.theme.font.mono": "Monospace",
   "resume.theme.font.serif": "Serif",
-  "resume.access.linkName.placeholder": "f.eks. Til bokmessen 2026"
+  "resume.access.linkName.placeholder": "f.eks. Til bokmessen 2026",
+  "resume.showcase.workComment": "About this work",
+  "resume.showcase.managePreview": "Manage publisher preview",
+  "resume.preview.description": "Choose what publishers can preview: an uploaded file, a generated EPUB excerpt, or selected chapters.",
+  "resume.preview.uploadFile": "Upload a file",
+  "resume.preview.invalidRange": "Enter a valid chapter range, starting at chapter 1 or later.",
+  "resume.preview.preparing": "Preparing your preview. Keep this page open.",
+  "resume.preview.generatedAt": "EPUB generated on {date, date, medium}."
 }
