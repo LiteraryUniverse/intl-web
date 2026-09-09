@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Univerzum LLMs.txt",
   "seo.universe.encyclopediaLlms": "Univerzum-enciklopédia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Közzététel dátuma és ideje: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Tanfolyamok",
   "courses.overview": "Kurzusok áttekintése",
   "courses.public.title": "Tanfolyamok felfedezése",

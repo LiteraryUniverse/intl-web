@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "प्रकाशन मिति र समय: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "कोर्सहरू",
   "courses.overview": "कोर्सहरूको अवलोकन",
   "courses.public.title": "Explore Courses",

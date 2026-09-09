@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Petsa at oras ng paglathala: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Mga Kurso",
   "courses.overview": "Pangkalahatang-ideya sa mga Kurso",
   "courses.public.title": "Explore Courses",

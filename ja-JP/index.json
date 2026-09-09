@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "ユニバース LLMs.txt",
   "seo.universe.encyclopediaLlms": "ユニバース百科事典 LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "公開日時: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "コース",
   "courses.overview": "コースの概要",
   "courses.public.title": "コース検索",

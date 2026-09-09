@@ -448,5 +448,6 @@
   "seo.opensearch.users": "LU-käyttäjähaku",
   "seo.universe.llms": "Universumin LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universumin tietosanakirjan LLMs.txt",
-  "common.legal.security": "Security"
+  "common.legal.security": "Security",
+  "common.publishAtDate": "Julkaisupäivä ja -aika: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
 }

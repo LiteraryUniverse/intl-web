@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Evren LLMs.txt",
   "seo.universe.encyclopediaLlms": "Evren ansiklopedisi LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Yayın tarihi ve saati: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Kurslar",
   "courses.overview": "Dersler genel bakışı",
   "courses.public.title": "Kursları Keşfedin",

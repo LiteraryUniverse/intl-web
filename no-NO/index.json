@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Univers LLMs.txt",
   "seo.universe.encyclopediaLlms": "Univers-encyklopedi LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Publiseringsdato og -tid: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Courses",
   "courses.overview": "Oversikt over kurs",
   "courses.public.title": "Explore Courses",

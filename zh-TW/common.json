@@ -448,5 +448,6 @@
   "seo.opensearch.users": "LU 使用者搜尋",
   "seo.universe.llms": "宇宙 LLMs.txt",
   "seo.universe.encyclopediaLlms": "宇宙百科 LLMs.txt",
-  "common.legal.security": "Security"
+  "common.legal.security": "Security",
+  "common.publishAtDate": "發佈日期和時間: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
 }

@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "ಪ್ರಕಟಣೆ ದಿನಾಂಕ ಮತ್ತು ಸಮಯ: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "ಪಾಠಗಳು",
   "courses.overview": "ಕೋರ್ಸ್ ಒವೆರ್ವ್ಯೂ",
   "courses.public.title": "Explore Courses",

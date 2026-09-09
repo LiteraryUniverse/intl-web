@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "প্ৰকাশৰ তাৰিখ আৰু সময়: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "পাঠ্যক্রমসমূহ",
   "courses.overview": "ক'ৰ্সসমূহৰ অৱলোকন",
   "courses.public.title": "Explore Courses",

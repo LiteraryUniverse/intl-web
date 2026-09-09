@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Publikavimo data ir laikas: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Kursai",
   "courses.overview": "Kursų apžvalga",
   "courses.public.title": "Naršyti kursus",

@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "སྤེལ་བའི་ཚེས་དང་དུས་ཚོད: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "སློབ་ཚན།",
   "courses.overview": "སློབ་ཚན་གྱི་སྐོར་འགྱུར།",
   "courses.public.title": "Explore Courses",

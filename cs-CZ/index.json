@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "LLMs.txt univerz",
   "seo.universe.encyclopediaLlms": "LLMs.txt encyklopedie univerz",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Datum a čas zveřejnění: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Kurzy",
   "courses.overview": "Přehled kurzů",
   "courses.public.title": "Prozkoumat kurzy",

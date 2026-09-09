@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "LLMs.txt de l’univers",
   "seo.universe.encyclopediaLlms": "LLMs.txt de l’encyclopédie de l’univers",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Date et heure de publication: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Cours",
   "courses.overview": "Aperçu des cours",
   "courses.public.title": "Explorer les cours",

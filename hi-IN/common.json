@@ -448,5 +448,6 @@
   "seo.opensearch.users": "LU उपयोगकर्ता खोज",
   "seo.universe.llms": "ब्रह्मांड LLMs.txt",
   "seo.universe.encyclopediaLlms": "ब्रह्मांड विश्वकोश LLMs.txt",
-  "common.legal.security": "Security"
+  "common.legal.security": "Security",
+  "common.publishAtDate": "प्रकाशन तिथि और समय: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
 }

@@ -448,5 +448,6 @@
   "seo.opensearch.users": "חיפוש משתמשי LU",
   "seo.universe.llms": "LLMs.txt של היקום",
   "seo.universe.encyclopediaLlms": "LLMs.txt של אנציקלופדיית היקום",
-  "common.legal.security": "Security"
+  "common.legal.security": "Security",
+  "common.publishAtDate": "תאריך ושעת פרסום: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
 }

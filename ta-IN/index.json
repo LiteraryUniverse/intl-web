@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
+  "common.publishAtDate": "வெளியீட்டுத் தேதி மற்றும் நேரம்: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "பாடநெறிகள்",
   "courses.overview": "பாடநெறி செய்திகள்",
   "courses.public.title": "Explore Courses",

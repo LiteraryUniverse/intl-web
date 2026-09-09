@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "LLMs.txt alam semesta",
   "seo.universe.encyclopediaLlms": "LLMs.txt ensiklopedia alam semesta",
   "common.legal.security": "Security",
+  "common.publishAtDate": "Tanggal dan waktu penerbitan: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "Kursus",
   "courses.overview": "Gambaran overview kursus",
   "courses.public.title": "Jelajahi Kursus",

@@ -1219,6 +1219,7 @@
   "seo.universe.llms": "LLMs.txt של היקום",
   "seo.universe.encyclopediaLlms": "LLMs.txt של אנציקלופדיית היקום",
   "common.legal.security": "Security",
+  "common.publishAtDate": "תאריך ושעת פרסום: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "courses.courses": "קורסים",
   "courses.overview": "סקירת הקורסים",
   "courses.public.title": "גלו קורסים",

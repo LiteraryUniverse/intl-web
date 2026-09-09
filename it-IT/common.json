@@ -448,5 +448,6 @@
   "seo.opensearch.users": "Ricerca utenti LU",
   "seo.universe.llms": "LLMs.txt dell’universo",
   "seo.universe.encyclopediaLlms": "LLMs.txt dell’enciclopedia dell’universo",
-  "common.legal.security": "Security"
+  "common.legal.security": "Security",
+  "common.publishAtDate": "Data e ora di pubblicazione: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
 }
