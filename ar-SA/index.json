@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "لا يوجد لديك حاليًا {type, select,\n    organization {أي مدونة}\n    universe {مدونة لعالمك}\n    user {مدونة}\n    other {مدونة}\n  }.",
   "blog.create": "إنشاء مدونة جديدة",
   "blog.settings": "{type, select,\n    org {صفحة المدونة في الكون}\n    universe {إعدادات المدونة}\n    user {المدونة}\n    other {}\n  }",

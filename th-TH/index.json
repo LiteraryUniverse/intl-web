@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "ขณะนี้คุณไม่มี {type, select,\n    organization {บล็อกใด ๆ}\n    universe {บล็อกสำหรับจักรวาลของคุณ}\n    user {บล็อก}\n    other {บล็อก}\n  }.",
   "blog.create": "สร้างบล็อกใหม่",
   "blog.settings": "บล็อก {type, select,\n    org {หน้าจักรวาล}\n    universe {บล็อก}\n    user {}\n    other {การตั้งค่า}\n  }",

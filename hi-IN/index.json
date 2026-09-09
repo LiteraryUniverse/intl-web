@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "वर्तमान में आपके पास {type, select,\n    organization {कोई भी ब्लॉग नहीं हैं}\n    universe {एक यूनिवर्स के लिए ब्लॉग}\n    user {एक ब्लॉग}\n    other {एक ब्लॉग}\n  }।",
   "blog.create": "नया ब्लॉग बनाएं",
   "blog.settings": "{type, select,\n    org {ब्लॉग}\n    universe {यूनिवर्स पेज}\n    user {ब्लॉग}\n    other {}\n  } सेटिंग्स",

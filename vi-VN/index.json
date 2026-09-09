@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "Hiện tại bạn chưa có {type, select,\n    organization {bất kỳ blog nào}\n    universe {một blog dành riêng cho thế giới của bạn}\n    user {một blog}\n    other {một blog}\n  }.",
   "blog.create": "Tạo một blog mới",
   "blog.settings": "{type, select,\n    org {Trang Blog}\n    universe {Trang Vũ trụ}\n    user {Trang Blog}\n    other {}\n  } Cài đặt",

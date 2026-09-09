@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "У вас наразі немає {type, select,\n    organization {жодного блогу}\n    universe {блог для вашого всесвіту}\n    user {блог}\n    other {блог}\n  }.",
   "blog.create": "Створити новий блог",
   "blog.settings": "{type, select,\n    org {Сторінка Всесвіту блогу}\n    universe {Налаштування блогу}\n    user {Блог}\n    other {}\n  }",

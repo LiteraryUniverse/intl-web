@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਸਮੇਂ {type, select,\n    organization {ਕੋਈ ਬਲੌਗ ਨਹੀਂ}\n    universe {ਤੁਹਾਡੇ ਬ੍ਰਹਿਮੰਡ ਲਈ ਇੱਕ ਬਲੌਗ}\n    user {ਇੱਕ ਬਲੌਗ}\n    other {ਇੱਕ ਬਲੌਗ}\n  } ਨਹੀਂ ਹੈ।",
   "blog.create": "ਇੱਕ ਨਵਾਂ ਬਲਾਗ ਬਣਾਓ",
   "blog.settings": "{type, select,\n    org {ਬਲਾਗ}\n    universe {ਯੂਨੀਵਰਸ ਪੰਨਾ}\n    user {ਬਲਾਗ}\n    other {}\n  } ਸੈਟਿੰਗਾਂ",

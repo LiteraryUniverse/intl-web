@@ -45,5 +45,7 @@
   "auditLog.target.forum": "Forum",
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
-  "auditLog.target.organizationLicense": "Organization license"
+  "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type"
 }

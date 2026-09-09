@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "Saat ini Anda tidak memiliki {type, select,\n    organization {blog}\n    universe {sebuah blog untuk alam semesta Anda}\n    user {sebuah blog}\n    other {sebuah blog}\n  }.",
   "blog.create": "Buat blog baru",
   "blog.settings": "{type, select,\n    org {Blog}\n    universe {Halaman alam semesta}\n    user {Blog}\n    other {}\n  } pengaturan",

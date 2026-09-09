@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "আপুনি বৰ্তমানে কোনো ব্লগ নাই {type, select,\n    organization {আপোনাৰ বিশ্বৰ বাবে এটা ব্লগ}\n    universe {নহয়}\n    user {এটা ব্লগ}\n    other {এটা ব্লগ}\n  }।",
   "blog.create": "নতুন ব্লগ তৈরি কৰক",
   "blog.settings": "{type, select,\n    org {ব্লগটো}\n    universe {ইউনিভার্সৰ পৃষ্ঠা}\n    user {ব্লগটো}\n    other {}\n  } ছেটিংস",

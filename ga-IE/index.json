@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "Níl {type, select,\n    organization {bliog ar bith agat faoi láthair}\n    universe {bliog do do dhomhan}\n    user {bliog}\n    other {bliog}\n  }.",
   "blog.create": "Cruthaigh blag nua",
   "blog.settings": "{type, select,\n    org {Blag}\n    universe {Leathanach Domhainthreoir}\n    user {Blag}\n    other {}\n  } socrúcháin",

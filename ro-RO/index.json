@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "În prezent nu ai {type, select,\n    organization {niciun blog}\n    universe {un blog pentru universul tău}\n    user {un blog}\n    other {un blog}\n  }.",
   "blog.create": "Creați un blog nou",
   "blog.settings": "Setări blog {type, select,\n    org {Pagina univers}\n    universe {Setări blog}\n    user {}\n    other {}\n  }",

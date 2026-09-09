@@ -162,6 +162,8 @@
   "auditLog.target.course": "Course",
   "auditLog.target.flashnews": "Announcement",
   "auditLog.target.organizationLicense": "Organization license",
+  "auditLog.filter.action": "Action",
+  "auditLog.filter.target": "Target type",
   "blog.noneMsg": "આપ હાલ કોઈ {type, select,\n    organization {કોઇ બ્લોગ નથી}\n    universe {તમારા યુનિવર્સ માટે એક બ્લોગ નથી}\n    user {બ્લોગ}\n    other {બ્લોગ}\n  }.",
   "blog.create": "નવી બ્લોગ બનાવો",
   "blog.settings": "ગણિતશાસ્ત્ર {type, select,\n    org {બ્લોગ}\n    universe {યુનિવર્સ પઃણ}\n    user {બ્લોગ}\n    other {}\n  } સ૆ટ્ટિંગ્સ",
