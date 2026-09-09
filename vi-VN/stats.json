@@ -153,5 +153,19 @@
   "stats.hits.comingSoon": "Hits over time chart coming soon...",
   "stats.visitors.comingSoon": "Visitors over time chart coming soon...",
   "stats.blog.noPageStats": "Không có thống kê trang blog.",
-  "stats.chapter.numberWithSequence": "Chương {sequence, number}"
+  "stats.chapter.numberWithSequence": "Chương {sequence, number}",
+  "stats.reading.averagePerReader": "Average time per reader",
+  "stats.reading.summaryPeriod": "Summary and quarters: {from} to {to} (UTC).",
+  "stats.reading.activityPeriod": "Activity by day and hour: {from} to {to} (UTC).",
+  "stats.traffic.views": "Page views",
+  "stats.traffic.visitors": "Daily unique visitors",
+  "stats.traffic.empty": "No recorded traffic in this period.",
+  "stats.traffic.explanation": "UTC daily counts. A returning visitor can appear on several days; daily unique visitors cannot be added into a period total. Only recorded days are shown.",
+  "stats.traffic.title": "Story traffic",
+  "stats.traffic.date": "Date (UTC)",
+  "stats.traffic.count": "Count",
+  "stats.traffic.from": "From date",
+  "stats.traffic.to": "To date",
+  "stats.traffic.apply": "Apply dates",
+  "stats.traffic.rangeHelp": "Choose up to 366 days. Recent dates depend on when traffic recording began."
 }
