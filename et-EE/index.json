@@ -4179,6 +4179,7 @@
   "resume.preview.invalidRange": "Enter a valid chapter range, starting at chapter 0 or later.",
   "resume.preview.preparing": "Preparing your preview. Keep this page open.",
   "resume.preview.generatedAt": "EPUB generated on {date, date, medium}.",
+  "resume.preview.superseded": "Your preview settings changed while the EPUB was being generated. Please try again.",
   "roadmap.meta.description": "Kirjandusuniversumi arendamise plaanid.",
   "roadmap.ariaTimeOptions": "Valikud teekonnapunktide jaoks nende oleku põhjal.",
   "roadmap.state.backlog": "Tagalug",

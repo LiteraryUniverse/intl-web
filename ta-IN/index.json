@@ -4179,6 +4179,7 @@
   "resume.preview.invalidRange": "Enter a valid chapter range, starting at chapter 0 or later.",
   "resume.preview.preparing": "Preparing your preview. Keep this page open.",
   "resume.preview.generatedAt": "EPUB generated on {date, date, medium}.",
+  "resume.preview.superseded": "Your preview settings changed while the EPUB was being generated. Please try again.",
   "roadmap.meta.description": "Plans for Literary Universe development.",
   "roadmap.ariaTimeOptions": "அட்டவணை உருப்படிகளுக்கு அவற்றின் நிலைமைக்கு அடிப்படையில் தேர்வுகள்.",
   "roadmap.state.backlog": "பின்னணி",

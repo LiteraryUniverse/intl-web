@@ -4179,6 +4179,7 @@
   "resume.preview.invalidRange": "Enter a valid chapter range, starting at chapter 0 or later.",
   "resume.preview.preparing": "Preparing your preview. Keep this page open.",
   "resume.preview.generatedAt": "EPUB generated on {date, date, medium}.",
+  "resume.preview.superseded": "Your preview settings changed while the EPUB was being generated. Please try again.",
   "roadmap.meta.description": "Rencana pengembangan Literary Universe.",
   "roadmap.ariaTimeOptions": "Pilihan untuk item-item dalam roadmap berdasarkan status mereka.",
   "roadmap.state.backlog": "Backlog",
