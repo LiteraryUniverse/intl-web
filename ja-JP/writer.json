@@ -71,5 +71,7 @@
   "writer.ruby": "ルビー",
   "writer.ruby.placeholder": "読みを入力（例： かんじ）",
   "writer.linkToWork": "宇宙、物語、章へのリンク",
-  "writer.insertWorkCard": "ストーリーまたはユニバース・カードを挿入"
+  "writer.insertWorkCard": "ストーリーまたはユニバース・カードを挿入",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

@@ -5652,5 +5652,7 @@
   "writer.ruby": "Руби",
   "writer.ruby.placeholder": "Введите показания (например, かんじ)",
   "writer.linkToWork": "Ссылка на вселенную, историю или главу",
-  "writer.insertWorkCard": "Вставьте карту истории или вселенной"
+  "writer.insertWorkCard": "Вставьте карту истории или вселенной",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

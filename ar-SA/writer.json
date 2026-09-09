@@ -71,5 +71,7 @@
   "writer.ruby": "روبي",
   "writer.ruby.placeholder": "أدخل القراءة (على سبيل المثال か んじじ)",
   "writer.linkToWork": "رابط إلى عالم أو قصة أو فصل",
-  "writer.insertWorkCard": "أدخل القصة أو بطاقة الكون"
+  "writer.insertWorkCard": "أدخل القصة أو بطاقة الكون",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Enter reading (e.g. かんじ)",
   "writer.linkToWork": "ఒక విశ్వం, కథ లేదా అధ్యాయానికి లింక్",
-  "writer.insertWorkCard": "కథ లేదా విశ్వ కార్డును చొప్పించండి"
+  "writer.insertWorkCard": "కథ లేదా విశ్వ కార్డును చొప్పించండి",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

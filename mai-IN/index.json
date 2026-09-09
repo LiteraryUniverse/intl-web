@@ -5652,5 +5652,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Enter reading (e.g. かんじ)",
   "writer.linkToWork": "एक ब्रह्माण्ड, कथा वा अध्यायक लिंक",
-  "writer.insertWorkCard": "कथा वा ब्रह्माण्ड कार्ड घुसाउ।"
+  "writer.insertWorkCard": "कथा वा ब्रह्माण्ड कार्ड घुसाउ।",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

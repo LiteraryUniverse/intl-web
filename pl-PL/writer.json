@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Proszę wprowadzić odczyt (np. かんじ)",
   "writer.linkToWork": "Link do uniwersum, historii lub rozdziału",
-  "writer.insertWorkCard": "Proszę wstawić historię lub kartę uniwersum"
+  "writer.insertWorkCard": "Proszę wstawić historię lub kartę uniwersum",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

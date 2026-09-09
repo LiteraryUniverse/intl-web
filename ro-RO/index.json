@@ -5652,5 +5652,7 @@
   "writer.ruby": "Rubin",
   "writer.ruby.placeholder": "Introduceți citirea (de ex. かんじ)",
   "writer.linkToWork": "Link către un univers, poveste sau capitol",
-  "writer.insertWorkCard": "Inserare poveste sau carte univers"
+  "writer.insertWorkCard": "Inserare poveste sau carte univers",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

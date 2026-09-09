@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Ange läsning (t.ex. かんじ)",
   "writer.linkToWork": "Länk till ett universum, en berättelse eller ett kapitel",
-  "writer.insertWorkCard": "Infoga berättelse eller universumkort"
+  "writer.insertWorkCard": "Infoga berättelse eller universumkort",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

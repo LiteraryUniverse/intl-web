@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Enter reading (e.g. かんじ)",
   "writer.linkToWork": "Ligo al universo, rakonto aŭ ĉapitro",
-  "writer.insertWorkCard": "Enmetu rakonton aŭ universan karton"
+  "writer.insertWorkCard": "Enmetu rakonton aŭ universan karton",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

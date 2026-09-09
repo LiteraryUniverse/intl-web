@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Enter reading (e.g. かんじ)",
   "writer.linkToWork": "Enllaç a un univers, una història o un capítol",
-  "writer.insertWorkCard": "Inseriu la targeta de la història o de l'univers"
+  "writer.insertWorkCard": "Inseriu la targeta de la història o de l'univers",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

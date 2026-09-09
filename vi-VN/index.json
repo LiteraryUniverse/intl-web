@@ -5652,5 +5652,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Nhập nội dung đọc (ví dụ: かんじ)",
   "writer.linkToWork": "Liên kết đến một vũ trụ, câu chuyện hoặc chương",
-  "writer.insertWorkCard": "Chèn thẻ câu chuyện hoặc thẻ vũ trụ"
+  "writer.insertWorkCard": "Chèn thẻ câu chuyện hoặc thẻ vũ trụ",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

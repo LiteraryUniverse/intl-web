@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Įveskite rodmenis (pvz., かんじ)",
   "writer.linkToWork": "Nuoroda į visatą, istoriją ar skyrių",
-  "writer.insertWorkCard": "Įdėkite istorijos arba visatos kortelę"
+  "writer.insertWorkCard": "Įdėkite istorijos arba visatos kortelę",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

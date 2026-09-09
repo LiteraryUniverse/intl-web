@@ -71,5 +71,7 @@
   "writer.ruby": "紅寶石",
   "writer.ruby.placeholder": "輸入讀數 (例如：かんじ)",
   "writer.linkToWork": "連結至宇宙、故事或章節",
-  "writer.insertWorkCard": "插入故事或宇宙卡"
+  "writer.insertWorkCard": "插入故事或宇宙卡",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "읽기 입력(예: かんじ)",
   "writer.linkToWork": "유니버스, 스토리 또는 챕터로 링크",
-  "writer.insertWorkCard": "스토리 또는 유니버스 카드 삽입"
+  "writer.insertWorkCard": "스토리 또는 유니버스 카드 삽입",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

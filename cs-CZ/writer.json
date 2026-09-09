@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Zadejte čtení (např. かんじ)",
   "writer.linkToWork": "Odkaz na vesmír, příběh nebo kapitolu",
-  "writer.insertWorkCard": "Vložte kartu příběhu nebo vesmíru"
+  "writer.insertWorkCard": "Vložte kartu příběhu nebo vesmíru",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

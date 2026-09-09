@@ -71,5 +71,7 @@
   "writer.ruby": "รูบี้",
   "writer.ruby.placeholder": "ป้อนการอ่าน (เช่น かんじ)",
   "writer.linkToWork": "ลิงก์ไปยังจักรวาล เรื่องราว หรือบท",
-  "writer.insertWorkCard": "ใส่การ์ดเรื่องราวหรือจักรวาล"
+  "writer.insertWorkCard": "ใส่การ์ดเรื่องราวหรือจักรวาล",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

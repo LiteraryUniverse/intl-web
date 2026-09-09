@@ -71,5 +71,7 @@
   "writer.ruby": "Rubino",
   "writer.ruby.placeholder": "Inserisca la lettura (ad esempio, かんじ).",
   "writer.linkToWork": "Link a un universo, a una storia o a un capitolo",
-  "writer.insertWorkCard": "Inserire la scheda della storia o dell'universo"
+  "writer.insertWorkCard": "Inserire la scheda della storia o dell'universo",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

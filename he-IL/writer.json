@@ -71,5 +71,7 @@
   "writer.ruby": "רובי",
   "writer.ruby.placeholder": "הזן קריאה (למשל かんじ)",
   "writer.linkToWork": "קישור ליקום, סיפור או פרק",
-  "writer.insertWorkCard": "הכנס כרטיס סיפור או כרטיס יקום"
+  "writer.insertWorkCard": "הכנס כרטיס סיפור או כרטיס יקום",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

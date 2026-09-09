@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Enter reading (e.g. かんじ)",
   "writer.linkToWork": "ഒരു പ്രപഞ്ചത്തിലേക്കോ, കഥയിലേക്കോ, അധ്യായത്തിലേക്കോ ഉള്ള ലിങ്ക്",
-  "writer.insertWorkCard": "കഥയോ പ്രപഞ്ചമോ ചേർക്കുക"
+  "writer.insertWorkCard": "കഥയോ പ്രപഞ്ചമോ ചേർക്കുക",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

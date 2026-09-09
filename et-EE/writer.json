@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Sisestage lugemine (nt かんじ)",
   "writer.linkToWork": "Link universumi, loo või peatükiga",
-  "writer.insertWorkCard": "Sisesta lugu või universumi kaart"
+  "writer.insertWorkCard": "Sisesta lugu või universumi kaart",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

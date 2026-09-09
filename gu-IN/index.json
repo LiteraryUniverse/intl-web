@@ -5652,5 +5652,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Enter reading (e.g. かんじ)",
   "writer.linkToWork": "એક બ્રહ્માંડ, વાર્તા અથવા અધ્યાય સાથેનો લિંક",
-  "writer.insertWorkCard": "કથા અથવા બ્રહ્માંડનું કાર્ડ દાખલ કરો"
+  "writer.insertWorkCard": "કથા અથવા બ્રહ્માંડનું કાર્ડ દાખલ કરો",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

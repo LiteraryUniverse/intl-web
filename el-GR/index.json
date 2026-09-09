@@ -5652,5 +5652,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Εισάγετε την ένδειξη (π.χ. かんじ)",
   "writer.linkToWork": "Σύνδεση με ένα σύμπαν, μια ιστορία ή ένα κεφάλαιο",
-  "writer.insertWorkCard": "Εισάγετε κάρτα ιστορίας ή σύμπαντος"
+  "writer.insertWorkCard": "Εισάγετε κάρτα ιστορίας ή σύμπαντος",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

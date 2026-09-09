@@ -71,5 +71,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Adja meg az olvasást (pl. かんじ)",
   "writer.linkToWork": "Link egy univerzumhoz, történethez vagy fejezethez",
-  "writer.insertWorkCard": "Történet vagy univerzum kártya beillesztése"
+  "writer.insertWorkCard": "Történet vagy univerzum kártya beillesztése",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }

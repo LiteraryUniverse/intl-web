@@ -5652,5 +5652,7 @@
   "writer.ruby": "Ruby",
   "writer.ruby.placeholder": "Leeswaarde invoeren (bijv. かんじ)",
   "writer.linkToWork": "Link naar een universum, verhaal of hoofdstuk",
-  "writer.insertWorkCard": "Kaart met verhaal of universum invoegen"
+  "writer.insertWorkCard": "Kaart met verhaal of universum invoegen",
+  "writer.video": "Embed video",
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
 }
