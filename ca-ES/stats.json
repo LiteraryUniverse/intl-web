@@ -39,7 +39,6 @@
   "stats.totalWords": "Total Words",
   "stats.totalEntries": "Entrades d'enciclopèdia",
   "stats.blogPage": "Pàgina",
-  "stats.blog.typeSelectionAria": "Selecció de tipus",
   "stats.blog.pages": "Pàgines",
   "stats.blog.posts": "Entrades",
   "stats.unknown": "Desconegut",
@@ -167,5 +166,16 @@
   "stats.traffic.from": "From date",
   "stats.traffic.to": "To date",
   "stats.traffic.apply": "Apply dates",
-  "stats.traffic.rangeHelp": "Choose up to 366 days. Recent dates depend on when traffic recording began."
+  "stats.traffic.rangeHelp": "Choose up to 366 days. Recent dates depend on when traffic recording began.",
+  "stats.blog.traffic.title": "Blog traffic",
+  "stats.blog.publishedPosts": "Published posts",
+  "stats.blog.comments": "Comments",
+  "stats.blog.shareOfViews": "Share of views",
+  "stats.blog.pages.explanation": "Views each part of the blog has received, all time. Unique visitors are counted for the blog as a whole: a reader who opens three pages is one visitor, not three.",
+  "stats.blog.posts.explanation": "All-time views and unique visitors for each published post in this language. A visitor is counted once per post, however often they come back.",
+  "stats.blog.location.home": "Home page",
+  "stats.blog.location.posts": "Post pages",
+  "stats.blog.location.archive": "Archive, page {page, number}",
+  "stats.blog.location.works": "Works: {type}",
+  "stats.blog.location.page": "Page: {slug}"
 }
