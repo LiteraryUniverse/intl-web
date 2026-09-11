@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Προαιρετικό: μήκος κάθε {unit} σε {previous}, χωρισμένα με κόμματα (για παράδειγμα 31, 28, 31 όταν οι μήνες διαφέρουν)",
   "workshop.fictionalTime.unitLengthsInvalid": "Τα μήκη των μονάδων πρέπει να είναι θετικοί ακέραιοι, ένας για κάθε μονάδα μέσα στην επόμενη μεγαλύτερη μονάδα.",
   "workshop.fictionalTime.exportJSON": "Εξαγωγή ρυθμίσεων (JSON)",
-  "fictionalTime.example": "Παράδειγμα: {example}"
+  "fictionalTime.example": "Παράδειγμα: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

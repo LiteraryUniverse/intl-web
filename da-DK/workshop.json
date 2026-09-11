@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Valgfrit: længden af hver {unit} i {previous}, adskilt med komma (for eksempel 31, 28, 31 når måneder er forskellige)",
   "workshop.fictionalTime.unitLengthsInvalid": "Enhedslængder skal være positive hele tal, én for hver enhed inden for den næste større enhed.",
   "workshop.fictionalTime.exportJSON": "Eksportér konfiguration (JSON)",
-  "fictionalTime.example": "Eksempel: {example}"
+  "fictionalTime.example": "Eksempel: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

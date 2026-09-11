@@ -449,5 +449,6 @@
   "seo.universe.llms": "Evren LLMs.txt",
   "seo.universe.encyclopediaLlms": "Evren ansiklopedisi LLMs.txt",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Yayın tarihi ve saati: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Yayın tarihi ve saati: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

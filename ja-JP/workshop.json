@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "任意: {previous} で数えた各 {unit} の長さをカンマ区切りで（月の長さが異なる場合は例: 31, 28, 31）",
   "workshop.fictionalTime.unitLengthsInvalid": "単位の長さは正の整数で、次に大きい単位に含まれる単位ごとに 1 つずつ指定してください。",
   "workshop.fictionalTime.exportJSON": "設定をエクスポート (JSON)",
-  "fictionalTime.example": "例: {example}"
+  "fictionalTime.example": "例: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

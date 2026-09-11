@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Valinnainen: kunkin {unit} pituus yksikössä {previous}, pilkuilla eroteltuna (esimerkiksi 31, 28, 31, kun kuukaudet eroavat)",
   "workshop.fictionalTime.unitLengthsInvalid": "Yksiköiden pituuksien on oltava positiivisia kokonaislukuja, yksi jokaista seuraavan suuremman yksikön sisällä olevaa yksikköä kohden.",
   "workshop.fictionalTime.exportJSON": "Vie asetukset (JSON)",
-  "fictionalTime.example": "Esimerkki: {example}"
+  "fictionalTime.example": "Esimerkki: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

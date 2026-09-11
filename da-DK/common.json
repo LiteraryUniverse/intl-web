@@ -449,5 +449,6 @@
   "seo.universe.llms": "Univers LLMs.txt",
   "seo.universe.encyclopediaLlms": "Univers-encyklopædi LLMs.txt",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Offentliggørelsesdato og -tidspunkt: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Offentliggørelsesdato og -tidspunkt: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

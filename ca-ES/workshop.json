@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Opcional: llargada de cada {unit} en {previous}, separades per comes (per exemple 31, 28, 31 quan els mesos difereixen)",
   "workshop.fictionalTime.unitLengthsInvalid": "Les llargades de les unitats han de ser nombres enters positius, un per cada unitat dins de la unitat més gran següent.",
   "workshop.fictionalTime.exportJSON": "Exporta la configuració (JSON)",
-  "fictionalTime.example": "Exemple: {example}"
+  "fictionalTime.example": "Exemple: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

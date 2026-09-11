@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "ऐच्छिक: {previous} मध्ये प्रत्येक {unit} ची लांबी, स्वल्पविरामाने विभक्त (उदाहरणार्थ महिने वेगळे असल्यास 31, 28, 31)",
   "workshop.fictionalTime.unitLengthsInvalid": "एककांच्या लांबी धन पूर्णांक असाव्यात, पुढील मोठ्या एककातील प्रत्येक एककासाठी एक.",
   "workshop.fictionalTime.exportJSON": "कॉन्फिगरेशन निर्यात करा (JSON)",
-  "fictionalTime.example": "उदाहरण: {example}"
+  "fictionalTime.example": "उदाहरण: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Opsional: dawane saben {unit} ing {previous}, dipisah koma (contone 31, 28, 31 yen sasine beda)",
   "workshop.fictionalTime.unitLengthsInvalid": "Dawane satuan kudu bilangan bulat positif, siji kanggo saben satuan ing sajrone satuan sing luwih gedhe sabanjure.",
   "workshop.fictionalTime.exportJSON": "Ekspor konfigurasi (JSON)",
-  "fictionalTime.example": "Conto: {example}"
+  "fictionalTime.example": "Conto: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

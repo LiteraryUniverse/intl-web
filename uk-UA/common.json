@@ -449,5 +449,6 @@
   "seo.universe.llms": "LLMs.txt всесвіту",
   "seo.universe.encyclopediaLlms": "LLMs.txt енциклопедії всесвіту",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Дата і час публікації: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Дата і час публікації: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "ਵਿਕਲਪਿਕ: {previous} ਵਿੱਚ ਹਰ {unit} ਦੀ ਲੰਬਾਈ, ਕੌਮਿਆਂ ਨਾਲ ਵੱਖ (ਉਦਾਹਰਨ ਲਈ ਜਦੋਂ ਮਹੀਨੇ ਵੱਖਰੇ ਹੋਣ 31, 28, 31)",
   "workshop.fictionalTime.unitLengthsInvalid": "ਇਕਾਈ ਦੀਆਂ ਲੰਬਾਈਆਂ ਧਨਾਤਮਕ ਪੂਰਨ ਸੰਖਿਆਵਾਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ, ਅਗਲੀ ਵੱਡੀ ਇਕਾਈ ਦੇ ਅੰਦਰ ਹਰ ਇਕਾਈ ਲਈ ਇੱਕ।",
   "workshop.fictionalTime.exportJSON": "ਸੰਰਚਨਾ ਨਿਰਯਾਤ ਕਰੋ (JSON)",
-  "fictionalTime.example": "ਉਦਾਹਰਨ: {example}"
+  "fictionalTime.example": "ਉਦਾਹਰਨ: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

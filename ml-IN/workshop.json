@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "ഓപ്ഷണൽ: {previous} ൽ ഓരോ {unit} ന്റെയും നീളം, കോമ കൊണ്ട് വേർതിരിച്ച് (ഉദാഹരണത്തിന് മാസങ്ങൾ വ്യത്യസ്തമാകുമ്പോൾ 31, 28, 31)",
   "workshop.fictionalTime.unitLengthsInvalid": "യൂണിറ്റ് നീളങ്ങൾ പോസിറ്റീവ് പൂർണ്ണസംഖ്യകളായിരിക്കണം, അടുത്ത വലിയ യൂണിറ്റിനുള്ളിലെ ഓരോ യൂണിറ്റിനും ഒന്ന് വീതം.",
   "workshop.fictionalTime.exportJSON": "കോൺഫിഗറേഷൻ എക്സ്പോർട്ട് ചെയ്യുക (JSON)",
-  "fictionalTime.example": "ഉദാഹരണം: {example}"
+  "fictionalTime.example": "ഉദാഹരണം: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

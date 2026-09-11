@@ -449,5 +449,6 @@
   "seo.universe.llms": "Universum LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universum-encyclopedie LLMs.txt",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Publicatiedatum en -tijd: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Publicatiedatum en -tijd: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

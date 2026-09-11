@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Opțional: lungimea fiecărui {unit} în {previous}, separate prin virgule (de exemplu 31, 28, 31 când lunile diferă)",
   "workshop.fictionalTime.unitLengthsInvalid": "Lungimile unităților trebuie să fie numere întregi pozitive, câte una pentru fiecare unitate din următoarea unitate mai mare.",
   "workshop.fictionalTime.exportJSON": "Exportă configurația (JSON)",
-  "fictionalTime.example": "Exemplu: {example}"
+  "fictionalTime.example": "Exemplu: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

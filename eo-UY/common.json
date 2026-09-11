@@ -449,5 +449,6 @@
   "seo.universe.llms": "Universe LLMs.txt",
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Dato kaj tempo de publikigo: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Dato kaj tempo de publikigo: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

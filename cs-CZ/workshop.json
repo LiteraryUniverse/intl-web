@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Volitelné: délka každé jednotky {unit} v jednotkách {previous}, oddělené čárkou (například 31, 28, 31, pokud se měsíce liší)",
   "workshop.fictionalTime.unitLengthsInvalid": "Délky jednotek musí být kladná celá čísla, jedno pro každou jednotku uvnitř nejbližší větší jednotky.",
   "workshop.fictionalTime.exportJSON": "Exportovat konfiguraci (JSON)",
-  "fictionalTime.example": "Příklad: {example}"
+  "fictionalTime.example": "Příklad: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

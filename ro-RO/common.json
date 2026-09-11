@@ -449,5 +449,6 @@
   "seo.universe.llms": "LLMs.txt univers",
   "seo.universe.encyclopediaLlms": "LLMs.txt enciclopedie univers",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Data și ora publicării: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Data și ora publicării: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

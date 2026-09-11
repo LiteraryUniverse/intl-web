@@ -449,5 +449,6 @@
   "seo.universe.llms": "LLMs.txt للكون",
   "seo.universe.encyclopediaLlms": "LLMs.txt لموسوعة الكون",
   "common.legal.security": "Security",
-  "common.publishAtDate": "تاريخ ووقت النشر: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "تاريخ ووقت النشر: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

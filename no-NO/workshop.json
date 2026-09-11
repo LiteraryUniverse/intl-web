@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Valgfritt: lengden på hver {unit} i {previous}, atskilt med komma (for eksempel 31, 28, 31 når månedene er ulike)",
   "workshop.fictionalTime.unitLengthsInvalid": "Enhetslengder må være positive heltall, én for hver enhet innenfor den neste større enheten.",
   "workshop.fictionalTime.exportJSON": "Eksporter konfigurasjon (JSON)",
-  "fictionalTime.example": "Eksempel: {example}"
+  "fictionalTime.example": "Eksempel: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

@@ -449,5 +449,6 @@
   "seo.universe.llms": "LLMs.txt vũ trụ",
   "seo.universe.encyclopediaLlms": "LLMs.txt bách khoa vũ trụ",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Ngày Giờ Xuất bản: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Ngày Giờ Xuất bản: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

@@ -449,5 +449,6 @@
   "seo.universe.llms": "LLMs.txt σύμπαντος",
   "seo.universe.encyclopediaLlms": "LLMs.txt εγκυκλοπαίδειας σύμπαντος",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Ημερομηνία και ώρα δημοσίευσης: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Ημερομηνία και ώρα δημοσίευσης: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

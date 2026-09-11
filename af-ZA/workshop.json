@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "Opsioneel: lengte van elke {unit} in {previous}, geskei met kommas (byvoorbeeld 31, 28, 31 wanneer maande verskil)",
   "workshop.fictionalTime.unitLengthsInvalid": "Eenheidlengtes moet positiewe heelgetalle wees, een vir elke eenheid binne die volgende groter eenheid.",
   "workshop.fictionalTime.exportJSON": "Voer konfigurasie uit (JSON)",
-  "fictionalTime.example": "Voorbeeld: {example}"
+  "fictionalTime.example": "Voorbeeld: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

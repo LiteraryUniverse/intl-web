@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "선택 사항: {previous} 단위로 나타낸 각 {unit}의 길이를 쉼표로 구분해 입력하세요 (달의 길이가 다르면 예: 31, 28, 31)",
   "workshop.fictionalTime.unitLengthsInvalid": "단위 길이는 양의 정수여야 하며, 다음으로 큰 단위 안의 단위마다 하나씩 필요합니다.",
   "workshop.fictionalTime.exportJSON": "설정 내보내기 (JSON)",
-  "fictionalTime.example": "예: {example}"
+  "fictionalTime.example": "예: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }

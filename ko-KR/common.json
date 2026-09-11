@@ -449,5 +449,6 @@
   "seo.universe.llms": "유니버스 LLMs.txt",
   "seo.universe.encyclopediaLlms": "유니버스 백과사전 LLMs.txt",
   "common.legal.security": "Security",
-  "common.publishAtDate": "게시 날짜와 시간: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "게시 날짜와 시간: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

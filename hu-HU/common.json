@@ -449,5 +449,6 @@
   "seo.universe.llms": "Univerzum LLMs.txt",
   "seo.universe.encyclopediaLlms": "Univerzum-enciklopédia LLMs.txt",
   "common.legal.security": "Security",
-  "common.publishAtDate": "Közzététel dátuma és ideje: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>"
+  "common.publishAtDate": "Közzététel dátuma és ideje: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
+  "settings.notifications": "Notifications"
 }

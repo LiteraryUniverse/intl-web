@@ -816,5 +816,6 @@
   "workshop.fictionalTime.unitLengths": "ঐচ্ছিক: {previous} ত প্ৰতিটো {unit} ৰ দৈৰ্ঘ্য, কমাৰে পৃথক (উদাহৰণস্বৰূপে মাহ বেলেগ হ'লে 31, 28, 31)",
   "workshop.fictionalTime.unitLengthsInvalid": "এককৰ দৈৰ্ঘ্য ধনাত্মক পূৰ্ণসংখ্যা হ'ব লাগিব, পৰৱৰ্তী ডাঙৰ এককৰ ভিতৰৰ প্ৰতিটো এককৰ বাবে এটা।",
   "workshop.fictionalTime.exportJSON": "কনফিগাৰেচন ৰপ্তানি কৰক (JSON)",
-  "fictionalTime.example": "উদাহৰণ: {example}"
+  "fictionalTime.example": "উদাহৰণ: {example}",
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
 }
