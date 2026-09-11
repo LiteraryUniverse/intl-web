@@ -192,5 +192,17 @@
   "email.orgLicense.carveOutRejected.subject": "Uvolnění jazyka pro „{work}“ bylo zamítnuto",
   "email.orgLicense.carveOutRejected.body": "{organization} si ponechala plné jazykové pokrytí díla „{work}“ v rámci licence {license}.",
   "email.orgLicense.subscriptionRemoval.subject": "„{work}“ opouští předplatné {organization}",
-  "email.orgLicense.subscriptionRemoval.body": "Dílo „{work}“ opustí předplatné {organization} dne {date}. Předplatitelé mají přístup až do té doby; prodejů a dalších licencí se to netýká."
+  "email.orgLicense.subscriptionRemoval.body": "Dílo „{work}“ opustí předplatné {organization} dne {date}. Předplatitelé mají přístup až do té doby; prodejů a dalších licencí se to netýká.",
+  "email.purchase.sale.subject": "💰 You made a sale: “{title}”",
+  "email.purchase.sale.title": "Someone bought your work",
+  "email.purchase.sale.details": "{buyer} bought “{title}” for {amount}.",
+  "email.purchase.sale.cta": "See your earnings",
+  "email.org.ownershipGiven.subject": "Ownership of {organization} transferred",
+  "email.org.ownershipGiven.title": "You handed over {organization}",
+  "email.org.ownershipGiven.details": "You transferred ownership of {organization} to {counterpart}.",
+  "email.org.ownershipReceived.subject": "You now own {organization}",
+  "email.org.ownershipReceived.title": "{organization} is yours",
+  "email.org.ownershipReceived.details": "{counterpart} transferred ownership of {organization} to you.",
+  "email.org.ownership.security": "If you did not expect this, contact support right away — an account may be compromised.",
+  "email.org.ownership.cta": "Open the organization"
 }

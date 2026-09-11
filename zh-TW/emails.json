@@ -192,5 +192,17 @@
   "email.orgLicense.carveOutRejected.subject": "「{work}」的語言釋出申請已被拒絕",
   "email.orgLicense.carveOutRejected.body": "{organization}保留了在{license}下對「{work}」的全部語言涵蓋範圍。",
   "email.orgLicense.subscriptionRemoval.subject": "「{work}」即將退出{organization}的訂閱",
-  "email.orgLicense.subscriptionRemoval.body": "「{work}」將於{date}退出{organization}的訂閱。訂閱者在此之前仍可存取；銷售與其他授權不受影響。"
+  "email.orgLicense.subscriptionRemoval.body": "「{work}」將於{date}退出{organization}的訂閱。訂閱者在此之前仍可存取；銷售與其他授權不受影響。",
+  "email.purchase.sale.subject": "💰 You made a sale: “{title}”",
+  "email.purchase.sale.title": "Someone bought your work",
+  "email.purchase.sale.details": "{buyer} bought “{title}” for {amount}.",
+  "email.purchase.sale.cta": "See your earnings",
+  "email.org.ownershipGiven.subject": "Ownership of {organization} transferred",
+  "email.org.ownershipGiven.title": "You handed over {organization}",
+  "email.org.ownershipGiven.details": "You transferred ownership of {organization} to {counterpart}.",
+  "email.org.ownershipReceived.subject": "You now own {organization}",
+  "email.org.ownershipReceived.title": "{organization} is yours",
+  "email.org.ownershipReceived.details": "{counterpart} transferred ownership of {organization} to you.",
+  "email.org.ownership.security": "If you did not expect this, contact support right away — an account may be compromised.",
+  "email.org.ownership.cta": "Open the organization"
 }

@@ -192,5 +192,17 @@
   "email.orgLicense.carveOutRejected.subject": "La liberación de un idioma para «{work}» ha sido rechazada",
   "email.orgLicense.carveOutRejected.body": "{organization} mantiene toda su cobertura de idiomas de «{work}» bajo {license}.",
   "email.orgLicense.subscriptionRemoval.subject": "«{work}» dejará la suscripción de {organization}",
-  "email.orgLicense.subscriptionRemoval.body": "«{work}» dejará la suscripción de {organization} el {date}. Los suscriptores conservan el acceso hasta entonces; las ventas y otras licencias no se ven afectadas."
+  "email.orgLicense.subscriptionRemoval.body": "«{work}» dejará la suscripción de {organization} el {date}. Los suscriptores conservan el acceso hasta entonces; las ventas y otras licencias no se ven afectadas.",
+  "email.purchase.sale.subject": "💰 You made a sale: “{title}”",
+  "email.purchase.sale.title": "Someone bought your work",
+  "email.purchase.sale.details": "{buyer} bought “{title}” for {amount}.",
+  "email.purchase.sale.cta": "See your earnings",
+  "email.org.ownershipGiven.subject": "Ownership of {organization} transferred",
+  "email.org.ownershipGiven.title": "You handed over {organization}",
+  "email.org.ownershipGiven.details": "You transferred ownership of {organization} to {counterpart}.",
+  "email.org.ownershipReceived.subject": "You now own {organization}",
+  "email.org.ownershipReceived.title": "{organization} is yours",
+  "email.org.ownershipReceived.details": "{counterpart} transferred ownership of {organization} to you.",
+  "email.org.ownership.security": "If you did not expect this, contact support right away — an account may be compromised.",
+  "email.org.ownership.cta": "Open the organization"
 }

@@ -192,5 +192,17 @@
   "email.orgLicense.carveOutRejected.subject": "“{work}”의 언어 해제가 거절되었습니다",
   "email.orgLicense.carveOutRejected.body": "{organization}이(가) {license}에 따른 “{work}”의 전체 언어 범위를 유지했습니다.",
   "email.orgLicense.subscriptionRemoval.subject": "“{work}”이(가) {organization}의 구독에서 제외됩니다",
-  "email.orgLicense.subscriptionRemoval.body": "“{work}”은(는) {date}에 {organization}의 구독에서 제외됩니다. 구독자는 그때까지 접근할 수 있으며, 판매와 다른 라이선스에는 영향이 없습니다."
+  "email.orgLicense.subscriptionRemoval.body": "“{work}”은(는) {date}에 {organization}의 구독에서 제외됩니다. 구독자는 그때까지 접근할 수 있으며, 판매와 다른 라이선스에는 영향이 없습니다.",
+  "email.purchase.sale.subject": "💰 You made a sale: “{title}”",
+  "email.purchase.sale.title": "Someone bought your work",
+  "email.purchase.sale.details": "{buyer} bought “{title}” for {amount}.",
+  "email.purchase.sale.cta": "See your earnings",
+  "email.org.ownershipGiven.subject": "Ownership of {organization} transferred",
+  "email.org.ownershipGiven.title": "You handed over {organization}",
+  "email.org.ownershipGiven.details": "You transferred ownership of {organization} to {counterpart}.",
+  "email.org.ownershipReceived.subject": "You now own {organization}",
+  "email.org.ownershipReceived.title": "{organization} is yours",
+  "email.org.ownershipReceived.details": "{counterpart} transferred ownership of {organization} to you.",
+  "email.org.ownership.security": "If you did not expect this, contact support right away — an account may be compromised.",
+  "email.org.ownership.cta": "Open the organization"
 }

@@ -192,5 +192,17 @@
   "email.orgLicense.carveOutRejected.subject": "Звільнення мови для «{work}» відхилено",
   "email.orgLicense.carveOutRejected.body": "{organization} зберегла повне мовне покриття «{work}» за ліцензією {license}.",
   "email.orgLicense.subscriptionRemoval.subject": "«{work}» залишає підписку {organization}",
-  "email.orgLicense.subscriptionRemoval.body": "«{work}» залишить підписку {organization} {date}. Підписники зберігають доступ до того часу; продажі та інші ліцензії не зачеплено."
+  "email.orgLicense.subscriptionRemoval.body": "«{work}» залишить підписку {organization} {date}. Підписники зберігають доступ до того часу; продажі та інші ліцензії не зачеплено.",
+  "email.purchase.sale.subject": "💰 You made a sale: “{title}”",
+  "email.purchase.sale.title": "Someone bought your work",
+  "email.purchase.sale.details": "{buyer} bought “{title}” for {amount}.",
+  "email.purchase.sale.cta": "See your earnings",
+  "email.org.ownershipGiven.subject": "Ownership of {organization} transferred",
+  "email.org.ownershipGiven.title": "You handed over {organization}",
+  "email.org.ownershipGiven.details": "You transferred ownership of {organization} to {counterpart}.",
+  "email.org.ownershipReceived.subject": "You now own {organization}",
+  "email.org.ownershipReceived.title": "{organization} is yours",
+  "email.org.ownershipReceived.details": "{counterpart} transferred ownership of {organization} to you.",
+  "email.org.ownership.security": "If you did not expect this, contact support right away — an account may be compromised.",
+  "email.org.ownership.cta": "Open the organization"
 }
