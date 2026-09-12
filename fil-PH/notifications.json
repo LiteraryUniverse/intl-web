@@ -184,5 +184,8 @@
   "notifications.workflow.reportResolution": "Reports and resolutions",
   "notification.reportResolution.received": "Your content was reported. Review the report and tell us if you have fixed the issue or disagree.",
   "notification.reportResolution.status": "A report on your content was updated to {status}. {resolution} Open the resolution center to review the decision.",
-  "notification.reportResolution.response": "Your response was saved. The report status is {status}."
+  "notification.reportResolution.response": "Your response was saved. The report status is {status}.",
+  "notification.reportResolution.receipt": "We received your report. Keep the case reference linked below to check its status.",
+  "notification.reportResolution.outcome": "Your report has been updated. Current status: {status}. Follow the case link for details.",
+  "notification.reportResolution.note": "The moderation team added a note to your case. {resolution} Open the resolution center to respond."
 }
