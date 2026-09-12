@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Isikupärastatud",
   "settings.recommendations.community": "Kogukond",
   "settings.recommendations.chronological": "Kronoloogiline",
-  "settings.recommendations.explained": "Isikupärastatud režiim kasutab sinu lugemisaktiivsust ja lemmikžanre. Kogukonnarežiim näitab, mis on kõigi lugejate seas populaarne, ilma profileerimiseta. Kronoloogiline režiim näitab ainult uusimat sisu ja lugusid, mida sa otseselt jälgid."
+  "settings.recommendations.explained": "Isikupärastatud režiim kasutab sinu lugemisaktiivsust ja lemmikžanre. Kogukonnarežiim näitab, mis on kõigi lugejate seas populaarne, ilma profileerimiseta. Kronoloogiline režiim näitab ainult uusimat sisu ja lugusid, mida sa otseselt jälgid.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

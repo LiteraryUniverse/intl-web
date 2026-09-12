@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Personalizat",
   "settings.recommendations.community": "Comunitate",
   "settings.recommendations.chronological": "Cronologic",
-  "settings.recommendations.explained": "Modul personalizat folosește activitatea ta de lectură și genurile preferate. Modul comunitate arată ce este popular printre toți cititorii, fără profilare. Modul cronologic arată doar conținutul cel mai nou și poveștile pe care le urmărești explicit."
+  "settings.recommendations.explained": "Modul personalizat folosește activitatea ta de lectură și genurile preferate. Modul comunitate arată ce este popular printre toți cititorii, fără profilare. Modul cronologic arată doar conținutul cel mai nou și poveștile pe care le urmărești explicit.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

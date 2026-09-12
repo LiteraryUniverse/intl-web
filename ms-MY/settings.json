@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Diperibadikan",
   "settings.recommendations.community": "Komuniti",
   "settings.recommendations.chronological": "Kronologi",
-  "settings.recommendations.explained": "Mod diperibadikan menggunakan aktiviti bacaan dan genre kegemaran anda. Mod komuniti memaparkan apa yang popular dalam kalangan semua pembaca, tanpa pemprofilan. Mod kronologi hanya memaparkan kandungan terbaharu dan cerita yang anda ikuti secara jelas."
+  "settings.recommendations.explained": "Mod diperibadikan menggunakan aktiviti bacaan dan genre kegemaran anda. Mod komuniti memaparkan apa yang popular dalam kalangan semua pembaca, tanpa pemprofilan. Mod kronologi hanya memaparkan kandungan terbaharu dan cerita yang anda ikuti secara jelas.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

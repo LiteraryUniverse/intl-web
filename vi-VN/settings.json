@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Cá nhân hóa",
   "settings.recommendations.community": "Cộng đồng",
   "settings.recommendations.chronological": "Theo thời gian",
-  "settings.recommendations.explained": "Chế độ cá nhân hóa dùng hoạt động đọc và thể loại yêu thích của bạn. Chế độ cộng đồng hiển thị những gì phổ biến với mọi độc giả, không lập hồ sơ. Chế độ theo thời gian chỉ hiển thị nội dung mới nhất và những truyện bạn theo dõi rõ ràng."
+  "settings.recommendations.explained": "Chế độ cá nhân hóa dùng hoạt động đọc và thể loại yêu thích của bạn. Chế độ cộng đồng hiển thị những gì phổ biến với mọi độc giả, không lập hồ sơ. Chế độ theo thời gian chỉ hiển thị nội dung mới nhất và những truyện bạn theo dõi rõ ràng.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

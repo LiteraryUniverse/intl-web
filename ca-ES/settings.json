@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Personalitzat",
   "settings.recommendations.community": "Comunitat",
   "settings.recommendations.chronological": "Cronològic",
-  "settings.recommendations.explained": "El mode personalitzat utilitza la teva activitat de lectura i els teus gèneres preferits. El mode comunitat mostra el que és popular entre tots els lectors, sense elaborar perfils. El mode cronològic només mostra el contingut més recent i les històries que segueixes explícitament."
+  "settings.recommendations.explained": "El mode personalitzat utilitza la teva activitat de lectura i els teus gèneres preferits. El mode comunitat mostra el que és popular entre tots els lectors, sense elaborar perfils. El mode cronològic només mostra el contingut més recent i les històries que segueixes explícitament.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

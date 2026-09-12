@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "ਵਿਅਕਤੀਗਤ",
   "settings.recommendations.community": "ਭਾਈਚਾਰਾ",
   "settings.recommendations.chronological": "ਕਾਲਕ੍ਰਮਿਕ",
-  "settings.recommendations.explained": "ਵਿਅਕਤੀਗਤ ਮੋਡ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀਵਿਧੀ ਅਤੇ ਪਸੰਦੀਦਾ ਸ਼ੈਲੀਆਂ ਵਰਤਦਾ ਹੈ। ਭਾਈਚਾਰਾ ਮੋਡ ਪ੍ਰੋਫਾਈਲਿੰਗ ਤੋਂ ਬਿਨਾਂ ਸਾਰੇ ਪਾਠਕਾਂ ਵਿੱਚ ਪ੍ਰਸਿੱਧ ਕਹਾਣੀਆਂ ਦਿਖਾਉਂਦਾ ਹੈ। ਕਾਲਕ੍ਰਮਿਕ ਮੋਡ ਸਿਰਫ਼ ਨਵੀਨਤਮ ਸਮੱਗਰੀ ਅਤੇ ਉਹ ਕਹਾਣੀਆਂ ਦਿਖਾਉਂਦਾ ਹੈ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਸਪੱਸ਼ਟ ਤੌਰ 'ਤੇ ਫਾਲੋ ਕਰਦੇ ਹੋ।"
+  "settings.recommendations.explained": "ਵਿਅਕਤੀਗਤ ਮੋਡ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀਵਿਧੀ ਅਤੇ ਪਸੰਦੀਦਾ ਸ਼ੈਲੀਆਂ ਵਰਤਦਾ ਹੈ। ਭਾਈਚਾਰਾ ਮੋਡ ਪ੍ਰੋਫਾਈਲਿੰਗ ਤੋਂ ਬਿਨਾਂ ਸਾਰੇ ਪਾਠਕਾਂ ਵਿੱਚ ਪ੍ਰਸਿੱਧ ਕਹਾਣੀਆਂ ਦਿਖਾਉਂਦਾ ਹੈ। ਕਾਲਕ੍ਰਮਿਕ ਮੋਡ ਸਿਰਫ਼ ਨਵੀਨਤਮ ਸਮੱਗਰੀ ਅਤੇ ਉਹ ਕਹਾਣੀਆਂ ਦਿਖਾਉਂਦਾ ਹੈ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਸਪੱਸ਼ਟ ਤੌਰ 'ਤੇ ਫਾਲੋ ਕਰਦੇ ਹੋ।",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

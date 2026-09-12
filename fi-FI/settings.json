@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Personoitu",
   "settings.recommendations.community": "Yhteisö",
   "settings.recommendations.chronological": "Aikajärjestys",
-  "settings.recommendations.explained": "Personoitu käyttää lukuaktiivisuuttasi ja lempigenrejäsi. Yhteisö näyttää, mikä on suosittua kaikkien lukijoiden keskuudessa, ilman profilointia. Aikajärjestys näyttää vain uusimman sisällön ja tarinat, joita nimenomaisesti seuraat."
+  "settings.recommendations.explained": "Personoitu käyttää lukuaktiivisuuttasi ja lempigenrejäsi. Yhteisö näyttää, mikä on suosittua kaikkien lukijoiden keskuudessa, ilman profilointia. Aikajärjestys näyttää vain uusimman sisällön ja tarinat, joita nimenomaisesti seuraat.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

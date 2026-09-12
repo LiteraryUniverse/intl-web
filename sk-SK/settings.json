@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Personalizovane",
   "settings.recommendations.community": "Komunitne",
   "settings.recommendations.chronological": "Chronologicky",
-  "settings.recommendations.explained": "Personalizovaný režim využíva vašu čitateľskú aktivitu a obľúbené žánre. Komunitný režim ukazuje, čo je populárne medzi všetkými čitateľmi, bez profilovania. Chronologický režim zobrazuje len najnovší obsah a príbehy, ktoré výslovne sledujete."
+  "settings.recommendations.explained": "Personalizovaný režim využíva vašu čitateľskú aktivitu a obľúbené žánre. Komunitný režim ukazuje, čo je populárne medzi všetkými čitateľmi, bez profilovania. Chronologický režim zobrazuje len najnovší obsah a príbehy, ktoré výslovne sledujete.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

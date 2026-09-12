@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Personigita",
   "settings.recommendations.community": "Komunuma",
   "settings.recommendations.chronological": "Kronologia",
-  "settings.recommendations.explained": "Personigita uzas vian legadan aktivecon kaj ŝatatajn ĝenrojn. Komunuma montras tion, kio popularas inter ĉiuj legantoj, sen profilado. Kronologia montras nur la plej novan enhavon kaj la rakontojn, kiujn vi eksplicite sekvas."
+  "settings.recommendations.explained": "Personigita uzas vian legadan aktivecon kaj ŝatatajn ĝenrojn. Komunuma montras tion, kio popularas inter ĉiuj legantoj, sen profilado. Kronologia montras nur la plej novan enhavon kaj la rakontojn, kiujn vi eksplicite sekvas.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

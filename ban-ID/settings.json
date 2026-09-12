@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Pribadi",
   "settings.recommendations.community": "Komunitas",
   "settings.recommendations.chronological": "Kronologis",
-  "settings.recommendations.explained": "Mode pribadi nganggen aktivitas maca lan genre kesenengan ragane. Mode komunitas nyihnayang sane kasub ring sami pamaca, tan wenten profiling. Mode kronologis wantah nyihnayang daging paling anyar lan satua sane katututin ragane."
+  "settings.recommendations.explained": "Mode pribadi nganggen aktivitas maca lan genre kesenengan ragane. Mode komunitas nyihnayang sane kasub ring sami pamaca, tan wenten profiling. Mode kronologis wantah nyihnayang daging paling anyar lan satua sane katututin ragane.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

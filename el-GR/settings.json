@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Εξατομικευμένο",
   "settings.recommendations.community": "Κοινότητα",
   "settings.recommendations.chronological": "Χρονολογικό",
-  "settings.recommendations.explained": "Το εξατομικευμένο χρησιμοποιεί τη δραστηριότητα ανάγνωσης και τα αγαπημένα σας είδη. Η κοινότητα δείχνει ό,τι είναι δημοφιλές σε όλους τους αναγνώστες, χωρίς κατάρτιση προφίλ. Το χρονολογικό δείχνει μόνο το νεότερο περιεχόμενο και τις ιστορίες που ακολουθείτε ρητά."
+  "settings.recommendations.explained": "Το εξατομικευμένο χρησιμοποιεί τη δραστηριότητα ανάγνωσης και τα αγαπημένα σας είδη. Η κοινότητα δείχνει ό,τι είναι δημοφιλές σε όλους τους αναγνώστες, χωρίς κατάρτιση προφίλ. Το χρονολογικό δείχνει μόνο το νεότερο περιεχόμενο και τις ιστορίες που ακολουθείτε ρητά.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

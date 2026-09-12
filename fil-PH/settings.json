@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Personalisado",
   "settings.recommendations.community": "Komunidad",
   "settings.recommendations.chronological": "Sunud-sunod sa panahon",
-  "settings.recommendations.explained": "Ginagamit ng personalisado ang iyong aktibidad sa pagbabasa at mga paboritong genre. Ipinapakita ng komunidad kung ano ang sikat sa lahat ng mambabasa, nang walang profiling. Ipinapakita lang ng sunud-sunod sa panahon ang pinakabagong nilalaman at ang mga kuwentong hayagang sinusundan mo."
+  "settings.recommendations.explained": "Ginagamit ng personalisado ang iyong aktibidad sa pagbabasa at mga paboritong genre. Ipinapakita ng komunidad kung ano ang sikat sa lahat ng mambabasa, nang walang profiling. Ipinapakita lang ng sunud-sunod sa panahon ang pinakabagong nilalaman at ang mga kuwentong hayagang sinusundan mo.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

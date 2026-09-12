@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "વ્યક્તિગત",
   "settings.recommendations.community": "સમુદાય",
   "settings.recommendations.chronological": "કાળક્રમિક",
-  "settings.recommendations.explained": "વ્યક્તિગત મોડ તમારી વાંચન પ્રવૃત્તિ અને પ્રિય શૈલીઓનો ઉપયોગ કરે છે. સમુદાય મોડ પ્રોફાઇલિંગ વિના બધા વાચકોમાં લોકપ્રિય શું છે તે બતાવે છે. કાળક્રમિક મોડ ફક્ત નવીનતમ સામગ્રી અને તમે સ્પષ્ટપણે અનુસરો છો તે વાર્તાઓ બતાવે છે."
+  "settings.recommendations.explained": "વ્યક્તિગત મોડ તમારી વાંચન પ્રવૃત્તિ અને પ્રિય શૈલીઓનો ઉપયોગ કરે છે. સમુદાય મોડ પ્રોફાઇલિંગ વિના બધા વાચકોમાં લોકપ્રિય શું છે તે બતાવે છે. કાળક્રમિક મોડ ફક્ત નવીનતમ સામગ્રી અને તમે સ્પષ્ટપણે અનુસરો છો તે વાર્તાઓ બતાવે છે.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

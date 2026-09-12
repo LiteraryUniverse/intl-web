@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Kişiselleştirilmiş",
   "settings.recommendations.community": "Topluluk",
   "settings.recommendations.chronological": "Kronolojik",
-  "settings.recommendations.explained": "Kişiselleştirilmiş mod okuma etkinliğinizi ve favori türlerinizi kullanır. Topluluk modu profilleme yapmadan tüm okuyucular arasında popüler olanları gösterir. Kronolojik mod yalnızca en yeni içeriği ve açıkça takip ettiğiniz hikâyeleri gösterir."
+  "settings.recommendations.explained": "Kişiselleştirilmiş mod okuma etkinliğinizi ve favori türlerinizi kullanır. Topluluk modu profilleme yapmadan tüm okuyucular arasında popüler olanları gösterir. Kronolojik mod yalnızca en yeni içeriği ve açıkça takip ettiğiniz hikâyeleri gösterir.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

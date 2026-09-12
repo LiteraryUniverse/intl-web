@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "ব্যক্তিগতকৃত",
   "settings.recommendations.community": "সম্প্ৰদায়",
   "settings.recommendations.chronological": "কালানুক্ৰমিক",
-  "settings.recommendations.explained": "ব্যক্তিগতকৃত ধৰণে আপোনাৰ পঢ়াৰ কাৰ্যকলাপ আৰু প্ৰিয় ধাৰাসমূহ ব্যৱহাৰ কৰে। সম্প্ৰদায় ধৰণে প্ৰ'ফাইলিং নকৰাকৈ সকলো পাঠকৰ মাজত জনপ্ৰিয় কাহিনী দেখুৱায়। কালানুক্ৰমিক ধৰণে কেৱল নতুন সমল আৰু আপুনি অনুসৰণ কৰা কাহিনী দেখুৱায়।"
+  "settings.recommendations.explained": "ব্যক্তিগতকৃত ধৰণে আপোনাৰ পঢ়াৰ কাৰ্যকলাপ আৰু প্ৰিয় ধাৰাসমূহ ব্যৱহাৰ কৰে। সম্প্ৰদায় ধৰণে প্ৰ'ফাইলিং নকৰাকৈ সকলো পাঠকৰ মাজত জনপ্ৰিয় কাহিনী দেখুৱায়। কালানুক্ৰমিক ধৰণে কেৱল নতুন সমল আৰু আপুনি অনুসৰণ কৰা কাহিনী দেখুৱায়।",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "個人化",
   "settings.recommendations.community": "社群",
   "settings.recommendations.chronological": "時間順序",
-  "settings.recommendations.explained": "個人化模式使用您的閱讀活動和喜愛的類型。社群模式顯示所有讀者中的熱門作品，不進行個人剖析。時間順序模式僅顯示最新內容和您明確追蹤的故事。"
+  "settings.recommendations.explained": "個人化模式使用您的閱讀活動和喜愛的類型。社群模式顯示所有讀者中的熱門作品，不進行個人剖析。時間順序模式僅顯示最新內容和您明確追蹤的故事。",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

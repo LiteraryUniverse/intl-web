@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Személyre szabott",
   "settings.recommendations.community": "Közösségi",
   "settings.recommendations.chronological": "Időrendi",
-  "settings.recommendations.explained": "A személyre szabott mód az olvasási tevékenységedet és kedvenc műfajaidat használja. A közösségi mód azt mutatja, ami minden olvasó körében népszerű, profilalkotás nélkül. Az időrendi mód csak a legújabb tartalmakat és az általad kifejezetten követett történeteket mutatja."
+  "settings.recommendations.explained": "A személyre szabott mód az olvasási tevékenységedet és kedvenc műfajaidat használja. A közösségi mód azt mutatja, ami minden olvasó körében népszerű, profilalkotás nélkül. Az időrendi mód csak a legújabb tartalmakat és az általad kifejezetten követett történeteket mutatja.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

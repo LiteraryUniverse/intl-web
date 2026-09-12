@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "व्यक्तिगत",
   "settings.recommendations.community": "समुदाय",
   "settings.recommendations.chronological": "कालानुक्रमिक",
-  "settings.recommendations.explained": "व्यक्तिगत मोड अहाँक पठन गतिविधि आ प्रिय विधा सभक उपयोग करैत अछि। समुदाय मोड बिना प्रोफ़ाइलिंगक सभ पाठक मे लोकप्रिय कथा देखबैत अछि। कालानुक्रमिक मोड केवल नवीनतम सामग्री आ अहाँ स्पष्ट रूपेँ अनुसरण कयल कथा देखबैत अछि।"
+  "settings.recommendations.explained": "व्यक्तिगत मोड अहाँक पठन गतिविधि आ प्रिय विधा सभक उपयोग करैत अछि। समुदाय मोड बिना प्रोफ़ाइलिंगक सभ पाठक मे लोकप्रिय कथा देखबैत अछि। कालानुक्रमिक मोड केवल नवीनतम सामग्री आ अहाँ स्पष्ट रूपेँ अनुसरण कयल कथा देखबैत अछि।",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "パーソナライズ",
   "settings.recommendations.community": "コミュニティ",
   "settings.recommendations.chronological": "時系列",
-  "settings.recommendations.explained": "パーソナライズはあなたの読書履歴と好きなジャンルを利用します。コミュニティはプロファイリングなしで全読者に人気の作品を表示します。時系列は最新のコンテンツと明示的にフォローしている作品のみを表示します。"
+  "settings.recommendations.explained": "パーソナライズはあなたの読書履歴と好きなジャンルを利用します。コミュニティはプロファイリングなしで全読者に人気の作品を表示します。時系列は最新のコンテンツと明示的にフォローしている作品のみを表示します。",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Pearsantaithe",
   "settings.recommendations.community": "Pobal",
   "settings.recommendations.chronological": "Croineolaíoch",
-  "settings.recommendations.explained": "Úsáideann an mód pearsantaithe do ghníomhaíocht léitheoireachta agus na seánraí is fearr leat. Taispeánann an mód pobail a bhfuil coitianta i measc na léitheoirí uile, gan phróifíliú. Ní thaispeánann an mód croineolaíoch ach an t-ábhar is nuaí agus na scéalta a leanann tú go sainráite."
+  "settings.recommendations.explained": "Úsáideann an mód pearsantaithe do ghníomhaíocht léitheoireachta agus na seánraí is fearr leat. Taispeánann an mód pobail a bhfuil coitianta i measc na léitheoirí uile, gan phróifíliú. Ní thaispeánann an mód croineolaíoch ach an t-ábhar is nuaí agus na scéalta a leanann tú go sainráite.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

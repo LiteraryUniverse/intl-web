@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "ផ្ទាល់ខ្លួន",
   "settings.recommendations.community": "សហគមន៍",
   "settings.recommendations.chronological": "តាមលំដាប់ពេលវេលា",
-  "settings.recommendations.explained": "របៀបផ្ទាល់ខ្លួនប្រើសកម្មភាពអានរបស់អ្នក និងប្រភេទរឿងដែលអ្នកចូលចិត្ត។ របៀបសហគមន៍បង្ហាញអ្វីដែលពេញនិយមក្នុងចំណោមអ្នកអានទាំងអស់ ដោយគ្មានការធ្វើប្រវត្តិរូប។ របៀបតាមលំដាប់ពេលវេលាបង្ហាញតែមាតិកាថ្មីបំផុត និងរឿងដែលអ្នកតាមដានច្បាស់លាស់ប៉ុណ្ណោះ។"
+  "settings.recommendations.explained": "របៀបផ្ទាល់ខ្លួនប្រើសកម្មភាពអានរបស់អ្នក និងប្រភេទរឿងដែលអ្នកចូលចិត្ត។ របៀបសហគមន៍បង្ហាញអ្វីដែលពេញនិយមក្នុងចំណោមអ្នកអានទាំងអស់ ដោយគ្មានការធ្វើប្រវត្តិរូប។ របៀបតាមលំដាប់ពេលវេលាបង្ហាញតែមាតិកាថ្មីបំផុត និងរឿងដែលអ្នកតាមដានច្បាស់លាស់ប៉ុណ្ណោះ។",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

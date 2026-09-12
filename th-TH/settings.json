@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "ปรับตามบุคคล",
   "settings.recommendations.community": "ชุมชน",
   "settings.recommendations.chronological": "ตามลำดับเวลา",
-  "settings.recommendations.explained": "โหมดปรับตามบุคคลใช้กิจกรรมการอ่านและแนวเรื่องโปรดของคุณ โหมดชุมชนแสดงสิ่งที่เป็นที่นิยมในหมู่ผู้อ่านทุกคนโดยไม่ทำโปรไฟล์ โหมดตามลำดับเวลาแสดงเฉพาะเนื้อหาล่าสุดและเรื่องที่คุณติดตามอย่างชัดแจ้ง"
+  "settings.recommendations.explained": "โหมดปรับตามบุคคลใช้กิจกรรมการอ่านและแนวเรื่องโปรดของคุณ โหมดชุมชนแสดงสิ่งที่เป็นที่นิยมในหมู่ผู้อ่านทุกคนโดยไม่ทำโปรไฟล์ โหมดตามลำดับเวลาแสดงเฉพาะเนื้อหาล่าสุดและเรื่องที่คุณติดตามอย่างชัดแจ้ง",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "مخصص",
   "settings.recommendations.community": "المجتمع",
   "settings.recommendations.chronological": "زمني",
-  "settings.recommendations.explained": "الوضع المخصص يستخدم نشاط قراءتك وأنواعك المفضلة. وضع المجتمع يعرض ما هو رائج لدى جميع القراء دون تنميط. الوضع الزمني يعرض فقط أحدث المحتوى والقصص التي تتابعها صراحةً."
+  "settings.recommendations.explained": "الوضع المخصص يستخدم نشاط قراءتك وأنواعك المفضلة. وضع المجتمع يعرض ما هو رائج لدى جميع القراء دون تنميط. الوضع الزمني يعرض فقط أحدث المحتوى والقصص التي تتابعها صراحةً.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

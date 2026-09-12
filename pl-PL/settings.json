@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Spersonalizowane",
   "settings.recommendations.community": "Społeczność",
   "settings.recommendations.chronological": "Chronologicznie",
-  "settings.recommendations.explained": "Tryb spersonalizowany wykorzystuje twoją aktywność czytelniczą i ulubione gatunki. Tryb społeczności pokazuje, co jest popularne wśród wszystkich czytelników, bez profilowania. Tryb chronologiczny pokazuje tylko najnowsze treści i historie, które jawnie obserwujesz."
+  "settings.recommendations.explained": "Tryb spersonalizowany wykorzystuje twoją aktywność czytelniczą i ulubione gatunki. Tryb społeczności pokazuje, co jest popularne wśród wszystkich czytelników, bez profilowania. Tryb chronologiczny pokazuje tylko najnowsze treści i historie, które jawnie obserwujesz.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

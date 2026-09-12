@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "वैयक्तिकृत",
   "settings.recommendations.community": "समुदाय",
   "settings.recommendations.chronological": "कालानुक्रमिक",
-  "settings.recommendations.explained": "वैयक्तिकृत मोड आपकी पठन गतिविधि और पसंदीदा शैलियों का उपयोग करता है। समुदाय मोड बिना प्रोफ़ाइलिंग के सभी पाठकों में लोकप्रिय कहानियाँ दिखाता है। कालानुक्रमिक मोड केवल नवीनतम सामग्री और वे कहानियाँ दिखाता है जिन्हें आप स्पष्ट रूप से फ़ॉलो करते हैं।"
+  "settings.recommendations.explained": "वैयक्तिकृत मोड आपकी पठन गतिविधि और पसंदीदा शैलियों का उपयोग करता है। समुदाय मोड बिना प्रोफ़ाइलिंग के सभी पाठकों में लोकप्रिय कहानियाँ दिखाता है। कालानुक्रमिक मोड केवल नवीनतम सामग्री और वे कहानियाँ दिखाता है जिन्हें आप स्पष्ट रूप से फ़ॉलो करते हैं।",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

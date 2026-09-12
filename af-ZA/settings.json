@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Gepersonaliseerd",
   "settings.recommendations.community": "Gemeenskap",
   "settings.recommendations.chronological": "Chronologies",
-  "settings.recommendations.explained": "Gepersonaliseerd gebruik jou leesaktiwiteit en gunstelinggenres. Gemeenskap wys wat gewild is onder alle lesers, sonder profilering. Chronologies wys slegs die nuutste inhoud en die stories wat jy uitdruklik volg."
+  "settings.recommendations.explained": "Gepersonaliseerd gebruik jou leesaktiwiteit en gunstelinggenres. Gemeenskap wys wat gewild is onder alle lesers, sonder profilering. Chronologies wys slegs die nuutste inhoud en die stories wat jy uitdruklik volg.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

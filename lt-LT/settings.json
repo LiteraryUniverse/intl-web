@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Suasmeninta",
   "settings.recommendations.community": "Bendruomenė",
   "settings.recommendations.chronological": "Chronologinis",
-  "settings.recommendations.explained": "Suasmenintas režimas naudoja jūsų skaitymo veiklą ir mėgstamus žanrus. Bendruomenės režimas rodo, kas populiaru tarp visų skaitytojų, be profiliavimo. Chronologinis režimas rodo tik naujausią turinį ir istorijas, kurias aiškiai sekate."
+  "settings.recommendations.explained": "Suasmenintas režimas naudoja jūsų skaitymo veiklą ir mėgstamus žanrus. Bendruomenės režimas rodo, kas populiaru tarp visų skaitytojų, be profiliavimo. Chronologinis režimas rodo tik naujausią turinį ir istorijas, kurias aiškiai sekate.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

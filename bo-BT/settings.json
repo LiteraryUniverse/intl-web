@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "སྒེར་སྒྲིག",
   "settings.recommendations.community": "སྤྱི་ཚོགས།",
   "settings.recommendations.chronological": "དུས་རིམ།",
-  "settings.recommendations.explained": "སྒེར་སྒྲིག་གིས་ཁྱེད་ཀྱི་ཀློག་པའི་བྱེད་སྒོ་དང་དགའ་པོའི་རིགས་བེད་སྤྱོད་བྱེད། སྤྱི་ཚོགས་ཀྱིས་ཀློག་པ་པོ་ཚང་མའི་ནང་དར་ཁྱབ་ཆེ་བ་སྟོན། དུས་རིམ་གྱིས་ནང་དོན་གསར་ཤོས་དང་ཁྱེད་ཀྱིས་རྗེས་འདེད་བྱས་པའི་སྒྲུང་ཁོ་ན་སྟོན།"
+  "settings.recommendations.explained": "སྒེར་སྒྲིག་གིས་ཁྱེད་ཀྱི་ཀློག་པའི་བྱེད་སྒོ་དང་དགའ་པོའི་རིགས་བེད་སྤྱོད་བྱེད། སྤྱི་ཚོགས་ཀྱིས་ཀློག་པ་པོ་ཚང་མའི་ནང་དར་ཁྱབ་ཆེ་བ་སྟོན། དུས་རིམ་གྱིས་ནང་དོན་གསར་ཤོས་དང་ཁྱེད་ཀྱིས་རྗེས་འདེད་བྱས་པའི་སྒྲུང་ཁོ་ན་སྟོན།",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

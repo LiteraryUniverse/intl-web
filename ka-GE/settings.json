@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "პერსონალიზებული",
   "settings.recommendations.community": "საზოგადოება",
   "settings.recommendations.chronological": "ქრონოლოგიური",
-  "settings.recommendations.explained": "პერსონალიზებული იყენებს თქვენს კითხვის აქტივობას და საყვარელ ჟანრებს. საზოგადოება აჩვენებს, რაც პოპულარულია ყველა მკითხველში, პროფილირების გარეშე. ქრონოლოგიური აჩვენებს მხოლოდ უახლეს კონტენტს და ისტორიებს, რომლებსაც აშკარად მიჰყვებით."
+  "settings.recommendations.explained": "პერსონალიზებული იყენებს თქვენს კითხვის აქტივობას და საყვარელ ჟანრებს. საზოგადოება აჩვენებს, რაც პოპულარულია ყველა მკითხველში, პროფილირების გარეშე. ქრონოლოგიური აჩვენებს მხოლოდ უახლეს კონტენტს და ისტორიებს, რომლებსაც აშკარად მიჰყვებით.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }

@@ -223,5 +223,9 @@
   "settings.recommendations.personalised": "Персонализированно",
   "settings.recommendations.community": "Сообщество",
   "settings.recommendations.chronological": "Хронологически",
-  "settings.recommendations.explained": "Персонализированный режим использует вашу читательскую активность и любимые жанры. Режим сообщества показывает то, что популярно среди всех читателей, без профилирования. Хронологический режим показывает только новейший контент и истории, на которые вы явно подписаны."
+  "settings.recommendations.explained": "Персонализированный режим использует вашу читательскую активность и любимые жанры. Режим сообщества показывает то, что популярно среди всех читателей, без профилирования. Хронологический режим показывает только новейший контент и истории, на которые вы явно подписаны.",
+  "settings.digestFrequency": "Summary email frequency",
+  "settings.digestFrequency.daily": "Daily",
+  "settings.digestFrequency.weekly": "Weekly",
+  "settings.digestFrequency.monthly": "Monthly (first day of the month)"
 }
