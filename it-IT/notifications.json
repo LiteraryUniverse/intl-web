@@ -180,5 +180,9 @@
   "notification.org.ownershipReceived": "{counterpart} transferred ownership of {organization} to you",
   "notification.comment.digest": "{count, plural, one {# new comment} other {# new comments}} on “{title}”",
   "notification.comment.digest.line": "{name}: {text}",
-  "notification.comment.digest.intro": "Here is what people said about “{title}” since you last heard from us."
+  "notification.comment.digest.intro": "Here is what people said about “{title}” since you last heard from us.",
+  "notifications.workflow.reportResolution": "Reports and resolutions",
+  "notification.reportResolution.received": "Your content was reported. Review the report and tell us if you have fixed the issue or disagree.",
+  "notification.reportResolution.status": "A report on your content was updated to {status}. {resolution} Open the resolution center to review the decision.",
+  "notification.reportResolution.response": "Your response was saved. The report status is {status}."
 }

@@ -100,5 +100,20 @@
   "resolutionCenter.reportDetail": "Report Details",
   "resolutionCenter.dashboard.title": "Resolution Center",
   "feedback.report.actions.comicChapter": "Μετάβαση στον επεξεργαστή κεφαλαίου",
-  "feedback.report.actions.comicSettings": "Κόμικ · Ρυθμίσεις"
+  "feedback.report.actions.comicSettings": "Κόμικ · Ρυθμίσεις",
+  "feedback.resolution.response": "Your response",
+  "feedback.resolution.responseHint": "Explain what you changed or why you disagree.",
+  "feedback.resolution.acknowledge": "Acknowledge report",
+  "feedback.resolution.dispute": "Request review",
+  "feedback.resolution.reason": "Reason for this action (shared with the creator)",
+  "feedback.resolution.action.hide": "Hide content",
+  "feedback.resolution.action.softDelete": "Soft-delete content",
+  "feedback.resolution.action.disableComments": "Disable comments",
+  "feedback.resolution.action.ban": "Ban user",
+  "feedback.resolution.action.restore": "Restore content",
+  "feedback.resolution.action.unban": "Lift ban",
+  "feedback.resolution.active": "Active reports",
+  "feedback.resolution.resolved": "Resolved reports",
+  "feedback.report.filterStatus": "Show",
+  "feedback.resolution.staffResolution": "Staff resolution"
 }
