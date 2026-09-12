@@ -450,5 +450,6 @@
   "seo.universe.encyclopediaLlms": "LLMs.txt de l’encyclopédie de l’univers",
   "common.legal.security": "Security",
   "common.publishAtDate": "Date et heure de publication: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
-  "settings.notifications": "Notifications"
+  "settings.notifications": "Notifications",
+  "common.status": "Status"
 }

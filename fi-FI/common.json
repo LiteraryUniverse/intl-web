@@ -450,5 +450,6 @@
   "seo.universe.encyclopediaLlms": "Universumin tietosanakirjan LLMs.txt",
   "common.legal.security": "Security",
   "common.publishAtDate": "Julkaisupäivä ja -aika: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
-  "settings.notifications": "Notifications"
+  "settings.notifications": "Notifications",
+  "common.status": "Status"
 }

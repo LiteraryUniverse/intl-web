@@ -450,5 +450,6 @@
   "seo.universe.encyclopediaLlms": "Universe Encyclopedia LLMs.txt",
   "common.legal.security": "Security",
   "common.publishAtDate": "வெளியீட்டுத் தேதி மற்றும் நேரம்: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
-  "settings.notifications": "Notifications"
+  "settings.notifications": "Notifications",
+  "common.status": "Status"
 }

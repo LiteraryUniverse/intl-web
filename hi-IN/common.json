@@ -450,5 +450,6 @@
   "seo.universe.encyclopediaLlms": "ब्रह्मांड विश्वकोश LLMs.txt",
   "common.legal.security": "Security",
   "common.publishAtDate": "प्रकाशन तिथि और समय: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
-  "settings.notifications": "Notifications"
+  "settings.notifications": "Notifications",
+  "common.status": "Status"
 }

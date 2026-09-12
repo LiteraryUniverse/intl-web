@@ -450,5 +450,6 @@
   "seo.universe.encyclopediaLlms": "LLMs.txt encyklopedie univerz",
   "common.legal.security": "Security",
   "common.publishAtDate": "Datum a čas zveřejnění: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
-  "settings.notifications": "Notifications"
+  "settings.notifications": "Notifications",
+  "common.status": "Status"
 }

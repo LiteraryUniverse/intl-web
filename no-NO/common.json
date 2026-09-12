@@ -450,5 +450,6 @@
   "seo.universe.encyclopediaLlms": "Univers-encyklopedi LLMs.txt",
   "common.legal.security": "Security",
   "common.publishAtDate": "Publiseringsdato og -tid: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
-  "settings.notifications": "Notifications"
+  "settings.notifications": "Notifications",
+  "common.status": "Status"
 }

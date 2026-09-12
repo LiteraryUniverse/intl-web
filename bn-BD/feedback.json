@@ -155,5 +155,6 @@
   "feedback.history.imported": "Existing case imported",
   "feedback.history.retention": "Retention reviewed",
   "feedback.history.copyrightHandling": "Copyright handling recorded",
-  "feedback.history.note": "Staff note"
+  "feedback.history.note": "Staff note",
+  "feedback.report.status.recorded": "Recorded"
 }
