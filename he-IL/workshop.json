@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "אורכי היחידות חייבים להיות מספרים שלמים חיוביים, אחד לכל יחידה בתוך היחידה הגדולה הבאה.",
   "workshop.fictionalTime.exportJSON": "ייצוא הגדרות (JSON)",
   "fictionalTime.example": "דוגמה: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "סופר מ-1 (תאריכי לוח שנה)"
 }

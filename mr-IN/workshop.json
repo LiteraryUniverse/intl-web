@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "एककांच्या लांबी धन पूर्णांक असाव्यात, पुढील मोठ्या एककातील प्रत्येक एककासाठी एक.",
   "workshop.fictionalTime.exportJSON": "कॉन्फिगरेशन निर्यात करा (JSON)",
   "fictionalTime.example": "उदाहरण: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 पासून मोजणी (दिनदर्शिकेतील तारखा)"
 }

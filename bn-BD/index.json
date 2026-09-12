@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "কনফিগারেশন রপ্তানি করুন (JSON)",
   "fictionalTime.example": "উদাহরণ: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 থেকে গণনা (ক্যালেন্ডারের তারিখ)",
   "writer.menu.optionsAria": "সম্পাদক বিকল্প মেনু",
   "writer.menu.saveOptionsAria": "বিকল্প সংরক্ষণ করুন",
   "writer.undo": "আনডু",

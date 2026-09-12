@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "ਸੰਰਚਨਾ ਨਿਰਯਾਤ ਕਰੋ (JSON)",
   "fictionalTime.example": "ਉਦਾਹਰਨ: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 ਤੋਂ ਗਿਣਤੀ (ਕੈਲੰਡਰ ਤਾਰੀਖਾਂ)",
   "writer.menu.optionsAria": "ਸੰਪਾਦਕ ਚੋਣ ਮੀਨੂ",
   "writer.menu.saveOptionsAria": "ਵਿਕਲਪ ਸੰਭਾਲੋ",
   "writer.undo": "ਵਾਪਸੀ",

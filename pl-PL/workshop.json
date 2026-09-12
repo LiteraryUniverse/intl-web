@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "Długości jednostek muszą być dodatnimi liczbami całkowitymi, po jednej dla każdej jednostki w najbliższej większej jednostce.",
   "workshop.fictionalTime.exportJSON": "Eksportuj konfigurację (JSON)",
   "fictionalTime.example": "Przykład: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Liczy od 1 (daty kalendarzowe)"
 }

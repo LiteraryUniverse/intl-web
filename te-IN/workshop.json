@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "యూనిట్ పొడవులు ధన పూర్ణాంకాలు అయి ఉండాలి, తదుపరి పెద్ద యూనిట్ లోపల ఉన్న ప్రతి యూనిట్‌కు ఒకటి.",
   "workshop.fictionalTime.exportJSON": "కాన్ఫిగరేషన్ ఎగుమతి చేయండి (JSON)",
   "fictionalTime.example": "ఉదాహరణ: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 నుండి లెక్కింపు (క్యాలెండర్ తేదీలు)"
 }

@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "ཆ་ཕྲན་གྱི་རིང་ཚད་ཚུ་ཧྲིལ་གྲངས་ཡར་ལྡང་ཅན་ཨིན་དགོ། ཤུལ་མའི་ཆ་ཕྲན་ཆེཝ་ནང་གི་ཆ་ཕྲན་རེ་རེ་ལུ་གཅིག་རེ།",
   "workshop.fictionalTime.exportJSON": "རིམ་སྒྲིག་ཕྱིར་འདྲེན་འབད་ (JSON)",
   "fictionalTime.example": "དཔེ་: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "༡ ལས་གྱངས་ཁ་རྐྱབ་ (ཟླ་ཐོའི་ཚེས་གྲངས་)"
 }

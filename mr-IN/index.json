@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "कॉन्फिगरेशन निर्यात करा (JSON)",
   "fictionalTime.example": "उदाहरण: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 पासून मोजणी (दिनदर्शिकेतील तारखा)",
   "writer.menu.optionsAria": "संपादक पर्याय मेनू",
   "writer.menu.saveOptionsAria": "सुरक्षित करा पर्याय",
   "writer.undo": "पूर्ववत करा",

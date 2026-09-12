@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "Easpórtáil an chumraíocht (JSON)",
   "fictionalTime.example": "Sampla: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Comhaireamh ó 1 (dátaí féilire)",
   "writer.menu.optionsAria": "Roghchlár roghanna eagarthóra",
   "writer.menu.saveOptionsAria": "Roghanna a shábháil",
   "writer.undo": "Cealaigh",

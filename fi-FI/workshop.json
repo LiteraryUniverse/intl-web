@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "Yksiköiden pituuksien on oltava positiivisia kokonaislukuja, yksi jokaista seuraavan suuremman yksikön sisällä olevaa yksikköä kohden.",
   "workshop.fictionalTime.exportJSON": "Vie asetukset (JSON)",
   "fictionalTime.example": "Esimerkki: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Laskenta alkaa 1:stä (kalenteripäivämäärät)"
 }

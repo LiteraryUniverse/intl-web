@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "ส่งออกการตั้งค่า (JSON)",
   "fictionalTime.example": "ตัวอย่าง: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "นับจาก 1 (วันที่ในปฏิทิน)",
   "writer.menu.optionsAria": "เมนูตัวเลือกของตัวแก้ไข",
   "writer.menu.saveOptionsAria": "บันทึกตัวเลือก",
   "writer.undo": "เลิกทำ",

@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "ייצוא הגדרות (JSON)",
   "fictionalTime.example": "דוגמה: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "סופר מ-1 (תאריכי לוח שנה)",
   "writer.menu.optionsAria": "תפריט אפשרויות העורך",
   "writer.menu.saveOptionsAria": "שמירת אפשרויות",
   "writer.undo": "ביטול",

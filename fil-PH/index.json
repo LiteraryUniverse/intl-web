@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "I-export ang configuration (JSON)",
   "fictionalTime.example": "Halimbawa: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Nagbibilang mula 1 (mga petsa sa kalendaryo)",
   "writer.menu.optionsAria": "Menu ng mga Opsyon ng Editor",
   "writer.menu.saveOptionsAria": "I-save ang mga Opsyon",
   "writer.undo": "Undo",

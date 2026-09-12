@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "Τα μήκη των μονάδων πρέπει να είναι θετικοί ακέραιοι, ένας για κάθε μονάδα μέσα στην επόμενη μεγαλύτερη μονάδα.",
   "workshop.fictionalTime.exportJSON": "Εξαγωγή ρυθμίσεων (JSON)",
   "fictionalTime.example": "Παράδειγμα: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Μετρά από το 1 (ημερολογιακές ημερομηνίες)"
 }

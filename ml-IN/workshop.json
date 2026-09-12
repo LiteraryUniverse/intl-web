@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "യൂണിറ്റ് നീളങ്ങൾ പോസിറ്റീവ് പൂർണ്ണസംഖ്യകളായിരിക്കണം, അടുത്ത വലിയ യൂണിറ്റിനുള്ളിലെ ഓരോ യൂണിറ്റിനും ഒന്ന് വീതം.",
   "workshop.fictionalTime.exportJSON": "കോൺഫിഗറേഷൻ എക്സ്പോർട്ട് ചെയ്യുക (JSON)",
   "fictionalTime.example": "ഉദാഹരണം: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 മുതൽ എണ്ണുന്നു (കലണ്ടർ തീയതികൾ)"
 }

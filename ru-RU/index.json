@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "Экспортировать конфигурацию (JSON)",
   "fictionalTime.example": "Пример: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Отсчёт с 1 (календарные даты)",
   "writer.menu.optionsAria": "Меню настроек редактора",
   "writer.menu.saveOptionsAria": "Сохранить настройки",
   "writer.undo": "Отменить",

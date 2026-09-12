@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "Eksport konfigurasi (JSON)",
   "fictionalTime.example": "Contoh: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Dikira dari 1 (tarikh kalendar)",
   "writer.menu.optionsAria": "Menu pilihan editor",
   "writer.menu.saveOptionsAria": "Simpan pilihan",
   "writer.undo": "Undo",

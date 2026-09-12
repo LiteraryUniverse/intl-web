@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "Eenheidlengtes moet positiewe heelgetalle wees, een vir elke eenheid binne die volgende groter eenheid.",
   "workshop.fictionalTime.exportJSON": "Voer konfigurasie uit (JSON)",
   "fictionalTime.example": "Voorbeeld: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Begin by 1 (kalenderdatums)"
 }

@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "تصدير الإعدادات (JSON)",
   "fictionalTime.example": "مثال: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "يبدأ العد من 1 (تواريخ التقويم)",
   "writer.menu.optionsAria": "قائمة خيارات المحرر",
   "writer.menu.saveOptionsAria": "خيارات الحفظ",
   "writer.undo": "تراجع",

@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "Az egységhosszaknak pozitív egész számoknak kell lenniük, egy a következő nagyobb egységen belüli minden egységhez.",
   "workshop.fictionalTime.exportJSON": "Konfiguráció exportálása (JSON)",
   "fictionalTime.example": "Példa: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1-től számol (naptári dátumok)"
 }

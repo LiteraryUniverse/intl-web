@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "அலகு நீளங்கள் நேர்ம முழு எண்களாக இருக்க வேண்டும், அடுத்த பெரிய அலகுக்குள் உள்ள ஒவ்வொரு அலகுக்கும் ஒன்று.",
   "workshop.fictionalTime.exportJSON": "உள்ளமைவை ஏற்றுமதி செய் (JSON)",
   "fictionalTime.example": "எடுத்துக்காட்டு: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 இலிருந்து எண்ணுகிறது (நாட்காட்டி தேதிகள்)"
 }

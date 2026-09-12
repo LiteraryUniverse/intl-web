@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "Enhedslængder skal være positive hele tal, én for hver enhed inden for den næste større enhed.",
   "workshop.fictionalTime.exportJSON": "Eksportér konfiguration (JSON)",
   "fictionalTime.example": "Eksempel: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "Tæller fra 1 (kalenderdatoer)"
 }

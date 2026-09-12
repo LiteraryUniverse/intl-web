@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "కాన్ఫిగరేషన్ ఎగుమతి చేయండి (JSON)",
   "fictionalTime.example": "ఉదాహరణ: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 నుండి లెక్కింపు (క్యాలెండర్ తేదీలు)",
   "writer.menu.optionsAria": "సంపాదక ఎంపికల మెను",
   "writer.menu.saveOptionsAria": "ఎంపికలను భద్రపరచు",
   "writer.undo": "విరసాయి",

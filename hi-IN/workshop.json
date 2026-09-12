@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "इकाई की लंबाइयाँ धनात्मक पूर्ण संख्याएँ होनी चाहिए, अगली बड़ी इकाई के भीतर प्रत्येक इकाई के लिए एक।",
   "workshop.fictionalTime.exportJSON": "कॉन्फ़िगरेशन निर्यात करें (JSON)",
   "fictionalTime.example": "उदाहरण: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1 से गिनती (कैलेंडर तिथियाँ)"
 }

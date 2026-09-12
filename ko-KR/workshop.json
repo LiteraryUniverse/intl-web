@@ -817,5 +817,6 @@
   "workshop.fictionalTime.unitLengthsInvalid": "단위 길이는 양의 정수여야 하며, 다음으로 큰 단위 안의 단위마다 하나씩 필요합니다.",
   "workshop.fictionalTime.exportJSON": "설정 내보내기 (JSON)",
   "fictionalTime.example": "예: {example}",
-  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled"
+  "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "1부터 셈 (달력 날짜)"
 }

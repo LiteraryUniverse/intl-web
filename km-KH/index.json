@@ -5714,6 +5714,7 @@
   "workshop.fictionalTime.exportJSON": "នាំចេញការកំណត់រចនាសម្ព័ន្ធ (JSON)",
   "fictionalTime.example": "ឧទាហរណ៍៖ {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
+  "workshop.fictionalTime.unitStartsAtOne": "រាប់ចាប់ពី 1 (កាលបរិច្ឆេទប្រតិទិន)",
   "writer.menu.optionsAria": "ម៉ឺនុយ​ជម្រើស​ការកែប្រែ​អ្នកនិពន្ធ",
   "writer.menu.saveOptionsAria": "ជម្រើស​រក្សាទុក",
   "writer.undo": "មិន​ធ្វើ​វិញទេ",
