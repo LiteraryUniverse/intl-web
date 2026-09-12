@@ -2432,6 +2432,7 @@
   "feedback.resolution.resolved": "Resolved reports",
   "feedback.report.filterStatus": "Show",
   "feedback.resolution.staffResolution": "Staff resolution",
+  "feedback.resolution.moderation": "Moderation",
   "form.requiredSymbol": "*",
   "form.validator.required": "필수 필드",
   "form.validator.mustBeNumber": "숫자여야합니다",

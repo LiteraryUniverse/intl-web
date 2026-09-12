@@ -2432,6 +2432,7 @@
   "feedback.resolution.resolved": "Resolved reports",
   "feedback.report.filterStatus": "Show",
   "feedback.resolution.staffResolution": "Staff resolution",
+  "feedback.resolution.moderation": "Moderation",
   "form.requiredSymbol": "*",
   "form.validator.required": "आवश्यक क्षेत्र",
   "form.validator.mustBeNumber": "एक संख्या होनी चाहिए",

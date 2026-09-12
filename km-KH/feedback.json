@@ -115,5 +115,6 @@
   "feedback.resolution.active": "Active reports",
   "feedback.resolution.resolved": "Resolved reports",
   "feedback.report.filterStatus": "Show",
-  "feedback.resolution.staffResolution": "Staff resolution"
+  "feedback.resolution.staffResolution": "Staff resolution",
+  "feedback.resolution.moderation": "Moderation"
 }

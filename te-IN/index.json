@@ -2432,6 +2432,7 @@
   "feedback.resolution.resolved": "Resolved reports",
   "feedback.report.filterStatus": "Show",
   "feedback.resolution.staffResolution": "Staff resolution",
+  "feedback.resolution.moderation": "Moderation",
   "form.requiredSymbol": "*",
   "form.validator.required": "అవసరమైన ఫీల్డ్",
   "form.validator.mustBeNumber": "సంఖ్య అయినది అయినా ఉండాలి",

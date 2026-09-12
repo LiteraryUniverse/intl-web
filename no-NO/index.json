@@ -2432,6 +2432,7 @@
   "feedback.resolution.resolved": "Resolved reports",
   "feedback.report.filterStatus": "Show",
   "feedback.resolution.staffResolution": "Staff resolution",
+  "feedback.resolution.moderation": "Moderation",
   "form.requiredSymbol": "*",
   "form.validator.required": "Påkrevd felt",
   "form.validator.mustBeNumber": "Må være et nummer",

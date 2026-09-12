@@ -2432,6 +2432,7 @@
   "feedback.resolution.resolved": "Resolved reports",
   "feedback.report.filterStatus": "Show",
   "feedback.resolution.staffResolution": "Staff resolution",
+  "feedback.resolution.moderation": "Moderation",
   "form.requiredSymbol": "*",
   "form.validator.required": "វាល​ដែល​ត្រូវ​បាន​ទាមទារ",
   "form.validator.mustBeNumber": "ត្រូវ​តែ​ជា​លេខ",
