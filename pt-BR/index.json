@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Permitir recomendações personalizadas de histórias.",
   "settings.ai.title": "Configurações de IA",
   "settings.ai.explained": "Configure como os recursos de IA funcionam para o senhor no Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Acessibilidade do leitor",
   "settings.accessibility.openDyslexic": "Usar fonte OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Alternar cor de fundo em parágrafo",

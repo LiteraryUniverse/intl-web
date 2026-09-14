@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Activați recomandările de povești personalizate.",
   "settings.ai.title": "Setări AI",
   "settings.ai.explained": "Configurați modul în care funcționează funcțiile AI pentru dvs. pe Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Accesibilitate cititor",
   "settings.accessibility.openDyslexic": "Folosește fontul OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Alternează culoarea de fundal în paragraf",

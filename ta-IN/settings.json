@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Enable personalized story recommendations.",
   "settings.ai.title": "AI settings",
   "settings.ai.explained": "Configure how AI features work for you on Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "வாசிப்பு எளிய அணுகல்கள்",
   "settings.accessibility.openDyslexic": "OpenDyslexic எழுத்துருவைப் பயன்படுத்து",
   "settings.accessibility.paragraphStripes": "பதிவேடு பின்னணி வண்ண மாற்றம்",

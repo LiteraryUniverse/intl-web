@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Ενεργοποιήστε εξατομικευμένες συστάσεις ιστοριών.",
   "settings.ai.title": "Ρυθμίσεις AI",
   "settings.ai.explained": "Διαμορφώστε τον τρόπο με τον οποίο λειτουργούν οι λειτουργίες AI για εσάς στο Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Προσβασιμότητα αναγνώστη",
   "settings.accessibility.openDyslexic": "Χρήση γραμματοσειράς OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Εναλλακτικό χρώμα φόντου στο παράγραφο",

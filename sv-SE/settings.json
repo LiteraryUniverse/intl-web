@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Möjliggör personliga rekommendationer för berättelser.",
   "settings.ai.title": "AI-inställningar",
   "settings.ai.explained": "Konfigurera hur AI-funktioner fungerar för dig på Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Läsbarhet för läsaren",
   "settings.accessibility.openDyslexic": "Använd OpenDyslexic-typsnitt",
   "settings.accessibility.paragraphStripes": "Alternativ bakgrundsfärg för stycke",

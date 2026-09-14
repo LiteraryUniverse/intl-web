@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Active recomendações de histórias personalizadas.",
   "settings.ai.title": "Definições de IA",
   "settings.ai.explained": "Configure a forma como as funcionalidades de IA funcionam para si no Universo Literário.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Acessibilidade do leitor",
   "settings.accessibility.openDyslexic": "Utilizar a fonte OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Alternar na cor de fundo do parágrafo",

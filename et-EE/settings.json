@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Võimaldage isikupärastatud lugude soovitused.",
   "settings.ai.title": "AI seaded",
   "settings.ai.explained": "Seadistage, kuidas AI-funktsioonid teie jaoks kirjanduslikus universumis töötavad.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Lugeja ligipääsetavus",
   "settings.accessibility.openDyslexic": "Kasuta OpenDyslexic fonti",
   "settings.accessibility.paragraphStripes": "Vaheta lõigu taustavärvi",

@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Enable personalized story recommendations.",
   "settings.ai.title": "AI settings",
   "settings.ai.explained": "Configure how AI features work for you on Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Độ khả dụng cho đọc giả",
   "settings.accessibility.openDyslexic": "Sử dụng font OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Thay đổi màu nền cho đoạn văn bản",

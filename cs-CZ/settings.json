@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Povolení personalizovaných doporučení příběhů.",
   "settings.ai.title": "Nastavení AI",
   "settings.ai.explained": "Konfigurace fungování funkcí umělé inteligence v aplikaci Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Přístupnost čtečky",
   "settings.accessibility.openDyslexic": "Použít OpenDyslexic písmo",
   "settings.accessibility.paragraphStripes": "Alternující barva pozadí odstavců",

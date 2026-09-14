@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Povoľte personalizované odporúčania príbehov.",
   "settings.ai.title": "Nastavenia AI",
   "settings.ai.explained": "Nakonfigurujte si, ako budú funkcie umelej inteligencie fungovať v službe Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Zjednodušené ovládania čítačky",
   "settings.accessibility.openDyslexic": "Použitie písma OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Striedanie farby pozadia odseku",

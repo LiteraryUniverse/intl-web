@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Gør det muligt at anbefale personlige historier.",
   "settings.ai.title": "AI-indstillinger",
   "settings.ai.explained": "Konfigurer, hvordan AI-funktioner fungerer for dig i Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Læserens tilgængelighed",
   "settings.accessibility.openDyslexic": "Brug OpenDyslexic skrifttype",
   "settings.accessibility.paragraphStripes": "Alternativ baggrundsfarve i afsnit",

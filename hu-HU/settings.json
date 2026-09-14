@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Személyre szabott történetajánlások engedélyezése.",
   "settings.ai.title": "AI beállítások",
   "settings.ai.explained": "Állítsa be, hogyan működjenek a mesterséges intelligencia funkciók az Ön számára az Irodalmi Univerzumban.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Olvasó elérhetőség",
   "settings.accessibility.openDyslexic": "Használja az OpenDyslexic betűtípust",
   "settings.accessibility.paragraphStripes": "Váltakozó háttérszín a bekezdésekben",

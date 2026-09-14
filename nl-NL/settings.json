@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Maak gepersonaliseerde verhaalaanbevelingen mogelijk.",
   "settings.ai.title": "AI-instellingen",
   "settings.ai.explained": "Configureer hoe AI-functies voor u werken op Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Toegankelijkheid van de lezer",
   "settings.accessibility.openDyslexic": "Gebruik het OpenDyslexic-lettertype",
   "settings.accessibility.paragraphStripes": "Wissel af in achtergrondkleur van alinea",

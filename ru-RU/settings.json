@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Включить персонализированные рекомендации по историям.",
   "settings.ai.title": "Настройки ИИ",
   "settings.ai.explained": "Настройте, как функции искусственного интеллекта будут работать для вас в Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Специальные возможности чтения",
   "settings.accessibility.openDyslexic": "Использовать шрифт OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Альтернативный цвет фона абзаца",

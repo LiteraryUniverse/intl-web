@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "تمكين توصيات القصص المخصصة.",
   "settings.ai.title": "إعدادات الذكاء الاصطناعي",
   "settings.ai.explained": "قم بتهيئة كيفية عمل ميزات الذكاء الاصطناعي من أجلك على برنامج \"الكون الأدبي\".",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "إمكانية الوصول للقارئ",
   "settings.accessibility.openDyslexic": "استخدام خط OpenDyslexic",
   "settings.accessibility.paragraphStripes": "تغيير لون الخلفية البديل في الفقرة",

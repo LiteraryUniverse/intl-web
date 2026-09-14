@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Aktivieren Sie personalisierte Story-Empfehlungen.",
   "settings.ai.title": "AI-Einstellungen",
   "settings.ai.explained": "Konfigurieren Sie, wie KI-Funktionen für Sie auf Literary Universe funktionieren.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Barrierefreiheit Optionen",
   "settings.accessibility.openDyslexic": "OpenDyslexis-Schriftart verwenden",
   "settings.accessibility.paragraphStripes": "Alternative in Absatzhintergrundfarbe",

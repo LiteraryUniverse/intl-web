@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Kişiselleştirilmiş hikaye önerilerini etkinleştirin.",
   "settings.ai.title": "Yapay zeka ayarları",
   "settings.ai.explained": "Literary Universe'te yapay zeka özelliklerinin sizin için nasıl çalışacağını yapılandırın.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Okuyucu erişilebilirliği",
   "settings.accessibility.openDyslexic": "OpenDyslexic yazı tipi kullan",
   "settings.accessibility.paragraphStripes": "Paragraf arka planında alternatif renk kullan",

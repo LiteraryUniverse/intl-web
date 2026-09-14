@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Ota käyttöön henkilökohtaiset tarinasuositukset.",
   "settings.ai.title": "Tekoälyn asetukset",
   "settings.ai.explained": "Määritä, miten tekoälyominaisuudet toimivat sinulle Literary Universessa.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Lukijan saavutettavuus",
   "settings.accessibility.openDyslexic": "Käytä OpenDyslexic-fonttia",
   "settings.accessibility.paragraphStripes": "Vaihtoehtoinen taustaväri kappaleille",

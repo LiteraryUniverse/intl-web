@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "パーソナライズされたストーリーの推薦を可能にする。",
   "settings.ai.title": "AI設定",
   "settings.ai.explained": "Literary UniverseでAI機能がどのように機能するかを設定します。",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "読者アクセシビリティ",
   "settings.accessibility.openDyslexic": "OpenDyslexicフォントを使用する",
   "settings.accessibility.paragraphStripes": "段落の背景色を交互に変更する",

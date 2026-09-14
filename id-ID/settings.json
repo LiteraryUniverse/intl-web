@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Mengaktifkan rekomendasi cerita yang dipersonalisasi.",
   "settings.ai.title": "Pengaturan AI",
   "settings.ai.explained": "Konfigurasikan bagaimana fitur AI bekerja untuk Anda di Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Aksesibilitas pembaca",
   "settings.accessibility.openDyslexic": "Gunakan font OpenDyslexic",
   "settings.accessibility.paragraphStripes": "Ganti warna latar belakang alternatif pada paragraf",

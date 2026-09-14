@@ -180,6 +180,8 @@
   "settings.reader.storyRecommendationsHelp": "Įgalinkite asmenines istorijų rekomendacijas.",
   "settings.ai.title": "AI nustatymai",
   "settings.ai.explained": "Konfigūruokite, kaip dirbtinio intelekto funkcijos veikia \"Literary Universe\".",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "Skaitymo prieinamumas",
   "settings.accessibility.openDyslexic": "Naudoti OpenDyslexic šriftą",
   "settings.accessibility.paragraphStripes": "Alternatyvi fono spalva pastraipoms",

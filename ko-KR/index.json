@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "개인화된 스토리 추천을 사용 설정합니다.",
   "settings.ai.title": "AI 설정",
   "settings.ai.explained": "리터러티브 유니버스에서 AI 기능의 작동 방식을 구성하세요.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "리더 접근성",
   "settings.accessibility.openDyslexic": "OpenDyslexic 글꼴 사용",
   "settings.accessibility.paragraphStripes": "문단 배경색 대체",

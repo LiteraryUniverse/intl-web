@@ -4616,6 +4616,8 @@
   "settings.reader.storyRecommendationsHelp": "Enable personalized story recommendations.",
   "settings.ai.title": "AI settings",
   "settings.ai.explained": "Configure how AI features work for you on Literary Universe.",
+  "settings.ai.proofreadingWatchlist.title": "Proofreading watchlist",
+  "settings.ai.proofreadingWatchlist.help": "Words, pairs or spelling preferences the assistant should check whenever it proofreads your text. One per line, for example lay/lie or colour (British spelling).",
   "settings.accessibility.title": "साहित्यिक प्रवेशिका",
   "settings.accessibility.openDyslexic": "OpenDyslexic फॉन्ट वापरा",
   "settings.accessibility.paragraphStripes": "अनुप्रेषित पैराग्राफ बॅकग्राउंड रंग",
