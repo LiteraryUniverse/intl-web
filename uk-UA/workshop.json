@@ -573,6 +573,8 @@
   "workshop.ai.chat.createError": "Не вдалося почати нову розмову. Будь ласка, спробуйте ще раз.",
   "workshop.ai.chat.findInEditor": "Натисніть, щоб знайти цей фрагмент у редакторі",
   "workshop.ai.chat.modelLocked": "Щоб змінити модель, почніть нову розмову.",
+  "workshop.ai.quick.choose": "Виконати завдання...",
+  "workshop.ai.quick.proofreading": "Коректура",
   "workshop.ai.quick.pacing": "Темп",
   "workshop.ai.quick.plotHoles": "Сюжетні діри",
   "workshop.ai.quick.dialog": "Діалоги",
@@ -818,5 +820,17 @@
   "workshop.fictionalTime.exportJSON": "Експортувати конфігурацію (JSON)",
   "fictionalTime.example": "Приклад: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
-  "workshop.fictionalTime.unitStartsAtOne": "Відлік від 1 (календарні дати)"
+  "workshop.fictionalTime.unitStartsAtOne": "Відлік від 1 (календарні дати)",
+  "workshop.ai.chat.tab": "Chat",
+  "workshop.ai.chat.views": "Assistant views",
+  "workshop.ai.chat.enterHint": "Enter sends, Shift+Enter adds a line.",
+  "workshop.ai.chat.deletePrompt": "Delete “{title}”?",
+  "workshop.ai.chat.tool.lookup": "Looking up the encyclopedia…",
+  "workshop.ai.chat.tool.propose": "Drafting an encyclopedia entry…",
+  "workshop.ai.chat.tool.image": "Generating an image…",
+  "workshop.ai.chat.tool.saveImage": "Saving the image…",
+  "workshop.ai.chat.tool.skill": "Loading writing guidance…",
+  "workshop.ai.chat.tool.webSearch": "Searching the web…",
+  "workshop.ai.chat.tool.working": "Working…",
+  "aiChat.image.selectedEntry": "Selected: {entryName}"
 }

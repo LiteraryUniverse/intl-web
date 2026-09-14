@@ -452,5 +452,6 @@
   "common.legal.security": "Security",
   "common.publishAtDate": "Data și ora publicării: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "settings.notifications": "Notifications",
-  "common.status": "Status"
+  "common.status": "Status",
+  "common.aiContent.chatNoticeShort": "You are talking to an AI assistant. Check its output before you use it."
 }

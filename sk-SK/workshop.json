@@ -573,6 +573,8 @@
   "workshop.ai.chat.createError": "Nepodarilo sa začať novú konverzáciu. Skúste to prosím znova.",
   "workshop.ai.chat.findInEditor": "Kliknutím nájdete túto pasáž v editore",
   "workshop.ai.chat.modelLocked": "Ak chcete zmeniť model, začnite novú konverzáciu.",
+  "workshop.ai.quick.choose": "Spustiť úlohu...",
+  "workshop.ai.quick.proofreading": "Korektúra",
   "workshop.ai.quick.pacing": "Tempo",
   "workshop.ai.quick.plotHoles": "Diery v deji",
   "workshop.ai.quick.dialog": "Dialóg",
@@ -818,5 +820,17 @@
   "workshop.fictionalTime.exportJSON": "Exportovať konfiguráciu (JSON)",
   "fictionalTime.example": "Príklad: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
-  "workshop.fictionalTime.unitStartsAtOne": "Počíta sa od 1 (kalendárne dátumy)"
+  "workshop.fictionalTime.unitStartsAtOne": "Počíta sa od 1 (kalendárne dátumy)",
+  "workshop.ai.chat.tab": "Chat",
+  "workshop.ai.chat.views": "Assistant views",
+  "workshop.ai.chat.enterHint": "Enter sends, Shift+Enter adds a line.",
+  "workshop.ai.chat.deletePrompt": "Delete “{title}”?",
+  "workshop.ai.chat.tool.lookup": "Looking up the encyclopedia…",
+  "workshop.ai.chat.tool.propose": "Drafting an encyclopedia entry…",
+  "workshop.ai.chat.tool.image": "Generating an image…",
+  "workshop.ai.chat.tool.saveImage": "Saving the image…",
+  "workshop.ai.chat.tool.skill": "Loading writing guidance…",
+  "workshop.ai.chat.tool.webSearch": "Searching the web…",
+  "workshop.ai.chat.tool.working": "Working…",
+  "aiChat.image.selectedEntry": "Selected: {entryName}"
 }

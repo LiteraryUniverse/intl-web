@@ -573,6 +573,8 @@
   "workshop.ai.chat.createError": "تعذّر بدء محادثة جديدة. يرجى المحاولة مرة أخرى.",
   "workshop.ai.chat.findInEditor": "انقر للعثور على هذا المقطع في المحرر",
   "workshop.ai.chat.modelLocked": "ابدأ محادثة جديدة لتغيير النموذج.",
+  "workshop.ai.quick.choose": "تنفيذ مهمة...",
+  "workshop.ai.quick.proofreading": "التدقيق اللغوي",
   "workshop.ai.quick.pacing": "الإيقاع",
   "workshop.ai.quick.plotHoles": "ثغرات الحبكة",
   "workshop.ai.quick.dialog": "الحوار",
@@ -818,5 +820,17 @@
   "workshop.fictionalTime.exportJSON": "تصدير الإعدادات (JSON)",
   "fictionalTime.example": "مثال: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
-  "workshop.fictionalTime.unitStartsAtOne": "يبدأ العد من 1 (تواريخ التقويم)"
+  "workshop.fictionalTime.unitStartsAtOne": "يبدأ العد من 1 (تواريخ التقويم)",
+  "workshop.ai.chat.tab": "Chat",
+  "workshop.ai.chat.views": "Assistant views",
+  "workshop.ai.chat.enterHint": "Enter sends, Shift+Enter adds a line.",
+  "workshop.ai.chat.deletePrompt": "Delete “{title}”?",
+  "workshop.ai.chat.tool.lookup": "Looking up the encyclopedia…",
+  "workshop.ai.chat.tool.propose": "Drafting an encyclopedia entry…",
+  "workshop.ai.chat.tool.image": "Generating an image…",
+  "workshop.ai.chat.tool.saveImage": "Saving the image…",
+  "workshop.ai.chat.tool.skill": "Loading writing guidance…",
+  "workshop.ai.chat.tool.webSearch": "Searching the web…",
+  "workshop.ai.chat.tool.working": "Working…",
+  "aiChat.image.selectedEntry": "Selected: {entryName}"
 }

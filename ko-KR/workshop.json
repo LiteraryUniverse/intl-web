@@ -563,6 +563,8 @@
   "workshop.ai.chat.createError": "Failed to start a new conversation. Please try again.",
   "workshop.ai.chat.findInEditor": "Click to find this passage in the editor",
   "workshop.ai.chat.modelLocked": "Start a new conversation to change the model.",
+  "workshop.ai.quick.choose": "작업 실행...",
+  "workshop.ai.quick.proofreading": "교정",
   "workshop.ai.quick.pacing": "Pacing",
   "workshop.ai.quick.plotHoles": "Plot holes",
   "workshop.ai.quick.dialog": "Dialog",
@@ -818,5 +820,17 @@
   "workshop.fictionalTime.exportJSON": "설정 내보내기 (JSON)",
   "fictionalTime.example": "예: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
-  "workshop.fictionalTime.unitStartsAtOne": "1부터 셈 (달력 날짜)"
+  "workshop.fictionalTime.unitStartsAtOne": "1부터 셈 (달력 날짜)",
+  "workshop.ai.chat.tab": "Chat",
+  "workshop.ai.chat.views": "Assistant views",
+  "workshop.ai.chat.enterHint": "Enter sends, Shift+Enter adds a line.",
+  "workshop.ai.chat.deletePrompt": "Delete “{title}”?",
+  "workshop.ai.chat.tool.lookup": "Looking up the encyclopedia…",
+  "workshop.ai.chat.tool.propose": "Drafting an encyclopedia entry…",
+  "workshop.ai.chat.tool.image": "Generating an image…",
+  "workshop.ai.chat.tool.saveImage": "Saving the image…",
+  "workshop.ai.chat.tool.skill": "Loading writing guidance…",
+  "workshop.ai.chat.tool.webSearch": "Searching the web…",
+  "workshop.ai.chat.tool.working": "Working…",
+  "aiChat.image.selectedEntry": "Selected: {entryName}"
 }

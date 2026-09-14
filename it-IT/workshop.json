@@ -573,6 +573,8 @@
   "workshop.ai.chat.createError": "Impossibile avviare una nuova conversazione. Riprova.",
   "workshop.ai.chat.findInEditor": "Fai clic per trovare questo passaggio nell'editor",
   "workshop.ai.chat.modelLocked": "Avvia una nuova conversazione per cambiare modello.",
+  "workshop.ai.quick.choose": "Esegui un’attività...",
+  "workshop.ai.quick.proofreading": "Correzione",
   "workshop.ai.quick.pacing": "Ritmo",
   "workshop.ai.quick.plotHoles": "Buchi di trama",
   "workshop.ai.quick.dialog": "Dialoghi",
@@ -818,5 +820,17 @@
   "workshop.fictionalTime.exportJSON": "Esporta configurazione (JSON)",
   "fictionalTime.example": "Esempio: {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
-  "workshop.fictionalTime.unitStartsAtOne": "Conta da 1 (date di calendario)"
+  "workshop.fictionalTime.unitStartsAtOne": "Conta da 1 (date di calendario)",
+  "workshop.ai.chat.tab": "Chat",
+  "workshop.ai.chat.views": "Assistant views",
+  "workshop.ai.chat.enterHint": "Enter sends, Shift+Enter adds a line.",
+  "workshop.ai.chat.deletePrompt": "Delete “{title}”?",
+  "workshop.ai.chat.tool.lookup": "Looking up the encyclopedia…",
+  "workshop.ai.chat.tool.propose": "Drafting an encyclopedia entry…",
+  "workshop.ai.chat.tool.image": "Generating an image…",
+  "workshop.ai.chat.tool.saveImage": "Saving the image…",
+  "workshop.ai.chat.tool.skill": "Loading writing guidance…",
+  "workshop.ai.chat.tool.webSearch": "Searching the web…",
+  "workshop.ai.chat.tool.working": "Working…",
+  "aiChat.image.selectedEntry": "Selected: {entryName}"
 }

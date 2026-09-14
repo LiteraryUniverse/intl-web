@@ -563,6 +563,8 @@
   "workshop.ai.chat.createError": "Failed to start a new conversation. Please try again.",
   "workshop.ai.chat.findInEditor": "Click to find this passage in the editor",
   "workshop.ai.chat.modelLocked": "Start a new conversation to change the model.",
+  "workshop.ai.quick.choose": "Run a task...",
+  "workshop.ai.quick.proofreading": "Proofreading",
   "workshop.ai.quick.pacing": "Pacing",
   "workshop.ai.quick.plotHoles": "Plot holes",
   "workshop.ai.quick.dialog": "Dialog",
@@ -818,5 +820,17 @@
   "workshop.fictionalTime.exportJSON": "នាំចេញការកំណត់រចនាសម្ព័ន្ធ (JSON)",
   "fictionalTime.example": "ឧទាហរណ៍៖ {example}",
   "workshop.statusChangeEmail.cancellationTitle": "Your story status was automatically set to cancelled",
-  "workshop.fictionalTime.unitStartsAtOne": "រាប់ចាប់ពី 1 (កាលបរិច្ឆេទប្រតិទិន)"
+  "workshop.fictionalTime.unitStartsAtOne": "រាប់ចាប់ពី 1 (កាលបរិច្ឆេទប្រតិទិន)",
+  "workshop.ai.chat.tab": "Chat",
+  "workshop.ai.chat.views": "Assistant views",
+  "workshop.ai.chat.enterHint": "Enter sends, Shift+Enter adds a line.",
+  "workshop.ai.chat.deletePrompt": "Delete “{title}”?",
+  "workshop.ai.chat.tool.lookup": "Looking up the encyclopedia…",
+  "workshop.ai.chat.tool.propose": "Drafting an encyclopedia entry…",
+  "workshop.ai.chat.tool.image": "Generating an image…",
+  "workshop.ai.chat.tool.saveImage": "Saving the image…",
+  "workshop.ai.chat.tool.skill": "Loading writing guidance…",
+  "workshop.ai.chat.tool.webSearch": "Searching the web…",
+  "workshop.ai.chat.tool.working": "Working…",
+  "aiChat.image.selectedEntry": "Selected: {entryName}"
 }
