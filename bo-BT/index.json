@@ -4665,6 +4665,7 @@
   "settings.digestFrequency.daily": "Daily",
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
+  "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
   "sharing.title": "རིན་པའི་དྲན་པ།",
   "sharing.button": "བསྐྱར་ཆོག་གསལ་བཤད།",
   "sharing.share": "བསྐྱར་ཆོག་གསར་བསྐྱར།",
