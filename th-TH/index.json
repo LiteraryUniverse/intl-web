@@ -5005,6 +5005,7 @@
   "profile.contributions": "Contributions",
   "profile.contributions.empty": "No public contributions yet.",
   "profile.contributions.more": "Load more contributions",
+  "user.role.artist": "ศิลปิน",
   "workshop.title": "งานของคุณ",
   "workshop.noneassigned": "คุณยังไม่ได้รับมอบหมายใดๆ",
   "workshop.notavailable": "คุณลักษณะนี้ยังไม่สามารถใช้งานได้ในขณะนี้",

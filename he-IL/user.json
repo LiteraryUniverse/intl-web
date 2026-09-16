@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "תרומות",
   "profile.contributions.empty": "עדיין אין תרומות ציבוריות.",
-  "profile.contributions.more": "טען תרומות נוספות"
+  "profile.contributions.more": "טען תרומות נוספות",
+	"user.role.artist": "אמן"
 }

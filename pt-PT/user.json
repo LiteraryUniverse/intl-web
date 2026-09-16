@@ -41,5 +41,6 @@
   "login.login": "Iniciar sessão",
   "profile.contributions": "Contribuições",
   "profile.contributions.empty": "Ainda não há contribuições públicas.",
-  "profile.contributions.more": "Carregar mais contribuições"
+  "profile.contributions.more": "Carregar mais contribuições",
+	"user.role.artist": "Artista"
 }

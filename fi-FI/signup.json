@@ -95,5 +95,6 @@
 	"signup.complete.title": "Kaikki on valmista!",
 	"signup.complete.description": "Kiitos, että täytit profiilisi. Olemme räätälöineet kokemuksesi mieltymystesi perusteella.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "Rekisteröitymisavustaja"
+	"signup.wizard.title": "Rekisteröitymisavustaja",
+	"signup.userType.artist.description": "Piirrän mangaa, sarjakuvia tai kuvituksia"
 }

@@ -95,5 +95,6 @@
 	"signup.complete.title": "You're all set!",
 	"signup.complete.description": "Thank you for completing your profile. We've customized your experience based on your preferences.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "साइन-अप विज़ार्ड"
+	"signup.wizard.title": "साइन-अप विज़ार्ड",
+	"signup.userType.artist.description": "मैं मंगा, कॉमिक्स या चित्र बनाता हूँ"
 }

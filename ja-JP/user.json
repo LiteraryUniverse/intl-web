@@ -41,5 +41,6 @@
   "login.login": "ログイン",
   "profile.contributions": "貢献",
   "profile.contributions.empty": "公開の貢献はまだありません。",
-  "profile.contributions.more": "貢献をもっと読み込む"
+  "profile.contributions.more": "貢献をもっと読み込む",
+	"user.role.artist": "アーティスト"
 }

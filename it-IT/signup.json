@@ -95,5 +95,6 @@
 	"signup.complete.title": "È tutto pronto!",
 	"signup.complete.description": "Grazie per aver completato il suo profilo. Abbiamo personalizzato la sua esperienza in base alle sue preferenze.",
 	"signup.password2.label": "Conferma la password",
-	"signup.wizard.title": "Procedura guidata di registrazione"
+	"signup.wizard.title": "Procedura guidata di registrazione",
+	"signup.userType.artist.description": "Disegno manga, fumetti o illustrazioni"
 }

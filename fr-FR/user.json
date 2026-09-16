@@ -41,5 +41,6 @@
   "login.login": "Se connecter",
   "profile.contributions": "Contributions",
   "profile.contributions.empty": "Pas encore de contributions publiques.",
-  "profile.contributions.more": "Charger plus de contributions"
+  "profile.contributions.more": "Charger plus de contributions",
+	"user.role.artist": "Artiste"
 }

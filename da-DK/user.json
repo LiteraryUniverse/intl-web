@@ -41,5 +41,6 @@
   "login.login": "Log ind",
   "profile.contributions": "Bidrag",
   "profile.contributions.empty": "Ingen offentlige bidrag endnu.",
-  "profile.contributions.more": "Indlæs flere bidrag"
+  "profile.contributions.more": "Indlæs flere bidrag",
+	"user.role.artist": "Kunstner"
 }

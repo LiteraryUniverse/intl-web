@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Đóng góp",
   "profile.contributions.empty": "Chưa có đóng góp công khai.",
-  "profile.contributions.more": "Tải thêm đóng góp"
+  "profile.contributions.more": "Tải thêm đóng góp",
+	"user.role.artist": "Họa sĩ"
 }

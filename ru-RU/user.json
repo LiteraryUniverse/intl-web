@@ -41,5 +41,6 @@
   "login.login": "Войти",
   "profile.contributions": "Вклад",
   "profile.contributions.empty": "Пока нет публичных вкладов.",
-  "profile.contributions.more": "Загрузить ещё вклады"
+  "profile.contributions.more": "Загрузить ещё вклады",
+	"user.role.artist": "Художник"
 }

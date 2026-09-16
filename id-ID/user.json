@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Kontribusi",
   "profile.contributions.empty": "Belum ada kontribusi publik.",
-  "profile.contributions.more": "Muat lebih banyak kontribusi"
+  "profile.contributions.more": "Muat lebih banyak kontribusi",
+	"user.role.artist": "Seniman"
 }

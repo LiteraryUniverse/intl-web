@@ -95,5 +95,6 @@
 	"signup.complete.title": "أنت جاهز!",
 	"signup.complete.description": "شكراً لك على استكمال ملفك الشخصي. لقد قمنا بتخصيص تجربتك بناءً على تفضيلاتك.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "معالج التسجيل"
+	"signup.wizard.title": "معالج التسجيل",
+	"signup.userType.artist.description": "أرسم المانغا أو القصص المصورة أو الرسوم التوضيحية"
 }

@@ -95,5 +95,6 @@
 	"signup.complete.title": "You're all set!",
 	"signup.complete.description": "Thank you for completing your profile. We've customized your experience based on your preferences.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "אשף הרשמה"
+	"signup.wizard.title": "אשף הרשמה",
+	"signup.userType.artist.description": "אני מצייר מנגה, קומיקס או איורים"
 }

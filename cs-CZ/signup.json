@@ -95,5 +95,6 @@
 	"signup.complete.title": "Vše je připraveno!",
 	"signup.complete.description": "Děkujeme vám za vyplnění profilu. Na základě vašich preferencí jsme přizpůsobili vaše zkušenosti.",
 	"signup.password2.label": "Potvrďte heslo",
-	"signup.wizard.title": "Průvodce registrací"
+	"signup.wizard.title": "Průvodce registrací",
+	"signup.userType.artist.description": "Kreslím mangu, komiksy nebo ilustrace"
 }

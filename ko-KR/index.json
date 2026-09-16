@@ -5005,6 +5005,7 @@
   "profile.contributions": "기여",
   "profile.contributions.empty": "아직 공개 기여가 없습니다.",
   "profile.contributions.more": "기여 더 불러오기",
+  "user.role.artist": "아티스트",
   "workshop.title": "당신의 작업",
   "workshop.noneassigned": "아직 할당된 작업이 없습니다.",
   "workshop.notavailable": "이 기능은 아직 사용할 수 없습니다.",

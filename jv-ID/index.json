@@ -5005,6 +5005,7 @@
   "profile.contributions": "Contributions",
   "profile.contributions.empty": "No public contributions yet.",
   "profile.contributions.more": "Load more contributions",
+  "user.role.artist": "Seniman",
   "workshop.title": "Your work",
   "workshop.noneassigned": "You have not been assigned any yet.",
   "workshop.notavailable": "This feature is not yet available.",

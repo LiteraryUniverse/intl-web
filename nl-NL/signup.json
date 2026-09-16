@@ -95,5 +95,6 @@
 	"signup.complete.title": "U bent er helemaal klaar voor!",
 	"signup.complete.description": "Bedankt voor het invullen van uw profiel. Wij hebben uw ervaring aangepast op basis van uw voorkeuren.",
 	"signup.password2.label": "Wachtwoord bevestigen",
-	"signup.wizard.title": "Aanmeldwizard"
+	"signup.wizard.title": "Aanmeldwizard",
+	"signup.userType.artist.description": "Ik teken manga, strips of illustraties"
 }

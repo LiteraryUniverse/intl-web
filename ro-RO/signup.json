@@ -95,5 +95,6 @@
 	"signup.complete.title": "Sunteți gata!",
 	"signup.complete.description": "Vă mulțumim pentru completarea profilului dumneavoastră. Ți-am personalizat experiența în funcție de preferințele tale.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "Asistent de înregistrare"
+	"signup.wizard.title": "Asistent de înregistrare",
+	"signup.userType.artist.description": "Desenez manga, benzi desenate sau ilustrații"
 }

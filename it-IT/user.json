@@ -41,5 +41,6 @@
   "login.login": "Accedi",
   "profile.contributions": "Contributi",
   "profile.contributions.empty": "Nessun contributo pubblico ancora.",
-  "profile.contributions.more": "Carica altri contributi"
+  "profile.contributions.more": "Carica altri contributi",
+	"user.role.artist": "Artista"
 }

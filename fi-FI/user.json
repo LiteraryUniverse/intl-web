@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Kontribuutiot",
   "profile.contributions.empty": "Ei julkisia kontribuutioita vielä.",
-  "profile.contributions.more": "Lataa lisää kontribuutioita"
+  "profile.contributions.more": "Lataa lisää kontribuutioita",
+	"user.role.artist": "Taiteilija"
 }

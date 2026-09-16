@@ -95,5 +95,6 @@
 	"signup.complete.title": "Her şey hazır!",
 	"signup.complete.description": "Profilinizi doldurduğunuz için teşekkür ederiz. Deneyiminizi tercihlerinize göre özelleştirdik.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "Kayıt sihirbazı"
+	"signup.wizard.title": "Kayıt sihirbazı",
+	"signup.userType.artist.description": "Manga, çizgi roman veya illüstrasyon çiziyorum"
 }

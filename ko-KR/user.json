@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "기여",
   "profile.contributions.empty": "아직 공개 기여가 없습니다.",
-  "profile.contributions.more": "기여 더 불러오기"
+  "profile.contributions.more": "기여 더 불러오기",
+	"user.role.artist": "아티스트"
 }

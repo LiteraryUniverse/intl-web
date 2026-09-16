@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Közreműködések",
   "profile.contributions.empty": "Még nincsenek nyilvános közreműködések.",
-  "profile.contributions.more": "További közreműködések betöltése"
+  "profile.contributions.more": "További közreműködések betöltése",
+	"user.role.artist": "Képzőművész"
 }

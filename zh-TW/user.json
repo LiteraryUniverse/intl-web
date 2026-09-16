@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "貢獻",
   "profile.contributions.empty": "尚無公開貢獻。",
-  "profile.contributions.more": "載入更多貢獻"
+  "profile.contributions.more": "載入更多貢獻",
+	"user.role.artist": "藝術家"
 }

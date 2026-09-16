@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Contribucions",
   "profile.contributions.empty": "Encara no hi ha contribucions públiques.",
-  "profile.contributions.more": "Carrega més contribucions"
+  "profile.contributions.more": "Carrega més contribucions",
+	"user.role.artist": "Artista"
 }

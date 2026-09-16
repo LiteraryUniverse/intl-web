@@ -95,5 +95,6 @@
 	"signup.complete.title": "Wszystko gotowe!",
 	"signup.complete.description": "Dziękujemy za wypełnienie Państwa profilu. Spersonalizowaliśmy Państwa profil w oparciu o Państwa preferencje.",
 	"signup.password2.label": "Potwierdź hasło",
-	"signup.wizard.title": "Kreator rejestracji"
+	"signup.wizard.title": "Kreator rejestracji",
+	"signup.userType.artist.description": "Rysuję mangę, komiksy lub ilustracje"
 }

@@ -95,5 +95,6 @@
 	"signup.complete.title": "Készen állsz!",
 	"signup.complete.description": "Köszönjük, hogy kitöltötte profilját. Az Ön preferenciái alapján testre szabtuk az élményét.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "Regisztrációs varázsló"
+	"signup.wizard.title": "Regisztrációs varázsló",
+	"signup.userType.artist.description": "Mangát, képregényeket vagy illusztrációkat rajzolok"
 }

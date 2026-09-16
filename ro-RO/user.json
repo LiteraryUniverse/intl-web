@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Contribuții",
   "profile.contributions.empty": "Nicio contribuție publică încă.",
-  "profile.contributions.more": "Încarcă mai multe contribuții"
+  "profile.contributions.more": "Încarcă mai multe contribuții",
+	"user.role.artist": "Artist"
 }

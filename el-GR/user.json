@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Συνεισφορές",
   "profile.contributions.empty": "Δεν υπάρχουν ακόμη δημόσιες συνεισφορές.",
-  "profile.contributions.more": "Φόρτωση περισσότερων συνεισφορών"
+  "profile.contributions.more": "Φόρτωση περισσότερων συνεισφορών",
+	"user.role.artist": "Καλλιτέχνης"
 }

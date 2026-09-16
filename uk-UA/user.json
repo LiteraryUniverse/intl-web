@@ -41,5 +41,6 @@
   "login.login": "Увійти",
   "profile.contributions": "Внески",
   "profile.contributions.empty": "Поки немає публічних внесків.",
-  "profile.contributions.more": "Завантажити більше внесків"
+  "profile.contributions.more": "Завантажити більше внесків",
+	"user.role.artist": "Художник"
 }

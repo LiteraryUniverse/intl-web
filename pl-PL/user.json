@@ -41,5 +41,6 @@
   "login.login": "Zaloguj się",
   "profile.contributions": "Wkłady",
   "profile.contributions.empty": "Brak publicznych wkładów.",
-  "profile.contributions.more": "Wczytaj więcej wkładów"
+  "profile.contributions.more": "Wczytaj więcej wkładów",
+	"user.role.artist": "Artysta"
 }

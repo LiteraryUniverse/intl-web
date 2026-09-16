@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Bidrag",
   "profile.contributions.empty": "Inga offentliga bidrag ännu.",
-  "profile.contributions.more": "Ladda fler bidrag"
+  "profile.contributions.more": "Ladda fler bidrag",
+	"user.role.artist": "Konstnär"
 }

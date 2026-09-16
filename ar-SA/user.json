@@ -41,5 +41,6 @@
   "login.login": "تسجيل الدخول",
   "profile.contributions": "المساهمات",
   "profile.contributions.empty": "لا مساهمات عامة بعد.",
-  "profile.contributions.more": "تحميل المزيد من المساهمات"
+  "profile.contributions.more": "تحميل المزيد من المساهمات",
+	"user.role.artist": "فنان"
 }

@@ -95,5 +95,6 @@
 	"signup.complete.title": "Kõik on valmis!",
 	"signup.complete.description": "Täname teid profiili täitmise eest. Oleme kohandanud teie kogemust teie eelistuste põhjal.",
 	"signup.password2.label": "Confirm password",
-	"signup.wizard.title": "Sign-up Wizard"
+	"signup.wizard.title": "Sign-up Wizard",
+	"signup.userType.artist.description": "Joonistan mangat, koomikseid või illustratsioone"
 }

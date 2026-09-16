@@ -95,5 +95,6 @@
 	"signup.complete.title": "Все готово!",
 	"signup.complete.description": "Дякуємо, що заповнили свій профіль. Ми налаштували ваш досвід відповідно до ваших уподобань.",
 	"signup.password2.label": "Підтвердьте пароль",
-	"signup.wizard.title": "Майстер реєстрації"
+	"signup.wizard.title": "Майстер реєстрації",
+	"signup.userType.artist.description": "Я малюю манґу, комікси або ілюстрації"
 }

@@ -41,5 +41,6 @@
   "login.login": "Inloggen",
   "profile.contributions": "Bijdragen",
   "profile.contributions.empty": "Nog geen openbare bijdragen.",
-  "profile.contributions.more": "Meer bijdragen laden"
+  "profile.contributions.more": "Meer bijdragen laden",
+	"user.role.artist": "Kunstenaar"
 }

@@ -41,5 +41,6 @@
   "login.login": "Prihlásiť sa",
   "profile.contributions": "Príspevky",
   "profile.contributions.empty": "Zatiaľ žiadne verejné príspevky.",
-  "profile.contributions.more": "Načítať ďalšie príspevky"
+  "profile.contributions.more": "Načítať ďalšie príspevky",
+	"user.role.artist": "Výtvarník"
 }

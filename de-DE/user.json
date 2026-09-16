@@ -41,5 +41,6 @@
   "login.login": "Anmelden",
   "profile.contributions": "Beiträge",
   "profile.contributions.empty": "Noch keine öffentlichen Beiträge.",
-  "profile.contributions.more": "Weitere Beiträge laden"
+  "profile.contributions.more": "Weitere Beiträge laden",
+	"user.role.artist": "Künstler"
 }

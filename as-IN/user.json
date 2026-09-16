@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Contributions",
   "profile.contributions.empty": "No public contributions yet.",
-  "profile.contributions.more": "Load more contributions"
+  "profile.contributions.more": "Load more contributions",
+	"user.role.artist": "শিল্পী"
 }

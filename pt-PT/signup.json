@@ -95,5 +95,6 @@
 	"signup.complete.title": "Está tudo pronto!",
 	"signup.complete.description": "Obrigado por completar o seu perfil. Personalizámos a sua experiência com base nas suas preferências.",
 	"signup.password2.label": "Confirmar palavra-passe",
-	"signup.wizard.title": "Assistente de registo"
+	"signup.wizard.title": "Assistente de registo",
+	"signup.userType.artist.description": "Desenho manga, banda desenhada ou ilustrações"
 }

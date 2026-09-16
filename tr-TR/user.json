@@ -41,5 +41,6 @@
   "login.login": "Log in",
   "profile.contributions": "Katkılar",
   "profile.contributions.empty": "Henüz herkese açık katkı yok.",
-  "profile.contributions.more": "Daha fazla katkı yükle"
+  "profile.contributions.more": "Daha fazla katkı yükle",
+	"user.role.artist": "Sanatçı"
 }
