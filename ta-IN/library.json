@@ -18,5 +18,17 @@
   "library.ownedAudiobooks.empty": "நீங்கள் இன்னும் எந்த ஆடியோ புத்தகத்தையும் வாங்கவில்லை.",
   "library.ownedComics": "மாங்கா மற்றும் காமிக்ஸ்",
   "library.ownedComics.empty": "நீங்கள் இன்னும் மாங்கா அல்லது காமிக்ஸ் எதையும் சேர்க்கவில்லை.",
-  "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place."
+  "library.meta.description": "Your personal library on Literary Universe. Access all your saved stories, universes, and reading lists in one place.",
+  "library.shelf3d.emptyShelf": "Your shelf is empty. Follow a story or universe to see it here.",
+  "library.shelf3d.returnToShelf": "Return to shelf",
+  "library.shelf3d.preparing": "Preparing your shelf…",
+  "library.shelf3d.orbitHint": "Drag to orbit · Scroll to zoom",
+  "library.shelf3d.resetView": "Reset view",
+  "library.shelf3d.subtitle": "Browse the stories, universes, comics and audiobooks in your library.",
+  "library.shelf3d.heading": "Your library shelf",
+  "library.shelf3d.toggleLabel": "3D shelf",
+  "library.shelf3d.controlsHint": "Drag · Scroll · Arrow keys",
+  "library.shelf3d.inspectVolume": "Inspect volume",
+  "library.shelf3d.inspectBy": "Inspect {title} by {author}",
+  "library.shelf3d.inspect": "Inspect {title}"
 }

@@ -18,5 +18,17 @@
   "library.ownedAudiobooks.empty": "Zatiaľ ste si nezakúpili žiadne audioknihy.",
   "library.ownedComics": "Manga a komiksy",
   "library.ownedComics.empty": "Zatiaľ ste nepridali žiadnu mangu ani komiks.",
-  "library.meta.description": "Vaša osobná knižnica na Literary Universe. Získajte prístup ku všetkým svojim uloženým príbehom, univerzám a zoznamom na čítanie na jednom mieste."
+  "library.meta.description": "Vaša osobná knižnica na Literary Universe. Získajte prístup ku všetkým svojim uloženým príbehom, univerzám a zoznamom na čítanie na jednom mieste.",
+  "library.shelf3d.emptyShelf": "Your shelf is empty. Follow a story or universe to see it here.",
+  "library.shelf3d.returnToShelf": "Return to shelf",
+  "library.shelf3d.preparing": "Preparing your shelf…",
+  "library.shelf3d.orbitHint": "Drag to orbit · Scroll to zoom",
+  "library.shelf3d.resetView": "Reset view",
+  "library.shelf3d.subtitle": "Browse the stories, universes, comics and audiobooks in your library.",
+  "library.shelf3d.heading": "Your library shelf",
+  "library.shelf3d.toggleLabel": "3D shelf",
+  "library.shelf3d.controlsHint": "Drag · Scroll · Arrow keys",
+  "library.shelf3d.inspectVolume": "Inspect volume",
+  "library.shelf3d.inspectBy": "Inspect {title} by {author}",
+  "library.shelf3d.inspect": "Inspect {title}"
 }
