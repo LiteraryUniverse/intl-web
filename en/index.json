@@ -5001,7 +5001,7 @@
   "tasks.notFound": "This task is no longer available.",
   "tasks.unavailable": "This checklist is unavailable. You may no longer have access to this chapter.",
   "tasks.conflict": "This task changed elsewhere. Review its latest details and try again.",
-  "tasks.limit": "This list has reached its limit. Keep imports under 300 KB and lists under 500 tasks.",
+  "tasks.limit": "Use files under 4 MB and keep each list under 500 tasks.",
   "tasks.importLine": "Line {line} could not be imported. Check its dates and metadata; no tasks were added.",
   "tasks.subscription": "This action requires Explorer or a higher plan.",
   "tasks.offline": "Changes will sync when you are back online. Reminders use the last synced version.",
