@@ -4684,6 +4684,8 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
+  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "sharing.title": "Поділитися",
   "sharing.button": "Кнопка Поділитися",
   "sharing.share": "Поділитися з...",
