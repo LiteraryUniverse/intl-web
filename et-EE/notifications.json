@@ -210,5 +210,6 @@
   "notifications.authorSummary.title": "Your writing summary",
   "notifications.workflow.authorSummary": "Author summary",
   "notifications.workflow.readerSummary": "Reading summary",
-  "notifications.workflow.taskReminders": "Task reminders"
+  "notifications.workflow.taskReminders": "Task reminders",
+  "notifications.workflow.organization-billing": "Organization billing"
 }
