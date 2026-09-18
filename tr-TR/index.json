@@ -3512,7 +3512,7 @@
   "org.billing.yearly": "Yearly — 12 months for the price of 11",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle pricing starts at zero and is agreed with you during approval. Paid add-ons are billed separately.",
-  "org.billing.estimate": "{price} per {interval}, before tax. Your first 30 days are free on a new subscription.",
+  "org.billing.estimate": "{price} per {interval}, before tax.",
   "org.billing.email.subject": "Organization update: {organization}",
   "org.establish.start": "Get started",
   "org.billing.month": "month",
