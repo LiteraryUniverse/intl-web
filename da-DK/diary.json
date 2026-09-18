@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Opret kladde",
   "diary.createBlogPost.viewPost": "Se blogindlæg",
   "diary.dashboard.written": "Skrevet i dag",
-  "scratchpad.tabs.aria": "Faner til kladdeblok og dagbog"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

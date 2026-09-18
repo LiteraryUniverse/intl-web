@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Δημιουργία προχείρου",
   "diary.createBlogPost.viewPost": "Προβολή ανάρτησης blog",
   "diary.dashboard.written": "Γράψατε σήμερα",
-  "scratchpad.tabs.aria": "Καρτέλες σημειωματάριου και ημερολογίου"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

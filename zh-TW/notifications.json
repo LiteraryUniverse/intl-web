@@ -209,5 +209,6 @@
   "notifications.authorSummary.subject": "Your writing summary from Literary Universe",
   "notifications.authorSummary.title": "Your writing summary",
   "notifications.workflow.authorSummary": "Author summary",
-  "notifications.workflow.readerSummary": "Reading summary"
+  "notifications.workflow.readerSummary": "Reading summary",
+  "notifications.workflow.taskReminders": "Task reminders"
 }

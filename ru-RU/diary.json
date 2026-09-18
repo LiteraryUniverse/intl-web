@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Создать черновик",
   "diary.createBlogPost.viewPost": "Посмотреть публикацию",
   "diary.dashboard.written": "Написано сегодня",
-  "scratchpad.tabs.aria": "Вкладки блокнота и дневника"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

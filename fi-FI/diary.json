@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Luo luonnos",
   "diary.createBlogPost.viewPost": "Näytä blogijulkaisu",
   "diary.dashboard.written": "Kirjoitettu tänään",
-  "scratchpad.tabs.aria": "Muistilehtiön ja päiväkirjan välilehdet"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

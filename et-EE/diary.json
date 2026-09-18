@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Loo mustand",
   "diary.createBlogPost.viewPost": "Vaata blogipostitust",
   "diary.dashboard.written": "Kirjutatud täna",
-  "scratchpad.tabs.aria": "Märkmiku ja päeviku vahekaardid"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

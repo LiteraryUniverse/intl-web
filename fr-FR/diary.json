@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Créer le brouillon",
   "diary.createBlogPost.viewPost": "Voir l'article de blog",
   "diary.dashboard.written": "Écrit aujourd'hui",
-  "scratchpad.tabs.aria": "Onglets du bloc-notes et du journal"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

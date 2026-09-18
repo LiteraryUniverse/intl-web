@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Opprett utkast",
   "diary.createBlogPost.viewPost": "Vis blogginnlegg",
   "diary.dashboard.written": "Skrevet i dag",
-  "scratchpad.tabs.aria": "Faner for skrivebok og dagbok"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

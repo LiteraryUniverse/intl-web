@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Piszkozat létrehozása",
   "diary.createBlogPost.viewPost": "Blogbejegyzés megtekintése",
   "diary.dashboard.written": "Ma már írt",
-  "scratchpad.tabs.aria": "Jegyzettömb és napló fülek"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

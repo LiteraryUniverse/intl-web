@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Crea un esborrany",
   "diary.createBlogPost.viewPost": "Mostra la publicació del bloc",
   "diary.dashboard.written": "Escrit avui",
-  "scratchpad.tabs.aria": "Pestanyes del bloc de notes i el diari"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

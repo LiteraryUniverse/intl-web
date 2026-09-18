@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Створити чернетку",
   "diary.createBlogPost.viewPost": "Переглянути допис",
   "diary.dashboard.written": "Написано сьогодні",
-  "scratchpad.tabs.aria": "Вкладки чернетки та щоденника"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

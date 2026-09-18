@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Crear borrador",
   "diary.createBlogPost.viewPost": "Ver publicación del blog",
   "diary.dashboard.written": "Escrito hoy",
-  "scratchpad.tabs.aria": "Pestañas del bloc de notas y el diario"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }

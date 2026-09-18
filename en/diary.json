@@ -41,5 +41,5 @@
   "diary.createBlogPost.create": "Create Draft",
   "diary.createBlogPost.viewPost": "View Blog Post",
   "diary.dashboard.written": "Written today",
-  "scratchpad.tabs.aria": "Scratchpad and diary tabs"
+  "scratchpad.tabs.aria": "Scratchpad, diary and task tabs"
 }
