@@ -67,7 +67,6 @@
   "tasks.guidance.consistency": "Check that events, characters and world details fit the story. Review any assistant suggestions before marking this done.",
   "tasks.guidance.proofread": "Read for spelling, grammar and repeated words. You decide which suggested changes to apply.",
   "tasks.guidance.feedback": "Read the beta-reader comments and decide which suggestions to address.",
-  "tasks.guidance.preview": "Read the current draft as it will appear to a reader before publishing.",
   "tasks.prompt.timeline": "Check chronology, travel times and locations.",
   "tasks.prompt.characters": "Check character names, motivations and dialogue.",
   "tasks.prompt.world": "Check world rules, clues and unresolved plot points.",
@@ -77,7 +76,5 @@
   "tasks.openAssistant": "Open writing assistant",
   "tasks.openFeedback": "Open feedback",
   "tasks.ai.consistency": "Check this chapter for consistency with the rest of the story and encyclopedia. Check chronology, characters, locations, clues and world rules. Quote the passages I should review.",
-  "tasks.ai.proofread": "Proofread this chapter. Suggest corrections with reasons and quote the passages so I can decide which changes to make.",
-  "tasks.preview": "Preview current draft",
-  "tasks.previewDone": "Finish preview and mark complete"
+  "tasks.ai.proofread": "Proofread this chapter. Suggest corrections with reasons and quote the passages so I can decide which changes to make."
 }

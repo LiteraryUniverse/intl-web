@@ -1084,7 +1084,7 @@
   "workshop.creation.advanced": "Advanced form",
   "workshop.creation.story.help": "Start with one story. Write chapters, arrange scenes, and publish when you are ready. You can add a universe later.",
   "workshop.creation.universe.help": "Build a shared world for your stories. Keep characters, places, and world rules in its encyclopedia, then add stories set there.",
-  "workshop.creation.fanfiction.help": "Write a story set in someone else’s universe. Choose an eligible universe from your library and follow its permissions.",
+  "workshop.creation.fanfiction.help": "Write a story set in someone else's universe. Choose an eligible universe from your library and follow its permissions.",
   "workshop.creation.comic.help": "Tell a story through sequential art. Choose comic, manga, or a scrolling webtoon, then add chapters and pages.",
   "workshop.creation.basics": "Your idea",
   "workshop.creation.details": "Readers and rights",
@@ -1150,5 +1150,6 @@
   "universe.notes.readOnly": "You can read these notes. Editing is available to universe collaborators and organization administrators.",
   "forgeUniverse.connect.verifyEmail": "Verify your email before creating or importing a universe. Your world is saved in this browser. Open the verification link here, then choose Continue to return to your world.",
   "forgeUniverse.connect.verificationSent": "Verification email sent. Check your inbox.",
-  "forgeUniverse.connect.resendVerification": "Resend verification email"
+  "forgeUniverse.connect.resendVerification": "Resend verification email",
+  "workshop.creation.fanfiction.libraryHelp": "Add a universe that allows fan fiction to your library, then return here to select it."
 }
