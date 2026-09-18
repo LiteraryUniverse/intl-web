@@ -457,5 +457,7 @@
   "common.forumPost": "Forum reply",
   "common.slug": "SEO slug",
   "common.up": "Up",
-  "common.down": "Down"
+  "common.down": "Down",
+  "common.yes": "Yes",
+  "common.no": "No"
 }
