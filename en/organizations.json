@@ -254,5 +254,6 @@
   "org.application.status.rejected": "Declined",
   "org.application.status.expired": "Expired",
   "org.application.status.completed": "Organization created",
-  "org.admin.subscription.billingManaged": "This organization is billed through Stripe. Manage its plan, seats and add-ons from organization billing in the app."
+  "org.admin.subscription.billingManaged": "This organization is billed through Stripe. Manage its plan, seats and add-ons from organization billing in the app.",
+  "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization."
 }
