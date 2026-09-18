@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "פרסם בקטגוריה:",
   "forums.settings.systemPosts.blogs.selectCategory": "בחר קטגוריה...",
   "forums.posts.loadError": "שגיאה בטעינת פוסטים",
-  "forums.category.orgRoles": "הגבלה לתפקידי הארגון (ללא = כל החברים)"
+  "forums.category.orgRoles": "הגבלה לתפקידי הארגון (ללא = כל החברים)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

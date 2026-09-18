@@ -453,5 +453,6 @@
   "common.publishAtDate": "Ngày Giờ Xuất bản: <time>{publishedAt, date, ::EEEEdMMMM} {publishedAt, time, short}</time>",
   "settings.notifications": "Notifications",
   "common.status": "Status",
-  "common.aiContent.chatNoticeShort": "You are talking to an AI assistant. Check its output before you use it."
+  "common.aiContent.chatNoticeShort": "You are talking to an AI assistant. Check its output before you use it.",
+  "common.forumPost": "Forum reply"
 }

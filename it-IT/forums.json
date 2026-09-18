@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Pubblichi alla categoria:",
   "forums.settings.systemPosts.blogs.selectCategory": "Selezioni una categoria...",
   "forums.posts.loadError": "Errore nel caricamento dei post",
-  "forums.category.orgRoles": "Limita ai ruoli dell’organizzazione (nessuno = tutti i membri)"
+  "forums.category.orgRoles": "Limita ai ruoli dell’organizzazione (nessuno = tutti i membri)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

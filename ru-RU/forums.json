@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Пост в категорию:",
   "forums.settings.systemPosts.blogs.selectCategory": "Выберите категорию...",
   "forums.posts.loadError": "Ошибка загрузки сообщений",
-  "forums.category.orgRoles": "Ограничить ролями организации (ни одной = все участники)"
+  "forums.category.orgRoles": "Ограничить ролями организации (ни одной = все участники)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

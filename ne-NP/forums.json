@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Post to category:",
   "forums.settings.systemPosts.blogs.selectCategory": "Select a category...",
   "forums.posts.loadError": "Error loading posts",
-  "forums.category.orgRoles": "संस्थाका भूमिकामा सीमित गर्नुहोस् (कुनै पनि होइन = सबै सदस्य)"
+  "forums.category.orgRoles": "संस्थाका भूमिकामा सीमित गर्नुहोस् (कुनै पनि होइन = सबै सदस्य)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

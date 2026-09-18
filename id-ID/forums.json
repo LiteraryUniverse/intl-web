@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Posting ke kategori:",
   "forums.settings.systemPosts.blogs.selectCategory": "Pilih kategori...",
   "forums.posts.loadError": "Kesalahan memuat postingan",
-  "forums.category.orgRoles": "Batasi ke peran organisasi (kosong = semua anggota)"
+  "forums.category.orgRoles": "Batasi ke peran organisasi (kosong = semua anggota)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

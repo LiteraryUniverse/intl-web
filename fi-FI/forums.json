@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Postitse luokkaan:",
   "forums.settings.systemPosts.blogs.selectCategory": "Valitse luokka...",
   "forums.posts.loadError": "Virhe ladattaessa julkaisuja",
-  "forums.category.orgRoles": "Rajaa organisaation rooleihin (ei yhtään = kaikki jäsenet)"
+  "forums.category.orgRoles": "Rajaa organisaation rooleihin (ei yhtään = kaikki jäsenet)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Δημοσίευση στην κατηγορία:",
   "forums.settings.systemPosts.blogs.selectCategory": "Επιλέξτε μια κατηγορία...",
   "forums.posts.loadError": "Σφάλμα φόρτωσης αναρτήσεων",
-  "forums.category.orgRoles": "Περιορισμός σε ρόλους του οργανισμού (κανένας = όλα τα μέλη)"
+  "forums.category.orgRoles": "Περιορισμός σε ρόλους του οργανισμού (κανένας = όλα τα μέλη)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

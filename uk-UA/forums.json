@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Пост до категорії:",
   "forums.settings.systemPosts.blogs.selectCategory": "Виберіть категорію...",
   "forums.posts.loadError": "Помилка завантаження дописів",
-  "forums.category.orgRoles": "Обмежити ролями організації (жодної = усі учасники)"
+  "forums.category.orgRoles": "Обмежити ролями організації (жодної = усі учасники)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

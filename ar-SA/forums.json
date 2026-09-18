@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "نشر إلى الفئة:",
   "forums.settings.systemPosts.blogs.selectCategory": "اختر فئة...",
   "forums.posts.loadError": "خطأ في تحميل المنشورات",
-  "forums.category.orgRoles": "التقييد بأدوار المنظمة (بلا تحديد = جميع الأعضاء)"
+  "forums.category.orgRoles": "التقييد بأدوار المنظمة (بلا تحديد = جميع الأعضاء)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

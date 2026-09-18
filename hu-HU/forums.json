@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Hozzászólás a kategóriához:",
   "forums.settings.systemPosts.blogs.selectCategory": "Válasszon ki egy kategóriát...",
   "forums.posts.loadError": "Hiba a bejegyzések betöltésekor",
-  "forums.category.orgRoles": "Korlátozás szervezeti szerepkörökre (egy sem = minden tag)"
+  "forums.category.orgRoles": "Korlátozás szervezeti szerepkörökre (egy sem = minden tag)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

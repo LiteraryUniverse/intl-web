@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Coloque na categoria:",
   "forums.settings.systemPosts.blogs.selectCategory": "Selecione uma categoria...",
   "forums.posts.loadError": "Erro ao carregar publicações",
-  "forums.category.orgRoles": "Limitar às funções da organização (nenhuma = todos os membros)"
+  "forums.category.orgRoles": "Limitar às funções da organização (nenhuma = todos os membros)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

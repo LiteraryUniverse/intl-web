@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Kategoriye gönder:",
   "forums.settings.systemPosts.blogs.selectCategory": "Bir kategori seçin...",
   "forums.posts.loadError": "Gönderiler yüklenirken hata",
-  "forums.category.orgRoles": "Kuruluş rolleriyle sınırla (hiçbiri = tüm üyeler)"
+  "forums.category.orgRoles": "Kuruluş rolleriyle sınırla (hiçbiri = tüm üyeler)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

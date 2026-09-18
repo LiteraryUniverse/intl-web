@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Inlägg till kategori:",
   "forums.settings.systemPosts.blogs.selectCategory": "Välj en kategori...",
   "forums.posts.loadError": "Fel vid inläsning av inlägg",
-  "forums.category.orgRoles": "Begränsa till organisationsroller (ingen = alla medlemmar)"
+  "forums.category.orgRoles": "Begränsa till organisationsroller (ingen = alla medlemmar)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

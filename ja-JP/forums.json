@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "カテゴリーに投稿する",
   "forums.settings.systemPosts.blogs.selectCategory": "カテゴリーを選択...",
   "forums.posts.loadError": "投稿の読み込みエラー",
-  "forums.category.orgRoles": "組織のロールに限定（未選択＝全メンバー）"
+  "forums.category.orgRoles": "組織のロールに限定（未選択＝全メンバー）",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

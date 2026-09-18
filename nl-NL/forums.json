@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.enable": "Maak automatisch forumthreads aan voor nieuwe blogberichten",
   "forums.settings.systemPosts.blogs.category": "Geplaatst in categorie:",
   "forums.settings.systemPosts.blogs.selectCategory": "Selecteer een categorie...",
-  "forums.posts.loadError": "Fout bij het laden van berichten"
+  "forums.posts.loadError": "Fout bij het laden van berichten",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }

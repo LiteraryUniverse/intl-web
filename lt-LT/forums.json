@@ -72,5 +72,9 @@
   "forums.settings.systemPosts.blogs.category": "Rašyti į kategoriją:",
   "forums.settings.systemPosts.blogs.selectCategory": "Pasirinkite kategoriją...",
   "forums.posts.loadError": "Error loading posts",
-  "forums.category.orgRoles": "Apriboti organizacijos rolėmis (nė vienos = visi nariai)"
+  "forums.category.orgRoles": "Apriboti organizacijos rolėmis (nė vienos = visi nariai)",
+  "forums.post.edit": "Edit reply",
+  "forums.post.delete": "Delete reply",
+  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.editedAt": "Edited {at, date, medium}"
 }
