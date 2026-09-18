@@ -1151,5 +1151,8 @@
   "forgeUniverse.connect.verifyEmail": "Verify your email before creating or importing a universe. Your world is saved in this browser. Open the verification link here, then choose Continue to return to your world.",
   "forgeUniverse.connect.verificationSent": "Verification email sent. Check your inbox.",
   "forgeUniverse.connect.resendVerification": "Resend verification email",
-  "workshop.creation.fanfiction.libraryHelp": "Add a universe that allows fan fiction to your library, then return here to select it."
+  "workshop.creation.fanfiction.libraryHelp": "Add a universe that allows fan fiction to your library, then return here to select it.",
+  "workshop.universe.notes.changed": "These notes changed while you were editing. Reload the page before saving again.",
+  "forgeUniverse.connect.import.overwriteRequired": "This universe already has notes. Confirm the overwrite before importing.",
+  "forgeUniverse.connect.import.changed": "This universe changed while you were importing. Reload the page and review its notes before trying again."
 }
