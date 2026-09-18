@@ -2645,6 +2645,8 @@
   "forums.post.delete": "Delete reply",
   "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
+  "forums.post.deleted": "This reply was deleted.",
+  "forums.post.hidden": "This reply is hidden by moderation.",
   "genre.scifi": "과학 소설",
   "genre.fantasy": "공상",
   "genre.adventure": "모험",

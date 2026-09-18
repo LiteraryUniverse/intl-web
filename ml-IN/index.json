@@ -2645,6 +2645,8 @@
   "forums.post.delete": "Delete reply",
   "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
+  "forums.post.deleted": "This reply was deleted.",
+  "forums.post.hidden": "This reply is hidden by moderation.",
   "genre.scifi": "സയന്‍സ് ഫിക്ഷന്‍",
   "genre.fantasy": "ഫാന്‍റസി",
   "genre.adventure": "അഡ്വെഞ്ചര്‍",
