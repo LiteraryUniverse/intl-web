@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "図書館を読む",
   "settings.apiKeys.scope.library.read.desc": "読書リストや保存したストーリーにアクセス",
   "settings.externalKeys.title": "外部サービスキー",
-  "settings.externalKeys.description": "外部のAIサービス用にご自身のAPIキーを追加できます。キーは暗号化され、安全に保管されます。キーが必要な機能をご自身で実行したときにのみ使用されます。",
+  "settings.externalKeys.description": "外部の AI サービス用にご自身の API キーを追加できます。キーは暗号化して安全に保管し、ご自身が開始した機能にだけ使います。アシスタントは物語の文脈を、そのプロバイダーのデータ方針に従って送ります。Literary Universe はそれらのログやキャッシュを変えられません。",
   "settings.externalKeys.securityNote": "APIキーはパスワードと同じように扱ってください。決して他人と共有しないでください。",
   "settings.externalKeys.add": "キーを追加",
   "settings.externalKeys.update": "更新",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Google AI Studio のキーは、有料の Gemini API または Vertex プロジェクトを使わない場合、Google がプロンプトを製品改善に使うことがあります。<terms>Google の Gemini API 利用規約</terms>を確認してください。Literary Universe は Google のログを制御しません。",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

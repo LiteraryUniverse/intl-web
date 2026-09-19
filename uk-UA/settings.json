@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Бібліотека для читання",
   "settings.apiKeys.scope.library.read.desc": "Доступ до списків читання та збережених історій",
   "settings.externalKeys.title": "Ключі зовнішніх сервісів",
-  "settings.externalKeys.description": "Додайте власні ключі API для зовнішніх сервісів ШІ. Ключі шифруються та зберігаються безпечно. Вони використовуються лише тоді, коли ви самі запускаєте функцію, яка їх потребує.",
+  "settings.externalKeys.description": "Додайте власні ключі API для зовнішніх сервісів ШІ. Ключі шифруються й зберігаються безпечно та використовуються лише для функцій, які запускаєте ви. Помічник надсилає контекст історії цьому постачальнику згідно з його політикою даних — Literary Universe не може змінити ці журнали чи кеші.",
   "settings.externalKeys.securityNote": "Ставтеся до ключів API як до паролів. Ніколи нікому їх не передавайте.",
   "settings.externalKeys.add": "Додати ключ",
   "settings.externalKeys.update": "Оновити",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Ключі Google AI Studio можуть дозволити Google використовувати промпти для вдосконалення продуктів, якщо ви не користуєтеся платною Gemini API або проєктом Vertex. Див. <terms>умови Gemini API Google</terms>. Literary Universe не керує журналами Google.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

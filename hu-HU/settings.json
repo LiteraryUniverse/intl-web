@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Olvassa el a könyvtárat",
   "settings.apiKeys.scope.library.read.desc": "Hozzáférés az olvasási listákhoz és a mentett történetekhez",
   "settings.externalKeys.title": "External Service Keys",
-  "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.",
+  "settings.externalKeys.description": "Adja meg saját API-kulcsait külső AI-szolgáltatásokhoz. A kulcsokat titkosítjuk és biztonságosan tároljuk, és csak az Ön által indított funkciókhoz használjuk. Az asszisztens a történet kontextusát a szolgáltató adatkezelési szabályzata szerint küldi — a Literary Universe ezeket a naplókat és gyorsítótárakat nem tudja megváltoztatni.",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",
   "settings.externalKeys.add": "Add key",
   "settings.externalKeys.update": "Update",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "A Google AI Studio kulcsok lehetővé tehetik a Google számára, hogy a promptokat termékfejlesztésre használja, hacsak nem fizetős Gemini API-t vagy Vertex-projektet használ. Nézze meg a <terms>Google Gemini API feltételeit</terms>. A Literary Universe nem ellenőrzi a Google naplóit.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

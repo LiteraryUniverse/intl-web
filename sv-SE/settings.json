@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Läs bibliotek",
   "settings.apiKeys.scope.library.read.desc": "Få tillgång till dina läslistor och sparade berättelser",
   "settings.externalKeys.title": "External Service Keys",
-  "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.",
+  "settings.externalKeys.description": "Lägg till egna API-nycklar för externa AI-tjänster. Nycklar krypteras och lagras säkert och används bara för funktioner du själv startar. Assistenten skickar berättelsesammanhang till den leverantören enligt dess datapolicy — Literary Universe kan inte ändra de loggarna eller cacheminnena.",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",
   "settings.externalKeys.add": "Add key",
   "settings.externalKeys.update": "Update",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Nycklar från Google AI Studio kan låta Google använda prompts för att förbättra produkter om du inte använder betald Gemini API eller ett Vertex-projekt. Läs <terms>Googles Gemini API-villkor</terms>. Literary Universe styr inte Googles loggar.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

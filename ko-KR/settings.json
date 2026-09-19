@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "라이브러리 읽기",
   "settings.apiKeys.scope.library.read.desc": "읽기 목록 및 저장된 스토리에 액세스",
   "settings.externalKeys.title": "External Service Keys",
-  "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.",
+  "settings.externalKeys.description": "외부 AI 서비스용 API 키를 직접 추가하세요. 키는 암호화되어 안전하게 저장되며, 당신이 시작한 기능에만 사용됩니다. 도우미는 그 제공자의 데이터 정책에 따라 이야기 맥락을 보냅니다. Literary Universe는 그 로그와 캐시를 바꿀 수 없습니다.",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",
   "settings.externalKeys.add": "Add key",
   "settings.externalKeys.update": "Update",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "유료 Gemini API나 Vertex 프로젝트를 쓰지 않으면 Google AI Studio 키가 Google이 프롬프트를 제품 개선에 쓰도록 할 수 있습니다. <terms>Google Gemini API 약관</terms>을 확인하세요. Literary Universe는 Google 로그를 통제하지 않습니다.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Bibliothek lesen",
   "settings.apiKeys.scope.library.read.desc": "Zugriff auf Ihre Leselisten und gespeicherten Geschichten",
   "settings.externalKeys.title": "Schlüssel für externe Dienste",
-  "settings.externalKeys.description": "Fügen Sie Ihre eigenen API-Schlüssel für externe KI-Dienste hinzu. Die Schlüssel werden verschlüsselt und sicher gespeichert. Sie werden nur verwendet, wenn Sie ausdrücklich eine Funktion auslösen, die sie benötigt.",
+  "settings.externalKeys.description": "Fügen Sie eigene API-Schlüssel für externe KI-Dienste hinzu. Schlüssel werden verschlüsselt und sicher gespeichert und nur für Funktionen verwendet, die Sie selbst starten. Der Assistent sendet den Geschichtenkontext an diesen Anbieter nach dessen Datenrichtlinie — Literary Universe kann diese Protokolle und Caches nicht ändern.",
   "settings.externalKeys.securityNote": "Behandeln Sie API-Schlüssel wie Passwörter. Geben Sie sie niemals an andere weiter.",
   "settings.externalKeys.add": "Schlüssel hinzufügen",
   "settings.externalKeys.update": "Aktualisieren",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Schlüssel von Google AI Studio können Google erlauben, Prompts zur Produktverbesserung zu nutzen, sofern Sie nicht die kostenpflichtige Gemini API oder ein Vertex-Projekt verwenden. Prüfen Sie die <terms>Gemini-API-Bedingungen von Google</terms>. Literary Universe steuert Googles Protokolle nicht.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

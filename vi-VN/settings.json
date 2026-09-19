@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Đọc thư viện",
   "settings.apiKeys.scope.library.read.desc": "Truy cập danh sách đọc và các câu chuyện đã lưu của bạn",
   "settings.externalKeys.title": "External Service Keys",
-  "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.",
+  "settings.externalKeys.description": "Thêm khóa API của bạn cho các dịch vụ AI bên ngoài. Khóa được mã hóa, lưu an toàn và chỉ dùng cho tính năng do bạn khởi chạy. Trợ lý gửi ngữ cảnh truyện tới nhà cung cấp đó theo chính sách dữ liệu của họ — Literary Universe không thể thay đổi những nhật ký hay bộ nhớ đệm đó.",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",
   "settings.externalKeys.add": "Add key",
   "settings.externalKeys.update": "Update",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Khóa Google AI Studio có thể cho phép Google dùng prompt để cải thiện sản phẩm trừ khi bạn dùng Gemini API trả phí hoặc dự án Vertex. Xem <terms>điều khoản Gemini API của Google</terms>. Literary Universe không kiểm soát nhật ký của Google.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

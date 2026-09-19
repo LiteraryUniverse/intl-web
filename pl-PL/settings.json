@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Proszę przeczytać bibliotekę",
   "settings.apiKeys.scope.library.read.desc": "Dostęp do list czytelniczych i zapisanych historii",
   "settings.externalKeys.title": "Klucze usług zewnętrznych",
-  "settings.externalKeys.description": "Dodaj własne klucze API do zewnętrznych usług AI. Klucze są szyfrowane i bezpiecznie przechowywane. Używamy ich tylko wtedy, gdy samodzielnie uruchomisz funkcję, która ich wymaga.",
+  "settings.externalKeys.description": "Dodaj własne klucze API do zewnętrznych usług AI. Klucze są szyfrowane i przechowywane bezpiecznie oraz używane tylko do funkcji, które sam uruchamiasz. Asystent wysyła kontekst opowieści do tego dostawcy zgodnie z jego polityką danych — Literary Universe nie może zmienić tych dzienników ani pamięci podręcznych.",
   "settings.externalKeys.securityNote": "Traktuj klucze API jak hasła. Nigdy nikomu ich nie udostępniaj.",
   "settings.externalKeys.add": "Dodaj klucz",
   "settings.externalKeys.update": "Zaktualizuj",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Klucze Google AI Studio mogą pozwolić Google używać promptów do ulepszania produktów, chyba że korzystasz z płatnego Gemini API albo projektu Vertex. Zobacz <terms>warunki Gemini API Google</terms>. Literary Universe nie kontroluje dzienników Google.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

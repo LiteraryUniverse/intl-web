@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Čítajte knižnicu",
   "settings.apiKeys.scope.library.read.desc": "Prístup k zoznamom čítania a uloženým príbehom",
   "settings.externalKeys.title": "Kľúče externých služieb",
-  "settings.externalKeys.description": "Pridajte si vlastné kľúče API pre externé služby umelej inteligencie. Kľúče sú šifrované a bezpečne uložené. Použijú sa len vtedy, keď sami spustíte funkciu, ktorá ich vyžaduje.",
+  "settings.externalKeys.description": "Pridajte vlastné API kľúče pre externé AI služby. Kľúče sú šifrované a bezpečne uložené a používajú sa len pri funkciách, ktoré spustíte sami. Asistent odosiela kontext príbehu danému poskytovateľovi podľa jeho zásad spracovania údajov — Literary Universe tieto protokoly ani vyrovnávacie pamäte nemôže zmeniť.",
   "settings.externalKeys.securityNote": "Zaobchádzajte s kľúčmi API ako s heslami. Nikdy ich s nikým nezdieľajte.",
   "settings.externalKeys.add": "Pridať kľúč",
   "settings.externalKeys.update": "Aktualizovať",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Kľúče Google AI Studio môžu Googlu umožniť používať výzvy na zlepšovanie produktov, ak nepoužívate platené Gemini API alebo projekt Vertex. Pozrite si <terms>podmienky Gemini API od Googlu</terms>. Literary Universe Google protokoly neriadi.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Bibliothèque de lecture",
   "settings.apiKeys.scope.library.read.desc": "Accédez à vos listes de lecture et aux histoires sauvegardées",
   "settings.externalKeys.title": "Clés de services externes",
-  "settings.externalKeys.description": "Ajoutez vos propres clés API pour les services d'IA externes. Les clés sont chiffrées et stockées en toute sécurité. Elles ne sont utilisées que lorsque vous déclenchez explicitement une fonctionnalité qui les requiert.",
+  "settings.externalKeys.description": "Ajoutez vos propres clés API pour les services d’IA externes. Les clés sont chiffrées, stockées de façon sécurisée, et utilisées uniquement pour les fonctions que vous lancez. L’assistant envoie le contexte de l’histoire à ce fournisseur selon sa politique de données — Literary Universe ne peut pas modifier ces journaux ni ces caches.",
   "settings.externalKeys.securityNote": "Traitez les clés API comme des mots de passe. Ne les partagez jamais avec qui que ce soit.",
   "settings.externalKeys.add": "Ajouter une clé",
   "settings.externalKeys.update": "Mettre à jour",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Les clés Google AI Studio peuvent permettre à Google d’utiliser les prompts pour améliorer ses produits, sauf si vous utilisez l’API Gemini payante ou un projet Vertex. Consultez les <terms>conditions de l’API Gemini de Google</terms>. Literary Universe ne contrôle pas les journaux de Google.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

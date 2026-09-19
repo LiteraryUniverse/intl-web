@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Baca perpustakaan",
   "settings.apiKeys.scope.library.read.desc": "Mengakses daftar bacaan dan cerita yang disimpan",
   "settings.externalKeys.title": "External Service Keys",
-  "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.",
+  "settings.externalKeys.description": "Tambahkan kunci API Anda sendiri untuk layanan AI eksternal. Kunci dienkripsi dan disimpan dengan aman, dan hanya dipakai untuk fitur yang Anda mulai. Asisten mengirim konteks cerita ke penyedia itu menurut kebijakan datanya — Literary Universe tidak dapat mengubah log atau cache tersebut.",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",
   "settings.externalKeys.add": "Add key",
   "settings.externalKeys.update": "Update",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Kunci Google AI Studio dapat memungkinkan Google memakai prompt untuk memperbaiki produk, kecuali Anda memakai Gemini API berbayar atau proyek Vertex. Lihat <terms>ketentuan Gemini API Google</terms>. Literary Universe tidak mengendalikan log Google.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

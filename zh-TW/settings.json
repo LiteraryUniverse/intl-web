@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "閱讀圖書館",
   "settings.apiKeys.scope.library.read.desc": "存取您的閱讀清單和儲存的故事",
   "settings.externalKeys.title": "External Service Keys",
-  "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.",
+  "settings.externalKeys.description": "為外部 AI 服務新增你自己的 API 金鑰。金鑰會加密並安全存放，且只用於你主動啟動的功能。助理會依該供應商的資料政策傳送故事脈絡——Literary Universe 無法變更那些紀錄或快取。",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",
   "settings.externalKeys.add": "Add key",
   "settings.externalKeys.update": "Update",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "除非你使用付費 Gemini API 或 Vertex 專案，否則 Google AI Studio 金鑰可能讓 Google 使用提示來改進產品。請查看<terms>Google 的 Gemini API 條款</terms>。Literary Universe 不控制 Google 的紀錄。",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }

@@ -151,7 +151,7 @@
   "settings.apiKeys.scope.library.read": "Loe raamatukogu",
   "settings.apiKeys.scope.library.read.desc": "Juurdepääs oma lugemisnimekirjadele ja salvestatud lugudele",
   "settings.externalKeys.title": "External Service Keys",
-  "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely. They are used only when you explicitly trigger a feature that requires them.",
+  "settings.externalKeys.description": "Lisage oma API-võtmed väliste tehisintellektiteenuste jaoks. Võtmed krüptitakse ja hoitakse turvaliselt ning neid kasutatakse ainult teie käivitatud funktsioonide jaoks. Abiline saadab loo konteksti sellele pakkujale tema andmepoliitika järgi — Literary Universe ei saa neid logisid ega vahemälusid muuta.",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",
   "settings.externalKeys.add": "Add key",
   "settings.externalKeys.update": "Update",
@@ -231,6 +231,7 @@
   "settings.digestFrequency.weekly": "Weekly",
   "settings.digestFrequency.monthly": "Monthly (first day of the month)",
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
+  "settings.externalKeys.googleHelp": "Google AI Studio võtmed võivad lubada Google’il kasutada prompte toodete parandamiseks, kui te ei kasuta tasulist Gemini API-d või Vertexi projekti. Vaadake <terms>Google’i Gemini API tingimusi</terms>. Literary Universe ei juhi Google’i logisid.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
 }
