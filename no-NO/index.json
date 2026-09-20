@@ -3546,6 +3546,7 @@
   "org.application.status.completed": "Organization created",
   "org.admin.subscription.billingManaged": "This organization is billed through Stripe. Manage its plan, seats and add-ons from organization billing in the app.",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
   "homepage.welcome": "Velkommen til",
   "homepage.start": "Start reisen din!",
   "homepage.iAm": "Jeg er en",
