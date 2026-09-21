@@ -6315,5 +6315,10 @@
   "writer.linkToWork": "ഒരു പ്രപഞ്ചത്തിലേക്കോ, കഥയിലേക്കോ, അധ്യായത്തിലേക്കോ ഉള്ള ലിങ്ക്",
   "writer.insertWorkCard": "കഥയോ പ്രപഞ്ചമോ ചേർക്കുക",
   "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
+  "writer.connectionSuggestions.help": "Preview a mention, then link it to your encyclopedia. Your chapter's words stay the same.",
+  "writer.connectionSuggestions.error": "We couldn't load your encyclopedia entries. Try again.",
+  "writer.connectionSuggestions.count": "{count, plural, one {# suggested link} other {# suggested links}}",
+  "writer.connectionSuggestions.preview": "Preview \"{mention}\" for {entry}",
+  "writer.connectionSuggestions.restore": "Show dismissed ({count, number})"
 }

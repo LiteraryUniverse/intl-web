@@ -76,5 +76,10 @@
   "writer.linkToWork": "Nasc chuig cruinne, scéal nó caibidil",
   "writer.insertWorkCard": "Cuir isteach cárta scéil nó chruinne",
   "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME."
+  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
+  "writer.connectionSuggestions.help": "Preview a mention, then link it to your encyclopedia. Your chapter's words stay the same.",
+  "writer.connectionSuggestions.error": "We couldn't load your encyclopedia entries. Try again.",
+  "writer.connectionSuggestions.count": "{count, plural, one {# suggested link} other {# suggested links}}",
+  "writer.connectionSuggestions.preview": "Preview \"{mention}\" for {entry}",
+  "writer.connectionSuggestions.restore": "Show dismissed ({count, number})"
 }
