@@ -6322,5 +6322,6 @@
   "writer.connectionSuggestions.error": "We couldn't load your encyclopedia entries. Try again.",
   "writer.connectionSuggestions.count": "{count, plural, one {# suggested link} other {# suggested links}}",
   "writer.connectionSuggestions.preview": "Preview \"{mention}\" for {entry}",
-  "writer.connectionSuggestions.restore": "Show dismissed ({count, number})"
+  "writer.connectionSuggestions.restore": "Show dismissed ({count, number})",
+  "writer.connectionSuggestions.noEntries": "Your encyclopedia has no entries yet. Add your characters and places, and their mentions in this chapter will show up here."
 }
