@@ -156,6 +156,7 @@
   "notifications.workflow.authorDigest": "Weekly author digest",
   "notifications.workflow.readerDigest": "Weekly reading digest",
   "notifications.workflow.continueReading": "Continue-reading reminders",
+  "notification.chapterReport": "The numbers are in for “{chapterTitle}”. See how it’s doing.",
   "notification.continueReading": "Pick up “{storyTitle}” where you left off: {chapterTitle}",
   "notification.fanClub.newSubscribers": "{count, plural, one {# new subscriber} other {# new subscribers}} to your plan {planName}: {names}",
   "notification.storyFinished.remaining": "{count, plural, one {# chapter} other {# chapters}} left for you to read.",
