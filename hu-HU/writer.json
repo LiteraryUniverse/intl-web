@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Átlagos fejezethosszod: {count, number} {unit}",
   "writer.todo.recommendations": "Ajánlott fejezethosszok",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Haladás: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Haladás: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Napi közzététel",
   "writer.todo.dailyTooltip": "Naponta megjelenő történetekhez. A rövidebb fejezetek segítenek fenntartani a napi érdeklődést, és jól működnek sorozatosan megjelenő tartalomnál.",
   "writer.todo.biDailyPublishing": "Kétnaponkénti közzététel",

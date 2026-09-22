@@ -170,7 +170,7 @@
   "email.orgLicense.details.work": "Werk: {work}",
   "email.orgLicense.details.organization": "Organisatie: {organization}",
   "email.orgLicense.details.license": "Licentie: {license}",
-  "email.orgLicense.details.share": "Aandeel van de organisatie in de bruto-omzet: {percent}%",
+  "email.orgLicense.details.share": "Aandeel van de organisatie in de bruto-omzet: {percent, number, ::percent scale/0.01}",
   "email.orgLicense.details.languages": "Talen: {languages}",
   "email.orgLicense.details.date": "Ingangsdatum: {date}",
   "email.orgLicense.proposed.subject": "Licentieverzoek voor “{work}” van {organization}",

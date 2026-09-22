@@ -170,7 +170,7 @@
   "email.orgLicense.details.work": "作品：{work}",
   "email.orgLicense.details.organization": "組織：{organization}",
   "email.orgLicense.details.license": "授權：{license}",
-  "email.orgLicense.details.share": "組織佔總銷售額的份額：{percent}%",
+  "email.orgLicense.details.share": "組織佔總銷售額的份額：{percent, number, ::percent scale/0.01}",
   "email.orgLicense.details.languages": "語言：{languages}",
   "email.orgLicense.details.date": "生效日期：{date}",
   "email.orgLicense.proposed.subject": "來自{organization}的「{work}」授權申請",

@@ -172,7 +172,7 @@
   "org.curation.intro": "लाइसेन्सले तपाईंलाई कृति आफ्ना सदस्यतामा राख्न दिन्छ — तर त्यो अनिवार्य होइन। कृति आफ्नो क्याटलगबाट मात्र बेच्न कुनै तहको चिन्ह हटाउनुहोस्; त्यसपछि पाठकहरूको पहुँच 30 दिनसम्म कायम रहन्छ।",
   "org.carveOut.request": "{language} मुक्त गर्ने?",
   "org.translators.intro": "इजाजतपत्र लिइएको भाषा अनुवाद गर्न आफ्ना सदस्यहरूलाई तोक्नुहोस्। उनीहरूले निमन्त्रणा पाउँछन् र आफैँ निर्णय गर्छन्।",
-  "org.translators.share": "हिस्सा (बढीमा {budget}%)",
+  "org.translators.share": "हिस्सा (बढीमा {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "अनुवादक तोक्नुहोस्",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

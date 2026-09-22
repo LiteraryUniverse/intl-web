@@ -172,7 +172,7 @@
   "org.curation.intro": "Una licenza ti permette di includere un'opera nei tuoi abbonamenti — non ti obbliga a farlo. Deseleziona un livello per vendere l'opera solo dal tuo catalogo; i lettori mantengono l'accesso per 30 giorni dopo.",
   "org.carveOut.request": "Liberare {language}?",
   "org.translators.intro": "Incarica i tuoi membri di tradurre una lingua concessa in licenza. Ricevono un invito e decidono da soli.",
-  "org.translators.share": "Quota (max {budget}%)",
+  "org.translators.share": "Quota (max {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Incarica traduttore",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

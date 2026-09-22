@@ -412,7 +412,7 @@
   "fanClub.partner.label": "Fänniklubi on organisatsiooni osa",
   "fanClub.partner.none": "Puudub — kõik tulud jäävad sinule",
   "fanClub.partner.help": "Kui sinu leping organisatsiooniga hõlmab sinu fänniklubi, vali see siin — organisatsiooni kehtiv määr fikseeritakse valimise hetkel.",
-  "fanClub.partner.breakdown": "Organisatsioon saab {org}% selle fänniklubi tuludest (fikseeritud valimisel), lisaks platvormitasule. Kehtib ka praegustele tellijatele.",
+  "fanClub.partner.breakdown": "Organisatsioon saab {org, number, ::percent scale/0.01} selle fänniklubi tuludest (fikseeritud valimisel), lisaks platvormitasule. Kehtib ka praegustele tellijatele.",
   "plans.feature.blogWidgets": "Vidinad blogilehtedel",
   "plans.org.title": "Plans for organizations",
   "plans.org.desc": "Pricing for publishers, writing circles, schools and companies on Literary Universe.",

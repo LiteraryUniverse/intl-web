@@ -172,7 +172,7 @@
   "org.curation.intro": "A license lets you include a work in your subscriptions — it does not have to. Uncheck a tier to sell the work from your catalogue only; readers keep access for 30 days after that.",
   "org.carveOut.request": "Release {language}?",
   "org.translators.intro": "Assign your members to translate a licensed language. They receive an invitation and decide themselves.",
-  "org.translators.share": "Share (max {budget}%)",
+  "org.translators.share": "Share (max {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Assign translator",
   "org.payouts.requiredForPaidFeatures": "Set up organization payouts first — see the Payouts tab in organization settings. Licences, subscription tiers and the fan club all pay out through your organization's Stripe account.",
   "org.establish": "Establish an organization",

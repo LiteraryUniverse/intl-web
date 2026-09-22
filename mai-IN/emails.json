@@ -170,7 +170,7 @@
   "email.orgLicense.details.work": "Work: {work}",
   "email.orgLicense.details.organization": "Organization: {organization}",
   "email.orgLicense.details.license": "Licence: {license}",
-  "email.orgLicense.details.share": "Organization share of gross sales: {percent}%",
+  "email.orgLicense.details.share": "Organization share of gross sales: {percent, number, ::percent scale/0.01}",
   "email.orgLicense.details.languages": "Languages: {languages}",
   "email.orgLicense.details.date": "Effective: {date}",
   "email.orgLicense.proposed.subject": "Licence request for “{work}” from {organization}",

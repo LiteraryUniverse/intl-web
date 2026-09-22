@@ -269,7 +269,7 @@
   "fanClub.partner.label": "Fan Club is onderdeel van organisatie",
   "fanClub.partner.none": "Geen — alle inkomsten blijven bij jou",
   "fanClub.partner.help": "Als jouw contract met een organisatie jouw Fan Club omvat, selecteer die dan hier — het huidige tarief van de organisatie ligt vast op het moment van selectie.",
-  "fanClub.partner.breakdown": "De organisatie ontvangt {org}% van de inkomsten van deze Fan Club (vastgelegd bij selectie), bovenop de platformkosten. Geldt ook voor huidige abonnees.",
+  "fanClub.partner.breakdown": "De organisatie ontvangt {org, number, ::percent scale/0.01} van de inkomsten van deze Fan Club (vastgelegd bij selectie), bovenop de platformkosten. Geldt ook voor huidige abonnees.",
   "plans.fanClub.inactiveWarning": "Je fanclub is nog niet geactiveerd, je kunt nog steeds plannen maken en zodra je er klaar voor bent, kun je het activeren in de instellingen.",
   "payment.fanClub.editTier": "Wijzig niveau",
   "plans.deletePlan.modalAria": "Planbevestiging verwijderen",

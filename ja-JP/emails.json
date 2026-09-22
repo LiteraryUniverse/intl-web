@@ -170,7 +170,7 @@
   "email.orgLicense.details.work": "作品: {work}",
   "email.orgLicense.details.organization": "組織: {organization}",
   "email.orgLicense.details.license": "ライセンス: {license}",
-  "email.orgLicense.details.share": "総売上に対する組織の取り分: {percent}%",
+  "email.orgLicense.details.share": "総売上に対する組織の取り分: {percent, number, ::percent scale/0.01}",
   "email.orgLicense.details.languages": "言語: {languages}",
   "email.orgLicense.details.date": "発効日: {date}",
   "email.orgLicense.proposed.subject": "{organization}からの「{work}」のライセンス申請",

@@ -172,7 +172,7 @@
   "org.curation.intro": "Lisensiné ngicénin ragané nyantumang karya ring langganan ragané — nénten kawajibang. Icalang cek ring silih tunggil tingkatan mangda karyané wantah kaadol saking katalog ragané; pamaos kantun polih akses salami 30 rahina sasampun punika.",
   "org.carveOut.request": "Lebang {language}?",
   "org.translators.intro": "Picayang anggota Ragané mangda nerjemahang basa sané kalisensiang. Ipun pacang nrima undangan tur mutusang padidi.",
-  "org.translators.share": "Duman (paling akéh {budget}%)",
+  "org.translators.share": "Duman (paling akéh {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Picayang penerjemah",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

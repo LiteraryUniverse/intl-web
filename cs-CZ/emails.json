@@ -170,7 +170,7 @@
   "email.orgLicense.details.work": "Dílo: {work}",
   "email.orgLicense.details.organization": "Organizace: {organization}",
   "email.orgLicense.details.license": "Licence: {license}",
-  "email.orgLicense.details.share": "Podíl organizace z hrubé ceny prodeje: {percent} %",
+  "email.orgLicense.details.share": "Podíl organizace z hrubé ceny prodeje: {percent, number, ::percent scale/0.01}",
   "email.orgLicense.details.languages": "Jazyky: {languages}",
   "email.orgLicense.details.date": "Účinné od: {date}",
   "email.orgLicense.proposed.subject": "Žádost o licenci pro „{work}“ od {organization}",

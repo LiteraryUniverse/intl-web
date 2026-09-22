@@ -137,16 +137,16 @@
   "licenses.commercial.exclusive.info": "Exclusive License: 10% platform fee, you keep 90% of earnings",
   "licenses.commercial.nonexclusive.info": "Non-Exclusive License: 30% platform fee, you keep 70% of earnings",
   "licenses.moreInfo": "More Information",
-  "licenses.breakdown": "LU {fee}% · {org} {cut}% · {audience, select, org {Author} other {you}} {rest}%",
+  "licenses.breakdown": "LU {fee, number, ::percent scale/0.01} · {org} {cut, number, ::percent scale/0.01} · {audience, select, org {Author} other {you}} {rest, number, ::percent scale/0.01}",
   "licenses.orgBasedOn": "({org}, based on {license})",
-  "licenses.switchNotice": "This work leaves {org}'s license on {date} — access provided through {org} may end then.",
+  "licenses.switchNotice": "This work leaves {org}'s license on {date, date, medium} — access provided through {org} may end then.",
   "licenses.orgCut.label": "Organization's share of the gross sale (%)",
   "licenses.orgCut.help": "Taken from the author's part of the revenue split when a work adopts this license.",
   "licenses.languages.all": "All languages",
   "licenses.languages.label": "Languages covered",
   "licenses.instance.ended": "Ended",
-  "licenses.instance.ending": "Ends {date}",
-  "licenses.subscriptionRemovalNotice": "This work leaves {org}'s subscription on {date} — access provided through it ends then.",
+  "licenses.instance.ending": "Ends {date, date, medium}",
+  "licenses.subscriptionRemovalNotice": "This work leaves {org}'s subscription on {date, date, medium} — access provided through it ends then.",
   "licensing.title": "Organization licensing",
   "licensing.intro": "How organizations license works on Literary Universe: who owns what, how the revenue is shared, and what happens when a license ends.",
   "licensing.ownership.title": "Ownership never moves",
@@ -164,5 +164,5 @@
   "licensing.organizations.curation": "A license gives you the right to include a work in your subscriptions, not an obligation: you decide which licensed works go into which plan and which stay in your catalogue for sale only. Taking a work out of a subscription also takes {days} days, so readers are never cut off without warning.",
   "licensing.readers.title": "For readers",
   "licensing.readers.body": "When a work is about to leave an organization's license or subscription, a notice appears on the work at least {days} days beforehand. Anything you bought stays yours, and permanent access you already earned through a subscription is kept.",
-  "licenses.editionSwitchNotice": "This translation leaves its organization licence on {date} — access provided through it may end then."
+  "licenses.editionSwitchNotice": "This translation leaves its organization licence on {date, date, medium} — access provided through it may end then."
 }

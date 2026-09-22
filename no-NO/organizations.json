@@ -172,7 +172,7 @@
   "org.curation.intro": "En lisens lar deg ta et verk med i abonnementene dine — den forplikter deg ikke til det. Fjern haken for et nivå for å selge verket kun fra katalogen din; leserne beholder tilgangen i 30 dager etterpå.",
   "org.carveOut.request": "Frigi {language}?",
   "org.translators.intro": "Utpek medlemmene dine til å oversette et lisensiert språk. De mottar en invitasjon og bestemmer selv.",
-  "org.translators.share": "Andel (maks. {budget}%)",
+  "org.translators.share": "Andel (maks. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Utpek oversetter",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

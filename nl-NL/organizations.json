@@ -172,7 +172,7 @@
   "org.curation.intro": "Met een licentie kun je een werk in je abonnementen opnemen — het hoeft niet. Vink een niveau uit om het werk alleen vanuit je catalogus te verkopen; lezers behouden daarna nog 30 dagen toegang.",
   "org.carveOut.request": "{language} vrijgeven?",
   "org.translators.intro": "Wijs je leden aan om een gelicentieerde taal te vertalen. Ze ontvangen een uitnodiging en beslissen zelf.",
-  "org.translators.share": "Aandeel (max. {budget}%)",
+  "org.translators.share": "Aandeel (max. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Vertaler aanwijzen",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

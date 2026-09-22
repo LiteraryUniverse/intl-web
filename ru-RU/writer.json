@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Ваша средняя длина главы: {count, number} {unit}",
   "writer.todo.recommendations": "Рекомендуемая длина глав",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Прогресс: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Прогресс: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Ежедневная публикация",
   "writer.todo.dailyTooltip": "Для историй, которые выходят каждый день. Более короткие главы помогают удерживать ежедневный интерес и хорошо подходят для сериального формата.",
   "writer.todo.biDailyPublishing": "Публикация через день",

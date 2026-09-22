@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Tamanho médio dos seus capítulos: {count, number} {unit}",
   "writer.todo.recommendations": "Tamanhos de capítulo recomendados",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Progresso: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Progresso: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Publicação diária",
   "writer.todo.dailyTooltip": "Para histórias publicadas todos os dias. Capítulos mais curtos ajudam a manter o engajamento diário e funcionam bem para conteúdo seriado.",
   "writer.todo.biDailyPublishing": "Publicação em dias alternados",

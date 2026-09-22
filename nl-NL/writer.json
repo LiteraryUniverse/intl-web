@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Je gemiddelde hoofdstuklengte: {count, number} {unit}",
   "writer.todo.recommendations": "Aanbevolen hoofdstuklengtes",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Voortgang: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Voortgang: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Dagelijks publiceren",
   "writer.todo.dailyTooltip": "Voor verhalen die elke dag verschijnen. Kortere hoofdstukken houden de dagelijkse betrokkenheid vast en werken goed voor verhalen in afleveringen.",
   "writer.todo.biDailyPublishing": "Om de dag publiceren",

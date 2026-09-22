@@ -172,7 +172,7 @@
   "org.curation.intro": "Lisensi memungkinkan Anda memasukkan sebuah karya ke dalam langganan Anda — tetapi tidak mewajibkannya. Hapus centang pada sebuah tingkat untuk menjual karya itu hanya dari katalog Anda; pembaca tetap memiliki akses selama 30 hari setelahnya.",
   "org.carveOut.request": "Lepaskan {language}?",
   "org.translators.intro": "Tugaskan anggota Anda untuk menerjemahkan bahasa yang dilisensikan. Mereka menerima undangan dan memutuskan sendiri.",
-  "org.translators.share": "Bagian (maks. {budget}%)",
+  "org.translators.share": "Bagian (maks. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Tugaskan penerjemah",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

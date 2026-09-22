@@ -412,7 +412,7 @@
   "fanClub.partner.label": "Fan Club adalah sebahagian daripada organisasi",
   "fanClub.partner.none": "Tiada — semua hasil kekal dengan anda",
   "fanClub.partner.help": "Jika kontrak anda dengan sesebuah organisasi merangkumi Fan Club anda, pilihnya di sini — kadar semasa organisasi ditetapkan pada saat pemilihan.",
-  "fanClub.partner.breakdown": "Organisasi menerima {org}% daripada hasil Fan Club ini (ditetapkan semasa dipilih), sebagai tambahan kepada yuran platform. Terpakai juga kepada pelanggan semasa.",
+  "fanClub.partner.breakdown": "Organisasi menerima {org, number, ::percent scale/0.01} daripada hasil Fan Club ini (ditetapkan semasa dipilih), sebagai tambahan kepada yuran platform. Terpakai juga kepada pelanggan semasa.",
   "plans.feature.blogWidgets": "Widget pada halaman blog",
   "plans.org.title": "Plans for organizations",
   "plans.org.desc": "Pricing for publishers, writing circles, schools and companies on Literary Universe.",

@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Your average chapter length: {count, number} {unit}",
   "writer.todo.recommendations": "Recommended Chapter Lengths",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Progress: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Progress: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Daily publishing",
   "writer.todo.dailyTooltip": "For stories published every day. Shorter chapters help maintain daily engagement and work well for serialized content.",
   "writer.todo.biDailyPublishing": "Bi-daily publishing",

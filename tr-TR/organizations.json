@@ -172,7 +172,7 @@
   "org.curation.intro": "Lisans, bir eseri aboneliklerinize eklemenize imkân tanır — bunu zorunlu kılmaz. Eseri yalnızca kataloğunuzdan satmak için bir kademenin işaretini kaldırın; okuyucular bundan sonra 30 gün boyunca erişimlerini korur.",
   "org.carveOut.request": "Şu dil serbest bırakılsın mı: {language}?",
   "org.translators.intro": "Lisanslı bir dili çevirmek için üyelerinizi görevlendirin. Bir davet alırlar ve kararı kendileri verir.",
-  "org.translators.share": "Pay (en fazla %{budget})",
+  "org.translators.share": "Pay (en fazla {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Çevirmen görevlendir",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

@@ -172,7 +172,7 @@
   "org.curation.intro": "O licență îți permite să incluzi o operă în abonamentele tale — nu te obligă. Debifează un nivel pentru a vinde opera doar din catalogul tău; cititorii păstrează accesul încă 30 de zile după aceea.",
   "org.carveOut.request": "Eliberezi {language}?",
   "org.translators.intro": "Desemnează-ți membrii pentru a traduce o limbă licențiată. Primesc o invitație și decid singuri.",
-  "org.translators.share": "Cotă (max. {budget}%)",
+  "org.translators.share": "Cotă (max. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Desemnează traducător",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

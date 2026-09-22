@@ -172,7 +172,7 @@
   "org.curation.intro": "Una llicència et permet incloure una obra a les teves subscripcions — no t'hi obliga. Desmarca un nivell per vendre l'obra només des del teu catàleg; els lectors conserven l'accés durant 30 dies després d'això.",
   "org.carveOut.request": "Alliberar {language}?",
   "org.translators.intro": "Assigna els teus membres perquè tradueixin una llengua llicenciada. Reben una invitació i decideixen ells mateixos.",
-  "org.translators.share": "Part (màx. {budget}%)",
+  "org.translators.share": "Part (màx. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Assigna un traductor",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

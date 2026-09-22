@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Vaša priemerná dĺžka kapitoly: {count, number} {unit}",
   "writer.todo.recommendations": "Odporúčané dĺžky kapitol",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Pokrok: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Pokrok: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Denné publikovanie",
   "writer.todo.dailyTooltip": "Pre príbehy publikované každý deň. Kratšie kapitoly pomáhajú udržať denný záujem a dobre fungujú pri seriálovom obsahu.",
   "writer.todo.biDailyPublishing": "Publikovanie ob deň",

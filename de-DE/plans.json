@@ -269,7 +269,7 @@
   "fanClub.partner.label": "Fanclub ist Teil einer Organisation",
   "fanClub.partner.none": "Keine — alle Einnahmen bleiben bei Ihnen",
   "fanClub.partner.help": "Wenn Ihr Vertrag mit einer Organisation Ihren Fanclub einschließt, wählen Sie sie hier aus — der aktuelle Satz der Organisation wird im Moment der Auswahl festgeschrieben.",
-  "fanClub.partner.breakdown": "Die Organisation erhält {org}% der Einnahmen dieses Fanclubs (festgeschrieben bei der Auswahl), zusätzlich zur Plattformgebühr. Gilt auch für aktuelle Abonnenten.",
+  "fanClub.partner.breakdown": "Die Organisation erhält {org, number, ::percent scale/0.01} der Einnahmen dieses Fanclubs (festgeschrieben bei der Auswahl), zusätzlich zur Plattformgebühr. Gilt auch für aktuelle Abonnenten.",
   "plans.fanClub.inactiveWarning": "Dein Fanclub ist noch nicht aktiviert, du kannst immer noch Pläne vorbereiten und ihn dann in den Einstellungen aktivieren.",
   "payment.fanClub.editTier": "Ebene bearbeiten",
   "plans.deletePlan.modalAria": "Planbestätigung löschen",

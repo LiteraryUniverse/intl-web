@@ -269,7 +269,7 @@
   "fanClub.partner.label": "Il fan club fa parte dell'organizzazione",
   "fanClub.partner.none": "Nessuna — tutti i ricavi restano a te",
   "fanClub.partner.help": "Se il tuo contratto con un'organizzazione include il tuo fan club, selezionala qui — la percentuale attuale dell'organizzazione viene fissata al momento della selezione.",
-  "fanClub.partner.breakdown": "L'organizzazione riceve il {org}% dei ricavi di questo fan club (fissato al momento della selezione), oltre alla commissione della piattaforma. Vale anche per gli abbonati attuali.",
+  "fanClub.partner.breakdown": "L'organizzazione riceve il {org, number, ::percent scale/0.01} dei ricavi di questo fan club (fissato al momento della selezione), oltre alla commissione della piattaforma. Vale anche per gli abbonati attuali.",
   "plans.fanClub.inactiveWarning": "Il tuo fan club non è ancora attivato, puoi ancora preparare dei piani e una volta pronti potrai attivarlo nelle impostazioni.",
   "payment.fanClub.editTier": "Modifica livello",
   "plans.deletePlan.modalAria": "Cancellare la conferma del piano",

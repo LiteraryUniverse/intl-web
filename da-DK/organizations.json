@@ -172,7 +172,7 @@
   "org.curation.intro": "En licens giver dig mulighed for at inkludere et værk i dine abonnementer — det er ikke et krav. Fjern fluebenet ved et niveau for kun at sælge værket fra dit katalog; læserne beholder adgangen i 30 dage derefter.",
   "org.carveOut.request": "Frigiv {language}?",
   "org.translators.intro": "Udpeg dine medlemmer til at oversætte et licenseret sprog. De modtager en invitation og beslutter selv.",
-  "org.translators.share": "Andel (maks. {budget}%)",
+  "org.translators.share": "Andel (maks. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Udpeg oversætter",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

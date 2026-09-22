@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Twoja średnia długość rozdziału: {count, number} {unit}",
   "writer.todo.recommendations": "Zalecane długości rozdziałów",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Postęp: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Postęp: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Publikacja codzienna",
   "writer.todo.dailyTooltip": "Dla historii publikowanych codziennie. Krótsze rozdziały pomagają utrzymać codzienne zaangażowanie i dobrze sprawdzają się w treściach odcinkowych.",
   "writer.todo.biDailyPublishing": "Publikacja co drugi dzień",

@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Ваша середня довжина розділу: {count, number} {unit}",
   "writer.todo.recommendations": "Рекомендовані довжини розділів",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Прогрес: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Прогрес: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Щоденна публікація",
   "writer.todo.dailyTooltip": "Для історій, що виходять щодня. Коротші розділи допомагають підтримувати щоденну залученість і добре працюють для серіалізованого вмісту.",
   "writer.todo.biDailyPublishing": "Публікація через день",

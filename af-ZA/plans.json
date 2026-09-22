@@ -412,7 +412,7 @@
   "fanClub.partner.label": "Ondersteunersklub is deel van organisasie",
   "fanClub.partner.none": "Geen — alle inkomste bly by jou",
   "fanClub.partner.help": "As jou kontrak met 'n organisasie jou ondersteunersklub insluit, kies dit hier — die organisasie se huidige koers word op die oomblik van keuse vasgestel.",
-  "fanClub.partner.breakdown": "Die organisasie ontvang {org}% van hierdie ondersteunersklub se inkomste (vasgestel by keuse), bykomend tot die platformfooi. Geld ook vir huidige intekenare.",
+  "fanClub.partner.breakdown": "Die organisasie ontvang {org, number, ::percent scale/0.01} van hierdie ondersteunersklub se inkomste (vasgestel by keuse), bykomend tot die platformfooi. Geld ook vir huidige intekenare.",
   "plans.feature.blogWidgets": "Widgets op blogbladsye",
   "plans.org.title": "Plans for organizations",
   "plans.org.desc": "Pricing for publishers, writing circles, schools and companies on Literary Universe.",

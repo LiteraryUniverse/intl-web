@@ -269,7 +269,7 @@
   "fanClub.partner.label": "Hayran kulübü kuruluşun bir parçası",
   "fanClub.partner.none": "Yok — tüm gelir sizde kalır",
   "fanClub.partner.help": "Bir kuruluşla sözleşmeniz hayran kulübünüzü kapsıyorsa burada seçin — kuruluşun güncel oranı seçim anında sabitlenir.",
-  "fanClub.partner.breakdown": "Kuruluş, bu hayran kulübü gelirinin {org}%'sini platform ücretine ek olarak alır (seçim anında sabitlenir). Mevcut aboneler için de geçerlidir.",
+  "fanClub.partner.breakdown": "Kuruluş, bu hayran kulübü gelirinin {org, number, ::percent scale/0.01}'sini platform ücretine ek olarak alır (seçim anında sabitlenir). Mevcut aboneler için de geçerlidir.",
   "plans.fanClub.inactiveWarning": "Hayran kulübünüz henüz etkinleştirilmedi, hala planlarınızı hazırlayabilir ve istediğiniz zaman ayarlardan etkinleştirebilirsiniz.",
   "payment.fanClub.editTier": "Katmanı düzenle",
   "plans.deletePlan.modalAria": "Plan onayını sil",

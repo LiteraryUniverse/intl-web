@@ -172,7 +172,7 @@
   "org.curation.intro": "Licence vám umožňuje zařadit dílo do vašich předplatných — nemusíte to však udělat. Zrušením zaškrtnutí úrovně budete dílo prodávat jen z katalogu; čtenářům pak zůstane přístup ještě 30 dní.",
   "org.carveOut.request": "Uvolnit jazyk {language}?",
   "org.translators.intro": "Pověřte své členy překladem licencovaného jazyka. Dostanou pozvánku a rozhodnou se sami.",
-  "org.translators.share": "Podíl (max. {budget} %)",
+  "org.translators.share": "Podíl (max. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Pověřit překladatele",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

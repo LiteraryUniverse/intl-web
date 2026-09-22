@@ -172,7 +172,7 @@
   "org.curation.intro": "Litsents lubab sul lisada teose oma tellimustesse — kohustust selleks ei ole. Eemalda taseme märge, et müüa teost ainult kataloogist; lugejatele jääb juurdepääs veel 30 päevaks.",
   "org.carveOut.request": "Kas vabastada keel {language}?",
   "org.translators.intro": "Määra oma liikmed litsentsitud keelt tõlkima. Nad saavad kutse ja otsustavad ise.",
-  "org.translators.share": "Osa (kuni {budget}%)",
+  "org.translators.share": "Osa (kuni {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Määra tõlkija",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",

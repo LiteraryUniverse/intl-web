@@ -170,7 +170,7 @@
   "email.orgLicense.details.work": "작품: {work}",
   "email.orgLicense.details.organization": "조직: {organization}",
   "email.orgLicense.details.license": "라이선스: {license}",
-  "email.orgLicense.details.share": "총매출 중 조직의 몫: {percent}%",
+  "email.orgLicense.details.share": "총매출 중 조직의 몫: {percent, number, ::percent scale/0.01}",
   "email.orgLicense.details.languages": "언어: {languages}",
   "email.orgLicense.details.date": "발효일: {date}",
   "email.orgLicense.proposed.subject": "{organization}의 “{work}” 라이선스 요청",

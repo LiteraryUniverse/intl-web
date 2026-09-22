@@ -269,7 +269,7 @@
   "fanClub.partner.label": "Fanklub je súčasťou organizácie",
   "fanClub.partner.none": "Žiadna — všetky príjmy zostávajú vám",
   "fanClub.partner.help": "Ak vaša zmluva s organizáciou zahŕňa váš fanklub, vyberte ju tu — aktuálna sadzba organizácie sa zafixuje v okamihu výberu.",
-  "fanClub.partner.breakdown": "Organizácia dostáva {org}% z príjmov tohto fanklubu (zafixované pri výbere), navyše k poplatku platformy. Platí aj pre súčasných predplatiteľov.",
+  "fanClub.partner.breakdown": "Organizácia dostáva {org, number, ::percent scale/0.01} z príjmov tohto fanklubu (zafixované pri výbere), navyše k poplatku platformy. Platí aj pre súčasných predplatiteľov.",
   "plans.fanClub.inactiveWarning": "Váš fan club ešte nie je aktivovaný, stále si môžete pripraviť plány a keď budete pripravení, môžete ho aktivovať v nastaveniach.",
   "payment.fanClub.editTier": "Úprava úrovne",
   "plans.deletePlan.modalAria": "Vymazanie potvrdenia plánu",

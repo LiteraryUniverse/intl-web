@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Longueur moyenne de vos chapitres : {count, number} {unit}",
   "writer.todo.recommendations": "Longueurs de chapitre recommandées",
   "writer.todo.recommendation": "{label} : {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Progression : {current, number} / {target, number} {unit} ({percent, number} %)",
+  "writer.todo.recommendation.progress": "Progression : {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Publication quotidienne",
   "writer.todo.dailyTooltip": "Pour les histoires publiées tous les jours. Des chapitres plus courts entretiennent l'engagement quotidien et conviennent bien aux contenus publiés en feuilleton.",
   "writer.todo.biDailyPublishing": "Publication un jour sur deux",

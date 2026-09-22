@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "متوسط طول فصولك: {count, number} {unit}",
   "writer.todo.recommendations": "أطوال الفصول الموصى بها",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "التقدم: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "التقدم: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "نشر يومي",
   "writer.todo.dailyTooltip": "للقصص التي تُنشر كل يوم. الفصول القصيرة تساعد على الحفاظ على التفاعل اليومي وتناسب المحتوى المسلسل.",
   "writer.todo.biDailyPublishing": "نشر كل يومين",

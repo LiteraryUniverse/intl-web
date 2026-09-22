@@ -170,7 +170,7 @@
   "email.orgLicense.details.work": "Произведение: {work}",
   "email.orgLicense.details.organization": "Организация: {organization}",
   "email.orgLicense.details.license": "Лицензия: {license}",
-  "email.orgLicense.details.share": "Доля организации от валовых продаж: {percent}%",
+  "email.orgLicense.details.share": "Доля организации от валовых продаж: {percent, number, ::percent scale/0.01}",
   "email.orgLicense.details.languages": "Языки: {languages}",
   "email.orgLicense.details.date": "Вступает в силу: {date}",
   "email.orgLicense.proposed.subject": "Запрос лицензии на «{work}» от {organization}",

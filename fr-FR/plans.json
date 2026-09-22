@@ -269,7 +269,7 @@
   "fanClub.partner.label": "Le club de fans fait partie de l'organisation",
   "fanClub.partner.none": "Aucune — tous les revenus vous reviennent",
   "fanClub.partner.help": "Si votre contrat avec une organisation inclut votre club de fans, sélectionnez-la ici — le taux actuel de l'organisation est figé au moment de la sélection.",
-  "fanClub.partner.breakdown": "L'organisation reçoit {org}% des revenus de ce club de fans (figé au moment de la sélection), en plus des frais de plateforme. Cela s'applique aussi aux abonnés actuels.",
+  "fanClub.partner.breakdown": "L'organisation reçoit {org, number, ::percent scale/0.01} des revenus de ce club de fans (figé au moment de la sélection), en plus des frais de plateforme. Cela s'applique aussi aux abonnés actuels.",
   "plans.fanClub.inactiveWarning": "Votre club de fans n'est pas encore activé, vous pouvez toujours préparer des plans et une fois prêt, vous pouvez l'activer dans les paramètres.",
   "payment.fanClub.editTier": "Modifier le niveau",
   "plans.deletePlan.modalAria": "Supprimer la confirmation du plan",

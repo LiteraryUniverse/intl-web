@@ -34,7 +34,7 @@
   "writer.todo.storyAverage": "Lunghezza media dei tuoi capitoli: {count, number} {unit}",
   "writer.todo.recommendations": "Lunghezze consigliate dei capitoli",
   "writer.todo.recommendation": "{label}: {count, number} {unit}",
-  "writer.todo.recommendation.progress": "Progresso: {current, number} / {target, number} {unit} ({percent, number}%)",
+  "writer.todo.recommendation.progress": "Progresso: {current, number} / {target, number} {unit} ({percent, number, ::percent scale/0.01})",
   "writer.todo.dailyPublishing": "Pubblicazione giornaliera",
   "writer.todo.dailyTooltip": "Per storie pubblicate ogni giorno. Capitoli più brevi aiutano a mantenere vivo l'interesse quotidiano e funzionano bene per i contenuti a puntate.",
   "writer.todo.biDailyPublishing": "Pubblicazione a giorni alterni",
