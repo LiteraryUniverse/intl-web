@@ -1,5 +1,5 @@
 {
-  "org.auditLog.title": "Protokol auditu",
+  "org.auditLog.title": "Protokol",
   "org.apiKeys.description": "API klíče umožňují externímu webu (například webu na platformě WIX) číst veřejná data vaší organizace. Zacházejte s nimi jako s hesly a nikdy je nesdílejte.",
   "org.apiKeys.noKeys": "Tato organizace zatím nemá žádné API klíče.",
   "org.apiKeys.create.title": "Vytvořit veřejný klíč pro čtení",
@@ -56,7 +56,7 @@
   "org.teams.settings": "Nastavení týmu",
   "org.workshop.ownerUser": "Není to práce organizace",
   "org.workshop.caption": "Vlastnictví organizace",
-  "org.workshop.title": "Organizační workshop",
+  "org.workshop.title": "Workshop organizace",
   "org.notFound": "Organizace nebyla nalezena.",
   "org.title": "Organizace",
   "org.hall.title": "{orgName} členská hala",
@@ -293,5 +293,6 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.payouts.requiredForPaidFeatures": "Nejprve nastavte výplaty pro organizaci – viz záložka „Výplaty“ v nastavení organizace. Výplaty za licence, úrovně předplatného i fanouškovský klub probíhají prostřednictvím účtu Stripe vaší organizace."
 }
