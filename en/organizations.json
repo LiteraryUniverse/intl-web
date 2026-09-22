@@ -254,6 +254,7 @@
   "org.application.reject": "Decline application",
   "org.application.queue": "Circle applications",
   "org.application.empty": "No applications are awaiting review.",
+  "org.application.resumeHint": "Continuing here replaces the link from your e-mail.",
   "org.establish.plan": "Choose your organization plan",
   "org.billing.interval": "Billing interval",
   "org.billing.monthly": "Monthly",
