@@ -225,7 +225,6 @@
   "org.error.billingBusy": "A billing change is already in progress. Try again in a moment.",
   "org.error.subscriptionInactive": "Activate the organization before adding members.",
   "org.error.emailVerification": "Verify your email before you establish an organization.",
-  "org.error.signupUnavailable": "Organization signup is not open yet.",
   "org.error.legalUnavailable": "The organization agreements are not available yet.",
   "org.error.legalAcceptance": "Read and accept both organization agreements first.",
   "org.error.slugTaken": "That organization address is taken. Try another.",
