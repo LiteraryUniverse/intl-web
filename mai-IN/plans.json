@@ -417,6 +417,7 @@
   "plans.org.title": "Plans for organizations",
   "plans.org.desc": "Pricing for publishers, writing circles, schools and companies on Literary Universe.",
   "plans.org.text": "Bring your team to Literary Universe. Every plan includes a platform subscription for each member, an organization workshop, blog, forums and licensing tools.",
+  "plans.org.agreements": "Every organization accepts the {terms} and the {publishing} when it signs up.",
   "plans.org.interval": "Billing interval",
   "plans.org.interval.month": "Monthly",
   "plans.org.interval.year": "Annual",
