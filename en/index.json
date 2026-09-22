@@ -3537,6 +3537,7 @@
   "org.error.subscriptionExists": "This organization already has a subscription. Manage it in billing.",
   "org.error.checkoutExpired": "That checkout expired. Start activation again.",
   "org.error.seatsBelowMembers": "Remove members before you reduce the seat count.",
+  "org.error.seatsExceeded": "Your organization has more members than purchased seats. Remove members before activating it.",
   "org.error.paymentPending": "Complete the pending payment before making another change.",
   "org.error.billingUnavailable": "Organization billing is not set up yet. Contact support.",
   "org.billing.portal": "Payment methods, invoices and cancellation",
