@@ -292,6 +292,13 @@
   "org.admin.assignedSupport": "Assigned support",
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
-  "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.establish.pendingLimit": "Finish or discard an existing organization setup before creating another.",
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Setup closed",
+  "org.setup.discard": "Discard setup",
+  "org.setup.discardConfirm": "Discard this organization setup? Its address will become available to others. Your records will be kept, but this setup cannot be activated.",
+  "org.setup.closed": "This unused setup has been closed and its organization address released. Your records are kept here.",
+  "org.setup.restart": "Start a new organization setup",
+  "org.setup.expiryNotice": "Unused organization addresses are released after 30 days. You can also discard this setup now.",
+  "org.setup.inUse": "This setup has billing or payout activity. Wait for any open checkout to expire, or contact support before closing it."
 }
