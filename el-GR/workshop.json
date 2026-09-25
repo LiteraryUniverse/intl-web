@@ -644,7 +644,7 @@
   "workshop.monetization.fanFictionNotEligible": "Fan Fiction is not elegible for monetization",
   "workshop.bibliographic": "Bibliographic Data & Classification",
   "workshop.license.exclusiveUniverse": "The universe uses an exclusive license, which means that all stories also have to follow the same license in order to prevent legal chaos.",
-  "workshop.work.isPreview": "Is the story here only to preview the work?",
+  "workshop.work.isPreview": "Είναι αυτό εδώ μόνο για την προεπισκόπηση του έργου;",
   "workshop.settings.description": "Description",
   "workshop.universe.forum": "Internal {universeName} forum",
   "workshop.universe.monetizationTitle": "Universe monetization",

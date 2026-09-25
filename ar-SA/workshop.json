@@ -654,7 +654,7 @@
   "workshop.monetization.fanFictionNotEligible": "قصص المعجبين غير مؤهلة لتحقيق الدخل",
   "workshop.bibliographic": "البيانات الببليوغرافية والتصنيف",
   "workshop.license.exclusiveUniverse": "يستخدم الكون ترخيصًا حصريًا، ما يعني أن جميع القصص يجب أن تتبع الترخيص نفسه أيضًا لتجنّب الفوضى القانونية.",
-  "workshop.work.isPreview": "هل القصة هنا لمعاينة العمل فقط؟",
+  "workshop.work.isPreview": "هل هذا هنا فقط لمعاينة العمل؟",
   "workshop.settings.description": "الوصف",
   "workshop.universe.forum": "منتدى {universeName} الداخلي",
   "workshop.universe.monetizationTitle": "تحقيق الدخل من الكون",

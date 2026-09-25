@@ -654,7 +654,7 @@
   "workshop.monetization.fanFictionNotEligible": "Fan fiction nie kwalifikuje się do monetyzacji",
   "workshop.bibliographic": "Dane bibliograficzne i klasyfikacja",
   "workshop.license.exclusiveUniverse": "Uniwersum korzysta z licencji wyłącznej, co oznacza, że wszystkie opowiadania również muszą stosować tę samą licencję, aby uniknąć chaosu prawnego.",
-  "workshop.work.isPreview": "Czy opowiadanie jest tutaj tylko jako podgląd pracy?",
+  "workshop.work.isPreview": "Czy to jest tutaj tylko jako podgląd utworu?",
   "workshop.settings.description": "Opis",
   "workshop.universe.forum": "Wewnętrzne forum {universeName}",
   "workshop.universe.monetizationTitle": "Monetyzacja uniwersum",
