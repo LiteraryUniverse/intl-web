@@ -174,6 +174,7 @@
   "org.translators.intro": "Määra oma liikmed litsentsitud keelt tõlkima. Nad saavad kutse ja otsustavad ise.",
   "org.translators.share": "Osa (kuni {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Määra tõlkija",
+  "org.payouts.requiredForPaidFeatures": "Seadista kõigepealt organisatsiooni väljamaksed — vaata organisatsiooni seadetes vahekaarti „Väljamaksed“. Litsentsid, tellimuse tasemed ja fänniklubi maksavad kõik välja sinu organisatsiooni Stripe'i konto kaudu.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Seadistus suletud",
+  "org.setup.discard": "Loobu seadistusest",
+  "org.setup.discardConfirm": "Kas loobuda sellest organisatsiooni seadistusest? Selle aadress muutub teistele kättesaadavaks. Sinu andmed säilitatakse, kuid seda seadistust ei saa aktiveerida.",
+  "org.setup.closed": "See kasutamata seadistus on suletud ja organisatsiooni aadress vabastatud. Sinu andmed säilitatakse siin.",
+  "org.setup.restart": "Alusta uut organisatsiooni seadistust",
+  "org.setup.expiryNotice": "Kasutamata organisatsioonide aadressid vabastatakse 30 päeva pärast. Saad sellest seadistusest ka kohe loobuda.",
+  "org.setup.inUse": "Selle seadistusega on seotud arveldus- või väljamaksetegevus. Oota, kuni avatud kassaseanss aegub, või võta enne selle sulgemist ühendust klienditoega."
 }

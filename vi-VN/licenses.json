@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Một giấy phép có thể bao gồm mọi ngôn ngữ hoặc một danh sách ngôn ngữ cụ thể. Nếu bạn nắm giữ một tác phẩm ở tất cả các ngôn ngữ và tác giả muốn giao một bản dịch cho tổ chức khác, ngôn ngữ đó chỉ được nhượng lại khi bạn chấp thuận — và nó sẽ tự động quay về với bạn khi giấy phép kia kết thúc.",
   "licensing.organizations.curation": "Giấy phép cho bạn quyền đưa một tác phẩm vào các gói đăng ký của mình, chứ không phải nghĩa vụ: bạn quyết định tác phẩm được cấp phép nào vào gói nào, và tác phẩm nào chỉ nằm trong danh mục để bán lẻ. Việc rút một tác phẩm khỏi gói đăng ký cũng mất {days} ngày, nên người đọc không bao giờ bị cắt quyền truy cập mà không được báo trước.",
   "licensing.readers.title": "Dành cho người đọc",
-  "licensing.readers.body": "Khi một tác phẩm sắp rời khỏi giấy phép hoặc gói đăng ký của một tổ chức, thông báo sẽ xuất hiện trên tác phẩm ít nhất {days} ngày trước đó. Những gì bạn đã mua vẫn là của bạn, và quyền truy cập vĩnh viễn mà bạn đã có được qua gói đăng ký cũng được giữ lại."
+  "licensing.readers.body": "Khi một tác phẩm sắp rời khỏi giấy phép hoặc gói đăng ký của một tổ chức, thông báo sẽ xuất hiện trên tác phẩm ít nhất {days} ngày trước đó. Những gì bạn đã mua vẫn là của bạn, và quyền truy cập vĩnh viễn mà bạn đã có được qua gói đăng ký cũng được giữ lại.",
+  "licenses.editionSwitchNotice": "Bản dịch này sẽ rời khỏi giấy phép của tổ chức mình vào {date, date, medium} — quyền truy cập được cung cấp qua giấy phép đó có thể kết thúc khi đó."
 }

@@ -174,6 +174,7 @@
   "org.translators.intro": "Tunjuk anggota sampeyan kanggo nerjemahake basa sing dilisensi. Dheweke bakal nampa undhangan lan mutusake dhewe.",
   "org.translators.share": "Bagean (paling akeh {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Tunjuk penerjemah",
+  "org.payouts.requiredForPaidFeatures": "Setel pencairan dana organisasi dhisik — delengen tab “Pencairan dana” ing setelan organisasi. Lisensi, tingkat langganan, lan klub penggemar kabèh dicairake liwat akun Stripe organisasi panjenengan.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Setelan ditutup",
+  "org.setup.discard": "Buang setelan",
+  "org.setup.discardConfirm": "Buang setelan organisasi iki? Alamaté bakal bisa dienggo wong liya. Cathetan panjenengan bakal disimpen, nanging setelan iki ora bisa diaktifake.",
+  "org.setup.closed": "Setelan sing ora dienggo iki wis ditutup lan alamat organisasiné wis dibebasake. Cathetan panjenengan tetep disimpen ing kéné.",
+  "org.setup.restart": "Miwiti setelan organisasi anyar",
+  "org.setup.expiryNotice": "Alamat organisasi sing ora dienggo dibebasake sawisé 30 dina. Panjenengan uga bisa mbuang setelan iki saiki.",
+  "org.setup.inUse": "Setelan iki duwé aktivitas tagihan utawa pencairan dana. Enteni nganti checkout sing isih mbukak kedaluwarsa, utawa hubungi dhukungan sadurungé nutup."
 }

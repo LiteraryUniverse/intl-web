@@ -174,6 +174,7 @@
   "org.translators.intro": "라이선스를 받은 언어를 번역할 구성원을 지정하세요. 구성원은 초대를 받고 직접 결정합니다.",
   "org.translators.share": "몫 (최대 {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "번역자 지정",
+  "org.payouts.requiredForPaidFeatures": "먼저 조직 지급을 설정하세요. 조직 설정의 ‘지급금’ 탭을 확인하세요. 라이선스, 구독 등급, 팬클럽 모두 조직의 Stripe 계정을 통해 지급됩니다.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "설정 종료됨",
+  "org.setup.discard": "설정 폐기",
+  "org.setup.discardConfirm": "이 조직 설정을 폐기할까요? 해당 주소는 다른 사람이 사용할 수 있게 됩니다. 기록은 보관되지만 이 설정은 활성화할 수 없습니다.",
+  "org.setup.closed": "사용하지 않은 이 설정은 종료되었으며 조직 주소가 해제되었습니다. 기록은 여기에 보관됩니다.",
+  "org.setup.restart": "새 조직 설정 시작",
+  "org.setup.expiryNotice": "사용하지 않는 조직 주소는 30일 후에 해제됩니다. 지금 이 설정을 폐기할 수도 있습니다.",
+  "org.setup.inUse": "이 설정에는 결제 또는 지급 활동이 있습니다. 열려 있는 결제 페이지가 만료될 때까지 기다리거나, 닫기 전에 지원팀에 문의하세요."
 }

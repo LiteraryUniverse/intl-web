@@ -174,6 +174,7 @@
   "org.translators.intro": "Paskirkite savo narius versti licencijuotą kalbą. Jie gauna kvietimą ir sprendžia patys.",
   "org.translators.share": "Dalis (ne daugiau kaip {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Paskirti vertėją",
+  "org.payouts.requiredForPaidFeatures": "Pirmiausia nustatykite organizacijos išmokas — žr. skirtuką „Išmokos“ organizacijos nustatymuose. Licencijos, prenumeratos pakopos ir gerbėjų klubas išmoka per jūsų organizacijos Stripe paskyrą.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Sąranka uždaryta",
+  "org.setup.discard": "Atmesti sąranką",
+  "org.setup.discardConfirm": "Atmesti šią organizacijos sąranką? Jos adresas taps prieinamas kitiems. Jūsų įrašai bus išsaugoti, tačiau šios sąrankos nebus galima aktyvuoti.",
+  "org.setup.closed": "Ši nenaudota sąranka uždaryta, o organizacijos adresas atlaisvintas. Jūsų įrašai saugomi čia.",
+  "org.setup.restart": "Pradėti naują organizacijos sąranką",
+  "org.setup.expiryNotice": "Nenaudojami organizacijų adresai atlaisvinami po 30 dienų. Šią sąranką galite atmesti ir dabar.",
+  "org.setup.inUse": "Šioje sąrankoje yra atsiskaitymų arba išmokų veiklos. Palaukite, kol baigsis atviro apmokėjimo galiojimas, arba prieš ją uždarydami kreipkitės į palaikymo tarnybą."
 }

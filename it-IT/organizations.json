@@ -174,6 +174,7 @@
   "org.translators.intro": "Incarica i tuoi membri di tradurre una lingua concessa in licenza. Ricevono un invito e decidono da soli.",
   "org.translators.share": "Quota (max {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Incarica traduttore",
+  "org.payouts.requiredForPaidFeatures": "Configura prima i pagamenti dell'organizzazione: vedi la scheda «Pagamenti» nelle impostazioni dell'organizzazione. Licenze, livelli di abbonamento e fan club pagano tutti tramite l'account Stripe della tua organizzazione.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Configurazione chiusa",
+  "org.setup.discard": "Annulla configurazione",
+  "org.setup.discardConfirm": "Annullare questa configurazione dell'organizzazione? Il suo indirizzo diventerà disponibile per altri. I tuoi dati verranno conservati, ma questa configurazione non potrà essere attivata.",
+  "org.setup.closed": "Questa configurazione inutilizzata è stata chiusa e l'indirizzo dell'organizzazione è stato liberato. I tuoi dati sono conservati qui.",
+  "org.setup.restart": "Avvia una nuova configurazione dell'organizzazione",
+  "org.setup.expiryNotice": "Gli indirizzi delle organizzazioni inutilizzati vengono liberati dopo 30 giorni. Puoi anche annullare questa configurazione ora.",
+  "org.setup.inUse": "Questa configurazione ha attività di fatturazione o di pagamento. Attendi che scada qualsiasi checkout aperto oppure contatta l'assistenza prima di chiuderla."
 }

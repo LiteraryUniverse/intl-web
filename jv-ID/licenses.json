@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Sawijining lisensi bisa nyakup kabeh basa utawa dhaptar basa tartamtu. Yen sampeyan nyekel sawijining karya ing kabeh basa lan panulise kepengin organisasi liya kanggo salah siji terjemahan, basa kasebut mung dibebasake kanthi persetujuanmu — lan basa kuwi bakal bali menyang sampeyan kanthi otomatis nalika lisensi liyane rampung.",
   "licensing.organizations.curation": "Lisensi menehi hak marang sampeyan kanggo nglebokake karya ing langgananmu, dudu kewajiban: sampeyan sing nemtokake karya berlisensi endi sing mlebu paket endi lan endi sing tetep ing katalogmu kanggo didol wae. Ngetokake karya saka langganan uga mbutuhake {days} dina, mula pamaca ora tau dipedhot tanpa pepeling.",
   "licensing.readers.title": "Kanggo pamaca",
-  "licensing.readers.body": "Nalika sawijining karya arep metu saka lisensi utawa langganan organisasi, kabar bakal katon ing karya kasebut paling ora {days} dina sadurunge. Apa wae sing wis sampeyan tuku tetep dadi duwekmu, lan akses permanen sing wis sampeyan entuk liwat langganan tetep dijaga."
+  "licensing.readers.body": "Nalika sawijining karya arep metu saka lisensi utawa langganan organisasi, kabar bakal katon ing karya kasebut paling ora {days} dina sadurunge. Apa wae sing wis sampeyan tuku tetep dadi duwekmu, lan akses permanen sing wis sampeyan entuk liwat langganan tetep dijaga.",
+  "licenses.editionSwitchNotice": "Terjemahan iki bakal metu saka lisensi organisasiné tanggal {date, date, medium} — akses sing diwenehake liwat lisensi kuwi bisa uga rampung nalika iku."
 }

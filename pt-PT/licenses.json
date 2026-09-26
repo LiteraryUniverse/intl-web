@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Uma licença pode abranger todas as línguas ou uma lista específica. Se detiver uma obra em todas as línguas e o autor quiser outra organização para uma tradução, essa língua só é libertada com a sua aprovação — e regressa a si automaticamente quando a outra licença terminar.",
   "licensing.organizations.curation": "Uma licença dá-lhe o direito de incluir uma obra nas suas subscrições, não a obrigação: é você que decide que obras licenciadas entram em que plano e quais ficam no seu catálogo apenas para venda. Retirar uma obra de uma subscrição demora também {days} dias, para que os leitores nunca fiquem sem acesso sem aviso.",
   "licensing.readers.title": "Para leitores",
-  "licensing.readers.body": "Quando uma obra está prestes a deixar a licença ou a subscrição de uma organização, aparece um aviso na obra pelo menos {days} dias antes. Tudo o que comprou continua a ser seu, e o acesso permanente que já tenha conquistado através de uma subscrição mantém-se."
+  "licensing.readers.body": "Quando uma obra está prestes a deixar a licença ou a subscrição de uma organização, aparece um aviso na obra pelo menos {days} dias antes. Tudo o que comprou continua a ser seu, e o acesso permanente que já tenha conquistado através de uma subscrição mantém-se.",
+  "licenses.editionSwitchNotice": "Esta tradução deixará a licença da sua organização em {date, date, medium} — o acesso disponibilizado através dela poderá terminar nessa data."
 }

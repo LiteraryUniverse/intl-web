@@ -174,6 +174,7 @@
   "org.translators.intro": "指派成員翻譯已授權的語言。他們會收到邀請並自行決定。",
   "org.translators.share": "分潤 (最多 {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "指派譯者",
+  "org.payouts.requiredForPaidFeatures": "請先設定組織撥款 — 請參閱組織設定中的「撥款」分頁。授權、訂閱等級和粉絲俱樂部都會透過你組織的 Stripe 帳戶撥款。",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "設定已關閉",
+  "org.setup.discard": "捨棄設定",
+  "org.setup.discardConfirm": "要捨棄這個組織設定嗎？它的網址將開放給其他人使用。你的紀錄會保留，但此設定將無法啟用。",
+  "org.setup.closed": "這個未使用的設定已關閉，組織網址也已釋出。你的紀錄保留在這裡。",
+  "org.setup.restart": "開始新的組織設定",
+  "org.setup.expiryNotice": "未使用的組織網址會在 30 天後釋出。你也可以現在就捨棄這個設定。",
+  "org.setup.inUse": "此設定已有帳單或撥款活動。請等待任何未完成的結帳過期，或在關閉前聯絡支援人員。"
 }

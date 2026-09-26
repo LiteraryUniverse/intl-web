@@ -174,6 +174,7 @@
   "org.translators.intro": "Asigna a tus miembros para traducir un idioma licenciado. Reciben una invitación y deciden ellos mismos.",
   "org.translators.share": "Parte (máx. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Asignar traductor",
+  "org.payouts.requiredForPaidFeatures": "Configura primero los pagos de la organización: consulta la pestaña «Pagos» en la configuración de la organización. Las licencias, los niveles de suscripción y el club de fans pagan a través de la cuenta de Stripe de tu organización.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Configuración cerrada",
+  "org.setup.discard": "Descartar configuración",
+  "org.setup.discardConfirm": "¿Descartar esta configuración de organización? Su dirección quedará disponible para otros. Tus registros se conservarán, pero esta configuración no se podrá activar.",
+  "org.setup.closed": "Esta configuración sin usar se ha cerrado y se ha liberado la dirección de la organización. Tus registros se conservan aquí.",
+  "org.setup.restart": "Iniciar una nueva configuración de organización",
+  "org.setup.expiryNotice": "Las direcciones de organización sin usar se liberan a los 30 días. También puedes descartar esta configuración ahora.",
+  "org.setup.inUse": "Esta configuración tiene actividad de facturación o de pagos. Espera a que caduque cualquier proceso de pago abierto o ponte en contacto con el servicio de asistencia antes de cerrarla."
 }

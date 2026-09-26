@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Permesilo povas kovri ĉiujn lingvojn aŭ difinitan liston. Se vi tenas verkon en ĉiuj lingvoj kaj ĝia aŭtoro deziras alian organizon por unu traduko, tiu lingvo estas liberigata nur kun via aprobo — kaj ĝi revenas al vi aŭtomate, kiam la alia permesilo finiĝas.",
   "licensing.organizations.curation": "Permesilo donas al vi la rajton inkluzivi verkon en viajn abonojn, ne devon: vi decidas, kiuj permesitaj verkoj eniras kiun planon kaj kiuj restas en via katalogo nur por vendo. Forpreni verkon el abono ankaŭ daŭras {days} tagojn, do legantoj neniam estas fortranĉitaj sen averto.",
   "licensing.readers.title": "Por legantoj",
-  "licensing.readers.body": "Kiam verko estas forlasonta la permesilon aŭ la abonon de organizo, averto aperas sur la verko almenaŭ {days} tagojn antaŭe. Ĉio, kion vi aĉetis, restas via, kaj konstanta aliro, kiun vi jam gajnis per abono, konserviĝas."
+  "licensing.readers.body": "Kiam verko estas forlasonta la permesilon aŭ la abonon de organizo, averto aperas sur la verko almenaŭ {days} tagojn antaŭe. Ĉio, kion vi aĉetis, restas via, kaj konstanta aliro, kiun vi jam gajnis per abono, konserviĝas.",
+  "licenses.editionSwitchNotice": "Ĉi tiu traduko forlasos la permesilon de sia organizo je {date, date, medium} — la aliro provizita per ĝi eble finiĝos tiam."
 }

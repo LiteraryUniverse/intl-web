@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Una llicència pot cobrir totes les llengües o una llista concreta. Si tens una obra en totes les llengües i el seu autor vol una altra organització per a una traducció, aquella llengua només s'allibera amb la teva aprovació — i et torna automàticament quan s'acaba l'altra llicència.",
   "licensing.organizations.curation": "Una llicència et dona el dret d'incloure una obra a les teves subscripcions, no l'obligació: tu decideixes quines obres amb llicència entren a cada pla i quines es queden al teu catàleg només a la venda. Treure una obra d'una subscripció també triga {days} dies, de manera que els lectors mai es queden sense accés sense avís.",
   "licensing.readers.title": "Per a lectors",
-  "licensing.readers.body": "Quan una obra està a punt de deixar la llicència o la subscripció d'una organització, apareix un avís a l'obra com a mínim {days} dies abans. Tot el que hagis comprat continua sent teu, i l'accés permanent que ja hagis obtingut mitjançant una subscripció es manté."
+  "licensing.readers.body": "Quan una obra està a punt de deixar la llicència o la subscripció d'una organització, apareix un avís a l'obra com a mínim {days} dies abans. Tot el que hagis comprat continua sent teu, i l'accés permanent que ja hagis obtingut mitjançant una subscripció es manté.",
+  "licenses.editionSwitchNotice": "Aquesta traducció deixa la llicència de la seva organització el {date, date, medium} — l'accés proporcionat a través d'ella pot acabar llavors."
 }

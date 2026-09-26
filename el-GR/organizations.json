@@ -174,6 +174,7 @@
   "org.translators.intro": "Ορίστε μέλη σας για τη μετάφραση μιας αδειοδοτημένης γλώσσας. Λαμβάνουν πρόσκληση και αποφασίζουν οι ίδιοι.",
   "org.translators.share": "Μερίδιο (έως {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Ορισμός μεταφραστή",
+  "org.payouts.requiredForPaidFeatures": "Ρυθμίστε πρώτα τις πληρωμές του οργανισμού — δείτε την καρτέλα «Πληρωμές» στις ρυθμίσεις του οργανισμού. Οι άδειες, οι βαθμίδες συνδρομής και η λέσχη θαυμαστών πληρώνουν όλα μέσω του λογαριασμού Stripe του οργανισμού σας.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Η ρύθμιση έκλεισε",
+  "org.setup.discard": "Απόρριψη ρύθμισης",
+  "org.setup.discardConfirm": "Απόρριψη αυτής της ρύθμισης οργανισμού; Η διεύθυνσή του θα γίνει διαθέσιμη σε άλλους. Τα αρχεία σας θα διατηρηθούν, αλλά αυτή η ρύθμιση δεν θα μπορεί να ενεργοποιηθεί.",
+  "org.setup.closed": "Αυτή η αχρησιμοποίητη ρύθμιση έκλεισε και η διεύθυνση του οργανισμού αποδεσμεύτηκε. Τα αρχεία σας διατηρούνται εδώ.",
+  "org.setup.restart": "Έναρξη νέας ρύθμισης οργανισμού",
+  "org.setup.expiryNotice": "Οι αχρησιμοποίητες διευθύνσεις οργανισμών αποδεσμεύονται μετά από 30 ημέρες. Μπορείτε επίσης να απορρίψετε αυτή τη ρύθμιση τώρα.",
+  "org.setup.inUse": "Αυτή η ρύθμιση έχει δραστηριότητα χρέωσης ή πληρωμών. Περιμένετε να λήξει τυχόν ανοιχτό checkout ή επικοινωνήστε με την υποστήριξη πριν την κλείσετε."
 }

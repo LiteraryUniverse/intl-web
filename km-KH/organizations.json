@@ -174,6 +174,7 @@
   "org.translators.intro": "ចាត់តាំងសមាជិករបស់អ្នកឱ្យបកប្រែភាសាដែលមានអាជ្ញាបណ្ណ។ ពួកគេទទួលបានការអញ្ជើញ ហើយសម្រេចចិត្តដោយខ្លួនឯង។",
   "org.translators.share": "ចំណែក (អតិបរមា {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "ចាត់តាំងអ្នកបកប្រែ",
+  "org.payouts.requiredForPaidFeatures": "សូមរៀបចំការទូទាត់ប្រាក់របស់អង្គភាពជាមុនសិន — មើលផ្ទាំង «ការទូទាត់ប្រាក់» នៅក្នុងការកំណត់អង្គភាព។ អាជ្ញាប័ណ្ណ កម្រិតការជាវ និងក្លឹបអ្នកគាំទ្រ ទាំងអស់ទូទាត់ប្រាក់តាមរយៈគណនី Stripe របស់អង្គភាពអ្នក។",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "ការរៀបចំត្រូវបានបិទ",
+  "org.setup.discard": "បោះបង់ការរៀបចំ",
+  "org.setup.discardConfirm": "បោះបង់ការរៀបចំអង្គភាពនេះឬ? អាសយដ្ឋានរបស់វានឹងអាចប្រើបានសម្រាប់អ្នកផ្សេង។ កំណត់ត្រារបស់អ្នកនឹងត្រូវបានរក្សាទុក ប៉ុន្តែការរៀបចំនេះមិនអាចធ្វើឱ្យសកម្មបានទេ។",
+  "org.setup.closed": "ការរៀបចំដែលមិនបានប្រើនេះត្រូវបានបិទ ហើយអាសយដ្ឋានអង្គភាពត្រូវបានដោះលែង។ កំណត់ត្រារបស់អ្នកត្រូវបានរក្សាទុកនៅទីនេះ។",
+  "org.setup.restart": "ចាប់ផ្ដើមការរៀបចំអង្គភាពថ្មី",
+  "org.setup.expiryNotice": "អាសយដ្ឋានអង្គភាពដែលមិនបានប្រើនឹងត្រូវដោះលែងបន្ទាប់ពី 30 ថ្ងៃ។ អ្នកក៏អាចបោះបង់ការរៀបចំនេះឥឡូវនេះបានដែរ។",
+  "org.setup.inUse": "ការរៀបចំនេះមានសកម្មភាពវិក្កយបត្រ ឬការទូទាត់ប្រាក់។ សូមរង់ចាំរហូតដល់ការទូទាត់ដែលកំពុងបើកណាមួយផុតកំណត់ ឬទាក់ទងផ្នែកជំនួយមុនពេលបិទវា។"
 }

@@ -174,6 +174,7 @@
   "org.translators.intro": "ଲାଇସେନ୍ସପ୍ରାପ୍ତ ଭାଷା ଅନୁବାଦ କରିବା ପାଇଁ ଆପଣଙ୍କ ସଦସ୍ୟମାନଙ୍କୁ ନିଯୁକ୍ତ କରନ୍ତୁ। ସେମାନେ ଏକ ଆମନ୍ତ୍ରଣ ପାଆନ୍ତି ଏବଂ ନିଜେ ନିଷ୍ପତ୍ତି ନିଅନ୍ତି।",
   "org.translators.share": "ଭାଗ (ସର୍ବାଧିକ {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "ଅନୁବାଦକ ନିଯୁକ୍ତ କରନ୍ତୁ",
+  "org.payouts.requiredForPaidFeatures": "ପ୍ରଥମେ ସଂଗଠନର ପେଆଉଟ୍ ସେଟ୍ କରନ୍ତୁ — ସଂଗଠନ ସେଟିଂସରେ “ପେଆଉଟ୍” ଟାବ୍ ଦେଖନ୍ତୁ। ଲାଇସେନ୍ସ, ସଦସ୍ୟତା ଟିଅର୍ ଏବଂ ଫ୍ୟାନ୍ କ୍ଲବ୍ ସମସ୍ତଙ୍କ ପେଆଉଟ୍ ଆପଣଙ୍କ ସଂଗଠନର Stripe ଆକାଉଣ୍ଟ ମାଧ୍ୟମରେ ହୁଏ।",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "ସେଟଅପ୍ ବନ୍ଦ ହେଲା",
+  "org.setup.discard": "ସେଟଅପ୍ ବାତିଲ କରନ୍ତୁ",
+  "org.setup.discardConfirm": "ଏହି ସଂଗଠନର ସେଟଅପ୍ ବାତିଲ କରିବେ କି? ଏହାର ଠିକଣା ଅନ୍ୟମାନଙ୍କ ପାଇଁ ଉପଲବ୍ଧ ହେବ। ଆପଣଙ୍କ ରେକର୍ଡ ରଖାଯିବ, କିନ୍ତୁ ଏହି ସେଟଅପ୍ ସକ୍ରିୟ କରାଯାଇପାରିବ ନାହିଁ।",
+  "org.setup.closed": "ଏହି ଅବ୍ୟବହୃତ ସେଟଅପ୍ ବନ୍ଦ କରାଯାଇଛି ଏବଂ ସଂଗଠନର ଠିକଣା ମୁକ୍ତ କରାଯାଇଛି। ଆପଣଙ୍କ ରେକର୍ଡ ଏଠାରେ ରଖାଯାଇଛି।",
+  "org.setup.restart": "ନୂଆ ସଂଗଠନ ସେଟଅପ୍ ଆରମ୍ଭ କରନ୍ତୁ",
+  "org.setup.expiryNotice": "ଅବ୍ୟବହୃତ ସଂଗଠନ ଠିକଣା 30 ଦିନ ପରେ ମୁକ୍ତ କରାଯାଏ। ଆପଣ ଏବେ ମଧ୍ୟ ଏହି ସେଟଅପ୍ ବାତିଲ କରିପାରିବେ।",
+  "org.setup.inUse": "ଏହି ସେଟଅପ୍‌ରେ ବିଲିଂ କିମ୍ବା ପେଆଉଟ୍ କାର୍ଯ୍ୟକଳାପ ଅଛି। ଖୋଲା ଥିବା କୌଣସି ଚେକଆଉଟ୍‌ର ମିଆଦ ଶେଷ ହେବା ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ, କିମ୍ବା ଏହାକୁ ବନ୍ଦ କରିବା ପୂର୍ବରୁ ସହାୟତା ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।"
 }

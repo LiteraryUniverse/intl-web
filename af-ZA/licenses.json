@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "'n Lisensie kan elke taal dek of 'n bepaalde lys. As jy 'n werk in alle tale hou en die outeur 'n ander organisasie vir een vertaling wil hê, word daardie taal slegs met jou goedkeuring vrygestel — en dit keer outomaties na jou terug wanneer die ander lisensie eindig.",
   "licensing.organizations.curation": "'n Lisensie gee jou die reg om 'n werk by jou intekeninge in te sluit, nie 'n verpligting nie: jy besluit watter gelisensieerde werke in watter vlak gaan en watter net in jou katalogus te koop bly. Om 'n werk uit 'n intekening te haal, neem ook {days} dae, sodat lesers nooit sonder waarskuwing afgesny word nie.",
   "licensing.readers.title": "Vir lesers",
-  "licensing.readers.body": "Wanneer 'n werk op die punt staan om 'n organisasie se lisensie of intekening te verlaat, verskyn 'n kennisgewing minstens {days} dae vooraf by die werk. Alles wat jy gekoop het, bly joune, en permanente toegang wat jy reeds deur 'n intekening verdien het, bly behoue."
+  "licensing.readers.body": "Wanneer 'n werk op die punt staan om 'n organisasie se lisensie of intekening te verlaat, verskyn 'n kennisgewing minstens {days} dae vooraf by die werk. Alles wat jy gekoop het, bly joune, en permanente toegang wat jy reeds deur 'n intekening verdien het, bly behoue.",
+  "licenses.editionSwitchNotice": "Hierdie vertaling verlaat sy organisasie se lisensie op {date, date, medium} — toegang wat daardeur verskaf word, kan dan eindig."
 }

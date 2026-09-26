@@ -174,6 +174,7 @@
   "org.translators.intro": "Wys jou lede aan om 'n gelisensieerde taal te vertaal. Hulle ontvang 'n uitnodiging en besluit self.",
   "org.translators.share": "Aandeel (maks. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Wys vertaler aan",
+  "org.payouts.requiredForPaidFeatures": "Stel eers organisasie-uitbetalings op — sien die “Uitbetalings”-oortjie in die organisasie-instellings. Lisensies, intekeningvlakke en die aanhangersklub betaal almal uit deur jou organisasie se Stripe-rekening.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Opstelling gesluit",
+  "org.setup.discard": "Gooi opstelling weg",
+  "org.setup.discardConfirm": "Gooi hierdie organisasie-opstelling weg? Die adres sal vir ander beskikbaar word. Jou rekords word behou, maar hierdie opstelling kan nie geaktiveer word nie.",
+  "org.setup.closed": "Hierdie ongebruikte opstelling is gesluit en die organisasie-adres is vrygestel. Jou rekords word hier bewaar.",
+  "org.setup.restart": "Begin 'n nuwe organisasie-opstelling",
+  "org.setup.expiryNotice": "Ongebruikte organisasie-adresse word na 30 dae vrygestel. Jy kan hierdie opstelling ook nou weggooi.",
+  "org.setup.inUse": "Hierdie opstelling het fakturerings- of uitbetalingsaktiwiteit. Wag totdat enige oop afrekening verval, of kontak ondersteuning voordat jy dit sluit."
 }

@@ -174,6 +174,7 @@
   "org.translators.intro": "લાઇસન્સ મેળવેલી ભાષાનો અનુવાદ કરવા માટે તમારા સભ્યોને નીમો. તેમને આમંત્રણ મળે છે અને તેઓ પોતે નિર્ણય લે છે.",
   "org.translators.share": "હિસ્સો (વધુમાં વધુ {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "અનુવાદક નીમો",
+  "org.payouts.requiredForPaidFeatures": "પહેલાં સંસ્થાના પેઆઉટ સેટ કરો — સંસ્થા સેટિંગ્સમાં “પેઆઉટ” ટૅબ જુઓ. લાઇસન્સ, સબ્સ્ક્રિપ્શન ટિયર અને ફેન ક્લબ બધાનાં પેઆઉટ તમારી સંસ્થાના Stripe એકાઉન્ટ દ્વારા થાય છે.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "સેટઅપ બંધ થયું",
+  "org.setup.discard": "સેટઅપ રદ કરો",
+  "org.setup.discardConfirm": "આ સંસ્થાનું સેટઅપ રદ કરવું છે? તેનું સરનામું અન્ય લોકો માટે ઉપલબ્ધ થશે. તમારા રેકોર્ડ્સ સાચવવામાં આવશે, પરંતુ આ સેટઅપ સક્રિય કરી શકાશે નહીં.",
+  "org.setup.closed": "આ ન વપરાયેલું સેટઅપ બંધ કરવામાં આવ્યું છે અને સંસ્થાનું સરનામું મુક્ત કરવામાં આવ્યું છે. તમારા રેકોર્ડ્સ અહીં સાચવેલા છે.",
+  "org.setup.restart": "નવું સંસ્થા સેટઅપ શરૂ કરો",
+  "org.setup.expiryNotice": "ન વપરાયેલાં સંસ્થાનાં સરનામાં 30 દિવસ પછી મુક્ત કરવામાં આવે છે. તમે હમણાં પણ આ સેટઅપ રદ કરી શકો છો.",
+  "org.setup.inUse": "આ સેટઅપમાં બિલિંગ અથવા પેઆઉટ પ્રવૃત્તિ છે. કોઈપણ ખુલ્લા ચેકઆઉટની મુદત પૂરી થાય ત્યાં સુધી રાહ જુઓ, અથવા તેને બંધ કરતા પહેલાં સપોર્ટનો સંપર્ક કરો."
 }

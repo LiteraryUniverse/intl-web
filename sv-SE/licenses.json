@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "En licens kan täcka alla språk eller en bestämd lista. Om du innehar ett verk på alla språk och dess författare vill ha en annan organisation för en översättning frigörs det språket bara med ditt godkännande — och det återgår automatiskt till dig när den andra licensen avslutas.",
   "licensing.organizations.curation": "En licens ger dig rätten att ta med ett verk i dina prenumerationer, inte en skyldighet: du bestämmer vilka licensierade verk som ingår i vilken plan och vilka som bara ligger kvar i din katalog till försäljning. Att ta bort ett verk ur en prenumeration tar också {days} dagar, så läsarna blir aldrig avstängda utan förvarning.",
   "licensing.readers.title": "För läsare",
-  "licensing.readers.body": "När ett verk är på väg att lämna en organisations licens eller prenumeration visas ett meddelande på verket minst {days} dagar i förväg. Allt du har köpt förblir ditt, och permanent åtkomst som du redan har tjänat in genom en prenumeration behåller du."
+  "licensing.readers.body": "När ett verk är på väg att lämna en organisations licens eller prenumeration visas ett meddelande på verket minst {days} dagar i förväg. Allt du har köpt förblir ditt, och permanent åtkomst som du redan har tjänat in genom en prenumeration behåller du.",
+  "licenses.editionSwitchNotice": "Denna översättning lämnar sin organisations licens den {date, date, medium} — åtkomst som ges via den kan då upphöra."
 }

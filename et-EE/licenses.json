@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Litsents võib katta kõik keeled või kindla loendi. Kui teos on sinu käes kõigis keeltes ja selle autor soovib ühe tõlke jaoks teist organisatsiooni, vabastatakse see keel ainult sinu heakskiidul — ja see naaseb sinu juurde automaatselt, kui teine litsents lõpeb.",
   "licensing.organizations.curation": "Litsents annab sulle õiguse lisada teos oma tellimustesse, mitte kohustuse: sina otsustad, millised litsentsitud teosed millisesse tasemesse lähevad ja millised jäävad kataloogi ainult müügiks. Ka teose eemaldamine tellimusest võtab {days} päeva, nii et lugejate juurdepääs ei katke kunagi ette hoiatamata.",
   "licensing.readers.title": "Lugejatele",
-  "licensing.readers.body": "Kui teos on organisatsiooni litsentsist või tellimusest lahkumas, ilmub teose juurde teade vähemalt {days} päeva varem. Kõik, mille oled ostnud, jääb sinule, ja tellimuse kaudu juba teenitud püsiv juurdepääs säilib."
+  "licensing.readers.body": "Kui teos on organisatsiooni litsentsist või tellimusest lahkumas, ilmub teose juurde teade vähemalt {days} päeva varem. Kõik, mille oled ostnud, jääb sinule, ja tellimuse kaudu juba teenitud püsiv juurdepääs säilib.",
+  "licenses.editionSwitchNotice": "See tõlge lahkub oma organisatsiooni litsentsi alt kuupäeval {date, date, medium} — selle kaudu antud juurdepääs võib siis lõppeda."
 }

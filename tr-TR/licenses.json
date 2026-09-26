@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Bir lisans tüm dilleri ya da belirli bir listeyi kapsayabilir. Bir eseri tüm dillerde elinizde tutuyorsanız ve yazarı bir çeviri için başka bir kuruluş istiyorsa, o dil yalnızca sizin onayınızla serbest bırakılır — ve diğer lisans sona erdiğinde otomatik olarak size geri döner.",
   "licensing.organizations.curation": "Lisans size bir eseri aboneliklerinize ekleme hakkı verir, bunu bir zorunluluk hâline getirmez: hangi lisanslı eserin hangi kademeye gireceğine ve hangisinin yalnızca satış için kataloğunuzda kalacağına siz karar verirsiniz. Bir eseri abonelikten çıkarmak da {days} gün sürer, böylece okuyucuların erişimi hiçbir zaman habersizce kesilmez.",
   "licensing.readers.title": "Okuyucular için",
-  "licensing.readers.body": "Bir eser bir kuruluşun lisansından veya aboneliğinden ayrılmak üzereyken, en az {days} gün öncesinden eserin üzerinde bir bildirim görünür. Satın aldığınız her şey sizde kalır ve bir abonelik aracılığıyla halihazırda elde ettiğiniz kalıcı erişim korunur."
+  "licensing.readers.body": "Bir eser bir kuruluşun lisansından veya aboneliğinden ayrılmak üzereyken, en az {days} gün öncesinden eserin üzerinde bir bildirim görünür. Satın aldığınız her şey sizde kalır ve bir abonelik aracılığıyla halihazırda elde ettiğiniz kalıcı erişim korunur.",
+  "licenses.editionSwitchNotice": "Bu çeviri {date, date, medium} tarihinde kuruluşunun lisansından ayrılıyor — bu lisans aracılığıyla sağlanan erişim o tarihte sona erebilir."
 }

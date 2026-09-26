@@ -174,6 +174,7 @@
   "org.translators.intro": "ライセンスを受けた言語の翻訳にメンバーを指名します。メンバーには招待が届き、本人が判断します。",
   "org.translators.share": "取り分 (最大 {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "翻訳者を指名",
+  "org.payouts.requiredForPaidFeatures": "まず組織の入金を設定してください。組織設定の「入金」タブをご覧ください。ライセンス、サブスクリプションのティア、ファンクラブの支払いはすべて、組織の Stripe アカウントを通じて行われます。",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "セットアップ終了",
+  "org.setup.discard": "セットアップを破棄",
+  "org.setup.discardConfirm": "この組織のセットアップを破棄しますか？アドレスは他のユーザーが利用できるようになります。記録は保持されますが、このセットアップを有効化することはできなくなります。",
+  "org.setup.closed": "この未使用のセットアップは終了し、組織のアドレスは解放されました。記録はここに保持されています。",
+  "org.setup.restart": "新しい組織のセットアップを開始",
+  "org.setup.expiryNotice": "未使用の組織アドレスは30日後に解放されます。このセットアップを今すぐ破棄することもできます。",
+  "org.setup.inUse": "このセットアップには請求または入金の処理があります。未完了のチェックアウトの有効期限が切れるまで待つか、閉じる前にサポートにお問い合わせください。"
 }

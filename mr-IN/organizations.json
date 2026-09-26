@@ -174,6 +174,7 @@
   "org.translators.intro": "परवाना मिळालेल्या भाषेचे भाषांतर करण्यासाठी तुमच्या सदस्यांना नेमा. त्यांना आमंत्रण मिळते आणि ते स्वतः निर्णय घेतात.",
   "org.translators.share": "वाटा (कमाल {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "भाषांतरकार नेमा",
+  "org.payouts.requiredForPaidFeatures": "आधी संस्थेचे पेआउट सेट करा — संघटना सेटिंग्जमधील “पेआउट” टॅब पहा. परवाने, सदस्यता टियर आणि फॅन क्लब या सर्वांचे पेआउट तुमच्या संस्थेच्या Stripe खात्यामार्फत होतात.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "सेटअप बंद झाला",
+  "org.setup.discard": "सेटअप रद्द करा",
+  "org.setup.discardConfirm": "हा संस्था सेटअप रद्द करायचा? त्याचा पत्ता इतरांसाठी उपलब्ध होईल. तुमच्या नोंदी जपल्या जातील, पण हा सेटअप सक्रिय करता येणार नाही.",
+  "org.setup.closed": "हा न वापरलेला सेटअप बंद करण्यात आला आहे आणि संस्थेचा पत्ता मोकळा करण्यात आला आहे. तुमच्या नोंदी येथे जपलेल्या आहेत.",
+  "org.setup.restart": "नवीन संस्था सेटअप सुरू करा",
+  "org.setup.expiryNotice": "न वापरलेले संस्थेचे पत्ते 30 दिवसांनंतर मोकळे केले जातात. तुम्ही हा सेटअप आत्ताही रद्द करू शकता.",
+  "org.setup.inUse": "या सेटअपमध्ये बिलिंग किंवा पेआउट व्यवहार आहेत. कोणतेही उघडे चेकआउट कालबाह्य होईपर्यंत थांबा, किंवा ते बंद करण्यापूर्वी सहाय्य टीमशी संपर्क साधा."
 }

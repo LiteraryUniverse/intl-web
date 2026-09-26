@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Licencja może obejmować wszystkie języki albo wybraną listę. Jeśli masz dzieło we wszystkich językach, a jego autor chce powierzyć jedno tłumaczenie innej organizacji, ten język zostanie zwolniony wyłącznie za Twoją zgodą — i wróci do Ciebie automatycznie, gdy tamta licencja wygaśnie.",
   "licensing.organizations.curation": "Licencja daje Ci prawo, a nie obowiązek, włączenia dzieła do swoich subskrypcji: sam decydujesz, które licencjonowane dzieła trafią do którego poziomu, a które zostaną w katalogu wyłącznie na sprzedaż. Wycofanie dzieła z subskrypcji również trwa {days} dni, więc czytelnicy nigdy nie tracą dostępu bez uprzedzenia.",
   "licensing.readers.title": "Dla czytelników",
-  "licensing.readers.body": "Gdy dzieło ma opuścić licencję lub subskrypcję organizacji, co najmniej {days} dni wcześniej pojawia się przy nim powiadomienie. Wszystko, co kupiłeś, pozostaje Twoje, a stały dostęp zdobyty już dzięki subskrypcji zostaje zachowany."
+  "licensing.readers.body": "Gdy dzieło ma opuścić licencję lub subskrypcję organizacji, co najmniej {days} dni wcześniej pojawia się przy nim powiadomienie. Wszystko, co kupiłeś, pozostaje Twoje, a stały dostęp zdobyty już dzięki subskrypcji zostaje zachowany.",
+  "licenses.editionSwitchNotice": "To tłumaczenie opuszcza licencję swojej organizacji w dniu {date, date, medium} — dostęp zapewniany za jej pośrednictwem może wtedy wygasnąć."
 }

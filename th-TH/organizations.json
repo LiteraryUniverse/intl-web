@@ -174,6 +174,7 @@
   "org.translators.intro": "มอบหมายสมาชิกของคุณให้แปลภาษาที่ได้รับอนุญาต พวกเขาจะได้รับคำเชิญและตัดสินใจด้วยตนเอง",
   "org.translators.share": "ส่วนแบ่ง (สูงสุด {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "มอบหมายผู้แปล",
+  "org.payouts.requiredForPaidFeatures": "ตั้งค่าการจ่ายเงินขององค์กรก่อน — ดูแท็บ “การจ่ายเงิน” ในการตั้งค่าองค์กร ใบอนุญาต ระดับการสมัครสมาชิก และแฟนคลับ ล้วนจ่ายเงินผ่านบัญชี Stripe ขององค์กรคุณ",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "ปิดการตั้งค่าแล้ว",
+  "org.setup.discard": "ยกเลิกการตั้งค่า",
+  "org.setup.discardConfirm": "ยกเลิกการตั้งค่าองค์กรนี้หรือไม่ ที่อยู่ขององค์กรจะเปิดให้ผู้อื่นใช้ได้ ข้อมูลของคุณจะยังถูกเก็บไว้ แต่จะเปิดใช้งานการตั้งค่านี้ไม่ได้อีก",
+  "org.setup.closed": "การตั้งค่าที่ไม่ได้ใช้งานนี้ถูกปิดแล้ว และที่อยู่ขององค์กรถูกปล่อยคืนแล้ว ข้อมูลของคุณยังเก็บไว้ที่นี่",
+  "org.setup.restart": "เริ่มการตั้งค่าองค์กรใหม่",
+  "org.setup.expiryNotice": "ที่อยู่ขององค์กรที่ไม่ได้ใช้งานจะถูกปล่อยคืนหลังจาก 30 วัน คุณยังสามารถยกเลิกการตั้งค่านี้ได้ทันที",
+  "org.setup.inUse": "การตั้งค่านี้มีรายการเรียกเก็บเงินหรือการจ่ายเงินแล้ว โปรดรอให้การชำระเงินที่เปิดค้างไว้หมดอายุ หรือติดต่อฝ่ายสนับสนุนก่อนปิด"
 }

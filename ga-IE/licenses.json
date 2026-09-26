@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Is féidir le ceadúnas gach teanga nó liosta ar leith a chlúdach. Má tá saothar agat i ngach teanga agus gur mian lena údar eagraíocht eile a bheith aige d'aistriúchán amháin, ní scaoiltear an teanga sin ach le do cheadsa — agus filleann sí ort go huathoibríoch nuair a thagann deireadh leis an gceadúnas eile.",
   "licensing.organizations.curation": "Tugann ceadúnas an ceart duit saothar a chur san áireamh i do shíntiúis, ní oibleagáid: is tusa a shocraíonn cé na saothair cheadúnaithe a théann isteach i gcén tsraith agus cé na cinn a fhanann i do chatalóg le díol amháin. Tógann sé {days} lá freisin saothar a bhaint as síntiús, mar sin ní ghearrtar léitheoirí amach riamh gan rabhadh.",
   "licensing.readers.title": "Do léitheoirí",
-  "licensing.readers.body": "Nuair atá saothar ar tí ceadúnas nó síntiús eagraíochta a fhágáil, taispeántar fógra ar an saothar {days} lá ar a laghad roimh ré. Fanann gach rud a cheannaigh tú agatsa, agus coinnítear an rochtain bhuan atá tuillte agat cheana trí shíntiús."
+  "licensing.readers.body": "Nuair atá saothar ar tí ceadúnas nó síntiús eagraíochta a fhágáil, taispeántar fógra ar an saothar {days} lá ar a laghad roimh ré. Fanann gach rud a cheannaigh tú agatsa, agus coinnítear an rochtain bhuan atá tuillte agat cheana trí shíntiús.",
+  "licenses.editionSwitchNotice": "Fágfaidh an t-aistriúchán seo ceadúnas a eagraíochta ar {date, date, medium} — seans go dtiocfaidh deireadh ansin leis an rochtain a chuirtear ar fáil tríd."
 }

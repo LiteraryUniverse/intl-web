@@ -174,6 +174,7 @@
   "org.translators.intro": "დანიშნეთ თქვენი წევრები ლიცენზირებული ენის სათარგმნად. ისინი მიიღებენ მოწვევას და თავად გადაწყვეტენ.",
   "org.translators.share": "წილი (მაქს. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "მთარგმნელის დანიშვნა",
+  "org.payouts.requiredForPaidFeatures": "ჯერ ორგანიზაციის გადახდები გამართეთ — იხილეთ ჩანართი „გადახდები“ ორგანიზაციის პარამეტრებში. ლიცენზიები, გამოწერის საფეხურები და ფან-კლუბი ყველა გადახდას თქვენი ორგანიზაციის Stripe ანგარიშით ახორციელებს.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "გამართვა დახურულია",
+  "org.setup.discard": "გამართვის გაუქმება",
+  "org.setup.discardConfirm": "გავაუქმოთ ორგანიზაციის ეს გამართვა? მისი მისამართი სხვებისთვის ხელმისაწვდომი გახდება. თქვენი ჩანაწერები შენარჩუნდება, მაგრამ ამ გამართვის გააქტიურება ვეღარ მოხერხდება.",
+  "org.setup.closed": "ეს გამოუყენებელი გამართვა დაიხურა და ორგანიზაციის მისამართი გათავისუფლდა. თქვენი ჩანაწერები აქ ინახება.",
+  "org.setup.restart": "ორგანიზაციის ახალი გამართვის დაწყება",
+  "org.setup.expiryNotice": "ორგანიზაციების გამოუყენებელი მისამართები 30 დღის შემდეგ თავისუფლდება. შეგიძლიათ ეს გამართვა ახლავე გააუქმოთ.",
+  "org.setup.inUse": "ამ გამართვაში უკვე არის ანგარიშსწორების ან გადახდების აქტივობა. დაელოდეთ ღია გადახდის გვერდის ვადის ამოწურვას, ან მის დახურვამდე დაუკავშირდით მხარდაჭერას."
 }

@@ -174,6 +174,7 @@
   "org.translators.intro": "ਲਾਇਸੰਸਸ਼ੁਦਾ ਭਾਸ਼ਾ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਆਪਣੇ ਮੈਂਬਰਾਂ ਨੂੰ ਨਿਯੁਕਤ ਕਰੋ। ਉਨ੍ਹਾਂ ਨੂੰ ਨਿਮੰਤਰਣ ਮਿਲਦਾ ਹੈ ਅਤੇ ਉਹ ਆਪ ਫ਼ੈਸਲਾ ਕਰਦੇ ਹਨ।",
   "org.translators.share": "ਹਿੱਸਾ (ਵੱਧ ਤੋਂ ਵੱਧ {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "ਅਨੁਵਾਦਕ ਨਿਯੁਕਤ ਕਰੋ",
+  "org.payouts.requiredForPaidFeatures": "ਪਹਿਲਾਂ ਸੰਗਠਨ ਦੇ ਭੁਗਤਾਨ ਸੈੱਟ ਕਰੋ — ਸੰਗਠਨ ਸੈਟਿੰਗਾਂ ਵਿੱਚ “ਭੁਗਤਾਨ” ਟੈਬ ਦੇਖੋ। ਲਾਇਸੈਂਸ, ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਟੀਅਰ ਅਤੇ ਫੈਨ ਕਲੱਬ ਸਭ ਦਾ ਭੁਗਤਾਨ ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੇ Stripe ਖਾਤੇ ਰਾਹੀਂ ਹੁੰਦਾ ਹੈ।",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "ਸੈੱਟਅੱਪ ਬੰਦ ਹੋਇਆ",
+  "org.setup.discard": "ਸੈੱਟਅੱਪ ਰੱਦ ਕਰੋ",
+  "org.setup.discardConfirm": "ਕੀ ਇਸ ਸੰਗਠਨ ਦਾ ਸੈੱਟਅੱਪ ਰੱਦ ਕਰਨਾ ਹੈ? ਇਸਦਾ ਪਤਾ ਹੋਰਾਂ ਲਈ ਉਪਲਬਧ ਹੋ ਜਾਵੇਗਾ। ਤੁਹਾਡੇ ਰਿਕਾਰਡ ਰੱਖੇ ਜਾਣਗੇ, ਪਰ ਇਹ ਸੈੱਟਅੱਪ ਸਰਗਰਮ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕੇਗਾ।",
+  "org.setup.closed": "ਇਹ ਨਾ ਵਰਤਿਆ ਗਿਆ ਸੈੱਟਅੱਪ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਸੰਗਠਨ ਦਾ ਪਤਾ ਮੁਕਤ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤੁਹਾਡੇ ਰਿਕਾਰਡ ਇੱਥੇ ਰੱਖੇ ਗਏ ਹਨ।",
+  "org.setup.restart": "ਨਵਾਂ ਸੰਗਠਨ ਸੈੱਟਅੱਪ ਸ਼ੁਰੂ ਕਰੋ",
+  "org.setup.expiryNotice": "ਨਾ ਵਰਤੇ ਗਏ ਸੰਗਠਨ ਪਤੇ 30 ਦਿਨਾਂ ਬਾਅਦ ਮੁਕਤ ਕਰ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ। ਤੁਸੀਂ ਇਹ ਸੈੱਟਅੱਪ ਹੁਣੇ ਵੀ ਰੱਦ ਕਰ ਸਕਦੇ ਹੋ।",
+  "org.setup.inUse": "ਇਸ ਸੈੱਟਅੱਪ ਵਿੱਚ ਬਿਲਿੰਗ ਜਾਂ ਭੁਗਤਾਨ ਗਤੀਵਿਧੀ ਹੈ। ਕਿਸੇ ਵੀ ਖੁੱਲ੍ਹੇ ਚੈੱਕਆਊਟ ਦੀ ਮਿਆਦ ਪੁੱਗਣ ਤੱਕ ਉਡੀਕ ਕਰੋ, ਜਾਂ ਇਸਨੂੰ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
 }

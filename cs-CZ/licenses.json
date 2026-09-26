@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Licence může pokrývat všechny jazyky, nebo jen vybraný seznam. Pokud držíte dílo ve všech jazycích a jeho autor chce pro jeden překlad jinou organizaci, uvolní se tento jazyk pouze s vaším souhlasem — a jakmile druhá licence skončí, automaticky se vám vrátí.",
   "licensing.organizations.curation": "Licence vám dává právo zařadit dílo do svých předplatných, ne povinnost: sami rozhodujete, která licencovaná díla půjdou do které úrovně a která zůstanou jen v katalogu k samostatnému prodeji. I vyřazení díla z předplatného trvá {days} dní, takže čtenáři nikdy nepřijdou o přístup bez varování.",
   "licensing.readers.title": "Pro čtenáře",
-  "licensing.readers.body": "Když se dílo chystá opustit licenci nebo předplatné organizace, objeví se u něj upozornění nejméně {days} dní předem. Cokoli jste si koupili, zůstává vaše, a trvalý přístup, který jste už předplatným získali, vám nikdo nevezme."
+  "licensing.readers.body": "Když se dílo chystá opustit licenci nebo předplatné organizace, objeví se u něj upozornění nejméně {days} dní předem. Cokoli jste si koupili, zůstává vaše, a trvalý přístup, který jste už předplatným získali, vám nikdo nevezme.",
+  "licenses.editionSwitchNotice": "Tento překlad opustí licenci své organizace dne {date, date, medium} — přístup poskytovaný přes ni pak může skončit."
 }

@@ -174,6 +174,7 @@
   "org.translators.intro": "ཆོག་མཆན་ཐོབ་པའི་སྐད་ཡིག་ཅིག་བསྒྱུར་བར་ཁྱེད་ཀྱི་ཚོགས་མི་རྣམས་བསྐོ་གཞག་བྱོས། ཁོང་ཚོར་མགྲོན་འབོད་ཅིག་འབྱོར་ཞིང་རང་ཉིད་ཀྱིས་ཐག་གཅོད་བྱེད།",
   "org.translators.share": "ཐོབ་ཆ (མཐར་ཐུག {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "ཡིག་སྒྱུར་བ་བསྐོ་གཞག",
+  "org.payouts.requiredForPaidFeatures": "སྔོན་ལ་ཚོགས་སྡེའི་དངུལ་སྤྲོད་སྒྲིག་འགོད་གནང་། ཚོགས་སྡེའི་སྒྲིག་འགོད་ནང་གི་“དངུལ་སྤྲོད”ཤོག་བྱང་ལ་གཟིགས། ཆོག་མཆན་དང་མངགས་ཉོའི་རིམ་པ། དགའ་མོས་ཚོགས་པ་བཅས་ཚང་མའི་དངུལ་སྤྲོད་ཁྱེད་ཀྱི་ཚོགས་སྡེའི་ Stripe རྩིས་ཐོ་བརྒྱུད་ནས་བྱེད།",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "སྒྲིག་འགོད་ཁ་བརྒྱབ་ཟིན།",
+  "org.setup.discard": "སྒྲིག་འགོད་དོར།",
+  "org.setup.discardConfirm": "ཚོགས་སྡེའི་སྒྲིག་འགོད་འདི་དོར་རམ། དེའི་ཁ་བྱང་གཞན་གྱིས་བེད་སྤྱོད་བྱེད་ཐུབ། ཁྱེད་ཀྱི་ཟིན་ཐོ་ཉར་ཚགས་བྱེད་ངེས། འོན་ཀྱང་སྒྲིག་འགོད་འདི་སྒུལ་བསྐྱོད་བྱེད་མི་ཐུབ།",
+  "org.setup.closed": "བེད་སྤྱོད་མ་བྱས་པའི་སྒྲིག་འགོད་འདི་ཁ་བརྒྱབ་ཟིན་ལ། ཚོགས་སྡེའི་ཁ་བྱང་ཡང་གློད་ཟིན། ཁྱེད་ཀྱི་ཟིན་ཐོ་འདིར་ཉར་ཡོད།",
+  "org.setup.restart": "ཚོགས་སྡེའི་སྒྲིག་འགོད་གསར་པ་འགོ་འཛུགས།",
+  "org.setup.expiryNotice": "བེད་སྤྱོད་མ་བྱས་པའི་ཚོགས་སྡེའི་ཁ་བྱང་ཉིན་ 30 རྗེས་སུ་གློད་ངེས། ཁྱེད་ཀྱིས་ད་ལྟ་སྒྲིག་འགོད་འདི་དོར་ཡང་ཆོག",
+  "org.setup.inUse": "སྒྲིག་འགོད་འདི་ལ་སྤྲོད་འཇལ་ངམ་དངུལ་སྤྲོད་ཀྱི་བྱ་འགུལ་ཡོད། ཁ་ཕྱེ་ཡོད་པའི་ཚོང་སྒྲུབ་གང་རུང་དུས་ཡོལ་བར་སྒུག་པའམ། ཡང་ན་དེ་ཁ་རྒྱག་གོང་རོགས་རམ་ལ་འབྲེལ་བ་གནང་།"
 }

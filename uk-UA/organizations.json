@@ -174,6 +174,7 @@
   "org.translators.intro": "Призначте учасників для перекладу ліцензованої мови. Вони отримають запрошення й вирішать самі.",
   "org.translators.share": "Частка (не більше {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Призначити перекладача",
+  "org.payouts.requiredForPaidFeatures": "Спершу налаштуйте виплати організації — див. вкладку «Виплати» в налаштуваннях організації. Ліцензії, рівні підписки та фан-клуб здійснюють виплати через обліковий запис Stripe вашої організації.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Налаштування закрито",
+  "org.setup.discard": "Скасувати налаштування",
+  "org.setup.discardConfirm": "Скасувати налаштування цієї організації? Її адреса стане доступною для інших. Ваші записи збережуться, але це налаштування вже не можна буде активувати.",
+  "org.setup.closed": "Це невикористане налаштування закрито, а адресу організації звільнено. Ваші записи зберігаються тут.",
+  "org.setup.restart": "Почати нове налаштування організації",
+  "org.setup.expiryNotice": "Невикористані адреси організацій звільняються через 30 днів. Ви також можете скасувати це налаштування вже зараз.",
+  "org.setup.inUse": "Для цього налаштування вже є операції з оплати або виплат. Дочекайтеся, поки мине термін відкритої оплати, або зверніться до служби підтримки, перш ніж закривати його."
 }

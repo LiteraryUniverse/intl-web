@@ -174,6 +174,7 @@
   "org.translators.intro": "உரிமம் பெற்ற மொழியை மொழிபெயர்க்க உங்கள் உறுப்பினர்களை நியமிக்கவும். அவர்களுக்கு அழைப்பு வரும், முடிவை அவர்களே எடுப்பார்கள்.",
   "org.translators.share": "பங்கு (அதிகபட்சம் {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "மொழிபெயர்ப்பாளரை நியமிக்கவும்",
+  "org.payouts.requiredForPaidFeatures": "முதலில் நிறுவனத்தின் பணப்பட்டுவாடாவை அமைக்கவும் — நிறுவன அமைப்புகளில் “பணப்பட்டுவாடா” தாவலைப் பார்க்கவும். உரிமங்கள், சந்தா நிலைகள் மற்றும் ரசிகர் மன்றம் அனைத்தும் உங்கள் நிறுவனத்தின் Stripe கணக்கு வழியாகவே பணம் செலுத்துகின்றன.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "அமைப்பு மூடப்பட்டது",
+  "org.setup.discard": "அமைப்பைக் கைவிடு",
+  "org.setup.discardConfirm": "இந்த நிறுவன அமைப்பைக் கைவிட வேண்டுமா? அதன் முகவரி மற்றவர்களுக்குக் கிடைக்கும். உங்கள் பதிவுகள் வைத்திருக்கப்படும், ஆனால் இந்த அமைப்பைச் செயல்படுத்த முடியாது.",
+  "org.setup.closed": "பயன்படுத்தப்படாத இந்த அமைப்பு மூடப்பட்டு, நிறுவனத்தின் முகவரி விடுவிக்கப்பட்டது. உங்கள் பதிவுகள் இங்கே வைத்திருக்கப்படுகின்றன.",
+  "org.setup.restart": "புதிய நிறுவன அமைப்பைத் தொடங்கு",
+  "org.setup.expiryNotice": "பயன்படுத்தப்படாத நிறுவன முகவரிகள் 30 நாட்களுக்குப் பிறகு விடுவிக்கப்படும். இந்த அமைப்பை இப்போதே கைவிடவும் முடியும்.",
+  "org.setup.inUse": "இந்த அமைப்பில் பில்லிங் அல்லது பணப்பட்டுவாடா செயல்பாடு உள்ளது. திறந்திருக்கும் எந்த செக்அவுட்டும் காலாவதியாகும் வரை காத்திருக்கவும், அல்லது இதை மூடுவதற்கு முன் ஆதரவு மையத்தைத் தொடர்பு கொள்ளவும்."
 }

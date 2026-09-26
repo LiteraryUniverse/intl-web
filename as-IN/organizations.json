@@ -174,6 +174,7 @@
   "org.translators.intro": "লাইচেন্স লোৱা এটা ভাষা অনুবাদ কৰিবলৈ আপোনাৰ সদস্যসকলক নিযুক্তি দিয়ক। তেওঁলোকে এটা নিমন্ত্ৰণ পায় আৰু নিজে সিদ্ধান্ত লয়।",
   "org.translators.share": "অংশ (সৰ্বাধিক {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "অনুবাদক নিযুক্তি দিয়ক",
+  "org.payouts.requiredForPaidFeatures": "প্ৰথমে সংগঠনৰ পে-আউট ছেট আপ কৰক — সংগঠন ছেটিংছত “পে-আউট” টেব চাওক। লাইচেন্স, চাবস্ক্ৰিপশ্বন স্তৰ আৰু ফেন ক্লাব সকলোৰে পে-আউট আপোনাৰ সংগঠনৰ Stripe একাউণ্টৰ জৰিয়তে হয়।",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "ছেটআপ বন্ধ কৰা হ'ল",
+  "org.setup.discard": "ছেটআপ বাতিল কৰক",
+  "org.setup.discardConfirm": "এই সংগঠনৰ ছেটআপ বাতিল কৰিবনে? ইয়াৰ ঠিকনা আনৰ বাবে উপলব্ধ হ'ব। আপোনাৰ ৰেকৰ্ডসমূহ ৰখা হ'ব, কিন্তু এই ছেটআপ সক্ৰিয় কৰিব নোৱাৰি।",
+  "org.setup.closed": "এই অব্যৱহৃত ছেটআপ বন্ধ কৰা হৈছে আৰু সংগঠনৰ ঠিকনা মুকলি কৰি দিয়া হৈছে। আপোনাৰ ৰেকৰ্ডসমূহ ইয়াত ৰখা হৈছে।",
+  "org.setup.restart": "নতুন সংগঠন ছেটআপ আৰম্ভ কৰক",
+  "org.setup.expiryNotice": "অব্যৱহৃত সংগঠনৰ ঠিকনা 30 দিনৰ পিছত মুকলি কৰি দিয়া হয়। আপুনি এতিয়াই এই ছেটআপ বাতিল কৰিবও পাৰে।",
+  "org.setup.inUse": "এই ছেটআপত বিলিং বা পে-আউটৰ কাৰ্যকলাপ আছে। খোলা থকা যিকোনো চেকআউটৰ ম্যাদ উকলি যোৱালৈ অপেক্ষা কৰক, বা ইয়াক বন্ধ কৰাৰ আগতে সহায়ৰ সৈতে যোগাযোগ কৰক।"
 }

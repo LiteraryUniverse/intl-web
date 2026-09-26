@@ -293,5 +293,12 @@
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
   "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
-  "org.payouts.requiredForPaidFeatures": "Nejprve nastavte výplaty pro organizaci – viz záložka „Výplaty“ v nastavení organizace. Výplaty za licence, úrovně předplatného i fanouškovský klub probíhají prostřednictvím účtu Stripe vaší organizace."
+  "org.payouts.requiredForPaidFeatures": "Nejprve nastavte výplaty pro organizaci – viz záložka „Výplaty“ v nastavení organizace. Výplaty za licence, úrovně předplatného i fanouškovský klub probíhají prostřednictvím účtu Stripe vaší organizace.",
+  "org.billing.status.abandoned": "Založení uzavřeno",
+  "org.setup.discard": "Zrušit založení",
+  "org.setup.discardConfirm": "Zrušit toto založení organizace? Její adresa bude dostupná ostatním. Vaše záznamy zůstanou zachovány, ale toto založení už nepůjde aktivovat.",
+  "org.setup.closed": "Toto nevyužité založení bylo uzavřeno a adresa organizace uvolněna. Vaše záznamy zůstávají zde.",
+  "org.setup.restart": "Začít nové založení organizace",
+  "org.setup.expiryNotice": "Nevyužité adresy organizací se uvolňují po 30 dnech. Toto založení můžete zrušit i hned.",
+  "org.setup.inUse": "U tohoto založení už proběhly platby nebo výplaty. Počkejte, až vyprší platnost otevřené platby v pokladně, nebo se před jeho uzavřením obraťte na podporu."
 }

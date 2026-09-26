@@ -174,6 +174,7 @@
   "org.translators.intro": ".i ko cuxna lo do cmima poi fanva lo se curmi bangu .i ra cpacu lo friti gi'e sezyjdice",
   "org.translators.share": "fatri (lo su'e {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "cuxna lo fanva prenu",
+  "org.payouts.requiredForPaidFeatures": ".i pa moi ko bregau lo jdini benji be lo jecta .i ko catlu lo tanxe pe zoi gy. jdini benji gy. bu'u lo se cusku be lo nu le jecta cu setca .i lo klesi tu'a dunda .e lo selpleji klesi .e lo nelci girzu cu benji lo jdini sepi'o lo la'o gy. Stripe gy. jdini vreji be lo do jecta",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "lo nu bregau cu se ganlo",
+  "org.setup.discard": "vimcu lo nu bregau",
+  "org.setup.discardConfirm": ".i xu do djica lo nu vimcu le vi nu bregau lo jecta .i lo judri be ri ba ka'e se pilno lo drata .i lo do vreji ba se ralte .i ku'i le vi nu bregau ba na ka'e se cfari",
+  "org.setup.closed": ".i le vi na se pilno nu bregau cu se ganlo .i lo judri be lo jecta cu se livgau .i lo do vreji cu se ralte bu'u ti",
+  "org.setup.restart": "cfari lo cnino nu bregau lo jecta",
+  "org.setup.expiryNotice": ".i lo na se pilno judri be lo jecta cu se livgau ba lo 30 djedi .i do ji'a ka'e vimcu le vi nu bregau ca lo cabdei",
+  "org.setup.inUse": ".i le vi nu bregau cu se jibri lo nu pleji ja lo nu jdini benji .i ko denpa lo nu ro lo kalri te vecnu cu canci gi'a tavla lo sidju pu lo nu do ganlo ri"
 }

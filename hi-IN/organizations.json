@@ -174,6 +174,7 @@
   "org.translators.intro": "लाइसेंस प्राप्त भाषा का अनुवाद करने के लिए अपने सदस्यों को नियुक्त करें। उन्हें आमंत्रण मिलता है और वे स्वयं निर्णय लेते हैं।",
   "org.translators.share": "हिस्सा (अधिकतम {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "अनुवादक नियुक्त करें",
+  "org.payouts.requiredForPaidFeatures": "पहले संगठन पेआउट सेट करें — संगठन सेटिंग्स में “पेआउट” टैब देखें। लाइसेंस, सदस्यता टियर और फ़ैन क्लब, सभी का भुगतान आपके संगठन के Stripe खाते के ज़रिए होता है।",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "सेटअप बंद हुआ",
+  "org.setup.discard": "सेटअप रद्द करें",
+  "org.setup.discardConfirm": "इस संगठन का सेटअप रद्द करें? इसका पता दूसरों के लिए उपलब्ध हो जाएगा। आपके रिकॉर्ड रखे जाएँगे, लेकिन यह सेटअप सक्रिय नहीं किया जा सकेगा।",
+  "org.setup.closed": "यह अप्रयुक्त सेटअप बंद कर दिया गया है और संगठन का पता मुक्त कर दिया गया है। आपके रिकॉर्ड यहाँ रखे गए हैं।",
+  "org.setup.restart": "नया संगठन सेटअप शुरू करें",
+  "org.setup.expiryNotice": "अप्रयुक्त संगठन पते 30 दिनों के बाद मुक्त कर दिए जाते हैं। आप चाहें तो अभी यह सेटअप रद्द कर सकते हैं।",
+  "org.setup.inUse": "इस सेटअप में बिलिंग या पेआउट गतिविधि है। किसी भी खुले चेकआउट के समाप्त होने तक प्रतीक्षा करें, या इसे बंद करने से पहले सहायता से संपर्क करें।"
 }

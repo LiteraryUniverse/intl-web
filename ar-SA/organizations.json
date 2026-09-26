@@ -174,6 +174,7 @@
   "org.translators.intro": "عيّن أعضاءك لترجمة لغة مرخّصة. يتلقون دعوة ويقرّرون بأنفسهم.",
   "org.translators.share": "الحصة (بحد أقصى {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "تعيين مترجم",
+  "org.payouts.requiredForPaidFeatures": "أعدّ مدفوعات المنظمة أولًا — راجع تبويب «المدفوعات» في إعدادات المنظمة. تُصرف مدفوعات التراخيص ومستويات الاشتراك ونادي المعجبين جميعها عبر حساب Stripe الخاص بمنظمتك.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "أُغلق الإعداد",
+  "org.setup.discard": "إلغاء الإعداد",
+  "org.setup.discardConfirm": "هل تريد إلغاء إعداد هذه المنظمة؟ سيصبح عنوانها متاحًا للآخرين. ستُحفظ سجلاتك، لكن لن يمكن تفعيل هذا الإعداد.",
+  "org.setup.closed": "أُغلق هذا الإعداد غير المستخدم وحُرِّر عنوان المنظمة. سجلاتك محفوظة هنا.",
+  "org.setup.restart": "بدء إعداد منظمة جديدة",
+  "org.setup.expiryNotice": "تُحرَّر عناوين المنظمات غير المستخدمة بعد 30 يومًا. يمكنك أيضًا إلغاء هذا الإعداد الآن.",
+  "org.setup.inUse": "يتضمن هذا الإعداد نشاطًا في الفوترة أو المدفوعات. انتظر حتى تنتهي صلاحية أي عملية دفع مفتوحة، أو تواصل مع الدعم قبل إغلاقه."
 }

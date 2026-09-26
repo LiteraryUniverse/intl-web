@@ -174,6 +174,7 @@
   "org.translators.intro": "লাইসেন্স করা একটি ভাষা অনুবাদ করতে আপনার সদস্যদের নিযুক্ত করুন। তাঁরা একটি আমন্ত্রণ পান এবং নিজেরাই সিদ্ধান্ত নেন।",
   "org.translators.share": "অংশ (সর্বোচ্চ {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "অনুবাদক নিযুক্ত করুন",
+  "org.payouts.requiredForPaidFeatures": "প্রথমে প্রতিষ্ঠানের পেআউট সেট আপ করুন — প্রতিষ্ঠান সেটিংসে “পেআউট” ট্যাব দেখুন। লাইসেন্স, সাবস্ক্রিপশন স্তর ও ফ্যান ক্লাব — সবকিছুর পেআউট আপনার প্রতিষ্ঠানের Stripe অ্যাকাউন্টের মাধ্যমে হয়।",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "সেটআপ বন্ধ হয়েছে",
+  "org.setup.discard": "সেটআপ বাতিল করুন",
+  "org.setup.discardConfirm": "এই প্রতিষ্ঠানের সেটআপ বাতিল করবেন? এর ঠিকানা অন্যদের জন্য উপলব্ধ হয়ে যাবে। আপনার রেকর্ড রাখা হবে, কিন্তু এই সেটআপ আর সক্রিয় করা যাবে না।",
+  "org.setup.closed": "এই অব্যবহৃত সেটআপটি বন্ধ করা হয়েছে এবং প্রতিষ্ঠানের ঠিকানা মুক্ত করে দেওয়া হয়েছে। আপনার রেকর্ড এখানে রাখা আছে।",
+  "org.setup.restart": "নতুন প্রতিষ্ঠান সেটআপ শুরু করুন",
+  "org.setup.expiryNotice": "অব্যবহৃত প্রতিষ্ঠানের ঠিকানা 30 দিন পরে মুক্ত করে দেওয়া হয়। আপনি চাইলে এখনই এই সেটআপ বাতিল করতে পারেন।",
+  "org.setup.inUse": "এই সেটআপে বিলিং বা পেআউট কার্যক্রম রয়েছে। খোলা থাকা যেকোনো চেকআউটের মেয়াদ শেষ হওয়া পর্যন্ত অপেক্ষা করুন, অথবা এটি বন্ধ করার আগে সাপোর্টের সাথে যোগাযোগ করুন।"
 }

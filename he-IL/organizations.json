@@ -174,6 +174,7 @@
   "org.translators.intro": "הציבו את חברי הארגון לתרגום שפה מורשית. הם מקבלים הזמנה ומחליטים בעצמם.",
   "org.translators.share": "חלק (עד {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "הצבת מתרגם",
+  "org.payouts.requiredForPaidFeatures": "הגדירו קודם את התשלומים לארגון — ראו את הלשונית „תשלומים” בהגדרות הארגון. רישיונות, דרגות מנוי ומועדון המעריצים משלמים כולם דרך חשבון ה-Stripe של הארגון שלכם.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "ההגדרה נסגרה",
+  "org.setup.discard": "ביטול ההגדרה",
+  "org.setup.discardConfirm": "לבטל את הגדרת הארגון הזו? הכתובת שלו תהיה זמינה לאחרים. הרשומות שלכם יישמרו, אבל לא ניתן יהיה להפעיל את ההגדרה הזו.",
+  "org.setup.closed": "ההגדרה הזו, שלא נעשה בה שימוש, נסגרה וכתובת הארגון שוחררה. הרשומות שלכם שמורות כאן.",
+  "org.setup.restart": "התחלת הגדרת ארגון חדשה",
+  "org.setup.expiryNotice": "כתובות ארגון שאינן בשימוש משתחררות לאחר 30 יום. אפשר גם לבטל את ההגדרה הזו כבר עכשיו.",
+  "org.setup.inUse": "בהגדרה זו יש פעילות חיוב או תשלומים. המתינו עד שכל תהליך תשלום פתוח יפוג, או פנו לתמיכה לפני סגירתה."
 }

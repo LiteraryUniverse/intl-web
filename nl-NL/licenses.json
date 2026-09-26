@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Een licentie kan alle talen dekken of een bepaalde lijst. Houd je een werk in alle talen en wil de auteur voor één vertaling een andere organisatie, dan wordt die taal alleen met jouw goedkeuring vrijgegeven — en komt ze automatisch bij jou terug zodra de andere licentie afloopt.",
   "licensing.organizations.curation": "Een licentie geeft je het recht om een werk in je abonnementen op te nemen, geen plicht: jij bepaalt welke gelicentieerde werken in welk niveau komen en welke alleen in je catalogus te koop blijven. Een werk uit een abonnement halen duurt eveneens {days} dagen, zodat lezers nooit zonder waarschuwing worden afgesloten.",
   "licensing.readers.title": "Voor lezers",
-  "licensing.readers.body": "Wanneer een werk de licentie of het abonnement van een organisatie gaat verlaten, verschijnt er minstens {days} dagen van tevoren een melding bij het werk. Alles wat je hebt gekocht blijft van jou, en permanente toegang die je al via een abonnement hebt verdiend, blijft behouden."
+  "licensing.readers.body": "Wanneer een werk de licentie of het abonnement van een organisatie gaat verlaten, verschijnt er minstens {days} dagen van tevoren een melding bij het werk. Alles wat je hebt gekocht blijft van jou, en permanente toegang die je al via een abonnement hebt verdiend, blijft behouden.",
+  "licenses.editionSwitchNotice": "Deze vertaling verlaat de licentie van haar organisatie op {date, date, medium} — toegang die via die licentie wordt geboden kan dan eindigen."
 }

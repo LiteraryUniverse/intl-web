@@ -174,6 +174,7 @@
   "org.translators.intro": "Assigna els teus membres perquè tradueixin una llengua llicenciada. Reben una invitació i decideixen ells mateixos.",
   "org.translators.share": "Part (màx. {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "Assigna un traductor",
+  "org.payouts.requiredForPaidFeatures": "Configura primer els pagaments de l'organització: consulta la pestanya «Pagaments» a la configuració de l'organització. Les llicències, els nivells de subscripció i el club de fans paguen a través del compte de Stripe de la teva organització.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "Configuració tancada",
+  "org.setup.discard": "Descarta la configuració",
+  "org.setup.discardConfirm": "Vols descartar aquesta configuració de l'organització? La seva adreça quedarà disponible per a altres. Els teus registres es conservaran, però aquesta configuració no es podrà activar.",
+  "org.setup.closed": "Aquesta configuració no utilitzada s'ha tancat i l'adreça de l'organització s'ha alliberat. Els teus registres es conserven aquí.",
+  "org.setup.restart": "Inicia una nova configuració d'organització",
+  "org.setup.expiryNotice": "Les adreces d'organització no utilitzades s'alliberen al cap de 30 dies. També pots descartar aquesta configuració ara.",
+  "org.setup.inUse": "Aquesta configuració té activitat de facturació o de pagaments. Espera que caduqui qualsevol procés de pagament obert o contacta amb el suport abans de tancar-la."
 }

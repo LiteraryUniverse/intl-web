@@ -174,6 +174,7 @@
   "org.translators.intro": "ಪರವಾನಗಿ ಪಡೆದ ಭಾಷೆಯನ್ನು ಭಾಷಾಂತರಿಸಲು ನಿಮ್ಮ ಸದಸ್ಯರನ್ನು ನಿಯೋಜಿಸಿ. ಅವರಿಗೆ ಆಹ್ವಾನ ಸಿಗುತ್ತದೆ ಮತ್ತು ಅವರೇ ನಿರ್ಧರಿಸುತ್ತಾರೆ.",
   "org.translators.share": "ಪಾಲು (ಗರಿಷ್ಠ {budget, number, ::percent scale/0.01})",
   "org.translators.assign": "ಭಾಷಾಂತರಿಯನ್ನು ನಿಯೋಜಿಸಿ",
+  "org.payouts.requiredForPaidFeatures": "ಮೊದಲು ಸಂಸ್ಥೆಯ ಪಾವತಿಗಳನ್ನು ಹೊಂದಿಸಿ — ಸಂಸ್ಥೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ “ಪಾವತಿಗಳು” ಟ್ಯಾಬ್ ನೋಡಿ. ಪರವಾನಗಿಗಳು, ಚಂದಾದಾರಿಕೆ ಶ್ರೇಣಿಗಳು ಮತ್ತು ಫ್ಯಾನ್ ಕ್ಲಬ್ ಎಲ್ಲವೂ ನಿಮ್ಮ ಸಂಸ್ಥೆಯ Stripe ಖಾತೆಯ ಮೂಲಕ ಪಾವತಿಸುತ್ತವೆ.",
   "org.establish": "Establish an organization",
   "org.admin.features.api": "API access (organization & blog)",
   "org.establish.title": "Establish an organization",
@@ -292,5 +293,12 @@
   "org.admin.billing.stripe": "Stripe",
   "org.admin.billing.manual": "Billed offline",
   "org.establish.pendingLimit": "Finish an existing organization checkout before creating another organization.",
-  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support."
+  "org.billing.accountDeletionBlocked": "Before deleting your account, transfer your organizations to another owner or cancel their subscriptions and wait until billing has ended. Complete or let any open checkout expire first. If checkout is stuck, contact support.",
+  "org.billing.status.abandoned": "ಸೆಟಪ್ ಮುಚ್ಚಲಾಗಿದೆ",
+  "org.setup.discard": "ಸೆಟಪ್ ತ್ಯಜಿಸಿ",
+  "org.setup.discardConfirm": "ಈ ಸಂಸ್ಥೆಯ ಸೆಟಪ್ ಅನ್ನು ತ್ಯಜಿಸಬೇಕೆ? ಇದರ ವಿಳಾಸ ಇತರರಿಗೆ ಲಭ್ಯವಾಗುತ್ತದೆ. ನಿಮ್ಮ ದಾಖಲೆಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗುತ್ತದೆ, ಆದರೆ ಈ ಸೆಟಪ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+  "org.setup.closed": "ಬಳಸದ ಈ ಸೆಟಪ್ ಅನ್ನು ಮುಚ್ಚಲಾಗಿದೆ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿಳಾಸವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲಾಗಿದೆ. ನಿಮ್ಮ ದಾಖಲೆಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ.",
+  "org.setup.restart": "ಹೊಸ ಸಂಸ್ಥೆ ಸೆಟಪ್ ಪ್ರಾರಂಭಿಸಿ",
+  "org.setup.expiryNotice": "ಬಳಸದ ಸಂಸ್ಥೆ ವಿಳಾಸಗಳನ್ನು 30 ದಿನಗಳ ನಂತರ ಬಿಡುಗಡೆ ಮಾಡಲಾಗುತ್ತದೆ. ನೀವು ಈ ಸೆಟಪ್ ಅನ್ನು ಈಗಲೇ ತ್ಯಜಿಸಲೂಬಹುದು.",
+  "org.setup.inUse": "ಈ ಸೆಟಪ್‌ನಲ್ಲಿ ಬಿಲ್ಲಿಂಗ್ ಅಥವಾ ಪಾವತಿ ಚಟುವಟಿಕೆ ಇದೆ. ತೆರೆದಿರುವ ಯಾವುದೇ ಚೆಕ್‌ಔಟ್ ಅವಧಿ ಮುಗಿಯುವವರೆಗೆ ಕಾಯಿರಿ, ಅಥವಾ ಇದನ್ನು ಮುಚ್ಚುವ ಮೊದಲು ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ."
 }

@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Lisenssi voi kattaa kaikki kielet tai tietyn luettelon. Jos teos on hallussasi kaikilla kielillä ja sen tekijä haluaa yhdelle käännökselle toisen organisaation, kyseinen kieli vapautuu vain sinun hyväksynnälläsi — ja se palautuu sinulle automaattisesti, kun toinen lisenssi päättyy.",
   "licensing.organizations.curation": "Lisenssi antaa sinulle oikeuden sisällyttää teos tilauksiisi, ei velvollisuutta: sinä päätät, mitkä lisensoidut teokset kuuluvat mihinkin tasoon ja mitkä jäävät katalogiisi pelkkää myyntiä varten. Teoksen poistaminen tilauksesta kestää myös {days} päivää, joten lukijoiden pääsy ei katkea koskaan varoittamatta.",
   "licensing.readers.title": "Lukijoille",
-  "licensing.readers.body": "Kun teos on poistumassa organisaation lisenssistä tai tilauksesta, teoksen yhteyteen ilmestyy ilmoitus vähintään {days} päivää etukäteen. Kaikki ostamasi pysyy sinun, ja tilauksen kautta jo ansaitsemasi pysyvä pääsy säilyy."
+  "licensing.readers.body": "Kun teos on poistumassa organisaation lisenssistä tai tilauksesta, teoksen yhteyteen ilmestyy ilmoitus vähintään {days} päivää etukäteen. Kaikki ostamasi pysyy sinun, ja tilauksen kautta jo ansaitsemasi pysyvä pääsy säilyy.",
+  "licenses.editionSwitchNotice": "Tämä käännös poistuu organisaationsa lisenssistä {date, date, medium} — sen kautta tarjottu pääsy voi päättyä silloin."
 }

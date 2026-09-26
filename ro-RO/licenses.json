@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "O licență poate acoperi toate limbile sau o listă anume. Dacă deții o operă în toate limbile, iar autorul ei vrea o altă organizație pentru o traducere, acea limbă este eliberată doar cu aprobarea ta — și îți revine automat când cealaltă licență se încheie.",
   "licensing.organizations.curation": "O licență îți dă dreptul de a include o operă în abonamentele tale, nu obligația: tu decizi ce opere licențiate intră în care plan și care rămân în catalogul tău doar la vânzare. Și scoaterea unei opere dintr-un abonament durează {days} zile, așa că cititorii nu sunt lăsați niciodată fără acces pe neașteptate.",
   "licensing.readers.title": "Pentru cititori",
-  "licensing.readers.body": "Când o operă este pe cale să părăsească licența sau abonamentul unei organizații, pe operă apare un anunț cu cel puțin {days} zile înainte. Tot ce ai cumpărat rămâne al tău, iar accesul permanent obținut deja printr-un abonament se păstrează."
+  "licensing.readers.body": "Când o operă este pe cale să părăsească licența sau abonamentul unei organizații, pe operă apare un anunț cu cel puțin {days} zile înainte. Tot ce ai cumpărat rămâne al tău, iar accesul permanent obținut deja printr-un abonament se păstrează.",
+  "licenses.editionSwitchNotice": "Această traducere părăsește licența organizației sale pe {date, date, medium} — accesul oferit prin ea se poate încheia atunci."
 }

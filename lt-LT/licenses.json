@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Licencija gali apimti visas kalbas arba tik tam tikrą sąrašą. Jei kūrinys jums priklauso visomis kalbomis, o jo autorius vieną vertimą nori patikėti kitai organizacijai, ta kalba atlaisvinama tik jums sutikus — ir grįžta jums automatiškai, kai ta kita licencija pasibaigia.",
   "licensing.organizations.curation": "Licencija suteikia jums teisę, o ne pareigą, įtraukti kūrinį į savo prenumeratas: patys sprendžiate, kurie licencijuoti kūriniai pateks į kurią pakopą, o kurie liks kataloge tik pardavimui. Kūrinio pašalinimas iš prenumeratos taip pat trunka {days} dienų, tad skaitytojai niekada nelieka be prieigos be įspėjimo.",
   "licensing.readers.title": "Skaitytojams",
-  "licensing.readers.body": "Kai kūrinys rengiasi palikti organizacijos licenciją ar prenumeratą, likus bent {days} dienoms prie jo pasirodo įspėjimas. Viskas, ką įsigijote, lieka jūsų, o nuolatinė prieiga, kurią jau įgijote per prenumeratą, išsaugoma."
+  "licensing.readers.body": "Kai kūrinys rengiasi palikti organizacijos licenciją ar prenumeratą, likus bent {days} dienoms prie jo pasirodo įspėjimas. Viskas, ką įsigijote, lieka jūsų, o nuolatinė prieiga, kurią jau įgijote per prenumeratą, išsaugoma.",
+  "licenses.editionSwitchNotice": "Šis vertimas palieka savo organizacijos licenciją {date, date, medium} — per ją suteikta prieiga tada gali baigtis."
 }

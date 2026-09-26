@@ -163,5 +163,6 @@
   "licensing.organizations.coverage": "Eine Lizenz kann alle Sprachen abdecken oder eine bestimmte Auswahl. Halten Sie ein Werk in allen Sprachen und wünscht sich sein Autor für eine Übersetzung eine andere Organisation, wird diese Sprache nur mit Ihrer Zustimmung freigegeben — und sie fällt automatisch an Sie zurück, wenn die andere Lizenz endet.",
   "licensing.organizations.curation": "Eine Lizenz gibt Ihnen das Recht, ein Werk in Ihre Abonnements aufzunehmen, aber keine Pflicht: Sie entscheiden, welche lizenzierten Werke in welche Stufe kommen und welche nur zum Verkauf in Ihrem Katalog bleiben. Auch die Herausnahme eines Werks aus einem Abonnement dauert {days} Tage, damit Lesern der Zugang nie ohne Vorwarnung entzogen wird.",
   "licensing.readers.title": "Für Leser",
-  "licensing.readers.body": "Wenn ein Werk die Lizenz oder das Abonnement einer Organisation verlässt, erscheint mindestens {days} Tage vorher ein Hinweis beim Werk. Alles, was Sie gekauft haben, bleibt Ihnen, und dauerhafter Zugang, den Sie sich bereits über ein Abonnement verdient haben, bleibt erhalten."
+  "licensing.readers.body": "Wenn ein Werk die Lizenz oder das Abonnement einer Organisation verlässt, erscheint mindestens {days} Tage vorher ein Hinweis beim Werk. Alles, was Sie gekauft haben, bleibt Ihnen, und dauerhafter Zugang, den Sie sich bereits über ein Abonnement verdient haben, bleibt erhalten.",
+  "licenses.editionSwitchNotice": "Diese Übersetzung verlässt die Lizenz ihrer Organisation am {date, date, medium} — der darüber gewährte Zugang kann dann enden."
 }
