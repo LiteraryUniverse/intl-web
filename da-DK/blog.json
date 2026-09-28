@@ -9,7 +9,6 @@
   "blog.post.create": "Skriv et nyt indlæg",
   "blog.post.update": "Rediger {title}",
   "blog.post.text": "Indlægtekst",
-  "common.slug": "SEO-venlig adresse",
   "blog.slug.explained": "Lav en flot URL til indlægget. Undgå at bruge specialtegn undtagen \"-\".",
   "blog.publicView": "Offentlig visning",
   "blog.post.notfound": "Blogindlæg blev ikke fundet",

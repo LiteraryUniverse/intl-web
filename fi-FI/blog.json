@@ -9,7 +9,6 @@
   "blog.post.create": "Kirjoita uusi viesti",
   "blog.post.update": "Muokkaa viestiä ! {title}",
   "blog.post.text": "Viestin teksti",
-  "common.slug": "SEO-ystävällinen osoite",
   "blog.slug.explained": "Luo postaukselle nätin näköinen URL-osoite. Vältä erikoismerkkejä lukuun ottamatta \"-\".",
   "blog.publicView": "Julkinen näkymä",
   "blog.post.notfound": "Blogiviestiä ei löytynyt",

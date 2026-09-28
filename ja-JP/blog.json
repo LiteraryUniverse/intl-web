@@ -9,7 +9,6 @@
   "blog.post.create": "新しい会話を作成",
   "blog.post.update": "{title} を編集",
   "blog.post.text": "テキストを投稿",
-  "common.slug": "SEO対応アドレス",
   "blog.slug.explained": "投稿用の見栄えの良いURLを作成する。特殊文字は\"-\"以外は使わない。",
   "blog.publicView": "公開表示",
   "blog.post.notfound": "ブログの投稿が見つかりませんでした",

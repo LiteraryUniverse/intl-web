@@ -31,7 +31,6 @@
   "forums.category.name": "اسم التصنيف",
   "forums.category.reactivate": "إعادة تنشيط الفئة",
   "forums.category.settings": "إعدادات الفئة",
-  "forums.category.slug": "جزء عنوان URL لتحسين محركات البحث",
   "forums.category.titleIsGlobal": "سيتم عرض عنوان هذه الفئة بلغة المستخدم إذا كنا ندعمها.",
   "forums.create": "تمكين المنتدى",
   "forums.createQuestionLabel": "هل هذا سؤال؟",

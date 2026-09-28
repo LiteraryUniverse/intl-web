@@ -9,7 +9,6 @@
   "blog.post.create": "Escreva uma nova mensagem",
   "blog.post.update": "Editando {title}",
   "blog.post.text": "Postar texto",
-  "common.slug": "Endereço SEO amigável",
   "blog.slug.explained": "Crie um URL com bom aspeto para a publicação. Evite utilizar caracteres especiais, exceto \"-\".",
   "blog.publicView": "Vista pública",
   "blog.post.notfound": "Não foi encontrado a publicação do blog",

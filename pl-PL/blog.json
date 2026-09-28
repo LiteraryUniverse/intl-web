@@ -9,7 +9,6 @@
   "blog.post.create": "Proszę napisać nowy post",
   "blog.post.update": "Edytowanie {title}",
   "blog.post.text": "Tekst wpisu",
-  "common.slug": "Adres przyjazny pozycjonowaniu",
   "blog.slug.explained": "Proszę utworzyć ładnie wyglądający adres URL postu. Proszę unikać znaków specjalnych z wyjątkiem \"-\".",
   "blog.publicView": "Widok publiczny",
   "blog.post.notfound": "Nie znaleziono wpisu na blogu",

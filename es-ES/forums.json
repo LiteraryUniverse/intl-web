@@ -31,7 +31,6 @@
   "forums.category.name": "Nombre de la categoría",
   "forums.category.reactivate": "Reactivar categoría",
   "forums.category.settings": "Ajustes de categorías",
-  "forums.category.slug": "URL SEO",
   "forums.category.titleIsGlobal": "El título de esta categoría se mostrará en el idioma del usuario si lo tenemos disponible.",
   "forums.create": "Activar foro",
   "forums.createQuestionLabel": "¿Esto es una pregunta?",

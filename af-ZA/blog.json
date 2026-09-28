@@ -9,7 +9,6 @@
   "blog.post.create": "Skryf 'n nuwe plasing",
   "blog.post.update": "Wysig {title}",
   "blog.post.text": "Plasing teks",
-  "common.slug": "SEO vriendelike adres",
   "blog.slug.explained": "Skep 'n mooi URL vir die plasing. Vermy spesiale karakters, behalwe \"-\".",
   "blog.publicView": "Openbare aansig",
   "blog.post.notfound": "Blog plasing kon nie gevind word nie",

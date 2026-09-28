@@ -9,7 +9,6 @@
   "blog.post.create": "ਇੱਕ ਨਵੀਂ ਪੋਸਟ ਲਿਖੋ",
   "blog.post.update": "{title}ਸੋਧ ਰਹੇ ਹਨ",
   "blog.post.text": "ਪੋਸਟ ਟੈਕਸਟ",
-  "common.slug": "SEO ਯੋਗ ਪ੍ਰਮਾਣਿਕ ਐਡਰੈੱਸ",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "ਜਨਤਕ ਵੇਖਾਓ",
   "blog.post.notfound": "ਬਲਾਗ ਪੋਸਟ ਨਹੀਂ ਲੱਭੀ",

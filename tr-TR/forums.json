@@ -31,7 +31,6 @@
   "forums.category.name": "Kategori adı",
   "forums.category.reactivate": "Kategoriyi yeniden etkinleştir",
   "forums.category.settings": "Kategori ayarları",
-  "forums.category.slug": "SEO url parçası",
   "forums.category.titleIsGlobal": "Bu kategori başlığı, desteklediğimiz dillerde kullanıcı diline göre görüntülenecektir.",
   "forums.create": "Forumu etkinleştir",
   "forums.createQuestionLabel": "Bir soru mu?",

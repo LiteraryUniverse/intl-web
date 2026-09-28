@@ -31,7 +31,6 @@
   "forums.category.name": "Kategorian nimi",
   "forums.category.reactivate": "Aktivoi kategoria uudelleen",
   "forums.category.settings": "Kategorian asetukset",
-  "forums.category.slug": "SEO-URL-osuus",
   "forums.category.titleIsGlobal": "Tämä luokan otsikko näytetään käyttäjän kielellä, jos tuemme sitä.",
   "forums.create": "Ota foorumi käyttöön",
   "forums.createQuestionLabel": "Onko tämä kysymys?",

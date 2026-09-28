@@ -9,7 +9,6 @@
   "blog.post.create": "Viết bài mới",
   "blog.post.update": "Đang chỉnh sửa {title}",
   "blog.post.text": "Đoạn văn bản bài viết",
-  "common.slug": "Địa chỉ tựa đề thân thiện với SEO",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "Xem công khai",
   "blog.post.notfound": "Không tìm thấy bài viết trong blog",

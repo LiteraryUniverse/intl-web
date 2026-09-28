@@ -9,7 +9,6 @@
   "blog.post.create": "เขียนโพสต์ใหม่",
   "blog.post.update": "แก้ไขโพสต์ {title}",
   "blog.post.text": "ข้อความโพสต์",
-  "common.slug": "ที่อยู่ผ่านการจัดการ SEO",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "มุมมองสาธารณะ",
   "blog.post.notfound": "ไม่พบโพสต์บล็อก",

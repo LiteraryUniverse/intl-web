@@ -9,7 +9,6 @@
   "blog.post.create": "اكتب منشورًا جديدًا",
   "blog.post.update": "تحرير {title}",
   "blog.post.text": "نص المشاركة",
-  "common.slug": "عنوان صديق لمحركات البحث",
   "blog.slug.explained": "قم بإنشاء عنوان URL جميل المظهر للمنشور. تجنب استخدام أحرف خاصة باستثناء \"-\".",
   "blog.publicView": "عرض عام",
   "blog.post.notfound": "لم يتم العثور على مدونة",

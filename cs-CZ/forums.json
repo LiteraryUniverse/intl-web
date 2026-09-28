@@ -31,7 +31,6 @@
   "forums.category.name": "Název kategorie",
   "forums.category.reactivate": "Znovu aktivovat kategorii",
   "forums.category.settings": "Nastavení kategorie",
-  "forums.category.slug": "SEO url část",
   "forums.category.titleIsGlobal": "Tento název kategorie se zobrazí v jazyce uživatele, pokud jej podporujeme.",
   "forums.create": "Zapnout fórum",
   "forums.createQuestionLabel": "Je toto otázka?",

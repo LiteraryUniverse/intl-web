@@ -31,7 +31,6 @@
   "forums.category.name": "Kategorijos pavadinimas",
   "forums.category.reactivate": "Aktyvuoti kategoriją iš naujo",
   "forums.category.settings": "Kategorijos nustatymai",
-  "forums.category.slug": "SEO URL dalis",
   "forums.category.titleIsGlobal": "Šios kategorijos pavadinimas bus rodomas vartotojo kalba, jei ją palaikome.",
   "forums.create": "Įgalinti forumą",
   "forums.createQuestionLabel": "Ar tai klausimas?",

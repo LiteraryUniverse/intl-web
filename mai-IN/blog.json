@@ -9,7 +9,6 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "{title}को संपादित करना",
   "blog.post.text": "पोस्ट का पाठ",
-  "common.slug": "एसईओ योग्य पता",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "सार्वजनिक दृश्य",
   "blog.post.notfound": "ब्लॉग पोस्ट नहीं मिली",

@@ -9,7 +9,6 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "Redigerer {title}",
   "blog.post.text": "Innlegg tekst",
-  "common.slug": "SEO vennlig adresse",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "Offentlig visning",
   "blog.post.notfound": "Blogginnlegget ble ikke funnet",

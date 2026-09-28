@@ -9,7 +9,6 @@
   "blog.post.create": "Escriu una entrada nova",
   "blog.post.update": "Editar {title}",
   "blog.post.text": "Text de l'entrada",
-  "common.slug": "Adreça SEO amigable",
   "blog.slug.explained": "Crea un URL atractiu per a l'entrada. Evita utilitzar caràcters especials, excepte \"-\".",
   "blog.publicView": "Vista pública",
   "blog.post.notfound": "No s'ha trobat l'entrada del blog",

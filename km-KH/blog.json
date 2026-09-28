@@ -9,7 +9,6 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "កែសម្រួល {title}",
   "blog.post.text": "អត្ថបទប្រភ័យ",
-  "common.slug": "អាសយដ្ឋានរួមជាមួយ SEO",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "ទិដ្ឋភាពសាធារណៈ",
   "blog.post.notfound": "រកមិនឃើញប្លុកដែលត្រូវបានរកឃើញ",

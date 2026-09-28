@@ -9,7 +9,6 @@
   "blog.post.create": "Kirjutage uus postitus",
   "blog.post.update": "Redigeeritakse {title}",
   "blog.post.text": "Postituse tekst",
-  "common.slug": "SEO sõbralik aadress",
   "blog.slug.explained": "Looge postituse jaoks kena välimusega URL. Vältige erimärkide kasutamist, välja arvatud \"-\".",
   "blog.publicView": "Avalik vaade",
   "blog.post.notfound": "Blogi postitust ei leitud",

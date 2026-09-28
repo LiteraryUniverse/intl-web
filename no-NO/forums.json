@@ -31,7 +31,6 @@
   "forums.category.name": "Kategorinavn",
   "forums.category.reactivate": "Gjenopprett kategori",
   "forums.category.settings": "Kategoriinnstillinger",
-  "forums.category.slug": "SEO URL-del",
   "forums.category.titleIsGlobal": "Denne kategoritittelen vil bli vist på brukerens språk hvis vi støtter det.",
   "forums.create": "Aktiver forum",
   "forums.createQuestionLabel": "Er dette et spørsmål?",

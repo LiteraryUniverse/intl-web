@@ -31,7 +31,6 @@
   "forums.category.name": "カテゴリー名",
   "forums.category.reactivate": "カテゴリを再度有効にする",
   "forums.category.settings": "カテゴリー設定",
-  "forums.category.slug": "SEO対策用URL部分",
   "forums.category.titleIsGlobal": "このカテゴリタイトルは、弊社がサポートしている場合、ユーザーの言語で表示されます。",
   "forums.create": "掲示板を有効化",
   "forums.createQuestionLabel": "これは質問ですか？",

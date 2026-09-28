@@ -9,7 +9,6 @@
   "blog.post.create": "একটি নতুন পোস্ট লিখুন",
   "blog.post.update": "{title}সম্পাদনা করা হচ্ছে",
   "blog.post.text": "পোস্ট পাঠ্য",
-  "common.slug": "এসইও বন্ধুত্বপূর্ণ ঠিকানা",
   "blog.slug.explained": "পোস্টের জন্য একটি সুন্দর URL তৈরি করুন। \"-\" ছাড়া অন্য বিশেষ অক্ষর ব্যবহার এড়িয়ে চলুন।",
   "blog.publicView": "পাবলিক দৃশ্য",
   "blog.post.notfound": "ব্লগ পোস্ট পাওয়া যায়নি",

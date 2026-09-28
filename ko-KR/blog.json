@@ -9,7 +9,6 @@
   "blog.post.create": "새 글 쓰기",
   "blog.post.update": "편집 {title}",
   "blog.post.text": "포스트 텍스트",
-  "common.slug": "SEO 친화적인 주소",
   "blog.slug.explained": "보기 좋은 글의 URL을 만듭니다. \"-\"를 제외한 특수 문자를 사용하지 마세요.",
   "blog.publicView": "공개 뷰",
   "blog.post.notfound": "블로그 글을 찾을 수 없습니다",

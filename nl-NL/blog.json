@@ -9,7 +9,6 @@
   "blog.post.create": "Een nieuw bericht schrijven",
   "blog.post.update": "Bewerken van {title}",
   "blog.post.text": "Berichttekst",
-  "common.slug": "SEO-vriendelijk adres",
   "blog.slug.explained": "Maak een mooie URL voor het bericht. Vermijd het gebruik van speciale tekens, behalve \"-\".",
   "blog.publicView": "Openbare weergave",
   "blog.post.notfound": "Blogbericht niet gevonden",

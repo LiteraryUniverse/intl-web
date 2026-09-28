@@ -31,7 +31,6 @@
   "forums.category.name": "Tên danh mục",
   "forums.category.reactivate": "Kích hoạt lại danh mục",
   "forums.category.settings": "Cài đặt danh mục",
-  "forums.category.slug": "Phần URL SEO",
   "forums.category.titleIsGlobal": "Tiêu đề danh mục này sẽ được hiển thị bằng ngôn ngữ của người dùng nếu chúng tôi hỗ trợ.",
   "forums.create": "Bật diễn đàn",
   "forums.createQuestionLabel": "Đây có phải là một câu hỏi?",

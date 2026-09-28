@@ -9,7 +9,6 @@
   "blog.post.create": "Parašyti naują pranešimą",
   "blog.post.update": "Redaguoti {title}",
   "blog.post.text": "Įrašo tekstas",
-  "common.slug": "SEO draugiškas adresas",
   "blog.slug.explained": "Sukurkite gražiai atrodantį įrašo URL adresą. Venkite specialiųjų simbolių, išskyrus \"-\".",
   "blog.publicView": "Viešas rodinys",
   "blog.post.notfound": "Tinklaraščio įrašas nerastas",

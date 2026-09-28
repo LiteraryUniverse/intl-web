@@ -9,7 +9,6 @@
   "blog.post.create": "নতুন প'ষ্ট লিখক",
   "blog.post.update": "সম্পাদনা কৰা হৈছে {title}",
   "blog.post.text": "পোষ্ট পাঠ",
-  "common.slug": "SEO বন্ধুত্বপূৰ্ণ ঠিংগ নাম",
   "blog.slug.explained": "প'ষ্টটোৰ বাবে এটা সুন্দৰ URL তৈয়াৰ কৰক। \"-\"ৰ বাহিৰে বিশেষ আখৰ ব্যৱহাৰ নকৰিব।",
   "blog.publicView": "সাধাৰণ পৰিদৰ্শন",
   "blog.post.notfound": "ব্লগ পোষ্ট পোৱা নহয়",

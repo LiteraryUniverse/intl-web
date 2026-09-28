@@ -31,7 +31,6 @@
   "forums.category.name": "Nom de la categoria",
   "forums.category.reactivate": "Reactivar categoria",
   "forums.category.settings": "Configuració de la categoria",
-  "forums.category.slug": "Part de l'URL SEO",
   "forums.category.titleIsGlobal": "Aquest títol de categoria es mostrarà en el idioma de l'usuari si el suportem.",
   "forums.create": "Activar fòrum",
   "forums.createQuestionLabel": "Això és una pregunta?",

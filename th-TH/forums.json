@@ -31,7 +31,6 @@
   "forums.category.name": "ชื่อหมวดหมู่",
   "forums.category.reactivate": "เปิดใช้งานหมวดหมู่อีกครั้ง",
   "forums.category.settings": "ตั้งค่าหมวดหมู่",
-  "forums.category.slug": "ส่วน URL SEO",
   "forums.category.titleIsGlobal": "ชื่อหมวดหมู่นี้จะแสดงเป็นภาษาของผู้ใช้ถ้าเราสนับสนุน",
   "forums.create": "เปิดใช้งานฟอรั่ม",
   "forums.createQuestionLabel": "นี่เป็นคำถามหรือไม่?",

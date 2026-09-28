@@ -9,7 +9,6 @@
   "blog.post.create": "Tulis kiriman baru",
   "blog.post.update": "Mengedit {title}",
   "blog.post.text": "Teks pos",
-  "common.slug": "Alamat yang mesra SEO",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "Paparan awam",
   "blog.post.notfound": "Pos blog tidak dijumpai",

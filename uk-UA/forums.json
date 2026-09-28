@@ -31,7 +31,6 @@
   "forums.category.name": "Назва категорії",
   "forums.category.reactivate": "Повторно активувати категорію",
   "forums.category.settings": "Налаштування категорії",
-  "forums.category.slug": "Частина URL для SEO",
   "forums.category.titleIsGlobal": "Заголовок цієї категорії буде відображатися мовою користувача, якщо ми його підтримуємо.",
   "forums.create": "Увімкнути форум",
   "forums.createQuestionLabel": "Це питання?",

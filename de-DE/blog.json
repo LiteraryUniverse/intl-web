@@ -9,7 +9,6 @@
   "blog.post.create": "Einen neuen Beitrag schreiben",
   "blog.post.update": "Bearbeitung von {title}",
   "blog.post.text": "Beitragstext",
-  "common.slug": "SEO-freundliche Adresse",
   "blog.slug.explained": "Erstellen Sie eine ansprechende URL für den Beitrag. Vermeiden Sie die Verwendung von Sonderzeichen außer \"-\".",
   "blog.publicView": "Öffentliche Ansicht",
   "blog.post.notfound": "Blogbeitrag wurde nicht gefunden",

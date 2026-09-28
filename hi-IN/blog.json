@@ -9,7 +9,6 @@
   "blog.post.create": "एक नई पोस्ट लिखें",
   "blog.post.update": "संपादन कर रही हैं {title}",
   "blog.post.text": "पोस्ट टेक्स्ट",
-  "common.slug": "एसईओ फ्रेंडली पता",
   "blog.slug.explained": "पोस्ट के लिए एक अच्छा दिखने वाला URL बनाएं। \"-\" को छोड़कर विशेष वर्णों का उपयोग न करें।",
   "blog.publicView": "सार्वजनिक दृश्य",
   "blog.post.notfound": "ब्लॉग पोस्ट नहीं मिली",

@@ -9,7 +9,6 @@
   "blog.post.create": "Új bejegyzés írása",
   "blog.post.update": "A(z) {title}szerkesztése",
   "blog.post.text": "Bejegyzés szövege",
-  "common.slug": "SEO barát URL",
   "blog.slug.explained": "Hozzon létre egy szépen kinéző URL-címet a bejegyzéshez. Kerülje a speciális karakterek használatát a \"-\" kivételével.",
   "blog.publicView": "Nyilvános megtekintés",
   "blog.post.notfound": "A blogbejegyzés nem található",

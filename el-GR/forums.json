@@ -31,7 +31,6 @@
   "forums.category.name": "Όνομα κατηγορίας",
   "forums.category.reactivate": "Επανενεργοποίηση κατηγορίας",
   "forums.category.settings": "Ρυθμίσεις κατηγορίας",
-  "forums.category.slug": "Μέρος URL για SEO",
   "forums.category.titleIsGlobal": "Ο τίτλος αυτής της κατηγορίας θα εμφανίζεται στη γλώσσα του χρήστη αν την υποστηρίζουμε.",
   "forums.create": "Ενεργοποίηση φόρουμ",
   "forums.createQuestionLabel": "Είναι αυτή μια ερώτηση;",

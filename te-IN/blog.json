@@ -9,7 +9,6 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "సవరించు {title}",
   "blog.post.text": "పోస్టు వచనం",
-  "common.slug": "SEO సౌజన్యం గూర్చి చిరునామా",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "పబ్లిక్ వీక్షణ",
   "blog.post.notfound": "బ్లాగ్ పోస్టు కనపడలేదు",
