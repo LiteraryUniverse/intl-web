@@ -1729,6 +1729,7 @@
   "story.purchase.byArc": "or buy by arc",
   "story.purchase.includes": "Includes all {chaptersCount} chapters",
   "story.purchase.freePreview": "{count, plural, one {First chapter is free to preview} other {First {count} chapters are free to preview}}",
+  "story.purchase.freeChapters": "{count, plural, one {# chapter is free to preview} other {# chapters are free to preview}}",
   "story.purchase.arcIncludes": "Chapters {from}–{to}",
   "story.purchase.savings": "Save {amount}",
   "story.purchase.allArcsCost": "All arcs separately: {price}",
