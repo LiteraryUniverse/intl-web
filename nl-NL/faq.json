@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Hoe verander ik de taal?",
   "faq.answer.settings.changeLanguage": "U kunt de taal van Literary Universe wijzigen in de <a href=\"/user/settings/account\">accountinstellingen</a>.",
   "faq.question.settings.translationMistake": "Ik heb een fout gevonden in de tekst op de website, waar kan ik dit melden?",
-  "faq.answer.settings.translationMistake": "Al onze taalbestanden zijn beschikbaar op GitHub. U kunt <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">daar een probleem indienen</a> of in de Bug-sectie van de feedback, of als u dat wilt, kunt u het direct zelf oplossen via <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">onze Crowdin-pagina</a>.",
+  "faq.answer.settings.translationMistake": "Al onze taalbestanden zijn beschikbaar op GitHub. U kunt <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">daar een probleem indienen</a> of in de Bug-sectie van de feedback, of als u dat wilt, kunt u het direct zelf oplossen via <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">onze vertaalpagina</a>.",
   "faq.question.discovery.explain": "Wat is de Discovery-sectie?",
   "faq.answer.discovery.explain": "In de sectie Ontdekken vindt u nieuwe verhalen, universums, blogs, groepen en andere inhoud. Het is een plek om te ontdekken en nieuwe dingen te vinden om te lezen en van te genieten.",
   "faq.question.discovery.filters": "Hoe kan ik verhalen filteren op genre, taal of tags?",

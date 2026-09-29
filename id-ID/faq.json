@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Bagaimana cara mengubah bahasa?",
   "faq.answer.settings.changeLanguage": "Anda dapat mengubah bahasa Literary Universe di <a href=\"/user/settings/account\">pengaturan akun</a>.",
   "faq.question.settings.translationMistake": "Saya menemukan kesalahan dalam teks di situs web, di mana saya dapat melaporkannya?",
-  "faq.answer.settings.translationMistake": "Semua berkas bahasa kami tersedia di GitHub. Anda dapat <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">mengirimkan masalah di sana</a> atau di bagian Bug pada umpan balik, atau jika Anda mau, Anda dapat memperbaikinya sendiri secara langsung melalui <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">halaman Crowdin kami</a>.",
+  "faq.answer.settings.translationMistake": "Semua berkas bahasa kami tersedia di GitHub. Anda dapat <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">mengirimkan masalah di sana</a> atau di bagian Bug pada umpan balik, atau jika Anda mau, Anda dapat memperbaikinya sendiri secara langsung melalui <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">halaman terjemahan kami</a>.",
   "faq.question.discovery.explain": "Apa yang dimaksud dengan bagian Discovery?",
   "faq.answer.discovery.explain": "Bagian Penemuan adalah tempat Anda dapat menemukan cerita baru, alam semesta, blog, grup, dan konten lainnya. Ini adalah tempat untuk menjelajahi dan menemukan hal-hal baru untuk dibaca dan dinikmati.",
   "faq.question.discovery.filters": "Bagaimana cara memfilter cerita berdasarkan genre, bahasa, atau tag?",

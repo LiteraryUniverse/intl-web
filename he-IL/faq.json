@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "איך משנים את השפה?",
   "faq.answer.settings.changeLanguage": "ניתן לשנות את שפת האתר \"Literary Universe\" <a href=\"/user/settings/account\">בהגדרות החשבון</a>.",
   "faq.question.settings.translationMistake": "מצאתי טעות בטקסט באתר, לאן אוכל לדווח עליה?",
-  "faq.answer.settings.translationMistake": "כל קבצי השפה שלנו זמינים ב-GitHub. תוכלו <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">לדווח על בעיה שם</a> או בקטגוריית \"באגים\" בממשק המשוב, או אם תרצו, תוכלו לתקן אותה בעצמכם ישירות דרך <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">דף ה-Crowdin שלנו</a>.",
+  "faq.answer.settings.translationMistake": "כל קבצי השפה שלנו זמינים ב-GitHub. תוכלו <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">לדווח על בעיה שם</a> או בקטגוריית \"באגים\" בממשק המשוב, או אם תרצו, תוכלו לתקן אותה בעצמכם ישירות דרך <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">דף התרגום שלנו</a>.",
   "faq.question.discovery.explain": "מהו מדור \"דיסקברי\"?",
   "faq.answer.discovery.explain": "במדור \"גילוי\" תוכלו למצוא סיפורים חדשים, יקומים, בלוגים, קבוצות ותכנים נוספים. זהו מקום שבו תוכלו לגלות ולמצוא דברים חדשים לקריאה ולהנאה.",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Cum pot schimba limba?",
   "faq.answer.settings.changeLanguage": "Puteți schimba limba Universului literar în <a href=\"/user/settings/account\">setările contului</a>.",
   "faq.question.settings.translationMistake": "Am găsit o greșeală în textul de pe site, unde o pot raporta?",
-  "faq.answer.settings.translationMistake": "Toate fișierele noastre lingvistice sunt disponibile pe GitHub. Puteți <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">trimite o problemă acolo</a> sau în secțiunea Bug a feedback-ului sau, dacă sunteți înclinat, o puteți repara direct prin intermediul <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">paginii noastre Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Toate fișierele noastre lingvistice sunt disponibile pe GitHub. Puteți <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">trimite o problemă acolo</a> sau în secțiunea Bug a feedback-ului sau, dacă sunteți înclinat, o puteți repara direct prin intermediul <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">paginii noastre de traducere</a>.",
   "faq.question.discovery.explain": "Ce este secțiunea Descoperire?",
   "faq.answer.discovery.explain": "Secțiunea Descoperire este locul unde puteți găsi noi povești, universuri, bloguri, grupuri și alt conținut. Este un loc în care puteți explora și găsi lucruri noi pe care să le citiți și de care să vă bucurați.",
   "faq.question.discovery.filters": "Cum pot filtra povestirile după gen, limbă sau etichete?",

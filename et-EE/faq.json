@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Kuidas keelt muuta?",
   "faq.answer.settings.changeLanguage": "Kirjandusuniversumi keelt saate muuta <a href=\"/user/settings/account\">konto seadetes</a>.",
   "faq.question.settings.translationMistake": "Ma leidsin veebilehel tekstis vea, kus ma saan sellest teatada?",
-  "faq.answer.settings.translationMistake": "Kõik meie keelefailid on saadaval GitHubis. Võite <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">esitada probleemi seal</a> või tagasiside vigade sektsioonis, või kui soovite, saate selle ise otse <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">meie Crowdin'i lehe</a> kaudu parandada.",
+  "faq.answer.settings.translationMistake": "Kõik meie keelefailid on saadaval GitHubis. Võite <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">esitada probleemi seal</a> või tagasiside vigade sektsioonis, või kui soovite, saate selle ise otse <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">meie tõlkelehe</a> kaudu parandada.",
   "faq.question.discovery.explain": "Mis on Discovery sektsioon?",
   "faq.answer.discovery.explain": "Avastamise sektsioonis leiate uusi lugusid, universumeid, blogisid, gruppe ja muud sisu. See on koht, kus saab uurida ja leida uusi asju, mida lugeda ja nautida.",
   "faq.question.discovery.filters": "Kuidas ma saan filtreerida lugusid žanri, keele või siltide järgi?",

@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Ako môžem zmeniť jazyk?",
   "faq.answer.settings.changeLanguage": "Jazyk Literárneho vesmíru môžete zmeniť v <a href=\"/user/settings/account\">nastaveniach účtu</a>.",
   "faq.question.settings.translationMistake": "Našiel som chybu v texte na webovej stránke, kde ju môžem nahlásiť?",
-  "faq.answer.settings.translationMistake": "Všetky naše jazykové súbory sú k dispozícii na GitHube. Môžete <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">tam</a> alebo v sekcii Chyby v spätnej väzbe <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">odoslať problém,</a> alebo ak máte chuť, môžete ho opraviť priamo sami prostredníctvom <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">našej stránky Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Všetky naše jazykové súbory sú k dispozícii na GitHube. Môžete <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">tam</a> alebo v sekcii Chyby v spätnej väzbe <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">odoslať problém,</a> alebo ak máte chuť, môžete ho opraviť priamo sami prostredníctvom <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">našej stránky prekladu</a>.",
   "faq.question.discovery.explain": "Čo je sekcia Discovery?",
   "faq.answer.discovery.explain": "V sekcii Objavovanie nájdete nové príbehy, vesmíry, blogy, skupiny a ďalší obsah. Je to miesto, kde môžete objavovať a nachádzať nové veci na čítanie a zábavu.",
   "faq.question.discovery.filters": "Ako môžem filtrovať príbehy podľa žánru, jazyka alebo značiek?",

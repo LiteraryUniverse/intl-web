@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Miten voin vaihtaa kieltä?",
   "faq.answer.settings.changeLanguage": "Voit vaihtaa Literary Universen kielen <a href=\"/user/settings/account\">tiliasetuksissa</a>.",
   "faq.question.settings.translationMistake": "Löysin virheen verkkosivuston tekstissä, missä voin ilmoittaa siitä?",
-  "faq.answer.settings.translationMistake": "Kaikki kielitiedostomme ovat saatavilla GitHubissa. Voit <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">lähettää ongelman sinne</a> tai palautteen Bug-osiossa, tai jos haluat, voit korjata sen suoraan itse <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">Crowdin-sivumme</a> kautta.",
+  "faq.answer.settings.translationMistake": "Kaikki kielitiedostomme ovat saatavilla GitHubissa. Voit <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">lähettää ongelman sinne</a> tai palautteen Bug-osiossa, tai jos haluat, voit korjata sen suoraan itse <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">käännössivumme</a> kautta.",
   "faq.question.discovery.explain": "Mikä on Discovery-osio?",
   "faq.answer.discovery.explain": "Löytö-osiosta löydät uusia tarinoita, universumeja, blogeja, ryhmiä ja muuta sisältöä. Se on paikka, jossa voit tutkia ja löytää uutta luettavaa ja nautittavaa.",
   "faq.question.discovery.filters": "Miten voin suodattaa tarinoita genren, kielen tai tunnisteiden mukaan?",

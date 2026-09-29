@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Hur ändrar jag språk?",
   "faq.answer.settings.changeLanguage": "Du kan ändra språket i Literary Universe i <a href=\"/user/settings/account\">kontoinställningarna</a>.",
   "faq.question.settings.translationMistake": "Jag har hittat ett fel i texten på webbplatsen, var kan jag anmäla det?",
-  "faq.answer.settings.translationMistake": "Alla våra språkfiler finns tillgängliga på GitHub. Du kan <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">skicka in ett problem där</a> eller i Bug-avsnittet i återkopplingen, eller om du är så benägen kan du fixa det direkt själv via <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">vår Crowdin-sida</a>.",
+  "faq.answer.settings.translationMistake": "Alla våra språkfiler finns tillgängliga på GitHub. Du kan <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">skicka in ett problem där</a> eller i Bug-avsnittet i återkopplingen, eller om du är så benägen kan du fixa det direkt själv via <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">vår översättningssida</a>.",
   "faq.question.discovery.explain": "Vad är Discovery-avsnittet?",
   "faq.answer.discovery.explain": "I Discovery-avdelningen kan du hitta nya berättelser, universum, bloggar, grupper och annat innehåll. Det är en plats där du kan utforska och hitta nya saker att läsa och njuta av.",
   "faq.question.discovery.filters": "Hur kan jag filtrera berättelser efter genre, språk eller taggar?",

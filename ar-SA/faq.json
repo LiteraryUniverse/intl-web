@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "كيف يمكنني تغيير اللغة؟",
   "faq.answer.settings.changeLanguage": "يمكنك تغيير لغة Literary Universe في <a href=\"/user/settings/account\">إعدادات الحساب</a>.",
   "faq.question.settings.translationMistake": "وجدت خطأ في النص على الموقع الإلكتروني، أين يمكنني الإبلاغ عنه؟",
-  "faq.answer.settings.translationMistake": "جميع ملفات اللغة لدينا متاحة على GitHub. يمكنك <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">إرسال مشكلة هناك</a> أو في قسم الأخطاء في الملاحظات، أو إذا كنت تميل إلى ذلك، يمكنك إصلاحها بنفسك مباشرةً عبر <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">صفحة Crowdin الخاصة بنا</a>.",
+  "faq.answer.settings.translationMistake": "جميع ملفات اللغة لدينا متاحة على GitHub. يمكنك <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">إرسال مشكلة هناك</a> أو في قسم الأخطاء في الملاحظات، أو إذا كنت تميل إلى ذلك، يمكنك إصلاحها بنفسك مباشرةً عبر <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">صفحة الترجمة الخاصة بنا</a>.",
   "faq.question.discovery.explain": "ما هو قسم الاكتشاف؟",
   "faq.answer.discovery.explain": "قسم الاكتشاف هو المكان الذي يمكنك العثور فيه على قصص وعوالم ومدونات ومجموعات ومحتويات أخرى جديدة. إنه مكان للاستكشاف والعثور على أشياء جديدة للقراءة والاستمتاع.",
   "faq.question.discovery.filters": "كيف يمكنني تصفية القصص حسب النوع أو اللغة أو العلامات؟",

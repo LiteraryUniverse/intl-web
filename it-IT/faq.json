@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Come posso cambiare la lingua?",
   "faq.answer.settings.changeLanguage": "Può cambiare la lingua di Literary Universe nelle <a href=\"/user/settings/account\">impostazioni</a> dell'<a href=\"/user/settings/account\">account</a>.",
   "faq.question.settings.translationMistake": "Ho trovato un errore nel testo del sito web, dove posso segnalarlo?",
-  "faq.answer.settings.translationMistake": "Tutti i nostri file di lingua sono disponibili su GitHub. Può <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">inviare un problema lì</a> o nella sezione Bug del feedback, oppure, se lo desidera, può risolvere il problema direttamente tramite la <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">nostra pagina Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Tutti i nostri file di lingua sono disponibili su GitHub. Può <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">inviare un problema lì</a> o nella sezione Bug del feedback, oppure, se lo desidera, può risolvere il problema direttamente tramite la <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">nostra pagina di traduzione</a>.",
   "faq.question.discovery.explain": "Che cos'è la sezione Scoperta?",
   "faq.answer.discovery.explain": "La sezione Scoperta è dove può trovare nuove storie, universi, blog, gruppi e altri contenuti. È un luogo in cui esplorare e trovare nuove cose da leggere e apprezzare.",
   "faq.question.discovery.filters": "Come posso filtrare le storie per genere, lingua o tag?",

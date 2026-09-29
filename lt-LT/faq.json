@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Kaip pakeisti kalbą?",
   "faq.answer.settings.changeLanguage": "\"Literary Universe\" kalbą galite pakeisti <a href=\"/user/settings/account\">paskyros nustatymuose</a>.",
   "faq.question.settings.translationMistake": "Kur galėčiau pranešti apie klaidą svetainės tekste?",
-  "faq.answer.settings.translationMistake": "Visi mūsų kalbų failai prieinami \"GitHub\". Galite <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">pateikti problemą ten</a> arba atsiliepimų skiltyje \"Bug\", arba, jei esate linkę, galite ją ištaisyti patys tiesiogiai per <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">mūsų \"Crowdin\" puslapį</a>.",
+  "faq.answer.settings.translationMistake": "Visi mūsų kalbų failai prieinami \"GitHub\". Galite <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">pateikti problemą ten</a> arba atsiliepimų skiltyje \"Bug\", arba, jei esate linkę, galite ją ištaisyti patys tiesiogiai per <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">mūsų vertimo puslapį</a>.",
   "faq.question.discovery.explain": "Kas yra skyrius \"Atradimai\"?",
   "faq.answer.discovery.explain": "Skyriuje \"Atradimai\" rasite naujų istorijų, visatų, tinklaraščių, grupių ir kito turinio. Tai vieta, kurioje galima tyrinėti ir rasti naujų dalykų, kuriuos galima skaityti ir mėgautis.",
   "faq.question.discovery.filters": "Kaip filtruoti istorijas pagal žanrą, kalbą ar žymas?",

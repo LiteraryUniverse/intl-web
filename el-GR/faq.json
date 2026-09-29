@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Πώς μπορώ να αλλάξω τη γλώσσα;",
   "faq.answer.settings.changeLanguage": "Μπορείτε να αλλάξετε τη γλώσσα του Literary Universe στις <a href=\"/user/settings/account\">ρυθμίσεις λογαριασμού</a>.",
   "faq.question.settings.translationMistake": "Βρήκα ένα λάθος στο κείμενο στον ιστότοπο, πού μπορώ να το αναφέρω;",
-  "faq.answer.settings.translationMistake": "Όλα τα γλωσσικά μας αρχεία είναι διαθέσιμα στο GitHub. Μπορείτε να <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">υποβάλετε ένα ζήτημα εκεί</a> ή στην ενότητα Bug των σχολίων, ή αν έχετε την τάση, μπορείτε να το διορθώσετε απευθείας εσείς οι ίδιοι μέσω <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">της σελίδας μας στο Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Όλα τα γλωσσικά μας αρχεία είναι διαθέσιμα στο GitHub. Μπορείτε να <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">υποβάλετε ένα ζήτημα εκεί</a> ή στην ενότητα Bug των σχολίων, ή αν έχετε την τάση, μπορείτε να το διορθώσετε απευθείας εσείς οι ίδιοι μέσω <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">της σελίδας μετάφρασής μας</a>.",
   "faq.question.discovery.explain": "Τι είναι το τμήμα Discovery;",
   "faq.answer.discovery.explain": "Στην ενότητα Discovery μπορείτε να βρείτε νέες ιστορίες, σύμπαντα, ιστολόγια, ομάδες και άλλο περιεχόμενο. Είναι ένα μέρος για να εξερευνήσετε και να βρείτε νέα πράγματα για να διαβάσετε και να απολαύσετε.",
   "faq.question.discovery.filters": "Πώς μπορώ να φιλτράρω τις ιστορίες με βάση το είδος, τη γλώσσα ή τις ετικέτες;",

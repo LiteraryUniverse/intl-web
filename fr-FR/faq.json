@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Comment changer de langue ?",
   "faq.answer.settings.changeLanguage": "Vous pouvez modifier la langue de l'Univers littéraire dans les <a href=\"/user/settings/account\">paramètres du compte</a>.",
   "faq.question.settings.translationMistake": "J'ai trouvé une erreur dans le texte du site web, où puis-je la signaler ?",
-  "faq.answer.settings.translationMistake": "Tous nos fichiers linguistiques sont disponibles sur GitHub. Vous pouvez <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">y soumettre un problème</a> ou dans la section Bug du feedback, ou si vous le souhaitez, vous pouvez le corriger vous-même directement via <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">notre page Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Tous nos fichiers linguistiques sont disponibles sur GitHub. Vous pouvez <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">y soumettre un problème</a> ou dans la section Bug du feedback, ou si vous le souhaitez, vous pouvez le corriger vous-même directement via <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">notre page de traduction</a>.",
   "faq.question.discovery.explain": "Qu'est-ce que la section \"Découverte\" ?",
   "faq.answer.discovery.explain": "La section Découverte est l'endroit où vous pouvez trouver de nouvelles histoires, des univers, des blogs, des groupes et d'autres contenus. C'est un lieu d'exploration et de découverte de nouvelles choses à lire et à apprécier.",
   "faq.question.discovery.filters": "Comment puis-je filtrer les histoires par genre, langue ou tags ?",

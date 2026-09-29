@@ -1,10 +1,9 @@
 # Literary Universe intl-web
 
-[![Translate on Weblate](https://img.shields.io/badge/translate-Weblate-1abc9c)](https://trs.literaryuniverse.com)
+[![Translate](https://img.shields.io/badge/translate-Literary%20Universe-1abc9c)](https://translate.literaryuniverse.com/)
 
-Localization for the Literary Universe web app. Translations are managed in our
-self-hosted **[Weblate](https://trs.literaryuniverse.com)** (migrated from
-Crowdin, 2026-05). Head there to start translating — no Git knowledge needed.
+Localization for the Literary Universe web app. Translations are managed on our
+**[translation page](https://translate.literaryuniverse.com/)**. Head there to start translating — no Git knowledge needed.
 
 Questions or a mistake in the source text? [Open an issue](https://github.com/LiteraryUniverse/intl-web/issues/new/choose).
 

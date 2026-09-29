@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "如何變更語言？",
   "faq.answer.settings.changeLanguage": "您可以在<a href=\"/user/settings/account\">帳戶設定</a>中變更 Literary Universe 的語言。",
   "faq.question.settings.translationMistake": "我發現網站上的文字有錯誤，我可以在哪裡報告？",
-  "faq.answer.settings.translationMistake": "我們所有的語言檔案都可以在 GitHub 上找到。您可以<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">在那裡</a>或回饋的 Bug 區<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">提交問題</a>，如果您有心，也可以直接透過<a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">我們的 Crowdin 頁面</a>自行修正。",
+  "faq.answer.settings.translationMistake": "我們所有的語言檔案都可以在 GitHub 上找到。您可以<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">在那裡</a>或回饋的 Bug 區<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">提交問題</a>，如果您有心，也可以直接透過<a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">我們的翻譯頁面</a>自行修正。",
   "faq.question.discovery.explain": "什麼是發現部分？",
   "faq.answer.discovery.explain": "探索區是您可以找到新故事、宇宙、部落格、群組和其他內容的地方。這是一個探索和尋找新的閱讀和享受的地方。",
   "faq.question.discovery.filters": "如何依類型、語言或標籤篩選故事？",

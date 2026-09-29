@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "மொழியை மாற்றுவது எப்படி?",
   "faq.answer.settings.changeLanguage": "<a href=\"/user/settings/account\">கணக்கு அமைப்புகளில்</a> லிட்டரரி யுனிவர்ஸின் மொழியை மாற்றலாம்.",
   "faq.question.settings.translationMistake": "இணையதளத்தில் உள்ள உரையில் ஒரு தவறைக் கண்டேன், அதை நான் எங்கே புகாரளிக்கலாம்?",
-  "faq.answer.settings.translationMistake": "எங்கள் மொழி கோப்புகள் அனைத்தும் GitHub-ல் கிடைக்கின்றன. நீங்கள் <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">அங்கு ஒரு சிக்கலைப் பதிவு</a> செய்யலாம் அல்லது பின்னூட்டத்தின் பிழைப் பிரிவில் தெரிவிக்கலாம், அல்லது நீங்கள் விரும்பினால், <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">எங்கள் Crowdin பக்கத்தின்</a> வழியாக நீங்களே நேரடியாக அதைச் சரிசெய்யலாம்.",
+  "faq.answer.settings.translationMistake": "எங்கள் மொழி கோப்புகள் அனைத்தும் GitHub-ல் கிடைக்கின்றன. நீங்கள் <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">அங்கு ஒரு சிக்கலைப் பதிவு</a> செய்யலாம் அல்லது பின்னூட்டத்தின் பிழைப் பிரிவில் தெரிவிக்கலாம், அல்லது நீங்கள் விரும்பினால், <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">எங்கள் மொழிபெயர்ப்புப் பக்கத்தின்</a> வழியாக நீங்களே நேரடியாக அதைச் சரிசெய்யலாம்.",
   "faq.question.discovery.explain": "கண்டறிதல் பகுதி என்றால் என்ன?",
   "faq.answer.discovery.explain": "கண்டறிதல் பிரிவில் புதிய கதைகள், பிரபஞ்சங்கள், வலைப்பதிவுகள், குழுக்கள் மற்றும் பிற உள்ளடக்கங்களைக் காணலாம். இது படிக்கவும் ரசிக்கவும் புதிய விஷயங்களைக் கண்டறிந்து ஆராய்வதற்கான ஓர் இடமாகும்.",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

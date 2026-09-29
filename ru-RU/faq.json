@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Как изменить язык?",
   "faq.answer.settings.changeLanguage": "Вы можете изменить язык Literary Universe в <a href=\"/user/settings/account\">настройках учётной записи</a>.",
   "faq.question.settings.translationMistake": "Мной была замечена ошибка в тексте на сайте, где мне о ней сообщить?",
-  "faq.answer.settings.translationMistake": "Все наши языковые файлы доступны на GitHub. Вы можете <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">сообщить об этой проблеме там</a> или в разделе ошибок в обратной связи, или, если вам так хочется, вы можете исправить её самостоятельно на <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">нашей странице Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Все наши языковые файлы доступны на GitHub. Вы можете <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">сообщить об этой проблеме там</a> или в разделе ошибок в обратной связи, или, если вам так хочется, вы можете исправить её самостоятельно на <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">нашей странице перевода</a>.",
   "faq.question.discovery.explain": "Что такое раздел «Путешествие»?",
   "faq.answer.discovery.explain": "Раздел «Исследовать» - это место, где вы можете найти новые истории, миры, блоги, группы и другой контент. Здесь можно исследовать и находить новые материалы для чтения и наслаждения.",
   "faq.question.discovery.filters": "Как я могу отфильтровать истории по жанру, языку или тегам?",

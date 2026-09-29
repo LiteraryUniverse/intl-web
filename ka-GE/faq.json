@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "როგორ შევცვალო ენა?",
   "faq.answer.settings.changeLanguage": "შეგიძლიათ შეცვალოთ ლიტერატურული სამყაროს ენა <a href=\"/user/settings/account\">ანგარიშის პარამეტრებში</a>.",
   "faq.question.settings.translationMistake": "ვებსაიტის ტექსტში შეცდომა ვიპოვე, სად შემიძლია შევატყობინო?",
-  "faq.answer.settings.translationMistake": "ჩვენი ყველა ენობრივი ფაილი ხელმისაწვდომია GitHub-ზე. შეგიძლიათ, <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">შეტყობინება გაგზავნოთ იქ</a>, უკუკავშირის გვერდის \"ბაგების\" სექციაში, ან, სურვილის შემთხვევაში, შეგიძლიათ, თავად გამოასწოროთ ის პირდაპირ <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">ჩვენი Crowdin-ის გვერდის</a> მეშვეობით.",
+  "faq.answer.settings.translationMistake": "ჩვენი ყველა ენობრივი ფაილი ხელმისაწვდომია GitHub-ზე. შეგიძლიათ, <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">შეტყობინება გაგზავნოთ იქ</a>, უკუკავშირის გვერდის \"ბაგების\" სექციაში, ან, სურვილის შემთხვევაში, შეგიძლიათ, თავად გამოასწოროთ ის პირდაპირ <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">ჩვენი თარგმანის გვერდის</a> მეშვეობით.",
   "faq.question.discovery.explain": "რა არის აღმოჩენების სექცია?",
   "faq.answer.discovery.explain": "განყოფილება \"აღმოჩენა\" არის ადგილი, სადაც შეგიძლიათ იპოვოთ ახალი ისტორიები, სამყაროები, ბლოგები, ჯგუფები და სხვა კონტენტი. ეს არის ადგილი, სადაც შეგიძლიათ იკვლიოთ და იპოვოთ ახალი მასალები წასაკითხად და გასართობად.",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

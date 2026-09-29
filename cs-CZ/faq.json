@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Jak změním jazyk?",
   "faq.answer.settings.changeLanguage": "Jazyk Literary Universe můžete změnit v <a href=\"/user/settings/account\">nastavení účtu</a>.",
   "faq.question.settings.translationMistake": "Našel jsem chybu v textu na webových stránkách, kde ji mohu nahlásit?",
-  "faq.answer.settings.translationMistake": "Všechny naše jazykové soubory jsou k dispozici na GitHubu. Můžete <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">odeslat problém tam</a> nebo v sekci Bug v rámci zpětné vazby, nebo pokud máte chuť, můžete jej opravit přímo sami prostřednictvím <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">naší stránky na Crowdinu</a>.",
+  "faq.answer.settings.translationMistake": "Všechny naše jazykové soubory jsou k dispozici na GitHubu. Můžete <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">odeslat problém tam</a> nebo v sekci Bug v rámci zpětné vazby, nebo pokud máte chuť, můžete jej opravit přímo sami prostřednictvím <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">naší překladové stránky</a>.",
   "faq.question.discovery.explain": "Co je sekce Objevování?",
   "faq.answer.discovery.explain": "V sekci Ojevování (Discovery) najdete nové příběhy, vesmíry, blogy, skupiny a další obsah. Je to místo, kde můžete objevovat a nacházet nové věci ke čtení a zábavě.",
   "faq.question.discovery.filters": "Jak mohu filtrovat příběhy podle žánru, jazyka nebo značek?",

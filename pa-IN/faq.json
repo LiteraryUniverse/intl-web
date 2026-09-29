@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "ਮੈਂ ਭਾਸ਼ਾ ਕਿਵੇਂ ਬਦਲਾਂ?",
   "faq.answer.settings.changeLanguage": "ਤੁਸੀਂ <a href=\"/user/settings/account\">ਖਾਤਾ ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਦੀ ਭਾਸ਼ਾ ਬਦਲ ਸਕਦੇ ਹੋ।",
   "faq.question.settings.translationMistake": "ਮੈਂ ਵੈੱਬਸਾਈਟ 'ਤੇ ਲਿਖਤ ਵਿੱਚ ਇੱਕ ਗਲਤੀ ਲੱਭੀ ਹੈ, ਮੈਂ ਇਸਦੀ ਰਿਪੋਰਟ ਕਿੱਥੇ ਕਰ ਸਕਦਾ ਹਾਂ?",
-  "faq.answer.settings.translationMistake": "ਸਾਡੀਆਂ ਸਾਰੀਆਂ ਭਾਸ਼ਾ ਫਾਈਲਾਂ GitHub 'ਤੇ ਉਪਲਬਧ ਹਨ। ਤੁਸੀਂ <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">ਉੱਥੇ ਇੱਕ issue ਦਰਜ ਕਰ</a> ਸਕਦੇ ਹੋ ਜਾਂ ਫੀਡਬੈਕ ਦੇ ਬੱਗ ਸੈਕਸ਼ਨ ਵਿੱਚ <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">ਭੇਜ</a> ਸਕਦੇ ਹੋ, ਜਾਂ ਜੇ ਤੁਸੀਂ ਚਾਹੋ ਤਾਂ <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">ਸਾਡੇ Crowdin ਪੇਜ</a> ਰਾਹੀਂ ਸਿੱਧਾ ਖੁਦ ਹੀ ਠੀਕ ਕਰ ਸਕਦੇ ਹੋ।",
+  "faq.answer.settings.translationMistake": "ਸਾਡੀਆਂ ਸਾਰੀਆਂ ਭਾਸ਼ਾ ਫਾਈਲਾਂ GitHub 'ਤੇ ਉਪਲਬਧ ਹਨ। ਤੁਸੀਂ <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">ਉੱਥੇ ਇੱਕ issue ਦਰਜ ਕਰ</a> ਸਕਦੇ ਹੋ ਜਾਂ ਫੀਡਬੈਕ ਦੇ ਬੱਗ ਸੈਕਸ਼ਨ ਵਿੱਚ <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">ਭੇਜ</a> ਸਕਦੇ ਹੋ, ਜਾਂ ਜੇ ਤੁਸੀਂ ਚਾਹੋ ਤਾਂ <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">ਸਾਡੇ ਅਨੁਵਾਦ ਪੰਨੇ</a> ਰਾਹੀਂ ਸਿੱਧਾ ਖੁਦ ਹੀ ਠੀਕ ਕਰ ਸਕਦੇ ਹੋ।",
   "faq.question.discovery.explain": "ਡਿਸਕਵਰੀ ਸੈਕਸ਼ਨ ਕੀ ਹੈ?",
   "faq.answer.discovery.explain": "ਡਿਸਕਵਰੀ ਸੈਕਸ਼ਨ ਉਹ ਥਾਂ ਹੈ ਜਿੱਥੇ ਤੁਸੀਂ ਨਵੀਆਂ ਕਹਾਣੀਆਂ, ਬ੍ਰਹਿਮੰਡ, ਬਲੌਗ, ਗਰੁੱਪ ਅਤੇ ਹੋਰ ਸਮੱਗਰੀ ਲੱਭ ਸਕਦੇ ਹੋ। ਇਹ ਪੜ੍ਹਨ ਅਤੇ ਮਨੋਰੰਜਨ ਲਈ ਨਵੀਆਂ ਚੀਜ਼ਾਂ ਖੋਜਣ ਅਤੇ ਲੱਭਣ ਦੀ ਥਾਂ ਹੈ।",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

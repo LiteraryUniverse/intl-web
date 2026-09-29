@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Como posso alterar a língua?",
   "faq.answer.settings.changeLanguage": "Pode alterar a língua do Universo Literário nas <a href=\"/user/settings/account\">definições da conta</a>.",
   "faq.question.settings.translationMistake": "Encontrei um erro no texto do sítio Web, onde posso comunicá-lo?",
-  "faq.answer.settings.translationMistake": "Todos os nossos ficheiros de idiomas estão disponíveis no GitHub. Pode <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">submeter um problema aí</a> ou na secção Bug do feedback, ou, se quiser, pode corrigi-lo diretamente através da <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">nossa página Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Todos os nossos ficheiros de idiomas estão disponíveis no GitHub. Pode <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">submeter um problema aí</a> ou na secção Bug do feedback, ou, se quiser, pode corrigi-lo diretamente através da <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">nossa página de tradução</a>.",
   "faq.question.discovery.explain": "O que é a secção Descoberta?",
   "faq.answer.discovery.explain": "A secção Descoberta é onde pode encontrar novas histórias, universos, blogues, grupos e outros conteúdos. É um local para explorar e encontrar coisas novas para ler e desfrutar.",
   "faq.question.discovery.filters": "Como posso filtrar histórias por género, idioma ou etiquetas?",

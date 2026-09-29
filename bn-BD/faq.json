@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "আমি ভাষা কীভাবে পরিবর্তন করব?",
   "faq.answer.settings.changeLanguage": "আপনি <a href=\"/user/settings/account\">অ্যাকাউন্ট সেটিংসে</a> লিটারারি ইউনিভার্সের ভাষা পরিবর্তন করতে পারেন।",
   "faq.question.settings.translationMistake": "আমি ওয়েবসাইটের tekste একটি ভুল পেয়েছি, আমি এটি কোথায় রিপোর্ট করতে পারি?",
-  "faq.answer.settings.translationMistake": "আমাদের সব ভাষা ফাইল GitHub-এ উপলব্ধ। আপনি <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">সেখানে একটি ইস্যু জমা দিতে</a> পারেন অথবা ফিডব্যাকের বাগ বিভাগে জমা দিতে পারেন, অথবা ইচ্ছা করলে সরাসরি <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">আমাদের Crowdin পেজের</a> মাধ্যমে নিজেই ঠিক করতে পারেন।",
+  "faq.answer.settings.translationMistake": "আমাদের সব ভাষা ফাইল GitHub-এ উপলব্ধ। আপনি <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">সেখানে একটি ইস্যু জমা দিতে</a> পারেন অথবা ফিডব্যাকের বাগ বিভাগে জমা দিতে পারেন, অথবা ইচ্ছা করলে সরাসরি <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">আমাদের অনুবাদ পেজের</a> মাধ্যমে নিজেই ঠিক করতে পারেন।",
   "faq.question.discovery.explain": "ডিসকভারি সেকশন কী?",
   "faq.answer.discovery.explain": "ডিসকভারি সেকশন হল সেই জায়গা যেখানে আপনি নতুন গল্প, মহাবিশ্ব, ব্লগ, গ্রুপ এবং অন্যান্য বিষয়বস্তু খুঁজে পেতে পারেন। এটি এমন একটি জায়গা যেখানে আপনি নতুন কিছু অন্বেষণ করতে এবং পড়তে ও উপভোগ করতে পারেন।",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

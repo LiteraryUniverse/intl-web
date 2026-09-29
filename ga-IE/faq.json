@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Conas a athraím an teanga?",
   "faq.answer.settings.changeLanguage": "Is féidir leat teanga Literary Universe a athrú sna <a href=\"/user/settings/account\">socruithe cuntais</a>.",
   "faq.question.settings.translationMistake": "Fuair mé botún sa téacs ar an suíomh gréasáin, cá bhféadfainn é a thuairisciú?",
-  "faq.answer.settings.translationMistake": "Tá ár gcomhaid teanga go léir ar fáil ar GitHub. Is féidir leat <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">fadhb a thuairisciú ansin</a> nó sa rannóg Míreanna den fheidback, nó más mian leat, is féidir leat í a réiteach díreach tú féin <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">trínár leathanach Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Tá ár gcomhaid teanga go léir ar fáil ar GitHub. Is féidir leat <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">fadhb a thuairisciú ansin</a> nó sa rannóg Míreanna den fheidback, nó más mian leat, is féidir leat í a réiteach díreach tú féin <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">trínár leathanach aistriúcháin</a>.",
   "faq.question.discovery.explain": "Cad is é an rannóg Discovery?",
   "faq.answer.discovery.explain": "Is sa rannóg Discovery is féidir leat teacht ar scéalta nua, cruinní, blaganna, grúpaí agus ábhar eile. Is áit í chun rudaí nua a fhiosrú agus a aimsiú le léamh agus le baint taitnimh astu.",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

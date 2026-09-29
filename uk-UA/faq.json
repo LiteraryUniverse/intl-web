@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Як змінити мову?",
   "faq.answer.settings.changeLanguage": "Ви можете змінити мову Літературного Всесвіту в <a href=\"/user/settings/account\">налаштуваннях</a> акаунта.",
   "faq.question.settings.translationMistake": "Я знайшов помилку в тексті на сайті, куди я можу повідомити про це?",
-  "faq.answer.settings.translationMistake": "Усі наші мовні файли доступні на GitHub. Ви можете <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">повідомити про проблему там</a> або в розділі \"Баги\" у зворотному зв'язку, або, якщо хочете, ви можете виправити її безпосередньо на <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">нашій сторінці Crowdin</a>.",
+  "faq.answer.settings.translationMistake": "Усі наші мовні файли доступні на GitHub. Ви можете <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">повідомити про проблему там</a> або в розділі \"Баги\" у зворотному зв'язку, або, якщо хочете, ви можете виправити її безпосередньо на <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">нашій сторінці перекладу</a>.",
   "faq.question.discovery.explain": "Що таке розділ \"Відкриття\"?",
   "faq.answer.discovery.explain": "У розділі \"Відкриття\" ви можете знайти нові історії, всесвіти, блоги, групи та інший контент. Це місце, де можна досліджувати і знаходити нові речі для читання і насолоди.",
   "faq.question.discovery.filters": "Як відфільтрувати історії за жанром, мовою чи тегами?",

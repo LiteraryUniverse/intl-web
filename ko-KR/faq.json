@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "언어를 변경하려면 어떻게 하나요?",
   "faq.answer.settings.changeLanguage": "<a href=\"/user/settings/account\">계정 설정에서</a> 문학 유니버스의 언어를 변경할 수 있습니다.",
   "faq.question.settings.translationMistake": "웹사이트의 텍스트에서 오류를 발견했는데 어디에서 신고할 수 있나요?",
-  "faq.answer.settings.translationMistake": "모든 언어 파일은 GitHub에서 사용할 수 있습니다. <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">그곳이나</a> 피드백의 버그 섹션에서 <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">문제를 제출하거나</a>, 원한다면 <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">크라우드인 페이지를</a> 통해 직접 문제를 수정할 수 있습니다.",
+  "faq.answer.settings.translationMistake": "모든 언어 파일은 GitHub에서 사용할 수 있습니다. <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">그곳이나</a> 피드백의 버그 섹션에서 <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">문제를 제출하거나</a>, 원한다면 <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">번역 페이지를</a> 통해 직접 문제를 수정할 수 있습니다.",
   "faq.question.discovery.explain": "디스커버리 섹션이란 무엇인가요?",
   "faq.answer.discovery.explain": "발견 섹션에서는 새로운 스토리, 세계관, 블로그, 그룹 및 기타 콘텐츠를 찾을 수 있습니다. 새로운 읽을거리와 즐길 거리를 탐색하고 찾을 수 있는 곳입니다.",
   "faq.question.discovery.filters": "장르, 언어 또는 태그별로 스토리를 필터링하려면 어떻게 해야 하나요?",

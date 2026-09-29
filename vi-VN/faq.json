@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "Làm thế nào để thay đổi ngôn ngữ?",
   "faq.answer.settings.changeLanguage": "Bạn có thể thay đổi ngôn ngữ của Literary Universe trong phần <a href=\"/user/settings/account\">cài đặt tài khoản</a>.",
   "faq.question.settings.translationMistake": "Tôi phát hiện ra một lỗi trong nội dung trên trang web, tôi có thể báo cáo lỗi này ở đâu?",
-  "faq.answer.settings.translationMistake": "Tất cả các tệp ngôn ngữ của chúng tôi đều có sẵn trên GitHub. Bạn có thể <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">gửi báo cáo sự cố tại đó</a> hoặc trong phần Lỗi của mục phản hồi; hoặc nếu muốn, bạn có thể tự sửa lỗi trực tiếp qua <a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">trang Crowdin của chúng tôi</a>.",
+  "faq.answer.settings.translationMistake": "Tất cả các tệp ngôn ngữ của chúng tôi đều có sẵn trên GitHub. Bạn có thể <a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">gửi báo cáo sự cố tại đó</a> hoặc trong phần Lỗi của mục phản hồi; hoặc nếu muốn, bạn có thể tự sửa lỗi trực tiếp qua <a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">trang dịch của chúng tôi</a>.",
   "faq.question.discovery.explain": "Phần Khám phá là gì?",
   "faq.answer.discovery.explain": "Phần Khám phá là nơi bạn có thể tìm thấy những câu chuyện, thế giới, blog, nhóm và các nội dung mới. Đây là nơi để bạn khám phá và tìm kiếm những điều mới mẻ để đọc và thưởng thức.",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

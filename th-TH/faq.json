@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "ฉันจะเปลี่ยนภาษาได้อย่างไร?",
   "faq.answer.settings.changeLanguage": "คุณสามารถเปลี่ยนภาษาของ Literary Universe<a href=\"/user/settings/account\">ได้ในการตั้งค่าบัญชี</a>",
   "faq.question.settings.translationMistake": "ฉันพบข้อผิดพลาดในข้อความบนเว็บไซต์ ฉันสามารถรายงานได้ที่ไหน?",
-  "faq.answer.settings.translationMistake": "ไฟล์ภาษาทั้งหมดของเราสามารถดาวน์โหลดได้บน GitHub<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">คุณสามารถส่งปัญหาได้ที่นั่นหรือ</a>ในส่วนข้อบกพร่องของส่วนข้อเสนอแนะ หรือหากคุณต้องการ คุณสามารถแก้ไขได้<a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">โดยตรงผ่านหน้า Crowdin ของเรา</a>",
+  "faq.answer.settings.translationMistake": "ไฟล์ภาษาทั้งหมดของเราสามารถดาวน์โหลดได้บน GitHub<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">คุณสามารถส่งปัญหาได้ที่นั่นหรือ</a>ในส่วนข้อบกพร่องของส่วนข้อเสนอแนะ หรือหากคุณต้องการ คุณสามารถแก้ไขได้<a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">โดยตรงผ่านหน้าแปลของเรา</a>",
   "faq.question.discovery.explain": "ส่วนการค้นพบคืออะไร?",
   "faq.answer.discovery.explain": "ส่วนการค้นพบคือที่ที่คุณสามารถค้นหาเรื่องราวใหม่ ๆ, จักรวาล, บล็อก, กลุ่ม และเนื้อหาอื่น ๆ ได้. นี่คือที่ที่คุณสามารถสำรวจและค้นหาสิ่งใหม่ ๆ ให้อ่านและเพลิดเพลินได้.",
   "faq.question.discovery.filters": "How can I filter stories by genre, language, or tags?",

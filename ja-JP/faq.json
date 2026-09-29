@@ -29,7 +29,7 @@
   "faq.question.settings.changeLanguage": "言語を変更するには？",
   "faq.answer.settings.changeLanguage": "リテラリーユニバースの言語は<a href=\"/user/settings/account\">アカウント</a>設定で変更できます。",
   "faq.question.settings.translationMistake": "ウェブサイトの文章に間違いを見つけたのですが、どこに報告すればいいですか？",
-  "faq.answer.settings.translationMistake": "すべての言語ファイルは<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">GitHubで</a>公開されています。そこかフィードバックの Bug セクションに問題を提出することができますし、もしその気があれば、<a href=\"https://crowdin.com/project/literary-universe\" target=\"_blank\">私たちの Crowdin ページ</a>から直接修正することもできます。",
+  "faq.answer.settings.translationMistake": "すべての言語ファイルは<a target=\"_blank\" href=\"https://github.com/LiteraryUniverse/intl-web/issues/new/choose\">GitHubで</a>公開されています。そこかフィードバックの Bug セクションに問題を提出することができますし、もしその気があれば、<a href=\"https://translate.literaryuniverse.com/\" target=\"_blank\">私たちの翻訳ページ</a>から直接修正することもできます。",
   "faq.question.discovery.explain": "ディスカバリー・セクションとは何ですか？",
   "faq.answer.discovery.explain": "ディスカバリー・セクションでは、新しいストーリー、ユニバース、ブログ、グループ、その他のコンテンツを見つけることができます。探検し、読んで楽しむ新しいものを見つける場所です。",
   "faq.question.discovery.filters": "ジャンル、言語、タグでストーリーをフィルタリングする方法は？",
