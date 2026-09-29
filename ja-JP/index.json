@@ -6341,7 +6341,7 @@
   "workshop.epub.next": "続きを読む",
   "workshop.epub.follow": "{author}をフォローして、ほかの作品も見つけましょう",
   "workshop.epub.review": "Literary Universeの作品ページで、続きを読むことやレビューを投稿することができます。",
-  "workshop.epub.rights.reserved": "© {holder}。無断転載を禁じます。",
+  "workshop.epub.rights.reserved": "© {holder} All rights reserved.",
   "workshop.epub.rights.cc": "© {holder}。Creative Commons {code} 4.0 ライセンスの下で提供されています： {url}",
   "workshop.epub.rights.cc0": "Creative Commons CC0 1.0 に基づき、パブリックドメインに提供されています： {url}",
   "workshop.story.alternateFormats.epub.kdpSelect": "この本がKDP Selectに登録されている場合は、このEPUBを配布する前にデジタル版の独占販売条件を確認してください。",
