@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Hur hanterar jag revideringar och historik?",
   "faq.answer.workshop.revisions": "Varje gång du skapar en revision sparas den i databasen. Du kan se kommentarer till tidigare revisioner i redigeringsverktyget eller i versionshistoriken.",
   "faq.question.workshop.exporting": "Hur kan jag exportera mitt arbete från verkstaden?",
-  "faq.answer.workshop.exporting": "Vi arbetar för närvarande med exportfunktionen och publicering på andra plattformar (för icke-exklusiva verk).",
+  "faq.answer.workshop.exporting": "Öppna din berättelse i verkstaden och gå till Alternativa format. Där kan du skapa en EPUB av hela berättelsen eller av en enskild berättelsebåge, och ladda upp egna EPUB- eller PDF-filer. EPUB-generering finns i abonnemang som inkluderar Nedladdningar av berättelser. Du kan också exportera all din kontodata, inklusive berättelser, som en JSON-fil från dina inställningar. Publicering på andra plattformar (för icke-exklusiva verk) är fortfarande under utveckling.",
   "faq.question.workshop.troubleshooting": "Vad händer om verkstaden inte sparar eller laddar mitt arbete?",
   "faq.answer.workshop.troubleshooting": "Kontrollera om det finns några felmeddelanden synliga någonstans, kontrollera sedan din internetanslutning och försök uppdatera sidan. Om problemen kvarstår, kontakta support för att få hjälp.",
   "faq.question.library.addItem": "Hur lägger jag till en berättelse eller ett universum i mitt bibliotek?",

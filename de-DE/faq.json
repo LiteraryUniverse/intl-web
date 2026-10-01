@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Wie verwalte ich Revisionen und den Verlauf?",
   "faq.answer.workshop.revisions": "Jedes Mal, wenn Sie eine Revision erstellen, wird diese in der Datenbank gespeichert. Sie können Kommentare zu früheren Revisionen über den Editor oder in der Versionshistorie einsehen.",
   "faq.question.workshop.exporting": "Wie kann ich meine Arbeit aus dem Workshop exportieren?",
-  "faq.answer.workshop.exporting": "Wir arbeiten derzeit an der Exportfunktion und der Veröffentlichung auf anderen Plattformen (für nicht-exklusive Werke).",
+  "faq.answer.workshop.exporting": "Öffnen Sie Ihre Geschichte im Workshop und gehen Sie zu „Abweichende Formate“. Dort können Sie ein EPUB der gesamten Geschichte oder eines einzelnen Bogens erzeugen und eigene EPUB- oder PDF-Dateien hochladen. Die EPUB-Erzeugung ist in Plänen verfügbar, die „Story-Downloads“ enthalten. Sie können außerdem alle Ihre Kontodaten einschließlich Ihrer Geschichten in Ihren Einstellungen als JSON-Datei exportieren. Die Veröffentlichung auf anderen Plattformen (für nicht-exklusive Werke) befindet sich noch in der Entwicklung.",
   "faq.question.workshop.troubleshooting": "Was ist, wenn der Workshop meine Arbeit nicht speichert oder lädt?",
   "faq.answer.workshop.troubleshooting": "Prüfen Sie, ob irgendwo Fehlermeldungen angezeigt werden, überprüfen Sie dann Ihre Internetverbindung und versuchen Sie, die Seite zu aktualisieren. Wenn die Probleme weiterhin bestehen, wenden Sie sich an den Support.",
   "faq.question.library.addItem": "Wie kann ich eine Geschichte oder ein Universum zu meiner Bibliothek hinzufügen?",

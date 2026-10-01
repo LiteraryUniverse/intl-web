@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Kaip tvarkyti pataisymus ir istoriją?",
   "faq.answer.workshop.revisions": "Kiekvieną kartą, kai sukuriate peržiūrą, ji išsaugoma duomenų bazėje. Ankstesnių peržiūrų komentarus galite peržiūrėti per redaktorių arba versijų istorijoje.",
   "faq.question.workshop.exporting": "Kaip galiu eksportuoti savo darbą iš dirbtuvių?",
-  "faq.answer.workshop.exporting": "Šiuo metu rengiame eksporto funkciją ir publikavimą kitose platformose (neišskirtiniams kūriniams).",
+  "faq.answer.workshop.exporting": "Atidarykite savo istoriją Dirbtuvėse ir eikite į „Alternatyvūs formatai“. Ten galite sugeneruoti visos istorijos arba atskiros arkos EPUB ir įkelti savo EPUB ar PDF failus. EPUB generavimas galimas planuose, į kuriuos įeina „Istorijos atsisiuntimai“. Taip pat nustatymuose galite eksportuoti visus savo paskyros duomenis, įskaitant istorijas, kaip JSON failą. Publikavimas kitose platformose (neišskirtiniams kūriniams) vis dar kuriamas.",
   "faq.question.workshop.troubleshooting": "Ką daryti, jei dirbtuvės neišsaugo arba neįkelia mano darbo?",
   "faq.answer.workshop.troubleshooting": "Patikrinkite, ar niekur nematyti klaidų pranešimų, tada patikrinkite interneto ryšį ir pabandykite atnaujinti puslapį. Jei problemos išlieka, kreipkitės pagalbos į palaikymo tarnybą.",
   "faq.question.library.addItem": "Kaip į savo biblioteką įtraukti istoriją ar visatą?",

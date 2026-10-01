@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Ako môžem spravovať revízie a históriu?",
   "faq.answer.workshop.revisions": "Pri každom vytvorení revízie sa táto revízia uloží do databázy. Komentáre k predchádzajúcim revíziám môžete zobraziť prostredníctvom editora alebo v histórii verzií.",
   "faq.question.workshop.exporting": "Ako môžem exportovať svoju prácu zo služby Workshop?",
-  "faq.answer.workshop.exporting": "V súčasnosti pracujeme na funkcii exportu a publikovania na iných platformách (pre nevýhradné diela).",
+  "faq.answer.workshop.exporting": "Otvorte svoj príbeh v Dielni a prejdite na Alternatívne formáty. Tam môžete vygenerovať EPUB celého príbehu alebo jedného príbehového oblúka a nahrať vlastné súbory EPUB alebo PDF. Generovanie EPUB je dostupné v plánoch, ktoré zahŕňajú funkciu Príbeh na stiahnutie. Všetky údaje svojho účtu vrátane príbehov môžete tiež exportovať ako súbor JSON vo svojich nastaveniach. Publikovanie na iných platformách (pre nevýhradné diela) je stále vo vývoji.",
   "faq.question.workshop.troubleshooting": "Čo robiť, ak Workshop neukladá alebo nenačíta moju prácu?",
   "faq.answer.workshop.troubleshooting": "Skontrolujte, či sa nikde nezobrazujú chybové hlásenia, potom skontrolujte internetové pripojenie a skúste obnoviť stránku. Ak problémy pretrvávajú, obráťte sa na podporu a požiadajte o pomoc.",
   "faq.question.library.addItem": "Ako môžem pridať príbeh alebo vesmír do svojej knižnice?",

@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Jak zarządzać wersjami i historią?",
   "faq.answer.workshop.revisions": "Za każdym razem, gdy tworzą Państwo wersję, jest ona zapisywana w bazie danych. Komentarze do poprzednich wersji można przeglądać w edytorze lub w historii wersji.",
   "faq.question.workshop.exporting": "Jak mogę wyeksportować moją pracę z Warsztatu?",
-  "faq.answer.workshop.exporting": "Obecnie pracujemy nad funkcją eksportu i publikacją na innych platformach (dla utworów niewyłącznych).",
+  "faq.answer.workshop.exporting": "Otwórz swoją opowieść w Warsztacie i przejdź do sekcji Alternatywne formaty. Możesz tam wygenerować EPUB całej opowieści lub pojedynczego łuku fabularnego oraz przesłać własne pliki EPUB lub PDF. Generowanie EPUB jest dostępne w planach obejmujących funkcję Pobieranie historii. Możesz też wyeksportować wszystkie dane swojego konta, w tym opowieści, jako plik JSON z poziomu ustawień. Publikacja na innych platformach (dla utworów niewyłącznych) jest wciąż w przygotowaniu.",
   "faq.question.workshop.troubleshooting": "Co zrobić, jeśli Warsztat nie zapisuje lub nie ładuje mojej pracy?",
   "faq.answer.workshop.troubleshooting": "Proszę sprawdzić, czy gdziekolwiek widoczne są komunikaty o błędach, a następnie sprawdzić połączenie internetowe i spróbować odświeżyć stronę. Jeśli problemy nie ustąpią, proszę skontaktować się z pomocą techniczną.",
   "faq.question.library.addItem": "Jak dodać historię lub uniwersum do mojej biblioteki?",

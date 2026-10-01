@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "How do I manage revisions and history?",
   "faq.answer.workshop.revisions": "Every time you create a revision it is saved in the database. You can view comments on previous revisions through the editor or in version history.",
   "faq.question.workshop.exporting": "How can I export my work from the Workshop?",
-  "faq.answer.workshop.exporting": "We are currently working on the export feature and publication on other platforms (for non-exclusive works).",
+  "faq.answer.workshop.exporting": "কৰ্মশালাত আপোনাৰ কাহিনীটো খোলক আৰু \"বিকল্প ফৰ্মেট\"-ত যাওক। তাত আপুনি সম্পূৰ্ণ কাহিনীৰ বা এটা আৰ্কৰ EPUB সৃষ্টি কৰিব পাৰে, আৰু নিজৰ EPUB বা PDF ফাইল আপল'ড কৰিব পাৰে। \"কাহিনী ডাউনল'ড\" অন্তৰ্ভুক্ত থকা সাবস্ক্ৰিপশ্যন পদ্ধতিসমূহত EPUB সৃষ্টিৰ সুবিধা উপলব্ধ। আপুনি আপোনাৰ ছেটিংছৰ পৰা কাহিনীসমূহকে ধৰি আপোনাৰ একাউণ্টৰ সকলো তথ্য এটা JSON ফাইল হিচাপে এক্সপ'ৰ্টো কৰিব পাৰে। অন্য প্লেটফৰ্মত প্ৰকাশন (অ-একচেটিয়া ৰচনাৰ বাবে) এতিয়াও বিকাশৰ পৰ্যায়ত আছে।",
   "faq.question.workshop.troubleshooting": "What if the Workshop is not saving or loading my work?",
   "faq.answer.workshop.troubleshooting": "Check if there are any error messages visible anywhere, then check your internet connection and try refreshing the page. If issues persist, contact support for help.",
   "faq.question.library.addItem": "How do I add a story or universe to my library?",

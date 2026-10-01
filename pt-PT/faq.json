@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Como é que posso gerir as revisões e o histórico?",
   "faq.answer.workshop.revisions": "Sempre que cria uma revisão, esta é guardada na base de dados. Pode ver comentários sobre revisões anteriores através do editor ou no histórico de versões.",
   "faq.question.workshop.exporting": "Como é que posso exportar o meu trabalho da Oficina?",
-  "faq.answer.workshop.exporting": "Estamos atualmente a trabalhar na funcionalidade de exportação e publicação noutras plataformas (para obras não exclusivas).",
+  "faq.answer.workshop.exporting": "Abra a sua história na Oficina e vá a Formatos alternativos. Aí pode gerar um EPUB da história completa ou de um único arco e carregar os seus próprios ficheiros EPUB ou PDF. A geração de EPUB está disponível nos planos que incluem Transferências de histórias. Também pode exportar todos os dados da sua conta, incluindo as histórias, como um ficheiro JSON a partir das suas configurações. A publicação noutras plataformas (para obras não exclusivas) ainda está em desenvolvimento.",
   "faq.question.workshop.troubleshooting": "E se a Oficina não estiver a guardar ou a carregar o meu trabalho?",
   "faq.answer.workshop.troubleshooting": "Verifique se existem mensagens de erro visíveis em qualquer lugar, depois verifique a sua ligação à Internet e tente atualizar a página. Se os problemas persistirem, contacte o suporte para obter ajuda.",
   "faq.question.library.addItem": "Como é que adiciono uma história ou um universo à minha biblioteca?",

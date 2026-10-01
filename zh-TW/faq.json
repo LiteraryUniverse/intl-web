@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "如何管理修訂和歷史記錄？",
   "faq.answer.workshop.revisions": "每次您建立一個修訂版本，它都會儲存在資料庫中。您可以透過編輯器或在版本歷史中檢視先前修訂的評論。",
   "faq.question.workshop.exporting": "如何從 Workshop 匯出我的作品？",
-  "faq.answer.workshop.exporting": "我們目前正致力於導出功能和在其他平台上出版（針對非獨家作品）。",
+  "faq.answer.workshop.exporting": "在工作坊中開啟您的故事，然後前往「替代格式」。您可以在那裡產生整部故事或單一篇章的 EPUB，也可以上傳自己的 EPUB 或 PDF 檔案。包含「故事下載」的方案才提供 EPUB 產生功能。您也可以在設定中將所有帳戶資料（包含故事）匯出為 JSON 檔案。在其他平台上出版（針對非獨家作品）仍在開發中。",
   "faq.question.workshop.troubleshooting": "如果工作坊無法儲存或載入我的作品，該怎麼辦？",
   "faq.answer.workshop.troubleshooting": "檢查是否有任何可見的錯誤訊息，然後檢查您的網際網路連線，並嘗試重新整理頁面。如果問題仍然存在，請聯絡支援人員尋求協助。",
   "faq.question.library.addItem": "如何將故事或宇宙加入我的圖書館？",

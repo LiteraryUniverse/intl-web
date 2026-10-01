@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Kuidas hallata parandusi ja ajalugu?",
   "faq.answer.workshop.revisions": "Iga kord, kui loote paranduse, salvestatakse see andmebaasi. Eelmiste redaktsioonide kommentaare saate vaadata redaktori või versiooniajaloo kaudu.",
   "faq.question.workshop.exporting": "Kuidas ma saan oma tööd töötoast eksportida?",
-  "faq.answer.workshop.exporting": "Praegu töötame ekspordifunktsiooni ja muudel platvormidel avaldamise kallal (mitte-eksklusiivsete teoste puhul).",
+  "faq.answer.workshop.exporting": "Avage oma lugu töötoas ja minge jaotisesse Alternatiivsed vormingud. Seal saate luua EPUB-i kogu loost või üksikust kaarest ning üles laadida oma EPUB- või PDF-faile. EPUB-i loomine on saadaval pakettides, mis sisaldavad funktsiooni Loo allalaadimine. Samuti saate seadetest eksportida kõik oma konto andmed, sealhulgas lood, JSON-failina. Muudel platvormidel avaldamine (mitte-eksklusiivsete teoste puhul) on veel arendamisel.",
   "faq.question.workshop.troubleshooting": "Mis siis, kui töötuba ei salvesta ega lae minu tööd?",
   "faq.answer.workshop.troubleshooting": "Kontrollige, kas kuskil on näha veateateid, seejärel kontrollige oma internetiühendust ja proovige lehte värskendada. Kui probleemid püsivad, võtke abi saamiseks ühendust klienditoega.",
   "faq.question.library.addItem": "Kuidas lisada lugu või universum oma raamatukogusse?",

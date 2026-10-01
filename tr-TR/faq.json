@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Revizyonları ve geçmişi nasıl yönetirim?",
   "faq.answer.workshop.revisions": "Her revizyon oluşturduğunuzda veritabanına kaydedilir. Önceki revizyonlar hakkındaki yorumları editör aracılığıyla veya sürüm geçmişinde görüntüleyebilirsiniz.",
   "faq.question.workshop.exporting": "Çalışmalarımı Atölye'den nasıl dışa aktarabilirim?",
-  "faq.answer.workshop.exporting": "Şu anda dışa aktarma özelliği ve diğer platformlarda yayınlama (münhasır olmayan çalışmalar için) üzerinde çalışıyoruz.",
+  "faq.answer.workshop.exporting": "Hikayenizi Atölye'de açın ve Alternatif formatlar bölümüne gidin. Burada hikayenin tamamının veya tek bir hikaye yayının EPUB dosyasını oluşturabilir, kendi EPUB veya PDF dosyalarınızı yükleyebilirsiniz. EPUB oluşturma, Hikaye indirmeleri özelliğini içeren planlarda kullanılabilir. Ayrıca hikayeleriniz dahil tüm hesap verilerinizi ayarlarınızdan JSON dosyası olarak dışa aktarabilirsiniz. Diğer platformlarda yayınlama (münhasır olmayan çalışmalar için) hâlâ geliştirme aşamasındadır.",
   "faq.question.workshop.troubleshooting": "Atölye çalışmamı kaydetmiyor veya yüklemiyorsa ne olur?",
   "faq.answer.workshop.troubleshooting": "Herhangi bir yerde görünür hata mesajı olup olmadığını kontrol edin, ardından internet bağlantınızı kontrol edin ve sayfayı yenilemeyi deneyin. Sorunlar devam ederse, yardım için destek ekibiyle iletişime geçin.",
   "faq.question.library.addItem": "Kitaplığıma bir hikaye veya evreni nasıl ekleyebilirim?",

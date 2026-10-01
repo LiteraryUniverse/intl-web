@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "How do I manage revisions and history?",
   "faq.answer.workshop.revisions": "Every time you create a revision it is saved in the database. You can view comments on previous revisions through the editor or in version history.",
   "faq.question.workshop.exporting": "How can I export my work from the Workshop?",
-  "faq.answer.workshop.exporting": "We are currently working on the export feature and publication on other platforms (for non-exclusive works).",
+  "faq.answer.workshop.exporting": "ওয়ার্কশপে আপনার গল্পটি খুলুন এবং \"বিকল্প ফরম্যাট\"-এ যান। সেখানে আপনি সম্পূর্ণ গল্পের বা একটি একক আর্কের EPUB তৈরি করতে পারবেন এবং নিজের EPUB বা PDF ফাইল আপলোড করতে পারবেন। যেসব সাবস্ক্রিপশন পরিকল্পনায় \"গল্প ডাউনলোড\" অন্তর্ভুক্ত, সেগুলোতে EPUB তৈরির সুবিধা পাওয়া যায়। আপনি আপনার সেটিংস থেকে গল্পসহ আপনার অ্যাকাউন্টের সমস্ত ডেটা একটি JSON ফাইল হিসেবে এক্সপোর্টও করতে পারেন। অন্যান্য প্ল্যাটফর্মে প্রকাশনা (অ-একচেটিয়া কাজের জন্য) এখনও উন্নয়নাধীন।",
   "faq.question.workshop.troubleshooting": "What if the Workshop is not saving or loading my work?",
   "faq.answer.workshop.troubleshooting": "Check if there are any error messages visible anywhere, then check your internet connection and try refreshing the page. If issues persist, contact support for help.",
   "faq.question.library.addItem": "How do I add a story or universe to my library?",

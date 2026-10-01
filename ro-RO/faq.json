@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Cum gestionez revizuirile și istoricul?",
   "faq.answer.workshop.revisions": "De fiecare dată când creați o revizuire, aceasta este salvată în baza de date. Puteți vizualiza comentariile privind revizuirile anterioare prin intermediul editorului sau în istoricul versiunilor.",
   "faq.question.workshop.exporting": "Cum îmi pot exporta lucrările din Atelier?",
-  "faq.answer.workshop.exporting": "În prezent, lucrăm la funcția de export și publicare pe alte platforme (pentru lucrările neexclusive).",
+  "faq.answer.workshop.exporting": "Deschideți povestea în Atelier și accesați Formate alternative. Acolo puteți genera un EPUB al întregii povești sau al unui singur arc și puteți încărca propriile fișiere EPUB sau PDF. Generarea EPUB este disponibilă în planurile care includ Descărcări de povești. De asemenea, puteți exporta toate datele contului dvs., inclusiv poveștile, ca fișier JSON din setări. Publicarea pe alte platforme (pentru lucrările neexclusive) este încă în dezvoltare.",
   "faq.question.workshop.troubleshooting": "Ce se întâmplă dacă Atelierul nu salvează sau nu încarcă munca mea?",
   "faq.answer.workshop.troubleshooting": "Verificați dacă există mesaje de eroare vizibile oriunde, apoi verificați conexiunea la internet și încercați să reîmprospătați pagina. Dacă problemele persistă, contactați asistența pentru ajutor.",
   "faq.question.library.addItem": "Cum adaug o poveste sau un univers la biblioteca mea?",

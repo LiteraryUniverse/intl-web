@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Come posso gestire le revisioni e la cronologia?",
   "faq.answer.workshop.revisions": "Ogni volta che crea una revisione, questa viene salvata nel database. Può visualizzare i commenti sulle revisioni precedenti attraverso l'editor o la cronologia delle versioni.",
   "faq.question.workshop.exporting": "Come posso esportare il mio lavoro dal Workshop?",
-  "faq.answer.workshop.exporting": "Attualmente stiamo lavorando alla funzione di esportazione e alla pubblicazione su altre piattaforme (per le opere non esclusive).",
+  "faq.answer.workshop.exporting": "Apri la tua storia nel Workshop e vai a Formati alternativi. Lì puoi generare un EPUB dell'intera storia o di un singolo arco e caricare i tuoi file EPUB o PDF. La generazione di EPUB è disponibile nei piani che includono Download di storie. Puoi anche esportare tutti i dati del tuo account, storie comprese, come file JSON dalle impostazioni. La pubblicazione su altre piattaforme (per le opere non esclusive) è ancora in fase di sviluppo.",
   "faq.question.workshop.troubleshooting": "Cosa succede se l'Officina non salva o carica il mio lavoro?",
   "faq.answer.workshop.troubleshooting": "Verifichi se ci sono messaggi di errore visibili da qualche parte, quindi controlli la sua connessione internet e provi ad aggiornare la pagina. Se i problemi persistono, contatti l'assistenza per chiedere aiuto.",
   "faq.question.library.addItem": "Come faccio ad aggiungere una storia o un universo alla mia libreria?",

@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Comment gérer les révisions et l'historique ?",
   "faq.answer.workshop.revisions": "Chaque fois que vous créez une révision, elle est enregistrée dans la base de données. Vous pouvez consulter les commentaires sur les révisions précédentes dans l'éditeur ou dans l'historique des versions.",
   "faq.question.workshop.exporting": "Comment puis-je exporter mon travail à partir de l'atelier ?",
-  "faq.answer.workshop.exporting": "Nous travaillons actuellement sur l'exportation et la publication sur d'autres plateformes (pour les œuvres non exclusives).",
+  "faq.answer.workshop.exporting": "Ouvrez votre histoire dans l'atelier et allez dans Formats alternatifs. Vous pouvez y générer un EPUB de l'histoire entière ou d'un seul arc, et téléverser vos propres fichiers EPUB ou PDF. La génération d'EPUB est disponible avec les formules qui incluent Téléchargements d'histoires. Vous pouvez aussi exporter toutes les données de votre compte, histoires comprises, sous forme de fichier JSON depuis vos paramètres. La publication sur d'autres plateformes (pour les œuvres non exclusives) est encore en cours de développement.",
   "faq.question.workshop.troubleshooting": "Que faire si l'atelier n'enregistre pas ou ne charge pas mon travail ?",
   "faq.answer.workshop.troubleshooting": "Vérifiez qu'aucun message d'erreur n'est visible, puis vérifiez votre connexion internet et essayez d'actualiser la page. Si le problème persiste, contactez le service d'assistance pour obtenir de l'aide.",
   "faq.question.library.addItem": "Comment ajouter une histoire ou un univers à ma bibliothèque ?",

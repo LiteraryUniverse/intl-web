@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Miten hallitsen tarkistuksia ja historiaa?",
   "faq.answer.workshop.revisions": "Aina kun luot tarkistuksen, se tallennetaan tietokantaan. Voit tarkastella aiempien versioiden kommentteja editorin kautta tai versiohistoriassa.",
   "faq.question.workshop.exporting": "Miten voin viedä työni työpajasta?",
-  "faq.answer.workshop.exporting": "Työstämme parhaillaan vientitoimintoa ja julkaisemista muilla alustoilla (ei-yksinoikeudellisten teosten osalta).",
+  "faq.answer.workshop.exporting": "Avaa tarinasi työpajassa ja siirry kohtaan Vaihtoehtoiset muodot. Siellä voit luoda EPUB-tiedoston koko tarinasta tai yksittäisestä kaaresta ja ladata palveluun omia EPUB- tai PDF-tiedostojasi. EPUB-tiedoston luonti on käytettävissä tilauksissa, joihin sisältyy Tarinan lataukset. Voit myös viedä kaikki tilisi tiedot, tarinat mukaan lukien, JSON-tiedostona asetuksistasi. Julkaiseminen muilla alustoilla (ei-yksinoikeudellisten teosten osalta) on vielä kehitteillä.",
   "faq.question.workshop.troubleshooting": "Mitä jos työpaja ei tallenna tai lataa työtäni?",
   "faq.answer.workshop.troubleshooting": "Tarkista, näkyykö missään virheilmoituksia, tarkista internet-yhteys ja yritä päivittää sivu. Jos ongelmat jatkuvat, ota yhteyttä asiakaspalveluun.",
   "faq.question.library.addItem": "Miten lisään tarinan tai universumin kirjastooni?",

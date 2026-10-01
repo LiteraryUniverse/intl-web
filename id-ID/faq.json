@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Bagaimana cara mengelola revisi dan riwayat?",
   "faq.answer.workshop.revisions": "Setiap kali Anda membuat revisi, revisi tersebut akan disimpan dalam database. Anda dapat melihat komentar pada revisi sebelumnya melalui editor atau riwayat versi.",
   "faq.question.workshop.exporting": "Bagaimana cara mengekspor karya saya dari Workshop?",
-  "faq.answer.workshop.exporting": "Saat ini kami sedang mengembangkan fitur ekspor dan publikasi di platform lain (untuk karya-karya yang tidak eksklusif).",
+  "faq.answer.workshop.exporting": "Buka cerita Anda di Workshop dan masuk ke Format alternatif. Di sana Anda dapat membuat EPUB dari seluruh cerita atau satu busur, serta mengunggah file EPUB atau PDF Anda sendiri. Pembuatan EPUB tersedia pada paket yang menyertakan Unduhan cerita. Anda juga dapat mengekspor semua data akun Anda, termasuk cerita, sebagai file JSON dari pengaturan Anda. Publikasi di platform lain (untuk karya-karya yang tidak eksklusif) masih dalam pengembangan.",
   "faq.question.workshop.troubleshooting": "Bagaimana jika Workshop tidak menyimpan atau memuat pekerjaan saya?",
   "faq.answer.workshop.troubleshooting": "Periksa apakah ada pesan kesalahan yang terlihat di mana saja, lalu periksa koneksi internet Anda dan coba refresh halaman. Jika masalah masih berlanjut, hubungi bagian dukungan untuk mendapatkan bantuan.",
   "faq.question.library.addItem": "Bagaimana cara menambahkan cerita atau alam semesta ke perpustakaan saya?",

@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Hvordan håndterer jeg revisioner og historik?",
   "faq.answer.workshop.revisions": "Hver gang du opretter en revision, gemmes den i databasen. Du kan se kommentarer til tidligere revisioner i editoren eller i versionshistorikken.",
   "faq.question.workshop.exporting": "Hvordan kan jeg eksportere mit arbejde fra workshoppen?",
-  "faq.answer.workshop.exporting": "Vi arbejder i øjeblikket på eksportfunktionen og udgivelse på andre platforme (for ikke-eksklusive værker).",
+  "faq.answer.workshop.exporting": "Åbn din historie i workshoppen, og gå til Alternative formater. Der kan du generere en EPUB af hele historien eller af en enkelt bue og uploade dine egne EPUB- eller PDF-filer. EPUB-generering er tilgængelig på abonnementer, der inkluderer Download af historier. Du kan også eksportere alle dine kontodata, inklusive historier, som en JSON-fil fra dine indstillinger. Udgivelse på andre platforme (for ikke-eksklusive værker) er stadig under udvikling.",
   "faq.question.workshop.troubleshooting": "Hvad gør jeg, hvis værkstedet ikke gemmer eller indlæser mit arbejde?",
   "faq.answer.workshop.troubleshooting": "Tjek, om der er nogen fejlmeddelelser synlige nogen steder, tjek derefter din internetforbindelse, og prøv at opdatere siden. Hvis problemerne fortsætter, skal du kontakte support for at få hjælp.",
   "faq.question.library.addItem": "Hvordan tilføjer jeg en historie eller et univers til mit bibliotek?",

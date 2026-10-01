@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "How do I manage revisions and history?",
   "faq.answer.workshop.revisions": "Every time you create a revision it is saved in the database. You can view comments on previous revisions through the editor or in version history.",
   "faq.question.workshop.exporting": "How can I export my work from the Workshop?",
-  "faq.answer.workshop.exporting": "We are currently working on the export feature and publication on other platforms (for non-exclusive works).",
+  "faq.answer.workshop.exporting": "કાર્યશાળામાં તમારી વાર્તા ખોલો અને વૈકલ્પિક ફોર્મેટ્સ પર જાઓ. ત્યાં તમે સંપૂર્ણ વાર્તાની અથવા એક જ આર્કની EPUB બનાવી શકો છો, અને તમારી પોતાની EPUB અથવા PDF ફાઇલો અપલોડ કરી શકો છો. EPUB બનાવવાની સુવિધા એવા પ્લાન્સમાં ઉપલબ્ધ છે જેમાં વાર્તા ડાઉનલોડ્સ શામેલ છે. તમે તમારા સેટિંગ્સમાંથી તમારા એકાઉન્ટનો તમામ ડેટા, વાર્તાઓ સહિત, JSON ફાઇલ તરીકે નિકાસ પણ કરી શકો છો. અન્ય પ્લેટફોર્મ્સ પર પ્રકાશન (બિન-વિશિષ્ટ કૃતિઓ માટે) હજુ વિકાસ હેઠળ છે.",
   "faq.question.workshop.troubleshooting": "What if the Workshop is not saving or loading my work?",
   "faq.answer.workshop.troubleshooting": "Check if there are any error messages visible anywhere, then check your internet connection and try refreshing the page. If issues persist, contact support for help.",
   "faq.question.library.addItem": "How do I add a story or universe to my library?",

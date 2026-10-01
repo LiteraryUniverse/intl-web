@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "How do I manage revisions and history?",
   "faq.answer.workshop.revisions": "Every time you create a revision it is saved in the database. You can view comments on previous revisions through the editor or in version history.",
   "faq.question.workshop.exporting": "How can I export my work from the Workshop?",
-  "faq.answer.workshop.exporting": "We are currently working on the export feature and publication on other platforms (for non-exclusive works).",
+  "faq.answer.workshop.exporting": "Buksan ang iyong kuwento sa Workshop at pumunta sa Mga alternatibong format. Doon, maaari kang bumuo ng EPUB ng buong kuwento o ng iisang arc, at mag-upload ng sarili mong mga EPUB o PDF file. Available ang pagbuo ng EPUB sa mga plan na may kasamang Mga pag-download ng kuwento. Maaari mo ring i-export ang lahat ng data ng iyong account, kasama ang mga kuwento, bilang JSON file mula sa iyong mga setting. Ang paglalathala sa ibang mga platform (para sa mga hindi eksklusibong akda) ay nasa development pa.",
   "faq.question.workshop.troubleshooting": "What if the Workshop is not saving or loading my work?",
   "faq.answer.workshop.troubleshooting": "Check if there are any error messages visible anywhere, then check your internet connection and try refreshing the page. If issues persist, contact support for help.",
   "faq.question.library.addItem": "How do I add a story or universe to my library?",

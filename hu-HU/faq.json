@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Hogyan kezelhetem a revíziókat és az előzményeket?",
   "faq.answer.workshop.revisions": "Minden alkalommal, amikor létrehoz egy revíziót, az elmentésre kerül az adatbázisban. A korábbi revíziókhoz fűzött megjegyzéseket a szerkesztőprogramban vagy a verziótörténetben tekintheti meg.",
   "faq.question.workshop.exporting": "Hogyan exportálhatom a munkámat a Műhelyből?",
-  "faq.answer.workshop.exporting": "Jelenleg dolgozunk az exportálási lehetőségen és a más platformokon való közzétételen (nem kizárólagos művek esetében).",
+  "faq.answer.workshop.exporting": "Nyisd meg a történetedet a Műhelyben, és lépj az Alternatív formátumok részre. Ott EPUB-ot készíthetsz a teljes történetből vagy egyetlen ívből, és feltöltheted a saját EPUB- vagy PDF-fájljaidat. Az EPUB-készítés azokban a csomagokban érhető el, amelyek tartalmazzák a Történet letöltések funkciót. A beállításokban a fiókod összes adatát, a történeteket is beleértve, JSON-fájlként is exportálhatod. A más platformokon való közzététel (nem kizárólagos művek esetében) még fejlesztés alatt áll.",
   "faq.question.workshop.troubleshooting": "Mi történik, ha a Műhely nem menti vagy tölti be a munkámat?",
   "faq.answer.workshop.troubleshooting": "Ellenőrizze, hogy látható-e valahol hibaüzenet, majd ellenőrizze az internetkapcsolatot, és próbálja meg frissíteni az oldalt. Ha a problémák továbbra is fennállnak, forduljon segítségért az ügyfélszolgálathoz.",
   "faq.question.library.addItem": "Hogyan adhatok hozzá egy történetet vagy univerzumot a könyvtáramhoz?",

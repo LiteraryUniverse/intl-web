@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "Hoe beheer ik revisies en geschiedenis?",
   "faq.answer.workshop.revisions": "Elke keer dat u een revisie maakt, wordt deze opgeslagen in de database. U kunt opmerkingen over eerdere revisies bekijken via de editor of in de versiegeschiedenis.",
   "faq.question.workshop.exporting": "Hoe kan ik mijn werk exporteren vanuit de Workshop?",
-  "faq.answer.workshop.exporting": "We werken momenteel aan de exportfunctie en publicatie op andere platforms (voor niet-exclusieve werken).",
+  "faq.answer.workshop.exporting": "Open je verhaal in de Workshop en ga naar Alternatieve formaten. Daar kun je een EPUB van het hele verhaal of van één verhaalboog genereren en je eigen EPUB- of PDF-bestanden uploaden. EPUB-generatie is beschikbaar bij abonnementen die Downloaden van verhalen bevatten. Je kunt ook al je accountgegevens, inclusief verhalen, als JSON-bestand exporteren vanuit je instellingen. Publicatie op andere platforms (voor niet-exclusieve werken) is nog in ontwikkeling.",
   "faq.question.workshop.troubleshooting": "Wat moet ik doen als de Workshop mijn werk niet opslaat of laadt?",
   "faq.answer.workshop.troubleshooting": "Controleer of er ergens foutmeldingen zichtbaar zijn, controleer dan uw internetverbinding en probeer de pagina te verversen. Als de problemen aanhouden, neem dan contact op met de ondersteuning voor hulp.",
   "faq.question.library.addItem": "Hoe voeg ik een verhaal of universum toe aan mijn bibliotheek?",

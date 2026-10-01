@@ -103,7 +103,7 @@
   "faq.question.workshop.revisions": "¿Cómo gestiono las revisiones y el historial?",
   "faq.answer.workshop.revisions": "Cada vez que crea una revisión, ésta se guarda en la base de datos. Puede ver los comentarios sobre revisiones anteriores a través del editor o en el historial de versiones.",
   "faq.question.workshop.exporting": "¿Cómo puedo exportar mi trabajo desde el Taller?",
-  "faq.answer.workshop.exporting": "Actualmente estamos trabajando en la función de exportación y publicación en otras plataformas (para obras no exclusivas).",
+  "faq.answer.workshop.exporting": "Abra su historia en el Taller y vaya a Formatos alternativos. Allí puede generar un EPUB de la historia completa o de un solo arco, y subir sus propios archivos EPUB o PDF. La generación de EPUB está disponible en los planes que incluyen Descargas de cuentos. También puede exportar todos los datos de su cuenta, incluidas las historias, como archivo JSON desde la configuración. La publicación en otras plataformas (para obras no exclusivas) sigue en desarrollo.",
   "faq.question.workshop.troubleshooting": "¿Qué ocurre si el Taller no guarda o carga mi trabajo?",
   "faq.answer.workshop.troubleshooting": "Compruebe si hay algún mensaje de error visible en algún lugar, después compruebe su conexión a Internet e intente actualizar la página. Si los problemas persisten, póngase en contacto con el servicio de asistencia para obtener ayuda.",
   "faq.question.library.addItem": "¿Cómo añado una historia o un universo a mi biblioteca?",
