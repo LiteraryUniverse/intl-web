@@ -45,7 +45,7 @@
   "reader.comments.chapterNotAvailable": "暫無評論。這是因為本章尚未發行。",
   "reader.purchaseGate.title": "本章需要購買",
   "reader.purchaseGate.description": "若要繼續閱讀 {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, 您需要購買。",
-  "reader.purchaseGate.buyArc": "或購買此電弧",
+  "reader.purchaseGate.buyArc": "或購買此篇章",
   "reader.purchaseGate.arcChapterCount": "{count, plural, one {{count} chapter} other {{count} chapters}} included",
   "story.chapter.freePreview": "Free",
   "story.chapter.locked": "Locked",
