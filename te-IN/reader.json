@@ -55,6 +55,6 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
-  "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
-  "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back."
+  "reader.protection.devtoolsOpen": "మీ బ్రౌజర్ యొక్క డెవలపర్ టూల్స్ తెరిచి ఉన్నప్పుడు ఈ కథనం దాచబడుతుంది, ఎందుకంటే దాని లైసెన్స్ కాపీ చేయడానికి అనుమతించదు. మీరు ఆపిన చోటు నుండి కొనసాగించడానికి వాటిని మూసివేయండి.",
+  "reader.protection.unfocused": "ఈ విండో బ్యాక్‌గ్రౌండ్‌లో ఉన్నప్పుడు దాచబడుతుంది. దాన్ని తిరిగి తీసుకురావడానికి ఎక్కడైనా క్లిక్ చేయండి."
 }
