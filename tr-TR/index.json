@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Tarayıcınızın geliştirici araçları açıkken bu eser gizlenir, çünkü lisansı kopyalamaya izin vermiyor. Kaldığınız yerden devam etmek için araçları kapatın.",
+  "reader.protection.unfocused": "Bu pencere arka plandayken gizlenir. Geri getirmek için herhangi bir yere tıklayın.",
   "readingList.addItem.noOwnComics": "Henüz manganız veya çizgi romanınız yok",
   "readingList.title": "Okuma listesi",
   "readingList.type.comics": "Manga ve çizgi romanlar",

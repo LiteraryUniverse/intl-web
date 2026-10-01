@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "この章はご利用いただけません",
   "reader.privatePurchaseBlocked.message": "この物語は現在非公開のため、新たな購入はできません。すでに購入された章は引き続きお読みいただけますが、この章は購入に含まれていません。",
   "reader.printDisabled": "これはライセンスされたコンテンツです。著者は物語本文の印刷を無効にしています。",
+  "reader.protection.devtoolsOpen": "ブラウザの開発者ツールが開いている間、この作品は非表示になります。ライセンスにより複製が許可されていないためです。開発者ツールを閉じると、続きからお楽しみいただけます。",
+  "reader.protection.unfocused": "このウィンドウがバックグラウンドにある間は非表示になります。どこかをクリックすると再表示されます。",
   "readingList.addItem.noOwnComics": "まだ漫画・コミックがありません",
   "readingList.title": "読書リスト",
   "readingList.type.comics": "漫画・コミック",

@@ -54,5 +54,7 @@
   "story.buy": "Buy story",
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
-  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Šis kūrinys paslėptas, kol atidaryti naršyklės kūrėjo įrankiai, nes jo licencija neleidžia kopijuoti. Uždarykite juos ir tęskite ten, kur baigėte.",
+  "reader.protection.unfocused": "Paslėpta, kol šis langas yra fone. Spustelėkite bet kur, kad vėl būtų rodoma."
 }

@@ -54,5 +54,7 @@
   "story.buy": "Comprar historia",
   "reader.privatePurchaseBlocked.heading": "Este capítulo no está disponible para ti",
   "reader.privatePurchaseBlocked.message": "Esta historia es actualmente privada, por lo que ya no es posible realizar compras adicionales. Puedes seguir leyendo los capítulos que ya compraste, pero este capítulo no está incluido en tus compras.",
-  "reader.printDisabled": "Este es contenido con licencia. El autor ha deshabilitado la impresión del texto de la historia."
+  "reader.printDisabled": "Este es contenido con licencia. El autor ha deshabilitado la impresión del texto de la historia.",
+  "reader.protection.devtoolsOpen": "Esta obra está oculta mientras las herramientas para desarrolladores de tu navegador estén abiertas, porque su licencia no permite copiarla. Ciérralas para continuar donde lo dejaste.",
+  "reader.protection.unfocused": "Oculto mientras esta ventana esté en segundo plano. Haz clic en cualquier lugar para volver a mostrarlo."
 }

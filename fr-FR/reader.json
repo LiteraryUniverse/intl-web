@@ -54,5 +54,7 @@
   "story.buy": "Acheter l'histoire",
   "reader.privatePurchaseBlocked.heading": "Ce chapitre ne vous est pas accessible",
   "reader.privatePurchaseBlocked.message": "Cette histoire est actuellement privée, les achats supplémentaires ne sont donc plus disponibles. Vous pouvez continuer à lire les chapitres que vous avez déjà achetés, mais ce chapitre n'est pas inclus dans vos achats.",
-  "reader.printDisabled": "Il s'agit de contenu sous licence. L'auteur a désactivé l'impression du texte de l'histoire."
+  "reader.printDisabled": "Il s'agit de contenu sous licence. L'auteur a désactivé l'impression du texte de l'histoire.",
+  "reader.protection.devtoolsOpen": "Cette œuvre est masquée tant que les outils de développement de votre navigateur sont ouverts, car sa licence n'autorise pas la copie. Fermez-les pour reprendre là où vous vous étiez arrêté.",
+  "reader.protection.unfocused": "Masqué tant que cette fenêtre est en arrière-plan. Cliquez n'importe où pour le réafficher."
 }

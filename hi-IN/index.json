@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "जब तक आपके ब्राउज़र के डेवलपर टूल खुले हैं, यह रचना छिपी रहेगी, क्योंकि इसका लाइसेंस कॉपी करने की अनुमति नहीं देता। जहाँ आपने छोड़ा था वहीं से जारी रखने के लिए उन्हें बंद करें।",
+  "reader.protection.unfocused": "जब तक यह विंडो बैकग्राउंड में है, सामग्री छिपी रहेगी। इसे वापस लाने के लिए कहीं भी क्लिक करें।",
   "readingList.addItem.noOwnComics": "आपके पास अभी कोई मंगा या कॉमिक्स नहीं है",
   "readingList.title": "पढ़ने की सूची",
   "readingList.type.comics": "मंगा और कॉमिक्स",

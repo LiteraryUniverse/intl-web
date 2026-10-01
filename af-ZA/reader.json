@@ -54,5 +54,7 @@
   "story.buy": "Buy story",
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
-  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Hierdie werk is versteek terwyl jou blaaier se ontwikkelaarnutsgoed oop is, omdat die lisensie nie kopiëring toelaat nie. Maak dit toe om voort te gaan waar jy opgehou het.",
+  "reader.protection.unfocused": "Versteek terwyl hierdie venster in die agtergrond is. Klik enige plek om dit terug te bring."
 }

@@ -54,5 +54,7 @@
   "story.buy": "Kup opowiadanie",
   "reader.privatePurchaseBlocked.heading": "Ten rozdział nie jest dla Ciebie dostępny",
   "reader.privatePurchaseBlocked.message": "To opowiadanie jest obecnie prywatne, więc dodatkowe zakupy nie są już dostępne. Możesz nadal czytać rozdziały, które już zakupiłeś, ale ten rozdział nie jest objęty Twoimi zakupami.",
-  "reader.printDisabled": "To jest treść licencjonowana. Autor wyłączył drukowanie tekstu opowiadania."
+  "reader.printDisabled": "To jest treść licencjonowana. Autor wyłączył drukowanie tekstu opowiadania.",
+  "reader.protection.devtoolsOpen": "Ten utwór jest ukryty, dopóki narzędzia deweloperskie przeglądarki są otwarte, ponieważ jego licencja nie zezwala na kopiowanie. Zamknij je, aby kontynuować od miejsca, w którym przerwano.",
+  "reader.protection.unfocused": "Ukryte, dopóki to okno jest w tle. Kliknij w dowolnym miejscu, aby przywrócić treść."
 }

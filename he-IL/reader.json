@@ -54,5 +54,7 @@
   "story.buy": "Buy story",
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
-  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "היצירה מוסתרת כל עוד כלי המפתחים של הדפדפן פתוחים, מפני שהרישיון שלה אינו מתיר העתקה. סגור אותם כדי להמשיך מהמקום שבו עצרת.",
+  "reader.protection.unfocused": "מוסתר כל עוד החלון הזה ברקע. לחץ בכל מקום כדי להציג שוב."
 }

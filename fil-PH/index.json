@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Nakatago ang akdang ito habang bukas ang developer tools ng iyong browser, dahil hindi pinapayagan ng lisensya nito ang pagkopya. Isara ang mga iyon para magpatuloy kung saan ka huminto.",
+  "reader.protection.unfocused": "Nakatago habang nasa background ang window na ito. Mag-click kahit saan para ibalik ito.",
   "readingList.addItem.noOwnComics": "Wala ka pang manga o komiks",
   "readingList.title": "Listahan ng Pagbabasa",
   "readingList.type.comics": "Manga at komiks",

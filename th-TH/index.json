@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "ผลงานนี้จะถูกซ่อนไว้ขณะที่เครื่องมือสำหรับนักพัฒนาของเบราว์เซอร์เปิดอยู่ เนื่องจากสัญญาอนุญาตไม่อนุญาตให้คัดลอก ปิดเครื่องมือดังกล่าวเพื่อดำเนินการต่อจากจุดที่ค้างไว้",
+  "reader.protection.unfocused": "ซ่อนไว้ขณะที่หน้าต่างนี้อยู่เบื้องหลัง คลิกที่ใดก็ได้เพื่อแสดงอีกครั้ง",
   "readingList.addItem.noOwnComics": "คุณยังไม่มีมังงะหรือการ์ตูน",
   "readingList.title": "รายการอ่าน",
   "readingList.type.comics": "มังงะและการ์ตูน",

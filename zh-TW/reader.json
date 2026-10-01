@@ -54,5 +54,7 @@
   "story.buy": "Buy story",
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
-  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "瀏覽器的開發人員工具開啟時，這部作品會被隱藏，因為其授權不允許複製。關閉開發人員工具即可從上次的位置繼續。",
+  "reader.protection.unfocused": "此視窗在背景時內容會隱藏。點按任意位置即可重新顯示。"
 }

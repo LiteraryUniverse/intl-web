@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "See teos on peidetud seni, kuni brauseri arendaja tööriistad on avatud, sest selle litsents ei luba kopeerimist. Sulgege need, et jätkata sealt, kus pooleli jäite.",
+  "reader.protection.unfocused": "Peidetud seni, kuni see aken on taustal. Klõpsake ükskõik kuhu, et sisu uuesti kuvada.",
   "readingList.addItem.noOwnComics": "Sul pole veel ühtegi mangat ega koomiksit",
   "readingList.title": "Lugemisnimekiri",
   "readingList.type.comics": "Manga ja koomiksid",

@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
+  "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back.",
   "readingList.addItem.noOwnComics": "Níl aon manga ná greannáin agat fós",
   "readingList.title": "Liosta léitheoireachta",
   "readingList.type.comics": "Manga & greannáin",

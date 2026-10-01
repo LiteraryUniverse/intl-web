@@ -54,5 +54,7 @@
   "story.buy": "Koupit příběh",
   "reader.privatePurchaseBlocked.heading": "Tato kapitola pro vás není dostupná",
   "reader.privatePurchaseBlocked.message": "Tento příběh je momentálně soukromý, takže další nákupy již nejsou možné. Můžete dál číst kapitoly, které jste si již zakoupili, ale tato kapitola není součástí vašich nákupů.",
-  "reader.printDisabled": "Toto je licencovaný obsah. Autor zakázal tisk textu příběhu."
+  "reader.printDisabled": "Toto je licencovaný obsah. Autor zakázal tisk textu příběhu.",
+  "reader.protection.devtoolsOpen": "Toto dílo je skryté, dokud máte v prohlížeči otevřené vývojářské nástroje, protože jeho licence nedovoluje kopírování. Zavřete je a pokračujte tam, kde jste skončili.",
+  "reader.protection.unfocused": "Skryto, dokud je toto okno na pozadí. Kliknutím kamkoli obsah vrátíte."
 }

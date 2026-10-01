@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Această operă este ascunsă cât timp instrumentele pentru dezvoltatori ale browserului sunt deschise, deoarece licența ei nu permite copierea. Închideți-le pentru a continua de unde ați rămas.",
+  "reader.protection.unfocused": "Ascuns cât timp această fereastră este în fundal. Faceți clic oriunde pentru a-l afișa din nou.",
   "readingList.addItem.noOwnComics": "Nu ai încă manga sau benzi desenate",
   "readingList.title": "Lista de lectură",
   "readingList.type.comics": "Manga și benzi desenate",

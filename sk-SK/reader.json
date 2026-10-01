@@ -54,5 +54,7 @@
   "story.buy": "Kúpiť príbeh",
   "reader.privatePurchaseBlocked.heading": "Táto kapitola pre vás nie je dostupná",
   "reader.privatePurchaseBlocked.message": "Tento príbeh je momentálne súkromný, takže ďalšie nákupy už nie sú dostupné. Môžete pokračovať v čítaní kapitol, ktoré ste si už zakúpili, ale táto kapitola nie je zahrnutá vo vašich nákupoch.",
-  "reader.printDisabled": "Toto je licencovaný obsah. Autor zakázal tlač textu príbehu."
+  "reader.printDisabled": "Toto je licencovaný obsah. Autor zakázal tlač textu príbehu.",
+  "reader.protection.devtoolsOpen": "Toto dielo je skryté, kým máte v prehliadači otvorené vývojárske nástroje, pretože jeho licencia nedovoľuje kopírovanie. Zatvorte ich a pokračujte tam, kde ste skončili.",
+  "reader.protection.unfocused": "Skryté, kým je toto okno na pozadí. Kliknutím kamkoľvek obsah vrátite."
 }

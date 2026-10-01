@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "Este capítulo não está disponível para si",
   "reader.privatePurchaseBlocked.message": "Esta história é atualmente privada, pelo que já não estão disponíveis compras adicionais. Pode continuar a ler os capítulos que já comprou, mas este capítulo não está incluído nas suas compras.",
   "reader.printDisabled": "Este é conteúdo licenciado. O autor desativou a impressão do texto da história.",
+  "reader.protection.devtoolsOpen": "Esta obra fica oculta enquanto as ferramentas de programador do seu navegador estiverem abertas, porque a sua licença não permite a cópia. Feche-as para continuar onde ficou.",
+  "reader.protection.unfocused": "Oculto enquanto esta janela estiver em segundo plano. Clique em qualquer sítio para voltar a mostrar.",
   "readingList.addItem.noOwnComics": "Ainda não tem manga nem banda desenhada",
   "readingList.title": "Lista de leitura",
   "readingList.type.comics": "Manga e banda desenhada",

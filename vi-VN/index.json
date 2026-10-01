@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Tác phẩm này bị ẩn khi công cụ dành cho nhà phát triển của trình duyệt đang mở, vì giấy phép của tác phẩm không cho phép sao chép. Hãy đóng công cụ để tiếp tục từ chỗ bạn đã dừng.",
+  "reader.protection.unfocused": "Nội dung bị ẩn khi cửa sổ này ở chế độ nền. Nhấp vào bất kỳ đâu để hiển thị lại.",
   "readingList.addItem.noOwnComics": "Bạn chưa có manga hoặc truyện tranh nào",
   "readingList.title": "Danh sách đọc",
   "readingList.type.comics": "Manga & truyện tranh",

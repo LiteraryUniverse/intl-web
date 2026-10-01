@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "আপনার ব্রাউজারের ডেভেলপার টুল খোলা থাকা অবস্থায় এই রচনাটি লুকানো থাকে, কারণ এর লাইসেন্স কপি করার অনুমতি দেয় না। যেখানে থেমেছিলেন সেখান থেকে চালিয়ে যেতে সেগুলো বন্ধ করুন।",
+  "reader.protection.unfocused": "এই উইন্ডোটি ব্যাকগ্রাউন্ডে থাকা অবস্থায় লুকানো থাকে। ফিরিয়ে আনতে যেকোনো জায়গায় ক্লিক করুন।",
   "readingList.addItem.noOwnComics": "আপনার কোনো মাঙ্গা বা কমিকস নেই",
   "readingList.title": "পড়ার তালিকা",
   "readingList.type.comics": "মাঙ্গা ও কমিকস",

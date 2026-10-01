@@ -54,5 +54,7 @@
   "story.buy": "Geschichte kaufen",
   "reader.privatePurchaseBlocked.heading": "Dieses Kapitel ist für Sie nicht verfügbar",
   "reader.privatePurchaseBlocked.message": "Diese Geschichte ist derzeit privat, sodass keine weiteren Käufe mehr möglich sind. Sie können die bereits gekauften Kapitel weiterlesen, dieses Kapitel ist jedoch nicht in Ihren Käufen enthalten.",
-  "reader.printDisabled": "Dies ist lizenzierter Inhalt. Der Autor hat das Drucken des Geschichtentextes deaktiviert."
+  "reader.printDisabled": "Dies ist lizenzierter Inhalt. Der Autor hat das Drucken des Geschichtentextes deaktiviert.",
+  "reader.protection.devtoolsOpen": "Dieses Werk ist ausgeblendet, solange die Entwicklertools Ihres Browsers geöffnet sind, da seine Lizenz das Kopieren nicht erlaubt. Schließen Sie sie, um dort weiterzumachen, wo Sie aufgehört haben.",
+  "reader.protection.unfocused": "Ausgeblendet, solange dieses Fenster im Hintergrund ist. Klicken Sie irgendwohin, um den Inhalt wieder anzuzeigen."
 }

@@ -54,5 +54,7 @@
   "story.buy": "Buy story",
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
-  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Aquesta obra està amagada mentre les eines per a desenvolupadors del navegador estiguin obertes, perquè la seva llicència no en permet la còpia. Tanca-les per continuar on ho havies deixat.",
+  "reader.protection.unfocused": "Amagat mentre aquesta finestra sigui en segon pla. Fes clic a qualsevol lloc per tornar a mostrar-lo."
 }

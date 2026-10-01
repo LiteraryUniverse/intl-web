@@ -4389,6 +4389,8 @@
   "reader.privatePurchaseBlocked.heading": "Dit hoofdstuk is niet voor je beschikbaar",
   "reader.privatePurchaseBlocked.message": "Dit verhaal is momenteel privé, dus extra aankopen zijn niet meer beschikbaar. Je kunt hoofdstukken die je al hebt gekocht blijven lezen, maar dit hoofdstuk is niet in je aankopen inbegrepen.",
   "reader.printDisabled": "Dit is content met licentie. De auteur heeft het afdrukken van de verhaaltekst uitgeschakeld.",
+  "reader.protection.devtoolsOpen": "Dit werk is verborgen zolang de ontwikkelaarstools van je browser open zijn, omdat de licentie kopiëren niet toestaat. Sluit ze om verder te gaan waar je gebleven was.",
+  "reader.protection.unfocused": "Verborgen zolang dit venster op de achtergrond staat. Klik ergens om het weer te tonen.",
   "readingList.addItem.noOwnComics": "Je hebt nog geen manga of strips",
   "readingList.title": "Leeslijst",
   "readingList.type.comics": "Manga & strips",

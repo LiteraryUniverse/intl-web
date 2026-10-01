@@ -54,5 +54,7 @@
   "story.buy": "Buy story",
   "reader.privatePurchaseBlocked.heading": "This chapter is not available to you",
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
-  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text."
+  "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
+  "reader.protection.devtoolsOpen": "Ĉi tiu verko estas kaŝita dum la programistaj iloj de via retumilo estas malfermitaj, ĉar ĝia permesilo ne permesas kopiadon. Fermu ilin por daŭrigi tie, kie vi ĉesis.",
+  "reader.protection.unfocused": "Kaŝita dum ĉi tiu fenestro estas en la fono. Alklaku ie ajn por remontri ĝin."
 }
