@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Soek volgens titel, skrywer of sleutelwoord",
   "discovery.translation.chaptersAvailable": "Hoofstukke beskikbaar in hierdie vertaling",
   "discover.searchComic.title": "Soek na manga & strokiesprente",
-  "discover.searchComic.description": "Soek na manga en strokiesprente"
+  "discover.searchComic.description": "Soek na manga en strokiesprente",
+  "story.estimatedReadingTime.explainedCharacters": "Gebaseer op 'n verstekleesspoed van {avgReadingNum, number} karakters per minuut.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Gebaseer op jou leesspoed van {wpm, number} karakters per minuut."
 }

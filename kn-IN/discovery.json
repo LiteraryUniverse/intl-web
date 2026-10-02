@@ -10,7 +10,7 @@
   "discovery.stories.similar.regular": "ಹಳ್ಳಿಯ ಪಕ್ಷಗಳಲ್ಲಿರುವ ಕಥೆಗಳು",
   "story.estimatedReadingTime": "This story should take {hours, plural,\n        =0 {}\n        one {1 hour and }\n        other {# hours and }\n    }{minutes, plural,\n        =0 {0 minutes}\n        one {1 minute}\n        other {# minutes}\n    } to read.",
   "story.estimatedReadingTime.explained": "ಪ್ರತಿ ನಿಮಿಷಕ್ಕೆ ಸರಾಸರಿ ಓದುವ ಗತಿಯಲ್ಲಿ {avgReadingNum, number} ಪದಗಳ ಆಧಾರದ ಮೇಲೆ ಆಧರಿಸಲಾಗಿದೆ.",
-  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
+  "story.estimatedReadingTime.explainedPersonal": "ನಿಮಿಷಕ್ಕೆ {wpm, number} ಪದಗಳ ನಿಮ್ಮ ಓದುವ ವೇಗವನ್ನು ಆಧರಿಸಿದೆ.",
   "discover.search.text": "ಹುಡುಕು ಪದ",
   "discover.searchStory.title": "ಕಥೆಗೆ ಹುಡುಕಿ",
   "discover.searchStory.description": "ಕಥೆಗಳಿಗೆ ಹುಡುಕಿ",
@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "ಈ ಅನುವಾದದಲ್ಲಿ ಲಭ್ಯವಿರುವ ಅಧ್ಯಾಯಗಳು",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "ನಿಮಿಷಕ್ಕೆ {avgReadingNum, number} ಅಕ್ಷರಗಳ ಪೂರ್ವನಿಯೋಜಿತ ಓದುವ ವೇಗವನ್ನು ಆಧರಿಸಿದೆ.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "ನಿಮಿಷಕ್ಕೆ {wpm, number} ಅಕ್ಷರಗಳ ನಿಮ್ಮ ಓದುವ ವೇಗವನ್ನು ಆಧರಿಸಿದೆ."
 }

@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Untuk menggunakan langganan Fugu anda, pilih Subscription semasa mencipta kunci Sakana anda dan matikan sandaran bayar ikut guna. Baca <setup>panduan persediaan Sakana</setup> dan semak <terms>ketersediaan serantau</terms> sebelum menyambung.",
   "settings.externalKeys.googleHelp": "Kunci Google AI Studio mungkin membenarkan Google menggunakan gesaan untuk menambah baik produk melainkan anda menggunakan API Gemini berbayar atau projek Vertex. Semak <terms>terma API Gemini Google</terms>. Literary Universe tidak mengawal log Google.",
   "settings.naver.loginFailed": "Log masuk NAVER tidak selesai. Cuba lagi atau gunakan kaedah log masuk lain.",
-  "settings.socialLastLogin": "Tetapkan kata laluan atau sambungkan kaedah log masuk lain yang tersedia sebelum memutuskan sambungan akaun ini."
+  "settings.socialLastLogin": "Tetapkan kata laluan atau sambungkan kaedah log masuk lain yang tersedia sebelum memutuskan sambungan akaun ini.",
+  "settings.languages.charactersPerMinute": "Kelajuan membaca (aksara seminit)",
+  "settings.languages.charactersPerMinuteExplained": "Kami menggunakan nilai ini untuk menganggarkan masa yang anda perlukan untuk membaca sebuah cerita. Biarkan ruangan kosong untuk menggunakan {defaultSpeed, number} aksara seminit.",
+  "settings.languages.measureReadingSpeed": "Ukur kelajuan membaca anda"
 }

@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "제목, 작가 또는 키워드로 검색",
   "discovery.translation.chaptersAvailable": "이 번역에서 볼 수 있는 챕터",
   "discover.searchComic.title": "만화 및 코믹 검색",
-  "discover.searchComic.description": "만화 및 코믹 검색"
+  "discover.searchComic.description": "만화 및 코믹 검색",
+  "story.estimatedReadingTime.explainedCharacters": "기본 읽기 속도인 분당 {avgReadingNum, number}자를 기준으로 계산했습니다.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "여러분의 읽기 속도인 분당 {wpm, number}자를 기준으로 계산했습니다."
 }

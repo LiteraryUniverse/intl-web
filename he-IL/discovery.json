@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "חיפוש לפי כותרת, מחבר או מילת מפתח",
   "discovery.translation.chaptersAvailable": "פרקים זמינים בתרגום זה",
   "discover.searchComic.title": "חיפוש מנגה וקומיקס",
-  "discover.searchComic.description": "חיפוש מנגה וקומיקס"
+  "discover.searchComic.description": "חיפוש מנגה וקומיקס",
+  "story.estimatedReadingTime.explainedCharacters": "מבוסס על מהירות קריאה המוגדרת כברירת מחדל של {avgReadingNum, number} תווים בדקה.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "מבוסס על מהירות הקריאה שלך של {wpm, number} תווים בדקה."
 }

@@ -10,7 +10,7 @@
   "discovery.stories.similar.regular": "samselvinji pe skina ku'u kelci",
   "story.estimatedReadingTime": "Ti djica cu klama {hours, plural,\n        =0 {}\n        one {1 cacra e }\n        other {# cacra e }\n    }{minutes, plural,\n        =0 {0 mentu}\n        one {1 mentu}\n        other {# mentu}\n    } lo ka tcidu.",
   "story.estimatedReadingTime.explained": "Selsku lo sefta be lo nunmu'i be lo se ckire be lo {avgReadingNum, number} valsi lo nu tcidu",
-  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
+  "story.estimatedReadingTime.explainedPersonal": "se jicmu lo ni do sutra lo nu tcidu noi li {wpm, number} ni valsi lo mentu",
   "discover.search.text": "se cuxna be skina",
   "discover.searchStory.title": "celxa se citka",
   "discover.searchStory.description": "celxa se citka",
@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "Chapters available in this translation",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "se jicmu lo cnano ni sutra lo nu tcidu noi li {avgReadingNum, number} ni lerfu lo mentu",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "se jicmu lo ni do sutra lo nu tcidu noi li {wpm, number} ni lerfu lo mentu"
 }

@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Cerca per títol, autor o paraula clau",
   "discovery.translation.chaptersAvailable": "Capítols disponibles en aquesta traducció",
   "discover.searchComic.title": "Cerca manga i còmics",
-  "discover.searchComic.description": "Cerca manga i còmics"
+  "discover.searchComic.description": "Cerca manga i còmics",
+  "story.estimatedReadingTime.explainedCharacters": "Basat en una velocitat de lectura predeterminada de {avgReadingNum, number} caràcters per minut.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Basat en la teva velocitat de lectura de {wpm, number} caràcters per minut."
 }

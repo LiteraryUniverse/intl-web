@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "शीर्षक, लेखक या कीवर्ड से खोजें",
   "discovery.translation.chaptersAvailable": "इस अनुवाद में उपलब्ध अध्याय",
   "discover.searchComic.title": "मंगा और कॉमिक्स खोजें",
-  "discover.searchComic.description": "मंगा और कॉमिक्स खोजें"
+  "discover.searchComic.description": "मंगा और कॉमिक्स खोजें",
+  "story.estimatedReadingTime.explainedCharacters": "प्रति मिनट {avgReadingNum, number} अक्षरों की डिफ़ॉल्ट पढ़ने की गति के आधार पर।",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "प्रति मिनट {wpm, number} अक्षरों की आपकी पढ़ने की गति के आधार पर।"
 }

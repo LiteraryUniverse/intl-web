@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Upang magamit ang iyong Fugu subscription, piliin ang Subscription kapag ginagawa ang iyong Sakana key at i-off ang pay-as-you-go fallback. Basahin ang <setup>gabay sa pag-setup ng Sakana</setup> at tingnan ang <terms>availability ayon sa rehiyon</terms> bago kumonekta.",
   "settings.externalKeys.googleHelp": "Maaaring pahintulutan ng mga key ng Google AI Studio ang Google na gamitin ang mga prompt upang pagbutihin ang mga produkto maliban kung gumagamit ka ng bayad na Gemini API o Vertex project. Tingnan ang <terms>mga tuntunin ng Gemini API ng Google</terms>. Hindi kontrolado ng Literary Universe ang mga log ng Google.",
   "settings.naver.loginFailed": "Hindi natapos ang pag-sign in sa NAVER. Subukang muli o gumamit ng ibang paraan ng pag-sign in.",
-  "settings.socialLastLogin": "Magtakda ng password o magkonekta ng isa pang available na paraan ng pag-sign in bago idiskonekta ang account na ito."
+  "settings.socialLastLogin": "Magtakda ng password o magkonekta ng isa pang available na paraan ng pag-sign in bago idiskonekta ang account na ito.",
+  "settings.languages.charactersPerMinute": "Bilis ng pagbasa (mga karakter bawat minuto)",
+  "settings.languages.charactersPerMinuteExplained": "Ginagamit namin ito para tantiyahin kung gaano katagal mong babasahin ang isang kuwento. Iwanang blangko ang patlang para gumamit ng {defaultSpeed, number} karakter bawat minuto.",
+  "settings.languages.measureReadingSpeed": "Sukatin ang bilis mo sa pagbasa"
 }

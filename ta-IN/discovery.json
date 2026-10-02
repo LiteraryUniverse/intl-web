@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "இந்த மொழிபெயர்ப்பில் கிடைக்கும் அத்தியாயங்கள்",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "நிமிடத்திற்கு {avgReadingNum, number} எழுத்துகள் என்ற இயல்புநிலை வாசிப்பு வேகத்தின் அடிப்படையில்.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "நிமிடத்திற்கு {wpm, number} எழுத்துகள் என்ற உங்கள் வாசிப்பு வேகத்தின் அடிப்படையில்."
 }

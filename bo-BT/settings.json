@@ -195,8 +195,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
-  "settings.languages.wordsPerMinute": "Reading speed (words per minute)",
-  "settings.languages.wordsPerMinuteExplained": "We use this to estimate how long a story will take you to read. Leave it empty to use the average of {average, number} words per minute. Not sure about yours? <a>Measure your reading speed</a>.",
+  "settings.languages.wordsPerMinute": "ལྷག་ནིའི་མགྱོགས་ཚད་ (སྐར་མ་རེ་ལུ་ཚིག་)",
+  "settings.languages.wordsPerMinuteExplained": "སྒྲུང་ཅིག་ལྷག་ནི་ལུ་ཁྱོད་ལུ་དུས་ཚོད་ག་དེམ་ཅིག་དགོཔ་ཨིན་ན་ཕོ་ཚོད་དཔག་ནིའི་དོན་ལུ་ ང་བཅས་ཀྱིས་གནས་གོང་འདི་ལག་ལེན་འཐབ་ཨིན། ཆ་སྙོམས་སྐར་མ་རེ་ལུ་ཚིག་ {average, number} ལག་ལེན་འཐབ་ནིའི་དོན་ལུ་ས་སྒོ་འདི་སྟོངམ་བཞག། ཁྱོད་ཀྱི་མགྱོགས་ཚད་མི་ཤེས་པས་ག? <a>ཁྱོད་ཀྱི་ལྷག་ནིའི་མགྱོགས་ཚད་འཇལ།</a>",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",
@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
   "settings.externalKeys.googleHelp": "Google AI Studio keys may let Google use prompts to improve products unless you use a paid Gemini API or Vertex project. Check <terms>Google's Gemini API terms</terms>. Literary Universe does not control Google's logs.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
-  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
+  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
+  "settings.languages.charactersPerMinute": "ལྷག་ནིའི་མགྱོགས་ཚད་ (སྐར་མ་རེ་ལུ་ཡིག་འབྲུ་)",
+  "settings.languages.charactersPerMinuteExplained": "སྒྲུང་ཅིག་ལྷག་ནི་ལུ་ཁྱོད་ལུ་དུས་ཚོད་ག་དེམ་ཅིག་དགོཔ་ཨིན་ན་ཕོ་ཚོད་དཔག་ནིའི་དོན་ལུ་ ང་བཅས་ཀྱིས་གནས་གོང་འདི་ལག་ལེན་འཐབ་ཨིན། སྐར་མ་རེ་ལུ་ཡིག་འབྲུ་ {defaultSpeed, number} ལག་ལེན་འཐབ་ནིའི་དོན་ལུ་ས་སྒོ་འདི་སྟོངམ་བཞག།",
+  "settings.languages.measureReadingSpeed": "ཁྱོད་ཀྱི་ལྷག་ནིའི་མགྱོགས་ཚད་འཇལ།"
 }

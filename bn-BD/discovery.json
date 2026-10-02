@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "শিরোনাম, লেখক বা কীওয়ার্ড দিয়ে খুঁজুন",
   "discovery.translation.chaptersAvailable": "এই অনুবাদে উপলব্ধ অধ্যায়সমূহ",
   "discover.searchComic.title": "মাঙ্গা ও কমিকস অনুসন্ধান করুন",
-  "discover.searchComic.description": "মাঙ্গা ও কমিকস অনুসন্ধান করুন"
+  "discover.searchComic.description": "মাঙ্গা ও কমিকস অনুসন্ধান করুন",
+  "story.estimatedReadingTime.explainedCharacters": "প্রতি মিনিটে {avgReadingNum, number} অক্ষরের ডিফল্ট পড়ার গতির ভিত্তিতে গণনা করা হয়েছে।",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "প্রতি মিনিটে {wpm, number} অক্ষরের আপনার পড়ার গতির ভিত্তিতে গণনা করা হয়েছে।"
 }

@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Hae nimellä, kirjoittajalla tai avainsanalla",
   "discovery.translation.chaptersAvailable": "Tässä käännöksessä saatavilla olevat luvut",
   "discover.searchComic.title": "Etsi mangaa ja sarjakuvia",
-  "discover.searchComic.description": "Etsi mangaa ja sarjakuvia"
+  "discover.searchComic.description": "Etsi mangaa ja sarjakuvia",
+  "story.estimatedReadingTime.explainedCharacters": "Perustuu oletuslukunopeuteen {avgReadingNum, number} merkkiä minuutissa.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Perustuu lukunopeuteesi {wpm, number} merkkiä minuutissa."
 }

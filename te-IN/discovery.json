@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "ఈ అనువాదంలో అందుబాటులో ఉన్న అధ్యాయాలు",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "నిమిషానికి {avgReadingNum, number} అక్షరాల డిఫాల్ట్ చదివే వేగం ఆధారంగా.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "నిమిషానికి {wpm, number} అక్షరాల మీ చదివే వేగం ఆధారంగా."
 }

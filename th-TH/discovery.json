@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "ค้นหาด้วยชื่อเรื่อง ผู้เขียน หรือคำสำคัญ",
   "discovery.translation.chaptersAvailable": "บทที่มีในคำแปลนี้",
   "discover.searchComic.title": "ค้นหามังงะและการ์ตูน",
-  "discover.searchComic.description": "ค้นหามังงะและการ์ตูน"
+  "discover.searchComic.description": "ค้นหามังงะและการ์ตูน",
+  "story.estimatedReadingTime.explainedCharacters": "คำนวณจากความเร็วในการอ่านเริ่มต้นที่ {avgReadingNum, number} ตัวอักษรต่อนาที",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "คำนวณจากความเร็วในการอ่านของคุณที่ {wpm, number} ตัวอักษรต่อนาที"
 }

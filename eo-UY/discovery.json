@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Serĉi laŭ titolo, aŭtoro aŭ ŝlosilvorto",
   "discovery.translation.chaptersAvailable": "Ĉapitroj disponeblaj en ĉi tiu traduko",
   "discover.searchComic.title": "Serĉi mangaojn kaj komiksojn",
-  "discover.searchComic.description": "Serĉi mangaojn kaj komiksojn"
+  "discover.searchComic.description": "Serĉi mangaojn kaj komiksojn",
+  "story.estimatedReadingTime.explainedCharacters": "Surbaze de la defaŭlta legorapido de {avgReadingNum, number} signoj por minuto.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Surbaze de via legorapido de {wpm, number} signoj por minuto."
 }

@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Cari berdasarkan judul, penulis, atau kata kunci",
   "discovery.translation.chaptersAvailable": "Bab yang tersedia dalam terjemahan ini",
   "discover.searchComic.title": "Cari manga dan komik",
-  "discover.searchComic.description": "Cari manga dan komik"
+  "discover.searchComic.description": "Cari manga dan komik",
+  "story.estimatedReadingTime.explainedCharacters": "Berdasarkan kecepatan membaca bawaan sebesar {avgReadingNum, number} karakter per menit.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Berdasarkan kecepatan membaca Anda sebesar {wpm, number} karakter per menit."
 }

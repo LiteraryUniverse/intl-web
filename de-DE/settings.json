@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Um Ihr Fugu-Abonnement zu nutzen, wählen Sie beim Erstellen Ihres Sakana-Schlüssels „Subscription“ und schalten Sie den Pay-as-you-go-Fallback aus. Lesen Sie die <setup>Einrichtungsanleitung von Sakana</setup> und prüfen Sie die <terms>regionale Verfügbarkeit</terms>, bevor Sie die Verbindung herstellen.",
   "settings.externalKeys.googleHelp": "Schlüssel von Google AI Studio können Google erlauben, Prompts zur Produktverbesserung zu nutzen, sofern Sie nicht die kostenpflichtige Gemini API oder ein Vertex-Projekt verwenden. Prüfen Sie die <terms>Gemini-API-Bedingungen von Google</terms>. Literary Universe steuert Googles Protokolle nicht.",
   "settings.naver.loginFailed": "Die Anmeldung mit NAVER wurde nicht abgeschlossen. Versuchen Sie es erneut oder nutzen Sie eine andere Anmeldemethode.",
-  "settings.socialLastLogin": "Legen Sie ein Passwort fest oder verbinden Sie eine andere verfügbare Anmeldemethode, bevor Sie dieses Konto trennen."
+  "settings.socialLastLogin": "Legen Sie ein Passwort fest oder verbinden Sie eine andere verfügbare Anmeldemethode, bevor Sie dieses Konto trennen.",
+  "settings.languages.charactersPerMinute": "Lesegeschwindigkeit (Zeichen pro Minute)",
+  "settings.languages.charactersPerMinuteExplained": "Damit schätzen wir, wie lange du zum Lesen einer Geschichte brauchst. Lass das Feld leer, um {defaultSpeed, number} Zeichen pro Minute zu verwenden.",
+  "settings.languages.measureReadingSpeed": "Miss deine Lesegeschwindigkeit"
 }

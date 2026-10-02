@@ -195,8 +195,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
-  "settings.languages.wordsPerMinute": "Reading speed (words per minute)",
-  "settings.languages.wordsPerMinuteExplained": "We use this to estimate how long a story will take you to read. Leave it empty to use the average of {average, number} words per minute. Not sure about yours? <a>Measure your reading speed</a>.",
+  "settings.languages.wordsPerMinute": "ପଢ଼ିବା ବେଗ (ପ୍ରତି ମିନିଟ୍‌ରେ ଶବ୍ଦ)",
+  "settings.languages.wordsPerMinuteExplained": "ଗୋଟିଏ କାହାଣୀ ପଢ଼ିବାକୁ ଆପଣଙ୍କୁ କେତେ ସମୟ ଲାଗିବ ତାହା ଅନୁମାନ କରିବା ପାଇଁ ଆମେ ଏହି ମୂଲ୍ୟ ବ୍ୟବହାର କରୁ। ପ୍ରତି ମିନିଟ୍‌ରେ ହାରାହାରି {average, number} ଶବ୍ଦ ବ୍ୟବହାର କରିବା ପାଇଁ ଏହି ସ୍ଥାନ ଖାଲି ରଖନ୍ତୁ। ଆପଣଙ୍କ ବେଗ ଜଣା ନାହିଁ କି? <a>ଆପଣଙ୍କ ପଢ଼ିବା ବେଗ ମାପନ୍ତୁ</a>।",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",
@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
   "settings.externalKeys.googleHelp": "Google AI Studio keys may let Google use prompts to improve products unless you use a paid Gemini API or Vertex project. Check <terms>Google's Gemini API terms</terms>. Literary Universe does not control Google's logs.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
-  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
+  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
+  "settings.languages.charactersPerMinute": "ପଢ଼ିବା ବେଗ (ପ୍ରତି ମିନିଟ୍‌ରେ ଅକ୍ଷର)",
+  "settings.languages.charactersPerMinuteExplained": "ଗୋଟିଏ କାହାଣୀ ପଢ଼ିବାକୁ ଆପଣଙ୍କୁ କେତେ ସମୟ ଲାଗିବ ତାହା ଅନୁମାନ କରିବା ପାଇଁ ଆମେ ଏହି ମୂଲ୍ୟ ବ୍ୟବହାର କରୁ। ପ୍ରତି ମିନିଟ୍‌ରେ {defaultSpeed, number} ଅକ୍ଷର ବ୍ୟବହାର କରିବା ପାଇଁ ଏହି ସ୍ଥାନ ଖାଲି ରଖନ୍ତୁ।",
+  "settings.languages.measureReadingSpeed": "ଆପଣଙ୍କ ପଢ଼ିବା ବେଗ ମାପନ୍ତୁ"
 }

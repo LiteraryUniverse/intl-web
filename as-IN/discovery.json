@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "এই অনুবাদত উপলব্ধ অধ্যায়সমূহ",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "প্ৰতি মিনিটত {avgReadingNum, number} আখৰৰ অবিকল্পিত পঢ়াৰ গতিৰ ওপৰত ভিত্তি কৰি গণনা কৰা হৈছে।",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "প্ৰতি মিনিটত {wpm, number} আখৰৰ আপোনাৰ পঢ়াৰ গতিৰ ওপৰত ভিত্তি কৰি গণনা কৰা হৈছে।"
 }

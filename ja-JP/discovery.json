@@ -9,7 +9,7 @@
   "discovery.stories.similar.new": "他から発表された最新物語",
   "discovery.stories.similar.regular": "他で発表されているストーリ",
   "story.estimatedReadingTime": "この物語は{hours, plural,\n        =0 {}\n        one {1時間と}\n        other {#時間と}\n    }{minutes, plural,\n        =0 {0分}\n        one {1分}\n        other {#分}\n    }で読めると思います",
-  "story.estimatedReadingTime.explained": "平均読取速度、毎分{avgReadingNum, number}文字に基づいて計算されています。",
+  "story.estimatedReadingTime.explained": "平均読書速度（毎分{avgReadingNum, number}語）に基づいています。",
   "story.estimatedReadingTime.explainedPersonal": "あなたの読書速度（毎分{wpm, number}語）に基づいています。",
   "discover.search.text": "語句の検索",
   "discover.searchStory.title": "物語を探す",
@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "タイトル、著者、キーワードで検索",
   "discovery.translation.chaptersAvailable": "この翻訳で読める章",
   "discover.searchComic.title": "マンガ・コミックを検索",
-  "discover.searchComic.description": "マンガとコミックを検索"
+  "discover.searchComic.description": "マンガとコミックを検索",
+  "story.estimatedReadingTime.explainedCharacters": "既定の読書速度（毎分{avgReadingNum, number}文字）に基づいています。",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "あなたの読書速度（毎分{wpm, number}文字）に基づいています。"
 }

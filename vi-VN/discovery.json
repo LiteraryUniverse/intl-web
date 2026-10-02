@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Tìm theo tiêu đề, tác giả hoặc từ khóa",
   "discovery.translation.chaptersAvailable": "Các chương có trong bản dịch này",
   "discover.searchComic.title": "Tìm manga và truyện tranh",
-  "discover.searchComic.description": "Tìm manga và truyện tranh"
+  "discover.searchComic.description": "Tìm manga và truyện tranh",
+  "story.estimatedReadingTime.explainedCharacters": "Dựa trên tốc độ đọc mặc định là {avgReadingNum, number} ký tự mỗi phút.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Dựa trên tốc độ đọc của bạn là {wpm, number} ký tự mỗi phút."
 }

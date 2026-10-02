@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Norėdami naudoti savo Fugu prenumeratą, kurdami Sakana raktą pasirinkite „Subscription“ ir išjunkite atsarginį mokėjimą pagal naudojimą. Prieš prijungdami perskaitykite <setup>Sakana sąrankos vadovą</setup> ir patikrinkite <terms>prieinamumą regionuose</terms>.",
   "settings.externalKeys.googleHelp": "Naudojant Google AI Studio raktus, Google gali naudoti užklausas produktams tobulinti, nebent naudojate mokamą Gemini API arba Vertex projektą. Peržiūrėkite <terms>Google Gemini API sąlygas</terms>. Literary Universe nekontroliuoja Google žurnalų.",
   "settings.naver.loginFailed": "Prisijungti per NAVER nepavyko. Bandykite dar kartą arba naudokite kitą prisijungimo būdą.",
-  "settings.socialLastLogin": "Prieš atjungdami šią paskyrą nustatykite slaptažodį arba prijunkite kitą galimą prisijungimo būdą."
+  "settings.socialLastLogin": "Prieš atjungdami šią paskyrą nustatykite slaptažodį arba prijunkite kitą galimą prisijungimo būdą.",
+  "settings.languages.charactersPerMinute": "Skaitymo greitis (simboliai per minutę)",
+  "settings.languages.charactersPerMinuteExplained": "Pagal tai apskaičiuojame, kiek laiko užtruksi skaitydamas istoriją. Palik lauką tuščią, kad būtų naudojamas {defaultSpeed, number} simbolių per minutę greitis.",
+  "settings.languages.measureReadingSpeed": "Išmatuok savo skaitymo greitį"
 }

@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Ak chcete použiť svoje predplatné Fugu, pri vytváraní kľúča Sakana zvoľte Subscription a vypnite záložné priebežné platby (pay-as-you-go). Pred pripojením si prečítajte <setup>návod na nastavenie od Sakana</setup> a overte <terms>regionálnu dostupnosť</terms>.",
   "settings.externalKeys.googleHelp": "Kľúče Google AI Studio môžu Googlu umožniť používať výzvy na zlepšovanie produktov, ak nepoužívate platené Gemini API alebo projekt Vertex. Pozrite si <terms>podmienky Gemini API od Googlu</terms>. Literary Universe Google protokoly neriadi.",
   "settings.naver.loginFailed": "Prihlásenie cez NAVER sa nedokončilo. Skúste to znova alebo použite iný spôsob prihlásenia.",
-  "settings.socialLastLogin": "Pred odpojením tohto účtu si nastavte heslo alebo pripojte iný dostupný spôsob prihlásenia."
+  "settings.socialLastLogin": "Pred odpojením tohto účtu si nastavte heslo alebo pripojte iný dostupný spôsob prihlásenia.",
+  "settings.languages.charactersPerMinute": "Rýchlosť čítania (znakov za minútu)",
+  "settings.languages.charactersPerMinuteExplained": "Podľa tejto hodnoty odhadujeme, ako dlho vám čítanie príbehu potrvá. Ak pole necháte prázdne, použijeme {defaultSpeed, number} znakov za minútu.",
+  "settings.languages.measureReadingSpeed": "Zmerajte si rýchlosť čítania"
 }

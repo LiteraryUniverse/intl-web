@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Szukaj według tytułu, autora lub słowa kluczowego",
   "discovery.translation.chaptersAvailable": "Rozdziały dostępne w tym tłumaczeniu",
   "discover.searchComic.title": "Szukaj mangi i komiksów",
-  "discover.searchComic.description": "Szukaj mangi i komiksów"
+  "discover.searchComic.description": "Szukaj mangi i komiksów",
+  "story.estimatedReadingTime.explainedCharacters": "Na podstawie domyślnej prędkości czytania {avgReadingNum, number} znaków na minutę.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Na podstawie Twojej prędkości czytania {wpm, number} znaków na minutę."
 }

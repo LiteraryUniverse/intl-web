@@ -9,7 +9,7 @@
   "discovery.stories.similar.new": "附近的新故事",
   "discovery.stories.similar.regular": "附近的故事",
   "story.estimatedReadingTime": "這個故事應該需要 {hours, plural,\n        =0 {}\n        one {1小時和 }\n        other {#小時和 }\n    }{minutes, plural,\n        =0 {0分鐘}\n        one {1分鐘}\n        other {#分鐘}\n    } 閱讀。",
-  "story.estimatedReadingTime.explained": "根據每分鐘 {avgReadingNum, number} 字的平均閱讀速度。",
+  "story.estimatedReadingTime.explained": "根據每分鐘 {avgReadingNum, number} 個詞的平均閱讀速度計算。",
   "story.estimatedReadingTime.explainedPersonal": "根據您每分鐘 {wpm, number} 字的閱讀速度估算。",
   "discover.search.text": "搜尋詞",
   "discover.searchStory.title": "搜尋故事",
@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "依標題、作者或關鍵字搜尋",
   "discovery.translation.chaptersAvailable": "此翻譯可閱讀的章節",
   "discover.searchComic.title": "搜尋漫畫與漫畫作品",
-  "discover.searchComic.description": "搜尋漫畫與漫畫作品"
+  "discover.searchComic.description": "搜尋漫畫與漫畫作品",
+  "story.estimatedReadingTime.explainedCharacters": "根據預設閱讀速度每分鐘 {avgReadingNum, number} 字計算。",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "根據您的閱讀速度每分鐘 {wpm, number} 字計算。"
 }

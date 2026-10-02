@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Pesquise por título, autor ou palavra-chave",
   "discovery.translation.chaptersAvailable": "Capítulos disponíveis nesta tradução",
   "discover.searchComic.title": "Pesquisar mangas e banda desenhada",
-  "discover.searchComic.description": "Pesquisar mangas e banda desenhada"
+  "discover.searchComic.description": "Pesquisar mangas e banda desenhada",
+  "story.estimatedReadingTime.explainedCharacters": "Com base numa velocidade de leitura predefinida de {avgReadingNum, number} carateres por minuto.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Com base na tua velocidade de leitura de {wpm, number} carateres por minuto."
 }

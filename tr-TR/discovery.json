@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Başlığa, yazara veya anahtar kelimeye göre arayın",
   "discovery.translation.chaptersAvailable": "Bu çeviride mevcut bölümler",
   "discover.searchComic.title": "Manga ve çizgi roman ara",
-  "discover.searchComic.description": "Manga ve çizgi roman ara"
+  "discover.searchComic.description": "Manga ve çizgi roman ara",
+  "story.estimatedReadingTime.explainedCharacters": "Dakikada {avgReadingNum, number} karakter olan varsayılan okuma hızına göre hesaplanmıştır.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Dakikada {wpm, number} karakter olan okuma hızınıza göre hesaplanmıştır."
 }

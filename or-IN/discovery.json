@@ -10,7 +10,7 @@
   "discovery.stories.similar.regular": "ସମୀପରେ କାହାଣୀଗୁଡିକ",
   "story.estimatedReadingTime": "ଏହା କଥା ପଢ଼ିବା କଲେ {hours, plural,\n        =0 {}\n        one {1 ଘଣ୍ଟା ଏବଂ }\n        other {# ଘଣ୍ଟା ଏବଂ }\n    }{minutes, plural,\n        =0 {0 ମିନିଟ ଏବଂ}\n        one {1 ମିନିଟ ଏବଂ}\n        other {# ମିନିଟ ଏବଂ}\n    } ପଢିବାରେ ।",
   "story.estimatedReadingTime.explained": "ପ୍ରତ୍ୟେକ ମିନିଟରେ {avgReadingNum, number} ଶବ୍ଦ ପଢ଼ିବା ସ୍ଥଳେ ଆଧାରିତ ।",
-  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
+  "story.estimatedReadingTime.explainedPersonal": "ପ୍ରତି ମିନିଟ୍‌ରେ {wpm, number} ଶବ୍ଦର ଆପଣଙ୍କ ପଢ଼ିବା ବେଗ ଉପରେ ଆଧାରିତ।",
   "discover.search.text": "ଖୋଜ ଶବ୍ଦ",
   "discover.searchStory.title": "ଏକ ଗଳ୍ପ ଖୋଜନ୍ତୁ",
   "discover.searchStory.description": "ଗଳ୍ପଗୁଡ଼ିକା ଖୋଜନ୍ତୁ",
@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "ଏହି ଅନୁବାଦରେ ଉପଲବ୍ଧ ଅଧ୍ୟାୟଗୁଡ଼ିକ",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "ପ୍ରତି ମିନିଟ୍‌ରେ {avgReadingNum, number} ଅକ୍ଷରର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ପଢ଼ିବା ବେଗ ଉପରେ ଆଧାରିତ।",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "ପ୍ରତି ମିନିଟ୍‌ରେ {wpm, number} ଅକ୍ଷରର ଆପଣଙ୍କ ପଢ଼ିବା ବେଗ ଉପରେ ଆଧାରିତ।"
 }

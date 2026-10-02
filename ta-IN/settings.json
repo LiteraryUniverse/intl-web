@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
   "settings.externalKeys.googleHelp": "Google AI Studio keys may let Google use prompts to improve products unless you use a paid Gemini API or Vertex project. Check <terms>Google's Gemini API terms</terms>. Literary Universe does not control Google's logs.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
-  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
+  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
+  "settings.languages.charactersPerMinute": "வாசிப்பு வேகம் (நிமிடத்திற்கு எழுத்துகள்)",
+  "settings.languages.charactersPerMinuteExplained": "ஒரு கதையைப் படிக்க உங்களுக்கு எவ்வளவு நேரம் ஆகும் என்று கணிக்க இதைப் பயன்படுத்துகிறோம். நிமிடத்திற்கு {defaultSpeed, number} எழுத்துகளைப் பயன்படுத்த இந்தப் புலத்தை காலியாக விடுங்கள்.",
+  "settings.languages.measureReadingSpeed": "உங்கள் வாசிப்பு வேகத்தை அளவிடுங்கள்"
 }

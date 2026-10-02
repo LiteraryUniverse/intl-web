@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Per fer servir la teva subscripció a Fugu, tria Subscription en crear la teva clau de Sakana i desactiva l'alternativa de pagament per ús. Llegeix <setup>la guia de configuració de Sakana</setup> i comprova la <terms>disponibilitat regional</terms> abans de connectar-te.",
   "settings.externalKeys.googleHelp": "Les claus de Google AI Studio poden permetre que Google faci servir les indicacions per millorar els seus productes, tret que facis servir una API de Gemini de pagament o un projecte de Vertex. Consulta <terms>les condicions de l'API de Gemini de Google</terms>. Literary Universe no controla els registres de Google.",
   "settings.naver.loginFailed": "L'inici de sessió amb NAVER no s'ha completat. Torna-ho a provar o fes servir un altre mètode d'inici de sessió.",
-  "settings.socialLastLogin": "Defineix una contrasenya o connecta un altre mètode d'inici de sessió disponible abans de desconnectar aquest compte."
+  "settings.socialLastLogin": "Defineix una contrasenya o connecta un altre mètode d'inici de sessió disponible abans de desconnectar aquest compte.",
+  "settings.languages.charactersPerMinute": "Velocitat de lectura (caràcters per minut)",
+  "settings.languages.charactersPerMinuteExplained": "Ho fem servir per estimar quant trigaràs a llegir una història. Deixa el camp buit per fer servir {defaultSpeed, number} caràcters per minut.",
+  "settings.languages.measureReadingSpeed": "Mesura la teva velocitat de lectura"
 }

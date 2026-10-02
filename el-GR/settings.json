@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Για να χρησιμοποιήσετε τη συνδρομή σας στο Fugu, επιλέξτε Subscription όταν δημιουργείτε το κλειδί Sakana και απενεργοποιήστε την εναλλακτική χρέωση ανά χρήση (pay-as-you-go). Διαβάστε τον <setup>οδηγό ρύθμισης της Sakana</setup> και ελέγξτε τη <terms>διαθεσιμότητα ανά περιοχή</terms> πριν από τη σύνδεση.",
   "settings.externalKeys.googleHelp": "Τα κλειδιά του Google AI Studio ενδέχεται να επιτρέπουν στη Google να χρησιμοποιεί τις προτροπές για τη βελτίωση των προϊόντων της, εκτός αν χρησιμοποιείτε επί πληρωμή Gemini API ή project στο Vertex. Ελέγξτε τους <terms>όρους του Gemini API της Google</terms>. Το Literary Universe δεν ελέγχει τα αρχεία καταγραφής της Google.",
   "settings.naver.loginFailed": "Η σύνδεση με NAVER δεν ολοκληρώθηκε. Δοκιμάστε ξανά ή χρησιμοποιήστε άλλον τρόπο σύνδεσης.",
-  "settings.socialLastLogin": "Ορίστε κωδικό πρόσβασης ή συνδέστε άλλον διαθέσιμο τρόπο σύνδεσης πριν αποσυνδέσετε αυτόν τον λογαριασμό."
+  "settings.socialLastLogin": "Ορίστε κωδικό πρόσβασης ή συνδέστε άλλον διαθέσιμο τρόπο σύνδεσης πριν αποσυνδέσετε αυτόν τον λογαριασμό.",
+  "settings.languages.charactersPerMinute": "Ταχύτητα ανάγνωσης (χαρακτήρες ανά λεπτό)",
+  "settings.languages.charactersPerMinuteExplained": "Το χρησιμοποιούμε για να εκτιμήσουμε πόσο χρόνο θα χρειαστείς για να διαβάσεις μια ιστορία. Άφησε το πεδίο κενό για να χρησιμοποιηθούν {defaultSpeed, number} χαρακτήρες ανά λεπτό.",
+  "settings.languages.measureReadingSpeed": "Μέτρησε την ταχύτητα ανάγνωσής σου"
 }

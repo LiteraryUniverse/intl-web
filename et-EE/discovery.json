@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Otsi pealkirja, autori või märksõna järgi",
   "discovery.translation.chaptersAvailable": "Selles tõlkes saadaval olevad peatükid",
   "discover.searchComic.title": "Otsi mangat ja koomikseid",
-  "discover.searchComic.description": "Manga ja koomiksite otsing"
+  "discover.searchComic.description": "Manga ja koomiksite otsing",
+  "story.estimatedReadingTime.explainedCharacters": "Arvutatud vaikimisi lugemiskiirusega {avgReadingNum, number} märki minutis.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Arvutatud sinu lugemiskiirusega {wpm, number} märki minutis."
 }

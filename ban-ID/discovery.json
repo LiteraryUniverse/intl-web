@@ -10,7 +10,7 @@
   "discovery.stories.similar.regular": "Stories in the neighborhood",
   "story.estimatedReadingTime": "This story should take {hours, plural,\n        =0 {}\n        one {1 hour and }\n        other {# hours and }\n    }{minutes, plural,\n        =0 {0 minutes}\n        one {1 minute}\n        other {# minutes}\n    } to read.",
   "story.estimatedReadingTime.explained": "Based on an average reading speed of {avgReadingNum, number} words per minute.",
-  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
+  "story.estimatedReadingTime.explainedPersonal": "Kaétang manut becat maca ragane {wpm, number} kruna saben menit.",
   "discover.search.text": "Search term",
   "discover.searchStory.title": "Search for a story",
   "discover.searchStory.description": "Search for a stories",
@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "Bab sane kasedia ring terjemahan puniki",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "Kaétang manut becat maca standar {avgReadingNum, number} aksara saben menit.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Kaétang manut becat maca ragane {wpm, number} aksara saben menit."
 }

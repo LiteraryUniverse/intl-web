@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Để dùng gói đăng ký Fugu của bạn, hãy chọn Subscription khi tạo khóa Sakana và tắt phương án dự phòng trả theo mức dùng. Hãy đọc <setup>hướng dẫn thiết lập của Sakana</setup> và kiểm tra <terms>khả năng cung cấp theo khu vực</terms> trước khi kết nối.",
   "settings.externalKeys.googleHelp": "Khóa Google AI Studio có thể cho phép Google dùng prompt để cải thiện sản phẩm trừ khi bạn dùng Gemini API trả phí hoặc dự án Vertex. Xem <terms>điều khoản Gemini API của Google</terms>. Literary Universe không kiểm soát nhật ký của Google.",
   "settings.naver.loginFailed": "Đăng nhập bằng NAVER chưa hoàn tất. Hãy thử lại hoặc dùng phương thức đăng nhập khác.",
-  "settings.socialLastLogin": "Hãy đặt mật khẩu hoặc kết nối một phương thức đăng nhập khả dụng khác trước khi ngắt kết nối tài khoản này."
+  "settings.socialLastLogin": "Hãy đặt mật khẩu hoặc kết nối một phương thức đăng nhập khả dụng khác trước khi ngắt kết nối tài khoản này.",
+  "settings.languages.charactersPerMinute": "Tốc độ đọc (ký tự mỗi phút)",
+  "settings.languages.charactersPerMinuteExplained": "Chúng tôi dùng giá trị này để ước tính thời gian bạn cần để đọc một câu chuyện. Để trống ô này để dùng tốc độ {defaultSpeed, number} ký tự mỗi phút.",
+  "settings.languages.measureReadingSpeed": "Đo tốc độ đọc của bạn"
 }

@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Hľadajte podľa názvu, autora alebo kľúčového slova",
   "discovery.translation.chaptersAvailable": "Kapitoly dostupné v tomto preklade",
   "discover.searchComic.title": "Hľadať mangu a komiksy",
-  "discover.searchComic.description": "Hľadať mangu a komiksy"
+  "discover.searchComic.description": "Hľadať mangu a komiksy",
+  "story.estimatedReadingTime.explainedCharacters": "Na základe predvolenej rýchlosti čítania {avgReadingNum, number} znakov za minútu.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Na základe vašej rýchlosti čítania {wpm, number} znakov za minútu."
 }

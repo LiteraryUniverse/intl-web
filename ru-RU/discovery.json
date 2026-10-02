@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Поиск по названию, автору или ключевому слову",
   "discovery.translation.chaptersAvailable": "Главы, доступные в этом переводе",
   "discover.searchComic.title": "Искать мангу и комиксы",
-  "discover.searchComic.description": "Искать мангу и комиксы"
+  "discover.searchComic.description": "Искать мангу и комиксы",
+  "story.estimatedReadingTime.explainedCharacters": "Рассчитано исходя из скорости чтения по умолчанию: {avgReadingNum, number} символов в минуту.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Рассчитано исходя из вашей скорости чтения: {wpm, number} символов в минуту."
 }

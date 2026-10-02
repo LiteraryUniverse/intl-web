@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Caută după titlu, autor sau cuvânt-cheie",
   "discovery.translation.chaptersAvailable": "Capitole disponibile în această traducere",
   "discover.searchComic.title": "Caută manga și benzi desenate",
-  "discover.searchComic.description": "Caută manga și benzi desenate"
+  "discover.searchComic.description": "Caută manga și benzi desenate",
+  "story.estimatedReadingTime.explainedCharacters": "Pe baza unei viteze de citire implicite de {avgReadingNum, number} caractere pe minut.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Pe baza vitezei tale de citire de {wpm, number} caractere pe minut."
 }

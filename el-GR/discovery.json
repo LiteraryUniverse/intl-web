@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Αναζήτηση με τίτλο, συγγραφέα ή λέξη-κλειδί",
   "discovery.translation.chaptersAvailable": "Διαθέσιμα κεφάλαια σε αυτή τη μετάφραση",
   "discover.searchComic.title": "Αναζήτηση manga και κόμικς",
-  "discover.searchComic.description": "Αναζήτηση manga και κόμικς"
+  "discover.searchComic.description": "Αναζήτηση manga και κόμικς",
+  "story.estimatedReadingTime.explainedCharacters": "Με βάση την προεπιλεγμένη ταχύτητα ανάγνωσης των {avgReadingNum, number} χαρακτήρων ανά λεπτό.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Με βάση την ταχύτητα ανάγνωσής σου των {wpm, number} χαρακτήρων ανά λεπτό."
 }

@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Fugu aboneliğinizi kullanmak için Sakana anahtarınızı oluştururken Subscription seçeneğini seçin ve kullandıkça öde yedeğini kapatın. Bağlamadan önce <setup>Sakana'nın kurulum kılavuzunu</setup> okuyun ve <terms>bölgesel kullanılabilirliği</terms> kontrol edin.",
   "settings.externalKeys.googleHelp": "Ücretli bir Gemini API veya Vertex projesi kullanmadığınız sürece, Google AI Studio anahtarları Google'ın istemleri ürünlerini geliştirmek için kullanmasına izin verebilir. <terms>Google'ın Gemini API şartlarını</terms> kontrol edin. Literary Universe, Google'ın günlüklerini denetlemez.",
   "settings.naver.loginFailed": "NAVER ile giriş tamamlanamadı. Tekrar deneyin veya başka bir giriş yöntemi kullanın.",
-  "settings.socialLastLogin": "Bu hesabın bağlantısını kesmeden önce bir şifre belirleyin veya kullanılabilir başka bir giriş yöntemi bağlayın."
+  "settings.socialLastLogin": "Bu hesabın bağlantısını kesmeden önce bir şifre belirleyin veya kullanılabilir başka bir giriş yöntemi bağlayın.",
+  "settings.languages.charactersPerMinute": "Okuma hızı (dakikada karakter)",
+  "settings.languages.charactersPerMinuteExplained": "Bir hikâyeyi okumanızın ne kadar süreceğini tahmin etmek için bu değeri kullanıyoruz. Dakikada {defaultSpeed, number} karakter kullanmak için alanı boş bırakın.",
+  "settings.languages.measureReadingSpeed": "Okuma hızınızı ölçün"
 }

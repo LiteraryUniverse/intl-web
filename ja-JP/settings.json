@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Fuguのサブスクリプションを使用するには、Sakanaのキーを作成する際に「Subscription」を選択し、従量課金へのフォールバックをオフにしてください。接続する前に、<setup>Sakanaのセットアップガイド</setup>を読み、<terms>提供地域</terms>を確認してください。",
   "settings.externalKeys.googleHelp": "Google AI Studio のキーは、有料の Gemini API または Vertex プロジェクトを使わない場合、Google がプロンプトを製品改善に使うことがあります。<terms>Google の Gemini API 利用規約</terms>を確認してください。Literary Universe は Google のログを制御しません。",
   "settings.naver.loginFailed": "NAVERでのサインインが完了しませんでした。もう一度試すか、別のサインイン方法をご利用ください。",
-  "settings.socialLastLogin": "このアカウントの連携を解除する前に、パスワードを設定するか、利用可能な別のサインイン方法を連携してください。"
+  "settings.socialLastLogin": "このアカウントの連携を解除する前に、パスワードを設定するか、利用可能な別のサインイン方法を連携してください。",
+  "settings.languages.charactersPerMinute": "読書速度（文字/分）",
+  "settings.languages.charactersPerMinuteExplained": "物語を読むのにかかる時間の目安を計算するために使用します。空欄にすると、毎分{defaultSpeed, number}文字が使われます。",
+  "settings.languages.measureReadingSpeed": "読書速度を測定する"
 }

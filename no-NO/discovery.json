@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Søk etter tittel, forfatter eller nøkkelord",
   "discovery.translation.chaptersAvailable": "Kapitler tilgjengelige i denne oversettelsen",
   "discover.searchComic.title": "Søk etter manga og tegneserier",
-  "discover.searchComic.description": "Søk etter manga og tegneserier"
+  "discover.searchComic.description": "Søk etter manga og tegneserier",
+  "story.estimatedReadingTime.explainedCharacters": "Basert på en standard lesehastighet på {avgReadingNum, number} tegn per minutt.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Basert på lesehastigheten din på {wpm, number} tegn per minutt."
 }

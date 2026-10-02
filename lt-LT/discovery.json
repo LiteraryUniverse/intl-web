@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Ieškokite pagal pavadinimą, autorių arba raktažodį",
   "discovery.translation.chaptersAvailable": "Šiame vertime pasiekiami skyriai",
   "discover.searchComic.title": "Ieškoti mangos ir komiksų",
-  "discover.searchComic.description": "Ieškokite mangos ir komiksų"
+  "discover.searchComic.description": "Ieškokite mangos ir komiksų",
+  "story.estimatedReadingTime.explainedCharacters": "Apskaičiuota pagal numatytąjį {avgReadingNum, number} simbolių per minutę skaitymo greitį.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Apskaičiuota pagal tavo {wpm, number} simbolių per minutę skaitymo greitį."
 }

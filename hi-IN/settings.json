@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "अपनी Fugu सदस्यता का उपयोग करने के लिए, अपनी Sakana कुंजी बनाते समय Subscription चुनें और pay-as-you-go फ़ॉलबैक बंद कर दें। जोड़ने से पहले <setup>Sakana की सेटअप गाइड</setup> पढ़ें और <terms>क्षेत्रीय उपलब्धता</terms> जाँचें।",
   "settings.externalKeys.googleHelp": "Google AI Studio कुंजियों के साथ Google उत्पादों को बेहतर बनाने के लिए प्रॉम्प्ट का उपयोग कर सकता है, जब तक कि आप सशुल्क Gemini API या Vertex प्रोजेक्ट का उपयोग न करें। <terms>Google की Gemini API शर्तें</terms> देखें। Literary Universe का Google के लॉग पर कोई नियंत्रण नहीं है।",
   "settings.naver.loginFailed": "NAVER साइन-इन पूरा नहीं हुआ। पुनः प्रयास करें या साइन-इन का कोई दूसरा तरीका अपनाएँ।",
-  "settings.socialLastLogin": "इस खाते को डिस्कनेक्ट करने से पहले पासवर्ड सेट करें या साइन-इन का कोई दूसरा उपलब्ध तरीका जोड़ें।"
+  "settings.socialLastLogin": "इस खाते को डिस्कनेक्ट करने से पहले पासवर्ड सेट करें या साइन-इन का कोई दूसरा उपलब्ध तरीका जोड़ें।",
+  "settings.languages.charactersPerMinute": "पढ़ने की गति (प्रति मिनट अक्षर)",
+  "settings.languages.charactersPerMinuteExplained": "हम इसका उपयोग यह अनुमान लगाने के लिए करते हैं कि कहानी पढ़ने में आपको कितना समय लगेगा। प्रति मिनट {defaultSpeed, number} अक्षरों का उपयोग करने के लिए यह फ़ील्ड खाली छोड़ दें।",
+  "settings.languages.measureReadingSpeed": "अपनी पढ़ने की गति मापें"
 }

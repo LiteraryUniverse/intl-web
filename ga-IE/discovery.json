@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "Caibidlí ar fáil san aistriúchán seo",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "Bunaithe ar luas réamhshocraithe léitheoireachta de {avgReadingNum, number} carachtar sa nóiméad.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Bunaithe ar do luas léitheoireachta de {wpm, number} carachtar sa nóiméad."
 }

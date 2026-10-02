@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Maghanap ayon sa pamagat, may-akda, o keyword",
   "discovery.translation.chaptersAvailable": "Mga kabanatang available sa pagsasaling ito",
   "discover.searchComic.title": "Maghanap ng manga at komiks",
-  "discover.searchComic.description": "Maghanap ng manga at komiks"
+  "discover.searchComic.description": "Maghanap ng manga at komiks",
+  "story.estimatedReadingTime.explainedCharacters": "Batay sa karaniwang itinakdang bilis ng pagbasa na {avgReadingNum, number} karakter bawat minuto.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Batay sa bilis mo sa pagbasa na {wpm, number} karakter bawat minuto."
 }

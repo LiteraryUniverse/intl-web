@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "若要使用您的 Fugu 訂閱，請在建立 Sakana 金鑰時選擇 Subscription，並關閉隨用隨付的備援。連線前請先閱讀 <setup>Sakana 的設定指南</setup>並確認<terms>各地區的可用情況</terms>。",
   "settings.externalKeys.googleHelp": "除非你使用付費 Gemini API 或 Vertex 專案，否則 Google AI Studio 金鑰可能讓 Google 使用提示來改進產品。請查看<terms>Google 的 Gemini API 條款</terms>。Literary Universe 不控制 Google 的紀錄。",
   "settings.naver.loginFailed": "NAVER 登入未完成。請再試一次或使用其他登入方式。",
-  "settings.socialLastLogin": "中斷此帳戶的連結前，請先設定密碼或連結另一種可用的登入方式。"
+  "settings.socialLastLogin": "中斷此帳戶的連結前，請先設定密碼或連結另一種可用的登入方式。",
+  "settings.languages.charactersPerMinute": "閱讀速度（每分鐘字數）",
+  "settings.languages.charactersPerMinuteExplained": "我們用這個數值估算您讀完一篇故事所需的時間。留空時會使用每分鐘 {defaultSpeed, number} 字。",
+  "settings.languages.measureReadingSpeed": "測量您的閱讀速度"
 }

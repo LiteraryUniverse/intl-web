@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "ამ თარგმანში ხელმისაწვდომი თავები",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "გამოთვლილია ნაგულისხმევი კითხვის სიჩქარის მიხედვით: წუთში {avgReadingNum, number} სიმბოლო.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "გამოთვლილია თქვენი კითხვის სიჩქარის მიხედვით: წუთში {wpm, number} სიმბოლო."
 }

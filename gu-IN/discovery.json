@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "આ અનુવાદમાં ઉપલબ્ધ પ્રકરણો",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "પ્રતિ મિનિટ {avgReadingNum, number} અક્ષરોની મૂળભૂત વાંચવાની ગતિના આધારે ગણતરી કરેલ છે.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "પ્રતિ મિનિટ {wpm, number} અક્ષરોની તમારી વાંચવાની ગતિના આધારે ગણતરી કરેલ છે."
 }

@@ -195,8 +195,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
-  "settings.languages.wordsPerMinute": "Reading speed (words per minute)",
-  "settings.languages.wordsPerMinuteExplained": "We use this to estimate how long a story will take you to read. Leave it empty to use the average of {average, number} words per minute. Not sure about yours? <a>Measure your reading speed</a>.",
+  "settings.languages.wordsPerMinute": "ni sutra lo nu tcidu (ni valsi lo mentu)",
+  "settings.languages.wordsPerMinuteExplained": "mi pilno ti lo nu smadi lo temci be lo nu do tcidu lo lisri .i ko na ciska fi ti te zu'e lo nu pilno lo cnano be li {average, number} lo ni valsi lo mentu .i xu do na djuno lo ni do sutra .i <a>ko merli lo ni do sutra lo nu tcidu</a>",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",
@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "To use your Fugu subscription, choose Subscription when creating your Sakana key and turn off pay-as-you-go fallback. Read <setup>Sakana's setup guide</setup> and check <terms>regional availability</terms> before connecting.",
   "settings.externalKeys.googleHelp": "Google AI Studio keys may let Google use prompts to improve products unless you use a paid Gemini API or Vertex project. Check <terms>Google's Gemini API terms</terms>. Literary Universe does not control Google's logs.",
   "settings.naver.loginFailed": "NAVER sign-in did not finish. Try again or use another sign-in method.",
-  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account."
+  "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
+  "settings.languages.charactersPerMinute": "ni sutra lo nu tcidu (ni lerfu lo mentu)",
+  "settings.languages.charactersPerMinuteExplained": "mi pilno ti lo nu smadi lo temci be lo nu do tcidu lo lisri .i ko na ciska fi ti te zu'e lo nu pilno li {defaultSpeed, number} lo ni lerfu lo mentu",
+  "settings.languages.measureReadingSpeed": "ko merli lo ni do sutra lo nu tcidu"
 }

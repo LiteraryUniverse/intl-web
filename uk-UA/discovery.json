@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Пошук за назвою, автором або ключовим словом",
   "discovery.translation.chaptersAvailable": "Розділи, доступні в цьому перекладі",
   "discover.searchComic.title": "Шукати манґу та комікси",
-  "discover.searchComic.description": "Шукати манґу та комікси"
+  "discover.searchComic.description": "Шукати манґу та комікси",
+  "story.estimatedReadingTime.explainedCharacters": "Розраховано на основі типової швидкості читання {avgReadingNum, number} символів за хвилину.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Розраховано на основі вашої швидкості читання {wpm, number} символів за хвилину."
 }

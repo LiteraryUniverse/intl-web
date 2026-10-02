@@ -236,5 +236,8 @@
   "settings.externalKeys.sakanaHelp": "Pentru a-ți folosi abonamentul Fugu, alege Subscription la crearea cheii Sakana și dezactivează trecerea automată la plata în funcție de utilizare. Citește <setup>ghidul de configurare Sakana</setup> și verifică <terms>disponibilitatea regională</terms> înainte de conectare.",
   "settings.externalKeys.googleHelp": "Cheile Google AI Studio îi pot permite companiei Google să folosească prompturile pentru îmbunătățirea produselor, cu excepția cazului în care folosești un API Gemini plătit sau un proiect Vertex. Verifică <terms>termenii Google pentru Gemini API</terms>. Literary Universe nu controlează jurnalele Google.",
   "settings.naver.loginFailed": "Autentificarea cu NAVER nu s-a finalizat. Încearcă din nou sau folosește altă metodă de autentificare.",
-  "settings.socialLastLogin": "Setează o parolă sau conectează o altă metodă de autentificare disponibilă înainte de a deconecta acest cont."
+  "settings.socialLastLogin": "Setează o parolă sau conectează o altă metodă de autentificare disponibilă înainte de a deconecta acest cont.",
+  "settings.languages.charactersPerMinute": "Viteză de citire (caractere pe minut)",
+  "settings.languages.charactersPerMinuteExplained": "Folosim această valoare pentru a estima cât timp îți va lua să citești o poveste. Lasă câmpul gol pentru a folosi {defaultSpeed, number} caractere pe minut.",
+  "settings.languages.measureReadingSpeed": "Măsoară-ți viteza de citire"
 }

@@ -114,5 +114,7 @@
   "discover.search.text.placeholder": "Search by title, author, or keyword",
   "discovery.translation.chaptersAvailable": "ഈ വിവർത്തനത്തിൽ ലഭ്യമായ അധ്യായങ്ങൾ",
   "discover.searchComic.title": "Search for manga & comics",
-  "discover.searchComic.description": "Search for manga and comics"
+  "discover.searchComic.description": "Search for manga and comics",
+  "story.estimatedReadingTime.explainedCharacters": "മിനിറ്റിൽ {avgReadingNum, number} അക്ഷരങ്ങൾ എന്ന സ്ഥിരസ്ഥിതി വായനാവേഗത്തെ അടിസ്ഥാനമാക്കിയാണ് കണക്കാക്കിയത്.",
+  "story.estimatedReadingTime.explainedPersonalCharacters": "മിനിറ്റിൽ {wpm, number} അക്ഷരങ്ങൾ എന്ന നിങ്ങളുടെ വായനാവേഗത്തെ അടിസ്ഥാനമാക്കിയാണ് കണക്കാക്കിയത്."
 }
