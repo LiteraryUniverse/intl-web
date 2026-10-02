@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Elrejtés kis képernyőkön",
   "blog.people": "Személyek",
   "blog.people.intro": "Adj valakinek hozzáférést a blog egy részéhez anélkül, hogy a fiókodat is átadnád. Minden jogosultság külön működik, és csak erre a blogra vonatkozik.",
   "blog.people.add": "Valaki hozzáadása ehhez a bloghoz",
@@ -347,12 +347,12 @@
   "blog.billing": "Számlázás",
   "blog.billing.intro": "Kezeld az előfizetést, amely ezt a blogot fizeti: válts csomagot, frissítsd a fizetési módot, vagy tölts le számlákat.",
   "blog.billing.open": "Fizetési portál megnyitása",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "A blog nevének elrejtése",
+  "blog.menus.logoSize": "Logó mérete",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "Teljes szélesség",
   "blog.pages.import": "Tervsablon importálása",
   "blog.pages.import.hint": "Válassza ki a sablon HTML-fájlját a hivatkozott képekkel együtt. A szövegek és képek az importálás után is szerkeszthetők maradnak.",
   "blog.pages.import.files": "Sablonfájl + képek",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Egyszínű",
   "blog.theme.generate.mode.pastel": "Pasztell",
   "blog.theme.generate.nudged": "Olvashatóság miatt módosítva: {tokens}.",
-  "blog.theme.generate.unreadable": "A képet nem sikerült beolvasni. Töltse le, és válassza ki fájlként."
+  "blog.theme.generate.unreadable": "A képet nem sikerült beolvasni. Töltse le, és válassza ki fájlként.",
+  "blogs.readFullPost": "A teljes bejegyzés elolvasása"
 }

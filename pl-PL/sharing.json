@@ -71,13 +71,13 @@
   "sharing.advanced.bgLimitReached": "Osiągnięto maksymalną liczbę obrazów tła dla Twojej subskrypcji.",
   "sharing.advanced.bgUploadError": "Nie udało się przesłać obrazu tła.",
   "sharing.advanced.deleteBackground": "Usuń tło",
-  "sharing.card.title": "Link preview",
-  "sharing.card.description": "This image appears when someone shares a link to your work. By default, we generate it from the cover. Upload your own image to replace the automatic card, or switch back at any time.",
-  "sharing.card.visibility": "This preview is for your workshop. Public links show this card only when the work is published and visible to guests. Chapter links use the story’s card.",
-  "sharing.card.automatic": "Generated from the cover",
-  "sharing.card.custom": "Your custom share card",
-  "sharing.card.preview": "Social link preview image",
-  "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
-  "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.title": "Podgląd linku",
+  "sharing.card.description": "Ten obraz pojawia się, gdy ktoś udostępnia link do Twojego utworu. Domyślnie generujemy go z okładki. Prześlij własny obraz, aby zastąpić automatyczną kartę, albo w dowolnej chwili wróć do automatycznej.",
+  "sharing.card.visibility": "Ten podgląd jest przeznaczony dla Twojego warsztatu. Publiczne linki pokazują tę kartę tylko wtedy, gdy utwór jest opublikowany i widoczny dla gości. Linki do rozdziałów korzystają z karty opowieści.",
+  "sharing.card.automatic": "Wygenerowano z okładki",
+  "sharing.card.custom": "Twoja własna karta udostępniania",
+  "sharing.card.preview": "Obraz podglądu linku w mediach społecznościowych",
+  "sharing.card.uploadRequirements": "Prześlij plik PNG, JPEG lub WebP o rozmiarze do 5 MB. Użyj wymiarów 1200 × 630 pikseli; inne rozmiary zostaną przycięte.",
+  "sharing.card.reset": "Użyj okładki automatycznie",
+  "sharing.card.examples": "Przykładowe podglądy linków. Każda platforma może inaczej przycinać obrazy, skracać tekst lub pokazywać wersję z pamięci podręcznej."
 }

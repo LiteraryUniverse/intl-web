@@ -135,7 +135,7 @@
   "comics.search.noResults": "Manga ar komiksų nerasta.",
   "comics.search.status": "Publikavimo būsena",
   "comics.settings.universe": "Visata",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Kūrinio nustatymai",
   "comics.split.author": "Autorius",
   "comics.splitMustTotal": "Pajamų pasidalijimas turi sudaryti 100 %.",
   "comics.startReading": "Pradėti skaityti",
@@ -196,6 +196,9 @@
   "comics.volumes": "Tomai",
   "comics.volumes.empty": "Tomų nenustatyta.",
   "comics.volumesHelp": "Parduokite skyrių intervalus kaip tomus. Skyrių numeriai įskaitomi, o intervalai negali persidengti.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Pažymėti kaip užbaigtą, kai bus išleistas paskutinis suplanuotas skyrius ({date})",
+  "comics.finish.scheduledNotice": "Kūrinys ({format}) bus pažymėtas kaip užbaigtas {date}, kai bus išleistas paskutinis suplanuotas jo skyrius.",
+  "comics.reader.loading": "Komiksas",
+  "comics.translation.mode.label": "Režimas: {mode}",
+  "comics.pagesCount": "{count, plural, one {# puslapis} few {# puslapiai} many {# puslapio} other {# puslapių}}"
 }

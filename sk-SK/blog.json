@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Skryť na malých obrazovkách",
   "blog.people": "Ľudia",
   "blog.people.intro": "Dajte niekomu prístup k časti tohto blogu bez toho, aby ste mu dali svoj účet. Každé oprávnenie funguje samostatne a platí len pre tento blog.",
   "blog.people.add": "Pridať niekoho k tomuto blogu",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monochromatická",
   "blog.theme.generate.mode.pastel": "Pastelová",
   "blog.theme.generate.nudged": "Upravené kvôli čitateľnosti: {tokens}.",
-  "blog.theme.generate.unreadable": "Tento obrázok sa nepodarilo načítať. Stiahnite ho a vyberte ako súbor."
+  "blog.theme.generate.unreadable": "Tento obrázok sa nepodarilo načítať. Stiahnite ho a vyberte ako súbor.",
+  "blogs.readFullPost": "Prečítať celý príspevok"
 }

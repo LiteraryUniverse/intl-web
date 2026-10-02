@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Pangisi suara",
   "audiobook.team.you": "ragané",
   "audiobook.whereToListen": "Genah mirengang",
+  "audiobook.team.members": "Team members",
+  "audiobook.team.noMembers": "No team members yet.",
   "audiobook.orgFeatureDisabled": "Audio books are not enabled for this organization."
 }

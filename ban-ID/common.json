@@ -121,6 +121,9 @@
   "common.justNow": "Wau pisan",
   "common.label": "Label",
   "common.lang.select": "Pilih basa",
+  "common.lang.change": "Change language",
+  "common.lang.readingLanguagePitch": "Want stories in a different language than the interface? Create a free account to set your reading language.",
+  "common.lang.createAccount": "Create a free account",
   "common.language": "Basa",
   "common.legal.community": "Pedoman Komunitas",
   "common.legal.cookies": "Indik cookie",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "Something went wrong. Please try again.",
+  "common.savedOffline": "Saved offline. It will sync when you reconnect.",
+  "common.synced": "All changes synced.",
+  "common.autoSaveDeferred": "Couldn't save right now. Your changes are kept on this device and will sync later."
 }

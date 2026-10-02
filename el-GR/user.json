@@ -20,7 +20,7 @@
   "user.verification.publicFigure": "Επαληθευμένο δημόσιο πρόσωπο",
   "profile.storiesCount": "{count, number} {count, plural,\n    one {ιστορία}\n    other {ιστορίες}\n  }",
   "profile.universesCount": "{count, number} {count, plural,\n    one {σύμπαν}\n    other {σύμπαντα}\n  }",
-  "profile.fanFictionsCount": "{count, number} {count, plural,\n    one {fan fiction}\n    other {fan fictions} \n  }",
+  "profile.fanFictionsCount": "{count, number} {count, plural,\n    one {fan fiction}\n    other {fan fiction} \n  }",
   "profile.works": "Έργα",
   "profile.wishlist": "Λίστα Επιθυμιών",
   "profile.storiesBy": "Ιστορίες που δημιουργήθηκαν από {username}",

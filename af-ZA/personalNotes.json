@@ -19,9 +19,9 @@
   "personalNotes.type.encEntry": "Ensiklopedie Inskrywing",
   "personalNotes.type.revTextBlock": "Hersiening Teksblok",
   "personalNotes.recentSearches": "Onlangse Soek:",
-  "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
+  "personalNotes.myNotes": "My persoonlike notas",
+  "personalNotes.hasNotes": "Het persoonlike notas",
+  "personalNotes.recentSearched": "Onlangse soektogte:",
+  "personalNotes.search.noFound": "Geen items gevind nie",
   "personalNotes.type": "Type"
 }

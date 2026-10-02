@@ -135,7 +135,7 @@
   "comics.search.noResults": "Tidak ada manga atau komik yang ditemukan.",
   "comics.search.status": "Status publikasi",
   "comics.settings.universe": "Universe",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Pengaturan karya",
   "comics.split.author": "Penulis",
   "comics.splitMustTotal": "Pembagian pendapatan harus berjumlah 100%.",
   "comics.startReading": "Mulai membaca",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volume",
   "comics.volumes.empty": "Belum ada volume yang ditentukan.",
   "comics.volumesHelp": "Jual rentang bab sebagai volume. Nomor bab bersifat inklusif dan rentang tidak boleh tumpang tindih.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Tandai sebagai selesai setelah bab terjadwal terakhir dirilis ({date})",
+  "comics.finish.scheduledNotice": "{format} akan ditandai sebagai selesai pada {date}, saat bab terjadwal terakhirnya dirilis.",
+  "comics.reader.loading": "Komik",
+  "comics.translation.mode.label": "Mode: {mode}",
+  "comics.pagesCount": "{count, plural, other {# halaman}}"
 }

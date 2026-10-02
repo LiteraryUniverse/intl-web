@@ -71,6 +71,7 @@
   "settings.country.title": "Do thír",
   "settings.country.usage": "Táimid dlite go dlíthiúil ceist a chur ort faoi do thír chun freagra a thabhairt ar fhiosrúcháin rialtais. Úsáidimid na sonraí seo do anailís an phlátafhoirm agus do anailís neamhainmnithe do chruthaitheoirí nuair a léann tú a scéalta. Má ba mhaith leat, is féidir leat an eolas seo a thaispeáint ar do phróifíl.",
   "settings.country.public": "Taispeáin do thír go poiblí",
+  "settings.country.currency": "Preferred currency",
   "settings.country.select": "Roghnaigh do thír",
   "settings.emailSubscriptions.newsletterTech": "Nuachtlitir uaireanta ónár bhforbróirí",
   "settings.emailSubscriptions.newsletterFeatures": "Eolas faoi ghnéithe nua",

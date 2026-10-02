@@ -233,5 +233,19 @@
   "email.continueReading.subject": "📖 Continue “{storyTitle}”",
   "email.continueReading.title": "Pick up where you left off",
   "email.continueReading.details": "Your next chapter in “{storyTitle}” is “{chapterTitle}”.",
-  "email.continueReading.cta": "Continue reading"
+  "email.continueReading.cta": "Continue reading",
+  "email.diary.reminder.subject": "დროა, დღიურში ჩაწეროთ",
+  "email.diary.reminder.subject.streak": "შეინარჩუნეთ დღიურის წერის {streak}-დღიანი სერია",
+  "email.diary.reminder.preview": "დროა, დღიურში რამე ჩაწეროთ",
+  "email.diary.reminder.previewStreak": "შეინარჩუნეთ დღიურის წერის {streak}-დღიანი სერია!",
+  "email.diary.reminder.title": "დაიწყეთ დღიურის წერა დღესვე",
+  "email.diary.reminder.titleStreak": "თქვენ დღიურის წერის {streak}-დღიანი სერია გაქვთ!",
+  "email.diary.reminder.body": "დიდი მწერლები დღიურებს წერენ. დღეს რამდენიმე წუთი დაუთმეთ იმას, რომ გაიაზროთ გასული დღე, ჩაინიშნოთ იდეები ან უბრალოდ თავისუფლად წეროთ.",
+  "email.diary.reminder.bodyStreak": "არ გაწყვიტოთ სერია! დღეს რამდენიმე წუთი დაუთმეთ ფიქრს, წერას და თქვენი აზრების ჩანიშვნას.",
+  "email.diary.reminder.cta": "ჩაწერეთ დღიურში",
+  "email.diary.reminder.promptLabel": "დღევანდელი წერის მინიშნება:",
+  "email.storyStatus.title": "ისტორიის სტატუსის განახლება",
+  "email.storyStatus.intro": "თქვენი ისტორიის სტატუსი შეიცვალა.",
+  "email.storyStatus.why": "აი, რა მოხდა და რატომ:",
+  "email.storyStatus.next": "რა მოხდება შემდეგ:"
 }

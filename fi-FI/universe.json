@@ -2,7 +2,7 @@
   "universe.authors.title.meta": "{title} kirjailijat",
   "universe.fanfiction.see": "Kaikki Fan Fiction -tarinat {universe}",
   "universe.fanfiction.desc": "Fan Fiction -tarinat {universe}",
-  "universe.fanfiction.for": "{universe} Fan Fiction",
+  "universe.fanfiction.for": "{universe} – fanifiktio",
   "universe.fanarts.for": "{universe} Fan Artit",
   "universe.fansettings.for": "{universe} Fan Asetukset",
   "universe.fanfiction.stories": "Tarinat",
@@ -31,8 +31,8 @@
   "universe.createdAt": "Luotu: {date}",
   "universe.authors.none": "Tekijöitä koskevia tietoja ei ole saatavilla.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Salli kommentit",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Fanitaidekuva",
   "universe.stories": "Stories"
 }

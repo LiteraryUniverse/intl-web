@@ -31,8 +31,8 @@
   "universe.createdAt": "Oluşturuldu: {date}",
   "universe.authors.none": "Yazar bilgisi mevcut değildir.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Yorumlara izin ver",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Hayran sanatı görseli",
   "universe.stories": "Stories"
 }

@@ -96,5 +96,6 @@
 	"signup.complete.description": "Dėkojame, kad užpildėte savo profilį. Atsižvelgdami į jūsų pageidavimus, pritaikėme jūsų patirtį.",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "Sign-up Wizard",
-	"signup.userType.artist.description": "Piešiu mangą, komiksus ar iliustracijas"
+	"signup.userType.artist.description": "Piešiu mangą, komiksus ar iliustracijas",
+  "signup.password2.label": "Patvirtinkite slaptažodį"
 }

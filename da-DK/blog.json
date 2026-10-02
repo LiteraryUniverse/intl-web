@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Skjul på små skærme",
   "blog.people": "Personer",
   "blog.people.intro": "Giv nogen adgang til en del af denne blog uden at give dem din konto. Hver tilladelse virker for sig og gælder kun denne blog.",
   "blog.people.add": "Tilføj nogen til denne blog",
@@ -347,12 +347,12 @@
   "blog.billing": "Betaling",
   "blog.billing.intro": "Administrér det abonnement, der betaler for denne blog — skift abonnement, opdatér betalingsmetoden eller hent fakturaer.",
   "blog.billing.open": "Åbn betalingsportalen",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "Skjul bloggens navn",
+  "blog.menus.logoSize": "Logostørrelse",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "Fuld bredde",
   "blog.pages.import": "Importér designskabelon",
   "blog.pages.import.hint": "Vælg skabelonens HTML-fil sammen med de billeder, den henviser til. Tekster og billeder kan stadig redigeres efter import.",
   "blog.pages.import.files": "Skabelonfil + billeder",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monokrom",
   "blog.theme.generate.mode.pastel": "Pastel",
   "blog.theme.generate.nudged": "Justeret for læsbarhed: {tokens}.",
-  "blog.theme.generate.unreadable": "Billedet kunne ikke læses. Download det og vælg det som fil."
+  "blog.theme.generate.unreadable": "Billedet kunne ikke læses. Download det og vælg det som fil.",
+  "blogs.readFullPost": "Læs hele indlægget"
 }

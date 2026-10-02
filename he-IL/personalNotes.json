@@ -19,9 +19,9 @@
   "personalNotes.type.encEntry": "ערך באנציקלופדיה",
   "personalNotes.type.revTextBlock": "מקטע טקסט לתיקון",
   "personalNotes.recentSearches": "חיפושים אחרונים:",
-  "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
+  "personalNotes.myNotes": "ההערות האישיות שלי",
+  "personalNotes.hasNotes": "יש הערות אישיות",
+  "personalNotes.recentSearched": "חיפושים אחרונים:",
+  "personalNotes.search.noFound": "לא נמצאו פריטים",
   "personalNotes.type": "Type"
 }

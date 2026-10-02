@@ -27,12 +27,12 @@
   "universe.fanFiction.unhide": "Vis fanfiction",
   "universe.fanFiction.create": "Opprett ny fan fiction",
   "universe.fanFiction.notAllowed": "Dette universet tillater ikke visning av fanfiksjon.",
-  "universe.storiesCount": "Total number of stories in the universe",
+  "universe.storiesCount": "Totalt antall historier i universet",
   "universe.createdAt": "Created: {date}",
-  "universe.authors.none": "No authors information available.",
+  "universe.authors.none": "Ingen informasjon om forfattere tilgjengelig.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Tillat kommentarer",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Fankunstbilde",
   "universe.stories": "Stories"
 }

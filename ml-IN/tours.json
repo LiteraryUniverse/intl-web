@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "ടൂർ ഒഴിവാക്കുക",
+    "close": "ടൂർ അടയ്ക്കുക",
+    "end": "ടൂർ അവസാനിപ്പിക്കുക",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "നീങ്ങാൻ ആരോ കീകൾ ഉപയോഗിക്കുക, അടയ്ക്കാൻ ESC",
+    "start": "ടൂർ തുടങ്ങുക"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "നിങ്ങളുടെ ഡാഷ്ബോർഡിലേക്ക് സ്വാഗതം",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Literary Universe-ലേക്ക് സ്വാഗതം",
+      "content": "നിങ്ങളുടെ എഴുത്ത് യാത്ര തുടങ്ങാൻ സഹായിക്കുന്നതിന്, ഡാഷ്ബോർഡിലൂടെ നമുക്ക് ഒരു ചെറിയ ടൂർ നടത്താം."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "പ്രധാന നാവിഗേഷൻ",
+      "content": "ഇതാണ് നിങ്ങളുടെ പ്രധാന നാവിഗേഷൻ മെനു. ഓരോ ഇനവും നമുക്ക് നോക്കാം."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "പ്രവർത്തന വിവരങ്ങളും, നിങ്ങളുടെ പ്രവർത്തനശാല, ലൈബ്രറി, സാമൂഹ്യ സവിശേഷതകൾ എന്നിവയിലേക്കുള്ള വഴിയും അടങ്ങിയ നിങ്ങളുടെ സ്വന്തം ഹോംപേജ്."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "മറ്റ് ഉപയോക്താക്കൾ സൃഷ്ടിച്ച കഥകളും ബ്രഹ്മാണ്ഡങ്ങളും കണ്ടെത്തൂ. രചയിതാക്കളുടെ അണിയറക്കഥകളും വിശദമായ ബ്ലോഗ് പോസ്റ്റുകളും വായിക്കൂ. നിങ്ങളുടെ അടുത്ത പ്രിയപ്പെട്ട വായന കണ്ടെത്തൂ!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "പങ്കിടുന്ന സന്തോഷം പത്തിരട്ടി സന്തോഷമാണ്! സമാന ചിന്താഗതിക്കാരുടെ ഗ്രൂപ്പുകൾ കണ്ടെത്തൂ, ഞങ്ങളുടെ Discord-ൽ ചേരൂ, Literary Universe-ൽ മറ്റാരൊക്കെയുണ്ടെന്ന് അറിയൂ!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "ആശയങ്ങളും കുറിപ്പുകളും ചിന്തകളും കുറിച്ചിടാൻ എപ്പോഴും കൈയെത്തും ദൂരത്തുള്ള നിങ്ങളുടെ സ്വന്തം നോട്ടുപുസ്തകമാണ് സ്ക്രാച്ച് പാട്."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "അഭിപ്രായങ്ങൾ, ഫോളോകൾ, മറ്റ് കമ്മ്യൂണിറ്റി ഇടപെടലുകൾ എന്നിവയെക്കുറിച്ച് അപ്പപ്പോൾ അറിയൂ."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "മറ്റ് എഴുത്തുകാരുമായും ബീറ്റാ റീഡർമാരുമായും ആശയവിനിമയം നടത്തൂ, പ്രോജക്ടുകളിൽ ഒരുമിച്ച് പ്രവർത്തിക്കൂ."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങളും മുൻഗണനകളും അക്കൗണ്ട് ക്രമീകരണങ്ങളും കൈകാര്യം ചെയ്യൂ."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "നിങ്ങളുടെ കഥകളും ബ്രഹ്മാണ്ഡങ്ങളും എഴുതാനും എഡിറ്റ് ചെയ്യാനും കൈകാര്യം ചെയ്യാനുമുള്ള നിങ്ങളുടെ സർഗ്ഗാത്മക ഇടം."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "നിങ്ങളുടെ ലൈബ്രറി",
+        "content": "നിങ്ങൾ സേവ് ചെയ്ത കഥകളും റീഡിങ് ലിസ്റ്റുകളും ഡൗൺലോഡ് ചെയ്ത ഉള്ളടക്കവും എല്ലാം ഒരിടത്ത്."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "ക്വിക്ക് ആക്‌സസ് മെനു",
+      "content": "പ്രധാന സവിശേഷതകളിലേക്കും ടൂളുകളിലേക്കും ഈ സൈഡ്ബാർ വേഗത്തിൽ എത്തിക്കുന്നു."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "ഒരു എഴുത്തുകാരനെന്ന നിലയിൽ, മാജിക് സംഭവിക്കുന്നത് നിങ്ങളുടെ പ്രവർത്തനശാലയിലാണ്! പുതിയൊരു കഥ തുടങ്ങൂ, നിലവിലുള്ളത് തുടർന്നെഴുതൂ, അല്ലെങ്കിൽ നിങ്ങളുടെ ബ്രഹ്മാണ്ഡം വികസിപ്പിക്കൂ. നിങ്ങളുടെ വായനക്കാർ കാത്തിരിക്കുന്നു!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "ഒരു വായനക്കാരനെന്ന നിലയിൽ, അതിശയകരമായ കഥകളിലേക്കുള്ള നിങ്ങളുടെ കവാടമാണ് അറിയിപ്പ്! പുതിയ വിഭാഗങ്ങൾ പരീക്ഷിക്കൂ, പ്രിയപ്പെട്ട രചയിതാക്കളെ പിന്തുടരൂ, നിങ്ങളുടെ റീഡിങ് ലിസ്റ്റുകൾ ഒരുക്കൂ. സന്തോഷകരമായ വായന!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "ഇവിടെ പുതിയ ആളാണോ? നിങ്ങളുടെ ഡാഷ്ബോർഡിലൂടെ ഒരു ചെറിയ ടൂർ നടത്തൂ!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "നിങ്ങളുടെ പ്രവർത്തനശാലയിലേക്ക് സ്വാഗതം",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Literary Universe പ്രവർത്തനശാലയിലേക്ക് സ്വാഗതം",
+      "content": "Literary Universe-ലെ നിങ്ങളുടെ സർഗ്ഗാത്മക യാത്രയുടെ ഹൃദയമാണ് നിങ്ങളുടെ പ്രവർത്തനശാല. ഇവിടെ നിങ്ങളുടെ കഥകളും ബ്രഹ്മാണ്ഡങ്ങളും സൃഷ്ടിക്കാനും കൈകാര്യം ചെയ്യാനും മറ്റുള്ളവരുമായി സഹകരിക്കാനും കഴിയും."
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "രചയിതാവിന്റെ വഴി",
+      "content": "രചയിതാവിന്റെ വഴിയിലൂടെ ഒരു എഴുത്തുകാരനെന്ന നിലയിലുള്ള നിങ്ങളുടെ പുരോഗതി പിന്തുടരൂ. എഴുത്തിലെ നാഴികക്കല്ലുകൾ പൂർത്തിയാക്കിയും കമ്മ്യൂണിറ്റിയുമായി ഇടപഴകിയും ലെവൽ ഉയർത്താൻ ഈ ഗെയിം രീതിയിലുള്ള സംവിധാനം സഹായിക്കുന്നു. ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്ന് കൂടുതലറിയാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "പുതിയതെന്തെങ്കിലും തുടങ്ങൂ",
+      "content": "നിങ്ങൾ എന്താണ് ഉണ്ടാക്കാൻ ആഗ്രഹിക്കുന്നതെന്ന് Start creating ചോദിക്കുന്നു: ഒരേ ലോകം പങ്കിടുന്ന കഥകൾക്കായി ഒരു ബ്രഹ്മാണ്ഡം, സ്വതന്ത്രമായി നിൽക്കുന്ന ഒരു കഥ, ആരാധക കഥ, അല്ലെങ്കിൽ ഒരു കോമിക്. ആദ്യ തീരുമാനങ്ങളിലൂടെ അത് നിങ്ങളെ നയിക്കുകയും ഒടുവിൽ ഒരു ഡ്രാഫ്റ്റ് നൽകുകയും ചെയ്യും. നിങ്ങൾ പ്രസിദ്ധീകരിക്കുന്നതുവരെ ഒന്നും പ്രസിദ്ധീകരിക്കപ്പെടില്ല."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "നിങ്ങളുടെ എല്ലാ പ്രോജക്ടുകളും",
+      "content": "നിങ്ങളുടെ സ്വന്തമായതോ നിങ്ങൾ പ്രവർത്തിക്കുന്നതോ ആയ എല്ലാ ബ്രഹ്മാണ്ഡങ്ങളും കഥകളും കോമിക്കുകളും ഓഡിയോബുക്കുകളും ഇവിടെ പട്ടികപ്പെടുത്തിയിരിക്കുന്നു. വലതുവശത്തെ ബട്ടണുകൾ കവറുകൾക്കും ഒതുക്കമുള്ള പട്ടികയ്ക്കും ഇടയിൽ മാറ്റുന്നു. സഹകരിക്കാനോ പരിഭാഷപ്പെടുത്താനോ ബീറ്റാ റീഡ് ചെയ്യാനോ ഉള്ള ക്ഷണങ്ങൾ, നിങ്ങൾക്ക് സ്വീകരിക്കാനോ നിരസിക്കാനോ കഴിയുന്ന അഭ്യർത്ഥനകളായി പട്ടികയ്ക്ക് മുകളിൽ കാണാം."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "വേണ്ട പ്രോജക്ട് കണ്ടെത്തൂ",
+      "content": "ആക്‌സസ്, പട്ടികയെ നിങ്ങളുടെ സ്വന്തം പ്രോജക്ടുകൾ, നിങ്ങൾ ടീമിലുള്ള പ്രോജക്ടുകൾ, പരിഭാഷകൾ, അല്ലെങ്കിൽ ബീറ്റാ റീഡറായി നിങ്ങൾ അവലോകനം ചെയ്യുന്ന കഥകൾ എന്നിവയിലേക്ക് ചുരുക്കുന്നു. ഫോർമാറ്റും നിലയും അതിനെ കൂടുതൽ ചുരുക്കുന്നു; ക്രമം ഏറ്റവും ഒടുവിൽ പുതുക്കിയ പ്രോജക്ടിനെ ആദ്യം കൊണ്ടുവരുന്നു."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "നിങ്ങളുടെ യാത്ര തുടരൂ",
+      "content": "രചയിതാവിന്റെ വഴിയിലെ നിങ്ങളുടെ പുരോഗതി കാണാൻ ഇടയ്ക്കിടെ ഇവിടെ വരാൻ മറക്കരുത്. ലെവൽ ഉയർത്താൻ എഴുത്തും സഹകരണവും കമ്മ്യൂണിറ്റിയുമായുള്ള ഇടപഴകലും തുടരൂ! ഇനി, നമുക്ക് എഴുതിത്തുടങ്ങാം!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "നിങ്ങളുടെ സ്വന്തം ലൈബ്രറി",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "വായന തുടരുക",
+      "content": "നിങ്ങളുടെ സ്വന്തം ലൈബ്രറിയിലേക്ക് സ്വാഗതം! വായനാ പുരോഗതി പിന്തുടരാൻ നിങ്ങൾ ചേർത്ത കഥകളും ബ്രഹ്മാണ്ഡങ്ങളും ഇവിടെ കാണാം. നിങ്ങൾ ഏറ്റവും ഒടുവിൽ തുറന്ന ഉള്ളടക്കം 'വായന തുടരുക' വിഭാഗം കാണിക്കുന്നു; നിർത്തിയിടത്തുനിന്ന് എളുപ്പത്തിൽ തുടരാം."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "നിങ്ങളുടെ മുഴുവൻ ലൈബ്രറി",
+      "content": "നിങ്ങളുടെ ലൈബ്രറിയിലുള്ളതെല്ലാം ഈ ടാബ് കാണിക്കുന്നു. അതിനടുത്തുള്ള ടാബുകൾ അതിനെ കഥകൾ, വാങ്ങലുകൾ, ഓഡിയോബുക്കുകൾ, മാംഗയും കോമിക്സും, അല്ലെങ്കിൽ ബ്രഹ്മാണ്ഡങ്ങൾ എന്നിങ്ങനെ ചുരുക്കുന്നു. അപ്‌ഡേറ്റുകൾ ലഭിക്കാനും വായിച്ചുനിർത്തിയ ഇടം നഷ്ടപ്പെടാതിരിക്കാനും ഒരു കഥയോ ബ്രഹ്മാണ്ഡമോ നിങ്ങളുടെ ലൈബ്രറിയിൽ ചേർക്കുക."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "നിങ്ങളുടെ കഥകൾ",
+      "content": "നിങ്ങൾ ലൈബ്രറിയിൽ ചേർത്ത എല്ലാ കഥകളും ഇവിടെ ക്രമീകരിച്ചിരിക്കുന്നു. വായനാ പുരോഗതി പിന്തുടരൂ, പുതിയ അദ്ധ്യായങ്ങളെക്കുറിച്ച് അറിയിപ്പ് നേടൂ, പ്രിയപ്പെട്ട കഥകളിൽ നിർത്തിയ ഇടം ഒരിക്കലും നഷ്ടപ്പെടുത്താതിരിക്കൂ."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡങ്ങൾ",
+      "content": "നിങ്ങൾ ലൈബ്രറിയിൽ ചേർത്ത ബ്രഹ്മാണ്ഡങ്ങൾ ഇവിടെ കാണാം. ഈ ബ്രഹ്മാണ്ഡങ്ങളിലെ പുതിയ കഥകളെക്കുറിച്ച് അറിയൂ, അവയുടെ ജ്ഞാനകോശങ്ങൾ പരിശോധിക്കൂ, കമ്മ്യൂണിറ്റി സവിശേഷതകളിൽ പങ്കെടുക്കൂ."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "റീഡിങ് ലിസ്റ്റുകൾ",
+      "content": "നിങ്ങളുടെ സ്വന്തം റീഡിങ് ലിസ്റ്റുകൾ ഇവിടെ സൃഷ്ടിക്കുകയും കൈകാര്യം ചെയ്യുകയും ചെയ്യാം. പ്രമേയം, സീരീസ്, അല്ലെങ്കിൽ നിങ്ങൾക്ക് യോജിച്ചതെന്ന് തോന്നുന്ന ഏത് മാനദണ്ഡവും അനുസരിച്ച് കഥകൾ ക്രമീകരിക്കൂ. നിങ്ങളുടെ ലിസ്റ്റുകൾ മറ്റുള്ളവരുമായി പങ്കിടാം, അല്ലെങ്കിൽ സ്വകാര്യമായി വെക്കാം."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "സ്വകാര്യ കുറിപ്പുകൾ",
+      "content": "പ്ലാറ്റ്‌ഫോം സബ്സ്ക്രിപ്ഷൻ ഉണ്ടെങ്കിൽ, ഏത് കഥയിലും ബ്രഹ്മാണ്ഡത്തിലും ജ്ഞാനകോശ എൻട്രിയിലും നിങ്ങൾക്ക് സ്വകാര്യ കുറിപ്പുകൾ ചേർക്കാം. Literary Universe വായിക്കുകയും പരിചയപ്പെടുകയും ചെയ്യുമ്പോൾ നിങ്ങളുടെ ചിന്തകളും സിദ്ധാന്തങ്ങളും ഉൾക്കാഴ്ചകളും കുറിച്ചുവെക്കൂ."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "നിങ്ങളുടെ ലൈബ്രറി ഒരുക്കാൻ തയ്യാറാണോ?",
+      "content": "അറിയിപ്പിൽ നിന്ന് കഥകളും ബ്രഹ്മാണ്ഡങ്ങളും നിങ്ങളുടെ ലൈബ്രറിയിൽ ചേർത്തുതുടങ്ങൂ. വായനാ പുരോഗതി പിന്തുടരൂ, റീഡിങ് ലിസ്റ്റുകൾ സൃഷ്ടിക്കൂ, സ്വകാര്യ കുറിപ്പുകളിലൂടെ നിങ്ങളുടെ അനുഭവം മെച്ചപ്പെടുത്തൂ. നിങ്ങളുടെ സാഹിത്യ യാത്ര കാത്തിരിക്കുന്നു!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "ബ്രഹ്മാണ്ഡ പ്രവർത്തനശാല",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡ പ്രവർത്തനശാലയിലേക്ക് സ്വാഗതം!",
+      "content": "നിങ്ങളുടെ ആദ്യ ബ്രഹ്മാണ്ഡം സൃഷ്ടിച്ചതിന് അഭിനന്ദനങ്ങൾ! നിങ്ങളുടെ സാഹിത്യ ലോകം നിർമ്മിക്കാനും കൈകാര്യം ചെയ്യാനുമുള്ള നിയന്ത്രണ കേന്ദ്രമാണിത്. നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിന് ജീവൻ നൽകാൻ ലഭ്യമായ ശക്തമായ ടൂളുകളെല്ലാം നമുക്ക് നോക്കാം."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "നിങ്ങളുടെ കഥകൾ കൈകാര്യം ചെയ്യൂ",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിലെ എല്ലാ കഥകളും കൈകാര്യം ചെയ്യുന്നത് ഇവിടെയാണ്. പുതിയ കഥകൾ സൃഷ്ടിക്കൂ, നിലവിലുള്ളവ എഡിറ്റ് ചെയ്യൂ, പരസ്പരം ബന്ധപ്പെട്ട പല കഥകളിലായി നിങ്ങളുടെ ആഖ്യാനം ക്രമീകരിക്കൂ. പങ്കിട്ട ബ്രഹ്മാണ്ഡ ജ്ഞാനകോശവും കമ്മ്യൂണിറ്റി സവിശേഷതകളും ഓരോ കഥയ്ക്കും പ്രയോജനപ്പെടും."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "നിങ്ങളുടെ ജ്ഞാനകോശം നിർമ്മിക്കൂ",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിന്റെ ജ്ഞാനകോശം സൃഷ്ടിക്കുകയും കൈകാര്യം ചെയ്യുകയും ചെയ്യൂ - നിങ്ങളുടെ ലോകത്തിന് ജീവൻ നൽകുന്ന വിജ്ഞാന ശേഖരം. വായനക്കാർക്ക് പരിശോധിക്കാവുന്ന കഥാപാത്രങ്ങൾ, സ്ഥലങ്ങൾ, ഐതിഹ്യങ്ങൾ, മറ്റ് വിശദാംശങ്ങൾ എന്നിവ ചേർക്കൂ. സമ്പന്നമായ ഒരു ജ്ഞാനകോശം നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തെ കൂടുതൽ ആഴമുള്ളതാക്കുകയും കഥകളുടെ പശ്ചാത്തലം മനസ്സിലാക്കാൻ വായനക്കാരെ സഹായിക്കുകയും ചെയ്യുന്നു."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡ പേജ്",
+      "content": "ഇതാണ് നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിന്റെ പൊതു പേജ്; ഇവിടെ സന്ദർശകർക്ക് നിങ്ങളുടെ ലോകത്തെക്കുറിച്ച് അറിയാനും കഥകൾ വായിക്കാനും ജ്ഞാനകോശം പരിശോധിക്കാനും നിങ്ങളുടെ കമ്മ്യൂണിറ്റിയുമായി ഇടപഴകാനും കഴിയും. നിങ്ങളുടെ ബ്രഹ്മാണ്ഡം അവതരിപ്പിക്കാനും പുതിയ വായനക്കാരെ ആകർഷിക്കാനും ഈ പേജ് ഇഷ്ടാനുസൃതമാക്കൂ."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "പരിഭാഷകൾ കൈകാര്യം ചെയ്യൂ",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡ ഉള്ളടക്കം മറ്റ് ഭാഷകളിലേക്ക് പരിഭാഷപ്പെടുത്തുന്നത് ഏകോപിപ്പിക്കൂ. പരിഭാഷകരെ കൈകാര്യം ചെയ്യൂ, പുരോഗതി പിന്തുടരൂ, നിങ്ങളുടെ കഥകൾ ആഗോള പ്രേക്ഷകരിലേക്ക് എത്തുന്നുവെന്ന് ഉറപ്പാക്കൂ. ലോകമെമ്പാടുമുള്ള വായനക്കാരുമായി ബന്ധപ്പെടാൻ പരിഭാഷകൾ സഹായിക്കുന്നു."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "ഫാൻ മാനേജർ",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിൽ നിന്ന് പ്രചോദനം ഉൾക്കൊണ്ട ആരാധകരുടെ ഇടപെടലുകളും സൃഷ്ടികളും കൈകാര്യം ചെയ്യൂ. ആരാധക കഥകളും ചിത്രങ്ങളും മറ്റ് കമ്മ്യൂണിറ്റി ഉള്ളടക്കവും പിന്തുടരൂ. നിങ്ങളുടെ ആരാധകരുമായി ഇടപഴകി നിങ്ങളുടെ ലോകത്തിനു ചുറ്റും സജീവമായ ഒരു കമ്മ്യൂണിറ്റി വളർത്തൂ."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "നിങ്ങളുടെ വിജയം പിന്തുടരൂ",
+      "content": "വിശദമായ അനലിറ്റിക്സിലൂടെ നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിന്റെ പ്രകടനം നിരീക്ഷിക്കൂ. വായനക്കാരുടെ പങ്കാളിത്തം, ജനപ്രിയ കഥകൾ, ജ്ഞാനകോശ കാഴ്ചകൾ, നിങ്ങളുടെ പ്രേക്ഷകർക്ക് ഇഷ്ടപ്പെടുന്നതെന്തെന്ന് മനസ്സിലാക്കാൻ സഹായിക്കുന്ന മറ്റ് കണക്കുകൾ എന്നിവ കാണൂ."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "ആന്തരിക ആസൂത്രണ ഫോറം",
+      "content": "സഹകരികളുമായും പരിഭാഷകരുമായും ആസൂത്രണത്തിനും ഏകോപനത്തിനുമുള്ള നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിന്റെ ആന്തരിക ഫോറം. കഥാഗതികളും ലോകനിർമ്മാണ വിശദാംശങ്ങളും ചർച്ച ചെയ്യൂ, നിങ്ങളുടെ സർഗ്ഗാത്മക ശ്രമങ്ങൾ ഏകോപിപ്പിക്കൂ. ഈ സ്വകാര്യ ഇടം നിങ്ങളുടെ ടീമിനെ ഫലപ്രദമായി ഒരുമിച്ച് പ്രവർത്തിക്കാൻ സഹായിക്കുന്നു."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "സഹകരികളെ കൈകാര്യം ചെയ്യൂ",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിൽ സഹകരിക്കാൻ എഴുത്തുകാരെയും കലാകാരന്മാരെയും മറ്റ് സ്രഷ്ടാക്കളെയും ക്ഷണിക്കൂ. റോളുകളും അനുമതികളും നൽകൂ, ആക്‌സസ് നിലകൾ കൈകാര്യം ചെയ്യൂ, നിങ്ങളുടെ ലോകം ഒരുമിച്ച് വികസിപ്പിക്കാൻ ഒരു ടീം ഒരുക്കൂ."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "വരുമാന ക്രമീകരണങ്ങൾ",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിൽ നിന്നും അതിലെ ഉള്ളടക്കത്തിൽ നിന്നും എങ്ങനെ വരുമാനം നേടണമെന്ന് ക്രമീകരിക്കൂ. പ്രീമിയം ആക്‌സസ് സജ്ജമാക്കൂ, സബ്സ്ക്രിപ്ഷനുകൾ കൈകാര്യം ചെയ്യൂ, സഹകരികളുമായി വരുമാനം പങ്കിടുന്നത് നിശ്ചയിക്കൂ. നിങ്ങളുടെ സർഗ്ഗാത്മക സൃഷ്ടിയെ സുസ്ഥിരമായ ഒരു വരുമാന മാർഗ്ഗമാക്കി മാറ്റൂ."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "പരിഹാര കേന്ദ്രം",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിൽ ഉണ്ടാകാവുന്ന തർക്കങ്ങളും ഉള്ളടക്ക ലംഘനങ്ങളും മറ്റ് പ്രശ്നങ്ങളും കൈകാര്യം ചെയ്യൂ. നല്ലൊരു കമ്മ്യൂണിറ്റി നിലനിർത്താനും തർക്കങ്ങൾ കാര്യക്ഷമമായി പരിഹരിക്കാനും ഈ കേന്ദ്രീകൃത സംവിധാനം സഹായിക്കുന്നു."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "ബ്രഹ്മാണ്ഡ ക്രമീകരണങ്ങൾ",
+      "content": "സ്വകാര്യത, ആക്‌സസ് നിയന്ത്രണങ്ങൾ, വിഭാഗങ്ങൾ, മറ്റ് അടിസ്ഥാന ഓപ്ഷനുകൾ എന്നിവ ഉൾപ്പെടെ നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിന്റെ പ്രധാന ക്രമീകരണങ്ങൾ സജ്ജമാക്കൂ. നിങ്ങളുടെ ബ്രഹ്മാണ്ഡം എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്നും ആർക്കെല്ലാം അതുമായി ഇടപഴകാമെന്നും ഈ ക്രമീകരണങ്ങൾ നിശ്ചയിക്കുന്നു."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "ഫോറം ക്രമീകരണം",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡ ഫോറത്തിന്റെ ക്രമീകരണങ്ങൾ സൂക്ഷ്മമായി ഒരുക്കൂ. വിഭാഗങ്ങൾ സൃഷ്ടിക്കൂ, മോഡറേഷൻ നിയമങ്ങൾ നിശ്ചയിക്കൂ, അനുമതികൾ ക്രമീകരിക്കൂ, നിങ്ങളുടെ കമ്മ്യൂണിറ്റിയുടെ ആവശ്യങ്ങൾക്ക് ഏറ്റവും യോജിക്കുന്ന വിധം ചർച്ചാ ഇടങ്ങൾ ഇഷ്ടാനുസൃതമാക്കൂ."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡം നിർമ്മിക്കാൻ തയ്യാറാണോ?",
+      "content": "സമ്പന്നവും ആകർഷകവുമായ ഒരു ബ്രഹ്മാണ്ഡം സൃഷ്ടിക്കാൻ വേണ്ട എല്ലാ ടൂളുകളും ഇപ്പോൾ നിങ്ങളുടെ കൈയിലുണ്ട്. കുറച്ച് കഥകൾ ചേർത്തും ജ്ഞാനകോശം വികസിപ്പിച്ചും സഹകരികളെ ക്ഷണിച്ചും തുടങ്ങൂ. നിങ്ങളുടെ സാഹിത്യ ലോകം സൃഷ്ടിക്കപ്പെടാൻ കാത്തിരിക്കുന്നു!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "കഥാ ഡാഷ്ബോർഡ്",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "നിങ്ങളുടെ കഥാ ഡാഷ്ബോർഡിലേക്ക് സ്വാഗതം!",
+      "content": "നിങ്ങളുടെ ആഖ്യാനത്തിന്റെ എല്ലാ വശങ്ങളും കൈകാര്യം ചെയ്യുന്ന, കഥയുടെ നിയന്ത്രണ കേന്ദ്രമാണിത്. ഇവിടെ അദ്ധ്യായങ്ങൾ എഴുതാനും കഥയുടെ ഘടന ക്രമീകരിക്കാനും മറ്റുള്ളവരുമായി സഹകരിക്കാനും നിങ്ങളുടെ പുരോഗതി പിന്തുടരാനും കഴിയും. പ്രധാന സവിശേഷതകൾ നമുക്ക് നോക്കാം."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "പുതിയ അദ്ധ്യായങ്ങൾ ചേർക്കൽ",
+      "content": "നിങ്ങളുടെ കഥയിലേക്ക് പുതിയ അദ്ധ്യായങ്ങൾ ചേർക്കുന്നത് ഇവിടെയാണ്. പുതിയൊരു അദ്ധ്യായം സൃഷ്ടിക്കാൻ \"പുതിയ അദ്ധ്യായം\" ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക. നിങ്ങളുടെ കഥ അദ്ധ്യായങ്ങളെ സ്വയമേവ ശരിയായ ക്രമത്തിൽ അടുക്കും. അദ്ധ്യായ പട്ടികയുടെ താഴെ നിന്നും അദ്ധ്യായങ്ങൾ ചേർക്കാം."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "നിങ്ങളുടെ പുരോഗതി പിന്തുടരൂ",
+      "content": "വിശദമായ സ്ഥിതിവിവരക്കണക്കുകളിലൂടെ നിങ്ങളുടെ എഴുത്തിന്റെ പുരോഗതിയും പ്രേക്ഷക പങ്കാളിത്തവും നിരീക്ഷിക്കൂ. നിങ്ങൾക്ക് എത്ര വായനക്കാരുണ്ടെന്ന് കാണൂ, അദ്ധ്യായ കാഴ്ചകൾ പിന്തുടരൂ, കാലക്രമേണ നിങ്ങളുടെ കഥയുടെ പ്രകടനം വിശകലനം ചെയ്യൂ."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "സഹകരികളെ കൈകാര്യം ചെയ്യൂ",
+      "content": "നിങ്ങളുടെ കഥയിൽ സഹകരിക്കാൻ മറ്റ് എഴുത്തുകാരെ ക്ഷണിക്കൂ. വ്യത്യസ്ത റോളുകളും അനുമതികളും നൽകൂ, എഴുത്ത് ശ്രമങ്ങൾ ഏകോപിപ്പിക്കൂ, നിങ്ങളുടെ സർഗ്ഗാത്മക ടീമിനെ കൈകാര്യം ചെയ്യൂ. കൂട്ടായ എഴുത്ത് പ്രോജക്ടുകൾക്ക് ഏറ്റവും അനുയോജ്യം."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "പരിഭാഷാ നിയന്ത്രണം",
+      "content": "നിങ്ങളുടെ കഥ മറ്റ് ഭാഷകളിലേക്ക് പരിഭാഷപ്പെടുത്തുന്നത് ഏകോപിപ്പിക്കൂ. പരിഭാഷകരെ കൈകാര്യം ചെയ്യൂ, പരിഭാഷയുടെ പുരോഗതി പിന്തുടരൂ, നിങ്ങളുടെ കഥ ആഗോള പ്രേക്ഷകർക്ക് ലഭ്യമാക്കൂ."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "വരുമാന ക്രമീകരണങ്ങൾ",
+      "content": "നിങ്ങളുടെ കഥയിൽ നിന്ന് എങ്ങനെ വരുമാനം നേടണമെന്ന് ക്രമീകരിക്കൂ. പ്രീമിയം അദ്ധ്യായങ്ങൾ സജ്ജമാക്കൂ, സബ്സ്ക്രിപ്ഷൻ ഓപ്ഷനുകൾ കൈകാര്യം ചെയ്യൂ, സഹകരികളുമായി വരുമാനം പങ്കിടുന്നത് നിശ്ചയിക്കൂ. നിങ്ങളുടെ എഴുത്തിനെ വരുമാനമാക്കി മാറ്റൂ."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "കഥാ ക്രമീകരണങ്ങൾ",
+      "content": "സ്വകാര്യത, പ്രസിദ്ധീകരണ ഓപ്ഷനുകൾ, വിഭാഗങ്ങൾ, മറ്റ് അടിസ്ഥാന മുൻഗണനകൾ എന്നിവ ഉൾപ്പെടെ നിങ്ങളുടെ കഥയുടെ പ്രധാന ക്രമീകരണങ്ങൾ സജ്ജമാക്കൂ. നിങ്ങളുടെ കഥ എങ്ങനെ കാണപ്പെടുന്നുവെന്നും പ്രവർത്തിക്കുന്നുവെന്നും ഈ ക്രമീകരണങ്ങൾ നിശ്ചയിക്കുന്നു."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "അവലോകന കുറിപ്പുകൾ",
+      "content": "നിങ്ങളുടെ കഥയുടെ മൊത്തത്തിലുള്ള ഘടന, കഥാഗതിയിലെ പ്രധാന ബിന്ദുക്കൾ, കഥാപാത്രങ്ങളുടെ വളർച്ച, പ്രധാന കുറിപ്പുകൾ എന്നിവ സൂക്ഷിക്കൂ. നിങ്ങളുടെ ആഖ്യാനം ക്രമീകരിക്കാനുള്ള സ്വകാര്യ ആസൂത്രണ ഇടമാണിത്."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "വ്യക്തിഗത എഴുത്ത് വെല്ലുവിളികൾ",
+      "content": "വ്യക്തിഗത എഴുത്ത് ലക്ഷ്യങ്ങൾ നിശ്ചയിച്ച് വെല്ലുവിളികളിലൂടെ നിങ്ങളുടെ പുരോഗതി പിന്തുടരൂ. ദിവസേനയോ ആഴ്ചതോറുമോ ഉള്ള വാക്കെണ്ണ ലക്ഷ്യങ്ങൾ സൃഷ്ടിക്കൂ, അദ്ധ്യായങ്ങൾക്ക് സമയപരിധി നിശ്ചയിക്കൂ, സ്ഥിരമായ എഴുത്ത് ശീലം നിലനിർത്താൻ സ്വയം പ്രചോദിപ്പിക്കൂ. നിങ്ങളുടെ എഴുത്ത് സമയക്രമം പാലിക്കാൻ സഹായിക്കുന്ന സ്വകാര്യ ടൂളാണിത്."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "കഥാഗതികളുടെ നിയന്ത്രണം",
+      "content": "നിങ്ങളുടെ കഥയെ വ്യത്യസ്ത കഥാഗതികളായും ഇഴകളായും ക്രമീകരിക്കൂ. കഥാപാത്രങ്ങളുടെ വളർച്ച, ഉപകഥകൾ, ആഖ്യാന ഘടകങ്ങൾ എന്നിവ പിന്തുടരൂ. പരസ്പരം ബന്ധപ്പെട്ട പല ഘടകങ്ങളുള്ള സങ്കീർണ്ണമായ കഥകൾക്ക് ഏറ്റവും അനുയോജ്യം."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "സീനുകൾ മാനേജർ",
+      "content": "നിങ്ങളുടെ അദ്ധ്യായങ്ങളിലെ ഓരോ സീനും ക്രമീകരിക്കുകയും കൈകാര്യം ചെയ്യുകയും ചെയ്യൂ. സീനുകളുടെ പുരോഗതി പിന്തുടരൂ, സീനുകളുടെ ക്രമം മാറ്റൂ, നിങ്ങളുടെ ആഖ്യാന ഘടനയുടെ ഒഴുക്ക് നിലനിർത്തൂ."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "നിയമപരമായ രേഖകൾ",
+      "content": "പകർപ്പവകാശ വിവരങ്ങൾ, പ്രസിദ്ധീകരണ കരാറുകൾ, അവകാശ നിയന്ത്രണം എന്നിവ ഉൾപ്പെടെ നിങ്ങളുടെ കഥയുമായി ബന്ധപ്പെട്ട പ്രധാന നിയമ രേഖകൾ ഇവിടെ കാണാം. നിങ്ങളുടെ നിയമപരമായ കാര്യങ്ങൾ ചിട്ടയായി സൂക്ഷിക്കൂ."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "പൊതു പതിപ്പ്",
+      "content": "പൊതു സൈറ്റിൽ വായനക്കാർക്ക് കാണുന്ന രീതിയിൽ നിങ്ങളുടെ കഥ കാണൂ. പ്രേക്ഷകരുമായി പങ്കിടുന്നതിനു മുമ്പ് ഫോർമാറ്റിങ് പരിശോധിക്കൂ, ലിങ്കുകൾ പരീക്ഷിക്കൂ, എല്ലാം കൃത്യമാണെന്ന് ഉറപ്പാക്കൂ."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "നിങ്ങളുടെ കഥ പങ്കിടൂ",
+      "content": "ജനപ്രിയ പ്ലാറ്റ്‌ഫോമുകൾക്കായി മുൻകൂട്ടി തയ്യാറാക്കിയ ടെക്സ്റ്റും ലിങ്കുകളും ഉപയോഗിച്ച് നിങ്ങളുടെ കഥ സോഷ്യൽ മീഡിയയിൽ പങ്കിടൂ. നിങ്ങളുടെ സൃഷ്ടി അവതരിപ്പിക്കുകയും വിവിധ സോഷ്യൽ നെറ്റ്‌വർക്കുകളിലെ പുതിയ വായനക്കാരിലേക്ക് എത്താൻ സഹായിക്കുകയും ചെയ്യുന്ന, ഉടൻ ഉപയോഗിക്കാവുന്ന ഉള്ളടക്കം നേടൂ."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "പരിഹാര കേന്ദ്രം",
+      "content": "നിങ്ങളുടെ കഥയുമായി ബന്ധപ്പെട്ട നിയമ തർക്കങ്ങൾ, സേവന നിബന്ധനകളുടെ ലംഘനങ്ങൾ, മറ്റ് പ്രശ്നങ്ങൾ എന്നിവ കൈകാര്യം ചെയ്യൂ. റിപ്പോർട്ട് ചെയ്യപ്പെട്ട എല്ലാ പ്രശ്നങ്ങളും ഈ കേന്ദ്രം പട്ടികപ്പെടുത്തുകയും, തർക്കങ്ങൾ പരിഹരിക്കാനും നല്ലൊരു കമ്മ്യൂണിറ്റി അന്തരീക്ഷം നിലനിർത്താനുമുള്ള ടൂളുകൾ നൽകുകയും ചെയ്യുന്നു."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "കഥയുടെ നില നിയന്ത്രിക്കൽ",
+      "content": "ഈ പ്രധാന ഓപ്ഷനുകളിലൂടെ നിങ്ങളുടെ കഥയുടെ പ്രസിദ്ധീകരണ നില നിയന്ത്രിക്കൂ. \"സജീവം\" എന്നാൽ നിങ്ങളുടെ കഥ പതിവായി പുതുക്കപ്പെടുന്നു എന്നാണ്. \"ഹിയാറ്റസിൽ\" താൽക്കാലിക ഇടവേളയെ സൂചിപ്പിക്കുന്നു. \"റദ്ദാക്കപ്പെട്ടു\" എന്നാൽ നിങ്ങൾ എഴുത്ത് നിർത്തി എന്നാണ്. \"പൂർത്തിയായി\" നിങ്ങളുടെ കഥ പൂർണ്ണമായെന്ന് അടയാളപ്പെടുത്തുന്നു. നിങ്ങളുടെ ഇപ്പോഴത്തെ എഴുത്ത് സാഹചര്യത്തിന് ഏറ്റവും യോജിക്കുന്ന നില തിരഞ്ഞെടുക്കൂ. ശ്രദ്ധിക്കുക: 6 മാസം യാതൊരു പുരോഗതിയും ഇല്ലെങ്കിൽ കഥകൾ സ്വയമേവ \"ഹിയാറ്റസിൽ\" എന്നതിലേക്കും, തുടർന്ന് 6 മാസം കൂടി നിഷ്ക്രിയമായാൽ \"റദ്ദാക്കപ്പെട്ടു\" എന്നതിലേക്കും മാറും."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "എഴുതിത്തുടങ്ങാൻ തയ്യാറാണോ?",
+      "content": "നിങ്ങളുടെ കഥയുടെ എല്ലാ വശങ്ങളും എങ്ങനെ കൈകാര്യം ചെയ്യാമെന്ന് ഇപ്പോൾ നിങ്ങൾക്കറിയാം. ആദ്യ അദ്ധ്യായം ചേർത്ത് തുടങ്ങൂ, പിന്നെ ലഭ്യമായ വിവിധ ടൂളുകൾ പരിശോധിക്കൂ. നിങ്ങളുടെ കഥ സൃഷ്ടിക്കപ്പെടാൻ കാത്തിരിക്കുന്നു!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "കഥാ എഡിറ്റർ ടൂർ",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "കഥാ എഡിറ്ററിലേക്ക് സ്വാഗതം!",
+      "content": "നിങ്ങളുടെ കഥകൾ രൂപപ്പെടുത്തുന്ന എഴുത്തിടമാണിത്. എഴുതാനും ക്രമീകരിക്കാനും പ്രസിദ്ധീകരിക്കാനും സഹായിക്കുന്ന ശക്തമായ ടൂളുകൾ എഡിറ്റർ നൽകുന്നു. പ്രധാന സവിശേഷതകൾ നമുക്ക് നോക്കാം."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "അക്ഷര വലുപ്പ നിയന്ത്രണം",
+      "content": "എഴുതുമ്പോൾ സുഖമായി വായിക്കാൻ അക്ഷര വലുപ്പം ക്രമീകരിക്കൂ. നീണ്ട എഴുത്ത് സെഷനുകളിൽ കണ്ണിന്റെ ആയാസം കുറയ്ക്കാൻ സാധാരണ, വലിയ അക്ഷര വലുപ്പങ്ങൾക്കിടയിൽ മാറാം."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "ഡാർക്ക് മോഡ് ടോഗിൾ",
+      "content": "ലൈറ്റ്, ഡാർക്ക് തീമുകൾക്കിടയിൽ മാറൂ. രാത്രിയിലെ എഴുത്ത് സെഷനുകളിൽ ഡാർക്ക് മോഡ് കണ്ണുകൾക്ക് ആശ്വാസമാണ്, ശ്രദ്ധ നിലനിർത്താനും സഹായിക്കും."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "ആക്‌സസിബിലിറ്റി ടൂളുകൾ",
+      "content": "നിങ്ങളുടെ സൗകര്യത്തിനായി ഡിസ്‌ലെക്സിയ-സൗഹൃദ ഫോണ്ടുകൾ, ഖണ്ഡിക ഹൈലൈറ്റിങ്, മറ്റ് ആക്‌സസിബിലിറ്റി സവിശേഷതകൾ എന്നിവ ഇവിടെ ലഭിക്കും."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "സൈഡ് പാനൽ ടോഗിൾ ചെയ്യുക",
+      "content": "സൈഡ് പാനൽ കാണിക്കുകയോ മറയ്ക്കുകയോ ചെയ്യൂ. സ്ക്രാച്ച് പാട്, കഥാ കുറിപ്പുകൾ, ജ്ഞാനകോശം, അഭിപ്രായങ്ങൾ, AI Assistant തുടങ്ങിയ സഹായകരമായ ടൂളുകൾ സൈഡ് പാനലിലുണ്ട്."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "ഫുൾസ്ക്രീൻ മോഡ്",
+      "content": "എഴുത്തിടം പരമാവധി വലുതാക്കാനും ശ്രദ്ധ തിരിക്കുന്നവ ഒഴിവാക്കാനും ഫുൾസ്ക്രീൻ മോഡിലേക്ക് മാറൂ. ഏകാഗ്രമായ എഴുത്ത് സെഷനുകൾക്ക് ഏറ്റവും അനുയോജ്യം."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "നിങ്ങളുടെ രചന സംരക്ഷിക്കൂ",
+      "content": "നിങ്ങളുടെ ഡ്രാഫ്റ്റ് സ്വയമേവ സംരക്ഷിക്കപ്പെടും. നിങ്ങൾ ടൈപ്പ് ചെയ്യുമ്പോൾത്തന്നെ രചന സംരക്ഷിക്കപ്പെടുന്നുണ്ട്, എങ്കിലും എപ്പോൾ വേണമെങ്കിലും നിങ്ങൾക്ക് സ്വയം സംരക്ഷിക്കുകയും ചെയ്യാം."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "പ്രസിദ്ധീകരണ ഓപ്ഷനുകൾ",
+      "content": "ഡ്രാഫ്റ്റ് പൂർത്തിയായാൽ ഒരു പരിഷ്ക്കരണം സൃഷ്ടിക്കാനുള്ള സമയമായി. ബീറ്റാ റീഡർമാർക്കോ പൊതുജനങ്ങൾക്കോ വേണ്ടി നിങ്ങൾക്ക് പരിഷ്ക്കരണം സൃഷ്ടിക്കാം. പ്രസിദ്ധീകരിക്കാൻ തീരുമാനിച്ചാൽ, അദ്ധ്യായം എപ്പോൾ പുറത്തുവരണമെന്ന് നിങ്ങൾക്ക് നിയന്ത്രിക്കാം."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "അദ്ധ്യായ ശീർഷകം",
+      "content": "പേര് എഡിറ്റ് ചെയ്യാൻ ശീർഷകത്തിൽ ക്ലിക്ക് ചെയ്യുക."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "നിങ്ങളുടെ അദ്ധ്യായത്തെക്കുറിച്ചുള്ള സ്വകാര്യ കുറിപ്പുകളോ പ്രേക്ഷകർക്കുള്ള ഒരു സന്ദേശമോ എഴുതൂ. ഇത് അദ്ധ്യായത്തിനു മുമ്പായി നിങ്ങളുടെ വായനക്കാർക്ക് കാണിക്കും (ഇവിടെ കാണുന്നതുപോലെ); അറിയിപ്പുകൾ നൽകാനോ ഇതുവരെയുള്ള കഥയെക്കുറിച്ചുള്ള ചിന്തകൾ പങ്കിടാനോ ഉള്ള ഫലപ്രദമായ മാർഗ്ഗമാണിത്."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "പ്രധാന കഥാ ടെക്സ്റ്റ്",
+      "content": "നിങ്ങളുടെ കഥയ്ക്ക് ജീവൻ വെക്കുന്ന പ്രധാന എഴുത്തിടമാണിത്. സമ്പൂർണ്ണ റിച്ച് ടെക്സ്റ്റ് എഡിറ്റിങ് സൗകര്യങ്ങളോടെ നിങ്ങളുടെ അദ്ധ്യായത്തിന്റെ ഉള്ളടക്കം ഇവിടെ എഴുതൂ."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "സൈഡ്ബാർ ടൂൾബോക്സ്",
+      "content": "സൈഡ് പാനലിൽ സഹായകരമായ ടൂളുകളും വിവരങ്ങളുമുണ്ട്. സ്ക്രാച്ച് പാട്, ജ്ഞാനകോശ റഫറൻസുകൾ, അഭിപ്രായങ്ങൾ, AI Assistant എന്നിങ്ങനെ വ്യത്യസ്ത കാഴ്ചകൾക്കിടയിൽ മാറാൻ മുകളിലെ മെനു ഉപയോഗിക്കൂ."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "സ്വകാര്യ സ്ക്രാച്ച് പാട്",
+      "content": "ആശയങ്ങളോ കുറിപ്പുകളോ പ്രചോദനമോ കുറിച്ചിടാൻ നിങ്ങളുടെ സ്വകാര്യ സ്ക്രാച്ച് പാട് എപ്പോഴും ലഭ്യമാണ്. പ്രധാന കഥയിൽ ചേരാത്തതെങ്കിലും പിന്നീട് ഉപകാരപ്പെട്ടേക്കാവുന്ന ചിന്തകൾ ഇവിടെ സൂക്ഷിക്കൂ."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "കഥാ കുറിപ്പുകൾ",
+      "content": "നിങ്ങളുടെ കഥയുടെ മൊത്തത്തിലുള്ള കുറിപ്പുകളും ആസൂത്രണ സാമഗ്രികളും ഇവിടെ കാണാം. കഥാഗതിയുടെ രൂപരേഖകൾ, കഥാപാത്രങ്ങളുടെ വളർച്ച, ലോകനിർമ്മാണ വിശദാംശങ്ങൾ, മറ്റ് ക്രമീകരണ വിവരങ്ങൾ എന്നിവ സൂക്ഷിക്കൂ."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "ജ്ഞാനകോശത്തിലേക്കുള്ള വഴി",
+      "content": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തിന്റെ ജ്ഞാനകോശത്തിലേക്ക് വേഗത്തിൽ എത്താം. എഴുതുമ്പോൾത്തന്നെ കഥാപാത്ര വിശദാംശങ്ങൾ, സ്ഥലങ്ങൾ, ഐതിഹ്യങ്ങൾ, മറ്റ് ലോകനിർമ്മാണ ഘടകങ്ങൾ എന്നിവ നോക്കാം. ഇവിടെയുള്ള മറ്റ് ബട്ടണുകൾ വഴി തിരയാനും പുതിയ എൻട്രികൾ ചേർക്കാനും കഴിയും."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "അദ്ധ്യായത്തിലെ അഭിപ്രായങ്ങൾ",
+      "content": "ബീറ്റാ റീഡർമാർ, സഹകരികൾ, മറ്റ് വായനക്കാർ എന്നിവർ ഈ അദ്ധ്യായത്തിൽ നൽകിയ അഭിപ്രായങ്ങൾ കാണുകയും മറുപടി നൽകുകയും ചെയ്യൂ. നിങ്ങളുടെ പ്രേക്ഷകരുമായി ഇടപഴകി വിലപ്പെട്ട ഫീഡ്ബാക്ക് നേടൂ."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "പ്രസിദ്ധീകരിക്കുന്നതിനു മുമ്പ് പരിശോധിക്കേണ്ട പ്രധാന കാര്യങ്ങളുണ്ട്. പ്രസിദ്ധീകരണത്തിനു മുമ്പുള്ള ചെയ്യേണ്ടവയുടെ പട്ടികയും പരിശോധിക്കേണ്ട മറ്റ് ചെറിയ രസകരമായ കാര്യങ്ങളും ഇവിടെ ഒളിഞ്ഞിരിക്കുന്നു."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "നിങ്ങളുടെ കഥ, ബ്രഹ്മാണ്ഡം, ജ്ഞാനകോശം എന്നിവയെക്കുറിച്ച് അസിസ്റ്റന്റിനോട് ചോദിക്കൂ. ഇതിന് പൊരുത്തം പരിശോധിക്കാനും ഒരു ഭാഗം പ്രൂഫ് റീഡ് ചെയ്യാനും എന്തെങ്കിലും തിരഞ്ഞു കണ്ടെത്താനും കഴിയും. ഇത് നിങ്ങളുടെ എഴുത്തിനെക്കുറിച്ചുള്ള ചോദ്യങ്ങൾക്ക് ഉത്തരം നൽകും, നിങ്ങൾക്കുവേണ്ടി എഴുതില്ല. ക്രമീകരണങ്ങളിൽ നിങ്ങൾ ചേർക്കുന്ന നിങ്ങളുടെ സ്വന്തം API കീ ഉപയോഗിച്ചാണ് ഇത് പ്രവർത്തിക്കുന്നത്."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "എഴുതിത്തുടങ്ങാൻ തയ്യാറാണോ?",
+      "content": "കഥാ എഡിറ്ററിന്റെ ശക്തമായ സവിശേഷതകളെല്ലാം എങ്ങനെ ഉപയോഗിക്കാമെന്ന് ഇപ്പോൾ നിങ്ങൾക്കറിയാം. നിങ്ങളുടെ അദ്ധ്യായം എഴുതിത്തുടങ്ങൂ, ആവശ്യം വരുമ്പോൾ ടൂളുകൾ പരിശോധിക്കൂ. എപ്പോഴെങ്കിലും സഹായം വേണമെങ്കിൽ ഞങ്ങളുടെ സഹായ വിഭാഗമോ രചയിതാവിന്റെ വഴിയോ നോക്കൂ, അല്ലെങ്കിൽ ഞങ്ങളെ ബന്ധപ്പെടൂ. ഇനി നമുക്ക് കുറച്ച് കഥകൾ എഴുതാം!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "കഥാ പരിഭാഷക ടൂർ",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "കഥാ പരിഭാഷകയിലേക്ക് സ്വാഗതം!",
+      "content": "നമുക്ക് ചുറ്റുമൊന്ന് നോക്കാം. റഫറൻസ് സാമഗ്രികൾ കൈയെത്തും ദൂരത്ത് വെച്ചുകൊണ്ട് മൂല ടെക്സ്റ്റ് പരിഭാഷപ്പെടുത്താൻ ഈ ഇടം ഉപയോഗിക്കൂ."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "മൂല ടെക്സ്റ്റ് ഇടതുവശത്ത്",
+      "content": "ഇടതുവശത്ത് മൂല അദ്ധ്യായവും രചയിതാവിന്റെ കുറിപ്പുകളും കാണാം. പ്രവർത്തിക്കുമ്പോൾ റഫറൻസായി ഇത് തുറന്നുവെക്കൂ."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "വലതുവശത്ത് പരിഭാഷപ്പെടുത്തൂ",
+      "content": "നിങ്ങളുടെ പരിഭാഷ വലതുവശത്ത് എഴുതൂ. ഇവിടെ നിങ്ങൾ സംരക്ഷിക്കുന്നതെല്ലാം ഈ ഭാഷയിലെ വായനക്കാർ കാണുന്ന പതിപ്പായി മാറും."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "ബ്രഹ്മാണ്ഡ ജ്ഞാനകോശത്തിലേക്കുള്ള വഴി",
+      "content": "ഐതിഹ്യമോ പദാവലിയോ അറിയണോ? ബ്രഹ്മാണ്ഡത്തെ കൂടുതൽ നന്നായി മനസ്സിലാക്കാൻ, ഞങ്ങളുടെ സൈഡ്ബാറിൽ ബ്രഹ്മാണ്ഡ ജ്ഞാനകോശത്തിലേക്കുള്ള വഴി കാണാം."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "ജ്ഞാനകോശത്തിലേക്ക് സ്വാഗതം",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "നിങ്ങളുടെ ബ്രഹ്മാണ്ഡ ജ്ഞാനകോശം",
+      "content": "നിങ്ങളുടെ ജ്ഞാനകോശത്തിലേക്ക് സ്വാഗതം! നിങ്ങളുടെ ബ്രഹ്മാണ്ഡത്തെക്കുറിച്ചുള്ള എല്ലാ അറിവും ക്രമീകരിച്ച് ആരാധകരുമായി പങ്കിടുന്നത് ഇവിടെയാണ്."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "നിങ്ങളുടെ ഉള്ളടക്കം ക്രമീകരിക്കൂ",
+      "content": "\"വിഭാഗങ്ങൾ\", \"ഗ്രൂപ്പുകൾ\" എന്നീ കാഴ്ചകൾക്കിടയിൽ മാറൂ. വിഭാഗങ്ങൾ എൻട്രികളെ തരം അനുസരിച്ച് (കഥാപാത്രങ്ങൾ, സ്ഥലങ്ങൾ മുതലായവ) ക്രമീകരിച്ച് കാണിക്കുന്നു; ഗ്രൂപ്പുകളാകട്ടെ, പാരന്റ് എൻട്രികളും മറ്റും നിശ്ചയിക്കുന്ന ഇഷ്ടാനുസൃത ഫീൽഡ് ഗ്രൂപ്പിങ്ങുകൾ അനുസരിച്ച് എൻട്രികൾ കാണാൻ സഹായിക്കുന്നു."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "നിങ്ങളുടെ വിഭാഗങ്ങൾ",
+      "content": "ഇതാ നിങ്ങളുടെ ജ്ഞാനകോശ വിഭാഗങ്ങൾ. വിവരങ്ങൾ ക്രമീകരിക്കാൻ ഓരോ വിഭാഗത്തിനും അതിന്റേതായ ടെംപ്ലേറ്റുണ്ട്. ഏതെങ്കിലും വിഭാഗത്തിൽ ക്ലിക്ക് ചെയ്താൽ അത് വികസിച്ച് അതിലെ എൻട്രികൾ കാണാം."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "വേണ്ടത് കണ്ടെത്തൂ",
+      "content": "നിങ്ങളുടെ ജ്ഞാനകോശത്തിലെ ഏത് എൻട്രിയും വേഗത്തിൽ കണ്ടെത്താൻ തിരയൽ ഉപയോഗിക്കൂ. വിവരങ്ങൾ ഉടനടി കണ്ടെത്താൻ പേര്, ഉള്ളടക്കം, അല്ലെങ്കിൽ ടാഗുകൾ ഉപയോഗിച്ച് തിരയാം."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "പുതിയ എൻട്രികൾ സൃഷ്ടിക്കൂ",
+      "content": "നിങ്ങളുടെ ജ്ഞാനകോശത്തിലേക്ക് പുതിയ എൻട്രികൾ ചേർക്കൂ. തുടങ്ങാൻ സഹായിക്കുന്ന സ്വന്തം ഫോം ടെംപ്ലേറ്റ് ഓരോ വിഭാഗത്തിനുമുണ്ട്, എങ്കിലും നിങ്ങളുടെ ഇഷ്ടപ്രകാരം അവ മാറ്റാം."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "നിങ്ങളുടെ ജ്ഞാനകോശം ഇഷ്ടാനുസൃതമാക്കൂ",
+      "content": "ഏതെല്ലാം വിഭാഗങ്ങൾ ഉപയോഗിക്കണമെന്ന് തിരഞ്ഞെടുക്കാനും സ്വാഗത സന്ദേശം നൽകാനും ജ്ഞാനകോശത്തിന്റെ മറ്റ് വിശദാംശങ്ങൾ സജ്ജമാക്കാനും നിങ്ങളുടെ ജ്ഞാനകോശ ക്രമീകരണങ്ങൾ പരിശോധിക്കാൻ മറക്കരുത്."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "ഇപ്പോൾ നിങ്ങൾക്ക് അടിസ്ഥാന കാര്യങ്ങൾ അറിയാം! നിങ്ങളുടെ ബ്രഹ്മാണ്ഡം തുടർന്ന് നിർമ്മിക്കാൻ പ്രവർത്തനശാലയിലേക്ക് മടങ്ങൂ, അല്ലെങ്കിൽ ജ്ഞാനകോശത്തിൽ എൻട്രികൾ ചേർത്തുതുടങ്ങൂ. സന്തോഷകരമായ എഴുത്ത്!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "ബീറ്റാ റീഡർ ഗൈഡ്",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "ബീറ്റാ റീഡിങ്ങിലേക്ക് സ്വാഗതം!",
+      "content": "ഒരു ബീറ്റാ റീഡറെന്ന നിലയിൽ, രചയിതാക്കളെ അവരുടെ കഥകൾ മെച്ചപ്പെടുത്താൻ സഹായിക്കുന്നതിൽ നിങ്ങൾക്ക് നിർണ്ണായക പങ്കുണ്ട്. നിങ്ങളുടെ ഫീഡ്ബാക്ക് പിഴവുകൾ കണ്ടെത്താനും വ്യക്തത കൂട്ടാനും കഥകൾ വായനക്കാർക്ക് കൂടുതൽ ആസ്വാദ്യമാക്കാനും സഹായിക്കുന്നു. ബീറ്റാ റീഡിങ് ഇന്റർഫേസ് എങ്ങനെ ഉപയോഗിക്കാമെന്നും ഫലപ്രദമായ ഫീഡ്ബാക്ക് എങ്ങനെ നൽകാമെന്നും ഈ ഗൈഡ് കാണിച്ചുതരും."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "നിങ്ങളുടെ പ്രധാന ആശയവിനിമയ ഉപാധി",
+      "content": "രചയിതാവിനുള്ള അഭിപ്രായങ്ങൾ നിങ്ങൾ നൽകുന്നത് ഇവിടെയാണ്! അഭിപ്രായ പാനൽ തുറക്കാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക. അദ്ധ്യായത്തെക്കുറിച്ച് പൊതുവായ ഫീഡ്ബാക്ക് ചേർക്കാം, പ്രത്യേക ഭാഗങ്ങൾ ഹൈലൈറ്റ് ചെയ്യാം, ചോദ്യങ്ങൾ ചോദിക്കാം, അല്ലെങ്കിൽ മെച്ചപ്പെടുത്തലുകൾ നിർദ്ദേശിക്കാം. രചയിതാവുമായി നിങ്ങൾ ആശയവിനിമയം നടത്തുന്ന പ്രധാന മാർഗ്ഗം നിങ്ങളുടെ അഭിപ്രായങ്ങളാണ്."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "അഭിപ്രായ ഇന്റർഫേസ്",
+      "content": "അഭിപ്രായ പാനലിൽ, മറ്റ് ബീറ്റാ റീഡർമാരുടെ നിലവിലുള്ള ഫീഡ്ബാക്ക് കാണാനും നിങ്ങളുടേത് ചേർക്കാനും കഴിയും. നിങ്ങളുടെ ചിന്തകൾ പങ്കിടാൻ താഴെയുള്ള അഭിപ്രായ ബോക്സ് ഉപയോഗിക്കൂ. എന്താണ് നന്നായതെന്നും എന്ത് മെച്ചപ്പെടുത്താമെന്നും കൃത്യമായി പറയൂ - ക്രിയാത്മകമായ ഫീഡ്ബാക്കാണ് ഏറ്റവും സഹായകരം!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "വായനാ ടൂളുകൾ",
+      "content": "നിങ്ങളുടെ വായനാനുഭവം ഇഷ്ടാനുസൃതമാക്കാൻ ഈ ടൂളുകൾ ഉപയോഗിക്കൂ. വായന കൂടുതൽ സുഖകരമാക്കാൻ അക്ഷര വലുപ്പം ക്രമീകരിക്കാം, ഡാർക്ക് മോഡ് ടോഗിൾ ചെയ്യാം, Open Dyslexic ഫോണ്ട് അല്ലെങ്കിൽ ഖണ്ഡിക ഹൈലൈറ്റിങ് പോലുള്ള ആക്‌സസിബിലിറ്റി സവിശേഷതകൾ ഓണാക്കാം."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "ഫീഡ്ബാക്ക് നൽകാൻ തയ്യാറാണോ?",
+      "content": "ബീറ്റാ റീഡിങ് ഇന്റർഫേസ് എങ്ങനെ ഉപയോഗിക്കാമെന്നും രചയിതാക്കളുമായി ആശയവിനിമയം നടത്താൻ അഭിപ്രായ സൗകര്യം എങ്ങനെ പ്രയോജനപ്പെടുത്താമെന്നും ഇപ്പോൾ നിങ്ങൾക്കറിയാം. അദ്ധ്യായം വായിച്ച് തുടങ്ങൂ, പിന്നെ സൈഡ്ബാർ തുറന്ന് നിങ്ങളുടെ ചിന്താപൂർവ്വമായ ഫീഡ്ബാക്ക് പങ്കിടൂ. നിങ്ങളുടെ അഭിപ്രായം രചയിതാക്കളെ മികച്ച കഥകൾ സൃഷ്ടിക്കാൻ സഹായിക്കുന്നു!"
     }
   }
 }

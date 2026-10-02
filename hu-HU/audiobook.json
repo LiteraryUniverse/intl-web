@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Felolvasók",
   "audiobook.team.you": "Ön",
   "audiobook.whereToListen": "Hol hallgatható meg",
+  "audiobook.team.members": "Csapattagok",
+  "audiobook.team.noMembers": "Még nincsenek csapattagok.",
   "audiobook.orgFeatureDisabled": "A hangoskönyvek nincsenek engedélyezve ennél a szervezetnél."
 }

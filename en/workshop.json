@@ -1060,5 +1060,7 @@
   "workshop.epub.review": "Visit the story on Literary Universe to continue reading or leave a review.",
   "workshop.epub.rights.reserved": "© {holder}. All rights reserved.",
   "workshop.epub.rights.cc": "© {holder}. Licensed under Creative Commons {code} 4.0: {url}",
-  "workshop.epub.rights.cc0": "Dedicated to the public domain under Creative Commons CC0 1.0: {url}"
+  "workshop.epub.rights.cc0": "Dedicated to the public domain under Creative Commons CC0 1.0: {url}",
+  "workshop.requests.proposeCredit": "Also propose a publication credit",
+  "workshop.ai.chat.modelUnavailable": "This conversation's model is unavailable. Add its provider key or start a new conversation."
 }

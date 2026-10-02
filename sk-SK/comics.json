@@ -135,7 +135,7 @@
   "comics.search.noResults": "Nenašla sa žiadna manga ani komiksy.",
   "comics.search.status": "Stav zverejnenia",
   "comics.settings.universe": "Vesmír",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Nastavenia diela",
   "comics.split.author": "Autor",
   "comics.splitMustTotal": "Rozdelenie výnosov musí dávať dohromady 100 %.",
   "comics.startReading": "Začať čítať",
@@ -196,6 +196,9 @@
   "comics.volumes": "Zväzky",
   "comics.volumes.empty": "Nie sú definované žiadne zväzky.",
   "comics.volumesHelp": "Predávajte rozsahy kapitol ako zväzky. Čísla kapitol sú vrátane a rozsahy sa nesmú prekrývať.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Označiť ako dokončené po vydaní poslednej naplánovanej kapitoly ({date})",
+  "comics.finish.scheduledNotice": "Dielo ({format}) bude označené ako dokončené {date}, keď vyjde jeho posledná naplánovaná kapitola.",
+  "comics.reader.loading": "Komiks",
+  "comics.translation.mode.label": "Režim: {mode}",
+  "comics.pagesCount": "{count, plural, one {# stránka} few {# stránky} many {# stránky} other {# stránok}}"
 }

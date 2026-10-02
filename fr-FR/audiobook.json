@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Comédiens de doublage",
   "audiobook.team.you": "vous",
   "audiobook.whereToListen": "Où écouter",
+  "audiobook.team.members": "Membres de l'équipe",
+  "audiobook.team.noMembers": "Aucun membre dans l'équipe pour le moment.",
   "audiobook.orgFeatureDisabled": "Les livres audio ne sont pas activés pour cette organisation."
 }

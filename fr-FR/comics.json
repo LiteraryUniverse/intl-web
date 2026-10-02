@@ -135,7 +135,7 @@
   "comics.search.noResults": "Aucun manga ni BD trouvé.",
   "comics.search.status": "Statut de publication",
   "comics.settings.universe": "Univers",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Paramètres de l'œuvre",
   "comics.split.author": "Auteur",
   "comics.splitMustTotal": "La répartition des revenus doit totaliser 100 %.",
   "comics.startReading": "Commencer la lecture",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volumes",
   "comics.volumes.empty": "Aucun volume défini.",
   "comics.volumesHelp": "Vendez des plages de chapitres sous forme de volumes. Les numéros de chapitres sont inclus et les plages ne doivent pas se chevaucher.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Marquer comme terminée dès la sortie du dernier chapitre programmé ({date})",
+  "comics.finish.scheduledNotice": "L'œuvre ({format}) sera marquée comme terminée le {date}, à la sortie de son dernier chapitre programmé.",
+  "comics.reader.loading": "BD",
+  "comics.translation.mode.label": "Mode : {mode}",
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
 }

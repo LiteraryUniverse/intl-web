@@ -135,7 +135,7 @@
   "comics.search.noResults": "Mangaa tai sarjakuvia ei löytynyt.",
   "comics.search.status": "Julkaisun tila",
   "comics.settings.universe": "Universumi",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Teoksen asetukset",
   "comics.split.author": "Kirjoittaja",
   "comics.splitMustTotal": "Tulonjaon on oltava yhteensä 100 %.",
   "comics.startReading": "Aloita lukeminen",
@@ -196,6 +196,9 @@
   "comics.volumes": "Niteet",
   "comics.volumes.empty": "Niteitä ei ole määritetty.",
   "comics.volumesHelp": "Myy lukualueita niteinä. Lukunumerot ovat mukaan lukevia, eivätkä alueet saa mennä päällekkäin.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Merkitse valmiiksi, kun viimeinen ajastettu luku julkaistaan ({date})",
+  "comics.finish.scheduledNotice": "{format} merkitään valmiiksi {date}, kun sen viimeinen ajastettu luku julkaistaan.",
+  "comics.reader.loading": "Sarjakuva",
+  "comics.translation.mode.label": "Tila: {mode}",
+  "comics.pagesCount": "{count, plural, one {# sivu} other {# sivua}}"
 }

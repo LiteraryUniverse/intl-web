@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Sprecher",
   "audiobook.team.you": "du",
   "audiobook.whereToListen": "Wo anhören",
+  "audiobook.team.members": "Teammitglieder",
+  "audiobook.team.noMembers": "Noch keine Teammitglieder.",
   "audiobook.orgFeatureDisabled": "Hörbücher sind für diese Organisation nicht aktiviert."
 }

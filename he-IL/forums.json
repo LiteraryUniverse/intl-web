@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "בחר קטגוריה...",
   "forums.posts.loadError": "שגיאה בטעינת פוסטים",
   "forums.category.orgRoles": "הגבלה לתפקידי הארגון (ללא = כל החברים)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "ערוך תגובה",
+  "forums.post.delete": "מחק תגובה",
+  "forums.post.deleteConfirm": "למחוק את התגובה הזו? היא לא תופיע עוד בדיון זה.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "תגובה זו נמחקה.",
+  "forums.post.hidden": "תגובה זו הוסתרה על ידי הפיקוח."
 }

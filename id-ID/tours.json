@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "Lewati tur",
+    "close": "Tutup tur",
+    "end": "Akhiri tur",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "Gunakan tombol panah untuk bernavigasi, ESC untuk menutup",
+    "start": "Mulai tur"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Selamat datang di Dasbor Anda",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Selamat datang di Literary Universe",
+      "content": "Mari ikuti tur singkat dasbor Anda untuk membantu Anda memulai perjalanan menulis."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Navigasi utama",
+      "content": "Ini adalah menu navigasi utama Anda. Mari kita lihat satu per satu."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Beranda pribadi Anda dengan pembaruan aktivitas serta akses ke workshop, pustaka, dan fitur sosial Anda."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Jelajahi cerita dan universe yang dibuat pengguna lain. Baca kisah di balik layar dan tulisan blog mendalam dari para penulis. Temukan bacaan favorit Anda berikutnya!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Kegembiraan yang dibagikan jadi 10 kali lipat! Temukan grup orang-orang yang sepemikiran, bergabunglah dengan Discord kami, dan cari tahu siapa lagi yang ada di Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Coretan adalah buku catatan pribadi yang selalu tersedia untuk mencatat ide, catatan, dan pemikiran Anda."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Ikuti terus komentar, pengikut baru, dan interaksi komunitas lainnya."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Berkomunikasi dengan penulis lain dan pembaca beta, serta berkolaborasi dalam proyek."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Kelola informasi pribadi, preferensi, dan pengaturan akun Anda."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Ruang kreatif Anda untuk menulis, menyunting, dan mengelola cerita serta universe Anda."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Pustaka Anda",
+        "content": "Akses semua cerita tersimpan, daftar bacaan, dan konten unduhan Anda di satu tempat."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Menu akses cepat",
+      "content": "Bilah sisi ini memberikan akses cepat ke fitur dan alat penting."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Sebagai penulis, Workshop adalah tempat keajaiban terjadi! Mulai cerita baru, lanjutkan cerita yang sudah ada, atau kembangkan universe Anda. Pembaca Anda sudah menunggu!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Sebagai pembaca, Jelajah adalah gerbang Anda menuju cerita-cerita luar biasa! Jelajahi genre baru, ikuti penulis favorit Anda, dan susun daftar bacaan Anda. Selamat membaca!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "Baru di sini? Ikuti tur singkat dasbor Anda!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Selamat datang di Workshop Anda",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Selamat datang di Workshop Literary Universe",
+      "content": "Workshop adalah jantung perjalanan kreatif Anda di Literary Universe. Di sini Anda dapat membuat, mengelola, dan berkolaborasi dalam cerita serta universe Anda."
     },
     "theWay": {
       "title": "Cara Penulis",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "Pantau kemajuan Anda sebagai penulis dengan Cara Penulis. Sistem bergaya permainan ini membantu Anda naik level dengan menyelesaikan pencapaian menulis dan berinteraksi dengan komunitas. Klik di sini untuk mempelajari cara kerjanya."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Mulai sesuatu yang baru",
+      "content": "Mulai membuat menanyakan apa yang ingin Anda buat: universe untuk cerita-cerita yang berbagi satu dunia, cerita yang berdiri sendiri, fiksi penggemar, atau komik. Anda dipandu melewati keputusan-keputusan pertama dan mendapatkan sebuah draf. Tidak ada yang diterbitkan sampai Anda sendiri menerbitkannya."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Semua proyek Anda",
+      "content": "Setiap universe, cerita, komik, dan buku audio yang Anda miliki atau kerjakan tercantum di sini. Tombol di sebelah kanan beralih antara tampilan sampul dan daftar ringkas. Undangan untuk berkolaborasi, menerjemahkan, atau menjadi pembaca beta muncul di atas daftar sebagai permintaan yang dapat Anda terima atau tolak."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Temukan proyek yang Anda butuhkan",
+      "content": "Akses mempersempit daftar menjadi proyek yang Anda miliki, proyek tempat Anda menjadi anggota tim, terjemahan, atau cerita yang Anda tinjau sebagai pembaca beta. Format dan Status mempersempitnya lagi, dan Urutkan menempatkan proyek yang paling baru diperbarui di urutan pertama."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Lanjutkan perjalanan Anda",
+      "content": "Jangan lupa kembali ke sini untuk melihat kemajuan Anda di Cara Penulis. Teruslah menulis, berkolaborasi, dan berinteraksi dengan komunitas untuk naik level! Sekarang, mari mulai menulis!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Pustaka pribadi Anda",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Lanjutkan membaca",
+      "content": "Selamat datang di pustaka pribadi Anda! Di sini Anda dapat melihat cerita dan universe yang telah Anda tambahkan untuk memantau kemajuan membaca. Bagian Lanjutkan membaca menampilkan konten yang terakhir Anda buka sehingga Anda dapat dengan mudah melanjutkan dari tempat terakhir."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Seluruh pustaka Anda",
+      "content": "Tab ini menampilkan semua isi pustaka Anda. Tab di sebelahnya mempersempitnya menjadi cerita, pembelian, buku audio, manga dan komik, atau universe. Tambahkan cerita atau universe ke pustaka Anda untuk mendapatkan pembaruan dan menyimpan posisi baca Anda."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Cerita Anda",
+      "content": "Semua cerita yang telah Anda tambahkan ke pustaka tertata di sini. Pantau kemajuan membaca, dapatkan notifikasi tentang bab baru, dan jangan pernah kehilangan posisi baca di kisah-kisah favorit Anda."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Universe Anda",
+      "content": "Universe yang telah Anda tambahkan ke pustaka muncul di sini. Ikuti cerita-cerita baru di dalam universe tersebut, jelajahi ensiklopedianya, dan manfaatkan fitur komunitasnya."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Daftar bacaan",
+      "content": "Buat dan kelola daftar bacaan pribadi Anda di sini. Kelompokkan cerita berdasarkan tema, seri, atau kriteria apa pun yang cocok bagi Anda. Bagikan daftar Anda kepada orang lain atau simpan untuk diri sendiri."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Catatan Pribadi",
+      "content": "Dengan langganan platform, Anda dapat menambahkan catatan pribadi ke cerita, universe, atau entri ensiklopedia mana pun. Catat pemikiran, teori, dan wawasan Anda selagi membaca dan menjelajahi Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Siap membangun pustaka Anda?",
+      "content": "Mulailah menambahkan cerita dan universe ke pustaka Anda dari Jelajah. Pantau kemajuan membaca, buat daftar bacaan, dan perkaya pengalaman Anda dengan catatan pribadi. Perjalanan sastra Anda menanti!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Workshop universe",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Selamat datang di Workshop universe Anda!",
+      "content": "Selamat, Anda telah membuat universe pertama Anda! Ini adalah pusat kendali untuk membangun dan mengelola dunia sastra Anda. Mari jelajahi semua alat andal yang tersedia untuk menghidupkan universe Anda."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Kelola cerita Anda",
+      "content": "Di sinilah Anda mengelola semua cerita di dalam universe Anda. Buat cerita baru, sunting yang sudah ada, dan tata narasi Anda di berbagai kisah yang saling terhubung. Setiap cerita dapat memanfaatkan ensiklopedia universe bersama dan fitur komunitas."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Bangun ensiklopedia Anda",
+      "content": "Buat dan kelola ensiklopedia universe Anda, basis pengetahuan yang menghidupkan dunia Anda. Tambahkan karakter, lokasi, latar dunia, dan detail lain yang dapat dijelajahi pembaca. Ensiklopedia yang kaya membuat universe Anda lebih imersif dan membantu pembaca memahami konteks cerita Anda."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Halaman universe Anda",
+      "content": "Ini adalah halaman publik universe Anda, tempat pengunjung dapat mengenal dunia Anda, membaca cerita Anda, menjelajahi ensiklopedia, dan berinteraksi dengan komunitas Anda. Sesuaikan halaman ini untuk menampilkan universe Anda dan menarik pembaca baru."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Kelola terjemahan",
+      "content": "Koordinasikan penerjemahan konten universe Anda ke bahasa lain. Kelola penerjemah, pantau kemajuan, dan pastikan cerita Anda menjangkau pembaca global. Terjemahan membantu Anda terhubung dengan pembaca di seluruh dunia."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Manajer penggemar",
+      "content": "Kelola interaksi dan karya penggemar yang terinspirasi oleh universe Anda. Pantau fiksi penggemar, karya seni, dan konten komunitas lainnya. Berinteraksilah dengan penggemar Anda dan bangun komunitas yang hidup di sekitar dunia Anda."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Pantau keberhasilan Anda",
+      "content": "Pantau kinerja universe Anda dengan analitik terperinci. Lihat keterlibatan pembaca, cerita populer, jumlah tayangan ensiklopedia, dan metrik lain yang membantu Anda memahami apa yang disukai pembaca Anda."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Forum perencanaan internal",
+      "content": "Forum internal universe Anda untuk perencanaan dan koordinasi dengan kolaborator dan penerjemah. Diskusikan alur cerita dan detail pembangunan dunia, serta koordinasikan upaya kreatif Anda. Ruang privat ini membantu tim Anda bekerja sama secara efektif."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Kelola kolaborator",
+      "content": "Undang penulis, seniman, dan kreator lain untuk berkolaborasi di universe Anda. Tetapkan peran dan izin, kelola tingkat akses, dan bentuk tim untuk mengembangkan dunia Anda bersama-sama."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Pengaturan pendapatan",
+      "content": "Atur cara Anda memonetisasi universe dan kontennya. Siapkan akses premium, kelola langganan, dan tetapkan bagi hasil dengan kolaborator. Ubah karya kreatif Anda menjadi sumber penghasilan yang berkelanjutan."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Pusat resolusi",
+      "content": "Tangani sengketa, pelanggaran konten, dan masalah lain yang mungkin muncul di universe Anda. Sistem terpusat ini membantu menjaga komunitas tetap positif dan menyelesaikan konflik secara efisien."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Pengaturan universe",
+      "content": "Atur pengaturan inti universe Anda, termasuk privasi, kontrol akses, kategori, dan opsi dasar lainnya. Pengaturan ini menentukan cara universe Anda berjalan dan siapa yang dapat berinteraksi dengannya."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Konfigurasi forum",
+      "content": "Sempurnakan pengaturan forum universe Anda. Buat kategori, tetapkan aturan moderasi, atur izin, dan sesuaikan ruang diskusi agar paling sesuai dengan kebutuhan komunitas Anda."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Siap membangun universe Anda?",
+      "content": "Kini Anda memiliki semua alat yang dibutuhkan untuk menciptakan universe yang kaya dan memikat. Mulailah dengan menambahkan beberapa cerita, mengembangkan ensiklopedia, dan mengundang kolaborator. Dunia sastra Anda menanti untuk diciptakan!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Dasbor cerita",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Selamat datang di Dasbor cerita Anda!",
+      "content": "Ini adalah pusat kendali cerita Anda, tempat Anda mengelola semua aspek narasi. Di sini Anda dapat menulis bab, menata struktur cerita, berkolaborasi dengan orang lain, dan memantau kemajuan Anda. Mari jelajahi fitur-fitur utamanya."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Menambahkan bab baru",
+      "content": "Di sinilah Anda menambahkan bab baru ke cerita Anda. Klik tombol \"Bab baru\" untuk membuat bab baru. Cerita Anda akan otomatis menyusun bab dalam urutan yang benar. Anda juga dapat menambahkan bab dari bagian bawah daftar bab."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Pantau kemajuan Anda",
+      "content": "Pantau kemajuan menulis dan keterlibatan pembaca Anda dengan statistik terperinci. Lihat berapa banyak pembaca Anda, pantau jumlah tayangan bab, dan analisis kinerja cerita Anda dari waktu ke waktu."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Kelola kolaborator",
+      "content": "Undang penulis lain untuk berkolaborasi dalam cerita Anda. Tetapkan peran dan izin yang berbeda, koordinasikan penulisan, dan kelola tim kreatif Anda. Cocok untuk proyek menulis bersama."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Pengelolaan terjemahan",
+      "content": "Koordinasikan penerjemahan cerita Anda ke bahasa lain. Kelola penerjemah, pantau kemajuan terjemahan, dan buat cerita Anda dapat dinikmati pembaca di seluruh dunia."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Pengaturan pendapatan",
+      "content": "Atur cara Anda memonetisasi cerita. Siapkan bab premium, kelola opsi langganan, dan tetapkan bagi hasil dengan kolaborator. Ubah tulisan Anda menjadi penghasilan."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Pengaturan cerita",
+      "content": "Atur pengaturan inti cerita Anda, termasuk privasi, opsi penerbitan, kategori, dan preferensi dasar lainnya. Pengaturan ini menentukan bagaimana cerita Anda tampil dan berfungsi."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Catatan ikhtisar",
+      "content": "Catat struktur keseluruhan cerita, poin-poin plot, perkembangan karakter, dan catatan penting lainnya. Ini adalah ruang perencanaan pribadi Anda untuk menata narasi."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Tantangan menulis pribadi",
+      "content": "Tetapkan target menulis pribadi dan pantau kemajuan Anda dengan tantangan. Buat target jumlah kata harian atau mingguan, tetapkan tenggat untuk bab, dan motivasi diri agar kebiasaan menulis tetap konsisten. Ini adalah alat pribadi Anda untuk menjaga jadwal menulis tetap pada jalurnya."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Pengelolaan garis cerita",
+      "content": "Tata cerita Anda ke dalam berbagai alur dan benang cerita. Pantau perkembangan karakter, subplot, dan unsur naratif. Cocok untuk cerita kompleks dengan banyak unsur yang saling terkait."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Manajer adegan",
+      "content": "Tata dan kelola setiap adegan di dalam bab Anda. Pantau kemajuan adegan, ubah urutannya, dan jaga alur struktur narasi Anda."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Dokumen hukum",
+      "content": "Akses dokumen hukum penting yang terkait dengan cerita Anda, termasuk informasi hak cipta, perjanjian penerbitan, dan pengelolaan hak. Jaga urusan hukum Anda tetap tertib."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Versi publik",
+      "content": "Lihat cerita Anda sebagaimana tampil bagi pembaca di situs publik. Periksa format, uji tautan, dan pastikan semuanya terlihat sempurna sebelum membagikannya kepada pembaca Anda."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Bagikan cerita Anda",
+      "content": "Bagikan cerita Anda di media sosial dengan teks dan tautan yang sudah disiapkan untuk platform populer. Dapatkan konten siap pakai yang menampilkan karya Anda dan membantu Anda menjangkau pembaca baru di berbagai jejaring sosial."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Pusat resolusi",
+      "content": "Tangani sengketa hukum, pelanggaran Ketentuan Layanan, atau masalah lain yang terkait dengan cerita Anda. Pusat ini mencantumkan semua masalah yang dilaporkan dan menyediakan alat untuk menyelesaikan konflik serta menjaga lingkungan komunitas yang positif."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Pengelolaan status cerita",
+      "content": "Kendalikan status penerbitan cerita Anda dengan opsi-opsi penting ini. \"Aktif\" berarti cerita Anda diperbarui secara rutin. \"Sedang beristirahat\" menandakan jeda sementara. \"Dibatalkan\" berarti Anda berhenti menulisnya. \"Selesai\" menandai cerita Anda telah tamat. Pilih status yang paling mencerminkan situasi menulis Anda saat ini. Catatan: cerita otomatis berubah menjadi \"Sedang beristirahat\" setelah 6 bulan tanpa perkembangan, dan menjadi \"Dibatalkan\" setelah 6 bulan berikutnya tanpa aktivitas."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Siap mulai menulis?",
+      "content": "Kini Anda tahu cara mengelola setiap aspek cerita Anda. Mulailah dengan menambahkan bab pertama, lalu jelajahi berbagai alat yang tersedia. Cerita Anda menanti untuk diciptakan!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Tur editor cerita",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Selamat datang di Editor cerita!",
+      "content": "Ini adalah ruang kerja menulis Anda, tempat Anda merangkai cerita. Editor ini menyediakan alat-alat andal untuk membantu Anda menulis, menata, dan menerbitkan karya. Mari jelajahi fitur-fitur utamanya."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Pengaturan ukuran teks",
+      "content": "Sesuaikan ukuran teks agar nyaman dibaca selagi Anda menulis. Beralihlah antara ukuran teks normal dan besar untuk mengurangi kelelahan mata selama sesi menulis yang panjang."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Tombol mode gelap",
+      "content": "Beralih antara tema terang dan gelap. Mode gelap lebih nyaman di mata saat menulis di malam hari dan membantu menjaga fokus."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Alat aksesibilitas",
+      "content": "Akses fon ramah disleksia, penyorotan paragraf, dan fitur aksesibilitas lain demi kenyamanan Anda."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Tampilkan atau sembunyikan panel samping",
+      "content": "Tampilkan atau sembunyikan panel samping. Panel ini berisi alat bantu seperti coretan, catatan cerita, ensiklopedia, komentar, dan AI Assistant."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Mode layar penuh",
+      "content": "Masuk ke mode layar penuh untuk memaksimalkan ruang menulis dan menghilangkan gangguan. Cocok untuk sesi menulis yang fokus."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Simpan karya Anda",
+      "content": "Draf Anda disimpan secara otomatis. Karya Anda tersimpan selagi Anda mengetik, tetapi Anda juga dapat menyimpannya secara manual kapan saja."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Opsi penerbitan",
+      "content": "Setelah draf Anda selesai, saatnya membuat revisi. Anda dapat membuat revisi untuk pembaca beta atau untuk publik. Begitu memutuskan untuk menerbitkan, Anda yang menentukan kapan bab itu tayang."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Judul bab",
+      "content": "Klik judul untuk mengubah namanya."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Tulis catatan pribadi tentang bab Anda atau sekadar pesan untuk pembaca. Catatan ini akan ditampilkan kepada pembaca sebelum bab (seperti di sini) dan merupakan cara yang efektif untuk menyampaikan pengumuman atau berbagi pemikiran tentang cerita sejauh ini."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Teks utama cerita",
+      "content": "Ini adalah area menulis utama Anda, tempat cerita Anda menjadi hidup. Tulis isi bab di sini dengan kemampuan penyuntingan teks kaya yang lengkap."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Kotak alat bilah sisi",
+      "content": "Panel samping berisi alat dan informasi yang berguna. Gunakan menu di bagian atas untuk beralih antara tampilan seperti coretan, rujukan ensiklopedia, komentar, dan AI Assistant."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Coretan pribadi",
+      "content": "Coretan pribadi Anda selalu tersedia untuk mencatat ide, catatan, atau inspirasi. Simpan pemikiran yang tidak cocok masuk ke cerita utama tetapi mungkin berguna nanti."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Catatan cerita",
+      "content": "Akses catatan keseluruhan dan bahan perencanaan cerita Anda. Catat kerangka plot, perkembangan karakter, detail pembangunan dunia, dan informasi penataan lainnya."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Akses ensiklopedia",
+      "content": "Akses cepat ke ensiklopedia universe Anda. Rujuk detail karakter, lokasi, latar dunia, dan unsur pembangunan dunia lainnya selagi menulis. Tombol lain di sini memungkinkan Anda mencari dan menambahkan entri baru."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Komentar bab",
+      "content": "Lihat dan balas komentar pada bab ini dari pembaca beta, kolaborator, dan pembaca lainnya. Berinteraksilah dengan pembaca Anda dan dapatkan masukan yang berharga."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Sebelum menerbitkan, ada hal-hal penting yang perlu diperiksa. Daftar tugas pra-terbit dan hal-hal kecil menarik lainnya yang perlu dicek tersimpan di sini."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "Tanyakan kepada asisten tentang cerita, universe, dan ensiklopedia Anda. Ia dapat memeriksa konsistensi, mengoreksi sebuah bagian, atau mencarikan sesuatu. Ia menjawab pertanyaan tentang tulisan Anda dan tidak menulis untuk Anda. Asisten ini berjalan dengan kunci API Anda sendiri, yang Anda tambahkan di pengaturan."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Siap mulai menulis?",
+      "content": "Kini Anda tahu cara menggunakan semua fitur andal editor cerita. Mulailah menulis bab Anda dan jelajahi alat-alatnya saat Anda membutuhkannya. Jika butuh bantuan, lihat halaman bantuan kami, Cara Penulis, atau hubungi kami. Sekarang, mari menulis cerita!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Tur penerjemah cerita",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Selamat datang di Penerjemah cerita!",
+      "content": "Mari melihat-lihat sebentar. Gunakan ruang kerja ini untuk menerjemahkan teks asli sambil tetap memiliki bahan rujukan dalam jangkauan."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Teks asli di sebelah kiri",
+      "content": "Sisi kiri menampilkan bab asli dan catatan penulis. Biarkan terbuka sebagai rujukan selagi Anda bekerja."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Terjemahkan di sebelah kanan",
+      "content": "Tulis terjemahan Anda di sebelah kanan. Semua yang Anda simpan di sini menjadi versi yang akan dilihat pembaca bahasa ini."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Akses ensiklopedia universe",
+      "content": "Butuh latar dunia atau istilah? Di bilah sisi Anda dapat membuka ensiklopedia universe untuk memahami universe tersebut dengan lebih baik."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Selamat datang di Ensiklopedia",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Ensiklopedia universe Anda",
+      "content": "Selamat datang di ensiklopedia Anda! Di sinilah Anda menata semua pengetahuan tentang universe Anda dan membagikannya kepada para penggemar."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Tata konten Anda",
+      "content": "Beralihlah antara tampilan \"Kategori\" dan \"Grup\". Kategori menampilkan entri yang dikelompokkan menurut jenis (Karakter, Lokasi, dan sebagainya), sedangkan Grup memungkinkan Anda melihat entri menurut pengelompokan kolom khusus yang ditetapkan oleh entri induknya, dan seterusnya."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Kategori Anda",
+      "content": "Berikut kategori ensiklopedia Anda. Setiap kategori memiliki templat sendiri untuk menata informasi. Klik kategori mana pun untuk membukanya dan melihat entri di dalamnya."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Temukan yang Anda butuhkan",
+      "content": "Gunakan pencarian untuk menemukan entri apa pun di ensiklopedia Anda dengan cepat. Cari berdasarkan nama, isi, atau tag untuk langsung menemukan informasi."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Buat entri baru",
+      "content": "Tambahkan entri baru ke ensiklopedia Anda. Setiap kategori memiliki templat formulir sendiri sebagai titik awal, tetapi Anda bebas menyesuaikannya."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Sesuaikan ensiklopedia Anda",
+      "content": "Pastikan Anda memeriksa pengaturan ensiklopedia untuk memilih kategori yang ingin digunakan, mengatur pesan sambutan, dan menetapkan detail ensiklopedia lainnya."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Sekarang Anda sudah tahu dasar-dasarnya! Kembali ke workshop untuk terus membangun universe Anda, atau mulailah menambahkan entri ke ensiklopedia. Selamat menulis!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Panduan pembaca beta",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Selamat datang di pembacaan beta!",
+      "content": "Sebagai pembaca beta, Anda berperan penting membantu penulis menyempurnakan cerita mereka. Masukan Anda membantu menemukan masalah, memperjelas tulisan, dan membuat cerita lebih nikmat dibaca. Panduan ini menunjukkan cara menggunakan antarmuka pembacaan beta dan memberikan masukan yang efektif."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Alat komunikasi utama Anda",
+      "content": "Di sinilah Anda meninggalkan komentar untuk penulis! Klik di sini untuk membuka panel komentar. Anda dapat memberikan masukan umum tentang bab, menyoroti bagian tertentu, mengajukan pertanyaan, atau menyarankan perbaikan. Komentar adalah cara utama Anda berkomunikasi dengan penulis."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Antarmuka komentar",
+      "content": "Di panel komentar, Anda dapat melihat masukan dari pembaca beta lain dan menambahkan masukan Anda sendiri. Gunakan kotak komentar di bagian bawah untuk membagikan pendapat Anda. Jelaskan secara spesifik apa yang sudah baik dan apa yang bisa diperbaiki; masukan yang membangun adalah yang paling membantu!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Alat membaca",
+      "content": "Gunakan alat-alat ini untuk menyesuaikan pengalaman membaca Anda. Anda dapat mengatur ukuran teks, mengaktifkan mode gelap, dan menyalakan fitur aksesibilitas seperti fon Open Dyslexic atau penyorotan paragraf agar membaca lebih nyaman."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Siap memberikan masukan?",
+      "content": "Sekarang Anda tahu cara menggunakan antarmuka pembacaan beta dan fitur komentar untuk berkomunikasi dengan penulis. Mulailah dengan membaca bab, lalu buka bilah sisi dan bagikan masukan Anda yang bijak. Masukan Anda membantu penulis menciptakan cerita yang lebih baik!"
     }
   }
 }

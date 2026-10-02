@@ -135,7 +135,7 @@
   "comics.search.noResults": "Fant ingen manga eller tegneserier.",
   "comics.search.status": "Publiseringsstatus",
   "comics.settings.universe": "Univers",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Innstillinger for verket",
   "comics.split.author": "Forfatter",
   "comics.splitMustTotal": "Inntektsfordelingen må bli 100 %.",
   "comics.startReading": "Begynn å lese",
@@ -196,6 +196,9 @@
   "comics.volumes": "Bind",
   "comics.volumes.empty": "Ingen bind definert.",
   "comics.volumesHelp": "Selg kapittelintervaller som bind. Kapittelnumre er inkludert, og intervaller kan ikke overlappe.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Merk som fullført når det siste planlagte kapittelet er utgitt ({date})",
+  "comics.finish.scheduledNotice": "{format} blir merket som fullført {date}, når det siste planlagte kapittelet er utgitt.",
+  "comics.reader.loading": "Tegneserie",
+  "comics.translation.mode.label": "Modus: {mode}",
+  "comics.pagesCount": "{count, plural, one {# side} other {# sider}}"
 }

@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Người lồng tiếng",
   "audiobook.team.you": "bạn",
   "audiobook.whereToListen": "Nơi để nghe",
+  "audiobook.team.members": "Thành viên nhóm",
+  "audiobook.team.noMembers": "Chưa có thành viên nào trong nhóm.",
   "audiobook.orgFeatureDisabled": "Sách nói chưa được bật cho tổ chức này."
 }

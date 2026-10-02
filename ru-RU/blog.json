@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Скрывать на маленьких экранах",
   "blog.people": "Люди",
   "blog.people.intro": "Дайте кому-то доступ к части этого блога, не отдавая свою учётную запись. Каждое разрешение действует само по себе и относится только к этому блогу.",
   "blog.people.add": "Добавить кого-то в этот блог",
@@ -347,12 +347,12 @@
   "blog.billing": "Оплата",
   "blog.billing.intro": "Управляйте подпиской, которая оплачивает этот блог: смените тариф, обновите способ оплаты или скачайте счета.",
   "blog.billing.open": "Открыть платёжный портал",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "Скрыть название блога",
+  "blog.menus.logoSize": "Размер логотипа",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "На всю ширину",
   "blog.pages.import": "Импортировать дизайн-шаблон",
   "blog.pages.import.hint": "Выберите HTML-файл шаблона вместе с изображениями, на которые он ссылается. Тексты и изображения останутся редактируемыми после импорта.",
   "blog.pages.import.files": "Файл шаблона + изображения",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Монохромная",
   "blog.theme.generate.mode.pastel": "Пастельная",
   "blog.theme.generate.nudged": "Скорректировано для читаемости: {tokens}.",
-  "blog.theme.generate.unreadable": "Не удалось прочитать это изображение. Скачайте его и выберите как файл."
+  "blog.theme.generate.unreadable": "Не удалось прочитать это изображение. Скачайте его и выберите как файл.",
+  "blogs.readFullPost": "Читать запись полностью"
 }

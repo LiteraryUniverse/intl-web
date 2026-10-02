@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Pilih kategori...",
   "forums.posts.loadError": "Kesalahan memuat postingan",
   "forums.category.orgRoles": "Batasi ke peran organisasi (kosong = semua anggota)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Edit balasan",
+  "forums.post.delete": "Hapus balasan",
+  "forums.post.deleteConfirm": "Hapus balasan ini? Balasan tidak akan lagi muncul dalam diskusi ini.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Balasan ini telah dihapus.",
+  "forums.post.hidden": "Balasan ini disembunyikan oleh moderasi."
 }

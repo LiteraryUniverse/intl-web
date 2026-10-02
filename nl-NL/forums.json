@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.category": "Geplaatst in categorie:",
   "forums.settings.systemPosts.blogs.selectCategory": "Selecteer een categorie...",
   "forums.posts.loadError": "Fout bij het laden van berichten",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Reactie bewerken",
+  "forums.post.delete": "Reactie verwijderen",
+  "forums.post.deleteConfirm": "Deze reactie verwijderen? Ze verschijnt dan niet meer in deze discussie.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Deze reactie is verwijderd.",
+  "forums.post.hidden": "Deze reactie is verborgen door de moderatie."
 }

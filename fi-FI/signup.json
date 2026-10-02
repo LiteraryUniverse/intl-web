@@ -96,5 +96,7 @@
 	"signup.complete.description": "Kiitos, että täytit profiilisi. Olemme räätälöineet kokemuksesi mieltymystesi perusteella.",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "Rekisteröitymisavustaja",
-	"signup.userType.artist.description": "Piirrän mangaa, sarjakuvia tai kuvituksia"
+	"signup.userType.artist.description": "Piirrän mangaa, sarjakuvia tai kuvituksia",
+  "signup.writer.mediaType.fanFiction.title": "Fanifiktio",
+  "signup.password2.label": "Vahvista salasana"
 }

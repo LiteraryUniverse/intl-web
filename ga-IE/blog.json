@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Aondathach",
   "blog.theme.generate.mode.pastel": "Pastal",
   "blog.theme.generate.nudged": "Coigeartaithe le haghaidh inléiteachta: {tokens}.",
-  "blog.theme.generate.unreadable": "Níorbh fhéidir an pictiúr sin a léamh. Íoslódáil é agus roghnaigh mar chomhad é."
+  "blog.theme.generate.unreadable": "Níorbh fhéidir an pictiúr sin a léamh. Íoslódáil é agus roghnaigh mar chomhad é.",
+  "blogs.readFullPost": "Read the full post"
 }

@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "એકરંગી",
   "blog.theme.generate.mode.pastel": "પેસ્ટલ",
   "blog.theme.generate.nudged": "વાંચનક્ષમતા માટે ગોઠવેલ: {tokens}.",
-  "blog.theme.generate.unreadable": "તે ચિત્ર વાંચી શકાયું નહીં. તેને ડાઉનલોડ કરીને ફાઇલ તરીકે પસંદ કરો."
+  "blog.theme.generate.unreadable": "તે ચિત્ર વાંચી શકાયું નહીં. તેને ડાઉનલોડ કરીને ફાઇલ તરીકે પસંદ કરો.",
+  "blogs.readFullPost": "આખી પોસ્ટ વાંચો"
 }

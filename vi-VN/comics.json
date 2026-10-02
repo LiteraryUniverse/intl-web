@@ -135,7 +135,7 @@
   "comics.search.noResults": "Không tìm thấy manga hoặc truyện tranh nào.",
   "comics.search.status": "Trạng thái xuất bản",
   "comics.settings.universe": "Vũ trụ",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Cài đặt tác phẩm",
   "comics.split.author": "Tác giả",
   "comics.splitMustTotal": "Tổng tỷ lệ chia doanh thu phải bằng 100%.",
   "comics.startReading": "Bắt đầu đọc",
@@ -196,6 +196,9 @@
   "comics.volumes": "Các tập",
   "comics.volumes.empty": "Chưa định nghĩa tập nào.",
   "comics.volumesHelp": "Bán các khoảng chương dưới dạng tập. Số chương bao gồm cả hai đầu và các khoảng không được chồng lấn.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Đánh dấu là đã hoàn thành khi chương cuối cùng đã lên lịch được phát hành ({date})",
+  "comics.finish.scheduledNotice": "{format} sẽ được đánh dấu là đã hoàn thành vào {date}, khi chương cuối cùng đã lên lịch được phát hành.",
+  "comics.reader.loading": "Truyện tranh",
+  "comics.translation.mode.label": "Chế độ: {mode}",
+  "comics.pagesCount": "{count, plural, other {# trang}}"
 }

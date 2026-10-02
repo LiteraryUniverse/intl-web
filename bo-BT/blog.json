@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ཚོན་གཅིག",
   "blog.theme.generate.mode.pastel": "སྐྱ་བོ།",
   "blog.theme.generate.nudged": "ཀློག་བདེ་བའི་ཆེད་བཟོ་བཅོས་བྱས་པ། {tokens}",
-  "blog.theme.generate.unreadable": "པར་རིས་དེ་ཀློག་མ་ཐུབ། ཕབ་ལེན་བྱས་ནས་ཡིག་ཆའི་ཚུལ་དུ་འདེམས་རོགས།"
+  "blog.theme.generate.unreadable": "པར་རིས་དེ་ཀློག་མ་ཐུབ། ཕབ་ལེན་བྱས་ནས་ཡིག་ཆའི་ཚུལ་དུ་འདེམས་རོགས།",
+  "blogs.readFullPost": "Read the full post"
 }

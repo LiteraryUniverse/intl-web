@@ -71,13 +71,13 @@
   "sharing.advanced.bgLimitReached": "Você atingiu o número máximo de imagens de fundo para sua assinatura.",
   "sharing.advanced.bgUploadError": "Falha ao enviar a imagem de fundo.",
   "sharing.advanced.deleteBackground": "Excluir fundo",
-  "sharing.card.title": "Link preview",
-  "sharing.card.description": "This image appears when someone shares a link to your work. By default, we generate it from the cover. Upload your own image to replace the automatic card, or switch back at any time.",
-  "sharing.card.visibility": "This preview is for your workshop. Public links show this card only when the work is published and visible to guests. Chapter links use the story’s card.",
-  "sharing.card.automatic": "Generated from the cover",
-  "sharing.card.custom": "Your custom share card",
-  "sharing.card.preview": "Social link preview image",
-  "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
-  "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.title": "Prévia do link",
+  "sharing.card.description": "Esta imagem aparece quando alguém compartilha um link para a sua obra. Por padrão, nós a geramos a partir da capa. Envie sua própria imagem para substituir o cartão automático ou volte ao automático quando quiser.",
+  "sharing.card.visibility": "Esta prévia é para o seu Workshop. Os links públicos mostram este cartão somente quando a obra está publicada e visível para visitantes. Os links de capítulos usam o cartão da história.",
+  "sharing.card.automatic": "Gerado a partir da capa",
+  "sharing.card.custom": "Seu cartão de compartilhamento personalizado",
+  "sharing.card.preview": "Imagem de prévia do link em redes sociais",
+  "sharing.card.uploadRequirements": "Envie um PNG, JPEG ou WebP de até 5 MB. Use 1200 × 630 pixels; outros tamanhos são cortados para caber.",
+  "sharing.card.reset": "Usar a capa automaticamente",
+  "sharing.card.examples": "Exemplos de prévias de link. Cada plataforma pode cortar as imagens, encurtar o texto ou mostrar uma versão em cache de maneira diferente."
 }

@@ -135,7 +135,7 @@
   "comics.search.noResults": "কোনো মাঙ্গা বা কমিকস পাওয়া যায়নি।",
   "comics.search.status": "প্রকাশনার অবস্থা",
   "comics.settings.universe": "বিশ্ব",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "কাজের সেটিংস",
   "comics.split.author": "লেখক",
   "comics.splitMustTotal": "আয় বণ্টনের মোট 100% হতে হবে।",
   "comics.startReading": "পড়া শুরু করুন",
@@ -196,6 +196,9 @@
   "comics.volumes": "খণ্ড",
   "comics.volumes.empty": "কোনো খণ্ড নির্ধারিত হয়নি।",
   "comics.volumesHelp": "অধ্যায়ের পরিসর খণ্ড হিসাবে বিক্রি করুন। অধ্যায় সংখ্যা অন্তর্ভুক্ত এবং পরিসরগুলো ওভারল্যাপ করা যাবে না।",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "শেষ নির্ধারিত অধ্যায় প্রকাশিত হলে সম্পন্ন হিসেবে চিহ্নিত করুন ({date})",
+  "comics.finish.scheduledNotice": "{format}টি {date} তারিখে, এর শেষ নির্ধারিত অধ্যায় প্রকাশিত হলে, সম্পন্ন হিসেবে চিহ্নিত হবে।",
+  "comics.reader.loading": "কমিক্স",
+  "comics.translation.mode.label": "মোড: {mode}",
+  "comics.pagesCount": "{count, plural, one {#টি পৃষ্ঠা} other {#টি পৃষ্ঠা}}"
 }

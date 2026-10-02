@@ -4,429 +4,413 @@
     "previous": "이전 게시물",
     "skip": "둘러보기 건너뛰기",
     "close": "둘러보기 닫기",
-    "end": "End Tour",
+    "end": "둘러보기 종료",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "화살표 키로 이동, ESC로 닫기",
+    "start": "둘러보기 시작"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "대시보드에 오신 것을 환영합니다",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Literary Universe에 오신 것을 환영합니다",
+      "content": "글쓰기 여정을 시작하실 수 있도록 대시보드를 간단히 둘러보겠습니다."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "주 탐색 메뉴",
+      "content": "이것이 주 탐색 메뉴입니다. 항목을 하나씩 살펴보겠습니다."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "활동 소식을 확인하고 작업장, 도서관, 소셜 기능으로 이동할 수 있는 나만의 홈페이지입니다."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "다른 사용자가 만든 이야기와 우주를 탐색하세요. 작가들이 들려주는 비하인드 스토리와 깊이 있는 블로그 글도 읽을 수 있습니다. 다음에 읽을 최고의 작품을 찾아보세요!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "기쁨은 나누면 10배가 됩니다! 마음이 맞는 사람들의 그룹을 찾고, Discord에 참여하고, Literary Universe에 누가 있는지 알아보세요!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "스크래치패드는 아이디어, 메모, 생각을 언제든 적어 둘 수 있는 나만의 노트입니다."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "댓글, 팔로우 및 기타 커뮤니티 활동 소식을 확인하세요."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "다른 작가, 베타 리더와 소통하고 프로젝트를 함께 진행하세요."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "개인 정보, 환경 설정, 계정 설정을 관리하세요."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "이야기와 우주를 쓰고, 편집하고, 관리하는 창작 공간입니다."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "내 도서관",
+        "content": "저장한 이야기, 읽기 목록, 다운로드한 콘텐츠를 한곳에서 이용하세요."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "빠른 이동 메뉴",
+      "content": "이 사이드바에서 중요한 기능과 도구로 빠르게 이동할 수 있습니다."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "작가에게 작업장은 마법이 일어나는 곳입니다! 새 이야기를 시작하거나, 쓰던 이야기를 이어 가거나, 우주를 넓혀 보세요. 독자들이 기다리고 있습니다!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "독자에게 탐색은 멋진 이야기로 들어가는 문입니다! 새로운 장르를 살펴보고, 좋아하는 작가를 팔로우하고, 읽기 목록을 만들어 보세요. 즐거운 독서 되세요!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "처음이신가요? 대시보드를 간단히 둘러보세요!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "작업장에 오신 것을 환영합니다",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Literary Universe 작업장에 오신 것을 환영합니다",
+      "content": "작업장은 Literary Universe에서 펼치는 창작 여정의 중심입니다. 여기에서 이야기와 우주를 만들고, 관리하고, 함께 작업할 수 있습니다."
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "저자의 길",
+      "content": "\"저자의 길\"로 작가로서의 성장을 기록하세요. 글쓰기 목표를 달성하고 커뮤니티에 참여하면서 레벨을 올리는 게임 방식의 시스템입니다. 작동 방식을 자세히 알아보려면 여기를 클릭하세요."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "새로운 것을 시작하기",
+      "content": "\"만들기 시작\"은 무엇을 만들고 싶은지 묻습니다. 세계를 공유하는 이야기들을 위한 우주, 독립된 이야기, 팬 소설, 만화 중에서 고를 수 있습니다. 처음에 정해야 할 것들을 차례로 안내하고, 마지막에는 초안이 만들어집니다. 직접 게시하기 전까지는 아무것도 공개되지 않습니다."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "내 모든 프로젝트",
+      "content": "소유하거나 참여 중인 모든 우주, 이야기, 만화, 오디오북이 여기에 나열됩니다. 오른쪽 버튼으로 표지 보기와 간단한 목록 보기를 전환할 수 있습니다. 공동 작업, 번역, 베타 리딩 초대는 수락하거나 거절할 수 있는 요청으로 목록 위에 표시됩니다."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "필요한 프로젝트 찾기",
+      "content": "\"접근\"은 목록을 소유한 프로젝트, 팀으로 참여하는 프로젝트, 번역, 베타 리더로서 검토하는 이야기로 좁혀 줍니다. \"형식\"과 \"상태\"로 더 좁힐 수 있고, \"정렬\"은 가장 최근에 업데이트된 프로젝트를 맨 위에 보여 줍니다."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "여정을 이어 가세요",
+      "content": "\"저자의 길\"의 진행 상황을 확인하러 이곳에 다시 들러 주세요. 계속 쓰고, 협업하고, 커뮤니티에 참여하며 레벨을 올려 보세요! 자, 이제 글을 써 봅시다!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "나만의 도서관",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "이어서 읽기",
+      "content": "나만의 도서관에 오신 것을 환영합니다! 여기에서는 읽기 진행 상황을 기록하려고 추가한 이야기와 우주를 볼 수 있습니다. \"이어서 읽기\"에는 가장 최근에 본 콘텐츠가 표시되어 읽던 곳에서 쉽게 다시 시작할 수 있습니다."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "도서관 전체",
+      "content": "이 탭에는 도서관에 있는 모든 것이 표시됩니다. 옆의 탭으로 이야기, 구매 항목, 오디오북, 만화·코믹스, 우주로 좁혀 볼 수 있습니다. 이야기나 우주를 도서관에 추가하면 새 소식을 받고 읽던 위치를 유지할 수 있습니다."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "내 이야기",
+      "content": "도서관에 추가한 모든 이야기가 여기에 정리됩니다. 읽기 진행 상황을 기록하고, 새 챕터 알림을 받고, 좋아하는 이야기에서 읽던 곳을 잃어버리지 마세요."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "내 우주",
+      "content": "도서관에 추가한 우주가 여기에 표시됩니다. 이 우주의 새 이야기 소식을 받고, 백과사전을 탐색하고, 커뮤니티 기능에 참여하세요."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "읽기 목록",
+      "content": "여기에서 나만의 읽기 목록을 만들고 관리하세요. 주제, 시리즈 또는 원하는 기준으로 이야기를 정리할 수 있습니다. 목록은 다른 사람과 공유하거나 비공개로 둘 수 있습니다."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "개인 메모",
+      "content": "플랫폼 구독이 있으면 모든 이야기, 우주, 백과사전 항목에 개인 메모를 추가할 수 있습니다. Literary Universe를 읽고 탐색하면서 떠오른 생각, 추측, 깨달음을 기록해 두세요."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "나만의 도서관을 만들 준비가 되셨나요?",
+      "content": "탐색에서 이야기와 우주를 도서관에 추가해 보세요. 읽기 진행 상황을 기록하고, 읽기 목록을 만들고, 개인 메모로 경험을 더 풍부하게 만드세요. 문학 여정이 여러분을 기다립니다!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "우주 작업장",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "우주 작업장에 오신 것을 환영합니다!",
+      "content": "첫 우주를 만드신 것을 축하합니다! 이곳은 문학 세계를 만들고 관리하는 지휘 본부입니다. 우주에 생명을 불어넣을 강력한 도구들을 함께 살펴보겠습니다."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "이야기 관리",
+      "content": "여기에서 우주 안의 모든 이야기를 관리합니다. 새 이야기를 만들고, 기존 이야기를 편집하고, 서로 연결된 여러 이야기에 걸쳐 서사를 구성하세요. 모든 이야기는 우주가 공유하는 백과사전과 커뮤니티 기능을 활용할 수 있습니다."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "백과사전 만들기",
+      "content": "우주의 백과사전, 즉 세계에 생명을 불어넣는 지식 창고를 만들고 관리하세요. 등장인물, 장소, 설정 등 독자가 탐색할 수 있는 세부 내용을 추가하세요. 풍부한 백과사전은 우주에 더 깊이 몰입하게 하고 독자가 이야기의 맥락을 이해하도록 돕습니다."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "우주 페이지",
+      "content": "이것은 우주의 공개 페이지입니다. 방문자는 여기에서 세계를 알아보고, 이야기를 읽고, 백과사전을 탐색하고, 커뮤니티와 교류할 수 있습니다. 이 페이지를 꾸며 우주를 소개하고 새 독자를 끌어들이세요."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "번역 관리",
+      "content": "우주 콘텐츠를 다른 언어로 번역하는 작업을 조율하세요. 번역자를 관리하고, 진행 상황을 확인하고, 이야기가 전 세계 독자에게 닿도록 하세요. 번역은 세계 곳곳의 독자와 이어지는 데 도움이 됩니다."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "팬 매니저",
+      "content": "팬과의 교류와 우주에서 영감을 받은 창작물을 관리하세요. 팬 소설, 아트 및 기타 커뮤니티 콘텐츠를 파악할 수 있습니다. 팬과 소통하며 세계를 중심으로 활기찬 커뮤니티를 만들어 보세요."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "성과 확인",
+      "content": "상세한 분석으로 우주의 성과를 살펴보세요. 독자 참여도, 인기 있는 이야기, 백과사전 조회수 등 독자의 마음을 움직이는 것이 무엇인지 알려 주는 지표를 볼 수 있습니다."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "내부 기획 포럼",
+      "content": "공동 참여자, 번역자와 함께 계획하고 조율하기 위한 우주의 내부 포럼입니다. 스토리 아크와 세계관 세부 사항을 논의하고 창작 작업을 조율하세요. 이 비공개 공간은 팀이 효과적으로 함께 일하도록 돕습니다."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "공동 참여자 관리",
+      "content": "작가, 아티스트 및 다른 창작자를 우주의 공동 작업에 초대하세요. 역할과 권한을 지정하고, 접근 수준을 관리하고, 세계를 함께 발전시킬 팀을 꾸리세요."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "수익 설정",
+      "content": "우주와 그 콘텐츠로 수익을 창출하는 방식을 설정하세요. 프리미엄 접근을 구성하고, 구독을 관리하고, 공동 참여자와의 수익 분배를 정하세요. 창작 활동을 지속 가능한 수입원으로 만들 수 있습니다."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "해결 센터",
+      "content": "우주에서 생길 수 있는 분쟁, 콘텐츠 위반 및 기타 문제를 처리하세요. 이 통합 시스템은 건강한 커뮤니티를 유지하고 갈등을 효율적으로 해결하도록 돕습니다."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "우주 설정",
+      "content": "공개 범위, 접근 제어, 카테고리 등 우주의 핵심 설정을 구성하세요. 이 설정에 따라 우주가 어떻게 운영되고 누가 참여할 수 있는지가 정해집니다."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "포럼 구성",
+      "content": "우주 포럼 설정을 세밀하게 조정하세요. 카테고리를 만들고, 운영 규칙을 정하고, 권한을 구성하여 커뮤니티에 가장 잘 맞는 토론 공간으로 꾸미세요."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "나만의 우주를 만들 준비가 되셨나요?",
+      "content": "이제 풍부하고 매력적인 우주를 만드는 데 필요한 모든 도구를 갖추었습니다. 먼저 이야기를 추가하고, 백과사전을 채우고, 공동 참여자를 초대해 보세요. 여러분의 문학 세계가 창조를 기다립니다!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "이야기 대시보드",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "이야기 대시보드에 오신 것을 환영합니다!",
+      "content": "이곳은 이야기의 모든 면을 관리하는 지휘 본부입니다. 챕터를 쓰고, 이야기 구조를 정리하고, 다른 사람과 협업하고, 진행 상황을 확인할 수 있습니다. 주요 기능을 살펴보겠습니다."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "새 챕터 추가하기",
+      "content": "여기에서 이야기에 새 챕터를 추가합니다. \"새로운 챕터\" 버튼을 클릭하면 새 챕터가 만들어집니다. 챕터는 자동으로 올바른 순서로 정리됩니다. 챕터 목록 맨 아래에서도 챕터를 추가할 수 있습니다."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "진행 상황 확인",
+      "content": "상세한 통계로 글쓰기 진행 상황과 독자 참여도를 살펴보세요. 독자 수와 챕터 조회수를 확인하고, 시간에 따른 이야기의 성과를 분석할 수 있습니다."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "공동 참여자 관리",
+      "content": "다른 작가를 이야기의 공동 작업에 초대하세요. 역할과 권한을 지정하고, 글쓰기 작업을 조율하고, 창작 팀을 관리할 수 있습니다. 공동 집필 프로젝트에 안성맞춤입니다."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "번역 관리",
+      "content": "이야기를 다른 언어로 번역하는 작업을 조율하세요. 번역자를 관리하고, 번역 진행 상황을 확인하고, 전 세계 독자가 이야기를 읽을 수 있게 하세요."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "수익 설정",
+      "content": "이야기로 수익을 창출하는 방식을 설정하세요. 프리미엄 챕터를 구성하고, 구독 옵션을 관리하고, 공동 참여자와의 수익 분배를 정하세요. 글쓰기를 수입으로 바꿀 수 있습니다."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "이야기 설정",
+      "content": "공개 범위, 게시 옵션, 카테고리 등 이야기의 핵심 설정을 구성하세요. 이 설정에 따라 이야기가 어떻게 보이고 작동하는지가 정해집니다."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "개요 참고사항",
+      "content": "이야기의 전체 구조, 줄거리의 핵심, 인물의 변화 과정, 중요한 메모를 기록해 두세요. 서사를 정리하기 위한 나만의 기획 공간입니다."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "개인 글쓰기 도전",
+      "content": "도전으로 개인 글쓰기 목표를 세우고 진행 상황을 기록하세요. 하루 또는 주간 단어 수 목표를 만들고, 챕터 마감일을 정하고, 꾸준한 글쓰기 습관을 유지하도록 스스로를 북돋우세요. 글쓰기 일정을 지키기 위한 나만의 비공개 도구입니다."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "스토리라인 관리",
+      "content": "이야기를 여러 줄거리와 흐름으로 정리하세요. 인물의 변화 과정, 서브플롯, 서사 요소를 추적할 수 있습니다. 여러 요소가 얽힌 복잡한 이야기에 안성맞춤입니다."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "장면 관리자",
+      "content": "챕터 안의 개별 장면을 정리하고 관리하세요. 장면 진행 상황을 확인하고, 순서를 바꾸고, 서사 구조의 흐름을 유지할 수 있습니다."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "법률 문서",
+      "content": "저작권 정보, 출판 계약, 권리 관리 등 이야기와 관련된 중요한 법률 문서를 확인하세요. 법적 사항을 잘 정리해 두세요."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "공개 버전",
+      "content": "공개 사이트에서 독자에게 보이는 그대로 이야기를 확인하세요. 독자에게 공유하기 전에 서식을 점검하고, 링크를 시험하고, 모든 것이 완벽한지 확인하세요."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "이야기 공유하기",
+      "content": "주요 플랫폼에 맞게 미리 준비된 문구와 링크로 이야기를 소셜 미디어에 공유하세요. 작품을 소개하는 바로 쓸 수 있는 콘텐츠로 여러 소셜 네트워크의 새 독자에게 다가갈 수 있습니다."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "해결 센터",
+      "content": "이야기와 관련된 법적 분쟁, 서비스 약관 위반 및 기타 문제를 처리하세요. 이 통합 센터에는 신고된 모든 문제가 나열되며, 갈등을 해결하고 건강한 커뮤니티 환경을 유지하는 도구가 마련되어 있습니다."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "이야기 상태 관리",
+      "content": "이 중요한 옵션으로 이야기의 게시 상태를 관리하세요. \"활성\"은 이야기가 정기적으로 업데이트되고 있다는 뜻입니다. \"휴지 상태\"는 잠시 쉬고 있음을 나타냅니다. \"취소됨\"은 집필을 중단했다는 뜻입니다. \"완료됨\"은 이야기가 완결되었음을 표시합니다. 현재 집필 상황에 가장 잘 맞는 상태를 선택하세요. 참고: 이야기는 6개월 동안 진전이 없으면 자동으로 \"휴지 상태\"로 바뀌고, 그 뒤 6개월 더 활동이 없으면 \"취소됨\"으로 바뀝니다."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "글을 쓸 준비가 되셨나요?",
+      "content": "이제 이야기의 모든 면을 관리하는 방법을 알게 되었습니다. 첫 챕터를 추가한 다음 다양한 도구를 살펴보세요. 여러분의 이야기가 창조를 기다립니다!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "이야기 편집기 둘러보기",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "이야기 편집기에 오신 것을 환영합니다!",
+      "content": "이곳은 이야기를 빚어내는 글쓰기 작업 공간입니다. 편집기에는 쓰고, 정리하고, 게시하는 데 도움이 되는 강력한 도구가 있습니다. 주요 기능을 살펴보겠습니다."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "글자 크기 조절",
+      "content": "글을 쓰는 동안 편하게 읽을 수 있도록 글자 크기를 조절하세요. 보통 크기와 큰 크기를 오가며 긴 글쓰기 시간에도 눈의 피로를 줄일 수 있습니다."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "다크 모드 전환",
+      "content": "밝은 테마와 어두운 테마를 전환하세요. 다크 모드는 밤에 글을 쓸 때 눈이 편하고 집중을 유지하는 데 도움이 됩니다."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "접근성 도구",
+      "content": "난독증 친화 글꼴, 문단 강조 등 편안한 사용을 위한 접근성 기능을 이용하세요."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "보조 패널 전환",
+      "content": "보조 패널을 표시하거나 숨깁니다. 보조 패널에는 스크래치패드, 이야기 메모, 백과사전, 댓글, AI Assistant 같은 유용한 도구가 있습니다."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "전체 화면 모드",
+      "content": "전체 화면 모드로 들어가 글쓰기 공간을 최대로 넓히고 방해 요소를 없애세요. 집중해서 글을 쓸 때 안성맞춤입니다."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "작업 저장하기",
+      "content": "초안은 자동으로 저장됩니다. 입력하는 동안 작업이 저장되지만 언제든지 직접 저장할 수도 있습니다."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "게시 옵션",
+      "content": "초안을 마쳤다면 개정을 만들 차례입니다. 개정은 베타 리더용으로도, 공개용으로도 만들 수 있습니다. 게시하기로 결정하면 챕터가 언제 공개될지 직접 정할 수 있습니다."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "챕터 제목",
+      "content": "제목을 클릭하면 이름을 편집할 수 있습니다."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "챕터에 대한 개인적인 메모나 독자에게 전하는 말을 적어 보세요. (여기처럼) 챕터 앞에 독자에게 표시되며, 공지를 하거나 지금까지의 이야기에 대한 생각을 나누기에 좋은 방법입니다."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "이야기 본문",
+      "content": "이야기가 살아나는 주 글쓰기 영역입니다. 다양한 서식 편집 기능을 활용해 여기에 챕터 내용을 쓰세요."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "사이드바 도구 상자",
+      "content": "보조 패널에는 유용한 도구와 정보가 모여 있습니다. 맨 위의 메뉴로 스크래치패드, 백과사전 참고 자료, 댓글, AI Assistant 등 여러 보기를 전환하세요."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "개인 스크래치패드",
+      "content": "나만의 스크래치패드는 아이디어, 메모, 영감을 언제든 적어 둘 수 있습니다. 본문에는 맞지 않지만 나중에 쓸모 있을 생각들을 기록해 두세요."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "이야기 메모",
+      "content": "이야기의 전체 메모와 기획 자료를 확인하세요. 줄거리 개요, 인물의 변화 과정, 세계관 세부 사항 등 정리에 필요한 정보를 관리할 수 있습니다."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "백과사전 이용",
+      "content": "우주의 백과사전을 빠르게 열어 볼 수 있습니다. 글을 쓰면서 등장인물 정보, 장소, 설정 등 세계관 요소를 참고하세요. 이곳의 다른 버튼으로 검색하거나 새 항목을 추가할 수 있습니다."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "챕터 댓글",
+      "content": "베타 리더, 공동 참여자, 다른 독자가 이 챕터에 남긴 댓글을 보고 답하세요. 독자와 소통하며 소중한 피드백을 얻을 수 있습니다."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "게시하기 전에 확인해야 할 중요한 사항이 있습니다. 게시 전 할 일 목록과 그 밖의 소소한 확인 사항이 여기에 숨어 있습니다."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "이야기, 우주, 백과사전에 대해 어시스턴트에게 물어보세요. 일관성을 점검하고, 문장을 교정하고, 무언가를 찾아 줄 수 있습니다. 글에 관한 질문에 답할 뿐 대신 써 주지는 않습니다. 설정에서 추가하는 본인의 API 키로 작동합니다."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "글을 쓸 준비가 되셨나요?",
+      "content": "이제 이야기 편집기의 강력한 기능을 모두 사용할 줄 알게 되었습니다. 챕터를 쓰기 시작하고, 필요할 때마다 도구를 살펴보세요. 도움이 필요하면 도움말이나 \"저자의 길\"을 확인하거나 저희에게 연락해 주세요. 자, 이제 이야기를 써 봅시다!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "이야기 번역기 둘러보기",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "이야기 번역기에 오신 것을 환영합니다!",
+      "content": "간단히 둘러보겠습니다. 이 작업 공간에서는 참고 자료를 곁에 두고 원문을 번역할 수 있습니다."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "왼쪽에는 원문",
+      "content": "왼쪽에는 원본 챕터와 작가의 노트가 표시됩니다. 작업하는 동안 참고용으로 열어 두세요."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "오른쪽에서 번역",
+      "content": "오른쪽에 번역문을 쓰세요. 여기에 저장한 내용이 이 언어의 독자에게 보이는 버전이 됩니다."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "우주 백과사전 이용",
+      "content": "설정이나 용어가 궁금한가요? 사이드바에서 우주 백과사전을 열어 우주를 더 깊이 이해할 수 있습니다."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "백과사전에 오신 것을 환영합니다",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "내 우주의 백과사전",
+      "content": "백과사전에 오신 것을 환영합니다! 여기에서 우주에 관한 모든 지식을 정리하고 팬들과 나눌 수 있습니다."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "콘텐츠 정리하기",
+      "content": "\"카테고리\" 보기와 \"그룹\" 보기를 전환하세요. 카테고리는 항목을 유형별(등장인물, 장소 등)로 정리해 보여 주고, 그룹은 상위 항목 등에서 설정한 사용자 지정 필드 묶음에 따라 항목을 보여 줍니다."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "내 카테고리",
+      "content": "백과사전의 카테고리입니다. 카테고리마다 정보를 정리하기 위한 고유한 템플릿이 있습니다. 카테고리를 클릭하면 펼쳐져 그 안의 항목이 표시됩니다."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "필요한 것 찾기",
+      "content": "검색으로 백과사전의 어떤 항목이든 빠르게 찾으세요. 이름, 내용 또는 태그로 검색해 정보를 바로 찾을 수 있습니다."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "새 항목 만들기",
+      "content": "백과사전에 새 항목을 추가하세요. 카테고리마다 시작을 돕는 양식 템플릿이 있지만 원하는 대로 조정할 수 있습니다."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "백과사전 꾸미기",
+      "content": "백과사전 설정을 꼭 확인하여 사용할 카테고리를 선택하고, 환영 메시지와 그 밖의 세부 사항을 설정하세요."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "이제 기본은 익혔습니다! 작업장으로 돌아가 우주를 계속 만들거나 백과사전에 항목을 추가해 보세요. 즐거운 글쓰기 되세요!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "베타 리더 안내",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "베타 리딩에 오신 것을 환영합니다!",
+      "content": "베타 리더는 작가가 이야기를 다듬는 데 중요한 역할을 합니다. 여러분의 피드백은 문제를 찾아내고, 글을 더 명확하게 하고, 독자가 이야기를 더 즐길 수 있게 돕습니다. 이 안내에서는 베타 리딩 화면을 사용하는 방법과 효과적으로 피드백하는 방법을 알려 드립니다."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "주요 소통 도구",
+      "content": "여기에서 작가에게 댓글을 남깁니다! 여기를 클릭하면 댓글 패널이 열립니다. 챕터 전반에 대한 의견을 남기거나, 특정 구절을 강조하거나, 질문하거나, 개선점을 제안할 수 있습니다. 댓글은 작가와 소통하는 주된 방법입니다."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "댓글 화면",
+      "content": "댓글 패널에서는 다른 베타 리더가 남긴 피드백을 보고 내 의견을 추가할 수 있습니다. 맨 아래의 댓글 상자에 생각을 적어 보세요. 무엇이 좋았고 무엇을 개선할 수 있는지 구체적으로 알려 주세요. 건설적인 피드백이 가장 큰 도움이 됩니다!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "읽기 도구",
+      "content": "이 도구들로 읽기 환경을 원하는 대로 바꾸세요. 글자 크기를 조절하고, 다크 모드를 전환하고, Open Dyslexic 글꼴이나 문단 강조 같은 접근성 기능을 켜서 더 편하게 읽을 수 있습니다."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "피드백을 남길 준비가 되셨나요?",
+      "content": "이제 베타 리딩 화면을 사용하는 방법과 댓글 기능으로 작가와 소통하는 방법을 알게 되었습니다. 먼저 챕터를 읽은 다음 사이드바를 열고 사려 깊은 피드백을 나눠 주세요. 여러분의 의견이 작가가 더 좋은 이야기를 만드는 데 도움이 됩니다!"
     }
   }
 }

@@ -135,7 +135,7 @@
   "comics.search.noResults": "만화나 코믹스를 찾을 수 없습니다.",
   "comics.search.status": "연재 상태",
   "comics.settings.universe": "우주",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "작품 설정",
   "comics.split.author": "저자",
   "comics.splitMustTotal": "수익 배분의 합계는 100%가 되어야 합니다.",
   "comics.startReading": "읽기 시작",
@@ -196,6 +196,9 @@
   "comics.volumes": "볼륨",
   "comics.volumes.empty": "정의된 볼륨이 없습니다.",
   "comics.volumesHelp": "챕터 범위를 볼륨으로 판매하세요. 챕터 번호는 포함되며 범위는 겹치면 안 됩니다.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "마지막 예약 챕터가 공개되면({date}) 완결로 표시",
+  "comics.finish.scheduledNotice": "{format}은(는) 마지막 예약 챕터가 공개되는 {date}에 완결로 표시됩니다.",
+  "comics.reader.loading": "만화",
+  "comics.translation.mode.label": "모드: {mode}",
+  "comics.pagesCount": "{count, plural, other {#쪽}}"
 }

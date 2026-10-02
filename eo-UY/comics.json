@@ -135,7 +135,7 @@
   "comics.search.noResults": "Neniu mangao aŭ komikso trovita.",
   "comics.search.status": "Stato de publikigo",
   "comics.settings.universe": "Universo",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Agordoj de la verko",
   "comics.split.author": "Aŭtoro",
   "comics.splitMustTotal": "Enspeza divido devas sumiĝi al 100%.",
   "comics.startReading": "Komenci legadon",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volumoj",
   "comics.volumes.empty": "Neniuj volumoj difinitaj.",
   "comics.volumesHelp": "Vendu ĉapitrajn intervalojn kiel volumojn. Ĉapitraj numeroj estas inkluzivaj kaj intervaloj ne devas interkovri.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Marki kiel kompletigitan, kiam la lasta planita ĉapitro aperos ({date})",
+  "comics.finish.scheduledNotice": "La {format} estos markita kiel kompletigita je {date}, kiam ĝia lasta planita ĉapitro aperos.",
+  "comics.reader.loading": "Komikso",
+  "comics.translation.mode.label": "Reĝimo: {mode}",
+  "comics.pagesCount": "{count, plural, one {# paĝo} other {# paĝoj}}"
 }

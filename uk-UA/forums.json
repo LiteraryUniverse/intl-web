@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Виберіть категорію...",
   "forums.posts.loadError": "Помилка завантаження дописів",
   "forums.category.orgRoles": "Обмежити ролями організації (жодної = усі учасники)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Редагувати відповідь",
+  "forums.post.delete": "Видалити відповідь",
+  "forums.post.deleteConfirm": "Видалити цю відповідь? Вона більше не відображатиметься в цьому обговоренні.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Цю відповідь видалено.",
+  "forums.post.hidden": "Цю відповідь приховано модерацією."
 }

@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "略過導覽",
+    "close": "關閉導覽",
+    "end": "結束導覽",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "使用方向鍵瀏覽，按 ESC 關閉",
+    "start": "開始導覽"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "歡迎來到您的儀表板",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "歡迎來到 Literary Universe",
+      "content": "讓我們快速導覽您的儀表板，幫助您展開寫作之旅。"
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "主導覽列",
+      "content": "這是您的主導覽選單。讓我們逐一看看每個項目。"
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "您的個人首頁，顯示動態更新，並可前往您的工作坊、書庫與社交功能。"
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "探索其他使用者創作的故事與宇宙。閱讀作者的幕後花絮與深度部落格文章。找到您的下一部愛書！"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "分享的喜悅是十倍的喜悅！尋找志同道合的群組、加入我們的 Discord，看看還有誰在 Literary Universe！"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "草稿紙是您的個人筆記本，隨時可用來記下靈感、筆記與想法。"
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "隨時掌握評論、追蹤與其他社群互動的最新消息。"
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "與其他作家、測試讀者交流，並在專案上合作。"
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "管理您的個人資訊、偏好設定與帳戶設定。"
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "您撰寫、編輯及管理故事與宇宙的創作空間。"
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "您的書庫",
+        "content": "在同一個地方存取所有已儲存的故事、閱讀列表與已下載的內容。"
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "快速存取選單",
+      "content": "這個側邊欄可讓您快速存取重要的功能與工具。"
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "身為作家，工作坊就是魔法發生的地方！開始新故事、繼續寫現有的故事，或擴建您的宇宙。讀者正在等您！"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "身為讀者，「探索」是您通往精彩故事的大門！探索新類型、追蹤喜愛的作者，並建立您的閱讀列表。祝您閱讀愉快！"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "第一次來嗎？快速導覽一下您的儀表板吧！"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "歡迎來到您的工作坊",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "歡迎來到 Literary Universe 工作坊",
+      "content": "工作坊是您在 Literary Universe 創作之旅的核心。您可以在這裡建立、管理故事與宇宙，並與他人合作。"
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "作者之道",
+      "content": "透過「作者之道」追蹤您身為作家的進度。這套遊戲化系統讓您藉由完成寫作里程碑與參與社群來升級。點擊這裡深入瞭解它的運作方式。"
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "開始新的創作",
+      "content": "「開始創作」會詢問您想做什麼：讓多個故事共享同一個世界的宇宙、獨立的故事、粉絲小說，或是漫畫。它會帶您完成最初的幾個決定，最後留給您一份草稿。在您親自發佈之前，不會公開任何內容。"
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "您的所有專案",
+      "content": "您擁有或參與的每個宇宙、故事、漫畫與有聲書都列在這裡。右側的按鈕可在封面檢視與精簡列表之間切換。合作、翻譯或測試閱讀的邀請會以請求的形式顯示在列表上方，您可以接受或拒絕。"
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "找到您需要的專案",
+      "content": "「存取」可將列表縮小為您擁有的專案、您所屬團隊的專案、翻譯，或您以測試讀者身分審閱的故事。「格式」與「狀態」可進一步篩選，「排序」則會把最近更新的專案排在最前面。"
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "繼續您的旅程",
+      "content": "記得回來這裡查看您在「作者之道」上的進度。持續寫作、合作並參與社群來升級！現在，開始寫作吧！"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "您的個人書庫",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "繼續閱讀",
+      "content": "歡迎來到您的個人書庫！您可以在這裡看到為了追蹤閱讀進度而加入的故事與宇宙。「繼續閱讀」區塊會顯示您最近開啟的內容，方便您從上次停下的地方接著讀。"
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "您的完整書庫",
+      "content": "此分頁顯示您書庫中的所有內容。旁邊的分頁可將範圍縮小為故事、購買項目、有聲書、漫畫或宇宙。將故事或宇宙加入書庫，即可收到更新並保留閱讀位置。"
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "您的故事",
+      "content": "您加入書庫的所有故事都整理在這裡。追蹤閱讀進度、接收新章節通知，再也不會在喜愛的故事中迷失位置。"
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "您的宇宙",
+      "content": "您加入書庫的宇宙會顯示在這裡。隨時掌握這些宇宙中的新故事、探索它們的百科全書，並參與社群功能。"
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "閱讀列表",
+      "content": "在這裡建立並管理您的個人閱讀列表。依主題、系列或任何對您有意義的標準整理故事。您可以與他人分享列表，也可以保持私人。"
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "個人筆記",
+      "content": "訂閱平台方案後，您可以為任何故事、宇宙或百科全書條目加上個人筆記。在閱讀與探索 Literary Universe 時，記下您的想法、推論與心得。"
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "準備好打造您的書庫了嗎？",
+      "content": "從「探索」開始將故事與宇宙加入您的書庫。追蹤閱讀進度、建立閱讀列表，並用個人筆記豐富您的體驗。您的文學之旅正等著您！"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "宇宙工作坊",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "歡迎來到您的宇宙工作坊！",
+      "content": "恭喜您建立了第一個宇宙！這裡是您打造與管理文學世界的指揮中心。讓我們一起看看有哪些強大的工具能讓您的宇宙活起來。"
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "管理您的故事",
+      "content": "您可以在這裡管理宇宙中的所有故事。建立新故事、編輯現有故事，並在多個相互關聯的故事之間安排您的敘事。每個故事都能受惠於宇宙共用的百科全書與社群功能。"
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "打造您的百科全書",
+      "content": "建立並管理宇宙的百科全書，也就是讓您的世界活起來的知識庫。加入角色、地點、背景設定與其他可供讀者探索的細節。豐富的百科全書能讓您的宇宙更有沉浸感，並幫助讀者理解故事的脈絡。"
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "您的宇宙頁面",
+      "content": "這是您宇宙的公開頁面，訪客可以在這裡認識您的世界、閱讀您的故事、探索百科全書，並與您的社群互動。自訂此頁面來展示您的宇宙並吸引新讀者。"
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "管理翻譯",
+      "content": "統籌將宇宙內容翻譯成其他語言的工作。管理翻譯者、追蹤進度，確保您的故事能觸及全球讀者。翻譯能幫助您與世界各地的讀者建立連結。"
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "粉絲經理",
+      "content": "管理粉絲互動以及受您的宇宙啟發的創作。追蹤粉絲小說、繪圖與其他社群內容。與粉絲互動，圍繞您的世界建立蓬勃發展的社群。"
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "追蹤您的成果",
+      "content": "透過詳細的分析資料掌握宇宙的表現。查看讀者參與度、熱門故事、百科全書瀏覽次數與其他指標，瞭解哪些內容最能引起讀者共鳴。"
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "內部規劃論壇",
+      "content": "您宇宙的內部論壇，供您與合作者及翻譯者進行規劃與協調。討論篇章、世界觀設定細節，並協調彼此的創作。這個私人空間能幫助您的團隊有效合作。"
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "管理合作者",
+      "content": "邀請作家、畫家與其他創作者一起參與您的宇宙。指派角色與權限、管理存取層級，並組成團隊共同發展您的世界。"
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "收益設定",
+      "content": "設定您如何透過宇宙及其內容獲利。設定付費存取、管理訂閱，並與合作者訂定收益分潤。將您的創作轉化為可持續的收入來源。"
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "爭議處理中心",
+      "content": "處理您的宇宙中可能出現的爭議、內容違規與其他問題。這套集中式系統有助於維持良好的社群氛圍，並有效率地解決衝突。"
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "宇宙設定",
+      "content": "設定宇宙的核心選項，包括隱私、存取控制、分類與其他基本選項。這些設定決定您的宇宙如何運作，以及誰可以與它互動。"
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "論壇設定",
+      "content": "微調您的宇宙論壇設定。建立分類、訂定管理規則、設定權限，並自訂討論空間，以最符合您社群的需求。"
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "準備好打造您的宇宙了嗎？",
+      "content": "您現在已擁有打造豐富、引人入勝的宇宙所需的所有工具。先加入幾個故事、充實您的百科全書，並邀請合作者。您的文學世界正等著被創造！"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "故事儀表板",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "歡迎來到您的故事儀表板！",
+      "content": "這裡是您故事的指揮中心，可管理敘事的各個面向。您可以在這裡撰寫章節、安排故事結構、與他人合作，並追蹤進度。讓我們看看主要功能。"
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "新增章節",
+      "content": "您可以在這裡為故事新增章節。點擊「新章節」按鈕即可建立新章節。您的故事會自動依正確順序排列章節。您也可以從章節列表的底部新增章節。"
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "追蹤您的進度",
+      "content": "透過詳細的統計資料掌握您的寫作進度與讀者參與度。查看您有多少讀者、追蹤章節瀏覽次數，並分析故事長期的表現。"
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "管理合作者",
+      "content": "邀請其他作家一起創作您的故事。指派不同的角色與權限、協調寫作分工，並管理您的創作團隊。非常適合團體寫作專案。"
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "翻譯管理",
+      "content": "統籌將故事翻譯成其他語言的工作。管理翻譯者、追蹤翻譯進度，讓全球讀者都能閱讀您的故事。"
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "收益設定",
+      "content": "設定您如何透過故事獲利。設定付費章節、管理訂閱選項，並與合作者訂定收益分潤。將您的寫作轉化為收入。"
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "故事設定",
+      "content": "設定故事的核心選項，包括隱私、發佈選項、分類與其他基本偏好設定。這些設定決定您的故事如何呈現與運作。"
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "概述筆記",
+      "content": "記錄故事的整體結構、情節重點、角色弧線與重要筆記。這是您用來整理敘事的個人規劃空間。"
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "個人寫作挑戰",
+      "content": "透過挑戰設定個人寫作目標並追蹤進度。建立每日或每週的字數目標、為章節設定截止日期，激勵自己維持穩定的寫作習慣。這是您專屬的私人工具，幫助您跟上寫作進度。"
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "故事線管理",
+      "content": "將您的故事整理成不同的情節線與支線。追蹤角色弧線、次要情節與敘事元素。非常適合包含多個相互交織元素的複雜故事。"
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "場景管理器",
+      "content": "整理並管理章節中的各個場景。追蹤場景進度、重新排列場景順序，並維持敘事結構的流暢。"
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "法律文件",
+      "content": "存取與您的故事相關的重要法律文件，包括著作權資訊、出版合約與權利管理。讓您的法律事務井然有序。"
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "公開版本",
+      "content": "以讀者在公開網站上看到的樣子檢視您的故事。在與讀者分享之前，檢查格式、測試連結，確保一切完美無誤。"
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "分享您的故事",
+      "content": "利用為熱門平台預先準備好的文字與連結，在社群媒體上分享您的故事。取得可直接使用的內容來展示您的作品，並在不同的社群網路上接觸新讀者。"
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "爭議處理中心",
+      "content": "處理與您的故事相關的任何法律爭議、違反服務條款或其他問題。這個集中式中心會列出所有被檢舉的問題，並提供解決衝突、維持良好社群環境的工具。"
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "故事狀態管理",
+      "content": "透過這些重要選項控制故事的發佈狀態。「活躍」表示您的故事正在定期更新。「暫停中」表示暫時休息。「已取消」表示您已停止寫作。「已完成」表示您的故事已完結。請選擇最符合您目前寫作情況的狀態。注意：故事若 6 個月沒有進展，會自動變更為「暫停中」；若再 6 個月沒有動靜，則會變更為「已取消」。"
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "準備好開始寫作了嗎？",
+      "content": "您現在已瞭解如何管理故事的各個面向。先新增第一個章節，再探索各種可用的工具。您的故事正等著被創造！"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "故事編輯器導覽",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "歡迎來到故事編輯器！",
+      "content": "這是您雕琢故事的寫作工作區。編輯器提供強大的工具，幫助您撰寫、整理並發佈作品。讓我們看看主要功能。"
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "文字大小控制",
+      "content": "調整文字大小，讓您在寫作時閱讀更舒適。可在一般與大型文字之間切換，減輕長時間寫作時的眼睛疲勞。"
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "深色模式切換",
+      "content": "在淺色與深色主題之間切換。深色模式在夜間寫作時對眼睛較為柔和，也有助於保持專注。"
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "無障礙工具",
+      "content": "使用適合閱讀障礙者的字型、段落醒目提示與其他無障礙功能，讓您用得更舒適。"
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "切換側邊面板",
+      "content": "顯示或隱藏側邊面板。側邊面板包含草稿紙、故事筆記、百科全書、評論與 AI Assistant 等實用工具。"
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "全螢幕模式",
+      "content": "進入全螢幕模式，將寫作空間放到最大並排除干擾。非常適合需要專注的寫作時段。"
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "儲存您的作品",
+      "content": "草稿會自動儲存。您的作品會在輸入時儲存，但您也可以隨時手動儲存。"
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "發佈選項",
+      "content": "完成草稿後，就該建立修訂版本了。您可以為測試讀者或大眾建立修訂版本。一旦決定發佈，章節何時上線由您掌控。"
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "章節標題",
+      "content": "點擊標題即可編輯名稱。"
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "寫下關於這個章節的個人註解，或是給讀者的一段話。它會顯示在章節之前（就像這裡一樣），是發佈公告或分享您對目前故事想法的好方法。"
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "故事正文",
+      "content": "這是您的主要寫作區，故事在此成形。運用完整的格式化文字編輯功能，在這裡撰寫章節內容。"
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "側邊欄工具箱",
+      "content": "側邊面板包含實用的工具與資訊。使用頂端的選單在不同檢視之間切換，例如草稿紙、百科全書參考、評論與 AI Assistant。"
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "個人草稿紙",
+      "content": "您的個人草稿紙隨時可用來記下想法、筆記或靈感。把那些放不進正文、但日後可能派上用場的想法記錄下來。"
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "故事筆記",
+      "content": "存取故事的整體筆記與規劃資料。記錄情節大綱、角色弧線、世界觀設定細節與其他整理用的資訊。"
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "百科全書存取",
+      "content": "快速存取您宇宙的百科全書。寫作時可參考角色細節、地點、背景設定與其他世界觀元素。這裡的其他按鈕可讓您搜尋並新增條目。"
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "章節評論",
+      "content": "查看並回覆測試讀者、合作者與其他讀者對此章節的評論。與您的讀者互動，獲得寶貴的回饋。"
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "發佈之前有些重要事項需要檢查。發佈前的待辦清單，以及其他值得留意的小細節都藏在這裡。"
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "向助理詢問關於您的故事、宇宙與百科全書的問題。它可以檢查一致性、校對段落或查找資料。它只回答與您寫作相關的問題，不會替您寫作。它使用您自己的 API 金鑰運作，您可以在設定中新增金鑰。"
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "準備好開始寫作了嗎？",
+      "content": "您現在已瞭解如何使用故事編輯器的所有強大功能。開始撰寫您的章節，需要時再探索各項工具。如果需要協助，請查看我們的說明、「作者之道」，或與我們聯絡。現在，一起來寫故事吧！"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "故事翻譯器導覽",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "歡迎來到故事翻譯器！",
+      "content": "讓我們快速看一下。在這個工作區翻譯原文時，參考資料隨手可得。"
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "原文在左側",
+      "content": "左側顯示原始章節與作者的註解。工作時請將它保持開啟作為參考。"
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "在右側翻譯",
+      "content": "在右側撰寫您的譯文。您在這裡儲存的所有內容，都會成為此語言讀者看到的版本。"
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "宇宙百科全書存取",
+      "content": "需要查閱背景設定或術語嗎？您可以在側邊欄存取宇宙百科全書，更深入瞭解這個宇宙。"
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "歡迎來到百科全書",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "您的宇宙百科全書",
+      "content": "歡迎來到您的百科全書！您可以在這裡整理關於宇宙的所有知識，並與粉絲分享。"
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "整理您的內容",
+      "content": "在「分類」與「群組」檢視之間切換。分類會依類型（角色、地點等）整理條目，而群組則讓您依上層條目等所設定的自訂欄位分組來檢視條目。"
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "您的分類",
+      "content": "這些是您的百科全書分類。每個分類都有自己的範本來整理資訊。點擊任一分類即可展開並查看其中的條目。"
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "找到您需要的內容",
+      "content": "使用搜尋功能快速找到百科全書中的任何條目。依名稱、內容或標籤搜尋，立即找到所需資訊。"
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "建立新條目",
+      "content": "為您的百科全書新增條目。每個分類都有自己的表單範本幫助您起步，但您可以隨意調整。"
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "自訂您的百科全書",
+      "content": "請務必查看百科全書設定，選擇要使用的分類、設定歡迎訊息，以及其他百科全書細節。"
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "現在您已掌握基本功能！回到工作坊繼續打造您的宇宙，或開始為百科全書新增條目。祝您寫作愉快！"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "測試讀者指南",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "歡迎參與測試閱讀！",
+      "content": "身為測試讀者，您在協助作者改進故事方面扮演關鍵角色。您的回饋有助於找出問題、提升清晰度，讓故事更受讀者喜愛。本指南將說明如何使用測試閱讀介面並提供有效的回饋。"
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "您的主要溝通工具",
+      "content": "您可以在這裡留言給作者！點擊這裡開啟評論面板。您可以針對整個章節提供回饋、標示特定段落、提出問題或建議改進之處。評論是您與作者溝通的主要方式。"
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "評論介面",
+      "content": "在評論面板中，您可以看到其他測試讀者已留下的回饋，並加入自己的意見。使用底部的評論框分享您的想法。請具體說明哪些地方寫得好、哪些地方可以改進，有建設性的回饋最有幫助！"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "閱讀工具",
+      "content": "使用這些工具自訂您的閱讀體驗。您可以調整文字大小、切換深色模式，並啟用 Open Dyslexic 字型或段落醒目提示等無障礙功能，讓閱讀更舒適。"
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "準備好提供回饋了嗎？",
+      "content": "現在您已瞭解如何使用測試閱讀介面，以及如何透過評論功能與作者溝通。先閱讀章節，再開啟側邊欄分享您用心的回饋。您的意見能幫助作者創作出更好的故事！"
     }
   }
 }

@@ -300,5 +300,9 @@
   "org.setup.closed": "ई अप्रयुक्त सेटअप बन्न कऽ देल गेल अछि आ संगठनक पता मुक्त कऽ देल गेल अछि। अहाँक रिकॉर्ड एतय राखल अछि।",
   "org.setup.restart": "नव संगठन सेटअप शुरू करू",
   "org.setup.expiryNotice": "अप्रयुक्त संगठनक पता 30 दिनक बाद मुक्त कऽ देल जाइत अछि। अहाँ एखनहुँ ई सेटअप रद्द कऽ सकैत छी।",
-  "org.setup.inUse": "एहि सेटअपमे बिलिंग वा पेआउट गतिविधि अछि। कोनो खुजल चेकआउटक समय-सीमा समाप्त होएबा धरि प्रतीक्षा करू, वा एकरा बन्न करबासँ पहिने सहायतासँ सम्पर्क करू।"
+  "org.setup.inUse": "एहि सेटअपमे बिलिंग वा पेआउट गतिविधि अछि। कोनो खुजल चेकआउटक समय-सीमा समाप्त होएबा धरि प्रतीक्षा करू, वा एकरा बन्न करबासँ पहिने सहायतासँ सम्पर्क करू।",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

@@ -70,12 +70,12 @@
   "forums.settings.systemPosts.blogs.enable": "สร้างกระทู้ในฟอรั่มโดยอัตโนมัติสำหรับโพสต์บล็อกใหม่",
   "forums.settings.systemPosts.blogs.category": "โพสต์ไปยังหมวดหมู่:",
   "forums.settings.systemPosts.blogs.selectCategory": "เลือกหมวดหมู่...",
-  "forums.posts.loadError": "Error loading posts",
+  "forums.posts.loadError": "เกิดข้อผิดพลาดในการโหลดโพสต์",
   "forums.category.orgRoles": "จำกัดเฉพาะบทบาทในองค์กร (ไม่เลือก = สมาชิกทุกคน)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "แก้ไขคำตอบ",
+  "forums.post.delete": "ลบคำตอบ",
+  "forums.post.deleteConfirm": "ลบคำตอบนี้หรือไม่? คำตอบจะไม่ปรากฏในการสนทนานี้อีกต่อไป",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "คำตอบนี้ถูกลบแล้ว",
+  "forums.post.hidden": "คำตอบนี้ถูกซ่อนโดยการกลั่นกรอง"
 }

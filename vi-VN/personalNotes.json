@@ -19,9 +19,9 @@
   "personalNotes.type.encEntry": "Mục bách khoa toàn thư",
   "personalNotes.type.revTextBlock": "Mục block văn bản được sửa",
   "personalNotes.recentSearches": "Tìm kiếm gần đây:",
-  "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
+  "personalNotes.myNotes": "Ghi chú cá nhân của tôi",
+  "personalNotes.hasNotes": "Có ghi chú cá nhân",
+  "personalNotes.recentSearched": "Tìm kiếm gần đây:",
+  "personalNotes.search.noFound": "Không tìm thấy mục nào",
   "personalNotes.type": "Type"
 }

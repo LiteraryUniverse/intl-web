@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Válasszon ki egy kategóriát...",
   "forums.posts.loadError": "Hiba a bejegyzések betöltésekor",
   "forums.category.orgRoles": "Korlátozás szervezeti szerepkörökre (egy sem = minden tag)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Válasz szerkesztése",
+  "forums.post.delete": "Válasz törlése",
+  "forums.post.deleteConfirm": "Törlöd ezt a választ? Többé nem jelenik meg ebben a beszélgetésben.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Ezt a választ törölték.",
+  "forums.post.hidden": "Ezt a választ a moderátorok elrejtették."
 }

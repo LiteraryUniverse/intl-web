@@ -1,5 +1,5 @@
 {
-  "genre.scifi": "Science Fiction",
+  "genre.scifi": "Science fiction",
   "genre.fantasy": "Fantasy",
   "genre.adventure": "Adventure",
   "genre.poetry": "Poetry",
@@ -11,7 +11,7 @@
   "genre.satire": "Satire",
   "genre.tragedy": "Tragedy",
   "genre.crime": "Krim",
-  "genre.historical": "Historical fiction",
+  "genre.historical": "Historisk fiksjon",
   "genre.horror": "Horror",
   "genre.mystery": "Mystery",
   "genre.thriller": "Thriller",
@@ -20,7 +20,7 @@
   "genre.biography": "Biography",
   "genre.steampunk": "Steampunk",
   "genre.mythology": "Mythology",
-  "genre.fairytale": "Fairy tale",
+  "genre.fairytale": "Eventyr",
   "genre.superhero": "Superhero",
   "genre.children": "Barn",
   "genre.postapocalyptic": "Post-apokalyptisk",
@@ -55,5 +55,5 @@
   "genre.political.description": "Dokumenter som fokuserer på politiske saker, samfunnsmessige saker eller for eksempel kunstneriske manifest.",
   "genre.history.description": "Historiske dokumenter og andre litterære materialer av historisk betydning eller som beskriver historiske hendelser.",
   "genre.isekai.description": "Dette undergenren av japanske lette romaner, manga og anime handler om en karakter som blir transportert eller gjenfødt til en annen verden eller alternativt univers. Protagonisten må navigere og tilpasse seg den nye verdens unike kulturer og miljøer, ofte ved å få nye evner og møte nye allierte og fiender underveis. Disse historiene kan variere fra lystige og komiske til mørke og intense, men tilbyr alltid en frisk og fantasifull tolkning av klassiske eventyrtemaer.",
-  "genres.meta.description": "Explore stories across all genres on Literary Universe. Find your next favorite story in fantasy, sci-fi, romance, mystery, and more."
+  "genres.meta.description": "Utforsk historier i alle sjangre på Literary Universe. Finn din neste favoritthistorie innen fantasy, sci-fi, romantikk, mysterier og mer."
 }

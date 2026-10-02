@@ -121,6 +121,9 @@
   "common.justNow": "Just now",
   "common.label": "Label",
   "common.lang.select": "భాషను ఎంచుకోండి",
+  "common.lang.change": "భాషను మార్చండి",
+  "common.lang.readingLanguagePitch": "ఇంటర్‌ఫేస్ భాష కాకుండా వేరే భాషలో కథలు కావాలా? మీ పఠన భాషను సెట్ చేసుకోవడానికి ఉచిత ఖాతాను సృష్టించండి.",
+  "common.lang.createAccount": "ఉచిత ఖాతాను సృష్టించండి",
   "common.language": "భాష",
   "common.legal.community": "సముదాయ మార్గదర్శికలు",
   "common.legal.cookies": "About cookies",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "ఏదో పొరపాటు జరిగింది. దయచేసి మళ్లీ ప్రయత్నించండి.",
+  "common.savedOffline": "ఆఫ్‌లైన్‌లో సేవ్ అయింది. మీరు మళ్లీ కనెక్ట్ అయినప్పుడు సింక్ అవుతుంది.",
+  "common.synced": "అన్ని మార్పులు సింక్ అయ్యాయి.",
+  "common.autoSaveDeferred": "ప్రస్తుతం సేవ్ చేయడం కుదరలేదు. మీ మార్పులు ఈ పరికరంలో భద్రంగా ఉన్నాయి, తర్వాత సింక్ అవుతాయి."
 }

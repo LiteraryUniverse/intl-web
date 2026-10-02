@@ -71,6 +71,7 @@
   "settings.country.title": "तपाईंको देश",
   "settings.country.usage": "हामी कानूनी रूपमा तपाईंको देशको बारेमा पूछ्छ गर्नुपर्छ गर्नुपर्छ ताकि सरकारी जांचमा प्रतिक्रिया दिन सकौं। हामी यस डेटा लाई प्लेटफ़ॉर्म विश्लेषण र गृहीत विश्लेषण में उपयोग गर्छौं जब आप किसी लेखक की कहानियाँ पढ़ते हैं। यदि तपाईं चाहानुहुन्छ भने तपाईंले यस जानकारीलाई आफ्नो प्रोफाइलमा देखाउन सक्नुहुन्छ।",
   "settings.country.public": "तपाईंको देशलाई सार्वजनिक रूपमा देखाउनुहोस्",
+  "settings.country.currency": "Preferred currency",
   "settings.country.select": "तपाईंको देश छान्नुहोस्",
   "settings.emailSubscriptions.newsletterTech": "हाम्रा डेभलपरहरूबाट अनौठो समाचार पत्रिका",
   "settings.emailSubscriptions.newsletterFeatures": "नयाँ सुविधाहरूको बारेमा जानकारी",

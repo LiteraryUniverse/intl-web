@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "配音員",
   "audiobook.team.you": "您",
   "audiobook.whereToListen": "收聽管道",
+  "audiobook.team.members": "團隊成員",
+  "audiobook.team.noMembers": "尚無團隊成員。",
   "audiobook.orgFeatureDisabled": "此組織未啟用有聲書。"
 }

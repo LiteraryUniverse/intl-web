@@ -96,5 +96,6 @@
 	"signup.complete.description": "感謝您填寫您的個人資料。我們已根據您的喜好，為您量身打造您的體驗。",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "註冊精靈",
-	"signup.userType.artist.description": "我創作漫畫或插畫"
+	"signup.userType.artist.description": "我創作漫畫或插畫",
+  "signup.password2.label": "確認密碼"
 }

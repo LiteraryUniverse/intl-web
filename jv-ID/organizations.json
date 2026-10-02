@@ -300,5 +300,9 @@
   "org.setup.closed": "Setelan sing ora dienggo iki wis ditutup lan alamat organisasiné wis dibebasake. Cathetan panjenengan tetep disimpen ing kéné.",
   "org.setup.restart": "Miwiti setelan organisasi anyar",
   "org.setup.expiryNotice": "Alamat organisasi sing ora dienggo dibebasake sawisé 30 dina. Panjenengan uga bisa mbuang setelan iki saiki.",
-  "org.setup.inUse": "Setelan iki duwé aktivitas tagihan utawa pencairan dana. Enteni nganti checkout sing isih mbukak kedaluwarsa, utawa hubungi dhukungan sadurungé nutup."
+  "org.setup.inUse": "Setelan iki duwé aktivitas tagihan utawa pencairan dana. Enteni nganti checkout sing isih mbukak kedaluwarsa, utawa hubungi dhukungan sadurungé nutup.",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Stemacteurs",
   "audiobook.team.you": "jij",
   "audiobook.whereToListen": "Waar te luisteren",
+  "audiobook.team.members": "Teamleden",
+  "audiobook.team.noMembers": "Nog geen teamleden.",
   "audiobook.orgFeatureDisabled": "Luisterboeken zijn niet ingeschakeld voor deze organisatie."
 }

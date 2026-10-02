@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "นักพากย์",
   "audiobook.team.you": "คุณ",
   "audiobook.whereToListen": "ฟังได้ที่ไหน",
+  "audiobook.team.members": "สมาชิกทีม",
+  "audiobook.team.noMembers": "ยังไม่มีสมาชิกในทีม",
   "audiobook.orgFeatureDisabled": "หนังสือเสียงยังไม่ได้เปิดใช้งานสำหรับองค์กรนี้"
 }

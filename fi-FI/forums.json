@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Valitse luokka...",
   "forums.posts.loadError": "Virhe ladattaessa julkaisuja",
   "forums.category.orgRoles": "Rajaa organisaation rooleihin (ei yhtään = kaikki jäsenet)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Muokkaa vastausta",
+  "forums.post.delete": "Poista vastaus",
+  "forums.post.deleteConfirm": "Poistetaanko tämä vastaus? Se ei enää näy tässä keskustelussa.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Tämä vastaus poistettiin.",
+  "forums.post.hidden": "Moderointi on piilottanut tämän vastauksen."
 }

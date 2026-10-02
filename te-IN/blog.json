@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ఏకవర్ణం",
   "blog.theme.generate.mode.pastel": "పాస్టెల్",
   "blog.theme.generate.nudged": "చదవడానికి అనువుగా సర్దుబాటు చేయబడింది: {tokens}.",
-  "blog.theme.generate.unreadable": "ఆ చిత్రాన్ని చదవలేకపోయాం. డౌన్‌లోడ్ చేసి ఫైల్‌గా ఎంచుకోండి."
+  "blog.theme.generate.unreadable": "ఆ చిత్రాన్ని చదవలేకపోయాం. డౌన్‌లోడ్ చేసి ఫైల్‌గా ఎంచుకోండి.",
+  "blogs.readFullPost": "పూర్తి పోస్ట్ చదవండి"
 }

@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "성우",
   "audiobook.team.you": "나",
   "audiobook.whereToListen": "들을 수 있는 곳",
+  "audiobook.team.members": "팀원",
+  "audiobook.team.noMembers": "아직 팀원이 없습니다.",
   "audiobook.orgFeatureDisabled": "이 조직에서는 오디오북이 활성화되어 있지 않습니다."
 }

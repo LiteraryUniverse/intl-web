@@ -135,7 +135,7 @@
   "comics.search.noResults": "Nessun manga o fumetto trovato.",
   "comics.search.status": "Stato di pubblicazione",
   "comics.settings.universe": "Universo",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Impostazioni dell'opera",
   "comics.split.author": "Autore",
   "comics.splitMustTotal": "La ripartizione dei ricavi deve arrivare al 100%.",
   "comics.startReading": "Inizia a leggere",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volumi",
   "comics.volumes.empty": "Nessun volume definito.",
   "comics.volumesHelp": "Vendi intervalli di capitoli come volumi. I numeri dei capitoli sono inclusi e gli intervalli non devono sovrapporsi.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Segna come completato quando esce l'ultimo capitolo programmato ({date})",
+  "comics.finish.scheduledNotice": "Il {format} sarà segnato come completato il {date}, quando uscirà il suo ultimo capitolo programmato.",
+  "comics.reader.loading": "Fumetto",
+  "comics.translation.mode.label": "Modalità: {mode}",
+  "comics.pagesCount": "{count, plural, one {# pagina} other {# pagine}}"
 }

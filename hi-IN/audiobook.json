@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "वॉइस अभिनेता",
   "audiobook.team.you": "आप",
   "audiobook.whereToListen": "कहाँ सुनें",
+  "audiobook.team.members": "टीम के सदस्य",
+  "audiobook.team.noMembers": "अभी तक टीम में कोई सदस्य नहीं है।",
   "audiobook.orgFeatureDisabled": "इस संगठन के लिए ऑडियोबुक सक्षम नहीं हैं।"
 }

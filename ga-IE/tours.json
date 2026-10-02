@@ -83,33 +83,17 @@
       "title": "Bealach an Údair",
       "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Start Something New",
+      "content": "Start creating asks what you want to make: a universe for stories that share a world, a story that stands on its own, fan fiction, or a comic. It walks you through the first decisions and leaves you with a draft. Nothing is published until you publish it."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "All Your Projects",
+      "content": "Every universe, story, comic and audiobook you own or work on is listed here. The buttons on the right switch between covers and a compact list. Invitations to collaborate, translate or beta read show up above the list as requests you can accept or decline."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Find the Project You Need",
+      "content": "Access narrows the list to projects you own, projects you are on the team for, translations, or stories you review as a beta reader. Format and Status narrow it further, and Sort puts the most recently updated project first."
     },
     "theWayFinish": {
       "title": "Continue Your Journey",
@@ -124,7 +108,7 @@
     },
     "all": {
       "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "content": "This tab shows everything in your library. The tabs beside it narrow it down to stories, purchases, audiobooks, manga and comics, or universes. Add a story or universe to your library to get updates and keep your place."
     },
     "stories": {
       "title": "Your Stories",
@@ -143,7 +127,7 @@
       "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
+      "title": "Ready to Build Your Library?",
       "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
     }
   },
@@ -214,7 +198,7 @@
     },
     "addChapter": {
       "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "content": "This is where you add new chapters to your story. Click the \"New chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
     },
     "statistics": {
       "title": "Track Your Progress",
@@ -348,8 +332,8 @@
       "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "Ask the assistant about your story, universe and encyclopedia. It can check consistency, proofread a passage or look something up. It answers questions about your writing and does not write for you. It runs on your own API key, which you add in your settings."
     },
     "getStarted": {
       "title": "Ready to Start Writing?",

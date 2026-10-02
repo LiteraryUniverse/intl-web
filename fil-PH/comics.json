@@ -135,7 +135,7 @@
   "comics.search.noResults": "Walang nahanap na manga o komiks.",
   "comics.search.status": "Status ng paglalathala",
   "comics.settings.universe": "Uniberso",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Mga setting ng akda",
   "comics.split.author": "May-akda",
   "comics.splitMustTotal": "Ang paghahati ng kita ay dapat umabot sa 100%.",
   "comics.startReading": "Simulan ang pagbabasa",
@@ -196,6 +196,9 @@
   "comics.volumes": "Mga volume",
   "comics.volumes.empty": "Walang tinukoy na volume.",
   "comics.volumesHelp": "Magbenta ng mga saklaw ng kabanata bilang mga volume. Kasama ang mga numero ng kabanata at hindi dapat mag-overlap ang mga saklaw.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Markahan bilang tapos kapag nailabas na ang huling naka-iskedyul na kabanata ({date})",
+  "comics.finish.scheduledNotice": "Mamarkahan bilang tapos ang {format} sa {date}, kapag nailabas na ang huling naka-iskedyul na kabanata nito.",
+  "comics.reader.loading": "Komiks",
+  "comics.translation.mode.label": "Mode: {mode}",
+  "comics.pagesCount": "{count, plural, one {# pahina} other {# na pahina}}"
 }

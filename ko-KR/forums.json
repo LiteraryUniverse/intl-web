@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "카테고리 선택...",
   "forums.posts.loadError": "게시물 로딩 오류",
   "forums.category.orgRoles": "조직 역할로 제한(선택 없음 = 모든 구성원)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "답글 수정",
+  "forums.post.delete": "답글 삭제",
+  "forums.post.deleteConfirm": "이 답글을 삭제하시겠습니까? 이 토론에 더 이상 표시되지 않습니다.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "이 답글은 삭제되었습니다.",
+  "forums.post.hidden": "이 답글은 모더레이션에 의해 숨겨졌습니다."
 }

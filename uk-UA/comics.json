@@ -135,7 +135,7 @@
   "comics.search.noResults": "Манґи чи коміксів не знайдено.",
   "comics.search.status": "Статус публікації",
   "comics.settings.universe": "Всесвіт",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Налаштування твору",
   "comics.split.author": "Автор",
   "comics.splitMustTotal": "Сума розподілу доходу має становити 100%.",
   "comics.startReading": "Почати читання",
@@ -196,6 +196,9 @@
   "comics.volumes": "Томи",
   "comics.volumes.empty": "Томи не визначено.",
   "comics.volumesHelp": "Продавайте діапазони розділів як томи. Номери розділів включно, і діапазони не повинні перетинатися.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Позначити як завершене, щойно вийде останній запланований розділ ({date})",
+  "comics.finish.scheduledNotice": "{format} буде позначено як завершене {date}, коли вийде останній запланований розділ.",
+  "comics.reader.loading": "Комікс",
+  "comics.translation.mode.label": "Режим: {mode}",
+  "comics.pagesCount": "{count, plural, one {# сторінка} few {# сторінки} many {# сторінок} other {# сторінки}}"
 }

@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "Hoppa över rundturen",
+    "close": "Stäng rundturen",
+    "end": "Avsluta rundturen",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "Använd piltangenterna för att navigera, ESC för att stänga",
+    "start": "Starta rundturen"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Välkommen till din kontrollpanel",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Välkommen till Literary Universe",
+      "content": "Vi tar en snabb rundtur i din kontrollpanel så att du kommer igång med din skrivresa."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Huvudnavigering",
+      "content": "Det här är din huvudmeny. Vi går igenom punkterna en i taget."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Din personliga startsida med aktivitetsuppdateringar och åtkomst till din verkstad, ditt bibliotek och de sociala funktionerna."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Utforska berättelser och universum som andra användare har skapat. Läs författarnas blogginlägg, både bakom kulisserna och de djupgående. Hitta din nästa favoritläsning!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Delad glädje är tiodubbel glädje! Hitta grupper med likasinnade, gå med i vår Discord och upptäck vilka fler som finns på Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Skraplatta är din personliga anteckningsbok som alltid finns till hands när du vill skriva ner idéer, anteckningar och tankar."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Håll dig uppdaterad om kommentarer, nya följare och annat som händer i gemenskapen."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Skriv med andra författare och betaläsare och samarbeta kring projekt."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Hantera dina personuppgifter, preferenser och kontoinställningar."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Ditt kreativa rum där du skriver, redigerar och hanterar dina berättelser och universum."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Ditt bibliotek",
+        "content": "Kom åt alla dina sparade berättelser, läsningslistor och nedladdat innehåll på ett ställe."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Snabbmeny",
+      "content": "Sidofältet ger snabb åtkomst till viktiga funktioner och verktyg."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Som författare är det i Verkstad som magin uppstår! Börja på en ny berättelse, skriv vidare på en pågående eller bygg ut ditt universum. Dina läsare väntar!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Som läsare är Upptäck din port till fantastiska berättelser! Utforska nya genrer, följ dina favoritförfattare och bygg dina läsningslistor. Trevlig läsning!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "Ny här? Ta en snabb rundtur i din kontrollpanel!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Välkommen till din verkstad",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Välkommen till verkstaden på Literary Universe",
+      "content": "Din verkstad är hjärtat i din kreativa resa på Literary Universe. Här kan du skapa, hantera och samarbeta kring dina berättelser och universum."
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "Författarens väg",
+      "content": "Följ din utveckling som författare med The Way of the Author. Systemet fungerar som ett spel där du går upp i nivå genom att nå skrivmilstolpar och delta i gemenskapen. Klicka här för att läsa mer om hur det fungerar."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Börja på något nytt",
+      "content": "Börja skapa frågar vad du vill göra: ett universum för berättelser som delar värld, en fristående berättelse, fanfiction eller en serie. Du lotsas genom de första besluten och får ett utkast att arbeta vidare med. Ingenting publiceras förrän du själv publicerar det."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Alla dina projekt",
+      "content": "Alla universum, berättelser, serier och ljudböcker som du äger eller arbetar med finns här. Knapparna till höger växlar mellan omslag och en kompakt lista. Inbjudningar att samarbeta, översätta eller betaläsa visas ovanför listan som förfrågningar som du kan acceptera eller avböja."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Hitta projektet du behöver",
+      "content": "Åtkomst begränsar listan till projekt du äger, projekt där du ingår i teamet, översättningar eller berättelser som du granskar som betaläsare. Format och Status begränsar den ytterligare, och Sortera lägger det senast uppdaterade projektet överst."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Fortsätt din resa",
+      "content": "Kom ihåg att titta in här igen för att se hur långt du har kommit på The Way of the Author. Fortsätt skriva, samarbeta och delta i gemenskapen för att gå upp i nivå! Och nu: dags att börja skriva!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Ditt personliga bibliotek",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Fortsätt läsa",
+      "content": "Välkommen till ditt personliga bibliotek! Här ser du de berättelser och universum som du har lagt till för att hålla koll på hur långt du har läst. Avsnittet Fortsätt läsa visar det du senast öppnade, så att du enkelt kan fortsätta där du slutade."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Hela ditt bibliotek",
+      "content": "Den här fliken visar allt i ditt bibliotek. Flikarna bredvid begränsar det till berättelser, köp, ljudböcker, manga och serier eller universum. Lägg till en berättelse eller ett universum i ditt bibliotek för att få uppdateringar och komma ihåg var du är."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Dina berättelser",
+      "content": "Här finns alla berättelser som du har lagt till i ditt bibliotek. Håll koll på hur långt du har läst, få besked om nya kapitel och tappa aldrig tråden i dina favoritberättelser."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Dina universum",
+      "content": "Universum som du har lagt till i ditt bibliotek visas här. Håll dig uppdaterad om nya berättelser i dem, utforska deras encyklopedier och använd gemenskapsfunktionerna."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Läsningslistor",
+      "content": "Skapa och hantera dina personliga läsningslistor här. Ordna berättelser efter tema, serie eller vad som nu passar dig. Dela dina listor med andra eller håll dem privata."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Personliga anteckningar",
+      "content": "Med en plattformsprenumeration kan du lägga till personliga anteckningar i vilken berättelse, vilket universum och vilken encyklopedipost som helst. Håll ordning på dina tankar, teorier och insikter medan du läser och utforskar Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Redo att bygga ditt bibliotek?",
+      "content": "Börja lägga till berättelser och universum i ditt bibliotek från Upptäck. Håll koll på din läsning, skapa läsningslistor och få ut mer av upplevelsen med personliga anteckningar. Din litterära resa väntar!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Universumverkstad",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Välkommen till din universumverkstad!",
+      "content": "Grattis till ditt första universum! Det här är ledningscentralen där du bygger och sköter din litterära värld. Vi tittar på verktygen som väcker ditt universum till liv."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Hantera dina berättelser",
+      "content": "Här hanterar du alla berättelser i ditt universum. Skapa nya berättelser, redigera befintliga och fördela din berättarvärld över flera sammanlänkade berättelser. Varje berättelse drar nytta av universumets gemensamma encyklopedi och gemenskapsfunktioner."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Bygg din encyklopedi",
+      "content": "Skapa och hantera ditt universums encyklopedi – kunskapsbanken som gör din värld levande. Lägg till karaktärer, platser, bakgrundshistoria och andra detaljer som läsarna kan utforska. En fyllig encyklopedi gör ditt universum mer uppslukande och hjälper läsarna att förstå sammanhanget i dina berättelser."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Ditt universums sida",
+      "content": "Det här är ditt universums offentliga sida där besökare kan lära känna din värld, läsa dina berättelser, utforska encyklopedin och delta i din gemenskap. Anpassa sidan så att den visar upp ditt universum och lockar nya läsare."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Hantera översättningar",
+      "content": "Samordna översättningar av ditt universums innehåll till andra språk. Hantera översättare, följ arbetet och se till att dina berättelser når läsare över hela världen."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Fanhanterare",
+      "content": "Håll ordning på fansens aktivitet och de verk som ditt universum har inspirerat till. Följ fanfiction, konst och annat innehåll från gemenskapen. Prata med dina fans och bygg en levande gemenskap kring din värld."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Följ din framgång",
+      "content": "Följ hur det går för ditt universum med detaljerad statistik. Se läsarnas engagemang, populära berättelser, visningar av encyklopedin och andra mått som visar vad som går hem hos din publik."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Internt planeringsforum",
+      "content": "Ditt universums interna forum för planering och samordning med medarbetare och översättare. Diskutera handlingsbågar och detaljer i världsbygget och samordna ert kreativa arbete. Det privata utrymmet hjälper ditt team att arbeta bra tillsammans."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Hantera medarbetare",
+      "content": "Bjud in författare, konstnärer och andra kreatörer att samarbeta kring ditt universum. Tilldela roller och behörigheter, styr åtkomstnivåer och bygg ett team som utvecklar din värld tillsammans med dig."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Intäktsinställningar",
+      "content": "Ställ in hur du tjänar pengar på ditt universum och dess innehåll. Lägg upp premiumåtkomst, hantera prenumerationer och kom överens om intäktsdelning med medarbetare. Gör ditt kreativa arbete till en hållbar inkomstkälla."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Lösningscenter",
+      "content": "Hantera tvister, överträdelser av innehållsreglerna och andra problem som kan uppstå i ditt universum. Det samlade systemet hjälper till att hålla gemenskapen trivsam och lösa konflikter effektivt."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Universuminställningar",
+      "content": "Ställ in grunderna för ditt universum, bland annat integritet, åtkomstkontroll, kategorier och andra centrala val. Inställningarna avgör hur ditt universum fungerar och vilka som kan interagera med det."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Foruminställningar",
+      "content": "Finjustera inställningarna för ditt universums forum. Skapa kategorier, sätt regler för moderering, ställ in behörigheter och anpassa diskussionsytorna så att de passar din gemenskap."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Redo att bygga ditt universum?",
+      "content": "Nu har du alla verktyg du behöver för att skapa ett rikt och engagerande universum. Börja med att lägga till några berättelser, bygga ut din encyklopedi och bjuda in medarbetare. Din litterära värld väntar på att bli skapad!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Berättelsens kontrollpanel",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Välkommen till din berättelses kontrollpanel!",
+      "content": "Det här är din berättelses ledningscentral där du sköter alla delar av den. Här kan du skriva kapitel, ordna berättelsens struktur, samarbeta med andra och följa dina framsteg. Vi tittar på de viktigaste funktionerna."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Lägg till nya kapitel",
+      "content": "Här lägger du till nya kapitel i din berättelse. Klicka på knappen ”Nytt kapitel” för att skapa ett nytt kapitel. Berättelsen håller automatiskt kapitlen i rätt ordning. Du kan också lägga till kapitel längst ner i kapitellistan."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Följ dina framsteg",
+      "content": "Följ dina skrivframsteg och publikens engagemang med detaljerad statistik. Se hur många läsare du har, följ visningar per kapitel och analysera hur det går för din berättelse över tid."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Hantera medarbetare",
+      "content": "Bjud in andra författare att samarbeta kring din berättelse. Tilldela olika roller och behörigheter, samordna skrivandet och led ditt kreativa team. Perfekt för gemensamma skrivprojekt."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Hantering av översättningar",
+      "content": "Samordna översättningar av din berättelse till andra språk. Hantera översättare, följ översättningsarbetet och gör din berättelse tillgänglig för läsare över hela världen."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Intäktsinställningar",
+      "content": "Ställ in hur du tjänar pengar på din berättelse. Lägg upp premiumkapitel, hantera prenumerationsalternativ och kom överens om intäktsdelning med medarbetare. Gör ditt skrivande till en inkomst."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Berättelseinställningar",
+      "content": "Ställ in grunderna för din berättelse, bland annat integritet, publiceringsalternativ, kategorier och andra centrala val. Inställningarna avgör hur din berättelse ser ut och fungerar."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Översiktliga anteckningar",
+      "content": "Håll ordning på berättelsens övergripande struktur, vändpunkter i handlingen, karaktärernas utveckling och viktiga anteckningar. Det här är din personliga planeringsyta där du organiserar din berättelse."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Personliga skrivutmaningar",
+      "content": "Sätt personliga skrivmål och följ dina framsteg med utmaningar. Skapa dagliga eller veckovisa ordmål, sätt deadlines för kapitel och motivera dig själv att hålla en jämn skrivrytm. Det är ditt privata verktyg för att hålla skrivschemat."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Hantering av handlingar",
+      "content": "Dela upp din berättelse i olika handlingar och trådar. Håll ordning på karaktärernas utveckling, sidohandlingar och berättelsens beståndsdelar. Perfekt för komplexa berättelser med många sammanflätade delar."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Scenhanterare",
+      "content": "Ordna och hantera enskilda scener i dina kapitel. Följ hur långt scenerna har kommit, byt ordning på dem och behåll flytet i berättelsens struktur."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Juridiska dokument",
+      "content": "Kom åt viktiga juridiska dokument som rör din berättelse, bland annat upphovsrättsinformation, utgivningsavtal och rättighetshantering. Håll ordning på det juridiska."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Offentlig version",
+      "content": "Se din berättelse som läsarna ser den på den offentliga sajten. Kontrollera formateringen, testa länkar och se till att allt ser perfekt ut innan du delar den med din publik."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Dela din berättelse",
+      "content": "Dela din berättelse i sociala medier med färdiga texter och länkar för de populära plattformarna. Du får innehåll som är klart att använda, som visar upp ditt verk och hjälper dig att nå nya läsare i olika sociala nätverk."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Lösningscenter",
+      "content": "Hantera juridiska tvister, brott mot användarvillkoren och andra problem som rör din berättelse. Centret samlar alla rapporterade problem och ger dig verktyg för att lösa konflikter och hålla gemenskapen trivsam."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Hantering av berättelsens status",
+      "content": "Styr din berättelses publiceringsstatus med de här viktiga alternativen. ”Aktiv” betyder att berättelsen uppdateras regelbundet. ”Hiatus” visar att du tar en tillfällig paus. ”Avbruten” betyder att du har slutat skriva på den. ”Slutförd” markerar att berättelsen är klar. Välj den status som bäst stämmer med din nuvarande situation. Obs! Berättelser ändras automatiskt till ”Hiatus” efter 6 månader utan utveckling och till ”Avbruten” efter ytterligare 6 månaders inaktivitet."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Redo att börja skriva?",
+      "content": "Nu vet du hur du sköter alla delar av din berättelse. Börja med att lägga till ditt första kapitel och utforska sedan de olika verktygen. Din berättelse väntar på att bli skriven!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Rundtur i berättelseredigeraren",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Välkommen till berättelseredigeraren!",
+      "content": "Det här är din skrivyta där dina berättelser blir till. Redigeraren har kraftfulla verktyg som hjälper dig att skriva, strukturera och publicera ditt arbete. Vi tittar på de viktigaste funktionerna."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Textstorlek",
+      "content": "Justera textstorleken så att den är bekväm att läsa medan du skriver. Växla mellan normal och stor text för att skona ögonen under långa skrivpass."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Mörkt läge",
+      "content": "Växla mellan ljust och mörkt tema. Mörkt läge är skonsammare för ögonen när du skriver på kvällen och hjälper dig att behålla fokus."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Tillgänglighetsverktyg",
+      "content": "Kom åt dyslexivänliga typsnitt, markering av stycken och andra tillgänglighetsfunktioner som gör det bekvämare för dig."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Visa eller dölj sidopanelen",
+      "content": "Visa eller dölj sidopanelen. Panelen innehåller praktiska verktyg som din skraplatta, berättelseanteckningar, encyklopedin, kommentarer och AI-assistenten."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Helskärmsläge",
+      "content": "Gå över till helskärm för att få så stor skrivyta som möjligt och slippa störningar. Perfekt för fokuserade skrivpass."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Spara ditt arbete",
+      "content": "Ditt utkast sparas automatiskt. Ditt arbete sparas medan du skriver, men du kan också spara manuellt när du vill."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Publiceringsalternativ",
+      "content": "När du är klar med ditt utkast är det dags att skapa en revidering. Du kan skapa en revidering för betaläsare eller för allmänheten. När du bestämmer dig för att publicera styr du själv när kapitlet går live."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Kapiteltitel",
+      "content": "Klicka på titeln för att ändra den."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Skriv personliga anteckningar om ditt kapitel eller bara ett meddelande till publiken. Texten visas för läsarna före kapitlet (precis som här) och är ett bra sätt att komma med besked eller dela tankar om berättelsen så här långt."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Berättelsens huvudtext",
+      "content": "Det här är ditt huvudsakliga skrivfält där din berättelse får liv. Skriv kapitlets innehåll här med alla möjligheter till formaterad text."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Verktygslådan i sidopanelen",
+      "content": "Sidopanelen innehåller praktiska verktyg och information. Använd menyn högst upp för att växla mellan vyer som din skraplatta, uppslag i encyklopedin, kommentarer och AI-assistenten."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Personlig skraplatta",
+      "content": "Din personliga skraplatta finns alltid till hands när du vill skriva ner idéer, anteckningar eller inspiration. Spara tankar som inte passar in i själva berättelsen men som kan komma till nytta senare."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Berättelseanteckningar",
+      "content": "Kom åt berättelsens övergripande anteckningar och planeringsmaterial. Håll ordning på synopsis, karaktärernas utveckling, detaljer i världsbygget och annat som håller ihop helheten."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Åtkomst till encyklopedin",
+      "content": "Snabb åtkomst till ditt universums encyklopedi. Slå upp karaktärsdetaljer, platser, bakgrundshistoria och andra delar av världsbygget medan du skriver. Med de andra knapparna här kan du söka och lägga till nya poster."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Kapitelkommentarer",
+      "content": "Se och svara på kommentarer till det här kapitlet från betaläsare, medarbetare och andra läsare. Prata med din publik och få värdefull återkoppling."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Innan du publicerar finns det viktiga saker att kontrollera. Här gömmer sig en att göra-lista inför publiceringen och andra små, intressanta saker att titta på."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI-assistent",
+      "content": "Fråga assistenten om din berättelse, ditt universum och din encyklopedi. Den kan kontrollera att allt hänger ihop, korrekturläsa ett stycke eller slå upp något. Den svarar på frågor om det du skriver och skriver inte åt dig. Den körs med din egen API-nyckel, som du lägger till i dina inställningar."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Redo att börja skriva?",
+      "content": "Nu vet du hur du använder alla kraftfulla funktioner i berättelseredigeraren. Börja skriva ditt kapitel och utforska verktygen allteftersom du behöver dem. Om du behöver hjälp kan du titta i vår hjälp, i The Way of the Author eller höra av dig till oss. Och nu: dags att skriva några berättelser!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Rundtur i berättelseöversättaren",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Välkommen till berättelseöversättaren!",
+      "content": "Vi ser oss snabbt omkring. Använd den här arbetsytan för att översätta originaltexten med referensmaterialet nära till hands."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Originaltexten till vänster",
+      "content": "Vänster sida visar originalkapitlet och författarens anteckningar. Ha den öppen som referens medan du arbetar."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Översätt till höger",
+      "content": "Skriv din översättning till höger. Allt du sparar här blir den version som läsare på det här språket får se."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Åtkomst till universumets encyklopedi",
+      "content": "Behöver du bakgrundskunskap eller terminologi? I sidopanelen hittar du universumets encyklopedi så att du kan förstå universumet bättre."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Välkommen till encyklopedin",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Ditt universums encyklopedi",
+      "content": "Välkommen till din encyklopedi! Här samlar du all kunskap om ditt universum och delar den med dina fans."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Ordna ditt innehåll",
+      "content": "Växla mellan vyerna ”Kategorier” och ”Grupper”. Kategorier visar posterna ordnade efter typ (karaktärer, platser osv.), medan Grupper visar posterna efter de grupperingar i anpassade fält som överordnade poster bestämmer, och så vidare."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Dina kategorier",
+      "content": "Här är din encyklopedis kategorier. Varje kategori har sin egen mall för att ordna informationen. Klicka på en kategori för att fälla ut den och se posterna i den."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Hitta det du behöver",
+      "content": "Använd sökningen för att snabbt hitta en post i din encyklopedi. Sök på namn, innehåll eller taggar och hitta informationen direkt."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Skapa nya poster",
+      "content": "Lägg till nya poster i din encyklopedi. Varje kategori har sin egen formulärmall som hjälper dig igång, men du kan anpassa dem som du vill."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Anpassa din encyklopedi",
+      "content": "Glöm inte att titta på inställningarna för din encyklopedi, där du väljer vilka kategorier du vill använda, skriver ett välkomstmeddelande och anger andra detaljer om encyklopedin."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Nu kan du grunderna! Gå tillbaka till din verkstad för att bygga vidare på ditt universum, eller börja lägga till poster i din encyklopedi. Lycka till med skrivandet!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Guide för betaläsare",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Välkommen till betaläsning!",
+      "content": "Som betaläsare har du en avgörande roll i att hjälpa författare att göra sina berättelser bättre. Din återkoppling fångar upp problem, gör texten tydligare och gör berättelserna roligare att läsa. Den här guiden visar hur du hittar i betaläsningen och ger bra återkoppling."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Ditt viktigaste kommunikationsverktyg",
+      "content": "Här skriver du kommentarer till författaren! Klicka här för att öppna kommentarspanelen. Du kan ge allmän återkoppling på kapitlet, markera särskilda passager, ställa frågor eller föreslå förbättringar. Kommentarerna är din främsta kanal till författaren."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Kommentarspanelen",
+      "content": "I kommentarspanelen kan du se återkoppling från andra betaläsare och lägga till din egen. Använd kommentarsfältet längst ner för att dela dina tankar. Var konkret med vad som fungerar bra och vad som kan bli bättre – konstruktiv återkoppling hjälper mest!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Läsverktyg",
+      "content": "Använd de här verktygen för att anpassa din läsupplevelse. Du kan justera textstorleken, slå på och av mörkt läge och aktivera tillgänglighetsfunktioner som typsnittet Open Dyslexic eller markering av stycken, så att det blir bekvämare att läsa."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Redo att ge återkoppling?",
+      "content": "Nu vet du hur du hittar i betaläsningen och använder kommentarerna för att kommunicera med författarna. Börja med att läsa kapitlet, öppna sedan sidopanelen och dela din genomtänkta återkoppling. Ditt bidrag hjälper författarna att skapa bättre berättelser!"
     }
   }
 }

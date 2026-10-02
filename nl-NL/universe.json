@@ -6,7 +6,7 @@
   "universe.fanarts.for": "{universe} fanarts",
   "universe.fansettings.for": "{universe} faninstellingen",
   "universe.fanfiction.stories": "Verhalen",
-  "universe.fanfiction.fanarts": "Fan Arts",
+  "universe.fanfiction.fanarts": "Fanart",
   "universe.stories.count": "Er {num, plural,\n    =0 {zijn geen verhalen}\n    one {is één verhaal}\n    other {zijn # verhalen}\n    } in dit universum.",
   "universe.authors.title": "Auteurs",
   "universe.authors.desc": "Makers en bijdragers aan {universe}",

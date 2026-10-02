@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Seslendirme sanatçıları",
   "audiobook.team.you": "siz",
   "audiobook.whereToListen": "Nereden dinlenir",
+  "audiobook.team.members": "Ekip üyeleri",
+  "audiobook.team.noMembers": "Henüz ekip üyesi yok.",
   "audiobook.orgFeatureDisabled": "Sesli kitaplar bu kuruluş için etkin değil."
 }

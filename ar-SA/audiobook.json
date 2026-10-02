@@ -113,5 +113,7 @@
   "audiobook.team.inviteMember": "دعوة عضو إلى الفريق",
   "audiobook.team.removeFailed": "تعذّر إزالة عضو الفريق.",
   "audiobook.whereToListen": "أين تستمع",
+  "audiobook.team.members": "أعضاء الفريق",
+  "audiobook.team.noMembers": "لا يوجد أعضاء في الفريق بعد.",
   "audiobook.orgFeatureDisabled": "الكتب الصوتية غير مفعّلة لهذه المنظمة."
 }

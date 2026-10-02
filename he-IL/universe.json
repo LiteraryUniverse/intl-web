@@ -31,8 +31,8 @@
   "universe.createdAt": "נוצר: {date}",
   "universe.authors.none": "אין מידע זמין על המחברים.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "אפשרו תגובות",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "תמונת אמנות מעריצים",
   "universe.stories": "Stories"
 }

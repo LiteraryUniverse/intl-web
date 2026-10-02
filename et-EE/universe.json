@@ -2,7 +2,7 @@
   "universe.authors.title.meta": "{title} autorid",
   "universe.fanfiction.see": "Kogu Fan Fiction {universe}jaoks",
   "universe.fanfiction.desc": "Fan Fiction {universe}jaoks",
-  "universe.fanfiction.for": "{universe} Fan Fiction",
+  "universe.fanfiction.for": "{universe} fännikirjandus",
   "universe.fanarts.for": "{universe} fännikunsti",
   "universe.fansettings.for": "{universe} fänniseaded",
   "universe.fanfiction.stories": "Lood",
@@ -31,8 +31,8 @@
   "universe.createdAt": "Loodud: {date}",
   "universe.authors.none": "Andmed autorite kohta puuduvad.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Luba kommentaarid",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Fännikunsti pilt",
   "universe.stories": "Stories"
 }

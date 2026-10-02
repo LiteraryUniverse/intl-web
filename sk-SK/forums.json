@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Vyberte kategóriu...",
   "forums.posts.loadError": "Chyba pri načítaní príspevkov",
   "forums.category.orgRoles": "Obmedziť na roly v organizácii (žiadna = všetci členovia)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Upraviť odpoveď",
+  "forums.post.delete": "Zmazať odpoveď",
+  "forums.post.deleteConfirm": "Zmazať túto odpoveď? V tejto diskusii sa už nebude zobrazovať.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Táto odpoveď bola zmazaná.",
+  "forums.post.hidden": "Táto odpoveď je skrytá moderáciou."
 }

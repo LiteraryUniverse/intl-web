@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Välj en kategori...",
   "forums.posts.loadError": "Fel vid inläsning av inlägg",
   "forums.category.orgRoles": "Begränsa till organisationsroller (ingen = alla medlemmar)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Redigera svar",
+  "forums.post.delete": "Ta bort svar",
+  "forums.post.deleteConfirm": "Ta bort det här svaret? Det visas inte längre i den här diskussionen.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Det här svaret har tagits bort.",
+  "forums.post.hidden": "Det här svaret har dolts av modereringen."
 }

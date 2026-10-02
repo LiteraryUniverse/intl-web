@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Выберите категорию...",
   "forums.posts.loadError": "Ошибка загрузки сообщений",
   "forums.category.orgRoles": "Ограничить ролями организации (ни одной = все участники)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Редактировать ответ",
+  "forums.post.delete": "Удалить ответ",
+  "forums.post.deleteConfirm": "Удалить этот ответ? Он больше не будет отображаться в этом обсуждении.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Этот ответ был удалён.",
+  "forums.post.hidden": "Этот ответ скрыт модерацией."
 }

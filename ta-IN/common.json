@@ -121,6 +121,9 @@
   "common.justNow": "Just now",
   "common.label": "Label",
   "common.lang.select": "மொழியைத் தேர்ந்தெடு",
+  "common.lang.change": "மொழியை மாற்று",
+  "common.lang.readingLanguagePitch": "இடைமுகத்தின் மொழியிலிருந்து வேறான மொழியில் கதைகள் வேண்டுமா? உங்கள் வாசிப்பு மொழியை அமைக்க இலவசக் கணக்கை உருவாக்குங்கள்.",
+  "common.lang.createAccount": "இலவசக் கணக்கை உருவாக்குங்கள்",
   "common.language": "மொழி",
   "common.legal.community": "சமூக வழிகாட்டுகள்",
   "common.legal.cookies": "About cookies",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "ஏதோ தவறு நடந்துவிட்டது. மீண்டும் முயற்சிக்கவும்.",
+  "common.savedOffline": "ஆஃப்லைனில் சேமிக்கப்பட்டது. நீங்கள் மீண்டும் இணைந்ததும் ஒத்திசைக்கப்படும்.",
+  "common.synced": "எல்லா மாற்றங்களும் ஒத்திசைக்கப்பட்டன.",
+  "common.autoSaveDeferred": "இப்போது சேமிக்க முடியவில்லை. உங்கள் மாற்றங்கள் இந்தச் சாதனத்தில் வைக்கப்பட்டுள்ளன; பின்னர் ஒத்திசைக்கப்படும்."
 }

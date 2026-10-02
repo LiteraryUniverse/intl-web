@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "إخفاء على الشاشات الصغيرة",
   "blog.people": "الأشخاص",
   "blog.people.intro": "امنح شخصًا ما إمكانية الوصول إلى جزء من هذه المدونة دون تسليمه حسابك. كل صلاحية تعمل بمفردها وتنطبق على هذه المدونة فقط.",
   "blog.people.add": "إضافة شخص إلى هذه المدونة",
@@ -347,12 +347,12 @@
   "blog.billing": "الفوترة",
   "blog.billing.intro": "أدر الاشتراك الذي يدفع مقابل هذه المدونة: غيّر الخطة أو حدّث طريقة الدفع أو نزّل الفواتير.",
   "blog.billing.open": "فتح بوابة الدفع",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "إخفاء اسم المدونة",
+  "blog.menus.logoSize": "حجم الشعار",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "العرض الكامل",
   "blog.pages.import": "استيراد قالب التصميم",
   "blog.pages.import.hint": "اختر ملف HTML الخاص بالقالب مع الصور التي يشير إليها. تبقى النصوص والصور قابلة للتحرير بعد الاستيراد.",
   "blog.pages.import.files": "ملف القالب + الصور",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "أحادية اللون",
   "blog.theme.generate.mode.pastel": "باستيل",
   "blog.theme.generate.nudged": "تم التعديل لتحسين القراءة: {tokens}.",
-  "blog.theme.generate.unreadable": "تعذّرت قراءة هذه الصورة. نزّلها ثم اخترها كملف."
+  "blog.theme.generate.unreadable": "تعذّرت قراءة هذه الصورة. نزّلها ثم اخترها كملف.",
+  "blogs.readFullPost": "اقرأ المنشور كاملاً"
 }

@@ -2,7 +2,7 @@
   "universe.authors.title.meta": "{title} συγγραφείς",
   "universe.fanfiction.see": "Όλο το Fan Fiction για το {universe}",
   "universe.fanfiction.desc": "Fan Fiction για {universe}",
-  "universe.fanfiction.for": "{universe} Fan Fiction",
+  "universe.fanfiction.for": "Fan fiction για το {universe}",
   "universe.fanarts.for": "{universe} έργα ανεμίδας",
   "universe.fansettings.for": "{universe} ρυθμίσεις ανεμίδας",
   "universe.fanfiction.stories": "Ιστορίες",
@@ -31,8 +31,8 @@
   "universe.createdAt": "Δημιουργήθηκε: {date}",
   "universe.authors.none": "Δεν υπάρχουν διαθέσιμες πληροφορίες για τους συγγραφείς.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Να επιτρέπονται σχόλια",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Εικόνα fan art",
   "universe.stories": "Stories"
 }

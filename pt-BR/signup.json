@@ -96,5 +96,6 @@
 	"signup.complete.description": "Obrigado por preencher seu perfil. Nós personalizamos sua experiência com base em suas preferências.",
 	"signup.password2.label": "Confirmar senha",
 	"signup.wizard.title": "Assistente de cadastro",
-	"signup.userType.artist.description": "Desenho mangás, quadrinhos ou ilustrações"
+	"signup.userType.artist.description": "Desenho mangás, quadrinhos ou ilustrações",
+  "signup.reader.mediaType.web_novel": "Web novel"
 }

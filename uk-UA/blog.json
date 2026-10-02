@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Приховати на малих екранах",
   "blog.people": "Люди",
   "blog.people.intro": "Надайте комусь доступ до частини цього блогу, не віддаючи свій обліковий запис. Кожен дозвіл діє окремо й стосується лише цього блогу.",
   "blog.people.add": "Додати когось до цього блогу",
@@ -347,12 +347,12 @@
   "blog.billing": "Оплата",
   "blog.billing.intro": "Керуйте підпискою, яка оплачує цей блог: змініть тариф, оновіть спосіб оплати або завантажте рахунки.",
   "blog.billing.open": "Відкрити платіжний портал",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "Приховати назву блогу",
+  "blog.menus.logoSize": "Розмір логотипа",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "На всю ширину",
   "blog.pages.import": "Імпортувати дизайн-шаблон",
   "blog.pages.import.hint": "Виберіть HTML-файл шаблону разом із зображеннями, на які він посилається. Тексти та зображення залишаться редагованими після імпорту.",
   "blog.pages.import.files": "Файл шаблону + зображення",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Монохромна",
   "blog.theme.generate.mode.pastel": "Пастельна",
   "blog.theme.generate.nudged": "Скориговано для читабельності: {tokens}.",
-  "blog.theme.generate.unreadable": "Не вдалося прочитати це зображення. Завантажте його та виберіть як файл."
+  "blog.theme.generate.unreadable": "Не вдалося прочитати це зображення. Завантажте його та виберіть як файл.",
+  "blogs.readFullPost": "Читати допис повністю"
 }

@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "Preskočiť prehliadku",
+    "close": "Zavrieť prehliadku",
+    "end": "Ukončiť prehliadku",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
+    "keyboardHint": "Na pohyb použite klávesy so šípkami, na zavretie ESC",
     "start": "Spustiť prehliadku"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Vitajte vo svojom prehľade",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Vitajte na Literary Universe",
+      "content": "Poďme si v rýchlosti prejsť váš prehľad, aby sa vám na ceste za písaním ľahšie začínalo."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Hlavná navigácia",
+      "content": "Toto je vaša hlavná navigačná ponuka. Prejdime si jednotlivé položky."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Vaša osobná domovská stránka s novinkami o aktivite a prístupom k dielni, knižnici a komunitným funkciám."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Preskúmajte príbehy a vesmíry, ktoré vytvorili ostatní používatelia. Prečítajte si, ako diela vznikali, a podrobné blogové príspevky autorov. Nájdite si svoje ďalšie obľúbené čítanie!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Zdieľaná radosť je desaťnásobná radosť! Nájdite skupiny podobne zmýšľajúcich ľudí, pridajte sa na náš Discord a zistite, kto ďalší je na Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Zápisník je váš osobný poznámkový blok, ktorý máte vždy poruke na nápady, poznámky a myšlienky."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Majte prehľad o komentároch, nových sledovateľoch a ďalšom dianí v komunite."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Komunikujte s ostatnými autormi a beta čitateľmi a spolupracujte na projektoch."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Spravujte svoje osobné údaje, predvoľby a nastavenia účtu."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Váš tvorivý priestor na písanie, úpravy a správu príbehov a vesmírov."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Vaša knižnica",
+        "content": "Všetky uložené príbehy, zoznamy čítania a stiahnutý obsah nájdete na jednom mieste."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Ponuka rýchleho prístupu",
+      "content": "Tento bočný panel poskytuje rýchly prístup k dôležitým funkciám a nástrojom."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Pre vás ako autora je Dielňa miestom, kde sa deje kúzlo! Začnite nový príbeh, pokračujte v rozpísanom alebo budujte svoj vesmír. Vaši čitatelia čakajú!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Pre vás ako čitateľa sú Objavy bránou k úžasným príbehom! Skúmajte nové žánre, sledujte svojich obľúbených autorov a zostavujte si zoznamy čítania. Príjemné čítanie!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
     "takeTour": "Ste tu noví? Absolvujte rýchlu prehliadku svojho prehľadu!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Vitajte vo svojej dielni",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Vitajte v dielni Literary Universe",
+      "content": "Dielňa je srdcom vašej tvorivej cesty na Literary Universe. Tu môžete vytvárať a spravovať svoje príbehy a vesmíry a spolupracovať na nich."
     },
     "theWay": {
       "title": "Cesta autora",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "Sledujte svoj autorský pokrok s Cestou autora. Tento herný systém vám pomáha postupovať na vyššie úrovne plnením autorských míľnikov a zapájaním sa do komunity. Kliknutím sem sa dozviete viac o tom, ako funguje."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Začnite niečo nové",
+      "content": "Tlačidlo „Začnite vytvárať“ sa vás opýta, čo chcete vytvoriť: vesmír pre príbehy zo spoločného sveta, samostatný príbeh, fanúšikovskú fikciu alebo komiks. Prevedie vás prvými rozhodnutiami a na konci budete mať koncept. Nič sa nezverejní, kým to nezverejníte sami."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Všetky vaše projekty",
+      "content": "Tu nájdete každý vesmír, príbeh, komiks aj audioknihu, ktoré vlastníte alebo na ktorých pracujete. Tlačidlami vpravo prepínate medzi obálkami a úsporným zoznamom. Pozvánky na spoluprácu, preklad alebo beta čítanie sa zobrazujú nad zoznamom ako žiadosti, ktoré môžete prijať alebo odmietnuť."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Nájdite projekt, ktorý potrebujete",
+      "content": "Filter Prístup zúži zoznam na projekty, ktoré vlastníte, projekty, v ktorých tíme ste, preklady alebo príbehy, ktoré posudzujete ako beta čitateľ. Formát a Stav ho zúžia ešte viac a Zoradenie umiestni naposledy upravený projekt na začiatok."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Pokračujte vo svojej ceste",
+      "content": "Nezabudnite sa sem vracať a sledovať svoj pokrok na Ceste autora. Píšte, spolupracujte a zapájajte sa do komunity, a budete postupovať na vyššie úrovne! A teraz sa pustime do písania!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Vaša osobná knižnica",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Pokračovať v čítaní",
+      "content": "Vitajte vo svojej osobnej knižnici! Tu vidíte príbehy a vesmíry, ktoré ste si pridali, aby ste mohli sledovať, kam ste dočítali. Sekcia Pokračovať v čítaní ukazuje obsah, ktorý ste otvorili naposledy, takže ľahko nadviažete tam, kde ste skončili."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Celá vaša knižnica",
+      "content": "Táto karta zobrazuje všetko, čo vo svojej knižnici máte. Karty vedľa nej výber zúžia na príbehy, nákupy, audioknihy, mangu a komiksy alebo vesmíry. Pridajte si príbeh alebo vesmír do knižnice, aby ste dostávali novinky a nestratili miesto, kde ste prestali čítať."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Vaše príbehy",
+      "content": "Tu sú usporiadané všetky príbehy, ktoré ste si pridali do knižnice. Sledujte, kam ste dočítali, dostávajte oznámenia o nových kapitolách a už nikdy nestratíte miesto vo svojich obľúbených príbehoch."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Vaše vesmíry",
+      "content": "Tu sa zobrazujú vesmíry, ktoré ste si pridali do knižnice. Majte prehľad o nových príbehoch z týchto vesmírov, skúmajte ich encyklopédie a zapojte sa do diania v komunite."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Zoznamy čítania",
+      "content": "Tu si vytvárate a spravujete vlastné zoznamy čítania. Usporiadajte si príbehy podľa tém, sérií alebo akýchkoľvek kritérií, ktoré vám dávajú zmysel. Zoznamy môžete zdieľať s ostatnými alebo si ich nechať pre seba."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Osobné poznámky",
+      "content": "S predplatným platformy si môžete pridávať osobné poznámky k akémukoľvek príbehu, vesmíru alebo záznamu v encyklopédii. Zapisujte si svoje myšlienky, teórie a postrehy, kým čítate a objavujete Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Ste pripravení budovať svoju knižnicu?",
+      "content": "Začnite si do knižnice pridávať príbehy a vesmíry z Objavov. Sledujte, kam ste dočítali, vytvárajte si zoznamy čítania a obohaťte si čítanie o osobné poznámky. Vaša literárna cesta čaká!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Dielňa vesmíru",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Vitajte v dielni svojho vesmíru!",
+      "content": "Gratulujeme k vytvoreniu vášho prvého vesmíru! Toto je vaše riadiace centrum na budovanie a správu vášho literárneho sveta. Poďme si prejsť všetky nástroje, ktoré vám pomôžu vesmír oživiť."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Spravujte svoje príbehy",
+      "content": "Tu spravujete všetky príbehy vo svojom vesmíre. Vytvárajte nové príbehy, upravujte existujúce a rozvíjajte rozprávanie naprieč viacerými prepojenými príbehmi. Každý príbeh môže ťažiť zo spoločnej encyklopédie vesmíru a z komunitných funkcií."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Budujte svoju encyklopédiu",
+      "content": "Vytvárajte a spravujte encyklopédiu svojho vesmíru, znalostnú základňu, ktorá vášmu svetu vdýchne život. Pridávajte postavy, miesta, reálie a ďalšie podrobnosti, ktoré môžu čitatelia skúmať. Bohatá encyklopédia čitateľov do vášho vesmíru vtiahne a pomôže im pochopiť súvislosti vašich príbehov."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Stránka vášho vesmíru",
+      "content": "Toto je verejná stránka vášho vesmíru, kde sa návštevníci môžu zoznámiť s vaším svetom, čítať vaše príbehy, prechádzať encyklopédiu a zapojiť sa do vašej komunity. Upravte si ju tak, aby váš vesmír dobre predstavila a prilákala nových čitateľov."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Správa prekladov",
+      "content": "Koordinujte preklady obsahu svojho vesmíru do ďalších jazykov. Spravujte prekladateľov, sledujte postup a postarajte sa, aby sa vaše príbehy dostali k čitateľom na celom svete."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Manažér fanúšikovskej tvorby",
+      "content": "Spravujte tvorbu fanúšikov inšpirovanú vaším vesmírom a komunikáciu s nimi. Majte prehľad o fanúšikovskej fikcii, výtvarných dielach a ďalšom komunitnom obsahu. Buďte so svojimi fanúšikmi v kontakte a budujte okolo svojho sveta živú komunitu."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Sledujte svoj úspech",
+      "content": "Sledujte, ako sa vášmu vesmíru darí, vďaka podrobným štatistikám. Uvidíte zapojenie čitateľov, obľúbené príbehy, zobrazenia encyklopédie aj ďalšie ukazovatele, ktoré vám pomôžu pochopiť, čo vaše publikum oslovuje."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Interné plánovacie fórum",
+      "content": "Interné fórum vášho vesmíru slúži na plánovanie a koordináciu so spolupracovníkmi a prekladateľmi. Preberajte dejové oblúky a detaily sveta a zlaďte svoju tvorivú prácu. V tomto súkromnom priestore sa vášmu tímu bude dobre spolupracovať."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Správa spolupracovníkov",
+      "content": "Pozvite spisovateľov, výtvarníkov a ďalších tvorcov na spoluprácu na svojom vesmíre. Prideľujte roly a oprávnenia, spravujte úrovne prístupu a zostavte tím, s ktorým budete svoj svet rozvíjať spoločne."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Nastavenia príjmov",
+      "content": "Nastavte si, ako budete na svojom vesmíre a jeho obsahu zarábať. Zriaďte prémiový prístup, spravujte predplatné a dohodnite si delenie príjmov so spolupracovníkmi. Premeňte svoju tvorivú prácu na udržateľný zdroj príjmu."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Centrum riešení",
+      "content": "Riešte spory, porušenia pravidiel pre obsah a ďalšie problémy, ktoré sa vo vašom vesmíre môžu objaviť. Tento centralizovaný systém pomáha udržiavať dobré vzťahy v komunite a efektívne riešiť konflikty."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Nastavenia vesmíru",
+      "content": "Nastavte základné vlastnosti svojho vesmíru vrátane súkromia, riadenia prístupu, kategórií a ďalších zásadných volieb. Tieto nastavenia určujú, ako váš vesmír funguje a kto sa doň môže zapojiť."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Nastavenia fóra",
+      "content": "Dolaďte nastavenia fóra svojho vesmíru. Vytvárajte kategórie, určite pravidlá moderovania, nastavte oprávnenia a prispôsobte diskusné priestory tak, aby čo najlepšie slúžili vašej komunite."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Ste pripravení budovať svoj vesmír?",
+      "content": "Teraz máte všetky nástroje, ktoré na vytvorenie bohatého a pútavého vesmíru potrebujete. Začnite tým, že pridáte niekoľko príbehov, rozšírite encyklopédiu a pozvete spolupracovníkov. Váš literárny svet čaká, kým ho stvoríte!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Prehľad príbehu",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Vitajte v prehľade svojho príbehu!",
+      "content": "Toto je riadiace centrum vášho príbehu, odkiaľ spravujete všetko, čo sa ho týka. Môžete tu písať kapitoly, usporiadať štruktúru príbehu, spolupracovať s ostatnými a sledovať svoj pokrok. Poďme si prejsť to najdôležitejšie."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Pridávanie nových kapitol",
+      "content": "Tu pridávate do príbehu nové kapitoly. Novú kapitolu vytvoríte kliknutím na tlačidlo „Nová kapitola“. Kapitoly sa v príbehu automaticky radia v správnom poradí. Pridať ich môžete aj na konci zoznamu kapitol."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Sledujte svoj pokrok",
+      "content": "Sledujte svoj pokrok v písaní a záujem publika vďaka podrobným štatistikám. Uvidíte, koľko máte čitateľov a koľko zobrazení majú kapitoly, a môžete vyhodnotiť, ako sa príbehu darí v čase."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Správa spolupracovníkov",
+      "content": "Pozvite ďalších autorov, aby na príbehu spolupracovali. Prideľujte rôzne roly a oprávnenia, koordinujte písanie a spravujte svoj tvorivý tím. Ideálne pre skupinové autorské projekty."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Správa prekladov",
+      "content": "Koordinujte preklady svojho príbehu do ďalších jazykov. Spravujte prekladateľov, sledujte postup prekladu a sprístupnite svoj príbeh čitateľom na celom svete."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Nastavenia príjmov",
+      "content": "Nastavte si, ako budete na svojom príbehu zarábať. Zriaďte prémiové kapitoly, spravujte možnosti predplatného a dohodnite si delenie príjmov so spolupracovníkmi. Premeňte svoje písanie na príjem."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Nastavenia príbehu",
+      "content": "Nastavte základné vlastnosti svojho príbehu vrátane súkromia, možností publikovania, kategórií a ďalších zásadných predvolieb. Tieto nastavenia určujú, ako sa váš príbeh zobrazuje a ako funguje."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Prehľadové poznámky",
+      "content": "Udržujte si prehľad o celkovej štruktúre príbehu, dejových bodoch, vývoji postáv a dôležitých poznámkach. Toto je váš súkromný priestor na plánovanie a usporiadanie rozprávania."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Osobné spisovateľské výzvy",
+      "content": "Stanovte si osobné spisovateľské ciele a sledujte svoj pokrok pomocou výziev. Určite si denný alebo týždenný počet slov, nastavte si termíny pre kapitoly a motivujte sa k pravidelnému písaniu. Ide o váš súkromný nástroj, ktorý vám pomôže držať sa plánu."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Správa dejových línií",
+      "content": "Rozdeľte svoj príbeh do jednotlivých dejových línií a vlákien. Sledujte vývoj postáv, vedľajšie zápletky a ďalšie prvky rozprávania. Ideálne pre zložité príbehy s mnohými prepojenými prvkami."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Správca scén",
+      "content": "Usporiadajte a spravujte jednotlivé scény vo svojich kapitolách. Sledujte, ako sú scény rozpracované, meňte ich poradie a udržujte plynulosť rozprávania."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Právne dokumenty",
+      "content": "Tu nájdete dôležité právne dokumenty súvisiace s vaším príbehom vrátane informácií o autorských právach, vydavateľských zmlúv a správy práv. Majte svoje právne záležitosti v poriadku."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Verzia pre verejnosť",
+      "content": "Pozrite si svoj príbeh tak, ako ho vidia čitatelia na verejnom webe. Skontrolujte formátovanie, vyskúšajte odkazy a uistite sa, že všetko vyzerá presne tak, ako má, skôr než ho začnete zdieľať s publikom."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Zdieľajte svoj príbeh",
+      "content": "Zdieľajte svoj príbeh na sociálnych sieťach pomocou vopred pripravených textov a odkazov pre obľúbené platformy. Získate hotový obsah, ktorý vaše dielo predstaví a pomôže vám osloviť nových čitateľov na rôznych sociálnych sieťach."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Centrum riešení",
+      "content": "Riešte právne spory, porušenia podmienok používania a ďalšie problémy súvisiace s vaším príbehom. Toto centrum na jednom mieste zobrazuje všetky nahlásené problémy a ponúka nástroje na riešenie konfliktov a udržanie dobrej atmosféry v komunite."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Správa stavu príbehu",
+      "content": "Týmito dôležitými voľbami určujete stav publikovania svojho príbehu. „Aktívne“ znamená, že príbeh pravidelne aktualizujete. „Pozastavené“ označuje dočasnú prestávku. „Zrušené“ znamená, že ste s písaním prestali. „Dokončené“ označuje hotový príbeh. Vyberte stav, ktorý najlepšie vystihuje vašu aktuálnu situáciu. Poznámka: Príbeh sa po 6 mesiacoch bez vývoja automaticky zmení na „Pozastavené“ a po ďalších 6 mesiacoch nečinnosti na „Zrušené“."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Ste pripravení začať písať?",
+      "content": "Teraz už viete, ako spravovať všetky stránky svojho príbehu. Začnite pridaním prvej kapitoly a potom preskúmajte ďalšie dostupné nástroje. Váš príbeh čaká, kým ho napíšete!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Prehliadka editora príbehu",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Vitajte v editore príbehu!",
+      "content": "Toto je váš pracovný priestor na písanie, kde vznikajú vaše príbehy. Editor ponúka výkonné nástroje, ktoré vám pomôžu písať, usporiadať a zverejniť vašu prácu. Poďme si prejsť to najdôležitejšie."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Veľkosť textu",
+      "content": "Upravte si veľkosť textu, aby sa vám pri písaní pohodlne čítal. Prepínajte medzi normálnou a veľkou veľkosťou a uľavte očiam pri dlhom písaní."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Prepínač tmavého režimu",
+      "content": "Prepínajte medzi svetlým a tmavým motívom. Tmavý režim je pri nočnom písaní šetrnejší k očiam a pomáha udržať sústredenie."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Nástroje prístupnosti",
+      "content": "Pre vaše pohodlie tu nájdete písma vhodné pre dyslektikov, zvýrazňovanie odsekov a ďalšie funkcie prístupnosti."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Prepnúť bočný panel",
+      "content": "Zobrazte alebo skryte bočný panel. Nájdete v ňom užitočné nástroje, ako je zápisník, poznámky k príbehu, encyklopédia, komentáre a AI asistent."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Režim celej obrazovky",
+      "content": "Prepnite na celú obrazovku, aby ste získali čo najviac miesta na písanie a zbavili sa rozptýlení. Ideálne na sústredené písanie."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Uložte svoju prácu",
+      "content": "Koncept sa ukladá automaticky. Vaša práca sa ukladá priebežne počas písania, kedykoľvek ju však môžete uložiť aj ručne."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Možnosti publikovania",
+      "content": "Keď máte koncept hotový, je čas vytvoriť revíziu. Revíziu môžete vytvoriť pre beta čitateľov alebo pre verejnosť. Keď sa rozhodnete publikovať, sami určíte, kedy sa kapitola zverejní."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Názov kapitoly",
+      "content": "Kliknutím na názov ho môžete upraviť."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Napíšte osobné poznámky ku kapitole alebo len odkaz pre čitateľov. Čitateľom sa zobrazia pred kapitolou (rovnako ako tu) a je to účinný spôsob, ako niečo oznámiť alebo sa podeliť o myšlienky k doterajšiemu príbehu."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Hlavný text príbehu",
+      "content": "Toto je hlavný priestor na písanie, kde váš príbeh ožíva. Sem píšete obsah kapitoly a máte k dispozícii plnohodnotné formátovanie textu."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Nástroje v bočnom paneli",
+      "content": "Bočný panel obsahuje užitočné nástroje a informácie. Ponukou v jeho hornej časti prepínate medzi jednotlivými zobrazeniami, ako je zápisník, odkazy do encyklopédie, komentáre a AI asistent."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Osobný zápisník",
+      "content": "Váš osobný zápisník je vždy poruke, keď si potrebujete poznačiť nápad, poznámku alebo inšpiráciu. Uchovajte si myšlienky, ktoré sa do hlavného príbehu nehodia, ale neskôr by sa mohli zísť."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Poznámky k príbehu",
+      "content": "Tu nájdete celkové poznámky a plánovacie podklady k svojmu príbehu. Majte poruke osnovu deja, vývoj postáv, detaily sveta a ďalšie informácie, ktoré vám pomôžu udržať poriadok."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Prístup k encyklopédii",
+      "content": "Rýchly prístup k encyklopédii vášho vesmíru. Pri písaní si môžete dohľadať podrobnosti o postavách, miestach, reáliách a ďalších prvkoch svojho sveta. Ďalšími tlačidlami tu môžete vyhľadávať a pridávať nové záznamy."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Komentáre ku kapitole",
+      "content": "Prezerajte si komentáre k tejto kapitole od beta čitateľov, spolupracovníkov aj ostatných čitateľov a odpovedajte na ne. Buďte v kontakte so svojím publikom a získajte cennú spätnú väzbu."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Pred zverejnením treba skontrolovať niekoľko dôležitých vecí. Tu sa skrýva zoznam úloh pred publikovaním a ďalšie drobnosti, na ktoré sa oplatí pozrieť."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI asistent",
+      "content": "Opýtajte sa asistenta na svoj príbeh, vesmír a encyklopédiu. Vie skontrolovať konzistentnosť, urobiť korektúru pasáže alebo niečo dohľadať. Odpovedá na otázky k vášmu textu, ale nepíše za vás. Beží na vašom vlastnom API kľúči, ktorý pridáte v nastaveniach."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Ste pripravení začať písať?",
+      "content": "Teraz už viete, ako používať všetky funkcie editora príbehu. Pustite sa do písania kapitoly a nástroje objavujte, keď ich budete potrebovať. Keby ste si niekedy nevedeli rady, pozrite sa do pomocníka, do Cesty autora alebo sa nám ozvite. A teraz poďme písať príbehy!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Prehliadka prekladateľského editora",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Vitajte v prekladateľskom editore!",
+      "content": "Poďme sa tu krátko poobzerať. V tomto pracovnom priestore prekladáte pôvodný text a podklady máte stále na dosah ruky."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Pôvodný text vľavo",
+      "content": "Vľavo vidíte pôvodnú kapitolu a poznámky autora. Nechajte si ich pri práci otvorené ako predlohu."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Prekladajte vpravo",
+      "content": "Svoj preklad píšte vpravo. Všetko, čo tu uložíte, sa stane verziou, ktorú uvidia čitatelia v tomto jazyku."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Prístup k encyklopédii vesmíru",
+      "content": "Potrebujete reálie alebo terminológiu? V bočnom paneli nájdete prístup k encyklopédii vesmíru, vďaka ktorej mu lepšie porozumiete."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Vitajte v encyklopédii",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Encyklopédia vášho vesmíru",
+      "content": "Vitajte vo svojej encyklopédii! Tu si usporiadate všetky poznatky o svojom vesmíre a podelíte sa o ne so svojimi fanúšikmi."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Usporiadajte si obsah",
+      "content": "Prepínajte medzi zobrazeniami „Kategórie“ a „Skupiny“. Kategórie zobrazujú záznamy usporiadané podľa typu (Postavy, Miesta atď.), kým Skupiny ich zobrazujú podľa zoskupení vo vlastných poliach, ktoré určujú nadradené záznamy."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Vaše kategórie",
+      "content": "Tu sú kategórie vašej encyklopédie. Každá kategória má vlastnú šablónu na usporiadanie informácií. Kliknutím na kategóriu ju rozbalíte a zobrazíte záznamy, ktoré obsahuje."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Nájdite, čo potrebujete",
+      "content": "Pomocou vyhľadávania rýchlo nájdete akýkoľvek záznam vo svojej encyklopédii. Hľadajte podľa názvu, obsahu alebo značiek a informácie budete mať okamžite."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Vytvárajte nové záznamy",
+      "content": "Pridávajte do encyklopédie nové záznamy. Každá kategória má na začiatok vlastnú šablónu formulára, ktorú si však môžete upraviť podľa seba."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Prispôsobte si encyklopédiu",
+      "content": "Nezabudnite sa pozrieť do nastavení encyklopédie, kde si vyberiete, ktoré kategórie chcete používať, nastavíte uvítaciu správu a ďalšie podrobnosti encyklopédie."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Teraz už poznáte základy! Vráťte sa do svojej dielne a pokračujte v budovaní vesmíru alebo začnite pridávať záznamy do encyklopédie. Príjemné písanie!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Sprievodca pre beta čitateľov",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Vitajte pri beta čítaní!",
+      "content": "Ako beta čitateľ zohrávate kľúčovú úlohu v tom, že pomáhate autorom vylepšovať ich príbehy. Vaša spätná väzba pomáha odhaliť chyby, zlepšiť zrozumiteľnosť a urobiť príbehy pre čitateľov zábavnejšími. Tento sprievodca vám ukáže, ako sa v rozhraní na beta čítanie orientovať a ako dávať účinnú spätnú väzbu."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Váš hlavný komunikačný nástroj",
+      "content": "Tu zanechávate komentáre pre autora! Kliknutím sem otvoríte panel komentárov. Môžete pridať všeobecnú spätnú väzbu ku kapitole, zvýrazniť konkrétne pasáže, klásť otázky alebo navrhovať zlepšenia. Komentáre sú hlavným spôsobom, ako s autorom komunikujete."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Rozhranie na komentáre",
+      "content": "V paneli komentárov vidíte spätnú väzbu od ostatných beta čitateľov a môžete pridať vlastnú. O svoje postrehy sa podeľte v poli na komentár dole. Buďte konkrétni v tom, čo funguje dobre a čo by sa dalo zlepšiť. Najviac pomôže konštruktívna spätná väzba!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Nástroje na čítanie",
+      "content": "Týmito nástrojmi si čítanie prispôsobíte. Môžete upraviť veľkosť textu, prepnúť tmavý režim a zapnúť funkcie prístupnosti, ako je písmo Open Dyslexic alebo zvýrazňovanie odsekov, aby sa vám čítalo pohodlnejšie."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Ste pripravení dať spätnú väzbu?",
+      "content": "Teraz už viete, ako sa v rozhraní na beta čítanie orientovať a ako pomocou komentárov komunikovať s autormi. Najprv si prečítajte kapitolu, potom otvorte bočný panel a podeľte sa o premyslenú spätnú väzbu. Vaše postrehy pomáhajú autorom písať lepšie príbehy!"
     }
   }
 }

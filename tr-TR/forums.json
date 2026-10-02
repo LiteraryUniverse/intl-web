@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Bir kategori seçin...",
   "forums.posts.loadError": "Gönderiler yüklenirken hata",
   "forums.category.orgRoles": "Kuruluş rolleriyle sınırla (hiçbiri = tüm üyeler)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Yanıtı düzenle",
+  "forums.post.delete": "Yanıtı sil",
+  "forums.post.deleteConfirm": "Bu yanıt silinsin mi? Artık bu tartışmada görünmeyecek.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Bu yanıt silindi.",
+  "forums.post.hidden": "Bu yanıt moderasyon tarafından gizlendi."
 }

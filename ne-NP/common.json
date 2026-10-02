@@ -121,6 +121,9 @@
   "common.justNow": "Just now",
   "common.label": "Label",
   "common.lang.select": "भाषा छान्नुहोस्",
+  "common.lang.change": "भाषा परिवर्तन गर्नुहोस्",
+  "common.lang.readingLanguagePitch": "इन्टरफेसभन्दा फरक भाषामा कथाहरू चाहनुहुन्छ? आफ्नो पढ्ने भाषा सेट गर्न निःशुल्क खाता बनाउनुहोस्।",
+  "common.lang.createAccount": "निःशुल्क खाता बनाउनुहोस्",
   "common.language": "भाषा",
   "common.legal.community": "समुदाय सिफारिसहरू",
   "common.legal.cookies": "About cookies",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "केही गडबड भयो। कृपया फेरि प्रयास गर्नुहोस्।",
+  "common.savedOffline": "अफलाइन सुरक्षित गरियो। तपाईं फेरि जडान भएपछि यो सिङ्क हुनेछ।",
+  "common.synced": "सबै परिवर्तनहरू सिङ्क भए।",
+  "common.autoSaveDeferred": "अहिले सुरक्षित गर्न सकिएन। तपाईंका परिवर्तनहरू यस उपकरणमा राखिएका छन् र पछि सिङ्क हुनेछन्।"
 }

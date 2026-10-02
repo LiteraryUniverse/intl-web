@@ -19,9 +19,9 @@
   "personalNotes.type.encEntry": "Entrada d'enciclopèdia",
   "personalNotes.type.revTextBlock": "Bloc de text de revisió",
   "personalNotes.recentSearches": "Cerques recents:",
-  "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
+  "personalNotes.myNotes": "Les meves notes personals",
+  "personalNotes.hasNotes": "Té notes personals",
+  "personalNotes.recentSearched": "Cerques recents:",
+  "personalNotes.search.noFound": "No s'ha trobat cap element",
   "personalNotes.type": "Type"
 }

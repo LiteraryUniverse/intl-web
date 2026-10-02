@@ -96,5 +96,6 @@
 	"signup.complete.description": "프로필을 작성해 주셔서 감사합니다. 기본 설정에 따라 사용자 환경을 맞춤 설정했습니다.",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "가입 마법사",
-	"signup.userType.artist.description": "만화나 일러스트를 그려요"
+	"signup.userType.artist.description": "만화나 일러스트를 그려요",
+  "signup.password2.label": "비밀번호 확인"
 }

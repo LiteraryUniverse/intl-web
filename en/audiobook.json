@@ -113,5 +113,7 @@
   "audiobook.team.title": "Audio book team",
   "audiobook.team.voiceActors": "Voice actors",
   "audiobook.team.you": "you",
-  "audiobook.whereToListen": "Where to listen"
+  "audiobook.whereToListen": "Where to listen",
+  "audiobook.team.members": "Team members",
+  "audiobook.team.noMembers": "No team members yet."
 }

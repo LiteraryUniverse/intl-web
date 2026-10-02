@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "voksa tigni",
   "audiobook.team.you": "do",
   "audiobook.whereToListen": "lo tirna stuzi",
+  "audiobook.team.members": "Team members",
+  "audiobook.team.noMembers": "No team members yet.",
   "audiobook.orgFeatureDisabled": "Audio books are not enabled for this organization."
 }

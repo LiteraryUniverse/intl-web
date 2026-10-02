@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "Turu atla",
+    "close": "Turu kapat",
+    "end": "Turu bitir",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "Gezinmek için ok tuşlarını, kapatmak için ESC tuşunu kullanın",
+    "start": "Turu başlat"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Kontrol Panelinize hoş geldiniz",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Literary Universe'e hoş geldiniz",
+      "content": "Yazma yolculuğunuza başlamanıza yardımcı olmak için kontrol panelinizde kısa bir tura çıkalım."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Ana gezinme",
+      "content": "Bu, ana gezinme menünüz. Öğelerin üzerinden tek tek geçelim."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Etkinlik güncellemelerini gördüğünüz, atölyenize, kütüphanenize ve sosyal özelliklere ulaştığınız kişisel ana sayfanız."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Diğer kullanıcıların oluşturduğu hikayeleri ve evrenleri keşfedin. Yazarların perde arkası yazılarını ve ayrıntılı blog yazılarını okuyun. Bir sonraki favori okumanızı bulun!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Paylaşılan sevinç on kat büyür! Sizinle aynı ilgileri paylaşan gruplar bulun, Discord sunucumuza katılın ve Literary Universe'te başka kimlerin olduğunu keşfedin!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Not Defteri; fikirlerinizi, notlarınızı ve düşüncelerinizi yazmanız için her zaman elinizin altında olan kişisel defterinizdir."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Yorumlardan, takiplerden ve diğer topluluk etkileşimlerinden haberdar olun."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Diğer yazarlarla ve beta okuyucularla iletişim kurun, projelerde iş birliği yapın."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Kişisel bilgilerinizi, tercihlerinizi ve hesap ayarlarınızı yönetin."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Hikayelerinizi ve evrenlerinizi yazdığınız, düzenlediğiniz ve yönettiğiniz yaratıcı alanınız."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Kütüphaneniz",
+        "content": "Kaydettiğiniz tüm hikayelere, okuma listelerinize ve indirdiğiniz içeriklere tek bir yerden ulaşın."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Hızlı erişim menüsü",
+      "content": "Bu kenar çubuğu, önemli özelliklere ve araçlara hızlı erişim sağlar."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Bir yazar olarak sihir Atölyenizde gerçekleşir! Yeni bir hikayeye başlayın, mevcut bir hikayeyi yazmayı sürdürün ya da evreninizi geliştirin. Okuyucularınız sizi bekliyor!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Bir okuyucu olarak Keşfet, harika hikayelere açılan kapınızdır! Yeni türleri keşfedin, favori yazarlarınızı takip edin ve okuma listelerinizi oluşturun. İyi okumalar!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "Burada yeni misiniz? Kontrol panelinizde kısa bir tura çıkın!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Atölyenize hoş geldiniz",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Literary Universe Atölyesi'ne hoş geldiniz",
+      "content": "Atölyeniz, Literary Universe'teki yaratıcı yolculuğunuzun kalbidir. Burada hikayelerinizi ve evrenlerinizi oluşturabilir, yönetebilir ve bunlar üzerinde başkalarıyla birlikte çalışabilirsiniz."
     },
     "theWay": {
       "title": "Yazarın Yolu",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "Yazarın Yolu ile bir yazar olarak ilerlemenizi takip edin. Oyunlaştırılmış bu sistem, yazma hedeflerine ulaştıkça ve toplulukla etkileşime girdikçe seviye atlamanıza yardımcı olur. Nasıl çalıştığını öğrenmek için buraya tıklayın."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Yeni bir şeye başlayın",
+      "content": "“Oluşturmaya başlayın” size ne yapmak istediğinizi sorar: aynı dünyayı paylaşan hikayeler için bir evren, tek başına duran bir hikaye, hayran kurgusu ya da bir çizgi roman. İlk kararlarda size yol gösterir ve elinizde bir taslak bırakır. Siz yayınlamadıkça hiçbir şey yayınlanmaz."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Tüm projeleriniz",
+      "content": "Sahibi olduğunuz veya üzerinde çalıştığınız her evren, hikaye, çizgi roman ve sesli kitap burada listelenir. Sağdaki düğmeler kapak görünümü ile sıkışık liste arasında geçiş yapar. İş birliği, çeviri veya beta okuma davetleri, kabul edebileceğiniz ya da reddedebileceğiniz istekler olarak listenin üstünde görünür."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "İhtiyacınız olan projeyi bulun",
+      "content": "Erişim, listeyi sahibi olduğunuz projelerle, ekibinde yer aldığınız projelerle, çevirilerle veya beta okuyucu olarak incelediğiniz hikayelerle sınırlar. Biçim ve Durum listeyi daha da daraltır; Sırala ise en son güncellenen projeyi en üste getirir."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Yolculuğunuza devam edin",
+      "content": "Yazarın Yolu'ndaki ilerlemenizi görmek için buraya tekrar uğramayı unutmayın. Seviye atlamak için yazmayı, iş birliği yapmayı ve toplulukla etkileşimde bulunmayı sürdürün! Şimdi yazmaya başlayalım!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Kişisel kütüphaneniz",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Okumaya devam et",
+      "content": "Kişisel kütüphanenize hoş geldiniz! Okuma ilerlemenizi takip etmek için eklediğiniz hikayeleri ve evrenleri burada görürsünüz. Okumaya devam et bölümü en son açtığınız içerikleri gösterir; böylece kaldığınız yerden kolayca devam edebilirsiniz."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Kütüphanenizin tamamı",
+      "content": "Bu sekme kütüphanenizdeki her şeyi gösterir. Yanındaki sekmeler listeyi hikayelere, satın alınanlara, sesli kitaplara, manga ve çizgi romanlara veya evrenlere göre daraltır. Güncellemeleri almak ve kaldığınız yeri kaybetmemek için kütüphanenize bir hikaye veya evren ekleyin."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Hikayeleriniz",
+      "content": "Kütüphanenize eklediğiniz tüm hikayeler burada düzenlenir. Okuma ilerlemenizi takip edin, yeni bölümlerden haberdar olun ve en sevdiğiniz hikayelerde kaldığınız yeri asla kaybetmeyin."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Evrenleriniz",
+      "content": "Kütüphanenize eklediğiniz evrenler burada görünür. Bu evrenlerdeki yeni hikayelerden haberdar olun, ansiklopedilerini keşfedin ve topluluk özelliklerinden yararlanın."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Okuma listeleri",
+      "content": "Kişisel okuma listelerinizi burada oluşturun ve yönetin. Hikayeleri temalara, serilere veya size uygun herhangi bir ölçüte göre düzenleyin. Listelerinizi başkalarıyla paylaşın ya da gizli tutun."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Kişisel notlar",
+      "content": "Platform aboneliğiyle herhangi bir hikayeye, evrene veya ansiklopedi maddesine kişisel notlar ekleyebilirsiniz. Literary Universe'te okurken ve keşfederken düşüncelerinizi, teorilerinizi ve çıkarımlarınızı kaydedin."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Kütüphanenizi oluşturmaya hazır mısınız?",
+      "content": "Keşfet bölümünden kütüphanenize hikayeler ve evrenler eklemeye başlayın. Okuma ilerlemenizi takip edin, okuma listeleri oluşturun ve kişisel notlarla deneyiminizi zenginleştirin. Edebi yolculuğunuz sizi bekliyor!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Evren atölyesi",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Evren atölyenize hoş geldiniz!",
+      "content": "İlk evreninizi oluşturduğunuz için tebrikler! Burası, edebi dünyanızı kurup yönettiğiniz komuta merkeziniz. Evreninize hayat vermenizi sağlayacak tüm güçlü araçlara birlikte bakalım."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Hikayelerinizi yönetin",
+      "content": "Evreninizdeki tüm hikayeleri buradan yönetirsiniz. Yeni hikayeler oluşturun, mevcut olanları düzenleyin ve anlatınızı birbiriyle bağlantılı birçok hikaye boyunca düzenleyin. Her hikaye, ortak evren ansiklopedisinden ve topluluk özelliklerinden yararlanabilir."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Ansiklopedinizi oluşturun",
+      "content": "Evreninizin ansiklopedisini, yani dünyanıza hayat veren bilgi tabanını oluşturun ve yönetin. Okuyucuların keşfedebileceği karakterler, konumlar, efsaneler ve başka ayrıntılar ekleyin. Zengin bir ansiklopedi evreninizi daha sürükleyici kılar ve okuyucuların hikayelerinizin bağlamını anlamasına yardımcı olur."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Evren sayfanız",
+      "content": "Burası evreninizin herkese açık sayfası; ziyaretçiler burada dünyanızı tanıyabilir, hikayelerinizi okuyabilir, ansiklopediyi keşfedebilir ve topluluğunuzla etkileşime girebilir. Evreninizi öne çıkarmak ve yeni okuyucular çekmek için bu sayfayı özelleştirin."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Çevirileri yönetin",
+      "content": "Evren içeriğinizin başka dillere çevrilmesini koordine edin. Çevirmenleri yönetin, ilerlemeyi takip edin ve hikayelerinizin dünya çapında bir kitleye ulaşmasını sağlayın. Çeviriler, dünyanın dört bir yanındaki okuyucularla buluşmanıza yardımcı olur."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Hayran yöneticisi",
+      "content": "Hayranlarla etkileşimleri ve evreninizden ilham alan eserleri yönetin. Hayran kurgularını, çizimleri ve diğer topluluk içeriklerini takip edin. Hayranlarınızla iletişim kurun ve dünyanızın çevresinde canlı bir topluluk oluşturun."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Başarınızı takip edin",
+      "content": "Evreninizin performansını ayrıntılı istatistiklerle izleyin. Okuyucu etkileşimini, popüler hikayeleri, ansiklopedi görüntülenmelerini ve kitlenizde neyin karşılık bulduğunu anlamanıza yardımcı olan diğer ölçümleri görün."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Dahili planlama forumu",
+      "content": "Ortaklarla ve çevirmenlerle planlama ve koordinasyon için evreninizin dahili forumu. Hikaye akışlarını ve dünya kurgusunun ayrıntılarını tartışın, yaratıcı çalışmalarınızı koordine edin. Bu özel alan, ekibinizin birlikte verimli çalışmasına yardımcı olur."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Ortakları yönetin",
+      "content": "Yazarları, sanatçıları ve diğer içerik üreticilerini evreninizde iş birliği yapmaya davet edin. Roller ve izinler atayın, erişim düzeylerini yönetin ve dünyanızı birlikte geliştirecek bir ekip kurun."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Gelir ayarları",
+      "content": "Evreninizden ve içeriğinden nasıl gelir elde edeceğinizi yapılandırın. Premium erişimi ayarlayın, abonelikleri yönetin ve ortaklarla gelir paylaşımını belirleyin. Yaratıcı emeğinizi sürdürülebilir bir gelir kaynağına dönüştürün."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Çözüm merkezi",
+      "content": "Evreninizde ortaya çıkabilecek anlaşmazlıkları, içerik ihlallerini ve diğer sorunları ele alın. Bu merkezi sistem, olumlu bir topluluğun korunmasına ve çatışmaların verimli biçimde çözülmesine yardımcı olur."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Evren ayarları",
+      "content": "Gizlilik, erişim denetimleri, kategoriler ve diğer temel seçenekler dahil evreninizin ana ayarlarını yapılandırın. Bu ayarlar evreninizin nasıl işlediğini ve kimlerin onunla etkileşime girebileceğini belirler."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Forum yapılandırması",
+      "content": "Evren forumunuzun ayarlarına ince ayar yapın. Kategoriler oluşturun, moderasyon kurallarını belirleyin, izinleri yapılandırın ve tartışma alanlarını topluluğunuzun ihtiyaçlarına en uygun biçimde özelleştirin."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Evreninizi kurmaya hazır mısınız?",
+      "content": "Zengin ve ilgi çekici bir evren yaratmak için gereken tüm araçlara artık sahipsiniz. Birkaç hikaye ekleyerek, ansiklopedinizi geliştirerek ve ortaklar davet ederek başlayın. Edebi dünyanız yaratılmayı bekliyor!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Hikaye paneli",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Hikaye panelinize hoş geldiniz!",
+      "content": "Burası, anlatınızın her yönünü yönettiğiniz hikaye komuta merkeziniz. Burada bölümler yazabilir, hikayenizin yapısını düzenleyebilir, başkalarıyla iş birliği yapabilir ve ilerlemenizi takip edebilirsiniz. Temel özelliklere birlikte bakalım."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Yeni bölüm ekleme",
+      "content": "Hikayenize yeni bölümleri buradan eklersiniz. Yeni bir bölüm oluşturmak için “Yeni bölüm” düğmesine tıklayın. Hikayeniz bölümleri otomatik olarak doğru sıraya dizer. Bölüm listesinin altından da bölüm ekleyebilirsiniz."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "İlerlemenizi takip edin",
+      "content": "Yazma ilerlemenizi ve okuyucu etkileşimini ayrıntılı istatistiklerle izleyin. Kaç okuyucunuz olduğunu görün, bölüm görüntülenmelerini takip edin ve hikayenizin zaman içindeki performansını inceleyin."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Ortakları yönetin",
+      "content": "Diğer yazarları hikayenizde iş birliği yapmaya davet edin. Farklı roller ve izinler atayın, yazma çalışmalarını koordine edin ve yaratıcı ekibinizi yönetin. Grup yazma projeleri için idealdir."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Çeviri yönetimi",
+      "content": "Hikayenizin başka dillere çevrilmesini koordine edin. Çevirmenleri yönetin, çeviri ilerlemesini takip edin ve hikayenizi dünya çapında bir kitle için erişilebilir kılın."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Gelir ayarları",
+      "content": "Hikayenizden nasıl gelir elde edeceğinizi yapılandırın. Premium bölümler ayarlayın, abonelik seçeneklerini yönetin ve ortaklarla gelir paylaşımını belirleyin. Yazdıklarınızı gelire dönüştürün."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Hikaye ayarları",
+      "content": "Gizlilik, yayın seçenekleri, kategoriler ve diğer temel tercihler dahil hikayenizin ana ayarlarını yapılandırın. Bu ayarlar hikayenizin nasıl göründüğünü ve nasıl işlediğini belirler."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Genel notlar",
+      "content": "Hikayenizin genel yapısını, olay örgüsü noktalarını, karakter gelişimlerini ve önemli notları takip edin. Burası, anlatınızı düzenlemeniz için kişisel planlama alanınızdır."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Kişisel yazma meydan okumaları",
+      "content": "Kişisel yazma hedefleri belirleyin ve meydan okumalarla ilerlemenizi takip edin. Günlük veya haftalık kelime sayısı hedefleri oluşturun, bölümler için son tarihler koyun ve düzenli yazma alışkanlığını sürdürmek için kendinizi motive edin. Bu, yazma programınıza bağlı kalmanız için size özel bir araçtır."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Hikaye çizgileri yönetimi",
+      "content": "Hikayenizi farklı olay örgülerine ve anlatı kollarına ayırın. Karakter gelişimlerini, yan olay örgülerini ve anlatı öğelerini takip edin. Birbiriyle bağlantılı birçok öğe içeren karmaşık hikayeler için idealdir."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Sahne Yöneticisi",
+      "content": "Bölümlerinizdeki sahneleri tek tek düzenleyin ve yönetin. Sahnelerin ilerlemesini takip edin, sahneleri yeniden sıralayın ve anlatı yapınızın akışını koruyun."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Yasal belgeler",
+      "content": "Telif hakkı bilgileri, yayın sözleşmeleri ve hak yönetimi dahil, hikayenizle ilgili önemli yasal belgelere erişin. Hukuki işlerinizi düzenli tutun."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Herkese açık sürüm",
+      "content": "Hikayenizi, herkese açık sitede okuyuculara göründüğü haliyle görüntüleyin. Biçimlendirmeyi kontrol edin, bağlantıları deneyin ve okuyucularınızla paylaşmadan önce her şeyin kusursuz göründüğünden emin olun."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Hikayenizi paylaşın",
+      "content": "Hikayenizi, popüler platformlar için önceden hazırlanmış metin ve bağlantılarla sosyal medyada paylaşın. Eserinizi öne çıkaran ve farklı sosyal ağlarda yeni okuyuculara ulaşmanıza yardımcı olan, kullanıma hazır içerikler edinin."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Çözüm merkezi",
+      "content": "Hikayenizle ilgili hukuki anlaşmazlıkları, Hizmet Şartları ihlallerini veya diğer sorunları ele alın. Bu merkez, bildirilen tüm sorunları listeler ve çatışmaları çözüp olumlu bir topluluk ortamını korumak için araçlar sunar."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Hikaye durumu yönetimi",
+      "content": "Bu önemli seçeneklerle hikayenizin yayın durumunu belirleyin. “Etkin”, hikayenizin düzenli olarak güncellendiği anlamına gelir. “Ara verildi”, geçici bir molayı gösterir. “İptal edildi”, yazmayı bıraktığınız anlamına gelir. “Tamamlandı”, hikayenizin bittiğini belirtir. Mevcut yazma durumunuzu en iyi yansıtan durumu seçin. Not: Hikayeler, 6 ay boyunca hiçbir gelişme olmazsa otomatik olarak “Ara verildi” durumuna, ardından 6 ay daha hareketsiz kalırsa “İptal edildi” durumuna geçer."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Yazmaya başlamaya hazır mısınız?",
+      "content": "Artık hikayenizin her yönünü nasıl yöneteceğinizi biliyorsunuz. İlk bölümünüzü ekleyerek başlayın, ardından mevcut araçları keşfedin. Hikayeniz yazılmayı bekliyor!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Hikaye düzenleyicisi turu",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Hikaye düzenleyicisine hoş geldiniz!",
+      "content": "Burası, hikayelerinizi kaleme alacağınız yazma alanınız. Düzenleyici; yazmanıza, düzenlemenize ve eserinizi yayınlamanıza yardımcı olan güçlü araçlar sunar. Temel özelliklere birlikte bakalım."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Metin boyutu",
+      "content": "Yazarken rahat okumak için metin boyutunu ayarlayın. Uzun yazma seanslarında göz yorgunluğunu azaltmak için normal ve büyük metin boyutu arasında geçiş yapın."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Koyu mod düğmesi",
+      "content": "Açık ve koyu tema arasında geçiş yapın. Koyu mod, gece yazma seanslarında gözleri daha az yorar ve odaklanmanıza yardımcı olur."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Erişilebilirlik araçları",
+      "content": "Disleksi dostu yazı tiplerine, paragraf vurgulamaya ve rahatınız için sunulan diğer erişilebilirlik özelliklerine buradan ulaşın."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Yan paneli göster veya gizle",
+      "content": "Yan paneli gösterin veya gizleyin. Yan panelde not defteriniz, hikaye notları, ansiklopedi, yorumlar ve yapay zeka asistanı gibi yararlı araçlar bulunur."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Tam ekran modu",
+      "content": "Yazma alanınızı büyütmek ve dikkat dağıtan unsurları ortadan kaldırmak için tam ekran moduna geçin. Odaklanmış yazma seansları için idealdir."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Çalışmanızı kaydedin",
+      "content": "Taslağınız otomatik olarak kaydedilir. Çalışmanız siz yazdıkça kaydedilir, ancak dilediğiniz zaman elle de kaydedebilirsiniz."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Yayınlama seçenekleri",
+      "content": "Taslağınızı bitirdiğinizde bir düzeltme oluşturma zamanı gelmiştir. Beta okuyucular için veya herkese açık bir düzeltme oluşturabilirsiniz. Yayınlamaya karar verdiğinizde bölümün ne zaman yayına gireceğini siz belirlersiniz."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Bölüm başlığı",
+      "content": "Adını düzenlemek için başlığa tıklayın."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Bölümünüz hakkında kişisel notlar ya da yalnızca okuyuculara bir mesaj yazın. Bu, okuyucularınıza bölümden önce gösterilir (tıpkı buradaki gibi) ve duyuru yapmanın ya da hikayenin şimdiye kadarki kısmıyla ilgili düşüncelerinizi paylaşmanın etkili bir yoludur."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Ana hikaye metni",
+      "content": "Burası, hikayenizin hayat bulduğu ana yazma alanınız. Bölümünüzün içeriğini zengin metin düzenleme olanaklarının tümüyle buraya yazın."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Kenar çubuğu araç kutusu",
+      "content": "Yan panel yararlı araçlar ve bilgiler içerir. Not defteriniz, ansiklopedi başvuruları, yorumlar ve AI Assistant gibi farklı görünümler arasında geçiş yapmak için üstteki menüyü kullanın."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Kişisel not defteri",
+      "content": "Kişisel not defteriniz fikirleri, notları veya ilham veren şeyleri yazmanız için her zaman elinizin altında. Ana hikayeye sığmayan ama ileride işinize yarayabilecek düşünceleri burada tutun."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Hikaye notları",
+      "content": "Hikayenizin genel notlarına ve planlama malzemelerine erişin. Olay örgüsü taslaklarını, karakter gelişimlerini, dünya kurgusu ayrıntılarını ve diğer düzenleyici bilgileri takip edin."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Ansiklopediye erişim",
+      "content": "Evreninizin ansiklopedisine hızlı erişim. Yazarken karakter ayrıntılarına, konumlara, efsanelere ve dünya kurgusunun diğer öğelerine başvurun. Buradaki diğer düğmeler arama yapmanızı ve yeni maddeler eklemenizi sağlar."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Bölüm yorumları",
+      "content": "Beta okuyucuların, ortakların ve diğer okuyucuların bu bölüme yaptığı yorumları görün ve yanıtlayın. Okuyucularınızla etkileşim kurun ve değerli geri bildirimler alın."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Yayınlamadan önce kontrol edilmesi gereken önemli şeyler var. Yayın öncesi yapılacaklar listesi ve göz atmaya değer başka küçük ayrıntılar burada saklanıyor."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "Asistana hikayeniz, evreniniz ve ansiklopediniz hakkında sorular sorun. Tutarlılığı denetleyebilir, bir pasajın yazım denetimini yapabilir veya bir şeye bakabilir. Yazdıklarınızla ilgili soruları yanıtlar, sizin yerinize yazmaz. Ayarlarınıza eklediğiniz kendi API anahtarınızla çalışır."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Yazmaya başlamaya hazır mısınız?",
+      "content": "Artık hikaye düzenleyicisinin tüm güçlü özelliklerini nasıl kullanacağınızı biliyorsunuz. Bölümünüzü yazmaya başlayın ve araçları ihtiyaç duydukça keşfedin. Yardıma ihtiyacınız olursa yardım sayfamıza ya da Yazarın Yolu'na göz atın veya bize ulaşın. Şimdi hikayeler yazalım!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Hikaye çevirmeni turu",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Hikaye çevirmenine hoş geldiniz!",
+      "content": "Etrafa kısaca bir göz atalım. Bu çalışma alanını, başvuru kaynakları elinizin altındayken özgün metni çevirmek için kullanın."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Özgün metin solda",
+      "content": "Sol tarafta özgün bölüm ve yazarın notları görünür. Çalışırken başvurmak için açık tutun."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Çeviri sağda",
+      "content": "Çevirinizi sağ tarafa yazın. Buraya kaydettiğiniz her şey, bu dilin okuyucularının göreceği sürüm olur."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Evren ansiklopedisine erişim",
+      "content": "Dünyanın arka planına veya terimlere mi ihtiyacınız var? Evreni daha iyi anlamak için kenar çubuğundan evren ansiklopedisine ulaşabilirsiniz."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Ansiklopedi'ye hoş geldiniz",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Evren ansiklopediniz",
+      "content": "Ansiklopedinize hoş geldiniz! Evreninizle ilgili tüm bilgileri burada düzenler ve hayranlarınızla paylaşırsınız."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "İçeriğinizi düzenleyin",
+      "content": "“Kategoriler” ve “Gruplar” görünümleri arasında geçiş yapın. Kategoriler maddeleri türe göre (Karakterler, Konumlar vb.) düzenlenmiş olarak gösterir; Gruplar ise maddeleri, üst maddelerin belirlediği özel alan gruplamalarına göre görüntülemenizi sağlar."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Kategorileriniz",
+      "content": "Ansiklopedi kategorileriniz burada. Her kategorinin, bilgileri düzenlemek için kendi şablonu vardır. Genişletmek ve içindeki maddeleri görmek için herhangi bir kategoriye tıklayın."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Aradığınızı bulun",
+      "content": "Ansiklopedinizdeki herhangi bir maddeyi hızla bulmak için aramayı kullanın. Bilgiye anında ulaşmak için ada, içeriğe veya etiketlere göre arayın."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Yeni maddeler oluşturun",
+      "content": "Ansiklopedinize yeni maddeler ekleyin. Her kategorinin başlamanızı kolaylaştıran kendi form şablonu vardır, ancak bunları dilediğiniz gibi değiştirebilirsiniz."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Ansiklopedinizi özelleştirin",
+      "content": "Hangi kategorileri kullanmak istediğinizi belirlemek, karşılama mesajını ve diğer ansiklopedi ayrıntılarını ayarlamak için ansiklopedi ayarlarınıza mutlaka göz atın."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Artık temel bilgileri biliyorsunuz! Evreninizi kurmayı sürdürmek için atölyenize dönün ya da ansiklopedinize madde eklemeye başlayın. İyi yazmalar!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Beta okuyucu rehberi",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Beta okumaya hoş geldiniz!",
+      "content": "Bir beta okuyucu olarak, yazarların hikayelerini geliştirmesine yardımcı olmakta çok önemli bir rol oynarsınız. Geri bildiriminiz sorunların yakalanmasına, anlatımın netleşmesine ve hikayelerin okuyucular için daha keyifli olmasına yardımcı olur. Bu rehber, beta okuma arayüzünde nasıl gezineceğinizi ve nasıl etkili geri bildirim vereceğinizi gösterir."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Başlıca iletişim aracınız",
+      "content": "Yazara yorumlarınızı buradan bırakırsınız! Yorum panelini açmak için buraya tıklayın. Bölümle ilgili genel geri bildirim ekleyebilir, belirli pasajları vurgulayabilir, sorular sorabilir veya iyileştirmeler önerebilirsiniz. Yorumlarınız, yazarla iletişim kurmanızın başlıca yoludur."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Yorum arayüzü",
+      "content": "Yorum panelinde diğer beta okuyucuların bıraktığı geri bildirimleri görebilir ve kendinizinkini ekleyebilirsiniz. Düşüncelerinizi paylaşmak için alttaki yorum kutusunu kullanın. Neyin iyi işlediğini ve neyin geliştirilebileceğini somut biçimde belirtin; en yararlı geri bildirim yapıcı olandır!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Okuma araçları",
+      "content": "Okuma deneyiminizi kişiselleştirmek için bu araçları kullanın. Okumayı daha rahat hale getirmek için metin boyutunu ayarlayabilir, koyu modu açıp kapatabilir ve Open Dyslexic yazı tipi veya paragraf vurgulama gibi erişilebilirlik özelliklerini etkinleştirebilirsiniz."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Geri bildirim vermeye hazır mısınız?",
+      "content": "Artık beta okuma arayüzünde nasıl gezineceğinizi ve yazarlarla iletişim kurmak için yorum özelliğini nasıl kullanacağınızı biliyorsunuz. Önce bölümü okuyun, ardından kenar çubuğunu açın ve özenle düşünülmüş geri bildiriminizi paylaşın. Katkınız yazarların daha iyi hikayeler yaratmasına yardımcı olur!"
     }
   }
 }

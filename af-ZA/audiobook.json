@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Stemakteurs",
   "audiobook.team.you": "jy",
   "audiobook.whereToListen": "Waar om te luister",
+  "audiobook.team.members": "Spanlede",
+  "audiobook.team.noMembers": "Nog geen spanlede nie.",
   "audiobook.orgFeatureDisabled": "Oudioboeke is nie vir hierdie organisasie geaktiveer nie."
 }

@@ -2,7 +2,7 @@
   "universe.authors.title.meta": "{title} autori",
   "universe.fanfiction.see": "Toate Fan Fiction pentru {universe}",
   "universe.fanfiction.desc": "Fan Fiction pentru {universe}",
-  "universe.fanfiction.for": "{universe} Fan Fiction",
+  "universe.fanfiction.for": "Ficțiune creată de fani – {universe}",
   "universe.fanarts.for": "{universe} Artă Fan",
   "universe.fansettings.for": "{universe} Setări Fan",
   "universe.fanfiction.stories": "Povești",
@@ -31,8 +31,8 @@
   "universe.createdAt": "Creat: {date}",
   "universe.authors.none": "Nu sunt disponibile informații privind autorii.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Permite comentarii",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Imagine fan art",
   "universe.stories": "Stories"
 }

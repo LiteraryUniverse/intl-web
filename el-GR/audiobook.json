@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Αφηγητές",
   "audiobook.team.you": "εσείς",
   "audiobook.whereToListen": "Πού να ακούσετε",
+  "audiobook.team.members": "Μέλη ομάδας",
+  "audiobook.team.noMembers": "Δεν υπάρχουν ακόμη μέλη στην ομάδα.",
   "audiobook.orgFeatureDisabled": "Τα ηχητικά βιβλία δεν είναι ενεργοποιημένα για αυτόν τον οργανισμό."
 }

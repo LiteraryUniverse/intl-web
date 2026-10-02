@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Nascondi su schermi piccoli",
   "blog.people": "Persone",
   "blog.people.intro": "Dai a qualcuno accesso a una parte di questo blog senza cedere il tuo account. Ogni autorizzazione funziona da sola e vale solo per questo blog.",
   "blog.people.add": "Aggiungi qualcuno a questo blog",
@@ -347,12 +347,12 @@
   "blog.billing": "Fatturazione",
   "blog.billing.intro": "Gestisci l'abbonamento che paga questo blog: cambia piano, aggiorna il metodo di pagamento o scarica le fatture.",
   "blog.billing.open": "Apri il portale di fatturazione",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "Nascondi il nome del blog",
+  "blog.menus.logoSize": "Dimensione del logo",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "Larghezza intera",
   "blog.pages.import": "Importa modello di design",
   "blog.pages.import.hint": "Seleziona il file HTML del modello insieme alle immagini a cui fa riferimento. Testi e immagini restano modificabili dopo l'importazione.",
   "blog.pages.import.files": "File del modello + immagini",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monocromatica",
   "blog.theme.generate.mode.pastel": "Pastello",
   "blog.theme.generate.nudged": "Regolato per la leggibilità: {tokens}.",
-  "blog.theme.generate.unreadable": "Impossibile leggere quell'immagine. Scaricala e scegli il file."
+  "blog.theme.generate.unreadable": "Impossibile leggere quell'immagine. Scaricala e scegli il file.",
+  "blogs.readFullPost": "Leggi l'articolo completo"
 }

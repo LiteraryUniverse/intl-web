@@ -78,7 +78,7 @@
   "organizationLibrary.reader.open": "Åbn bibliotek",
   "organizationLibrary.creator.noProposals": "Ingen rettighedsforslag fra organisationer endnu.",
   "organizationLibrary.creator.statements": "Opgørelser",
-  "organizationLibrary.creator.downloadCsv": "Download CSV",
+  "organizationLibrary.creator.downloadCsv": "Hent CSV",
   "organizationLibrary.creator.units": "Enheder",
   "organizationLibrary.creator.revokeReason": "Årsag til tilbagekaldelse (påkrævet)",
   "organizationLibrary.admin.nav": "Biblioteksroyalties",

@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monochrome",
   "blog.theme.generate.mode.pastel": "Pastel",
   "blog.theme.generate.nudged": "Adjusted for readability: {tokens}.",
-  "blog.theme.generate.unreadable": "That picture could not be read. Download it and choose it as a file."
+  "blog.theme.generate.unreadable": "That picture could not be read. Download it and choose it as a file.",
+  "blogs.readFullPost": "Read the full post"
 }

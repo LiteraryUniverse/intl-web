@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "একৰঙী",
   "blog.theme.generate.mode.pastel": "পেষ্টেল",
   "blog.theme.generate.nudged": "পঢ়িবলৈ সহজ কৰিবলৈ মিলোৱা হৈছে: {tokens}।",
-  "blog.theme.generate.unreadable": "সেই ছবিখন পঢ়িব পৰা নগ'ল। ইয়াক ডাউনল'ড কৰি ফাইল হিচাপে বাছনি কৰক।"
+  "blog.theme.generate.unreadable": "সেই ছবিখন পঢ়িব পৰা নগ'ল। ইয়াক ডাউনল'ড কৰি ফাইল হিচাপে বাছনি কৰক।",
+  "blogs.readFullPost": "Read the full post"
 }

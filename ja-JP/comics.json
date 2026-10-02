@@ -135,7 +135,7 @@
   "comics.search.noResults": "漫画・コミックが見つかりませんでした。",
   "comics.search.status": "連載状況",
   "comics.settings.universe": "宇宙",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "作品の設定",
   "comics.split.author": "著者",
   "comics.splitMustTotal": "収益分配の合計は100%にする必要があります。",
   "comics.startReading": "読み始める",
@@ -196,6 +196,9 @@
   "comics.volumes": "巻",
   "comics.volumes.empty": "巻が定義されていません。",
   "comics.volumesHelp": "章の範囲を巻として販売します。章番号は範囲に含まれ、範囲同士が重複してはいけません。",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "予約済みの最後の章が公開された時点（{date}）で完了にする",
+  "comics.finish.scheduledNotice": "この{format}は、予約済みの最後の章が公開される{date}に完了としてマークされます。",
+  "comics.reader.loading": "コミック",
+  "comics.translation.mode.label": "モード: {mode}",
+  "comics.pagesCount": "{count, plural, other {# ページ}}"
 }

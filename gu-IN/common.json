@@ -121,6 +121,9 @@
   "common.justNow": "Just now",
   "common.label": "Label",
   "common.lang.select": "ભાષા પસંદ કરો",
+  "common.lang.change": "ભાષા બદલો",
+  "common.lang.readingLanguagePitch": "ઇન્ટરફેસ કરતાં જુદી ભાષામાં કથાઓ જોઈએ છે? તમારી વાંચનની ભાષા સેટ કરવા મફત ખાતું બનાવો.",
+  "common.lang.createAccount": "મફત ખાતું બનાવો",
   "common.language": "ભાષા",
   "common.legal.community": "સમુદાય માર્ગદર્શિકાઓ",
   "common.legal.cookies": "About cookies",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "કંઈક ખોટું થયું. કૃપા કરીને ફરી પ્રયાસ કરો.",
+  "common.savedOffline": "ઑફલાઇન સાચવ્યું. તમે ફરી કનેક્ટ થશો ત્યારે સિંક થશે.",
+  "common.synced": "બધા ફેરફારો સિંક થઈ ગયા.",
+  "common.autoSaveDeferred": "અત્યારે સાચવી શકાયું નહીં. તમારા ફેરફારો આ ઉપકરણ પર સચવાયેલા છે અને પછીથી સિંક થશે."
 }

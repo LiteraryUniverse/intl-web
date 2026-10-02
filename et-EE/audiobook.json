@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Ettelugejad",
   "audiobook.team.you": "sina",
   "audiobook.whereToListen": "Kus kuulata",
+  "audiobook.team.members": "Meeskonna liikmed",
+  "audiobook.team.noMembers": "Meeskonnas pole veel liikmeid.",
   "audiobook.orgFeatureDisabled": "Audioraamatud ei ole selle organisatsiooni jaoks lubatud."
 }

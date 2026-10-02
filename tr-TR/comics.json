@@ -135,7 +135,7 @@
   "comics.search.noResults": "Manga veya çizgi roman bulunamadı.",
   "comics.search.status": "Yayın durumu",
   "comics.settings.universe": "Evren",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Eser ayarları",
   "comics.split.author": "Yazar",
   "comics.splitMustTotal": "Gelir paylaşımı toplamı %100 olmalıdır.",
   "comics.startReading": "Okumaya başla",
@@ -196,6 +196,9 @@
   "comics.volumes": "Ciltler",
   "comics.volumes.empty": "Tanımlı cilt yok.",
   "comics.volumesHelp": "Bölüm aralıklarını cilt olarak satın. Bölüm numaraları dahildir ve aralıklar çakışmamalıdır.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Planlanan son bölüm yayınlandığında ({date}) tamamlandı olarak işaretle",
+  "comics.finish.scheduledNotice": "{format}, planlanan son bölümünün yayınlanacağı {date} tarihinde tamamlandı olarak işaretlenecek.",
+  "comics.reader.loading": "Çizgi roman",
+  "comics.translation.mode.label": "Mod: {mode}",
+  "comics.pagesCount": "{count, plural, one {# sayfa} other {# sayfa}}"
 }

@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "वॉइस एक्टर",
   "audiobook.team.you": "अहाँ",
   "audiobook.whereToListen": "कतय सुनू",
+  "audiobook.team.members": "Team members",
+  "audiobook.team.noMembers": "No team members yet.",
   "audiobook.orgFeatureDisabled": "एहि संगठन लेल ऑडियो पुस्तक सक्षम नहि अछि।"
 }

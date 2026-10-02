@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monokrom",
   "blog.theme.generate.mode.pastel": "Pastel",
   "blog.theme.generate.nudged": "Kasetél mangda dangan kawacén: {tokens}.",
-  "blog.theme.generate.unreadable": "Gambar punika nénten prasida kawacén. Unduh raris pilih dados file."
+  "blog.theme.generate.unreadable": "Gambar punika nénten prasida kawacén. Unduh raris pilih dados file.",
+  "blogs.readFullPost": "Read the full post"
 }

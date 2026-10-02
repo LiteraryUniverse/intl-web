@@ -113,12 +113,12 @@
   "writer.ruby.placeholder": "Zadejte čtení (např. かんじ)",
   "writer.linkToWork": "Odkaz na vesmír, příběh nebo kapitolu",
   "writer.insertWorkCard": "Vložte kartu příběhu nebo vesmíru",
-  "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
-  "writer.connectionSuggestions.help": "Preview a mention, then link it to your encyclopedia. Your chapter's words stay the same.",
-  "writer.connectionSuggestions.error": "We couldn't load your encyclopedia entries. Try again.",
-  "writer.connectionSuggestions.count": "{count, plural, one {# suggested link} other {# suggested links}}",
+  "writer.video": "Vložit video",
+  "writer.video.help": "Vložte URL adresu videa z YouTube, Vimea nebo Odysee. U Rumble použijte URL adresu z volby Embed IFRAME.",
+  "writer.connectionSuggestions.help": "Prohlédněte si zmínku a pak ji propojte se svou encyklopedií. Text Vaší kapitoly se nezmění.",
+  "writer.connectionSuggestions.error": "Hesla Vaší encyklopedie se nepodařilo načíst. Zkuste to znovu.",
+  "writer.connectionSuggestions.count": "{count, plural, one {# navrhovaný odkaz} few {# navrhované odkazy} many {# navrhovaného odkazu} other {# navrhovaných odkazů}}",
   "writer.connectionSuggestions.preview": "Preview \"{mention}\" for {entry}",
-  "writer.connectionSuggestions.restore": "Show dismissed ({count, number})",
-  "writer.connectionSuggestions.noEntries": "Your encyclopedia has no entries yet. Add your characters and places, and their mentions in this chapter will show up here."
+  "writer.connectionSuggestions.restore": "Zobrazit zamítnuté ({count, number})",
+  "writer.connectionSuggestions.noEntries": "Vaše encyklopedie zatím nemá žádná hesla. Přidejte své postavy a místa a jejich zmínky v této kapitole se objeví zde."
 }

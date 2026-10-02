@@ -135,7 +135,7 @@
   "comics.search.noResults": "Ühtegi mangat ega koomiksit ei leitud.",
   "comics.search.status": "Avaldamise olek",
   "comics.settings.universe": "Universum",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Teose seaded",
   "comics.split.author": "Autor",
   "comics.splitMustTotal": "Tulude jaotus peab kokku olema 100%.",
   "comics.startReading": "Alusta lugemist",
@@ -196,6 +196,9 @@
   "comics.volumes": "Köited",
   "comics.volumes.empty": "Köiteid pole määratud.",
   "comics.volumesHelp": "Müü peatükivahemikke köidetena. Peatükinumbrid on kaasavad ja vahemikud ei tohi kattuda.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Märgi lõpetatuks, kui viimane ajastatud peatükk ilmub ({date})",
+  "comics.finish.scheduledNotice": "{format} märgitakse lõpetatuks {date}, kui ilmub selle viimane ajastatud peatükk.",
+  "comics.reader.loading": "Koomiks",
+  "comics.translation.mode.label": "Režiim: {mode}",
+  "comics.pagesCount": "{count, plural, one {# lehekülg} other {# lehekülge}}"
 }

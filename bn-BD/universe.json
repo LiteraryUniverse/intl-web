@@ -27,12 +27,12 @@
   "universe.fanFiction.unhide": "ফ্যানফিকশন লুকান ছাড়ুন",
   "universe.fanFiction.create": "নতুন ফ্যান ফিকশন তৈরি করুন",
   "universe.fanFiction.notAllowed": "এই বিশ্বে ফ্যান ফিকশন প্রদর্শন করা অনুমোদিত নয়।",
-  "universe.storiesCount": "Total number of stories in the universe",
+  "universe.storiesCount": "মহাবিশ্বে গল্পের মোট সংখ্যা",
   "universe.createdAt": "Created: {date}",
-  "universe.authors.none": "No authors information available.",
+  "universe.authors.none": "লেখকদের কোনো তথ্য উপলব্ধ নেই।",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "মন্তব্যের অনুমতি দিন",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "ফ্যান আর্টের ছবি",
   "universe.stories": "Stories"
 }

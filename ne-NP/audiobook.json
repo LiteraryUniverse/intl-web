@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "भ्वाइस अभिनेताहरू",
   "audiobook.team.you": "तपाईं",
   "audiobook.whereToListen": "कहाँ सुन्ने",
+  "audiobook.team.members": "टोलीका सदस्यहरू",
+  "audiobook.team.noMembers": "अहिलेसम्म टोलीमा कोही सदस्य छैन।",
   "audiobook.orgFeatureDisabled": "यस संगठनका लागि अडियो पुस्तकहरू सक्षम गरिएका छैनन्।"
 }

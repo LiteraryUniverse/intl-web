@@ -19,9 +19,9 @@
   "personalNotes.type.encEntry": "ज्ञानकोश एंट्री",
   "personalNotes.type.revTextBlock": "संशोधन पाठ खंड",
   "personalNotes.recentSearches": "हालिया खोज:",
-  "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
+  "personalNotes.myNotes": "मेरे निजी नोट",
+  "personalNotes.hasNotes": "निजी नोट मौजूद हैं",
+  "personalNotes.recentSearched": "हाल की खोजें:",
+  "personalNotes.search.noFound": "कोई आइटम नहीं मिला",
   "personalNotes.type": "Type"
 }

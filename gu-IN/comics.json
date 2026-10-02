@@ -197,5 +197,8 @@
   "comics.volumes.empty": "કોઈ વૉલ્યુમ વ્યાખ્યાયિત નથી.",
   "comics.volumesHelp": "પ્રકરણ શ્રેણીઓને વૉલ્યુમ્સ તરીકે વેચો. પ્રકરણ નંબરો સમાવિષ્ટ છે અને શ્રેણીઓ ઓવરલેપ થવી જોઈએ નહીં.",
   "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
+  "comics.reader.loading": "Comic",
+  "comics.translation.mode.label": "Mode: {mode}",
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
 }

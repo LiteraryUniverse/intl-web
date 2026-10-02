@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Įgarsintojai",
   "audiobook.team.you": "jūs",
   "audiobook.whereToListen": "Kur klausytis",
+  "audiobook.team.members": "Komandos nariai",
+  "audiobook.team.noMembers": "Komandoje dar nėra narių.",
   "audiobook.orgFeatureDisabled": "Šiai organizacijai audioknygos neįjungtos."
 }

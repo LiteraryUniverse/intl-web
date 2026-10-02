@@ -7,7 +7,7 @@
   "universe.fansettings.for": "{universe} Rajongói Beállítás",
   "universe.fanfiction.stories": "Történetek",
   "universe.fanfiction.fanarts": "Ventilátor művészetek",
-  "universe.stories.count": "There {num, plural,\n    =0 {are no stories}\n    one {is one story}\n    other {are # stories}\n    } in this universe.",
+  "universe.stories.count": "Ebben az univerzumban {num, plural,\n    =0 {nincs történet}\n    one {egy történet van}\n    other {# történet van}\n    }.",
   "universe.authors.title": "Szerzők",
   "universe.authors.desc": "Készítők és hozzájárulók {universe}-hez",
   "universe.contributors": "Hozzájárulók",
@@ -31,8 +31,8 @@
   "universe.createdAt": "Létrehozva: {date}",
   "universe.authors.none": "A szerzőkről nem áll rendelkezésre információ.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Hozzászólások engedélyezése",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Rajongói művészeti kép",
   "universe.stories": "Stories"
 }

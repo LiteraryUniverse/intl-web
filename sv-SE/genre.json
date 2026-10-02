@@ -1,5 +1,5 @@
 {
-  "genre.scifi": "Science Fiction",
+  "genre.scifi": "Science fiction",
   "genre.fantasy": "Fantasy",
   "genre.adventure": "Äventyr",
   "genre.poetry": "Poesi",
@@ -55,5 +55,5 @@
   "genre.political.description": "Dokument som fokuserar på politiska ärenden, samhällsfrågor eller till exempel konstnärliga manifest.",
   "genre.history.description": "Historiska dokument och andra litterära material av historisk betydelse eller som beskriver historiska händelser.",
   "genre.isekai.description": "Denna subgenre av japanska lättromaner, manga och anime kretsar kring en karaktär som transporteras eller återföds till en annan värld eller alternativt universum. Protagonisten måste navigera och anpassa sig till den nya världens unika kulturer och miljöer, ofta genom att få nya förmågor och möta nya allierade och fiender längs vägen. Dessa berättelser kan variera från lättsamma och komiska till mörka och intensiva, men erbjuder alltid en fräsch och fantasifull tolkning av klassiska äventyrsteman.",
-  "genres.meta.description": "Explore stories across all genres on Literary Universe. Find your next favorite story in fantasy, sci-fi, romance, mystery, and more."
+  "genres.meta.description": "Utforska berättelser i alla genrer på Literary Universe. Hitta din nästa favoritberättelse inom fantasy, sci-fi, romance, mysterier och mer."
 }

@@ -300,5 +300,9 @@
   "org.setup.closed": "এই অব্যৱহৃত ছেটআপ বন্ধ কৰা হৈছে আৰু সংগঠনৰ ঠিকনা মুকলি কৰি দিয়া হৈছে। আপোনাৰ ৰেকৰ্ডসমূহ ইয়াত ৰখা হৈছে।",
   "org.setup.restart": "নতুন সংগঠন ছেটআপ আৰম্ভ কৰক",
   "org.setup.expiryNotice": "অব্যৱহৃত সংগঠনৰ ঠিকনা 30 দিনৰ পিছত মুকলি কৰি দিয়া হয়। আপুনি এতিয়াই এই ছেটআপ বাতিল কৰিবও পাৰে।",
-  "org.setup.inUse": "এই ছেটআপত বিলিং বা পে-আউটৰ কাৰ্যকলাপ আছে। খোলা থকা যিকোনো চেকআউটৰ ম্যাদ উকলি যোৱালৈ অপেক্ষা কৰক, বা ইয়াক বন্ধ কৰাৰ আগতে সহায়ৰ সৈতে যোগাযোগ কৰক।"
+  "org.setup.inUse": "এই ছেটআপত বিলিং বা পে-আউটৰ কাৰ্যকলাপ আছে। খোলা থকা যিকোনো চেকআউটৰ ম্যাদ উকলি যোৱালৈ অপেক্ষা কৰক, বা ইয়াক বন্ধ কৰাৰ আগতে সহায়ৰ সৈতে যোগাযোগ কৰক।",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

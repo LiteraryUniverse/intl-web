@@ -1,37 +1,37 @@
 {
   "consentModal": {
-    "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
-    "acceptAllBtn": "Accept all 🙏",
-    "acceptNecessaryBtn": "Reject all 🙅",
-    "showPreferencesBtn": "Manage preferences 🔧",
-    "footer": "<a href=\"/privacy\">Privacy Policy</a>\n<a href=\"/tos\">Terms and conditions</a>"
+    "title": "Saluton, vojaĝanto, estas tempo por kuketoj! 🍪",
+    "description": "Ni ne uzas kuketojn krom la necesaj funkciaj. Sed ni ja havas aliajn funkciojn por analizaj celoj, por kiuj ni bezonas vian aprobon.",
+    "acceptAllBtn": "Akcepti ĉiujn 🙏",
+    "acceptNecessaryBtn": "Rifuzi ĉiujn 🙅",
+    "showPreferencesBtn": "Administri preferojn 🔧",
+    "footer": "<a href=\"/privacy\">Privateca Politiko</a>\n<a href=\"/tos\">Kondiĉoj de Servado</a>"
   },
   "preferencesModal": {
-    "title": "Consent Preferences Center",
-    "acceptAllBtn": "Accept all 🙏",
-    "acceptNecessaryBtn": "Reject all 🙅",
-    "savePreferencesBtn": "Save preferences 💾",
-    "closeIconLabel": "Close modal",
+    "title": "Centro de konsentaj preferoj",
+    "acceptAllBtn": "Akcepti ĉiujn 🙏",
+    "acceptNecessaryBtn": "Rifuzi ĉiujn 🙅",
+    "savePreferencesBtn": "Konservi preferojn 💾",
+    "closeIconLabel": "Fermi la modalon",
     "serviceCounterLabel": "Service|Services",
     "sections": [
       {
-        "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "title": "Uzo de kuketoj 🍪",
+        "description": "Ĉi tiu retejo uzas strikte necesan kuketon, bezonatan por la kerna funkciado. Kun via permeso ni ankaŭ faras analizojn por kompreni la uzadon kaj plibonigi Literary Universe. Niaj analizoj ne dependas de kuketoj, sed ili povas uzi similajn teknologiojn aŭ retajn identigilojn kaj tial postulas vian konsenton en certaj jurisdikcioj."
       },
       {
-        "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
-        "description": "These cookies are from our hosting and payment provider that ensure that the application works correctly and you can connect.",
+        "title": "Strikte necesaj kuketoj <span class=\"pm__badge\">Ĉiam ebligitaj</span>",
+        "description": "Ĉi tiuj kuketoj venas de nia gastiga kaj paga provizanto kaj certigas, ke la aplikaĵo funkcias ĝuste kaj ke vi povas konektiĝi.",
         "linkedCategory": "necessary"
       },
       {
         "title": "Analytics 📊",
-        "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
+        "description": "Ni uzas diversajn analizajn servojn por ricevi informojn pri tio, kiel vi uzas nian retejon, kaj por plibonigi niajn reklamajn klopodojn.\n<ul>\n<li>Analizo (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Mezuras la uzadon, rendimenton kaj erarojn de la retejo por plibonigi Literary Universe. Neniuj kuketoj estas metataj por analizo, sed limigitaj teknikaj datumoj kaj identigiloj povas esti traktataj. Konsento necesas.</li>\n<li>Recelado (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helpas nin taksi kampanjojn kaj montri koncernajn reklamojn pri Literary Universe en aliaj retejoj. Neniuj kuketoj estas metataj en nia retejo por tio, sed similaj teknologioj aŭ identigiloj povas esti uzataj. Konsento necesas.</li>\n</ul>",
         "linkedCategory": "analytics"
       },
       {
-        "title": "More information",
-        "description": "For more information on our privacy policy, tracking services (including individual settings) and related information see our <a class=\"cc__link\" href=\"/privacy\">privacy policy page</a>."
+        "title": "Pliaj informoj",
+        "description": "Por pliaj informoj pri nia privateca politiko, spuraj servoj (inkluzive de unuopaj agordoj) kaj rilataj informoj, vidu nian <a class=\"cc__link\" href=\"/privacy\">paĝon pri la privateca politiko</a>."
       }
     ]
   }

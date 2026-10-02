@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Auf kleinen Bildschirmen ausblenden",
   "blog.people": "Personen",
   "blog.people.intro": "Gib jemandem Zugriff auf einen Teil dieses Blogs, ohne dein Konto aus der Hand zu geben. Jede Berechtigung wirkt für sich und gilt nur für diesen Blog.",
   "blog.people.add": "Jemanden zu diesem Blog hinzufügen",
@@ -347,12 +347,12 @@
   "blog.billing": "Abrechnung",
   "blog.billing.intro": "Verwalte das Abonnement, das diesen Blog bezahlt — Tarif wechseln, Zahlungsmethode aktualisieren oder Rechnungen herunterladen.",
   "blog.billing.open": "Zahlungsportal öffnen",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "Blognamen ausblenden",
+  "blog.menus.logoSize": "Logogröße",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "Volle Breite",
   "blog.pages.import": "Design-Vorlage importieren",
   "blog.pages.import.hint": "Wählen Sie die HTML-Datei der Vorlage zusammen mit den referenzierten Bildern. Texte und Bilder bleiben nach dem Import bearbeitbar.",
   "blog.pages.import.files": "Vorlagendatei + Bilder",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monochrom",
   "blog.theme.generate.mode.pastel": "Pastell",
   "blog.theme.generate.nudged": "Für Lesbarkeit angepasst: {tokens}.",
-  "blog.theme.generate.unreadable": "Dieses Bild konnte nicht gelesen werden. Laden Sie es herunter und wählen Sie es als Datei."
+  "blog.theme.generate.unreadable": "Dieses Bild konnte nicht gelesen werden. Laden Sie es herunter und wählen Sie es als Datei.",
+  "blogs.readFullPost": "Den ganzen Beitrag lesen"
 }

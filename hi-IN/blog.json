@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "छोटी स्क्रीन पर छिपाएँ",
   "blog.people": "लोग",
   "blog.people.intro": "अपना खाता सौंपे बिना किसी को इस ब्लॉग के एक हिस्से तक पहुँच दें। हर अनुमति अलग से काम करती है और सिर्फ़ इसी ब्लॉग पर लागू होती है।",
   "blog.people.add": "इस ब्लॉग में किसी को जोड़ें",
@@ -347,12 +347,12 @@
   "blog.billing": "भुगतान",
   "blog.billing.intro": "उस सदस्यता का प्रबंधन करें जो इस ब्लॉग का भुगतान करती है: योजना बदलें, भुगतान विधि अपडेट करें या चालान डाउनलोड करें।",
   "blog.billing.open": "भुगतान पोर्टल खोलें",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "ब्लॉग का नाम छिपाएँ",
+  "blog.menus.logoSize": "लोगो का आकार",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "पूरी चौड़ाई",
   "blog.pages.import": "डिज़ाइन टेम्पलेट आयात करें",
   "blog.pages.import.hint": "टेम्पलेट की HTML फ़ाइल को उन छवियों के साथ चुनें जिनका वह संदर्भ देती है। आयात के बाद भी टेक्स्ट और छवियाँ संपादन योग्य रहती हैं।",
   "blog.pages.import.files": "टेम्पलेट फ़ाइल + छवियाँ",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "एकरंगी",
   "blog.theme.generate.mode.pastel": "पेस्टल",
   "blog.theme.generate.nudged": "पठनीयता के लिए समायोजित: {tokens}।",
-  "blog.theme.generate.unreadable": "वह चित्र पढ़ा नहीं जा सका। उसे डाउनलोड करें और फ़ाइल के रूप में चुनें।"
+  "blog.theme.generate.unreadable": "वह चित्र पढ़ा नहीं जा सका। उसे डाउनलोड करें और फ़ाइल के रूप में चुनें।",
+  "blogs.readFullPost": "पूरी पोस्ट पढ़ें"
 }

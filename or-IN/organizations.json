@@ -300,5 +300,9 @@
   "org.setup.closed": "ଏହି ଅବ୍ୟବହୃତ ସେଟଅପ୍ ବନ୍ଦ କରାଯାଇଛି ଏବଂ ସଂଗଠନର ଠିକଣା ମୁକ୍ତ କରାଯାଇଛି। ଆପଣଙ୍କ ରେକର୍ଡ ଏଠାରେ ରଖାଯାଇଛି।",
   "org.setup.restart": "ନୂଆ ସଂଗଠନ ସେଟଅପ୍ ଆରମ୍ଭ କରନ୍ତୁ",
   "org.setup.expiryNotice": "ଅବ୍ୟବହୃତ ସଂଗଠନ ଠିକଣା 30 ଦିନ ପରେ ମୁକ୍ତ କରାଯାଏ। ଆପଣ ଏବେ ମଧ୍ୟ ଏହି ସେଟଅପ୍ ବାତିଲ କରିପାରିବେ।",
-  "org.setup.inUse": "ଏହି ସେଟଅପ୍‌ରେ ବିଲିଂ କିମ୍ବା ପେଆଉଟ୍ କାର୍ଯ୍ୟକଳାପ ଅଛି। ଖୋଲା ଥିବା କୌଣସି ଚେକଆଉଟ୍‌ର ମିଆଦ ଶେଷ ହେବା ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ, କିମ୍ବା ଏହାକୁ ବନ୍ଦ କରିବା ପୂର୍ବରୁ ସହାୟତା ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।"
+  "org.setup.inUse": "ଏହି ସେଟଅପ୍‌ରେ ବିଲିଂ କିମ୍ବା ପେଆଉଟ୍ କାର୍ଯ୍ୟକଳାପ ଅଛି। ଖୋଲା ଥିବା କୌଣସି ଚେକଆଉଟ୍‌ର ମିଆଦ ଶେଷ ହେବା ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ, କିମ୍ବା ଏହାକୁ ବନ୍ଦ କରିବା ପୂର୍ବରୁ ସହାୟତା ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

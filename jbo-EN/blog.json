@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "pavyska",
   "blog.theme.generate.mode.pastel": "pastela",
   "blog.theme.generate.nudged": "se galfi tezu'e lo ka tcidu: {tokens}",
-  "blog.theme.generate.unreadable": ".i na ka'e tcidu lo pixra .i ko kibycpa ri gi'e cuxna ri lo datnyvei"
+  "blog.theme.generate.unreadable": ".i na ka'e tcidu lo pixra .i ko kibycpa ri gi'e cuxna ri lo datnyvei",
+  "blogs.readFullPost": "Read the full post"
 }

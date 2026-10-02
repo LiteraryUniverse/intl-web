@@ -73,7 +73,7 @@
   "audiobook.settings.voiceProvider": "Provider ng boses (opsyonal)",
   "audiobook.sleepActive": "Hihinto ang pag-play pagkalipas ng mga {minutes} minuto",
   "audiobook.sleepMinutes": "{minutes} min",
-  "audiobook.sleepTimer": "Sleep timer",
+  "audiobook.sleepTimer": "Timer sa pagtulog",
   "audiobook.split": "Paghahati ng kita",
   "audiobook.split.author": "May-akda",
   "audiobook.split.fixedPercent": "{percent, number, ::percent scale/0.01}",
@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Mga voice actor",
   "audiobook.team.you": "ikaw",
   "audiobook.whereToListen": "Saan makikinig",
+  "audiobook.team.members": "Mga miyembro ng koponan",
+  "audiobook.team.noMembers": "Wala pang miyembro ng koponan.",
   "audiobook.orgFeatureDisabled": "Hindi naka-enable ang mga audiobook para sa organisasyong ito."
 }

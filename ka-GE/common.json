@@ -121,6 +121,9 @@
   "common.justNow": "Just now",
   "common.label": "Label",
   "common.lang.select": "აირჩიე ენა",
+  "common.lang.change": "ენის შეცვლა",
+  "common.lang.readingLanguagePitch": "გსურთ ისტორიები ინტერფეისისგან განსხვავებულ ენაზე? შექმენით უფასო ანგარიში და აირჩიეთ კითხვის ენა.",
+  "common.lang.createAccount": "უფასო ანგარიშის შექმნა",
   "common.language": "ენა",
   "common.legal.community": "საზოგადოების წესები",
   "common.legal.cookies": "ჩანაწერების შესახებ",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "რაღაც შეცდომა მოხდა. გთხოვთ, სცადოთ ხელახლა.",
+  "common.savedOffline": "შენახულია ხაზგარეშე. სინქრონიზაცია მოხდება, როცა კავშირი აღდგება.",
+  "common.synced": "ყველა ცვლილება სინქრონიზებულია.",
+  "common.autoSaveDeferred": "ახლა შენახვა ვერ მოხერხდა. თქვენი ცვლილებები ამ მოწყობილობაზეა შენახული და მოგვიანებით დასინქრონდება."
 }

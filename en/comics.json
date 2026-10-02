@@ -197,5 +197,8 @@
   "comics.volumes.empty": "No volumes defined.",
   "comics.volumesHelp": "Sell chapter ranges as volumes. Chapter numbers are inclusive and ranges must not overlap.",
   "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
+  "comics.reader.loading": "Comic",
+  "comics.translation.mode.label": "Mode: {mode}",
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
 }

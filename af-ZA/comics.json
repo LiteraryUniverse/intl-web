@@ -107,7 +107,7 @@
   "comics.purchaseMode.chapter": "Per hoofstuk",
   "comics.purchaseMode.full": "Hele {format}",
   "comics.purchaseMode.mixed": "Gemeng",
-  "comics.purchaseMode.volume": "Per volume",
+  "comics.purchaseMode.volume": "Per bundel",
   "comics.readAdaptation": "Lees die {format}",
   "comics.readEdition": "Lees: {title}",
   "comics.reader.asideAria": "Leserpanele",
@@ -135,7 +135,7 @@
   "comics.search.noResults": "Geen manga of strokiesprente gevind nie.",
   "comics.search.status": "Publikasiestatus",
   "comics.settings.universe": "Heelal",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Werkinstellings",
   "comics.split.author": "Outeur",
   "comics.splitMustTotal": "Inkomsteverdeling moet 100% totaal.",
   "comics.startReading": "Begin lees",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volumes",
   "comics.volumes.empty": "Geen volumes gedefinieer nie.",
   "comics.volumesHelp": "Verkoop hoofstukreekse as volumes. Hoofstuknommers is insluitend en reekse mag nie oorvleuel nie.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Merk as voltooi sodra die laaste geskeduleerde hoofstuk vrygestel word ({date})",
+  "comics.finish.scheduledNotice": "Die {format} sal op {date} as voltooi gemerk word, wanneer die laaste geskeduleerde hoofstuk vrygestel word.",
+  "comics.reader.loading": "Strokiesprent",
+  "comics.translation.mode.label": "Modus: {mode}",
+  "comics.pagesCount": "{count, plural, one {# bladsy} other {# bladsye}}"
 }

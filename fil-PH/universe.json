@@ -27,12 +27,12 @@
   "universe.fanFiction.unhide": "Huwag itago ang fanfiction",
   "universe.fanFiction.create": "Gumawa ng bagong fan fiction",
   "universe.fanFiction.notAllowed": "Ang Universe na ito ay hindi nagpapahintulot ng pagpapakita ng fan fiction.",
-  "universe.storiesCount": "Total number of stories in the universe",
+  "universe.storiesCount": "Kabuuang bilang ng mga kwento sa uniberso",
   "universe.createdAt": "Created: {date}",
-  "universe.authors.none": "No authors information available.",
+  "universe.authors.none": "Walang available na impormasyon tungkol sa mga may-akda.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Payagan ang mga komento",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Larawan ng fan art",
   "universe.stories": "Stories"
 }

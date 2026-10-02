@@ -19,9 +19,9 @@
   "personalNotes.type.encEntry": "สารานุกรม",
   "personalNotes.type.revTextBlock": "บล็อคข้อความการแก้ไข",
   "personalNotes.recentSearches": "การค้นหาล่าสุด:",
-  "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
+  "personalNotes.myNotes": "บันทึกส่วนตัวของฉัน",
+  "personalNotes.hasNotes": "มีบันทึกส่วนตัว",
+  "personalNotes.recentSearched": "การค้นหาล่าสุด:",
+  "personalNotes.search.noFound": "ไม่พบรายการ",
   "personalNotes.type": "Type"
 }

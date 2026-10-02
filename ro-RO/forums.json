@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Selectați o categorie...",
   "forums.posts.loadError": "Eroare la încărcarea postărilor",
   "forums.category.orgRoles": "Limitează la rolurile organizației (niciunul = toți membrii)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Editează răspunsul",
+  "forums.post.delete": "Șterge răspunsul",
+  "forums.post.deleteConfirm": "Ștergi acest răspuns? Nu va mai apărea în această discuție.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Acest răspuns a fost șters.",
+  "forums.post.hidden": "Acest răspuns este ascuns de moderare."
 }

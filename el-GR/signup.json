@@ -96,5 +96,6 @@
 	"signup.complete.description": "Σας ευχαριστούμε για τη συμπλήρωση του προφίλ σας. Προσαρμόσαμε την εμπειρία σας με βάση τις προτιμήσεις σας.",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "Οδηγός εγγραφής",
-	"signup.userType.artist.description": "Σχεδιάζω μάνγκα, κόμικς ή εικονογραφήσεις"
+	"signup.userType.artist.description": "Σχεδιάζω μάνγκα, κόμικς ή εικονογραφήσεις",
+  "signup.password2.label": "Επιβεβαίωση κωδικού πρόσβασης"
 }

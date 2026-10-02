@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ਇੱਕਰੰਗੀ",
   "blog.theme.generate.mode.pastel": "ਪੇਸਟਲ",
   "blog.theme.generate.nudged": "ਪੜ੍ਹਨਯੋਗਤਾ ਲਈ ਸੋਧਿਆ: {tokens}।",
-  "blog.theme.generate.unreadable": "ਉਹ ਤਸਵੀਰ ਪੜ੍ਹੀ ਨਹੀਂ ਜਾ ਸਕੀ। ਇਸਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਫ਼ਾਈਲ ਵਜੋਂ ਚੁਣੋ।"
+  "blog.theme.generate.unreadable": "ਉਹ ਤਸਵੀਰ ਪੜ੍ਹੀ ਨਹੀਂ ਜਾ ਸਕੀ। ਇਸਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਫ਼ਾਈਲ ਵਜੋਂ ਚੁਣੋ।",
+  "blogs.readFullPost": "ਪੂਰੀ ਪੋਸਟ ਪੜ੍ਹੋ"
 }

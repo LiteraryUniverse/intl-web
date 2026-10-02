@@ -2,431 +2,415 @@
   "common": {
     "next": "Επόμενο",
     "previous": "Προηγούμενο",
-    "skip": "Skip Tour",
+    "skip": "Παράλειψη περιήγησης",
     "close": "Κοντινή περιήγηση",
-    "end": "End Tour",
+    "end": "Τέλος περιήγησης",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "Χρησιμοποιήστε τα πλήκτρα βέλους για πλοήγηση και το ESC για κλείσιμο",
+    "start": "Έναρξη περιήγησης"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Καλώς ήρθατε στο ταμπλό σας",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Καλώς ήρθατε στο Literary Universe",
+      "content": "Ας κάνουμε μια σύντομη περιήγηση στο ταμπλό σας, για να ξεκινήσετε το συγγραφικό σας ταξίδι."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Κύρια πλοήγηση",
+      "content": "Αυτό είναι το κύριο μενού πλοήγησης. Ας δούμε ένα ένα τα στοιχεία του."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Η προσωπική σας αρχική σελίδα, με ενημερώσεις δραστηριότητας και πρόσβαση στο εργαστήριο, στη βιβλιοθήκη και στις κοινωνικές λειτουργίες."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Εξερευνήστε ιστορίες και σύμπαντα που δημιούργησαν άλλοι χρήστες. Διαβάστε παρασκήνια και αναλυτικές αναρτήσεις ιστολογίου από τους συγγραφείς. Βρείτε το επόμενο αγαπημένο σας ανάγνωσμα!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Η χαρά που μοιράζεται δεκαπλασιάζεται! Βρείτε ομάδες ανθρώπων με κοινά ενδιαφέροντα, ελάτε στο Discord μας και ανακαλύψτε ποιοι άλλοι βρίσκονται στο Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Το Σημειωματάριο είναι το προσωπικό σας τετράδιο, πάντα διαθέσιμο για να σημειώνετε ιδέες, σημειώσεις και σκέψεις."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Μείνετε ενημερωμένοι για σχόλια, νέους ακολούθους και άλλες αλληλεπιδράσεις της κοινότητας."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Επικοινωνήστε με άλλους συγγραφείς και αναγνώστες beta και συνεργαστείτε σε έργα."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Διαχειριστείτε τα προσωπικά σας στοιχεία, τις προτιμήσεις και τις ρυθμίσεις του λογαριασμού σας."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Ο δημιουργικός σας χώρος για τη συγγραφή, την επιμέλεια και τη διαχείριση των ιστοριών και των συμπάντων σας."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Η βιβλιοθήκη σας",
+        "content": "Όλες οι αποθηκευμένες ιστορίες, οι λίστες ανάγνωσης και το περιεχόμενο που έχετε κατεβάσει, σε ένα σημείο."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Μενού γρήγορης πρόσβασης",
+      "content": "Αυτή η πλαϊνή στήλη προσφέρει γρήγορη πρόσβαση σε σημαντικές λειτουργίες και εργαλεία."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Ως συγγραφέας, στο Εργαστήριό σας γίνεται η μαγεία! Ξεκινήστε μια νέα ιστορία, συνεχίστε μια υπάρχουσα ή αναπτύξτε το σύμπαν σας. Οι αναγνώστες σας περιμένουν!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Ως αναγνώστης, η Ανακάλυψη είναι η πύλη σας προς υπέροχες ιστορίες! Εξερευνήστε νέα είδη, ακολουθήστε τους αγαπημένους σας συγγραφείς και φτιάξτε τις λίστες ανάγνωσής σας. Καλή ανάγνωση!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "Πρώτη φορά εδώ; Κάντε μια σύντομη περιήγηση στο ταμπλό σας!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Καλώς ήρθατε στο εργαστήριό σας",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Καλώς ήρθατε στο Εργαστήριο του Literary Universe",
+      "content": "Το Εργαστήριο είναι η καρδιά του δημιουργικού σας ταξιδιού στο Literary Universe. Εδώ δημιουργείτε και διαχειρίζεστε τις ιστορίες και τα σύμπαντά σας και συνεργάζεστε πάνω σε αυτά."
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "Ο δρόμος του συγγραφέα",
+      "content": "Παρακολουθήστε την πρόοδό σας ως συγγραφέας με τον Δρόμο του συγγραφέα. Αυτό το σύστημα με στοιχεία παιχνιδιού σάς βοηθά να ανεβαίνετε επίπεδο καθώς κατακτάτε συγγραφικά ορόσημα και συμμετέχετε στην κοινότητα. Κάντε κλικ εδώ για να μάθετε πώς λειτουργεί."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Ξεκινήστε κάτι νέο",
+      "content": "Το «Ξεκινήστε να δημιουργείτε» σας ρωτά τι θέλετε να φτιάξετε: ένα σύμπαν για ιστορίες που μοιράζονται τον ίδιο κόσμο, μια αυτόνομη ιστορία, fan fiction ή ένα κόμικ. Σας καθοδηγεί στις πρώτες αποφάσεις και σας αφήνει με ένα πρόχειρο. Τίποτα δεν δημοσιεύεται μέχρι να το δημοσιεύσετε εσείς."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Όλα τα έργα σας",
+      "content": "Εδώ εμφανίζεται κάθε σύμπαν, ιστορία, κόμικ και ηχητικό βιβλίο που σας ανήκει ή στο οποίο εργάζεστε. Τα κουμπιά στα δεξιά εναλλάσσουν την προβολή ανάμεσα σε εξώφυλλα και σε συμπαγή λίστα. Οι προσκλήσεις για συνεργασία, μετάφραση ή ανάγνωση beta εμφανίζονται πάνω από τη λίστα ως αιτήματα που μπορείτε να αποδεχτείτε ή να απορρίψετε."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Βρείτε το έργο που χρειάζεστε",
+      "content": "Η Πρόσβαση περιορίζει τη λίστα στα έργα που σας ανήκουν, στα έργα όπου συμμετέχετε στην ομάδα, στις μεταφράσεις ή στις ιστορίες που ελέγχετε ως αναγνώστης beta. Η Μορφή και η Κατάσταση την περιορίζουν ακόμη περισσότερο, ενώ η Ταξινόμηση φέρνει πρώτο το έργο που ενημερώθηκε πιο πρόσφατα."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Συνεχίστε το ταξίδι σας",
+      "content": "Να θυμάστε να επιστρέφετε εδώ για να βλέπετε την πρόοδό σας στον Δρόμο του συγγραφέα. Συνεχίστε να γράφετε, να συνεργάζεστε και να συμμετέχετε στην κοινότητα για να ανεβείτε επίπεδο! Και τώρα, ας αρχίσουμε να γράφουμε!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Η προσωπική σας βιβλιοθήκη",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Συνεχίστε την ανάγνωση",
+      "content": "Καλώς ήρθατε στην προσωπική σας βιβλιοθήκη! Εδώ βλέπετε τις ιστορίες και τα σύμπαντα που έχετε προσθέσει για να παρακολουθείτε την πρόοδο της ανάγνωσής σας. Η ενότητα «Συνεχίστε την ανάγνωση» δείχνει το περιεχόμενο που ανοίξατε πιο πρόσφατα, ώστε να συνεχίζετε εύκολα από εκεί που σταματήσατε."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Ολόκληρη η βιβλιοθήκη σας",
+      "content": "Αυτή η καρτέλα δείχνει όλα όσα υπάρχουν στη βιβλιοθήκη σας. Οι διπλανές καρτέλες περιορίζουν την προβολή σε ιστορίες, αγορές, ηχητικά βιβλία, manga και κόμικς ή σύμπαντα. Προσθέστε μια ιστορία ή ένα σύμπαν στη βιβλιοθήκη σας για να λαμβάνετε ενημερώσεις και να μη χάνετε το σημείο όπου βρίσκεστε."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Οι ιστορίες σας",
+      "content": "Εδώ είναι οργανωμένες όλες οι ιστορίες που έχετε προσθέσει στη βιβλιοθήκη σας. Παρακολουθήστε την πρόοδο της ανάγνωσής σας, λάβετε ειδοποιήσεις για νέα κεφάλαια και μη χάνετε ποτέ το σημείο όπου σταματήσατε στις αγαπημένες σας ιστορίες."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Τα σύμπαντά σας",
+      "content": "Εδώ εμφανίζονται τα σύμπαντα που έχετε προσθέσει στη βιβλιοθήκη σας. Μείνετε ενημερωμένοι για νέες ιστορίες σε αυτά τα σύμπαντα, εξερευνήστε τις εγκυκλοπαίδειές τους και αξιοποιήστε τις λειτουργίες της κοινότητας."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Λίστες ανάγνωσης",
+      "content": "Δημιουργήστε και διαχειριστείτε εδώ τις προσωπικές σας λίστες ανάγνωσης. Οργανώστε τις ιστορίες ανά θέμα, σειρά ή όποιο κριτήριο σας εξυπηρετεί. Μοιραστείτε τις λίστες σας με άλλους ή κρατήστε τις ιδιωτικές."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Προσωπικές σημειώσεις",
+      "content": "Με συνδρομή στην πλατφόρμα, μπορείτε να προσθέτετε προσωπικές σημειώσεις σε οποιαδήποτε ιστορία, σύμπαν ή καταχώρηση εγκυκλοπαίδειας. Καταγράψτε τις σκέψεις, τις θεωρίες και τις παρατηρήσεις σας καθώς διαβάζετε και εξερευνάτε το Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Έτοιμοι να χτίσετε τη βιβλιοθήκη σας;",
+      "content": "Ξεκινήστε να προσθέτετε ιστορίες και σύμπαντα στη βιβλιοθήκη σας από την Ανακάλυψη. Παρακολουθήστε την πρόοδο της ανάγνωσής σας, δημιουργήστε λίστες ανάγνωσης και εμπλουτίστε την εμπειρία σας με προσωπικές σημειώσεις. Το λογοτεχνικό σας ταξίδι σάς περιμένει!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Εργαστήριο σύμπαντος",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Καλώς ήρθατε στο εργαστήριο του σύμπαντός σας!",
+      "content": "Συγχαρητήρια για το πρώτο σας σύμπαν! Αυτό είναι το κέντρο ελέγχου από όπου χτίζετε και διαχειρίζεστε τον λογοτεχνικό σας κόσμο. Ας δούμε όλα τα εργαλεία που θα σας βοηθήσουν να του δώσετε ζωή."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Διαχειριστείτε τις ιστορίες σας",
+      "content": "Εδώ διαχειρίζεστε όλες τις ιστορίες του σύμπαντός σας. Δημιουργήστε νέες ιστορίες, επεξεργαστείτε τις υπάρχουσες και οργανώστε την αφήγησή σας σε πολλές αλληλένδετες ιστορίες. Κάθε ιστορία μπορεί να αξιοποιήσει την κοινή εγκυκλοπαίδεια του σύμπαντος και τις λειτουργίες της κοινότητας."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Χτίστε την εγκυκλοπαίδειά σας",
+      "content": "Δημιουργήστε και διαχειριστείτε την εγκυκλοπαίδεια του σύμπαντός σας: τη βάση γνώσης που ζωντανεύει τον κόσμο σας. Προσθέστε χαρακτήρες, τοποθεσίες, θρύλους και άλλες λεπτομέρειες που μπορούν να εξερευνήσουν οι αναγνώστες. Μια πλούσια εγκυκλοπαίδεια κάνει το σύμπαν σας πιο καθηλωτικό και βοηθά τους αναγνώστες να κατανοήσουν το πλαίσιο των ιστοριών σας."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Η σελίδα του σύμπαντός σας",
+      "content": "Αυτή είναι η δημόσια σελίδα του σύμπαντός σας, όπου οι επισκέπτες μπορούν να γνωρίσουν τον κόσμο σας, να διαβάσουν τις ιστορίες σας, να εξερευνήσουν την εγκυκλοπαίδεια και να συμμετάσχουν στην κοινότητά σας. Προσαρμόστε τη για να αναδείξετε το σύμπαν σας και να προσελκύσετε νέους αναγνώστες."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Διαχειριστείτε τις μεταφράσεις",
+      "content": "Συντονίστε τη μετάφραση του περιεχομένου του σύμπαντός σας σε άλλες γλώσσες. Διαχειριστείτε τους μεταφραστές, παρακολουθήστε την πρόοδο και φροντίστε οι ιστορίες σας να φτάσουν σε παγκόσμιο κοινό. Οι μεταφράσεις σάς φέρνουν κοντά σε αναγνώστες από όλο τον κόσμο."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Διαχειριστής οπαδών",
+      "content": "Διαχειριστείτε τις αλληλεπιδράσεις με τους θαυμαστές και τις δημιουργίες που εμπνέονται από το σύμπαν σας. Παρακολουθήστε fan fiction, εικαστικά και άλλο περιεχόμενο της κοινότητας. Επικοινωνήστε με τους θαυμαστές σας και χτίστε μια ζωντανή κοινότητα γύρω από τον κόσμο σας."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Παρακολουθήστε την επιτυχία σας",
+      "content": "Παρακολουθήστε την απόδοση του σύμπαντός σας με αναλυτικά στατιστικά. Δείτε τη συμμετοχή των αναγνωστών, τις δημοφιλείς ιστορίες, τις προβολές της εγκυκλοπαίδειας και άλλους δείκτες που σας βοηθούν να καταλάβετε τι αγγίζει το κοινό σας."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Εσωτερικό φόρουμ σχεδιασμού",
+      "content": "Το εσωτερικό φόρουμ του σύμπαντός σας, για σχεδιασμό και συντονισμό με συνεργάτες και μεταφραστές. Συζητήστε τα αφηγηματικά τόξα και τις λεπτομέρειες του κόσμου και συντονίστε τις δημιουργικές σας προσπάθειες. Αυτός ο ιδιωτικός χώρος βοηθά την ομάδα σας να συνεργάζεται αποτελεσματικά."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Διαχειριστείτε τους συνεργάτες",
+      "content": "Προσκαλέστε συγγραφείς, καλλιτέχνες και άλλους δημιουργούς να συνεργαστούν στο σύμπαν σας. Αναθέστε ρόλους και δικαιώματα, διαχειριστείτε τα επίπεδα πρόσβασης και φτιάξτε μια ομάδα για να αναπτύξετε μαζί τον κόσμο σας."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Ρυθμίσεις εσόδων",
+      "content": "Ρυθμίστε πώς αποκομίζετε έσοδα από το σύμπαν σας και το περιεχόμενό του. Ορίστε premium πρόσβαση, διαχειριστείτε συνδρομές και καθορίστε τον επιμερισμό εσόδων με τους συνεργάτες. Μετατρέψτε το δημιουργικό σας έργο σε βιώσιμη πηγή εισοδήματος."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Κέντρο επίλυσης",
+      "content": "Χειριστείτε διαφορές, παραβιάσεις περιεχομένου και άλλα ζητήματα που μπορεί να προκύψουν στο σύμπαν σας. Αυτό το κεντρικό σύστημα βοηθά να διατηρείται μια θετική κοινότητα και να επιλύονται αποτελεσματικά οι συγκρούσεις."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Ρυθμίσεις σύμπαντος",
+      "content": "Ρυθμίστε τις βασικές παραμέτρους του σύμπαντός σας, όπως το απόρρητο, τον έλεγχο πρόσβασης, τις κατηγορίες και άλλες θεμελιώδεις επιλογές. Αυτές οι ρυθμίσεις καθορίζουν πώς λειτουργεί το σύμπαν σας και ποιοι μπορούν να αλληλεπιδρούν με αυτό."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Ρύθμιση φόρουμ",
+      "content": "Προσαρμόστε λεπτομερώς τις ρυθμίσεις του φόρουμ του σύμπαντός σας. Δημιουργήστε κατηγορίες, ορίστε κανόνες συντονισμού, ρυθμίστε δικαιώματα και διαμορφώστε τους χώρους συζήτησης ώστε να εξυπηρετούν τις ανάγκες της κοινότητάς σας."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Έτοιμοι να χτίσετε το σύμπαν σας;",
+      "content": "Έχετε πλέον όλα τα εργαλεία που χρειάζεστε για να δημιουργήσετε ένα πλούσιο και συναρπαστικό σύμπαν. Ξεκινήστε προσθέτοντας μερικές ιστορίες, αναπτύσσοντας την εγκυκλοπαίδειά σας και προσκαλώντας συνεργάτες. Ο λογοτεχνικός σας κόσμος περιμένει να δημιουργηθεί!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Ταμπλό ιστορίας",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Καλώς ήρθατε στο ταμπλό της ιστορίας σας!",
+      "content": "Αυτό είναι το κέντρο ελέγχου της ιστορίας σας, από όπου διαχειρίζεστε κάθε πτυχή της αφήγησής σας. Εδώ μπορείτε να γράφετε κεφάλαια, να οργανώνετε τη δομή της ιστορίας, να συνεργάζεστε με άλλους και να παρακολουθείτε την πρόοδό σας. Ας δούμε τις βασικές λειτουργίες."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Προσθήκη νέων κεφαλαίων",
+      "content": "Από εδώ προσθέτετε νέα κεφάλαια στην ιστορία σας. Κάντε κλικ στο κουμπί «Νέο κεφάλαιο» για να δημιουργήσετε ένα κεφάλαιο. Η ιστορία σας θα τακτοποιεί αυτόματα τα κεφάλαια στη σωστή σειρά. Μπορείτε επίσης να προσθέσετε κεφάλαια από το κάτω μέρος της λίστας κεφαλαίων."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Παρακολουθήστε την πρόοδό σας",
+      "content": "Παρακολουθήστε τη συγγραφική σας πρόοδο και τη συμμετοχή του κοινού με αναλυτικά στατιστικά. Δείτε πόσους αναγνώστες έχετε, παρακολουθήστε τις προβολές των κεφαλαίων και αναλύστε την απόδοση της ιστορίας σας στον χρόνο."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Διαχειριστείτε τους συνεργάτες",
+      "content": "Προσκαλέστε άλλους συγγραφείς να συνεργαστούν στην ιστορία σας. Αναθέστε διαφορετικούς ρόλους και δικαιώματα, συντονίστε τη συγγραφή και διαχειριστείτε τη δημιουργική σας ομάδα. Ιδανικό για ομαδικά συγγραφικά έργα."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Διαχείριση μεταφράσεων",
+      "content": "Συντονίστε τη μετάφραση της ιστορίας σας σε άλλες γλώσσες. Διαχειριστείτε τους μεταφραστές, παρακολουθήστε την πρόοδο των μεταφράσεων και κάντε την ιστορία σας προσβάσιμη σε παγκόσμιο κοινό."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Ρυθμίσεις εσόδων",
+      "content": "Ρυθμίστε πώς αποκομίζετε έσοδα από την ιστορία σας. Ορίστε premium κεφάλαια, διαχειριστείτε τις επιλογές συνδρομής και καθορίστε τον επιμερισμό εσόδων με τους συνεργάτες. Μετατρέψτε τη γραφή σας σε εισόδημα."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Ρυθμίσεις ιστορίας",
+      "content": "Ρυθμίστε τις βασικές παραμέτρους της ιστορίας σας, όπως το απόρρητο, τις επιλογές δημοσίευσης, τις κατηγορίες και άλλες θεμελιώδεις προτιμήσεις. Αυτές οι ρυθμίσεις καθορίζουν πώς εμφανίζεται και πώς λειτουργεί η ιστορία σας."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Γενικές σημειώσεις",
+      "content": "Καταγράψτε τη συνολική δομή της ιστορίας σας, τα σημεία της πλοκής, τα τόξα των χαρακτήρων και τις σημαντικές σημειώσεις. Αυτός είναι ο προσωπικός σας χώρος σχεδιασμού για την οργάνωση της αφήγησής σας."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Προσωπικές προκλήσεις γραφής",
+      "content": "Θέστε προσωπικούς συγγραφικούς στόχους και παρακολουθήστε την πρόοδό σας με προκλήσεις. Ορίστε ημερήσιους ή εβδομαδιαίους στόχους λέξεων, βάλτε προθεσμίες για κεφάλαια και δώστε στον εαυτό σας κίνητρο να γράφει σταθερά. Είναι το ιδιωτικό σας εργαλείο για να τηρείτε το συγγραφικό σας πρόγραμμα."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Διαχείριση γραμμών ιστορίας",
+      "content": "Οργανώστε την ιστορία σας σε διαφορετικές γραμμές πλοκής και νήματα. Παρακολουθήστε τα τόξα των χαρακτήρων, τις δευτερεύουσες πλοκές και τα αφηγηματικά στοιχεία. Ιδανικό για σύνθετες ιστορίες με πολλά αλληλένδετα στοιχεία."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Διαχειριστής σκηνών",
+      "content": "Οργανώστε και διαχειριστείτε τις επιμέρους σκηνές των κεφαλαίων σας. Παρακολουθήστε την πρόοδο των σκηνών, αλλάξτε τη σειρά τους και διατηρήστε τη ροή της αφηγηματικής δομής."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Νομικά έγγραφα",
+      "content": "Αποκτήστε πρόσβαση σε σημαντικά νομικά έγγραφα που αφορούν την ιστορία σας, όπως στοιχεία πνευματικών δικαιωμάτων, συμβάσεις έκδοσης και διαχείριση δικαιωμάτων. Κρατήστε τα νομικά σας ζητήματα σε τάξη."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Δημόσια έκδοση",
+      "content": "Δείτε την ιστορία σας όπως εμφανίζεται στους αναγνώστες στον δημόσιο ιστότοπο. Ελέγξτε τη μορφοποίηση, δοκιμάστε τους συνδέσμους και βεβαιωθείτε ότι όλα φαίνονται τέλεια πριν τη μοιραστείτε με το κοινό σας."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Μοιραστείτε την ιστορία σας",
+      "content": "Μοιραστείτε την ιστορία σας στα κοινωνικά δίκτυα με έτοιμα κείμενα και συνδέσμους για τις δημοφιλείς πλατφόρμες. Έχετε στη διάθεσή σας περιεχόμενο έτοιμο προς χρήση, που αναδεικνύει το έργο σας και σας βοηθά να φτάσετε σε νέους αναγνώστες σε διάφορα δίκτυα."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Κέντρο επίλυσης",
+      "content": "Χειριστείτε τυχόν νομικές διαφορές, παραβιάσεις των Όρων χρήσης ή άλλα ζητήματα που αφορούν την ιστορία σας. Αυτό το κέντρο συγκεντρώνει όλα τα προβλήματα που έχουν αναφερθεί και παρέχει εργαλεία για την επίλυση συγκρούσεων και τη διατήρηση ενός θετικού κλίματος στην κοινότητα."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Διαχείριση κατάστασης ιστορίας",
+      "content": "Ελέγξτε την κατάσταση δημοσίευσης της ιστορίας σας με αυτές τις σημαντικές επιλογές. «Ενεργή» σημαίνει ότι η ιστορία σας ενημερώνεται τακτικά. «Σε αναστολή» δηλώνει προσωρινή διακοπή. «Ακυρωμένη» σημαίνει ότι σταματήσατε να τη γράφετε. «Ολοκληρωμένη» σημαίνει ότι η ιστορία σας έχει τελειώσει. Επιλέξτε την κατάσταση που ανταποκρίνεται καλύτερα στη συγγραφική σας πραγματικότητα. Σημείωση: οι ιστορίες αλλάζουν αυτόματα σε «Σε αναστολή» μετά από 6 μήνες χωρίς εξέλιξη και σε «Ακυρωμένη» μετά από άλλους 6 μήνες αδράνειας."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Έτοιμοι να αρχίσετε να γράφετε;",
+      "content": "Τώρα ξέρετε πώς να διαχειρίζεστε κάθε πτυχή της ιστορίας σας. Ξεκινήστε προσθέτοντας το πρώτο σας κεφάλαιο και έπειτα εξερευνήστε τα διαθέσιμα εργαλεία. Η ιστορία σας περιμένει να γραφτεί!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Περιήγηση στον επεξεργαστή ιστοριών",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Καλώς ήρθατε στον επεξεργαστή ιστοριών!",
+      "content": "Αυτός είναι ο χώρος εργασίας όπου θα γράφετε τις ιστορίες σας. Ο επεξεργαστής διαθέτει ισχυρά εργαλεία που σας βοηθούν να γράφετε, να οργανώνετε και να δημοσιεύετε το έργο σας. Ας δούμε τις βασικές λειτουργίες."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Μέγεθος κειμένου",
+      "content": "Προσαρμόστε το μέγεθος του κειμένου για άνετη ανάγνωση όσο γράφετε. Εναλλάξτε ανάμεσα σε κανονικό και μεγάλο μέγεθος για να ξεκουράζετε τα μάτια σας στις πολύωρες συνεδρίες γραφής."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Εναλλαγή σκοτεινής λειτουργίας",
+      "content": "Εναλλάξτε ανάμεσα στο φωτεινό και το σκοτεινό θέμα. Η σκοτεινή λειτουργία ξεκουράζει τα μάτια στις νυχτερινές συνεδρίες γραφής και βοηθά στη συγκέντρωση."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Εργαλεία προσβασιμότητας",
+      "content": "Εδώ θα βρείτε γραμματοσειρές φιλικές προς τη δυσλεξία, επισήμανση παραγράφων και άλλες λειτουργίες προσβασιμότητας για τη δική σας άνεση."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Εμφάνιση ή απόκρυψη πλαϊνού πίνακα",
+      "content": "Εμφανίστε ή αποκρύψτε τον πλαϊνό πίνακα. Περιέχει χρήσιμα εργαλεία, όπως το σημειωματάριό σας, τις σημειώσεις της ιστορίας, την εγκυκλοπαίδεια, τα σχόλια και τον βοηθό AI."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Λειτουργία πλήρους οθόνης",
+      "content": "Μεταβείτε σε πλήρη οθόνη για να μεγιστοποιήσετε τον χώρο γραφής και να εξαλείψετε τους περισπασμούς. Ιδανικό για συγκεντρωμένες συνεδρίες γραφής."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Αποθηκεύστε τη δουλειά σας",
+      "content": "Το πρόχειρό σας αποθηκεύεται αυτόματα. Η δουλειά σας αποθηκεύεται καθώς πληκτρολογείτε, αλλά μπορείτε και να αποθηκεύσετε χειροκίνητα ανά πάσα στιγμή."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Επιλογές δημοσίευσης",
+      "content": "Όταν τελειώσετε με το πρόχειρο, είναι ώρα να δημιουργήσετε μια αναθεώρηση. Μπορείτε να δημιουργήσετε αναθεώρηση για τους αναγνώστες beta ή για το κοινό. Όταν αποφασίσετε να δημοσιεύσετε, εσείς ορίζετε πότε θα γίνει ορατό το κεφάλαιο."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Τίτλος κεφαλαίου",
+      "content": "Κάντε κλικ στον τίτλο για να τον αλλάξετε."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Γράψτε προσωπικές σημειώσεις για το κεφάλαιό σας ή απλώς ένα μήνυμα προς το κοινό. Θα εμφανίζεται στους αναγνώστες σας πριν από το κεφάλαιο (όπως ακριβώς εδώ) και είναι ένας αποτελεσματικός τρόπος να κάνετε ανακοινώσεις ή να μοιραστείτε σκέψεις για την ιστορία μέχρι τώρα."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Κύριο κείμενο ιστορίας",
+      "content": "Αυτός είναι ο κύριος χώρος γραφής, όπου η ιστορία σας παίρνει ζωή. Γράψτε εδώ το περιεχόμενο του κεφαλαίου σας, με όλες τις δυνατότητες μορφοποίησης εμπλουτισμένου κειμένου."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Εργαλειοθήκη πλαϊνής στήλης",
+      "content": "Ο πλαϊνός πίνακας περιέχει χρήσιμα εργαλεία και πληροφορίες. Χρησιμοποιήστε το μενού στο επάνω μέρος για να εναλλάσσετε προβολές, όπως το σημειωματάριό σας, τις αναφορές της εγκυκλοπαίδειας, τα σχόλια και το AI Assistant."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Προσωπικό σημειωματάριο",
+      "content": "Το προσωπικό σας σημειωματάριο είναι πάντα διαθέσιμο για ιδέες, σημειώσεις ή έμπνευση. Κρατήστε εδώ σκέψεις που δεν χωρούν στην κύρια ιστορία αλλά μπορεί να φανούν χρήσιμες αργότερα."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Σημειώσεις ιστορίας",
+      "content": "Δείτε τις γενικές σημειώσεις και το υλικό σχεδιασμού της ιστορίας σας. Καταγράψτε περιλήψεις πλοκής, τόξα χαρακτήρων, λεπτομέρειες του κόσμου και άλλες οργανωτικές πληροφορίες."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Πρόσβαση στην εγκυκλοπαίδεια",
+      "content": "Γρήγορη πρόσβαση στην εγκυκλοπαίδεια του σύμπαντός σας. Συμβουλευτείτε στοιχεία για χαρακτήρες, τοποθεσίες, θρύλους και άλλα στοιχεία του κόσμου σας ενώ γράφετε. Τα υπόλοιπα κουμπιά εδώ σας επιτρέπουν να αναζητάτε και να προσθέτετε νέες καταχωρήσεις."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Σχόλια κεφαλαίου",
+      "content": "Δείτε τα σχόλια σε αυτό το κεφάλαιο από αναγνώστες beta, συνεργάτες και άλλους αναγνώστες και απαντήστε σε αυτά. Επικοινωνήστε με το κοινό σας και λάβετε πολύτιμη ανατροφοδότηση."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Πριν δημοσιεύσετε, υπάρχουν σημαντικά πράγματα που αξίζει να ελέγξετε. Εδώ κρύβονται μια λίστα εκκρεμοτήτων πριν από τη δημοσίευση και άλλα μικρότερα, ενδιαφέροντα σημεία προς έλεγχο."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "Ρωτήστε τον βοηθό για την ιστορία, το σύμπαν και την εγκυκλοπαίδειά σας. Μπορεί να ελέγξει τη συνέπεια, να διορθώσει ένα απόσπασμα ή να αναζητήσει κάτι. Απαντά σε ερωτήσεις για τα γραπτά σας και δεν γράφει αντί για εσάς. Λειτουργεί με το δικό σας κλειδί API, το οποίο προσθέτετε στις ρυθμίσεις σας."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Έτοιμοι να αρχίσετε να γράφετε;",
+      "content": "Τώρα ξέρετε πώς να χρησιμοποιείτε όλες τις ισχυρές λειτουργίες του επεξεργαστή ιστοριών. Αρχίστε να γράφετε το κεφάλαιό σας και εξερευνήστε τα εργαλεία όποτε τα χρειαστείτε. Αν χρειαστείτε βοήθεια, δείτε τη βοήθειά μας, τον Δρόμο του συγγραφέα ή επικοινωνήστε μαζί μας. Και τώρα, ας γράψουμε ιστορίες!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Περιήγηση στον μεταφραστή ιστοριών",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Καλώς ήρθατε στον μεταφραστή ιστοριών!",
+      "content": "Ας ρίξουμε μια γρήγορη ματιά. Χρησιμοποιήστε αυτόν τον χώρο εργασίας για να μεταφράσετε το πρωτότυπο κείμενο, έχοντας το υλικό αναφοράς πάντα πρόχειρο."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Το πρωτότυπο κείμενο αριστερά",
+      "content": "Στην αριστερή πλευρά εμφανίζονται το πρωτότυπο κεφάλαιο και οι σημειώσεις του συγγραφέα. Κρατήστε τα ανοιχτά ως αναφορά όσο εργάζεστε."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Η μετάφραση δεξιά",
+      "content": "Γράψτε τη μετάφρασή σας στα δεξιά. Ό,τι αποθηκεύετε εδώ γίνεται η έκδοση που θα βλέπουν οι αναγνώστες αυτής της γλώσσας."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Πρόσβαση στην εγκυκλοπαίδεια του σύμπαντος",
+      "content": "Χρειάζεστε πληροφορίες για τον κόσμο ή ορολογία; Στην πλαϊνή στήλη θα βρείτε πρόσβαση στην εγκυκλοπαίδεια του σύμπαντος, για να το κατανοήσετε καλύτερα."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Καλώς ήρθατε στην Εγκυκλοπαίδεια",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Η εγκυκλοπαίδεια του σύμπαντός σας",
+      "content": "Καλώς ήρθατε στην εγκυκλοπαίδειά σας! Εδώ οργανώνετε όλη τη γνώση για το σύμπαν σας και τη μοιράζεστε με τους θαυμαστές σας."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Οργανώστε το περιεχόμενό σας",
+      "content": "Εναλλάξτε ανάμεσα στις προβολές «Κατηγορίες» και «Ομάδες». Οι Κατηγορίες δείχνουν τις καταχωρήσεις οργανωμένες ανά τύπο (Χαρακτήρες, Τοποθεσίες κ.λπ.), ενώ οι Ομάδες σάς επιτρέπουν να βλέπετε τις καταχωρήσεις με βάση τις ομαδοποιήσεις των προσαρμοσμένων πεδίων τους, που ορίζονται από τις γονικές καταχωρήσεις και ούτω καθεξής."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Οι κατηγορίες σας",
+      "content": "Αυτές είναι οι κατηγορίες της εγκυκλοπαίδειάς σας. Κάθε κατηγορία έχει το δικό της πρότυπο για την οργάνωση των πληροφοριών. Κάντε κλικ σε μια κατηγορία για να την αναπτύξετε και να δείτε τις καταχωρήσεις της."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Βρείτε αυτό που χρειάζεστε",
+      "content": "Χρησιμοποιήστε την αναζήτηση για να βρείτε γρήγορα οποιαδήποτε καταχώρηση της εγκυκλοπαίδειάς σας. Αναζητήστε με όνομα, περιεχόμενο ή ετικέτες και εντοπίστε αμέσως την πληροφορία."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Δημιουργήστε νέες καταχωρήσεις",
+      "content": "Προσθέστε νέες καταχωρήσεις στην εγκυκλοπαίδειά σας. Κάθε κατηγορία έχει το δικό της πρότυπο φόρμας για να ξεκινήσετε, αλλά μπορείτε να το προσαρμόσετε όπως θέλετε."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Προσαρμόστε την εγκυκλοπαίδειά σας",
+      "content": "Φροντίστε να ελέγξετε τις ρυθμίσεις της εγκυκλοπαίδειάς σας, για να διαλέξετε ποιες κατηγορίες θέλετε να χρησιμοποιείτε, να ορίσετε το μήνυμα καλωσορίσματος και τις υπόλοιπες λεπτομέρειες της εγκυκλοπαίδειας."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Τώρα γνωρίζετε τα βασικά! Επιστρέψτε στο εργαστήριό σας για να συνεχίσετε να χτίζετε το σύμπαν σας ή αρχίστε να προσθέτετε καταχωρήσεις στην εγκυκλοπαίδειά σας. Καλή γραφή!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Οδηγός αναγνώστη beta",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Καλώς ήρθατε στην ανάγνωση beta!",
+      "content": "Ως αναγνώστης beta, έχετε καθοριστικό ρόλο στο να βοηθάτε τους συγγραφείς να βελτιώνουν τις ιστορίες τους. Η ανατροφοδότησή σας βοηθά να εντοπίζονται προβλήματα, να γίνεται πιο σαφές το κείμενο και να γίνονται οι ιστορίες πιο απολαυστικές για τους αναγνώστες. Αυτός ο οδηγός θα σας δείξει πώς να κινείστε στο περιβάλλον ανάγνωσης beta και πώς να δίνετε χρήσιμη ανατροφοδότηση."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Το βασικό σας εργαλείο επικοινωνίας",
+      "content": "Εδώ αφήνετε σχόλια για τον συγγραφέα! Κάντε κλικ εδώ για να ανοίξετε τον πίνακα σχολίων. Μπορείτε να προσθέσετε γενικά σχόλια για το κεφάλαιο, να επισημάνετε συγκεκριμένα αποσπάσματα, να κάνετε ερωτήσεις ή να προτείνετε βελτιώσεις. Τα σχόλιά σας είναι ο κύριος τρόπος επικοινωνίας σας με τον συγγραφέα."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Περιβάλλον σχολιασμού",
+      "content": "Στον πίνακα σχολίων βλέπετε την ανατροφοδότηση που έχουν ήδη αφήσει άλλοι αναγνώστες beta και προσθέτετε τη δική σας. Χρησιμοποιήστε το πλαίσιο σχολίων στο κάτω μέρος για να μοιραστείτε τις σκέψεις σας. Γράψτε συγκεκριμένα τι λειτουργεί καλά και τι θα μπορούσε να βελτιωθεί: η εποικοδομητική ανατροφοδότηση είναι η πιο χρήσιμη!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Εργαλεία ανάγνωσης",
+      "content": "Χρησιμοποιήστε αυτά τα εργαλεία για να προσαρμόσετε την εμπειρία ανάγνωσής σας. Μπορείτε να αλλάξετε το μέγεθος του κειμένου, να ενεργοποιήσετε τη σκοτεινή λειτουργία και λειτουργίες προσβασιμότητας, όπως τη γραμματοσειρά Open Dyslexic ή την επισήμανση παραγράφων, για πιο άνετη ανάγνωση."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Έτοιμοι να δώσετε ανατροφοδότηση;",
+      "content": "Τώρα ξέρετε πώς να κινείστε στο περιβάλλον ανάγνωσης beta και πώς να χρησιμοποιείτε τα σχόλια για να επικοινωνείτε με τους συγγραφείς. Ξεκινήστε διαβάζοντας το κεφάλαιο και έπειτα ανοίξτε την πλαϊνή στήλη και μοιραστείτε τις προσεκτικές παρατηρήσεις σας. Η συμβολή σας βοηθά τους συγγραφείς να δημιουργούν καλύτερες ιστορίες!"
     }
   }
 }

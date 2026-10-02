@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Pengisi suara",
   "audiobook.team.you": "Anda",
   "audiobook.whereToListen": "Tempat mendengarkan",
+  "audiobook.team.members": "Anggota tim",
+  "audiobook.team.noMembers": "Belum ada anggota tim.",
   "audiobook.orgFeatureDisabled": "Buku audio tidak diaktifkan untuk organisasi ini."
 }

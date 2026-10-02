@@ -300,5 +300,9 @@
   "org.setup.closed": "Dúnadh an socrú neamhúsáidte seo agus scaoileadh seoladh na heagraíochta. Coinnítear do thaifid anseo.",
   "org.setup.restart": "Tosaigh socrú nua eagraíochta",
   "org.setup.expiryNotice": "Scaoiltear seoltaí eagraíochta neamhúsáidte tar éis 30 lá. Is féidir leat an socrú seo a chur i leataobh anois freisin.",
-  "org.setup.inUse": "Tá gníomhaíocht billeála nó íocaíochta amach ar an socrú seo. Fan go rachaidh aon seiceáil amach oscailte in éag, nó téigh i dteagmháil leis an tacaíocht sula ndúnfaidh tú é."
+  "org.setup.inUse": "Tá gníomhaíocht billeála nó íocaíochta amach ar an socrú seo. Fan go rachaidh aon seiceáil amach oscailte in éag, nó téigh i dteagmháil leis an tacaíocht sula ndúnfaidh tú é.",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

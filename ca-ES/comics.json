@@ -135,7 +135,7 @@
   "comics.search.noResults": "No s'ha trobat cap manga ni còmic.",
   "comics.search.status": "Estat de publicació",
   "comics.settings.universe": "Univers",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Configuració de l'obra",
   "comics.split.author": "Autor",
   "comics.splitMustTotal": "El repartiment d’ingressos ha de sumar el 100%.",
   "comics.startReading": "Comença a llegir",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volums",
   "comics.volumes.empty": "No hi ha cap volum definit.",
   "comics.volumesHelp": "Ven intervals de capítols com a volums. Els números de capítol són inclusius i els intervals no s’han de solapar.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Marca com a completat quan es publiqui l'últim capítol programat ({date})",
+  "comics.finish.scheduledNotice": "L'obra ({format}) es marcarà com a completada el {date}, quan es publiqui l'últim capítol programat.",
+  "comics.reader.loading": "Còmic",
+  "comics.translation.mode.label": "Mode: {mode}",
+  "comics.pagesCount": "{count, plural, one {# pàgina} other {# pàgines}}"
 }

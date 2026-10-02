@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Wählen Sie eine Kategorie aus...",
   "forums.posts.loadError": "Fehler beim Laden der Beiträge",
   "forums.category.orgRoles": "Auf Organisationsrollen beschränken (keine = alle Mitglieder)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Antwort bearbeiten",
+  "forums.post.delete": "Antwort löschen",
+  "forums.post.deleteConfirm": "Diese Antwort löschen? Sie erscheint dann nicht mehr in dieser Diskussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Diese Antwort wurde gelöscht.",
+  "forums.post.hidden": "Diese Antwort wurde von der Moderation ausgeblendet."
 }

@@ -135,7 +135,7 @@
   "comics.search.noResults": "Nu s-au găsit manga sau benzi desenate.",
   "comics.search.status": "Starea publicării",
   "comics.settings.universe": "Univers",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Setările operei",
   "comics.split.author": "Autor",
   "comics.splitMustTotal": "Împărțirea veniturilor trebuie să totalizeze 100%.",
   "comics.startReading": "Începe lectura",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volume",
   "comics.volumes.empty": "Niciun volum definit.",
   "comics.volumesHelp": "Vinde intervale de capitole ca volume. Numerele capitolelor sunt incluse, iar intervalele nu trebuie să se suprapună.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Marchează ca finalizată după apariția ultimului capitol programat ({date})",
+  "comics.finish.scheduledNotice": "{format} va fi marcat(ă) ca finalizat(ă) pe {date}, când apare ultimul capitol programat.",
+  "comics.reader.loading": "Bandă desenată",
+  "comics.translation.mode.label": "Mod: {mode}",
+  "comics.pagesCount": "{count, plural, one {# pagină} few {# pagini} other {# de pagini}}"
 }

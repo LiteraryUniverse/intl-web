@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "اختر فئة...",
   "forums.posts.loadError": "خطأ في تحميل المنشورات",
   "forums.category.orgRoles": "التقييد بأدوار المنظمة (بلا تحديد = جميع الأعضاء)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "تعديل الرد",
+  "forums.post.delete": "حذف الرد",
+  "forums.post.deleteConfirm": "هل تريد حذف هذا الرد؟ لن يظهر بعد ذلك في هذا النقاش.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "حُذف هذا الرد.",
+  "forums.post.hidden": "هذا الرد مخفي بقرار من الإشراف."
 }

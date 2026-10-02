@@ -71,6 +71,7 @@
   "settings.country.title": "Your country",
   "settings.country.usage": "We are legally obliged to inquire about your country in order to respond to government inquiries. We use this data for platform analytics and in anonymized analytics to creators when you read their stories. If you wish you can display this information on your profile.",
   "settings.country.public": "Display your country publicly",
+  "settings.country.currency": "પસંદગીનું ચલણ",
   "settings.country.select": "Select your country",
   "settings.emailSubscriptions.newsletterTech": "Occasional newsletter from our developers",
   "settings.emailSubscriptions.newsletterFeatures": "Information about new features",

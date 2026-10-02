@@ -96,5 +96,6 @@
 	"signup.complete.description": "Merci d'avoir complété votre profil. Nous avons personnalisé votre expérience en fonction de vos préférences.",
 	"signup.password2.label": "Confirmer le mot de passe",
 	"signup.wizard.title": "Assistant d'inscription",
-	"signup.userType.artist.description": "Je dessine des mangas, des BD ou des illustrations"
+	"signup.userType.artist.description": "Je dessine des mangas, des BD ou des illustrations",
+  "signup.writer.mediaType.fanFiction.title": "Fan fiction"
 }

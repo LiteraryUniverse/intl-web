@@ -96,5 +96,6 @@
 	"signup.complete.description": "Tak, fordi du har udfyldt din profil. Vi har tilpasset din oplevelse ud fra dine præferencer.",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "Tilmeldingsguide",
-	"signup.userType.artist.description": "Jeg tegner manga, tegneserier eller illustrationer"
+	"signup.userType.artist.description": "Jeg tegner manga, tegneserier eller illustrationer",
+  "signup.password2.label": "Bekræft adgangskode"
 }

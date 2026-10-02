@@ -28,5 +28,5 @@
   "challenges.day": "Day",
   "challenges.words": "Words",
   "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.minimumRequired": "최소 요구 분량: {words}단어"
 }

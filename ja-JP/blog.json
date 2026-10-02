@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "小さい画面では非表示にする",
   "blog.people": "メンバー",
   "blog.people.intro": "アカウントを渡さずに、このブログの一部だけを他の人に任せられます。各権限はそれぞれ独立して働き、このブログにのみ適用されます。",
   "blog.people.add": "このブログにメンバーを追加",
@@ -347,12 +347,12 @@
   "blog.billing": "支払い",
   "blog.billing.intro": "このブログの費用を支払っているサブスクリプションを管理します。プランの変更、支払い方法の更新、請求書のダウンロードができます。",
   "blog.billing.open": "支払いポータルを開く",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "ブログ名を非表示にする",
+  "blog.menus.logoSize": "ロゴのサイズ",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "全幅",
   "blog.pages.import": "デザインテンプレートをインポート",
   "blog.pages.import.hint": "テンプレートのHTMLファイルと、参照している画像を選択してください。テキストと画像はインポート後も編集できます。",
   "blog.pages.import.files": "テンプレートファイル + 画像",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "モノクローム",
   "blog.theme.generate.mode.pastel": "パステル",
   "blog.theme.generate.nudged": "読みやすさのために調整しました: {tokens}。",
-  "blog.theme.generate.unreadable": "この画像を読み取れませんでした。ダウンロードしてファイルとして選択してください。"
+  "blog.theme.generate.unreadable": "この画像を読み取れませんでした。ダウンロードしてファイルとして選択してください。",
+  "blogs.readFullPost": "記事の全文を読む"
 }

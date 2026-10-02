@@ -1,37 +1,37 @@
 {
   "consentModal": {
-    "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
-    "acceptAllBtn": "Accept all 🙏",
-    "acceptNecessaryBtn": "Reject all 🙅",
-    "showPreferencesBtn": "Manage preferences 🔧",
-    "footer": "<a href=\"/privacy\">Privacy Policy</a>\n<a href=\"/tos\">Terms and conditions</a>"
+    "title": "Hei, reisende, det er tid for informasjonskapsler! 🍪",
+    "description": "Vi bruker ikke andre informasjonskapsler enn de nødvendige funksjonelle. Men vi har annen funksjonalitet for analyseformål som vi trenger din godkjenning for.",
+    "acceptAllBtn": "Godta alle 🙏",
+    "acceptNecessaryBtn": "Avvis alle 🙅",
+    "showPreferencesBtn": "Administrer preferanser 🔧",
+    "footer": "<a href=\"/privacy\">Personvernerklæring</a>\n<a href=\"/tos\">Vilkår og betingelser</a>"
   },
   "preferencesModal": {
-    "title": "Consent Preferences Center",
-    "acceptAllBtn": "Accept all 🙏",
-    "acceptNecessaryBtn": "Reject all 🙅",
-    "savePreferencesBtn": "Save preferences 💾",
-    "closeIconLabel": "Close modal",
+    "title": "Senter for samtykkepreferanser",
+    "acceptAllBtn": "Godta alle 🙏",
+    "acceptNecessaryBtn": "Avvis alle 🙅",
+    "savePreferencesBtn": "Lagre preferanser 💾",
+    "closeIconLabel": "Lukk vinduet",
     "serviceCounterLabel": "Service|Services",
     "sections": [
       {
-        "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "title": "Bruk av informasjonskapsler 🍪",
+        "description": "Dette nettstedet bruker strengt nødvendige informasjonskapsler som kreves for kjernefunksjonaliteten. Med din tillatelse kjører vi også analyser for å forstå bruken og forbedre Literary Universe. Analysene våre er ikke avhengige av informasjonskapsler, men de kan bruke lignende teknologier eller nettidentifikatorer og krever derfor ditt samtykke i enkelte jurisdiksjoner."
       },
       {
-        "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
-        "description": "These cookies are from our hosting and payment provider that ensure that the application works correctly and you can connect.",
+        "title": "Strengt nødvendige informasjonskapsler <span class=\"pm__badge\">Alltid aktivert</span>",
+        "description": "Disse informasjonskapslene kommer fra leverandøren vår av hosting og betaling og sørger for at applikasjonen fungerer som den skal, og at du kan koble til.",
         "linkedCategory": "necessary"
       },
       {
         "title": "Analytics 📊",
-        "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
+        "description": "Vi bruker ulike analysetjenester for å få informasjon om hvordan du bruker nettstedet vårt, og for å forbedre annonseringen vår.\n<ul>\n<li>Analyse (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Måler bruk, ytelse og feil på nettstedet for å forbedre Literary Universe. Det settes ingen informasjonskapsler for analyse, men begrensede tekniske data og identifikatorer kan bli behandlet. Samtykke kreves.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Hjelper oss med å vurdere kampanjer og vise relevante kampanjer om Literary Universe på andre nettsteder. Det settes ingen informasjonskapsler på nettstedet vårt for dette, men lignende teknologier eller identifikatorer kan bli brukt. Samtykke kreves.</li>\n</ul>",
         "linkedCategory": "analytics"
       },
       {
-        "title": "More information",
-        "description": "For more information on our privacy policy, tracking services (including individual settings) and related information see our <a class=\"cc__link\" href=\"/privacy\">privacy policy page</a>."
+        "title": "Mer informasjon",
+        "description": "For mer informasjon om personvernerklæringen vår, sporingstjenester (inkludert individuelle innstillinger) og relatert informasjon, se <a class=\"cc__link\" href=\"/privacy\">siden med personvernerklæringen vår</a>."
       }
     ]
   }

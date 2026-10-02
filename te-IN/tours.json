@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "టూర్‌ను దాటవేయి",
+    "close": "టూర్‌ను మూసివేయి",
+    "end": "టూర్‌ను ముగించు",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "కదలడానికి బాణం కీలను, మూసివేయడానికి ESC ను ఉపయోగించండి",
+    "start": "టూర్‌ను ప్రారంభించు"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "మీ డాష్బోర్డ్‌కు స్వాగతం",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Literary Universe కు స్వాగతం",
+      "content": "మీ రచనా ప్రయాణాన్ని ప్రారంభించడంలో సహాయపడేందుకు, మీ డాష్బోర్డ్‌ను ఒకసారి త్వరగా చూసొద్దాం."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "ప్రధాన నావిగేషన్",
+      "content": "ఇది మీ ప్రధాన నావిగేషన్ మెనూ. ఒక్కొక్కటిగా చూద్దాం."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "కార్యకలాపాల అప్‌డేట్‌లతో కూడిన మీ వ్యక్తిగత హోమ్‌పేజీ; ఇక్కడి నుండి మీ వర్క్షాప్, లైబ్రరీ, సామాజిక ఫీచర్లకు వెళ్లవచ్చు."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "ఇతర వినియోగదారులు సృష్టించిన కథలను, యూనివర్స్‌లను అన్వేషించండి. రచయితల తెరవెనుక విశేషాలను, లోతైన బ్లాగ్ పోస్ట్‌లను చదవండి. మీకు నచ్చే తదుపరి కథను కనుగొనండి!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "పంచుకున్న ఆనందం పదింతల ఆనందం! మీలాంటి అభిరుచులున్న వారి గుంపులను కనుగొనండి, మా Discord లో చేరండి, Literary Universe లో ఇంకెవరున్నారో తెలుసుకోండి!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "స్క్రాచ్‌పాడ్ మీ వ్యక్తిగత నోట్‌బుక్; ఆలోచనలు, గమనికలు, భావాలను రాసుకోవడానికి ఎల్లప్పుడూ అందుబాటులో ఉంటుంది."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "వ్యాఖ్యలు, ఫాలోలు మరియు ఇతర కమ్యూనిటీ కార్యకలాపాల గురించి ఎప్పటికప్పుడు తెలుసుకోండి."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "ఇతర రచయితలతో, బీటా రీడర్లతో మాట్లాడండి, ప్రాజెక్టులపై కలిసి పనిచేయండి."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "మీ వ్యక్తిగత సమాచారం, ప్రాధాన్యతలు, ఖాతా సెట్టింగులను నిర్వహించండి."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "మీ కథలను, యూనివర్స్‌లను రాయడానికి, సవరించడానికి, నిర్వహించడానికి మీ సృజనాత్మక స్థలం."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "మీ లైబ్రరీ",
+        "content": "మీరు సేవ్ చేసిన కథలు, చదివిన పటికలు, డౌన్‌లోడ్ చేసిన కంటెంట్ అన్నీ ఒకే చోట."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "త్వరిత యాక్సెస్ మెనూ",
+      "content": "ఈ సైడ్‌బార్ ముఖ్యమైన ఫీచర్లకు, సాధనాలకు త్వరిత యాక్సెస్ ఇస్తుంది."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "రచయితగా, అసలు మాయ జరిగేది మీ వర్క్షాప్‌లోనే! కొత్త కథను మొదలుపెట్టండి, ఉన్నదాన్ని కొనసాగించండి, లేదా మీ యూనివర్స్‌ను విస్తరించండి. మీ పాఠకులు ఎదురుచూస్తున్నారు!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "పాఠకుడిగా, అద్భుతమైన కథలకు మీ ద్వారం ఆవిష్కరణ! కొత్త జాన్రెలను అన్వేషించండి, మీకు ఇష్టమైన రచయితలను అనుసరించండి, మీ చదివిన పటికలను తయారు చేసుకోండి. హాయిగా చదవండి!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "ఇక్కడ కొత్తా? మీ డాష్బోర్డ్‌ను ఒకసారి త్వరగా చూసి రండి!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "మీ వర్క్షాప్‌కు స్వాగతం",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Literary Universe వర్క్షాప్‌కు స్వాగతం",
+      "content": "Literary Universe లో మీ సృజనాత్మక ప్రయాణానికి గుండెకాయ మీ వర్క్షాప్. ఇక్కడ మీ కథలను, యూనివర్స్‌లను సృష్టించవచ్చు, నిర్వహించవచ్చు, ఇతరులతో కలిసి పనిచేయవచ్చు."
     },
     "theWay": {
       "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "The Way of the Author తో రచయితగా మీ పురోగతిని గమనించండి. ఆట తరహాలో ఉండే ఈ వ్యవస్థలో, రచనా మైలురాళ్లను పూర్తి చేస్తూ, కమ్యూనిటీతో కలిసిమెలిసి ఉంటూ మీరు స్థాయి పెంచుకోవచ్చు. ఇది ఎలా పనిచేస్తుందో తెలుసుకోవడానికి ఇక్కడ క్లిక్ చేయండి."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "కొత్తగా ఏదైనా మొదలుపెట్టండి",
+      "content": "Start creating మీరు ఏమి సృష్టించాలనుకుంటున్నారో అడుగుతుంది: ఒకే ప్రపంచాన్ని పంచుకునే కథల కోసం ఒక యూనివర్స్, విడిగా నిలిచే ఒక కథ, అభిమాని కథలు, లేదా ఒక కామిక్. తొలి నిర్ణయాలలో అది మీకు దారి చూపి, చివరికి ఒక డ్రాఫ్ట్‌ను మీ చేతిలో పెడుతుంది. మీరు ప్రచురించే వరకు ఏదీ ప్రచురితం కాదు."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "మీ ప్రాజెక్టులన్నీ",
+      "content": "మీ సొంతమైన లేదా మీరు పనిచేస్తున్న ప్రతి యూనివర్స్, కథ, కామిక్, ఆడియోబుక్ ఇక్కడ జాబితాగా ఉంటుంది. కుడివైపు బటన్లు కవర్ల వీక్షణకు, కుదించిన జాబితాకు మధ్య మారుస్తాయి. కలిసి పనిచేయడానికి, అనువదించడానికి లేదా బీటా రీడింగ్‌కు వచ్చిన ఆహ్వానాలు, మీరు అంగీకరించగల లేదా తిరస్కరించగల అభ్యర్థనలుగా జాబితా పైన కనిపిస్తాయి."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "మీకు కావలసిన ప్రాజెక్టును కనుగొనండి",
+      "content": "యాక్సెస్ జాబితాను మీ సొంత ప్రాజెక్టులు, మీరు బృందంలో ఉన్న ప్రాజెక్టులు, అనువాదాలు, లేదా బీటా రీడర్‌గా మీరు సమీక్షించే కథలకు కుదిస్తుంది. ఆకృతి, స్థితి దాన్ని ఇంకా కుదిస్తాయి; క్రమం ఇటీవల అప్‌డేట్ అయిన ప్రాజెక్టును ముందు ఉంచుతుంది."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "మీ ప్రయాణాన్ని కొనసాగించండి",
+      "content": "The Way of the Author లో మీ పురోగతిని చూడటానికి అప్పుడప్పుడూ ఇక్కడికి రావడం మర్చిపోకండి. స్థాయి పెంచుకోవడానికి రాస్తూ ఉండండి, కలిసి పనిచేయండి, కమ్యూనిటీతో కలిసిమెలిసి ఉండండి! ఇక రాయడం మొదలుపెడదాం!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "మీ వ్యక్తిగత లైబ్రరీ",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "చదవడం కొనసాగించండి",
+      "content": "మీ వ్యక్తిగత లైబ్రరీకి స్వాగతం! మీ పఠన పురోగతిని గమనించడానికి మీరు జోడించిన కథలను, యూనివర్స్‌లను ఇక్కడ చూడవచ్చు. చదవడం కొనసాగించండి విభాగం మీరు ఇటీవల తెరిచిన కంటెంట్‌ను చూపిస్తుంది, కాబట్టి ఆపిన చోటు నుండే సులభంగా కొనసాగించవచ్చు."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "మీ పూర్తి లైబ్రరీ",
+      "content": "ఈ ట్యాబ్ మీ లైబ్రరీలో ఉన్నదంతా చూపిస్తుంది. పక్కనున్న ట్యాబ్‌లు దాన్ని కథలు, కొనుగోళ్లు, ఆడియోబుక్‌లు, మాంగా మరియు కామిక్స్, లేదా యూనివర్స్‌లకు కుదిస్తాయి. అప్‌డేట్‌లు పొందడానికి, చదివిన చోటును గుర్తుంచుకోవడానికి ఒక కథను లేదా యూనివర్స్‌ను మీ లైబ్రరీకి జోడించండి."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "మీ కథలు",
+      "content": "మీరు లైబ్రరీకి జోడించిన కథలన్నీ ఇక్కడ క్రమబద్ధంగా ఉంటాయి. మీ పఠన పురోగతిని గమనించండి, కొత్త అధ్యాయాల గురించి నోటిఫికేషన్‌లు పొందండి, మీకు ఇష్టమైన కథలలో చదివిన చోటును ఎప్పుడూ కోల్పోకండి."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "మీ యూనివర్స్‌లు",
+      "content": "మీరు లైబ్రరీకి జోడించిన యూనివర్స్‌లు ఇక్కడ కనిపిస్తాయి. ఈ యూనివర్స్‌లలో వచ్చే కొత్త కథల గురించి తెలుసుకోండి, వాటి విజ్ఞానకోశాలను అన్వేషించండి, కమ్యూనిటీ ఫీచర్లలో పాలుపంచుకోండి."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "చదివిన పటికలు",
+      "content": "మీ వ్యక్తిగత చదివిన పటికలను ఇక్కడ సృష్టించి నిర్వహించండి. థీమ్‌లు, సిరీస్‌లు లేదా మీకు సరిపోయే ఏ ప్రమాణం ప్రకారమైనా కథలను అమర్చుకోండి. మీ జాబితాలను ఇతరులతో పంచుకోవచ్చు లేదా ప్రైవేట్‌గా ఉంచుకోవచ్చు."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "వ్యక్తిగత గమనికలు",
+      "content": "ప్లాట్‌ఫారమ్ సబ్‌స్క్రిప్షన్‌తో, ఏ కథకైనా, యూనివర్స్‌కైనా, విజ్ఞానకోశం ఎంట్రీకైనా వ్యక్తిగత గమనికలను జోడించవచ్చు. Literary Universe ను చదువుతూ, అన్వేషిస్తూ మీ ఆలోచనలు, ఊహలు, అవగాహనలను రాసుకోండి."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "మీ లైబ్రరీని నిర్మించడానికి సిద్ధమా?",
+      "content": "ఆవిష్కరణ నుండి కథలను, యూనివర్స్‌లను మీ లైబ్రరీకి జోడించడం మొదలుపెట్టండి. మీ పఠన పురోగతిని గమనించండి, చదివిన పటికలను సృష్టించండి, వ్యక్తిగత గమనికలతో మీ అనుభవాన్ని మెరుగుపరచుకోండి. మీ సాహిత్య ప్రయాణం ఎదురుచూస్తోంది!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "యూనివర్స్ వర్క్షాప్",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "మీ యూనివర్స్ వర్క్షాప్‌కు స్వాగతం!",
+      "content": "మీ మొదటి యూనివర్స్‌ను సృష్టించినందుకు అభినందనలు! మీ సాహిత్య ప్రపంచాన్ని నిర్మించడానికి, నిర్వహించడానికి ఇదే మీ నియంత్రణ కేంద్రం. మీ యూనివర్స్‌కు ప్రాణం పోయడానికి అందుబాటులో ఉన్న శక్తివంతమైన సాధనాలన్నింటినీ చూద్దాం."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "మీ కథలను నిర్వహించండి",
+      "content": "మీ యూనివర్స్‌లోని కథలన్నింటినీ మీరు ఇక్కడే నిర్వహిస్తారు. కొత్త కథలను సృష్టించండి, ఉన్నవాటిని సవరించండి, ఒకదానితో ఒకటి ముడిపడిన అనేక కథల మీదుగా మీ కథనాన్ని అమర్చుకోండి. ఉమ్మడి యూనివర్స్ విజ్ఞానకోశం, కమ్యూనిటీ ఫీచర్ల వల్ల ప్రతి కథకూ ప్రయోజనం ఉంటుంది."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "మీ విజ్ఞానకోశాన్ని నిర్మించండి",
+      "content": "మీ యూనివర్స్ విజ్ఞానకోశాన్ని సృష్టించి నిర్వహించండి - మీ ప్రపంచానికి ప్రాణం పోసే జ్ఞాన భాండాగారం అది. పాఠకులు అన్వేషించగల పాత్రలు, ప్రదేశాలు, గాథలు మరియు ఇతర వివరాలను జోడించండి. సుసంపన్నమైన విజ్ఞానకోశం మీ యూనివర్స్‌ను మరింత లీనమయ్యేలా చేస్తుంది, మీ కథల నేపథ్యాన్ని పాఠకులు అర్థం చేసుకోవడానికి తోడ్పడుతుంది."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "మీ యూనివర్స్ పేజీ",
+      "content": "ఇది మీ యూనివర్స్ పబ్లిక్ పేజీ; సందర్శకులు ఇక్కడ మీ ప్రపంచం గురించి తెలుసుకోవచ్చు, మీ కథలను చదవవచ్చు, విజ్ఞానకోశాన్ని అన్వేషించవచ్చు, మీ కమ్యూనిటీతో కలవవచ్చు. మీ యూనివర్స్‌ను ప్రదర్శించడానికి, కొత్త పాఠకులను ఆకర్షించడానికి ఈ పేజీని మీకు నచ్చినట్లు మలచుకోండి."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "అనువాదాలను నిర్వహించండి",
+      "content": "మీ యూనివర్స్ కంటెంట్‌ను ఇతర భాషలలోకి అనువదించే పనిని సమన్వయం చేయండి. అనువాదకులను నిర్వహించండి, పురోగతిని గమనించండి, మీ కథలు ప్రపంచవ్యాప్త పాఠకులను చేరేలా చూసుకోండి. అనువాదాలు మిమ్మల్ని ప్రపంచమంతటా ఉన్న పాఠకులతో కలుపుతాయి."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "అభిమాని మేనేజర్",
+      "content": "మీ యూనివర్స్ ప్రేరణతో పుట్టిన అభిమానుల స్పందనలను, సృజనలను నిర్వహించండి. అభిమాని కథలు, చిత్రకళ మరియు ఇతర కమ్యూనిటీ కంటెంట్‌ను గమనించండి. మీ అభిమానులతో కలిసిమెలిసి ఉంటూ, మీ ప్రపంచం చుట్టూ ఒక వర్ధిల్లే కమ్యూనిటీని నిర్మించండి."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "మీ విజయాన్ని గమనించండి",
+      "content": "వివరణాత్మక విశ్లేషణలతో మీ యూనివర్స్ పనితీరును పర్యవేక్షించండి. పాఠకుల ఆసక్తి, ప్రజాదరణ పొందిన కథలు, విజ్ఞానకోశం వీక్షణలు మరియు ఇతర కొలమానాలను చూడండి; మీ పాఠకులకు ఏది నచ్చుతోందో అర్థం చేసుకోవడానికి అవి తోడ్పడతాయి."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "అంతర్గత ప్రణాళిక ఫోరం",
+      "content": "సహకరించేవారితో, అనువాదకులతో ప్రణాళిక వేసుకోవడానికి, సమన్వయం చేసుకోవడానికి మీ యూనివర్స్ అంతర్గత ఫోరం. కథా గమనాలను, ప్రపంచ నిర్మాణ వివరాలను చర్చించండి, మీ సృజనాత్మక ప్రయత్నాలను సమన్వయం చేసుకోండి. ఈ ప్రైవేట్ స్థలం మీ బృందం సమర్థంగా కలిసి పనిచేయడానికి తోడ్పడుతుంది."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "సహకరించేవారిని నిర్వహించండి",
+      "content": "మీ యూనివర్స్‌పై కలిసి పనిచేయడానికి రచయితలను, కళాకారులను, ఇతర సృష్టికర్తలను ఆహ్వానించండి. పాత్రలను, అనుమతులను కేటాయించండి, యాక్సెస్ స్థాయులను నిర్వహించండి, మీ ప్రపంచాన్ని కలిసి అభివృద్ధి చేయడానికి ఒక బృందాన్ని తయారు చేసుకోండి."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "ఆదాయ సెట్టింగులు",
+      "content": "మీ యూనివర్స్ నుండి, దాని కంటెంట్ నుండి ఆదాయం ఎలా పొందాలో అమర్చుకోండి. ప్రీమియం యాక్సెస్‌ను ఏర్పాటు చేయండి, సబ్‌స్క్రిప్షన్‌లను నిర్వహించండి, సహకరించేవారితో ఆదాయ పంపకాన్ని నిర్ణయించండి. మీ సృజనాత్మక కృషిని స్థిరమైన ఆదాయ మార్గంగా మార్చుకోండి."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "పరిష్కార కేంద్రం",
+      "content": "మీ యూనివర్స్‌లో తలెత్తగల వివాదాలు, కంటెంట్ ఉల్లంఘనలు మరియు ఇతర సమస్యలను పరిష్కరించండి. ఈ కేంద్రీకృత వ్యవస్థ మంచి కమ్యూనిటీ వాతావరణాన్ని నిలబెట్టడానికి, విభేదాలను సమర్థంగా పరిష్కరించడానికి తోడ్పడుతుంది."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "యూనివర్స్ సెట్టింగులు",
+      "content": "గోప్యత, యాక్సెస్ నియంత్రణలు, వర్గాలు మరియు ఇతర ప్రాథమిక ఎంపికలతో సహా మీ యూనివర్స్ ముఖ్య సెట్టింగులను అమర్చుకోండి. మీ యూనివర్స్ ఎలా పనిచేస్తుందో, దానితో ఎవరు వ్యవహరించగలరో ఈ సెట్టింగులే నిర్ణయిస్తాయి."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "ఫోరం అమరిక",
+      "content": "మీ యూనివర్స్ ఫోరం సెట్టింగులను సూక్ష్మంగా సర్దుబాటు చేయండి. వర్గాలను సృష్టించండి, మోడరేషన్ నియమాలను పెట్టండి, అనుమతులను అమర్చండి, మీ కమ్యూనిటీ అవసరాలకు తగినట్లు చర్చా స్థలాలను మలచుకోండి."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "మీ యూనివర్స్‌ను నిర్మించడానికి సిద్ధమా?",
+      "content": "సుసంపన్నమైన, ఆకట్టుకునే యూనివర్స్‌ను సృష్టించడానికి కావలసిన సాధనాలన్నీ ఇప్పుడు మీ దగ్గర ఉన్నాయి. కొన్ని కథలను జోడించడం, మీ విజ్ఞానకోశాన్ని విస్తరించడం, సహకరించేవారిని ఆహ్వానించడంతో మొదలుపెట్టండి. మీ సాహిత్య ప్రపంచం సృష్టి కోసం ఎదురుచూస్తోంది!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "కథ డాష్బోర్డ్",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "మీ కథ డాష్బోర్డ్‌కు స్వాగతం!",
+      "content": "ఇది మీ కథ నియంత్రణ కేంద్రం; మీ కథనానికి సంబంధించిన అన్ని అంశాలనూ ఇక్కడే నిర్వహిస్తారు. ఇక్కడ అధ్యాయాలు రాయవచ్చు, కథ నిర్మాణాన్ని అమర్చుకోవచ్చు, ఇతరులతో కలిసి పనిచేయవచ్చు, మీ పురోగతిని గమనించవచ్చు. ముఖ్య ఫీచర్లను చూద్దాం."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "కొత్త అధ్యాయాలను జోడించడం",
+      "content": "మీ కథకు కొత్త అధ్యాయాలను ఇక్కడే జోడిస్తారు. కొత్త అధ్యాయాన్ని సృష్టించడానికి \"కొత్త అధ్యాయం\" బటన్‌ను క్లిక్ చేయండి. మీ కథ అధ్యాయాలను దానంతట అదే సరైన క్రమంలో అమరుస్తుంది. అధ్యాయాల జాబితా అడుగు భాగం నుండి కూడా అధ్యాయాలను జోడించవచ్చు."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "మీ పురోగతిని గమనించండి",
+      "content": "వివరణాత్మక గణాంకాలతో మీ రచనా పురోగతిని, పాఠకుల ఆసక్తిని పర్యవేక్షించండి. మీకు ఎంతమంది పాఠకులు ఉన్నారో చూడండి, అధ్యాయాల వీక్షణలను గమనించండి, కాలక్రమంలో మీ కథ పనితీరును విశ్లేషించండి."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "సహకరించేవారిని నిర్వహించండి",
+      "content": "మీ కథపై కలిసి పనిచేయడానికి ఇతర రచయితలను ఆహ్వానించండి. వేర్వేరు పాత్రలను, అనుమతులను కేటాయించండి, రచనా ప్రయత్నాలను సమన్వయం చేయండి, మీ సృజనాత్మక బృందాన్ని నిర్వహించండి. బృందంగా రాసే ప్రాజెక్టులకు చక్కగా సరిపోతుంది."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "అనువాదాల నిర్వహణ",
+      "content": "మీ కథను ఇతర భాషలలోకి అనువదించే పనిని సమన్వయం చేయండి. అనువాదకులను నిర్వహించండి, అనువాద పురోగతిని గమనించండి, మీ కథను ప్రపంచవ్యాప్త పాఠకులకు అందుబాటులోకి తీసుకురండి."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "ఆదాయ సెట్టింగులు",
+      "content": "మీ కథ నుండి ఆదాయం ఎలా పొందాలో అమర్చుకోండి. ప్రీమియం అధ్యాయాలను ఏర్పాటు చేయండి, సబ్‌స్క్రిప్షన్ ఎంపికలను నిర్వహించండి, సహకరించేవారితో ఆదాయ పంపకాన్ని నిర్ణయించండి. మీ రచనను ఆదాయంగా మార్చుకోండి."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "కథ సెట్టింగులు",
+      "content": "గోప్యత, ప్రచురణ ఎంపికలు, వర్గాలు మరియు ఇతర ప్రాథమిక ప్రాధాన్యతలతో సహా మీ కథ ముఖ్య సెట్టింగులను అమర్చుకోండి. మీ కథ ఎలా కనిపిస్తుందో, ఎలా పనిచేస్తుందో ఈ సెట్టింగులే నిర్ణయిస్తాయి."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "స్థూల గమనికలు",
+      "content": "మీ కథ మొత్తం నిర్మాణం, కథలోని కీలక మలుపులు, పాత్రల ఎదుగుదల, ముఖ్యమైన గమనికలను రాసుకోండి. మీ కథనాన్ని అమర్చుకోవడానికి ఇది మీ వ్యక్తిగత ప్రణాళికా స్థలం."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "వ్యక్తిగత రచనా సవాళ్లు",
+      "content": "వ్యక్తిగత రచనా లక్ష్యాలను పెట్టుకుని, సవాళ్లతో మీ పురోగతిని గమనించండి. రోజువారీ లేదా వారపు పదాల సంఖ్య లక్ష్యాలను సృష్టించండి, అధ్యాయాలకు గడువులు పెట్టుకోండి, క్రమం తప్పని రచనా అలవాటును నిలబెట్టుకునేలా మిమ్మల్ని మీరు ప్రోత్సహించుకోండి. మీ రచనా షెడ్యూల్‌ను పాటించడానికి ఇది మీ ప్రైవేట్ సాధనం."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "కథాంశాల నిర్వహణ",
+      "content": "మీ కథను వేర్వేరు కథాంశాలుగా, పోగులుగా అమర్చుకోండి. పాత్రల ఎదుగుదల, ఉపకథలు, కథన అంశాలను గమనించండి. ఒకదానితో ఒకటి ముడిపడిన అనేక అంశాలున్న సంక్లిష్ట కథలకు చక్కగా సరిపోతుంది."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "సన్నివేశాల మేనేజర్",
+      "content": "మీ అధ్యాయాలలోని విడివిడి సన్నివేశాలను అమర్చి నిర్వహించండి. సన్నివేశాల పురోగతిని గమనించండి, వాటి క్రమాన్ని మార్చండి, మీ కథన నిర్మాణం సాఫీగా సాగేలా చూసుకోండి."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "చట్టపరమైన పత్రాలు",
+      "content": "కాపీరైట్ సమాచారం, ప్రచురణ ఒప్పందాలు, హక్కుల నిర్వహణతో సహా మీ కథకు సంబంధించిన ముఖ్యమైన చట్టపరమైన పత్రాలను ఇక్కడ చూడవచ్చు. మీ చట్టపరమైన వ్యవహారాలను సక్రమంగా ఉంచుకోండి."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "పబ్లిక్ వెర్షన్",
+      "content": "పబ్లిక్ సైట్‌లో పాఠకులకు మీ కథ ఎలా కనిపిస్తుందో అలాగే చూడండి. పాఠకులతో పంచుకునే ముందు ఫార్మాటింగ్‌ను సరిచూడండి, లింక్‌లను పరీక్షించండి, అంతా చక్కగా ఉందని నిర్ధారించుకోండి."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "మీ కథను పంచుకోండి",
+      "content": "ప్రముఖ ప్లాట్‌ఫారమ్‌ల కోసం ముందే సిద్ధం చేసిన టెక్స్ట్, లింక్‌లతో మీ కథను సోషల్ మీడియాలో పంచుకోండి. మీ రచనను ప్రదర్శిస్తూ, వేర్వేరు సోషల్ నెట్‌వర్క్‌లలో కొత్త పాఠకులను చేరడానికి తోడ్పడే, వెంటనే వాడుకోగల కంటెంట్‌ను పొందండి."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "పరిష్కార కేంద్రం",
+      "content": "మీ కథకు సంబంధించిన చట్టపరమైన వివాదాలు, సేవా నిబంధనల ఉల్లంఘనలు లేదా ఇతర సమస్యలను పరిష్కరించండి. ఈ కేంద్రం రిపోర్ట్ అయిన సమస్యలన్నింటినీ జాబితా చేస్తుంది; విభేదాలను పరిష్కరించడానికి, మంచి కమ్యూనిటీ వాతావరణాన్ని నిలబెట్టడానికి సాధనాలను అందిస్తుంది."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "కథ స్థితి నిర్వహణ",
+      "content": "ఈ ముఖ్యమైన ఎంపికలతో మీ కథ ప్రచురణ స్థితిని నియంత్రించండి. \"క్రియాశీలం\" అంటే మీ కథ క్రమం తప్పకుండా అప్‌డేట్ అవుతోంది. \"విరామంలో\" అనేది తాత్కాలిక విరామాన్ని సూచిస్తుంది. \"రద్దు చేయబడింది\" అంటే మీరు రాయడం ఆపేశారు. \"పూర్తయింది\" మీ కథ ముగిసినట్లు సూచిస్తుంది. మీ ప్రస్తుత రచనా పరిస్థితికి బాగా సరిపోయే స్థితిని ఎంచుకోండి. గమనిక: 6 నెలల పాటు ఎలాంటి పురోగతి లేకపోతే కథలు వాటంతట అవే \"విరామంలో\" స్థితికి మారతాయి; మరో 6 నెలలు నిష్క్రియంగా ఉంటే \"రద్దు చేయబడింది\" స్థితికి మారతాయి."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "రాయడం మొదలుపెట్టడానికి సిద్ధమా?",
+      "content": "మీ కథలోని ప్రతి అంశాన్ని ఎలా నిర్వహించాలో ఇప్పుడు మీకు తెలుసు. మీ మొదటి అధ్యాయాన్ని జోడించి మొదలుపెట్టండి, తర్వాత అందుబాటులో ఉన్న వివిధ సాధనాలను అన్వేషించండి. మీ కథ సృష్టి కోసం ఎదురుచూస్తోంది!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "కథ ఎడిటర్ టూర్",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "కథ ఎడిటర్‌కు స్వాగతం!",
+      "content": "మీ కథలను మీరు మలిచే రచనా కార్యస్థలం ఇది. రాయడానికి, అమర్చుకోవడానికి, మీ రచనను ప్రచురించడానికి తోడ్పడే శక్తివంతమైన సాధనాలను ఎడిటర్ అందిస్తుంది. ముఖ్య ఫీచర్లను చూద్దాం."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "అక్షరాల పరిమాణ నియంత్రణ",
+      "content": "రాస్తున్నప్పుడు హాయిగా చదవడానికి అక్షరాల పరిమాణాన్ని సర్దుబాటు చేసుకోండి. ఎక్కువసేపు రాసేటప్పుడు కంటి అలసటను తగ్గించడానికి సాధారణ, పెద్ద అక్షరాల పరిమాణాల మధ్య మారండి."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "డార్క్ మోడ్ టోగుల్",
+      "content": "లైట్, డార్క్ థీమ్‌ల మధ్య మారండి. రాత్రివేళ రాసేటప్పుడు డార్క్ మోడ్ కళ్లకు హాయిగా ఉంటుంది, ఏకాగ్రతను నిలబెట్టుకోవడానికీ తోడ్పడుతుంది."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "యాక్సెసిబిలిటీ సాధనాలు",
+      "content": "డిస్లెక్సియాకు అనుకూలమైన ఫాంట్‌లు, పేరా హైలైటింగ్ మరియు మీ సౌకర్యం కోసం ఇతర యాక్సెసిబిలిటీ ఫీచర్లను ఇక్కడ పొందవచ్చు."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "పక్క ప్యానెల్‌ను టోగుల్ చేయండి",
+      "content": "పక్క ప్యానెల్‌ను చూపండి లేదా దాచండి. అందులో మీ స్క్రాచ్‌పాడ్, కథ గమనికలు, విజ్ఞానకోశం, వ్యాఖ్యలు, AI Assistant వంటి ఉపయోగకరమైన సాధనాలు ఉంటాయి."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "ఫుల్‌స్క్రీన్ మోడ్",
+      "content": "మీ రచనా స్థలాన్ని గరిష్ఠంగా పెంచుకోవడానికి, ధ్యాస మళ్లించే వాటిని తొలగించడానికి ఫుల్‌స్క్రీన్ మోడ్‌లోకి వెళ్లండి. ఏకాగ్రతతో రాయడానికి చక్కగా సరిపోతుంది."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "మీ రచనను సేవ్ చేయండి",
+      "content": "మీ డ్రాఫ్ట్ దానంతట అదే సేవ్ అవుతుంది. మీరు టైప్ చేస్తుండగానే మీ రచన సేవ్ అవుతుంది, అయినా ఎప్పుడైనా మీరే మాన్యువల్‌గా సేవ్ చేసుకోవచ్చు."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "ప్రచురణ ఎంపికలు",
+      "content": "మీ డ్రాఫ్ట్ పూర్తయ్యాక, ఒక పునర్విమర్శను సృష్టించే సమయం వస్తుంది. బీటా రీడర్ల కోసం గానీ, అందరి కోసం గానీ పునర్విమర్శను సృష్టించవచ్చు. ప్రచురించాలని నిర్ణయించుకున్నాక, అధ్యాయం ఎప్పుడు విడుదల కావాలో మీరే నియంత్రిస్తారు."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "అధ్యాయం శీర్షిక",
+      "content": "శీర్షిక పేరును సవరించడానికి దానిపై క్లిక్ చేయండి."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "మీ అధ్యాయం గురించి వ్యక్తిగత గమనికలను, లేదా పాఠకులకు ఒక సందేశాన్ని రాయండి. ఇది అధ్యాయానికి ముందు మీ పాఠకులకు కనిపిస్తుంది (ఇక్కడ ఉన్నట్లే); ప్రకటనలు చేయడానికి, ఇప్పటివరకు సాగిన కథ గురించి ఆలోచనలు పంచుకోవడానికి ఇది మంచి మార్గం."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "ప్రధాన కథ పాఠ్యం",
+      "content": "మీ కథ ప్రాణం పోసుకునే ప్రధాన రచనా ప్రాంతం ఇది. పూర్తి రిచ్ టెక్స్ట్ ఎడిటింగ్ సదుపాయాలతో మీ అధ్యాయం కంటెంట్‌ను ఇక్కడ రాయండి."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "సైడ్‌బార్ సాధనాల పెట్టె",
+      "content": "పక్క ప్యానెల్‌లో ఉపయోగకరమైన సాధనాలు, సమాచారం ఉంటాయి. మీ స్క్రాచ్‌పాడ్, విజ్ఞానకోశం సూచనలు, వ్యాఖ్యలు, AI Assistant వంటి వేర్వేరు వీక్షణల మధ్య మారడానికి పైనున్న మెనూను ఉపయోగించండి."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "వ్యక్తిగత స్క్రాచ్‌పాడ్",
+      "content": "ఆలోచనలు, గమనికలు లేదా స్ఫూర్తిని రాసుకోవడానికి మీ వ్యక్తిగత స్క్రాచ్‌పాడ్ ఎల్లప్పుడూ అందుబాటులో ఉంటుంది. ప్రధాన కథలో ఇమడని, కానీ తర్వాత పనికొచ్చే ఆలోచనలను ఇక్కడ భద్రపరచుకోండి."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "కథ గమనికలు",
+      "content": "మీ కథ మొత్తానికి సంబంధించిన గమనికలను, ప్రణాళికా సామగ్రిని ఇక్కడ చూడవచ్చు. కథా రూపురేఖలు, పాత్రల ఎదుగుదల, ప్రపంచ నిర్మాణ వివరాలు మరియు ఇతర నిర్వహణ సమాచారాన్ని రాసుకోండి."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "విజ్ఞానకోశం యాక్సెస్",
+      "content": "మీ యూనివర్స్ విజ్ఞానకోశానికి త్వరిత యాక్సెస్. రాస్తూనే పాత్రల వివరాలు, ప్రదేశాలు, గాథలు మరియు ఇతర ప్రపంచ నిర్మాణ అంశాలను చూసుకోవచ్చు. ఇక్కడున్న ఇతర బటన్లతో వెతకవచ్చు, కొత్త ఎంట్రీలను జోడించవచ్చు."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "అధ్యాయం వ్యాఖ్యలు",
+      "content": "బీటా రీడర్లు, సహకరించేవారు మరియు ఇతర పాఠకులు ఈ అధ్యాయంపై చేసిన వ్యాఖ్యలను చూసి స్పందించండి. మీ పాఠకులతో కలిసిమెలిసి ఉంటూ విలువైన అభిప్రాయాలను పొందండి."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "ప్రచురించే ముందు సరిచూసుకోవలసిన ముఖ్యమైన విషయాలు ఉన్నాయి. ప్రచురణకు ముందు చేయవలసిన పనుల జాబితా, ఇంకా చూడదగ్గ చిన్న చిన్న ఆసక్తికరమైన విషయాలు ఇక్కడ దాగి ఉన్నాయి."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "మీ కథ, యూనివర్స్, విజ్ఞానకోశం గురించి అసిస్టెంట్‌ను అడగండి. అది పొంతనను సరిచూడగలదు, ఒక భాగాన్ని ప్రూఫ్‌రీడ్ చేయగలదు, లేదా ఏదైనా వెతికి పెట్టగలదు. అది మీ రచన గురించిన ప్రశ్నలకు సమాధానం ఇస్తుంది; మీ బదులు రాయదు. మీ సెట్టింగులలో మీరు జోడించే మీ సొంత API కీతో అది పనిచేస్తుంది."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "రాయడం మొదలుపెట్టడానికి సిద్ధమా?",
+      "content": "కథ ఎడిటర్‌లోని శక్తివంతమైన ఫీచర్లన్నింటినీ ఎలా వాడాలో ఇప్పుడు మీకు తెలుసు. మీ అధ్యాయాన్ని రాయడం మొదలుపెట్టండి, అవసరమైనప్పుడు సాధనాలను అన్వేషించండి. ఎప్పుడైనా సహాయం కావాలంటే మా సహాయ పేజీని, The Way of the Author ను చూడండి, లేదా మమ్మల్ని సంప్రదించండి. ఇక కొన్ని కథలు రాద్దాం!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "కథ అనువాద సాధనం టూర్",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "కథ అనువాద సాధనానికి స్వాగతం!",
+      "content": "ఒకసారి త్వరగా చుట్టూ చూద్దాం. సూచన సామగ్రిని చేతికి అందేలా ఉంచుకుంటూ, మూల పాఠ్యాన్ని అనువదించడానికి ఈ కార్యస్థలాన్ని ఉపయోగించండి."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "ఎడమవైపు మూల పాఠ్యం",
+      "content": "ఎడమ వైపు మూల అధ్యాయాన్ని, రచయిత వ్యాఖ్యలను చూపిస్తుంది. పనిచేస్తున్నప్పుడు సూచన కోసం దాన్ని తెరిచే ఉంచుకోండి."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "కుడివైపు అనువదించండి",
+      "content": "మీ అనువాదాన్ని కుడివైపు రాయండి. ఇక్కడ మీరు సేవ్ చేసేదంతా ఈ భాష పాఠకులు చూసే వెర్షన్ అవుతుంది."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "యూనివర్స్ విజ్ఞానకోశం యాక్సెస్",
+      "content": "గాథలు లేదా పరిభాష కావాలా? యూనివర్స్‌ను మరింత బాగా అర్థం చేసుకోవడానికి, మా సైడ్‌బార్‌లో యూనివర్స్ విజ్ఞానకోశానికి యాక్సెస్ దొరుకుతుంది."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "విజ్ఞానకోశానికి స్వాగతం",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "మీ యూనివర్స్ విజ్ఞానకోశం",
+      "content": "మీ విజ్ఞానకోశానికి స్వాగతం! మీ యూనివర్స్ గురించిన జ్ఞానమంతటినీ అమర్చి, మీ అభిమానులతో పంచుకునే చోటు ఇదే."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "మీ కంటెంట్‌ను అమర్చుకోండి",
+      "content": "\"వర్గాలు\" మరియు \"గుంపులు\" వీక్షణల మధ్య మారండి. వర్గాలు ఎంట్రీలను వాటి రకం ప్రకారం (పాత్రలు, ప్రదేశాలు మొదలైనవి) అమర్చి చూపిస్తాయి; గుంపులు, మాతృ ఎంట్రీలు మొదలైనవి నిర్ణయించే కస్టమ్ ఫీల్డ్ సమూహాల ప్రకారం ఎంట్రీలను చూడనిస్తాయి."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "మీ వర్గాలు",
+      "content": "ఇవి మీ విజ్ఞానకోశం వర్గాలు. సమాచారాన్ని అమర్చడానికి ప్రతి వర్గానికీ సొంత టెంప్లేట్ ఉంటుంది. ఏ వర్గాన్నైనా విస్తరించి అందులోని ఎంట్రీలను చూడటానికి దానిపై క్లిక్ చేయండి."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "మీకు కావలసింది కనుగొనండి",
+      "content": "మీ విజ్ఞానకోశంలోని ఏ ఎంట్రీనైనా త్వరగా కనుగొనడానికి శోధనను ఉపయోగించండి. పేరు, కంటెంట్ లేదా ట్యాగ్‌ల ద్వారా వెతికి సమాచారాన్ని క్షణాల్లో కనుగొనండి."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "కొత్త ఎంట్రీలను సృష్టించండి",
+      "content": "మీ విజ్ఞానకోశానికి కొత్త ఎంట్రీలను జోడించండి. మొదలుపెట్టడానికి ప్రతి వర్గానికీ సొంత ఫారమ్ టెంప్లేట్ ఉంటుంది, అయితే వాటిని మీకు నచ్చినట్లు మార్చుకోవచ్చు."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "మీ విజ్ఞానకోశాన్ని మీకు నచ్చినట్లు మలచుకోండి",
+      "content": "ఏ వర్గాలను వాడాలనుకుంటున్నారో ఎంచుకోవడానికి, స్వాగత సందేశాన్ని పెట్టడానికి, ఇతర విజ్ఞానకోశం వివరాలను అమర్చడానికి మీ విజ్ఞానకోశం సెట్టింగులను తప్పక చూడండి."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "ఇప్పుడు ప్రాథమిక అంశాలు మీకు తెలుసు! మీ యూనివర్స్‌ను నిర్మించడం కొనసాగించడానికి మీ వర్క్షాప్‌కు తిరిగి వెళ్లండి, లేదా మీ విజ్ఞానకోశానికి ఎంట్రీలను జోడించడం మొదలుపెట్టండి. హాయిగా రాయండి!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "బీటా రీడర్ గైడ్",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "బీటా రీడింగ్‌కు స్వాగతం!",
+      "content": "బీటా రీడర్‌గా, రచయితలు తమ కథలను మెరుగుపరచుకోవడంలో మీరు కీలక పాత్ర పోషిస్తారు. మీ అభిప్రాయం లోపాలను పట్టుకోవడానికి, స్పష్టతను పెంచడానికి, కథలను పాఠకులకు మరింత ఆనందదాయకంగా చేయడానికి తోడ్పడుతుంది. బీటా రీడింగ్ ఇంటర్‌ఫేస్‌లో ఎలా తిరగాలో, ఉపయోగకరమైన అభిప్రాయాన్ని ఎలా ఇవ్వాలో ఈ గైడ్ చూపిస్తుంది."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "మీ ప్రధాన సంభాషణ సాధనం",
+      "content": "రచయిత కోసం వ్యాఖ్యలను మీరు ఇక్కడే రాస్తారు! వ్యాఖ్యల ప్యానెల్‌ను తెరవడానికి ఇక్కడ క్లిక్ చేయండి. అధ్యాయంపై సాధారణ అభిప్రాయాన్ని జోడించవచ్చు, నిర్దిష్ట భాగాలను హైలైట్ చేయవచ్చు, ప్రశ్నలు అడగవచ్చు, లేదా మెరుగుదలలను సూచించవచ్చు. రచయితతో మీరు మాట్లాడే ప్రధాన మార్గం మీ వ్యాఖ్యలే."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "వ్యాఖ్యల ఇంటర్‌ఫేస్",
+      "content": "వ్యాఖ్యల ప్యానెల్‌లో, ఇతర బీటా రీడర్లు ఇప్పటికే ఇచ్చిన అభిప్రాయాలను చూడవచ్చు, మీదీ జోడించవచ్చు. మీ ఆలోచనలను పంచుకోవడానికి అడుగున ఉన్న వ్యాఖ్య పెట్టెను ఉపయోగించండి. ఏది బాగా కుదిరిందో, ఏది మెరుగుపరచవచ్చో నిర్దిష్టంగా చెప్పండి - నిర్మాణాత్మక అభిప్రాయమే ఎక్కువగా ఉపయోగపడుతుంది!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "పఠన సాధనాలు",
+      "content": "మీ పఠన అనుభవాన్ని మీకు నచ్చినట్లు మలచుకోవడానికి ఈ సాధనాలను ఉపయోగించండి. చదవడం మరింత హాయిగా ఉండేలా అక్షరాల పరిమాణాన్ని సర్దుబాటు చేయవచ్చు, డార్క్ మోడ్‌ను మార్చవచ్చు, Open Dyslexic ఫాంట్ లేదా పేరా హైలైటింగ్ వంటి యాక్సెసిబిలిటీ ఫీచర్లను ఆన్ చేయవచ్చు."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "అభిప్రాయం ఇవ్వడానికి సిద్ధమా?",
+      "content": "బీటా రీడింగ్ ఇంటర్‌ఫేస్‌లో ఎలా తిరగాలో, రచయితలతో మాట్లాడటానికి వ్యాఖ్యల ఫీచర్‌ను ఎలా వాడాలో ఇప్పుడు మీకు తెలుసు. ముందు అధ్యాయాన్ని చదవండి, తర్వాత సైడ్‌బార్‌ను తెరిచి మీ ఆలోచనాత్మక అభిప్రాయాన్ని పంచుకోండి. మీ సూచనలు రచయితలు ఇంకా మంచి కథలను సృష్టించడానికి తోడ్పడతాయి!"
     }
   }
 }

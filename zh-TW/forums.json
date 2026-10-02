@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "選擇類別...",
   "forums.posts.loadError": "載入文章時發生錯誤",
   "forums.category.orgRoles": "限定組織角色（未選＝所有成員）",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "編輯回覆",
+  "forums.post.delete": "刪除回覆",
+  "forums.post.deleteConfirm": "要刪除這則回覆嗎？它將不再顯示於此討論中。",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "這則回覆已刪除。",
+  "forums.post.hidden": "這則回覆已被管理團隊隱藏。"
 }

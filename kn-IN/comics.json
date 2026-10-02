@@ -197,5 +197,8 @@
   "comics.volumes.empty": "ಯಾವುದೇ ಸಂಪುಟಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿಲ್ಲ.",
   "comics.volumesHelp": "ಅಧ್ಯಾಯ ಶ್ರೇಣಿಗಳನ್ನು ಸಂಪುಟಗಳಾಗಿ ಮಾರಿ. ಅಧ್ಯಾಯ ಸಂಖ್ಯೆಗಳು ಒಳಗೊಂಡಿವೆ ಮತ್ತು ಶ್ರೇಣಿಗಳು ಅತಿಕ್ರಮಿಸಬಾರದು.",
   "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
+  "comics.reader.loading": "Comic",
+  "comics.translation.mode.label": "Mode: {mode}",
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
 }

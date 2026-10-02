@@ -121,6 +121,9 @@
   "common.justNow": "Just now",
   "common.label": "Label",
   "common.lang.select": "भाषा निवडा",
+  "common.lang.change": "भाषा बदला",
+  "common.lang.readingLanguagePitch": "इंटरफेसपेक्षा वेगळ्या भाषेत कथा हव्या आहेत? तुमची वाचनाची भाषा निवडण्यासाठी विनामूल्य खाते तयार करा.",
+  "common.lang.createAccount": "विनामूल्य खाते तयार करा",
   "common.language": "भाषा",
   "common.legal.community": "समुदाय मार्गदर्शक",
   "common.legal.cookies": "About cookies",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा.",
+  "common.savedOffline": "ऑफलाइन सेव्ह केले. तुम्ही पुन्हा कनेक्ट झाल्यावर ते सिंक होईल.",
+  "common.synced": "सर्व बदल सिंक झाले.",
+  "common.autoSaveDeferred": "आत्ता सेव्ह करता आले नाही. तुमचे बदल या डिव्हाइसवर ठेवले आहेत आणि नंतर सिंक होतील."
 }

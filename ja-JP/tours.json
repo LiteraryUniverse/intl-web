@@ -4,429 +4,413 @@
     "previous": "前へ",
     "skip": "スキップ・ツアー",
     "close": "クローズツアー",
-    "end": "End Tour",
+    "end": "ツアーを終了",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "矢印キーで移動、ESCで閉じる",
+    "start": "ツアーを開始"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "ダッシュボードへようこそ",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Literary Universeへようこそ",
+      "content": "執筆の旅を始めやすいように、ダッシュボードを簡単にご案内します。"
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "メインナビゲーション",
+      "content": "これがメインのナビゲーションメニューです。項目を一つずつ見ていきましょう。"
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "アクティビティの更新が表示され、ワークショップ、ライブラリー、ソーシャル機能に移動できる、あなた専用のホームページです。"
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "他のユーザーが作った物語や宇宙を探索しましょう。著者による舞台裏の話や読み応えのあるブログ記事も読めます。次のお気に入りを見つけてください！"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "喜びは分かち合えば10倍に！気の合う仲間のグループを見つけ、Discordに参加して、Literary Universeにどんな人がいるのか見てみましょう！"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "メモ欄は、アイデアやメモ、思いつきをいつでも書き留められる、あなた専用のノートです。"
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "コメント、フォロー、その他のコミュニティでのやり取りを確認できます。"
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "他の書き手やベータリーダーと連絡を取り、プロジェクトで協力できます。"
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "個人情報、環境設定、アカウント設定を管理します。"
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "物語や宇宙を書き、編集し、管理するための創作スペースです。"
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "あなたのライブラリー",
+        "content": "保存した物語、リーディングリスト、ダウンロードしたコンテンツにまとめてアクセスできます。"
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "クイックアクセスメニュー",
+      "content": "このサイドバーから、重要な機能やツールにすばやくアクセスできます。"
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "書き手にとって、ワークショップは魔法が生まれる場所です！新しい物語を始める、書きかけの物語を続ける、宇宙を広げる。読者が待っています！"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "読者にとって、「発見」は素晴らしい物語への入り口です！新しいジャンルを探し、お気に入りの著者をフォローし、リーディングリストを作りましょう。楽しい読書を！"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "初めてですか？ダッシュボードのクイックツアーをどうぞ！"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "ワークショップへようこそ",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Literary Universeのワークショップへようこそ",
+      "content": "ワークショップは、Literary Universeでの創作の旅の中心です。ここで物語や宇宙を作成し、管理し、共同作業を行えます。"
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "作家の道",
+      "content": "「作家の道」で書き手としての進歩を記録しましょう。執筆のマイルストーンを達成したり、コミュニティと交流したりすることでレベルアップできる、ゲーム感覚の仕組みです。詳しい仕組みはここをクリックしてご覧ください。"
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "新しく始める",
+      "content": "「作成を開始する」では、何を作りたいかを尋ねます。世界を共有する物語のための宇宙、単独の物語、ファンフィクション、コミックから選べます。最初の決めごとを順に案内し、最後に下書きができあがります。あなたが公開するまで、何も公開されません。"
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "すべてのプロジェクト",
+      "content": "あなたが所有または参加している宇宙、物語、コミック、オーディオブックがすべてここに並びます。右側のボタンで、表紙表示とコンパクトなリスト表示を切り替えられます。共同執筆、翻訳、ベータリーディングへの招待は、承諾または辞退できるリクエストとしてリストの上に表示されます。"
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "必要なプロジェクトを見つける",
+      "content": "「アクセス」では、所有しているプロジェクト、チームに参加しているプロジェクト、翻訳、ベータリーダーとして確認する物語に絞り込めます。「形式」と「ステータス」でさらに絞り込み、「並べ替え」で最近更新されたプロジェクトを先頭に表示できます。"
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "旅を続けましょう",
+      "content": "「作家の道」の進み具合を確認しに、またここへ戻ってきてください。書き続け、協力し、コミュニティと交流してレベルアップしましょう！さあ、書き始めましょう！"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "あなた専用のライブラリー",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "続きを読む",
+      "content": "あなた専用のライブラリーへようこそ！ここには、読書の進み具合を記録するために追加した物語や宇宙が表示されます。「続きを読む」には最近開いたコンテンツが表示されるので、前回の続きからすぐに再開できます。"
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "ライブラリー全体",
+      "content": "このタブにはライブラリー内のすべてが表示されます。隣のタブで、物語、購入済み、オーディオブック、漫画・コミック、宇宙に絞り込めます。物語や宇宙をライブラリーに追加すると、更新を受け取り、読んだ位置を保存できます。"
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "あなたの物語",
+      "content": "ライブラリーに追加した物語はすべてここにまとめられます。読書の進み具合を記録し、新しい章の通知を受け取り、お気に入りの物語の続きを見失うことがありません。"
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "あなたの宇宙",
+      "content": "ライブラリーに追加した宇宙がここに表示されます。その宇宙の新しい物語の情報を受け取り、エンサイクロペディアを探索し、コミュニティ機能に参加しましょう。"
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "リーディングリスト",
+      "content": "ここで自分だけのリーディングリストを作成、管理できます。テーマやシリーズなど、好きな基準で物語を整理しましょう。リストは他の人と共有することも、非公開のままにすることもできます。"
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "個人メモ",
+      "content": "プラットフォームのサブスクリプションがあれば、どの物語、宇宙、エンサイクロペディアの項目にも個人メモを追加できます。Literary Universeを読み、探索しながら、感想や考察、気づきを書き留めておきましょう。"
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "あなたのライブラリーを作る準備はできましたか？",
+      "content": "「発見」から物語や宇宙をライブラリーに追加してみましょう。読書の進み具合を記録し、リーディングリストを作り、個人メモで体験をさらに豊かに。あなたの文学の旅が待っています！"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "宇宙のワークショップ",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "宇宙のワークショップへようこそ！",
+      "content": "初めての宇宙の作成、おめでとうございます！ここは、あなたの文学世界を築き、管理するための司令室です。宇宙に命を吹き込む強力なツールを見ていきましょう。"
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "物語を管理する",
+      "content": "ここで宇宙内のすべての物語を管理します。新しい物語を作成し、既存の物語を編集し、互いにつながる複数の物語にわたって語りを組み立てましょう。どの物語も、宇宙で共有されるエンサイクロペディアとコミュニティ機能を活用できます。"
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "エンサイクロペディアを作る",
+      "content": "宇宙のエンサイクロペディア、つまりあなたの世界に命を吹き込む知識ベースを作成、管理します。キャラクター、場所、伝承など、読者が探索できる詳細を追加しましょう。充実したエンサイクロペディアは宇宙への没入感を高め、読者が物語の背景を理解する助けになります。"
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "宇宙のページ",
+      "content": "これは宇宙の公開ページです。訪問者はここであなたの世界を知り、物語を読み、エンサイクロペディアを探索し、コミュニティと交流できます。このページをカスタマイズして宇宙の魅力を伝え、新しい読者を引きつけましょう。"
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "翻訳を管理する",
+      "content": "宇宙のコンテンツを他の言語へ翻訳する作業を取りまとめます。翻訳者を管理し、進捗を確認して、物語を世界中の読者に届けましょう。翻訳は世界中の読者とつながる助けになります。"
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "ファン管理者",
+      "content": "ファンとの交流や、あなたの宇宙に触発された創作物を管理します。ファンフィクション、アート、その他のコミュニティコンテンツを把握できます。ファンと交流し、あなたの世界を中心に活気あるコミュニティを育てましょう。"
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "成果を確認する",
+      "content": "詳細な分析で宇宙のパフォーマンスを確認できます。読者の反応、人気の物語、エンサイクロペディアの閲覧数などの指標から、読者の心に響いているものがわかります。"
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "内部の企画用掲示板",
+      "content": "共同執筆者や翻訳者と計画や調整を行うための、宇宙の内部掲示板です。ストーリーアークや世界観の詳細を話し合い、創作活動を調整しましょう。この非公開スペースが、チームの効果的な共同作業を支えます。"
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "共同執筆者を管理する",
+      "content": "書き手、アーティスト、その他のクリエイターを宇宙の共同制作に招待しましょう。役割と権限を割り当て、アクセスレベルを管理し、世界を一緒に発展させるチームを作れます。"
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "収益設定",
+      "content": "宇宙とそのコンテンツの収益化方法を設定します。プレミアムアクセスを用意し、サブスクリプションを管理し、共同執筆者との収益分配を決めましょう。創作活動を持続可能な収入源に変えられます。"
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "解決センター",
+      "content": "宇宙で起こりうる紛争、コンテンツ違反、その他の問題に対応します。この一元的な仕組みが、良好なコミュニティの維持と効率的な問題解決を助けます。"
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "宇宙の設定",
+      "content": "プライバシー、アクセス制御、カテゴリーなど、宇宙の基本設定を行います。これらの設定によって、宇宙の動作と、誰が関われるかが決まります。"
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "掲示板の設定",
+      "content": "宇宙の掲示板の設定を細かく調整します。カテゴリーを作成し、モデレーションのルールを決め、権限を設定して、コミュニティに合った議論の場に整えましょう。"
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "あなたの宇宙を築く準備はできましたか？",
+      "content": "豊かで魅力的な宇宙を作るためのツールがすべて揃いました。まずは物語を追加し、エンサイクロペディアを充実させ、共同執筆者を招待しましょう。あなたの文学世界が創造を待っています！"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "物語のダッシュボード",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "物語のダッシュボードへようこそ！",
+      "content": "ここは、物語のあらゆる面を管理する司令室です。章を書き、物語の構成を整え、他の人と協力し、進捗を確認できます。主な機能を見ていきましょう。"
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "新しい章を追加する",
+      "content": "ここで物語に新しい章を追加します。「新しい章」ボタンをクリックすると新しい章が作成されます。章は自動的に正しい順序で並びます。章リストの一番下からも追加できます。"
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "進捗を確認する",
+      "content": "詳細な統計で、執筆の進捗と読者の反応を確認できます。読者数、章ごとの閲覧数、物語のパフォーマンスの推移を見てみましょう。"
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "共同執筆者を管理する",
+      "content": "他の書き手を物語の共同執筆に招待しましょう。役割と権限を割り当て、執筆を調整し、創作チームを管理できます。グループでの執筆プロジェクトに最適です。"
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "翻訳の管理",
+      "content": "物語を他の言語へ翻訳する作業を取りまとめます。翻訳者を管理し、翻訳の進捗を確認して、物語を世界中の読者に届けましょう。"
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "収益設定",
+      "content": "物語の収益化方法を設定します。プレミアム章を用意し、サブスクリプションの選択肢を管理し、共同執筆者との収益分配を決めましょう。執筆を収入に変えられます。"
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "物語の設定",
+      "content": "プライバシー、公開オプション、カテゴリーなど、物語の基本設定を行います。これらの設定によって、物語の見え方と動作が決まります。"
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "概要メモ",
+      "content": "物語の全体構成、プロットの要点、キャラクターアーク、重要なメモを記録しておけます。物語を整理するための、あなた専用の構想スペースです。"
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "個人の執筆チャレンジ",
+      "content": "チャレンジで個人の執筆目標を立て、進捗を記録しましょう。1日または1週間の文字数目標を作り、章の締め切りを決め、安定した執筆習慣を保つ励みにできます。執筆スケジュールを守るための、あなただけのツールです。"
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "ストーリーラインの管理",
+      "content": "物語をさまざまな筋や流れに整理します。キャラクターアーク、サブプロット、物語の要素を追跡できます。複数の要素が絡み合う複雑な物語に最適です。"
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "シーンマネージャー",
+      "content": "章の中の個々のシーンを整理、管理します。シーンの進捗を確認し、順序を入れ替え、物語構成の流れを保ちましょう。"
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "法的文書",
+      "content": "著作権情報、出版契約、権利管理など、物語に関する重要な法的文書にアクセスできます。法的な事柄をきちんと整えておきましょう。"
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "公開版",
+      "content": "公開サイトで読者に表示されるとおりに物語を確認できます。読者に届ける前に、書式を確認し、リンクを試し、すべてが完璧に見えるか確かめましょう。"
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "物語を共有する",
+      "content": "主要なプラットフォーム向けに用意されたテキストとリンクで、物語をソーシャルメディアで共有しましょう。作品を紹介するすぐに使えるコンテンツで、さまざまなSNSの新しい読者に届けられます。"
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "解決センター",
+      "content": "物語に関する法的紛争、利用規約違反、その他の問題に対応します。この一元的なセンターには報告された問題がすべて一覧表示され、対立を解決し、良好なコミュニティ環境を保つためのツールが用意されています。"
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "物語のステータス管理",
+      "content": "これらの重要なオプションで、物語の公開ステータスを管理します。「アクティブ」は定期的に更新されていることを意味します。「休止中」は一時的な休みを示します。「キャンセル」は執筆をやめたことを意味します。「完了」は物語が完結したことを示します。現在の執筆状況に最も合うステータスを選んでください。注意: 6か月間更新がない物語は自動的に「休止中」になり、さらに6か月間動きがないと「キャンセル」になります。"
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "書き始める準備はできましたか？",
+      "content": "これで、物語のあらゆる面を管理する方法がわかりました。まずは最初の章を追加し、それからさまざまなツールを試してみましょう。あなたの物語が創造を待っています！"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "物語エディターのツアー",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "物語エディターへようこそ！",
+      "content": "ここは物語を紡ぐための執筆ワークスペースです。エディターには、執筆、整理、公開を助ける強力なツールが揃っています。主な機能を見ていきましょう。"
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "文字サイズの調整",
+      "content": "執筆中に読みやすいよう文字サイズを調整できます。標準と大きめの文字サイズを切り替えて、長時間の執筆でも目の疲れを抑えましょう。"
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "ダークモードの切り替え",
+      "content": "ライトテーマとダークテーマを切り替えます。ダークモードは夜間の執筆でも目に優しく、集中を保つ助けになります。"
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "アクセシビリティツール",
+      "content": "ディスレクシアに配慮したフォント、段落のハイライトなど、快適に使うためのアクセシビリティ機能を利用できます。"
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "サイドパネルの切り替え",
+      "content": "サイドパネルを表示または非表示にします。サイドパネルには、メモ欄、物語のメモ、エンサイクロペディア、コメント、AI Assistantなどの便利なツールがあります。"
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "全画面モード",
+      "content": "全画面モードにすると、執筆スペースが最大になり、気が散るものがなくなります。集中して書きたいときに最適です。"
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "作品を保存する",
+      "content": "下書きは自動的に保存されます。入力するたびに保存されますが、いつでも手動で保存することもできます。"
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "公開オプション",
+      "content": "下書きが仕上がったら、改訂を作成しましょう。改訂はベータリーダー向けにも、一般公開向けにも作成できます。公開すると決めたら、章がいつ公開されるかを自分で決められます。"
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "章のタイトル",
+      "content": "タイトルをクリックすると名前を編集できます。"
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "章についての個人的なメモや、読者へのメッセージを書けます。（ここと同じように）章の前に読者へ表示され、お知らせをしたり、これまでの物語についての思いを伝えたりするのに効果的です。"
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "物語の本文",
+      "content": "ここが、物語に命が宿るメインの執筆エリアです。リッチテキスト編集機能をフルに使って、章の本文を書きましょう。"
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "サイドバーのツールボックス",
+      "content": "サイドパネルには便利なツールや情報がまとまっています。上部のメニューで、メモ欄、エンサイクロペディアの参照、コメント、AI Assistantなどの表示を切り替えられます。"
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "個人用メモ欄",
+      "content": "あなた専用のメモ欄は、アイデアやメモ、ひらめきをいつでも書き留められます。本文には収まらないけれど、後で役立ちそうな考えを残しておきましょう。"
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "物語のメモ",
+      "content": "物語全体のメモや構想資料にアクセスできます。プロットのあらすじ、キャラクターアーク、世界観の詳細など、整理のための情報を管理しましょう。"
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "エンサイクロペディアへのアクセス",
+      "content": "宇宙のエンサイクロペディアにすばやくアクセスできます。執筆しながら、キャラクターの詳細、場所、伝承など世界観の要素を参照しましょう。ここにある他のボタンで、検索や新しい項目の追加ができます。"
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "章のコメント",
+      "content": "ベータリーダー、共同執筆者、その他の読者からこの章に寄せられたコメントを確認し、返信できます。読者と交流し、貴重なフィードバックを得ましょう。"
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "公開する前に確認しておきたい大切なことがあります。公開前のTo Doリストや、その他の細かな確認項目がここに隠れています。"
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "物語、宇宙、エンサイクロペディアについてアシスタントに質問できます。一貫性の確認、文章の校正、調べものができます。あなたの文章に関する質問に答えるもので、代わりに書くことはありません。設定で追加するあなた自身のAPIキーで動作します。"
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "書き始める準備はできましたか？",
+      "content": "これで、物語エディターの強力な機能の使い方がすべてわかりました。章を書き始め、必要に応じてツールを試してみてください。困ったときは、ヘルプや「作家の道」をご覧いただくか、私たちにご連絡ください。さあ、物語を書きましょう！"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "物語翻訳ツールのツアー",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "物語翻訳ツールへようこそ！",
+      "content": "簡単にご案内します。このワークスペースでは、参考資料を手元に置きながら原文を翻訳できます。"
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "左側に原文",
+      "content": "左側には元の章と著者のコメントが表示されます。作業中は参照用に開いたままにしておきましょう。"
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "右側で翻訳",
+      "content": "右側に翻訳を書きます。ここで保存した内容が、この言語の読者に表示されるバージョンになります。"
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "宇宙のエンサイクロペディアへのアクセス",
+      "content": "伝承や用語を確認したいときは、サイドバーから宇宙のエンサイクロペディアにアクセスして、宇宙への理解を深められます。"
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "エンサイクロペディアへようこそ",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "あなたの宇宙のエンサイクロペディア",
+      "content": "エンサイクロペディアへようこそ！ここで宇宙に関するあらゆる知識を整理し、ファンと共有できます。"
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "コンテンツを整理する",
+      "content": "「カテゴリー」表示と「グループ」表示を切り替えられます。カテゴリーでは項目が種類別（キャラクター、場所など）に整理され、グループでは親項目などで設定されたカスタムフィールドのグループ分けごとに項目を表示できます。"
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "あなたのカテゴリー",
+      "content": "これがエンサイクロペディアのカテゴリーです。カテゴリーごとに、情報を整理するための専用テンプレートがあります。カテゴリーをクリックすると展開され、中の項目が表示されます。"
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "必要なものを見つける",
+      "content": "検索を使えば、エンサイクロペディアのどの項目もすぐに見つかります。名前、内容、タグで検索して、情報をすばやく探せます。"
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "新しい項目を作成する",
+      "content": "エンサイクロペディアに新しい項目を追加します。カテゴリーごとに書き始めやすいフォームのテンプレートがありますが、自由に調整できます。"
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "エンサイクロペディアをカスタマイズする",
+      "content": "エンサイクロペディアの設定を必ず確認して、使用するカテゴリーを選び、ウェルカムメッセージやその他の詳細を設定しましょう。"
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "これで基本はばっちりです！ワークショップに戻って宇宙づくりを続けるか、エンサイクロペディアに項目を追加してみましょう。楽しい執筆を！"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "ベータリーダーガイド",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "ベータリーディングへようこそ！",
+      "content": "ベータリーダーは、著者が物語をより良くするうえで重要な役割を担います。あなたのフィードバックは、問題点を見つけ、わかりやすさを高め、物語を読者にとってより楽しいものにする助けになります。このガイドでは、ベータリーディング画面の使い方と、効果的なフィードバックの伝え方をご紹介します。"
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "主なコミュニケーション手段",
+      "content": "ここから著者にコメントを残します！ここをクリックするとコメントパネルが開きます。章全体への感想を書いたり、特定の箇所をハイライトしたり、質問したり、改善を提案したりできます。コメントが、著者とやり取りする主な手段です。"
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "コメント画面",
+      "content": "コメントパネルでは、他のベータリーダーからのフィードバックを確認し、自分のコメントを追加できます。下部のコメント欄に感想を書きましょう。良かった点と改善できそうな点を具体的に伝えてください。建設的なフィードバックが一番役に立ちます！"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "読書ツール",
+      "content": "これらのツールで読書体験をカスタマイズできます。文字サイズの調整、ダークモードの切り替えのほか、Open Dyslexicフォントや段落のハイライトといったアクセシビリティ機能を有効にして、より快適に読めます。"
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "フィードバックを送る準備はできましたか？",
+      "content": "これで、ベータリーディング画面の使い方と、コメント機能で著者とやり取りする方法がわかりました。まずは章を読み、サイドバーを開いて、丁寧なフィードバックを共有しましょう。あなたの意見が、著者がより良い物語を作る助けになります！"
     }
   }
 }

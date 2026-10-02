@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "მონოქრომული",
   "blog.theme.generate.mode.pastel": "პასტელური",
   "blog.theme.generate.nudged": "წაკითხვადობისთვის შესწორდა: {tokens}.",
-  "blog.theme.generate.unreadable": "ამ სურათის წაკითხვა ვერ მოხერხდა. ჩამოტვირთეთ და აირჩიეთ როგორც ფაილი."
+  "blog.theme.generate.unreadable": "ამ სურათის წაკითხვა ვერ მოხერხდა. ჩამოტვირთეთ და აირჩიეთ როგორც ფაილი.",
+  "blogs.readFullPost": "სრული პოსტის წაკითხვა"
 }

@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "কণ্ঠশিল্পী",
   "audiobook.team.you": "আপনি",
   "audiobook.whereToListen": "কোথায় শুনবেন",
+  "audiobook.team.members": "দলের সদস্য",
+  "audiobook.team.noMembers": "এখনো দলে কোনো সদস্য নেই।",
   "audiobook.orgFeatureDisabled": "এই প্রতিষ্ঠানের জন্য অডিওবুক সক্রিয় নেই।"
 }

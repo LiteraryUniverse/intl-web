@@ -135,7 +135,7 @@
   "comics.search.noResults": "Манга или комиксы не найдены.",
   "comics.search.status": "Статус публикации",
   "comics.settings.universe": "Вселенная",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Настройки произведения",
   "comics.split.author": "Автор",
   "comics.splitMustTotal": "Сумма распределения дохода должна составлять 100%.",
   "comics.startReading": "Начать чтение",
@@ -196,6 +196,9 @@
   "comics.volumes": "Тома",
   "comics.volumes.empty": "Тома не заданы.",
   "comics.volumesHelp": "Продавайте диапазоны глав как тома. Номера глав включительны, и диапазоны не должны пересекаться.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Отметить как завершённое после выхода последней запланированной главы ({date})",
+  "comics.finish.scheduledNotice": "Произведение ({format}) будет отмечено как завершённое {date}, когда выйдет его последняя запланированная глава.",
+  "comics.reader.loading": "Комикс",
+  "comics.translation.mode.label": "Режим: {mode}",
+  "comics.pagesCount": "{count, plural, one {# страница} few {# страницы} many {# страниц} other {# страницы}}"
 }

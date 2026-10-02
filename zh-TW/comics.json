@@ -135,7 +135,7 @@
   "comics.search.noResults": "找不到任何漫畫。",
   "comics.search.status": "連載狀態",
   "comics.settings.universe": "宇宙",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "作品設定",
   "comics.split.author": "作者",
   "comics.splitMustTotal": "收益分成總計必須為 100%。",
   "comics.startReading": "開始閱讀",
@@ -196,6 +196,9 @@
   "comics.volumes": "卷",
   "comics.volumes.empty": "尚未定義任何卷。",
   "comics.volumesHelp": "以卷為單位銷售章節範圍。章節編號含頭尾，且範圍不得重疊。",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "最後一個排程章節發布後（{date}）標記為已完結",
+  "comics.finish.scheduledNotice": "此{format}將於 {date} 最後一個排程章節發布時標記為已完結。",
+  "comics.reader.loading": "漫畫",
+  "comics.translation.mode.label": "模式：{mode}",
+  "comics.pagesCount": "{count, plural, other {# 頁}}"
 }

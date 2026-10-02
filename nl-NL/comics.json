@@ -135,7 +135,7 @@
   "comics.search.noResults": "Geen manga of strips gevonden.",
   "comics.search.status": "Publicatiestatus",
   "comics.settings.universe": "Universum",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Instellingen van het werk",
   "comics.split.author": "Auteur",
   "comics.splitMustTotal": "De verdeling van de inkomsten moet in totaal 100% zijn.",
   "comics.startReading": "Beginnen met lezen",
@@ -196,6 +196,9 @@
   "comics.volumes": "Delen",
   "comics.volumes.empty": "Geen delen gedefinieerd.",
   "comics.volumesHelp": "Verkoop hoofdstukbereiken als delen. Hoofdstuknummers zijn inclusief en bereiken mogen niet overlappen.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Markeren als voltooid zodra het laatste geplande hoofdstuk is uitgebracht ({date})",
+  "comics.finish.scheduledNotice": "{format} wordt op {date} als voltooid gemarkeerd, wanneer het laatste geplande hoofdstuk wordt uitgebracht.",
+  "comics.reader.loading": "Strip",
+  "comics.translation.mode.label": "Modus: {mode}",
+  "comics.pagesCount": "{count, plural, one {# pagina} other {# pagina's}}"
 }

@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "שחקני קול",
   "audiobook.team.you": "אתם",
   "audiobook.whereToListen": "היכן להאזין",
+  "audiobook.team.members": "חברי הצוות",
+  "audiobook.team.noMembers": "עדיין אין חברי צוות.",
   "audiobook.orgFeatureDisabled": "ספרי אודיו אינם מופעלים עבור ארגון זה."
 }

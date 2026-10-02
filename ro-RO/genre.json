@@ -1,5 +1,5 @@
 {
-  "genre.scifi": "Science Fiction",
+  "genre.scifi": "Științifico-fantastic",
   "genre.fantasy": "Fantezie",
   "genre.adventure": "Aventură",
   "genre.poetry": "Poezie",
@@ -55,5 +55,5 @@
   "genre.political.description": "Documente care se concentrează pe aspecte politice, aspecte sociale sau, de exemplu, manifeste artistice.",
   "genre.history.description": "Documente istorice și alte materiale literare de importanță istorică sau care descriu evenimente istorice.",
   "genre.isekai.description": "Acest sub-gen de romane ușoare, manga și anime japoneze se învârte în jurul unui personaj care este transportat sau reîncarnat într-o lume diferită sau univers alternativ. Protagonistul trebuie să navigheze și să se adapteze la culturile și mediile unice ale noii lumi, câștigând adesea noi abilități și întâlnind noi aliați și dușmani pe parcurs. Aceste povești pot varia de la ușoare și comice la întunecate și intense, dar oferă întotdeauna o perspectivă proaspătă și imaginație asupra temelor de aventură clasice.",
-  "genres.meta.description": "Explore stories across all genres on Literary Universe. Find your next favorite story in fantasy, sci-fi, romance, mystery, and more."
+  "genres.meta.description": "Explorează povești din toate genurile pe Literary Universe. Găsește-ți următoarea poveste preferată în fantasy, SF, romance, mister și multe altele."
 }

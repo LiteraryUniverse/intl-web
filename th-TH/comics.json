@@ -135,7 +135,7 @@
   "comics.search.noResults": "ไม่พบมังงะหรือการ์ตูน",
   "comics.search.status": "สถานะการเผยแพร่",
   "comics.settings.universe": "จักรวาล",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "การตั้งค่าผลงาน",
   "comics.split.author": "ผู้เขียน",
   "comics.splitMustTotal": "การแบ่งรายได้ต้องรวมกันเป็น 100%",
   "comics.startReading": "เริ่มอ่าน",
@@ -196,6 +196,9 @@
   "comics.volumes": "เล่ม",
   "comics.volumes.empty": "ยังไม่ได้กำหนดเล่ม",
   "comics.volumesHelp": "ขายช่วงตอนเป็นเล่ม หมายเลขตอนนับรวมปลายทั้งสอง และช่วงต้องไม่ทับซ้อนกัน",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "ทำเครื่องหมายว่าจบแล้วเมื่อบทสุดท้ายที่ตั้งเวลาไว้ถูกเผยแพร่ ({date})",
+  "comics.finish.scheduledNotice": "{format} จะถูกทำเครื่องหมายว่าจบแล้วในวันที่ {date} เมื่อบทสุดท้ายที่ตั้งเวลาไว้ถูกเผยแพร่",
+  "comics.reader.loading": "การ์ตูน",
+  "comics.translation.mode.label": "โหมด: {mode}",
+  "comics.pagesCount": "{count, plural, other {# หน้า}}"
 }

@@ -233,5 +233,19 @@
   "email.continueReading.subject": "📖 Continue “{storyTitle}”",
   "email.continueReading.title": "Pick up where you left off",
   "email.continueReading.details": "Your next chapter in “{storyTitle}” is “{chapterTitle}”.",
-  "email.continueReading.cta": "Continue reading"
+  "email.continueReading.cta": "Continue reading",
+  "email.diary.reminder.subject": "Time to write in your diary",
+  "email.diary.reminder.subject.streak": "Keep your {streak}-day journaling streak alive",
+  "email.diary.reminder.preview": "Time to write in your journal",
+  "email.diary.reminder.previewStreak": "Keep your {streak}-day journaling streak alive!",
+  "email.diary.reminder.title": "Start your journaling journey today",
+  "email.diary.reminder.titleStreak": "You have a {streak}-day journaling streak!",
+  "email.diary.reminder.body": "Great writers keep journals. Take a few minutes today to reflect on your day, jot down ideas, or simply write freely.",
+  "email.diary.reminder.bodyStreak": "Don't break your streak! Take a few minutes today to reflect, write, and capture your thoughts.",
+  "email.diary.reminder.cta": "Write in your diary",
+  "email.diary.reminder.promptLabel": "Today's writing prompt:",
+  "email.storyStatus.title": "Story status update",
+  "email.storyStatus.intro": "There's been a change to your story status.",
+  "email.storyStatus.why": "Here is what happened and why:",
+  "email.storyStatus.next": "What happens next:"
 }

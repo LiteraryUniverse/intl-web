@@ -233,5 +233,19 @@
   "email.continueReading.subject": "📖 Continue “{storyTitle}”",
   "email.continueReading.title": "Pick up where you left off",
   "email.continueReading.details": "Your next chapter in “{storyTitle}” is “{chapterTitle}”.",
-  "email.continueReading.cta": "Continue reading"
+  "email.continueReading.cta": "Continue reading",
+  "email.diary.reminder.subject": "तुमच्या डायरीत लिहिण्याची वेळ झाली",
+  "email.diary.reminder.subject.streak": "तुमची {streak} दिवसांची डायरी-लेखनाची मालिका चालू ठेवा",
+  "email.diary.reminder.preview": "तुमच्या डायरीत लिहिण्याची वेळ झाली",
+  "email.diary.reminder.previewStreak": "तुमची {streak} दिवसांची डायरी-लेखनाची मालिका चालू ठेवा!",
+  "email.diary.reminder.title": "तुमचा डायरी-लेखनाचा प्रवास आजच सुरू करा",
+  "email.diary.reminder.titleStreak": "तुमची {streak} दिवसांची डायरी-लेखनाची मालिका सुरू आहे!",
+  "email.diary.reminder.body": "उत्तम लेखक डायरी लिहितात. आज काही मिनिटे काढून तुमच्या दिवसाचा विचार करा, कल्पना टिपून ठेवा किंवा मनमोकळेपणाने लिहा.",
+  "email.diary.reminder.bodyStreak": "तुमची मालिका खंडित होऊ देऊ नका! आज काही मिनिटे काढून विचार करा, लिहा आणि तुमचे विचार टिपून ठेवा.",
+  "email.diary.reminder.cta": "तुमच्या डायरीत लिहा",
+  "email.diary.reminder.promptLabel": "आजचा लेखन-विषय:",
+  "email.storyStatus.title": "कथेच्या स्थितीबद्दल अपडेट",
+  "email.storyStatus.intro": "तुमच्या कथेच्या स्थितीत बदल झाला आहे.",
+  "email.storyStatus.why": "काय घडले आणि का, ते असे:",
+  "email.storyStatus.next": "पुढे काय होईल:"
 }

@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "குரல் கலைஞர்கள்",
   "audiobook.team.you": "நீங்கள்",
   "audiobook.whereToListen": "எங்கே கேட்கலாம்",
+  "audiobook.team.members": "குழு உறுப்பினர்கள்",
+  "audiobook.team.noMembers": "இன்னும் குழு உறுப்பினர்கள் இல்லை.",
   "audiobook.orgFeatureDisabled": "இந்த அமைப்பிற்கு ஒலிப் புத்தகங்கள் இயக்கப்படவில்லை."
 }

@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Απόκρυψη σε μικρές οθόνες",
   "blog.people": "Άτομα",
   "blog.people.intro": "Δώστε σε κάποιον πρόσβαση σε ένα μέρος αυτού του ιστολογίου χωρίς να του δώσετε τον λογαριασμό σας. Κάθε δικαίωμα λειτουργεί ξεχωριστά και ισχύει μόνο για αυτό το ιστολόγιο.",
   "blog.people.add": "Προσθήκη κάποιου σε αυτό το ιστολόγιο",
@@ -347,12 +347,12 @@
   "blog.billing": "Χρέωση",
   "blog.billing.intro": "Διαχειριστείτε τη συνδρομή που πληρώνει αυτό το ιστολόγιο: αλλάξτε πρόγραμμα, ενημερώστε τον τρόπο πληρωμής ή κατεβάστε τιμολόγια.",
   "blog.billing.open": "Άνοιγμα πύλης χρέωσης",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "Απόκρυψη του ονόματος του ιστολογίου",
+  "blog.menus.logoSize": "Μέγεθος λογοτύπου",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "Πλήρες πλάτος",
   "blog.pages.import": "Εισαγωγή προτύπου σχεδίασης",
   "blog.pages.import.hint": "Επιλέξτε το αρχείο HTML του προτύπου μαζί με τις εικόνες στις οποίες αναφέρεται. Τα κείμενα και οι εικόνες παραμένουν επεξεργάσιμα μετά την εισαγωγή.",
   "blog.pages.import.files": "Αρχείο προτύπου + εικόνες",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Μονόχρωμη",
   "blog.theme.generate.mode.pastel": "Παστέλ",
   "blog.theme.generate.nudged": "Προσαρμόστηκε για αναγνωσιμότητα: {tokens}.",
-  "blog.theme.generate.unreadable": "Δεν ήταν δυνατή η ανάγνωση της εικόνας. Κατεβάστε την και επιλέξτε την ως αρχείο."
+  "blog.theme.generate.unreadable": "Δεν ήταν δυνατή η ανάγνωση της εικόνας. Κατεβάστε την και επιλέξτε την ως αρχείο.",
+  "blogs.readFullPost": "Διαβάστε ολόκληρη την ανάρτηση"
 }

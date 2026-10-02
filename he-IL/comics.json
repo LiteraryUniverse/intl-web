@@ -135,7 +135,7 @@
   "comics.search.noResults": "לא נמצאו מנגה או קומיקס.",
   "comics.search.status": "סטטוס פרסום",
   "comics.settings.universe": "יקום",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "הגדרות היצירה",
   "comics.split.author": "מחבר",
   "comics.splitMustTotal": "סך חלוקת ההכנסות חייב להיות 100%.",
   "comics.startReading": "התחלת קריאה",
@@ -196,6 +196,9 @@
   "comics.volumes": "כרכים",
   "comics.volumes.empty": "לא הוגדרו כרכים.",
   "comics.volumesHelp": "מכרו טווחי פרקים ככרכים. מספרי הפרקים כלולים והטווחים אינם יכולים לחפוף.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "סמן כהושלם לאחר שחרור הפרק המתוזמן האחרון ({date})",
+  "comics.finish.scheduledNotice": "ה{format} יסומן כהושלם בתאריך {date}, עם שחרור הפרק המתוזמן האחרון שלו.",
+  "comics.reader.loading": "קומיקס",
+  "comics.translation.mode.label": "מצב: {mode}",
+  "comics.pagesCount": "{count, plural, one {עמוד אחד} two {שני עמודים} other {# עמודים}}"
 }

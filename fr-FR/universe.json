@@ -6,7 +6,7 @@
   "universe.fanarts.for": "Fan Arts de {universe}",
   "universe.fansettings.for": "{universe} Paramètres des fans",
   "universe.fanfiction.stories": "Histoires",
-  "universe.fanfiction.fanarts": "Fan Arts",
+  "universe.fanfiction.fanarts": "Fan arts",
   "universe.stories.count": "Il {num, plural,\n    =0 {n'y a pas d'histoires}\n    one {y a une histoire}\n    other {y a # histoires}\n    } dans cet univers.",
   "universe.authors.title": "Auteurs",
   "universe.authors.desc": "Créateurs et contributeurs de {universe}",

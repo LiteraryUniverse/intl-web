@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "சுற்றுலாவைத் தவிர்",
+    "close": "சுற்றுலாவை மூடு",
+    "end": "சுற்றுலாவை முடி",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "நகர்த்த அம்புக்குறி விசைகளையும், மூட ESC-ஐயும் பயன்படுத்துங்கள்",
+    "start": "சுற்றுலாவைத் தொடங்கு"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "உங்கள் டாஷ்போர்டுக்கு வரவேற்கிறோம்",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Literary Universe-க்கு வரவேற்கிறோம்",
+      "content": "உங்கள் எழுத்துப் பயணத்தைத் தொடங்க உதவ, உங்கள் டாஷ்போர்டை ஒரு முறை விரைவாகச் சுற்றிப் பார்ப்போம்."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "முதன்மை வழிசெலுத்தல்",
+      "content": "இது உங்கள் முதன்மை வழிசெலுத்தல் மெனு. ஒவ்வொன்றையும் பார்ப்போம்."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "செயல்பாட்டுப் புதுப்பிப்புகளுடன் கூடிய உங்கள் தனிப்பட்ட முகப்புப் பக்கம்; உங்கள் வடிவமைப்பு, நூலகம் மற்றும் சமூக அம்சங்களுக்கு இங்கிருந்து செல்லலாம்."
       },
       "discovery": {
         "title": "கண்டுபிடிப்பு",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "பிற பயனர்கள் உருவாக்கிய கதைகளையும் உலகங்களையும் ஆராயுங்கள். ஆசிரியர்களின் திரைக்குப் பின்னாலான தகவல்களையும் ஆழமான வலைப்பதிவுகளையும் படியுங்கள். உங்களுக்குப் பிடித்த அடுத்த கதையைக் கண்டுபிடியுங்கள்!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "பகிர்ந்த மகிழ்ச்சி பத்து மடங்கு மகிழ்ச்சி! ஒத்த எண்ணம் கொண்டவர்களின் குழுக்களைக் கண்டறியுங்கள், எங்கள் Discord-இல் சேருங்கள், Literary Universe-இல் வேறு யார் இருக்கிறார்கள் என்று பாருங்கள்!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "ஸ்ராட்ச்பேட் உங்கள் தனிப்பட்ட குறிப்பேடு; யோசனைகள், குறிப்புகள், எண்ணங்களைக் குறித்து வைக்க எப்போதும் கையருகில் இருக்கும்."
       },
       "notifications": {
         "title": "அறிவிப்புகள்",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "கருத்துகள், பின்தொடர்தல்கள் மற்றும் பிற சமூக ஊடாடல்கள் பற்றி உடனுக்குடன் தெரிந்துகொள்ளுங்கள்."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "பிற எழுத்தாளர்கள், பீட்டா வாசிப்பவர்களுடன் தொடர்புகொண்டு, திட்டங்களில் இணைந்து பணியாற்றுங்கள்."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "உங்கள் தனிப்பட்ட தகவல்கள், விருப்பங்கள் மற்றும் கணக்கு அமைப்புகளை நிர்வகியுங்கள்."
       },
       "workshop": {
         "title": "பயிலரங்கம்",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "உங்கள் கதைகளையும் உலகங்களையும் எழுத, திருத்த, நிர்வகிக்க உங்கள் படைப்புவெளி."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "உங்கள் நூலகம்",
+        "content": "நீங்கள் சேமித்த கதைகள், வாசிப்பு பட்டியல்கள், பதிவிறக்கிய உள்ளடக்கம் எல்லாம் ஒரே இடத்தில்."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "விரைவு அணுகல் மெனு",
+      "content": "இந்தப் பக்கப்பட்டி முக்கிய அம்சங்களுக்கும் கருவிகளுக்கும் விரைவான அணுகலைத் தருகிறது."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "ஓர் எழுத்தாளராக, மாயம் நிகழும் இடம் உங்கள் வடிவமைப்புதான்! புதிய கதையைத் தொடங்குங்கள், ஏற்கெனவே உள்ளதைத் தொடர்ந்து எழுதுங்கள், அல்லது உங்கள் உலகத்தை விரிவாக்குங்கள். உங்கள் வாசகர்கள் காத்திருக்கிறார்கள்!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "ஒரு வாசகராக, அற்புதமான கதைகளுக்கான உங்கள் நுழைவாயில் கண்டுபிடிப்பு! புதிய வகைகளை ஆராயுங்கள், உங்களுக்குப் பிடித்த ஆசிரியர்களைப் பின்தொடருங்கள், வாசிப்பு பட்டியல்களை உருவாக்குங்கள். இனிய வாசிப்பு!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "இங்கே புதியவரா? உங்கள் டாஷ்போர்டை விரைவாகச் சுற்றிப் பாருங்கள்!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "உங்கள் வடிவமைப்புக்கு வரவேற்கிறோம்",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Literary Universe வடிவமைப்புக்கு வரவேற்கிறோம்",
+      "content": "Literary Universe-இல் உங்கள் படைப்புப் பயணத்தின் இதயம் உங்கள் வடிவமைப்பு. இங்கே உங்கள் கதைகளையும் உலகங்களையும் உருவாக்கலாம், நிர்வகிக்கலாம், பிறருடன் இணைந்து பணியாற்றலாம்."
     },
     "theWay": {
       "title": "ஆசிரியரின் வழி",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "The Way of the Author மூலம் ஓர் எழுத்தாளராக உங்கள் முன்னேற்றத்தைக் கண்காணியுங்கள். விளையாட்டுப் பாணியிலான இந்த அமைப்பில், எழுத்து மைல்கற்களை எட்டுவதன் மூலமும் சமூகத்துடன் ஈடுபடுவதன் மூலமும் நீங்கள் நிலை உயரலாம். இது எப்படிச் செயல்படுகிறது என்பதை அறிய இங்கே கிளிக் செய்யுங்கள்."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "புதிதாக ஒன்றைத் தொடங்குங்கள்",
+      "content": "உருவாக்கத் தொடங்குங்கள் என்பது நீங்கள் எதை உருவாக்க விரும்புகிறீர்கள் என்று கேட்கும்: ஒரே உலகைப் பகிரும் கதைகளுக்கான ஓர் உலகம், தனித்து நிற்கும் ஒரு கதை, ரசிப்பான் உண்மைகள், அல்லது ஒரு காமிக். முதல் முடிவுகளில் அது உங்களுக்கு வழிகாட்டி, இறுதியில் ஒரு வரைவை உங்கள் கையில் தரும். நீங்கள் வெளியிடும் வரை எதுவும் வெளியிடப்படாது."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "உங்கள் எல்லாத் திட்டங்களும்",
+      "content": "நீங்கள் சொந்தமாக வைத்திருக்கும் அல்லது பணியாற்றும் ஒவ்வொரு உலகம், கதை, காமிக், ஆடியோபுக் எல்லாம் இங்கே பட்டியலிடப்பட்டுள்ளன. வலதுபுறப் பொத்தான்கள் அட்டைப்படக் காட்சிக்கும் சுருக்கமான பட்டியலுக்கும் இடையே மாற்றும். இணைந்து பணியாற்ற, மொழிபெயர்க்க அல்லது பீட்டா வாசிப்புக்கான அழைப்புகள், நீங்கள் ஏற்கவோ மறுக்கவோ கூடிய கோரிக்கைகளாகப் பட்டியலுக்கு மேலே தோன்றும்."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "உங்களுக்குத் தேவையான திட்டத்தைக் கண்டறியுங்கள்",
+      "content": "அணுகல் என்பது பட்டியலை நீங்கள் சொந்தமாக வைத்திருக்கும் திட்டங்கள், நீங்கள் குழுவில் இருக்கும் திட்டங்கள், மொழிபெயர்ப்புகள், அல்லது பீட்டா வாசிப்பவராக நீங்கள் மதிப்பாய்வு செய்யும் கதைகள் எனக் குறுக்குகிறது. வடிவம், நிலை ஆகியவை அதை மேலும் குறுக்கும்; வரிசை என்பது மிகச் சமீபத்தில் புதுப்பிக்கப்பட்ட திட்டத்தை முதலில் வைக்கும்."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "உங்கள் பயணத்தைத் தொடருங்கள்",
+      "content": "The Way of the Author-இல் உங்கள் முன்னேற்றத்தைப் பார்க்க, அவ்வப்போது இங்கே வர மறக்காதீர்கள். நிலை உயர, தொடர்ந்து எழுதுங்கள், இணைந்து பணியாற்றுங்கள், சமூகத்துடன் ஈடுபடுங்கள்! சரி, இப்போது எழுதத் தொடங்குவோம்!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "உங்கள் தனிப்பட்ட நூலகம்",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "தொடர்ந்து படியுங்கள்",
+      "content": "உங்கள் தனிப்பட்ட நூலகத்துக்கு வரவேற்கிறோம்! உங்கள் வாசிப்பு முன்னேற்றத்தைக் கண்காணிக்க நீங்கள் சேர்த்த கதைகளையும் உலகங்களையும் இங்கே பார்க்கலாம். தொடர்ந்து படியுங்கள் பகுதி நீங்கள் கடைசியாகத் திறந்த உள்ளடக்கத்தைக் காட்டுகிறது; விட்ட இடத்திலிருந்தே எளிதாகத் தொடரலாம்."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "உங்கள் முழு நூலகம்",
+      "content": "இந்தத் தாவல் உங்கள் நூலகத்தில் உள்ள அனைத்தையும் காட்டுகிறது. அருகிலுள்ள தாவல்கள் அதைக் கதைகள், கொள்முதல்கள், ஆடியோபுக்குகள், மாங்கா மற்றும் காமிக்ஸ், அல்லது உலகங்கள் எனக் குறுக்கும். புதுப்பிப்புகளைப் பெறவும் படித்த இடத்தை நினைவில் வைக்கவும், ஒரு கதையையோ உலகத்தையோ உங்கள் நூலகத்தில் சேருங்கள்."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "உங்கள் கதைகள்",
+      "content": "உங்கள் நூலகத்தில் நீங்கள் சேர்த்த எல்லாக் கதைகளும் இங்கே ஒழுங்குபடுத்தப்பட்டுள்ளன. உங்கள் வாசிப்பு முன்னேற்றத்தைக் கண்காணியுங்கள், புதிய அத்தியாயங்கள் பற்றிய அறிவிப்புகளைப் பெறுங்கள், பிடித்த கதைகளில் படித்த இடத்தை ஒருபோதும் தவறவிடாதீர்கள்."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "உங்கள் உலகங்கள்",
+      "content": "உங்கள் நூலகத்தில் நீங்கள் சேர்த்த உலகங்கள் இங்கே தோன்றும். இந்த உலகங்களில் வரும் புதிய கதைகளைப் பற்றித் தெரிந்துகொள்ளுங்கள், அவற்றின் அறிவியல் அரட்டைகளை ஆராயுங்கள், சமூக அம்சங்களில் பங்கேற்றிடுங்கள்."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "வாசிப்பு பட்டியல்",
+      "content": "உங்கள் தனிப்பட்ட வாசிப்பு பட்டியல்களை இங்கே உருவாக்கி நிர்வகியுங்கள். கருப்பொருள், தொடர், அல்லது உங்களுக்குப் பொருத்தமான எந்த அடிப்படையிலும் கதைகளை ஒழுங்குபடுத்துங்கள். பட்டியல்களைப் பிறருடன் பகிரலாம், அல்லது தனிப்பட்டதாக வைத்துக்கொள்ளலாம்."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "தனிப்பட்ட குறிப்புகள்",
+      "content": "தளச் சந்தாவுடன், எந்தக் கதை, உலகம் அல்லது அறிவியல் அரட்டை பதிவுக்கும் தனிப்பட்ட குறிப்புகளைச் சேர்க்கலாம். Literary Universe-ஐப் படித்து ஆராயும்போது உங்கள் எண்ணங்கள், ஊகங்கள், புரிதல்களைக் குறித்து வையுங்கள்."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "உங்கள் நூலகத்தை உருவாக்கத் தயாரா?",
+      "content": "கண்டுபிடிப்பிலிருந்து கதைகளையும் உலகங்களையும் உங்கள் நூலகத்தில் சேர்க்கத் தொடங்குங்கள். வாசிப்பு முன்னேற்றத்தைக் கண்காணியுங்கள், வாசிப்பு பட்டியல்களை உருவாக்குங்கள், தனிப்பட்ட குறிப்புகளால் உங்கள் அனுபவத்தை மேம்படுத்துங்கள். உங்கள் இலக்கியப் பயணம் காத்திருக்கிறது!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "உலக வடிவமைப்பு",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "உங்கள் உலக வடிவமைப்புக்கு வரவேற்கிறோம்!",
+      "content": "உங்கள் முதல் உலகத்தை உருவாக்கியதற்கு வாழ்த்துகள்! உங்கள் இலக்கிய உலகைக் கட்டியெழுப்பி நிர்வகிப்பதற்கான கட்டுப்பாட்டு மையம் இதுதான். உங்கள் உலகத்துக்கு உயிரூட்ட இங்குள்ள ஆற்றல்மிக்க கருவிகள் அனைத்தையும் பார்ப்போம்."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "உங்கள் கதைகளை நிர்வகியுங்கள்",
+      "content": "உங்கள் உலகத்தில் உள்ள எல்லாக் கதைகளையும் இங்கேதான் நிர்வகிக்கிறீர்கள். புதிய கதைகளை உருவாக்குங்கள், உள்ளவற்றைத் திருத்துங்கள், ஒன்றோடொன்று இணைந்த பல கதைகளின் வழியே உங்கள் கதையாடலை ஒழுங்குபடுத்துங்கள். பகிரப்பட்ட உலக அறிவியல் அரட்டையாலும் சமூக அம்சங்களாலும் ஒவ்வொரு கதையும் பயனடையும்."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "உங்கள் அறிவியல் அரட்டையை உருவாக்குங்கள்",
+      "content": "உங்கள் உலகத்தின் அறிவியல் அரட்டையை உருவாக்கி நிர்வகியுங்கள் - உங்கள் உலகுக்கு உயிரூட்டும் அறிவுத் தளம் அது. வாசகர்கள் ஆராயக்கூடிய கதாபாத்திரங்கள், இடங்கள், தொன்மங்கள் மற்றும் பிற விவரங்களைச் சேருங்கள். வளமான அறிவியல் அரட்டை உங்கள் உலகத்தை மேலும் ஈர்ப்புடையதாக்கி, உங்கள் கதைகளின் பின்னணியை வாசகர்கள் புரிந்துகொள்ள உதவும்."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "உங்கள் உலகப் பக்கம்",
+      "content": "இது உங்கள் உலகத்தின் பொதுப் பக்கம்; பார்வையாளர்கள் இங்கே உங்கள் உலகைப் பற்றி அறியலாம், உங்கள் கதைகளைப் படிக்கலாம், அறிவியல் அரட்டையை ஆராயலாம், உங்கள் சமூகத்துடன் ஈடுபடலாம். உங்கள் உலகத்தை முன்னிறுத்தவும் புதிய வாசகர்களை ஈர்க்கவும் இந்தப் பக்கத்தைத் தனிப்பயனாக்குங்கள்."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "மொழிபெயர்ப்புகளை நிர்வகியுங்கள்",
+      "content": "உங்கள் உலக உள்ளடக்கத்தைப் பிற மொழிகளில் மொழிபெயர்க்கும் பணியை ஒருங்கிணையுங்கள். மொழிபெயர்ப்பாளர்களை நிர்வகியுங்கள், முன்னேற்றத்தைக் கண்காணியுங்கள், உங்கள் கதைகள் உலகளாவிய வாசகர்களைச் சென்றடைவதை உறுதிசெய்யுங்கள். மொழிபெயர்ப்புகள் உலகெங்கும் உள்ள வாசகர்களுடன் உங்களை இணைக்கின்றன."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "ரசிப்பாளர்",
+      "content": "உங்கள் உலகத்தால் உந்தப்பட்ட ரசிகர் ஊடாடல்களையும் படைப்புகளையும் நிர்வகியுங்கள். ரசிப்பான் உண்மைகள், ஓவியங்கள் மற்றும் பிற சமூக உள்ளடக்கத்தைக் கண்காணியுங்கள். உங்கள் ரசிகர்களுடன் ஈடுபட்டு, உங்கள் உலகைச் சுற்றி ஒரு செழிப்பான சமூகத்தை உருவாக்குங்கள்."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "உங்கள் வெற்றியைக் கண்காணியுங்கள்",
+      "content": "விரிவான பகுப்பாய்வுகளுடன் உங்கள் உலகத்தின் செயல்திறனைக் கண்காணியுங்கள். வாசகர் ஈடுபாடு, பிரபலமான கதைகள், அறிவியல் அரட்டை பார்வைகள் மற்றும் பிற அளவீடுகளைப் பாருங்கள்; உங்கள் வாசகர்களை எது கவர்கிறது என்பதைப் புரிந்துகொள்ள அவை உதவும்."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "உள் திட்டமிடல் மன்றம்",
+      "content": "இணையதள பங்களிப்பாளர்கள் மற்றும் மொழிபெயர்ப்பாளர்களுடன் திட்டமிடவும் ஒருங்கிணைக்கவும் உங்கள் உலகத்தின் உள் மன்றம். கதை வளைவுகள், உலகக் கட்டமைப்பு விவரங்களை விவாதித்து, உங்கள் படைப்பு முயற்சிகளை ஒருங்கிணையுங்கள். இந்தத் தனிப்பட்ட இடம் உங்கள் குழு திறம்பட இணைந்து பணியாற்ற உதவும்."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "இணையதள பங்களிப்பாளர்களை நிர்வகியுங்கள்",
+      "content": "உங்கள் உலகத்தில் இணைந்து பணியாற்ற எழுத்தாளர்கள், கலைஞர்கள் மற்றும் பிற படைப்பாளர்களை அழையுங்கள். பங்குகளையும் அனுமதிகளையும் ஒதுக்குங்கள், அணுகல் நிலைகளை நிர்வகியுங்கள், உங்கள் உலகை ஒன்றாக வளர்க்க ஒரு குழுவை உருவாக்குங்கள்."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "வருவாய் அமைப்புகள்",
+      "content": "உங்கள் உலகத்திலிருந்தும் அதன் உள்ளடக்கத்திலிருந்தும் எப்படி வருவாய் ஈட்டுவது என்பதை அமையுங்கள். பிரீமியம் அணுகலை அமையுங்கள், சந்தாக்களை நிர்வகியுங்கள், இணையதள பங்களிப்பாளர்களுடன் வருவாய்ப் பகிர்வை ஏற்படுத்துங்கள். உங்கள் படைப்புப் பணியை நிலையான வருமான வழியாக மாற்றுங்கள்."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "தீர்வு மையம்",
+      "content": "உங்கள் உலகத்தில் எழக்கூடிய சர்ச்சைகள், உள்ளடக்க மீறல்கள் மற்றும் பிற சிக்கல்களைக் கையாளுங்கள். இந்த மையப்படுத்தப்பட்ட அமைப்பு நல்ல சமூகச் சூழலைப் பேணவும் முரண்பாடுகளைத் திறம்படத் தீர்க்கவும் உதவுகிறது."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "உலக அமைப்புகள்",
+      "content": "தனியுரிமை, அணுகல் கட்டுப்பாடுகள், வகைகள் மற்றும் பிற அடிப்படை விருப்பங்கள் உள்ளிட்ட உங்கள் உலகத்தின் முக்கிய அமைப்புகளை அமையுங்கள். உங்கள் உலகம் எப்படி இயங்குகிறது, யார் அதனுடன் ஊடாடலாம் என்பதை இந்த அமைப்புகள் தீர்மானிக்கின்றன."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "மன்ற அமைவு",
+      "content": "உங்கள் உலக மன்றத்தின் அமைப்புகளை நுணுக்கமாகச் சரிசெய்யுங்கள். வகைகளை உருவாக்குங்கள், மட்டுறுத்தல் விதிகளை அமையுங்கள், அனுமதிகளை அமையுங்கள், உங்கள் சமூகத்தின் தேவைகளுக்கு ஏற்ப விவாத இடங்களைத் தனிப்பயனாக்குங்கள்."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "உங்கள் உலகத்தை உருவாக்கத் தயாரா?",
+      "content": "வளமான, ஈர்ப்புமிக்க உலகத்தை உருவாக்கத் தேவையான எல்லாக் கருவிகளும் இப்போது உங்களிடம் உள்ளன. சில கதைகளைச் சேர்ப்பது, அறிவியல் அரட்டையை விரிவாக்குவது, இணையதள பங்களிப்பாளர்களை அழைப்பது என்று தொடங்குங்கள். உங்கள் இலக்கிய உலகம் உருவாகக் காத்திருக்கிறது!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "கதை டாஷ்போர்டு",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "உங்கள் கதை டாஷ்போர்டுக்கு வரவேற்கிறோம்!",
+      "content": "இது உங்கள் கதையின் கட்டுப்பாட்டு மையம்; கதையின் எல்லா அம்சங்களையும் இங்கே நிர்வகிக்கிறீர்கள். அத்தியாயங்களை எழுதலாம், கதையின் கட்டமைப்பை ஒழுங்குபடுத்தலாம், பிறருடன் இணைந்து பணியாற்றலாம், உங்கள் முன்னேற்றத்தைக் கண்காணிக்கலாம். முக்கிய அம்சங்களைப் பார்ப்போம்."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "புதிய அத்தியாயங்களைச் சேர்த்தல்",
+      "content": "உங்கள் கதையில் புதிய அத்தியாயங்களை இங்கேதான் சேர்க்கிறீர்கள். புதிய அத்தியாயத்தை உருவாக்க \"புதிய அத்தியாயம்\" பொத்தானைக் கிளிக் செய்யுங்கள். உங்கள் கதை அத்தியாயங்களைத் தானாகவே சரியான வரிசையில் அடுக்கும். அத்தியாயப் பட்டியலின் அடியிலிருந்தும் அத்தியாயங்களைச் சேர்க்கலாம்."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "உங்கள் முன்னேற்றத்தைக் கண்காணியுங்கள்",
+      "content": "விரிவான புள்ளிவிபரங்களுடன் உங்கள் எழுத்து முன்னேற்றத்தையும் வாசகர் ஈடுபாட்டையும் கண்காணியுங்கள். உங்களுக்கு எத்தனை வாசகர்கள் உள்ளனர் என்று பாருங்கள், அத்தியாயப் பார்வைகளைக் கண்காணியுங்கள், காலப்போக்கில் உங்கள் கதையின் செயல்திறனை ஆராயுங்கள்."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "இணையதள பங்களிப்பாளர்களை நிர்வகியுங்கள்",
+      "content": "உங்கள் கதையில் இணைந்து பணியாற்றப் பிற எழுத்தாளர்களை அழையுங்கள். வெவ்வேறு பங்குகளையும் அனுமதிகளையும் ஒதுக்குங்கள், எழுத்துப் பணிகளை ஒருங்கிணையுங்கள், உங்கள் படைப்புக் குழுவை நிர்வகியுங்கள். குழுவாக எழுதும் திட்டங்களுக்கு மிகப் பொருத்தம்."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "மொழிபெயர்ப்பு நிர்வாகம்",
+      "content": "உங்கள் கதையைப் பிற மொழிகளில் மொழிபெயர்க்கும் பணியை ஒருங்கிணையுங்கள். மொழிபெயர்ப்பாளர்களை நிர்வகியுங்கள், மொழிபெயர்ப்பு முன்னேற்றத்தைக் கண்காணியுங்கள், உங்கள் கதையை உலகளாவிய வாசகர்களுக்குக் கிடைக்கச் செய்யுங்கள்."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "வருவாய் அமைப்புகள்",
+      "content": "உங்கள் கதையிலிருந்து எப்படி வருவாய் ஈட்டுவது என்பதை அமையுங்கள். பிரீமியம் அத்தியாயங்களை அமையுங்கள், சந்தா விருப்பங்களை நிர்வகியுங்கள், இணையதள பங்களிப்பாளர்களுடன் வருவாய்ப் பகிர்வை ஏற்படுத்துங்கள். உங்கள் எழுத்தை வருமானமாக மாற்றுங்கள்."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "கதை அமைப்புகள்",
+      "content": "தனியுரிமை, வெளியீட்டு விருப்பங்கள், வகைகள் மற்றும் பிற அடிப்படை விருப்பங்கள் உள்ளிட்ட உங்கள் கதையின் முக்கிய அமைப்புகளை அமையுங்கள். உங்கள் கதை எப்படித் தோன்றுகிறது, எப்படிச் செயல்படுகிறது என்பதை இந்த அமைப்புகள் தீர்மானிக்கின்றன."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "மேலோட்டக் குறிப்புகள்",
+      "content": "உங்கள் கதையின் ஒட்டுமொத்தக் கட்டமைப்பு, கதைத் திருப்பங்கள், கதாபாத்திர வளர்ச்சி மற்றும் முக்கியக் குறிப்புகளைக் குறித்து வையுங்கள். உங்கள் கதையாடலை ஒழுங்குபடுத்துவதற்கான தனிப்பட்ட திட்டமிடல் இடம் இது."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "தனிப்பட்ட எழுத்துச் சவால்கள்",
+      "content": "தனிப்பட்ட எழுத்து இலக்குகளை அமைத்து, சவால்கள் மூலம் உங்கள் முன்னேற்றத்தைக் கண்காணியுங்கள். தினசரி அல்லது வாராந்திரச் சொல் எண்ணிக்கை இலக்குகளை உருவாக்குங்கள், அத்தியாயங்களுக்குக் கெடு வையுங்கள், சீரான எழுத்துப் பழக்கத்தைத் தக்கவைக்க உங்களை நீங்களே ஊக்கப்படுத்துங்கள். உங்கள் எழுத்து அட்டவணையைப் பின்பற்ற உதவும் உங்கள் தனிப்பட்ட கருவி இது."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "கதை வரலாறுகள் நிர்வாகம்",
+      "content": "உங்கள் கதையை வெவ்வேறு கதைக்கோடுகளாகவும் இழைகளாகவும் ஒழுங்குபடுத்துங்கள். கதாபாத்திர வளர்ச்சி, துணைக்கதைகள் மற்றும் கதைக்கூறுகளைக் கண்காணியுங்கள். ஒன்றோடொன்று பின்னிய பல கூறுகள் கொண்ட சிக்கலான கதைகளுக்கு மிகப் பொருத்தம்."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "காட்சி மேலாளர்",
+      "content": "உங்கள் அத்தியாயங்களுக்குள் உள்ள தனித்தனிக் காட்சிகளை ஒழுங்குபடுத்தி நிர்வகியுங்கள். காட்சிகளின் முன்னேற்றத்தைக் கண்காணியுங்கள், காட்சிகளின் வரிசையை மாற்றுங்கள், உங்கள் கதையமைப்பின் ஓட்டத்தைப் பேணுங்கள்."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "சட்ட ஆவணங்கள்",
+      "content": "பதிப்புரிமைத் தகவல், வெளியீட்டு ஒப்பந்தங்கள், உரிமை மேலாண்மை உள்ளிட்ட, உங்கள் கதை தொடர்பான முக்கியச் சட்ட ஆவணங்களை இங்கே அணுகலாம். உங்கள் சட்ட விவகாரங்களை ஒழுங்காக வைத்திருங்கள்."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "பொதுப் பதிப்பு",
+      "content": "பொதுத் தளத்தில் வாசகர்களுக்கு உங்கள் கதை எப்படித் தோன்றுகிறதோ அப்படியே பாருங்கள். வாசகர்களுடன் பகிர்வதற்கு முன் வடிவமைப்பைச் சரிபாருங்கள், இணைப்புகளைச் சோதியுங்கள், எல்லாம் நேர்த்தியாக இருப்பதை உறுதிசெய்யுங்கள்."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "உங்கள் கதையைப் பகிருங்கள்",
+      "content": "பிரபலமான தளங்களுக்கென முன்கூட்டியே தயாரிக்கப்பட்ட உரை மற்றும் இணைப்புகளுடன் உங்கள் கதையைச் சமூக ஊடகங்களில் பகிருங்கள். உங்கள் படைப்பை முன்னிறுத்தி, வெவ்வேறு சமூக வலைதளங்களில் புதிய வாசகர்களைச் சென்றடைய உதவும் பயன்படுத்தத் தயாரான உள்ளடக்கத்தைப் பெறுங்கள்."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "தீர்வு மையம்",
+      "content": "உங்கள் கதை தொடர்பான சட்டச் சர்ச்சைகள், சேவை விதிமுறை மீறல்கள் அல்லது பிற சிக்கல்களைக் கையாளுங்கள். இந்த மையம் புகாரளிக்கப்பட்ட எல்லாச் சிக்கல்களையும் பட்டியலிட்டு, முரண்பாடுகளைத் தீர்க்கவும் நல்ல சமூகச் சூழலைப் பேணவும் கருவிகளைத் தருகிறது."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "கதை நிலை நிர்வாகம்",
+      "content": "இந்த முக்கிய விருப்பங்கள் மூலம் உங்கள் கதையின் வெளியீட்டு நிலையைக் கட்டுப்படுத்துங்கள். \"செயலில்\" என்றால் உங்கள் கதை தொடர்ந்து புதுப்பிக்கப்படுகிறது. \"இடைவெளி\" என்பது தற்காலிக ஓய்வைக் குறிக்கிறது. \"ரத்து செய்யப்பட்டது\" என்றால் நீங்கள் எழுதுவதை நிறுத்திவிட்டீர்கள். \"முடிந்தது\" என்பது உங்கள் கதை நிறைவடைந்ததைக் குறிக்கிறது. உங்கள் தற்போதைய எழுத்து நிலைமைக்கு மிகப் பொருத்தமான நிலையைத் தேர்ந்தெடுங்கள். குறிப்பு: 6 மாதங்கள் எந்த முன்னேற்றமும் இல்லையெனில் கதைகள் தானாகவே \"இடைவெளி\" நிலைக்கு மாறும்; மேலும் 6 மாதங்கள் செயலற்று இருந்தால் \"ரத்து செய்யப்பட்டது\" நிலைக்கு மாறும்."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "எழுதத் தொடங்கத் தயாரா?",
+      "content": "உங்கள் கதையின் ஒவ்வொரு அம்சத்தையும் எப்படி நிர்வகிப்பது என்பது இப்போது உங்களுக்குத் தெரியும். முதல் அத்தியாயத்தைச் சேர்த்துத் தொடங்குங்கள், பிறகு கிடைக்கும் பல்வேறு கருவிகளை ஆராயுங்கள். உங்கள் கதை உருவாகக் காத்திருக்கிறது!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "கதை திருத்தி சுற்றுலா",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "கதை திருத்திக்கு வரவேற்கிறோம்!",
+      "content": "உங்கள் கதைகளை நீங்கள் செதுக்கும் எழுத்துப் பணியிடம் இது. எழுதவும், ஒழுங்குபடுத்தவும், உங்கள் படைப்பை வெளியிடவும் உதவும் ஆற்றல்மிக்க கருவிகளைத் திருத்தி தருகிறது. முக்கிய அம்சங்களைப் பார்ப்போம்."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "எழுத்தளவுக் கட்டுப்பாடு",
+      "content": "எழுதும்போது வசதியாகப் படிக்க எழுத்தளவைச் சரிசெய்யுங்கள். நீண்ட நேரம் எழுதும்போது கண் சோர்வைக் குறைக்க, சாதாரண மற்றும் பெரிய எழுத்தளவுகளுக்கு இடையே மாறுங்கள்."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "இருள் பயன்முறை மாற்றி",
+      "content": "ஒளி மற்றும் இருள் தீம்களுக்கு இடையே மாறுங்கள். இரவில் எழுதும்போது இருள் பயன்முறை கண்களுக்கு இதமாக இருக்கும்; கவனத்தைத் தக்கவைக்கவும் உதவும்."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "அணுகல்தன்மைக் கருவிகள்",
+      "content": "டிஸ்லெக்சியாவுக்கு ஏற்ற எழுத்துருக்கள், பத்தி முன்னிலைப்படுத்தல் மற்றும் உங்கள் வசதிக்கான பிற அணுகல்தன்மை அம்சங்களை இங்கே பெறலாம்."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "பக்கப் பலகத்தை மாற்று",
+      "content": "பக்கப் பலகத்தைக் காட்டுங்கள் அல்லது மறையுங்கள். உங்கள் ஸ்ராட்ச்பேட், கதைக் குறிப்புகள், அறிவியல் அரட்டை, கருத்துக்கள், AI Assistant போன்ற பயனுள்ள கருவிகள் அதில் உள்ளன."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "முழுத்திரைப் பயன்முறை",
+      "content": "உங்கள் எழுத்துப் பரப்பை அதிகப்படுத்தவும் கவனச்சிதறல்களை நீக்கவும் முழுத்திரைப் பயன்முறைக்குச் செல்லுங்கள். ஒருமுகப்பட்டு எழுதுவதற்கு மிகப் பொருத்தம்."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "உங்கள் படைப்பைச் சேமியுங்கள்",
+      "content": "உங்கள் வரைவு தானாகவே சேமிக்கப்படுகிறது. நீங்கள் தட்டச்சு செய்யும்போதே உங்கள் படைப்பு சேமிக்கப்படுகிறது; ஆனாலும் எப்போது வேண்டுமானாலும் நீங்களே கைமுறையாகச் சேமிக்கலாம்."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "வெளியீட்டு விருப்பங்கள்",
+      "content": "உங்கள் வரைவு முடிந்ததும், ஒரு திருத்தப் பதிப்பை உருவாக்கும் நேரம் வந்துவிட்டது. பீட்டா வாசிப்பவர்களுக்கோ பொதுமக்களுக்கோ ஒரு திருத்தப் பதிப்பை உருவாக்கலாம். வெளியிட முடிவு செய்ததும், அத்தியாயம் எப்போது வெளியாகும் என்பது உங்கள் கட்டுப்பாட்டில் இருக்கும்."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "அத்தியாயத் தலைப்பு",
+      "content": "தலைப்பின் பெயரைத் திருத்த அதன் மீது கிளிக் செய்யுங்கள்."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "உங்கள் அத்தியாயத்தைப் பற்றிய தனிப்பட்ட குறிப்புகளையோ, வாசகர்களுக்கான ஒரு செய்தியையோ எழுதுங்கள். இது அத்தியாயத்துக்கு முன்பு உங்கள் வாசகர்களுக்குக் காட்டப்படும் (இங்கே இருப்பது போலவே); அறிவிப்புகளை வெளியிடவோ, இதுவரையிலான கதையைப் பற்றிய எண்ணங்களைப் பகிரவோ இது சிறந்த வழி."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "முதன்மைக் கதை உரை",
+      "content": "உங்கள் கதை உயிர்பெறும் முதன்மை எழுத்துப் பகுதி இது. முழுமையான ரிச் டெக்ஸ்ட் திருத்த வசதிகளுடன் உங்கள் அத்தியாயத்தின் உள்ளடக்கத்தை இங்கே எழுதுங்கள்."
     },
     "asidePanel": {
       "title": "பக்கப் பட்டி கருவிப்பெட்டி",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "content": "பக்கப் பலகத்தில் பயனுள்ள கருவிகளும் தகவல்களும் உள்ளன. உங்கள் ஸ்ராட்ச்பேட், அறிவியல் அரட்டை குறிப்புகள், கருத்துக்கள், AI Assistant போன்ற வெவ்வேறு காட்சிகளுக்கு இடையே மாற, மேலே உள்ள மெனுவைப் பயன்படுத்துங்கள்."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "தனிப்பட்ட ஸ்ராட்ச்பேட்",
+      "content": "யோசனைகள், குறிப்புகள் அல்லது உத்வேகங்களைக் குறித்து வைக்க உங்கள் தனிப்பட்ட ஸ்ராட்ச்பேட் எப்போதும் கையருகில் உள்ளது. முதன்மைக் கதையில் பொருந்தாத, ஆனால் பின்னர் பயன்படக்கூடிய எண்ணங்களை இங்கே வைத்திருங்கள்."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "கதைக் குறிப்புகள்",
+      "content": "உங்கள் கதையின் ஒட்டுமொத்தக் குறிப்புகளையும் திட்டமிடல் பொருட்களையும் இங்கே அணுகலாம். கதைச் சுருக்க வரைவுகள், கதாபாத்திர வளர்ச்சி, உலகக் கட்டமைப்பு விவரங்கள் மற்றும் பிற ஒழுங்கமைப்புத் தகவல்களைக் குறித்து வையுங்கள்."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "அறிவியல் அரட்டை அணுகல்",
+      "content": "உங்கள் உலகத்தின் அறிவியல் அரட்டைக்கு விரைவான அணுகல். எழுதும்போதே கதாபாத்திர விவரங்கள், இடங்கள், தொன்மங்கள் மற்றும் பிற உலகக் கட்டமைப்புக் கூறுகளைப் பார்த்துக்கொள்ளலாம். இங்குள்ள மற்ற பொத்தான்கள் மூலம் தேடலாம், புதிய பதிவுகளைச் சேர்க்கலாம்."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "அத்தியாயக் கருத்துக்கள்",
+      "content": "பீட்டா வாசிப்பவர்கள், இணையதள பங்களிப்பாளர்கள் மற்றும் பிற வாசகர்கள் இந்த அத்தியாயத்தில் இட்ட கருத்துக்களைப் பார்த்துப் பதிலளியுங்கள். உங்கள் வாசகர்களுடன் ஈடுபட்டு, மதிப்புமிக்க பின்னூட்டத்தைப் பெறுங்கள்."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "வெளியிடுவதற்கு முன் சரிபார்க்க வேண்டிய முக்கிய விஷயங்கள் உள்ளன. வெளியீட்டுக்கு முந்தைய செய்ய வேண்டியவை பட்டியலும், பார்க்கத் தகுந்த பிற சிறு சுவாரசியமான விஷயங்களும் இங்கே ஒளிந்துள்ளன."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "உங்கள் கதை, உலகம், அறிவியல் அரட்டை பற்றி உதவியாளரிடம் கேளுங்கள். அது முரண்பாடுகள் இல்லாததைச் சரிபார்க்கும், ஒரு பகுதியைப் பிழைதிருத்தும், அல்லது ஏதேனும் ஒன்றைத் தேடித் தரும். அது உங்கள் எழுத்தைப் பற்றிய கேள்விகளுக்குப் பதிலளிக்கும்; உங்களுக்காக எழுதாது. உங்கள் அமைப்புகளில் நீங்கள் சேர்க்கும் உங்கள் சொந்த API விசையில் அது இயங்குகிறது."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "எழுதத் தொடங்கத் தயாரா?",
+      "content": "கதை திருத்தியின் ஆற்றல்மிக்க அம்சங்கள் அனைத்தையும் எப்படிப் பயன்படுத்துவது என்பது இப்போது உங்களுக்குத் தெரியும். உங்கள் அத்தியாயத்தை எழுதத் தொடங்குங்கள்; தேவைப்படும்போது கருவிகளை ஆராயுங்கள். எப்போதாவது உதவி தேவைப்பட்டால், எங்கள் உதவிப் பக்கத்தையோ The Way of the Author-ஐயோ பாருங்கள், அல்லது எங்களைத் தொடர்புகொள்ளுங்கள். சரி, சில கதைகளை எழுதுவோம்!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "கதை மொழிபெயர்ப்பி சுற்றுலா",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "கதை மொழிபெயர்ப்பிக்கு வரவேற்கிறோம்!",
+      "content": "ஒரு முறை விரைவாகச் சுற்றிப் பார்ப்போம். குறிப்புப் பொருட்களைக் கையருகில் வைத்துக்கொண்டே, மூல உரையை மொழிபெயர்க்க இந்தப் பணியிடத்தைப் பயன்படுத்துங்கள்."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "இடதுபுறம் மூல உரை",
+      "content": "இடது பக்கம் மூல அத்தியாயத்தையும் ஆசிரியரின் குறிப்புகளையும் காட்டுகிறது. பணியாற்றும்போது ஒப்புநோக்க அதைத் திறந்தே வைத்திருங்கள்."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "வலதுபுறம் மொழிபெயருங்கள்",
+      "content": "உங்கள் மொழிபெயர்ப்பை வலதுபுறம் எழுதுங்கள். இங்கே நீங்கள் சேமிக்கும் அனைத்தும், இந்த மொழியின் வாசகர்கள் பார்க்கும் பதிப்பாக மாறும்."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "உலக அறிவியல் அரட்டை அணுகல்",
+      "content": "தொன்மங்களோ கலைச்சொற்களோ தேவையா? உலகத்தை இன்னும் நன்றாகப் புரிந்துகொள்ள, எங்கள் பக்கப்பட்டியில் உலக அறிவியல் அரட்டைக்கான அணுகலைக் காணலாம்."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "அறிவியல் அரட்டைக்கு வரவேற்கிறோம்",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "உங்கள் உலக அறிவியல் அரட்டை",
+      "content": "உங்கள் அறிவியல் அரட்டைக்கு வரவேற்கிறோம்! உங்கள் உலகத்தைப் பற்றிய எல்லா அறிவையும் ஒழுங்குபடுத்தி, உங்கள் ரசிகர்களுடன் பகிரும் இடம் இதுதான்."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "உங்கள் உள்ளடக்கத்தை ஒழுங்குபடுத்துங்கள்",
+      "content": "\"வகைகள்\" மற்றும் \"குழுக்கள்\" காட்சிகளுக்கு இடையே மாறுங்கள். வகைகள், பதிவுகளை அவற்றின் வகைப்படி (கதாபாத்திரங்கள், இடங்கள் போன்றவை) ஒழுங்குபடுத்திக் காட்டும்; குழுக்கள், மூலப் பதிவுகள் முதலியவற்றால் அமைக்கப்படும் தனிப்பயன் புலக் குழுவாக்கங்களின்படி பதிவுகளைப் பார்க்க உதவும்."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "உங்கள் வகைகள்",
+      "content": "இவை உங்கள் அறிவியல் அரட்டையின் வகைகள். தகவலை ஒழுங்குபடுத்த ஒவ்வொரு வகைக்கும் தனி வார்ப்புரு உள்ளது. எந்த வகையையும் விரித்து அதிலுள்ள பதிவுகளைப் பார்க்க, அதன் மீது கிளிக் செய்யுங்கள்."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "தேவையானதைக் கண்டறியுங்கள்",
+      "content": "உங்கள் அறிவியல் அரட்டையில் உள்ள எந்தப் பதிவையும் விரைவாகக் கண்டறிய தேடலைப் பயன்படுத்துங்கள். பெயர், உள்ளடக்கம் அல்லது குறிச்சொற்கள் மூலம் தேடி, தகவலை உடனே கண்டுபிடியுங்கள்."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "புதிய பதிவுகளை உருவாக்குங்கள்",
+      "content": "உங்கள் அறிவியல் அரட்டையில் புதிய பதிவுகளைச் சேருங்கள். தொடங்க உதவ ஒவ்வொரு வகைக்கும் தனிப் படிவ வார்ப்புரு உள்ளது; ஆனால் அவற்றை உங்கள் விருப்பப்படி மாற்றிக்கொள்ளலாம்."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "உங்கள் அறிவியல் அரட்டையைத் தனிப்பயனாக்குங்கள்",
+      "content": "எந்த வகைகளைப் பயன்படுத்த விரும்புகிறீர்கள் என்பதைத் தேர்ந்தெடுக்கவும், வரவேற்புச் செய்தியை அமைக்கவும், அறிவியல் அரட்டையின் பிற விவரங்களை அமைக்கவும் அதன் அமைப்புகளைக் கட்டாயம் பாருங்கள்."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "இப்போது அடிப்படைகள் உங்களுக்குத் தெரியும்! உங்கள் உலகத்தைத் தொடர்ந்து கட்டியெழுப்ப வடிவமைப்புக்குத் திரும்புங்கள், அல்லது உங்கள் அறிவியல் அரட்டையில் பதிவுகளைச் சேர்க்கத் தொடங்குங்கள். இனிய எழுத்து!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "பீட்டா வாசிப்பவர் வழிகாட்டி",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "பீட்டா வாசிப்புக்கு வரவேற்கிறோம்!",
+      "content": "ஒரு பீட்டா வாசிப்பவராக, ஆசிரியர்கள் தங்கள் கதைகளை மேம்படுத்த உதவுவதில் நீங்கள் முக்கியப் பங்கு வகிக்கிறீர்கள். உங்கள் பின்னூட்டம் சிக்கல்களைக் கண்டறியவும், தெளிவை மேம்படுத்தவும், கதைகளை வாசகர்களுக்கு மேலும் சுவையானதாக்கவும் உதவுகிறது. பீட்டா வாசிப்பு இடைமுகத்தில் எப்படி நகர்வது, பயனுள்ள பின்னூட்டத்தை எப்படித் தருவது என்பதை இந்த வழிகாட்டி காட்டும்."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "உங்கள் முதன்மைத் தொடர்புக் கருவி",
+      "content": "ஆசிரியருக்கான கருத்துக்களை இங்கேதான் இடுகிறீர்கள்! கருத்துப் பலகத்தைத் திறக்க இங்கே கிளிக் செய்யுங்கள். அத்தியாயம் பற்றிய பொதுவான பின்னூட்டத்தைச் சேர்க்கலாம், குறிப்பிட்ட பகுதிகளை முன்னிலைப்படுத்தலாம், கேள்விகள் கேட்கலாம், அல்லது மேம்பாடுகளைப் பரிந்துரைக்கலாம். ஆசிரியருடன் நீங்கள் தொடர்புகொள்ளும் முதன்மை வழி உங்கள் கருத்துக்களே."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "கருத்திடும் இடைமுகம்",
+      "content": "கருத்துப் பலகத்தில், பிற பீட்டா வாசிப்பவர்கள் ஏற்கெனவே தந்த பின்னூட்டத்தைப் பார்க்கலாம்; உங்களுடையதையும் சேர்க்கலாம். உங்கள் எண்ணங்களைப் பகிர, கீழே உள்ள கருத்துப் பெட்டியைப் பயன்படுத்துங்கள். எது நன்றாக வந்துள்ளது, எதை மேம்படுத்தலாம் என்பதைக் குறிப்பாகச் சொல்லுங்கள் - ஆக்கபூர்வமான பின்னூட்டமே மிகவும் உதவும்!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "வாசிப்புக் கருவிகள்",
+      "content": "உங்கள் வாசிப்பு அனுபவத்தைத் தனிப்பயனாக்க இந்தக் கருவிகளைப் பயன்படுத்துங்கள். வாசிப்பை மேலும் வசதியாக்க, எழுத்தளவைச் சரிசெய்யலாம், இருள் பயன்முறையை மாற்றலாம், Open Dyslexic எழுத்துரு அல்லது பத்தி முன்னிலைப்படுத்தல் போன்ற அணுகல்தன்மை அம்சங்களை இயக்கலாம்."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "பின்னூட்டம் தரத் தயாரா?",
+      "content": "பீட்டா வாசிப்பு இடைமுகத்தில் எப்படி நகர்வது, ஆசிரியர்களுடன் தொடர்புகொள்ளக் கருத்து அம்சத்தை எப்படிப் பயன்படுத்துவது என்பது இப்போது உங்களுக்குத் தெரியும். முதலில் அத்தியாயத்தைப் படியுங்கள்; பிறகு பக்கப்பட்டியைத் திறந்து, உங்கள் சிந்தனைமிக்க பின்னூட்டத்தைப் பகிருங்கள். உங்கள் பங்களிப்பு, ஆசிரியர்கள் இன்னும் சிறந்த கதைகளை உருவாக்க உதவுகிறது!"
     }
   }
 }

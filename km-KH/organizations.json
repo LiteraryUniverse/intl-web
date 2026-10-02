@@ -300,5 +300,9 @@
   "org.setup.closed": "ការរៀបចំដែលមិនបានប្រើនេះត្រូវបានបិទ ហើយអាសយដ្ឋានអង្គភាពត្រូវបានដោះលែង។ កំណត់ត្រារបស់អ្នកត្រូវបានរក្សាទុកនៅទីនេះ។",
   "org.setup.restart": "ចាប់ផ្ដើមការរៀបចំអង្គភាពថ្មី",
   "org.setup.expiryNotice": "អាសយដ្ឋានអង្គភាពដែលមិនបានប្រើនឹងត្រូវដោះលែងបន្ទាប់ពី 30 ថ្ងៃ។ អ្នកក៏អាចបោះបង់ការរៀបចំនេះឥឡូវនេះបានដែរ។",
-  "org.setup.inUse": "ការរៀបចំនេះមានសកម្មភាពវិក្កយបត្រ ឬការទូទាត់ប្រាក់។ សូមរង់ចាំរហូតដល់ការទូទាត់ដែលកំពុងបើកណាមួយផុតកំណត់ ឬទាក់ទងផ្នែកជំនួយមុនពេលបិទវា។"
+  "org.setup.inUse": "ការរៀបចំនេះមានសកម្មភាពវិក្កយបត្រ ឬការទូទាត់ប្រាក់។ សូមរង់ចាំរហូតដល់ការទូទាត់ដែលកំពុងបើកណាមួយផុតកំណត់ ឬទាក់ទងផ្នែកជំនួយមុនពេលបិទវា។",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

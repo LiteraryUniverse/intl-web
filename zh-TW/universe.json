@@ -31,8 +31,8 @@
   "universe.createdAt": "已建立： {date}",
   "universe.authors.none": "無作者資訊。",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "允許留言",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "粉絲藝術圖片",
   "universe.stories": "Stories"
 }

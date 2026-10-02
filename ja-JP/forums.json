@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "カテゴリーを選択...",
   "forums.posts.loadError": "投稿の読み込みエラー",
   "forums.category.orgRoles": "組織のロールに限定（未選択＝全メンバー）",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "返信を編集",
+  "forums.post.delete": "返信を削除",
+  "forums.post.deleteConfirm": "この返信を削除しますか？このディスカッションには表示されなくなります。",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "この返信は削除されました。",
+  "forums.post.hidden": "この返信はモデレーションにより非表示になっています。"
 }

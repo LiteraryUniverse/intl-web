@@ -71,13 +71,13 @@
   "sharing.advanced.bgLimitReached": "Has alcanzado el número máximo de imágenes de fondo para tu suscripción.",
   "sharing.advanced.bgUploadError": "No se pudo subir la imagen de fondo.",
   "sharing.advanced.deleteBackground": "Eliminar fondo",
-  "sharing.card.title": "Link preview",
-  "sharing.card.description": "This image appears when someone shares a link to your work. By default, we generate it from the cover. Upload your own image to replace the automatic card, or switch back at any time.",
-  "sharing.card.visibility": "This preview is for your workshop. Public links show this card only when the work is published and visible to guests. Chapter links use the story’s card.",
-  "sharing.card.automatic": "Generated from the cover",
-  "sharing.card.custom": "Your custom share card",
-  "sharing.card.preview": "Social link preview image",
-  "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
-  "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.title": "Vista previa del enlace",
+  "sharing.card.description": "Esta imagen aparece cuando alguien comparte un enlace a tu obra. De forma predeterminada, la generamos a partir de la portada. Sube tu propia imagen para sustituir la tarjeta automática, o vuelve a la automática cuando quieras.",
+  "sharing.card.visibility": "Esta vista previa es para tu taller. Los enlaces públicos muestran esta tarjeta solo cuando la obra está publicada y es visible para los visitantes. Los enlaces a capítulos usan la tarjeta de la historia.",
+  "sharing.card.automatic": "Generada a partir de la portada",
+  "sharing.card.custom": "Tu tarjeta personalizada para compartir",
+  "sharing.card.preview": "Imagen de vista previa del enlace en redes sociales",
+  "sharing.card.uploadRequirements": "Sube un PNG, JPEG o WebP de hasta 5 MB. Usa 1200 × 630 píxeles; los demás tamaños se recortan para ajustarlos.",
+  "sharing.card.reset": "Usar la portada automáticamente",
+  "sharing.card.examples": "Ejemplos de vistas previas de enlaces. Cada plataforma puede recortar las imágenes, acortar el texto o mostrar una versión en caché de forma distinta."
 }

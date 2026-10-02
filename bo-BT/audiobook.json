@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "སྐད་གདངས་འཁྲབ་སྟོན་པ",
   "audiobook.team.you": "ཁྱེད",
   "audiobook.whereToListen": "གང་དུ་ཉན་དགོས",
+  "audiobook.team.members": "Team members",
+  "audiobook.team.noMembers": "No team members yet.",
   "audiobook.orgFeatureDisabled": "Audio books are not enabled for this organization."
 }

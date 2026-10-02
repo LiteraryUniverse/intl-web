@@ -71,13 +71,13 @@
   "sharing.advanced.bgLimitReached": "لقد وصلت إلى الحد الأقصى لعدد صور الخلفية المتاحة في اشتراكك.",
   "sharing.advanced.bgUploadError": "فشل في رفع صورة الخلفية.",
   "sharing.advanced.deleteBackground": "حذف الخلفية",
-  "sharing.card.title": "Link preview",
-  "sharing.card.description": "This image appears when someone shares a link to your work. By default, we generate it from the cover. Upload your own image to replace the automatic card, or switch back at any time.",
-  "sharing.card.visibility": "This preview is for your workshop. Public links show this card only when the work is published and visible to guests. Chapter links use the story’s card.",
-  "sharing.card.automatic": "Generated from the cover",
-  "sharing.card.custom": "Your custom share card",
-  "sharing.card.preview": "Social link preview image",
-  "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
-  "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.title": "معاينة الرابط",
+  "sharing.card.description": "تظهر هذه الصورة عندما يشارك أحدهم رابطًا لعملك. افتراضيًا نولّدها من الغلاف. ارفع صورتك الخاصة لتحلّ محلّ البطاقة التلقائية، أو عُد إليها في أي وقت.",
+  "sharing.card.visibility": "هذه المعاينة خاصة بورشة عملك. الروابط العامة تعرض هذه البطاقة فقط عندما يكون العمل منشورًا ومرئيًا للزوار. روابط الفصول تستخدم بطاقة القصة.",
+  "sharing.card.automatic": "مُولَّدة من الغلاف",
+  "sharing.card.custom": "بطاقة المشاركة المخصّصة الخاصة بك",
+  "sharing.card.preview": "صورة معاينة الرابط على وسائل التواصل",
+  "sharing.card.uploadRequirements": "ارفع ملف PNG أو JPEG أو WebP بحجم لا يتجاوز 5 MB. استخدم 1200 × 630 بكسل؛ الأحجام الأخرى تُقصّ لتلائم.",
+  "sharing.card.reset": "استخدام الغلاف تلقائيًا",
+  "sharing.card.examples": "أمثلة على معاينات الرابط. قد تقصّ كل منصة الصور، أو تختصر النص، أو تعرض نسخة مخزّنة مؤقتًا بشكل مختلف."
 }

@@ -135,7 +135,7 @@
   "comics.search.noResults": "Δεν βρέθηκαν manga ή κόμικς.",
   "comics.search.status": "Κατάσταση δημοσίευσης",
   "comics.settings.universe": "Σύμπαν",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Ρυθμίσεις έργου",
   "comics.split.author": "Συγγραφέας",
   "comics.splitMustTotal": "Η κατανομή εσόδων πρέπει να αθροίζει 100%.",
   "comics.startReading": "Έναρξη ανάγνωσης",
@@ -196,6 +196,9 @@
   "comics.volumes": "Τόμοι",
   "comics.volumes.empty": "Δεν έχουν οριστεί τόμοι.",
   "comics.volumesHelp": "Πουλήστε εύρη κεφαλαίων ως τόμους. Οι αριθμοί κεφαλαίων είναι συμπεριληπτικοί και τα εύρη δεν πρέπει να επικαλύπτονται.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Σήμανση ως ολοκληρωμένου μόλις κυκλοφορήσει το τελευταίο προγραμματισμένο κεφάλαιο ({date})",
+  "comics.finish.scheduledNotice": "Το {format} θα σημανθεί ως ολοκληρωμένο στις {date}, όταν κυκλοφορήσει το τελευταίο προγραμματισμένο κεφάλαιό του.",
+  "comics.reader.loading": "Κόμικ",
+  "comics.translation.mode.label": "Λειτουργία: {mode}",
+  "comics.pagesCount": "{count, plural, one {# σελίδα} other {# σελίδες}}"
 }

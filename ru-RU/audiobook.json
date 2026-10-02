@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Чтецы",
   "audiobook.team.you": "вы",
   "audiobook.whereToListen": "Где послушать",
+  "audiobook.team.members": "Участники команды",
+  "audiobook.team.noMembers": "В команде пока никого нет.",
   "audiobook.orgFeatureDisabled": "Аудиокниги не включены для этой организации."
 }

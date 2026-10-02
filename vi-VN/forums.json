@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Chọn một danh mục...",
   "forums.posts.loadError": "Lỗi tải bài viết",
   "forums.category.orgRoles": "Giới hạn theo vai trò trong tổ chức (không chọn = mọi thành viên)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Chỉnh sửa câu trả lời",
+  "forums.post.delete": "Xóa câu trả lời",
+  "forums.post.deleteConfirm": "Xóa câu trả lời này? Nó sẽ không còn xuất hiện trong cuộc thảo luận này.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Câu trả lời này đã bị xóa.",
+  "forums.post.hidden": "Câu trả lời này đã bị bộ phận kiểm duyệt ẩn."
 }

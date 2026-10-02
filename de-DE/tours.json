@@ -4,429 +4,413 @@
     "previous": "Vorherige",
     "skip": "Tour überspringen",
     "close": "Tour schließen",
-    "end": "End Tour",
+    "end": "Tour beenden",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
+    "keyboardHint": "Mit den Pfeiltasten navigieren, mit ESC schließen",
     "start": "Tour starten"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Willkommen auf deinem Dashboard",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Willkommen bei Literary Universe",
+      "content": "Machen wir einen kurzen Rundgang durch dein Dashboard, damit dir der Einstieg ins Schreiben leichtfällt."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Hauptnavigation",
+      "content": "Das ist dein Hauptmenü. Gehen wir die einzelnen Punkte durch."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Deine persönliche Startseite mit aktuellen Aktivitäten und Zugang zu deiner Werkstatt, deiner Bibliothek und den Community-Funktionen."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Erkunde Geschichten und Universen anderer Nutzer. Lies Blicke hinter die Kulissen und ausführliche Blogbeiträge der Autoren. Finde deine nächste Lieblingslektüre!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Geteilte Freude ist zehnfache Freude! Finde Gruppen von Gleichgesinnten, komm auf unseren Discord und entdecke, wer sonst noch bei Literary Universe ist!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Das Scratchpad ist dein persönliches Notizbuch. Es ist immer griffbereit, damit du Ideen, Notizen und Gedanken festhalten kannst."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Bleib auf dem Laufenden über Kommentare, neue Follower und alles andere, was in der Community passiert."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Tausche dich mit anderen Autoren und Beta-Lesern aus und arbeite gemeinsam an Projekten."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Verwalte deine persönlichen Daten, Vorlieben und Kontoeinstellungen."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Dein kreativer Raum zum Schreiben, Überarbeiten und Verwalten deiner Geschichten und Universen."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Deine Bibliothek",
+        "content": "Alle gespeicherten Geschichten, Leselisten und heruntergeladenen Inhalte an einem Ort."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Schnellzugriff",
+      "content": "Über diese Seitenleiste erreichst du wichtige Funktionen und Werkzeuge schnell."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Für Autoren passiert die Magie in der Werkstatt! Beginne eine neue Geschichte, schreibe an einer bestehenden weiter oder baue dein Universum aus. Deine Leser warten!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Für Leser ist die Entdeckung das Tor zu großartigen Geschichten! Erkunde neue Genres, folge deinen Lieblingsautoren und stelle Leselisten zusammen. Viel Spaß beim Lesen!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
     "takeTour": "Neu hier? Machen Sie eine kurze Tour durch Ihr Dashboard!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Willkommen in deiner Werkstatt",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Willkommen in der Werkstatt von Literary Universe",
+      "content": "Die Werkstatt ist das Herz deiner kreativen Arbeit bei Literary Universe. Hier erstellst und verwaltest du deine Geschichten und Universen und arbeitest mit anderen daran."
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "Der Weg des Autors",
+      "content": "Mit „Der Weg des Autors“ verfolgst du deine Entwicklung als Autor. Das spielerische System lässt dich Stufen aufsteigen, wenn du Schreibmeilensteine erreichst und dich in der Community einbringst. Klicke hier, um zu erfahren, wie es funktioniert."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Etwas Neues beginnen",
+      "content": "„Erstellen starten“ fragt, was du machen möchtest: ein Universum für Geschichten, die sich eine Welt teilen, eine eigenständige Geschichte, Fan-Fiktion oder einen Comic. Es führt dich durch die ersten Entscheidungen, und am Ende hast du einen Entwurf. Veröffentlicht wird erst, wenn du es selbst tust."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Alle deine Projekte",
+      "content": "Hier steht jedes Universum, jede Geschichte, jeder Comic und jedes Hörbuch, das dir gehört oder an dem du mitarbeitest. Mit den Schaltflächen rechts wechselst du zwischen Covern und einer kompakten Liste. Einladungen zur Mitarbeit, zum Übersetzen oder zum Beta-Lesen erscheinen über der Liste als Anfragen, die du annehmen oder ablehnen kannst."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Das richtige Projekt finden",
+      "content": "„Zugriff“ grenzt die Liste ein: auf eigene Projekte, auf Projekte, in deren Team du bist, auf Übersetzungen oder auf Geschichten, die du als Beta-Leser prüfst. „Format“ und „Status“ grenzen weiter ein, und „Sortierung“ stellt das zuletzt aktualisierte Projekt nach oben."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Setze deinen Weg fort",
+      "content": "Schau hier regelmäßig vorbei, um deinen Fortschritt auf dem Weg des Autors zu sehen. Schreibe weiter, arbeite mit anderen zusammen und bring dich in der Community ein, um aufzusteigen! Und jetzt: ran ans Schreiben!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Deine persönliche Bibliothek",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Weiterlesen",
+      "content": "Willkommen in deiner persönlichen Bibliothek! Hier siehst du die Geschichten und Universen, die du hinzugefügt hast, um deinen Lesefortschritt zu verfolgen. Der Bereich „Weiterlesen“ zeigt, was du zuletzt geöffnet hast, damit du genau dort weitermachen kannst, wo du aufgehört hast."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Deine gesamte Bibliothek",
+      "content": "Dieser Tab zeigt alles in deiner Bibliothek. Die Tabs daneben grenzen auf Geschichten, gekaufte Geschichten, Hörbücher, Manga & Comics oder Universen ein. Füge eine Geschichte oder ein Universum zu deiner Bibliothek hinzu, um Neuigkeiten zu erhalten und deine Lesestelle zu behalten."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Deine Geschichten",
+      "content": "Hier findest du alle Geschichten, die du zu deiner Bibliothek hinzugefügt hast. Behalte deinen Lesefortschritt im Blick, lass dich über neue Kapitel benachrichtigen und verliere in deinen Lieblingsgeschichten nie wieder die Stelle."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Deine Universen",
+      "content": "Hier erscheinen die Universen, die du zu deiner Bibliothek hinzugefügt hast. Erfahre von neuen Geschichten in diesen Universen, stöbere in ihren Enzyklopädien und nutze die Community-Funktionen."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Leselisten",
+      "content": "Hier erstellst und verwaltest du deine persönlichen Leselisten. Ordne Geschichten nach Themen, Reihen oder ganz nach deinen eigenen Kriterien. Teile deine Listen mit anderen oder behalte sie für dich."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Persönliche Notizen",
+      "content": "Mit einem Plattform-Abonnement kannst du zu jeder Geschichte, jedem Universum und jedem Enzyklopädie-Eintrag persönliche Notizen anlegen. Halte deine Gedanken, Theorien und Erkenntnisse fest, während du Literary Universe liest und erkundest."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Bereit, deine Bibliothek aufzubauen?",
+      "content": "Füge über die Entdeckung Geschichten und Universen zu deiner Bibliothek hinzu. Verfolge deinen Lesefortschritt, lege Leselisten an und bereichere dein Leseerlebnis mit persönlichen Notizen. Deine literarische Reise wartet!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Universum-Werkstatt",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Willkommen in deiner Universum-Werkstatt!",
+      "content": "Glückwunsch zu deinem ersten Universum! Das ist die Kommandozentrale, von der aus du deine literarische Welt aufbaust und verwaltest. Sehen wir uns die Werkzeuge an, mit denen du dein Universum zum Leben erweckst."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Deine Geschichten verwalten",
+      "content": "Hier verwaltest du alle Geschichten deines Universums. Lege neue an, bearbeite bestehende und ordne deine Erzählung über mehrere miteinander verbundene Geschichten hinweg. Jede Geschichte profitiert von der gemeinsamen Enzyklopädie und den Community-Funktionen des Universums."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Deine Enzyklopädie aufbauen",
+      "content": "Erstelle und pflege die Enzyklopädie deines Universums, die Wissensbasis, die deine Welt lebendig macht. Füge Charaktere, Orte, Hintergrundwissen und weitere Details hinzu, die Leser erkunden können. Eine reichhaltige Enzyklopädie lässt Leser tiefer in dein Universum eintauchen und hilft ihnen, den Hintergrund deiner Geschichten zu verstehen."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Deine Universum-Seite",
+      "content": "Das ist die öffentliche Seite deines Universums. Besucher erfahren hier mehr über deine Welt, lesen deine Geschichten, stöbern in der Enzyklopädie und treten mit deiner Community in Kontakt. Gestalte die Seite so, dass sie dein Universum zeigt und neue Leser anzieht."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Übersetzungen verwalten",
+      "content": "Koordiniere die Übersetzung deiner Universum-Inhalte in andere Sprachen. Verwalte Übersetzer, verfolge den Fortschritt und sorge dafür, dass deine Geschichten ein weltweites Publikum erreichen. Mit Übersetzungen erreichst du Leser auf der ganzen Welt."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Fan-Manager",
+      "content": "Verwalte Fan-Aktivitäten und Werke, die von deinem Universum inspiriert sind. Behalte Fan-Fiktion, Fan-Art und andere Community-Inhalte im Blick. Tausche dich mit deinen Fans aus und baue rund um deine Welt eine lebendige Community auf."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Deinen Erfolg verfolgen",
+      "content": "Beobachte mit detaillierten Auswertungen, wie sich dein Universum entwickelt. Du siehst das Leserinteresse, beliebte Geschichten, Aufrufe der Enzyklopädie und weitere Kennzahlen, die zeigen, was bei deinem Publikum ankommt."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Internes Planungsforum",
+      "content": "Das interne Forum deines Universums für die Planung und Abstimmung mit Mitarbeitern und Übersetzern. Besprecht Handlungsbögen und Details des Weltenbaus und stimmt eure kreative Arbeit ab. In diesem privaten Raum arbeitet dein Team gut zusammen."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Mitarbeiter verwalten",
+      "content": "Lade Autoren, Künstler und andere Kreative ein, an deinem Universum mitzuarbeiten. Vergib Rollen und Berechtigungen, lege Zugriffsstufen fest und stelle ein Team zusammen, das deine Welt gemeinsam weiterentwickelt."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Einnahmen-Einstellungen",
+      "content": "Lege fest, wie du mit deinem Universum und seinen Inhalten Geld verdienst. Richte Premium-Zugang ein, verwalte Abonnements und regle die Umsatzbeteiligung mit Mitarbeitern. Mach aus deiner kreativen Arbeit eine dauerhafte Einnahmequelle."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Lösungszentrum",
+      "content": "Bearbeite Streitfälle, Inhaltsverstöße und andere Probleme, die in deinem Universum auftreten können. Dieses zentrale System hilft, die Community freundlich zu halten und Konflikte zügig zu lösen."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Universum-Einstellungen",
+      "content": "Lege die Grundeinstellungen deines Universums fest, darunter Privatsphäre, Zugriffskontrolle, Kategorien und weitere grundlegende Optionen. Sie bestimmen, wie dein Universum funktioniert und wer damit interagieren kann."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Forum-Konfiguration",
+      "content": "Passe das Forum deines Universums im Detail an. Lege Kategorien an, bestimme Moderationsregeln, vergib Berechtigungen und richte die Diskussionsbereiche so ein, wie deine Community sie braucht."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Bereit, dein Universum aufzubauen?",
+      "content": "Jetzt hast du alle Werkzeuge für ein reichhaltiges, fesselndes Universum. Füge zuerst ein paar Geschichten hinzu, baue deine Enzyklopädie aus und lade Mitarbeiter ein. Deine literarische Welt wartet darauf, erschaffen zu werden!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Geschichten-Dashboard",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Willkommen auf dem Dashboard deiner Geschichte!",
+      "content": "Das ist die Kommandozentrale deiner Geschichte, in der du alle Aspekte deiner Erzählung verwaltest. Hier schreibst du Kapitel, ordnest den Aufbau, arbeitest mit anderen zusammen und verfolgst deinen Fortschritt. Sehen wir uns die wichtigsten Funktionen an."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Neue Kapitel hinzufügen",
+      "content": "Hier fügst du deiner Geschichte neue Kapitel hinzu. Klicke auf die Schaltfläche „Neues Kapitel“, um ein Kapitel anzulegen. Die Kapitel werden automatisch in die richtige Reihenfolge gebracht. Du kannst Kapitel auch am Ende der Kapitelliste hinzufügen."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Deinen Fortschritt verfolgen",
+      "content": "Verfolge mit detaillierten Statistiken deinen Schreibfortschritt und das Interesse deines Publikums. Du siehst, wie viele Leser du hast, wie oft Kapitel aufgerufen werden und wie sich deine Geschichte im Lauf der Zeit entwickelt."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Mitarbeiter verwalten",
+      "content": "Lade andere Autoren ein, an deiner Geschichte mitzuschreiben. Vergib Rollen und Berechtigungen, stimmt das Schreiben ab und verwalte dein kreatives Team. Ideal für gemeinsame Schreibprojekte."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Übersetzungen verwalten",
+      "content": "Koordiniere die Übersetzung deiner Geschichte in andere Sprachen. Verwalte Übersetzer, verfolge den Fortschritt und mach deine Geschichte einem weltweiten Publikum zugänglich."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Einnahmen-Einstellungen",
+      "content": "Lege fest, wie du mit deiner Geschichte Geld verdienst. Richte Premium-Kapitel ein, verwalte Abonnement-Optionen und regle die Umsatzbeteiligung mit Mitarbeitern. Mach aus deinem Schreiben ein Einkommen."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Einstellungen der Geschichte",
+      "content": "Lege die Grundeinstellungen deiner Geschichte fest, darunter Privatsphäre, Veröffentlichungsoptionen, Kategorien und weitere grundlegende Vorgaben. Sie bestimmen, wie deine Geschichte erscheint und funktioniert."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Übersichtsnotizen",
+      "content": "Halte den Gesamtaufbau deiner Geschichte, Handlungspunkte, Figurenentwicklungen und wichtige Notizen fest. Das ist dein persönlicher Planungsbereich, in dem du deine Erzählung ordnest."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Persönliche Schreib-Herausforderungen",
+      "content": "Setze dir persönliche Schreibziele und verfolge deinen Fortschritt mit Herausforderungen. Lege tägliche oder wöchentliche Wortzahlen fest, gib dir Fristen für Kapitel und motiviere dich, regelmäßig zu schreiben. Dieses Werkzeug siehst nur du, und es hilft dir, deinen Schreibplan einzuhalten."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Handlungsstränge verwalten",
+      "content": "Gliedere deine Geschichte in verschiedene Handlungsstränge. Behalte Figurenentwicklungen, Nebenhandlungen und Erzählelemente im Blick. Ideal für komplexe Geschichten mit vielen miteinander verwobenen Elementen."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Szenen-Manager",
+      "content": "Ordne und verwalte die einzelnen Szenen deiner Kapitel. Verfolge den Stand jeder Szene, ändere die Reihenfolge und halte den Erzählfluss stimmig."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Rechtliche Dokumente",
+      "content": "Hier findest du wichtige rechtliche Dokumente zu deiner Geschichte, darunter Angaben zum Urheberrecht, Verlagsverträge und die Rechteverwaltung. So behältst du deine rechtlichen Angelegenheiten im Griff."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Öffentliche Version",
+      "content": "Sieh dir deine Geschichte so an, wie Leser sie auf der öffentlichen Seite sehen. Prüfe die Formatierung, teste Links und stelle sicher, dass alles stimmt, bevor du sie mit deinem Publikum teilst."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Deine Geschichte teilen",
+      "content": "Teile deine Geschichte in den sozialen Medien, mit vorbereiteten Texten und Links für beliebte Plattformen. Du bekommst fertige Inhalte, die dein Werk vorstellen und dir helfen, in verschiedenen Netzwerken neue Leser zu erreichen."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Lösungszentrum",
+      "content": "Bearbeite Rechtsstreitigkeiten, Verstöße gegen die Nutzungsbedingungen und andere Probleme rund um deine Geschichte. Diese zentrale Stelle listet alle gemeldeten Probleme auf und bietet Werkzeuge, um Konflikte zu lösen und die Community freundlich zu halten."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Status der Geschichte verwalten",
+      "content": "Mit diesen Optionen steuerst du den Veröffentlichungsstatus deiner Geschichte. „Aktiv“ bedeutet, dass deine Geschichte regelmäßig aktualisiert wird. „Auf Eis“ steht für eine vorübergehende Pause. „Abgebrochen“ heißt, dass du nicht mehr daran schreibst. „Fertig“ kennzeichnet deine Geschichte als abgeschlossen. Wähle den Status, der deine aktuelle Schreibsituation am besten beschreibt. Hinweis: Geschichten wechseln nach 6 Monaten ohne Weiterentwicklung automatisch zu „Auf Eis“ und nach weiteren 6 Monaten Inaktivität zu „Abgebrochen“."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Bereit, mit dem Schreiben zu beginnen?",
+      "content": "Jetzt weißt du, wie du jeden Aspekt deiner Geschichte verwaltest. Füge zuerst dein erstes Kapitel hinzu und probiere dann die verschiedenen Werkzeuge aus. Deine Geschichte wartet darauf, geschrieben zu werden!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Tour durch den Geschichten-Editor",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Willkommen im Geschichten-Editor!",
+      "content": "Das ist dein Schreibbereich, in dem deine Geschichten entstehen. Der Editor bietet leistungsstarke Werkzeuge, mit denen du schreibst, ordnest und veröffentlichst. Sehen wir uns die wichtigsten Funktionen an."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Textgröße",
+      "content": "Passe die Textgröße so an, dass du beim Schreiben angenehm lesen kannst. Wechsle zwischen normaler und großer Schrift, um deine Augen bei langen Schreibsitzungen zu schonen."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Dunkelmodus umschalten",
+      "content": "Wechsle zwischen hellem und dunklem Design. Der Dunkelmodus schont die Augen beim nächtlichen Schreiben und hilft dir, konzentriert zu bleiben."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Werkzeuge für Barrierefreiheit",
+      "content": "Hier findest du Schriften für Menschen mit Legasthenie, die Absatzhervorhebung und weitere Funktionen für Barrierefreiheit, die dir das Arbeiten angenehmer machen."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Seitenbereich ein- und ausblenden",
+      "content": "Blende den Seitenbereich ein oder aus. Er enthält nützliche Werkzeuge wie dein Scratchpad, die Notizen zur Geschichte, die Enzyklopädie, Kommentare und den KI-Assistenten."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Vollbildmodus",
+      "content": "Wechsle in den Vollbildmodus, um mehr Platz zum Schreiben zu haben und Ablenkungen auszublenden. Ideal für konzentrierte Schreibsitzungen."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Deine Arbeit speichern",
+      "content": "Dein Entwurf wird automatisch gespeichert, während du tippst. Du kannst aber auch jederzeit von Hand speichern."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Veröffentlichungsoptionen",
+      "content": "Wenn dein Entwurf fertig ist, wird es Zeit für eine Überarbeitung. Du kannst eine Überarbeitung für Beta-Leser oder für die Öffentlichkeit erstellen. Wenn du dich für die Veröffentlichung entscheidest, bestimmst du, wann das Kapitel online geht."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Kapiteltitel",
+      "content": "Klicke auf den Titel, um ihn zu bearbeiten."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Schreibe persönliche Anmerkungen zu deinem Kapitel oder einfach eine Nachricht an dein Publikum. Sie wird deinen Lesern vor dem Kapitel angezeigt (genau wie hier) und eignet sich gut für Ankündigungen oder Gedanken zur bisherigen Geschichte."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Haupttext der Geschichte",
+      "content": "Das ist dein eigentlicher Schreibbereich, in dem deine Geschichte zum Leben erwacht. Schreibe hier den Inhalt deines Kapitels, mit allen Möglichkeiten der Rich-Text-Bearbeitung."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Werkzeugkasten in der Seitenleiste",
+      "content": "Der Seitenbereich enthält nützliche Werkzeuge und Informationen. Über das Menü oben wechselst du zwischen verschiedenen Ansichten wie deinem Scratchpad, Enzyklopädie-Verweisen, Kommentaren und dem KI-Assistenten."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Persönliches Scratchpad",
+      "content": "Dein persönliches Scratchpad ist immer griffbereit, damit du Ideen, Notizen oder Inspirationen festhalten kannst. Sammle hier Gedanken, die nicht in die Hauptgeschichte passen, später aber nützlich sein könnten."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Notizen zur Geschichte",
+      "content": "Hier findest du die übergreifenden Notizen und Planungsunterlagen deiner Geschichte. Behalte Handlungsübersichten, Figurenentwicklungen, Details des Weltenbaus und weitere Planungsinformationen im Blick."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Zugriff auf die Enzyklopädie",
+      "content": "Schneller Zugriff auf die Enzyklopädie deines Universums. Schlage beim Schreiben Charakterdetails, Orte, Hintergrundwissen und andere Elemente des Weltenbaus nach. Mit den weiteren Schaltflächen hier kannst du suchen und neue Einträge anlegen."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Kommentare zum Kapitel",
+      "content": "Lies und beantworte Kommentare zu diesem Kapitel von Beta-Lesern, Mitarbeitern und anderen Lesern. Tausche dich mit deinem Publikum aus und erhalte wertvolles Feedback."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Vor der Veröffentlichung gibt es wichtige Dinge zu prüfen. Hier verbergen sich eine To-do-Liste für die Zeit vor der Veröffentlichung und weitere kleine, interessante Punkte, auf die du achten kannst."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "KI-Assistent",
+      "content": "Frag den Assistenten zu deiner Geschichte, deinem Universum und deiner Enzyklopädie. Er kann die Stimmigkeit prüfen, eine Passage Korrektur lesen oder etwas nachschlagen. Er beantwortet Fragen zu deinem Text und schreibt nicht für dich. Er läuft mit deinem eigenen API-Schlüssel, den du in deinen Einstellungen hinterlegst."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Bereit, mit dem Schreiben zu beginnen?",
+      "content": "Jetzt kennst du alle Funktionen des Geschichten-Editors. Beginne mit deinem Kapitel und probiere die Werkzeuge aus, wenn du sie brauchst. Wenn du Hilfe brauchst, schau in unsere Hilfe, in den Weg des Autors oder schreib uns. Und jetzt: Schreiben wir Geschichten!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Tour durch den Geschichten-Übersetzer",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Willkommen im Geschichten-Übersetzer!",
+      "content": "Sehen wir uns kurz um. In diesem Arbeitsbereich übersetzt du den Originaltext und hast dabei das Referenzmaterial immer zur Hand."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Links der Originaltext",
+      "content": "Links siehst du das Originalkapitel und die Anmerkungen des Autors. Lass diese Seite beim Arbeiten als Referenz geöffnet."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Rechts übersetzen",
+      "content": "Schreibe deine Übersetzung auf der rechten Seite. Alles, was du hier speicherst, wird zu der Fassung, die Leser dieser Sprache sehen."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Zugriff auf die Enzyklopädie des Universums",
+      "content": "Du brauchst Hintergrundwissen oder Fachbegriffe? In der Seitenleiste kommst du zur Enzyklopädie des Universums und kannst dich dort besser mit der Welt vertraut machen."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Willkommen in der Enzyklopädie",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Die Enzyklopädie deines Universums",
+      "content": "Willkommen in deiner Enzyklopädie! Hier ordnest du das gesamte Wissen über dein Universum und teilst es mit deinen Fans."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Deine Inhalte ordnen",
+      "content": "Wechsle zwischen den Ansichten „Kategorien“ und „Gruppen“. Kategorien zeigen Einträge nach Typ geordnet (Charaktere, Orte usw.), während Gruppen die Einträge nach ihren benutzerdefinierten Feldgruppierungen zeigen, die von übergeordneten Einträgen vorgegeben werden."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Deine Kategorien",
+      "content": "Das sind die Kategorien deiner Enzyklopädie. Jede Kategorie hat eine eigene Vorlage zum Ordnen der Informationen. Klicke auf eine Kategorie, um sie aufzuklappen und ihre Einträge zu sehen."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Finde, was du suchst",
+      "content": "Mit der Suche findest du jeden Eintrag deiner Enzyklopädie schnell. Suche nach Name, Inhalt oder Tags, und du hast die Information sofort."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Neue Einträge erstellen",
+      "content": "Füge deiner Enzyklopädie neue Einträge hinzu. Jede Kategorie bringt eine eigene Formularvorlage für den Einstieg mit, die du nach Belieben anpassen kannst."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Deine Enzyklopädie anpassen",
+      "content": "Wirf einen Blick in die Einstellungen deiner Enzyklopädie: Dort wählst du die Kategorien aus, die du nutzen möchtest, legst eine Willkommensnachricht fest und bestimmst weitere Details."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Jetzt kennst du die Grundlagen! Kehre in deine Werkstatt zurück, um weiter an deinem Universum zu bauen, oder füge deiner Enzyklopädie Einträge hinzu. Viel Spaß beim Schreiben!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Leitfaden für Beta-Leser",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Willkommen beim Beta-Lesen!",
+      "content": "Als Beta-Leser spielst du eine wichtige Rolle dabei, Autoren beim Verbessern ihrer Geschichten zu helfen. Dein Feedback deckt Probleme auf, sorgt für mehr Klarheit und macht Geschichten für Leser unterhaltsamer. Dieser Leitfaden zeigt dir, wie du dich in der Beta-Leseansicht zurechtfindest und hilfreiches Feedback gibst."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Dein wichtigstes Kommunikationsmittel",
+      "content": "Hier hinterlässt du Kommentare für den Autor! Klicke hier, um das Kommentarfeld zu öffnen. Du kannst allgemeines Feedback zum Kapitel geben, bestimmte Passagen markieren, Fragen stellen oder Verbesserungen vorschlagen. Über deine Kommentare verständigst du dich in erster Linie mit dem Autor."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Die Kommentaransicht",
+      "content": "Im Kommentarbereich siehst du das Feedback anderer Beta-Leser und kannst dein eigenes hinzufügen. Schreibe deine Gedanken in das Kommentarfeld unten. Sag konkret, was gut funktioniert und was besser werden könnte - konstruktives Feedback hilft am meisten!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Lesewerkzeuge",
+      "content": "Mit diesen Werkzeugen passt du dein Leseerlebnis an. Du kannst die Textgröße ändern, den Dunkelmodus umschalten und Funktionen für Barrierefreiheit wie die Schrift Open Dyslexic oder die Absatzhervorhebung einschalten, damit das Lesen angenehmer wird."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Bereit, Feedback zu geben?",
+      "content": "Jetzt weißt du, wie du dich in der Beta-Leseansicht zurechtfindest und dich über die Kommentare mit Autoren austauschst. Lies zuerst das Kapitel, öffne dann die Seitenleiste und teile dein durchdachtes Feedback. Dein Beitrag hilft Autoren, bessere Geschichten zu schreiben!"
     }
   }
 }

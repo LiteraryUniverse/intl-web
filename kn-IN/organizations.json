@@ -300,5 +300,9 @@
   "org.setup.closed": "ಬಳಸದ ಈ ಸೆಟಪ್ ಅನ್ನು ಮುಚ್ಚಲಾಗಿದೆ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿಳಾಸವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲಾಗಿದೆ. ನಿಮ್ಮ ದಾಖಲೆಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ.",
   "org.setup.restart": "ಹೊಸ ಸಂಸ್ಥೆ ಸೆಟಪ್ ಪ್ರಾರಂಭಿಸಿ",
   "org.setup.expiryNotice": "ಬಳಸದ ಸಂಸ್ಥೆ ವಿಳಾಸಗಳನ್ನು 30 ದಿನಗಳ ನಂತರ ಬಿಡುಗಡೆ ಮಾಡಲಾಗುತ್ತದೆ. ನೀವು ಈ ಸೆಟಪ್ ಅನ್ನು ಈಗಲೇ ತ್ಯಜಿಸಲೂಬಹುದು.",
-  "org.setup.inUse": "ಈ ಸೆಟಪ್‌ನಲ್ಲಿ ಬಿಲ್ಲಿಂಗ್ ಅಥವಾ ಪಾವತಿ ಚಟುವಟಿಕೆ ಇದೆ. ತೆರೆದಿರುವ ಯಾವುದೇ ಚೆಕ್‌ಔಟ್ ಅವಧಿ ಮುಗಿಯುವವರೆಗೆ ಕಾಯಿರಿ, ಅಥವಾ ಇದನ್ನು ಮುಚ್ಚುವ ಮೊದಲು ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ."
+  "org.setup.inUse": "ಈ ಸೆಟಪ್‌ನಲ್ಲಿ ಬಿಲ್ಲಿಂಗ್ ಅಥವಾ ಪಾವತಿ ಚಟುವಟಿಕೆ ಇದೆ. ತೆರೆದಿರುವ ಯಾವುದೇ ಚೆಕ್‌ಔಟ್ ಅವಧಿ ಮುಗಿಯುವವರೆಗೆ ಕಾಯಿರಿ, ಅಥವಾ ಇದನ್ನು ಮುಚ್ಚುವ ಮೊದಲು ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

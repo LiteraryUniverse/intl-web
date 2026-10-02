@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ஒற்றை நிறம்",
   "blog.theme.generate.mode.pastel": "பாஸ்டல்",
   "blog.theme.generate.nudged": "வாசிப்புத்திறனுக்காக சரிசெய்யப்பட்டது: {tokens}.",
-  "blog.theme.generate.unreadable": "அந்தப் படத்தைப் படிக்க முடியவில்லை. பதிவிறக்கி கோப்பாகத் தேர்ந்தெடுக்கவும்."
+  "blog.theme.generate.unreadable": "அந்தப் படத்தைப் படிக்க முடியவில்லை. பதிவிறக்கி கோப்பாகத் தேர்ந்தெடுக்கவும்.",
+  "blogs.readFullPost": "முழுப் பதிவையும் படிக்கவும்"
 }

@@ -96,5 +96,8 @@
 	"signup.complete.description": "Tack för att du har fyllt i din profil. Vi har anpassat din upplevelse baserat på dina preferenser.",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "Registreringsguide",
-	"signup.userType.artist.description": "Jag tecknar manga, serier eller illustrationer"
+	"signup.userType.artist.description": "Jag tecknar manga, serier eller illustrationer",
+  "signup.reader.mediaType.light_novel": "Light novel",
+  "signup.writer.mediaType.fanFiction.title": "Fanfiction",
+  "signup.password2.label": "Bekräfta lösenord"
 }

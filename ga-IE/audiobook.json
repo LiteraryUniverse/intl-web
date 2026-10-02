@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Aisteoirí gutha",
   "audiobook.team.you": "tusa",
   "audiobook.whereToListen": "Cá háit le héisteacht",
+  "audiobook.team.members": "Team members",
+  "audiobook.team.noMembers": "No team members yet.",
   "audiobook.orgFeatureDisabled": "Níl closleabhair cumasaithe don eagraíocht seo."
 }

@@ -96,5 +96,6 @@
 	"signup.complete.description": "プロフィールをご記入いただきありがとうございます。私たちはあなたの好みに基づいてあなたの経験をカスタマイズしました。",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "登録ウィザード",
-	"signup.userType.artist.description": "漫画やイラストを描きたい"
+	"signup.userType.artist.description": "漫画やイラストを描きたい",
+  "signup.password2.label": "パスワードの確認"
 }

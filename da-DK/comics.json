@@ -4,7 +4,7 @@
   "comics.assets.change": "Skift asset",
   "comics.assets.choose": "Vælg asset",
   "comics.assets.empty": "Ingen assets endnu — upload en transparent PNG for at genbruge den på tværs af dine sider.",
-  "comics.assets.upload": "Upload asset",
+  "comics.assets.upload": "Upload materiale",
   "comics.attachExisting": "Tilknyt en eksisterende",
   "comics.buyFull": "Køb — {price}",
   "comics.chapter.cancelSchedule": "Annullér planlægning",
@@ -135,7 +135,7 @@
   "comics.search.noResults": "Ingen manga eller tegneserier fundet.",
   "comics.search.status": "Udgivelsesstatus",
   "comics.settings.universe": "Univers",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Indstillinger for værket",
   "comics.split.author": "Forfatter",
   "comics.splitMustTotal": "Indtægtsfordelingen skal give 100 %.",
   "comics.startReading": "Begynd at læse",
@@ -196,6 +196,9 @@
   "comics.volumes": "Bind",
   "comics.volumes.empty": "Ingen bind defineret.",
   "comics.volumesHelp": "Sælg kapitelintervaller som bind. Kapitelnumre er inklusive, og intervaller må ikke overlappe.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Markér som fuldført, når det sidste planlagte kapitel udgives ({date})",
+  "comics.finish.scheduledNotice": "{format} bliver markeret som fuldført den {date}, når det sidste planlagte kapitel udgives.",
+  "comics.reader.loading": "Tegneserie",
+  "comics.translation.mode.label": "Tilstand: {mode}",
+  "comics.pagesCount": "{count, plural, one {# side} other {# sider}}"
 }

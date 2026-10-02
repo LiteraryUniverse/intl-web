@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "एकरङ्गी",
   "blog.theme.generate.mode.pastel": "पेस्टल",
   "blog.theme.generate.nudged": "पढ्न सजिलो बनाउन समायोजित: {tokens}।",
-  "blog.theme.generate.unreadable": "त्यो चित्र पढ्न सकिएन। डाउनलोड गरी फाइलको रूपमा छान्नुहोस्।"
+  "blog.theme.generate.unreadable": "त्यो चित्र पढ्न सकिएन। डाउनलोड गरी फाइलको रूपमा छान्नुहोस्।",
+  "blogs.readFullPost": "पूरा पोस्ट पढ्नुहोस्"
 }

@@ -197,5 +197,8 @@
   "comics.volumes.empty": "Ora ana jilid sing ditemtokake.",
   "comics.volumesHelp": "Adol rentang bab minangka jilid. Nomer bab kalebu lan rentang ora kena tumpang tindih.",
   "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
+  "comics.reader.loading": "Comic",
+  "comics.translation.mode.label": "Mode: {mode}",
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
 }

@@ -334,7 +334,7 @@
   "blog.menus.settings.presentation": "Layout",
   "blog.menus.settings.presentation.panel": "Sidebar",
   "blog.menus.settings.presentation.floating": "Floating",
-  "blog.menus.settings.hideOnMobile": "Hide on small screens",
+  "blog.menus.settings.hideOnMobile": "Ukryj na małych ekranach",
   "blog.people": "Osoby",
   "blog.people.intro": "Daj komuś dostęp do części tego bloga, nie oddając mu swojego konta. Każde uprawnienie działa osobno i dotyczy tylko tego bloga.",
   "blog.people.add": "Dodaj kogoś do tego bloga",
@@ -347,12 +347,12 @@
   "blog.billing": "Płatności",
   "blog.billing.intro": "Zarządzaj subskrypcją, która opłaca tego bloga — zmień plan, zaktualizuj metodę płatności lub pobierz faktury.",
   "blog.billing.open": "Otwórz portal płatności",
-  "blog.theme.layout.hideName": "Hide the blog name",
-  "blog.menus.logoSize": "Logo size",
+  "blog.theme.layout.hideName": "Ukryj nazwę bloga",
+  "blog.menus.logoSize": "Rozmiar logo",
   "blog.menus.logoSize.small": "Small",
   "blog.menus.logoSize.medium": "Medium",
   "blog.menus.logoSize.large": "Large",
-  "blog.menus.logoSize.full": "Full width",
+  "blog.menus.logoSize.full": "Pełna szerokość",
   "blog.pages.import": "Importuj szablon projektu",
   "blog.pages.import.hint": "Wybierz plik HTML szablonu wraz z obrazami, do których się odwołuje. Teksty i obrazy pozostaną edytowalne po imporcie.",
   "blog.pages.import.files": "Plik szablonu + obrazy",
@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monochromatyczna",
   "blog.theme.generate.mode.pastel": "Pastelowa",
   "blog.theme.generate.nudged": "Dostosowano dla czytelności: {tokens}.",
-  "blog.theme.generate.unreadable": "Nie udało się odczytać tego obrazu. Pobierz go i wybierz jako plik."
+  "blog.theme.generate.unreadable": "Nie udało się odczytać tego obrazu. Pobierz go i wybierz jako plik.",
+  "blogs.readFullPost": "Przeczytaj cały wpis"
 }

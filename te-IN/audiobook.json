@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "వాయిస్ నటులు",
   "audiobook.team.you": "మీరు",
   "audiobook.whereToListen": "ఎక్కడ వినాలి",
+  "audiobook.team.members": "బృంద సభ్యులు",
+  "audiobook.team.noMembers": "ఇంకా బృంద సభ్యులు లేరు.",
   "audiobook.orgFeatureDisabled": "ఈ సంస్థకు ఆడియో పుస్తకాలు ప్రారంభించబడలేదు."
 }

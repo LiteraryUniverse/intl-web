@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "टूर वगळा",
+    "close": "टूर बंद करा",
+    "end": "टूर संपवा",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "पुढे-मागे जाण्यासाठी बाण की वापरा, बंद करण्यासाठी ESC",
+    "start": "टूर सुरू करा"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "तुमच्या डॅशबोर्डवर स्वागत आहे",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Literary Universe मध्ये स्वागत आहे",
+      "content": "तुमचा लेखन प्रवास सुरू करायला मदत व्हावी म्हणून तुमच्या डॅशबोर्डची एक छोटी टूर घेऊया."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "मुख्य नेव्हिगेशन",
+      "content": "हा तुमचा मुख्य नेव्हिगेशन मेनू आहे. चला, प्रत्येक पर्याय पाहूया."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "तुमचे वैयक्तिक मुखपृष्ठ, जिथे अलीकडील घडामोडी दिसतात आणि तुमची कार्यशाळा, लायब्ररी व सामाजिक सुविधा येथूनच उघडता येतात."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "इतर वापरकर्त्यांनी तयार केलेल्या कथा आणि ब्रह्मांडे शोधा. लेखकांच्या पडद्यामागच्या गोष्टी आणि सविस्तर ब्लॉग पोस्ट वाचा. तुमचे पुढचे आवडते वाचन शोधा!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "वाटलेला आनंद दहापट होतो! समविचारी लोकांचे गट शोधा, आमच्या Discord मध्ये सामील व्हा आणि Literary Universe वर आणखी कोण आहे ते पाहा!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "स्क्रॅचपॅड ही तुमची वैयक्तिक वही आहे, जी कल्पना, नोंदी आणि विचार टिपून ठेवण्यासाठी नेहमी उपलब्ध असते."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "टिप्पण्या, फॉलो आणि समुदायातील इतर घडामोडींची माहिती मिळवत राहा."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "इतर लेखकांशी आणि बेटा वाचकांशी संवाद साधा आणि प्रकल्पांवर एकत्र काम करा."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "तुमची वैयक्तिक माहिती, प्राधान्ये आणि खात्याची सेटिंग्ज व्यवस्थापित करा."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "तुमच्या कथा आणि ब्रह्मांडे लिहिण्यासाठी, संपादित करण्यासाठी आणि व्यवस्थापित करण्यासाठी तुमची सर्जनशील जागा."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "तुमची लायब्ररी",
+        "content": "तुमच्या सेव्ह केलेल्या सर्व कथा, वाचन सूची आणि डाउनलोड केलेला मजकूर एकाच ठिकाणी मिळवा."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "जलद प्रवेश मेनू",
+      "content": "या साइडबारमधून महत्त्वाच्या सुविधा आणि साधने पटकन उघडता येतात."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "लेखक म्हणून तुमची कार्यशाळा हीच ती जागा आहे जिथे जादू घडते! नवीन कथा सुरू करा, आधीची कथा पुढे लिहा किंवा तुमचे ब्रह्मांड उभारा. तुमचे वाचक वाट पाहत आहेत!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "वाचक म्हणून शोध हे अप्रतिम कथांचे तुमचे प्रवेशद्वार आहे! नवीन साहित्यप्रकार धुंडाळा, तुमच्या आवडत्या लेखकांना फॉलो करा आणि तुमच्या वाचन सूची तयार करा. वाचनाचा आनंद घ्या!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "इथे नवीन आहात? तुमच्या डॅशबोर्डची एक छोटी टूर घ्या!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "तुमच्या कार्यशाळेत स्वागत आहे",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Literary Universe कार्यशाळेत स्वागत आहे",
+      "content": "तुमची कार्यशाळा हे Literary Universe वरील तुमच्या सर्जनशील प्रवासाचे केंद्र आहे. येथे तुम्ही तुमच्या कथा आणि ब्रह्मांडे तयार करू शकता, व्यवस्थापित करू शकता आणि त्यांवर इतरांसोबत काम करू शकता."
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "लेखकाचा मार्ग",
+      "content": "लेखकाचा मार्ग वापरून लेखक म्हणून तुमच्या प्रगतीचा मागोवा घ्या. खेळासारखी ही प्रणाली लेखनाचे टप्पे पूर्ण करून आणि समुदायात सहभागी होऊन पुढच्या स्तरावर जायला मदत करते. ती कशी काम करते हे जाणून घेण्यासाठी येथे क्लिक करा."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "काहीतरी नवीन सुरू करा",
+      "content": "सृजन सुरू करा तुम्हाला विचारते की तुम्हाला काय बनवायचे आहे: एकच जग असलेल्या कथांसाठी ब्रह्मांड, स्वतंत्र कथा, भक्त कथा किंवा कॉमिक. ते तुम्हाला सुरुवातीचे निर्णय घ्यायला मदत करते आणि शेवटी तुमच्या हातात एक मसुदा असतो. तुम्ही प्रकाशित करेपर्यंत काहीही प्रकाशित होत नाही."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "तुमचे सर्व प्रकल्प",
+      "content": "तुमच्या मालकीचे किंवा तुम्ही काम करत असलेले प्रत्येक ब्रह्मांड, कथा, कॉमिक आणि ऑडिओबुक येथे दिसते. उजवीकडील बटणे मुखपृष्ठे आणि संक्षिप्त यादी यांमध्ये बदल करतात. सहयोग, भाषांतर किंवा बेटा वाचनाची आमंत्रणे यादीच्या वर विनंत्या म्हणून दिसतात, ज्या तुम्ही स्वीकारू किंवा नाकारू शकता."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "तुम्हाला हवा तो प्रकल्प शोधा",
+      "content": "प्रवेश यादीला तुमच्या मालकीचे प्रकल्प, तुम्ही टीममध्ये असलेले प्रकल्प, भाषांतरे किंवा बेटा वाचक म्हणून तुम्ही तपासत असलेल्या कथा यांपुरते मर्यादित करते. स्वरूप आणि स्थिती ती आणखी मर्यादित करतात आणि क्रम सर्वात अलीकडे अपडेट झालेला प्रकल्प सर्वात वर ठेवतो."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "तुमचा प्रवास सुरू ठेवा",
+      "content": "लेखकाचा मार्ग यावरील तुमची प्रगती पाहण्यासाठी येथे परत यायला विसरू नका. पुढच्या स्तरावर जाण्यासाठी लिहीत राहा, सहयोग करत राहा आणि समुदायात सहभागी होत राहा! चला, आता लिहायला सुरुवात करूया!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "तुमची वैयक्तिक लायब्ररी",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "वाचन सुरू ठेवा",
+      "content": "तुमच्या वैयक्तिक लायब्ररीत स्वागत आहे! वाचनाच्या प्रगतीचा मागोवा घेण्यासाठी तुम्ही जोडलेल्या कथा आणि ब्रह्मांडे येथे दिसतात. वाचन सुरू ठेवा या विभागात तुम्ही अलीकडे उघडलेला मजकूर दिसतो, त्यामुळे जिथे थांबला होता तिथून सहज पुढे वाचता येते."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "तुमची संपूर्ण लायब्ररी",
+      "content": "या टॅबमध्ये तुमच्या लायब्ररीतील सर्व काही दिसते. शेजारील टॅब ते कथा, खरेदी, ऑडिओबुक, मंगा आणि कॉमिक्स किंवा ब्रह्मांडे यांपुरते मर्यादित करतात. अपडेट मिळवण्यासाठी आणि वाचनाची जागा लक्षात ठेवण्यासाठी एखादी कथा किंवा ब्रह्मांड तुमच्या लायब्ररीत जोडा."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "तुमच्या कथा",
+      "content": "तुम्ही तुमच्या लायब्ररीत जोडलेल्या सर्व कथा येथे व्यवस्थित मांडलेल्या आहेत. वाचनाच्या प्रगतीचा मागोवा ठेवा, नवीन अध्यायांच्या सूचना मिळवा आणि तुमच्या आवडत्या कथांमध्ये कुठे थांबला होता ते कधीही विसरू नका."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "तुमची ब्रह्मांडे",
+      "content": "तुम्ही तुमच्या लायब्ररीत जोडलेली ब्रह्मांडे येथे दिसतात. या ब्रह्मांडांमधील नवीन कथांची माहिती मिळवत राहा, त्यांचे विज्ञानकोश पाहा आणि समुदाय सुविधांमध्ये सहभागी व्हा."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "वाचन सूची",
+      "content": "तुमच्या वैयक्तिक वाचन सूची येथे तयार करा आणि व्यवस्थापित करा. कथा विषयांनुसार, मालिकांनुसार किंवा तुम्हाला योग्य वाटेल त्या निकषांनुसार लावा. तुमच्या सूची इतरांसोबत शेअर करा किंवा खाजगी ठेवा."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "वैयक्तिक नोंदी",
+      "content": "प्लॅटफॉर्म सदस्यत्वासह तुम्ही कोणत्याही कथेला, ब्रह्मांडाला किंवा विज्ञानकोशातील नोंदीला वैयक्तिक नोंदी जोडू शकता. Literary Universe वाचताना आणि धुंडाळताना तुमचे विचार, तर्क आणि निरीक्षणे टिपून ठेवा."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "तुमची लायब्ररी उभारायला तयार आहात?",
+      "content": "शोध मधून तुमच्या लायब्ररीत कथा आणि ब्रह्मांडे जोडायला सुरुवात करा. वाचनाच्या प्रगतीचा मागोवा घ्या, वाचन सूची तयार करा आणि वैयक्तिक नोंदींनी तुमचा अनुभव समृद्ध करा. तुमचा साहित्यिक प्रवास तुमची वाट पाहत आहे!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "ब्रह्मांड कार्यशाळा",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "तुमच्या ब्रह्मांड कार्यशाळेत स्वागत आहे!",
+      "content": "तुमचे पहिले ब्रह्मांड तयार केल्याबद्दल अभिनंदन! तुमचे साहित्यिक जग उभारण्यासाठी आणि व्यवस्थापित करण्यासाठी हे तुमचे नियंत्रण केंद्र आहे. तुमचे ब्रह्मांड जिवंत करण्यासाठी उपलब्ध असलेली सर्व प्रभावी साधने पाहूया."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "तुमच्या कथा व्यवस्थापित करा",
+      "content": "तुमच्या ब्रह्मांडातील सर्व कथा तुम्ही येथे व्यवस्थापित करता. नवीन कथा तयार करा, आधीच्या संपादित करा आणि एकमेकांशी जोडलेल्या अनेक कथांमधून तुमचे कथानक मांडा. प्रत्येक कथेला ब्रह्मांडाच्या सामायिक विज्ञानकोशाचा आणि समुदाय सुविधांचा फायदा मिळू शकतो."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "तुमचा विज्ञानकोश उभारा",
+      "content": "तुमच्या ब्रह्मांडाचा विज्ञानकोश तयार करा आणि व्यवस्थापित करा - तुमच्या जगाला जिवंत करणारा ज्ञानसाठा. पात्रे, ठिकाणे, दंतकथा आणि वाचकांना पाहता येतील असे इतर तपशील जोडा. समृद्ध विज्ञानकोश तुमचे ब्रह्मांड अधिक गुंतवून ठेवणारे बनवतो आणि वाचकांना तुमच्या कथांचा संदर्भ समजायला मदत करतो."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "तुमच्या ब्रह्मांडाचे पान",
+      "content": "हे तुमच्या ब्रह्मांडाचे सार्वजनिक पान आहे, जिथे भेट देणारे तुमच्या जगाबद्दल जाणून घेऊ शकतात, तुमच्या कथा वाचू शकतात, विज्ञानकोश पाहू शकतात आणि तुमच्या समुदायात सहभागी होऊ शकतात. तुमचे ब्रह्मांड दाखवण्यासाठी आणि नवीन वाचक आकर्षित करण्यासाठी हे पान तुमच्या आवडीनुसार बदला."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "भाषांतरे व्यवस्थापित करा",
+      "content": "तुमच्या ब्रह्मांडातील मजकुराच्या इतर भाषांमधील भाषांतरांचे समन्वयन करा. भाषांतरकार व्यवस्थापित करा, प्रगतीचा मागोवा घ्या आणि तुमच्या कथा जगभरातील वाचकांपर्यंत पोहोचतील याची खात्री करा. भाषांतरे तुम्हाला जगभरातील वाचकांशी जोडतात."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "भक्त व्यवस्थापक",
+      "content": "तुमच्या ब्रह्मांडापासून प्रेरित चाहत्यांचे संवाद आणि निर्मिती व्यवस्थापित करा. भक्त कथा, कला आणि समुदायाच्या इतर मजकुराचा मागोवा घ्या. तुमच्या चाहत्यांशी संवाद साधा आणि तुमच्या जगाभोवती एक बहरता समुदाय उभारा."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "तुमच्या यशाचा मागोवा घ्या",
+      "content": "तपशीलवार विश्लेषणाद्वारे तुमच्या ब्रह्मांडाच्या कामगिरीवर लक्ष ठेवा. वाचकांचा सहभाग, लोकप्रिय कथा, विज्ञानकोशाची दृश्ये आणि इतर आकडे पाहा, ज्यातून तुमच्या वाचकांना काय भावते ते समजते."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "अंतर्गत नियोजन मंच",
+      "content": "सहयोगी आणि भाषांतरकारांसोबत नियोजन व समन्वयासाठी तुमच्या ब्रह्मांडाचा अंतर्गत मंच. कथेचे टप्पे आणि विश्वनिर्मितीचे तपशील यांवर चर्चा करा आणि तुमच्या सर्जनशील प्रयत्नांचे समन्वयन करा. ही खाजगी जागा तुमच्या टीमला परिणामकारकपणे एकत्र काम करायला मदत करते."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "सहयोगी व्यवस्थापित करा",
+      "content": "तुमच्या ब्रह्मांडावर एकत्र काम करण्यासाठी लेखक, कलाकार आणि इतर निर्मात्यांना आमंत्रित करा. भूमिका आणि परवानग्या द्या, प्रवेशाचे स्तर व्यवस्थापित करा आणि तुमचे जग एकत्र घडवण्यासाठी टीम तयार करा."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "उत्पन्नाची सेटिंग्ज",
+      "content": "तुमच्या ब्रह्मांडातून आणि त्यातील मजकुरातून तुम्ही कसे उत्पन्न मिळवता ते ठरवा. प्रीमियम प्रवेश सेट करा, सदस्यत्वे व्यवस्थापित करा आणि सहयोगींसोबत उत्पन्नाची वाटणी निश्चित करा. तुमच्या सर्जनशील कामाला शाश्वत उत्पन्नाचा स्रोत बनवा."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "निराकरण केंद्र",
+      "content": "तुमच्या ब्रह्मांडात उद्भवू शकणारे वाद, मजकुराशी संबंधित उल्लंघने आणि इतर समस्या हाताळा. ही केंद्रीय प्रणाली समुदाय सकारात्मक ठेवायला आणि वाद कार्यक्षमतेने सोडवायला मदत करते."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "ब्रह्मांडाची सेटिंग्ज",
+      "content": "गोपनीयता, प्रवेश नियंत्रणे, श्रेण्या आणि इतर मूलभूत पर्यायांसह तुमच्या ब्रह्मांडाची मुख्य सेटिंग्ज ठरवा. तुमचे ब्रह्मांड कसे चालते आणि त्याच्याशी कोण संवाद साधू शकते हे या सेटिंग्जवर अवलंबून असते."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "मंचाची रचना",
+      "content": "तुमच्या ब्रह्मांडाच्या मंचाची सेटिंग्ज बारकाईने जुळवा. श्रेण्या तयार करा, नियंत्रणाचे नियम ठरवा, परवानग्या सेट करा आणि तुमच्या समुदायाच्या गरजांनुसार चर्चेच्या जागा बदला."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "तुमचे ब्रह्मांड उभारायला तयार आहात?",
+      "content": "समृद्ध आणि गुंतवून ठेवणारे ब्रह्मांड तयार करण्यासाठी लागणारी सर्व साधने आता तुमच्याकडे आहेत. काही कथा जोडून, तुमचा विज्ञानकोश उभारून आणि सहयोगींना आमंत्रित करून सुरुवात करा. तुमचे साहित्यिक जग निर्मितीची वाट पाहत आहे!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "कथेचा डॅशबोर्ड",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "तुमच्या कथेच्या डॅशबोर्डवर स्वागत आहे!",
+      "content": "हे तुमच्या कथेचे नियंत्रण केंद्र आहे, जिथे तुम्ही तुमच्या कथानकाचे सर्व पैलू व्यवस्थापित करता. येथे तुम्ही अध्याय लिहू शकता, कथेची रचना लावू शकता, इतरांसोबत काम करू शकता आणि तुमच्या प्रगतीचा मागोवा घेऊ शकता. चला, मुख्य सुविधा पाहूया."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "नवीन अध्याय जोडणे",
+      "content": "येथे तुम्ही तुमच्या कथेत नवीन अध्याय जोडता. नवीन अध्याय तयार करण्यासाठी \"नवीन अध्याय\" बटणावर क्लिक करा. तुमची कथा अध्याय आपोआप योग्य क्रमाने लावेल. अध्यायांच्या यादीच्या तळापासूनही तुम्ही अध्याय जोडू शकता."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "तुमच्या प्रगतीचा मागोवा घ्या",
+      "content": "तपशीलवार आकडेवारीद्वारे तुमच्या लेखनाच्या प्रगतीवर आणि वाचकांच्या सहभागावर लक्ष ठेवा. तुमचे किती वाचक आहेत ते पाहा, अध्यायांच्या दृश्यांचा मागोवा घ्या आणि कालांतराने तुमच्या कथेच्या कामगिरीचे विश्लेषण करा."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "सहयोगी व्यवस्थापित करा",
+      "content": "तुमच्या कथेवर एकत्र काम करण्यासाठी इतर लेखकांना आमंत्रित करा. वेगवेगळ्या भूमिका आणि परवानग्या द्या, लेखनाच्या कामाचे समन्वयन करा आणि तुमची सर्जनशील टीम व्यवस्थापित करा. समूह लेखन प्रकल्पांसाठी अगदी योग्य."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "भाषांतर व्यवस्थापन",
+      "content": "तुमच्या कथेच्या इतर भाषांमधील भाषांतरांचे समन्वयन करा. भाषांतरकार व्यवस्थापित करा, भाषांतराच्या प्रगतीचा मागोवा घ्या आणि तुमची कथा जगभरातील वाचकांसाठी उपलब्ध करा."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "उत्पन्नाची सेटिंग्ज",
+      "content": "तुमच्या कथेतून तुम्ही कसे उत्पन्न मिळवता ते ठरवा. प्रीमियम अध्याय सेट करा, सदस्यत्वाचे पर्याय व्यवस्थापित करा आणि सहयोगींसोबत उत्पन्नाची वाटणी निश्चित करा. तुमच्या लेखनाला उत्पन्नात बदला."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "कथेची सेटिंग्ज",
+      "content": "गोपनीयता, प्रकाशनाचे पर्याय, श्रेण्या आणि इतर मूलभूत प्राधान्यांसह तुमच्या कथेची मुख्य सेटिंग्ज ठरवा. तुमची कथा कशी दिसते आणि कशी चालते हे या सेटिंग्जवर अवलंबून असते."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "आढावा नोंदी",
+      "content": "तुमच्या कथेची एकूण रचना, कथानकातील महत्त्वाचे मुद्दे, पात्रांचा प्रवास आणि महत्त्वाच्या नोंदी टिपून ठेवा. तुमचे कथानक लावण्यासाठी ही तुमची वैयक्तिक नियोजनाची जागा आहे."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "वैयक्तिक लेखन आव्हाने",
+      "content": "वैयक्तिक लेखन उद्दिष्टे ठरवा आणि आव्हानांद्वारे तुमच्या प्रगतीचा मागोवा घ्या. दैनंदिन किंवा साप्ताहिक शब्दसंख्येची लक्ष्ये ठेवा, अध्यायांसाठी अंतिम मुदती ठरवा आणि नियमित लेखनाची सवय टिकवण्यासाठी स्वतःला प्रेरित करा. तुमच्या लेखनाच्या वेळापत्रकानुसार चालत राहण्यासाठी हे तुमचे खाजगी साधन आहे."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "कथासूत्रांचे व्यवस्थापन",
+      "content": "तुमची कथा वेगवेगळ्या कथासूत्रांमध्ये आणि धाग्यांमध्ये लावा. पात्रांचा प्रवास, उपकथानके आणि कथानकातील घटक यांचा मागोवा घ्या. एकमेकांशी जोडलेले अनेक घटक असलेल्या गुंतागुंतीच्या कथांसाठी अगदी योग्य."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "दृश्य व्यवस्थापक",
+      "content": "तुमच्या अध्यायांमधील स्वतंत्र दृश्ये लावा आणि व्यवस्थापित करा. दृश्यांच्या प्रगतीचा मागोवा घ्या, त्यांचा क्रम बदला आणि तुमच्या कथानकाचा प्रवाह कायम ठेवा."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "कायदेशीर दस्तऐवज",
+      "content": "तुमच्या कथेशी संबंधित महत्त्वाचे कायदेशीर दस्तऐवज येथे मिळतात, ज्यात कॉपीराइटची माहिती, प्रकाशन करार आणि हक्क व्यवस्थापन यांचा समावेश आहे. तुमच्या कायदेशीर बाबी व्यवस्थित ठेवा."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "सार्वजनिक आवृत्ती",
+      "content": "तुमची कथा सार्वजनिक साइटवर वाचकांना कशी दिसते ते पाहा. स्वरूपण तपासा, दुवे तपासून पाहा आणि वाचकांसोबत शेअर करण्यापूर्वी सर्व काही नीट दिसत असल्याची खात्री करा."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "तुमची कथा शेअर करा",
+      "content": "लोकप्रिय प्लॅटफॉर्मसाठी आधीच तयार केलेला मजकूर आणि दुवे वापरून तुमची कथा सोशल मीडियावर शेअर करा. तुमचे काम दाखवणारा आणि वेगवेगळ्या सोशल नेटवर्कवर नवीन वाचकांपर्यंत पोहोचायला मदत करणारा वापरण्यास तयार मजकूर मिळवा."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "निराकरण केंद्र",
+      "content": "तुमच्या कथेशी संबंधित कायदेशीर वाद, सेवा अटींचे उल्लंघन किंवा इतर समस्या हाताळा. या केंद्रात नोंदवलेल्या सर्व समस्यांची यादी असते आणि वाद सोडवण्यासाठी व समुदायाचे वातावरण सकारात्मक ठेवण्यासाठी साधने मिळतात."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "कथेच्या स्थितीचे व्यवस्थापन",
+      "content": "या महत्त्वाच्या पर्यायांनी तुमच्या कथेची प्रकाशन स्थिती नियंत्रित करा. \"सक्रिय\" म्हणजे तुमची कथा नियमितपणे अपडेट होत आहे. \"विरामावर\" म्हणजे तात्पुरता विराम. \"रद्द\" म्हणजे तुम्ही लिहिणे थांबवले आहे. \"पूर्ण\" म्हणजे तुमची कथा पूर्ण झाली आहे. तुमच्या सध्याच्या लेखनाच्या परिस्थितीला सर्वात जास्त लागू होणारी स्थिती निवडा. टीप: 6 महिने कोणतीही प्रगती न झाल्यास कथा आपोआप \"विरामावर\" होतात आणि आणखी 6 महिने निष्क्रिय राहिल्यास \"रद्द\" होतात."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "लिहायला सुरुवात करायला तयार आहात?",
+      "content": "तुमच्या कथेचा प्रत्येक पैलू कसा व्यवस्थापित करायचा हे आता तुम्हाला माहीत आहे. तुमचा पहिला अध्याय जोडून सुरुवात करा आणि मग उपलब्ध असलेली विविध साधने पाहा. तुमची कथा निर्मितीची वाट पाहत आहे!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "कथा संपादकाची टूर",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "कथा संपादकात स्वागत आहे!",
+      "content": "ही तुमची लेखनाची जागा आहे, जिथे तुम्ही तुमच्या कथा घडवाल. संपादक तुम्हाला लिहिण्यासाठी, तुमचे काम लावण्यासाठी आणि प्रकाशित करण्यासाठी प्रभावी साधने देतो. चला, मुख्य सुविधा पाहूया."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "मजकुराचा आकार",
+      "content": "लिहिताना आरामात वाचता यावे म्हणून मजकुराचा आकार बदला. दीर्घ लेखन सत्रांमध्ये डोळ्यांवरचा ताण कमी करण्यासाठी सामान्य आणि मोठा आकार यांमध्ये बदल करा."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "डार्क मोड चालू/बंद",
+      "content": "लाइट आणि डार्क थीममध्ये बदल करा. रात्रीच्या लेखन सत्रांमध्ये डार्क मोड डोळ्यांना अधिक सुखकर असतो आणि लक्ष केंद्रित ठेवायला मदत करतो."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "सुलभता साधने",
+      "content": "तुमच्या सोयीसाठी डिस्लेक्सियासाठी अनुकूल फॉन्ट, परिच्छेद हायलाइटिंग आणि इतर सुलभता सुविधा वापरा."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "बाजूचे पॅनेल दाखवा/लपवा",
+      "content": "बाजूचे पॅनेल दाखवा किंवा लपवा. त्यात तुमचे स्क्रॅचपॅड, कथेच्या नोंदी, विज्ञानकोश, टिप्पण्या आणि AI सहाय्यक यांसारखी उपयुक्त साधने असतात."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "फुलस्क्रीन मोड",
+      "content": "लेखनाची जागा जास्तीत जास्त वाढवण्यासाठी आणि लक्ष विचलित करणाऱ्या गोष्टी दूर करण्यासाठी फुलस्क्रीन मोड वापरा. एकाग्र लेखन सत्रांसाठी अगदी योग्य."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "तुमचे काम सेव्ह करा",
+      "content": "तुमचा मसुदा आपोआप सेव्ह करा. तुम्ही टाइप करत असताना तुमचे काम सेव्ह होते, पण तुम्ही ते कधीही स्वतःहूनही सेव्ह करू शकता."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "प्रकाशनाचे पर्याय",
+      "content": "तुमचा मसुदा पूर्ण झाला की आवृत्ती तयार करण्याची वेळ येते. तुम्ही बेटा वाचकांसाठी किंवा सर्वांसाठी आवृत्ती तयार करू शकता. प्रकाशित करायचे ठरवल्यावर अध्याय कधी प्रकाशित होईल हे तुम्ही ठरवता."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "अध्यायाचे शीर्षक",
+      "content": "शीर्षक बदलण्यासाठी त्यावर क्लिक करा."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "तुमच्या अध्यायाबद्दल वैयक्तिक टिपा किंवा वाचकांसाठी एखादा संदेश लिहा. हा तुमच्या वाचकांना अध्यायाच्या आधी दाखवला जाईल (अगदी येथे दिसतो तसा) आणि घोषणा करण्याचा किंवा आतापर्यंतच्या कथेबद्दल विचार मांडण्याचा हा एक प्रभावी मार्ग आहे."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "कथेचा मुख्य मजकूर",
+      "content": "ही तुमची लेखनाची मुख्य जागा आहे, जिथे तुमची कथा जिवंत होते. संपूर्ण रिच टेक्स्ट संपादन सुविधांसह तुमच्या अध्यायाचा मजकूर येथे लिहा."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "साइडबारमधील साधनपेटी",
+      "content": "बाजूच्या पॅनेलमध्ये उपयुक्त साधने आणि माहिती असते. तुमचे स्क्रॅचपॅड, विज्ञानकोशातील संदर्भ, टिप्पण्या आणि AI सहाय्यक यांसारख्या वेगवेगळ्या दृश्यांमध्ये बदल करण्यासाठी वरचा मेनू वापरा."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "वैयक्तिक स्क्रॅचपॅड",
+      "content": "कल्पना, नोंदी किंवा प्रेरणा टिपून ठेवण्यासाठी तुमचे वैयक्तिक स्क्रॅचपॅड नेहमी उपलब्ध असते. मुख्य कथेत न बसणारे पण पुढे उपयोगी पडू शकणारे विचार येथे नोंदवून ठेवा."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "कथेच्या नोंदी",
+      "content": "तुमच्या कथेच्या एकूण नोंदी आणि नियोजनाचे साहित्य येथे मिळते. कथानकाची रूपरेषा, पात्रांचा प्रवास, विश्वनिर्मितीचे तपशील आणि इतर नियोजनाची माहिती टिपून ठेवा."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "विज्ञानकोश",
+      "content": "तुमच्या ब्रह्मांडाचा विज्ञानकोश पटकन उघडा. लिहिताना पात्रांचे तपशील, ठिकाणे, दंतकथा आणि विश्वनिर्मितीचे इतर घटक पाहा. येथील इतर बटणांनी तुम्ही शोधू शकता आणि नवीन नोंदी जोडू शकता."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "अध्यायावरील टिप्पण्या",
+      "content": "या अध्यायावरील बेटा वाचक, सहयोगी आणि इतर वाचकांच्या टिप्पण्या पाहा आणि त्यांना उत्तर द्या. तुमच्या वाचकांशी संवाद साधा आणि मौल्यवान अभिप्राय मिळवा."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "प्रकाशित करण्यापूर्वी काही महत्त्वाच्या गोष्टी तपासायच्या असतात. प्रकाशनापूर्वीची करायच्या कामांची यादी आणि तपासण्यासारख्या इतर छोट्या रंजक गोष्टी येथे दडलेल्या आहेत."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "तुमची कथा, ब्रह्मांड आणि विज्ञानकोश यांबद्दल सहाय्यकाला विचारा. तो सुसंगती तपासू शकतो, एखादा उतारा तपासून चुका दाखवू शकतो किंवा काहीतरी शोधून देऊ शकतो. तो तुमच्या लेखनाबद्दलच्या प्रश्नांची उत्तरे देतो, पण तुमच्यासाठी लिहीत नाही. तो तुमच्या स्वतःच्या API कीवर चालतो, जी तुम्ही तुमच्या सेटिंग्जमध्ये जोडता."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "लिहायला सुरुवात करायला तयार आहात?",
+      "content": "कथा संपादकाच्या सर्व प्रभावी सुविधा कशा वापरायच्या हे आता तुम्हाला माहीत आहे. तुमचा अध्याय लिहायला सुरुवात करा आणि गरज लागेल तशी साधने पाहा. कधी मदत हवी असल्यास आमचे मदत पान किंवा लेखकाचा मार्ग पाहा किंवा आमच्याशी संपर्क साधा. चला, आता कथा लिहूया!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "कथा भाषांतरकाराची टूर",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "कथा भाषांतरकारात स्वागत आहे!",
+      "content": "चला, एक नजर टाकूया. संदर्भ साहित्य हाताशी ठेवून मूळ मजकुराचे भाषांतर करण्यासाठी ही कामाची जागा वापरा."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "डावीकडे मूळ मजकूर",
+      "content": "डाव्या बाजूला मूळ अध्याय आणि लेखकाच्या टिपा दिसतात. काम करताना संदर्भासाठी ते उघडे ठेवा."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "उजवीकडे भाषांतर करा",
+      "content": "तुमचे भाषांतर उजवीकडे लिहा. तुम्ही येथे जे सेव्ह करता तीच आवृत्ती या भाषेच्या वाचकांना दिसेल."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "ब्रह्मांडाचा विज्ञानकोश",
+      "content": "दंतकथा किंवा संज्ञा हव्या आहेत? ब्रह्मांड अधिक चांगले समजून घेण्यासाठी आमच्या साइडबारमधून ब्रह्मांडाचा विज्ञानकोश उघडता येतो."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "विज्ञानकोशात स्वागत आहे",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "तुमच्या ब्रह्मांडाचा विज्ञानकोश",
+      "content": "तुमच्या विज्ञानकोशात स्वागत आहे! येथे तुम्ही तुमच्या ब्रह्मांडाबद्दलचे सर्व ज्ञान व्यवस्थित लावता आणि ते तुमच्या चाहत्यांसोबत शेअर करता."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "तुमचा मजकूर व्यवस्थित लावा",
+      "content": "\"श्रेण्या\" आणि \"गट\" या दृश्यांमध्ये बदल करा. श्रेण्यांमध्ये नोंदी प्रकारानुसार (पात्रे, ठिकाणे इ.) लावलेल्या दिसतात, तर गटांमध्ये तुम्ही नोंदी त्यांच्या सानुकूल फील्ड गटांनुसार पाहू शकता, जे मूळ नोंदींद्वारे ठरतात आणि पुढे तसेच चालू राहतात."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "तुमच्या श्रेण्या",
+      "content": "या तुमच्या विज्ञानकोशाच्या श्रेण्या आहेत. माहिती लावण्यासाठी प्रत्येक श्रेणीचा स्वतःचा साचा असतो. कोणतीही श्रेणी उघडून त्यातील नोंदी पाहण्यासाठी तिच्यावर क्लिक करा."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "तुम्हाला हवे ते शोधा",
+      "content": "तुमच्या विज्ञानकोशातील कोणतीही नोंद पटकन शोधण्यासाठी शोध वापरा. माहिती लगेच मिळवण्यासाठी नाव, मजकूर किंवा टॅग यांनुसार शोधा."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "नवीन नोंदी तयार करा",
+      "content": "तुमच्या विज्ञानकोशात नवीन नोंदी जोडा. सुरुवात करून देण्यासाठी प्रत्येक श्रेणीचा स्वतःचा फॉर्म साचा असतो, पण तुम्ही तो हवा तसा बदलू शकता."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "तुमचा विज्ञानकोश तुमच्या आवडीनुसार बदला",
+      "content": "कोणत्या श्रेण्या वापरायच्या ते निवडण्यासाठी, स्वागत संदेश ठेवण्यासाठी आणि विज्ञानकोशाचे इतर तपशील ठरवण्यासाठी तुमच्या विज्ञानकोशाची सेटिंग्ज नक्की पाहा."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "आता तुम्हाला मूलभूत गोष्टी माहीत आहेत! तुमचे ब्रह्मांड उभारणे सुरू ठेवण्यासाठी तुमच्या कार्यशाळेत परत जा किंवा तुमच्या विज्ञानकोशात नोंदी जोडायला सुरुवात करा. लेखनाचा आनंद घ्या!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "बेटा वाचक मार्गदर्शक",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "बेटा वाचनात स्वागत आहे!",
+      "content": "बेटा वाचक म्हणून लेखकांना त्यांच्या कथा सुधारायला मदत करण्यात तुमची भूमिका अत्यंत महत्त्वाची आहे. तुमचा अभिप्राय चुका पकडायला, स्पष्टता वाढवायला आणि कथा वाचकांसाठी अधिक आनंददायी करायला मदत करतो. बेटा वाचनाचा इंटरफेस कसा वापरायचा आणि प्रभावी अभिप्राय कसा द्यायचा हे या मार्गदर्शकात दाखवले आहे."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "तुमचे संवादाचे मुख्य साधन",
+      "content": "येथे तुम्ही लेखकासाठी टिप्पण्या लिहिता! टिप्पण्यांचे पॅनेल उघडण्यासाठी येथे क्लिक करा. तुम्ही अध्यायावर सर्वसाधारण अभिप्राय देऊ शकता, विशिष्ट उतारे हायलाइट करू शकता, प्रश्न विचारू शकता किंवा सुधारणा सुचवू शकता. तुमच्या टिप्पण्या हाच लेखकाशी संवाद साधण्याचा मुख्य मार्ग आहे."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "टिप्पण्यांचा इंटरफेस",
+      "content": "टिप्पण्यांच्या पॅनेलमध्ये तुम्ही इतर बेटा वाचकांचा आधीचा अभिप्राय पाहू शकता आणि तुमचा स्वतःचा जोडू शकता. तुमचे विचार मांडण्यासाठी तळाशी असलेली टिप्पणी पेटी वापरा. काय चांगले जमले आहे आणि काय सुधारता येईल हे नेमकेपणाने सांगा - रचनात्मक अभिप्राय सर्वात उपयुक्त ठरतो!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "वाचन साधने",
+      "content": "तुमचा वाचनाचा अनुभव तुमच्या आवडीनुसार बदलण्यासाठी ही साधने वापरा. वाचन अधिक आरामदायी करण्यासाठी तुम्ही मजकुराचा आकार बदलू शकता, डार्क मोड चालू/बंद करू शकता आणि Open Dyslexic फॉन्ट किंवा परिच्छेद हायलाइटिंग यांसारख्या सुलभता सुविधा सुरू करू शकता."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "अभिप्राय द्यायला तयार आहात?",
+      "content": "बेटा वाचनाचा इंटरफेस कसा वापरायचा आणि टिप्पण्यांच्या सुविधेतून लेखकांशी कसा संवाद साधायचा हे आता तुम्हाला माहीत आहे. आधी अध्याय वाचा, मग साइडबार उघडा आणि तुमचा विचारपूर्वक अभिप्राय द्या. तुमच्या सूचनांमुळे लेखकांना अधिक चांगल्या कथा घडवता येतात!"
     }
   }
 }

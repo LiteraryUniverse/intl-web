@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "ข้ามทัวร์",
+    "close": "ปิดทัวร์",
+    "end": "จบทัวร์",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "ใช้ปุ่มลูกศรเพื่อเลื่อนไปมา กด ESC เพื่อปิด",
+    "start": "เริ่มทัวร์"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "ยินดีต้อนรับสู่แดชบอร์ดของคุณ",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "ยินดีต้อนรับสู่ Literary Universe",
+      "content": "มาเดินชมแดชบอร์ดของคุณกันสั้น ๆ เพื่อช่วยให้คุณเริ่มต้นเส้นทางการเขียน"
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "เมนูนำทางหลัก",
+      "content": "นี่คือเมนูนำทางหลักของคุณ มาดูกันทีละรายการ"
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "หน้าแรกส่วนตัวของคุณ พร้อมอัปเดตความเคลื่อนไหว และทางเข้าสู่สถานที่ทำงาน ห้องสมุด และฟีเจอร์ทางสังคม"
       },
       "discovery": {
         "title": "การค้นพบ",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "สำรวจเรื่องราวและจักรวาลที่ผู้ใช้คนอื่นสร้างไว้ อ่านเบื้องหลังและบล็อกเชิงลึกจากผู้เขียน แล้วค้นหาเรื่องโปรดเรื่องต่อไปของคุณ!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "ความสุขที่แบ่งปันคือความสุขคูณสิบ! ค้นหากลุ่มคนที่มีใจตรงกัน เข้าร่วม Discord ของเรา และดูว่ามีใครอยู่บน Literary Universe บ้าง!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "สแครตช์แพดคือสมุดจดส่วนตัวที่พร้อมให้คุณจดไอเดีย โน้ต และความคิดได้ทุกเมื่อ"
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "ติดตามความคิดเห็น การติดตาม และความเคลื่อนไหวอื่น ๆ ในชุมชน"
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "พูดคุยกับนักเขียนคนอื่นและผู้อ่านเบต้า และร่วมกันทำโปรเจกต์"
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "จัดการข้อมูลส่วนตัว ค่ากำหนด และการตั้งค่าบัญชีของคุณ"
       },
       "workshop": {
         "title": "เวิร์กช็อป",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "พื้นที่สร้างสรรค์ของคุณสำหรับเขียน แก้ไข และจัดการเรื่องราวและจักรวาล"
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "ห้องสมุดของคุณ",
+        "content": "เข้าถึงเรื่องราวที่บันทึกไว้ รายการอ่าน และเนื้อหาที่ดาวน์โหลดทั้งหมดได้ในที่เดียว"
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "เมนูทางลัด",
+      "content": "แถบด้านข้างนี้ช่วยให้เข้าถึงฟีเจอร์และเครื่องมือสำคัญได้อย่างรวดเร็ว"
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "สำหรับนักเขียน สถานที่ทำงานคือที่ที่ความมหัศจรรย์เกิดขึ้น! เริ่มเรื่องใหม่ เขียนเรื่องเดิมต่อ หรือขยายจักรวาลของคุณ ผู้อ่านของคุณกำลังรออยู่!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "สำหรับผู้อ่าน การค้นพบคือประตูสู่เรื่องราวสุดประทับใจ! สำรวจแนวใหม่ ๆ ติดตามผู้เขียนคนโปรด และสร้างรายการอ่านของคุณ ขอให้สนุกกับการอ่าน!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "เพิ่งมาใหม่ใช่ไหม มาเดินชมแดชบอร์ดของคุณกันสั้น ๆ!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "ยินดีต้อนรับสู่สถานที่ทำงานของคุณ",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "ยินดีต้อนรับสู่สถานที่ทำงานของ Literary Universe",
+      "content": "สถานที่ทำงานคือหัวใจของเส้นทางสร้างสรรค์ของคุณบน Literary Universe ที่นี่คุณสามารถสร้าง จัดการ และทำงานร่วมกับผู้อื่นในเรื่องราวและจักรวาลของคุณ"
     },
     "theWay": {
       "title": "วิถีของนักเขียน",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "ติดตามความก้าวหน้าในฐานะนักเขียนด้วยวิถีของนักเขียน ระบบแบบเกมนี้ช่วยให้คุณเลื่อนระดับได้ด้วยการทำเป้าหมายการเขียนให้สำเร็จและมีส่วนร่วมกับชุมชน คลิกที่นี่เพื่อดูว่าระบบทำงานอย่างไร"
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "เริ่มสิ่งใหม่",
+      "content": "เริ่มสร้างจะถามว่าคุณอยากสร้างอะไร: จักรวาลสำหรับเรื่องราวที่อยู่ในโลกเดียวกัน เรื่องราวที่จบในตัวเอง นิยายแฟน หรือการ์ตูน ระบบจะพาคุณผ่านการตัดสินใจแรก ๆ และให้ฉบับร่างไว้กับคุณ จะไม่มีอะไรถูกเผยแพร่จนกว่าคุณจะเผยแพร่เอง"
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "โปรเจกต์ทั้งหมดของคุณ",
+      "content": "จักรวาล เรื่องราว การ์ตูน และหนังสือเสียงทุกชิ้นที่คุณเป็นเจ้าของหรือร่วมทำงานอยู่จะแสดงที่นี่ ปุ่มทางขวาใช้สลับระหว่างมุมมองภาพปกกับรายการแบบกะทัดรัด คำเชิญให้ร่วมงาน แปล หรือเป็นผู้อ่านเบต้าจะปรากฏเหนือรายการเป็นคำขอที่คุณตอบรับหรือปฏิเสธได้"
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "หาโปรเจกต์ที่คุณต้องการ",
+      "content": "สิทธิ์เข้าถึงใช้กรองรายการให้เหลือเฉพาะโปรเจกต์ที่คุณเป็นเจ้าของ โปรเจกต์ที่คุณอยู่ในทีม งานแปล หรือเรื่องราวที่คุณตรวจในฐานะผู้อ่านเบต้า รูปแบบและสถานะช่วยกรองให้แคบลงอีก ส่วนเรียงจะนำโปรเจกต์ที่อัปเดตล่าสุดขึ้นมาไว้บนสุด"
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "เดินทางต่อไป",
+      "content": "อย่าลืมกลับมาดูความก้าวหน้าของคุณในวิถีของนักเขียนที่นี่ เขียนต่อไป ร่วมงานกับผู้อื่น และมีส่วนร่วมกับชุมชนเพื่อเลื่อนระดับ! เอาล่ะ มาเริ่มเขียนกันเลย!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "ห้องสมุดส่วนตัวของคุณ",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "อ่านต่อ",
+      "content": "ยินดีต้อนรับสู่ห้องสมุดส่วนตัวของคุณ! ที่นี่คุณจะเห็นเรื่องราวและจักรวาลที่คุณเพิ่มไว้เพื่อติดตามความคืบหน้าในการอ่าน ส่วนอ่านต่อจะแสดงเนื้อหาที่คุณเปิดล่าสุด เพื่อให้กลับมาอ่านต่อจากจุดที่ค้างไว้ได้ง่าย ๆ"
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "ห้องสมุดทั้งหมดของคุณ",
+      "content": "แท็บนี้แสดงทุกอย่างในห้องสมุดของคุณ แท็บข้าง ๆ ใช้กรองให้เหลือเฉพาะเรื่องราว รายการที่ซื้อ หนังสือเสียง มังงะและการ์ตูน หรือจักรวาล เพิ่มเรื่องราวหรือจักรวาลลงในห้องสมุดเพื่อรับอัปเดตและจำตำแหน่งที่อ่านค้างไว้"
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "เรื่องราวของคุณ",
+      "content": "เรื่องราวทั้งหมดที่คุณเพิ่มลงในห้องสมุดถูกจัดไว้ที่นี่ ติดตามความคืบหน้าในการอ่าน รับการแจ้งเตือนเมื่อมีบทใหม่ และไม่มีวันหลงตำแหน่งที่อ่านค้างไว้ในเรื่องโปรดของคุณ"
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "จักรวาลของคุณ",
+      "content": "จักรวาลที่คุณเพิ่มลงในห้องสมุดจะปรากฏที่นี่ ติดตามเรื่องราวใหม่ในจักรวาลเหล่านี้ สำรวจสารานุกรม และร่วมใช้ฟีเจอร์ชุมชน"
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "รายการอ่าน",
+      "content": "สร้างและจัดการรายการอ่านส่วนตัวของคุณที่นี่ จัดกลุ่มเรื่องราวตามธีม ซีรีส์ หรือเกณฑ์ใดก็ได้ที่เหมาะกับคุณ จะแชร์รายการให้ผู้อื่นหรือเก็บไว้เป็นส่วนตัวก็ได้"
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "บันทึกส่วนบุคคล",
+      "content": "เมื่อสมัครสมาชิกแพลตฟอร์ม คุณสามารถเพิ่มบันทึกส่วนบุคคลให้กับเรื่องราว จักรวาล หรือรายการสารานุกรมใดก็ได้ เก็บความคิด ทฤษฎี และข้อสังเกตของคุณไว้ขณะอ่านและสำรวจ Literary Universe"
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "พร้อมสร้างห้องสมุดของคุณหรือยัง",
+      "content": "เริ่มเพิ่มเรื่องราวและจักรวาลลงในห้องสมุดจากการค้นพบ ติดตามความคืบหน้าในการอ่าน สร้างรายการอ่าน และยกระดับประสบการณ์ด้วยบันทึกส่วนบุคคล การเดินทางทางวรรณกรรมของคุณรออยู่!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "สถานที่ทำงานของจักรวาล",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "ยินดีต้อนรับสู่สถานที่ทำงานของจักรวาลของคุณ!",
+      "content": "ขอแสดงความยินดีที่สร้างจักรวาลแรกของคุณ! ที่นี่คือศูนย์บัญชาการสำหรับสร้างและจัดการโลกวรรณกรรมของคุณ มาสำรวจเครื่องมือทรงพลังทั้งหมดที่จะทำให้จักรวาลของคุณมีชีวิตกัน"
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "จัดการเรื่องราวของคุณ",
+      "content": "ที่นี่คือที่ที่คุณจัดการเรื่องราวทั้งหมดในจักรวาลของคุณ สร้างเรื่องใหม่ แก้ไขเรื่องที่มีอยู่ และจัดระเบียบการเล่าเรื่องข้ามหลายเรื่องที่เชื่อมโยงกัน ทุกเรื่องได้ประโยชน์จากสารานุกรมร่วมของจักรวาลและฟีเจอร์ชุมชน"
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "สร้างสารานุกรมของคุณ",
+      "content": "สร้างและจัดการสารานุกรมของจักรวาล ซึ่งเป็นคลังความรู้ที่ทำให้โลกของคุณมีชีวิต เพิ่มตัวละคร สถานที่ ตำนาน และรายละเอียดอื่น ๆ ให้ผู้อ่านได้สำรวจ สารานุกรมที่สมบูรณ์ทำให้จักรวาลของคุณน่าดื่มด่ำยิ่งขึ้น และช่วยให้ผู้อ่านเข้าใจบริบทของเรื่องราว"
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "หน้าจักรวาลของคุณ",
+      "content": "นี่คือหน้าสาธารณะของจักรวาลของคุณ ที่ผู้เยี่ยมชมจะได้รู้จักโลกของคุณ อ่านเรื่องราว สำรวจสารานุกรม และมีส่วนร่วมกับชุมชนของคุณ ปรับแต่งหน้านี้เพื่อนำเสนอจักรวาลและดึงดูดผู้อ่านใหม่"
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "จัดการการแปล",
+      "content": "ประสานงานการแปลเนื้อหาในจักรวาลของคุณเป็นภาษาอื่น จัดการผู้แปล ติดตามความคืบหน้า และทำให้เรื่องราวของคุณเข้าถึงผู้อ่านทั่วโลก การแปลช่วยเชื่อมคุณกับผู้อ่านทุกมุมโลก"
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "ผู้จัดการแฟน",
+      "content": "จัดการปฏิสัมพันธ์กับแฟนและผลงานที่ได้แรงบันดาลใจจากจักรวาลของคุณ ติดตามนิยายแฟน งานศิลปะ และเนื้อหาอื่นจากชุมชน พูดคุยกับแฟน ๆ และสร้างชุมชนที่เติบโตรอบโลกของคุณ"
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "ติดตามความสำเร็จของคุณ",
+      "content": "ติดตามผลงานของจักรวาลด้วยข้อมูลวิเคราะห์โดยละเอียด ดูการมีส่วนร่วมของผู้อ่าน เรื่องราวยอดนิยม ยอดเข้าชมสารานุกรม และตัวชี้วัดอื่น ๆ ที่ช่วยให้คุณเข้าใจว่าอะไรโดนใจผู้อ่าน"
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "ฟอรัมวางแผนภายใน",
+      "content": "ฟอรัมภายในของจักรวาลสำหรับวางแผนและประสานงานกับผู้ร่วมงานและผู้แปล พูดคุยเรื่องโครงเรื่อง รายละเอียดการสร้างโลก และประสานงานสร้างสรรค์ของคุณ พื้นที่ส่วนตัวนี้ช่วยให้ทีมทำงานร่วมกันได้อย่างมีประสิทธิภาพ"
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "จัดการผู้ร่วมงาน",
+      "content": "เชิญนักเขียน ศิลปิน และครีเอเตอร์คนอื่น ๆ มาร่วมงานในจักรวาลของคุณ กำหนดบทบาทและสิทธิ์ จัดการระดับการเข้าถึง และสร้างทีมที่จะช่วยกันพัฒนาโลกของคุณ"
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "การตั้งค่ารายได้",
+      "content": "กำหนดวิธีสร้างรายได้จากจักรวาลและเนื้อหาของคุณ ตั้งค่าการเข้าถึงแบบพรีเมียม จัดการการสมัครสมาชิก และกำหนดการแบ่งรายได้กับผู้ร่วมงาน เปลี่ยนงานสร้างสรรค์ให้เป็นแหล่งรายได้ที่ยั่งยืน"
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "ศูนย์แก้ไขปัญหา",
+      "content": "จัดการข้อพิพาท การละเมิดด้านเนื้อหา และปัญหาอื่น ๆ ที่อาจเกิดขึ้นในจักรวาลของคุณ ระบบรวมศูนย์นี้ช่วยรักษาบรรยากาศที่ดีของชุมชนและคลี่คลายข้อขัดแย้งได้อย่างมีประสิทธิภาพ"
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "การตั้งค่าจักรวาล",
+      "content": "กำหนดการตั้งค่าหลักของจักรวาล เช่น ความเป็นส่วนตัว การควบคุมการเข้าถึง หมวดหมู่ และตัวเลือกพื้นฐานอื่น ๆ การตั้งค่าเหล่านี้กำหนดว่าจักรวาลของคุณทำงานอย่างไรและใครมีส่วนร่วมได้บ้าง"
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "การกำหนดค่าฟอรัม",
+      "content": "ปรับการตั้งค่าฟอรัมของจักรวาลอย่างละเอียด สร้างหมวดหมู่ ตั้งกฎการดูแล กำหนดสิทธิ์ และปรับแต่งพื้นที่สนทนาให้ตอบโจทย์ชุมชนของคุณที่สุด"
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "พร้อมสร้างจักรวาลของคุณหรือยัง",
+      "content": "ตอนนี้คุณมีเครื่องมือครบทุกอย่างสำหรับสร้างจักรวาลที่สมบูรณ์และน่าติดตามแล้ว เริ่มด้วยการเพิ่มเรื่องราว เติมสารานุกรม และเชิญผู้ร่วมงาน โลกวรรณกรรมของคุณรอการสร้างสรรค์อยู่!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "แดชบอร์ดเรื่องราว",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "ยินดีต้อนรับสู่แดชบอร์ดเรื่องราวของคุณ!",
+      "content": "ที่นี่คือศูนย์บัญชาการของเรื่องราว ที่คุณจัดการทุกแง่มุมของงานเขียน คุณสามารถเขียนบท จัดโครงสร้างเรื่อง ร่วมงานกับผู้อื่น และติดตามความคืบหน้าได้ที่นี่ มาดูฟีเจอร์หลักกัน"
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "การเพิ่มบทใหม่",
+      "content": "ที่นี่คือที่ที่คุณเพิ่มบทใหม่ให้เรื่องราว คลิกปุ่ม \"บทใหม่\" เพื่อสร้างบทใหม่ เรื่องราวของคุณจะจัดเรียงบทตามลำดับที่ถูกต้องโดยอัตโนมัติ คุณยังเพิ่มบทจากด้านล่างของรายการบทได้ด้วย"
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "ติดตามความคืบหน้าของคุณ",
+      "content": "ติดตามความคืบหน้าในการเขียนและการมีส่วนร่วมของผู้อ่านด้วยสถิติโดยละเอียด ดูว่าคุณมีผู้อ่านกี่คน ติดตามยอดเข้าชมของแต่ละบท และวิเคราะห์ผลงานของเรื่องราวตามช่วงเวลา"
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "จัดการผู้ร่วมงาน",
+      "content": "เชิญนักเขียนคนอื่นมาร่วมงานในเรื่องราวของคุณ กำหนดบทบาทและสิทธิ์ที่ต่างกัน ประสานงานเขียน และจัดการทีมสร้างสรรค์ของคุณ เหมาะอย่างยิ่งสำหรับโปรเจกต์เขียนแบบกลุ่ม"
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "การจัดการการแปล",
+      "content": "ประสานงานการแปลเรื่องราวของคุณเป็นภาษาอื่น จัดการผู้แปล ติดตามความคืบหน้าของการแปล และทำให้เรื่องราวเข้าถึงผู้อ่านทั่วโลกได้"
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "การตั้งค่ารายได้",
+      "content": "กำหนดวิธีสร้างรายได้จากเรื่องราวของคุณ ตั้งค่าบทพรีเมียม จัดการตัวเลือกการสมัครสมาชิก และกำหนดการแบ่งรายได้กับผู้ร่วมงาน เปลี่ยนงานเขียนของคุณให้เป็นรายได้"
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "การตั้งค่าเรื่องราว",
+      "content": "กำหนดการตั้งค่าหลักของเรื่องราว เช่น ความเป็นส่วนตัว ตัวเลือกการเผยแพร่ หมวดหมู่ และค่ากำหนดพื้นฐานอื่น ๆ การตั้งค่าเหล่านี้กำหนดว่าเรื่องราวของคุณจะแสดงผลและทำงานอย่างไร"
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "บันทึกภาพรวม",
+      "content": "เก็บโครงสร้างโดยรวมของเรื่อง จุดสำคัญของโครงเรื่อง พัฒนาการของตัวละคร และบันทึกสำคัญต่าง ๆ ไว้ที่นี่ นี่คือพื้นที่วางแผนส่วนตัวสำหรับจัดระเบียบงานเขียนของคุณ"
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "ความท้าทายในการเขียนส่วนตัว",
+      "content": "ตั้งเป้าหมายการเขียนส่วนตัวและติดตามความคืบหน้าด้วยความท้าทาย กำหนดเป้าจำนวนคำรายวันหรือรายสัปดาห์ ตั้งกำหนดส่งของแต่ละบท และสร้างแรงจูงใจให้ตัวเองเขียนอย่างสม่ำเสมอ นี่คือเครื่องมือส่วนตัวที่ช่วยให้คุณเขียนได้ตามแผน"
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "การจัดการสายเรื่อง",
+      "content": "จัดเรื่องราวของคุณเป็นสายเรื่องและเส้นเรื่องย่อยต่าง ๆ ติดตามพัฒนาการของตัวละคร พล็อตรอง และองค์ประกอบของการเล่าเรื่อง เหมาะอย่างยิ่งสำหรับเรื่องซับซ้อนที่มีหลายองค์ประกอบเชื่อมโยงกัน"
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "ตัวจัดการฉาก",
+      "content": "จัดระเบียบและจัดการฉากแต่ละฉากในบทของคุณ ติดตามความคืบหน้าของฉาก สลับลำดับฉาก และรักษาความลื่นไหลของโครงสร้างเรื่อง"
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "เอกสารทางกฎหมาย",
+      "content": "เข้าถึงเอกสารทางกฎหมายสำคัญที่เกี่ยวกับเรื่องราวของคุณ รวมถึงข้อมูลลิขสิทธิ์ สัญญาการจัดพิมพ์ และการจัดการสิทธิ์ ดูแลเรื่องกฎหมายของคุณให้เป็นระเบียบ"
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "เวอร์ชันสาธารณะ",
+      "content": "ดูเรื่องราวของคุณในแบบที่ผู้อ่านเห็นบนเว็บไซต์สาธารณะ ตรวจการจัดรูปแบบ ทดสอบลิงก์ และตรวจให้แน่ใจว่าทุกอย่างเรียบร้อยก่อนแชร์ให้ผู้อ่าน"
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "แชร์เรื่องราวของคุณ",
+      "content": "แชร์เรื่องราวของคุณบนโซเชียลมีเดียด้วยข้อความและลิงก์ที่เตรียมไว้ให้สำหรับแพลตฟอร์มยอดนิยม รับเนื้อหาพร้อมใช้ที่นำเสนอผลงานของคุณและช่วยให้เข้าถึงผู้อ่านใหม่บนเครือข่ายสังคมต่าง ๆ"
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "ศูนย์แก้ไขปัญหา",
+      "content": "จัดการข้อพิพาททางกฎหมาย การละเมิดข้อกำหนดในการให้บริการ หรือปัญหาอื่น ๆ ที่เกี่ยวกับเรื่องราวของคุณ ศูนย์รวมนี้แสดงปัญหาทั้งหมดที่ถูกรายงาน พร้อมเครื่องมือสำหรับคลี่คลายข้อขัดแย้งและรักษาบรรยากาศที่ดีของชุมชน"
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "การจัดการสถานะเรื่องราว",
+      "content": "ควบคุมสถานะการเผยแพร่ของเรื่องราวด้วยตัวเลือกสำคัญเหล่านี้ \"ใช้งานอยู่\" หมายถึงเรื่องราวของคุณมีการอัปเดตสม่ำเสมอ \"หยุดชั่วคราว\" หมายถึงพักชั่วคราว \"ยกเลิก\" หมายถึงคุณหยุดเขียนแล้ว \"เสร็จแล้ว\" หมายถึงเรื่องราวของคุณจบสมบูรณ์ เลือกสถานะที่ตรงกับสถานการณ์การเขียนของคุณในตอนนี้ที่สุด หมายเหตุ: เรื่องราวจะเปลี่ยนเป็น \"หยุดชั่วคราว\" โดยอัตโนมัติหลังไม่มีความคืบหน้า 6 เดือน และเปลี่ยนเป็น \"ยกเลิก\" หลังไม่มีความเคลื่อนไหวต่ออีก 6 เดือน"
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "พร้อมเริ่มเขียนหรือยัง",
+      "content": "ตอนนี้คุณรู้วิธีจัดการทุกแง่มุมของเรื่องราวแล้ว เริ่มด้วยการเพิ่มบทแรก แล้วค่อยสำรวจเครื่องมือต่าง ๆ ที่มีให้ เรื่องราวของคุณรอการสร้างสรรค์อยู่!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "ทัวร์ตัวแก้ไขเรื่องราว",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "ยินดีต้อนรับสู่ตัวแก้ไขเรื่องราว!",
+      "content": "นี่คือพื้นที่เขียนงานที่คุณจะรังสรรค์เรื่องราว ตัวแก้ไขมีเครื่องมือทรงพลังที่ช่วยให้คุณเขียน จัดระเบียบ และเผยแพร่ผลงาน มาดูฟีเจอร์หลักกัน"
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "ปรับขนาดตัวอักษร",
+      "content": "ปรับขนาดตัวอักษรให้อ่านสบายขณะเขียน สลับระหว่างขนาดปกติและขนาดใหญ่เพื่อลดอาการล้าของสายตาเมื่อเขียนเป็นเวลานาน"
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "สลับโหมดมืด",
+      "content": "สลับระหว่างธีมสว่างและธีมมืด โหมดมืดสบายตากว่าเมื่อเขียนตอนกลางคืนและช่วยให้มีสมาธิ"
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "เครื่องมือช่วยการเข้าถึง",
+      "content": "ใช้ฟอนต์ที่เป็นมิตรกับผู้มีภาวะดิสเล็กเซีย การไฮไลต์ย่อหน้า และฟีเจอร์ช่วยการเข้าถึงอื่น ๆ เพื่อความสะดวกสบายของคุณ"
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "แสดงหรือซ่อนแผงด้านข้าง",
+      "content": "แสดงหรือซ่อนแผงด้านข้าง ในแผงมีเครื่องมือที่มีประโยชน์ เช่น สแครตช์แพด บันทึกของเรื่อง สารานุกรม ความคิดเห็น และ AI Assistant"
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "โหมดเต็มหน้าจอ",
+      "content": "เข้าสู่โหมดเต็มหน้าจอเพื่อขยายพื้นที่เขียนให้มากที่สุดและตัดสิ่งรบกวนออกไป เหมาะอย่างยิ่งสำหรับช่วงเวลาที่ต้องการสมาธิในการเขียน"
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "บันทึกงานของคุณ",
+      "content": "ฉบับร่างของคุณถูกบันทึกโดยอัตโนมัติ งานจะถูกบันทึกไปพร้อมกับที่คุณพิมพ์ แต่คุณกดบันทึกเองได้ทุกเมื่อเช่นกัน"
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "ตัวเลือกการเผยแพร่",
+      "content": "เมื่อเขียนฉบับร่างเสร็จแล้ว ก็ถึงเวลาสร้างฉบับแก้ไข คุณสร้างฉบับแก้ไขสำหรับผู้อ่านเบต้าหรือสำหรับสาธารณะก็ได้ เมื่อตัดสินใจเผยแพร่ คุณเป็นผู้กำหนดเองว่าบทจะเผยแพร่เมื่อใด"
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "ชื่อบท",
+      "content": "คลิกที่ชื่อบทเพื่อแก้ไข"
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "เขียนบันทึกส่วนตัวเกี่ยวกับบทนี้หรือข้อความถึงผู้อ่าน ข้อความนี้จะแสดงก่อนเนื้อหาบทให้ผู้อ่านเห็น (เหมือนที่เห็นตรงนี้) และเป็นวิธีที่ได้ผลดีในการประกาศข่าวหรือแบ่งปันความคิดเกี่ยวกับเรื่องราวที่ผ่านมา"
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "เนื้อเรื่องหลัก",
+      "content": "นี่คือพื้นที่เขียนหลักที่เรื่องราวของคุณมีชีวิตขึ้นมา เขียนเนื้อหาของบทที่นี่ด้วยความสามารถในการแก้ไข Rich Text เต็มรูปแบบ"
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "กล่องเครื่องมือด้านข้าง",
+      "content": "แผงด้านข้างมีเครื่องมือและข้อมูลที่มีประโยชน์ ใช้เมนูด้านบนเพื่อสลับมุมมองต่าง ๆ เช่น สแครตช์แพด ข้อมูลอ้างอิงจากสารานุกรม ความคิดเห็น และ AI Assistant"
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "สแครตช์แพดส่วนตัว",
+      "content": "สแครตช์แพดส่วนตัวพร้อมให้คุณจดไอเดีย โน้ต หรือแรงบันดาลใจได้ทุกเมื่อ เก็บความคิดที่ยังไม่เข้ากับเนื้อเรื่องหลักแต่อาจมีประโยชน์ในภายหลังไว้ที่นี่"
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "บันทึกของเรื่อง",
+      "content": "เข้าถึงบันทึกภาพรวมและข้อมูลการวางแผนของเรื่องราว เก็บโครงเรื่อง พัฒนาการของตัวละคร รายละเอียดการสร้างโลก และข้อมูลจัดระเบียบอื่น ๆ ไว้ที่นี่"
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "เข้าถึงสารานุกรม",
+      "content": "เข้าถึงสารานุกรมของจักรวาลได้อย่างรวดเร็ว อ้างอิงรายละเอียดตัวละคร สถานที่ ตำนาน และองค์ประกอบการสร้างโลกอื่น ๆ ขณะเขียน ปุ่มอื่น ๆ ตรงนี้ใช้ค้นหาและเพิ่มรายการใหม่ได้"
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "ความคิดเห็นของบท",
+      "content": "ดูและตอบความคิดเห็นในบทนี้จากผู้อ่านเบต้า ผู้ร่วมงาน และผู้อ่านคนอื่น ๆ พูดคุยกับผู้อ่านและรับคำติชมที่มีคุณค่า"
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "ก่อนเผยแพร่มีเรื่องสำคัญที่ควรตรวจสอบ รายการสิ่งที่ต้องทำก่อนเผยแพร่และเรื่องเล็ก ๆ ที่น่าสนใจอื่น ๆ ให้ตรวจดูซ่อนอยู่ที่นี่"
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "ถามผู้ช่วยเกี่ยวกับเรื่องราว จักรวาล และสารานุกรมของคุณ ผู้ช่วยตรวจความสอดคล้อง พิสูจน์อักษรข้อความ หรือค้นข้อมูลให้ได้ ผู้ช่วยตอบคำถามเกี่ยวกับงานเขียนของคุณ แต่ไม่เขียนแทนคุณ ผู้ช่วยทำงานด้วยคีย์ API ของคุณเอง ซึ่งคุณเพิ่มได้ในการตั้งค่า"
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "พร้อมเริ่มเขียนหรือยัง",
+      "content": "ตอนนี้คุณรู้วิธีใช้ฟีเจอร์ทรงพลังทั้งหมดของตัวแก้ไขเรื่องราวแล้ว เริ่มเขียนบทของคุณ แล้วสำรวจเครื่องมือต่าง ๆ เมื่อจำเป็น หากต้องการความช่วยเหลือ ลองดูหน้าช่วยเหลือ วิถีของนักเขียน หรือติดต่อเราได้เลย เอาล่ะ มาเขียนเรื่องราวกัน!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "ทัวร์ตัวแปลเรื่องราว",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "ยินดีต้อนรับสู่ตัวแปลเรื่องราว!",
+      "content": "มาดูรอบ ๆ กันสักหน่อย ใช้พื้นที่ทำงานนี้แปลข้อความต้นฉบับ โดยมีข้อมูลอ้างอิงอยู่ใกล้มือเสมอ"
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "ข้อความต้นฉบับอยู่ทางซ้าย",
+      "content": "ด้านซ้ายแสดงบทต้นฉบับและบันทึกของผู้เขียน เปิดไว้เป็นข้อมูลอ้างอิงขณะทำงาน"
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "แปลทางขวา",
+      "content": "เขียนคำแปลของคุณทางขวา ทุกอย่างที่คุณบันทึกที่นี่จะเป็นเวอร์ชันที่ผู้อ่านภาษานี้ได้เห็น"
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "เข้าถึงสารานุกรมของจักรวาล",
+      "content": "ต้องการข้อมูลตำนานหรือคำศัพท์เฉพาะใช่ไหม ในแถบด้านข้างมีทางเข้าสู่สารานุกรมของจักรวาล เพื่อให้คุณเข้าใจจักรวาลได้ดียิ่งขึ้น"
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "ยินดีต้อนรับสู่สารานุกรม",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "สารานุกรมของจักรวาลของคุณ",
+      "content": "ยินดีต้อนรับสู่สารานุกรมของคุณ! ที่นี่คือที่ที่คุณจัดระเบียบความรู้ทั้งหมดเกี่ยวกับจักรวาลและแบ่งปันให้แฟน ๆ"
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "จัดระเบียบเนื้อหาของคุณ",
+      "content": "สลับระหว่างมุมมอง \"หมวดหมู่\" และ \"กลุ่ม\" หมวดหมู่แสดงรายการที่จัดตามประเภท (ตัวละคร สถานที่ ฯลฯ) ส่วนกลุ่มให้คุณดูรายการตามการจัดกลุ่มของฟิลด์กำหนดเอง ซึ่งกำหนดโดยรายการแม่และไล่ต่อกันไปเป็นลำดับ"
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "หมวดหมู่ของคุณ",
+      "content": "นี่คือหมวดหมู่ในสารานุกรมของคุณ แต่ละหมวดหมู่มีเทมเพลตของตัวเองสำหรับจัดระเบียบข้อมูล คลิกหมวดหมู่ใดก็ได้เพื่อขยายและดูรายการภายใน"
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "หาสิ่งที่คุณต้องการ",
+      "content": "ใช้การค้นหาเพื่อหารายการใดก็ได้ในสารานุกรมอย่างรวดเร็ว ค้นหาด้วยชื่อ เนื้อหา หรือแท็กเพื่อเจอข้อมูลได้ทันที"
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "สร้างรายการใหม่",
+      "content": "เพิ่มรายการใหม่ลงในสารานุกรมของคุณ แต่ละหมวดหมู่มีเทมเพลตแบบฟอร์มของตัวเองให้เริ่มต้น แต่คุณปรับแก้ได้ตามต้องการ"
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "ปรับแต่งสารานุกรมของคุณ",
+      "content": "อย่าลืมตรวจดูการตั้งค่าสารานุกรม เพื่อเลือกหมวดหมู่ที่ต้องการใช้ ตั้งข้อความต้อนรับ และกำหนดรายละเอียดอื่น ๆ ของสารานุกรม"
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "ตอนนี้คุณรู้พื้นฐานแล้ว! กลับไปที่สถานที่ทำงานเพื่อสร้างจักรวาลของคุณต่อ หรือเริ่มเพิ่มรายการลงในสารานุกรม ขอให้สนุกกับการเขียน!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "คู่มือผู้อ่านเบต้า",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "ยินดีต้อนรับสู่การอ่านเบต้า!",
+      "content": "ในฐานะผู้อ่านเบต้า คุณมีบทบาทสำคัญในการช่วยผู้เขียนพัฒนาเรื่องราว คำติชมของคุณช่วยจับจุดบกพร่อง ทำให้เนื้อหาชัดเจนขึ้น และทำให้เรื่องราวสนุกยิ่งขึ้นสำหรับผู้อ่าน คู่มือนี้จะแสดงวิธีใช้หน้าจอการอ่านเบต้าและการให้คำติชมที่ได้ผล"
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "เครื่องมือสื่อสารหลักของคุณ",
+      "content": "ที่นี่คือที่ที่คุณฝากความคิดเห็นถึงผู้เขียน! คลิกที่นี่เพื่อเปิดแผงความคิดเห็น คุณสามารถให้คำติชมโดยรวมของบท ไฮไลต์ข้อความเฉพาะจุด ถามคำถาม หรือเสนอแนะการปรับปรุง ความคิดเห็นคือช่องทางหลักที่คุณใช้สื่อสารกับผู้เขียน"
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "หน้าจอแสดงความคิดเห็น",
+      "content": "ในแผงความคิดเห็น คุณจะเห็นคำติชมจากผู้อ่านเบต้าคนอื่นและเพิ่มของคุณเองได้ ใช้กล่องความคิดเห็นด้านล่างเพื่อแบ่งปันความคิดของคุณ บอกให้ชัดว่าอะไรดีอยู่แล้วและอะไรปรับปรุงได้ เพราะคำติชมเชิงสร้างสรรค์มีประโยชน์ที่สุด!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "เครื่องมือการอ่าน",
+      "content": "ใช้เครื่องมือเหล่านี้ปรับประสบการณ์การอ่านของคุณ คุณปรับขนาดตัวอักษร สลับโหมดมืด และเปิดฟีเจอร์ช่วยการเข้าถึง เช่น ฟอนต์ Open Dyslexic หรือการไฮไลต์ย่อหน้า เพื่อให้อ่านสบายขึ้นได้"
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "พร้อมให้คำติชมหรือยัง",
+      "content": "ตอนนี้คุณรู้วิธีใช้หน้าจอการอ่านเบต้าและใช้ความคิดเห็นสื่อสารกับผู้เขียนแล้ว เริ่มด้วยการอ่านบท จากนั้นเปิดแถบด้านข้างแล้วแบ่งปันคำติชมที่ผ่านการไตร่ตรองของคุณ ความเห็นของคุณช่วยให้ผู้เขียนสร้างเรื่องราวที่ดียิ่งขึ้น!"
     }
   }
 }

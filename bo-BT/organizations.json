@@ -300,5 +300,9 @@
   "org.setup.closed": "བེད་སྤྱོད་མ་བྱས་པའི་སྒྲིག་འགོད་འདི་ཁ་བརྒྱབ་ཟིན་ལ། ཚོགས་སྡེའི་ཁ་བྱང་ཡང་གློད་ཟིན། ཁྱེད་ཀྱི་ཟིན་ཐོ་འདིར་ཉར་ཡོད།",
   "org.setup.restart": "ཚོགས་སྡེའི་སྒྲིག་འགོད་གསར་པ་འགོ་འཛུགས།",
   "org.setup.expiryNotice": "བེད་སྤྱོད་མ་བྱས་པའི་ཚོགས་སྡེའི་ཁ་བྱང་ཉིན་ 30 རྗེས་སུ་གློད་ངེས། ཁྱེད་ཀྱིས་ད་ལྟ་སྒྲིག་འགོད་འདི་དོར་ཡང་ཆོག",
-  "org.setup.inUse": "སྒྲིག་འགོད་འདི་ལ་སྤྲོད་འཇལ་ངམ་དངུལ་སྤྲོད་ཀྱི་བྱ་འགུལ་ཡོད། ཁ་ཕྱེ་ཡོད་པའི་ཚོང་སྒྲུབ་གང་རུང་དུས་ཡོལ་བར་སྒུག་པའམ། ཡང་ན་དེ་ཁ་རྒྱག་གོང་རོགས་རམ་ལ་འབྲེལ་བ་གནང་།"
+  "org.setup.inUse": "སྒྲིག་འགོད་འདི་ལ་སྤྲོད་འཇལ་ངམ་དངུལ་སྤྲོད་ཀྱི་བྱ་འགུལ་ཡོད། ཁ་ཕྱེ་ཡོད་པའི་ཚོང་སྒྲུབ་གང་རུང་དུས་ཡོལ་བར་སྒུག་པའམ། ཡང་ན་དེ་ཁ་རྒྱག་གོང་རོགས་རམ་ལ་འབྲེལ་བ་གནང་།",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

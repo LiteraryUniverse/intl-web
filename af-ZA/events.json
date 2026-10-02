@@ -1,7 +1,7 @@
 {
   "events.upcoming": "Komende gebeurtenisse",
   "events.settings.title": "Gebeurtenis instellings",
-  "events.attendees.title": "Event attendees",
+  "events.attendees.title": "Geleentheidsgangers",
   "events.attendance.attending": "Bywoning",
   "events.attendance.tentative": "Vas",
   "events.attendance.notAttending": "Nie bywoning nie",
@@ -29,7 +29,7 @@
   "events.visibility.private": "Privaat - slegs mense wat jy uitnooi sal die gebeurtenis sien",
   "events.inviting": "Kan mense wat hierdie gebeurtenis sien ander uitnooi?",
   "events.administration": "Gebeurtenisadministrasie",
-  "events.admin": "Events Admin",
+  "events.admin": "Geleentheidsadministrasie",
   "events.create.title": "Skep 'n nuwe gebeurtenis",
   "events.hostedBy": "Geborg deur {hostName}",
   "events.openVirtual": "Gaan na virtuele plek",

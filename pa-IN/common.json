@@ -121,6 +121,9 @@
   "common.justNow": "Just now",
   "common.label": "Label",
   "common.lang.select": "ਭਾਸ਼ਾ ਚੁਣੋ",
+  "common.lang.change": "ਭਾਸ਼ਾ ਬਦਲੋ",
+  "common.lang.readingLanguagePitch": "ਕੀ ਤੁਸੀਂ ਇੰਟਰਫੇਸ ਤੋਂ ਵੱਖਰੀ ਭਾਸ਼ਾ ਵਿੱਚ ਕਹਾਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ? ਆਪਣੀ ਪੜ੍ਹਨ ਦੀ ਭਾਸ਼ਾ ਚੁਣਨ ਲਈ ਇੱਕ ਮੁਫ਼ਤ ਖਾਤਾ ਬਣਾਓ।",
+  "common.lang.createAccount": "ਮੁਫ਼ਤ ਖਾਤਾ ਬਣਾਓ",
   "common.language": "ਭਾਸ਼ਾ",
   "common.legal.community": "ਕਮਿਊਨਿਟੀ ਨਿਰਦੇਸ਼",
   "common.legal.cookies": "About cookies",
@@ -463,5 +466,9 @@
   "common.up": "Up",
   "common.down": "Down",
   "common.yes": "Yes",
-  "common.no": "No"
+  "common.no": "No",
+  "common.error": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+  "common.savedOffline": "ਆਫ਼ਲਾਈਨ ਸੰਭਾਲਿਆ ਗਿਆ। ਜਦੋਂ ਤੁਸੀਂ ਦੁਬਾਰਾ ਕਨੈਕਟ ਹੋਵੋਗੇ ਤਾਂ ਇਹ ਸਿੰਕ ਹੋ ਜਾਵੇਗਾ।",
+  "common.synced": "ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਸਿੰਕ ਹੋ ਗਈਆਂ।",
+  "common.autoSaveDeferred": "ਇਸ ਵੇਲੇ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਰੱਖੀਆਂ ਗਈਆਂ ਹਨ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਸਿੰਕ ਹੋਣਗੀਆਂ।"
 }

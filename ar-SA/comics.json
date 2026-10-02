@@ -135,7 +135,7 @@
   "comics.search.noResults": "لم يُعثر على مانغا أو قصص مصورة.",
   "comics.search.status": "حالة النشر",
   "comics.settings.universe": "كون",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "إعدادات العمل",
   "comics.split.author": "المؤلف",
   "comics.splitMustTotal": "يجب أن يبلغ إجمالي توزيع الإيرادات 100%.",
   "comics.startReading": "بدء القراءة",
@@ -196,6 +196,9 @@
   "comics.volumes": "المجلدات",
   "comics.volumes.empty": "لم تُحدد أي مجلدات.",
   "comics.volumesHelp": "بِع نطاقات الفصول كمجلدات. أرقام الفصول شاملة ويجب ألا تتداخل النطاقات.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "وضع علامة «مكتمل» عند صدور آخر فصل مجدول ({date})",
+  "comics.finish.scheduledNotice": "سيوضع على {format} علامة «مكتمل» في {date}، عند صدور آخر فصل مجدول.",
+  "comics.reader.loading": "قصة مصورة",
+  "comics.translation.mode.label": "الوضع: {mode}",
+  "comics.pagesCount": "{count, plural, zero {لا صفحات} one {صفحة واحدة} two {صفحتان} few {# صفحات} many {# صفحة} other {# صفحة}}"
 }

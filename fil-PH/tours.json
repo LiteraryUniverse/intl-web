@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "Laktawan ang tour",
+    "close": "Isara ang tour",
+    "end": "Tapusin ang tour",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "Gamitin ang mga arrow key para mag-navigate, ESC para isara",
+    "start": "Simulan ang tour"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Maligayang pagdating sa iyong Dashboard",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Maligayang pagdating sa Literary Universe",
+      "content": "Mag-tour tayo nang mabilis sa iyong dashboard para matulungan kang simulan ang iyong paglalakbay sa pagsusulat."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Pangunahing nabigasyon",
+      "content": "Ito ang iyong pangunahing menu ng nabigasyon. Isa-isahin natin ang bawat item."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Ang iyong personal na homepage na may mga update sa aktibidad at access sa iyong gawain, aklatan, at mga social feature."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Tuklasin ang mga kwento at unibersong nilikha ng ibang user. Basahin ang mga kuwento sa likod ng eksena at malalalim na blog post mula sa mga may-akda. Hanapin ang susunod mong paboritong babasahin!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Ang sayang ibinabahagi ay 10 beses na saya! Maghanap ng mga grupo ng taong kapareho mo ng hilig, sumali sa aming Discord, at alamin kung sino pa ang nasa Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Ang Scratchpad ay ang personal mong kuwaderno na laging handa para pagtalaan ng mga ideya, tala, at iniisip."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Manatiling updated sa mga komento, bagong tagasunod, at iba pang interaksyon sa komunidad."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Makipag-usap sa ibang manunulat at mga beta reader, at makipagtulungan sa mga proyekto."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Pamahalaan ang iyong personal na impormasyon, mga kagustuhan, at mga setting ng account."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Ang iyong malikhaing espasyo para sa pagsusulat, pag-eedit, at pamamahala ng iyong mga kwento at uniberso."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Ang iyong Aklatan",
+        "content": "I-access sa iisang lugar ang lahat ng naka-save mong kwento, mga listahan ng pagbasa, at na-download na nilalaman."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Menu ng mabilis na access",
+      "content": "Nagbibigay ang sidebar na ito ng mabilis na access sa mahahalagang feature at tool."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Bilang manunulat, sa iyong Gawain nangyayari ang mahika! Magsimula ng bagong kwento, ituloy ang isinusulat mo, o palawakin ang iyong uniberso. Naghihintay ang iyong mga mambabasa!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Bilang mambabasa, ang Pagtuklas ang iyong daan patungo sa mga kamangha-manghang kwento! Tumuklas ng mga bagong genre, sundan ang mga paborito mong may-akda, at buuin ang iyong mga listahan ng pagbasa. Maligayang pagbabasa!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "Bago ka rito? Mag-tour nang mabilis sa iyong dashboard!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Maligayang pagdating sa iyong Gawain",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Maligayang pagdating sa Gawain ng Literary Universe",
+      "content": "Ang iyong Gawain ang puso ng iyong malikhaing paglalakbay sa Literary Universe. Dito ka makakalikha, makakapamahala, at makikipagtulungan sa iyong mga kwento at uniberso."
     },
     "theWay": {
       "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "Subaybayan ang iyong pag-unlad bilang manunulat sa The Way of the Author. Tinutulungan ka ng sistemang ito na parang laro na mag-level up sa pagkumpleto ng mga milestone sa pagsusulat at pakikilahok sa komunidad. Mag-click dito para malaman kung paano ito gumagana."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Magsimula ng bago",
+      "content": "Tinatanong ng Simulan ang paglikha kung ano ang gusto mong gawin: isang uniberso para sa mga kwentong iisa ang mundo, isang kwentong nakatayo nang mag-isa, fan fiction, o komiks. Gagabayan ka nito sa mga unang desisyon at iiwan ka nitong may draft. Walang mailalathala hangga't hindi ikaw ang naglalathala."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Lahat ng iyong proyekto",
+      "content": "Nakalista rito ang bawat uniberso, kwento, komiks, at audiobook na pag-aari mo o pinagtatrabahuhan mo. Ang mga button sa kanan ay nagpapalit sa pagitan ng mga cover at ng siksik na listahan. Lumalabas sa itaas ng listahan ang mga imbitasyong makipagtulungan, magsalin, o mag-beta read bilang mga kahilingang maaari mong tanggapin o tanggihan."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Hanapin ang proyektong kailangan mo",
+      "content": "Pinaliliit ng Access ang listahan sa mga proyektong pag-aari mo, mga proyektong kasapi ka sa koponan, mga pagsasalin, o mga kwentong sinusuri mo bilang beta reader. Lalo pa itong pinaliliit ng Format at Status, at inuuna ng Ayusin ang proyektong pinakahuling na-update."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Ituloy ang iyong paglalakbay",
+      "content": "Tandaang bumalik dito para makita ang iyong pag-unlad sa The Way of the Author. Patuloy na magsulat, makipagtulungan, at makilahok sa komunidad para mag-level up! Ngayon, magsimula na tayong magsulat!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Ang iyong personal na Aklatan",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Magpatuloy sa pagbabasa",
+      "content": "Maligayang pagdating sa iyong personal na aklatan! Dito mo makikita ang mga kwento at unibersong idinagdag mo para subaybayan ang iyong pagbabasa. Ipinapakita ng seksyong Magpatuloy sa pagbabasa ang nilalamang pinakahuli mong binuksan para madali mong maituloy kung saan ka huminto."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Ang buo mong Aklatan",
+      "content": "Ipinapakita ng tab na ito ang lahat ng nasa iyong aklatan. Pinaliliit ito ng mga katabing tab sa mga kwento, mga binili, mga audiobook, manga at komiks, o mga uniberso. Magdagdag ng kwento o uniberso sa iyong aklatan para makatanggap ng mga update at hindi mawala ang kinaroroonan mo sa pagbabasa."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Ang iyong mga Kwento",
+      "content": "Nakaayos dito ang lahat ng kwentong idinagdag mo sa iyong aklatan. Subaybayan ang iyong pagbabasa, makatanggap ng abiso tungkol sa mga bagong kabanata, at huwag nang mawala sa binabasa mo sa mga paborito mong kwento."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Ang iyong mga Uniberso",
+      "content": "Lumalabas dito ang mga unibersong idinagdag mo sa iyong aklatan. Manatiling updated sa mga bagong kwento sa loob ng mga unibersong ito, tuklasin ang kanilang mga ensiklopedya, at makilahok sa mga feature ng komunidad."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Mga listahan ng pagbasa",
+      "content": "Dito ka lumilikha at namamahala ng iyong mga personal na listahan ng pagbasa. Ayusin ang mga kwento ayon sa tema, serye, o anumang pamantayang may saysay sa iyo. Ibahagi ang iyong mga listahan sa iba o panatilihing pribado."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Personal na mga Tala",
+      "content": "Sa subscription sa platform, makakapagdagdag ka ng mga personal na tala sa anumang kwento, uniberso, o entry sa ensiklopedya. Itala ang iyong mga iniisip, teorya, at pananaw habang nagbabasa at naggagalugad ka sa Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Handa ka na bang buuin ang iyong aklatan?",
+      "content": "Magsimulang magdagdag ng mga kwento at uniberso sa iyong aklatan mula sa Pagtuklas. Subaybayan ang iyong pagbabasa, lumikha ng mga listahan ng pagbasa, at pagyamanin ang iyong karanasan gamit ang mga personal na tala. Naghihintay ang iyong paglalakbay sa panitikan!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Gawain ng Uniberso",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Maligayang pagdating sa Gawain ng iyong Uniberso!",
+      "content": "Binabati kita sa paglikha ng iyong unang uniberso! Ito ang iyong command center para buuin at pamahalaan ang iyong mundong pampanitikan. Tuklasin natin ang lahat ng makapangyarihang tool na magbibigay-buhay sa iyong uniberso."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Pamahalaan ang iyong mga kwento",
+      "content": "Dito mo pinamamahalaan ang lahat ng kwento sa loob ng iyong uniberso. Lumikha ng mga bagong kwento, i-edit ang mga dati na, at ayusin ang iyong salaysay sa maraming magkakaugnay na kwento. Makikinabang ang bawat kwento sa pinagsasaluhang ensiklopedya ng uniberso at sa mga feature ng komunidad."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Buuin ang iyong ensiklopedya",
+      "content": "Lumikha at pamahalaan ang ensiklopedya ng iyong uniberso, ang imbakan ng kaalamang nagbibigay-buhay sa iyong mundo. Magdagdag ng mga tauhan, lokasyon, lore, at iba pang detalyeng matutuklasan ng mga mambabasa. Ginagawang mas nakakaengganyo ng mayamang ensiklopedya ang iyong uniberso at tinutulungan nitong maunawaan ng mga mambabasa ang konteksto ng iyong mga kwento."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Ang pahina ng iyong uniberso",
+      "content": "Ito ang pampublikong pahina ng iyong uniberso kung saan makikilala ng mga bisita ang iyong mundo, mababasa ang iyong mga kwento, matutuklasan ang ensiklopedya, at makakasalamuha ang iyong komunidad. I-customize ang pahinang ito para itampok ang iyong uniberso at makaakit ng mga bagong mambabasa."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Pamahalaan ang mga pagsasalin",
+      "content": "I-coordinate ang pagsasalin ng nilalaman ng iyong uniberso sa ibang mga wika. Pamahalaan ang mga tagasalin, subaybayan ang pag-usad, at tiyaking makakarating ang iyong mga kwento sa mga mambabasa sa buong mundo. Tinutulungan ka ng mga pagsasalin na makaugnay sa mga mambabasa saanman."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Pamamahala ng mga Fan",
+      "content": "Pamahalaan ang mga interaksyon at likha ng mga fan na hango sa iyong uniberso. Subaybayan ang fan fiction, sining, at iba pang nilalaman ng komunidad. Makipag-ugnayan sa iyong mga fan at bumuo ng masiglang komunidad sa paligid ng iyong mundo."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Subaybayan ang iyong tagumpay",
+      "content": "Bantayan ang performance ng iyong uniberso gamit ang detalyadong analytics. Tingnan ang pakikilahok ng mga mambabasa, mga sikat na kwento, mga view ng ensiklopedya, at iba pang sukatang tutulong sa iyong maunawaan kung ano ang tumatatak sa iyong mga mambabasa."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Panloob na forum sa pagpaplano",
+      "content": "Ang panloob na forum ng iyong uniberso para sa pagpaplano at koordinasyon kasama ang mga kasamahan at tagasalin. Pag-usapan ang mga story arc at detalye ng pagbuo ng mundo, at i-coordinate ang inyong malikhaing pagsisikap. Tinutulungan ng pribadong espasyong ito ang iyong koponan na magtulungan nang mahusay."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Pamahalaan ang mga Kasamahan sa Pagtutulungan",
+      "content": "Mag-imbita ng mga manunulat, artist, at iba pang creator para makipagtulungan sa iyong uniberso. Magtalaga ng mga tungkulin at pahintulot, pamahalaan ang mga antas ng access, at bumuo ng koponang tutulong na sabay-sabay ninyong paunlarin ang iyong mundo."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Mga setting ng kita",
+      "content": "I-configure kung paano mo pagkakakitaan ang iyong uniberso at ang nilalaman nito. Mag-set up ng premium access, pamahalaan ang mga subscription, at magtakda ng hatian ng kita sa mga kasamahan. Gawing tuloy-tuloy na pinagkakakitaan ang iyong malikhaing gawa."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Sentro ng Resolusyon",
+      "content": "Harapin ang mga alitan, paglabag sa nilalaman, at iba pang isyung maaaring lumitaw sa iyong uniberso. Tinutulungan ng sentralisadong sistemang ito na mapanatiling positibo ang komunidad at malutas nang mahusay ang mga hindi pagkakasundo."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Mga setting ng uniberso",
+      "content": "I-configure ang mga pangunahing setting ng iyong uniberso kabilang ang privacy, mga kontrol sa access, mga kategorya, at iba pang batayang opsyon. Tinutukoy ng mga setting na ito kung paano gumagana ang iyong uniberso at kung sino ang maaaring makipag-ugnayan dito."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Pagsasaayos ng forum",
+      "content": "Pinuhin ang mga setting ng forum ng iyong uniberso. Lumikha ng mga kategorya, magtakda ng mga patakaran sa moderasyon, i-configure ang mga pahintulot, at i-customize ang mga espasyo ng talakayan para pinakamahusay na matugunan ang pangangailangan ng iyong komunidad."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Handa ka na bang buuin ang iyong uniberso?",
+      "content": "Nasa iyo na ang lahat ng tool na kailangan mo para lumikha ng mayaman at nakakaengganyong uniberso. Magsimula sa pagdaragdag ng ilang kwento, pagpapalawak ng iyong ensiklopedya, at pag-imbita ng mga kasamahan. Naghihintay na malikha ang iyong mundong pampanitikan!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Dashboard ng kwento",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Maligayang pagdating sa Dashboard ng iyong kwento!",
+      "content": "Ito ang command center ng iyong kwento kung saan mo pinamamahalaan ang lahat ng aspeto ng iyong salaysay. Dito ka makakapagsulat ng mga kabanata, makakapag-ayos ng istruktura ng kwento, makikipagtulungan sa iba, at makakasubaybay sa iyong pag-usad. Tuklasin natin ang mga pangunahing feature."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Pagdaragdag ng mga bagong kabanata",
+      "content": "Dito ka nagdaragdag ng mga bagong kabanata sa iyong kwento. I-click ang button na \"Bagong kabanata\" para lumikha ng bagong kabanata. Awtomatikong aayusin ng iyong kwento ang mga kabanata sa tamang pagkakasunod-sunod. Maaari ka ring magdagdag ng kabanata mula sa ibaba ng listahan ng mga kabanata."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Subaybayan ang iyong pag-usad",
+      "content": "Bantayan ang iyong pag-usad sa pagsusulat at ang pakikilahok ng mga mambabasa gamit ang detalyadong estadistika. Tingnan kung ilan ang iyong mambabasa, subaybayan ang mga view ng kabanata, at suriin ang performance ng iyong kwento sa paglipas ng panahon."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Pamahalaan ang mga Kasamahan sa Pagtutulungan",
+      "content": "Mag-imbita ng ibang manunulat para makipagtulungan sa iyong kwento. Magtalaga ng iba't ibang tungkulin at pahintulot, i-coordinate ang pagsusulat, at pamahalaan ang iyong malikhaing koponan. Tamang-tama para sa mga proyektong sama-samang isinusulat."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Pamamahala ng pagsasalin",
+      "content": "I-coordinate ang pagsasalin ng iyong kwento sa ibang mga wika. Pamahalaan ang mga tagasalin, subaybayan ang pag-usad ng pagsasalin, at gawing abot-kamay ng mga mambabasa sa buong mundo ang iyong kwento."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Mga setting ng kita",
+      "content": "I-configure kung paano mo pagkakakitaan ang iyong kwento. Mag-set up ng mga premium na kabanata, pamahalaan ang mga opsyon sa subscription, at magtakda ng hatian ng kita sa mga kasamahan. Gawing kita ang iyong pagsusulat."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Mga setting ng kwento",
+      "content": "I-configure ang mga pangunahing setting ng iyong kwento kabilang ang privacy, mga opsyon sa paglalathala, mga kategorya, at iba pang batayang kagustuhan. Tinutukoy ng mga setting na ito kung paano lumalabas at gumagana ang iyong kwento."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Mga tala ng pangkalahatang-ideya",
+      "content": "Itala ang kabuuang istruktura ng iyong kwento, mga plot point, character arc, at mahahalagang tala. Ito ang personal mong espasyo sa pagpaplano para ayusin ang iyong salaysay."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Mga personal na hamon sa pagsusulat",
+      "content": "Magtakda ng mga personal na layunin sa pagsusulat at subaybayan ang iyong pag-usad gamit ang mga hamon. Lumikha ng arawan o lingguhang target na bilang ng salita, magtakda ng mga deadline para sa mga kabanata, at ganyakin ang sarili na panatilihing tuloy-tuloy ang nakagawiang pagsusulat. Ito ang pribado mong tool para hindi ka malihis sa iyong iskedyul ng pagsusulat."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Pamamahala ng mga linya ng kwento",
+      "content": "Ayusin ang iyong kwento sa iba't ibang plotline at hibla. Subaybayan ang mga character arc, subplot, at elemento ng salaysay. Tamang-tama para sa masalimuot na kwentong may maraming magkakaugnay na elemento."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Pamamahala ng mga eksena",
+      "content": "Ayusin at pamahalaan ang bawat eksena sa loob ng iyong mga kabanata. Subaybayan ang pag-usad ng eksena, baguhin ang pagkakasunod-sunod ng mga eksena, at panatilihin ang daloy ng istruktura ng iyong salaysay."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Mga legal na dokumento",
+      "content": "I-access ang mahahalagang legal na dokumentong kaugnay ng iyong kwento, kabilang ang impormasyon sa copyright, mga kasunduan sa paglalathala, at pamamahala ng mga karapatan. Panatilihing maayos ang iyong mga usaping legal."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Pampublikong bersyon",
+      "content": "Tingnan ang iyong kwento gaya ng nakikita ng mga mambabasa sa pampublikong site. Suriin ang format, subukan ang mga link, at tiyaking perpekto ang lahat bago ibahagi sa iyong mga mambabasa."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Ibahagi ang iyong kwento",
+      "content": "Ibahagi ang iyong kwento sa social media gamit ang nakahandang teksto at mga link para sa mga sikat na platform. Kumuha ng nilalamang handa nang gamitin na nagtatampok sa iyong akda at tumutulong sa iyong maabot ang mga bagong mambabasa sa iba't ibang social network."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Sentro ng Resolusyon",
+      "content": "Harapin ang anumang legal na alitan, paglabag sa Mga Tuntunin ng Serbisyo, o iba pang isyung kaugnay ng iyong kwento. Inililista ng sentrong ito ang lahat ng naiulat na problema at nagbibigay ng mga tool para lutasin ang mga hindi pagkakasundo at mapanatiling positibo ang komunidad."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Pamamahala ng status ng kwento",
+      "content": "Kontrolin ang status ng paglalathala ng iyong kwento gamit ang mahahalagang opsyong ito. Ang \"Aktibo\" ay nangangahulugang regular na ina-update ang iyong kwento. Ang \"On hiatus\" ay nagpapahiwatig ng pansamantalang pahinga. Ang \"Itinigil\" ay nangangahulugang tumigil ka na sa pagsusulat nito. Ang \"Tapos na\" ay nagmamarkang kumpleto na ang iyong kwento. Piliin ang status na pinakaangkop sa kasalukuyan mong sitwasyon sa pagsusulat. Paalala: awtomatikong nagiging \"On hiatus\" ang mga kwento pagkalipas ng 6 na buwang walang pag-usad, at \"Itinigil\" pagkalipas ng 6 na buwan pang walang aktibidad."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Handa ka na bang magsimulang magsulat?",
+      "content": "Alam mo na ngayon kung paano pamahalaan ang bawat aspeto ng iyong kwento. Magsimula sa pagdaragdag ng iyong unang kabanata, pagkatapos ay tuklasin ang iba't ibang tool. Naghihintay na malikha ang iyong kwento!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Tour ng editor ng kwento",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Maligayang pagdating sa Editor ng kwento!",
+      "content": "Ito ang iyong workspace sa pagsusulat kung saan mo huhubugin ang iyong mga kwento. May makapangyarihang mga tool ang editor para tulungan kang magsulat, mag-ayos, at maglathala ng iyong akda. Tuklasin natin ang mga pangunahing feature."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Kontrol sa laki ng teksto",
+      "content": "Ayusin ang laki ng teksto para komportable ang pagbabasa habang nagsusulat ka. Magpalit sa pagitan ng karaniwan at malaking teksto para mabawasan ang pagod ng mata sa mahahabang sesyon ng pagsusulat."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Toggle ng dark mode",
+      "content": "Magpalit sa pagitan ng maliwanag at madilim na tema. Mas magaan sa mata ang dark mode kapag nagsusulat sa gabi at nakakatulong itong mapanatili ang pokus."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Mga tool sa accessibility",
+      "content": "I-access ang mga font na angkop sa may dyslexia, pag-highlight ng talata, at iba pang feature ng accessibility para sa iyong ginhawa."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Ipakita o itago ang panel sa gilid",
+      "content": "Ipakita o itago ang panel sa gilid. Naglalaman ito ng mga kapaki-pakinabang na tool gaya ng iyong scratchpad, mga tala ng kwento, ensiklopedya, mga komento, at AI Assistant."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Fullscreen mode",
+      "content": "Pumasok sa fullscreen mode para palakihin ang espasyo mo sa pagsusulat at alisin ang mga abala. Tamang-tama para sa nakatutok na pagsusulat."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "I-save ang iyong gawa",
+      "content": "Awtomatikong sine-save ang iyong draft. Nase-save ang gawa mo habang nagta-type ka, pero maaari ka ring mag-save nang manu-mano anumang oras."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Mga opsyon sa paglalathala",
+      "content": "Kapag tapos ka na sa iyong draft, oras na para lumikha ng rebisyon. Maaari kang lumikha ng rebisyon para sa mga beta reader o para sa publiko. Kapag nagpasya kang maglathala, ikaw ang may kontrol kung kailan lalabas ang kabanata."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Pamagat ng kabanata",
+      "content": "I-click ang pamagat para i-edit ito."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Sumulat ng mga personal na tala tungkol sa iyong kabanata o mensahe lang para sa mga mambabasa. Ipapakita ito sa iyong mga mambabasa bago ang kabanata (gaya rito) at mabisa itong paraan para mag-anunsyo o magbahagi ng saloobin tungkol sa kwento sa ngayon."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Pangunahing teksto ng kwento",
+      "content": "Ito ang pangunahin mong lugar sa pagsusulat kung saan nabubuhay ang iyong kwento. Isulat dito ang nilalaman ng iyong kabanata gamit ang kumpletong kakayahan sa rich text editing."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Toolbox sa sidebar",
+      "content": "Naglalaman ang panel sa gilid ng mga kapaki-pakinabang na tool at impormasyon. Gamitin ang menu sa itaas para magpalit sa iba't ibang view gaya ng iyong scratchpad, mga sanggunian sa ensiklopedya, mga komento, at AI Assistant."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Personal na Scratchpad",
+      "content": "Laging handa ang iyong personal na scratchpad para pagtalaan ng mga ideya, tala, o inspirasyon. Itabi ang mga naiisip na hindi bagay sa pangunahing kwento pero baka magamit sa susunod."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Mga tala ng kwento",
+      "content": "I-access ang pangkalahatang mga tala at materyales sa pagpaplano ng iyong kwento. Itala ang mga balangkas ng plot, character arc, detalye ng pagbuo ng mundo, at iba pang impormasyong pang-organisa."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Access sa ensiklopedya",
+      "content": "Mabilis na access sa ensiklopedya ng iyong uniberso. Sumangguni sa mga detalye ng tauhan, lokasyon, lore, at iba pang elemento ng pagbuo ng mundo habang nagsusulat ka. Sa iba pang button dito, makakapaghanap ka at makakapagdagdag ng mga bagong entry."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Mga komento sa kabanata",
+      "content": "Tingnan at sagutin ang mga komento sa kabanatang ito mula sa mga beta reader, kasamahan, at iba pang mambabasa. Makipag-ugnayan sa iyong mga mambabasa at makakuha ng mahalagang puna."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Bago ka maglathala, may mahahalagang bagay na dapat suriin. Nakatago rito ang listahan ng mga dapat gawin bago maglathala at iba pang maliliit ngunit kawili-wiling bagay na dapat tingnan."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "Magtanong sa assistant tungkol sa iyong kwento, uniberso, at ensiklopedya. Kaya nitong suriin ang pagkakapare-pareho, mag-proofread ng isang sipi, o maghanap ng impormasyon. Sumasagot ito sa mga tanong tungkol sa iyong isinusulat at hindi ito nagsusulat para sa iyo. Tumatakbo ito sa sarili mong API key, na idinaragdag mo sa iyong mga setting."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Handa ka na bang magsimulang magsulat?",
+      "content": "Alam mo na ngayon kung paano gamitin ang lahat ng makapangyarihang feature ng editor ng kwento. Simulang isulat ang iyong kabanata at tuklasin ang mga tool kapag kailangan mo na. Kung kailangan mo ng tulong, tingnan ang aming tulong, ang The Way of the Author, o makipag-ugnayan sa amin. Ngayon, magsulat na tayo ng mga kwento!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Tour ng tagasalin ng kwento",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Maligayang pagdating sa Tagasalin ng kwento!",
+      "content": "Tumingin-tingin muna tayo sandali. Gamitin ang workspace na ito para isalin ang orihinal na teksto habang abot-kamay ang mga sanggunian."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Orihinal na teksto sa kaliwa",
+      "content": "Ipinapakita sa kaliwa ang orihinal na kabanata at mga tala ng may-akda. Panatilihin itong bukas bilang sanggunian habang nagtatrabaho ka."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Magsalin sa kanan",
+      "content": "Isulat ang iyong salin sa kanan. Lahat ng ise-save mo rito ang magiging bersyong makikita ng mga mambabasa ng wikang ito."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Access sa ensiklopedya ng uniberso",
+      "content": "Kailangan mo ng lore o terminolohiya? Sa sidebar, mabubuksan mo ang ensiklopedya ng uniberso para mas maunawaan ang uniberso."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Maligayang pagdating sa Ensiklopedya",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Ang ensiklopedya ng iyong uniberso",
+      "content": "Maligayang pagdating sa iyong ensiklopedya! Dito mo inaayos ang lahat ng kaalaman tungkol sa iyong uniberso at ibinabahagi ito sa iyong mga fan."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Ayusin ang iyong nilalaman",
+      "content": "Magpalit sa pagitan ng mga view na \"Mga Kategorya\" at \"Mga Grupo\". Ipinapakita ng Mga Kategorya ang mga entry na nakaayos ayon sa uri (Mga Tauhan, Mga Lokasyon, atbp.), samantalang hinahayaan ka ng Mga Grupo na tingnan ang mga entry ayon sa pagpapangkat ng custom field na itinakda ng mga parent entry, at iba pa."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Ang iyong mga kategorya",
+      "content": "Narito ang mga kategorya ng iyong ensiklopedya. May sariling template ang bawat kategorya para sa pag-aayos ng impormasyon. I-click ang alinmang kategorya para buksan ito at makita ang mga entry sa loob."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Hanapin ang kailangan mo",
+      "content": "Gamitin ang paghahanap para mabilis na makita ang anumang entry sa iyong ensiklopedya. Maghanap ayon sa pangalan, nilalaman, o mga tag para agad matagpuan ang impormasyon."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Lumikha ng mga bagong entry",
+      "content": "Magdagdag ng mga bagong entry sa iyong ensiklopedya. May sariling form template ang bawat kategorya bilang panimula, pero maaari mo itong baguhin ayon sa gusto mo."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "I-customize ang iyong ensiklopedya",
+      "content": "Tiyaking tingnan ang mga setting ng iyong ensiklopedya para piliin kung aling mga kategorya ang gusto mong gamitin, magtakda ng mensahe ng pagbati, at ayusin ang iba pang detalye ng ensiklopedya."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Alam mo na ang mga pangunahing kaalaman! Bumalik sa iyong gawain para ituloy ang pagbuo ng iyong uniberso, o magsimulang magdagdag ng mga entry sa iyong ensiklopedya. Maligayang pagsusulat!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Gabay para sa Beta reader",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Maligayang pagdating sa beta reading!",
+      "content": "Bilang beta reader, mahalaga ang papel mo sa pagtulong sa mga may-akda na pagbutihin ang kanilang mga kwento. Nakakatulong ang iyong puna na makita ang mga problema, gawing mas malinaw ang akda, at gawing mas kasiya-siya ang mga kwento para sa mga mambabasa. Ipapakita ng gabay na ito kung paano gamitin ang interface ng beta reading at magbigay ng mabisang puna."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Ang pangunahin mong tool sa komunikasyon",
+      "content": "Dito ka nag-iiwan ng mga komento para sa may-akda! Mag-click dito para buksan ang panel ng mga komento. Maaari kang magbigay ng pangkalahatang puna sa kabanata, mag-highlight ng mga partikular na sipi, magtanong, o magmungkahi ng pagpapabuti. Ang iyong mga komento ang pangunahing paraan mo ng pakikipag-usap sa may-akda."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Interface ng pagkokomento",
+      "content": "Sa panel ng mga komento, makikita mo ang mga puna ng ibang beta reader at makakapagdagdag ka ng sa iyo. Gamitin ang kahon ng komento sa ibaba para ibahagi ang iyong saloobin. Maging tiyak sa kung ano ang mahusay at kung ano ang maaari pang pagbutihin; pinakanakakatulong ang punang nakabubuti!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Mga tool sa pagbabasa",
+      "content": "Gamitin ang mga tool na ito para i-customize ang iyong karanasan sa pagbabasa. Maaari mong ayusin ang laki ng teksto, i-toggle ang dark mode, at i-on ang mga feature ng accessibility gaya ng font na Open Dyslexic o pag-highlight ng talata para mas komportable ang pagbabasa."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Handa ka na bang magbigay ng puna?",
+      "content": "Alam mo na ngayon kung paano gamitin ang interface ng beta reading at ang feature ng mga komento para makipag-usap sa mga may-akda. Magsimula sa pagbabasa ng kabanata, pagkatapos ay buksan ang sidebar at ibahagi ang pinag-isipan mong puna. Tinutulungan ng iyong ambag ang mga may-akda na lumikha ng mas mahuhusay na kwento!"
     }
   }
 }

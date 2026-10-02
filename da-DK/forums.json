@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Vælg en kategori...",
   "forums.posts.loadError": "Fejl ved indlæsning af indlæg",
   "forums.category.orgRoles": "Begræns til organisationsroller (ingen = alle medlemmer)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Redigér svar",
+  "forums.post.delete": "Slet svar",
+  "forums.post.deleteConfirm": "Vil du slette dette svar? Det vises ikke længere i denne diskussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Dette svar er blevet slettet.",
+  "forums.post.hidden": "Dette svar er skjult af moderationen."
 }

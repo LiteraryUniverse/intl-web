@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "Пропустити тур",
+    "close": "Закрити тур",
+    "end": "Завершити тур",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
+    "keyboardHint": "Для переходу використовуйте клавіші зі стрілками, для закриття — ESC",
     "start": "Розпочати тур"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Ласкаво просимо до панелі інструментів",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Ласкаво просимо до Literary Universe",
+      "content": "Нумо швидко оглянемо панель інструментів, щоб вам було легше почати свій письменницький шлях."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Головне меню",
+      "content": "Це головне меню навігації. Пройдімося по кожному пункту."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Ваша особиста головна сторінка: новини про нещодавню активність і доступ до майстерні, книгозбірні та соціальних функцій."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Знайомтеся з історіями та всесвітами інших користувачів. Читайте нотатки авторів про те, що залишилося за лаштунками, і докладні дописи в їхніх блогах. Знайдіть свою наступну улюблену книжку!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Розділена радість удесятеро більша! Знаходьте групи однодумців, приєднуйтеся до нашого Discord і дізнайтеся, хто ще є на Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Чернетка — ваш особистий записник, який завжди під рукою для ідей, нотаток і думок."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Будьте в курсі коментарів, нових підписників та інших подій у спільноті."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Спілкуйтеся з іншими письменниками та бета-читачами, працюйте над проєктами разом."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Керуйте особистими даними, уподобаннями та налаштуваннями облікового запису."
       },
       "workshop": {
         "title": "Workshop",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Ваш творчий простір, де ви пишете, редагуєте й ведете свої історії та всесвіти."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Ваша книгозбірня",
+        "content": "Усі збережені історії, списки для читання та завантажені матеріали в одному місці."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Меню швидкого доступу",
+      "content": "Ця бічна панель дає швидкий доступ до важливих функцій та інструментів."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Для письменника вся магія відбувається в розділі «Майстерня»! Почніть нову історію, продовжте вже розпочату або розбудовуйте свій всесвіт. Читачі чекають!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Для читача розділ «Відкриття» — двері до дивовижних історій! Відкривайте нові жанри, підписуйтеся на улюблених авторів і складайте списки для читання. Приємного читання!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
     "takeTour": "Уперше тут? Пройдіть короткий тур вашою панеллю!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Ласкаво просимо до майстерні",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Ласкаво просимо до майстерні Literary Universe",
+      "content": "Майстерня — серце вашого творчого шляху на Literary Universe. Тут ви створюєте історії та всесвіти, керуєте ними й працюєте над ними разом з іншими."
     },
     "theWay": {
-      "title": "The Way of the Author",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "title": "Шлях автора",
+      "content": "Стежте за своїм письменницьким зростанням за допомогою «Шляху автора». Ця ігрова система допомагає підвищувати рівень: досягайте письменницьких цілей і беріть участь у житті спільноти. Натисніть тут, щоб дізнатися, як це працює."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Почніть щось нове",
+      "content": "Кнопка «Почніть створювати» запитає, що ви хочете зробити: всесвіт для історій зі спільним світом, самостійну історію, фанфік або комікс. Вона проведе вас через перші рішення, і в підсумку ви матимете чернетку. Нічого не публікується, доки ви самі цього не опублікуєте."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Усі ваші проєкти",
+      "content": "Тут перелічено всі всесвіти, історії, комікси й аудіокниги, якими ви володієте або над якими працюєте. Кнопки праворуч перемикають вигляд між обкладинками та компактним списком. Запрошення до співавторства, перекладу або бета-читання з'являються над списком як запити, які можна прийняти чи відхилити."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Знайдіть потрібний проєкт",
+      "content": "Фільтр «Доступ» залишає у списку ваші власні проєкти, проєкти, де ви в команді, переклади або історії, які ви перевіряєте як бета-читач. «Формат» і «Статус» звужують список ще більше, а «Сортування» ставить першим проєкт, оновлений останнім."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Продовжуйте свій шлях",
+      "content": "Не забувайте зазирати сюди, щоб стежити за своїм поступом на «Шляху автора». Пишіть, працюйте разом з іншими та беріть участь у житті спільноти, щоб підвищувати рівень! А тепер берімося до письма!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Ваша особиста книгозбірня",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Продовжити читання",
+      "content": "Ласкаво просимо до вашої особистої книгозбірні! Тут зібрано історії та всесвіти, які ви додали, щоб стежити за своїм читанням. У розділі «Продовжити читання» показано те, що ви відкривали останнім, щоб легко повернутися до місця, де ви зупинилися."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Уся ваша книгозбірня",
+      "content": "На цій вкладці показано все, що є у вашій книгозбірні. Вкладки поруч залишають лише історії, покупки, аудіокниги, манґу та комікси або всесвіти. Додайте історію чи всесвіт до книгозбірні, щоб отримувати оновлення й не губити місце, де ви зупинилися."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Ваші історії",
+      "content": "Тут зібрано всі історії, додані до вашої книгозбірні. Стежте за тим, скільки ви прочитали, отримуйте сповіщення про нові розділи й не губіть місце в улюблених творах."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Ваші всесвіти",
+      "content": "Тут з'являються всесвіти, додані до вашої книгозбірні. Дізнавайтеся про нові історії в цих всесвітах, вивчайте їхні енциклопедії та користуйтеся функціями спільноти."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Списки для читання",
+      "content": "Створюйте тут особисті списки для читання й керуйте ними. Групуйте історії за темами, серіями або будь-якою ознакою, яка вам зручна. Діліться списками з іншими або залишайте їх приватними."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Особисті нотатки",
+      "content": "З підпискою на платформу можна додавати особисті нотатки до будь-якої історії, всесвіту чи запису енциклопедії. Занотовуйте свої думки, теорії та спостереження, поки читаєте й досліджуєте Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Готові зібрати свою книгозбірню?",
+      "content": "Додавайте історії та всесвіти до книгозбірні з розділу «Відкриття». Стежте за читанням, складайте списки для читання й доповнюйте враження особистими нотатками. Літературна подорож чекає на вас!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Майстерня всесвіту",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Ласкаво просимо до майстерні вашого всесвіту!",
+      "content": "Вітаємо зі створенням першого всесвіту! Це ваш центр керування, де ви будуєте свій літературний світ і керуєте ним. Нумо оглянемо всі інструменти, які допоможуть всесвіту ожити."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Керування історіями",
+      "content": "Тут ви керуєте всіма історіями свого всесвіту. Створюйте нові, редагуйте наявні й вибудовуйте оповідь із кількох пов'язаних між собою історій. Кожній історії доступні спільна енциклопедія всесвіту та функції спільноти."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Створіть енциклопедію",
+      "content": "Створюйте й ведіть енциклопедію всесвіту — базу знань, яка робить ваш світ живим. Додавайте персонажів, місця, перекази та інші деталі, які зможуть досліджувати читачі. Докладна енциклопедія глибше занурює у всесвіт і допомагає читачам зрозуміти контекст ваших історій."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Сторінка вашого всесвіту",
+      "content": "Це публічна сторінка всесвіту, де відвідувачі можуть дізнатися про ваш світ, читати історії, досліджувати енциклопедію та спілкуватися зі спільнотою. Налаштуйте її так, щоб показати всесвіт із найкращого боку й привабити нових читачів."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Керування перекладами",
+      "content": "Координуйте переклад матеріалів всесвіту іншими мовами. Керуйте перекладачами, стежте за перебігом роботи й зробіть так, щоб ваші історії дійшли до читачів у всьому світі."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Менеджер фанатів",
+      "content": "Керуйте взаємодією з фанатами та їхніми роботами, натхненними вашим всесвітом. Стежте за фанфіками, артами та іншою творчістю спільноти. Спілкуйтеся з фанатами й плекайте навколо свого світу живу спільноту."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Стежте за успіхами",
+      "content": "Стежте за показниками всесвіту за допомогою докладної аналітики. Залученість читачів, популярні історії, перегляди енциклопедії та інші метрики допоможуть зрозуміти, що знаходить відгук у вашої аудиторії."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Внутрішній форум для планування",
+      "content": "Внутрішній форум всесвіту для планування та координації зі співавторами й перекладачами. Обговорюйте сюжетні арки та деталі світу, узгоджуйте творчу роботу. Цей закритий простір допомагає команді працювати злагоджено."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Керування співавторами",
+      "content": "Запрошуйте письменників, художників та інших творців працювати над вашим всесвітом. Призначайте ролі й права, керуйте рівнями доступу та зберіть команду, щоб розвивати світ разом."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Налаштування доходу",
+      "content": "Налаштуйте, як ви заробляєте на всесвіті та його матеріалах. Увімкніть платний доступ, керуйте підписками й розподіляйте дохід між співавторами. Перетворіть творчість на стабільне джерело доходу."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Центр вирішення спорів",
+      "content": "Розглядайте спори, порушення правил та інші проблеми, які можуть виникнути у вашому всесвіті. Ця єдина система допомагає підтримувати доброзичливу спільноту та швидко залагоджувати конфлікти."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Налаштування всесвіту",
+      "content": "Задайте основні налаштування всесвіту: приватність, керування доступом, категорії та інші базові параметри. Від них залежить, як працює ваш всесвіт і хто може з ним взаємодіяти."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Налаштування форуму",
+      "content": "Тонко налаштуйте форум всесвіту. Створюйте категорії, задавайте правила модерації та права, пристосовуйте простори для обговорень до потреб вашої спільноти."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Готові будувати свій всесвіт?",
+      "content": "Тепер у вас є всі інструменти, щоб створити багатий і захопливий всесвіт. Почніть із кількох історій, наповніть енциклопедію та запросіть співавторів. Ваш літературний світ чекає на свого творця!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Панель керування історією",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Ласкаво просимо до панелі керування історією!",
+      "content": "Це центр керування вашою історією, де ви ведете всі сторони оповіді. Тут можна писати розділи, вибудовувати структуру історії, працювати разом з іншими та стежити за поступом. Нумо оглянемо основні можливості."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Додавання нових розділів",
+      "content": "Тут ви додаєте до історії нові розділи. Натисніть кнопку «Новий розділ», щоб створити розділ. Історія автоматично розставить розділи в правильному порядку. Додати розділ можна й унизу списку розділів."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Стежте за поступом",
+      "content": "Стежте за своїм письменницьким поступом і залученістю аудиторії за допомогою докладної статистики. Дізнайтеся, скільки у вас читачів, відстежуйте перегляди розділів і дивіться, як показники історії змінюються з часом."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Керування співавторами",
+      "content": "Запрошуйте інших письменників працювати над вашою історією. Призначайте різні ролі й права, координуйте роботу та керуйте творчою командою. Ідеально для спільних письменницьких проєктів."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Керування перекладами",
+      "content": "Координуйте переклад історії іншими мовами. Керуйте перекладачами, стежте за перебігом перекладу й зробіть історію доступною читачам у всьому світі."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Налаштування доходу",
+      "content": "Налаштуйте, як ви заробляєте на історії. Додайте платні розділи, керуйте варіантами підписки й розподіляйте дохід між співавторами. Перетворіть письменство на дохід."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Налаштування історії",
+      "content": "Задайте основні налаштування історії: приватність, параметри публікації, категорії та інші базові вподобання. Від них залежить, як ваша історія виглядає і працює."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Загальні нотатки",
+      "content": "Тримайте під рукою загальну структуру історії, сюжетні точки, арки персонажів і важливі нотатки. Це ваш особистий простір для планування оповіді."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Особисті письменницькі виклики",
+      "content": "Ставте собі письменницькі цілі та стежте за поступом за допомогою викликів. Задавайте денну або тижневу норму слів, призначайте терміни для розділів і мотивуйте себе писати регулярно. Це ваш особистий інструмент, який допомагає не вибиватися з графіка."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Керування сюжетними лініями",
+      "content": "Розділіть історію на сюжетні лінії та гілки. Стежте за арками персонажів, побічними сюжетами й елементами оповіді. Ідеально для складних історій із багатьма переплетеними елементами."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Менеджер сцен",
+      "content": "Упорядковуйте окремі сцени всередині розділів і керуйте ними. Стежте за готовністю сцен, змінюйте їхній порядок і зберігайте цілісність оповіді."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Юридичні документи",
+      "content": "Тут містяться важливі юридичні документи, пов'язані з вашою історією: відомості про авторські права, видавничі угоди та керування правами. Тримайте юридичні справи в порядку."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Публічна версія",
+      "content": "Подивіться на історію так, як її бачать читачі на публічному сайті. Перевірте форматування й посилання та переконайтеся, що все виглядає як слід, перш ніж ділитися з аудиторією."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Поділіться історією",
+      "content": "Діліться історією в соціальних мережах: для популярних платформ уже підготовлено тексти й посилання. Готові матеріали покажуть вашу роботу й допоможуть знайти нових читачів у різних соцмережах."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Центр вирішення спорів",
+      "content": "Розглядайте юридичні спори, порушення Умов користування та інші проблеми, пов'язані з вашою історією. Тут зібрано всі скарги та є інструменти, щоб залагоджувати конфлікти й підтримувати доброзичливу атмосферу в спільноті."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Керування статусом історії",
+      "content": "Ці варіанти визначають статус публікації вашої історії. «В процесі» означає, що історія регулярно оновлюється. «Призупинено» вказує на тимчасову перерву. «Перервано» означає, що ви припинили її писати. «Завершено» позначає, що історію закінчено. Виберіть статус, який найкраще відображає поточний стан справ. Зверніть увагу: історія автоматично отримує статус «Призупинено» після 6 місяців без оновлень і «Перервано» ще через 6 місяців бездіяльності."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Готові почати писати?",
+      "content": "Тепер ви знаєте, як керувати всіма сторонами своєї історії. Почніть із першого розділу, а потім ознайомтеся з доступними інструментами. Ваша історія чекає, коли її напишуть!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Тур редактором історій",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Ласкаво просимо до редактора історій!",
+      "content": "Це ваше робоче місце, де народжуються історії. У редакторі є потужні інструменти, щоб писати, впорядковувати й публікувати свої тексти. Нумо оглянемо основні можливості."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Розмір тексту",
+      "content": "Налаштуйте розмір тексту, щоб читати написане було зручно. Перемикайтеся між звичайним і великим шрифтом, щоб очі менше втомлювалися під час тривалої роботи."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Перемикач темного режиму",
+      "content": "Перемикайтеся між світлою і темною темою. Темний режим менше навантажує очі вночі й допомагає не відволікатися."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Спеціальні можливості",
+      "content": "Шрифти для людей із дислексією, підсвічування абзаців та інші спеціальні можливості для вашої зручності."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Показати або сховати бічну панель",
+      "content": "Показує або ховає бічну панель. У ній зібрано корисні інструменти: чернетку, нотатки до історії, енциклопедію, коментарі та ШІ-асистента."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Повноекранний режим",
+      "content": "Перейдіть у повноекранний режим, щоб розширити місце для письма й прибрати все зайве. Ідеально, коли треба зосередитися."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Збережіть свою роботу",
+      "content": "Текст зберігається автоматично, поки ви друкуєте, але зберегти його вручну теж можна будь-коли."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Варіанти публікації",
+      "content": "Коли текст готовий, час створити редакцію. Її можна створити для бета-читачів або для всіх. Вирішивши публікувати, ви самі обираєте, коли розділ стане доступним."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Назва розділу",
+      "content": "Натисніть на назву, щоб змінити її."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Напишіть особисті примітки до розділу або просто звернення до читачів. Їх буде показано читачам перед розділом (як тут), і це зручний спосіб робити оголошення або ділитися думками про історію."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Основний текст історії",
+      "content": "Це основна область для письма, де ваша історія оживає. Пишіть тут текст розділу, використовуючи всі можливості форматування."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Інструменти бічної панелі",
+      "content": "У бічній панелі зібрано корисні інструменти й відомості. Меню вгорі перемикає розділи: чернетку, довідки з енциклопедії, коментарі та ШІ-асистента."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Особиста чернетка",
+      "content": "Особиста чернетка завжди під рукою для ідей, нотаток і натхнення. Занотовуйте думки, яким не місце в основному тексті, але які можуть знадобитися згодом."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Нотатки до історії",
+      "content": "Загальні нотатки та матеріали для планування історії. Зберігайте тут начерки сюжету, арки персонажів, деталі світу та іншу організаційну інформацію."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Доступ до енциклопедії",
+      "content": "Швидкий доступ до енциклопедії вашого всесвіту. Звіряйтеся з відомостями про персонажів, місця, перекази та інші елементи світу, поки пишете. Інші кнопки тут дають змогу шукати записи й додавати нові."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Коментарі до розділу",
+      "content": "Читайте коментарі до цього розділу від бета-читачів, співавторів та інших читачів і відповідайте на них. Спілкуйтеся з аудиторією та отримуйте цінні відгуки."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Перед публікацією варто перевірити кілька важливих речей. Тут містяться список справ перед публікацією та інші корисні дрібниці."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "ШІ-асистент",
+      "content": "Ставте асистентові запитання про свою історію, всесвіт та енциклопедію. Він може перевірити узгодженість, вичитати уривок або щось знайти. Він відповідає на запитання про ваш текст і не пише за вас. Він працює на вашому власному ключі API, який додається в налаштуваннях."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Готові почати писати?",
+      "content": "Тепер ви знаєте, як користуватися всіма можливостями редактора історій. Починайте писати розділ і опановуйте інструменти в міру потреби. Якщо знадобиться допомога, зазирніть у довідку, у «Шлях автора» або напишіть нам. А тепер пишімо історії!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Тур перекладачем історій",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Ласкаво просимо до перекладача історій!",
+      "content": "Нумо швидко роззирнімося. У цьому робочому просторі ви перекладаєте оригінальний текст, а довідкові матеріали завжди під рукою."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Оригінал ліворуч",
+      "content": "Ліворуч показано оригінальний розділ і примітки автора. Тримайте їх відкритими та звіряйтеся з ними під час роботи."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Переклад праворуч",
+      "content": "Пишіть переклад праворуч. Усе, що ви тут збережете, стане версією, яку побачать читачі цією мовою."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Доступ до енциклопедії всесвіту",
+      "content": "Потрібні відомості про світ або термінологія? У бічній панелі є доступ до енциклопедії всесвіту, яка допоможе краще його зрозуміти."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Ласкаво просимо до енциклопедії",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Енциклопедія вашого всесвіту",
+      "content": "Ласкаво просимо до енциклопедії! Тут ви збираєте всі знання про свій всесвіт і ділитеся ними з фанатами."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Упорядкуйте матеріали",
+      "content": "Перемикайтеся між виглядами «Категорії» та «Групи». У категоріях записи розкладено за типами (персонажі, місця тощо), а в групах їх зібрано за групами настроюваних полів, які задаються батьківськими записами."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Ваші категорії",
+      "content": "Це категорії вашої енциклопедії. Кожна має власний шаблон для впорядкування відомостей. Натисніть на категорію, щоб розгорнути її та побачити записи."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Знайдіть потрібне",
+      "content": "Пошук допомагає швидко знайти будь-який запис енциклопедії. Шукайте за назвою, вмістом або тегами й одразу отримуйте потрібні відомості."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Створюйте нові записи",
+      "content": "Додавайте до енциклопедії нові записи. Кожна категорія має власний шаблон форми для початку, але його можна змінити як завгодно."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Налаштуйте енциклопедію",
+      "content": "Обов'язково зазирніть у налаштування енциклопедії: виберіть потрібні категорії, задайте вітальне повідомлення та інші параметри."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Тепер ви знаєте основи! Поверніться до майстерні й далі будуйте всесвіт або почніть додавати записи до енциклопедії. Успіхів у творчості!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Посібник для бета-читача",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Ласкаво просимо до бета-читання!",
+      "content": "Бета-читач відіграє надзвичайно важливу роль: він допомагає авторам робити історії кращими. Ваші відгуки допомагають знаходити недоліки, робити текст зрозумілішим, а історії цікавішими для читачів. Цей посібник покаже, як улаштований інтерфейс бета-читання і як давати корисні відгуки."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Ваш головний інструмент спілкування",
+      "content": "Тут ви залишаєте коментарі для автора! Натисніть сюди, щоб відкрити панель коментарів. Можна залишити загальний відгук про розділ, виділити конкретні уривки, поставити запитання або запропонувати покращення. Коментарі — основний спосіб спілкування з автором."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Інтерфейс коментарів",
+      "content": "На панелі коментарів видно відгуки інших бета-читачів, і можна додати свої. Поділіться думками в полі для коментаря внизу. Пишіть конкретно, що вдалося добре і що можна покращити: найкорисніші конструктивні відгуки!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Інструменти читання",
+      "content": "Ці інструменти допоможуть налаштувати читання під себе. Можна змінити розмір тексту, увімкнути темний режим і спеціальні можливості, наприклад шрифт Open Dyslexic або підсвічування абзаців, щоб читати було зручніше."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Готові залишити відгук?",
+      "content": "Тепер ви знаєте, як улаштований інтерфейс бета-читання і як спілкуватися з авторами через коментарі. Спершу прочитайте розділ, потім відкрийте бічну панель і поділіться вдумливим відгуком. Ваша думка допомагає авторам писати кращі історії!"
     }
   }
 }

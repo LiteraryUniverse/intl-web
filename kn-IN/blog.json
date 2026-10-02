@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ಏಕವರ್ಣ",
   "blog.theme.generate.mode.pastel": "ಪ್ಯಾಸ್ಟೆಲ್",
   "blog.theme.generate.nudged": "ಓದುವಿಕೆಗಾಗಿ ಹೊಂದಿಸಲಾಗಿದೆ: {tokens}.",
-  "blog.theme.generate.unreadable": "ಆ ಚಿತ್ರವನ್ನು ಓದಲಾಗಲಿಲ್ಲ. ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಫೈಲ್ ಆಗಿ ಆಯ್ಕೆಮಾಡಿ."
+  "blog.theme.generate.unreadable": "ಆ ಚಿತ್ರವನ್ನು ಓದಲಾಗಲಿಲ್ಲ. ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಫೈಲ್ ಆಗಿ ಆಯ್ಕೆಮಾಡಿ.",
+  "blogs.readFullPost": "Read the full post"
 }

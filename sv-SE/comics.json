@@ -135,7 +135,7 @@
   "comics.search.noResults": "Inga manga eller serier hittades.",
   "comics.search.status": "Publiceringsstatus",
   "comics.settings.universe": "Universum",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "Verkets inställningar",
   "comics.split.author": "Författare",
   "comics.splitMustTotal": "Intäktsfördelningen måste bli 100 %.",
   "comics.startReading": "Börja läsa",
@@ -196,6 +196,9 @@
   "comics.volumes": "Volymer",
   "comics.volumes.empty": "Inga volymer definierade.",
   "comics.volumesHelp": "Sälj kapitelintervall som volymer. Kapitelnummer är inklusive och intervall får inte överlappa.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Markera som avslutad när det sista schemalagda kapitlet har släppts ({date})",
+  "comics.finish.scheduledNotice": "{format} markeras som avslutad den {date}, när det sista schemalagda kapitlet släpps.",
+  "comics.reader.loading": "Serie",
+  "comics.translation.mode.label": "Läge: {mode}",
+  "comics.pagesCount": "{count, plural, one {# sida} other {# sidor}}"
 }

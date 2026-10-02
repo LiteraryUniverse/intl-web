@@ -19,9 +19,9 @@
   "personalNotes.type.encEntry": "বিশ্বকোষ এন্ট্রি",
   "personalNotes.type.revTextBlock": "সংশোধন পাঠ ব্লক",
   "personalNotes.recentSearches": "সাম্প্রতিক অনুসন্ধানগুলি:",
-  "personalNotes.myNotes": "My Personal Notes",
-  "personalNotes.hasNotes": "Has Personal Notes",
-  "personalNotes.recentSearched": "Recent Searches:",
-  "personalNotes.search.noFound": "No items found",
+  "personalNotes.myNotes": "আমার ব্যক্তিগত নোট",
+  "personalNotes.hasNotes": "ব্যক্তিগত নোট আছে",
+  "personalNotes.recentSearched": "সাম্প্রতিক অনুসন্ধান:",
+  "personalNotes.search.noFound": "কোনো আইটেম পাওয়া যায়নি",
   "personalNotes.type": "Type"
 }

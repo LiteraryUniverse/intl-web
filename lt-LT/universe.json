@@ -31,8 +31,8 @@
   "universe.createdAt": "Sukurta: {date}",
   "universe.authors.none": "Informacijos apie autorius nėra.",
   "universe.blog.title": "{universe} - News & Updates",
-  "universe.fanarts.allowComments": "Allow comments",
+  "universe.fanarts.allowComments": "Leisti komentarus",
   "universe.createdby": "Created by",
-  "universe.fanArt.picture": "Fan art image",
+  "universe.fanArt.picture": "Gerbėjų kūrinio paveikslėlis",
   "universe.stories": "Stories"
 }

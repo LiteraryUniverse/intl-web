@@ -72,10 +72,10 @@
   "forums.settings.systemPosts.blogs.selectCategory": "Επιλέξτε μια κατηγορία...",
   "forums.posts.loadError": "Σφάλμα φόρτωσης αναρτήσεων",
   "forums.category.orgRoles": "Περιορισμός σε ρόλους του οργανισμού (κανένας = όλα τα μέλη)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Επεξεργασία απάντησης",
+  "forums.post.delete": "Διαγραφή απάντησης",
+  "forums.post.deleteConfirm": "Να διαγραφεί αυτή η απάντηση; Δεν θα εμφανίζεται πλέον σε αυτή τη συζήτηση.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Αυτή η απάντηση διαγράφηκε.",
+  "forums.post.hidden": "Αυτή η απάντηση έχει αποκρυφτεί από την εποπτεία."
 }

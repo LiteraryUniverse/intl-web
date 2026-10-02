@@ -233,5 +233,19 @@
   "email.continueReading.subject": "📖 Continue “{storyTitle}”",
   "email.continueReading.title": "Pick up where you left off",
   "email.continueReading.details": "Your next chapter in “{storyTitle}” is “{chapterTitle}”.",
-  "email.continueReading.cta": "Continue reading"
+  "email.continueReading.cta": "Continue reading",
+  "email.diary.reminder.subject": "നിങ്ങളുടെ ഡയറിയിൽ എഴുതാൻ സമയമായി",
+  "email.diary.reminder.subject.streak": "നിങ്ങളുടെ {streak} ദിവസത്തെ ഡയറി എഴുത്ത് പരമ്പര തുടരുക",
+  "email.diary.reminder.preview": "നിങ്ങളുടെ ഡയറിയിൽ എഴുതാൻ സമയമായി",
+  "email.diary.reminder.previewStreak": "നിങ്ങളുടെ {streak} ദിവസത്തെ ഡയറി എഴുത്ത് പരമ്പര തുടരുക!",
+  "email.diary.reminder.title": "നിങ്ങളുടെ ഡയറി എഴുത്ത് യാത്ര ഇന്ന് തുടങ്ങൂ",
+  "email.diary.reminder.titleStreak": "നിങ്ങൾക്ക് {streak} ദിവസത്തെ ഡയറി എഴുത്ത് പരമ്പരയുണ്ട്!",
+  "email.diary.reminder.body": "മികച്ച എഴുത്തുകാർ ഡയറി എഴുതാറുണ്ട്. ഇന്ന് കുറച്ച് മിനിറ്റ് എടുത്ത് നിങ്ങളുടെ ദിവസത്തെക്കുറിച്ച് ചിന്തിക്കുക, ആശയങ്ങൾ കുറിച്ചിടുക, അല്ലെങ്കിൽ വെറുതെ സ്വതന്ത്രമായി എഴുതുക.",
+  "email.diary.reminder.bodyStreak": "നിങ്ങളുടെ പരമ്പര മുറിയാതെ നോക്കൂ! ഇന്ന് കുറച്ച് മിനിറ്റ് എടുത്ത് ചിന്തിക്കുക, എഴുതുക, നിങ്ങളുടെ ചിന്തകൾ പകർത്തിവെക്കുക.",
+  "email.diary.reminder.cta": "ഡയറിയിൽ എഴുതുക",
+  "email.diary.reminder.promptLabel": "ഇന്നത്തെ എഴുത്ത് സൂചന:",
+  "email.storyStatus.title": "കഥയുടെ നിലയിലെ പുതുക്കൽ",
+  "email.storyStatus.intro": "നിങ്ങളുടെ കഥയുടെ നിലയിൽ ഒരു മാറ്റം വന്നിട്ടുണ്ട്.",
+  "email.storyStatus.why": "എന്താണ് സംഭവിച്ചതെന്നും എന്തുകൊണ്ടെന്നും ഇതാ:",
+  "email.storyStatus.next": "ഇനി സംഭവിക്കുന്നത്:"
 }

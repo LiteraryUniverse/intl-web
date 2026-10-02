@@ -1,7 +1,7 @@
 {
   "events.upcoming": "Esdeveniments propers",
   "events.settings.title": "Configuració de l'esdeveniment",
-  "events.attendees.title": "Event attendees",
+  "events.attendees.title": "Assistents a l'esdeveniment",
   "events.attendance.attending": "Assistència",
   "events.attendance.tentative": "Pendent",
   "events.attendance.notAttending": "No assistirà",
@@ -29,11 +29,11 @@
   "events.visibility.private": "Privat: només les persones convidades veuran l'esdeveniment",
   "events.inviting": "Les persones que veuen aquest esdeveniment poden convidar altres?",
   "events.administration": "Administració d'esdeveniments",
-  "events.admin": "Events Admin",
+  "events.admin": "Administració d'esdeveniments",
   "events.create.title": "Crear un nou esdeveniment",
   "events.hostedBy": "Organitzat per {hostName}",
   "events.openVirtual": "Anar a la ubicació virtual",
-  "events.moreInfo": "More information",
+  "events.moreInfo": "Més informació",
   "event.visibilityShort.private": "Privada",
   "event.visibilityShort.public": "Pública",
   "event.visibilityShort.owner": "Propietari"

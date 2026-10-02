@@ -2,431 +2,415 @@
   "common": {
     "next": "Next",
     "previous": "Previous",
-    "skip": "Skip Tour",
-    "close": "Close Tour",
-    "end": "End Tour",
+    "skip": "Bỏ qua chuyến tham quan",
+    "close": "Đóng chuyến tham quan",
+    "end": "Kết thúc chuyến tham quan",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "Dùng các phím mũi tên để di chuyển, ESC để đóng",
+    "start": "Bắt đầu chuyến tham quan"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "Chào mừng đến với Bảng điều khiển của bạn",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "Chào mừng đến với Literary Universe",
+      "content": "Hãy cùng tham quan nhanh bảng điều khiển để giúp bạn bắt đầu hành trình viết của mình."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "Điều hướng chính",
+      "content": "Đây là menu điều hướng chính của bạn. Hãy cùng xem qua từng mục."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "Trang chủ cá nhân của bạn với các cập nhật hoạt động, cùng lối vào phân nhóm, thư viện và các tính năng xã hội."
       },
       "discovery": {
         "title": "Discovery",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "Khám phá những câu chuyện và vũ trụ do người dùng khác tạo ra. Đọc chuyện hậu trường và các bài blog chuyên sâu từ các tác giả. Tìm tác phẩm yêu thích tiếp theo của bạn!"
       },
       "social": {
         "title": "Social",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "Niềm vui được sẻ chia là niềm vui nhân mười! Tìm các nhóm cùng chí hướng, tham gia Discord của chúng tôi và khám phá xem còn ai đang ở trên Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "Vở ghi chú là cuốn sổ tay cá nhân luôn sẵn sàng để bạn ghi nhanh ý tưởng, ghi chú và suy nghĩ."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "Luôn nắm được các bình luận, lượt theo dõi và những tương tác khác trong cộng đồng."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "Trao đổi với các tác giả khác, độc giả beta và cộng tác trong các dự án."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "Quản lý thông tin cá nhân, tùy chọn và cài đặt tài khoản của bạn."
       },
       "workshop": {
         "title": "Hội thảo",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "Không gian sáng tạo của bạn để viết, biên tập và quản lý các câu chuyện và vũ trụ."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "Thư viện của bạn",
+        "content": "Truy cập tất cả câu chuyện đã lưu, danh sách đọc và nội dung đã tải xuống ở cùng một nơi."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "Menu truy cập nhanh",
+      "content": "Thanh bên này giúp bạn truy cập nhanh các tính năng và công cụ quan trọng."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "Với một người viết, Phân nhóm là nơi phép màu xảy ra! Bắt đầu một câu chuyện mới, viết tiếp câu chuyện đang dang dở, hoặc mở rộng vũ trụ của bạn. Độc giả đang chờ bạn đấy!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "Với một độc giả, Khám phá là cánh cửa dẫn đến những câu chuyện tuyệt vời! Khám phá thể loại mới, theo dõi các tác giả yêu thích và xây dựng danh sách đọc của bạn. Chúc bạn đọc vui!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "Bạn mới đến? Hãy tham quan nhanh bảng điều khiển của bạn!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "Chào mừng đến với Phân nhóm của bạn",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "Chào mừng đến với Phân nhóm Literary Universe",
+      "content": "Phân nhóm là trái tim của hành trình sáng tạo của bạn trên Literary Universe. Tại đây bạn có thể tạo, quản lý và cộng tác trên các câu chuyện và vũ trụ của mình."
     },
     "theWay": {
       "title": "Con đường của người viết",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "Theo dõi sự tiến bộ của bạn trong vai trò người viết với Con đường của người viết. Hệ thống mang tính trò chơi này giúp bạn lên cấp bằng cách hoàn thành các cột mốc viết và tham gia cùng cộng đồng. Nhấp vào đây để tìm hiểu cách hệ thống hoạt động."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "Bắt đầu điều gì đó mới",
+      "content": "Bắt đầu tạo sẽ hỏi bạn muốn làm gì: một vũ trụ cho những câu chuyện chung một thế giới, một câu chuyện độc lập, fan fiction, hay một bộ truyện tranh. Nó dẫn bạn qua những quyết định đầu tiên và để lại cho bạn một bản nháp. Không có gì được xuất bản cho đến khi chính bạn xuất bản."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "Tất cả dự án của bạn",
+      "content": "Mọi vũ trụ, câu chuyện, truyện tranh và sách nói mà bạn sở hữu hoặc tham gia đều được liệt kê ở đây. Các nút bên phải chuyển đổi giữa dạng ảnh bìa và danh sách thu gọn. Lời mời cộng tác, dịch hoặc đọc beta hiển thị phía trên danh sách dưới dạng yêu cầu mà bạn có thể chấp nhận hoặc từ chối."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "Tìm dự án bạn cần",
+      "content": "Truy cập thu hẹp danh sách còn các dự án bạn sở hữu, dự án bạn là thành viên nhóm, bản dịch, hoặc câu chuyện bạn nhận xét với tư cách độc giả beta. Định dạng và Trạng thái thu hẹp thêm nữa, còn Sắp xếp đưa dự án được cập nhật gần đây nhất lên đầu."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "Tiếp tục hành trình của bạn",
+      "content": "Nhớ quay lại đây để xem tiến trình của bạn trên Con đường của người viết. Hãy tiếp tục viết, cộng tác và tham gia cùng cộng đồng để lên cấp! Giờ thì bắt đầu viết thôi!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "Thư viện cá nhân của bạn",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "Tiếp tục Đọc",
+      "content": "Chào mừng đến với thư viện cá nhân của bạn! Tại đây bạn có thể xem những câu chuyện và vũ trụ đã thêm để theo dõi tiến độ đọc. Mục Tiếp tục Đọc hiển thị nội dung bạn mở gần đây nhất để bạn dễ dàng đọc tiếp từ chỗ đã dừng."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "Toàn bộ thư viện của bạn",
+      "content": "Thẻ này hiển thị mọi thứ trong thư viện của bạn. Các thẻ bên cạnh thu hẹp còn câu chuyện, nội dung đã mua, sách nói, manga và truyện tranh, hoặc vũ trụ. Thêm một câu chuyện hoặc vũ trụ vào thư viện để nhận cập nhật và giữ vị trí đang đọc."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "Câu chuyện của bạn",
+      "content": "Tất cả câu chuyện bạn đã thêm vào thư viện được sắp xếp ở đây. Theo dõi tiến độ đọc, nhận thông báo về chương mới và không bao giờ quên mình đang đọc đến đâu trong những câu chuyện yêu thích."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "Vũ trụ của bạn",
+      "content": "Các vũ trụ bạn đã thêm vào thư viện xuất hiện ở đây. Cập nhật những câu chuyện mới trong các vũ trụ này, khám phá bách khoa toàn thư của chúng và tham gia các tính năng cộng đồng."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "Danh sách đọc",
+      "content": "Tạo và quản lý các danh sách đọc cá nhân của bạn tại đây. Sắp xếp câu chuyện theo chủ đề, bộ truyện hoặc bất kỳ tiêu chí nào phù hợp với bạn. Chia sẻ danh sách với người khác hoặc giữ riêng cho mình."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "Ghi chú cá nhân",
+      "content": "Với gói đăng ký nền tảng, bạn có thể thêm ghi chú cá nhân vào bất kỳ câu chuyện, vũ trụ hay mục bách khoa toàn thư nào. Lưu lại suy nghĩ, giả thuyết và cảm nhận của bạn trong lúc đọc và khám phá Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "Sẵn sàng xây dựng thư viện của bạn?",
+      "content": "Hãy bắt đầu thêm câu chuyện và vũ trụ vào thư viện của bạn từ Khám phá. Theo dõi tiến độ đọc, tạo danh sách đọc và làm phong phú trải nghiệm bằng ghi chú cá nhân. Hành trình văn chương của bạn đang chờ!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "Phân nhóm vũ trụ",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "Chào mừng đến với Phân nhóm vũ trụ của bạn!",
+      "content": "Chúc mừng bạn đã tạo vũ trụ đầu tiên! Đây là trung tâm điều khiển để bạn xây dựng và quản lý thế giới văn chương của mình. Hãy cùng khám phá tất cả công cụ mạnh mẽ giúp vũ trụ của bạn trở nên sống động."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "Quản lý câu chuyện của bạn",
+      "content": "Đây là nơi bạn quản lý tất cả câu chuyện trong vũ trụ của mình. Tạo câu chuyện mới, chỉnh sửa câu chuyện hiện có và sắp xếp mạch truyện xuyên suốt nhiều câu chuyện liên kết với nhau. Mỗi câu chuyện đều được hưởng lợi từ bách khoa toàn thư chung của vũ trụ và các tính năng cộng đồng."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "Xây dựng bách khoa toàn thư",
+      "content": "Tạo và quản lý bách khoa toàn thư của vũ trụ, kho tri thức giúp thế giới của bạn trở nên sống động. Thêm nhân vật, địa điểm, truyền thuyết và những chi tiết khác để độc giả khám phá. Một bách khoa toàn thư phong phú khiến vũ trụ của bạn cuốn hút hơn và giúp độc giả hiểu bối cảnh các câu chuyện."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "Trang vũ trụ của bạn",
+      "content": "Đây là trang công khai của vũ trụ, nơi khách ghé thăm có thể tìm hiểu về thế giới của bạn, đọc các câu chuyện, khám phá bách khoa toàn thư và giao lưu với cộng đồng của bạn. Hãy tùy chỉnh trang này để giới thiệu vũ trụ và thu hút độc giả mới."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "Quản lý bản dịch",
+      "content": "Điều phối việc dịch nội dung vũ trụ của bạn sang các ngôn ngữ khác. Quản lý dịch giả, theo dõi tiến độ và đảm bảo câu chuyện của bạn đến được với độc giả toàn cầu. Bản dịch giúp bạn kết nối với độc giả khắp thế giới."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "Quản lý fan",
+      "content": "Quản lý các tương tác và sáng tác của fan lấy cảm hứng từ vũ trụ của bạn. Theo dõi fan fiction, tranh vẽ và các nội dung cộng đồng khác. Giao lưu với fan và xây dựng một cộng đồng sôi nổi quanh thế giới của bạn."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "Theo dõi thành công của bạn",
+      "content": "Theo dõi hiệu quả của vũ trụ bằng số liệu phân tích chi tiết. Xem mức độ tương tác của độc giả, các câu chuyện được yêu thích, lượt xem bách khoa toàn thư và những chỉ số khác giúp bạn hiểu điều gì chạm đến độc giả."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "Diễn đàn lập kế hoạch nội bộ",
+      "content": "Diễn đàn nội bộ của vũ trụ để lập kế hoạch và phối hợp với cộng tác viên và dịch giả. Thảo luận về các tuyến truyện, chi tiết xây dựng thế giới và phối hợp công việc sáng tạo. Không gian riêng tư này giúp nhóm của bạn làm việc cùng nhau hiệu quả."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "Quản lý cộng tác viên",
+      "content": "Mời các tác giả, họa sĩ và nhà sáng tác khác cùng cộng tác trong vũ trụ của bạn. Phân vai trò và quyền hạn, quản lý cấp độ truy cập và xây dựng một đội ngũ cùng phát triển thế giới của bạn."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "Cài đặt doanh thu",
+      "content": "Thiết lập cách bạn kiếm tiền từ vũ trụ và nội dung của nó. Thiết lập quyền truy cập cao cấp, quản lý gói đăng ký và thỏa thuận chia sẻ doanh thu với cộng tác viên. Biến công việc sáng tạo thành nguồn thu nhập bền vững."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "Trung tâm giải quyết",
+      "content": "Xử lý tranh chấp, vi phạm nội dung và các vấn đề khác có thể phát sinh trong vũ trụ của bạn. Hệ thống tập trung này giúp duy trì một cộng đồng tích cực và giải quyết xung đột hiệu quả."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "Cài đặt vũ trụ",
+      "content": "Thiết lập các cài đặt cốt lõi của vũ trụ, gồm quyền riêng tư, kiểm soát truy cập, danh mục và các tùy chọn nền tảng khác. Những cài đặt này quyết định cách vũ trụ của bạn vận hành và ai có thể tương tác với nó."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "Cấu hình diễn đàn",
+      "content": "Tinh chỉnh cài đặt diễn đàn của vũ trụ. Tạo danh mục, đặt quy tắc kiểm duyệt, thiết lập quyền hạn và tùy chỉnh các không gian thảo luận sao cho phù hợp nhất với nhu cầu của cộng đồng."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "Sẵn sàng xây dựng vũ trụ của bạn?",
+      "content": "Giờ bạn đã có mọi công cụ cần thiết để tạo nên một vũ trụ phong phú và lôi cuốn. Hãy bắt đầu bằng việc thêm vài câu chuyện, xây dựng bách khoa toàn thư và mời cộng tác viên. Thế giới văn chương của bạn đang chờ được tạo nên!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "Bảng điều khiển câu chuyện",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "Chào mừng đến với Bảng điều khiển câu chuyện của bạn!",
+      "content": "Đây là trung tâm điều khiển của câu chuyện, nơi bạn quản lý mọi khía cạnh của tác phẩm. Tại đây bạn có thể viết chương, sắp xếp cấu trúc truyện, cộng tác với người khác và theo dõi tiến độ. Hãy cùng khám phá các tính năng chính."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "Thêm chương mới",
+      "content": "Đây là nơi bạn thêm chương mới vào câu chuyện. Nhấp vào nút \"Chương mới\" để tạo một chương mới. Câu chuyện sẽ tự động sắp xếp các chương theo đúng thứ tự. Bạn cũng có thể thêm chương từ cuối danh sách chương."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "Theo dõi tiến độ của bạn",
+      "content": "Theo dõi tiến độ viết và mức độ tương tác của độc giả bằng số liệu thống kê chi tiết. Xem bạn có bao nhiêu độc giả, theo dõi lượt xem từng chương và phân tích hiệu quả của câu chuyện theo thời gian."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "Quản lý cộng tác viên",
+      "content": "Mời các tác giả khác cùng cộng tác trong câu chuyện của bạn. Phân các vai trò và quyền hạn khác nhau, phối hợp việc viết và quản lý nhóm sáng tạo của bạn. Rất phù hợp cho các dự án viết chung."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "Quản lý bản dịch",
+      "content": "Điều phối việc dịch câu chuyện của bạn sang các ngôn ngữ khác. Quản lý dịch giả, theo dõi tiến độ dịch và đưa câu chuyện của bạn đến với độc giả toàn cầu."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "Cài đặt doanh thu",
+      "content": "Thiết lập cách bạn kiếm tiền từ câu chuyện. Thiết lập chương cao cấp, quản lý các tùy chọn đăng ký và thỏa thuận chia sẻ doanh thu với cộng tác viên. Biến việc viết thành thu nhập."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "Cài đặt câu chuyện",
+      "content": "Thiết lập các cài đặt cốt lõi của câu chuyện, gồm quyền riêng tư, tùy chọn xuất bản, danh mục và các tùy chọn nền tảng khác. Những cài đặt này quyết định cách câu chuyện của bạn hiển thị và hoạt động."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "Ghi chú tổng quan",
+      "content": "Ghi lại cấu trúc tổng thể của câu chuyện, các điểm mấu chốt của cốt truyện, hành trình nhân vật và những ghi chú quan trọng. Đây là không gian lập kế hoạch riêng của bạn để sắp xếp mạch truyện."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "Thử thách viết cá nhân",
+      "content": "Đặt mục tiêu viết cá nhân và theo dõi tiến độ bằng các thử thách. Tạo chỉ tiêu số từ hằng ngày hoặc hằng tuần, đặt hạn chót cho các chương và tự tạo động lực để duy trì thói quen viết đều đặn. Đây là công cụ riêng tư giúp bạn bám sát lịch viết của mình."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "Quản lý các dòng truyện",
+      "content": "Sắp xếp câu chuyện của bạn thành các tuyến và mạch truyện khác nhau. Theo dõi hành trình nhân vật, tuyến truyện phụ và các yếu tố tự sự. Rất phù hợp cho những câu chuyện phức tạp với nhiều yếu tố đan xen."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "Quản lý các cảnh",
+      "content": "Sắp xếp và quản lý từng cảnh trong các chương của bạn. Theo dõi tiến độ từng cảnh, đổi thứ tự các cảnh và giữ mạch cho cấu trúc truyện."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "Tài liệu pháp lý",
+      "content": "Truy cập các tài liệu pháp lý quan trọng liên quan đến câu chuyện của bạn, gồm thông tin bản quyền, hợp đồng xuất bản và quản lý quyền. Giữ cho các vấn đề pháp lý của bạn luôn gọn gàng."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "Phiên bản công khai",
+      "content": "Xem câu chuyện của bạn đúng như cách độc giả nhìn thấy trên trang công khai. Kiểm tra định dạng, thử các liên kết và đảm bảo mọi thứ hoàn hảo trước khi chia sẻ với độc giả."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "Chia sẻ câu chuyện của bạn",
+      "content": "Chia sẻ câu chuyện của bạn lên mạng xã hội với nội dung và liên kết soạn sẵn cho các nền tảng phổ biến. Nhận nội dung dùng được ngay để giới thiệu tác phẩm và giúp bạn tiếp cận độc giả mới trên nhiều mạng xã hội."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "Trung tâm giải quyết",
+      "content": "Xử lý mọi tranh chấp pháp lý, vi phạm Điều khoản dịch vụ hoặc vấn đề khác liên quan đến câu chuyện của bạn. Trung tâm này liệt kê tất cả vấn đề đã được báo cáo và cung cấp công cụ để giải quyết xung đột, giữ cho môi trường cộng đồng luôn tích cực."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "Quản lý trạng thái câu chuyện",
+      "content": "Kiểm soát trạng thái xuất bản của câu chuyện bằng những tùy chọn quan trọng này. \"Hoạt động\" nghĩa là câu chuyện đang được cập nhật đều đặn. \"Tạm ngừng\" cho biết bạn đang tạm nghỉ. \"Đã hủy\" nghĩa là bạn đã ngừng viết. \"Đã hoàn thành\" đánh dấu câu chuyện đã kết thúc. Hãy chọn trạng thái phản ánh đúng nhất tình hình viết hiện tại của bạn. Lưu ý: câu chuyện sẽ tự động chuyển sang \"Tạm ngừng\" sau 6 tháng không có tiến triển, và sang \"Đã hủy\" sau 6 tháng tiếp theo không hoạt động."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "Sẵn sàng bắt đầu viết?",
+      "content": "Giờ bạn đã biết cách quản lý mọi khía cạnh của câu chuyện. Hãy bắt đầu bằng việc thêm chương đầu tiên, rồi khám phá các công cụ có sẵn. Câu chuyện của bạn đang chờ được viết nên!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "Tham quan trình soạn thảo truyện",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "Chào mừng đến với Trình soạn thảo truyện!",
+      "content": "Đây là không gian viết của bạn, nơi bạn chắp bút cho những câu chuyện của mình. Trình soạn thảo cung cấp các công cụ mạnh mẽ giúp bạn viết, sắp xếp và xuất bản tác phẩm. Hãy cùng khám phá các tính năng chính."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "Điều chỉnh cỡ chữ",
+      "content": "Điều chỉnh cỡ chữ để dễ đọc hơn trong lúc viết. Chuyển giữa cỡ chữ thường và cỡ chữ lớn để giảm mỏi mắt trong những buổi viết dài."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "Bật/tắt chế độ tối",
+      "content": "Chuyển đổi giữa giao diện sáng và tối. Chế độ tối dễ chịu hơn cho mắt khi viết vào ban đêm và giúp bạn duy trì sự tập trung."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "Công cụ trợ năng",
+      "content": "Sử dụng phông chữ thân thiện với người mắc chứng khó đọc, tô sáng đoạn văn và các tính năng trợ năng khác để bạn thấy thoải mái hơn."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "Bật/tắt bảng bên",
+      "content": "Hiện hoặc ẩn bảng bên. Bảng này chứa các công cụ hữu ích như vở ghi chú, ghi chú câu chuyện, bách khoa toàn thư, bình luận và AI Assistant."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "Chế độ toàn màn hình",
+      "content": "Vào chế độ toàn màn hình để mở rộng tối đa không gian viết và loại bỏ xao nhãng. Rất phù hợp cho những buổi viết tập trung."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "Lưu tác phẩm của bạn",
+      "content": "Bản nháp của bạn được lưu tự động. Tác phẩm được lưu trong lúc bạn gõ, nhưng bạn cũng có thể lưu thủ công bất cứ lúc nào."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "Tùy chọn xuất bản",
+      "content": "Khi đã xong bản nháp, đã đến lúc tạo một phiên bản. Bạn có thể tạo phiên bản cho độc giả beta hoặc cho công chúng. Khi quyết định xuất bản, bạn là người quyết định thời điểm chương được đăng."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "Tiêu đề chương",
+      "content": "Nhấp vào tiêu đề để sửa tên."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "Viết ghi chú cá nhân về chương của bạn hoặc chỉ là đôi lời gửi độc giả. Nội dung này sẽ hiển thị cho độc giả trước chương (giống như ở đây) và là cách hiệu quả để thông báo hoặc chia sẻ suy nghĩ về câu chuyện cho đến lúc này."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "Nội dung chính của truyện",
+      "content": "Đây là khu vực viết chính, nơi câu chuyện của bạn thành hình. Hãy viết nội dung chương tại đây với đầy đủ khả năng định dạng văn bản."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "Hộp công cụ ở thanh bên",
+      "content": "Bảng bên chứa các công cụ và thông tin hữu ích. Dùng menu ở phía trên để chuyển giữa các chế độ xem như vở ghi chú, tra cứu bách khoa toàn thư, bình luận và AI Assistant."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "Vở ghi chú cá nhân",
+      "content": "Vở ghi chú cá nhân luôn sẵn sàng để bạn ghi nhanh ý tưởng, ghi chú hoặc cảm hứng. Lưu lại những suy nghĩ chưa hợp với mạch truyện chính nhưng có thể hữu ích về sau."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "Ghi chú câu chuyện",
+      "content": "Truy cập các ghi chú tổng thể và tài liệu lập kế hoạch cho câu chuyện. Lưu lại dàn ý cốt truyện, hành trình nhân vật, chi tiết xây dựng thế giới và các thông tin tổ chức khác."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "Truy cập bách khoa toàn thư",
+      "content": "Truy cập nhanh bách khoa toàn thư của vũ trụ. Tra cứu chi tiết nhân vật, địa điểm, truyền thuyết và các yếu tố xây dựng thế giới khác trong lúc viết. Các nút khác ở đây cho phép bạn tìm kiếm và thêm mục mới."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "Bình luận về chương",
+      "content": "Xem và trả lời bình luận về chương này từ độc giả beta, cộng tác viên và các độc giả khác. Tương tác với độc giả và nhận những phản hồi quý giá."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "Trước khi xuất bản, có những điều quan trọng cần kiểm tra. Danh sách việc cần làm trước khi xuất bản và một vài điều nhỏ thú vị khác cần xem qua nằm ở đây."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "AI Assistant",
+      "content": "Hỏi trợ lý về câu chuyện, vũ trụ và bách khoa toàn thư của bạn. Trợ lý có thể kiểm tra tính nhất quán, soát lỗi một đoạn văn hoặc tra cứu thông tin. Trợ lý trả lời các câu hỏi về tác phẩm của bạn và không viết thay bạn. Trợ lý chạy bằng khóa API của riêng bạn, do bạn thêm trong phần cài đặt."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "Sẵn sàng bắt đầu viết?",
+      "content": "Giờ bạn đã biết cách dùng tất cả tính năng mạnh mẽ của trình soạn thảo truyện. Hãy bắt đầu viết chương của bạn và khám phá các công cụ khi cần. Nếu cần hỗ trợ, hãy xem phần trợ giúp, Con đường của người viết hoặc liên hệ với chúng tôi. Giờ thì cùng viết truyện thôi!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "Tham quan trình dịch truyện",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "Chào mừng đến với Trình dịch truyện!",
+      "content": "Hãy cùng xem qua một vòng. Dùng không gian làm việc này để dịch văn bản gốc trong khi tài liệu tham khảo luôn ở ngay trong tầm tay."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "Văn bản gốc ở bên trái",
+      "content": "Bên trái hiển thị chương gốc và ghi chú của tác giả. Hãy để mở phần này làm tài liệu đối chiếu trong lúc bạn làm việc."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "Dịch ở bên phải",
+      "content": "Viết bản dịch của bạn ở bên phải. Mọi thứ bạn lưu ở đây sẽ trở thành phiên bản mà độc giả của ngôn ngữ này nhìn thấy."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "Truy cập bách khoa toàn thư của vũ trụ",
+      "content": "Cần tra truyền thuyết hay thuật ngữ? Ở thanh bên, bạn có thể mở bách khoa toàn thư của vũ trụ để hiểu rõ hơn về vũ trụ đó."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "Chào mừng đến với Bách khoa toàn thư",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "Bách khoa toàn thư của vũ trụ",
+      "content": "Chào mừng đến với bách khoa toàn thư của bạn! Đây là nơi bạn sắp xếp mọi tri thức về vũ trụ của mình và chia sẻ với người hâm mộ."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "Sắp xếp nội dung của bạn",
+      "content": "Chuyển giữa chế độ xem \"Danh mục\" và \"Nhóm\". Danh mục hiển thị các mục được sắp xếp theo loại (Nhân vật, Địa điểm, v.v.), còn Nhóm cho phép bạn xem các mục theo cách nhóm bằng trường tùy chỉnh do mục cha thiết lập, và cứ thế tiếp tục."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "Danh mục của bạn",
+      "content": "Đây là các danh mục trong bách khoa toàn thư của bạn. Mỗi danh mục có mẫu riêng để sắp xếp thông tin. Nhấp vào bất kỳ danh mục nào để mở rộng và xem các mục bên trong."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "Tìm thứ bạn cần",
+      "content": "Dùng ô tìm kiếm để nhanh chóng tìm bất kỳ mục nào trong bách khoa toàn thư. Tìm theo tên, nội dung hoặc thẻ để thấy thông tin ngay lập tức."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "Tạo mục mới",
+      "content": "Thêm mục mới vào bách khoa toàn thư của bạn. Mỗi danh mục có mẫu biểu riêng để bạn bắt đầu, nhưng bạn có thể điều chỉnh tùy ý."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "Tùy chỉnh bách khoa toàn thư",
+      "content": "Nhớ xem phần cài đặt bách khoa toàn thư để chọn những danh mục bạn muốn dùng, đặt lời chào mừng và thiết lập các chi tiết khác của bách khoa toàn thư."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "Giờ bạn đã nắm được những điều cơ bản! Hãy quay lại phân nhóm để tiếp tục xây dựng vũ trụ, hoặc bắt đầu thêm mục vào bách khoa toàn thư. Chúc bạn viết vui!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "Hướng dẫn cho độc giả beta",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "Chào mừng đến với việc đọc beta!",
+      "content": "Là độc giả beta, bạn giữ vai trò quan trọng trong việc giúp tác giả hoàn thiện câu chuyện. Phản hồi của bạn giúp phát hiện vấn đề, làm rõ ý và khiến câu chuyện hấp dẫn hơn với người đọc. Hướng dẫn này chỉ cho bạn cách dùng giao diện đọc beta và đưa ra phản hồi hiệu quả."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "Công cụ giao tiếp chính của bạn",
+      "content": "Đây là nơi bạn để lại bình luận cho tác giả! Nhấp vào đây để mở bảng bình luận. Bạn có thể góp ý chung về chương, đánh dấu những đoạn cụ thể, đặt câu hỏi hoặc đề xuất cải thiện. Bình luận là cách chính để bạn trao đổi với tác giả."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "Giao diện bình luận",
+      "content": "Trong bảng bình luận, bạn có thể xem phản hồi của các độc giả beta khác và thêm phản hồi của mình. Dùng ô bình luận ở phía dưới để chia sẻ suy nghĩ. Hãy nói cụ thể điều gì đã tốt và điều gì có thể cải thiện; phản hồi mang tính xây dựng là hữu ích nhất!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "Công cụ đọc",
+      "content": "Dùng các công cụ này để tùy chỉnh trải nghiệm đọc. Bạn có thể điều chỉnh cỡ chữ, bật chế độ tối và bật các tính năng trợ năng như phông chữ Open Dyslexic hoặc tô sáng đoạn văn để đọc thoải mái hơn."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "Sẵn sàng đưa ra phản hồi?",
+      "content": "Giờ bạn đã biết cách dùng giao diện đọc beta và tính năng bình luận để trao đổi với tác giả. Hãy bắt đầu bằng việc đọc chương, rồi mở thanh bên và chia sẻ những phản hồi chu đáo của bạn. Ý kiến của bạn giúp tác giả tạo nên những câu chuyện hay hơn!"
     }
   }
 }

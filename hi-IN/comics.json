@@ -135,7 +135,7 @@
   "comics.search.noResults": "कोई मंगा या कॉमिक्स नहीं मिली।",
   "comics.search.status": "प्रकाशन स्थिति",
   "comics.settings.universe": "ब्रह्मांड",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "कृति की सेटिंग्स",
   "comics.split.author": "लेखक",
   "comics.splitMustTotal": "आय विभाजन का कुल योग 100% होना चाहिए।",
   "comics.startReading": "पढ़ना शुरू करें",
@@ -196,6 +196,9 @@
   "comics.volumes": "खंड",
   "comics.volumes.empty": "कोई खंड परिभाषित नहीं।",
   "comics.volumesHelp": "अध्याय श्रेणियों को खंडों के रूप में बेचें। अध्याय संख्याएं समावेशी हैं और श्रेणियां ओवरलैप नहीं होनी चाहिए।",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "अंतिम निर्धारित अध्याय जारी होते ही ({date}) पूर्ण के रूप में चिह्नित करें",
+  "comics.finish.scheduledNotice": "{format} को {date} को पूर्ण के रूप में चिह्नित किया जाएगा, जब इसका अंतिम निर्धारित अध्याय जारी होगा।",
+  "comics.reader.loading": "कॉमिक",
+  "comics.translation.mode.label": "मोड: {mode}",
+  "comics.pagesCount": "{count, plural, one {# पृष्ठ} other {# पृष्ठ}}"
 }

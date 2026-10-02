@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "Monokrom",
   "blog.theme.generate.mode.pastel": "Pastel",
   "blog.theme.generate.nudged": "Disetel supaya gampang diwaca: {tokens}.",
-  "blog.theme.generate.unreadable": "Gambar kasebut ora bisa diwaca. Undhuh banjur pilih minangka berkas."
+  "blog.theme.generate.unreadable": "Gambar kasebut ora bisa diwaca. Undhuh banjur pilih minangka berkas.",
+  "blogs.readFullPost": "Read the full post"
 }

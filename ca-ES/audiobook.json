@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Actors de veu",
   "audiobook.team.you": "tu",
   "audiobook.whereToListen": "On escoltar",
+  "audiobook.team.members": "Membres de l'equip",
+  "audiobook.team.noMembers": "Encara no hi ha cap membre a l'equip.",
   "audiobook.orgFeatureDisabled": "Els audiollibres no estan habilitats per a aquesta organització."
 }

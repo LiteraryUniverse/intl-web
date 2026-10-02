@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ഏകവർണ്ണം",
   "blog.theme.generate.mode.pastel": "പാസ്റ്റൽ",
   "blog.theme.generate.nudged": "വായനാക്ഷമതയ്ക്കായി ക്രമീകരിച്ചു: {tokens}.",
-  "blog.theme.generate.unreadable": "ആ ചിത്രം വായിക്കാനായില്ല. ഡൗൺലോഡ് ചെയ്ത് ഫയലായി തിരഞ്ഞെടുക്കുക."
+  "blog.theme.generate.unreadable": "ആ ചിത്രം വായിക്കാനായില്ല. ഡൗൺലോഡ് ചെയ്ത് ഫയലായി തിരഞ്ഞെടുക്കുക.",
+  "blogs.readFullPost": "മുഴുവൻ പോസ്റ്റും വായിക്കുക"
 }

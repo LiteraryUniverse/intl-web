@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ଏକରଙ୍ଗୀ",
   "blog.theme.generate.mode.pastel": "ପେଷ୍ଟେଲ",
   "blog.theme.generate.nudged": "ପଠନୀୟତା ପାଇଁ ସଜାଡ଼ାଯାଇଛି: {tokens}।",
-  "blog.theme.generate.unreadable": "ସେହି ଚିତ୍ର ପଢ଼ି ହେଲା ନାହିଁ। ଏହାକୁ ଡାଉନଲୋଡ୍ କରି ଫାଇଲ୍ ଭାବେ ବାଛନ୍ତୁ।"
+  "blog.theme.generate.unreadable": "ସେହି ଚିତ୍ର ପଢ଼ି ହେଲା ନାହିଁ। ଏହାକୁ ଡାଉନଲୋଡ୍ କରି ଫାଇଲ୍ ଭାବେ ବାଛନ୍ତୁ।",
+  "blogs.readFullPost": "Read the full post"
 }

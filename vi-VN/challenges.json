@@ -14,7 +14,7 @@
   "challenges.underway": "Thử thách này đã bắt đầu.",
   "challenges.targetWords": "Tổng số từ mục tiêu",
   "challenges.startDate": "Ngày bắt đầu",
-  "challenges.endDate": "End date",
+  "challenges.endDate": "Ngày kết thúc",
   "challenges.future": "Thử thách sắp tới",
   "challenges.future.wordcount": "Thử thách đếm từ bắt đầu vào {startDate, date, short} với mục tiêu là {target, number} vào {endDate, date, short}.",
   "challenges.wordcount": "Số từ",
@@ -28,5 +28,5 @@
   "challenges.day": "Day",
   "challenges.words": "Words",
   "challenges.actualProgress": "Day {day}: {words} words",
-  "challenges.minimumRequired": "Minimum required: {words} words"
+  "challenges.minimumRequired": "Yêu cầu tối thiểu: {words} từ"
 }

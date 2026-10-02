@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "ពណ៌តែមួយ",
   "blog.theme.generate.mode.pastel": "ប៉ាស្តែល",
   "blog.theme.generate.nudged": "បានកែតម្រូវដើម្បីងាយអាន៖ {tokens}។",
-  "blog.theme.generate.unreadable": "មិនអាចអានរូបភាពនោះបានទេ។ សូមទាញយកវា ហើយជ្រើសរើសជាឯកសារ។"
+  "blog.theme.generate.unreadable": "មិនអាចអានរូបភាពនោះបានទេ។ សូមទាញយកវា ហើយជ្រើសរើសជាឯកសារ។",
+  "blogs.readFullPost": "Read the full post"
 }

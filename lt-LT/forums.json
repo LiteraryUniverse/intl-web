@@ -70,12 +70,12 @@
   "forums.settings.systemPosts.blogs.enable": "Automatiškai sukurti forumo temas naujiems tinklaraščio įrašams",
   "forums.settings.systemPosts.blogs.category": "Rašyti į kategoriją:",
   "forums.settings.systemPosts.blogs.selectCategory": "Pasirinkite kategoriją...",
-  "forums.posts.loadError": "Error loading posts",
+  "forums.posts.loadError": "Klaida įkeliant pranešimus",
   "forums.category.orgRoles": "Apriboti organizacijos rolėmis (nė vienos = visi nariai)",
-  "forums.post.edit": "Edit reply",
-  "forums.post.delete": "Delete reply",
-  "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
+  "forums.post.edit": "Redaguoti atsakymą",
+  "forums.post.delete": "Ištrinti atsakymą",
+  "forums.post.deleteConfirm": "Ištrinti šį atsakymą? Jis nebebus rodomas šioje diskusijoje.",
   "forums.post.editedAt": "Edited {at, date, medium}",
-  "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.deleted": "Šis atsakymas buvo ištrintas.",
+  "forums.post.hidden": "Šį atsakymą paslėpė moderatoriai."
 }

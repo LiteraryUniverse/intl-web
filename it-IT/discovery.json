@@ -22,7 +22,7 @@
   "story.status.inProgress": "In corso",
   "discover.search.universeConnection": "Collegamento storia a universo",
   "story.universeRelation.standalone": "Storia autonoma",
-  "story.universeRelation.fanFiction": "Fan Fiction",
+  "story.universeRelation.fanFiction": "Fan fiction",
   "story.universeRelation.universe": "Parte di un universo",
   "discover.search.rating": "Classificazione età",
   "discover.search.license": "Licenza di copyright",
@@ -111,6 +111,7 @@
   "discover.search.universal.description": "Cerca storie, universi, audiolibri, manga e fumetti",
   "discover.search.typeSelection.aria": "Selezione del tipo di contenuto",
   "discover.search.resultsTotal.all": "{results, plural, =0 {Nessun risultato trovato} one {# risultato trovato} other {# risultati trovati}}",
+  "discover.search.text.placeholder": "Cerca per titolo, autore o parola chiave",
   "discovery.translation.chaptersAvailable": "Capitoli disponibili in questa traduzione",
   "discover.searchComic.title": "Cerca manga e fumetti",
   "discover.searchComic.description": "Cerca manga e fumetti"

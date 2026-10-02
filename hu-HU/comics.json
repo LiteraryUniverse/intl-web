@@ -135,7 +135,7 @@
   "comics.search.noResults": "Nem található manga vagy képregény.",
   "comics.search.status": "Közzétételi állapot",
   "comics.settings.universe": "Univerzum",
-  "comics.settings.work": "Work settings",
+  "comics.settings.work": "A mű beállításai",
   "comics.split.author": "Szerző",
   "comics.splitMustTotal": "A bevételmegosztásnak összesen 100%-ot kell kitennie.",
   "comics.startReading": "Olvasás megkezdése",
@@ -196,6 +196,9 @@
   "comics.volumes": "Kötetek",
   "comics.volumes.empty": "Nincsenek kötetek megadva.",
   "comics.volumesHelp": "Adjon el fejezettartományokat kötetként. A fejezetszámok beleértendők, és a tartományok nem fedhetik egymást.",
-  "comics.finish.whenLastChapterPublishes": "Mark as completed once the last scheduled chapter is released ({date})",
-  "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released."
+  "comics.finish.whenLastChapterPublishes": "Megjelölés befejezettként, amint az utolsó ütemezett fejezet megjelenik ({date})",
+  "comics.finish.scheduledNotice": "A(z) {format} ekkor lesz befejezettként megjelölve: {date}, amikor az utolsó ütemezett fejezete megjelenik.",
+  "comics.reader.loading": "Képregény",
+  "comics.translation.mode.label": "Mód: {mode}",
+  "comics.pagesCount": "{count, plural, one {# oldal} other {# oldal}}"
 }

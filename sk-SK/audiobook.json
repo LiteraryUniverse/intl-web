@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Dabéri",
   "audiobook.team.you": "vy",
   "audiobook.whereToListen": "Kde počúvať",
+  "audiobook.team.members": "Členovia tímu",
+  "audiobook.team.noMembers": "Zatiaľ žiadni členovia tímu.",
   "audiobook.orgFeatureDisabled": "Audioknihy nie sú pre túto organizáciu povolené."
 }

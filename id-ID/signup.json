@@ -96,5 +96,6 @@
 	"signup.complete.description": "Terima kasih telah melengkapi profil Anda. Kami telah menyesuaikan pengalaman Anda berdasarkan preferensi Anda.",
 	"signup.password2.label": "Confirm password",
 	"signup.wizard.title": "Panduan pendaftaran",
-	"signup.userType.artist.description": "Saya menggambar manga, komik, atau ilustrasi"
+	"signup.userType.artist.description": "Saya menggambar manga, komik, atau ilustrasi",
+  "signup.password2.label": "Konfirmasi kata sandi"
 }

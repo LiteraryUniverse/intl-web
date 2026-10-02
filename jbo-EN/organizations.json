@@ -300,5 +300,9 @@
   "org.setup.closed": ".i le vi na se pilno nu bregau cu se ganlo .i lo judri be lo jecta cu se livgau .i lo do vreji cu se ralte bu'u ti",
   "org.setup.restart": "cfari lo cnino nu bregau lo jecta",
   "org.setup.expiryNotice": ".i lo na se pilno judri be lo jecta cu se livgau ba lo 30 djedi .i do ji'a ka'e vimcu le vi nu bregau ca lo cabdei",
-  "org.setup.inUse": ".i le vi nu bregau cu se jibri lo nu pleji ja lo nu jdini benji .i ko denpa lo nu ro lo kalri te vecnu cu canci gi'a tavla lo sidju pu lo nu do ganlo ri"
+  "org.setup.inUse": ".i le vi nu bregau cu se jibri lo nu pleji ja lo nu jdini benji .i ko denpa lo nu ro lo kalri te vecnu cu canci gi'a tavla lo sidju pu lo nu do ganlo ri",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

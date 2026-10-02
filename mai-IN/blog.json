@@ -372,5 +372,6 @@
   "blog.theme.generate.mode.mono": "एकरंगी",
   "blog.theme.generate.mode.pastel": "पेस्टल",
   "blog.theme.generate.nudged": "पठनीयता लेल समायोजित: {tokens}।",
-  "blog.theme.generate.unreadable": "ओ चित्र पढ़ल नहि जा सकल। एकरा डाउनलोड करू आ फाइलक रूप मे चुनू।"
+  "blog.theme.generate.unreadable": "ओ चित्र पढ़ल नहि जा सकल। एकरा डाउनलोड करू आ फाइलक रूप मे चुनू।",
+  "blogs.readFullPost": "Read the full post"
 }

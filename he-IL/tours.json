@@ -4,429 +4,413 @@
     "previous": "קודם",
     "skip": "דלג על הסיור",
     "close": "סגור סיור",
-    "end": "End Tour",
+    "end": "סיים סיור",
     "progress": "Step {current, number} of {total, number}",
-    "keyboardHint": "Use arrow keys to navigate, ESC to close",
-    "start": "Start Tour"
+    "keyboardHint": "השתמש במקשי החצים לניווט, ESC לסגירה",
+    "start": "התחל סיור"
   },
   "dashboard": {
-    "title": "Welcome to Your Dashboard",
+    "title": "ברוך הבא ללוח הבקרה שלך",
     "welcome": {
-      "title": "Welcome to Literary Universe",
-      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+      "title": "ברוך הבא ל-Literary Universe",
+      "content": "בוא נעשה סיור קצר בלוח הבקרה שלך, כדי לעזור לך להתחיל את מסע הכתיבה."
     },
     "topMenu": {
-      "title": "Main Navigation",
-      "content": "This is your main navigation menu. Let's go through each item."
+      "title": "ניווט ראשי",
+      "content": "זהו תפריט הניווט הראשי שלך. בוא נעבור על כל פריט."
     },
     "topMenuItems": {
       "dashboard": {
         "title": "Dashboard",
-        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+        "content": "דף הבית האישי שלך, עם עדכוני פעילות וגישה לסדנה, לספרייה ולתכונות החברתיות."
       },
       "discovery": {
         "title": "גילוי",
-        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+        "content": "גלה סיפורים ויקומים שיצרו משתמשים אחרים. קרא פוסטים מאחורי הקלעים ופוסטים מעמיקים בבלוגים של המחברים. מצא את הקריאה האהובה הבאה שלך!"
       },
       "social": {
         "title": "חברתי",
-        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+        "content": "שמחה משותפת היא שמחה כפול עשר! מצא קבוצות של אנשים שחושבים כמוך, הצטרף ל-Discord שלנו וגלה מי עוד נמצא ב-Literary Universe!"
       },
       "scratchpad": {
         "title": "Scratchpad",
-        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+        "content": "מחברת הטיוטה היא הפנקס האישי שלך, שזמין תמיד לרישום רעיונות, הערות ומחשבות."
       },
       "notifications": {
         "title": "Notifications",
-        "content": "Stay updated with comments, follows, and other community interactions."
+        "content": "הישאר מעודכן בתגובות, בעוקבים חדשים ובשאר הפעילות בקהילה."
       },
       "messages": {
         "title": "Messages",
-        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+        "content": "תקשר עם כותבים אחרים ועם קוראי בטא, ושתף פעולה בפרויקטים."
       },
       "profile": {
         "title": "Profile",
-        "content": "Manage your personal information, preferences, and account settings."
+        "content": "נהל את הפרטים האישיים, ההעדפות והגדרות החשבון שלך."
       },
       "workshop": {
         "title": "סדנה",
-        "content": "Your creative space for writing, editing, and managing your stories and universes."
+        "content": "המרחב היצירתי שלך לכתיבה, לעריכה ולניהול הסיפורים והיקומים שלך."
       },
       "library": {
-        "title": "Your Library",
-        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+        "title": "הספרייה שלך",
+        "content": "כל הסיפורים השמורים, רשימות הקריאה והתוכן שהורדת, במקום אחד."
       }
     },
     "leftMenu": {
-      "title": "Quick Access Menu",
-      "content": "This sidebar provides quick access to important features and tools."
+      "title": "תפריט גישה מהירה",
+      "content": "סרגל הצד הזה נותן גישה מהירה לתכונות ולכלים חשובים."
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+      "content": "ככותב, הסדנה היא המקום שבו הקסם קורה! התחל סיפור חדש, המשך לכתוב סיפור קיים או הרחב את היקום שלך. הקוראים שלך מחכים!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
-      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+      "content": "כקורא, גילוי הוא השער שלך לסיפורים מדהימים! חקור ז'אנרים חדשים, עקוב אחרי המחברים האהובים עליך ובנה רשימות קריאה. קריאה מהנה!"
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery",
-    "takeTour": "New here? Take a quick tour of your dashboard!"
+    "takeTour": "חדש כאן? צא לסיור קצר בלוח הבקרה שלך!"
   },
   "workshop": {
-    "title": "Welcome to Your Workshop",
+    "title": "ברוך הבא לסדנה שלך",
     "welcome": {
-      "title": "Welcome to Literary Universe Workshop",
-      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+      "title": "ברוך הבא לסדנה של Literary Universe",
+      "content": "הסדנה היא לב המסע היצירתי שלך ב-Literary Universe. כאן אפשר ליצור ולנהל סיפורים ויקומים ולשתף פעולה עם אחרים."
     },
     "theWay": {
       "title": "דרכו של הסופר",
-      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+      "content": "עקוב אחרי ההתקדמות שלך ככותב בעזרת דרכו של הסופר. המערכת המשחקית הזאת עוזרת לך לעלות רמה דרך השלמת אבני דרך בכתיבה ומעורבות בקהילה. לחץ כאן כדי ללמוד איך היא עובדת."
     },
-    "ownWork": {
-      "title": "Your Creative Works",
-      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    "startCreating": {
+      "title": "התחל משהו חדש",
+      "content": "\"התחל ליצור\" שואל מה ברצונך ליצור: יקום לסיפורים שחולקים עולם משותף, סיפור שעומד בפני עצמו, סיפור מעריצים או קומיקס. הוא מלווה אותך בהחלטות הראשונות ומשאיר אותך עם טיוטה. שום דבר לא מתפרסם עד שתפרסם אותו בעצמך."
     },
-    "universe": {
-      "title": "Literary Universes",
-      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    "projects": {
+      "title": "כל הפרויקטים שלך",
+      "content": "כל יקום, סיפור, קומיקס וספר אודיו שבבעלותך או שאתה עובד עליו מופיע כאן. הכפתורים שבקצה השורה מחליפים בין תצוגת כריכות לרשימה מצומצמת. הזמנות לשיתוף פעולה, לתרגום או לקריאת בטא מופיעות מעל הרשימה כבקשות שאפשר לאשר או לדחות."
     },
-    "story": {
-      "title": "Standalone Stories",
-      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
-    },
-    "fanfiction": {
-      "title": "Fan Fiction",
-      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
-    },
-    "collaborative": {
-      "title": "Collaborative Works",
-      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
-    },
-    "translations": {
-      "title": "Translations",
-      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
-    },
-    "betaReadings": {
-      "title": "Beta Readings",
-      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    "filters": {
+      "title": "מצא את הפרויקט שאתה צריך",
+      "content": "\"גישה\" מצמצמת את הרשימה לפרויקטים שבבעלותך, לפרויקטים שאתה חבר בצוות שלהם, לתרגומים או לסיפורים שאתה בודק כקורא בטא. \"פורמט\" ו\"סטטוס\" מצמצמים אותה עוד, ו\"מיון\" מציב ראשון את הפרויקט שעודכן לאחרונה."
     },
     "theWayFinish": {
-      "title": "Continue Your Journey",
-      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+      "title": "המשך במסע שלך",
+      "content": "זכור לחזור לכאן כדי לראות את ההתקדמות שלך בדרכו של הסופר. המשך לכתוב, לשתף פעולה ולהיות מעורב בקהילה כדי לעלות רמה! ועכשיו, בוא נתחיל לכתוב!"
     }
   },
   "library": {
-    "title": "Your Personal Library",
+    "title": "הספרייה האישית שלך",
     "continueReading": {
-      "title": "Continue Reading",
-      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+      "title": "המשך קריאה",
+      "content": "ברוך הבא לספרייה האישית שלך! כאן מופיעים הסיפורים והיקומים שהוספת כדי לעקוב אחרי התקדמות הקריאה שלך. האזור \"המשך קריאה\" מציג את התוכן שפתחת לאחרונה, כדי שתוכל להמשיך בקלות מהמקום שבו עצרת."
     },
     "all": {
-      "title": "Your Complete Library",
-      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+      "title": "הספרייה המלאה שלך",
+      "content": "הלשונית הזאת מציגה את כל מה שיש בספרייה שלך. הלשוניות שלידה מצמצמות את התצוגה לסיפורים, לרכישות, לספרי אודיו, למנגה וקומיקס או ליקומים. הוסף סיפור או יקום לספרייה כדי לקבל עדכונים ולשמור על המקום שבו עצרת."
     },
     "stories": {
-      "title": "Your Stories",
-      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+      "title": "הסיפורים שלך",
+      "content": "כל הסיפורים שהוספת לספרייה מסודרים כאן. עקוב אחרי התקדמות הקריאה, קבל התראות על פרקים חדשים, ולעולם אל תאבד את המקום שלך בסיפורים האהובים עליך."
     },
     "universes": {
-      "title": "Your Universes",
-      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+      "title": "היקומים שלך",
+      "content": "היקומים שהוספת לספרייה מופיעים כאן. הישאר מעודכן בסיפורים חדשים ביקומים האלה, חקור את האנציקלופדיות שלהם וקח חלק בתכונות הקהילה."
     },
     "readingLists": {
-      "title": "Reading Lists",
-      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+      "title": "רשימות קריאה",
+      "content": "כאן יוצרים ומנהלים רשימות קריאה אישיות. ארגן סיפורים לפי נושאים, סדרות או כל קריטריון שמתאים לך. שתף את הרשימות עם אחרים או השאר אותן פרטיות."
     },
     "personalNotes": {
-      "title": "Personal Notes",
-      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+      "title": "הערות אישיות",
+      "content": "עם מנוי לפלטפורמה אפשר להוסיף הערות אישיות לכל סיפור, יקום או ערך באנציקלופדיה. תעד את המחשבות, התיאוריות והתובנות שלך בזמן שאתה קורא וחוקר את Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+      "title": "מוכן לבנות את הספרייה שלך?",
+      "content": "התחל להוסיף סיפורים ויקומים לספרייה שלך מתוך גילוי. עקוב אחרי התקדמות הקריאה, צור רשימות קריאה והעשר את החוויה בהערות אישיות. המסע הספרותי שלך מחכה!"
     }
   },
   "universe": {
-    "title": "Universe Workshop",
+    "title": "סדנת היקום",
     "welcome": {
-      "title": "Welcome to Your Universe Workshop!",
-      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+      "title": "ברוך הבא לסדנת היקום שלך!",
+      "content": "ברכות על יצירת היקום הראשון שלך! זהו מרכז הפיקוד שלך לבנייה ולניהול של העולם הספרותי שלך. בוא נכיר את כל הכלים החזקים שיעזרו לך להפיח חיים ביקום."
     },
     "stories": {
-      "title": "Manage Your Stories",
-      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+      "title": "ניהול הסיפורים שלך",
+      "content": "כאן מנהלים את כל הסיפורים שביקום שלך. צור סיפורים חדשים, ערוך סיפורים קיימים וארגן את העלילה על פני כמה סיפורים שקשורים זה בזה. כל סיפור נהנה מהאנציקלופדיה המשותפת של היקום ומתכונות הקהילה."
     },
     "encyclopedia": {
-      "title": "Build Your Encyclopedia",
-      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+      "title": "בנה את האנציקלופדיה שלך",
+      "content": "צור ונהל את האנציקלופדיה של היקום שלך – מאגר הידע שמפיח חיים בעולם שלך. הוסף דמויות, מקומות, רקע ומיתולוגיה ופרטים נוספים שהקוראים יוכלו לחקור. אנציקלופדיה עשירה הופכת את היקום לסוחף יותר ועוזרת לקוראים להבין את ההקשר של הסיפורים שלך."
     },
     "page": {
-      "title": "Your Universe Page",
-      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+      "title": "עמוד היקום שלך",
+      "content": "זהו העמוד הציבורי של היקום שלך, שבו מבקרים יכולים להכיר את העולם שלך, לקרוא את הסיפורים, לחקור את האנציקלופדיה ולקחת חלק בקהילה. התאם את העמוד כדי להציג את היקום שלך ולמשוך קוראים חדשים."
     },
     "translations": {
-      "title": "Manage Translations",
-      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+      "title": "ניהול תרגומים",
+      "content": "תאם את תרגום התוכן של היקום שלך לשפות אחרות. נהל מתרגמים, עקוב אחרי ההתקדמות ודאג שהסיפורים שלך יגיעו לקהל עולמי. תרגומים מחברים אותך לקוראים בכל העולם."
     },
     "fanManager": {
-      "title": "Fan Manager",
-      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+      "title": "מנהל מעריצים",
+      "content": "נהל את הקשר עם המעריצים ואת היצירות שנוצרו בהשראת היקום שלך. עקוב אחרי סיפורי מעריצים, אמנות ותוכן קהילתי נוסף. היה בקשר עם המעריצים שלך ובנה קהילה משגשגת סביב העולם שלך."
     },
     "statistics": {
-      "title": "Track Your Success",
-      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+      "title": "עקוב אחרי ההצלחה שלך",
+      "content": "עקוב אחרי הביצועים של היקום שלך בעזרת נתונים מפורטים. ראה את מעורבות הקוראים, הסיפורים הפופולריים, הצפיות באנציקלופדיה ומדדים נוספים שעוזרים לך להבין מה מדבר אל הקהל שלך."
     },
     "forum": {
-      "title": "Internal Planning Forum",
-      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+      "title": "פורום תכנון פנימי",
+      "content": "הפורום הפנימי של היקום שלך, לתכנון ולתיאום עם שותפים ומתרגמים. דונו בקשתות עלילה ובפרטי בניית העולם ותאמו את העבודה היצירתית. המרחב הפרטי הזה עוזר לצוות שלך לעבוד יחד ביעילות."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+      "title": "ניהול שותפים",
+      "content": "הזמן כותבים, אמנים ויוצרים אחרים לשתף פעולה ביקום שלך. הקצה תפקידים והרשאות, נהל רמות גישה ובנה צוות שיעזור לפתח את העולם שלך יחד."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+      "title": "הגדרות הכנסה",
+      "content": "הגדר איך אתה מרוויח מהיקום שלך ומהתוכן שלו. הגדר גישה בתשלום, נהל מנויים וקבע חלוקת הכנסות עם שותפים. הפוך את העבודה היצירתית שלך למקור הכנסה יציב."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+      "title": "מרכז הפתרונות",
+      "content": "טפל במחלוקות, בהפרות תוכן ובבעיות אחרות שעלולות לצוץ ביקום שלך. המערכת המרוכזת הזאת עוזרת לשמור על קהילה חיובית וליישב סכסוכים ביעילות."
     },
     "settings": {
-      "title": "Universe Settings",
-      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+      "title": "הגדרות היקום",
+      "content": "קבע את הגדרות הליבה של היקום שלך, כולל פרטיות, בקרת גישה, קטגוריות ואפשרויות בסיסיות נוספות. ההגדרות האלה קובעות איך היקום שלך פועל ומי יכול לקחת בו חלק."
     },
     "forumSettings": {
-      "title": "Forum Configuration",
-      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+      "title": "הגדרות הפורום",
+      "content": "כוונן את הגדרות הפורום של היקום שלך. צור קטגוריות, קבע כללי ניהול דיונים, הגדר הרשאות והתאם את מרחבי הדיון לצורכי הקהילה שלך."
     },
     "getStarted": {
-      "title": "Ready to Build Your Universe?",
-      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
+      "title": "מוכן לבנות את היקום שלך?",
+      "content": "יש לך עכשיו את כל הכלים ליצירת יקום עשיר ומרתק. התחל בהוספת כמה סיפורים, בבניית האנציקלופדיה ובהזמנת שותפים. העולם הספרותי שלך מחכה שתיצור אותו!"
     }
   },
   "story": {
-    "title": "Story Dashboard",
+    "title": "לוח הבקרה של הסיפור",
     "welcome": {
-      "title": "Welcome to Your Story Dashboard!",
-      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+      "title": "ברוך הבא ללוח הבקרה של הסיפור שלך!",
+      "content": "זהו מרכז הפיקוד של הסיפור שלך, שבו מנהלים את כל ההיבטים שלו. כאן אפשר לכתוב פרקים, לארגן את מבנה הסיפור, לשתף פעולה עם אחרים ולעקוב אחרי ההתקדמות. בוא נכיר את התכונות המרכזיות."
     },
     "addChapter": {
-      "title": "Adding New Chapters",
-      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+      "title": "הוספת פרקים חדשים",
+      "content": "כאן מוסיפים פרקים חדשים לסיפור. לחץ על הכפתור \"פרק חדש\" כדי ליצור פרק חדש. הסיפור מסדר את הפרקים אוטומטית בסדר הנכון. אפשר להוסיף פרקים גם מתחתית רשימת הפרקים."
     },
     "statistics": {
-      "title": "Track Your Progress",
-      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+      "title": "עקוב אחרי ההתקדמות שלך",
+      "content": "עקוב אחרי התקדמות הכתיבה ומעורבות הקהל בעזרת סטטיסטיקות מפורטות. ראה כמה קוראים יש לך, עקוב אחרי הצפיות בפרקים ונתח את ביצועי הסיפור לאורך זמן."
     },
     "collaborators": {
-      "title": "Manage Collaborators",
-      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+      "title": "ניהול שותפים",
+      "content": "הזמן כותבים אחרים לשתף פעולה בסיפור שלך. הקצה תפקידים והרשאות שונים, תאם את מאמצי הכתיבה ונהל את הצוות היצירתי שלך. מושלם לפרויקטים של כתיבה קבוצתית."
     },
     "translations": {
-      "title": "Translation Management",
-      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+      "title": "ניהול תרגומים",
+      "content": "תאם את תרגום הסיפור שלך לשפות אחרות. נהל מתרגמים, עקוב אחרי התקדמות התרגום והנגש את הסיפור שלך לקהל עולמי."
     },
     "monetization": {
-      "title": "Revenue Settings",
-      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+      "title": "הגדרות הכנסה",
+      "content": "הגדר איך אתה מרוויח מהסיפור שלך. הגדר פרקים בתשלום, נהל אפשרויות מנוי וקבע חלוקת הכנסות עם שותפים. הפוך את הכתיבה שלך להכנסה."
     },
     "settings": {
-      "title": "Story Settings",
-      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+      "title": "הגדרות הסיפור",
+      "content": "קבע את הגדרות הליבה של הסיפור שלך, כולל פרטיות, אפשרויות פרסום, קטגוריות והעדפות בסיסיות נוספות. ההגדרות האלה קובעות איך הסיפור שלך נראה ופועל."
     },
     "notes": {
-      "title": "Overview Notes",
-      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+      "title": "הערות סקירה כללית",
+      "content": "תעד את המבנה הכללי של הסיפור, נקודות העלילה, קשתות הדמויות והערות חשובות. זהו מרחב התכנון האישי שלך לארגון העלילה."
     },
     "challenges": {
-      "title": "Personal Writing Challenges",
-      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+      "title": "אתגרי כתיבה אישיים",
+      "content": "הצב יעדי כתיבה אישיים ועקוב אחרי ההתקדמות בעזרת אתגרים. קבע יעדי מילים יומיים או שבועיים, הגדר מועדי סיום לפרקים ועודד את עצמך לשמור על הרגלי כתיבה קבועים. זהו הכלי הפרטי שלך לעמידה בלוח הזמנים של הכתיבה."
     },
     "storylines": {
-      "title": "Storylines Management",
-      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+      "title": "ניהול קווי עלילה",
+      "content": "ארגן את הסיפור שלך בקווי עלילה ובחוטים שונים. עקוב אחרי קשתות דמויות, עלילות משנה ומרכיבי עלילה. מושלם לסיפורים מורכבים עם מרכיבים רבים שקשורים זה בזה."
     },
     "scenesManager": {
-      "title": "Scenes Manager",
-      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+      "title": "מנהל הסצינות",
+      "content": "ארגן ונהל סצינות בודדות בתוך הפרקים שלך. עקוב אחרי התקדמות הסצינות, שנה את סדרן ושמור על הזרימה של מבנה העלילה."
     },
     "legal": {
-      "title": "Legal Documents",
-      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+      "title": "מסמכים משפטיים",
+      "content": "גישה למסמכים משפטיים חשובים שקשורים לסיפור שלך, כולל מידע על זכויות יוצרים, הסכמי הוצאה לאור וניהול זכויות. שמור על סדר בעניינים המשפטיים שלך."
     },
     "publicVersion": {
-      "title": "Public Version",
-      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+      "title": "גרסה ציבורית",
+      "content": "צפה בסיפור שלך כפי שהוא נראה לקוראים באתר הציבורי. בדוק את העיצוב, נסה את הקישורים וודא שהכול נראה מושלם לפני שאתה משתף אותו עם הקהל שלך."
     },
     "sharing": {
-      "title": "Share Your Story",
-      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+      "title": "שתף את הסיפור שלך",
+      "content": "שתף את הסיפור שלך ברשתות החברתיות עם טקסטים וקישורים שהוכנו מראש לפלטפורמות הפופולריות. קבל תוכן מוכן לשימוש שמציג את היצירה שלך ועוזר לך להגיע לקוראים חדשים ברשתות חברתיות שונות."
     },
     "resolutionCenter": {
-      "title": "Resolution Center",
-      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+      "title": "מרכז הפתרונות",
+      "content": "טפל במחלוקות משפטיות, בהפרות של תנאי השימוש או בבעיות אחרות שקשורות לסיפור שלך. המרכז הזה מרכז את כל הבעיות שדווחו ומספק כלים ליישוב סכסוכים ולשמירה על סביבה קהילתית חיובית."
     },
     "statuses": {
-      "title": "Story Status Management",
-      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+      "title": "ניהול סטטוס הסיפור",
+      "content": "שלוט בסטטוס הפרסום של הסיפור שלך בעזרת האפשרויות החשובות האלה. \"פעיל\" פירושו שהסיפור מתעדכן באופן קבוע. \"בהשהייה\" מציין הפסקה זמנית. \"מבוטל\" פירושו שהפסקת לכתוב אותו. \"הסתיים\" מסמן שהסיפור הושלם. בחר את הסטטוס שמשקף הכי טוב את מצב הכתיבה הנוכחי שלך. לתשומת לבך: סיפורים עוברים אוטומטית ל\"בהשהייה\" אחרי 6 חודשים ללא התפתחות, ול\"מבוטל\" אחרי 6 חודשים נוספים ללא פעילות."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+      "title": "מוכן להתחיל לכתוב?",
+      "content": "עכשיו אתה יודע איך לנהל כל היבט של הסיפור שלך. התחל בהוספת הפרק הראשון, ואז הכר את הכלים השונים שעומדים לרשותך. הסיפור שלך מחכה שתכתוב אותו!"
     }
   },
   "storyEditor": {
-    "title": "Story Editor Tour",
+    "title": "סיור בעורך הסיפורים",
     "welcome": {
-      "title": "Welcome to the Story Editor!",
-      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+      "title": "ברוך הבא לעורך הסיפורים!",
+      "content": "זהו מרחב הכתיבה שבו תיצור את הסיפורים שלך. העורך מספק כלים חזקים שעוזרים לכתוב, לארגן ולפרסם את היצירה שלך. בוא נכיר את התכונות המרכזיות."
     },
     "textSize": {
-      "title": "Text Size Control",
-      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+      "title": "שליטה בגודל הטקסט",
+      "content": "התאם את גודל הטקסט לקריאה נוחה בזמן הכתיבה. החלף בין טקסט רגיל לגדול כדי להפחית את מאמץ העיניים בזמן כתיבה ממושכת."
     },
     "darkMode": {
-      "title": "Dark Mode Toggle",
-      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+      "title": "מתג מצב כהה",
+      "content": "החלף בין ערכת נושא בהירה לכהה. מצב כהה נוח יותר לעיניים בכתיבה בשעות הלילה ועוזר לשמור על ריכוז."
     },
     "accessibility": {
-      "title": "Accessibility Tools",
-      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+      "title": "כלי נגישות",
+      "content": "גישה לגופנים ידידותיים לדיסלקציה, להדגשת פסקאות ולתכונות נגישות נוספות, לנוחותך."
     },
     "asideToggle": {
-      "title": "Toggle Aside Panel",
-      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+      "title": "הצגה והסתרה של חלונית הצד",
+      "content": "הצג או הסתר את חלונית הצד. החלונית כוללת כלים שימושיים כמו מחברת הטיוטה, הערות הסיפור, האנציקלופדיה, התגובות ועוזר הבינה המלאכותית."
     },
     "fullscreen": {
-      "title": "Fullscreen Mode",
-      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+      "title": "מצב מסך מלא",
+      "content": "עבור למצב מסך מלא כדי להגדיל את מרחב הכתיבה ולהרחיק הסחות דעת. מושלם לכתיבה בריכוז מלא."
     },
     "saveButton": {
-      "title": "Save Your Work",
-      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+      "title": "שמור את העבודה שלך",
+      "content": "הטיוטה שלך נשמרת אוטומטית. העבודה נשמרת תוך כדי הקלדה, אבל אפשר גם לשמור ידנית בכל רגע."
     },
     "publishMenu": {
-      "title": "Publishing Options",
-      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+      "title": "אפשרויות פרסום",
+      "content": "כשסיימת את הטיוטה, הגיע הזמן ליצור גרסה. אפשר ליצור גרסה לקוראי בטא או לקהל הרחב. כשתחליט לפרסם, אתה קובע מתי הפרק יעלה לאוויר."
     },
     "chapterTitle": {
-      "title": "Chapter Title",
-      "content": "Click on the title to edit its name."
+      "title": "כותרת הפרק",
+      "content": "לחץ על הכותרת כדי לערוך אותה."
     },
     "authorsNotes": {
       "title": "Author's Notes",
-      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+      "content": "כתוב הערות אישיות על הפרק או סתם הודעה לקהל. ההערות יוצגו לקוראים לפני הפרק (בדיוק כמו כאן), וזו דרך יעילה לפרסם הודעות או לשתף מחשבות על הסיפור עד כה."
     },
     "storyText": {
-      "title": "Main Story Text",
-      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+      "title": "הטקסט הראשי של הסיפור",
+      "content": "זהו אזור הכתיבה הראשי שלך, שבו הסיפור קם לתחייה. כתוב כאן את תוכן הפרק, עם כל היכולות של עריכת טקסט עשיר."
     },
     "asidePanel": {
-      "title": "Sidebar Toolbox",
-      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+      "title": "ארגז הכלים של חלונית הצד",
+      "content": "חלונית הצד כוללת כלים ומידע שימושיים. השתמש בתפריט שבראשה כדי לעבור בין תצוגות שונות, כמו מחברת הטיוטה, הפניות לאנציקלופדיה, תגובות ועוזר הבינה המלאכותית."
     },
     "scratchpad": {
-      "title": "Personal Scratchpad",
-      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+      "title": "מחברת טיוטה אישית",
+      "content": "מחברת הטיוטה האישית שלך זמינה תמיד לרישום רעיונות, הערות או השראה. שמור בה מחשבות שלא מתאימות לסיפור הראשי אבל עשויות להועיל בהמשך."
     },
     "asideNotes": {
-      "title": "Story Notes",
-      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+      "title": "הערות הסיפור",
+      "content": "גישה להערות הכלליות ולחומרי התכנון של הסיפור שלך. תעד קווי מתאר של העלילה, קשתות דמויות, פרטי בניית עולם ומידע ארגוני נוסף."
     },
     "encyclopedia": {
-      "title": "Encyclopedia Access",
-      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+      "title": "גישה לאנציקלופדיה",
+      "content": "גישה מהירה לאנציקלופדיה של היקום שלך. עיין בפרטי דמויות, במקומות, ברקע ובמרכיבים נוספים של בניית העולם בזמן הכתיבה. הכפתורים האחרים כאן מאפשרים לחפש ולהוסיף ערכים חדשים."
     },
     "comments": {
-      "title": "Chapter Comments",
-      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+      "title": "תגובות על הפרק",
+      "content": "צפה בתגובות על הפרק הזה מקוראי בטא, משותפים ומקוראים אחרים, והשב להן. היה בקשר עם הקהל שלך וקבל משוב חשוב."
     },
     "todo": {
       "title": "Todos & Task",
-      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+      "content": "לפני הפרסום יש כמה דברים חשובים שכדאי לבדוק. כאן מסתתרות רשימת משימות לפני פרסום ועוד כמה בדיקות קטנות ומעניינות."
     },
     "ai": {
-      "title": "AI Writing Assistant",
-      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+      "title": "עוזר בינה מלאכותית",
+      "content": "שאל את העוזר על הסיפור, היקום והאנציקלופדיה שלך. הוא יכול לבדוק עקביות, להגיה קטע או לחפש מידע. הוא עונה על שאלות בנוגע לכתיבה שלך ואינו כותב במקומך. הוא פועל עם מפתח ה-API שלך, שאותו מוסיפים בהגדרות."
     },
     "getStarted": {
-      "title": "Ready to Start Writing?",
-      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+      "title": "מוכן להתחיל לכתוב?",
+      "content": "עכשיו אתה יודע להשתמש בכל התכונות החזקות של עורך הסיפורים. התחל לכתוב את הפרק שלך והכר את הכלים לפי הצורך. אם תצטרך עזרה, עיין בעמודי העזרה שלנו או בדרכו של הסופר, או פנה אלינו. ועכשיו, בוא נכתוב סיפורים!"
     }
   },
   "storyTranslator": {
-    "title": "Story Translator Tour",
+    "title": "סיור במתרגם הסיפורים",
     "welcome": {
-      "title": "Welcome to the Story Translator!",
-      "content": "Let’s take a quick look around. Use this workspace to translate the original text while keeping reference material at your fingertips."
+      "title": "ברוך הבא למתרגם הסיפורים!",
+      "content": "בוא נציץ סביב. השתמש במרחב העבודה הזה כדי לתרגם את טקסט המקור, כשחומרי העזר נמצאים בהישג יד."
     },
     "originalColumn": {
-      "title": "Original Text on the Left",
-      "content": "The left side shows the original chapter and author notes. Keep it open as your reference while you work."
+      "title": "טקסט המקור לצד התרגום",
+      "content": "העמודה הזאת מציגה את הפרק המקורי ואת הערות המחבר. השאר אותה פתוחה כמקור להשוואה בזמן העבודה."
     },
     "translationColumn": {
-      "title": "Translate on the Right",
-      "content": "Write your translation on the right. Everything you save here becomes the version that readers of this language will see."
+      "title": "תרגם בעמודה שממול",
+      "content": "כתוב את התרגום שלך בעמודה הזאת. כל מה שתשמור כאן יהפוך לגרסה שיראו הקוראים בשפה הזאת."
     },
     "encyclopedia": {
-      "title": "Universe Encyclopedia Access",
-      "content": "Need lore or terminology? In our sidebar you can find access to the universe encyclopedia to get a better understanding of the universe."
+      "title": "גישה לאנציקלופדיה של היקום",
+      "content": "צריך רקע או מונחים? בסרגל הצד יש גישה לאנציקלופדיה של היקום, שתעזור לך להבין אותו טוב יותר."
     }
   },
   "encyclopedia": {
-    "title": "Welcome to the Encyclopedia",
+    "title": "ברוך הבא לאנציקלופדיה",
     "welcome": {
-      "title": "Your Universe Encyclopedia",
-      "content": "Welcome to your encyclopedia! This is where you organize all the knowledge about your universe and share them with your fans."
+      "title": "האנציקלופדיה של היקום שלך",
+      "content": "ברוך הבא לאנציקלופדיה שלך! כאן מארגנים את כל הידע על היקום שלך ומשתפים אותו עם המעריצים."
     },
     "tabs": {
-      "title": "Organize Your Content",
-      "content": "Switch between \"Categories\" and \"Groups\" views. Categories show entries organized by type (Characters, Locations, etc.), while Groups let you view entries by their custom field groupings that is set by parent entries and so on."
+      "title": "ארגן את התוכן שלך",
+      "content": "עבור בין התצוגות \"קטגוריות\" ו\"קבוצות\". קטגוריות מציגות ערכים לפי סוג (דמויות, מקומות וכדומה), ואילו קבוצות מציגות ערכים לפי קיבוצי השדות המותאמים שלהם, שנקבעים על ידי ערכי האב, וכן הלאה."
     },
     "categories": {
-      "title": "Your Categories",
-      "content": "Here are your encyclopedia categories. Each category has its own template for organizing information. Click on any category to expand it and see the entries within."
+      "title": "הקטגוריות שלך",
+      "content": "אלה הקטגוריות של האנציקלופדיה שלך. לכל קטגוריה יש תבנית משלה לארגון מידע. לחץ על קטגוריה כלשהי כדי להרחיב אותה ולראות את הערכים שבה."
     },
     "search": {
-      "title": "Find What You Need",
-      "content": "Use the search to quickly find any entry in your encyclopedia. Search by name, content, or tags to locate information instantly."
+      "title": "מצא את מה שאתה צריך",
+      "content": "השתמש בחיפוש כדי למצוא במהירות כל ערך באנציקלופדיה. חפש לפי שם, תוכן או תגיות כדי לאתר מידע מיד."
     },
     "add": {
-      "title": "Create New Entries",
-      "content": "Add new entries to your encyclopedia. Each category has its own form template to get you started, but you can adjust them as you wish."
+      "title": "צור ערכים חדשים",
+      "content": "הוסף ערכים חדשים לאנציקלופדיה שלך. לכל קטגוריה יש תבנית טופס משלה שעוזרת להתחיל, ואפשר לשנות אותה כרצונך."
     },
     "settings": {
-      "title": "Customize Your Encyclopedia",
-      "content": "Make sure to check your encyclopedia settings to select which categories you want to use, set welcome message and set other encyclopedia details."
+      "title": "התאם את האנציקלופדיה שלך",
+      "content": "כדאי לעבור על הגדרות האנציקלופדיה כדי לבחור באילו קטגוריות להשתמש, לקבוע הודעת פתיחה ולהגדיר פרטים נוספים של האנציקלופדיה."
     },
     "finish": {
       "title": "Ready to Create!",
-      "content": "Now you know the basics! Return to your workshop to continue building your universe, or start adding entries to your encyclopedia. Happy writing!"
+      "content": "עכשיו אתה מכיר את היסודות! חזור לסדנה כדי להמשיך לבנות את היקום שלך, או התחל להוסיף ערכים לאנציקלופדיה. כתיבה מהנה!"
     }
   },
   "betaReader": {
-    "title": "Beta Reader Guide",
+    "title": "מדריך לקורא בטא",
     "welcome": {
-      "title": "Welcome to Beta Reading!",
-      "content": "As a beta reader, you play a crucial role in helping authors improve their stories. Your feedback helps catch issues, improve clarity, and make stories more enjoyable for readers. This guide will show you how to navigate the beta reading interface and provide effective feedback."
+      "title": "ברוך הבא לקריאת בטא!",
+      "content": "כקורא בטא יש לך תפקיד מרכזי בעזרה למחברים לשפר את הסיפורים שלהם. המשוב שלך עוזר לאתר בעיות, לשפר את הבהירות ולהפוך את הסיפורים למהנים יותר לקוראים. המדריך הזה יראה לך איך להתמצא בממשק קריאת הבטא ואיך לתת משוב מועיל."
     },
     "comments": {
-      "title": "Your Primary Communication Tool",
-      "content": "This is where you leave comments for the author! Click here to open the comments panel. You can add general chapter feedback, highlight specific passages, ask questions, or suggest improvements. Your comments are the main way you communicate with the author."
+      "title": "כלי התקשורת העיקרי שלך",
+      "content": "כאן משאירים תגובות למחבר! לחץ כאן כדי לפתוח את חלונית התגובות. אפשר להוסיף משוב כללי על הפרק, לסמן קטעים מסוימים, לשאול שאלות או להציע שיפורים. התגובות שלך הן הדרך העיקרית לתקשר עם המחבר."
     },
     "commentsInterface": {
-      "title": "Commenting Interface",
-      "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
+      "title": "ממשק התגובות",
+      "content": "בחלונית התגובות אפשר לראות משוב קיים מקוראי בטא אחרים ולהוסיף משוב משלך. השתמש בתיבת התגובה שבתחתית כדי לשתף את המחשבות שלך. פרט מה עובד טוב ומה אפשר לשפר – משוב בונה הוא המועיל ביותר!"
     },
     "readingTools": {
-      "title": "Reading Tools",
-      "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."
+      "title": "כלי קריאה",
+      "content": "השתמש בכלים האלה כדי להתאים את חוויית הקריאה שלך. אפשר לשנות את גודל הטקסט, להפעיל מצב כהה ולהפעיל תכונות נגישות כמו הגופן Open Dyslexic או הדגשת פסקאות, כדי שהקריאה תהיה נוחה יותר."
     },
     "getStarted": {
-      "title": "Ready to Provide Feedback?",
-      "content": "Now you know how to navigate the beta reading interface and use the comments feature to communicate with authors. Start by reading the chapter, then open the sidebar and share your thoughtful feedback. Your input helps authors create better stories!"
+      "title": "מוכן לתת משוב?",
+      "content": "עכשיו אתה יודע איך להתמצא בממשק קריאת הבטא ואיך להשתמש בתגובות כדי לתקשר עם מחברים. התחל בקריאת הפרק, ואז פתח את סרגל הצד ושתף משוב מעמיק. התרומה שלך עוזרת למחברים ליצור סיפורים טובים יותר!"
     }
   }
 }

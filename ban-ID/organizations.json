@@ -300,5 +300,9 @@
   "org.setup.closed": "Penyiapan sané nénten kaanggén puniki sampun katutup tur alamat organisasinnyané sampun kalepas. Cathetan ragané kasimpen iriki.",
   "org.setup.restart": "Ngawitin penyiapan organisasi sané anyar",
   "org.setup.expiryNotice": "Alamat organisasi sané nénten kaanggén kalepas sasampun 30 rahina. Ragané taler prasida ngebuang penyiapan puniki mangkin.",
-  "org.setup.inUse": "Penyiapan puniki madue aktivitas pamayahan utawi pencairan dana. Antosang kantos checkout sané kantun kabuka kedaluwarsa, utawi hubungi dukungan sadurung nutup punika."
+  "org.setup.inUse": "Penyiapan puniki madue aktivitas pamayahan utawi pencairan dana. Antosang kantos checkout sané kantun kabuka kedaluwarsa, utawi hubungi dukungan sadurung nutup punika.",
+  "org.establish.requestReceived": "Your Circle application is ready for review. Check this page for updates.",
+  "orgConnect.payouts.notifications": "Stripe notifications",
+  "orgConnect.payouts.account": "Payout account",
+  "orgConnect.payouts.balance": "Balance and payouts"
 }

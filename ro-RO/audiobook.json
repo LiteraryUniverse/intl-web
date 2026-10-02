@@ -113,5 +113,7 @@
   "audiobook.team.voiceActors": "Actori de voce",
   "audiobook.team.you": "tu",
   "audiobook.whereToListen": "Unde să asculți",
+  "audiobook.team.members": "Membrii echipei",
+  "audiobook.team.noMembers": "Încă nu există membri în echipă.",
   "audiobook.orgFeatureDisabled": "Cărțile audio nu sunt activate pentru această organizație."
 }
