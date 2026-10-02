@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "വായനാ വേഗത (മിനിറ്റിൽ വാക്കുകൾ)",
+  "settings.languages.wordsPerMinuteExplained": "ഒരു കഥ വായിക്കാൻ നിങ്ങൾക്ക് എത്ര സമയമെടുക്കുമെന്ന് കണക്കാക്കാൻ ഞങ്ങൾ ഇത് ഉപയോഗിക്കുന്നു. മിനിറ്റിൽ {average, number} വാക്കുകൾ എന്ന ശരാശരി ഉപയോഗിക്കാൻ ഇത് ശൂന്യമായി വിടുക. നിങ്ങളുടെ വേഗത അറിയില്ലേ? <a>നിങ്ങളുടെ വായനാ വേഗത അളക്കുക</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

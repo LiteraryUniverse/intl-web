@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "പരസ്യത്തിലുള്ള കഥകള്‍",
   "story.estimatedReadingTime": "ഈ കഥ {hours, plural,\n        =0 {}\n        one {1 മണിക്കൂർ ആക്കിയിരിക്കും എന്നാൽ }\n        other {# മണിക്കൂർക്ക് കൂടുതൽ സമയം ആവശ്യമാണ് എന്നാണ് }\n    }{minutes, plural,\n        =0 {0 മിനിറ്റ്}\n        one {1 മിനിറ്റ്}\n        other {# മിനിറ്റുകൾ}\n    } വായിക്കാൻ എടുക്കണം.",
   "story.estimatedReadingTime.explained": "ശരാശരി വായന വേഗതയിൽ {avgReadingNum, number} വാക്കുകൾ പ്രതിമിനിടയാണ് അടിയന്തരം നൽകുന്നത്.",
+  "story.estimatedReadingTime.explainedPersonal": "മിനിറ്റിൽ {wpm, number} വാക്കുകൾ എന്ന നിങ്ങളുടെ വായനാ വേഗതയെ അടിസ്ഥാനമാക്കി.",
   "discover.search.text": "തിരയൽ പദം",
   "discover.searchStory.title": "ഒരു കഥയിലേക്ക് തിരയൽ",
   "discover.searchStory.description": "കഥകൾ തിരയൽ",

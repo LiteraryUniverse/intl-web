@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "Kelajuan membaca (patah perkataan seminit)",
+  "settings.languages.wordsPerMinuteExplained": "Kami menggunakannya untuk menganggarkan tempoh yang anda perlukan untuk membaca sesebuah cerita. Biarkan kosong untuk menggunakan purata {average, number} patah perkataan seminit. Tidak pasti kelajuan anda? <a>Ukur kelajuan membaca anda</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

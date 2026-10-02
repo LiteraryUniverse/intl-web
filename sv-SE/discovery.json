@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Berättelser i grannskapet",
   "story.estimatedReadingTime": "Denna berättelse bör ta {hours, plural,\n        =0 {}\n        one {1 timme och }\n        other {# timmar och }\n    }{minutes, plural,\n        =0 {0 minuter}\n        one {1 minut}\n        other {# minuter}\n    } att läsa.",
   "story.estimatedReadingTime.explained": "Baserat på en genomsnittlig läshastighet på {avgReadingNum, number} ord per minut.",
+  "story.estimatedReadingTime.explainedPersonal": "Baserat på din läshastighet på {wpm, number} ord per minut.",
   "discover.search.text": "Sökterm",
   "discover.searchStory.title": "Sök efter en berättelse",
   "discover.searchStory.description": "Sök efter berättelser",

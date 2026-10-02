@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Histórias nas redondezas",
   "story.estimatedReadingTime": "Esta história deverá demorar {hours, plural,\n        =0 {}\n        one {1 hora e }\n        other {# horas e }\n    }{minutes, plural,\n        =0 {0 minutos}\n        one {1 minuto}\n        other {# minutos}\n    } a ler.",
   "story.estimatedReadingTime.explained": "Com base numa velocidade de leitura média de {avgReadingNum, number} palavras por minuto.",
+  "story.estimatedReadingTime.explainedPersonal": "Com base na sua velocidade de leitura de {wpm, number} palavras por minuto.",
   "discover.search.text": "Pesquisar termo",
   "discover.searchStory.title": "Procurar uma história",
   "discover.searchStory.description": "Procurar histórias",

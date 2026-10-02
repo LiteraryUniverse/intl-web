@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Povești în vecinătate",
   "story.estimatedReadingTime": "Această poveste ar trebui să dureze {hours, plural,\n        =0 {}\n        one {1 oră și }\n        other {# ore și }\n    }{minutes, plural,\n        =0 {0 minute}\n        one {1 minut}\n        other {# minute}\n    } pentru a citi.",
   "story.estimatedReadingTime.explained": "Pe baza unei viteze medii de citire de {avgReadingNum, number} cuvinte pe minut.",
+  "story.estimatedReadingTime.explainedPersonal": "Pe baza vitezei dumneavoastră de citire de {wpm, number} de cuvinte pe minut.",
   "discover.search.text": "Termen de căutare",
   "discover.searchStory.title": "Caută o poveste",
   "discover.searchStory.description": "Caută povești",

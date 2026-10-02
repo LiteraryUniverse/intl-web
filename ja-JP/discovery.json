@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "他で発表されているストーリ",
   "story.estimatedReadingTime": "この物語は{hours, plural,\n        =0 {}\n        one {1時間と}\n        other {#時間と}\n    }{minutes, plural,\n        =0 {0分}\n        one {1分}\n        other {#分}\n    }で読めると思います",
   "story.estimatedReadingTime.explained": "平均読取速度、毎分{avgReadingNum, number}文字に基づいて計算されています。",
+  "story.estimatedReadingTime.explainedPersonal": "あなたの読書速度（毎分{wpm, number}語）に基づいています。",
   "discover.search.text": "語句の検索",
   "discover.searchStory.title": "物語を探す",
   "discover.searchStory.description": "物語を探す",

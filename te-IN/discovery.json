@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "ప్రాంతంలో కథలు",
   "story.estimatedReadingTime": "ఈ కథ చదవడానికి {hours, plural,\n        =0 {}\n        one {1 గంట  మరియు }\n        other {# గంటలు మరియు }\n    }{minutes, plural,\n        =0 {0 నిమిషాలు}\n        one {1 నిమిషం}\n        other {# నిమిషాలు}\n    } చదవడానికి పడితే సాకుండాలు.",
   "story.estimatedReadingTime.explained": "సగటు వరుసగా {avgReadingNum, number} పదాల ప్రతి నిమిషం చదవడం ఆధారంగా ఉంది.",
+  "story.estimatedReadingTime.explainedPersonal": "నిమిషానికి {wpm, number} పదాలు అనే మీ పఠన వేగం ఆధారంగా.",
   "discover.search.text": "శోధన పదం",
   "discover.searchStory.title": "ఒక కథకు శోధించండి",
   "discover.searchStory.description": "కథలకు శోధించండి",

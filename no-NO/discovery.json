@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Historier i nabolaget",
   "story.estimatedReadingTime": "Denne historien bør ta {hours, plural,\n        =0 {}\n        one {1 time og }\n        other {# timer og }\n    }{minutes, plural,\n        =0 {0 minutter}\n        one {1 minutt}\n        other {# minutter}\n    } å lese.",
   "story.estimatedReadingTime.explained": "Basert på en gjennomsnittlig lesehastighet på {avgReadingNum, number} ord per minutt.",
+  "story.estimatedReadingTime.explainedPersonal": "Basert på lesehastigheten din på {wpm, number} ord per minutt.",
   "discover.search.text": "Søketerm",
   "discover.searchStory.title": "Søk etter en historie",
   "discover.searchStory.description": "Søk etter historier",

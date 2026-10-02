@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "介面語言",
   "settings.languages.readingLanguage": "閱讀語言",
   "settings.languages.readingLanguageExplained": "查找故事時，除非您另有指定，否則我們將為您提供此語言的故事及其翻譯。",
+  "settings.languages.wordsPerMinute": "閱讀速度（每分鐘字數）",
+  "settings.languages.wordsPerMinuteExplained": "我們會用這個數值估算您讀完一篇故事所需的時間。留空則使用每分鐘 {average, number} 字的平均值。不確定自己的速度？<a>測量您的閱讀速度</a>。",
   "settings.biography.help": "向他人介紹自己",
   "settings.username.help": "您在平台上的唯一使用者名稱",
   "settings.interests.tags.custom.help": "輸入以逗號分隔的標籤清單",

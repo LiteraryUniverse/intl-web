@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "पडद्यातील कथा",
   "story.estimatedReadingTime": "ही कथा वाचण्यासाठी {hours, plural,\n        =0 {}\n        one {1 तास आणि }\n        other {# तास आणि }\n    }{minutes, plural,\n        =0 {0 मिनिटे}\n        one {1 मिनिट}\n        other {# मिनिटे}\n    } लागतील.",
   "story.estimatedReadingTime.explained": "प्रतिमितील औसत वाचनशीलतेनुसार {avgReadingNum, number} शब्द प्रति मिनिटे.",
+  "story.estimatedReadingTime.explainedPersonal": "तुमच्या प्रति मिनिट {wpm, number} शब्द या वाचन गतीवर आधारित.",
   "discover.search.text": "शोधशब्द",
   "discover.searchStory.title": "कथा शोधा",
   "discover.searchStory.description": "कथांची शोध करा",

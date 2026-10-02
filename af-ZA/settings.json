@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "Leesspoed (woorde per minuut)",
+  "settings.languages.wordsPerMinuteExplained": "Ons gebruik dit om te skat hoe lank dit u sal neem om ’n storie te lees. Laat dit leeg om die gemiddeld van {average, number} woorde per minuut te gebruik. Nie seker oor u eie spoed nie? <a>Meet u leesspoed</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

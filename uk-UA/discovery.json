@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Історії неподалік",
   "story.estimatedReadingTime": "Ця історія займе {hours, plural,\n        =0 {}\n        one {1 годину і }\n        few {# годин і }\n        many {# годин і }\n        other {# годин і }\n    }{minutes, plural,\n        =0 {0 хвилин}\n        one {1 хвилину}\n        few {# хвилин}\n        many {# хвилин}\n        other {# хвилин}\n    } на читання.",
   "story.estimatedReadingTime.explained": "На основі середньої швидкості читання {avgReadingNum, number} слів за хвилину.",
+  "story.estimatedReadingTime.explainedPersonal": "На основі вашої швидкості читання: {wpm, number} слів за хвилину.",
   "discover.search.text": "Пошуковий запит",
   "discover.searchStory.title": "Знайти історію",
   "discover.searchStory.description": "Знайти історії",

@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Storie in circolazione",
   "story.estimatedReadingTime": "Questa storia si legge in {hours, plural,\n        =0 {}\n        one { 1 ora e }\n        other {# ore e }\n    }{minutes, plural,\n        =0 {0 minuti}\n        one {1 minuto}\n        other {# minuti}\n    }.",
   "story.estimatedReadingTime.explained": "Secondo una velocità di lettura media di {avgReadingNum, number} parole al minuto.",
+  "story.estimatedReadingTime.explainedPersonal": "In base alla sua velocità di lettura di {wpm, number} parole al minuto.",
   "discover.search.text": "Cerca un termine",
   "discover.searchStory.title": "Cerca una storia",
   "discover.searchStory.description": "Cerca delle storie",

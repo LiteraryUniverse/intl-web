@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "গল্পসমূহ এলাকায়",
   "story.estimatedReadingTime": "এই গল্পটি পড়ার জন্য প্রাকশ্যে {hours, plural,\n        =0 {}\n        one {1 ঘণ্টা নেবে এবং }\n        other {# ঘন্টা আপেক্ষিকভাবে এবং }\n    }{minutes, plural,\n        =0 {0 মিনিট এবং}\n        one {1 মিনিট এবং}\n        other {# মিনিট এবং}\n    } পড়া হবে।",
   "story.estimatedReadingTime.explained": "প্রতি মিনিটে {avgReadingNum, number} শব্দ পড়ার গড়মাত্রায় ভিত্তি করে।",
+  "story.estimatedReadingTime.explainedPersonal": "আপোনাৰ প্ৰতি মিনিটত {wpm, number} শব্দ পঢ়াৰ গতিৰ ভিত্তিত।",
   "discover.search.text": "অনুসন্ধানের শব্দ",
   "discover.searchStory.title": "গল্প অনুসন্ধান করুন",
   "discover.searchStory.description": "গল্প অনুসন্ধান করুন",

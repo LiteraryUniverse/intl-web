@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Geschichten aus der Nachbarschaft",
   "story.estimatedReadingTime": "Diese Geschichte sollte {hours, plural,\n        =0 {}\n        one {1 Stunde und }\n        other {# Stunden und }\n    }{minutes, plural,\n        =0 {0 Minuten}\n        one {1 Minute}\n        other {# Minuten}\n    } zum Lesen brauchen.",
   "story.estimatedReadingTime.explained": "Basierend auf einer durchschnittlichen Lesegeschwindigkeit von {avgReadingNum, number} Wörtern pro Minute.",
+  "story.estimatedReadingTime.explainedPersonal": "Basierend auf Ihrer Lesegeschwindigkeit von {wpm, number} Wörtern pro Minute.",
   "discover.search.text": "Suchbegriff",
   "discover.searchStory.title": "Suche nach Geschichte",
   "discover.searchStory.description": "Suche nach einer Geschichte",

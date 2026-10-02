@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Sąsajos kalba",
   "settings.languages.readingLanguage": "Skaitymo kalba",
   "settings.languages.readingLanguageExplained": "Ieškodami istorijų, pasiūlysime jums istorijas ir jų vertimus šia kalba, nebent nurodysite kitaip.",
+  "settings.languages.wordsPerMinute": "Skaitymo greitis (žodžių per minutę)",
+  "settings.languages.wordsPerMinuteExplained": "Pagal tai įvertiname, kiek laiko užtruksite skaitydami istoriją. Palikite tuščią, jei norite naudoti vidurkį – {average, number} žodžių per minutę. Nežinote savojo? <a>Išmatuokite savo skaitymo greitį</a>.",
   "settings.biography.help": "Papasakokite kitiems apie save",
   "settings.username.help": "Jūsų unikalus naudotojo vardas platformoje",
   "settings.interests.tags.custom.help": "Įveskite kableliais atskirtą žymų sąrašą",

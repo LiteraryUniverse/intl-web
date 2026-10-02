@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "מהירות קריאה (מילים בדקה)",
+  "settings.languages.wordsPerMinuteExplained": "אנחנו משתמשים בנתון הזה כדי להעריך כמה זמן ייקח לכם לקרוא סיפור. השאירו ריק כדי להשתמש בממוצע של {average, number} מילים בדקה. לא בטוחים מה המהירות שלכם? <a>מדדו את מהירות הקריאה שלכם</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

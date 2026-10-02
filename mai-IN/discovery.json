@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "पड़ोसमा कथाहरू",
   "story.estimatedReadingTime": "यह कथा {hours, plural,\n        =0 {}\n        one {1 घंटा और }\n        other {घंटे और }\n    }{minutes, plural,\n        =0 {0 मिनट}\n        one {1 मिनट}\n        other {# मिनट}\n    } में पढ़ने के लिए होनी चाहिए।",
   "story.estimatedReadingTime.explained": "{avgReadingNum, number} शब्द प्रति मिनट के औसत पठन गति के आधार पर।",
+  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
   "discover.search.text": "खोजी शब्द",
   "discover.searchStory.title": "कथामा खोजी गर्नुहोस्",
   "discover.searchStory.description": "कथामा खोजी गर्नुहोस्",

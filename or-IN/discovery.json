@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "ସମୀପରେ କାହାଣୀଗୁଡିକ",
   "story.estimatedReadingTime": "ଏହା କଥା ପଢ଼ିବା କଲେ {hours, plural,\n        =0 {}\n        one {1 ଘଣ୍ଟା ଏବଂ }\n        other {# ଘଣ୍ଟା ଏବଂ }\n    }{minutes, plural,\n        =0 {0 ମିନିଟ ଏବଂ}\n        one {1 ମିନିଟ ଏବଂ}\n        other {# ମିନିଟ ଏବଂ}\n    } ପଢିବାରେ ।",
   "story.estimatedReadingTime.explained": "ପ୍ରତ୍ୟେକ ମିନିଟରେ {avgReadingNum, number} ଶବ୍ଦ ପଢ଼ିବା ସ୍ଥଳେ ଆଧାରିତ ।",
+  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
   "discover.search.text": "ଖୋଜ ଶବ୍ଦ",
   "discover.searchStory.title": "ଏକ ଗଳ୍ପ ଖୋଜନ୍ତୁ",
   "discover.searchStory.description": "ଗଳ୍ପଗୁଡ଼ିକା ଖୋଜନ୍ତୁ",

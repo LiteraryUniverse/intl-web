@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Istorijos kaimynystėje",
   "story.estimatedReadingTime": "Tai istorija turėtų užtrukti {hours, plural,\n        =0 {}\n        one {1 valandą ir }\n        other {# valandos ir }\n    }{minutes, plural,\n        =0 {0 minutės}\n        one {1 minutė}\n        other {# minutes}\n    } skaityti.",
   "story.estimatedReadingTime.explained": "Remiantis vidutine skaitymo greičiu {avgReadingNum, number} žodžių per minutę.",
+  "story.estimatedReadingTime.explainedPersonal": "Remiantis jūsų skaitymo greičiu – {wpm, number} žodžių per minutę.",
   "discover.search.text": "Paieškos terminas",
   "discover.searchStory.title": "Ieškoti istorijos",
   "discover.searchStory.description": "Ieškoti istorijų",

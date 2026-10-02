@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "قصص في الحي",
   "story.estimatedReadingTime": "يجب أن تستغرق هذه القصة {hours, plural,\n        =0 {}\n        one {1 ساعة و }\n        other {# ساعات و }\n    }{minutes, plural,\n        =0 {0 دقائق}\n        one {1 دقيقة}\n        other {# دقائق}\n    } للقراءة.",
   "story.estimatedReadingTime.explained": "استنادًا إلى سرعة قراءة متوسطة تبلغ {avgReadingNum, number} كلمة في الدقيقة.",
+  "story.estimatedReadingTime.explainedPersonal": "بناءً على سرعة قراءتك البالغة {wpm, number} كلمة في الدقيقة.",
   "discover.search.text": "مصطلح البحث",
   "discover.searchStory.title": "ابحث عن قصة",
   "discover.searchStory.description": "ابحث عن قصص",

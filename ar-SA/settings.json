@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "لغة الواجهة",
   "settings.languages.readingLanguage": "لغة القراءة",
   "settings.languages.readingLanguageExplained": "عند البحث عن القصص سنقدم لك القصص وترجماتها بهذه اللغة ما لم تحدد خلاف ذلك.",
+  "settings.languages.wordsPerMinute": "سرعة القراءة (كلمة في الدقيقة)",
+  "settings.languages.wordsPerMinuteExplained": "نستخدم هذا لتقدير الوقت الذي ستستغرقه في قراءة القصة. اتركه فارغًا لاستخدام المتوسط البالغ {average, number} كلمة في الدقيقة. لست متأكدًا من سرعتك؟ <a>قِس سرعة قراءتك</a>.",
   "settings.biography.help": "أخبر الآخرين عن نفسك",
   "settings.username.help": "اسم المستخدم الفريد الخاص بك على المنصة",
   "settings.interests.tags.custom.help": "أدخل قائمة العلامات المفصولة بفاصلة",

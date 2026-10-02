@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "이웃의 이야기",
   "story.estimatedReadingTime": "이 이야기는 읽는 데 {hours, plural,\n        =0 {}\n        one {1시간과 }\n        other {#시간 }\n    }{minutes, plural,\n        =0 {0분}\n        one {1분}\n        other {#분}\n    } 읽는 데 걸립니다.",
   "story.estimatedReadingTime.explained": "분당 평균 읽기 속도 {avgReadingNum, number} 단어 기준.",
+  "story.estimatedReadingTime.explainedPersonal": "회원님의 읽기 속도(분당 {wpm, number}단어)를 기준으로 합니다.",
   "discover.search.text": "검색어",
   "discover.searchStory.title": "스토리 검색",
   "discover.searchStory.description": "스토리 검색",

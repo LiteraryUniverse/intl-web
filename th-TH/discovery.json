@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "เรื่องราวในย่านใกล้เคียง",
   "story.estimatedReadingTime": "เรื่องนี้ควรใช้เวลาอ่านประมาณ {hours, plural,\n        =0 {ชั่วโมงและ}\n        one {1 ชั่วโมงและ }\n        other {# ชั่วโมงและ }\n    }{minutes, plural,\n        =0 {0 นาที}\n        one {1 นาที}\n        other {# นาที}\n    } ในการอ่าน",
   "story.estimatedReadingTime.explained": "อิงจากความเร็วในการอ่านเฉลี่ยของ {avgReadingNum, number} คำต่อนาที",
+  "story.estimatedReadingTime.explainedPersonal": "อิงจากความเร็วในการอ่านของคุณที่ {wpm, number} คำต่อนาที",
   "discover.search.text": "คำค้นหา",
   "discover.searchStory.title": "ค้นหาเรื่อง",
   "discover.searchStory.description": "ค้นหาเรื่อง",

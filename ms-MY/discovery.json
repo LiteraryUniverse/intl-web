@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Cerita di sekitar",
   "story.estimatedReadingTime": "Cerita ini sepatutnya mengambil masa {hours, plural,\n        =0 {}\n        one {1 jam dan }\n        other {# jam dan }\n    }{minutes, plural,\n        =0 {0 minit}\n        one {1 minit}\n        other {# minit}\n    } untuk dibaca.",
   "story.estimatedReadingTime.explained": "Berdasarkan purata kelajuan membaca {avgReadingNum, number} perkataan per minit.",
+  "story.estimatedReadingTime.explainedPersonal": "Berdasarkan kelajuan membaca anda sebanyak {wpm, number} patah perkataan seminit.",
   "discover.search.text": "Kata kunci pencarian",
   "discover.searchStory.title": "Cari cerita",
   "discover.searchStory.description": "Cari cerita-cerita",

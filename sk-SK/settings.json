@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Jazyk rozhrania",
   "settings.languages.readingLanguage": "Jazyk čítania",
   "settings.languages.readingLanguageExplained": "Pri vyhľadávaní príbehov vám ponúkneme príbehy a ich preklady v tomto jazyku, ak neuvediete inak.",
+  "settings.languages.wordsPerMinute": "Rýchlosť čítania (slov za minútu)",
+  "settings.languages.wordsPerMinuteExplained": "Podľa tejto hodnoty odhadujeme, ako dlho vám bude trvať prečítanie príbehu. Ponechajte prázdne, ak chcete použiť priemer {average, number} slov za minútu. Neviete, ako rýchlo čítate? <a>Zmerajte si rýchlosť čítania</a>.",
   "settings.biography.help": "Povedzte o sebe ostatným",
   "settings.username.help": "Vaše jedinečné používateľské meno na platforme",
   "settings.interests.tags.custom.help": "Zadajte zoznam značiek oddelených čiarkou",

@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "પડતા કથાઓની નજીકના સ્થળોમાં કથાઓ",
   "story.estimatedReadingTime": "This story should take {hours, plural,\n        =0 {}\n        one {1 hour and }\n        other {# hours and }\n    }{minutes, plural,\n        =0 {0 minutes}\n        one {1 minute}\n        other {# minutes}\n    } to read.",
   "story.estimatedReadingTime.explained": "ઔસત વાંચન ગતિમાંથી આધારીત છે {avgReadingNum, number} શબ્દો પ્રતિ મિનિટમાં.",
+  "story.estimatedReadingTime.explainedPersonal": "તમારી પ્રતિ મિનિટ {wpm, number} શબ્દોની વાંચન ગતિના આધારે.",
   "discover.search.text": "શોધ શબ્દ",
   "discover.searchStory.title": "એક વાર્તા માટે શોધો",
   "discover.searchStory.description": "વાર્તાઓ માટે શોધો",

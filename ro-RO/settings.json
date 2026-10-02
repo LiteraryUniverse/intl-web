@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Limba de interfață",
   "settings.languages.readingLanguage": "Limbajul de lectură",
   "settings.languages.readingLanguageExplained": "Atunci când căutați povestiri, vă vom oferi povestiri și traducerile lor în această limbă, dacă nu specificați altfel.",
+  "settings.languages.wordsPerMinute": "Viteză de citire (cuvinte pe minut)",
+  "settings.languages.wordsPerMinuteExplained": "O folosim pentru a estima cât timp vă va lua să citiți o poveste. Lăsați câmpul gol pentru a folosi media de {average, number} de cuvinte pe minut. Nu o cunoașteți pe a dumneavoastră? <a>Măsurați-vă viteza de citire</a>.",
   "settings.biography.help": "Spune-le altora despre tine",
   "settings.username.help": "Numele dvs. de utilizator unic pe platformă",
   "settings.interests.tags.custom.help": "Introduceți lista de etichete separate prin virgulă",

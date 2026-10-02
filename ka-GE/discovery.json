@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "მოთხარებები მეურნეობის მიხედვით",
   "story.estimatedReadingTime": "ამ მოთხოვნას უნდა გადავიყვანოთ {hours, plural,\n        =0 {}\n        one {1 საათის და }\n        other {# საათის და }\n    }{minutes, plural,\n        =0 {0 წუთი}\n        one {1 წუთი}\n        other {# წუთი}\n    } საათის კითხვაზე.",
   "story.estimatedReadingTime.explained": "საშუალო კითხვის სიჩქარეს {avgReadingNum, number} სიტყვა წუთზე დაცვის გასაჩერებად.",
+  "story.estimatedReadingTime.explainedPersonal": "თქვენი კითხვის სიჩქარის მიხედვით: წუთში {wpm, number} სიტყვა.",
   "discover.search.text": "ძიების ტერმინი",
   "discover.searchStory.title": "ისტორიის ძიება",
   "discover.searchStory.description": "ისტორიის ძიება",

@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Príbehy v okolí",
   "story.estimatedReadingTime": "Tento príbeh by mal trvať {hours, plural,\n        =0 {}\n        one {1 hodinu a }\n        few {# hodiny a}\n        many {# hodín a}\n        other {# hodín a }\n    }{minutes, plural,\n        =0 {0 minút}\n        one {1 minúta}\n        few {# minúty}\n        many {# minút}\n        other {# minút}\n    } na čítanie.",
   "story.estimatedReadingTime.explained": "Na základe priemernej rýchlosti čítania {avgReadingNum, number} slov za minútu.",
+  "story.estimatedReadingTime.explainedPersonal": "Na základe vašej rýchlosti čítania {wpm, number} slov za minútu.",
   "discover.search.text": "Hľadaný výraz",
   "discover.searchStory.title": "Vyhľadávanie príbehu",
   "discover.searchStory.description": "Vyhľadávanie príbehov",

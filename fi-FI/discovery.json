@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Tarinat naapurustossa",
   "story.estimatedReadingTime": "Tämän tarinan pitäisi kestää {hours, plural,\n        =0 {}\n        one {1 tunti ja }\n        other {# tuntia ja }\n    }{minutes, plural,\n        =0 {0 minuuttia}\n        one {1 minuutti}\n        other {# minuuttia}\n    } lukea.",
   "story.estimatedReadingTime.explained": "Perustuu keskimääräiseen lukunopeuteen, joka on {avgReadingNum, number} sanaa minuutissa.",
+  "story.estimatedReadingTime.explainedPersonal": "Perustuu lukunopeuteesi {wpm, number} sanaa minuutissa.",
   "discover.search.text": "Hakusana",
   "discover.searchStory.title": "Hae tarinaa",
   "discover.searchStory.description": "Hae tarinoita",

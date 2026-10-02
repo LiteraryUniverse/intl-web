@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Kasutajaliidese keel",
   "settings.languages.readingLanguage": "Keele lugemine",
   "settings.languages.readingLanguageExplained": "Lugude otsimisel pakume teile lugusid ja nende tõlkeid selles keeles, kui te ei täpsusta teisiti.",
+  "settings.languages.wordsPerMinute": "Lugemiskiirus (sõna minutis)",
+  "settings.languages.wordsPerMinuteExplained": "Selle põhjal hindame, kui kaua teil loo lugemine aega võtab. Jätke väli tühjaks, et kasutada keskmist {average, number} sõna minutis. Te ei tea oma kiirust? <a>Mõõtke oma lugemiskiirust</a>.",
   "settings.biography.help": "Räägi teistele endast",
   "settings.username.help": "Teie unikaalne kasutajanimi platvormil",
   "settings.interests.tags.custom.help": "Sisestage komadega eraldatud siltide nimekiri",

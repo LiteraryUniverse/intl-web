@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "Luas léitheoireachta (focail sa nóiméad)",
+  "settings.languages.wordsPerMinuteExplained": "Úsáidimid é seo chun meastachán a dhéanamh ar cé chomh fada a thógfaidh sé ort scéal a léamh. Fág folamh é chun an meán de {average, number} focal sa nóiméad a úsáid. Níl tú cinnte faoi do luas féin? <a>Tomhais do luas léitheoireachta</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

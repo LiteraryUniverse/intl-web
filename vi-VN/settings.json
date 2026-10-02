@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "Tốc độ đọc (từ mỗi phút)",
+  "settings.languages.wordsPerMinuteExplained": "Chúng tôi dùng thông tin này để ước tính bạn sẽ mất bao lâu để đọc một câu chuyện. Để trống để dùng mức trung bình {average, number} từ mỗi phút. Chưa biết tốc độ của mình? <a>Đo tốc độ đọc của bạn</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

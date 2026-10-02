@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Rakontoj en la najbaraĵo",
   "story.estimatedReadingTime": "Ĉi tiu rakonto devus preni {hours, plural,\n        =0 {}\n        one {1 horon kaj }\n        other {# horojn kaj }\n    }{minutes, plural,\n        =0 {0 minutojn}\n        one {1 minuton}\n        other {# minutojn}\n    } por legi.",
   "story.estimatedReadingTime.explained": "Bazita je meza legopaceco de {avgReadingNum, number} vortoj po minuto.",
+  "story.estimatedReadingTime.explainedPersonal": "Bazita je via legorapideco de {wpm, number} vortoj minute.",
   "discover.search.text": "Enserĉopa vorto",
   "discover.searchStory.title": "Serĉu rakonton",
   "discover.searchStory.description": "Serĉu rakontojn",

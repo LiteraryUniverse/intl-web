@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Historie z sąsiedztwa",
   "story.estimatedReadingTime": "Ta historia powinna zająć {hours, plural,\n        =0 {}\n        one {1 godzinę i }\n        few {# godzin i }\n        many {# godzin i }\n        other {# godzin i }\n    }{minutes, plural,\n        =0 {0 minut}\n        one {1 minuta}\n        other {# minut}\n    } do przeczytania.",
   "story.estimatedReadingTime.explained": "W oparciu o średnią prędkość czytania {avgReadingNum, number} słów.",
+  "story.estimatedReadingTime.explainedPersonal": "Na podstawie Państwa szybkości czytania wynoszącej {wpm, number} słów na minutę.",
   "discover.search.text": "Termin wyszukiwania",
   "discover.searchStory.title": "Wyszukaj historię",
   "discover.searchStory.description": "Szukaj historii",

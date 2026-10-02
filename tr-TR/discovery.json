@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Mahalledeki hikayeler",
   "story.estimatedReadingTime": "Bu hikaye {hours, plural,\n        =0 {}\n        one {1 saat ve }\n        other {saat ve }\n    }{minutes, plural,\n        =0 {0 dakika}\n        one {1 dakika}\n        other {dakika}\n    } okumak için.",
   "story.estimatedReadingTime.explained": "Ortalama olarak dakikada {avgReadingNum, number} kelime okuma hızına dayanılarak.",
+  "story.estimatedReadingTime.explainedPersonal": "Dakikada {wpm, number} kelimelik okuma hızınıza göre hesaplanmıştır.",
   "discover.search.text": "Arama terimi",
   "discover.searchStory.title": "Bir hikaye arayın",
   "discover.searchStory.description": "Bir hikaye arayın",

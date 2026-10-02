@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Språk för gränssnitt",
   "settings.languages.readingLanguage": "Läsa språk",
   "settings.languages.readingLanguageExplained": "När du letar efter berättelser kommer vi att erbjuda dig berättelser och deras översättningar på detta språk om du inte anger något annat.",
+  "settings.languages.wordsPerMinute": "Läshastighet (ord per minut)",
+  "settings.languages.wordsPerMinuteExplained": "Vi använder detta för att uppskatta hur lång tid det tar för dig att läsa en berättelse. Lämna fältet tomt för att använda genomsnittet på {average, number} ord per minut. Osäker på din egen? <a>Mät din läshastighet</a>.",
   "settings.biography.help": "Berätta om dig själv för andra",
   "settings.username.help": "Ditt unika användarnamn på plattformen",
   "settings.interests.tags.custom.help": "Ange en kommaseparerad lista med taggar",

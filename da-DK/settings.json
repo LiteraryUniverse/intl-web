@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface-sprog",
   "settings.languages.readingLanguage": "Læsning af sprog",
   "settings.languages.readingLanguageExplained": "Når du søger efter historier, vil vi tilbyde dig historier og deres oversættelser på dette sprog, medmindre du angiver andet.",
+  "settings.languages.wordsPerMinute": "Læsehastighed (ord i minuttet)",
+  "settings.languages.wordsPerMinuteExplained": "Vi bruger dette til at anslå, hvor lang tid det vil tage dig at læse en historie. Lad feltet stå tomt for at bruge gennemsnittet på {average, number} ord i minuttet. Er du i tvivl om din egen? <a>Mål din læsehastighed</a>.",
   "settings.biography.help": "Fortæl andre om dig selv",
   "settings.username.help": "Dit unikke brugernavn på platformen",
   "settings.interests.tags.custom.help": "Indtast kommasepareret liste over tags",

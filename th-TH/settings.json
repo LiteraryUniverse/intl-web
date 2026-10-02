@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "ความเร็วในการอ่าน (คำต่อนาที)",
+  "settings.languages.wordsPerMinuteExplained": "เราใช้ค่านี้เพื่อประมาณเวลาที่คุณจะใช้อ่านเรื่องหนึ่งเรื่อง เว้นว่างไว้เพื่อใช้ค่าเฉลี่ย {average, number} คำต่อนาที ไม่แน่ใจความเร็วของตัวเองใช่ไหม <a>วัดความเร็วในการอ่านของคุณ</a>",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Język interfejsu",
   "settings.languages.readingLanguage": "Język czytania",
   "settings.languages.readingLanguageExplained": "Podczas wyszukiwania historii zaoferujemy Państwu historie i ich tłumaczenia w tym języku, chyba że określą Państwo inaczej.",
+  "settings.languages.wordsPerMinute": "Szybkość czytania (słowa na minutę)",
+  "settings.languages.wordsPerMinuteExplained": "Na tej podstawie szacujemy, ile czasu zajmie Państwu przeczytanie historii. Proszę pozostawić pole puste, aby użyć średniej {average, number} słów na minutę. Nie znają Państwo swojej szybkości? <a>Proszę zmierzyć swoją szybkość czytania</a>.",
   "settings.biography.help": "Proszę opowiedzieć innym o sobie",
   "settings.username.help": "Państwa unikalna nazwa użytkownika na platformie",
   "settings.interests.tags.custom.help": "Proszę wprowadzić listę tagów oddzielonych przecinkami",

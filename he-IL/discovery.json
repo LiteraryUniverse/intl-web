@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "סיפורים בשכונה",
   "story.estimatedReadingTime": "הסיפור הזה צריך לקחת {hours, plural,\n        =0 {}\n        one {שעה ו }\n        other {# שעות ו }\n    }{minutes, plural,\n        =0 {0 דקות}\n        one {1 דקה}\n        other {# דקות}\n    } לקריאה.",
   "story.estimatedReadingTime.explained": "בהינתן מהירות קריאה ממוצעת של {avgReadingNum, number} מילים לדקה.",
+  "story.estimatedReadingTime.explainedPersonal": "מבוסס על מהירות הקריאה שלכם, {wpm, number} מילים בדקה.",
   "discover.search.text": "טקסט חיפוש",
   "discover.searchStory.title": "חפש סיפור",
   "discover.searchStory.description": "חפש סיפורים",

@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Lenguaje de interfaz",
   "settings.languages.readingLanguage": "Lengua de lectura",
   "settings.languages.readingLanguageExplained": "Cuando busque historias, le ofreceremos las historias y sus traducciones en este idioma, a menos que especifique lo contrario.",
+  "settings.languages.wordsPerMinute": "Velocidad de lectura (palabras por minuto)",
+  "settings.languages.wordsPerMinuteExplained": "Lo usamos para estimar cuánto tardará en leer una historia. Déjelo vacío para usar la media de {average, number} palabras por minuto. ¿No conoce la suya? <a>Mida su velocidad de lectura</a>.",
   "settings.biography.help": "Hable a los demás de usted",
   "settings.username.help": "Su nombre de usuario único en la plataforma",
   "settings.interests.tags.custom.help": "Introduzca una lista de etiquetas separadas por comas",

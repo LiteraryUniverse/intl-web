@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Historias en el vecindario",
   "story.estimatedReadingTime": "Tardarías {hours, plural,\n        =0 {}\n        one {1 hora y }\n        other {# horas y }\n    }{minutes, plural,\n        =0 {0 minutos}\n        one {1 minuto}\n        other {# minutos}\n    } en leer esta historia.",
   "story.estimatedReadingTime.explained": "En base a una velocidad de lectura media de {avgReadingNum, number} palabras por minuto.",
+  "story.estimatedReadingTime.explainedPersonal": "Basado en su velocidad de lectura de {wpm, number} palabras por minuto.",
   "discover.search.text": "Buscar término",
   "discover.searchStory.title": "Buscar historia",
   "discover.searchStory.description": "Buscar historias",

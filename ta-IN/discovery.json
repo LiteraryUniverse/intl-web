@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "அருகிலுள்ள கதைகள்",
   "story.estimatedReadingTime": "இந்த கதைக்கு {hours, plural,\n        =0 {}\n        one {1 மணி நேரம் மற்றும் }\n        other {# மணி நேரமாக இருக்க வேண்டும் மற்றும் }\n    }{minutes, plural,\n        =0 {0 நிமிடம்}\n        one {1 நிமிடம்}\n        other {# நிமிடம்}\n    } படிக்க",
   "story.estimatedReadingTime.explained": "மிகவும் சரியான படிக்கும் வேகத்தின் மூலம் உள்ள பெரும்பாலும் படித்த அல்லது படிக்க முடியேன்கள் {avgReadingNum, number} வார்த்தைகள் பேர் நிமிடத்திற்க்கு பிறகு.",
+  "story.estimatedReadingTime.explainedPersonal": "நிமிடத்திற்கு {wpm, number} சொற்கள் என்ற உங்கள் வாசிப்பு வேகத்தின் அடிப்படையில்.",
   "discover.search.text": "தேடுப் பெயர்",
   "discover.searchStory.title": "ஒரு கதையை தேடுங்கள்",
   "discover.searchStory.description": "பதிவேடு பதிவீடுகளை மெனக்கல் செய்யுங்கள்",

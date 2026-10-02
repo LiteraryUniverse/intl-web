@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Mga kwento sa kapitbahayan",
   "story.estimatedReadingTime": "This story should take {hours, plural,\n        =0 {}\n        one {1 hour and }\n        other {# hours and }\n    }{minutes, plural,\n        =0 {0 minutes}\n        one {1 minute}\n        other {# minutes}\n    } to read.",
   "story.estimatedReadingTime.explained": "Batay sa isang average na bilis ng pagbasa na {avgReadingNum, number} salita bawat minuto.",
+  "story.estimatedReadingTime.explainedPersonal": "Batay sa bilis mo sa pagbasa na {wpm, number} salita kada minuto.",
   "discover.search.text": "Search term",
   "discover.searchStory.title": "I-search ang isang kwento",
   "discover.searchStory.description": "I-search ang mga kwento",

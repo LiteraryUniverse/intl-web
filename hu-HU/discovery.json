@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Történetek a környéken",
   "story.estimatedReadingTime": "Ez a történet kb. {hours, plural,\n        =0 {}\n        one {1 óra és }\n        other {# óra és }\n    }{minutes, plural,\n        =0 {0 perc}\n        one {1 perc}\n        other {# perc}\n    } olvasási idő.",
   "story.estimatedReadingTime.explained": "Az átlagos olvasási sebesség alapján, percenként {avgReadingNum, number} szóval számolva.",
+  "story.estimatedReadingTime.explainedPersonal": "Az Ön percenkénti {wpm, number} szavas olvasási sebessége alapján.",
   "discover.search.text": "Kereső kifejezés",
   "discover.searchStory.title": "Keresés egy történetre",
   "discover.searchStory.description": "Keresés történetekre",

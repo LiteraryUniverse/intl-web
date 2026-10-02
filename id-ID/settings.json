@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Bahasa antarmuka",
   "settings.languages.readingLanguage": "Membaca bahasa",
   "settings.languages.readingLanguageExplained": "Saat mencari berita, kami akan menawarkan berita dan terjemahannya dalam bahasa ini, kecuali jika Anda menentukan lain.",
+  "settings.languages.wordsPerMinute": "Kecepatan membaca (kata per menit)",
+  "settings.languages.wordsPerMinuteExplained": "Kami menggunakannya untuk memperkirakan berapa lama Anda akan membaca sebuah cerita. Kosongkan untuk menggunakan rata-rata {average, number} kata per menit. Belum tahu kecepatan Anda? <a>Ukur kecepatan membaca Anda</a>.",
   "settings.biography.help": "Beri tahu orang lain tentang diri Anda",
   "settings.username.help": "Nama pengguna unik Anda di platform",
   "settings.interests.tags.custom.help": "Masukkan daftar tag yang dipisahkan koma",

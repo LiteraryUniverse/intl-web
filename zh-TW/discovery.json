@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "附近的故事",
   "story.estimatedReadingTime": "這個故事應該需要 {hours, plural,\n        =0 {}\n        one {1小時和 }\n        other {#小時和 }\n    }{minutes, plural,\n        =0 {0分鐘}\n        one {1分鐘}\n        other {#分鐘}\n    } 閱讀。",
   "story.estimatedReadingTime.explained": "根據每分鐘 {avgReadingNum, number} 字的平均閱讀速度。",
+  "story.estimatedReadingTime.explainedPersonal": "根據您每分鐘 {wpm, number} 字的閱讀速度估算。",
   "discover.search.text": "搜尋詞",
   "discover.searchStory.title": "搜尋故事",
   "discover.searchStory.description": "搜尋故事",

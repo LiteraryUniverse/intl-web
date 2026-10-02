@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "インターフェース言語",
   "settings.languages.readingLanguage": "言語を読む",
   "settings.languages.readingLanguageExplained": "ストーリーを検索する際、特にご指定がない限り、この言語でのストーリーとその翻訳が提供されます。",
+  "settings.languages.wordsPerMinute": "読書速度（語/分）",
+  "settings.languages.wordsPerMinuteExplained": "物語を読むのにかかる時間の目安を計算するために使用します。空欄にすると、平均の毎分{average, number}語が使われます。ご自身の速度がわからない場合は、<a>読書速度を測定</a>してください。",
   "settings.biography.help": "自分のことを他人に話す",
   "settings.username.help": "プラットフォーム上での固有のユーザー名",
   "settings.interests.tags.custom.help": "タグのリストをカンマ区切りで入力",

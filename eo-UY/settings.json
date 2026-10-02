@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "Legorapideco (vortoj minute)",
+  "settings.languages.wordsPerMinuteExplained": "Ni uzas ĉi tion por taksi, kiom da tempo vi bezonos por legi rakonton. Lasu ĝin malplena por uzi la mezumon de {average, number} vortoj minute. Ĉu vi ne konas la vian? <a>Mezuru vian legorapidecon</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

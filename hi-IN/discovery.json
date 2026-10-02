@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "पड़ोस की कहानियाँ",
   "story.estimatedReadingTime": "इस कहानी को पढ़ने में {hours, plural,\n        =0 {}\n        one {1 घंटा और }\n        other {# घंटे और }\n    }{minutes, plural,\n        =0 {0 मिनट}\n        one {1 मिनट}\n        other {# मिनट}\n    } ~ लगेगा।",
   "story.estimatedReadingTime.explained": "औसत पठन गति के आधार पर {avgReadingNum, number} शब्द प्रति मिनट।",
+  "story.estimatedReadingTime.explainedPersonal": "आपकी {wpm, number} शब्द प्रति मिनट की पढ़ने की गति के आधार पर।",
   "discover.search.text": "खोज शब्द",
   "discover.searchStory.title": "किसी कहानी की खोज करें",
   "discover.searchStory.description": "किसी कहानियों की खोज करें",

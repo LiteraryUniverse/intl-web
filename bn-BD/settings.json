@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "পড়ার গতি (প্রতি মিনিটে শব্দ)",
+  "settings.languages.wordsPerMinuteExplained": "একটি গল্প পড়তে আপনার কত সময় লাগবে তা অনুমান করতে আমরা এটি ব্যবহার করি। প্রতি মিনিটে {average, number} শব্দের গড় ব্যবহার করতে এটি খালি রাখুন। নিজের গতি জানেন না? <a>আপনার পড়ার গতি মাপুন</a>।",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

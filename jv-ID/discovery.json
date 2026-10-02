@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Stories in the neighborhood",
   "story.estimatedReadingTime": "This story should take {hours, plural,\n        =0 {}\n        one {1 hour and }\n        other {# hours and }\n    }{minutes, plural,\n        =0 {0 minutes}\n        one {1 minute}\n        other {# minutes}\n    } to read.",
   "story.estimatedReadingTime.explained": "Based on an average reading speed of {avgReadingNum, number} words per minute.",
+  "story.estimatedReadingTime.explainedPersonal": "Adhedhasar kacepetan maca sampeyan, {wpm, number} tembung saben menit.",
   "discover.search.text": "Search term",
   "discover.searchStory.title": "Search for a story",
   "discover.searchStory.description": "Search for a stories",

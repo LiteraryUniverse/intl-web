@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "samselvinji pe skina ku'u kelci",
   "story.estimatedReadingTime": "Ti djica cu klama {hours, plural,\n        =0 {}\n        one {1 cacra e }\n        other {# cacra e }\n    }{minutes, plural,\n        =0 {0 mentu}\n        one {1 mentu}\n        other {# mentu}\n    } lo ka tcidu.",
   "story.estimatedReadingTime.explained": "Selsku lo sefta be lo nunmu'i be lo se ckire be lo {avgReadingNum, number} valsi lo nu tcidu",
+  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
   "discover.search.text": "se cuxna be skina",
   "discover.searchStory.title": "celxa se citka",
   "discover.searchStory.description": "celxa se citka",

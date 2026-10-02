@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Arayüz dili",
   "settings.languages.readingLanguage": "Okuma dili",
   "settings.languages.readingLanguageExplained": "Hikayelere bakarken, aksini belirtmediğiniz sürece size hikayeleri ve çevirilerini bu dilde sunacağız.",
+  "settings.languages.wordsPerMinute": "Okuma hızı (dakikada kelime)",
+  "settings.languages.wordsPerMinuteExplained": "Bunu, bir hikâyeyi okumanızın ne kadar süreceğini tahmin etmek için kullanıyoruz. Dakikada {average, number} kelimelik ortalamayı kullanmak için boş bırakın. Kendi hızınızı bilmiyor musunuz? <a>Okuma hızınızı ölçün</a>.",
   "settings.biography.help": "Başkalarına kendinizden bahsedin",
   "settings.username.help": "Platformdaki benzersiz kullanıcı adınız",
   "settings.interests.tags.custom.help": "Virgülle ayrılmış etiket listesini girin",

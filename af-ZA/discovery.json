@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Stories in die buurt",
   "story.estimatedReadingTime": "Hierdie storie behoort {hours, plural,\n        =0 {}\n        one {1 uur en }\n        other {# ure en }\n    }{minutes, plural,\n        =0 {0 minute}\n        one {1 minuut}\n        other {# minute}\n    } om te lees.",
   "story.estimatedReadingTime.explained": "Gebaseer op 'n gemiddelde lees spoed van {avgReadingNum, number} woorde per minuut.",
+  "story.estimatedReadingTime.explainedPersonal": "Gebaseer op u leesspoed van {wpm, number} woorde per minuut.",
   "discover.search.text": "Soek term",
   "discover.searchStory.title": "Soek vir 'n story",
   "discover.searchStory.description": "Soek vir stories",

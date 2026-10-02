@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "ಹಳ್ಳಿಯ ಪಕ್ಷಗಳಲ್ಲಿರುವ ಕಥೆಗಳು",
   "story.estimatedReadingTime": "This story should take {hours, plural,\n        =0 {}\n        one {1 hour and }\n        other {# hours and }\n    }{minutes, plural,\n        =0 {0 minutes}\n        one {1 minute}\n        other {# minutes}\n    } to read.",
   "story.estimatedReadingTime.explained": "ಪ್ರತಿ ನಿಮಿಷಕ್ಕೆ ಸರಾಸರಿ ಓದುವ ಗತಿಯಲ್ಲಿ {avgReadingNum, number} ಪದಗಳ ಆಧಾರದ ಮೇಲೆ ಆಧರಿಸಲಾಗಿದೆ.",
+  "story.estimatedReadingTime.explainedPersonal": "Based on your reading speed of {wpm, number} words per minute.",
   "discover.search.text": "ಹುಡುಕು ಪದ",
   "discover.searchStory.title": "ಕಥೆಗೆ ಹುಡುಕಿ",
   "discover.searchStory.description": "ಕಥೆಗಳಿಗೆ ಹುಡುಕಿ",

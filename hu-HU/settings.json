@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interfész nyelv",
   "settings.languages.readingLanguage": "Olvasott nyelv",
   "settings.languages.readingLanguageExplained": "A történetek keresésekor a történetek és fordításaik ezen a nyelven kerülnek felajánlásra, hacsak Ön nem ad meg mást.",
+  "settings.languages.wordsPerMinute": "Olvasási sebesség (szó/perc)",
+  "settings.languages.wordsPerMinuteExplained": "Ennek alapján becsüljük meg, mennyi idő alatt olvas el egy történetet. Hagyja üresen, ha a percenkénti {average, number} szavas átlagot szeretné használni. Nem ismeri a sajátját? <a>Mérje meg olvasási sebességét</a>.",
   "settings.biography.help": "Mesélj magadról másoknak",
   "settings.username.help": "Az Ön egyedi felhasználóneve a platformon",
   "settings.interests.tags.custom.help": "Adja meg a címkék vesszővel elválasztott listáját",

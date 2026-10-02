@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "인터페이스 언어",
   "settings.languages.readingLanguage": "읽기 언어",
   "settings.languages.readingLanguageExplained": "스토리를 검색할 때 별도로 지정하지 않는 한 이 언어로 된 스토리와 해당 번역을 제공합니다.",
+  "settings.languages.wordsPerMinute": "읽기 속도(분당 단어 수)",
+  "settings.languages.wordsPerMinuteExplained": "스토리를 읽는 데 걸리는 시간을 예상하는 데 사용합니다. 비워 두면 평균인 분당 {average, number}단어가 적용됩니다. 본인의 속도를 모르시나요? <a>읽기 속도 측정하기</a>",
   "settings.biography.help": "다른 사람에게 나에 대해 알리기",
   "settings.username.help": "플랫폼에서 고유한 사용자 아이디",
   "settings.interests.tags.custom.help": "쉼표로 구분된 태그 목록 입력",

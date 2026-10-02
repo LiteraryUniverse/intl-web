@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "Velocitat de lectura (paraules per minut)",
+  "settings.languages.wordsPerMinuteExplained": "Ho fem servir per estimar quant trigareu a llegir una història. Deixeu-ho en blanc per utilitzar la mitjana de {average, number} paraules per minut. No sabeu quina és la vostra? <a>Mesureu la vostra velocitat de lectura</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

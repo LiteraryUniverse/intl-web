@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interfacetaal",
   "settings.languages.readingLanguage": "Taal lezen",
   "settings.languages.readingLanguageExplained": "Bij het opzoeken van verhalen zullen wij u verhalen en hun vertalingen in deze taal aanbieden, tenzij u anders aangeeft.",
+  "settings.languages.wordsPerMinute": "Leessnelheid (woorden per minuut)",
+  "settings.languages.wordsPerMinuteExplained": "Hiermee schatten wij hoelang u over een verhaal doet. Laat het veld leeg om het gemiddelde van {average, number} woorden per minuut te gebruiken. Weet u uw eigen snelheid niet? <a>Meet uw leessnelheid</a>.",
   "settings.biography.help": "Vertel anderen over uzelf",
   "settings.username.help": "Uw unieke gebruikersnaam op het platform",
   "settings.interests.tags.custom.help": "Voer een door komma's gescheiden lijst van tags in",

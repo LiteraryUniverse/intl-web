@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Мова інтерфейсу",
   "settings.languages.readingLanguage": "Мова читання",
   "settings.languages.readingLanguageExplained": "При пошуку історій ми будемо пропонувати вам історії та їхні переклади цією мовою, якщо ви не вкажете інше.",
+  "settings.languages.wordsPerMinute": "Швидкість читання (слів за хвилину)",
+  "settings.languages.wordsPerMinuteExplained": "За цим значенням ми оцінюємо, скільки часу вам знадобиться, щоб прочитати історію. Залиште поле порожнім, щоб використовувати середнє значення — {average, number} слів за хвилину. Не знаєте своєї швидкості? <a>Виміряйте швидкість читання</a>.",
   "settings.biography.help": "Розкажіть іншим про себе",
   "settings.username.help": "Ваше унікальне ім'я користувача на платформі",
   "settings.interests.tags.custom.help": "Введіть список тегів через кому",

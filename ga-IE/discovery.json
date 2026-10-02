@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "Scéalta sa cheantar",
   "story.estimatedReadingTime": "Ba chóir go dtógfadh an scéal seo {hours, plural,\n        =0 {}\n        one {1 uair agus }\n        other {# uaireanta agus }\n    }{minutes, plural,\n        =0 {0 nóiméad}\n        one {1 nóiméad}\n        other {# nóiméad}\n    } le léamh.",
   "story.estimatedReadingTime.explained": "Bunaithe ar luas léitheoireachta meánach de {avgReadingNum, number} focail sa nóiméad.",
+  "story.estimatedReadingTime.explainedPersonal": "Bunaithe ar do luas léitheoireachta de {wpm, number} focal sa nóiméad.",
   "discover.search.text": "Focal faire",
   "discover.searchStory.title": "Cuardaigh scéal",
   "discover.searchStory.description": "Cuardaigh scéalta",

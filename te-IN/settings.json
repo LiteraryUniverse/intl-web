@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "పఠన వేగం (నిమిషానికి పదాలు)",
+  "settings.languages.wordsPerMinuteExplained": "ఒక కథను చదవడానికి మీకు ఎంత సమయం పడుతుందో అంచనా వేయడానికి మేము దీన్ని ఉపయోగిస్తాము. నిమిషానికి {average, number} పదాల సగటును ఉపయోగించడానికి దీన్ని ఖాళీగా వదిలేయండి. మీ వేగం తెలియదా? <a>మీ పఠన వేగాన్ని కొలవండి</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",

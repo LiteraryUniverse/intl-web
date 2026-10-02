@@ -10,6 +10,7 @@
   "discovery.stories.similar.regular": "ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖੋ ਵਿੱਚ ਪੜ੍ਹੀਅਾਂ",
   "story.estimatedReadingTime": "ਇਹ ਕਹਾਣੀ ਪੜਨ ਲਈ {hours, plural,\n        =0 {}\n        one {1 ਘੰਟਾ ਅਤੇ }\n        other {# ਘੰਟੇ ਅਤੇ }\n    }{minutes, plural,\n        =0 {0 ਮਿੰਟਾਂ}\n        one {1 ਮਿੰਟ}\n        other {# ਮਿੰਟ}\n    } ਦੇਖਣ ਲਈ ਤਿਆਰ ਹੈ।",
   "story.estimatedReadingTime.explained": "ਔਸਤ ਪੜਨ ਦੀ ਰੇਡਿੰਗ ਸਪੀਡ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖ ਕੇ। {avgReadingNum, number} ਪੜਨ ਵਾਲੇ ਸ਼ਬਦ।",
+  "story.estimatedReadingTime.explainedPersonal": "ਤੁਹਾਡੀ ਪ੍ਰਤੀ ਮਿੰਟ {wpm, number} ਸ਼ਬਦ ਪੜ੍ਹਨ ਦੀ ਗਤੀ ਦੇ ਆਧਾਰ ’ਤੇ।",
   "discover.search.text": "ਖੋਜ ਤਰਕ",
   "discover.searchStory.title": "ਕਹਾਣੀ ਲਈ ਖੋਜ ਕਰੋ",
   "discover.searchStory.description": "ਕਹਾਣੀਆਂ ਲਈ ਖੋਜ ਕਰੋ",

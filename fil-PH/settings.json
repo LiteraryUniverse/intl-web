@@ -194,6 +194,8 @@
   "settings.languages.uiLanguage": "Interface language",
   "settings.languages.readingLanguage": "Reading language",
   "settings.languages.readingLanguageExplained": "When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.",
+  "settings.languages.wordsPerMinute": "Bilis ng pagbasa (salita kada minuto)",
+  "settings.languages.wordsPerMinuteExplained": "Ginagamit namin ito para tantiyahin kung gaano katagal mong mababasa ang isang kuwento. Iwanang blangko para gamitin ang karaniwang {average, number} salita kada minuto. Hindi alam ang sa iyo? <a>Sukatin ang bilis mo sa pagbasa</a>.",
   "settings.biography.help": "Tell others about yourself",
   "settings.username.help": "Your unique username on the platform",
   "settings.interests.tags.custom.help": "Enter comma separated list of tags",
