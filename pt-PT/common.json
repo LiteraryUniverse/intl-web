@@ -470,5 +470,18 @@
   "common.error": "Ocorreu um erro. Tente novamente.",
   "common.savedOffline": "Guardado offline. Será sincronizado quando voltar a estar ligado.",
   "common.synced": "Todas as alterações foram sincronizadas.",
-  "common.autoSaveDeferred": "Não foi possível guardar neste momento. As suas alterações ficam neste dispositivo e serão sincronizadas mais tarde."
+  "common.autoSaveDeferred": "Não foi possível guardar neste momento. As suas alterações ficam neste dispositivo e serão sincronizadas mais tarde.",
+  "readingDifficulty.check": "Verificar dificuldade de leitura",
+  "readingDifficulty.tooShort": "O capítulo precisa de, pelo menos, {count, number} palavras para uma estimativa.",
+  "readingDifficulty.label": "Dificuldade de leitura: {band}",
+  "readingDifficulty.score": "Facilidade de leitura de Flesch: {score}",
+  "readingDifficulty.explanation": "Estimativa com base no comprimento das frases e nas sílabas por palavra. Pontuações mais altas indicam uma prosa mais fácil. Pontuação invulgar e nomes inventados podem afetar a estimativa.",
+  "readingDifficulty.chapters": "{count, plural, one {Com base num capítulo publicado.} many {Com base em # capítulos publicados, todos com o mesmo peso.} other {Com base em # capítulos publicados, todos com o mesmo peso.}}",
+  "readingDifficulty.band.veryEasy": "Muito fácil",
+  "readingDifficulty.band.easy": "Fácil",
+  "readingDifficulty.band.fairlyEasy": "Razoavelmente fácil",
+  "readingDifficulty.band.standard": "Média",
+  "readingDifficulty.band.fairlyDifficult": "Razoavelmente difícil",
+  "readingDifficulty.band.difficult": "Difícil",
+  "readingDifficulty.band.veryDifficult": "Muito difícil"
 }

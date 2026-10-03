@@ -470,5 +470,18 @@
   "common.error": "Κάτι πήγε στραβά. Δοκιμάστε ξανά.",
   "common.savedOffline": "Αποθηκεύτηκε εκτός σύνδεσης. Θα συγχρονιστεί όταν συνδεθείτε ξανά.",
   "common.synced": "Όλες οι αλλαγές συγχρονίστηκαν.",
-  "common.autoSaveDeferred": "Η αποθήκευση δεν ήταν δυνατή αυτή τη στιγμή. Οι αλλαγές σας διατηρούνται σε αυτή τη συσκευή και θα συγχρονιστούν αργότερα."
+  "common.autoSaveDeferred": "Η αποθήκευση δεν ήταν δυνατή αυτή τη στιγμή. Οι αλλαγές σας διατηρούνται σε αυτή τη συσκευή και θα συγχρονιστούν αργότερα.",
+  "readingDifficulty.check": "Έλεγχος δυσκολίας ανάγνωσης",
+  "readingDifficulty.tooShort": "Το κεφάλαιο χρειάζεται τουλάχιστον {count, number} λέξεις για να γίνει εκτίμηση.",
+  "readingDifficulty.label": "Δυσκολία ανάγνωσης: {band}",
+  "readingDifficulty.score": "Δείκτης αναγνωσιμότητας Flesch: {score}",
+  "readingDifficulty.explanation": "Η εκτίμηση βασίζεται στο μήκος των προτάσεων και στις συλλαβές ανά λέξη. Υψηλότερη βαθμολογία σημαίνει πιο ευανάγνωστο κείμενο. Η ασυνήθιστη στίξη και τα επινοημένα ονόματα μπορεί να επηρεάσουν την εκτίμηση.",
+  "readingDifficulty.chapters": "{count, plural, one {Βασίζεται σε ένα δημοσιευμένο κεφάλαιο.} other {Βασίζεται σε # δημοσιευμένα κεφάλαια, με ίση βαρύτητα το καθένα.}}",
+  "readingDifficulty.band.veryEasy": "Πολύ εύκολο",
+  "readingDifficulty.band.easy": "Εύκολο",
+  "readingDifficulty.band.fairlyEasy": "Αρκετά εύκολο",
+  "readingDifficulty.band.standard": "Μέτριο",
+  "readingDifficulty.band.fairlyDifficult": "Αρκετά δύσκολο",
+  "readingDifficulty.band.difficult": "Δύσκολο",
+  "readingDifficulty.band.veryDifficult": "Πολύ δύσκολο"
 }

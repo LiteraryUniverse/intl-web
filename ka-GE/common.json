@@ -470,5 +470,18 @@
   "common.error": "რაღაც შეცდომა მოხდა. გთხოვთ, სცადოთ ხელახლა.",
   "common.savedOffline": "შენახულია ხაზგარეშე. სინქრონიზაცია მოხდება, როცა კავშირი აღდგება.",
   "common.synced": "ყველა ცვლილება სინქრონიზებულია.",
-  "common.autoSaveDeferred": "ახლა შენახვა ვერ მოხერხდა. თქვენი ცვლილებები ამ მოწყობილობაზეა შენახული და მოგვიანებით დასინქრონდება."
+  "common.autoSaveDeferred": "ახლა შენახვა ვერ მოხერხდა. თქვენი ცვლილებები ამ მოწყობილობაზეა შენახული და მოგვიანებით დასინქრონდება.",
+  "readingDifficulty.check": "კითხვის სირთულის შემოწმება",
+  "readingDifficulty.tooShort": "შეფასებისთვის თავში მინიმუმ {count, number} სიტყვაა საჭირო.",
+  "readingDifficulty.label": "კითხვის სირთულე: {band}",
+  "readingDifficulty.score": "Flesch-ის წაკითხვადობის ინდექსი: {score}",
+  "readingDifficulty.explanation": "შეფასება ეფუძნება წინადადებების სიგრძესა და სიტყვაში მარცვლების რაოდენობას. რაც უფრო მაღალია ქულა, მით უფრო ადვილად იკითხება ტექსტი. უჩვეულო პუნქტუაციამ და გამოგონილმა სახელებმა შეიძლება შეფასებაზე იმოქმედოს.",
+  "readingDifficulty.chapters": "{count, plural, one {ეფუძნება ერთ გამოქვეყნებულ თავს.} other {ეფუძნება # გამოქვეყნებულ თავს, თითოეულს თანაბარი წონა აქვს.}}",
+  "readingDifficulty.band.veryEasy": "ძალიან ადვილი",
+  "readingDifficulty.band.easy": "ადვილი",
+  "readingDifficulty.band.fairlyEasy": "საკმაოდ ადვილი",
+  "readingDifficulty.band.standard": "საშუალო",
+  "readingDifficulty.band.fairlyDifficult": "საკმაოდ რთული",
+  "readingDifficulty.band.difficult": "რთული",
+  "readingDifficulty.band.veryDifficult": "ძალიან რთული"
 }

@@ -470,5 +470,18 @@
   "common.error": "Iets het verkeerd geloop. Probeer asseblief weer.",
   "common.savedOffline": "Vanlyn gestoor. Dit sinkroniseer sodra jy weer koppel.",
   "common.synced": "Alle veranderinge is gesinkroniseer.",
-  "common.autoSaveDeferred": "Kon nie nou stoor nie. Jou veranderinge bly op hierdie toestel en sinkroniseer later."
+  "common.autoSaveDeferred": "Kon nie nou stoor nie. Jou veranderinge bly op hierdie toestel en sinkroniseer later.",
+  "readingDifficulty.check": "Kontroleer leesmoeilikheid",
+  "readingDifficulty.tooShort": "Die hoofstuk het minstens {count, number} woorde nodig vir 'n skatting.",
+  "readingDifficulty.label": "Leesmoeilikheid: {band}",
+  "readingDifficulty.score": "Flesch-leesgemak: {score}",
+  "readingDifficulty.explanation": "Geskat op grond van sinslengte en lettergrepe per woord. Hoër tellings beteken makliker prosa. Ongewone leestekens en versinde name kan die skatting beïnvloed.",
+  "readingDifficulty.chapters": "{count, plural, one {Gebaseer op een gepubliseerde hoofstuk.} other {Gebaseer op # gepubliseerde hoofstukke, wat almal ewe veel tel.}}",
+  "readingDifficulty.band.veryEasy": "Baie maklik",
+  "readingDifficulty.band.easy": "Maklik",
+  "readingDifficulty.band.fairlyEasy": "Redelik maklik",
+  "readingDifficulty.band.standard": "Gemiddeld",
+  "readingDifficulty.band.fairlyDifficult": "Redelik moeilik",
+  "readingDifficulty.band.difficult": "Moeilik",
+  "readingDifficulty.band.veryDifficult": "Baie moeilik"
 }

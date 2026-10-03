@@ -470,5 +470,18 @@
   "common.error": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
   "common.savedOffline": "تم الحفظ دون اتصال. ستتم المزامنة عند عودة الاتصال.",
   "common.synced": "تمت مزامنة جميع التغييرات.",
-  "common.autoSaveDeferred": "تعذّر الحفظ الآن. تغييراتك محفوظة على هذا الجهاز وستتم مزامنتها لاحقاً."
+  "common.autoSaveDeferred": "تعذّر الحفظ الآن. تغييراتك محفوظة على هذا الجهاز وستتم مزامنتها لاحقاً.",
+  "readingDifficulty.check": "تحقق من صعوبة القراءة",
+  "readingDifficulty.tooShort": "يحتاج الفصل إلى {count, number} كلمة على الأقل لإجراء التقدير.",
+  "readingDifficulty.label": "صعوبة القراءة: {band}",
+  "readingDifficulty.score": "مؤشر Flesch لسهولة القراءة: {score}",
+  "readingDifficulty.explanation": "تقدير مبني على طول الجمل وعدد المقاطع الصوتية في كل كلمة. كلما ارتفعت الدرجة كان النص أسهل قراءة. قد تؤثر علامات الترقيم غير المألوفة والأسماء المبتكرة في التقدير.",
+  "readingDifficulty.chapters": "{count, plural, zero {لا يستند إلى أي فصل منشور.} one {يستند إلى فصل منشور واحد.} two {يستند إلى فصلين منشورين، لكل منهما الوزن نفسه.} few {يستند إلى # فصول منشورة، لكل منها الوزن نفسه.} many {يستند إلى # فصلًا منشورًا، لكل منها الوزن نفسه.} other {يستند إلى # فصل منشور، لكل منها الوزن نفسه.}}",
+  "readingDifficulty.band.veryEasy": "سهل جدًا",
+  "readingDifficulty.band.easy": "سهل",
+  "readingDifficulty.band.fairlyEasy": "سهل إلى حد ما",
+  "readingDifficulty.band.standard": "متوسط",
+  "readingDifficulty.band.fairlyDifficult": "صعب إلى حد ما",
+  "readingDifficulty.band.difficult": "صعب",
+  "readingDifficulty.band.veryDifficult": "صعب جدًا"
 }

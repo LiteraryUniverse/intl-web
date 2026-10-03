@@ -470,5 +470,18 @@
   "common.error": "משהו השתבש. אנא נסה שוב.",
   "common.savedOffline": "נשמר במצב לא מקוון. הסנכרון יתבצע כשהחיבור יחזור.",
   "common.synced": "כל השינויים סונכרנו.",
-  "common.autoSaveDeferred": "לא ניתן לשמור כרגע. השינויים שלך נשמרים במכשיר הזה ויסונכרנו מאוחר יותר."
+  "common.autoSaveDeferred": "לא ניתן לשמור כרגע. השינויים שלך נשמרים במכשיר הזה ויסונכרנו מאוחר יותר.",
+  "readingDifficulty.check": "בדיקת קושי הקריאה",
+  "readingDifficulty.tooShort": "נדרשות לפחות {count, number} מילים בפרק כדי להפיק הערכה.",
+  "readingDifficulty.label": "קושי קריאה: {band}",
+  "readingDifficulty.score": "מדד קלות הקריאה של Flesch: {score}",
+  "readingDifficulty.explanation": "ההערכה מבוססת על אורך המשפטים ועל מספר ההברות במילה. ציון גבוה יותר פירושו טקסט קל יותר לקריאה. פיסוק חריג ושמות בדויים עשויים להשפיע על ההערכה.",
+  "readingDifficulty.chapters": "{count, plural, one {מבוסס על פרק אחד שפורסם.} two {מבוסס על שני פרקים שפורסמו, במשקל שווה לכל פרק.} other {מבוסס על # פרקים שפורסמו, במשקל שווה לכל פרק.}}",
+  "readingDifficulty.band.veryEasy": "קל מאוד",
+  "readingDifficulty.band.easy": "קל",
+  "readingDifficulty.band.fairlyEasy": "קל למדי",
+  "readingDifficulty.band.standard": "בינוני",
+  "readingDifficulty.band.fairlyDifficult": "קשה למדי",
+  "readingDifficulty.band.difficult": "קשה",
+  "readingDifficulty.band.veryDifficult": "קשה מאוד"
 }

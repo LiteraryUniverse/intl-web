@@ -470,5 +470,18 @@
   "common.error": "Что-то пошло не так. Попробуйте ещё раз.",
   "common.savedOffline": "Сохранено офлайн. Синхронизация произойдёт, когда вы снова подключитесь.",
   "common.synced": "Все изменения синхронизированы.",
-  "common.autoSaveDeferred": "Сейчас сохранить не удалось. Изменения остались на этом устройстве и синхронизируются позже."
+  "common.autoSaveDeferred": "Сейчас сохранить не удалось. Изменения остались на этом устройстве и синхронизируются позже.",
+  "readingDifficulty.check": "Проверить сложность чтения",
+  "readingDifficulty.tooShort": "Для оценки в главе должно быть не менее {count, number} слов.",
+  "readingDifficulty.label": "Сложность чтения: {band}",
+  "readingDifficulty.score": "Индекс удобочитаемости Flesch: {score}",
+  "readingDifficulty.explanation": "Оценка основана на длине предложений и числе слогов в словах. Чем выше индекс, тем легче читать текст. Необычная пунктуация и вымышленные имена могут повлиять на оценку.",
+  "readingDifficulty.chapters": "{count, plural, =1 {На основе 1 опубликованной главы.} one {На основе # опубликованной главы, каждая с равным весом.} few {На основе # опубликованных глав, каждая с равным весом.} many {На основе # опубликованных глав, каждая с равным весом.} other {На основе # опубликованной главы, каждая с равным весом.}}",
+  "readingDifficulty.band.veryEasy": "Очень низкая",
+  "readingDifficulty.band.easy": "Низкая",
+  "readingDifficulty.band.fairlyEasy": "Ниже средней",
+  "readingDifficulty.band.standard": "Средняя",
+  "readingDifficulty.band.fairlyDifficult": "Выше средней",
+  "readingDifficulty.band.difficult": "Высокая",
+  "readingDifficulty.band.veryDifficult": "Очень высокая"
 }

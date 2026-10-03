@@ -470,5 +470,18 @@
   "common.error": "Coś poszło nie tak. Spróbuj ponownie.",
   "common.savedOffline": "Zapisano offline. Synchronizacja nastąpi po ponownym połączeniu.",
   "common.synced": "Wszystkie zmiany zsynchronizowane.",
-  "common.autoSaveDeferred": "Nie udało się teraz zapisać. Twoje zmiany pozostają na tym urządzeniu i zostaną zsynchronizowane później."
+  "common.autoSaveDeferred": "Nie udało się teraz zapisać. Twoje zmiany pozostają na tym urządzeniu i zostaną zsynchronizowane później.",
+  "readingDifficulty.check": "Sprawdź poziom trudności czytania",
+  "readingDifficulty.tooShort": "Do oszacowania rozdział musi mieć co najmniej {count, number} słów.",
+  "readingDifficulty.label": "Poziom trudności czytania: {band}",
+  "readingDifficulty.score": "Indeks czytelności Flescha: {score}",
+  "readingDifficulty.explanation": "Szacowane na podstawie długości zdań i liczby sylab w słowach. Wyższy wynik oznacza łatwiejszy tekst. Nietypowa interpunkcja i wymyślone imiona mogą wpłynąć na wynik.",
+  "readingDifficulty.chapters": "{count, plural, one {Na podstawie jednego opublikowanego rozdziału.} few {Na podstawie # opublikowanych rozdziałów, każdy z taką samą wagą.} many {Na podstawie # opublikowanych rozdziałów, każdy z taką samą wagą.} other {Na podstawie # opublikowanego rozdziału, każdy z taką samą wagą.}}",
+  "readingDifficulty.band.veryEasy": "Bardzo łatwy",
+  "readingDifficulty.band.easy": "Łatwy",
+  "readingDifficulty.band.fairlyEasy": "Dość łatwy",
+  "readingDifficulty.band.standard": "Średni",
+  "readingDifficulty.band.fairlyDifficult": "Dość trudny",
+  "readingDifficulty.band.difficult": "Trudny",
+  "readingDifficulty.band.veryDifficult": "Bardzo trudny"
 }

@@ -470,5 +470,18 @@
   "common.error": "ఏదో పొరపాటు జరిగింది. దయచేసి మళ్లీ ప్రయత్నించండి.",
   "common.savedOffline": "ఆఫ్‌లైన్‌లో సేవ్ అయింది. మీరు మళ్లీ కనెక్ట్ అయినప్పుడు సింక్ అవుతుంది.",
   "common.synced": "అన్ని మార్పులు సింక్ అయ్యాయి.",
-  "common.autoSaveDeferred": "ప్రస్తుతం సేవ్ చేయడం కుదరలేదు. మీ మార్పులు ఈ పరికరంలో భద్రంగా ఉన్నాయి, తర్వాత సింక్ అవుతాయి."
+  "common.autoSaveDeferred": "ప్రస్తుతం సేవ్ చేయడం కుదరలేదు. మీ మార్పులు ఈ పరికరంలో భద్రంగా ఉన్నాయి, తర్వాత సింక్ అవుతాయి.",
+  "readingDifficulty.check": "పఠన కఠినతను తనిఖీ చేయండి",
+  "readingDifficulty.tooShort": "అంచనా కోసం అధ్యాయంలో కనీసం {count, number} పదాలు ఉండాలి.",
+  "readingDifficulty.label": "పఠన కఠినత: {band}",
+  "readingDifficulty.score": "Flesch పఠన సౌలభ్యం: {score}",
+  "readingDifficulty.explanation": "వాక్యాల పొడవు, ఒక్కో పదంలోని సిలబుల్‌ల సంఖ్య ఆధారంగా అంచనా వేయబడింది. స్కోరు ఎక్కువగా ఉంటే వచనం చదవడం సులభం. అసాధారణ విరామ చిహ్నాలు, కల్పిత పేర్లు అంచనాను ప్రభావితం చేయవచ్చు.",
+  "readingDifficulty.chapters": "{count, plural, one {ప్రచురించిన ఒక అధ్యాయం ఆధారంగా.} other {ప్రచురించిన # అధ్యాయాల ఆధారంగా, ప్రతి అధ్యాయానికి సమాన ప్రాధాన్యం.}}",
+  "readingDifficulty.band.veryEasy": "చాలా సులభం",
+  "readingDifficulty.band.easy": "సులభం",
+  "readingDifficulty.band.fairlyEasy": "కొంత సులభం",
+  "readingDifficulty.band.standard": "సాధారణం",
+  "readingDifficulty.band.fairlyDifficult": "కొంత కఠినం",
+  "readingDifficulty.band.difficult": "కఠినం",
+  "readingDifficulty.band.veryDifficult": "చాలా కఠినం"
 }

@@ -470,5 +470,18 @@
   "common.error": "എന്തോ പിശക് സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക.",
   "common.savedOffline": "ഓഫ്‌ലൈനായി സംരക്ഷിച്ചു. നിങ്ങൾ വീണ്ടും കണക്റ്റ് ചെയ്യുമ്പോൾ ഇത് സിങ്ക് ആകും.",
   "common.synced": "എല്ലാ മാറ്റങ്ങളും സിങ്ക് ചെയ്തു.",
-  "common.autoSaveDeferred": "ഇപ്പോൾ സംരക്ഷിക്കാൻ കഴിഞ്ഞില്ല. നിങ്ങളുടെ മാറ്റങ്ങൾ ഈ ഉപകരണത്തിൽ സൂക്ഷിച്ചിട്ടുണ്ട്, പിന്നീട് സിങ്ക് ആകും."
+  "common.autoSaveDeferred": "ഇപ്പോൾ സംരക്ഷിക്കാൻ കഴിഞ്ഞില്ല. നിങ്ങളുടെ മാറ്റങ്ങൾ ഈ ഉപകരണത്തിൽ സൂക്ഷിച്ചിട്ടുണ്ട്, പിന്നീട് സിങ്ക് ആകും.",
+  "readingDifficulty.check": "വായനാ കാഠിന്യം പരിശോധിക്കുക",
+  "readingDifficulty.tooShort": "കണക്കാക്കാൻ അദ്ധ്യായത്തിൽ കുറഞ്ഞത് {count, number} വാക്കുകൾ വേണം.",
+  "readingDifficulty.label": "വായനാ കാഠിന്യം: {band}",
+  "readingDifficulty.score": "Flesch വായനാ സുഗമത: {score}",
+  "readingDifficulty.explanation": "വാക്യങ്ങളുടെ നീളവും ഓരോ വാക്കിലെയും സിലബിളുകളുടെ എണ്ണവും അടിസ്ഥാനമാക്കി കണക്കാക്കിയത്. ഉയർന്ന സ്കോർ എന്നാൽ എളുപ്പത്തിൽ വായിക്കാവുന്ന ഗദ്യം. അസാധാരണമായ ചിഹ്നനവും സാങ്കൽപ്പിക പേരുകളും ഈ കണക്കിനെ ബാധിച്ചേക്കാം.",
+  "readingDifficulty.chapters": "{count, plural, one {പ്രസിദ്ധീകരിച്ച ഒരു അദ്ധ്യായത്തെ അടിസ്ഥാനമാക്കി.} other {പ്രസിദ്ധീകരിച്ച # അദ്ധ്യായങ്ങളെ അടിസ്ഥാനമാക്കി, ഓരോന്നിനും തുല്യ പരിഗണന.}}",
+  "readingDifficulty.band.veryEasy": "വളരെ എളുപ്പം",
+  "readingDifficulty.band.easy": "എളുപ്പം",
+  "readingDifficulty.band.fairlyEasy": "ഒരുവിധം എളുപ്പം",
+  "readingDifficulty.band.standard": "സാധാരണം",
+  "readingDifficulty.band.fairlyDifficult": "ഒരുവിധം പ്രയാസം",
+  "readingDifficulty.band.difficult": "പ്രയാസം",
+  "readingDifficulty.band.veryDifficult": "വളരെ പ്രയാസം"
 }

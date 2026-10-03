@@ -470,5 +470,18 @@
   "common.error": "केही गडबड भयो। कृपया फेरि प्रयास गर्नुहोस्।",
   "common.savedOffline": "अफलाइन सुरक्षित गरियो। तपाईं फेरि जडान भएपछि यो सिङ्क हुनेछ।",
   "common.synced": "सबै परिवर्तनहरू सिङ्क भए।",
-  "common.autoSaveDeferred": "अहिले सुरक्षित गर्न सकिएन। तपाईंका परिवर्तनहरू यस उपकरणमा राखिएका छन् र पछि सिङ्क हुनेछन्।"
+  "common.autoSaveDeferred": "अहिले सुरक्षित गर्न सकिएन। तपाईंका परिवर्तनहरू यस उपकरणमा राखिएका छन् र पछि सिङ्क हुनेछन्।",
+  "readingDifficulty.check": "पठन कठिनाइ जाँच्नुहोस्",
+  "readingDifficulty.tooShort": "अनुमानका लागि अध्यायमा कम्तीमा {count, number} शब्द हुनुपर्छ।",
+  "readingDifficulty.label": "पठन कठिनाइ: {band}",
+  "readingDifficulty.score": "Flesch पठन सहजता: {score}",
+  "readingDifficulty.explanation": "वाक्यको लम्बाइ र प्रति शब्द सिलेबलको सङ्ख्याबाट अनुमान गरिएको। उच्च स्कोरको अर्थ गद्य पढ्न सजिलो छ। असामान्य विराम चिह्न र काल्पनिक नामहरूले अनुमानमा असर पार्न सक्छन्।",
+  "readingDifficulty.chapters": "{count, plural, one {एउटा प्रकाशित अध्यायमा आधारित।} other {# प्रकाशित अध्यायहरूमा आधारित, प्रत्येकलाई बराबर भार दिइएको छ।}}",
+  "readingDifficulty.band.veryEasy": "धेरै सजिलो",
+  "readingDifficulty.band.easy": "सजिलो",
+  "readingDifficulty.band.fairlyEasy": "अलि सजिलो",
+  "readingDifficulty.band.standard": "सामान्य",
+  "readingDifficulty.band.fairlyDifficult": "अलि कठिन",
+  "readingDifficulty.band.difficult": "कठिन",
+  "readingDifficulty.band.veryDifficult": "धेरै कठिन"
 }

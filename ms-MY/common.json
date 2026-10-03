@@ -470,5 +470,18 @@
   "common.error": "Sesuatu telah berlaku. Sila cuba lagi.",
   "common.savedOffline": "Disimpan di luar talian. Ia akan disegerakkan apabila anda bersambung semula.",
   "common.synced": "Semua perubahan telah disegerakkan.",
-  "common.autoSaveDeferred": "Tidak dapat menyimpan sekarang. Perubahan anda disimpan pada peranti ini dan akan disegerakkan kemudian."
+  "common.autoSaveDeferred": "Tidak dapat menyimpan sekarang. Perubahan anda disimpan pada peranti ini dan akan disegerakkan kemudian.",
+  "readingDifficulty.check": "Semak tahap kesukaran bacaan",
+  "readingDifficulty.tooShort": "Bab ini memerlukan sekurang-kurangnya {count, number} patah perkataan untuk anggaran.",
+  "readingDifficulty.label": "Tahap kesukaran bacaan: {band}",
+  "readingDifficulty.score": "Flesch Reading Ease: {score}",
+  "readingDifficulty.explanation": "Dianggarkan daripada panjang ayat dan bilangan suku kata bagi setiap perkataan. Skor yang lebih tinggi bermaksud prosa lebih mudah dibaca. Tanda baca yang luar biasa dan nama rekaan boleh menjejaskan anggaran.",
+  "readingDifficulty.chapters": "{count, plural, =1 {Berdasarkan 1 bab yang telah diterbitkan.} other {Berdasarkan # bab yang telah diterbitkan, setiap satu dengan wajaran yang sama.}}",
+  "readingDifficulty.band.veryEasy": "Sangat mudah",
+  "readingDifficulty.band.easy": "Mudah",
+  "readingDifficulty.band.fairlyEasy": "Agak mudah",
+  "readingDifficulty.band.standard": "Sederhana",
+  "readingDifficulty.band.fairlyDifficult": "Agak sukar",
+  "readingDifficulty.band.difficult": "Sukar",
+  "readingDifficulty.band.veryDifficult": "Sangat sukar"
 }

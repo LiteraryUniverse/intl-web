@@ -470,5 +470,18 @@
   "common.error": "Kažkas nepavyko. Bandykite dar kartą.",
   "common.savedOffline": "Įrašyta neprisijungus. Bus sinchronizuota, kai vėl prisijungsite prie interneto.",
   "common.synced": "Visi pakeitimai sinchronizuoti.",
-  "common.autoSaveDeferred": "Šiuo metu įrašyti nepavyko. Pakeitimai saugomi šiame įrenginyje ir bus sinchronizuoti vėliau."
+  "common.autoSaveDeferred": "Šiuo metu įrašyti nepavyko. Pakeitimai saugomi šiame įrenginyje ir bus sinchronizuoti vėliau.",
+  "readingDifficulty.check": "Tikrinti skaitymo sudėtingumą",
+  "readingDifficulty.tooShort": "Kad būtų galima įvertinti, skyriuje turi būti bent {count, number} žodžių.",
+  "readingDifficulty.label": "Skaitymo sudėtingumas: {band}",
+  "readingDifficulty.score": "Flesch skaitomumo indeksas: {score}",
+  "readingDifficulty.explanation": "Įvertinta pagal sakinių ilgį ir skiemenų skaičių žodyje. Kuo aukštesnis balas, tuo lengviau skaityti tekstą. Neįprasta skyryba ir išgalvoti vardai gali turėti įtakos įvertinimui.",
+  "readingDifficulty.chapters": "{count, plural, =1 {Pagal 1 paskelbtą skyrių.} one {Pagal # paskelbtą skyrių, visų svoris vienodas.} few {Pagal # paskelbtus skyrius, visų svoris vienodas.} many {Pagal # paskelbto skyriaus, visų svoris vienodas.} other {Pagal # paskelbtų skyrių, visų svoris vienodas.}}",
+  "readingDifficulty.band.veryEasy": "Labai mažas",
+  "readingDifficulty.band.easy": "Mažas",
+  "readingDifficulty.band.fairlyEasy": "Mažesnis nei vidutinis",
+  "readingDifficulty.band.standard": "Vidutinis",
+  "readingDifficulty.band.fairlyDifficult": "Didesnis nei vidutinis",
+  "readingDifficulty.band.difficult": "Didelis",
+  "readingDifficulty.band.veryDifficult": "Labai didelis"
 }

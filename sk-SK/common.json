@@ -470,5 +470,18 @@
   "common.error": "Niečo sa pokazilo. Skúste to prosím znova.",
   "common.savedOffline": "Uložené offline. Synchronizácia prebehne, keď sa znova pripojíte.",
   "common.synced": "Všetky zmeny sú synchronizované.",
-  "common.autoSaveDeferred": "Teraz sa nepodarilo uložiť. Vaše zmeny zostávajú v tomto zariadení a synchronizujú sa neskôr."
+  "common.autoSaveDeferred": "Teraz sa nepodarilo uložiť. Vaše zmeny zostávajú v tomto zariadení a synchronizujú sa neskôr.",
+  "readingDifficulty.check": "Zistiť obtiažnosť čítania",
+  "readingDifficulty.tooShort": "Na odhad musí mať kapitola aspoň {count, number} slov.",
+  "readingDifficulty.label": "Obtiažnosť čítania: {band}",
+  "readingDifficulty.score": "Fleschov index čitateľnosti: {score}",
+  "readingDifficulty.explanation": "Odhad vychádza z dĺžky viet a počtu slabík na slovo. Vyššie skóre znamená ľahšie čítanie. Odhad môžu ovplyvniť nezvyčajná interpunkcia a vymyslené mená.",
+  "readingDifficulty.chapters": "{count, plural, one {Podľa jednej zverejnenej kapitoly.} few {Podľa # zverejnených kapitol, každá má rovnakú váhu.} many {Podľa # zverejnenej kapitoly, každá má rovnakú váhu.} other {Podľa # zverejnených kapitol, každá má rovnakú váhu.}}",
+  "readingDifficulty.band.veryEasy": "Veľmi ľahká",
+  "readingDifficulty.band.easy": "Ľahká",
+  "readingDifficulty.band.fairlyEasy": "Skôr ľahká",
+  "readingDifficulty.band.standard": "Stredná",
+  "readingDifficulty.band.fairlyDifficult": "Skôr ťažká",
+  "readingDifficulty.band.difficult": "Ťažká",
+  "readingDifficulty.band.veryDifficult": "Veľmi ťažká"
 }

@@ -470,5 +470,18 @@
   "common.error": "Щось пішло не так. Спробуйте ще раз.",
   "common.savedOffline": "Збережено офлайн. Синхронізація відбудеться, коли ви знову під'єднаєтеся.",
   "common.synced": "Усі зміни синхронізовано.",
-  "common.autoSaveDeferred": "Зараз зберегти не вдалося. Зміни залишилися на цьому пристрої й синхронізуються пізніше."
+  "common.autoSaveDeferred": "Зараз зберегти не вдалося. Зміни залишилися на цьому пристрої й синхронізуються пізніше.",
+  "readingDifficulty.check": "Перевірити складність читання",
+  "readingDifficulty.tooShort": "Для оцінки в розділі має бути щонайменше {count, number} слів.",
+  "readingDifficulty.label": "Складність читання: {band}",
+  "readingDifficulty.score": "Індекс читабельності Flesch: {score}",
+  "readingDifficulty.explanation": "Оцінка ґрунтується на довжині речень і кількості складів у словах. Що вищий індекс, то легше читати текст. Незвична пунктуація та вигадані імена можуть вплинути на оцінку.",
+  "readingDifficulty.chapters": "{count, plural, =1 {На основі 1 опублікованого розділу.} one {На основі # опублікованого розділу, кожен з однаковою вагою.} few {На основі # опублікованих розділів, кожен з однаковою вагою.} many {На основі # опублікованих розділів, кожен з однаковою вагою.} other {На основі # опублікованого розділу, кожен з однаковою вагою.}}",
+  "readingDifficulty.band.veryEasy": "Дуже низька",
+  "readingDifficulty.band.easy": "Низька",
+  "readingDifficulty.band.fairlyEasy": "Нижча за середню",
+  "readingDifficulty.band.standard": "Середня",
+  "readingDifficulty.band.fairlyDifficult": "Вища за середню",
+  "readingDifficulty.band.difficult": "Висока",
+  "readingDifficulty.band.veryDifficult": "Дуже висока"
 }

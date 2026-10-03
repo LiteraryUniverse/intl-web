@@ -470,5 +470,18 @@
   "common.error": "Er ging iets mis. Probeer het opnieuw.",
   "common.savedOffline": "Offline opgeslagen. Het wordt gesynchroniseerd zodra je weer verbinding hebt.",
   "common.synced": "Alle wijzigingen gesynchroniseerd.",
-  "common.autoSaveDeferred": "Opslaan lukt nu even niet. Je wijzigingen blijven op dit apparaat staan en worden later gesynchroniseerd."
+  "common.autoSaveDeferred": "Opslaan lukt nu even niet. Je wijzigingen blijven op dit apparaat staan en worden later gesynchroniseerd.",
+  "readingDifficulty.check": "Leesmoeilijkheid controleren",
+  "readingDifficulty.tooShort": "Het hoofdstuk heeft minstens {count, number} woorden nodig voor een schatting.",
+  "readingDifficulty.label": "Leesmoeilijkheid: {band}",
+  "readingDifficulty.score": "Flesch-leesgemak: {score}",
+  "readingDifficulty.explanation": "Geschat op basis van zinslengte en lettergrepen per woord. Een hogere score betekent makkelijker proza. Ongebruikelijke interpunctie en verzonnen namen kunnen de schatting beïnvloeden.",
+  "readingDifficulty.chapters": "{count, plural, one {Gebaseerd op één gepubliceerd hoofdstuk.} other {Gebaseerd op # gepubliceerde hoofdstukken, die elk even zwaar meetellen.}}",
+  "readingDifficulty.band.veryEasy": "Heel makkelijk",
+  "readingDifficulty.band.easy": "Makkelijk",
+  "readingDifficulty.band.fairlyEasy": "Vrij makkelijk",
+  "readingDifficulty.band.standard": "Gemiddeld",
+  "readingDifficulty.band.fairlyDifficult": "Vrij moeilijk",
+  "readingDifficulty.band.difficult": "Moeilijk",
+  "readingDifficulty.band.veryDifficult": "Heel moeilijk"
 }

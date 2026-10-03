@@ -470,5 +470,18 @@
   "common.error": "ஏதோ தவறு நடந்துவிட்டது. மீண்டும் முயற்சிக்கவும்.",
   "common.savedOffline": "ஆஃப்லைனில் சேமிக்கப்பட்டது. நீங்கள் மீண்டும் இணைந்ததும் ஒத்திசைக்கப்படும்.",
   "common.synced": "எல்லா மாற்றங்களும் ஒத்திசைக்கப்பட்டன.",
-  "common.autoSaveDeferred": "இப்போது சேமிக்க முடியவில்லை. உங்கள் மாற்றங்கள் இந்தச் சாதனத்தில் வைக்கப்பட்டுள்ளன; பின்னர் ஒத்திசைக்கப்படும்."
+  "common.autoSaveDeferred": "இப்போது சேமிக்க முடியவில்லை. உங்கள் மாற்றங்கள் இந்தச் சாதனத்தில் வைக்கப்பட்டுள்ளன; பின்னர் ஒத்திசைக்கப்படும்.",
+  "readingDifficulty.check": "வாசிப்புக் கடினத்தன்மையைச் சரிபார்க்கவும்",
+  "readingDifficulty.tooShort": "மதிப்பீட்டிற்கு அத்தியாயத்தில் குறைந்தது {count, number} சொற்கள் தேவை.",
+  "readingDifficulty.label": "வாசிப்புக் கடினத்தன்மை: {band}",
+  "readingDifficulty.score": "Flesch வாசிப்பு எளிமை: {score}",
+  "readingDifficulty.explanation": "வாக்கிய நீளம் மற்றும் ஒரு சொல்லுக்கான அசைகளின் எண்ணிக்கையிலிருந்து மதிப்பிடப்பட்டது. அதிக மதிப்பெண் என்றால் எளிதான உரைநடை. வழக்கத்திற்கு மாறான நிறுத்தற்குறிகளும் கற்பனைப் பெயர்களும் மதிப்பீட்டைப் பாதிக்கலாம்.",
+  "readingDifficulty.chapters": "{count, plural, one {வெளியிடப்பட்ட ஒரு அத்தியாயத்தின் அடிப்படையில்.} other {வெளியிடப்பட்ட # அத்தியாயங்களின் அடிப்படையில், ஒவ்வொன்றுக்கும் சம எடை.}}",
+  "readingDifficulty.band.veryEasy": "மிக எளிது",
+  "readingDifficulty.band.easy": "எளிது",
+  "readingDifficulty.band.fairlyEasy": "ஓரளவு எளிது",
+  "readingDifficulty.band.standard": "நடுத்தரம்",
+  "readingDifficulty.band.fairlyDifficult": "ஓரளவு கடினம்",
+  "readingDifficulty.band.difficult": "கடினம்",
+  "readingDifficulty.band.veryDifficult": "மிகக் கடினம்"
 }

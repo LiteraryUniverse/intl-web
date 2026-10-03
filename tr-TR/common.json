@@ -470,5 +470,18 @@
   "common.error": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
   "common.savedOffline": "Çevrimdışı kaydedildi. Yeniden bağlandığınızda eşitlenecek.",
   "common.synced": "Tüm değişiklikler eşitlendi.",
-  "common.autoSaveDeferred": "Şu anda kaydedilemedi. Değişiklikleriniz bu cihazda saklanıyor ve daha sonra eşitlenecek."
+  "common.autoSaveDeferred": "Şu anda kaydedilemedi. Değişiklikleriniz bu cihazda saklanıyor ve daha sonra eşitlenecek.",
+  "readingDifficulty.check": "Okuma zorluğunu kontrol et",
+  "readingDifficulty.tooShort": "Tahmin için bölümde en az {count, number} kelime olmalı.",
+  "readingDifficulty.label": "Okuma zorluğu: {band}",
+  "readingDifficulty.score": "Flesch Okuma Kolaylığı: {score}",
+  "readingDifficulty.explanation": "Cümle uzunluğuna ve kelime başına düşen hece sayısına göre tahmin edilir. Yüksek puan, daha kolay okunan bir metin demektir. Alışılmadık noktalama ve uydurma adlar tahmini etkileyebilir.",
+  "readingDifficulty.chapters": "{count, plural, one {Yayınlanmış bir bölüme dayanır.} other {Yayınlanmış # bölüme dayanır; her bölüm eşit ağırlıktadır.}}",
+  "readingDifficulty.band.veryEasy": "Çok kolay",
+  "readingDifficulty.band.easy": "Kolay",
+  "readingDifficulty.band.fairlyEasy": "Oldukça kolay",
+  "readingDifficulty.band.standard": "Orta",
+  "readingDifficulty.band.fairlyDifficult": "Oldukça zor",
+  "readingDifficulty.band.difficult": "Zor",
+  "readingDifficulty.band.veryDifficult": "Çok zor"
 }
