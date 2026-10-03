@@ -1308,6 +1308,7 @@
   "common.savedOffline": "ഓഫ്‌ലൈനായി സംരക്ഷിച്ചു. നിങ്ങൾ വീണ്ടും കണക്റ്റ് ചെയ്യുമ്പോൾ ഇത് സിങ്ക് ആകും.",
   "common.synced": "എല്ലാ മാറ്റങ്ങളും സിങ്ക് ചെയ്തു.",
   "common.autoSaveDeferred": "ഇപ്പോൾ സംരക്ഷിക്കാൻ കഴിഞ്ഞില്ല. നിങ്ങളുടെ മാറ്റങ്ങൾ ഈ ഉപകരണത്തിൽ സൂക്ഷിച്ചിട്ടുണ്ട്, പിന്നീട് സിങ്ക് ആകും.",
+  "readingDifficulty.title": "വായനാ കാഠിന്യം",
   "readingDifficulty.check": "വായനാ കാഠിന്യം പരിശോധിക്കുക",
   "readingDifficulty.tooShort": "കണക്കാക്കാൻ അദ്ധ്യായത്തിൽ കുറഞ്ഞത് {count, number} വാക്കുകൾ വേണം.",
   "readingDifficulty.label": "വായനാ കാഠിന്യം: {band}",

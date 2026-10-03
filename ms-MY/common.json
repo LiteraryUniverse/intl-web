@@ -471,6 +471,7 @@
   "common.savedOffline": "Disimpan di luar talian. Ia akan disegerakkan apabila anda bersambung semula.",
   "common.synced": "Semua perubahan telah disegerakkan.",
   "common.autoSaveDeferred": "Tidak dapat menyimpan sekarang. Perubahan anda disimpan pada peranti ini dan akan disegerakkan kemudian.",
+  "readingDifficulty.title": "Tahap kesukaran bacaan",
   "readingDifficulty.check": "Semak tahap kesukaran bacaan",
   "readingDifficulty.tooShort": "Bab ini memerlukan sekurang-kurangnya {count, number} patah perkataan untuk anggaran.",
   "readingDifficulty.label": "Tahap kesukaran bacaan: {band}",

@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Offline mentve. Szinkronizáljuk, amint újra lesz kapcsolat.",
   "common.synced": "Minden módosítás szinkronizálva.",
   "common.autoSaveDeferred": "Most nem sikerült menteni. A módosításaid megmaradnak ezen az eszközön, és később szinkronizáljuk őket.",
+  "readingDifficulty.title": "Olvasási nehézség",
   "readingDifficulty.check": "Olvasási nehézség ellenőrzése",
   "readingDifficulty.tooShort": "A becsléshez a fejezetnek legalább {count, number} szóból kell állnia.",
   "readingDifficulty.label": "Olvasási nehézség: {band}",

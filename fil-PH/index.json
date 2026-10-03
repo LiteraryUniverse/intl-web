@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Na-save offline. Magsi-sync ito kapag nakakonekta ka ulit.",
   "common.synced": "Na-sync na ang lahat ng pagbabago.",
   "common.autoSaveDeferred": "Hindi ma-save sa ngayon. Nakatabi ang iyong mga pagbabago sa device na ito at isi-sync mamaya.",
+  "readingDifficulty.title": "Hirap ng pagbasa",
   "readingDifficulty.check": "Suriin ang hirap ng pagbasa",
   "readingDifficulty.tooShort": "Kailangan ng kabanata ng hindi bababa sa {count, number} salita para makapagbigay ng taya.",
   "readingDifficulty.label": "Hirap ng pagbasa: {band}",

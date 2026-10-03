@@ -1308,6 +1308,7 @@
   "common.savedOffline": "تم الحفظ دون اتصال. ستتم المزامنة عند عودة الاتصال.",
   "common.synced": "تمت مزامنة جميع التغييرات.",
   "common.autoSaveDeferred": "تعذّر الحفظ الآن. تغييراتك محفوظة على هذا الجهاز وستتم مزامنتها لاحقاً.",
+  "readingDifficulty.title": "صعوبة القراءة",
   "readingDifficulty.check": "تحقق من صعوبة القراءة",
   "readingDifficulty.tooShort": "يحتاج الفصل إلى {count, number} كلمة على الأقل لإجراء التقدير.",
   "readingDifficulty.label": "صعوبة القراءة: {band}",

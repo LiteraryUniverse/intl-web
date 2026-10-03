@@ -471,6 +471,7 @@
   "common.savedOffline": "अफलाइन सुरक्षित गरियो। तपाईं फेरि जडान भएपछि यो सिङ्क हुनेछ।",
   "common.synced": "सबै परिवर्तनहरू सिङ्क भए।",
   "common.autoSaveDeferred": "अहिले सुरक्षित गर्न सकिएन। तपाईंका परिवर्तनहरू यस उपकरणमा राखिएका छन् र पछि सिङ्क हुनेछन्।",
+  "readingDifficulty.title": "पठन कठिनाइ",
   "readingDifficulty.check": "पठन कठिनाइ जाँच्नुहोस्",
   "readingDifficulty.tooShort": "अनुमानका लागि अध्यायमा कम्तीमा {count, number} शब्द हुनुपर्छ।",
   "readingDifficulty.label": "पठन कठिनाइ: {band}",

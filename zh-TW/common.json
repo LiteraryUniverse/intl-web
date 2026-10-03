@@ -471,6 +471,7 @@
   "common.savedOffline": "已離線儲存，重新連線後將會同步。",
   "common.synced": "所有變更皆已同步。",
   "common.autoSaveDeferred": "目前無法儲存。您的變更已保留在此裝置上，稍後將會同步。",
+  "readingDifficulty.title": "閱讀難度",
   "readingDifficulty.check": "檢查閱讀難度",
   "readingDifficulty.tooShort": "本章至少需要 {count, number} 個單字才能估算。",
   "readingDifficulty.label": "閱讀難度：{band}",

@@ -1308,6 +1308,7 @@
   "common.savedOffline": "অফলাইনে সংরক্ষিত হয়েছে। আবার সংযুক্ত হলে এটি সিঙ্ক হবে।",
   "common.synced": "সব পরিবর্তন সিঙ্ক হয়েছে।",
   "common.autoSaveDeferred": "এই মুহূর্তে সংরক্ষণ করা যায়নি। আপনার পরিবর্তনগুলো এই ডিভাইসে রাখা আছে এবং পরে সিঙ্ক হবে।",
+  "readingDifficulty.title": "পাঠের কাঠিন্য",
   "readingDifficulty.check": "পাঠের কাঠিন্য যাচাই করুন",
   "readingDifficulty.tooShort": "অনুমানের জন্য অধ্যায়ে কমপক্ষে {count, number}টি শব্দ প্রয়োজন।",
   "readingDifficulty.label": "পাঠের কাঠিন্য: {band}",

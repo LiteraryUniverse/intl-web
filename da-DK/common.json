@@ -471,6 +471,7 @@
   "common.savedOffline": "Gemt offline. Det synkroniseres, når du er online igen.",
   "common.synced": "Alle ændringer er synkroniseret.",
   "common.autoSaveDeferred": "Kunne ikke gemme lige nu. Dine ændringer ligger på denne enhed og synkroniseres senere.",
+  "readingDifficulty.title": "Læsesværhedsgrad",
   "readingDifficulty.check": "Tjek læsesværhedsgrad",
   "readingDifficulty.tooShort": "Kapitlet skal have mindst {count, number} ord, før der kan laves et skøn.",
   "readingDifficulty.label": "Læsesværhedsgrad: {band}",

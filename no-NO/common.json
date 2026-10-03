@@ -471,6 +471,7 @@
   "common.savedOffline": "Lagret frakoblet. Det synkroniseres når du er tilkoblet igjen.",
   "common.synced": "Alle endringer er synkronisert.",
   "common.autoSaveDeferred": "Kunne ikke lagre akkurat nå. Endringene dine ligger på denne enheten og synkroniseres senere.",
+  "readingDifficulty.title": "Lesevanskelighet",
   "readingDifficulty.check": "Sjekk lesevanskelighet",
   "readingDifficulty.tooShort": "Kapittelet må ha minst {count, number} ord for å få et anslag.",
   "readingDifficulty.label": "Lesevanskelighet: {band}",

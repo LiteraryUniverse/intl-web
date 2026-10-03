@@ -471,6 +471,7 @@
   "common.savedOffline": "შენახულია ხაზგარეშე. სინქრონიზაცია მოხდება, როცა კავშირი აღდგება.",
   "common.synced": "ყველა ცვლილება სინქრონიზებულია.",
   "common.autoSaveDeferred": "ახლა შენახვა ვერ მოხერხდა. თქვენი ცვლილებები ამ მოწყობილობაზეა შენახული და მოგვიანებით დასინქრონდება.",
+  "readingDifficulty.title": "კითხვის სირთულე",
   "readingDifficulty.check": "კითხვის სირთულის შემოწმება",
   "readingDifficulty.tooShort": "შეფასებისთვის თავში მინიმუმ {count, number} სიტყვაა საჭირო.",
   "readingDifficulty.label": "კითხვის სირთულე: {band}",

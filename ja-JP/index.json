@@ -1308,6 +1308,7 @@
   "common.savedOffline": "オフラインで保存しました。再接続すると同期されます。",
   "common.synced": "すべての変更を同期しました。",
   "common.autoSaveDeferred": "今は保存できませんでした。変更はこの端末に保持され、後で同期されます。",
+  "readingDifficulty.title": "読解難易度",
   "readingDifficulty.check": "読解難易度をチェック",
   "readingDifficulty.tooShort": "推定するには、この章に{count, number}語以上が必要です。",
   "readingDifficulty.label": "読解難易度：{band}",

@@ -471,6 +471,7 @@
   "common.savedOffline": "Desat sense connexió. Se sincronitzarà quan et tornis a connectar.",
   "common.synced": "Tots els canvis estan sincronitzats.",
   "common.autoSaveDeferred": "Ara mateix no s'ha pogut desar. Els teus canvis es conserven en aquest dispositiu i se sincronitzaran més tard.",
+  "readingDifficulty.title": "Dificultat de lectura",
   "readingDifficulty.check": "Comprova la dificultat de lectura",
   "readingDifficulty.tooShort": "El capítol necessita almenys {count, number} paraules per fer-ne una estimació.",
   "readingDifficulty.label": "Dificultat de lectura: {band}",

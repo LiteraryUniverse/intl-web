@@ -1308,6 +1308,7 @@
   "common.savedOffline": "ऑफलाइन सेव्ह केले. तुम्ही पुन्हा कनेक्ट झाल्यावर ते सिंक होईल.",
   "common.synced": "सर्व बदल सिंक झाले.",
   "common.autoSaveDeferred": "आत्ता सेव्ह करता आले नाही. तुमचे बदल या डिव्हाइसवर ठेवले आहेत आणि नंतर सिंक होतील.",
+  "readingDifficulty.title": "वाचन काठिण्य",
   "readingDifficulty.check": "वाचन काठिण्य तपासा",
   "readingDifficulty.tooShort": "अंदाजासाठी अध्यायात किमान {count, number} शब्द असणे आवश्यक आहे.",
   "readingDifficulty.label": "वाचन काठिण्य: {band}",

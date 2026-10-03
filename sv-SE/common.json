@@ -471,6 +471,7 @@
   "common.savedOffline": "Sparat offline. Det synkroniseras när du är ansluten igen.",
   "common.synced": "Alla ändringar är synkroniserade.",
   "common.autoSaveDeferred": "Det gick inte att spara just nu. Dina ändringar finns kvar på den här enheten och synkroniseras senare.",
+  "readingDifficulty.title": "Lässvårighet",
   "readingDifficulty.check": "Kontrollera lässvårighet",
   "readingDifficulty.tooShort": "Kapitlet behöver minst {count, number} ord för en uppskattning.",
   "readingDifficulty.label": "Lässvårighet: {band}",

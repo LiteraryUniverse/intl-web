@@ -471,6 +471,7 @@
   "common.savedOffline": "Salvestatud võrguühenduseta. Sünkroonitakse, kui ühendus taastub.",
   "common.synced": "Kõik muudatused on sünkroonitud.",
   "common.autoSaveDeferred": "Praegu ei õnnestunud salvestada. Sinu muudatused on selles seadmes alles ja sünkroonitakse hiljem.",
+  "readingDifficulty.title": "Lugemisraskus",
   "readingDifficulty.check": "Kontrolli lugemisraskust",
   "readingDifficulty.tooShort": "Hinnangu saamiseks peab peatükis olema vähemalt {count, number} sõna.",
   "readingDifficulty.label": "Lugemisraskus: {band}",

@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Uložené offline. Synchronizácia prebehne, keď sa znova pripojíte.",
   "common.synced": "Všetky zmeny sú synchronizované.",
   "common.autoSaveDeferred": "Teraz sa nepodarilo uložiť. Vaše zmeny zostávajú v tomto zariadení a synchronizujú sa neskôr.",
+  "readingDifficulty.title": "Obtiažnosť čítania",
   "readingDifficulty.check": "Zistiť obtiažnosť čítania",
   "readingDifficulty.tooShort": "Na odhad musí mať kapitola aspoň {count, number} slov.",
   "readingDifficulty.label": "Obtiažnosť čítania: {band}",

@@ -1308,6 +1308,7 @@
   "common.savedOffline": "บันทึกแบบออฟไลน์แล้ว ระบบจะซิงก์เมื่อคุณเชื่อมต่ออีกครั้ง",
   "common.synced": "ซิงก์การเปลี่ยนแปลงทั้งหมดแล้ว",
   "common.autoSaveDeferred": "ยังบันทึกไม่ได้ในขณะนี้ การเปลี่ยนแปลงของคุณถูกเก็บไว้ในอุปกรณ์นี้และจะซิงก์ในภายหลัง",
+  "readingDifficulty.title": "ระดับความยากในการอ่าน",
   "readingDifficulty.check": "ตรวจสอบระดับความยากในการอ่าน",
   "readingDifficulty.tooShort": "บทนี้ต้องมีอย่างน้อย {count, number} คำจึงจะประเมินได้",
   "readingDifficulty.label": "ระดับความยากในการอ่าน: {band}",

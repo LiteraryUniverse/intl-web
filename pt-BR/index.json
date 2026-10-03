@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Salvo offline. A sincronização será feita quando você se reconectar.",
   "common.synced": "Todas as alterações foram sincronizadas.",
   "common.autoSaveDeferred": "Não foi possível salvar agora. Suas alterações ficam guardadas neste dispositivo e serão sincronizadas mais tarde.",
+  "readingDifficulty.title": "Dificuldade de leitura",
   "readingDifficulty.check": "Verificar dificuldade de leitura",
   "readingDifficulty.tooShort": "O capítulo precisa de pelo menos {count, number} palavras para uma estimativa.",
   "readingDifficulty.label": "Dificuldade de leitura: {band}",

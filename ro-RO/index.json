@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Salvat offline. Se va sincroniza când te reconectezi.",
   "common.synced": "Toate modificările au fost sincronizate.",
   "common.autoSaveDeferred": "Nu s-a putut salva acum. Modificările tale sunt păstrate pe acest dispozitiv și se vor sincroniza mai târziu.",
+  "readingDifficulty.title": "Dificultate de lectură",
   "readingDifficulty.check": "Verifică dificultatea de lectură",
   "readingDifficulty.tooShort": "Pentru o estimare, capitolul trebuie să aibă cel puțin {count, number} de cuvinte.",
   "readingDifficulty.label": "Dificultate de lectură: {band}",

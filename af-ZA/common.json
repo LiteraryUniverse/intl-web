@@ -471,6 +471,7 @@
   "common.savedOffline": "Vanlyn gestoor. Dit sinkroniseer sodra jy weer koppel.",
   "common.synced": "Alle veranderinge is gesinkroniseer.",
   "common.autoSaveDeferred": "Kon nie nou stoor nie. Jou veranderinge bly op hierdie toestel en sinkroniseer later.",
+  "readingDifficulty.title": "Leesmoeilikheid",
   "readingDifficulty.check": "Kontroleer leesmoeilikheid",
   "readingDifficulty.tooShort": "Die hoofstuk het minstens {count, number} woorde nodig vir 'n skatting.",
   "readingDifficulty.label": "Leesmoeilikheid: {band}",

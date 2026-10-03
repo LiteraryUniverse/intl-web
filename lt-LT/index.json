@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Įrašyta neprisijungus. Bus sinchronizuota, kai vėl prisijungsite prie interneto.",
   "common.synced": "Visi pakeitimai sinchronizuoti.",
   "common.autoSaveDeferred": "Šiuo metu įrašyti nepavyko. Pakeitimai saugomi šiame įrenginyje ir bus sinchronizuoti vėliau.",
+  "readingDifficulty.title": "Skaitymo sudėtingumas",
   "readingDifficulty.check": "Tikrinti skaitymo sudėtingumą",
   "readingDifficulty.tooShort": "Kad būtų galima įvertinti, skyriuje turi būti bent {count, number} žodžių.",
   "readingDifficulty.label": "Skaitymo sudėtingumas: {band}",

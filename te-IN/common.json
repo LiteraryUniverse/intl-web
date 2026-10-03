@@ -471,6 +471,7 @@
   "common.savedOffline": "ఆఫ్‌లైన్‌లో సేవ్ అయింది. మీరు మళ్లీ కనెక్ట్ అయినప్పుడు సింక్ అవుతుంది.",
   "common.synced": "అన్ని మార్పులు సింక్ అయ్యాయి.",
   "common.autoSaveDeferred": "ప్రస్తుతం సేవ్ చేయడం కుదరలేదు. మీ మార్పులు ఈ పరికరంలో భద్రంగా ఉన్నాయి, తర్వాత సింక్ అవుతాయి.",
+  "readingDifficulty.title": "పఠన కఠినత",
   "readingDifficulty.check": "పఠన కఠినతను తనిఖీ చేయండి",
   "readingDifficulty.tooShort": "అంచనా కోసం అధ్యాయంలో కనీసం {count, number} పదాలు ఉండాలి.",
   "readingDifficulty.label": "పఠన కఠినత: {band}",

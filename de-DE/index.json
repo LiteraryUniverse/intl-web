@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Offline gespeichert. Die Synchronisierung erfolgt, sobald du wieder verbunden bist.",
   "common.synced": "Alle Änderungen synchronisiert.",
   "common.autoSaveDeferred": "Speichern ist gerade nicht möglich. Deine Änderungen bleiben auf diesem Gerät und werden später synchronisiert.",
+  "readingDifficulty.title": "Leseschwierigkeit",
   "readingDifficulty.check": "Leseschwierigkeit prüfen",
   "readingDifficulty.tooShort": "Für eine Schätzung braucht das Kapitel mindestens {count, number} Wörter.",
   "readingDifficulty.label": "Leseschwierigkeit: {band}",

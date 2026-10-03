@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Enregistré hors ligne. La synchronisation se fera à la reconnexion.",
   "common.synced": "Toutes les modifications sont synchronisées.",
   "common.autoSaveDeferred": "Enregistrement impossible pour le moment. Vos modifications sont conservées sur cet appareil et seront synchronisées plus tard.",
+  "readingDifficulty.title": "Difficulté de lecture",
   "readingDifficulty.check": "Vérifier la difficulté de lecture",
   "readingDifficulty.tooShort": "Le chapitre doit compter au moins {count, number} mots pour une estimation.",
   "readingDifficulty.label": "Difficulté de lecture : {band}",

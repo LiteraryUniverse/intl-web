@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Збережено офлайн. Синхронізація відбудеться, коли ви знову під'єднаєтеся.",
   "common.synced": "Усі зміни синхронізовано.",
   "common.autoSaveDeferred": "Зараз зберегти не вдалося. Зміни залишилися на цьому пристрої й синхронізуються пізніше.",
+  "readingDifficulty.title": "Складність читання",
   "readingDifficulty.check": "Перевірити складність читання",
   "readingDifficulty.tooShort": "Для оцінки в розділі має бути щонайменше {count, number} слів.",
   "readingDifficulty.label": "Складність читання: {band}",

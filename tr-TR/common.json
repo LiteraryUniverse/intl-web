@@ -471,6 +471,7 @@
   "common.savedOffline": "Çevrimdışı kaydedildi. Yeniden bağlandığınızda eşitlenecek.",
   "common.synced": "Tüm değişiklikler eşitlendi.",
   "common.autoSaveDeferred": "Şu anda kaydedilemedi. Değişiklikleriniz bu cihazda saklanıyor ve daha sonra eşitlenecek.",
+  "readingDifficulty.title": "Okuma zorluğu",
   "readingDifficulty.check": "Okuma zorluğunu kontrol et",
   "readingDifficulty.tooShort": "Tahmin için bölümde en az {count, number} kelime olmalı.",
   "readingDifficulty.label": "Okuma zorluğu: {band}",

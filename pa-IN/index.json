@@ -1308,6 +1308,7 @@
   "common.savedOffline": "ਆਫ਼ਲਾਈਨ ਸੰਭਾਲਿਆ ਗਿਆ। ਜਦੋਂ ਤੁਸੀਂ ਦੁਬਾਰਾ ਕਨੈਕਟ ਹੋਵੋਗੇ ਤਾਂ ਇਹ ਸਿੰਕ ਹੋ ਜਾਵੇਗਾ।",
   "common.synced": "ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਸਿੰਕ ਹੋ ਗਈਆਂ।",
   "common.autoSaveDeferred": "ਇਸ ਵੇਲੇ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਰੱਖੀਆਂ ਗਈਆਂ ਹਨ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਸਿੰਕ ਹੋਣਗੀਆਂ।",
+  "readingDifficulty.title": "ਪੜ੍ਹਨ ਦੀ ਔਖਿਆਈ",
   "readingDifficulty.check": "ਪੜ੍ਹਨ ਦੀ ਔਖਿਆਈ ਜਾਂਚੋ",
   "readingDifficulty.tooShort": "ਅੰਦਾਜ਼ੇ ਲਈ ਅਧਿਆਇ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ {count, number} ਸ਼ਬਦ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
   "readingDifficulty.label": "ਪੜ੍ਹਨ ਦੀ ਔਖਿਆਈ: {band}",

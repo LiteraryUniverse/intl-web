@@ -471,6 +471,7 @@
   "common.savedOffline": "Offline opgeslagen. Het wordt gesynchroniseerd zodra je weer verbinding hebt.",
   "common.synced": "Alle wijzigingen gesynchroniseerd.",
   "common.autoSaveDeferred": "Opslaan lukt nu even niet. Je wijzigingen blijven op dit apparaat staan en worden later gesynchroniseerd.",
+  "readingDifficulty.title": "Leesmoeilijkheid",
   "readingDifficulty.check": "Leesmoeilijkheid controleren",
   "readingDifficulty.tooShort": "Het hoofdstuk heeft minstens {count, number} woorden nodig voor een schatting.",
   "readingDifficulty.label": "Leesmoeilijkheid: {band}",

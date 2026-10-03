@@ -471,6 +471,7 @@
   "common.savedOffline": "ઑફલાઇન સાચવ્યું. તમે ફરી કનેક્ટ થશો ત્યારે સિંક થશે.",
   "common.synced": "બધા ફેરફારો સિંક થઈ ગયા.",
   "common.autoSaveDeferred": "અત્યારે સાચવી શકાયું નહીં. તમારા ફેરફારો આ ઉપકરણ પર સચવાયેલા છે અને પછીથી સિંક થશે.",
+  "readingDifficulty.title": "વાંચન મુશ્કેલી",
   "readingDifficulty.check": "વાંચન મુશ્કેલી તપાસો",
   "readingDifficulty.tooShort": "અંદાજ માટે અધ્યાયમાં ઓછામાં ઓછા {count, number} શબ્દો હોવા જરૂરી છે.",
   "readingDifficulty.label": "વાંચન મુશ્કેલી: {band}",

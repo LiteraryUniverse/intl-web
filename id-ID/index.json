@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Tersimpan secara offline. Akan disinkronkan saat Anda terhubung kembali.",
   "common.synced": "Semua perubahan telah disinkronkan.",
   "common.autoSaveDeferred": "Tidak dapat menyimpan saat ini. Perubahan Anda disimpan di perangkat ini dan akan disinkronkan nanti.",
+  "readingDifficulty.title": "Tingkat kesulitan membaca",
   "readingDifficulty.check": "Periksa tingkat kesulitan membaca",
   "readingDifficulty.tooShort": "Bab ini memerlukan setidaknya {count, number} kata untuk dapat diperkirakan.",
   "readingDifficulty.label": "Tingkat kesulitan membaca: {band}",

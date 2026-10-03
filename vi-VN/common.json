@@ -471,6 +471,7 @@
   "common.savedOffline": "Đã lưu ngoại tuyến. Dữ liệu sẽ được đồng bộ khi bạn kết nối lại.",
   "common.synced": "Mọi thay đổi đã được đồng bộ.",
   "common.autoSaveDeferred": "Hiện chưa thể lưu. Các thay đổi của bạn được giữ trên thiết bị này và sẽ được đồng bộ sau.",
+  "readingDifficulty.title": "Độ khó đọc",
   "readingDifficulty.check": "Kiểm tra độ khó đọc",
   "readingDifficulty.tooShort": "Chương cần có ít nhất {count, number} từ để ước tính.",
   "readingDifficulty.label": "Độ khó đọc: {band}",

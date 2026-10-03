@@ -471,6 +471,7 @@
   "common.savedOffline": "נשמר במצב לא מקוון. הסנכרון יתבצע כשהחיבור יחזור.",
   "common.synced": "כל השינויים סונכרנו.",
   "common.autoSaveDeferred": "לא ניתן לשמור כרגע. השינויים שלך נשמרים במכשיר הזה ויסונכרנו מאוחר יותר.",
+  "readingDifficulty.title": "קושי קריאה",
   "readingDifficulty.check": "בדיקת קושי הקריאה",
   "readingDifficulty.tooShort": "נדרשות לפחות {count, number} מילים בפרק כדי להפיק הערכה.",
   "readingDifficulty.label": "קושי קריאה: {band}",

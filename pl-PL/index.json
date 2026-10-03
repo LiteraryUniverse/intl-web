@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Zapisano offline. Synchronizacja nastąpi po ponownym połączeniu.",
   "common.synced": "Wszystkie zmiany zsynchronizowane.",
   "common.autoSaveDeferred": "Nie udało się teraz zapisać. Twoje zmiany pozostają na tym urządzeniu i zostaną zsynchronizowane później.",
+  "readingDifficulty.title": "Poziom trudności czytania",
   "readingDifficulty.check": "Sprawdź poziom trudności czytania",
   "readingDifficulty.tooShort": "Do oszacowania rozdział musi mieć co najmniej {count, number} słów.",
   "readingDifficulty.label": "Poziom trudności czytania: {band}",

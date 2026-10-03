@@ -471,6 +471,7 @@
   "common.savedOffline": "Tallennettu offline-tilassa. Synkronoidaan, kun yhteys palaa.",
   "common.synced": "Kaikki muutokset synkronoitu.",
   "common.autoSaveDeferred": "Tallennus ei onnistunut juuri nyt. Muutoksesi säilyvät tällä laitteella ja synkronoidaan myöhemmin.",
+  "readingDifficulty.title": "Lukemisen vaikeustaso",
   "readingDifficulty.check": "Tarkista lukemisen vaikeustaso",
   "readingDifficulty.tooShort": "Arvioon tarvitaan vähintään {count, number} sanan pituinen luku.",
   "readingDifficulty.label": "Lukemisen vaikeustaso: {band}",

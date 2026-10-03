@@ -1308,6 +1308,7 @@
   "common.savedOffline": "Konservita senrete. Ĝi sinkroniĝos, kiam vi rekonektiĝos.",
   "common.synced": "Ĉiuj ŝanĝoj estas sinkronigitaj.",
   "common.autoSaveDeferred": "Ne eblis konservi nun. Viaj ŝanĝoj restas sur ĉi tiu aparato kaj sinkroniĝos poste.",
+  "readingDifficulty.title": "Legmalfacileco",
   "readingDifficulty.check": "Kontroli legmalfacilecon",
   "readingDifficulty.tooShort": "La ĉapitro bezonas almenaŭ {count, number} vortojn por takso.",
   "readingDifficulty.label": "Legmalfacileco: {band}",
