@@ -471,6 +471,8 @@
   "common.savedOffline": "Saved offline. It will sync when you reconnect.",
   "common.synced": "All changes synced.",
   "common.autoSaveDeferred": "Couldn't save right now. Your changes are kept on this device and will sync later.",
+  "readingDifficulty.check": "Check reading difficulty",
+  "readingDifficulty.tooShort": "The chapter needs at least {count, number} words for an estimate.",
   "readingDifficulty.label": "Reading difficulty: {band}",
   "readingDifficulty.score": "Flesch Reading Ease: {score}",
   "readingDifficulty.explanation": "Estimated from sentence length and syllables per word. Higher scores mean easier prose. Unusual punctuation and invented names can affect the estimate.",
