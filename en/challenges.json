@@ -53,7 +53,6 @@
   "challenges.panel.startNew": "Start a new challenge",
   "challenges.panel.none": "No challenge is running for this story.",
   "challenges.panel.start": "Start a challenge",
-  "challenges.panel.hide": "Hide challenge panel",
   "challenges.panel.chip": "{title}: {total, number} of {goal, number} words. Open side panel.",
   "challenges.panel.perDayToFinish": "Per day to finish {perDay, number}"
 }
