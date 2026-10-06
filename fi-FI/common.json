@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Keskitaso",
   "readingDifficulty.band.fairlyDifficult": "Melko vaikea",
   "readingDifficulty.band.difficult": "Vaikea",
-  "readingDifficulty.band.veryDifficult": "Erittäin vaikea"
+  "readingDifficulty.band.veryDifficult": "Erittäin vaikea",
+  "common.cookiePreferences": "Evästeasetukset"
 }

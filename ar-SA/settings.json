@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "نستخدم هذه القيمة لتقدير الوقت الذي ستحتاجه لقراءة قصة. اترك الحقل فارغًا لاستخدام {defaultSpeed, number} حرف في الدقيقة.",
   "settings.languages.measureReadingSpeed": "قِس سرعة قراءتك",
   "settings.tracking.socialButtons.title": "أزرار الشبكات الاجتماعية المضمّنة",
-  "settings.tracking.socialButtons.description": "اختر ما إذا كان بإمكان الشبكات الاجتماعية تحميل أزرار الإعجاب والمشاركة في هذا المتصفح. يمكنك تعطيلها في إعدادات ملفات تعريف الارتباط. تظل روابط المشاركة المعتادة متاحة."
+  "settings.tracking.socialButtons.description": "اختر ما إذا كان بإمكان الشبكات الاجتماعية تحميل أزرار الإعجاب والمشاركة في هذا المتصفح. يمكنك تعطيلها في إعدادات ملفات تعريف الارتباط. تظل روابط المشاركة المعتادة متاحة.",
+  "settings.apiKeys.scope.story.edit": "تعديل القصص",
+  "settings.apiKeys.scope.story.edit.desc": "تعديل بيانات القصة وملاحظات المؤلف",
+  "settings.apiKeys.scope.diary.read": "قراءة يوميات الكتابة",
+  "settings.apiKeys.scope.diary.read.desc": "الوصول إلى تدوينات يوميات الكتابة وسلاسل أيام الكتابة المتتالية"
 }

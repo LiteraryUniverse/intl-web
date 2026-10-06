@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Vidutinis",
   "readingDifficulty.band.fairlyDifficult": "Didesnis nei vidutinis",
   "readingDifficulty.band.difficult": "Didelis",
-  "readingDifficulty.band.veryDifficult": "Labai didelis"
+  "readingDifficulty.band.veryDifficult": "Labai didelis",
+  "common.cookiePreferences": "Slapukų nuostatos"
 }

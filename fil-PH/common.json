@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Karaniwan",
   "readingDifficulty.band.fairlyDifficult": "Medyo mahirap",
   "readingDifficulty.band.difficult": "Mahirap",
-  "readingDifficulty.band.veryDifficult": "Napakahirap"
+  "readingDifficulty.band.veryDifficult": "Napakahirap",
+  "common.cookiePreferences": "Mga kagustuhan sa cookie"
 }

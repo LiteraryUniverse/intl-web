@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Ons gebruik dit om te skat hoe lank dit jou sal neem om 'n verhaal te lees. Laat dit leeg om {defaultSpeed, number} karakters per minuut te gebruik.",
   "settings.languages.measureReadingSpeed": "Meet jou leesspoed",
   "settings.tracking.socialButtons.title": "Ingebedde sosialenetwerkknoppies",
-  "settings.tracking.socialButtons.description": "Kies of sosiale netwerke hul hou-van- en deelknoppies in hierdie blaaier mag laai. Jy kan hulle in jou koekievoorkeure afskakel. Gewone deelskakels bly beskikbaar."
+  "settings.tracking.socialButtons.description": "Kies of sosiale netwerke hul hou-van- en deelknoppies in hierdie blaaier mag laai. Jy kan hulle in jou koekievoorkeure afskakel. Gewone deelskakels bly beskikbaar.",
+  "settings.apiKeys.scope.story.edit": "Wysig stories",
+  "settings.apiKeys.scope.story.edit.desc": "Wysig storie-inligting en skrywersnotas",
+  "settings.apiKeys.scope.diary.read": "Lees skryfdagboek",
+  "settings.apiKeys.scope.diary.read.desc": "Kry toegang tot jou skryfdagboekinskrywings en opeenvolgende skryfdae"
 }

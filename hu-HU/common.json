@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Átlagos",
   "readingDifficulty.band.fairlyDifficult": "Viszonylag nehéz",
   "readingDifficulty.band.difficult": "Nehéz",
-  "readingDifficulty.band.veryDifficult": "Nagyon nehéz"
+  "readingDifficulty.band.veryDifficult": "Nagyon nehéz",
+  "common.cookiePreferences": "Sütibeállítások"
 }

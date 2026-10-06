@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Damit schätzen wir, wie lange du zum Lesen einer Geschichte brauchst. Lass das Feld leer, um {defaultSpeed, number} Zeichen pro Minute zu verwenden.",
   "settings.languages.measureReadingSpeed": "Miss deine Lesegeschwindigkeit",
   "settings.tracking.socialButtons.title": "Eingebettete soziale Schaltflächen",
-  "settings.tracking.socialButtons.description": "Wählen Sie, ob soziale Netzwerke ihre Gefällt-mir- und Teilen-Schaltflächen in diesem Browser laden dürfen. Sie können sie in den Cookie-Einstellungen ausschalten. Normale Links zum Teilen bleiben verfügbar."
+  "settings.tracking.socialButtons.description": "Wählen Sie, ob soziale Netzwerke ihre Gefällt-mir- und Teilen-Schaltflächen in diesem Browser laden dürfen. Sie können sie in den Cookie-Einstellungen ausschalten. Normale Links zum Teilen bleiben verfügbar.",
+  "settings.apiKeys.scope.story.edit": "Geschichten bearbeiten",
+  "settings.apiKeys.scope.story.edit.desc": "Metadaten von Geschichten und Anmerkungen des Autors bearbeiten",
+  "settings.apiKeys.scope.diary.read": "Schreibtagebuch lesen",
+  "settings.apiKeys.scope.diary.read.desc": "Auf Ihre Schreibtagebucheinträge und Serien aufeinanderfolgender Schreibtage zugreifen"
 }

@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Мы используем это значение, чтобы оценить, сколько времени вам потребуется для чтения истории. Оставьте поле пустым, чтобы использовать {defaultSpeed, number} символов в минуту.",
   "settings.languages.measureReadingSpeed": "Измерьте свою скорость чтения",
   "settings.tracking.socialButtons.title": "Встроенные кнопки социальных сетей",
-  "settings.tracking.socialButtons.description": "Выберите, могут ли социальные сети загружать кнопки «Нравится» и «Поделиться» в этом браузере. Вы можете отключить их в настройках файлов cookie. Обычные ссылки для отправки останутся доступными."
+  "settings.tracking.socialButtons.description": "Выберите, могут ли социальные сети загружать кнопки «Нравится» и «Поделиться» в этом браузере. Вы можете отключить их в настройках файлов cookie. Обычные ссылки для отправки останутся доступными.",
+  "settings.apiKeys.scope.story.edit": "Редактировать истории",
+  "settings.apiKeys.scope.story.edit.desc": "Редактировать метаданные историй и примечания автора",
+  "settings.apiKeys.scope.diary.read": "Читать дневник писателя",
+  "settings.apiKeys.scope.diary.read.desc": "Доступ к записям дневника писателя и сериям дней непрерывной работы над текстом"
 }

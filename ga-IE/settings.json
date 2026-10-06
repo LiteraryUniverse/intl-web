@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Úsáidimid é seo chun a mheas cé chomh fada a thógfaidh sé ort scéal a léamh. Fág an réimse folamh chun {defaultSpeed, number} carachtar sa nóiméad a úsáid.",
   "settings.languages.measureReadingSpeed": "Tomhais do luas léitheoireachta",
   "settings.tracking.socialButtons.title": "Cnaipí sóisialta leabaithe",
-  "settings.tracking.socialButtons.description": "Roghnaigh an féidir le líonraí sóisialta a gcnaipí is maith liom agus comhroinnte a lódáil sa bhrabhsálaí seo. Is féidir leat iad a mhúchadh sna roghanna fianán. Beidh na gnáthnaisc chomhroinnte fós ar fáil."
+  "settings.tracking.socialButtons.description": "Roghnaigh an féidir le líonraí sóisialta a gcnaipí is maith liom agus comhroinnte a lódáil sa bhrabhsálaí seo. Is féidir leat iad a mhúchadh sna roghanna fianán. Beidh na gnáthnaisc chomhroinnte fós ar fáil.",
+  "settings.apiKeys.scope.story.edit": "Cuir scéalta in eagar",
+  "settings.apiKeys.scope.story.edit.desc": "Cuir meiteashonraí scéalta agus nótaí an údair in eagar",
+  "settings.apiKeys.scope.diary.read": "Léigh dialann scríbhneoireachta",
+  "settings.apiKeys.scope.diary.read.desc": "Faigh rochtain ar iontrálacha do dhialainne scríbhneoireachta agus ar shraitheanna laethanta scríbhneoireachta as a chéile"
 }

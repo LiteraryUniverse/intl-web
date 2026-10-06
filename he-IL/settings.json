@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "אנו משתמשים בערך זה כדי להעריך כמה זמן יידרש לך לקרוא סיפור. אפשר להשאיר את השדה ריק כדי להשתמש ב־{defaultSpeed, number} תווים בדקה.",
   "settings.languages.measureReadingSpeed": "מדידת מהירות הקריאה שלך",
   "settings.tracking.socialButtons.title": "כפתורים חברתיים מוטמעים",
-  "settings.tracking.socialButtons.description": "בחרו אם לאפשר לרשתות חברתיות לטעון את כפתורי האהבתי והשיתוף שלהן בדפדפן זה. ניתן להשבית אותם בהעדפות העוגיות. קישורי השיתוף הרגילים יישארו זמינים."
+  "settings.tracking.socialButtons.description": "בחרו אם לאפשר לרשתות חברתיות לטעון את כפתורי האהבתי והשיתוף שלהן בדפדפן זה. ניתן להשבית אותם בהעדפות העוגיות. קישורי השיתוף הרגילים יישארו זמינים.",
+  "settings.apiKeys.scope.story.edit": "עריכת סיפורים",
+  "settings.apiKeys.scope.story.edit.desc": "עריכת מטא־נתונים של סיפורים והערות המחבר",
+  "settings.apiKeys.scope.diary.read": "קריאת יומן הכתיבה",
+  "settings.apiKeys.scope.diary.read.desc": "גישה לרשומות ביומן הכתיבה ולרצפי ימי הכתיבה שלכם"
 }

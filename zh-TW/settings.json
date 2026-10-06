@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "我們用這個數值估算您讀完一篇故事所需的時間。留空時會使用每分鐘 {defaultSpeed, number} 字。",
   "settings.languages.measureReadingSpeed": "測量您的閱讀速度",
   "settings.tracking.socialButtons.title": "嵌入式社群按鈕",
-  "settings.tracking.socialButtons.description": "選擇是否允許社群網路在此瀏覽器中載入按讚和分享按鈕。您可以在 Cookie 偏好設定中關閉這些按鈕。一般分享連結仍可使用。"
+  "settings.tracking.socialButtons.description": "選擇是否允許社群網路在此瀏覽器中載入按讚和分享按鈕。您可以在 Cookie 偏好設定中關閉這些按鈕。一般分享連結仍可使用。",
+  "settings.apiKeys.scope.story.edit": "編輯故事",
+  "settings.apiKeys.scope.story.edit.desc": "編輯故事中繼資料和作者備註",
+  "settings.apiKeys.scope.diary.read": "閱讀寫作日記",
+  "settings.apiKeys.scope.diary.read.desc": "存取您的寫作日記內容和連續寫作紀錄"
 }

@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "בינוני",
   "readingDifficulty.band.fairlyDifficult": "קשה למדי",
   "readingDifficulty.band.difficult": "קשה",
-  "readingDifficulty.band.veryDifficult": "קשה מאוד"
+  "readingDifficulty.band.veryDifficult": "קשה מאוד",
+  "common.cookiePreferences": "העדפות עוגיות"
 }

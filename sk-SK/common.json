@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Stredná",
   "readingDifficulty.band.fairlyDifficult": "Skôr ťažká",
   "readingDifficulty.band.difficult": "Ťažká",
-  "readingDifficulty.band.veryDifficult": "Veľmi ťažká"
+  "readingDifficulty.band.veryDifficult": "Veľmi ťažká",
+  "common.cookiePreferences": "Nastavenia súborov cookie"
 }

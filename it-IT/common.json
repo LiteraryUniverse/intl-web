@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Media",
   "readingDifficulty.band.fairlyDifficult": "Abbastanza difficile",
   "readingDifficulty.band.difficult": "Difficile",
-  "readingDifficulty.band.veryDifficult": "Molto difficile"
+  "readingDifficulty.band.veryDifficult": "Molto difficile",
+  "common.cookiePreferences": "Preferenze dei cookie"
 }

@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "মাঝারি",
   "readingDifficulty.band.fairlyDifficult": "মোটামুটি কঠিন",
   "readingDifficulty.band.difficult": "কঠিন",
-  "readingDifficulty.band.veryDifficult": "খুব কঠিন"
+  "readingDifficulty.band.veryDifficult": "খুব কঠিন",
+  "common.cookiePreferences": "কুকির পছন্দ"
 }

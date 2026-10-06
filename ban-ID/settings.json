@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Nilai puniki kaanggen ngira-ngira galah sane ragane perlu antuk maca satua. Kosongang kolom puniki yening jagi nganggen {defaultSpeed, number} aksara saben menit.",
   "settings.languages.measureReadingSpeed": "Ukur becat maca ragane",
   "settings.tracking.socialButtons.title": "Tombol sosial sane kasisipang",
-  "settings.tracking.socialButtons.description": "Pilih napi jejaring sosial kaidinin ngwedar tombol demen miwah bagiang ring peramban puniki. Ragane prasida matiin tombol punika ring setelan cookie. Tautan bagiang sane biasa tetep prasida kaanggen."
+  "settings.tracking.socialButtons.description": "Pilih napi jejaring sosial kaidinin ngwedar tombol demen miwah bagiang ring peramban puniki. Ragane prasida matiin tombol punika ring setelan cookie. Tautan bagiang sane biasa tetep prasida kaanggen.",
+  "settings.apiKeys.scope.story.edit": "Édit satua",
+  "settings.apiKeys.scope.story.edit.desc": "Édit metadata satua miwah catetan pangawi",
+  "settings.apiKeys.scope.diary.read": "Wacen buku harian panyuratan",
+  "settings.apiKeys.scope.diary.read.desc": "Aksés catetan buku harian panyuratan miwah rentetan rahina nyurat ragane"
 }

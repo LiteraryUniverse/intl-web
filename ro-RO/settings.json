@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Folosim această valoare pentru a estima cât timp îți va lua să citești o poveste. Lasă câmpul gol pentru a folosi {defaultSpeed, number} caractere pe minut.",
   "settings.languages.measureReadingSpeed": "Măsoară-ți viteza de citire",
   "settings.tracking.socialButtons.title": "Butoane sociale încorporate",
-  "settings.tracking.socialButtons.description": "Alegeți dacă rețelele sociale pot încărca butoanele de apreciere și distribuire în acest browser. Le puteți dezactiva în preferințele pentru cookie-uri. Linkurile obișnuite de distribuire rămân disponibile."
+  "settings.tracking.socialButtons.description": "Alegeți dacă rețelele sociale pot încărca butoanele de apreciere și distribuire în acest browser. Le puteți dezactiva în preferințele pentru cookie-uri. Linkurile obișnuite de distribuire rămân disponibile.",
+  "settings.apiKeys.scope.story.edit": "Editarea poveștilor",
+  "settings.apiKeys.scope.story.edit.desc": "Editarea metadatelor poveștilor și a notelor autorului",
+  "settings.apiKeys.scope.diary.read": "Citirea jurnalului de scriere",
+  "settings.apiKeys.scope.diary.read.desc": "Acces la însemnările din jurnalul de scriere și la seriile de zile consecutive de scriere"
 }

@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Ginagamit namin ito para tantiyahin kung gaano katagal mong babasahin ang isang kuwento. Iwanang blangko ang patlang para gumamit ng {defaultSpeed, number} karakter bawat minuto.",
   "settings.languages.measureReadingSpeed": "Sukatin ang bilis mo sa pagbasa",
   "settings.tracking.socialButtons.title": "Mga nakapaloob na pindutan ng social media",
-  "settings.tracking.socialButtons.description": "Piliin kung papayagan ang mga social network na i-load ang kanilang mga pindutan ng gusto at pagbabahagi sa browser na ito. Maaari mong i-off ang mga ito sa mga kagustuhan sa cookie. Mananatiling magagamit ang mga karaniwang link sa pagbabahagi."
+  "settings.tracking.socialButtons.description": "Piliin kung papayagan ang mga social network na i-load ang kanilang mga pindutan ng gusto at pagbabahagi sa browser na ito. Maaari mong i-off ang mga ito sa mga kagustuhan sa cookie. Mananatiling magagamit ang mga karaniwang link sa pagbabahagi.",
+  "settings.apiKeys.scope.story.edit": "I-edit ang mga kuwento",
+  "settings.apiKeys.scope.story.edit.desc": "I-edit ang metadata ng kuwento at mga tala ng may-akda",
+  "settings.apiKeys.scope.diary.read": "Basahin ang talaarawan sa pagsusulat",
+  "settings.apiKeys.scope.diary.read.desc": "I-access ang iyong mga tala sa talaarawan sa pagsusulat at mga sunod-sunod na araw ng pagsusulat"
 }

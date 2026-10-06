@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "ਕਹਾਣੀ ਪੜ੍ਹਨ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨਾ ਸਮਾਂ ਲੱਗੇਗਾ, ਇਸ ਦਾ ਅੰਦਾਜ਼ਾ ਲਗਾਉਣ ਲਈ ਅਸੀਂ ਇਹ ਮੁੱਲ ਵਰਤਦੇ ਹਾਂ। ਪ੍ਰਤੀ ਮਿੰਟ {defaultSpeed, number} ਅੱਖਰ ਵਰਤਣ ਲਈ ਇਹ ਖੇਤਰ ਖਾਲੀ ਛੱਡੋ।",
   "settings.languages.measureReadingSpeed": "ਆਪਣੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀ ਮਾਪੋ",
   "settings.tracking.socialButtons.title": "ਪੰਨੇ ਵਿੱਚ ਸ਼ਾਮਲ ਸੋਸ਼ਲ ਬਟਨ",
-  "settings.tracking.socialButtons.description": "ਚੁਣੋ ਕਿ ਸੋਸ਼ਲ ਨੈੱਟਵਰਕ ਇਸ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਆਪਣੇ ਪਸੰਦ ਅਤੇ ਸਾਂਝਾ ਕਰਨ ਦੇ ਬਟਨ ਲੋਡ ਕਰ ਸਕਦੇ ਹਨ ਜਾਂ ਨਹੀਂ। ਤੁਸੀਂ ਕੂਕੀ ਤਰਜੀਹਾਂ ਵਿੱਚ ਉਨ੍ਹਾਂ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਆਮ ਸਾਂਝਾ ਕਰਨ ਵਾਲੇ ਲਿੰਕ ਉਪਲਬਧ ਰਹਿਣਗੇ।"
+  "settings.tracking.socialButtons.description": "ਚੁਣੋ ਕਿ ਸੋਸ਼ਲ ਨੈੱਟਵਰਕ ਇਸ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਆਪਣੇ ਪਸੰਦ ਅਤੇ ਸਾਂਝਾ ਕਰਨ ਦੇ ਬਟਨ ਲੋਡ ਕਰ ਸਕਦੇ ਹਨ ਜਾਂ ਨਹੀਂ। ਤੁਸੀਂ ਕੂਕੀ ਤਰਜੀਹਾਂ ਵਿੱਚ ਉਨ੍ਹਾਂ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਆਮ ਸਾਂਝਾ ਕਰਨ ਵਾਲੇ ਲਿੰਕ ਉਪਲਬਧ ਰਹਿਣਗੇ।",
+  "settings.apiKeys.scope.story.edit": "ਕਹਾਣੀਆਂ ਸੰਪਾਦਿਤ ਕਰੋ",
+  "settings.apiKeys.scope.story.edit.desc": "ਕਹਾਣੀ ਦਾ ਮੈਟਾਡੇਟਾ ਅਤੇ ਲੇਖਕ ਦੇ ਨੋਟ ਸੰਪਾਦਿਤ ਕਰੋ",
+  "settings.apiKeys.scope.diary.read": "ਲਿਖਣ ਦੀ ਡਾਇਰੀ ਪੜ੍ਹੋ",
+  "settings.apiKeys.scope.diary.read.desc": "ਆਪਣੀ ਲਿਖਣ ਦੀ ਡਾਇਰੀ ਦੀਆਂ ਐਂਟਰੀਆਂ ਅਤੇ ਲਗਾਤਾਰ ਲਿਖੇ ਦਿਨਾਂ ਦੀਆਂ ਲੜੀਆਂ ਦੇਖੋ"
 }

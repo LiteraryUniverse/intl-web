@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Na tej podstawie szacujemy, ile czasu zajmie Ci przeczytanie historii. Zostaw pole puste, aby użyć prędkości {defaultSpeed, number} znaków na minutę.",
   "settings.languages.measureReadingSpeed": "Zmierz swoją prędkość czytania",
   "settings.tracking.socialButtons.title": "Osadzone przyciski społecznościowe",
-  "settings.tracking.socialButtons.description": "Można wybrać, czy serwisy społecznościowe mogą ładować przyciski Lubię to i Udostępnij w tej przeglądarce. Można je wyłączyć w preferencjach plików cookie. Zwykłe linki do udostępniania pozostają dostępne."
+  "settings.tracking.socialButtons.description": "Można wybrać, czy serwisy społecznościowe mogą ładować przyciski Lubię to i Udostępnij w tej przeglądarce. Można je wyłączyć w preferencjach plików cookie. Zwykłe linki do udostępniania pozostają dostępne.",
+  "settings.apiKeys.scope.story.edit": "Edytowanie historii",
+  "settings.apiKeys.scope.story.edit.desc": "Edytowanie metadanych historii i notatek autora",
+  "settings.apiKeys.scope.diary.read": "Odczyt dziennika pisania",
+  "settings.apiKeys.scope.diary.read.desc": "Dostęp do wpisów w dzienniku pisania i serii kolejnych dni pisania"
 }

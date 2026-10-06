@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Trung bình",
   "readingDifficulty.band.fairlyDifficult": "Khá khó",
   "readingDifficulty.band.difficult": "Khó",
-  "readingDifficulty.band.veryDifficult": "Rất khó"
+  "readingDifficulty.band.veryDifficult": "Rất khó",
+  "common.cookiePreferences": "Tùy chọn cookie"
 }

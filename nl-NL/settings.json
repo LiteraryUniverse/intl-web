@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Hiermee schatten we hoe lang je nodig hebt om een verhaal te lezen. Laat het veld leeg om {defaultSpeed, number} tekens per minuut te gebruiken.",
   "settings.languages.measureReadingSpeed": "Meet je leessnelheid",
   "settings.tracking.socialButtons.title": "Ingebedde sociale knoppen",
-  "settings.tracking.socialButtons.description": "Kies of sociale netwerken hun vind-ik-leuk- en deelknoppen in deze browser mogen laden. U kunt ze uitschakelen in de cookievoorkeuren. Gewone deellinks blijven beschikbaar."
+  "settings.tracking.socialButtons.description": "Kies of sociale netwerken hun vind-ik-leuk- en deelknoppen in deze browser mogen laden. U kunt ze uitschakelen in de cookievoorkeuren. Gewone deellinks blijven beschikbaar.",
+  "settings.apiKeys.scope.story.edit": "Verhalen bewerken",
+  "settings.apiKeys.scope.story.edit.desc": "Metadata van verhalen en auteursnotities bewerken",
+  "settings.apiKeys.scope.diary.read": "Schrijfdagboek lezen",
+  "settings.apiKeys.scope.diary.read.desc": "Toegang tot uw schrijfdagboekberichten en reeksen opeenvolgende schrijfdagen"
 }

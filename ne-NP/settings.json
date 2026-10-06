@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "एउटा कथा पढ्न तपाईंलाई कति समय लाग्छ भन्ने अनुमान गर्न हामी यो मान प्रयोग गर्छौँ। प्रति मिनेट {defaultSpeed, number} अक्षर प्रयोग गर्न यो खाली छोड्नुहोस्।",
   "settings.languages.measureReadingSpeed": "आफ्नो पढ्ने गति मापन गर्नुहोस्",
   "settings.tracking.socialButtons.title": "पृष्ठमा समावेश गरिएका सामाजिक बटनहरू",
-  "settings.tracking.socialButtons.description": "सामाजिक सञ्जालहरूले यस ब्राउजरमा आफ्ना मन पराउने र साझा गर्ने बटन लोड गर्न पाउने कि नपाउने छान्नुहोस्। तपाईं कुकी प्राथमिकतामा तिनलाई बन्द गर्न सक्नुहुन्छ। सामान्य साझा गर्ने लिङ्कहरू उपलब्ध रहन्छन्।"
+  "settings.tracking.socialButtons.description": "सामाजिक सञ्जालहरूले यस ब्राउजरमा आफ्ना मन पराउने र साझा गर्ने बटन लोड गर्न पाउने कि नपाउने छान्नुहोस्। तपाईं कुकी प्राथमिकतामा तिनलाई बन्द गर्न सक्नुहुन्छ। सामान्य साझा गर्ने लिङ्कहरू उपलब्ध रहन्छन्।",
+  "settings.apiKeys.scope.story.edit": "कथाहरू सम्पादन गर्नुहोस्",
+  "settings.apiKeys.scope.story.edit.desc": "कथाको मेटाडेटा र लेखकका टिप्पणीहरू सम्पादन गर्नुहोस्",
+  "settings.apiKeys.scope.diary.read": "लेखन डायरी पढ्नुहोस्",
+  "settings.apiKeys.scope.diary.read.desc": "तपाईंको लेखन डायरीका प्रविष्टिहरू र लगातार लेखेका दिनका शृङ्खलाहरू हेर्नुहोस्"
 }

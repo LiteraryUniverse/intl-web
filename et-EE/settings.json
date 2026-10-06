@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Selle abil hindame, kui kaua sul loo lugemiseks kulub. Jäta väli tühjaks, et kasutada kiirust {defaultSpeed, number} märki minutis.",
   "settings.languages.measureReadingSpeed": "Mõõda oma lugemiskiirust",
   "settings.tracking.socialButtons.title": "Manustatud sotsiaalvõrgustike nupud",
-  "settings.tracking.socialButtons.description": "Valige, kas sotsiaalvõrgustikud tohivad selles brauseris oma meeldimis- ja jagamisnuppe laadida. Saate need küpsiste eelistustes välja lülitada. Tavalised jagamislingid jäävad kättesaadavaks."
+  "settings.tracking.socialButtons.description": "Valige, kas sotsiaalvõrgustikud tohivad selles brauseris oma meeldimis- ja jagamisnuppe laadida. Saate need küpsiste eelistustes välja lülitada. Tavalised jagamislingid jäävad kättesaadavaks.",
+  "settings.apiKeys.scope.story.edit": "Muuda lugusid",
+  "settings.apiKeys.scope.story.edit.desc": "Muuda lugude metaandmeid ja autori märkusi",
+  "settings.apiKeys.scope.diary.read": "Loe kirjutamispäevikut",
+  "settings.apiKeys.scope.diary.read.desc": "Juurdepääs teie kirjutamispäeviku sissekannetele ja järjestikuste kirjutamispäevade seeriatele"
 }

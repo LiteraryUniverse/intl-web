@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Kami menggunakan nilai ini untuk memperkirakan waktu yang Anda perlukan untuk membaca sebuah cerita. Biarkan kolom kosong untuk menggunakan {defaultSpeed, number} karakter per menit.",
   "settings.languages.measureReadingSpeed": "Ukur kecepatan membaca Anda",
   "settings.tracking.socialButtons.title": "Tombol sosial tersemat",
-  "settings.tracking.socialButtons.description": "Pilih apakah jejaring sosial boleh memuat tombol suka dan berbagi di browser ini. Anda dapat menonaktifkannya di preferensi cookie. Tautan berbagi biasa tetap tersedia."
+  "settings.tracking.socialButtons.description": "Pilih apakah jejaring sosial boleh memuat tombol suka dan berbagi di browser ini. Anda dapat menonaktifkannya di preferensi cookie. Tautan berbagi biasa tetap tersedia.",
+  "settings.apiKeys.scope.story.edit": "Edit cerita",
+  "settings.apiKeys.scope.story.edit.desc": "Edit metadata cerita dan catatan penulis",
+  "settings.apiKeys.scope.diary.read": "Baca jurnal menulis",
+  "settings.apiKeys.scope.diary.read.desc": "Akses entri jurnal menulis dan rangkaian hari menulis berturut-turut Anda"
 }

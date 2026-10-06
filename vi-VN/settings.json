@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Chúng tôi dùng giá trị này để ước tính thời gian bạn cần để đọc một câu chuyện. Để trống ô này để dùng tốc độ {defaultSpeed, number} ký tự mỗi phút.",
   "settings.languages.measureReadingSpeed": "Đo tốc độ đọc của bạn",
   "settings.tracking.socialButtons.title": "Nút mạng xã hội nhúng",
-  "settings.tracking.socialButtons.description": "Chọn có cho phép mạng xã hội tải các nút thích và chia sẻ trong trình duyệt này hay không. Bạn có thể tắt chúng trong tùy chọn cookie. Các liên kết chia sẻ thông thường vẫn sử dụng được."
+  "settings.tracking.socialButtons.description": "Chọn có cho phép mạng xã hội tải các nút thích và chia sẻ trong trình duyệt này hay không. Bạn có thể tắt chúng trong tùy chọn cookie. Các liên kết chia sẻ thông thường vẫn sử dụng được.",
+  "settings.apiKeys.scope.story.edit": "Chỉnh sửa truyện",
+  "settings.apiKeys.scope.story.edit.desc": "Chỉnh sửa siêu dữ liệu của truyện và ghi chú tác giả",
+  "settings.apiKeys.scope.diary.read": "Đọc nhật ký viết",
+  "settings.apiKeys.scope.diary.read.desc": "Truy cập các mục nhật ký viết và chuỗi ngày viết liên tiếp của bạn"
 }

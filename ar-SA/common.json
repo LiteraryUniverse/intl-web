@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "متوسط",
   "readingDifficulty.band.fairlyDifficult": "صعب إلى حد ما",
   "readingDifficulty.band.difficult": "صعب",
-  "readingDifficulty.band.veryDifficult": "صعب جدًا"
+  "readingDifficulty.band.veryDifficult": "صعب جدًا",
+  "common.cookiePreferences": "إعدادات ملفات تعريف الارتباط"
 }

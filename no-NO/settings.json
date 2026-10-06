@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Vi bruker dette til å anslå hvor lang tid du vil bruke på å lese en historie. La feltet stå tomt for å bruke {defaultSpeed, number} tegn per minutt.",
   "settings.languages.measureReadingSpeed": "Mål lesehastigheten din",
   "settings.tracking.socialButtons.title": "Innebygde sosiale knapper",
-  "settings.tracking.socialButtons.description": "Velg om sosiale nettverk kan laste inn Liker- og delingsknappene sine i denne nettleseren. Du kan slå dem av i innstillingene for informasjonskapsler. Vanlige delingslenker er fortsatt tilgjengelige."
+  "settings.tracking.socialButtons.description": "Velg om sosiale nettverk kan laste inn Liker- og delingsknappene sine i denne nettleseren. Du kan slå dem av i innstillingene for informasjonskapsler. Vanlige delingslenker er fortsatt tilgjengelige.",
+  "settings.apiKeys.scope.story.edit": "Rediger historier",
+  "settings.apiKeys.scope.story.edit.desc": "Rediger metadata for historier og forfatternotater",
+  "settings.apiKeys.scope.diary.read": "Les skrivedagbok",
+  "settings.apiKeys.scope.diary.read.desc": "Få tilgang til skrivedagbokinnleggene dine og serier med sammenhengende skrivedager"
 }

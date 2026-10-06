@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "এটা কাহিনী পঢ়িবলৈ আপোনাৰ কিমান সময় লাগিব, সেয়া অনুমান কৰিবলৈ আমি এই মান ব্যৱহাৰ কৰোঁ। প্ৰতি মিনিটত {defaultSpeed, number} আখৰ ব্যৱহাৰ কৰিবলৈ ঘৰটো খালী ৰাখক।",
   "settings.languages.measureReadingSpeed": "আপোনাৰ পঢ়াৰ গতি জোখক",
   "settings.tracking.socialButtons.title": "সংযোজিত সামাজিক বুটামসমূহ",
-  "settings.tracking.socialButtons.description": "সামাজিক নেটৱৰ্কসমূহে এই ব্ৰাউজাৰত নিজৰ ভাল লগা আৰু ভাগ-বতৰা কৰাৰ বুটাম লোড কৰিব পাৰিব নে নাই বাছনি কৰক। কুকিৰ পছন্দসমূহত সেইবোৰ বন্ধ কৰিব পাৰে। সাধাৰণ ভাগ-বতৰা লিংকসমূহ উপলব্ধ হৈ থাকিব।"
+  "settings.tracking.socialButtons.description": "সামাজিক নেটৱৰ্কসমূহে এই ব্ৰাউজাৰত নিজৰ ভাল লগা আৰু ভাগ-বতৰা কৰাৰ বুটাম লোড কৰিব পাৰিব নে নাই বাছনি কৰক। কুকিৰ পছন্দসমূহত সেইবোৰ বন্ধ কৰিব পাৰে। সাধাৰণ ভাগ-বতৰা লিংকসমূহ উপলব্ধ হৈ থাকিব।",
+  "settings.apiKeys.scope.story.edit": "গল্প সম্পাদনা কৰা",
+  "settings.apiKeys.scope.story.edit.desc": "গল্পৰ মেটাডেটা আৰু লেখকৰ টোকা সম্পাদনা কৰা",
+  "settings.apiKeys.scope.diary.read": "লেখাৰ দিনলিপি পঢ়া",
+  "settings.apiKeys.scope.diary.read.desc": "আপোনাৰ লেখাৰ দিনলিপিৰ লিখনি আৰু একেৰাহে লিখা দিনৰ শৃংখলা চাবলৈ প্ৰৱেশাধিকাৰ"
 }

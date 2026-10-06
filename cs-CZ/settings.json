@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Podle této hodnoty odhadujeme, jak dlouho vám čtení příběhu zabere. Pokud pole necháte prázdné, použijeme {defaultSpeed, number} znaků za minutu.",
   "settings.languages.measureReadingSpeed": "Změřte si rychlost čtení",
   "settings.tracking.socialButtons.title": "Vložená tlačítka sociálních sítí",
-  "settings.tracking.socialButtons.description": "Zvolte, zda mohou sociální sítě v tomto prohlížeči načítat svá tlačítka To se mi líbí a Sdílet. V nastavení souborů cookie je můžete vypnout. Běžné odkazy pro sdílení zůstávají dostupné."
+  "settings.tracking.socialButtons.description": "Zvolte, zda mohou sociální sítě v tomto prohlížeči načítat svá tlačítka To se mi líbí a Sdílet. V nastavení souborů cookie je můžete vypnout. Běžné odkazy pro sdílení zůstávají dostupné.",
+  "settings.apiKeys.scope.story.edit": "Upravovat příběhy",
+  "settings.apiKeys.scope.story.edit.desc": "Upravovat metadata příběhů a poznámky autora",
+  "settings.apiKeys.scope.diary.read": "Číst deník psaní",
+  "settings.apiKeys.scope.diary.read.desc": "Přístup k záznamům ve vašem deníku psaní a nepřerušeným sériím dní psaní"
 }

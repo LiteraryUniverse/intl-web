@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Vi använder detta för att uppskatta hur lång tid det tar för dig att läsa en berättelse. Lämna fältet tomt för att använda {defaultSpeed, number} tecken per minut.",
   "settings.languages.measureReadingSpeed": "Mät din läshastighet",
   "settings.tracking.socialButtons.title": "Inbäddade knappar för sociala medier",
-  "settings.tracking.socialButtons.description": "Välj om sociala nätverk får ladda sina gilla- och delningsknappar i den här webbläsaren. Du kan stänga av dem i cookieinställningarna. Vanliga delningslänkar är fortfarande tillgängliga."
+  "settings.tracking.socialButtons.description": "Välj om sociala nätverk får ladda sina gilla- och delningsknappar i den här webbläsaren. Du kan stänga av dem i cookieinställningarna. Vanliga delningslänkar är fortfarande tillgängliga.",
+  "settings.apiKeys.scope.story.edit": "Redigera berättelser",
+  "settings.apiKeys.scope.story.edit.desc": "Redigera berättelsers metadata och författaranteckningar",
+  "settings.apiKeys.scope.diary.read": "Läsa skrivdagboken",
+  "settings.apiKeys.scope.diary.read.desc": "Få åtkomst till dina skrivdagboksinlägg och sviter av sammanhängande skrivdagar"
 }

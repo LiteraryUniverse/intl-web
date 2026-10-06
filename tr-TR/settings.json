@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Bir hikâyeyi okumanızın ne kadar süreceğini tahmin etmek için bu değeri kullanıyoruz. Dakikada {defaultSpeed, number} karakter kullanmak için alanı boş bırakın.",
   "settings.languages.measureReadingSpeed": "Okuma hızınızı ölçün",
   "settings.tracking.socialButtons.title": "Gömülü sosyal düğmeler",
-  "settings.tracking.socialButtons.description": "Sosyal ağların bu tarayıcıda beğeni ve paylaşım düğmelerini yükleyip yükleyemeyeceğini seçin. Çerez tercihlerinizde bunları kapatabilirsiniz. Normal paylaşım bağlantıları kullanılabilir durumda kalır."
+  "settings.tracking.socialButtons.description": "Sosyal ağların bu tarayıcıda beğeni ve paylaşım düğmelerini yükleyip yükleyemeyeceğini seçin. Çerez tercihlerinizde bunları kapatabilirsiniz. Normal paylaşım bağlantıları kullanılabilir durumda kalır.",
+  "settings.apiKeys.scope.story.edit": "Hikâyeleri düzenle",
+  "settings.apiKeys.scope.story.edit.desc": "Hikâye üst verilerini ve yazar notlarını düzenle",
+  "settings.apiKeys.scope.diary.read": "Yazma günlüğünü oku",
+  "settings.apiKeys.scope.diary.read.desc": "Yazma günlüğü kayıtlarınıza ve ardışık yazma günlerinize erişin"
 }

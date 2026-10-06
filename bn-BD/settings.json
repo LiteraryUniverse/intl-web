@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "একটি গল্প পড়তে আপনার কত সময় লাগবে তা অনুমান করতে আমরা এই মান ব্যবহার করি। প্রতি মিনিটে {defaultSpeed, number} অক্ষর ব্যবহার করতে ঘরটি খালি রাখুন।",
   "settings.languages.measureReadingSpeed": "আপনার পড়ার গতি মাপুন",
   "settings.tracking.socialButtons.title": "সংযুক্ত সামাজিক বোতাম",
-  "settings.tracking.socialButtons.description": "সামাজিক যোগাযোগমাধ্যমগুলো এই ব্রাউজারে তাদের পছন্দ ও শেয়ার করার বোতাম লোড করতে পারবে কি না বেছে নিন। কুকির পছন্দে এগুলো বন্ধ করতে পারবেন। সাধারণ শেয়ার করার লিংকগুলো ব্যবহার করা যাবে।"
+  "settings.tracking.socialButtons.description": "সামাজিক যোগাযোগমাধ্যমগুলো এই ব্রাউজারে তাদের পছন্দ ও শেয়ার করার বোতাম লোড করতে পারবে কি না বেছে নিন। কুকির পছন্দে এগুলো বন্ধ করতে পারবেন। সাধারণ শেয়ার করার লিংকগুলো ব্যবহার করা যাবে।",
+  "settings.apiKeys.scope.story.edit": "গল্প সম্পাদনা",
+  "settings.apiKeys.scope.story.edit.desc": "গল্পের মেটাডেটা ও লেখকের নোট সম্পাদনা করা",
+  "settings.apiKeys.scope.diary.read": "লেখার ডায়েরি পড়া",
+  "settings.apiKeys.scope.diary.read.desc": "আপনার লেখার ডায়েরির লেখা ও একটানা লেখার দিনের ধারায় অ্যাক্সেস"
 }

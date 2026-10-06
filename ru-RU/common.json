@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Средняя",
   "readingDifficulty.band.fairlyDifficult": "Выше средней",
   "readingDifficulty.band.difficult": "Высокая",
-  "readingDifficulty.band.veryDifficult": "Очень высокая"
+  "readingDifficulty.band.veryDifficult": "Очень высокая",
+  "common.cookiePreferences": "Настройки файлов cookie"
 }

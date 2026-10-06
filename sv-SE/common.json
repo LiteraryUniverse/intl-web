@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Medel",
   "readingDifficulty.band.fairlyDifficult": "Ganska svår",
   "readingDifficulty.band.difficult": "Svår",
-  "readingDifficulty.band.veryDifficult": "Mycket svår"
+  "readingDifficulty.band.veryDifficult": "Mycket svår",
+  "common.cookiePreferences": "Cookieinställningar"
 }

@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Μέτριο",
   "readingDifficulty.band.fairlyDifficult": "Αρκετά δύσκολο",
   "readingDifficulty.band.difficult": "Δύσκολο",
-  "readingDifficulty.band.veryDifficult": "Πολύ δύσκολο"
+  "readingDifficulty.band.veryDifficult": "Πολύ δύσκολο",
+  "common.cookiePreferences": "Προτιμήσεις cookie"
 }

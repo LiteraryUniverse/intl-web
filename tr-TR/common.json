@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Orta",
   "readingDifficulty.band.fairlyDifficult": "Oldukça zor",
   "readingDifficulty.band.difficult": "Zor",
-  "readingDifficulty.band.veryDifficult": "Çok zor"
+  "readingDifficulty.band.veryDifficult": "Çok zor",
+  "common.cookiePreferences": "Çerez tercihleri"
 }

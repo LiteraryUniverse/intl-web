@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Usamos esse valor para estimar quanto tempo você levará para ler uma história. Deixe o campo vazio para usar {defaultSpeed, number} caracteres por minuto.",
   "settings.languages.measureReadingSpeed": "Meça sua velocidade de leitura",
   "settings.tracking.socialButtons.title": "Botões sociais incorporados",
-  "settings.tracking.socialButtons.description": "Escolha se as redes sociais podem carregar seus botões de Curtir e Compartilhar neste navegador. É possível desativá-los nas preferências de cookies. Os links habituais de compartilhamento continuam disponíveis."
+  "settings.tracking.socialButtons.description": "Escolha se as redes sociais podem carregar seus botões de Curtir e Compartilhar neste navegador. É possível desativá-los nas preferências de cookies. Os links habituais de compartilhamento continuam disponíveis.",
+  "settings.apiKeys.scope.story.edit": "Editar histórias",
+  "settings.apiKeys.scope.story.edit.desc": "Editar os metadados das histórias e as notas do autor",
+  "settings.apiKeys.scope.diary.read": "Ler o diário de escrita",
+  "settings.apiKeys.scope.diary.read.desc": "Acessar suas entradas no diário de escrita e sequências de dias consecutivos de escrita"
 }

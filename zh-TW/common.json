@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "中等",
   "readingDifficulty.band.fairlyDifficult": "較困難",
   "readingDifficulty.band.difficult": "困難",
-  "readingDifficulty.band.veryDifficult": "非常困難"
+  "readingDifficulty.band.veryDifficult": "非常困難",
+  "common.cookiePreferences": "Cookie 偏好設定"
 }

@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Pagal tai apskaičiuojame, kiek laiko užtruksi skaitydamas istoriją. Palik lauką tuščią, kad būtų naudojamas {defaultSpeed, number} simbolių per minutę greitis.",
   "settings.languages.measureReadingSpeed": "Išmatuok savo skaitymo greitį",
   "settings.tracking.socialButtons.title": "Įterpti socialinių tinklų mygtukai",
-  "settings.tracking.socialButtons.description": "Pasirinkite, ar socialiniai tinklai gali įkelti savo patiktukų ir bendrinimo mygtukus šioje naršyklėje. Juos galite išjungti slapukų nuostatose. Įprastos bendrinimo nuorodos išlieka prieinamos."
+  "settings.tracking.socialButtons.description": "Pasirinkite, ar socialiniai tinklai gali įkelti savo patiktukų ir bendrinimo mygtukus šioje naršyklėje. Juos galite išjungti slapukų nuostatose. Įprastos bendrinimo nuorodos išlieka prieinamos.",
+  "settings.apiKeys.scope.story.edit": "Redaguoti istorijas",
+  "settings.apiKeys.scope.story.edit.desc": "Redaguoti istorijų metaduomenis ir autoriaus pastabas",
+  "settings.apiKeys.scope.diary.read": "Skaityti rašymo dienoraštį",
+  "settings.apiKeys.scope.diary.read.desc": "Pasiekti rašymo dienoraščio įrašus ir nepertraukiamas rašymo dienų serijas"
 }

@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Середня",
   "readingDifficulty.band.fairlyDifficult": "Вища за середню",
   "readingDifficulty.band.difficult": "Висока",
-  "readingDifficulty.band.veryDifficult": "Дуже висока"
+  "readingDifficulty.band.veryDifficult": "Дуже висока",
+  "common.cookiePreferences": "Налаштування файлів cookie"
 }

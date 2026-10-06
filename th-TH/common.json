@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "ปานกลาง",
   "readingDifficulty.band.fairlyDifficult": "ค่อนข้างยาก",
   "readingDifficulty.band.difficult": "ยาก",
-  "readingDifficulty.band.veryDifficult": "ยากมาก"
+  "readingDifficulty.band.veryDifficult": "ยากมาก",
+  "common.cookiePreferences": "การตั้งค่าคุกกี้"
 }

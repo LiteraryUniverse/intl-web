@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Keskmine",
   "readingDifficulty.band.fairlyDifficult": "Üsna raske",
   "readingDifficulty.band.difficult": "Raske",
-  "readingDifficulty.band.veryDifficult": "Väga raske"
+  "readingDifficulty.band.veryDifficult": "Väga raske",
+  "common.cookiePreferences": "Küpsiste eelistused"
 }

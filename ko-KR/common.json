@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "보통",
   "readingDifficulty.band.fairlyDifficult": "다소 어려움",
   "readingDifficulty.band.difficult": "어려움",
-  "readingDifficulty.band.veryDifficult": "매우 어려움"
+  "readingDifficulty.band.veryDifficult": "매우 어려움",
+  "common.cookiePreferences": "쿠키 설정"
 }

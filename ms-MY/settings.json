@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Kami menggunakan nilai ini untuk menganggarkan masa yang anda perlukan untuk membaca sebuah cerita. Biarkan ruangan kosong untuk menggunakan {defaultSpeed, number} aksara seminit.",
   "settings.languages.measureReadingSpeed": "Ukur kelajuan membaca anda",
   "settings.tracking.socialButtons.title": "Butang sosial terbenam",
-  "settings.tracking.socialButtons.description": "Pilih sama ada rangkaian sosial boleh memuatkan butang suka dan kongsi dalam pelayar ini. Anda boleh mematikannya dalam keutamaan kuki. Pautan perkongsian biasa masih tersedia."
+  "settings.tracking.socialButtons.description": "Pilih sama ada rangkaian sosial boleh memuatkan butang suka dan kongsi dalam pelayar ini. Anda boleh mematikannya dalam keutamaan kuki. Pautan perkongsian biasa masih tersedia.",
+  "settings.apiKeys.scope.story.edit": "Sunting cerita",
+  "settings.apiKeys.scope.story.edit.desc": "Sunting metadata cerita dan nota pengarang",
+  "settings.apiKeys.scope.diary.read": "Baca diari penulisan",
+  "settings.apiKeys.scope.diary.read.desc": "Akses catatan diari penulisan dan rentetan hari menulis anda"
 }

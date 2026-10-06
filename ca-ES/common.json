@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Mitjana",
   "readingDifficulty.band.fairlyDifficult": "Força difícil",
   "readingDifficulty.band.difficult": "Difícil",
-  "readingDifficulty.band.veryDifficult": "Molt difícil"
+  "readingDifficulty.band.veryDifficult": "Molt difícil",
+  "common.cookiePreferences": "Preferències de galetes"
 }

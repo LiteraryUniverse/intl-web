@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Sederhana",
   "readingDifficulty.band.fairlyDifficult": "Agak sukar",
   "readingDifficulty.band.difficult": "Sukar",
-  "readingDifficulty.band.veryDifficult": "Sangat sukar"
+  "readingDifficulty.band.veryDifficult": "Sangat sukar",
+  "common.cookiePreferences": "Keutamaan kuki"
 }

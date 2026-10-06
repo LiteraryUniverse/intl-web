@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Gemiddeld",
   "readingDifficulty.band.fairlyDifficult": "Redelik moeilik",
   "readingDifficulty.band.difficult": "Moeilik",
-  "readingDifficulty.band.veryDifficult": "Baie moeilik"
+  "readingDifficulty.band.veryDifficult": "Baie moeilik",
+  "common.cookiePreferences": "Koekievoorkeure"
 }

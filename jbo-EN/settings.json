@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "mi pilno ti lo nu smadi lo temci be lo nu do tcidu lo lisri .i ko na ciska fi ti te zu'e lo nu pilno li {defaultSpeed, number} lo ni lerfu lo mentu",
   "settings.languages.measureReadingSpeed": "ko merli lo ni do sutra lo nu tcidu",
   "settings.tracking.socialButtons.title": "lo jikca batke poi pagbu lo kibro papri",
-  "settings.tracking.socialButtons.description": "ko cuxna lo du'u xu do curmi lo nu lo kibro catlu tutci poi do pilno cu cpacu lo nelci batke .e lo benji batke lo jikca kibro ciste .i do ka'e sisti curmi la'e di'u ne'i lo te cuxna pe lo kibro vreji .i lo fadni benji samjudri cu za'o ka'e se pilno"
+  "settings.tracking.socialButtons.description": "ko cuxna lo du'u xu do curmi lo nu lo kibro catlu tutci poi do pilno cu cpacu lo nelci batke .e lo benji batke lo jikca kibro ciste .i do ka'e sisti curmi la'e di'u ne'i lo te cuxna pe lo kibro vreji .i lo fadni benji samjudri cu za'o ka'e se pilno",
+  "settings.apiKeys.scope.story.edit": "ko stika lo lisri",
+  "settings.apiKeys.scope.story.edit.desc": "ko stika lo datni be lo lisri .e lo pinka pe lo lisri finti",
+  "settings.apiKeys.scope.diary.read": "ko tcidu le ciska nicte vreji",
+  "settings.apiKeys.scope.diary.read.desc": "ko cpacu le do ciska nicte vreji .e lo porsi be lo lamji ciska djedi"
 }

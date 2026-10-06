@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "საშუალო",
   "readingDifficulty.band.fairlyDifficult": "საკმაოდ რთული",
   "readingDifficulty.band.difficult": "რთული",
-  "readingDifficulty.band.veryDifficult": "ძალიან რთული"
+  "readingDifficulty.band.veryDifficult": "ძალიან რთული",
+  "common.cookiePreferences": "ქუქი-ფაილების პარამეტრები"
 }

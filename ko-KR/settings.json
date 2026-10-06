@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "이 값으로 이야기를 읽는 데 걸리는 시간을 예상합니다. 비워 두면 분당 {defaultSpeed, number}자를 사용합니다.",
   "settings.languages.measureReadingSpeed": "읽기 속도 측정하기",
   "settings.tracking.socialButtons.title": "삽입형 소셜 버튼",
-  "settings.tracking.socialButtons.description": "이 브라우저에서 소셜 네트워크의 좋아요 및 공유 버튼을 로드하도록 허용할지 선택하세요. 쿠키 설정에서 비활성화할 수 있습니다. 일반 공유 링크는 계속 이용할 수 있습니다."
+  "settings.tracking.socialButtons.description": "이 브라우저에서 소셜 네트워크의 좋아요 및 공유 버튼을 로드하도록 허용할지 선택하세요. 쿠키 설정에서 비활성화할 수 있습니다. 일반 공유 링크는 계속 이용할 수 있습니다.",
+  "settings.apiKeys.scope.story.edit": "스토리 편집",
+  "settings.apiKeys.scope.story.edit.desc": "스토리 메타데이터 및 작가 노트 편집",
+  "settings.apiKeys.scope.diary.read": "글쓰기 일기 읽기",
+  "settings.apiKeys.scope.diary.read.desc": "글쓰기 일기 항목과 연속 작성 기록에 접근"
 }

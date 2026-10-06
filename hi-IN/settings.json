@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "हम इसका उपयोग यह अनुमान लगाने के लिए करते हैं कि कहानी पढ़ने में आपको कितना समय लगेगा। प्रति मिनट {defaultSpeed, number} अक्षरों का उपयोग करने के लिए यह फ़ील्ड खाली छोड़ दें।",
   "settings.languages.measureReadingSpeed": "अपनी पढ़ने की गति मापें",
   "settings.tracking.socialButtons.title": "पेज में शामिल सोशल बटन",
-  "settings.tracking.socialButtons.description": "चुनें कि सोशल नेटवर्क इस ब्राउज़र में अपने पसंद और साझा करने के बटन लोड कर सकते हैं या नहीं। आप कुकी प्राथमिकताओं में इन्हें बंद कर सकते हैं। सामान्य साझा करने के लिंक उपलब्ध रहेंगे।"
+  "settings.tracking.socialButtons.description": "चुनें कि सोशल नेटवर्क इस ब्राउज़र में अपने पसंद और साझा करने के बटन लोड कर सकते हैं या नहीं। आप कुकी प्राथमिकताओं में इन्हें बंद कर सकते हैं। सामान्य साझा करने के लिंक उपलब्ध रहेंगे।",
+  "settings.apiKeys.scope.story.edit": "कहानियाँ संपादित करना",
+  "settings.apiKeys.scope.story.edit.desc": "कहानी का मेटाडेटा और लेखक के नोट संपादित करना",
+  "settings.apiKeys.scope.diary.read": "लेखन डायरी पढ़ना",
+  "settings.apiKeys.scope.diary.read.desc": "आपकी लेखन डायरी की प्रविष्टियों और लगातार लिखने के दिनों की श्रृंखलाओं तक पहुँच"
 }

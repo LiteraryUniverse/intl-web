@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Ni uzas tion por taksi, kiom da tempo vi bezonos por legi rakonton. Lasu la kampon malplena por uzi {defaultSpeed, number} signojn por minuto.",
   "settings.languages.measureReadingSpeed": "Mezuru vian legorapidon",
   "settings.tracking.socialButtons.title": "Enkorpigitaj sociaj butonoj",
-  "settings.tracking.socialButtons.description": "Elektu ĉu sociaj retoj rajtas ŝargi siajn ŝat- kaj kunhavigbutonojn en ĉi tiu retumilo. Vi povas malŝalti ilin en la kuketaj preferoj. Ordinaraj kunhavigligiloj restas disponeblaj."
+  "settings.tracking.socialButtons.description": "Elektu ĉu sociaj retoj rajtas ŝargi siajn ŝat- kaj kunhavigbutonojn en ĉi tiu retumilo. Vi povas malŝalti ilin en la kuketaj preferoj. Ordinaraj kunhavigligiloj restas disponeblaj.",
+  "settings.apiKeys.scope.story.edit": "Redakti rakontojn",
+  "settings.apiKeys.scope.story.edit.desc": "Redakti rakontajn metadatumojn kaj aŭtorajn notojn",
+  "settings.apiKeys.scope.diary.read": "Legi verkadan taglibron",
+  "settings.apiKeys.scope.diary.read.desc": "Aliri viajn verkadajn taglibro-enskribojn kaj sinsekvajn verkotagojn"
 }

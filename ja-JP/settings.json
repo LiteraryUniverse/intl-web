@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "物語を読むのにかかる時間の目安を計算するために使用します。空欄にすると、毎分{defaultSpeed, number}文字が使われます。",
   "settings.languages.measureReadingSpeed": "読書速度を測定する",
   "settings.tracking.socialButtons.title": "埋め込み型ソーシャルボタン",
-  "settings.tracking.socialButtons.description": "このブラウザーで、ソーシャルネットワークの「いいね」や共有ボタンの読み込みを許可するか選択できます。クッキー設定で無効にできます。通常の共有リンクは引き続き利用できます。"
+  "settings.tracking.socialButtons.description": "このブラウザーで、ソーシャルネットワークの「いいね」や共有ボタンの読み込みを許可するか選択できます。クッキー設定で無効にできます。通常の共有リンクは引き続き利用できます。",
+  "settings.apiKeys.scope.story.edit": "ストーリーを編集",
+  "settings.apiKeys.scope.story.edit.desc": "ストーリーのメタデータと作者のメモを編集",
+  "settings.apiKeys.scope.diary.read": "執筆日記を読む",
+  "settings.apiKeys.scope.diary.read.desc": "執筆日記の記録と連続執筆記録にアクセス"
 }

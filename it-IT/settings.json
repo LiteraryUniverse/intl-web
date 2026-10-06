@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Usiamo questo valore per stimare quanto tempo ti servirà per leggere una storia. Lascia il campo vuoto per usare {defaultSpeed, number} caratteri al minuto.",
   "settings.languages.measureReadingSpeed": "Misura la tua velocità di lettura",
   "settings.tracking.socialButtons.title": "Pulsanti social incorporati",
-  "settings.tracking.socialButtons.description": "Scelga se i social network possono caricare i propri pulsanti Mi piace e Condividi in questo browser. Può disattivarli nelle preferenze dei cookie. I normali link di condivisione restano disponibili."
+  "settings.tracking.socialButtons.description": "Scelga se i social network possono caricare i propri pulsanti Mi piace e Condividi in questo browser. Può disattivarli nelle preferenze dei cookie. I normali link di condivisione restano disponibili.",
+  "settings.apiKeys.scope.story.edit": "Modificare le storie",
+  "settings.apiKeys.scope.story.edit.desc": "Modificare i metadati delle storie e le note dell'autore",
+  "settings.apiKeys.scope.diary.read": "Leggere il diario di scrittura",
+  "settings.apiKeys.scope.diary.read.desc": "Accedere alle voci del diario di scrittura e alle serie di giorni consecutivi di scrittura"
 }

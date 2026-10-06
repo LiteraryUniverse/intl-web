@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "सामान्य",
   "readingDifficulty.band.fairlyDifficult": "अलि कठिन",
   "readingDifficulty.band.difficult": "कठिन",
-  "readingDifficulty.band.veryDifficult": "धेरै कठिन"
+  "readingDifficulty.band.veryDifficult": "धेरै कठिन",
+  "common.cookiePreferences": "कुकी प्राथमिकताहरू"
 }

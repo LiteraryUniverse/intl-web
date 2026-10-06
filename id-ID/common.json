@@ -484,5 +484,6 @@
   "readingDifficulty.band.standard": "Sedang",
   "readingDifficulty.band.fairlyDifficult": "Cukup sulit",
   "readingDifficulty.band.difficult": "Sulit",
-  "readingDifficulty.band.veryDifficult": "Sangat sulit"
+  "readingDifficulty.band.veryDifficult": "Sangat sulit",
+  "common.cookiePreferences": "Preferensi cookie"
 }

@@ -241,5 +241,9 @@
   "settings.languages.charactersPerMinuteExplained": "Ezzel becsüljük meg, mennyi idő alatt olvasol el egy történetet. Hagyd üresen a mezőt, ha a percenkénti {defaultSpeed, number} karaktert szeretnéd használni.",
   "settings.languages.measureReadingSpeed": "Mérd meg az olvasási sebességed",
   "settings.tracking.socialButtons.title": "Beágyazott közösségi gombok",
-  "settings.tracking.socialButtons.description": "Válassza ki, hogy a közösségi hálózatok betölthetik-e a kedvelés- és megosztásgombjaikat ebben a böngészőben. A sütibeállításokban kikapcsolhatja őket. A szokásos megosztási hivatkozások továbbra is elérhetők."
+  "settings.tracking.socialButtons.description": "Válassza ki, hogy a közösségi hálózatok betölthetik-e a kedvelés- és megosztásgombjaikat ebben a böngészőben. A sütibeállításokban kikapcsolhatja őket. A szokásos megosztási hivatkozások továbbra is elérhetők.",
+  "settings.apiKeys.scope.story.edit": "Történetek szerkesztése",
+  "settings.apiKeys.scope.story.edit.desc": "Történetek metaadatainak és szerzői megjegyzéseinek szerkesztése",
+  "settings.apiKeys.scope.diary.read": "Írásnapló olvasása",
+  "settings.apiKeys.scope.diary.read.desc": "Hozzáférés az írásnapló bejegyzéseihez és az egymást követő írásnapok sorozataihoz"
 }
