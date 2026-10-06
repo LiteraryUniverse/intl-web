@@ -243,5 +243,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "Reading speed (characters per minute)",
   "settings.languages.charactersPerMinuteExplained": "We use this to estimate how long a story will take you to read. Leave it empty to use {defaultSpeed, number} characters per minute.",
-  "settings.languages.measureReadingSpeed": "Measure your reading speed"
+  "settings.languages.measureReadingSpeed": "Measure your reading speed",
+  "settings.tracking.socialButtons.title": "Embedded social buttons",
+  "settings.tracking.socialButtons.description": "Choose whether social networks can load their like and share buttons in this browser. You can turn them off in cookie preferences. Regular sharing links remain available."
 }

@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "Social network buttons",
+  "sharing.socialButtons.consent": "To show embedded like and share buttons, allow social buttons in your cookie preferences. These services may track your visit when their buttons load.",
+  "sharing.socialButtons.preferences": "Manage social buttons",
+  "sharing.naver": "Share on NAVER",
+  "sharing.socialButtons.unavailable": "Buttons could not load. You can use the regular share menu.",
+  "sharing.socialButtons.line": "LINE Like and Share",
+  "sharing.socialButtons.seznam": "Seznam Líbí se",
+  "sharing.socialButtons.facebook": "Facebook Share",
+  "sharing.socialButtons.x": "X Post",
+  "sharing.socialButtons.linkedin": "LinkedIn Share",
+  "sharing.socialButtons.telegram": "Telegram Share",
+  "sharing.socialButtons.pinterest": "Pinterest Save"
 }
