@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Olá, senhor viajante, é hora dos biscoitos! 🍪",
-    "description": "Não usamos cookies além dos funcionais necessários. Mas temos outras funcionalidades para fins analíticos, para as quais precisamos da aprovação do senhor.",
+    "description": "Usamos cookies necessários para manter o Literary Universe funcionando. Também é possível permitir a análise de uso e os botões sociais incorporados. Escolha quais funções opcionais deseja usar.",
     "acceptAllBtn": "Aceitar todos os 🙏",
     "acceptNecessaryBtn": "Rejeitar todos os 🙅",
     "showPreferencesBtn": "Gerenciar preferências 🔧.",
@@ -17,17 +17,22 @@
     "sections": [
       {
         "title": "Uso de cookies 🍪",
-        "description": "Este site usa cookies estritamente necessários para a funcionalidade principal. Com sua permissão, também executamos análises para entender o uso e melhorar o Universo Literário. Nossas análises não dependem de cookies, mas podem usar tecnologias semelhantes ou identificadores on-line e, portanto, exigem seu consentimento em determinadas jurisdições."
+        "description": "Os cookies necessários garantem o funcionamento da sua conta e dos pagamentos. A análise de uso e os botões sociais incorporados são opcionais. É possível alterar essas escolhas aqui a qualquer momento."
       },
       {
         "title": "Cookies estritamente necessários <span class=\"pm__badge\">sempre ativados</span>",
         "description": "Esses cookies são do nosso provedor de hospedagem e pagamento e garantem que o aplicativo funcione corretamente e que o usuário possa se conectar.",
-        "linkedCategory": "necessário"
+        "linkedCategory": "necessary"
       },
       {
         "title": "Analíticos 📊",
         "description": "Utilizamos vários serviços de análise para obter informações sobre como o senhor usa nosso site e melhorar nossos esforços de publicidade.\n<ul>\n<li>Analytics<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Mede o uso, o desempenho e os erros do site para aprimorar o Universo Literário. Não são definidos cookies para análise, mas dados técnicos e identificadores limitados podem ser processados. É necessário consentimento.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Ajuda-nos a avaliar campanhas e mostrar promoções relevantes sobre o Universo Literário em outros sites. Nenhum cookie é definido em nosso site para isso, mas tecnologias ou identificadores semelhantes podem ser usados. Consentimento necessário.</li>\n</ul>",
-        "linkedCategory": "análises"
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Botões sociais incorporados",
+        "description": "Permita os botões de Curtir e Compartilhar carregados diretamente das redes sociais. Ao carregar os botões, esses serviços podem coletar informações de navegação, usar cookies ou vincular sua visita à sua conta na rede social. Os links habituais de compartilhamento, a cópia, o e-mail e a função de compartilhamento do dispositivo funcionam sem essa permissão.",
+        "linkedCategory": "social"
       },
       {
         "title": "Mais informações",

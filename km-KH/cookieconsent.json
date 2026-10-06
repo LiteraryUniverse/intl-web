@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "description": "យើងប្រើខូគីចាំបាច់ដើម្បីឱ្យ Literary Universe ដំណើរការ។ អ្នកក៏អាចអនុញ្ញាតការវិភាគ និងប៊ូតុងបណ្ដាញសង្គមដែលបានបង្កប់ផងដែរ។ សូមជ្រើសរើសមុខងារស្រេចចិត្តដែលអ្នកចង់ប្រើ។",
     "acceptAllBtn": "Accept all 🙏",
     "acceptNecessaryBtn": "Reject all 🙅",
     "showPreferencesBtn": "Manage preferences 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "description": "ខូគីចាំបាច់ជួយឱ្យគណនី និងការទូទាត់របស់អ្នកដំណើរការ។ ការវិភាគ និងប៊ូតុងបណ្ដាញសង្គមដែលបានបង្កប់ជាមុខងារស្រេចចិត្ត។ អ្នកអាចផ្លាស់ប្ដូរជម្រើសទាំងនេះនៅទីនេះបានគ្រប់ពេល។"
       },
       {
         "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "ប៊ូតុងបណ្ដាញសង្គមដែលបានបង្កប់",
+        "description": "អនុញ្ញាតប៊ូតុងចូលចិត្ត និងចែករំលែកដែលផ្ទុកដោយផ្ទាល់ពីបណ្ដាញសង្គម។ នៅពេលផ្ទុកប៊ូតុងទាំងនេះ សេវាអាចប្រមូលព័ត៌មានអំពីការរុករក ប្រើខូគី ឬភ្ជាប់ការចូលមើលរបស់អ្នកទៅនឹងគណនីបណ្ដាញសង្គមរបស់អ្នក។ តំណចែករំលែកធម្មតា ការចម្លង អ៊ីមែល និងការចែករំលែកតាមឧបករណ៍ អាចដំណើរការដោយមិនត្រូវការការអនុញ្ញាតនេះ។",
+        "linkedCategory": "social"
       },
       {
         "title": "More information",

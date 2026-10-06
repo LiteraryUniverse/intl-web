@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Angi et passord eller koble til en annen tilgjengelig innloggingsmetode før du kobler fra denne kontoen.",
   "settings.languages.charactersPerMinute": "Lesehastighet (tegn per minutt)",
   "settings.languages.charactersPerMinuteExplained": "Vi bruker dette til å anslå hvor lang tid du vil bruke på å lese en historie. La feltet stå tomt for å bruke {defaultSpeed, number} tegn per minutt.",
-  "settings.languages.measureReadingSpeed": "Mål lesehastigheten din"
+  "settings.languages.measureReadingSpeed": "Mål lesehastigheten din",
+  "settings.tracking.socialButtons.title": "Innebygde sosiale knapper",
+  "settings.tracking.socialButtons.description": "Velg om sosiale nettverk kan laste inn Liker- og delingsknappene sine i denne nettleseren. Du kan slå dem av i innstillingene for informasjonskapsler. Vanlige delingslenker er fortsatt tilgjengelige."
 }

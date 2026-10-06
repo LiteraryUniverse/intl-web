@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Helo pengembara, masa untuk kuki! 🍪",
-    "description": "Kami tidak menggunakan kuki selain kuki fungsian yang perlu. Namun kami mempunyai fungsi lain untuk tujuan analitik yang memerlukan kelulusan anda.",
+    "description": "Kami menggunakan kuki yang perlu untuk memastikan Literary Universe berfungsi. Anda juga boleh membenarkan analitik dan butang sosial terbenam. Pilih ciri pilihan yang ingin anda gunakan.",
     "acceptAllBtn": "Terima semua 🙏",
     "acceptNecessaryBtn": "Tolak semua 🙅",
     "showPreferencesBtn": "Urus pilihan 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Penggunaan Kuki 🍪",
-        "description": "Laman web ini menggunakan kuki yang benar-benar perlu untuk fungsi teras. Dengan kebenaran anda, kami juga menjalankan analitik untuk memahami penggunaan dan menambah baik Literary Universe. Analitik kami tidak bergantung pada kuki, tetapi mungkin menggunakan teknologi serupa atau pengecam dalam talian dan oleh itu memerlukan persetujuan anda dalam bidang kuasa tertentu."
+        "description": "Kuki yang perlu memastikan akaun dan pembayaran anda berfungsi. Analitik dan butang sosial terbenam adalah pilihan. Anda boleh mengubah pilihan ini di sini pada bila-bila masa."
       },
       {
         "title": "Kuki yang Benar-benar Perlu <span class=\"pm__badge\">Sentiasa Didayakan</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "Kami menggunakan pelbagai perkhidmatan analitik untuk mendapatkan maklumat tentang cara anda menggunakan laman web kami dan menambah baik usaha pengiklanan kami.\n<ul>\n<li>Analitik (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Mengukur penggunaan laman, prestasi dan ralat untuk menambah baik Literary Universe. Tiada kuki ditetapkan untuk analitik, tetapi data teknikal dan pengecam yang terhad mungkin diproses. Persetujuan diperlukan.</li>\n<li>Penyasaran semula (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Membantu kami menilai kempen dan memaparkan promosi yang berkaitan tentang Literary Universe di laman web lain. Tiada kuki ditetapkan di laman kami untuk tujuan ini, tetapi teknologi atau pengecam serupa mungkin digunakan. Persetujuan diperlukan.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "Butang sosial terbenam",
+        "description": "Benarkan butang suka dan kongsi yang dimuatkan terus daripada rangkaian sosial. Apabila butang ini dimuatkan, perkhidmatan tersebut mungkin mengumpulkan maklumat pelayaran, menggunakan kuki atau mengaitkan lawatan anda dengan akaun sosial anda. Pautan perkongsian biasa, penyalinan, e-mel dan perkongsian melalui peranti berfungsi tanpa kebenaran ini.",
+        "linkedCategory": "social"
       },
       {
         "title": "Maklumat lanjut",

@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Legen Sie ein Passwort fest oder verbinden Sie eine andere verfügbare Anmeldemethode, bevor Sie dieses Konto trennen.",
   "settings.languages.charactersPerMinute": "Lesegeschwindigkeit (Zeichen pro Minute)",
   "settings.languages.charactersPerMinuteExplained": "Damit schätzen wir, wie lange du zum Lesen einer Geschichte brauchst. Lass das Feld leer, um {defaultSpeed, number} Zeichen pro Minute zu verwenden.",
-  "settings.languages.measureReadingSpeed": "Miss deine Lesegeschwindigkeit"
+  "settings.languages.measureReadingSpeed": "Miss deine Lesegeschwindigkeit",
+  "settings.tracking.socialButtons.title": "Eingebettete soziale Schaltflächen",
+  "settings.tracking.socialButtons.description": "Wählen Sie, ob soziale Netzwerke ihre Gefällt-mir- und Teilen-Schaltflächen in diesem Browser laden dürfen. Sie können sie in den Cookie-Einstellungen ausschalten. Normale Links zum Teilen bleiben verfügbar."
 }

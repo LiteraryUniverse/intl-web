@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "సామాజిక నెట్‌వర్క్‌ల బటన్‌లు",
+  "sharing.socialButtons.consent": "పేజీలో పొందుపరిచిన ఇష్టం మరియు షేర్ బటన్‌లను చూపించడానికి మీ కుకీ ప్రాధాన్యతల్లో సామాజిక బటన్‌లకు అనుమతి ఇవ్వండి. ఈ సేవల బటన్‌లు లోడ్ అయినప్పుడు అవి మీ సందర్శనను ట్రాక్ చేయవచ్చు.",
+  "sharing.socialButtons.preferences": "సామాజిక బటన్‌లను నిర్వహించండి",
+  "sharing.socialButtons.unavailable": "బటన్‌లను లోడ్ చేయలేకపోయాము. మీరు సాధారణ షేర్ మెనూను ఉపయోగించవచ్చు.",
+  "sharing.naver": "NAVERలో షేర్ చేయండి",
+  "sharing.socialButtons.line": "LINEలో ఇష్టం తెలియజేసి షేర్ చేయండి",
+  "sharing.socialButtons.seznam": "Seznamలో ఇష్టం తెలియజేయండి",
+  "sharing.socialButtons.facebook": "Facebookలో షేర్ చేయండి",
+  "sharing.socialButtons.x": "Xలో పోస్ట్ చేయండి",
+  "sharing.socialButtons.linkedin": "LinkedInలో షేర్ చేయండి",
+  "sharing.socialButtons.telegram": "Telegramలో షేర్ చేయండి",
+  "sharing.socialButtons.pinterest": "Pinterestలో భద్రపరచండి"
 }

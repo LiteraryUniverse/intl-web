@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "description": "Kita nganggo cookie sing dibutuhake supaya Literary Universe bisa mlaku. Sampeyan uga bisa ngidinake analitik lan tombol sosial sing disisipake. Pilih fitur pilihan sing arep sampeyan gunakake.",
     "acceptAllBtn": "Accept all 🙏",
     "acceptNecessaryBtn": "Reject all 🙅",
     "showPreferencesBtn": "Manage preferences 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "description": "Cookie sing dibutuhake njaga akun lan pambayaran sampeyan supaya tetep mlaku. Analitik lan tombol sosial sing disisipake ora wajib. Sampeyan bisa ngganti pilihan iki ing kene kapan wae."
       },
       {
         "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "Tombol sosial sing disisipake",
+        "description": "Idinake tombol seneng lan enggo bareng sing dimuat langsung saka jejaring sosial. Nalika tombol iki dimuat, layanan kasebut bisa nglumpukake katrangan babagan panlusuran, nganggo cookie, utawa nggandhengake kunjungan sampeyan karo akun sosial sampeyan. Pranala enggo bareng sing biasa, nyalin, layang elektronik, lan enggo bareng liwat piranti bisa mlaku tanpa idin iki.",
+        "linkedCategory": "social"
       },
       {
         "title": "More information",

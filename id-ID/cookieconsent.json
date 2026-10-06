@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Halo para wisatawan, saatnya makan kue! 🍪",
-    "description": "Kami tidak menggunakan cookie selain cookie fungsional yang diperlukan. Namun, kami memiliki fungsi lain untuk tujuan analisis yang memerlukan persetujuan Anda.",
+    "description": "Kami menggunakan cookie yang diperlukan agar Literary Universe dapat berfungsi. Anda juga dapat mengizinkan analitik dan tombol sosial tersemat. Pilih fitur opsional yang ingin Anda gunakan.",
     "acceptAllBtn": "Terima semua 🙏",
     "acceptNecessaryBtn": "Tolak semua 🙅",
     "showPreferencesBtn": "Mengelola preferensi 🔧",
@@ -17,17 +17,22 @@
     "sections": [
       {
         "title": "Penggunaan Cookie 🍪",
-        "description": "Situs web ini menggunakan cookie yang sangat diperlukan untuk fungsionalitas inti. Dengan izin Anda, kami juga menjalankan analisis untuk memahami penggunaan dan meningkatkan Literary Universe. Analisis kami tidak bergantung pada cookie, tetapi mungkin menggunakan teknologi serupa atau pengidentifikasi online dan oleh karena itu memerlukan persetujuan Anda di yurisdiksi tertentu."
+        "description": "Cookie yang diperlukan menjaga akun dan pembayaran Anda tetap berfungsi. Analitik dan tombol sosial tersemat bersifat opsional. Anda dapat mengubah pilihan ini di sini kapan saja."
       },
       {
         "title": "Cookie yang Sangat Diperlukan <span class=\"pm__badge\">Selalu Diaktifkan</span>",
         "description": "Cookie ini berasal dari penyedia hosting dan pembayaran kami yang memastikan bahwa aplikasi berfungsi dengan benar dan Anda dapat terhubung.",
-        "linkedCategory": "perlu"
+        "linkedCategory": "necessary"
       },
       {
         "title": "Analisis 📊",
         "description": "Kami menggunakan berbagai layanan analisis untuk mendapatkan informasi tentang bagaimana Anda menggunakan situs web kami dan meningkatkan upaya periklanan kami.\n<ul>\n<li>Analytics<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Mengukur penggunaan situs, kinerja, dan kesalahan untuk meningkatkan Literary Universe. Tidak ada cookie yang dipasang untuk analisis, tetapi data teknis dan pengidentifikasi terbatas dapat diproses. Diperlukan persetujuan.</li>\n<li>Penargetan ulang<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Membantu kami menilai kampanye dan menampilkan promosi yang relevan tentang Literary Universe di situs web lain. Tidak ada cookie yang dipasang di situs kami untuk hal ini, tetapi teknologi atau pengidentifikasi serupa dapat digunakan. Diperlukan persetujuan.</li>\n</ul>",
-        "linkedCategory": "analitik"
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Tombol sosial tersemat",
+        "description": "Izinkan tombol suka dan berbagi yang dimuat langsung dari jejaring sosial. Saat tombol ini dimuat, layanan tersebut dapat mengumpulkan informasi penjelajahan, menggunakan cookie, atau menghubungkan kunjungan Anda ke akun sosial Anda. Tautan berbagi biasa, penyalinan, email, dan berbagi melalui perangkat berfungsi tanpa izin ini.",
+        "linkedCategory": "social"
       },
       {
         "title": "Informasi lebih lanjut",

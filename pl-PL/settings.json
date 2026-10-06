@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Zanim odłączysz to konto, ustaw hasło lub połącz inną dostępną metodę logowania.",
   "settings.languages.charactersPerMinute": "Prędkość czytania (znaki na minutę)",
   "settings.languages.charactersPerMinuteExplained": "Na tej podstawie szacujemy, ile czasu zajmie Ci przeczytanie historii. Zostaw pole puste, aby użyć prędkości {defaultSpeed, number} znaków na minutę.",
-  "settings.languages.measureReadingSpeed": "Zmierz swoją prędkość czytania"
+  "settings.languages.measureReadingSpeed": "Zmierz swoją prędkość czytania",
+  "settings.tracking.socialButtons.title": "Osadzone przyciski społecznościowe",
+  "settings.tracking.socialButtons.description": "Można wybrać, czy serwisy społecznościowe mogą ładować przyciski Lubię to i Udostępnij w tej przeglądarce. Można je wyłączyć w preferencjach plików cookie. Zwykłe linki do udostępniania pozostają dostępne."
 }

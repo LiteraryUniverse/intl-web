@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Ορίστε κωδικό πρόσβασης ή συνδέστε άλλον διαθέσιμο τρόπο σύνδεσης πριν αποσυνδέσετε αυτόν τον λογαριασμό.",
   "settings.languages.charactersPerMinute": "Ταχύτητα ανάγνωσης (χαρακτήρες ανά λεπτό)",
   "settings.languages.charactersPerMinuteExplained": "Το χρησιμοποιούμε για να εκτιμήσουμε πόσο χρόνο θα χρειαστείς για να διαβάσεις μια ιστορία. Άφησε το πεδίο κενό για να χρησιμοποιηθούν {defaultSpeed, number} χαρακτήρες ανά λεπτό.",
-  "settings.languages.measureReadingSpeed": "Μέτρησε την ταχύτητα ανάγνωσής σου"
+  "settings.languages.measureReadingSpeed": "Μέτρησε την ταχύτητα ανάγνωσής σου",
+  "settings.tracking.socialButtons.title": "Ενσωματωμένα κοινωνικά κουμπιά",
+  "settings.tracking.socialButtons.description": "Επιλέξτε αν τα κοινωνικά δίκτυα μπορούν να φορτώνουν τα κουμπιά Μου αρέσει και Κοινοποίηση σε αυτό το πρόγραμμα περιήγησης. Μπορείτε να τα απενεργοποιήσετε στις προτιμήσεις cookie. Οι συνηθισμένοι σύνδεσμοι κοινοποίησης παραμένουν διαθέσιμοι."
 }

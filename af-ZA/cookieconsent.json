@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hallo reisiger, dis koekietyd! 🍪",
-    "description": "Ons gebruik geen koekies buiten die nodige funksionele koekies nie. Ons het egter ander funksies vir analitiese doeleindes waarvoor ons jou goedkeuring nodig het.",
+    "description": "Ons gebruik noodsaaklike koekies om Literary Universe te laat werk. Jy kan ook ontleding en ingebedde sosialenetwerkknoppies toelaat. Kies watter opsionele funksies jy wil gebruik.",
     "acceptAllBtn": "Aanvaar alles 🙏",
     "acceptNecessaryBtn": "Verwerp alles 🙅",
     "showPreferencesBtn": "Bestuur voorkeure 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Koekiegebruik 🍪",
-        "description": "Hierdie webwerf gebruik streng noodsaaklike koekies wat vir kernfunksies vereis word. Met jou toestemming voer ons ook analise uit om gebruik te verstaan en Literary Universe te verbeter. Ons analise maak nie op koekies staat nie, maar dit kan soortgelyke tegnologieë of aanlyn identifiseerders gebruik en vereis daarom jou toestemming in sekere jurisdiksies."
+        "description": "Noodsaaklike koekies laat jou rekening en betalings werk. Ontleding en ingebedde sosialenetwerkknoppies is opsioneel. Jy kan hierdie keuses enige tyd hier verander."
       },
       {
         "title": "Streng noodsaaklike koekies <span class=\"pm__badge\">Altyd geaktiveer</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "Ons gebruik verskeie analisedienste om inligting te kry oor hoe jy ons webwerf gebruik en om ons advertensiepogings te verbeter.\n<ul>\n<li>Analise (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Meet werfgebruik, werkverrigting en foute om Literary Universe te verbeter. Geen koekies word vir analise gestel nie, maar beperkte tegniese data en identifiseerders kan verwerk word. Toestemming vereis.</li>\n<li>Herteikening (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Help ons om veldtogte te beoordeel en relevante promosies oor Literary Universe op ander webwerwe te wys. Geen koekies word hiervoor op ons werf gestel nie, maar soortgelyke tegnologieë of identifiseerders kan gebruik word. Toestemming vereis.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "Ingebedde sosialenetwerkknoppies",
+        "description": "Laat hou-van- en deelknoppies toe wat direk vanaf sosiale netwerke gelaai word. Wanneer hierdie knoppies laai, kan die dienste inligting oor jou blaaiery versamel, koekies gebruik of jou besoek aan jou sosialenetwerkrekening koppel. Gewone deelskakels, kopiëring, e-pos en deling via jou toestel werk sonder hierdie toestemming.",
+        "linkedCategory": "social"
       },
       {
         "title": "Meer inligting",

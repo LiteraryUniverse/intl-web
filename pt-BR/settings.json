@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Defina uma senha ou conecte outro método de login disponível antes de desconectar esta conta.",
   "settings.languages.charactersPerMinute": "Velocidade de leitura (caracteres por minuto)",
   "settings.languages.charactersPerMinuteExplained": "Usamos esse valor para estimar quanto tempo você levará para ler uma história. Deixe o campo vazio para usar {defaultSpeed, number} caracteres por minuto.",
-  "settings.languages.measureReadingSpeed": "Meça sua velocidade de leitura"
+  "settings.languages.measureReadingSpeed": "Meça sua velocidade de leitura",
+  "settings.tracking.socialButtons.title": "Botões sociais incorporados",
+  "settings.tracking.socialButtons.description": "Escolha se as redes sociais podem carregar seus botões de Curtir e Compartilhar neste navegador. É possível desativá-los nas preferências de cookies. Os links habituais de compartilhamento continuam disponíveis."
 }

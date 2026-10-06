@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hei, reisende, det er tid for informasjonskapsler! 🍪",
-    "description": "Vi bruker ikke andre informasjonskapsler enn de nødvendige funksjonelle. Men vi har annen funksjonalitet for analyseformål som vi trenger din godkjenning for.",
+    "description": "Vi bruker nødvendige informasjonskapsler for at Literary Universe skal fungere. Du kan også tillate analyse og innebygde sosiale knapper. Velg hvilke valgfrie funksjoner du vil bruke.",
     "acceptAllBtn": "Godta alle 🙏",
     "acceptNecessaryBtn": "Avvis alle 🙅",
     "showPreferencesBtn": "Administrer preferanser 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Bruk av informasjonskapsler 🍪",
-        "description": "Dette nettstedet bruker strengt nødvendige informasjonskapsler som kreves for kjernefunksjonaliteten. Med din tillatelse kjører vi også analyser for å forstå bruken og forbedre Literary Universe. Analysene våre er ikke avhengige av informasjonskapsler, men de kan bruke lignende teknologier eller nettidentifikatorer og krever derfor ditt samtykke i enkelte jurisdiksjoner."
+        "description": "Nødvendige informasjonskapsler sørger for at kontoen din og betalingene fungerer. Analyse og innebygde sosiale knapper er valgfrie. Du kan når som helst endre disse valgene her."
       },
       {
         "title": "Strengt nødvendige informasjonskapsler <span class=\"pm__badge\">Alltid aktivert</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "Vi bruker ulike analysetjenester for å få informasjon om hvordan du bruker nettstedet vårt, og for å forbedre annonseringen vår.\n<ul>\n<li>Analyse (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Måler bruk, ytelse og feil på nettstedet for å forbedre Literary Universe. Det settes ingen informasjonskapsler for analyse, men begrensede tekniske data og identifikatorer kan bli behandlet. Samtykke kreves.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Hjelper oss med å vurdere kampanjer og vise relevante kampanjer om Literary Universe på andre nettsteder. Det settes ingen informasjonskapsler på nettstedet vårt for dette, men lignende teknologier eller identifikatorer kan bli brukt. Samtykke kreves.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "Innebygde sosiale knapper",
+        "description": "Tillat Liker- og delingsknapper som lastes inn direkte fra sosiale nettverk. Når knappene lastes inn, kan tjenestene samle inn nettlesingsinformasjon, bruke informasjonskapsler eller knytte besøket ditt til kontoen din på det sosiale nettverket. Vanlige delingslenker, kopiering, e-post og enhetens delingsfunksjon fungerer uten denne tillatelsen.",
+        "linkedCategory": "social"
       },
       {
         "title": "Mer informasjon",

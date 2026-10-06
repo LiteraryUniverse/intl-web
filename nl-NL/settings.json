@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Stel een wachtwoord in of koppel een andere beschikbare inlogmethode voordat je dit account ontkoppelt.",
   "settings.languages.charactersPerMinute": "Leessnelheid (tekens per minuut)",
   "settings.languages.charactersPerMinuteExplained": "Hiermee schatten we hoe lang je nodig hebt om een verhaal te lezen. Laat het veld leeg om {defaultSpeed, number} tekens per minuut te gebruiken.",
-  "settings.languages.measureReadingSpeed": "Meet je leessnelheid"
+  "settings.languages.measureReadingSpeed": "Meet je leessnelheid",
+  "settings.tracking.socialButtons.title": "Ingebedde sociale knoppen",
+  "settings.tracking.socialButtons.description": "Kies of sociale netwerken hun vind-ik-leuk- en deelknoppen in deze browser mogen laden. U kunt ze uitschakelen in de cookievoorkeuren. Gewone deellinks blijven beschikbaar."
 }

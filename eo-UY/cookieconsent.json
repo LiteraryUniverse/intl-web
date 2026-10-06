@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Saluton, vojaĝanto, estas tempo por kuketoj! 🍪",
-    "description": "Ni ne uzas kuketojn krom la necesaj funkciaj. Sed ni ja havas aliajn funkciojn por analizaj celoj, por kiuj ni bezonas vian aprobon.",
+    "description": "Ni uzas necesajn kuketojn por funkciigi Literary Universe. Vi ankaŭ povas permesi analizon kaj enkorpigitajn sociajn butonojn. Elektu kiujn nedevigajn funkciojn vi volas uzi.",
     "acceptAllBtn": "Akcepti ĉiujn 🙏",
     "acceptNecessaryBtn": "Rifuzi ĉiujn 🙅",
     "showPreferencesBtn": "Administri preferojn 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Uzo de kuketoj 🍪",
-        "description": "Ĉi tiu retejo uzas strikte necesan kuketon, bezonatan por la kerna funkciado. Kun via permeso ni ankaŭ faras analizojn por kompreni la uzadon kaj plibonigi Literary Universe. Niaj analizoj ne dependas de kuketoj, sed ili povas uzi similajn teknologiojn aŭ retajn identigilojn kaj tial postulas vian konsenton en certaj jurisdikcioj."
+        "description": "Necesaj kuketoj ebligas la funkciadon de via konto kaj pagoj. Analizo kaj enkorpigitaj sociaj butonoj estas nedevigaj. Vi povas ŝanĝi ĉi tiujn elektojn ĉi tie iam ajn."
       },
       {
         "title": "Strikte necesaj kuketoj <span class=\"pm__badge\">Ĉiam ebligitaj</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "Ni uzas diversajn analizajn servojn por ricevi informojn pri tio, kiel vi uzas nian retejon, kaj por plibonigi niajn reklamajn klopodojn.\n<ul>\n<li>Analizo (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Mezuras la uzadon, rendimenton kaj erarojn de la retejo por plibonigi Literary Universe. Neniuj kuketoj estas metataj por analizo, sed limigitaj teknikaj datumoj kaj identigiloj povas esti traktataj. Konsento necesas.</li>\n<li>Recelado (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helpas nin taksi kampanjojn kaj montri koncernajn reklamojn pri Literary Universe en aliaj retejoj. Neniuj kuketoj estas metataj en nia retejo por tio, sed similaj teknologioj aŭ identigiloj povas esti uzataj. Konsento necesas.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "Enkorpigitaj sociaj butonoj",
+        "description": "Permesu ŝat- kaj kunhavigbutonojn ŝargatajn rekte de sociaj retoj. Kiam ĉi tiuj butonoj ŝargiĝas, la servoj povas kolekti informojn pri via retumado, uzi kuketojn aŭ ligi vian viziton al via konto en socia reto. Ordinaraj kunhavigligiloj, kopiado, retpoŝto kaj kunhavigo per via aparato funkcias sen ĉi tiu permeso.",
+        "linkedCategory": "social"
       },
       {
         "title": "Pliaj informoj",

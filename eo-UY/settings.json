@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Agordu pasvorton aŭ konektu alian disponeblan ensalutan metodon antaŭ ol malkonekti ĉi tiun konton.",
   "settings.languages.charactersPerMinute": "Legorapido (signoj por minuto)",
   "settings.languages.charactersPerMinuteExplained": "Ni uzas tion por taksi, kiom da tempo vi bezonos por legi rakonton. Lasu la kampon malplena por uzi {defaultSpeed, number} signojn por minuto.",
-  "settings.languages.measureReadingSpeed": "Mezuru vian legorapidon"
+  "settings.languages.measureReadingSpeed": "Mezuru vian legorapidon",
+  "settings.tracking.socialButtons.title": "Enkorpigitaj sociaj butonoj",
+  "settings.tracking.socialButtons.description": "Elektu ĉu sociaj retoj rajtas ŝargi siajn ŝat- kaj kunhavigbutonojn en ĉi tiu retumilo. Vi povas malŝalti ilin en la kuketaj preferoj. Ordinaraj kunhavigligiloj restas disponeblaj."
 }

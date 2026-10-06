@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "הגדר סיסמה או חבר שיטת התחברות זמינה אחרת לפני ניתוק חשבון זה.",
   "settings.languages.charactersPerMinute": "מהירות קריאה (תווים בדקה)",
   "settings.languages.charactersPerMinuteExplained": "אנו משתמשים בערך זה כדי להעריך כמה זמן יידרש לך לקרוא סיפור. אפשר להשאיר את השדה ריק כדי להשתמש ב־{defaultSpeed, number} תווים בדקה.",
-  "settings.languages.measureReadingSpeed": "מדידת מהירות הקריאה שלך"
+  "settings.languages.measureReadingSpeed": "מדידת מהירות הקריאה שלך",
+  "settings.tracking.socialButtons.title": "כפתורים חברתיים מוטמעים",
+  "settings.tracking.socialButtons.description": "בחרו אם לאפשר לרשתות חברתיות לטעון את כפתורי האהבתי והשיתוף שלהן בדפדפן זה. ניתן להשבית אותם בהעדפות העוגיות. קישורי השיתוף הרגילים יישארו זמינים."
 }

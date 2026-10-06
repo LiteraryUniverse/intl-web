@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Stel 'n wagwoord of koppel 'n ander beskikbare aanmeldmetode voordat jy hierdie rekening ontkoppel.",
   "settings.languages.charactersPerMinute": "Leesspoed (karakters per minuut)",
   "settings.languages.charactersPerMinuteExplained": "Ons gebruik dit om te skat hoe lank dit jou sal neem om 'n verhaal te lees. Laat dit leeg om {defaultSpeed, number} karakters per minuut te gebruik.",
-  "settings.languages.measureReadingSpeed": "Meet jou leesspoed"
+  "settings.languages.measureReadingSpeed": "Meet jou leesspoed",
+  "settings.tracking.socialButtons.title": "Ingebedde sosialenetwerkknoppies",
+  "settings.tracking.socialButtons.description": "Kies of sosiale netwerke hul hou-van- en deelknoppies in hierdie blaaier mag laai. Jy kan hulle in jou koekievoorkeure afskakel. Gewone deelskakels bly beskikbaar."
 }

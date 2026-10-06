@@ -79,5 +79,17 @@
   "sharing.card.preview": "Obrázek náhledu odkazu na sociálních sítích",
   "sharing.card.uploadRequirements": "Nahrajte PNG, JPEG nebo WebP do 5 MB. Použijte rozměr 1200 × 630 pixelů; jiné rozměry se oříznou.",
   "sharing.card.reset": "Používat automaticky obálku",
-  "sharing.card.examples": "Ukázky náhledů odkazu. Každá platforma může obrázky oříznout, text zkrátit nebo zobrazit verzi uloženou v mezipaměti jinak."
+  "sharing.card.examples": "Ukázky náhledů odkazu. Každá platforma může obrázky oříznout, text zkrátit nebo zobrazit verzi uloženou v mezipaměti jinak.",
+  "sharing.socialButtons.title": "Tlačítka sociálních sítí",
+  "sharing.socialButtons.consent": "Chcete-li zobrazit vložená tlačítka To se mi líbí a Sdílet, povolte tlačítka sociálních sítí v nastavení souborů cookie. Tyto služby mohou při načítání tlačítek sledovat vaši návštěvu.",
+  "sharing.socialButtons.preferences": "Nastavit sociální tlačítka",
+  "sharing.naver": "Sdílet na NAVER",
+  "sharing.socialButtons.unavailable": "Tlačítka se nepodařilo načíst. Můžete použít běžnou nabídku sdílení.",
+  "sharing.socialButtons.line": "To se mi líbí a sdílet na LINE",
+  "sharing.socialButtons.seznam": "To se mi líbí na Seznam",
+  "sharing.socialButtons.facebook": "Sdílet na Facebooku",
+  "sharing.socialButtons.x": "Publikovat na X",
+  "sharing.socialButtons.linkedin": "Sdílet na LinkedIn",
+  "sharing.socialButtons.telegram": "Sdílet na Telegramu",
+  "sharing.socialButtons.pinterest": "Uložit na Pinterest"
 }

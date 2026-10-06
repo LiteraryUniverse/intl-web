@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "সামাজিক নেটৱৰ্কৰ বুটামসমূহ",
+  "sharing.socialButtons.consent": "সংযোজিত ভাল লগা আৰু ভাগ-বতৰা কৰাৰ বুটাম দেখুৱাবলৈ কুকিৰ পছন্দসমূহত সামাজিক বুটামৰ অনুমতি দিয়ক। এই সেৱাসমূহৰ বুটাম লোড হ’লে সেইবোৰে আপোনাৰ ভ্ৰমণ অনুসৰণ কৰিব পাৰে।",
+  "sharing.socialButtons.preferences": "সামাজিক বুটামসমূহ পৰিচালনা কৰক",
+  "sharing.socialButtons.unavailable": "বুটামসমূহ লোড কৰিব পৰা নগ’ল। আপুনি সাধাৰণ ভাগ-বতৰা মেনু ব্যৱহাৰ কৰিব পাৰে।",
+  "sharing.naver": "NAVER-ত ভাগ-বতৰা কৰক",
+  "sharing.socialButtons.line": "LINE-ত ভাল লগা জনাওক আৰু ভাগ-বতৰা কৰক",
+  "sharing.socialButtons.seznam": "Seznam-ত ভাল লগা জনাওক",
+  "sharing.socialButtons.facebook": "Facebook-ত ভাগ-বতৰা কৰক",
+  "sharing.socialButtons.x": "X-ত পোষ্ট কৰক",
+  "sharing.socialButtons.linkedin": "LinkedIn-ত ভাগ-বতৰা কৰক",
+  "sharing.socialButtons.telegram": "Telegram-ত ভাগ-বতৰা কৰক",
+  "sharing.socialButtons.pinterest": "Pinterest-ত সংৰক্ষণ কৰক"
 }

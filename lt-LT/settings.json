@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Prieš atjungdami šią paskyrą nustatykite slaptažodį arba prijunkite kitą galimą prisijungimo būdą.",
   "settings.languages.charactersPerMinute": "Skaitymo greitis (simboliai per minutę)",
   "settings.languages.charactersPerMinuteExplained": "Pagal tai apskaičiuojame, kiek laiko užtruksi skaitydamas istoriją. Palik lauką tuščią, kad būtų naudojamas {defaultSpeed, number} simbolių per minutę greitis.",
-  "settings.languages.measureReadingSpeed": "Išmatuok savo skaitymo greitį"
+  "settings.languages.measureReadingSpeed": "Išmatuok savo skaitymo greitį",
+  "settings.tracking.socialButtons.title": "Įterpti socialinių tinklų mygtukai",
+  "settings.tracking.socialButtons.description": "Pasirinkite, ar socialiniai tinklai gali įkelti savo patiktukų ir bendrinimo mygtukus šioje naršyklėje. Juos galite išjungti slapukų nuostatose. Įprastos bendrinimo nuorodos išlieka prieinamos."
 }

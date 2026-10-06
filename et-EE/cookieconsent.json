@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Tere reisijad, küpsiste aeg on käes! 🍪",
-    "description": "Me ei kasuta küpsiseid peale vajalike funktsionaalsete küpsiste. Kuid meil on muid analüütilisi funktsioone, mille kasutamiseks vajame teie nõusolekut.",
+    "description": "Kasutame vajalikke küpsiseid, et Literary Universe töötaks. Võite lubada ka analüütika ja manustatud sotsiaalvõrgustike nupud. Valige, milliseid valikulisi funktsioone soovite kasutada.",
     "acceptAllBtn": "Võta kõik vastu 🙏",
     "acceptNecessaryBtn": "Lükake kõik tagasi 🙅",
     "showPreferencesBtn": "Eelistuste haldamine 🔧",
@@ -17,17 +17,22 @@
     "sections": [
       {
         "title": "Küpsiste kasutamine 🍪",
-        "description": "See veebisait kasutab põhifunktsioonide jaoks rangelt vajalikke küpsiseid. Teie loal kasutame ka analüütikat, et mõista kasutamist ja parandada Literary Universe'i. Meie analüütika ei tugine küpsistele, kuid võib kasutada sarnaseid tehnoloogiaid või veebitunnuseid ning nõuab seetõttu teatud jurisdiktsioonides teie nõusolekut."
+        "description": "Vajalikud küpsised tagavad teie konto ja maksete toimimise. Analüütika ja manustatud sotsiaalvõrgustike nupud on valikulised. Saate neid valikuid siin igal ajal muuta."
       },
       {
         "title": "Rangelt vajalikud küpsised <span class=\"pm__badge\">alati lubatud</span>",
         "description": "Need küpsised pärinevad meie veebimajutus- ja makseteenuse pakkujalt, mis tagavad, et rakendus töötab õigesti ja te saate sellega ühendust võtta.",
-        "linkedCategory": "vajalik"
+        "linkedCategory": "necessary"
       },
       {
         "title": "Analüütika 📊",
         "description": "Me kasutame erinevaid analüüsiteenuseid, et saada teavet selle kohta, kuidas te meie veebisaiti kasutate, ja parandada meie reklaamipingutusi.\n<ul>\n<li>Analüüsid<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Mõõdab saidi kasutamist, jõudlust ja vigu, et parandada kirjanduse Universum. Analüütika jaoks küpsiseid ei kasutata, kuid piiratud tehnilisi andmeid ja identifikaatoreid võidakse töödelda. Nõutav nõusolek.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Aitab meil hinnata kampaaniaid ja näidata asjakohaseid reklaame Literary Universe'i kohta teistel veebisaitidel. Meie saidil ei ole selleks küpsiseid, kuid sarnaseid tehnoloogiaid või identifikaatoreid võidakse kasutada. Nõutav nõusolek.</li>\n</ul>",
-        "linkedCategory": "analüütika"
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Manustatud sotsiaalvõrgustike nupud",
+        "description": "Lubage meeldimis- ja jagamisnupud, mis laaditakse otse sotsiaalvõrgustikest. Nuppude laadimisel võivad need teenused koguda sirvimisandmeid, kasutada küpsiseid või siduda teie külastuse teie sotsiaalvõrgustiku kontoga. Tavalised jagamislingid, kopeerimine, e-post ja seadme jagamisfunktsioon töötavad ilma selle loata.",
+        "linkedCategory": "social"
       },
       {
         "title": "Lisateave",

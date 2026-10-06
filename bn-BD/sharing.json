@@ -79,5 +79,17 @@
   "sharing.card.preview": "সোশ্যাল লিঙ্কের প্রিভিউ ছবি",
   "sharing.card.uploadRequirements": "সর্বোচ্চ 5 MB-র একটি PNG, JPEG বা WebP আপলোড করুন। 1200 × 630 পিক্সেল ব্যবহার করুন; অন্য আকারের ছবি মানানসই করতে ছেঁটে ফেলা হয়।",
   "sharing.card.reset": "স্বয়ংক্রিয়ভাবে প্রচ্ছদ ব্যবহার করুন",
-  "sharing.card.examples": "লিঙ্ক প্রিভিউয়ের উদাহরণ। প্রতিটি প্ল্যাটফর্ম ভিন্নভাবে ছবি ছাঁটতে, লেখা ছোট করতে বা ক্যাশ করা সংস্করণ দেখাতে পারে।"
+  "sharing.card.examples": "লিঙ্ক প্রিভিউয়ের উদাহরণ। প্রতিটি প্ল্যাটফর্ম ভিন্নভাবে ছবি ছাঁটতে, লেখা ছোট করতে বা ক্যাশ করা সংস্করণ দেখাতে পারে।",
+  "sharing.socialButtons.title": "সামাজিক যোগাযোগমাধ্যমের বোতাম",
+  "sharing.socialButtons.consent": "সংযুক্ত পছন্দ ও শেয়ার করার বোতাম দেখাতে কুকির পছন্দে সামাজিক বোতামের অনুমতি দিন। এই পরিষেবাগুলোর বোতাম লোড হলে তারা আপনার ভিজিট ট্র্যাক করতে পারে।",
+  "sharing.socialButtons.preferences": "সামাজিক বোতাম পরিচালনা করুন",
+  "sharing.socialButtons.unavailable": "বোতামগুলো লোড করা যায়নি। আপনি সাধারণ শেয়ার মেনু ব্যবহার করতে পারেন।",
+  "sharing.naver": "NAVER-এ শেয়ার করুন",
+  "sharing.socialButtons.line": "LINE-এ পছন্দ করুন ও শেয়ার করুন",
+  "sharing.socialButtons.seznam": "Seznam-এ পছন্দ করুন",
+  "sharing.socialButtons.facebook": "Facebook-এ শেয়ার করুন",
+  "sharing.socialButtons.x": "X-এ পোস্ট করুন",
+  "sharing.socialButtons.linkedin": "LinkedIn-এ শেয়ার করুন",
+  "sharing.socialButtons.telegram": "Telegram-এ শেয়ার করুন",
+  "sharing.socialButtons.pinterest": "Pinterest-এ সংরক্ষণ করুন"
 }

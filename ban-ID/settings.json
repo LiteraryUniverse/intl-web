@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "Becat maca (aksara saben menit)",
   "settings.languages.charactersPerMinuteExplained": "Nilai puniki kaanggen ngira-ngira galah sane ragane perlu antuk maca satua. Kosongang kolom puniki yening jagi nganggen {defaultSpeed, number} aksara saben menit.",
-  "settings.languages.measureReadingSpeed": "Ukur becat maca ragane"
+  "settings.languages.measureReadingSpeed": "Ukur becat maca ragane",
+  "settings.tracking.socialButtons.title": "Tombol sosial sane kasisipang",
+  "settings.tracking.socialButtons.description": "Pilih napi jejaring sosial kaidinin ngwedar tombol demen miwah bagiang ring peramban puniki. Ragane prasida matiin tombol punika ring setelan cookie. Tautan bagiang sane biasa tetep prasida kaanggen."
 }

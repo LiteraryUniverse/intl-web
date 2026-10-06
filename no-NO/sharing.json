@@ -79,5 +79,17 @@
   "sharing.card.preview": "Forhåndsvisningsbilde for lenker i sosiale medier",
   "sharing.card.uploadRequirements": "Last opp en PNG, JPEG eller WebP på opptil 5 MB. Bruk 1200 × 630 piksler; andre størrelser beskjæres for å passe.",
   "sharing.card.reset": "Bruk omslaget automatisk",
-  "sharing.card.examples": "Eksempler på forhåndsvisning av lenker. Hver plattform kan beskjære bilder, forkorte tekst eller vise en bufret versjon på sin egen måte."
+  "sharing.card.examples": "Eksempler på forhåndsvisning av lenker. Hver plattform kan beskjære bilder, forkorte tekst eller vise en bufret versjon på sin egen måte.",
+  "sharing.socialButtons.title": "Knapper for sosiale nettverk",
+  "sharing.socialButtons.consent": "Tillat sosiale knapper i innstillingene for informasjonskapsler for å vise innebygde Liker- og delingsknapper. Disse tjenestene kan spore besøket ditt når knappene lastes inn.",
+  "sharing.socialButtons.preferences": "Administrer sosiale knapper",
+  "sharing.naver": "Del på NAVER",
+  "sharing.socialButtons.unavailable": "Knappene kunne ikke lastes inn. Du kan bruke den vanlige delingsmenyen.",
+  "sharing.socialButtons.line": "Lik og del på LINE",
+  "sharing.socialButtons.seznam": "Lik på Seznam",
+  "sharing.socialButtons.facebook": "Del på Facebook",
+  "sharing.socialButtons.x": "Publiser på X",
+  "sharing.socialButtons.linkedin": "Del på LinkedIn",
+  "sharing.socialButtons.telegram": "Del på Telegram",
+  "sharing.socialButtons.pinterest": "Lagre på Pinterest"
 }

@@ -79,5 +79,17 @@
   "sharing.card.preview": "Imatge de vista prèvia de l'enllaç a les xarxes socials",
   "sharing.card.uploadRequirements": "Puja un PNG, JPEG o WebP de fins a 5 MB. Fes servir 1200 × 630 píxels; les altres mides es retallen per ajustar-les.",
   "sharing.card.reset": "Fes servir la coberta automàticament",
-  "sharing.card.examples": "Exemples de vistes prèvies d'enllaç. Cada plataforma pot retallar les imatges, escurçar el text o mostrar una versió en memòria cau de manera diferent."
+  "sharing.card.examples": "Exemples de vistes prèvies d'enllaç. Cada plataforma pot retallar les imatges, escurçar el text o mostrar una versió en memòria cau de manera diferent.",
+  "sharing.socialButtons.title": "Botons de xarxes socials",
+  "sharing.socialButtons.consent": "Per mostrar els botons integrats de m'agrada i de compartir, permet els botons de xarxes socials a les preferències de galetes. Aquests serveis poden fer un seguiment de la teva visita quan es carreguen els botons.",
+  "sharing.socialButtons.preferences": "Gestiona els botons socials",
+  "sharing.naver": "Comparteix a NAVER",
+  "sharing.socialButtons.unavailable": "No s'han pogut carregar els botons. Pots fer servir el menú habitual de compartir.",
+  "sharing.socialButtons.line": "M'agrada i comparteix a LINE",
+  "sharing.socialButtons.seznam": "M'agrada a Seznam",
+  "sharing.socialButtons.facebook": "Comparteix a Facebook",
+  "sharing.socialButtons.x": "Publica a X",
+  "sharing.socialButtons.linkedin": "Comparteix a LinkedIn",
+  "sharing.socialButtons.telegram": "Comparteix a Telegram",
+  "sharing.socialButtons.pinterest": "Desa a Pinterest"
 }

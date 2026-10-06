@@ -79,5 +79,17 @@
   "sharing.card.preview": "Somelinkin esikatselukuva",
   "sharing.card.uploadRequirements": "Lataa enintään 5 Mt:n PNG-, JPEG- tai WebP-kuva. Käytä kokoa 1200 × 630 pikseliä; muut koot rajataan sopiviksi.",
   "sharing.card.reset": "Käytä kantta automaattisesti",
-  "sharing.card.examples": "Esimerkkejä linkkien esikatseluista. Kukin alusta voi rajata kuvia, lyhentää tekstiä tai näyttää välimuistissa olevan version eri tavalla."
+  "sharing.card.examples": "Esimerkkejä linkkien esikatseluista. Kukin alusta voi rajata kuvia, lyhentää tekstiä tai näyttää välimuistissa olevan version eri tavalla.",
+  "sharing.socialButtons.title": "Sosiaalisten verkostojen painikkeet",
+  "sharing.socialButtons.consent": "Jos haluat näyttää upotetut tykkäys- ja jakopainikkeet, salli sosiaalisten verkostojen painikkeet evästeasetuksissa. Nämä palvelut voivat seurata vierailuasi, kun painikkeet latautuvat.",
+  "sharing.socialButtons.preferences": "Hallinnoi sosiaalisia painikkeita",
+  "sharing.naver": "Jaa NAVERissa",
+  "sharing.socialButtons.unavailable": "Painikkeita ei voitu ladata. Voit käyttää tavallista jakovalikkoa.",
+  "sharing.socialButtons.line": "Tykkää ja jaa LINEssa",
+  "sharing.socialButtons.seznam": "Tykkää Seznamissa",
+  "sharing.socialButtons.facebook": "Jaa Facebookissa",
+  "sharing.socialButtons.x": "Julkaise X:ssä",
+  "sharing.socialButtons.linkedin": "Jaa LinkedInissä",
+  "sharing.socialButtons.telegram": "Jaa Telegramissa",
+  "sharing.socialButtons.pinterest": "Tallenna Pinterestiin"
 }

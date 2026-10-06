@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "ល្បឿនអាន (តួអក្សរក្នុងមួយនាទី)",
   "settings.languages.charactersPerMinuteExplained": "យើងប្រើតម្លៃនេះដើម្បីប៉ាន់ស្មានថាអ្នកត្រូវការពេលប៉ុន្មានដើម្បីអានរឿងមួយ។ ទុកប្រអប់នេះឱ្យទទេ ដើម្បីប្រើ {defaultSpeed, number} តួអក្សរក្នុងមួយនាទី។",
-  "settings.languages.measureReadingSpeed": "វាស់ល្បឿនអានរបស់អ្នក"
+  "settings.languages.measureReadingSpeed": "វាស់ល្បឿនអានរបស់អ្នក",
+  "settings.tracking.socialButtons.title": "ប៊ូតុងបណ្ដាញសង្គមដែលបានបង្កប់",
+  "settings.tracking.socialButtons.description": "ជ្រើសរើសថាតើអនុញ្ញាតឱ្យបណ្ដាញសង្គមផ្ទុកប៊ូតុងចូលចិត្ត និងចែករំលែកក្នុងកម្មវិធីរុករកនេះឬអត់។ អ្នកអាចបិទប៊ូតុងទាំងនេះក្នុងការកំណត់ខូគី។ តំណចែករំលែកធម្មតានៅតែអាចប្រើបាន។"
 }

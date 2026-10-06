@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "पढ़बाक गति (प्रति मिनट अक्षर)",
   "settings.languages.charactersPerMinuteExplained": "कोनो कथा पढ़य मे अहाँकेँ कतेक समय लागत, तकर अनुमान लगाबय लेल हम एहि मानक उपयोग करैत छी। प्रति मिनट {defaultSpeed, number} अक्षरक उपयोग करय लेल ई स्थान खाली छोड़ू।",
-  "settings.languages.measureReadingSpeed": "अपन पढ़बाक गति मापू"
+  "settings.languages.measureReadingSpeed": "अपन पढ़बाक गति मापू",
+  "settings.tracking.socialButtons.title": "पृष्ठमे जोड़ल सामाजिक बटन",
+  "settings.tracking.socialButtons.description": "चुनू जे सामाजिक नेटवर्क ई ब्राउजरमे अपन पसिन्न आ साझा करबाक बटन लोड कऽ सकैत अछि वा नहि। अहाँ कुकी प्राथमिकतामे एकरा बंद कऽ सकैत छी। सामान्य साझा करबाक लिंक उपलब्ध रहत।"
 }

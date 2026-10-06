@@ -79,5 +79,17 @@
   "sharing.card.preview": "Gambar pratinjau tautan media sosial",
   "sharing.card.uploadRequirements": "Unggah PNG, JPEG, atau WebP hingga 5 MB. Gunakan 1200 × 630 piksel; ukuran lain akan dipotong agar pas.",
   "sharing.card.reset": "Gunakan sampul secara otomatis",
-  "sharing.card.examples": "Contoh pratinjau tautan. Setiap platform dapat memotong gambar, memendekkan teks, atau menampilkan versi tersimpan dengan cara berbeda."
+  "sharing.card.examples": "Contoh pratinjau tautan. Setiap platform dapat memotong gambar, memendekkan teks, atau menampilkan versi tersimpan dengan cara berbeda.",
+  "sharing.socialButtons.title": "Tombol jejaring sosial",
+  "sharing.socialButtons.consent": "Untuk menampilkan tombol suka dan berbagi yang tersemat, izinkan tombol sosial di preferensi cookie Anda. Layanan ini dapat melacak kunjungan Anda saat tombolnya dimuat.",
+  "sharing.socialButtons.preferences": "Kelola tombol sosial",
+  "sharing.socialButtons.unavailable": "Tombol tidak dapat dimuat. Anda dapat menggunakan menu berbagi biasa.",
+  "sharing.socialButtons.line": "Suka dan berbagi di LINE",
+  "sharing.socialButtons.seznam": "Suka di Seznam",
+  "sharing.socialButtons.facebook": "Bagikan di Facebook",
+  "sharing.socialButtons.x": "Posting di X",
+  "sharing.socialButtons.linkedin": "Bagikan di LinkedIn",
+  "sharing.socialButtons.telegram": "Bagikan di Telegram",
+  "sharing.socialButtons.pinterest": "Simpan di Pinterest",
+  "sharing.naver": "Bagikan di NAVER"
 }

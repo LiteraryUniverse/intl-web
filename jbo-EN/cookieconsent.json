@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "description": "mi'a pilno lo sarcu kibro vreji lo nu la'o gy. Literary Universe .gy. cu za'o ka'e se pilno .i do ka'e ji'a curmi lo nu lanli lo nu lo prenu cu pilno lo kibro stuzi kei kei .e lo nu lo jikca batke cu pagbu lo kibro papri .i ko cuxna lo na sarcu se pilno poi do djica lo nu pilno ke'a",
     "acceptAllBtn": "Accept all 🙏",
     "acceptNecessaryBtn": "Reject all 🙅",
     "showPreferencesBtn": "Manage preferences 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "description": "lo sarcu kibro vreji cu rinka lo nu do za'o ka'e pilno lo do jaspu gi'e pleji .i lo nu lanli lo nu lo prenu cu pilno lo kibro stuzi kei kei .e lo nu lo jikca batke cu pagbu lo kibro papri cu na sarcu .i do ka'e ro roi galfi lo te cuxna ne'i ti"
       },
       {
         "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "lo jikca batke poi pagbu lo kibro papri",
+        "description": "ko curmi lo nu lo kibro catlu tutci cu cpacu lo nelci batke .e lo benji batke lo jikca kibro ciste .i ca lo nu lo batke cu se cpacu kei lo jikca kibro ciste ka'e jmina lo datni be lo do nu kibro catlu kei lo te jmaji gi'a pilno lo kibro vreji gi'a jorne lo do nu vitke kei lo do jaspu pe lo jikca kibro ciste .i lo nu pilno lo fadni benji samjudri kei .e lo nu fukpi kei .e lo nu skami mrilu kei .e lo nu benji se pi'o lo do tutci cu na nitcu lo nu do curmi lo nu cpacu lo jikca batke",
+        "linkedCategory": "social"
       },
       {
         "title": "More information",

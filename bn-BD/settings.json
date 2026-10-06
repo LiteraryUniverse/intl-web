@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "এই অ্যাকাউন্টটি বিচ্ছিন্ন করার আগে একটি পাসওয়ার্ড সেট করুন অথবা উপলব্ধ অন্য একটি সাইন-ইন পদ্ধতি সংযুক্ত করুন।",
   "settings.languages.charactersPerMinute": "পড়ার গতি (প্রতি মিনিটে অক্ষর)",
   "settings.languages.charactersPerMinuteExplained": "একটি গল্প পড়তে আপনার কত সময় লাগবে তা অনুমান করতে আমরা এই মান ব্যবহার করি। প্রতি মিনিটে {defaultSpeed, number} অক্ষর ব্যবহার করতে ঘরটি খালি রাখুন।",
-  "settings.languages.measureReadingSpeed": "আপনার পড়ার গতি মাপুন"
+  "settings.languages.measureReadingSpeed": "আপনার পড়ার গতি মাপুন",
+  "settings.tracking.socialButtons.title": "সংযুক্ত সামাজিক বোতাম",
+  "settings.tracking.socialButtons.description": "সামাজিক যোগাযোগমাধ্যমগুলো এই ব্রাউজারে তাদের পছন্দ ও শেয়ার করার বোতাম লোড করতে পারবে কি না বেছে নিন। কুকির পছন্দে এগুলো বন্ধ করতে পারবেন। সাধারণ শেয়ার করার লিংকগুলো ব্যবহার করা যাবে।"
 }

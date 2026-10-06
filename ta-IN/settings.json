@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "வாசிப்பு வேகம் (நிமிடத்திற்கு எழுத்துகள்)",
   "settings.languages.charactersPerMinuteExplained": "ஒரு கதையைப் படிக்க உங்களுக்கு எவ்வளவு நேரம் ஆகும் என்று கணிக்க இதைப் பயன்படுத்துகிறோம். நிமிடத்திற்கு {defaultSpeed, number} எழுத்துகளைப் பயன்படுத்த இந்தப் புலத்தை காலியாக விடுங்கள்.",
-  "settings.languages.measureReadingSpeed": "உங்கள் வாசிப்பு வேகத்தை அளவிடுங்கள்"
+  "settings.languages.measureReadingSpeed": "உங்கள் வாசிப்பு வேகத்தை அளவிடுங்கள்",
+  "settings.tracking.socialButtons.title": "உட்பொதிக்கப்பட்ட சமூகப் பொத்தான்கள்",
+  "settings.tracking.socialButtons.description": "சமூக வலைத்தளங்கள் இந்த உலாவியில் தங்களின் விருப்பம் மற்றும் பகிர்வுப் பொத்தான்களை ஏற்றலாமா என்பதைத் தேர்ந்தெடுக்கவும். குக்கீ விருப்பங்களில் அவற்றை முடக்கலாம். வழக்கமான பகிர்வு இணைப்புகள் தொடர்ந்து கிடைக்கும்."
 }

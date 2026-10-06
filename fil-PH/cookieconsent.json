@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Kumusta, manlalakbay, oras na ng cookie! 🍪",
-    "description": "Hindi kami gumagamit ng cookies maliban sa mga kinakailangan para gumana ang site. Ngunit mayroon kaming ibang functionality para sa analytics na nangangailangan ng iyong pahintulot.",
+    "description": "Gumagamit kami ng mga kinakailangang cookie upang gumana ang Literary Universe. Maaari mo ring payagan ang pagsusuri ng paggamit at mga nakapaloob na pindutan ng social media. Piliin ang mga opsyonal na tampok na gusto mong gamitin.",
     "acceptAllBtn": "Tanggapin lahat 🙏",
     "acceptNecessaryBtn": "Tanggihan lahat 🙅",
     "showPreferencesBtn": "Pamahalaan ang mga kagustuhan 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Paggamit ng Cookie 🍪",
-        "description": "Gumagamit ang website na ito ng mahigpit na kinakailangang cookie para sa pangunahing functionality. Kung papayagan mo, nagpapatakbo rin kami ng analytics upang maunawaan ang paggamit at mapabuti ang Literary Universe. Hindi umaasa sa cookies ang aming analytics, ngunit maaari itong gumamit ng mga katulad na teknolohiya o online identifier kaya kailangan nito ang iyong pahintulot sa ilang hurisdiksyon."
+        "description": "Pinapagana ng mga kinakailangang cookie ang iyong account at mga pagbabayad. Opsyonal ang pagsusuri ng paggamit at mga nakapaloob na pindutan ng social media. Maaari mong baguhin ang mga pagpiling ito rito anumang oras."
       },
       {
         "title": "Mga Mahigpit na Kinakailangang Cookie <span class=\"pm__badge\">Laging Naka-enable</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "Gumagamit kami ng iba't ibang serbisyo ng analytics upang makakuha ng impormasyon tungkol sa kung paano mo ginagamit ang aming website at upang mapabuti ang aming pag-aanunsyo.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Sinusukat ang paggamit ng site, performance, at mga error upang mapabuti ang Literary Universe. Walang cookies na itinatakda para sa analytics, ngunit maaaring maproseso ang limitadong teknikal na datos at mga identifier. Kailangan ng pahintulot.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Tumutulong sa aming suriin ang mga kampanya at magpakita ng mga kaugnay na promosyon tungkol sa Literary Universe sa ibang mga website. Walang cookies na itinatakda sa aming site para dito, ngunit maaaring gumamit ng mga katulad na teknolohiya o identifier. Kailangan ng pahintulot.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "Mga nakapaloob na pindutan ng social media",
+        "description": "Payagan ang mga pindutan ng gusto at pagbabahagi na direktang nilo-load mula sa mga social network. Kapag nilo-load ang mga pindutang ito, maaaring mangolekta ang mga serbisyo ng impormasyon sa pag-browse, gumamit ng mga cookie, o iugnay ang iyong pagbisita sa iyong social account. Gumagana ang mga karaniwang link sa pagbabahagi, pagkopya, email, at pagbabahagi sa pamamagitan ng device nang walang pahintulot na ito.",
+        "linkedCategory": "social"
       },
       {
         "title": "Karagdagang impormasyon",

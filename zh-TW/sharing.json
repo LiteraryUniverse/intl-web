@@ -79,5 +79,17 @@
   "sharing.card.preview": "社群連結預覽圖片",
   "sharing.card.uploadRequirements": "請上傳 5 MB 以內的 PNG、JPEG 或 WebP。請使用 1200 × 630 像素；其他尺寸會被裁切以符合。",
   "sharing.card.reset": "自動使用封面",
-  "sharing.card.examples": "連結預覽範例。各平台可能會以不同方式裁切圖片、縮短文字或顯示快取版本。"
+  "sharing.card.examples": "連結預覽範例。各平台可能會以不同方式裁切圖片、縮短文字或顯示快取版本。",
+  "sharing.socialButtons.title": "社群網路按鈕",
+  "sharing.socialButtons.consent": "若要顯示嵌入式按讚和分享按鈕，請在 Cookie 偏好設定中允許社群按鈕。這些服務可能會在載入按鈕時追蹤您的造訪。",
+  "sharing.socialButtons.preferences": "管理社群按鈕",
+  "sharing.socialButtons.unavailable": "無法載入按鈕。您可以使用一般分享選單。",
+  "sharing.socialButtons.line": "LINE 按讚與分享",
+  "sharing.socialButtons.seznam": "Seznam 按讚",
+  "sharing.socialButtons.facebook": "Facebook 分享",
+  "sharing.socialButtons.x": "X 發文",
+  "sharing.socialButtons.linkedin": "LinkedIn 分享",
+  "sharing.socialButtons.telegram": "Telegram 分享",
+  "sharing.socialButtons.pinterest": "Pinterest 儲存",
+  "sharing.naver": "分享到 NAVER"
 }

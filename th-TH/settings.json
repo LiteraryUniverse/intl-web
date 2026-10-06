@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "ตั้งรหัสผ่านหรือเชื่อมต่อวิธีลงชื่อเข้าใช้อื่นที่มีให้ก่อนยกเลิกการเชื่อมต่อบัญชีนี้",
   "settings.languages.charactersPerMinute": "ความเร็วในการอ่าน (ตัวอักษรต่อนาที)",
   "settings.languages.charactersPerMinuteExplained": "เราใช้ค่านี้เพื่อประมาณเวลาที่คุณจะใช้ในการอ่านเรื่องหนึ่ง หากเว้นช่องนี้ว่างไว้ ระบบจะใช้ {defaultSpeed, number} ตัวอักษรต่อนาที",
-  "settings.languages.measureReadingSpeed": "วัดความเร็วในการอ่านของคุณ"
+  "settings.languages.measureReadingSpeed": "วัดความเร็วในการอ่านของคุณ",
+  "settings.tracking.socialButtons.title": "ปุ่มโซเชียลแบบฝัง",
+  "settings.tracking.socialButtons.description": "เลือกว่าจะอนุญาตให้เครือข่ายสังคมออนไลน์โหลดปุ่มถูกใจและแชร์ในเบราว์เซอร์นี้หรือไม่ คุณสามารถปิดปุ่มเหล่านี้ได้ในการตั้งค่าคุกกี้ ลิงก์แชร์ตามปกติยังใช้งานได้"
 }

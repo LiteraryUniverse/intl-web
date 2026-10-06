@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "ସାମାଜିକ ନେଟୱର୍କର ବଟନ୍‌ଗୁଡ଼ିକ",
+  "sharing.socialButtons.consent": "ପୃଷ୍ଠାରେ ଯୋଡ଼ାଯାଇଥିବା ପସନ୍ଦ ଏବଂ ସେୟାର୍ ବଟନ୍ ଦେଖାଇବାକୁ ଆପଣଙ୍କ କୁକି ପସନ୍ଦରେ ସାମାଜିକ ବଟନ୍‌ଗୁଡ଼ିକୁ ଅନୁମତି ଦିଅନ୍ତୁ। ଏହି ସେବାଗୁଡ଼ିକର ବଟନ୍ ଲୋଡ୍ ହେଲେ ସେଗୁଡ଼ିକ ଆପଣଙ୍କ ପରିଦର୍ଶନକୁ ଟ୍ରାକ୍ କରିପାରନ୍ତି।",
+  "sharing.socialButtons.preferences": "ସାମାଜିକ ବଟନ୍‌ଗୁଡ଼ିକ ପରିଚାଳନା କରନ୍ତୁ",
+  "sharing.socialButtons.unavailable": "ବଟନ୍‌ଗୁଡ଼ିକ ଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ। ଆପଣ ସାଧାରଣ ସେୟାର୍ ମେନୁ ବ୍ୟବହାର କରିପାରିବେ।",
+  "sharing.naver": "NAVER ରେ ସେୟାର୍ କରନ୍ତୁ",
+  "sharing.socialButtons.line": "LINE ରେ ପସନ୍ଦ କରନ୍ତୁ ଏବଂ ସେୟାର୍ କରନ୍ତୁ",
+  "sharing.socialButtons.seznam": "Seznam ରେ ପସନ୍ଦ କରନ୍ତୁ",
+  "sharing.socialButtons.facebook": "Facebook ରେ ସେୟାର୍ କରନ୍ତୁ",
+  "sharing.socialButtons.x": "X ରେ ପୋଷ୍ଟ୍ କରନ୍ତୁ",
+  "sharing.socialButtons.linkedin": "LinkedIn ରେ ସେୟାର୍ କରନ୍ତୁ",
+  "sharing.socialButtons.telegram": "Telegram ରେ ସେୟାର୍ କରନ୍ତୁ",
+  "sharing.socialButtons.pinterest": "Pinterest ରେ ସଞ୍ଚୟ କରନ୍ତୁ"
 }

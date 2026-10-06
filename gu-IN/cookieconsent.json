@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "description": "Literary Universe ચાલુ રાખવા માટે અમે જરૂરી કુકી વાપરીએ છીએ. તમે વિશ્લેષણ અને પૃષ્ઠમાં ઉમેરેલાં સામાજિક બટનોને પણ મંજૂરી આપી શકો છો. કઈ વૈકલ્પિક સુવિધાઓ વાપરવી છે તે પસંદ કરો.",
     "acceptAllBtn": "Accept all 🙏",
     "acceptNecessaryBtn": "Reject all 🙅",
     "showPreferencesBtn": "Manage preferences 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "description": "જરૂરી કુકી તમારું ખાતું અને ચુકવણીઓ કાર્યરત રાખે છે. વિશ્લેષણ અને પૃષ્ઠમાં ઉમેરેલાં સામાજિક બટનો વૈકલ્પિક છે. તમે અહીં કોઈ પણ સમયે આ પસંદગીઓ બદલી શકો છો."
       },
       {
         "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "પૃષ્ઠમાં ઉમેરેલાં સામાજિક બટનો",
+        "description": "સામાજિક નેટવર્કોમાંથી સીધાં લોડ થતાં પસંદ અને શેર કરવાનાં બટનોને મંજૂરી આપો. આ બટનો લોડ થાય ત્યારે સેવાઓ તમારી બ્રાઉઝિંગ માહિતી એકત્રિત કરી શકે છે, કુકી વાપરી શકે છે અથવા તમારી મુલાકાતને તમારા સામાજિક ખાતા સાથે જોડી શકે છે. સામાન્ય શેર કરવાની લિંકો, કૉપિ, ઇમેઇલ અને ઉપકરણ દ્વારા શેર કરવાની સુવિધા આ મંજૂરી વગર પણ કામ કરે છે.",
+        "linkedCategory": "social"
       },
       {
         "title": "More information",

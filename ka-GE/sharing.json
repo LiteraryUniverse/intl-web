@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "სოციალური ქსელების ღილაკები",
+  "sharing.socialButtons.consent": "ჩაშენებული მოწონებისა და გაზიარების ღილაკების გამოსაჩენად დაუშვით სოციალური ღილაკები ქუქი-ფაილების პარამეტრებში. ღილაკების ჩატვირთვისას ამ სერვისებმა შეიძლება თქვენს ვიზიტს თვალყური ადევნონ.",
+  "sharing.socialButtons.preferences": "სოციალური ღილაკების მართვა",
+  "sharing.socialButtons.unavailable": "ღილაკები ვერ ჩაიტვირთა. შეგიძლიათ გამოიყენოთ გაზიარების ჩვეულებრივი მენიუ.",
+  "sharing.socialButtons.line": "მოწონება და გაზიარება LINE-ზე",
+  "sharing.socialButtons.seznam": "მოწონება Seznam-ზე",
+  "sharing.socialButtons.facebook": "გაზიარება Facebook-ზე",
+  "sharing.socialButtons.x": "გამოქვეყნება X-ზე",
+  "sharing.socialButtons.linkedin": "გაზიარება LinkedIn-ზე",
+  "sharing.socialButtons.telegram": "გაზიარება Telegram-ზე",
+  "sharing.socialButtons.pinterest": "შენახვა Pinterest-ზე",
+  "sharing.naver": "გაზიარება NAVER-ზე"
 }

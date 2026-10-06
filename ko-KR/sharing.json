@@ -79,5 +79,17 @@
   "sharing.card.preview": "소셜 링크 미리보기 이미지",
   "sharing.card.uploadRequirements": "최대 5 MB의 PNG, JPEG 또는 WebP를 업로드하세요. 1200 × 630픽셀을 사용하세요. 다른 크기는 맞게 잘립니다.",
   "sharing.card.reset": "표지를 자동으로 사용",
-  "sharing.card.examples": "링크 미리보기 예시입니다. 플랫폼마다 이미지를 자르거나, 텍스트를 줄이거나, 캐시된 버전을 다르게 표시할 수 있습니다."
+  "sharing.card.examples": "링크 미리보기 예시입니다. 플랫폼마다 이미지를 자르거나, 텍스트를 줄이거나, 캐시된 버전을 다르게 표시할 수 있습니다.",
+  "sharing.socialButtons.title": "소셜 네트워크 버튼",
+  "sharing.socialButtons.consent": "삽입형 좋아요 및 공유 버튼을 표시하려면 쿠키 설정에서 소셜 버튼을 허용해 주세요. 버튼이 로드될 때 해당 서비스가 방문을 추적할 수 있습니다.",
+  "sharing.socialButtons.preferences": "소셜 버튼 관리",
+  "sharing.socialButtons.unavailable": "버튼을 로드하지 못했습니다. 일반 공유 메뉴를 이용할 수 있습니다.",
+  "sharing.socialButtons.line": "LINE 좋아요 및 공유",
+  "sharing.socialButtons.seznam": "Seznam 좋아요",
+  "sharing.socialButtons.facebook": "Facebook 공유",
+  "sharing.socialButtons.x": "X 게시",
+  "sharing.socialButtons.linkedin": "LinkedIn 공유",
+  "sharing.socialButtons.telegram": "Telegram 공유",
+  "sharing.socialButtons.pinterest": "Pinterest 저장",
+  "sharing.naver": "NAVER 공유"
 }

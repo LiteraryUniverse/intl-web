@@ -79,5 +79,17 @@
   "sharing.card.preview": "सोशल लिंक पूर्वावलोकन छवि",
   "sharing.card.uploadRequirements": "5 MB तक की PNG, JPEG या WebP अपलोड करें। 1200 × 630 पिक्सेल का उपयोग करें; अन्य आकार फ़िट करने के लिए काट दिए जाते हैं।",
   "sharing.card.reset": "कवर का स्वचालित उपयोग करें",
-  "sharing.card.examples": "लिंक पूर्वावलोकन के उदाहरण। हर प्लेटफ़ॉर्म छवियों को काट सकता है, पाठ छोटा कर सकता है, या कैश किया हुआ संस्करण अलग तरह से दिखा सकता है।"
+  "sharing.card.examples": "लिंक पूर्वावलोकन के उदाहरण। हर प्लेटफ़ॉर्म छवियों को काट सकता है, पाठ छोटा कर सकता है, या कैश किया हुआ संस्करण अलग तरह से दिखा सकता है।",
+  "sharing.socialButtons.title": "सोशल नेटवर्क के बटन",
+  "sharing.socialButtons.consent": "पेज में शामिल पसंद और साझा करने के बटन दिखाने के लिए अपनी कुकी प्राथमिकताओं में सोशल बटन की अनुमति दें। इन सेवाओं के बटन लोड होने पर वे आपकी विज़िट को ट्रैक कर सकती हैं।",
+  "sharing.socialButtons.preferences": "सोशल बटन प्रबंधित करें",
+  "sharing.socialButtons.unavailable": "बटन लोड नहीं हो सके। आप सामान्य साझा मेन्यू का उपयोग कर सकते हैं।",
+  "sharing.naver": "NAVER पर साझा करें",
+  "sharing.socialButtons.line": "LINE पर पसंद करें और साझा करें",
+  "sharing.socialButtons.seznam": "Seznam पर पसंद करें",
+  "sharing.socialButtons.facebook": "Facebook पर साझा करें",
+  "sharing.socialButtons.x": "X पर पोस्ट करें",
+  "sharing.socialButtons.linkedin": "LinkedIn पर साझा करें",
+  "sharing.socialButtons.telegram": "Telegram पर साझा करें",
+  "sharing.socialButtons.pinterest": "Pinterest पर सहेजें"
 }

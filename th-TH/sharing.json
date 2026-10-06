@@ -79,5 +79,17 @@
   "sharing.card.preview": "ภาพตัวอย่างลิงก์บนโซเชียล",
   "sharing.card.uploadRequirements": "อัปโหลดไฟล์ PNG, JPEG หรือ WebP ขนาดไม่เกิน 5 MB ใช้ขนาด 1200 × 630 พิกเซล ขนาดอื่นจะถูกครอบตัดให้พอดี",
   "sharing.card.reset": "ใช้ปกโดยอัตโนมัติ",
-  "sharing.card.examples": "ตัวอย่างการแสดงตัวอย่างลิงก์ แต่ละแพลตฟอร์มอาจครอบตัดภาพ ย่อข้อความ หรือแสดงเวอร์ชันที่แคชไว้แตกต่างกัน"
+  "sharing.card.examples": "ตัวอย่างการแสดงตัวอย่างลิงก์ แต่ละแพลตฟอร์มอาจครอบตัดภาพ ย่อข้อความ หรือแสดงเวอร์ชันที่แคชไว้แตกต่างกัน",
+  "sharing.socialButtons.title": "ปุ่มเครือข่ายสังคมออนไลน์",
+  "sharing.socialButtons.consent": "หากต้องการแสดงปุ่มถูกใจและแชร์แบบฝัง โปรดอนุญาตปุ่มโซเชียลในการตั้งค่าคุกกี้ บริการเหล่านี้อาจติดตามการเข้าชมของคุณเมื่อโหลดปุ่ม",
+  "sharing.socialButtons.preferences": "จัดการปุ่มโซเชียล",
+  "sharing.socialButtons.unavailable": "ไม่สามารถโหลดปุ่มได้ คุณสามารถใช้เมนูแชร์ตามปกติได้",
+  "sharing.socialButtons.line": "ถูกใจและแชร์ผ่าน LINE",
+  "sharing.socialButtons.seznam": "ถูกใจผ่าน Seznam",
+  "sharing.socialButtons.facebook": "แชร์ผ่าน Facebook",
+  "sharing.socialButtons.x": "โพสต์บน X",
+  "sharing.socialButtons.linkedin": "แชร์ผ่าน LinkedIn",
+  "sharing.socialButtons.telegram": "แชร์ผ่าน Telegram",
+  "sharing.socialButtons.pinterest": "บันทึกบน Pinterest",
+  "sharing.naver": "แชร์ผ่าน NAVER"
 }

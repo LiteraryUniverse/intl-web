@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "చదివే వేగం (నిమిషానికి అక్షరాలు)",
   "settings.languages.charactersPerMinuteExplained": "ఒక కథ చదవడానికి మీకు ఎంత సమయం పడుతుందో అంచనా వేయడానికి మేము ఈ విలువను ఉపయోగిస్తాము. నిమిషానికి {defaultSpeed, number} అక్షరాలను ఉపయోగించడానికి ఈ ఫీల్డ్‌ను ఖాళీగా ఉంచండి.",
-  "settings.languages.measureReadingSpeed": "మీ చదివే వేగాన్ని కొలవండి"
+  "settings.languages.measureReadingSpeed": "మీ చదివే వేగాన్ని కొలవండి",
+  "settings.tracking.socialButtons.title": "పేజీలో పొందుపరిచిన సామాజిక బటన్‌లు",
+  "settings.tracking.socialButtons.description": "సామాజిక నెట్‌వర్క్‌లు ఈ బ్రౌజర్‌లో తమ ఇష్టం మరియు షేర్ బటన్‌లను లోడ్ చేయవచ్చో లేదో ఎంచుకోండి. కుకీ ప్రాధాన్యతల్లో వాటిని ఆఫ్ చేయవచ్చు. సాధారణ షేర్ లింక్‌లు అందుబాటులో ఉంటాయి."
 }

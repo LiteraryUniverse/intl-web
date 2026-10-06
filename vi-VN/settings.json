@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Hãy đặt mật khẩu hoặc kết nối một phương thức đăng nhập khả dụng khác trước khi ngắt kết nối tài khoản này.",
   "settings.languages.charactersPerMinute": "Tốc độ đọc (ký tự mỗi phút)",
   "settings.languages.charactersPerMinuteExplained": "Chúng tôi dùng giá trị này để ước tính thời gian bạn cần để đọc một câu chuyện. Để trống ô này để dùng tốc độ {defaultSpeed, number} ký tự mỗi phút.",
-  "settings.languages.measureReadingSpeed": "Đo tốc độ đọc của bạn"
+  "settings.languages.measureReadingSpeed": "Đo tốc độ đọc của bạn",
+  "settings.tracking.socialButtons.title": "Nút mạng xã hội nhúng",
+  "settings.tracking.socialButtons.description": "Chọn có cho phép mạng xã hội tải các nút thích và chia sẻ trong trình duyệt này hay không. Bạn có thể tắt chúng trong tùy chọn cookie. Các liên kết chia sẻ thông thường vẫn sử dụng được."
 }

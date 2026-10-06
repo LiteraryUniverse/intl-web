@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "A fiók leválasztása előtt állíts be jelszót, vagy csatlakoztass egy másik elérhető bejelentkezési módot.",
   "settings.languages.charactersPerMinute": "Olvasási sebesség (karakter percenként)",
   "settings.languages.charactersPerMinuteExplained": "Ezzel becsüljük meg, mennyi idő alatt olvasol el egy történetet. Hagyd üresen a mezőt, ha a percenkénti {defaultSpeed, number} karaktert szeretnéd használni.",
-  "settings.languages.measureReadingSpeed": "Mérd meg az olvasási sebességed"
+  "settings.languages.measureReadingSpeed": "Mérd meg az olvasási sebességed",
+  "settings.tracking.socialButtons.title": "Beágyazott közösségi gombok",
+  "settings.tracking.socialButtons.description": "Válassza ki, hogy a közösségi hálózatok betölthetik-e a kedvelés- és megosztásgombjaikat ebben a böngészőben. A sütibeállításokban kikapcsolhatja őket. A szokásos megosztási hivatkozások továbbra is elérhetők."
 }

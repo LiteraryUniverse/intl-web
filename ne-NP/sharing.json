@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "सामाजिक सञ्जालका बटनहरू",
+  "sharing.socialButtons.consent": "पृष्ठमा समावेश गरिएका मन पराउने र साझा गर्ने बटनहरू देखाउन आफ्नो कुकी प्राथमिकतामा सामाजिक बटनहरूको अनुमति दिनुहोस्। यी सेवाहरूका बटन लोड हुँदा तिनले तपाईंको भ्रमण ट्र्याक गर्न सक्छन्।",
+  "sharing.socialButtons.preferences": "सामाजिक बटनहरू व्यवस्थापन गर्नुहोस्",
+  "sharing.socialButtons.unavailable": "बटनहरू लोड हुन सकेनन्। तपाईं सामान्य साझा गर्ने मेनु प्रयोग गर्न सक्नुहुन्छ।",
+  "sharing.naver": "NAVER मा साझा गर्नुहोस्",
+  "sharing.socialButtons.line": "LINE मा मन पराउनुहोस् र साझा गर्नुहोस्",
+  "sharing.socialButtons.seznam": "Seznam मा मन पराउनुहोस्",
+  "sharing.socialButtons.facebook": "Facebook मा साझा गर्नुहोस्",
+  "sharing.socialButtons.x": "X मा पोस्ट गर्नुहोस्",
+  "sharing.socialButtons.linkedin": "LinkedIn मा साझा गर्नुहोस्",
+  "sharing.socialButtons.telegram": "Telegram मा साझा गर्नुहोस्",
+  "sharing.socialButtons.pinterest": "Pinterest मा सुरक्षित गर्नुहोस्"
 }

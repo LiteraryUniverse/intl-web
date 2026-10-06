@@ -79,5 +79,17 @@
   "sharing.card.preview": "Forhåndsvisningsbillede til links på sociale medier",
   "sharing.card.uploadRequirements": "Upload en PNG, JPEG eller WebP på op til 5 MB. Brug 1200 × 630 pixels; andre størrelser beskæres, så de passer.",
   "sharing.card.reset": "Brug omslaget automatisk",
-  "sharing.card.examples": "Eksempler på linkforhåndsvisninger. Hver platform kan beskære billeder, forkorte tekst eller vise en cachet version på sin egen måde."
+  "sharing.card.examples": "Eksempler på linkforhåndsvisninger. Hver platform kan beskære billeder, forkorte tekst eller vise en cachet version på sin egen måde.",
+  "sharing.socialButtons.title": "Knapper til sociale netværk",
+  "sharing.socialButtons.consent": "Tillad sociale knapper i dine cookieindstillinger for at vise indlejrede Synes godt om- og delingsknapper. Disse tjenester kan spore dit besøg, når knapperne indlæses.",
+  "sharing.socialButtons.preferences": "Administrer sociale knapper",
+  "sharing.naver": "Del på NAVER",
+  "sharing.socialButtons.unavailable": "Knapperne kunne ikke indlæses. Du kan bruge den almindelige delingsmenu.",
+  "sharing.socialButtons.line": "Synes godt om og del på LINE",
+  "sharing.socialButtons.seznam": "Synes godt om på Seznam",
+  "sharing.socialButtons.facebook": "Del på Facebook",
+  "sharing.socialButtons.x": "Udgiv på X",
+  "sharing.socialButtons.linkedin": "Del på LinkedIn",
+  "sharing.socialButtons.telegram": "Del på Telegram",
+  "sharing.socialButtons.pinterest": "Gem på Pinterest"
 }

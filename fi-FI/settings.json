@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Aseta salasana tai yhdistä toinen käytettävissä oleva kirjautumistapa ennen kuin katkaiset tämän tilin yhteyden.",
   "settings.languages.charactersPerMinute": "Lukunopeus (merkkiä minuutissa)",
   "settings.languages.charactersPerMinuteExplained": "Tämän avulla arvioimme, kuinka kauan tarinan lukeminen kestää sinulta. Jätä kenttä tyhjäksi, jos haluat käyttää nopeutta {defaultSpeed, number} merkkiä minuutissa.",
-  "settings.languages.measureReadingSpeed": "Mittaa lukunopeutesi"
+  "settings.languages.measureReadingSpeed": "Mittaa lukunopeutesi",
+  "settings.tracking.socialButtons.title": "Upotetut sosiaaliset painikkeet",
+  "settings.tracking.socialButtons.description": "Valitse, saavatko sosiaaliset verkostot ladata tykkäys- ja jakopainikkeitaan tässä selaimessa. Voit poistaa ne käytöstä evästeasetuksissa. Tavalliset jakolinkit ovat edelleen käytettävissä."
 }

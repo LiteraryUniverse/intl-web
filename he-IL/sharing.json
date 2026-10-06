@@ -79,5 +79,17 @@
   "sharing.card.preview": "תמונת תצוגה מקדימה של קישור ברשתות החברתיות",
   "sharing.card.uploadRequirements": "העלה קובץ PNG, JPEG או WebP עד 5 MB. השתמש ב־1200 × 630 פיקסלים; גדלים אחרים ייחתכו להתאמה.",
   "sharing.card.reset": "השתמש בכריכה אוטומטית",
-  "sharing.card.examples": "דוגמאות לתצוגות מקדימות של קישורים. כל פלטפורמה עשויה לחתוך תמונות, לקצר טקסט או להציג גרסה שמורה במטמון באופן שונה."
+  "sharing.card.examples": "דוגמאות לתצוגות מקדימות של קישורים. כל פלטפורמה עשויה לחתוך תמונות, לקצר טקסט או להציג גרסה שמורה במטמון באופן שונה.",
+  "sharing.socialButtons.title": "כפתורי רשתות חברתיות",
+  "sharing.socialButtons.consent": "כדי להציג כפתורי אהבתי ושיתוף מוטמעים, אפשרו כפתורים חברתיים בהעדפות העוגיות. שירותים אלה עשויים לעקוב אחר ביקורכם בעת טעינת הכפתורים שלהם.",
+  "sharing.socialButtons.preferences": "ניהול כפתורים חברתיים",
+  "sharing.socialButtons.unavailable": "לא ניתן לטעון את הכפתורים. באפשרותכם להשתמש בתפריט השיתוף הרגיל.",
+  "sharing.socialButtons.line": "אהבתי ושיתוף ב-LINE",
+  "sharing.socialButtons.seznam": "אהבתי ב-Seznam",
+  "sharing.socialButtons.facebook": "שיתוף ב-Facebook",
+  "sharing.socialButtons.x": "פרסום ב-X",
+  "sharing.socialButtons.linkedin": "שיתוף ב-LinkedIn",
+  "sharing.socialButtons.telegram": "שיתוף ב-Telegram",
+  "sharing.socialButtons.pinterest": "שמירה ב-Pinterest",
+  "sharing.naver": "שיתוף ב-NAVER"
 }

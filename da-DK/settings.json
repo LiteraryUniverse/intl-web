@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Angiv en adgangskode, eller tilknyt en anden tilgængelig loginmetode, før du frakobler denne konto.",
   "settings.languages.charactersPerMinute": "Læsehastighed (tegn pr. minut)",
   "settings.languages.charactersPerMinuteExplained": "Vi bruger dette til at anslå, hvor lang tid det vil tage dig at læse en historie. Lad feltet stå tomt for at bruge {defaultSpeed, number} tegn pr. minut.",
-  "settings.languages.measureReadingSpeed": "Mål din læsehastighed"
+  "settings.languages.measureReadingSpeed": "Mål din læsehastighed",
+  "settings.tracking.socialButtons.title": "Indlejrede sociale knapper",
+  "settings.tracking.socialButtons.description": "Vælg, om sociale netværk må indlæse deres Synes godt om- og delingsknapper i denne browser. Du kan slå dem fra i cookieindstillingerne. Almindelige delingslinks er stadig tilgængelige."
 }

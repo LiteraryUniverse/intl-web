@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳ ಬಟನ್‌ಗಳು",
+  "sharing.socialButtons.consent": "ಪುಟದಲ್ಲಿ ಅಳವಡಿಸಿದ ಮೆಚ್ಚುಗೆ ಮತ್ತು ಹಂಚಿಕೆ ಬಟನ್‌ಗಳನ್ನು ತೋರಿಸಲು ನಿಮ್ಮ ಕುಕೀ ಆದ್ಯತೆಗಳಲ್ಲಿ ಸಾಮಾಜಿಕ ಬಟನ್‌ಗಳಿಗೆ ಅನುಮತಿ ನೀಡಿ. ಈ ಸೇವೆಗಳ ಬಟನ್‌ಗಳು ಲೋಡ್ ಆದಾಗ ಅವು ನಿಮ್ಮ ಭೇಟಿಯನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಬಹುದು.",
+  "sharing.socialButtons.preferences": "ಸಾಮಾಜಿಕ ಬಟನ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+  "sharing.socialButtons.unavailable": "ಬಟನ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ನೀವು ಸಾಮಾನ್ಯ ಹಂಚಿಕೆ ಮೆನುವನ್ನು ಬಳಸಬಹುದು.",
+  "sharing.naver": "NAVER ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ",
+  "sharing.socialButtons.line": "LINE ನಲ್ಲಿ ಮೆಚ್ಚುಗೆ ಸೂಚಿಸಿ ಮತ್ತು ಹಂಚಿಕೊಳ್ಳಿ",
+  "sharing.socialButtons.seznam": "Seznam ನಲ್ಲಿ ಮೆಚ್ಚುಗೆ ಸೂಚಿಸಿ",
+  "sharing.socialButtons.facebook": "Facebook ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ",
+  "sharing.socialButtons.x": "X ನಲ್ಲಿ ಪೋಸ್ಟ್ ಮಾಡಿ",
+  "sharing.socialButtons.linkedin": "LinkedIn ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ",
+  "sharing.socialButtons.telegram": "Telegram ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ",
+  "sharing.socialButtons.pinterest": "Pinterest ನಲ್ಲಿ ಉಳಿಸಿ"
 }

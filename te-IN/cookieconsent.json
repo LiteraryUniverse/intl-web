@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "description": "Literary Universe పనిచేయడానికి మేము అవసరమైన కుకీలను ఉపయోగిస్తాము. మీరు విశ్లేషణకు, పేజీలో పొందుపరిచిన సామాజిక బటన్‌లకు కూడా అనుమతి ఇవ్వవచ్చు. మీరు ఉపయోగించాలనుకునే ఐచ్ఛిక సదుపాయాలను ఎంచుకోండి.",
     "acceptAllBtn": "Accept all 🙏",
     "acceptNecessaryBtn": "Reject all 🙅",
     "showPreferencesBtn": "Manage preferences 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "description": "అవసరమైన కుకీలు మీ ఖాతా మరియు చెల్లింపులు పనిచేసేలా చేస్తాయి. విశ్లేషణ మరియు పేజీలో పొందుపరిచిన సామాజిక బటన్‌లు ఐచ్ఛికం. ఈ ఎంపికలను ఇక్కడ ఎప్పుడైనా మార్చవచ్చు."
       },
       {
         "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "పేజీలో పొందుపరిచిన సామాజిక బటన్‌లు",
+        "description": "సామాజిక నెట్‌వర్క్‌ల నుంచి నేరుగా లోడ్ అయ్యే ఇష్టం మరియు షేర్ బటన్‌లకు అనుమతి ఇవ్వండి. ఈ బటన్‌లు లోడ్ అయినప్పుడు సేవలు మీ బ్రౌజింగ్ సమాచారాన్ని సేకరించవచ్చు, కుకీలను ఉపయోగించవచ్చు లేదా మీ సందర్శనను మీ సామాజిక ఖాతాతో అనుసంధానించవచ్చు. సాధారణ షేర్ లింక్‌లు, కాపీ, ఇమెయిల్ మరియు పరికరం ద్వారా షేర్ చేయడం ఈ అనుమతి లేకుండానే పనిచేస్తాయి.",
+        "linkedCategory": "social"
       },
       {
         "title": "More information",

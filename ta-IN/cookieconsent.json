@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "description": "Literary Universe இயங்குவதற்குத் தேவையான குக்கீகளைப் பயன்படுத்துகிறோம். பகுப்பாய்வையும் உட்பொதிக்கப்பட்ட சமூகப் பொத்தான்களையும் நீங்கள் அனுமதிக்கலாம். எந்த விருப்ப வசதிகளைப் பயன்படுத்த விரும்புகிறீர்கள் என்பதைத் தேர்ந்தெடுக்கவும்.",
     "acceptAllBtn": "Accept all 🙏",
     "acceptNecessaryBtn": "Reject all 🙅",
     "showPreferencesBtn": "Manage preferences 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "description": "தேவையான குக்கீகள் உங்கள் கணக்கும் கட்டணச் செயல்பாடுகளும் இயங்க உதவுகின்றன. பகுப்பாய்வும் உட்பொதிக்கப்பட்ட சமூகப் பொத்தான்களும் கட்டாயமல்ல. இந்தத் தேர்வுகளை இங்கே எப்போது வேண்டுமானாலும் மாற்றலாம்."
       },
       {
         "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "உட்பொதிக்கப்பட்ட சமூகப் பொத்தான்கள்",
+        "description": "சமூக வலைத்தளங்களிலிருந்து நேரடியாக ஏற்றப்படும் விருப்பம் மற்றும் பகிர்வுப் பொத்தான்களை அனுமதிக்கவும். இந்தப் பொத்தான்கள் ஏற்றப்படும்போது சேவைகள் உலாவல் தகவல்களைச் சேகரிக்கலாம், குக்கீகளைப் பயன்படுத்தலாம் அல்லது உங்கள் வருகையை உங்கள் சமூக வலைத்தளக் கணக்குடன் இணைக்கலாம். வழக்கமான பகிர்வு இணைப்புகள், நகலெடுத்தல், மின்னஞ்சல் மற்றும் சாதனம் வழியாகப் பகிர்தல் ஆகியவை இந்த அனுமதியின்றியும் இயங்கும்.",
+        "linkedCategory": "social"
       },
       {
         "title": "மேலும் தகவல்",

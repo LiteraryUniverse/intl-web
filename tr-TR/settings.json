@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Bu hesabın bağlantısını kesmeden önce bir şifre belirleyin veya kullanılabilir başka bir giriş yöntemi bağlayın.",
   "settings.languages.charactersPerMinute": "Okuma hızı (dakikada karakter)",
   "settings.languages.charactersPerMinuteExplained": "Bir hikâyeyi okumanızın ne kadar süreceğini tahmin etmek için bu değeri kullanıyoruz. Dakikada {defaultSpeed, number} karakter kullanmak için alanı boş bırakın.",
-  "settings.languages.measureReadingSpeed": "Okuma hızınızı ölçün"
+  "settings.languages.measureReadingSpeed": "Okuma hızınızı ölçün",
+  "settings.tracking.socialButtons.title": "Gömülü sosyal düğmeler",
+  "settings.tracking.socialButtons.description": "Sosyal ağların bu tarayıcıda beğeni ve paylaşım düğmelerini yükleyip yükleyemeyeceğini seçin. Çerez tercihlerinizde bunları kapatabilirsiniz. Normal paylaşım bağlantıları kullanılabilir durumda kalır."
 }

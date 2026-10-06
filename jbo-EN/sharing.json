@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "lo batke pe lo jikca kibro ciste",
+  "sharing.socialButtons.consent": "te zu'e lo nu lo nelci batke .e lo benji batke cu se jarco ne'i lo kibro papri kei ko curmi lo nu lo jikca batke cu se cpacu kei ne'i lo do te cuxna pe lo kibro vreji .i ca lo nu lo batke cu se cpacu kei lo ciste ka'e ciska lo datni be lo do nu vitke",
+  "sharing.socialButtons.preferences": "ko jitro lo jikca batke",
+  "sharing.socialButtons.unavailable": "lo batke na ka'e se cpacu .i do ka'e pilno lo fadni liste be lo tadji be lo nu benji",
+  "sharing.naver": "ko benji sepi'o la'o gy. NAVER .gy.",
+  "sharing.socialButtons.line": "ko nelci gi'e benji sepi'o la'o gy. LINE .gy.",
+  "sharing.socialButtons.seznam": "ko nelci sepi'o la'o gy. Seznam .gy.",
+  "sharing.socialButtons.facebook": "ko benji sepi'o la'o gy. Facebook .gy.",
+  "sharing.socialButtons.x": "ko gubni benji sepi'o la'o gy. X .gy.",
+  "sharing.socialButtons.linkedin": "ko benji sepi'o la'o gy. LinkedIn .gy.",
+  "sharing.socialButtons.telegram": "ko benji sepi'o la'o gy. Telegram .gy.",
+  "sharing.socialButtons.pinterest": "ko ralte sepi'o la'o gy. Pinterest .gy."
 }

@@ -79,5 +79,17 @@
   "sharing.card.preview": "Immagine di anteprima del link sui social",
   "sharing.card.uploadRequirements": "Carica un file PNG, JPEG o WebP fino a 5 MB. Usa 1200 × 630 pixel; le altre dimensioni vengono ritagliate per adattarsi.",
   "sharing.card.reset": "Usa automaticamente la copertina",
-  "sharing.card.examples": "Esempi di anteprime dei link. Ogni piattaforma può ritagliare le immagini, accorciare il testo o mostrare una versione in cache in modo diverso."
+  "sharing.card.examples": "Esempi di anteprime dei link. Ogni piattaforma può ritagliare le immagini, accorciare il testo o mostrare una versione in cache in modo diverso.",
+  "sharing.socialButtons.title": "Pulsanti dei social network",
+  "sharing.socialButtons.consent": "Per mostrare i pulsanti Mi piace e Condividi incorporati, autorizzi i pulsanti social nelle preferenze dei cookie. Questi servizi possono tracciare la sua visita quando vengono caricati i pulsanti.",
+  "sharing.socialButtons.preferences": "Gestisci i pulsanti social",
+  "sharing.naver": "Condividi su NAVER",
+  "sharing.socialButtons.unavailable": "Non è stato possibile caricare i pulsanti. Può usare il consueto menu di condivisione.",
+  "sharing.socialButtons.line": "Mi piace e condividi su LINE",
+  "sharing.socialButtons.seznam": "Mi piace su Seznam",
+  "sharing.socialButtons.facebook": "Condividi su Facebook",
+  "sharing.socialButtons.x": "Pubblica su X",
+  "sharing.socialButtons.linkedin": "Condividi su LinkedIn",
+  "sharing.socialButtons.telegram": "Condividi su Telegram",
+  "sharing.socialButtons.pinterest": "Salva su Pinterest"
 }

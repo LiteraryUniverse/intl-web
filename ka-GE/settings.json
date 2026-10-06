@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "კითხვის სიჩქარე (სიმბოლოები წუთში)",
   "settings.languages.charactersPerMinuteExplained": "ამ მნიშვნელობით ვაფასებთ, რამდენი დრო დაგჭირდებათ მოთხრობის წასაკითხად. დატოვეთ ველი ცარიელი, რომ გამოვიყენოთ წუთში {defaultSpeed, number} სიმბოლო.",
-  "settings.languages.measureReadingSpeed": "გაზომეთ თქვენი კითხვის სიჩქარე"
+  "settings.languages.measureReadingSpeed": "გაზომეთ თქვენი კითხვის სიჩქარე",
+  "settings.tracking.socialButtons.title": "ჩაშენებული სოციალური ღილაკები",
+  "settings.tracking.socialButtons.description": "აირჩიეთ, შეუძლიათ თუ არა სოციალურ ქსელებს ამ ბრაუზერში მოწონებისა და გაზიარების ღილაკების ჩატვირთვა. მათი გამორთვა შეგიძლიათ ქუქი-ფაილების პარამეტრებში. გაზიარების ჩვეულებრივი ბმულები კვლავ ხელმისაწვდომი იქნება."
 }

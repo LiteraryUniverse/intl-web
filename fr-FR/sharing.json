@@ -79,5 +79,17 @@
   "sharing.card.preview": "Image d'aperçu du lien sur les réseaux sociaux",
   "sharing.card.uploadRequirements": "Importez un fichier PNG, JPEG ou WebP de 5 Mo maximum. Utilisez 1200 × 630 pixels ; les autres dimensions sont recadrées.",
   "sharing.card.reset": "Utiliser automatiquement la couverture",
-  "sharing.card.examples": "Exemples d'aperçus de lien. Chaque plateforme peut recadrer les images, raccourcir le texte ou afficher une version en cache différente."
+  "sharing.card.examples": "Exemples d'aperçus de lien. Chaque plateforme peut recadrer les images, raccourcir le texte ou afficher une version en cache différente.",
+  "sharing.socialButtons.title": "Boutons des réseaux sociaux",
+  "sharing.socialButtons.consent": "Pour afficher les boutons J'aime et Partager intégrés, autorisez les boutons des réseaux sociaux dans vos préférences de cookies. Ces services peuvent suivre votre visite lorsque leurs boutons se chargent.",
+  "sharing.socialButtons.preferences": "Gérer les boutons sociaux",
+  "sharing.naver": "Partager sur NAVER",
+  "sharing.socialButtons.unavailable": "Les boutons n'ont pas pu se charger. Vous pouvez utiliser le menu de partage habituel.",
+  "sharing.socialButtons.line": "Aimer et partager sur LINE",
+  "sharing.socialButtons.seznam": "Aimer sur Seznam",
+  "sharing.socialButtons.facebook": "Partager sur Facebook",
+  "sharing.socialButtons.x": "Publier sur X",
+  "sharing.socialButtons.linkedin": "Partager sur LinkedIn",
+  "sharing.socialButtons.telegram": "Partager sur Telegram",
+  "sharing.socialButtons.pinterest": "Enregistrer sur Pinterest"
 }

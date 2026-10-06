@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hello traveller, it's cookie time! 🍪",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "description": "Literary Universe ལས་ཀ་བྱེད་ཐུབ་པར་ང་ཚོས་དགོས་ངེས་ཀྱི་ཀུ་ཀི་བཀོལ་གྱི་ཡོད། ཁྱེད་ཀྱིས་དཔྱད་ཞིབ་དང་ནང་འཛུགས་བྱས་པའི་མི་ཚོགས་མཐེབ་གནོན་ལའང་ཆོག་མཆན་གནང་ཆོག རང་མོས་ཀྱི་བྱེད་ནུས་གང་དག་བཀོལ་འདོད་ཡོད་པ་འདེམས་རོགས།",
     "acceptAllBtn": "Accept all 🙏",
     "acceptNecessaryBtn": "Reject all 🙅",
     "showPreferencesBtn": "Manage preferences 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Cookie Usage 🍪",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "description": "དགོས་ངེས་ཀྱི་ཀུ་ཀིས་ཁྱེད་ཀྱི་ཐོ་ཁོངས་དང་དངུལ་སྤྲོད་ལས་ཀ་བྱེད་ཐུབ་པ་བཟོ་གི་ཡོད། དཔྱད་ཞིབ་དང་ནང་འཛུགས་བྱས་པའི་མི་ཚོགས་མཐེབ་གནོན་ནི་རང་མོས་ཡིན། ཁྱེད་ཀྱིས་གདམ་ག་འདི་དག་དུས་ནམ་ཡང་འདིར་བསྒྱུར་ཆོག"
       },
       {
         "title": "Strictly Necessary Cookies <span class=\"pm__badge\">Always Enabled</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Helps us assess campaigns and show relevant promotions about Literary Universe on other websites. No cookies are set on our site for this, but similar technologies or identifiers may be used. Consent required.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "ནང་འཛུགས་བྱས་པའི་མི་ཚོགས་མཐེབ་གནོན།",
+        "description": "མི་ཚོགས་དྲ་རྒྱ་ནས་ཐད་ཀར་འགེལ་བའི་དགའ་རྟགས་དང་མཉམ་སྤྱོད་མཐེབ་གནོན་ལ་ཆོག་མཆན་གནང་རོགས། མཐེབ་གནོན་དེ་དག་འགེལ་སྐབས། ཞབས་ཞུ་དེ་དག་གིས་ཁྱེད་ཀྱི་དྲ་བཤེར་གནས་ཚུལ་བསྡུ་ལེན་བྱེད་པ་དང་། ཀུ་ཀི་བཀོལ་བ། ཡང་ན་ཁྱེད་ཀྱི་ལྟ་སྐོར་དེ་ཁྱེད་ཀྱི་མི་ཚོགས་དྲ་རྒྱའི་ཐོ་ཁོངས་དང་སྦྲེལ་སྲིད། རྒྱུན་ལྡན་གྱི་མཉམ་སྤྱོད་སྦྲེལ་ཐག་དང་། འདྲ་བཤུས། གློག་འཕྲིན། སྒྲིག་ཆས་ཀྱི་མཉམ་སྤྱོད་བཅས་ནི་ཆོག་མཆན་འདི་མེད་ཀྱང་བཀོལ་ཆོག",
+        "linkedCategory": "social"
       },
       {
         "title": "More information",

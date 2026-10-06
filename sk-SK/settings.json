@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Pred odpojením tohto účtu si nastavte heslo alebo pripojte iný dostupný spôsob prihlásenia.",
   "settings.languages.charactersPerMinute": "Rýchlosť čítania (znakov za minútu)",
   "settings.languages.charactersPerMinuteExplained": "Podľa tejto hodnoty odhadujeme, ako dlho vám čítanie príbehu potrvá. Ak pole necháte prázdne, použijeme {defaultSpeed, number} znakov za minútu.",
-  "settings.languages.measureReadingSpeed": "Zmerajte si rýchlosť čítania"
+  "settings.languages.measureReadingSpeed": "Zmerajte si rýchlosť čítania",
+  "settings.tracking.socialButtons.title": "Vložené tlačidlá sociálnych sietí",
+  "settings.tracking.socialButtons.description": "Vyberte, či môžu sociálne siete v tomto prehliadači načítavať svoje tlačidlá Páči sa mi to a Zdieľať. V nastaveniach súborov cookie ich môžete vypnúť. Bežné odkazy na zdieľanie zostávajú dostupné."
 }

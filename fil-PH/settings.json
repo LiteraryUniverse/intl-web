@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Magtakda ng password o magkonekta ng isa pang available na paraan ng pag-sign in bago idiskonekta ang account na ito.",
   "settings.languages.charactersPerMinute": "Bilis ng pagbasa (mga karakter bawat minuto)",
   "settings.languages.charactersPerMinuteExplained": "Ginagamit namin ito para tantiyahin kung gaano katagal mong babasahin ang isang kuwento. Iwanang blangko ang patlang para gumamit ng {defaultSpeed, number} karakter bawat minuto.",
-  "settings.languages.measureReadingSpeed": "Sukatin ang bilis mo sa pagbasa"
+  "settings.languages.measureReadingSpeed": "Sukatin ang bilis mo sa pagbasa",
+  "settings.tracking.socialButtons.title": "Mga nakapaloob na pindutan ng social media",
+  "settings.tracking.socialButtons.description": "Piliin kung papayagan ang mga social network na i-load ang kanilang mga pindutan ng gusto at pagbabahagi sa browser na ito. Maaari mong i-off ang mga ito sa mga kagustuhan sa cookie. Mananatiling magagamit ang mga karaniwang link sa pagbabahagi."
 }

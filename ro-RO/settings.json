@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Setează o parolă sau conectează o altă metodă de autentificare disponibilă înainte de a deconecta acest cont.",
   "settings.languages.charactersPerMinute": "Viteză de citire (caractere pe minut)",
   "settings.languages.charactersPerMinuteExplained": "Folosim această valoare pentru a estima cât timp îți va lua să citești o poveste. Lasă câmpul gol pentru a folosi {defaultSpeed, number} caractere pe minut.",
-  "settings.languages.measureReadingSpeed": "Măsoară-ți viteza de citire"
+  "settings.languages.measureReadingSpeed": "Măsoară-ți viteza de citire",
+  "settings.tracking.socialButtons.title": "Butoane sociale încorporate",
+  "settings.tracking.socialButtons.description": "Alegeți dacă rețelele sociale pot încărca butoanele de apreciere și distribuire în acest browser. Le puteți dezactiva în preferințele pentru cookie-uri. Linkurile obișnuite de distribuire rămân disponibile."
 }

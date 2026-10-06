@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "ਪੜ੍ਹਨ ਦੀ ਗਤੀ (ਪ੍ਰਤੀ ਮਿੰਟ ਅੱਖਰ)",
   "settings.languages.charactersPerMinuteExplained": "ਕਹਾਣੀ ਪੜ੍ਹਨ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਿੰਨਾ ਸਮਾਂ ਲੱਗੇਗਾ, ਇਸ ਦਾ ਅੰਦਾਜ਼ਾ ਲਗਾਉਣ ਲਈ ਅਸੀਂ ਇਹ ਮੁੱਲ ਵਰਤਦੇ ਹਾਂ। ਪ੍ਰਤੀ ਮਿੰਟ {defaultSpeed, number} ਅੱਖਰ ਵਰਤਣ ਲਈ ਇਹ ਖੇਤਰ ਖਾਲੀ ਛੱਡੋ।",
-  "settings.languages.measureReadingSpeed": "ਆਪਣੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀ ਮਾਪੋ"
+  "settings.languages.measureReadingSpeed": "ਆਪਣੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀ ਮਾਪੋ",
+  "settings.tracking.socialButtons.title": "ਪੰਨੇ ਵਿੱਚ ਸ਼ਾਮਲ ਸੋਸ਼ਲ ਬਟਨ",
+  "settings.tracking.socialButtons.description": "ਚੁਣੋ ਕਿ ਸੋਸ਼ਲ ਨੈੱਟਵਰਕ ਇਸ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਆਪਣੇ ਪਸੰਦ ਅਤੇ ਸਾਂਝਾ ਕਰਨ ਦੇ ਬਟਨ ਲੋਡ ਕਰ ਸਕਦੇ ਹਨ ਜਾਂ ਨਹੀਂ। ਤੁਸੀਂ ਕੂਕੀ ਤਰਜੀਹਾਂ ਵਿੱਚ ਉਨ੍ਹਾਂ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। ਆਮ ਸਾਂਝਾ ਕਰਨ ਵਾਲੇ ਲਿੰਕ ਉਪਲਬਧ ਰਹਿਣਗੇ।"
 }

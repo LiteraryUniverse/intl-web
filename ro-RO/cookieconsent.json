@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Salut călătorule, e vremea prăjiturilor! 🍪",
-    "description": "Nu folosim cookie-uri în afară de cele funcționale necesare. Dar avem alte funcționalități în scopuri analitice pentru care avem nevoie de aprobarea dumneavoastră.",
+    "description": "Folosim cookie-uri necesare pentru ca Literary Universe să funcționeze. Puteți permite și analiza utilizării și butoanele sociale încorporate. Alegeți ce funcții opționale doriți să folosiți.",
     "acceptAllBtn": "Acceptați toate 🙏",
     "acceptNecessaryBtn": "Respingeți toate 🙅",
     "showPreferencesBtn": "Gestionați preferințele 🔧",
@@ -17,17 +17,22 @@
     "sections": [
       {
         "title": "Utilizarea modulelor cookie 🍪",
-        "description": "Acest site utilizează cookie-uri strict necesare pentru funcționalitatea de bază. Cu permisiunea dumneavoastră, efectuăm, de asemenea, analize pentru a înțelege utilizarea și a îmbunătăți Universul literar. Analizele noastre nu se bazează pe cookie-uri, dar pot utiliza tehnologii similare sau identificatori online și, prin urmare, necesită consimțământul dumneavoastră în anumite jurisdicții."
+        "description": "Cookie-urile necesare asigură funcționarea contului și a plăților. Analiza utilizării și butoanele sociale încorporate sunt opționale. Puteți modifica aceste alegeri aici oricând."
       },
       {
         "title": "Cookie-uri strict necesare <span class=\"pm__badge\">Întotdeauna activate</span>",
         "description": "Aceste module cookie sunt de la furnizorul nostru de servicii de găzduire și plată, care asigură funcționarea corectă a aplicației și conectarea dumneavoastră.",
-        "linkedCategory": "necesare"
+        "linkedCategory": "necessary"
       },
       {
         "title": "Analiză 📊",
         "description": "Utilizăm diverse servicii de analiză pentru a obține informații despre modul în care utilizați site-ul nostru și pentru a ne îmbunătăți eforturile de publicitate.\n<ul>\n<li>Analytics<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Măsoară utilizarea site-ului, performanța și erorile pentru a îmbunătăți Universul literar. Nu sunt setate cookie-uri pentru analiză, dar pot fi prelucrate date tehnice și identificatori limitați. Consimțământul este necesar.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Ne ajută să evaluăm campaniile și să afișăm promoții relevante despre Literary Universe pe alte site-uri web. Nu sunt setate cookie-uri pe site-ul nostru pentru acest lucru, dar pot fi utilizate tehnologii sau identificatori similari. Consimțământul este necesar.</li>\n</ul>",
-        "linkedCategory": "analitice"
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Butoane sociale încorporate",
+        "description": "Permiteți butoanele de apreciere și distribuire încărcate direct de pe rețelele sociale. Când se încarcă butoanele, aceste servicii pot colecta informații de navigare, folosi cookie-uri sau asocia vizita cu contul dumneavoastră de pe rețeaua socială. Linkurile obișnuite de distribuire, copierea, e-mailul și funcția de distribuire a dispozitivului funcționează fără această permisiune.",
+        "linkedCategory": "social"
       },
       {
         "title": "Mai multe informații",

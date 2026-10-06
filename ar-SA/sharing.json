@@ -79,5 +79,17 @@
   "sharing.card.preview": "صورة معاينة الرابط على وسائل التواصل",
   "sharing.card.uploadRequirements": "ارفع ملف PNG أو JPEG أو WebP بحجم لا يتجاوز 5 MB. استخدم 1200 × 630 بكسل؛ الأحجام الأخرى تُقصّ لتلائم.",
   "sharing.card.reset": "استخدام الغلاف تلقائيًا",
-  "sharing.card.examples": "أمثلة على معاينات الرابط. قد تقصّ كل منصة الصور، أو تختصر النص، أو تعرض نسخة مخزّنة مؤقتًا بشكل مختلف."
+  "sharing.card.examples": "أمثلة على معاينات الرابط. قد تقصّ كل منصة الصور، أو تختصر النص، أو تعرض نسخة مخزّنة مؤقتًا بشكل مختلف.",
+  "sharing.socialButtons.title": "أزرار الشبكات الاجتماعية",
+  "sharing.socialButtons.consent": "لعرض أزرار الإعجاب والمشاركة المضمّنة، اسمح بأزرار الشبكات الاجتماعية في إعدادات ملفات تعريف الارتباط. قد تتتبّع هذه الخدمات زيارتك عند تحميل أزرارها.",
+  "sharing.socialButtons.preferences": "إدارة أزرار الشبكات الاجتماعية",
+  "sharing.socialButtons.unavailable": "تعذّر تحميل الأزرار. يمكنك استخدام قائمة المشاركة المعتادة.",
+  "sharing.socialButtons.line": "إعجاب ومشاركة عبر LINE",
+  "sharing.socialButtons.seznam": "إعجاب عبر Seznam",
+  "sharing.socialButtons.facebook": "مشاركة عبر Facebook",
+  "sharing.socialButtons.x": "نشر على X",
+  "sharing.socialButtons.linkedin": "مشاركة عبر LinkedIn",
+  "sharing.socialButtons.telegram": "مشاركة عبر Telegram",
+  "sharing.socialButtons.pinterest": "حفظ على Pinterest",
+  "sharing.naver": "مشاركة عبر NAVER"
 }

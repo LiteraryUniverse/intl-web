@@ -79,5 +79,17 @@
   "sharing.card.preview": "Socialinės nuorodos peržiūros paveikslėlis",
   "sharing.card.uploadRequirements": "Įkelkite PNG, JPEG arba WebP iki 5 MB. Naudokite 1200 × 630 pikselių; kitų dydžių paveikslėliai apkarpomi.",
   "sharing.card.reset": "Naudoti viršelį automatiškai",
-  "sharing.card.examples": "Nuorodų peržiūrų pavyzdžiai. Kiekviena platforma gali savaip apkarpyti paveikslėlius, sutrumpinti tekstą ar rodyti podėlyje išsaugotą versiją."
+  "sharing.card.examples": "Nuorodų peržiūrų pavyzdžiai. Kiekviena platforma gali savaip apkarpyti paveikslėlius, sutrumpinti tekstą ar rodyti podėlyje išsaugotą versiją.",
+  "sharing.socialButtons.title": "Socialinių tinklų mygtukai",
+  "sharing.socialButtons.consent": "Norėdami matyti įterptus patiktukų ir bendrinimo mygtukus, leiskite socialinių tinklų mygtukus slapukų nuostatose. Šios paslaugos gali stebėti jūsų apsilankymą, kai mygtukai įkeliami.",
+  "sharing.socialButtons.preferences": "Tvarkyti socialinių tinklų mygtukus",
+  "sharing.naver": "Bendrinti per NAVER",
+  "sharing.socialButtons.unavailable": "Nepavyko įkelti mygtukų. Galite naudoti įprastą bendrinimo meniu.",
+  "sharing.socialButtons.line": "Patinka ir bendrinti per LINE",
+  "sharing.socialButtons.seznam": "Patinka per Seznam",
+  "sharing.socialButtons.facebook": "Bendrinti per Facebook",
+  "sharing.socialButtons.x": "Skelbti per X",
+  "sharing.socialButtons.linkedin": "Bendrinti per LinkedIn",
+  "sharing.socialButtons.telegram": "Bendrinti per Telegram",
+  "sharing.socialButtons.pinterest": "Išsaugoti per Pinterest"
 }

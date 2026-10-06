@@ -79,5 +79,17 @@
   "sharing.card.preview": "Antaŭrigarda bildo de socia ligilo",
   "sharing.card.uploadRequirements": "Alŝutu PNG, JPEG aŭ WebP ĝis 5 MB. Uzu 1200 × 630 bilderojn; aliaj grandoj estas stucitaj por kongrui.",
   "sharing.card.reset": "Uzi la kovrilon aŭtomate",
-  "sharing.card.examples": "Ekzemplaj antaŭrigardoj de ligilo. Ĉiu platformo povas stuci bildojn, mallongigi tekston aŭ montri kaŝmemoritan version alimaniere."
+  "sharing.card.examples": "Ekzemplaj antaŭrigardoj de ligilo. Ĉiu platformo povas stuci bildojn, mallongigi tekston aŭ montri kaŝmemoritan version alimaniere.",
+  "sharing.socialButtons.title": "Butonoj de sociaj retoj",
+  "sharing.socialButtons.consent": "Por montri enkorpigitajn ŝat- kaj kunhavigbutonojn, permesu sociajn butonojn en viaj kuketaj preferoj. Ĉi tiuj servoj povas spuri vian viziton kiam iliaj butonoj ŝargiĝas.",
+  "sharing.socialButtons.preferences": "Administri sociajn butonojn",
+  "sharing.socialButtons.unavailable": "Ne eblis ŝargi la butonojn. Vi povas uzi la ordinaran kunhavigmenuon.",
+  "sharing.naver": "Kunhavigi ĉe NAVER",
+  "sharing.socialButtons.line": "Ŝati kaj kunhavigi ĉe LINE",
+  "sharing.socialButtons.seznam": "Ŝati ĉe Seznam",
+  "sharing.socialButtons.facebook": "Kunhavigi ĉe Facebook",
+  "sharing.socialButtons.x": "Afiŝi ĉe X",
+  "sharing.socialButtons.linkedin": "Kunhavigi ĉe LinkedIn",
+  "sharing.socialButtons.telegram": "Kunhavigi ĉe Telegram",
+  "sharing.socialButtons.pinterest": "Konservi ĉe Pinterest"
 }

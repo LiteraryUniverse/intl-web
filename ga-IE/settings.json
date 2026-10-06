@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Set a password or connect another available sign-in method before disconnecting this account.",
   "settings.languages.charactersPerMinute": "Luas léitheoireachta (carachtair sa nóiméad)",
   "settings.languages.charactersPerMinuteExplained": "Úsáidimid é seo chun a mheas cé chomh fada a thógfaidh sé ort scéal a léamh. Fág an réimse folamh chun {defaultSpeed, number} carachtar sa nóiméad a úsáid.",
-  "settings.languages.measureReadingSpeed": "Tomhais do luas léitheoireachta"
+  "settings.languages.measureReadingSpeed": "Tomhais do luas léitheoireachta",
+  "settings.tracking.socialButtons.title": "Cnaipí sóisialta leabaithe",
+  "settings.tracking.socialButtons.description": "Roghnaigh an féidir le líonraí sóisialta a gcnaipí is maith liom agus comhroinnte a lódáil sa bhrabhsálaí seo. Is féidir leat iad a mhúchadh sna roghanna fianán. Beidh na gnáthnaisc chomhroinnte fós ar fáil."
 }

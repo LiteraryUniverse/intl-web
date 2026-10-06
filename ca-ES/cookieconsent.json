@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Hola, viatger, és l'hora de les galetes! 🍪",
-    "description": "No fem servir galetes tret de les funcionals necessàries. Però sí que tenim altres funcionalitats amb finalitats analítiques per a les quals necessitem la teva aprovació.",
+    "description": "Fem servir galetes necessàries perquè Literary Universe funcioni. També pots permetre les analítiques i els botons socials integrats. Tria quines funcions opcionals vols fer servir.",
     "acceptAllBtn": "Accepta-ho tot 🙏",
     "acceptNecessaryBtn": "Rebutja-ho tot 🙅",
     "showPreferencesBtn": "Gestiona les preferències 🔧",
@@ -17,7 +17,7 @@
     "sections": [
       {
         "title": "Ús de galetes 🍪",
-        "description": "Aquest lloc web fa servir galetes estrictament necessàries per al funcionament bàsic. Amb el teu permís, també fem analítiques per entendre l'ús i millorar Literary Universe. Les nostres analítiques no depenen de galetes, però poden fer servir tecnologies similars o identificadors en línia i, per tant, requereixen el teu consentiment en determinades jurisdiccions."
+        "description": "Les galetes necessàries permeten que el teu compte i els pagaments funcionin. Les analítiques i els botons socials integrats són opcionals. Pots canviar aquestes opcions aquí en qualsevol moment."
       },
       {
         "title": "Galetes estrictament necessàries <span class=\"pm__badge\">Sempre activades</span>",
@@ -28,6 +28,11 @@
         "title": "Analytics 📊",
         "description": "Utilitzem diversos serveis d'analítica per obtenir informació sobre com fas servir el nostre lloc web i millorar les nostres accions publicitàries.\n<ul>\n<li>Analítica (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): mesura l'ús del lloc, el rendiment i els errors per millorar Literary Universe. No s'instal·len galetes per a l'analítica, però es poden tractar dades tècniques limitades i identificadors. Cal consentiment.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): ens ajuda a avaluar campanyes i a mostrar promocions rellevants sobre Literary Universe en altres llocs web. No s'instal·len galetes al nostre lloc per a això, però es poden fer servir tecnologies o identificadors similars. Cal consentiment.</li>\n</ul>",
         "linkedCategory": "analytics"
+      },
+      {
+        "title": "Botons socials integrats",
+        "description": "Permet els botons de m'agrada i de compartir que es carreguen directament des de les xarxes socials. Quan es carreguen, aquests serveis poden recollir informació de navegació, fer servir galetes o vincular la visita al teu compte social. Els enllaços habituals per compartir, la còpia, el correu electrònic i la funció de compartir del dispositiu funcionen sense aquest permís.",
+        "linkedCategory": "social"
       },
       {
         "title": "Més informació",

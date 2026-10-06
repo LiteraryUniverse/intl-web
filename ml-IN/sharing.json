@@ -79,5 +79,17 @@
   "sharing.card.preview": "Social link preview image",
   "sharing.card.uploadRequirements": "Upload a PNG, JPEG, or WebP up to 5 MB. Use 1200 × 630 pixels; other sizes are cropped to fit.",
   "sharing.card.reset": "Use the cover automatically",
-  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently."
+  "sharing.card.examples": "Example link previews. Each platform may crop images, shorten text, or show a cached version differently.",
+  "sharing.socialButtons.title": "സാമൂഹിക ശൃംഖലകളുടെ ബട്ടണുകൾ",
+  "sharing.socialButtons.consent": "പേജിൽ ഉൾച്ചേർത്ത ഇഷ്ടം അറിയിക്കാനും പങ്കിടാനുമുള്ള ബട്ടണുകൾ കാണിക്കാൻ കുക്കി മുൻഗണനകളിൽ സാമൂഹിക ബട്ടണുകൾക്ക് അനുമതി നൽകുക. ഈ സേവനങ്ങളുടെ ബട്ടണുകൾ ലോഡ് ചെയ്യുമ്പോൾ അവ നിങ്ങളുടെ സന്ദർശനം നിരീക്ഷിച്ചേക്കാം.",
+  "sharing.socialButtons.preferences": "സാമൂഹിക ബട്ടണുകൾ നിയന്ത്രിക്കുക",
+  "sharing.socialButtons.unavailable": "ബട്ടണുകൾ ലോഡ് ചെയ്യാനായില്ല. നിങ്ങൾക്ക് സാധാരണ പങ്കിടൽ മെനു ഉപയോഗിക്കാം.",
+  "sharing.naver": "NAVER-ൽ പങ്കിടുക",
+  "sharing.socialButtons.line": "LINE-ൽ ഇഷ്ടം അറിയിക്കുക, പങ്കിടുക",
+  "sharing.socialButtons.seznam": "Seznam-ൽ ഇഷ്ടം അറിയിക്കുക",
+  "sharing.socialButtons.facebook": "Facebook-ൽ പങ്കിടുക",
+  "sharing.socialButtons.x": "X-ൽ പോസ്റ്റ് ചെയ്യുക",
+  "sharing.socialButtons.linkedin": "LinkedIn-ൽ പങ്കിടുക",
+  "sharing.socialButtons.telegram": "Telegram-ൽ പങ്കിടുക",
+  "sharing.socialButtons.pinterest": "Pinterest-ൽ സംരക്ഷിക്കുക"
 }

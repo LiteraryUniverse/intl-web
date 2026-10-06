@@ -79,5 +79,17 @@
   "sharing.card.preview": "Hình ảnh xem trước liên kết trên mạng xã hội",
   "sharing.card.uploadRequirements": "Tải lên tệp PNG, JPEG hoặc WebP tối đa 5 MB. Dùng kích thước 1200 × 630 pixel; các kích thước khác sẽ được cắt cho vừa.",
   "sharing.card.reset": "Tự động dùng ảnh bìa",
-  "sharing.card.examples": "Ví dụ về bản xem trước liên kết. Mỗi nền tảng có thể cắt ảnh, rút ngắn văn bản hoặc hiển thị phiên bản đã lưu đệm theo cách khác nhau."
+  "sharing.card.examples": "Ví dụ về bản xem trước liên kết. Mỗi nền tảng có thể cắt ảnh, rút ngắn văn bản hoặc hiển thị phiên bản đã lưu đệm theo cách khác nhau.",
+  "sharing.socialButtons.title": "Nút mạng xã hội",
+  "sharing.socialButtons.consent": "Để hiển thị các nút thích và chia sẻ nhúng, hãy cho phép nút mạng xã hội trong tùy chọn cookie. Các dịch vụ này có thể theo dõi lượt truy cập của bạn khi tải nút.",
+  "sharing.socialButtons.preferences": "Quản lý nút mạng xã hội",
+  "sharing.socialButtons.unavailable": "Không thể tải các nút. Bạn có thể dùng menu chia sẻ thông thường.",
+  "sharing.socialButtons.line": "Thích và chia sẻ qua LINE",
+  "sharing.socialButtons.seznam": "Thích trên Seznam",
+  "sharing.socialButtons.facebook": "Chia sẻ qua Facebook",
+  "sharing.socialButtons.x": "Đăng lên X",
+  "sharing.socialButtons.linkedin": "Chia sẻ qua LinkedIn",
+  "sharing.socialButtons.telegram": "Chia sẻ qua Telegram",
+  "sharing.socialButtons.pinterest": "Lưu trên Pinterest",
+  "sharing.naver": "Chia sẻ qua NAVER"
 }

@@ -79,5 +79,17 @@
   "sharing.card.preview": "Sosyal bağlantı önizleme görseli",
   "sharing.card.uploadRequirements": "En fazla 5 MB boyutunda bir PNG, JPEG veya WebP yükleyin. 1200 × 630 piksel kullanın; diğer boyutlar sığacak şekilde kırpılır.",
   "sharing.card.reset": "Kapağı otomatik olarak kullan",
-  "sharing.card.examples": "Örnek bağlantı önizlemeleri. Her platform görselleri kırpabilir, metni kısaltabilir veya önbelleğe alınmış bir sürümü farklı biçimde gösterebilir."
+  "sharing.card.examples": "Örnek bağlantı önizlemeleri. Her platform görselleri kırpabilir, metni kısaltabilir veya önbelleğe alınmış bir sürümü farklı biçimde gösterebilir.",
+  "sharing.socialButtons.title": "Sosyal ağ düğmeleri",
+  "sharing.socialButtons.consent": "Gömülü beğeni ve paylaşım düğmelerini göstermek için çerez tercihlerinizde sosyal düğmelere izin verin. Bu hizmetler, düğmeleri yüklenirken ziyaretinizi takip edebilir.",
+  "sharing.socialButtons.preferences": "Sosyal düğmeleri yönet",
+  "sharing.socialButtons.unavailable": "Düğmeler yüklenemedi. Normal paylaşım menüsünü kullanabilirsiniz.",
+  "sharing.socialButtons.line": "LINE’da beğen ve paylaş",
+  "sharing.socialButtons.seznam": "Seznam’da beğen",
+  "sharing.socialButtons.facebook": "Facebook’ta paylaş",
+  "sharing.socialButtons.x": "X’te gönderi yayınla",
+  "sharing.socialButtons.linkedin": "LinkedIn’de paylaş",
+  "sharing.socialButtons.telegram": "Telegram’da paylaş",
+  "sharing.socialButtons.pinterest": "Pinterest’te kaydet",
+  "sharing.naver": "NAVER’da paylaş"
 }

@@ -79,5 +79,17 @@
   "sharing.card.preview": "SNS用リンクプレビュー画像",
   "sharing.card.uploadRequirements": "5 MBまでのPNG、JPEG、またはWebPをアップロードしてください。1200 × 630ピクセルを使用してください。それ以外のサイズは合うように切り抜かれます。",
   "sharing.card.reset": "表紙を自動的に使用する",
-  "sharing.card.examples": "リンクプレビューの例です。プラットフォームによって、画像の切り抜き方、テキストの省略、キャッシュされたバージョンの表示が異なる場合があります。"
+  "sharing.card.examples": "リンクプレビューの例です。プラットフォームによって、画像の切り抜き方、テキストの省略、キャッシュされたバージョンの表示が異なる場合があります。",
+  "sharing.socialButtons.title": "ソーシャルネットワークのボタン",
+  "sharing.socialButtons.consent": "埋め込み型の「いいね」や共有ボタンを表示するには、クッキー設定でソーシャルボタンを許可してください。ボタンの読み込み時に、各サービスが訪問を追跡する場合があります。",
+  "sharing.socialButtons.preferences": "ソーシャルボタンの設定",
+  "sharing.socialButtons.unavailable": "ボタンを読み込めませんでした。通常の共有メニューをご利用ください。",
+  "sharing.socialButtons.line": "LINEのいいね・共有",
+  "sharing.socialButtons.seznam": "Seznamのいいね",
+  "sharing.socialButtons.facebook": "Facebookで共有",
+  "sharing.socialButtons.x": "Xに投稿",
+  "sharing.socialButtons.linkedin": "LinkedInで共有",
+  "sharing.socialButtons.telegram": "Telegramで共有",
+  "sharing.socialButtons.pinterest": "Pinterestに保存",
+  "sharing.naver": "NAVERで共有"
 }

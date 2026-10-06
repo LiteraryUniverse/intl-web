@@ -79,5 +79,17 @@
   "sharing.card.preview": "Obraz podglądu linku w mediach społecznościowych",
   "sharing.card.uploadRequirements": "Prześlij plik PNG, JPEG lub WebP o rozmiarze do 5 MB. Użyj wymiarów 1200 × 630 pikseli; inne rozmiary zostaną przycięte.",
   "sharing.card.reset": "Użyj okładki automatycznie",
-  "sharing.card.examples": "Przykładowe podglądy linków. Każda platforma może inaczej przycinać obrazy, skracać tekst lub pokazywać wersję z pamięci podręcznej."
+  "sharing.card.examples": "Przykładowe podglądy linków. Każda platforma może inaczej przycinać obrazy, skracać tekst lub pokazywać wersję z pamięci podręcznej.",
+  "sharing.socialButtons.title": "Przyciski serwisów społecznościowych",
+  "sharing.socialButtons.consent": "Aby wyświetlić osadzone przyciski Lubię to i Udostępnij, należy zezwolić na przyciski społecznościowe w preferencjach plików cookie. Te serwisy mogą śledzić wizytę podczas ładowania przycisków.",
+  "sharing.socialButtons.preferences": "Zarządzaj przyciskami społecznościowymi",
+  "sharing.naver": "Udostępnij w serwisie NAVER",
+  "sharing.socialButtons.unavailable": "Nie udało się załadować przycisków. Można skorzystać ze zwykłego menu udostępniania.",
+  "sharing.socialButtons.line": "Polub i udostępnij w serwisie LINE",
+  "sharing.socialButtons.seznam": "Polub w serwisie Seznam",
+  "sharing.socialButtons.facebook": "Udostępnij na Facebooku",
+  "sharing.socialButtons.x": "Opublikuj w serwisie X",
+  "sharing.socialButtons.linkedin": "Udostępnij w serwisie LinkedIn",
+  "sharing.socialButtons.telegram": "Udostępnij przez Telegram",
+  "sharing.socialButtons.pinterest": "Zapisz w serwisie Pinterest"
 }

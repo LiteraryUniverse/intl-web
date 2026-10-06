@@ -79,5 +79,17 @@
   "sharing.card.preview": "Изображение предпросмотра ссылки в соцсетях",
   "sharing.card.uploadRequirements": "Загрузите PNG, JPEG или WebP размером до 5 МБ. Используйте 1200 × 630 пикселей; изображения других размеров обрезаются.",
   "sharing.card.reset": "Использовать обложку автоматически",
-  "sharing.card.examples": "Примеры предпросмотра ссылки. Каждая платформа может по-своему обрезать изображения, сокращать текст или показывать кэшированную версию."
+  "sharing.card.examples": "Примеры предпросмотра ссылки. Каждая платформа может по-своему обрезать изображения, сокращать текст или показывать кэшированную версию.",
+  "sharing.socialButtons.title": "Кнопки социальных сетей",
+  "sharing.socialButtons.consent": "Чтобы показать встроенные кнопки «Нравится» и «Поделиться», разрешите социальные кнопки в настройках файлов cookie. При загрузке кнопок эти сервисы могут отслеживать Ваш визит.",
+  "sharing.socialButtons.preferences": "Настроить социальные кнопки",
+  "sharing.socialButtons.unavailable": "Не удалось загрузить кнопки. Вы можете использовать обычное меню отправки ссылок.",
+  "sharing.socialButtons.line": "Нравится и поделиться в LINE",
+  "sharing.socialButtons.seznam": "Нравится в Seznam",
+  "sharing.socialButtons.facebook": "Поделиться в Facebook",
+  "sharing.socialButtons.x": "Опубликовать в X",
+  "sharing.socialButtons.linkedin": "Поделиться в LinkedIn",
+  "sharing.socialButtons.telegram": "Поделиться в Telegram",
+  "sharing.socialButtons.pinterest": "Сохранить в Pinterest",
+  "sharing.naver": "Поделиться в NAVER"
 }

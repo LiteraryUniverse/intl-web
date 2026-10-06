@@ -1,7 +1,7 @@
 {
   "consentModal": {
     "title": "Xin chào du khách, đã đến giờ ăn bánh quy! 🍪",
-    "description": "Chúng tôi không sử dụng cookie ngoài những cookie cần thiết cho chức năng cơ bản. Tuy nhiên, chúng tôi có các tính năng khác phục vụ mục đích phân tích và cần sự đồng ý của bạn để sử dụng.",
+    "description": "Chúng tôi dùng cookie cần thiết để Literary Universe hoạt động. Bạn cũng có thể cho phép tính năng phân tích và các nút mạng xã hội nhúng. Hãy chọn những tính năng tùy chọn bạn muốn sử dụng.",
     "acceptAllBtn": "Chấp nhận tất cả 🙏",
     "acceptNecessaryBtn": "Từ chối tất cả 🙅",
     "showPreferencesBtn": "Quản lý cài đặt 🔧",
@@ -17,17 +17,22 @@
     "sections": [
       {
         "title": "Sử dụng cookie 🍪",
-        "description": "Trang web này sử dụng cookie cần thiết để đảm bảo chức năng cơ bản. Với sự đồng ý của bạn, chúng tôi cũng sử dụng phân tích để hiểu cách sử dụng và cải thiện Literary Universe. Phân tích của chúng tôi không dựa vào cookie, nhưng có thể sử dụng các công nghệ tương tự hoặc định danh trực tuyến và do đó yêu cầu sự đồng ý của bạn ở một số khu vực pháp lý."
+        "description": "Cookie cần thiết giúp tài khoản và thanh toán của bạn hoạt động. Tính năng phân tích và các nút mạng xã hội nhúng là tùy chọn. Bạn có thể thay đổi các lựa chọn này tại đây bất cứ lúc nào."
       },
       {
         "title": "Cookie cần thiết bắt buộc <span class=\"pm__badge\">luôn được kích hoạt</span>",
         "description": "Các cookie này được cung cấp bởi nhà cung cấp dịch vụ lưu trữ và thanh toán của chúng tôi, nhằm đảm bảo ứng dụng hoạt động chính xác và bạn có thể kết nối.",
-        "linkedCategory": "cần thiết"
+        "linkedCategory": "necessary"
       },
       {
         "title": "Phân tích 📊",
         "description": "Chúng tôi sử dụng các dịch vụ phân tích khác nhau để thu thập thông tin về cách bạn sử dụng trang web của chúng tôi và cải thiện các nỗ lực quảng cáo của chúng tôi.\n<ul>\n<li>Phân tích (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Đo lường việc sử dụng trang web, hiệu suất và lỗi để cải thiện Literary Universe. Không có cookie nào được đặt cho mục đích phân tích, nhưng một số dữ liệu kỹ thuật và thông tin nhận dạng có thể được xử lý. Yêu cầu sự đồng ý.</li>\n<li>Retargeting (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): Giúp chúng tôi đánh giá các chiến dịch và hiển thị các khuyến mãi liên quan đến Literary Universe trên các trang web khác. Không có cookie nào được đặt trên trang web của chúng tôi cho mục đích này, nhưng các công nghệ tương tự hoặc định danh có thể được sử dụng. Yêu cầu sự đồng ý.</li>\n</ul>",
-        "linkedCategory": "phân tích"
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Nút mạng xã hội nhúng",
+        "description": "Cho phép các nút thích và chia sẻ được tải trực tiếp từ mạng xã hội. Khi các nút này được tải, dịch vụ có thể thu thập thông tin duyệt web, dùng cookie hoặc liên kết lượt truy cập với tài khoản mạng xã hội của bạn. Các liên kết chia sẻ thông thường, sao chép, email và chia sẻ qua thiết bị vẫn hoạt động mà không cần quyền này.",
+        "linkedCategory": "social"
       },
       {
         "title": "Thông tin chi tiết",

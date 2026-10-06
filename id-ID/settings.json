@@ -239,5 +239,7 @@
   "settings.socialLastLogin": "Tetapkan kata sandi atau hubungkan metode masuk lain yang tersedia sebelum memutuskan akun ini.",
   "settings.languages.charactersPerMinute": "Kecepatan membaca (karakter per menit)",
   "settings.languages.charactersPerMinuteExplained": "Kami menggunakan nilai ini untuk memperkirakan waktu yang Anda perlukan untuk membaca sebuah cerita. Biarkan kolom kosong untuk menggunakan {defaultSpeed, number} karakter per menit.",
-  "settings.languages.measureReadingSpeed": "Ukur kecepatan membaca Anda"
+  "settings.languages.measureReadingSpeed": "Ukur kecepatan membaca Anda",
+  "settings.tracking.socialButtons.title": "Tombol sosial tersemat",
+  "settings.tracking.socialButtons.description": "Pilih apakah jejaring sosial boleh memuat tombol suka dan berbagi di browser ini. Anda dapat menonaktifkannya di preferensi cookie. Tautan berbagi biasa tetap tersedia."
 }

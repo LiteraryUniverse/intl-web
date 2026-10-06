@@ -79,5 +79,17 @@
   "sharing.card.preview": "Imej pratonton pautan sosial",
   "sharing.card.uploadRequirements": "Muat naik PNG, JPEG atau WebP sehingga 5 MB. Gunakan 1200 × 630 piksel; saiz lain akan dipangkas supaya muat.",
   "sharing.card.reset": "Gunakan kulit secara automatik",
-  "sharing.card.examples": "Contoh pratonton pautan. Setiap platform mungkin memangkas imej, memendekkan teks atau memaparkan versi cache secara berbeza."
+  "sharing.card.examples": "Contoh pratonton pautan. Setiap platform mungkin memangkas imej, memendekkan teks atau memaparkan versi cache secara berbeza.",
+  "sharing.socialButtons.title": "Butang rangkaian sosial",
+  "sharing.socialButtons.consent": "Untuk memaparkan butang suka dan kongsi terbenam, benarkan butang sosial dalam keutamaan kuki anda. Perkhidmatan ini mungkin menjejaki lawatan anda apabila butangnya dimuatkan.",
+  "sharing.socialButtons.preferences": "Urus butang sosial",
+  "sharing.socialButtons.unavailable": "Butang tidak dapat dimuatkan. Anda boleh menggunakan menu perkongsian biasa.",
+  "sharing.socialButtons.line": "Suka dan kongsi di LINE",
+  "sharing.socialButtons.seznam": "Suka di Seznam",
+  "sharing.socialButtons.facebook": "Kongsi di Facebook",
+  "sharing.socialButtons.x": "Siarkan di X",
+  "sharing.socialButtons.linkedin": "Kongsi di LinkedIn",
+  "sharing.socialButtons.telegram": "Kongsi di Telegram",
+  "sharing.socialButtons.pinterest": "Simpan di Pinterest",
+  "sharing.naver": "Kongsi di NAVER"
 }

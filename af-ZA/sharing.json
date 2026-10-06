@@ -79,5 +79,17 @@
   "sharing.card.preview": "Voorskouprent vir sosiale skakels",
   "sharing.card.uploadRequirements": "Laai 'n PNG, JPEG of WebP van tot 5 MB op. Gebruik 1200 × 630 piksels; ander groottes word gesny om te pas.",
   "sharing.card.reset": "Gebruik die omslag outomaties",
-  "sharing.card.examples": "Voorbeelde van skakelvoorskoue. Elke platform kan prente anders sny, teks verkort of 'n gekaste weergawe wys."
+  "sharing.card.examples": "Voorbeelde van skakelvoorskoue. Elke platform kan prente anders sny, teks verkort of 'n gekaste weergawe wys.",
+  "sharing.socialButtons.title": "Sosialenetwerkknoppies",
+  "sharing.socialButtons.consent": "Laat sosialenetwerkknoppies in jou koekievoorkeure toe om ingebedde hou-van- en deelknoppies te wys. Hierdie dienste kan jou besoek naspoor wanneer hul knoppies laai.",
+  "sharing.socialButtons.preferences": "Bestuur sosialenetwerkknoppies",
+  "sharing.socialButtons.unavailable": "Die knoppies kon nie laai nie. Jy kan die gewone deelkieslys gebruik.",
+  "sharing.naver": "Deel op NAVER",
+  "sharing.socialButtons.line": "Hou van en deel op LINE",
+  "sharing.socialButtons.seznam": "Hou van op Seznam",
+  "sharing.socialButtons.facebook": "Deel op Facebook",
+  "sharing.socialButtons.x": "Plaas op X",
+  "sharing.socialButtons.linkedin": "Deel op LinkedIn",
+  "sharing.socialButtons.telegram": "Deel op Telegram",
+  "sharing.socialButtons.pinterest": "Stoor op Pinterest"
 }

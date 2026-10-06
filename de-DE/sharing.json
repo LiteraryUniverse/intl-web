@@ -79,5 +79,17 @@
   "sharing.card.preview": "Vorschaubild für Links in sozialen Netzwerken",
   "sharing.card.uploadRequirements": "Laden Sie ein PNG, JPEG oder WebP mit bis zu 5 MB hoch. Verwenden Sie 1200 × 630 Pixel; andere Größen werden passend zugeschnitten.",
   "sharing.card.reset": "Cover automatisch verwenden",
-  "sharing.card.examples": "Beispiele für Linkvorschauen. Jede Plattform kann Bilder zuschneiden, Text kürzen oder eine zwischengespeicherte Version anders anzeigen."
+  "sharing.card.examples": "Beispiele für Linkvorschauen. Jede Plattform kann Bilder zuschneiden, Text kürzen oder eine zwischengespeicherte Version anders anzeigen.",
+  "sharing.socialButtons.title": "Schaltflächen sozialer Netzwerke",
+  "sharing.socialButtons.consent": "Erlauben Sie in Ihren Cookie-Einstellungen soziale Schaltflächen, um eingebettete Gefällt-mir- und Teilen-Schaltflächen anzuzeigen. Diese Dienste können Ihren Besuch nachverfolgen, wenn die Schaltflächen geladen werden.",
+  "sharing.socialButtons.preferences": "Soziale Schaltflächen verwalten",
+  "sharing.naver": "Auf NAVER teilen",
+  "sharing.socialButtons.unavailable": "Die Schaltflächen konnten nicht geladen werden. Sie können das normale Teilen-Menü verwenden.",
+  "sharing.socialButtons.line": "Auf LINE mit Gefällt mir markieren und teilen",
+  "sharing.socialButtons.seznam": "Auf Seznam mit Gefällt mir markieren",
+  "sharing.socialButtons.facebook": "Auf Facebook teilen",
+  "sharing.socialButtons.x": "Auf X veröffentlichen",
+  "sharing.socialButtons.linkedin": "Auf LinkedIn teilen",
+  "sharing.socialButtons.telegram": "Auf Telegram teilen",
+  "sharing.socialButtons.pinterest": "Auf Pinterest speichern"
 }
