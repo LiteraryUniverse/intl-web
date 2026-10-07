@@ -326,5 +326,8 @@
   "course.organization.by": "By {orgName}",
   "courses.members.tabsAria": "Course members tabs",
   "course.works.select": "Select works",
-  "course.reading.prompt.placeholder": "For example: choose any story from the selected list that focuses on unreliable narration."
+  "course.reading.prompt.placeholder": "For example: choose any story from the selected list that focuses on unreliable narration.",
+  "course.works.link": "Make available to this course",
+  "course.works.unlink": "Remove course association",
+  "course.works.association.help": "Making a work available to this course lets its other teachers select it, including unpublished drafts."
 }
