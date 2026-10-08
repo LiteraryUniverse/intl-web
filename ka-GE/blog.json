@@ -9,6 +9,7 @@
   "blog.post.create": "დაწერეთ ახალი პოსტი",
   "blog.post.update": "პოსტის რედაქტირება {title}",
   "blog.post.text": "პოსტის ტექსტი",
+  "blog.post.outline": "სტრუქტურა",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "საჯარო ხედვა",
   "blog.post.notfound": "ბლოგის პოსტი ვერ მოიძებნა",

@@ -9,6 +9,7 @@
   "blog.post.create": "Tulis kiriman baru",
   "blog.post.update": "Mengedit {title}",
   "blog.post.text": "Teks pos",
+  "blog.post.outline": "Rangka",
   "blog.slug.explained": "Cipta URL yang kemas untuk catatan ini. Elakkan penggunaan aksara khas kecuali \"-\".",
   "blog.publicView": "Paparan awam",
   "blog.post.notfound": "Pos blog tidak dijumpai",

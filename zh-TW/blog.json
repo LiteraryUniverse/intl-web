@@ -9,6 +9,7 @@
   "blog.post.create": "撰寫新文章",
   "blog.post.update": "編輯 {title}",
   "blog.post.text": "文章內容",
+  "blog.post.outline": "大綱",
   "blog.slug.explained": "為文章建立美觀的 URL。除了「-」之外，避免使用特殊字符。",
   "blog.publicView": "公開查看",
   "blog.post.notfound": "找不到部落格文章",

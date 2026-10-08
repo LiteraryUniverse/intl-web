@@ -9,6 +9,7 @@
   "blog.post.create": "Scrieți o postare nouă",
   "blog.post.update": "Editarea postării {title}",
   "blog.post.text": "Textul postării",
+  "blog.post.outline": "Cuprins",
   "blog.slug.explained": "Creați o adresă URL frumoasă pentru post. Evitați utilizarea caracterelor speciale, cu excepția \"-\".",
   "blog.publicView": "Vizualizare publică",
   "blog.post.notfound": "Postarea blogului nu a fost găsită",

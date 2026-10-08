@@ -9,6 +9,7 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "{title}എഡിറ്റുചെയ്യുന്നു",
   "blog.post.text": "പോസ്റ്റ് വചനം",
+  "blog.post.outline": "രൂപരേഖ",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "പൊതുവെ കാഴ്ച്ച",
   "blog.post.notfound": "ബ്ലോഗ് പോസ്റ്റ് കണ്ടെത്തിയില്ല",

@@ -9,6 +9,7 @@
   "blog.post.create": "Skriv et nytt innlegg",
   "blog.post.update": "Redigerer {title}",
   "blog.post.text": "Innlegg tekst",
+  "blog.post.outline": "Disposisjon",
   "blog.slug.explained": "Lag en pen URL for innlegget. Unngå spesialtegn bortsett fra \"-\".",
   "blog.publicView": "Offentlig visning",
   "blog.post.notfound": "Blogginnlegget ble ikke funnet",

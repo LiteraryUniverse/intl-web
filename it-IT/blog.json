@@ -9,6 +9,7 @@
   "blog.post.create": "Scriva un nuovo post",
   "blog.post.update": "Modifica {title}",
   "blog.post.text": "Testo del post",
+  "blog.post.outline": "Struttura",
   "blog.slug.explained": "Crei un URL di bell'aspetto per il post. Eviti di utilizzare caratteri speciali, ad eccezione di \"-\".",
   "blog.publicView": "Visibile al pubblico",
   "blog.post.notfound": "Il post del blog non è stato trovato",

@@ -9,6 +9,7 @@
   "blog.post.create": "Verki novan afiŝon",
   "blog.post.update": "Redaktado de {title}",
   "blog.post.text": "Afiŝa teksto",
+  "blog.post.outline": "Skemo",
   "blog.slug.explained": "Kreu belaspektan URL por la afiŝo. Evitu specialajn signojn krom \"-\".",
   "blog.publicView": "Publika vidado",
   "blog.post.notfound": "Afiŝo de la blogo ne troviĝis",

@@ -9,6 +9,7 @@
   "blog.post.create": "Yeni bir gönderi yazın",
   "blog.post.update": "{title}düzenleniyor",
   "blog.post.text": "Gönderi metni",
+  "blog.post.outline": "Ana hat",
   "blog.slug.explained": "Gönderi için güzel görünümlü bir URL oluşturun. \"-\" haricinde özel karakterler kullanmaktan kaçının.",
   "blog.publicView": "Herkese açık",
   "blog.post.notfound": "Blog gönderisi bulunamadı",

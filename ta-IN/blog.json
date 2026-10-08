@@ -9,6 +9,7 @@
   "blog.post.create": "புதிய பதிவை எழுதுங்கள்",
   "blog.post.update": "மாற்றப்பட்ட பதிவு {title}",
   "blog.post.text": "பதிவு உரை",
+  "blog.post.outline": "தலைப்புப் பட்டியல்",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "பொது பார்வை",
   "blog.post.notfound": "வலைப்பதிவு பதிவைக் கண்டறியாமல் உள்ளது",

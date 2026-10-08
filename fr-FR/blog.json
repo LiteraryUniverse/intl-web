@@ -9,6 +9,7 @@
   "blog.post.create": "Rédiger un nouveau message",
   "blog.post.update": "Modification de {title}",
   "blog.post.text": "Poster le texte",
+  "blog.post.outline": "Plan",
   "blog.slug.explained": "Créez une URL attrayante pour le message. Évitez d'utiliser des caractères spéciaux, à l'exception de \"-\".",
   "blog.publicView": "Vue publique",
   "blog.post.notfound": "Le post du blog n'a pas été trouvé",

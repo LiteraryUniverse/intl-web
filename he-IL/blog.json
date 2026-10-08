@@ -9,6 +9,7 @@
   "blog.post.create": "כתוב פוסט חדש",
   "blog.post.update": "עריכת {title}",
   "blog.post.text": "תוכן הפוסט",
+  "blog.post.outline": "מתאר",
   "blog.slug.explained": "צרו כתובת URL נאה לפוסט. הימנעו משימוש בתווים מיוחדים מלבד \"-\".",
   "blog.publicView": "תצוגה ציבורית",
   "blog.post.notfound": "פוסט הבלוג לא נמצא",

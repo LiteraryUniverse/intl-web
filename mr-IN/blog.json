@@ -9,6 +9,7 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "{title}संपादन करीत आहे",
   "blog.post.text": "प्रतिलेख मजकूर",
+  "blog.post.outline": "रूपरेषा",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "सार्वजनिक दृश्य",
   "blog.post.notfound": "ब्लॉग प्रतिलेख सापडला नाही",

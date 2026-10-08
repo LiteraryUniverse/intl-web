@@ -9,6 +9,7 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "અપડેટિંગ {title}",
   "blog.post.text": "પોસ્ટ ટેક્સ્ટ",
+  "blog.post.outline": "રૂપરેખા",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "જનતા જોવાનું સારૂ બ્લોગ",
   "blog.post.notfound": "બ્લોગ પોસ્ટ મળી નથી",

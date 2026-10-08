@@ -9,6 +9,7 @@
   "blog.post.create": "Написати нову публікацію",
   "blog.post.update": "Редагування {title}",
   "blog.post.text": "Текст поста",
+  "blog.post.outline": "Структура",
   "blog.slug.explained": "Створіть красиву URL-адресу для публікації. Уникайте використання спеціальних символів, окрім \"-\".",
   "blog.publicView": "Публічний перегляд",
   "blog.post.notfound": "Пост блогу не знайдено",

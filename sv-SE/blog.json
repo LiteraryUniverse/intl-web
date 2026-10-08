@@ -9,6 +9,7 @@
   "blog.post.create": "Skriv ett nytt inlägg",
   "blog.post.update": "Redigerar {title}",
   "blog.post.text": "Inläggstext",
+  "blog.post.outline": "Disposition",
   "blog.slug.explained": "Skapa en snygg URL för inlägget. Undvik att använda specialtecken förutom \"-\".",
   "blog.publicView": "Offentlig visning",
   "blog.post.notfound": "Blogginlägget hittades inte",

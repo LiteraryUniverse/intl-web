@@ -9,6 +9,7 @@
   "blog.post.create": "Napísať nový príspevok",
   "blog.post.update": "Úprava {title}",
   "blog.post.text": "Text príspevku",
+  "blog.post.outline": "Osnova",
   "blog.slug.explained": "Vytvorte pekne vyzerajúcu adresu URL pre príspevok. Nepoužívajte špeciálne znaky okrem \"-\".",
   "blog.publicView": "Verejný pohľad",
   "blog.post.notfound": "Príspevok nebol nájdený",

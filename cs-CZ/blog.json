@@ -9,6 +9,7 @@
   "blog.post.create": "Napsat nový příspěvek",
   "blog.post.update": "Editace {title}",
   "blog.post.text": "Text článku",
+  "blog.post.outline": "Osnova",
   "blog.slug.explained": "Vytvořte pěkně vypadající adresu URL pro příspěvek. Nepoužívejte speciální znaky kromě \"-\".",
   "blog.publicView": "Veřejná verze",
   "blog.post.notfound": "Článek nebyl nalezen",

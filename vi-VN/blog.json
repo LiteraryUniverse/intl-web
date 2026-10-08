@@ -9,6 +9,7 @@
   "blog.post.create": "Viết bài mới",
   "blog.post.update": "Đang chỉnh sửa {title}",
   "blog.post.text": "Đoạn văn bản bài viết",
+  "blog.post.outline": "Dàn ý",
   "blog.slug.explained": "Tạo một URL đẹp mắt cho bài viết. Tránh dùng ký tự đặc biệt, ngoại trừ \"-\".",
   "blog.publicView": "Xem công khai",
   "blog.post.notfound": "Không tìm thấy bài viết trong blog",

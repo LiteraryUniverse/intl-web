@@ -9,6 +9,7 @@
   "blog.post.create": "Γράψτε μια νέα ανάρτηση",
   "blog.post.update": "Επεξεργασία {title}",
   "blog.post.text": "Κείμενο ανάρτησης",
+  "blog.post.outline": "Διάρθρωση",
   "blog.slug.explained": "Δημιουργήστε ένα όμορφο URL για τη δημοσίευση. Αποφύγετε τη χρήση ειδικών χαρακτήρων εκτός από το \"-\".",
   "blog.publicView": "Δημόσια προβολή",
   "blog.post.notfound": "Η ανάρτηση blog δεν βρέθηκε",

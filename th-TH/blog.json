@@ -9,6 +9,7 @@
   "blog.post.create": "เขียนโพสต์ใหม่",
   "blog.post.update": "แก้ไขโพสต์ {title}",
   "blog.post.text": "ข้อความโพสต์",
+  "blog.post.outline": "โครงร่าง",
   "blog.slug.explained": "สร้าง URL ที่ดูดีสำหรับโพสต์ หลีกเลี่ยงการใช้อักขระพิเศษ ยกเว้น \"-\"",
   "blog.publicView": "มุมมองสาธารณะ",
   "blog.post.notfound": "ไม่พบโพสต์บล็อก",

@@ -9,6 +9,7 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "ಸಂಪಾದನೆ {title}",
   "blog.post.text": "ಪೋಸ್ಟ್ ಪಠ್ಯ",
+  "blog.post.outline": "Outline",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "ಜನರ ದೃಷ್ಟಿಗೆ ಸೂಕ್ತವಾದುದು",
   "blog.post.notfound": "ಈ ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ನ ಪ್ರಕಟಣೆ ಕಾಣಲಿಲ್ಲ",

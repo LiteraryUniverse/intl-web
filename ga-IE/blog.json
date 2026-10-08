@@ -9,6 +9,7 @@
   "blog.post.create": "Scríobh postáil nua",
   "blog.post.update": "Ag eagar {title}",
   "blog.post.text": "Téacs an phoist",
+  "blog.post.outline": "Outline",
   "blog.slug.explained": "Cruthaigh URL slachtmhar don phostáil. Seachain carachtair speisialta a úsáid seachas \"-\".",
   "blog.publicView": "Radharc poiblí",
   "blog.post.notfound": "Níor aimsíodh an post blag",

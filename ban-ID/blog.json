@@ -9,6 +9,7 @@
   "blog.post.create": "Create a new post",
   "blog.post.update": "Nguah {title}",
   "blog.post.text": "Teks kiriman",
+  "blog.post.outline": "Outline",
   "blog.slug.explained": "Nice looking url to the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "Pakantenan publik",
   "blog.post.notfound": "Kiriman blog nenten kapanggih",
