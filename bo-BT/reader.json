@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "འགྱུར་ཡུལ་དང་ཤུ་ཨེ་བརྗོད་གནས་སྤྱོད་པའི་བསྗོད་འབད་པའི་དོགས་པ་སོགས་དང་ནང་བདེའགས་དོན་གང་རུང་གི་རྡོ་བདག་སྟེ་བསྡུ་བསྐུལ་འདེམས་ཁེལ་ནང་དེ་ཡོད་པ་ལག་གསོ་བརྐྱབས་རྫོགས་བཞིན་མ་འོངས་པ་ཡོད།",
   "reader.comments.chapterNotAvailable": "No comments available yet. This is because chapter is not yet released.",
+  "reader.translation.notFound": "This translation does not exist.",
   "reader.purchaseGate.title": "This chapter requires purchase",
   "reader.purchaseGate.description": "To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.",
   "reader.purchaseGate.buyArc": "Or buy this arc",

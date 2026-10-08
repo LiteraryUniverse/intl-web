@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "លើកលែង​ពី​ការ​បោះពុម្ព {chaptersCount, number} ចុងក្រោយរបស់ជំរិះទីនេះ ការបោះពុម្ពបន្ទាប់មក​គឺអាចទទួលបាននៅក្នុងរយៈពេល {daysLeft, plural, one {ថ្ងៃ} other {សប្ដាហ៍}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "ព័ត៌មាននេះនឹងត្រូវបានផ្តល់ថ្លៃមួយពេលដែលរឿងនេះមានច្រើនជាងរួចហើយ។",
   "reader.comments.chapterNotAvailable": "No comments available yet. This is because chapter is not yet released.",
+  "reader.translation.notFound": "This translation does not exist.",
   "reader.purchaseGate.title": "This chapter requires purchase",
   "reader.purchaseGate.description": "To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.",
   "reader.purchaseGate.buyArc": "Or buy this arc",

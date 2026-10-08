@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "Viimeisten {chaptersCount, number} lukujen julkaisupäivien perusteella seuraavan luvun pitäisi olla saatavilla noin {daysLeft, plural, one {1 päivä} other {# päivää}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "Kun tarinalla on enemmän kuin yksi luku, annamme myös arvion siitä, milloin seuraava luku saattaisi ilmestyä.",
   "reader.comments.chapterNotAvailable": "Kommentteja ei ole vielä saatavilla. Tämä johtuu siitä, että lukua ei ole vielä julkaistu.",
+  "reader.translation.notFound": "Tätä käännöstä ei ole olemassa.",
   "reader.purchaseGate.title": "Tämä luku edellyttää ostamista",
   "reader.purchaseGate.description": "Jatkaaksesi lukemista {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, sinun on ostettava se.",
   "reader.purchaseGate.buyArc": "Tai osta tämä kaari",

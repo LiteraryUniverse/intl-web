@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "Gebaseer op die publikasiedatums van die laaste {chaptersCount, number} hoofstukke, behoort die volgende hoofstuk beskikbaar te wees omtrent {daysLeft, plural, one {1 dag} other {# dae}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "Ons sal ook 'n skatting gee van wanneer die volgende hoofstuk gepubliseer kan word as hierdie storie meer as een hoofstuk het.",
   "reader.comments.chapterNotAvailable": "Nog geen kommentaar beskikbaar nie. Dit is omdat die hoofstuk nog nie vrygestel is nie.",
+  "reader.translation.notFound": "Hierdie vertaling bestaan nie.",
   "reader.purchaseGate.title": "Hierdie hoofstuk moet gekoop word",
   "reader.purchaseGate.description": "Om {storyTitle}{authorName, select, undefined {} other { deur {authorName}}} verder te lees, moet jy dit koop.",
   "reader.purchaseGate.buyArc": "Of koop hierdie boog",

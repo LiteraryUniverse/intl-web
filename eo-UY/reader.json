@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "Bazita je la publikigdatenoj de la lastaj {chaptersCount, number} ĉapitroj, la sekvonta ĉapitro devus esti havebla post ĉirkaŭ {daysLeft, plural, one {1 tago} other {# tagoj}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "Ankaŭ ni liveros antaŭŝatitan daton por la eldado de la sekvonta ĉapitro, post kiam tiu rakonto havos pli ol unu ĉapitro.",
   "reader.comments.chapterNotAvailable": "Ankoraŭ neniuj komentoj disponeblaj. La kialo estas, ke la ĉapitro ankoraŭ ne estas eldonita.",
+  "reader.translation.notFound": "Ĉi tiu traduko ne ekzistas.",
   "reader.purchaseGate.title": "Ĉi tiu ĉapitro postulas aĉeton",
   "reader.purchaseGate.description": "Por plu legi {storyTitle}{authorName, select, undefined {} other { de {authorName}}}, vi devas aĉeti ĝin.",
   "reader.purchaseGate.buyArc": "Aŭ aĉetu ĉi tiun arkon",

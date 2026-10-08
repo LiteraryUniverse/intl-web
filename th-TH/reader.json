@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "จากวันที่เผยแพร่ล่าสุดของบท {chaptersCount, number} แล้ว บทต่อไปคาดว่าจะพร้อมใช้งานในระยะเวลาประมาณ {daysLeft, plural, one {1 วัน} other {วัน}}",
   "reader.nextChapterEstimation.notEnoughChapters": "เราจะให้การประมาณเมื่อบทต่อไปอาจจะเผยแพร่หลังจากเรื่องนี้มีมากกว่าหนึ่งบท",
   "reader.comments.chapterNotAvailable": "ยังไม่มีความคิดเห็น เนื่องจากบทนี้ยังไม่เผยแพร่",
+  "reader.translation.notFound": "ไม่มีฉบับแปลนี้",
   "reader.purchaseGate.title": "บทนี้ต้องซื้อ",
   "reader.purchaseGate.description": "หากต้องการอ่านต่อ {storyTitle}{authorName, select, undefined {} other { โดย {authorName}}}คุณจำเป็นต้องซื้อ",
   "reader.purchaseGate.buyArc": "หรือซื้อส่วนนี้",

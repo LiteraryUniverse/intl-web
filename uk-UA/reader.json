@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "На основі дат публікації останніх {chaptersCount, number} розділів, наступний розділ повинен бути доступний приблизно через {daysLeft, plural, one {1 день} other {# днів}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "Ми також надамо оцінку того, коли наступний розділ може бути опублікований, якщо ця історія має більше одного розділу.",
   "reader.comments.chapterNotAvailable": "Коментарів поки що немає. Це тому, що глава ще не опублікована.",
+  "reader.translation.notFound": "Такого перекладу не існує.",
   "reader.purchaseGate.title": "Цей розділ потрібно придбати",
   "reader.purchaseGate.description": "Щоб продовжити читання {storyTitle}{authorName, select, undefined {} other { на {authorName}}}, вам потрібно його придбати.",
   "reader.purchaseGate.buyArc": "Або купити цю дугу",

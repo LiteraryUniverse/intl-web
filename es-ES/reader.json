@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "Basado en las fechas de publicación de los últimos {chaptersCount, number} capítulos, el próximo capítulo debería estar disponible en aproximadamente {daysLeft, plural, one {1 día} other {# días}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "También proporcionaremos una estimación de cuándo se podría publicar el próximo capítulo una vez que esta historia tenga más de un capítulo.",
   "reader.comments.chapterNotAvailable": "Aún no hay comentarios disponibles. Esto se debe a que el capítulo aún no se ha publicado.",
+  "reader.translation.notFound": "Esta traducción no existe.",
   "reader.purchaseGate.title": "Este capítulo requiere la compra",
   "reader.purchaseGate.description": "Para continuar leyendo {storyTitle}{authorName, select, undefined {} other { por {authorName}}}, necesita adquirirlo.",
   "reader.purchaseGate.buyArc": "O compre este arco",

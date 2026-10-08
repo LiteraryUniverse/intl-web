@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "ଶେଷ {chaptersCount, number} ଅଧ୍ୟାୟର ପ୍ରକାଶନ ତାରିଖ ଆଧାରରେ, ପରବର୍ତ୍ତୀ ଅଧ୍ୟାୟ ପ୍ରାୟ {daysLeft, plural, one {1 ଦିନ} other {# ଦିନ}} ମଧ୍ୟରେ ଉପଲବ୍ଧ ହେବ ।",
   "reader.nextChapterEstimation.notEnoughChapters": "ଏହି ଗପରେ ଏକଟି ଭାଗରେ ହାଖଖୋରେ ଏହି ଗପ ଅଧ୍ୟାୟ ୧ ପାଇଁ ପ୍ରକାଶନ କରିବେ, ତେବେ ଯଥାଯଥ ଅବଧି ନିର୍ଧାରଣ କରିବେ।",
   "reader.comments.chapterNotAvailable": "No comments available yet. This is because chapter is not yet released.",
+  "reader.translation.notFound": "This translation does not exist.",
   "reader.purchaseGate.title": "This chapter requires purchase",
   "reader.purchaseGate.description": "To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.",
   "reader.purchaseGate.buyArc": "Or buy this arc",

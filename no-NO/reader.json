@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "Basert på publiseringsdatoene for de siste {chaptersCount, number} kapitlene, bør neste kapittel være tilgjengelig om cirka {daysLeft, plural, one {1 dag} other {# dager}}.",
   "reader.nextChapterEstimation.notEnoughChapters": "Vi vil også gi en estimert utgivelsesdato for neste kapittel når denne historien har mer enn ett kapittel.",
   "reader.comments.chapterNotAvailable": "Ingen kommentarer er tilgjengelige ennå. Det er fordi kapittelet ikke er utgitt ennå.",
+  "reader.translation.notFound": "Denne oversettelsen finnes ikke.",
   "reader.purchaseGate.title": "Dette kapittelet krever kjøp",
   "reader.purchaseGate.description": "For å fortsette å lese {storyTitle}{authorName, select, undefined {} other { av {authorName}}} må du kjøpe den.",
   "reader.purchaseGate.buyArc": "Eller kjøp denne delen",

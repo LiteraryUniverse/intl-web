@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "শেষ {chaptersCount, number} অধ্যায়গুলির প্রকাশের তারিখের ভিত্তিতে, পরবর্তী অধ্যায় আনুমানিক {daysLeft, plural, one {১ দিন} other {# দিন}} পর পাওয়া যাবে।",
   "reader.nextChapterEstimation.notEnoughChapters": "এই গল্পে একটি অধ্যায়ের বেশি হওয়ায়, পরবর্তী অধ্যায়ের প্রকাশের তথ্য আমরা প্রদান করব।",
   "reader.comments.chapterNotAvailable": "এখনও কোনো মন্তব্য উপলব্ধ নেই। কারণ অধ্যায়টি এখনও প্রকাশিত হয়নি।",
+  "reader.translation.notFound": "এই অনুবাদটি নেই।",
   "reader.purchaseGate.title": "এই অধ্যায়টি ক্রয় করতে হবে।",
   "reader.purchaseGate.description": "{storyTitle}{authorName, select, undefined {} other { ({authorName} রচিত)}} পড়া চালিয়ে যেতে, আপনাকে এটি কিনতে হবে।",
   "reader.purchaseGate.buyArc": "অথবা এই আর্কটি কিনুন",

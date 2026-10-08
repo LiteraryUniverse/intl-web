@@ -189,7 +189,7 @@
   "course.assignment.selectStoriesRead": "Select the stories you chose for this assignment.",
   "course.assignment.sharedProject.studentHelp": "Open one of the shared project works above in Workshop and contribute there. This assignment does not require a separate submission form.",
   "course.assignment.sharedProject.studentTitle": "How to complete this assignment",
-  "course.assignment.sharedProject.teacherNotice": "This shared-project assignment uses collaborator access instead of individual submissions.",
+  "course.assignment.sharedProject.teacherNotice": "Students work directly in the shared project drafts, so this assignment has no individual submissions.",
   "course.assignment.sharedProjects": "Shared project works",
   "course.assignment.storiesCompleted": "stories completed",
   "course.assignment.submissionCount": "{count, plural, one {# submission} other {# submissions}}",

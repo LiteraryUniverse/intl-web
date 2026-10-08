@@ -43,6 +43,7 @@
   "reader.nextChapterEstimation.days": "చివరి {chaptersCount, number} అధ్యాయాల ప్రచురణ తేదీల ఆధారంగా, తదుపరి అధ్యాయం సుమారు {daysLeft, plural, one {1 రోజు} other {# రోజుల}}లో అందుబాటులో ఉంటుంది.",
   "reader.nextChapterEstimation.notEnoughChapters": "కథ ఒక అధ్యాయం పైన ఒకటికి తదితర అధ్యాయాలు ప్రకటన కలబడిన తర్వాత మేము ఇప్పటికే ప్రకటన తేదీకి ఒక అంచనా ఇవ్వబోతున్నాము.",
   "reader.comments.chapterNotAvailable": "No comments available yet. This is because chapter is not yet released.",
+  "reader.translation.notFound": "ఈ అనువాదం లేదు.",
   "reader.purchaseGate.title": "This chapter requires purchase",
   "reader.purchaseGate.description": "To continue reading {storyTitle}{authorName, select, undefined {} other { by {authorName}}}, you need to purchase it.",
   "reader.purchaseGate.buyArc": "Or buy this arc",
