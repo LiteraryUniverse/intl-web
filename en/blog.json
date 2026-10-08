@@ -9,6 +9,7 @@
   "blog.post.create": "Write a new post",
   "blog.post.update": "Editing {title}",
   "blog.post.text": "Post text",
+  "blog.post.outline": "Outline",
   "blog.slug.explained": "Create a nice-looking URL for the post. Avoid using special characters except for \"-\".",
   "blog.publicView": "Public view",
   "blog.post.notfound": "Blog post was not found",
