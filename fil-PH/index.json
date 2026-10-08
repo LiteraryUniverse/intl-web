@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Kopyahin ang mga entry at patlang ng ensiklopedya",
   "course.project.copy.outline": "Kopyahin ang mga balangkas at eksena",
   "course.project.approval.help": "Kailangan munang gawing available ng may-ari o tagapamahala ang isang akda sa kursong ito bago ka makapagbigay ng access sa mga mag-aaral. Maaari ka ring gumawa ng pribadong kopya mula sa template na pinamamahalaan mo.",
+  "course.project.students.emptyGroup": "Umalis na sa kurso ang lahat ng pinili mo para sa grupong ito, kaya walang mag-aaral na makakapagbukas ng proyektong ito. Pumili ng mga mag-aaral na gagawa nito.",
   "common.diary": "Talaarawan",
   "diary.about": "Ang iyong personal na talaarawan — pribadong espasyo para magmuni, magsulat, at lumago bilang palaisip at kuwentista.",
   "diary.today": "Talaarawan ngayon",

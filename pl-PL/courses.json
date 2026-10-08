@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Kopiuj wersje robocze rozdziałów",
   "course.project.copy.encyclopedia": "Kopiuj wpisy i pola encyklopedii",
   "course.project.copy.outline": "Kopiuj konspekty i sceny",
-  "course.project.approval.help": "Zanim przyznasz uczniom dostęp, właściciel lub menedżer musi udostępnić utwór temu kursowi. Możesz też utworzyć prywatną kopię z szablonu, którym zarządzasz."
+  "course.project.approval.help": "Zanim przyznasz uczniom dostęp, właściciel lub menedżer musi udostępnić utwór temu kursowi. Możesz też utworzyć prywatną kopię z szablonu, którym zarządzasz.",
+  "course.project.students.emptyGroup": "Wszyscy uczniowie wybrani do tej grupy opuścili kurs, więc żaden uczeń nie może otworzyć tego projektu. Zaznacz uczniów, którzy mają nad nim pracować."
 }

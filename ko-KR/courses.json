@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "초안 챕터 복사",
   "course.project.copy.encyclopedia": "백과사전 항목 및 필드 복사",
   "course.project.copy.outline": "아웃라인 및 장면 복사",
-  "course.project.approval.help": "학생에게 접근 권한을 배정하려면 먼저 작품의 소유자나 관리자가 작품을 이 코스에서 사용하도록 허용해야 합니다. 내가 관리하는 템플릿으로 비공개 사본을 만들 수도 있습니다."
+  "course.project.approval.help": "학생에게 접근 권한을 배정하려면 먼저 작품의 소유자나 관리자가 작품을 이 코스에서 사용하도록 허용해야 합니다. 내가 관리하는 템플릿으로 비공개 사본을 만들 수도 있습니다.",
+  "course.project.students.emptyGroup": "이 그룹에 선택한 학생이 모두 코스를 떠나서 이 프로젝트를 열 수 있는 학생이 없습니다. 작업할 학생을 선택하세요."
 }

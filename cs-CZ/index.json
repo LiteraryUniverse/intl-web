@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Kopírovat záznamy a pole encyklopedie",
   "course.project.copy.outline": "Kopírovat osnovy děje a scény",
   "course.project.approval.help": "Než budete moci studentům přidělit přístup, musí vlastník nebo manažer dílo tomuto kurzu zpřístupnit. Můžete také vytvořit soukromou kopii ze šablony, kterou spravujete.",
+  "course.project.students.emptyGroup": "Všichni, které jste do této skupiny vybrali, kurz opustili, takže tento projekt nemůže otevřít žádný student. Vyberte studenty, kteří na něm mají pracovat.",
   "common.diary": "Deník",
   "diary.about": "Váš osobní deník - soukromý prostor pro reflexi, psaní a růst jako myslitel a spisovatel.",
   "diary.today": "Dnešní deník",

@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Kopijuoti enciklopedijos įrašus ir laukus",
   "course.project.copy.outline": "Kopijuoti metmenis ir scenas",
   "course.project.approval.help": "Kad galėtumėte suteikti mokiniams prieigą, kūrinio savininkas arba valdytojas pirmiausia turi leisti jį naudoti šiame kurse. Taip pat galite sukurti privačią kopiją iš šablono, kurį valdote.",
+  "course.project.students.emptyGroup": "Visi šiai grupei pasirinkti mokiniai paliko kursą, todėl nė vienas mokinys negali atidaryti šio projekto. Pasirinkite mokinius, kurie turėtų su juo dirbti.",
   "common.diary": "Dienoraštis",
   "diary.about": "Jūsų asmeninis dienoraštis — privati erdvė apmąstyti, rašyti ir augti kaip mąstytojui ir pasakotojui.",
   "diary.today": "Šios dienos dienoraštis",

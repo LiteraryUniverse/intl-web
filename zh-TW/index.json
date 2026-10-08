@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "複製百科全書條目與欄位",
   "course.project.copy.outline": "複製大綱與場景",
   "course.project.approval.help": "作品的擁有者或管理者必須先將作品開放給此課程使用，您才能指派學生存取權。您也可以從自己管理的範本建立私人副本。",
+  "course.project.students.emptyGroup": "您為這個小組選擇的學生都已離開課程，因此沒有學生可以開啟這個專案。請選擇要參與的學生。",
   "common.diary": "日記",
   "diary.about": "你的私人日記——一個反思、書寫，並作為思考者與說故事的人成長的空間。",
   "diary.today": "今日日記",

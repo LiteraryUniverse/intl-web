@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Kopieer konsephoofstukke",
   "course.project.copy.encyclopedia": "Kopieer ensiklopedie-inskrywings en -velde",
   "course.project.copy.outline": "Kopieer uiteensettings en tonele",
-  "course.project.approval.help": "Die eienaar of bestuurder moet 'n werk vir hierdie kursus beskikbaar stel voordat jy toegang aan studente kan gee. Jy kan ook 'n private kopie skep van 'n sjabloon wat jy bestuur."
+  "course.project.approval.help": "Die eienaar of bestuurder moet 'n werk vir hierdie kursus beskikbaar stel voordat jy toegang aan studente kan gee. Jy kan ook 'n private kopie skep van 'n sjabloon wat jy bestuur.",
+  "course.project.students.emptyGroup": "Almal wat jy vir hierdie groep gekies het, het die kursus verlaat, dus kan geen student hierdie projek oopmaak nie. Kies die studente wat daaraan moet werk."
 }

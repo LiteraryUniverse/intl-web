@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Kopioi lukujen luonnokset",
   "course.project.copy.encyclopedia": "Kopioi tietosanakirjan merkinnät ja kentät",
   "course.project.copy.outline": "Kopioi hahmotelmat ja kohtaukset",
-  "course.project.approval.help": "Omistajan tai hallinnoijan on annettava teos tämän kurssin käyttöön, ennen kuin voit antaa oppilaille pääsyn siihen. Voit myös luoda yksityisen kopion mallista, jota hallinnoit."
+  "course.project.approval.help": "Omistajan tai hallinnoijan on annettava teos tämän kurssin käyttöön, ennen kuin voit antaa oppilaille pääsyn siihen. Voit myös luoda yksityisen kopion mallista, jota hallinnoit.",
+  "course.project.students.emptyGroup": "Kaikki tähän ryhmään valitsemasi oppilaat ovat poistuneet kurssilta, joten yksikään oppilas ei voi avata tätä projektia. Valitse oppilaat, joiden on tarkoitus työskennellä sen parissa."
 }

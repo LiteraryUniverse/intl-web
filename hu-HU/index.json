@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Enciklopédia-bejegyzések és mezők másolása",
   "course.project.copy.outline": "Vázlatok és jelenetek másolása",
   "course.project.approval.help": "A tulajdonosnak vagy a kezelőnek előbb elérhetővé kell tennie a művet a kurzus számára, hogy Ön hozzáférést adhasson a diákoknak. Privát másolatot is létrehozhat egy Ön által kezelt sablonból.",
+  "course.project.students.emptyGroup": "A csoportba kiválasztott összes diák elhagyta a kurzust, ezért egyetlen diák sem tudja megnyitni ezt a projektet. Válassza ki azokat a diákokat, akiknek dolgozniuk kell rajta.",
   "common.diary": "Napló",
   "diary.about": "Az Ön személyes naplója – privát tér az elmélkedéshez, íráshoz és a gondolkodóként, mesélőként való fejlődéshez.",
   "diary.today": "A mai napló",

@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Kopier kapitelkladder",
   "course.project.copy.encyclopedia": "Kopier encyklopædi-indgange og -felter",
   "course.project.copy.outline": "Kopier dispositioner og scener",
-  "course.project.approval.help": "Ejeren eller en ansvarlig skal gøre et værk tilgængeligt for dette kursus, før du kan give studerende adgang. Du kan også oprette en privat kopi ud fra en skabelon, du administrerer."
+  "course.project.approval.help": "Ejeren eller en ansvarlig skal gøre et værk tilgængeligt for dette kursus, før du kan give studerende adgang. Du kan også oprette en privat kopi ud fra en skabelon, du administrerer.",
+  "course.project.students.emptyGroup": "Alle, du har valgt til denne gruppe, har forladt kurset, så ingen studerende kan åbne dette projekt. Vælg de studerende, der skal arbejde på det."
 }

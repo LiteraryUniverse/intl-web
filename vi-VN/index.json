@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Sao chép mục từ và trường của bách khoa toàn thư",
   "course.project.copy.outline": "Sao chép dàn ý và cảnh",
   "course.project.approval.help": "Chủ sở hữu hoặc người quản lý phải cho phép khóa học này sử dụng tác phẩm thì bạn mới có thể cấp quyền truy cập cho học sinh. Bạn cũng có thể tạo bản sao riêng tư từ một mẫu do bạn quản lý.",
+  "course.project.students.emptyGroup": "Tất cả học sinh bạn đã chọn cho nhóm này đều đã rời khóa học, nên không học sinh nào có thể mở dự án này. Hãy chọn những học sinh sẽ làm việc với dự án.",
   "common.diary": "Nhật ký",
   "diary.about": "Nhật ký cá nhân của bạn — không gian riêng để suy ngẫm, viết lách và trưởng thành với tư cách người nghĩ và người kể chuyện.",
   "diary.today": "Nhật ký hôm nay",

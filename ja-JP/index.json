@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "エンサイクロペディアの項目とフィールドをコピー",
   "course.project.copy.outline": "アウトラインとシーンをコピー",
   "course.project.approval.help": "生徒にアクセス権を割り当てるには、作品のオーナーまたはマネージャーがその作品をこのコースで利用可能にする必要があります。あなたが管理するテンプレートから非公開コピーを作成することもできます。",
+  "course.project.students.emptyGroup": "このグループに選択した生徒が全員コースを離れたため、このプロジェクトを開ける生徒がいません。作業する生徒を選択してください。",
   "common.diary": "日記",
   "diary.about": "あなた専用の日記。考え、書き、物語の語り手として成長するための私的な空間です。",
   "diary.today": "今日の日記",

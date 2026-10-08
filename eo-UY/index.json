@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Kopii enciklopediajn erojn kaj kampojn",
   "course.project.copy.outline": "Kopii skizojn kaj scenojn",
   "course.project.approval.help": "La posedanto aŭ administranto devas disponebligi verkon al ĉi tiu kurso, antaŭ ol vi povos asigni aliron al studentoj. Vi ankaŭ povas krei privatan kopion el ŝablono, kiun vi administras.",
+  "course.project.students.emptyGroup": "Ĉiuj, kiujn vi elektis por ĉi tiu grupo, forlasis la kurson, do neniu studento povas malfermi ĉi tiun projekton. Elektu la studentojn, kiuj laboru pri ĝi.",
   "common.diary": "Taglibro",
   "diary.about": "Via persona taglibro — privata spaco por mediti, skribi kaj kreski kiel pensanto kaj rakontanto.",
   "diary.today": "Hodiaŭa taglibro",

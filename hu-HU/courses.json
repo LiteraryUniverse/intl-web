@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Fejezetpiszkozatok másolása",
   "course.project.copy.encyclopedia": "Enciklopédia-bejegyzések és mezők másolása",
   "course.project.copy.outline": "Vázlatok és jelenetek másolása",
-  "course.project.approval.help": "A tulajdonosnak vagy a kezelőnek előbb elérhetővé kell tennie a művet a kurzus számára, hogy Ön hozzáférést adhasson a diákoknak. Privát másolatot is létrehozhat egy Ön által kezelt sablonból."
+  "course.project.approval.help": "A tulajdonosnak vagy a kezelőnek előbb elérhetővé kell tennie a művet a kurzus számára, hogy Ön hozzáférést adhasson a diákoknak. Privát másolatot is létrehozhat egy Ön által kezelt sablonból.",
+  "course.project.students.emptyGroup": "A csoportba kiválasztott összes diák elhagyta a kurzust, ezért egyetlen diák sem tudja megnyitni ezt a projektet. Válassza ki azokat a diákokat, akiknek dolgozniuk kell rajta."
 }

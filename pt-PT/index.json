@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Copiar entradas e campos da enciclopédia",
   "course.project.copy.outline": "Copiar esboços e cenas",
   "course.project.approval.help": "Só pode dar acesso aos alunos depois de o proprietário ou um gestor da obra a disponibilizar para este curso. Também pode criar uma cópia privada a partir de um modelo gerido por si.",
+  "course.project.students.emptyGroup": "Todos os alunos que selecionou para este grupo saíram do curso, pelo que nenhum aluno pode abrir este projeto. Selecione os alunos que devem trabalhar nele.",
   "common.diary": "Diário",
   "diary.about": "O seu diário pessoal — um espaço privado para refletir, escrever e crescer como pensador e contador de histórias.",
   "diary.today": "Diário de hoje",

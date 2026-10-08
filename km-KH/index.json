@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Copy encyclopedia entries and fields",
   "course.project.copy.outline": "Copy outlines and scenes",
   "course.project.approval.help": "The owner or manager must make a work available to this course before you can assign student access. You can also create a private copy from a template you manage.",
+  "course.project.students.emptyGroup": "Everyone you selected for this group has left the course, so no student can open this project. Select the students who should work on it.",
   "common.diary": "កំណត់ហេតុ",
   "diary.about": "កំណត់ហេតុផ្ទាល់ខ្លួនរបស់អ្នក — កន្លែងឯកជនសម្រាប់គិត សរសេរ និងលូតលាស់ជាអ្នកគិត និងអ្នកនិទានរឿង។",
   "diary.today": "កំណត់ហេតុថ្ងៃនេះ",

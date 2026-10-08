@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Kopeeri entsüklopeedia kirjed ja väljad",
   "course.project.copy.outline": "Kopeeri sisukavad ja stseenid",
   "course.project.approval.help": "Omanik või haldaja peab teose sellele kursusele kättesaadavaks tegema, enne kui saate õpilastele juurdepääsu anda. Võite ka luua privaatse koopia mallist, mida haldate.",
+  "course.project.students.emptyGroup": "Kõik selle rühma jaoks valitud õpilased on kursuselt lahkunud, seega ei saa ükski õpilane seda projekti avada. Valige õpilased, kes peaksid sellega töötama.",
   "common.diary": "Päevik",
   "diary.about": "Sinu isiklik päevik — privaatne ruum mõtisklemiseks, kirjutamiseks ning mõtleja ja jutuvestjana kasvamiseks.",
   "diary.today": "Tänane päevik",

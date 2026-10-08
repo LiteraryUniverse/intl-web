@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Copiază capitolele în ciornă",
   "course.project.copy.encyclopedia": "Copiază intrările și câmpurile din enciclopedie",
   "course.project.copy.outline": "Copiază schițele și scenele",
-  "course.project.approval.help": "Proprietarul sau managerul trebuie să pună opera la dispoziția acestui curs înainte să le poți acorda acces cursanților. Poți crea și o copie privată pornind de la un șablon pe care îl administrezi."
+  "course.project.approval.help": "Proprietarul sau managerul trebuie să pună opera la dispoziția acestui curs înainte să le poți acorda acces cursanților. Poți crea și o copie privată pornind de la un șablon pe care îl administrezi.",
+  "course.project.students.emptyGroup": "Toți cursanții pe care i-ai selectat pentru acest grup au părăsit cursul, așa că niciun cursant nu poate deschide acest proiect. Selectează cursanții care trebuie să lucreze la el."
 }

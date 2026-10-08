@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Salin entri dan medan ensiklopedia",
   "course.project.copy.outline": "Salin rangka dan adegan",
   "course.project.approval.help": "Pemilik atau pengurus mesti menyediakan karya untuk kursus ini sebelum anda boleh memberikan akses kepada pelajar. Anda juga boleh mencipta salinan peribadi daripada templat yang anda urus.",
+  "course.project.students.emptyGroup": "Semua pelajar yang anda pilih untuk kumpulan ini telah meninggalkan kursus, jadi tiada pelajar yang boleh membuka projek ini. Pilih pelajar yang akan mengusahakannya.",
   "common.diary": "Diari",
   "diary.about": "Diari peribadi anda — ruang peribadi untuk merenung, menulis dan berkembang sebagai pemikir dan pencerita.",
   "diary.today": "Diari hari ini",

@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Salin bab draf",
   "course.project.copy.encyclopedia": "Salin entri dan bidang ensiklopedia",
   "course.project.copy.outline": "Salin kerangka dan adegan",
-  "course.project.approval.help": "Pemilik atau pengelola harus menyediakan karya untuk kursus ini sebelum Anda dapat memberikan akses kepada siswa. Anda juga dapat membuat salinan pribadi dari templat yang Anda kelola."
+  "course.project.approval.help": "Pemilik atau pengelola harus menyediakan karya untuk kursus ini sebelum Anda dapat memberikan akses kepada siswa. Anda juga dapat membuat salinan pribadi dari templat yang Anda kelola.",
+  "course.project.students.emptyGroup": "Semua siswa yang Anda pilih untuk kelompok ini telah keluar dari kursus, sehingga tidak ada siswa yang dapat membuka proyek ini. Pilih siswa yang akan mengerjakannya."
 }

@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Kapitelentwürfe kopieren",
   "course.project.copy.encyclopedia": "Enzyklopädie-Einträge und -Felder kopieren",
   "course.project.copy.outline": "Gliederungen und Szenen kopieren",
-  "course.project.approval.help": "Der Eigentümer oder Verwalter muss ein Werk für diesen Kurs freigeben, bevor Sie Schülern Zugriff gewähren können. Sie können auch eine private Kopie aus einer Vorlage erstellen, die Sie verwalten."
+  "course.project.approval.help": "Der Eigentümer oder Verwalter muss ein Werk für diesen Kurs freigeben, bevor Sie Schülern Zugriff gewähren können. Sie können auch eine private Kopie aus einer Vorlage erstellen, die Sie verwalten.",
+  "course.project.students.emptyGroup": "Alle Schüler, die Sie für diese Gruppe ausgewählt haben, haben den Kurs verlassen. Deshalb kann kein Schüler dieses Projekt öffnen. Wählen Sie die Schüler aus, die daran arbeiten sollen."
 }

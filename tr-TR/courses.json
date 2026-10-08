@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Taslak bölümleri kopyala",
   "course.project.copy.encyclopedia": "Ansiklopedi girişlerini ve alanlarını kopyala",
   "course.project.copy.outline": "Ana hatları ve sahneleri kopyala",
-  "course.project.approval.help": "Öğrencilere erişim verebilmeniz için eserin sahibi veya yöneticisi onu önce bu kursun kullanımına açmalıdır. Yönettiğiniz bir şablondan özel bir kopya da oluşturabilirsiniz."
+  "course.project.approval.help": "Öğrencilere erişim verebilmeniz için eserin sahibi veya yöneticisi onu önce bu kursun kullanımına açmalıdır. Yönettiğiniz bir şablondan özel bir kopya da oluşturabilirsiniz.",
+  "course.project.students.emptyGroup": "Bu grup için seçtiğiniz herkes kurstan ayrıldı, bu yüzden hiçbir öğrenci bu projeyi açamıyor. Proje üzerinde çalışacak öğrencileri seçin."
 }

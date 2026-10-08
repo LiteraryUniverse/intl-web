@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Kopiera encyklopediposter och fält",
   "course.project.copy.outline": "Kopiera dispositioner och scener",
   "course.project.approval.help": "Ägaren eller en ansvarig måste göra ett verk tillgängligt för den här kursen innan du kan ge studenter åtkomst. Du kan också skapa en privat kopia från en mall som du hanterar.",
+  "course.project.students.emptyGroup": "Alla du valde till den här gruppen har lämnat kursen, så ingen student kan öppna det här projektet. Välj de studenter som ska arbeta med det.",
   "common.diary": "Dagbok",
   "diary.about": "Din personliga dagbok — en privat plats att reflektera, skriva och växa som tänkare och berättare.",
   "diary.today": "Dagens dagbok",

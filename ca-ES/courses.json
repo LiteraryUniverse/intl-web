@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Copia els capítols en esborrany",
   "course.project.copy.encyclopedia": "Copia les entrades i els camps de l'enciclopèdia",
   "course.project.copy.outline": "Copia els esquemes i les escenes",
-  "course.project.approval.help": "El propietari o el responsable d'una obra l'ha de posar a disposició d'aquest curs abans que puguis donar-hi accés als estudiants. També pots crear una còpia privada a partir d'una plantilla que gestionis."
+  "course.project.approval.help": "El propietari o el responsable d'una obra l'ha de posar a disposició d'aquest curs abans que puguis donar-hi accés als estudiants. També pots crear una còpia privada a partir d'una plantilla que gestionis.",
+  "course.project.students.emptyGroup": "Tots els estudiants que havies seleccionat per a aquest grup han deixat el curs, de manera que cap estudiant pot obrir aquest projecte. Selecciona els estudiants que hi han de treballar."
 }

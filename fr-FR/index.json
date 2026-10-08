@@ -1666,6 +1666,7 @@
   "course.project.copy.encyclopedia": "Copier les entrées et les champs de l'encyclopédie",
   "course.project.copy.outline": "Copier les schémas d'intrigue et les scènes",
   "course.project.approval.help": "Le propriétaire ou un responsable de l'œuvre doit la rendre disponible pour ce cours avant que vous puissiez donner l'accès aux élèves. Vous pouvez aussi créer une copie privée à partir d'un modèle que vous gérez.",
+  "course.project.students.emptyGroup": "Tous les élèves que vous aviez sélectionnés pour ce groupe ont quitté le cours. Aucun élève ne peut donc ouvrir ce projet. Sélectionnez les élèves qui doivent y travailler.",
   "common.diary": "Journal",
   "diary.about": "Votre journal personnel : un espace privé pour réfléchir, écrire et grandir en tant que penseur et conteur.",
   "diary.today": "Le journal du jour",

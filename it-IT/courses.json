@@ -341,5 +341,6 @@
   "course.project.copy.chapters": "Copia i capitoli in bozza",
   "course.project.copy.encyclopedia": "Copia le voci e i campi dell'enciclopedia",
   "course.project.copy.outline": "Copia gli schemi delle trame e le scene",
-  "course.project.approval.help": "Il proprietario o un responsabile dell'opera deve renderla disponibile per questo corso prima che tu possa dare l'accesso agli studenti. Puoi anche creare una copia privata a partire da un modello che gestisci."
+  "course.project.approval.help": "Il proprietario o un responsabile dell'opera deve renderla disponibile per questo corso prima che tu possa dare l'accesso agli studenti. Puoi anche creare una copia privata a partire da un modello che gestisci.",
+  "course.project.students.emptyGroup": "Tutti gli studenti che avevi selezionato per questo gruppo hanno lasciato il corso, quindi nessuno studente può aprire questo progetto. Seleziona gli studenti che devono lavorarci."
 }
