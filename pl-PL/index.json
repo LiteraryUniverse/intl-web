@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Otwórz w DeepL",
   "writer.lookup.openGoogle": "Otwórz w Google Translate",
   "writer.lookup.selection": "Sprawdzenie zaznaczenia w słowniku",
+  "writer.comment.selection": "Skomentuj zaznaczenie",
   "writer.lookup.error.missingKey": "Przed tłumaczeniem zapisz klucz DeepL na swoim koncie.",
   "writer.lookup.error.rejected": "DeepL odrzucił zapisany klucz. Sprawdź go na koncie w sekcji Klucze API i usług.",
   "writer.lookup.error.quota": "DeepL nie przyjął tego tłumaczenia. Limit tego klucza mógł się wyczerpać.",

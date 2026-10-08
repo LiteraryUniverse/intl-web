@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Apri in DeepL",
   "writer.lookup.openGoogle": "Apri in Google Translate",
   "writer.lookup.selection": "Cerca la selezione",
+  "writer.comment.selection": "Commenta la selezione",
   "writer.lookup.error.missingKey": "Salva una chiave DeepL nel tuo account prima di tradurre.",
   "writer.lookup.error.rejected": "DeepL ha rifiutato la chiave salvata. Controllala tra le chiavi API e di servizio del tuo account.",
   "writer.lookup.error.quota": "DeepL non è riuscito a eseguire questa traduzione. La quota di quella chiave potrebbe essere esaurita.",

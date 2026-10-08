@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "DeepL ནང་ཁ་ཕྱེ།",
   "writer.lookup.openGoogle": "Google Translate ནང་ཁ་ཕྱེ།",
   "writer.lookup.selection": "བདམས་པ་ཚིག་མཛོད་ནང་འཚོལ།",
+  "writer.comment.selection": "བདམས་པ་ལ་མཆན་འགོད་པ།",
   "writer.lookup.error.missingKey": "ཡིག་སྒྱུར་མ་བྱས་གོང་ཁྱེད་ཀྱི་རྩིས་ཐོར་ DeepL ལྡེ་མིག་ཅིག་ཉར་ཚགས་གྱིས།",
   "writer.lookup.error.rejected": "DeepL ནས་ཉར་ཚགས་བྱས་པའི་ལྡེ་མིག་དེ་ངོས་ལེན་མ་བྱས། ཁྱེད་ཀྱི་རྩིས་ཐོའི་ལྡེ་མིག་ནང་ཞིབ་བཤེར་གྱིས།",
   "writer.lookup.error.quota": "DeepL ནས་ཡིག་སྒྱུར་འདི་ལེན་མ་ཐུབ། ལྡེ་མིག་དེའི་བཀོལ་ཚད་རྫོགས་ཚར་བ་ཡིན་སྲིད།",

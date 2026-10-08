@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "DeepL தளத்தில் திறக்கவும்",
   "writer.lookup.openGoogle": "Google Translate தளத்தில் திறக்கவும்",
   "writer.lookup.selection": "தேர்ந்தெடுத்ததை அகராதியில் பார்க்கவும்",
+  "writer.comment.selection": "தேர்ந்தெடுத்ததற்கு கருத்து எழுதுங்கள்",
   "writer.lookup.error.missingKey": "மொழிபெயர்ப்பதற்கு முன் உங்கள் கணக்கில் DeepL விசையைச் சேமிக்கவும்.",
   "writer.lookup.error.rejected": "சேமித்த விசையை DeepL நிராகரித்தது. உங்கள் கணக்கு விசைகளில் அதைச் சரிபார்க்கவும்.",
   "writer.lookup.error.quota": "DeepL இந்த மொழிபெயர்ப்பை ஏற்க முடியவில்லை. அந்த விசையின் ஒதுக்கீடு தீர்ந்திருக்கலாம்.",

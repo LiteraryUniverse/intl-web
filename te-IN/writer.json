@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "DeepL లో తెరవండి",
   "writer.lookup.openGoogle": "Google Translate లో తెరవండి",
   "writer.lookup.selection": "ఎంపికను నిఘంటువులో చూడు",
+  "writer.comment.selection": "ఎంపికపై వ్యాఖ్యానించండి",
   "writer.lookup.error.missingKey": "అనువదించే ముందు మీ ఖాతాలో DeepL కీని సేవ్ చేయండి.",
   "writer.lookup.error.rejected": "సేవ్ చేసిన కీని DeepL తిరస్కరించింది. మీ ఖాతా కీలలో దాన్ని తనిఖీ చేయండి.",
   "writer.lookup.error.quota": "DeepL ఈ అనువాదాన్ని స్వీకరించలేకపోయింది. ఆ కీ కోటా అయిపోయి ఉండవచ్చు.",

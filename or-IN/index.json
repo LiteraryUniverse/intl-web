@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "DeepL ରେ ଖୋଲନ୍ତୁ",
   "writer.lookup.openGoogle": "Google Translate ରେ ଖୋଲନ୍ତୁ",
   "writer.lookup.selection": "ଚୟନିତ ଅଂଶ ଖୋଜନ୍ତୁ",
+  "writer.comment.selection": "ଚୟନିତ ଅଂଶ ଉପରେ ମତ ଦିଅନ୍ତୁ",
   "writer.lookup.error.missingKey": "ଅନୁବାଦ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଆକାଉଣ୍ଟରେ ଏକ DeepL କୀ ସେଭ୍ କରନ୍ତୁ।",
   "writer.lookup.error.rejected": "DeepL ସେଭ୍ ହୋଇଥିବା କୀକୁ ଗ୍ରହଣ କଲା ନାହିଁ। ଆପଣଙ୍କ ଆକାଉଣ୍ଟ କୀ ବିଭାଗରେ ଏହାକୁ ଯାଞ୍ଚ କରନ୍ତୁ।",
   "writer.lookup.error.quota": "DeepL ଏହି ଅନୁବାଦ ନେଇପାରିଲା ନାହିଁ। ସେହି କୀର କୋଟା ହୁଏତ ସରିଯାଇଛି।",

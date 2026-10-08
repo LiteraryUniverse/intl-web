@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "فتح في DeepL",
   "writer.lookup.openGoogle": "فتح في Google Translate",
   "writer.lookup.selection": "البحث عن التحديد في القاموس",
+  "writer.comment.selection": "التعليق على التحديد",
   "writer.lookup.error.missingKey": "احفظ مفتاح DeepL في حسابك قبل الترجمة.",
   "writer.lookup.error.rejected": "رفض DeepL المفتاح المحفوظ. تحقق منه في «مفاتيح واجهة برمجة التطبيقات والخدمات» في حسابك.",
   "writer.lookup.error.quota": "تعذّر على DeepL تنفيذ هذه الترجمة. ربما استُنفدت حصة هذا المفتاح.",

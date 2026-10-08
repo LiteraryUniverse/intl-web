@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Buksan sa DeepL",
   "writer.lookup.openGoogle": "Buksan sa Google Translate",
   "writer.lookup.selection": "Hanapin ang napiling teksto",
+  "writer.comment.selection": "Magkomento sa napiling teksto",
   "writer.lookup.error.missingKey": "Mag-save ng DeepL key sa iyong account bago magsalin.",
   "writer.lookup.error.rejected": "Tinanggihan ng DeepL ang naka-save na key. Suriin ito sa mga key sa iyong account.",
   "writer.lookup.error.quota": "Hindi matanggap ng DeepL ang pagsasaling ito. Maaaring naubos na ang quota ng key na iyon.",

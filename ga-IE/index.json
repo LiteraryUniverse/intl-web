@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Oscail i DeepL",
   "writer.lookup.openGoogle": "Oscail i Google Translate",
   "writer.lookup.selection": "Cuardaigh an rogha",
+  "writer.comment.selection": "Déan nóta ar an rogha",
   "writer.lookup.error.missingKey": "Sábháil eochair DeepL i do chuntas sula n-aistríonn tú.",
   "writer.lookup.error.rejected": "Dhiúltaigh DeepL don eochair shábháilte. Seiceáil í in eochracha do chuntais.",
   "writer.lookup.error.quota": "Níorbh fhéidir le DeepL an t-aistriúchán seo a dhéanamh. B’fhéidir go bhfuil an cuóta ar an eochair sin ídithe.",

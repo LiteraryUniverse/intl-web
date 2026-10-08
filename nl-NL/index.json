@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Openen in DeepL",
   "writer.lookup.openGoogle": "Openen in Google Translate",
   "writer.lookup.selection": "De selectie opzoeken",
+  "writer.comment.selection": "Reageren op de selectie",
   "writer.lookup.error.missingKey": "Sla een DeepL-sleutel op in uw account voordat u gaat vertalen.",
   "writer.lookup.error.rejected": "DeepL heeft de opgeslagen sleutel geweigerd. Controleer deze onder API- en servicesleutels in uw account.",
   "writer.lookup.error.quota": "DeepL kon deze vertaling niet verwerken. Het quotum van die sleutel is mogelijk opgebruikt.",

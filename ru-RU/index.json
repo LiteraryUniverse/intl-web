@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Открыть в DeepL",
   "writer.lookup.openGoogle": "Открыть в Google Translate",
   "writer.lookup.selection": "Найти выделенное в словаре",
+  "writer.comment.selection": "Прокомментировать выделенное",
   "writer.lookup.error.missingKey": "Прежде чем переводить, сохраните ключ DeepL в своей учётной записи.",
   "writer.lookup.error.rejected": "DeepL отклонил сохранённый ключ. Проверьте его в разделе «Ключи API и сервисов» вашей учётной записи.",
   "writer.lookup.error.quota": "DeepL не смог принять этот перевод. Возможно, лимит этого ключа исчерпан.",

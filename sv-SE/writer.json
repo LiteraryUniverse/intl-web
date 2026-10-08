@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Öppna i DeepL",
   "writer.lookup.openGoogle": "Öppna i Google Translate",
   "writer.lookup.selection": "Slå upp markeringen",
+  "writer.comment.selection": "Kommentera markeringen",
   "writer.lookup.error.missingKey": "Spara en DeepL-nyckel på ditt konto innan du översätter.",
   "writer.lookup.error.rejected": "DeepL avvisade den sparade nyckeln. Kontrollera den under dina kontonycklar.",
   "writer.lookup.error.quota": "DeepL kunde inte ta emot den här översättningen. Kvoten för den nyckeln kan vara slut.",

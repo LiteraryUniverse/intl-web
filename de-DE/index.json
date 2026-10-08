@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "In DeepL öffnen",
   "writer.lookup.openGoogle": "In Google Translate öffnen",
   "writer.lookup.selection": "Auswahl nachschlagen",
+  "writer.comment.selection": "Auswahl kommentieren",
   "writer.lookup.error.missingKey": "Speichern Sie vor dem Übersetzen einen DeepL-Schlüssel in Ihrem Konto.",
   "writer.lookup.error.rejected": "DeepL hat den gespeicherten Schlüssel abgelehnt. Prüfen Sie ihn unter „API- & Dienstschlüssel“ in Ihrem Konto.",
   "writer.lookup.error.quota": "DeepL konnte diese Übersetzung nicht annehmen. Das Kontingent dieses Schlüssels ist möglicherweise aufgebraucht.",

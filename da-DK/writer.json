@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Åbn i DeepL",
   "writer.lookup.openGoogle": "Åbn i Google Translate",
   "writer.lookup.selection": "Slå markeringen op",
+  "writer.comment.selection": "Kommentér markeringen",
   "writer.lookup.error.missingKey": "Gem en DeepL-nøgle på din konto, før du oversætter.",
   "writer.lookup.error.rejected": "DeepL afviste den gemte nøgle. Tjek den under dine kontonøgler.",
   "writer.lookup.error.quota": "DeepL kunne ikke tage imod denne oversættelse. Kvoten på den nøgle kan være brugt op.",

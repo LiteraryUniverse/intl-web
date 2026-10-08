@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Ouvrir dans DeepL",
   "writer.lookup.openGoogle": "Ouvrir dans Google Translate",
   "writer.lookup.selection": "Rechercher la sélection",
+  "writer.comment.selection": "Commenter la sélection",
   "writer.lookup.error.missingKey": "Enregistrez une clé DeepL dans votre compte avant de traduire.",
   "writer.lookup.error.rejected": "DeepL a refusé la clé enregistrée. Vérifiez-la dans les clés API et de service de votre compte.",
   "writer.lookup.error.quota": "DeepL n’a pas pu effectuer cette traduction. Le quota de cette clé est peut-être épuisé.",

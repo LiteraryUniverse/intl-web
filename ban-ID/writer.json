@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Bukak ring DeepL",
   "writer.lookup.openGoogle": "Bukak ring Google Translate",
   "writer.lookup.selection": "Rereh teks sané kapilih",
+  "writer.comment.selection": "Komentarin teks sané kapilih",
   "writer.lookup.error.missingKey": "Simpen kunci DeepL ring akun ragané sadurung nerjemahang.",
   "writer.lookup.error.rejected": "DeepL nulak kunci sané kasimpen. Cingak malih kunci punika ring akun ragané.",
   "writer.lookup.error.quota": "DeepL nénten prasida nampi terjemahan puniki. Kuota kunci punika minab sampun telas.",

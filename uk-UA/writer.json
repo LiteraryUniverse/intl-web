@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Відкрити в DeepL",
   "writer.lookup.openGoogle": "Відкрити в Google Translate",
   "writer.lookup.selection": "Знайти виділене в словнику",
+  "writer.comment.selection": "Прокоментувати виділене",
   "writer.lookup.error.missingKey": "Перш ніж перекладати, збережіть ключ DeepL у своєму обліковому записі.",
   "writer.lookup.error.rejected": "DeepL відхилив збережений ключ. Перевірте його в розділі «Ключі API та сервісів» вашого облікового запису.",
   "writer.lookup.error.quota": "DeepL не зміг прийняти цей переклад. Можливо, ліміт цього ключа вичерпано.",

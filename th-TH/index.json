@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "เปิดใน DeepL",
   "writer.lookup.openGoogle": "เปิดใน Google Translate",
   "writer.lookup.selection": "ค้นหาข้อความที่เลือก",
+  "writer.comment.selection": "แสดงความคิดเห็นต่อข้อความที่เลือก",
   "writer.lookup.error.missingKey": "บันทึกคีย์ DeepL ในบัญชีของคุณก่อนแปล",
   "writer.lookup.error.rejected": "DeepL ปฏิเสธคีย์ที่บันทึกไว้ โปรดตรวจสอบคีย์ในบัญชีของคุณ",
   "writer.lookup.error.quota": "DeepL ไม่สามารถรับงานแปลนี้ได้ โควตาของคีย์นั้นอาจหมดแล้ว",

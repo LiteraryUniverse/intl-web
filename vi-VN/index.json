@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Mở trong DeepL",
   "writer.lookup.openGoogle": "Mở trong Google Translate",
   "writer.lookup.selection": "Tra phần đã chọn",
+  "writer.comment.selection": "Bình luận về phần đã chọn",
   "writer.lookup.error.missingKey": "Hãy lưu khóa DeepL trong tài khoản của bạn trước khi dịch.",
   "writer.lookup.error.rejected": "DeepL đã từ chối khóa đã lưu. Hãy kiểm tra khóa đó trong tài khoản của bạn.",
   "writer.lookup.error.quota": "DeepL không thể nhận bản dịch này. Hạn mức của khóa đó có thể đã hết.",

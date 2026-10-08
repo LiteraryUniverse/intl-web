@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Buka di DeepL",
   "writer.lookup.openGoogle": "Buka di Google Translate",
   "writer.lookup.selection": "Cari arti seleksi",
+  "writer.comment.selection": "Komentari seleksi",
   "writer.lookup.error.missingKey": "Simpan kunci DeepL di akun Anda sebelum menerjemahkan.",
   "writer.lookup.error.rejected": "DeepL menolak kunci yang tersimpan. Periksa kunci itu di akun Anda.",
   "writer.lookup.error.quota": "DeepL tidak dapat memproses terjemahan ini. Kuota kunci tersebut mungkin sudah habis.",

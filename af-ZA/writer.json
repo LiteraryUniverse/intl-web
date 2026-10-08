@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Maak oop in DeepL",
   "writer.lookup.openGoogle": "Maak oop in Google Translate",
   "writer.lookup.selection": "Slaan die seleksie na",
+  "writer.comment.selection": "Lewer kommentaar op die seleksie",
   "writer.lookup.error.missingKey": "Stoor 'n DeepL-sleutel in jou rekening voordat jy vertaal.",
   "writer.lookup.error.rejected": "DeepL het die gestoorde sleutel geweier. Gaan dit na by jou rekeningsleutels.",
   "writer.lookup.error.quota": "DeepL kon nie hierdie vertaling hanteer nie. Die kwota op daardie sleutel is dalk opgebruik.",

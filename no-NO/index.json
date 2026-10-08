@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Åpne i DeepL",
   "writer.lookup.openGoogle": "Åpne i Google Translate",
   "writer.lookup.selection": "Slå opp utvalget",
+  "writer.comment.selection": "Kommenter utvalget",
   "writer.lookup.error.missingKey": "Lagre en DeepL-nøkkel på kontoen din før du oversetter.",
   "writer.lookup.error.rejected": "DeepL avviste den lagrede nøkkelen. Sjekk den under kontonøklene dine.",
   "writer.lookup.error.quota": "DeepL kunne ikke ta imot denne oversettelsen. Kvoten på den nøkkelen kan være brukt opp.",

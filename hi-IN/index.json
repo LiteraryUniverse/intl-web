@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "DeepL में खोलें",
   "writer.lookup.openGoogle": "Google Translate में खोलें",
   "writer.lookup.selection": "चयन को खोजें",
+  "writer.comment.selection": "चयन पर टिप्पणी करें",
   "writer.lookup.error.missingKey": "अनुवाद करने से पहले अपने खाते में DeepL कुंजी सहेजें।",
   "writer.lookup.error.rejected": "DeepL ने सहेजी गई कुंजी अस्वीकार कर दी। इसे अपने खाते की कुंजियों में जाँचें।",
   "writer.lookup.error.quota": "DeepL यह अनुवाद नहीं कर सका। हो सकता है उस कुंजी का कोटा खत्म हो गया हो।",

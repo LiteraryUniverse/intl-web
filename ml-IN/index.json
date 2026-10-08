@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "DeepL സൈറ്റിൽ തുറക്കുക",
   "writer.lookup.openGoogle": "Google Translate സൈറ്റിൽ തുറക്കുക",
   "writer.lookup.selection": "തിരഞ്ഞെടുത്തത് നിഘണ്ടുവിൽ നോക്കുക",
+  "writer.comment.selection": "തിരഞ്ഞെടുത്തതിൽ അഭിപ്രായം എഴുതുക",
   "writer.lookup.error.missingKey": "പരിഭാഷപ്പെടുത്തുന്നതിന് മുമ്പ് നിങ്ങളുടെ അക്കൗണ്ടിൽ ഒരു DeepL കീ സംരക്ഷിക്കുക.",
   "writer.lookup.error.rejected": "സംരക്ഷിച്ച കീ DeepL നിരസിച്ചു. നിങ്ങളുടെ അക്കൗണ്ട് കീകളിൽ അത് പരിശോധിക്കുക.",
   "writer.lookup.error.quota": "ഈ പരിഭാഷ ഏറ്റെടുക്കാൻ DeepL സേവനത്തിന് കഴിഞ്ഞില്ല. ആ കീയുടെ ക്വോട്ട തീർന്നിരിക്കാം.",

@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Abrir en DeepL",
   "writer.lookup.openGoogle": "Abrir en Google Translate",
   "writer.lookup.selection": "Buscar la selección",
+  "writer.comment.selection": "Comentar la selección",
   "writer.lookup.error.missingKey": "Guarde una clave de DeepL en su cuenta antes de traducir.",
   "writer.lookup.error.rejected": "DeepL ha rechazado la clave guardada. Revísela en las claves de API y de servicios de su cuenta.",
   "writer.lookup.error.quota": "DeepL no ha podido hacer esta traducción. Puede que se haya agotado la cuota de esa clave.",

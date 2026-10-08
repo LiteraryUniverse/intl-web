@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "פתיחה ב־DeepL",
   "writer.lookup.openGoogle": "פתיחה ב־Google Translate",
   "writer.lookup.selection": "חיפוש הבחירה במילון",
+  "writer.comment.selection": "הוספת תגובה על הבחירה",
   "writer.lookup.error.missingKey": "שמרו מפתח DeepL בחשבון שלכם לפני התרגום.",
   "writer.lookup.error.rejected": "DeepL דחה את המפתח השמור. בדקו אותו בדף מפתחות החשבון.",
   "writer.lookup.error.quota": "DeepL לא הצליח לבצע את התרגום הזה. ייתכן שהמכסה של המפתח הזה נוצלה.",

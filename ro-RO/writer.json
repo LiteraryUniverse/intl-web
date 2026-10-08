@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Deschideți în DeepL",
   "writer.lookup.openGoogle": "Deschideți în Google Translate",
   "writer.lookup.selection": "Căutați selecția",
+  "writer.comment.selection": "Comentați selecția",
   "writer.lookup.error.missingKey": "Salvați o cheie DeepL în contul dumneavoastră înainte de a traduce.",
   "writer.lookup.error.rejected": "DeepL a respins cheia salvată. Verificați-o în cheile contului.",
   "writer.lookup.error.quota": "DeepL nu a putut prelua această traducere. Este posibil ca cota acelei chei să fie epuizată.",

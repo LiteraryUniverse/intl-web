@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "DeepL ਵਿੱਚ ਖੋਲ੍ਹੋ",
   "writer.lookup.openGoogle": "Google Translate ਵਿੱਚ ਖੋਲ੍ਹੋ",
   "writer.lookup.selection": "ਚੋਣ ਸ਼ਬਦਕੋਸ਼ ਵਿੱਚ ਵੇਖੋ",
+  "writer.comment.selection": "ਚੋਣ 'ਤੇ ਟਿੱਪਣੀ ਕਰੋ",
   "writer.lookup.error.missingKey": "ਅਨੁਵਾਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ DeepL ਕੁੰਜੀ ਸੰਭਾਲੋ।",
   "writer.lookup.error.rejected": "DeepL ਨੇ ਸੰਭਾਲੀ ਹੋਈ ਕੁੰਜੀ ਰੱਦ ਕਰ ਦਿੱਤੀ। ਆਪਣੀਆਂ ਖਾਤਾ ਕੁੰਜੀਆਂ ਵਿੱਚ ਇਸ ਦੀ ਜਾਂਚ ਕਰੋ।",
   "writer.lookup.error.quota": "DeepL ਇਹ ਅਨੁਵਾਦ ਨਹੀਂ ਲੈ ਸਕਿਆ। ਹੋ ਸਕਦਾ ਹੈ ਉਸ ਕੁੰਜੀ ਦਾ ਕੋਟਾ ਖ਼ਤਮ ਹੋ ਗਿਆ ਹੋਵੇ।",

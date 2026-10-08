@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "გახსნა DeepL-ში",
   "writer.lookup.openGoogle": "გახსნა Google Translate-ში",
   "writer.lookup.selection": "მონიშნულის მოძიება ლექსიკონში",
+  "writer.comment.selection": "მონიშნულის კომენტირება",
   "writer.lookup.error.missingKey": "თარგმნამდე შეინახეთ DeepL-ის გასაღები თქვენს ანგარიშში.",
   "writer.lookup.error.rejected": "DeepL-მა შენახული გასაღები უარყო. შეამოწმეთ ის ანგარიშის გასაღებებში.",
   "writer.lookup.error.quota": "DeepL-მა ეს თარგმანი ვერ შეასრულა. შესაძლოა, ამ გასაღების ლიმიტი ამოწურულია.",

@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "在 DeepL 中開啟",
   "writer.lookup.openGoogle": "在 Google Translate 中開啟",
   "writer.lookup.selection": "在字典中查詢選取文字",
+  "writer.comment.selection": "評論選取文字",
   "writer.lookup.error.missingKey": "翻譯前，請先在您的帳戶中儲存 DeepL 金鑰。",
   "writer.lookup.error.rejected": "DeepL 拒絕了已儲存的金鑰。請至帳戶金鑰中檢查。",
   "writer.lookup.error.quota": "DeepL 無法處理這次翻譯。該金鑰的額度可能已用完。",

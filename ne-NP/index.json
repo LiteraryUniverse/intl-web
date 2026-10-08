@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "DeepL मा खोल्नुहोस्",
   "writer.lookup.openGoogle": "Google Translate मा खोल्नुहोस्",
   "writer.lookup.selection": "चयन गरिएको पाठ खोज्नुहोस्",
+  "writer.comment.selection": "चयन गरिएको पाठमा टिप्पणी गर्नुहोस्",
   "writer.lookup.error.missingKey": "अनुवाद गर्नुअघि आफ्नो खातामा DeepL की सुरक्षित गर्नुहोस्।",
   "writer.lookup.error.rejected": "DeepL ले सुरक्षित गरिएको की अस्वीकार गर्‍यो। यसलाई आफ्नो खाताका कीहरूमा जाँच्नुहोस्।",
   "writer.lookup.error.quota": "DeepL ले यो अनुवाद लिन सकेन। त्यो कीको कोटा सकिएको हुन सक्छ।",

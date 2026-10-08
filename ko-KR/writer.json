@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "DeepL에서 열기",
   "writer.lookup.openGoogle": "Google Translate에서 열기",
   "writer.lookup.selection": "선택 항목을 사전에서 찾기",
+  "writer.comment.selection": "선택 항목에 댓글 달기",
   "writer.lookup.error.missingKey": "번역하기 전에 계정에 DeepL 키를 저장하세요.",
   "writer.lookup.error.rejected": "DeepL이 저장된 키를 거부했습니다. 계정 키에서 확인하세요.",
   "writer.lookup.error.quota": "DeepL이 이 번역을 처리하지 못했습니다. 해당 키의 사용 한도가 소진되었을 수 있습니다.",

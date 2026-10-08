@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Ava teenuses DeepL",
   "writer.lookup.openGoogle": "Ava teenuses Google Translate",
   "writer.lookup.selection": "Otsi valikut sõnastikust",
+  "writer.comment.selection": "Kommenteeri valikut",
   "writer.lookup.error.missingKey": "Enne tõlkimist salvestage oma kontole DeepL-i võti.",
   "writer.lookup.error.rejected": "DeepL lükkas salvestatud võtme tagasi. Kontrollige seda jaotises „Konto võtmed“.",
   "writer.lookup.error.quota": "DeepL ei saanud seda tõlget teha. Selle võtme kvoot võib olla ära kasutatud.",

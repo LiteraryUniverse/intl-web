@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "DeepL-ত খোলক",
   "writer.lookup.openGoogle": "Google Translate-ত খোলক",
   "writer.lookup.selection": "বাছনি কৰা অংশ বিচাৰক",
+  "writer.comment.selection": "বাছনি কৰা অংশত মন্তব্য দিয়ক",
   "writer.lookup.error.missingKey": "অনুবাদ কৰাৰ আগতে আপোনাৰ একাউণ্টত এটা DeepL কী সংৰক্ষণ কৰক।",
   "writer.lookup.error.rejected": "DeepL-এ সংৰক্ষিত কীটো অগ্ৰাহ্য কৰিলে। আপোনাৰ একাউণ্টৰ কীসমূহত ইয়াক পৰীক্ষা কৰক।",
   "writer.lookup.error.quota": "DeepL-এ এই অনুবাদটো কৰিব নোৱাৰিলে। সেই কীটোৰ কোটা হয়তো শেষ হৈ গৈছে।",

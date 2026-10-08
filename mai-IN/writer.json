@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "DeepL मे खोलू",
   "writer.lookup.openGoogle": "Google Translate मे खोलू",
   "writer.lookup.selection": "चयनित पाठ खोजू",
+  "writer.comment.selection": "चयनित पाठ पर टिप्पणी करू",
   "writer.lookup.error.missingKey": "अनुवाद करबासँ पहिने अपन खातामे DeepL की सहेजू।",
   "writer.lookup.error.rejected": "DeepL सहेजल की अस्वीकार कऽ देलक। एकरा अपन खाताक की सभमे जाँचू।",
   "writer.lookup.error.quota": "DeepL ई अनुवाद नहि कऽ सकल। संभव अछि जे ओहि कीक कोटा खतम भऽ गेल हो।",

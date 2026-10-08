@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Bukak ing DeepL",
   "writer.lookup.openGoogle": "Bukak ing Google Translate",
   "writer.lookup.selection": "Goleki tegese teks sing dipilih",
+  "writer.comment.selection": "Komentari teks sing dipilih",
   "writer.lookup.error.missingKey": "Simpen kunci DeepL ing akun sampeyan sadurunge nerjemahake.",
   "writer.lookup.error.rejected": "DeepL nolak kunci sing disimpen. Priksa kunci kasebut ing akun sampeyan.",
   "writer.lookup.error.quota": "DeepL ora bisa nampa terjemahan iki. Kuota kunci kasebut bisa uga wis entek.",

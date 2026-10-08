@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "DeepLで開く",
   "writer.lookup.openGoogle": "Google Translateで開く",
   "writer.lookup.selection": "選択個所を辞書で調べる",
+  "writer.comment.selection": "選択個所にコメントする",
   "writer.lookup.error.missingKey": "翻訳する前に、アカウントにDeepLのキーを保存してください。",
   "writer.lookup.error.rejected": "DeepLが保存されたキーを拒否しました。アカウントの「APIとサービスキー」で確認してください。",
   "writer.lookup.error.quota": "DeepLでこの翻訳を処理できませんでした。このキーの利用上限に達している可能性があります。",

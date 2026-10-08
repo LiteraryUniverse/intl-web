@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Obre a DeepL",
   "writer.lookup.openGoogle": "Obre a Google Translate",
   "writer.lookup.selection": "Cercar la selecció",
+  "writer.comment.selection": "Comentar la selecció",
   "writer.lookup.error.missingKey": "Desa una clau de DeepL al teu compte abans de traduir.",
   "writer.lookup.error.rejected": "DeepL ha rebutjat la clau desada. Revisa-la a les claus del teu compte.",
   "writer.lookup.error.quota": "DeepL no ha pogut fer aquesta traducció. Potser s’ha esgotat la quota d’aquesta clau.",

@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "kalri ne'i la'o gy. DeepL .gy",
   "writer.lookup.openGoogle": "kalri ne'i la'o gy. Google Translate .gy",
   "writer.lookup.selection": "sisku lo se cuxna",
+  "writer.comment.selection": "ciska lo pinka be lo se cuxna",
   "writer.lookup.error.missingKey": ".i ko rejgau lo ckiku be la'o gy. DeepL .gy fi le do jaspu pu lo nu fanva",
   "writer.lookup.error.rejected": ".i la'o gy. DeepL .gy pu na zanru le ckiku poi do rejgau .i ko catlu le ckiku bu'u le do jaspu ckiku",
   "writer.lookup.error.quota": ".i la'o gy. DeepL .gy pu na kakne lo nu fanva ti .i ju'ocu'i le ni curmi pe le ckiku cu mo'u se pilno",

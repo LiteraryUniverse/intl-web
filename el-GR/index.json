@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Άνοιγμα στο DeepL",
   "writer.lookup.openGoogle": "Άνοιγμα στο Google Translate",
   "writer.lookup.selection": "Αναζήτηση της επιλογής",
+  "writer.comment.selection": "Σχολιασμός της επιλογής",
   "writer.lookup.error.missingKey": "Αποθηκεύστε ένα κλειδί DeepL στον λογαριασμό σας πριν από τη μετάφραση.",
   "writer.lookup.error.rejected": "Το DeepL απέρριψε το αποθηκευμένο κλειδί. Ελέγξτε το στα Κλειδιά λογαριασμού.",
   "writer.lookup.error.quota": "Το DeepL δεν μπόρεσε να εκτελέσει αυτή τη μετάφραση. Το όριο χρήσης αυτού του κλειδιού ίσως έχει εξαντληθεί.",

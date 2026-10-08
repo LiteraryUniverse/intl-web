@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Atverti DeepL",
   "writer.lookup.openGoogle": "Atverti Google Translate",
   "writer.lookup.selection": "Ieškoti pasirinkimo žodynuose",
+  "writer.comment.selection": "Komentuoti pasirinkimą",
   "writer.lookup.error.missingKey": "Prieš versdami išsaugokite DeepL raktą savo paskyroje.",
   "writer.lookup.error.rejected": "DeepL atmetė išsaugotą raktą. Patikrinkite jį skiltyje „Paskyros raktai“.",
   "writer.lookup.error.quota": "DeepL negalėjo atlikti šio vertimo. Galbūt šio rakto kvota jau išnaudota.",

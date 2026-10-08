@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Avaa palvelussa DeepL",
   "writer.lookup.openGoogle": "Avaa palvelussa Google Translate",
   "writer.lookup.selection": "Hae valinta sanakirjasta",
+  "writer.comment.selection": "Kommentoi valintaa",
   "writer.lookup.error.missingKey": "Tallenna DeepL-avain tilillesi ennen kääntämistä.",
   "writer.lookup.error.rejected": "DeepL hylkäsi tallennetun avaimen. Tarkista avain kohdassa Tilin avaimet.",
   "writer.lookup.error.quota": "DeepL ei voinut tehdä tätä käännöstä. Avaimen kiintiö saattaa olla käytetty loppuun.",

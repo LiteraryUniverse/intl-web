@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Open in DeepL",
   "writer.lookup.openGoogle": "Open in Google Translate",
   "writer.lookup.selection": "Look up the selection",
+  "writer.comment.selection": "Comment on the selection",
   "writer.lookup.error.missingKey": "Save a DeepL key in your account before translating.",
   "writer.lookup.error.rejected": "DeepL rejected the saved key. Check it in your account keys.",
   "writer.lookup.error.quota": "DeepL could not take this translation. The quota on that key may be used up.",

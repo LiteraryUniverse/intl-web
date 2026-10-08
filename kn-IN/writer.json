@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "DeepL ನಲ್ಲಿ ತೆರೆಯಿರಿ",
   "writer.lookup.openGoogle": "Google Translate ನಲ್ಲಿ ತೆರೆಯಿರಿ",
   "writer.lookup.selection": "ಆಯ್ಕೆಯನ್ನು ನಿಘಂಟಿನಲ್ಲಿ ನೋಡಿ",
+  "writer.comment.selection": "ಆಯ್ಕೆಯ ಮೇಲೆ ಟಿಪ್ಪಣಿ ಬರೆಯಿರಿ",
   "writer.lookup.error.missingKey": "ಅನುವಾದಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ DeepL ಕೀ ಉಳಿಸಿ.",
   "writer.lookup.error.rejected": "ಉಳಿಸಿದ ಕೀಯನ್ನು DeepL ತಿರಸ್ಕರಿಸಿದೆ. ನಿಮ್ಮ ಖಾತೆಯ ಕೀಗಳಲ್ಲಿ ಅದನ್ನು ಪರಿಶೀಲಿಸಿ.",
   "writer.lookup.error.quota": "DeepL ಈ ಅನುವಾದವನ್ನು ಸ್ವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಆ ಕೀಯ ಕೋಟಾ ಮುಗಿದಿರಬಹುದು.",

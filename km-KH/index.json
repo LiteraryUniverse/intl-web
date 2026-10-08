@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "បើកក្នុង DeepL",
   "writer.lookup.openGoogle": "បើកក្នុង Google Translate",
   "writer.lookup.selection": "រកមើលអត្ថបទដែលបានជ្រើសរើស",
+  "writer.comment.selection": "បញ្ចេញមតិលើអត្ថបទដែលបានជ្រើសរើស",
   "writer.lookup.error.missingKey": "សូមរក្សាទុកកូនសោ DeepL ក្នុងគណនីរបស់អ្នកមុនពេលបកប្រែ។",
   "writer.lookup.error.rejected": "DeepL បានបដិសេធកូនសោដែលបានរក្សាទុក។ សូមពិនិត្យកូនសោនោះក្នុងគណនីរបស់អ្នក។",
   "writer.lookup.error.quota": "DeepL មិនអាចទទួលការបកប្រែនេះបានទេ។ កូតារបស់កូនសោនោះប្រហែលជាអស់ហើយ។",

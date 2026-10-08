@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Malfermi en DeepL",
   "writer.lookup.openGoogle": "Malfermi en Google Translate",
   "writer.lookup.selection": "Serĉi la elekton",
+  "writer.comment.selection": "Komenti la elekton",
   "writer.lookup.error.missingKey": "Konservu DeepL-ŝlosilon en via konto antaŭ ol traduki.",
   "writer.lookup.error.rejected": "DeepL malakceptis la konservitan ŝlosilon. Kontrolu ĝin en viaj kontaj ŝlosiloj.",
   "writer.lookup.error.quota": "DeepL ne povis plenumi ĉi tiun tradukon. Eble la kvoto de tiu ŝlosilo estas elĉerpita.",

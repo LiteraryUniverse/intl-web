@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "Otevřít v DeepL",
   "writer.lookup.openGoogle": "Otevřít v Google Translate",
   "writer.lookup.selection": "Vyhledat výběr ve slovníku",
+  "writer.comment.selection": "Okomentovat výběr",
   "writer.lookup.error.missingKey": "Před překladem si do účtu uložte klíč DeepL.",
   "writer.lookup.error.rejected": "DeepL uložený klíč odmítl. Zkontrolujte ho v účtu v sekci API & Servisní klíče.",
   "writer.lookup.error.quota": "DeepL tento překlad nepřijal. Kvóta tohoto klíče je možná vyčerpaná.",

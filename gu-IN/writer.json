@@ -47,6 +47,7 @@
   "writer.lookup.openDeepl": "DeepL માં ખોલો",
   "writer.lookup.openGoogle": "Google Translate માં ખોલો",
   "writer.lookup.selection": "પસંદગી શબ્દકોશમાં જુઓ",
+  "writer.comment.selection": "પસંદગી પર ટિપ્પણી કરો",
   "writer.lookup.error.missingKey": "અનુવાદ કરતાં પહેલાં તમારા એકાઉન્ટમાં DeepL કી સાચવો.",
   "writer.lookup.error.rejected": "DeepL એ સાચવેલી કી નકારી. તેને તમારી એકાઉન્ટ કીઓમાં તપાસો.",
   "writer.lookup.error.quota": "DeepL આ અનુવાદ સ્વીકારી શક્યું નહીં. કદાચ તે કીનો ક્વોટા પૂરો થઈ ગયો છે.",

@@ -6578,6 +6578,7 @@
   "writer.lookup.openDeepl": "Megnyitás a DeepL-ben",
   "writer.lookup.openGoogle": "Megnyitás a Google Translate-ben",
   "writer.lookup.selection": "Kijelölés keresése a szótárban",
+  "writer.comment.selection": "Megjegyzés a kijelöléshez",
   "writer.lookup.error.missingKey": "Fordítás előtt mentsen el egy DeepL-kulcsot a fiókjába.",
   "writer.lookup.error.rejected": "A DeepL elutasította a mentett kulcsot. Ellenőrizze a Fiókkulcsok oldalon.",
   "writer.lookup.error.quota": "A DeepL nem tudta elvégezni ezt a fordítást. Lehet, hogy elfogyott a kulcs kerete.",
