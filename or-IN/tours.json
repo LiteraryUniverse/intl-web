@@ -404,6 +404,10 @@
       "title": "Commenting Interface",
       "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
     },
+    "passage": {
+      "title": "ଏକ ଅଂଶ ଉପରେ ମତ ଦିଅନ୍ତୁ",
+      "content": "ଲେଖାରେ ଏକ ଅଂଶ ଚୟନ କରନ୍ତୁ ଏବଂ ଆପଣଙ୍କ ମତରେ ଏହାକୁ ଉଦ୍ଧୃତ କରିବାକୁ ଦେଖାଯାଉଥିବା ସ୍ପିଚ୍ ବବଲ୍ ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ। ମତରେ ଉଦ୍ଧୃତ ଅଂଶ ଉପରେ କ୍ଲିକ୍ କଲେ ଲେଖାରେ ସେହି ସ୍ଥାନକୁ ଯିବେ।"
+    },
     "readingTools": {
       "title": "Reading Tools",
       "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."

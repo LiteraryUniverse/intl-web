@@ -404,6 +404,10 @@
       "title": "Interface ng pagkokomento",
       "content": "Sa panel ng mga komento, makikita mo ang mga puna ng ibang beta reader at makakapagdagdag ka ng sa iyo. Gamitin ang kahon ng komento sa ibaba para ibahagi ang iyong saloobin. Maging tiyak sa kung ano ang mahusay at kung ano ang maaari pang pagbutihin; pinakanakakatulong ang punang nakabubuti!"
     },
+    "passage": {
+      "title": "Magkomento sa isang sipi",
+      "content": "Pumili ng sipi sa teksto at i-click ang lumalabas na speech bubble para sipiin ito sa iyong komento. Sa mga komento, i-click ang sinipi para pumunta rito sa teksto."
+    },
     "readingTools": {
       "title": "Mga tool sa pagbabasa",
       "content": "Gamitin ang mga tool na ito para i-customize ang iyong karanasan sa pagbabasa. Maaari mong ayusin ang laki ng teksto, i-toggle ang dark mode, at i-on ang mga feature ng accessibility gaya ng font na Open Dyslexic o pag-highlight ng talata para mas komportable ang pagbabasa."

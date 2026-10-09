@@ -404,6 +404,10 @@
       "title": "Interfaccia dei commenti",
       "content": "Nel pannello dei commenti vedi i riscontri degli altri lettori beta e puoi aggiungere i tuoi. Usa il campo in basso per condividere le tue impressioni. Indica con precisione cosa funziona e cosa si potrebbe migliorare: i riscontri costruttivi sono i più utili!"
     },
+    "passage": {
+      "title": "Commenta un passaggio",
+      "content": "Seleziona un passaggio nel testo e fai clic sul fumetto che compare per citarlo nel tuo commento. Nei commenti, fai clic su un passaggio citato per raggiungerlo nel testo."
+    },
     "readingTools": {
       "title": "Strumenti di lettura",
       "content": "Usa questi strumenti per personalizzare la lettura. Puoi regolare la dimensione del testo, attivare la modalità scura e funzioni di accessibilità come il font Open Dyslexic o l'evidenziazione dei paragrafi, per leggere più comodamente."

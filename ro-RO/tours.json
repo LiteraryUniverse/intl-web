@@ -404,6 +404,10 @@
       "title": "Interfața de comentarii",
       "content": "În panoul de comentarii vezi feedbackul deja lăsat de alți cititori beta și îl poți adăuga pe al tău. Folosește caseta de comentarii din partea de jos pentru a-ți împărtăși părerile. Spune concret ce funcționează bine și ce ar putea fi îmbunătățit: feedbackul constructiv este cel mai util!"
     },
+    "passage": {
+      "title": "Comentați un pasaj",
+      "content": "Selectați un pasaj din text și dați clic pe balonul care apare pentru a-l cita în comentariu. În comentarii, dați clic pe un pasaj citat pentru a ajunge la el în text."
+    },
     "readingTools": {
       "title": "Instrumente de lectură",
       "content": "Folosește aceste instrumente pentru a-ți personaliza experiența de lectură. Poți ajusta dimensiunea textului, comuta modul întunecat și activa funcții de accesibilitate precum fontul Open Dyslexic sau evidențierea paragrafelor, pentru o lectură mai confortabilă."

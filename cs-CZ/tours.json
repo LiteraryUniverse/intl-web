@@ -404,6 +404,10 @@
       "title": "Rozhraní pro komentáře",
       "content": "V panelu komentářů vidíte zpětnou vazbu od ostatních beta čtenářů a můžete přidat vlastní. O své postřehy se podělte v poli pro komentář dole. Buďte konkrétní v tom, co funguje dobře a co by šlo zlepšit. Nejvíc pomůže konstruktivní zpětná vazba!"
     },
+    "passage": {
+      "title": "Komentář k pasáži",
+      "content": "Označte pasáž v textu a klikněte na bublinu, která se objeví, aby se pasáž citovala v komentáři. V komentářích kliknutím na citovanou pasáž přejdete na její místo v textu."
+    },
     "readingTools": {
       "title": "Nástroje pro čtení",
       "content": "Těmito nástroji si čtení přizpůsobíte. Můžete upravit velikost textu, přepnout tmavý režim a zapnout funkce přístupnosti, jako je písmo Open Dyslexic nebo zvýrazňování odstavců, aby se Vám četlo pohodlněji."

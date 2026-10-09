@@ -404,6 +404,10 @@
       "title": "Rozhranie na komentáre",
       "content": "V paneli komentárov vidíte spätnú väzbu od ostatných beta čitateľov a môžete pridať vlastnú. O svoje postrehy sa podeľte v poli na komentár dole. Buďte konkrétni v tom, čo funguje dobre a čo by sa dalo zlepšiť. Najviac pomôže konštruktívna spätná väzba!"
     },
+    "passage": {
+      "title": "Komentár k pasáži",
+      "content": "Označte pasáž v texte a kliknite na bublinu, ktorá sa objaví, aby sa citovala vo vašom komentári. V komentároch kliknutím na citovanú pasáž prejdete na jej miesto v texte."
+    },
     "readingTools": {
       "title": "Nástroje na čítanie",
       "content": "Týmito nástrojmi si čítanie prispôsobíte. Môžete upraviť veľkosť textu, prepnúť tmavý režim a zapnúť funkcie prístupnosti, ako je písmo Open Dyslexic alebo zvýrazňovanie odsekov, aby sa vám čítalo pohodlnejšie."

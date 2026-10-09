@@ -404,6 +404,10 @@
       "title": "Yorum arayüzü",
       "content": "Yorum panelinde diğer beta okuyucuların bıraktığı geri bildirimleri görebilir ve kendinizinkini ekleyebilirsiniz. Düşüncelerinizi paylaşmak için alttaki yorum kutusunu kullanın. Neyin iyi işlediğini ve neyin geliştirilebileceğini somut biçimde belirtin; en yararlı geri bildirim yapıcı olandır!"
     },
+    "passage": {
+      "title": "Bir pasaja yorum yap",
+      "content": "Metinde bir pasaj seçin ve yorumunuzda alıntılamak için beliren konuşma balonuna tıklayın. Yorumlarda alıntılanan bir pasaja tıklayarak metinde o yere gidin."
+    },
     "readingTools": {
       "title": "Okuma araçları",
       "content": "Okuma deneyiminizi kişiselleştirmek için bu araçları kullanın. Okumayı daha rahat hale getirmek için metin boyutunu ayarlayabilir, koyu modu açıp kapatabilir ve Open Dyslexic yazı tipi veya paragraf vurgulama gibi erişilebilirlik özelliklerini etkinleştirebilirsiniz."

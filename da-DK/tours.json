@@ -404,6 +404,10 @@
       "title": "Kommentarpanelet",
       "content": "I kommentarpanelet kan du se feedback fra andre betalæsere og tilføje din egen. Brug kommentarfeltet nederst til at dele dine tanker. Vær konkret om, hvad der fungerer godt, og hvad der kan blive bedre – konstruktiv feedback hjælper mest!"
     },
+    "passage": {
+      "title": "Kommentér en passage",
+      "content": "Markér en passage i teksten, og klik på taleboblen, der dukker op, for at citere den i din kommentar. Klik på en citeret passage i kommentarerne for at springe til den i teksten."
+    },
     "readingTools": {
       "title": "Læseværktøjer",
       "content": "Brug disse værktøjer til at tilpasse din læseoplevelse. Du kan justere tekststørrelsen, slå mørk tilstand til og fra og aktivere tilgængelighedsfunktioner som skrifttypen Open Dyslexic eller fremhævning af afsnit, så det bliver mere behageligt at læse."

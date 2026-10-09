@@ -404,6 +404,10 @@
       "title": "Giao diện bình luận",
       "content": "Trong bảng bình luận, bạn có thể xem phản hồi của các độc giả beta khác và thêm phản hồi của mình. Dùng ô bình luận ở phía dưới để chia sẻ suy nghĩ. Hãy nói cụ thể điều gì đã tốt và điều gì có thể cải thiện; phản hồi mang tính xây dựng là hữu ích nhất!"
     },
+    "passage": {
+      "title": "Bình luận về một đoạn",
+      "content": "Chọn một đoạn trong văn bản rồi nhấn vào bong bóng thoại hiện ra để trích dẫn vào bình luận của bạn. Trong phần bình luận, nhấn vào đoạn được trích dẫn để chuyển đến vị trí đó trong văn bản."
+    },
     "readingTools": {
       "title": "Công cụ đọc",
       "content": "Dùng các công cụ này để tùy chỉnh trải nghiệm đọc. Bạn có thể điều chỉnh cỡ chữ, bật chế độ tối và bật các tính năng trợ năng như phông chữ Open Dyslexic hoặc tô sáng đoạn văn để đọc thoải mái hơn."

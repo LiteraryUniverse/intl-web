@@ -404,6 +404,10 @@
       "title": "Interface de comentários",
       "content": "No painel de comentários, você vê o feedback de outros leitores beta e adiciona o seu. Use a caixa de comentários na parte inferior para compartilhar o que pensa. Seja específico sobre o que funciona bem e o que pode melhorar: o feedback construtivo é o mais útil!"
     },
+    "passage": {
+      "title": "Comentar um trecho",
+      "content": "Selecione um trecho do texto e clique no balão que aparece para citá-lo no seu comentário. Nos comentários, clique em um trecho citado para ir até ele no texto."
+    },
     "readingTools": {
       "title": "Ferramentas de leitura",
       "content": "Use estas ferramentas para personalizar sua experiência de leitura. Você pode ajustar o tamanho do texto, alternar o modo escuro e ativar recursos de acessibilidade, como a fonte Open Dyslexic ou o destaque de parágrafos, para ler com mais conforto."

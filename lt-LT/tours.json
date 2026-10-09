@@ -404,6 +404,10 @@
       "title": "Komentavimo sąsaja",
       "content": "Komentarų skydelyje matote kitų beta skaitytojų atsiliepimus ir galite pridėti savo. Pasidalykite mintimis komentaro laukelyje apačioje. Rašykite konkrečiai, kas pavyko gerai ir ką galima patobulinti: naudingiausi yra konstruktyvūs atsiliepimai!"
     },
+    "passage": {
+      "title": "Komentuoti ištrauką",
+      "content": "Pažymėkite ištrauką tekste ir spustelėkite pasirodžiusį kalbos debesėlį, kad pacituotumėte ją savo komentare. Komentaruose spustelėję cituojamą ištrauką pereisite į jos vietą tekste."
+    },
     "readingTools": {
       "title": "Skaitymo įrankiai",
       "content": "Šiais įrankiais pritaikykite skaitymą sau. Galite pakeisti teksto dydį, įjungti tamsų režimą ir pritaikymo neįgaliesiems funkcijas, pavyzdžiui, šriftą Open Dyslexic arba pastraipų paryškinimą, kad skaityti būtų patogiau."

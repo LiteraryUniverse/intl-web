@@ -404,6 +404,10 @@
       "title": "Interfaz de comentarios",
       "content": "En el panel de comentarios puedes ver las opiniones de otros lectores beta y añadir las tuyas. Usa el cuadro de comentarios de la parte inferior para compartir lo que piensas. Concreta qué funciona bien y qué se podría mejorar: ¡la crítica constructiva es la más útil!"
     },
+    "passage": {
+      "title": "Comentar un pasaje",
+      "content": "Selecciona un pasaje del texto y haz clic en el bocadillo que aparece para citarlo en tu comentario. En los comentarios, haz clic en un pasaje citado para ir a él en el texto."
+    },
     "readingTools": {
       "title": "Herramientas de lectura",
       "content": "Usa estas herramientas para personalizar tu experiencia de lectura. Puedes ajustar el tamaño del texto, activar el modo oscuro y habilitar funciones de accesibilidad como la tipografía Open Dyslexic o el resaltado de párrafos para leer con más comodidad."

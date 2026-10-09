@@ -404,6 +404,10 @@
       "title": "Interfejs komentarzy",
       "content": "W panelu komentarzy widzisz uwagi innych beta-czytelników i możesz dodać własne. Podziel się przemyśleniami w polu komentarza na dole. Pisz konkretnie, co działa dobrze, a co można poprawić. Najbardziej pomagają konstruktywne uwagi!"
     },
+    "passage": {
+      "title": "Skomentuj fragment",
+      "content": "Zaznacz fragment w tekście i kliknij dymek, który się pojawi, aby zacytować go w komentarzu. W komentarzach kliknij cytowany fragment, aby przejść do niego w tekście."
+    },
     "readingTools": {
       "title": "Narzędzia do czytania",
       "content": "Tymi narzędziami dostosujesz czytanie do siebie. Możesz zmienić rozmiar tekstu, przełączyć tryb ciemny i włączyć ułatwienia dostępu, takie jak czcionka Open Dyslexic lub podświetlanie akapitów, aby czytało się wygodniej."

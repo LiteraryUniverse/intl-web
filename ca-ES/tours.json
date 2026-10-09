@@ -404,6 +404,10 @@
       "title": "Interfície de comentaris",
       "content": "Al panell de comentaris veus les opinions d'altres lectors beta i hi pots afegir les teves. Fes servir el quadre de comentaris de sota per compartir què en penses. Concreta què funciona bé i què es podria millorar: les crítiques constructives són les més útils!"
     },
+    "passage": {
+      "title": "Comentar un passatge",
+      "content": "Selecciona un passatge del text i fes clic a la bafarada que apareix per citar-lo al teu comentari. Als comentaris, fes clic en un passatge citat per anar-hi al text."
+    },
     "readingTools": {
       "title": "Eines de lectura",
       "content": "Fes servir aquestes eines per adaptar la lectura al teu gust. Pots ajustar la mida del text, activar el mode fosc i funcions d'accessibilitat com la lletra Open Dyslexic o el ressaltat de paràgrafs per llegir amb més comoditat."

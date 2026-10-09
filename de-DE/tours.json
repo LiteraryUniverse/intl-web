@@ -404,6 +404,10 @@
       "title": "Die Kommentaransicht",
       "content": "Im Kommentarbereich siehst du das Feedback anderer Beta-Leser und kannst dein eigenes hinzufügen. Schreibe deine Gedanken in das Kommentarfeld unten. Sag konkret, was gut funktioniert und was besser werden könnte - konstruktives Feedback hilft am meisten!"
     },
+    "passage": {
+      "title": "Eine Passage kommentieren",
+      "content": "Markieren Sie eine Passage im Text und klicken Sie auf die erscheinende Sprechblase, um sie in Ihrem Kommentar zu zitieren. In den Kommentaren springen Sie per Klick auf eine zitierte Passage zur Stelle im Text."
+    },
     "readingTools": {
       "title": "Lesewerkzeuge",
       "content": "Mit diesen Werkzeugen passt du dein Leseerlebnis an. Du kannst die Textgröße ändern, den Dunkelmodus umschalten und Funktionen für Barrierefreiheit wie die Schrift Open Dyslexic oder die Absatzhervorhebung einschalten, damit das Lesen angenehmer wird."

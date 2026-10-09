@@ -404,6 +404,10 @@
       "title": "Interfaco de komentado",
       "content": "En la panelo de komentoj vi vidas la rimarkojn de aliaj beta-legantoj kaj povas aldoni viajn proprajn. Uzu la komentan kampon malsupre por dividi viajn pensojn. Estu konkreta pri tio, kio bone funkcias kaj kio estus plibonigebla – konstruaj rimarkoj plej helpas!"
     },
+    "passage": {
+      "title": "Komenti pasaĵon",
+      "content": "Elektu pasaĵon en la teksto kaj alklaku la aperantan parolvezikon por citi ĝin en via komento. En la komentoj, alklaku cititan pasaĵon por salti al ĝi en la teksto."
+    },
     "readingTools": {
       "title": "Legiloj",
       "content": "Uzu ĉi tiujn ilojn por adapti vian legadon. Vi povas alĝustigi la grandecon de la teksto, ŝalti la malhelan reĝimon kaj aktivigi funkciojn de alirebleco, kiel la tiparon Open Dyslexic aŭ la emfazon de alineoj, por pli komforta legado."

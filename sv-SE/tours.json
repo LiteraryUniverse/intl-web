@@ -404,6 +404,10 @@
       "title": "Kommentarspanelen",
       "content": "I kommentarspanelen kan du se återkoppling från andra betaläsare och lägga till din egen. Använd kommentarsfältet längst ner för att dela dina tankar. Var konkret med vad som fungerar bra och vad som kan bli bättre – konstruktiv återkoppling hjälper mest!"
     },
+    "passage": {
+      "title": "Kommentera ett stycke",
+      "content": "Markera ett stycke i texten och klicka på pratbubblan som dyker upp för att citera det i din kommentar. I kommentarerna klickar du på ett citerat stycke för att hoppa dit i texten."
+    },
     "readingTools": {
       "title": "Läsverktyg",
       "content": "Använd de här verktygen för att anpassa din läsupplevelse. Du kan justera textstorleken, slå på och av mörkt läge och aktivera tillgänglighetsfunktioner som typsnittet Open Dyslexic eller markering av stycken, så att det blir bekvämare att läsa."

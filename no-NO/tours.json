@@ -404,6 +404,10 @@
       "title": "Kommentarpanelet",
       "content": "I kommentarpanelet kan du se tilbakemeldinger fra andre betalesere og legge til dine egne. Bruk kommentarfeltet nederst til å dele tankene dine. Vær konkret om hva som fungerer godt, og hva som kan bli bedre – konstruktive tilbakemeldinger hjelper mest!"
     },
+    "passage": {
+      "title": "Kommenter en passasje",
+      "content": "Marker en passasje i teksten og klikk på snakkeboblen som dukker opp for å sitere den i kommentaren din. I kommentarene klikker du på en sitert passasje for å hoppe til den i teksten."
+    },
     "readingTools": {
       "title": "Leseverktøy",
       "content": "Bruk disse verktøyene til å tilpasse leseopplevelsen din. Du kan justere tekststørrelsen, slå mørk modus av og på og aktivere tilgjengelighetsfunksjoner som skriften Open Dyslexic eller utheving av avsnitt, slik at det blir mer behagelig å lese."

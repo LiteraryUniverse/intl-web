@@ -404,6 +404,10 @@
       "title": "Kommenteerimisliides",
       "content": "Kommentaaride paneelil näed teiste beetalugejate tagasisidet ja saad lisada enda oma. Jaga oma mõtteid allosas olevas kommentaarikastis. Ole konkreetne selles, mis toimib hästi ja mida saaks parandada – konstruktiivne tagasiside on kõige kasulikum!"
     },
+    "passage": {
+      "title": "Kommenteeri lõiku",
+      "content": "Vali tekstis lõik ja klõpsa ilmuvat jutumulli, et see oma kommentaaris tsiteerida. Kommentaarides klõpsa tsiteeritud lõiku, et hüpata selle juurde tekstis."
+    },
     "readingTools": {
       "title": "Lugemistööriistad",
       "content": "Nende tööriistadega kohandad oma lugemiskogemust. Saad muuta teksti suurust, lülitada sisse tumeda režiimi ja kasutada hõlbustusfunktsioone, nagu Open Dyslexic font või lõikude esiletõstmine, et lugemine oleks mugavam."

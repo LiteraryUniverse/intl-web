@@ -404,6 +404,10 @@
       "title": "Commenting Interface",
       "content": "In the comments panel, you can see existing feedback from other beta readers and add your own. Use the comment box at the bottom to share your thoughts. Be specific about what works well and what could be improved - constructive feedback is most helpful!"
     },
+    "passage": {
+      "title": "Comment on a passage",
+      "content": "Select a passage in the text and click the speech bubble that appears to quote it in your comment. In the comments, click a quoted passage to jump to it in the text."
+    },
     "readingTools": {
       "title": "Reading Tools",
       "content": "Use these tools to customize your reading experience. You can adjust text size, toggle dark mode, and enable accessibility features like Open Dyslexic font or paragraph highlighting to make reading more comfortable."

@@ -404,6 +404,10 @@
       "title": "Kommentointinäkymä",
       "content": "Kommenttipaneelissa näet muiden betalukijoiden palautteen ja voit lisätä omasi. Jaa ajatuksesi alareunan kommenttikentässä. Kerro tarkasti, mikä toimii hyvin ja mitä voisi parantaa – rakentava palaute auttaa eniten!"
     },
+    "passage": {
+      "title": "Kommentoi katkelmaa",
+      "content": "Valitse tekstistä katkelma ja napsauta ilmestyvää puhekuplaa lainataksesi sen kommenttiisi. Kommenteissa napsauta lainattua katkelmaa siirtyäksesi sen kohdalle tekstissä."
+    },
     "readingTools": {
       "title": "Lukutyökalut",
       "content": "Näillä työkaluilla mukautat lukukokemustasi. Voit säätää tekstin kokoa, vaihtaa tumman tilan päälle ja ottaa käyttöön saavutettavuusominaisuuksia, kuten Open Dyslexic -fontin tai kappaleiden korostuksen, jotta lukeminen on mukavampaa."

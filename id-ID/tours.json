@@ -404,6 +404,10 @@
       "title": "Antarmuka komentar",
       "content": "Di panel komentar, Anda dapat melihat masukan dari pembaca beta lain dan menambahkan masukan Anda sendiri. Gunakan kotak komentar di bagian bawah untuk membagikan pendapat Anda. Jelaskan secara spesifik apa yang sudah baik dan apa yang bisa diperbaiki; masukan yang membangun adalah yang paling membantu!"
     },
+    "passage": {
+      "title": "Komentari sebuah bagian",
+      "content": "Pilih sebuah bagian dalam teks dan klik gelembung ucapan yang muncul untuk mengutipnya dalam komentar Anda. Di komentar, klik bagian yang dikutip untuk melompat ke tempatnya dalam teks."
+    },
     "readingTools": {
       "title": "Alat membaca",
       "content": "Gunakan alat-alat ini untuk menyesuaikan pengalaman membaca Anda. Anda dapat mengatur ukuran teks, mengaktifkan mode gelap, dan menyalakan fitur aksesibilitas seperti fon Open Dyslexic atau penyorotan paragraf agar membaca lebih nyaman."

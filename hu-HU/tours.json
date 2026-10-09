@@ -404,6 +404,10 @@
       "title": "A megjegyzések felülete",
       "content": "A megjegyzések paneljén láthatod a többi bétaolvasó visszajelzéseit, és hozzáadhatod a sajátodat. Az alul található megjegyzésmezőben oszthatod meg a gondolataidat. Fogalmazz konkrétan arról, mi működik jól, és min lehetne javítani – az építő jellegű visszajelzés segít a legtöbbet!"
     },
+    "passage": {
+      "title": "Megjegyzés egy részlethez",
+      "content": "Jelöljön ki egy részletet a szövegben, és kattintson a megjelenő szövegbuborékra, hogy idézze a megjegyzésében. A megjegyzésekben az idézett részletre kattintva a szövegben a helyére ugrik."
+    },
     "readingTools": {
       "title": "Olvasási eszközök",
       "content": "Ezekkel az eszközökkel szabhatod testre az olvasási élményt. Állíthatod a szövegméretet, be- és kikapcsolhatod a sötét módot, és bekapcsolhatsz olyan akadálymentesítési funkciókat, mint az Open Dyslexic betűtípus vagy a bekezdéskiemelés, hogy kényelmesebb legyen az olvasás."

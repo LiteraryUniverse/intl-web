@@ -404,6 +404,10 @@
       "title": "Antara muka komen",
       "content": "Dalam panel komen, anda boleh melihat maklum balas sedia ada daripada pembaca beta lain dan menambah maklum balas anda sendiri. Gunakan kotak komen di bahagian bawah untuk berkongsi pandangan anda. Nyatakan dengan khusus apa yang sudah baik dan apa yang boleh diperbaiki; maklum balas yang membina paling membantu!"
     },
+    "passage": {
+      "title": "Komen pada petikan",
+      "content": "Pilih petikan dalam teks dan klik gelembung ucapan yang muncul untuk memetiknya dalam komen anda. Dalam komen, klik petikan yang dipetik untuk melompat ke tempatnya dalam teks."
+    },
     "readingTools": {
       "title": "Alat membaca",
       "content": "Gunakan alat-alat ini untuk menyesuaikan pengalaman membaca anda. Anda boleh melaraskan saiz teks, menghidupkan mod gelap dan mengaktifkan ciri kebolehcapaian seperti fon Open Dyslexic atau penyerlahan perenggan supaya membaca lebih selesa."

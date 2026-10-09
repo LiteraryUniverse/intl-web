@@ -404,6 +404,10 @@
       "title": "Interface de commentaires",
       "content": "Dans le panneau des commentaires, vous voyez les retours des autres lecteurs bêta et pouvez ajouter les vôtres. Utilisez la zone de saisie en bas pour partager votre avis. Dites précisément ce qui fonctionne et ce qui pourrait être amélioré : les retours constructifs sont les plus utiles !"
     },
+    "passage": {
+      "title": "Commenter un passage",
+      "content": "Sélectionnez un passage dans le texte et cliquez sur la bulle qui apparaît pour le citer dans votre commentaire. Dans les commentaires, cliquez sur un passage cité pour y accéder dans le texte."
+    },
     "readingTools": {
       "title": "Outils de lecture",
       "content": "Utilisez ces outils pour adapter votre confort de lecture. Vous pouvez ajuster la taille du texte, activer le mode sombre et des fonctions d'accessibilité comme la police Open Dyslexic ou la mise en évidence des paragraphes."
