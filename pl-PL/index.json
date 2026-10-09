@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Skonfiguruj subskrypcję cykliczną",
   "plans.subscription.error.scheduleTrialConversion": "Nie udało się skonfigurować cyklicznych płatności na koniec okresu próbnego. Spróbuj ponownie później.",
   "payments.changeMethod": "Zmień metodę płatności",
-  "plans.subscribed.willNotRenew": "Subskrypcja zostanie zakończona na koniec cyklu.",
+  "plans.subscribed.willNotRenew": "Subskrypcja zostanie zakończona na koniec cyklu",
   "plans.cancel.button": "Anuluj subskrypcję",
   "plans.cancel.question": "Czy na pewno chcesz anulować subskrypcję? Twoja subskrypcja pozostanie aktywna do końca cyklu rozliczeniowego.",
   "plans.cancel.confirmationButton": "Tak, chcę anulować subskrypcję",

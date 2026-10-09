@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Nastaviť opakované predplatné",
   "plans.subscription.error.scheduleTrialConversion": "Nepodarilo sa nastaviť opakovanú fakturáciu na koniec vášho skúšobného obdobia. Skúste to prosím neskôr.",
   "payments.changeMethod": "Zmeniť spôsob platby",
-  "plans.subscribed.willNotRenew": ", sa na konci cyklu neobnoví.",
+  "plans.subscribed.willNotRenew": "Na konci cyklu sa neobnoví",
   "plans.cancel.button": "Zrušiť predplatné",
   "plans.cancel.question": "Ste si istí, že chcete zrušiť svoje predplatné? Vaše predplatné zostane aktívne do konca fakturačného cyklu.",
   "plans.cancel.confirmationButton": "Áno, chcem zrušiť predplatné",

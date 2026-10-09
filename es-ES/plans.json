@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Configurar la suscripción recurrente",
   "plans.subscription.error.scheduleTrialConversion": "No se ha podido configurar la facturación recurrente para el final de su periodo de prueba. Vuelva a intentarlo más tarde.",
   "payments.changeMethod": "Cambiar método de pago",
-  "plans.subscribed.willNotRenew": ", no se renovará al final del ciclo.",
+  "plans.subscribed.willNotRenew": "No se renovará al final del ciclo",
   "plans.cancel.button": "Cancelar suscripción",
   "plans.cancel.question": "¿Estás seguro de que quieres cancelar tu suscripción? Tu suscripción se mantendrá activa hasta el final de facturación.",
   "plans.cancel.confirmationButton": "Sí, quiero cancelar mi suscripción",

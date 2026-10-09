@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Configura la subscripció periòdica",
   "plans.subscription.error.scheduleTrialConversion": "No s'ha pogut configurar la facturació periòdica per al final de la teva prova. Torna-ho a provar més tard.",
   "payments.changeMethod": "Canvia el mètode de pagament",
-  "plans.subscribed.willNotRenew": ", no es renovarà al final del cicle.",
+  "plans.subscribed.willNotRenew": "No es renovarà al final del cicle",
   "plans.cancel.button": "Cancel·la la subscripció",
   "plans.cancel.question": "Esteu segur que voleu cancel·lar la subscripció? La subscripció romandrà activa fins al final del cicle de facturació.",
   "plans.cancel.confirmationButton": "Sí, vull cancel·lar la meva subscripció",

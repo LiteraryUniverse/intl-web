@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Määritä toistuva tilaus",
   "plans.subscription.error.scheduleTrialConversion": "Toistuvaa laskutusta kokeilujaksosi päättymisen ajankohdalle ei voitu määrittää. Yritä myöhemmin uudelleen.",
   "payments.changeMethod": "Vaihda maksutapaa",
-  "plans.subscribed.willNotRenew": ", ei uudistu laskutuskauden päättyessä.",
+  "plans.subscribed.willNotRenew": "Ei uudistu laskutuskauden päättyessä",
   "plans.cancel.button": "Peruuta tilaus",
   "plans.cancel.question": "Haluatko varmasti peruuttaa tilauksesi? Tilaus pysyy aktiivisena laskutuskauden loppuun asti.",
   "plans.cancel.confirmationButton": "Kyllä, haluan peruuttaa tilaukseni",

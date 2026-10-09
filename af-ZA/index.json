@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Stel herhalende intekening op",
   "plans.subscription.error.scheduleTrialConversion": "Kon nie herhalende fakturering vir die einde van jou proeftydperk opstel nie. Probeer asseblief later weer.",
   "payments.changeMethod": "Verander betalingsmetode",
-  "plans.subscribed.willNotRenew": ", sal nie hernu word aan die einde van die siklus nie.",
+  "plans.subscribed.willNotRenew": "Sal nie hernu word aan die einde van die siklus nie",
   "plans.cancel.button": "Kanselleer intekening",
   "plans.cancel.question": "Is jy seker jy wil jou intekening kanselleer? Jou intekening sal aktief bly tot die einde van die faktureringsiklus.",
   "plans.cancel.confirmationButton": "Ja, ek wil my intekening kanselleer",

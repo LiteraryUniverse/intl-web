@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "إعداد اشتراك متكرر",
   "plans.subscription.error.scheduleTrialConversion": "تعذّر إعداد الفوترة المتكررة عند انتهاء فترتك التجريبية. يرجى المحاولة مرة أخرى لاحقاً.",
   "payments.changeMethod": "تغيير طريقة الدفع",
-  "plans.subscribed.willNotRenew": "، لن يتم تجديده في نهاية الدورة.",
+  "plans.subscribed.willNotRenew": "لن يتم تجديده في نهاية الدورة",
   "plans.cancel.button": "إلغاء الاشتراك",
   "plans.cancel.question": "هل أنت متأكد أنك تريد إلغاء اشتراكك؟ سيظل اشتراكك نشطًا حتى نهاية دورة الفوترة.",
   "plans.cancel.confirmationButton": "نعم، أرغب في إلغاء اشتراكي",

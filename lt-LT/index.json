@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Nustatyti periodinę prenumeratą",
   "plans.subscription.error.scheduleTrialConversion": "Nepavyko nustatyti periodinio atsiskaitymo bandomojo laikotarpio pabaigai. Bandykite vėliau.",
   "payments.changeMethod": "Keisti mokėjimo metodą",
-  "plans.subscribed.willNotRenew": ", nebus atnaujinta ciklo pabaigoje.",
+  "plans.subscribed.willNotRenew": "Nebus atnaujinta ciklo pabaigoje",
   "plans.cancel.button": "Atšaukti prenumeratą",
   "plans.cancel.question": "Ar tikrai norite atšaukti savo prenumeratą? Jūsų prenumerata išliks aktyvi iki sąskaitos ciklo pabaigos.",
   "plans.cancel.confirmationButton": "Taip, noriu atšaukti savo prenumeratą",

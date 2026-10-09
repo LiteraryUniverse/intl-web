@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Ismétlődő előfizetés beállítása",
   "plans.subscription.error.scheduleTrialConversion": "Nem sikerült beállítani az ismétlődő számlázást a próbaidőszakod végére. Kérjük, próbáld újra később.",
   "payments.changeMethod": "Fizetési mód megváltoztatása",
-  "plans.subscribed.willNotRenew": ", nem fog megújulni a ciklus végén.",
+  "plans.subscribed.willNotRenew": "Nem fog megújulni a ciklus végén",
   "plans.cancel.button": "Előfizetés megszüntetése",
   "plans.cancel.question": "Biztosan megszüntetni szeretnéd az előfizetésed? Az előfizetésed aktív marad a számlázási ciklus végéig.",
   "plans.cancel.confirmationButton": "Igen, megszeretném szüntetni az előfizetésemet",

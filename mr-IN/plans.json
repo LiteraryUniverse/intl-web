@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "पेमेंट पद्धती बदला",
-  "plans.subscribed.willNotRenew": ", सायकलच्या शेवटी नवीनीकरण केला जाणार नाही.",
+  "plans.subscribed.willNotRenew": "सायकलच्या शेवटी नवीनीकरण केला जाणार नाही",
   "plans.cancel.button": "सदस्यता रद्द करा",
   "plans.cancel.question": "तुम्हाला सुनिश्चित आहे की तुम्ही आपली सदस्यता रद्द करायला येते? तुमची सदस्यता बिलिंग सायकलच्या शेवटीपर्यंत सक्रिय राहणार आहे.",
   "plans.cancel.confirmationButton": "होय, माझी सदस्यता रद्द करायला आहे",

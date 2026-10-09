@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "পুনরাবৃত্ত সাবস্ক্রিপশন সেট আপ করুন",
   "plans.subscription.error.scheduleTrialConversion": "আপনার ট্রায়াল শেষে পুনরাবৃত্ত বিলিং সেট আপ করা যায়নি। অনুগ্রহ করে পরে আবার চেষ্টা করুন।",
   "payments.changeMethod": "পেমেন্ট পদ্ধতি পরিবর্তন করুন",
-  "plans.subscribed.willNotRenew": ", চক্রের শেষে পুনর্নীত হবে না।",
+  "plans.subscribed.willNotRenew": "চক্রের শেষে পুনর্নীত হবে না",
   "plans.cancel.button": "সাবস্ক্রিপশন বাতিল করুন",
   "plans.cancel.question": "আপনি কি নিশ্চিত যে আপনি আপনার সাবস্ক্রিপশন বাতিল করতে চান? আপনার সাবস্ক্রিপশন বিলিং চক্রের শেষ পর্যন্ত সক্রিয় থাকবে।",
   "plans.cancel.confirmationButton": "হ্যাঁ, আমি আমার সাবস্ক্রিপশন বাতিল করতে চাই",

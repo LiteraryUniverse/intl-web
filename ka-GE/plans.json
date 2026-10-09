@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "გადახდის მეთოდის შეცვლა",
-  "plans.subscribed.willNotRenew": ", ციკლის ბოლოს აღარ განახლდება.",
+  "plans.subscribed.willNotRenew": "ციკლის ბოლოს აღარ განახლდება",
   "plans.cancel.button": "გამოწერის გაუქმება",
   "plans.cancel.question": "დარწმუნებული ხართ, რომ გსურთ გამოწერის გაუქმება? თქვენი გამოწერა აქტიური დარჩება ანგარიშსწორების ციკლის ბოლომდე.",
   "plans.cancel.confirmationButton": "დიახ, მინდა ჩემი გამოწერის გაუქმება",

@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Configurar subscrição recorrente",
   "plans.subscription.error.scheduleTrialConversion": "Não foi possível configurar a faturação recorrente para o fim do seu período experimental. Tente novamente mais tarde.",
   "payments.changeMethod": "Alterar método de pagamento",
-  "plans.subscribed.willNotRenew": ", não se renovará no final do ciclo.",
+  "plans.subscribed.willNotRenew": "Não se renovará no final do ciclo",
   "plans.cancel.button": "Cancelar subscrição",
   "plans.cancel.question": "Tem a certeza de que quer cancelar a sua subscrição? A sua subscrição permanecerá ativa até ao final do ciclo de faturação.",
   "plans.cancel.confirmationButton": "Sim, quero cancelar a minha subscrição",

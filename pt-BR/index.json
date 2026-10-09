@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Configurar assinatura recorrente",
   "plans.subscription.error.scheduleTrialConversion": "Não foi possível configurar a cobrança recorrente para o fim do seu período de teste. Tente novamente mais tarde.",
   "payments.changeMethod": "Alterar método de pagamento",
-  "plans.subscribed.willNotRenew": ", não será renovado ao final do ciclo.",
+  "plans.subscribed.willNotRenew": "Não será renovado ao final do ciclo",
   "plans.cancel.button": "Cancelar assinatura",
   "plans.cancel.question": "Tem certeza de que deseja cancelar sua assinatura? Sua assinatura permanecerá ativa até o final do ciclo de faturamento.",
   "plans.cancel.confirmationButton": "Sim, quero cancelar minha assinatura",

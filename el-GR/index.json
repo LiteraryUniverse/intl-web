@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Ρύθμιση επαναλαμβανόμενης συνδρομής",
   "plans.subscription.error.scheduleTrialConversion": "Δεν ήταν δυνατή η ρύθμιση επαναλαμβανόμενης χρέωσης για το τέλος της δοκιμαστικής σας περιόδου. Δοκιμάστε ξανά αργότερα.",
   "payments.changeMethod": "Αλλαγή μεθόδου πληρωμής",
-  "plans.subscribed.willNotRenew": ", δεν θα ανανεωθεί στο τέλος της περιόδου.",
+  "plans.subscribed.willNotRenew": "Δεν θα ανανεωθεί στο τέλος της περιόδου",
   "plans.cancel.button": "Ακύρωση συνδρομής",
   "plans.cancel.question": "Είστε σίγουροι ότι θέλετε να ακυρώσετε τη συνδρομή σας; Η συνδρομή σας θα παραμείνει ενεργή μέχρι το τέλος της περιόδου χρέωσης.",
   "plans.cancel.confirmationButton": "Ναι, θέλω να ακυρώσω τη συνδρομή μου",

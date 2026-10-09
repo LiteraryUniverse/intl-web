@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "आवर्ती सदस्यता सेट अप करें",
   "plans.subscription.error.scheduleTrialConversion": "आपके ट्रायल के अंत के लिए आवर्ती बिलिंग सेट अप नहीं हो सकी। कृपया बाद में पुनः प्रयास करें।",
   "payments.changeMethod": "भुगतान विधि बदलें",
-  "plans.subscribed.willNotRenew": ", साइकल के अंत में नवीनीकृत नहीं होगा।",
+  "plans.subscribed.willNotRenew": "साइकल के अंत में नवीनीकृत नहीं होगा",
   "plans.cancel.button": "सदस्यता रद्द करें",
   "plans.cancel.question": "क्या आप वाकई अपनी सदस्यता को रद्द करना चाहते हैं? आपकी सदस्यता बिलिंग साइकल के अंत तक सक्रिय रहेगी।",
   "plans.cancel.confirmationButton": "हां, मैं अपनी सदस्यता को रद्द करना चाहता हूँ",

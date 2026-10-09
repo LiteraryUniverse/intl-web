@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "Change payment method",
-  "plans.subscribed.willNotRenew": ", will not renew at the end of the cycle.",
+  "plans.subscribed.willNotRenew": "Will not renew at the end of the cycle",
   "plans.cancel.button": "Cancel subscription",
   "plans.cancel.question": "Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.",
   "plans.cancel.confirmationButton": "Yes, I want to cancel my subscription",

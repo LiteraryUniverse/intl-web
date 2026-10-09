@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Sett opp løpende abonnement",
   "plans.subscription.error.scheduleTrialConversion": "Kunne ikke sette opp løpende fakturering fra slutten av prøveperioden din. Prøv igjen senere.",
   "payments.changeMethod": "Endre betalingsmetode",
-  "plans.subscribed.willNotRenew": ", vil ikke fornyes ved slutten av syklusen.",
+  "plans.subscribed.willNotRenew": "Vil ikke fornyes ved slutten av syklusen",
   "plans.cancel.button": "Avbryt abonnement",
   "plans.cancel.question": "Er du sikker på at du vil avbryte abonnementet ditt? Abonnementet ditt vil være aktivt til slutten av faktureringsperioden.",
   "plans.cancel.confirmationButton": "Ja, jeg vil avbryte abonnementet mitt",

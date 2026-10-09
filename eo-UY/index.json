@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Agordi ripetiĝantan abonon",
   "plans.subscription.error.scheduleTrialConversion": "Ne eblis agordi ripetiĝantan fakturadon por la fino de via provperiodo. Bonvolu reprovi poste.",
   "payments.changeMethod": "Ŝanĝi paga metodon",
-  "plans.subscribed.willNotRenew": ", ne renoviĝos je la fino de la ciklo.",
+  "plans.subscribed.willNotRenew": "Ne renoviĝos je la fino de la ciklo",
   "plans.cancel.button": "Nuligi abonon",
   "plans.cancel.question": "Ĉu vi certe volas nuligi vian abonon? Via abono restos aktiva ĝis la fino de la fakturciklo.",
   "plans.cancel.confirmationButton": "Jes, mi volas nuligi mian abonon",

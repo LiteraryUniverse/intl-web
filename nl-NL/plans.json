@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Doorlopend abonnement instellen",
   "plans.subscription.error.scheduleTrialConversion": "We konden de doorlopende facturering voor het einde van uw proefperiode niet instellen. Probeer het later opnieuw.",
   "payments.changeMethod": "Betaalmethode wijzigen",
-  "plans.subscribed.willNotRenew": ", wordt niet vernieuwd aan het einde van de cyclus.",
+  "plans.subscribed.willNotRenew": "Wordt niet vernieuwd aan het einde van de cyclus",
   "plans.cancel.button": "Abonnement annuleren",
   "plans.cancel.question": "Weet u zeker dat u uw abonnement wilt annuleren? Uw abonnement blijft actief tot het einde van de factureringscyclus.",
   "plans.cancel.confirmationButton": "Ja, ik wil mijn abonnement annuleren",

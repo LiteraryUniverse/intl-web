@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Ställ in återkommande prenumeration",
   "plans.subscription.error.scheduleTrialConversion": "Det gick inte att ställa in återkommande fakturering till slutet av din provperiod. Försök igen senare.",
   "payments.changeMethod": "Ändra betalningssätt",
-  "plans.subscribed.willNotRenew": ", kommer inte att förnyas i slutet av perioden.",
+  "plans.subscribed.willNotRenew": "Kommer inte att förnyas i slutet av perioden",
   "plans.cancel.button": "Avsluta prenumeration",
   "plans.cancel.question": "Är du säker på att du vill avsluta din prenumeration? Din prenumeration kommer att vara aktiv till slutet av faktureringsperioden.",
   "plans.cancel.confirmationButton": "Ja, jag vill avsluta min prenumeration",

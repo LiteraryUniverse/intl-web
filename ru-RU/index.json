@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Настроить регулярную подписку",
   "plans.subscription.error.scheduleTrialConversion": "Не удалось настроить регулярные платежи по окончании пробного периода. Пожалуйста, повторите попытку позже.",
   "payments.changeMethod": "Изменить метод оплаты",
-  "plans.subscribed.willNotRenew": ", не будет продлена в конце цикла.",
+  "plans.subscribed.willNotRenew": "Не будет продлена в конце цикла",
   "plans.cancel.button": "Отменить подписку",
   "plans.cancel.question": "Вы уверены, что хотите отменить подписку? Ваша подписка будет действовать до конца расчётного цикла.",
   "plans.cancel.confirmationButton": "Да, я хочу отменить подписку",

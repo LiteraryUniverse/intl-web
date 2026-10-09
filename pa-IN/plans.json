@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "ਭੁਗਤਾਨ ਵਿਧੀ ਬਦਲੋ",
-  "plans.subscribed.willNotRenew": ", ਚੱਕਰ ਦੇ ਅੰਤ 'ਤੇ ਨਵਿਆਇਆ ਨਹੀਂ ਜਾਵੇਗਾ।",
+  "plans.subscribed.willNotRenew": "ਚੱਕਰ ਦੇ ਅੰਤ 'ਤੇ ਨਵਿਆਇਆ ਨਹੀਂ ਜਾਵੇਗਾ",
   "plans.cancel.button": "ਗਾਹਕੀ ਰੱਦ ਕਰੋ",
   "plans.cancel.question": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਆਪਣੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਹਾਡੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਬਿਲਿੰਗ ਚੱਕਰ ਦੇ ਅੰਤ ਤੱਕ ਸਰਗਰਮ ਰਹੇਗੀ।",
   "plans.cancel.confirmationButton": "ਹਾਂ, ਮੈਂ ਆਪਣੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ।",

@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Attiva l'abbonamento ricorrente",
   "plans.subscription.error.scheduleTrialConversion": "Non è stato possibile impostare il rinnovo automatico al termine del periodo di prova. La preghiamo di riprovare più tardi.",
   "payments.changeMethod": "Cambia metodo di pagamento",
-  "plans.subscribed.willNotRenew": ", non si rinnoverà alla fine del ciclo.",
+  "plans.subscribed.willNotRenew": "Non si rinnoverà alla fine del ciclo",
   "plans.cancel.button": "Annulla abbonamento",
   "plans.cancel.question": "Sei sicuro di voler annullare l'abbonamento? L'abbonamento rimarrà attivo fino alla fine del ciclo di fatturazione.",
   "plans.cancel.confirmationButton": "Sì, voglio annullare il mio abbonamento",

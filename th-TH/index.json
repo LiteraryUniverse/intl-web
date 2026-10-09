@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "ตั้งค่าการสมัครสมาชิกแบบต่ออายุ",
   "plans.subscription.error.scheduleTrialConversion": "ไม่สามารถตั้งค่าการเรียกเก็บเงินแบบต่ออายุสำหรับช่วงสิ้นสุดการทดลองใช้ของคุณได้ โปรดลองอีกครั้งในภายหลัง",
   "payments.changeMethod": "เปลี่ยนวิธีการชำระเงิน",
-  "plans.subscribed.willNotRenew": ", จะไม่ต่ออายุในสิ้นสุดของรอบ",
+  "plans.subscribed.willNotRenew": "จะไม่ต่ออายุในสิ้นสุดของรอบ",
   "plans.cancel.button": "ยกเลิกการสมัครสมาชิก",
   "plans.cancel.question": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการสมัครสมาชิกของคุณ? การสมัครสมาชิกของคุณจะยังคงใช้งานได้จนกว่าจะสิ้นสุดรอบการเรียกเก็บเงิน",
   "plans.cancel.confirmationButton": "ใช่ ฉันต้องการยกเลิกการสมัครสมาชิกของฉัน",

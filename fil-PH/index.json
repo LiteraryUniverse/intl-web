@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "I-set up ang umuulit na subscription",
   "plans.subscription.error.scheduleTrialConversion": "Hindi na-set up ang umuulit na billing para sa pagtatapos ng iyong trial. Pakisubukang muli mamaya.",
   "payments.changeMethod": "Baguhin ang paraan ng pagbabayad",
-  "plans.subscribed.willNotRenew": ", hindi irerenew sa katapusan ng siklo.",
+  "plans.subscribed.willNotRenew": "Hindi irerenew sa katapusan ng siklo",
   "plans.cancel.button": "I-cancel ang subscription",
   "plans.cancel.question": "Sigurado ka bang gusto mong kanselahin ang iyong subscription? Ang iyong subscription ay mananatiling aktibo hanggang sa katapusan ng billing cycle.",
   "plans.cancel.confirmationButton": "Oo, gusto kong kanselahin ang aking subscription",

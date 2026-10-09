@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "binxo lo nu zukte lo nu jdima lo se jibri be lo lidne",
-  "plans.subscribed.willNotRenew": ", na zukte lo nu jdima lo se jibri be lo lidne",
+  "plans.subscribed.willNotRenew": "na zukte lo nu jdima lo se jibri be lo lidne",
   "plans.cancel.button": "cancu lo se jibri be do",
   "plans.cancel.question": "ca'u do djica lo nu ca'o se jibri be do .i lo do se jibri cu stali lo nu se zukte le jbini be lo jdima jbini",
   "plans.cancel.confirmationButton": "go'i .i mi djica lo nu ca'o se jibri be mi",

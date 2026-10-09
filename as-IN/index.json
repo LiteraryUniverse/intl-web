@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "পেমেন্টৰ পদ্ধতি সলনি কৰক",
-  "plans.subscribed.willNotRenew": ", পৰ্বটিৰ শেষত নবীকৃত হ'ব নহয়।",
+  "plans.subscribed.willNotRenew": "পৰ্বটিৰ শেষত নবীকৃত হ'ব নহয়",
   "plans.cancel.button": "সদস্যতা বাতিল কৰক",
   "plans.cancel.question": "আপুনি আপোনাৰ সদস্যতা বাতিল কৰিব বিচাৰে আপুনি নিশ্চিত নেকি? আপোনাৰ সদস্যতা বিলিং চাইকেলৰ শেষত প্ৰভাৱী থাকিব।",
   "plans.cancel.confirmationButton": "হয়, মোক আমাৰ সদস্যতা বাতিল কৰিব বিচাৰে।",

@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Thiết lập gói đăng ký định kỳ",
   "plans.subscription.error.scheduleTrialConversion": "Không thể thiết lập thanh toán định kỳ cho thời điểm kết thúc dùng thử của bạn. Vui lòng thử lại sau.",
   "payments.changeMethod": "Thay đổi phương thức thanh toán",
-  "plans.subscribed.willNotRenew": ", sẽ không được gia hạn vào cuối chu kỳ.",
+  "plans.subscribed.willNotRenew": "Sẽ không được gia hạn vào cuối chu kỳ",
   "plans.cancel.button": "Hủy đăng ký",
   "plans.cancel.question": "Bạn có chắc chắn muốn hủy đăng ký? Đăng ký của bạn sẽ vẫn hoạt động cho đến cuối chu kỳ thanh toán.",
   "plans.cancel.confirmationButton": "Có, tôi muốn hủy đăng ký",

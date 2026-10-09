@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Opret løbende abonnement",
   "plans.subscription.error.scheduleTrialConversion": "Løbende fakturering ved prøveperiodens udløb kunne ikke sættes op. Prøv igen senere.",
   "payments.changeMethod": "Skift betalingsmetode",
-  "plans.subscribed.willNotRenew": ", vil ikke blive fornyet ved udgangen af cyklussen.",
+  "plans.subscribed.willNotRenew": "Vil ikke blive fornyet ved udgangen af cyklussen",
   "plans.cancel.button": "Annuller abonnement",
   "plans.cancel.question": "Er du sikker på, at du vil annullere dit abonnement? Dit abonnement forbliver aktivt indtil slutningen af faktureringscyklussen.",
   "plans.cancel.confirmationButton": "Ja, jeg vil annullere mit abonnement",

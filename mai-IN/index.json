@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "भुक्तानी विधि परिवर्तन गर्नुहोस्",
-  "plans.subscribed.willNotRenew": ", चक्रको अन्तमा नविकरण हुदैन।",
+  "plans.subscribed.willNotRenew": "चक्रको अन्तमा नविकरण हुदैन",
   "plans.cancel.button": "सदस्यता रद्द गर्नुहोस्",
   "plans.cancel.question": "के तपाईं निश्चित हुनुहुन्छ तपाईंले आफ्नो सदस्यता रद्द गर्न चाहनुहुन्छ? तपाईंको सदस्यता बिलिङ साइकलको अन्तिम समयसम्म सक्रिय रहनेछ।",
   "plans.cancel.confirmationButton": "हो, मलाई मेरो सदस्यता रद्द गर्न चाहिन्छ",

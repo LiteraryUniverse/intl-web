@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Siapkan langganan berulang",
   "plans.subscription.error.scheduleTrialConversion": "Tidak dapat menyiapkan penagihan berulang untuk akhir masa uji coba Anda. Silakan coba lagi nanti.",
   "payments.changeMethod": "Ubah metode pembayaran",
-  "plans.subscribed.willNotRenew": ", tidak akan diperpanjang pada akhir siklus.",
+  "plans.subscribed.willNotRenew": "Tidak akan diperpanjang pada akhir siklus",
   "plans.cancel.button": "Batalkan langganan",
   "plans.cancel.question": "Apakah Anda yakin ingin membatalkan langganan Anda? Langganan Anda akan tetap aktif hingga akhir siklus penagihan.",
   "plans.cancel.confirmationButton": "Ya, saya ingin membatalkan langganan saya",

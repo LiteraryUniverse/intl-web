@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Wiederkehrendes Abonnement einrichten",
   "plans.subscription.error.scheduleTrialConversion": "Die wiederkehrende Abrechnung zum Ende Ihrer Testphase konnte nicht eingerichtet werden. Bitte versuchen Sie es später noch einmal.",
   "payments.changeMethod": "Zahlungsmethode ändern",
-  "plans.subscribed.willNotRenew": ", wird am Ende des Zyklus nicht erneuert.",
+  "plans.subscribed.willNotRenew": "Wird am Ende des Zyklus nicht erneuert",
   "plans.cancel.button": "Abonnement beenden",
   "plans.cancel.question": "Sind Sie sicher, dass Sie Ihr Abonnement kündigen möchten? Ihr Abonnement bleibt bis zum Ende des Abrechnungszeitraums aktiv.",
   "plans.cancel.confirmationButton": "Ja, ich möchte mein Abonnement kündigen",

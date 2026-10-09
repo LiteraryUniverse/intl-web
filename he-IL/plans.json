@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "הגדר מנוי מתחדש",
   "plans.subscription.error.scheduleTrialConversion": "לא ניתן היה להגדיר חיוב מתחדש לסוף תקופת הניסיון שלך. נסה שוב מאוחר יותר.",
   "payments.changeMethod": "שנה שיטת תשלום",
-  "plans.subscribed.willNotRenew": ", לא יתבצע חידוש בסיום המחזור.",
+  "plans.subscribed.willNotRenew": "לא יתבצע חידוש בסיום המחזור",
   "plans.cancel.button": "ביטול המנוי",
   "plans.cancel.question": "האם אתה בטוח שברצונך לבטל את המנוי שלך? המנוי שלך יישאר פעיל עד סיום מחזור החיוב.",
   "plans.cancel.confirmationButton": "כן, אני רוצה לבטל את המנוי שלי",

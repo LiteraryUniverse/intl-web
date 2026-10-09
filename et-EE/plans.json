@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Seadista korduv tellimus",
   "plans.subscription.error.scheduleTrialConversion": "Prooviperioodi lõpuks ei õnnestunud korduvat arveldust seadistada. Palun proovige hiljem uuesti.",
   "payments.changeMethod": "Muuda makseviisi",
-  "plans.subscribed.willNotRenew": ", ei uuendata tsükli lõpus.",
+  "plans.subscribed.willNotRenew": "Ei uuendata tsükli lõpus",
   "plans.cancel.button": "Tühista tellimus",
   "plans.cancel.question": "Kas olete kindel, et soovite tellimuse tühistada? Teie tellimus jääb aktiivseks kuni arveldustsükli lõpuni.",
   "plans.cancel.confirmationButton": "Jah, soovin oma tellimuse tühistada",

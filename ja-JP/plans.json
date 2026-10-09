@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "定期サブスクリプションを設定する",
   "plans.subscription.error.scheduleTrialConversion": "トライアル終了時の定期請求を設定できませんでした。後でもう一度お試しください。",
   "payments.changeMethod": "支払い方法の変更",
-  "plans.subscribed.willNotRenew": "は、サイクル終了まで更新されません。",
+  "plans.subscribed.willNotRenew": "サイクル終了時に更新されません",
   "plans.cancel.button": "購読キャンセル",
   "plans.cancel.question": "サブスク契約を解除してもよろしいですか？お客様のサブスクリプションは、次回の請求日まで有効です。",
   "plans.cancel.confirmationButton": "はい、解約をお願いします。",

@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "Налаштувати регулярну підписку",
   "plans.subscription.error.scheduleTrialConversion": "Не вдалося налаштувати регулярні платежі на час завершення вашого пробного періоду. Будь ласка, спробуйте пізніше.",
   "payments.changeMethod": "Змінити метод оплати",
-  "plans.subscribed.willNotRenew": ", не буде продовжуватися в кінці циклу.",
+  "plans.subscribed.willNotRenew": "Не буде продовжуватися в кінці циклу",
   "plans.cancel.button": "Скасувати підписку",
   "plans.cancel.question": "Ви впевнені, що хочете скасувати підписку? Ваша підписка залишиться активною до кінця розрахункового циклу.",
   "plans.cancel.confirmationButton": "Так, я хочу скасувати підписку",

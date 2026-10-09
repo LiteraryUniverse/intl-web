@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "கட்டண முறையை மாற்றுக",
-  "plans.subscribed.willNotRenew": "சுழற்சியின் முடிவில் புதுப்பிக்கப்படாது.",
+  "plans.subscribed.willNotRenew": "சுழற்சியின் முடிவில் புதுப்பிக்கப்படாது",
   "plans.cancel.button": "சந்தாவை ரத்து செய்",
   "plans.cancel.question": "உங்கள் சந்தாவை ரத்து செய்ய விரும்புகிறீர்களா? உங்கள் சந்தா கட்டணச் சுழற்சியின் இறுதி வரை செயலில் இருக்கும்.",
   "plans.cancel.confirmationButton": "ஆம், எனது சந்தாவை ரத்து செய்ய விரும்புகிறேன்",

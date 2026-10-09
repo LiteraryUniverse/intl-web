@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Yinelenen abonelik kur",
   "plans.subscription.error.scheduleTrialConversion": "Denemenizin sonu için yinelenen faturalandırma kurulamadı. Lütfen daha sonra tekrar deneyin.",
   "payments.changeMethod": "Ödeme yöntemini değiştir",
-  "plans.subscribed.willNotRenew": ", döngünün sonunda yenilenmeyecek.",
+  "plans.subscribed.willNotRenew": "Döngünün sonunda yenilenmeyecek",
   "plans.cancel.button": "Aboneliği iptal et",
   "plans.cancel.question": "Aboneliğinizi iptal etmek istediğinizden emin misiniz? Aboneliğiniz fatura döngüsünün sonuna kadar aktif kalacaktır.",
   "plans.cancel.confirmationButton": "Evet, aboneliğimi iptal etmek istiyorum",

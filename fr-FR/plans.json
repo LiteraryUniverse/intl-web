@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Configurer l'abonnement récurrent",
   "plans.subscription.error.scheduleTrialConversion": "Impossible de configurer la facturation récurrente pour la fin de votre essai. Veuillez réessayer plus tard.",
   "payments.changeMethod": "Modifier le mode de paiement",
-  "plans.subscribed.willNotRenew": ", ne sera pas renouvelé à la fin du cycle.",
+  "plans.subscribed.willNotRenew": "Ne sera pas renouvelé à la fin du cycle",
   "plans.cancel.button": "Annuler l'abonnement",
   "plans.cancel.question": "Êtes-vous sûr de vouloir annuler votre abonnement ? Votre abonnement restera actif jusqu'à la fin du cycle de facturation.",
   "plans.cancel.confirmationButton": "Oui, je veux annuler mon abonnement",

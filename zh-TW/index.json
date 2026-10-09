@@ -4054,7 +4054,7 @@
   "plans.subscription.setupRecurring": "設定定期訂閱",
   "plans.subscription.error.scheduleTrialConversion": "無法為試用結束後設定定期扣款。請稍後再試。",
   "payments.changeMethod": "更改付款方式",
-  "plans.subscribed.willNotRenew": "，在週期結束時將不會自動續訂。",
+  "plans.subscribed.willNotRenew": "在週期結束時將不會自動續訂",
   "plans.cancel.button": "取消訂閱",
   "plans.cancel.question": "您確定要取消訂閱嗎？您的訂閱將在結算週期結束前保持有效。",
   "plans.cancel.confirmationButton": "是的，我要取消訂閱",

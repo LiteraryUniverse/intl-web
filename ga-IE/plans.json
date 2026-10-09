@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Set up recurring subscription",
   "plans.subscription.error.scheduleTrialConversion": "Could not set up recurring billing for the end of your trial. Please try again later.",
   "payments.changeMethod": "Athraigh modh íocaíochta",
-  "plans.subscribed.willNotRenew": ", ní dhéanfar athnuachan ag deireadh an timthrialla.",
+  "plans.subscribed.willNotRenew": "Ní dhéanfar athnuachan ag deireadh an timthrialla",
   "plans.cancel.button": "Cealaigh an síntiús",
   "plans.cancel.question": "An bhfuil tú cinnte gur mian leat do shíntiús a chealú? Fanfaidh do shíntiús gníomhach go dtí deireadh na timthrialla billeála.",
   "plans.cancel.confirmationButton": "Sea, ba mhaith liom mo shíntiús a chur ar ceal.",

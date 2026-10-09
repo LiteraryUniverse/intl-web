@@ -93,7 +93,7 @@
   "plans.subscription.setupRecurring": "Configurează abonamentul recurent",
   "plans.subscription.error.scheduleTrialConversion": "Facturarea recurentă pentru sfârșitul perioadei tale de probă nu a putut fi configurată. Te rugăm să încerci din nou mai târziu.",
   "payments.changeMethod": "Schimbă metoda de plată",
-  "plans.subscribed.willNotRenew": ", nu se va reînnoi la sfârșitul ciclului.",
+  "plans.subscribed.willNotRenew": "Nu se va reînnoi la sfârșitul ciclului",
   "plans.cancel.button": "Anulează abonamentul",
   "plans.cancel.question": "Sigur vrei să anulezi abonamentul? Abonamentul tău va rămâne activ până la sfârșitul ciclului de facturare.",
   "plans.cancel.confirmationButton": "Da, vreau să anulez abonamentul meu",
