@@ -36,5 +36,9 @@
   "events.moreInfo": "अधिक जानकारी",
   "event.visibilityShort.private": "निजी",
   "event.visibilityShort.public": "सार्वजनिक",
-  "event.visibilityShort.owner": "मालिक"
+  "event.visibilityShort.owner": "मालिक",
+  "events.section.details": "विवरण",
+  "events.section.whenWhere": "कब और कहाँ",
+  "events.section.who": "कौन देख सकता है",
+  "events.admin.intro": "कार्यक्रम आपके ब्लॉग पर आपके पाठकों के लिए सूचीबद्ध होते हैं। तारीख़, जगह और कौन देख सकता है, यह तय करने के लिए एक कार्यक्रम बनाएं।"
 }

@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "টানুন · স্ক্রল করুন · তীর চিহ্নের কী",
   "library.shelf3d.inspectVolume": "খণ্ডটি ভালো করে দেখুন",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "কনটেন্ট খুঁজতে উপরের অনুসন্ধান ফর্ম ব্যবহার করুন"
 }

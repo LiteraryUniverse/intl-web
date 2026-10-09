@@ -36,5 +36,9 @@
   "events.moreInfo": "Додаткова інформація",
   "event.visibilityShort.private": "Приватний",
   "event.visibilityShort.public": "Публічний",
-  "event.visibilityShort.owner": "Власник"
+  "event.visibilityShort.owner": "Власник",
+  "events.section.details": "Деталі",
+  "events.section.whenWhere": "Коли і де",
+  "events.section.who": "Хто її бачить",
+  "events.admin.intro": "Події показуються у вашому блозі для ваших читачів. Створіть подію, щоб указати дату, місце й те, хто її бачить."
 }

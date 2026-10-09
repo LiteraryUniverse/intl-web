@@ -36,5 +36,9 @@
   "events.moreInfo": "მეტი ინფორმაცია",
   "event.visibilityShort.private": "პრივატული",
   "event.visibilityShort.public": "ღია",
-  "event.visibilityShort.owner": "მფლობელი"
+  "event.visibilityShort.owner": "მფლობელი",
+  "events.section.details": "დეტალები",
+  "events.section.whenWhere": "როდის და სად",
+  "events.section.who": "ვინ ხედავს",
+  "events.admin.intro": "ღონისძიებები თქვენს ბლოგზე ჩანს თქვენი მკითხველებისთვის. შექმენით ღონისძიება, რომ მიუთითოთ თარიღი, ადგილი და ვინ ხედავს მას."
 }

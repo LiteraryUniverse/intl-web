@@ -36,5 +36,9 @@
   "events.moreInfo": "Més informació",
   "event.visibilityShort.private": "Privada",
   "event.visibilityShort.public": "Pública",
-  "event.visibilityShort.owner": "Propietari"
+  "event.visibilityShort.owner": "Propietari",
+  "events.section.details": "Detalls",
+  "events.section.whenWhere": "Quan i on",
+  "events.section.who": "Qui el pot veure",
+  "events.admin.intro": "Els esdeveniments apareixen al teu blog per als teus lectors. Crea'n un per fixar una data, un lloc i qui el pot veure."
 }

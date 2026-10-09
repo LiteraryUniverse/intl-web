@@ -36,5 +36,9 @@
   "events.moreInfo": "Meer informatie",
   "event.visibilityShort.private": "Privé",
   "event.visibilityShort.public": "Openbaar",
-  "event.visibilityShort.owner": "Eigenaar"
+  "event.visibilityShort.owner": "Eigenaar",
+  "events.section.details": "Details",
+  "events.section.whenWhere": "Wanneer en waar",
+  "events.section.who": "Wie het kan zien",
+  "events.admin.intro": "Evenementen staan op je blog voor je lezers. Maak er een aan om een datum, een plaats en de zichtbaarheid in te stellen."
 }

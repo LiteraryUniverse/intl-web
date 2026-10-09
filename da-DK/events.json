@@ -36,5 +36,9 @@
   "events.moreInfo": "Flere oplysninger",
   "event.visibilityShort.private": "Privat",
   "event.visibilityShort.public": "Offentlig",
-  "event.visibilityShort.owner": "Ejer"
+  "event.visibilityShort.owner": "Ejer",
+  "events.section.details": "Detaljer",
+  "events.section.whenWhere": "Hvornår og hvor",
+  "events.section.who": "Hvem kan se den",
+  "events.admin.intro": "Begivenheder vises på din blog for dine læsere. Opret en for at angive en dato, et sted og hvem der kan se den."
 }

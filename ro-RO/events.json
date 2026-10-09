@@ -36,5 +36,9 @@
   "events.moreInfo": "Mai multe informații",
   "event.visibilityShort.private": "Privat",
   "event.visibilityShort.public": "Public",
-  "event.visibilityShort.owner": "Proprietar"
+  "event.visibilityShort.owner": "Proprietar",
+  "events.section.details": "Detalii",
+  "events.section.whenWhere": "Când și unde",
+  "events.section.who": "Cine îl poate vedea",
+  "events.admin.intro": "Evenimentele apar pe blogul tău pentru cititori. Creează unul ca să stabilești data, locul și cine îl poate vedea."
 }

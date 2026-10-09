@@ -36,5 +36,9 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ప్రైవేట్",
   "event.visibilityShort.public": "ప్రపంచంలో",
-  "event.visibilityShort.owner": "స్వామి"
+  "event.visibilityShort.owner": "స్వామి",
+  "events.section.details": "వివరాలు",
+  "events.section.whenWhere": "ఎప్పుడు, ఎక్కడ",
+  "events.section.who": "ఎవరు చూడగలరు",
+  "events.admin.intro": "ఈవెంట్‌లు మీ పాఠకుల కోసం మీ బ్లాగ్‌లో జాబితాగా కనిపిస్తాయి. తేదీ, స్థలం, ఎవరు చూడగలరో నిర్ణయించడానికి ఒకటి సృష్టించండి."
 }

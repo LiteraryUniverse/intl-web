@@ -36,5 +36,9 @@
   "events.moreInfo": "Więcej informacji",
   "event.visibilityShort.private": "Prywatny",
   "event.visibilityShort.public": "Publiczne",
-  "event.visibilityShort.owner": "Właściciel"
+  "event.visibilityShort.owner": "Właściciel",
+  "events.section.details": "Szczegóły",
+  "events.section.whenWhere": "Kiedy i gdzie",
+  "events.section.who": "Kto je zobaczy",
+  "events.admin.intro": "Wydarzenia są widoczne na Twoim blogu dla Twoich czytelników. Utwórz wydarzenie, aby ustawić datę, miejsce i to, kto je zobaczy."
 }

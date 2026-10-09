@@ -36,5 +36,9 @@
   "events.moreInfo": "자세한 정보",
   "event.visibilityShort.private": "비공개",
   "event.visibilityShort.public": "공개",
-  "event.visibilityShort.owner": "소유자"
+  "event.visibilityShort.owner": "소유자",
+  "events.section.details": "세부 정보",
+  "events.section.whenWhere": "일시와 장소",
+  "events.section.who": "공개 대상",
+  "events.admin.intro": "이벤트는 독자를 위해 블로그에 표시됩니다. 이벤트를 만들어 날짜, 장소, 공개 대상을 정하세요."
 }

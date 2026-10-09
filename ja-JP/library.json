@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "ドラッグ · スクロール · 矢印キー",
   "library.shelf3d.inspectVolume": "この巻を詳しく見る",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "上の検索フォームでコンテンツを探してください"
 }

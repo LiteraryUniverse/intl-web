@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "Drag · Scroll · Arrow keys",
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "உள்ளடக்கத்தைக் கண்டறிய மேலே உள்ள தேடல் படிவத்தைப் பயன்படுத்துங்கள்"
 }

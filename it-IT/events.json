@@ -36,5 +36,9 @@
   "events.moreInfo": "Ulteriori informazioni",
   "event.visibilityShort.private": "Privato",
   "event.visibilityShort.public": "Pubblico",
-  "event.visibilityShort.owner": "Proprietario"
+  "event.visibilityShort.owner": "Proprietario",
+  "events.section.details": "Dettagli",
+  "events.section.whenWhere": "Quando e dove",
+  "events.section.who": "Chi può vederlo",
+  "events.admin.intro": "Gli eventi compaiono sul tuo blog per i tuoi lettori. Creane uno per impostare data, luogo e chi può vederlo."
 }

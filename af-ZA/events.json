@@ -36,5 +36,9 @@
   "events.moreInfo": "Meer inligting",
   "event.visibilityShort.private": "Privaat",
   "event.visibilityShort.public": "Openbaar",
-  "event.visibilityShort.owner": "Eienaar"
+  "event.visibilityShort.owner": "Eienaar",
+  "events.section.details": "Besonderhede",
+  "events.section.whenWhere": "Wanneer en waar",
+  "events.section.who": "Wie dit kan sien",
+  "events.admin.intro": "Geleenthede word op jou blog vir jou lesers gelys. Skep een om 'n datum, 'n plek en wie dit kan sien, vas te stel."
 }

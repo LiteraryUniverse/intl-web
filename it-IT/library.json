@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "Trascina · Scorri · Tasti freccia",
   "library.shelf3d.inspectVolume": "Esamina il volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "Usa il modulo di ricerca qui sopra per trovare contenuti"
 }

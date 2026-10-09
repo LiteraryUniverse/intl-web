@@ -36,5 +36,9 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "സ്വകാര്യമായി",
   "event.visibilityShort.public": "പൊതുവായി",
-  "event.visibilityShort.owner": "Owner"
+  "event.visibilityShort.owner": "Owner",
+  "events.section.details": "വിശദാംശങ്ങൾ",
+  "events.section.whenWhere": "എപ്പോൾ, എവിടെ",
+  "events.section.who": "ആർക്കെല്ലാം കാണാം",
+  "events.admin.intro": "ഇവന്റുകൾ നിങ്ങളുടെ വായനക്കാർക്കായി നിങ്ങളുടെ ബ്ലോഗിൽ പട്ടികപ്പെടുത്തും. തീയതിയും സ്ഥലവും ആർക്കെല്ലാം കാണാമെന്നതും നിശ്ചയിക്കാൻ ഒന്ന് സൃഷ്ടിക്കുക."
 }

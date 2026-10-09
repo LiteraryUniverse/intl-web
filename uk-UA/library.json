@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "Перетягування · Прокручування · Клавіші зі стрілками",
   "library.shelf3d.inspectVolume": "Розглянути том",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "Скористайтеся формою пошуку вище, щоб знайти вміст"
 }

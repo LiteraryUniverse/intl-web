@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "खींचें · स्क्रॉल करें · तीर कुंजियाँ",
   "library.shelf3d.inspectVolume": "खंड को देखें",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "सामग्री खोजने के लिए ऊपर दिए खोज फ़ॉर्म का उपयोग करें"
 }

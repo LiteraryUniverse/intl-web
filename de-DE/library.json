@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "Ziehen · Scrollen · Pfeiltasten",
   "library.shelf3d.inspectVolume": "Band ansehen",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "Nutze das Suchformular oben, um Inhalte zu finden"
 }

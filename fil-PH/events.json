@@ -36,5 +36,9 @@
   "events.moreInfo": "Karagdagang impormasyon",
   "event.visibilityShort.private": "Pribado",
   "event.visibilityShort.public": "Pampubliko",
-  "event.visibilityShort.owner": "May-ari"
+  "event.visibilityShort.owner": "May-ari",
+  "events.section.details": "Mga detalye",
+  "events.section.whenWhere": "Kailan at saan",
+  "events.section.who": "Sino ang makakakita",
+  "events.admin.intro": "Nakalista ang mga kaganapan sa iyong blog para sa iyong mga mambabasa. Gumawa ng isa para magtakda ng petsa, lugar, at kung sino ang makakakita nito."
 }

@@ -36,5 +36,9 @@
   "events.moreInfo": "ข้อมูลเพิ่มเติม",
   "event.visibilityShort.private": "ส่วนตัว",
   "event.visibilityShort.public": "สาธารณะ",
-  "event.visibilityShort.owner": "เจ้าของ"
+  "event.visibilityShort.owner": "เจ้าของ",
+  "events.section.details": "รายละเอียด",
+  "events.section.whenWhere": "เวลาและสถานที่",
+  "events.section.who": "ใครมองเห็นได้",
+  "events.admin.intro": "กิจกรรมจะแสดงบนบล็อกของคุณให้ผู้อ่านเห็น สร้างกิจกรรมเพื่อกำหนดวันที่ สถานที่ และผู้ที่มองเห็นได้"
 }

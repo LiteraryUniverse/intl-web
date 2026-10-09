@@ -36,5 +36,9 @@
   "events.moreInfo": "Informasi lebih lanjut",
   "event.visibilityShort.private": "Pribadi",
   "event.visibilityShort.public": "Publik",
-  "event.visibilityShort.owner": "Pemilik"
+  "event.visibilityShort.owner": "Pemilik",
+  "events.section.details": "Rincian",
+  "events.section.whenWhere": "Waktu dan tempat",
+  "events.section.who": "Siapa yang bisa melihat",
+  "events.admin.intro": "Kegiatan ditampilkan di blog Anda untuk pembaca. Buat kegiatan untuk menentukan tanggal, tempat, dan siapa yang bisa melihatnya."
 }

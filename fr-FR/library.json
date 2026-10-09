@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "Glisser · Défiler · Touches fléchées",
   "library.shelf3d.inspectVolume": "Examiner le volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "Utilisez le formulaire de recherche ci-dessus pour trouver du contenu"
 }

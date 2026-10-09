@@ -36,5 +36,9 @@
   "events.moreInfo": "מידע נוסף",
   "event.visibilityShort.private": "פרטי",
   "event.visibilityShort.public": "ציבורי",
-  "event.visibilityShort.owner": "בעלים"
+  "event.visibilityShort.owner": "בעלים",
+  "events.section.details": "פרטים",
+  "events.section.whenWhere": "מתי ואיפה",
+  "events.section.who": "מי יכול לראות",
+  "events.admin.intro": "האירועים מוצגים בבלוג שלכם לקוראים. צרו אירוע כדי לקבוע תאריך, מקום ומי יכול לראות אותו."
 }

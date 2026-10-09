@@ -36,5 +36,9 @@
   "events.moreInfo": "ਹੋਰ ਜਾਣਕਾਰੀ",
   "event.visibilityShort.private": "ਪ੍ਰਾਈਵੇਟ",
   "event.visibilityShort.public": "ਪਬਲਿਕ",
-  "event.visibilityShort.owner": "ਮਾਲਕ"
+  "event.visibilityShort.owner": "ਮਾਲਕ",
+  "events.section.details": "ਵੇਰਵੇ",
+  "events.section.whenWhere": "ਕਦੋਂ ਅਤੇ ਕਿੱਥੇ",
+  "events.section.who": "ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ",
+  "events.admin.intro": "ਸਮਾਗਮ ਤੁਹਾਡੇ ਪਾਠਕਾਂ ਲਈ ਤੁਹਾਡੇ ਬਲੌਗ 'ਤੇ ਸੂਚੀਬੱਧ ਹੁੰਦੇ ਹਨ। ਤਾਰੀਖ਼, ਥਾਂ ਅਤੇ ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ, ਇਹ ਤੈਅ ਕਰਨ ਲਈ ਇੱਕ ਸਮਾਗਮ ਬਣਾਓ।"
 }

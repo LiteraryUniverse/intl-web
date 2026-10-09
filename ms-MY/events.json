@@ -36,5 +36,9 @@
   "events.moreInfo": "Maklumat lanjut",
   "event.visibilityShort.private": "Peribadi",
   "event.visibilityShort.public": "Awam",
-  "event.visibilityShort.owner": "Pemilik"
+  "event.visibilityShort.owner": "Pemilik",
+  "events.section.details": "Butiran",
+  "events.section.whenWhere": "Bila dan di mana",
+  "events.section.who": "Siapa boleh melihatnya",
+  "events.admin.intro": "Acara disenaraikan di blog anda untuk pembaca anda. Cipta satu acara untuk menetapkan tarikh, tempat dan siapa yang boleh melihatnya."
 }

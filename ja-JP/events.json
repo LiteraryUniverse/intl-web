@@ -36,5 +36,9 @@
   "events.moreInfo": "詳しくは",
   "event.visibilityShort.private": "非公開（プライベート）",
   "event.visibilityShort.public": "一般公開",
-  "event.visibilityShort.owner": "オーナー"
+  "event.visibilityShort.owner": "オーナー",
+  "events.section.details": "詳細",
+  "events.section.whenWhere": "日時と場所",
+  "events.section.who": "公開範囲",
+  "events.admin.intro": "イベントは読者に向けてブログに掲載されます。イベントを作成して、日付、場所、公開範囲を設定しましょう。"
 }

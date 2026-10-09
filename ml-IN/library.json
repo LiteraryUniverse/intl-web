@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "Drag · Scroll · Arrow keys",
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "ഉള്ളടക്കം കണ്ടെത്താൻ മുകളിലെ തിരയൽ ഫോം ഉപയോഗിക്കുക"
 }

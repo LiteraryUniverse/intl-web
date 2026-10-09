@@ -36,5 +36,9 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "ಖಾಸಗಿ",
   "event.visibilityShort.public": "ಪ್ರಸ್ತುತವನ್ನು",
-  "event.visibilityShort.owner": "ಮಾಲಿಕ"
+  "event.visibilityShort.owner": "ಮಾಲಿಕ",
+  "events.section.details": "Details",
+  "events.section.whenWhere": "When and where",
+  "events.section.who": "Who can see it",
+  "events.admin.intro": "Events are listed on your blog for your readers. Create one to set a date, a place and who can see it."
 }

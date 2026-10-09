@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "Træk · Rul · Piletaster",
   "library.shelf3d.inspectVolume": "Se nærmere på bindet",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "Brug søgeformularen ovenfor til at finde indhold"
 }

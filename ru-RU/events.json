@@ -36,5 +36,9 @@
   "events.moreInfo": "Узнать больше",
   "event.visibilityShort.private": "Закрытое",
   "event.visibilityShort.public": "Открытое",
-  "event.visibilityShort.owner": "Владелец"
+  "event.visibilityShort.owner": "Владелец",
+  "events.section.details": "Подробности",
+  "events.section.whenWhere": "Когда и где",
+  "events.section.who": "Кто его видит",
+  "events.admin.intro": "События показываются в вашем блоге для ваших читателей. Создайте событие, чтобы указать дату, место и то, кто его видит."
 }

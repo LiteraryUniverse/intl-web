@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "ลาก · เลื่อน · ปุ่มลูกศร",
   "library.shelf3d.inspectVolume": "ดูรายละเอียดเล่ม",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "ใช้แบบฟอร์มค้นหาด้านบนเพื่อค้นหาเนื้อหา"
 }

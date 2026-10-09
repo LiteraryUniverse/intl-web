@@ -36,5 +36,9 @@
   "events.moreInfo": "Περισσότερες πληροφορίες",
   "event.visibilityShort.private": "Ιδιωτικό",
   "event.visibilityShort.public": "Δημόσιο",
-  "event.visibilityShort.owner": "Κάτοχος"
+  "event.visibilityShort.owner": "Κάτοχος",
+  "events.section.details": "Λεπτομέρειες",
+  "events.section.whenWhere": "Πότε και πού",
+  "events.section.who": "Ποιος μπορεί να τη δει",
+  "events.admin.intro": "Οι εκδηλώσεις εμφανίζονται στο ιστολόγιό σας για τους αναγνώστες σας. Δημιουργήστε μία για να ορίσετε ημερομηνία, τόπο και ποιος μπορεί να τη δει."
 }

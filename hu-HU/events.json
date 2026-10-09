@@ -36,5 +36,9 @@
   "events.moreInfo": "További információk",
   "event.visibilityShort.private": "Privát",
   "event.visibilityShort.public": "Nyilvános",
-  "event.visibilityShort.owner": "Tulajdonos"
+  "event.visibilityShort.owner": "Tulajdonos",
+  "events.section.details": "Részletek",
+  "events.section.whenWhere": "Mikor és hol",
+  "events.section.who": "Ki láthatja",
+  "events.admin.intro": "Az események a blogodon jelennek meg az olvasóidnak. Hozz létre egyet, és add meg az időpontot, a helyszínt, valamint azt, hogy ki láthatja."
 }

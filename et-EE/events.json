@@ -36,5 +36,9 @@
   "events.moreInfo": "Rohkem infot",
   "event.visibilityShort.private": "Privaatne",
   "event.visibilityShort.public": "Avalik",
-  "event.visibilityShort.owner": "Omanik"
+  "event.visibilityShort.owner": "Omanik",
+  "events.section.details": "Üksikasjad",
+  "events.section.whenWhere": "Millal ja kus",
+  "events.section.who": "Kes seda näevad",
+  "events.admin.intro": "Sündmused kuvatakse sinu blogis lugejatele. Loo sündmus, et määrata kuupäev, koht ja see, kes seda näevad."
 }

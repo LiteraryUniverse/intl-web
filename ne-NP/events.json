@@ -36,5 +36,9 @@
   "events.moreInfo": "थप जानकारी",
   "event.visibilityShort.private": "निजी",
   "event.visibilityShort.public": "सार्वजनिक",
-  "event.visibilityShort.owner": "मालिक"
+  "event.visibilityShort.owner": "मालिक",
+  "events.section.details": "विवरण",
+  "events.section.whenWhere": "कहिले र कहाँ",
+  "events.section.who": "कसले देख्न सक्छ",
+  "events.admin.intro": "कार्यक्रमहरू तपाईंका पाठकहरूका लागि तपाईंको ब्लगमा सूचीबद्ध हुन्छन्। मिति, ठाउँ र कसले देख्न सक्छ भन्ने तय गर्न एउटा बनाउनुहोस्।"
 }

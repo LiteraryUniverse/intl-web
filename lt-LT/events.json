@@ -36,5 +36,9 @@
   "events.moreInfo": "Daugiau informacijos",
   "event.visibilityShort.private": "Privatus",
   "event.visibilityShort.public": "Viešas",
-  "event.visibilityShort.owner": "Savininkas"
+  "event.visibilityShort.owner": "Savininkas",
+  "events.section.details": "Informacija",
+  "events.section.whenWhere": "Kada ir kur",
+  "events.section.who": "Kas gali matyti",
+  "events.admin.intro": "Renginiai rodomi jūsų tinklaraštyje skaitytojams. Sukurkite renginį ir nustatykite datą, vietą ir tai, kas gali jį matyti."
 }

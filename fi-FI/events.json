@@ -36,5 +36,9 @@
   "events.moreInfo": "Lisätietoja",
   "event.visibilityShort.private": "Yksityinen",
   "event.visibilityShort.public": "Julkinen",
-  "event.visibilityShort.owner": "Omistaja"
+  "event.visibilityShort.owner": "Omistaja",
+  "events.section.details": "Tiedot",
+  "events.section.whenWhere": "Aika ja paikka",
+  "events.section.who": "Kuka näkee tapahtuman",
+  "events.admin.intro": "Tapahtumat näkyvät blogissasi lukijoillesi. Luo tapahtuma ja määritä päivä, paikka ja se, kuka sen näkee."
 }

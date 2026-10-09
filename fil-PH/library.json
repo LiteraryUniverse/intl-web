@@ -30,5 +30,6 @@
   "library.shelf3d.controlsHint": "I-drag · Mag-scroll · Mga arrow key",
   "library.shelf3d.inspectVolume": "Suriin ang tomo",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
-  "library.shelf3d.inspect": "Inspect {title}"
+  "library.shelf3d.inspect": "Inspect {title}",
+  "contentSelector.site.prompt": "Gamitin ang search form sa itaas para maghanap ng content"
 }

@@ -36,5 +36,9 @@
   "events.moreInfo": "More information",
   "event.visibilityShort.private": "खाजगी",
   "event.visibilityShort.public": "सार्वजनिक",
-  "event.visibilityShort.owner": "मालक"
+  "event.visibilityShort.owner": "मालक",
+  "events.section.details": "तपशील",
+  "events.section.whenWhere": "कधी आणि कुठे",
+  "events.section.who": "कोण पाहू शकते",
+  "events.admin.intro": "कार्यक्रम तुमच्या वाचकांसाठी तुमच्या ब्लॉगवर सूचीबद्ध होतात. तारीख, ठिकाण आणि ते कोण पाहू शकते हे ठरवण्यासाठी एक कार्यक्रम तयार करा."
 }

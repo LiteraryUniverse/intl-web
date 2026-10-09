@@ -36,5 +36,9 @@
   "events.moreInfo": "Thông tin thêm",
   "event.visibilityShort.private": "Riêng tư",
   "event.visibilityShort.public": "Công khai",
-  "event.visibilityShort.owner": "Chủ sở hữu"
+  "event.visibilityShort.owner": "Chủ sở hữu",
+  "events.section.details": "Chi tiết",
+  "events.section.whenWhere": "Thời gian và địa điểm",
+  "events.section.who": "Ai có thể xem",
+  "events.admin.intro": "Sự kiện được liệt kê trên blog cho độc giả của bạn. Hãy tạo một sự kiện để đặt ngày, địa điểm và ai có thể xem."
 }

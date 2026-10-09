@@ -36,5 +36,9 @@
   "events.moreInfo": "مزيد من المعلومات",
   "event.visibilityShort.private": "خاص",
   "event.visibilityShort.public": "عام",
-  "event.visibilityShort.owner": "المالك"
+  "event.visibilityShort.owner": "المالك",
+  "events.section.details": "التفاصيل",
+  "events.section.whenWhere": "الزمان والمكان",
+  "events.section.who": "من يمكنه رؤيته",
+  "events.admin.intro": "تُعرض الأحداث في مدونتك لقرائك. أنشئ حدثًا لتحدد تاريخه ومكانه ومن يمكنه رؤيته."
 }

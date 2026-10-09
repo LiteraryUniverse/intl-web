@@ -36,5 +36,9 @@
   "events.moreInfo": "Plia informo",
   "event.visibilityShort.private": "Privata",
   "event.visibilityShort.public": "Publika",
-  "event.visibilityShort.owner": "Posedanto"
+  "event.visibilityShort.owner": "Posedanto",
+  "events.section.details": "Detaloj",
+  "events.section.whenWhere": "Kiam kaj kie",
+  "events.section.who": "Kiu povas vidi ĝin",
+  "events.admin.intro": "Eventoj estas listigitaj en via blogo por viaj legantoj. Kreu eventon por difini daton, lokon kaj tion, kiu povas vidi ĝin."
 }

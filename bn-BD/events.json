@@ -36,5 +36,9 @@
   "events.moreInfo": "আরও তথ্য",
   "event.visibilityShort.private": "প্রাইভেট",
   "event.visibilityShort.public": "পাবলিক",
-  "event.visibilityShort.owner": "মালিক"
+  "event.visibilityShort.owner": "মালিক",
+  "events.section.details": "বিস্তারিত",
+  "events.section.whenWhere": "কখন ও কোথায়",
+  "events.section.who": "কে দেখতে পারবে",
+  "events.admin.intro": "ইভেন্টগুলো আপনার পাঠকদের জন্য আপনার ব্লগে তালিকাভুক্ত থাকে। তারিখ, স্থান এবং কে দেখতে পারবে তা ঠিক করতে একটি ইভেন্ট তৈরি করুন।"
 }

@@ -36,5 +36,9 @@
   "events.moreInfo": "மேலும் தகவல்",
   "event.visibilityShort.private": "தனியார்",
   "event.visibilityShort.public": "பொது",
-  "event.visibilityShort.owner": "உரிமையாளர்"
+  "event.visibilityShort.owner": "உரிமையாளர்",
+  "events.section.details": "விவரங்கள்",
+  "events.section.whenWhere": "எப்போது, எங்கே",
+  "events.section.who": "யார் பார்க்கலாம்",
+  "events.admin.intro": "நிகழ்வுகள் உங்கள் வாசகர்களுக்காக உங்கள் வலைப்பதிவில் பட்டியலிடப்படும். தேதி, இடம், யார் பார்க்கலாம் என்பதை அமைக்க ஒன்றை உருவாக்குங்கள்."
 }

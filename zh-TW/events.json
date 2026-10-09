@@ -36,5 +36,9 @@
   "events.moreInfo": "更多資訊",
   "event.visibilityShort.private": "私人",
   "event.visibilityShort.public": "公開",
-  "event.visibilityShort.owner": "擁有者"
+  "event.visibilityShort.owner": "擁有者",
+  "events.section.details": "詳細資料",
+  "events.section.whenWhere": "時間與地點",
+  "events.section.who": "誰可以看到",
+  "events.admin.intro": "活動會列在你的部落格上供讀者查看。建立活動以設定日期、地點和誰可以看到。"
 }

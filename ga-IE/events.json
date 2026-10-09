@@ -36,5 +36,9 @@
   "events.moreInfo": "Tuilleadh eolais",
   "event.visibilityShort.private": "Príobháideach",
   "event.visibilityShort.public": "Poiblí",
-  "event.visibilityShort.owner": "Úinéir"
+  "event.visibilityShort.owner": "Úinéir",
+  "events.section.details": "Details",
+  "events.section.whenWhere": "When and where",
+  "events.section.who": "Who can see it",
+  "events.admin.intro": "Events are listed on your blog for your readers. Create one to set a date, a place and who can see it."
 }

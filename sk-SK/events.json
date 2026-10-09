@@ -36,5 +36,9 @@
   "events.moreInfo": "Viac informácií",
   "event.visibilityShort.private": "Súkromné",
   "event.visibilityShort.public": "Verejné",
-  "event.visibilityShort.owner": "Vlastník"
+  "event.visibilityShort.owner": "Vlastník",
+  "events.section.details": "Podrobnosti",
+  "events.section.whenWhere": "Kedy a kde",
+  "events.section.who": "Kto ju uvidí",
+  "events.admin.intro": "Udalosti sa zobrazujú na vašom blogu pre vašich čitateľov. Vytvorte udalosť a nastavte dátum, miesto a kto ju uvidí."
 }
