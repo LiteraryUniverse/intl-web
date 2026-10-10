@@ -636,7 +636,6 @@
   "blog.carousel.previous": "Previous slide",
   "blog.carousel.next": "Next slide",
   "blog.carousel.goTo": "Go to slide {number}",
-  "blog.admin.col.author": "Author",
   "blog.admin.col.date": "Date",
   "blog.admin.col.views": "Views",
   "blog.admin.col.comments": "Comments",
