@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Hayran sanatı görseli",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Diğer dillerde",
   "user.friend.request.add": "Arkadaşlara ekle",
   "user.friend.requests": "{num, number} yeni arkadaşlık {num, plural,\n    zero {isteğiniz}\n    one {isteğiniz}\n    many {isteğiniz}\n    other {isteğiniz}\n  } var.",
   "user.friend.unfriend": "Arkadaşlıktan çıkar",

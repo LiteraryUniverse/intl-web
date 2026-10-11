@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art-bild",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "På andra språk",
   "user.friend.request.add": "Lägg till som vän",
   "user.friend.requests": "Du har {num, number} nya vänförfrågningar {num, plural,\n    zero {förfrågan}\n    one {förfrågningar}\n    many {förfrågningar}\n    other {förfrågningar}\n  }",
   "user.friend.unfriend": "Ta bort som vän",

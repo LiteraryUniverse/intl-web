@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Larawan ng fan art",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Sa ibang mga wika",
   "user.friend.request.add": "Idagdag sa mga kaibigan",
   "user.friend.requests": "Mayroon kang {num, number} bagong kaibigan {num, plural,\n    zero {na mga kahilingan}\n    one {kahilingan}\n    many {mga kahilingan}\n    other {mga kahilingan}\n  }",
   "user.friend.unfriend": "Tanggalin sa mga kaibigan",

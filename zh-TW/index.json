@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "粉絲藝術圖片",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "其他語言",
   "user.friend.request.add": "加為好友",
   "user.friend.requests": "你有 {num, number} 個新朋友 {num, plural,\n    zero {請求}\n    one {請求}\n    many {請求}\n    other {請求}\n  }",
   "user.friend.unfriend": "解除好友關係",

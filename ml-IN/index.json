@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "മറ്റ് ഭാഷകളിൽ",
   "user.friend.request.add": "സുഹൃത്തുക്കളിലേക്ക് ചേരുക",
   "user.friend.requests": "നിങ്ങൾക്ക് {num, number} പുതിയ സുഹൃത്ത് {num, plural,\n    zero {അഭ്യർത്ഥനകൾ ഉണ്ട്}\n    one {അഭ്യർത്ഥന}\n    many {അഭ്യർത്ഥനകൾ}\n    other {അഭ്യർത്ഥനകൾ}\n  }",
   "user.friend.unfriend": "സുഹൃത്തുക്കളെ ഒഴിവാക്കുക",

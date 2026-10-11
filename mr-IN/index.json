@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "इतर भाषांमध्ये",
   "user.friend.request.add": "मित्रांमध्ये जोडा",
   "user.friend.requests": "तुम्हाला {num, number} नवीन मित्र {num, plural,\n    zero {विनंत्या}\n    one {विनंती}\n    many {विनंत्या}\n    other {विनंत्या}\n  } आहेत",
   "user.friend.unfriend": "मित्रत्व तोडा",

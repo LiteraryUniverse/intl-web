@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Imagine fan art",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "În alte limbi",
   "user.friend.request.add": "Adaugă la prieteni",
   "user.friend.requests": "Ai {num, number} cerere de prietenie nouă {num, plural,\n    zero {}\n    one {cerere}\n    many {cereri}\n    other {cereri}\n  }",
   "user.friend.unfriend": "Șterge din prieteni",

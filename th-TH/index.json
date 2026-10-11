@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "ภาพแฟนอาร์ต",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "ในภาษาอื่น",
   "user.friend.request.add": "เพิ่มเป็นเพื่อน",
   "user.friend.requests": "คุณมี {num, number} คำขอเป็นเพื่อนใหม่ {num, plural,\n    zero {คำขอ}\n    one {คำขอ}\n    many {คำขอ}\n    other {คำขอ}\n  }",
   "user.friend.unfriend": "ยกเลิกเป็นเพื่อน",

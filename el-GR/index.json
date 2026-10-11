@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Εικόνα fan art",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Σε άλλες γλώσσες",
   "user.friend.request.add": "Προσθήκη στους φίλους",
   "user.friend.requests": "Έχετε {num, number} νέο φίλο {num, plural,\n    zero {αιτήματα}\n    one {αίτημα}\n    many {αιτήματα}\n    other {αιτήματα}\n  }",
   "user.friend.unfriend": "Αποσύνδεση από τους φίλους",

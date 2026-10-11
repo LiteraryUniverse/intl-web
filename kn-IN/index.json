@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "ಇತರ ಭಾಷೆಗಳಲ್ಲಿ",
   "user.friend.request.add": "ಸ್ನೇಹಿತರನ್ನು ಸೇರಿಸಿ",
   "user.friend.requests": "ನೀವು {num, number} ಹೊಸ ಸ್ನೇಹಿತ {num, plural,\n    zero {ಕೋರಿಕೆಗಳು}\n    one {ಕೋರಿಕೆ}\n    many {ಕೋರಿಕೆಗಳು}\n    other {ಕೋರಿಕೆಗಳು}\n  }",
   "user.friend.unfriend": "ಸ್ನೇಹಿತರನ್ನು ರದ್ದುಮಾಡಿ",

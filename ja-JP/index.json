@@ -5710,6 +5710,7 @@
   "universe.createdby": "作成者",
   "universe.fanArt.picture": "ファンアート画像",
   "universe.stories": "物語",
+  "universe.stories.otherLanguages": "他の言語",
   "user.friend.request.add": "友達に追加",
   "user.friend.requests": "あなたには{num, number}件の新しい友達リクエストがあります。{num, plural,other {}}",
   "user.friend.unfriend": "友達リストから削除",

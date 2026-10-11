@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "სხვა ენებზე",
   "user.friend.request.add": "მეგობრებში დამატება",
   "user.friend.requests": "გაქვთ {num, number} ახალი მეგობრის {num, plural,\n    zero {მოთხოვნა}\n    one {მოთხოვნები}\n    many {მოთხოვნა}\n    other {მოთხოვნები}\n  }",
   "user.friend.unfriend": "მეგობრობის წაშლა",

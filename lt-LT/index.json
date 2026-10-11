@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Gerbėjų kūrinio paveikslėlis",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Kitomis kalbomis",
   "user.friend.request.add": "Pridėti prie draugų",
   "user.friend.requests": "Jūs turite {num, number} naują draugą {num, plural,\n    zero {užklausas}\n    one {užklausa}\n    many {užklausos}\n    other {užklausos}\n  }",
   "user.friend.unfriend": "Pašalinti iš draugų",

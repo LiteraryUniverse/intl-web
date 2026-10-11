@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Rajongói művészeti kép",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Más nyelveken",
   "user.friend.request.add": "Hozzáadás barátokhoz",
   "user.friend.requests": "Van {num, number} új barát {num, plural,\n    zero {kérésed}\n    one {kérés}\n    many {kérések}\n    other {kérések}\n  }",
   "user.friend.unfriend": "Barátság megszüntetése",

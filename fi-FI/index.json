@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fanitaidekuva",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Muilla kielillä",
   "user.friend.request.add": "Lisää ystäville",
   "user.friend.requests": "Sinulla on {num, number} uusi ystävä {num, plural,\n    zero {pyyntö}\n    one {pyyntöä}\n    many {pyyntöä}\n    other {pyyntöä}\n  }",
   "user.friend.unfriend": "Poista ystävä",

@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "অন্য ভাষাত",
   "user.friend.request.add": "মিত্ৰ সংযোজন কৰক",
   "user.friend.requests": "আপোনালোকে {num, number} নতুন বন্ধু {num, plural,\n    zero {অনুৰোধ}\n    one {অনুৰোধ}\n    many {অনুৰোধ}\n    other {অনুৰোধ}\n  }",
   "user.friend.unfriend": "মিত্ৰতা বিছাৰি পোৱা বন্ধ কৰক",

@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "अन्य भाषाहरूमा",
   "user.friend.request.add": "सङ्गीहरूमा थप्नुहोस्",
   "user.friend.requests": "तपाईंलाई {num, number} नयाँ साथी {num, plural,\n    zero {अनुरोधहरू छन्}\n    one {अनुरोध}\n    many {अनुरोधहरू}\n    other {अनुरोधहरू}\n  }",
   "user.friend.unfriend": "मित्रता तोड्नुहोस्",

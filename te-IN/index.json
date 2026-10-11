@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "ఇతర భాషల్లో",
   "user.friend.request.add": "స్నేహంలో జోడించండి",
   "user.friend.requests": "మీకు {num, number} కొత్త స్నేహితుడు {num, plural,\n    zero {అభ్యర్థనలు}\n    one {అభ్యర్థన}\n    many {అభ్యర్థనలు}\n    other {అభ్యర్థనలు}\n  }",
   "user.friend.unfriend": "స్నేహితుడను తొలగించు",

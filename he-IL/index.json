@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "תמונת אמנות מעריצים",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "בשפות אחרות",
   "user.friend.request.add": "הוסף לחברים",
   "user.friend.requests": "יש לך {num, number} בקשת חברות חדשה {num, plural,\n    zero {}\n    one {בקשה}\n    many {בקשות}\n    other {בקשות}\n  }",
   "user.friend.unfriend": "הסר מחברים",

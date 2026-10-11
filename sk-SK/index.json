@@ -5710,6 +5710,7 @@
   "universe.createdby": "Vytvoril",
   "universe.fanArt.picture": "Obrázok fanúšikovského diela",
   "universe.stories": "Príbehy",
+  "universe.stories.otherLanguages": "V iných jazykoch",
   "user.friend.request.add": "Pridať medzi priateľov",
   "user.friend.requests": "Máte {num, number} {num, plural,\n    zero {nových žiadostí}\n    one {novú žiadosť}\n    few {nové žiadosti}\n    other {nových žiadostí}\n  } o priateľstvo",
   "user.friend.unfriend": "Zrušenie priateľstva",

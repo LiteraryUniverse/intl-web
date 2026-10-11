@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Imatge de fan art",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "En altres idiomes",
   "user.friend.request.add": "Afegir a amics",
   "user.friend.requests": "Tens {num, number} sol·licituds de nova amistat {num, plural,\n    zero {}\n    one {sol·licitud}\n    many {sol·licituds}\n    other {sol·licituds}\n  }",
   "user.friend.unfriend": "Eliminar de la llista d'amics",

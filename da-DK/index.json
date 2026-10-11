@@ -5710,6 +5710,7 @@
   "universe.createdby": "Oprettet af",
   "universe.fanArt.picture": "Fan art-billede",
   "universe.stories": "Historier",
+  "universe.stories.otherLanguages": "På andre sprog",
   "user.friend.request.add": "Tilføj til venner",
   "user.friend.requests": "Du har {num, number} ny venneanmodning {num, plural,\n    zero {anmodninger}\n    one {anmodning}\n    many {anmodninger}\n    other {anmodninger}\n  }",
   "user.friend.unfriend": "Bliv ikke ven med mig",

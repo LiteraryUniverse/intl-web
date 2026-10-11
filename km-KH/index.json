@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "ជាភាសាផ្សេងទៀត",
   "user.friend.request.add": "បន្ថែម​ទៅ​ក្រុម​មិត្តភក្តិ",
   "user.friend.requests": "អ្នកមាន {num, number} ការស្នាក់ស្រុកថ្មី {num, plural,\n    zero {សំណើរសុំ}\n    one {ការស្នាក់ស្រុក}\n    many {សំណើរសុំ}\n    other {ការស្នាក់ស្រុក}\n  }",
   "user.friend.unfriend": "ផ្អាកចុះឈ្មោះពី​ក្រុម​មិត្តភក្តិ",

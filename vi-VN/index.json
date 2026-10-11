@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Hình ảnh fan art",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Bằng các ngôn ngữ khác",
   "user.friend.request.add": "Thêm vào bạn bè",
   "user.friend.requests": "Bạn có {num, number} yêu cầu kết bạn mới {num, plural,\n    zero {}\n    one {yêu cầu}\n    many {yêu cầu}\n    other {yêu cầu}\n  }",
   "user.friend.unfriend": "Hủy kết bạn",

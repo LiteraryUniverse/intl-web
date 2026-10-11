@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Bildo de fana arto",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "En aliaj lingvoj",
   "user.friend.request.add": "Aldoni al amikoj",
   "user.friend.requests": "Vi havas {num, number} novajn amikajn petojn {num, plural,\n    zero {peto}\n    one {petoj}\n    many {peto}\n    other {petoj}\n  }",
   "user.friend.unfriend": "Forigi amikon",

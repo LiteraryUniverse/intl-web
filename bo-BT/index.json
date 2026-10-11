@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "In other languages",
   "user.friend.request.add": "ཞིག་བསྟན་བཀོད་པ་བཟོ་བ།",
   "user.friend.requests": "ཁྱེད་ཀྱིས་ལྷག་པ་ {num, number} གསར་འགྱུར་ {num, plural,\n    zero {གསར་འགྱུར་འདེམས་}\n    one {གསར་འགྱུར་}\n    many {གསར་འགྱུར་}\n    other {གསར་འགྱུར་}\n  }",
   "user.friend.unfriend": "ཞིག་བསྟན་མེད་པ་བཟོ་བ།",

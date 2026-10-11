@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "I dteangacha eile",
   "user.friend.request.add": "Cuir le cairde",
   "user.friend.requests": "Tá {num, number} iarratas nua cairde {num, plural,\n    zero {agat}\n    one {iarratas}\n    many {iarratas}\n    other {iarratas}\n  }",
   "user.friend.unfriend": "Cealaigh cairde",

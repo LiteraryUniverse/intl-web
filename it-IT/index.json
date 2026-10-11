@@ -5710,6 +5710,7 @@
   "universe.createdby": "Creato da",
   "universe.fanArt.picture": "Immagine della fan art",
   "universe.stories": "Storie",
+  "universe.stories.otherLanguages": "In altre lingue",
   "user.friend.request.add": "Aggiungi agli amici",
   "user.friend.requests": "Hai {num, number} nuovo amico {num, plural,\n    zero {richieste}\n    one {richiesta}\n    many {richieste}\n    other {richieste}\n  }",
   "user.friend.unfriend": "Rimuovi",

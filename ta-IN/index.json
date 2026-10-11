@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "மற்ற மொழிகளில்",
   "user.friend.request.add": "நண்பர்களில் சேர்க்கவும்",
   "user.friend.requests": "உங்களுக்கு {num, number} புதிய நண்பர் {num, plural,\n    zero {கோரிக்கைகள்}\n    one {கோரிக்கை}\n    many {கோரிக்கைகள்}\n    other {கோரிக்கைகள்}\n  }",
   "user.friend.unfriend": "நண்பர்களிலிருந்து நீக்கு",

@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Gambar seni penggemar",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Dalam bahasa lain",
   "user.friend.request.add": "Tambahkan ke teman",
   "user.friend.requests": "Anda memiliki {num, number} permintaan pertemanan baru {num, plural,\n    zero {permintaan}\n    one {permintaan}\n    many {permintaan}\n    other {permintaan}\n  }",
   "user.friend.unfriend": "Hapus dari teman",

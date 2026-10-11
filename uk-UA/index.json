@@ -5710,6 +5710,7 @@
   "universe.createdby": "Створено",
   "universe.fanArt.picture": "Зображення фан-арту",
   "universe.stories": "Історії",
+  "universe.stories.otherLanguages": "Іншими мовами",
   "user.friend.request.add": "Додати в друзі",
   "user.friend.requests": "Ви маєте {num, number} нових {num, plural,\n    zero {запитів на дружбу}\n    one {запит на дружбу}\n    many {запитів на дружбу}\n    other {запитів на дружбу}\n  }",
   "user.friend.unfriend": "Видалити друга",

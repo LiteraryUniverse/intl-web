@@ -5710,6 +5710,7 @@
   "universe.createdby": "Utworzone przez",
   "universe.fanArt.picture": "Obraz fan artu",
   "universe.stories": "Opowiadania",
+  "universe.stories.otherLanguages": "W innych językach",
   "user.friend.request.add": "Dodaj do znajomych",
   "user.friend.requests": "Masz {num, number} nowe zaproszenie do znajomych {num, plural,\n    zero {}\n    one {zaproszenie}\n    many {}\n    other {zaproszenia}\n  }",
   "user.friend.unfriend": "Usuń ze znajomych",

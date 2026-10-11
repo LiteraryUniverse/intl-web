@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "ଅନ୍ୟ ଭାଷାରେ",
   "user.friend.request.add": "ସହପାଠୀକୁ ଯୋଡ଼ନ୍ତୁ",
   "user.friend.requests": "ଆପଣଙ୍କୁ {num, number} ନୂଆ ସହପାଠୀ {num, plural,\n    zero {ଅନୁରୋଧ ଅଛନ୍ତି}\n    one {ଅନୁରୋଧ}\n    many {ଅନୁରୋଧଗୁଡ଼ିକ}\n    other {ଅନୁରୋଧଗୁଡ଼ିକ}\n  }",
   "user.friend.unfriend": "ସହପାଠୀତ୍ୟ ଛେଡ଼ିବା",

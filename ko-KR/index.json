@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "팬아트 이미지",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "다른 언어",
   "user.friend.request.add": "친구에 추가하기",
   "user.friend.requests": "당신은 {num, number} 개의 새로운 친구 {num, plural,\n    zero {요청}\n    one {요청}\n    many {요청}\n    other {요청}\n  }",
   "user.friend.unfriend": "친구 삭제",

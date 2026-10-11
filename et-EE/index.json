@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fännikunsti pilt",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "Teistes keeltes",
   "user.friend.request.add": "Lisa sõprade hulka",
   "user.friend.requests": "Sul on {num, number} uus sõber {num, plural,\n    zero {taotlusi}\n    one {taotlus}\n    many {taotlust}\n    other {taotlust}\n  }",
   "user.friend.unfriend": "Eemalda sõber",

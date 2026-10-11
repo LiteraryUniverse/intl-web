@@ -5710,6 +5710,7 @@
   "universe.createdby": "Created by",
   "universe.fanArt.picture": "Fan art image",
   "universe.stories": "Stories",
+  "universe.stories.otherLanguages": "In other languages",
   "user.friend.request.add": "Citka la'o zoi.friends.zoi",
   "user.friend.requests": "You have {num, number} new friend {num, plural,\n    zero {requests}\n    one {request}\n    many {requests}\n    other {requests}\n  }",
   "user.friend.unfriend": "Klaku",

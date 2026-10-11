@@ -5710,6 +5710,7 @@
   "universe.createdby": "أنشأه",
   "universe.fanArt.picture": "صورة فن المعجبين",
   "universe.stories": "القصص",
+  "universe.stories.otherLanguages": "بلغات أخرى",
   "user.friend.request.add": "إضافة إلى الأصدقاء",
   "user.friend.requests": "لديك {num, number} صديق جديد {num, plural,\n    zero {الطلبات ~ ~ الطلبات}\n    one {الطلبات}\n    many {الطلبات}\n    other {الطلبات}\n  }",
   "user.friend.unfriend": "إلغاء الصداقة",
