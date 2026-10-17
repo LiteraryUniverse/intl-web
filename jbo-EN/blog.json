@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "lo jikca jorne cu dunli lo se setca bu'u {type, select,\n    organization {lo se setca be lo kagni}\n    user {lo pilno sevzi papri}\n    other {}\n  }",
   "blog.social.website": "la'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu",
   "blog.settings.universeSettings": "la'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu be lo nu se finti lo sevzi be lo nu se zbasu",
+  "blog.settings.translations": "lo se fanva",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "lo se blogu be lo se zdani cu se integrasi lo se zdani pei.",
   "blogs.lu": "la'o gy. blogs. lu .blogs. lu .blogs. lu .blogs. lu",
   "blogs.featured": "la'o gy. blogs. lu .blogs. lu .blogs. lu",

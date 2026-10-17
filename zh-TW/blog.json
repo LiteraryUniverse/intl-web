@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "社交連結與 {type, select,\n    organization {組織設定}\n    user {使用者檔案}\n    other {相同}\n  }",
   "blog.social.website": "官方網站",
   "blog.settings.universeSettings": "宇宙部落格將與宇宙頁面集成，使用宇宙設定的基本設置。",
+  "blog.settings.translations": "翻譯",
+  "blog.settings.translations.add": "新增語言",
   "blog.settings.organizationSettings": "組織部落格已整合到組織頁面中。",
   "blogs.lu": "官方文學宇宙部落格",
   "blogs.featured": "特色部落格",

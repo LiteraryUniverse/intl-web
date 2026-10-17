@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "ลิงค์ทางสังคมเหมือนกับที่ตั้งค่า {type, select,\n    organization {การตั้งค่าองค์กร}\n    user {โปรไฟล์ผู้ใช้งาน}\n    other {}\n  }",
   "blog.social.website": "เว็บไซต์อย่างเป็นทางการ",
   "blog.settings.universeSettings": "บล็อกจักรวาลผสมรวมกับหน้าจักรวาลด้วยการตั้งค่าพื้นฐานจากการตั้งค่าจักรวาล",
+  "blog.settings.translations": "งานแปล",
+  "blog.settings.translations.add": "เพิ่มภาษา",
   "blog.settings.organizationSettings": "บล็อกขององค์กรรวมอยู่ในหน้าขององค์กร",
   "blogs.lu": "บล็อกแห่งจักรวาลวรรณกรรมทางการอย่างเป็นทางการ",
   "blogs.featured": "บล็อกแนะนำ",

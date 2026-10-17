@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Социальные ссылки такие же, как установлены в {type, select,\n    organization {настройках организации}\n    user {профиле пользователя}\n    other {}\n  }",
   "blog.social.website": "Официальный сайт",
   "blog.settings.universeSettings": "Блоги вселенной интегрированы в страницы вселенной, а их основные настройки взяты из настроек вселенной.",
+  "blog.settings.translations": "Переводы",
+  "blog.settings.translations.add": "Добавить язык",
   "blog.settings.organizationSettings": "Блоги организаций интегрированы в страницы организаций.",
   "blogs.lu": "Официальные блоги Literary Universe",
   "blogs.featured": "Рекомендуемые блоги",

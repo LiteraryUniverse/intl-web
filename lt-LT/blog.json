@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Socialiniai ryšiai yra tie patys, kaip nustatyta {type, select,\n    organization {organizacijos nuostatosse}\n    user {vartotojo profilyje}\n    other {}\n  }",
   "blog.social.website": "Oficiali svetainė",
   "blog.settings.universeSettings": "Tinklaraščiai yra integruoti į universo puslapius su pagrindiniais nustatymais iš universo nustatymų.",
+  "blog.settings.translations": "Vertimai",
+  "blog.settings.translations.add": "Pridėti kalbą",
   "blog.settings.organizationSettings": "Organizacijos tinklaraščiai yra įtraukiami į organizacijos puslapius.",
   "blogs.lu": "Oficialūs Literatūrinio Universo tinklaraščiai",
   "blogs.featured": "Pasiūlyti tinklaraščiai",

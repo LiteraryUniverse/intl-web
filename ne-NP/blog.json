@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "सामाजिक लिङ्कहरू मुख्य {type, select,\n    organization {संगठन सेटिङ्समा सेट गरिएका छन्}\n    user {प्रयोगकर्ता प्रोफाइल}\n    other {}\n  }",
   "blog.social.website": "आधिकारिक वेबसाइट",
   "blog.settings.universeSettings": "यूनिभर्स ब्लग यूनिभर्स सेटिङहरूबाट लिएर यूनिभर्स पृष्ठमा एकीकृत गरिएका छन्।",
+  "blog.settings.translations": "अनुवादहरू",
+  "blog.settings.translations.add": "भाषा थप्नुहोस्",
   "blog.settings.organizationSettings": "संगठनिक ब्लगहरूले संगठन सामग्रीमा एकीकरण गरिएको छ",
   "blogs.lu": "आधिकारिक साहित्यिक यूनिभर्स ब्लगहरू",
   "blogs.featured": "विशेष ब्लगहरू",

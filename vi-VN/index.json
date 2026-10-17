@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Liên kết xã hội giống như được thiết lập trong {type, select,\n    organization {cài đặt tổ chức}\n    user {hồ sơ người dùng}\n    other {}\n  }",
   "blog.social.website": "Trang web chính thức",
   "blog.settings.universeSettings": "Blog vũ trụ được tích hợp vào trang vũ trụ với cài đặt cơ bản lấy từ cài đặt vũ trụ.",
+  "blog.settings.translations": "Bản dịch",
+  "blog.settings.translations.add": "Thêm ngôn ngữ",
   "blog.settings.organizationSettings": "Blog tổ chức được tích hợp vào trang tổ chức.",
   "blogs.lu": "Blog âm nhạc Vũ trụ Văn học chính thức",
   "blogs.featured": "Các blog nổi bật",

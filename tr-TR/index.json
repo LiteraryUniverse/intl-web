@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Sosyal bağlantılar {type, select,\n    organization {kuruluş ayarları}\n    user {kullanıcı profiliyle aynıdır}\n    other {}\n  }",
   "blog.social.website": "Resmi web sitesi",
   "blog.settings.universeSettings": "Edebiyat Evreni blogları, evren ayarlarından temel ayarları alınarak edebiyat evreni sayfalarına entegre edilir.",
+  "blog.settings.translations": "Çeviriler",
+  "blog.settings.translations.add": "Dil ekle",
   "blog.settings.organizationSettings": "Kuruluş blogları kuruluş sayfalarına entegre edilir.",
   "blogs.lu": "Resmi Edebiyat Evreni blogları",
   "blogs.featured": "Öne çıkan bloglar",

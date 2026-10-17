@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "सामाजिक संपर्क सेटिंग्स में सेट किए गए समान हैं जैसे कि {type, select,\n    organization {संगठन सेटिंग्स}\n    user {उपयोगकर्ता प्रोफ़ाइल}\n    other {}\n  }",
   "blog.social.website": "आधिकारिक वेबसाइट",
   "blog.settings.universeSettings": "ब्रह्मांड ब्लॉग ब्रह्मांड सेटिंग्स से लिए गए सामान्य सेटिंग्स के साथ यूनिवर्स पृष्ठों के भीतर मिले हुए हैं।",
+  "blog.settings.translations": "अनुवाद",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "संगठन ब्लगहरू आँतरगत संगठन पृष्ठमा समावेश गरिएका छन् ।",
   "blogs.lu": "आधिकारिक साहित्यिक ब्रह्मांड ब्लॉग",
   "blogs.featured": "विशेष ब्लॉग",

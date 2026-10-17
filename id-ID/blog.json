@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Tautan sosial sama dengan yang diatur dalam pengaturan organisasi {type, select,\n    organization {profil pengguna}\n    user {}\n    other {}\n  }",
   "blog.social.website": "Situs web resmi",
   "blog.settings.universeSettings": "Blog alam semesta terintegrasi ke dalam halaman alam semesta dengan pengaturan dasar dari pengaturan alam semesta.",
+  "blog.settings.translations": "Terjemahan",
+  "blog.settings.translations.add": "Tambahkan bahasa",
   "blog.settings.organizationSettings": "Blog organisasi terintegrasi ke dalam halaman organisasi.",
   "blogs.lu": "Blog resmi Literary Universe",
   "blogs.featured": "Blog terpilih",

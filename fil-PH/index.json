@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Ang mga social link ay katulad ng naka-set sa {type, select,\n    organization {mga setting ng organisasyon}\n    user {profile ng user}\n    other {}\n  }",
   "blog.social.website": "Opisyal na website",
   "blog.settings.universeSettings": "Ang mga blog ng universe ay integrado sa mga pahina ng universe na may mga pangunahing setting na kinuha mula sa mga setting ng universe.",
+  "blog.settings.translations": "Mga pagsasalin",
+  "blog.settings.translations.add": "Magdagdag ng wika",
   "blog.settings.organizationSettings": "Ang mga blog ng organisasyon ay integrado sa mga pahina ng organisasyon.",
   "blogs.lu": "Opisyal na mga blog ng Literary Universe",
   "blogs.featured": "Mga itinatampok na blog",

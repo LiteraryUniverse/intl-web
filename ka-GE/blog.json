@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "სოციალური ბმულები იგივეა, როგორც {type, select,\n    organization {ორგანიზაციის პარამეტრების შეცვლაში}\n    user {მომხმარებლის პროფილში}\n    other {}\n  }",
   "blog.social.website": "ოფიციალური ვებსაიტი",
   "blog.settings.universeSettings": "უნივერსიტეტსის ბლოგები შეიცავენ უნივერსიტეტის გვერდის ბაზარზე დაყენებული სეტინგებისგან.",
+  "blog.settings.translations": "თარგმანები",
+  "blog.settings.translations.add": "ენის დამატება",
   "blog.settings.organizationSettings": "ორგანიზაციის ბლოგები შეერთება გვერდებში",
   "blogs.lu": "უბანის ბლოგი",
   "blogs.featured": "განცალკევებული ბლოგები",

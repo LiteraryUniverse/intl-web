@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "सामाजिक संपर्क उसी तरह हैं जैसा की सेट हैं {type, select,\n    organization {संगठन सेटिंग्स}\n    user {उपयोगकर्ता प्रोफाइल}\n    other {}\n  }",
   "blog.social.website": "आधिकारिक वेबसाइट",
   "blog.settings.universeSettings": "यूनिवर्स ब्लॉग यूनिवर्स सेटिंग से अपनी सामान्य सेटिंग ले लेते हैं।",
+  "blog.settings.translations": "अनुवाद",
+  "blog.settings.translations.add": "भाषा जोड़ें",
   "blog.settings.organizationSettings": "संगठन ब्लॉग संगठन पृष्ठों में एकीकृत हैं।",
   "blogs.lu": "आधिकारिक साहित्यिक यूनिवर्स ब्लॉग",
   "blogs.featured": "चयनित ब्लॉग",

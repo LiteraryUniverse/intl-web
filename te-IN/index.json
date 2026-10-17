@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "సామాజిక లింక్స్ ముఖ్య సెట్ చేసినందున ఒకే అవస్థలో ఉన్నాయి {type, select,\n    organization {సంస్థ సెట్టింగ్లలో}\n    user {వాడుకరి ప్రొఫైల్లో}\n    other {}\n  }",
   "blog.social.website": "అధికారిక వెబ్సైట్",
   "blog.settings.universeSettings": "యూనివర్స్ బ్లాగ్లు యూనివర్సు సెట్టింగ్ల నుండి అందుబాటులో ఉన్నాయి.",
+  "blog.settings.translations": "అనువాదాలు",
+  "blog.settings.translations.add": "భాషను జోడించండి",
   "blog.settings.organizationSettings": "సంఘటన బ్లాగ్లు సంఘటన సంపుటలలో ఏకీకరించబడ్డాయి.",
   "blogs.lu": "అధికారిక సాహిత్య యూనివర్స్ బ్లాగ్లు",
   "blogs.featured": "ఫీచర్ చేయబడిన బ్లాగ్లు",

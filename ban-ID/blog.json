@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Tautan sosial pateh sakadi sane kasetel ring {type, select,\n    organization {setelan organisasi}\n    user {profil pangangge}\n    other {}\n  }",
   "blog.social.website": "Situs web resmi",
   "blog.settings.universeSettings": "Blog jagat kaintegrasiang ring kaca jagat, setelan dasarnyané kaambil saking setelan jagat.",
+  "blog.settings.translations": "Terjemahan",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "Blog organisasi kaintegrasiang ring kaca organisasi.",
   "blogs.lu": "Blog resmi Literary Universe",
   "blogs.featured": "Blog pilihan",

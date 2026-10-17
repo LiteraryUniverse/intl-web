@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Sociaj ligiloj estas samaj kiel agordite en {type, select,\n    organization {agordoj de la organizo}\n    user {uzantoprofilo}\n    other {}\n  }",
   "blog.social.website": "Oficiala retejo",
   "blog.settings.universeSettings": "Universo-blogoj estas integritaj en paĝoj de la universo kun iliaj bazaj agordoj prenitaj de la agordoj de la universo.",
+  "blog.settings.translations": "Tradukoj",
+  "blog.settings.translations.add": "Aldoni lingvon",
   "blog.settings.organizationSettings": "Organizaj blogoj estas integrataj en povoj de organizo.",
   "blogs.lu": "Oficialaj literaturaj universo-blogoj",
   "blogs.featured": "Elstaraj blogoj",

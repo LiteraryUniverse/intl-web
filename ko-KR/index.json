@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "소셜 링크는 {type, select,\n    organization {조직 설정}\n    user {사용자 프로필}\n    other {}\n  }에서 설정한 것과 동일합니다.",
   "blog.social.website": "공식 웹사이트",
   "blog.settings.universeSettings": "유니버스 블로그는 유니버스 설정에서 기본 설정을 가져와 유니버스 페이지에 통합됩니다.",
+  "blog.settings.translations": "번역",
+  "blog.settings.translations.add": "언어 추가",
   "blog.settings.organizationSettings": "조직 블로그는 조직 페이지에 통합되었습니다.",
   "blogs.lu": "공식 문학 우주 블로그",
   "blogs.featured": "추천 블로그",

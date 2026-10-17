@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Οι κοινωνικοί σύνδεσμοι είναι οι ίδιοι με αυτούς που έχουν οριστεί στις ρυθμίσεις του οργανισμού {type, select,\n    organization {και στο προφίλ χρήστη}\n    user {}\n    other {}\n  }",
   "blog.social.website": "Επίσημη ιστοσελίδα",
   "blog.settings.universeSettings": "Τα blogs των συμπαντικών ιστοσελίδων ενσωματώνονται στις σελίδες συμπαντικών ιστοσελίδων με τις βασικές τους ρυθμίσεις να προέρχονται από τις ρυθμίσεις του σύμπαντος.",
+  "blog.settings.translations": "Μεταφράσεις",
+  "blog.settings.translations.add": "Προσθήκη γλώσσας",
   "blog.settings.organizationSettings": "Τα blogs του οργανισμού ενσωματώνονται στις σελίδες του οργανισμού.",
   "blogs.lu": "Επίσημα blogs Λογοτεχνικού Συμπαντος",
   "blogs.featured": "Προτεινόμενα blogs",

@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Sosiaaliset linkit ovat samat kuin {type, select,\n    organization {organisaation asetukset}\n    user {käyttäjäprofiili}\n    other {}\n  }",
   "blog.social.website": "Virallinen verkkosivusto",
   "blog.settings.universeSettings": "Universe-blogeja integroidaan universumisivuille yleisillä asetuksilla.",
+  "blog.settings.translations": "Käännökset",
+  "blog.settings.translations.add": "Lisää kieli",
   "blog.settings.organizationSettings": "Organisaatioblogit on integroitu organisaatiosivuihin.",
   "blogs.lu": "Virallisesti kirjallisuuden universumin blogit",
   "blogs.featured": "Esittelyssä olevat blogit",

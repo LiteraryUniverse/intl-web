@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "តោះធម្មតាឡើងវិញជាដើម្បីផ្ដល់ឱ្យអ្នកកាន់សម្រាប់ការតភ្ជាប់សង្គមដូចគ្នា ។ ទាំងនេះដូចគ្នា ចំរុះគ្នា ដោយស្ហោមការកំណត់ {type, select,\n    organization {សង្គមនៅក្នុង}\n    user {ការទិន្នន័យអ្នកប្រើ}\n    other {}\n  }",
   "blog.social.website": "គេហទំព័របណ្តាញមួយនេះ",
   "blog.settings.universeSettings": "ប្លុកជាកំណត់ត្រា​​នៅក្នុងទំព័រជាប្រភ័យរងបានត្រឹមត្រូវជាមួយការកំណត់របស់ជនរងគេ។",
+  "blog.settings.translations": "ការបកប្រែ",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "ប្លុកស្មាតហ្វេដូនពីការរៀបរង្ស័យរបស់សហគ្រោលទៅទំព័ររបស់សហគ្រោល",
   "blogs.lu": "ប្រជាជនសភារៈបរិភោគចម្បងនៃប្លុកជនរងព្រា",
   "blogs.featured": "ប្លុកពិតប្រើបរិភោគ",

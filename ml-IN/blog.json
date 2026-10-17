@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "സോഷ്യൽ ലിങ്കുകൾ എഴുതേണ്ടത് {type, select,\n    organization {ഓർഗനൈസേഷൻ ക്രമങ്ങളിൽ അമർത്താൻ}\n    user {ഉപയോക്തൃ പ്രൊഫൈൽ ക്രമങ്ങളിൽ}\n    other {}\n  }",
   "blog.social.website": "ആധികാരിക വെബ്സൈറ്റ്",
   "blog.settings.universeSettings": "യൂണിവേഴ്സ് ബ്ലോഗുകൾ യൂണിവേഴ്സ് കാഴ്ചകളിൽ അവയുടെ അടിസ്ഥാന ക്രമീകരണങ്ങൾ ഉപയോഗിച്ച് സജീവമാക്കപ്പെടുന്നു.",
+  "blog.settings.translations": "പരിഭാഷകൾ",
+  "blog.settings.translations.add": "ഭാഷ ചേർക്കുക",
   "blog.settings.organizationSettings": "കമ്പനി ബ്ലോഗുകൾ കമ്പനി പേജുകൾക്ക് ഐക്യകരിക്കപ്പെടുന്നു.",
   "blogs.lu": "ആധികാരിക സാഹിത്യ യൂണിവേഴ്സ് ബ്ലോഗുകൾ",
   "blogs.featured": "വിശേഷിപ്പിച്ച ബ്ലോഗുകൾ",

@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "সামাজিক লিঙ্কগুলি একইভাবে সেট করা হয় যেমন যেমন নির্ধারণ করা আছে {type, select,\n    organization {সংগঠনের সেটিংস}\n    user {ব্যবহারকারীর প্রোফাইল}\n    other {}\n  }",
   "blog.social.website": "আধিকাৰিক ওয়েবচাইট",
   "blog.settings.universeSettings": "ইউনিভার্স ব্লগসমূহ ইউনিভার্স ছাইটৰ পৃষ্ঠাসমূহত সংযোজিত আছে আৰু তেয়াজকীয় কথা ইউনিভার্স ছাইটৰ সংযোজন সেটিংছত সহাওক হয়ে থাকে।",
+  "blog.settings.translations": "অনুবাদসমূহ",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "সংস্থাৰ ব্লগবিলাক সংমিলিত কৰা হৈছে।",
   "blogs.lu": "আধিকাৰিক সাহিত্যিক ইউনিভার্স ব্লগসমূহ",
   "blogs.featured": "বৈশিষ্ট্যযুক্ত ব্লগসমূহ",

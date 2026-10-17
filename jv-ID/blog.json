@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Pranala sosial padha karo sing disetel ing {type, select,\n    organization {setelan organisasi}\n    user {profil pangguna}\n    other {}\n  }",
   "blog.social.website": "Situs web resmi",
   "blog.settings.universeSettings": "Blog jagad digabungake menyang kaca jagad kanthi setelan dhasare dijupuk saka setelan jagad.",
+  "blog.settings.translations": "Terjemahan",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "Blog organisasi digabungake menyang kaca organisasi.",
   "blogs.lu": "Blog resmi Literary Universe",
   "blogs.featured": "Blog unggulan",

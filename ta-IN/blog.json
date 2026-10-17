@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "சமூக இணையங்கள் பிரத்தியேக அமைப்புகளின் பொது இணைப்புகள் ஆகும் {type, select,\n    organization {அமைப்பு அமைப்பின் அமைப்புகள்}\n    user {பயனர் சுட்டிகள்}\n    other {}\n  }",
   "blog.social.website": "அதிகாரப்பூர்வ இணையதளம்",
   "blog.settings.universeSettings": "பரலோக பக்கங்களில் பாடக்குறிப்புகளுடன் இணைக்கப்பட்டுள்ளன வலைப்பதிவு பகுதிகள் அடிப்படை அமைப்புகளை எடுக்கும்.",
+  "blog.settings.translations": "மொழிபெயர்ப்புகள்",
+  "blog.settings.translations.add": "மொழியைச் சேர்",
   "blog.settings.organizationSettings": "முனைவோர் வலைப்புத்தகங்கள் அமைப்படும்.",
   "blogs.lu": "அதிகாரப்பூர்வ இலக்கண பரலோக வலைப்பதிவுகள்",
   "blogs.featured": "சிறப்பு வலைப்பதிவுகள்",

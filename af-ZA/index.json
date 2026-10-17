@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Sosiale skakels is dieselfde as ingestel in {type, select,\n    organization {organisasie-instellings}\n    user {gebruikersprofiel}\n    other {}\n  }",
   "blog.social.website": "Amptelike webwerf",
   "blog.settings.universeSettings": "Heelal blogs word geintegreer in heelal bladsye met hul basiese instellings geneem vanaf heelal instellings.",
+  "blog.settings.translations": "Vertalings",
+  "blog.settings.translations.add": "Voeg 'n taal by",
   "blog.settings.organizationSettings": "Organisasieblogs is geïntegreer in organisasiebladsye.",
   "blogs.lu": "Amptelike Literêre Heelal blogs",
   "blogs.featured": "Uitgeligte blogs",

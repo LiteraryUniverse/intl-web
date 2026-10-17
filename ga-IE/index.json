@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Tá an nasc sóisialta céanna mar atá leagtha síos i {type, select,\n    organization {socruithe an eagraíochta}\n    user {próifíl úsáideora}\n    other {}\n  }",
   "blog.social.website": "Láithreán gréasáin oifigiúil",
   "blog.settings.universeSettings": "Tártar blaganna domhainthreoir isteach le suas-láimhseáin bunúsacha a ghlacadh ó shocruithe domhainthreoirí.",
+  "blog.settings.translations": "Aistriúcháin",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "Tá bliogaí eagraíochta comhcheangailte le leathanaigh eagraíochta.",
   "blogs.lu": "Blaganna Oifigiúla Domhainthreoir Litríochta",
   "blogs.featured": "Blaganna ar feadh an tsuiteáin",

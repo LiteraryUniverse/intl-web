@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "الروابط الاجتماعية هي نفسها التي تم تعيينها في {type, select,\n    organization {إعدادات منتدى المجموعة}\n    user {ملف تعريف المستخدم}\n    other {}\n  }~",
   "blog.social.website": "الموقع الرسمي",
   "blog.settings.universeSettings": "تم دمج مدونات العالم في صفحات العالم مع الإعدادات الأساسية المأخوذة من إعدادات العالم.",
+  "blog.settings.translations": "الترجمات",
+  "blog.settings.translations.add": "إضافة لغة",
   "blog.settings.organizationSettings": "تم دمج مدونات المنظمة في صفحات المنظمة.",
   "blogs.lu": "مدونات العالم الأدبي الرسمية",
   "blogs.featured": "مدونات مميزة",

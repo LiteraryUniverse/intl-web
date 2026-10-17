@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "སྒྲིག་འཇུགས་གསལ་བཤད་འདི་ བཀོད་སྤྱོད་གནས་སྡུད་བསྐྱེད་པའི་ སྐོར་ལས་འདི་ནང་གི་ལེན་མི་བརྡ་དོན་བྱེད་པའི་ དགོས་པར་ཡོད་པའི་ {type, select,\n    organization {གང་རུང་སྒྲིག་འཇུགས་}\n    user {ལག་ལེན་པའི་གནས་སྡུད་}\n    other {}\n  }",
   "blog.social.website": "གཞུང་འབྲེལ་དྲ་ཚིགས",
   "blog.settings.universeSettings": "འཇིག་རྟེན་གྱི་ཟིན་བྲིས་རྣམས་འཇིག་རྟེན་གྱི་ཤོག་ངོས་ནང་སྦྲེལ་ཡོད་ཅིང་། དེའི་རྨང་གཞིའི་སྒྲིག་འགོད་འཇིག་རྟེན་གྱི་སྒྲིག་འགོད་ནས་ལེན།",
+  "blog.settings.translations": "ཡིག་སྒྱུར།",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "ཚོགས་སྡེའི་ཟིན་བྲིས་རྣམས་ཚོགས་སྡེའི་ཤོག་ངོས་ནང་སྦྲེལ་ཡོད།",
   "blogs.lu": "Literary Universe ཡི་གཞུང་འབྲེལ་ཟིན་བྲིས",
   "blogs.featured": "དམིགས་འདོན་ཟིན་བྲིས",

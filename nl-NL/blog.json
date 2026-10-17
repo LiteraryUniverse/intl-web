@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Sociale links zijn hetzelfde als ingesteld in {type, select,\n    organization {organisatie-instellingen}\n    user {gebruikersprofiel}\n    other {}\n  }",
   "blog.social.website": "Officiële website",
   "blog.settings.universeSettings": "Universumblogs zijn geïntegreerd in universumpagina's met hun basisinstellingen overgenomen van universuminstellingen.",
+  "blog.settings.translations": "Vertalingen",
+  "blog.settings.translations.add": "Taal toevoegen",
   "blog.settings.organizationSettings": "Organisatieblogs zijn geïntegreerd in organisatiepagina's.",
   "blogs.lu": "Officiële Literaire Universum-blogs",
   "blogs.featured": "Aanbevolen blogs",

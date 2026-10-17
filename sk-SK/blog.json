@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Sociálne prepojenia sú rovnaké, ako sú nastavené v {type, select,\n    organization {nastaveniach organizácie}\n    user {profile používateľa}\n    other {}\n  }",
   "blog.social.website": "Oficiálna webstránka",
   "blog.settings.universeSettings": "Blogy vesmíru sú integrované do stránok vesmíru a ich základné nastavenia sú prevzaté z nastavení vesmíru.",
+  "blog.settings.translations": "Preklady",
+  "blog.settings.translations.add": "Pridať jazyk",
   "blog.settings.organizationSettings": "Blogy organizácie sú integrované do stránok organizácie.",
   "blogs.lu": "Oficiálne blogy Literary Universe",
   "blogs.featured": "Vybrané blogy",

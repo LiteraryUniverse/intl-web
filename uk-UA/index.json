@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Соціальні посилання такі ж, як і в {type, select,\n    organization {налаштуваннях організації}\n    user {профілі користувача}\n    other {}\n  }",
   "blog.social.website": "Офіційний веб-сайт",
   "blog.settings.universeSettings": "Блоги всесвіту інтегровані на сторінки всесвіту з їх базовими налаштуваннями, взятими з налаштувань всесвіту.",
+  "blog.settings.translations": "Переклади",
+  "blog.settings.translations.add": "Додати мову",
   "blog.settings.organizationSettings": "Блоги організації інтегровані на сторінки організації.",
   "blogs.lu": "Офіційні блоги Літературного Всесвіту",
   "blogs.featured": "Рекомендовані блоги",

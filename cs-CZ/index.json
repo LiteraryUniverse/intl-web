@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Odkazy na sociální sítě jsou jako v {type, select,\n    organization {nastavení organizace}\n    user {nastavení uživatelského profilu}\n    other {}\n  }",
   "blog.social.website": "Oficiální stránky",
   "blog.settings.universeSettings": "Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.",
+  "blog.settings.translations": "Překlady",
+  "blog.settings.translations.add": "Přidat jazyk",
   "blog.settings.organizationSettings": "Blog organizaci je integrován do veřejné organizační stránky.",
   "blogs.lu": "Oficiální blogy Literary Universe",
   "blogs.featured": "Doporučené blogy",

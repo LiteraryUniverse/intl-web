@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Os links sociais são os mesmos que estão definidos {type, select,\n    organization {nas configurações de uma organização}\n    user {no perfil do utilizador}\n    other {}\n  }",
   "blog.social.website": "Website oficial",
   "blog.settings.universeSettings": "Os blogs do universo estão integrados em páginas do universo com as suas definições básicas retiradas de definições do universo.",
+  "blog.settings.translations": "Traduções",
+  "blog.settings.translations.add": "Adicionar idioma",
   "blog.settings.organizationSettings": "Os blogs da organização são integrados nas páginas da organização.",
   "blogs.lu": "Blogs oficiais do Universo Literário",
   "blogs.featured": "Blogs em destaque",

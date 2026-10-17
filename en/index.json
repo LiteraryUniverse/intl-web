@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Social links are the same as set in {type, select,\n    organization {organization settings}\n    user {user profile}\n    other {}\n  }",
   "blog.social.website": "Official website",
   "blog.settings.universeSettings": "Universe blogs are integrated into universe pages with their basic settings taken from universe settings.",
+  "blog.settings.translations": "Translations",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "Organization blogs are integrated into organization pages.",
   "blogs.lu": "Official Literary Universe blogs",
   "blogs.featured": "Featured blogs",

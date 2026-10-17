@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Sociale links er de samme som indstillet i {type, select,\n    organization {organisationsindstillinger}\n    user {brugerprofil}\n    other {}\n  }",
   "blog.social.website": "Officiel hjemmeside",
   "blog.settings.universeSettings": "Universblogs er integreret i universsider med deres grundlæggende indstillinger taget fra universindstillinger.",
+  "blog.settings.translations": "Oversættelser",
+  "blog.settings.translations.add": "Tilføj et sprog",
   "blog.settings.organizationSettings": "Organisationsblogs er integreret i organisationsider.",
   "blogs.lu": "Officielle Literary Universe blogs",
   "blogs.featured": "Udvalgte blogs",

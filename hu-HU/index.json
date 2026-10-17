@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "A közösségi linkek ugyanazok, mint amik a {type, select,\n    organization {szervezeti beállításokban vannak beállítva}\n    user {felhasználói profilban}\n    other {}\n  }",
   "blog.social.website": "Hivatalos weboldal",
   "blog.settings.universeSettings": "Az univerzum blogok integrálva vannak az univerzum oldalakra, ahol az alapbeállításaik az univerzum beállításairól származnak.",
+  "blog.settings.translations": "Fordítások",
+  "blog.settings.translations.add": "Nyelv hozzáadása",
   "blog.settings.organizationSettings": "Szervezeti blogok integrálódnak a szervezet oldalába.",
   "blogs.lu": "Hivatalos Irodalmi Univerzum blogok",
   "blogs.featured": "Kiemelt blogok",

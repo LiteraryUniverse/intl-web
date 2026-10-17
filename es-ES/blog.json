@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Tus enlaces a redes sociales son tal y como se determina en {type, select,\n    organization {configuración de organización}\n    user {perfil de usuario}\n    other {}\n  }",
   "blog.social.website": "Sitio web oficial",
   "blog.settings.universeSettings": "Los blogs del universo se integran en páginas del universo y toman su configuración de la del universo.",
+  "blog.settings.translations": "Traducciones",
+  "blog.settings.translations.add": "Añadir un idioma",
   "blog.settings.organizationSettings": "Los blogs de la organización se integran en las páginas de la organización.",
   "blogs.lu": "Blogs oficiales de Literary Universe",
   "blogs.featured": "Blogs destacados",

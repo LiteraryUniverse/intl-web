@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Pautan sosial adalah sama seperti yang ditetapkan dalam {type, select,\n    organization {tetapan organisasi}\n    user {profil pengguna}\n    other {}\n  }",
   "blog.social.website": "Laman web rasmi",
   "blog.settings.universeSettings": "Blog alam diperjana ke dalam halaman alam dengan tetapan asas diambil dari tetapan alam.",
+  "blog.settings.translations": "Terjemahan",
+  "blog.settings.translations.add": "Tambah bahasa",
   "blog.settings.organizationSettings": "Blog organisasi terintegrasi ke dalam halaman organisasi.",
   "blogs.lu": "Blog Rasmi Alam Sastera",
   "blogs.featured": "Blog Pilihan",

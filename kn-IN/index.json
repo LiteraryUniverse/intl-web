@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "ಸಾಮಾಜಿಕ ಲಿಂಕ್ಗಳು ಹೊಂದಿರುವುದು ಹೀಗೆಯೇ ಹೊಂದಿರುತ್ತವೆ {type, select,\n    organization {ಸಂಸ್ಥೆ ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ}\n    user {ಬಳಕೆದಾರ ಪ್ರೊಫೈಲ್ನಲ್ಲಿ}\n    other {}\n  }",
   "blog.social.website": "ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್",
   "blog.settings.universeSettings": "ಯೂನಿವರ್ಸ್ ಬ್ಲಾಗ್‌ಗಳನ್ನು ಯೂನಿವರ್ಸ್ ಪುಟಗಳ ಮೂಲ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಂದ ಕೊಳೆಗೊಳ್ಳುತ್ತದೆ.",
+  "blog.settings.translations": "ಭಾಷಾಂತರಗಳು",
+  "blog.settings.translations.add": "Add a language",
   "blog.settings.organizationSettings": "ಸಂಸ್ಥೆ ಬ್ಲಾಗ್‌ಗಳು ಸಂಸ್ಥೆ ಪುಟಗಳ ಒಳಗೊಳಗಾಗಿವೆ.",
   "blogs.lu": "ಅಧಿಕೃತ ಸಾಹಿತ್ಯ ವಿಶ್ವ ಬ್ಲಾಗ್‌ಗಳು",
   "blogs.featured": "ಆಕರ್ಷಿತ ಬ್ಲಾಗ್‌ಗಳು",

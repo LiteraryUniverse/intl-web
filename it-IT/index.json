@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "I collegamenti sociali sono gli stessi impostati in {type, select,\n    organization {impostazioni dell'organizzazione}\n    user {profilo dell'utente}\n    other {}\n  }",
   "blog.social.website": "Sito web ufficiale",
   "blog.settings.universeSettings": "I blog dell'universo sono integrati nelle pagine dell'universo con le impostazioni di base prese dalle impostazioni dell'universo.",
+  "blog.settings.translations": "Traduzioni",
+  "blog.settings.translations.add": "Aggiungi una lingua",
   "blog.settings.organizationSettings": "I blog dell'organizzazione sono integrati nelle pagine dell'organizzazione.",
   "blogs.lu": "Blog ufficiali di Literary Universe",
   "blogs.featured": "Blog in evidenza",

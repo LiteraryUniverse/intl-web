@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "Sotsiaalsed lingid on samad kui määratud {type, select,\n    organization {organisatsiooni seadetes}\n    user {kasutaja profiilis}\n    other {}\n  }",
   "blog.social.website": "Ametlik veebileht",
   "blog.settings.universeSettings": "Universe blogid on integreeritud universumi lehtedega, võttes arvesse nende põhiseadeid.",
+  "blog.settings.translations": "Tõlked",
+  "blog.settings.translations.add": "Lisa keel",
   "blog.settings.organizationSettings": "Organisatsiooni blogid on integreeritud organisatsiooni lehtedesse.",
   "blogs.lu": "Ametlik Kirjandusliku Universumi blogid",
   "blogs.featured": "Esiletõstetud blogid",

@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Sociala länkar är desamma som anges i {type, select,\n    organization {organisationsinställningar}\n    user {användarprofil}\n    other {}\n  }",
   "blog.social.website": "Officiell webbplats",
   "blog.settings.universeSettings": "Universumsbloggar integreras i universumssidor med sina grundläggande inställningar tagna från universumsinställningar.",
+  "blog.settings.translations": "Översättningar",
+  "blog.settings.translations.add": "Lägg till språk",
   "blog.settings.organizationSettings": "Organisationsbloggar är integrerade i organisationsidorna.",
   "blogs.lu": "Officiella Litterärt Universum-bloggar",
   "blogs.featured": "Utvalda bloggar",

@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "सोशल लिंक्स त्यांचे सेट केलेले आहेत ज्यामुळे त्यांनी सेट केलेले आहे त्यामुळे {type, select,\n    organization {संघटना सेटिंग्ज}\n    user {वापरकर्ता प्रोफाइल}\n    other {}\n  }",
   "blog.social.website": "अधिकृत वेबसाइट",
   "blog.settings.universeSettings": "विश्वच्या सामान्य सेटिंग्ज प्रमाणे विश्वच्या ब्लॉगे विश्वांच्या पृष्ठांमध्ये समाविष्ट करण्यात आलेले आहेत.",
+  "blog.settings.translations": "भाषांतरे",
+  "blog.settings.translations.add": "भाषा जोडा",
   "blog.settings.organizationSettings": "संस्थेच्या पानांमध्ये ब्लॉग एकत्रित केलेले आहेत",
   "blogs.lu": "अधिकृत साहित्यिक विश्व ब्लॉगे",
   "blogs.featured": "वैशिष्ट्यपूर्ण ब्लॉगे",

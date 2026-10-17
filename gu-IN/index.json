@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "સામાજિક લિંક તેના સેટ જેમાં જ છે અને {type, select,\n    organization {સંસ્થાના સેટિંગ્સમાં સેટ થઇ છે}\n    user {વપરાશકર્તા પ્રોફાઇલ}\n    other {}\n  }",
   "blog.social.website": "આધિકારિક વેબસાઈટ",
   "blog.settings.universeSettings": "યુનિવર્સ બ્લોગો યુનિવર્સ સેટિંગ્સમાંથી તેમજ તેમની મૂળભૂત સેટીંગ્સથી કરાયેલા મિલેશે.",
+  "blog.settings.translations": "અનુવાદો",
+  "blog.settings.translations.add": "ભાષા ઉમેરો",
   "blog.settings.organizationSettings": "સંસ્થાના બ્લોગો સંઘિટ કરાયા છે.",
   "blogs.lu": "આધિકારિક લિટેરરી યુનિવર્સ બ્લોગો",
   "blogs.featured": "વિશેષમાં આવેલા બ્લોગોમાં આપવામાં આવેલા",

@@ -218,6 +218,8 @@
   "blog.social.sameAsMain": "ਸੋਸ਼ਲ ਲਿੰਕ ਮੁੱਖ ਸੈਟਿੰਗਾਂ ਦੇ ਤਰੀਕੇ ਨਾਲ ਸਮਾਨ ਹਨ ਜੋ ਉਪਭੋਗਤਾ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਸੈਟ ਕੀਤੇ ਗਏ ਹਨ {type, select,\n    organization {ਸੰਗਠਨ ਸੈਟਿੰਗਾਂ}\n    user {ਯੂਜ਼ਰ ਪ੍ਰੋਫਾਈਲ}\n    other {}\n  }",
   "blog.social.website": "ਆਧਿਕਾਰਿਕ ਵੈੱਬਸਾਈਟ",
   "blog.settings.universeSettings": "ਯੂਨੀਵਰਸ ਬਲਾਗ ਯੂਨੀਵਰਸ ਸੈਟਿੰਗਾਂ ਤੋਂ ਲਿਆਈਆਂ ਮੁੱਖ ਸੈਟਿੰਗਾਂ ਨਾਲ ਯੂਨੀਵਰਸ ਪੇਜ਼ਾਂ ਵਿੱਚ ਸਮੇਟੇ ਜਾਂਦੇ ਹਨ।",
+  "blog.settings.translations": "ਅਨੁਵਾਦ",
+  "blog.settings.translations.add": "ਭਾਸ਼ਾ ਜੋੜੋ",
   "blog.settings.organizationSettings": "ਸੰਗਠਨ ਬਲੌਗ ਸੰਗਠਨ ਪੰਨਿਆਂ ਵਿੱਚ ਸਮੇਲ ਹੋਏ ਹਨ।",
   "blogs.lu": "ਆਧਾਰਿਤ ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਬਲਾਗ",
   "blogs.featured": "ਪ੍ਰਮੁੱਖ ਬਲਾਗ",

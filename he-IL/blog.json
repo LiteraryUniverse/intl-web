@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "הקישורים החברתיים זהים לאלה שהוגדרו ב- {type, select,\n    organization {הגדרות הארגון}\n    user {פרופיל המשתמש}\n    other {}\n  }",
   "blog.social.website": "אתר רשמי",
   "blog.settings.universeSettings": "בלוגים של יקום משולבים בדפי היקום ומשתמשים בהגדרות הבסיסיות מהגדרות היקום.",
+  "blog.settings.translations": "תרגומים",
+  "blog.settings.translations.add": "הוספת שפה",
   "blog.settings.organizationSettings": "בלוגים של ארגון מוטמעים בעמודי הארגון.",
   "blogs.lu": "בלוגים רשמיים של יקום הספרותי",
   "blogs.featured": "בלוגים מומלצים",

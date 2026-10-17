@@ -17,6 +17,8 @@
   "blog.social.sameAsMain": "Linkurile sociale sunt aceleași ca cele setate în {type, select,\n    organization {setările organizației}\n    user {profilul utilizatorului}\n    other {}\n  }",
   "blog.social.website": "Site web oficial",
   "blog.settings.universeSettings": "Blogurile universului sunt integrate în paginile universului cu setările lor de bază preluate din setările universului.",
+  "blog.settings.translations": "Traduceri",
+  "blog.settings.translations.add": "Adaugă o limbă",
   "blog.settings.organizationSettings": "Blogurile organizației sunt integrate în paginile organizației.",
   "blogs.lu": "Bloguri oficiale ale Literary Universe",
   "blogs.featured": "Bloguri recomandate",
