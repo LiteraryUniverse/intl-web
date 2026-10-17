@@ -985,6 +985,8 @@
   "comics.owned": "Eid",
   "comics.pageAlt": "Side {number}",
   "comics.pageCount": "{count} sider",
+  "comics.import.progress": "Importerer kapittel {chapter}/{chapters}…",
+  "comics.import.tapas": "Importer en Tapas-eksport (.zip)",
   "comics.pages": "sider",
   "comics.pages.add": "+ Legg til sider",
   "comics.pages.delete": "Slett side",

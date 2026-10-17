@@ -88,6 +88,8 @@
   "comics.owned": "സ്വന്തമാക്കിയത്",
   "comics.pageAlt": "പേജ് {number}",
   "comics.pageCount": "{count} പേജുകൾ",
+  "comics.import.progress": "അധ്യായം {chapter}/{chapters} ഇറക്കുമതി ചെയ്യുന്നു…",
+  "comics.import.tapas": "Tapas എക്സ്പോർട്ട് ഇറക്കുമതി ചെയ്യുക (.zip)",
   "comics.pages": "പേജുകൾ",
   "comics.pages.add": "+ പേജുകൾ ചേർക്കുക",
   "comics.pages.delete": "പേജ് ഇല്ലാതാക്കുക",

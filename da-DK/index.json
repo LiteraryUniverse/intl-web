@@ -985,6 +985,8 @@
   "comics.owned": "Ejet",
   "comics.pageAlt": "Side {number}",
   "comics.pageCount": "{count} sider",
+  "comics.import.progress": "Importerer kapitel {chapter}/{chapters}…",
+  "comics.import.tapas": "Importér en Tapas-eksport (.zip)",
   "comics.pages": "sider",
   "comics.pages.add": "+ Tilføj sider",
   "comics.pages.delete": "Slet side",

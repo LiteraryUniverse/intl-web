@@ -985,6 +985,8 @@
   "comics.owned": "சொந்தமானது",
   "comics.pageAlt": "பக்கம் {number}",
   "comics.pageCount": "{count} பக்கங்கள்",
+  "comics.import.progress": "அத்தியாயம் {chapter}/{chapters} இறக்குமதி செய்யப்படுகிறது…",
+  "comics.import.tapas": "Tapas ஏற்றுமதியை இறக்குமதி செய்க (.zip)",
   "comics.pages": "பக்கங்கள்",
   "comics.pages.add": "+ பக்கங்களைச் சேர்",
   "comics.pages.delete": "பக்கத்தை நீக்கு",

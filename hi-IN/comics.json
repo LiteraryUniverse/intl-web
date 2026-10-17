@@ -88,6 +88,8 @@
   "comics.owned": "स्वामित्व में",
   "comics.pageAlt": "पृष्ठ {number}",
   "comics.pageCount": "{count} पृष्ठ",
+  "comics.import.progress": "अध्याय {chapter}/{chapters} आयात हो रहा है…",
+  "comics.import.tapas": "Tapas निर्यात आयात करें (.zip)",
   "comics.pages": "पृष्ठ",
   "comics.pages.add": "+ पृष्ठ जोड़ें",
   "comics.pages.delete": "पृष्ठ हटाएं",

@@ -985,6 +985,8 @@
   "comics.owned": "Куплено",
   "comics.pageAlt": "Страница {number}",
   "comics.pageCount": "{count} страниц",
+  "comics.import.progress": "Импорт главы {chapter}/{chapters}…",
+  "comics.import.tapas": "Импортировать экспорт из Tapas (.zip)",
   "comics.pages": "страниц",
   "comics.pages.add": "+ Добавить страницы",
   "comics.pages.delete": "Удалить страницу",

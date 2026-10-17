@@ -985,6 +985,8 @@
   "comics.owned": "Posedata",
   "comics.pageAlt": "Paĝo {number}",
   "comics.pageCount": "{count} paĝoj",
+  "comics.import.progress": "Importante ĉapitron {chapter}/{chapters}…",
+  "comics.import.tapas": "Importi Tapas-eksporton (.zip)",
   "comics.pages": "paĝoj",
   "comics.pages.add": "+ Aldoni paĝojn",
   "comics.pages.delete": "Forigi paĝon",

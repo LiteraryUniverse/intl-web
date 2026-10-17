@@ -985,6 +985,8 @@
   "comics.owned": "Omandatud",
   "comics.pageAlt": "Lk {number}",
   "comics.pageCount": "{count} lehte",
+  "comics.import.progress": "Peatüki {chapter}/{chapters} importimine…",
+  "comics.import.tapas": "Impordi Tapase eksport (.zip)",
   "comics.pages": "lehed",
   "comics.pages.add": "+ Lisa lehti",
   "comics.pages.delete": "Kustuta leht",

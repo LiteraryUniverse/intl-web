@@ -985,6 +985,8 @@
   "comics.owned": "Pag-aari",
   "comics.pageAlt": "Pahina {number}",
   "comics.pageCount": "{count} pahina",
+  "comics.import.progress": "Ini-import ang kabanata {chapter}/{chapters}…",
+  "comics.import.tapas": "Mag-import ng Tapas export (.zip)",
   "comics.pages": "pahina",
   "comics.pages.add": "+ Magdagdag ng pahina",
   "comics.pages.delete": "Tanggalin ang pahina",

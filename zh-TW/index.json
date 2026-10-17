@@ -985,6 +985,8 @@
   "comics.owned": "已擁有",
   "comics.pageAlt": "第 {number} 頁",
   "comics.pageCount": "{count} 頁",
+  "comics.import.progress": "正在匯入第 {chapter}/{chapters} 章…",
+  "comics.import.tapas": "匯入 Tapas 匯出檔 (.zip)",
   "comics.pages": "頁",
   "comics.pages.add": "+ 新增頁面",
   "comics.pages.delete": "刪除頁面",

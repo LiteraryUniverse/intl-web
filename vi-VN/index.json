@@ -985,6 +985,8 @@
   "comics.owned": "Đã sở hữu",
   "comics.pageAlt": "Trang {number}",
   "comics.pageCount": "{count} trang",
+  "comics.import.progress": "Đang nhập chương {chapter}/{chapters}…",
+  "comics.import.tapas": "Nhập bản xuất từ Tapas (.zip)",
   "comics.pages": "trang",
   "comics.pages.add": "+ Thêm trang",
   "comics.pages.delete": "Xóa trang",

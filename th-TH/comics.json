@@ -88,6 +88,8 @@
   "comics.owned": "เป็นเจ้าของแล้ว",
   "comics.pageAlt": "หน้า {number}",
   "comics.pageCount": "{count} หน้า",
+  "comics.import.progress": "กำลังนำเข้าตอนที่ {chapter}/{chapters}…",
+  "comics.import.tapas": "นำเข้าไฟล์ส่งออกจาก Tapas (.zip)",
   "comics.pages": "หน้า",
   "comics.pages.add": "+ เพิ่มหน้า",
   "comics.pages.delete": "ลบหน้า",

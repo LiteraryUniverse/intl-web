@@ -985,6 +985,8 @@
   "comics.owned": "Adquirido",
   "comics.pageAlt": "Página {number}",
   "comics.pageCount": "{count} páginas",
+  "comics.import.progress": "A importar o capítulo {chapter}/{chapters}…",
+  "comics.import.tapas": "Importar uma exportação do Tapas (.zip)",
   "comics.pages": "páginas",
   "comics.pages.add": "+ Adicionar páginas",
   "comics.pages.delete": "Eliminar página",

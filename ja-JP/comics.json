@@ -88,6 +88,8 @@
   "comics.owned": "購入済み",
   "comics.pageAlt": "{number}ページ",
   "comics.pageCount": "{count}ページ",
+  "comics.import.progress": "チャプター {chapter}/{chapters} をインポート中…",
+  "comics.import.tapas": "Tapas のエクスポートをインポート (.zip)",
   "comics.pages": "ページ",
   "comics.pages.add": "＋ ページを追加",
   "comics.pages.delete": "ページを削除",

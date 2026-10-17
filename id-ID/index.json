@@ -985,6 +985,8 @@
   "comics.owned": "Dimiliki",
   "comics.pageAlt": "Halaman {number}",
   "comics.pageCount": "{count} halaman",
+  "comics.import.progress": "Mengimpor bab {chapter}/{chapters}…",
+  "comics.import.tapas": "Impor ekspor Tapas (.zip)",
   "comics.pages": "halaman",
   "comics.pages.add": "+ Tambah halaman",
   "comics.pages.delete": "Hapus halaman",

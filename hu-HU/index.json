@@ -985,6 +985,8 @@
   "comics.owned": "Birtokolt",
   "comics.pageAlt": "{number}. oldal",
   "comics.pageCount": "{count} oldal",
+  "comics.import.progress": "Fejezet importálása: {chapter}/{chapters}…",
+  "comics.import.tapas": "Tapas-exportálás importálása (.zip)",
   "comics.pages": "oldal",
   "comics.pages.add": "+ Oldalak hozzáadása",
   "comics.pages.delete": "Oldal törlése",

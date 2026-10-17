@@ -985,6 +985,8 @@
   "comics.owned": "se ponse",
   "comics.pageAlt": "papri {number}",
   "comics.pageCount": "{count} papri",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "papri",
   "comics.pages.add": "+ jmina lo papri",
   "comics.pages.delete": "vimcu lo papri",

@@ -88,6 +88,8 @@
   "comics.owned": "Vlastněno",
   "comics.pageAlt": "Stránka {number}",
   "comics.pageCount": "{count} stránek",
+  "comics.import.progress": "Importování kapitoly {chapter}/{chapters}…",
+  "comics.import.tapas": "Importovat export z Tapas (.zip)",
   "comics.pages": "stránky",
   "comics.pages.add": "+ Přidat stránky",
   "comics.pages.delete": "Smazat stránku",

@@ -88,6 +88,8 @@
   "comics.owned": "సొంతం",
   "comics.pageAlt": "పేజీ {number}",
   "comics.pageCount": "{count} పేజీలు",
+  "comics.import.progress": "అధ్యాయం {chapter}/{chapters} దిగుమతి అవుతోంది…",
+  "comics.import.tapas": "Tapas ఎగుమతిని దిగుమతి చేయండి (.zip)",
   "comics.pages": "పేజీలు",
   "comics.pages.add": "+ పేజీలను జోడించు",
   "comics.pages.delete": "పేజీని తొలగించు",

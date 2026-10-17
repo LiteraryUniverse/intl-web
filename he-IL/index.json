@@ -985,6 +985,8 @@
   "comics.owned": "בבעלותכם",
   "comics.pageAlt": "עמוד {number}",
   "comics.pageCount": "{count} עמודים",
+  "comics.import.progress": "מייבא פרק {chapter}/{chapters}…",
+  "comics.import.tapas": "ייבוא קובץ ייצוא של Tapas (.zip)",
   "comics.pages": "עמודים",
   "comics.pages.add": "+ הוספת עמודים",
   "comics.pages.delete": "מחיקת העמוד",

@@ -88,6 +88,8 @@
   "comics.owned": "स्वामित्व",
   "comics.pageAlt": "पृष्ठ {number}",
   "comics.pageCount": "{count} पृष्ठ",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "पृष्ठ",
   "comics.pages.add": "+ पृष्ठ जोड़ू",
   "comics.pages.delete": "पृष्ठ मेटाउ",

@@ -985,6 +985,8 @@
   "comics.owned": "মালিকানাধীন",
   "comics.pageAlt": "পৃষ্ঠা {number}",
   "comics.pageCount": "{count} পৃষ্ঠা",
+  "comics.import.progress": "অধ্যায় {chapter}/{chapters} আমদানি হচ্ছে…",
+  "comics.import.tapas": "একটি Tapas এক্সপোর্ট আমদানি করুন (.zip)",
   "comics.pages": "পৃষ্ঠা",
   "comics.pages.add": "+ পৃষ্ঠা যোগ করুন",
   "comics.pages.delete": "পৃষ্ঠা মুছুন",

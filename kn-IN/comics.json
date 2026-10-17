@@ -88,6 +88,8 @@
   "comics.owned": "ಸ್ವಂತ",
   "comics.pageAlt": "ಪುಟ {number}",
   "comics.pageCount": "{count} ಪುಟಗಳು",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "ಪುಟಗಳು",
   "comics.pages.add": "+ ಪುಟಗಳನ್ನು ಸೇರಿಸಿ",
   "comics.pages.delete": "ಪುಟ ಅಳಿಸಿ",

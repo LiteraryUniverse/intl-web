@@ -985,6 +985,8 @@
   "comics.owned": "Hankittu",
   "comics.pageAlt": "Sivu {number}",
   "comics.pageCount": "{count} sivua",
+  "comics.import.progress": "Tuodaan lukua {chapter}/{chapters}…",
+  "comics.import.tapas": "Tuo Tapas-vienti (.zip)",
   "comics.pages": "sivua",
   "comics.pages.add": "+ Lisää sivuja",
   "comics.pages.delete": "Poista sivu",

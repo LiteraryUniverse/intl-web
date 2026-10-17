@@ -88,6 +88,8 @@
   "comics.owned": "ਮਾਲਕੀ ਹੈ",
   "comics.pageAlt": "ਪੰਨਾ {number}",
   "comics.pageCount": "{count} ਪੰਨੇ",
+  "comics.import.progress": "ਅਧਿਆਇ {chapter}/{chapters} ਆਯਾਤ ਹੋ ਰਿਹਾ ਹੈ…",
+  "comics.import.tapas": "Tapas ਨਿਰਯਾਤ ਆਯਾਤ ਕਰੋ (.zip)",
   "comics.pages": "ਪੰਨੇ",
   "comics.pages.add": "+ ਪੰਨੇ ਸ਼ਾਮਲ ਕਰੋ",
   "comics.pages.delete": "ਪੰਨਾ ਮਿਟਾਓ",

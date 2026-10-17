@@ -88,6 +88,8 @@
   "comics.owned": "Sahip olunuyor",
   "comics.pageAlt": "Sayfa {number}",
   "comics.pageCount": "{count} sayfa",
+  "comics.import.progress": "Bölüm {chapter}/{chapters} içe aktarılıyor…",
+  "comics.import.tapas": "Tapas dışa aktarımını içe aktar (.zip)",
   "comics.pages": "sayfa",
   "comics.pages.add": "+ Sayfa ekle",
   "comics.pages.delete": "Sayfayı sil",

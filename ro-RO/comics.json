@@ -88,6 +88,8 @@
   "comics.owned": "Deținut",
   "comics.pageAlt": "Pagina {number}",
   "comics.pageCount": "{count} pagini",
+  "comics.import.progress": "Se importă capitolul {chapter}/{chapters}…",
+  "comics.import.tapas": "Importă un export Tapas (.zip)",
   "comics.pages": "pagini",
   "comics.pages.add": "+ Adaugă pagini",
   "comics.pages.delete": "Șterge pagina",

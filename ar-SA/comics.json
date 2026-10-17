@@ -88,6 +88,8 @@
   "comics.owned": "مملوك",
   "comics.pageAlt": "صفحة {number}",
   "comics.pageCount": "{count} صفحة",
+  "comics.import.progress": "جارٍ استيراد الفصل {chapter}/{chapters}…",
+  "comics.import.tapas": "استيراد ملف تصدير Tapas (.zip)",
   "comics.pages": "صفحات",
   "comics.pages.add": "+ إضافة صفحات",
   "comics.pages.delete": "حذف الصفحة",

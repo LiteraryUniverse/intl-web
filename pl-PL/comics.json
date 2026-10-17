@@ -88,6 +88,8 @@
   "comics.owned": "Posiadane",
   "comics.pageAlt": "Strona {number}",
   "comics.pageCount": "{count} stron",
+  "comics.import.progress": "Importowanie rozdziału {chapter}/{chapters}…",
+  "comics.import.tapas": "Importuj eksport z Tapas (.zip)",
   "comics.pages": "strony",
   "comics.pages.add": "+ Dodaj strony",
   "comics.pages.delete": "Usuń stronę",

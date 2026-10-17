@@ -985,6 +985,8 @@
   "comics.owned": "보유 중",
   "comics.pageAlt": "{number}페이지",
   "comics.pageCount": "{count}페이지",
+  "comics.import.progress": "챕터 {chapter}/{chapters} 가져오는 중…",
+  "comics.import.tapas": "Tapas 내보내기 가져오기 (.zip)",
   "comics.pages": "페이지",
   "comics.pages.add": "+ 페이지 추가",
   "comics.pages.delete": "페이지 삭제",

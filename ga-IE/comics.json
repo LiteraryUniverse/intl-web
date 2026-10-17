@@ -88,6 +88,8 @@
   "comics.owned": "Faoi úinéireacht",
   "comics.pageAlt": "Leathanach {number}",
   "comics.pageCount": "{count} leathanach",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "leathanaigh",
   "comics.pages.add": "+ Cuir leathanaigh leis",
   "comics.pages.delete": "Scrios an leathanach",

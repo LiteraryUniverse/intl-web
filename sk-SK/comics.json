@@ -88,6 +88,8 @@
   "comics.owned": "Zakúpené",
   "comics.pageAlt": "Strana {number}",
   "comics.pageCount": "{count} strán",
+  "comics.import.progress": "Importovanie kapitoly {chapter}/{chapters}…",
+  "comics.import.tapas": "Importovať export z Tapas (.zip)",
   "comics.pages": "strán",
   "comics.pages.add": "+ Pridať strany",
   "comics.pages.delete": "Odstrániť stranu",

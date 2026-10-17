@@ -985,6 +985,8 @@
   "comics.owned": "បានកាន់កាប់",
   "comics.pageAlt": "ទំព័រ {number}",
   "comics.pageCount": "{count} ទំព័រ",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "ទំព័រ",
   "comics.pages.add": "+ បន្ថែមទំព័រ",
   "comics.pages.delete": "លុបទំព័រ",

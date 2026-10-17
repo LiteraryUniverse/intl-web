@@ -985,6 +985,8 @@
   "comics.owned": "માલિકીનું",
   "comics.pageAlt": "પૃષ્ઠ {number}",
   "comics.pageCount": "{count} પૃષ્ઠો",
+  "comics.import.progress": "પ્રકરણ {chapter}/{chapters} આયાત થઈ રહ્યું છે…",
+  "comics.import.tapas": "Tapas નિકાસ આયાત કરો (.zip)",
   "comics.pages": "પૃષ્ઠો",
   "comics.pages.add": "+ પૃષ્ઠો ઉમેરો",
   "comics.pages.delete": "પૃષ્ઠ કાઢી નાખો",

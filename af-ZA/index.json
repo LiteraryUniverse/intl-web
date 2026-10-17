@@ -985,6 +985,8 @@
   "comics.owned": "Besit",
   "comics.pageAlt": "Bladsy {number}",
   "comics.pageCount": "{count} bladsye",
+  "comics.import.progress": "Hoofstuk {chapter}/{chapters} word ingevoer…",
+  "comics.import.tapas": "Voer 'n Tapas-uitvoer in (.zip)",
   "comics.pages": "bladsye",
   "comics.pages.add": "+ Voeg bladsye by",
   "comics.pages.delete": "Verwyder bladsy",

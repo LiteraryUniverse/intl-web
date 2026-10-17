@@ -88,6 +88,8 @@
   "comics.owned": "შეძენილი",
   "comics.pageAlt": "გვერდი {number}",
   "comics.pageCount": "{count} გვერდი",
+  "comics.import.progress": "თავის {chapter}/{chapters} იმპორტი…",
+  "comics.import.tapas": "Tapas-ის ექსპორტის იმპორტი (.zip)",
   "comics.pages": "გვერდები",
   "comics.pages.add": "+ გვერდების დამატება",
   "comics.pages.delete": "გვერდის წაშლა",

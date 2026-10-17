@@ -985,6 +985,8 @@
   "comics.owned": "Turima",
   "comics.pageAlt": "{number} puslapis",
   "comics.pageCount": "{count} psl.",
+  "comics.import.progress": "Importuojamas skyrius {chapter}/{chapters}…",
+  "comics.import.tapas": "Importuoti „Tapas“ eksportą (.zip)",
   "comics.pages": "puslapiai",
   "comics.pages.add": "+ Pridėti puslapių",
   "comics.pages.delete": "Ištrinti puslapį",

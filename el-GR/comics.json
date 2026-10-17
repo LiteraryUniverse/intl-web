@@ -88,6 +88,8 @@
   "comics.owned": "Αποκτημένο",
   "comics.pageAlt": "Σελίδα {number}",
   "comics.pageCount": "{count} σελίδες",
+  "comics.import.progress": "Εισαγωγή κεφαλαίου {chapter}/{chapters}…",
+  "comics.import.tapas": "Εισαγωγή εξαγωγής από το Tapas (.zip)",
   "comics.pages": "σελίδες",
   "comics.pages.add": "+ Προσθήκη σελίδων",
   "comics.pages.delete": "Διαγραφή σελίδας",

@@ -88,6 +88,8 @@
   "comics.owned": "ମାଲିକାନା",
   "comics.pageAlt": "ପୃଷ୍ଠା {number}",
   "comics.pageCount": "{count} ପୃଷ୍ଠା",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "ପୃଷ୍ଠା",
   "comics.pages.add": "+ ପୃଷ୍ଠା ଯୋଡ଼ନ୍ତୁ",
   "comics.pages.delete": "ପୃଷ୍ଠା ବିଲୋପ କରନ୍ତୁ",

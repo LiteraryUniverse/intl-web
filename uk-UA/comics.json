@@ -88,6 +88,8 @@
   "comics.owned": "У власності",
   "comics.pageAlt": "Сторінка {number}",
   "comics.pageCount": "{count} сторінок",
+  "comics.import.progress": "Імпорт розділу {chapter}/{chapters}…",
+  "comics.import.tapas": "Імпортувати експорт із Tapas (.zip)",
   "comics.pages": "сторінок",
   "comics.pages.add": "+ Додати сторінки",
   "comics.pages.delete": "Видалити сторінку",

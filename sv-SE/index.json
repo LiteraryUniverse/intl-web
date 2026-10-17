@@ -985,6 +985,8 @@
   "comics.owned": "Köpt",
   "comics.pageAlt": "Sida {number}",
   "comics.pageCount": "{count} sidor",
+  "comics.import.progress": "Importerar kapitel {chapter}/{chapters}…",
+  "comics.import.tapas": "Importera en Tapas-export (.zip)",
   "comics.pages": "sidor",
   "comics.pages.add": "+ Lägg till sidor",
   "comics.pages.delete": "Radera sida",

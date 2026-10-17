@@ -985,6 +985,8 @@
   "comics.owned": "Kaduwenang",
   "comics.pageAlt": "Kaca {number}",
   "comics.pageCount": "{count} kaca",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "kaca",
   "comics.pages.add": "+ Tambahang kaca",
   "comics.pages.delete": "Ngicalang kaca",

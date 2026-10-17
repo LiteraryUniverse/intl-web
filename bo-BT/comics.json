@@ -88,6 +88,8 @@
   "comics.owned": "བདག་དབང་ཡོད",
   "comics.pageAlt": "ཤོག་ངོས {number}",
   "comics.pageCount": "ཤོག་ངོས {count}",
+  "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
+  "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.pages": "ཤོག་ངོས",
   "comics.pages.add": "+ ཤོག་ངོས་སྣོན་པ",
   "comics.pages.delete": "ཤོག་ངོས་བསུབ་པ",

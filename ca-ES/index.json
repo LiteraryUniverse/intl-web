@@ -985,6 +985,8 @@
   "comics.owned": "En propietat",
   "comics.pageAlt": "Pàgina {number}",
   "comics.pageCount": "{count} pàgines",
+  "comics.import.progress": "S’està important el capítol {chapter}/{chapters}…",
+  "comics.import.tapas": "Importa una exportació de Tapas (.zip)",
   "comics.pages": "pàgines",
   "comics.pages.add": "+ Afegeix pàgines",
   "comics.pages.delete": "Elimina la pàgina",
