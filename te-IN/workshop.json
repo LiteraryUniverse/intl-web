@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "ఈ పుస్తకం KDP Selectలో నమోదై ఉంటే, ఈ EPUBను పంపిణీ చేసే ముందు మీ డిజిటల్ ప్రత్యేక హక్కుల నిబంధనలను తనిఖీ చేయండి.",
   "workshop.story.alternateFormats.epub.smallCover": "ముఖచిత్రం 625 × 1000 పిక్సెల్‌ల కంటే చిన్నది. పాఠకులు ఈ EPUBను ఉపయోగించవచ్చు, కానీ Amazon, Apple, Kobo వంటి విక్రేతలు దీన్ని తిరస్కరించవచ్చు. పంపిణీకి ముందు పెద్ద ముఖచిత్రాన్ని అప్‌లోడ్ చేయండి.",
   "workshop.story.alternateFormats.epub.missingCover": "ముఖచిత్రాన్ని డౌన్‌లోడ్ చేయలేకపోయాము లేదా దాని ఫార్మాట్‌కు మద్దతు లేదు, కాబట్టి ఈ EPUBలో ముఖచిత్రం లేదు. ముఖచిత్రాన్ని JPEG లేదా PNGగా మళ్లీ అప్‌లోడ్ చేసి EPUBను మళ్లీ సృష్టించండి.",
-  "workshop.story.alternateFormats.epub.missingImages": "కొన్ని చిత్రాలను డౌన్‌లోడ్ చేయలేకపోయాము లేదా వాటి ఫార్మాట్‌కు మద్దతు లేదు, కాబట్టి వాటిని ఈ EPUBలో చేర్చలేదు. మీ అధ్యాయాల్లోని చిత్రాలను, ప్రొఫైల్ చిత్రాన్ని తనిఖీ చేసి EPUBను మళ్లీ సృష్టించండి."
+  "workshop.story.alternateFormats.epub.missingImages": "కొన్ని చిత్రాలను డౌన్‌లోడ్ చేయలేకపోయాము లేదా వాటి ఫార్మాట్‌కు మద్దతు లేదు, కాబట్టి వాటిని ఈ EPUBలో చేర్చలేదు. మీ అధ్యాయాల్లోని చిత్రాలను, ప్రొఫైల్ చిత్రాన్ని తనిఖీ చేసి EPUBను మళ్లీ సృష్టించండి.",
+  "workshop.import.received.title": "Tapas నుండి అందింది",
+  "workshop.import.received.load": "ఈ ఫైల్‌ను దిగుమతి చేయి",
+  "workshop.import.received.loading": "తెస్తోంది…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "తీసివేయండి",
+  "workshop.import.received.unavailable": "ఎగుమతి ఈ ఫైల్‌ను ఉంచిన చోట ఇది ఇకపై అందుబాటులో లేదు. Tapas ఎగుమతిని మళ్లీ నడపండి."
 }

@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Má tá an leabhar seo cláraithe le KDP Select, seiceáil do théarmaí eisiachais dhigitigh sula ndáilfidh tú an EPUB seo.",
   "workshop.story.alternateFormats.epub.smallCover": "Tá an clúdach níos lú ná 625 × 1000 picteilín. Is féidir le léitheoirí an EPUB seo a úsáid, ach d’fhéadfadh miondíoltóirí ar nós Amazon, Apple agus Kobo diúltú dó. Uaslódáil clúdach níos mó sula ndáilfidh tú é.",
   "workshop.story.alternateFormats.epub.missingCover": "Níorbh fhéidir an clúdach a íoslódáil nó níl tacaíocht dá fhormáid, mar sin níl clúdach san EPUB seo. Uaslódáil an clúdach arís mar JPEG nó PNG agus gin an EPUB arís.",
-  "workshop.story.alternateFormats.epub.missingImages": "Níorbh fhéidir roinnt íomhánna a íoslódáil nó níl tacaíocht dá bhformáid, mar sin fágadh amach as an EPUB seo iad. Seiceáil na híomhánna i do chaibidlí agus do phictiúr próifíle, ansin gin an EPUB arís."
+  "workshop.story.alternateFormats.epub.missingImages": "Níorbh fhéidir roinnt íomhánna a íoslódáil nó níl tacaíocht dá bhformáid, mar sin fágadh amach as an EPUB seo iad. Seiceáil na híomhánna i do chaibidlí agus do phictiúr próifíle, ansin gin an EPUB arís.",
+  "workshop.import.received.title": "Received from Tapas",
+  "workshop.import.received.load": "Import this file",
+  "workshop.import.received.loading": "Fetching…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "Bain",
+  "workshop.import.received.unavailable": "This file is no longer available where the export left it. Run the Tapas export again."
 }

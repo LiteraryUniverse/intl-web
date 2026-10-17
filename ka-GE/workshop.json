@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "თუ ეს წიგნი KDP Select-შია ჩართული, ამ EPUB-ის გავრცელებამდე შეამოწმეთ ციფრული ექსკლუზიურობის პირობები.",
   "workshop.story.alternateFormats.epub.smallCover": "გარეკანი 625 × 1000 პიქსელზე მცირეა. მკითხველებს ამ EPUB-ის გამოყენება შეუძლიათ, თუმცა ისეთმა გამყიდველებმა, როგორიცაა Amazon, Apple და Kobo, შეიძლება იგი არ მიიღონ. გავრცელებამდე ატვირთეთ უფრო დიდი გარეკანი.",
   "workshop.story.alternateFormats.epub.missingCover": "გარეკანი ვერ ჩამოიტვირთა ან მისი ფორმატი არ არის მხარდაჭერილი, ამიტომ ამ EPUB-ს გარეკანი არ აქვს. ხელახლა ატვირთეთ გარეკანი JPEG ან PNG ფორმატში და თავიდან შექმენით EPUB.",
-  "workshop.story.alternateFormats.epub.missingImages": "ზოგიერთი სურათი ვერ ჩამოიტვირთა ან მისი ფორმატი არ არის მხარდაჭერილი, ამიტომ ისინი ამ EPUB-ში არ შევიდა. შეამოწმეთ თავებში არსებული სურათები და პროფილის ფოტო, შემდეგ თავიდან შექმენით EPUB."
+  "workshop.story.alternateFormats.epub.missingImages": "ზოგიერთი სურათი ვერ ჩამოიტვირთა ან მისი ფორმატი არ არის მხარდაჭერილი, ამიტომ ისინი ამ EPUB-ში არ შევიდა. შეამოწმეთ თავებში არსებული სურათები და პროფილის ფოტო, შემდეგ თავიდან შექმენით EPUB.",
+  "workshop.import.received.title": "მიღებულია Tapas-იდან",
+  "workshop.import.received.load": "ამ ფაილის იმპორტი",
+  "workshop.import.received.loading": "იტვირთება…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "წაშლა",
+  "workshop.import.received.unavailable": "ეს ფაილი აღარ არის ხელმისაწვდომი იქ, სადაც ექსპორტმა დატოვა. გაუშვით Tapas-ის ექსპორტი ხელახლა."
 }

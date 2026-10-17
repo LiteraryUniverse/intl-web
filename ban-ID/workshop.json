@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Yening buku puniki kadaptar ring KDP Select, priksa sarat eksklusivitas digital sadurung nyebarang EPUB puniki.",
   "workshop.story.alternateFormats.epub.smallCover": "Sampul langkung alit saking 625 × 1000 piksel. Para pangwacen prasida nganggen EPUB puniki, nanging toko sekadi Amazon, Apple miwah Kobo prasida nolak. Unggah sampul sane langkung ageng sadurung nyebarang.",
   "workshop.story.alternateFormats.epub.missingCover": "Sampul nenten prasida kaunduh utawi formatnyane nenten kadukung, dados EPUB puniki nenten madue sampul. Unggah malih sampul pinaka JPEG utawi PNG tur kardi malih EPUB.",
-  "workshop.story.alternateFormats.epub.missingImages": "Wenten gambar sane nenten prasida kaunduh utawi formatnyane nenten kadukung, dados nenten kalebetang ring EPUB puniki. Priksa gambar ring bab miwah foto profil ragane, raris kardi malih EPUB."
+  "workshop.story.alternateFormats.epub.missingImages": "Wenten gambar sane nenten prasida kaunduh utawi formatnyane nenten kadukung, dados nenten kalebetang ring EPUB puniki. Priksa gambar ring bab miwah foto profil ragane, raris kardi malih EPUB.",
+  "workshop.import.received.title": "Received from Tapas",
+  "workshop.import.received.load": "Import this file",
+  "workshop.import.received.loading": "Fetching…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "Aadang",
+  "workshop.import.received.unavailable": "This file is no longer available where the export left it. Run the Tapas export again."
 }

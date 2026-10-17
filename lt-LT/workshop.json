@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Jei ši knyga įtraukta į KDP Select programą, prieš platindami šį EPUB patikrinkite skaitmeninio išskirtinumo sąlygas.",
   "workshop.story.alternateFormats.epub.smallCover": "Viršelis mažesnis nei 625 × 1000 pikselių. Skaitytojai gali naudoti šį EPUB, tačiau pardavėjai, tokie kaip Amazon, Apple ir Kobo, gali jį atmesti. Prieš platindami įkelkite didesnį viršelį.",
   "workshop.story.alternateFormats.epub.missingCover": "Viršelio nepavyko atsisiųsti arba jo formatas nepalaikomas, todėl šis EPUB neturi viršelio. Dar kartą įkelkite viršelį JPEG arba PNG formatu ir iš naujo sugeneruokite EPUB.",
-  "workshop.story.alternateFormats.epub.missingImages": "Kai kurių paveikslėlių nepavyko atsisiųsti arba jų formatas nepalaikomas, todėl jie neįtraukti į šį EPUB. Patikrinkite skyrių paveikslėlius ir savo profilio nuotrauką, tada iš naujo sugeneruokite EPUB."
+  "workshop.story.alternateFormats.epub.missingImages": "Kai kurių paveikslėlių nepavyko atsisiųsti arba jų formatas nepalaikomas, todėl jie neįtraukti į šį EPUB. Patikrinkite skyrių paveikslėlius ir savo profilio nuotrauką, tada iš naujo sugeneruokite EPUB.",
+  "workshop.import.received.title": "Gauta iš „Tapas“",
+  "workshop.import.received.load": "Importuoti šį failą",
+  "workshop.import.received.loading": "Gaunama…",
+  "workshop.import.received.download": "Atsisiųsti",
+  "workshop.import.received.remove": "Pašalinti",
+  "workshop.import.received.unavailable": "Šio failo nebėra ten, kur jį paliko eksportas. Paleiskite „Tapas“ eksportą iš naujo."
 }

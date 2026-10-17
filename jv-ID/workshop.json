@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Yen buku iki kadhaptar ing KDP Select, priksa syarat eksklusivitas digital sadurunge nyebarake EPUB iki.",
   "workshop.story.alternateFormats.epub.smallCover": "Sampul luwih cilik tinimbang 625 × 1000 piksel. Pamaca bisa nggunakake EPUB iki, nanging toko kaya Amazon, Apple lan Kobo bisa nolak. Unggah sampul sing luwih gedhe sadurunge nyebarake.",
   "workshop.story.alternateFormats.epub.missingCover": "Sampul ora bisa diundhuh utawa formate ora didhukung, mula EPUB iki ora duwe sampul. Unggah maneh sampul minangka JPEG utawa PNG lan gawe maneh EPUB.",
-  "workshop.story.alternateFormats.epub.missingImages": "Sawetara gambar ora bisa diundhuh utawa formate ora didhukung, mula ora dilebokake ing EPUB iki. Priksa gambar ing bab-bab lan foto profil sampeyan, banjur gawe maneh EPUB."
+  "workshop.story.alternateFormats.epub.missingImages": "Sawetara gambar ora bisa diundhuh utawa formate ora didhukung, mula ora dilebokake ing EPUB iki. Priksa gambar ing bab-bab lan foto profil sampeyan, banjur gawe maneh EPUB.",
+  "workshop.import.received.title": "Received from Tapas",
+  "workshop.import.received.load": "Import this file",
+  "workshop.import.received.loading": "Fetching…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "Busak",
+  "workshop.import.received.unavailable": "This file is no longer available where the export left it. Run the Tapas export again."
 }

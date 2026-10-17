@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "이 책이 KDP Select에 등록되어 있다면 이 EPUB을 배포하기 전에 디지털 독점 조건을 확인하세요.",
   "workshop.story.alternateFormats.epub.smallCover": "표지가 625 × 1000픽셀보다 작습니다. 독자는 이 EPUB을 사용할 수 있지만 Amazon, Apple, Kobo 등의 판매처에서는 거부할 수 있습니다. 배포하기 전에 더 큰 표지를 업로드하세요.",
   "workshop.story.alternateFormats.epub.missingCover": "표지를 다운로드할 수 없거나 지원하지 않는 형식이므로 이 EPUB에는 표지가 없습니다. 표지를 JPEG 또는 PNG로 다시 업로드한 후 EPUB을 다시 생성하세요.",
-  "workshop.story.alternateFormats.epub.missingImages": "일부 이미지를 다운로드할 수 없거나 지원하지 않는 형식이므로 이 EPUB에서 제외했습니다. 각 장의 이미지와 프로필 사진을 확인한 후 EPUB을 다시 생성하세요."
+  "workshop.story.alternateFormats.epub.missingImages": "일부 이미지를 다운로드할 수 없거나 지원하지 않는 형식이므로 이 EPUB에서 제외했습니다. 각 장의 이미지와 프로필 사진을 확인한 후 EPUB을 다시 생성하세요.",
+  "workshop.import.received.title": "Tapas에서 받음",
+  "workshop.import.received.load": "이 파일 가져오기",
+  "workshop.import.received.loading": "가져오는 중…",
+  "workshop.import.received.download": "다운로드",
+  "workshop.import.received.remove": "제거",
+  "workshop.import.received.unavailable": "내보내기가 저장한 위치에서 이 파일을 더 이상 찾을 수 없습니다. Tapas 내보내기를 다시 실행하세요."
 }

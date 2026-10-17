@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Se ĉi tiu libro estas registrita en KDP Select, kontrolu la kondiĉojn pri cifereca ekskluziveco antaŭ ol distribui ĉi tiun EPUB-dosieron.",
   "workshop.story.alternateFormats.epub.smallCover": "La kovrilo estas malpli granda ol 625 × 1000 bilderoj. Legantoj povas uzi ĉi tiun EPUB-dosieron, sed vendejoj kiel Amazon, Apple kaj Kobo povas malakcepti ĝin. Alŝutu pli grandan kovrilon antaŭ ol distribui ĝin.",
   "workshop.story.alternateFormats.epub.missingCover": "Ne eblis elŝuti la kovrilon aŭ ĝia formato ne estas subtenata, do ĉi tiu EPUB-dosiero ne havas kovrilon. Realŝutu la kovrilon kiel JPEG aŭ PNG kaj regeneru la dosieron.",
-  "workshop.story.alternateFormats.epub.missingImages": "Ne eblis elŝuti kelkajn bildojn aŭ ilia formato ne estas subtenata, do ili estis ellasitaj el ĉi tiu EPUB-dosiero. Kontrolu la bildojn en viaj ĉapitroj kaj vian profilbildon, poste regeneru la dosieron."
+  "workshop.story.alternateFormats.epub.missingImages": "Ne eblis elŝuti kelkajn bildojn aŭ ilia formato ne estas subtenata, do ili estis ellasitaj el ĉi tiu EPUB-dosiero. Kontrolu la bildojn en viaj ĉapitroj kaj vian profilbildon, poste regeneru la dosieron.",
+  "workshop.import.received.title": "Ricevita de Tapas",
+  "workshop.import.received.load": "Importi ĉi tiun dosieron",
+  "workshop.import.received.loading": "Prenas…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "Forigi",
+  "workshop.import.received.unavailable": "Ĉi tiu dosiero ne plu haveblas tie, kie la eksporto lasis ĝin. Rulu la Tapas-eksporton denove."
 }

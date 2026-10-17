@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "ਜੇ ਇਹ ਕਿਤਾਬ KDP Select ਵਿੱਚ ਸ਼ਾਮਲ ਹੈ, ਤਾਂ ਇਸ EPUB ਨੂੰ ਵੰਡਣ ਤੋਂ ਪਹਿਲਾਂ ਡਿਜੀਟਲ ਵੰਡ ਦੇ ਵਿਸ਼ੇਸ਼ ਅਧਿਕਾਰਾਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਜਾਂਚੋ।",
   "workshop.story.alternateFormats.epub.smallCover": "ਕਵਰ 625 × 1000 ਪਿਕਸਲ ਤੋਂ ਛੋਟਾ ਹੈ। ਪਾਠਕ ਇਸ EPUB ਨੂੰ ਵਰਤ ਸਕਦੇ ਹਨ, ਪਰ Amazon, Apple ਅਤੇ Kobo ਵਰਗੇ ਵਿਕਰੇਤਾ ਇਸ ਨੂੰ ਰੱਦ ਕਰ ਸਕਦੇ ਹਨ। ਵੰਡਣ ਤੋਂ ਪਹਿਲਾਂ ਵੱਡਾ ਕਵਰ ਅੱਪਲੋਡ ਕਰੋ।",
   "workshop.story.alternateFormats.epub.missingCover": "ਕਵਰ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋ ਸਕਿਆ ਜਾਂ ਇਸ ਦਾ ਫਾਰਮੈਟ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ, ਇਸ ਲਈ ਇਸ EPUB ਵਿੱਚ ਕਵਰ ਨਹੀਂ ਹੈ। ਕਵਰ ਨੂੰ JPEG ਜਾਂ PNG ਵਜੋਂ ਦੁਬਾਰਾ ਅੱਪਲੋਡ ਕਰੋ ਅਤੇ EPUB ਮੁੜ ਬਣਾਓ।",
-  "workshop.story.alternateFormats.epub.missingImages": "ਕੁਝ ਤਸਵੀਰਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋ ਸਕੀਆਂ ਜਾਂ ਉਨ੍ਹਾਂ ਦਾ ਫਾਰਮੈਟ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ, ਇਸ ਲਈ ਉਨ੍ਹਾਂ ਨੂੰ ਇਸ EPUB ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਗਿਆ। ਆਪਣੇ ਅਧਿਆਇਆਂ ਦੀਆਂ ਤਸਵੀਰਾਂ ਅਤੇ ਪ੍ਰੋਫਾਈਲ ਤਸਵੀਰ ਜਾਂਚੋ, ਫਿਰ EPUB ਮੁੜ ਬਣਾਓ।"
+  "workshop.story.alternateFormats.epub.missingImages": "ਕੁਝ ਤਸਵੀਰਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋ ਸਕੀਆਂ ਜਾਂ ਉਨ੍ਹਾਂ ਦਾ ਫਾਰਮੈਟ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ, ਇਸ ਲਈ ਉਨ੍ਹਾਂ ਨੂੰ ਇਸ EPUB ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਗਿਆ। ਆਪਣੇ ਅਧਿਆਇਆਂ ਦੀਆਂ ਤਸਵੀਰਾਂ ਅਤੇ ਪ੍ਰੋਫਾਈਲ ਤਸਵੀਰ ਜਾਂਚੋ, ਫਿਰ EPUB ਮੁੜ ਬਣਾਓ।",
+  "workshop.import.received.title": "Tapas ਤੋਂ ਪ੍ਰਾਪਤ",
+  "workshop.import.received.load": "ਇਹ ਫ਼ਾਈਲ ਆਯਾਤ ਕਰੋ",
+  "workshop.import.received.loading": "ਲਿਆਇਆ ਜਾ ਰਿਹਾ ਹੈ…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "ਹਟਾਓ",
+  "workshop.import.received.unavailable": "ਇਹ ਫ਼ਾਈਲ ਹੁਣ ਉੱਥੇ ਉਪਲਬਧ ਨਹੀਂ ਜਿੱਥੇ ਨਿਰਯਾਤ ਨੇ ਇਸਨੂੰ ਛੱਡਿਆ ਸੀ। Tapas ਨਿਰਯਾਤ ਦੁਬਾਰਾ ਚਲਾਓ।"
 }

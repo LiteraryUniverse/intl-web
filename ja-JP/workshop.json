@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "この本がKDP Selectに登録されている場合は、このEPUBを配布する前にデジタル版の独占販売条件を確認してください。",
   "workshop.story.alternateFormats.epub.smallCover": "表紙が625 × 1000ピクセル未満です。読者はこのEPUBを利用できますが、Amazon、Apple、Koboなどの販売店では受け付けられない場合があります。配布する前に、より大きな表紙をアップロードしてください。",
   "workshop.story.alternateFormats.epub.missingCover": "表紙をダウンロードできなかったか、対応していない形式だったため、このEPUBには表紙がありません。表紙をJPEGまたはPNG形式で再度アップロードし、EPUBを生成し直してください。",
-  "workshop.story.alternateFormats.epub.missingImages": "一部の画像をダウンロードできなかったか、対応していない形式だったため、このEPUBから除外しました。各章の画像とプロフィール画像を確認し、EPUBを生成し直してください。"
+  "workshop.story.alternateFormats.epub.missingImages": "一部の画像をダウンロードできなかったか、対応していない形式だったため、このEPUBから除外しました。各章の画像とプロフィール画像を確認し、EPUBを生成し直してください。",
+  "workshop.import.received.title": "Tapas から受信",
+  "workshop.import.received.load": "このファイルをインポート",
+  "workshop.import.received.loading": "取得中…",
+  "workshop.import.received.download": "ダウンロード",
+  "workshop.import.received.remove": "削除",
+  "workshop.import.received.unavailable": "このファイルは、エクスポートが保存した場所にはもうありません。Tapas のエクスポートをもう一度実行してください。"
 }

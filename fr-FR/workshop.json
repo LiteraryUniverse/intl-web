@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Si ce livre est inscrit à KDP Select, vérifiez vos conditions d’exclusivité numérique avant de distribuer cet EPUB.",
   "workshop.story.alternateFormats.epub.smallCover": "La couverture mesure moins de 625 × 1000 pixels. Les lecteurs peuvent utiliser cet EPUB, mais des revendeurs comme Amazon, Apple et Kobo pourraient le refuser. Importez une couverture plus grande avant de le distribuer.",
   "workshop.story.alternateFormats.epub.missingCover": "La couverture n’a pas pu être téléchargée ou son format n’est pas pris en charge. Cet EPUB n’a donc pas de couverture. Importez à nouveau la couverture au format JPEG ou PNG, puis générez à nouveau l’EPUB.",
-  "workshop.story.alternateFormats.epub.missingImages": "Certaines images n’ont pas pu être téléchargées ou leur format n’est pas pris en charge. Elles ont donc été omises de cet EPUB. Vérifiez les images de vos chapitres et votre photo de profil, puis générez à nouveau l’EPUB."
+  "workshop.story.alternateFormats.epub.missingImages": "Certaines images n’ont pas pu être téléchargées ou leur format n’est pas pris en charge. Elles ont donc été omises de cet EPUB. Vérifiez les images de vos chapitres et votre photo de profil, puis générez à nouveau l’EPUB.",
+  "workshop.import.received.title": "Reçu de Tapas",
+  "workshop.import.received.load": "Importer ce fichier",
+  "workshop.import.received.loading": "Récupération…",
+  "workshop.import.received.download": "Télécharger",
+  "workshop.import.received.remove": "Supprimer",
+  "workshop.import.received.unavailable": "Ce fichier n’est plus disponible là où l’export l’avait déposé. Relancez l’export Tapas."
 }

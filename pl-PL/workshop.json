@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Jeśli ta książka jest zapisana do KDP Select, przed rozpowszechnianiem tego pliku EPUB sprawdź warunki wyłączności cyfrowej.",
   "workshop.story.alternateFormats.epub.smallCover": "Okładka jest mniejsza niż 625 × 1000 pikseli. Czytelnicy mogą korzystać z tego pliku EPUB, ale sprzedawcy tacy jak Amazon, Apple i Kobo mogą go odrzucić. Przed dystrybucją prześlij większą okładkę.",
   "workshop.story.alternateFormats.epub.missingCover": "Nie udało się pobrać okładki lub jej format nie jest obsługiwany, dlatego ten plik EPUB nie ma okładki. Prześlij ją ponownie w formacie JPEG lub PNG i jeszcze raz wygeneruj EPUB.",
-  "workshop.story.alternateFormats.epub.missingImages": "Nie udało się pobrać niektórych obrazów lub ich format nie jest obsługiwany, dlatego pominięto je w tym pliku EPUB. Sprawdź obrazy w rozdziałach i swoje zdjęcie profilowe, a następnie ponownie wygeneruj EPUB."
+  "workshop.story.alternateFormats.epub.missingImages": "Nie udało się pobrać niektórych obrazów lub ich format nie jest obsługiwany, dlatego pominięto je w tym pliku EPUB. Sprawdź obrazy w rozdziałach i swoje zdjęcie profilowe, a następnie ponownie wygeneruj EPUB.",
+  "workshop.import.received.title": "Otrzymane z Tapas",
+  "workshop.import.received.load": "Importuj ten plik",
+  "workshop.import.received.loading": "Pobieranie…",
+  "workshop.import.received.download": "Pobierz",
+  "workshop.import.received.remove": "Usuń",
+  "workshop.import.received.unavailable": "Ten plik nie jest już dostępny tam, gdzie zostawił go eksport. Uruchom eksport z Tapas ponownie."
 }

@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "जँ ई पुस्तक KDP Select मे पंजीकृत अछि, तँ एहि EPUB केँ वितरित करबा सँ पहिने डिजिटल वितरणक विशेष अधिकारक शर्त जाँचू।",
   "workshop.story.alternateFormats.epub.smallCover": "आवरण 625 × 1000 पिक्सेल सँ छोट अछि। पाठक एहि EPUB केर उपयोग कऽ सकैत छथि, मुदा Amazon, Apple आ Kobo सन विक्रेता एकरा अस्वीकार कऽ सकैत अछि। वितरण सँ पहिने पैघ आवरण अपलोड करू।",
   "workshop.story.alternateFormats.epub.missingCover": "आवरण डाउनलोड नहि भऽ सकल वा एकर फॉर्मेट समर्थित नहि अछि, तेँ एहि EPUB मे आवरण नहि अछि। आवरण केँ JPEG वा PNG मे फेर अपलोड करू आ EPUB फेर बनाउ।",
-  "workshop.story.alternateFormats.epub.missingImages": "किछु चित्र डाउनलोड नहि भऽ सकल वा ओकर फॉर्मेट समर्थित नहि अछि, तेँ ओकरा एहि EPUB मे शामिल नहि कएल गेल अछि। अपन अध्यायक चित्र आ प्रोफाइल फोटो जाँचू, तकर बाद EPUB फेर बनाउ।"
+  "workshop.story.alternateFormats.epub.missingImages": "किछु चित्र डाउनलोड नहि भऽ सकल वा ओकर फॉर्मेट समर्थित नहि अछि, तेँ ओकरा एहि EPUB मे शामिल नहि कएल गेल अछि। अपन अध्यायक चित्र आ प्रोफाइल फोटो जाँचू, तकर बाद EPUB फेर बनाउ।",
+  "workshop.import.received.title": "Received from Tapas",
+  "workshop.import.received.load": "Import this file",
+  "workshop.import.received.loading": "Fetching…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "हटाएँ",
+  "workshop.import.received.unavailable": "This file is no longer available where the export left it. Run the Tapas export again."
 }

@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Hvis denne boken er påmeldt KDP Select, må du sjekke vilkårene for digital eksklusivitet før du distribuerer denne EPUB-filen.",
   "workshop.story.alternateFormats.epub.smallCover": "Omslaget er mindre enn 625 × 1000 piksler. Lesere kan bruke denne EPUB-filen, men forhandlere som Amazon, Apple og Kobo kan avvise den. Last opp et større omslag før du distribuerer den.",
   "workshop.story.alternateFormats.epub.missingCover": "Omslaget kunne ikke lastes ned eller har et format som ikke støttes. Derfor har denne EPUB-filen ikke noe omslag. Last opp omslaget på nytt som JPEG eller PNG, og generer filen på nytt.",
-  "workshop.story.alternateFormats.epub.missingImages": "Noen bilder kunne ikke lastes ned eller har et format som ikke støttes, og ble derfor utelatt fra denne EPUB-filen. Sjekk bildene i kapitlene og profilbildet ditt, og generer filen på nytt."
+  "workshop.story.alternateFormats.epub.missingImages": "Noen bilder kunne ikke lastes ned eller har et format som ikke støttes, og ble derfor utelatt fra denne EPUB-filen. Sjekk bildene i kapitlene og profilbildet ditt, og generer filen på nytt.",
+  "workshop.import.received.title": "Mottatt fra Tapas",
+  "workshop.import.received.load": "Importer denne filen",
+  "workshop.import.received.loading": "Henter…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "Fjern",
+  "workshop.import.received.unavailable": "Denne filen er ikke lenger tilgjengelig der eksporten la den. Kjør Tapas-eksporten på nytt."
 }

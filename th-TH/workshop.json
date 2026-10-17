@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "หากหนังสือเล่มนี้เข้าร่วม KDP Select โปรดตรวจสอบเงื่อนไขสิทธิ์เผยแพร่ดิจิทัลแต่เพียงผู้เดียวก่อนแจกจ่าย EPUB นี้",
   "workshop.story.alternateFormats.epub.smallCover": "ปกมีขนาดเล็กกว่า 625 × 1000 พิกเซล ผู้อ่านสามารถใช้ EPUB นี้ได้ แต่ร้านค้า เช่น Amazon, Apple และ Kobo อาจปฏิเสธไฟล์นี้ โปรดอัปโหลดปกที่ใหญ่ขึ้นก่อนแจกจ่าย",
   "workshop.story.alternateFormats.epub.missingCover": "ไม่สามารถดาวน์โหลดปกได้หรือรูปแบบไฟล์ไม่รองรับ EPUB นี้จึงไม่มีปก โปรดอัปโหลดปกอีกครั้งในรูปแบบ JPEG หรือ PNG แล้วสร้าง EPUB ใหม่",
-  "workshop.story.alternateFormats.epub.missingImages": "ไม่สามารถดาวน์โหลดรูปภาพบางรูปได้หรือรูปแบบไฟล์ไม่รองรับ จึงไม่ได้รวมรูปภาพเหล่านั้นไว้ใน EPUB นี้ โปรดตรวจสอบรูปภาพในบทต่าง ๆ และรูปโปรไฟล์ของคุณ แล้วสร้าง EPUB ใหม่"
+  "workshop.story.alternateFormats.epub.missingImages": "ไม่สามารถดาวน์โหลดรูปภาพบางรูปได้หรือรูปแบบไฟล์ไม่รองรับ จึงไม่ได้รวมรูปภาพเหล่านั้นไว้ใน EPUB นี้ โปรดตรวจสอบรูปภาพในบทต่าง ๆ และรูปโปรไฟล์ของคุณ แล้วสร้าง EPUB ใหม่",
+  "workshop.import.received.title": "ได้รับจาก Tapas",
+  "workshop.import.received.load": "นำเข้าไฟล์นี้",
+  "workshop.import.received.loading": "กำลังดึงข้อมูล…",
+  "workshop.import.received.download": "ดาวน์โหลด",
+  "workshop.import.received.remove": "ลบ",
+  "workshop.import.received.unavailable": "ไฟล์นี้ไม่มีอยู่ในตำแหน่งที่การส่งออกวางไว้อีกต่อไป โปรดเรียกใช้การส่งออกจาก Tapas อีกครั้ง"
 }

@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "ಈ ಪುಸ್ತಕವು KDP Select ನಲ್ಲಿ ನೋಂದಾಯಿತವಾಗಿದ್ದರೆ, ಈ EPUB ಅನ್ನು ವಿತರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡಿಜಿಟಲ್ ವಿಶೇಷ ಹಕ್ಕುಗಳ ಷರತ್ತುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",
   "workshop.story.alternateFormats.epub.smallCover": "ಮುಖಪುಟವು 625 × 1000 ಪಿಕ್ಸೆಲ್‌ಗಳಿಗಿಂತ ಚಿಕ್ಕದಾಗಿದೆ. ಓದುಗರು ಈ EPUB ಅನ್ನು ಬಳಸಬಹುದು, ಆದರೆ Amazon, Apple ಮತ್ತು Kobo ನಂತಹ ಮಾರಾಟಗಾರರು ಅದನ್ನು ತಿರಸ್ಕರಿಸಬಹುದು. ವಿತರಿಸುವ ಮೊದಲು ದೊಡ್ಡ ಮುಖಪುಟವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.",
   "workshop.story.alternateFormats.epub.missingCover": "ಮುಖಪುಟವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ ಅಥವಾ ಅದರ ಸ್ವರೂಪವು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ, ಆದ್ದರಿಂದ ಈ EPUB ನಲ್ಲಿ ಮುಖಪುಟವಿಲ್ಲ. ಮುಖಪುಟವನ್ನು JPEG ಅಥವಾ PNG ಆಗಿ ಮತ್ತೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು EPUB ಅನ್ನು ಮತ್ತೆ ರಚಿಸಿ.",
-  "workshop.story.alternateFormats.epub.missingImages": "ಕೆಲವು ಚಿತ್ರಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ ಅಥವಾ ಅವುಗಳ ಸ್ವರೂಪವು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ, ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು ಈ EPUB ನಿಂದ ಕೈಬಿಡಲಾಗಿದೆ. ನಿಮ್ಮ ಅಧ್ಯಾಯಗಳಲ್ಲಿನ ಚಿತ್ರಗಳು ಮತ್ತು ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಪರಿಶೀಲಿಸಿ, ನಂತರ EPUB ಅನ್ನು ಮತ್ತೆ ರಚಿಸಿ."
+  "workshop.story.alternateFormats.epub.missingImages": "ಕೆಲವು ಚಿತ್ರಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ ಅಥವಾ ಅವುಗಳ ಸ್ವರೂಪವು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ, ಆದ್ದರಿಂದ ಅವುಗಳನ್ನು ಈ EPUB ನಿಂದ ಕೈಬಿಡಲಾಗಿದೆ. ನಿಮ್ಮ ಅಧ್ಯಾಯಗಳಲ್ಲಿನ ಚಿತ್ರಗಳು ಮತ್ತು ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಪರಿಶೀಲಿಸಿ, ನಂತರ EPUB ಅನ್ನು ಮತ್ತೆ ರಚಿಸಿ.",
+  "workshop.import.received.title": "Received from Tapas",
+  "workshop.import.received.load": "Import this file",
+  "workshop.import.received.loading": "Fetching…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "ತೆಗೆದುಹಾಕು",
+  "workshop.import.received.unavailable": "This file is no longer available where the export left it. Run the Tapas export again."
 }

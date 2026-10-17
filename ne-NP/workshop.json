@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "यो पुस्तक KDP Select मा दर्ता गरिएको छ भने, यो EPUB वितरण गर्नुअघि डिजिटल वितरणको एकाधिकारसम्बन्धी सर्तहरू जाँच्नुहोस्।",
   "workshop.story.alternateFormats.epub.smallCover": "आवरण 625 × 1000 पिक्सेलभन्दा सानो छ। पाठकहरूले यो EPUB प्रयोग गर्न सक्छन्, तर Amazon, Apple र Kobo जस्ता विक्रेताहरूले यसलाई अस्वीकार गर्न सक्छन्। वितरण गर्नुअघि ठूलो आवरण अपलोड गर्नुहोस्।",
   "workshop.story.alternateFormats.epub.missingCover": "आवरण डाउनलोड गर्न सकिएन वा यसको ढाँचा समर्थित छैन, त्यसैले यो EPUB मा आवरण छैन। आवरणलाई JPEG वा PNG मा फेरि अपलोड गरेर EPUB पुनः सिर्जना गर्नुहोस्।",
-  "workshop.story.alternateFormats.epub.missingImages": "केही तस्बिरहरू डाउनलोड गर्न सकिएन वा तिनको ढाँचा समर्थित छैन, त्यसैले तिनलाई यो EPUB मा समावेश गरिएको छैन। आफ्ना अध्यायका तस्बिरहरू र प्रोफाइल तस्बिर जाँचेर EPUB पुनः सिर्जना गर्नुहोस्।"
+  "workshop.story.alternateFormats.epub.missingImages": "केही तस्बिरहरू डाउनलोड गर्न सकिएन वा तिनको ढाँचा समर्थित छैन, त्यसैले तिनलाई यो EPUB मा समावेश गरिएको छैन। आफ्ना अध्यायका तस्बिरहरू र प्रोफाइल तस्बिर जाँचेर EPUB पुनः सिर्जना गर्नुहोस्।",
+  "workshop.import.received.title": "Tapas बाट प्राप्त",
+  "workshop.import.received.load": "यो फाइल आयात गर्नुहोस्",
+  "workshop.import.received.loading": "ल्याउँदै…",
+  "workshop.import.received.download": "Download",
+  "workshop.import.received.remove": "हटाउनुहोस्",
+  "workshop.import.received.unavailable": "निर्यातले यो फाइल राखेको ठाउँमा अब यो उपलब्ध छैन। Tapas निर्यात फेरि चलाउनुहोस्।"
 }

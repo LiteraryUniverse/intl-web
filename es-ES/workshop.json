@@ -1062,5 +1062,11 @@
   "workshop.story.alternateFormats.epub.kdpSelect": "Si este libro está inscrito en KDP Select, revisa las condiciones de exclusividad digital antes de distribuir este EPUB.",
   "workshop.story.alternateFormats.epub.smallCover": "La cubierta mide menos de 625 × 1000 píxeles. Los lectores pueden usar este EPUB, pero tiendas como Amazon, Apple y Kobo podrían rechazarlo. Sube una cubierta más grande antes de distribuirlo.",
   "workshop.story.alternateFormats.epub.missingCover": "No se ha podido descargar la cubierta o su formato no es compatible, por lo que este EPUB no tiene cubierta. Vuelve a subirla en JPEG o PNG y genera el EPUB de nuevo.",
-  "workshop.story.alternateFormats.epub.missingImages": "Algunas imágenes no se han podido descargar o tienen un formato no compatible, por lo que se han omitido de este EPUB. Revisa las imágenes de tus capítulos y tu foto de perfil y vuelve a generarlo."
+  "workshop.story.alternateFormats.epub.missingImages": "Algunas imágenes no se han podido descargar o tienen un formato no compatible, por lo que se han omitido de este EPUB. Revisa las imágenes de tus capítulos y tu foto de perfil y vuelve a generarlo.",
+  "workshop.import.received.title": "Recibido de Tapas",
+  "workshop.import.received.load": "Importar este archivo",
+  "workshop.import.received.loading": "Obteniendo…",
+  "workshop.import.received.download": "Descargar",
+  "workshop.import.received.remove": "Eliminar",
+  "workshop.import.received.unavailable": "Este archivo ya no está disponible donde lo dejó la exportación. Vuelve a ejecutar la exportación de Tapas."
 }
