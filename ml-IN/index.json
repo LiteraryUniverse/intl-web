@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "വായനക്കാർക്ക് ഒറ്റ അധ്യായം വാങ്ങാം. മുഴുവൻ {format}-നും വോള്യങ്ങൾക്കും ഒപ്പം വിൽക്കാം.",
   "comics.pricing.full": "മുഴുവൻ {format} വില",
   "comics.pricing.fullHelp": "ഒറ്റ വാങ്ങലായി വിൽക്കുന്നു.",
+  "comics.purchase.complete": "വാങ്ങൽ പൂർത്തിയായി! നിങ്ങൾ വാങ്ങിയത് ഇപ്പോൾ നിങ്ങളുടെ ലൈബ്രറിയിലുണ്ട്.",
   "comics.purchaseMode": "വിൽപ്പന മാതൃക",
   "comics.purchaseMode.chapter": "ഓരോ അധ്യായവും",
   "comics.purchaseMode.full": "മുഴുവൻ {format}",

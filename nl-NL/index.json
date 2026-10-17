@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Lezers kunnen één hoofdstuk kopen. Kan naast de hele {format} en delen worden verkocht.",
   "comics.pricing.full": "Prijs van de hele {format}",
   "comics.pricing.fullHelp": "Verkocht als één aankoop.",
+  "comics.purchase.complete": "Aankoop voltooid! Wat je hebt gekocht staat nu in je bibliotheek.",
   "comics.purchaseMode": "Verkoopmodel",
   "comics.purchaseMode.chapter": "Per hoofdstuk",
   "comics.purchaseMode.full": "Hele {format}",

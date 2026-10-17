@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Czytelnicy mogą kupić pojedynczy rozdział. Można go sprzedawać także jako cały {format} oraz w tomach.",
   "comics.pricing.full": "Cena za cały {format}",
   "comics.pricing.fullHelp": "Sprzedawane jako jednorazowy zakup.",
+  "comics.purchase.complete": "Zakup zakończony! To, co kupiłeś, jest już w Twojej bibliotece.",
   "comics.purchaseMode": "Model sprzedaży",
   "comics.purchaseMode.chapter": "Za rozdział",
   "comics.purchaseMode.full": "Cały {format}",

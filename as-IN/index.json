@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "পঢ়ুৱৈসকলে এটা অকল অধ্যায় কিনিব পাৰে। সম্পূৰ্ণ {format} আৰু খণ্ডৰ লগতে বিক্ৰী কৰিব পাৰি।",
   "comics.pricing.full": "সম্পূৰ্ণ {format}ৰ মূল্য",
   "comics.pricing.fullHelp": "এটা একক ক্ৰয় হিচাপে বিক্ৰী কৰা হয়।",
+  "comics.purchase.complete": "ক্ৰয় সম্পূৰ্ণ হ'ল! আপুনি কিনা বস্তু এতিয়া আপোনাৰ লাইব্ৰেৰীত আছে।",
   "comics.purchaseMode": "বিক্ৰী মডেল",
   "comics.purchaseMode.chapter": "প্ৰতি অধ্যায়",
   "comics.purchaseMode.full": "সম্পূৰ্ণ {format}",

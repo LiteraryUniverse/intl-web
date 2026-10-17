@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "ਪਾਠਕ ਇੱਕ ਹੀ ਅਧਿਆਇ ਖਰੀਦ ਸਕਦੇ ਹਨ। ਪੂਰੇ {format} ਅਤੇ ਵੌਲਿਊਮਾਂ ਦੇ ਨਾਲ ਵੀ ਵੇਚਿਆ ਜਾ ਸਕਦਾ ਹੈ।",
   "comics.pricing.full": "ਪੂਰੇ {format} ਦੀ ਕੀਮਤ",
   "comics.pricing.fullHelp": "ਇੱਕ ਸਿੰਗਲ ਖਰੀਦ ਵਜੋਂ ਵੇਚਿਆ ਜਾਂਦਾ ਹੈ।",
+  "comics.purchase.complete": "ਖਰੀਦ ਪੂਰੀ ਹੋਈ! ਜੋ ਤੁਸੀਂ ਖਰੀਦਿਆ ਉਹ ਹੁਣ ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਹੈ।",
   "comics.purchaseMode": "ਵਿਕਰੀ ਮਾਡਲ",
   "comics.purchaseMode.chapter": "ਪ੍ਰਤੀ ਅਧਿਆਇ",
   "comics.purchaseMode.full": "ਪੂਰਾ {format}",

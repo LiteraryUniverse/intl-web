@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "讀者可購買單一章節。可與整部{format}及各卷一起銷售。",
   "comics.pricing.full": "整部{format}價格",
   "comics.pricing.fullHelp": "以單次購買方式銷售。",
+  "comics.purchase.complete": "購買完成！您購買的內容已加入您的書庫。",
   "comics.purchaseMode": "銷售模式",
   "comics.purchaseMode.chapter": "逐章",
   "comics.purchaseMode.full": "整部{format}",

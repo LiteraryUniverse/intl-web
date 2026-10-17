@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "வாசகர்கள் ஒற்றை அத்தியாயத்தை வாங்கலாம். முழு {format} மற்றும் தொகுதிகளுடன் சேர்த்தும் விற்கலாம்.",
   "comics.pricing.full": "முழு {format} விலை",
   "comics.pricing.fullHelp": "ஒற்றை வாங்குதலாக விற்கப்படுகிறது.",
+  "comics.purchase.complete": "வாங்குதல் முடிந்தது! நீங்கள் வாங்கியது இப்போது உங்கள் நூலகத்தில் உள்ளது.",
   "comics.purchaseMode": "விற்பனை முறை",
   "comics.purchaseMode.chapter": "ஒவ்வொரு அத்தியாயமும்",
   "comics.purchaseMode.full": "முழு {format}",

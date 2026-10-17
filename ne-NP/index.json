@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "पाठकहरूले एउटै अध्याय किन्न सक्छन्। सम्पूर्ण {format} र भोल्युमसँगै बेच्न सकिन्छ।",
   "comics.pricing.full": "सम्पूर्ण {format} मूल्य",
   "comics.pricing.fullHelp": "एकल खरिदको रूपमा बेचिन्छ।",
+  "comics.purchase.complete": "खरिद पूरा भयो! तपाईंले किनेको कुरा अब तपाईंको पुस्तकालयमा छ।",
   "comics.purchaseMode": "बिक्री मोडेल",
   "comics.purchaseMode.chapter": "प्रति अध्याय",
   "comics.purchaseMode.full": "सम्पूर्ण {format}",

@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Skaitytojai gali įsigyti atskirą skyrių. Gali būti parduodamas kartu su visu {format} ir tomais.",
   "comics.pricing.full": "Viso {format} kaina",
   "comics.pricing.fullHelp": "Parduodama kaip vienkartinis pirkinys.",
+  "comics.purchase.complete": "Pirkimas baigtas! Tai, ką nusipirkote, dabar yra jūsų bibliotekoje.",
   "comics.purchaseMode": "Pardavimo modelis",
   "comics.purchaseMode.chapter": "Pagal skyrių",
   "comics.purchaseMode.full": "Visas {format}",

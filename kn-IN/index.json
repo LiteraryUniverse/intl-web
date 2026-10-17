@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "ಓದುಗರು ಒಂದೇ ಅಧ್ಯಾಯವನ್ನು ಖರೀದಿಸಬಹುದು. ಸಂಪೂರ್ಣ {format} ಮತ್ತು ಸಂಪುಟಗಳ ಜೊತೆಗೆ ಮಾರಾಟ ಮಾಡಬಹುದು.",
   "comics.pricing.full": "ಸಂಪೂರ್ಣ {format} ಬೆಲೆ",
   "comics.pricing.fullHelp": "ಒಂದೇ ಖರೀದಿಯಾಗಿ ಮಾರಾಟ ಮಾಡಲಾಗುತ್ತದೆ.",
+  "comics.purchase.complete": "ಖರೀದಿ ಪೂರ್ಣಗೊಂಡಿದೆ! ನೀವು ಖರೀದಿಸಿದ್ದು ಈಗ ನಿಮ್ಮ ಲೈಬ್ರರಿಯಲ್ಲಿದೆ.",
   "comics.purchaseMode": "ಮಾರಾಟ ಮಾದರಿ",
   "comics.purchaseMode.chapter": "ಪ್ರತಿ ಅಧ್ಯಾಯ",
   "comics.purchaseMode.full": "ಸಂಪೂರ್ಣ {format}",

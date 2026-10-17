@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Lugejad saavad osta üksiku peatüki. Saab müüa ka koos kogu {format} ja köidetega.",
   "comics.pricing.full": "Kogu {format} hind",
   "comics.pricing.fullHelp": "Müüakse ühe ostuna.",
+  "comics.purchase.complete": "Ost on lõpetatud! See, mille ostsid, on nüüd sinu raamatukogus.",
   "comics.purchaseMode": "Müügimudel",
   "comics.purchaseMode.chapter": "Peatükkide kaupa",
   "comics.purchaseMode.full": "Kogu {format}",

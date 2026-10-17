@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "વાચકો એક જ પ્રકરણ ખરીદી શકે છે. સંપૂર્ણ {format} અને ખંડોની સાથે પણ વેચી શકાય છે.",
   "comics.pricing.full": "સંપૂર્ણ {format} કિંમત",
   "comics.pricing.fullHelp": "એક જ ખરીદી તરીકે વેચાય છે.",
+  "comics.purchase.complete": "ખરીદી પૂર્ણ થઈ! તમે જે ખરીદ્યું તે હવે તમારી લાઇબ્રેરીમાં છે.",
   "comics.purchaseMode": "વેચાણ મોડલ",
   "comics.purchaseMode.chapter": "પ્રકરણ દીઠ",
   "comics.purchaseMode.full": "સંપૂર્ણ {format}",

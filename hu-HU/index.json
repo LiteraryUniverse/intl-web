@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Az olvasók megvehetnek egyetlen fejezetet. A teljes {format} és a kötetek mellett is árulható.",
   "comics.pricing.full": "A teljes {format} ára",
   "comics.pricing.fullHelp": "Egyetlen vásárlásként értékesítve.",
+  "comics.purchase.complete": "Sikeres vásárlás! Amit megvettél, már a könyvtáradban van.",
   "comics.purchaseMode": "Értékesítési mód",
   "comics.purchaseMode.chapter": "Fejezetenként",
   "comics.purchaseMode.full": "Teljes {format}",

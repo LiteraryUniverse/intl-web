@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Legantoj povas aĉeti unuopan ĉapitron. Povas esti vendata apud la tuta {format} kaj volumoj.",
   "comics.pricing.full": "Prezo de tuta {format}",
   "comics.pricing.fullHelp": "Vendata kiel unuopa aĉeto.",
+  "comics.purchase.complete": "Aĉeto finita! Tio, kion vi aĉetis, nun estas en via biblioteko.",
   "comics.purchaseMode": "Vendmodelo",
   "comics.purchaseMode.chapter": "Po ĉapitro",
   "comics.purchaseMode.full": "Tuta {format}",

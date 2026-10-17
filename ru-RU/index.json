@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Читатели могут купить отдельную главу. Можно продавать также как весь {format} и по томам.",
   "comics.pricing.full": "Цена за весь {format}",
   "comics.pricing.fullHelp": "Продаётся как единая покупка.",
+  "comics.purchase.complete": "Покупка завершена! Купленное уже в вашей библиотеке.",
   "comics.purchaseMode": "Способ продажи",
   "comics.purchaseMode.chapter": "По главам",
   "comics.purchaseMode.full": "Весь {format}",

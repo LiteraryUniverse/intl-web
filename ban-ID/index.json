@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Pamaca prasida numbas bab siki. Prasida kaadol sinarengan sareng {format} jangkep lan volume.",
   "comics.pricing.full": "Aji {format} jangkep",
   "comics.pricing.fullHelp": "Kaadol dados tumbasan siki.",
+  "comics.purchase.complete": "Purchase complete! What you bought is now in your library.",
   "comics.purchaseMode": "Model adol",
   "comics.purchaseMode.chapter": "Nyabran bab",
   "comics.purchaseMode.full": "{format} jangkep",

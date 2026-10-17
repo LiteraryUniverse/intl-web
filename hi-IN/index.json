@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "पाठक एक अकेला अध्याय खरीद सकते हैं। इसे पूरे {format} और खंडों के साथ भी बेचा जा सकता है।",
   "comics.pricing.full": "पूरे {format} की कीमत",
   "comics.pricing.fullHelp": "एकल खरीद के रूप में बेचा जाता है।",
+  "comics.purchase.complete": "खरीद पूरी हुई! आपने जो खरीदा वह अब आपकी लाइब्रेरी में है।",
   "comics.purchaseMode": "बिक्री मॉडल",
   "comics.purchaseMode.chapter": "प्रति अध्याय",
   "comics.purchaseMode.full": "पूरा {format}",

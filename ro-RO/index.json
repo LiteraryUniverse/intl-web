@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Cititorii pot cumpăra un singur capitol. Poate fi vândut și ca {format} întreg, alături de volume.",
   "comics.pricing.full": "Preț pentru tot {format}",
   "comics.pricing.fullHelp": "Vândut ca o singură achiziție.",
+  "comics.purchase.complete": "Achiziție finalizată! Ce ai cumpărat se află acum în biblioteca ta.",
   "comics.purchaseMode": "Model de vânzare",
   "comics.purchaseMode.chapter": "Pe capitol",
   "comics.purchaseMode.full": "Tot {format}",

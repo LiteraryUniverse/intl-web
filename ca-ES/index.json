@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Els lectors poden comprar un sol capítol. Es pot vendre juntament amb el {format} sencer i els volums.",
   "comics.pricing.full": "Preu del {format} sencer",
   "comics.pricing.fullHelp": "Es ven com una única compra.",
+  "comics.purchase.complete": "Compra completada! El que has comprat ja és a la teva biblioteca.",
   "comics.purchaseMode": "Model de venda",
   "comics.purchaseMode.chapter": "Per capítol",
   "comics.purchaseMode.full": "{format} sencer",

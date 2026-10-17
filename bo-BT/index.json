@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "ཀློག་མཁན་ཚོས་ལེའུ་གཅིག་ཉོ་ཆོག {format} ཧྲིལ་པོ་དང་པོད་དང་མཉམ་དུ་ཡང་བཙོང་ཆོག",
   "comics.pricing.full": "{format} ཧྲིལ་པོའི་རིན་གོང",
   "comics.pricing.fullHelp": "ཐེངས་གཅིག་ཉོ་སྒོའི་ཚུལ་དུ་བཙོང་བ།",
+  "comics.purchase.complete": "Purchase complete! What you bought is now in your library.",
   "comics.purchaseMode": "ཚོང་སྒྲུབ་ཐབས་ལམ",
   "comics.purchaseMode.chapter": "ལེའུ་རེ་རེར",
   "comics.purchaseMode.full": "{format} ཧྲིལ་པོ",

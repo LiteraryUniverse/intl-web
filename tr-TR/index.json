@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Okurlar tek bir bölüm satın alabilir. Eserin tamamı ({format}) ve ciltlerle birlikte satılabilir.",
   "comics.pricing.full": "Eserin tamamının ({format}) fiyatı",
   "comics.pricing.fullHelp": "Tek bir satın alma olarak satılır.",
+  "comics.purchase.complete": "Satın alma tamamlandı! Satın aldığınız içerik artık kitaplığınızda.",
   "comics.purchaseMode": "Satış modeli",
   "comics.purchaseMode.chapter": "Bölüm başına",
   "comics.purchaseMode.full": "Eserin tamamı ({format})",

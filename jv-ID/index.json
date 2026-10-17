@@ -1002,6 +1002,7 @@
   "comics.pricing.chapterHelp": "Pamaca bisa tuku bab siji. Bisa didol bebarengan karo {format} lengkap lan jilid.",
   "comics.pricing.full": "Rega {format} lengkap",
   "comics.pricing.fullHelp": "Didol minangka tumbasan tunggal.",
+  "comics.purchase.complete": "Tuku wis rampung! Sing wis koktuku saiki ana ing perpustakaanmu.",
   "comics.purchaseMode": "Mode dodolan",
   "comics.purchaseMode.chapter": "Saben bab",
   "comics.purchaseMode.full": "{format} lengkap",
