@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Maaaring bumili ang mga mambabasa ng isang kabanata. Maaaring ibenta kasabay ng buong {format} at mga volume.",
   "comics.pricing.full": "Presyo ng buong {format}",
   "comics.pricing.fullHelp": "Ibinebenta bilang iisang pagbili.",
+  "comics.purchase.complete": "Tapos na ang pagbili! Ang binili mo ay nasa library mo na.",
   "comics.purchaseMode": "Modelo ng benta",
   "comics.purchaseMode.chapter": "Kada kabanata",
   "comics.purchaseMode.full": "Buong {format}",

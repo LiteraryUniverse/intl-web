@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "পাঠকরা একটি একক অধ্যায় কিনতে পারেন। সম্পূর্ণ {format} ও খণ্ডের পাশাপাশি বিক্রি করা যায়।",
   "comics.pricing.full": "সম্পূর্ণ {format}-এর দাম",
   "comics.pricing.fullHelp": "একক ক্রয় হিসাবে বিক্রি হয়।",
+  "comics.purchase.complete": "কেনাকাটা সম্পন্ন! আপনি যা কিনেছেন তা এখন আপনার লাইব্রেরিতে আছে।",
   "comics.purchaseMode": "বিক্রয় মডেল",
   "comics.purchaseMode.chapter": "প্রতি অধ্যায়",
   "comics.purchaseMode.full": "সম্পূর্ণ {format}",

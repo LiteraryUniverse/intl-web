@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "वाचक एकच प्रकरण खरेदी करू शकतात. संपूर्ण {format} आणि खंडांसोबतही विकले जाऊ शकते.",
   "comics.pricing.full": "संपूर्ण {format} किंमत",
   "comics.pricing.fullHelp": "एकाच खरेदी म्हणून विकली जाते.",
+  "comics.purchase.complete": "खरेदी पूर्ण झाली! तुम्ही जे खरेदी केले ते आता तुमच्या लायब्ररीत आहे.",
   "comics.purchaseMode": "विक्री मॉडेल",
   "comics.purchaseMode.chapter": "प्रति प्रकरण",
   "comics.purchaseMode.full": "संपूर्ण {format}",

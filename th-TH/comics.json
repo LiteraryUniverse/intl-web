@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "ผู้อ่านสามารถซื้อตอนเดียวได้ สามารถขายควบคู่ไปกับ{format}ทั้งเรื่องและเล่มได้",
   "comics.pricing.full": "ราคา{format}ทั้งเรื่อง",
   "comics.pricing.fullHelp": "ขายเป็นการซื้อครั้งเดียว",
+  "comics.purchase.complete": "ซื้อสำเร็จ! สิ่งที่คุณซื้ออยู่ในคลังของคุณแล้ว",
   "comics.purchaseMode": "รูปแบบการขาย",
   "comics.purchaseMode.chapter": "รายตอน",
   "comics.purchaseMode.full": "{format}ทั้งเรื่อง",

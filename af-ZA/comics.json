@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Lesers kan 'n enkele hoofstuk koop. Kan naas die hele {format} en volumes verkoop word.",
   "comics.pricing.full": "Prys vir hele {format}",
   "comics.pricing.fullHelp": "Word as 'n enkele aankoop verkoop.",
+  "comics.purchase.complete": "Aankoop voltooi! Wat jy gekoop het, is nou in jou biblioteek.",
   "comics.purchaseMode": "Verkoopmodel",
   "comics.purchaseMode.chapter": "Per hoofstuk",
   "comics.purchaseMode.full": "Hele {format}",

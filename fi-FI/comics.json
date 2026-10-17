@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Lukijat voivat ostaa yksittäisen luvun. Sitä voi myydä myös koko {format} ja niteiden ohella.",
   "comics.pricing.full": "Koko {format} hinta",
   "comics.pricing.fullHelp": "Myydään yhtenä ostoksena.",
+  "comics.purchase.complete": "Osto valmis! Ostamasi sisältö on nyt kirjastossasi.",
   "comics.purchaseMode": "Myyntimalli",
   "comics.purchaseMode.chapter": "Luvuittain",
   "comics.purchaseMode.full": "Koko {format}",

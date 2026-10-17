@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Čitatelia si môžu kúpiť jednu kapitolu. Môže sa predávať aj ako celý {format} a vo zväzkoch.",
   "comics.pricing.full": "Cena za celý {format}",
   "comics.pricing.fullHelp": "Predáva sa ako jeden nákup.",
+  "comics.purchase.complete": "Nákup dokončený! To, čo ste si kúpili, je teraz vo vašej knižnici.",
   "comics.purchaseMode": "Model predaja",
   "comics.purchaseMode.chapter": "Po kapitolách",
   "comics.purchaseMode.full": "Celý {format}",

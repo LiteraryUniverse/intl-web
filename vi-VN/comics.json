@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Người đọc có thể mua một chương riêng lẻ. Có thể bán kèm với trọn bộ {format} và các tập.",
   "comics.pricing.full": "Giá trọn bộ {format}",
   "comics.pricing.fullHelp": "Bán như một lần mua duy nhất.",
+  "comics.purchase.complete": "Mua thành công! Nội dung bạn đã mua hiện có trong thư viện của bạn.",
   "comics.purchaseMode": "Mô hình bán",
   "comics.purchaseMode.chapter": "Theo từng chương",
   "comics.purchaseMode.full": "Trọn bộ {format}",

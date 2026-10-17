@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "독자가 단일 챕터를 구매할 수 있습니다. 전체 {format} 및 볼륨과 함께 판매할 수 있습니다.",
   "comics.pricing.full": "전체 {format} 가격",
   "comics.pricing.fullHelp": "단일 구매로 판매됩니다.",
+  "comics.purchase.complete": "구매가 완료되었습니다! 구매한 항목이 라이브러리에 추가되었습니다.",
   "comics.purchaseMode": "판매 방식",
   "comics.purchaseMode.chapter": "챕터별",
   "comics.purchaseMode.full": "전체 {format}",

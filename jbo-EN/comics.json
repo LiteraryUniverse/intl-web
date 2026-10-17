@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "lo tcidu prenu cu kakne lo nu te vecnu lo pa pagbu. sy kakne lo nu se vecnu kansa lo mulno {format} .e lo vluma",
   "comics.pricing.full": "mulno {format} jdima",
   "comics.pricing.fullHelp": "se vecnu ta'i lo pa te vecnu",
+  "comics.purchase.complete": "Purchase complete! What you bought is now in your library.",
   "comics.purchaseMode": "te vecnu tadji",
   "comics.purchaseMode.chapter": "ro pagbu",
   "comics.purchaseMode.full": "mulno {format}",

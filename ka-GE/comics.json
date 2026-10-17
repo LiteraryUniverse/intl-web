@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "მკითხველებს შეუძლიათ იყიდონ ცალკეული თავი. შესაძლებელია გაიყიდოს მთელ {format}-სა და ტომებთან ერთად.",
   "comics.pricing.full": "მთელი {format}-ის ფასი",
   "comics.pricing.fullHelp": "იყიდება როგორც ერთჯერადი შენაძენი.",
+  "comics.purchase.complete": "შესყიდვა დასრულდა! რაც შეიძინეთ, ახლა თქვენს ბიბლიოთეკაშია.",
   "comics.purchaseMode": "გაყიდვის მოდელი",
   "comics.purchaseMode.chapter": "თითო თავზე",
   "comics.purchaseMode.full": "მთელი {format}",

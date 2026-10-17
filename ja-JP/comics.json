@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "読者は1章だけ購入できます。{format}全編や巻と並行して販売することもできます。",
   "comics.pricing.full": "{format}全編の価格",
   "comics.pricing.fullHelp": "一括購入として販売されます。",
+  "comics.purchase.complete": "購入が完了しました！購入したものはライブラリに追加されました。",
   "comics.purchaseMode": "販売方式",
   "comics.purchaseMode.chapter": "章ごと",
   "comics.purchaseMode.full": "{format}全編",

@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Читачі можуть придбати окремий розділ. Можна продавати також як увесь {format} і томами.",
   "comics.pricing.full": "Ціна за весь {format}",
   "comics.pricing.fullHelp": "Продається як одна покупка.",
+  "comics.purchase.complete": "Покупку завершено! Придбане вже у вашій бібліотеці.",
   "comics.purchaseMode": "Модель продажу",
   "comics.purchaseMode.chapter": "За розділами",
   "comics.purchaseMode.full": "Увесь {format}",

@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Is féidir le léitheoirí caibidil aonair a cheannach. Is féidir é a dhíol taobh le taobh leis an {format} iomlán agus na himleabhair.",
   "comics.pricing.full": "Praghas an {format} iomláin",
   "comics.pricing.fullHelp": "Díolta mar cheannach aonair.",
+  "comics.purchase.complete": "Ceannach críochnaithe! Tá an rud a cheannaigh tú i do leabharlann anois.",
   "comics.purchaseMode": "Múnla díolacháin",
   "comics.purchaseMode.chapter": "De réir caibidle",
   "comics.purchaseMode.full": "{format} iomlán",

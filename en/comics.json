@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Readers can buy a single chapter. Can be sold alongside the whole {format} and volumes.",
   "comics.pricing.full": "Whole {format} price",
   "comics.pricing.fullHelp": "Sold as a single purchase.",
+  "comics.purchase.complete": "Purchase complete! What you bought is now in your library.",
   "comics.purchaseMode": "Sales model",
   "comics.purchaseMode.chapter": "Per chapter",
   "comics.purchaseMode.full": "Whole {format}",

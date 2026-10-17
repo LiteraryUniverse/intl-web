@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "पाठक एकल अध्याय कीनि सकैत अछि। सम्पूर्ण {format} आ खंड सभक संग बेचल जा सकैत अछि।",
   "comics.pricing.full": "सम्पूर्ण {format} मूल्य",
   "comics.pricing.fullHelp": "एकल खरीदक रूपमे बेचल जाइत अछि।",
+  "comics.purchase.complete": "Purchase complete! What you bought is now in your library.",
   "comics.purchaseMode": "बिक्री मॉडल",
   "comics.purchaseMode.chapter": "प्रति अध्याय",
   "comics.purchaseMode.full": "सम्पूर्ण {format}",

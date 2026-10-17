@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "קוראים יכולים לקנות פרק בודד. ניתן למכור זאת לצד ה{format} המלא והכרכים.",
   "comics.pricing.full": "מחיר ה{format} המלא",
   "comics.pricing.fullHelp": "נמכר כרכישה אחת.",
+  "comics.purchase.complete": "הרכישה הושלמה! מה שקנית נמצא עכשיו בספרייה שלך.",
   "comics.purchaseMode": "מודל מכירה",
   "comics.purchaseMode.chapter": "לפי פרק",
   "comics.purchaseMode.full": "{format} מלא",

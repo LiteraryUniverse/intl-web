@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "يمكن للقراء شراء فصل واحد. يمكن بيعه إلى جانب {format} كاملاً والمجلدات.",
   "comics.pricing.full": "سعر {format} كاملاً",
   "comics.pricing.fullHelp": "يُباع كعملية شراء واحدة.",
+  "comics.purchase.complete": "تم الشراء! ما اشتريته أصبح الآن في مكتبتك.",
   "comics.purchaseMode": "نموذج البيع",
   "comics.purchaseMode.chapter": "لكل فصل",
   "comics.purchaseMode.full": "{format} كامل",

@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Οι αναγνώστες μπορούν να αγοράσουν ένα μεμονωμένο κεφάλαιο. Μπορεί να πωλείται και ως ολόκληρο το {format} και ως τόμοι.",
   "comics.pricing.full": "Τιμή ολόκληρου του {format}",
   "comics.pricing.fullHelp": "Πωλείται ως ενιαία αγορά.",
+  "comics.purchase.complete": "Η αγορά ολοκληρώθηκε! Ό,τι αγόρασες βρίσκεται τώρα στη βιβλιοθήκη σου.",
   "comics.purchaseMode": "Μοντέλο πώλησης",
   "comics.purchaseMode.chapter": "Ανά κεφάλαιο",
   "comics.purchaseMode.full": "Ολόκληρο το {format}",

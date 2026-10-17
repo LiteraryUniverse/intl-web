@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "పాఠకులు ఒకే అధ్యాయాన్ని కొనుగోలు చేయవచ్చు. పూర్తి {format} మరియు సంపుటాలతో పాటు కూడా విక్రయించవచ్చు.",
   "comics.pricing.full": "పూర్తి {format} ధర",
   "comics.pricing.fullHelp": "ఒకే కొనుగోలుగా అమ్మబడుతుంది.",
+  "comics.purchase.complete": "కొనుగోలు పూర్తయింది! మీరు కొన్నది ఇప్పుడు మీ లైబ్రరీలో ఉంది.",
   "comics.purchaseMode": "అమ్మకపు విధానం",
   "comics.purchaseMode.chapter": "ప్రతి అధ్యాయం",
   "comics.purchaseMode.full": "పూర్తి {format}",

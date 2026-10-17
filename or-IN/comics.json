@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "ପାଠକମାନେ ଏକ ଏକକ ଅଧ୍ୟାୟ କିଣି ପାରିବେ। ସମ୍ପୂର୍ଣ୍ଣ {format} ଓ ଭଲ୍ୟୁମ୍ ସହିତ ମଧ୍ୟ ବିକ୍ରି କରାଯାଇପାରେ।",
   "comics.pricing.full": "ସମ୍ପୂର୍ଣ୍ଣ {format} ମୂଲ୍ୟ",
   "comics.pricing.fullHelp": "ଏକ ଏକକ କ୍ରୟ ଭାବେ ବିକ୍ରି ହୁଏ।",
+  "comics.purchase.complete": "କ୍ରୟ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା! ଆପଣ ଯାହା କିଣିଛନ୍ତି ତାହା ଏବେ ଆପଣଙ୍କ ଲାଇବ୍ରେରୀରେ ଅଛି।",
   "comics.purchaseMode": "ବିକ୍ରୟ ମଡେଲ୍",
   "comics.purchaseMode.chapter": "ପ୍ରତି ଅଧ୍ୟାୟ",
   "comics.purchaseMode.full": "ସମ୍ପୂର୍ଣ୍ଣ {format}",

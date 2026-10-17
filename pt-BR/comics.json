@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Os leitores podem comprar um único capítulo. Pode ser vendido junto com o {format} completo e os volumes.",
   "comics.pricing.full": "Preço do {format} completo",
   "comics.pricing.fullHelp": "Vendido como uma única compra.",
+  "comics.purchase.complete": "Compra concluída! O que você comprou já está na sua biblioteca.",
   "comics.purchaseMode": "Modelo de vendas",
   "comics.purchaseMode.chapter": "Por capítulo",
   "comics.purchaseMode.full": "{format} completo",

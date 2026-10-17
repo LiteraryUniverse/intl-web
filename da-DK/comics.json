@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Læsere kan købe et enkelt kapitel. Kan sælges sammen med hele {format} og bind.",
   "comics.pricing.full": "Pris for hele {format}",
   "comics.pricing.fullHelp": "Sælges som et enkelt køb.",
+  "comics.purchase.complete": "Køb gennemført! Det, du har købt, ligger nu i dit bibliotek.",
   "comics.purchaseMode": "Salgsmodel",
   "comics.purchaseMode.chapter": "Pr. kapitel",
   "comics.purchaseMode.full": "Hele {format}",

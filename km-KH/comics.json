@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "អ្នកអានអាចទិញជំពូកតែមួយ។ អាចលក់គូជាមួយ{format}ទាំងមូល និងភាគ។",
   "comics.pricing.full": "តម្លៃ{format}ទាំងមូល",
   "comics.pricing.fullHelp": "លក់ជាការទិញតែម្ដង។",
+  "comics.purchase.complete": "ការទិញបានបញ្ចប់! អ្វីដែលអ្នកបានទិញ ឥឡូវនេះស្ថិតនៅក្នុងបណ្ណាល័យរបស់អ្នក។",
   "comics.purchaseMode": "គំរូលក់",
   "comics.purchaseMode.chapter": "តាមជំពូក",
   "comics.purchaseMode.full": "{format}ទាំងមូល",

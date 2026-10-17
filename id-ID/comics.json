@@ -105,6 +105,7 @@
   "comics.pricing.chapterHelp": "Pembaca dapat membeli satu bab saja. Dapat dijual bersama {format} lengkap dan volume.",
   "comics.pricing.full": "Harga {format} lengkap",
   "comics.pricing.fullHelp": "Dijual sebagai satu kali pembelian.",
+  "comics.purchase.complete": "Pembelian selesai! Yang Anda beli kini ada di perpustakaan Anda.",
   "comics.purchaseMode": "Model penjualan",
   "comics.purchaseMode.chapter": "Per bab",
   "comics.purchaseMode.full": "{format} lengkap",
