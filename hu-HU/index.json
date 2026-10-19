@@ -1101,6 +1101,7 @@
   "comics.translationPricingHelp": "Az ár nélküli fordítások az alapvásárlás részét képezik. Állítson be árat, ha egy fordítást önálló kiadásként szeretne értékesíteni.",
   "comics.translations.read": "Olvasás",
   "comics.translations.title": "Olvasás másik nyelven",
+  "comics.translatorsNotes": "A fordító megjegyzései",
   "comics.volume.add": "Kötet hozzáadása",
   "comics.volume.defaultTitle": "{number}. kötet",
   "comics.volume.from": "Ettől a fejezettől",

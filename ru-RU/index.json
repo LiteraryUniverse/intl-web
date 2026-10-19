@@ -1101,6 +1101,7 @@
   "comics.translationPricingHelp": "Переводы без цены входят в базовую покупку. Установите цену, чтобы продавать перевод как отдельное издание.",
   "comics.translations.read": "Читать",
   "comics.translations.title": "Читать на другом языке",
+  "comics.translatorsNotes": "Заметки переводчика",
   "comics.volume.add": "Добавить том",
   "comics.volume.defaultTitle": "Том {number}",
   "comics.volume.from": "С главы",

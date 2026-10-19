@@ -192,6 +192,7 @@
   "comics.translationPricingHelp": "Hinnata tõlked sisalduvad põhiostus. Määra hind, et müüa tõlget omaette väljaandena.",
   "comics.translations.read": "Loe",
   "comics.translations.title": "Loe teises keeles",
+  "comics.translatorsNotes": "Tõlkija märkused",
   "comics.volume.add": "Lisa köide",
   "comics.volume.defaultTitle": "Köide {number}",
   "comics.volume.from": "Alates peatükist",

@@ -1101,6 +1101,7 @@
   "comics.translationPricingHelp": "การแปลที่ไม่ได้ตั้งราคาจะรวมอยู่ในการซื้อพื้นฐาน ตั้งราคาเพื่อขายการแปลเป็นฉบับแยกต่างหาก",
   "comics.translations.read": "อ่าน",
   "comics.translations.title": "อ่านในภาษาอื่น",
+  "comics.translatorsNotes": "หมายเหตุของผู้แปล",
   "comics.volume.add": "เพิ่มเล่ม",
   "comics.volume.defaultTitle": "เล่ม {number}",
   "comics.volume.from": "จากตอน",

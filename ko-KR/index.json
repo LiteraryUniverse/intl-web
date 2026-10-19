@@ -1101,6 +1101,7 @@
   "comics.translationPricingHelp": "가격이 없는 번역은 기본 구매에 포함됩니다. 번역을 별도의 에디션으로 판매하려면 가격을 설정하세요.",
   "comics.translations.read": "읽기",
   "comics.translations.title": "다른 언어로 읽기",
+  "comics.translatorsNotes": "번역가의 노트",
   "comics.volume.add": "볼륨 추가",
   "comics.volume.defaultTitle": "{number}권",
   "comics.volume.from": "시작 챕터",

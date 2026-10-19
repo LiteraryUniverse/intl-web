@@ -192,6 +192,7 @@
   "comics.translationPricingHelp": "Переклади без ціни входять до базової покупки. Установіть ціну, щоб продавати переклад як окреме видання.",
   "comics.translations.read": "Читати",
   "comics.translations.title": "Читати іншою мовою",
+  "comics.translatorsNotes": "Примітки перекладача",
   "comics.volume.add": "Додати том",
   "comics.volume.defaultTitle": "Том {number}",
   "comics.volume.from": "Від розділу",

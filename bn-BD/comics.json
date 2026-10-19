@@ -192,6 +192,7 @@
   "comics.translationPricingHelp": "মূল্য নির্ধারণ করা হয়নি এমন অনুবাদ মূল ক্রয়ের সাথে অন্তর্ভুক্ত থাকে। অনুবাদকে আলাদা সংস্করণ হিসেবে বিক্রি করতে একটি মূল্য নির্ধারণ করুন।",
   "comics.translations.read": "পড়ুন",
   "comics.translations.title": "অন্য ভাষায় পড়ুন",
+  "comics.translatorsNotes": "অনুবাদকের নোট",
   "comics.volume.add": "খণ্ড যোগ করুন",
   "comics.volume.defaultTitle": "খণ্ড {number}",
   "comics.volume.from": "অধ্যায় থেকে",

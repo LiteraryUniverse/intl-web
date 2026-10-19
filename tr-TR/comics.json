@@ -192,6 +192,7 @@
   "comics.translationPricingHelp": "Fiyatlandırılmamış çeviriler temel satın almaya dahildir. Bir çeviriyi kendi başına bir sürüm olarak satmak için fiyat belirleyin.",
   "comics.translations.read": "Oku",
   "comics.translations.title": "Başka bir dilde oku",
+  "comics.translatorsNotes": "Çevirmenin notları",
   "comics.volume.add": "Cilt ekle",
   "comics.volume.defaultTitle": "Cilt {number}",
   "comics.volume.from": "Başlangıç bölümü",

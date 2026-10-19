@@ -192,6 +192,7 @@
   "comics.translationPricingHelp": "価格未設定の翻訳は基本購入に含まれます。翻訳を独立した版として販売するには価格を設定してください。",
   "comics.translations.read": "読む",
   "comics.translations.title": "他の言語で読む",
+  "comics.translatorsNotes": "翻訳者のコメント",
   "comics.volume.add": "巻を追加",
   "comics.volume.defaultTitle": "第{number}巻",
   "comics.volume.from": "開始章",

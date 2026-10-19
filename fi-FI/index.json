@@ -1101,6 +1101,7 @@
   "comics.translationPricingHelp": "Hinnoittelemattomat käännökset sisältyvät perusostokseen. Aseta hinta myydäksesi käännöksen omana laitoksenaan.",
   "comics.translations.read": "Lue",
   "comics.translations.title": "Lue toisella kielellä",
+  "comics.translatorsNotes": "Kääntäjän huomautukset",
   "comics.volume.add": "Lisää nide",
   "comics.volume.defaultTitle": "Nide {number}",
   "comics.volume.from": "Luvusta",
