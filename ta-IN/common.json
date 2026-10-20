@@ -390,6 +390,7 @@
   "slug.failed": "இந்த முகவரி ஏற்கனவே உள்ளது.",
   "slug.success": "இந்த முகவரி கிடைக்கிறது!",
   "story.authorsNotes": "ஆசிரியரின் குறிப்புகள்",
+  "story.cast": "நாடகப் பாத்திரங்கள்",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "அத்தியாயம்",
   "story.chapter.withStory": "{story}: {chapter}",

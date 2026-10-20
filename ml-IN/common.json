@@ -390,6 +390,7 @@
   "slug.failed": "This address already exists.",
   "slug.success": "This address is available!",
   "story.authorsNotes": "രചയിതാവിന്റെ കുറിപ്പുകൾ",
+  "story.cast": "കഥാപാത്രങ്ങൾ",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "അദ്ധ്യായം",
   "story.chapter.withStory": "{story}: {chapter}",

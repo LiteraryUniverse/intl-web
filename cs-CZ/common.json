@@ -390,6 +390,7 @@
   "slug.failed": "Tato adresa už existuje.",
   "slug.success": "Tato adresa je k dispozici!",
   "story.authorsNotes": "Autorovy poznámky",
+  "story.cast": "Osoby",
   "story.cancelledAt": "Zrušeno na {date, date, medium}.",
   "story.chapter": "Kapitola",
   "story.chapter.withStory": "{story}: {chapter}",

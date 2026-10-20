@@ -390,6 +390,7 @@
   "slug.failed": "এই ঠিকানা ইতিমধ্যে বিদ্যমান।",
   "slug.success": "এই ঠিকানা উপলব্ধ!",
   "story.authorsNotes": "লেখকের নোট",
+  "story.cast": "চরিত্রলিপি",
   "story.cancelledAt": "বাতিল হয়েছে {date, date, medium} তারিখে।",
   "story.chapter": "অধ্যায়",
   "story.chapter.withStory": "{story}: {chapter}",

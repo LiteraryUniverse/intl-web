@@ -390,6 +390,7 @@
   "slug.failed": "Šis adresas jau egzistuoja.",
   "slug.success": "Šis adresas yra prieinamas!",
   "story.authorsNotes": "Autoriaus pastabos",
+  "story.cast": "Veikėjai",
   "story.cancelledAt": "Atšauktas {date, date, medium}.",
   "story.chapter": "Skyrius",
   "story.chapter.withStory": "{story}: {chapter}",

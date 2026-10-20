@@ -390,6 +390,7 @@
   "slug.failed": "This address already exists.",
   "slug.success": "This address is available!",
   "story.authorsNotes": "લેખકની નોંધો",
+  "story.cast": "પાત્રસૂચિ",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "અધ્યાય",
   "story.chapter.withStory": "{story}: {chapter}",

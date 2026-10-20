@@ -390,6 +390,7 @@
   "slug.failed": "This address already exists.",
   "slug.success": "This address is available!",
   "story.authorsNotes": "ଲେଖକଙ୍କ ନୋଟ",
+  "story.cast": "Dramatis Personae",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "Chapter",
   "story.chapter.withStory": "{story}: {chapter}",

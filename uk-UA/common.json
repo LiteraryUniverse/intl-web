@@ -390,6 +390,7 @@
   "slug.failed": "Така адреса вже існує.",
   "slug.success": "Ця адреса доступна!",
   "story.authorsNotes": "Примітки автора",
+  "story.cast": "Дійові особи",
   "story.cancelledAt": "Скасовано на {date, date, medium}.",
   "story.chapter": "Розділ",
   "story.chapter.withStory": "{story}: {chapter}",

@@ -390,6 +390,7 @@
   "slug.failed": "Diese Adresse existiert schon.",
   "slug.success": "Diese Adresse ist verfügbar!",
   "story.authorsNotes": "Anmerkungen des Autors",
+  "story.cast": "Personen",
   "story.cancelledAt": "Abgebrochen am {date, date, medium}.",
   "story.chapter": "Kapitel",
   "story.chapter.withStory": "{story}: {chapter}",

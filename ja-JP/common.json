@@ -390,6 +390,7 @@
   "slug.failed": "このアドレスはすでに存在しています。",
   "slug.success": "このアドレスは利用可能です!",
   "story.authorsNotes": "著者のコメント",
+  "story.cast": "登場人物",
   "story.cancelledAt": "キャンセルされました {date, date, medium}",
   "story.chapter": "章",
   "story.chapter.withStory": "{story} {chapter}",

@@ -390,6 +390,7 @@
   "slug.failed": "এই ঠিকনাটো ইতিমধ্যে আছে।",
   "slug.success": "এই ঠিকনাটো উপলব্ধ!",
   "story.authorsNotes": "লেখকৰ নোট",
+  "story.cast": "Dramatis Personae",
   "story.cancelledAt": "{date, date, medium}ত বাতিল কৰা হৈছে।",
   "story.chapter": "অধ্যায়",
   "story.chapter.withStory": "{story}: {chapter}",

@@ -390,6 +390,7 @@
   "slug.failed": "Denna adress finns redan.",
   "slug.success": "Denna adress är tillgänglig!",
   "story.authorsNotes": "Författarens anteckningar",
+  "story.cast": "Personer",
   "story.cancelledAt": "Avbokad på {date, date, medium}.",
   "story.chapter": "Kapitel",
   "story.chapter.withStory": "{story}: {chapter}",

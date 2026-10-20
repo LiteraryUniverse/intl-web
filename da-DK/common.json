@@ -390,6 +390,7 @@
   "slug.failed": "Denne adresse findes allerede.",
   "slug.success": "Denne adresse er tilgængelig!",
   "story.authorsNotes": "Forfatterens noter",
+  "story.cast": "Personer",
   "story.cancelledAt": "Aflyst på {date, date, medium}.",
   "story.chapter": "Kapitel",
   "story.chapter.withStory": "{story}: {chapter}",

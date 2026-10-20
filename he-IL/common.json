@@ -390,6 +390,7 @@
   "slug.failed": "כתובת זו כבר קיימת.",
   "slug.success": "כתובת זו זמינה!",
   "story.authorsNotes": "הערות המחבר",
+  "story.cast": "הדמויות",
   "story.cancelledAt": "בוטל בתאריך {date, date, medium}.",
   "story.chapter": "פרק",
   "story.chapter.withStory": "{story}: {chapter}",

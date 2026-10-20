@@ -390,6 +390,7 @@
   "slug.failed": "Tämä osoite on jo olemassa.",
   "slug.success": "Tämä osoite on saatavilla!",
   "story.authorsNotes": "Tekijän huomautukset",
+  "story.cast": "Henkilöluettelo",
   "story.cancelledAt": "Peruutettu osoitteessa {date, date, medium}.",
   "story.chapter": "Luku",
   "story.chapter.withStory": "{story}: {chapter}",

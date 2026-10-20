@@ -390,6 +390,7 @@
   "slug.failed": "This address already exists.",
   "slug.success": "This address is available!",
   "story.authorsNotes": "రచయిత వ్యాఖ్యలు",
+  "story.cast": "పాత్రలు",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "అధ్యాయం",
   "story.chapter.withStory": "{story}: {chapter}",

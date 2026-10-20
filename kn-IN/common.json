@@ -390,6 +390,7 @@
   "slug.failed": "ಈ ವಿಳಾಸ ಈಗಾಗಲೇ ಇದೆ.",
   "slug.success": "ಈ ವಿಳಾಸ ಲಭ್ಯವಿದೆ!",
   "story.authorsNotes": "ಲೇಖಕರ ಟಿಪ್ಪಣಿಗಳು",
+  "story.cast": "Dramatis Personae",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "ಅಧ್ಯಾಯ",
   "story.chapter.withStory": "{story}: {chapter}",

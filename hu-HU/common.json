@@ -390,6 +390,7 @@
   "slug.failed": "Ez az cím már létezik.",
   "slug.success": "Ez a cím elérhető!",
   "story.authorsNotes": "Szerző megjegyzései",
+  "story.cast": "Szereplők",
   "story.cancelledAt": "Törölték a {date, date, medium}.",
   "story.chapter": "Fejezet",
   "story.chapter.withStory": "{story}: {chapter}",

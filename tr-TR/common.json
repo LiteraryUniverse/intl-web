@@ -390,6 +390,7 @@
   "slug.failed": "Bu adres zaten mevcut.",
   "slug.success": "Bu adres kullanılabilir!",
   "story.authorsNotes": "Yazarın notları",
+  "story.cast": "Oyun Kişileri",
   "story.cancelledAt": "İptal edildi {date, date, medium}.",
   "story.chapter": "Bölüm",
   "story.chapter.withStory": "{story}: {chapter}",

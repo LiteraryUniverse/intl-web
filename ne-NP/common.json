@@ -390,6 +390,7 @@
   "slug.failed": "यो ठेगाना पहिले नै अवस्थित छ।",
   "slug.success": "यो ठेगाना उपलब्ध छ!",
   "story.authorsNotes": "लेखकका नोटहरू",
+  "story.cast": "पात्रहरू",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "अध्याय",
   "story.chapter.withStory": "{story}: {chapter}",

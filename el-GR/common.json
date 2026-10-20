@@ -390,6 +390,7 @@
   "slug.failed": "Αυτή η διεύθυνση υπάρχει ήδη.",
   "slug.success": "Αυτή η διεύθυνση είναι διαθέσιμη!",
   "story.authorsNotes": "Σημειώσεις του συγγραφέα",
+  "story.cast": "Πρόσωπα",
   "story.cancelledAt": "Ακυρώθηκε στις {date, date, medium}.",
   "story.chapter": "Κεφάλαιο",
   "story.chapter.withStory": "{story}: {chapter}",

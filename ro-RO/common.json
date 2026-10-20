@@ -390,6 +390,7 @@
   "slug.failed": "Această adresă există deja.",
   "slug.success": "Această adresă este disponibilă!",
   "story.authorsNotes": "Notele autorului",
+  "story.cast": "Personaje",
   "story.cancelledAt": "Anulat pe {date, date, medium}.",
   "story.chapter": "Capitol",
   "story.chapter.withStory": "{story}: {chapter}",

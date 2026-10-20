@@ -390,6 +390,7 @@
   "slug.failed": "Alamat ini sudah terdaftar.",
   "slug.success": "Alamat ini tersedia!",
   "story.authorsNotes": "Catatan penulis",
+  "story.cast": "Daftar Tokoh",
   "story.cancelledAt": "Dibatalkan di {date, date, medium}.",
   "story.chapter": "Bab",
   "story.chapter.withStory": "{story}: {chapter}",

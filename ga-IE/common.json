@@ -390,6 +390,7 @@
   "slug.failed": "Tá an seoladh seo ann cheana féin.",
   "slug.success": "Tá an seoladh seo ar fáil!",
   "story.authorsNotes": "Nótaí an Údair",
+  "story.cast": "Dramatis Personae",
   "story.cancelledAt": "Cealaithe ar {date, date, medium}.",
   "story.chapter": "Caibidil",
   "story.chapter.withStory": "{story}: {chapter}",

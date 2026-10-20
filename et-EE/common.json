@@ -390,6 +390,7 @@
   "slug.failed": "See aadress on juba olemas.",
   "slug.success": "See aadress on saadaval!",
   "story.authorsNotes": "Autori märkused",
+  "story.cast": "Tegelased",
   "story.cancelledAt": "Tühistatud aadressil {date, date, medium}.",
   "story.chapter": "Peatükk",
   "story.chapter.withStory": "{story}: {chapter}",

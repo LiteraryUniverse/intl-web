@@ -390,6 +390,7 @@
   "slug.failed": "Hierdie adres bestaan reeds.",
   "slug.success": "Hierdie adres is beskikbaar!",
   "story.authorsNotes": "Skrywer se notas",
+  "story.cast": "Persone",
   "story.cancelledAt": "Gekanselleer op {date, date, medium}.",
   "story.chapter": "Hoofstuk",
   "story.chapter.withStory": "{story}: {chapter}",

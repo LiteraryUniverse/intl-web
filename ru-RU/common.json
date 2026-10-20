@@ -390,6 +390,7 @@
   "slug.failed": "Такой адрес уже существует.",
   "slug.success": "Такой адрес доступен!",
   "story.authorsNotes": "Заметки автора",
+  "story.cast": "Действующие лица",
   "story.cancelledAt": "Отменена с {date, date, medium}",
   "story.chapter": "Глава",
   "story.chapter.withStory": "{story}: {chapter}",

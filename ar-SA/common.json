@@ -390,6 +390,7 @@
   "slug.failed": "هذا العنوان موجود بالفعل.",
   "slug.success": "هذا العنوان متاح!",
   "story.authorsNotes": "ملاحظات المؤلف",
+  "story.cast": "الشخصيات",
   "story.cancelledAt": "تم الإلغاء في {date, date, medium}.",
   "story.chapter": "الفصل",
   "story.chapter.withStory": "{story}:: {chapter}",

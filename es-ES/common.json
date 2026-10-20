@@ -390,6 +390,7 @@
   "slug.failed": "Esta dirección ya existe.",
   "slug.success": "¡La dirección está disponible!",
   "story.authorsNotes": "Notas del autor",
+  "story.cast": "Personajes",
   "story.cancelledAt": "Cancelado en {date, date, medium}.",
   "story.chapter": "Capítulo",
   "story.chapter.withStory": "{story}: {chapter}",

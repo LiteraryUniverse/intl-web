@@ -390,6 +390,7 @@
   "slug.failed": "Ang address na ito ay mayroon na.",
   "slug.success": "Ang address na ito ay available!",
   "story.authorsNotes": "Mga Tala ng May-akda",
+  "story.cast": "Dramatis Personae",
   "story.cancelledAt": "Kinansela noong {date, date, medium}.",
   "story.chapter": "Kabanata",
   "story.chapter.withStory": "{story}: {chapter}",

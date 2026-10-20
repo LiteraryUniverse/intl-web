@@ -390,6 +390,7 @@
   "slug.failed": "此地址已存在。",
   "slug.success": "此地址可用！",
   "story.authorsNotes": "作者的註解",
+  "story.cast": "登場人物",
   "story.cancelledAt": "於 {date, date, medium}取消。",
   "story.chapter": "章節",
   "story.chapter.withStory": "{story}: {chapter}",

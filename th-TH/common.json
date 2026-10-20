@@ -390,6 +390,7 @@
   "slug.failed": "ที่อยู่นี้มีอยู่แล้ว",
   "slug.success": "ที่อยู่นี้สามารถใช้งานได้!",
   "story.authorsNotes": "หมายเหตุของผู้เขียน",
+  "story.cast": "ตัวละคร",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "ตอน",
   "story.chapter.withStory": "{story}: {chapter}",

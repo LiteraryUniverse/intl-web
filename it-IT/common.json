@@ -390,6 +390,7 @@
   "slug.failed": "Indirizzo già esistente.",
   "slug.success": "Indirizzo disponibile!",
   "story.authorsNotes": "Note di autore",
+  "story.cast": "Personaggi",
   "story.cancelledAt": "Annullato su {date, date, medium}.",
   "story.chapter": "Capitolo",
   "story.chapter.withStory": "{story}: {chapter}",

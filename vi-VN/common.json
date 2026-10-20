@@ -390,6 +390,7 @@
   "slug.failed": "Địa chỉ này đã tồn tại.",
   "slug.success": "Địa chỉ này có sẵn!",
   "story.authorsNotes": "Ghi chú của tác giả",
+  "story.cast": "Nhân vật",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "Chương",
   "story.chapter.withStory": "{story} {chapter}",

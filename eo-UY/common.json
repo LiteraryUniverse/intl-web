@@ -390,6 +390,7 @@
   "slug.failed": "Tiu adreso jam ekzistas.",
   "slug.success": "Tiu adreso estas havebla!",
   "story.authorsNotes": "Notoj de la aŭtoro",
+  "story.cast": "Personoj",
   "story.cancelledAt": "Nuligita je {date, date, medium}.",
   "story.chapter": "Ĉapitro",
   "story.chapter.withStory": "{story}: {chapter}",

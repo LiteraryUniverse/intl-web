@@ -390,6 +390,7 @@
   "slug.failed": "lo vi judri cu ca'a zvati.",
   "slug.success": "lo vi judri cu ka'e se pilno!",
   "story.authorsNotes": "Notci pe'a le Jufra",
+  "story.cast": "Dramatis Personae",
   "story.cancelledAt": "se sisti de'i {date, date, medium}.",
   "story.chapter": "ckupau",
   "story.chapter.withStory": "{story}: {chapter}",

@@ -390,6 +390,7 @@
   "slug.failed": "यह पता पहले से मौजूद है।",
   "slug.success": "यह पता उपलब्ध है!",
   "story.authorsNotes": "लेखक के नोट्स",
+  "story.cast": "पात्र-सूची",
   "story.cancelledAt": "{date, date, medium} को रद्द किया गया।",
   "story.chapter": "अध्याय",
   "story.chapter.withStory": "{story}: {chapter}",
