@@ -1053,6 +1053,7 @@
   "inspiration.admin.error.save": "Your changes could not be saved. Please try again.",
   "workshop.epub.titlepage": "Title page",
   "workshop.epub.copyright": "Publication details",
+  "workshop.epub.cast": "Dramatis Personae",
   "workshop.epub.toc": "Table of contents",
   "workshop.epub.start": "Start of content",
   "workshop.epub.navigation": "Navigation",

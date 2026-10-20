@@ -403,6 +403,7 @@
   "slug.failed": "This address already exists.",
   "slug.success": "This address is available!",
   "story.authorsNotes": "Author's notes",
+  "story.cast": "Dramatis Personae",
   "story.cancelledAt": "Cancelled on {date, date, medium}.",
   "story.chapter": "Chapter",
   "story.chapter.withStory": "{story}: {chapter}",
