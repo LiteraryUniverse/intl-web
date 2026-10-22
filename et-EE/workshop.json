@@ -587,7 +587,7 @@
   "workshop.ai.chat.selectedText": "Valitud tekst",
   "workshop.ai.chat.webSearch": "Otsi veebist",
   "workshop.ai.chat.webSearch.hint": "Las assistent otsib seda sõnumit veebist",
-  "workshop.ai.chat.privacyNotice": "Iga päring saadab praeguse peatüki, peatükkide pealkirjad ja entsüklopeedia ülevaate teie API-võtme pakkujale. Järjepidevuse kontroll saadab ka iga peatüki ja entsüklopeediakande, mida saate lugeda. Keelame salvestatud vastuseobjektid OpenAI, xAI ja Sakana juures ning jätame GPT-5.6-st alates vahele OpenAI prompt-vahemälu kirjutised. Me ei juhi selle pakkuja logisid, vahemälusid ega konto seadeid — seetõttu toote oma võtme. Vt <faq>abilise andmete KKK</faq>.",
+  "workshop.ai.chat.privacyNotice": "Iga päring saadab praeguse peatüki, peatükkide pealkirjad ja entsüklopeedia ülevaate teie API-võtme pakkujale. Järjepidevuse kontroll, sisutoimetuslik ülevaatus või maailmaloome ülevaatus saadab ka iga peatüki ja entsüklopeediakande, mida saate lugeda. Keelame salvestatud vastuseobjektid OpenAI, xAI ja Sakana juures ning jätame GPT-5.6-st alates vahele OpenAI prompt-vahemälu kirjutised. Me ei juhi selle pakkuja logisid, vahemälusid ega konto seadeid — seetõttu toote oma võtme. Vt <faq>abilise andmete KKK</faq>.",
   "workshop.ai.chat.fableRetentionNotice": "Anthropic hoiab Claude Fable 5.1 päringuid vähemalt 30 päeva. Valige teine Claude’i mudel, kui soovite lühemat vaikimisi logiakat.",
   "workshop.ai.chat.geminiSearchNotice": "Veebiotsingut Gemini juures ei pakuta. Google Search grounding hoiaks seda loo konteksti 30 päeva ilma väljalülituseta.",
   "workshop.ai.chat.createError": "Uue vestluse alustamine ebaõnnestus. Palun proovi uuesti.",
