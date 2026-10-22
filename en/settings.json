@@ -251,7 +251,6 @@
   "settings.ai.usage.title": "Literary Universe AI usage",
   "settings.ai.usage.off": "AI on Literary Universe keys is switched off at the moment. The assistant still works with your own provider keys.",
   "settings.ai.usage.explained": "The assistant runs on Literary Universe keys by default and is paid from your usage balance. Each reply shows what it cost. Your own provider keys are an alternative and are never charged here.",
-  "settings.ai.usage.uncapped": "Your account is not capped. Usage is recorded but never blocked.",
   "settings.ai.usage.meter": "Usage this period",
   "settings.ai.usage.spentOf": "{spent} spent of {granted}",
   "settings.ai.usage.remaining": "{amount} left · resets {date}",
