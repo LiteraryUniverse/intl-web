@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Vyberte žáner a vekové hodnotenie, aby čitatelia vedeli, čo môžu očakávať. Licencia určuje, ako môžu ostatní používať vaše dielo. Sprievodca licenciami vám pred výberom vysvetlí jednotlivé možnosti.",
   "workshop.creation.draft.help": "Vytvorí sa nepublikovaný koncept. Pred publikovaním môžete vo svojej dielni pridať obálku, spolupracovníkov a ďalšie nastavenia.",
   "workshop.import.help": "Preneste dokument Word alebo skompilovaný rukopis zo Scriveneru do nového konceptu príbehu. Prezrite si kapitoly a potom vyberte jazyk, hodnotenie a licenciu príbehu.",
-  "workshop.import.formats": "Podporované sú formáty DOCX, Markdown, text a scenáre Fountain. Vo Worde alebo vo funkcii Compile v Scriveneri použite pre názvy kapitol štýl Heading 1 (Nadpis 1); vo Fountain sa sekcie 1. úrovne (# Prvé dejstvo) stanú kapitolami. Staršie DOC, PDF, EPUB, natívne projekty Scrivener a archívy účtov zo služieb tu nie sú podporované.",
+  "workshop.import.formats": "Podporované sú formáty DOCX, HTML, Markdown, text a scenáre Fountain. Vo Worde alebo vo funkcii Compile v Scriveneri použite pre názvy kapitol štýl Heading 1 (Nadpis 1); vo Fountain sa sekcie 1. úrovne (# Prvé dejstvo) stanú kapitolami. Staršie DOC, PDF, EPUB, natívne projekty Scrivener a archívy účtov zo služieb tu nie sú podporované.",
   "workshop.import.formatting": "Odseky, nadpisy, zvýraznenie, zoznamy a tabuľky sa zachovajú, kde je to možné. Obrázky, rozloženie strany a nepodporované formátovanie sa vynechajú. Pred importom si skontrolujte náhľad. Súbory sa čítajú vo vašom prehliadači; pri importe sa odošlú iba skontrolované kapitoly.",
   "workshop.import.openDraft": "Otvoriť uložený koncept",
   "workshop.import.file": "Súbor s rukopisom",

@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Vælg en genre og en aldersvurdering, så læserne ved, hvad de kan forvente. Din licens bestemmer, hvordan andre må bruge dit værk. Licenshjælperen forklarer mulighederne, før du vælger.",
   "workshop.creation.draft.help": "Dette opretter en kladde, der ikke er udgivet. Du kan tilføje en forside, samarbejdspartnere og flere indstillinger i dit værksted, før du udgiver.",
   "workshop.import.help": "Hent et Word-dokument eller et kompileret Scrivener-manuskript ind i en ny historiekladde. Gennemgå kapitlerne, og vælg derefter historiens sprog, aldersmærkning og licens.",
-  "workshop.import.formats": "DOCX, Markdown, tekst og Fountain-manuskripter understøttes. Brug Overskrift 1 til kapiteltitler i Word eller Scrivener Compile; i Fountain bliver niveau 1-afsnit (# Første akt) til kapitler. Ældre DOC, PDF, EPUB, oprindelige Scrivener-projekter og kontoarkiver fra andre tjenester understøttes ikke her.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, tekst og Fountain-manuskripter understøttes. Brug Overskrift 1 til kapiteltitler i Word eller Scrivener Compile; i Fountain bliver niveau 1-afsnit (# Første akt) til kapitler. Ældre DOC, PDF, EPUB, oprindelige Scrivener-projekter og kontoarkiver fra andre tjenester understøttes ikke her.",
   "workshop.import.formatting": "Afsnit, overskrifter, fremhævelser, lister og tabeller bevares, hvor det er muligt. Billeder, sidelayout og formatering, der ikke understøttes, udelades. Tjek forhåndsvisningen, før du importerer. Filerne læses i din browser; kun de gennemgåede kapitler sendes, når du importerer.",
   "workshop.import.openDraft": "Åbn den gemte kladde",
   "workshop.import.file": "Manuskriptfil",

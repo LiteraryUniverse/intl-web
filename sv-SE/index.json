@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "Välj en genre och en åldersgräns så att läsarna vet vad de kan förvänta sig. Licensen styr hur andra får använda ditt verk. Licenshjälpen förklarar alternativen innan du väljer.",
   "workshop.creation.draft.help": "Det här skapar ett opublicerat utkast. Du kan lägga till omslag, medarbetare och fler inställningar i din verkstad innan du publicerar.",
   "workshop.import.help": "Ta in ett Word-dokument eller ett kompilerat Scrivener-manus i ett nytt berättelseutkast. Gå igenom kapitlen och välj sedan berättelsens språk, åldersgräns och licens.",
-  "workshop.import.formats": "DOCX, Markdown, text och Fountain-manus stöds. Använd Rubrik 1 för kapiteltitlar i Word eller i Scriveners Compile; i Fountain blir avsnitt på nivå 1 (# Första akten) kapitel. Äldre DOC, PDF, EPUB, Scrivener-projekt i originalformat och kontoarkiv från tjänster stöds inte här.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, text och Fountain-manus stöds. Använd Rubrik 1 för kapiteltitlar i Word eller i Scriveners Compile; i Fountain blir avsnitt på nivå 1 (# Första akten) kapitel. Äldre DOC, PDF, EPUB, Scrivener-projekt i originalformat och kontoarkiv från tjänster stöds inte här.",
   "workshop.import.formatting": "Stycken, rubriker, betoning, listor och tabeller behålls där det är möjligt. Bilder, sidlayout och formatering som inte stöds utelämnas. Kontrollera förhandsvisningen innan du importerar. Filerna läses i din webbläsare; endast de granskade kapitlen skickas när du importerar.",
   "workshop.import.openDraft": "Öppna det sparade utkastet",
   "workshop.import.file": "Manusfil",

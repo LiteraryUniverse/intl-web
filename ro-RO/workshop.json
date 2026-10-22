@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Alege un gen și o clasificare de vârstă, ca cititorii să știe la ce să se aștepte. Licența stabilește cum pot folosi alții lucrarea ta. Asistentul de licențe îți explică opțiunile înainte să alegi.",
   "workshop.creation.draft.help": "Se creează o ciornă nepublicată. Poți adăuga o copertă, colaboratori și alte setări în atelierul tău înainte de publicare.",
   "workshop.import.help": "Adu un document Word sau un manuscris Scrivener compilat într-o schiță nouă de poveste. Verifică capitolele, apoi alege limba, clasificarea și licența poveștii.",
-  "workshop.import.formats": "Sunt acceptate DOCX, Markdown, text și scenarii Fountain. În Word sau în Scrivener Compile, folosește Heading 1 pentru titlurile capitolelor; în Fountain, secțiunile de nivel 1 (# Actul întâi) devin capitole. Formatul vechi DOC, PDF, EPUB, proiectele Scrivener native și arhivele de cont ale serviciilor nu sunt acceptate aici.",
+  "workshop.import.formats": "Sunt acceptate DOCX, HTML, Markdown, text și scenarii Fountain. În Word sau în Scrivener Compile, folosește Heading 1 pentru titlurile capitolelor; în Fountain, secțiunile de nivel 1 (# Actul întâi) devin capitole. Formatul vechi DOC, PDF, EPUB, proiectele Scrivener native și arhivele de cont ale serviciilor nu sunt acceptate aici.",
   "workshop.import.formatting": "Paragrafele, titlurile, evidențierile, listele și tabelele sunt păstrate acolo unde este posibil. Imaginile, așezarea în pagină și formatările neacceptate sunt omise. Verifică previzualizarea înainte de import. Fișierele sunt citite în browserul tău; la import se trimit doar capitolele verificate.",
   "workshop.import.openDraft": "Deschide schița salvată",
   "workshop.import.file": "Fișierul manuscrisului",

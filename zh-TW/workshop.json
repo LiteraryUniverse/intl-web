@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "選擇類型和年齡分級，讓讀者知道會讀到什麼。授權條款決定他人可以如何使用您的作品。授權小幫手會在您選擇前說明各個選項。",
   "workshop.creation.draft.help": "這會建立一份未發布的草稿。發布前，您可以在工作坊中加入封面、協作者和更多設定。",
   "workshop.import.help": "將 Word 文件或編譯後的 Scrivener 稿件匯入為新的故事草稿。檢視章節後，選擇故事的語言、分級與授權。",
-  "workshop.import.formats": "支援 DOCX、Markdown、純文字與 Fountain 劇本。在 Word 或 Scrivener 的 Compile 中，請將章節標題設為「標題 1」（Heading 1）；在 Fountain 中，第一層級的段落（# 第一幕）會成為章節。這裡不支援舊版 DOC、PDF、EPUB、Scrivener 原生專案以及服務帳號的封存檔。",
+  "workshop.import.formats": "支援 DOCX、HTML、Markdown、純文字與 Fountain 劇本。在 Word 或 Scrivener 的 Compile 中，請將章節標題設為「標題 1」（Heading 1）；在 Fountain 中，第一層級的段落（# 第一幕）會成為章節。這裡不支援舊版 DOC、PDF、EPUB、Scrivener 原生專案以及服務帳號的封存檔。",
   "workshop.import.formatting": "段落、標題、強調、清單與表格會盡可能保留。圖片、頁面版面與不支援的格式會被略過。匯入前請檢查預覽。檔案是在您的瀏覽器中讀取；匯入時只會傳送您檢視過的章節。",
   "workshop.import.openDraft": "開啟已儲存的草稿",
   "workshop.import.file": "稿件檔案",

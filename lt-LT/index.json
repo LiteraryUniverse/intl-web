@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "Pasirinkite žanrą ir amžiaus cenzą, kad skaitytojai žinotų, ko tikėtis. Licencija nustato, kaip kiti gali naudoti jūsų kūrinį. Licencijų pagalbininkas paaiškins galimybes prieš jums pasirenkant.",
   "workshop.creation.draft.help": "Bus sukurtas nepublikuotas juodraštis. Prieš publikuodami dirbtuvėse galėsite pridėti viršelį, bendraautorius ir daugiau nustatymų.",
   "workshop.import.help": "Perkelkite Word dokumentą arba sukompiliuotą Scrivener rankraštį į naują istorijos juodraštį. Peržiūrėkite skyrius, tada pasirinkite istorijos kalbą, reitingą ir licenciją.",
-  "workshop.import.formats": "Palaikomi DOCX, Markdown, tekstiniai failai ir Fountain scenarijai. Programoje Word arba Scrivener Compile skyrių pavadinimams naudokite Heading 1, o Fountain faile pirmo lygio skyriai (# Pirmas veiksmas) tampa skyriais. Senasis DOC, PDF, EPUB, originalūs Scrivener projektai ir paslaugų paskyrų archyvai čia nepalaikomi.",
+  "workshop.import.formats": "Palaikomi DOCX, HTML, Markdown, tekstiniai failai ir Fountain scenarijai. Programoje Word arba Scrivener Compile skyrių pavadinimams naudokite Heading 1, o Fountain faile pirmo lygio skyriai (# Pirmas veiksmas) tampa skyriais. Senasis DOC, PDF, EPUB, originalūs Scrivener projektai ir paslaugų paskyrų archyvai čia nepalaikomi.",
   "workshop.import.formatting": "Pastraipos, antraštės, paryškinimas, sąrašai ir lentelės išsaugomi, kai tai įmanoma. Paveikslėliai, puslapio maketas ir nepalaikomas formatavimas praleidžiami. Prieš importuodami patikrinkite peržiūrą. Failai nuskaitomi Jūsų naršyklėje; importuojant siunčiami tik peržiūrėti skyriai.",
   "workshop.import.openDraft": "Atidaryti išsaugotą juodraštį",
   "workshop.import.file": "Rankraščio failas",

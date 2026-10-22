@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "Chọn thể loại và giới hạn độ tuổi để độc giả biết nên mong đợi điều gì. Giấy phép quyết định cách người khác được sử dụng tác phẩm của bạn. Trình trợ giúp giấy phép sẽ giải thích các lựa chọn trước khi bạn chọn.",
   "workshop.creation.draft.help": "Thao tác này tạo một bản nháp chưa xuất bản. Bạn có thể thêm ảnh bìa, cộng tác viên và các cài đặt khác trong xưởng viết trước khi xuất bản.",
   "workshop.import.help": "Đưa một tài liệu Word hoặc bản thảo Scrivener đã biên dịch vào một bản nháp câu chuyện mới. Xem lại các chương, sau đó chọn ngôn ngữ, xếp loại và giấy phép của câu chuyện.",
-  "workshop.import.formats": "Hỗ trợ DOCX, Markdown, văn bản thuần và kịch bản Fountain. Trong Word hoặc Scrivener Compile, hãy dùng Heading 1 cho tiêu đề chương; trong Fountain, mục cấp 1 (# Hồi một) sẽ thành chương. Không hỗ trợ ở đây: DOC cũ, PDF, EPUB, dự án Scrivener gốc và tệp lưu trữ tài khoản từ các dịch vụ.",
+  "workshop.import.formats": "Hỗ trợ DOCX, HTML, Markdown, văn bản thuần và kịch bản Fountain. Trong Word hoặc Scrivener Compile, hãy dùng Heading 1 cho tiêu đề chương; trong Fountain, mục cấp 1 (# Hồi một) sẽ thành chương. Không hỗ trợ ở đây: DOC cũ, PDF, EPUB, dự án Scrivener gốc và tệp lưu trữ tài khoản từ các dịch vụ.",
   "workshop.import.formatting": "Đoạn văn, tiêu đề, phần nhấn mạnh, danh sách và bảng được giữ lại khi có thể. Hình ảnh, bố cục trang và định dạng không được hỗ trợ sẽ bị lược bỏ. Hãy kiểm tra bản xem trước trước khi nhập. Tệp được đọc trong trình duyệt của bạn; chỉ các chương đã xem lại mới được gửi đi khi bạn nhập.",
   "workshop.import.openDraft": "Mở bản nháp đã lưu",
   "workshop.import.file": "Tệp bản thảo",

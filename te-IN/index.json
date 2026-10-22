@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "పాఠకులు ఏమి ఆశించాలో తెలిసేలా ఒక జానర్‌ను, వయస్సు రేటింగ్‌ను ఎంచుకోండి. ఇతరులు మీ రచనను ఎలా ఉపయోగించవచ్చో మీ లైసెన్స్ నిర్ణయిస్తుంది. మీరు ఎంచుకునే ముందు లైసెన్స్ సహాయకం ఎంపికలను వివరిస్తుంది.",
   "workshop.creation.draft.help": "ఇది ప్రచురించని డ్రాఫ్ట్‌ను సృష్టిస్తుంది. ప్రచురించే ముందు మీ వర్క్‌షాప్‌లో కవర్, సహ రచయితలు, మరిన్ని సెట్టింగ్‌లను జోడించవచ్చు.",
   "workshop.import.help": "Bring a Word document or a compiled Scrivener manuscript into a new story draft. Review the chapters, then choose the story’s language, rating and license.",
-  "workshop.import.formats": "DOCX, Markdown, టెక్స్ట్ మరియు Fountain స్క్రిప్ట్‌లకు మద్దతు ఉంది. Word లేదా Scrivener Compile‌లో అధ్యాయ శీర్షికలకు Heading 1 ఉపయోగించండి; Fountain‌లో స్థాయి-1 విభాగాలు (# మొదటి అంకం) అధ్యాయాలు అవుతాయి. పాత DOC, PDF, EPUB, స్థానిక Scrivener ప్రాజెక్ట్‌లు మరియు సేవా ఖాతా ఆర్కైవ్‌లకు ఇక్కడ మద్దతు లేదు.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, టెక్స్ట్ మరియు Fountain స్క్రిప్ట్‌లకు మద్దతు ఉంది. Word లేదా Scrivener Compile‌లో అధ్యాయ శీర్షికలకు Heading 1 ఉపయోగించండి; Fountain‌లో స్థాయి-1 విభాగాలు (# మొదటి అంకం) అధ్యాయాలు అవుతాయి. పాత DOC, PDF, EPUB, స్థానిక Scrivener ప్రాజెక్ట్‌లు మరియు సేవా ఖాతా ఆర్కైవ్‌లకు ఇక్కడ మద్దతు లేదు.",
   "workshop.import.formatting": "Paragraphs, headings, emphasis, lists and tables are retained where possible. Images, page layout and unsupported formatting are omitted. Check the preview before importing. Files are read in your browser; only the reviewed chapters are sent when you import.",
   "workshop.import.openDraft": "Open the saved draft",
   "workshop.import.file": "Manuscript file",

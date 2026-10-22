@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Pilih genre dan rating usia agar pembaca tahu apa yang akan mereka temui. Lisensimu mengatur cara orang lain boleh menggunakan karyamu. Pemandu lisensi menjelaskan pilihannya sebelum kamu memilih.",
   "workshop.creation.draft.help": "Ini membuat draf yang belum diterbitkan. Kamu bisa menambahkan sampul, kolaborator, dan pengaturan lain di workshop-mu sebelum menerbitkan.",
   "workshop.import.help": "Bawa dokumen Word atau naskah Scrivener hasil kompilasi ke dalam draf cerita baru. Tinjau bab-babnya, lalu pilih bahasa, peringkat, dan lisensi cerita.",
-  "workshop.import.formats": "DOCX, Markdown, teks, dan naskah Fountain didukung. Di Word atau Scrivener Compile, gunakan Heading 1 untuk judul bab; di Fountain, bagian tingkat 1 (# Babak Satu) menjadi bab. DOC lama, PDF, EPUB, proyek Scrivener asli, dan arsip akun layanan tidak didukung di sini.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, teks, dan naskah Fountain didukung. Di Word atau Scrivener Compile, gunakan Heading 1 untuk judul bab; di Fountain, bagian tingkat 1 (# Babak Satu) menjadi bab. DOC lama, PDF, EPUB, proyek Scrivener asli, dan arsip akun layanan tidak didukung di sini.",
   "workshop.import.formatting": "Paragraf, judul, penekanan, daftar, dan tabel dipertahankan sebisa mungkin. Gambar, tata letak halaman, dan format yang tidak didukung dihilangkan. Periksa pratinjau sebelum mengimpor. File dibaca di browser Anda; hanya bab yang telah ditinjau yang dikirim saat Anda mengimpor.",
   "workshop.import.openDraft": "Buka draf tersimpan",
   "workshop.import.file": "File naskah",

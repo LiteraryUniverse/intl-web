@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Pilih genre lan rating umur supaya pamaca ngerti apa sing bakal ditemoni. Lisensi sampeyan ngatur kepriye wong liya oleh nggunakake karya sampeyan. Pambiyantu lisensi nerangake pilihan-pilihane sadurunge sampeyan milih.",
   "workshop.creation.draft.help": "Iki nggawe draf sing durung diterbitake. Sampeyan bisa nambahake sampul, kolaborator, lan setelan liyane ing bengkel sadurunge nerbitake.",
   "workshop.import.help": "Bring a Word document or a compiled Scrivener manuscript into a new story draft. Review the chapters, then choose the story’s language, rating and license.",
-  "workshop.import.formats": "DOCX, Markdown, text and Fountain scripts are supported. In Word or Scrivener Compile, use Heading 1 for chapter titles; in Fountain, level-1 sections (# Act One) become chapters. Legacy DOC, PDF, EPUB, native Scrivener projects and service account archives are not supported here.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, text and Fountain scripts are supported. In Word or Scrivener Compile, use Heading 1 for chapter titles; in Fountain, level-1 sections (# Act One) become chapters. Legacy DOC, PDF, EPUB, native Scrivener projects and service account archives are not supported here.",
   "workshop.import.formatting": "Paragraphs, headings, emphasis, lists and tables are retained where possible. Images, page layout and unsupported formatting are omitted. Check the preview before importing. Files are read in your browser; only the reviewed chapters are sent when you import.",
   "workshop.import.openDraft": "Open the saved draft",
   "workshop.import.file": "Manuscript file",

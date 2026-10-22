@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "読者に内容が伝わるよう、ジャンルと年齢レーティングを選んでください。ライセンスは、他の人があなたの作品をどう利用できるかを定めます。選ぶ前に、ライセンスヘルパーが選択肢を説明します。",
   "workshop.creation.draft.help": "未公開の下書きが作成されます。公開する前に、ワークショップで表紙、共同制作者、その他の設定を追加できます。",
   "workshop.import.help": "Word文書またはコンパイル済みのScrivener原稿を、新しい物語の下書きとして取り込みます。章を確認してから、物語の言語、レーティング、ライセンスを選択してください。",
-  "workshop.import.formats": "DOCX、Markdown、テキスト、Fountain脚本に対応しています。WordまたはScrivenerのコンパイルでは、章のタイトルに「見出し1」を使用してください。Fountainでは、レベル1のセクション（# 第一幕）が章になります。旧形式のDOC、PDF、EPUB、Scrivenerのネイティブプロジェクト、サービスのアカウントアーカイブには、ここでは対応していません。",
+  "workshop.import.formats": "DOCX、HTML、Markdown、テキスト、Fountain脚本に対応しています。WordまたはScrivenerのコンパイルでは、章のタイトルに「見出し1」を使用してください。Fountainでは、レベル1のセクション（# 第一幕）が章になります。旧形式のDOC、PDF、EPUB、Scrivenerのネイティブプロジェクト、サービスのアカウントアーカイブには、ここでは対応していません。",
   "workshop.import.formatting": "段落、見出し、強調、リスト、表は可能な限り保持されます。画像、ページレイアウト、未対応の書式は省かれます。インポートする前にプレビューを確認してください。ファイルはお使いのブラウザー内で読み込まれ、インポート時に送信されるのは確認済みの章のみです。",
   "workshop.import.openDraft": "保存した下書きを開く",
   "workshop.import.file": "原稿ファイル",

@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "Valitse genre ja ikäraja, jotta lukijat tietävät, mitä odottaa. Lisenssi määrää, miten muut saavat käyttää teostasi. Lisenssiapuri selittää vaihtoehdot ennen valintaa.",
   "workshop.creation.draft.help": "Tämä luo julkaisemattoman luonnoksen. Voit lisätä kannen, yhteistyökumppaneita ja muita asetuksia työpajassasi ennen julkaisua.",
   "workshop.import.help": "Tuo Word-asiakirja tai koottu Scrivener-käsikirjoitus uuteen tarinaluonnokseen. Tarkista luvut ja valitse sitten tarinan kieli, ikäluokitus ja lisenssi.",
-  "workshop.import.formats": "DOCX, Markdown, teksti ja Fountain-käsikirjoitukset ovat tuettuja. Käytä Wordissa tai Scrivenerin Compile-toiminnossa lukujen otsikoille tyyliä Heading 1; Fountainissa ensimmäisen tason osiot (# Ensimmäinen näytös) muuttuvat luvuiksi. Vanhaa DOC-muotoa, PDF:ää, EPUBia, natiiveja Scrivener-projekteja ja palvelujen tiliarkistoja ei tueta täällä.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, teksti ja Fountain-käsikirjoitukset ovat tuettuja. Käytä Wordissa tai Scrivenerin Compile-toiminnossa lukujen otsikoille tyyliä Heading 1; Fountainissa ensimmäisen tason osiot (# Ensimmäinen näytös) muuttuvat luvuiksi. Vanhaa DOC-muotoa, PDF:ää, EPUBia, natiiveja Scrivener-projekteja ja palvelujen tiliarkistoja ei tueta täällä.",
   "workshop.import.formatting": "Kappaleet, otsikot, korostukset, luettelot ja taulukot säilytetään mahdollisuuksien mukaan. Kuvat, sivun asettelu ja tukematon muotoilu jätetään pois. Tarkista esikatselu ennen tuontia. Tiedostot luetaan selaimessasi; vain tarkistetut luvut lähetetään, kun tuot.",
   "workshop.import.openDraft": "Avaa tallennettu luonnos",
   "workshop.import.file": "Käsikirjoitustiedosto",

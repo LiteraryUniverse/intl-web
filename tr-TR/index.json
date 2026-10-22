@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "Okurların ne bekleyeceğini bilmesi için bir tür ve yaş sınırı seçin. Lisansınız, başkalarının eserinizi nasıl kullanabileceğini belirler. Lisans yardımcısı, seçim yapmadan önce seçenekleri açıklar.",
   "workshop.creation.draft.help": "Bu işlem yayınlanmamış bir taslak oluşturur. Yayınlamadan önce atölyenizde kapak, ortak çalışanlar ve başka ayarlar ekleyebilirsiniz.",
   "workshop.import.help": "Bir Word belgesini veya derlenmiş bir Scrivener müsveddesini yeni bir hikaye taslağına aktarın. Bölümleri gözden geçirin, ardından hikayenin dilini, derecelendirmesini ve lisansını seçin.",
-  "workshop.import.formats": "DOCX, Markdown, metin ve Fountain senaryoları desteklenir. Word'de veya Scrivener Compile'da bölüm başlıkları için Başlık 1'i kullanın; Fountain'da 1. düzey bölümler (# Birinci Perde) bölüm olur. Eski DOC, PDF, EPUB, yerel Scrivener projeleri ve hizmet hesabı arşivleri burada desteklenmez.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, metin ve Fountain senaryoları desteklenir. Word'de veya Scrivener Compile'da bölüm başlıkları için Başlık 1'i kullanın; Fountain'da 1. düzey bölümler (# Birinci Perde) bölüm olur. Eski DOC, PDF, EPUB, yerel Scrivener projeleri ve hizmet hesabı arşivleri burada desteklenmez.",
   "workshop.import.formatting": "Paragraflar, başlıklar, vurgular, listeler ve tablolar mümkün olduğunca korunur. Görseller, sayfa düzeni ve desteklenmeyen biçimlendirme çıkarılır. İçe aktarmadan önce önizlemeyi kontrol edin. Dosyalar tarayıcınızda okunur; içe aktardığınızda yalnızca gözden geçirilen bölümler gönderilir.",
   "workshop.import.openDraft": "Kaydedilen taslağı aç",
   "workshop.import.file": "Müsvedde dosyası",

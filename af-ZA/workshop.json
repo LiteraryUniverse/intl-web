@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Kies 'n genre en 'n ouderdomsgradering sodat lesers weet wat om te verwag. Jou lisensie bepaal hoe ander jou werk mag gebruik. Die lisensiehulp verduidelik die opsies voordat jy kies.",
   "workshop.creation.draft.help": "Dit skep 'n ongepubliseerde konsep. Jy kan 'n omslag, medewerkers en meer instellings in jou werkswinkel byvoeg voordat jy publiseer.",
   "workshop.import.help": "Bring 'n Word-dokument of 'n saamgestelde Scrivener-manuskrip in 'n nuwe storiekonsep in. Gaan die hoofstukke na en kies dan die storie se taal, gradering en lisensie.",
-  "workshop.import.formats": "DOCX, Markdown, teks en Fountain-skrifte word ondersteun. Gebruik in Word of Scrivener Compile Heading 1 vir hoofstuktitels; in Fountain word vlak-1-afdelings (# Eerste Bedryf) hoofstukke. Ouer DOC, PDF, EPUB, inheemse Scrivener-projekte en diensrekeningargiewe word nie hier ondersteun nie.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, teks en Fountain-skrifte word ondersteun. Gebruik in Word of Scrivener Compile Heading 1 vir hoofstuktitels; in Fountain word vlak-1-afdelings (# Eerste Bedryf) hoofstukke. Ouer DOC, PDF, EPUB, inheemse Scrivener-projekte en diensrekeningargiewe word nie hier ondersteun nie.",
   "workshop.import.formatting": "Paragrawe, opskrifte, beklemtoning, lyste en tabelle word waar moontlik behou. Prente, bladuitleg en formatering wat nie ondersteun word nie, word weggelaat. Gaan die voorskou na voordat jy invoer. Lêers word in jou blaaier gelees; slegs die nagegaande hoofstukke word gestuur wanneer jy invoer.",
   "workshop.import.openDraft": "Maak die gestoorde konsep oop",
   "workshop.import.file": "Manuskriplêer",

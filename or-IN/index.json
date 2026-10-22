@@ -7071,7 +7071,7 @@
   "workshop.creation.details.help": "ପାଠକମାନେ କ'ଣ ଆଶା କରିବେ ତାହା ଜାଣିବା ପାଇଁ ଏକ ଶୈଳୀ ଏବଂ ବୟସ ରେଟିଂ ବାଛନ୍ତୁ। ଅନ୍ୟମାନେ ଆପଣଙ୍କ ରଚନାକୁ କିପରି ବ୍ୟବହାର କରିପାରିବେ ତାହା ଆପଣଙ୍କ ଲାଇସେନ୍ସ ନିର୍ଦ୍ଧାରଣ କରେ। ଆପଣ ବାଛିବା ପୂର୍ବରୁ ଲାଇସେନ୍ସ ସହାୟକ ବିକଳ୍ପଗୁଡ଼ିକ ବୁଝାଇଥାଏ।",
   "workshop.creation.draft.help": "ଏହା ଏକ ଅପ୍ରକାଶିତ ଡ୍ରାଫ୍ଟ ତିଆରି କରେ। ପ୍ରକାଶ କରିବା ପୂର୍ବରୁ ଆପଣ ନିଜ କର୍ମଶାଳାରେ ପ୍ରଚ୍ଛଦ, ସହଯୋଗୀ ଏବଂ ଅଧିକ ସେଟିଂସ୍ ଯୋଡ଼ିପାରିବେ।",
   "workshop.import.help": "Bring a Word document or a compiled Scrivener manuscript into a new story draft. Review the chapters, then choose the story’s language, rating and license.",
-  "workshop.import.formats": "DOCX, Markdown, text and Fountain scripts are supported. In Word or Scrivener Compile, use Heading 1 for chapter titles; in Fountain, level-1 sections (# Act One) become chapters. Legacy DOC, PDF, EPUB, native Scrivener projects and service account archives are not supported here.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, text and Fountain scripts are supported. In Word or Scrivener Compile, use Heading 1 for chapter titles; in Fountain, level-1 sections (# Act One) become chapters. Legacy DOC, PDF, EPUB, native Scrivener projects and service account archives are not supported here.",
   "workshop.import.formatting": "Paragraphs, headings, emphasis, lists and tables are retained where possible. Images, page layout and unsupported formatting are omitted. Check the preview before importing. Files are read in your browser; only the reviewed chapters are sent when you import.",
   "workshop.import.openDraft": "Open the saved draft",
   "workshop.import.file": "Manuscript file",

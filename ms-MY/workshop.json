@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Pilih genre dan penarafan umur supaya pembaca tahu apa yang boleh dijangka. Lesen anda menentukan cara orang lain boleh menggunakan karya anda. Pembantu lesen menerangkan pilihan sebelum anda memilih.",
   "workshop.creation.draft.help": "Ini mencipta draf yang belum diterbitkan. Anda boleh menambah kulit, rakan kongsi dan tetapan lain di bengkel anda sebelum menerbitkan.",
   "workshop.import.help": "Bawa dokumen Word atau manuskrip Scrivener yang dikompil ke dalam draf cerita baharu. Semak bab-babnya, kemudian pilih bahasa, penilaian dan lesen cerita.",
-  "workshop.import.formats": "DOCX, Markdown, teks dan skrip Fountain disokong. Dalam Word atau Scrivener Compile, gunakan Heading 1 untuk tajuk bab; dalam Fountain, bahagian aras 1 (# Babak Satu) menjadi bab. DOC lama, PDF, EPUB, projek Scrivener asli dan arkib akaun perkhidmatan tidak disokong di sini.",
+  "workshop.import.formats": "DOCX, HTML, Markdown, teks dan skrip Fountain disokong. Dalam Word atau Scrivener Compile, gunakan Heading 1 untuk tajuk bab; dalam Fountain, bahagian aras 1 (# Babak Satu) menjadi bab. DOC lama, PDF, EPUB, projek Scrivener asli dan arkib akaun perkhidmatan tidak disokong di sini.",
   "workshop.import.formatting": "Perenggan, tajuk, penegasan, senarai dan jadual dikekalkan di mana mungkin. Imej, susun atur halaman dan pemformatan yang tidak disokong ditinggalkan. Semak pratonton sebelum mengimport. Fail dibaca dalam pelayar anda; hanya bab yang telah disemak dihantar apabila anda mengimport.",
   "workshop.import.openDraft": "Buka draf yang disimpan",
   "workshop.import.file": "Fail manuskrip",

@@ -918,7 +918,7 @@
   "workshop.creation.details.help": "Vali žanr ja vanusepiirang, et lugejad teaksid, mida oodata. Litsents määrab, kuidas teised sinu teost kasutada tohivad. Litsentsiabiline selgitab valikuid enne, kui otsustad.",
   "workshop.creation.draft.help": "Nii luuakse avaldamata mustand. Enne avaldamist saad oma töötoas lisada kaanepildi, kaasautoreid ja muid seadeid.",
   "workshop.import.help": "Too Wordi dokument või kompileeritud Scriveneri käsikiri uude loo mustandisse. Vaata peatükid üle ning vali seejärel loo keel, reiting ja litsents.",
-  "workshop.import.formats": "Toetatud on DOCX, Markdown, tekst ja Fountain-stsenaariumid. Kasuta Wordis või Scriveneri funktsioonis Compile peatükkide pealkirjade jaoks stiili Heading 1; Fountainis muutuvad esimese taseme jaotised (# Esimene vaatus) peatükkideks. Vana DOC-vormingut, PDF-i, EPUB-i, Scriveneri oma projekte ega teenusekontode arhiive siin ei toetata.",
+  "workshop.import.formats": "Toetatud on DOCX, HTML, Markdown, tekst ja Fountain-stsenaariumid. Kasuta Wordis või Scriveneri funktsioonis Compile peatükkide pealkirjade jaoks stiili Heading 1; Fountainis muutuvad esimese taseme jaotised (# Esimene vaatus) peatükkideks. Vana DOC-vormingut, PDF-i, EPUB-i, Scriveneri oma projekte ega teenusekontode arhiive siin ei toetata.",
   "workshop.import.formatting": "Lõigud, pealkirjad, rõhutused, loendid ja tabelid säilitatakse võimaluse korral. Pildid, lehekülje paigutus ja toetamata vorming jäetakse välja. Kontrolli enne importimist eelvaadet. Failid loetakse sinu brauseris; importimisel saadetakse ainult üle vaadatud peatükid.",
   "workshop.import.openDraft": "Ava salvestatud mustand",
   "workshop.import.file": "Käsikirja fail",
