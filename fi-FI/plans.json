@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Ensyklopedia-artikkelit",
   "plans.limits.maxCollaborators": "Yhteistyökumppanit per projekti",
   "plans.limits.pmChats": "Maksimi vastaanottajien määrä yksityisessä viestissä",
+  "plans.limits.aiMonthlyUsd": "Kuukausittainen tekoälykiintiö (USD)",
   "plans.feature.creative": "Luo upeita universumeja ja tarinoita",
   "plans.feature.encCustomFields": "Mukautettavat tietokentät ensyklopedian artikkelissa",
   "plans.feature.encAdvCategories": "Enemmän enyklopedia-kategorioita",

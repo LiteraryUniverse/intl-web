@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Enciklopédia bejegyzések",
   "plans.limits.maxCollaborators": "Együttműködők projektenként",
   "plans.limits.pmChats": "Maximális címzettek száma privát üzenetben",
+  "plans.limits.aiMonthlyUsd": "Havi AI-keret (USD)",
   "plans.feature.creative": "Hozzon létre lenyűgöző univerzumokat és történeteket",
   "plans.feature.encCustomFields": "Testreszabható enciklopédia mezők egy bejegyzésen",
   "plans.feature.encAdvCategories": "Több enciklopédia kategória",

@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "ज्ञानकोश प्रविष्टियाँ",
   "plans.limits.maxCollaborators": "प्रोजेक्ट प्रति सहयोगी",
   "plans.limits.pmChats": "निजी संदेश के लिए अधिकतम प्राप्तकर्ताओं की संख्या",
+  "plans.limits.aiMonthlyUsd": "मासिक AI उपयोग भत्ता (USD)",
   "plans.feature.creative": "अद्भुत ब्रह्मांड और कहानियाँ बनाएँ",
   "plans.feature.encCustomFields": "एक प्रविष्टि पर अनुकूलनीय ज्ञानकोश क्षेत्र",
   "plans.feature.encAdvCategories": "अधिक ज्ञानकोश श्रेणियाँ",

@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "বিশ্বকোষ নিৰ্বাচনী",
   "plans.limits.maxCollaborators": "প্ৰকল্পসমূহত সহযোগীৰ সংখ্যা",
   "plans.limits.pmChats": "ব্যক্তিগত বার্তাৰ গ্ৰাহকৰ সর্বাধিক সংখ্যা",
+  "plans.limits.aiMonthlyUsd": "Monthly AI usage allowance (USD)",
   "plans.feature.creative": "অদ্ভুত বিশ্বসৃষ্টি আৰু গল্প সৃষ্টি কৰক",
   "plans.feature.encCustomFields": "এটা নির্ধাৰিতকৰণযোগ্য বিশ্বকোষ ক্ষেত্ৰত",
   "plans.feature.encAdvCategories": "অধিক বিশ্বকোষ শিতানসমূহ",

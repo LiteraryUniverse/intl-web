@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Voci dell'enciclopedia",
   "plans.limits.maxCollaborators": "Collaboratori per progetto",
   "plans.limits.pmChats": "Numero massimo di destinatari per messaggio privato",
+  "plans.limits.aiMonthlyUsd": "Quota mensile di utilizzo AI (USD)",
   "plans.feature.creative": "Crea universi e storie straordinarie",
   "plans.feature.encCustomFields": "Campi personalizzabili nell'enciclopedia su una voce",
   "plans.feature.encAdvCategories": "Ulteriori categorie dell'enciclopedia",

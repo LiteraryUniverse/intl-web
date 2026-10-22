@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Záznamy v encyklopédii",
   "plans.limits.maxCollaborators": "Spolupracovníci na projekt",
   "plans.limits.pmChats": "Maximálny počet príjemcov pre súkromnú správu",
+  "plans.limits.aiMonthlyUsd": "Mesačný limit na využitie AI (USD)",
   "plans.feature.creative": "Vytvárajte úžasné vesmíry a príbehy",
   "plans.feature.encCustomFields": "Prispôsobiteľné polia encyklopédie v položke",
   "plans.feature.encAdvCategories": "Viac kategórií encyklopédií",

@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "ენციკლოპედიური სტატიები",
   "plans.limits.maxCollaborators": "თანამშრომლები პროექტზე",
   "plans.limits.pmChats": "კერძო შეტყობინების მიმღათა მაქსიმალური რაოდენობა",
+  "plans.limits.aiMonthlyUsd": "AI-ის ყოველთვიური ლიმიტი (USD)",
   "plans.feature.creative": "შექმენი საოცარ სამყაროებსა და ისტორიებს",
   "plans.feature.encCustomFields": "სტატიაში ენციკლოპედიის მორგებადი ველები",
   "plans.feature.encAdvCategories": "ენციკლოპედიის მეტი კატეგორია",

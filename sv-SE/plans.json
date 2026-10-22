@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Encyklopediinlägg",
   "plans.limits.maxCollaborators": "Samarbetspartners per projekt",
   "plans.limits.pmChats": "Maximalt antal mottagare för privata meddelanden",
+  "plans.limits.aiMonthlyUsd": "Månatlig AI-användningskvot (USD)",
   "plans.feature.creative": "Skapa fantastiska universum och berättelser",
   "plans.feature.encCustomFields": "Anpassningsbara fält i encyklopediinlägg",
   "plans.feature.encAdvCategories": "Fler encyklopedikategorier",

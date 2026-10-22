@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Wpisów encyklopedii",
   "plans.limits.maxCollaborators": "Współpracownicy na projekt",
   "plans.limits.pmChats": "Maksymalna liczba odbiorców wiadomości prywatnej",
+  "plans.limits.aiMonthlyUsd": "Miesięczna pula AI (USD)",
   "plans.feature.creative": "Twórz niesamowite uniwersa i historie",
   "plans.feature.encCustomFields": "Dostosowywane pola encyklopedii na wpisie",
   "plans.feature.encAdvCategories": "Więcej kategorii encyklopedii",

@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Iontrálacha leabhair gairmeacha",
   "plans.limits.maxCollaborators": "Comhoibritheoirí in aghaidh togra",
   "plans.limits.pmChats": "Uasmhéid # de shealbhóirí do theachtaireacht phríobháideach",
+  "plans.limits.aiMonthlyUsd": "Monthly AI usage allowance (USD)",
   "plans.feature.creative": "Cruthaigh domhantachtaí agus scéalta iontacha",
   "plans.feature.encCustomFields": "Réimse pearsantaí cumaisle ar iontráil",
   "plans.feature.encAdvCategories": "Réimse níos mó catagóirí leabhar gairmeacha",

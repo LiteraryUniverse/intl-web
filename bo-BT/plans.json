@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Encyclopedia entries",
   "plans.limits.maxCollaborators": "Collaborators per project",
   "plans.limits.pmChats": "Maximum # of recipients for private message",
+  "plans.limits.aiMonthlyUsd": "Monthly AI usage allowance (USD)",
   "plans.feature.creative": "Create amazing universes and stories",
   "plans.feature.encCustomFields": "Customizable encyclopedia fields on an entry",
   "plans.feature.encAdvCategories": "More encyclopedia categories",
