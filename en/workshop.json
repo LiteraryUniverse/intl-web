@@ -1128,9 +1128,12 @@
   "workshop.import.received.unavailable": "This file is no longer available where the export left it. Run the Tapas export again.",
   "workshop.ai.chat.platformGroup": "Literary Universe",
   "workshop.ai.chat.ownKeysGroup": "Your keys",
-  "workshop.ai.chat.balanceShort": "{amount} left",
+  "workshop.ai.chat.balanceChip": "Literary Universe AI: {spent} of {granted} used, {amount} left. Resets {date}.",
+  "workshop.ai.chat.balanceChipNoReset": "Literary Universe AI: {spent} of {granted} used, {amount} left.",
   "workshop.ai.chat.replyCost": "Cost: {amount}",
   "workshop.ai.chat.noBalance": "Your Literary Universe AI balance is used up. It resets on {date}. Add usage, or add your own provider key in your settings.",
+  "workshop.ai.chat.noBalanceNoReset": "Your Literary Universe AI balance is used up. Add usage, or add your own provider key in your settings.",
   "workshop.ai.chat.balanceLow": "{amount} of Literary Universe AI usage left this period. It resets on {date}.",
+  "workshop.ai.chat.balanceLowNoReset": "{amount} of Literary Universe AI usage left.",
   "workshop.ai.chat.usageLink": "Usage and options"
 }
