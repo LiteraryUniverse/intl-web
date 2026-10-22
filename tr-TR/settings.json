@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Kullanıcı adınıza, avatarınıza ve genel profilinize erişin",
   "settings.apiKeys.scope.library.read": "Kütüphane okuyun",
   "settings.apiKeys.scope.library.read.desc": "Okuma listelerinize ve kayıtlı hikayelerinize erişin",
+  "settings.apiKeys.scope.library.write": "Kütüphaneye yazın",
+  "settings.apiKeys.scope.library.write.desc": "Kütüphanenize kayıt ekleyin, örneğin Tapas'tan taşınan satın alımlar",
   "settings.externalKeys.title": "Harici Hizmet Anahtarları",
   "settings.externalKeys.description": "Harici yapay zeka hizmetleri için kendi API anahtarlarınızı ekleyin. Anahtarlar şifrelenir, güvenli biçimde saklanır ve yalnızca sizin başlattığınız özellikler için kullanılır. Asistan, hikaye bağlamını o sağlayıcıya, o sağlayıcının veri politikası kapsamında gönderir — Literary Universe bu günlükleri veya önbellekleri değiştiremez.",
   "settings.externalKeys.securityNote": "API anahtarlarına şifre gibi davranın. Onları asla kimseyle paylaşmayın.",

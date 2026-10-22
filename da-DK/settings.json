@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Få adgang til dit brugernavn, din avatar og din offentlige profil",
   "settings.apiKeys.scope.library.read": "Læs bibliotek",
   "settings.apiKeys.scope.library.read.desc": "Få adgang til dine læselister og gemte historier",
+  "settings.apiKeys.scope.library.write": "Skriv til bibliotek",
+  "settings.apiKeys.scope.library.write.desc": "Gem poster i dit bibliotek, f.eks. køb overført fra Tapas",
   "settings.externalKeys.title": "Nøgler til eksterne tjenester",
   "settings.externalKeys.description": "Tilføj dine egne API-nøgler til eksterne AI-tjenester. Nøglerne krypteres og opbevares sikkert og bruges kun til funktioner, du selv starter. Assistenten sender historiekontekst til den udbyder under den udbyders datapolitik — Literary Universe kan ikke ændre de logs eller caches.",
   "settings.externalKeys.securityNote": "Behandl API-nøgler som adgangskoder. Del dem aldrig med nogen.",

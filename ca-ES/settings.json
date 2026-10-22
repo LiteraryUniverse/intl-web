@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Accedir al teu nom d'usuari, avatar i perfil públic",
   "settings.apiKeys.scope.library.read": "Llegir la biblioteca",
   "settings.apiKeys.scope.library.read.desc": "Accedir a les teves llistes de lectura i històries desades",
+  "settings.apiKeys.scope.library.write": "Escriure a la biblioteca",
+  "settings.apiKeys.scope.library.write.desc": "Desar registres a la teva biblioteca, com ara compres portades de Tapas",
   "settings.externalKeys.title": "Claus de serveis externs",
   "settings.externalKeys.description": "Afegeix les teves pròpies claus d'API per a serveis d'IA externs. Les claus es xifren i s'emmagatzemen de manera segura, i només es fan servir per a les funcionalitats que tu inicies. L'assistent envia el context de la història a aquest proveïdor segons la política de dades d'aquest proveïdor: Literary Universe no pot modificar aquests registres ni memòries cau.",
   "settings.externalKeys.securityNote": "Tracta les claus d'API com a contrasenyes. No les comparteixis mai amb ningú.",

@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Hozzáférés a felhasználónévhez, avatárhoz és nyilvános profilhoz",
   "settings.apiKeys.scope.library.read": "Olvassa el a könyvtárat",
   "settings.apiKeys.scope.library.read.desc": "Hozzáférés az olvasási listákhoz és a mentett történetekhez",
+  "settings.apiKeys.scope.library.write": "Írás a könyvtárba",
+  "settings.apiKeys.scope.library.write.desc": "Adatok mentése a könyvtáradba, például a Tapasról áthozott vásárlások",
   "settings.externalKeys.title": "Külső szolgáltatások kulcsai",
   "settings.externalKeys.description": "Adja meg saját API-kulcsait külső AI-szolgáltatásokhoz. A kulcsokat titkosítjuk és biztonságosan tároljuk, és csak az Ön által indított funkciókhoz használjuk. Az asszisztens a történet kontextusát a szolgáltató adatkezelési szabályzata szerint küldi — a Literary Universe ezeket a naplókat és gyorsítótárakat nem tudja megváltoztatni.",
   "settings.externalKeys.securityNote": "Az API-kulcsokat kezeld úgy, mint a jelszavakat. Soha ne oszd meg őket senkivel.",

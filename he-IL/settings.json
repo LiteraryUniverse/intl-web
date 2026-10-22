@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "גש לשם המשתמש, לאווטאר ולפרופיל הציבורי שלך",
   "settings.apiKeys.scope.library.read": "קרא ספרייה",
   "settings.apiKeys.scope.library.read.desc": "גש לרשימות הקריאה שלך ולסיפורים השמורים",
+  "settings.apiKeys.scope.library.write": "כתוב ספרייה",
+  "settings.apiKeys.scope.library.write.desc": "שמור רשומות בספרייה שלך, כמו רכישות שהועברו מ-Tapas",
   "settings.externalKeys.title": "מפתחות לשירותים חיצוניים",
   "settings.externalKeys.description": "הוסף מפתחות API משלך לשירותי בינה מלאכותית חיצוניים. המפתחות מוצפנים ונשמרים באופן מאובטח, ומשמשים רק לתכונות שאתה מפעיל. העוזר שולח הקשר מהסיפור לאותו ספק בכפוף למדיניות הנתונים של אותו ספק — Literary Universe אינו יכול לשנות את היומנים או המטמונים האלה.",
   "settings.externalKeys.securityNote": "התייחס למפתחות API כמו לסיסמאות. לעולם אל תשתף אותם עם איש.",

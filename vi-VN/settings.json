@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Truy cập tên người dùng, avatar và hồ sơ công khai của bạn.",
   "settings.apiKeys.scope.library.read": "Đọc thư viện",
   "settings.apiKeys.scope.library.read.desc": "Truy cập danh sách đọc và các câu chuyện đã lưu của bạn",
+  "settings.apiKeys.scope.library.write": "Ghi vào thư viện",
+  "settings.apiKeys.scope.library.write.desc": "Lưu hồ sơ vào thư viện của bạn, chẳng hạn các giao dịch mua chuyển từ Tapas sang",
   "settings.externalKeys.title": "Khóa dịch vụ bên ngoài",
   "settings.externalKeys.description": "Thêm khóa API của bạn cho các dịch vụ AI bên ngoài. Khóa được mã hóa, lưu an toàn và chỉ dùng cho tính năng do bạn khởi chạy. Trợ lý gửi ngữ cảnh truyện tới nhà cung cấp đó theo chính sách dữ liệu của họ — Literary Universe không thể thay đổi những nhật ký hay bộ nhớ đệm đó.",
   "settings.externalKeys.securityNote": "Hãy coi khóa API như mật khẩu. Đừng bao giờ chia sẻ chúng với bất kỳ ai.",

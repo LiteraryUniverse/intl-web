@@ -155,6 +155,8 @@
   "settings.apiKeys.scope.user.read.desc": "Access your username, avatar, and public profile",
   "settings.apiKeys.scope.library.read": "Read library",
   "settings.apiKeys.scope.library.read.desc": "Access your reading lists and saved stories",
+  "settings.apiKeys.scope.library.write": "Write library",
+  "settings.apiKeys.scope.library.write.desc": "Save records to your library, such as purchases brought over from Tapas",
   "settings.apiKeys.scope.diary.read": "Read writing diary",
   "settings.apiKeys.scope.diary.read.desc": "Access your writing diary entries and streaks",
   "settings.externalKeys.title": "External Service Keys",

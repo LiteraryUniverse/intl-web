@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Accesați numele dvs. de utilizator, avatarul și profilul public",
   "settings.apiKeys.scope.library.read": "Citește biblioteca",
   "settings.apiKeys.scope.library.read.desc": "Accesați listele de lectură și povestirile salvate",
+  "settings.apiKeys.scope.library.write": "Scrie în bibliotecă",
+  "settings.apiKeys.scope.library.write.desc": "Salvați înregistrări în biblioteca dvs., de exemplu cumpărături aduse de pe Tapas",
   "settings.externalKeys.title": "Chei pentru servicii externe",
   "settings.externalKeys.description": "Adaugă propriile chei API pentru servicii IA externe. Cheile sunt criptate și stocate în siguranță și sunt folosite doar pentru funcțiile pe care le pornești tu. Asistentul trimite contextul poveștii către acel furnizor, în baza politicii de date a acelui furnizor — Literary Universe nu poate modifica acele jurnale sau cache-uri.",
   "settings.externalKeys.securityNote": "Tratează cheile API ca pe niște parole. Nu le împărtăși niciodată nimănui.",

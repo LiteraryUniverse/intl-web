@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Access your username, avatar, and public profile",
   "settings.apiKeys.scope.library.read": "Read library",
   "settings.apiKeys.scope.library.read.desc": "Access your reading lists and saved stories",
+  "settings.apiKeys.scope.library.write": "ലൈബ്രറിയിൽ എഴുതുക",
+  "settings.apiKeys.scope.library.write.desc": "Tapas-ൽ നിന്ന് കൊണ്ടുവന്ന വാങ്ങലുകൾ പോലുള്ള രേഖകൾ നിങ്ങളുടെ ലൈബ്രറിയിൽ സംരക്ഷിക്കുക",
   "settings.externalKeys.title": "External Service Keys",
   "settings.externalKeys.description": "Add your own API keys for external AI services. Keys are encrypted and stored securely, and used only for features you start. The assistant sends story context to that provider under that provider's data policy — Literary Universe cannot change those logs or caches.",
   "settings.externalKeys.securityNote": "Treat API keys like passwords. Never share them with anyone.",

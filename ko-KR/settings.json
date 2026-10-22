@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "사용자 아이디, 아바타, 공개 프로필에 액세스하기",
   "settings.apiKeys.scope.library.read": "라이브러리 읽기",
   "settings.apiKeys.scope.library.read.desc": "읽기 목록 및 저장된 스토리에 액세스",
+  "settings.apiKeys.scope.library.write": "라이브러리 쓰기",
+  "settings.apiKeys.scope.library.write.desc": "Tapas에서 가져온 구매 내역 등의 기록을 라이브러리에 저장",
   "settings.externalKeys.title": "외부 서비스 키",
   "settings.externalKeys.description": "외부 AI 서비스용 API 키를 직접 추가하세요. 키는 암호화되어 안전하게 저장되며, 당신이 시작한 기능에만 사용됩니다. 도우미는 그 제공자의 데이터 정책에 따라 이야기 맥락을 보냅니다. Literary Universe는 그 로그와 캐시를 바꿀 수 없습니다.",
   "settings.externalKeys.securityNote": "API 키는 비밀번호처럼 다루세요. 누구와도 공유하지 마세요.",

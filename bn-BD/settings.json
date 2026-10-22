@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "আপনার ব্যবহারকারীর নাম, অ্যাভাটার ও সর্বজনীন প্রোফাইলে অ্যাক্সেস",
   "settings.apiKeys.scope.library.read": "লাইব্রেরি পড়া",
   "settings.apiKeys.scope.library.read.desc": "আপনার পড়ার তালিকা ও সংরক্ষিত গল্পে অ্যাক্সেস",
+  "settings.apiKeys.scope.library.write": "লাইব্রেরিতে লেখা",
+  "settings.apiKeys.scope.library.write.desc": "আপনার লাইব্রেরিতে রেকর্ড সংরক্ষণ, যেমন Tapas থেকে আনা কেনাকাটা",
   "settings.externalKeys.title": "বাহ্যিক পরিষেবার কী",
   "settings.externalKeys.description": "বাহ্যিক AI পরিষেবার জন্য আপনার নিজের API কী যোগ করুন। কী-গুলি এনক্রিপ্ট করে নিরাপদে সংরক্ষণ করা হয় এবং কেবল আপনার শুরু করা ফিচারের জন্য ব্যবহৃত হয়। সহকারী সেই প্রদানকারীর ডেটা নীতির অধীনে গল্পের প্রসঙ্গ তাকে পাঠায় — Literary Universe সেই লগ বা ক্যাশ পরিবর্তন করতে পারে না।",
   "settings.externalKeys.securityNote": "API কী-গুলিকে পাসওয়ার্ডের মতো গণ্য করুন। কখনও কারও সঙ্গে শেয়ার করবেন না।",

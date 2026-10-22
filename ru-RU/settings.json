@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Получите доступ к своему имени пользователя, аватару и публичному профилю",
   "settings.apiKeys.scope.library.read": "Библиотека для чтения",
   "settings.apiKeys.scope.library.read.desc": "Получите доступ к спискам для чтения и сохраненным историям",
+  "settings.apiKeys.scope.library.write": "Запись в библиотеку",
+  "settings.apiKeys.scope.library.write.desc": "Сохраняйте записи в своей библиотеке, например покупки, перенесённые с Tapas",
   "settings.externalKeys.title": "Ключи внешних сервисов",
   "settings.externalKeys.description": "Добавьте собственные ключи API для внешних ИИ-сервисов. Ключи шифруются и хранятся надёжно и используются только для функций, которые запускаете вы. Помощник отправляет контекст истории этому поставщику по его политике данных — Literary Universe не может изменить эти журналы и кэши.",
   "settings.externalKeys.securityNote": "Относитесь к API-ключам как к паролям. Никогда никому их не сообщайте.",

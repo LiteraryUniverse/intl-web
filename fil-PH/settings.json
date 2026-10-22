@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "I-access ang iyong username, avatar, at pampublikong profile",
   "settings.apiKeys.scope.library.read": "Basahin ang aklatan",
   "settings.apiKeys.scope.library.read.desc": "I-access ang iyong mga listahan ng pagbasa at mga naka-save na kwento",
+  "settings.apiKeys.scope.library.write": "Sumulat sa aklatan",
+  "settings.apiKeys.scope.library.write.desc": "Mag-save ng mga tala sa iyong aklatan, gaya ng mga biniling inilipat mula sa Tapas",
   "settings.externalKeys.title": "Mga key ng panlabas na serbisyo",
   "settings.externalKeys.description": "Idagdag ang sarili mong mga API key para sa mga panlabas na serbisyo ng AI. Naka-encrypt at ligtas na iniimbak ang mga key, at ginagamit lamang para sa mga feature na ikaw mismo ang nagsimula. Ipinapadala ng assistant ang konteksto ng kwento sa provider na iyon sa ilalim ng patakaran sa data ng provider na iyon — hindi mababago ng Literary Universe ang mga log o cache na iyon.",
   "settings.externalKeys.securityNote": "Ituring ang mga API key na parang password. Huwag kailanman ibahagi ang mga ito kaninuman.",

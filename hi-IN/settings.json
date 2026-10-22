@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "आपके उपयोगकर्ता नाम, अवतार और सार्वजनिक प्रोफ़ाइल तक पहुँच",
   "settings.apiKeys.scope.library.read": "पुस्तकालय पढ़ना",
   "settings.apiKeys.scope.library.read.desc": "आपकी पढ़ने की सूचियों और सहेजी गई कहानियों तक पहुँच",
+  "settings.apiKeys.scope.library.write": "पुस्तकालय में लिखना",
+  "settings.apiKeys.scope.library.write.desc": "आपके पुस्तकालय में रिकॉर्ड सहेजना, जैसे Tapas से लाई गई ख़रीदारियाँ",
   "settings.externalKeys.title": "बाहरी सेवा कुंजियाँ",
   "settings.externalKeys.description": "बाहरी AI सेवाओं के लिए अपनी खुद की API कुंजियाँ जोड़ें। कुंजियाँ एन्क्रिप्ट करके सुरक्षित रूप से संग्रहीत की जाती हैं, और केवल उन सुविधाओं के लिए उपयोग होती हैं जिन्हें आप शुरू करते हैं। सहायक कहानी का संदर्भ उस प्रदाता को उसी प्रदाता की डेटा नीति के तहत भेजता है — Literary Universe उन लॉग या कैश को बदल नहीं सकता।",
   "settings.externalKeys.securityNote": "API कुंजियों को पासवर्ड की तरह सँभालें। इन्हें कभी किसी के साथ साझा न करें।",

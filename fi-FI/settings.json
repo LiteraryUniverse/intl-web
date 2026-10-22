@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Pääset käyttämään käyttäjätunnusta, avataria ja julkista profiilia.",
   "settings.apiKeys.scope.library.read": "Lue kirjasto",
   "settings.apiKeys.scope.library.read.desc": "Pääset lukulistoihisi ja tallennettuihin tarinoihisi",
+  "settings.apiKeys.scope.library.write": "Kirjoita kirjastoon",
+  "settings.apiKeys.scope.library.write.desc": "Voit tallentaa kirjastoosi tietoja, kuten Tapasista tuodut ostokset",
   "settings.externalKeys.title": "Ulkoisten palveluiden avaimet",
   "settings.externalKeys.description": "Lisää omat API-avaimet ulkoisia tekoälypalveluja varten. Avaimet salataan ja säilytetään turvallisesti, ja niitä käytetään vain toimintoihin, jotka itse käynnistät. Avustaja lähettää tarinan kontekstin kyseiselle tarjoajalle sen tietokäytännön mukaan — Literary Universe ei voi muuttaa noita lokeja eikä välimuisteja.",
   "settings.externalKeys.securityNote": "Kohtele API-avaimia kuin salasanoja. Älä koskaan jaa niitä kenellekään.",

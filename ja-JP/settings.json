@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "ユーザー名、アバター、公開プロフィールにアクセスする",
   "settings.apiKeys.scope.library.read": "図書館を読む",
   "settings.apiKeys.scope.library.read.desc": "読書リストや保存したストーリーにアクセス",
+  "settings.apiKeys.scope.library.write": "ライブラリに書き込む",
+  "settings.apiKeys.scope.library.write.desc": "Tapasから移した購入記録などをライブラリに保存",
   "settings.externalKeys.title": "外部サービスキー",
   "settings.externalKeys.description": "外部の AI サービス用にご自身の API キーを追加できます。キーは暗号化して安全に保管し、ご自身が開始した機能にだけ使います。アシスタントは物語の文脈を、そのプロバイダーのデータ方針に従って送ります。Literary Universe はそれらのログやキャッシュを変えられません。",
   "settings.externalKeys.securityNote": "APIキーはパスワードと同じように扱ってください。決して他人と共有しないでください。",

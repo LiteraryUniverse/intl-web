@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Juurdepääs oma kasutajanimele, avatarile ja avalikule profiilile",
   "settings.apiKeys.scope.library.read": "Loe raamatukogu",
   "settings.apiKeys.scope.library.read.desc": "Juurdepääs oma lugemisnimekirjadele ja salvestatud lugudele",
+  "settings.apiKeys.scope.library.write": "Kirjuta raamatukogusse",
+  "settings.apiKeys.scope.library.write.desc": "Kirjete salvestamine oma raamatukogusse, näiteks Tapasest üle toodud ostud",
   "settings.externalKeys.title": "Väliste teenuste võtmed",
   "settings.externalKeys.description": "Lisage oma API-võtmed väliste tehisintellektiteenuste jaoks. Võtmed krüptitakse ja hoitakse turvaliselt ning neid kasutatakse ainult teie käivitatud funktsioonide jaoks. Abiline saadab loo konteksti sellele pakkujale tema andmepoliitika järgi — Literary Universe ei saa neid logisid ega vahemälusid muuta.",
   "settings.externalKeys.securityNote": "Kohelge API-võtmeid nagu paroole. Ärge jagage neid kunagi kellegagi.",

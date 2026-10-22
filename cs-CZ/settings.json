@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Přístup ke svému uživatelskému jménu, avataru a veřejnému profilu",
   "settings.apiKeys.scope.library.read": "Číst knihovnu",
   "settings.apiKeys.scope.library.read.desc": "Přístup k seznamům četby a uloženým příběhům",
+  "settings.apiKeys.scope.library.write": "Zapisovat do knihovny",
+  "settings.apiKeys.scope.library.write.desc": "Ukládání záznamů do knihovny, například nákupů převedených z Tapas",
   "settings.externalKeys.title": "Klíče externích služeb",
   "settings.externalKeys.description": "Přidejte vlastní API klíče pro externí AI služby. Klíče jsou šifrovány a bezpečně uloženy a používají se jen u funkcí, které sami spustíte. Asistent odesílá kontext příběhu danému poskytovateli podle jeho zásad zpracování dat — Literary Universe tyto protokoly ani mezipaměti nemůže změnit.",
   "settings.externalKeys.securityNote": "Zacházejte s API klíči, jako s hesli. Nikdy je nesdílejte.",

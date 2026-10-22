@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Accede al suo nome utente, al suo avatar e al suo profilo pubblico.",
   "settings.apiKeys.scope.library.read": "Leggi la biblioteca",
   "settings.apiKeys.scope.library.read.desc": "Acceda alle sue liste di lettura e alle storie salvate",
+  "settings.apiKeys.scope.library.write": "Scrivi nella biblioteca",
+  "settings.apiKeys.scope.library.write.desc": "Salvare dati nella biblioteca, come gli acquisti portati da Tapas",
   "settings.externalKeys.title": "Chiavi dei servizi esterni",
   "settings.externalKeys.description": "Aggiungi le tue chiavi API per i servizi di IA esterni. Le chiavi sono cifrate e archiviate in modo sicuro e si usano solo per le funzioni che avvii. L’assistente invia il contesto della storia a quel fornitore secondo la sua informativa sui dati: Literary Universe non può modificare quei registri né quelle cache.",
   "settings.externalKeys.securityNote": "Tratti le chiavi API come password. Non le condivida mai con nessuno.",

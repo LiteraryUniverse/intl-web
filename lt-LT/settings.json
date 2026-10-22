@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Prieiga prie vartotojo vardo, avataro ir viešo profilio",
   "settings.apiKeys.scope.library.read": "Skaityti biblioteką",
   "settings.apiKeys.scope.library.read.desc": "Prieiga prie skaitymo sąrašų ir išsaugotų istorijų",
+  "settings.apiKeys.scope.library.write": "Rašyti į biblioteką",
+  "settings.apiKeys.scope.library.write.desc": "Išsaugoti įrašus jūsų bibliotekoje, pavyzdžiui, iš Tapas perkeltus pirkinius",
   "settings.externalKeys.title": "Išorinių paslaugų raktai",
   "settings.externalKeys.description": "Pridėkite savo API raktus išorinėms DI paslaugoms. Raktai užšifruojami, saugiai laikomi ir naudojami tik jūsų pačių paleistoms funkcijoms. Asistentas siunčia istorijos kontekstą tam teikėjui pagal to teikėjo duomenų politiką – Literary Universe negali pakeisti tų žurnalų ar podėlių.",
   "settings.externalKeys.securityNote": "Su API raktais elkitės kaip su slaptažodžiais. Niekada su niekuo jais nesidalykite.",

@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Aliri vian uzantnomon, avataron kaj publikan profilon",
   "settings.apiKeys.scope.library.read": "Legi bibliotekon",
   "settings.apiKeys.scope.library.read.desc": "Aliri viajn legolistojn kaj konservitajn rakontojn",
+  "settings.apiKeys.scope.library.write": "Skribi en bibliotekon",
+  "settings.apiKeys.scope.library.write.desc": "Konservi registrojn en via biblioteko, ekzemple aĉetojn transportitajn el Tapas",
   "settings.externalKeys.title": "Ŝlosiloj de eksteraj servoj",
   "settings.externalKeys.description": "Aldonu viajn proprajn API-ŝlosilojn por eksteraj AI-servoj. Ŝlosiloj estas ĉifritaj kaj sekure konservitaj, kaj uzataj nur por funkcioj, kiujn vi mem startigas. La helpanto sendas rakontan kuntekston al tiu provizanto laŭ ĝia datuma politiko — Literary Universe ne povas ŝanĝi tiujn protokolojn aŭ kaŝmemorojn.",
   "settings.externalKeys.securityNote": "Traktu API-ŝlosilojn kiel pasvortojn. Neniam kunhavigu ilin kun iu ajn.",

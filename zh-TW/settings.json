@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "存取您的使用者名稱、頭像和公開個人資料",
   "settings.apiKeys.scope.library.read": "閱讀圖書館",
   "settings.apiKeys.scope.library.read.desc": "存取您的閱讀清單和儲存的故事",
+  "settings.apiKeys.scope.library.write": "寫入圖書館",
+  "settings.apiKeys.scope.library.write.desc": "將紀錄存入您的圖書館，例如從 Tapas 帶過來的購買紀錄",
   "settings.externalKeys.title": "外部服務金鑰",
   "settings.externalKeys.description": "為外部 AI 服務新增你自己的 API 金鑰。金鑰會加密並安全存放，且只用於你主動啟動的功能。助理會依該供應商的資料政策傳送故事脈絡——Literary Universe 無法變更那些紀錄或快取。",
   "settings.externalKeys.securityNote": "請像對待密碼一樣對待 API 金鑰。絕不要與任何人分享。",

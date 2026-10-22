@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "الوصول إلى اسم المستخدم، والصورة الرمزية، والملف الشخصي العام",
   "settings.apiKeys.scope.library.read": "قراءة المكتبة",
   "settings.apiKeys.scope.library.read.desc": "الوصول إلى قوائم القراءة والقصص المحفوظة",
+  "settings.apiKeys.scope.library.write": "الكتابة في المكتبة",
+  "settings.apiKeys.scope.library.write.desc": "حفظ السجلات في مكتبتك، مثل المشتريات المنقولة من Tapas",
   "settings.externalKeys.title": "مفاتيح الخدمات الخارجية",
   "settings.externalKeys.description": "أضف مفاتيح واجهة برمجة التطبيقات الخاصة بك لخدمات الذكاء الاصطناعي الخارجية. تُشفَّر المفاتيح وتُخزَّن بأمان وتُستخدم فقط للميزات التي تبدأها. يرسل المساعد سياق القصة إلى ذلك المزوّد وفق سياسة بياناته — ولا تستطيع Literary Universe تغيير تلك السجلات أو الذاكرة المؤقتة.",
   "settings.externalKeys.securityNote": "تعامل مع مفاتيح API مثل كلمات المرور. ولا تشاركها مع أي شخص أبدًا.",

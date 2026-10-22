@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Toegang tot jou gebruikersnaam, avatar en openbare profiel",
   "settings.apiKeys.scope.library.read": "Lees biblioteek",
   "settings.apiKeys.scope.library.read.desc": "Toegang tot jou leeslyste en gestoorde stories",
+  "settings.apiKeys.scope.library.write": "Skryf biblioteek",
+  "settings.apiKeys.scope.library.write.desc": "Stoor rekords in jou biblioteek, soos aankope wat van Tapas oorgebring is",
   "settings.externalKeys.title": "Sleutels vir eksterne dienste",
   "settings.externalKeys.description": "Voeg jou eie API-sleutels vir eksterne KI-dienste by. Sleutels word geënkripteer en veilig gestoor, en word slegs gebruik vir kenmerke wat jy self begin. Die assistent stuur storiekonteks aan daardie verskaffer kragtens daardie verskaffer se databeleid — Literary Universe kan nie daardie logs of kasgeheue verander nie.",
   "settings.externalKeys.securityNote": "Hanteer API-sleutels soos wagwoorde. Moet hulle nooit met enigiemand deel nie.",

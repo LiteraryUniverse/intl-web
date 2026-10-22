@@ -151,6 +151,8 @@
   "settings.apiKeys.scope.user.read.desc": "Akses nama pengguna, avatar dan profil awam anda",
   "settings.apiKeys.scope.library.read": "Baca perpustakaan",
   "settings.apiKeys.scope.library.read.desc": "Akses senarai bacaan dan cerita yang anda simpan",
+  "settings.apiKeys.scope.library.write": "Tulis ke perpustakaan",
+  "settings.apiKeys.scope.library.write.desc": "Simpan rekod dalam perpustakaan anda, seperti pembelian yang dibawa dari Tapas",
   "settings.externalKeys.title": "Kunci perkhidmatan luaran",
   "settings.externalKeys.description": "Tambah kunci API anda sendiri untuk perkhidmatan AI luaran. Kunci disulitkan dan disimpan dengan selamat, serta digunakan hanya untuk ciri yang anda mulakan. Pembantu menghantar konteks cerita kepada penyedia tersebut di bawah dasar data penyedia itu — Literary Universe tidak boleh mengubah log atau cache tersebut.",
   "settings.externalKeys.securityNote": "Layan kunci API seperti kata laluan. Jangan sekali-kali berkongsinya dengan sesiapa.",
