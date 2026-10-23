@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "المتبقي {amount} · يتجدد في {date}",
   "settings.ai.usage.remainingNoReset": "المتبقي {amount}",
   "settings.ai.usage.allowance": "تتضمن خطتك {amount} من استخدام الذكاء الاصطناعي كل شهر ميلادي. ولا يُرحَّل الرصيد غير المستخدم إلى الشهر التالي.",
-  "settings.ai.usage.noAllowance": "لا تتضمن خطتك رصيدًا شهريًا للذكاء الاصطناعي. تتضمنه خطة الروائي، وقريبًا ستتوفر أرصدة لمرة واحدة وباقات شهرية.",
   "settings.ai.usage.seePlans": "عرض الخطط",
   "settings.ai.usage.thisMonth": "هذا الشهر",
   "settings.ai.usage.summaryError": "تعذّر تحميل ملخص الاستخدام.",

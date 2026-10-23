@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} ബാക്കി · {date}-ന് റീസെറ്റ് ആകും",
   "settings.ai.usage.remainingNoReset": "{amount} ബാക്കി",
   "settings.ai.usage.allowance": "നിങ്ങളുടെ പ്ലാനിൽ ഓരോ കലണ്ടർ മാസവും {amount} മൂല്യമുള്ള AI ഉപയോഗം ഉൾപ്പെടുന്നു. ഉപയോഗിക്കാത്ത തുക അടുത്ത മാസത്തേക്ക് നീങ്ങില്ല.",
-  "settings.ai.usage.noAllowance": "നിങ്ങളുടെ പ്ലാനിൽ പ്രതിമാസ AI വിഹിതമില്ല. Storyteller പ്ലാനിൽ അതുണ്ട്; ഒറ്റത്തവണ ക്രെഡിറ്റുകളും പ്രതിമാസ പാക്കുകളും ഉടൻ വരുന്നു.",
   "settings.ai.usage.seePlans": "പ്ലാനുകൾ കാണുക",
   "settings.ai.usage.thisMonth": "ഈ മാസം",
   "settings.ai.usage.summaryError": "ഉപയോഗ സംഗ്രഹം ലോഡ് ചെയ്യാനായില്ല.",

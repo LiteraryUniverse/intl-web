@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} left · resets {date}",
   "settings.ai.usage.remainingNoReset": "{amount} left",
   "settings.ai.usage.allowance": "Your plan includes {amount} of AI usage each calendar month. Unused usage does not carry over.",
-  "settings.ai.usage.noAllowance": "Your plan has no monthly AI allowance. Storyteller includes one, and one-time credits and monthly packs are coming.",
   "settings.ai.usage.seePlans": "See plans",
   "settings.ai.usage.thisMonth": "This month",
   "settings.ai.usage.summaryError": "The usage summary could not be loaded.",

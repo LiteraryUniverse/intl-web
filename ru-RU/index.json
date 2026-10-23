@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Осталось {amount} · обновится {date}",
   "settings.ai.usage.remainingNoReset": "Осталось {amount}",
   "settings.ai.usage.allowance": "Ваш план включает ИИ на сумму {amount} на каждый календарный месяц. Неизрасходованный остаток не переносится.",
-  "settings.ai.usage.noAllowance": "Ваш план не включает ежемесячный лимит ИИ. Он есть в плане «Рассказчик», а скоро появятся разовые кредиты и ежемесячные пакеты.",
   "settings.ai.usage.seePlans": "Посмотреть планы",
   "settings.ai.usage.thisMonth": "Этот месяц",
   "settings.ai.usage.summaryError": "Не удалось загрузить сводку использования.",

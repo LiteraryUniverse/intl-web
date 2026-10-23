@@ -1138,6 +1138,9 @@
   "workshop.ai.chat.replyCost": "Cost: {amount}",
   "workshop.ai.chat.noBalance": "Your Literary Universe AI balance is used up. It resets on {date}. Add usage, or add your own provider key in your settings.",
   "workshop.ai.chat.noBalanceNoReset": "Your Literary Universe AI balance is used up. Add usage, or add your own provider key in your settings.",
+  "workshop.ai.chat.noUsage": "Literary Universe AI is paid from credits or a plan's monthly allowance, and you have neither yet. You can also use your own provider key.",
+  "workshop.ai.chat.buyCreditsLink": "Buy credits",
+  "workshop.ai.chat.ownKeyLink": "Add your own key",
   "workshop.ai.chat.balanceLow": "{amount} of Literary Universe AI usage left this period. It resets on {date}.",
   "workshop.ai.chat.balanceLowNoReset": "{amount} of Literary Universe AI usage left.",
   "workshop.ai.chat.usageLink": "Usage and options"

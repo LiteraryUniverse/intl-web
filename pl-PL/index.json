@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Pozostało: {amount} · odnowienie: {date}",
   "settings.ai.usage.remainingNoReset": "Pozostało: {amount}",
   "settings.ai.usage.allowance": "Twój plan obejmuje w każdym miesiącu kalendarzowym pulę AI o wartości {amount}. Niewykorzystana pula nie przechodzi na kolejny miesiąc.",
-  "settings.ai.usage.noAllowance": "Twój plan nie obejmuje miesięcznej puli AI. Ma ją plan Opowiadacz, a wkrótce pojawią się jednorazowe kredyty i pakiety miesięczne.",
   "settings.ai.usage.seePlans": "Zobacz plany",
   "settings.ai.usage.thisMonth": "Ten miesiąc",
   "settings.ai.usage.summaryError": "Nie udało się wczytać podsumowania wykorzystania.",

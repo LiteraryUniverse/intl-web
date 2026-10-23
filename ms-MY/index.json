@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Baki {amount} · ditetapkan semula {date}",
   "settings.ai.usage.remainingNoReset": "Baki {amount}",
   "settings.ai.usage.allowance": "Pelan anda merangkumi penggunaan AI bernilai {amount} setiap bulan kalendar. Baki yang tidak digunakan tidak dibawa ke bulan berikutnya.",
-  "settings.ai.usage.noAllowance": "Pelan anda tiada peruntukan AI bulanan. Pelan Pencerita menyertakannya, dan kredit sekali beli serta pek bulanan akan tiba tidak lama lagi.",
   "settings.ai.usage.seePlans": "Lihat pelan",
   "settings.ai.usage.thisMonth": "Bulan ini",
   "settings.ai.usage.summaryError": "Ringkasan penggunaan tidak dapat dimuatkan.",

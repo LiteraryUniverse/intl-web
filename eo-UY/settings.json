@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "Restas {amount} · renoviĝas je {date}",
   "settings.ai.usage.remainingNoReset": "Restas {amount}",
   "settings.ai.usage.allowance": "Via plano inkluzivas {amount} da AI-uzo en ĉiu kalendara monato. Neuzita kvanto ne transiras al la sekva monato.",
-  "settings.ai.usage.noAllowance": "Via plano ne havas monatan AI-kvoton. Rakontanto inkluzivas tian, kaj baldaŭ venos unufojaj kreditoj kaj monataj pakoj.",
   "settings.ai.usage.seePlans": "Vidi planojn",
   "settings.ai.usage.thisMonth": "Ĉi-monate",
   "settings.ai.usage.summaryError": "Ne eblis ŝargi la uzo-resumon.",

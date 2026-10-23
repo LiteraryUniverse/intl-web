@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Còn {amount} · đặt lại vào {date}",
   "settings.ai.usage.remainingNoReset": "Còn {amount}",
   "settings.ai.usage.allowance": "Gói của bạn bao gồm {amount} mức sử dụng AI cho mỗi tháng dương lịch. Phần chưa dùng không được chuyển sang tháng sau.",
-  "settings.ai.usage.noAllowance": "Gói của bạn không có hạn mức AI hằng tháng. Gói Người kể chuyện có hạn mức này, ngoài ra tín dụng mua một lần và gói nạp hằng tháng sắp ra mắt.",
   "settings.ai.usage.seePlans": "Xem các gói",
   "settings.ai.usage.thisMonth": "Tháng này",
   "settings.ai.usage.summaryError": "Không thể tải bản tóm tắt mức sử dụng.",

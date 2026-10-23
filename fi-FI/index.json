@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} jäljellä · nollautuu {date}",
   "settings.ai.usage.remainingNoReset": "{amount} jäljellä",
   "settings.ai.usage.allowance": "Tilaukseesi sisältyy joka kalenterikuukausi tekoälyn käyttöä {amount} arvosta. Käyttämätön osuus ei siirry seuraavalle kuukaudelle.",
-  "settings.ai.usage.noAllowance": "Tilaukseesi ei sisälly kuukausittaista tekoälykiintiötä. Kertomusten kertoja -tilaukseen sisältyy sellainen, ja kertaostettavat lisäsaldot sekä kuukausipaketit ovat tulossa.",
   "settings.ai.usage.seePlans": "Katso tilausvaihtoehdot",
   "settings.ai.usage.thisMonth": "Tämä kuukausi",
   "settings.ai.usage.summaryError": "Käyttöyhteenvetoa ei voitu ladata.",

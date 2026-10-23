@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Zostáva {amount} · obnovenie {date}",
   "settings.ai.usage.remainingNoReset": "Zostáva {amount}",
   "settings.ai.usage.allowance": "Váš plán zahŕňa každý kalendárny mesiac využitie AI v hodnote {amount}. Nevyčerpaná suma sa do ďalšieho mesiaca neprenáša.",
-  "settings.ai.usage.noAllowance": "Váš plán nezahŕňa mesačný limit na AI. Úroveň Rozprávač ho obsahuje; jednorazové kredity a mesačné balíky pripravujeme.",
   "settings.ai.usage.seePlans": "Zobraziť plány",
   "settings.ai.usage.thisMonth": "Tento mesiac",
   "settings.ai.usage.summaryError": "Prehľad využitia sa nepodarilo načítať.",

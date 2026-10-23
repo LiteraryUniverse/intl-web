@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Restam {amount} · renova em {date}",
   "settings.ai.usage.remainingNoReset": "Restam {amount}",
   "settings.ai.usage.allowance": "Seu plano inclui {amount} de uso de IA a cada mês do calendário. O que não for usado não acumula para o mês seguinte.",
-  "settings.ai.usage.noAllowance": "Seu plano não tem franquia mensal de IA. O plano Contador de histórias inclui uma, e créditos avulsos e pacotes mensais estão chegando.",
   "settings.ai.usage.seePlans": "Ver planos",
   "settings.ai.usage.thisMonth": "Este mês",
   "settings.ai.usage.summaryError": "Não foi possível carregar o resumo de uso.",

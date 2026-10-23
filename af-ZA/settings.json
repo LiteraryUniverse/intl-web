@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} oor · word op {date} teruggestel",
   "settings.ai.usage.remainingNoReset": "{amount} oor",
   "settings.ai.usage.allowance": "Jou plan sluit elke kalendermaand {amount} se KI-gebruik in. Wat jy nie gebruik nie, word nie na die volgende maand oorgedra nie.",
-  "settings.ai.usage.noAllowance": "Jou plan het geen maandelikse KI-toekenning nie. Storieverteller sluit een in, en eenmalige krediete en maandelikse pakkette is op pad.",
   "settings.ai.usage.seePlans": "Sien planne",
   "settings.ai.usage.thisMonth": "Hierdie maand",
   "settings.ai.usage.summaryError": "Die gebruiksopsomming kon nie gelaai word nie.",

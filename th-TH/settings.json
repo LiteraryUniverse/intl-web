@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "เหลือ {amount} · รีเซ็ต {date}",
   "settings.ai.usage.remainingNoReset": "เหลือ {amount}",
   "settings.ai.usage.allowance": "แผนของคุณรวมการใช้งาน AI มูลค่า {amount} ในแต่ละเดือนปฏิทิน ส่วนที่ไม่ได้ใช้จะไม่ทบไปเดือนถัดไป",
-  "settings.ai.usage.noAllowance": "แผนของคุณไม่มีโควตา AI รายเดือน แผนนักเล่าเรื่องมีโควตานี้ และเครดิตแบบซื้อครั้งเดียวกับแพ็กรายเดือนจะเปิดให้บริการเร็วๆ นี้",
   "settings.ai.usage.seePlans": "ดูแผน",
   "settings.ai.usage.thisMonth": "เดือนนี้",
   "settings.ai.usage.summaryError": "โหลดสรุปการใช้งานไม่ได้",

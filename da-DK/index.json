@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} tilbage · nulstilles {date}",
   "settings.ai.usage.remainingNoReset": "{amount} tilbage",
   "settings.ai.usage.allowance": "Din plan indeholder AI-forbrug for {amount} hver kalendermåned. Det, du ikke bruger, overføres ikke til næste måned.",
-  "settings.ai.usage.noAllowance": "Din plan har ingen månedlig AI-kvote. Fortæller har en, og engangskreditter og månedlige pakker er på vej.",
   "settings.ai.usage.seePlans": "Se planer",
   "settings.ai.usage.thisMonth": "Denne måned",
   "settings.ai.usage.summaryError": "Forbrugsoversigten kunne ikke indlæses.",

@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Hátralévő: {amount} · megújulás: {date}",
   "settings.ai.usage.remainingNoReset": "Hátralévő: {amount}",
   "settings.ai.usage.allowance": "Csomagja minden naptári hónapban {amount} értékű AI-használatot tartalmaz. A fel nem használt keret nem vihető át a következő hónapra.",
-  "settings.ai.usage.noAllowance": "Csomagja nem tartalmaz havi AI-keretet. A Történetmesélő csomagban van ilyen, az egyszeri kreditek és a havi feltöltőcsomagok pedig hamarosan érkeznek.",
   "settings.ai.usage.seePlans": "Csomagok megtekintése",
   "settings.ai.usage.thisMonth": "Ez a hónap",
   "settings.ai.usage.summaryError": "A felhasználási összesítőt nem sikerült betölteni.",

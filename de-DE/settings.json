@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} übrig · wird am {date} zurückgesetzt",
   "settings.ai.usage.remainingNoReset": "{amount} übrig",
   "settings.ai.usage.allowance": "Ihr Plan enthält in jedem Kalendermonat KI-Nutzung im Wert von {amount}. Nicht verbrauchtes Guthaben wird nicht in den nächsten Monat übernommen.",
-  "settings.ai.usage.noAllowance": "Ihr Plan enthält kein monatliches KI-Kontingent. Im Plan Geschichtenerzähler ist eines enthalten; einmalige Guthaben und Monatspakete folgen in Kürze.",
   "settings.ai.usage.seePlans": "Pläne ansehen",
   "settings.ai.usage.thisMonth": "Dieser Monat",
   "settings.ai.usage.summaryError": "Die Nutzungsübersicht konnte nicht geladen werden.",

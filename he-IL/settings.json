@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "נותרו {amount} · מתחדש ב־{date}",
   "settings.ai.usage.remainingNoReset": "נותרו {amount}",
   "settings.ai.usage.allowance": "התוכנית שלך כוללת {amount} לשימוש בבינה מלאכותית בכל חודש קלנדרי. יתרה שלא נוצלה אינה עוברת לחודש הבא.",
-  "settings.ai.usage.noAllowance": "התוכנית שלך אינה כוללת הקצאה חודשית לבינה מלאכותית. תוכנית מספרת כוללת הקצאה כזו, ובקרוב יגיעו גם קרדיטים חד־פעמיים וחבילות חודשיות.",
   "settings.ai.usage.seePlans": "לתוכניות",
   "settings.ai.usage.thisMonth": "החודש",
   "settings.ai.usage.summaryError": "לא ניתן היה לטעון את סיכום השימוש.",

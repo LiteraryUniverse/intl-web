@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "Zbývá {amount} · obnovení {date}",
   "settings.ai.usage.remainingNoReset": "Zbývá {amount}",
   "settings.ai.usage.allowance": "Váš tarif zahrnuje každý kalendářní měsíc využití AI v hodnotě {amount}. Nevyčerpaná částka se do dalšího měsíce nepřevádí.",
-  "settings.ai.usage.noAllowance": "Váš tarif nezahrnuje měsíční limit pro AI. Tarif Vypravěč ho obsahuje; jednorázové kredity a měsíční balíčky připravujeme.",
   "settings.ai.usage.seePlans": "Zobrazit tarify",
   "settings.ai.usage.thisMonth": "Tento měsíc",
   "settings.ai.usage.summaryError": "Přehled využití se nepodařilo načíst.",

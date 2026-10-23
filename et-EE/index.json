@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} alles · lähtestub {date}",
   "settings.ai.usage.remainingNoReset": "{amount} alles",
   "settings.ai.usage.allowance": "Sinu plaan sisaldab igal kalendrikuul AI-kasutust summas {amount}. Kasutamata jääk järgmisse kuusse üle ei kandu.",
-  "settings.ai.usage.noAllowance": "Sinu plaanis ei ole igakuist AI-limiiti. Jutuvestja plaanis see on ning peagi lisanduvad ühekordsed krediidid ja igakuised paketid.",
   "settings.ai.usage.seePlans": "Vaata plaane",
   "settings.ai.usage.thisMonth": "See kuu",
   "settings.ai.usage.summaryError": "Kasutuse kokkuvõtet ei õnnestunud laadida.",

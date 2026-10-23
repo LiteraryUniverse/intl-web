@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} మిగిలి ఉంది · {date}న రీసెట్ అవుతుంది",
   "settings.ai.usage.remainingNoReset": "{amount} మిగిలి ఉంది",
   "settings.ai.usage.allowance": "మీ ప్లాన్‌లో ప్రతి క్యాలెండర్ నెలకు {amount} విలువైన AI వినియోగం ఉంటుంది. వాడని మొత్తం తర్వాతి నెలకు బదిలీ కాదు.",
-  "settings.ai.usage.noAllowance": "మీ ప్లాన్‌లో నెలవారీ AI కేటాయింపు లేదు. Storyteller ప్లాన్‌లో అది ఉంటుంది; ఒక్కసారి కొనే క్రెడిట్‌లు, నెలవారీ ప్యాక్‌లు త్వరలో రానున్నాయి.",
   "settings.ai.usage.seePlans": "ప్లాన్‌లను చూడండి",
   "settings.ai.usage.thisMonth": "ఈ నెల",
   "settings.ai.usage.summaryError": "వినియోగ సారాంశాన్ని లోడ్ చేయలేకపోయాం.",

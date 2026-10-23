@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "Залишилося {amount} · оновиться {date}",
   "settings.ai.usage.remainingNoReset": "Залишилося {amount}",
   "settings.ai.usage.allowance": "Ваш план включає ШІ на суму {amount} на кожен календарний місяць. Невикористаний залишок не переноситься.",
-  "settings.ai.usage.noAllowance": "Ваш план не включає щомісячного ліміту ШІ. Він є в плані «Розповідач», а незабаром з’являться разові кредити й щомісячні пакети.",
   "settings.ai.usage.seePlans": "Переглянути плани",
   "settings.ai.usage.thisMonth": "Цей місяць",
   "settings.ai.usage.summaryError": "Не вдалося завантажити підсумок використання.",

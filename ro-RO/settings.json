@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "Rămân {amount} · se reînnoiește pe {date}",
   "settings.ai.usage.remainingNoReset": "Rămân {amount}",
   "settings.ai.usage.allowance": "Planul tău include {amount} pentru utilizarea AI în fiecare lună calendaristică. Suma neutilizată nu se reportează.",
-  "settings.ai.usage.noAllowance": "Planul tău nu are o alocare lunară pentru AI. Planul Povestitor include una, iar în curând vor apărea credite unice și pachete lunare.",
   "settings.ai.usage.seePlans": "Vezi planurile",
   "settings.ai.usage.thisMonth": "Luna aceasta",
   "settings.ai.usage.summaryError": "Rezumatul utilizării nu a putut fi încărcat.",

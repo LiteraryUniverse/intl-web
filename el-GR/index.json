@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Απομένουν {amount} · ανανέωση: {date}",
   "settings.ai.usage.remainingNoReset": "Απομένουν {amount}",
   "settings.ai.usage.allowance": "Το πρόγραμμά σας περιλαμβάνει χρήση AI αξίας {amount} κάθε ημερολογιακό μήνα. Το ποσό που δεν χρησιμοποιείται δεν μεταφέρεται στον επόμενο μήνα.",
-  "settings.ai.usage.noAllowance": "Το πρόγραμμά σας δεν περιλαμβάνει μηνιαίο όριο AI. Το πρόγραμμα Αφηγητής το περιλαμβάνει, ενώ σύντομα έρχονται εφάπαξ πιστώσεις και μηνιαία πακέτα.",
   "settings.ai.usage.seePlans": "Προβολή προγραμμάτων",
   "settings.ai.usage.thisMonth": "Τρέχων μήνας",
   "settings.ai.usage.summaryError": "Δεν ήταν δυνατή η φόρτωση της σύνοψης χρήσης.",

@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} शेष · {date} को रीसेट होगा",
   "settings.ai.usage.remainingNoReset": "{amount} शेष",
   "settings.ai.usage.allowance": "आपके प्लान में हर कैलेंडर माह {amount} का AI उपयोग शामिल है। बचा हुआ उपयोग अगले महीने में नहीं जुड़ता।",
-  "settings.ai.usage.noAllowance": "आपके प्लान में कोई मासिक AI भत्ता नहीं है। कथाकार प्लान में यह शामिल है, और एक बार के क्रेडिट और मासिक पैक जल्द आ रहे हैं।",
   "settings.ai.usage.seePlans": "योजनाएँ देखें",
   "settings.ai.usage.thisMonth": "इस महीने",
   "settings.ai.usage.summaryError": "उपयोग का सारांश लोड नहीं हो सका।",

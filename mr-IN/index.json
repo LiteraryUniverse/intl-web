@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} शिल्लक · {date} रोजी रीसेट होईल",
   "settings.ai.usage.remainingNoReset": "{amount} शिल्लक",
   "settings.ai.usage.allowance": "तुमच्या योजनेत प्रत्येक कॅलेंडर महिन्याला {amount} इतका AI वापर समाविष्ट आहे. न वापरलेली रक्कम पुढच्या महिन्यात जमा होत नाही.",
-  "settings.ai.usage.noAllowance": "तुमच्या योजनेत मासिक AI कोटा नाही. Storyteller योजनेत तो समाविष्ट आहे, आणि एकदाच खरेदी करायचे क्रेडिट्स व मासिक पॅक लवकरच येत आहेत.",
   "settings.ai.usage.seePlans": "योजना पाहा",
   "settings.ai.usage.thisMonth": "हा महिना",
   "settings.ai.usage.summaryError": "वापराचा सारांश लोड करता आला नाही.",

@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Queden {amount} · es renova el {date}",
   "settings.ai.usage.remainingNoReset": "Queden {amount}",
   "settings.ai.usage.allowance": "El teu pla inclou {amount} d'ús d'IA cada mes natural. El que no facis servir no s'acumula per al mes següent.",
-  "settings.ai.usage.noAllowance": "El teu pla no inclou cap assignació mensual d'IA. El pla Narrador sí que n'inclou una, i aviat arribaran crèdits puntuals i paquets mensuals.",
   "settings.ai.usage.seePlans": "Mostra els plans",
   "settings.ai.usage.thisMonth": "Aquest mes",
   "settings.ai.usage.summaryError": "No s'ha pogut carregar el resum d'ús.",

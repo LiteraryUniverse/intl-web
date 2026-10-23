@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "Restam {amount} · renova a {date}",
   "settings.ai.usage.remainingNoReset": "Restam {amount}",
   "settings.ai.usage.allowance": "O seu plano inclui {amount} de utilização de IA em cada mês civil. O saldo não utilizado não transita para o mês seguinte.",
-  "settings.ai.usage.noAllowance": "O seu plano não inclui plafond mensal de IA. O plano Contador de histórias inclui um e, em breve, haverá créditos avulsos e pacotes mensais.",
   "settings.ai.usage.seePlans": "Ver planos",
   "settings.ai.usage.thisMonth": "Este mês",
   "settings.ai.usage.summaryError": "Não foi possível carregar o resumo de utilização.",

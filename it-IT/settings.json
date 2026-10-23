@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} rimanenti · si rinnova il {date}",
   "settings.ai.usage.remainingNoReset": "{amount} rimanenti",
   "settings.ai.usage.allowance": "Il tuo piano include {amount} di utilizzo dell'AI ogni mese solare. La parte non usata non viene riportata al mese successivo.",
-  "settings.ai.usage.noAllowance": "Il tuo piano non include una quota mensile di AI. Narratore ne include una, e presto arriveranno crediti una tantum e pacchetti mensili.",
   "settings.ai.usage.seePlans": "Vedi i piani",
   "settings.ai.usage.thisMonth": "Questo mese",
   "settings.ai.usage.summaryError": "Impossibile caricare il riepilogo dell'utilizzo.",

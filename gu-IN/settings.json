@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} બાકી · {date} એ રીસેટ થશે",
   "settings.ai.usage.remainingNoReset": "{amount} બાકી",
   "settings.ai.usage.allowance": "તમારી યોજનામાં દર કૅલેન્ડર મહિને {amount} નો AI વપરાશ શામેલ છે. ન વપરાયેલી રકમ આગલા મહિનામાં ઉમેરાતી નથી.",
-  "settings.ai.usage.noAllowance": "તમારી યોજનામાં માસિક AI ક્વોટા નથી. Storyteller યોજનામાં તે શામેલ છે, અને એક-વખતના ક્રેડિટ તથા માસિક પૅક ટૂંક સમયમાં આવી રહ્યા છે.",
   "settings.ai.usage.seePlans": "યોજનાઓ જુઓ",
   "settings.ai.usage.thisMonth": "આ મહિને",
   "settings.ai.usage.summaryError": "વપરાશનો સારાંશ લોડ થઈ શક્યો નથી.",

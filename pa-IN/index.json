@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} ਬਾਕੀ · {date} ਨੂੰ ਰੀਸੈਟ ਹੋਵੇਗਾ",
   "settings.ai.usage.remainingNoReset": "{amount} ਬਾਕੀ",
   "settings.ai.usage.allowance": "ਤੁਹਾਡੀ ਯੋਜਨਾ ਵਿੱਚ ਹਰ ਕੈਲੰਡਰ ਮਹੀਨੇ {amount} ਦੀ AI ਵਰਤੋਂ ਸ਼ਾਮਲ ਹੈ। ਨਾ ਵਰਤੀ ਗਈ ਰਕਮ ਅਗਲੇ ਮਹੀਨੇ ਵਿੱਚ ਨਹੀਂ ਜੁੜਦੀ।",
-  "settings.ai.usage.noAllowance": "ਤੁਹਾਡੀ ਯੋਜਨਾ ਵਿੱਚ ਕੋਈ ਮਹੀਨਾਵਾਰ AI ਕੋਟਾ ਨਹੀਂ ਹੈ। Storyteller ਯੋਜਨਾ ਵਿੱਚ ਇਹ ਸ਼ਾਮਲ ਹੈ, ਅਤੇ ਇੱਕ-ਵਾਰ ਦੇ ਕ੍ਰੈਡਿਟ ਤੇ ਮਹੀਨਾਵਾਰ ਪੈਕ ਜਲਦੀ ਆ ਰਹੇ ਹਨ।",
   "settings.ai.usage.seePlans": "ਯੋਜਨਾਵਾਂ ਦੇਖੋ",
   "settings.ai.usage.thisMonth": "ਇਸ ਮਹੀਨੇ",
   "settings.ai.usage.summaryError": "ਵਰਤੋਂ ਦਾ ਸਾਰ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕਿਆ।",

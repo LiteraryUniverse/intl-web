@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "残り {amount} · {date} にリセット",
   "settings.ai.usage.remainingNoReset": "残り {amount}",
   "settings.ai.usage.allowance": "ご利用のプランには、暦月ごとに {amount} 分の AI 利用枠が含まれます。使わなかった分は翌月に繰り越されません。",
-  "settings.ai.usage.noAllowance": "ご利用のプランには毎月の AI 利用枠がありません。「語り部向け」プランには含まれています。単発のクレジットや月額パックも近日提供予定です。",
   "settings.ai.usage.seePlans": "プランを見る",
   "settings.ai.usage.thisMonth": "今月",
   "settings.ai.usage.summaryError": "利用状況の概要を読み込めませんでした。",

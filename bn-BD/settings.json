@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} বাকি · {date} তারিখে রিসেট হবে",
   "settings.ai.usage.remainingNoReset": "{amount} বাকি",
   "settings.ai.usage.allowance": "আপনার প্ল্যানে প্রতি ক্যালেন্ডার মাসে {amount} মূল্যের AI ব্যবহার অন্তর্ভুক্ত। অব্যবহৃত অংশ পরের মাসে যোগ হয় না।",
-  "settings.ai.usage.noAllowance": "আপনার প্ল্যানে কোনো মাসিক AI বরাদ্দ নেই। গল্পকার প্ল্যানে তা আছে, আর এককালীন ক্রেডিট ও মাসিক প্যাক শিগগিরই আসছে।",
   "settings.ai.usage.seePlans": "প্ল্যান দেখুন",
   "settings.ai.usage.thisMonth": "এই মাস",
   "settings.ai.usage.summaryError": "ব্যবহারের সারাংশ লোড করা যায়নি।",

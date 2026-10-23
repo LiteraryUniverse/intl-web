@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} kaldı · {date} tarihinde sıfırlanır",
   "settings.ai.usage.remainingNoReset": "{amount} kaldı",
   "settings.ai.usage.allowance": "Planınız her takvim ayı {amount} tutarında yapay zeka kullanımı içerir. Kullanılmayan miktar sonraki aya devretmez.",
-  "settings.ai.usage.noAllowance": "Planınızda aylık yapay zeka kullanım hakkı yok. Hikayeci planında bu hak var; tek seferlik krediler ve aylık paketler de yakında geliyor.",
   "settings.ai.usage.seePlans": "Planları gör",
   "settings.ai.usage.thisMonth": "Bu ay",
   "settings.ai.usage.summaryError": "Kullanım özeti yüklenemedi.",

@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} natitira · magre-reset sa {date}",
   "settings.ai.usage.remainingNoReset": "{amount} natitira",
   "settings.ai.usage.allowance": "May kasamang {amount} na paggamit ng AI ang plan mo bawat buwan ng kalendaryo. Hindi naililipat sa susunod na buwan ang hindi nagamit.",
-  "settings.ai.usage.noAllowance": "Walang buwanang AI allowance ang plan mo. Kasama ito sa plan na Kuwentista, at paparating na ang mga one-time credit at buwanang pack.",
   "settings.ai.usage.seePlans": "Tingnan ang mga plan",
   "settings.ai.usage.thisMonth": "Ngayong buwan",
   "settings.ai.usage.summaryError": "Hindi ma-load ang buod ng paggamit.",

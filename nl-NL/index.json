@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} over · reset op {date}",
   "settings.ai.usage.remainingNoReset": "{amount} over",
   "settings.ai.usage.allowance": "Je abonnement bevat elke kalendermaand {amount} aan AI-gebruik. Ongebruikt tegoed schuift niet door naar de volgende maand.",
-  "settings.ai.usage.noAllowance": "Je abonnement bevat geen maandelijks AI-tegoed. Verhalenverteller wel, en eenmalig tegoed en maandpakketten komen eraan.",
   "settings.ai.usage.seePlans": "Abonnementen bekijken",
   "settings.ai.usage.thisMonth": "Deze maand",
   "settings.ai.usage.summaryError": "Het gebruiksoverzicht kon niet worden geladen.",

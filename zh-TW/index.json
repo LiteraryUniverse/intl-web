@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "剩餘 {amount} · {date} 重設",
   "settings.ai.usage.remainingNoReset": "剩餘 {amount}",
   "settings.ai.usage.allowance": "你的方案每個日曆月包含 {amount} 的 AI 用量。未用完的額度不會累計到下個月。",
-  "settings.ai.usage.noAllowance": "你的方案沒有每月 AI 額度。「故事創作者」方案包含此額度，一次性點數與每月加購包也即將推出。",
   "settings.ai.usage.seePlans": "查看方案",
   "settings.ai.usage.thisMonth": "本月",
   "settings.ai.usage.summaryError": "無法載入用量摘要。",

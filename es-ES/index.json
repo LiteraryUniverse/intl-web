@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Quedan {amount} · se renueva el {date}",
   "settings.ai.usage.remainingNoReset": "Quedan {amount}",
   "settings.ai.usage.allowance": "Su plan incluye {amount} de uso de IA cada mes natural. Lo que no se usa no se acumula para el mes siguiente.",
-  "settings.ai.usage.noAllowance": "Su plan no incluye una asignación mensual de IA. Cuentacuentos sí la incluye, y pronto llegarán créditos puntuales y paquetes mensuales.",
   "settings.ai.usage.seePlans": "Ver planes",
   "settings.ai.usage.thisMonth": "Este mes",
   "settings.ai.usage.summaryError": "No se ha podido cargar el resumen de uso.",

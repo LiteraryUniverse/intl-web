@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} 남음 · {date} 초기화",
   "settings.ai.usage.remainingNoReset": "{amount} 남음",
   "settings.ai.usage.allowance": "현재 요금제에는 매월(달력 기준) {amount}의 AI 사용량이 포함됩니다. 쓰지 않은 사용량은 이월되지 않습니다.",
-  "settings.ai.usage.noAllowance": "현재 요금제에는 월간 AI 사용 한도가 없습니다. ‘작가’ 요금제에는 포함되어 있으며, 일회성 크레딧과 월간 팩도 곧 제공될 예정입니다.",
   "settings.ai.usage.seePlans": "요금제 보기",
   "settings.ai.usage.thisMonth": "이번 달",
   "settings.ai.usage.summaryError": "사용량 요약을 불러올 수 없습니다.",

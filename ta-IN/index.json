@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "{amount} மீதம் · {date} அன்று மீட்டமைக்கப்படும்",
   "settings.ai.usage.remainingNoReset": "{amount} மீதம்",
   "settings.ai.usage.allowance": "உங்கள் திட்டத்தில் ஒவ்வொரு நாள்காட்டி மாதமும் {amount} மதிப்பிலான AI பயன்பாடு அடங்கும். பயன்படுத்தாத தொகை அடுத்த மாதத்துக்குச் சேராது.",
-  "settings.ai.usage.noAllowance": "உங்கள் திட்டத்தில் மாதாந்திர AI ஒதுக்கீடு இல்லை. Storyteller திட்டத்தில் அது அடங்கும்; ஒருமுறைக் கிரெடிட்களும் மாதாந்திரத் தொகுப்புகளும் விரைவில் வரவுள்ளன.",
   "settings.ai.usage.seePlans": "திட்டங்களைப் பாருங்கள்",
   "settings.ai.usage.thisMonth": "இந்த மாதம்",
   "settings.ai.usage.summaryError": "பயன்பாட்டுச் சுருக்கத்தை ஏற்ற முடியவில்லை.",

@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "დარჩა {amount} · განახლდება {date}",
   "settings.ai.usage.remainingNoReset": "დარჩა {amount}",
   "settings.ai.usage.allowance": "თქვენი გეგმა ყოველ კალენდარულ თვეში {amount}-ის AI გამოყენებას მოიცავს. გამოუყენებელი ნაშთი შემდეგ თვეზე არ გადადის.",
-  "settings.ai.usage.noAllowance": "თქვენი გეგმა ყოველთვიურ AI ლიმიტს არ მოიცავს. ის მთხრობელის გეგმაშია, ხოლო ერთჯერადი კრედიტები და ყოველთვიური პაკეტები მალე დაემატება.",
   "settings.ai.usage.seePlans": "გეგმების ნახვა",
   "settings.ai.usage.thisMonth": "ეს თვე",
   "settings.ai.usage.summaryError": "გამოყენების შეჯამება ვერ ჩაიტვირთა.",

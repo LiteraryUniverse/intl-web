@@ -5703,7 +5703,6 @@
   "settings.ai.usage.remaining": "Liko: {amount} · atnaujinama {date}",
   "settings.ai.usage.remainingNoReset": "Liko: {amount}",
   "settings.ai.usage.allowance": "Jūsų planas kiekvieną kalendorinį mėnesį apima {amount} vertės AI naudojimą. Nepanaudotas likutis į kitą mėnesį neperkeliamas.",
-  "settings.ai.usage.noAllowance": "Jūsų plane nėra mėnesinio AI limito. Jį turi planas „Pasakotojas“, o netrukus atsiras vienkartiniai kreditai ir mėnesiniai paketai.",
   "settings.ai.usage.seePlans": "Peržiūrėti planus",
   "settings.ai.usage.thisMonth": "Šis mėnuo",
   "settings.ai.usage.summaryError": "Nepavyko įkelti naudojimo suvestinės.",

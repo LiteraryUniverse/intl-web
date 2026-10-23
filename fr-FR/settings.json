@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} restants · renouvellement le {date}",
   "settings.ai.usage.remainingNoReset": "{amount} restants",
   "settings.ai.usage.allowance": "Votre plan inclut {amount} d'utilisation de l'IA par mois civil. Le montant non utilisé n'est pas reporté.",
-  "settings.ai.usage.noAllowance": "Votre plan n'inclut pas de quota mensuel d'IA. Le plan Conteur d'histoires en comprend un, et des crédits ponctuels ainsi que des packs mensuels arrivent bientôt.",
   "settings.ai.usage.seePlans": "Voir les plans",
   "settings.ai.usage.thisMonth": "Ce mois-ci",
   "settings.ai.usage.summaryError": "Impossible de charger le récapitulatif d'utilisation.",

@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "Sisa {amount} · direset {date}",
   "settings.ai.usage.remainingNoReset": "Sisa {amount}",
   "settings.ai.usage.allowance": "Paket Anda mencakup penggunaan AI senilai {amount} setiap bulan kalender. Sisa yang tidak terpakai tidak dibawa ke bulan berikutnya.",
-  "settings.ai.usage.noAllowance": "Paket Anda tidak memiliki jatah AI bulanan. Paket Pencerita sudah termasuk jatah ini, dan kredit sekali beli serta paket isi ulang bulanan akan segera hadir.",
   "settings.ai.usage.seePlans": "Lihat paket",
   "settings.ai.usage.thisMonth": "Bulan ini",
   "settings.ai.usage.summaryError": "Ringkasan penggunaan tidak dapat dimuat.",

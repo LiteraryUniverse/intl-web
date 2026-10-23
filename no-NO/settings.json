@@ -252,7 +252,6 @@
   "settings.ai.usage.remaining": "{amount} igjen · tilbakestilles {date}",
   "settings.ai.usage.remainingNoReset": "{amount} igjen",
   "settings.ai.usage.allowance": "Planen din inkluderer KI-bruk for {amount} hver kalendermåned. Det du ikke bruker, overføres ikke til neste måned.",
-  "settings.ai.usage.noAllowance": "Planen din har ingen månedlig KI-kvote. Forteller har en, og engangskreditter og månedlige pakker kommer snart.",
   "settings.ai.usage.seePlans": "Se planer",
   "settings.ai.usage.thisMonth": "Denne måneden",
   "settings.ai.usage.summaryError": "Bruksoversikten kunne ikke lastes inn.",
