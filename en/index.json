@@ -7431,6 +7431,7 @@
   "workshop.ai.chat.ownKeysGroup": "Your keys",
   "workshop.ai.chat.ownKeysGroupHint": "Billed by the provider",
   "workshop.ai.chat.ownKeyChip": "Own key",
+  "workshop.ai.chat.rateLimited": "Another reply may still be running, or you have sent too many requests. Wait a minute and try again.",
   "workshop.ai.chat.stoppedBalance": "The reply stopped because your Literary Universe AI usage ran out.",
   "workshop.ai.chat.stoppedBilling": "The reply stopped because its usage could not be recorded. Please try again later.",
   "workshop.ai.chat.ownKeyChipTitle": "Runs on your own {provider} key. {provider} bills you for it, not Literary Universe.",
