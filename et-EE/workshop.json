@@ -235,7 +235,7 @@
   "workshop.story.alternateFormats.ongoingAccess.title": "Pidev juurdepääs",
   "workshop.story.alternateFormats.ongoingAccess.allAvailable": "Kõik praegu kättesaadavad peatükid",
   "workshop.story.alternateFormats.ongoingAccess.perChapter": "Peatüki kohta (vastavalt peatükkide ilmumisele)",
-  "workshop.hideOrgs": "Peida sisu organisatsioonidelt",
+  "workshop.hideOrgs": "Peida organisatsioonide sisu",
   "workshop.showOrgs": "Näita organisatsioonide sisu",
   "workshop.translation.premium": "Tõlgete lisamiseks peate omama vähemalt Explorer tellimust.",
   "workshop.story.finished": "Lugu on lõpetatud",

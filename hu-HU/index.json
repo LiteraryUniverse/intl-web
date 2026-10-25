@@ -6568,7 +6568,7 @@
   "workshop.story.alternateFormats.ongoingAccess.title": "Folyamatos hozzáférés",
   "workshop.story.alternateFormats.ongoingAccess.allAvailable": "Az összes jelenleg elérhető fejezet",
   "workshop.story.alternateFormats.ongoingAccess.perChapter": "Fejezetenként (a fejezetek megjelenésekor)",
-  "workshop.hideOrgs": "Tartalom elrejtése szervezetektől",
+  "workshop.hideOrgs": "Szervezetek tartalmának elrejtése",
   "workshop.showOrgs": "Szervezetek tartalmának megjelenítése",
   "workshop.translation.premium": "A fordítások hozzáadásához legalább Explorer előfizetésre van szükséged.",
   "workshop.story.finished": "A történet befejezve",

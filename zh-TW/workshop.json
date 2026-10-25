@@ -235,7 +235,7 @@
   "workshop.story.alternateFormats.ongoingAccess.title": "持續存取",
   "workshop.story.alternateFormats.ongoingAccess.allAvailable": "目前所有可用的章節",
   "workshop.story.alternateFormats.ongoingAccess.perChapter": "每章（隨章發佈）",
-  "workshop.hideOrgs": "隱藏內容不對組織公開",
+  "workshop.hideOrgs": "隱藏組織的內容",
   "workshop.showOrgs": "顯示組織的內容",
   "workshop.translation.premium": "為了新增翻譯，您需要至少擁有探索者訂閱。",
   "workshop.story.finished": "故事已完成",
