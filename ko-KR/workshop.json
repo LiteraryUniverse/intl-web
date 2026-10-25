@@ -577,7 +577,7 @@
   "workshop.ai.chat.selectedText": "선택한 텍스트",
   "workshop.ai.chat.webSearch": "웹 검색",
   "workshop.ai.chat.webSearch.hint": "어시스턴트가 웹에서 이 메시지를 검색하도록 합니다.",
-  "workshop.ai.chat.privacyNotice": "각 요청은 현재 장, 장 제목, 이야기 정보(제목, 설명, 언어, 장르, 등급, 태그), 작가 노트, 읽을 수 있는 유니버스 정보(제목과 설명), 백과사전 개요를 API 키의 제공자에게 보냅니다. 일관성 검토, 구성 검토, 세계관 검토는 읽을 수 있는 모든 장과 백과사전 항목도 보냅니다. OpenAI, xAI, Sakana의 저장된 응답 객체와 Gemini 이미지 상호작용은 끄고, GPT-5.6 이상에서는 OpenAI 프롬프트 캐시 쓰기를 건너뜁니다. 해당 제공자 자체의 로그, 캐시, 계정 설정은 통제할 수 없습니다. 내 키를 제공하는 업체의 정책을 확인하세요. <faq>도우미 데이터 FAQ</faq>를 참고하세요.",
+  "workshop.ai.chat.privacyNotice": "각 요청은 현재 장, 장 제목, 이야기 정보(제목, 설명, 언어, 장르, 등급, 태그), 작가 노트, 읽을 수 있는 유니버스 정보(제목과 설명), 백과사전 개요를 Literary Universe의 계정 또는 내 API 키를 통해 선택한 AI 제공자에게 보냅니다. 일관성 검토, 구성 검토, 세계관 검토는 읽을 수 있는 모든 장과 백과사전 항목도 보냅니다. OpenAI, xAI, Sakana의 저장된 응답 객체와 Gemini 이미지 상호작용은 끄고, GPT-5.6 이상에서는 OpenAI 프롬프트 캐시 쓰기를 건너뜁니다. 해당 제공자 자체의 로그, 캐시, 계정 설정은 통제할 수 없습니다. 해당 제공자의 데이터 정책을 읽어 보세요. 내 키를 사용하는 경우 내 계정 설정도 적용됩니다. <faq>도우미 데이터 FAQ</faq>를 참고하세요.",
   "workshop.ai.chat.fableRetentionNotice": "Anthropic은 Claude Fable 5.1 요청을 최소 30일 보관합니다. 더 짧은 기본 로그 기간을 원하면 다른 Claude 모델을 고르세요.",
   "workshop.ai.chat.geminiSearchNotice": "Gemini에서는 웹 검색을 제공하지 않습니다. Google Search 그라운딩은 이 이야기 맥락을 30일 저장하며 끌 수 없습니다.",
   "workshop.ai.chat.createError": "새 대화를 시작하지 못했습니다. 다시 시도해 주세요.",
