@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Ansiklopedi girişleri",
   "plans.limits.maxCollaborators": "Proje başına işbirlikçiler",
   "plans.limits.pmChats": "Özel mesaj için maksimum alıcı sayısı",
+  "plans.limits.aiMonthlyUsd": "Aylık yapay zeka kullanım hakkı (USD)",
   "plans.feature.creative": "Harika evrenler ve hikayeler oluşturun",
   "plans.feature.encCustomFields": "Bir girişte özelleştirilebilir ansiklopedi alanları",
   "plans.feature.encAdvCategories": "Daha fazla ansiklopedi kategorisi",

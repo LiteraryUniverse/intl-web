@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "百科全書條目",
   "plans.limits.maxCollaborators": "每個項目的合作夥伴",
   "plans.limits.pmChats": "私人訊息的最大收件人數",
+  "plans.limits.aiMonthlyUsd": "每月 AI 用量額度（美元）",
   "plans.feature.creative": "創建令人驚嘆的宇宙和故事",
   "plans.feature.encCustomFields": "條目上的可自定義百科全書字段",
   "plans.feature.encAdvCategories": "更多百科全書分類",

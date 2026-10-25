@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Oppføringer i leksikonet",
   "plans.limits.maxCollaborators": "Samarbeidspartnere per prosjekt",
   "plans.limits.pmChats": "Maksimalt antall mottakere for private meldinger",
+  "plans.limits.aiMonthlyUsd": "Månedlig KI-kvote (USD)",
   "plans.feature.creative": "Skap fantastiske universer og historier",
   "plans.feature.encCustomFields": "Tilpassbare felt i leksikonoppføring",
   "plans.feature.encAdvCategories": "Flere kategorier i leksikonet",

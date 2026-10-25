@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Enciklopedijos įrašai",
   "plans.limits.maxCollaborators": "Bendradarbiai viename projekte",
   "plans.limits.pmChats": "Maksimalus gavėjų skaičius privačiam pranešimui",
+  "plans.limits.aiMonthlyUsd": "Mėnesinis AI naudojimo limitas (USD)",
   "plans.feature.creative": "Kurkite nuostabius universus ir istorijas",
   "plans.feature.encCustomFields": "Individualiai pritaikomos enciklopedijos laukai įraše",
   "plans.feature.encAdvCategories": "Daugiau enciklopedijos kategorijų",

@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Înregistrări de enciclopedie",
   "plans.limits.maxCollaborators": "Colaboratori per proiect",
   "plans.limits.pmChats": "Număr maxim de destinatari pentru mesaj privat",
+  "plans.limits.aiMonthlyUsd": "Alocare lunară pentru utilizarea AI (USD)",
   "plans.feature.creative": "Creează universuri și povești uimitoare",
   "plans.feature.encCustomFields": "Câmpuri de enciclopedie personalizabile pe o înregistrare",
   "plans.feature.encAdvCategories": "Mai multe categorii de enciclopedie",

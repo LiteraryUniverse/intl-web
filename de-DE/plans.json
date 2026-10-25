@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Enzyklopädie-Einträge",
   "plans.limits.maxCollaborators": "Mitarbeiter pro Projekt",
   "plans.limits.pmChats": "Maximale Anzahl von Empfängern für private Nachricht",
+  "plans.limits.aiMonthlyUsd": "Monatliches KI-Nutzungskontingent (USD)",
   "plans.feature.creative": "Erschaffe erstaunliche Universen und Geschichten",
   "plans.feature.encCustomFields": "Anpassbare Enzyklopädie-Felder eines Eintrags",
   "plans.feature.encAdvCategories": "Weitere Enzyklopädie-Kategorien",

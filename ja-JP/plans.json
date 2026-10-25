@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "百科事典のエントリー",
   "plans.limits.maxCollaborators": "プロジェクトごとの協力者",
   "plans.limits.pmChats": "プライベートメッセージの最高受信者数",
+  "plans.limits.aiMonthlyUsd": "月間 AI 利用枠（USD）",
   "plans.feature.creative": "素晴らしい宇宙と物語の作成",
   "plans.feature.encCustomFields": "エントリ上のカスタマイズ可能な百科事典のフィールド",
   "plans.feature.encAdvCategories": "その他の百科事典のカテゴリ",

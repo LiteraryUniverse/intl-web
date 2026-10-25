@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Encyklopædi-indgange",
   "plans.limits.maxCollaborators": "Samarbejdspartnere pr. projekt",
   "plans.limits.pmChats": "Maksimalt antal modtagere til private beskeder",
+  "plans.limits.aiMonthlyUsd": "Månedlig AI-forbrugskvote (USD)",
   "plans.feature.creative": "Skab fantastiske universer og historier",
   "plans.feature.encCustomFields": "Tilpasselige encyklopædi-felter på en indgang",
   "plans.feature.encAdvCategories": "Flere encyklopædi-kategorier",

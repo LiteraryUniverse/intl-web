@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Καταχωρήσεις εγκυκλοπαίδειας",
   "plans.limits.maxCollaborators": "Συνεργάτες ανά έργο",
   "plans.limits.pmChats": "Μέγιστος αριθμός παραληπτών για ιδιωτικό μήνυμα",
+  "plans.limits.aiMonthlyUsd": "Μηνιαίο όριο χρήσης AI (USD)",
   "plans.feature.creative": "Δημιουργήστε εκπληκτικούς κόσμους και ιστορίες",
   "plans.feature.encCustomFields": "Προσαρμόσιμα πεδία εγκυκλοπαίδειας σε μια καταχώρηση",
   "plans.feature.encAdvCategories": "Περισσότερες κατηγορίες εγκυκλοπαίδειας",

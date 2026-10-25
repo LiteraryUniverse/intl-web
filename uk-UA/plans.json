@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Записи в енциклопедії",
   "plans.limits.maxCollaborators": "Співавтори на проект",
   "plans.limits.pmChats": "Максимальна кількість одержувачів для приватного повідомлення",
+  "plans.limits.aiMonthlyUsd": "Щомісячний ліміт ШІ (USD)",
   "plans.feature.creative": "Створюйте неймовірні всесвіти та історії",
   "plans.feature.encCustomFields": "Налаштовувані поля енциклопедії в записі",
   "plans.feature.encAdvCategories": "Більше категорій в енциклопедії",

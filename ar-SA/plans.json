@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "مدخلات الموسوعة",
   "plans.limits.maxCollaborators": "المشاركون في كل مشروع",
   "plans.limits.pmChats": "الحد الأقصى لعدد المستلمين للرسالة الخاصة",
+  "plans.limits.aiMonthlyUsd": "مخصص استخدام الذكاء الاصطناعي الشهري (بالدولار الأمريكي)",
   "plans.feature.creative": "قم بإنشاء عوالم وقصص مذهلة",
   "plans.feature.encCustomFields": "حقول الموسوعة القابلة للتخصيص في إدخالة",
   "plans.feature.encAdvCategories": "مزيد من فئات الموسوعة",

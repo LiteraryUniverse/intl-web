@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Záznamů v encyklopedii",
   "plans.limits.maxCollaborators": "Spolupracovníci na projekt",
   "plans.limits.pmChats": "Maximální počet příjemců pro soukromou zprávu",
+  "plans.limits.aiMonthlyUsd": "Měsíční limit pro využití AI (USD)",
   "plans.feature.creative": "Vytvořte úžasné vesmíry a příběhy",
   "plans.feature.encCustomFields": "Pokročilá editace encyklopedických vstupů",
   "plans.feature.encAdvCategories": "Více kategorií v encyklopedii",

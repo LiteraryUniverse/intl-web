@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "รายการสารบัญ",
   "plans.limits.maxCollaborators": "ผู้ร่วมงานต่อโครงการ",
   "plans.limits.pmChats": "จำนวนสูงสุดของผู้รับข้อความส่วนตัว",
+  "plans.limits.aiMonthlyUsd": "โควตาการใช้งาน AI รายเดือน (USD)",
   "plans.feature.creative": "สร้างจักรวาลและเรื่องราวที่น่าทึ่ง",
   "plans.feature.encCustomFields": "ฟิลด์สารานุกรมที่กำหนดเองบนรายการ",
   "plans.feature.encAdvCategories": "หมวดหมู่สารานุกรมเพิ่มเติม",

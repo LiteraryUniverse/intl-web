@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Entrades d'enciclopèdia",
   "plans.limits.maxCollaborators": "Col·laboradors per projecte",
   "plans.limits.pmChats": "Nombre màxim de destinataris per missatge privat",
+  "plans.limits.aiMonthlyUsd": "Assignació mensual d'ús d'IA (USD)",
   "plans.feature.creative": "Crea universos i històries increïbles",
   "plans.feature.encCustomFields": "Camps personalitzables a l'enciclopèdia en una entrada",
   "plans.feature.encAdvCategories": "Més categories d'enciclopèdia",

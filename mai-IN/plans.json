@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "विज्ञान कोष एंट्री",
   "plans.limits.maxCollaborators": "परियोजना के प्रति सहकर्मी",
   "plans.limits.pmChats": "निजी संदेश के लिए अधिकतम प्राप्तकर्ताओं की संख्या",
+  "plans.limits.aiMonthlyUsd": "Monthly AI usage allowance (USD)",
   "plans.feature.creative": "अद्भुत ब्रह्मांड और कहानियाँ बनाएँ",
   "plans.feature.encCustomFields": "एक प्रविष्टि पर व्यक्तिगतीकरण खंड",
   "plans.feature.encAdvCategories": "अधिक विज्ञान कोष श्रेणियाँ",

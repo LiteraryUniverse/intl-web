@@ -25,6 +25,7 @@
   "plans.limits.encEntries": "Mga entry sa ensiklopedya",
   "plans.limits.maxCollaborators": "Mga kasamahan sa bawat proyekto",
   "plans.limits.pmChats": "Pinakamataas na bilang ng tatanggap para sa pribadong mensahe",
+  "plans.limits.aiMonthlyUsd": "Buwanang allowance sa paggamit ng AI (USD)",
   "plans.feature.creative": "Lumikha ng kamangha-manghang mga universe at mga kuwento",
   "plans.feature.encCustomFields": "Mga pasadyang patlang sa isang entry ng ensiklopedya",
   "plans.feature.encAdvCategories": "Mas maraming kategorya ng ensiklopedya",
