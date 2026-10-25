@@ -96,6 +96,7 @@
   "writer.play.transition": "Přechod",
   "writer.play.synopsis": "Synopse (čtenářům se nezobrazuje)",
   "writer.play.pageBreak": "Zlom stránky",
+  "writer.play.splitDualDialogue": "Rozdělit souběžný dialog",
   "writer.play.dualDialogue": "Souběžný dialog",
   "writer.play.note": "Poznámka (čtenářům se nezobrazuje)",
   "writer.play.boneyard": "Zakomentovat (čtenářům se nezobrazuje)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Zobrazit aktivitu jako tabulku",
   "writer.publish.insights.tableCaption": "Obvyklá aktivita podle dne v týdnu a hodiny",
   "writer.publish.insights.window": "Časový úsek",
-  "writer.publish.insights.updated": "Vypočítáno {date, date, short} v {date, time, short}."
+  "writer.publish.insights.updated": "Vypočítáno {date, date, short} v {date, time, short}.",
+  "writer.play.insertTemplate": "Vložit šablonu scénáře",
+  "writer.play.insert": "Vložit scénář",
+  "writer.play.template.dialogue": "Postava a dialog",
+  "writer.play.template.scene": "Scéna / scénické poznámky",
+  "writer.play.placeholder.character": "Vyberte postavu nebo napište jméno",
+  "writer.play.placeholder.dialogue": "Napište dialog…",
+  "writer.play.placeholder.scene": "INT. / EXT. MÍSTO – DEN / NOC",
+  "writer.play.placeholder.action": "Popište děj nebo scénické poznámky…",
+  "writer.play.placeholder.parenthetical": "(Jak je replika pronesena)",
+  "writer.play.placeholder.transition": "STŘIH NA:",
+  "writer.play.characterSuggestions.help": "Vyberte postavu nebo napište nové jméno. Enter zahájí dialog.",
+  "writer.play.notePlaceholder": "Napište soukromou poznámku…"
 }

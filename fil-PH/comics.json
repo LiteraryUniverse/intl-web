@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "Mamarkahan bilang tapos ang {format} sa {date}, kapag nailabas na ang huling naka-iskedyul na kabanata nito.",
   "comics.reader.loading": "Komiks",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# pahina} other {# na pahina}}"
+  "comics.pagesCount": "{count, plural, one {# pahina} other {# na pahina}}",
+  "comics.import.preparing": "Binabasa ang export ng komiks…",
+  "comics.import.invalid": "Hindi kumpletong Tapas comic export ang ZIP na ito. Piliin ang lu-import na ZIP mula sa iyong export.",
+  "comics.import.tooLarge": "Masyadong malaki ang kabanatang ito ng komiks para i-import. Hatiin ito sa mas maliliit na kabanata at subukang muli.",
+  "comics.import.failed": "Hindi ma-import ang komiks. Inalis na ang mga kabanata at upload mula sa pagtatangkang ito. Subukang muli.",
+  "comics.import.cleanupFailed": "Huminto ang pag-import at may ilang bagong kabanata o upload na hindi naalis. Suriin ang iyong komiks bago subukang muli."
 }

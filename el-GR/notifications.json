@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Σύνοψη συγγραφέα",
   "notifications.workflow.readerSummary": "Σύνοψη ανάγνωσης",
   "notifications.workflow.taskReminders": "Υπενθυμίσεις εργασιών",
-  "notifications.workflow.organization-billing": "Χρέωση οργανισμού"
+  "notifications.workflow.organization-billing": "Χρέωση οργανισμού",
+  "notifications.workflow.story-backup": "Αντίγραφα ασφαλείας κειμένων"
 }

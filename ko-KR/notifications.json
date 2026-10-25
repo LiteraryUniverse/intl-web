@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "작가 요약",
   "notifications.workflow.readerSummary": "독서 요약",
   "notifications.workflow.taskReminders": "할 일 알림",
-  "notifications.workflow.organization-billing": "조직 결제"
+  "notifications.workflow.organization-billing": "조직 결제",
+  "notifications.workflow.story-backup": "집필 백업"
 }

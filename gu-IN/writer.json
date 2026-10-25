@@ -96,6 +96,7 @@
   "writer.play.transition": "સંક્રમણ",
   "writer.play.synopsis": "સારાંશ (વાચકોને બતાવવામાં આવતો નથી)",
   "writer.play.pageBreak": "પૃષ્ઠ વિરામ",
+  "writer.play.splitDualDialogue": "બેવડો સંવાદ અલગ કરો",
   "writer.play.dualDialogue": "બેવડો સંવાદ",
   "writer.play.note": "નોંધ (વાચકોને બતાવવામાં આવતી નથી)",
   "writer.play.boneyard": "કૉમેન્ટ આઉટ કરો (વાચકોને બતાવવામાં આવતું નથી)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "પ્રવૃત્તિ કોષ્ટક તરીકે જુઓ",
   "writer.publish.insights.tableCaption": "અઠવાડિયાના દિવસ અને કલાક પ્રમાણે સામાન્ય પ્રવૃત્તિ",
   "writer.publish.insights.window": "સમયગાળો",
-  "writer.publish.insights.updated": "{date, date, short}ના રોજ {date, time, short} વાગ્યે ગણતરી કરી."
+  "writer.publish.insights.updated": "{date, date, short}ના રોજ {date, time, short} વાગ્યે ગણતરી કરી.",
+  "writer.play.insertTemplate": "સ્ક્રિપ્ટ ટેમ્પ્લેટ દાખલ કરો",
+  "writer.play.insert": "સ્ક્રિપ્ટ દાખલ કરો",
+  "writer.play.template.dialogue": "પાત્ર અને સંવાદ",
+  "writer.play.template.scene": "દૃશ્ય / મંચ સૂચનાઓ",
+  "writer.play.placeholder.character": "પાત્ર પસંદ કરો અથવા નામ લખો",
+  "writer.play.placeholder.dialogue": "સંવાદ લખો…",
+  "writer.play.placeholder.scene": "INT. / EXT. સ્થળ - દિવસ / રાત",
+  "writer.play.placeholder.action": "ક્રિયા અથવા મંચ સૂચનાઓનું વર્ણન કરો…",
+  "writer.play.placeholder.parenthetical": "(પંક્તિ કેવી રીતે બોલાય છે)",
+  "writer.play.placeholder.transition": "કટ ટુ:",
+  "writer.play.characterSuggestions.help": "પાત્ર પસંદ કરો અથવા નવું નામ લખો. Enter દબાવવાથી સંવાદ શરૂ થાય છે.",
+  "writer.play.notePlaceholder": "ખાનગી નોંધ લખો…"
 }

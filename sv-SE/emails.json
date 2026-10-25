@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Uppdatering av berättelsens status",
   "email.storyStatus.intro": "Statusen för din berättelse har ändrats.",
   "email.storyStatus.why": "Det här har hänt, och varför:",
-  "email.storyStatus.next": "Det här händer nu:"
+  "email.storyStatus.next": "Det här händer nu:",
+  "email.backup.subject": "Din säkerhetskopia av ”{storyTitle}”",
+  "email.backup.intro": "Här är din schemalagda säkerhetskopia av ”{storyTitle}”.",
+  "email.backup.formats": "Bifogade filer: {formats}",
+  "email.backup.footer": "Hantera eller stäng av schemalagda säkerhetskopior i berättelsens verkstad."
 }

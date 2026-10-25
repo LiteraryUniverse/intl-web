@@ -96,6 +96,7 @@
   "writer.play.transition": "Переход",
   "writer.play.synopsis": "Синопсис (не виден читателям)",
   "writer.play.pageBreak": "Разрыв страницы",
+  "writer.play.splitDualDialogue": "Разделить параллельный диалог",
   "writer.play.dualDialogue": "Параллельный диалог",
   "writer.play.note": "Заметка (не видна читателям)",
   "writer.play.boneyard": "Скрыть в комментарии (не видно читателям)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Посмотреть активность в таблице",
   "writer.publish.insights.tableCaption": "Типичная активность по дням недели и часам",
   "writer.publish.insights.window": "Интервал",
-  "writer.publish.insights.updated": "Рассчитано {date, date, short} в {date, time, short}."
+  "writer.publish.insights.updated": "Рассчитано {date, date, short} в {date, time, short}.",
+  "writer.play.insertTemplate": "Вставить шаблон сценария",
+  "writer.play.insert": "Вставить сценарий",
+  "writer.play.template.dialogue": "Персонаж и диалог",
+  "writer.play.template.scene": "Сцена / ремарки",
+  "writer.play.placeholder.character": "Выберите персонажа или введите имя",
+  "writer.play.placeholder.dialogue": "Напишите реплику…",
+  "writer.play.placeholder.scene": "ИНТ. / НАТ. МЕСТО — ДЕНЬ / НОЧЬ",
+  "writer.play.placeholder.action": "Опишите действие или ремарки…",
+  "writer.play.placeholder.parenthetical": "(Как произносится реплика)",
+  "writer.play.placeholder.transition": "СКЛЕЙКА:",
+  "writer.play.characterSuggestions.help": "Выберите персонажа или введите новое имя. Enter начинает диалог.",
+  "writer.play.notePlaceholder": "Напишите личную заметку…"
 }

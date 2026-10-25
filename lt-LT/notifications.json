@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Autoriaus suvestinė",
   "notifications.workflow.readerSummary": "Skaitymo suvestinė",
   "notifications.workflow.taskReminders": "Užduočių priminimai",
-  "notifications.workflow.organization-billing": "Organizacijos atsiskaitymas"
+  "notifications.workflow.organization-billing": "Organizacijos atsiskaitymas",
+  "notifications.workflow.story-backup": "Tekstų atsarginės kopijos"
 }

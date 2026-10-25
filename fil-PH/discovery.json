@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Maghanap ng manga at komiks",
   "discover.searchComic.description": "Maghanap ng manga at komiks",
   "story.estimatedReadingTime.explainedCharacters": "Batay sa karaniwang itinakdang bilis ng pagbasa na {avgReadingNum, number} karakter bawat minuto.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Batay sa bilis mo sa pagbasa na {wpm, number} karakter bawat minuto."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Batay sa bilis mo sa pagbasa na {wpm, number} karakter bawat minuto.",
+  "discover.empty.title": "Wala pang nailathala rito. Gusto mo bang mauna?",
+  "discover.empty.titleFiltered": "Wala pang tumutugma sa paghahanap na ito. Gusto mo bang mauna?",
+  "discover.empty.all.text": "Magsulat ng kwento o bumuo ng uniberso, at dito ito makikita ng mga mambabasa.",
+  "discover.empty.all.cta": "Magsimulang magsulat",
+  "discover.empty.story.text": "Magsulat ng kwento. Kapag nailathala mo na ito, dito ito makikita ng mga mambabasa.",
+  "discover.empty.story.cta": "Magsimulang magsulat ng kwento",
+  "discover.empty.universe.text": "Bumuo ng mundong may sariling ensiklopedya, at maitatakda roon ng ibang manunulat ang kanilang mga kwento.",
+  "discover.empty.universe.cta": "Gumawa ng uniberso",
+  "discover.empty.audiobook.text": "Buksan ang isa sa iyong mga kwento sa Gawain at magdagdag ng audiobook dito.",
+  "discover.empty.audiobook.cta": "Magdagdag ng audiobook",
+  "discover.empty.comic.text": "I-upload ang iyong mga pahina at dito makikita ng mga mambabasa ang iyong komiks.",
+  "discover.empty.comic.cta": "Mag-upload ng komiks",
+  "discover.empty.allLanguages": "Ipakita ang mga pamagat sa lahat ng wika"
 }

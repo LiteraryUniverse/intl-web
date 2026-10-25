@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Rezumatul autorului",
   "notifications.workflow.readerSummary": "Rezumatul lecturii",
   "notifications.workflow.taskReminders": "Mementouri pentru sarcini",
-  "notifications.workflow.organization-billing": "Facturarea organizației"
+  "notifications.workflow.organization-billing": "Facturarea organizației",
+  "notifications.workflow.story-backup": "Copii de rezervă ale scrierilor tale"
 }

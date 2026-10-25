@@ -96,6 +96,7 @@
   "writer.play.transition": "장면 전환",
   "writer.play.synopsis": "시놉시스 (독자에게 표시되지 않음)",
   "writer.play.pageBreak": "페이지 나누기",
+  "writer.play.splitDualDialogue": "동시 대사 나누기",
   "writer.play.dualDialogue": "동시 대사",
   "writer.play.note": "메모 (독자에게 표시되지 않음)",
   "writer.play.boneyard": "주석 처리 (독자에게 표시되지 않음)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "활동을 표로 보기",
   "writer.publish.insights.tableCaption": "요일과 시간별 일반적인 활동",
   "writer.publish.insights.window": "시간대",
-  "writer.publish.insights.updated": "{date, date, short} {date, time, short}에 계산됨."
+  "writer.publish.insights.updated": "{date, date, short} {date, time, short}에 계산됨.",
+  "writer.play.insertTemplate": "대본 템플릿 삽입",
+  "writer.play.insert": "대본 삽입",
+  "writer.play.template.dialogue": "인물과 대사",
+  "writer.play.template.scene": "장면 / 무대 지시",
+  "writer.play.placeholder.character": "인물을 선택하거나 이름을 입력하세요",
+  "writer.play.placeholder.dialogue": "대사를 쓰세요…",
+  "writer.play.placeholder.scene": "실내 / 실외. 장소 - 낮 / 밤",
+  "writer.play.placeholder.action": "행동이나 무대 지시를 설명하세요…",
+  "writer.play.placeholder.parenthetical": "(대사를 말하는 방식)",
+  "writer.play.placeholder.transition": "컷 전환:",
+  "writer.play.characterSuggestions.help": "인물을 선택하거나 새 이름을 입력하세요. Enter를 누르면 대사가 시작됩니다.",
+  "writer.play.notePlaceholder": "비공개 메모를 쓰세요…"
 }

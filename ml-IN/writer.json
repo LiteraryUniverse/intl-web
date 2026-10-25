@@ -96,6 +96,7 @@
   "writer.play.transition": "രംഗമാറ്റം",
   "writer.play.synopsis": "സംഗ്രഹം (വായനക്കാർക്ക് കാണിക്കില്ല)",
   "writer.play.pageBreak": "പേജ് ബ്രേക്ക്",
+  "writer.play.splitDualDialogue": "ഇരട്ട സംഭാഷണം വേർപെടുത്തുക",
   "writer.play.dualDialogue": "ഇരട്ട സംഭാഷണം",
   "writer.play.note": "കുറിപ്പ് (വായനക്കാർക്ക് കാണിക്കില്ല)",
   "writer.play.boneyard": "കമന്റ് ആക്കുക (വായനക്കാർക്ക് കാണിക്കില്ല)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "പ്രവർത്തനം പട്ടികയായി കാണുക",
   "writer.publish.insights.tableCaption": "ആഴ്ചയിലെ ദിവസവും മണിക്കൂറും അനുസരിച്ചുള്ള സാധാരണ പ്രവർത്തനം",
   "writer.publish.insights.window": "സമയ ഇടവേള",
-  "writer.publish.insights.updated": "{date, date, short}-ന് {date, time, short}-ന് കണക്കാക്കിയത്."
+  "writer.publish.insights.updated": "{date, date, short}-ന് {date, time, short}-ന് കണക്കാക്കിയത്.",
+  "writer.play.insertTemplate": "സ്ക്രിപ്റ്റ് ടെംപ്ലേറ്റ് ചേർക്കുക",
+  "writer.play.insert": "സ്ക്രിപ്റ്റ് ചേർക്കുക",
+  "writer.play.template.dialogue": "കഥാപാത്രവും സംഭാഷണവും",
+  "writer.play.template.scene": "രംഗം / രംഗനിർദേശങ്ങൾ",
+  "writer.play.placeholder.character": "ഒരു കഥാപാത്രത്തെ തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ പേര് ടൈപ്പ് ചെയ്യുക",
+  "writer.play.placeholder.dialogue": "സംഭാഷണം എഴുതുക…",
+  "writer.play.placeholder.scene": "അകം / പുറം. സ്ഥലം - പകൽ / രാത്രി",
+  "writer.play.placeholder.action": "പ്രവൃത്തിയോ രംഗനിർദേശങ്ങളോ വിവരിക്കുക…",
+  "writer.play.placeholder.parenthetical": "(ഈ വരി എങ്ങനെ പറയുന്നു)",
+  "writer.play.placeholder.transition": "കട്ട് ടു:",
+  "writer.play.characterSuggestions.help": "ഒരു കഥാപാത്രത്തെ തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ പുതിയ പേര് ടൈപ്പ് ചെയ്യുക. Enter അമർത്തിയാൽ സംഭാഷണം തുടങ്ങും.",
+  "writer.play.notePlaceholder": "ഒരു സ്വകാര്യ കുറിപ്പ് എഴുതുക…"
 }

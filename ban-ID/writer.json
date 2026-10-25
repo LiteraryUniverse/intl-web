@@ -96,6 +96,7 @@
   "writer.play.transition": "Transition",
   "writer.play.synopsis": "Synopsis (not shown to readers)",
   "writer.play.pageBreak": "Page break",
+  "writer.play.splitDualDialogue": "Split dual dialogue",
   "writer.play.dualDialogue": "Dual dialogue",
   "writer.play.note": "Note (not shown to readers)",
   "writer.play.boneyard": "Comment out (not shown to readers)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Cingak kegiatan dados tabel",
   "writer.publish.insights.tableCaption": "Kegiatan sane biasa manut rahina ring minggu miwah jam",
   "writer.publish.insights.window": "Rentang galah",
-  "writer.publish.insights.updated": "Kaétang ring {date, date, short} galah {date, time, short}."
+  "writer.publish.insights.updated": "Kaétang ring {date, date, short} galah {date, time, short}.",
+  "writer.play.insertTemplate": "Insert script template",
+  "writer.play.insert": "Insert script",
+  "writer.play.template.dialogue": "Character and dialogue",
+  "writer.play.template.scene": "Scene / stage directions",
+  "writer.play.placeholder.character": "Choose a character or type a name",
+  "writer.play.placeholder.dialogue": "Write the dialogue…",
+  "writer.play.placeholder.scene": "INT. / EXT. LOCATION - DAY / NIGHT",
+  "writer.play.placeholder.action": "Describe the action or stage directions…",
+  "writer.play.placeholder.parenthetical": "(How the line is spoken)",
+  "writer.play.placeholder.transition": "CUT TO:",
+  "writer.play.characterSuggestions.help": "Choose a character or type a new name. Enter starts the dialogue.",
+  "writer.play.notePlaceholder": "Write a private note…"
 }

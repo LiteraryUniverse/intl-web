@@ -96,6 +96,7 @@
   "writer.play.transition": "Perėjimas",
   "writer.play.synopsis": "Santrauka (skaitytojams nerodoma)",
   "writer.play.pageBreak": "Puslapio lūžis",
+  "writer.play.splitDualDialogue": "Išskaidyti dvigubą dialogą",
   "writer.play.dualDialogue": "Dvigubas dialogas",
   "writer.play.note": "Pastaba (skaitytojams nerodoma)",
   "writer.play.boneyard": "Užkomentuoti (skaitytojams nerodoma)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Peržiūrėti veiklą lentelėje",
   "writer.publish.insights.tableCaption": "Įprasta veikla pagal savaitės dieną ir valandą",
   "writer.publish.insights.window": "Laikotarpis",
-  "writer.publish.insights.updated": "Apskaičiuota {date, date, short}, {date, time, short}."
+  "writer.publish.insights.updated": "Apskaičiuota {date, date, short}, {date, time, short}.",
+  "writer.play.insertTemplate": "Įterpti scenarijaus šabloną",
+  "writer.play.insert": "Įterpti scenarijų",
+  "writer.play.template.dialogue": "Veikėjas ir dialogas",
+  "writer.play.template.scene": "Scena / remarkos",
+  "writer.play.placeholder.character": "Pasirinkite veikėją arba įveskite vardą",
+  "writer.play.placeholder.dialogue": "Rašykite dialogą…",
+  "writer.play.placeholder.scene": "INT. / EXT. VIETA - DIENA / NAKTIS",
+  "writer.play.placeholder.action": "Aprašykite veiksmą arba remarkas…",
+  "writer.play.placeholder.parenthetical": "(Kaip ištariama replika)",
+  "writer.play.placeholder.transition": "PERĖJIMAS:",
+  "writer.play.characterSuggestions.help": "Pasirinkite veikėją arba įveskite naują vardą. Enter pradeda dialogą.",
+  "writer.play.notePlaceholder": "Rašykite privačią pastabą…"
 }

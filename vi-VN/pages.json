@@ -261,5 +261,18 @@
   "tapas.guide.help": "Bị kẹt? Hãy viết cho chúng tôi",
   "tapas.guide.back": "Quay lại trang Tapas",
   "tapas.creators.migrator": "Xuất từ Tapas bằng công cụ chuyển",
-  "tapas.creators.guide": "Đọc hướng dẫn từng bước"
+  "tapas.creators.guide": "Đọc hướng dẫn từng bước",
+  "tapas.hero.display": "Một <accent>chương mới.</accent>",
+  "tapas.scene.doorAlt": "Một cánh cửa sách truyện bằng gỗ mở ra khi bạn cuộn trang, để lộ Lunea đang vẫy tay và Luca chào đón bạn vào một thư viện vàng óng.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Ồ, bạn đây rồi.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Chúng tôi đã để đèn sáng chờ bạn.",
+  "tapas.scene.skip": "Bỏ qua lối vào",
+  "tapas.scene.scrollClosed": "Cuộn để mở cửa",
+  "tapas.scene.scrollOpen": "Mời vào. Cứ tiếp tục cuộn nhé.",
+  "tapas.art.packing": "Lunea ngồi trên băng ghế cạnh một nhà sáng tạo đang lo lắng ôm chồng trang truyện tranh, trong khi Luca xếp thêm các trang vào một thùng các-tông.",
+  "tapas.art.creator": "Một nhà sáng tạo mỉm cười, cầm bút chì và một tờ giấy.",
+  "tapas.art.sofa": "Luca và Lunea cùng đọc một cuốn sách trên chiếc ghế sofa màu oải hương, bên cạnh là một chồng truyện đang chờ.",
+  "tapas.art.universe": "Lunea giơ cao cây bút lông và Luca cầm máy tính bảng khi một cuốn sách mở ra, để lộ một tòa lâu đài trên mây, một thành phố tương lai, một con rồng và một tên lửa."
 }

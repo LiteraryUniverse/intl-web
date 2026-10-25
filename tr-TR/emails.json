@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Hikaye durumu güncellemesi",
   "email.storyStatus.intro": "Hikayenizin durumunda bir değişiklik oldu.",
   "email.storyStatus.why": "Ne olduğu ve nedeni şöyle:",
-  "email.storyStatus.next": "Bundan sonra ne olacak:"
+  "email.storyStatus.next": "Bundan sonra ne olacak:",
+  "email.backup.subject": "“{storyTitle}” için yedeğiniz",
+  "email.backup.intro": "“{storyTitle}” için zamanlanmış yedeğiniz ektedir.",
+  "email.backup.formats": "Ekli dosyalar: {formats}",
+  "email.backup.footer": "Zamanlanmış yedekleri hikaye atölyenizden yönetebilir veya kapatabilirsiniz."
 }

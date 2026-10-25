@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Шукати манґу та комікси",
   "discover.searchComic.description": "Шукати манґу та комікси",
   "story.estimatedReadingTime.explainedCharacters": "Розраховано на основі типової швидкості читання {avgReadingNum, number} символів за хвилину.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Розраховано на основі вашої швидкості читання {wpm, number} символів за хвилину."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Розраховано на основі вашої швидкості читання {wpm, number} символів за хвилину.",
+  "discover.empty.title": "Тут ще нічого не опубліковано. Хочете бути першими?",
+  "discover.empty.titleFiltered": "За цим запитом поки нічого немає. Хочете бути першими?",
+  "discover.empty.all.text": "Напишіть історію або створіть всесвіт, і читачі знайдуть їх тут.",
+  "discover.empty.all.cta": "Почати писати",
+  "discover.empty.story.text": "Напишіть історію. Щойно ви її опублікуєте, читачі знайдуть її тут.",
+  "discover.empty.story.cta": "Почати писати історію",
+  "discover.empty.universe.text": "Створіть світ із власною енциклопедією, і інші автори зможуть розгортати в ньому дію своїх історій.",
+  "discover.empty.universe.cta": "Створити всесвіт",
+  "discover.empty.audiobook.text": "Відкрийте одну зі своїх історій у Майстерні й додайте до неї аудіокнигу.",
+  "discover.empty.audiobook.cta": "Додати аудіокнигу",
+  "discover.empty.comic.text": "Завантажте свої сторінки, і читачі знайдуть ваш комікс тут.",
+  "discover.empty.comic.cta": "Завантажити комікс",
+  "discover.empty.allLanguages": "Показати твори всіма мовами"
 }

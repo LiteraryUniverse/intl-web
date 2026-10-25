@@ -96,6 +96,7 @@
   "writer.play.transition": "ਦ੍ਰਿਸ਼ ਬਦਲਾਅ",
   "writer.play.synopsis": "ਸਾਰ (ਪਾਠਕਾਂ ਨੂੰ ਨਹੀਂ ਦਿਖਾਇਆ ਜਾਂਦਾ)",
   "writer.play.pageBreak": "ਪੰਨਾ ਬਰੇਕ",
+  "writer.play.splitDualDialogue": "ਦੋਹਰਾ ਸੰਵਾਦ ਵੱਖ ਕਰੋ",
   "writer.play.dualDialogue": "ਦੋਹਰਾ ਸੰਵਾਦ",
   "writer.play.note": "ਨੋਟ (ਪਾਠਕਾਂ ਨੂੰ ਨਹੀਂ ਦਿਖਾਇਆ ਜਾਂਦਾ)",
   "writer.play.boneyard": "ਟਿੱਪਣੀ ਬਣਾਓ (ਪਾਠਕਾਂ ਨੂੰ ਨਹੀਂ ਦਿਖਾਇਆ ਜਾਂਦਾ)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "ਸਰਗਰਮੀ ਸਾਰਣੀ ਵਜੋਂ ਦੇਖੋ",
   "writer.publish.insights.tableCaption": "ਹਫ਼ਤੇ ਦੇ ਦਿਨ ਅਤੇ ਘੰਟੇ ਅਨੁਸਾਰ ਆਮ ਸਰਗਰਮੀ",
   "writer.publish.insights.window": "ਸਮੇਂ ਦਾ ਅੰਤਰਾਲ",
-  "writer.publish.insights.updated": "{date, date, short} ਨੂੰ {date, time, short} ਵਜੇ ਗਣਨਾ ਕੀਤੀ ਗਈ।"
+  "writer.publish.insights.updated": "{date, date, short} ਨੂੰ {date, time, short} ਵਜੇ ਗਣਨਾ ਕੀਤੀ ਗਈ।",
+  "writer.play.insertTemplate": "ਸਕ੍ਰਿਪਟ ਟੈਮਪਲੇਟ ਪਾਓ",
+  "writer.play.insert": "ਸਕ੍ਰਿਪਟ ਪਾਓ",
+  "writer.play.template.dialogue": "ਪਾਤਰ ਅਤੇ ਸੰਵਾਦ",
+  "writer.play.template.scene": "ਦ੍ਰਿਸ਼ / ਮੰਚ ਨਿਰਦੇਸ਼",
+  "writer.play.placeholder.character": "ਕੋਈ ਪਾਤਰ ਚੁਣੋ ਜਾਂ ਨਾਮ ਲਿਖੋ",
+  "writer.play.placeholder.dialogue": "ਸੰਵਾਦ ਲਿਖੋ…",
+  "writer.play.placeholder.scene": "ਅੰਦਰ. / ਬਾਹਰ. ਥਾਂ - ਦਿਨ / ਰਾਤ",
+  "writer.play.placeholder.action": "ਕਿਰਿਆ ਜਾਂ ਮੰਚ ਨਿਰਦੇਸ਼ਾਂ ਦਾ ਵਰਣਨ ਕਰੋ…",
+  "writer.play.placeholder.parenthetical": "(ਸੰਵਾਦ ਕਿਵੇਂ ਬੋਲਿਆ ਜਾਂਦਾ ਹੈ)",
+  "writer.play.placeholder.transition": "ਕੱਟ ਟੂ:",
+  "writer.play.characterSuggestions.help": "ਕੋਈ ਪਾਤਰ ਚੁਣੋ ਜਾਂ ਨਵਾਂ ਨਾਮ ਲਿਖੋ। Enter ਦਬਾਉਣ ’ਤੇ ਸੰਵਾਦ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ।",
+  "writer.play.notePlaceholder": "ਇੱਕ ਨਿੱਜੀ ਨੋਟ ਲਿਖੋ…"
 }

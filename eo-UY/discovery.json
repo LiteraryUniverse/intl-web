@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Serĉi mangaojn kaj komiksojn",
   "discover.searchComic.description": "Serĉi mangaojn kaj komiksojn",
   "story.estimatedReadingTime.explainedCharacters": "Surbaze de la defaŭlta legorapido de {avgReadingNum, number} signoj por minuto.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Surbaze de via legorapido de {wpm, number} signoj por minuto."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Surbaze de via legorapido de {wpm, number} signoj por minuto.",
+  "discover.empty.title": "Ankoraŭ nenio publikigita ĉi tie. Ĉu vi volas esti la unua?",
+  "discover.empty.titleFiltered": "Ankoraŭ nenio kongruas kun ĉi tiu serĉo. Ĉu vi volas esti la unua?",
+  "discover.empty.all.text": "Verku rakonton aŭ konstruu universon, kaj legantoj trovos ĝin ĉi tie.",
+  "discover.empty.all.cta": "Komencu verki",
+  "discover.empty.story.text": "Verku rakonton. Kiam vi publikigos ĝin, legantoj trovos ĝin ĉi tie.",
+  "discover.empty.story.cta": "Komencu verki rakonton",
+  "discover.empty.universe.text": "Konstruu mondon kun sia propra enciklopedio, kaj aliaj verkistoj povos okazigi siajn rakontojn en ĝi.",
+  "discover.empty.universe.cta": "Kreu universon",
+  "discover.empty.audiobook.text": "Malfermu unu el viaj rakontoj en la verkstato kaj aldonu aŭdlibron al ĝi.",
+  "discover.empty.audiobook.cta": "Aldonu aŭdlibron",
+  "discover.empty.comic.text": "Alŝutu viajn paĝojn, kaj legantoj trovos vian komikson ĉi tie.",
+  "discover.empty.comic.cta": "Alŝutu komikson",
+  "discover.empty.allLanguages": "Montri titolojn en ĉiuj lingvoj"
 }

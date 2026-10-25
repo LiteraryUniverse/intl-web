@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "สรุปสำหรับผู้เขียน",
   "notifications.workflow.readerSummary": "สรุปการอ่าน",
   "notifications.workflow.taskReminders": "การเตือนงาน",
-  "notifications.workflow.organization-billing": "การเรียกเก็บเงินขององค์กร"
+  "notifications.workflow.organization-billing": "การเรียกเก็บเงินขององค์กร",
+  "notifications.workflow.story-backup": "สำรองงานเขียน"
 }

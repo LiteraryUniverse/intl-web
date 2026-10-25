@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "Die {format} sal op {date} as voltooi gemerk word, wanneer die laaste geskeduleerde hoofstuk vrygestel word.",
   "comics.reader.loading": "Strokiesprent",
   "comics.translation.mode.label": "Modus: {mode}",
-  "comics.pagesCount": "{count, plural, one {# bladsy} other {# bladsye}}"
+  "comics.pagesCount": "{count, plural, one {# bladsy} other {# bladsye}}",
+  "comics.import.preparing": "Lees tans strokiesprentuitvoer…",
+  "comics.import.invalid": "Hierdie ZIP is nie ’n volledige Tapas-strokiesprentuitvoer nie. Kies die lu-import-ZIP uit jou uitvoer.",
+  "comics.import.tooLarge": "Hierdie strokiesprenthoofstuk is te groot om in te voer. Verdeel dit in kleiner hoofstukke en probeer weer.",
+  "comics.import.failed": "Die strokiesprent kon nie ingevoer word nie. Die hoofstukke en oplaaie van hierdie poging is verwyder. Probeer weer.",
+  "comics.import.cleanupFailed": "Die invoer het gestop en sommige nuwe hoofstukke of oplaaie kon nie verwyder word nie. Gaan jou strokiesprent na voordat jy weer probeer."
 }

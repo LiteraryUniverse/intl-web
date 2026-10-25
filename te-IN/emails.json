@@ -247,5 +247,9 @@
   "email.storyStatus.title": "కథ స్థితి అప్‌డేట్",
   "email.storyStatus.intro": "మీ కథ స్థితిలో మార్పు జరిగింది.",
   "email.storyStatus.why": "ఏమి జరిగిందో, ఎందుకు జరిగిందో ఇక్కడ చూడండి:",
-  "email.storyStatus.next": "తర్వాత ఏమి జరుగుతుంది:"
+  "email.storyStatus.next": "తర్వాత ఏమి జరుగుతుంది:",
+  "email.backup.subject": "“{storyTitle}” కోసం మీ బ్యాకప్",
+  "email.backup.intro": "“{storyTitle}” కోసం మీ షెడ్యూల్ చేసిన బ్యాకప్ ఇదిగో.",
+  "email.backup.formats": "జోడించిన ఫైల్‌లు: {formats}",
+  "email.backup.footer": "షెడ్యూల్ చేసిన బ్యాకప్‌లను మీ కథ వర్క్‌షాప్‌లో నిర్వహించండి లేదా ఆపివేయండి."
 }

@@ -96,6 +96,7 @@
   "writer.play.transition": "トランジション",
   "writer.play.synopsis": "あらすじ（読者には表示されません）",
   "writer.play.pageBreak": "改ページ",
+  "writer.play.splitDualDialogue": "同時セリフを分割",
   "writer.play.dualDialogue": "同時進行のセリフ",
   "writer.play.note": "メモ（読者には表示されません）",
   "writer.play.boneyard": "コメントアウト（読者には表示されません）",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "活動を表で見る",
   "writer.publish.insights.tableCaption": "曜日と時間ごとの典型的な活動",
   "writer.publish.insights.window": "時間帯",
-  "writer.publish.insights.updated": "{date, date, short}の{date, time, short}に算出。"
+  "writer.publish.insights.updated": "{date, date, short}の{date, time, short}に算出。",
+  "writer.play.insertTemplate": "脚本テンプレートを挿入",
+  "writer.play.insert": "脚本を挿入",
+  "writer.play.template.dialogue": "役名とセリフ",
+  "writer.play.template.scene": "シーン／ト書き",
+  "writer.play.placeholder.character": "役名を選ぶか、名前を入力",
+  "writer.play.placeholder.dialogue": "セリフを書く…",
+  "writer.play.placeholder.scene": "屋内／屋外 場所 - 昼／夜",
+  "writer.play.placeholder.action": "動きやト書きを書く…",
+  "writer.play.placeholder.parenthetical": "（セリフの言い方）",
+  "writer.play.placeholder.transition": "カット：",
+  "writer.play.characterSuggestions.help": "役名を選ぶか、新しい名前を入力してください。Enter でセリフを書き始めます。",
+  "writer.play.notePlaceholder": "非公開のメモを書く…"
 }

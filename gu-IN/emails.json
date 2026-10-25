@@ -247,5 +247,9 @@
   "email.storyStatus.title": "કથાની સ્થિતિ અંગે અપડેટ",
   "email.storyStatus.intro": "તમારી કથાની સ્થિતિમાં ફેરફાર થયો છે.",
   "email.storyStatus.why": "શું થયું અને શા માટે, તે અહીં છે:",
-  "email.storyStatus.next": "હવે આગળ શું થશે:"
+  "email.storyStatus.next": "હવે આગળ શું થશે:",
+  "email.backup.subject": "“{storyTitle}” માટે તમારું બેકઅપ",
+  "email.backup.intro": "“{storyTitle}” માટે તમારું શેડ્યૂલ કરેલું બેકઅપ આ રહ્યું.",
+  "email.backup.formats": "જોડેલી ફાઇલો: {formats}",
+  "email.backup.footer": "શેડ્યૂલ કરેલાં બેકઅપ તમારી વાર્તાની કાર્યશાળામાં સંચાલિત કરો અથવા બંધ કરો."
 }

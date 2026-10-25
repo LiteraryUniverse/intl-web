@@ -96,6 +96,7 @@
   "writer.play.transition": "انتقال",
   "writer.play.synopsis": "ملخص (لا يظهر للقراء)",
   "writer.play.pageBreak": "فاصل صفحة",
+  "writer.play.splitDualDialogue": "فصل الحوار المزدوج",
   "writer.play.dualDialogue": "حوار متزامن",
   "writer.play.note": "ملاحظة (لا تظهر للقراء)",
   "writer.play.boneyard": "تعليق مخفي (لا يظهر للقراء)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "عرض النشاط في جدول",
   "writer.publish.insights.tableCaption": "النشاط المعتاد حسب يوم الأسبوع والساعة",
   "writer.publish.insights.window": "الفترة",
-  "writer.publish.insights.updated": "تم الحساب في {date, date, short} الساعة {date, time, short}."
+  "writer.publish.insights.updated": "تم الحساب في {date, date, short} الساعة {date, time, short}.",
+  "writer.play.insertTemplate": "إدراج قالب نص",
+  "writer.play.insert": "إدراج نص",
+  "writer.play.template.dialogue": "شخصية وحوار",
+  "writer.play.template.scene": "مشهد / إرشادات مسرحية",
+  "writer.play.placeholder.character": "اختر شخصية أو اكتب اسمًا",
+  "writer.play.placeholder.dialogue": "اكتب الحوار…",
+  "writer.play.placeholder.scene": "داخلي / خارجي. المكان - نهار / ليل",
+  "writer.play.placeholder.action": "صِف الحدث أو الإرشادات المسرحية…",
+  "writer.play.placeholder.parenthetical": "(كيف تُقال الجملة)",
+  "writer.play.placeholder.transition": "قطع إلى:",
+  "writer.play.characterSuggestions.help": "اختر شخصية أو اكتب اسمًا جديدًا. يبدأ الحوار بالضغط على Enter.",
+  "writer.play.notePlaceholder": "اكتب ملاحظة خاصة…"
 }

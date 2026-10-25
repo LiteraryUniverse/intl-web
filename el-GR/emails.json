@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Ενημέρωση για την κατάσταση της ιστορίας",
   "email.storyStatus.intro": "Η κατάσταση της ιστορίας σας άλλαξε.",
   "email.storyStatus.why": "Δείτε τι συνέβη και γιατί:",
-  "email.storyStatus.next": "Τι ακολουθεί:"
+  "email.storyStatus.next": "Τι ακολουθεί:",
+  "email.backup.subject": "Το αντίγραφο ασφαλείας σας για «{storyTitle}»",
+  "email.backup.intro": "Ακολουθεί το προγραμματισμένο αντίγραφο ασφαλείας σας για «{storyTitle}».",
+  "email.backup.formats": "Συνημμένα αρχεία: {formats}",
+  "email.backup.footer": "Διαχειριστείτε ή απενεργοποιήστε τα προγραμματισμένα αντίγραφα ασφαλείας στο εργαστήριο της ιστορίας σας."
 }

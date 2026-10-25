@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "नयाँ भाषा थप्नुहोस्",
   "flashnews.onlyDisplayOn": "समाचारलाई मात्र योग्य भाषामा मात्र दर्शन हुनेछ (जे कुनै योग्य भाषा छ त्यसले आफ्नै भाषांमा पनि कुनै समाचार देखाउनु सक्नेछ।)",
   "flashnews.current": "Active flashnews",
-  "notifications.menu.all": "सबै सूचना",
+  "notifications.menu.all": "सबै सूचनाहरू",
   "notifications.menu.following": "फलोइङ्ग",
   "notifications.menu.workshop": "कार्यशाला",
   "notifications.menu.news": "समाचार र अद्यतनहरू",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Author summary",
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
-  "notifications.workflow.organization-billing": "Organization billing"
+  "notifications.workflow.organization-billing": "Organization billing",
+  "notifications.workflow.story-backup": "लेखन ब्याकअप"
 }

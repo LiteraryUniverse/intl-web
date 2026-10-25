@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Hľadať mangu a komiksy",
   "discover.searchComic.description": "Hľadať mangu a komiksy",
   "story.estimatedReadingTime.explainedCharacters": "Na základe predvolenej rýchlosti čítania {avgReadingNum, number} znakov za minútu.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Na základe vašej rýchlosti čítania {wpm, number} znakov za minútu."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Na základe vašej rýchlosti čítania {wpm, number} znakov za minútu.",
+  "discover.empty.title": "Zatiaľ tu nie je nič publikované. Chcete byť prvý?",
+  "discover.empty.titleFiltered": "Tomuto vyhľadávaniu zatiaľ nič nezodpovedá. Chcete byť prvý?",
+  "discover.empty.all.text": "Napíšte príbeh alebo vybudujte vesmír a čitatelia ho nájdu tu.",
+  "discover.empty.all.cta": "Začať písať",
+  "discover.empty.story.text": "Napíšte príbeh. Keď ho publikujete, čitatelia ho nájdu tu.",
+  "discover.empty.story.cta": "Začať písať príbeh",
+  "discover.empty.universe.text": "Vybudujte svet s vlastnou encyklopédiou a ďalší autori doň môžu zasadiť svoje príbehy.",
+  "discover.empty.universe.cta": "Vytvoriť vesmír",
+  "discover.empty.audiobook.text": "Otvorte v Dielni jeden zo svojich príbehov a pridajte k nemu audioknihu.",
+  "discover.empty.audiobook.cta": "Pridať audioknihu",
+  "discover.empty.comic.text": "Nahrajte svoje strany a čitatelia nájdu váš komiks tu.",
+  "discover.empty.comic.cta": "Nahrať komiks",
+  "discover.empty.allLanguages": "Zobraziť tituly vo všetkých jazykoch"
 }

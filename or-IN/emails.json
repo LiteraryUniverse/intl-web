@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Story status update",
   "email.storyStatus.intro": "There's been a change to your story status.",
   "email.storyStatus.why": "Here is what happened and why:",
-  "email.storyStatus.next": "What happens next:"
+  "email.storyStatus.next": "What happens next:",
+  "email.backup.subject": "Your backup for \"{storyTitle}\"",
+  "email.backup.intro": "Here is your scheduled backup for \"{storyTitle}\".",
+  "email.backup.formats": "Files attached: {formats}",
+  "email.backup.footer": "Manage or turn off scheduled backups in your story workshop."
 }

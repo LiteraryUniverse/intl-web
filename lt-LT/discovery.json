@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Ieškoti mangos ir komiksų",
   "discover.searchComic.description": "Ieškokite mangos ir komiksų",
   "story.estimatedReadingTime.explainedCharacters": "Apskaičiuota pagal numatytąjį {avgReadingNum, number} simbolių per minutę skaitymo greitį.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Apskaičiuota pagal tavo {wpm, number} simbolių per minutę skaitymo greitį."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Apskaičiuota pagal tavo {wpm, number} simbolių per minutę skaitymo greitį.",
+  "discover.empty.title": "Čia dar nieko nepaskelbta. Norite būti pirmi?",
+  "discover.empty.titleFiltered": "Šios paieškos dar niekas neatitinka. Norite būti pirmi?",
+  "discover.empty.all.text": "Parašykite istoriją arba sukurkite visatą, ir skaitytojai ją ras čia.",
+  "discover.empty.all.cta": "Pradėti rašyti",
+  "discover.empty.story.text": "Parašykite istoriją. Kai ją paskelbsite, skaitytojai ją ras čia.",
+  "discover.empty.story.cta": "Pradėti rašyti istoriją",
+  "discover.empty.universe.text": "Sukurkite pasaulį su savo enciklopedija, ir kiti rašytojai galės jame vystyti savo istorijas.",
+  "discover.empty.universe.cta": "Sukurti visatą",
+  "discover.empty.audiobook.text": "Atidarykite vieną iš savo istorijų dirbtuvėse ir pridėkite prie jos audioknygą.",
+  "discover.empty.audiobook.cta": "Pridėti audioknygą",
+  "discover.empty.comic.text": "Įkelkite savo puslapius, ir skaitytojai ras jūsų komiksą čia.",
+  "discover.empty.comic.cta": "Įkelti komiksą",
+  "discover.empty.allLanguages": "Rodyti kūrinius visomis kalbomis"
 }

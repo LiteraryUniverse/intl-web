@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Loo oleku uuendus",
   "email.storyStatus.intro": "Sinu loo olek on muutunud.",
   "email.storyStatus.why": "Mis juhtus ja miks:",
-  "email.storyStatus.next": "Mis saab edasi:"
+  "email.storyStatus.next": "Mis saab edasi:",
+  "email.backup.subject": "Sinu loo „{storyTitle}“ varukoopia",
+  "email.backup.intro": "Siin on sinu loo „{storyTitle}“ ajastatud varukoopia.",
+  "email.backup.formats": "Lisatud failid: {formats}",
+  "email.backup.footer": "Ajastatud varukoopiaid saad hallata või välja lülitada oma loo töötoas."
 }

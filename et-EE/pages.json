@@ -261,5 +261,18 @@
   "tapas.guide.help": "Jäid toppama? Kirjuta meile",
   "tapas.guide.back": "Tagasi Tapase lehele",
   "tapas.creators.migrator": "Ekspordi Tapasest kolijaga",
-  "tapas.creators.guide": "Loe samm-sammulist juhendit"
+  "tapas.creators.guide": "Loe samm-sammulist juhendit",
+  "tapas.hero.display": "Uus <accent>peatükk.</accent>",
+  "tapas.scene.doorAlt": "Puidust muinasjuturaamatu uks avaneb kerimisel ja selle tagant ilmuvad lehvitav Lunea ning Luca, kes kutsub sind kuldsesse raamatukokku.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Oh, siin sa oledki.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Jätsime sulle tule põlema.",
+  "tapas.scene.skip": "Jäta sissepääs vahele",
+  "tapas.scene.scrollClosed": "Keri, et uks avada",
+  "tapas.scene.scrollOpen": "Astu sisse. Keri edasi.",
+  "tapas.art.packing": "Lunea istub pingil mures looja kõrval, kes hoiab käes koomiksilehtede virna, samal ajal kui Luca pakib papist kasti veel lehti.",
+  "tapas.art.creator": "Naeratav looja, pliiats ja paberileht käes.",
+  "tapas.art.sofa": "Luca ja Lunea loevad lavendlivärvilisel diivanil koos raamatut ning lähedal ootab lugude virn.",
+  "tapas.art.universe": "Lunea tõstab sulepead ja Luca hoiab tahvelarvutit, kui avatud raamatust kerkivad pilvedes loss, futuristlik linn, draakon ja rakett."
 }

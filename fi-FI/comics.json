@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} merkitään valmiiksi {date}, kun sen viimeinen ajastettu luku julkaistaan.",
   "comics.reader.loading": "Sarjakuva",
   "comics.translation.mode.label": "Tila: {mode}",
-  "comics.pagesCount": "{count, plural, one {# sivu} other {# sivua}}"
+  "comics.pagesCount": "{count, plural, one {# sivu} other {# sivua}}",
+  "comics.import.preparing": "Luetaan sarjakuvan vientiä…",
+  "comics.import.invalid": "Tämä ZIP ei ole täydellinen Tapas-sarjakuvavienti. Valitse viennistäsi lu-import-ZIP.",
+  "comics.import.tooLarge": "Tämä sarjakuvan luku on liian suuri tuotavaksi. Jaa se pienempiin lukuihin ja yritä uudelleen.",
+  "comics.import.failed": "Sarjakuvaa ei voitu tuoda. Tämän yrityksen luvut ja lataukset poistettiin. Yritä uudelleen.",
+  "comics.import.cleanupFailed": "Tuonti keskeytyi, eikä joitakin uusia lukuja tai latauksia voitu poistaa. Tarkista sarjakuvasi ennen kuin yrität uudelleen."
 }

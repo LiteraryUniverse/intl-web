@@ -96,6 +96,7 @@
   "writer.play.transition": "দৃশ্যান্তর",
   "writer.play.synopsis": "সারসংক্ষেপ (পাঠকদের দেখানো হয় না)",
   "writer.play.pageBreak": "পাতা বিরতি",
+  "writer.play.splitDualDialogue": "যুগল সংলাপ আলাদা করুন",
   "writer.play.dualDialogue": "যুগল সংলাপ",
   "writer.play.note": "নোট (পাঠকদের দেখানো হয় না)",
   "writer.play.boneyard": "মন্তব্য করে সরান (পাঠকদের দেখানো হয় না)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "কার্যকলাপ সারণি হিসেবে দেখুন",
   "writer.publish.insights.tableCaption": "সপ্তাহের দিন ও ঘণ্টা অনুযায়ী সাধারণ কার্যকলাপ",
   "writer.publish.insights.window": "সময়সীমা",
-  "writer.publish.insights.updated": "{date, date, short} তারিখে {date, time, short} সময়ে হিসাব করা হয়েছে।"
+  "writer.publish.insights.updated": "{date, date, short} তারিখে {date, time, short} সময়ে হিসাব করা হয়েছে।",
+  "writer.play.insertTemplate": "স্ক্রিপ্ট টেমপ্লেট সন্নিবেশ করুন",
+  "writer.play.insert": "স্ক্রিপ্ট সন্নিবেশ করুন",
+  "writer.play.template.dialogue": "চরিত্র ও সংলাপ",
+  "writer.play.template.scene": "দৃশ্য / মঞ্চনির্দেশনা",
+  "writer.play.placeholder.character": "একটি চরিত্র বেছে নিন বা নাম লিখুন",
+  "writer.play.placeholder.dialogue": "সংলাপ লিখুন…",
+  "writer.play.placeholder.scene": "INT. / EXT. স্থান - দিন / রাত",
+  "writer.play.placeholder.action": "ক্রিয়া বা মঞ্চনির্দেশনা বর্ণনা করুন…",
+  "writer.play.placeholder.parenthetical": "(সংলাপটি কীভাবে বলা হয়)",
+  "writer.play.placeholder.transition": "কাট টু:",
+  "writer.play.characterSuggestions.help": "একটি চরিত্র বেছে নিন বা নতুন নাম লিখুন। Enter চাপলে সংলাপ শুরু হয়।",
+  "writer.play.notePlaceholder": "একটি ব্যক্তিগত নোট লিখুন…"
 }

@@ -261,5 +261,18 @@
   "tapas.guide.help": "Kommst du nicht weiter? Schreib uns",
   "tapas.guide.back": "Zurück zur Tapas-Seite",
   "tapas.creators.migrator": "Mit dem Migrator aus Tapas exportieren",
-  "tapas.creators.guide": "Schritt-für-Schritt-Anleitung lesen"
+  "tapas.creators.guide": "Schritt-für-Schritt-Anleitung lesen",
+  "tapas.hero.display": "Ein neues <accent>Kapitel.</accent>",
+  "tapas.scene.doorAlt": "Eine hölzerne Märchenbuchtür öffnet sich beim Scrollen und gibt den Blick frei auf Lunea, die winkt, und Luca, der dich in eine goldene Bibliothek hereinbittet.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Ach, da bist du ja.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Wir haben dir das Licht angelassen.",
+  "tapas.scene.skip": "Eingang überspringen",
+  "tapas.scene.scrollClosed": "Scrolle, um die Tür zu öffnen",
+  "tapas.scene.scrollOpen": "Komm herein. Scroll weiter.",
+  "tapas.art.packing": "Lunea sitzt auf einer Bank neben einem besorgten Kreativen, der einen Stapel Comicseiten hält, während Luca weitere Seiten in einen Pappkarton packt.",
+  "tapas.art.creator": "Ein lächelnder Kreativer mit einem Bleistift und einem Blatt Papier.",
+  "tapas.art.sofa": "Luca und Lunea lesen gemeinsam ein Buch auf einem lavendelfarbenen Sofa, daneben wartet ein Stapel Geschichten.",
+  "tapas.art.universe": "Lunea hebt eine Schreibfeder und Luca hält ein Tablet, während aus einem offenen Buch ein Schloss in den Wolken, eine futuristische Stadt, ein Drache und eine Rakete aufsteigen."
 }

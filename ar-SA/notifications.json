@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "ملخص المؤلف",
   "notifications.workflow.readerSummary": "ملخص القراءة",
   "notifications.workflow.taskReminders": "تذكيرات المهام",
-  "notifications.workflow.organization-billing": "فوترة المنظمة"
+  "notifications.workflow.organization-billing": "فوترة المنظمة",
+  "notifications.workflow.story-backup": "النسخ الاحتياطية للكتابة"
 }

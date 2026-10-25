@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Aŭtora resumo",
   "notifications.workflow.readerSummary": "Lega resumo",
   "notifications.workflow.taskReminders": "Memorigoj pri taskoj",
-  "notifications.workflow.organization-billing": "Fakturado de organizo"
+  "notifications.workflow.organization-billing": "Fakturado de organizo",
+  "notifications.workflow.story-backup": "Sekurkopioj de verkaĵoj"
 }

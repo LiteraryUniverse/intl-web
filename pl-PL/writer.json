@@ -96,6 +96,7 @@
   "writer.play.transition": "Przejście",
   "writer.play.synopsis": "Streszczenie (niewidoczne dla czytelników)",
   "writer.play.pageBreak": "Podział strony",
+  "writer.play.splitDualDialogue": "Rozdziel dialog równoległy",
   "writer.play.dualDialogue": "Dialog równoległy",
   "writer.play.note": "Notatka (niewidoczna dla czytelników)",
   "writer.play.boneyard": "Zakomentuj (niewidoczne dla czytelników)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Wyświetl aktywność w tabeli",
   "writer.publish.insights.tableCaption": "Typowa aktywność według dnia tygodnia i godziny",
   "writer.publish.insights.window": "Przedział czasowy",
-  "writer.publish.insights.updated": "Obliczono {date, date, short} o {date, time, short}."
+  "writer.publish.insights.updated": "Obliczono {date, date, short} o {date, time, short}.",
+  "writer.play.insertTemplate": "Wstaw szablon scenariusza",
+  "writer.play.insert": "Wstaw scenariusz",
+  "writer.play.template.dialogue": "Postać i dialog",
+  "writer.play.template.scene": "Scena / didaskalia",
+  "writer.play.placeholder.character": "Wybierz postać lub wpisz imię",
+  "writer.play.placeholder.dialogue": "Napisz dialog…",
+  "writer.play.placeholder.scene": "INT. / EXT. MIEJSCE – DZIEŃ / NOC",
+  "writer.play.placeholder.action": "Opisz akcję lub didaskalia…",
+  "writer.play.placeholder.parenthetical": "(Jak wypowiadana jest kwestia)",
+  "writer.play.placeholder.transition": "CIĘCIE DO:",
+  "writer.play.characterSuggestions.help": "Wybierz postać lub wpisz nowe imię. Enter rozpoczyna dialog.",
+  "writer.play.notePlaceholder": "Napisz prywatną notatkę…"
 }

@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Kirjoittajan yhteenveto",
   "notifications.workflow.readerSummary": "Lukuyhteenveto",
   "notifications.workflow.taskReminders": "Tehtävämuistutukset",
-  "notifications.workflow.organization-billing": "Organisaation laskutus"
+  "notifications.workflow.organization-billing": "Organisaation laskutus",
+  "notifications.workflow.story-backup": "Kirjoitusten varmuuskopiot"
 }

@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "Kūrinys ({format}) bus pažymėtas kaip užbaigtas {date}, kai bus išleistas paskutinis suplanuotas jo skyrius.",
   "comics.reader.loading": "Komiksas",
   "comics.translation.mode.label": "Režimas: {mode}",
-  "comics.pagesCount": "{count, plural, one {# puslapis} few {# puslapiai} many {# puslapio} other {# puslapių}}"
+  "comics.pagesCount": "{count, plural, one {# puslapis} few {# puslapiai} many {# puslapio} other {# puslapių}}",
+  "comics.import.preparing": "Skaitomas komikso eksportas…",
+  "comics.import.invalid": "Šis ZIP nėra pilnas Tapas komikso eksportas. Pasirinkite lu-import ZIP failą iš savo eksporto.",
+  "comics.import.tooLarge": "Šis komikso skyrius per didelis, kad būtų importuotas. Padalykite jį į mažesnius skyrius ir bandykite dar kartą.",
+  "comics.import.failed": "Komikso importuoti nepavyko. Šio bandymo skyriai ir įkėlimai buvo pašalinti. Bandykite dar kartą.",
+  "comics.import.cleanupFailed": "Importavimas sustojo, o kai kurių naujų skyrių ar įkėlimų nepavyko pašalinti. Prieš bandydami dar kartą, patikrinkite savo komiksą."
 }

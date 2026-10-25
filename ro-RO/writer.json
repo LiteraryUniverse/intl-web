@@ -96,6 +96,7 @@
   "writer.play.transition": "Tranziție",
   "writer.play.synopsis": "Sinopsis (nu este afișat cititorilor)",
   "writer.play.pageBreak": "Pauză de pagină",
+  "writer.play.splitDualDialogue": "Separă dialogul simultan",
   "writer.play.dualDialogue": "Dialog simultan",
   "writer.play.note": "Notă (nu este afișată cititorilor)",
   "writer.play.boneyard": "Comentează (nu este afișat cititorilor)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Vizualizați activitatea într-un tabel",
   "writer.publish.insights.tableCaption": "Activitate tipică după ziua săptămânii și oră",
   "writer.publish.insights.window": "Interval",
-  "writer.publish.insights.updated": "Calculat la {date, date, short}, ora {date, time, short}."
+  "writer.publish.insights.updated": "Calculat la {date, date, short}, ora {date, time, short}.",
+  "writer.play.insertTemplate": "Inserează un șablon de scenariu",
+  "writer.play.insert": "Inserează scenariu",
+  "writer.play.template.dialogue": "Personaj și dialog",
+  "writer.play.template.scene": "Scenă / indicații scenice",
+  "writer.play.placeholder.character": "Alege un personaj sau tastează un nume",
+  "writer.play.placeholder.dialogue": "Scrie dialogul…",
+  "writer.play.placeholder.scene": "INT. / EXT. LOC - ZI / NOAPTE",
+  "writer.play.placeholder.action": "Descrie acțiunea sau indicațiile scenice…",
+  "writer.play.placeholder.parenthetical": "(Cum este rostită replica)",
+  "writer.play.placeholder.transition": "TĂIETURĂ LA:",
+  "writer.play.characterSuggestions.help": "Alege un personaj sau tastează un nume nou. Enter începe dialogul.",
+  "writer.play.notePlaceholder": "Scrie o notă privată…"
 }

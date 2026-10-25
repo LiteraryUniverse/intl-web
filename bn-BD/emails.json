@@ -247,5 +247,9 @@
   "email.storyStatus.title": "গল্পের অবস্থার আপডেট",
   "email.storyStatus.intro": "আপনার গল্পের অবস্থায় একটি পরিবর্তন হয়েছে।",
   "email.storyStatus.why": "কী ঘটেছে এবং কেন ঘটেছে:",
-  "email.storyStatus.next": "এরপর কী হবে:"
+  "email.storyStatus.next": "এরপর কী হবে:",
+  "email.backup.subject": "“{storyTitle}”-এর জন্য আপনার ব্যাকআপ",
+  "email.backup.intro": "এখানে “{storyTitle}”-এর জন্য আপনার নির্ধারিত ব্যাকআপ রইল।",
+  "email.backup.formats": "সংযুক্ত ফাইল: {formats}",
+  "email.backup.footer": "নির্ধারিত ব্যাকআপ আপনার গল্পের কারখানায় পরিচালনা করুন বা বন্ধ করুন।"
 }

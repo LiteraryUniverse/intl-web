@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
   "comics.reader.loading": "Comic",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}",
+  "comics.import.preparing": "કોમિક નિકાસ વાંચી રહ્યા છીએ…",
+  "comics.import.invalid": "આ ZIP સંપૂર્ણ Tapas કોમિક નિકાસ નથી. તમારી નિકાસમાંથી lu-import ZIP પસંદ કરો.",
+  "comics.import.tooLarge": "આ કોમિક પ્રકરણ આયાત કરવા માટે ખૂબ મોટું છે. તેને નાનાં પ્રકરણોમાં વહેંચો અને ફરી પ્રયાસ કરો.",
+  "comics.import.failed": "કોમિક આયાત થઈ શક્યું નહીં. આ પ્રયાસનાં પ્રકરણો અને અપલોડ દૂર કરવામાં આવ્યાં. ફરી પ્રયાસ કરો.",
+  "comics.import.cleanupFailed": "આયાત અટકી ગઈ અને કેટલાંક નવાં પ્રકરણો અથવા અપલોડ દૂર કરી શકાયાં નહીં. ફરી પ્રયાસ કરતાં પહેલાં તમારું કોમિક તપાસો."
 }

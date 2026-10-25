@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Αναζήτηση manga και κόμικς",
   "discover.searchComic.description": "Αναζήτηση manga και κόμικς",
   "story.estimatedReadingTime.explainedCharacters": "Με βάση την προεπιλεγμένη ταχύτητα ανάγνωσης των {avgReadingNum, number} χαρακτήρων ανά λεπτό.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Με βάση την ταχύτητα ανάγνωσής σου των {wpm, number} χαρακτήρων ανά λεπτό."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Με βάση την ταχύτητα ανάγνωσής σου των {wpm, number} χαρακτήρων ανά λεπτό.",
+  "discover.empty.title": "Δεν έχει δημοσιευτεί τίποτα εδώ ακόμη. Θέλετε να είστε οι πρώτοι;",
+  "discover.empty.titleFiltered": "Τίποτα δεν ταιριάζει ακόμη με αυτή την αναζήτηση. Θέλετε να είστε οι πρώτοι;",
+  "discover.empty.all.text": "Γράψτε μια ιστορία ή χτίστε ένα σύμπαν και οι αναγνώστες θα το βρουν εδώ.",
+  "discover.empty.all.cta": "Ξεκινήστε να γράφετε",
+  "discover.empty.story.text": "Γράψτε μια ιστορία. Μόλις τη δημοσιεύσετε, οι αναγνώστες θα τη βρουν εδώ.",
+  "discover.empty.story.cta": "Ξεκινήστε να γράφετε μια ιστορία",
+  "discover.empty.universe.text": "Χτίστε έναν κόσμο με τη δική του εγκυκλοπαίδεια και άλλοι συγγραφείς θα μπορούν να τοποθετήσουν τις ιστορίες τους σε αυτόν.",
+  "discover.empty.universe.cta": "Δημιουργήστε ένα σύμπαν",
+  "discover.empty.audiobook.text": "Ανοίξτε μία από τις ιστορίες σας στο εργαστήριο και προσθέστε της ένα ηχητικό βιβλίο.",
+  "discover.empty.audiobook.cta": "Προσθέστε ένα ηχητικό βιβλίο",
+  "discover.empty.comic.text": "Ανεβάστε τις σελίδες σας και οι αναγνώστες θα βρουν το κόμικ σας εδώ.",
+  "discover.empty.comic.cta": "Ανεβάστε ένα κόμικ",
+  "discover.empty.allLanguages": "Εμφάνιση τίτλων σε όλες τις γλώσσες"
 }

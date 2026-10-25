@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} sẽ được đánh dấu là đã hoàn thành vào {date}, khi chương cuối cùng đã lên lịch được phát hành.",
   "comics.reader.loading": "Truyện tranh",
   "comics.translation.mode.label": "Chế độ: {mode}",
-  "comics.pagesCount": "{count, plural, other {# trang}}"
+  "comics.pagesCount": "{count, plural, other {# trang}}",
+  "comics.import.preparing": "Đang đọc bản xuất truyện tranh…",
+  "comics.import.invalid": "Tệp ZIP này không phải là bản xuất truyện tranh Tapas hoàn chỉnh. Hãy chọn tệp ZIP lu-import trong bản xuất của bạn.",
+  "comics.import.tooLarge": "Chương truyện tranh này quá lớn để nhập. Hãy chia thành các chương nhỏ hơn rồi thử lại.",
+  "comics.import.failed": "Không thể nhập truyện tranh. Các chương và tệp tải lên từ lần thử này đã bị xóa. Hãy thử lại.",
+  "comics.import.cleanupFailed": "Quá trình nhập đã dừng và không thể xóa một số chương hoặc tệp tải lên mới. Hãy kiểm tra truyện tranh của bạn trước khi thử lại."
 }

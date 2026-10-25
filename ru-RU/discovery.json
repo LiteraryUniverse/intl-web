@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Искать мангу и комиксы",
   "discover.searchComic.description": "Искать мангу и комиксы",
   "story.estimatedReadingTime.explainedCharacters": "Рассчитано исходя из скорости чтения по умолчанию: {avgReadingNum, number} символов в минуту.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Рассчитано исходя из вашей скорости чтения: {wpm, number} символов в минуту."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Рассчитано исходя из вашей скорости чтения: {wpm, number} символов в минуту.",
+  "discover.empty.title": "Здесь пока ничего не опубликовано. Хотите стать первым?",
+  "discover.empty.titleFiltered": "По этому запросу пока ничего нет. Хотите стать первым?",
+  "discover.empty.all.text": "Напишите историю или создайте вселенную, и читатели найдут их здесь.",
+  "discover.empty.all.cta": "Начать писать",
+  "discover.empty.story.text": "Напишите историю. Когда вы её опубликуете, читатели найдут её здесь.",
+  "discover.empty.story.cta": "Начать писать историю",
+  "discover.empty.universe.text": "Создайте мир с собственной энциклопедией, и другие авторы смогут разворачивать в нём действие своих историй.",
+  "discover.empty.universe.cta": "Создать вселенную",
+  "discover.empty.audiobook.text": "Откройте одну из своих историй в Мастерской и добавьте к ней аудиокнигу.",
+  "discover.empty.audiobook.cta": "Добавить аудиокнигу",
+  "discover.empty.comic.text": "Загрузите свои страницы, и читатели найдут ваш комикс здесь.",
+  "discover.empty.comic.cta": "Загрузить комикс",
+  "discover.empty.allLanguages": "Показать произведения на всех языках"
 }

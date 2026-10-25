@@ -261,5 +261,18 @@
   "tapas.guide.help": "Fastnat? Skriv till oss",
   "tapas.guide.back": "Tillbaka till Tapas-sidan",
   "tapas.creators.migrator": "Exportera från Tapas med migratorn",
-  "tapas.creators.guide": "Läs steg-för-steg-guiden"
+  "tapas.creators.guide": "Läs steg-för-steg-guiden",
+  "tapas.hero.display": "Ett nytt <accent>kapitel.</accent>",
+  "tapas.scene.doorAlt": "En sagoboksdörr i trä öppnas när du skrollar och visar Lunea som vinkar och Luca som välkomnar dig in i ett gyllene bibliotek.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Åh, där är du ju.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Vi har lämnat ljuset tänt åt dig.",
+  "tapas.scene.skip": "Hoppa över entrén",
+  "tapas.scene.scrollClosed": "Skrolla för att öppna dörren",
+  "tapas.scene.scrollOpen": "Kom in. Fortsätt skrolla.",
+  "tapas.art.packing": "Lunea sitter på en bänk bredvid en orolig kreatör som håller en bunt seriesidor, medan Luca packar fler sidor i en kartong.",
+  "tapas.art.creator": "En leende kreatör som håller en penna och ett pappersark.",
+  "tapas.art.sofa": "Luca och Lunea delar en bok i en lavendelfärgad soffa, med en hög berättelser som väntar intill.",
+  "tapas.art.universe": "Lunea höjer en gåspenna och Luca håller en surfplatta medan en uppslagen bok släpper ut ett slott i molnen, en futuristisk stad, en drake och en raket."
 }

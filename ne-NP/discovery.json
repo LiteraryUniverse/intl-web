@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Search for manga & comics",
   "discover.searchComic.description": "Search for manga and comics",
   "story.estimatedReadingTime.explainedCharacters": "प्रति मिनेट {avgReadingNum, number} अक्षरको पूर्वनिर्धारित पढ्ने गतिमा आधारित।",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "प्रति मिनेट {wpm, number} अक्षरको तपाईंको पढ्ने गतिमा आधारित।"
+  "story.estimatedReadingTime.explainedPersonalCharacters": "प्रति मिनेट {wpm, number} अक्षरको तपाईंको पढ्ने गतिमा आधारित।",
+  "discover.empty.title": "यहाँ अहिलेसम्म केही प्रकाशित भएको छैन। पहिलो बन्न चाहनुहुन्छ?",
+  "discover.empty.titleFiltered": "यो खोजीसँग अहिलेसम्म केही मेल खाँदैन। पहिलो बन्न चाहनुहुन्छ?",
+  "discover.empty.all.text": "कथा लेख्नुहोस् वा ब्रह्माण्ड बनाउनुहोस्, र पाठकहरूले यसलाई यहीँ भेट्टाउनेछन्।",
+  "discover.empty.all.cta": "लेख्न सुरु गर्नुहोस्",
+  "discover.empty.story.text": "कथा लेख्नुहोस्। प्रकाशित गरेपछि पाठकहरूले यसलाई यहीँ भेट्टाउनेछन्।",
+  "discover.empty.story.cta": "कथा लेख्न सुरु गर्नुहोस्",
+  "discover.empty.universe.text": "आफ्नै विश्वकोशसहितको संसार बनाउनुहोस्, र अरू लेखकहरूले आफ्ना कथाहरू त्यसैमा राख्न सक्नेछन्।",
+  "discover.empty.universe.cta": "ब्रह्माण्ड बनाउनुहोस्",
+  "discover.empty.audiobook.text": "कार्यशालामा आफ्नो कुनै कथा खोल्नुहोस् र त्यसमा अडियोबुक थप्नुहोस्।",
+  "discover.empty.audiobook.cta": "अडियोबुक थप्नुहोस्",
+  "discover.empty.comic.text": "आफ्ना पृष्ठहरू अपलोड गर्नुहोस्, र पाठकहरूले तपाईंको कमिक यहीँ भेट्टाउनेछन्।",
+  "discover.empty.comic.cta": "कमिक अपलोड गर्नुहोस्",
+  "discover.empty.allLanguages": "सबै भाषाका शीर्षकहरू देखाउनुहोस्"
 }

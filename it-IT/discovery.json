@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Cerca manga e fumetti",
   "discover.searchComic.description": "Cerca manga e fumetti",
   "story.estimatedReadingTime.explainedCharacters": "Stima basata su una velocità di lettura predefinita di {avgReadingNum, number} caratteri al minuto.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Stima basata sulla tua velocità di lettura di {wpm, number} caratteri al minuto."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Stima basata sulla tua velocità di lettura di {wpm, number} caratteri al minuto.",
+  "discover.empty.title": "Qui non è ancora stato pubblicato nulla. Vuoi essere il primo?",
+  "discover.empty.titleFiltered": "Ancora nulla corrisponde a questa ricerca. Vuoi essere il primo?",
+  "discover.empty.all.text": "Scrivi una storia o costruisci un universo, e i lettori lo troveranno qui.",
+  "discover.empty.all.cta": "Inizia a scrivere",
+  "discover.empty.story.text": "Scrivi una storia. Una volta pubblicata, i lettori la troveranno qui.",
+  "discover.empty.story.cta": "Inizia a scrivere una storia",
+  "discover.empty.universe.text": "Costruisci un mondo con la sua enciclopedia, e altri scrittori potranno ambientarvi le loro storie.",
+  "discover.empty.universe.cta": "Crea un universo",
+  "discover.empty.audiobook.text": "Apri una delle tue storie nel laboratorio e aggiungi un audiolibro.",
+  "discover.empty.audiobook.cta": "Aggiungi un audiolibro",
+  "discover.empty.comic.text": "Carica le tue tavole e i lettori troveranno qui il tuo fumetto.",
+  "discover.empty.comic.cta": "Carica un fumetto",
+  "discover.empty.allLanguages": "Mostra titoli in tutte le lingue"
 }

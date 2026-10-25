@@ -96,6 +96,7 @@
   "writer.play.transition": "Transiro",
   "writer.play.synopsis": "Resumo (ne montrata al legantoj)",
   "writer.play.pageBreak": "Paĝofino",
+  "writer.play.splitDualDialogue": "Disigi duoblan dialogon",
   "writer.play.dualDialogue": "Duobla dialogo",
   "writer.play.note": "Noto (ne montrata al legantoj)",
   "writer.play.boneyard": "Komentigi (ne montrata al legantoj)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Vidi aktivecon kiel tabelon",
   "writer.publish.insights.tableCaption": "Tipa aktiveco laŭ semajntago kaj horo",
   "writer.publish.insights.window": "Tempointervalo",
-  "writer.publish.insights.updated": "Kalkulita je {date, date, short} je la {date, time, short}."
+  "writer.publish.insights.updated": "Kalkulita je {date, date, short} je la {date, time, short}.",
+  "writer.play.insertTemplate": "Enmeti skriptan ŝablonon",
+  "writer.play.insert": "Enmeti skripton",
+  "writer.play.template.dialogue": "Rolulo kaj dialogo",
+  "writer.play.template.scene": "Sceno / scenindikoj",
+  "writer.play.placeholder.character": "Elektu rolulon aŭ tajpu nomon",
+  "writer.play.placeholder.dialogue": "Skribu la dialogon…",
+  "writer.play.placeholder.scene": "INT. / EKST. LOKO - TAGO / NOKTO",
+  "writer.play.placeholder.action": "Priskribu la agon aŭ la scenindikojn…",
+  "writer.play.placeholder.parenthetical": "(Kiel la frazo estas dirata)",
+  "writer.play.placeholder.transition": "TRANĈO AL:",
+  "writer.play.characterSuggestions.help": "Elektu rolulon aŭ tajpu novan nomon. Enter komencas la dialogon.",
+  "writer.play.notePlaceholder": "Skribu privatan noton…"
 }

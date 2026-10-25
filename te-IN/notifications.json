@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "జత నేపథ్యంలో కొత్త భాషను ఎంచుకోండి",
   "flashnews.onlyDisplayOn": "ఈ న్యూస్ ఇచ్చిన భాషలలో (అయినా మీరు ఏ అయినా ఎంచుకోవచ్చు) మాత్రమే ప్రదర్శించబడుతుంది, ఇతర భాషలలో అంటే ప్రముఖ భాషలో ఏ న్యూస్ కూడా కనబడదు.",
   "flashnews.current": "Active flashnews",
-  "notifications.menu.all": "అన్ని ప్రకటనలు",
+  "notifications.menu.all": "అన్ని నోటిఫికేషన్‌లు",
   "notifications.menu.following": "అనుసరించే వారు",
   "notifications.menu.workshop": "కార్యశాల",
   "notifications.menu.news": "న్యూస్ & అప్ డేట్స్",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Author summary",
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
-  "notifications.workflow.organization-billing": "Organization billing"
+  "notifications.workflow.organization-billing": "Organization billing",
+  "notifications.workflow.story-backup": "రచనల బ్యాకప్‌లు"
 }

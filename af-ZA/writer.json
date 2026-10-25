@@ -96,6 +96,7 @@
   "writer.play.transition": "Oorgang",
   "writer.play.synopsis": "Sinopsis (nie aan lesers gewys nie)",
   "writer.play.pageBreak": "Bladsybreuk",
+  "writer.play.splitDualDialogue": "Verdeel dubbele dialoog",
   "writer.play.dualDialogue": "Dubbele dialoog",
   "writer.play.note": "Nota (nie aan lesers gewys nie)",
   "writer.play.boneyard": "Uitkommentaar (nie aan lesers gewys nie)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Bekyk aktiwiteit as ’n tabel",
   "writer.publish.insights.tableCaption": "Tipiese aktiwiteit volgens dag van die week en uur",
   "writer.publish.insights.window": "Tydgleuf",
-  "writer.publish.insights.updated": "Bereken op {date, date, short} om {date, time, short}."
+  "writer.publish.insights.updated": "Bereken op {date, date, short} om {date, time, short}.",
+  "writer.play.insertTemplate": "Voeg skripsjabloon in",
+  "writer.play.insert": "Voeg skrip in",
+  "writer.play.template.dialogue": "Karakter en dialoog",
+  "writer.play.template.scene": "Toneel / toneelaanwysings",
+  "writer.play.placeholder.character": "Kies ’n karakter of tik ’n naam",
+  "writer.play.placeholder.dialogue": "Skryf die dialoog…",
+  "writer.play.placeholder.scene": "BINNE. / BUITE. PLEK - DAG / NAG",
+  "writer.play.placeholder.action": "Beskryf die aksie of toneelaanwysings…",
+  "writer.play.placeholder.parenthetical": "(Hoe die reël gesê word)",
+  "writer.play.placeholder.transition": "SNY NA:",
+  "writer.play.characterSuggestions.help": "Kies ’n karakter of tik ’n nuwe naam. Enter begin die dialoog.",
+  "writer.play.notePlaceholder": "Skryf ’n privaat nota…"
 }

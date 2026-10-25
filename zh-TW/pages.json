@@ -261,5 +261,18 @@
   "tapas.guide.help": "卡住了？寫信給我們",
   "tapas.guide.back": "回到 Tapas 頁面",
   "tapas.creators.migrator": "用搬家工具從 Tapas 匯出",
-  "tapas.creators.guide": "閱讀逐步指南"
+  "tapas.creators.guide": "閱讀逐步指南",
+  "tapas.hero.display": "全新的<accent>篇章。</accent>",
+  "tapas.scene.doorAlt": "隨著你向下捲動，一扇木製的故事書之門緩緩開啟，門後是揮著手的 Lunea，以及歡迎你走進金色圖書館的 Luca。",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "啊，你來了。",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "我們為你留了一盞燈。",
+  "tapas.scene.skip": "跳過入口",
+  "tapas.scene.scrollClosed": "捲動以開門",
+  "tapas.scene.scrollOpen": "快進來吧。繼續往下捲動。",
+  "tapas.art.packing": "Lunea 坐在長椅上，身旁是一位抱著一疊漫畫稿、神情擔憂的創作者，Luca 則把更多稿紙裝進紙箱。",
+  "tapas.art.creator": "一位面帶微笑、手拿鉛筆和一張紙的創作者。",
+  "tapas.art.sofa": "Luca 和 Lunea 在薰衣草色的沙發上共讀一本書，旁邊還有一疊故事等著他們。",
+  "tapas.art.universe": "Lunea 舉起羽毛筆，Luca 拿著平板，一本翻開的書中飛出雲端城堡、未來城市、一條龍和一枚火箭。"
 }

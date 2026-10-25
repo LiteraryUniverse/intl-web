@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "作者摘要",
   "notifications.workflow.readerSummary": "閱讀摘要",
   "notifications.workflow.taskReminders": "任務提醒",
-  "notifications.workflow.organization-billing": "組織帳務"
+  "notifications.workflow.organization-billing": "組織帳務",
+  "notifications.workflow.story-backup": "寫作備份"
 }

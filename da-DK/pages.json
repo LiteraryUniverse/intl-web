@@ -261,5 +261,18 @@
   "tapas.guide.help": "Sidder du fast? Skriv til os",
   "tapas.guide.back": "Tilbage til Tapas-siden",
   "tapas.creators.migrator": "Eksportér fra Tapas med migratoren",
-  "tapas.creators.guide": "Læs trin for trin-vejledningen"
+  "tapas.creators.guide": "Læs trin for trin-vejledningen",
+  "tapas.hero.display": "Et nyt <accent>kapitel.</accent>",
+  "tapas.scene.doorAlt": "En eventyrbogsdør af træ åbner sig, mens du scroller, og afslører Lunea, der vinker, og Luca, der byder dig velkommen ind i et gyldent bibliotek.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Nå, der er du jo.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Vi har ladet lyset være tændt til dig.",
+  "tapas.scene.skip": "Spring indgangen over",
+  "tapas.scene.scrollClosed": "Scroll for at åbne døren",
+  "tapas.scene.scrollOpen": "Kom indenfor. Bliv ved med at scrolle.",
+  "tapas.art.packing": "Lunea sidder på en bænk ved siden af en bekymret skaber, der holder en stak tegneseriesider, mens Luca pakker flere sider ned i en papkasse.",
+  "tapas.art.creator": "En smilende skaber med en blyant og et ark papir.",
+  "tapas.art.sofa": "Luca og Lunea deler en bog i en lavendelfarvet sofa med en stak historier, der venter i nærheden.",
+  "tapas.art.universe": "Lunea løfter en fjerpen, og Luca holder en tablet, mens en åben bog sender et slot i skyerne, en futuristisk by, en drage og en raket ud."
 }

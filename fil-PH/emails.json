@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Update sa status ng kwento",
   "email.storyStatus.intro": "May pagbabago sa status ng iyong kwento.",
   "email.storyStatus.why": "Narito ang nangyari at kung bakit:",
-  "email.storyStatus.next": "Ano ang susunod na mangyayari:"
+  "email.storyStatus.next": "Ano ang susunod na mangyayari:",
+  "email.backup.subject": "Ang iyong backup para sa “{storyTitle}”",
+  "email.backup.intro": "Narito ang iyong naka-iskedyul na backup para sa “{storyTitle}”.",
+  "email.backup.formats": "Mga naka-attach na file: {formats}",
+  "email.backup.footer": "Pamahalaan o i-off ang mga naka-iskedyul na backup sa Gawain ng iyong kwento."
 }

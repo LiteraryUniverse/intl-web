@@ -96,6 +96,7 @@
   "writer.play.transition": "Üleminek",
   "writer.play.synopsis": "Sünopsis (lugejatele ei kuvata)",
   "writer.play.pageBreak": "Lehepiir",
+  "writer.play.splitDualDialogue": "Jaga topeltdialoog",
   "writer.play.dualDialogue": "Paralleeldialoog",
   "writer.play.note": "Märkus (lugejatele ei kuvata)",
   "writer.play.boneyard": "Kommenteeri välja (lugejatele ei kuvata)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Vaata tegevust tabelina",
   "writer.publish.insights.tableCaption": "Tüüpiline tegevus nädalapäeva ja tunni kaupa",
   "writer.publish.insights.window": "Ajavahemik",
-  "writer.publish.insights.updated": "Arvutatud {date, date, short} kell {date, time, short}."
+  "writer.publish.insights.updated": "Arvutatud {date, date, short} kell {date, time, short}.",
+  "writer.play.insertTemplate": "Lisa stsenaariumi mall",
+  "writer.play.insert": "Lisa stsenaarium",
+  "writer.play.template.dialogue": "Tegelane ja dialoog",
+  "writer.play.template.scene": "Stseen / lavasuunised",
+  "writer.play.placeholder.character": "Vali tegelane või sisesta nimi",
+  "writer.play.placeholder.dialogue": "Kirjuta dialoog…",
+  "writer.play.placeholder.scene": "INT. / EXT. ASUKOHT - PÄEV / ÖÖ",
+  "writer.play.placeholder.action": "Kirjelda tegevust või lavasuuniseid…",
+  "writer.play.placeholder.parenthetical": "(Kuidas repliiki öeldakse)",
+  "writer.play.placeholder.transition": "LÕIGE:",
+  "writer.play.characterSuggestions.help": "Vali tegelane või sisesta uus nimi. Enter alustab dialoogi.",
+  "writer.play.notePlaceholder": "Kirjuta privaatne märkus…"
 }

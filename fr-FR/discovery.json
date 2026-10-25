@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Rechercher des mangas et comics",
   "discover.searchComic.description": "Rechercher des mangas et des comics",
   "story.estimatedReadingTime.explainedCharacters": "Estimation basée sur une vitesse de lecture par défaut de {avgReadingNum, number} caractères par minute.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Estimation basée sur votre vitesse de lecture de {wpm, number} caractères par minute."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Estimation basée sur votre vitesse de lecture de {wpm, number} caractères par minute.",
+  "discover.empty.title": "Rien n’a encore été publié ici. Envie d’être le premier ?",
+  "discover.empty.titleFiltered": "Rien ne correspond encore à cette recherche. Envie d’être le premier ?",
+  "discover.empty.all.text": "Écrivez une histoire ou bâtissez un univers, et les lecteurs le trouveront ici.",
+  "discover.empty.all.cta": "Commencer à écrire",
+  "discover.empty.story.text": "Écrivez une histoire. Une fois publiée, les lecteurs la trouveront ici.",
+  "discover.empty.story.cta": "Commencer à écrire une histoire",
+  "discover.empty.universe.text": "Bâtissez un monde doté de sa propre encyclopédie, et d’autres auteurs pourront y situer leurs histoires.",
+  "discover.empty.universe.cta": "Créer un univers",
+  "discover.empty.audiobook.text": "Ouvrez l’une de vos histoires dans l’atelier et ajoutez-y un livre audio.",
+  "discover.empty.audiobook.cta": "Ajouter un livre audio",
+  "discover.empty.comic.text": "Téléversez vos planches et les lecteurs trouveront votre bande dessinée ici.",
+  "discover.empty.comic.cta": "Téléverser une bande dessinée",
+  "discover.empty.allLanguages": "Afficher les titres dans toutes les langues"
 }

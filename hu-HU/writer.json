@@ -96,6 +96,7 @@
   "writer.play.transition": "Átvezetés",
   "writer.play.synopsis": "Szinopszis (az olvasók nem látják)",
   "writer.play.pageBreak": "Oldaltörés",
+  "writer.play.splitDualDialogue": "Kettős párbeszéd szétválasztása",
   "writer.play.dualDialogue": "Párhuzamos párbeszéd",
   "writer.play.note": "Jegyzet (az olvasók nem látják)",
   "writer.play.boneyard": "Kikommentelés (az olvasók nem látják)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Tevékenység megtekintése táblázatként",
   "writer.publish.insights.tableCaption": "Jellemző tevékenység a hét napja és óra szerint",
   "writer.publish.insights.window": "Időszak",
-  "writer.publish.insights.updated": "Kiszámítva: {date, date, short}, {date, time, short}."
+  "writer.publish.insights.updated": "Kiszámítva: {date, date, short}, {date, time, short}.",
+  "writer.play.insertTemplate": "Szkriptsablon beszúrása",
+  "writer.play.insert": "Szkript beszúrása",
+  "writer.play.template.dialogue": "Szereplő és párbeszéd",
+  "writer.play.template.scene": "Jelenet / rendezői utasítások",
+  "writer.play.placeholder.character": "Válassz szereplőt, vagy írj be egy nevet",
+  "writer.play.placeholder.dialogue": "Írd meg a párbeszédet…",
+  "writer.play.placeholder.scene": "INT. / EXT. HELYSZÍN - NAPPAL / ÉJSZAKA",
+  "writer.play.placeholder.action": "Írd le a cselekményt vagy a rendezői utasításokat…",
+  "writer.play.placeholder.parenthetical": "(Hogyan hangzik el a mondat)",
+  "writer.play.placeholder.transition": "VÁGÁS:",
+  "writer.play.characterSuggestions.help": "Válassz szereplőt, vagy írj be egy új nevet. Az Enter elindítja a párbeszédet.",
+  "writer.play.notePlaceholder": "Írj egy privát jegyzetet…"
 }

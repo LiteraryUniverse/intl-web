@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Sök manga och serier",
   "discover.searchComic.description": "Sök efter manga och serier",
   "story.estimatedReadingTime.explainedCharacters": "Baserat på en standardläshastighet på {avgReadingNum, number} tecken per minut.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Baserat på din läshastighet på {wpm, number} tecken per minut."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Baserat på din läshastighet på {wpm, number} tecken per minut.",
+  "discover.empty.title": "Inget har publicerats här än. Vill du bli först?",
+  "discover.empty.titleFiltered": "Inget matchar den här sökningen än. Vill du bli först?",
+  "discover.empty.all.text": "Skriv en berättelse eller bygg ett universum, så hittar läsarna det här.",
+  "discover.empty.all.cta": "Börja skriva",
+  "discover.empty.story.text": "Skriv en berättelse. När du har publicerat den hittar läsarna den här.",
+  "discover.empty.story.cta": "Börja skriva en berättelse",
+  "discover.empty.universe.text": "Bygg en värld med en egen encyklopedi, så kan andra författare låta sina berättelser utspela sig i den.",
+  "discover.empty.universe.cta": "Skapa ett universum",
+  "discover.empty.audiobook.text": "Öppna en av dina berättelser i verkstaden och lägg till en ljudbok.",
+  "discover.empty.audiobook.cta": "Lägg till en ljudbok",
+  "discover.empty.comic.text": "Ladda upp dina sidor, så hittar läsarna din serie här.",
+  "discover.empty.comic.cta": "Ladda upp en serie",
+  "discover.empty.allLanguages": "Visa titlar på alla språk"
 }

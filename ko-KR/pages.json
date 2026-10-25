@@ -261,5 +261,18 @@
   "tapas.guide.help": "막히셨나요? 저희에게 알려 주세요",
   "tapas.guide.back": "Tapas 페이지로 돌아가기",
   "tapas.creators.migrator": "이전 도구로 Tapas에서 내보내기",
-  "tapas.creators.guide": "단계별 안내서 읽기"
+  "tapas.creators.guide": "단계별 안내서 읽기",
+  "tapas.hero.display": "새로운 <accent>장</accent>을 열다.",
+  "tapas.scene.doorAlt": "스크롤하면 나무로 된 동화책 문이 열리며, 손을 흔드는 Lunea와 황금빛 도서관으로 당신을 맞이하는 Luca가 나타납니다.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "아, 오셨네요!",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "당신을 위해 불을 켜 두었어요.",
+  "tapas.scene.skip": "입장 건너뛰기",
+  "tapas.scene.scrollClosed": "스크롤해서 문 열기",
+  "tapas.scene.scrollOpen": "어서 들어오세요. 계속 스크롤하세요.",
+  "tapas.art.packing": "만화 원고 한 뭉치를 든 걱정스러운 창작자 옆 벤치에 Lunea가 앉아 있고, Luca는 원고를 더 골판지 상자에 담고 있습니다.",
+  "tapas.art.creator": "연필과 종이 한 장을 들고 미소 짓는 창작자.",
+  "tapas.art.sofa": "라벤더색 소파에서 Luca와 Lunea가 책 한 권을 함께 보고 있고, 근처에는 이야기 더미가 기다리고 있습니다.",
+  "tapas.art.universe": "Lunea는 깃펜을 들어 올리고 Luca는 태블릿을 들고 있으며, 펼쳐진 책에서 구름 위의 성, 미래 도시, 용, 로켓이 솟아오릅니다."
 }

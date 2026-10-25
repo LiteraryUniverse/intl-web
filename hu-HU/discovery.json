@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Manga és képregény keresése",
   "discover.searchComic.description": "Manga és képregény keresése",
   "story.estimatedReadingTime.explainedCharacters": "A percenkénti {avgReadingNum, number} karakteres alapértelmezett olvasási sebesség alapján.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "A percenkénti {wpm, number} karakteres olvasási sebességed alapján."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "A percenkénti {wpm, number} karakteres olvasási sebességed alapján.",
+  "discover.empty.title": "Itt még semmi sem jelent meg. Szeretnél az első lenni?",
+  "discover.empty.titleFiltered": "Erre a keresésre még semmi sem illik. Szeretnél az első lenni?",
+  "discover.empty.all.text": "Írj egy történetet vagy építs egy univerzumot, és az olvasók itt fogják megtalálni.",
+  "discover.empty.all.cta": "Kezdj el írni",
+  "discover.empty.story.text": "Írj egy történetet. Amint közzéteszed, az olvasók itt megtalálják.",
+  "discover.empty.story.cta": "Kezdj bele egy történetbe",
+  "discover.empty.universe.text": "Építs egy világot saját enciklopédiával, és más írók is abban játszathatják a történeteiket.",
+  "discover.empty.universe.cta": "Univerzum létrehozása",
+  "discover.empty.audiobook.text": "Nyisd meg az egyik történetedet a műhelyben, és adj hozzá hangoskönyvet.",
+  "discover.empty.audiobook.cta": "Hangoskönyv hozzáadása",
+  "discover.empty.comic.text": "Töltsd fel az oldalaidat, és az olvasók itt megtalálják a képregényedet.",
+  "discover.empty.comic.cta": "Képregény feltöltése",
+  "discover.empty.allLanguages": "Címek megjelenítése minden nyelven"
 }

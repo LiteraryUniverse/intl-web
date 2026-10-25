@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "Dílo ({format}) bude označeno jako dokončené dne {date}, až vyjde jeho poslední naplánovaná kapitola.",
   "comics.reader.loading": "Komiks",
   "comics.translation.mode.label": "Režim: {mode}",
-  "comics.pagesCount": "{count, plural, one {# stránka} few {# stránky} many {# stránky} other {# stránek}}"
+  "comics.pagesCount": "{count, plural, one {# stránka} few {# stránky} many {# stránky} other {# stránek}}",
+  "comics.import.preparing": "Načítání exportu komiksu…",
+  "comics.import.invalid": "Tento ZIP není úplný export komiksu z Tapas. Vyberte ze svého exportu ZIP lu-import.",
+  "comics.import.tooLarge": "Tato kapitola komiksu je pro import příliš velká. Rozdělte ji na menší kapitoly a zkuste to znovu.",
+  "comics.import.failed": "Komiks se nepodařilo importovat. Kapitoly a nahrané soubory z tohoto pokusu byly odstraněny. Zkuste to znovu.",
+  "comics.import.cleanupFailed": "Import se zastavil a některé nové kapitoly nebo nahrané soubory se nepodařilo odstranit. Než to zkusíte znovu, zkontrolujte svůj komiks."
 }

@@ -261,5 +261,18 @@
   "tapas.guide.help": "Užstrigote? Parašykite mums",
   "tapas.guide.back": "Grįžti į Tapas puslapį",
   "tapas.creators.migrator": "Eksportuoti iš Tapas su migratoriumi",
-  "tapas.creators.guide": "Skaityti vadovą žingsnis po žingsnio"
+  "tapas.creators.guide": "Skaityti vadovą žingsnis po žingsnio",
+  "tapas.hero.display": "Naujas <accent>skyrius.</accent>",
+  "tapas.scene.doorAlt": "Jums slenkant atsiveria medinės pasakų knygos durys, už kurių mojuoja Lunea, o Luca kviečia jus į auksinę biblioteką.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "O, štai ir jūs.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Palikome jums įjungtą šviesą.",
+  "tapas.scene.skip": "Praleisti įžangą",
+  "tapas.scene.scrollClosed": "Slinkite, kad atvertumėte duris",
+  "tapas.scene.scrollOpen": "Užeikite. Slinkite toliau.",
+  "tapas.art.packing": "Lunea sėdi ant suolo šalia susirūpinusio kūrėjo, laikančio krūvą komikso puslapių, o Luca deda daugiau puslapių į kartoninę dėžę.",
+  "tapas.art.creator": "Besišypsantis kūrėjas su pieštuku ir popieriaus lapu.",
+  "tapas.art.sofa": "Luca ir Lunea kartu skaito knygą ant levandų spalvos sofos, o šalia laukia krūva istorijų.",
+  "tapas.art.universe": "Lunea iškėlusi plunksną, o Luca laiko planšetę, kai iš atverstos knygos išnyra pilis debesyse, futuristinis miestas, drakonas ir raketa."
 }

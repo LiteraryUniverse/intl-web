@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Статус истории изменился",
   "email.storyStatus.intro": "Статус вашей истории изменился.",
   "email.storyStatus.why": "Вот что произошло и почему:",
-  "email.storyStatus.next": "Что будет дальше:"
+  "email.storyStatus.next": "Что будет дальше:",
+  "email.backup.subject": "Ваша резервная копия истории «{storyTitle}»",
+  "email.backup.intro": "Вот запланированная резервная копия истории «{storyTitle}».",
+  "email.backup.formats": "Вложенные файлы: {formats}",
+  "email.backup.footer": "Управлять запланированными резервными копиями или отключить их можно в Мастерской вашей истории."
 }

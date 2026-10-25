@@ -96,6 +96,7 @@
   "writer.play.transition": "מעבר",
   "writer.play.synopsis": "תקציר (לא מוצג לקוראים)",
   "writer.play.pageBreak": "מעבר עמוד",
+  "writer.play.splitDualDialogue": "פיצול דיאלוג כפול",
   "writer.play.dualDialogue": "דיאלוג כפול",
   "writer.play.note": "הערה (לא מוצגת לקוראים)",
   "writer.play.boneyard": "הפיכה להערה (לא מוצג לקוראים)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "הצגת הפעילות כטבלה",
   "writer.publish.insights.tableCaption": "פעילות אופיינית לפי יום בשבוע ושעה",
   "writer.publish.insights.window": "חלון זמן",
-  "writer.publish.insights.updated": "חושב בתאריך {date, date, short} בשעה {date, time, short}."
+  "writer.publish.insights.updated": "חושב בתאריך {date, date, short} בשעה {date, time, short}.",
+  "writer.play.insertTemplate": "הוספת תבנית תסריט",
+  "writer.play.insert": "הוספת תסריט",
+  "writer.play.template.dialogue": "דמות ודיאלוג",
+  "writer.play.template.scene": "סצנה / הוראות בימוי",
+  "writer.play.placeholder.character": "בחרו דמות או הקלידו שם",
+  "writer.play.placeholder.dialogue": "כתבו את הדיאלוג…",
+  "writer.play.placeholder.scene": "פנים. / חוץ. מיקום - יום / לילה",
+  "writer.play.placeholder.action": "תארו את הפעולה או את הוראות הבימוי…",
+  "writer.play.placeholder.parenthetical": "(איך השורה נאמרת)",
+  "writer.play.placeholder.transition": "קאט אל:",
+  "writer.play.characterSuggestions.help": "בחרו דמות או הקלידו שם חדש. Enter מתחיל את הדיאלוג.",
+  "writer.play.notePlaceholder": "כתבו הערה פרטית…"
 }

@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Podsumowanie autora",
   "notifications.workflow.readerSummary": "Podsumowanie czytania",
   "notifications.workflow.taskReminders": "Przypomnienia o zadaniach",
-  "notifications.workflow.organization-billing": "Rozliczenia organizacji"
+  "notifications.workflow.organization-billing": "Rozliczenia organizacji",
+  "notifications.workflow.story-backup": "Kopie zapasowe tekstów"
 }

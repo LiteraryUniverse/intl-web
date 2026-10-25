@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Resum de l'autor",
   "notifications.workflow.readerSummary": "Resum de lectura",
   "notifications.workflow.taskReminders": "Recordatoris de tasques",
-  "notifications.workflow.organization-billing": "Facturació de l'organització"
+  "notifications.workflow.organization-billing": "Facturació de l'organització",
+  "notifications.workflow.story-backup": "Còpies de seguretat dels teus escrits"
 }

@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Cerca manga i còmics",
   "discover.searchComic.description": "Cerca manga i còmics",
   "story.estimatedReadingTime.explainedCharacters": "Basat en una velocitat de lectura predeterminada de {avgReadingNum, number} caràcters per minut.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Basat en la teva velocitat de lectura de {wpm, number} caràcters per minut."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Basat en la teva velocitat de lectura de {wpm, number} caràcters per minut.",
+  "discover.empty.title": "Encara no s’ha publicat res aquí. Vols ser el primer?",
+  "discover.empty.titleFiltered": "Encara no hi ha res que coincideixi amb aquesta cerca. Vols ser el primer?",
+  "discover.empty.all.text": "Escriu una història o construeix un univers, i els lectors el trobaran aquí.",
+  "discover.empty.all.cta": "Comença a escriure",
+  "discover.empty.story.text": "Escriu una història. Quan la publiquis, els lectors la trobaran aquí.",
+  "discover.empty.story.cta": "Comença a escriure una història",
+  "discover.empty.universe.text": "Construeix un món amb la seva pròpia enciclopèdia, i altres escriptors hi podran ambientar les seves històries.",
+  "discover.empty.universe.cta": "Crea un univers",
+  "discover.empty.audiobook.text": "Obre una de les teves històries al taller i afegeix-hi un audiollibre.",
+  "discover.empty.audiobook.cta": "Afegeix un audiollibre",
+  "discover.empty.comic.text": "Puja les teves pàgines i els lectors trobaran el teu còmic aquí.",
+  "discover.empty.comic.cta": "Puja un còmic",
+  "discover.empty.allLanguages": "Mostra títols en tots els idiomes"
 }

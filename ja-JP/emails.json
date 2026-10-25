@@ -247,5 +247,9 @@
   "email.storyStatus.title": "物語のステータス更新",
   "email.storyStatus.intro": "あなたの物語のステータスが変更されました。",
   "email.storyStatus.why": "何が起きたのか、その理由は次のとおりです:",
-  "email.storyStatus.next": "今後の流れ:"
+  "email.storyStatus.next": "今後の流れ:",
+  "email.backup.subject": "「{storyTitle}」のバックアップ",
+  "email.backup.intro": "「{storyTitle}」の定期バックアップをお届けします。",
+  "email.backup.formats": "添付ファイル：{formats}",
+  "email.backup.footer": "定期バックアップの管理や停止は、物語のワークショップで行えます。"
 }

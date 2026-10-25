@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Neuer Status deiner Geschichte",
   "email.storyStatus.intro": "Der Status deiner Geschichte hat sich geändert.",
   "email.storyStatus.why": "Das ist passiert, und das ist der Grund:",
-  "email.storyStatus.next": "So geht es weiter:"
+  "email.storyStatus.next": "So geht es weiter:",
+  "email.backup.subject": "Ihr Backup für „{storyTitle}“",
+  "email.backup.intro": "Hier ist Ihr geplantes Backup für „{storyTitle}“.",
+  "email.backup.formats": "Angehängte Dateien: {formats}",
+  "email.backup.footer": "In der Werkstatt Ihrer Geschichte können Sie geplante Backups verwalten oder deaktivieren."
 }

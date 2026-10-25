@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format}টি {date} তারিখে, এর শেষ নির্ধারিত অধ্যায় প্রকাশিত হলে, সম্পন্ন হিসেবে চিহ্নিত হবে।",
   "comics.reader.loading": "কমিক্স",
   "comics.translation.mode.label": "মোড: {mode}",
-  "comics.pagesCount": "{count, plural, one {#টি পৃষ্ঠা} other {#টি পৃষ্ঠা}}"
+  "comics.pagesCount": "{count, plural, one {#টি পৃষ্ঠা} other {#টি পৃষ্ঠা}}",
+  "comics.import.preparing": "কমিকস এক্সপোর্ট পড়া হচ্ছে…",
+  "comics.import.invalid": "এই ZIP একটি সম্পূর্ণ Tapas কমিকস এক্সপোর্ট নয়। আপনার এক্সপোর্ট থেকে lu-import ZIP-টি বেছে নিন।",
+  "comics.import.tooLarge": "এই কমিকস অধ্যায়টি আমদানি করার জন্য খুব বড়। এটিকে ছোট ছোট অধ্যায়ে ভাগ করে আবার চেষ্টা করুন।",
+  "comics.import.failed": "কমিকসটি আমদানি করা যায়নি। এই চেষ্টার অধ্যায় ও আপলোডগুলো সরিয়ে ফেলা হয়েছে। আবার চেষ্টা করুন।",
+  "comics.import.cleanupFailed": "আমদানি থেমে গেছে এবং কিছু নতুন অধ্যায় বা আপলোড সরানো যায়নি। আবার চেষ্টা করার আগে আপনার কমিকসটি দেখে নিন।"
 }

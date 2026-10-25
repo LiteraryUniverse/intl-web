@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Сводка автора",
   "notifications.workflow.readerSummary": "Сводка чтения",
   "notifications.workflow.taskReminders": "Напоминания о задачах",
-  "notifications.workflow.organization-billing": "Оплата организации"
+  "notifications.workflow.organization-billing": "Оплата организации",
+  "notifications.workflow.story-backup": "Резервные копии текстов"
 }

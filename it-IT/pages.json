@@ -261,5 +261,18 @@
   "tapas.guide.help": "Bloccato? Scrivici",
   "tapas.guide.back": "Torna alla pagina su Tapas",
   "tapas.creators.migrator": "Esporta da Tapas con il migratore",
-  "tapas.creators.guide": "Leggi la guida passo dopo passo"
+  "tapas.creators.guide": "Leggi la guida passo dopo passo",
+  "tapas.hero.display": "Un nuovo <accent>capitolo.</accent>",
+  "tapas.scene.doorAlt": "Una porta di legno da libro di fiabe si apre mentre scorri, rivelando Lunea che saluta con la mano e Luca che ti accoglie in una biblioteca dorata.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Oh, eccoti qui.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Ti abbiamo lasciato la luce accesa.",
+  "tapas.scene.skip": "Salta l’ingresso",
+  "tapas.scene.scrollClosed": "Scorri per aprire la porta",
+  "tapas.scene.scrollOpen": "Entra pure. Continua a scorrere.",
+  "tapas.art.packing": "Lunea è seduta su una panchina accanto a un creatore preoccupato che tiene in mano una pila di tavole a fumetti, mentre Luca mette altre tavole in una scatola di cartone.",
+  "tapas.art.creator": "Un creatore sorridente con in mano una matita e un foglio di carta.",
+  "tapas.art.sofa": "Luca e Lunea condividono un libro su un divano color lavanda, con una pila di storie che aspetta lì vicino.",
+  "tapas.art.universe": "Lunea solleva una penna d’oca e Luca tiene un tablet mentre da un libro aperto escono un castello tra le nuvole, una città futuristica, un drago e un razzo."
 }

@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "L'œuvre ({format}) sera marquée comme terminée le {date}, à la sortie de son dernier chapitre programmé.",
   "comics.reader.loading": "BD",
   "comics.translation.mode.label": "Mode : {mode}",
-  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}",
+  "comics.import.preparing": "Lecture de l’export de la bande dessinée…",
+  "comics.import.invalid": "Ce ZIP n’est pas un export complet de bande dessinée Tapas. Choisissez le ZIP lu-import de votre export.",
+  "comics.import.tooLarge": "Ce chapitre de bande dessinée est trop volumineux pour être importé. Divisez-le en chapitres plus petits et réessayez.",
+  "comics.import.failed": "La bande dessinée n’a pas pu être importée. Les chapitres et les fichiers téléversés lors de cette tentative ont été supprimés. Réessayez.",
+  "comics.import.cleanupFailed": "L’importation s’est arrêtée et certains nouveaux chapitres ou fichiers téléversés n’ont pas pu être supprimés. Vérifiez votre bande dessinée avant de réessayer."
 }

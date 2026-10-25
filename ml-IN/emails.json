@@ -247,5 +247,9 @@
   "email.storyStatus.title": "കഥയുടെ നിലയിലെ പുതുക്കൽ",
   "email.storyStatus.intro": "നിങ്ങളുടെ കഥയുടെ നിലയിൽ ഒരു മാറ്റം വന്നിട്ടുണ്ട്.",
   "email.storyStatus.why": "എന്താണ് സംഭവിച്ചതെന്നും എന്തുകൊണ്ടെന്നും ഇതാ:",
-  "email.storyStatus.next": "ഇനി സംഭവിക്കുന്നത്:"
+  "email.storyStatus.next": "ഇനി സംഭവിക്കുന്നത്:",
+  "email.backup.subject": "“{storyTitle}” എന്നതിനുള്ള നിങ്ങളുടെ ബാക്കപ്പ്",
+  "email.backup.intro": "“{storyTitle}” എന്നതിനായി ഷെഡ്യൂൾ ചെയ്ത നിങ്ങളുടെ ബാക്കപ്പ് ഇതാ.",
+  "email.backup.formats": "അറ്റാച്ച് ചെയ്ത ഫയലുകൾ: {formats}",
+  "email.backup.footer": "ഷെഡ്യൂൾ ചെയ്ത ബാക്കപ്പുകൾ നിങ്ങളുടെ കഥയുടെ പ്രവർത്തനശാലയിൽ നിയന്ത്രിക്കുകയോ ഓഫാക്കുകയോ ചെയ്യാം."
 }

@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Riepilogo per autori",
   "notifications.workflow.readerSummary": "Riepilogo di lettura",
   "notifications.workflow.taskReminders": "Promemoria delle attività",
-  "notifications.workflow.organization-billing": "Fatturazione dell'organizzazione"
+  "notifications.workflow.organization-billing": "Fatturazione dell'organizzazione",
+  "notifications.workflow.story-backup": "Backup dei tuoi scritti"
 }

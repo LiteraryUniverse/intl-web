@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "El {format} se marcará como completado el {date}, cuando se publique su último capítulo programado.",
   "comics.reader.loading": "Cómic",
   "comics.translation.mode.label": "Modo: {mode}",
-  "comics.pagesCount": "{count, plural, one {# página} other {# páginas}}"
+  "comics.pagesCount": "{count, plural, one {# página} other {# páginas}}",
+  "comics.import.preparing": "Leyendo la exportación del cómic…",
+  "comics.import.invalid": "Este ZIP no es una exportación completa de un cómic de Tapas. Elige el ZIP lu-import de tu exportación.",
+  "comics.import.tooLarge": "Este capítulo del cómic es demasiado grande para importarlo. Divídelo en capítulos más pequeños e inténtalo de nuevo.",
+  "comics.import.failed": "No se ha podido importar el cómic. Se han eliminado los capítulos y los archivos subidos en este intento. Inténtalo de nuevo.",
+  "comics.import.cleanupFailed": "La importación se ha detenido y no se han podido eliminar algunos capítulos o archivos subidos nuevos. Revisa tu cómic antes de volver a intentarlo."
 }

@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "作者サマリー",
   "notifications.workflow.readerSummary": "読書サマリー",
   "notifications.workflow.taskReminders": "タスクのリマインダー",
-  "notifications.workflow.organization-billing": "組織の請求"
+  "notifications.workflow.organization-billing": "組織の請求",
+  "notifications.workflow.story-backup": "執筆バックアップ"
 }

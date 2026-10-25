@@ -116,5 +116,18 @@
   "discover.searchComic.title": "マンガ・コミックを検索",
   "discover.searchComic.description": "マンガとコミックを検索",
   "story.estimatedReadingTime.explainedCharacters": "既定の読書速度（毎分{avgReadingNum, number}文字）に基づいています。",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "あなたの読書速度（毎分{wpm, number}文字）に基づいています。"
+  "story.estimatedReadingTime.explainedPersonalCharacters": "あなたの読書速度（毎分{wpm, number}文字）に基づいています。",
+  "discover.empty.title": "ここにはまだ公開された作品がありません。最初の一人になりませんか？",
+  "discover.empty.titleFiltered": "この検索に一致する作品はまだありません。最初の一人になりませんか？",
+  "discover.empty.all.text": "物語を書くか宇宙を築けば、読者がここで見つけてくれます。",
+  "discover.empty.all.cta": "書き始める",
+  "discover.empty.story.text": "物語を書きましょう。公開すれば、読者がここで見つけてくれます。",
+  "discover.empty.story.cta": "物語を書き始める",
+  "discover.empty.universe.text": "独自の百科事典を備えた世界を築けば、他の作家がその世界を舞台に物語を書けます。",
+  "discover.empty.universe.cta": "宇宙を作成",
+  "discover.empty.audiobook.text": "ワークショップで自分の物語を開き、オーディオブックを追加しましょう。",
+  "discover.empty.audiobook.cta": "オーディオブックを追加",
+  "discover.empty.comic.text": "ページをアップロードすれば、読者がここであなたのコミックを見つけてくれます。",
+  "discover.empty.comic.cta": "コミックをアップロード",
+  "discover.empty.allLanguages": "すべての言語の作品を表示"
 }

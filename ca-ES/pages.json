@@ -261,5 +261,18 @@
   "tapas.guide.help": "T'has encallat? Escriu-nos",
   "tapas.guide.back": "Torna a la pàgina de Tapas",
   "tapas.creators.migrator": "Exporta de Tapas amb el migrador",
-  "tapas.creators.guide": "Llegeix la guia pas a pas"
+  "tapas.creators.guide": "Llegeix la guia pas a pas",
+  "tapas.hero.display": "Un nou <accent>capítol.</accent>",
+  "tapas.scene.doorAlt": "Una porta de fusta de llibre de contes s’obre mentre et desplaces i deixa veure Lunea saludant amb la mà i Luca donant-te la benvinguda a una biblioteca daurada.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Oh, ja ets aquí.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "T’hem deixat el llum encès.",
+  "tapas.scene.skip": "Salta l’entrada",
+  "tapas.scene.scrollClosed": "Desplaça’t per obrir la porta",
+  "tapas.scene.scrollOpen": "Endavant, passa. Continua desplaçant-te.",
+  "tapas.art.packing": "Lunea seu en un banc al costat d’un creador preocupat que sosté una pila de pàgines de còmic, mentre Luca posa més pàgines en una caixa de cartró.",
+  "tapas.art.creator": "Un creador somrient que sosté un llapis i un full de paper.",
+  "tapas.art.sofa": "Luca i Lunea comparteixen un llibre en un sofà de color lavanda, amb una pila d’històries esperant a prop.",
+  "tapas.art.universe": "Lunea alça una ploma i Luca sosté una tauleta mentre d’un llibre obert en surten un castell als núvols, una ciutat futurista, un drac i un coet."
 }

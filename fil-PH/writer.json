@@ -96,6 +96,7 @@
   "writer.play.transition": "Transition",
   "writer.play.synopsis": "Synopsis (hindi ipinapakita sa mga mambabasa)",
   "writer.play.pageBreak": "Page break",
+  "writer.play.splitDualDialogue": "Hatiin ang dual dialogue",
   "writer.play.dualDialogue": "Dual dialogue",
   "writer.play.note": "Tala (hindi ipinapakita sa mga mambabasa)",
   "writer.play.boneyard": "I-comment out (hindi ipinapakita sa mga mambabasa)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Tingnan ang aktibidad bilang talahanayan",
   "writer.publish.insights.tableCaption": "Karaniwang aktibidad ayon sa araw ng linggo at oras",
   "writer.publish.insights.window": "Saklaw ng oras",
-  "writer.publish.insights.updated": "Kinalkula noong {date, date, short} sa {date, time, short}."
+  "writer.publish.insights.updated": "Kinalkula noong {date, date, short} sa {date, time, short}.",
+  "writer.play.insertTemplate": "Maglagay ng template ng script",
+  "writer.play.insert": "Maglagay ng script",
+  "writer.play.template.dialogue": "Tauhan at dialogue",
+  "writer.play.template.scene": "Eksena / stage direction",
+  "writer.play.placeholder.character": "Pumili ng tauhan o mag-type ng pangalan",
+  "writer.play.placeholder.dialogue": "Isulat ang dialogue…",
+  "writer.play.placeholder.scene": "INT. / EXT. LOKASYON - ARAW / GABI",
+  "writer.play.placeholder.action": "Ilarawan ang aksyon o mga stage direction…",
+  "writer.play.placeholder.parenthetical": "(Paano binibigkas ang linya)",
+  "writer.play.placeholder.transition": "CUT TO:",
+  "writer.play.characterSuggestions.help": "Pumili ng tauhan o mag-type ng bagong pangalan. Sinisimulan ng Enter ang dialogue.",
+  "writer.play.notePlaceholder": "Sumulat ng pribadong tala…"
 }

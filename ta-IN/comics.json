@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
   "comics.reader.loading": "Comic",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}",
+  "comics.import.preparing": "காமிக் ஏற்றுமதி படிக்கப்படுகிறது…",
+  "comics.import.invalid": "இந்த ZIP முழுமையான Tapas காமிக் ஏற்றுமதி அல்ல. உங்கள் ஏற்றுமதியிலிருந்து lu-import ZIP-ஐத் தேர்ந்தெடுங்கள்.",
+  "comics.import.tooLarge": "இந்தக் காமிக் அத்தியாயம் இறக்குமதி செய்ய மிகப் பெரியது. அதைச் சிறிய அத்தியாயங்களாகப் பிரித்து மீண்டும் முயலுங்கள்.",
+  "comics.import.failed": "காமிக்கை இறக்குமதி செய்ய முடியவில்லை. இந்த முயற்சியில் உருவான அத்தியாயங்களும் பதிவேற்றங்களும் நீக்கப்பட்டன. மீண்டும் முயலுங்கள்.",
+  "comics.import.cleanupFailed": "இறக்குமதி நின்றுவிட்டது, சில புதிய அத்தியாயங்களையோ பதிவேற்றங்களையோ நீக்க முடியவில்லை. மீண்டும் முயல்வதற்கு முன் உங்கள் காமிக்கைச் சரிபாருங்கள்."
 }

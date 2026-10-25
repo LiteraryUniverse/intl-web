@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "নতুন ভাষা যোগ করতে নির্বাচন করুন",
   "flashnews.onlyDisplayOn": "এ সংবাদ কেবলমাত্র নীচে নির্বাচিত ভাষাতে (যদি কোন ভাষা নির্বাচন করা হয়) প্রদর্শন করা হবে, অন্য কোন ভাষায় কোন সংবাদ প্রদর্শন করা হবে না, যদি কোন ভাষা নির্বাচন করা না হয়ে থাকে।",
   "flashnews.current": "সক্রিয় ফ্ল্যাশনিউজ",
-  "notifications.menu.all": "সমস্ত বিজ্ঞপ্তি",
+  "notifications.menu.all": "সব বিজ্ঞপ্তি",
   "notifications.menu.following": "অনুসরণ করা হয়েছে",
   "notifications.menu.workshop": "কর্মশালা",
   "notifications.menu.news": "খবরগুলি ও হালনাগাদ",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "লেখকের সারসংক্ষেপ",
   "notifications.workflow.readerSummary": "পড়ার সারসংক্ষেপ",
   "notifications.workflow.taskReminders": "টাস্কের অনুস্মারক",
-  "notifications.workflow.organization-billing": "প্রতিষ্ঠানের বিলিং"
+  "notifications.workflow.organization-billing": "প্রতিষ্ঠানের বিলিং",
+  "notifications.workflow.story-backup": "লেখার ব্যাকআপ"
 }

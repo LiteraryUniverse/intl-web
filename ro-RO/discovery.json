@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Caută manga și benzi desenate",
   "discover.searchComic.description": "Caută manga și benzi desenate",
   "story.estimatedReadingTime.explainedCharacters": "Pe baza unei viteze de citire implicite de {avgReadingNum, number} caractere pe minut.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Pe baza vitezei tale de citire de {wpm, number} caractere pe minut."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Pe baza vitezei tale de citire de {wpm, number} caractere pe minut.",
+  "discover.empty.title": "Încă nu s-a publicat nimic aici. Vrei să fii primul?",
+  "discover.empty.titleFiltered": "Încă nimic nu corespunde acestei căutări. Vrei să fii primul?",
+  "discover.empty.all.text": "Scrie o poveste sau construiește un univers, iar cititorii îl vor găsi aici.",
+  "discover.empty.all.cta": "Începe să scrii",
+  "discover.empty.story.text": "Scrie o poveste. După ce o publici, cititorii o vor găsi aici.",
+  "discover.empty.story.cta": "Începe să scrii o poveste",
+  "discover.empty.universe.text": "Construiește o lume cu propria ei enciclopedie, iar alți scriitori își vor putea plasa poveștile în ea.",
+  "discover.empty.universe.cta": "Creează un univers",
+  "discover.empty.audiobook.text": "Deschide una dintre poveștile tale în atelier și adaugă-i o carte audio.",
+  "discover.empty.audiobook.cta": "Adaugă o carte audio",
+  "discover.empty.comic.text": "Încarcă-ți paginile, iar cititorii îți vor găsi banda desenată aici.",
+  "discover.empty.comic.cta": "Încarcă o bandă desenată",
+  "discover.empty.allLanguages": "Afișează titlurile în toate limbile"
 }

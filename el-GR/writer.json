@@ -96,6 +96,7 @@
   "writer.play.transition": "Μετάβαση",
   "writer.play.synopsis": "Σύνοψη (δεν εμφανίζεται στους αναγνώστες)",
   "writer.play.pageBreak": "Αλλαγή σελίδας",
+  "writer.play.splitDualDialogue": "Διαχωρισμός διπλού διαλόγου",
   "writer.play.dualDialogue": "Ταυτόχρονος διάλογος",
   "writer.play.note": "Σημείωση (δεν εμφανίζεται στους αναγνώστες)",
   "writer.play.boneyard": "Απενεργοποίηση ως σχόλιο (δεν εμφανίζεται στους αναγνώστες)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Προβολή δραστηριότητας ως πίνακα",
   "writer.publish.insights.tableCaption": "Συνήθης δραστηριότητα ανά ημέρα της εβδομάδας και ώρα",
   "writer.publish.insights.window": "Χρονικό παράθυρο",
-  "writer.publish.insights.updated": "Υπολογίστηκε στις {date, date, short}, ώρα {date, time, short}."
+  "writer.publish.insights.updated": "Υπολογίστηκε στις {date, date, short}, ώρα {date, time, short}.",
+  "writer.play.insertTemplate": "Εισαγωγή προτύπου σεναρίου",
+  "writer.play.insert": "Εισαγωγή σεναρίου",
+  "writer.play.template.dialogue": "Χαρακτήρας και διάλογος",
+  "writer.play.template.scene": "Σκηνή / σκηνικές οδηγίες",
+  "writer.play.placeholder.character": "Επιλέξτε χαρακτήρα ή πληκτρολογήστε όνομα",
+  "writer.play.placeholder.dialogue": "Γράψτε τον διάλογο…",
+  "writer.play.placeholder.scene": "ΕΣΩΤ. / ΕΞΩΤ. ΤΟΠΟΘΕΣΙΑ - ΜΕΡΑ / ΝΥΧΤΑ",
+  "writer.play.placeholder.action": "Περιγράψτε τη δράση ή τις σκηνικές οδηγίες…",
+  "writer.play.placeholder.parenthetical": "(Πώς λέγεται η ατάκα)",
+  "writer.play.placeholder.transition": "ΚΟΒΕΙ ΣΕ:",
+  "writer.play.characterSuggestions.help": "Επιλέξτε χαρακτήρα ή πληκτρολογήστε νέο όνομα. Με το Enter ξεκινά ο διάλογος.",
+  "writer.play.notePlaceholder": "Γράψτε μια ιδιωτική σημείωση…"
 }

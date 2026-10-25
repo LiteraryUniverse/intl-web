@@ -96,6 +96,7 @@
   "writer.play.transition": "Transición",
   "writer.play.synopsis": "Sinopsis (no se muestra a los lectores)",
   "writer.play.pageBreak": "Salto de página",
+  "writer.play.splitDualDialogue": "Separar el diálogo simultáneo",
   "writer.play.dualDialogue": "Diálogo simultáneo",
   "writer.play.note": "Nota (no se muestra a los lectores)",
   "writer.play.boneyard": "Comentar (no se muestra a los lectores)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Ver la actividad en una tabla",
   "writer.publish.insights.tableCaption": "Actividad habitual por día de la semana y hora",
   "writer.publish.insights.window": "Franja",
-  "writer.publish.insights.updated": "Calculado el {date, date, short} a las {date, time, short}."
+  "writer.publish.insights.updated": "Calculado el {date, date, short} a las {date, time, short}.",
+  "writer.play.insertTemplate": "Insertar plantilla de guion",
+  "writer.play.insert": "Insertar guion",
+  "writer.play.template.dialogue": "Personaje y diálogo",
+  "writer.play.template.scene": "Escena / acotaciones",
+  "writer.play.placeholder.character": "Elige un personaje o escribe un nombre",
+  "writer.play.placeholder.dialogue": "Escribe el diálogo…",
+  "writer.play.placeholder.scene": "INT. / EXT. LUGAR - DÍA / NOCHE",
+  "writer.play.placeholder.action": "Describe la acción o las acotaciones…",
+  "writer.play.placeholder.parenthetical": "(Cómo se dice la frase)",
+  "writer.play.placeholder.transition": "CORTE A:",
+  "writer.play.characterSuggestions.help": "Elige un personaje o escribe un nombre nuevo. Intro empieza el diálogo.",
+  "writer.play.notePlaceholder": "Escribe una nota privada…"
 }

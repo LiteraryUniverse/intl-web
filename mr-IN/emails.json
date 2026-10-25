@@ -247,5 +247,9 @@
   "email.storyStatus.title": "कथेच्या स्थितीबद्दल अपडेट",
   "email.storyStatus.intro": "तुमच्या कथेच्या स्थितीत बदल झाला आहे.",
   "email.storyStatus.why": "काय घडले आणि का, ते असे:",
-  "email.storyStatus.next": "पुढे काय होईल:"
+  "email.storyStatus.next": "पुढे काय होईल:",
+  "email.backup.subject": "“{storyTitle}” साठी तुमचा बॅकअप",
+  "email.backup.intro": "“{storyTitle}” साठी तुमचा नियोजित बॅकअप येथे आहे.",
+  "email.backup.formats": "जोडलेल्या फाइल्स: {formats}",
+  "email.backup.footer": "नियोजित बॅकअप तुमच्या कथेच्या कार्यशाळेत व्यवस्थापित करा किंवा बंद करा."
 }

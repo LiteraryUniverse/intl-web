@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Tarinan tila on päivittynyt",
   "email.storyStatus.intro": "Tarinasi tila on muuttunut.",
   "email.storyStatus.why": "Näin kävi ja tästä syystä:",
-  "email.storyStatus.next": "Mitä tapahtuu seuraavaksi:"
+  "email.storyStatus.next": "Mitä tapahtuu seuraavaksi:",
+  "email.backup.subject": "Varmuuskopiosi tarinasta ”{storyTitle}”",
+  "email.backup.intro": "Tässä on ajastettu varmuuskopiosi tarinasta ”{storyTitle}”.",
+  "email.backup.formats": "Liitetyt tiedostot: {formats}",
+  "email.backup.footer": "Hallitse ajastettuja varmuuskopioita tai poista ne käytöstä tarinasi työpajassa."
 }

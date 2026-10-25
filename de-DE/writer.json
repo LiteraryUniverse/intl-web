@@ -96,6 +96,7 @@
   "writer.play.transition": "Übergang",
   "writer.play.synopsis": "Synopsis (für Leser nicht sichtbar)",
   "writer.play.pageBreak": "Seitenumbruch",
+  "writer.play.splitDualDialogue": "Doppeldialog aufteilen",
   "writer.play.dualDialogue": "Simultandialog",
   "writer.play.note": "Notiz (für Leser nicht sichtbar)",
   "writer.play.boneyard": "Auskommentieren (für Leser nicht sichtbar)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Aktivität als Tabelle anzeigen",
   "writer.publish.insights.tableCaption": "Typische Aktivität nach Wochentag und Stunde",
   "writer.publish.insights.window": "Zeitfenster",
-  "writer.publish.insights.updated": "Berechnet am {date, date, short} um {date, time, short}."
+  "writer.publish.insights.updated": "Berechnet am {date, date, short} um {date, time, short}.",
+  "writer.play.insertTemplate": "Skriptvorlage einfügen",
+  "writer.play.insert": "Skript einfügen",
+  "writer.play.template.dialogue": "Figur und Dialog",
+  "writer.play.template.scene": "Szene / Regieanweisungen",
+  "writer.play.placeholder.character": "Figur wählen oder Namen eingeben",
+  "writer.play.placeholder.dialogue": "Dialog schreiben…",
+  "writer.play.placeholder.scene": "INNEN / AUSSEN. ORT - TAG / NACHT",
+  "writer.play.placeholder.action": "Handlung oder Regieanweisungen beschreiben…",
+  "writer.play.placeholder.parenthetical": "(Wie der Satz gesprochen wird)",
+  "writer.play.placeholder.transition": "SCHNITT AUF:",
+  "writer.play.characterSuggestions.help": "Wählen Sie eine Figur oder geben Sie einen neuen Namen ein. Mit Enter beginnt der Dialog.",
+  "writer.play.notePlaceholder": "Private Notiz schreiben…"
 }

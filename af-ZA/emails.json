@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Nuwe status van jou storie",
   "email.storyStatus.intro": "Die status van jou storie het verander.",
   "email.storyStatus.why": "Dit is wat gebeur het en hoekom:",
-  "email.storyStatus.next": "Wat volgende gebeur:"
+  "email.storyStatus.next": "Wat volgende gebeur:",
+  "email.backup.subject": "Jou rugsteun vir “{storyTitle}”",
+  "email.backup.intro": "Hier is jou geskeduleerde rugsteun vir “{storyTitle}”.",
+  "email.backup.formats": "Aangehegte lêers: {formats}",
+  "email.backup.footer": "Bestuur of skakel geskeduleerde rugsteune af in jou storie se werkswinkel."
 }

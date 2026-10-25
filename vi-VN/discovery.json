@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Tìm manga và truyện tranh",
   "discover.searchComic.description": "Tìm manga và truyện tranh",
   "story.estimatedReadingTime.explainedCharacters": "Dựa trên tốc độ đọc mặc định là {avgReadingNum, number} ký tự mỗi phút.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Dựa trên tốc độ đọc của bạn là {wpm, number} ký tự mỗi phút."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Dựa trên tốc độ đọc của bạn là {wpm, number} ký tự mỗi phút.",
+  "discover.empty.title": "Chưa có gì được xuất bản ở đây. Bạn muốn là người đầu tiên chứ?",
+  "discover.empty.titleFiltered": "Chưa có gì khớp với tìm kiếm này. Bạn muốn là người đầu tiên chứ?",
+  "discover.empty.all.text": "Hãy viết một câu chuyện hoặc xây dựng một vũ trụ, và độc giả sẽ tìm thấy nó ở đây.",
+  "discover.empty.all.cta": "Bắt đầu viết",
+  "discover.empty.story.text": "Hãy viết một câu chuyện. Khi bạn xuất bản, độc giả sẽ tìm thấy nó ở đây.",
+  "discover.empty.story.cta": "Bắt đầu viết một câu chuyện",
+  "discover.empty.universe.text": "Xây dựng một thế giới với bách khoa toàn thư riêng, và những nhà văn khác có thể đặt câu chuyện của họ trong đó.",
+  "discover.empty.universe.cta": "Tạo một vũ trụ",
+  "discover.empty.audiobook.text": "Mở một câu chuyện của bạn trong xưởng viết và thêm sách nói cho nó.",
+  "discover.empty.audiobook.cta": "Thêm sách nói",
+  "discover.empty.comic.text": "Tải các trang của bạn lên và độc giả sẽ tìm thấy truyện tranh của bạn ở đây.",
+  "discover.empty.comic.cta": "Tải truyện tranh lên",
+  "discover.empty.allLanguages": "Hiển thị tác phẩm bằng mọi ngôn ngữ"
 }

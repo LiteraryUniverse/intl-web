@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} será marcado(a) como concluído(a) em {date}, quando o último capítulo agendado for lançado.",
   "comics.reader.loading": "HQ",
   "comics.translation.mode.label": "Modo: {mode}",
-  "comics.pagesCount": "{count, plural, one {# página} other {# páginas}}"
+  "comics.pagesCount": "{count, plural, one {# página} other {# páginas}}",
+  "comics.import.preparing": "Lendo a exportação da HQ…",
+  "comics.import.invalid": "Este ZIP não é uma exportação completa de HQ do Tapas. Escolha o ZIP lu-import da sua exportação.",
+  "comics.import.tooLarge": "Este capítulo da HQ é grande demais para importar. Divida-o em capítulos menores e tente novamente.",
+  "comics.import.failed": "Não foi possível importar a HQ. Os capítulos e uploads desta tentativa foram removidos. Tente novamente.",
+  "comics.import.cleanupFailed": "A importação parou e não foi possível remover alguns capítulos ou uploads novos. Confira sua HQ antes de tentar novamente."
 }

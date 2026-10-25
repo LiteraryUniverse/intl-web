@@ -116,5 +116,18 @@
   "discover.searchComic.title": "मंगा और कॉमिक्स खोजें",
   "discover.searchComic.description": "मंगा और कॉमिक्स खोजें",
   "story.estimatedReadingTime.explainedCharacters": "प्रति मिनट {avgReadingNum, number} अक्षरों की डिफ़ॉल्ट पढ़ने की गति के आधार पर।",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "प्रति मिनट {wpm, number} अक्षरों की आपकी पढ़ने की गति के आधार पर।"
+  "story.estimatedReadingTime.explainedPersonalCharacters": "प्रति मिनट {wpm, number} अक्षरों की आपकी पढ़ने की गति के आधार पर।",
+  "discover.empty.title": "यहाँ अभी तक कुछ प्रकाशित नहीं हुआ है। क्या आप पहले बनना चाहेंगे?",
+  "discover.empty.titleFiltered": "इस खोज से अभी तक कुछ मेल नहीं खाता। क्या आप पहले बनना चाहेंगे?",
+  "discover.empty.all.text": "कोई कहानी लिखें या ब्रह्मांड रचें, और पाठक उसे यहाँ पाएँगे।",
+  "discover.empty.all.cta": "लिखना शुरू करें",
+  "discover.empty.story.text": "कोई कहानी लिखें। प्रकाशित करते ही पाठक उसे यहाँ पाएँगे।",
+  "discover.empty.story.cta": "कहानी लिखना शुरू करें",
+  "discover.empty.universe.text": "अपने ज्ञानकोश वाली एक दुनिया रचें, और दूसरे लेखक अपनी कहानियाँ उसमें बसा सकेंगे।",
+  "discover.empty.universe.cta": "ब्रह्मांड बनाएँ",
+  "discover.empty.audiobook.text": "कार्यशाला में अपनी कोई कहानी खोलें और उसमें ऑडियोबुक जोड़ें।",
+  "discover.empty.audiobook.cta": "ऑडियोबुक जोड़ें",
+  "discover.empty.comic.text": "अपने पृष्ठ अपलोड करें, और पाठक आपकी कॉमिक यहाँ पाएँगे।",
+  "discover.empty.comic.cta": "कॉमिक अपलोड करें",
+  "discover.empty.allLanguages": "हर भाषा के शीर्षक दिखाएँ"
 }

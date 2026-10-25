@@ -96,6 +96,7 @@
   "writer.play.transition": "Siirtymä",
   "writer.play.synopsis": "Tiivistelmä (ei näytetä lukijoille)",
   "writer.play.pageBreak": "Sivunvaihto",
+  "writer.play.splitDualDialogue": "Jaa rinnakkainen dialogi",
   "writer.play.dualDialogue": "Rinnakkaisvuoropuhelu",
   "writer.play.note": "Muistiinpano (ei näytetä lukijoille)",
   "writer.play.boneyard": "Kommentoi pois (ei näytetä lukijoille)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Näytä toiminta taulukkona",
   "writer.publish.insights.tableCaption": "Tyypillinen toiminta viikonpäivän ja tunnin mukaan",
   "writer.publish.insights.window": "Aikaväli",
-  "writer.publish.insights.updated": "Laskettu {date, date, short} klo {date, time, short}."
+  "writer.publish.insights.updated": "Laskettu {date, date, short} klo {date, time, short}.",
+  "writer.play.insertTemplate": "Lisää käsikirjoituspohja",
+  "writer.play.insert": "Lisää käsikirjoitus",
+  "writer.play.template.dialogue": "Hahmo ja repliikki",
+  "writer.play.template.scene": "Kohtaus / näyttämöohjeet",
+  "writer.play.placeholder.character": "Valitse hahmo tai kirjoita nimi",
+  "writer.play.placeholder.dialogue": "Kirjoita repliikki…",
+  "writer.play.placeholder.scene": "INT. / EXT. PAIKKA - PÄIVÄ / YÖ",
+  "writer.play.placeholder.action": "Kuvaile toimintaa tai näyttämöohjeita…",
+  "writer.play.placeholder.parenthetical": "(Miten repliikki sanotaan)",
+  "writer.play.placeholder.transition": "LEIKKAUS:",
+  "writer.play.characterSuggestions.help": "Valitse hahmo tai kirjoita uusi nimi. Enter aloittaa repliikin.",
+  "writer.play.notePlaceholder": "Kirjoita yksityinen muistiinpano…"
 }

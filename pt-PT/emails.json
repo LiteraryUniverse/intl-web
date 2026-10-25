@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Atualização do estado da história",
   "email.storyStatus.intro": "O estado da sua história foi alterado.",
   "email.storyStatus.why": "Eis o que aconteceu e porquê:",
-  "email.storyStatus.next": "O que acontece a seguir:"
+  "email.storyStatus.next": "O que acontece a seguir:",
+  "email.backup.subject": "A sua cópia de segurança de «{storyTitle}»",
+  "email.backup.intro": "Aqui está a cópia de segurança agendada de «{storyTitle}».",
+  "email.backup.formats": "Ficheiros anexados: {formats}",
+  "email.backup.footer": "Gira ou desative as cópias de segurança agendadas na oficina da sua história."
 }

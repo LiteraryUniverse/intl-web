@@ -96,6 +96,7 @@
   "writer.play.transition": "Prechod",
   "writer.play.synopsis": "Synopsa (čitatelia ju nevidia)",
   "writer.play.pageBreak": "Zalomenie strany",
+  "writer.play.splitDualDialogue": "Rozdeliť súbežný dialóg",
   "writer.play.dualDialogue": "Súbežný dialóg",
   "writer.play.note": "Poznámka (čitatelia ju nevidia)",
   "writer.play.boneyard": "Zakomentovať (čitatelia to nevidia)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Zobraziť aktivitu v tabuľke",
   "writer.publish.insights.tableCaption": "Typická aktivita podľa dňa v týždni a hodiny",
   "writer.publish.insights.window": "Časový interval",
-  "writer.publish.insights.updated": "Vypočítané {date, date, short} o {date, time, short}."
+  "writer.publish.insights.updated": "Vypočítané {date, date, short} o {date, time, short}.",
+  "writer.play.insertTemplate": "Vložiť šablónu scenára",
+  "writer.play.insert": "Vložiť scenár",
+  "writer.play.template.dialogue": "Postava a dialóg",
+  "writer.play.template.scene": "Scéna / scénické poznámky",
+  "writer.play.placeholder.character": "Vyberte postavu alebo napíšte meno",
+  "writer.play.placeholder.dialogue": "Napíšte dialóg…",
+  "writer.play.placeholder.scene": "INT. / EXT. MIESTO – DEŇ / NOC",
+  "writer.play.placeholder.action": "Opíšte dej alebo scénické poznámky…",
+  "writer.play.placeholder.parenthetical": "(Ako sa replika vysloví)",
+  "writer.play.placeholder.transition": "STRIH NA:",
+  "writer.play.characterSuggestions.help": "Vyberte postavu alebo napíšte nové meno. Enter začne dialóg.",
+  "writer.play.notePlaceholder": "Napíšte súkromnú poznámku…"
 }

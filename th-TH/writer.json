@@ -96,6 +96,7 @@
   "writer.play.transition": "การเปลี่ยนฉาก",
   "writer.play.synopsis": "เรื่องย่อ (ผู้อ่านไม่เห็น)",
   "writer.play.pageBreak": "ขึ้นหน้าใหม่",
+  "writer.play.splitDualDialogue": "แยกบทสนทนาคู่",
   "writer.play.dualDialogue": "บทสนทนาซ้อน",
   "writer.play.note": "บันทึก (ผู้อ่านไม่เห็น)",
   "writer.play.boneyard": "คอมเมนต์ออก (ผู้อ่านไม่เห็น)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "ดูกิจกรรมในรูปแบบตาราง",
   "writer.publish.insights.tableCaption": "กิจกรรมโดยทั่วไปตามวันในสัปดาห์และชั่วโมง",
   "writer.publish.insights.window": "ช่วงเวลา",
-  "writer.publish.insights.updated": "คำนวณเมื่อ {date, date, short} เวลา {date, time, short}"
+  "writer.publish.insights.updated": "คำนวณเมื่อ {date, date, short} เวลา {date, time, short}",
+  "writer.play.insertTemplate": "แทรกเทมเพลตบท",
+  "writer.play.insert": "แทรกบท",
+  "writer.play.template.dialogue": "ตัวละครและบทสนทนา",
+  "writer.play.template.scene": "ฉาก / คำกำกับการแสดง",
+  "writer.play.placeholder.character": "เลือกตัวละครหรือพิมพ์ชื่อ",
+  "writer.play.placeholder.dialogue": "เขียนบทสนทนา…",
+  "writer.play.placeholder.scene": "ภายใน / ภายนอก. สถานที่ - กลางวัน / กลางคืน",
+  "writer.play.placeholder.action": "อธิบายการกระทำหรือคำกำกับการแสดง…",
+  "writer.play.placeholder.parenthetical": "(วิธีพูดบทนี้)",
+  "writer.play.placeholder.transition": "ตัดไป:",
+  "writer.play.characterSuggestions.help": "เลือกตัวละครหรือพิมพ์ชื่อใหม่ กด Enter เพื่อเริ่มบทสนทนา",
+  "writer.play.notePlaceholder": "เขียนบันทึกส่วนตัว…"
 }

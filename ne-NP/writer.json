@@ -96,6 +96,7 @@
   "writer.play.transition": "संक्रमण",
   "writer.play.synopsis": "सारांश (पाठकलाई देखाइँदैन)",
   "writer.play.pageBreak": "पृष्ठ विच्छेद",
+  "writer.play.splitDualDialogue": "दोहोरो संवाद छुट्याउनुहोस्",
   "writer.play.dualDialogue": "दोहोरो संवाद",
   "writer.play.note": "टिप्पणी (पाठकलाई देखाइँदैन)",
   "writer.play.boneyard": "टिप्पणी बनाउनुहोस् (पाठकलाई देखाइँदैन)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "गतिविधि तालिकाका रूपमा हेर्नुहोस्",
   "writer.publish.insights.tableCaption": "हप्ताको दिन र घण्टाअनुसार सामान्य गतिविधि",
   "writer.publish.insights.window": "समयावधि",
-  "writer.publish.insights.updated": "{date, date, short} मा {date, time, short} बजे गणना गरिएको।"
+  "writer.publish.insights.updated": "{date, date, short} मा {date, time, short} बजे गणना गरिएको।",
+  "writer.play.insertTemplate": "स्क्रिप्ट टेम्प्लेट घुसाउनुहोस्",
+  "writer.play.insert": "स्क्रिप्ट घुसाउनुहोस्",
+  "writer.play.template.dialogue": "पात्र र संवाद",
+  "writer.play.template.scene": "दृश्य / रंगमञ्च निर्देशन",
+  "writer.play.placeholder.character": "पात्र छान्नुहोस् वा नाम टाइप गर्नुहोस्",
+  "writer.play.placeholder.dialogue": "संवाद लेख्नुहोस्…",
+  "writer.play.placeholder.scene": "INT. / EXT. स्थान - दिन / रात",
+  "writer.play.placeholder.action": "क्रिया वा रंगमञ्च निर्देशनको वर्णन गर्नुहोस्…",
+  "writer.play.placeholder.parenthetical": "(संवाद कसरी बोलिन्छ)",
+  "writer.play.placeholder.transition": "कट टु:",
+  "writer.play.characterSuggestions.help": "पात्र छान्नुहोस् वा नयाँ नाम टाइप गर्नुहोस्। Enter थिच्दा संवाद सुरु हुन्छ।",
+  "writer.play.notePlaceholder": "निजी टिप्पणी लेख्नुहोस्…"
 }

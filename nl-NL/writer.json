@@ -96,6 +96,7 @@
   "writer.play.transition": "Overgang",
   "writer.play.synopsis": "Synopsis (niet zichtbaar voor lezers)",
   "writer.play.pageBreak": "Pagina-einde",
+  "writer.play.splitDualDialogue": "Dubbele dialoog splitsen",
   "writer.play.dualDialogue": "Dubbele dialoog",
   "writer.play.note": "Notitie (niet zichtbaar voor lezers)",
   "writer.play.boneyard": "Uitcommentariëren (niet zichtbaar voor lezers)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Activiteit als tabel bekijken",
   "writer.publish.insights.tableCaption": "Gebruikelijke activiteit per weekdag en uur",
   "writer.publish.insights.window": "Venster",
-  "writer.publish.insights.updated": "Berekend op {date, date, short} om {date, time, short}."
+  "writer.publish.insights.updated": "Berekend op {date, date, short} om {date, time, short}.",
+  "writer.play.insertTemplate": "Scriptsjabloon invoegen",
+  "writer.play.insert": "Script invoegen",
+  "writer.play.template.dialogue": "Personage en dialoog",
+  "writer.play.template.scene": "Scène / regieaanwijzingen",
+  "writer.play.placeholder.character": "Kies een personage of typ een naam",
+  "writer.play.placeholder.dialogue": "Schrijf de dialoog…",
+  "writer.play.placeholder.scene": "INT. / EXT. LOCATIE - DAG / NACHT",
+  "writer.play.placeholder.action": "Beschrijf de handeling of regieaanwijzingen…",
+  "writer.play.placeholder.parenthetical": "(Hoe de tekst wordt uitgesproken)",
+  "writer.play.placeholder.transition": "CUT NAAR:",
+  "writer.play.characterSuggestions.help": "Kies een personage of typ een nieuwe naam. Met Enter begin je de dialoog.",
+  "writer.play.notePlaceholder": "Schrijf een privénotitie…"
 }

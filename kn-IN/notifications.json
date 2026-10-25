@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "ಹೊಸ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಲು",
   "flashnews.onlyDisplayOn": "ಸುದ್ದಿಗೆ ಮಾತ್ರ ಕೆಳಗೆ ಆಯ್ಕೆಮಾಡಿದ ಭಾಷೆಯ ಮೇಲೆ (ಯಾವುದೇ ಆಯ್ಕೆಯಾಗಲಿ), ಉಳಿದ ಭಾಷೆಗಳಲ್ಲಿ ಯಾವುದೇ ಸುದ್ದಿಯೂ ತೋರಿಯಾಗುವುದಿಲ್ಲ.",
   "flashnews.current": "Active flashnews",
-  "notifications.menu.all": "ಎಲ್ಲಾ ಅಧಿಸೂಚನೆ",
+  "notifications.menu.all": "ಎಲ್ಲಾ ಅಧಿಸೂಚನೆಗಳು",
   "notifications.menu.following": "ಅನುಸರಣೆ",
   "notifications.menu.workshop": "ಕಾರ್ಯಾಗಾರ",
   "notifications.menu.news": "ಸುದ್ದಿ ಮತ್ತು ಅಪ್‌ಡೇಟ್‌ಗಳು",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Author summary",
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
-  "notifications.workflow.organization-billing": "Organization billing"
+  "notifications.workflow.organization-billing": "Organization billing",
+  "notifications.workflow.story-backup": "Writing backups"
 }

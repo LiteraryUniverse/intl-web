@@ -96,6 +96,7 @@
   "writer.play.transition": "Övergång",
   "writer.play.synopsis": "Synopsis (visas inte för läsare)",
   "writer.play.pageBreak": "Sidbrytning",
+  "writer.play.splitDualDialogue": "Dela upp dubbel dialog",
   "writer.play.dualDialogue": "Samtidig dialog",
   "writer.play.note": "Anteckning (visas inte för läsare)",
   "writer.play.boneyard": "Kommentera bort (visas inte för läsare)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Visa aktivitet som en tabell",
   "writer.publish.insights.tableCaption": "Typisk aktivitet per veckodag och timme",
   "writer.publish.insights.window": "Tidsintervall",
-  "writer.publish.insights.updated": "Beräknat {date, date, short} kl. {date, time, short}."
+  "writer.publish.insights.updated": "Beräknat {date, date, short} kl. {date, time, short}.",
+  "writer.play.insertTemplate": "Infoga manusmall",
+  "writer.play.insert": "Infoga manus",
+  "writer.play.template.dialogue": "Roll och dialog",
+  "writer.play.template.scene": "Scen / scenanvisningar",
+  "writer.play.placeholder.character": "Välj en roll eller skriv ett namn",
+  "writer.play.placeholder.dialogue": "Skriv dialogen…",
+  "writer.play.placeholder.scene": "INT. / EXT. PLATS - DAG / NATT",
+  "writer.play.placeholder.action": "Beskriv handlingen eller scenanvisningarna…",
+  "writer.play.placeholder.parenthetical": "(Hur repliken sägs)",
+  "writer.play.placeholder.transition": "KLIPP TILL:",
+  "writer.play.characterSuggestions.help": "Välj en roll eller skriv ett nytt namn. Enter startar dialogen.",
+  "writer.play.notePlaceholder": "Skriv en privat anteckning…"
 }

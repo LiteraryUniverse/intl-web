@@ -261,5 +261,18 @@
   "tapas.guide.help": "ติดขัดหรือ เขียนหาเรา",
   "tapas.guide.back": "กลับไปยังหน้า Tapas",
   "tapas.creators.migrator": "ส่งออกจาก Tapas ด้วยเครื่องมือย้ายข้อมูล",
-  "tapas.creators.guide": "อ่านคู่มือทีละขั้นตอน"
+  "tapas.creators.guide": "อ่านคู่มือทีละขั้นตอน",
+  "tapas.hero.display": "เริ่ม<accent>บทใหม่</accent>",
+  "tapas.scene.doorAlt": "ประตูหนังสือนิทานไม้เปิดออกเมื่อคุณเลื่อนหน้าจอ เผยให้เห็น Lunea กำลังโบกมือ และ Luca ต้อนรับคุณเข้าสู่ห้องสมุดสีทอง",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "อ๊ะ มาแล้วนี่เอง",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "เราเปิดไฟรอคุณไว้แล้ว",
+  "tapas.scene.skip": "ข้ามทางเข้า",
+  "tapas.scene.scrollClosed": "เลื่อนเพื่อเปิดประตู",
+  "tapas.scene.scrollOpen": "เชิญเข้ามาเลย เลื่อนต่อไปเรื่อย ๆ",
+  "tapas.art.packing": "Lunea นั่งบนม้านั่งข้างครีเอเตอร์ที่ดูกังวลซึ่งถือกองหน้าการ์ตูนอยู่ ขณะที่ Luca เก็บหน้ากระดาษเพิ่มลงในกล่องกระดาษลัง",
+  "tapas.art.creator": "ครีเอเตอร์ยิ้มแย้มถือดินสอและกระดาษหนึ่งแผ่น",
+  "tapas.art.sofa": "Luca และ Lunea อ่านหนังสือเล่มเดียวกันบนโซฟาสีลาเวนเดอร์ โดยมีกองเรื่องราวรออยู่ใกล้ ๆ",
+  "tapas.art.universe": "Lunea ชูปากกาขนนก และ Luca ถือแท็บเล็ต ขณะที่หนังสือที่เปิดอยู่ปล่อยปราสาทบนเมฆ เมืองแห่งอนาคต มังกร และจรวดออกมา"
 }

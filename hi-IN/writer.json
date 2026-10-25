@@ -96,6 +96,7 @@
   "writer.play.transition": "संक्रमण",
   "writer.play.synopsis": "सारांश (पाठकों को नहीं दिखाया जाता)",
   "writer.play.pageBreak": "पृष्ठ विराम",
+  "writer.play.splitDualDialogue": "दोहरा संवाद अलग करें",
   "writer.play.dualDialogue": "दोहरा संवाद",
   "writer.play.note": "नोट (पाठकों को नहीं दिखाया जाता)",
   "writer.play.boneyard": "टिप्पणी में बदलें (पाठकों को नहीं दिखाया जाता)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "गतिविधि तालिका के रूप में देखें",
   "writer.publish.insights.tableCaption": "सप्ताह के दिन और घंटे के अनुसार सामान्य गतिविधि",
   "writer.publish.insights.window": "समय-अंतराल",
-  "writer.publish.insights.updated": "{date, date, short} को {date, time, short} बजे गणना की गई।"
+  "writer.publish.insights.updated": "{date, date, short} को {date, time, short} बजे गणना की गई।",
+  "writer.play.insertTemplate": "स्क्रिप्ट टेम्पलेट डालें",
+  "writer.play.insert": "स्क्रिप्ट डालें",
+  "writer.play.template.dialogue": "पात्र और संवाद",
+  "writer.play.template.scene": "दृश्य / मंच-निर्देश",
+  "writer.play.placeholder.character": "कोई पात्र चुनें या नाम लिखें",
+  "writer.play.placeholder.dialogue": "संवाद लिखें…",
+  "writer.play.placeholder.scene": "INT. / EXT. स्थान - दिन / रात",
+  "writer.play.placeholder.action": "क्रिया या मंच-निर्देश का वर्णन करें…",
+  "writer.play.placeholder.parenthetical": "(पंक्ति कैसे बोली जाती है)",
+  "writer.play.placeholder.transition": "कट टू:",
+  "writer.play.characterSuggestions.help": "कोई पात्र चुनें या नया नाम लिखें। Enter दबाने से संवाद शुरू होता है।",
+  "writer.play.notePlaceholder": "एक निजी नोट लिखें…"
 }

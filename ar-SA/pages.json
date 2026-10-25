@@ -261,5 +261,18 @@
   "tapas.guide.help": "هل علقت؟ راسلنا",
   "tapas.guide.back": "العودة إلى صفحة Tapas",
   "tapas.creators.migrator": "صدّر من Tapas بأداة الترحيل",
-  "tapas.creators.guide": "اقرأ الدليل خطوة بخطوة"
+  "tapas.creators.guide": "اقرأ الدليل خطوة بخطوة",
+  "tapas.hero.display": "<accent>فصل</accent> جديد.",
+  "tapas.scene.doorAlt": "باب خشبي من كتاب حكايات ينفتح أثناء التمرير، فتظهر Lunea وهي تلوّح بيدها ويظهر Luca مرحّبًا بك في مكتبة ذهبية.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "آه، ها أنت ذا.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "تركنا الضوء مضاءً من أجلك.",
+  "tapas.scene.skip": "تخطّي المدخل",
+  "tapas.scene.scrollClosed": "مرّر لفتح الباب",
+  "tapas.scene.scrollOpen": "تفضّل بالدخول. واصل التمرير.",
+  "tapas.art.packing": "تجلس Lunea على مقعد بجانب صانع محتوى قلق يحمل رزمة من صفحات القصص المصورة، بينما يضع Luca مزيدًا من الصفحات في صندوق من الورق المقوّى.",
+  "tapas.art.creator": "صانع محتوى مبتسم يحمل قلم رصاص وورقة.",
+  "tapas.art.sofa": "Luca وLunea يقرآن كتابًا معًا على أريكة بلون الخزامى، وبجانبهما كومة من القصص تنتظر.",
+  "tapas.art.universe": "ترفع Lunea ريشة كتابة ويحمل Luca جهازًا لوحيًا، بينما ينبثق من كتاب مفتوح قلعة في السحاب ومدينة مستقبلية وتنين وصاروخ."
 }

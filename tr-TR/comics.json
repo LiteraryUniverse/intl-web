@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format}, planlanan son bölümünün yayınlanacağı {date} tarihinde tamamlandı olarak işaretlenecek.",
   "comics.reader.loading": "Çizgi roman",
   "comics.translation.mode.label": "Mod: {mode}",
-  "comics.pagesCount": "{count, plural, one {# sayfa} other {# sayfa}}"
+  "comics.pagesCount": "{count, plural, one {# sayfa} other {# sayfa}}",
+  "comics.import.preparing": "Çizgi roman dışa aktarımı okunuyor…",
+  "comics.import.invalid": "Bu ZIP eksiksiz bir Tapas çizgi roman dışa aktarımı değil. Dışa aktarımınızdaki lu-import ZIP dosyasını seçin.",
+  "comics.import.tooLarge": "Bu çizgi roman bölümü içe aktarılamayacak kadar büyük. Daha küçük bölümlere ayırıp tekrar deneyin.",
+  "comics.import.failed": "Çizgi roman içe aktarılamadı. Bu denemedeki bölümler ve yüklemeler kaldırıldı. Tekrar deneyin.",
+  "comics.import.cleanupFailed": "İçe aktarma durdu ve bazı yeni bölümler veya yüklemeler kaldırılamadı. Tekrar denemeden önce çizgi romanınızı kontrol edin."
 }

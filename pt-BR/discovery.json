@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Pesquisar mangás e quadrinhos",
   "discover.searchComic.description": "Pesquisar mangás e quadrinhos",
   "story.estimatedReadingTime.explainedCharacters": "Com base em uma velocidade de leitura padrão de {avgReadingNum, number} caracteres por minuto.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Com base na sua velocidade de leitura de {wpm, number} caracteres por minuto."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Com base na sua velocidade de leitura de {wpm, number} caracteres por minuto.",
+  "discover.empty.title": "Nada publicado aqui ainda. Quer ser o primeiro?",
+  "discover.empty.titleFiltered": "Nada corresponde a esta pesquisa ainda. Quer ser o primeiro?",
+  "discover.empty.all.text": "Escreva uma história ou construa um universo, e os leitores vão encontrar seu trabalho aqui.",
+  "discover.empty.all.cta": "Comece a escrever",
+  "discover.empty.story.text": "Escreva uma história. Assim que você publicá-la, os leitores vão encontrá-la aqui.",
+  "discover.empty.story.cta": "Comece a escrever uma história",
+  "discover.empty.universe.text": "Construa um mundo com sua própria enciclopédia, e outros escritores poderão ambientar suas histórias nele.",
+  "discover.empty.universe.cta": "Crie um universo",
+  "discover.empty.audiobook.text": "Abra uma das suas histórias na oficina e adicione um audiolivro a ela.",
+  "discover.empty.audiobook.cta": "Adicione um audiolivro",
+  "discover.empty.comic.text": "Envie suas páginas, e os leitores vão encontrar sua HQ aqui.",
+  "discover.empty.comic.cta": "Envie uma HQ",
+  "discover.empty.allLanguages": "Mostrar títulos em todos os idiomas"
 }

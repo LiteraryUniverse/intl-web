@@ -96,6 +96,7 @@
   "writer.play.transition": "संक्रमण",
   "writer.play.synopsis": "सारांश (वाचकांना दाखवला जात नाही)",
   "writer.play.pageBreak": "पृष्ठ खंडित",
+  "writer.play.splitDualDialogue": "दुहेरी संवाद वेगळा करा",
   "writer.play.dualDialogue": "दुहेरी संवाद",
   "writer.play.note": "टीप (वाचकांना दाखवली जात नाही)",
   "writer.play.boneyard": "टिप्पणी करा (वाचकांना दाखवली जात नाही)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "क्रियाशीलता तक्त्यात पाहा",
   "writer.publish.insights.tableCaption": "आठवड्याचा दिवस आणि तास यांनुसार नेहमीची क्रियाशीलता",
   "writer.publish.insights.window": "कालावधी",
-  "writer.publish.insights.updated": "{date, date, short} रोजी {date, time, short} वाजता गणना केली."
+  "writer.publish.insights.updated": "{date, date, short} रोजी {date, time, short} वाजता गणना केली.",
+  "writer.play.insertTemplate": "स्क्रिप्ट साचा घाला",
+  "writer.play.insert": "स्क्रिप्ट घाला",
+  "writer.play.template.dialogue": "पात्र आणि संवाद",
+  "writer.play.template.scene": "दृश्य / रंगसूचना",
+  "writer.play.placeholder.character": "पात्र निवडा किंवा नाव टाइप करा",
+  "writer.play.placeholder.dialogue": "संवाद लिहा…",
+  "writer.play.placeholder.scene": "INT. / EXT. स्थळ - दिवस / रात्र",
+  "writer.play.placeholder.action": "कृती किंवा रंगसूचनांचे वर्णन करा…",
+  "writer.play.placeholder.parenthetical": "(ओळ कशी बोलली जाते)",
+  "writer.play.placeholder.transition": "कट टू:",
+  "writer.play.characterSuggestions.help": "पात्र निवडा किंवा नवीन नाव टाइप करा. Enter दाबल्यावर संवाद सुरू होतो.",
+  "writer.play.notePlaceholder": "खाजगी टीप लिहा…"
 }

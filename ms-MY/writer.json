@@ -96,6 +96,7 @@
   "writer.play.transition": "Peralihan",
   "writer.play.synopsis": "Sinopsis (tidak ditunjukkan kepada pembaca)",
   "writer.play.pageBreak": "Pemisah halaman",
+  "writer.play.splitDualDialogue": "Pisahkan dialog serentak",
   "writer.play.dualDialogue": "Dialog serentak",
   "writer.play.note": "Nota (tidak ditunjukkan kepada pembaca)",
   "writer.play.boneyard": "Jadikan komen (tidak ditunjukkan kepada pembaca)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Lihat aktiviti sebagai jadual",
   "writer.publish.insights.tableCaption": "Aktiviti lazim mengikut hari dalam minggu dan jam",
   "writer.publish.insights.window": "Sela masa",
-  "writer.publish.insights.updated": "Dikira pada {date, date, short} pukul {date, time, short}."
+  "writer.publish.insights.updated": "Dikira pada {date, date, short} pukul {date, time, short}.",
+  "writer.play.insertTemplate": "Sisipkan templat skrip",
+  "writer.play.insert": "Sisipkan skrip",
+  "writer.play.template.dialogue": "Watak dan dialog",
+  "writer.play.template.scene": "Babak / arahan pentas",
+  "writer.play.placeholder.character": "Pilih watak atau taip nama",
+  "writer.play.placeholder.dialogue": "Tulis dialog…",
+  "writer.play.placeholder.scene": "INT. / EXT. LOKASI - SIANG / MALAM",
+  "writer.play.placeholder.action": "Terangkan aksi atau arahan pentas…",
+  "writer.play.placeholder.parenthetical": "(Cara dialog dituturkan)",
+  "writer.play.placeholder.transition": "POTONG KE:",
+  "writer.play.characterSuggestions.help": "Pilih watak atau taip nama baharu. Enter memulakan dialog.",
+  "writer.play.notePlaceholder": "Tulis nota peribadi…"
 }

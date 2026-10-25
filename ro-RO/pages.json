@@ -261,5 +261,18 @@
   "tapas.guide.help": "Te-ai blocat? Scrie-ne",
   "tapas.guide.back": "Înapoi la pagina Tapas",
   "tapas.creators.migrator": "Exportă de pe Tapas cu migratorul",
-  "tapas.creators.guide": "Citește ghidul pas cu pas"
+  "tapas.creators.guide": "Citește ghidul pas cu pas",
+  "tapas.hero.display": "Un nou <accent>capitol.</accent>",
+  "tapas.scene.doorAlt": "O ușă de lemn, ca dintr-o carte de povești, se deschide pe măsură ce derulezi și o dezvăluie pe Lunea făcând cu mâna și pe Luca urându-ți bun venit într-o bibliotecă aurie.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "A, iată-te.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Ți-am lăsat lumina aprinsă.",
+  "tapas.scene.skip": "Sari peste intrare",
+  "tapas.scene.scrollClosed": "Derulează pentru a deschide ușa",
+  "tapas.scene.scrollOpen": "Intră. Continuă să derulezi.",
+  "tapas.art.packing": "Lunea stă pe o bancă lângă un creator îngrijorat care ține un teanc de pagini de bandă desenată, în timp ce Luca pune alte pagini într-o cutie de carton.",
+  "tapas.art.creator": "Un creator zâmbitor care ține un creion și o foaie de hârtie.",
+  "tapas.art.sofa": "Luca și Lunea citesc împreună o carte pe o canapea lavandă, cu un teanc de povești care așteaptă alături.",
+  "tapas.art.universe": "Lunea ridică o pană de scris, iar Luca ține o tabletă, în timp ce dintr-o carte deschisă ies un castel în nori, un oraș futurist, un dragon și o rachetă."
 }

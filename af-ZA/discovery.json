@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Soek na manga & strokiesprente",
   "discover.searchComic.description": "Soek na manga en strokiesprente",
   "story.estimatedReadingTime.explainedCharacters": "Gebaseer op 'n verstekleesspoed van {avgReadingNum, number} karakters per minuut.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Gebaseer op jou leesspoed van {wpm, number} karakters per minuut."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Gebaseer op jou leesspoed van {wpm, number} karakters per minuut.",
+  "discover.empty.title": "Hier is nog niks gepubliseer nie. Wil jy die eerste wees?",
+  "discover.empty.titleFiltered": "Niks pas nog by hierdie soektog nie. Wil jy die eerste wees?",
+  "discover.empty.all.text": "Skryf ’n storie of bou ’n heelal, en lesers sal dit hier vind.",
+  "discover.empty.all.cta": "Begin skryf",
+  "discover.empty.story.text": "Skryf ’n storie. Sodra jy dit publiseer, sal lesers dit hier vind.",
+  "discover.empty.story.cta": "Begin ’n storie skryf",
+  "discover.empty.universe.text": "Bou ’n wêreld met sy eie ensiklopedie, en ander skrywers kan hul stories daarin laat afspeel.",
+  "discover.empty.universe.cta": "Skep ’n heelal",
+  "discover.empty.audiobook.text": "Maak een van jou stories in die werkswinkel oop en voeg ’n oudioboek daarby.",
+  "discover.empty.audiobook.cta": "Voeg ’n oudioboek by",
+  "discover.empty.comic.text": "Laai jou bladsye op, en lesers sal jou strokiesprent hier vind.",
+  "discover.empty.comic.cta": "Laai ’n strokiesprent op",
+  "discover.empty.allLanguages": "Wys titels in alle tale"
 }

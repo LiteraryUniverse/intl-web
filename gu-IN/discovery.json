@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Search for manga & comics",
   "discover.searchComic.description": "Search for manga and comics",
   "story.estimatedReadingTime.explainedCharacters": "પ્રતિ મિનિટ {avgReadingNum, number} અક્ષરોની મૂળભૂત વાંચવાની ગતિના આધારે ગણતરી કરેલ છે.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "પ્રતિ મિનિટ {wpm, number} અક્ષરોની તમારી વાંચવાની ગતિના આધારે ગણતરી કરેલ છે."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "પ્રતિ મિનિટ {wpm, number} અક્ષરોની તમારી વાંચવાની ગતિના આધારે ગણતરી કરેલ છે.",
+  "discover.empty.title": "અહીં હજી કંઈ પ્રકાશિત થયું નથી. પહેલા બનવું છે?",
+  "discover.empty.titleFiltered": "આ શોધ સાથે હજી કંઈ મેળ ખાતું નથી. પહેલા બનવું છે?",
+  "discover.empty.all.text": "કોઈ વાર્તા લખો અથવા બ્રહ્માંડ રચો, અને વાચકો તેને અહીં શોધી લેશે.",
+  "discover.empty.all.cta": "લખવાનું શરૂ કરો",
+  "discover.empty.story.text": "કોઈ વાર્તા લખો. તમે તેને પ્રકાશિત કરો એટલે વાચકો તેને અહીં શોધી લેશે.",
+  "discover.empty.story.cta": "વાર્તા લખવાનું શરૂ કરો",
+  "discover.empty.universe.text": "પોતાના જ્ઞાનકોશ સાથેનું એક વિશ્વ રચો, અને બીજા લેખકો તેમની વાર્તાઓ તેમાં રચી શકશે.",
+  "discover.empty.universe.cta": "બ્રહ્માંડ બનાવો",
+  "discover.empty.audiobook.text": "કાર્યશાળામાં તમારી કોઈ વાર્તા ખોલો અને તેમાં ઓડિયોબુક ઉમેરો.",
+  "discover.empty.audiobook.cta": "ઓડિયોબુક ઉમેરો",
+  "discover.empty.comic.text": "તમારાં પૃષ્ઠો અપલોડ કરો, અને વાચકો તમારું કોમિક અહીં શોધી લેશે.",
+  "discover.empty.comic.cta": "કોમિક અપલોડ કરો",
+  "discover.empty.allLanguages": "બધી ભાષાનાં શીર્ષકો બતાવો"
 }

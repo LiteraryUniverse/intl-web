@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Författarsammanfattning",
   "notifications.workflow.readerSummary": "Lässammanfattning",
   "notifications.workflow.taskReminders": "Uppgiftspåminnelser",
-  "notifications.workflow.organization-billing": "Organisationens fakturering"
+  "notifications.workflow.organization-billing": "Organisationens fakturering",
+  "notifications.workflow.story-backup": "Säkerhetskopior av texter"
 }

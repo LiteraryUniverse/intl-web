@@ -96,6 +96,7 @@
   "writer.play.transition": "გადასვლა",
   "writer.play.synopsis": "სინოფსისი (მკითხველებს არ ეჩვენებათ)",
   "writer.play.pageBreak": "გვერდის გაწყვეტა",
+  "writer.play.splitDualDialogue": "ორმაგი დიალოგის გაყოფა",
   "writer.play.dualDialogue": "ორმაგი დიალოგი",
   "writer.play.note": "შენიშვნა (მკითხველებს არ ეჩვენებათ)",
   "writer.play.boneyard": "კომენტარად გადაქცევა (მკითხველებს არ ეჩვენებათ)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "აქტივობის ცხრილად ნახვა",
   "writer.publish.insights.tableCaption": "ტიპური აქტივობა კვირის დღისა და საათის მიხედვით",
   "writer.publish.insights.window": "დროის მონაკვეთი",
-  "writer.publish.insights.updated": "გამოთვლილია {date, date, short}-ს, {date, time, short}-ზე."
+  "writer.publish.insights.updated": "გამოთვლილია {date, date, short}-ს, {date, time, short}-ზე.",
+  "writer.play.insertTemplate": "სკრიპტის შაბლონის ჩასმა",
+  "writer.play.insert": "სკრიპტის ჩასმა",
+  "writer.play.template.dialogue": "პერსონაჟი და დიალოგი",
+  "writer.play.template.scene": "სცენა / რემარკები",
+  "writer.play.placeholder.character": "აირჩიეთ პერსონაჟი ან აკრიფეთ სახელი",
+  "writer.play.placeholder.dialogue": "დაწერეთ დიალოგი…",
+  "writer.play.placeholder.scene": "ინტ. / ნატ. ადგილი - დღე / ღამე",
+  "writer.play.placeholder.action": "აღწერეთ მოქმედება ან რემარკები…",
+  "writer.play.placeholder.parenthetical": "(როგორ წარმოითქმის ფრაზა)",
+  "writer.play.placeholder.transition": "გადასვლა:",
+  "writer.play.characterSuggestions.help": "აირჩიეთ პერსონაჟი ან აკრიფეთ ახალი სახელი. Enter დიალოგს იწყებს.",
+  "writer.play.notePlaceholder": "დაწერეთ პირადი შენიშვნა…"
 }

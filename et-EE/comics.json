@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} märgitakse lõpetatuks {date}, kui ilmub selle viimane ajastatud peatükk.",
   "comics.reader.loading": "Koomiks",
   "comics.translation.mode.label": "Režiim: {mode}",
-  "comics.pagesCount": "{count, plural, one {# lehekülg} other {# lehekülge}}"
+  "comics.pagesCount": "{count, plural, one {# lehekülg} other {# lehekülge}}",
+  "comics.import.preparing": "Koomiksi eksporti loetakse…",
+  "comics.import.invalid": "See ZIP ei ole täielik Tapase koomiksi eksport. Vali oma ekspordist lu-import ZIP-fail.",
+  "comics.import.tooLarge": "See koomiksi peatükk on importimiseks liiga suur. Jaga see väiksemateks peatükkideks ja proovi uuesti.",
+  "comics.import.failed": "Koomiksit ei õnnestunud importida. Selle katse peatükid ja üleslaadimised eemaldati. Proovi uuesti.",
+  "comics.import.cleanupFailed": "Import peatus ning mõnda uut peatükki või üleslaadimist ei õnnestunud eemaldada. Kontrolli oma koomiksit, enne kui uuesti proovid."
 }

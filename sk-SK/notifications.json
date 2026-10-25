@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Súhrn pre autora",
   "notifications.workflow.readerSummary": "Čitateľský súhrn",
   "notifications.workflow.taskReminders": "Pripomienky úloh",
-  "notifications.workflow.organization-billing": "Fakturácia organizácie"
+  "notifications.workflow.organization-billing": "Fakturácia organizácie",
+  "notifications.workflow.story-backup": "Zálohy textov"
 }

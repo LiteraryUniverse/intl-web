@@ -261,5 +261,18 @@
   "tapas.guide.help": "Jäitkö jumiin? Kirjoita meille",
   "tapas.guide.back": "Takaisin Tapas-sivulle",
   "tapas.creators.migrator": "Vie Tapasista siirtotyökalulla",
-  "tapas.creators.guide": "Lue vaiheittainen opas"
+  "tapas.creators.guide": "Lue vaiheittainen opas",
+  "tapas.hero.display": "Uusi <accent>luku.</accent>",
+  "tapas.scene.doorAlt": "Puinen satukirjan ovi aukeaa, kun vierität, ja sen takaa paljastuvat vilkuttava Lunea ja Luca, joka toivottaa sinut tervetulleeksi kultaiseen kirjastoon.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Ai, siinähän sinä olet.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Jätimme valon palamaan sinua varten.",
+  "tapas.scene.skip": "Ohita sisääntulo",
+  "tapas.scene.scrollClosed": "Vieritä avataksesi oven",
+  "tapas.scene.scrollOpen": "Tule sisään. Jatka vierittämistä.",
+  "tapas.art.packing": "Lunea istuu penkillä huolestuneen tekijän vieressä, joka pitelee pinoa sarjakuvasivuja, ja Luca pakkaa lisää sivuja pahvilaatikkoon.",
+  "tapas.art.creator": "Hymyilevä tekijä, jolla on kädessään kynä ja paperiarkki.",
+  "tapas.art.sofa": "Luca ja Lunea lukevat yhdessä kirjaa laventelinvärisellä sohvalla, ja lähellä odottaa pino tarinoita.",
+  "tapas.art.universe": "Lunea kohottaa sulkakynää ja Luca pitelee tablettia, kun avoimesta kirjasta nousee pilvilinna, futuristinen kaupunki, lohikäärme ja raketti."
 }

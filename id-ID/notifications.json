@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Ringkasan penulis",
   "notifications.workflow.readerSummary": "Ringkasan bacaan",
   "notifications.workflow.taskReminders": "Pengingat tugas",
-  "notifications.workflow.organization-billing": "Penagihan organisasi"
+  "notifications.workflow.organization-billing": "Penagihan organisasi",
+  "notifications.workflow.story-backup": "Cadangan tulisan"
 }

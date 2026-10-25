@@ -247,5 +247,9 @@
   "email.storyStatus.title": "עדכון סטטוס הסיפור",
   "email.storyStatus.intro": "חל שינוי בסטטוס הסיפור שלך.",
   "email.storyStatus.why": "הנה מה שקרה ומדוע:",
-  "email.storyStatus.next": "מה קורה עכשיו:"
+  "email.storyStatus.next": "מה קורה עכשיו:",
+  "email.backup.subject": "הגיבוי שלכם עבור “{storyTitle}”",
+  "email.backup.intro": "הנה הגיבוי המתוזמן שלכם עבור “{storyTitle}”.",
+  "email.backup.formats": "קבצים מצורפים: {formats}",
+  "email.backup.footer": "אפשר לנהל או לכבות גיבויים מתוזמנים בסדנת הסיפור שלכם."
 }

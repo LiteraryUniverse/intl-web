@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "L'obra ({format}) es marcarà com a completada el {date}, quan es publiqui l'últim capítol programat.",
   "comics.reader.loading": "Còmic",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# pàgina} other {# pàgines}}"
+  "comics.pagesCount": "{count, plural, one {# pàgina} other {# pàgines}}",
+  "comics.import.preparing": "S’està llegint l’exportació del còmic…",
+  "comics.import.invalid": "Aquest ZIP no és una exportació completa d’un còmic de Tapas. Tria el ZIP lu-import de la teva exportació.",
+  "comics.import.tooLarge": "Aquest capítol del còmic és massa gran per importar-lo. Divideix-lo en capítols més petits i torna-ho a provar.",
+  "comics.import.failed": "No s’ha pogut importar el còmic. S’han eliminat els capítols i els fitxers pujats en aquest intent. Torna-ho a provar.",
+  "comics.import.cleanupFailed": "La importació s’ha aturat i no s’han pogut eliminar alguns capítols o fitxers pujats nous. Revisa el teu còmic abans de tornar-ho a provar."
 }

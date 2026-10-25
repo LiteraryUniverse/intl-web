@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "ה{format} יסומן כהושלם בתאריך {date}, עם שחרור הפרק המתוזמן האחרון שלו.",
   "comics.reader.loading": "קומיקס",
   "comics.translation.mode.label": "מצב: {mode}",
-  "comics.pagesCount": "{count, plural, one {עמוד אחד} two {שני עמודים} other {# עמודים}}"
+  "comics.pagesCount": "{count, plural, one {עמוד אחד} two {שני עמודים} other {# עמודים}}",
+  "comics.import.preparing": "קורא את קובץ הייצוא של הקומיקס…",
+  "comics.import.invalid": "קובץ ה־ZIP הזה אינו ייצוא קומיקס מלא של Tapas. בחרו את קובץ ה־ZIP בשם lu-import מתוך הייצוא שלכם.",
+  "comics.import.tooLarge": "פרק הקומיקס הזה גדול מכדי לייבא אותו. פצלו אותו לפרקים קטנים יותר ונסו שוב.",
+  "comics.import.failed": "לא ניתן היה לייבא את הקומיקס. הפרקים והקבצים שהועלו בניסיון הזה הוסרו. נסו שוב.",
+  "comics.import.cleanupFailed": "הייבוא נעצר, ולא ניתן היה להסיר חלק מהפרקים או מהקבצים החדשים שהועלו. בדקו את הקומיקס שלכם לפני שתנסו שוב."
 }

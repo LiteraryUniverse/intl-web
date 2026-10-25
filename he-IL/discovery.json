@@ -116,5 +116,18 @@
   "discover.searchComic.title": "חיפוש מנגה וקומיקס",
   "discover.searchComic.description": "חיפוש מנגה וקומיקס",
   "story.estimatedReadingTime.explainedCharacters": "מבוסס על מהירות קריאה המוגדרת כברירת מחדל של {avgReadingNum, number} תווים בדקה.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "מבוסס על מהירות הקריאה שלך של {wpm, number} תווים בדקה."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "מבוסס על מהירות הקריאה שלך של {wpm, number} תווים בדקה.",
+  "discover.empty.title": "עדיין לא פורסם כאן כלום. רוצים להיות הראשונים?",
+  "discover.empty.titleFiltered": "עדיין אין תוצאות לחיפוש הזה. רוצים להיות הראשונים?",
+  "discover.empty.all.text": "כתבו סיפור או בנו יקום, וקוראים ימצאו אותו כאן.",
+  "discover.empty.all.cta": "התחילו לכתוב",
+  "discover.empty.story.text": "כתבו סיפור. ברגע שתפרסמו אותו, קוראים ימצאו אותו כאן.",
+  "discover.empty.story.cta": "התחילו לכתוב סיפור",
+  "discover.empty.universe.text": "בנו עולם עם אנציקלופדיה משלו, וכותבים אחרים יוכלו למקם בו את הסיפורים שלהם.",
+  "discover.empty.universe.cta": "צרו יקום",
+  "discover.empty.audiobook.text": "פתחו אחד מהסיפורים שלכם בסדנה והוסיפו לו ספר שמע.",
+  "discover.empty.audiobook.cta": "הוסיפו ספר שמע",
+  "discover.empty.comic.text": "העלו את הדפים שלכם, וקוראים ימצאו כאן את הקומיקס שלכם.",
+  "discover.empty.comic.cta": "העלו קומיקס",
+  "discover.empty.allLanguages": "הצגת יצירות בכל השפות"
 }

@@ -261,5 +261,18 @@
   "tapas.guide.help": "Tersekat? Tulis kepada kami",
   "tapas.guide.back": "Kembali ke halaman Tapas",
   "tapas.creators.migrator": "Eksport dari Tapas dengan migrator",
-  "tapas.creators.guide": "Baca panduan langkah demi langkah"
+  "tapas.creators.guide": "Baca panduan langkah demi langkah",
+  "tapas.hero.display": "Satu <accent>bab baharu.</accent>",
+  "tapas.scene.doorAlt": "Pintu kayu buku cerita terbuka semasa anda menatal, menampakkan Lunea yang melambai dan Luca yang mengalu-alukan anda ke dalam perpustakaan keemasan.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Oh, di situ rupanya anda.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Kami biarkan lampu menyala untuk anda.",
+  "tapas.scene.skip": "Langkau pintu masuk",
+  "tapas.scene.scrollClosed": "Tatal untuk membuka pintu",
+  "tapas.scene.scrollOpen": "Silakan masuk. Teruskan menatal.",
+  "tapas.art.packing": "Lunea duduk di bangku di sebelah seorang pencipta yang risau sambil memegang setimbun halaman komik, sementara Luca mengemas lebih banyak halaman ke dalam kotak kadbod.",
+  "tapas.art.creator": "Seorang pencipta yang tersenyum sambil memegang pensel dan sehelai kertas.",
+  "tapas.art.sofa": "Luca dan Lunea berkongsi sebuah buku di atas sofa lavender, dengan setimbun cerita menanti berhampiran.",
+  "tapas.art.universe": "Lunea mengangkat pena bulu dan Luca memegang tablet sementara sebuah buku terbuka melepaskan istana di awan, bandar futuristik, seekor naga dan sebuah roket."
 }

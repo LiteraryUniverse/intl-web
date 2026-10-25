@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Cari manga & komik",
   "discover.searchComic.description": "Cari manga dan komik",
   "story.estimatedReadingTime.explainedCharacters": "Berdasarkan kelajuan membaca lalai sebanyak {avgReadingNum, number} aksara seminit.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Berdasarkan kelajuan membaca anda sebanyak {wpm, number} aksara seminit."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Berdasarkan kelajuan membaca anda sebanyak {wpm, number} aksara seminit.",
+  "discover.empty.title": "Belum ada apa-apa yang diterbitkan di sini. Mahu menjadi yang pertama?",
+  "discover.empty.titleFiltered": "Belum ada yang sepadan dengan carian ini. Mahu menjadi yang pertama?",
+  "discover.empty.all.text": "Tulis cerita atau bina univers, dan pembaca akan menemuinya di sini.",
+  "discover.empty.all.cta": "Mula menulis",
+  "discover.empty.story.text": "Tulis cerita. Sebaik sahaja anda menerbitkannya, pembaca akan menemuinya di sini.",
+  "discover.empty.story.cta": "Mula menulis cerita",
+  "discover.empty.universe.text": "Bina dunia dengan ensiklopedianya sendiri, dan penulis lain boleh melatarkan cerita mereka di dalamnya.",
+  "discover.empty.universe.cta": "Cipta univers",
+  "discover.empty.audiobook.text": "Buka salah satu cerita anda dalam bengkel dan tambah buku audio padanya.",
+  "discover.empty.audiobook.cta": "Tambah buku audio",
+  "discover.empty.comic.text": "Muat naik halaman anda dan pembaca akan menemui komik anda di sini.",
+  "discover.empty.comic.cta": "Muat naik komik",
+  "discover.empty.allLanguages": "Tunjukkan tajuk dalam semua bahasa"
 }

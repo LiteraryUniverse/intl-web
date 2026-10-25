@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
   "comics.reader.loading": "Comic",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}",
+  "comics.import.preparing": "კომიქსის ექსპორტი იკითხება…",
+  "comics.import.invalid": "ეს ZIP ფაილი Tapas-ის კომიქსის სრული ექსპორტი არ არის. აირჩიეთ lu-import ZIP ფაილი თქვენი ექსპორტიდან.",
+  "comics.import.tooLarge": "კომიქსის ეს თავი იმპორტისთვის ზედმეტად დიდია. დაყავით უფრო პატარა თავებად და სცადეთ ხელახლა.",
+  "comics.import.failed": "კომიქსის იმპორტი ვერ მოხერხდა. ამ მცდელობის თავები და ატვირთული ფაილები წაიშალა. სცადეთ ხელახლა.",
+  "comics.import.cleanupFailed": "იმპორტი შეჩერდა და ზოგიერთი ახალი თავის ან ატვირთული ფაილის წაშლა ვერ მოხერხდა. ხელახლა ცდამდე შეამოწმეთ თქვენი კომიქსი."
 }

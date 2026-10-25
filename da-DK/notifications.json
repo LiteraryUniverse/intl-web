@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Forfatteroversigt",
   "notifications.workflow.readerSummary": "Læseoversigt",
   "notifications.workflow.taskReminders": "Opgavepåmindelser",
-  "notifications.workflow.organization-billing": "Organisationens fakturering"
+  "notifications.workflow.organization-billing": "Organisationens fakturering",
+  "notifications.workflow.story-backup": "Sikkerhedskopier af tekster"
 }

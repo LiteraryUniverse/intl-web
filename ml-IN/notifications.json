@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Author summary",
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
-  "notifications.workflow.organization-billing": "Organization billing"
+  "notifications.workflow.organization-billing": "Organization billing",
+  "notifications.workflow.story-backup": "എഴുത്ത് ബാക്കപ്പുകൾ"
 }

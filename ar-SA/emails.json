@@ -247,5 +247,9 @@
   "email.storyStatus.title": "تحديث حالة القصة",
   "email.storyStatus.intro": "طرأ تغيير على حالة قصتك.",
   "email.storyStatus.why": "إليك ما حدث وسببه:",
-  "email.storyStatus.next": "ما الذي سيحدث بعد ذلك:"
+  "email.storyStatus.next": "ما الذي سيحدث بعد ذلك:",
+  "email.backup.subject": "نسختك الاحتياطية لـ «{storyTitle}»",
+  "email.backup.intro": "إليك النسخة الاحتياطية المجدولة لـ «{storyTitle}».",
+  "email.backup.formats": "الملفات المرفقة: {formats}",
+  "email.backup.footer": "يمكنك إدارة النسخ الاحتياطية المجدولة أو إيقافها من ورشة عمل قصتك."
 }

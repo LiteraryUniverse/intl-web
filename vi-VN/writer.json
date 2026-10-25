@@ -96,6 +96,7 @@
   "writer.play.transition": "Chuyển cảnh",
   "writer.play.synopsis": "Tóm tắt (độc giả không thấy)",
   "writer.play.pageBreak": "Ngắt trang",
+  "writer.play.splitDualDialogue": "Tách lời thoại song song",
   "writer.play.dualDialogue": "Đối thoại song song",
   "writer.play.note": "Ghi chú (độc giả không thấy)",
   "writer.play.boneyard": "Ẩn thành chú thích (độc giả không thấy)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Xem hoạt động dưới dạng bảng",
   "writer.publish.insights.tableCaption": "Hoạt động điển hình theo ngày trong tuần và giờ",
   "writer.publish.insights.window": "Khung giờ",
-  "writer.publish.insights.updated": "Tính vào {date, date, short} lúc {date, time, short}."
+  "writer.publish.insights.updated": "Tính vào {date, date, short} lúc {date, time, short}.",
+  "writer.play.insertTemplate": "Chèn mẫu kịch bản",
+  "writer.play.insert": "Chèn kịch bản",
+  "writer.play.template.dialogue": "Nhân vật và lời thoại",
+  "writer.play.template.scene": "Cảnh / chỉ dẫn sân khấu",
+  "writer.play.placeholder.character": "Chọn một nhân vật hoặc nhập tên",
+  "writer.play.placeholder.dialogue": "Viết lời thoại…",
+  "writer.play.placeholder.scene": "NỘI. / NGOẠI. ĐỊA ĐIỂM - NGÀY / ĐÊM",
+  "writer.play.placeholder.action": "Mô tả hành động hoặc chỉ dẫn sân khấu…",
+  "writer.play.placeholder.parenthetical": "(Cách nói câu thoại)",
+  "writer.play.placeholder.transition": "CHUYỂN CẢNH:",
+  "writer.play.characterSuggestions.help": "Chọn một nhân vật hoặc nhập tên mới. Nhấn Enter để bắt đầu lời thoại.",
+  "writer.play.notePlaceholder": "Viết ghi chú riêng tư…"
 }

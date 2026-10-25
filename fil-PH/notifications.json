@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Buod ng may-akda",
   "notifications.workflow.readerSummary": "Buod ng pagbabasa",
   "notifications.workflow.taskReminders": "Mga paalala sa gawain",
-  "notifications.workflow.organization-billing": "Billing ng organisasyon"
+  "notifications.workflow.organization-billing": "Billing ng organisasyon",
+  "notifications.workflow.story-backup": "Mga backup ng isinulat"
 }

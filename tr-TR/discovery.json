@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Manga ve çizgi roman ara",
   "discover.searchComic.description": "Manga ve çizgi roman ara",
   "story.estimatedReadingTime.explainedCharacters": "Dakikada {avgReadingNum, number} karakter olan varsayılan okuma hızına göre hesaplanmıştır.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Dakikada {wpm, number} karakter olan okuma hızınıza göre hesaplanmıştır."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Dakikada {wpm, number} karakter olan okuma hızınıza göre hesaplanmıştır.",
+  "discover.empty.title": "Burada henüz yayımlanmış bir şey yok. İlk siz olmak ister misiniz?",
+  "discover.empty.titleFiltered": "Henüz bu aramayla eşleşen bir şey yok. İlk siz olmak ister misiniz?",
+  "discover.empty.all.text": "Bir hikaye yazın ya da bir evren kurun; okurlar onu burada bulacak.",
+  "discover.empty.all.cta": "Yazmaya başlayın",
+  "discover.empty.story.text": "Bir hikaye yazın. Yayımladığınızda okurlar onu burada bulacak.",
+  "discover.empty.story.cta": "Bir hikaye yazmaya başlayın",
+  "discover.empty.universe.text": "Kendi ansiklopedisi olan bir dünya kurun; diğer yazarlar da hikayelerini o dünyada geçirebilir.",
+  "discover.empty.universe.cta": "Bir evren oluşturun",
+  "discover.empty.audiobook.text": "Hikayelerinizden birini atölyede açın ve ona bir sesli kitap ekleyin.",
+  "discover.empty.audiobook.cta": "Sesli kitap ekleyin",
+  "discover.empty.comic.text": "Sayfalarınızı yükleyin; okurlar çizgi romanınızı burada bulacak.",
+  "discover.empty.comic.cta": "Çizgi roman yükleyin",
+  "discover.empty.allLanguages": "Tüm dillerdeki eserleri göster"
 }

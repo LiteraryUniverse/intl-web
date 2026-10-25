@@ -96,6 +96,7 @@
   "writer.play.transition": "Geçiş",
   "writer.play.synopsis": "Özet (okurlara gösterilmez)",
   "writer.play.pageBreak": "Sayfa sonu",
+  "writer.play.splitDualDialogue": "Çift diyaloğu ayır",
   "writer.play.dualDialogue": "Eş zamanlı diyalog",
   "writer.play.note": "Not (okurlara gösterilmez)",
   "writer.play.boneyard": "Yorum satırı yap (okurlara gösterilmez)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Etkinliği tablo olarak görüntüle",
   "writer.publish.insights.tableCaption": "Haftanın gününe ve saate göre tipik etkinlik",
   "writer.publish.insights.window": "Zaman aralığı",
-  "writer.publish.insights.updated": "{date, date, short} tarihinde saat {date, time, short} itibarıyla hesaplandı."
+  "writer.publish.insights.updated": "{date, date, short} tarihinde saat {date, time, short} itibarıyla hesaplandı.",
+  "writer.play.insertTemplate": "Senaryo şablonu ekle",
+  "writer.play.insert": "Senaryo ekle",
+  "writer.play.template.dialogue": "Karakter ve diyalog",
+  "writer.play.template.scene": "Sahne / sahne yönergeleri",
+  "writer.play.placeholder.character": "Bir karakter seçin veya bir ad yazın",
+  "writer.play.placeholder.dialogue": "Diyaloğu yazın…",
+  "writer.play.placeholder.scene": "İÇ. / DIŞ. MEKÂN - GÜNDÜZ / GECE",
+  "writer.play.placeholder.action": "Eylemi veya sahne yönergelerini anlatın…",
+  "writer.play.placeholder.parenthetical": "(Replik nasıl söyleniyor)",
+  "writer.play.placeholder.transition": "KESME:",
+  "writer.play.characterSuggestions.help": "Bir karakter seçin veya yeni bir ad yazın. Enter diyaloğu başlatır.",
+  "writer.play.notePlaceholder": "Özel bir not yazın…"
 }

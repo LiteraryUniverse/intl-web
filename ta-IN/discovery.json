@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Search for manga & comics",
   "discover.searchComic.description": "Search for manga and comics",
   "story.estimatedReadingTime.explainedCharacters": "நிமிடத்திற்கு {avgReadingNum, number} எழுத்துகள் என்ற இயல்புநிலை வாசிப்பு வேகத்தின் அடிப்படையில்.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "நிமிடத்திற்கு {wpm, number} எழுத்துகள் என்ற உங்கள் வாசிப்பு வேகத்தின் அடிப்படையில்."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "நிமிடத்திற்கு {wpm, number} எழுத்துகள் என்ற உங்கள் வாசிப்பு வேகத்தின் அடிப்படையில்.",
+  "discover.empty.title": "இங்கே இன்னும் எதுவும் வெளியிடப்படவில்லை. முதலாவதாக இருக்க விரும்புகிறீர்களா?",
+  "discover.empty.titleFiltered": "இந்தத் தேடலுக்குப் பொருந்துவது இன்னும் எதுவும் இல்லை. முதலாவதாக இருக்க விரும்புகிறீர்களா?",
+  "discover.empty.all.text": "ஒரு கதையை எழுதுங்கள் அல்லது ஓர் உலகத்தை உருவாக்குங்கள், வாசகர்கள் அதை இங்கே கண்டுகொள்வார்கள்.",
+  "discover.empty.all.cta": "எழுதத் தொடங்குங்கள்",
+  "discover.empty.story.text": "ஒரு கதையை எழுதுங்கள். நீங்கள் அதை வெளியிட்டதும், வாசகர்கள் அதை இங்கே கண்டுகொள்வார்கள்.",
+  "discover.empty.story.cta": "கதை எழுதத் தொடங்குங்கள்",
+  "discover.empty.universe.text": "சொந்தக் கலைக்களஞ்சியம் கொண்ட ஓர் உலகத்தை உருவாக்குங்கள், மற்ற எழுத்தாளர்கள் தங்கள் கதைகளை அதில் அமைக்கலாம்.",
+  "discover.empty.universe.cta": "ஓர் உலகத்தை உருவாக்குங்கள்",
+  "discover.empty.audiobook.text": "வடிவமைப்பில் உங்கள் கதைகளில் ஒன்றைத் திறந்து அதில் ஒலிநூலைச் சேருங்கள்.",
+  "discover.empty.audiobook.cta": "ஒலிநூலைச் சேருங்கள்",
+  "discover.empty.comic.text": "உங்கள் பக்கங்களைப் பதிவேற்றுங்கள், வாசகர்கள் உங்கள் காமிக்கை இங்கே கண்டுகொள்வார்கள்.",
+  "discover.empty.comic.cta": "காமிக்கைப் பதிவேற்றுங்கள்",
+  "discover.empty.allLanguages": "எல்லா மொழிகளிலும் உள்ள தலைப்புகளைக் காட்டு"
 }

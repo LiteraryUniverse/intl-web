@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Yazar özeti",
   "notifications.workflow.readerSummary": "Okuma özeti",
   "notifications.workflow.taskReminders": "Görev hatırlatıcıları",
-  "notifications.workflow.organization-billing": "Kuruluş faturalandırması"
+  "notifications.workflow.organization-billing": "Kuruluş faturalandırması",
+  "notifications.workflow.story-backup": "Yazı yedekleri"
 }

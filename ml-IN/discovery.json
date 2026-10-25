@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Search for manga & comics",
   "discover.searchComic.description": "Search for manga and comics",
   "story.estimatedReadingTime.explainedCharacters": "മിനിറ്റിൽ {avgReadingNum, number} അക്ഷരങ്ങൾ എന്ന സ്ഥിരസ്ഥിതി വായനാവേഗത്തെ അടിസ്ഥാനമാക്കിയാണ് കണക്കാക്കിയത്.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "മിനിറ്റിൽ {wpm, number} അക്ഷരങ്ങൾ എന്ന നിങ്ങളുടെ വായനാവേഗത്തെ അടിസ്ഥാനമാക്കിയാണ് കണക്കാക്കിയത്."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "മിനിറ്റിൽ {wpm, number} അക്ഷരങ്ങൾ എന്ന നിങ്ങളുടെ വായനാവേഗത്തെ അടിസ്ഥാനമാക്കിയാണ് കണക്കാക്കിയത്.",
+  "discover.empty.title": "ഇവിടെ ഇതുവരെ ഒന്നും പ്രസിദ്ധീകരിച്ചിട്ടില്ല. ആദ്യത്തെയാളാകാൻ ആഗ്രഹമുണ്ടോ?",
+  "discover.empty.titleFiltered": "ഈ തിരയലുമായി പൊരുത്തപ്പെടുന്നതൊന്നും ഇതുവരെയില്ല. ആദ്യത്തെയാളാകാൻ ആഗ്രഹമുണ്ടോ?",
+  "discover.empty.all.text": "ഒരു കഥ എഴുതുക അല്ലെങ്കിൽ ഒരു ബ്രഹ്മാണ്ഡം നിർമ്മിക്കുക, വായനക്കാർ അത് ഇവിടെ കണ്ടെത്തും.",
+  "discover.empty.all.cta": "എഴുതിത്തുടങ്ങുക",
+  "discover.empty.story.text": "ഒരു കഥ എഴുതുക. നിങ്ങൾ അത് പ്രസിദ്ധീകരിച്ചുകഴിഞ്ഞാൽ, വായനക്കാർ അത് ഇവിടെ കണ്ടെത്തും.",
+  "discover.empty.story.cta": "ഒരു കഥ എഴുതിത്തുടങ്ങുക",
+  "discover.empty.universe.text": "സ്വന്തമായി വിജ്ഞാനകോശമുള്ള ഒരു ലോകം നിർമ്മിക്കുക, മറ്റ് എഴുത്തുകാർക്ക് അവരുടെ കഥകൾ അതിൽ നടക്കുന്നതായി എഴുതാം.",
+  "discover.empty.universe.cta": "ഒരു ബ്രഹ്മാണ്ഡം സൃഷ്ടിക്കുക",
+  "discover.empty.audiobook.text": "പ്രവർത്തനശാലയിൽ നിങ്ങളുടെ കഥകളിലൊന്ന് തുറന്ന് അതിലേക്ക് ഒരു ഓഡിയോബുക്ക് ചേർക്കുക.",
+  "discover.empty.audiobook.cta": "ഒരു ഓഡിയോബുക്ക് ചേർക്കുക",
+  "discover.empty.comic.text": "നിങ്ങളുടെ പേജുകൾ അപ്‌ലോഡ് ചെയ്യുക, വായനക്കാർ നിങ്ങളുടെ കോമിക് ഇവിടെ കണ്ടെത്തും.",
+  "discover.empty.comic.cta": "ഒരു കോമിക് അപ്‌ലോഡ് ചെയ്യുക",
+  "discover.empty.allLanguages": "എല്ലാ ഭാഷകളിലെയും തലക്കെട്ടുകൾ കാണിക്കുക"
 }

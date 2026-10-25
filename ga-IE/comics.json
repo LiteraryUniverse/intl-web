@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
   "comics.reader.loading": "Comic",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}",
+  "comics.import.preparing": "Reading comic export…",
+  "comics.import.invalid": "This ZIP is not a complete Tapas comic export. Choose the lu-import ZIP from your export.",
+  "comics.import.tooLarge": "This comic chapter is too large to import. Split it into smaller chapters and try again.",
+  "comics.import.failed": "The comic could not be imported. The chapters and uploads from this attempt were removed. Try again.",
+  "comics.import.cleanupFailed": "The import stopped and some new chapters or uploads could not be removed. Check your comic before trying again."
 }

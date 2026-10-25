@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "Произведение ({format}) будет отмечено как завершённое {date}, когда выйдет его последняя запланированная глава.",
   "comics.reader.loading": "Комикс",
   "comics.translation.mode.label": "Режим: {mode}",
-  "comics.pagesCount": "{count, plural, one {# страница} few {# страницы} many {# страниц} other {# страницы}}"
+  "comics.pagesCount": "{count, plural, one {# страница} few {# страницы} many {# страниц} other {# страницы}}",
+  "comics.import.preparing": "Читаем экспорт комикса…",
+  "comics.import.invalid": "Этот ZIP — не полный экспорт комикса из Tapas. Выберите из своего экспорта ZIP-архив lu-import.",
+  "comics.import.tooLarge": "Эта глава комикса слишком велика для импорта. Разделите её на главы поменьше и попробуйте снова.",
+  "comics.import.failed": "Не удалось импортировать комикс. Главы и загрузки, созданные при этой попытке, удалены. Попробуйте снова.",
+  "comics.import.cleanupFailed": "Импорт остановлен, и часть новых глав или загрузок удалить не удалось. Проверьте свой комикс, прежде чем пробовать снова."
 }

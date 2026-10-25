@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "નવી ભાષા ઉમેરવા માટે નવી ભાષા પસંદ કરો",
   "flashnews.onlyDisplayOn": "નમુનુકી પસંદ કરવામાં આવેલ ભાષાઓ પર જ નયા સમાચાર દર્શાવવામાં આવશે (જો તે પસંદ કરવામાં આવેલ હોય, તો) , અન્ય ભાષાઓમાં કોઈપણ સમાચાર દર્શાવવામાં નહીં આવશે અને તેમની જગ્યા પર મેળવેલ ભાષામાં કોઈપણ સમાચાર દર્શાવવામાં આવશે નહીં.",
   "flashnews.current": "Active flashnews",
-  "notifications.menu.all": "બધી નોટિફિકેશન",
+  "notifications.menu.all": "બધી સૂચનાઓ",
   "notifications.menu.following": "અનુસરણ",
   "notifications.menu.workshop": "વર્કશોપ",
   "notifications.menu.news": "ન્યૂઝ અને અપડેટ્સ",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Author summary",
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
-  "notifications.workflow.organization-billing": "Organization billing"
+  "notifications.workflow.organization-billing": "Organization billing",
+  "notifications.workflow.story-backup": "લેખન બેકઅપ"
 }

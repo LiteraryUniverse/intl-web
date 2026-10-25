@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Otsi mangat ja koomikseid",
   "discover.searchComic.description": "Manga ja koomiksite otsing",
   "story.estimatedReadingTime.explainedCharacters": "Arvutatud vaikimisi lugemiskiirusega {avgReadingNum, number} märki minutis.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Arvutatud sinu lugemiskiirusega {wpm, number} märki minutis."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Arvutatud sinu lugemiskiirusega {wpm, number} märki minutis.",
+  "discover.empty.title": "Siin pole veel midagi avaldatud. Kas tahad olla esimene?",
+  "discover.empty.titleFiltered": "Sellele otsingule ei vasta veel midagi. Kas tahad olla esimene?",
+  "discover.empty.all.text": "Kirjuta lugu või loo universum ja lugejad leiavad selle siit.",
+  "discover.empty.all.cta": "Alusta kirjutamist",
+  "discover.empty.story.text": "Kirjuta lugu. Kui selle avaldad, leiavad lugejad selle siit.",
+  "discover.empty.story.cta": "Alusta loo kirjutamist",
+  "discover.empty.universe.text": "Loo oma entsüklopeediaga maailm ja teised kirjanikud saavad oma lood sinna paigutada.",
+  "discover.empty.universe.cta": "Loo universum",
+  "discover.empty.audiobook.text": "Ava üks oma lugudest töötoas ja lisa sellele audioraamat.",
+  "discover.empty.audiobook.cta": "Lisa audioraamat",
+  "discover.empty.comic.text": "Laadi oma lehed üles ja lugejad leiavad sinu koomiksi siit.",
+  "discover.empty.comic.cta": "Laadi koomiks üles",
+  "discover.empty.allLanguages": "Näita pealkirju kõigis keeltes"
 }

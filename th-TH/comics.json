@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} จะถูกทำเครื่องหมายว่าจบแล้วในวันที่ {date} เมื่อบทสุดท้ายที่ตั้งเวลาไว้ถูกเผยแพร่",
   "comics.reader.loading": "การ์ตูน",
   "comics.translation.mode.label": "โหมด: {mode}",
-  "comics.pagesCount": "{count, plural, other {# หน้า}}"
+  "comics.pagesCount": "{count, plural, other {# หน้า}}",
+  "comics.import.preparing": "กำลังอ่านไฟล์ส่งออกการ์ตูน…",
+  "comics.import.invalid": "ไฟล์ ZIP นี้ไม่ใช่ไฟล์ส่งออกการ์ตูนจาก Tapas ที่สมบูรณ์ เลือกไฟล์ ZIP lu-import จากไฟล์ส่งออกของคุณ",
+  "comics.import.tooLarge": "ตอนการ์ตูนนี้ใหญ่เกินกว่าจะนำเข้าได้ แบ่งเป็นตอนที่เล็กลงแล้วลองอีกครั้ง",
+  "comics.import.failed": "นำเข้าการ์ตูนไม่สำเร็จ ตอนและไฟล์อัปโหลดจากความพยายามครั้งนี้ถูกลบแล้ว โปรดลองอีกครั้ง",
+  "comics.import.cleanupFailed": "การนำเข้าหยุดลงและไม่สามารถลบตอนหรือไฟล์อัปโหลดใหม่บางรายการได้ ตรวจสอบการ์ตูนของคุณก่อนลองอีกครั้ง"
 }

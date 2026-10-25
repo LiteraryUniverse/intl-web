@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Resumen del autor",
   "notifications.workflow.readerSummary": "Resumen de lectura",
   "notifications.workflow.taskReminders": "Recordatorios de tareas",
-  "notifications.workflow.organization-billing": "Facturación de la organización"
+  "notifications.workflow.organization-billing": "Facturación de la organización",
+  "notifications.workflow.story-backup": "Copias de seguridad de tus escritos"
 }

@@ -261,5 +261,18 @@
   "tapas.guide.help": "Natigil? Sumulat sa amin",
   "tapas.guide.back": "Bumalik sa pahina ng Tapas",
   "tapas.creators.migrator": "Mag-export mula sa Tapas gamit ang migrator",
-  "tapas.creators.guide": "Basahin ang hakbang-hakbang na gabay"
+  "tapas.creators.guide": "Basahin ang hakbang-hakbang na gabay",
+  "tapas.hero.display": "Isang bagong <accent>kabanata.</accent>",
+  "tapas.scene.doorAlt": "Bumubukas ang isang kahoy na pinto ng storybook habang nag-i-scroll ka, at lumilitaw si Lunea na kumakaway at si Luca na tinatanggap ka sa isang ginintuang aklatan.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Ay, nandiyan ka na pala.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Iniwan naming bukas ang ilaw para sa iyo.",
+  "tapas.scene.skip": "Laktawan ang pasukan",
+  "tapas.scene.scrollClosed": "Mag-scroll para buksan ang pinto",
+  "tapas.scene.scrollOpen": "Tuloy ka. Patuloy na mag-scroll.",
+  "tapas.art.packing": "Nakaupo si Lunea sa isang bangko sa tabi ng isang nag-aalalang creator na may hawak na salansan ng mga pahina ng komiks, habang nagsisilid si Luca ng iba pang pahina sa isang kahong karton.",
+  "tapas.art.creator": "Isang nakangiting creator na may hawak na lapis at isang pirasong papel.",
+  "tapas.art.sofa": "Magkasamang nagbabasa ng libro sina Luca at Lunea sa isang lavender na sofa, habang may salansan ng mga kwentong naghihintay sa malapit.",
+  "tapas.art.universe": "Itinataas ni Lunea ang isang quill at may hawak na tablet si Luca habang lumalabas mula sa isang bukas na libro ang isang kastilyo sa ulap, isang futuristic na lungsod, isang dragon at isang rocket."
 }

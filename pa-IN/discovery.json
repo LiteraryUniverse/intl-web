@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Search for manga & comics",
   "discover.searchComic.description": "Search for manga and comics",
   "story.estimatedReadingTime.explainedCharacters": "ਪ੍ਰਤੀ ਮਿੰਟ {avgReadingNum, number} ਅੱਖਰਾਂ ਦੀ ਮੂਲ ਪੜ੍ਹਨ ਦੀ ਗਤੀ ਦੇ ਆਧਾਰ 'ਤੇ।",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "ਪ੍ਰਤੀ ਮਿੰਟ {wpm, number} ਅੱਖਰਾਂ ਦੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀ ਦੇ ਆਧਾਰ 'ਤੇ।"
+  "story.estimatedReadingTime.explainedPersonalCharacters": "ਪ੍ਰਤੀ ਮਿੰਟ {wpm, number} ਅੱਖਰਾਂ ਦੀ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਦੀ ਗਤੀ ਦੇ ਆਧਾਰ 'ਤੇ।",
+  "discover.empty.title": "ਇੱਥੇ ਅਜੇ ਕੁਝ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਹੋਇਆ। ਕੀ ਤੁਸੀਂ ਪਹਿਲੇ ਬਣਨਾ ਚਾਹੋਗੇ?",
+  "discover.empty.titleFiltered": "ਅਜੇ ਕੁਝ ਵੀ ਇਸ ਖੋਜ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ। ਕੀ ਤੁਸੀਂ ਪਹਿਲੇ ਬਣਨਾ ਚਾਹੋਗੇ?",
+  "discover.empty.all.text": "ਕੋਈ ਕਹਾਣੀ ਲਿਖੋ ਜਾਂ ਬ੍ਰਹਿਮੰਡ ਬਣਾਓ, ਅਤੇ ਪਾਠਕ ਉਸਨੂੰ ਇੱਥੇ ਲੱਭ ਲੈਣਗੇ।",
+  "discover.empty.all.cta": "ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ",
+  "discover.empty.story.text": "ਕੋਈ ਕਹਾਣੀ ਲਿਖੋ। ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਨ ਤੋਂ ਬਾਅਦ ਪਾਠਕ ਉਸਨੂੰ ਇੱਥੇ ਲੱਭ ਲੈਣਗੇ।",
+  "discover.empty.story.cta": "ਕਹਾਣੀ ਲਿਖਣੀ ਸ਼ੁਰੂ ਕਰੋ",
+  "discover.empty.universe.text": "ਇੱਕ ਅਜਿਹਾ ਸੰਸਾਰ ਬਣਾਓ ਜਿਸਦਾ ਆਪਣਾ ਐਨਸਾਈਕਲੋਪੀਡੀਆ ਹੋਵੇ, ਅਤੇ ਹੋਰ ਲੇਖਕ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਉਸ ਵਿੱਚ ਰਚ ਸਕਣਗੇ।",
+  "discover.empty.universe.cta": "ਬ੍ਰਹਿਮੰਡ ਬਣਾਓ",
+  "discover.empty.audiobook.text": "ਵਰਕਸ਼ਾਪ ਵਿੱਚ ਆਪਣੀ ਕੋਈ ਕਹਾਣੀ ਖੋਲ੍ਹੋ ਅਤੇ ਉਸ ਵਿੱਚ ਆਡੀਓਬੁੱਕ ਜੋੜੋ।",
+  "discover.empty.audiobook.cta": "ਆਡੀਓਬੁੱਕ ਜੋੜੋ",
+  "discover.empty.comic.text": "ਆਪਣੇ ਪੰਨੇ ਅੱਪਲੋਡ ਕਰੋ ਅਤੇ ਪਾਠਕ ਤੁਹਾਡਾ ਕਾਮਿਕ ਇੱਥੇ ਲੱਭ ਲੈਣਗੇ।",
+  "discover.empty.comic.cta": "ਕਾਮਿਕ ਅੱਪਲੋਡ ਕਰੋ",
+  "discover.empty.allLanguages": "ਹਰ ਭਾਸ਼ਾ ਦੇ ਸਿਰਲੇਖ ਦਿਖਾਓ"
 }

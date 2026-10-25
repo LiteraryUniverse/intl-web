@@ -96,6 +96,7 @@
   "writer.play.transition": "Transição",
   "writer.play.synopsis": "Sinopse (não exibida aos leitores)",
   "writer.play.pageBreak": "Quebra de página",
+  "writer.play.splitDualDialogue": "Separar diálogo simultâneo",
   "writer.play.dualDialogue": "Diálogo simultâneo",
   "writer.play.note": "Nota (não exibida aos leitores)",
   "writer.play.boneyard": "Comentar (não exibido aos leitores)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Ver a atividade em uma tabela",
   "writer.publish.insights.tableCaption": "Atividade típica por dia da semana e hora",
   "writer.publish.insights.window": "Janela",
-  "writer.publish.insights.updated": "Calculado em {date, date, short} às {date, time, short}."
+  "writer.publish.insights.updated": "Calculado em {date, date, short} às {date, time, short}.",
+  "writer.play.insertTemplate": "Inserir modelo de roteiro",
+  "writer.play.insert": "Inserir roteiro",
+  "writer.play.template.dialogue": "Personagem e diálogo",
+  "writer.play.template.scene": "Cena / rubricas",
+  "writer.play.placeholder.character": "Escolha um personagem ou digite um nome",
+  "writer.play.placeholder.dialogue": "Escreva o diálogo…",
+  "writer.play.placeholder.scene": "INT. / EXT. LOCAL - DIA / NOITE",
+  "writer.play.placeholder.action": "Descreva a ação ou as rubricas…",
+  "writer.play.placeholder.parenthetical": "(Como a fala é dita)",
+  "writer.play.placeholder.transition": "CORTA PARA:",
+  "writer.play.characterSuggestions.help": "Escolha um personagem ou digite um novo nome. Enter inicia o diálogo.",
+  "writer.play.notePlaceholder": "Escreva uma nota privada…"
 }

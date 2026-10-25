@@ -261,5 +261,18 @@
   "tapas.guide.help": "Zasekli ste sa? Napíšte nám",
   "tapas.guide.back": "Späť na stránku o Tapas",
   "tapas.creators.migrator": "Exportujte z Tapas pomocou migrátora",
-  "tapas.creators.guide": "Prečítajte si návod krok za krokom"
+  "tapas.creators.guide": "Prečítajte si návod krok za krokom",
+  "tapas.hero.display": "Nová <accent>kapitola.</accent>",
+  "tapas.scene.doorAlt": "Drevené rozprávkové dvere sa pri posúvaní stránky otvárajú a odhaľujú mávajúcu Luneu a Lucu, ktorý vás víta v zlatej knižnici.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Á, tu ste.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Nechali sme vám rozsvietené.",
+  "tapas.scene.skip": "Preskočiť úvod",
+  "tapas.scene.scrollClosed": "Posuňte stránku a otvorte dvere",
+  "tapas.scene.scrollOpen": "Poďte ďalej. Posúvajte nadol.",
+  "tapas.art.packing": "Lunea sedí na lavičke vedľa ustarosteného tvorcu, ktorý drží kôpku komiksových strán, zatiaľ čo Luca balí ďalšie strany do kartónovej škatule.",
+  "tapas.art.creator": "Usmievavý tvorca s ceruzkou a listom papiera.",
+  "tapas.art.sofa": "Luca a Lunea si na levanduľovej pohovke spoločne čítajú knihu a neďaleko čaká kôpka príbehov.",
+  "tapas.art.universe": "Lunea dvíha brko a Luca drží tablet, zatiaľ čo z otvorenej knihy vystupuje hrad v oblakoch, futuristické mesto, drak a raketa."
 }

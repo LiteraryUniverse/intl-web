@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "سيوضع على {format} علامة «مكتمل» في {date}، عند صدور آخر فصل مجدول.",
   "comics.reader.loading": "قصة مصورة",
   "comics.translation.mode.label": "الوضع: {mode}",
-  "comics.pagesCount": "{count, plural, zero {لا صفحات} one {صفحة واحدة} two {صفحتان} few {# صفحات} many {# صفحة} other {# صفحة}}"
+  "comics.pagesCount": "{count, plural, zero {لا صفحات} one {صفحة واحدة} two {صفحتان} few {# صفحات} many {# صفحة} other {# صفحة}}",
+  "comics.import.preparing": "جارٍ قراءة ملف تصدير القصة المصورة…",
+  "comics.import.invalid": "ملف ZIP هذا ليس تصديرًا كاملًا لقصة مصورة من Tapas. اختر ملف ZIP المسمى lu-import من ملفات التصدير لديك.",
+  "comics.import.tooLarge": "فصل القصة المصورة هذا أكبر من أن يُستورد. قسّمه إلى فصول أصغر وحاول مرة أخرى.",
+  "comics.import.failed": "تعذّر استيراد القصة المصورة. أُزيلت الفصول والملفات المرفوعة في هذه المحاولة. حاول مرة أخرى.",
+  "comics.import.cleanupFailed": "توقّف الاستيراد وتعذّرت إزالة بعض الفصول أو الملفات المرفوعة الجديدة. تحقّق من قصتك المصورة قبل المحاولة مرة أخرى."
 }

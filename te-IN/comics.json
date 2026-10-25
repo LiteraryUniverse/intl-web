@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
   "comics.reader.loading": "Comic",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}",
+  "comics.import.preparing": "కామిక్ ఎగుమతిని చదువుతోంది…",
+  "comics.import.invalid": "ఈ ZIP పూర్తి Tapas కామిక్ ఎగుమతి కాదు. మీ ఎగుమతి నుండి lu-import ZIPను ఎంచుకోండి.",
+  "comics.import.tooLarge": "ఈ కామిక్ అధ్యాయం దిగుమతి చేయడానికి చాలా పెద్దది. దీన్ని చిన్న అధ్యాయాలుగా విభజించి మళ్లీ ప్రయత్నించండి.",
+  "comics.import.failed": "కామిక్‌ను దిగుమతి చేయలేకపోయాం. ఈ ప్రయత్నంలో వచ్చిన అధ్యాయాలు, అప్‌లోడ్‌లు తీసివేయబడ్డాయి. మళ్లీ ప్రయత్నించండి.",
+  "comics.import.cleanupFailed": "దిగుమతి ఆగిపోయింది, కొన్ని కొత్త అధ్యాయాలు లేదా అప్‌లోడ్‌లను తీసివేయలేకపోయాం. మళ్లీ ప్రయత్నించే ముందు మీ కామిక్‌ను తనిఖీ చేయండి."
 }

@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Pesquisar mangas e banda desenhada",
   "discover.searchComic.description": "Pesquisar mangas e banda desenhada",
   "story.estimatedReadingTime.explainedCharacters": "Com base numa velocidade de leitura predefinida de {avgReadingNum, number} carateres por minuto.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Com base na tua velocidade de leitura de {wpm, number} carateres por minuto."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Com base na tua velocidade de leitura de {wpm, number} carateres por minuto.",
+  "discover.empty.title": "Ainda não há nada publicado aqui. Quer ser o primeiro?",
+  "discover.empty.titleFiltered": "Ainda nada corresponde a esta pesquisa. Quer ser o primeiro?",
+  "discover.empty.all.text": "Escreva uma história ou construa um universo, e os leitores vão encontrar o seu trabalho aqui.",
+  "discover.empty.all.cta": "Começar a escrever",
+  "discover.empty.story.text": "Escreva uma história. Depois de a publicar, os leitores vão encontrá-la aqui.",
+  "discover.empty.story.cta": "Começar a escrever uma história",
+  "discover.empty.universe.text": "Construa um mundo com a sua própria enciclopédia, e outros escritores poderão situar nele as suas histórias.",
+  "discover.empty.universe.cta": "Criar um universo",
+  "discover.empty.audiobook.text": "Abra uma das suas histórias na oficina e adicione-lhe um audiolivro.",
+  "discover.empty.audiobook.cta": "Adicionar um audiolivro",
+  "discover.empty.comic.text": "Carregue as suas páginas e os leitores vão encontrar a sua banda desenhada aqui.",
+  "discover.empty.comic.cta": "Carregar uma banda desenhada",
+  "discover.empty.allLanguages": "Mostrar títulos em todas as línguas"
 }

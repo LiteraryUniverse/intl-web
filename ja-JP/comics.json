@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "この{format}は、予約済みの最後の章が公開される{date}に完了としてマークされます。",
   "comics.reader.loading": "コミック",
   "comics.translation.mode.label": "モード: {mode}",
-  "comics.pagesCount": "{count, plural, other {# ページ}}"
+  "comics.pagesCount": "{count, plural, other {# ページ}}",
+  "comics.import.preparing": "コミックのエクスポートを読み込んでいます…",
+  "comics.import.invalid": "この ZIP は完全な Tapas コミックエクスポートではありません。エクスポートに含まれる lu-import の ZIP を選んでください。",
+  "comics.import.tooLarge": "このコミックの章は大きすぎてインポートできません。小さな章に分割してから、もう一度お試しください。",
+  "comics.import.failed": "コミックをインポートできませんでした。今回の試行で作成された章とアップロードは削除されました。もう一度お試しください。",
+  "comics.import.cleanupFailed": "インポートが中断され、新しく作成された章やアップロードの一部を削除できませんでした。もう一度試す前に、コミックを確認してください。"
 }

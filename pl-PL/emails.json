@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Zmiana statusu opowieści",
   "email.storyStatus.intro": "Status Twojej opowieści się zmienił.",
   "email.storyStatus.why": "Co się stało i dlaczego:",
-  "email.storyStatus.next": "Co będzie dalej:"
+  "email.storyStatus.next": "Co będzie dalej:",
+  "email.backup.subject": "Twoja kopia zapasowa opowieści „{storyTitle}”",
+  "email.backup.intro": "Oto Twoja zaplanowana kopia zapasowa opowieści „{storyTitle}”.",
+  "email.backup.formats": "Załączone pliki: {formats}",
+  "email.backup.footer": "Zaplanowanymi kopiami zapasowymi możesz zarządzać lub je wyłączyć w Warsztacie swojej opowieści."
 }

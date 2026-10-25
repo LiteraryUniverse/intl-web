@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Nieuwe status van je verhaal",
   "email.storyStatus.intro": "De status van je verhaal is gewijzigd.",
   "email.storyStatus.why": "Dit is er gebeurd en waarom:",
-  "email.storyStatus.next": "Zo gaat het verder:"
+  "email.storyStatus.next": "Zo gaat het verder:",
+  "email.backup.subject": "Je back-up van “{storyTitle}”",
+  "email.backup.intro": "Hier is je geplande back-up van “{storyTitle}”.",
+  "email.backup.formats": "Bijgevoegde bestanden: {formats}",
+  "email.backup.footer": "Beheer of stop geplande back-ups in de werkplaats van je verhaal."
 }

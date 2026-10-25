@@ -96,6 +96,7 @@
   "writer.play.transition": "轉場",
   "writer.play.synopsis": "大綱（不會顯示給讀者）",
   "writer.play.pageBreak": "分頁",
+  "writer.play.splitDualDialogue": "拆分雙人同步對白",
   "writer.play.dualDialogue": "雙人對白",
   "writer.play.note": "備註（不會顯示給讀者）",
   "writer.play.boneyard": "註解掉（不會顯示給讀者）",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "以表格檢視活動",
   "writer.publish.insights.tableCaption": "一週各日與各時段的典型活動",
   "writer.publish.insights.window": "時段",
-  "writer.publish.insights.updated": "於 {date, date, short} {date, time, short} 計算。"
+  "writer.publish.insights.updated": "於 {date, date, short} {date, time, short} 計算。",
+  "writer.play.insertTemplate": "插入劇本範本",
+  "writer.play.insert": "插入劇本",
+  "writer.play.template.dialogue": "角色與對白",
+  "writer.play.template.scene": "場景／舞台指示",
+  "writer.play.placeholder.character": "選擇角色或輸入名稱",
+  "writer.play.placeholder.dialogue": "寫下對白…",
+  "writer.play.placeholder.scene": "內景／外景 地點 - 日／夜",
+  "writer.play.placeholder.action": "描述動作或舞台指示…",
+  "writer.play.placeholder.parenthetical": "（這句台詞怎麼說）",
+  "writer.play.placeholder.transition": "切至：",
+  "writer.play.characterSuggestions.help": "選擇角色或輸入新名稱。按 Enter 開始寫對白。",
+  "writer.play.notePlaceholder": "寫下私人筆記…"
 }

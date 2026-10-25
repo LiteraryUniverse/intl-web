@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "La {format} estos markita kiel kompletigita je {date}, kiam ĝia lasta planita ĉapitro aperos.",
   "comics.reader.loading": "Komikso",
   "comics.translation.mode.label": "Reĝimo: {mode}",
-  "comics.pagesCount": "{count, plural, one {# paĝo} other {# paĝoj}}"
+  "comics.pagesCount": "{count, plural, one {# paĝo} other {# paĝoj}}",
+  "comics.import.preparing": "Legante la komiksan eksporton…",
+  "comics.import.invalid": "Ĉi tiu ZIP ne estas kompleta komiksa eksporto de Tapas. Elektu la ZIP-on lu-import el via eksporto.",
+  "comics.import.tooLarge": "Ĉi tiu komiksa ĉapitro estas tro granda por importi. Dividu ĝin en pli malgrandajn ĉapitrojn kaj reprovu.",
+  "comics.import.failed": "Ne eblis importi la komikson. La ĉapitroj kaj alŝutaĵoj de ĉi tiu provo estis forigitaj. Reprovu.",
+  "comics.import.cleanupFailed": "La importo haltis, kaj kelkajn novajn ĉapitrojn aŭ alŝutaĵojn ne eblis forigi. Kontrolu vian komikson antaŭ ol reprovi."
 }

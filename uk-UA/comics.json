@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} буде позначено як завершене {date}, коли вийде останній запланований розділ.",
   "comics.reader.loading": "Комікс",
   "comics.translation.mode.label": "Режим: {mode}",
-  "comics.pagesCount": "{count, plural, one {# сторінка} few {# сторінки} many {# сторінок} other {# сторінки}}"
+  "comics.pagesCount": "{count, plural, one {# сторінка} few {# сторінки} many {# сторінок} other {# сторінки}}",
+  "comics.import.preparing": "Читаємо експорт коміксу…",
+  "comics.import.invalid": "Цей ZIP не є повним експортом коміксу з Tapas. Виберіть зі свого експорту ZIP-архів lu-import.",
+  "comics.import.tooLarge": "Цей розділ коміксу завеликий для імпорту. Розділіть його на менші розділи й спробуйте ще раз.",
+  "comics.import.failed": "Не вдалося імпортувати комікс. Розділи та завантаження з цієї спроби вилучено. Спробуйте ще раз.",
+  "comics.import.cleanupFailed": "Імпорт зупинився, і деякі нові розділи або завантаження не вдалося вилучити. Перевірте свій комікс, перш ніж пробувати знову."
 }

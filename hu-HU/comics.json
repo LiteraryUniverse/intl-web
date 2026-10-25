@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "A(z) {format} ekkor lesz befejezettként megjelölve: {date}, amikor az utolsó ütemezett fejezete megjelenik.",
   "comics.reader.loading": "Képregény",
   "comics.translation.mode.label": "Mód: {mode}",
-  "comics.pagesCount": "{count, plural, one {# oldal} other {# oldal}}"
+  "comics.pagesCount": "{count, plural, one {# oldal} other {# oldal}}",
+  "comics.import.preparing": "Képregény-exportálás beolvasása…",
+  "comics.import.invalid": "Ez a ZIP nem teljes Tapas képregény-exportálás. Válaszd az exportálásodból a lu-import ZIP-fájlt.",
+  "comics.import.tooLarge": "Ez a képregényfejezet túl nagy az importáláshoz. Oszd fel kisebb fejezetekre, és próbáld újra.",
+  "comics.import.failed": "A képregényt nem sikerült importálni. Az ebből a kísérletből származó fejezeteket és feltöltéseket eltávolítottuk. Próbáld újra.",
+  "comics.import.cleanupFailed": "Az importálás leállt, és néhány új fejezetet vagy feltöltést nem sikerült eltávolítani. Mielőtt újra próbálkoznál, ellenőrizd a képregényedet."
 }

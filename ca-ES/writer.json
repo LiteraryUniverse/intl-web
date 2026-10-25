@@ -96,6 +96,7 @@
   "writer.play.transition": "Transició",
   "writer.play.synopsis": "Sinopsi (no es mostra als lectors)",
   "writer.play.pageBreak": "Salt de pàgina",
+  "writer.play.splitDualDialogue": "Separa el diàleg simultani",
   "writer.play.dualDialogue": "Diàleg simultani",
   "writer.play.note": "Nota (no es mostra als lectors)",
   "writer.play.boneyard": "Comenta (no es mostra als lectors)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Mostra l'activitat en una taula",
   "writer.publish.insights.tableCaption": "Activitat habitual per dia de la setmana i hora",
   "writer.publish.insights.window": "Franja",
-  "writer.publish.insights.updated": "Calculat el {date, date, short} a les {date, time, short}."
+  "writer.publish.insights.updated": "Calculat el {date, date, short} a les {date, time, short}.",
+  "writer.play.insertTemplate": "Insereix una plantilla de guió",
+  "writer.play.insert": "Insereix guió",
+  "writer.play.template.dialogue": "Personatge i diàleg",
+  "writer.play.template.scene": "Escena / acotacions",
+  "writer.play.placeholder.character": "Tria un personatge o escriu un nom",
+  "writer.play.placeholder.dialogue": "Escriu el diàleg…",
+  "writer.play.placeholder.scene": "INT. / EXT. LLOC - DIA / NIT",
+  "writer.play.placeholder.action": "Descriu l’acció o les acotacions…",
+  "writer.play.placeholder.parenthetical": "(Com es diu la frase)",
+  "writer.play.placeholder.transition": "TALL A:",
+  "writer.play.characterSuggestions.help": "Tria un personatge o escriu un nom nou. Retorn comença el diàleg.",
+  "writer.play.notePlaceholder": "Escriu una nota privada…"
 }

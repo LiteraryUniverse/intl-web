@@ -261,5 +261,18 @@
   "tapas.guide.help": "Vasgehaak? Skryf vir ons",
   "tapas.guide.back": "Terug na die Tapas-bladsy",
   "tapas.creators.migrator": "Voer uit Tapas uit met die migreerder",
-  "tapas.creators.guide": "Lees die stap-vir-stap-gids"
+  "tapas.creators.guide": "Lees die stap-vir-stap-gids",
+  "tapas.hero.display": "’n Nuwe <accent>hoofstuk.</accent>",
+  "tapas.scene.doorAlt": "’n Hout-storieboekdeur gaan oop terwyl jy rol en onthul Lunea wat waai en Luca wat jou in ’n goue biblioteek verwelkom.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "O, daar is jy.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Ons het die lig vir jou aangelos.",
+  "tapas.scene.skip": "Slaan die ingang oor",
+  "tapas.scene.scrollClosed": "Rol om die deur oop te maak",
+  "tapas.scene.scrollOpen": "Kom binne. Hou aan rol.",
+  "tapas.art.packing": "Lunea sit op ’n bank langs ’n bekommerde skepper wat ’n stapel strokiesprentbladsye vashou, terwyl Luca nog bladsye in ’n kartondoos pak.",
+  "tapas.art.creator": "’n Glimlaggende skepper met ’n potlood en ’n vel papier.",
+  "tapas.art.sofa": "Luca en Lunea lees saam ’n boek op ’n laventelkleurige bank, met ’n stapel stories wat naby wag.",
+  "tapas.art.universe": "Lunea lig ’n veerpen en Luca hou ’n tablet vas terwyl ’n oop boek ’n kasteel in die wolke, ’n futuristiese stad, ’n draak en ’n vuurpyl vrystel."
 }

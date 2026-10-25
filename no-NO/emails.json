@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Oppdatering av historiens status",
   "email.storyStatus.intro": "Statusen til historien din er endret.",
   "email.storyStatus.why": "Dette har skjedd, og hvorfor:",
-  "email.storyStatus.next": "Dette skjer videre:"
+  "email.storyStatus.next": "Dette skjer videre:",
+  "email.backup.subject": "Sikkerhetskopien din av «{storyTitle}»",
+  "email.backup.intro": "Her er den planlagte sikkerhetskopien din av «{storyTitle}».",
+  "email.backup.formats": "Vedlagte filer: {formats}",
+  "email.backup.footer": "Administrer eller slå av planlagte sikkerhetskopier i historiens verksted."
 }

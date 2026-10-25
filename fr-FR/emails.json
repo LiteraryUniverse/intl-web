@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Mise à jour du statut de votre histoire",
   "email.storyStatus.intro": "Le statut de votre histoire a changé.",
   "email.storyStatus.why": "Voici ce qui s'est passé et pourquoi :",
-  "email.storyStatus.next": "Ce qui va se passer ensuite :"
+  "email.storyStatus.next": "Ce qui va se passer ensuite :",
+  "email.backup.subject": "Votre sauvegarde de « {storyTitle} »",
+  "email.backup.intro": "Voici votre sauvegarde programmée de « {storyTitle} ».",
+  "email.backup.formats": "Fichiers joints : {formats}",
+  "email.backup.footer": "Gérez ou désactivez les sauvegardes programmées dans l’atelier de votre histoire."
 }

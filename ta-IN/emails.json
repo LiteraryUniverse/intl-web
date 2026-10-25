@@ -247,5 +247,9 @@
   "email.storyStatus.title": "கதையின் நிலை புதுப்பிப்பு",
   "email.storyStatus.intro": "உங்கள் கதையின் நிலையில் ஒரு மாற்றம் ஏற்பட்டுள்ளது.",
   "email.storyStatus.why": "என்ன நடந்தது, ஏன் என்பது இதோ:",
-  "email.storyStatus.next": "அடுத்து என்ன நடக்கும்:"
+  "email.storyStatus.next": "அடுத்து என்ன நடக்கும்:",
+  "email.backup.subject": "“{storyTitle}” கதைக்கான உங்கள் காப்புப்பிரதி",
+  "email.backup.intro": "“{storyTitle}” கதைக்கான உங்கள் திட்டமிட்ட காப்புப்பிரதி இதோ.",
+  "email.backup.formats": "இணைக்கப்பட்ட கோப்புகள்: {formats}",
+  "email.backup.footer": "திட்டமிட்ட காப்புப்பிரதிகளை உங்கள் கதையின் வடிவமைப்புப் பக்கத்தில் நிர்வகிக்கலாம் அல்லது நிறுத்தலாம்."
 }

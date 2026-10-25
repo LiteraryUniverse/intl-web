@@ -96,6 +96,7 @@
   "writer.play.transition": "Transition",
   "writer.play.synopsis": "Synopsis (non visible par les lecteurs)",
   "writer.play.pageBreak": "Saut de page",
+  "writer.play.splitDualDialogue": "Séparer le dialogue simultané",
   "writer.play.dualDialogue": "Dialogue simultané",
   "writer.play.note": "Note (non visible par les lecteurs)",
   "writer.play.boneyard": "Mettre en commentaire (non visible par les lecteurs)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Afficher l'activité dans un tableau",
   "writer.publish.insights.tableCaption": "Activité habituelle par jour de la semaine et par heure",
   "writer.publish.insights.window": "Créneau",
-  "writer.publish.insights.updated": "Calculé le {date, date, short} à {date, time, short}."
+  "writer.publish.insights.updated": "Calculé le {date, date, short} à {date, time, short}.",
+  "writer.play.insertTemplate": "Insérer un modèle de script",
+  "writer.play.insert": "Insérer un script",
+  "writer.play.template.dialogue": "Personnage et dialogue",
+  "writer.play.template.scene": "Scène / indications scéniques",
+  "writer.play.placeholder.character": "Choisissez un personnage ou saisissez un nom",
+  "writer.play.placeholder.dialogue": "Écrivez le dialogue…",
+  "writer.play.placeholder.scene": "INT. / EXT. LIEU - JOUR / NUIT",
+  "writer.play.placeholder.action": "Décrivez l’action ou les indications scéniques…",
+  "writer.play.placeholder.parenthetical": "(Comment la réplique est dite)",
+  "writer.play.placeholder.transition": "CUT :",
+  "writer.play.characterSuggestions.help": "Choisissez un personnage ou saisissez un nouveau nom. La touche Entrée lance le dialogue.",
+  "writer.play.notePlaceholder": "Écrivez une note privée…"
 }

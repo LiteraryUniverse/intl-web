@@ -247,5 +247,9 @@
   "email.storyStatus.title": "อัปเดตสถานะเรื่องราว",
   "email.storyStatus.intro": "สถานะเรื่องราวของคุณมีการเปลี่ยนแปลง",
   "email.storyStatus.why": "นี่คือสิ่งที่เกิดขึ้นและเหตุผล:",
-  "email.storyStatus.next": "สิ่งที่จะเกิดขึ้นต่อไป:"
+  "email.storyStatus.next": "สิ่งที่จะเกิดขึ้นต่อไป:",
+  "email.backup.subject": "ข้อมูลสำรองของคุณสำหรับ “{storyTitle}”",
+  "email.backup.intro": "นี่คือข้อมูลสำรองตามกำหนดเวลาของคุณสำหรับ “{storyTitle}”",
+  "email.backup.formats": "ไฟล์แนบ: {formats}",
+  "email.backup.footer": "จัดการหรือปิดการสำรองข้อมูลตามกำหนดเวลาได้ในเวิร์กช็อปของเรื่องราว"
 }

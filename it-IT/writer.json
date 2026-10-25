@@ -96,6 +96,7 @@
   "writer.play.transition": "Transizione",
   "writer.play.synopsis": "Sinossi (non visibile ai lettori)",
   "writer.play.pageBreak": "Interruzione di pagina",
+  "writer.play.splitDualDialogue": "Dividi il dialogo simultaneo",
   "writer.play.dualDialogue": "Dialogo simultaneo",
   "writer.play.note": "Nota (non visibile ai lettori)",
   "writer.play.boneyard": "Commenta (non visibile ai lettori)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Mostrare l'attività in una tabella",
   "writer.publish.insights.tableCaption": "Attività tipica per giorno della settimana e ora",
   "writer.publish.insights.window": "Finestra",
-  "writer.publish.insights.updated": "Calcolato il {date, date, short} alle {date, time, short}."
+  "writer.publish.insights.updated": "Calcolato il {date, date, short} alle {date, time, short}.",
+  "writer.play.insertTemplate": "Inserisci un modello di copione",
+  "writer.play.insert": "Inserisci copione",
+  "writer.play.template.dialogue": "Personaggio e dialogo",
+  "writer.play.template.scene": "Scena / didascalie",
+  "writer.play.placeholder.character": "Scegli un personaggio o digita un nome",
+  "writer.play.placeholder.dialogue": "Scrivi il dialogo…",
+  "writer.play.placeholder.scene": "INT. / EST. LUOGO - GIORNO / NOTTE",
+  "writer.play.placeholder.action": "Descrivi l’azione o le didascalie…",
+  "writer.play.placeholder.parenthetical": "(Come viene detta la battuta)",
+  "writer.play.placeholder.transition": "STACCO SU:",
+  "writer.play.characterSuggestions.help": "Scegli un personaggio o digita un nuovo nome. Invio avvia il dialogo.",
+  "writer.play.notePlaceholder": "Scrivi una nota privata…"
 }

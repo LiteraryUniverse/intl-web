@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Autorenübersicht",
   "notifications.workflow.readerSummary": "Leseübersicht",
   "notifications.workflow.taskReminders": "Aufgabenerinnerungen",
-  "notifications.workflow.organization-billing": "Abrechnung der Organisation"
+  "notifications.workflow.organization-billing": "Abrechnung der Organisation",
+  "notifications.workflow.story-backup": "Text-Backups"
 }

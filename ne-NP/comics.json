@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "The {format} will be marked as completed on {date}, when its last scheduled chapter is released.",
   "comics.reader.loading": "Comic",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}"
+  "comics.pagesCount": "{count, plural, one {# page} other {# pages}}",
+  "comics.import.preparing": "कमिक निर्यात पढ्दै…",
+  "comics.import.invalid": "यो ZIP पूरा Tapas कमिक निर्यात होइन। आफ्नो निर्यातबाट lu-import ZIP छान्नुहोस्।",
+  "comics.import.tooLarge": "यो कमिक अध्याय आयात गर्न धेरै ठूलो छ। यसलाई साना अध्यायहरूमा विभाजन गरेर फेरि प्रयास गर्नुहोस्।",
+  "comics.import.failed": "कमिक आयात गर्न सकिएन। यस प्रयासका अध्याय र अपलोडहरू हटाइए। फेरि प्रयास गर्नुहोस्।",
+  "comics.import.cleanupFailed": "आयात रोकियो र केही नयाँ अध्याय वा अपलोडहरू हटाउन सकिएन। फेरि प्रयास गर्नुअघि आफ्नो कमिक जाँच्नुहोस्।"
 }

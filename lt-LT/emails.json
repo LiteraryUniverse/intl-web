@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Istorijos būsena pasikeitė",
   "email.storyStatus.intro": "Pasikeitė jūsų istorijos būsena.",
   "email.storyStatus.why": "Štai kas nutiko ir kodėl:",
-  "email.storyStatus.next": "Kas bus toliau:"
+  "email.storyStatus.next": "Kas bus toliau:",
+  "email.backup.subject": "Jūsų istorijos „{storyTitle}“ atsarginė kopija",
+  "email.backup.intro": "Štai suplanuota jūsų istorijos „{storyTitle}“ atsarginė kopija.",
+  "email.backup.formats": "Pridėti failai: {formats}",
+  "email.backup.footer": "Suplanuotas atsargines kopijas galite tvarkyti arba išjungti savo istorijos dirbtuvėse."
 }

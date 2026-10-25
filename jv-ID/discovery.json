@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Search for manga & comics",
   "discover.searchComic.description": "Search for manga and comics",
   "story.estimatedReadingTime.explainedCharacters": "Adhedhasar kacepetan maca baku {avgReadingNum, number} aksara saben menit.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Adhedhasar kacepetan maca sampeyan {wpm, number} aksara saben menit."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Adhedhasar kacepetan maca sampeyan {wpm, number} aksara saben menit.",
+  "discover.empty.title": "Nothing published here yet. Want to be the first?",
+  "discover.empty.titleFiltered": "Nothing matches this search yet. Want to be the first?",
+  "discover.empty.all.text": "Write a story or build a universe, and readers will find it here.",
+  "discover.empty.all.cta": "Start writing",
+  "discover.empty.story.text": "Write a story. Once you publish it, readers will find it here.",
+  "discover.empty.story.cta": "Start writing a story",
+  "discover.empty.universe.text": "Build a world with its own encyclopedia, and other writers can set their stories in it.",
+  "discover.empty.universe.cta": "Create a universe",
+  "discover.empty.audiobook.text": "Open one of your stories in the workshop and add an audiobook to it.",
+  "discover.empty.audiobook.cta": "Add an audiobook",
+  "discover.empty.comic.text": "Upload your pages and readers will find your comic here.",
+  "discover.empty.comic.cta": "Upload a comic",
+  "discover.empty.allLanguages": "Show titles in every language"
 }

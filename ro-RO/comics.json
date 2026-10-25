@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} va fi marcat(ă) ca finalizat(ă) pe {date}, când apare ultimul capitol programat.",
   "comics.reader.loading": "Bandă desenată",
   "comics.translation.mode.label": "Mod: {mode}",
-  "comics.pagesCount": "{count, plural, one {# pagină} few {# pagini} other {# de pagini}}"
+  "comics.pagesCount": "{count, plural, one {# pagină} few {# pagini} other {# de pagini}}",
+  "comics.import.preparing": "Se citește exportul benzii desenate…",
+  "comics.import.invalid": "Acest ZIP nu este un export complet al unei benzi desenate Tapas. Alege ZIP-ul lu-import din exportul tău.",
+  "comics.import.tooLarge": "Acest capitol al benzii desenate este prea mare pentru a fi importat. Împarte-l în capitole mai mici și încearcă din nou.",
+  "comics.import.failed": "Banda desenată nu a putut fi importată. Capitolele și fișierele încărcate în această încercare au fost eliminate. Încearcă din nou.",
+  "comics.import.cleanupFailed": "Importul s-a oprit, iar unele capitole sau fișiere încărcate noi nu au putut fi eliminate. Verifică banda desenată înainte de a încerca din nou."
 }

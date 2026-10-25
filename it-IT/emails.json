@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Aggiornamento sullo stato della storia",
   "email.storyStatus.intro": "Lo stato della tua storia è cambiato.",
   "email.storyStatus.why": "Ecco cosa è successo e perché:",
-  "email.storyStatus.next": "Cosa succede ora:"
+  "email.storyStatus.next": "Cosa succede ora:",
+  "email.backup.subject": "Il tuo backup di «{storyTitle}»",
+  "email.backup.intro": "Ecco il backup programmato di «{storyTitle}».",
+  "email.backup.formats": "File allegati: {formats}",
+  "email.backup.footer": "Gestisci o disattiva i backup programmati nel laboratorio della tua storia."
 }

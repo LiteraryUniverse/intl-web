@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Etsi mangaa ja sarjakuvia",
   "discover.searchComic.description": "Etsi mangaa ja sarjakuvia",
   "story.estimatedReadingTime.explainedCharacters": "Perustuu oletuslukunopeuteen {avgReadingNum, number} merkkiä minuutissa.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Perustuu lukunopeuteesi {wpm, number} merkkiä minuutissa."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Perustuu lukunopeuteesi {wpm, number} merkkiä minuutissa.",
+  "discover.empty.title": "Täällä ei ole vielä mitään julkaistua. Haluatko olla ensimmäinen?",
+  "discover.empty.titleFiltered": "Mikään ei vielä vastaa tätä hakua. Haluatko olla ensimmäinen?",
+  "discover.empty.all.text": "Kirjoita tarina tai rakenna universumi, niin lukijat löytävät sen täältä.",
+  "discover.empty.all.cta": "Aloita kirjoittaminen",
+  "discover.empty.story.text": "Kirjoita tarina. Kun julkaiset sen, lukijat löytävät sen täältä.",
+  "discover.empty.story.cta": "Aloita tarinan kirjoittaminen",
+  "discover.empty.universe.text": "Rakenna maailma, jolla on oma tietosanakirja, niin muut kirjoittajat voivat sijoittaa tarinansa siihen.",
+  "discover.empty.universe.cta": "Luo universumi",
+  "discover.empty.audiobook.text": "Avaa jokin tarinoistasi työpajassa ja lisää siihen äänikirja.",
+  "discover.empty.audiobook.cta": "Lisää äänikirja",
+  "discover.empty.comic.text": "Lataa sivusi, niin lukijat löytävät sarjakuvasi täältä.",
+  "discover.empty.comic.cta": "Lataa sarjakuva",
+  "discover.empty.allLanguages": "Näytä nimikkeet kaikilla kielillä"
 }

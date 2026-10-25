@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Søk etter manga og tegneserier",
   "discover.searchComic.description": "Søk etter manga og tegneserier",
   "story.estimatedReadingTime.explainedCharacters": "Basert på en standard lesehastighet på {avgReadingNum, number} tegn per minutt.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Basert på lesehastigheten din på {wpm, number} tegn per minutt."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Basert på lesehastigheten din på {wpm, number} tegn per minutt.",
+  "discover.empty.title": "Ingenting er publisert her ennå. Vil du være den første?",
+  "discover.empty.titleFiltered": "Ingenting passer til dette søket ennå. Vil du være den første?",
+  "discover.empty.all.text": "Skriv en historie eller bygg et univers, så finner leserne det her.",
+  "discover.empty.all.cta": "Begynn å skrive",
+  "discover.empty.story.text": "Skriv en historie. Når du publiserer den, finner leserne den her.",
+  "discover.empty.story.cta": "Begynn på en historie",
+  "discover.empty.universe.text": "Bygg en verden med sitt eget leksikon, så kan andre forfattere legge historiene sine til den.",
+  "discover.empty.universe.cta": "Opprett et univers",
+  "discover.empty.audiobook.text": "Åpne en av historiene dine i verkstedet og legg til en lydbok.",
+  "discover.empty.audiobook.cta": "Legg til en lydbok",
+  "discover.empty.comic.text": "Last opp sidene dine, så finner leserne tegneserien din her.",
+  "discover.empty.comic.cta": "Last opp en tegneserie",
+  "discover.empty.allLanguages": "Vis titler på alle språk"
 }

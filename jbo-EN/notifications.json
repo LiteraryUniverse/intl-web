@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "ko pilno lo bangu be lo nu ve kalri lo nu zasne ko",
   "flashnews.onlyDisplayOn": "lo nu co'e lo nu xamsi le'i banzu lo velnu se jdice lo nu cnino co'a nilmivyminde se galfi di'ai lo kagai vei banzu vei gi'a na banzu co'a fau lo girzu ve'o jersi sekai",
   "flashnews.current": "Active flashnews",
-  "notifications.menu.all": "co'e cabna mu'i lo nu prami ko",
+  "notifications.menu.all": "ro lo notci",
   "notifications.menu.following": "ko sutra fukpi",
   "notifications.menu.workshop": "ko pinxe lo ckafi",
   "notifications.menu.news": "ko jarco lo xatra gi'e jinvi lo ckafi",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Author summary",
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
-  "notifications.workflow.organization-billing": "Organization billing"
+  "notifications.workflow.organization-billing": "Organization billing",
+  "notifications.workflow.story-backup": "Writing backups"
 }

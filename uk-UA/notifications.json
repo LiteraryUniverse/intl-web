@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "Виберіть нову мову для додавання",
   "flashnews.onlyDisplayOn": "Новини будуть відображатись тільки на вибраних нижче мовах (якщо вибрано), в інших мовах не буде показано жодних новин, навіть у мові за замовчуванням.",
   "flashnews.current": "Активні флеш-новини",
-  "notifications.menu.all": "Всі сповіщення",
+  "notifications.menu.all": "Усі сповіщення",
   "notifications.menu.following": "Підписки",
   "notifications.menu.workshop": "Майстерня",
   "notifications.menu.news": "Новини та оновлення",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Авторський підсумок",
   "notifications.workflow.readerSummary": "Читацький підсумок",
   "notifications.workflow.taskReminders": "Нагадування про завдання",
-  "notifications.workflow.organization-billing": "Оплата організації"
+  "notifications.workflow.organization-billing": "Оплата організації",
+  "notifications.workflow.story-backup": "Резервні копії текстів"
 }

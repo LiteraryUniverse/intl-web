@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} akan ditandai sebagai selesai pada {date}, saat bab terjadwal terakhirnya dirilis.",
   "comics.reader.loading": "Komik",
   "comics.translation.mode.label": "Mode: {mode}",
-  "comics.pagesCount": "{count, plural, other {# halaman}}"
+  "comics.pagesCount": "{count, plural, other {# halaman}}",
+  "comics.import.preparing": "Membaca ekspor komik…",
+  "comics.import.invalid": "ZIP ini bukan ekspor komik Tapas yang lengkap. Pilih ZIP lu-import dari ekspor Anda.",
+  "comics.import.tooLarge": "Bab komik ini terlalu besar untuk diimpor. Pecah menjadi bab yang lebih kecil, lalu coba lagi.",
+  "comics.import.failed": "Komik tidak dapat diimpor. Bab dan unggahan dari percobaan ini telah dihapus. Coba lagi.",
+  "comics.import.cleanupFailed": "Impor terhenti dan beberapa bab atau unggahan baru tidak dapat dihapus. Periksa komik Anda sebelum mencoba lagi."
 }

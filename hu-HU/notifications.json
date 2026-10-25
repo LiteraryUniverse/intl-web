@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Szerzői összefoglaló",
   "notifications.workflow.readerSummary": "Olvasási összefoglaló",
   "notifications.workflow.taskReminders": "Feladatemlékeztetők",
-  "notifications.workflow.organization-billing": "Szervezeti számlázás"
+  "notifications.workflow.organization-billing": "Szervezeti számlázás",
+  "notifications.workflow.story-backup": "Írások biztonsági mentése"
 }

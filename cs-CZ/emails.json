@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Změna stavu příběhu",
   "email.storyStatus.intro": "Stav Vašeho příběhu se změnil.",
   "email.storyStatus.why": "Co se stalo a proč:",
-  "email.storyStatus.next": "Co bude následovat:"
+  "email.storyStatus.next": "Co bude následovat:",
+  "email.backup.subject": "Vaše záloha příběhu „{storyTitle}“",
+  "email.backup.intro": "Zde je vaše naplánovaná záloha příběhu „{storyTitle}“.",
+  "email.backup.formats": "Přiložené soubory: {formats}",
+  "email.backup.footer": "Naplánované zálohy můžete spravovat nebo vypnout v Ateliéru svého příběhu."
 }

@@ -96,6 +96,7 @@
   "writer.play.transition": "Overgang",
   "writer.play.synopsis": "Synopsis (vises ikke for lesere)",
   "writer.play.pageBreak": "Sideskift",
+  "writer.play.splitDualDialogue": "Del opp dobbel dialog",
   "writer.play.dualDialogue": "Dobbel dialog",
   "writer.play.note": "Notat (vises ikke for lesere)",
   "writer.play.boneyard": "Kommenter ut (vises ikke for lesere)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Vis aktivitet som tabell",
   "writer.publish.insights.tableCaption": "Typisk aktivitet etter ukedag og time",
   "writer.publish.insights.window": "Tidsrom",
-  "writer.publish.insights.updated": "Beregnet {date, date, short} kl. {date, time, short}."
+  "writer.publish.insights.updated": "Beregnet {date, date, short} kl. {date, time, short}.",
+  "writer.play.insertTemplate": "Sett inn manusmal",
+  "writer.play.insert": "Sett inn manus",
+  "writer.play.template.dialogue": "Rolle og dialog",
+  "writer.play.template.scene": "Scene / sceneanvisninger",
+  "writer.play.placeholder.character": "Velg en rolle eller skriv et navn",
+  "writer.play.placeholder.dialogue": "Skriv dialogen…",
+  "writer.play.placeholder.scene": "INT. / EXT. STED - DAG / NATT",
+  "writer.play.placeholder.action": "Beskriv handlingen eller sceneanvisningene…",
+  "writer.play.placeholder.parenthetical": "(Hvordan replikken sies)",
+  "writer.play.placeholder.transition": "KUTT TIL:",
+  "writer.play.characterSuggestions.help": "Velg en rolle eller skriv et nytt navn. Enter starter dialogen.",
+  "writer.play.notePlaceholder": "Skriv et privat notat…"
 }

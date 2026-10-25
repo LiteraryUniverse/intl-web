@@ -116,5 +116,18 @@
   "discover.searchComic.title": "ค้นหามังงะและการ์ตูน",
   "discover.searchComic.description": "ค้นหามังงะและการ์ตูน",
   "story.estimatedReadingTime.explainedCharacters": "คำนวณจากความเร็วในการอ่านเริ่มต้นที่ {avgReadingNum, number} ตัวอักษรต่อนาที",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "คำนวณจากความเร็วในการอ่านของคุณที่ {wpm, number} ตัวอักษรต่อนาที"
+  "story.estimatedReadingTime.explainedPersonalCharacters": "คำนวณจากความเร็วในการอ่านของคุณที่ {wpm, number} ตัวอักษรต่อนาที",
+  "discover.empty.title": "ยังไม่มีผลงานที่เผยแพร่ที่นี่ อยากเป็นคนแรกไหม?",
+  "discover.empty.titleFiltered": "ยังไม่มีผลงานที่ตรงกับการค้นหานี้ อยากเป็นคนแรกไหม?",
+  "discover.empty.all.text": "เขียนเรื่องราวหรือสร้างจักรวาล แล้วผู้อ่านจะพบมันที่นี่",
+  "discover.empty.all.cta": "เริ่มเขียน",
+  "discover.empty.story.text": "เขียนเรื่องราว เมื่อคุณเผยแพร่แล้ว ผู้อ่านจะพบมันที่นี่",
+  "discover.empty.story.cta": "เริ่มเขียนเรื่องราว",
+  "discover.empty.universe.text": "สร้างโลกที่มีสารานุกรมของตัวเอง แล้วนักเขียนคนอื่นจะนำเรื่องราวของพวกเขามาดำเนินในโลกนั้นได้",
+  "discover.empty.universe.cta": "สร้างจักรวาล",
+  "discover.empty.audiobook.text": "เปิดเรื่องราวเรื่องหนึ่งของคุณในเวิร์กช็อปแล้วเพิ่มหนังสือเสียงให้เรื่องนั้น",
+  "discover.empty.audiobook.cta": "เพิ่มหนังสือเสียง",
+  "discover.empty.comic.text": "อัปโหลดหน้าการ์ตูนของคุณ แล้วผู้อ่านจะพบการ์ตูนของคุณที่นี่",
+  "discover.empty.comic.cta": "อัปโหลดการ์ตูน",
+  "discover.empty.allLanguages": "แสดงผลงานในทุกภาษา"
 }

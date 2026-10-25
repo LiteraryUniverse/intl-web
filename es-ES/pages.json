@@ -261,5 +261,18 @@
   "tapas.guide.help": "¿Atascado? Escríbenos",
   "tapas.guide.back": "Volver a la página de Tapas",
   "tapas.creators.migrator": "Exportar de Tapas con el migrador",
-  "tapas.creators.guide": "Leer la guía paso a paso"
+  "tapas.creators.guide": "Leer la guía paso a paso",
+  "tapas.hero.display": "Un nuevo <accent>capítulo.</accent>",
+  "tapas.scene.doorAlt": "Una puerta de madera de libro de cuentos se abre mientras te desplazas y deja ver a Lunea saludando con la mano y a Luca dándote la bienvenida a una biblioteca dorada.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Ah, ahí estás.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Te hemos dejado la luz encendida.",
+  "tapas.scene.skip": "Saltar la entrada",
+  "tapas.scene.scrollClosed": "Desplázate para abrir la puerta",
+  "tapas.scene.scrollOpen": "Pasa, pasa. Sigue desplazándote.",
+  "tapas.art.packing": "Lunea está sentada en un banco junto a un creador preocupado que sostiene un montón de páginas de cómic, mientras Luca guarda más páginas en una caja de cartón.",
+  "tapas.art.creator": "Un creador sonriente que sostiene un lápiz y una hoja de papel.",
+  "tapas.art.sofa": "Luca y Lunea comparten un libro en un sofá lavanda, con una pila de historias esperando cerca.",
+  "tapas.art.universe": "Lunea alza una pluma y Luca sostiene una tableta mientras de un libro abierto surgen un castillo en las nubes, una ciudad futurista, un dragón y un cohete."
 }

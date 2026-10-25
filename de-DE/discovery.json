@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Manga und Comics suchen",
   "discover.searchComic.description": "Nach Manga und Comics suchen",
   "story.estimatedReadingTime.explainedCharacters": "Basierend auf einer voreingestellten Lesegeschwindigkeit von {avgReadingNum, number} Zeichen pro Minute.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Basierend auf deiner Lesegeschwindigkeit von {wpm, number} Zeichen pro Minute."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Basierend auf deiner Lesegeschwindigkeit von {wpm, number} Zeichen pro Minute.",
+  "discover.empty.title": "Hier wurde noch nichts veröffentlicht. Möchten Sie den Anfang machen?",
+  "discover.empty.titleFiltered": "Zu dieser Suche passt noch nichts. Möchten Sie den Anfang machen?",
+  "discover.empty.all.text": "Schreiben Sie eine Geschichte oder erschaffen Sie ein Universum, und Leser werden es hier finden.",
+  "discover.empty.all.cta": "Mit dem Schreiben beginnen",
+  "discover.empty.story.text": "Schreiben Sie eine Geschichte. Sobald Sie sie veröffentlichen, finden Leser sie hier.",
+  "discover.empty.story.cta": "Eine Geschichte beginnen",
+  "discover.empty.universe.text": "Erschaffen Sie eine Welt mit eigener Enzyklopädie, und andere Autoren können ihre Geschichten darin ansiedeln.",
+  "discover.empty.universe.cta": "Universum erstellen",
+  "discover.empty.audiobook.text": "Öffnen Sie eine Ihrer Geschichten in der Werkstatt und fügen Sie ihr ein Hörbuch hinzu.",
+  "discover.empty.audiobook.cta": "Hörbuch hinzufügen",
+  "discover.empty.comic.text": "Laden Sie Ihre Seiten hoch, und Leser finden Ihren Comic hier.",
+  "discover.empty.comic.cta": "Comic hochladen",
+  "discover.empty.allLanguages": "Titel in allen Sprachen anzeigen"
 }

@@ -96,6 +96,7 @@
   "writer.play.transition": "காட்சி மாற்றம்",
   "writer.play.synopsis": "சுருக்கம் (வாசகர்களுக்குக் காட்டப்படாது)",
   "writer.play.pageBreak": "பக்க முறிவு",
+  "writer.play.splitDualDialogue": "இரட்டை உரையாடலைப் பிரி",
   "writer.play.dualDialogue": "இரட்டை உரையாடல்",
   "writer.play.note": "குறிப்பு (வாசகர்களுக்குக் காட்டப்படாது)",
   "writer.play.boneyard": "கருத்தாக்கு (வாசகர்களுக்குக் காட்டப்படாது)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "செயல்பாட்டை அட்டவணையாகப் பார்",
   "writer.publish.insights.tableCaption": "வாரத்தின் நாள் மற்றும் மணிநேரத்தின்படி வழக்கமான செயல்பாடு",
   "writer.publish.insights.window": "நேர இடைவெளி",
-  "writer.publish.insights.updated": "{date, date, short} அன்று {date, time, short} மணிக்குக் கணக்கிடப்பட்டது."
+  "writer.publish.insights.updated": "{date, date, short} அன்று {date, time, short} மணிக்குக் கணக்கிடப்பட்டது.",
+  "writer.play.insertTemplate": "திரைக்கதை வார்ப்புருவைச் செருகு",
+  "writer.play.insert": "திரைக்கதையைச் செருகு",
+  "writer.play.template.dialogue": "பாத்திரம் மற்றும் உரையாடல்",
+  "writer.play.template.scene": "காட்சி / மேடைக் குறிப்புகள்",
+  "writer.play.placeholder.character": "ஒரு பாத்திரத்தைத் தேர்ந்தெடுங்கள் அல்லது பெயரைத் தட்டச்சு செய்யுங்கள்",
+  "writer.play.placeholder.dialogue": "உரையாடலை எழுதுங்கள்…",
+  "writer.play.placeholder.scene": "உள். / வெளி. இடம் - பகல் / இரவு",
+  "writer.play.placeholder.action": "செயலையோ மேடைக் குறிப்புகளையோ விவரியுங்கள்…",
+  "writer.play.placeholder.parenthetical": "(வசனம் எப்படிப் பேசப்படுகிறது)",
+  "writer.play.placeholder.transition": "கட் டு:",
+  "writer.play.characterSuggestions.help": "ஒரு பாத்திரத்தைத் தேர்ந்தெடுங்கள் அல்லது புதிய பெயரைத் தட்டச்சு செய்யுங்கள். Enter அழுத்தினால் உரையாடல் தொடங்கும்.",
+  "writer.play.notePlaceholder": "தனிப்பட்ட குறிப்பை எழுதுங்கள்…"
 }

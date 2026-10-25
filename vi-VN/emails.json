@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Cập nhật trạng thái câu chuyện",
   "email.storyStatus.intro": "Trạng thái câu chuyện của bạn đã thay đổi.",
   "email.storyStatus.why": "Đây là điều đã xảy ra và lý do:",
-  "email.storyStatus.next": "Điều gì sẽ diễn ra tiếp theo:"
+  "email.storyStatus.next": "Điều gì sẽ diễn ra tiếp theo:",
+  "email.backup.subject": "Bản sao lưu của bạn cho “{storyTitle}”",
+  "email.backup.intro": "Đây là bản sao lưu theo lịch của bạn cho “{storyTitle}”.",
+  "email.backup.formats": "Tệp đính kèm: {formats}",
+  "email.backup.footer": "Quản lý hoặc tắt sao lưu theo lịch trong xưởng viết của câu chuyện."
 }

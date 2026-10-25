@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} markeras som avslutad den {date}, när det sista schemalagda kapitlet släpps.",
   "comics.reader.loading": "Serie",
   "comics.translation.mode.label": "Läge: {mode}",
-  "comics.pagesCount": "{count, plural, one {# sida} other {# sidor}}"
+  "comics.pagesCount": "{count, plural, one {# sida} other {# sidor}}",
+  "comics.import.preparing": "Läser serieexporten…",
+  "comics.import.invalid": "Den här ZIP-filen är inte en fullständig serieexport från Tapas. Välj ZIP-filen lu-import från din export.",
+  "comics.import.tooLarge": "Det här seriekapitlet är för stort för att importeras. Dela upp det i mindre kapitel och försök igen.",
+  "comics.import.failed": "Serien kunde inte importeras. Kapitlen och uppladdningarna från det här försöket har tagits bort. Försök igen.",
+  "comics.import.cleanupFailed": "Importen avbröts och vissa nya kapitel eller uppladdningar kunde inte tas bort. Kontrollera din serie innan du försöker igen."
 }

@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Ĝisdatigo pri la stato de la rakonto",
   "email.storyStatus.intro": "La stato de via rakonto ŝanĝiĝis.",
   "email.storyStatus.why": "Jen kio okazis kaj kial:",
-  "email.storyStatus.next": "Kio okazos poste:"
+  "email.storyStatus.next": "Kio okazos poste:",
+  "email.backup.subject": "Via sekurkopio de “{storyTitle}”",
+  "email.backup.intro": "Jen via planita sekurkopio de “{storyTitle}”.",
+  "email.backup.formats": "Kunsenditaj dosieroj: {formats}",
+  "email.backup.footer": "Administru aŭ malŝaltu planitajn sekurkopiojn en la verkstato de via rakonto."
 }

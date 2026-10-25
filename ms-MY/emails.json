@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Kemas kini status cerita",
   "email.storyStatus.intro": "Terdapat perubahan pada status cerita anda.",
   "email.storyStatus.why": "Inilah yang berlaku dan sebabnya:",
-  "email.storyStatus.next": "Apa yang berlaku seterusnya:"
+  "email.storyStatus.next": "Apa yang berlaku seterusnya:",
+  "email.backup.subject": "Sandaran anda untuk “{storyTitle}”",
+  "email.backup.intro": "Ini sandaran berjadual anda untuk “{storyTitle}”.",
+  "email.backup.formats": "Fail yang dilampirkan: {formats}",
+  "email.backup.footer": "Urus atau matikan sandaran berjadual dalam bengkel cerita anda."
 }

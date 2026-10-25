@@ -261,5 +261,18 @@
   "tapas.guide.help": "Travou? Escreva para nós",
   "tapas.guide.back": "Voltar para a página do Tapas",
   "tapas.creators.migrator": "Exportar do Tapas com o migrador",
-  "tapas.creators.guide": "Ler o guia passo a passo"
+  "tapas.creators.guide": "Ler o guia passo a passo",
+  "tapas.hero.display": "Um novo <accent>capítulo.</accent>",
+  "tapas.scene.doorAlt": "Uma porta de madeira de livro de histórias se abre conforme você rola a página e revela Lunea acenando e Luca convidando você a entrar em uma biblioteca dourada.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Ah, aí está você.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Deixamos a luz acesa para você.",
+  "tapas.scene.skip": "Pular a entrada",
+  "tapas.scene.scrollClosed": "Role para abrir a porta",
+  "tapas.scene.scrollOpen": "Pode entrar. Continue rolando.",
+  "tapas.art.packing": "Lunea está sentada em um banco ao lado de um criador preocupado que segura uma pilha de páginas de quadrinhos, enquanto Luca guarda mais páginas em uma caixa de papelão.",
+  "tapas.art.creator": "Um criador sorridente segurando um lápis e uma folha de papel.",
+  "tapas.art.sofa": "Luca e Lunea leem juntos um livro em um sofá lavanda, com uma pilha de histórias esperando ao lado.",
+  "tapas.art.universe": "Lunea ergue uma pena e Luca segura um tablet enquanto de um livro aberto surgem um castelo nas nuvens, uma cidade futurista, um dragão e um foguete."
 }

@@ -96,6 +96,7 @@
   "writer.play.transition": "సన్నివేశ మార్పు",
   "writer.play.synopsis": "సారాంశం (పాఠకులకు చూపబడదు)",
   "writer.play.pageBreak": "పేజీ విరామం",
+  "writer.play.splitDualDialogue": "ద్వంద్వ సంభాషణను విడదీయి",
   "writer.play.dualDialogue": "ద్వంద్వ సంభాషణ",
   "writer.play.note": "గమనిక (పాఠకులకు చూపబడదు)",
   "writer.play.boneyard": "వ్యాఖ్యగా మార్చు (పాఠకులకు చూపబడదు)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "కార్యకలాపాలను పట్టికగా చూడండి",
   "writer.publish.insights.tableCaption": "వారంలోని రోజు మరియు గంటను బట్టి సాధారణ కార్యకలాపాలు",
   "writer.publish.insights.window": "సమయ వ్యవధి",
-  "writer.publish.insights.updated": "{date, date, short}న {date, time, short}కి లెక్కించబడింది."
+  "writer.publish.insights.updated": "{date, date, short}న {date, time, short}కి లెక్కించబడింది.",
+  "writer.play.insertTemplate": "స్క్రిప్ట్ టెంప్లేట్‌ను చొప్పించు",
+  "writer.play.insert": "స్క్రిప్ట్‌ను చొప్పించు",
+  "writer.play.template.dialogue": "పాత్ర మరియు సంభాషణ",
+  "writer.play.template.scene": "సన్నివేశం / రంగస్థల సూచనలు",
+  "writer.play.placeholder.character": "పాత్రను ఎంచుకోండి లేదా పేరు టైప్ చేయండి",
+  "writer.play.placeholder.dialogue": "సంభాషణ రాయండి…",
+  "writer.play.placeholder.scene": "లోపల / బయట. ప్రదేశం - పగలు / రాత్రి",
+  "writer.play.placeholder.action": "చర్యను లేదా రంగస్థల సూచనలను వివరించండి…",
+  "writer.play.placeholder.parenthetical": "(ఈ మాట ఎలా పలకాలి)",
+  "writer.play.placeholder.transition": "కట్ టు:",
+  "writer.play.characterSuggestions.help": "పాత్రను ఎంచుకోండి లేదా కొత్త పేరు టైప్ చేయండి. Enter నొక్కితే సంభాషణ ప్రారంభమవుతుంది.",
+  "writer.play.notePlaceholder": "వ్యక్తిగత నోట్ రాయండి…"
 }

@@ -261,5 +261,18 @@
   "tapas.guide.help": "Kom je er niet uit? Schrijf ons",
   "tapas.guide.back": "Terug naar de Tapas-pagina",
   "tapas.creators.migrator": "Exporteer uit Tapas met de migrator",
-  "tapas.creators.guide": "Lees de stapsgewijze handleiding"
+  "tapas.creators.guide": "Lees de stapsgewijze handleiding",
+  "tapas.hero.display": "Een nieuw <accent>hoofdstuk.</accent>",
+  "tapas.scene.doorAlt": "Een houten sprookjesboekdeur gaat open terwijl je scrolt en onthult Lunea, die zwaait, en Luca, die je welkom heet in een gouden bibliotheek.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "Ah, daar ben je.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "We hebben het licht voor je aangelaten.",
+  "tapas.scene.skip": "Entree overslaan",
+  "tapas.scene.scrollClosed": "Scroll om de deur te openen",
+  "tapas.scene.scrollOpen": "Kom binnen. Blijf scrollen.",
+  "tapas.art.packing": "Lunea zit op een bankje naast een bezorgde maker met een stapel strippagina’s, terwijl Luca nog meer pagina’s in een kartonnen doos pakt.",
+  "tapas.art.creator": "Een glimlachende maker met een potlood en een vel papier.",
+  "tapas.art.sofa": "Luca en Lunea lezen samen een boek op een lavendelkleurige bank, met een stapel verhalen klaar ernaast.",
+  "tapas.art.universe": "Lunea heft een ganzenveer en Luca houdt een tablet vast, terwijl uit een open boek een kasteel in de wolken, een futuristische stad, een draak en een raket tevoorschijn komen."
 }

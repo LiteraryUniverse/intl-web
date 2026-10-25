@@ -204,5 +204,10 @@
   "comics.finish.scheduledNotice": "{format} wordt op {date} als voltooid gemarkeerd, wanneer het laatste geplande hoofdstuk wordt uitgebracht.",
   "comics.reader.loading": "Strip",
   "comics.translation.mode.label": "Modus: {mode}",
-  "comics.pagesCount": "{count, plural, one {# pagina} other {# pagina's}}"
+  "comics.pagesCount": "{count, plural, one {# pagina} other {# pagina's}}",
+  "comics.import.preparing": "Strip-export wordt gelezen…",
+  "comics.import.invalid": "Deze ZIP is geen volledige Tapas-stripexport. Kies de lu-import-ZIP uit je export.",
+  "comics.import.tooLarge": "Dit striphoofdstuk is te groot om te importeren. Splits het op in kleinere hoofdstukken en probeer het opnieuw.",
+  "comics.import.failed": "De strip kon niet worden geïmporteerd. De hoofdstukken en uploads van deze poging zijn verwijderd. Probeer het opnieuw.",
+  "comics.import.cleanupFailed": "De import is gestopt en sommige nieuwe hoofdstukken of uploads konden niet worden verwijderd. Controleer je strip voordat je het opnieuw probeert."
 }

@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Actualització de l'estat de la història",
   "email.storyStatus.intro": "L'estat de la teva història ha canviat.",
   "email.storyStatus.why": "Això és el que ha passat i per què:",
-  "email.storyStatus.next": "Què passarà ara:"
+  "email.storyStatus.next": "Què passarà ara:",
+  "email.backup.subject": "La teva còpia de seguretat de «{storyTitle}»",
+  "email.backup.intro": "Aquí tens la còpia de seguretat programada de «{storyTitle}».",
+  "email.backup.formats": "Fitxers adjunts: {formats}",
+  "email.backup.footer": "Gestiona o desactiva les còpies de seguretat programades al taller de la teva història."
 }

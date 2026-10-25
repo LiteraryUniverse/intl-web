@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Auteursoverzicht",
   "notifications.workflow.readerSummary": "Leesoverzicht",
   "notifications.workflow.taskReminders": "Taakherinneringen",
-  "notifications.workflow.organization-billing": "Facturering van organisatie"
+  "notifications.workflow.organization-billing": "Facturering van organisatie",
+  "notifications.workflow.story-backup": "Schrijfback-ups"
 }

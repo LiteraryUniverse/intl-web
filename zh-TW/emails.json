@@ -247,5 +247,9 @@
   "email.storyStatus.title": "故事狀態更新",
   "email.storyStatus.intro": "您的故事狀態有所變更。",
   "email.storyStatus.why": "以下是發生的事情與原因：",
-  "email.storyStatus.next": "接下來會發生什麼："
+  "email.storyStatus.next": "接下來會發生什麼：",
+  "email.backup.subject": "「{storyTitle}」的備份",
+  "email.backup.intro": "這是「{storyTitle}」的排程備份。",
+  "email.backup.formats": "附加檔案：{formats}",
+  "email.backup.footer": "您可以在故事的工作坊中管理或關閉排程備份。"
 }

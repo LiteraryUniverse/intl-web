@@ -96,6 +96,7 @@
   "writer.play.transition": "Перехід",
   "writer.play.synopsis": "Синопсис (читачі не бачать)",
   "writer.play.pageBreak": "Розрив сторінки",
+  "writer.play.splitDualDialogue": "Розділити паралельний діалог",
   "writer.play.dualDialogue": "Паралельний діалог",
   "writer.play.note": "Нотатка (читачі не бачать)",
   "writer.play.boneyard": "Закоментувати (читачі не бачать)",
@@ -182,5 +183,17 @@
   "writer.publish.insights.table": "Переглянути активність у таблиці",
   "writer.publish.insights.tableCaption": "Типова активність за днями тижня та годинами",
   "writer.publish.insights.window": "Часовий інтервал",
-  "writer.publish.insights.updated": "Розраховано {date, date, short} о {date, time, short}."
+  "writer.publish.insights.updated": "Розраховано {date, date, short} о {date, time, short}.",
+  "writer.play.insertTemplate": "Вставити шаблон сценарію",
+  "writer.play.insert": "Вставити сценарій",
+  "writer.play.template.dialogue": "Персонаж і діалог",
+  "writer.play.template.scene": "Сцена / ремарки",
+  "writer.play.placeholder.character": "Виберіть персонажа або введіть ім’я",
+  "writer.play.placeholder.dialogue": "Напишіть репліку…",
+  "writer.play.placeholder.scene": "ІНТ. / НАТ. МІСЦЕ — ДЕНЬ / НІЧ",
+  "writer.play.placeholder.action": "Опишіть дію або ремарки…",
+  "writer.play.placeholder.parenthetical": "(Як вимовляється репліка)",
+  "writer.play.placeholder.transition": "СКЛЕЙКА:",
+  "writer.play.characterSuggestions.help": "Виберіть персонажа або введіть нове ім’я. Enter починає діалог.",
+  "writer.play.notePlaceholder": "Напишіть особисту нотатку…"
 }

@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Outeursopsomming",
   "notifications.workflow.readerSummary": "Leesopsomming",
   "notifications.workflow.taskReminders": "Taakherinneringe",
-  "notifications.workflow.organization-billing": "Organisasiefakturering"
+  "notifications.workflow.organization-billing": "Organisasiefakturering",
+  "notifications.workflow.story-backup": "Skryfrugsteune"
 }

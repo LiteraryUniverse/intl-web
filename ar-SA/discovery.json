@@ -116,5 +116,18 @@
   "discover.searchComic.title": "البحث عن المانغا والقصص المصورة",
   "discover.searchComic.description": "البحث عن المانغا والقصص المصورة",
   "story.estimatedReadingTime.explainedCharacters": "بناءً على سرعة القراءة الافتراضية البالغة {avgReadingNum, number} حرف في الدقيقة.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "بناءً على سرعة قراءتك البالغة {wpm, number} حرف في الدقيقة."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "بناءً على سرعة قراءتك البالغة {wpm, number} حرف في الدقيقة.",
+  "discover.empty.title": "لم يُنشر شيء هنا بعد. هل تريد أن تكون الأول؟",
+  "discover.empty.titleFiltered": "لا شيء يطابق هذا البحث بعد. هل تريد أن تكون الأول؟",
+  "discover.empty.all.text": "اكتب قصة أو ابنِ كونًا، وسيجده القرّاء هنا.",
+  "discover.empty.all.cta": "ابدأ الكتابة",
+  "discover.empty.story.text": "اكتب قصة. وبمجرد نشرها، سيجدها القرّاء هنا.",
+  "discover.empty.story.cta": "ابدأ كتابة قصة",
+  "discover.empty.universe.text": "ابنِ عالمًا له موسوعته الخاصة، ويمكن للكتّاب الآخرين أن يجعلوا قصصهم تدور فيه.",
+  "discover.empty.universe.cta": "أنشئ كونًا",
+  "discover.empty.audiobook.text": "افتح إحدى قصصك في ورشة العمل وأضف إليها كتابًا صوتيًا.",
+  "discover.empty.audiobook.cta": "أضف كتابًا صوتيًا",
+  "discover.empty.comic.text": "ارفع صفحاتك وسيجد القرّاء قصتك المصورة هنا.",
+  "discover.empty.comic.cta": "ارفع قصة مصورة",
+  "discover.empty.allLanguages": "عرض الأعمال بكل اللغات"
 }

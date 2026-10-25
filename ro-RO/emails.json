@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Actualizare privind starea poveștii",
   "email.storyStatus.intro": "Starea poveștii tale s-a schimbat.",
   "email.storyStatus.why": "Iată ce s-a întâmplat și de ce:",
-  "email.storyStatus.next": "Ce urmează:"
+  "email.storyStatus.next": "Ce urmează:",
+  "email.backup.subject": "Copia ta de rezervă pentru „{storyTitle}”",
+  "email.backup.intro": "Iată copia de rezervă programată pentru „{storyTitle}”.",
+  "email.backup.formats": "Fișiere atașate: {formats}",
+  "email.backup.footer": "Gestionează sau dezactivează copiile de rezervă programate în atelierul poveștii tale."
 }

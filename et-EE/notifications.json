@@ -6,7 +6,7 @@
   "flashnews.newLanguage": "Valige uus keel, et lisada",
   "flashnews.onlyDisplayOn": "Uudised kuvatakse ainult allpool valitud keelte puhul (kui üldse valitud), teistes keeltes uudiseid ei kuvata isegi vaikimisi keeles.",
   "flashnews.current": "Aktiivne flashnews",
-  "notifications.menu.all": "Kõik teated",
+  "notifications.menu.all": "Kõik teavitused",
   "notifications.menu.following": "Järgmine",
   "notifications.menu.workshop": "Töötuba",
   "notifications.menu.news": "Uudised ja uuendused",
@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Autori kokkuvõte",
   "notifications.workflow.readerSummary": "Lugemise kokkuvõte",
   "notifications.workflow.taskReminders": "Ülesannete meeldetuletused",
-  "notifications.workflow.organization-billing": "Organisatsiooni arveldus"
+  "notifications.workflow.organization-billing": "Organisatsiooni arveldus",
+  "notifications.workflow.story-backup": "Kirjutiste varukoopiad"
 }

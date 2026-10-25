@@ -215,5 +215,6 @@
   "notifications.workflow.authorSummary": "Tóm tắt dành cho tác giả",
   "notifications.workflow.readerSummary": "Tóm tắt việc đọc",
   "notifications.workflow.taskReminders": "Nhắc nhở nhiệm vụ",
-  "notifications.workflow.organization-billing": "Thanh toán của tổ chức"
+  "notifications.workflow.organization-billing": "Thanh toán của tổ chức",
+  "notifications.workflow.story-backup": "Sao lưu bản viết"
 }

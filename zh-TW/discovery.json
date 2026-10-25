@@ -116,5 +116,18 @@
   "discover.searchComic.title": "搜尋漫畫與漫畫作品",
   "discover.searchComic.description": "搜尋漫畫與漫畫作品",
   "story.estimatedReadingTime.explainedCharacters": "根據預設閱讀速度每分鐘 {avgReadingNum, number} 字計算。",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "根據您的閱讀速度每分鐘 {wpm, number} 字計算。"
+  "story.estimatedReadingTime.explainedPersonalCharacters": "根據您的閱讀速度每分鐘 {wpm, number} 字計算。",
+  "discover.empty.title": "這裡還沒有任何已發表的作品。想成為第一個嗎？",
+  "discover.empty.titleFiltered": "目前還沒有符合這項搜尋的作品。想成為第一個嗎？",
+  "discover.empty.all.text": "寫一個故事或打造一個宇宙，讀者就會在這裡找到它。",
+  "discover.empty.all.cta": "開始寫作",
+  "discover.empty.story.text": "寫一個故事。發表之後，讀者就會在這裡找到它。",
+  "discover.empty.story.cta": "開始寫故事",
+  "discover.empty.universe.text": "打造一個擁有專屬百科的世界，其他作者就能把故事設定在其中。",
+  "discover.empty.universe.cta": "建立宇宙",
+  "discover.empty.audiobook.text": "在工作坊開啟您的一個故事，為它加入有聲書。",
+  "discover.empty.audiobook.cta": "新增有聲書",
+  "discover.empty.comic.text": "上傳您的頁面，讀者就會在這裡找到您的漫畫。",
+  "discover.empty.comic.cta": "上傳漫畫",
+  "discover.empty.allLanguages": "顯示所有語言的作品"
 }

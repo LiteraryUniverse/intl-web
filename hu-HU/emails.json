@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Történet állapotának frissítése",
   "email.storyStatus.intro": "Megváltozott a történeted állapota.",
   "email.storyStatus.why": "Ez történt, és ezért:",
-  "email.storyStatus.next": "Mi történik ezután:"
+  "email.storyStatus.next": "Mi történik ezután:",
+  "email.backup.subject": "Biztonsági mentésed: „{storyTitle}”",
+  "email.backup.intro": "Íme az ütemezett biztonsági mentésed ehhez a történethez: „{storyTitle}”.",
+  "email.backup.formats": "Csatolt fájlok: {formats}",
+  "email.backup.footer": "Az ütemezett biztonsági mentéseket a történeted műhelyében kezelheted vagy kapcsolhatod ki."
 }

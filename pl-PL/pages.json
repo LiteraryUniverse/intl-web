@@ -261,5 +261,18 @@
   "tapas.guide.help": "Utknęło? Napisz do nas",
   "tapas.guide.back": "Wróć do strony o Tapas",
   "tapas.creators.migrator": "Eksportuj z Tapas za pomocą migratora",
-  "tapas.creators.guide": "Przeczytaj przewodnik krok po kroku"
+  "tapas.creators.guide": "Przeczytaj przewodnik krok po kroku",
+  "tapas.hero.display": "Nowy <accent>rozdział.</accent>",
+  "tapas.scene.doorAlt": "Drewniane bajkowe drzwi otwierają się podczas przewijania, odsłaniając machającą Luneę i Lucę, który wita Cię w złotej bibliotece.",
+  "tapas.scene.lunea.name": "Lunea",
+  "tapas.scene.lunea.says": "O, jesteś.",
+  "tapas.scene.luca.name": "Luca",
+  "tapas.scene.luca.says": "Zostawiliśmy dla Ciebie zapalone światło.",
+  "tapas.scene.skip": "Pomiń wstęp",
+  "tapas.scene.scrollClosed": "Przewiń, aby otworzyć drzwi",
+  "tapas.scene.scrollOpen": "Wejdź. Przewijaj dalej.",
+  "tapas.art.packing": "Lunea siedzi na ławce obok zmartwionego twórcy, który trzyma stos stron komiksu, a Luca pakuje kolejne strony do kartonowego pudła.",
+  "tapas.art.creator": "Uśmiechnięty twórca trzymający ołówek i kartkę papieru.",
+  "tapas.art.sofa": "Luca i Lunea czytają razem książkę na lawendowej kanapie, a obok czeka stos opowieści.",
+  "tapas.art.universe": "Lunea unosi gęsie pióro, a Luca trzyma tablet, gdy z otwartej księgi wyłaniają się zamek w chmurach, futurystyczne miasto, smok i rakieta."
 }

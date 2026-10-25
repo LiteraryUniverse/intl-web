@@ -247,5 +247,9 @@
   "email.storyStatus.title": "Pembaruan status cerita",
   "email.storyStatus.intro": "Ada perubahan pada status cerita Anda.",
   "email.storyStatus.why": "Berikut yang terjadi dan alasannya:",
-  "email.storyStatus.next": "Yang terjadi selanjutnya:"
+  "email.storyStatus.next": "Yang terjadi selanjutnya:",
+  "email.backup.subject": "Cadangan Anda untuk “{storyTitle}”",
+  "email.backup.intro": "Berikut cadangan terjadwal Anda untuk “{storyTitle}”.",
+  "email.backup.formats": "File terlampir: {formats}",
+  "email.backup.footer": "Kelola atau nonaktifkan cadangan terjadwal di Bengkel cerita Anda."
 }

@@ -116,5 +116,18 @@
   "discover.searchComic.title": "মাঙ্গা ও কমিকস অনুসন্ধান করুন",
   "discover.searchComic.description": "মাঙ্গা ও কমিকস অনুসন্ধান করুন",
   "story.estimatedReadingTime.explainedCharacters": "প্রতি মিনিটে {avgReadingNum, number} অক্ষরের ডিফল্ট পড়ার গতির ভিত্তিতে গণনা করা হয়েছে।",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "প্রতি মিনিটে {wpm, number} অক্ষরের আপনার পড়ার গতির ভিত্তিতে গণনা করা হয়েছে।"
+  "story.estimatedReadingTime.explainedPersonalCharacters": "প্রতি মিনিটে {wpm, number} অক্ষরের আপনার পড়ার গতির ভিত্তিতে গণনা করা হয়েছে।",
+  "discover.empty.title": "এখানে এখনও কিছু প্রকাশিত হয়নি। আপনিই কি প্রথম হতে চান?",
+  "discover.empty.titleFiltered": "এই অনুসন্ধানের সঙ্গে এখনও কিছু মেলেনি। আপনিই কি প্রথম হতে চান?",
+  "discover.empty.all.text": "একটি গল্প লিখুন বা একটি মহাবিশ্ব গড়ুন, পাঠকেরা এখানেই তা খুঁজে পাবেন।",
+  "discover.empty.all.cta": "লেখা শুরু করুন",
+  "discover.empty.story.text": "একটি গল্প লিখুন। প্রকাশ করলেই পাঠকেরা এখানে তা খুঁজে পাবেন।",
+  "discover.empty.story.cta": "গল্প লেখা শুরু করুন",
+  "discover.empty.universe.text": "নিজস্ব এনসাইক্লোপিডিয়াসহ একটি জগৎ গড়ুন, আর অন্য লেখকেরা সেখানে তাঁদের গল্পের পটভূমি সাজাতে পারবেন।",
+  "discover.empty.universe.cta": "মহাবিশ্ব তৈরি করুন",
+  "discover.empty.audiobook.text": "কারখানায় আপনার কোনো গল্প খুলুন এবং তাতে একটি অডিওবুক যোগ করুন।",
+  "discover.empty.audiobook.cta": "অডিওবুক যোগ করুন",
+  "discover.empty.comic.text": "আপনার পৃষ্ঠাগুলো আপলোড করুন, পাঠকেরা এখানে আপনার কমিকস খুঁজে পাবেন।",
+  "discover.empty.comic.cta": "কমিকস আপলোড করুন",
+  "discover.empty.allLanguages": "সব ভাষার শিরোনাম দেখান"
 }

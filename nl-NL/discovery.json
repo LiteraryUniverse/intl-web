@@ -116,5 +116,18 @@
   "discover.searchComic.title": "Zoek manga en strips",
   "discover.searchComic.description": "Zoek naar manga en strips",
   "story.estimatedReadingTime.explainedCharacters": "Gebaseerd op een standaardleessnelheid van {avgReadingNum, number} tekens per minuut.",
-  "story.estimatedReadingTime.explainedPersonalCharacters": "Gebaseerd op je leessnelheid van {wpm, number} tekens per minuut."
+  "story.estimatedReadingTime.explainedPersonalCharacters": "Gebaseerd op je leessnelheid van {wpm, number} tekens per minuut.",
+  "discover.empty.title": "Hier is nog niets gepubliceerd. Wil jij de eerste zijn?",
+  "discover.empty.titleFiltered": "Nog niets past bij deze zoekopdracht. Wil jij de eerste zijn?",
+  "discover.empty.all.text": "Schrijf een verhaal of bouw een universum, en lezers vinden het hier.",
+  "discover.empty.all.cta": "Begin met schrijven",
+  "discover.empty.story.text": "Schrijf een verhaal. Zodra je het publiceert, vinden lezers het hier.",
+  "discover.empty.story.cta": "Begin aan een verhaal",
+  "discover.empty.universe.text": "Bouw een wereld met een eigen encyclopedie, en andere schrijvers kunnen hun verhalen erin laten afspelen.",
+  "discover.empty.universe.cta": "Maak een universum",
+  "discover.empty.audiobook.text": "Open een van je verhalen in de werkplaats en voeg er een luisterboek aan toe.",
+  "discover.empty.audiobook.cta": "Luisterboek toevoegen",
+  "discover.empty.comic.text": "Upload je pagina’s en lezers vinden je strip hier.",
+  "discover.empty.comic.cta": "Strip uploaden",
+  "discover.empty.allLanguages": "Titels in alle talen tonen"
 }
