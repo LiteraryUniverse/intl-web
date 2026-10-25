@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Finalitzada el {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# història} many {# d’històries} other {# històries}}",
   "discover.search.hasComicAdaptation": "Té una adaptació de manga o còmic",
   "discovery.meta.desc": "Descobreix noves històries i universos.",
   "discovery.universes.new": "Universos emergents",

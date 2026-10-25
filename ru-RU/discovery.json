@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Завершена {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# история} few {# истории} many {# историй} other {# истории}}",
   "discover.search.hasComicAdaptation": "Есть адаптация в виде манги или комикса",
   "discovery.meta.desc": "Откройте для себя новые истории и вселенные.",
   "discovery.universes.new": "Формирующиеся вселенные",

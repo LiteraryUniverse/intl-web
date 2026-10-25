@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Valmistui {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# tarina} other {# tarinaa}}",
   "discover.search.hasComicAdaptation": "Sillä on manga- tai sarjakuvasovitus",
   "discovery.meta.desc": "Löydä uusia tarinoita ja universumeja.",
   "discovery.universes.new": "Nousevat universumit",

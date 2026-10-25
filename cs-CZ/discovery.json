@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Dokončeno {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# příběh} few {# příběhy} many {# příběhu} other {# příběhů}}",
   "discover.search.hasComicAdaptation": "Má adaptaci jako manga nebo komiks",
   "discovery.meta.desc": "Objevte nové příběhy a vesmíry.",
   "discovery.universes.new": "Nové vesmíry",

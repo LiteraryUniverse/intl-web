@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Zakończona {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# historia} few {# historie} many {# historii} other {# historii}}",
   "discover.search.hasComicAdaptation": "Ma adaptację w formie mangi lub komiksu",
   "discovery.meta.desc": "Odkrywaj nowe historie i światy.",
   "discovery.universes.new": "Powstające wszechświaty",

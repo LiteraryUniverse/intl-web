@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Dokončené {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# príbeh} few {# príbehy} many {# príbehu} other {# príbehov}}",
   "discover.search.hasComicAdaptation": "Má adaptáciu ako manga alebo komiks",
   "discovery.meta.desc": "Objavte nové príbehy a vesmíry.",
   "discovery.universes.new": "Vznikajúce vesmíry",

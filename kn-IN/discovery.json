@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Finished {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# story} other {# stories}}",
   "discover.search.hasComicAdaptation": "ಮಂಗಾ ಅಥವಾ ಕಾಮಿಕ್ ರೂಪಾಂತರವಿದೆ",
   "discovery.meta.desc": "ಹೊಸ ಕಥೆಗಳನ್ನು ಮತ್ತು ವಿಶ್ವಗಳನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
   "discovery.universes.new": "ಮೂಡುಹೊತ್ತ ವಿಶ್ವಗಳು",

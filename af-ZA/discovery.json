@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Voltooi op {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# storie} other {# stories}}",
   "discover.search.hasComicAdaptation": "Het 'n manga- of strokiesprentverwerking",
   "discovery.meta.desc": "Ontdek nuwe stories en universums.",
   "discovery.universes.new": "Opkomende universums",

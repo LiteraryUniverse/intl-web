@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Avslutad den {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# berättelse} other {# berättelser}}",
   "discover.search.hasComicAdaptation": "Har en manga- eller serieadaption",
   "discovery.meta.desc": "Upptäck nya berättelser och universum.",
   "discovery.universes.new": "Universum som växer fram",

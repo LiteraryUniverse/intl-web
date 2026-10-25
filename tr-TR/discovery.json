@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium} tarihinde tamamlandı",
+  "discovery.row.storiesCount": "{num, plural, one {# hikaye} other {# hikaye}}",
   "discover.search.hasComicAdaptation": "Manga veya çizgi roman uyarlaması var",
   "discovery.meta.desc": "Yeni hikayeler ve evrenler keşfedin.",
   "discovery.universes.new": "Yeni evrenler",

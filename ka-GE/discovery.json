@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "დასრულდა {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# მოთხრობა} other {# მოთხრობა}}",
   "discover.search.hasComicAdaptation": "აქვს მანგის ან კომიქსის ადაპტაცია",
   "discovery.meta.desc": "ახალი მოთხარებებისა და უნივერსუმების განსახილვება.",
   "discovery.universes.new": "ახალი უნივერსუმები",

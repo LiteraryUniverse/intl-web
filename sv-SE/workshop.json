@@ -236,6 +236,7 @@
   "workshop.story.alternateFormats.ongoingAccess.allAvailable": "Alla för närvarande tillgängliga kapitel",
   "workshop.story.alternateFormats.ongoingAccess.perChapter": "Per kapitel (när kapitlen släpps)",
   "workshop.hideOrgs": "Dölj innehåll från organisationer",
+  "workshop.showOrgs": "Visa innehåll från organisationer",
   "workshop.translation.premium": "För att lägga till översättningar behöver du ha minst en Explorer-prenumeration.",
   "workshop.story.finished": "Berättelsen är komplett",
   "workshop.story.publishing.externalSellingNotice": "Eftersom du säljer utanför Litterärt Universum kan du publicera berättelsen nu. Länkar till din butiksinlägg kommer att visas i berättelsen eller i slutet av den nuvarande berättelsen du publicerar här.",

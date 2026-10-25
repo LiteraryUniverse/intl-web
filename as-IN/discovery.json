@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Finished {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# story} other {# stories}}",
   "discover.search.hasComicAdaptation": "মাংগা বা কমিক ৰূপান্তৰ আছে",
   "discovery.meta.desc": "নতুন গল্প এবং বিশ্ব আবিষ্কার করুন।",
   "discovery.universes.new": "উদ্ভাবিত বিশ্ব",

@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "اكتملت في {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, zero {لا قصص} one {قصة واحدة} two {قصتان} few {# قصص} many {# قصة} other {# قصة}}",
   "discover.search.hasComicAdaptation": "له اقتباس مانغا أو قصة مصورة",
   "discovery.meta.desc": "اكتشف قصصًا وعوالمًا جديدة.",
   "discovery.universes.new": "الكواكب الجديدة",

@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Afsluttet den {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# historie} other {# historier}}",
   "discover.search.hasComicAdaptation": "Har en manga- eller tegneserieadaption",
   "discovery.meta.desc": "Opdag nye historier og universer.",
   "discovery.universes.new": "Opstigende universer",

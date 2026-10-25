@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Natapos noong {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# kwento} other {# kwento}}",
   "discover.search.hasComicAdaptation": "May adaptasyong manga o komiks",
   "discovery.meta.desc": "Tuklasin ang mga bagong kwento at mga palapagang mundo.",
   "discovery.universes.new": "Paglitaw ng mga palapagang mundo",

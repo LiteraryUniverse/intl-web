@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium} को पूरी हुई",
+  "discovery.row.storiesCount": "{num, plural, one {# कहानी} other {# कहानियाँ}}",
   "discover.search.hasComicAdaptation": "मंगा या कॉमिक रूपांतरण है",
   "discovery.meta.desc": "नई कहानियाँ और ब्रह्मांड खोजें।",
   "discovery.universes.new": "उभरती हुई ब्रह्मांड",

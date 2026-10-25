@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium} அன்று நிறைவடைந்தது",
+  "discovery.row.storiesCount": "{num, plural, one {# கதை} other {# கதைகள்}}",
   "discover.search.hasComicAdaptation": "மாங்கா அல்லது காமிக் தழுவல் உள்ளது",
   "discovery.meta.desc": "புதிய கதைகள் மற்றும் அமைப்புகளைக் கண்டறியவும்.",
   "discovery.universes.new": "மூலமெலிந்த அமைப்புகள்",

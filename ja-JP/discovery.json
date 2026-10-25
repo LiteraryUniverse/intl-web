@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium}に完結",
+  "discovery.row.storiesCount": "{num, plural, other {#編の物語}}",
   "discover.search.hasComicAdaptation": "漫画・コミック版がある",
   "discovery.meta.desc": "新しい物語や宇宙に関する物語を見つける。",
   "discovery.universes.new": "宇宙関連の視野拡大",

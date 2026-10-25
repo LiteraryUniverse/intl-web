@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium} मा पूरा भयो",
+  "discovery.row.storiesCount": "{num, plural, one {# कथा} other {# कथाहरू}}",
   "discover.search.hasComicAdaptation": "मान्गा वा कमिक रूपान्तरण छ",
   "discovery.meta.desc": "नयाँ कथाहरू र विश्वहरू खोज्नुहोस्।",
   "discovery.universes.new": "उभयोग्य बिश्वहरू",

@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium} 완결",
+  "discovery.row.storiesCount": "{num, plural, other {스토리 #편}}",
   "discover.search.hasComicAdaptation": "만화·코믹스판이 있음",
   "discovery.meta.desc": "새로운 이야기와 우주를 발견하세요.",
   "discovery.universes.new": "신흥 우주",

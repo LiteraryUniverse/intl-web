@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium} 完結",
+  "discovery.row.storiesCount": "{num, plural, other {# 篇故事}}",
   "discover.search.hasComicAdaptation": "有漫畫改編版本",
   "discovery.meta.desc": "探索新故事和宇宙。",
   "discovery.universes.new": "新興宇宙",

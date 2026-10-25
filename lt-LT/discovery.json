@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Baigta {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# istorija} few {# istorijos} many {# istorijos} other {# istorijų}}",
   "discover.search.hasComicAdaptation": "Turi mangos ar komikso adaptaciją",
   "discovery.meta.desc": "Atraskite naujas istorijas ir visatus.",
   "discovery.universes.new": "Atsirandančios visatos",

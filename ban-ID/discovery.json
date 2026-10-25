@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Finished {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# story} other {# stories}}",
   "discover.search.hasComicAdaptation": "Madué adaptasi manga utawi komik",
   "discovery.meta.desc": "Discover new stories and universes.",
   "discovery.universes.new": "Emerging universes",

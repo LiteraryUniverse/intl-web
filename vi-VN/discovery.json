@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Hoàn thành ngày {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, other {# truyện}}",
   "discover.search.hasComicAdaptation": "Có bản chuyển thể manga hoặc truyện tranh",
   "discovery.meta.desc": "Khám phá những câu chuyện và vũ trụ mới.",
   "discovery.universes.new": "Vũ trụ mới nổi",

@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Befejezve: {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# történet} other {# történet}}",
   "discover.search.hasComicAdaptation": "Van manga- vagy képregény-adaptációja",
   "discovery.meta.desc": "Fedezz fel új történeteket és univerzumokat.",
   "discovery.universes.new": "Feltörekvő univerzumok",

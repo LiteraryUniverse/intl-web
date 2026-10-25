@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Finished {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# story} other {# stories}}",
   "discover.search.hasComicAdaptation": "ମାଙ୍ଗା କିମ୍ବା କମିକ୍ ରୂପାନ୍ତର ଅଛି",
   "discovery.meta.desc": "ନୂତନ କାହାଣୀ ଏବଂ ବିଶ୍ଵାଭିନ୍ନତା ଆବିଷ୍କର୍ଯ୍ୟ କରନ୍ତୁ।",
   "discovery.universes.new": "ଉଦ୍ଭାବିତ ବିଶ୍ଵାଭିନ୍ନତା",

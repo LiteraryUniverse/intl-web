@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Finita je {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# rakonto} other {# rakontoj}}",
   "discover.search.hasComicAdaptation": "Havas mangaan aŭ komiksan adapton",
   "discovery.meta.desc": "Malkovru novajn rakontojn kaj universojn.",
   "discovery.universes.new": "Survenantaj universoj",

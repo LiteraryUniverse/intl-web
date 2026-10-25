@@ -236,6 +236,7 @@
   "workshop.story.alternateFormats.ongoingAccess.allAvailable": "目前所有可用的章節",
   "workshop.story.alternateFormats.ongoingAccess.perChapter": "每章（隨章發佈）",
   "workshop.hideOrgs": "隱藏內容不對組織公開",
+  "workshop.showOrgs": "顯示組織的內容",
   "workshop.translation.premium": "為了新增翻譯，您需要至少擁有探索者訂閱。",
   "workshop.story.finished": "故事已完成",
   "workshop.story.publishing.externalSellingNotice": "由於您在文學宇宙以外販售，您現在可以發布故事。您的商店連結將出現在故事中或在您在此處發布的當前故事的末尾。",

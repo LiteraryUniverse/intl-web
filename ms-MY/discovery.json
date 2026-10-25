@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Selesai pada {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, other {# cerita}}",
   "discover.search.hasComicAdaptation": "Mempunyai adaptasi manga atau komik",
   "discovery.meta.desc": "Temui cerita dan alam semesta baru.",
   "discovery.universes.new": "Alam semesta yang baru muncul",

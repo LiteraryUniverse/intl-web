@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "Lõpetatud {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, one {# lugu} other {# lugu}}",
   "discover.search.hasComicAdaptation": "On manga- või koomiksikohandus",
   "discovery.meta.desc": "Avasta uusi lugusid ja universumeid.",
   "discovery.universes.new": "Esile kerkinud universumid",

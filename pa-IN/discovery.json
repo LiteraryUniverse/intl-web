@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium} ਨੂੰ ਪੂਰੀ ਹੋਈ",
+  "discovery.row.storiesCount": "{num, plural, one {# ਕਹਾਣੀ} other {# ਕਹਾਣੀਆਂ}}",
   "discover.search.hasComicAdaptation": "ਮੰਗਾ ਜਾਂ ਕਾਮਿਕ ਰੂਪਾਂਤਰ ਹੈ",
   "discovery.meta.desc": "ਨਵੀਆਂ ਕਹਾਣੀਆਂ ਅਤੇ ਸੰਰਚਨਾਵਾਂ ਦੀ ਖੋਜ ਕਰੋ।",
   "discovery.universes.new": "ਨਵੇਂ ਸੰਰਚਨਾਵਾਂ",

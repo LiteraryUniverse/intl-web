@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "จบเมื่อ {date, date, medium}",
+  "discovery.row.storiesCount": "{num, plural, other {# เรื่อง}}",
   "discover.search.hasComicAdaptation": "มีฉบับดัดแปลงเป็นมังงะหรือการ์ตูน",
   "discovery.meta.desc": "ค้นพบเรื่องราวและจักรวาลใหม่",
   "discovery.universes.new": "จักรวาลที่กำลังเจริญเติบโต",

@@ -1,4 +1,6 @@
 {
+  "discovery.row.finishedAt": "{date, date, medium}ના રોજ પૂર્ણ",
+  "discovery.row.storiesCount": "{num, plural, one {# કથા} other {# કથાઓ}}",
   "discover.search.hasComicAdaptation": "મંગા કે કોમિક રૂપાંતરણ છે",
   "discovery.meta.desc": "નવા કથાઓ અને વિશ્વો શોધો.",
   "discovery.universes.new": "ઉભરતા વિશ્વો",

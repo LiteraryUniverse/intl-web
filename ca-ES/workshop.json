@@ -236,6 +236,7 @@
   "workshop.story.alternateFormats.ongoingAccess.allAvailable": "Tots els capítols disponibles actualment",
   "workshop.story.alternateFormats.ongoingAccess.perChapter": "Per capítol (a mesura que es publiquen)",
   "workshop.hideOrgs": "Amaga el contingut de les organitzacions",
+  "workshop.showOrgs": "Mostra el contingut de les organitzacions",
   "workshop.translation.premium": "Per afegir traduccions, has de tenir com a mínim una subscripció d'Explorer.",
   "workshop.story.finished": "Història completa",
   "workshop.story.publishing.externalSellingNotice": "Com que estàs venent fora de Literary Universe, ara pots publicar la història. Els enllaços a la teva fitxa de botiga apareixeran a la història o al final de la història actual que publiquis aquí.",
