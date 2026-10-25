@@ -164,7 +164,7 @@
   "payment.card.details": "{type, select,\n    credit {Credit card}\n    debit {Debit card}\n    other {Card}\n  } ending with {last4}",
   "payment.options.default": "Default",
   "payment.method.add": "Add a new payment method",
-  "payment.methods.adding": "You new payment method has been added to your account.",
+  "payment.methods.adding": "Your new payment method has been added to your account.",
   "payment.methods.delete": "Delete payment method",
   "payment.upgradePlan.option": "{plan} - {price}",
   "plans.subscription.settingsAria": "Subscription settings options",
