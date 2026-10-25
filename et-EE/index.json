@@ -4179,7 +4179,7 @@
   "org.roles.selectRole": "Valige roll",
   "org.roles.noRole": "Rolli ei ole (ainult õigused)",
   "org.roles.admin": "Administraator",
-  "org.roles.member": "Liikmesriik",
+  "org.roles.member": "Liige",
   "org.roles.author": "Autor",
   "org.roles.workshop": "Töötuba",
   "org.roles.teacher": "Õpetaja",
