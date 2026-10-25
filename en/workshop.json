@@ -240,6 +240,7 @@
   "workshop.story.alternateFormats.ongoingAccess.allAvailable": "All currently available chapters",
   "workshop.story.alternateFormats.ongoingAccess.perChapter": "Per chapter (as chapters are released)",
   "workshop.hideOrgs": "Hide content from organizations",
+  "workshop.showOrgs": "Show content from organizations",
   "workshop.translation.premium": "In order to add translations, you need to have at least Explorer subscription.",
   "workshop.story.finished": "Story is complete",
   "workshop.story.publishing.externalSellingNotice": "Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.",
