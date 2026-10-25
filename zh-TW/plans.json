@@ -306,7 +306,7 @@
   "payment.fanClub.editTier": "編輯層級",
   "plans.deletePlan.modalAria": "刪除計劃確認",
   "payment.fanClub.paymentDescriptorFull": "LU - {username} 球迷俱樂部",
-  "payment.fanClub.paymentDescriptorShort": "LU-{username} 風扇俱樂部",
+  "payment.fanClub.paymentDescriptorShort": "LU-{username} 粉絲俱樂部",
   "payment.fanClub.paymentDescriptorMinimal": "{username} 粉絲會",
   "payment.fanClub.paymentDescriptorBackup": "LU - 作家粉絲俱樂部",
   "payment.fanClub.perMonth": "{amount} /每月",

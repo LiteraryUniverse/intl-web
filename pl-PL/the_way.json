@@ -53,7 +53,7 @@
   "theWay.task.encEntries.title": "Publikowanie wpisów do encyklopedii",
   "theWay.task.encEntries.progress": "Aktualne wpisy w encyklopedii: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Proszę publikować wpisy do encyklopedii, aby pogłębić swój literacki wszechświat!",
-  "theWay.task.fans.title": "Wzmocnienie wentylatorów",
+  "theWay.task.fans.title": "Zdobywanie fanów",
   "theWay.task.fans.progress": "Obecni fani: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Zbudowanie fanklubu to kolejny krok na drodze do zostania pełnoetatowym autorem!",
   "theWay.task.followers.title": "Zyskać zwolenników",

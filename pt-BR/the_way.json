@@ -53,7 +53,7 @@
   "theWay.task.encEntries.title": "Publicar verbetes de enciclopédia",
   "theWay.task.encEntries.progress": "Entradas atuais da enciclopédia: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Publique verbetes de enciclopédia para aprofundar seu universo literário!",
-  "theWay.task.fans.title": "Ganhar ventiladores",
+  "theWay.task.fans.title": "Ganhar fãs",
   "theWay.task.fans.progress": "Fãs atuais: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Construa um fã-clube como o próximo passo para se tornar um autor em tempo integral!",
   "theWay.task.followers.title": "Ganhar seguidores",

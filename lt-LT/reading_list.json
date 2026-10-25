@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}\"Skaitymo sąrašai",
   "readingList.public.seo.description": "Naršykite {username}'s kuruojamus istorijų ir visatų sąrašus Literatūrinėje visatoje.",
   "readingList.public.list.seo.title": "{listName} - Skaitymo sąrašas pagal {username}",
-  "readingList.public.list.seo.description": "Susipažinkite su {username}'s kuruojamu skaitymo sąrašu '{listName}', kuriame pateikiamos istorijos ir visatos Literatūrinėje visatoje.",
+  "readingList.public.list.seo.description": "Susipažinkite su {username} kuruojamu skaitymo sąrašu „{listName}“, kuriame pateikiamos istorijos ir visatos Literary Universe platformoje.",
   "readingList.public.list.description": "Aprašymas: {description}"
 }

@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Zoznamy na čítanie",
   "readingList.public.seo.description": "Prezrite si zoznamy príbehov a vesmírov na stránke {username}'s curated reading lists on Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Zoznam čítania podľa {username}",
-  "readingList.public.list.seo.description": "Preskúmajte {username}'s curated reading list '{listName}' featuring stories and universes on Literary Universe.",
+  "readingList.public.list.seo.description": "Preskúmajte vybraný zoznam čítania „{listName}“ používateľa {username} s príbehmi a vesmírmi na Literary Universe.",
   "readingList.public.list.description": "Popis: {description}"
 }

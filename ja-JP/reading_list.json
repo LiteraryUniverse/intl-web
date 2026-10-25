@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}読書リスト",
   "readingList.public.seo.description": "{username}「Literary Universe」で、ストーリーやユニバースのキュレーションによるリーディングリストを閲覧。",
   "readingList.public.list.seo.title": "{listName} - {username}の読書リスト",
-  "readingList.public.list.seo.description": "{username}'の監修による読書リスト'{listName}' 物語と宇宙をフィーチャーした Literary Universe を探検しよう。",
+  "readingList.public.list.seo.description": "Literary Universeで、{username}が厳選した物語と宇宙の読書リスト「{listName}」を探検しよう。",
   "readingList.public.list.description": "説明： {description}"
 }

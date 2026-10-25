@@ -53,7 +53,7 @@
   "theWay.task.encEntries.title": "Публикуйте записи в энциклопедиях",
   "theWay.task.encEntries.progress": "Текущие записи в энциклопедии: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Публикуйте записи в энциклопедиях, чтобы углубить свою литературную вселенную!",
-  "theWay.task.fans.title": "Приобретайте вентиляторы",
+  "theWay.task.fans.title": "Набирайте поклонников",
   "theWay.task.fans.progress": "Текущие поклонники: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Создание фан-клуба - следующий шаг к тому, чтобы стать автором с полной занятостью!",
   "theWay.task.followers.title": "Приобретайте последователей",

@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}'Reading Lists",
   "readingList.public.seo.description": "Просмотрите {username}'curated reading lists of stories and universes на сайте Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Список литературы на {username}",
-  "readingList.public.list.seo.description": "Изучите список чтения {username}'{listName}' с историями и вселенными на сайте Literary Universe.",
+  "readingList.public.list.seo.description": "Изучите составленный {username} список чтения «{listName}» с историями и вселенными на сайте Literary Universe.",
   "readingList.public.list.description": "Описание: {description}"
 }

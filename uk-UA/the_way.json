@@ -54,7 +54,7 @@
   "theWay.task.encEntries.progress": "Поточні статті в енциклопедії: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Публікуйте енциклопедичні статті, щоб поглибити свій літературний всесвіт!",
   "theWay.task.fans.title": "Завоювати прихильників",
-  "theWay.task.fans.progress": "Поточні вентилятори: {currentValue, number}/{targetValue, number}",
+  "theWay.task.fans.progress": "Поточні прихильники: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Створіть фан-клуб як наступний крок до того, щоб стати повноцінним автором!",
   "theWay.task.followers.title": "Залучайте підписників",
   "theWay.task.followers.progress": "Поточні підписники: {currentValue, number}/{targetValue, number}",

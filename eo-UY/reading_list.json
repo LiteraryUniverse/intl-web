@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "Legolistoj de {username}",
   "readingList.public.seo.description": "Foliumu la zorge elektitajn legolistojn de {username} kun rakontoj kaj universoj ĉe Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Legolisto de {username}",
-  "readingList.public.list.seo.description": "Esploru la zorge elektitan legoliston '{listName}' de {username} kun rakontoj kaj universoj ĉe Literary Universe.",
+  "readingList.public.list.seo.description": "Esploru la zorge elektitan legoliston “{listName}” de {username} kun rakontoj kaj universoj ĉe Literary Universe.",
   "readingList.public.list.description": "Description: {description}"
 }

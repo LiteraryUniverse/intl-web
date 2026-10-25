@@ -53,7 +53,7 @@
   "theWay.task.encEntries.title": "Publicera uppslagsverk",
   "theWay.task.encEntries.progress": "Aktuella poster i encyklopedin: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Publicera encyklopediposter för att fördjupa ditt litterära universum!",
-  "theWay.task.fans.title": "Förstärka fläktarna",
+  "theWay.task.fans.title": "Få fler fans",
   "theWay.task.fans.progress": "Nuvarande fans: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Bygg en fanclub som nästa steg i att bli författare på heltid!",
   "theWay.task.followers.title": "Få fler följare",

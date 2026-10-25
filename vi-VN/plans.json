@@ -488,7 +488,7 @@
   "plans.org.plan.circle.approval": "Cần được phê duyệt: chỉ dành cho câu lạc bộ và nhóm nhỏ. Bắt đầu miễn phí; giá cuối cùng được thỏa thuận khi phê duyệt.",
   "plans.org.price.maxMembers": "Up to {count} members",
   "plans.org.addon.api": "Quyền truy cập API (tổ chức & blog)",
-  "plans.org.feature.workshop": "Phân nhóm của tổ chức (câu chuyện & vũ trụ)",
+  "plans.org.feature.workshop": "Xưởng viết của tổ chức (câu chuyện & vũ trụ)",
   "plans.org.corporate.negotiated": "Số chỗ, tính năng và điều khoản cấp phép theo thương lượng",
   "plans.org.corporate.invoicing": "Xuất hóa đơn và chuyển khoản ngân hàng",
   "plans.org.addon.price": "{addon} (+{price})",

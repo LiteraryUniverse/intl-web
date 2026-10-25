@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "Mga Listahan ng Pagbasa ni {username}",
   "readingList.public.seo.description": "I-browse ang mga piniling listahan ng pagbasa ni {username} ng mga kuwento at uniberso sa Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Listahan ng Pagbasa ni {username}",
-  "readingList.public.list.seo.description": "Tuklasin ang piniling listahan ng pagbasa ni {username} na '{listName}' na nagtatampok ng mga kuwento at uniberso sa Literary Universe.",
+  "readingList.public.list.seo.description": "Tuklasin ang piniling listahan ng pagbasa ni {username} na “{listName}” na nagtatampok ng mga kuwento at uniberso sa Literary Universe.",
   "readingList.public.list.description": "Description: {description}"
 }

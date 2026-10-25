@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Listy czytelnicze",
   "readingList.public.seo.description": "Proszę przejrzeć wyselekcjonowane przez {username}listy opowiadań i uniwersów na Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Lista czytelnicza według {username}",
-  "readingList.public.list.seo.description": "Proszę zapoznać się z wyselekcjonowaną listą lektur {username}'{listName}' zawierającą historie i uniwersa w serwisie Literary Universe.",
+  "readingList.public.list.seo.description": "Proszę zapoznać się z wyselekcjonowaną listą lektur {username} „{listName}” zawierającą historie i uniwersa w serwisie Literary Universe.",
   "readingList.public.list.description": "Opis: {description}"
 }

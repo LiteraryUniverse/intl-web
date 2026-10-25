@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}'s Reading Lists",
   "readingList.public.seo.description": "Browse {username}'s curated reading lists of stories and universes on Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Reading List by {username}",
-  "readingList.public.list.seo.description": "Explore {username}'s curated reading list '{listName}' featuring stories and universes on Literary Universe.",
+  "readingList.public.list.seo.description": "Literary Universe-இல் உள்ள கதைகளும் உலகங்களும் அடங்கிய, {username} தேர்ந்தெடுத்துத் தொகுத்த “{listName}” வாசிப்புப் பட்டியலை ஆராயுங்கள்.",
   "readingList.public.list.description": "Description: {description}"
 }

@@ -35,7 +35,7 @@
   "diary.createBlogPost.button": "ব্লগ পোষ্ট সৃষ্টি কৰক",
   "diary.createBlogPost.confirm": "এই ডায়েৰী এণ্ট্ৰি ব্লগ পোষ্ট হিচাপে শ্বেয়াৰ কৰক",
   "diary.createBlogPost.description": "ইয়াৰ দ্বাৰা আপোনাৰ ডায়েৰী এণ্ট্ৰিৰ পৰা এটা খচৰা ব্লগ পোষ্ট সৃষ্টি হ’ব। প্ৰকাশৰ আগতে আৰু সম্পাদনা কৰিব পাৰিব।",
-  "diary.createBlogPost.introPreview": "পোষ্টত থাকিব: '{date, date, long}ত মূলতঃ লিখা'",
+  "diary.createBlogPost.introPreview": "পোষ্টত থাকিব: “{date, date, long}ত মূলতঃ লিখা”",
   "diary.createBlogPost.titleLabel": "ব্লগ পোষ্টৰ শিৰোনাম",
   "diary.createBlogPost.titlePlaceholder": "আপোনাৰ ব্লগ পোষ্টৰ শিৰোনাম লিখক",
   "diary.createBlogPost.create": "খচৰা সৃষ্টি কৰক",

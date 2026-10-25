@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}'s læselister",
   "readingList.public.seo.description": "Gennemse {username}'s kuraterede læselister med historier og universer på Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Læseliste på {username}",
-  "readingList.public.list.seo.description": "Gå på opdagelse i {username}'s kuraterede læseliste '{listName}' med historier og universer på Literary Universe.",
+  "readingList.public.list.seo.description": "Gå på opdagelse i {username}s kuraterede læseliste “{listName}” med historier og universer på Literary Universe.",
   "readingList.public.list.description": "Beskrivelse: {description}"
 }

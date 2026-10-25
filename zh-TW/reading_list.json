@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}閱讀清單",
   "readingList.public.seo.description": "在 Literary Universe 上瀏覽 {username}'策劃的故事和宇宙閱讀清單。",
   "readingList.public.list.seo.title": "{listName} - 閱讀清單 {username}",
-  "readingList.public.list.seo.description": "在 Literary Universe 上探索 {username}的精選閱讀清單 '{listName}' 以故事和宇宙為特色。",
+  "readingList.public.list.seo.description": "在 Literary Universe 上探索 {username} 的精選閱讀清單「{listName}」，收錄故事與宇宙。",
   "readingList.public.list.description": "說明： {description}"
 }

@@ -224,7 +224,7 @@
   "email.authorDigest.stories": "Câu chuyện của bạn",
   "email.authorDigest.storyLine": "{readers, plural, one {# reader} other {# readers}}, {chapters, plural, one {# chapter} other {# chapters}} read",
   "email.authorDigest.bestChapter": "Chương được đọc nhiều nhất: “{title}”",
-  "email.authorDigest.cta": "Mở Phân nhóm",
+  "email.authorDigest.cta": "Mở xưởng viết",
   "email.readerDigest.subject": "📚 {count, plural, other {# chương chưa đọc}} đang chờ trong thư viện của bạn",
   "email.readerDigest.title": "Các chương mới bạn chưa đọc",
   "email.readerDigest.intro": "Được xuất bản trong tháng vừa qua trong các tác phẩm bạn theo dõi.",

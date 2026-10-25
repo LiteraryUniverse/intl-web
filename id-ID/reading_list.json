@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Daftar Bacaan",
   "readingList.public.seo.description": "Jelajahi daftar bacaan yang telah dikurasi oleh {username}tentang cerita dan alam semesta di Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Daftar Bacaan oleh {username}",
-  "readingList.public.list.seo.description": "Jelajahi daftar bacaan pilihan {username}'{listName}' yang menampilkan cerita dan alam semesta di Literary Universe.",
+  "readingList.public.list.seo.description": "Jelajahi daftar bacaan pilihan {username}, “{listName}”, yang menampilkan cerita dan alam semesta di Literary Universe.",
   "readingList.public.list.description": "Deskripsi: {description}"
 }

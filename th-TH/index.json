@@ -5376,7 +5376,7 @@
   "readingList.public.seo.title": "{username}รายการหนังสือที่อ่าน",
   "readingList.public.seo.description": "เรียกดูรายชื่อหนังสือที่คัดสรรโดย {username}ของเรื่องราวและจักรวาลบน Literary Universe",
   "readingList.public.list.seo.title": "{listName} - รายชื่อหนังสืออ่านเพิ่มเติมโดย {username}",
-  "readingList.public.list.seo.description": "สำรวจรายชื่อหนังสือที่คัดสรรโดย {username}'{listName}' ซึ่งนำเสนอเรื่องราวและจักรวาลต่างๆ บน Literary Universe.",
+  "readingList.public.list.seo.description": "สำรวจรายชื่อหนังสือที่คัดสรรโดย {username} “{listName}” ซึ่งนำเสนอเรื่องราวและจักรวาลต่างๆ บน Literary Universe",
   "readingList.public.list.description": "คำอธิบาย: {description}",
   "resume.editor.title": "ประวัติย่อของผู้เขียน",
   "resume.editor.preview": "ดูตัวอย่างในฐานะผู้เผยแพร่",

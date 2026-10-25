@@ -63,7 +63,7 @@
     },
     "writerEncouragement": {
       "title": "Ready to Create?",
-      "content": "Với một người viết, Phân nhóm là nơi phép màu xảy ra! Bắt đầu một câu chuyện mới, viết tiếp câu chuyện đang dang dở, hoặc mở rộng vũ trụ của bạn. Độc giả đang chờ bạn đấy!"
+      "content": "Với một người viết, Xưởng viết của bạn là nơi phép màu xảy ra! Bắt đầu một câu chuyện mới, viết tiếp câu chuyện đang dang dở, hoặc mở rộng vũ trụ của bạn. Độc giả đang chờ bạn đấy!"
     },
     "readerEncouragement": {
       "title": "Ready to Explore?",
@@ -76,8 +76,8 @@
   "workshop": {
     "title": "Chào mừng đến với Phân nhóm của bạn",
     "welcome": {
-      "title": "Chào mừng đến với Phân nhóm Literary Universe",
-      "content": "Phân nhóm là trái tim của hành trình sáng tạo của bạn trên Literary Universe. Tại đây bạn có thể tạo, quản lý và cộng tác trên các câu chuyện và vũ trụ của mình."
+      "title": "Chào mừng đến với Xưởng viết Literary Universe",
+      "content": "Xưởng viết là trái tim của hành trình sáng tạo của bạn trên Literary Universe. Tại đây bạn có thể tạo, quản lý và cộng tác trên các câu chuyện và vũ trụ của mình."
     },
     "theWay": {
       "title": "Con đường của người viết",
@@ -132,9 +132,9 @@
     }
   },
   "universe": {
-    "title": "Phân nhóm vũ trụ",
+    "title": "Xưởng viết vũ trụ",
     "welcome": {
-      "title": "Chào mừng đến với Phân nhóm vũ trụ của bạn!",
+      "title": "Chào mừng đến với Xưởng viết vũ trụ của bạn!",
       "content": "Chúc mừng bạn đã tạo vũ trụ đầu tiên! Đây là trung tâm điều khiển để bạn xây dựng và quản lý thế giới văn chương của mình. Hãy cùng khám phá tất cả công cụ mạnh mẽ giúp vũ trụ của bạn trở nên sống động."
     },
     "stories": {

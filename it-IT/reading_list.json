@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Liste di lettura di 's",
   "readingList.public.seo.description": "Sfoglia le liste di lettura di storie e universi curate da {username}su Universo Letterario.",
   "readingList.public.list.seo.title": "{listName} - Elenco di letture di {username}",
-  "readingList.public.list.seo.description": "Esplori la lista di lettura curata di {username}'{listName}' con storie e universi su Universo Letterario.",
+  "readingList.public.list.seo.description": "Esplora «{listName}», la lista di lettura curata da {username}, con storie e universi su Literary Universe.",
   "readingList.public.list.description": "Descrizione: {description}"
 }

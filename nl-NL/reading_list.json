@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Leeslijsten",
   "readingList.public.seo.description": "Blader door {username}'s samengestelde leeslijsten van verhalen en universa op Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Leeslijst door {username}",
-  "readingList.public.list.seo.description": "Ontdek {username}'s samengestelde leeslijst '{listName}' met verhalen en universums op Literair Universum.",
+  "readingList.public.list.seo.description": "Ontdek de samengestelde leeslijst “{listName}” van {username}, met verhalen en universums op Literary Universe.",
   "readingList.public.list.description": "Beschrijving: {description}"
 }

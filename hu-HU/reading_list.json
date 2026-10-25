@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}'s Olvasási listák",
   "readingList.public.seo.description": "Böngésszen a {username}'s curated reading lists of stories and universes on Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Olvasási lista {username}",
-  "readingList.public.list.seo.description": "Fedezze fel a {username}'s curated reading list '{listName}' featuring stories and universes on Literary Universe.",
+  "readingList.public.list.seo.description": "Fedezze fel {username} „{listName}” című válogatott olvasási listáját, amely történeteket és univerzumokat mutat be a Literary Universe-en.",
   "readingList.public.list.description": "Leírás: {description}"
 }

@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Listele de lectură ale lui",
   "readingList.public.seo.description": "Răsfoiți listele de lectură de povești și universuri curatate de {username}pe Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Lista de lecturi de {username}",
-  "readingList.public.list.seo.description": "Explorați lista de lectură curată {username}'{listName}' cu povestiri și universuri pe Literary Universe.",
+  "readingList.public.list.seo.description": "Explorați lista de lectură selectată de {username}, „{listName}”, cu povestiri și universuri pe Literary Universe.",
   "readingList.public.list.description": "Descriere: {description}"
 }

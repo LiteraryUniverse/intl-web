@@ -35,7 +35,7 @@
   "diary.createBlogPost.button": "ବ୍ଲଗ୍ ପୋଷ୍ଟ ତିଆରି କରନ୍ତୁ",
   "diary.createBlogPost.confirm": "ଏହି ଡାଏରୀ ଏଣ୍ଟ୍ରିକୁ ବ୍ଲଗ୍ ପୋଷ୍ଟ ଭାବେ ସେୟାର କରନ୍ତୁ",
   "diary.createBlogPost.description": "ଏହା ଆପଣଙ୍କ ଡାଏରୀ ଏଣ୍ଟ୍ରିରୁ ଏକ ଡ୍ରାଫ୍ଟ ବ୍ଲଗ୍ ପୋଷ୍ଟ ତିଆରି କରିବ। ପ୍ରକାଶ କରିବା ପୂର୍ବରୁ ଆହୁରି ସମ୍ପାଦନା କରିପାରିବେ।",
-  "diary.createBlogPost.introPreview": "ପୋଷ୍ଟରେ ରହିବ: '{date, date, long} ରେ ମୂଳତଃ ଲେଖାଯାଇଥିଲା'",
+  "diary.createBlogPost.introPreview": "ପୋଷ୍ଟରେ ରହିବ: “{date, date, long} ରେ ମୂଳତଃ ଲେଖାଯାଇଥିଲା”",
   "diary.createBlogPost.titleLabel": "ବ୍ଲଗ୍ ପୋଷ୍ଟ ଶୀର୍ଷକ",
   "diary.createBlogPost.titlePlaceholder": "ଆପଣଙ୍କ ବ୍ଲଗ୍ ପୋଷ୍ଟର ଶୀର୍ଷକ ଲେଖନ୍ତୁ",
   "diary.createBlogPost.create": "ଡ୍ରାଫ୍ଟ ତିଆରି କରନ୍ତୁ",

@@ -6,7 +6,7 @@
   "universe.fanarts.for": "{universe} Rajongói Képzőművészet",
   "universe.fansettings.for": "{universe} Rajongói Beállítás",
   "universe.fanfiction.stories": "Történetek",
-  "universe.fanfiction.fanarts": "Ventilátor művészetek",
+  "universe.fanfiction.fanarts": "Rajongói alkotások",
   "universe.stories.count": "Ebben az univerzumban {num, plural,\n    =0 {nincs történet}\n    one {egy történet van}\n    other {# történet van}\n    }.",
   "universe.authors.title": "Szerzők",
   "universe.authors.desc": "Készítők és hozzájárulók {universe}-hez",

@@ -53,7 +53,7 @@
   "theWay.task.encEntries.title": "Encyclopedie-items publiceren",
   "theWay.task.encEntries.progress": "Huidige encyclopedie-items: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Publiceer encyclopedie-items om uw literaire universum te verdiepen!",
-  "theWay.task.fans.title": "Ventilators winnen",
+  "theWay.task.fans.title": "Fans krijgen",
   "theWay.task.fans.progress": "Huidige fans: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Bouw een fanclub op als de volgende stap om een fulltime auteur te worden!",
   "theWay.task.followers.title": "Volgers krijgen",

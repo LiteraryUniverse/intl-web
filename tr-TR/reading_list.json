@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}'in Okuma Listeleri",
   "readingList.public.seo.description": "Edebiyat Evreni'nde {username}'un küratörlüğünü yaptığı öykü ve evren okuma listelerine göz atın.",
   "readingList.public.list.seo.title": "{listName} - Okuma Listesi {username}",
-  "readingList.public.list.seo.description": "Edebiyat Evreni'nde hikayeler ve evrenler içeren {username}'un küratörlü okuma listesini '{listName}' keşfedin.",
+  "readingList.public.list.seo.description": "Literary Universe’te hikayeler ve evrenler içeren, {username} kullanıcısının “{listName}” adlı küratörlü okuma listesini keşfedin.",
   "readingList.public.list.description": "Açıklama: {description}"
 }

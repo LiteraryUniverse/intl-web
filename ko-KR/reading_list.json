@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}의 읽기 목록",
   "readingList.public.seo.description": "문학 우주에서 {username}의 엄선된 스토리 및 세계관 목록을 찾아보세요.",
   "readingList.public.list.seo.title": "{listName} - {username}의 읽기 목록",
-  "readingList.public.list.seo.description": "{username}에서 엄선한 읽기 목록 '{listName}' 에서 문학 유니버스의 이야기와 세계관을 살펴보세요.",
+  "readingList.public.list.seo.description": "{username}님이 엄선한 읽기 목록 “{listName}”에서 Literary Universe의 이야기와 세계관을 살펴보세요.",
   "readingList.public.list.description": "설명: {description}"
 }

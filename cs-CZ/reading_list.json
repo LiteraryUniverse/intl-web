@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Seznamy četby",
   "readingList.public.seo.description": "Projděte si seznamy příběhů a vesmírů na stránkách {username}'s kurátorem Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Seznam četby podle {username}",
-  "readingList.public.list.seo.description": "Prohlédněte si seznam doporučené četby {username}'{listName}' s příběhy a vesmíry na stránkách Literárního vesmíru.",
+  "readingList.public.list.seo.description": "Prohlédněte si seznam doporučené četby „{listName}“ uživatele {username} s příběhy a vesmíry na Literary Universe.",
   "readingList.public.list.description": "Popis: {description}"
 }

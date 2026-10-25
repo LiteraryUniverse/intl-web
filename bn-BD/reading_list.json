@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}-এর পড়ার তালিকা",
   "readingList.public.seo.description": "Literary Universe-এ {username}-এর বাছাই করা গল্প ও মহাবিশ্বের পড়ার তালিকাগুলি ঘুরে দেখুন।",
   "readingList.public.list.seo.title": "{listName} - {username}-এর পড়ার তালিকা",
-  "readingList.public.list.seo.description": "Literary Universe-এর গল্প ও মহাবিশ্ব নিয়ে {username}-এর বাছাই করা পড়ার তালিকা '{listName}' ঘুরে দেখুন।",
+  "readingList.public.list.seo.description": "Literary Universe-এর গল্প ও মহাবিশ্ব নিয়ে {username}-এর বাছাই করা পড়ার তালিকা “{listName}” ঘুরে দেখুন।",
   "readingList.public.list.description": "Description: {description}"
 }

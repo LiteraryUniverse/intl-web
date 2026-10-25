@@ -35,7 +35,7 @@
   "diary.createBlogPost.button": "ཟིན་བྲིས་གསར་བཟོ།",
   "diary.createBlogPost.confirm": "ཉིན་ཐོའི་ཟིན་ཐོ་འདི་ཟིན་བྲིས་ལྟར་མཉམ་སྤྱོད།",
   "diary.createBlogPost.description": "འདིས་ཁྱེད་ཀྱི་ཉིན་ཐོའི་ཟིན་ཐོ་ནས་ཟིན་བྲིས་ཟིན་བྲིས་འཆར་ཟིན་གསར་བཟོ་བྱེད། འགྲེམས་སྤེལ་གོང་དུ་བཟོ་བཅོས་བྱེད་ཆོག",
-  "diary.createBlogPost.introPreview": "ཟིན་བྲིས་ནང་འདུག '{date, date, long} ལ་ཐོག་མར་བྲིས་པ།'",
+  "diary.createBlogPost.introPreview": "ཟིན་བྲིས་ནང་འདུག “{date, date, long} ལ་ཐོག་མར་བྲིས་པ།”",
   "diary.createBlogPost.titleLabel": "ཟིན་བྲིས་ཀྱི་ཁ་བྱང་།",
   "diary.createBlogPost.titlePlaceholder": "ཟིན་བྲིས་ཀྱི་ཁ་བྱང་འཇུག",
   "diary.createBlogPost.create": "འཆར་ཟིན་གསར་བཟོ།",

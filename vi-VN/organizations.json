@@ -244,7 +244,7 @@
   "org.error.billingUnavailable": "Thanh toán của tổ chức chưa được thiết lập. Hãy liên hệ bộ phận hỗ trợ.",
   "org.billing.portal": "Phương thức thanh toán, hóa đơn và hủy đăng ký",
   "org.establish.next": "Tổ chức của bạn đã sẵn sàng",
-  "org.establish.onboarding": "Hãy mời những thành viên đầu tiên, gán vai trò cho họ, rồi bắt đầu sáng tạo trong Phân nhóm của tổ chức.",
+  "org.establish.onboarding": "Hãy mời những thành viên đầu tiên, gán vai trò cho họ, rồi bắt đầu sáng tạo trong xưởng viết của tổ chức.",
   "org.establish.invite": "Mời thành viên",
   "org.application.negotiatedPrice": "Giá hằng tháng đã thương lượng theo loại tiền tệ của đơn đăng ký",
   "org.application.priceHelp": "Được phép nhập 0. Hãy nhập các ID giá Stripe đã được phê duyệt cho chu kỳ và loại tiền tệ của đơn đăng ký này; giá theo năm phải bằng 11 lần thanh toán hằng tháng.",

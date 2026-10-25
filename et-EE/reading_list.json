@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}'s lugemisnimekirjad",
   "readingList.public.seo.description": "Sirvige {username}'i kureeritud lugemisnimekirju lugude ja universumite kohta Kirjandusuniversumis.",
   "readingList.public.list.seo.title": "{listName} - Lugemisnimekiri {username}",
-  "readingList.public.list.seo.description": "Tutvu {username}'s kureeritud lugemisnimekirjaga '{listName}' featuring stories and universes on Literary Universe.",
+  "readingList.public.list.seo.description": "Tutvu kasutaja {username} kureeritud lugemisnimekirjaga „{listName}“, mis sisaldab lugusid ja universumeid Literary Universe’is.",
   "readingList.public.list.description": "Kirjeldus: {description}"
 }

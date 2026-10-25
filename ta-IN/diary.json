@@ -35,7 +35,7 @@
   "diary.createBlogPost.button": "வலைப்பதிவு உருவாக்கு",
   "diary.createBlogPost.confirm": "இந்த டைரி பதிவை வலைப்பதிவாகப் பகிரவும்",
   "diary.createBlogPost.description": "இது உங்கள் டைரி பதிவிலிருந்து வலைப்பதிவு வரைவை உருவாக்கும். வெளியிடும் முன் மேலும் திருத்தலாம்.",
-  "diary.createBlogPost.introPreview": "பதிவில் இருக்கும்: '{date, date, long} அன்று முதலில் எழுதப்பட்டது'",
+  "diary.createBlogPost.introPreview": "பதிவில் இருக்கும்: “{date, date, long} அன்று முதலில் எழுதப்பட்டது”",
   "diary.createBlogPost.titleLabel": "வலைப்பதிவுத் தலைப்பு",
   "diary.createBlogPost.titlePlaceholder": "வலைப்பதிவுக்கான தலைப்பை உள்ளிடவும்",
   "diary.createBlogPost.create": "வரைவை உருவாக்கு",

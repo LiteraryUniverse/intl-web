@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Listas de leitura da empresa",
   "readingList.public.seo.description": "Navegue pelas listas de leitura com curadoria de histórias e universos do {username}no Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Lista de leitura em {username}",
-  "readingList.public.list.seo.description": "Explore a lista de leitura com curadoria de {username}'{listName}' com histórias e universos no Literary Universe.",
+  "readingList.public.list.seo.description": "Explore a lista de leitura com curadoria de {username}, “{listName}”, com histórias e universos no Literary Universe.",
   "readingList.public.list.description": "Descrição: {description}"
 }

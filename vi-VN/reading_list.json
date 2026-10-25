@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}Danh sách sách đọc",
   "readingList.public.seo.description": "Khám phá danh sách đọc được tuyển chọn của {username}về các câu chuyện và vũ trụ trên Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Danh sách sách đọc của {username}",
-  "readingList.public.list.seo.description": "Khám phá danh sách đọc được tuyển chọn của {username}' mang tên '{listName}', giới thiệu những câu chuyện và vũ trụ văn học trên Literary Universe.",
+  "readingList.public.list.seo.description": "Khám phá danh sách đọc được tuyển chọn của {username} mang tên “{listName}”, giới thiệu những câu chuyện và vũ trụ trên Literary Universe.",
   "readingList.public.list.description": "Mô tả: {description}"
 }

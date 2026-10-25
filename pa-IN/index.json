@@ -5376,7 +5376,7 @@
   "readingList.public.seo.title": "{username}'s Reading Lists",
   "readingList.public.seo.description": "Browse {username}'s curated reading lists of stories and universes on Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Reading List by {username}",
-  "readingList.public.list.seo.description": "Explore {username}'s curated reading list '{listName}' featuring stories and universes on Literary Universe.",
+  "readingList.public.list.seo.description": "{username} ਵੱਲੋਂ ਚੁਣੀ ਗਈ ਪੜ੍ਹਨ ਸੂਚੀ “{listName}” ਦੀ ਪੜਚੋਲ ਕਰੋ, ਜਿਸ ਵਿੱਚ Literary Universe ਦੀਆਂ ਕਹਾਣੀਆਂ ਅਤੇ ਬ੍ਰਹਿਮੰਡ ਸ਼ਾਮਲ ਹਨ।",
   "readingList.public.list.description": "Description: {description}",
   "resume.editor.title": "ਲੇਖਕ ਦਾ ਸੰਖੇਪ ਜੀਵਨ-ਪਰਿਚੈ",
   "resume.editor.preview": "ਪ੍ਰਕਾਸ਼ਕ ਵਜੋਂ ਪੂਰਵ-ਝਲਕ",

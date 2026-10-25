@@ -54,7 +54,7 @@
   "theWay.task.encEntries.progress": "Aktuální hesla encyklopedie: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Publikujte encyklopedická hesla a prohlubte svůj literární vesmír!",
   "theWay.task.fans.title": "Získávání fanoušků",
-  "theWay.task.fans.progress": "Současné ventilátory: {currentValue, number}/{targetValue, number}",
+  "theWay.task.fans.progress": "Současní fanoušci: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Vybudujte si fanklub jako další krok k tomu, abyste se stali autory na plný úvazek!",
   "theWay.task.followers.title": "Získávání příznivců",
   "theWay.task.followers.progress": "Současní následovníci: {currentValue, number}/{targetValue, number}",

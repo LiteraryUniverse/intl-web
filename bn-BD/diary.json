@@ -35,7 +35,7 @@
   "diary.createBlogPost.button": "ব্লগ পোস্ট তৈরি করুন",
   "diary.createBlogPost.confirm": "এই ডায়েরি এন্ট্রি ব্লগ পোস্ট হিসেবে শেয়ার করুন",
   "diary.createBlogPost.description": "এতে আপনার ডায়েরি এন্ট্রি থেকে একটি খসড়া ব্লগ পোস্ট তৈরি হবে। প্রকাশের আগে আপনি আরও সম্পাদনা করতে পারবেন।",
-  "diary.createBlogPost.introPreview": "পোস্টে থাকবে: '{date, date, long}-এ মূলত লেখা'",
+  "diary.createBlogPost.introPreview": "পোস্টে থাকবে: “{date, date, long}-এ মূলত লেখা”",
   "diary.createBlogPost.titleLabel": "ব্লগ পোস্টের শিরোনাম",
   "diary.createBlogPost.titlePlaceholder": "আপনার ব্লগ পোস্টের শিরোনাম লিখুন",
   "diary.createBlogPost.create": "খসড়া তৈরি করুন",

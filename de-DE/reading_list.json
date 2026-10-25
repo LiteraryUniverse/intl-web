@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "{username}'s Leselisten",
   "readingList.public.seo.description": "Stöbern Sie auf {username}in den kuratierten Leselisten von Geschichten und Universen auf Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Leseliste von {username}",
-  "readingList.public.list.seo.description": "Entdecken Sie {username}'s kuratierte Leseliste '{listName}' mit Geschichten und Universen auf Literary Universe.",
+  "readingList.public.list.seo.description": "Entdecken Sie die kuratierte Leseliste „{listName}“ von {username} mit Geschichten und Universen auf Literary Universe.",
   "readingList.public.list.description": "Beschreibung: {description}"
 }

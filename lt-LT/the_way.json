@@ -53,7 +53,7 @@
   "theWay.task.encEntries.title": "Skelbti enciklopedijos įrašus",
   "theWay.task.encEntries.progress": "Dabartiniai enciklopedijos įrašai: {currentValue, number}/{targetValue, number}",
   "theWay.task.encEntries.description": "Publikuokite enciklopedijos įrašus, kad pagilintumėte savo literatūrinę visatą!",
-  "theWay.task.fans.title": "Gauti ventiliatoriai",
+  "theWay.task.fans.title": "Pelnyti gerbėjų",
   "theWay.task.fans.progress": "Dabartiniai gerbėjai: {currentValue, number}/{targetValue, number}",
   "theWay.task.fans.description": "Sukurkite gerbėjų klubą - tai kitas žingsnis siekiant tapti nuolatiniu autoriumi!",
   "theWay.task.followers.title": "Pelnyti sekėjų",

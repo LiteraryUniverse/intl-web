@@ -32,6 +32,6 @@
   "readingList.public.seo.title": "Senarai bacaan {username}",
   "readingList.public.seo.description": "Layari senarai bacaan pilihan {username} yang mengandungi cerita dan univers di Literary Universe.",
   "readingList.public.list.seo.title": "{listName} - Senarai bacaan oleh {username}",
-  "readingList.public.list.seo.description": "Terokai senarai bacaan pilihan {username} '{listName}' yang menampilkan cerita dan univers di Literary Universe.",
+  "readingList.public.list.seo.description": "Terokai senarai bacaan pilihan {username}, “{listName}”, yang menampilkan cerita dan univers di Literary Universe.",
   "readingList.public.list.description": "Description: {description}"
 }
