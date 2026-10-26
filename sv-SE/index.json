@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Välj organisationsplan",
   "org.billing.interval": "Faktureringsintervall",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Årsvis – 12 månader till priset av 11",
+  "org.billing.yearly": "Årsvis",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Priset för Circle börjar på noll och avtalas med dig vid godkännandet. Betalda tillägg faktureras separat.",
   "org.billing.estimate": "{price} per {interval}, före skatt.",

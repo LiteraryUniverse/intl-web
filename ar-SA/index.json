@@ -4366,7 +4366,7 @@
   "org.establish.plan": "اختر خطة منظمتك",
   "org.billing.interval": "فترة الفوترة",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "سنويًا — 12 شهرًا بسعر 11",
+  "org.billing.yearly": "سنويًا",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "تسعير Circle يبدأ من الصفر ويُتفق عليه معك أثناء الموافقة. تُفوتَر الإضافات المدفوعة بشكل منفصل.",
   "org.billing.estimate": "{price} لكل {interval}، قبل الضريبة.",

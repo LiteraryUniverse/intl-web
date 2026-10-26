@@ -257,7 +257,7 @@
   "org.establish.plan": "Chọn gói cho tổ chức của bạn",
   "org.billing.interval": "Chu kỳ thanh toán",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Hằng năm — 12 tháng với giá của 11 tháng",
+  "org.billing.yearly": "Hằng năm",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Giá của Circle bắt đầu từ 0 và được thỏa thuận với bạn trong quá trình phê duyệt. Các tiện ích bổ sung trả phí được tính riêng.",
   "org.billing.estimate": "{price} mỗi {interval}, chưa bao gồm thuế.",

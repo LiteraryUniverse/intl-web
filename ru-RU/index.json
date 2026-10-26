@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Выберите план для организации",
   "org.billing.interval": "Расчётный период",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Ежегодно — 12 месяцев по цене 11",
+  "org.billing.yearly": "Ежегодно",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Цена Circle начинается с нуля и согласовывается с вами при одобрении. Платные дополнения оплачиваются отдельно.",
   "org.billing.estimate": "{price} за {interval}, без учёта налогов.",

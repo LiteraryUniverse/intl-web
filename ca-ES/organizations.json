@@ -257,7 +257,7 @@
   "org.establish.plan": "Tria el pla de la teva organització",
   "org.billing.interval": "Interval de facturació",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Anual: 12 mesos pel preu d'11",
+  "org.billing.yearly": "Anual",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "El preu de Circle comença en zero i s'acorda amb tu durant l'aprovació. Els complements de pagament es facturen a part.",
   "org.billing.estimate": "{price} per {interval}, abans d'impostos.",

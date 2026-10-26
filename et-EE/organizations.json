@@ -257,7 +257,7 @@
   "org.establish.plan": "Valige oma organisatsiooni plaan",
   "org.billing.interval": "Arveldusintervall",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Aastane — 12 kuud 11 kuu hinnaga",
+  "org.billing.yearly": "Aastane",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle'i hind algab nullist ja lepitakse teiega kokku heakskiitmise käigus. Tasulised lisad arveldatakse eraldi.",
   "org.billing.estimate": "{price} / {interval}, ilma maksudeta.",

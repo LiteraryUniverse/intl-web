@@ -257,7 +257,7 @@
   "org.establish.plan": "Kuruluş planınızı seçin",
   "org.billing.interval": "Faturalandırma dönemi",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Yıllık — 11 ay fiyatına 12 ay",
+  "org.billing.yearly": "Yıllık",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle fiyatlandırması sıfırdan başlar ve onay sırasında sizinle birlikte kararlaştırılır. Ücretli eklentiler ayrıca faturalandırılır.",
   "org.billing.estimate": "{interval} başına {price}, vergi hariç.",

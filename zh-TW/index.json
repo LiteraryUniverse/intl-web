@@ -4366,7 +4366,7 @@
   "org.establish.plan": "選擇您的組織方案",
   "org.billing.interval": "計費週期",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "年繳——以 11 個月的價格使用 12 個月",
+  "org.billing.yearly": "年繳",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle 的價格從零起算，並在核准過程中與您議定。付費附加項目另行計費。",
   "org.billing.estimate": "每{interval} {price}，未稅。",

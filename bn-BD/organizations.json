@@ -257,7 +257,7 @@
   "org.establish.plan": "আপনার প্রতিষ্ঠানের প্ল্যান বেছে নিন",
   "org.billing.interval": "বিলিং ব্যবধান",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "বার্ষিক — ১১ মাসের মূল্যে ১২ মাস",
+  "org.billing.yearly": "বার্ষিক",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle-এর মূল্য শূন্য থেকে শুরু হয় এবং অনুমোদনের সময় আপনার সঙ্গে আলোচনা করে স্থির করা হয়। অর্থপ্রদত্ত অ্যাড-অনগুলির বিল আলাদাভাবে করা হয়।",
   "org.billing.estimate": "প্রতি {interval} {price}, কর বাদে।",

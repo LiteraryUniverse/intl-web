@@ -257,7 +257,7 @@
   "org.establish.plan": "Elektu vian organizan planon",
   "org.billing.interval": "Faktura intervalo",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Jare — 12 monatoj por la prezo de 11",
+  "org.billing.yearly": "Jare",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "La prezo de Circle komenciĝas je nulo kaj estas interkonsentata kun vi dum la aprobo. Pagaj aldonaĵoj estas fakturataj aparte.",
   "org.billing.estimate": "{price} po {interval}, antaŭ imposto.",

@@ -257,7 +257,7 @@
   "org.establish.plan": "Оберіть план для організації",
   "org.billing.interval": "Розрахунковий інтервал",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Щороку — 12 місяців за ціною 11",
+  "org.billing.yearly": "Щороку",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Ціни Circle починаються з нуля та узгоджуються з вами під час схвалення. Платні доповнення оплачуються окремо.",
   "org.billing.estimate": "{price} за {interval}, без урахування податку.",

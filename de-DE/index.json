@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Wählen Sie Ihren Organisationsplan",
   "org.billing.interval": "Abrechnungsintervall",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Jährlich – 12 Monate zum Preis von 11",
+  "org.billing.yearly": "Jährlich",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Die Circle-Preise beginnen bei null und werden während der Genehmigung mit Ihnen vereinbart. Kostenpflichtige Add-ons werden separat abgerechnet.",
   "org.billing.estimate": "{price} pro {interval}, vor Steuern.",

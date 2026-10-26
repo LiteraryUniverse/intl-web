@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Kies jou organisasieplan",
   "org.billing.interval": "Faktureringsinterval",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Jaarliks — 12 maande vir die prys van 11",
+  "org.billing.yearly": "Jaarliks",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle-pryse begin by nul en word tydens goedkeuring met jou ooreengekom. Betaalde byvoegings word afsonderlik gefaktureer.",
   "org.billing.estimate": "{price} per {interval}, voor belasting.",

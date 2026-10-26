@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Piliin ang plano ng iyong organisasyon",
   "org.billing.interval": "Interval ng billing",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Taunan — 12 buwan sa presyo ng 11",
+  "org.billing.yearly": "Taunan",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Nagsisimula sa zero ang presyo ng Circle at pinagkakasunduan ninyo ito sa panahon ng pag-apruba. Hiwalay na sinisingil ang mga bayad na add-on.",
   "org.billing.estimate": "{price} bawat {interval}, bago ang buwis.",

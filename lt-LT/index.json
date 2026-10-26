@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Pasirinkite savo organizacijos planą",
   "org.billing.interval": "Atsiskaitymo intervalas",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Kasmet – 12 mėnesių už 11 kainą",
+  "org.billing.yearly": "Kasmet",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle kainos prasideda nuo nulio ir dėl jų su jumis susitariama tvirtinimo metu. Už mokamus priedus sąskaitos išrašomos atskirai.",
   "org.billing.estimate": "{price} už {interval}, be mokesčių.",

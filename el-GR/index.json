@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Επιλέξτε το πρόγραμμα του οργανισμού σας",
   "org.billing.interval": "Διάστημα χρέωσης",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Ετήσια — 12 μήνες στην τιμή των 11",
+  "org.billing.yearly": "Ετήσια",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Η τιμολόγηση του Circle ξεκινά από το μηδέν και συμφωνείται μαζί σας κατά την έγκριση. Τα επί πληρωμή πρόσθετα χρεώνονται χωριστά.",
   "org.billing.estimate": "{price} ανά {interval}, προ φόρων.",

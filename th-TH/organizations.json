@@ -257,7 +257,7 @@
   "org.establish.plan": "เลือกแผนสำหรับองค์กรของคุณ",
   "org.billing.interval": "รอบการเรียกเก็บเงิน",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "รายปี — 12 เดือนในราคา 11 เดือน",
+  "org.billing.yearly": "รายปี",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "ราคา Circle เริ่มต้นที่ศูนย์และจะตกลงกับคุณระหว่างการอนุมัติ ส่วนเสริมแบบชำระเงินจะเรียกเก็บแยกต่างหาก",
   "org.billing.estimate": "{price} ต่อ{interval} ยังไม่รวมภาษี",

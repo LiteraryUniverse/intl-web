@@ -257,7 +257,7 @@
   "org.establish.plan": "Alege planul organizației tale",
   "org.billing.interval": "Interval de facturare",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Anual — 12 luni la prețul a 11",
+  "org.billing.yearly": "Anual",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Prețul pentru Circle pornește de la zero și este convenit cu tine în timpul aprobării. Suplimentele plătite sunt facturate separat.",
   "org.billing.estimate": "{price} pe {interval}, fără taxe.",

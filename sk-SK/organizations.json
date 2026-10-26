@@ -257,7 +257,7 @@
   "org.establish.plan": "Vyberte plán pre svoju organizáciu",
   "org.billing.interval": "Fakturačný interval",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Ročne – 12 mesiacov za cenu 11",
+  "org.billing.yearly": "Ročne",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Cena plánu Circle začína na nule a dohodne sa s vami počas schvaľovania. Platené doplnky sa fakturujú samostatne.",
   "org.billing.estimate": "{price} za {interval}, bez dane.",

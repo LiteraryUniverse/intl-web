@@ -257,7 +257,7 @@
   "org.establish.plan": "Válaszd ki a szervezeti csomagodat",
   "org.billing.interval": "Számlázási időszak",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Éves — 12 hónap 11 áráért",
+  "org.billing.yearly": "Éves",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "A Circle árazása nulláról indul, és a jóváhagyás során egyeztetjük veled. A fizetős kiegészítőket külön számlázzuk.",
   "org.billing.estimate": "{price} / {interval}, adó nélkül.",

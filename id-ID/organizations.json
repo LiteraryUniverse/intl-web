@@ -257,7 +257,7 @@
   "org.establish.plan": "Pilih paket organisasi Anda",
   "org.billing.interval": "Interval penagihan",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Tahunan — 12 bulan dengan harga 11 bulan",
+  "org.billing.yearly": "Tahunan",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Harga Circle dimulai dari nol dan disepakati bersama Anda saat persetujuan. Add-on berbayar ditagihkan secara terpisah.",
   "org.billing.estimate": "{price} per {interval}, sebelum pajak.",

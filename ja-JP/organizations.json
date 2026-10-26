@@ -257,7 +257,7 @@
   "org.establish.plan": "組織プランを選択",
   "org.billing.interval": "請求間隔",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "年払い — 11か月分の料金で12か月",
+  "org.billing.yearly": "年払い",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circleの料金はゼロから始まり、承認の過程であなたと合意のうえ決定します。有料アドオンは別途請求されます。",
   "org.billing.estimate": "{interval}あたり{price}（税抜）。",

@@ -4366,7 +4366,7 @@
   "org.establish.plan": "בחר את תוכנית הארגון שלך",
   "org.billing.interval": "תדירות החיוב",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "שנתי — 12 חודשים במחיר של 11",
+  "org.billing.yearly": "שנתי",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "תמחור Circle מתחיל מאפס ומסוכם איתך במהלך האישור. תוספות בתשלום מחויבות בנפרד.",
   "org.billing.estimate": "{price} ל{interval}, לפני מס.",

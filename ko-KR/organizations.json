@@ -257,7 +257,7 @@
   "org.establish.plan": "조직 요금제 선택",
   "org.billing.interval": "결제 주기",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "연간 — 11개월 가격으로 12개월",
+  "org.billing.yearly": "연간",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle 가격은 0부터 시작하며 승인 과정에서 회원님과 협의하여 정합니다. 유료 추가 기능은 별도로 청구됩니다.",
   "org.billing.estimate": "{interval}당 {price}, 세전.",

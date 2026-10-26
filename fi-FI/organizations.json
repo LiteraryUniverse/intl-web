@@ -257,7 +257,7 @@
   "org.establish.plan": "Valitse organisaatiosi suunnitelma",
   "org.billing.interval": "Laskutusväli",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Vuosittain — 12 kuukautta 11:n hinnalla",
+  "org.billing.yearly": "Vuosittain",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle-hinnoittelu alkaa nollasta, ja siitä sovitaan kanssasi hyväksynnän yhteydessä. Maksulliset lisäosat laskutetaan erikseen.",
   "org.billing.estimate": "{price} / {interval}, ennen veroja.",

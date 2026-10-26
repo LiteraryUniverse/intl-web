@@ -257,7 +257,7 @@
   "org.establish.plan": "Wybierz plan dla organizacji",
   "org.billing.interval": "Okres rozliczeniowy",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Rocznie — 12 miesięcy w cenie 11",
+  "org.billing.yearly": "Rocznie",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Cena planu Circle zaczyna się od zera i jest ustalana z Tobą podczas zatwierdzania. Płatne dodatki są rozliczane osobno.",
   "org.billing.estimate": "{price} za {interval}, przed opodatkowaniem.",

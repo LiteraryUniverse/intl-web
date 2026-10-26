@@ -4366,7 +4366,7 @@
   "org.establish.plan": "अपनी संगठन योजना चुनें",
   "org.billing.interval": "बिलिंग अंतराल",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "वार्षिक — 11 की कीमत में 12 महीने",
+  "org.billing.yearly": "वार्षिक",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "Circle की कीमत शून्य से शुरू होती है और स्वीकृति के दौरान आपके साथ तय की जाती है। सशुल्क ऐड-ऑन का बिल अलग से बनता है।",
   "org.billing.estimate": "{price} प्रति {interval}, कर से पहले।",

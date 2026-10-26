@@ -4366,7 +4366,7 @@
   "org.establish.plan": "Elige el plan de tu organización",
   "org.billing.interval": "Intervalo de facturación",
   "org.billing.monthly": "Monthly",
-  "org.billing.yearly": "Anual: 12 meses por el precio de 11",
+  "org.billing.yearly": "Anual",
   "org.billing.currency": "Currency",
   "org.establish.circlePrice": "El precio de Circle parte de cero y se acuerda contigo durante la aprobación. Los complementos de pago se facturan aparte.",
   "org.billing.estimate": "{price} por {interval}, antes de impuestos.",
