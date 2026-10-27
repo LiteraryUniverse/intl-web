@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "อ่านบทความบล็อก",
   "settings.apiKeys.scope.blog.read.desc": "เข้าถึงโพสต์และร่างบล็อกของคุณ",
   "settings.apiKeys.scope.blog.write": "สร้างและแก้ไขบทความในบล็อก",
-  "settings.apiKeys.scope.blog.write.desc": "สร้างและอัปเดตบทความในบล็อก",
+  "settings.apiKeys.scope.blog.write.desc": "อัปโหลดรูปภาพสำหรับบทความในบล็อกของคุณ การแก้ไขตัวบทความจะถูกเพิ่มเข้าในสิทธิ์นี้เมื่อพร้อมใช้งาน",
   "settings.apiKeys.scope.user.read": "อ่านโปรไฟล์",
   "settings.apiKeys.scope.user.read.desc": "เข้าถึงชื่อผู้ใช้, อวาตาร์, และโปรไฟล์สาธารณะของคุณ",
   "settings.apiKeys.scope.library.read": "อ่านห้องสมุด",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(พรอมต์ที่ยาวกว่านั้น)",
   "settings.apiKeys.scope.story.edit": "แก้ไขเรื่องราว",
   "settings.apiKeys.scope.story.edit.desc": "แก้ไขข้อมูลกำกับเรื่องราวและบันทึกผู้เขียน",
+  "settings.apiKeys.scope.story.publish": "เผยแพร่ตอน",
+  "settings.apiKeys.scope.story.publish.desc": "เผยแพร่หรือตั้งเวลาเผยแพร่ตอนสำหรับผู้อ่านและผู้อ่านเบต้า การเผยแพร่ตอนแรกให้ผู้อ่านจะเผยแพร่เรื่องด้วย",
   "settings.apiKeys.scope.diary.read": "อ่านบันทึกการเขียน",
   "settings.apiKeys.scope.diary.read.desc": "เข้าถึงรายการบันทึกการเขียนและสถิติวันเขียนต่อเนื่องของคุณ"
 }

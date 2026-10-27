@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Proszę przeczytać wpisy na blogu",
   "settings.apiKeys.scope.blog.read.desc": "Dostęp do wpisów na blogu i wersji roboczych",
   "settings.apiKeys.scope.blog.write": "Tworzenie i edytowanie wpisów na blogu",
-  "settings.apiKeys.scope.blog.write.desc": "Tworzenie i aktualizowanie wpisów na blogu",
+  "settings.apiKeys.scope.blog.write.desc": "Przesyłanie obrazów do wpisów na blogu. Edycja samych wpisów zostanie dodana do tego uprawnienia, gdy będzie dostępna",
   "settings.apiKeys.scope.user.read": "Proszę przeczytać profil",
   "settings.apiKeys.scope.user.read.desc": "Dostęp do nazwy użytkownika, awatara i profilu publicznego",
   "settings.apiKeys.scope.library.read": "Proszę przeczytać bibliotekę",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(dłuższe prompty)",
   "settings.apiKeys.scope.story.edit": "Edytowanie historii",
   "settings.apiKeys.scope.story.edit.desc": "Edytowanie metadanych historii i notatek autora",
+  "settings.apiKeys.scope.story.publish": "Publikowanie rozdziałów",
+  "settings.apiKeys.scope.story.publish.desc": "Publikowanie lub planowanie rozdziałów dla czytelników i betaczytelników. Opublikowanie pierwszego rozdziału dla czytelników publikuje też historię",
   "settings.apiKeys.scope.diary.read": "Odczyt dziennika pisania",
   "settings.apiKeys.scope.diary.read.desc": "Dostęp do wpisów w dzienniku pisania i serii kolejnych dni pisania"
 }

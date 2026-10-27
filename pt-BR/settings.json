@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Leia as postagens do blog",
   "settings.apiKeys.scope.blog.read.desc": "Acesse suas postagens e rascunhos de blog",
   "settings.apiKeys.scope.blog.write": "Criar e editar postagens de blog",
-  "settings.apiKeys.scope.blog.write.desc": "Criar e atualizar postagens de blog",
+  "settings.apiKeys.scope.blog.write.desc": "Envie imagens para as postagens do seu blog. A edição das próprias postagens passará a fazer parte desta permissão quando estiver disponível",
   "settings.apiKeys.scope.user.read": "Ler perfil",
   "settings.apiKeys.scope.user.read.desc": "Acesse seu nome de usuário, avatar e perfil público",
   "settings.apiKeys.scope.library.read": "Ler biblioteca",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(prompts mais longos)",
   "settings.apiKeys.scope.story.edit": "Editar histórias",
   "settings.apiKeys.scope.story.edit.desc": "Editar os metadados das histórias e as notas do autor",
+  "settings.apiKeys.scope.story.publish": "Publicar capítulos",
+  "settings.apiKeys.scope.story.publish.desc": "Publique ou agende capítulos para leitores e leitores beta. Publicar o primeiro capítulo para os leitores também publica a história",
   "settings.apiKeys.scope.diary.read": "Ler o diário de escrita",
   "settings.apiKeys.scope.diary.read.desc": "Acessar suas entradas no diário de escrita e sequências de dias consecutivos de escrita"
 }

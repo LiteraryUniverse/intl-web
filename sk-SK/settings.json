@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Prečítajte si príspevky na blogu",
   "settings.apiKeys.scope.blog.read.desc": "Prístup k príspevkom a návrhom blogu",
   "settings.apiKeys.scope.blog.write": "Vytváranie a úprava príspevkov na blogu",
-  "settings.apiKeys.scope.blog.write.desc": "Vytváranie a aktualizácia príspevkov na blogu",
+  "settings.apiKeys.scope.blog.write.desc": "Nahrávanie obrázkov k príspevkom na blogu. Úpravy samotných príspevkov k tomuto oprávneniu pribudnú, keď budú k dispozícii",
   "settings.apiKeys.scope.user.read": "Prečítajte si profil",
   "settings.apiKeys.scope.user.read.desc": "Prístup k používateľskému menu, avatarovi a verejnému profilu",
   "settings.apiKeys.scope.library.read": "Čítajte knižnicu",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(dlhšie prompty)",
   "settings.apiKeys.scope.story.edit": "Upravovať príbehy",
   "settings.apiKeys.scope.story.edit.desc": "Upravovať metadáta príbehov a poznámky autora",
+  "settings.apiKeys.scope.story.publish": "Publikovanie kapitol",
+  "settings.apiKeys.scope.story.publish.desc": "Publikovanie a plánovanie kapitol pre čitateľov a beta čitateľov. Publikovaním prvej kapitoly pre čitateľov sa zverejní aj príbeh",
   "settings.apiKeys.scope.diary.read": "Čítať denník písania",
   "settings.apiKeys.scope.diary.read.desc": "Prístup k záznamom denníka písania a sériám po sebe nasledujúcich dní písania"
 }

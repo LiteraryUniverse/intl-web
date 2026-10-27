@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Lees blogplasings",
   "settings.apiKeys.scope.blog.read.desc": "Toegang tot jou blogplasings en konsepte",
   "settings.apiKeys.scope.blog.write": "Skep en wysig blogplasings",
-  "settings.apiKeys.scope.blog.write.desc": "Skep blogplasings en dateer hulle op",
+  "settings.apiKeys.scope.blog.write.desc": "Laai prente vir jou blogplasings op. Die wysiging van die plasings self word by hierdie toestemming gevoeg sodra dit beskikbaar word",
   "settings.apiKeys.scope.user.read": "Lees profiel",
   "settings.apiKeys.scope.user.read.desc": "Toegang tot jou gebruikersnaam, avatar en openbare profiel",
   "settings.apiKeys.scope.library.read": "Lees biblioteek",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(langer opdragte)",
   "settings.apiKeys.scope.story.edit": "Wysig stories",
   "settings.apiKeys.scope.story.edit.desc": "Wysig storie-inligting en skrywersnotas",
+  "settings.apiKeys.scope.story.publish": "Publiseer hoofstukke",
+  "settings.apiKeys.scope.story.publish.desc": "Publiseer of skeduleer hoofstukke vir lesers en beta-lesers. Wanneer die eerste hoofstuk vir lesers gepubliseer word, word die storie ook gepubliseer",
   "settings.apiKeys.scope.diary.read": "Lees skryfdagboek",
   "settings.apiKeys.scope.diary.read.desc": "Kry toegang tot jou skryfdagboekinskrywings en opeenvolgende skryfdae"
 }

@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "블로그 게시물 읽기",
   "settings.apiKeys.scope.blog.read.desc": "블로그 게시물 및 초안에 액세스",
   "settings.apiKeys.scope.blog.write": "블로그 게시물 작성 및 편집",
-  "settings.apiKeys.scope.blog.write.desc": "블로그 게시물 작성 및 업데이트",
+  "settings.apiKeys.scope.blog.write.desc": "블로그 게시물용 이미지를 업로드합니다. 게시물 자체의 편집 기능도 사용할 수 있게 되는 대로 이 권한에 추가됩니다",
   "settings.apiKeys.scope.user.read": "프로필 읽기",
   "settings.apiKeys.scope.user.read.desc": "사용자 아이디, 아바타, 공개 프로필에 액세스하기",
   "settings.apiKeys.scope.library.read": "라이브러리 읽기",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(더 긴 프롬프트)",
   "settings.apiKeys.scope.story.edit": "스토리 편집",
   "settings.apiKeys.scope.story.edit.desc": "스토리 메타데이터 및 작가 노트 편집",
+  "settings.apiKeys.scope.story.publish": "챕터 게시",
+  "settings.apiKeys.scope.story.publish.desc": "독자와 베타 독자를 위해 챕터를 게시하거나 예약합니다. 첫 챕터를 독자에게 게시하면 스토리도 함께 게시됩니다",
   "settings.apiKeys.scope.diary.read": "글쓰기 일기 읽기",
   "settings.apiKeys.scope.diary.read.desc": "글쓰기 일기 항목과 연속 작성 기록에 접근"
 }

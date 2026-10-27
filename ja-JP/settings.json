@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "ブログ記事を読む",
   "settings.apiKeys.scope.blog.read.desc": "ブログ記事と下書きにアクセスする",
   "settings.apiKeys.scope.blog.write": "ブログ記事の作成と編集",
-  "settings.apiKeys.scope.blog.write.desc": "ブログ記事の作成と更新",
+  "settings.apiKeys.scope.blog.write.desc": "ブログ記事用の画像をアップロードします。記事そのものの編集は、利用可能になり次第この権限に加わります",
   "settings.apiKeys.scope.user.read": "プロフィールを読む",
   "settings.apiKeys.scope.user.read.desc": "ユーザー名、アバター、公開プロフィールにアクセスする",
   "settings.apiKeys.scope.library.read": "図書館を読む",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "（それより長いプロンプト）",
   "settings.apiKeys.scope.story.edit": "ストーリーを編集",
   "settings.apiKeys.scope.story.edit.desc": "ストーリーのメタデータと作者のメモを編集",
+  "settings.apiKeys.scope.story.publish": "章の公開",
+  "settings.apiKeys.scope.story.publish.desc": "読者とベータ読者向けに章を公開または予約公開します。最初の章を読者向けに公開すると、ストーリーも公開されます",
   "settings.apiKeys.scope.diary.read": "執筆日記を読む",
   "settings.apiKeys.scope.diary.read.desc": "執筆日記の記録と連続執筆記録にアクセス"
 }

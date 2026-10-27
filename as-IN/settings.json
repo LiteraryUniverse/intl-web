@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Read blog posts",
   "settings.apiKeys.scope.blog.read.desc": "Access your blog posts and drafts",
   "settings.apiKeys.scope.blog.write": "Create and edit blog posts",
-  "settings.apiKeys.scope.blog.write.desc": "Create and update blog posts",
+  "settings.apiKeys.scope.blog.write.desc": "Upload images for your blog posts. Editing the posts themselves joins this permission as it becomes available",
   "settings.apiKeys.scope.user.read": "Read profile",
   "settings.apiKeys.scope.user.read.desc": "Access your username, avatar, and public profile",
   "settings.apiKeys.scope.library.read": "Read library",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(longer prompts)",
   "settings.apiKeys.scope.story.edit": "গল্প সম্পাদনা কৰা",
   "settings.apiKeys.scope.story.edit.desc": "গল্পৰ মেটাডেটা আৰু লেখকৰ টোকা সম্পাদনা কৰা",
+  "settings.apiKeys.scope.story.publish": "Publish chapters",
+  "settings.apiKeys.scope.story.publish.desc": "Publish or schedule chapters for readers and beta readers. Publishing the first chapter for readers also publishes the story",
   "settings.apiKeys.scope.diary.read": "লেখাৰ দিনলিপি পঢ়া",
   "settings.apiKeys.scope.diary.read.desc": "আপোনাৰ লেখাৰ দিনলিপিৰ লিখনি আৰু একেৰাহে লিখা দিনৰ শৃংখলা চাবলৈ প্ৰৱেশাধিকাৰ"
 }

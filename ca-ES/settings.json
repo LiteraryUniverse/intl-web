@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Llegir entrades del blog",
   "settings.apiKeys.scope.blog.read.desc": "Accedir a les entrades i als esborranys del teu blog",
   "settings.apiKeys.scope.blog.write": "Crear i editar entrades del blog",
-  "settings.apiKeys.scope.blog.write.desc": "Crear i actualitzar entrades del blog",
+  "settings.apiKeys.scope.blog.write.desc": "Pujar imatges per a les entrades del blog. L’edició de les entrades mateixes s’afegirà a aquest permís quan estigui disponible",
   "settings.apiKeys.scope.user.read": "Llegir el perfil",
   "settings.apiKeys.scope.user.read.desc": "Accedir al teu nom d'usuari, avatar i perfil públic",
   "settings.apiKeys.scope.library.read": "Llegir la biblioteca",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(indicacions més llargues)",
   "settings.apiKeys.scope.story.edit": "Editar històries",
   "settings.apiKeys.scope.story.edit.desc": "Editar les metadades de les històries i les notes de l'autor",
+  "settings.apiKeys.scope.story.publish": "Publicar capítols",
+  "settings.apiKeys.scope.story.publish.desc": "Publicar o programar capítols per a lectors i lectors beta. Publicar el primer capítol per als lectors també publica la història",
   "settings.apiKeys.scope.diary.read": "Llegir el diari d'escriptura",
   "settings.apiKeys.scope.diary.read.desc": "Accedir a les entrades del teu diari d'escriptura i a les ratxes"
 }

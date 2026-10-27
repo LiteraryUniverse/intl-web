@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Lue blogikirjoituksia",
   "settings.apiKeys.scope.blog.read.desc": "Pääset käsiksi blogikirjoituksiin ja luonnoksiin",
   "settings.apiKeys.scope.blog.write": "Luo ja muokkaa blogikirjoituksia",
-  "settings.apiKeys.scope.blog.write.desc": "Luo ja päivitä blogikirjoituksia",
+  "settings.apiKeys.scope.blog.write.desc": "Lataa kuvia blogikirjoituksiisi. Itse kirjoitusten muokkaus lisätään tähän oikeuteen, kun se tulee saataville",
   "settings.apiKeys.scope.user.read": "Lue profiili",
   "settings.apiKeys.scope.user.read.desc": "Pääset käyttämään käyttäjätunnusta, avataria ja julkista profiilia.",
   "settings.apiKeys.scope.library.read": "Lue kirjasto",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(pidemmät kehotteet)",
   "settings.apiKeys.scope.story.edit": "Muokkaa tarinoita",
   "settings.apiKeys.scope.story.edit.desc": "Muokkaa tarinoiden metatietoja ja kirjoittajan muistiinpanoja",
+  "settings.apiKeys.scope.story.publish": "Julkaise lukuja",
+  "settings.apiKeys.scope.story.publish.desc": "Julkaise tai ajasta lukuja lukijoille ja beetalukijoille. Ensimmäisen luvun julkaiseminen lukijoille julkaisee myös tarinan",
   "settings.apiKeys.scope.diary.read": "Lue kirjoituspäiväkirjaa",
   "settings.apiKeys.scope.diary.read.desc": "Pääsy kirjoituspäiväkirjasi merkintöihin ja peräkkäisten kirjoituspäivien sarjoihin"
 }

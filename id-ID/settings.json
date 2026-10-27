@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Baca posting blog",
   "settings.apiKeys.scope.blog.read.desc": "Mengakses postingan dan draf blog Anda",
   "settings.apiKeys.scope.blog.write": "Membuat dan mengedit postingan blog",
-  "settings.apiKeys.scope.blog.write.desc": "Membuat dan memperbarui postingan blog",
+  "settings.apiKeys.scope.blog.write.desc": "Mengunggah gambar untuk postingan blog Anda. Penyuntingan postingan itu sendiri akan ditambahkan ke izin ini setelah tersedia",
   "settings.apiKeys.scope.user.read": "Baca profil",
   "settings.apiKeys.scope.user.read.desc": "Mengakses nama pengguna, avatar, dan profil publik Anda",
   "settings.apiKeys.scope.library.read": "Baca perpustakaan",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(prompt lebih panjang)",
   "settings.apiKeys.scope.story.edit": "Edit cerita",
   "settings.apiKeys.scope.story.edit.desc": "Edit metadata cerita dan catatan penulis",
+  "settings.apiKeys.scope.story.publish": "Menerbitkan bab",
+  "settings.apiKeys.scope.story.publish.desc": "Menerbitkan atau menjadwalkan bab untuk pembaca dan pembaca beta. Menerbitkan bab pertama untuk pembaca juga menerbitkan ceritanya",
   "settings.apiKeys.scope.diary.read": "Baca jurnal menulis",
   "settings.apiKeys.scope.diary.read.desc": "Akses entri jurnal menulis dan rangkaian hari menulis berturut-turut Anda"
 }

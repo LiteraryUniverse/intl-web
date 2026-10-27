@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Đọc các bài viết trên blog",
   "settings.apiKeys.scope.blog.read.desc": "Truy cập các bài viết và bản nháp trên blog của bạn",
   "settings.apiKeys.scope.blog.write": "Tạo và chỉnh sửa bài viết blog",
-  "settings.apiKeys.scope.blog.write.desc": "Tạo và cập nhật bài viết trên blog",
+  "settings.apiKeys.scope.blog.write.desc": "Tải lên hình ảnh cho bài viết trên blog của bạn. Tính năng chỉnh sửa chính các bài viết sẽ được thêm vào quyền này khi có sẵn",
   "settings.apiKeys.scope.user.read": "Đọc hồ sơ",
   "settings.apiKeys.scope.user.read.desc": "Truy cập tên người dùng, avatar và hồ sơ công khai của bạn.",
   "settings.apiKeys.scope.library.read": "Đọc thư viện",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(prompt dài hơn)",
   "settings.apiKeys.scope.story.edit": "Chỉnh sửa truyện",
   "settings.apiKeys.scope.story.edit.desc": "Chỉnh sửa siêu dữ liệu của truyện và ghi chú tác giả",
+  "settings.apiKeys.scope.story.publish": "Xuất bản chương",
+  "settings.apiKeys.scope.story.publish.desc": "Xuất bản hoặc lên lịch xuất bản chương cho độc giả và độc giả beta. Xuất bản chương đầu tiên cho độc giả cũng sẽ xuất bản câu chuyện",
   "settings.apiKeys.scope.diary.read": "Đọc nhật ký viết",
   "settings.apiKeys.scope.diary.read.desc": "Truy cập các mục nhật ký viết và chuỗi ngày viết liên tiếp của bạn"
 }

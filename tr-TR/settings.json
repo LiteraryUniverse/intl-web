@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Blog yazılarını okuyun",
   "settings.apiKeys.scope.blog.read.desc": "Blog yazılarınıza ve taslaklarınıza erişin",
   "settings.apiKeys.scope.blog.write": "Blog gönderileri oluşturma ve düzenleme",
-  "settings.apiKeys.scope.blog.write.desc": "Blog gönderileri oluşturma ve güncelleme",
+  "settings.apiKeys.scope.blog.write.desc": "Blog gönderileriniz için görsel yükleme. Gönderilerin kendisini düzenleme özelliği kullanıma sunulduğunda bu izne eklenecek",
   "settings.apiKeys.scope.user.read": "Profili okuyun",
   "settings.apiKeys.scope.user.read.desc": "Kullanıcı adınıza, avatarınıza ve genel profilinize erişin",
   "settings.apiKeys.scope.library.read": "Kütüphane okuyun",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(daha uzun istemler)",
   "settings.apiKeys.scope.story.edit": "Hikâyeleri düzenle",
   "settings.apiKeys.scope.story.edit.desc": "Hikâye üst verilerini ve yazar notlarını düzenle",
+  "settings.apiKeys.scope.story.publish": "Bölüm yayınlama",
+  "settings.apiKeys.scope.story.publish.desc": "Okurlar ve beta okurlar için bölüm yayınlama veya zamanlama. İlk bölümü okurlar için yayınlamak hikâyeyi de yayınlar",
   "settings.apiKeys.scope.diary.read": "Yazma günlüğünü oku",
   "settings.apiKeys.scope.diary.read.desc": "Yazma günlüğü kayıtlarınıza ve ardışık yazma günlerinize erişin"
 }

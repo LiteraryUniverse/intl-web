@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "قراءة منشورات المدونة",
   "settings.apiKeys.scope.blog.read.desc": "الوصول إلى منشورات مدونتك ومسوداتك",
   "settings.apiKeys.scope.blog.write": "إنشاء منشورات المدونة وتحريرها",
-  "settings.apiKeys.scope.blog.write.desc": "إنشاء منشورات المدونة وتحديثها",
+  "settings.apiKeys.scope.blog.write.desc": "رفع الصور لمنشورات مدونتك. سينضم تحرير المنشورات نفسها إلى هذا الإذن عندما يصبح متاحًا",
   "settings.apiKeys.scope.user.read": "قراءة الملف الشخصي",
   "settings.apiKeys.scope.user.read.desc": "الوصول إلى اسم المستخدم، والصورة الرمزية، والملف الشخصي العام",
   "settings.apiKeys.scope.library.read": "قراءة المكتبة",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(للموجّهات الأطول)",
   "settings.apiKeys.scope.story.edit": "تعديل القصص",
   "settings.apiKeys.scope.story.edit.desc": "تعديل بيانات القصة وملاحظات المؤلف",
+  "settings.apiKeys.scope.story.publish": "نشر الفصول",
+  "settings.apiKeys.scope.story.publish.desc": "نشر الفصول أو جدولتها للقراء والقراء التجريبيين. يؤدي نشر الفصل الأول للقراء إلى نشر القصة أيضًا",
   "settings.apiKeys.scope.diary.read": "قراءة يوميات الكتابة",
   "settings.apiKeys.scope.diary.read.desc": "الوصول إلى تدوينات يوميات الكتابة وسلاسل أيام الكتابة المتتالية"
 }

@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Læs blogindlæg",
   "settings.apiKeys.scope.blog.read.desc": "Få adgang til dine blogindlæg og kladder",
   "settings.apiKeys.scope.blog.write": "Opret og rediger blogindlæg",
-  "settings.apiKeys.scope.blog.write.desc": "Opret og opdater blogindlæg",
+  "settings.apiKeys.scope.blog.write.desc": "Upload billeder til dine blogindlæg. Redigering af selve indlæggene føjes til denne tilladelse, når den bliver tilgængelig",
   "settings.apiKeys.scope.user.read": "Læs profil",
   "settings.apiKeys.scope.user.read.desc": "Få adgang til dit brugernavn, din avatar og din offentlige profil",
   "settings.apiKeys.scope.library.read": "Læs bibliotek",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(længere prompts)",
   "settings.apiKeys.scope.story.edit": "Rediger historier",
   "settings.apiKeys.scope.story.edit.desc": "Rediger historiers metadata og forfatternoter",
+  "settings.apiKeys.scope.story.publish": "Udgiv kapitler",
+  "settings.apiKeys.scope.story.publish.desc": "Udgiv eller planlæg kapitler for læsere og betalæsere. Når det første kapitel udgives for læsere, udgives historien også",
   "settings.apiKeys.scope.diary.read": "Læs skrivedagbog",
   "settings.apiKeys.scope.diary.read.desc": "Få adgang til dine skrivedagbogsindlæg og serier af sammenhængende skrivedage"
 }

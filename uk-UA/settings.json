@@ -148,7 +148,7 @@
   "settings.apiKeys.scope.blog.read": "Читайте дописи в блозі",
   "settings.apiKeys.scope.blog.read.desc": "Доступ до публікацій та чернеток вашого блогу",
   "settings.apiKeys.scope.blog.write": "Створюйте та редагуйте дописи в блозі",
-  "settings.apiKeys.scope.blog.write.desc": "Створюйте та оновлюйте дописи в блозі",
+  "settings.apiKeys.scope.blog.write.desc": "Завантажуйте зображення для дописів у блозі. Редагування самих дописів додасться до цього дозволу, щойно стане доступним",
   "settings.apiKeys.scope.user.read": "Читати профіль",
   "settings.apiKeys.scope.user.read.desc": "Доступ до вашого імені користувача, аватарки та публічного профілю",
   "settings.apiKeys.scope.library.read": "Бібліотека для читання",
@@ -286,6 +286,8 @@
   "settings.ai.usage.tierAbove": "(довші запити)",
   "settings.apiKeys.scope.story.edit": "Редагувати історії",
   "settings.apiKeys.scope.story.edit.desc": "Редагувати метадані історій і примітки автора",
+  "settings.apiKeys.scope.story.publish": "Публікуйте розділи",
+  "settings.apiKeys.scope.story.publish.desc": "Публікуйте розділи або плануйте їх публікацію для читачів і бета-читачів. Публікація першого розділу для читачів публікує й історію",
   "settings.apiKeys.scope.diary.read": "Читати щоденник письменника",
   "settings.apiKeys.scope.diary.read.desc": "Доступ до записів щоденника письменника та серій послідовних днів роботи над текстом"
 }
