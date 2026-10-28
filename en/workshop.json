@@ -1166,5 +1166,6 @@
   "workshop.ai.history.universeFolder": "This universe",
   "workshop.ai.history.entryFolder": "Entry: {name}",
   "workshop.ai.history.unknownEntry": "Encyclopedia entry",
-  "workshop.ai.history.storiesFolder": "Stories (continue in the writer)"
+  "workshop.ai.history.storiesFolder": "Stories (continue in the writer)",
+  "workshop.ai.entryPanel.title": "Assistant for this entry"
 }
