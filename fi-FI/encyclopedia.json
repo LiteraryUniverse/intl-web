@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Juonipaljastus",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# tarina} other {# tarinaa}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Luku {chapter}",
-  "encyclopedia.spoiler.scope.description": "Merkitse tämä kenttä juonipaljastukseksi. Lukijat, jotka eivät ole vielä päässeet vaadittuun kohtaan näissä tarinoissa, näkevät sisällön sumennettuna.",
+  "encyclopedia.spoiler.scope.description": "Merkitse tämä kenttä juonipaljastukseksi. Lukijat, jotka eivät ole vielä päässeet vaadittuun kohtaan näissä tarinoissa, näkevät sisällön piilotettuna.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Valitse luku, johon lukijoiden on päästävä, ennen kuin tämä kenttä näytetään oletuksena.",
   "encyclopedia.spoiler.scope.storyCompletion": "Lukijoiden on luettava tämä tarina loppuun, ennen kuin tämä kenttä näytetään oletuksena.",
   "encyclopedia.spoiler.scope.noStories": "Tästä universumista ei ole vielä saatavilla tarinoita.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "Ajan tyyppi",
   "encyclopedia.fields.fictionalTime": "Keksitty aika",
-  "encyclopedia.time.invalidFormat": "Ei vastaa muotoa {name}, esimerkiksi {example}"
+  "encyclopedia.time.invalidFormat": "Ei vastaa muotoa {name}, esimerkiksi {example}",
+  "encyclopedia.spoiler.hide": "Piilota juonipaljastus"
 }

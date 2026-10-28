@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Opcionals, un preu per a cadascun per organització.",
   "plans.admin.prices.expected": "Taula de plans: {amount}",
   "plans.admin.prices.issue.currency": "Falta a Stripe una moneda de la taula de plans.",
-  "plans.admin.prices.circleHelp": "La plataforma i la plaça són els valors per defecte a zero; l'aprovació registra els identificadors de preu negociats. Els complements es facturen a aquests preus."
+  "plans.admin.prices.circleHelp": "La plataforma i la plaça són els valors per defecte a zero; l'aprovació registra els identificadors de preu negociats. Els complements es facturen a aquests preus.",
+  "plans.fanClub.access.timelinesTitle": "Línies temporals",
+  "plans.fanClub.access.timelinesSubtitle": "Línies temporals de l'univers reservades als membres del club de fans.",
+  "plans.limits.timelines": "Línies temporals per univers"
 }

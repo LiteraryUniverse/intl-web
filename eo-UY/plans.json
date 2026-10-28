@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Nedevigaj, po unu prezo por organizo.",
   "plans.admin.prices.expected": "Plantabelo: {amount}",
   "plans.admin.prices.issue.currency": "Valuto el la plantabelo mankas ĉe Stripe.",
-  "plans.admin.prices.circleHelp": "Platformo kaj loko estas la nulaj defaŭltoj; la aprobo registras la intertraktitajn prezajn ID-ojn. Aldonaĵoj estas fakturataj laŭ ĉi tiuj prezoj."
+  "plans.admin.prices.circleHelp": "Platformo kaj loko estas la nulaj defaŭltoj; la aprobo registras la intertraktitajn prezajn ID-ojn. Aldonaĵoj estas fakturataj laŭ ĉi tiuj prezoj.",
+  "plans.fanClub.access.timelinesTitle": "Tempolinioj",
+  "plans.fanClub.access.timelinesSubtitle": "Tempolinioj de la universo rezervitaj por membroj de la fanklubo.",
+  "plans.limits.timelines": "Tempolinioj po universo"
 }

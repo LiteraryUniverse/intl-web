@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Opcionais, um preço para cada um por organização.",
   "plans.admin.prices.expected": "Tabela de planos: {amount}",
   "plans.admin.prices.issue.currency": "Falta na Stripe uma moeda da tabela de planos.",
-  "plans.admin.prices.circleHelp": "A plataforma e o lugar têm o valor zero por predefinição; a aprovação regista os IDs dos preços negociados. Os extras são faturados a estes preços."
+  "plans.admin.prices.circleHelp": "A plataforma e o lugar têm o valor zero por predefinição; a aprovação regista os IDs dos preços negociados. Os extras são faturados a estes preços.",
+  "plans.fanClub.access.timelinesTitle": "Cronogramas",
+  "plans.fanClub.access.timelinesSubtitle": "Cronogramas do universo reservados aos membros do clube de fãs.",
+  "plans.limits.timelines": "Cronogramas por universo"
 }

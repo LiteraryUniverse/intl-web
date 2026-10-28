@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Необов'язково, по одній ціні кожного на організацію.",
   "plans.admin.prices.expected": "Таблиця планів: {amount}",
   "plans.admin.prices.issue.currency": "Валюти з таблиці планів немає в Stripe.",
-  "plans.admin.prices.circleHelp": "Платформа та місце мають нульові типові значення; під час схвалення фіксуються узгоджені ідентифікатори цін. Доповнення оплачуються за цими цінами."
+  "plans.admin.prices.circleHelp": "Платформа та місце мають нульові типові значення; під час схвалення фіксуються узгоджені ідентифікатори цін. Доповнення оплачуються за цими цінами.",
+  "plans.fanClub.access.timelinesTitle": "Часові шкали",
+  "plans.fanClub.access.timelinesSubtitle": "Часові шкали всесвіту, доступні лише учасникам фан-клубу.",
+  "plans.limits.timelines": "Часові шкали на всесвіт"
 }

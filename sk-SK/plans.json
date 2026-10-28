@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Voliteľné, každý má jednu cenu na organizáciu.",
   "plans.admin.prices.expected": "Tabuľka plánov: {amount}",
   "plans.admin.prices.issue.currency": "V Stripe chýba mena z tabuľky plánov.",
-  "plans.admin.prices.circleHelp": "Platforma a miesto majú predvolene nulovú cenu; pri schválení sa zaznamenajú dohodnuté ID cien. Doplnky sa fakturujú za tieto ceny."
+  "plans.admin.prices.circleHelp": "Platforma a miesto majú predvolene nulovú cenu; pri schválení sa zaznamenajú dohodnuté ID cien. Doplnky sa fakturujú za tieto ceny.",
+  "plans.fanClub.access.timelinesTitle": "Časové osy",
+  "plans.fanClub.access.timelinesSubtitle": "Časové osy vesmírov vyhradené pre členov fanklubu.",
+  "plans.limits.timelines": "Časové osy na vesmír"
 }

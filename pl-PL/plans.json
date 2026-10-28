@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Opcjonalne, po jednej cenie każdego dodatku na organizację.",
   "plans.admin.prices.expected": "Tabela planów: {amount}",
   "plans.admin.prices.issue.currency": "W Stripe brakuje waluty z tabeli planów.",
-  "plans.admin.prices.circleHelp": "Platforma i miejsce mają domyślnie cenę zero; przy zatwierdzeniu zapisywane są wynegocjowane identyfikatory cen. Dodatki są rozliczane według tych cen."
+  "plans.admin.prices.circleHelp": "Platforma i miejsce mają domyślnie cenę zero; przy zatwierdzeniu zapisywane są wynegocjowane identyfikatory cen. Dodatki są rozliczane według tych cen.",
+  "plans.fanClub.access.timelinesTitle": "Osie czasu",
+  "plans.fanClub.access.timelinesSubtitle": "Osie czasu uniwersum zarezerwowane dla członków fanklubu.",
+  "plans.limits.timelines": "Osie czasu na uniwersum"
 }

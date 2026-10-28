@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Optioneel, elk één prijs per organisatie.",
   "plans.admin.prices.expected": "Abonnementstabel: {amount}",
   "plans.admin.prices.issue.currency": "Een valuta uit de abonnementstabel ontbreekt op Stripe.",
-  "plans.admin.prices.circleHelp": "Platform en plaats zijn de nulstandaarden; bij goedkeuring worden de overeengekomen prijs-ID's vastgelegd. Add-ons worden tegen deze prijzen gefactureerd."
+  "plans.admin.prices.circleHelp": "Platform en plaats zijn de nulstandaarden; bij goedkeuring worden de overeengekomen prijs-ID's vastgelegd. Add-ons worden tegen deze prijzen gefactureerd.",
+  "plans.fanClub.access.timelinesTitle": "Tijdlijnen",
+  "plans.fanClub.access.timelinesSubtitle": "Tijdlijnen van het universum, gereserveerd voor fanclubleden.",
+  "plans.limits.timelines": "Tijdlijnen per universum"
 }

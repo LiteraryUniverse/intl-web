@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "Bu alanı spoiler olarak işaretleyin. Bu hikayelerde gereken noktaya ulaşmamış okurlar içeriği bulanık görür.",
+  "encyclopedia.spoiler.scope.description": "Bu alanı spoiler olarak işaretleyin. Bu hikayelerde gereken noktaya ulaşmamış okurlar içeriği gizli görür.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Bu alanın varsayılan olarak gösterilmesi için okurların ulaşması gereken bölümü seçin.",
   "encyclopedia.spoiler.scope.storyCompletion": "Bu alanın varsayılan olarak gösterilmesi için okurların bu hikayeyi bitirmesi gerekir.",
   "encyclopedia.spoiler.scope.noStories": "Bu evrenden henüz kullanılabilir hikaye yok.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "Zaman Türü",
   "encyclopedia.fields.fictionalTime": "Kurgusal zaman",
-  "encyclopedia.time.invalidFormat": "{name} biçimiyle eşleşmiyor, örneğin {example}"
+  "encyclopedia.time.invalidFormat": "{name} biçimiyle eşleşmiyor, örneğin {example}",
+  "encyclopedia.spoiler.hide": "Spoiler'ı gizle"
 }

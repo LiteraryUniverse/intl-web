@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "اختيارية، سعر واحد لكل إضافة لكل منظمة.",
   "plans.admin.prices.expected": "جدول الخطط: {amount}",
   "plans.admin.prices.issue.currency": "عملة من جدول الخطط مفقودة على Stripe.",
-  "plans.admin.prices.circleHelp": "المنصة والمقعد هما القيمتان الافتراضيتان الصفريتان؛ والموافقة تسجّل معرّفات الأسعار المتفاوَض عليها. تُفوتَر الإضافات بهذه الأسعار."
+  "plans.admin.prices.circleHelp": "المنصة والمقعد هما القيمتان الافتراضيتان الصفريتان؛ والموافقة تسجّل معرّفات الأسعار المتفاوَض عليها. تُفوتَر الإضافات بهذه الأسعار.",
+  "plans.fanClub.access.timelinesTitle": "الجداول الزمنية",
+  "plans.fanClub.access.timelinesSubtitle": "جداول زمنية للكون محجوزة لأعضاء نادي المعجبين.",
+  "plans.limits.timelines": "الجداول الزمنية لكل كون"
 }

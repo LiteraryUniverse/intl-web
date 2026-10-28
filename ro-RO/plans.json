@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Opționale, câte un preț fiecare, pe organizație.",
   "plans.admin.prices.expected": "Tabelul de planuri: {amount}",
   "plans.admin.prices.issue.currency": "O monedă din tabelul de planuri lipsește de pe Stripe.",
-  "plans.admin.prices.circleHelp": "Platforma și locul au valorile implicite zero; aprobarea înregistrează ID-urile prețurilor negociate. Suplimentele sunt facturate la aceste prețuri."
+  "plans.admin.prices.circleHelp": "Platforma și locul au valorile implicite zero; aprobarea înregistrează ID-urile prețurilor negociate. Suplimentele sunt facturate la aceste prețuri.",
+  "plans.fanClub.access.timelinesTitle": "Linii de timp",
+  "plans.fanClub.access.timelinesSubtitle": "Linii de timp ale universului rezervate membrilor fan clubului.",
+  "plans.limits.timelines": "Linii de timp per univers"
 }

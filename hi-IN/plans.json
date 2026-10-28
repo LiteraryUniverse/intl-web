@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "वैकल्पिक, प्रति संगठन हर एक की एक कीमत।",
   "plans.admin.prices.expected": "योजना तालिका: {amount}",
   "plans.admin.prices.issue.currency": "योजना तालिका की एक मुद्रा Stripe पर नहीं है।",
-  "plans.admin.prices.circleHelp": "प्लेटफ़ॉर्म और सीट की कीमतें डिफ़ॉल्ट रूप से शून्य हैं; स्वीकृति के समय तय की गई price ID दर्ज की जाती हैं। ऐड-ऑन का बिल इन्हीं कीमतों पर बनता है।"
+  "plans.admin.prices.circleHelp": "प्लेटफ़ॉर्म और सीट की कीमतें डिफ़ॉल्ट रूप से शून्य हैं; स्वीकृति के समय तय की गई price ID दर्ज की जाती हैं। ऐड-ऑन का बिल इन्हीं कीमतों पर बनता है।",
+  "plans.fanClub.access.timelinesTitle": "टाइमलाइन",
+  "plans.fanClub.access.timelinesSubtitle": "फैन क्लब सदस्यों के लिए आरक्षित ब्रह्मांड टाइमलाइन।",
+  "plans.limits.timelines": "प्रति ब्रह्मांड टाइमलाइन"
 }

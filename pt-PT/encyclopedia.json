@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# história} other {# histórias}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Capítulo {chapter}",
-  "encyclopedia.spoiler.scope.description": "Marque este campo como spoiler. Os leitores que ainda não tiverem chegado ao ponto exigido nestas histórias verão o conteúdo desfocado.",
+  "encyclopedia.spoiler.scope.description": "Marque este campo como spoiler. Os leitores que ainda não tiverem chegado ao ponto exigido nestas histórias verão o conteúdo oculto.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Escolha o capítulo a que os leitores têm de chegar para que este campo seja mostrado por predefinição.",
   "encyclopedia.spoiler.scope.storyCompletion": "Os leitores têm de terminar esta história para que este campo seja mostrado por predefinição.",
   "encyclopedia.spoiler.scope.noStories": "Ainda não há histórias disponíveis deste universo.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "Gerado por IA",
   "encyclopedia.time.type.label": "Tipo de tempo",
   "encyclopedia.fields.fictionalTime": "Tempo fictício",
-  "encyclopedia.time.invalidFormat": "Não corresponde ao formato de {name}, por exemplo {example}"
+  "encyclopedia.time.invalidFormat": "Não corresponde ao formato de {name}, por exemplo {example}",
+  "encyclopedia.spoiler.hide": "Ocultar spoiler"
 }

@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "任意。組織ごとにそれぞれ1つの価格です。",
   "plans.admin.prices.expected": "プラン表：{amount}",
   "plans.admin.prices.issue.currency": "プラン表にある通貨がStripeにありません。",
-  "plans.admin.prices.circleHelp": "プラットフォームとシートはゼロが既定値で、承認時に交渉済みの価格IDが記録されます。アドオンはここにある価格で請求されます。"
+  "plans.admin.prices.circleHelp": "プラットフォームとシートはゼロが既定値で、承認時に交渉済みの価格IDが記録されます。アドオンはここにある価格で請求されます。",
+  "plans.fanClub.access.timelinesTitle": "タイムライン",
+  "plans.fanClub.access.timelinesSubtitle": "ファンクラブ会員限定の宇宙のタイムライン。",
+  "plans.limits.timelines": "宇宙ごとのタイムライン"
 }

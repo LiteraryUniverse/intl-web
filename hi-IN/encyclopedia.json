@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "इस फ़ील्ड को स्पॉइलर के रूप में चिह्नित करें। जो पाठक इन कहानियों में आवश्यक बिंदु तक नहीं पहुँचे हैं, उन्हें सामग्री धुँधली दिखाई देगी।",
+  "encyclopedia.spoiler.scope.description": "इस फ़ील्ड को स्पॉइलर के रूप में चिह्नित करें। जो पाठक इन कहानियों में आवश्यक बिंदु तक नहीं पहुँचे हैं, उन्हें सामग्री छिपी हुई दिखाई देगी।",
   "encyclopedia.spoiler.scope.storyChapterHint": "वह अध्याय चुनें जहाँ तक पाठकों को पहुँचना होगा, उसके बाद ही यह फ़ील्ड डिफ़ॉल्ट रूप से दिखाई जाएगी।",
   "encyclopedia.spoiler.scope.storyCompletion": "यह फ़ील्ड डिफ़ॉल्ट रूप से दिखाए जाने से पहले पाठकों को यह कहानी पूरी करनी होगी।",
   "encyclopedia.spoiler.scope.noStories": "इस ब्रह्मांड की कोई कहानी अभी उपलब्ध नहीं है।",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "समय का प्रकार",
   "encyclopedia.fields.fictionalTime": "काल्पनिक समय",
-  "encyclopedia.time.invalidFormat": "{name} के प्रारूप से मेल नहीं खाता, उदाहरण के लिए {example}"
+  "encyclopedia.time.invalidFormat": "{name} के प्रारूप से मेल नहीं खाता, उदाहरण के लिए {example}",
+  "encyclopedia.spoiler.hide": "स्पॉइलर छिपाएँ"
 }

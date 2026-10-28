@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Pilihan, satu harga setiap satu bagi setiap organisasi.",
   "plans.admin.prices.expected": "Jadual pelan: {amount}",
   "plans.admin.prices.issue.currency": "Satu mata wang daripada jadual pelan tiada di Stripe.",
-  "plans.admin.prices.circleHelp": "Platform dan tempat duduk ialah nilai lalai sifar; kelulusan merekodkan ID harga yang dirundingkan. Tambahan dibilkan pada harga ini."
+  "plans.admin.prices.circleHelp": "Platform dan tempat duduk ialah nilai lalai sifar; kelulusan merekodkan ID harga yang dirundingkan. Tambahan dibilkan pada harga ini.",
+  "plans.fanClub.access.timelinesTitle": "Jadual masa",
+  "plans.fanClub.access.timelinesSubtitle": "Jadual masa univers yang dikhaskan untuk ahli kelab peminat.",
+  "plans.limits.timelines": "Jadual masa bagi setiap univers"
 }

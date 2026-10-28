@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "Pažymėkite šį lauką kaip atskleidžiantį siužetą. Skaitytojai, kurie šiose istorijose dar nepasiekė reikiamos vietos, turinį matys sulietą.",
+  "encyclopedia.spoiler.scope.description": "Pažymėkite šį lauką kaip atskleidžiantį siužetą. Skaitytojai, kurie šiose istorijose dar nepasiekė reikiamos vietos, turinį matys paslėptą.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Pasirinkite skyrių, kurį skaitytojai turi pasiekti, kad šis laukas būtų rodomas pagal numatytuosius nustatymus.",
   "encyclopedia.spoiler.scope.storyCompletion": "Skaitytojai turi baigti šią istoriją, kad šis laukas būtų rodomas pagal numatytuosius nustatymus.",
   "encyclopedia.spoiler.scope.noStories": "Šioje visatoje dar nėra prieinamų istorijų.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "Laiko tipas",
   "encyclopedia.fields.fictionalTime": "Fiktyvusis laikas",
-  "encyclopedia.time.invalidFormat": "Neatitinka {name} formato, pavyzdžiui {example}"
+  "encyclopedia.time.invalidFormat": "Neatitinka {name} formato, pavyzdžiui {example}",
+  "encyclopedia.spoiler.hide": "Slėpti siužetą atskleidžiantį turinį"
 }

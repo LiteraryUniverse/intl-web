@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "Marchează acest câmp drept spoiler. Cititorii care nu au ajuns la punctul necesar din aceste povești vor vedea conținutul estompat.",
+  "encyclopedia.spoiler.scope.description": "Marchează acest câmp drept spoiler. Cititorii care nu au ajuns la punctul necesar din aceste povești vor vedea conținutul ascuns.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Alege capitolul la care cititorii trebuie să ajungă înainte ca acest câmp să fie afișat implicit.",
   "encyclopedia.spoiler.scope.storyCompletion": "Cititorii trebuie să termine această poveste înainte ca acest câmp să fie afișat implicit.",
   "encyclopedia.spoiler.scope.noStories": "Nu este disponibilă încă nicio poveste din acest univers.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "Tipul de timp",
   "encyclopedia.fields.fictionalTime": "Timp fictiv",
-  "encyclopedia.time.invalidFormat": "Nu se potrivește cu formatul pentru {name}, de exemplu {example}"
+  "encyclopedia.time.invalidFormat": "Nu se potrivește cu formatul pentru {name}, de exemplu {example}",
+  "encyclopedia.spoiler.hide": "Ascunde spoilerul"
 }

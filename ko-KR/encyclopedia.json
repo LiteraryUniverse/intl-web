@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "이 필드를 스포일러로 표시합니다. 해당 스토리에서 필요한 지점까지 읽지 않은 독자에게는 내용이 흐리게 표시됩니다.",
+  "encyclopedia.spoiler.scope.description": "이 필드를 스포일러로 표시합니다. 해당 스토리에서 필요한 지점까지 읽지 않은 독자에게는 내용이 숨겨집니다.",
   "encyclopedia.spoiler.scope.storyChapterHint": "이 필드가 기본으로 표시되기 전에 독자가 도달해야 하는 챕터를 선택하세요.",
   "encyclopedia.spoiler.scope.storyCompletion": "독자가 이 스토리를 끝까지 읽어야 이 필드가 기본으로 표시됩니다.",
   "encyclopedia.spoiler.scope.noStories": "이 우주에는 아직 사용할 수 있는 스토리가 없습니다.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "시간 유형",
   "encyclopedia.fields.fictionalTime": "가상 시간",
-  "encyclopedia.time.invalidFormat": "{name} 형식과 일치하지 않습니다. 예: {example}"
+  "encyclopedia.time.invalidFormat": "{name} 형식과 일치하지 않습니다. 예: {example}",
+  "encyclopedia.spoiler.hide": "스포일러 숨기기"
 }

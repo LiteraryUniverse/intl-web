@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Valikuline, iga lisa kohta üks hind organisatsiooni kohta.",
   "plans.admin.prices.expected": "Plaanitabel: {amount}",
   "plans.admin.prices.issue.currency": "Plaanitabeli valuuta puudub Stripe'is.",
-  "plans.admin.prices.circleHelp": "Platvorm ja koht on nullväärtusega vaikehinnad; heakskiitmisel salvestatakse kokkulepitud hinna ID-d. Lisad arveldatakse nende hindadega."
+  "plans.admin.prices.circleHelp": "Platvorm ja koht on nullväärtusega vaikehinnad; heakskiitmisel salvestatakse kokkulepitud hinna ID-d. Lisad arveldatakse nende hindadega.",
+  "plans.fanClub.access.timelinesTitle": "Ajajooned",
+  "plans.fanClub.access.timelinesSubtitle": "Fänniklubi liikmetele reserveeritud universumi ajajooned.",
+  "plans.limits.timelines": "Ajajooned universumi kohta"
 }

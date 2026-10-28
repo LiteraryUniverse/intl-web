@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "ไม่บังคับ แต่ละรายการมีราคาเดียวต่อองค์กร",
   "plans.admin.prices.expected": "ตารางแผน: {amount}",
   "plans.admin.prices.issue.currency": "สกุลเงินจากตารางแผนไม่มีอยู่บน Stripe",
-  "plans.admin.prices.circleHelp": "แพลตฟอร์มและที่นั่งใช้ค่าเริ่มต้นเป็นศูนย์ การอนุมัติจะบันทึกรหัสราคาที่เจรจาไว้ ส่วนเสริมเรียกเก็บตามราคาเหล่านี้"
+  "plans.admin.prices.circleHelp": "แพลตฟอร์มและที่นั่งใช้ค่าเริ่มต้นเป็นศูนย์ การอนุมัติจะบันทึกรหัสราคาที่เจรจาไว้ ส่วนเสริมเรียกเก็บตามราคาเหล่านี้",
+  "plans.fanClub.access.timelinesTitle": "ไทม์ไลน์",
+  "plans.fanClub.access.timelinesSubtitle": "ไทม์ไลน์ของจักรวาลที่สงวนไว้สำหรับสมาชิกแฟนคลับ",
+  "plans.limits.timelines": "ไทม์ไลน์ต่อจักรวาล"
 }

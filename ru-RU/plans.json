@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Необязательны, по одной цене на организацию.",
   "plans.admin.prices.expected": "Таблица планов: {amount}",
   "plans.admin.prices.issue.currency": "В Stripe отсутствует валюта из таблицы планов.",
-  "plans.admin.prices.circleHelp": "Платформа и место — нулевые значения по умолчанию; при одобрении записываются ID согласованных цен. Дополнения оплачиваются по этим ценам."
+  "plans.admin.prices.circleHelp": "Платформа и место — нулевые значения по умолчанию; при одобрении записываются ID согласованных цен. Дополнения оплачиваются по этим ценам.",
+  "plans.fanClub.access.timelinesTitle": "Ленты",
+  "plans.fanClub.access.timelinesSubtitle": "Ленты вселенных, доступные только участникам фан-клуба.",
+  "plans.limits.timelines": "Лент на вселенную"
 }

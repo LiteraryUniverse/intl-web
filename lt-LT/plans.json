@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Neprivaloma, kiekvienam po vieną kainą organizacijai.",
   "plans.admin.prices.expected": "Planų lentelė: {amount}",
   "plans.admin.prices.issue.currency": "Stripe sistemoje trūksta planų lentelėje esančios valiutos.",
-  "plans.admin.prices.circleHelp": "Platformos ir vietos kainos pagal numatytuosius nustatymus yra nulinės; tvirtinant įrašomi sutartų kainų ID. Priedai apmokestinami šiomis kainomis."
+  "plans.admin.prices.circleHelp": "Platformos ir vietos kainos pagal numatytuosius nustatymus yra nulinės; tvirtinant įrašomi sutartų kainų ID. Priedai apmokestinami šiomis kainomis.",
+  "plans.fanClub.access.timelinesTitle": "Laiko juostos",
+  "plans.fanClub.access.timelinesSubtitle": "Visatos laiko juostos, skirtos fanų klubo nariams.",
+  "plans.limits.timelines": "Laiko juostos kiekvienoje visatoje"
 }

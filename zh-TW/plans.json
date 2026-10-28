@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "選用，每個組織各一個價格。",
   "plans.admin.prices.expected": "方案表：{amount}",
   "plans.admin.prices.issue.currency": "Stripe 上缺少方案表中的某個貨幣。",
-  "plans.admin.prices.circleHelp": "平台與席次為零元預設值；核准時會記錄議定的價格 ID。附加項目依這些價格計費。"
+  "plans.admin.prices.circleHelp": "平台與席次為零元預設值；核准時會記錄議定的價格 ID。附加項目依這些價格計費。",
+  "plans.fanClub.access.timelinesTitle": "時間軸",
+  "plans.fanClub.access.timelinesSubtitle": "保留給粉絲俱樂部會員的宇宙時間軸。",
+  "plans.limits.timelines": "每個宇宙的時間軸"
 }

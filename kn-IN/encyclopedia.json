@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "Mark this field as a spoiler. Readers who haven't reached the required point in these stories will see the content blurred.",
+  "encyclopedia.spoiler.scope.description": "ಈ ಕ್ಷೇತ್ರವನ್ನು ಸ್ಪಾಯ್ಲರ್ ಎಂದು ಗುರುತಿಸಿ. ಈ ಕಥೆಗಳಲ್ಲಿ ಅಗತ್ಯವಿರುವ ಹಂತವನ್ನು ತಲುಪದ ಓದುಗರಿಗೆ ವಿಷಯ ಮರೆಯಾಗಿ ಕಾಣುತ್ತದೆ.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Choose the chapter readers must reach before this field is shown by default.",
   "encyclopedia.spoiler.scope.storyCompletion": "Readers must finish this story before this field is shown by default.",
   "encyclopedia.spoiler.scope.noStories": "No stories from this universe are available yet.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "Time Type",
   "encyclopedia.fields.fictionalTime": "ಕಲ್ಪನಾತ್ಮಕ ಸಮಯ",
-  "encyclopedia.time.invalidFormat": "{name} ನ ಸ್ವರೂಪಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ, ಉದಾಹರಣೆಗೆ {example}"
+  "encyclopedia.time.invalidFormat": "{name} ನ ಸ್ವರೂಪಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ, ಉದಾಹರಣೆಗೆ {example}",
+  "encyclopedia.spoiler.hide": "ಸ್ಪಾಯ್ಲರ್ ಮರೆಮಾಡಿ"
 }

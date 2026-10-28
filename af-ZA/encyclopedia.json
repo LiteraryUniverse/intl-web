@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "Merk hierdie veld as 'n spoiler. Lesers wat nog nie die vereiste punt in hierdie stories bereik het nie, sal die inhoud vervaag sien.",
+  "encyclopedia.spoiler.scope.description": "Merk hierdie veld as 'n spoiler. Lesers wat nog nie die vereiste punt in hierdie stories bereik het nie, sal die inhoud versteek sien.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Kies die hoofstuk wat lesers moet bereik voordat hierdie veld by verstek gewys word.",
   "encyclopedia.spoiler.scope.storyCompletion": "Lesers moet hierdie storie klaar lees voordat hierdie veld by verstek gewys word.",
   "encyclopedia.spoiler.scope.noStories": "Geen stories uit hierdie heelal is nog beskikbaar nie.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "Tydtipe",
   "encyclopedia.fields.fictionalTime": "Fiktiewe tyd",
-  "encyclopedia.time.invalidFormat": "Stem nie ooreen met die formaat van {name} nie, byvoorbeeld {example}"
+  "encyclopedia.time.invalidFormat": "Stem nie ooreen met die formaat van {name} nie, byvoorbeeld {example}",
+  "encyclopedia.spoiler.hide": "Versteek spoiler"
 }

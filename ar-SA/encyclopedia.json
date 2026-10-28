@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "حرق الأحداث",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {قصة واحدة} other {# قصص}}",
   "encyclopedia.spoiler.scope.chapterSummary": "الفصل {chapter}",
-  "encyclopedia.spoiler.scope.description": "ضع علامة على هذا الحقل كحرق للأحداث. سيرى القراء الذين لم يصلوا بعد إلى النقطة المطلوبة في هذه القصص المحتوى مموهًا.",
+  "encyclopedia.spoiler.scope.description": "ضع علامة على هذا الحقل كحرق للأحداث. سيرى القراء الذين لم يصلوا بعد إلى النقطة المطلوبة في هذه القصص المحتوى مخفيًا.",
   "encyclopedia.spoiler.scope.storyChapterHint": "اختر الفصل الذي يجب أن يصل إليه القراء قبل عرض هذا الحقل افتراضيًا.",
   "encyclopedia.spoiler.scope.storyCompletion": "يجب أن ينهي القراء هذه القصة قبل عرض هذا الحقل افتراضيًا.",
   "encyclopedia.spoiler.scope.noStories": "لا توجد قصص متاحة من هذا الكون بعد.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "من إنشاء الذكاء الاصطناعي",
   "encyclopedia.time.type.label": "نوع الوقت",
   "encyclopedia.fields.fictionalTime": "الوقت الخيالي",
-  "encyclopedia.time.invalidFormat": "لا يطابق تنسيق {name}، مثلاً {example}"
+  "encyclopedia.time.invalidFormat": "لا يطابق تنسيق {name}، مثلاً {example}",
+  "encyclopedia.spoiler.hide": "إخفاء الحرق"
 }

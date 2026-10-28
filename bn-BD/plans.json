@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "ঐচ্ছিক, প্রতি প্রতিষ্ঠানে প্রতিটির একটি করে মূল্য।",
   "plans.admin.prices.expected": "প্ল্যান টেবিল: {amount}",
   "plans.admin.prices.issue.currency": "প্ল্যান টেবিলের একটি মুদ্রা Stripe-এ নেই।",
-  "plans.admin.prices.circleHelp": "প্ল্যাটফর্ম ও আসন হলো শূন্য ডিফল্ট; অনুমোদনের সময় আলোচিত মূল্য আইডিগুলি নথিভুক্ত হয়। অ্যাড-অনগুলির বিল এই মূল্যে করা হয়।"
+  "plans.admin.prices.circleHelp": "প্ল্যাটফর্ম ও আসন হলো শূন্য ডিফল্ট; অনুমোদনের সময় আলোচিত মূল্য আইডিগুলি নথিভুক্ত হয়। অ্যাড-অনগুলির বিল এই মূল্যে করা হয়।",
+  "plans.fanClub.access.timelinesTitle": "সময়রেখা",
+  "plans.fanClub.access.timelinesSubtitle": "ফ্যান ক্লাব সদস্যদের জন্য সংরক্ষিত মহাবিশ্বের সময়রেখা।",
+  "plans.limits.timelines": "প্রতি মহাবিশ্বে সময়রেখা"
 }

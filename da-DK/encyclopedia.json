@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# historie} other {# historier}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Kapitel {chapter}",
-  "encyclopedia.spoiler.scope.description": "Markér dette felt som en spoiler. Læsere, der ikke er nået til det krævede punkt i disse historier, vil se indholdet sløret.",
+  "encyclopedia.spoiler.scope.description": "Markér dette felt som en spoiler. Læsere, der ikke er nået til det krævede punkt i disse historier, vil se indholdet skjult.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Vælg det kapitel, læserne skal nå, før dette felt vises som standard.",
   "encyclopedia.spoiler.scope.storyCompletion": "Læserne skal have læst denne historie færdig, før dette felt vises som standard.",
   "encyclopedia.spoiler.scope.noStories": "Der er endnu ingen tilgængelige historier fra dette univers.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "Tidstype",
   "encyclopedia.fields.fictionalTime": "Fiktiv tid",
-  "encyclopedia.time.invalidFormat": "Svarer ikke til formatet for {name}, for eksempel {example}"
+  "encyclopedia.time.invalidFormat": "Svarer ikke til formatet for {name}, for eksempel {example}",
+  "encyclopedia.spoiler.hide": "Skjul spoiler"
 }

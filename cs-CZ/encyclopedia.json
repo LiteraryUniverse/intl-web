@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# příběh} few {# příběhy} other {# příběhů}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Kapitola {chapter}",
-  "encyclopedia.spoiler.scope.description": "Označte toto pole jako spoiler. Čtenářům, kteří v těchto příbězích ještě nedosáhli požadovaného místa, se obsah zobrazí rozmazaně.",
+  "encyclopedia.spoiler.scope.description": "Označte toto pole jako spoiler. Čtenářům, kteří v těchto příbězích ještě nedosáhli požadovaného místa, se obsah zobrazí skrytý.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Zvolte kapitolu, které musí čtenáři dosáhnout, než se jim toto pole ve výchozím stavu zobrazí.",
   "encyclopedia.spoiler.scope.storyCompletion": "Čtenáři musí tento příběh nejprve dočíst, než se jim toto pole ve výchozím stavu zobrazí.",
   "encyclopedia.spoiler.scope.noStories": "Z tohoto vesmíru zatím nejsou k dispozici žádné příběhy.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "Vygenerováno AI",
   "encyclopedia.time.type.label": "Typ času",
   "encyclopedia.fields.fictionalTime": "Fiktivní čas",
-  "encyclopedia.time.invalidFormat": "Neodpovídá formátu času {name}, například {example}"
+  "encyclopedia.time.invalidFormat": "Neodpovídá formátu času {name}, například {example}",
+  "encyclopedia.spoiler.hide": "Skrýt spoiler"
 }

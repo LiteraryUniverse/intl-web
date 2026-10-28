@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Valinnaisia, kullakin yksi hinta organisaatiota kohden.",
   "plans.admin.prices.expected": "Suunnitelmataulukko: {amount}",
   "plans.admin.prices.issue.currency": "Suunnitelmataulukon valuutta puuttuu Stripestä.",
-  "plans.admin.prices.circleHelp": "Alusta ja paikka ovat nollaoletuksia; hyväksynnässä kirjataan neuvotellut hintatunnisteet. Lisäosat laskutetaan näillä hinnoilla."
+  "plans.admin.prices.circleHelp": "Alusta ja paikka ovat nollaoletuksia; hyväksynnässä kirjataan neuvotellut hintatunnisteet. Lisäosat laskutetaan näillä hinnoilla.",
+  "plans.fanClub.access.timelinesTitle": "Aikajanat",
+  "plans.fanClub.access.timelinesSubtitle": "Faniklubin jäsenille varatut universumin aikajanat.",
+  "plans.limits.timelines": "Aikajanat per universumi"
 }

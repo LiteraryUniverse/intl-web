@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "אופציונלי, מחיר אחד לכל תוספת לכל ארגון.",
   "plans.admin.prices.expected": "טבלת התוכניות: {amount}",
   "plans.admin.prices.issue.currency": "מטבע מטבלת התוכניות חסר ב־Stripe.",
-  "plans.admin.prices.circleHelp": "הפלטפורמה והמושב הם ברירות המחדל של אפס; האישור רושם את מזהי המחירים שסוכמו. תוספות מחויבות במחירים אלה."
+  "plans.admin.prices.circleHelp": "הפלטפורמה והמושב הם ברירות המחדל של אפס; האישור רושם את מזהי המחירים שסוכמו. תוספות מחויבות במחירים אלה.",
+  "plans.fanClub.access.timelinesTitle": "צירים זמניים",
+  "plans.fanClub.access.timelinesSubtitle": "צירים זמניים של היקום, שמורים לחברי מועדון המעריצים.",
+  "plans.limits.timelines": "צירים זמניים לכל יקום"
 }

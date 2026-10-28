@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# történet} other {# történet}}",
   "encyclopedia.spoiler.scope.chapterSummary": "{chapter}. fejezet",
-  "encyclopedia.spoiler.scope.description": "Jelölje meg ezt a mezőt spoilerként. Azok az olvasók, akik még nem érték el a szükséges pontot ezekben a történetekben, elmosódva látják majd a tartalmat.",
+  "encyclopedia.spoiler.scope.description": "Jelölje meg ezt a mezőt spoilerként. Azok az olvasók, akik még nem érték el a szükséges pontot ezekben a történetekben, rejtve látják majd a tartalmat.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Válassza ki azt a fejezetet, amelyet az olvasóknak el kell érniük, mielőtt ez a mező alapértelmezés szerint megjelenik.",
   "encyclopedia.spoiler.scope.storyCompletion": "Az olvasóknak be kell fejezniük ezt a történetet, mielőtt ez a mező alapértelmezés szerint megjelenik.",
   "encyclopedia.spoiler.scope.noStories": "Ebből az univerzumból még nem érhetők el történetek.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI-generált",
   "encyclopedia.time.type.label": "Idő típusa",
   "encyclopedia.fields.fictionalTime": "Kitalált idő",
-  "encyclopedia.time.invalidFormat": "Nem felel meg a(z) {name} formátumának, például {example}"
+  "encyclopedia.time.invalidFormat": "Nem felel meg a(z) {name} formátumának, például {example}",
+  "encyclopedia.spoiler.hide": "Spoiler elrejtése"
 }

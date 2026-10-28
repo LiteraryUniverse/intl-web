@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Nem kötelező, szervezetenként egy-egy ár.",
   "plans.admin.prices.expected": "Csomagtáblázat: {amount}",
   "plans.admin.prices.issue.currency": "A csomagtáblázat egyik pénzneme hiányzik a Stripe-on.",
-  "plans.admin.prices.circleHelp": "A platform és a hely a nulla alapértékeket használja; a jóváhagyás rögzíti a megtárgyalt árazonosítókat. A kiegészítőket ezeken az árakon számlázzuk."
+  "plans.admin.prices.circleHelp": "A platform és a hely a nulla alapértékeket használja; a jóváhagyás rögzíti a megtárgyalt árazonosítókat. A kiegészítőket ezeken az árakon számlázzuk.",
+  "plans.fanClub.access.timelinesTitle": "Idővonalak",
+  "plans.fanClub.access.timelinesSubtitle": "Az univerzum rajongói klubtagoknak fenntartott idővonalai.",
+  "plans.limits.timelines": "Idővonalak univerzumonként"
 }

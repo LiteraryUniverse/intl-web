@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# story} other {# stories}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Chapter {chapter}",
-  "encyclopedia.spoiler.scope.description": "סמן שדה זה כספוילר. קוראים שטרם הגיעו לנקודה הנדרשת בסיפורים אלה יראו את התוכן מטושטש.",
+  "encyclopedia.spoiler.scope.description": "סמן שדה זה כספוילר. קוראים שטרם הגיעו לנקודה הנדרשת בסיפורים אלה יראו את התוכן מוסתר.",
   "encyclopedia.spoiler.scope.storyChapterHint": "בחר את הפרק שאליו הקוראים צריכים להגיע לפני ששדה זה יוצג כברירת מחדל.",
   "encyclopedia.spoiler.scope.storyCompletion": "הקוראים צריכים לסיים את הסיפור הזה לפני ששדה זה יוצג כברירת מחדל.",
   "encyclopedia.spoiler.scope.noStories": "עדיין אין סיפורים זמינים מהיקום הזה.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "AI generated",
   "encyclopedia.time.type.label": "סוג הזמן",
   "encyclopedia.fields.fictionalTime": "זמן מדומה",
-  "encyclopedia.time.invalidFormat": "אינו תואם את התבנית של {name}, למשל {example}"
+  "encyclopedia.time.invalidFormat": "אינו תואם את התבנית של {name}, למשל {example}",
+  "encyclopedia.spoiler.hide": "הסתרת ספוילר"
 }

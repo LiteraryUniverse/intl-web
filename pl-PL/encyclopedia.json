@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# historia} few {# historie} many {# historii} other {# historii}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Rozdział {chapter}",
-  "encyclopedia.spoiler.scope.description": "Oznacz to pole jako spoiler. Czytelnicy, którzy nie dotarli jeszcze do wskazanego miejsca w tych historiach, zobaczą rozmytą treść.",
+  "encyclopedia.spoiler.scope.description": "Oznacz to pole jako spoiler. Czytelnicy, którzy nie dotarli jeszcze do wskazanego miejsca w tych historiach, zobaczą ukrytą treść.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Wybierz rozdział, do którego czytelnicy muszą dotrzeć, zanim to pole zostanie domyślnie pokazane.",
   "encyclopedia.spoiler.scope.storyCompletion": "Czytelnicy muszą ukończyć tę historię, zanim to pole zostanie domyślnie pokazane.",
   "encyclopedia.spoiler.scope.noStories": "Z tego uniwersum nie ma jeszcze dostępnych żadnych historii.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "Wygenerowane przez AI",
   "encyclopedia.time.type.label": "Typ czasu",
   "encyclopedia.fields.fictionalTime": "Czas fikcyjny",
-  "encyclopedia.time.invalidFormat": "Nie pasuje do formatu czasu {name}, na przykład {example}"
+  "encyclopedia.time.invalidFormat": "Nie pasuje do formatu czasu {name}, na przykład {example}",
+  "encyclopedia.spoiler.hide": "Ukryj spoiler"
 }

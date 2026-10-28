@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Спойлер",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# история} few {# истории} many {# историй} other {# историй}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Глава {chapter}",
-  "encyclopedia.spoiler.scope.description": "Отметьте это поле как спойлер. Читатели, которые ещё не дошли до нужного места в этих историях, увидят содержимое размытым.",
+  "encyclopedia.spoiler.scope.description": "Отметьте это поле как спойлер. Читатели, которые ещё не дошли до нужного места в этих историях, увидят содержимое скрытым.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Выберите главу, до которой читатели должны дойти, чтобы это поле показывалось по умолчанию.",
   "encyclopedia.spoiler.scope.storyCompletion": "Читатели должны дочитать эту историю, чтобы это поле показывалось по умолчанию.",
   "encyclopedia.spoiler.scope.noStories": "Историй из этой вселенной пока нет.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "Сгенерировано ИИ",
   "encyclopedia.time.type.label": "Тип времени",
   "encyclopedia.fields.fictionalTime": "Время фанфика",
-  "encyclopedia.time.invalidFormat": "Не соответствует формату времени {name}, например {example}"
+  "encyclopedia.time.invalidFormat": "Не соответствует формату времени {name}, например {example}",
+  "encyclopedia.spoiler.hide": "Скрыть спойлер"
 }

@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Facoltativi, un prezzo ciascuno per organizzazione.",
   "plans.admin.prices.expected": "Tabella dei piani: {amount}",
   "plans.admin.prices.issue.currency": "Su Stripe manca una valuta presente nella tabella dei piani.",
-  "plans.admin.prices.circleHelp": "Piattaforma e posto sono i valori predefiniti a zero; l'approvazione registra gli ID dei prezzi negoziati. I componenti aggiuntivi sono fatturati a questi prezzi."
+  "plans.admin.prices.circleHelp": "Piattaforma e posto sono i valori predefiniti a zero; l'approvazione registra gli ID dei prezzi negoziati. I componenti aggiuntivi sono fatturati a questi prezzi.",
+  "plans.fanClub.access.timelinesTitle": "Linee temporali",
+  "plans.fanClub.access.timelinesSubtitle": "Linee temporali dell'universo riservate ai membri del fan club.",
+  "plans.limits.timelines": "Linee temporali per universo"
 }

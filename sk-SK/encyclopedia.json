@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Spoiler",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# príbeh} few {# príbehy} many {# príbehu} other {# príbehov}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Kapitola {chapter}",
-  "encyclopedia.spoiler.scope.description": "Označte toto pole ako spoiler. Čitateľom, ktorí sa v týchto príbehoch ešte nedostali na potrebné miesto, sa obsah zobrazí rozmazaný.",
+  "encyclopedia.spoiler.scope.description": "Označte toto pole ako spoiler. Čitateľom, ktorí sa v týchto príbehoch ešte nedostali na potrebné miesto, sa obsah zobrazí skrytý.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Vyberte kapitolu, po ktorú sa čitatelia musia dostať, aby sa im toto pole predvolene zobrazilo.",
   "encyclopedia.spoiler.scope.storyCompletion": "Čitatelia musia tento príbeh najprv dočítať, aby sa im toto pole predvolene zobrazilo.",
   "encyclopedia.spoiler.scope.noStories": "Z tohto vesmíru zatiaľ nie sú dostupné žiadne príbehy.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "Vygenerované umelou inteligenciou",
   "encyclopedia.time.type.label": "Typ času",
   "encyclopedia.fields.fictionalTime": "Fiktívny čas",
-  "encyclopedia.time.invalidFormat": "Nezodpovedá formátu času {name}, napríklad {example}"
+  "encyclopedia.time.invalidFormat": "Nezodpovedá formátu času {name}, napríklad {example}",
+  "encyclopedia.spoiler.hide": "Skryť spoiler"
 }

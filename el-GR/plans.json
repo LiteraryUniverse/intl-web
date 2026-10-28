@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Προαιρετικά, μία τιμή το καθένα ανά οργανισμό.",
   "plans.admin.prices.expected": "Πίνακας προγραμμάτων: {amount}",
   "plans.admin.prices.issue.currency": "Ένα νόμισμα από τον πίνακα προγραμμάτων λείπει από τη Stripe.",
-  "plans.admin.prices.circleHelp": "Η πλατφόρμα και η θέση έχουν τις μηδενικές προεπιλογές· η έγκριση καταγράφει τα αναγνωριστικά των συμφωνημένων τιμών. Τα πρόσθετα χρεώνονται με αυτές τις τιμές."
+  "plans.admin.prices.circleHelp": "Η πλατφόρμα και η θέση έχουν τις μηδενικές προεπιλογές· η έγκριση καταγράφει τα αναγνωριστικά των συμφωνημένων τιμών. Τα πρόσθετα χρεώνονται με αυτές τις τιμές.",
+  "plans.fanClub.access.timelinesTitle": "Χρονολόγια",
+  "plans.fanClub.access.timelinesSubtitle": "Χρονολόγια του σύμπαντος αποκλειστικά για τα μέλη του fan club.",
+  "plans.limits.timelines": "Χρονολόγια ανά σύμπαν"
 }

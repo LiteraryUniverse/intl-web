@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Valgfritt, én pris for hvert tillegg per organisasjon.",
   "plans.admin.prices.expected": "Plantabell: {amount}",
   "plans.admin.prices.issue.currency": "En valuta fra plantabellen mangler hos Stripe.",
-  "plans.admin.prices.circleHelp": "Plattform og plass er standardverdiene på null; ved godkjenning registreres de fremforhandlede pris-ID-ene. Tillegg faktureres til disse prisene."
+  "plans.admin.prices.circleHelp": "Plattform og plass er standardverdiene på null; ved godkjenning registreres de fremforhandlede pris-ID-ene. Tillegg faktureres til disse prisene.",
+  "plans.fanClub.access.timelinesTitle": "Tidslinjer",
+  "plans.fanClub.access.timelinesSubtitle": "Tidslinjer for universet, forbeholdt fanklubbmedlemmer.",
+  "plans.limits.timelines": "Tidslinjer per univers"
 }

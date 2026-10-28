@@ -103,7 +103,7 @@
   "encyclopedia.spoiler.scope.manageShort": "Спойлер",
   "encyclopedia.spoiler.scope.summary": "{count, plural, one {# історія} few {# історії} many {# історій} other {# історії}}",
   "encyclopedia.spoiler.scope.chapterSummary": "Розділ {chapter}",
-  "encyclopedia.spoiler.scope.description": "Позначте це поле як спойлер. Читачі, які ще не дійшли до потрібного місця в цих історіях, побачать вміст розмитим.",
+  "encyclopedia.spoiler.scope.description": "Позначте це поле як спойлер. Читачі, які ще не дійшли до потрібного місця в цих історіях, побачать вміст прихованим.",
   "encyclopedia.spoiler.scope.storyChapterHint": "Виберіть розділ, до якого читачі мають дійти, перш ніж це поле буде показано за замовчуванням.",
   "encyclopedia.spoiler.scope.storyCompletion": "Читачі мають дочитати цю історію, перш ніж це поле буде показано за замовчуванням.",
   "encyclopedia.spoiler.scope.noStories": "Історій з цього всесвіту поки що немає.",
@@ -294,5 +294,6 @@
   "encyclopedia.search.filter.ai": "Згенеровано ШІ",
   "encyclopedia.time.type.label": "Тип часу",
   "encyclopedia.fields.fictionalTime": "Неіснуючий час",
-  "encyclopedia.time.invalidFormat": "Не відповідає формату часу {name}, наприклад {example}"
+  "encyclopedia.time.invalidFormat": "Не відповідає формату часу {name}, наприклад {example}",
+  "encyclopedia.spoiler.hide": "Приховати спойлер"
 }

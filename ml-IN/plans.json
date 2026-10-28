@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Optional, one price each per organization.",
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
-  "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices."
+  "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.fanClub.access.timelinesTitle": "ടൈംലൈനുകൾ",
+  "plans.fanClub.access.timelinesSubtitle": "ഫാൻ ക്ലബ് അംഗങ്ങൾക്കായി മാറ്റിവെച്ച ബ്രഹ്മാണ്ഡ ടൈംലൈനുകൾ.",
+  "plans.limits.timelines": "ഓരോ ബ്രഹ്മാണ്ഡത്തിനും ടൈംലൈനുകൾ"
 }

@@ -525,5 +525,8 @@
   "plans.admin.prices.addonsHelp": "Opsional, masing-masing satu harga per organisasi.",
   "plans.admin.prices.expected": "Tabel paket: {amount}",
   "plans.admin.prices.issue.currency": "Sebuah mata uang dari tabel paket tidak ada di Stripe.",
-  "plans.admin.prices.circleHelp": "Platform dan kursi adalah nilai default nol; persetujuan mencatat ID harga yang dinegosiasikan. Add-on ditagihkan dengan harga ini."
+  "plans.admin.prices.circleHelp": "Platform dan kursi adalah nilai default nol; persetujuan mencatat ID harga yang dinegosiasikan. Add-on ditagihkan dengan harga ini.",
+  "plans.fanClub.access.timelinesTitle": "Linimasa",
+  "plans.fanClub.access.timelinesSubtitle": "Linimasa universe khusus untuk anggota klub penggemar.",
+  "plans.limits.timelines": "Linimasa per universe"
 }
