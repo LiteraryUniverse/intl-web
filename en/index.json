@@ -7506,6 +7506,7 @@
   "workshop.ai.history.entryFolder": "Entry: {name}",
   "workshop.ai.history.unknownEntry": "Encyclopedia entry",
   "workshop.ai.history.storiesFolder": "Stories (continue in the writer)",
+  "workshop.ai.entryPanel.title": "Assistant for this entry",
   "writer.menu.optionsAria": "Editor options menu",
   "writer.menu.saveOptionsAria": "Save options",
   "writer.undo": "Undo",
