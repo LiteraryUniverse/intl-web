@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "この巻を詳しく見る",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "上の検索フォームでコンテンツを探してください"
+  "contentSelector.site.prompt": "上の検索フォームでコンテンツを探してください",
+  "library.blogs.writers": "フォロー中のブログ作者",
+  "library.blogs.writersTab": "ブログ作者",
+  "library.blogs.writers.empty": "フォローしている作者がブログを始めると、ここに表示されます。",
+  "library.blogs.saved": "保存した記事",
+  "library.blogs.saved.empty": "ブログ記事のブックマークボタンで保存した記事がここに表示されます。",
+  "library.blogs.saved.locked": "この記事にはアクセスできなくなりました。"
 }

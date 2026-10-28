@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Granska volym",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Använd sökformuläret ovan för att hitta innehåll"
+  "contentSelector.site.prompt": "Använd sökformuläret ovan för att hitta innehåll",
+  "library.blogs.writers": "Följda bloggförfattare",
+  "library.blogs.writersTab": "Bloggförfattare",
+  "library.blogs.writers.empty": "När en författare du följer startar en blogg visas den här.",
+  "library.blogs.saved": "Sparade artiklar",
+  "library.blogs.saved.empty": "Artiklar du sparar med bokmärkesknappen på ett blogginlägg visas här.",
+  "library.blogs.saved.locked": "Du har inte längre åtkomst till den här artikeln."
 }

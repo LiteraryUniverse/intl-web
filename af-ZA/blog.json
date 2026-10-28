@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Teksformatering",
   "blog.pages.format.address": "Skakeladres",
   "blog.pages.format.apply": "Pas skakel toe",
-  "blog.pages.slugTaken": "’n Ander bladsy op hierdie blog het reeds daardie adres. Kies ’n ander een."
+  "blog.pages.slugTaken": "’n Ander bladsy op hierdie blog het reeds daardie adres. Kies ’n ander een.",
+  "blog.post.save": "Stoor artikel",
+  "blog.post.unsave": "Verwyder uit gestoorde artikels",
+  "blog.post.save.signIn": "Teken aan om hierdie artikel te stoor"
 }

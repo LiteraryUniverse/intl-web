@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Mise en forme du texte",
   "blog.pages.format.address": "Adresse du lien",
   "blog.pages.format.apply": "Appliquer le lien",
-  "blog.pages.slugTaken": "Une autre page de ce blog utilise déjà cette adresse. Choisissez-en une autre."
+  "blog.pages.slugTaken": "Une autre page de ce blog utilise déjà cette adresse. Choisissez-en une autre.",
+  "blog.post.save": "Sauvegarder l'article",
+  "blog.post.unsave": "Retirer des articles sauvegardés",
+  "blog.post.save.signIn": "Connectez-vous pour sauvegarder cet article"
 }

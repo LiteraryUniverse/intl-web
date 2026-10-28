@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Pag-format ng teksto",
   "blog.pages.format.address": "Address ng link",
   "blog.pages.format.apply": "Ilapat ang link",
-  "blog.pages.slugTaken": "May ibang pahina sa blog na ito na gumagamit ng address na iyan. Pumili ng iba."
+  "blog.pages.slugTaken": "May ibang pahina sa blog na ito na gumagamit ng address na iyan. Pumili ng iba.",
+  "blog.post.save": "I-save ang artikulo",
+  "blog.post.unsave": "Alisin sa mga naka-save na artikulo",
+  "blog.post.save.signIn": "Mag-login para i-save ang artikulong ito"
 }

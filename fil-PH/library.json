@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Suriin ang tomo",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Gamitin ang search form sa itaas para maghanap ng content"
+  "contentSelector.site.prompt": "Gamitin ang search form sa itaas para maghanap ng content",
+  "library.blogs.writers": "Mga sinusundang manunulat ng blog",
+  "library.blogs.writersTab": "Mga manunulat ng blog",
+  "library.blogs.writers.empty": "Kapag nagsimula ng blog ang isang manunulat na sinusundan mo, lalabas ito rito.",
+  "library.blogs.saved": "Mga naka-save na artikulo",
+  "library.blogs.saved.empty": "Lalabas dito ang mga artikulong sine-save mo gamit ang bookmark button sa isang blog post.",
+  "library.blogs.saved.locked": "Wala ka nang access sa artikulong ito."
 }

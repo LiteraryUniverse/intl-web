@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Formattazione del testo",
   "blog.pages.format.address": "Indirizzo del link",
   "blog.pages.format.apply": "Applica link",
-  "blog.pages.slugTaken": "Un’altra pagina di questo blog usa già questo indirizzo. Scegline uno diverso."
+  "blog.pages.slugTaken": "Un’altra pagina di questo blog usa già questo indirizzo. Scegline uno diverso.",
+  "blog.post.save": "Salva articolo",
+  "blog.post.unsave": "Rimuovi dagli articoli salvati",
+  "blog.post.save.signIn": "Accedi per salvare questo articolo"
 }

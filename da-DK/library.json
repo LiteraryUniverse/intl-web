@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Se nærmere på bindet",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Brug søgeformularen ovenfor til at finde indhold"
+  "contentSelector.site.prompt": "Brug søgeformularen ovenfor til at finde indhold",
+  "library.blogs.writers": "Følgte bloggforfattere",
+  "library.blogs.writersTab": "Bloggforfattere",
+  "library.blogs.writers.empty": "Når en forfatter, du følger, starter en blog, vises den her.",
+  "library.blogs.saved": "Gemte artikler",
+  "library.blogs.saved.empty": "Artikler, du gemmer med bogmærkeknappen på et blogindlæg, vises her.",
+  "library.blogs.saved.locked": "Du har ikke længere adgang til denne artikel."
 }

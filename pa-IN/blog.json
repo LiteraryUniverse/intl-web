@@ -692,5 +692,8 @@
   "blog.pages.format.label": "ਟੈਕਸਟ ਫਾਰਮੈਟਿੰਗ",
   "blog.pages.format.address": "ਲਿੰਕ ਦਾ ਪਤਾ",
   "blog.pages.format.apply": "ਲਿੰਕ ਲਾਗੂ ਕਰੋ",
-  "blog.pages.slugTaken": "ਇਸ ਬਲਾਗ ਦੇ ਕਿਸੇ ਹੋਰ ਪੰਨੇ ਦਾ ਇਹੀ ਪਤਾ ਹੈ। ਕੋਈ ਵੱਖਰਾ ਪਤਾ ਚੁਣੋ।"
+  "blog.pages.slugTaken": "ਇਸ ਬਲਾਗ ਦੇ ਕਿਸੇ ਹੋਰ ਪੰਨੇ ਦਾ ਇਹੀ ਪਤਾ ਹੈ। ਕੋਈ ਵੱਖਰਾ ਪਤਾ ਚੁਣੋ।",
+  "blog.post.save": "ਲੇਖ ਸੰਭਾਲੋ",
+  "blog.post.unsave": "ਸੰਭਾਲੇ ਲੇਖਾਂ ਵਿੱਚੋਂ ਹਟਾਓ",
+  "blog.post.save.signIn": "ਇਹ ਲੇਖ ਸੰਭਾਲਣ ਲਈ ਲਾਗਇਨ ਕਰੋ"
 }

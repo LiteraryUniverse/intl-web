@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Tarkastele nidettä",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Etsi sisältöä yllä olevalla hakulomakkeella"
+  "contentSelector.site.prompt": "Etsi sisältöä yllä olevalla hakulomakkeella",
+  "library.blogs.writers": "Seuratut bloginkirjoittajat",
+  "library.blogs.writersTab": "Bloginkirjoittajat",
+  "library.blogs.writers.empty": "Kun seuraamasi kirjoittaja aloittaa blogin, se näkyy tässä.",
+  "library.blogs.saved": "Tallennetut artikkelit",
+  "library.blogs.saved.empty": "Blogikirjoituksen kirjanmerkkipainikkeella tallentamasi artikkelit näkyvät tässä.",
+  "library.blogs.saved.locked": "Sinulla ei ole enää pääsyä tähän artikkeliin."
 }

@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "খণ্ডটি ভালো করে দেখুন",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "কনটেন্ট খুঁজতে উপরের অনুসন্ধান ফর্ম ব্যবহার করুন"
+  "contentSelector.site.prompt": "কনটেন্ট খুঁজতে উপরের অনুসন্ধান ফর্ম ব্যবহার করুন",
+  "library.blogs.writers": "অনুসরণ করা ব্লগ লেখক",
+  "library.blogs.writersTab": "ব্লগ লেখক",
+  "library.blogs.writers.empty": "আপনি যে লেখককে অনুসরণ করেন তিনি ব্লগ শুরু করলে তা এখানে দেখা যাবে।",
+  "library.blogs.saved": "সংরক্ষিত নিবন্ধ",
+  "library.blogs.saved.empty": "ব্লগ পোস্টের বুকমার্ক বোতামে আপনি যে নিবন্ধ সংরক্ষণ করেন তা এখানে দেখা যাবে।",
+  "library.blogs.saved.locked": "এই নিবন্ধে আপনার আর প্রবেশাধিকার নেই।"
 }

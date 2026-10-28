@@ -692,5 +692,8 @@
   "blog.pages.format.label": "עיצוב טקסט",
   "blog.pages.format.address": "כתובת הקישור",
   "blog.pages.format.apply": "החלת הקישור",
-  "blog.pages.slugTaken": "לעמוד אחר בבלוג הזה כבר יש את הכתובת הזאת. בחרו כתובת אחרת."
+  "blog.pages.slugTaken": "לעמוד אחר בבלוג הזה כבר יש את הכתובת הזאת. בחרו כתובת אחרת.",
+  "blog.post.save": "שמירת מאמר",
+  "blog.post.unsave": "הסרה מהמאמרים השמורים",
+  "blog.post.save.signIn": "התחברו כדי לשמור מאמר זה"
 }

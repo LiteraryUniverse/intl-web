@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "सामग्री भेट्टाउन माथिको खोज फारम प्रयोग गर्नुहोस्"
+  "contentSelector.site.prompt": "सामग्री भेट्टाउन माथिको खोज फारम प्रयोग गर्नुहोस्",
+  "library.blogs.writers": "अनुसरण गरिएका ब्लग लेखकहरू",
+  "library.blogs.writersTab": "ब्लग लेखकहरू",
+  "library.blogs.writers.empty": "तपाईंले अनुसरण गर्नुभएको लेखकले ब्लग सुरु गरेपछि, त्यो यहाँ देखिन्छ।",
+  "library.blogs.saved": "सुरक्षित गरिएका लेखहरू",
+  "library.blogs.saved.empty": "ब्लग पोस्टमा रहेको बुकमार्क बटनले तपाईंले सुरक्षित गर्नुभएका लेखहरू यहाँ देखिन्छन्।",
+  "library.blogs.saved.locked": "तपाईंसँग अब यो लेखको पहुँच छैन।"
 }

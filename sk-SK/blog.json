@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Formátovanie textu",
   "blog.pages.format.address": "Adresa odkazu",
   "blog.pages.format.apply": "Použiť odkaz",
-  "blog.pages.slugTaken": "Túto adresu už má iná stránka tohto blogu. Zvoľte inú."
+  "blog.pages.slugTaken": "Túto adresu už má iná stránka tohto blogu. Zvoľte inú.",
+  "blog.post.save": "Uložiť článok",
+  "blog.post.unsave": "Odstrániť z uložených článkov",
+  "blog.post.save.signIn": "Prihláste sa a uložte si tento článok"
 }

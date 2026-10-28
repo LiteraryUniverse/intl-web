@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Rigardi la volumon",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Uzu la ĉi-supran serĉformularon por trovi enhavon"
+  "contentSelector.site.prompt": "Uzu la ĉi-supran serĉformularon por trovi enhavon",
+  "library.blogs.writers": "Sekvitaj blogistoj",
+  "library.blogs.writersTab": "Blogistoj",
+  "library.blogs.writers.empty": "Kiam skribanto, kiun vi sekvas, komencas blogon, ĝi aperos ĉi tie.",
+  "library.blogs.saved": "Konservitaj artikoloj",
+  "library.blogs.saved.empty": "Artikoloj, kiujn vi konservas per la legosigna butono ĉe blogafiŝo, aperas ĉi tie.",
+  "library.blogs.saved.locked": "Vi ne plu havas aliron al ĉi tiu artikolo."
 }

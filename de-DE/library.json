@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Band ansehen",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Nutze das Suchformular oben, um Inhalte zu finden"
+  "contentSelector.site.prompt": "Nutze das Suchformular oben, um Inhalte zu finden",
+  "library.blogs.writers": "Verfolgte Blog-Autoren",
+  "library.blogs.writersTab": "Blog-Autoren",
+  "library.blogs.writers.empty": "Wenn ein Autor, dem du folgst, einen Blog startet, erscheint dieser hier.",
+  "library.blogs.saved": "Gespeicherte Artikel",
+  "library.blogs.saved.empty": "Artikel, die du mit dem Lesezeichen-Button bei einem Blogbeitrag speicherst, erscheinen hier.",
+  "library.blogs.saved.locked": "Du hast keinen Zugriff mehr auf diesen Artikel."
 }

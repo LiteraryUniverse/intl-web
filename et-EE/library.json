@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Vaata köidet lähemalt",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Sisu leidmiseks kasuta ülal olevat otsinguvormi"
+  "contentSelector.site.prompt": "Sisu leidmiseks kasuta ülal olevat otsinguvormi",
+  "library.blogs.writers": "Jälgitud kirjanike blogid",
+  "library.blogs.writersTab": "Kirjanike blogid",
+  "library.blogs.writers.empty": "Kui kirjanik, keda jälgid, alustab blogi, ilmub see siia.",
+  "library.blogs.saved": "Salvestatud artiklid",
+  "library.blogs.saved.empty": "Artiklid, mille salvestad blogipostituse järjehoidjanupuga, ilmuvad siia.",
+  "library.blogs.saved.locked": "Sul pole sellele artiklile enam juurdepääsu."
 }

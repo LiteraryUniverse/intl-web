@@ -692,5 +692,8 @@
   "blog.pages.format.label": "تنسيق النص",
   "blog.pages.format.address": "عنوان الرابط",
   "blog.pages.format.apply": "تطبيق الرابط",
-  "blog.pages.slugTaken": "توجد صفحة أخرى في هذه المدونة بهذا العنوان. اختر عنوانًا مختلفًا."
+  "blog.pages.slugTaken": "توجد صفحة أخرى في هذه المدونة بهذا العنوان. اختر عنوانًا مختلفًا.",
+  "blog.post.save": "حفظ المقالة",
+  "blog.post.unsave": "إزالة من المقالات المحفوظة",
+  "blog.post.save.signIn": "سجّل الدخول لحفظ هذه المقالة"
 }

@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Εξέταση τόμου",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Χρησιμοποιήστε τη φόρμα αναζήτησης παραπάνω για να βρείτε περιεχόμενο"
+  "contentSelector.site.prompt": "Χρησιμοποιήστε τη φόρμα αναζήτησης παραπάνω για να βρείτε περιεχόμενο",
+  "library.blogs.writers": "Συγγραφείς ιστολογίων που ακολουθείτε",
+  "library.blogs.writersTab": "Συγγραφείς ιστολογίων",
+  "library.blogs.writers.empty": "Όταν ένας συγγραφέας που ακολουθείτε ξεκινήσει ιστολόγιο, θα εμφανιστεί εδώ.",
+  "library.blogs.saved": "Αποθηκευμένα άρθρα",
+  "library.blogs.saved.empty": "Τα άρθρα που αποθηκεύετε με το κουμπί σελιδοδείκτη σε μια ανάρτηση ιστολογίου εμφανίζονται εδώ.",
+  "library.blogs.saved.locked": "Δεν έχετε πλέον πρόσβαση σε αυτό το άρθρο."
 }

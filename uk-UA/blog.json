@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Форматування тексту",
   "blog.pages.format.address": "Адреса посилання",
   "blog.pages.format.apply": "Застосувати посилання",
-  "blog.pages.slugTaken": "Цю адресу вже має інша сторінка цього блогу. Виберіть іншу."
+  "blog.pages.slugTaken": "Цю адресу вже має інша сторінка цього блогу. Виберіть іншу.",
+  "blog.post.save": "Зберегти статтю",
+  "blog.post.unsave": "Видалити зі збережених статей",
+  "blog.post.save.signIn": "Увійдіть, щоб зберегти цю статтю"
 }

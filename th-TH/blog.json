@@ -692,5 +692,8 @@
   "blog.pages.format.label": "การจัดรูปแบบข้อความ",
   "blog.pages.format.address": "ที่อยู่ลิงก์",
   "blog.pages.format.apply": "ใช้ลิงก์",
-  "blog.pages.slugTaken": "มีหน้าอื่นในบล็อกนี้ใช้ที่อยู่นั้นแล้ว โปรดเลือกที่อยู่อื่น"
+  "blog.pages.slugTaken": "มีหน้าอื่นในบล็อกนี้ใช้ที่อยู่นั้นแล้ว โปรดเลือกที่อยู่อื่น",
+  "blog.post.save": "บันทึกบทความ",
+  "blog.post.unsave": "นำออกจากบทความที่บันทึกไว้",
+  "blog.post.save.signIn": "เข้าสู่ระบบเพื่อบันทึกบทความนี้"
 }

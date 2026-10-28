@@ -692,5 +692,8 @@
   "blog.pages.format.label": "文字格式",
   "blog.pages.format.address": "連結網址",
   "blog.pages.format.apply": "套用連結",
-  "blog.pages.slugTaken": "此部落格的另一個頁面已使用這個網址。請選擇其他網址。"
+  "blog.pages.slugTaken": "此部落格的另一個頁面已使用這個網址。請選擇其他網址。",
+  "blog.post.save": "儲存文章",
+  "blog.post.unsave": "從已儲存的文章中移除",
+  "blog.post.save.signIn": "登入以儲存這篇文章"
 }

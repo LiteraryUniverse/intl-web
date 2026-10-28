@@ -692,5 +692,8 @@
   "blog.pages.format.label": "टेक्स्ट फ़ॉर्मेटिंग",
   "blog.pages.format.address": "लिंक का पता",
   "blog.pages.format.apply": "लिंक लागू करें",
-  "blog.pages.slugTaken": "इस ब्लॉग के किसी दूसरे पृष्ठ का यही पता है। कोई दूसरा पता चुनें।"
+  "blog.pages.slugTaken": "इस ब्लॉग के किसी दूसरे पृष्ठ का यही पता है। कोई दूसरा पता चुनें।",
+  "blog.post.save": "लेख सहेजें",
+  "blog.post.unsave": "सहेजे गए लेखों से हटाएँ",
+  "blog.post.save.signIn": "इस लेख को सहेजने के लिए लॉगिन करें"
 }

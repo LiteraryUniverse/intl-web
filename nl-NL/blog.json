@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Tekstopmaak",
   "blog.pages.format.address": "Linkadres",
   "blog.pages.format.apply": "Link toepassen",
-  "blog.pages.slugTaken": "Een andere pagina op deze blog heeft dat adres al. Kies een ander adres."
+  "blog.pages.slugTaken": "Een andere pagina op deze blog heeft dat adres al. Kies een ander adres.",
+  "blog.post.save": "Artikel opslaan",
+  "blog.post.unsave": "Verwijderen uit opgeslagen artikelen",
+  "blog.post.save.signIn": "Log in om dit artikel op te slaan"
 }

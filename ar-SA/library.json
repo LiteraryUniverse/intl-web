@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "تفحّص المجلد",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "استخدم نموذج البحث أعلاه للعثور على محتوى"
+  "contentSelector.site.prompt": "استخدم نموذج البحث أعلاه للعثور على محتوى",
+  "library.blogs.writers": "كتّاب المدونات الذين تمت متابعتهم",
+  "library.blogs.writersTab": "كتّاب المدونات",
+  "library.blogs.writers.empty": "عندما يبدأ كاتب تتابعه مدونة، ستظهر هنا.",
+  "library.blogs.saved": "المقالات المحفوظة",
+  "library.blogs.saved.empty": "تظهر هنا المقالات التي تحفظها بزر الإشارة المرجعية في إحدى مقالات المدونة.",
+  "library.blogs.saved.locked": "لم يعد بإمكانك الوصول إلى هذه المقالة."
 }

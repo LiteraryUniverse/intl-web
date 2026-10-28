@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Teksti vormindamine",
   "blog.pages.format.address": "Lingi aadress",
   "blog.pages.format.apply": "Rakenda link",
-  "blog.pages.slugTaken": "Selle blogi teisel lehel on juba see aadress. Vali mõni muu."
+  "blog.pages.slugTaken": "Selle blogi teisel lehel on juba see aadress. Vali mõni muu.",
+  "blog.post.save": "Salvesta artikkel",
+  "blog.post.unsave": "Eemalda salvestatud artiklite hulgast",
+  "blog.post.save.signIn": "Artikli salvestamiseks logi sisse"
 }

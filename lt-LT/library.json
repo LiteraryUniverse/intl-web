@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Apžiūrėti tomą",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Turinio ieškokite naudodami viršuje esančią paieškos formą"
+  "contentSelector.site.prompt": "Turinio ieškokite naudodami viršuje esančią paieškos formą",
+  "library.blogs.writers": "Sekami tinklaraščių autoriai",
+  "library.blogs.writersTab": "Tinklaraščių autoriai",
+  "library.blogs.writers.empty": "Kai autorius, kurį sekate, pradės tinklaraštį, jis atsiras čia.",
+  "library.blogs.saved": "Įrašyti straipsniai",
+  "library.blogs.saved.empty": "Straipsniai, kuriuos įrašote tinklaraščio įrašo žymės mygtuku, atsiranda čia.",
+  "library.blogs.saved.locked": "Nebeturite prieigos prie šio straipsnio."
 }

@@ -692,5 +692,8 @@
   "blog.pages.format.label": "पाठ ढाँचा",
   "blog.pages.format.address": "लिङ्कको ठेगाना",
   "blog.pages.format.apply": "लिङ्क लागू गर्नुहोस्",
-  "blog.pages.slugTaken": "यस ब्लगको अर्को पृष्ठको पनि यही ठेगाना छ। फरक ठेगाना छान्नुहोस्।"
+  "blog.pages.slugTaken": "यस ब्लगको अर्को पृष्ठको पनि यही ठेगाना छ। फरक ठेगाना छान्नुहोस्।",
+  "blog.post.save": "लेख सुरक्षित गर्नुहोस्",
+  "blog.post.unsave": "सुरक्षित गरिएका लेखहरूबाट हटाउनुहोस्",
+  "blog.post.save.signIn": "यो लेख सुरक्षित गर्न लगइन गर्नुहोस्"
 }

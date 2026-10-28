@@ -692,5 +692,8 @@
   "blog.pages.format.label": "লেখার ফরম্যাটিং",
   "blog.pages.format.address": "লিঙ্কের ঠিকানা",
   "blog.pages.format.apply": "লিঙ্ক প্রয়োগ করুন",
-  "blog.pages.slugTaken": "এই ব্লগের আরেকটি পৃষ্ঠার ঠিকানাও এটি। অন্য একটি ঠিকানা বেছে নিন।"
+  "blog.pages.slugTaken": "এই ব্লগের আরেকটি পৃষ্ঠার ঠিকানাও এটি। অন্য একটি ঠিকানা বেছে নিন।",
+  "blog.post.save": "নিবন্ধ সংরক্ষণ করুন",
+  "blog.post.unsave": "সংরক্ষিত নিবন্ধ থেকে সরান",
+  "blog.post.save.signIn": "এই নিবন্ধ সংরক্ষণ করতে লগইন করুন"
 }

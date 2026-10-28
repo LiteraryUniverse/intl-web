@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Teksto formatavimas",
   "blog.pages.format.address": "Nuorodos adresas",
   "blog.pages.format.apply": "Taikyti nuorodą",
-  "blog.pages.slugTaken": "Kitas šio tinklaraščio puslapis jau turi šį adresą. Pasirinkite kitą."
+  "blog.pages.slugTaken": "Kitas šio tinklaraščio puslapis jau turi šį adresą. Pasirinkite kitą.",
+  "blog.post.save": "Įrašyti straipsnį",
+  "blog.post.unsave": "Pašalinti iš įrašytų straipsnių",
+  "blog.post.save.signIn": "Prisijunkite, kad įrašytumėte šį straipsnį"
 }

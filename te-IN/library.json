@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "కంటెంట్‌ను కనుగొనడానికి పైన ఉన్న శోధన ఫారమ్‌ను ఉపయోగించండి"
+  "contentSelector.site.prompt": "కంటెంట్‌ను కనుగొనడానికి పైన ఉన్న శోధన ఫారమ్‌ను ఉపయోగించండి",
+  "library.blogs.writers": "అనుసరించిన బ్లాగ్ రచయితలు",
+  "library.blogs.writersTab": "బ్లాగ్ రచయితలు",
+  "library.blogs.writers.empty": "మీరు అనుసరించే రచయిత బ్లాగ్ ప్రారంభించినప్పుడు, అది ఇక్కడ కనిపిస్తుంది.",
+  "library.blogs.saved": "సేవ్ చేసిన వ్యాసాలు",
+  "library.blogs.saved.empty": "బ్లాగ్ పోస్ట్‌లోని బుక్‌మార్క్ బటన్‌తో మీరు సేవ్ చేసిన వ్యాసాలు ఇక్కడ కనిపిస్తాయి.",
+  "library.blogs.saved.locked": "ఈ వ్యాసానికి మీకు ఇకపై ప్రాప్యత లేదు."
 }

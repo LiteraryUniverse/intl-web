@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Text formatting",
   "blog.pages.format.address": "Link address",
   "blog.pages.format.apply": "Apply link",
-  "blog.pages.slugTaken": "Another page on this blog has that address. Choose a different one."
+  "blog.pages.slugTaken": "Another page on this blog has that address. Choose a different one.",
+  "blog.post.save": "Save article",
+  "blog.post.unsave": "Remove from saved articles",
+  "blog.post.save.signIn": "Sign in to save this article"
 }

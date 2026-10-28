@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Format teks",
   "blog.pages.format.address": "Alamat tautan",
   "blog.pages.format.apply": "Terapkan tautan",
-  "blog.pages.slugTaken": "Halaman lain di blog ini sudah memakai alamat itu. Pilih alamat lain."
+  "blog.pages.slugTaken": "Halaman lain di blog ini sudah memakai alamat itu. Pilih alamat lain.",
+  "blog.post.save": "Simpan artikel",
+  "blog.post.unsave": "Hapus dari artikel tersimpan",
+  "blog.post.save.signIn": "Masuk untuk menyimpan artikel ini"
 }

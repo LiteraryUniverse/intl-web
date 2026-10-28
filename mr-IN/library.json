@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "मजकूर शोधण्यासाठी वरील शोध फॉर्म वापरा"
+  "contentSelector.site.prompt": "मजकूर शोधण्यासाठी वरील शोध फॉर्म वापरा",
+  "library.blogs.writers": "अनुसरण केलेले ब्लॉग लेखक",
+  "library.blogs.writersTab": "ब्लॉग लेखक",
+  "library.blogs.writers.empty": "तुम्ही अनुसरण करत असलेल्या लेखकाने ब्लॉग सुरू केल्यावर तो येथे दिसेल.",
+  "library.blogs.saved": "सेव्ह केलेले लेख",
+  "library.blogs.saved.empty": "ब्लॉग पोस्टवरील बुकमार्क बटणाने तुम्ही सेव्ह केलेले लेख येथे दिसतात.",
+  "library.blogs.saved.locked": "तुम्हाला आता या लेखात प्रवेश नाही."
 }

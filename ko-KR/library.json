@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "책 살펴보기",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "위의 검색 양식으로 콘텐츠를 찾으세요"
+  "contentSelector.site.prompt": "위의 검색 양식으로 콘텐츠를 찾으세요",
+  "library.blogs.writers": "팔로우한 블로그 작가",
+  "library.blogs.writersTab": "블로그 작가",
+  "library.blogs.writers.empty": "팔로우한 작가가 블로그를 시작하면 여기에 표시됩니다.",
+  "library.blogs.saved": "저장한 글",
+  "library.blogs.saved.empty": "블로그 글의 북마크 버튼으로 저장한 글이 여기에 표시됩니다.",
+  "library.blogs.saved.locked": "이 글에 더 이상 접근할 수 없습니다."
 }

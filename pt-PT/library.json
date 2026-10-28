@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Examinar volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Use o formulário de pesquisa acima para encontrar conteúdo"
+  "contentSelector.site.prompt": "Use o formulário de pesquisa acima para encontrar conteúdo",
+  "library.blogs.writers": "Autores de blogues seguidos",
+  "library.blogs.writersTab": "Autores de blogues",
+  "library.blogs.writers.empty": "Quando um autor seguido criar um blogue, aparece aqui.",
+  "library.blogs.saved": "Artigos guardados",
+  "library.blogs.saved.empty": "Os artigos guardados com o botão de marcador numa publicação do blogue aparecem aqui.",
+  "library.blogs.saved.locked": "Já não é possível aceder a este artigo."
 }

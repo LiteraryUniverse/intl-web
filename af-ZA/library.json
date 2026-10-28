@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Bekyk bundel",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Gebruik die soekvorm hierbo om inhoud te vind"
+  "contentSelector.site.prompt": "Gebruik die soekvorm hierbo om inhoud te vind",
+  "library.blogs.writers": "Gevolgde blogskrywers",
+  "library.blogs.writersTab": "Blogskrywers",
+  "library.blogs.writers.empty": "Sodra 'n skrywer wat jy volg 'n blog begin, verskyn dit hier.",
+  "library.blogs.saved": "Gestoorde artikels",
+  "library.blogs.saved.empty": "Artikels wat jy met die boekmerkknoppie op 'n blogplasing stoor, verskyn hier.",
+  "library.blogs.saved.locked": "Jy het nie meer toegang tot hierdie artikel nie."
 }

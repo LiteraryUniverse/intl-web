@@ -692,5 +692,8 @@
   "blog.pages.format.label": "テキストの書式",
   "blog.pages.format.address": "リンクのアドレス",
   "blog.pages.format.apply": "リンクを適用",
-  "blog.pages.slugTaken": "このブログの別のページがすでにそのアドレスを使っています。別のアドレスを選んでください。"
+  "blog.pages.slugTaken": "このブログの別のページがすでにそのアドレスを使っています。別のアドレスを選んでください。",
+  "blog.post.save": "記事を保存",
+  "blog.post.unsave": "保存した記事から削除",
+  "blog.post.save.signIn": "この記事を保存するにはログインしてください"
 }

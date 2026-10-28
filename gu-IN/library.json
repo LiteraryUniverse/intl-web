@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "સામગ્રી શોધવા ઉપરનું શોધ ફોર્મ વાપરો"
+  "contentSelector.site.prompt": "સામગ્રી શોધવા ઉપરનું શોધ ફોર્મ વાપરો",
+  "library.blogs.writers": "અનુસરાયેલા બ્લોગ લેખકો",
+  "library.blogs.writersTab": "બ્લોગ લેખકો",
+  "library.blogs.writers.empty": "તમે જે લેખકને અનુસરો છો તે બ્લોગ શરૂ કરે ત્યારે તે અહીં દેખાશે.",
+  "library.blogs.saved": "સાચવેલા લેખો",
+  "library.blogs.saved.empty": "બ્લોગ પોસ્ટ પરના બુકમાર્ક બટનથી તમે સાચવેલા લેખો અહીં દેખાશે.",
+  "library.blogs.saved.locked": "હવે તમારી પાસે આ લેખની ઍક્સેસ નથી."
 }

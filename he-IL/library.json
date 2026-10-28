@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "בחן את הכרך",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "השתמשו בטופס החיפוש שלמעלה כדי למצוא תוכן"
+  "contentSelector.site.prompt": "השתמשו בטופס החיפוש שלמעלה כדי למצוא תוכן",
+  "library.blogs.writers": "כותבי בלוגים במעקב",
+  "library.blogs.writersTab": "כותבי בלוגים",
+  "library.blogs.writers.empty": "כשכותב שאתם עוקבים אחריו פותח בלוג, הוא יופיע כאן.",
+  "library.blogs.saved": "מאמרים שמורים",
+  "library.blogs.saved.empty": "מאמרים ששמרתם באמצעות כפתור הסימנייה בפוסט בבלוג יופיעו כאן.",
+  "library.blogs.saved.locked": "אין לכם עוד גישה למאמר זה."
 }

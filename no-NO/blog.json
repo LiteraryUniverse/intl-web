@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Tekstformatering",
   "blog.pages.format.address": "Lenkeadresse",
   "blog.pages.format.apply": "Bruk lenke",
-  "blog.pages.slugTaken": "En annen side på denne bloggen har allerede den adressen. Velg en annen."
+  "blog.pages.slugTaken": "En annen side på denne bloggen har allerede den adressen. Velg en annen.",
+  "blog.post.save": "Lagre artikkel",
+  "blog.post.unsave": "Fjern fra lagrede artikler",
+  "blog.post.save.signIn": "Logg inn for å lagre denne artikkelen"
 }

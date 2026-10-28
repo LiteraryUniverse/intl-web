@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Deel bekijken",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Gebruik het zoekformulier hierboven om inhoud te vinden"
+  "contentSelector.site.prompt": "Gebruik het zoekformulier hierboven om inhoud te vinden",
+  "library.blogs.writers": "Gevolgde blogschrijvers",
+  "library.blogs.writersTab": "Blogschrijvers",
+  "library.blogs.writers.empty": "Als een schrijver die je volgt een blog start, verschijnt die hier.",
+  "library.blogs.saved": "Opgeslagen artikelen",
+  "library.blogs.saved.empty": "Artikelen die je opslaat met de bladwijzerknop bij een blogbericht, verschijnen hier.",
+  "library.blogs.saved.locked": "Je hebt geen toegang meer tot dit artikel."
 }

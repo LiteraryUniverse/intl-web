@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Textformatering",
   "blog.pages.format.address": "Länkadress",
   "blog.pages.format.apply": "Använd länk",
-  "blog.pages.slugTaken": "En annan sida i den här bloggen har redan den adressen. Välj en annan."
+  "blog.pages.slugTaken": "En annan sida i den här bloggen har redan den adressen. Välj en annan.",
+  "blog.post.save": "Spara artikel",
+  "blog.post.unsave": "Ta bort från sparade artiklar",
+  "blog.post.save.signIn": "Logga in för att spara den här artikeln"
 }

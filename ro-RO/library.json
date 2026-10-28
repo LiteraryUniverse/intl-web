@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Examinează volumul",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Folosește formularul de căutare de mai sus pentru a găsi conținut"
+  "contentSelector.site.prompt": "Folosește formularul de căutare de mai sus pentru a găsi conținut",
+  "library.blogs.writers": "Blogurile scriitorilor urmăriți",
+  "library.blogs.writersTab": "Bloguri de scriitori",
+  "library.blogs.writers.empty": "Când un scriitor pe care îl urmărești începe un blog, acesta apare aici.",
+  "library.blogs.saved": "Articole salvate",
+  "library.blogs.saved.empty": "Articolele pe care le salvezi cu butonul de marcaj de pe o postare de blog apar aici.",
+  "library.blogs.saved.locked": "Nu mai ai acces la acest articol."
 }

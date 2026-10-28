@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Formatowanie tekstu",
   "blog.pages.format.address": "Adres linku",
   "blog.pages.format.apply": "Zastosuj link",
-  "blog.pages.slugTaken": "Inna strona tego bloga ma już ten adres. Wybierz inny."
+  "blog.pages.slugTaken": "Inna strona tego bloga ma już ten adres. Wybierz inny.",
+  "blog.post.save": "Zapisz artykuł",
+  "blog.post.unsave": "Usuń z zapisanych artykułów",
+  "blog.post.save.signIn": "Zaloguj się, aby zapisać ten artykuł"
 }

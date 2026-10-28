@@ -692,5 +692,8 @@
   "blog.pages.format.label": "मजकूर स्वरूपण",
   "blog.pages.format.address": "लिंकचा पत्ता",
   "blog.pages.format.apply": "लिंक लागू करा",
-  "blog.pages.slugTaken": "या ब्लॉगवरील दुसऱ्या पृष्ठाचा हाच पत्ता आहे. वेगळा पत्ता निवडा."
+  "blog.pages.slugTaken": "या ब्लॉगवरील दुसऱ्या पृष्ठाचा हाच पत्ता आहे. वेगळा पत्ता निवडा.",
+  "blog.post.save": "लेख सेव्ह करा",
+  "blog.post.unsave": "सेव्ह केलेल्या लेखांमधून काढा",
+  "blog.post.save.signIn": "हा लेख सेव्ह करण्यासाठी लॉगिन करा"
 }

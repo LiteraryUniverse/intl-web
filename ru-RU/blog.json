@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Форматирование текста",
   "blog.pages.format.address": "Адрес ссылки",
   "blog.pages.format.apply": "Применить ссылку",
-  "blog.pages.slugTaken": "Этот адрес уже занят другой страницей этого блога. Выберите другой."
+  "blog.pages.slugTaken": "Этот адрес уже занят другой страницей этого блога. Выберите другой.",
+  "blog.post.save": "Сохранить статью",
+  "blog.post.unsave": "Удалить из сохранённых статей",
+  "blog.post.save.signIn": "Войдите, чтобы сохранить эту статью"
 }

@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Teksta formatado",
   "blog.pages.format.address": "Ligila adreso",
   "blog.pages.format.apply": "Apliki ligilon",
-  "blog.pages.slugTaken": "Alia paĝo en ĉi tiu blogo jam havas tiun adreson. Elektu alian."
+  "blog.pages.slugTaken": "Alia paĝo en ĉi tiu blogo jam havas tiun adreson. Elektu alian.",
+  "blog.post.save": "Konservu artikolon",
+  "blog.post.unsave": "Forigu el konservitaj artikoloj",
+  "blog.post.save.signIn": "Ensalutu por konservi ĉi tiun artikolon"
 }

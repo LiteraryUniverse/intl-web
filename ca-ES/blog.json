@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Format del text",
   "blog.pages.format.address": "Adreça de l’enllaç",
   "blog.pages.format.apply": "Aplica l’enllaç",
-  "blog.pages.slugTaken": "Una altra pàgina d’aquest blog ja té aquesta adreça. Tria’n una altra."
+  "blog.pages.slugTaken": "Una altra pàgina d’aquest blog ja té aquesta adreça. Tria’n una altra.",
+  "blog.post.save": "Desar article",
+  "blog.post.unsave": "Treure dels articles desats",
+  "blog.post.save.signIn": "Inicia sessió per desar aquest article"
 }

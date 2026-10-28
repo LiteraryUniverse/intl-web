@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Textformatierung",
   "blog.pages.format.address": "Linkadresse",
   "blog.pages.format.apply": "Link übernehmen",
-  "blog.pages.slugTaken": "Eine andere Seite in diesem Blog hat bereits diese Adresse. Wähle eine andere."
+  "blog.pages.slugTaken": "Eine andere Seite in diesem Blog hat bereits diese Adresse. Wähle eine andere.",
+  "blog.post.save": "Artikel speichern",
+  "blog.post.unsave": "Aus gespeicherten Artikeln entfernen",
+  "blog.post.save.signIn": "Melde dich an, um diesen Artikel zu speichern"
 }

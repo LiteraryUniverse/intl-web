@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Metin biçimlendirme",
   "blog.pages.format.address": "Bağlantı adresi",
   "blog.pages.format.apply": "Bağlantıyı uygula",
-  "blog.pages.slugTaken": "Bu blogdaki başka bir sayfa bu adresi kullanıyor. Farklı bir adres seçin."
+  "blog.pages.slugTaken": "Bu blogdaki başka bir sayfa bu adresi kullanıyor. Farklı bir adres seçin.",
+  "blog.post.save": "Yazıyı kaydet",
+  "blog.post.unsave": "Kaydedilen yazılardan kaldır",
+  "blog.post.save.signIn": "Bu yazıyı kaydetmek için giriş yapın"
 }

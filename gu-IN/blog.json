@@ -692,5 +692,8 @@
   "blog.pages.format.label": "ટેક્સ્ટ ફોર્મેટિંગ",
   "blog.pages.format.address": "લિંકનું સરનામું",
   "blog.pages.format.apply": "લિંક લાગુ કરો",
-  "blog.pages.slugTaken": "આ બ્લોગના બીજા પૃષ્ઠનું પણ આ જ સરનામું છે. બીજું સરનામું પસંદ કરો."
+  "blog.pages.slugTaken": "આ બ્લોગના બીજા પૃષ્ઠનું પણ આ જ સરનામું છે. બીજું સરનામું પસંદ કરો.",
+  "blog.post.save": "લેખ સાચવો",
+  "blog.post.unsave": "સાચવેલા લેખોમાંથી દૂર કરો",
+  "blog.post.save.signIn": "આ લેખ સાચવવા માટે લોગઈન કરો"
 }

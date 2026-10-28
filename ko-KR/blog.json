@@ -692,5 +692,8 @@
   "blog.pages.format.label": "텍스트 서식",
   "blog.pages.format.address": "링크 주소",
   "blog.pages.format.apply": "링크 적용",
-  "blog.pages.slugTaken": "이 블로그의 다른 페이지가 이미 이 주소를 사용하고 있습니다. 다른 주소를 선택하세요."
+  "blog.pages.slugTaken": "이 블로그의 다른 페이지가 이미 이 주소를 사용하고 있습니다. 다른 주소를 선택하세요.",
+  "blog.post.save": "글 저장",
+  "blog.post.unsave": "저장한 글에서 삭제",
+  "blog.post.save.signIn": "이 글을 저장하려면 로그인하세요"
 }

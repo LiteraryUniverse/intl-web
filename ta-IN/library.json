@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "உள்ளடக்கத்தைக் கண்டறிய மேலே உள்ள தேடல் படிவத்தைப் பயன்படுத்துங்கள்"
+  "contentSelector.site.prompt": "உள்ளடக்கத்தைக் கண்டறிய மேலே உள்ள தேடல் படிவத்தைப் பயன்படுத்துங்கள்",
+  "library.blogs.writers": "பின்தொடரும் வலைப்பதிவு எழுத்தாளர்கள்",
+  "library.blogs.writersTab": "வலைப்பதிவு எழுத்தாளர்கள்",
+  "library.blogs.writers.empty": "நீங்கள் பின்தொடரும் எழுத்தாளர் வலைப்பதிவைத் தொடங்கும்போது அது இங்கே தோன்றும்.",
+  "library.blogs.saved": "சேமித்த கட்டுரைகள்",
+  "library.blogs.saved.empty": "வலைப்பதிவுப் பதிவில் உள்ள புத்தகக்குறி பொத்தானால் நீங்கள் சேமிக்கும் கட்டுரைகள் இங்கே தோன்றும்.",
+  "library.blogs.saved.locked": "இந்தக் கட்டுரையை அணுகும் உரிமை உங்களுக்கு இனி இல்லை."
 }

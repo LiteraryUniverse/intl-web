@@ -692,5 +692,8 @@
   "blog.pages.format.label": "ტექსტის ფორმატირება",
   "blog.pages.format.address": "ბმულის მისამართი",
   "blog.pages.format.apply": "ბმულის გამოყენება",
-  "blog.pages.slugTaken": "ამ ბლოგზე სხვა გვერდს უკვე აქვს ეს მისამართი. აირჩიეთ სხვა."
+  "blog.pages.slugTaken": "ამ ბლოგზე სხვა გვერდს უკვე აქვს ეს მისამართი. აირჩიეთ სხვა.",
+  "blog.post.save": "სტატიის შენახვა",
+  "blog.post.unsave": "შენახული სტატიებიდან ამოღება",
+  "blog.post.save.signIn": "ამ სტატიის შესანახად შედით სისტემაში"
 }

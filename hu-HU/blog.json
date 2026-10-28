@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Szövegformázás",
   "blog.pages.format.address": "Hivatkozás címe",
   "blog.pages.format.apply": "Hivatkozás alkalmazása",
-  "blog.pages.slugTaken": "A blog egy másik oldala már ezt a címet használja. Válassz másikat."
+  "blog.pages.slugTaken": "A blog egy másik oldala már ezt a címet használja. Válassz másikat.",
+  "blog.post.save": "Cikk mentése",
+  "blog.post.unsave": "Eltávolítás a mentett cikkekből",
+  "blog.post.save.signIn": "Bejelentkezés a cikk mentéséhez"
 }

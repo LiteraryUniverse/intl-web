@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Розглянути том",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Скористайтеся формою пошуку вище, щоб знайти вміст"
+  "contentSelector.site.prompt": "Скористайтеся формою пошуку вище, щоб знайти вміст",
+  "library.blogs.writers": "Відстежувані блоги письменників",
+  "library.blogs.writersTab": "Блоги письменників",
+  "library.blogs.writers.empty": "Коли письменник, за яким ви стежите, започаткує блог, його буде показано тут.",
+  "library.blogs.saved": "Збережені статті",
+  "library.blogs.saved.empty": "Статті, які ви зберігаєте кнопкою закладки в дописі блогу, відображаються тут.",
+  "library.blogs.saved.locked": "Ви більше не маєте доступу до цієї статті."
 }

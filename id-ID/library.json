@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Periksa volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Gunakan formulir pencarian di atas untuk menemukan konten"
+  "contentSelector.site.prompt": "Gunakan formulir pencarian di atas untuk menemukan konten",
+  "library.blogs.writers": "Penulis blog yang diikuti",
+  "library.blogs.writersTab": "Penulis blog",
+  "library.blogs.writers.empty": "Jika penulis yang Anda ikuti memulai blog, blognya akan muncul di sini.",
+  "library.blogs.saved": "Artikel tersimpan",
+  "library.blogs.saved.empty": "Artikel yang Anda simpan dengan tombol bookmark pada tulisan blog akan muncul di sini.",
+  "library.blogs.saved.locked": "Anda tidak lagi memiliki akses ke artikel ini."
 }

@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Prohlédnout svazek",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Obsah vyhledáte pomocí formuláře výše"
+  "contentSelector.site.prompt": "Obsah vyhledáte pomocí formuláře výše",
+  "library.blogs.writers": "Sledovaní autoři blogů",
+  "library.blogs.writersTab": "Autoři blogů",
+  "library.blogs.writers.empty": "Když autor, kterého sledujete, založí blog, objeví se zde.",
+  "library.blogs.saved": "Uložené články",
+  "library.blogs.saved.empty": "Články, které uložíte tlačítkem se záložkou u příspěvku na blogu, se zobrazí zde.",
+  "library.blogs.saved.locked": "K tomuto článku už nemáte přístup."
 }

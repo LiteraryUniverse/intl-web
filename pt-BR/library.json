@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Examinar volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Use o formulário de busca acima para encontrar conteúdo"
+  "contentSelector.site.prompt": "Use o formulário de busca acima para encontrar conteúdo",
+  "library.blogs.writers": "Autores de blog seguidos",
+  "library.blogs.writersTab": "Autores de blog",
+  "library.blogs.writers.empty": "Quando um autor que você segue iniciar um blog, ele aparecerá aqui.",
+  "library.blogs.saved": "Artigos salvos",
+  "library.blogs.saved.empty": "Os artigos que você salva com o botão de favorito em uma publicação do blog aparecem aqui.",
+  "library.blogs.saved.locked": "Você não tem mais acesso a este artigo."
 }

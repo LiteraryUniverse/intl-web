@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "查看這一冊",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "使用上方的搜尋表單尋找內容"
+  "contentSelector.site.prompt": "使用上方的搜尋表單尋找內容",
+  "library.blogs.writers": "已追蹤的部落格作者",
+  "library.blogs.writersTab": "部落格作者",
+  "library.blogs.writers.empty": "當您追蹤的作者開設部落格時，會顯示在這裡。",
+  "library.blogs.saved": "已儲存的文章",
+  "library.blogs.saved.empty": "您使用部落格文章上的書籤按鈕儲存的文章會顯示在這裡。",
+  "library.blogs.saved.locked": "您已無法存取這篇文章。"
 }

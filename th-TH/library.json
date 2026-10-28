@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "ดูรายละเอียดเล่ม",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "ใช้แบบฟอร์มค้นหาด้านบนเพื่อค้นหาเนื้อหา"
+  "contentSelector.site.prompt": "ใช้แบบฟอร์มค้นหาด้านบนเพื่อค้นหาเนื้อหา",
+  "library.blogs.writers": "นักเขียนบล็อกที่ติดตาม",
+  "library.blogs.writersTab": "นักเขียนบล็อก",
+  "library.blogs.writers.empty": "เมื่อนักเขียนที่คุณติดตามเริ่มเขียนบล็อก บล็อกนั้นจะแสดงที่นี่",
+  "library.blogs.saved": "บทความที่บันทึกไว้",
+  "library.blogs.saved.empty": "บทความที่คุณบันทึกด้วยปุ่มบุ๊กมาร์กในโพสต์บล็อกจะแสดงที่นี่",
+  "library.blogs.saved.locked": "คุณไม่มีสิทธิ์เข้าถึงบทความนี้อีกต่อไป"
 }

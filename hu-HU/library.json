@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Kötet megtekintése",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "Tartalom kereséséhez használd a fenti keresőmezőt"
+  "contentSelector.site.prompt": "Tartalom kereséséhez használd a fenti keresőmezőt",
+  "library.blogs.writers": "Követett blogírók",
+  "library.blogs.writersTab": "Blogírók",
+  "library.blogs.writers.empty": "Amikor egy követett író blogot indít, itt jelenik meg.",
+  "library.blogs.saved": "Mentett cikkek",
+  "library.blogs.saved.empty": "A blogbejegyzések könyvjelző gombjával mentett cikkek itt jelennek meg.",
+  "library.blogs.saved.locked": "Ehhez a cikkhez már nincs hozzáférés."
 }

@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Tekstformatering",
   "blog.pages.format.address": "Linkadresse",
   "blog.pages.format.apply": "Anvend link",
-  "blog.pages.slugTaken": "En anden side på denne blog har allerede den adresse. Vælg en anden."
+  "blog.pages.slugTaken": "En anden side på denne blog har allerede den adresse. Vælg en anden.",
+  "blog.post.save": "Gem artikel",
+  "blog.post.unsave": "Fjern fra gemte artikler",
+  "blog.post.save.signIn": "Log ind for at gemme denne artikel"
 }

@@ -692,5 +692,8 @@
   "blog.pages.format.label": "Tekstin muotoilu",
   "blog.pages.format.address": "Linkin osoite",
   "blog.pages.format.apply": "Käytä linkkiä",
-  "blog.pages.slugTaken": "Toisella tämän blogin sivulla on jo tämä osoite. Valitse toinen."
+  "blog.pages.slugTaken": "Toisella tämän blogin sivulla on jo tämä osoite. Valitse toinen.",
+  "blog.post.save": "Tallenna artikkeli",
+  "blog.post.unsave": "Poista tallennetuista artikkeleista",
+  "blog.post.save.signIn": "Kirjaudu sisään tallentaaksesi tämän artikkelin"
 }

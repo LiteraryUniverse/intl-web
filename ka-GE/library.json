@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "შინაარსის მოსაძებნად გამოიყენეთ ზემოთ მოცემული საძიებო ფორმა"
+  "contentSelector.site.prompt": "შინაარსის მოსაძებნად გამოიყენეთ ზემოთ მოცემული საძიებო ფორმა",
+  "library.blogs.writers": "გამოწერილი ბლოგის ავტორები",
+  "library.blogs.writersTab": "ბლოგის ავტორები",
+  "library.blogs.writers.empty": "როცა თქვენ მიერ გამოწერილი ავტორი ბლოგს დაიწყებს, ის აქ გამოჩნდება.",
+  "library.blogs.saved": "შენახული სტატიები",
+  "library.blogs.saved.empty": "სტატიები, რომლებსაც ბლოგის პოსტზე სანიშნის ღილაკით შეინახავთ, აქ გამოჩნდება.",
+  "library.blogs.saved.locked": "ამ სტატიაზე წვდომა თქვენ აღარ გაქვთ."
 }

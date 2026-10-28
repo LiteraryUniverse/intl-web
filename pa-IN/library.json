@@ -31,5 +31,11 @@
   "library.shelf3d.inspectVolume": "Inspect volume",
   "library.shelf3d.inspectBy": "Inspect {title} by {author}",
   "library.shelf3d.inspect": "Inspect {title}",
-  "contentSelector.site.prompt": "ਸਮੱਗਰੀ ਲੱਭਣ ਲਈ ਉੱਪਰਲਾ ਖੋਜ ਫਾਰਮ ਵਰਤੋ"
+  "contentSelector.site.prompt": "ਸਮੱਗਰੀ ਲੱਭਣ ਲਈ ਉੱਪਰਲਾ ਖੋਜ ਫਾਰਮ ਵਰਤੋ",
+  "library.blogs.writers": "ਫਾਲੋ ਕੀਤੇ ਬਲਾਗ ਲੇਖਕ",
+  "library.blogs.writersTab": "ਬਲਾਗ ਲੇਖਕ",
+  "library.blogs.writers.empty": "ਜਦੋਂ ਤੁਹਾਡਾ ਫਾਲੋ ਕੀਤਾ ਲੇਖਕ ਬਲਾਗ ਸ਼ੁਰੂ ਕਰੇਗਾ, ਉਹ ਇੱਥੇ ਦਿਖਾਈ ਦੇਵੇਗਾ।",
+  "library.blogs.saved": "ਸੰਭਾਲੇ ਹੋਏ ਲੇਖ",
+  "library.blogs.saved.empty": "ਬਲਾਗ ਪੋਸਟ ਦੇ ਬੁੱਕਮਾਰਕ ਬਟਨ ਨਾਲ ਤੁਸੀਂ ਜੋ ਲੇਖ ਸੰਭਾਲਦੇ ਹੋ, ਉਹ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੇ।",
+  "library.blogs.saved.locked": "ਹੁਣ ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਲੇਖ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੈ।"
 }
