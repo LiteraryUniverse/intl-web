@@ -1181,6 +1181,8 @@
   "workshop.ai.discrepancy.label": "Discrepancy",
   "workshop.ai.discrepancy.entrySays": "The entry says",
   "workshop.ai.discrepancy.chapterSays": "{story}, chapter {chapter} says",
+  "workshop.ai.usage.title": "Your AI spend in this universe this month",
+  "workshop.ai.usage.total": "{amount} over {calls, plural, one {# call} other {# calls}}. Only your own usage is shown; collaborators see theirs.",
   "workshop.documents.words": "{count, plural, one {# word} other {# words}}",
   "workshop.documents.import.title": "Import a file",
   "workshop.documents.import.help": "Word, Markdown, text and HTML files are supported. Heading 1 splits the file into separate documents kept together in a folder. Up to {size} MB, {parts} documents per file and {chars} characters per document.",
