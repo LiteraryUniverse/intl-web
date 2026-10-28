@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "개인 메시지의 최대 수신자 수",
   "plans.limits.shareBackgrounds": "유니버스별 맞춤 공유 카드 배경",
   "plans.limits.blogPages": "블로그별 맞춤 페이지",
-  "plans.limits.aiMonthlyUsd": "월간 AI 사용 한도(USD)",
+  "plans.limits.aiMonthlyUsd": "월간 AI 사용 한도",
   "plans.feature.creative": "멋진 우주와 이야기를 만들어보세요",
   "plans.feature.encCustomFields": "항목의 사용자 정의 가능한 백과사전 필드",
   "plans.feature.encAdvCategories": "더 많은 백과사전 카테고리",

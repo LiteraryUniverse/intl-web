@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "# maximum de destinataires pour les messages privés",
   "plans.limits.shareBackgrounds": "Arrière-plans personnalisés des cartes de partage par univers",
   "plans.limits.blogPages": "Pages personnalisées par blog",
-  "plans.limits.aiMonthlyUsd": "Quota mensuel d'utilisation de l'IA (USD)",
+  "plans.limits.aiMonthlyUsd": "Quota mensuel d'utilisation de l'IA",
   "plans.feature.creative": "Créez des univers et des histoires incroyables",
   "plans.feature.encCustomFields": "Champs d'encyclopédie personnalisables sur une entrée",
   "plans.feature.encAdvCategories": "Plus de catégories d'encyclopédie",

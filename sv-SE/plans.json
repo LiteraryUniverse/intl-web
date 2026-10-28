@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "Maximalt antal mottagare för privata meddelanden",
   "plans.limits.shareBackgrounds": "Anpassade bakgrunder för delningskort per universum",
   "plans.limits.blogPages": "Anpassade sidor per blogg",
-  "plans.limits.aiMonthlyUsd": "Månatlig AI-användningskvot (USD)",
+  "plans.limits.aiMonthlyUsd": "Månatlig AI-användningskvot",
   "plans.feature.creative": "Skapa fantastiska universum och berättelser",
   "plans.feature.encCustomFields": "Anpassningsbara fält i encyklopediinlägg",
   "plans.feature.encAdvCategories": "Fler encyklopedikategorier",

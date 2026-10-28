@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "Maksimi vastaanottajien määrä yksityisessä viestissä",
   "plans.limits.shareBackgrounds": "Mukautetut jakokorttien taustat universumikohtaisesti",
   "plans.limits.blogPages": "Mukautetut sivut blogia kohden",
-  "plans.limits.aiMonthlyUsd": "Kuukausittainen tekoälykiintiö (USD)",
+  "plans.limits.aiMonthlyUsd": "Kuukausittainen tekoälykiintiö",
   "plans.feature.creative": "Luo upeita universumeja ja tarinoita",
   "plans.feature.encCustomFields": "Mukautettavat tietokentät ensyklopedian artikkelissa",
   "plans.feature.encAdvCategories": "Enemmän enyklopedia-kategorioita",

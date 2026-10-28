@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "Maximale Anzahl von Empfängern für private Nachricht",
   "plans.limits.shareBackgrounds": "Eigene Hintergründe für Teilen-Karten pro Universum",
   "plans.limits.blogPages": "Eigene Seiten pro Blog",
-  "plans.limits.aiMonthlyUsd": "Monatliches KI-Nutzungskontingent (USD)",
+  "plans.limits.aiMonthlyUsd": "Monatliches KI-Nutzungskontingent",
   "plans.feature.creative": "Erschaffe erstaunliche Universen und Geschichten",
   "plans.feature.encCustomFields": "Anpassbare Enzyklopädie-Felder eines Eintrags",
   "plans.feature.encAdvCategories": "Weitere Enzyklopädie-Kategorien",

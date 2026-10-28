@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "Максимальное количество получателей для личных сообщений",
   "plans.limits.shareBackgrounds": "Собственные фоны карточек «Поделиться» для каждой вселенной",
   "plans.limits.blogPages": "Собственные страницы в блоге",
-  "plans.limits.aiMonthlyUsd": "Ежемесячный лимит ИИ (USD)",
+  "plans.limits.aiMonthlyUsd": "Ежемесячный лимит ИИ",
   "plans.feature.creative": "Создавайте удивительные миры и истории",
   "plans.feature.encCustomFields": "Настраиваемые поля энциклопедии в записи",
   "plans.feature.encAdvCategories": "Больше категорий энциклопедии",

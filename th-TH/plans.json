@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "จำนวนสูงสุดของผู้รับข้อความส่วนตัว",
   "plans.limits.shareBackgrounds": "พื้นหลังการ์ดแชร์แบบกำหนดเองต่อจักรวาล",
   "plans.limits.blogPages": "หน้าแบบกำหนดเองต่อบล็อก",
-  "plans.limits.aiMonthlyUsd": "โควตาการใช้งาน AI รายเดือน (USD)",
+  "plans.limits.aiMonthlyUsd": "โควตาการใช้งาน AI รายเดือน",
   "plans.feature.creative": "สร้างจักรวาลและเรื่องราวที่น่าทึ่ง",
   "plans.feature.encCustomFields": "ฟิลด์สารานุกรมที่กำหนดเองบนรายการ",
   "plans.feature.encAdvCategories": "หมวดหมู่สารานุกรมเพิ่มเติม",

@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "私人訊息的最大收件人數",
   "plans.limits.shareBackgrounds": "每個宇宙的自訂分享卡片背景",
   "plans.limits.blogPages": "每個部落格的自訂頁面",
-  "plans.limits.aiMonthlyUsd": "每月 AI 用量額度（美元）",
+  "plans.limits.aiMonthlyUsd": "每月 AI 用量額度",
   "plans.feature.creative": "創建令人驚嘆的宇宙和故事",
   "plans.feature.encCustomFields": "條目上的可自定義百科全書字段",
   "plans.feature.encAdvCategories": "更多百科全書分類",

@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "Maximum # of recipients for private message",
   "plans.limits.shareBackgrounds": "ഓരോ ബ്രഹ്മാണ്ഡത്തിനും ഇഷ്ടാനുസൃത പങ്കിടൽ കാർഡ് പശ്ചാത്തലങ്ങൾ",
   "plans.limits.blogPages": "ഓരോ ബ്ലോഗിനും ഇഷ്ടാനുസൃത പേജുകൾ",
-  "plans.limits.aiMonthlyUsd": "പ്രതിമാസ AI ഉപയോഗ വിഹിതം (USD)",
+  "plans.limits.aiMonthlyUsd": "പ്രതിമാസ AI ഉപയോഗ വിഹിതം",
   "plans.feature.creative": "Create amazing universes and stories",
   "plans.feature.encCustomFields": "Customizable encyclopedia fields on an entry",
   "plans.feature.encAdvCategories": "More encyclopedia categories",

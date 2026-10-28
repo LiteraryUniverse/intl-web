@@ -34,7 +34,7 @@
   "plans.limits.pmChats": "Maksimaalne saajate arv privaatsõnumi kohta",
   "plans.limits.shareBackgrounds": "Kohandatud jagamiskaartide taustad universumi kohta",
   "plans.limits.blogPages": "Kohandatud lehed blogi kohta",
-  "plans.limits.aiMonthlyUsd": "Igakuine AI-kasutuse limiit (USD)",
+  "plans.limits.aiMonthlyUsd": "Igakuine AI-kasutuse limiit",
   "plans.feature.creative": "Loo hämmastavaid universumeid ja lugusid",
   "plans.feature.encCustomFields": "Kohandatavad entsüklopeedia väljad kirjel",
   "plans.feature.encAdvCategories": "Rohkem entsüklopeedia kategooriaid",
