@@ -70,5 +70,10 @@
   "timelines.invalidDate": "ଏହି ତାରିଖ ସମୟରେଖାର ତାରିଖ ସହ ମେଳ ଖାଉନାହିଁ।",
   "timelines.invalidEntry": "ଯୋଡ଼ାଯାଇଥିବା ପ୍ରବିଷ୍ଟିଗୁଡ଼ିକ ଏହି ବିଶ୍ବର ବିଶ୍ୱକୋଷରେ ଥିବା ଆବଶ୍ୟକ।",
   "timelines.invalidStory": "ଯୋଡ଼ାଯାଇଥିବା କାହାଣୀଗୁଡ଼ିକ ଏହି ବିଶ୍ବର ହେବା ଆବଶ୍ୟକ।",
-  "timelines.notCustom": "କେବଳ ନିଜ ଲେବଲ୍ ଥିବା ସମୟରେଖାଗୁଡ଼ିକ ହାତରେ କ୍ରମବଦ୍ଧ କରାଯାଏ।"
+  "timelines.notCustom": "କେବଳ ନିଜ ଲେବଲ୍ ଥିବା ସମୟରେଖାଗୁଡ଼ିକ ହାତରେ କ୍ରମବଦ୍ଧ କରାଯାଏ।",
+  "timelines.widget.intro": "ପରିଚୟ",
+  "timelines.widget.card": "ସମୟରେଖା କାର୍ଡ",
+  "timelines.widget.listHint": "ବିଶ୍ବର ପ୍ରକାଶିତ ସମୟରେଖାଗୁଡ଼ିକ ଏଠାରେ ଦେଖାଯିବ।",
+  "timelines.widget.cardHint": "ଏହାର କାର୍ଡ ଦେଖାଇବାକୁ ଏକ ସମୟରେଖା ବାଛନ୍ତୁ।",
+  "timelines.widget.fullHint": "ଏହାର ସମସ୍ତ ଘଟଣା ଦେଖାଇବାକୁ ଏକ ସମୟରେଖା ବାଛନ୍ତୁ।"
 }

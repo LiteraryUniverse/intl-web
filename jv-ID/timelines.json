@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Tanggal iki ora cocog karo tanggal garis wektu.",
   "timelines.invalidEntry": "Entri sing digandhengake kudu ana ing ensiklopedia jagad iki.",
   "timelines.invalidStory": "Crita sing digandhengake kudu ana ing jagad iki.",
-  "timelines.notCustom": "Mung garis wektu nganggo label dhewe sing diurutake manual."
+  "timelines.notCustom": "Mung garis wektu nganggo label dhewe sing diurutake manual.",
+  "timelines.widget.intro": "Pambuka",
+  "timelines.widget.card": "Kertu garis wektu",
+  "timelines.widget.listHint": "Garis wektu jagad sing wis diterbitake katon ing kene.",
+  "timelines.widget.cardHint": "Pilih garis wektu kanggo nampilake kertune.",
+  "timelines.widget.fullHint": "Pilih garis wektu kanggo nampilake kabeh kedadeyane."
 }

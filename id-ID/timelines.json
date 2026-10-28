@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Tanggal ini tidak sesuai dengan tanggal linimasa.",
   "timelines.invalidEntry": "Entri tertaut harus berada di ensiklopedia universe ini.",
   "timelines.invalidStory": "Cerita tertaut harus berada di universe ini.",
-  "timelines.notCustom": "Hanya linimasa dengan label khusus yang diurutkan manual."
+  "timelines.notCustom": "Hanya linimasa dengan label khusus yang diurutkan manual.",
+  "timelines.widget.intro": "Pengantar",
+  "timelines.widget.card": "Kartu linimasa",
+  "timelines.widget.listHint": "Linimasa semesta yang sudah diterbitkan muncul di sini.",
+  "timelines.widget.cardHint": "Pilih linimasa untuk menampilkan kartunya.",
+  "timelines.widget.fullHint": "Pilih linimasa untuk menampilkan semua peristiwanya."
 }

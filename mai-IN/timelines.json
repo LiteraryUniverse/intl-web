@@ -70,5 +70,10 @@
   "timelines.invalidDate": "ई तारीख समयरेखाक तारीखसँ मेल नहि खाइत अछि।",
   "timelines.invalidEntry": "जोड़ल गेल प्रविष्टि एहि ब्रह्माण्डक ज्ञानकोषमे होएबाक चाही।",
   "timelines.invalidStory": "जोड़ल गेल कथा एहि ब्रह्माण्डक होएबाक चाही।",
-  "timelines.notCustom": "केवल अपन लेबल बला समयरेखा हाथसँ क्रमबद्ध कएल जाइत अछि।"
+  "timelines.notCustom": "केवल अपन लेबल बला समयरेखा हाथसँ क्रमबद्ध कएल जाइत अछि।",
+  "timelines.widget.intro": "परिचय",
+  "timelines.widget.card": "समयरेखा कार्ड",
+  "timelines.widget.listHint": "ब्रह्माण्डक प्रकाशित समयरेखा सभ एतय देखाइत अछि।",
+  "timelines.widget.cardHint": "एकर कार्ड देखेबाक लेल समयरेखा चुनू।",
+  "timelines.widget.fullHint": "एकर सभ घटना देखेबाक लेल समयरेखा चुनू।"
 }

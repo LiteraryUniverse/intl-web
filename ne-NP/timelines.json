@@ -70,5 +70,10 @@
   "timelines.invalidDate": "यो मिति समयरेखाका मितिहरूसँग मेल खाँदैन।",
   "timelines.invalidEntry": "जोडिएका प्रविष्टिहरू यस ब्रह्माण्डको ज्ञानकोशमा हुनुपर्छ।",
   "timelines.invalidStory": "जोडिएका कथाहरू यस ब्रह्माण्डका हुनुपर्छ।",
-  "timelines.notCustom": "आफ्नै लेबल भएका समयरेखाहरू मात्र हातैले क्रमबद्ध गरिन्छन्।"
+  "timelines.notCustom": "आफ्नै लेबल भएका समयरेखाहरू मात्र हातैले क्रमबद्ध गरिन्छन्।",
+  "timelines.widget.intro": "परिचय",
+  "timelines.widget.card": "समयरेखा कार्ड",
+  "timelines.widget.listHint": "ब्रह्माण्डका प्रकाशित समयरेखाहरू यहाँ देखिन्छन्।",
+  "timelines.widget.cardHint": "यसको कार्ड देखाउन समयरेखा छान्नुहोस्।",
+  "timelines.widget.fullHint": "यसका सबै घटनाहरू देखाउन समयरेखा छान्नुहोस्।"
 }

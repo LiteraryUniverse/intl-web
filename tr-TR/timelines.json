@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Bu tarih, zaman çizelgesinin tarihlerine uymuyor.",
   "timelines.invalidEntry": "Bağlantılı girişler bu evrenin ansiklopedisinde olmalıdır.",
   "timelines.invalidStory": "Bağlantılı hikayeler bu evrende olmalıdır.",
-  "timelines.notCustom": "Yalnızca özel etiketli zaman çizelgeleri elle sıralanır."
+  "timelines.notCustom": "Yalnızca özel etiketli zaman çizelgeleri elle sıralanır.",
+  "timelines.widget.intro": "Giriş",
+  "timelines.widget.card": "Zaman çizelgesi kartı",
+  "timelines.widget.listHint": "Evrenin yayınlanan zaman çizelgeleri burada görünür.",
+  "timelines.widget.cardHint": "Kartını göstermek için bir zaman çizelgesi seçin.",
+  "timelines.widget.fullHint": "Tüm olaylarını göstermek için bir zaman çizelgesi seçin."
 }

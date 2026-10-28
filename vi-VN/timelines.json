@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Ngày này không khớp với kiểu ngày của dòng thời gian.",
   "timelines.invalidEntry": "Các mục được liên kết phải thuộc bách khoa toàn thư của vũ trụ này.",
   "timelines.invalidStory": "Các câu chuyện được liên kết phải thuộc vũ trụ này.",
-  "timelines.notCustom": "Chỉ dòng thời gian dùng nhãn tùy chỉnh mới được sắp xếp thủ công."
+  "timelines.notCustom": "Chỉ dòng thời gian dùng nhãn tùy chỉnh mới được sắp xếp thủ công.",
+  "timelines.widget.intro": "Lời giới thiệu",
+  "timelines.widget.card": "Thẻ dòng thời gian",
+  "timelines.widget.listHint": "Các dòng thời gian đã xuất bản của vũ trụ sẽ hiển thị ở đây.",
+  "timelines.widget.cardHint": "Chọn một dòng thời gian để hiển thị thẻ của nó.",
+  "timelines.widget.fullHint": "Chọn một dòng thời gian để hiển thị tất cả sự kiện của nó."
 }

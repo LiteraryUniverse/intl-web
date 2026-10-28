@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Toto datum neodpovídá datům časové osy.",
   "timelines.invalidEntry": "Propojené záznamy musí být v encyklopedii tohoto vesmíru.",
   "timelines.invalidStory": "Propojené příběhy musí patřit do tohoto vesmíru.",
-  "timelines.notCustom": "Ručně se řadí jen časové osy s vlastními popisky."
+  "timelines.notCustom": "Ručně se řadí jen časové osy s vlastními popisky.",
+  "timelines.widget.intro": "Úvod",
+  "timelines.widget.card": "Karta časové osy",
+  "timelines.widget.listHint": "Zde se zobrazí zveřejněné časové osy vesmíru.",
+  "timelines.widget.cardHint": "Vyberte časovou osu a zobrazí se její karta.",
+  "timelines.widget.fullHint": "Vyberte časovou osu a zobrazí se všechny její události."
 }

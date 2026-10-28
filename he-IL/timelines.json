@@ -70,5 +70,10 @@
   "timelines.invalidDate": "התאריך הזה אינו מתאים לתאריכים של ציר הזמן.",
   "timelines.invalidEntry": "ערכים מקושרים חייבים להיות באנציקלופדיה של היקום הזה.",
   "timelines.invalidStory": "סיפורים מקושרים חייבים להיות ביקום הזה.",
-  "timelines.notCustom": "רק צירים זמניים עם תוויות מותאמות אישית מסודרים ידנית."
+  "timelines.notCustom": "רק צירים זמניים עם תוויות מותאמות אישית מסודרים ידנית.",
+  "timelines.widget.intro": "מבוא",
+  "timelines.widget.card": "כרטיס ציר זמן",
+  "timelines.widget.listHint": "צירי הזמן שפורסמו ביקום מופיעים כאן.",
+  "timelines.widget.cardHint": "יש לבחור ציר זמן כדי להציג את הכרטיס שלו.",
+  "timelines.widget.fullHint": "יש לבחור ציר זמן כדי להציג את כל האירועים שלו."
 }

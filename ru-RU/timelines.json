@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Эта дата не подходит к датам ленты.",
   "timelines.invalidEntry": "Связанные записи должны быть в энциклопедии этой вселенной.",
   "timelines.invalidStory": "Связанные истории должны принадлежать этой вселенной.",
-  "timelines.notCustom": "Вручную упорядочиваются только ленты с собственными метками."
+  "timelines.notCustom": "Вручную упорядочиваются только ленты с собственными метками.",
+  "timelines.widget.intro": "Вступление",
+  "timelines.widget.card": "Карточка ленты",
+  "timelines.widget.listHint": "Здесь появляются опубликованные ленты вселенной.",
+  "timelines.widget.cardHint": "Выберите ленту, чтобы показать её карточку.",
+  "timelines.widget.fullHint": "Выберите ленту, чтобы показать все её события."
 }

@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Hierdie datum pas nie by die tydlyn se datums nie.",
   "timelines.invalidEntry": "Gekoppelde inskrywings moet in hierdie heelal se ensiklopedie wees.",
   "timelines.invalidStory": "Gekoppelde stories moet in hierdie heelal wees.",
-  "timelines.notCustom": "Slegs tydlyne met eie etikette word met die hand gerangskik."
+  "timelines.notCustom": "Slegs tydlyne met eie etikette word met die hand gerangskik.",
+  "timelines.widget.intro": "Inleiding",
+  "timelines.widget.card": "Tydlynkaart",
+  "timelines.widget.listHint": "Die heelal se gepubliseerde tydlyne verskyn hier.",
+  "timelines.widget.cardHint": "Kies 'n tydlyn om sy kaart te wys.",
+  "timelines.widget.fullHint": "Kies 'n tydlyn om al sy gebeure te wys."
 }

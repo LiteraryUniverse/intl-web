@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Questa data non è compatibile con le date della linea temporale.",
   "timelines.invalidEntry": "Le voci collegate devono appartenere all'enciclopedia di questo universo.",
   "timelines.invalidStory": "Le storie collegate devono appartenere a questo universo.",
-  "timelines.notCustom": "Solo le linee temporali con etichette personalizzate si ordinano a mano."
+  "timelines.notCustom": "Solo le linee temporali con etichette personalizzate si ordinano a mano.",
+  "timelines.widget.intro": "Introduzione",
+  "timelines.widget.card": "Scheda della linea temporale",
+  "timelines.widget.listHint": "Qui compaiono le linee temporali pubblicate dell'universo.",
+  "timelines.widget.cardHint": "Scegli una linea temporale per mostrarne la scheda.",
+  "timelines.widget.fullHint": "Scegli una linea temporale per mostrarne tutti gli eventi."
 }

@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Cette date ne correspond pas aux dates de la chronologie.",
   "timelines.invalidEntry": "Les entrées liées doivent appartenir à l'encyclopédie de cet univers.",
   "timelines.invalidStory": "Les histoires liées doivent appartenir à cet univers.",
-  "timelines.notCustom": "Seules les chronologies à libellés personnalisés se classent à la main."
+  "timelines.notCustom": "Seules les chronologies à libellés personnalisés se classent à la main.",
+  "timelines.widget.intro": "Introduction",
+  "timelines.widget.card": "Carte de chronologie",
+  "timelines.widget.listHint": "Les chronologies publiées de l'univers apparaissent ici.",
+  "timelines.widget.cardHint": "Choisissez une chronologie pour afficher sa carte.",
+  "timelines.widget.fullHint": "Choisissez une chronologie pour afficher tous ses événements."
 }

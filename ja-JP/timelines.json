@@ -70,5 +70,10 @@
   "timelines.invalidDate": "この日付はタイムラインの日付の種類に合いません。",
   "timelines.invalidEntry": "リンクする項目は、この宇宙の百科事典のものである必要があります。",
   "timelines.invalidStory": "リンクする物語は、この宇宙のものである必要があります。",
-  "timelines.notCustom": "手動で並べ替えられるのは、独自のラベルを使うタイムラインだけです。"
+  "timelines.notCustom": "手動で並べ替えられるのは、独自のラベルを使うタイムラインだけです。",
+  "timelines.widget.intro": "紹介文",
+  "timelines.widget.card": "タイムラインカード",
+  "timelines.widget.listHint": "この宇宙の公開済みタイムラインがここに表示されます。",
+  "timelines.widget.cardHint": "タイムラインを選択すると、そのカードが表示されます。",
+  "timelines.widget.fullHint": "タイムラインを選択すると、そのすべての出来事が表示されます。"
 }

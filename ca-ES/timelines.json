@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Aquesta data no encaixa amb les dates de la línia temporal.",
   "timelines.invalidEntry": "Les entrades enllaçades han de ser a l'enciclopèdia d'aquest univers.",
   "timelines.invalidStory": "Les històries enllaçades han de ser d'aquest univers.",
-  "timelines.notCustom": "Només les línies temporals amb etiquetes pròpies s'ordenen a mà."
+  "timelines.notCustom": "Només les línies temporals amb etiquetes pròpies s'ordenen a mà.",
+  "timelines.widget.intro": "Introducció",
+  "timelines.widget.card": "Targeta de la línia temporal",
+  "timelines.widget.listHint": "Aquí apareixen les línies temporals publicades de l'univers.",
+  "timelines.widget.cardHint": "Tria una línia temporal per mostrar-ne la targeta.",
+  "timelines.widget.fullHint": "Tria una línia temporal per mostrar-ne tots els esdeveniments."
 }

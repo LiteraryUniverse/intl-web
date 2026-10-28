@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Deze datum past niet bij de datums van de tijdlijn.",
   "timelines.invalidEntry": "Gekoppelde items moeten in de encyclopedie van dit universum staan.",
   "timelines.invalidStory": "Gekoppelde verhalen moeten bij dit universum horen.",
-  "timelines.notCustom": "Alleen tijdlijnen met eigen labels worden handmatig geordend."
+  "timelines.notCustom": "Alleen tijdlijnen met eigen labels worden handmatig geordend.",
+  "timelines.widget.intro": "Inleiding",
+  "timelines.widget.card": "Tijdlijnkaart",
+  "timelines.widget.listHint": "Hier verschijnen de gepubliceerde tijdlijnen van het universum.",
+  "timelines.widget.cardHint": "Kies een tijdlijn om de kaart ervan te tonen.",
+  "timelines.widget.fullHint": "Kies een tijdlijn om alle gebeurtenissen ervan te tonen."
 }

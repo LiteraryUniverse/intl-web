@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Ĉi tiu dato ne kongruas kun la datoj de la tempolinio.",
   "timelines.invalidEntry": "Ligitaj eniroj devas esti en la enciklopedio de ĉi tiu universo.",
   "timelines.invalidStory": "Ligitaj rakontoj devas esti en ĉi tiu universo.",
-  "timelines.notCustom": "Nur tempolinioj kun propraj etikedoj estas ordigataj permane."
+  "timelines.notCustom": "Nur tempolinioj kun propraj etikedoj estas ordigataj permane.",
+  "timelines.widget.intro": "Enkonduko",
+  "timelines.widget.card": "Tempolinia karto",
+  "timelines.widget.listHint": "Ĉi tie aperas la publikigitaj tempolinioj de la universo.",
+  "timelines.widget.cardHint": "Elektu tempolinion por montri ĝian karton.",
+  "timelines.widget.fullHint": "Elektu tempolinion por montri ĉiujn ĝiajn eventojn."
 }

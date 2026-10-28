@@ -70,5 +70,10 @@
   "timelines.invalidDate": "यह तिथि टाइमलाइन की तिथियों से मेल नहीं खाती।",
   "timelines.invalidEntry": "जुड़ी हुई प्रविष्टियाँ इस ब्रह्मांड के ज्ञानकोश में होनी चाहिए।",
   "timelines.invalidStory": "जुड़ी हुई कहानियाँ इस ब्रह्मांड में होनी चाहिए।",
-  "timelines.notCustom": "केवल कस्टम लेबल वाली टाइमलाइन ही हाथ से क्रमबद्ध की जाती हैं।"
+  "timelines.notCustom": "केवल कस्टम लेबल वाली टाइमलाइन ही हाथ से क्रमबद्ध की जाती हैं।",
+  "timelines.widget.intro": "परिचय",
+  "timelines.widget.card": "टाइमलाइन कार्ड",
+  "timelines.widget.listHint": "ब्रह्मांड की प्रकाशित टाइमलाइनें यहाँ दिखाई देती हैं।",
+  "timelines.widget.cardHint": "उसका कार्ड दिखाने के लिए एक टाइमलाइन चुनें।",
+  "timelines.widget.fullHint": "उसकी सभी घटनाएँ दिखाने के लिए एक टाइमलाइन चुनें।"
 }

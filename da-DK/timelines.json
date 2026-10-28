@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Denne dato passer ikke til tidslinjens datoer.",
   "timelines.invalidEntry": "Tilknyttede poster skal høre til encyklopædien i dette univers.",
   "timelines.invalidStory": "Tilknyttede historier skal høre til dette univers.",
-  "timelines.notCustom": "Kun tidslinjer med egne etiketter sorteres manuelt."
+  "timelines.notCustom": "Kun tidslinjer med egne etiketter sorteres manuelt.",
+  "timelines.widget.intro": "Introduktion",
+  "timelines.widget.card": "Tidslinjekort",
+  "timelines.widget.listHint": "Universets udgivne tidslinjer vises her.",
+  "timelines.widget.cardHint": "Vælg en tidslinje for at vise dens kort.",
+  "timelines.widget.fullHint": "Vælg en tidslinje for at vise alle dens begivenheder."
 }

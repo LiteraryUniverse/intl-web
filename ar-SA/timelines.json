@@ -70,5 +70,10 @@
   "timelines.invalidDate": "هذا التاريخ لا يتوافق مع تواريخ الجدول الزمني.",
   "timelines.invalidEntry": "يجب أن تكون المدخلات المرتبطة في موسوعة هذا الكون.",
   "timelines.invalidStory": "يجب أن تكون القصص المرتبطة في هذا الكون.",
-  "timelines.notCustom": "تُرتب يدويًا الجداول الزمنية ذات التسميات المخصصة فقط."
+  "timelines.notCustom": "تُرتب يدويًا الجداول الزمنية ذات التسميات المخصصة فقط.",
+  "timelines.widget.intro": "مقدمة",
+  "timelines.widget.card": "بطاقة الجدول الزمني",
+  "timelines.widget.listHint": "تظهر هنا الجداول الزمنية المنشورة لهذا الكون.",
+  "timelines.widget.cardHint": "اختر جدولًا زمنيًا لعرض بطاقته.",
+  "timelines.widget.fullHint": "اختر جدولًا زمنيًا لعرض جميع أحداثه."
 }

@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Această dată nu se potrivește cu datele liniei de timp.",
   "timelines.invalidEntry": "Intrările asociate trebuie să fie în enciclopedia acestui univers.",
   "timelines.invalidStory": "Poveștile asociate trebuie să facă parte din acest univers.",
-  "timelines.notCustom": "Doar liniile de timp cu etichete proprii se ordonează manual."
+  "timelines.notCustom": "Doar liniile de timp cu etichete proprii se ordonează manual.",
+  "timelines.widget.intro": "Introducere",
+  "timelines.widget.card": "Cardul liniei de timp",
+  "timelines.widget.listHint": "Aici apar liniile de timp publicate ale universului.",
+  "timelines.widget.cardHint": "Alege o linie de timp pentru a-i afișa cardul.",
+  "timelines.widget.fullHint": "Alege o linie de timp pentru a-i afișa toate evenimentele."
 }

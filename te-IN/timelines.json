@@ -70,5 +70,10 @@
   "timelines.invalidDate": "ఈ తేదీ కాలరేఖ తేదీలకు సరిపోదు.",
   "timelines.invalidEntry": "లింక్ చేసిన ఎంట్రీలు ఈ యూనివర్స్ విజ్ఞానకోశంలో ఉండాలి.",
   "timelines.invalidStory": "లింక్ చేసిన కథలు ఈ యూనివర్స్‌లో ఉండాలి.",
-  "timelines.notCustom": "అనుకూల లేబుల్‌లు ఉన్న కాలరేఖలను మాత్రమే చేతితో క్రమపరచవచ్చు."
+  "timelines.notCustom": "అనుకూల లేబుల్‌లు ఉన్న కాలరేఖలను మాత్రమే చేతితో క్రమపరచవచ్చు.",
+  "timelines.widget.intro": "పరిచయం",
+  "timelines.widget.card": "కాలరేఖ కార్డు",
+  "timelines.widget.listHint": "యూనివర్స్‌లో ప్రచురించిన కాలరేఖలు ఇక్కడ కనిపిస్తాయి.",
+  "timelines.widget.cardHint": "దాని కార్డును చూపడానికి ఒక కాలరేఖను ఎంచుకోండి.",
+  "timelines.widget.fullHint": "దాని అన్ని సంఘటనలను చూపడానికి ఒక కాలరేఖను ఎంచుకోండి."
 }

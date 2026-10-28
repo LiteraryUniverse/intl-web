@@ -70,5 +70,10 @@
   "timelines.invalidDate": "এই তাৰিখ সময়ৰেখাৰ তাৰিখৰ সৈতে নিমিলে।",
   "timelines.invalidEntry": "সংযুক্ত এণ্ট্ৰিবোৰ এই ব্ৰহ্মাণ্ডৰ বিশ্বকোষত থাকিব লাগিব।",
   "timelines.invalidStory": "সংযুক্ত গল্পবোৰ এই ব্ৰহ্মাণ্ডত থাকিব লাগিব।",
-  "timelines.notCustom": "কেৱল নিজৰ লেবেল থকা সময়ৰেখাহে হাতেৰে ক্ৰম কৰা হয়।"
+  "timelines.notCustom": "কেৱল নিজৰ লেবেল থকা সময়ৰেখাহে হাতেৰে ক্ৰম কৰা হয়।",
+  "timelines.widget.intro": "ভূমিকা",
+  "timelines.widget.card": "সময়ৰেখাৰ কাৰ্ড",
+  "timelines.widget.listHint": "ব্ৰহ্মাণ্ডৰ প্ৰকাশিত সময়ৰেখাসমূহ ইয়াত দেখা যাব।",
+  "timelines.widget.cardHint": "কাৰ্ড দেখুৱাবলৈ এডাল সময়ৰেখা বাছক।",
+  "timelines.widget.fullHint": "ইয়াৰ সকলো ঘটনা দেখুৱাবলৈ এডাল সময়ৰেখা বাছক।"
 }

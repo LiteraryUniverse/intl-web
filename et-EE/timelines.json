@@ -70,5 +70,10 @@
   "timelines.invalidDate": "See kuupäev ei sobi ajajoone kuupäevadega.",
   "timelines.invalidEntry": "Seotud kirjed peavad olema selle universumi entsüklopeedias.",
   "timelines.invalidStory": "Seotud lood peavad olema selles universumis.",
-  "timelines.notCustom": "Käsitsi järjestatakse ainult oma siltidega ajajooni."
+  "timelines.notCustom": "Käsitsi järjestatakse ainult oma siltidega ajajooni.",
+  "timelines.widget.intro": "Sissejuhatus",
+  "timelines.widget.card": "Ajajoone kaart",
+  "timelines.widget.listHint": "Siin kuvatakse universumi avaldatud ajajooned.",
+  "timelines.widget.cardHint": "Valige ajajoon, et kuvada selle kaart.",
+  "timelines.widget.fullHint": "Valige ajajoon, et kuvada kõik selle sündmused."
 }

@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Tämä päivämäärä ei sovi aikajanan päivämääriin.",
   "timelines.invalidEntry": "Linkitettyjen merkintöjen on oltava tämän universumin tietosanakirjassa.",
   "timelines.invalidStory": "Linkitettyjen tarinoiden on kuuluttava tähän universumiin.",
-  "timelines.notCustom": "Vain omia nimikkeitä käyttävät aikajanat järjestetään käsin."
+  "timelines.notCustom": "Vain omia nimikkeitä käyttävät aikajanat järjestetään käsin.",
+  "timelines.widget.intro": "Johdanto",
+  "timelines.widget.card": "Aikajanakortti",
+  "timelines.widget.listHint": "Universumin julkaistut aikajanat näkyvät tässä.",
+  "timelines.widget.cardHint": "Valitse aikajana, niin sen kortti näytetään.",
+  "timelines.widget.fullHint": "Valitse aikajana, niin kaikki sen tapahtumat näytetään."
 }

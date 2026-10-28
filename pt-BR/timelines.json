@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Esta data não se encaixa nas datas do cronograma.",
   "timelines.invalidEntry": "As entradas vinculadas devem estar na enciclopédia deste universo.",
   "timelines.invalidStory": "As histórias vinculadas devem pertencer a este universo.",
-  "timelines.notCustom": "Somente cronogramas com rótulos próprios são ordenados manualmente."
+  "timelines.notCustom": "Somente cronogramas com rótulos próprios são ordenados manualmente.",
+  "timelines.widget.intro": "Introdução",
+  "timelines.widget.card": "Cartão do cronograma",
+  "timelines.widget.listHint": "Os cronogramas publicados do universo aparecem aqui.",
+  "timelines.widget.cardHint": "Escolha um cronograma para mostrar o cartão dele.",
+  "timelines.widget.fullHint": "Escolha um cronograma para mostrar todos os eventos dele."
 }

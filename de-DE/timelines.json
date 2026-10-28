@@ -70,5 +70,10 @@
   "timelines.invalidDate": "Dieses Datum passt nicht zu den Datumsangaben der Zeitlinie.",
   "timelines.invalidEntry": "Verknüpfte Einträge müssen zur Enzyklopädie dieses Universums gehören.",
   "timelines.invalidStory": "Verknüpfte Geschichten müssen zu diesem Universum gehören.",
-  "timelines.notCustom": "Nur Zeitlinien mit eigenen Bezeichnungen werden von Hand sortiert."
+  "timelines.notCustom": "Nur Zeitlinien mit eigenen Bezeichnungen werden von Hand sortiert.",
+  "timelines.widget.intro": "Einleitung",
+  "timelines.widget.card": "Zeitlinienkarte",
+  "timelines.widget.listHint": "Hier erscheinen die veröffentlichten Zeitlinien des Universums.",
+  "timelines.widget.cardHint": "Zeitlinie auswählen, um ihre Karte anzuzeigen.",
+  "timelines.widget.fullHint": "Zeitlinie auswählen, um alle ihre Ereignisse anzuzeigen."
 }
