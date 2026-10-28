@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# kabanata} other {# kabanata}}",
   "org.search.meta.stories": "{count, plural, one {# kwento} other {# kwento}}",
   "org.search.resultsTotal": "{total, plural, one {# resulta} other {# resulta}} para sa “{query}”",
+  "org.search.showAll": "Ipakita lahat ng {count}",
   "orgConnect.payouts.notifications": "Mga abiso ng Stripe",
   "orgConnect.payouts.account": "Account para sa payout",
   "orgConnect.payouts.balance": "Balanse at mga payout"

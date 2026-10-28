@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Are you sure you want to delete this API key? This action cannot be undone.",
   "settings.apiKeys.error.nameRequired": "Please enter a name for your API key",
   "settings.apiKeys.error.scopesRequired": "Please select at least one permission",
+  "settings.apiKeys.error.adminOnlyScope": "ఇతర రచయితల తరఫున పనిచేసే కీలను నిర్వాహకులు మాత్రమే సృష్టించగలరు.",
+  "settings.apiKeys.error.adminScopeRestrictions": "ఇతర రచయితల తరఫున పనిచేసే కీలను ఎంచుకున్న రచనలకు మాత్రమే పరిమితం చేయలేరు.",
   "settings.apiKeys.security.title": "Security Notice",
   "settings.apiKeys.security.1": "Never share your API key with anyone",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publish chapters",
   "settings.apiKeys.scope.story.publish.desc": "Publish or schedule chapters for readers and beta readers. Publishing the first chapter for readers also publishes the story",
   "settings.apiKeys.scope.diary.read": "రచనా డైరీని చదవండి",
-  "settings.apiKeys.scope.diary.read.desc": "మీ రచనా డైరీలోని నమోదులు మరియు వరుసగా రాసిన రోజుల శ్రేణులను చూడండి"
+  "settings.apiKeys.scope.diary.read.desc": "మీ రచనా డైరీలోని నమోదులు మరియు వరుసగా రాసిన రోజుల శ్రేణులను చూడండి",
+  "settings.apiKeys.scope.author.manage": "ఇతర రచయితల తరఫున పనిచేయండి",
+  "settings.apiKeys.scope.author.manage.desc": "నిర్వాహకులకు మాత్రమే. ఈ కీ తన ఇతర అనుమతులను ఏ రచయిత కథలు, యూనివర్స్‌లపైనైనా ఉపయోగించడానికి అనుమతిస్తుంది, ఉదాహరణకు మీరు నిర్వహించే రచయితల కోసం కవర్‌లను అప్‌లోడ్ చేయడానికి"
 }

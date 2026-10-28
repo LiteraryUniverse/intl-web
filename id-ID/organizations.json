@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, other {# bab}}",
   "org.search.meta.stories": "{count, plural, other {# cerita}}",
   "org.search.resultsTotal": "{total, plural, other {# hasil}} untuk “{query}”",
+  "org.search.showAll": "Tampilkan semua {count}",
   "orgConnect.payouts.notifications": "Notifikasi Stripe",
   "orgConnect.payouts.account": "Akun pencairan dana",
   "orgConnect.payouts.balance": "Saldo dan pencairan dana"

@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Sigurado ka bang gusto mong tanggalin ang API key na ito? Hindi na mababawi ang aksyong ito.",
   "settings.apiKeys.error.nameRequired": "Mangyaring maglagay ng pangalan para sa iyong API key",
   "settings.apiKeys.error.scopesRequired": "Mangyaring pumili ng kahit isang pahintulot",
+  "settings.apiKeys.error.adminOnlyScope": "Mga admin lang ang puwedeng gumawa ng mga key na kumikilos para sa ibang may-akda.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Hindi puwedeng limitahan sa mga piling akda ang mga key na kumikilos para sa ibang may-akda.",
   "settings.apiKeys.security.title": "Paalala sa Seguridad",
   "settings.apiKeys.security.1": "Huwag kailanman ibahagi ang iyong API key kaninuman",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Mag-publish ng mga kabanata",
   "settings.apiKeys.scope.story.publish.desc": "Mag-publish o mag-iskedyul ng mga kabanata para sa mga mambabasa at beta reader. Kapag na-publish ang unang kabanata para sa mga mambabasa, mapa-publish din ang kuwento",
   "settings.apiKeys.scope.diary.read": "Basahin ang talaarawan sa pagsusulat",
-  "settings.apiKeys.scope.diary.read.desc": "I-access ang iyong mga tala sa talaarawan sa pagsusulat at mga sunod-sunod na araw ng pagsusulat"
+  "settings.apiKeys.scope.diary.read.desc": "I-access ang iyong mga tala sa talaarawan sa pagsusulat at mga sunod-sunod na araw ng pagsusulat",
+  "settings.apiKeys.scope.author.manage": "Kumilos para sa ibang may-akda",
+  "settings.apiKeys.scope.author.manage.desc": "Para sa mga admin lang. Pinapayagan ang key na ito na gamitin ang iba pa nitong pahintulot sa mga kuwento at uniberso ng sinumang may-akda, halimbawa para mag-upload ng mga pabalat para sa mga may-akdang pinamamahalaan mo"
 }

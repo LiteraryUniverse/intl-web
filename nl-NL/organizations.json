@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# hoofdstuk} other {# hoofdstukken}}",
   "org.search.meta.stories": "{count, plural, one {# verhaal} other {# verhalen}}",
   "org.search.resultsTotal": "{total, plural, one {# resultaat} other {# resultaten}} voor “{query}”",
+  "org.search.showAll": "Alle {count} bekijken",
   "orgConnect.payouts.notifications": "Stripe-meldingen",
   "orgConnect.payouts.account": "Uitbetalingsaccount",
   "orgConnect.payouts.balance": "Saldo en uitbetalingen"

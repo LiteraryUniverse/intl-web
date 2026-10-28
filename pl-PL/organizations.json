@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# rozdział} few {# rozdziały} many {# rozdziałów} other {# rozdziału}}",
   "org.search.meta.stories": "{count, plural, one {# opowieść} few {# opowieści} many {# opowieści} other {# opowieści}}",
   "org.search.resultsTotal": "{total, plural, one {# wynik} few {# wyniki} many {# wyników} other {# wyniku}} dla „{query}”",
+  "org.search.showAll": "Pokaż wszystkie ({count})",
   "orgConnect.payouts.notifications": "Powiadomienia Stripe",
   "orgConnect.payouts.account": "Konto do wypłat",
   "orgConnect.payouts.balance": "Saldo i wypłaty"

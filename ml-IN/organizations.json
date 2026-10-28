@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# അദ്ധ്യായം} other {# അദ്ധ്യായങ്ങൾ}}",
   "org.search.meta.stories": "{count, plural, one {# കഥ} other {# കഥകൾ}}",
   "org.search.resultsTotal": "“{query}” എന്നതിന് {total, plural, one {# ഫലം} other {# ഫലങ്ങൾ}}",
+  "org.search.showAll": "എല്ലാം കാണിക്കുക ({count})",
   "orgConnect.payouts.notifications": "Stripe അറിയിപ്പുകൾ",
   "orgConnect.payouts.account": "പേഔട്ട് അക്കൗണ്ട്",
   "orgConnect.payouts.balance": "ബാലൻസും പേഔട്ടുകളും"

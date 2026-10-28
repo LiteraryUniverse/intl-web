@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Czy na pewno chcą Państwo usunąć ten klucz API? Tej czynności nie można cofnąć.",
   "settings.apiKeys.error.nameRequired": "Proszę wprowadzić nazwę klucza API",
   "settings.apiKeys.error.scopesRequired": "Proszę wybrać przynajmniej jedno pozwolenie",
+  "settings.apiKeys.error.adminOnlyScope": "Tylko administratorzy mogą tworzyć klucze działające w imieniu innych autorów.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Kluczy działających w imieniu innych autorów nie można ograniczyć do wybranych dzieł.",
   "settings.apiKeys.security.title": "Powiadomienie o zabezpieczeniach",
   "settings.apiKeys.security.1": "Proszę nigdy nie udostępniać nikomu swojego klucza API",
   "settings.apiKeys.security.2": "Proszę traktować to jak hasło",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publikowanie rozdziałów",
   "settings.apiKeys.scope.story.publish.desc": "Publikowanie lub planowanie rozdziałów dla czytelników i betaczytelników. Opublikowanie pierwszego rozdziału dla czytelników publikuje też historię",
   "settings.apiKeys.scope.diary.read": "Odczyt dziennika pisania",
-  "settings.apiKeys.scope.diary.read.desc": "Dostęp do wpisów w dzienniku pisania i serii kolejnych dni pisania"
+  "settings.apiKeys.scope.diary.read.desc": "Dostęp do wpisów w dzienniku pisania i serii kolejnych dni pisania",
+  "settings.apiKeys.scope.author.manage": "Działanie w imieniu innych autorów",
+  "settings.apiKeys.scope.author.manage.desc": "Tylko dla administratorów. Pozwala temu kluczowi korzystać z pozostałych uprawnień w odniesieniu do historii i uniwersów dowolnego autora, np. aby przesyłać okładki autorów, którymi Państwo zarządzają"
 }

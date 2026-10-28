@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# hoofstuk} other {# hoofstukke}}",
   "org.search.meta.stories": "{count, plural, one {# storie} other {# stories}}",
   "org.search.resultsTotal": "{total, plural, one {# resultaat} other {# resultate}} vir “{query}”",
+  "org.search.showAll": "Wys al {count}",
   "orgConnect.payouts.notifications": "Stripe-kennisgewings",
   "orgConnect.payouts.account": "Uitbetalingsrekening",
   "orgConnect.payouts.balance": "Balans en uitbetalings"

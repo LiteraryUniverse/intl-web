@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "আপনি কি নিশ্চিত যে আপনি এই API কী মুছে ফেলতে চান? এই পদক্ষেপ পূর্বাবস্থায় ফেরানো যাবে না।",
   "settings.apiKeys.error.nameRequired": "অনুগ্রহ করে আপনার API কী-এর একটি নাম লিখুন",
   "settings.apiKeys.error.scopesRequired": "অনুগ্রহ করে অন্তত একটি অনুমতি নির্বাচন করুন",
+  "settings.apiKeys.error.adminOnlyScope": "শুধু অ্যাডমিনরাই অন্য লেখকদের হয়ে কাজ করে এমন কী তৈরি করতে পারেন।",
+  "settings.apiKeys.error.adminScopeRestrictions": "অন্য লেখকদের হয়ে কাজ করে এমন কী নির্বাচিত রচনায় সীমাবদ্ধ করা যায় না।",
   "settings.apiKeys.security.title": "নিরাপত্তা বিজ্ঞপ্তি",
   "settings.apiKeys.security.1": "কখনও কারও সঙ্গে আপনার API কী শেয়ার করবেন না",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "অধ্যায় প্রকাশ",
   "settings.apiKeys.scope.story.publish.desc": "পাঠক ও বিটা পাঠকদের জন্য অধ্যায় প্রকাশ বা সময় নির্ধারণ করা। পাঠকদের জন্য প্রথম অধ্যায় প্রকাশ করলে গল্পটিও প্রকাশিত হয়",
   "settings.apiKeys.scope.diary.read": "লেখার ডায়েরি পড়া",
-  "settings.apiKeys.scope.diary.read.desc": "আপনার লেখার ডায়েরির লেখা ও একটানা লেখার দিনের ধারায় অ্যাক্সেস"
+  "settings.apiKeys.scope.diary.read.desc": "আপনার লেখার ডায়েরির লেখা ও একটানা লেখার দিনের ধারায় অ্যাক্সেস",
+  "settings.apiKeys.scope.author.manage": "অন্য লেখকদের হয়ে কাজ করা",
+  "settings.apiKeys.scope.author.manage.desc": "শুধু অ্যাডমিনদের জন্য। এই কী-কে যেকোনো লেখকের গল্প ও মহাবিশ্বে এর অন্যান্য অনুমতি ব্যবহার করতে দেয়, যেমন আপনি যেসব লেখক পরিচালনা করেন তাদের জন্য কভার আপলোড করতে"
 }

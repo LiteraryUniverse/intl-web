@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Are you sure you want to delete this API key? This action cannot be undone.",
   "settings.apiKeys.error.nameRequired": "Please enter a name for your API key",
   "settings.apiKeys.error.scopesRequired": "Please select at least one permission",
+  "settings.apiKeys.error.adminOnlyScope": "មានតែអ្នកគ្រប់គ្រងប៉ុណ្ណោះដែលអាចបង្កើតកូនសោដែលធ្វើសកម្មភាពជំនួសអ្នកនិពន្ធផ្សេងទៀតបាន។",
+  "settings.apiKeys.error.adminScopeRestrictions": "កូនសោដែលធ្វើសកម្មភាពជំនួសអ្នកនិពន្ធផ្សេងទៀត មិនអាចកំណត់ត្រឹមតែស្នាដៃដែលបានជ្រើសរើសបានទេ។",
   "settings.apiKeys.security.title": "Security Notice",
   "settings.apiKeys.security.1": "Never share your API key with anyone",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publish chapters",
   "settings.apiKeys.scope.story.publish.desc": "Publish or schedule chapters for readers and beta readers. Publishing the first chapter for readers also publishes the story",
   "settings.apiKeys.scope.diary.read": "អានកំណត់ហេតុការសរសេរ",
-  "settings.apiKeys.scope.diary.read.desc": "ចូលប្រើកំណត់ហេតុការសរសេរ និងស៊េរីថ្ងៃសរសេរជាប់គ្នារបស់អ្នក"
+  "settings.apiKeys.scope.diary.read.desc": "ចូលប្រើកំណត់ហេតុការសរសេរ និងស៊េរីថ្ងៃសរសេរជាប់គ្នារបស់អ្នក",
+  "settings.apiKeys.scope.author.manage": "ធ្វើសកម្មភាពជំនួសអ្នកនិពន្ធផ្សេងទៀត",
+  "settings.apiKeys.scope.author.manage.desc": "សម្រាប់អ្នកគ្រប់គ្រងតែប៉ុណ្ណោះ។ អនុញ្ញាតឱ្យកូនសោនេះប្រើសិទ្ធិផ្សេងទៀតរបស់វាលើរឿង និងចក្រវាឡរបស់អ្នកនិពន្ធណាក៏បាន ឧទាហរណ៍ ដើម្បីបង្ហោះរូបភាពគម្របសម្រាប់អ្នកនិពន្ធដែលអ្នកគ្រប់គ្រង"
 }

@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Biztos, hogy törölni szeretné ezt az API-kulcsot? Ez a művelet nem vonható vissza.",
   "settings.apiKeys.error.nameRequired": "Kérjük, adjon meg egy nevet az API-kulcsához",
   "settings.apiKeys.error.scopesRequired": "Kérjük, válasszon ki legalább egy engedélyt",
+  "settings.apiKeys.error.adminOnlyScope": "Más szerzők nevében eljáró kulcsokat csak adminisztrátorok hozhatnak létre.",
+  "settings.apiKeys.error.adminScopeRestrictions": "A más szerzők nevében eljáró kulcsok nem korlátozhatók kiválasztott művekre.",
   "settings.apiKeys.security.title": "Biztonsági közlemény",
   "settings.apiKeys.security.1": "Soha ne ossza meg API-kulcsát senkivel",
   "settings.apiKeys.security.2": "Kezelje úgy, mint egy jelszót",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Fejezetek közzététele",
   "settings.apiKeys.scope.story.publish.desc": "Fejezetek közzététele vagy ütemezése olvasók és bétaolvasók számára. Ha az első fejezetet közzéteszed az olvasóknak, a történet is megjelenik",
   "settings.apiKeys.scope.diary.read": "Írásnapló olvasása",
-  "settings.apiKeys.scope.diary.read.desc": "Hozzáférés az írásnapló bejegyzéseihez és az egymást követő írásnapok sorozataihoz"
+  "settings.apiKeys.scope.diary.read.desc": "Hozzáférés az írásnapló bejegyzéseihez és az egymást követő írásnapok sorozataihoz",
+  "settings.apiKeys.scope.author.manage": "Eljárás más szerzők nevében",
+  "settings.apiKeys.scope.author.manage.desc": "Csak adminisztrátoroknak. Lehetővé teszi, hogy ez a kulcs a többi engedélyét bármely szerző történetein és univerzumain is használja, például borítók feltöltésére az Ön által kezelt szerzők számára"
 }

@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Adakah anda pasti mahu memadam kunci API ini? Tindakan ini tidak boleh dibuat asal.",
   "settings.apiKeys.error.nameRequired": "Sila masukkan nama untuk kunci API anda",
   "settings.apiKeys.error.scopesRequired": "Sila pilih sekurang-kurangnya satu kebenaran",
+  "settings.apiKeys.error.adminOnlyScope": "Hanya pentadbir boleh mencipta kunci yang bertindak bagi pihak pengarang lain.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Kunci yang bertindak bagi pihak pengarang lain tidak boleh dihadkan kepada karya terpilih.",
   "settings.apiKeys.security.title": "Notis keselamatan",
   "settings.apiKeys.security.1": "Jangan sekali-kali berkongsi kunci API anda dengan sesiapa",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Terbitkan bab",
   "settings.apiKeys.scope.story.publish.desc": "Terbitkan atau jadualkan bab untuk pembaca dan pembaca beta. Menerbitkan bab pertama untuk pembaca turut menerbitkan cerita",
   "settings.apiKeys.scope.diary.read": "Baca diari penulisan",
-  "settings.apiKeys.scope.diary.read.desc": "Akses catatan diari penulisan dan rentetan hari menulis anda"
+  "settings.apiKeys.scope.diary.read.desc": "Akses catatan diari penulisan dan rentetan hari menulis anda",
+  "settings.apiKeys.scope.author.manage": "Bertindak bagi pihak pengarang lain",
+  "settings.apiKeys.scope.author.manage.desc": "Pentadbir sahaja. Membolehkan kunci ini menggunakan kebenarannya yang lain pada cerita dan univers mana-mana pengarang, contohnya untuk memuat naik kulit buku bagi pengarang yang anda uruskan"
 }

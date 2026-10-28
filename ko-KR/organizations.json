@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, other {챕터 #개}}",
   "org.search.meta.stories": "{count, plural, other {이야기 #편}}",
   "org.search.resultsTotal": "“{query}” 검색 결과 {total, plural, other {#건}}",
+  "org.search.showAll": "{count}개 모두 보기",
   "orgConnect.payouts.notifications": "Stripe 알림",
   "orgConnect.payouts.account": "지급 계정",
   "orgConnect.payouts.balance": "잔액 및 지급금"

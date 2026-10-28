@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Is jy seker jy wil hierdie API-sleutel uitvee? Hierdie aksie kan nie ontdoen word nie.",
   "settings.apiKeys.error.nameRequired": "Voer asseblief 'n naam vir jou API-sleutel in",
   "settings.apiKeys.error.scopesRequired": "Kies asseblief minstens een toestemming",
+  "settings.apiKeys.error.adminOnlyScope": "Slegs administrateurs kan sleutels skep wat namens ander skrywers optree.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Sleutels wat namens ander skrywers optree, kan nie tot gekose werke beperk word nie.",
   "settings.apiKeys.security.title": "Sekuriteitskennisgewing",
   "settings.apiKeys.security.1": "Moet nooit jou API-sleutel met enigiemand deel nie",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publiseer hoofstukke",
   "settings.apiKeys.scope.story.publish.desc": "Publiseer of skeduleer hoofstukke vir lesers en beta-lesers. Wanneer die eerste hoofstuk vir lesers gepubliseer word, word die storie ook gepubliseer",
   "settings.apiKeys.scope.diary.read": "Lees skryfdagboek",
-  "settings.apiKeys.scope.diary.read.desc": "Kry toegang tot jou skryfdagboekinskrywings en opeenvolgende skryfdae"
+  "settings.apiKeys.scope.diary.read.desc": "Kry toegang tot jou skryfdagboekinskrywings en opeenvolgende skryfdae",
+  "settings.apiKeys.scope.author.manage": "Tree namens ander skrywers op",
+  "settings.apiKeys.scope.author.manage.desc": "Slegs vir administrateurs. Laat hierdie sleutel toe om sy ander toestemmings op enige skrywer se stories en heelalle te gebruik, byvoorbeeld om omslae op te laai vir skrywers wat jy bestuur"
 }

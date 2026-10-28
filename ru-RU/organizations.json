@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# глава} few {# главы} many {# глав} other {# главы}}",
   "org.search.meta.stories": "{count, plural, one {# история} few {# истории} many {# историй} other {# истории}}",
   "org.search.resultsTotal": "{total, plural, one {# результат} few {# результата} many {# результатов} other {# результата}} по запросу «{query}»",
+  "org.search.showAll": "Показать все ({count})",
   "orgConnect.payouts.notifications": "Уведомления Stripe",
   "orgConnect.payouts.account": "Счёт для выплат",
   "orgConnect.payouts.balance": "Баланс и выплаты"

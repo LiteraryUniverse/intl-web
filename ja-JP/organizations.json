@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, other {#章}}",
   "org.search.meta.stories": "{count, plural, other {#作品}}",
   "org.search.resultsTotal": "「{query}」の検索結果：{total, plural, other {#件}}",
+  "org.search.showAll": "{count}件をすべて表示",
   "orgConnect.payouts.notifications": "Stripeからの通知",
   "orgConnect.payouts.account": "入金先アカウント",
   "orgConnect.payouts.balance": "残高と入金"

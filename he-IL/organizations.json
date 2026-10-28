@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {פרק אחד} two {שני פרקים} other {# פרקים}}",
   "org.search.meta.stories": "{count, plural, one {סיפור אחד} two {שני סיפורים} other {# סיפורים}}",
   "org.search.resultsTotal": "{total, plural, one {תוצאה אחת} two {שתי תוצאות} other {# תוצאות}} עבור “{query}”",
+  "org.search.showAll": "הצגת כל ה־{count}",
   "orgConnect.payouts.notifications": "התראות Stripe",
   "orgConnect.payouts.account": "חשבון תשלומים",
   "orgConnect.payouts.balance": "יתרה ותשלומים"

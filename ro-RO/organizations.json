@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# capitol} few {# capitole} other {# de capitole}}",
   "org.search.meta.stories": "{count, plural, one {# poveste} few {# povești} other {# de povești}}",
   "org.search.resultsTotal": "{total, plural, one {# rezultat} few {# rezultate} other {# de rezultate}} pentru „{query}”",
+  "org.search.showAll": "Afișează toate cele {count}",
   "orgConnect.payouts.notifications": "Notificări Stripe",
   "orgConnect.payouts.account": "Cont pentru plăți",
   "orgConnect.payouts.balance": "Sold și plăți"

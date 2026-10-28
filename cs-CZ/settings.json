@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Opravdu chcete tento klíč API odstranit? Tuto akci nelze vzít zpět.",
   "settings.apiKeys.error.nameRequired": "Zadejte prosím název svého klíče API",
   "settings.apiKeys.error.scopesRequired": "Vyberte prosím alespoň jedno povolení",
+  "settings.apiKeys.error.adminOnlyScope": "Klíče, které jednají za jiné autory, mohou vytvářet jen správci.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Klíče, které jednají za jiné autory, nelze omezit na vybraná díla.",
   "settings.apiKeys.security.title": "Bezpečnostní upozornění",
   "settings.apiKeys.security.1": "Nikdy nikomu nesdělujte svůj klíč API",
   "settings.apiKeys.security.2": "Zacházejte s ním jako s heslem",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publikování kapitol",
   "settings.apiKeys.scope.story.publish.desc": "Publikování a plánování kapitol pro čtenáře a beta čtenáře. Publikováním první kapitoly pro čtenáře se zveřejní i příběh",
   "settings.apiKeys.scope.diary.read": "Číst deník psaní",
-  "settings.apiKeys.scope.diary.read.desc": "Přístup k záznamům ve vašem deníku psaní a nepřerušeným sériím dní psaní"
+  "settings.apiKeys.scope.diary.read.desc": "Přístup k záznamům ve vašem deníku psaní a nepřerušeným sériím dní psaní",
+  "settings.apiKeys.scope.author.manage": "Jednat za jiné autory",
+  "settings.apiKeys.scope.author.manage.desc": "Pouze pro správce. Umožní tomuto klíči používat jeho ostatní oprávnění u příběhů a vesmírů libovolného autora, například k nahrávání obálek pro autory, které spravujete"
 }

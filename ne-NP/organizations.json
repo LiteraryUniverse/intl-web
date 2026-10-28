@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# अध्याय} other {# अध्याय}}",
   "org.search.meta.stories": "{count, plural, one {# कथा} other {# कथा}}",
   "org.search.resultsTotal": "“{query}” का लागि {total, plural, one {# नतिजा} other {# नतिजा}}",
+  "org.search.showAll": "सबै {count} देखाउनुहोस्",
   "orgConnect.payouts.notifications": "Stripe का सूचनाहरू",
   "orgConnect.payouts.account": "पेआउट खाता",
   "orgConnect.payouts.balance": "ब्यालेन्स र पेआउट"

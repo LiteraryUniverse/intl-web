@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Bạn có chắc chắn muốn xóa khóa API này không? Hành động này không thể hoàn tác.",
   "settings.apiKeys.error.nameRequired": "Vui lòng nhập tên cho khóa API của bạn.",
   "settings.apiKeys.error.scopesRequired": "Vui lòng chọn ít nhất một quyền.",
+  "settings.apiKeys.error.adminOnlyScope": "Chỉ quản trị viên mới có thể tạo khóa thay mặt các tác giả khác.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Không thể giới hạn khóa thay mặt các tác giả khác ở một số tác phẩm được chọn.",
   "settings.apiKeys.security.title": "Thông báo an ninh",
   "settings.apiKeys.security.1": "Không bao giờ chia sẻ khóa API của bạn với bất kỳ ai.",
   "settings.apiKeys.security.2": "Xử lý nó như một mật khẩu",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Xuất bản chương",
   "settings.apiKeys.scope.story.publish.desc": "Xuất bản hoặc lên lịch xuất bản chương cho độc giả và độc giả beta. Xuất bản chương đầu tiên cho độc giả cũng sẽ xuất bản câu chuyện",
   "settings.apiKeys.scope.diary.read": "Đọc nhật ký viết",
-  "settings.apiKeys.scope.diary.read.desc": "Truy cập các mục nhật ký viết và chuỗi ngày viết liên tiếp của bạn"
+  "settings.apiKeys.scope.diary.read.desc": "Truy cập các mục nhật ký viết và chuỗi ngày viết liên tiếp của bạn",
+  "settings.apiKeys.scope.author.manage": "Thay mặt các tác giả khác",
+  "settings.apiKeys.scope.author.manage.desc": "Chỉ dành cho quản trị viên. Cho phép khóa này dùng các quyền khác của nó trên câu chuyện và vũ trụ của bất kỳ tác giả nào, chẳng hạn để tải lên ảnh bìa cho các tác giả bạn quản lý"
 }

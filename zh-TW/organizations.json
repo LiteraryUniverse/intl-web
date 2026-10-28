@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, other {# 章}}",
   "org.search.meta.stories": "{count, plural, other {# 個故事}}",
   "org.search.resultsTotal": "「{query}」的搜尋結果：{total, plural, other {# 筆}}",
+  "org.search.showAll": "顯示全部 {count} 筆",
   "orgConnect.payouts.notifications": "Stripe 通知",
   "orgConnect.payouts.account": "撥款帳戶",
   "orgConnect.payouts.balance": "餘額與撥款"

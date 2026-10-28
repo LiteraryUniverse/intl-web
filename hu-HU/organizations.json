@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# fejezet} other {# fejezet}}",
   "org.search.meta.stories": "{count, plural, one {# történet} other {# történet}}",
   "org.search.resultsTotal": "{total, plural, one {# találat} other {# találat}} erre: „{query}”",
+  "org.search.showAll": "Összes ({count}) megjelenítése",
   "orgConnect.payouts.notifications": "Stripe-értesítések",
   "orgConnect.payouts.account": "Kifizetési számla",
   "orgConnect.payouts.balance": "Egyenleg és kifizetések"

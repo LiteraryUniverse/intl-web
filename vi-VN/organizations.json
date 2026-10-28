@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, other {# chương}}",
   "org.search.meta.stories": "{count, plural, other {# câu chuyện}}",
   "org.search.resultsTotal": "{total, plural, other {# kết quả}} cho “{query}”",
+  "org.search.showAll": "Xem tất cả ({count})",
   "orgConnect.payouts.notifications": "Thông báo từ Stripe",
   "orgConnect.payouts.account": "Tài khoản nhận chi trả",
   "orgConnect.payouts.balance": "Số dư và chi trả"

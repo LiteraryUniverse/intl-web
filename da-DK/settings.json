@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Er du sikker på, at du vil slette denne API-nøgle? Denne handling kan ikke fortrydes.",
   "settings.apiKeys.error.nameRequired": "Indtast et navn til din API-nøgle",
   "settings.apiKeys.error.scopesRequired": "Vælg venligst mindst én tilladelse",
+  "settings.apiKeys.error.adminOnlyScope": "Kun administratorer kan oprette nøgler, der handler på vegne af andre forfattere.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Nøgler, der handler på vegne af andre forfattere, kan ikke begrænses til udvalgte værker.",
   "settings.apiKeys.security.title": "Sikkerhedsmeddelelse",
   "settings.apiKeys.security.1": "Del aldrig din API-nøgle med nogen",
   "settings.apiKeys.security.2": "Behandl det som en adgangskode",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Udgiv kapitler",
   "settings.apiKeys.scope.story.publish.desc": "Udgiv eller planlæg kapitler for læsere og betalæsere. Når det første kapitel udgives for læsere, udgives historien også",
   "settings.apiKeys.scope.diary.read": "Læs skrivedagbog",
-  "settings.apiKeys.scope.diary.read.desc": "Få adgang til dine skrivedagbogsindlæg og serier af sammenhængende skrivedage"
+  "settings.apiKeys.scope.diary.read.desc": "Få adgang til dine skrivedagbogsindlæg og serier af sammenhængende skrivedage",
+  "settings.apiKeys.scope.author.manage": "Handl på vegne af andre forfattere",
+  "settings.apiKeys.scope.author.manage.desc": "Kun for administratorer. Lader denne nøgle bruge sine øvrige tilladelser på alle forfatteres historier og universer, f.eks. til at uploade omslag for forfattere, du administrerer"
 }

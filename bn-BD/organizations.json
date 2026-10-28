@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {#টি অধ্যায়} other {#টি অধ্যায়}}",
   "org.search.meta.stories": "{count, plural, one {#টি গল্প} other {#টি গল্প}}",
   "org.search.resultsTotal": "“{query}”-এর জন্য {total, plural, one {#টি ফলাফল} other {#টি ফলাফল}}",
+  "org.search.showAll": "সব {count}টি দেখুন",
   "orgConnect.payouts.notifications": "Stripe বিজ্ঞপ্তি",
   "orgConnect.payouts.account": "পেআউট অ্যাকাউন্ট",
   "orgConnect.payouts.balance": "ব্যালেন্স ও পেআউট"

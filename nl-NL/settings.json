@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Weet u zeker dat u deze API sleutel wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.",
   "settings.apiKeys.error.nameRequired": "Voer een naam in voor uw API-sleutel",
   "settings.apiKeys.error.scopesRequired": "Selecteer minstens één toestemming",
+  "settings.apiKeys.error.adminOnlyScope": "Alleen beheerders kunnen sleutels maken die namens andere auteurs handelen.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Sleutels die namens andere auteurs handelen, kunnen niet worden beperkt tot geselecteerde werken.",
   "settings.apiKeys.security.title": "Veiligheidsbericht",
   "settings.apiKeys.security.1": "Deel nooit uw API-sleutel met iemand",
   "settings.apiKeys.security.2": "Behandel het als een wachtwoord",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Hoofdstukken publiceren",
   "settings.apiKeys.scope.story.publish.desc": "Hoofdstukken publiceren of inplannen voor lezers en bètalezers. Als je het eerste hoofdstuk voor lezers publiceert, wordt ook het verhaal gepubliceerd",
   "settings.apiKeys.scope.diary.read": "Schrijfdagboek lezen",
-  "settings.apiKeys.scope.diary.read.desc": "Toegang tot uw schrijfdagboekberichten en reeksen opeenvolgende schrijfdagen"
+  "settings.apiKeys.scope.diary.read.desc": "Toegang tot uw schrijfdagboekberichten en reeksen opeenvolgende schrijfdagen",
+  "settings.apiKeys.scope.author.manage": "Namens andere auteurs handelen",
+  "settings.apiKeys.scope.author.manage.desc": "Alleen voor beheerders. Hiermee kan deze sleutel zijn andere rechten gebruiken voor de verhalen en universums van elke auteur, bijvoorbeeld om omslagen te uploaden voor auteurs die u beheert"
 }

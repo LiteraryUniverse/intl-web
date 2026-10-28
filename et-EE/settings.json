@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Kas olete kindel, et soovite selle API võtme kustutada? Seda toimingut ei saa tühistada.",
   "settings.apiKeys.error.nameRequired": "Palun sisestage oma API võtme nimi",
   "settings.apiKeys.error.scopesRequired": "Palun valige vähemalt üks luba",
+  "settings.apiKeys.error.adminOnlyScope": "Ainult administraatorid saavad luua võtmeid, mis tegutsevad teiste autorite nimel.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Teiste autorite nimel tegutsevaid võtmeid ei saa piirata valitud teostega.",
   "settings.apiKeys.security.title": "Turvalisuse teatis",
   "settings.apiKeys.security.1": "Ärge kunagi jagage oma API võtit kellegagi",
   "settings.apiKeys.security.2": "Käsitle seda nagu parooli",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Peatükkide avaldamine",
   "settings.apiKeys.scope.story.publish.desc": "Peatükkide avaldamine või ajastamine lugejatele ja beetalugejatele. Esimese peatüki avaldamine lugejatele avaldab ka loo",
   "settings.apiKeys.scope.diary.read": "Loe kirjutamispäevikut",
-  "settings.apiKeys.scope.diary.read.desc": "Juurdepääs teie kirjutamispäeviku sissekannetele ja järjestikuste kirjutamispäevade seeriatele"
+  "settings.apiKeys.scope.diary.read.desc": "Juurdepääs teie kirjutamispäeviku sissekannetele ja järjestikuste kirjutamispäevade seeriatele",
+  "settings.apiKeys.scope.author.manage": "Tegutse teiste autorite nimel",
+  "settings.apiKeys.scope.author.manage.desc": "Ainult administraatoritele. Lubab sellel võtmel kasutada oma teisi õigusi mis tahes autori lugude ja universumite puhul, näiteks kaante üleslaadimiseks autoritele, keda te haldate"
 }

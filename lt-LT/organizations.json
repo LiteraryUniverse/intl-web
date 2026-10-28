@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# skyrius} few {# skyriai} many {# skyriaus} other {# skyrių}}",
   "org.search.meta.stories": "{count, plural, one {# istorija} few {# istorijos} many {# istorijos} other {# istorijų}}",
   "org.search.resultsTotal": "{total, plural, one {# rezultatas} few {# rezultatai} many {# rezultato} other {# rezultatų}} pagal užklausą „{query}“",
+  "org.search.showAll": "Rodyti visus ({count})",
   "orgConnect.payouts.notifications": "Stripe pranešimai",
   "orgConnect.payouts.account": "Išmokų sąskaita",
   "orgConnect.payouts.balance": "Likutis ir išmokos"

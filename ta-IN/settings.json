@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Are you sure you want to delete this API key? This action cannot be undone.",
   "settings.apiKeys.error.nameRequired": "Please enter a name for your API key",
   "settings.apiKeys.error.scopesRequired": "Please select at least one permission",
+  "settings.apiKeys.error.adminOnlyScope": "பிற எழுத்தாளர்களின் சார்பில் செயல்படும் விசைகளை நிர்வாகிகள் மட்டுமே உருவாக்க முடியும்.",
+  "settings.apiKeys.error.adminScopeRestrictions": "பிற எழுத்தாளர்களின் சார்பில் செயல்படும் விசைகளைத் தேர்ந்தெடுத்த படைப்புகளுக்கு மட்டும் வரம்பிட முடியாது.",
   "settings.apiKeys.security.title": "Security Notice",
   "settings.apiKeys.security.1": "Never share your API key with anyone",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publish chapters",
   "settings.apiKeys.scope.story.publish.desc": "Publish or schedule chapters for readers and beta readers. Publishing the first chapter for readers also publishes the story",
   "settings.apiKeys.scope.diary.read": "எழுத்து நாட்குறிப்பைப் படி",
-  "settings.apiKeys.scope.diary.read.desc": "உங்கள் எழுத்து நாட்குறிப்புப் பதிவுகளையும் தொடர்ந்து எழுதிய நாட்களின் தொடர்களையும் அணுகு"
+  "settings.apiKeys.scope.diary.read.desc": "உங்கள் எழுத்து நாட்குறிப்புப் பதிவுகளையும் தொடர்ந்து எழுதிய நாட்களின் தொடர்களையும் அணுகு",
+  "settings.apiKeys.scope.author.manage": "பிற எழுத்தாளர்களின் சார்பில் செயல்படு",
+  "settings.apiKeys.scope.author.manage.desc": "நிர்வாகிகளுக்கு மட்டும். இந்த விசை தனது மற்ற அனுமதிகளை எந்த எழுத்தாளரின் கதைகளிலும் உலகங்களிலும் பயன்படுத்த அனுமதிக்கிறது, எடுத்துக்காட்டாக நீங்கள் நிர்வகிக்கும் எழுத்தாளர்களுக்கு அட்டைப்படங்களைப் பதிவேற்ற"
 }

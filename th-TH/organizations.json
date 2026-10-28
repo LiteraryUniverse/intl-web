@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, other {# บท}}",
   "org.search.meta.stories": "{count, plural, other {# เรื่อง}}",
   "org.search.resultsTotal": "{total, plural, other {# ผลลัพธ์}} สำหรับ “{query}”",
+  "org.search.showAll": "แสดงทั้งหมด {count} รายการ",
   "orgConnect.payouts.notifications": "การแจ้งเตือนจาก Stripe",
   "orgConnect.payouts.account": "บัญชีรับเงิน",
   "orgConnect.payouts.balance": "ยอดคงเหลือและการจ่ายเงิน"

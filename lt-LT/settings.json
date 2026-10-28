@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Ar tikrai norite ištrinti šį API raktą? Šio veiksmo atšaukti negalima.",
   "settings.apiKeys.error.nameRequired": "Įveskite savo API rakto pavadinimą",
   "settings.apiKeys.error.scopesRequired": "Pasirinkite bent vieną leidimą",
+  "settings.apiKeys.error.adminOnlyScope": "Tik administratoriai gali kurti raktus, veikiančius kitų autorių vardu.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Raktų, veikiančių kitų autorių vardu, negalima apriboti pasirinktais kūriniais.",
   "settings.apiKeys.security.title": "Saugumo pranešimas",
   "settings.apiKeys.security.1": "Niekada su niekuo nesidalykite savo API raktu",
   "settings.apiKeys.security.2": "Elkitės su juo kaip su slaptažodžiu",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Skelbti skyrius",
   "settings.apiKeys.scope.story.publish.desc": "Skelbti arba planuoti skyrius skaitytojams ir beta skaitytojams. Paskelbus pirmąjį skyrių skaitytojams, paskelbiama ir istorija",
   "settings.apiKeys.scope.diary.read": "Skaityti rašymo dienoraštį",
-  "settings.apiKeys.scope.diary.read.desc": "Pasiekti rašymo dienoraščio įrašus ir nepertraukiamas rašymo dienų serijas"
+  "settings.apiKeys.scope.diary.read.desc": "Pasiekti rašymo dienoraščio įrašus ir nepertraukiamas rašymo dienų serijas",
+  "settings.apiKeys.scope.author.manage": "Veikti kitų autorių vardu",
+  "settings.apiKeys.scope.author.manage.desc": "Tik administratoriams. Leidžia šiam raktui naudoti kitus savo leidimus bet kurio autoriaus istorijoms ir visatoms, pavyzdžiui, įkelti viršelius jūsų tvarkomiems autoriams"
 }

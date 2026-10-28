@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Sind Sie sicher, dass Sie diesen API-Schlüssel löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
   "settings.apiKeys.error.nameRequired": "Bitte geben Sie einen Namen für Ihren API-Schlüssel ein",
   "settings.apiKeys.error.scopesRequired": "Bitte wählen Sie mindestens eine Erlaubnis",
+  "settings.apiKeys.error.adminOnlyScope": "Nur Administratoren können Schlüssel erstellen, die im Namen anderer Autoren handeln.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Schlüssel, die im Namen anderer Autoren handeln, können nicht auf ausgewählte Werke beschränkt werden.",
   "settings.apiKeys.security.title": "Sicherheitshinweis",
   "settings.apiKeys.security.1": "Geben Sie Ihren API-Schlüssel niemals an Dritte weiter",
   "settings.apiKeys.security.2": "Behandeln Sie es wie ein Passwort",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Kapitel veröffentlichen",
   "settings.apiKeys.scope.story.publish.desc": "Kapitel für Leser und Betaleser veröffentlichen oder planen. Wird das erste Kapitel für Leser veröffentlicht, wird auch die Geschichte veröffentlicht",
   "settings.apiKeys.scope.diary.read": "Schreibtagebuch lesen",
-  "settings.apiKeys.scope.diary.read.desc": "Auf Ihre Schreibtagebucheinträge und Serien aufeinanderfolgender Schreibtage zugreifen"
+  "settings.apiKeys.scope.diary.read.desc": "Auf Ihre Schreibtagebucheinträge und Serien aufeinanderfolgender Schreibtage zugreifen",
+  "settings.apiKeys.scope.author.manage": "Im Namen anderer Autoren handeln",
+  "settings.apiKeys.scope.author.manage.desc": "Nur für Administratoren. Erlaubt diesem Schlüssel, seine übrigen Berechtigungen auf die Geschichten und Universen beliebiger Autoren anzuwenden, zum Beispiel um Titelbilder für Autoren hochzuladen, die Sie betreuen"
 }

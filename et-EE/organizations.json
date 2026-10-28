@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# peatükk} other {# peatükki}}",
   "org.search.meta.stories": "{count, plural, one {# lugu} other {# lugu}}",
   "org.search.resultsTotal": "{total, plural, one {# tulemus} other {# tulemust}} päringule „{query}“",
+  "org.search.showAll": "Näita kõiki ({count})",
   "orgConnect.payouts.notifications": "Stripe'i teavitused",
   "orgConnect.payouts.account": "Väljamaksete konto",
   "orgConnect.payouts.balance": "Saldo ja väljamaksed"

@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# თავი} other {# თავი}}",
   "org.search.meta.stories": "{count, plural, one {# ისტორია} other {# ისტორია}}",
   "org.search.resultsTotal": "{total, plural, one {# შედეგი} other {# შედეგი}} მოთხოვნისთვის „{query}“",
+  "org.search.showAll": "ყველას ჩვენება ({count})",
   "orgConnect.payouts.notifications": "Stripe-ის შეტყობინებები",
   "orgConnect.payouts.account": "გადახდების მიღების ანგარიში",
   "orgConnect.payouts.balance": "ბალანსი და გადახდები"

@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Σίγουρα θέλετε να διαγράψετε αυτό το κλειδί API; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.",
   "settings.apiKeys.error.nameRequired": "Παρακαλώ εισάγετε ένα όνομα για το κλειδί API σας",
   "settings.apiKeys.error.scopesRequired": "Επιλέξτε τουλάχιστον μία άδεια",
+  "settings.apiKeys.error.adminOnlyScope": "Μόνο οι διαχειριστές μπορούν να δημιουργήσουν κλειδιά που ενεργούν για λογαριασμό άλλων συγγραφέων.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Τα κλειδιά που ενεργούν για λογαριασμό άλλων συγγραφέων δεν μπορούν να περιοριστούν σε επιλεγμένα έργα.",
   "settings.apiKeys.security.title": "Ειδοποίηση ασφαλείας",
   "settings.apiKeys.security.1": "Ποτέ μην μοιράζεστε το κλειδί API σας με κανέναν",
   "settings.apiKeys.security.2": "Αντιμετωπίστε το σαν κωδικό πρόσβασης",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Δημοσίευση κεφαλαίων",
   "settings.apiKeys.scope.story.publish.desc": "Δημοσίευση ή προγραμματισμός κεφαλαίων για αναγνώστες και beta αναγνώστες. Η δημοσίευση του πρώτου κεφαλαίου για αναγνώστες δημοσιεύει και την ιστορία",
   "settings.apiKeys.scope.diary.read": "Ανάγνωση ημερολογίου γραφής",
-  "settings.apiKeys.scope.diary.read.desc": "Πρόσβαση στις καταχωρίσεις του ημερολογίου γραφής σας και στα σερί γραφής"
+  "settings.apiKeys.scope.diary.read.desc": "Πρόσβαση στις καταχωρίσεις του ημερολογίου γραφής σας και στα σερί γραφής",
+  "settings.apiKeys.scope.author.manage": "Ενέργεια για λογαριασμό άλλων συγγραφέων",
+  "settings.apiKeys.scope.author.manage.desc": "Μόνο για διαχειριστές. Επιτρέπει σε αυτό το κλειδί να χρησιμοποιεί τα υπόλοιπα δικαιώματά του στις ιστορίες και τα σύμπαντα οποιουδήποτε συγγραφέα, για παράδειγμα για να ανεβάζετε εξώφυλλα για συγγραφείς που διαχειρίζεστε"
 }

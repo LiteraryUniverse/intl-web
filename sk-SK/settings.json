@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Ste si istí, že chcete odstrániť tento kľúč API? Túto akciu nemožno vrátiť späť.",
   "settings.apiKeys.error.nameRequired": "Zadajte názov svojho kľúča API",
   "settings.apiKeys.error.scopesRequired": "Vyberte aspoň jedno povolenie",
+  "settings.apiKeys.error.adminOnlyScope": "Kľúče, ktoré konajú v mene iných autorov, môžu vytvárať iba administrátori.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Kľúče, ktoré konajú v mene iných autorov, nemožno obmedziť na vybrané diela.",
   "settings.apiKeys.security.title": "Bezpečnostné oznámenie",
   "settings.apiKeys.security.1": "Nikdy nikomu neposkytujte svoj kľúč API",
   "settings.apiKeys.security.2": "Zaobchádzajte s ním ako s heslom",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publikovanie kapitol",
   "settings.apiKeys.scope.story.publish.desc": "Publikovanie a plánovanie kapitol pre čitateľov a beta čitateľov. Publikovaním prvej kapitoly pre čitateľov sa zverejní aj príbeh",
   "settings.apiKeys.scope.diary.read": "Čítať denník písania",
-  "settings.apiKeys.scope.diary.read.desc": "Prístup k záznamom denníka písania a sériám po sebe nasledujúcich dní písania"
+  "settings.apiKeys.scope.diary.read.desc": "Prístup k záznamom denníka písania a sériám po sebe nasledujúcich dní písania",
+  "settings.apiKeys.scope.author.manage": "Konanie v mene iných autorov",
+  "settings.apiKeys.scope.author.manage.desc": "Iba pre administrátorov. Umožňuje tomuto kľúču uplatniť ostatné povolenia na príbehy a vesmíry ľubovoľného autora, napríklad nahrávať obálky pre autorov, ktorých spravujete"
 }

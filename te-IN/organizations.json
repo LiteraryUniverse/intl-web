@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# అధ్యాయం} other {# అధ్యాయాలు}}",
   "org.search.meta.stories": "{count, plural, one {# కథ} other {# కథలు}}",
   "org.search.resultsTotal": "“{query}” కోసం {total, plural, one {# ఫలితం} other {# ఫలితాలు}}",
+  "org.search.showAll": "అన్నీ చూపించండి ({count})",
   "orgConnect.payouts.notifications": "Stripe నోటిఫికేషన్‌లు",
   "orgConnect.payouts.account": "చెల్లింపులు అందుకునే ఖాతా",
   "orgConnect.payouts.balance": "బ్యాలెన్స్ మరియు చెల్లింపులు"

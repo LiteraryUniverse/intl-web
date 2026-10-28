@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "È sicuro di voler eliminare questa chiave API? Questa azione non può essere annullata.",
   "settings.apiKeys.error.nameRequired": "Inserisca un nome per la sua chiave API",
   "settings.apiKeys.error.scopesRequired": "Selezioni almeno un permesso",
+  "settings.apiKeys.error.adminOnlyScope": "Solo gli amministratori possono creare chiavi che agiscono per conto di altri autori.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Le chiavi che agiscono per conto di altri autori non possono essere limitate a opere selezionate.",
   "settings.apiKeys.security.title": "Avviso di sicurezza",
   "settings.apiKeys.security.1": "Non condivida mai la sua chiave API con nessuno",
   "settings.apiKeys.security.2": "La tratti come una password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Pubblicare capitoli",
   "settings.apiKeys.scope.story.publish.desc": "Pubblica o programma capitoli per lettori e beta reader. Pubblicare il primo capitolo per i lettori pubblica anche la storia",
   "settings.apiKeys.scope.diary.read": "Leggere il diario di scrittura",
-  "settings.apiKeys.scope.diary.read.desc": "Accedere alle voci del diario di scrittura e alle serie di giorni consecutivi di scrittura"
+  "settings.apiKeys.scope.diary.read.desc": "Accedere alle voci del diario di scrittura e alle serie di giorni consecutivi di scrittura",
+  "settings.apiKeys.scope.author.manage": "Agire per conto di altri autori",
+  "settings.apiKeys.scope.author.manage.desc": "Solo per amministratori. Consente a questa chiave di usare gli altri suoi permessi sulle storie e sugli universi di qualsiasi autore, ad esempio per caricare le copertine degli autori che gestisce"
 }

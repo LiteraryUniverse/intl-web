@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# κεφάλαιο} other {# κεφάλαια}}",
   "org.search.meta.stories": "{count, plural, one {# ιστορία} other {# ιστορίες}}",
   "org.search.resultsTotal": "{total, plural, one {# αποτέλεσμα} other {# αποτελέσματα}} για «{query}»",
+  "org.search.showAll": "Εμφάνιση όλων ({count})",
   "orgConnect.payouts.notifications": "Ειδοποιήσεις Stripe",
   "orgConnect.payouts.account": "Λογαριασμός πληρωμών",
   "orgConnect.payouts.balance": "Υπόλοιπο και πληρωμές"

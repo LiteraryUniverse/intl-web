@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# capítol} many {# de capítols} other {# capítols}}",
   "org.search.meta.stories": "{count, plural, one {# història} many {# d’històries} other {# històries}}",
   "org.search.resultsTotal": "{total, plural, one {# resultat} many {# de resultats} other {# resultats}} per a «{query}»",
+  "org.search.showAll": "Mostra-ho tot ({count})",
   "orgConnect.payouts.notifications": "Notificacions de Stripe",
   "orgConnect.payouts.account": "Compte de pagaments",
   "orgConnect.payouts.balance": "Saldo i pagaments"

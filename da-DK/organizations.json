@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# kapitel} other {# kapitler}}",
   "org.search.meta.stories": "{count, plural, one {# historie} other {# historier}}",
   "org.search.resultsTotal": "{total, plural, one {# resultat} other {# resultater}} for “{query}”",
+  "org.search.showAll": "Vis alle {count}",
   "orgConnect.payouts.notifications": "Stripe-notifikationer",
   "orgConnect.payouts.account": "Udbetalingskonto",
   "orgConnect.payouts.balance": "Saldo og udbetalinger"

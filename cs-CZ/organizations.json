@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# kapitola} few {# kapitoly} many {# kapitoly} other {# kapitol}}",
   "org.search.meta.stories": "{count, plural, one {# příběh} few {# příběhy} many {# příběhu} other {# příběhů}}",
   "org.search.resultsTotal": "{total, plural, one {# výsledek} few {# výsledky} many {# výsledku} other {# výsledků}} pro „{query}“",
+  "org.search.showAll": "Zobrazit vše ({count})",
   "orgConnect.payouts.notifications": "Oznámení od Stripe",
   "orgConnect.payouts.account": "Účet pro výplaty",
   "orgConnect.payouts.balance": "Zůstatek a výplaty"

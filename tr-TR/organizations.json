@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# bölüm} other {# bölüm}}",
   "org.search.meta.stories": "{count, plural, one {# hikaye} other {# hikaye}}",
   "org.search.resultsTotal": "“{query}” için {total, plural, one {# sonuç} other {# sonuç}}",
+  "org.search.showAll": "Tümünü göster ({count})",
   "orgConnect.payouts.notifications": "Stripe bildirimleri",
   "orgConnect.payouts.account": "Ödeme hesabı",
   "orgConnect.payouts.balance": "Bakiye ve ödemeler"

@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, zero {لا فصول} one {فصل واحد} two {فصلان} few {# فصول} many {# فصلًا} other {# فصل}}",
   "org.search.meta.stories": "{count, plural, zero {لا قصص} one {قصة واحدة} two {قصتان} few {# قصص} many {# قصة} other {# قصة}}",
   "org.search.resultsTotal": "{total, plural, zero {لا نتائج} one {نتيجة واحدة} two {نتيجتان} few {# نتائج} many {# نتيجة} other {# نتيجة}} عن «{query}»",
+  "org.search.showAll": "عرض الكل ({count})",
   "orgConnect.payouts.notifications": "إشعارات Stripe",
   "orgConnect.payouts.account": "حساب المدفوعات",
   "orgConnect.payouts.balance": "الرصيد والمدفوعات"

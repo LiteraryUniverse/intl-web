@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Är du säker på att du vill ta bort den här API-nyckeln? Den här åtgärden kan inte ångras.",
   "settings.apiKeys.error.nameRequired": "Ange ett namn för din API-nyckel",
   "settings.apiKeys.error.scopesRequired": "Vänligen välj minst en behörighet",
+  "settings.apiKeys.error.adminOnlyScope": "Endast administratörer kan skapa nycklar som agerar för andra författares räkning.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Nycklar som agerar för andra författares räkning kan inte begränsas till valda verk.",
   "settings.apiKeys.security.title": "Meddelande om säkerhet",
   "settings.apiKeys.security.1": "Dela aldrig din API-nyckel med någon",
   "settings.apiKeys.security.2": "Behandla det som ett lösenord",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Publicera kapitel",
   "settings.apiKeys.scope.story.publish.desc": "Publicera eller schemalägg kapitel för läsare och betaläsare. När det första kapitlet publiceras för läsare publiceras även berättelsen",
   "settings.apiKeys.scope.diary.read": "Läsa skrivdagboken",
-  "settings.apiKeys.scope.diary.read.desc": "Få åtkomst till dina skrivdagboksinlägg och sviter av sammanhängande skrivdagar"
+  "settings.apiKeys.scope.diary.read.desc": "Få åtkomst till dina skrivdagboksinlägg och sviter av sammanhängande skrivdagar",
+  "settings.apiKeys.scope.author.manage": "Agera för andra författare",
+  "settings.apiKeys.scope.author.manage.desc": "Endast för administratörer. Låter nyckeln använda sina övriga behörigheter på alla författares berättelser och universum, till exempel för att ladda upp omslag åt författare du hanterar"
 }

@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "您確定要刪除此 API 金鑰嗎？此動作無法撤銷。",
   "settings.apiKeys.error.nameRequired": "請輸入您的 API 金鑰名稱",
   "settings.apiKeys.error.scopesRequired": "請至少選擇一項許可",
+  "settings.apiKeys.error.adminOnlyScope": "只有管理員可以建立代表其他作者操作的金鑰。",
+  "settings.apiKeys.error.adminScopeRestrictions": "代表其他作者操作的金鑰無法限定於所選作品。",
   "settings.apiKeys.security.title": "安全公告",
   "settings.apiKeys.security.1": "絕不與任何人分享您的 API 金鑰",
   "settings.apiKeys.security.2": "將其視為密碼",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "發布章節",
   "settings.apiKeys.scope.story.publish.desc": "為讀者和試閱讀者發布或排程發布章節。向讀者發布第一章時，故事也會一併發布",
   "settings.apiKeys.scope.diary.read": "閱讀寫作日記",
-  "settings.apiKeys.scope.diary.read.desc": "存取您的寫作日記內容和連續寫作紀錄"
+  "settings.apiKeys.scope.diary.read.desc": "存取您的寫作日記內容和連續寫作紀錄",
+  "settings.apiKeys.scope.author.manage": "代表其他作者操作",
+  "settings.apiKeys.scope.author.manage.desc": "僅限管理員。允許此金鑰將其他權限套用於任何作者的故事與宇宙，例如為您管理的作者上傳封面"
 }

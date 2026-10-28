@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# luku} other {# lukua}}",
   "org.search.meta.stories": "{count, plural, one {# tarina} other {# tarinaa}}",
   "org.search.resultsTotal": "{total, plural, one {# tulos} other {# tulosta}} haulla ”{query}”",
+  "org.search.showAll": "Näytä kaikki {count}",
   "orgConnect.payouts.notifications": "Stripe-ilmoitukset",
   "orgConnect.payouts.account": "Tilitystili",
   "orgConnect.payouts.balance": "Saldo ja tilitykset"

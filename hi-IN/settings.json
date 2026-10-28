@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "क्या आप वाकई इस API कुंजी को हटाना चाहते हैं? यह कार्रवाई पूर्ववत नहीं की जा सकती।",
   "settings.apiKeys.error.nameRequired": "कृपया अपनी API कुंजी के लिए एक नाम दर्ज करें",
   "settings.apiKeys.error.scopesRequired": "कृपया कम से कम एक अनुमति चुनें",
+  "settings.apiKeys.error.adminOnlyScope": "दूसरे लेखकों की ओर से काम करने वाली कुंजियाँ केवल व्यवस्थापक ही बना सकते हैं।",
+  "settings.apiKeys.error.adminScopeRestrictions": "दूसरे लेखकों की ओर से काम करने वाली कुंजियों को चुनी हुई रचनाओं तक सीमित नहीं किया जा सकता।",
   "settings.apiKeys.security.title": "सुरक्षा सूचना",
   "settings.apiKeys.security.1": "अपनी API कुंजी कभी किसी के साथ साझा न करें",
   "settings.apiKeys.security.2": "Treat it like a password",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "अध्याय प्रकाशित करना",
   "settings.apiKeys.scope.story.publish.desc": "पाठकों और बीटा पाठकों के लिए अध्याय प्रकाशित या शेड्यूल करना। पाठकों के लिए पहला अध्याय प्रकाशित करने पर कहानी भी प्रकाशित हो जाती है",
   "settings.apiKeys.scope.diary.read": "लेखन डायरी पढ़ना",
-  "settings.apiKeys.scope.diary.read.desc": "आपकी लेखन डायरी की प्रविष्टियों और लगातार लिखने के दिनों की श्रृंखलाओं तक पहुँच"
+  "settings.apiKeys.scope.diary.read.desc": "आपकी लेखन डायरी की प्रविष्टियों और लगातार लिखने के दिनों की श्रृंखलाओं तक पहुँच",
+  "settings.apiKeys.scope.author.manage": "दूसरे लेखकों की ओर से काम करना",
+  "settings.apiKeys.scope.author.manage.desc": "केवल व्यवस्थापकों के लिए। इस कुंजी को अपनी अन्य अनुमतियों का उपयोग किसी भी लेखक की कहानियों और ब्रह्मांडों पर करने देता है, उदाहरण के लिए आपके द्वारा प्रबंधित लेखकों के कवर अपलोड करने के लिए"
 }

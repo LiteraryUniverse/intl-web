@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# chapter} other {# chapters}}",
   "org.search.meta.stories": "{count, plural, one {# story} other {# stories}}",
   "org.search.resultsTotal": "{total, plural, one {# result} other {# results}} for \"{query}\"",
+  "org.search.showAll": "Tampilake kabeh {count}",
   "orgConnect.payouts.notifications": "Stripe notifications",
   "orgConnect.payouts.account": "Payout account",
   "orgConnect.payouts.balance": "Balance and payouts"

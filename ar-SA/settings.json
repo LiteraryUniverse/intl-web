@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "هل أنت متأكد من أنك تريد حذف مفتاح API هذا؟ لا يمكن التراجع عن هذا الإجراء.",
   "settings.apiKeys.error.nameRequired": "الرجاء إدخال اسم لمفتاح API الخاص بك",
   "settings.apiKeys.error.scopesRequired": "يرجى تحديد إذن واحد على الأقل",
+  "settings.apiKeys.error.adminOnlyScope": "يمكن للمسؤولين فقط إنشاء مفاتيح تعمل نيابةً عن مؤلفين آخرين.",
+  "settings.apiKeys.error.adminScopeRestrictions": "لا يمكن قصر المفاتيح التي تعمل نيابةً عن مؤلفين آخرين على أعمال محددة.",
   "settings.apiKeys.security.title": "إشعار أمني",
   "settings.apiKeys.security.1": "لا تشارك مفتاح API الخاص بك مع أي شخص",
   "settings.apiKeys.security.2": "تعامل معها ككلمة مرور",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "نشر الفصول",
   "settings.apiKeys.scope.story.publish.desc": "نشر الفصول أو جدولتها للقراء والقراء التجريبيين. يؤدي نشر الفصل الأول للقراء إلى نشر القصة أيضًا",
   "settings.apiKeys.scope.diary.read": "قراءة يوميات الكتابة",
-  "settings.apiKeys.scope.diary.read.desc": "الوصول إلى تدوينات يوميات الكتابة وسلاسل أيام الكتابة المتتالية"
+  "settings.apiKeys.scope.diary.read.desc": "الوصول إلى تدوينات يوميات الكتابة وسلاسل أيام الكتابة المتتالية",
+  "settings.apiKeys.scope.author.manage": "العمل نيابةً عن مؤلفين آخرين",
+  "settings.apiKeys.scope.author.manage.desc": "للمسؤولين فقط. يتيح لهذا المفتاح استخدام أذوناته الأخرى على قصص أي مؤلف وأكوانه، مثلًا لرفع الأغلفة للمؤلفين الذين تديرهم"
 }

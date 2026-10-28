@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Bu API anahtarını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
   "settings.apiKeys.error.nameRequired": "Lütfen API anahtarınız için bir ad girin",
   "settings.apiKeys.error.scopesRequired": "Lütfen en az bir izin seçin",
+  "settings.apiKeys.error.adminOnlyScope": "Diğer yazarlar adına işlem yapan anahtarları yalnızca yöneticiler oluşturabilir.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Diğer yazarlar adına işlem yapan anahtarlar seçili eserlerle sınırlandırılamaz.",
   "settings.apiKeys.security.title": "Güvenlik Bildirimi",
   "settings.apiKeys.security.1": "API anahtarınızı asla kimseyle paylaşmayın",
   "settings.apiKeys.security.2": "Şifre gibi davranın",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Bölüm yayınlama",
   "settings.apiKeys.scope.story.publish.desc": "Okurlar ve beta okurlar için bölüm yayınlama veya zamanlama. İlk bölümü okurlar için yayınlamak hikâyeyi de yayınlar",
   "settings.apiKeys.scope.diary.read": "Yazma günlüğünü oku",
-  "settings.apiKeys.scope.diary.read.desc": "Yazma günlüğü kayıtlarınıza ve ardışık yazma günlerinize erişin"
+  "settings.apiKeys.scope.diary.read.desc": "Yazma günlüğü kayıtlarınıza ve ardışık yazma günlerinize erişin",
+  "settings.apiKeys.scope.author.manage": "Diğer yazarlar adına işlem yapma",
+  "settings.apiKeys.scope.author.manage.desc": "Yalnızca yöneticiler için. Bu anahtarın diğer izinlerini herhangi bir yazarın hikayeleri ve evrenleri üzerinde kullanmasını sağlar; örneğin yönettiğiniz yazarlar için kapak yüklemek"
 }

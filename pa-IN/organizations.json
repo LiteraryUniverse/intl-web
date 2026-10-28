@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# ਅਧਿਆਇ} other {# ਅਧਿਆਇ}}",
   "org.search.meta.stories": "{count, plural, one {# ਕਹਾਣੀ} other {# ਕਹਾਣੀਆਂ}}",
   "org.search.resultsTotal": "“{query}” ਲਈ {total, plural, one {# ਨਤੀਜਾ} other {# ਨਤੀਜੇ}}",
+  "org.search.showAll": "ਸਾਰੇ {count} ਵੇਖੋ",
   "orgConnect.payouts.notifications": "Stripe ਸੂਚਨਾਵਾਂ",
   "orgConnect.payouts.account": "ਪੇਆਊਟ ਖਾਤਾ",
   "orgConnect.payouts.balance": "ਬਕਾਇਆ ਅਤੇ ਪੇਆਊਟ"

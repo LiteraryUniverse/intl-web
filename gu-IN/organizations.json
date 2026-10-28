@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# અધ્યાય} other {# અધ્યાય}}",
   "org.search.meta.stories": "{count, plural, one {# વાર્તા} other {# વાર્તાઓ}}",
   "org.search.resultsTotal": "“{query}” માટે {total, plural, one {# પરિણામ} other {# પરિણામો}}",
+  "org.search.showAll": "બધા {count} બતાવો",
   "orgConnect.payouts.notifications": "Stripe સૂચનાઓ",
   "orgConnect.payouts.account": "ચુકવણી ખાતું",
   "orgConnect.payouts.balance": "બેલેન્સ અને ચુકવણીઓ"

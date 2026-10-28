@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "Ви впевнені, що хочете видалити цей ключ API? Ця дія не може бути скасована.",
   "settings.apiKeys.error.nameRequired": "Будь ласка, введіть ім'я для вашого API-ключа",
   "settings.apiKeys.error.scopesRequired": "Будь ласка, оберіть принаймні один дозвіл",
+  "settings.apiKeys.error.adminOnlyScope": "Лише адміністратори можуть створювати ключі, що діють від імені інших авторів.",
+  "settings.apiKeys.error.adminScopeRestrictions": "Ключі, що діють від імені інших авторів, не можна обмежити вибраними творами.",
   "settings.apiKeys.security.title": "Повідомлення про безпеку",
   "settings.apiKeys.security.1": "Ніколи нікому не передавайте свій API-ключ",
   "settings.apiKeys.security.2": "Ставтеся до нього як до пароля",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "Публікуйте розділи",
   "settings.apiKeys.scope.story.publish.desc": "Публікуйте розділи або плануйте їх публікацію для читачів і бета-читачів. Публікація першого розділу для читачів публікує й історію",
   "settings.apiKeys.scope.diary.read": "Читати щоденник письменника",
-  "settings.apiKeys.scope.diary.read.desc": "Доступ до записів щоденника письменника та серій послідовних днів роботи над текстом"
+  "settings.apiKeys.scope.diary.read.desc": "Доступ до записів щоденника письменника та серій послідовних днів роботи над текстом",
+  "settings.apiKeys.scope.author.manage": "Дії від імені інших авторів",
+  "settings.apiKeys.scope.author.manage.desc": "Лише для адміністраторів. Дозволяє цьому ключу застосовувати інші дозволи до історій і всесвітів будь-якого автора, наприклад завантажувати обкладинки для авторів, якими ви керуєте"
 }

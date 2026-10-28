@@ -4763,7 +4763,7 @@
   "plans.limits.pmChats": "Maximum # of recipients for private message",
   "plans.limits.shareBackgrounds": "Custom sharing card backgrounds per universe",
   "plans.limits.blogPages": "Custom pages per blog",
-  "plans.limits.aiMonthlyUsd": "Monthly AI usage allowance (USD)",
+  "plans.limits.aiMonthlyUsd": "Monthly AI usage allowance",
   "plans.feature.creative": "Create amazing universes and stories",
   "plans.feature.encCustomFields": "Customizable encyclopedia fields on an entry",
   "plans.feature.encAdvCategories": "More encyclopedia categories",

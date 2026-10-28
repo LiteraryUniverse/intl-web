@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "이 API 키를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.",
   "settings.apiKeys.error.nameRequired": "API 키의 이름을 입력하세요.",
   "settings.apiKeys.error.scopesRequired": "하나 이상의 권한을 선택해 주세요.",
+  "settings.apiKeys.error.adminOnlyScope": "다른 작가를 대신하는 키는 관리자만 만들 수 있습니다.",
+  "settings.apiKeys.error.adminScopeRestrictions": "다른 작가를 대신하는 키는 선택한 작품으로 제한할 수 없습니다.",
   "settings.apiKeys.security.title": "보안 공지",
   "settings.apiKeys.security.1": "누구와도 API 키를 공유하지 마세요.",
   "settings.apiKeys.security.2": "비밀번호처럼 취급",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "챕터 게시",
   "settings.apiKeys.scope.story.publish.desc": "독자와 베타 독자를 위해 챕터를 게시하거나 예약합니다. 첫 챕터를 독자에게 게시하면 스토리도 함께 게시됩니다",
   "settings.apiKeys.scope.diary.read": "글쓰기 일기 읽기",
-  "settings.apiKeys.scope.diary.read.desc": "글쓰기 일기 항목과 연속 작성 기록에 접근"
+  "settings.apiKeys.scope.diary.read.desc": "글쓰기 일기 항목과 연속 작성 기록에 접근",
+  "settings.apiKeys.scope.author.manage": "다른 작가 대신 작업",
+  "settings.apiKeys.scope.author.manage.desc": "관리자 전용. 이 키의 다른 권한을 모든 작가의 스토리와 유니버스에 사용할 수 있습니다. 예를 들어 관리하는 작가의 표지를 업로드할 때 사용합니다"
 }

@@ -309,6 +309,7 @@
   "org.search.meta.chapters": "{count, plural, one {# Kapitel} other {# Kapitel}}",
   "org.search.meta.stories": "{count, plural, one {# Geschichte} other {# Geschichten}}",
   "org.search.resultsTotal": "{total, plural, one {# Ergebnis} other {# Ergebnisse}} für „{query}“",
+  "org.search.showAll": "Alle {count} anzeigen",
   "orgConnect.payouts.notifications": "Stripe-Benachrichtigungen",
   "orgConnect.payouts.account": "Auszahlungskonto",
   "orgConnect.payouts.balance": "Guthaben und Auszahlungen"

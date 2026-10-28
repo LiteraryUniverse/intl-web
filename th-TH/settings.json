@@ -126,6 +126,8 @@
   "settings.apiKeys.delete.confirm": "คุณแน่ใจหรือไม่ว่าต้องการลบคีย์ API นี้ การดำเนินการนี้ไม่สามารถย้อนกลับได้",
   "settings.apiKeys.error.nameRequired": "กรุณากรอกชื่อสำหรับคีย์ API ของคุณ",
   "settings.apiKeys.error.scopesRequired": "กรุณาเลือกอย่างน้อยหนึ่งสิทธิ์",
+  "settings.apiKeys.error.adminOnlyScope": "เฉพาะผู้ดูแลระบบเท่านั้นที่สร้างคีย์ที่ดำเนินการแทนผู้เขียนคนอื่นได้",
+  "settings.apiKeys.error.adminScopeRestrictions": "คีย์ที่ดำเนินการแทนผู้เขียนคนอื่นไม่สามารถจำกัดไว้เฉพาะผลงานที่เลือกได้",
   "settings.apiKeys.security.title": "ประกาศความปลอดภัย",
   "settings.apiKeys.security.1": "อย่าแบ่งปันคีย์ API ของคุณกับใคร",
   "settings.apiKeys.security.2": "ปฏิบัติต่อมันเหมือนรหัสผ่าน",
@@ -289,5 +291,7 @@
   "settings.apiKeys.scope.story.publish": "เผยแพร่ตอน",
   "settings.apiKeys.scope.story.publish.desc": "เผยแพร่หรือตั้งเวลาเผยแพร่ตอนสำหรับผู้อ่านและผู้อ่านเบต้า การเผยแพร่ตอนแรกให้ผู้อ่านจะเผยแพร่เรื่องด้วย",
   "settings.apiKeys.scope.diary.read": "อ่านบันทึกการเขียน",
-  "settings.apiKeys.scope.diary.read.desc": "เข้าถึงรายการบันทึกการเขียนและสถิติวันเขียนต่อเนื่องของคุณ"
+  "settings.apiKeys.scope.diary.read.desc": "เข้าถึงรายการบันทึกการเขียนและสถิติวันเขียนต่อเนื่องของคุณ",
+  "settings.apiKeys.scope.author.manage": "ดำเนินการแทนผู้เขียนคนอื่น",
+  "settings.apiKeys.scope.author.manage.desc": "สำหรับผู้ดูแลระบบเท่านั้น ให้คีย์นี้ใช้สิทธิ์อื่นๆ ของตนกับเรื่องราวและจักรวาลของผู้เขียนคนใดก็ได้ เช่น อัปโหลดปกให้ผู้เขียนที่คุณดูแล"
 }
