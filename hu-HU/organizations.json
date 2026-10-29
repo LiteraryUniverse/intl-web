@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Auditnapló",
-  "org.apiKeys.description": "Az API-kulcsok lehetővé teszik egy külső webhely (például egy WIX webhely) számára, hogy olvassa a szervezet nyilvános adatait. Kezelje őket jelszóként, és soha ne ossza meg őket.",
+  "org.apiKeys.description": "Az API-kulcsok lehetővé teszik egy külső webhely (például egy WIX webhely) számára, hogy olvassa a szervezet nyilvános adatait, illetve eszközök számára, hogy a szervezet történetein és univerzumain dolgozzanak. Kezelje őket jelszóként, és soha ne ossza meg őket.",
   "org.apiKeys.noKeys": "Ennek a szervezetnek még nincsenek API-kulcsai.",
-  "org.apiKeys.create.title": "Nyilvános olvasási kulcs létrehozása",
-  "org.apiKeys.create.description": "Ez a kulcs csak olvasási hozzáférést biztosít a szervezet nyilvános adataihoz (profil, közzétett történetek, univerzumok és tanfolyamok), hogy megjeleníthesse őket egy külső webhelyen.",
+  "org.apiKeys.create.title": "API-kulcs létrehozása",
+  "org.apiKeys.create.description": "Válassza ki, mit tehet a kulcs. A nyilvános adatok olvasása elég ahhoz, hogy a szervezetet egy külső webhelyen megjelenítse. A többi engedély a szervezet nevében jár el annak saját történetein és univerzumain, ahogyan egy szervezeti adminisztrátor tenné.",
   "org.apiKeys.name.placeholder": "pl. WIX webhely",
   "org.apiKeys.revoke": "Visszavonás",
   "org.settings.title": "Szervezeti beállítások",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Összes ({count}) megjelenítése",
   "orgConnect.payouts.notifications": "Stripe-értesítések",
   "orgConnect.payouts.account": "Kifizetési számla",
-  "orgConnect.payouts.balance": "Egyenleg és kifizetések"
+  "orgConnect.payouts.balance": "Egyenleg és kifizetések",
+  "org.apiKeys.scope.organization.read": "Nyilvános adatok olvasása",
+  "org.apiKeys.scope.story.read": "Történetek olvasása",
+  "org.apiKeys.scope.story.write": "Történetek szerkesztése",
+  "org.apiKeys.scope.story.publish": "Fejezetek közzététele",
+  "org.apiKeys.scope.universe.read": "Univerzumok olvasása",
+  "org.apiKeys.scope.universe.write": "Univerzumok szerkesztése",
+  "org.apiKeys.scope.universe.translate": "Univerzumok fordítása",
+  "org.apiKeys.scope.organization.read.desc": "A profil, a közzétett történetek, univerzumok és tanfolyamok, külső webhelyen való megjelenítéshez",
+  "org.apiKeys.scope.story.read.desc": "A szervezet történetei a piszkozataikkal, valamint az univerzumaiban lévő történetek",
+  "org.apiKeys.scope.story.write.desc": "Történetadatok, fejezetek és sorrendjük, láthatóság és piszkozatok",
+  "org.apiKeys.scope.story.publish.desc": "E történetek fejezeteinek közzététele vagy ütemezése",
+  "org.apiKeys.scope.universe.read.desc": "A szervezet univerzumai az enciklopédiáikkal és sorozataikkal",
+  "org.apiKeys.scope.universe.write.desc": "Univerzumadatok, enciklopédia-bejegyzések, sorozatok és fordítások",
+  "org.apiKeys.scope.universe.translate.desc": "Univerzumok címei és leírásai más nyelveken"
 }

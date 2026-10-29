@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "অডিট লগ",
-  "org.apiKeys.description": "API কীসমূহে কোনো বাহ্যিক ছাইটক (যেনে এটা WIX ৱেবছাইট) আপোনাৰ সংগঠনৰ ৰাজহুৱা তথ্য পঢ়িবলৈ অনুমতি দিয়ে। ইয়াক পাছৱৰ্ডৰ দৰে গণ্য কৰক আৰু কেতিয়াও শ্বেয়াৰ নকৰিব।",
+  "org.apiKeys.description": "API কীসমূহে কোনো বাহ্যিক ছাইটক (যেনে এটা WIX ৱেবছাইট) আপোনাৰ সংগঠনৰ ৰাজহুৱা তথ্য পঢ়িবলৈ, বা সঁজুলিসমূহক সংগঠনৰ গল্প আৰু বিশ্বসমূহত কাম কৰিবলৈ অনুমতি দিয়ে। ইয়াক পাছৱৰ্ডৰ দৰে গণ্য কৰক আৰু কেতিয়াও শ্বেয়াৰ নকৰিব।",
   "org.apiKeys.noKeys": "এই সংগঠনৰ এতিয়ালৈকে কোনো API কী নাই।",
-  "org.apiKeys.create.title": "ৰাজহুৱা ৰিড কী সৃষ্টি কৰক",
-  "org.apiKeys.create.description": "এই কীয়ে আপোনাৰ সংগঠনৰ ৰাজহুৱা তথ্যলৈ (প্ৰ'ফাইল, প্ৰকাশিত গল্প, বিশ্ব আৰু পাঠ্যক্ৰম) কেৱল-পঢ়া প্ৰৱেশ প্ৰদান কৰে, যাতে আপুনি ইয়াক এটা বাহ্যিক ছাইটত প্ৰদৰ্শন কৰিব পাৰে।",
+  "org.apiKeys.create.title": "API কী সৃষ্টি কৰক",
+  "org.apiKeys.create.description": "কীটোৱে কি কৰিব পাৰিব বাছনি কৰক। বাহ্যিক ছাইটত সংগঠনটো প্ৰদৰ্শন কৰিবলৈ ৰাজহুৱা তথ্য পঢ়াই যথেষ্ট। আন অনুমতিসমূহে সংগঠনৰ নিজৰ গল্প আৰু বিশ্বসমূহত সংগঠন হিচাপে কাম কৰে, যেনেকৈ সংগঠনৰ এজন প্ৰশাসকে কৰে।",
   "org.apiKeys.name.placeholder": "যেনে WIX ৱেবছাইট",
   "org.apiKeys.revoke": "প্ৰত্যাহাৰ কৰক",
   "org.settings.title": "সংগঠন সেটিংস",
@@ -312,5 +312,19 @@
   "org.search.showAll": "সকলো {count}টা দেখুৱাওক",
   "orgConnect.payouts.notifications": "Stripe notifications",
   "orgConnect.payouts.account": "Payout account",
-  "orgConnect.payouts.balance": "Balance and payouts"
+  "orgConnect.payouts.balance": "Balance and payouts",
+  "org.apiKeys.scope.organization.read": "ৰাজহুৱা তথ্য পঢ়া",
+  "org.apiKeys.scope.story.read": "গল্প পঢ়া",
+  "org.apiKeys.scope.story.write": "গল্প সম্পাদনা কৰা",
+  "org.apiKeys.scope.story.publish": "অধ্যায় প্ৰকাশ কৰা",
+  "org.apiKeys.scope.universe.read": "বিশ্ব পঢ়া",
+  "org.apiKeys.scope.universe.write": "বিশ্ব সম্পাদনা কৰা",
+  "org.apiKeys.scope.universe.translate": "বিশ্ব অনুবাদ কৰা",
+  "org.apiKeys.scope.organization.read.desc": "প্ৰ'ফাইল, প্ৰকাশিত গল্প, বিশ্ব আৰু পাঠ্যক্ৰম, বাহ্যিক ছাইটত প্ৰদৰ্শনৰ বাবে",
+  "org.apiKeys.scope.story.read.desc": "সংগঠনৰ গল্পসমূহ সিহঁতৰ খচৰাসহ, আৰু ইয়াৰ বিশ্বসমূহত থকা গল্প",
+  "org.apiKeys.scope.story.write.desc": "গল্পৰ বিৱৰণ, অধ্যায় আৰু সিহঁতৰ ক্ৰম, দৃশ্যমানতা আৰু খচৰা",
+  "org.apiKeys.scope.story.publish.desc": "এই গল্পসমূহৰ অধ্যায় প্ৰকাশ বা সময়সূচীবদ্ধ কৰা",
+  "org.apiKeys.scope.universe.read.desc": "সংগঠনৰ বিশ্বসমূহ সিহঁতৰ বিশ্বকোষ আৰু ছিৰিজসহ",
+  "org.apiKeys.scope.universe.write.desc": "বিশ্বৰ বিৱৰণ, বিশ্বকোষৰ প্ৰৱিষ্টি, ছিৰিজ আৰু অনুবাদ",
+  "org.apiKeys.scope.universe.translate.desc": "আন ভাষাত বিশ্বসমূহৰ শিৰোনাম আৰু বিৱৰণ"
 }

@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "감사 로그",
-  "org.apiKeys.description": "API 키를 사용하면 외부 사이트(예: WIX 웹사이트)가 조직의 공개 데이터를 읽을 수 있습니다. 비밀번호처럼 취급하고 절대 공유하지 마세요.",
+  "org.apiKeys.description": "API 키를 사용하면 외부 사이트(예: WIX 웹사이트)가 조직의 공개 데이터를 읽거나, 도구가 조직의 이야기와 우주에서 작업할 수 있습니다. 비밀번호처럼 취급하고 절대 공유하지 마세요.",
   "org.apiKeys.noKeys": "이 조직에는 아직 API 키가 없습니다.",
-  "org.apiKeys.create.title": "공개 읽기 키 생성",
-  "org.apiKeys.create.description": "이 키는 조직의 공개 데이터(프로필, 공개된 이야기, 우주 및 코스)에 대한 읽기 전용 접근 권한을 부여하여 외부 사이트에 표시할 수 있게 합니다.",
+  "org.apiKeys.create.title": "API 키 생성",
+  "org.apiKeys.create.description": "키가 할 수 있는 작업을 선택하세요. 외부 사이트에 조직을 표시하려면 공개 데이터 읽기만으로 충분합니다. 나머지 권한은 조직 관리자처럼 조직으로서 조직 자체의 이야기와 우주에서 작동합니다.",
   "org.apiKeys.name.placeholder": "예: WIX 웹사이트",
   "org.apiKeys.revoke": "해지",
   "org.settings.title": "조직 설정",
@@ -312,5 +312,19 @@
   "org.search.showAll": "{count}개 모두 보기",
   "orgConnect.payouts.notifications": "Stripe 알림",
   "orgConnect.payouts.account": "지급 계정",
-  "orgConnect.payouts.balance": "잔액 및 지급금"
+  "orgConnect.payouts.balance": "잔액 및 지급금",
+  "org.apiKeys.scope.organization.read": "공개 데이터 읽기",
+  "org.apiKeys.scope.story.read": "이야기 읽기",
+  "org.apiKeys.scope.story.write": "이야기 편집",
+  "org.apiKeys.scope.story.publish": "챕터 게시",
+  "org.apiKeys.scope.universe.read": "우주 읽기",
+  "org.apiKeys.scope.universe.write": "우주 편집",
+  "org.apiKeys.scope.universe.translate": "우주 번역",
+  "org.apiKeys.scope.organization.read.desc": "외부 사이트에 표시할 프로필, 공개된 이야기, 우주 및 코스",
+  "org.apiKeys.scope.story.read.desc": "조직의 이야기와 그 초안, 그리고 조직의 우주에 속한 이야기",
+  "org.apiKeys.scope.story.write.desc": "이야기 세부 정보, 챕터와 그 순서, 가시성 및 초안",
+  "org.apiKeys.scope.story.publish.desc": "이 이야기들의 챕터를 게시하거나 예약",
+  "org.apiKeys.scope.universe.read.desc": "조직의 우주와 그 백과사전 및 시리즈",
+  "org.apiKeys.scope.universe.write.desc": "우주 세부 정보, 백과사전 항목, 시리즈 및 번역",
+  "org.apiKeys.scope.universe.translate.desc": "다른 언어로 된 우주의 제목과 설명"
 }

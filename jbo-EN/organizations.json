@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "lo se cusku be lo nu le jecta cu jibri",
-  "org.apiKeys.description": ".i lo API ckiku cu curmi lo nu lo bartu tcana (mu'a lo WIX tcana) cu tcidu lo gubni datni be lo do jecta .i ko sinma ke'a tai lo japyvla gi'e na roroi dunda fi lo drata",
+  "org.apiKeys.description": ".i lo API ckiku cu curmi lo nu lo bartu tcana (mu'a lo WIX tcana) cu tcidu lo gubni datni be lo do jecta kei .a lo nu lo tutci cu gunka lo cfika .e lo kensa be lo jecta .i ko sinma ke'a tai lo japyvla gi'e na roroi dunda fi lo drata",
   "org.apiKeys.noKeys": ".i le vi jecta cu ca na ponse lo API ckiku",
-  "org.apiKeys.create.title": "finti lo gubni tcidu ckiku",
-  "org.apiKeys.create.description": ".i le vi ckiku cu curmi lo nu tcidu po'o lo gubni datni be lo do jecta (lo se skicu .e lo se gubgau cfika .e lo kensa .e lo kursoi) tezu'e lo nu do kakne lo nu jarco ke'a fi lo bartu tcana",
+  "org.apiKeys.create.title": "finti lo API ckiku",
+  "org.apiKeys.create.description": ".i ko cuxna lo se curmi be le ckiku .i lo nu tcidu lo gubni datni cu banzu lo nu jarco le jecta fi lo bartu tcana .i lo drata se curmi cu gasnu tai le jecta fi lo cfika .e lo kensa pe le jecta .i ti simsa lo nu lo turni be le jecta cu gasnu",
   "org.apiKeys.name.placeholder": "mu'a lo WIX tcana",
   "org.apiKeys.revoke": "vimcu",
   "org.settings.title": "lo se cusku be lo nu le jecta cu setca",
@@ -312,5 +312,19 @@
   "org.search.showAll": "ko jarco ro da ({count})",
   "orgConnect.payouts.notifications": "Stripe notifications",
   "orgConnect.payouts.account": "Payout account",
-  "orgConnect.payouts.balance": "Balance and payouts"
+  "orgConnect.payouts.balance": "Balance and payouts",
+  "org.apiKeys.scope.organization.read": "tcidu lo gubni datni",
+  "org.apiKeys.scope.story.read": "tcidu lo cfika",
+  "org.apiKeys.scope.story.write": "galfi lo cfika",
+  "org.apiKeys.scope.story.publish": "gubgau lo ckupau",
+  "org.apiKeys.scope.universe.read": "tcidu lo kensa",
+  "org.apiKeys.scope.universe.write": "galfi lo kensa",
+  "org.apiKeys.scope.universe.translate": "fanva lo kensa",
+  "org.apiKeys.scope.organization.read.desc": "lo se skicu .e lo se gubgau cfika .e lo kensa .e lo kursoi tezu'e lo nu jarco fi lo bartu tcana",
+  "org.apiKeys.scope.story.read.desc": "lo cfika pe le jecta jo'u lo ri nu'o gubgau .e lo cfika pe lo kensa pe le jecta",
+  "org.apiKeys.scope.story.write.desc": "lo tcila be lo cfika .e lo ckupau jo'u lo porsi be ri .e lo ka se viska .e lo nu'o gubgau",
+  "org.apiKeys.scope.story.publish.desc": "gubgau ja ba gubgau lo ckupau be le vi cfika",
+  "org.apiKeys.scope.universe.read.desc": "lo kensa pe le jecta jo'u lo ri sitna cukta .e lo ri lisri porsi",
+  "org.apiKeys.scope.universe.write.desc": "lo tcila be lo kensa .e lo sitna cukta pagbu .e lo lisri porsi .e lo se fanva",
+  "org.apiKeys.scope.universe.translate.desc": "lo cmene .e lo velski be lo kensa bau lo drata bangu"
 }

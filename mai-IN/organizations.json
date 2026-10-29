@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "अडिट लग",
-  "org.apiKeys.description": "API कीसभ कोनो बाहरी साइटकेँ (जेना एकटा WIX वेबसाइट) अहाँक संगठनक सार्वजनिक डेटा पढ़बाक अनुमति दैत अछि। इनका पासवर्ड जकाँ मानू आ कहियो साझा नहि करू।",
+  "org.apiKeys.description": "API कीसभ कोनो बाहरी साइटकेँ (जेना एकटा WIX वेबसाइट) अहाँक संगठनक सार्वजनिक डेटा पढ़बाक, वा टूलसभकेँ संगठनक कथा आ ब्रह्मांड पर काज करबाक अनुमति दैत अछि। इनका पासवर्ड जकाँ मानू आ कहियो साझा नहि करू।",
   "org.apiKeys.noKeys": "एहि संगठनक लग अखन धरि कोनो API की नहि अछि।",
-  "org.apiKeys.create.title": "सार्वजनिक रीड की बनाउ",
-  "org.apiKeys.create.description": "ई की अहाँक संगठनक सार्वजनिक डेटा (प्रोफाइल, प्रकाशित कथा, ब्रह्मांड आ पाठ्यक्रम) पर केवल-पढ़बाक पहुँच दैत अछि, जाहिसँ अहाँ एकरा कोनो बाहरी साइट पर देखा सकी।",
+  "org.apiKeys.create.title": "API की बनाउ",
+  "org.apiKeys.create.description": "चुनू जे ई की कोन-कोन काज कऽ सकैत अछि। बाहरी साइट पर संगठनकेँ देखेबाक लेल सार्वजनिक डेटा पढ़ब पर्याप्त अछि। आन अनुमतिसभ संगठनक प्रशासक जकाँ, संगठनक रूपमे ओकर अपन कथा आ ब्रह्मांड पर काज करैत अछि।",
   "org.apiKeys.name.placeholder": "जेना WIX वेबसाइट",
   "org.apiKeys.revoke": "रद्द करू",
   "org.settings.title": "संगठन सेटिंग्स",
@@ -312,5 +312,19 @@
   "org.search.showAll": "सभटा {count} देखाउ",
   "orgConnect.payouts.notifications": "Stripe notifications",
   "orgConnect.payouts.account": "Payout account",
-  "orgConnect.payouts.balance": "Balance and payouts"
+  "orgConnect.payouts.balance": "Balance and payouts",
+  "org.apiKeys.scope.organization.read": "सार्वजनिक डेटा पढ़ू",
+  "org.apiKeys.scope.story.read": "कथा पढ़ू",
+  "org.apiKeys.scope.story.write": "कथा संपादित करू",
+  "org.apiKeys.scope.story.publish": "अध्याय प्रकाशित करू",
+  "org.apiKeys.scope.universe.read": "ब्रह्मांड पढ़ू",
+  "org.apiKeys.scope.universe.write": "ब्रह्मांड संपादित करू",
+  "org.apiKeys.scope.universe.translate": "ब्रह्मांडक अनुवाद करू",
+  "org.apiKeys.scope.organization.read.desc": "प्रोफाइल, प्रकाशित कथा, ब्रह्मांड आ पाठ्यक्रम, बाहरी साइट पर देखेबाक लेल",
+  "org.apiKeys.scope.story.read.desc": "संगठनक कथा ओकर मसौदाक संग, आ ओकर ब्रह्मांडमे कथा",
+  "org.apiKeys.scope.story.write.desc": "कथाक विवरण, अध्याय आ ओकर क्रम, दृश्यता आ मसौदा",
+  "org.apiKeys.scope.story.publish.desc": "एहि कथा सभक अध्याय प्रकाशित वा निर्धारित करू",
+  "org.apiKeys.scope.universe.read.desc": "संगठनक ब्रह्मांड ओकर ज्ञानकोष आ शृंखलाक संग",
+  "org.apiKeys.scope.universe.write.desc": "ब्रह्मांडक विवरण, ज्ञानकोषक प्रविष्टि, शृंखला आ अनुवाद",
+  "org.apiKeys.scope.universe.translate.desc": "आन भाषामे ब्रह्मांडक शीर्षक आ विवरण"
 }

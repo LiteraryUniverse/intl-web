@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Registro de auditoría",
-  "org.apiKeys.description": "Las claves API permiten que un sitio externo (como un sitio web de WIX) lea los datos públicos de tu organización. Trátalas como contraseñas y no las compartas nunca.",
+  "org.apiKeys.description": "Las claves API permiten que un sitio externo (como un sitio web de WIX) lea los datos públicos de tu organización o que herramientas trabajen con las historias y los universos de la organización. Trátalas como contraseñas y no las compartas nunca.",
   "org.apiKeys.noKeys": "Esta organización aún no tiene ninguna clave API.",
-  "org.apiKeys.create.title": "Crear clave de lectura pública",
-  "org.apiKeys.create.description": "Esta clave concede acceso de solo lectura a los datos públicos de tu organización (perfil, historias publicadas, universos y cursos) para que puedas mostrarlos en un sitio externo.",
+  "org.apiKeys.create.title": "Crear clave API",
+  "org.apiKeys.create.description": "Elige qué puede hacer la clave. Leer los datos públicos basta para mostrar la organización en un sitio externo. Los demás permisos actúan como la organización sobre sus propias historias y universos, igual que lo haría un administrador de la organización.",
   "org.apiKeys.name.placeholder": "p. ej., sitio web de WIX",
   "org.apiKeys.revoke": "Revocar",
   "org.settings.title": "Configuración de organización",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Mostrar todo ({count})",
   "orgConnect.payouts.notifications": "Notificaciones de Stripe",
   "orgConnect.payouts.account": "Cuenta de pagos",
-  "orgConnect.payouts.balance": "Saldo y pagos"
+  "orgConnect.payouts.balance": "Saldo y pagos",
+  "org.apiKeys.scope.organization.read": "Leer datos públicos",
+  "org.apiKeys.scope.story.read": "Leer historias",
+  "org.apiKeys.scope.story.write": "Editar historias",
+  "org.apiKeys.scope.story.publish": "Publicar capítulos",
+  "org.apiKeys.scope.universe.read": "Leer universos",
+  "org.apiKeys.scope.universe.write": "Editar universos",
+  "org.apiKeys.scope.universe.translate": "Traducir universos",
+  "org.apiKeys.scope.organization.read.desc": "El perfil, las historias publicadas, los universos y los cursos, para mostrarlos en un sitio externo",
+  "org.apiKeys.scope.story.read.desc": "Las historias de la organización con sus borradores, y las historias de sus universos",
+  "org.apiKeys.scope.story.write.desc": "Detalles de las historias, los capítulos y su orden, la visibilidad y los borradores",
+  "org.apiKeys.scope.story.publish.desc": "Publicar o programar capítulos de estas historias",
+  "org.apiKeys.scope.universe.read.desc": "Los universos de la organización con sus enciclopedias y series",
+  "org.apiKeys.scope.universe.write.desc": "Detalles de los universos, entradas de enciclopedia, series y traducciones",
+  "org.apiKeys.scope.universe.translate.desc": "Títulos y descripciones de los universos en otros idiomas"
 }

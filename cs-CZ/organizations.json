@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Protokol",
-  "org.apiKeys.description": "API klíče umožňují externímu webu (například webu na platformě WIX) číst veřejná data vaší organizace. Zacházejte s nimi jako s hesly a nikdy je nesdílejte.",
+  "org.apiKeys.description": "API klíče umožňují externímu webu (například webu na platformě WIX) číst veřejná data vaší organizace nebo nástrojům pracovat s příběhy a vesmíry organizace. Zacházejte s nimi jako s hesly a nikdy je nesdílejte.",
   "org.apiKeys.noKeys": "Tato organizace zatím nemá žádné API klíče.",
-  "org.apiKeys.create.title": "Vytvořit veřejný klíč pro čtení",
-  "org.apiKeys.create.description": "Tento klíč uděluje přístup pouze pro čtení k veřejným datům vaší organizace (profil, publikované příběhy, vesmíry a kurzy), abyste je mohli zobrazit na externím webu.",
+  "org.apiKeys.create.title": "Vytvořit API klíč",
+  "org.apiKeys.create.description": "Zvolte, co klíč smí dělat. Ke zobrazení organizace na externím webu stačí čtení veřejných dat. Ostatní oprávnění jednají jménem organizace s jejími vlastními příběhy a vesmíry, stejně jako správce organizace.",
   "org.apiKeys.name.placeholder": "např. web na WIX",
   "org.apiKeys.revoke": "Odvolat",
   "org.settings.title": "Nastavení organizace",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Zobrazit vše ({count})",
   "orgConnect.payouts.notifications": "Oznámení od Stripe",
   "orgConnect.payouts.account": "Účet pro výplaty",
-  "orgConnect.payouts.balance": "Zůstatek a výplaty"
+  "orgConnect.payouts.balance": "Zůstatek a výplaty",
+  "org.apiKeys.scope.organization.read": "Číst veřejná data",
+  "org.apiKeys.scope.story.read": "Číst příběhy",
+  "org.apiKeys.scope.story.write": "Upravovat příběhy",
+  "org.apiKeys.scope.story.publish": "Publikovat kapitoly",
+  "org.apiKeys.scope.universe.read": "Číst vesmíry",
+  "org.apiKeys.scope.universe.write": "Upravovat vesmíry",
+  "org.apiKeys.scope.universe.translate": "Překládat vesmíry",
+  "org.apiKeys.scope.organization.read.desc": "Profil, publikované příběhy, vesmíry a kurzy pro zobrazení na externím webu",
+  "org.apiKeys.scope.story.read.desc": "Příběhy organizace včetně konceptů a příběhy v jejích vesmírech",
+  "org.apiKeys.scope.story.write.desc": "Údaje o příběhu, kapitoly a jejich pořadí, viditelnost a koncepty",
+  "org.apiKeys.scope.story.publish.desc": "Publikovat nebo naplánovat kapitoly těchto příběhů",
+  "org.apiKeys.scope.universe.read.desc": "Vesmíry organizace včetně encyklopedií a sérií",
+  "org.apiKeys.scope.universe.write.desc": "Údaje o vesmíru, záznamy v encyklopedii, série a překlady",
+  "org.apiKeys.scope.universe.translate.desc": "Názvy a popisy vesmírů v jiných jazycích"
 }

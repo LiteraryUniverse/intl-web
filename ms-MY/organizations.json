@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Log Audit",
-  "org.apiKeys.description": "Kunci API membolehkan tapak luaran (seperti tapak web WIX) membaca data awam organisasi anda. Perlakukannya seperti kata laluan dan jangan sekali-kali berkongsinya.",
+  "org.apiKeys.description": "Kunci API membolehkan tapak luaran (seperti tapak web WIX) membaca data awam organisasi anda, atau membolehkan alat bekerja pada cerita dan univers organisasi. Perlakukannya seperti kata laluan dan jangan sekali-kali berkongsinya.",
   "org.apiKeys.noKeys": "Organisasi ini belum mempunyai sebarang kunci API lagi.",
-  "org.apiKeys.create.title": "Cipta kunci baca awam",
-  "org.apiKeys.create.description": "Kunci ini memberikan akses baca sahaja kepada data awam organisasi anda (profil, cerita yang diterbitkan, alam semesta dan kursus) supaya anda boleh memaparkannya di tapak luaran.",
+  "org.apiKeys.create.title": "Cipta kunci API",
+  "org.apiKeys.create.description": "Pilih perkara yang boleh dilakukan oleh kunci ini. Membaca data awam sudah cukup untuk memaparkan organisasi di tapak luaran. Kebenaran lain bertindak sebagai organisasi pada cerita dan universnya sendiri, seperti yang dilakukan oleh pentadbir organisasi.",
   "org.apiKeys.name.placeholder": "cth., tapak web WIX",
   "org.apiKeys.revoke": "Batalkan",
   "org.settings.title": "Tetapan Organisasi",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Lihat semua {count}",
   "orgConnect.payouts.notifications": "Pemberitahuan Stripe",
   "orgConnect.payouts.account": "Akaun pembayaran keluar",
-  "orgConnect.payouts.balance": "Baki dan pembayaran keluar"
+  "orgConnect.payouts.balance": "Baki dan pembayaran keluar",
+  "org.apiKeys.scope.organization.read": "Baca data awam",
+  "org.apiKeys.scope.story.read": "Baca cerita",
+  "org.apiKeys.scope.story.write": "Edit cerita",
+  "org.apiKeys.scope.story.publish": "Terbitkan bab",
+  "org.apiKeys.scope.universe.read": "Baca univers",
+  "org.apiKeys.scope.universe.write": "Edit univers",
+  "org.apiKeys.scope.universe.translate": "Terjemah univers",
+  "org.apiKeys.scope.organization.read.desc": "Profil, cerita yang diterbitkan, univers dan kursus, untuk dipaparkan di tapak luaran",
+  "org.apiKeys.scope.story.read.desc": "Cerita organisasi berserta drafnya, dan cerita dalam universnya",
+  "org.apiKeys.scope.story.write.desc": "Butiran cerita, bab dan susunannya, keterlihatan dan draf",
+  "org.apiKeys.scope.story.publish.desc": "Terbitkan atau jadualkan bab cerita ini",
+  "org.apiKeys.scope.universe.read.desc": "Univers organisasi berserta ensiklopedia dan sirinya",
+  "org.apiKeys.scope.universe.write.desc": "Butiran univers, entri ensiklopedia, siri dan terjemahan",
+  "org.apiKeys.scope.universe.translate.desc": "Tajuk dan penerangan univers dalam bahasa lain"
 }

@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "ऑडिट लॉग",
-  "org.apiKeys.description": "API कुंजियाँ किसी बाहरी साइट (जैसे WIX वेबसाइट) को आपके संगठन का सार्वजनिक डेटा पढ़ने देती हैं। इन्हें पासवर्ड की तरह समझें और कभी साझा न करें।",
+  "org.apiKeys.description": "API कुंजियाँ किसी बाहरी साइट (जैसे WIX वेबसाइट) को आपके संगठन का सार्वजनिक डेटा पढ़ने देती हैं, या टूल को संगठन की कहानियों और ब्रह्मांडों पर काम करने देती हैं। इन्हें पासवर्ड की तरह समझें और कभी साझा न करें।",
   "org.apiKeys.noKeys": "इस संगठन के पास अभी तक कोई API कुंजी नहीं है।",
-  "org.apiKeys.create.title": "सार्वजनिक पठन कुंजी बनाएँ",
-  "org.apiKeys.create.description": "यह कुंजी आपके संगठन के सार्वजनिक डेटा (प्रोफ़ाइल, प्रकाशित कहानियाँ, विश्व और पाठ्यक्रम) तक केवल-पढ़ने की पहुँच देती है, ताकि आप इसे किसी बाहरी साइट पर प्रदर्शित कर सकें।",
+  "org.apiKeys.create.title": "API कुंजी बनाएँ",
+  "org.apiKeys.create.description": "चुनें कि कुंजी क्या कर सकती है। संगठन को किसी बाहरी साइट पर दिखाने के लिए सार्वजनिक डेटा पढ़ना पर्याप्त है। अन्य अनुमतियाँ संगठन की अपनी कहानियों और ब्रह्मांडों पर संगठन के रूप में काम करती हैं, जैसे कोई संगठन प्रशासक करता।",
   "org.apiKeys.name.placeholder": "उदा., WIX वेबसाइट",
   "org.apiKeys.revoke": "निरस्त करें",
   "org.settings.title": "संगठन सेटिंग्स",
@@ -312,5 +312,19 @@
   "org.search.showAll": "सभी {count} दिखाएँ",
   "orgConnect.payouts.notifications": "Stripe सूचनाएँ",
   "orgConnect.payouts.account": "पेआउट खाता",
-  "orgConnect.payouts.balance": "शेष राशि और पेआउट"
+  "orgConnect.payouts.balance": "शेष राशि और पेआउट",
+  "org.apiKeys.scope.organization.read": "सार्वजनिक डेटा पढ़ना",
+  "org.apiKeys.scope.story.read": "कहानियाँ पढ़ना",
+  "org.apiKeys.scope.story.write": "कहानियाँ संपादित करना",
+  "org.apiKeys.scope.story.publish": "अध्याय प्रकाशित करना",
+  "org.apiKeys.scope.universe.read": "ब्रह्मांड पढ़ना",
+  "org.apiKeys.scope.universe.write": "ब्रह्मांड संपादित करना",
+  "org.apiKeys.scope.universe.translate": "ब्रह्मांडों का अनुवाद करना",
+  "org.apiKeys.scope.organization.read.desc": "प्रोफ़ाइल, प्रकाशित कहानियाँ, ब्रह्मांड और पाठ्यक्रम, किसी बाहरी साइट पर दिखाने के लिए",
+  "org.apiKeys.scope.story.read.desc": "संगठन की कहानियाँ उनके ड्राफ़्ट के साथ, और उसके ब्रह्मांडों में मौजूद कहानियाँ",
+  "org.apiKeys.scope.story.write.desc": "कहानी का विवरण, अध्याय और उनका क्रम, दृश्यता और ड्राफ़्ट",
+  "org.apiKeys.scope.story.publish.desc": "इन कहानियों के अध्याय प्रकाशित या शेड्यूल करना",
+  "org.apiKeys.scope.universe.read.desc": "संगठन के ब्रह्मांड उनके ज्ञानकोशों और श्रृंखलाओं के साथ",
+  "org.apiKeys.scope.universe.write.desc": "ब्रह्मांड का विवरण, ज्ञानकोश प्रविष्टियाँ, श्रृंखलाएँ और अनुवाद",
+  "org.apiKeys.scope.universe.translate.desc": "अन्य भाषाओं में ब्रह्मांडों के शीर्षक और विवरण"
 }

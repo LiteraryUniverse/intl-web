@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Audit-Protokoll",
-  "org.apiKeys.description": "API-Schlüssel ermöglichen es einer externen Website (etwa einer WIX-Website), die öffentlichen Daten deiner Organisation zu lesen. Behandle sie wie Passwörter und gib sie niemals weiter.",
+  "org.apiKeys.description": "API-Schlüssel ermöglichen es einer externen Website (etwa einer WIX-Website), die öffentlichen Daten deiner Organisation zu lesen, oder Tools, an den Geschichten und Universen der Organisation zu arbeiten. Behandle sie wie Passwörter und gib sie niemals weiter.",
   "org.apiKeys.noKeys": "Diese Organisation hat noch keine API-Schlüssel.",
-  "org.apiKeys.create.title": "Öffentlichen Leseschlüssel erstellen",
-  "org.apiKeys.create.description": "Dieser Schlüssel gewährt schreibgeschützten Zugriff auf die öffentlichen Daten deiner Organisation (Profil, veröffentlichte Geschichten, Universen und Kurse), damit du sie auf einer externen Website anzeigen kannst.",
+  "org.apiKeys.create.title": "API-Schlüssel erstellen",
+  "org.apiKeys.create.description": "Wähle, was der Schlüssel darf. Das Lesen öffentlicher Daten reicht aus, um die Organisation auf einer externen Website anzuzeigen. Die anderen Berechtigungen handeln als die Organisation bei ihren eigenen Geschichten und Universen, wie es ein Administrator der Organisation tun würde.",
   "org.apiKeys.name.placeholder": "z. B. WIX-Website",
   "org.apiKeys.revoke": "Widerrufen",
   "org.settings.title": "Organisationseinstellungen",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Alle {count} anzeigen",
   "orgConnect.payouts.notifications": "Stripe-Benachrichtigungen",
   "orgConnect.payouts.account": "Auszahlungskonto",
-  "orgConnect.payouts.balance": "Guthaben und Auszahlungen"
+  "orgConnect.payouts.balance": "Guthaben und Auszahlungen",
+  "org.apiKeys.scope.organization.read": "Öffentliche Daten lesen",
+  "org.apiKeys.scope.story.read": "Geschichten lesen",
+  "org.apiKeys.scope.story.write": "Geschichten bearbeiten",
+  "org.apiKeys.scope.story.publish": "Kapitel veröffentlichen",
+  "org.apiKeys.scope.universe.read": "Universen lesen",
+  "org.apiKeys.scope.universe.write": "Universen bearbeiten",
+  "org.apiKeys.scope.universe.translate": "Universen übersetzen",
+  "org.apiKeys.scope.organization.read.desc": "Profil, veröffentlichte Geschichten, Universen und Kurse zur Anzeige auf einer externen Website",
+  "org.apiKeys.scope.story.read.desc": "Die Geschichten der Organisation mit ihren Entwürfen sowie Geschichten in ihren Universen",
+  "org.apiKeys.scope.story.write.desc": "Angaben zur Geschichte, Kapitel und ihre Reihenfolge, Sichtbarkeit und Entwürfe",
+  "org.apiKeys.scope.story.publish.desc": "Kapitel dieser Geschichten veröffentlichen oder planen",
+  "org.apiKeys.scope.universe.read.desc": "Die Universen der Organisation mit ihren Enzyklopädien und Reihen",
+  "org.apiKeys.scope.universe.write.desc": "Angaben zum Universum, Enzyklopädie-Einträge, Reihen und Übersetzungen",
+  "org.apiKeys.scope.universe.translate.desc": "Titel und Beschreibungen von Universen in anderen Sprachen"
 }

@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "অডিট লগ",
-  "org.apiKeys.description": "API কীগুলি কোনও বাহ্যিক সাইটকে (যেমন একটি WIX ওয়েবসাইট) আপনার সংগঠনের সর্বজনীন ডেটা পড়তে দেয়। এগুলিকে পাসওয়ার্ডের মতো গণ্য করুন এবং কখনও শেয়ার করবেন না।",
+  "org.apiKeys.description": "API কীগুলি কোনও বাহ্যিক সাইটকে (যেমন একটি WIX ওয়েবসাইট) আপনার সংগঠনের সর্বজনীন ডেটা পড়তে দেয়, অথবা টুলগুলিকে সংগঠনের গল্প ও বিশ্বে কাজ করতে দেয়। এগুলিকে পাসওয়ার্ডের মতো গণ্য করুন এবং কখনও শেয়ার করবেন না।",
   "org.apiKeys.noKeys": "এই সংগঠনের এখনও কোনও API কী নেই।",
-  "org.apiKeys.create.title": "সর্বজনীন পঠন কী তৈরি করুন",
-  "org.apiKeys.create.description": "এই কীটি আপনার সংগঠনের সর্বজনীন ডেটাতে (প্রোফাইল, প্রকাশিত গল্প, বিশ্ব এবং কোর্স) কেবল-পঠন অ্যাক্সেস দেয়, যাতে আপনি এটি কোনও বাহ্যিক সাইটে প্রদর্শন করতে পারেন।",
+  "org.apiKeys.create.title": "API কী তৈরি করুন",
+  "org.apiKeys.create.description": "কীটি কী করতে পারবে তা বেছে নিন। কোনও বাহ্যিক সাইটে সংগঠনটি প্রদর্শনের জন্য সর্বজনীন ডেটা পড়াই যথেষ্ট। অন্যান্য অনুমতিগুলি সংগঠনের নিজস্ব গল্প ও বিশ্বে সংগঠন হিসেবে কাজ করে, যেমন সংগঠনের একজন প্রশাসক করতেন।",
   "org.apiKeys.name.placeholder": "যেমন, WIX ওয়েবসাইট",
   "org.apiKeys.revoke": "প্রত্যাহার করুন",
   "org.settings.title": "প্রতিষ্ঠান সেটিংস",
@@ -312,5 +312,19 @@
   "org.search.showAll": "সব {count}টি দেখুন",
   "orgConnect.payouts.notifications": "Stripe বিজ্ঞপ্তি",
   "orgConnect.payouts.account": "পেআউট অ্যাকাউন্ট",
-  "orgConnect.payouts.balance": "ব্যালেন্স ও পেআউট"
+  "orgConnect.payouts.balance": "ব্যালেন্স ও পেআউট",
+  "org.apiKeys.scope.organization.read": "সর্বজনীন ডেটা পড়া",
+  "org.apiKeys.scope.story.read": "গল্প পড়া",
+  "org.apiKeys.scope.story.write": "গল্প সম্পাদনা",
+  "org.apiKeys.scope.story.publish": "অধ্যায় প্রকাশ",
+  "org.apiKeys.scope.universe.read": "বিশ্ব পড়া",
+  "org.apiKeys.scope.universe.write": "বিশ্ব সম্পাদনা",
+  "org.apiKeys.scope.universe.translate": "বিশ্ব অনুবাদ",
+  "org.apiKeys.scope.organization.read.desc": "প্রোফাইল, প্রকাশিত গল্প, বিশ্ব ও কোর্স, কোনও বাহ্যিক সাইটে প্রদর্শনের জন্য",
+  "org.apiKeys.scope.story.read.desc": "খসড়াসহ সংগঠনের গল্প, এবং এর বিশ্বগুলির গল্প",
+  "org.apiKeys.scope.story.write.desc": "গল্পের বিবরণ, অধ্যায় ও তাদের ক্রম, দৃশ্যমানতা ও খসড়া",
+  "org.apiKeys.scope.story.publish.desc": "এই গল্পগুলির অধ্যায় প্রকাশ বা শিডিউল করা",
+  "org.apiKeys.scope.universe.read.desc": "এনসাইক্লোপিডিয়া ও সিরিজসহ সংগঠনের বিশ্বগুলি",
+  "org.apiKeys.scope.universe.write.desc": "বিশ্বের বিবরণ, এনসাইক্লোপিডিয়া এন্ট্রি, সিরিজ ও অনুবাদ",
+  "org.apiKeys.scope.universe.translate.desc": "অন্যান্য ভাষায় বিশ্বগুলির শিরোনাম ও বিবরণ"
 }

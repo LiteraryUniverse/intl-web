@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "აუდიტის ლოგი",
-  "org.apiKeys.description": "API გასაღებები საშუალებას აძლევს გარე საიტს (მაგალითად, WIX საიტს) წაიკითხოს თქვენი ორგანიზაციის საჯარო მონაცემები. მოეპყარით მათ როგორც პაროლებს და არასდროს გააზიაროთ.",
+  "org.apiKeys.description": "API გასაღებები საშუალებას აძლევს გარე საიტს (მაგალითად, WIX საიტს) წაიკითხოს თქვენი ორგანიზაციის საჯარო მონაცემები, ან ხელსაწყოებს — იმუშაონ ორგანიზაციის ისტორიებსა და უნივერსებზე. მოეპყარით მათ როგორც პაროლებს და არასდროს გააზიაროთ.",
   "org.apiKeys.noKeys": "ამ ორგანიზაციას ჯერ არ აქვს API გასაღებები.",
-  "org.apiKeys.create.title": "საჯარო წაკითხვის გასაღების შექმნა",
-  "org.apiKeys.create.description": "ეს გასაღები იძლევა მხოლოდ წაკითხვის წვდომას თქვენი ორგანიზაციის საჯარო მონაცემებზე (პროფილი, გამოქვეყნებული ისტორიები, უნივერსები და კურსები), რომ შეძლოთ მათი ჩვენება გარე საიტზე.",
+  "org.apiKeys.create.title": "API გასაღების შექმნა",
+  "org.apiKeys.create.description": "აირჩიეთ, რისი გაკეთება შეეძლება გასაღებს. გარე საიტზე ორგანიზაციის საჩვენებლად საკმარისია საჯარო მონაცემების წაკითხვა. დანარჩენი ნებართვები ორგანიზაციის სახელით მოქმედებს მის საკუთარ ისტორიებსა და უნივერსებზე, ისე, როგორც ამას ორგანიზაციის ადმინისტრატორი გააკეთებდა.",
   "org.apiKeys.name.placeholder": "მაგ., WIX საიტი",
   "org.apiKeys.revoke": "გაუქმება",
   "org.settings.title": "ორგანიზაციის პარამეტრები",
@@ -312,5 +312,19 @@
   "org.search.showAll": "ყველას ჩვენება ({count})",
   "orgConnect.payouts.notifications": "Stripe-ის შეტყობინებები",
   "orgConnect.payouts.account": "გადახდების მიღების ანგარიში",
-  "orgConnect.payouts.balance": "ბალანსი და გადახდები"
+  "orgConnect.payouts.balance": "ბალანსი და გადახდები",
+  "org.apiKeys.scope.organization.read": "საჯარო მონაცემების წაკითხვა",
+  "org.apiKeys.scope.story.read": "ისტორიების წაკითხვა",
+  "org.apiKeys.scope.story.write": "ისტორიების რედაქტირება",
+  "org.apiKeys.scope.story.publish": "თავების გამოქვეყნება",
+  "org.apiKeys.scope.universe.read": "უნივერსების წაკითხვა",
+  "org.apiKeys.scope.universe.write": "უნივერსების რედაქტირება",
+  "org.apiKeys.scope.universe.translate": "უნივერსების თარგმნა",
+  "org.apiKeys.scope.organization.read.desc": "პროფილი, გამოქვეყნებული ისტორიები, უნივერსები და კურსები გარე საიტზე საჩვენებლად",
+  "org.apiKeys.scope.story.read.desc": "ორგანიზაციის ისტორიები მათი მონახაზებით და ისტორიები მის უნივერსებში",
+  "org.apiKeys.scope.story.write.desc": "ისტორიის დეტალები, თავები და მათი თანმიმდევრობა, ხილვადობა და მონახაზები",
+  "org.apiKeys.scope.story.publish.desc": "ამ ისტორიების თავების გამოქვეყნება ან დაგეგმვა",
+  "org.apiKeys.scope.universe.read.desc": "ორგანიზაციის უნივერსები მათი ენციკლოპედიებითა და სერიებით",
+  "org.apiKeys.scope.universe.write.desc": "უნივერსის დეტალები, ენციკლოპედიის სტატიები, სერიები და თარგმანები",
+  "org.apiKeys.scope.universe.translate.desc": "უნივერსების სათაურები და აღწერები სხვა ენებზე"
 }

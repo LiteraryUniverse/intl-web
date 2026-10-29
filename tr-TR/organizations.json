@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Denetim kaydı",
-  "org.apiKeys.description": "API anahtarları, harici bir sitenin (örneğin bir WIX web sitesi) kuruluşunuzun herkese açık verilerini okumasına olanak tanır. Bunları parolalar gibi ele alın ve asla paylaşmayın.",
+  "org.apiKeys.description": "API anahtarları, harici bir sitenin (örneğin bir WIX web sitesi) kuruluşunuzun herkese açık verilerini okumasına veya araçların kuruluşun hikâyeleri ve evrenleri üzerinde çalışmasına olanak tanır. Bunları parolalar gibi ele alın ve asla paylaşmayın.",
   "org.apiKeys.noKeys": "Bu kuruluşun henüz hiç API anahtarı yok.",
-  "org.apiKeys.create.title": "Herkese açık okuma anahtarı oluştur",
-  "org.apiKeys.create.description": "Bu anahtar, kuruluşunuzun herkese açık verilerine (profil, yayımlanan hikâyeler, evrenler ve kurslar) yalnızca okuma erişimi vererek bunları harici bir sitede görüntülemenizi sağlar.",
+  "org.apiKeys.create.title": "API anahtarı oluştur",
+  "org.apiKeys.create.description": "Anahtarın neler yapabileceğini seçin. Kuruluşu harici bir sitede görüntülemek için herkese açık verileri okumak yeterlidir. Diğer izinler, bir kuruluş yöneticisinin yapacağı gibi, kuruluşun kendi hikâyeleri ve evrenleri üzerinde kuruluş adına işlem yapar.",
   "org.apiKeys.name.placeholder": "örn., WIX web sitesi",
   "org.apiKeys.revoke": "İptal et",
   "org.settings.title": "Organizasyon ayarları",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Tümünü göster ({count})",
   "orgConnect.payouts.notifications": "Stripe bildirimleri",
   "orgConnect.payouts.account": "Ödeme hesabı",
-  "orgConnect.payouts.balance": "Bakiye ve ödemeler"
+  "orgConnect.payouts.balance": "Bakiye ve ödemeler",
+  "org.apiKeys.scope.organization.read": "Herkese açık verileri oku",
+  "org.apiKeys.scope.story.read": "Hikâyeleri oku",
+  "org.apiKeys.scope.story.write": "Hikâyeleri düzenle",
+  "org.apiKeys.scope.story.publish": "Bölümleri yayımla",
+  "org.apiKeys.scope.universe.read": "Evrenleri oku",
+  "org.apiKeys.scope.universe.write": "Evrenleri düzenle",
+  "org.apiKeys.scope.universe.translate": "Evrenleri çevir",
+  "org.apiKeys.scope.organization.read.desc": "Harici bir sitede görüntülemek için profil, yayımlanan hikâyeler, evrenler ve kurslar",
+  "org.apiKeys.scope.story.read.desc": "Kuruluşun taslaklarıyla birlikte hikâyeleri ve evrenlerindeki hikâyeler",
+  "org.apiKeys.scope.story.write.desc": "Hikâye ayrıntıları, bölümler ve sıraları, görünürlük ve taslaklar",
+  "org.apiKeys.scope.story.publish.desc": "Bu hikâyelerin bölümlerini yayımlayın veya zamanlayın",
+  "org.apiKeys.scope.universe.read.desc": "Kuruluşun ansiklopedileri ve serileriyle birlikte evrenleri",
+  "org.apiKeys.scope.universe.write.desc": "Evren ayrıntıları, ansiklopedi girişleri, seriler ve çeviriler",
+  "org.apiKeys.scope.universe.translate.desc": "Evrenlerin diğer dillerdeki başlıkları ve açıklamaları"
 }

@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Registre d'auditoria",
-  "org.apiKeys.description": "Les claus API permeten que un lloc extern (com ara un lloc web de WIX) llegeixi les dades públiques de la teva organització. Tracta-les com contrasenyes i no les comparteixis mai.",
+  "org.apiKeys.description": "Les claus API permeten que un lloc extern (com ara un lloc web de WIX) llegeixi les dades públiques de la teva organització, o que unes eines treballin en les històries i els universos de l'organització. Tracta-les com contrasenyes i no les comparteixis mai.",
   "org.apiKeys.noKeys": "Aquesta organització encara no té cap clau API.",
-  "org.apiKeys.create.title": "Crea una clau de lectura pública",
-  "org.apiKeys.create.description": "Aquesta clau concedeix accés de només lectura a les dades públiques de la teva organització (perfil, històries publicades, universos i cursos) perquè les puguis mostrar en un lloc extern.",
+  "org.apiKeys.create.title": "Crea una clau API",
+  "org.apiKeys.create.description": "Tria què pot fer la clau. Llegir les dades públiques és suficient per mostrar l'organització en un lloc extern. Els altres permisos actuen com l'organització en les seves pròpies històries i universos, com ho faria un administrador de l'organització.",
   "org.apiKeys.name.placeholder": "p. ex., lloc web de WIX",
   "org.apiKeys.revoke": "Revoca",
   "org.settings.title": "Configuració de l'organització",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Mostra-ho tot ({count})",
   "orgConnect.payouts.notifications": "Notificacions de Stripe",
   "orgConnect.payouts.account": "Compte de pagaments",
-  "orgConnect.payouts.balance": "Saldo i pagaments"
+  "orgConnect.payouts.balance": "Saldo i pagaments",
+  "org.apiKeys.scope.organization.read": "Llegir dades públiques",
+  "org.apiKeys.scope.story.read": "Llegir històries",
+  "org.apiKeys.scope.story.write": "Editar històries",
+  "org.apiKeys.scope.story.publish": "Publicar capítols",
+  "org.apiKeys.scope.universe.read": "Llegir universos",
+  "org.apiKeys.scope.universe.write": "Editar universos",
+  "org.apiKeys.scope.universe.translate": "Traduir universos",
+  "org.apiKeys.scope.organization.read.desc": "El perfil, les històries publicades, els universos i els cursos, per mostrar-los en un lloc extern",
+  "org.apiKeys.scope.story.read.desc": "Les històries de l'organització amb els seus esborranys, i les històries dels seus universos",
+  "org.apiKeys.scope.story.write.desc": "Detalls de la història, capítols i el seu ordre, visibilitat i esborranys",
+  "org.apiKeys.scope.story.publish.desc": "Publicar o programar capítols d'aquestes històries",
+  "org.apiKeys.scope.universe.read.desc": "Els universos de l'organització amb les seves enciclopèdies i sèries",
+  "org.apiKeys.scope.universe.write.desc": "Detalls de l'univers, entrades de l'enciclopèdia, sèries i traduccions",
+  "org.apiKeys.scope.universe.translate.desc": "Títols i descripcions dels universos en altres idiomes"
 }

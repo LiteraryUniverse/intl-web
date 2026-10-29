@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Jurnal de audit",
-  "org.apiKeys.description": "Cheile API permit unui site extern (cum ar fi un site web WIX) să citească datele publice ale organizației tale. Tratează-le ca pe niște parole și nu le partaja niciodată.",
+  "org.apiKeys.description": "Cheile API permit unui site extern (cum ar fi un site web WIX) să citească datele publice ale organizației tale sau permit unor instrumente să lucreze cu poveștile și universurile organizației. Tratează-le ca pe niște parole și nu le partaja niciodată.",
   "org.apiKeys.noKeys": "Această organizație nu are încă nicio cheie API.",
-  "org.apiKeys.create.title": "Creează o cheie de citire publică",
-  "org.apiKeys.create.description": "Această cheie acordă acces doar pentru citire la datele publice ale organizației tale (profil, povești publicate, universuri și cursuri), ca să le poți afișa pe un site extern.",
+  "org.apiKeys.create.title": "Creează o cheie API",
+  "org.apiKeys.create.description": "Alege ce poate face cheia. Citirea datelor publice este suficientă pentru a afișa organizația pe un site extern. Celelalte permisiuni acționează în numele organizației asupra propriilor povești și universuri, așa cum ar face un administrator al organizației.",
   "org.apiKeys.name.placeholder": "de ex., site web WIX",
   "org.apiKeys.revoke": "Revocă",
   "org.settings.title": "Setări organizație",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Afișează toate cele {count}",
   "orgConnect.payouts.notifications": "Notificări Stripe",
   "orgConnect.payouts.account": "Cont pentru plăți",
-  "orgConnect.payouts.balance": "Sold și plăți"
+  "orgConnect.payouts.balance": "Sold și plăți",
+  "org.apiKeys.scope.organization.read": "Citește datele publice",
+  "org.apiKeys.scope.story.read": "Citește poveștile",
+  "org.apiKeys.scope.story.write": "Editează poveștile",
+  "org.apiKeys.scope.story.publish": "Publică capitole",
+  "org.apiKeys.scope.universe.read": "Citește universurile",
+  "org.apiKeys.scope.universe.write": "Editează universurile",
+  "org.apiKeys.scope.universe.translate": "Tradu universurile",
+  "org.apiKeys.scope.organization.read.desc": "Profilul, poveștile publicate, universurile și cursurile, pentru afișare pe un site extern",
+  "org.apiKeys.scope.story.read.desc": "Poveștile organizației cu schițele lor și poveștile din universurile sale",
+  "org.apiKeys.scope.story.write.desc": "Detaliile poveștii, capitolele și ordinea lor, vizibilitatea și schițele",
+  "org.apiKeys.scope.story.publish.desc": "Publică sau programează capitole ale acestor povești",
+  "org.apiKeys.scope.universe.read.desc": "Universurile organizației cu enciclopediile și seriile lor",
+  "org.apiKeys.scope.universe.write.desc": "Detaliile universului, intrările din enciclopedie, seriile și traducerile",
+  "org.apiKeys.scope.universe.translate.desc": "Titlurile și descrierile universurilor în alte limbi"
 }

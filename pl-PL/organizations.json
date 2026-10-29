@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Dziennik audytu",
-  "org.apiKeys.description": "Klucze API umożliwiają zewnętrznej witrynie (na przykład witrynie WIX) odczyt publicznych danych Twojej organizacji. Traktuj je jak hasła i nigdy ich nie udostępniaj.",
+  "org.apiKeys.description": "Klucze API umożliwiają zewnętrznej witrynie (na przykład witrynie WIX) odczyt publicznych danych Twojej organizacji lub pozwalają narzędziom pracować nad opowiadaniami i uniwersami organizacji. Traktuj je jak hasła i nigdy ich nie udostępniaj.",
   "org.apiKeys.noKeys": "Ta organizacja nie ma jeszcze żadnych kluczy API.",
-  "org.apiKeys.create.title": "Utwórz publiczny klucz odczytu",
-  "org.apiKeys.create.description": "Ten klucz zapewnia dostęp tylko do odczytu publicznych danych Twojej organizacji (profil, opublikowane opowiadania, światy i kursy), aby można je było wyświetlić w zewnętrznej witrynie.",
+  "org.apiKeys.create.title": "Utwórz klucz API",
+  "org.apiKeys.create.description": "Wybierz, co może robić klucz. Odczyt publicznych danych wystarczy, aby wyświetlić organizację w zewnętrznej witrynie. Pozostałe uprawnienia działają jako organizacja na jej własnych opowiadaniach i uniwersach, tak jak administrator organizacji.",
   "org.apiKeys.name.placeholder": "np. witryna WIX",
   "org.apiKeys.revoke": "Unieważnij",
   "org.settings.title": "Ustawienia organizacji",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Pokaż wszystkie ({count})",
   "orgConnect.payouts.notifications": "Powiadomienia Stripe",
   "orgConnect.payouts.account": "Konto do wypłat",
-  "orgConnect.payouts.balance": "Saldo i wypłaty"
+  "orgConnect.payouts.balance": "Saldo i wypłaty",
+  "org.apiKeys.scope.organization.read": "Odczyt publicznych danych",
+  "org.apiKeys.scope.story.read": "Odczyt opowiadań",
+  "org.apiKeys.scope.story.write": "Edycja opowiadań",
+  "org.apiKeys.scope.story.publish": "Publikowanie rozdziałów",
+  "org.apiKeys.scope.universe.read": "Odczyt uniwersów",
+  "org.apiKeys.scope.universe.write": "Edycja uniwersów",
+  "org.apiKeys.scope.universe.translate": "Tłumaczenie uniwersów",
+  "org.apiKeys.scope.organization.read.desc": "Profil, opublikowane opowiadania, uniwersa i kursy do wyświetlania w zewnętrznej witrynie",
+  "org.apiKeys.scope.story.read.desc": "Opowiadania organizacji wraz z wersjami roboczymi oraz opowiadania w jej uniwersach",
+  "org.apiKeys.scope.story.write.desc": "Szczegóły opowiadania, rozdziały i ich kolejność, widoczność i wersje robocze",
+  "org.apiKeys.scope.story.publish.desc": "Publikowanie lub planowanie rozdziałów tych opowiadań",
+  "org.apiKeys.scope.universe.read.desc": "Uniwersa organizacji wraz z ich encyklopediami i seriami",
+  "org.apiKeys.scope.universe.write.desc": "Szczegóły uniwersum, wpisy encyklopedii, serie i tłumaczenia",
+  "org.apiKeys.scope.universe.translate.desc": "Tytuły i opisy uniwersów w innych językach"
 }

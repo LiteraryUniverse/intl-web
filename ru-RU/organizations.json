@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Журнал аудита",
-  "org.apiKeys.description": "API-ключи позволяют внешнему сайту (например, сайту на WIX) читать публичные данные вашей организации. Обращайтесь с ними как с паролями и никогда никому их не передавайте.",
+  "org.apiKeys.description": "API-ключи позволяют внешнему сайту (например, сайту на WIX) читать публичные данные вашей организации или позволяют инструментам работать с историями и вселенными организации. Обращайтесь с ними как с паролями и никогда никому их не передавайте.",
   "org.apiKeys.noKeys": "У этой организации пока нет ни одного API-ключа.",
-  "org.apiKeys.create.title": "Создать публичный ключ для чтения",
-  "org.apiKeys.create.description": "Этот ключ предоставляет доступ только для чтения к публичным данным вашей организации (профиль, опубликованные истории, вселенные и курсы), чтобы вы могли отображать их на внешнем сайте.",
+  "org.apiKeys.create.title": "Создать API-ключ",
+  "org.apiKeys.create.description": "Выберите, что может делать ключ. Для отображения организации на внешнем сайте достаточно чтения публичных данных. Остальные разрешения действуют от имени организации с её собственными историями и вселенными, как администратор организации.",
   "org.apiKeys.name.placeholder": "напр. сайт на WIX",
   "org.apiKeys.revoke": "Отозвать",
   "org.settings.title": "Настройки организации",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Показать все ({count})",
   "orgConnect.payouts.notifications": "Уведомления Stripe",
   "orgConnect.payouts.account": "Счёт для выплат",
-  "orgConnect.payouts.balance": "Баланс и выплаты"
+  "orgConnect.payouts.balance": "Баланс и выплаты",
+  "org.apiKeys.scope.organization.read": "Чтение публичных данных",
+  "org.apiKeys.scope.story.read": "Чтение историй",
+  "org.apiKeys.scope.story.write": "Редактирование историй",
+  "org.apiKeys.scope.story.publish": "Публикация глав",
+  "org.apiKeys.scope.universe.read": "Чтение вселенных",
+  "org.apiKeys.scope.universe.write": "Редактирование вселенных",
+  "org.apiKeys.scope.universe.translate": "Перевод вселенных",
+  "org.apiKeys.scope.organization.read.desc": "Профиль, опубликованные истории, вселенные и курсы для отображения на внешнем сайте",
+  "org.apiKeys.scope.story.read.desc": "Истории организации вместе с черновиками, а также истории в её вселенных",
+  "org.apiKeys.scope.story.write.desc": "Сведения об истории, главы и их порядок, видимость и черновики",
+  "org.apiKeys.scope.story.publish.desc": "Публикация или планирование глав этих историй",
+  "org.apiKeys.scope.universe.read.desc": "Вселенные организации с их энциклопедиями и сериями",
+  "org.apiKeys.scope.universe.write.desc": "Сведения о вселенной, статьи энциклопедии, серии и переводы",
+  "org.apiKeys.scope.universe.translate.desc": "Названия и описания вселенных на других языках"
 }

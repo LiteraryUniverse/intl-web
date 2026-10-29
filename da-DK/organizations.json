@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Revisionslog",
-  "org.apiKeys.description": "API-nøgler giver et eksternt websted (såsom et WIX-websted) mulighed for at læse din organisations offentlige data. Behandl dem som adgangskoder, og del dem aldrig.",
+  "org.apiKeys.description": "API-nøgler giver et eksternt websted (såsom et WIX-websted) mulighed for at læse din organisations offentlige data eller lader værktøjer arbejde med organisationens historier og universer. Behandl dem som adgangskoder, og del dem aldrig.",
   "org.apiKeys.noKeys": "Denne organisation har endnu ingen API-nøgler.",
-  "org.apiKeys.create.title": "Opret offentlig læsenøgle",
-  "org.apiKeys.create.description": "Denne nøgle giver skrivebeskyttet adgang til din organisations offentlige data (profil, udgivne historier, universer og kurser), så du kan vise dem på et eksternt websted.",
+  "org.apiKeys.create.title": "Opret API-nøgle",
+  "org.apiKeys.create.description": "Vælg, hvad nøglen må gøre. Læsning af offentlige data er nok til at vise organisationen på et eksternt websted. De andre tilladelser handler som organisationen på dens egne historier og universer, som en administrator af organisationen ville.",
   "org.apiKeys.name.placeholder": "f.eks. WIX-websted",
   "org.apiKeys.revoke": "Tilbagekald",
   "org.settings.title": "Organisationsindstillinger",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Vis alle {count}",
   "orgConnect.payouts.notifications": "Stripe-notifikationer",
   "orgConnect.payouts.account": "Udbetalingskonto",
-  "orgConnect.payouts.balance": "Saldo og udbetalinger"
+  "orgConnect.payouts.balance": "Saldo og udbetalinger",
+  "org.apiKeys.scope.organization.read": "Læs offentlige data",
+  "org.apiKeys.scope.story.read": "Læs historier",
+  "org.apiKeys.scope.story.write": "Rediger historier",
+  "org.apiKeys.scope.story.publish": "Udgiv kapitler",
+  "org.apiKeys.scope.universe.read": "Læs universer",
+  "org.apiKeys.scope.universe.write": "Rediger universer",
+  "org.apiKeys.scope.universe.translate": "Oversæt universer",
+  "org.apiKeys.scope.organization.read.desc": "Profilen, udgivne historier, universer og kurser til visning på et eksternt websted",
+  "org.apiKeys.scope.story.read.desc": "Organisationens historier med deres kladder samt historier i dens universer",
+  "org.apiKeys.scope.story.write.desc": "Historiens detaljer, kapitler og deres rækkefølge, synlighed og kladder",
+  "org.apiKeys.scope.story.publish.desc": "Udgiv eller planlæg kapitler i disse historier",
+  "org.apiKeys.scope.universe.read.desc": "Organisationens universer med deres encyklopædier og serier",
+  "org.apiKeys.scope.universe.write.desc": "Universets detaljer, encyklopædi-indgange, serier og oversættelser",
+  "org.apiKeys.scope.universe.translate.desc": "Titler og beskrivelser af universer på andre sprog"
 }

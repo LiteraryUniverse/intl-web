@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Audit log",
-  "org.apiKeys.description": "Nagbibigay-daan ang mga API key sa isang panlabas na site (tulad ng isang WIX website) na basahin ang pampublikong data ng iyong organisasyon. Ituring ang mga ito na parang password at huwag kailanman ibahagi.",
+  "org.apiKeys.description": "Nagbibigay-daan ang mga API key sa isang panlabas na site (tulad ng isang WIX website) na basahin ang pampublikong data ng iyong organisasyon, o sa mga tool na magtrabaho sa mga kuwento at uniberso ng organisasyon. Ituring ang mga ito na parang password at huwag kailanman ibahagi.",
   "org.apiKeys.noKeys": "Wala pang anumang API key ang organisasyong ito.",
-  "org.apiKeys.create.title": "Gumawa ng pampublikong read key",
-  "org.apiKeys.create.description": "Nagbibigay ang key na ito ng read-only na access sa pampublikong data ng iyong organisasyon (profile, mga na-publish na kuwento, mga universe at mga kurso) para maipakita mo ito sa isang panlabas na site.",
+  "org.apiKeys.create.title": "Gumawa ng API key",
+  "org.apiKeys.create.description": "Piliin kung ano ang puwedeng gawin ng key. Sapat na ang pagbasa ng pampublikong data para maipakita ang organisasyon sa isang panlabas na site. Kumikilos ang iba pang pahintulot bilang organisasyon sa sarili nitong mga kuwento at uniberso, gaya ng gagawin ng isang admin ng organisasyon.",
   "org.apiKeys.name.placeholder": "hal. WIX website",
   "org.apiKeys.revoke": "Bawiin",
   "org.settings.title": "Mga setting ng Organisasyon",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Ipakita lahat ng {count}",
   "orgConnect.payouts.notifications": "Mga abiso ng Stripe",
   "orgConnect.payouts.account": "Account para sa payout",
-  "orgConnect.payouts.balance": "Balanse at mga payout"
+  "orgConnect.payouts.balance": "Balanse at mga payout",
+  "org.apiKeys.scope.organization.read": "Basahin ang pampublikong data",
+  "org.apiKeys.scope.story.read": "Basahin ang mga kuwento",
+  "org.apiKeys.scope.story.write": "I-edit ang mga kuwento",
+  "org.apiKeys.scope.story.publish": "Mag-publish ng mga kabanata",
+  "org.apiKeys.scope.universe.read": "Basahin ang mga uniberso",
+  "org.apiKeys.scope.universe.write": "I-edit ang mga uniberso",
+  "org.apiKeys.scope.universe.translate": "Isalin ang mga uniberso",
+  "org.apiKeys.scope.organization.read.desc": "Ang profile, mga na-publish na kuwento, uniberso at kurso, para maipakita sa isang panlabas na site",
+  "org.apiKeys.scope.story.read.desc": "Ang mga kuwento ng organisasyon kasama ang mga draft nito, at mga kuwento sa mga uniberso nito",
+  "org.apiKeys.scope.story.write.desc": "Mga detalye ng kuwento, mga kabanata at ang pagkakasunod-sunod nito, visibility at mga draft",
+  "org.apiKeys.scope.story.publish.desc": "Mag-publish o mag-iskedyul ng mga kabanata ng mga kuwentong ito",
+  "org.apiKeys.scope.universe.read.desc": "Ang mga uniberso ng organisasyon kasama ang mga ensiklopedya at serye nito",
+  "org.apiKeys.scope.universe.write.desc": "Mga detalye ng uniberso, mga entry sa ensiklopedya, serye at mga pagsasalin",
+  "org.apiKeys.scope.universe.translate.desc": "Mga pamagat at paglalarawan ng mga uniberso sa ibang wika"
 }

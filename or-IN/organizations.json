@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "ଅଡିଟ୍ ଲଗ୍",
-  "org.apiKeys.description": "API କୀଗୁଡ଼ିକ ଏକ ବାହ୍ୟ ସାଇଟ୍‌କୁ (ଯେପରି ଏକ WIX ୱେବସାଇଟ୍) ଆପଣଙ୍କ ସଂଗଠନର ସର୍ବସାଧାରଣ ତଥ୍ୟ ପଢ଼ିବାକୁ ଅନୁମତି ଦିଏ। ସେଗୁଡ଼ିକୁ ପାସୱାର୍ଡ ପରି ବିବେଚନା କରନ୍ତୁ ଏବଂ କେବେ ବି ସେୟାର କରନ୍ତୁ ନାହିଁ।",
+  "org.apiKeys.description": "API କୀଗୁଡ଼ିକ ଏକ ବାହ୍ୟ ସାଇଟ୍‌କୁ (ଯେପରି ଏକ WIX ୱେବସାଇଟ୍) ଆପଣଙ୍କ ସଂଗଠନର ସର୍ବସାଧାରଣ ତଥ୍ୟ ପଢ଼ିବାକୁ, କିମ୍ବା ଟୁଲ୍‌ଗୁଡ଼ିକୁ ସଂଗଠନର ଗଳ୍ପ ଓ ବିଶ୍ୱଗୁଡ଼ିକରେ କାମ କରିବାକୁ ଅନୁମତି ଦିଏ। ସେଗୁଡ଼ିକୁ ପାସୱାର୍ଡ ପରି ବିବେଚନା କରନ୍ତୁ ଏବଂ କେବେ ବି ସେୟାର କରନ୍ତୁ ନାହିଁ।",
   "org.apiKeys.noKeys": "ଏହି ସଂଗଠନର ଏବେ ପର୍ଯ୍ୟନ୍ତ କୌଣସି API କୀ ନାହିଁ।",
-  "org.apiKeys.create.title": "ସର୍ବସାଧାରଣ ରିଡ୍ କୀ ତିଆରି କରନ୍ତୁ",
-  "org.apiKeys.create.description": "ଏହି କୀ ଆପଣଙ୍କ ସଂଗଠନର ସର୍ବସାଧାରଣ ତଥ୍ୟକୁ (ପ୍ରୋଫାଇଲ୍, ପ୍ରକାଶିତ ଗଳ୍ପ, ବିଶ୍ୱ ଓ ପାଠ୍ୟକ୍ରମ) କେବଳ-ପଢ଼ିବା ପ୍ରବେଶ ଦିଏ, ଯାହାଦ୍ୱାରା ଆପଣ ଏହାକୁ ଏକ ବାହ୍ୟ ସାଇଟ୍‌ରେ ପ୍ରଦର୍ଶନ କରିପାରିବେ।",
+  "org.apiKeys.create.title": "API କୀ ତିଆରି କରନ୍ତୁ",
+  "org.apiKeys.create.description": "କୀ କଣ କରିପାରିବ ତାହା ବାଛନ୍ତୁ। ଏକ ବାହ୍ୟ ସାଇଟ୍‌ରେ ସଂଗଠନକୁ ପ୍ରଦର୍ଶନ କରିବା ପାଇଁ ସର୍ବସାଧାରଣ ତଥ୍ୟ ପଢ଼ିବା ଯଥେଷ୍ଟ। ଅନ୍ୟ ଅନୁମତିଗୁଡ଼ିକ ସଂଗଠନର ନିଜ ଗଳ୍ପ ଓ ବିଶ୍ୱଗୁଡ଼ିକରେ ସଂଗଠନ ଭାବେ କାମ କରେ, ଯେପରି ଜଣେ ସଂଗଠନ ପ୍ରଶାସକ କରିବେ।",
   "org.apiKeys.name.placeholder": "ଯେପରି WIX ୱେବସାଇଟ୍",
   "org.apiKeys.revoke": "ପ୍ରତ୍ୟାହାର କରନ୍ତୁ",
   "org.settings.title": "ସଂଗଠନ ସେଟିଂସମୂହ",
@@ -312,5 +312,19 @@
   "org.search.showAll": "ସମସ୍ତ {count} ଦେଖାନ୍ତୁ",
   "orgConnect.payouts.notifications": "Stripe notifications",
   "orgConnect.payouts.account": "Payout account",
-  "orgConnect.payouts.balance": "Balance and payouts"
+  "orgConnect.payouts.balance": "Balance and payouts",
+  "org.apiKeys.scope.organization.read": "ସର୍ବସାଧାରଣ ତଥ୍ୟ ପଢ଼ନ୍ତୁ",
+  "org.apiKeys.scope.story.read": "ଗଳ୍ପ ପଢ଼ନ୍ତୁ",
+  "org.apiKeys.scope.story.write": "ଗଳ୍ପ ସମ୍ପାଦନ କରନ୍ତୁ",
+  "org.apiKeys.scope.story.publish": "ଅଧ୍ୟାୟ ପ୍ରକାଶ କରନ୍ତୁ",
+  "org.apiKeys.scope.universe.read": "ବିଶ୍ୱ ପଢ଼ନ୍ତୁ",
+  "org.apiKeys.scope.universe.write": "ବିଶ୍ୱ ସମ୍ପାଦନ କରନ୍ତୁ",
+  "org.apiKeys.scope.universe.translate": "ବିଶ୍ୱ ଅନୁବାଦ କରନ୍ତୁ",
+  "org.apiKeys.scope.organization.read.desc": "ବାହ୍ୟ ସାଇଟ୍‌ରେ ପ୍ରଦର୍ଶନ ପାଇଁ ପ୍ରୋଫାଇଲ୍, ପ୍ରକାଶିତ ଗଳ୍ପ, ବିଶ୍ୱ ଓ ପାଠ୍ୟକ୍ରମ",
+  "org.apiKeys.scope.story.read.desc": "ସଂଗଠନର ଗଳ୍ପ ସେଗୁଡ଼ିକର ଡ୍ରାଫ୍ଟ ସହିତ, ଏବଂ ଏହାର ବିଶ୍ୱଗୁଡ଼ିକରେ ଥିବା ଗଳ୍ପ",
+  "org.apiKeys.scope.story.write.desc": "ଗଳ୍ପର ବିବରଣୀ, ଅଧ୍ୟାୟ ଓ ସେଗୁଡ଼ିକର କ୍ରମ, ଦୃଶ୍ୟମାନତା ଓ ଡ୍ରାଫ୍ଟ",
+  "org.apiKeys.scope.story.publish.desc": "ଏହି ଗଳ୍ପଗୁଡ଼ିକର ଅଧ୍ୟାୟ ପ୍ରକାଶ କିମ୍ବା ସିଡ୍ୟୁଲ୍ କରନ୍ତୁ",
+  "org.apiKeys.scope.universe.read.desc": "ସଂଗଠନର ବିଶ୍ୱଗୁଡ଼ିକ ସେଗୁଡ଼ିକର ଏନସାଇକ୍ଲୋପିଡ଼ିଆ ଓ ସିରିଜ୍ ସହିତ",
+  "org.apiKeys.scope.universe.write.desc": "ବିଶ୍ୱର ବିବରଣୀ, ଏନସାଇକ୍ଲୋପିଡ଼ିଆ ଏଣ୍ଟ୍ରି, ସିରିଜ୍ ଓ ଅନୁବାଦ",
+  "org.apiKeys.scope.universe.translate.desc": "ଅନ୍ୟ ଭାଷାରେ ବିଶ୍ୱଗୁଡ଼ିକର ଶୀର୍ଷକ ଓ ବିବରଣୀ"
 }

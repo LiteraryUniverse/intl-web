@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "ఆడిట్ లాగ్",
-  "org.apiKeys.description": "API కీలు ఒక బాహ్య సైట్‌కు (ఉదా. WIX వెబ్‌సైట్) మీ సంస్థ యొక్క పబ్లిక్ డేటాను చదవడానికి అనుమతిస్తాయి. వాటిని పాస్‌వర్డ్‌ల వలె పరిగణించి ఎప్పుడూ షేర్ చేయవద్దు.",
+  "org.apiKeys.description": "API కీలు ఒక బాహ్య సైట్‌కు (ఉదా. WIX వెబ్‌సైట్) మీ సంస్థ యొక్క పబ్లిక్ డేటాను చదవడానికి, లేదా టూల్స్‌కు సంస్థ కథలు మరియు యూనివర్స్‌లపై పని చేయడానికి అనుమతిస్తాయి. వాటిని పాస్‌వర్డ్‌ల వలె పరిగణించి ఎప్పుడూ షేర్ చేయవద్దు.",
   "org.apiKeys.noKeys": "ఈ సంస్థకు ఇంకా ఏ API కీ లేదు.",
-  "org.apiKeys.create.title": "పబ్లిక్ రీడ్ కీని సృష్టించు",
-  "org.apiKeys.create.description": "ఈ కీ మీ సంస్థ యొక్క పబ్లిక్ డేటాకు (ప్రొఫైల్, ప్రచురించిన కథలు, యూనివర్సులు మరియు కోర్సులు) చదవడం-మాత్రమే యాక్సెస్‌ను ఇస్తుంది, తద్వారా మీరు దానిని ఒక బాహ్య సైట్‌లో ప్రదర్శించవచ్చు.",
+  "org.apiKeys.create.title": "API కీని సృష్టించు",
+  "org.apiKeys.create.description": "కీ ఏమి చేయగలదో ఎంచుకోండి. సంస్థను బాహ్య సైట్‌లో ప్రదర్శించడానికి పబ్లిక్ డేటాను చదవడం సరిపోతుంది. ఇతర అనుమతులు, సంస్థ నిర్వాహకుడి లాగానే, సంస్థ స్వంత కథలు మరియు యూనివర్స్‌లపై సంస్థగా పనిచేస్తాయి.",
   "org.apiKeys.name.placeholder": "ఉదా., WIX వెబ్‌సైట్",
   "org.apiKeys.revoke": "రద్దు చేయి",
   "org.settings.title": "సంస్థ అమరికలు",
@@ -312,5 +312,19 @@
   "org.search.showAll": "అన్నీ చూపించండి ({count})",
   "orgConnect.payouts.notifications": "Stripe నోటిఫికేషన్‌లు",
   "orgConnect.payouts.account": "చెల్లింపులు అందుకునే ఖాతా",
-  "orgConnect.payouts.balance": "బ్యాలెన్స్ మరియు చెల్లింపులు"
+  "orgConnect.payouts.balance": "బ్యాలెన్స్ మరియు చెల్లింపులు",
+  "org.apiKeys.scope.organization.read": "పబ్లిక్ డేటాను చదవండి",
+  "org.apiKeys.scope.story.read": "కథలను చదవండి",
+  "org.apiKeys.scope.story.write": "కథలను సవరించండి",
+  "org.apiKeys.scope.story.publish": "అధ్యాయాలను ప్రచురించండి",
+  "org.apiKeys.scope.universe.read": "యూనివర్స్‌లను చదవండి",
+  "org.apiKeys.scope.universe.write": "యూనివర్స్‌లను సవరించండి",
+  "org.apiKeys.scope.universe.translate": "యూనివర్స్‌లను అనువదించండి",
+  "org.apiKeys.scope.organization.read.desc": "ప్రొఫైల్, ప్రచురించిన కథలు, యూనివర్స్‌లు మరియు కోర్సులు, బాహ్య సైట్‌లో ప్రదర్శించడానికి",
+  "org.apiKeys.scope.story.read.desc": "సంస్థ కథలు వాటి డ్రాఫ్ట్‌లతో, మరియు దాని యూనివర్స్‌లలోని కథలు",
+  "org.apiKeys.scope.story.write.desc": "కథ వివరాలు, అధ్యాయాలు మరియు వాటి క్రమం, దృశ్యత మరియు డ్రాఫ్ట్‌లు",
+  "org.apiKeys.scope.story.publish.desc": "ఈ కథల అధ్యాయాలను ప్రచురించండి లేదా షెడ్యూల్ చేయండి",
+  "org.apiKeys.scope.universe.read.desc": "సంస్థ యూనివర్స్‌లు, వాటి ఎన్‌సైక్లోపీడియాలు మరియు సిరీస్‌లతో",
+  "org.apiKeys.scope.universe.write.desc": "యూనివర్స్ వివరాలు, ఎన్‌సైక్లోపీడియా ఎంట్రీలు, సిరీస్‌లు మరియు అనువాదాలు",
+  "org.apiKeys.scope.universe.translate.desc": "ఇతర భాషల్లో యూనివర్స్‌ల శీర్షికలు మరియు వివరణలు"
 }

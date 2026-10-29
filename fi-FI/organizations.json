@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Tarkastusloki",
-  "org.apiKeys.description": "API-avaimet antavat ulkoiselle sivustolle (kuten WIX-sivustolle) mahdollisuuden lukea organisaatiosi julkisia tietoja. Käsittele niitä kuin salasanoja äläkä koskaan jaa niitä.",
+  "org.apiKeys.description": "API-avaimet antavat ulkoiselle sivustolle (kuten WIX-sivustolle) mahdollisuuden lukea organisaatiosi julkisia tietoja tai työkaluille mahdollisuuden käsitellä organisaation tarinoita ja universumeja. Käsittele niitä kuin salasanoja äläkä koskaan jaa niitä.",
   "org.apiKeys.noKeys": "Tällä organisaatiolla ei ole vielä yhtään API-avainta.",
-  "org.apiKeys.create.title": "Luo julkinen lukuavain",
-  "org.apiKeys.create.description": "Tämä avain myöntää vain lukuoikeuden organisaatiosi julkisiin tietoihin (profiili, julkaistut tarinat, universumit ja kurssit), jotta voit näyttää ne ulkoisella sivustolla.",
+  "org.apiKeys.create.title": "Luo API-avain",
+  "org.apiKeys.create.description": "Valitse, mitä avain saa tehdä. Julkisten tietojen lukeminen riittää organisaation näyttämiseen ulkoisella sivustolla. Muut luvat toimivat organisaation nimissä sen omissa tarinoissa ja universumeissa, kuten organisaation ylläpitäjä toimisi.",
   "org.apiKeys.name.placeholder": "esim. WIX-sivusto",
   "org.apiKeys.revoke": "Mitätöi",
   "org.settings.title": "Organisaation asetukset",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Näytä kaikki {count}",
   "orgConnect.payouts.notifications": "Stripe-ilmoitukset",
   "orgConnect.payouts.account": "Tilitystili",
-  "orgConnect.payouts.balance": "Saldo ja tilitykset"
+  "orgConnect.payouts.balance": "Saldo ja tilitykset",
+  "org.apiKeys.scope.organization.read": "Lue julkisia tietoja",
+  "org.apiKeys.scope.story.read": "Lue tarinoita",
+  "org.apiKeys.scope.story.write": "Muokkaa tarinoita",
+  "org.apiKeys.scope.story.publish": "Julkaise lukuja",
+  "org.apiKeys.scope.universe.read": "Lue universumeja",
+  "org.apiKeys.scope.universe.write": "Muokkaa universumeja",
+  "org.apiKeys.scope.universe.translate": "Käännä universumeja",
+  "org.apiKeys.scope.organization.read.desc": "Profiili, julkaistut tarinat, universumit ja kurssit näytettäväksi ulkoisella sivustolla",
+  "org.apiKeys.scope.story.read.desc": "Organisaation tarinat luonnoksineen sekä sen universumien tarinat",
+  "org.apiKeys.scope.story.write.desc": "Tarinan tiedot, luvut ja niiden järjestys, näkyvyys ja luonnokset",
+  "org.apiKeys.scope.story.publish.desc": "Julkaise tai ajasta näiden tarinoiden lukuja",
+  "org.apiKeys.scope.universe.read.desc": "Organisaation universumit tietosanakirjoineen ja sarjoineen",
+  "org.apiKeys.scope.universe.write.desc": "Universumin tiedot, tietosanakirjamerkinnät, sarjat ja käännökset",
+  "org.apiKeys.scope.universe.translate.desc": "Universumien nimet ja kuvaukset muilla kielillä"
 }

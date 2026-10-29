@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "سجل التدقيق",
-  "org.apiKeys.description": "تتيح مفاتيح API لموقع خارجي (مثل موقع WIX) قراءة البيانات العامة لمنظمتك. تعامل معها كما تتعامل مع كلمات المرور ولا تشاركها أبدًا.",
+  "org.apiKeys.description": "تتيح مفاتيح API لموقع خارجي (مثل موقع WIX) قراءة البيانات العامة لمنظمتك، أو تتيح للأدوات العمل على قصص المنظمة وأكوانها. تعامل معها كما تتعامل مع كلمات المرور ولا تشاركها أبدًا.",
   "org.apiKeys.noKeys": "لا تملك هذه المنظمة أي مفاتيح API بعد.",
-  "org.apiKeys.create.title": "إنشاء مفتاح قراءة عام",
-  "org.apiKeys.create.description": "يمنح هذا المفتاح صلاحية القراءة فقط للبيانات العامة لمنظمتك (الملف التعريفي، القصص المنشورة، الأكوان والدورات) حتى تتمكن من عرضها على موقع خارجي.",
+  "org.apiKeys.create.title": "إنشاء مفتاح API",
+  "org.apiKeys.create.description": "اختر ما يمكن للمفتاح فعله. تكفي قراءة البيانات العامة لعرض المنظمة على موقع خارجي. أما الأذونات الأخرى فتعمل باسم المنظمة على قصصها وأكوانها، كما يفعل مسؤول المنظمة.",
   "org.apiKeys.name.placeholder": "مثال، موقع WIX",
   "org.apiKeys.revoke": "إبطال",
   "org.settings.title": "إعدادات المنظمة",
@@ -312,5 +312,19 @@
   "org.search.showAll": "عرض الكل ({count})",
   "orgConnect.payouts.notifications": "إشعارات Stripe",
   "orgConnect.payouts.account": "حساب المدفوعات",
-  "orgConnect.payouts.balance": "الرصيد والمدفوعات"
+  "orgConnect.payouts.balance": "الرصيد والمدفوعات",
+  "org.apiKeys.scope.organization.read": "قراءة البيانات العامة",
+  "org.apiKeys.scope.story.read": "قراءة القصص",
+  "org.apiKeys.scope.story.write": "تعديل القصص",
+  "org.apiKeys.scope.story.publish": "نشر الفصول",
+  "org.apiKeys.scope.universe.read": "قراءة الأكوان",
+  "org.apiKeys.scope.universe.write": "تعديل الأكوان",
+  "org.apiKeys.scope.universe.translate": "ترجمة الأكوان",
+  "org.apiKeys.scope.organization.read.desc": "الملف التعريفي والقصص المنشورة والأكوان والدورات، لعرضها على موقع خارجي",
+  "org.apiKeys.scope.story.read.desc": "قصص المنظمة مع مسوداتها، والقصص في أكوانها",
+  "org.apiKeys.scope.story.write.desc": "تفاصيل القصة، والفصول وترتيبها، والظهور والمسودات",
+  "org.apiKeys.scope.story.publish.desc": "نشر فصول هذه القصص أو جدولتها",
+  "org.apiKeys.scope.universe.read.desc": "أكوان المنظمة مع موسوعاتها وسلاسلها",
+  "org.apiKeys.scope.universe.write.desc": "تفاصيل الكون، وإدخالات الموسوعة، والسلاسل والترجمات",
+  "org.apiKeys.scope.universe.translate.desc": "عناوين الأكوان وأوصافها بلغات أخرى"
 }

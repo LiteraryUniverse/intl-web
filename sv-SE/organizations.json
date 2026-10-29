@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Revisionslogg",
-  "org.apiKeys.description": "API-nycklar låter en extern webbplats (till exempel en WIX-webbplats) läsa din organisations offentliga data. Behandla dem som lösenord och dela dem aldrig.",
+  "org.apiKeys.description": "API-nycklar låter en extern webbplats (till exempel en WIX-webbplats) läsa din organisations offentliga data, eller låter verktyg arbeta med organisationens berättelser och universum. Behandla dem som lösenord och dela dem aldrig.",
   "org.apiKeys.noKeys": "Den här organisationen har inga API-nycklar än.",
-  "org.apiKeys.create.title": "Skapa offentlig läsnyckel",
-  "org.apiKeys.create.description": "Den här nyckeln ger skrivskyddad åtkomst till din organisations offentliga data (profil, publicerade berättelser, universum och kurser) så att du kan visa dem på en extern webbplats.",
+  "org.apiKeys.create.title": "Skapa API-nyckel",
+  "org.apiKeys.create.description": "Välj vad nyckeln får göra. Att läsa offentlig data räcker för att visa organisationen på en extern webbplats. De övriga behörigheterna agerar som organisationen på dess egna berättelser och universum, precis som en organisationsadministratör skulle göra.",
   "org.apiKeys.name.placeholder": "t.ex. WIX-webbplats",
   "org.apiKeys.revoke": "Återkalla",
   "org.settings.title": "Organisationsinställningar",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Visa alla {count}",
   "orgConnect.payouts.notifications": "Stripe-notifikationer",
   "orgConnect.payouts.account": "Utbetalningskonto",
-  "orgConnect.payouts.balance": "Saldo och utbetalningar"
+  "orgConnect.payouts.balance": "Saldo och utbetalningar",
+  "org.apiKeys.scope.organization.read": "Läs offentlig data",
+  "org.apiKeys.scope.story.read": "Läs berättelser",
+  "org.apiKeys.scope.story.write": "Redigera berättelser",
+  "org.apiKeys.scope.story.publish": "Publicera kapitel",
+  "org.apiKeys.scope.universe.read": "Läs universum",
+  "org.apiKeys.scope.universe.write": "Redigera universum",
+  "org.apiKeys.scope.universe.translate": "Översätt universum",
+  "org.apiKeys.scope.organization.read.desc": "Profilen, publicerade berättelser, universum och kurser, för visning på en extern webbplats",
+  "org.apiKeys.scope.story.read.desc": "Organisationens berättelser med deras utkast, samt berättelser i dess universum",
+  "org.apiKeys.scope.story.write.desc": "Berättelsens uppgifter, kapitel och deras ordning, synlighet och utkast",
+  "org.apiKeys.scope.story.publish.desc": "Publicera eller schemalägg kapitel i dessa berättelser",
+  "org.apiKeys.scope.universe.read.desc": "Organisationens universum med deras encyklopedier och serier",
+  "org.apiKeys.scope.universe.write.desc": "Universumets uppgifter, encyklopediposter, serier och översättningar",
+  "org.apiKeys.scope.universe.translate.desc": "Titlar och beskrivningar av universum på andra språk"
 }

@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "Audito žurnalas",
-  "org.apiKeys.description": "API raktai leidžia išorinei svetainei (pavyzdžiui, WIX svetainei) skaityti viešus jūsų organizacijos duomenis. Elkitės su jais kaip su slaptažodžiais ir niekada jų neatskleiskite.",
+  "org.apiKeys.description": "API raktai leidžia išorinei svetainei (pavyzdžiui, WIX svetainei) skaityti viešus jūsų organizacijos duomenis arba įrankiams dirbti su organizacijos istorijomis ir visatomis. Elkitės su jais kaip su slaptažodžiais ir niekada jų neatskleiskite.",
   "org.apiKeys.noKeys": "Ši organizacija dar neturi jokių API raktų.",
-  "org.apiKeys.create.title": "Sukurti viešą skaitymo raktą",
-  "org.apiKeys.create.description": "Šis raktas suteikia tik skaitymo prieigą prie viešų jūsų organizacijos duomenų (profilio, publikuotų istorijų, visatų ir kursų), kad galėtumėte juos rodyti išorinėje svetainėje.",
+  "org.apiKeys.create.title": "Sukurti API raktą",
+  "org.apiKeys.create.description": "Pasirinkite, ką raktas gali daryti. Norint rodyti organizaciją išorinėje svetainėje, pakanka skaityti viešus duomenis. Kiti leidimai veikia organizacijos vardu su jos pačios istorijomis ir visatomis, kaip tai darytų organizacijos administratorius.",
   "org.apiKeys.name.placeholder": "pvz., WIX svetainė",
   "org.apiKeys.revoke": "Atšaukti",
   "org.settings.title": "Organizacijos nustatymai",
@@ -312,5 +312,19 @@
   "org.search.showAll": "Rodyti visus ({count})",
   "orgConnect.payouts.notifications": "Stripe pranešimai",
   "orgConnect.payouts.account": "Išmokų sąskaita",
-  "orgConnect.payouts.balance": "Likutis ir išmokos"
+  "orgConnect.payouts.balance": "Likutis ir išmokos",
+  "org.apiKeys.scope.organization.read": "Skaityti viešus duomenis",
+  "org.apiKeys.scope.story.read": "Skaityti istorijas",
+  "org.apiKeys.scope.story.write": "Redaguoti istorijas",
+  "org.apiKeys.scope.story.publish": "Publikuoti skyrius",
+  "org.apiKeys.scope.universe.read": "Skaityti visatas",
+  "org.apiKeys.scope.universe.write": "Redaguoti visatas",
+  "org.apiKeys.scope.universe.translate": "Versti visatas",
+  "org.apiKeys.scope.organization.read.desc": "Profilis, publikuotos istorijos, visatos ir kursai, skirti rodyti išorinėje svetainėje",
+  "org.apiKeys.scope.story.read.desc": "Organizacijos istorijos su jų juodraščiais ir istorijos jos visatose",
+  "org.apiKeys.scope.story.write.desc": "Istorijos informacija, skyriai ir jų tvarka, matomumas ir juodraščiai",
+  "org.apiKeys.scope.story.publish.desc": "Publikuoti arba suplanuoti šių istorijų skyrius",
+  "org.apiKeys.scope.universe.read.desc": "Organizacijos visatos su jų enciklopedijomis ir serijomis",
+  "org.apiKeys.scope.universe.write.desc": "Visatos informacija, enciklopedijos įrašai, serijos ir vertimai",
+  "org.apiKeys.scope.universe.translate.desc": "Visatų pavadinimai ir aprašymai kitomis kalbomis"
 }

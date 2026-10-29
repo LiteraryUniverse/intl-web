@@ -1,9 +1,9 @@
 {
   "org.auditLog.title": "ཞིབ་བཤེར་དྲན་ཐོ",
-  "org.apiKeys.description": "API ལྡེ་མིག་གིས་ཕྱི་ཕྱོགས་ཀྱི་དྲ་ཚིགས་ཤིག་ (དཔེར་ན་ WIX དྲ་ཚིགས་) ཀྱིས་ཁྱེད་ཀྱི་ཚོགས་སྡེའི་མི་མང་གནས་ཚུལ་ཀློག་ཐུབ་པར་བྱེད། དེ་དག་གསང་གྲངས་བཞིན་བདག་གཉེར་བྱེད་ཅིང་ནམ་ཡང་གཞན་ལ་མི་སྤྲོད།",
+  "org.apiKeys.description": "API ལྡེ་མིག་གིས་ཕྱི་ཕྱོགས་ཀྱི་དྲ་ཚིགས་ཤིག་ (དཔེར་ན་ WIX དྲ་ཚིགས་) ཀྱིས་ཁྱེད་ཀྱི་ཚོགས་སྡེའི་མི་མང་གནས་ཚུལ་ཀློག་ཐུབ་པའམ། ལག་ཆ་རྣམས་ཀྱིས་ཚོགས་སྡེའི་སྒྲུང་དང་འཇིག་རྟེན་ཁམས་ཐོག་ལས་ཀ་བྱེད་ཐུབ་པར་བྱེད། དེ་དག་གསང་གྲངས་བཞིན་བདག་གཉེར་བྱེད་ཅིང་ནམ་ཡང་གཞན་ལ་མི་སྤྲོད།",
   "org.apiKeys.noKeys": "ཚོགས་སྡེ་འདིར་ད་དུང་ API ལྡེ་མིག་གང་ཡང་མེད།",
-  "org.apiKeys.create.title": "མི་མང་ཀློག་ལྡེ་མིག་བཟོ་བ",
-  "org.apiKeys.create.description": "ལྡེ་མིག་འདིས་ཁྱེད་ཀྱི་ཚོགས་སྡེའི་མི་མང་གནས་ཚུལ་ (ངོ་སྤྲོད། སྤེལ་ཟིན་པའི་སྒྲུང་། འཇིག་རྟེན་ཁམས་དང་སློབ་ཚན) ལ་ཀློག་ཙམ་གྱི་འཛུལ་སྤྱོད་སྤྲོད་པས་ཁྱེད་ཀྱིས་ཕྱི་ཕྱོགས་ཀྱི་དྲ་ཚིགས་ཐོག་བཀྲམ་སྟོན་བྱེད་ཐུབ།",
+  "org.apiKeys.create.title": "API ལྡེ་མིག་བཟོ་བ",
+  "org.apiKeys.create.description": "ལྡེ་མིག་གིས་ཅི་བྱེད་ཆོག་པ་འདེམས་རོགས། ཕྱི་ཕྱོགས་ཀྱི་དྲ་ཚིགས་ཐོག་ཚོགས་སྡེ་བཀྲམ་སྟོན་བྱེད་པར་མི་མང་གནས་ཚུལ་ཀློག་པ་ཙམ་གྱིས་འདང་། ཆོག་མཆན་གཞན་དག་གིས་ཚོགས་སྡེ་རང་གི་སྒྲུང་དང་འཇིག་རྟེན་ཁམས་ཐོག་ཚོགས་སྡེའི་ཚབ་ཏུ་ལས་ཀ་བྱེད་དེ། ཚོགས་སྡེའི་དོ་དམ་པ་ཞིག་གིས་བྱེད་པ་བཞིན་ནོ།",
   "org.apiKeys.name.placeholder": "དཔེར་ན། WIX དྲ་ཚིགས",
   "org.apiKeys.revoke": "ཕྱིར་འཐེན",
   "org.settings.title": "ཚོགས་སྡེའི་སྒྲིག་འགོད",
@@ -312,5 +312,19 @@
   "org.search.showAll": "ཚང་མ་ {count} སྟོན།",
   "orgConnect.payouts.notifications": "Stripe notifications",
   "orgConnect.payouts.account": "Payout account",
-  "orgConnect.payouts.balance": "Balance and payouts"
+  "orgConnect.payouts.balance": "Balance and payouts",
+  "org.apiKeys.scope.organization.read": "མི་མང་གནས་ཚུལ་ཀློག་པ",
+  "org.apiKeys.scope.story.read": "སྒྲུང་ཀློག་པ",
+  "org.apiKeys.scope.story.write": "སྒྲུང་རྩོམ་སྒྲིག་བྱེད་པ",
+  "org.apiKeys.scope.story.publish": "ལེའུ་སྤེལ་བ",
+  "org.apiKeys.scope.universe.read": "འཇིག་རྟེན་ཁམས་ཀློག་པ",
+  "org.apiKeys.scope.universe.write": "འཇིག་རྟེན་ཁམས་རྩོམ་སྒྲིག་བྱེད་པ",
+  "org.apiKeys.scope.universe.translate": "འཇིག་རྟེན་ཁམས་ཡིག་སྒྱུར་བྱེད་པ",
+  "org.apiKeys.scope.organization.read.desc": "ངོ་སྤྲོད། སྤེལ་ཟིན་པའི་སྒྲུང་། འཇིག་རྟེན་ཁམས་དང་སློབ་ཚན། ཕྱི་ཕྱོགས་ཀྱི་དྲ་ཚིགས་ཐོག་བཀྲམ་སྟོན་ཆེད།",
+  "org.apiKeys.scope.story.read.desc": "ཚོགས་སྡེའི་སྒྲུང་དང་དེ་དག་གི་ཟིན་བྲིས། དེ་བཞིན་དེའི་འཇིག་རྟེན་ཁམས་ནང་གི་སྒྲུང་།",
+  "org.apiKeys.scope.story.write.desc": "སྒྲུང་གི་ཞིབ་ཕྲ། ལེའུ་དང་དེ་དག་གི་གོ་རིམ། མཐོང་ཐུབ་རང་བཞིན་དང་ཟིན་བྲིས།",
+  "org.apiKeys.scope.story.publish.desc": "སྒྲུང་འདི་དག་གི་ལེའུ་སྤེལ་བའམ་དུས་ཚོད་གཏན་འཁེལ་བྱེད་པ།",
+  "org.apiKeys.scope.universe.read.desc": "ཚོགས་སྡེའི་འཇིག་རྟེན་ཁམས་དང་དེ་དག་གི་རིག་མཛོད་དང་རིམ་སྒྲུང་།",
+  "org.apiKeys.scope.universe.write.desc": "འཇིག་རྟེན་ཁམས་ཀྱི་ཞིབ་ཕྲ། རིག་མཛོད་ཀྱི་ནང་འཇུག རིམ་སྒྲུང་དང་ཡིག་སྒྱུར།",
+  "org.apiKeys.scope.universe.translate.desc": "སྐད་ཡིག་གཞན་དག་ཐོག་གི་འཇིག་རྟེན་ཁམས་ཀྱི་ཁ་བྱང་དང་འགྲེལ་བཤད།"
 }
