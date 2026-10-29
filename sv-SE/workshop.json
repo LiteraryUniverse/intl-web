@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Inbjudan skickad!",
   "workshop.universe.createFirstStory": "Skapa det första berättelsen",
   "workshop.storylines": "Handlingar",
+  "workshop.story.arc": "Berättelsebåge",
   "workshop.scenesManager": "Scenerhanteraren",
   "workshop.sceneManager.title": "Scenchef - {storyTitle}",
   "workshop.scene.create": "Skapa scen",

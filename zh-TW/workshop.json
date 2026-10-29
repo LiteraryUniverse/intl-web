@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "邀請函已寄出！",
   "workshop.universe.createFirstStory": "創建第一個故事",
   "workshop.storylines": "故事線",
+  "workshop.story.arc": "故事弧線",
   "workshop.scenesManager": "場景管理器",
   "workshop.sceneManager.title": "場景經理 - {storyTitle}",
   "workshop.scene.create": "建立場景",

@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Kutsu lähetetty!",
   "workshop.universe.createFirstStory": "Luo ensimmäinen tarina",
   "workshop.storylines": "Juonilinjat",
+  "workshop.story.arc": "Tarinakaari",
   "workshop.scenesManager": "Kohtausten hallinta",
   "workshop.sceneManager.title": "Scene Manager - {storyTitle}",
   "workshop.scene.create": "Luo kohtaus",

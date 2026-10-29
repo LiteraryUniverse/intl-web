@@ -75,6 +75,7 @@
   "encyclopedia.fields.time": "Time",
   "encyclopedia.fields.image": "Image",
   "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.fields.arc": "Arc",
   "encyclopedia.visibility": "Visibility",
   "encyclopedia.public": "Public",
   "encyclopedia.private": "Private",

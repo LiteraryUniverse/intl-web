@@ -25,7 +25,7 @@ const INTL_ROOT = path.resolve(__dirname, '..')
 /**
  * Namespaces deliberately kept OUT of index.json: they are lazy-loaded on
  * demand by imports/i18n/isolatedLoaders.ts (IsolatedIntlNamespace). Must be
- * the full set of 8 — after the .js→.json migration the merge filter can no
+ * the full set of 9 — after the .js→.json migration the merge filter can no
  * longer rely on a .js/.json extension split, so this is explicit.
  */
 const ISOLATED_NAMESPACES = new Set([
@@ -37,6 +37,7 @@ const ISOLATED_NAMESPACES = new Set([
   'tours',
   'eventSignup',
   'sharingCanvas',
+  'arcs',
 ])
 
 /** index.json itself is generated; never merge it into itself. */

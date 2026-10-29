@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Invitasjon sendt!",
   "workshop.universe.createFirstStory": "Opprett den første historien",
   "workshop.storylines": "Historielinjer",
+  "workshop.story.arc": "Historiebue",
   "workshop.scenesManager": "Scenemanager",
   "workshop.sceneManager.title": "Scenemanager – {storyTitle}",
   "workshop.scene.create": "Opprett scene",

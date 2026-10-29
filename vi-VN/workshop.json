@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Lời mời đã được gửi đi!",
   "workshop.universe.createFirstStory": "Tạo câu chuyện đầu tiên",
   "workshop.storylines": "Các dòng truyện",
+  "workshop.story.arc": "Hành trình câu chuyện",
   "workshop.scenesManager": "Quản lý Cảnh",
   "workshop.sceneManager.title": "Quản lý cảnh quay – {storyTitle}",
   "workshop.scene.create": "Tạo cảnh",

@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Приглашение отправлено!",
   "workshop.universe.createFirstStory": "Создать первую историю",
   "workshop.storylines": "Истории",
+  "workshop.story.arc": "Арка истории",
   "workshop.scenesManager": "Менеджер сцен",
   "workshop.sceneManager.title": "Менеджер сцены - {storyTitle}",
   "workshop.scene.create": "Создайте сцену",

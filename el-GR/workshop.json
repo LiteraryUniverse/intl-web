@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Η πρόσκληση εστάλη!",
   "workshop.universe.createFirstStory": "Δημιουργήστε το πρώτο έργο",
   "workshop.storylines": "Γραμμές ιστορίας",
+  "workshop.story.arc": "Τόξο ιστορίας",
   "workshop.scenesManager": "Διαχειριστής σκηνών",
   "workshop.sceneManager.title": "Διαχειριστής σκηνής - {storyTitle}",
   "workshop.scene.create": "Δημιουργία σκηνής",

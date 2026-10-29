@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "आमंत्रण भेज दिया गया!",
   "workshop.universe.createFirstStory": "पहली कहानी बनाएं",
   "workshop.storylines": "कहानी की रेखाएँ",
+  "workshop.story.arc": "कहानी का आर्क",
   "workshop.scenesManager": "सीन मैनेजर",
   "workshop.sceneManager.title": "दृश्य प्रबंधक – {storyTitle}",
   "workshop.scene.create": "दृश्य बनाएं",

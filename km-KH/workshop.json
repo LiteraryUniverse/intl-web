@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Invitation sent!",
   "workshop.universe.createFirstStory": "បង្កើតជាមួយនឹងរឿងដំបូងរបស់អ្នក",
   "workshop.storylines": "ជំនួយរឿង",
+  "workshop.story.arc": "Story arc",
   "workshop.scenesManager": "អ្នកគ្រប់គ្រងសត្វចម្រៀង",
   "workshop.sceneManager.title": "Scene Manager – {storyTitle}",
   "workshop.scene.create": "Create scene",

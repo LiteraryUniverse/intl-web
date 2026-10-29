@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Davetiye gönderildi!",
   "workshop.universe.createFirstStory": "İlk hikayeyi oluştur",
   "workshop.storylines": "Hikaye çizgileri",
+  "workshop.story.arc": "Hikaye yayı",
   "workshop.scenesManager": "Sahne Yöneticisi",
   "workshop.sceneManager.title": "Sahne Yöneticisi - {storyTitle}",
   "workshop.scene.create": "Sahne oluştur",

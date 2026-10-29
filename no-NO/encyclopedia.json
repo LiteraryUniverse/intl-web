@@ -75,6 +75,7 @@
   "encyclopedia.fields.time": "Tid",
   "encyclopedia.fields.image": "Bilde",
   "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.fields.arc": "Bue",
   "encyclopedia.visibility": "Synlighet",
   "encyclopedia.public": "Offentlig",
   "encyclopedia.private": "Privat",

@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "ההזמנה נשלחה!",
   "workshop.universe.createFirstStory": "צור את הסיפור הראשון",
   "workshop.storylines": "סיפורים",
+  "workshop.story.arc": "קשת הסיפור",
   "workshop.scenesManager": "מנהל הסצינות",
   "workshop.sceneManager.title": "מנהל הסצנה – {storyTitle}",
   "workshop.scene.create": "צור סצנה",

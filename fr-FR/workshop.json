@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Invitation envoyée !",
   "workshop.universe.createFirstStory": "Créer la première histoire",
   "workshop.storylines": "Synopsis",
+  "workshop.story.arc": "Arc de l’histoire",
   "workshop.scenesManager": "Gestionnaire de Scénarios",
   "workshop.sceneManager.title": "Responsable de scène - {storyTitle}",
   "workshop.scene.create": "Créer une scène",

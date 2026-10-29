@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "მიწვევა გაგზავნილია!",
   "workshop.universe.createFirstStory": "შექმენი პირველი ამბავი",
   "workshop.storylines": "სიუჟეტები",
+  "workshop.story.arc": "ამბის რკალი",
   "workshop.scenesManager": "სცენების მენეჯერი",
   "workshop.sceneManager.title": "სცენის მენეჯერი – {storyTitle}",
   "workshop.scene.create": "შექმენი სცენა",

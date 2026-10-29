@@ -75,6 +75,7 @@
   "encyclopedia.fields.time": "Laikas",
   "encyclopedia.fields.image": "Vaizdas",
   "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.fields.arc": "Lankas",
   "encyclopedia.visibility": "Matomumas",
   "encyclopedia.public": "Viešas",
   "encyclopedia.private": "Privatus",

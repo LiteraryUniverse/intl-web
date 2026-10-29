@@ -75,6 +75,7 @@
   "encyclopedia.fields.time": "Tyd",
   "encyclopedia.fields.image": "Beeld",
   "encyclopedia.fields.canvas": "Canvas",
+  "encyclopedia.fields.arc": "Boog",
   "encyclopedia.visibility": "Sigbaarheid",
   "encyclopedia.public": "Openbaar",
   "encyclopedia.private": "Privaat",

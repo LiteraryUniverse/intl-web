@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "تم إرسال الدعوة!",
   "workshop.universe.createFirstStory": "أنشئ أول قصة",
   "workshop.storylines": "خطوط القصة",
+  "workshop.story.arc": "مسار القصة",
   "workshop.scenesManager": "إدارة المشاهد",
   "workshop.sceneManager.title": "مدير المشهد - {storyTitle}",
   "workshop.scene.create": "إنشاء مشهد",

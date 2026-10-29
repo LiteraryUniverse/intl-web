@@ -18,9 +18,9 @@ Everything is **JSON** (there are no `.js` source files anymore):
 - `<locale>/index.json` — **generated, do not hand-edit.** The merged runtime
   bundle the app fetches. Regenerated and committed by CI (`build-index`
   workflow) on every push to `master`.
-- 8 namespaces are kept **out** of `index.json` and lazy-loaded on demand:
+- 9 namespaces are kept **out** of `index.json` and lazy-loaded on demand:
   `faq`, `comparisons`, `signup`, `the_way`, `cookieconsent`, `tours`,
-  `eventSignup`, `sharingCanvas`.
+  `eventSignup`, `sharingCanvas`, `arcs`.
 
 ## Build
 
@@ -31,7 +31,7 @@ intl:export-public` / `prestart`. Never edit `index.json` by hand.
 
 ## App integration
 
-Consume the 8 isolated namespaces through the centralized loaders in
+Consume the 9 isolated namespaces through the centralized loaders in
 `app/imports/i18n/isolatedLoaders.ts` rather than importing the JSON directly:
 
 - `loadFaqMessages(locale)`
@@ -42,6 +42,7 @@ Consume the 8 isolated namespaces through the centralized loaders in
 - `loadToursMessages(locale)`
 - `loadEventSignupMessages(locale)`
 - `loadSharingCanvasMessages(locale)`
+- `<IsolatedIntl namespace="arcs">` (`app/imports/i18n/IsolatedIntl.tsx`) for the arc templates
 
 Everything else is served from the per-locale `index.json` bundle.
 

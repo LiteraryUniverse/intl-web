@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "초대장이 전송되었습니다!",
   "workshop.universe.createFirstStory": "첫 번째 이야기 만들기",
   "workshop.storylines": "스토리라인",
+  "workshop.story.arc": "스토리 아크",
   "workshop.scenesManager": "장면 관리자",
   "workshop.sceneManager.title": "장면 관리자 - {storyTitle}",
   "workshop.scene.create": "장면 만들기",

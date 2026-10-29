@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Meghívó elküldve!",
   "workshop.universe.createFirstStory": "Hozd létre az első történetet",
   "workshop.storylines": "Történetvonalak",
+  "workshop.story.arc": "Történetív",
   "workshop.scenesManager": "Jelenetek kezelése",
   "workshop.sceneManager.title": "Scene Manager - {storyTitle}",
   "workshop.scene.create": "Jelenet létrehozása",

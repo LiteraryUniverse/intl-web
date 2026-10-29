@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Kvietimas išsiųstas!",
   "workshop.universe.createFirstStory": "Sukurti pirmą istoriją",
   "workshop.storylines": "Siūlymai",
+  "workshop.story.arc": "Istorijos lankas",
   "workshop.scenesManager": "Scenų valdytojas",
   "workshop.sceneManager.title": "Scenos vadybininkas - {storyTitle}",
   "workshop.scene.create": "Sukurti sceną",

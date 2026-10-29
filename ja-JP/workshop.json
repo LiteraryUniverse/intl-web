@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "招待状が届いた！",
   "workshop.universe.createFirstStory": "最初の物語を書く",
   "workshop.storylines": "ストーリーライン",
+  "workshop.story.arc": "ストーリーアーク",
   "workshop.scenesManager": "シーンマネージャー",
   "workshop.sceneManager.title": "シーンマネージャー - {storyTitle}",
   "workshop.scene.create": "シーンの作成",

@@ -75,6 +75,7 @@
   "encyclopedia.fields.time": "Время",
   "encyclopedia.fields.image": "Изображение",
   "encyclopedia.fields.canvas": "Холст",
+  "encyclopedia.fields.arc": "Арка",
   "encyclopedia.visibility": "Видимость",
   "encyclopedia.public": "Открытая",
   "encyclopedia.private": "Закрытая",

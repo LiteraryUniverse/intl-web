@@ -75,6 +75,7 @@
   "encyclopedia.fields.time": "Aika",
   "encyclopedia.fields.image": "Kuva",
   "encyclopedia.fields.canvas": "Kanvaasi",
+  "encyclopedia.fields.arc": "Kaari",
   "encyclopedia.visibility": "Näkyvyys",
   "encyclopedia.public": "Julkinen",
   "encyclopedia.private": "Yksityinen",

@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "Kutse saadetud!",
   "workshop.universe.createFirstStory": "Loo esimene lugu",
   "workshop.storylines": "Loo käigud",
+  "workshop.story.arc": "Loo kaar",
   "workshop.scenesManager": "Stseenide haldur",
   "workshop.sceneManager.title": "Stseenijuht - {storyTitle}",
   "workshop.scene.create": "Loo stseen",

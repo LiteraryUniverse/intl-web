@@ -199,6 +199,7 @@
   "workshop.collaborators.emailSent": "ส่งคำเชิญแล้ว!",
   "workshop.universe.createFirstStory": "สร้างเรื่องแรก",
   "workshop.storylines": "สายเรื่อง",
+  "workshop.story.arc": "อาร์คของเรื่อง",
   "workshop.scenesManager": "ตัวจัดการฉาก",
   "workshop.sceneManager.title": "ผู้จัดการฉาก – {storyTitle}",
   "workshop.scene.create": "สร้างฉาก",
