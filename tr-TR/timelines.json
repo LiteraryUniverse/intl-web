@@ -75,5 +75,11 @@
   "timelines.widget.card": "Zaman çizelgesi kartı",
   "timelines.widget.listHint": "Evrenin yayınlanan zaman çizelgeleri burada görünür.",
   "timelines.widget.cardHint": "Kartını göstermek için bir zaman çizelgesi seçin.",
-  "timelines.widget.fullHint": "Tüm olaylarını göstermek için bir zaman çizelgesi seçin."
+  "timelines.widget.fullHint": "Tüm olaylarını göstermek için bir zaman çizelgesi seçin.",
+  "timelines.form.endWhen": "Bitiş tarihi/saati (isteğe bağlı)",
+  "timelines.form.isSpoiler": "Bu olayı spoiler olarak gizle",
+  "timelines.form.linkedSpoilerHint": "Okur yukarıdaki her bölüme ulaşana ya da bölümü belirtilmemiş bir hikayeyi bitirene kadar gizli kalır. En az bir hikaye gerekir.",
+  "timelines.invalidEndDate": "Bitiş tarihi, zaman çizelgesinin tarihlerine uymuyor ya da başlangıçtan önce.",
+  "timelines.spoilerNeedsStory": "Bir hikaye ekleyin ya da spoiler korumasını kapatın.",
+  "timelines.translate.endWhen": "Bitiş tarihi etiketi (orijinal: {original})"
 }

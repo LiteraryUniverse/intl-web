@@ -75,5 +75,11 @@
   "timelines.widget.card": "時間軸卡片",
   "timelines.widget.listHint": "這個宇宙已發佈的時間軸會顯示在這裡。",
   "timelines.widget.cardHint": "選擇時間軸以顯示其卡片。",
-  "timelines.widget.fullHint": "選擇時間軸以顯示其所有事件。"
+  "timelines.widget.fullHint": "選擇時間軸以顯示其所有事件。",
+  "timelines.form.endWhen": "結束日期／時間（選填）",
+  "timelines.form.isSpoiler": "將此事件設為劇透並隱藏",
+  "timelines.form.linkedSpoilerHint": "在讀者讀到上方每個章節，或讀完未指定章節的故事之前都會隱藏。至少需要一個故事。",
+  "timelines.invalidEndDate": "結束日期不符合時間軸的日期類型，或早於開始日期。",
+  "timelines.spoilerNeedsStory": "請新增故事，或關閉劇透保護。",
+  "timelines.translate.endWhen": "結束日期標籤（原文：{original}）"
 }

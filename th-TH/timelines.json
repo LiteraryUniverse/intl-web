@@ -75,5 +75,11 @@
   "timelines.widget.card": "การ์ดไทม์ไลน์",
   "timelines.widget.listHint": "ไทม์ไลน์ที่เผยแพร่แล้วของจักรวาลจะแสดงที่นี่",
   "timelines.widget.cardHint": "เลือกไทม์ไลน์เพื่อแสดงการ์ดของไทม์ไลน์นั้น",
-  "timelines.widget.fullHint": "เลือกไทม์ไลน์เพื่อแสดงเหตุการณ์ทั้งหมดของไทม์ไลน์นั้น"
+  "timelines.widget.fullHint": "เลือกไทม์ไลน์เพื่อแสดงเหตุการณ์ทั้งหมดของไทม์ไลน์นั้น",
+  "timelines.form.endWhen": "วันที่/เวลาสิ้นสุด (ไม่บังคับ)",
+  "timelines.form.isSpoiler": "ซ่อนเหตุการณ์นี้เป็นสปอยล์",
+  "timelines.form.linkedSpoilerHint": "ซ่อนไว้จนกว่าผู้อ่านจะอ่านถึงทุกตอนด้านบน หรืออ่านเรื่องที่ไม่ได้กำหนดตอนจบ ต้องมีอย่างน้อยหนึ่งเรื่อง",
+  "timelines.invalidEndDate": "วันที่สิ้นสุดไม่ตรงกับรูปแบบวันที่ของไทม์ไลน์ หรืออยู่ก่อนวันเริ่มต้น",
+  "timelines.spoilerNeedsStory": "เพิ่มเรื่องหรือปิดการป้องกันสปอยล์",
+  "timelines.translate.endWhen": "ป้ายกำกับวันที่สิ้นสุด (ต้นฉบับ: {original})"
 }

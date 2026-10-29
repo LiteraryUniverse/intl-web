@@ -75,5 +75,11 @@
   "timelines.widget.card": "Kertu garis wektu",
   "timelines.widget.listHint": "Garis wektu jagad sing wis diterbitake katon ing kene.",
   "timelines.widget.cardHint": "Pilih garis wektu kanggo nampilake kertune.",
-  "timelines.widget.fullHint": "Pilih garis wektu kanggo nampilake kabeh kedadeyane."
+  "timelines.widget.fullHint": "Pilih garis wektu kanggo nampilake kabeh kedadeyane.",
+  "timelines.form.endWhen": "Tanggal/wektu pungkasan (pilihan)",
+  "timelines.form.isSpoiler": "Dhelikake kedadeyan iki minangka spoiler",
+  "timelines.form.linkedSpoilerHint": "Didhelikake nganti pamaca tekan saben bab ing ndhuwur, utawa rampung maca crita sing ora ana babe. Butuh paling ora siji crita.",
+  "timelines.invalidEndDate": "Tanggal pungkasan ora cocog karo tanggal garis wektu utawa luwih dhisik tinimbang wiwitane.",
+  "timelines.spoilerNeedsStory": "Tambahna crita utawa pateni pangreksan spoiler.",
+  "timelines.translate.endWhen": "Label tanggal pungkasan (asli: {original})"
 }

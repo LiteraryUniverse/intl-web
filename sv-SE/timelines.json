@@ -75,5 +75,11 @@
   "timelines.widget.card": "Tidslinjekort",
   "timelines.widget.listHint": "Universumets publicerade tidslinjer visas här.",
   "timelines.widget.cardHint": "Välj en tidslinje för att visa dess kort.",
-  "timelines.widget.fullHint": "Välj en tidslinje för att visa alla dess händelser."
+  "timelines.widget.fullHint": "Välj en tidslinje för att visa alla dess händelser.",
+  "timelines.form.endWhen": "Slutdatum/-tid (valfritt)",
+  "timelines.form.isSpoiler": "Dölj den här händelsen som spoiler",
+  "timelines.form.linkedSpoilerHint": "Dold tills läsaren når varje kapitel ovan, eller läser klart en berättelse utan angivet kapitel. Kräver minst en berättelse.",
+  "timelines.invalidEndDate": "Slutdatumet passar inte tidslinjens datum eller ligger före starten.",
+  "timelines.spoilerNeedsStory": "Lägg till en berättelse eller stäng av spoilerskyddet.",
+  "timelines.translate.endWhen": "Slutdatumetikett (original: {original})"
 }

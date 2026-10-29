@@ -75,5 +75,11 @@
   "timelines.widget.card": "Laiko juostos kortelė",
   "timelines.widget.listHint": "Čia rodomos paskelbtos visatos laiko juostos.",
   "timelines.widget.cardHint": "Pasirinkite laiko juostą, kad būtų parodyta jos kortelė.",
-  "timelines.widget.fullHint": "Pasirinkite laiko juostą, kad būtų parodyti visi jos įvykiai."
+  "timelines.widget.fullHint": "Pasirinkite laiko juostą, kad būtų parodyti visi jos įvykiai.",
+  "timelines.form.endWhen": "Pabaigos data/laikas (neprivaloma)",
+  "timelines.form.isSpoiler": "Slėpti šį įvykį kaip siužeto atskleidimą",
+  "timelines.form.linkedSpoilerHint": "Paslėpta, kol skaitytojas pasieks kiekvieną aukščiau nurodytą skyrių arba baigs istoriją, kuriai skyrius nenurodytas. Reikia bent vienos istorijos.",
+  "timelines.invalidEndDate": "Pabaigos data neatitinka laiko juostos datų arba yra ankstesnė už pradžią.",
+  "timelines.spoilerNeedsStory": "Pridėkite istoriją arba išjunkite apsaugą nuo siužeto atskleidimo.",
+  "timelines.translate.endWhen": "Pabaigos datos žyma (originalas: {original})"
 }

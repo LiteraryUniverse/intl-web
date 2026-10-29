@@ -75,5 +75,11 @@
   "timelines.widget.card": "Scheda della linea temporale",
   "timelines.widget.listHint": "Qui compaiono le linee temporali pubblicate dell'universo.",
   "timelines.widget.cardHint": "Scegli una linea temporale per mostrarne la scheda.",
-  "timelines.widget.fullHint": "Scegli una linea temporale per mostrarne tutti gli eventi."
+  "timelines.widget.fullHint": "Scegli una linea temporale per mostrarne tutti gli eventi.",
+  "timelines.form.endWhen": "Data/ora di fine (facoltativo)",
+  "timelines.form.isSpoiler": "Nascondi questo evento come spoiler",
+  "timelines.form.linkedSpoilerHint": "Nascosto finché il lettore non raggiunge ogni capitolo qui sopra, o finisce una storia senza capitolo indicato. Richiede almeno una storia.",
+  "timelines.invalidEndDate": "La data di fine non è compatibile con le date della linea temporale o precede l'inizio.",
+  "timelines.spoilerNeedsStory": "Aggiungi una storia o disattiva la protezione dagli spoiler.",
+  "timelines.translate.endWhen": "Etichetta della data di fine (originale: {original})"
 }

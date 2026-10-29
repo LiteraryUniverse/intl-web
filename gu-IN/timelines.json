@@ -75,5 +75,11 @@
   "timelines.widget.card": "સમયરેખા કાર્ડ",
   "timelines.widget.listHint": "બ્રહ્માંડની પ્રકાશિત સમયરેખાઓ અહીં દેખાય છે.",
   "timelines.widget.cardHint": "તેનું કાર્ડ બતાવવા માટે સમયરેખા પસંદ કરો.",
-  "timelines.widget.fullHint": "તેની બધી ઘટનાઓ બતાવવા માટે સમયરેખા પસંદ કરો."
+  "timelines.widget.fullHint": "તેની બધી ઘટનાઓ બતાવવા માટે સમયરેખા પસંદ કરો.",
+  "timelines.form.endWhen": "અંતિમ તારીખ/સમય (વૈકલ્પિક)",
+  "timelines.form.isSpoiler": "આ ઘટનાને સ્પોઇલર તરીકે છુપાવો",
+  "timelines.form.linkedSpoilerHint": "વાચક ઉપરના દરેક પ્રકરણ સુધી ન પહોંચે, અથવા પ્રકરણ નક્કી ન હોય તેવી કથા પૂરી ન કરે ત્યાં સુધી છુપાયેલું રહે છે. ઓછામાં ઓછી એક કથા જરૂરી છે.",
+  "timelines.invalidEndDate": "અંતિમ તારીખ સમયરેખાની તારીખો સાથે બંધબેસતી નથી અથવા શરૂઆત પહેલાં આવે છે.",
+  "timelines.spoilerNeedsStory": "એક કથા ઉમેરો અથવા સ્પોઇલર સુરક્ષા બંધ કરો.",
+  "timelines.translate.endWhen": "અંતિમ તારીખ લેબલ (મૂળ: {original})"
 }

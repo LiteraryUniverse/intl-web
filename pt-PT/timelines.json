@@ -75,5 +75,11 @@
   "timelines.widget.card": "Cartão do cronograma",
   "timelines.widget.listHint": "Os cronogramas publicados do universo aparecem aqui.",
   "timelines.widget.cardHint": "Escolha um cronograma para mostrar o respetivo cartão.",
-  "timelines.widget.fullHint": "Escolha um cronograma para mostrar todos os respetivos eventos."
+  "timelines.widget.fullHint": "Escolha um cronograma para mostrar todos os respetivos eventos.",
+  "timelines.form.endWhen": "Data/hora de fim (opcional)",
+  "timelines.form.isSpoiler": "Ocultar este evento como spoiler",
+  "timelines.form.linkedSpoilerHint": "Oculto até o leitor chegar a cada capítulo acima, ou terminar uma história sem capítulo definido. Requer pelo menos uma história.",
+  "timelines.invalidEndDate": "A data de fim não corresponde às datas do cronograma ou é anterior ao início.",
+  "timelines.spoilerNeedsStory": "Adicione uma história ou desative a proteção contra spoilers.",
+  "timelines.translate.endWhen": "Etiqueta da data de fim (original: {original})"
 }

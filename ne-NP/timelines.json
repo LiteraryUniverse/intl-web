@@ -75,5 +75,11 @@
   "timelines.widget.card": "समयरेखा कार्ड",
   "timelines.widget.listHint": "ब्रह्माण्डका प्रकाशित समयरेखाहरू यहाँ देखिन्छन्।",
   "timelines.widget.cardHint": "यसको कार्ड देखाउन समयरेखा छान्नुहोस्।",
-  "timelines.widget.fullHint": "यसका सबै घटनाहरू देखाउन समयरेखा छान्नुहोस्।"
+  "timelines.widget.fullHint": "यसका सबै घटनाहरू देखाउन समयरेखा छान्नुहोस्।",
+  "timelines.form.endWhen": "अन्त्य मिति/समय (ऐच्छिक)",
+  "timelines.form.isSpoiler": "यो घटनालाई स्पोइलरका रूपमा लुकाउनुहोस्",
+  "timelines.form.linkedSpoilerHint": "पाठक माथिका हरेक अध्यायसम्म नपुगुन्जेल, वा अध्याय तोकिएको नभएको कथा नसकुन्जेल लुकाइन्छ। कम्तीमा एउटा कथा चाहिन्छ।",
+  "timelines.invalidEndDate": "अन्त्य मिति समयरेखाका मितिहरूसँग मेल खाँदैन वा सुरुभन्दा अघि छ।",
+  "timelines.spoilerNeedsStory": "एउटा कथा थप्नुहोस् वा स्पोइलर सुरक्षा बन्द गर्नुहोस्।",
+  "timelines.translate.endWhen": "अन्त्य मिति लेबल (मूल: {original})"
 }

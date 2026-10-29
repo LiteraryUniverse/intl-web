@@ -75,5 +75,11 @@
   "timelines.widget.card": "Carte de chronologie",
   "timelines.widget.listHint": "Les chronologies publiées de l'univers apparaissent ici.",
   "timelines.widget.cardHint": "Choisissez une chronologie pour afficher sa carte.",
-  "timelines.widget.fullHint": "Choisissez une chronologie pour afficher tous ses événements."
+  "timelines.widget.fullHint": "Choisissez une chronologie pour afficher tous ses événements.",
+  "timelines.form.endWhen": "Date/heure de fin (facultatif)",
+  "timelines.form.isSpoiler": "Masquer cet événement comme spoiler",
+  "timelines.form.linkedSpoilerHint": "Masqué jusqu'à ce que le lecteur atteigne chaque chapitre ci-dessus, ou termine une histoire sans chapitre indiqué. Nécessite au moins une histoire.",
+  "timelines.invalidEndDate": "La date de fin ne correspond pas aux dates de la chronologie ou précède le début.",
+  "timelines.spoilerNeedsStory": "Ajoutez une histoire ou désactivez la protection contre les spoilers.",
+  "timelines.translate.endWhen": "Libellé de la date de fin (original : {original})"
 }

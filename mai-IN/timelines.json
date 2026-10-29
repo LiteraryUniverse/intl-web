@@ -75,5 +75,11 @@
   "timelines.widget.card": "समयरेखा कार्ड",
   "timelines.widget.listHint": "ब्रह्माण्डक प्रकाशित समयरेखा सभ एतय देखाइत अछि।",
   "timelines.widget.cardHint": "एकर कार्ड देखेबाक लेल समयरेखा चुनू।",
-  "timelines.widget.fullHint": "एकर सभ घटना देखेबाक लेल समयरेखा चुनू।"
+  "timelines.widget.fullHint": "एकर सभ घटना देखेबाक लेल समयरेखा चुनू।",
+  "timelines.form.endWhen": "समाप्तिक तारीख/समय (वैकल्पिक)",
+  "timelines.form.isSpoiler": "ई घटनाकेँ स्पॉइलरक रूपमे नुकाउ",
+  "timelines.form.linkedSpoilerHint": "जा धरि पाठक ऊपरक सभ अध्याय धरि नहि पहुँचि जाथि, वा बिना निर्धारित अध्यायक कथा पूरा नहि क' लेथि, ता धरि नुकाएल रहत। कमसँ कम एकटा कथा आवश्यक अछि।",
+  "timelines.invalidEndDate": "समाप्तिक तारीख समयरेखाक तारीखसँ मेल नहि खाइत अछि वा आरम्भसँ पहिने अछि।",
+  "timelines.spoilerNeedsStory": "एकटा कथा जोड़ू वा स्पॉइलर सुरक्षा बन्द करू।",
+  "timelines.translate.endWhen": "समाप्तिक तारीख लेबल (मूल: {original})"
 }

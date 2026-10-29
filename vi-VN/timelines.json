@@ -75,5 +75,11 @@
   "timelines.widget.card": "Thẻ dòng thời gian",
   "timelines.widget.listHint": "Các dòng thời gian đã xuất bản của vũ trụ sẽ hiển thị ở đây.",
   "timelines.widget.cardHint": "Chọn một dòng thời gian để hiển thị thẻ của nó.",
-  "timelines.widget.fullHint": "Chọn một dòng thời gian để hiển thị tất cả sự kiện của nó."
+  "timelines.widget.fullHint": "Chọn một dòng thời gian để hiển thị tất cả sự kiện của nó.",
+  "timelines.form.endWhen": "Ngày/giờ kết thúc (không bắt buộc)",
+  "timelines.form.isSpoiler": "Ẩn sự kiện này như một tình tiết tiết lộ",
+  "timelines.form.linkedSpoilerHint": "Bị ẩn cho đến khi người đọc tới mọi chương ở trên, hoặc đọc xong một câu chuyện không chọn chương. Cần ít nhất một câu chuyện.",
+  "timelines.invalidEndDate": "Ngày kết thúc không khớp với kiểu ngày của dòng thời gian hoặc đứng trước ngày bắt đầu.",
+  "timelines.spoilerNeedsStory": "Thêm một câu chuyện hoặc tắt chế độ chống tiết lộ.",
+  "timelines.translate.endWhen": "Nhãn ngày kết thúc (bản gốc: {original})"
 }

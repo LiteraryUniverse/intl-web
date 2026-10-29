@@ -75,5 +75,11 @@
   "timelines.widget.card": "Kad jadual masa",
   "timelines.widget.listHint": "Jadual masa univers yang diterbitkan dipaparkan di sini.",
   "timelines.widget.cardHint": "Pilih jadual masa untuk memaparkan kadnya.",
-  "timelines.widget.fullHint": "Pilih jadual masa untuk memaparkan semua peristiwanya."
+  "timelines.widget.fullHint": "Pilih jadual masa untuk memaparkan semua peristiwanya.",
+  "timelines.form.endWhen": "Tarikh/masa tamat (pilihan)",
+  "timelines.form.isSpoiler": "Sembunyikan peristiwa ini sebagai spoiler",
+  "timelines.form.linkedSpoilerHint": "Disembunyikan sehingga pembaca sampai ke setiap bab di atas, atau menamatkan cerita tanpa bab yang ditetapkan. Memerlukan sekurang-kurangnya satu cerita.",
+  "timelines.invalidEndDate": "Tarikh tamat tidak sesuai dengan tarikh jadual masa atau lebih awal daripada permulaan.",
+  "timelines.spoilerNeedsStory": "Tambah cerita atau matikan perlindungan spoiler.",
+  "timelines.translate.endWhen": "Label tarikh tamat (asal: {original})"
 }

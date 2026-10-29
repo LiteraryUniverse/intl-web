@@ -75,5 +75,11 @@
   "timelines.widget.card": "Zeitlinienkarte",
   "timelines.widget.listHint": "Hier erscheinen die veröffentlichten Zeitlinien des Universums.",
   "timelines.widget.cardHint": "Zeitlinie auswählen, um ihre Karte anzuzeigen.",
-  "timelines.widget.fullHint": "Zeitlinie auswählen, um alle ihre Ereignisse anzuzeigen."
+  "timelines.widget.fullHint": "Zeitlinie auswählen, um alle ihre Ereignisse anzuzeigen.",
+  "timelines.form.endWhen": "Enddatum/-uhrzeit (optional)",
+  "timelines.form.isSpoiler": "Dieses Ereignis als Spoiler verbergen",
+  "timelines.form.linkedSpoilerHint": "Verborgen, bis die Leser jedes Kapitel oben erreichen oder eine Geschichte ohne angegebenes Kapitel beenden. Erfordert mindestens eine Geschichte.",
+  "timelines.invalidEndDate": "Das Enddatum passt nicht zu den Datumsangaben der Zeitlinie oder liegt vor dem Beginn.",
+  "timelines.spoilerNeedsStory": "Füge eine Geschichte hinzu oder schalte den Spoilerschutz aus.",
+  "timelines.translate.endWhen": "Bezeichnung des Enddatums (Original: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "כרטיס ציר זמן",
   "timelines.widget.listHint": "צירי הזמן שפורסמו ביקום מופיעים כאן.",
   "timelines.widget.cardHint": "יש לבחור ציר זמן כדי להציג את הכרטיס שלו.",
-  "timelines.widget.fullHint": "יש לבחור ציר זמן כדי להציג את כל האירועים שלו."
+  "timelines.widget.fullHint": "יש לבחור ציר זמן כדי להציג את כל האירועים שלו.",
+  "timelines.form.endWhen": "תאריך/שעת סיום (אופציונלי)",
+  "timelines.form.isSpoiler": "הסתרת האירוע הזה כספוילר",
+  "timelines.form.linkedSpoilerHint": "מוסתר עד שהקורא מגיע לכל פרק שלמעלה, או מסיים סיפור שלא נקבע לו פרק. נדרש לפחות סיפור אחד.",
+  "timelines.invalidEndDate": "תאריך הסיום אינו מתאים לתאריכים של ציר הזמן או שהוא לפני ההתחלה.",
+  "timelines.spoilerNeedsStory": "הוסיפו סיפור או כבו את ההגנה מפני ספוילרים.",
+  "timelines.translate.endWhen": "תווית תאריך סיום (מקור: {original})"
 }

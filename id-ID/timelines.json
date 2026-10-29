@@ -75,5 +75,11 @@
   "timelines.widget.card": "Kartu linimasa",
   "timelines.widget.listHint": "Linimasa semesta yang sudah diterbitkan muncul di sini.",
   "timelines.widget.cardHint": "Pilih linimasa untuk menampilkan kartunya.",
-  "timelines.widget.fullHint": "Pilih linimasa untuk menampilkan semua peristiwanya."
+  "timelines.widget.fullHint": "Pilih linimasa untuk menampilkan semua peristiwanya.",
+  "timelines.form.endWhen": "Tanggal/waktu berakhir (opsional)",
+  "timelines.form.isSpoiler": "Sembunyikan peristiwa ini sebagai spoiler",
+  "timelines.form.linkedSpoilerHint": "Tersembunyi sampai pembaca mencapai setiap bab di atas, atau menyelesaikan cerita tanpa bab yang ditentukan. Memerlukan setidaknya satu cerita.",
+  "timelines.invalidEndDate": "Tanggal berakhir tidak sesuai dengan tanggal linimasa atau lebih awal dari awal peristiwa.",
+  "timelines.spoilerNeedsStory": "Tambahkan cerita atau matikan perlindungan spoiler.",
+  "timelines.translate.endWhen": "Label tanggal berakhir (asli: {original})"
 }

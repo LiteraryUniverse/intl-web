@@ -75,5 +75,11 @@
   "timelines.widget.card": "ಟೈಮ್‌ಲೈನ್ ಕಾರ್ಡ್",
   "timelines.widget.listHint": "ಬ್ರಹ್ಮಾಂಡದ ಪ್ರಕಟಿತ ಟೈಮ್‌ಲೈನ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.",
   "timelines.widget.cardHint": "ಅದರ ಕಾರ್ಡ್ ತೋರಿಸಲು ಟೈಮ್‌ಲೈನ್ ಆಯ್ಕೆಮಾಡಿ.",
-  "timelines.widget.fullHint": "ಅದರ ಎಲ್ಲಾ ಘಟನೆಗಳನ್ನು ತೋರಿಸಲು ಟೈಮ್‌ಲೈನ್ ಆಯ್ಕೆಮಾಡಿ."
+  "timelines.widget.fullHint": "ಅದರ ಎಲ್ಲಾ ಘಟನೆಗಳನ್ನು ತೋರಿಸಲು ಟೈಮ್‌ಲೈನ್ ಆಯ್ಕೆಮಾಡಿ.",
+  "timelines.form.endWhen": "ಮುಕ್ತಾಯ ದಿನಾಂಕ/ಸಮಯ (ಐಚ್ಛಿಕ)",
+  "timelines.form.isSpoiler": "ಈ ಘಟನೆಯನ್ನು ಸ್ಪಾಯ್ಲರ್ ಆಗಿ ಮರೆಮಾಡಿ",
+  "timelines.form.linkedSpoilerHint": "ಓದುಗರು ಮೇಲಿನ ಪ್ರತಿಯೊಂದು ಅಧ್ಯಾಯವನ್ನು ತಲುಪುವವರೆಗೆ, ಅಥವಾ ಅಧ್ಯಾಯ ನಿಗದಿಪಡಿಸದ ಕಥೆಯನ್ನು ಮುಗಿಸುವವರೆಗೆ ಮರೆಯಾಗಿರುತ್ತದೆ. ಕನಿಷ್ಠ ಒಂದು ಕಥೆ ಬೇಕು.",
+  "timelines.invalidEndDate": "ಮುಕ್ತಾಯ ದಿನಾಂಕ ಟೈಮ್‌ಲೈನ್‌ನ ದಿನಾಂಕಗಳಿಗೆ ಹೊಂದುವುದಿಲ್ಲ ಅಥವಾ ಆರಂಭಕ್ಕಿಂತ ಮೊದಲಿದೆ.",
+  "timelines.spoilerNeedsStory": "ಒಂದು ಕಥೆಯನ್ನು ಸೇರಿಸಿ ಅಥವಾ ಸ್ಪಾಯ್ಲರ್ ರಕ್ಷಣೆಯನ್ನು ಆಫ್ ಮಾಡಿ.",
+  "timelines.translate.endWhen": "ಮುಕ್ತಾಯ ದಿನಾಂಕದ ಲೇಬಲ್ (ಮೂಲ: {original})"
 }

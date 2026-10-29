@@ -75,5 +75,11 @@
   "timelines.widget.card": "Card ng timeline",
   "timelines.widget.listHint": "Dito lalabas ang mga nailathalang timeline ng uniberso.",
   "timelines.widget.cardHint": "Pumili ng timeline para ipakita ang card nito.",
-  "timelines.widget.fullHint": "Pumili ng timeline para ipakita ang lahat ng kaganapan nito."
+  "timelines.widget.fullHint": "Pumili ng timeline para ipakita ang lahat ng kaganapan nito.",
+  "timelines.form.endWhen": "Petsa/oras ng pagtatapos (opsyonal)",
+  "timelines.form.isSpoiler": "Itago ang pangyayaring ito bilang spoiler",
+  "timelines.form.linkedSpoilerHint": "Nakatago hanggang maabot ng mambabasa ang bawat kabanata sa itaas, o matapos ang kuwentong walang nakatakdang kabanata. Kailangan ng kahit isang kuwento.",
+  "timelines.invalidEndDate": "Hindi tugma ang petsa ng pagtatapos sa mga petsa ng timeline o nauuna ito sa simula.",
+  "timelines.spoilerNeedsStory": "Magdagdag ng kuwento o i-off ang proteksyon laban sa spoiler.",
+  "timelines.translate.endWhen": "Label ng petsa ng pagtatapos (orihinal: {original})"
 }

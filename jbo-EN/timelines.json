@@ -75,5 +75,11 @@
   "timelines.widget.card": "lo karda be lo temci linji",
   "timelines.widget.listHint": "ti se jarco lo temci linji be lo munje poi se gubni",
   "timelines.widget.cardHint": "ko cuxna lo temci linji te zu'e lo nu jarco lo karda be ri",
-  "timelines.widget.fullHint": "ko cuxna lo temci linji te zu'e lo nu jarco ro lo fasnu be ri"
+  "timelines.widget.fullHint": "ko cuxna lo temci linji te zu'e lo nu jarco ro lo fasnu be ri",
+  "timelines.form.endWhen": "End date/time (optional)",
+  "timelines.form.isSpoiler": "Hide this event as a spoiler",
+  "timelines.form.linkedSpoilerHint": "Hidden until the reader reaches every chapter above, or finishes a story with no chapter set. Needs at least one story.",
+  "timelines.invalidEndDate": "The end date doesn't fit the timeline's dates or comes before the start.",
+  "timelines.spoilerNeedsStory": "Add a story or turn off spoiler protection.",
+  "timelines.translate.endWhen": "End date label (original: {original})"
 }

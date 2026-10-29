@@ -75,5 +75,11 @@
   "timelines.widget.card": "Tarjeta de cronología",
   "timelines.widget.listHint": "Aquí aparecen las cronologías publicadas del universo.",
   "timelines.widget.cardHint": "Elija una cronología para mostrar su tarjeta.",
-  "timelines.widget.fullHint": "Elija una cronología para mostrar todos sus eventos."
+  "timelines.widget.fullHint": "Elija una cronología para mostrar todos sus eventos.",
+  "timelines.form.endWhen": "Fecha/hora de fin (opcional)",
+  "timelines.form.isSpoiler": "Ocultar este evento como spoiler",
+  "timelines.form.linkedSpoilerHint": "Oculto hasta que el lector llega a cada capítulo de arriba o termina una historia sin capítulo indicado. Requiere al menos una historia.",
+  "timelines.invalidEndDate": "La fecha de fin no encaja con las fechas de la cronología o es anterior al inicio.",
+  "timelines.spoilerNeedsStory": "Añade una historia o desactiva la protección contra spoilers.",
+  "timelines.translate.endWhen": "Etiqueta de fecha de fin (original: {original})"
 }

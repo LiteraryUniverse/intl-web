@@ -75,5 +75,11 @@
   "timelines.widget.card": "সময়রেখা কার্ড",
   "timelines.widget.listHint": "মহাবিশ্বের প্রকাশিত সময়রেখাগুলো এখানে দেখা যাবে।",
   "timelines.widget.cardHint": "কার্ড দেখাতে একটি সময়রেখা বেছে নিন।",
-  "timelines.widget.fullHint": "সব ঘটনা দেখাতে একটি সময়রেখা বেছে নিন।"
+  "timelines.widget.fullHint": "সব ঘটনা দেখাতে একটি সময়রেখা বেছে নিন।",
+  "timelines.form.endWhen": "শেষের তারিখ/সময় (ঐচ্ছিক)",
+  "timelines.form.isSpoiler": "এই ঘটনাটি স্পয়লার হিসেবে লুকান",
+  "timelines.form.linkedSpoilerHint": "পাঠক উপরের প্রতিটি অধ্যায়ে না পৌঁছানো পর্যন্ত, বা অধ্যায় নির্ধারিত নেই এমন গল্প শেষ না করা পর্যন্ত লুকানো থাকে। অন্তত একটি গল্প প্রয়োজন।",
+  "timelines.invalidEndDate": "শেষের তারিখটি সময়রেখার তারিখের সঙ্গে মেলে না বা শুরুর আগে পড়ে।",
+  "timelines.spoilerNeedsStory": "একটি গল্প যোগ করুন বা স্পয়লার সুরক্ষা বন্ধ করুন।",
+  "timelines.translate.endWhen": "শেষের তারিখের লেবেল (মূল: {original})"
 }

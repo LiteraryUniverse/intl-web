@@ -75,5 +75,11 @@
   "timelines.widget.card": "टाइमलाइन कार्ड",
   "timelines.widget.listHint": "ब्रह्मांड की प्रकाशित टाइमलाइनें यहाँ दिखाई देती हैं।",
   "timelines.widget.cardHint": "उसका कार्ड दिखाने के लिए एक टाइमलाइन चुनें।",
-  "timelines.widget.fullHint": "उसकी सभी घटनाएँ दिखाने के लिए एक टाइमलाइन चुनें।"
+  "timelines.widget.fullHint": "उसकी सभी घटनाएँ दिखाने के लिए एक टाइमलाइन चुनें।",
+  "timelines.form.endWhen": "समाप्ति तिथि/समय (वैकल्पिक)",
+  "timelines.form.isSpoiler": "इस घटना को स्पॉइलर के रूप में छिपाएँ",
+  "timelines.form.linkedSpoilerHint": "तब तक छिपा रहता है जब तक पाठक ऊपर के हर अध्याय तक न पहुँच जाए, या बिना तय अध्याय वाली कहानी पूरी न कर ले। कम से कम एक कहानी ज़रूरी है।",
+  "timelines.invalidEndDate": "समाप्ति तिथि टाइमलाइन की तिथियों से मेल नहीं खाती या शुरुआत से पहले है।",
+  "timelines.spoilerNeedsStory": "कोई कहानी जोड़ें या स्पॉइलर सुरक्षा बंद करें।",
+  "timelines.translate.endWhen": "समाप्ति तिथि लेबल (मूल: {original})"
 }

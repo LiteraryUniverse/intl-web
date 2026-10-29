@@ -75,5 +75,11 @@
   "timelines.widget.card": "కాలరేఖ కార్డు",
   "timelines.widget.listHint": "యూనివర్స్‌లో ప్రచురించిన కాలరేఖలు ఇక్కడ కనిపిస్తాయి.",
   "timelines.widget.cardHint": "దాని కార్డును చూపడానికి ఒక కాలరేఖను ఎంచుకోండి.",
-  "timelines.widget.fullHint": "దాని అన్ని సంఘటనలను చూపడానికి ఒక కాలరేఖను ఎంచుకోండి."
+  "timelines.widget.fullHint": "దాని అన్ని సంఘటనలను చూపడానికి ఒక కాలరేఖను ఎంచుకోండి.",
+  "timelines.form.endWhen": "ముగింపు తేదీ/సమయం (ఐచ్ఛికం)",
+  "timelines.form.isSpoiler": "ఈ ఘటనను స్పాయిలర్‌గా దాచండి",
+  "timelines.form.linkedSpoilerHint": "పాఠకుడు పైన ఉన్న ప్రతి అధ్యాయానికి చేరే వరకు, లేదా అధ్యాయం నిర్ణయించని కథను పూర్తి చేసే వరకు దాచబడుతుంది. కనీసం ఒక కథ అవసరం.",
+  "timelines.invalidEndDate": "ముగింపు తేదీ కాలరేఖ తేదీలకు సరిపోదు లేదా ప్రారంభానికి ముందు ఉంది.",
+  "timelines.spoilerNeedsStory": "ఒక కథను జోడించండి లేదా స్పాయిలర్ రక్షణను ఆపివేయండి.",
+  "timelines.translate.endWhen": "ముగింపు తేదీ లేబుల్ (మూలం: {original})"
 }

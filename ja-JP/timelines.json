@@ -75,5 +75,11 @@
   "timelines.widget.card": "タイムラインカード",
   "timelines.widget.listHint": "この宇宙の公開済みタイムラインがここに表示されます。",
   "timelines.widget.cardHint": "タイムラインを選択すると、そのカードが表示されます。",
-  "timelines.widget.fullHint": "タイムラインを選択すると、そのすべての出来事が表示されます。"
+  "timelines.widget.fullHint": "タイムラインを選択すると、そのすべての出来事が表示されます。",
+  "timelines.form.endWhen": "終了日時（任意）",
+  "timelines.form.isSpoiler": "この出来事をネタバレとして隠す",
+  "timelines.form.linkedSpoilerHint": "読者が上のすべての章に到達するか、章を指定していない物語を読み終えるまで隠されます。物語が1つ以上必要です。",
+  "timelines.invalidEndDate": "終了日がタイムラインの日付に合わないか、開始より前になっています。",
+  "timelines.spoilerNeedsStory": "物語を追加するか、ネタバレ保護をオフにしてください。",
+  "timelines.translate.endWhen": "終了日ラベル（原文: {original}）"
 }

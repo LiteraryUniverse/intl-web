@@ -75,5 +75,11 @@
   "timelines.widget.card": "Karta osi czasu",
   "timelines.widget.listHint": "Tutaj pojawiają się opublikowane osie czasu uniwersum.",
   "timelines.widget.cardHint": "Wybierz oś czasu, aby wyświetlić jej kartę.",
-  "timelines.widget.fullHint": "Wybierz oś czasu, aby wyświetlić wszystkie jej wydarzenia."
+  "timelines.widget.fullHint": "Wybierz oś czasu, aby wyświetlić wszystkie jej wydarzenia.",
+  "timelines.form.endWhen": "Data/godzina zakończenia (opcjonalnie)",
+  "timelines.form.isSpoiler": "Ukryj to wydarzenie jako spoiler",
+  "timelines.form.linkedSpoilerHint": "Ukryte, dopóki czytelnik nie dotrze do każdego rozdziału powyżej lub nie skończy opowieści bez wskazanego rozdziału. Wymaga co najmniej jednej opowieści.",
+  "timelines.invalidEndDate": "Data zakończenia nie pasuje do dat tej osi czasu lub jest wcześniejsza niż początek.",
+  "timelines.spoilerNeedsStory": "Dodaj opowieść lub wyłącz ochronę przed spoilerami.",
+  "timelines.translate.endWhen": "Etykieta daty zakończenia (oryginał: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "Aikajanakortti",
   "timelines.widget.listHint": "Universumin julkaistut aikajanat näkyvät tässä.",
   "timelines.widget.cardHint": "Valitse aikajana, niin sen kortti näytetään.",
-  "timelines.widget.fullHint": "Valitse aikajana, niin kaikki sen tapahtumat näytetään."
+  "timelines.widget.fullHint": "Valitse aikajana, niin kaikki sen tapahtumat näytetään.",
+  "timelines.form.endWhen": "Päättymispäivä/-aika (valinnainen)",
+  "timelines.form.isSpoiler": "Piilota tämä tapahtuma juonipaljastuksena",
+  "timelines.form.linkedSpoilerHint": "Piilossa, kunnes lukija saavuttaa jokaisen yllä olevan luvun tai lukee loppuun tarinan, jolle ei ole asetettu lukua. Vaatii vähintään yhden tarinan.",
+  "timelines.invalidEndDate": "Päättymispäivä ei sovi aikajanan päivämääriin tai on ennen alkua.",
+  "timelines.spoilerNeedsStory": "Lisää tarina tai poista juonipaljastussuoja käytöstä.",
+  "timelines.translate.endWhen": "Päättymispäivän nimike (alkuperäinen: {original})"
 }

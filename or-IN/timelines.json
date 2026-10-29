@@ -75,5 +75,11 @@
   "timelines.widget.card": "ସମୟରେଖା କାର୍ଡ",
   "timelines.widget.listHint": "ବିଶ୍ବର ପ୍ରକାଶିତ ସମୟରେଖାଗୁଡ଼ିକ ଏଠାରେ ଦେଖାଯିବ।",
   "timelines.widget.cardHint": "ଏହାର କାର୍ଡ ଦେଖାଇବାକୁ ଏକ ସମୟରେଖା ବାଛନ୍ତୁ।",
-  "timelines.widget.fullHint": "ଏହାର ସମସ୍ତ ଘଟଣା ଦେଖାଇବାକୁ ଏକ ସମୟରେଖା ବାଛନ୍ତୁ।"
+  "timelines.widget.fullHint": "ଏହାର ସମସ୍ତ ଘଟଣା ଦେଖାଇବାକୁ ଏକ ସମୟରେଖା ବାଛନ୍ତୁ।",
+  "timelines.form.endWhen": "ଶେଷ ତାରିଖ/ସମୟ (ଇଚ୍ଛାଧୀନ)",
+  "timelines.form.isSpoiler": "ଏହି ଘଟଣାକୁ ସ୍ପଏଲର ଭାବେ ଲୁଚାନ୍ତୁ",
+  "timelines.form.linkedSpoilerHint": "ପାଠକ ଉପରର ପ୍ରତ୍ୟେକ ଅଧ୍ୟାୟରେ ନ ପହଞ୍ଚିବା ପର୍ଯ୍ୟନ୍ତ, କିମ୍ବା ଅଧ୍ୟାୟ ସ୍ଥିର ହୋଇନଥିବା କାହାଣୀ ଶେଷ ନ କରିବା ପର୍ଯ୍ୟନ୍ତ ଲୁଚି ରହେ। ଅତି କମରେ ଗୋଟିଏ କାହାଣୀ ଆବଶ୍ୟକ।",
+  "timelines.invalidEndDate": "ଶେଷ ତାରିଖ ସମୟରେଖାର ତାରିଖ ସହ ମେଳ ଖାଉନାହିଁ କିମ୍ବା ଆରମ୍ଭ ପୂର୍ବରୁ ଅଛି।",
+  "timelines.spoilerNeedsStory": "ଗୋଟିଏ କାହାଣୀ ଯୋଡନ୍ତୁ କିମ୍ବା ସ୍ପଏଲର ସୁରକ୍ଷା ବନ୍ଦ କରନ୍ତୁ।",
+  "timelines.translate.endWhen": "ଶେଷ ତାରିଖ ଲେବଲ୍ (ମୂଳ: {original})"
 }

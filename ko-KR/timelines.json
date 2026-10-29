@@ -75,5 +75,11 @@
   "timelines.widget.card": "타임라인 카드",
   "timelines.widget.listHint": "이 우주에 게시된 타임라인이 여기에 표시됩니다.",
   "timelines.widget.cardHint": "타임라인을 선택하면 카드가 표시됩니다.",
-  "timelines.widget.fullHint": "타임라인을 선택하면 모든 사건이 표시됩니다."
+  "timelines.widget.fullHint": "타임라인을 선택하면 모든 사건이 표시됩니다.",
+  "timelines.form.endWhen": "종료 날짜/시간 (선택)",
+  "timelines.form.isSpoiler": "이 사건을 스포일러로 숨기기",
+  "timelines.form.linkedSpoilerHint": "독자가 위의 모든 챕터에 도달하거나, 챕터를 지정하지 않은 스토리를 끝까지 읽을 때까지 숨겨집니다. 스토리가 하나 이상 필요합니다.",
+  "timelines.invalidEndDate": "종료 날짜가 타임라인의 날짜에 맞지 않거나 시작보다 앞섭니다.",
+  "timelines.spoilerNeedsStory": "스토리를 추가하거나 스포일러 보호를 끄세요.",
+  "timelines.translate.endWhen": "종료 날짜 라벨 (원문: {original})"
 }

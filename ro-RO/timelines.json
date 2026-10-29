@@ -75,5 +75,11 @@
   "timelines.widget.card": "Cardul liniei de timp",
   "timelines.widget.listHint": "Aici apar liniile de timp publicate ale universului.",
   "timelines.widget.cardHint": "Alege o linie de timp pentru a-i afișa cardul.",
-  "timelines.widget.fullHint": "Alege o linie de timp pentru a-i afișa toate evenimentele."
+  "timelines.widget.fullHint": "Alege o linie de timp pentru a-i afișa toate evenimentele.",
+  "timelines.form.endWhen": "Data/ora de sfârșit (opțional)",
+  "timelines.form.isSpoiler": "Ascunde acest eveniment ca spoiler",
+  "timelines.form.linkedSpoilerHint": "Ascuns până când cititorul ajunge la fiecare capitol de mai sus sau termină o poveste fără capitol stabilit. Necesită cel puțin o poveste.",
+  "timelines.invalidEndDate": "Data de sfârșit nu se potrivește cu datele liniei de timp sau este înainte de început.",
+  "timelines.spoilerNeedsStory": "Adaugă o poveste sau dezactivează protecția împotriva spoilerelor.",
+  "timelines.translate.endWhen": "Eticheta datei de sfârșit (original: {original})"
 }

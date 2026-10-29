@@ -75,5 +75,11 @@
   "timelines.widget.card": "Ajajoone kaart",
   "timelines.widget.listHint": "Siin kuvatakse universumi avaldatud ajajooned.",
   "timelines.widget.cardHint": "Valige ajajoon, et kuvada selle kaart.",
-  "timelines.widget.fullHint": "Valige ajajoon, et kuvada kõik selle sündmused."
+  "timelines.widget.fullHint": "Valige ajajoon, et kuvada kõik selle sündmused.",
+  "timelines.form.endWhen": "Lõpukuupäev/-aeg (valikuline)",
+  "timelines.form.isSpoiler": "Peida see sündmus spoilerina",
+  "timelines.form.linkedSpoilerHint": "Peidetud, kuni lugeja jõuab iga ülaltoodud peatükini või loeb läbi loo, millel peatükki pole määratud. Vajab vähemalt üht lugu.",
+  "timelines.invalidEndDate": "Lõpukuupäev ei sobi ajajoone kuupäevadega või on enne algust.",
+  "timelines.spoilerNeedsStory": "Lisa lugu või lülita spoilerikaitse välja.",
+  "timelines.translate.endWhen": "Lõpukuupäeva silt (originaal: {original})"
 }

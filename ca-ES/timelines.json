@@ -75,5 +75,11 @@
   "timelines.widget.card": "Targeta de la línia temporal",
   "timelines.widget.listHint": "Aquí apareixen les línies temporals publicades de l'univers.",
   "timelines.widget.cardHint": "Tria una línia temporal per mostrar-ne la targeta.",
-  "timelines.widget.fullHint": "Tria una línia temporal per mostrar-ne tots els esdeveniments."
+  "timelines.widget.fullHint": "Tria una línia temporal per mostrar-ne tots els esdeveniments.",
+  "timelines.form.endWhen": "Data/hora de final (opcional)",
+  "timelines.form.isSpoiler": "Amaga aquest esdeveniment com a spoiler",
+  "timelines.form.linkedSpoilerHint": "Ocult fins que el lector arriba a cada capítol de dalt, o acaba una història sense capítol indicat. Cal almenys una història.",
+  "timelines.invalidEndDate": "La data de final no encaixa amb les dates de la línia temporal o és anterior a l'inici.",
+  "timelines.spoilerNeedsStory": "Afegeix una història o desactiva la protecció contra spoilers.",
+  "timelines.translate.endWhen": "Etiqueta de data de final (original: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "Tempolinia karto",
   "timelines.widget.listHint": "Ĉi tie aperas la publikigitaj tempolinioj de la universo.",
   "timelines.widget.cardHint": "Elektu tempolinion por montri ĝian karton.",
-  "timelines.widget.fullHint": "Elektu tempolinion por montri ĉiujn ĝiajn eventojn."
+  "timelines.widget.fullHint": "Elektu tempolinion por montri ĉiujn ĝiajn eventojn.",
+  "timelines.form.endWhen": "Fina dato/horo (nedeviga)",
+  "timelines.form.isSpoiler": "Kaŝi ĉi tiun eventon kiel intrigmalkaŝon",
+  "timelines.form.linkedSpoilerHint": "Kaŝita ĝis la leganto atingas ĉiun ĉapitron supre, aŭ finlegas rakonton sen difinita ĉapitro. Bezonas almenaŭ unu rakonton.",
+  "timelines.invalidEndDate": "La fina dato ne kongruas kun la datoj de la tempolinio aŭ estas antaŭ la komenco.",
+  "timelines.spoilerNeedsStory": "Aldonu rakonton aŭ malŝaltu la protekton kontraŭ intrigmalkaŝoj.",
+  "timelines.translate.endWhen": "Etikedo de fina dato (originalo: {original})"
 }

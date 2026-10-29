@@ -75,5 +75,11 @@
   "timelines.widget.card": "Kartu garis waktu",
   "timelines.widget.listHint": "Garis waktu jagat sané sampun kawedar jagi kacingak iriki.",
   "timelines.widget.cardHint": "Pilih garis waktu anggén nyihnayang kartunipun.",
-  "timelines.widget.fullHint": "Pilih garis waktu anggén nyihnayang sami peristiwanipun."
+  "timelines.widget.fullHint": "Pilih garis waktu anggén nyihnayang sami peristiwanipun.",
+  "timelines.form.endWhen": "Tanggal/galah pamuput (pilihan)",
+  "timelines.form.isSpoiler": "Engkebang peristiwa puniki pinaka spoiler",
+  "timelines.form.linkedSpoilerHint": "Kaengkebang kantos pamaca neked ring sami bab ring baduur, utawi puput ngwacén satua sané nénten madaging bab. Mabuat kirang langkung asiki satua.",
+  "timelines.invalidEndDate": "Tanggal pamuput nénten manut ring tanggal garis waktu utawi rauh sadurung pamungkah.",
+  "timelines.spoilerNeedsStory": "Tambahang satua utawi matiang pangraksa spoiler.",
+  "timelines.translate.endWhen": "Label tanggal pamuput (asli: {original})"
 }

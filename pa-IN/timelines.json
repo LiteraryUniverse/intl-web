@@ -75,5 +75,11 @@
   "timelines.widget.card": "ਟਾਈਮਲਾਈਨ ਕਾਰਡ",
   "timelines.widget.listHint": "ਬ੍ਰਹਮੰਡ ਦੀਆਂ ਪ੍ਰਕਾਸ਼ਿਤ ਟਾਈਮਲਾਈਨਾਂ ਇੱਥੇ ਦਿਖਾਈ ਦਿੰਦੀਆਂ ਹਨ।",
   "timelines.widget.cardHint": "ਇਸਦਾ ਕਾਰਡ ਦਿਖਾਉਣ ਲਈ ਇੱਕ ਟਾਈਮਲਾਈਨ ਚੁਣੋ।",
-  "timelines.widget.fullHint": "ਇਸਦੀਆਂ ਸਾਰੀਆਂ ਘਟਨਾਵਾਂ ਦਿਖਾਉਣ ਲਈ ਇੱਕ ਟਾਈਮਲਾਈਨ ਚੁਣੋ।"
+  "timelines.widget.fullHint": "ਇਸਦੀਆਂ ਸਾਰੀਆਂ ਘਟਨਾਵਾਂ ਦਿਖਾਉਣ ਲਈ ਇੱਕ ਟਾਈਮਲਾਈਨ ਚੁਣੋ।",
+  "timelines.form.endWhen": "ਅੰਤਮ ਤਾਰੀਖ/ਸਮਾਂ (ਵਿਕਲਪਿਕ)",
+  "timelines.form.isSpoiler": "ਇਸ ਘਟਨਾ ਨੂੰ ਸਪੌਇਲਰ ਵਜੋਂ ਲੁਕਾਓ",
+  "timelines.form.linkedSpoilerHint": "ਜਦੋਂ ਤੱਕ ਪਾਠਕ ਉੱਪਰਲੇ ਹਰ ਅਧਿਆਇ ਤੱਕ ਨਹੀਂ ਪਹੁੰਚਦਾ, ਜਾਂ ਬਿਨਾਂ ਤੈਅ ਅਧਿਆਇ ਵਾਲੀ ਕਹਾਣੀ ਪੂਰੀ ਨਹੀਂ ਕਰਦਾ, ਲੁਕਿਆ ਰਹਿੰਦਾ ਹੈ। ਘੱਟੋ-ਘੱਟ ਇੱਕ ਕਹਾਣੀ ਲੋੜੀਂਦੀ ਹੈ।",
+  "timelines.invalidEndDate": "ਅੰਤਮ ਤਾਰੀਖ ਟਾਈਮਲਾਈਨ ਦੀਆਂ ਤਾਰੀਖਾਂ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ ਜਾਂ ਸ਼ੁਰੂਆਤ ਤੋਂ ਪਹਿਲਾਂ ਹੈ।",
+  "timelines.spoilerNeedsStory": "ਇੱਕ ਕਹਾਣੀ ਸ਼ਾਮਲ ਕਰੋ ਜਾਂ ਸਪੌਇਲਰ ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ।",
+  "timelines.translate.endWhen": "ਅੰਤਮ ਤਾਰੀਖ ਲੇਬਲ (ਮੂਲ: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "Idővonal-kártya",
   "timelines.widget.listHint": "Itt jelennek meg az univerzum közzétett idővonalai.",
   "timelines.widget.cardHint": "Válassz idővonalat a kártyája megjelenítéséhez.",
-  "timelines.widget.fullHint": "Válassz idővonalat az összes eseménye megjelenítéséhez."
+  "timelines.widget.fullHint": "Válassz idővonalat az összes eseménye megjelenítéséhez.",
+  "timelines.form.endWhen": "Befejezés dátuma/ideje (nem kötelező)",
+  "timelines.form.isSpoiler": "Az esemény elrejtése spoilerként",
+  "timelines.form.linkedSpoilerHint": "Rejtve marad, amíg az olvasó el nem ér minden fenti fejezethez, vagy be nem fejez egy fejezet megadása nélküli történetet. Legalább egy történet szükséges.",
+  "timelines.invalidEndDate": "A befejezés dátuma nem illik az idővonal dátumaihoz, vagy a kezdés előtt van.",
+  "timelines.spoilerNeedsStory": "Adj hozzá egy történetet, vagy kapcsold ki a spoilervédelmet.",
+  "timelines.translate.endWhen": "Befejezés dátumcímkéje (eredeti: {original})"
 }

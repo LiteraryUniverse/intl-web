@@ -75,5 +75,11 @@
   "timelines.widget.card": "टाइमलाइन कार्ड",
   "timelines.widget.listHint": "ब्रह्मांडाच्या प्रकाशित टाइमलाइन येथे दिसतात.",
   "timelines.widget.cardHint": "तिचे कार्ड दाखवण्यासाठी टाइमलाइन निवडा.",
-  "timelines.widget.fullHint": "तिच्या सर्व घटना दाखवण्यासाठी टाइमलाइन निवडा."
+  "timelines.widget.fullHint": "तिच्या सर्व घटना दाखवण्यासाठी टाइमलाइन निवडा.",
+  "timelines.form.endWhen": "समाप्तीची तारीख/वेळ (ऐच्छिक)",
+  "timelines.form.isSpoiler": "ही घटना स्पॉयलर म्हणून लपवा",
+  "timelines.form.linkedSpoilerHint": "वाचक वरील प्रत्येक प्रकरणापर्यंत पोहोचेपर्यंत, किंवा प्रकरण न ठरवलेली कथा पूर्ण करेपर्यंत लपवलेले राहते. किमान एक कथा आवश्यक आहे.",
+  "timelines.invalidEndDate": "समाप्तीची तारीख टाइमलाइनच्या तारखांशी जुळत नाही किंवा सुरुवातीच्या आधी आहे.",
+  "timelines.spoilerNeedsStory": "एक कथा जोडा किंवा स्पॉयलर संरक्षण बंद करा.",
+  "timelines.translate.endWhen": "समाप्तीच्या तारखेचे लेबल (मूळ: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "Karta časovej osi",
   "timelines.widget.listHint": "Tu sa zobrazia publikované časové osi vesmíru.",
   "timelines.widget.cardHint": "Vyberte časovú os a zobrazí sa jej karta.",
-  "timelines.widget.fullHint": "Vyberte časovú os a zobrazia sa všetky jej udalosti."
+  "timelines.widget.fullHint": "Vyberte časovú os a zobrazia sa všetky jej udalosti.",
+  "timelines.form.endWhen": "Dátum/čas konca (nepovinné)",
+  "timelines.form.isSpoiler": "Skryť túto udalosť ako spoiler",
+  "timelines.form.linkedSpoilerHint": "Skryté, kým čitateľ nedôjde ku každej kapitole vyššie alebo nedočíta príbeh bez zadanej kapitoly. Vyžaduje aspoň jeden príbeh.",
+  "timelines.invalidEndDate": "Dátum konca nezodpovedá dátumom časovej osi alebo je pred začiatkom.",
+  "timelines.spoilerNeedsStory": "Pridajte príbeh alebo vypnite ochranu pred spoilermi.",
+  "timelines.translate.endWhen": "Označenie dátumu konca (originál: {original})"
 }

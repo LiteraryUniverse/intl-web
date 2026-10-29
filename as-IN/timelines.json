@@ -75,5 +75,11 @@
   "timelines.widget.card": "সময়ৰেখাৰ কাৰ্ড",
   "timelines.widget.listHint": "ব্ৰহ্মাণ্ডৰ প্ৰকাশিত সময়ৰেখাসমূহ ইয়াত দেখা যাব।",
   "timelines.widget.cardHint": "কাৰ্ড দেখুৱাবলৈ এডাল সময়ৰেখা বাছক।",
-  "timelines.widget.fullHint": "ইয়াৰ সকলো ঘটনা দেখুৱাবলৈ এডাল সময়ৰেখা বাছক।"
+  "timelines.widget.fullHint": "ইয়াৰ সকলো ঘটনা দেখুৱাবলৈ এডাল সময়ৰেখা বাছক।",
+  "timelines.form.endWhen": "শেষৰ তাৰিখ/সময় (ঐচ্ছিক)",
+  "timelines.form.isSpoiler": "এই ঘটনাটো স্পইলাৰ হিচাপে লুকুৱাওক",
+  "timelines.form.linkedSpoilerHint": "পাঠকে ওপৰৰ প্ৰতিটো অধ্যায় নপঢ়ালৈকে, বা অধ্যায় নিৰ্ধাৰণ নকৰা গল্প শেষ নকৰালৈকে লুকুৱাই ৰখা হয়। অন্ততঃ এটা গল্পৰ প্ৰয়োজন।",
+  "timelines.invalidEndDate": "শেষৰ তাৰিখ সময়ৰেখাৰ তাৰিখৰ সৈতে নিমিলে বা আৰম্ভণিৰ আগত আহে।",
+  "timelines.spoilerNeedsStory": "এটা গল্প যোগ কৰক বা স্পইলাৰ সুৰক্ষা বন্ধ কৰক।",
+  "timelines.translate.endWhen": "শেষৰ তাৰিখৰ লেবেল (মূল: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "Tijdlijnkaart",
   "timelines.widget.listHint": "Hier verschijnen de gepubliceerde tijdlijnen van het universum.",
   "timelines.widget.cardHint": "Kies een tijdlijn om de kaart ervan te tonen.",
-  "timelines.widget.fullHint": "Kies een tijdlijn om alle gebeurtenissen ervan te tonen."
+  "timelines.widget.fullHint": "Kies een tijdlijn om alle gebeurtenissen ervan te tonen.",
+  "timelines.form.endWhen": "Einddatum/-tijd (optioneel)",
+  "timelines.form.isSpoiler": "Deze gebeurtenis als spoiler verbergen",
+  "timelines.form.linkedSpoilerHint": "Verborgen tot de lezer elk hoofdstuk hierboven bereikt, of een verhaal zonder opgegeven hoofdstuk uitleest. Vereist minstens één verhaal.",
+  "timelines.invalidEndDate": "De einddatum past niet bij de datums van de tijdlijn of ligt vóór het begin.",
+  "timelines.spoilerNeedsStory": "Voeg een verhaal toe of zet de spoilerbescherming uit.",
+  "timelines.translate.endWhen": "Einddatumlabel (origineel: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "بطاقة الجدول الزمني",
   "timelines.widget.listHint": "تظهر هنا الجداول الزمنية المنشورة لهذا الكون.",
   "timelines.widget.cardHint": "اختر جدولًا زمنيًا لعرض بطاقته.",
-  "timelines.widget.fullHint": "اختر جدولًا زمنيًا لعرض جميع أحداثه."
+  "timelines.widget.fullHint": "اختر جدولًا زمنيًا لعرض جميع أحداثه.",
+  "timelines.form.endWhen": "تاريخ/وقت النهاية (اختياري)",
+  "timelines.form.isSpoiler": "إخفاء هذا الحدث كحرق للأحداث",
+  "timelines.form.linkedSpoilerHint": "يبقى مخفيًا حتى يصل القارئ إلى كل فصل أعلاه، أو ينهي قصة لم يُحدَّد لها فصل. يتطلب قصة واحدة على الأقل.",
+  "timelines.invalidEndDate": "تاريخ النهاية لا يتوافق مع تواريخ الجدول الزمني أو يسبق البداية.",
+  "timelines.spoilerNeedsStory": "أضف قصة أو أوقف الحماية من حرق الأحداث.",
+  "timelines.translate.endWhen": "تسمية تاريخ النهاية (الأصل: {original})"
 }

@@ -75,5 +75,11 @@
   "timelines.widget.card": "Картка часової шкали",
   "timelines.widget.listHint": "Тут з’являються опубліковані часові шкали всесвіту.",
   "timelines.widget.cardHint": "Виберіть часову шкалу, щоб показати її картку.",
-  "timelines.widget.fullHint": "Виберіть часову шкалу, щоб показати всі її події."
+  "timelines.widget.fullHint": "Виберіть часову шкалу, щоб показати всі її події.",
+  "timelines.form.endWhen": "Дата/час завершення (необов'язково)",
+  "timelines.form.isSpoiler": "Приховати цю подію як спойлер",
+  "timelines.form.linkedSpoilerHint": "Приховано, доки читач не дійде до кожного розділу вище або не дочитає історію без вказаного розділу. Потрібна принаймні одна історія.",
+  "timelines.invalidEndDate": "Дата завершення не відповідає датам часової шкали або раніша за початок.",
+  "timelines.spoilerNeedsStory": "Додайте історію або вимкніть захист від спойлерів.",
+  "timelines.translate.endWhen": "Мітка дати завершення (оригінал: {original})"
 }

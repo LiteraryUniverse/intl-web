@@ -75,5 +75,11 @@
   "timelines.widget.card": "Tydlynkaart",
   "timelines.widget.listHint": "Die heelal se gepubliseerde tydlyne verskyn hier.",
   "timelines.widget.cardHint": "Kies 'n tydlyn om sy kaart te wys.",
-  "timelines.widget.fullHint": "Kies 'n tydlyn om al sy gebeure te wys."
+  "timelines.widget.fullHint": "Kies 'n tydlyn om al sy gebeure te wys.",
+  "timelines.form.endWhen": "Einddatum/-tyd (opsioneel)",
+  "timelines.form.isSpoiler": "Versteek hierdie gebeurtenis as 'n spoiler",
+  "timelines.form.linkedSpoilerHint": "Versteek totdat die leser elke hoofstuk hierbo bereik, of 'n storie sonder 'n gekose hoofstuk klaar lees. Benodig ten minste een storie.",
+  "timelines.invalidEndDate": "Die einddatum pas nie by die tydlyn se datums nie of kom voor die begin.",
+  "timelines.spoilerNeedsStory": "Voeg 'n storie by of skakel spoilerbeskerming af.",
+  "timelines.translate.endWhen": "Einddatumetiket (oorspronklik: {original})"
 }

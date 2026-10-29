@@ -75,5 +75,11 @@
   "timelines.widget.card": "Карточка ленты",
   "timelines.widget.listHint": "Здесь появляются опубликованные ленты вселенной.",
   "timelines.widget.cardHint": "Выберите ленту, чтобы показать её карточку.",
-  "timelines.widget.fullHint": "Выберите ленту, чтобы показать все её события."
+  "timelines.widget.fullHint": "Выберите ленту, чтобы показать все её события.",
+  "timelines.form.endWhen": "Дата/время окончания (необязательно)",
+  "timelines.form.isSpoiler": "Скрыть это событие как спойлер",
+  "timelines.form.linkedSpoilerHint": "Скрыто, пока читатель не дойдёт до каждой главы выше или не дочитает историю без указанной главы. Нужна хотя бы одна история.",
+  "timelines.invalidEndDate": "Дата окончания не подходит к датам ленты или раньше начала.",
+  "timelines.spoilerNeedsStory": "Добавьте историю или отключите защиту от спойлеров.",
+  "timelines.translate.endWhen": "Метка даты окончания (оригинал: {original})"
 }
