@@ -6355,6 +6355,7 @@
   "timelines.widget.listHint": "Published timelines of the universe appear here.",
   "timelines.widget.cardHint": "Choose a timeline to show its card.",
   "timelines.widget.fullHint": "Choose a timeline to show all its events.",
+  "timelines.form.linkedSpoilerHint": "Hidden until the reader reaches every chapter above, or finishes a story with no chapter set. Needs at least one story.",
   "universe.authors.title.meta": "{title} authors",
   "universe.fanfiction.see": "All Fan Fiction for {universe}",
   "universe.fanfiction.desc": "Fan Fiction for {universe}",
