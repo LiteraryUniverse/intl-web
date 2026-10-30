@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "লেখাৰ দিনলিপি পঢ়া",
   "settings.apiKeys.scope.diary.read.desc": "আপোনাৰ লেখাৰ দিনলিপিৰ লিখনি আৰু একেৰাহে লিখা দিনৰ শৃংখলা চাবলৈ প্ৰৱেশাধিকাৰ",
   "settings.apiKeys.scope.author.manage": "আন লেখকৰ হৈ কাম কৰা",
-  "settings.apiKeys.scope.author.manage.desc": "কেৱল প্ৰশাসকৰ বাবে। এই কীয়ে ইয়াৰ আন অনুমতিসমূহ যিকোনো লেখকৰ গল্প আৰু বিশ্বত ব্যৱহাৰ কৰিব পাৰে, উদাহৰণস্বৰূপে আপুনি পৰিচালনা কৰা লেখকসকলৰ বাবে কভাৰ আপলোড কৰিবলৈ"
+  "settings.apiKeys.scope.author.manage.desc": "কেৱল প্ৰশাসকৰ বাবে। এই কীয়ে ইয়াৰ আন অনুমতিসমূহ যিকোনো লেখকৰ গল্প আৰু বিশ্বত ব্যৱহাৰ কৰিব পাৰে, উদাহৰণস্বৰূপে আপুনি পৰিচালনা কৰা লেখকসকলৰ বাবে কভাৰ আপলোড কৰিবলৈ",
+  "settings.apiKeys.connectedApp": "Connected app",
+  "settings.oauth.title": "Allow {client} to access your Literary Universe account?",
+  "settings.oauth.permissions": "The app will be able to:",
+  "settings.oauth.allow": "Allow",
+  "settings.oauth.deny": "Deny",
+  "settings.oauth.revokeHint": "You can revoke this at any time in Settings → API keys.",
+  "settings.oauth.error.unknownClient": "This app is not registered with Literary Universe. Go back to the app and start the connection again.",
+  "settings.oauth.error.invalidRequest": "The app sent a request Literary Universe cannot complete. {description}"
 }

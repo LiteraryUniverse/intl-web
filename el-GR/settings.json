@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Ανάγνωση ημερολογίου γραφής",
   "settings.apiKeys.scope.diary.read.desc": "Πρόσβαση στις καταχωρίσεις του ημερολογίου γραφής σας και στα σερί γραφής",
   "settings.apiKeys.scope.author.manage": "Ενέργεια για λογαριασμό άλλων συγγραφέων",
-  "settings.apiKeys.scope.author.manage.desc": "Μόνο για διαχειριστές. Επιτρέπει σε αυτό το κλειδί να χρησιμοποιεί τα υπόλοιπα δικαιώματά του στις ιστορίες και τα σύμπαντα οποιουδήποτε συγγραφέα, για παράδειγμα για να ανεβάζετε εξώφυλλα για συγγραφείς που διαχειρίζεστε"
+  "settings.apiKeys.scope.author.manage.desc": "Μόνο για διαχειριστές. Επιτρέπει σε αυτό το κλειδί να χρησιμοποιεί τα υπόλοιπα δικαιώματά του στις ιστορίες και τα σύμπαντα οποιουδήποτε συγγραφέα, για παράδειγμα για να ανεβάζετε εξώφυλλα για συγγραφείς που διαχειρίζεστε",
+  "settings.apiKeys.connectedApp": "Συνδεδεμένη εφαρμογή",
+  "settings.oauth.title": "Να επιτραπεί στην εφαρμογή {client} η πρόσβαση στον λογαριασμό σας στο Literary Universe;",
+  "settings.oauth.permissions": "Η εφαρμογή θα μπορεί να:",
+  "settings.oauth.allow": "Επιτρέπω",
+  "settings.oauth.deny": "Απόρριψη",
+  "settings.oauth.revokeHint": "Μπορείτε να το ανακαλέσετε οποιαδήποτε στιγμή από τις Ρυθμίσεις → Κλειδιά API.",
+  "settings.oauth.error.unknownClient": "Αυτή η εφαρμογή δεν είναι καταχωρισμένη στο Literary Universe. Επιστρέψτε στην εφαρμογή και ξεκινήστε ξανά τη σύνδεση.",
+  "settings.oauth.error.invalidRequest": "Η εφαρμογή έστειλε ένα αίτημα που το Literary Universe δεν μπορεί να ολοκληρώσει. {description}"
 }

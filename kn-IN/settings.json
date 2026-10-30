@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "ಬರವಣಿಗೆಯ ದಿನಚರಿಯನ್ನು ಓದಿ",
   "settings.apiKeys.scope.diary.read.desc": "ನಿಮ್ಮ ಬರವಣಿಗೆಯ ದಿನಚರಿಯ ನಮೂದುಗಳು ಮತ್ತು ಸತತವಾಗಿ ಬರೆದ ದಿನಗಳ ಸರಣಿಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
   "settings.apiKeys.scope.author.manage": "ಇತರ ಲೇಖಕರ ಪರವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿ",
-  "settings.apiKeys.scope.author.manage.desc": "ನಿರ್ವಾಹಕರಿಗೆ ಮಾತ್ರ. ಈ ಕೀ ತನ್ನ ಇತರ ಅನುಮತಿಗಳನ್ನು ಯಾವುದೇ ಲೇಖಕರ ಕಥೆಗಳು ಮತ್ತು ವಿಶ್ವಗಳ ಮೇಲೆ ಬಳಸಲು ಅನುಮತಿಸುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ನೀವು ನಿರ್ವಹಿಸುವ ಲೇಖಕರಿಗಾಗಿ ಕವರ್‌ಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು"
+  "settings.apiKeys.scope.author.manage.desc": "ನಿರ್ವಾಹಕರಿಗೆ ಮಾತ್ರ. ಈ ಕೀ ತನ್ನ ಇತರ ಅನುಮತಿಗಳನ್ನು ಯಾವುದೇ ಲೇಖಕರ ಕಥೆಗಳು ಮತ್ತು ವಿಶ್ವಗಳ ಮೇಲೆ ಬಳಸಲು ಅನುಮತಿಸುತ್ತದೆ, ಉದಾಹರಣೆಗೆ ನೀವು ನಿರ್ವಹಿಸುವ ಲೇಖಕರಿಗಾಗಿ ಕವರ್‌ಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು",
+  "settings.apiKeys.connectedApp": "Connected app",
+  "settings.oauth.title": "Allow {client} to access your Literary Universe account?",
+  "settings.oauth.permissions": "The app will be able to:",
+  "settings.oauth.allow": "Allow",
+  "settings.oauth.deny": "Deny",
+  "settings.oauth.revokeHint": "You can revoke this at any time in Settings → API keys.",
+  "settings.oauth.error.unknownClient": "This app is not registered with Literary Universe. Go back to the app and start the connection again.",
+  "settings.oauth.error.invalidRequest": "The app sent a request Literary Universe cannot complete. {description}"
 }

@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "రచనా డైరీని చదవండి",
   "settings.apiKeys.scope.diary.read.desc": "మీ రచనా డైరీలోని నమోదులు మరియు వరుసగా రాసిన రోజుల శ్రేణులను చూడండి",
   "settings.apiKeys.scope.author.manage": "ఇతర రచయితల తరఫున పనిచేయండి",
-  "settings.apiKeys.scope.author.manage.desc": "నిర్వాహకులకు మాత్రమే. ఈ కీ తన ఇతర అనుమతులను ఏ రచయిత కథలు, యూనివర్స్‌లపైనైనా ఉపయోగించడానికి అనుమతిస్తుంది, ఉదాహరణకు మీరు నిర్వహించే రచయితల కోసం కవర్‌లను అప్‌లోడ్ చేయడానికి"
+  "settings.apiKeys.scope.author.manage.desc": "నిర్వాహకులకు మాత్రమే. ఈ కీ తన ఇతర అనుమతులను ఏ రచయిత కథలు, యూనివర్స్‌లపైనైనా ఉపయోగించడానికి అనుమతిస్తుంది, ఉదాహరణకు మీరు నిర్వహించే రచయితల కోసం కవర్‌లను అప్‌లోడ్ చేయడానికి",
+  "settings.apiKeys.connectedApp": "కనెక్ట్ అయిన యాప్",
+  "settings.oauth.title": "{client} మీ Literary Universe ఖాతాను యాక్సెస్ చేయడానికి అనుమతించాలా?",
+  "settings.oauth.permissions": "యాప్ ఇవి చేయగలదు:",
+  "settings.oauth.allow": "అనుమతించు",
+  "settings.oauth.deny": "తిరస్కరించు",
+  "settings.oauth.revokeHint": "మీరు దీన్ని ఎప్పుడైనా సెట్టింగులు → API Keys లో రద్దు చేయవచ్చు.",
+  "settings.oauth.error.unknownClient": "ఈ యాప్ Literary Universe లో నమోదు కాలేదు. యాప్‌కు తిరిగి వెళ్లి కనెక్షన్‌ను మళ్లీ ప్రారంభించండి.",
+  "settings.oauth.error.invalidRequest": "యాప్ పంపిన అభ్యర్థనను Literary Universe పూర్తి చేయలేదు. {description}"
 }

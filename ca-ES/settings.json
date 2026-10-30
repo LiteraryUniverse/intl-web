@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Llegir el diari d'escriptura",
   "settings.apiKeys.scope.diary.read.desc": "Accedir a les entrades del teu diari d'escriptura i a les ratxes",
   "settings.apiKeys.scope.author.manage": "Actuar en nom d'altres autors",
-  "settings.apiKeys.scope.author.manage.desc": "Només per a administradors. Permet que aquesta clau faci servir els seus altres permisos amb les històries i els universos de qualsevol autor, per exemple per pujar portades dels autors que gestiones"
+  "settings.apiKeys.scope.author.manage.desc": "Només per a administradors. Permet que aquesta clau faci servir els seus altres permisos amb les històries i els universos de qualsevol autor, per exemple per pujar portades dels autors que gestiones",
+  "settings.apiKeys.connectedApp": "Aplicació connectada",
+  "settings.oauth.title": "Vols permetre que {client} accedeixi al teu compte de Literary Universe?",
+  "settings.oauth.permissions": "L'aplicació podrà:",
+  "settings.oauth.allow": "Permet",
+  "settings.oauth.deny": "Denega",
+  "settings.oauth.revokeHint": "Pots revocar-ho en qualsevol moment a Configuració → Claus d'API.",
+  "settings.oauth.error.unknownClient": "Aquesta aplicació no està registrada a Literary Universe. Torna a l'aplicació i inicia la connexió de nou.",
+  "settings.oauth.error.invalidRequest": "L'aplicació ha enviat una sol·licitud que Literary Universe no pot completar. {description}"
 }

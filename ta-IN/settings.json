@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "எழுத்து நாட்குறிப்பைப் படி",
   "settings.apiKeys.scope.diary.read.desc": "உங்கள் எழுத்து நாட்குறிப்புப் பதிவுகளையும் தொடர்ந்து எழுதிய நாட்களின் தொடர்களையும் அணுகு",
   "settings.apiKeys.scope.author.manage": "பிற எழுத்தாளர்களின் சார்பில் செயல்படு",
-  "settings.apiKeys.scope.author.manage.desc": "நிர்வாகிகளுக்கு மட்டும். இந்த விசை தனது மற்ற அனுமதிகளை எந்த எழுத்தாளரின் கதைகளிலும் உலகங்களிலும் பயன்படுத்த அனுமதிக்கிறது, எடுத்துக்காட்டாக நீங்கள் நிர்வகிக்கும் எழுத்தாளர்களுக்கு அட்டைப்படங்களைப் பதிவேற்ற"
+  "settings.apiKeys.scope.author.manage.desc": "நிர்வாகிகளுக்கு மட்டும். இந்த விசை தனது மற்ற அனுமதிகளை எந்த எழுத்தாளரின் கதைகளிலும் உலகங்களிலும் பயன்படுத்த அனுமதிக்கிறது, எடுத்துக்காட்டாக நீங்கள் நிர்வகிக்கும் எழுத்தாளர்களுக்கு அட்டைப்படங்களைப் பதிவேற்ற",
+  "settings.apiKeys.connectedApp": "இணைக்கப்பட்ட செயலி",
+  "settings.oauth.title": "{client} செயலி உங்கள் Literary Universe கணக்கை அணுக அனுமதிக்கவா?",
+  "settings.oauth.permissions": "செயலியால் இவற்றைச் செய்ய முடியும்:",
+  "settings.oauth.allow": "அனுமதி",
+  "settings.oauth.deny": "நிராகரி",
+  "settings.oauth.revokeHint": "இதை எப்போது வேண்டுமானாலும் அமைப்புகள் → API Keys பகுதியில் திரும்பப் பெறலாம்.",
+  "settings.oauth.error.unknownClient": "இந்தச் செயலி Literary Universe-இல் பதிவு செய்யப்படவில்லை. செயலிக்குத் திரும்பிச் சென்று இணைப்பை மீண்டும் தொடங்கவும்.",
+  "settings.oauth.error.invalidRequest": "செயலி அனுப்பிய கோரிக்கையை Literary Universe நிறைவேற்ற முடியவில்லை. {description}"
 }

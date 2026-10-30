@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Lees skryfdagboek",
   "settings.apiKeys.scope.diary.read.desc": "Kry toegang tot jou skryfdagboekinskrywings en opeenvolgende skryfdae",
   "settings.apiKeys.scope.author.manage": "Tree namens ander skrywers op",
-  "settings.apiKeys.scope.author.manage.desc": "Slegs vir administrateurs. Laat hierdie sleutel toe om sy ander toestemmings op enige skrywer se stories en heelalle te gebruik, byvoorbeeld om omslae op te laai vir skrywers wat jy bestuur"
+  "settings.apiKeys.scope.author.manage.desc": "Slegs vir administrateurs. Laat hierdie sleutel toe om sy ander toestemmings op enige skrywer se stories en heelalle te gebruik, byvoorbeeld om omslae op te laai vir skrywers wat jy bestuur",
+  "settings.apiKeys.connectedApp": "Gekoppelde toepassing",
+  "settings.oauth.title": "Laat {client} toe om toegang tot jou Literary Universe-rekening te kry?",
+  "settings.oauth.permissions": "Die toepassing sal die volgende kan doen:",
+  "settings.oauth.allow": "Laat toe",
+  "settings.oauth.deny": "Weier",
+  "settings.oauth.revokeHint": "Jy kan dit enige tyd in Instellings → API-sleutels intrek.",
+  "settings.oauth.error.unknownClient": "Hierdie toepassing is nie by Literary Universe geregistreer nie. Gaan terug na die toepassing en begin die koppeling weer.",
+  "settings.oauth.error.invalidRequest": "Die toepassing het 'n versoek gestuur wat Literary Universe nie kan voltooi nie. {description}"
 }

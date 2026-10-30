@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "लेखन डायरी पढ़ना",
   "settings.apiKeys.scope.diary.read.desc": "आपकी लेखन डायरी की प्रविष्टियों और लगातार लिखने के दिनों की श्रृंखलाओं तक पहुँच",
   "settings.apiKeys.scope.author.manage": "दूसरे लेखकों की ओर से काम करना",
-  "settings.apiKeys.scope.author.manage.desc": "केवल व्यवस्थापकों के लिए। इस कुंजी को अपनी अन्य अनुमतियों का उपयोग किसी भी लेखक की कहानियों और ब्रह्मांडों पर करने देता है, उदाहरण के लिए आपके द्वारा प्रबंधित लेखकों के कवर अपलोड करने के लिए"
+  "settings.apiKeys.scope.author.manage.desc": "केवल व्यवस्थापकों के लिए। इस कुंजी को अपनी अन्य अनुमतियों का उपयोग किसी भी लेखक की कहानियों और ब्रह्मांडों पर करने देता है, उदाहरण के लिए आपके द्वारा प्रबंधित लेखकों के कवर अपलोड करने के लिए",
+  "settings.apiKeys.connectedApp": "कनेक्ट किया गया ऐप",
+  "settings.oauth.title": "क्या {client} को आपके Literary Universe खाते तक पहुँचने की अनुमति दें?",
+  "settings.oauth.permissions": "ऐप यह कर सकेगा:",
+  "settings.oauth.allow": "अनुमति दें",
+  "settings.oauth.deny": "अस्वीकार करें",
+  "settings.oauth.revokeHint": "आप इसे कभी भी सेटिंग्स → API कुंजियाँ में रद्द कर सकते हैं।",
+  "settings.oauth.error.unknownClient": "यह ऐप Literary Universe में पंजीकृत नहीं है। ऐप पर वापस जाएँ और कनेक्शन फिर से शुरू करें।",
+  "settings.oauth.error.invalidRequest": "ऐप ने ऐसा अनुरोध भेजा जिसे Literary Universe पूरा नहीं कर सकता। {description}"
 }

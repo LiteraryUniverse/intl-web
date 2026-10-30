@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Waca buku harian nulis",
   "settings.apiKeys.scope.diary.read.desc": "Akses cathetan buku harian nulis lan reroncen dina nulis sampeyan",
   "settings.apiKeys.scope.author.manage": "Tumindak atas jenenge panganggit liya",
-  "settings.apiKeys.scope.author.manage.desc": "Mung kanggo admin. Ngidini kunci iki nggunakake idin liyane ing crita lan jagad duweke panganggit sapa wae, contone kanggo ngunggah sampul kanggo panganggit sing sampeyan kelola"
+  "settings.apiKeys.scope.author.manage.desc": "Mung kanggo admin. Ngidini kunci iki nggunakake idin liyane ing crita lan jagad duweke panganggit sapa wae, contone kanggo ngunggah sampul kanggo panganggit sing sampeyan kelola",
+  "settings.apiKeys.connectedApp": "Connected app",
+  "settings.oauth.title": "Allow {client} to access your Literary Universe account?",
+  "settings.oauth.permissions": "The app will be able to:",
+  "settings.oauth.allow": "Allow",
+  "settings.oauth.deny": "Deny",
+  "settings.oauth.revokeHint": "You can revoke this at any time in Settings → API keys.",
+  "settings.oauth.error.unknownClient": "This app is not registered with Literary Universe. Go back to the app and start the connection again.",
+  "settings.oauth.error.invalidRequest": "The app sent a request Literary Universe cannot complete. {description}"
 }

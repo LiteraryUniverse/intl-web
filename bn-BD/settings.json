@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "লেখার ডায়েরি পড়া",
   "settings.apiKeys.scope.diary.read.desc": "আপনার লেখার ডায়েরির লেখা ও একটানা লেখার দিনের ধারায় অ্যাক্সেস",
   "settings.apiKeys.scope.author.manage": "অন্য লেখকদের হয়ে কাজ করা",
-  "settings.apiKeys.scope.author.manage.desc": "শুধু অ্যাডমিনদের জন্য। এই কী-কে যেকোনো লেখকের গল্প ও মহাবিশ্বে এর অন্যান্য অনুমতি ব্যবহার করতে দেয়, যেমন আপনি যেসব লেখক পরিচালনা করেন তাদের জন্য কভার আপলোড করতে"
+  "settings.apiKeys.scope.author.manage.desc": "শুধু অ্যাডমিনদের জন্য। এই কী-কে যেকোনো লেখকের গল্প ও মহাবিশ্বে এর অন্যান্য অনুমতি ব্যবহার করতে দেয়, যেমন আপনি যেসব লেখক পরিচালনা করেন তাদের জন্য কভার আপলোড করতে",
+  "settings.apiKeys.connectedApp": "সংযুক্ত অ্যাপ",
+  "settings.oauth.title": "{client}-কে কি আপনার Literary Universe অ্যাকাউন্টে অ্যাক্সেসের অনুমতি দেবেন?",
+  "settings.oauth.permissions": "অ্যাপটি যা করতে পারবে:",
+  "settings.oauth.allow": "অনুমতি দিন",
+  "settings.oauth.deny": "প্রত্যাখ্যান করুন",
+  "settings.oauth.revokeHint": "আপনি যেকোনো সময় সেটিংস → API কী থেকে এটি প্রত্যাহার করতে পারেন।",
+  "settings.oauth.error.unknownClient": "এই অ্যাপটি Literary Universe-এ নিবন্ধিত নয়। অ্যাপে ফিরে গিয়ে আবার সংযোগ শুরু করুন।",
+  "settings.oauth.error.invalidRequest": "অ্যাপটি এমন একটি অনুরোধ পাঠিয়েছে যা Literary Universe সম্পন্ন করতে পারে না। {description}"
 }

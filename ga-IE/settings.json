@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Léigh dialann scríbhneoireachta",
   "settings.apiKeys.scope.diary.read.desc": "Faigh rochtain ar iontrálacha do dhialainne scríbhneoireachta agus ar shraitheanna laethanta scríbhneoireachta as a chéile",
   "settings.apiKeys.scope.author.manage": "Gníomhaigh thar ceann údar eile",
-  "settings.apiKeys.scope.author.manage.desc": "Riarthóirí amháin. Ligeann sé don eochair seo a ceadanna eile a úsáid ar scéalta agus ar chruinneanna aon údair, mar shampla chun clúdaigh a uaslódáil d’údair a bhainistíonn tú"
+  "settings.apiKeys.scope.author.manage.desc": "Riarthóirí amháin. Ligeann sé don eochair seo a ceadanna eile a úsáid ar scéalta agus ar chruinneanna aon údair, mar shampla chun clúdaigh a uaslódáil d’údair a bhainistíonn tú",
+  "settings.apiKeys.connectedApp": "Connected app",
+  "settings.oauth.title": "Allow {client} to access your Literary Universe account?",
+  "settings.oauth.permissions": "The app will be able to:",
+  "settings.oauth.allow": "Allow",
+  "settings.oauth.deny": "Deny",
+  "settings.oauth.revokeHint": "You can revoke this at any time in Settings → API keys.",
+  "settings.oauth.error.unknownClient": "This app is not registered with Literary Universe. Go back to the app and start the connection again.",
+  "settings.oauth.error.invalidRequest": "The app sent a request Literary Universe cannot complete. {description}"
 }

@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Ler o diário de escrita",
   "settings.apiKeys.scope.diary.read.desc": "Acessar suas entradas no diário de escrita e sequências de dias consecutivos de escrita",
   "settings.apiKeys.scope.author.manage": "Atuar em nome de outros autores",
-  "settings.apiKeys.scope.author.manage.desc": "Somente administradores. Permite que esta chave use suas outras permissões nas histórias e universos de qualquer autor, por exemplo, para enviar capas dos autores que você gerencia"
+  "settings.apiKeys.scope.author.manage.desc": "Somente administradores. Permite que esta chave use suas outras permissões nas histórias e universos de qualquer autor, por exemplo, para enviar capas dos autores que você gerencia",
+  "settings.apiKeys.connectedApp": "Aplicativo conectado",
+  "settings.oauth.title": "Permitir que {client} acesse sua conta do Literary Universe?",
+  "settings.oauth.permissions": "O aplicativo poderá:",
+  "settings.oauth.allow": "Permitir",
+  "settings.oauth.deny": "Negar",
+  "settings.oauth.revokeHint": "Você pode revogar isso a qualquer momento em Configurações → Chaves de API.",
+  "settings.oauth.error.unknownClient": "Este aplicativo não está registrado no Literary Universe. Volte ao aplicativo e inicie a conexão novamente.",
+  "settings.oauth.error.invalidRequest": "O aplicativo enviou uma solicitação que o Literary Universe não pode concluir. {description}"
 }

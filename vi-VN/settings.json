@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Đọc nhật ký viết",
   "settings.apiKeys.scope.diary.read.desc": "Truy cập các mục nhật ký viết và chuỗi ngày viết liên tiếp của bạn",
   "settings.apiKeys.scope.author.manage": "Thay mặt các tác giả khác",
-  "settings.apiKeys.scope.author.manage.desc": "Chỉ dành cho quản trị viên. Cho phép khóa này dùng các quyền khác của nó trên câu chuyện và vũ trụ của bất kỳ tác giả nào, chẳng hạn để tải lên ảnh bìa cho các tác giả bạn quản lý"
+  "settings.apiKeys.scope.author.manage.desc": "Chỉ dành cho quản trị viên. Cho phép khóa này dùng các quyền khác của nó trên câu chuyện và vũ trụ của bất kỳ tác giả nào, chẳng hạn để tải lên ảnh bìa cho các tác giả bạn quản lý",
+  "settings.apiKeys.connectedApp": "Ứng dụng đã kết nối",
+  "settings.oauth.title": "Cho phép {client} truy cập tài khoản Literary Universe của bạn?",
+  "settings.oauth.permissions": "Ứng dụng sẽ có thể:",
+  "settings.oauth.allow": "Cho phép",
+  "settings.oauth.deny": "Từ chối",
+  "settings.oauth.revokeHint": "Bạn có thể thu hồi quyền này bất cứ lúc nào tại Cài đặt → Khóa API.",
+  "settings.oauth.error.unknownClient": "Ứng dụng này chưa được đăng ký với Literary Universe. Hãy quay lại ứng dụng và bắt đầu kết nối lại.",
+  "settings.oauth.error.invalidRequest": "Ứng dụng đã gửi một yêu cầu mà Literary Universe không thể thực hiện. {description}"
 }

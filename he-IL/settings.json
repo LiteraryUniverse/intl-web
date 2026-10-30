@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "קריאת יומן הכתיבה",
   "settings.apiKeys.scope.diary.read.desc": "גישה לרשומות ביומן הכתיבה ולרצפי ימי הכתיבה שלכם",
   "settings.apiKeys.scope.author.manage": "פעולה בשם מחברים אחרים",
-  "settings.apiKeys.scope.author.manage.desc": "למנהלים בלבד. מאפשרת למפתח הזה להשתמש בהרשאות האחרות שלו בסיפורים וביקומים של כל מחבר, למשל כדי להעלות כריכות עבור מחברים שאתה מנהל"
+  "settings.apiKeys.scope.author.manage.desc": "למנהלים בלבד. מאפשרת למפתח הזה להשתמש בהרשאות האחרות שלו בסיפורים וביקומים של כל מחבר, למשל כדי להעלות כריכות עבור מחברים שאתה מנהל",
+  "settings.apiKeys.connectedApp": "יישום מחובר",
+  "settings.oauth.title": "לאפשר ל-{client} גישה לחשבון Literary Universe שלך?",
+  "settings.oauth.permissions": "היישום יוכל:",
+  "settings.oauth.allow": "אפשר",
+  "settings.oauth.deny": "סרב",
+  "settings.oauth.revokeHint": "אפשר לבטל זאת בכל עת בהגדרות → מפתחות API.",
+  "settings.oauth.error.unknownClient": "יישום זה אינו רשום ב-Literary Universe. חזור ליישום והתחל את החיבור מחדש.",
+  "settings.oauth.error.invalidRequest": "היישום שלח בקשה ש-Literary Universe אינו יכול להשלים. {description}"
 }

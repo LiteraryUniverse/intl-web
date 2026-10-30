@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Wacen buku harian panyuratan",
   "settings.apiKeys.scope.diary.read.desc": "Aksés catetan buku harian panyuratan miwah rentetan rahina nyurat ragane",
   "settings.apiKeys.scope.author.manage": "Makarya atas wastan pangawi lianan",
-  "settings.apiKeys.scope.author.manage.desc": "Wantah anggén administrator. Ngicénin kunci puniki nganggén idin-idin lianan ring satua miwah jagat pangawi sira ugi, minakadi ngunggahang sampul anggén pangawi sané kakelola olih ragané"
+  "settings.apiKeys.scope.author.manage.desc": "Wantah anggén administrator. Ngicénin kunci puniki nganggén idin-idin lianan ring satua miwah jagat pangawi sira ugi, minakadi ngunggahang sampul anggén pangawi sané kakelola olih ragané",
+  "settings.apiKeys.connectedApp": "Connected app",
+  "settings.oauth.title": "Allow {client} to access your Literary Universe account?",
+  "settings.oauth.permissions": "The app will be able to:",
+  "settings.oauth.allow": "Allow",
+  "settings.oauth.deny": "Deny",
+  "settings.oauth.revokeHint": "You can revoke this at any time in Settings → API keys.",
+  "settings.oauth.error.unknownClient": "This app is not registered with Literary Universe. Go back to the app and start the connection again.",
+  "settings.oauth.error.invalidRequest": "The app sent a request Literary Universe cannot complete. {description}"
 }

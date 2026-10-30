@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Читати щоденник письменника",
   "settings.apiKeys.scope.diary.read.desc": "Доступ до записів щоденника письменника та серій послідовних днів роботи над текстом",
   "settings.apiKeys.scope.author.manage": "Дії від імені інших авторів",
-  "settings.apiKeys.scope.author.manage.desc": "Лише для адміністраторів. Дозволяє цьому ключу застосовувати інші дозволи до історій і всесвітів будь-якого автора, наприклад завантажувати обкладинки для авторів, якими ви керуєте"
+  "settings.apiKeys.scope.author.manage.desc": "Лише для адміністраторів. Дозволяє цьому ключу застосовувати інші дозволи до історій і всесвітів будь-якого автора, наприклад завантажувати обкладинки для авторів, якими ви керуєте",
+  "settings.apiKeys.connectedApp": "Підключений додаток",
+  "settings.oauth.title": "Дозволити додатку {client} доступ до вашого облікового запису Literary Universe?",
+  "settings.oauth.permissions": "Додаток зможе:",
+  "settings.oauth.allow": "Дозволити",
+  "settings.oauth.deny": "Відхилити",
+  "settings.oauth.revokeHint": "Ви можете скасувати доступ будь-коли в розділі Налаштування → Ключі API.",
+  "settings.oauth.error.unknownClient": "Цей додаток не зареєстровано в Literary Universe. Поверніться до додатка й почніть підключення знову.",
+  "settings.oauth.error.invalidRequest": "Додаток надіслав запит, який Literary Universe не може виконати. {description}"
 }

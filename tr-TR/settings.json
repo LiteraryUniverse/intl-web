@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Yazma günlüğünü oku",
   "settings.apiKeys.scope.diary.read.desc": "Yazma günlüğü kayıtlarınıza ve ardışık yazma günlerinize erişin",
   "settings.apiKeys.scope.author.manage": "Diğer yazarlar adına işlem yapma",
-  "settings.apiKeys.scope.author.manage.desc": "Yalnızca yöneticiler için. Bu anahtarın diğer izinlerini herhangi bir yazarın hikayeleri ve evrenleri üzerinde kullanmasını sağlar; örneğin yönettiğiniz yazarlar için kapak yüklemek"
+  "settings.apiKeys.scope.author.manage.desc": "Yalnızca yöneticiler için. Bu anahtarın diğer izinlerini herhangi bir yazarın hikayeleri ve evrenleri üzerinde kullanmasını sağlar; örneğin yönettiğiniz yazarlar için kapak yüklemek",
+  "settings.apiKeys.connectedApp": "Bağlı uygulama",
+  "settings.oauth.title": "{client} uygulamasının Literary Universe hesabınıza erişmesine izin verilsin mi?",
+  "settings.oauth.permissions": "Uygulama şunları yapabilecek:",
+  "settings.oauth.allow": "İzin ver",
+  "settings.oauth.deny": "Reddet",
+  "settings.oauth.revokeHint": "Bunu istediğiniz zaman Ayarlar → API Anahtarları bölümünden iptal edebilirsiniz.",
+  "settings.oauth.error.unknownClient": "Bu uygulama Literary Universe hizmetine kayıtlı değil. Uygulamaya dönüp bağlantıyı yeniden başlatın.",
+  "settings.oauth.error.invalidRequest": "Uygulama, Literary Universe tarafından işlenemeyen bir istek gönderdi. {description}"
 }

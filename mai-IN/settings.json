@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "लेखन डायरी पढ़ू",
   "settings.apiKeys.scope.diary.read.desc": "अपन लेखन डायरीक प्रविष्टि आ लगातार लिखल दिनक श्रृंखला देखू",
   "settings.apiKeys.scope.author.manage": "दोसर लेखक सभक दिस सँ काज करू",
-  "settings.apiKeys.scope.author.manage.desc": "केवल प्रशासक लेल। ई की अपन आन अनुमति सभ कोनो लेखकक कथा आ ब्रह्मांड पर उपयोग कऽ सकैत अछि, जेना अहाँ द्वारा प्रबंधित लेखक सभक कवर अपलोड करबाक लेल"
+  "settings.apiKeys.scope.author.manage.desc": "केवल प्रशासक लेल। ई की अपन आन अनुमति सभ कोनो लेखकक कथा आ ब्रह्मांड पर उपयोग कऽ सकैत अछि, जेना अहाँ द्वारा प्रबंधित लेखक सभक कवर अपलोड करबाक लेल",
+  "settings.apiKeys.connectedApp": "Connected app",
+  "settings.oauth.title": "Allow {client} to access your Literary Universe account?",
+  "settings.oauth.permissions": "The app will be able to:",
+  "settings.oauth.allow": "Allow",
+  "settings.oauth.deny": "Deny",
+  "settings.oauth.revokeHint": "You can revoke this at any time in Settings → API keys.",
+  "settings.oauth.error.unknownClient": "This app is not registered with Literary Universe. Go back to the app and start the connection again.",
+  "settings.oauth.error.invalidRequest": "The app sent a request Literary Universe cannot complete. {description}"
 }

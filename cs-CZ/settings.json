@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Číst deník psaní",
   "settings.apiKeys.scope.diary.read.desc": "Přístup k záznamům ve vašem deníku psaní a nepřerušeným sériím dní psaní",
   "settings.apiKeys.scope.author.manage": "Jednat za jiné autory",
-  "settings.apiKeys.scope.author.manage.desc": "Pouze pro správce. Umožní tomuto klíči používat jeho ostatní oprávnění u příběhů a vesmírů libovolného autora, například k nahrávání obálek pro autory, které spravujete"
+  "settings.apiKeys.scope.author.manage.desc": "Pouze pro správce. Umožní tomuto klíči používat jeho ostatní oprávnění u příběhů a vesmírů libovolného autora, například k nahrávání obálek pro autory, které spravujete",
+  "settings.apiKeys.connectedApp": "Připojená aplikace",
+  "settings.oauth.title": "Povolit aplikaci {client} přístup k vašemu účtu Literary Universe?",
+  "settings.oauth.permissions": "Aplikace bude moci:",
+  "settings.oauth.allow": "Povolit",
+  "settings.oauth.deny": "Zamítnout",
+  "settings.oauth.revokeHint": "Přístup můžete kdykoli odvolat v Nastavení → Klíče API.",
+  "settings.oauth.error.unknownClient": "Tato aplikace není u služby Literary Universe zaregistrována. Vraťte se do aplikace a spusťte připojení znovu.",
+  "settings.oauth.error.invalidRequest": "Aplikace odeslala požadavek, který Literary Universe nemůže zpracovat. {description}"
 }

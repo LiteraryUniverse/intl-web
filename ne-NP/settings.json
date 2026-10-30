@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "लेखन डायरी पढ्नुहोस्",
   "settings.apiKeys.scope.diary.read.desc": "तपाईंको लेखन डायरीका प्रविष्टिहरू र लगातार लेखेका दिनका शृङ्खलाहरू हेर्नुहोस्",
   "settings.apiKeys.scope.author.manage": "अन्य लेखकहरूको तर्फबाट काम गर्नुहोस्",
-  "settings.apiKeys.scope.author.manage.desc": "प्रशासकहरूका लागि मात्र। यो कीलाई कुनै पनि लेखकका कथा र ब्रह्माण्डहरूमा आफ्ना अन्य अनुमतिहरू प्रयोग गर्न दिन्छ, जस्तै तपाईंले व्यवस्थापन गर्ने लेखकहरूका लागि कभर अपलोड गर्न"
+  "settings.apiKeys.scope.author.manage.desc": "प्रशासकहरूका लागि मात्र। यो कीलाई कुनै पनि लेखकका कथा र ब्रह्माण्डहरूमा आफ्ना अन्य अनुमतिहरू प्रयोग गर्न दिन्छ, जस्तै तपाईंले व्यवस्थापन गर्ने लेखकहरूका लागि कभर अपलोड गर्न",
+  "settings.apiKeys.connectedApp": "जडान गरिएको एप",
+  "settings.oauth.title": "{client} लाई तपाईंको Literary Universe खाता प्रयोग गर्न अनुमति दिने?",
+  "settings.oauth.permissions": "यो एपले निम्न कार्य गर्न सक्नेछ:",
+  "settings.oauth.allow": "अनुमति दिनुहोस्",
+  "settings.oauth.deny": "अस्वीकार गर्नुहोस्",
+  "settings.oauth.revokeHint": "तपाईं जुनसुकै बेला सेटिङ्स → API Keys मा गएर यो अनुमति रद्द गर्न सक्नुहुन्छ।",
+  "settings.oauth.error.unknownClient": "यो एप Literary Universe मा दर्ता गरिएको छैन। एपमा फर्केर जडान फेरि सुरु गर्नुहोस्।",
+  "settings.oauth.error.invalidRequest": "एपले Literary Universe ले पूरा गर्न नसक्ने अनुरोध पठायो। {description}"
 }

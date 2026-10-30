@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "എഴുത്ത് ഡയറി വായിക്കുക",
   "settings.apiKeys.scope.diary.read.desc": "നിങ്ങളുടെ എഴുത്ത് ഡയറിയിലെ കുറിപ്പുകളും തുടർച്ചയായി എഴുതിയ ദിവസങ്ങളുടെ പരമ്പരകളും കാണുക",
   "settings.apiKeys.scope.author.manage": "മറ്റ് എഴുത്തുകാരുടെ പേരിൽ പ്രവർത്തിക്കുക",
-  "settings.apiKeys.scope.author.manage.desc": "അഡ്മിൻമാർക്ക് മാത്രം. ഈ കീയുടെ മറ്റ് അനുമതികൾ ഏത് എഴുത്തുകാരന്റെയും കഥകളിലും ബ്രഹ്മാണ്ഡങ്ങളിലും ഉപയോഗിക്കാൻ അനുവദിക്കുന്നു, ഉദാഹരണത്തിന് നിങ്ങൾ നിയന്ത്രിക്കുന്ന എഴുത്തുകാർക്കായി കവറുകൾ അപ്‌ലോഡ് ചെയ്യാൻ"
+  "settings.apiKeys.scope.author.manage.desc": "അഡ്മിൻമാർക്ക് മാത്രം. ഈ കീയുടെ മറ്റ് അനുമതികൾ ഏത് എഴുത്തുകാരന്റെയും കഥകളിലും ബ്രഹ്മാണ്ഡങ്ങളിലും ഉപയോഗിക്കാൻ അനുവദിക്കുന്നു, ഉദാഹരണത്തിന് നിങ്ങൾ നിയന്ത്രിക്കുന്ന എഴുത്തുകാർക്കായി കവറുകൾ അപ്‌ലോഡ് ചെയ്യാൻ",
+  "settings.apiKeys.connectedApp": "കണക്റ്റ് ചെയ്ത ആപ്പ്",
+  "settings.oauth.title": "നിങ്ങളുടെ Literary Universe അക്കൗണ്ട് ആക്‌സസ് ചെയ്യാൻ {client}-ന് അനുമതി നൽകണോ?",
+  "settings.oauth.permissions": "ആപ്പിന് ഇവ ചെയ്യാൻ കഴിയും:",
+  "settings.oauth.allow": "അനുവദിക്കുക",
+  "settings.oauth.deny": "നിരസിക്കുക",
+  "settings.oauth.revokeHint": "ക്രമീകരണങ്ങൾ → API Keys എന്നതിൽ നിന്ന് ഈ അനുമതി എപ്പോൾ വേണമെങ്കിലും പിൻവലിക്കാം.",
+  "settings.oauth.error.unknownClient": "ഈ ആപ്പ് Literary Universe-ൽ രജിസ്റ്റർ ചെയ്തിട്ടില്ല. ആപ്പിലേക്ക് മടങ്ങിപ്പോയി കണക്ഷൻ വീണ്ടും ആരംഭിക്കുക.",
+  "settings.oauth.error.invalidRequest": "ആപ്പ് അയച്ച അഭ്യർത്ഥന പൂർത്തിയാക്കാൻ Literary Universe-ന് കഴിയില്ല. {description}"
 }

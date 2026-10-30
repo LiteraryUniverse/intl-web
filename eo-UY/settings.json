@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Legi verkadan taglibron",
   "settings.apiKeys.scope.diary.read.desc": "Aliri viajn verkadajn taglibro-enskribojn kaj sinsekvajn verkotagojn",
   "settings.apiKeys.scope.author.manage": "Agi por aliaj aŭtoroj",
-  "settings.apiKeys.scope.author.manage.desc": "Nur por administrantoj. Permesas al ĉi tiu ŝlosilo uzi siajn aliajn permesojn ĉe la rakontoj kaj universoj de iu ajn aŭtoro, ekzemple por alŝuti kovrilojn por aŭtoroj, kiujn vi administras"
+  "settings.apiKeys.scope.author.manage.desc": "Nur por administrantoj. Permesas al ĉi tiu ŝlosilo uzi siajn aliajn permesojn ĉe la rakontoj kaj universoj de iu ajn aŭtoro, ekzemple por alŝuti kovrilojn por aŭtoroj, kiujn vi administras",
+  "settings.apiKeys.connectedApp": "Konektita aplikaĵo",
+  "settings.oauth.title": "Ĉu permesi al {client} aliri vian konton de Literary Universe?",
+  "settings.oauth.permissions": "La aplikaĵo povos:",
+  "settings.oauth.allow": "Permesi",
+  "settings.oauth.deny": "Malpermesi",
+  "settings.oauth.revokeHint": "Vi povas revoki tion iam ajn en Agordoj → API-ŝlosiloj.",
+  "settings.oauth.error.unknownClient": "Ĉi tiu aplikaĵo ne estas registrita ĉe Literary Universe. Revenu al la aplikaĵo kaj denove komencu la konekton.",
+  "settings.oauth.error.invalidRequest": "La aplikaĵo sendis peton, kiun Literary Universe ne povas plenumi. {description}"
 }

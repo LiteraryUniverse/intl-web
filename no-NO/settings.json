@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Les skrivedagbok",
   "settings.apiKeys.scope.diary.read.desc": "Få tilgang til skrivedagbokinnleggene dine og serier med sammenhengende skrivedager",
   "settings.apiKeys.scope.author.manage": "Handle på vegne av andre forfattere",
-  "settings.apiKeys.scope.author.manage.desc": "Kun for administratorer. Lar denne nøkkelen bruke de andre tillatelsene sine på alle forfatteres historier og universer, for eksempel for å laste opp omslag for forfattere du administrerer"
+  "settings.apiKeys.scope.author.manage.desc": "Kun for administratorer. Lar denne nøkkelen bruke de andre tillatelsene sine på alle forfatteres historier og universer, for eksempel for å laste opp omslag for forfattere du administrerer",
+  "settings.apiKeys.connectedApp": "Tilkoblet app",
+  "settings.oauth.title": "Vil du gi {client} tilgang til Literary Universe-kontoen din?",
+  "settings.oauth.permissions": "Appen vil kunne:",
+  "settings.oauth.allow": "Tillat",
+  "settings.oauth.deny": "Avslå",
+  "settings.oauth.revokeHint": "Du kan når som helst trekke dette tilbake under Innstillinger → API-nøkler.",
+  "settings.oauth.error.unknownClient": "Denne appen er ikke registrert hos Literary Universe. Gå tilbake til appen og start tilkoblingen på nytt.",
+  "settings.oauth.error.invalidRequest": "Appen sendte en forespørsel som Literary Universe ikke kan gjennomføre. {description}"
 }

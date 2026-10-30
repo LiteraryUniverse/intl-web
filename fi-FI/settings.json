@@ -301,5 +301,13 @@
   "settings.apiKeys.scope.diary.read": "Lue kirjoituspäiväkirjaa",
   "settings.apiKeys.scope.diary.read.desc": "Pääsy kirjoituspäiväkirjasi merkintöihin ja peräkkäisten kirjoituspäivien sarjoihin",
   "settings.apiKeys.scope.author.manage": "Toimi muiden kirjoittajien puolesta",
-  "settings.apiKeys.scope.author.manage.desc": "Vain ylläpitäjille. Antaa tämän avaimen käyttää muita lupiaan kenen tahansa kirjoittajan tarinoihin ja universumeihin, esimerkiksi kansikuvien lataamiseen hallinnoimillesi kirjoittajille"
+  "settings.apiKeys.scope.author.manage.desc": "Vain ylläpitäjille. Antaa tämän avaimen käyttää muita lupiaan kenen tahansa kirjoittajan tarinoihin ja universumeihin, esimerkiksi kansikuvien lataamiseen hallinnoimillesi kirjoittajille",
+  "settings.apiKeys.connectedApp": "Yhdistetty sovellus",
+  "settings.oauth.title": "Sallitaanko sovellukselle {client} pääsy Literary Universe -tilillesi?",
+  "settings.oauth.permissions": "Sovellus voi:",
+  "settings.oauth.allow": "Salli",
+  "settings.oauth.deny": "Estä",
+  "settings.oauth.revokeHint": "Voit peruuttaa tämän milloin tahansa kohdassa Asetukset → API-avaimet.",
+  "settings.oauth.error.unknownClient": "Tätä sovellusta ei ole rekisteröity Literary Universeen. Palaa sovellukseen ja aloita yhdistäminen uudelleen.",
+  "settings.oauth.error.invalidRequest": "Sovellus lähetti pyynnön, jota Literary Universe ei voi suorittaa. {description}"
 }
