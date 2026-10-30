@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "Kommentarer og kudos",
   "workshop.import.ao3.notImported.tags": "Tags og advarsler (dem angiver du igen her)",
   "workshop.import.ao3.notImported.series": "Serier og samlinger",
-  "workshop.import.ao3.notImported.notes": "Værknoter og slutnoter",
+  "workshop.import.ao3.notImported.notes": "Noter til hele værket",
   "workshop.import.ao3.step.open": "Åbn dit værk på AO3. Log ind, og åbn det værk, du vil flytte.",
   "workshop.import.ao3.step.download": "Download det som EPUB eller HTML. Vælg Download og derefter EPUB eller HTML. Gem filen et sted, hvor du kan finde den.",
   "workshop.import.ao3.step.upload": "Upload det til dit Værksted. Åbn Værksted, derefter Import, og slip filen under Eller upload en fil fra din computer.",

@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "コメントと Kudos",
   "workshop.import.ao3.notImported.tags": "タグと警告（こちらで設定し直します）",
   "workshop.import.ao3.notImported.series": "シリーズとコレクション",
-  "workshop.import.ao3.notImported.notes": "作品のノートと巻末ノート",
+  "workshop.import.ao3.notImported.notes": "作品全体のノート",
   "workshop.import.ao3.step.open": "AO3 で作品を開きます。サインインして、移したい作品を開きます。",
   "workshop.import.ao3.step.download": "EPUB または HTML でダウンロードします。Download を選び、続けて EPUB または HTML を選びます。ファイルは見つけやすい場所に保存します。",
   "workshop.import.ao3.step.upload": "ワークショップにアップロードします。ワークショップの「インポート」を開き、「またはコンピューターからファイルをアップロード」の下にファイルをドロップします。",

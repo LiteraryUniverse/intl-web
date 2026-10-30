@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Comentários e kudos",
   "workshop.import.ao3.notImported.tags": "Etiquetas e avisos (volte a defini-los aqui)",
   "workshop.import.ao3.notImported.series": "Séries e coleções",
-  "workshop.import.ao3.notImported.notes": "Notas da obra e notas finais",
+  "workshop.import.ao3.notImported.notes": "Notas sobre a obra completa",
   "workshop.import.ao3.step.open": "Abra a sua obra no AO3. Inicie sessão e abra a obra que quer trazer.",
   "workshop.import.ao3.step.download": "Transfira-a em EPUB ou HTML. Escolha Download, depois EPUB ou HTML. Guarde o ficheiro num sítio onde o encontre.",
   "workshop.import.ao3.step.upload": "Carregue-a na sua Oficina. Abra a Oficina, depois Importar, e largue o ficheiro em “Ou carregue um ficheiro do seu computador”.",

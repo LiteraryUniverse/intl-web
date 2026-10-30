@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "留言與 Kudos",
   "workshop.import.ao3.notImported.tags": "標籤與警告（需在這裡重新設定）",
   "workshop.import.ao3.notImported.series": "系列與合集",
-  "workshop.import.ao3.notImported.notes": "作品註記與結尾註記",
+  "workshop.import.ao3.notImported.notes": "整部作品的註記",
   "workshop.import.ao3.step.open": "在 AO3 上開啟您的作品。登入並開啟您要搬移的作品。",
   "workshop.import.ao3.step.download": "下載為 EPUB 或 HTML。選擇 Download，再選 EPUB 或 HTML。把檔案存到您找得到的地方。",
   "workshop.import.ao3.step.upload": "上傳到您的工作坊。開啟工作坊中的「匯入」，並將檔案拖放到「或從電腦上傳檔案」下方。",

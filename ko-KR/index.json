@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "댓글과 쿠도스",
   "workshop.import.ao3.notImported.tags": "태그와 경고(여기서 다시 지정합니다)",
   "workshop.import.ao3.notImported.series": "시리즈와 컬렉션",
-  "workshop.import.ao3.notImported.notes": "작품 노트와 끝 노트",
+  "workshop.import.ao3.notImported.notes": "작품 전체에 대한 노트",
   "workshop.import.ao3.step.open": "AO3에서 작품을 여세요. 로그인한 다음 옮기려는 작품을 여세요.",
   "workshop.import.ao3.step.download": "EPUB 또는 HTML로 다운로드하세요. Download를 선택한 다음 EPUB 또는 HTML을 고르세요. 파일은 찾기 쉬운 곳에 저장하세요.",
   "workshop.import.ao3.step.upload": "작업장에 업로드하세요. 작업장에서 ‘가져오기’를 열고 ‘또는 컴퓨터에서 파일 업로드’ 아래에 파일을 끌어다 놓으세요.",

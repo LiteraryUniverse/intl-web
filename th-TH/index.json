@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "ความคิดเห็นและ kudos",
   "workshop.import.ao3.notImported.tags": "แท็กและคำเตือน (คุณตั้งค่าใหม่ที่นี่)",
   "workshop.import.ao3.notImported.series": "ซีรีส์และคอลเลกชัน",
-  "workshop.import.ao3.notImported.notes": "หมายเหตุของผลงานและหมายเหตุท้ายเรื่อง",
+  "workshop.import.ao3.notImported.notes": "หมายเหตุของผลงานทั้งเรื่อง",
   "workshop.import.ao3.step.open": "เปิดผลงานของคุณบน AO3. เข้าสู่ระบบแล้วเปิดผลงานที่คุณต้องการย้าย",
   "workshop.import.ao3.step.download": "ดาวน์โหลดเป็น EPUB หรือ HTML. เลือก Download แล้วเลือก EPUB หรือ HTML บันทึกไฟล์ไว้ในที่ที่คุณหาเจอ",
   "workshop.import.ao3.step.upload": "อัปโหลดไปยังสถานที่ทำงานของคุณ. เปิดสถานที่ทำงาน ไปที่ “นำเข้า” แล้ววางไฟล์ใต้ “หรืออัปโหลดไฟล์จากคอมพิวเตอร์ของคุณ”",

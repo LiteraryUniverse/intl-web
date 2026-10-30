@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Kommentaarid ja kudos",
   "workshop.import.ao3.notImported.tags": "Sildid ja hoiatused (määrad need siin uuesti)",
   "workshop.import.ao3.notImported.series": "Sarjad ja kogumikud",
-  "workshop.import.ao3.notImported.notes": "Teose märkmed ja lõpumärkmed",
+  "workshop.import.ao3.notImported.notes": "Märkmed kogu teose kohta",
   "workshop.import.ao3.step.open": "Ava oma teos AO3-s. Logi sisse ja ava teos, mida soovid kolida.",
   "workshop.import.ao3.step.download": "Laadi see alla EPUB- või HTML-vormingus. Vali Download, seejärel EPUB või HTML. Salvesta fail kohta, kust selle üles leiad.",
   "workshop.import.ao3.step.upload": "Laadi see oma Töötuppa üles. Ava Töötuba, seejärel Import, ja lohista fail jaotisse Või laadi fail oma arvutist üles.",

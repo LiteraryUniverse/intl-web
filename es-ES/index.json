@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "Comentarios y kudos",
   "workshop.import.ao3.notImported.tags": "Etiquetas y advertencias (las vuelves a indicar aquí)",
   "workshop.import.ao3.notImported.series": "Series y colecciones",
-  "workshop.import.ao3.notImported.notes": "Notas de la obra y notas finales",
+  "workshop.import.ao3.notImported.notes": "Notas sobre toda la obra",
   "workshop.import.ao3.step.open": "Abre tu obra en AO3. Inicia sesión y abre la obra que quieres trasladar.",
   "workshop.import.ao3.step.download": "Descárgala en EPUB o HTML. Elige Download y luego EPUB o HTML. Guarda el archivo en un lugar donde puedas encontrarlo.",
   "workshop.import.ao3.step.upload": "Súbela a tu Taller. Abre Taller, luego Importación, y suelta el archivo en O sube un archivo desde tu ordenador.",

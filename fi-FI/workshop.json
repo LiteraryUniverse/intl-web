@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Kommentit ja kudos",
   "workshop.import.ao3.notImported.tags": "Tunnisteet ja varoitukset (asetat ne uudelleen täällä)",
   "workshop.import.ao3.notImported.series": "Sarjat ja kokoelmat",
-  "workshop.import.ao3.notImported.notes": "Teoksen muistiinpanot ja loppuhuomautukset",
+  "workshop.import.ao3.notImported.notes": "Koko teosta koskevat muistiinpanot",
   "workshop.import.ao3.step.open": "Avaa teoksesi AO3:ssa. Kirjaudu sisään ja avaa teos, jonka haluat siirtää.",
   "workshop.import.ao3.step.download": "Lataa se EPUB- tai HTML-muodossa. Valitse Download ja sitten EPUB tai HTML. Tallenna tiedosto paikkaan, josta löydät sen.",
   "workshop.import.ao3.step.upload": "Lähetä se Työpajaasi. Avaa Työpaja, sitten Tuonti, ja pudota tiedosto kohtaan Tai lähetä tiedosto tietokoneeltasi.",

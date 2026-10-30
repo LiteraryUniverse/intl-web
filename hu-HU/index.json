@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "Hozzászólások és kudos",
   "workshop.import.ao3.notImported.tags": "Címkék és figyelmeztetések (itt újra beállíthatod őket)",
   "workshop.import.ao3.notImported.series": "Sorozatok és gyűjtemények",
-  "workshop.import.ao3.notImported.notes": "A mű jegyzetei és a záró jegyzetek",
+  "workshop.import.ao3.notImported.notes": "Az egész műre vonatkozó jegyzetek",
   "workshop.import.ao3.step.open": "Nyisd meg a művedet az AO3-on. Jelentkezz be, és nyisd meg azt a művet, amelyet át szeretnél költöztetni.",
   "workshop.import.ao3.step.download": "Töltsd le EPUB vagy HTML formátumban. Válaszd a Download gombot, majd az EPUB vagy HTML lehetőséget. Mentsd a fájlt olyan helyre, ahol megtalálod.",
   "workshop.import.ao3.step.upload": "Töltsd fel a Műhelyedbe. Nyisd meg a Műhely, majd az Importálás oldalt, és húzd a fájlt a Vagy tölts fel egy fájlt a számítógépedről részhez.",

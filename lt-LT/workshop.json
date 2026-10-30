@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Komentarai ir kudos",
   "workshop.import.ao3.notImported.tags": "Žymos ir įspėjimai (juos nustatysite čia iš naujo)",
   "workshop.import.ao3.notImported.series": "Serijos ir kolekcijos",
-  "workshop.import.ao3.notImported.notes": "Kūrinio pastabos ir baigiamosios pastabos",
+  "workshop.import.ao3.notImported.notes": "Pastabos apie visą kūrinį",
   "workshop.import.ao3.step.open": "Atidarykite savo kūrinį AO3 svetainėje. Prisijunkite ir atidarykite kūrinį, kurį norite perkelti.",
   "workshop.import.ao3.step.download": "Atsisiųskite jį EPUB arba HTML formatu. Pasirinkite Download, tada EPUB arba HTML. Išsaugokite failą ten, kur jį rasite.",
   "workshop.import.ao3.step.upload": "Įkelkite jį į savo Dirbtuvę. Atidarykite Dirbtuvė, tada Importas, ir nuvilkite failą į skiltį Arba įkelkite failą iš savo kompiuterio.",

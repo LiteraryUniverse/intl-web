@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "टिप्पणी र कुडोस",
   "workshop.import.ao3.notImported.tags": "ट्याग र चेतावनी (यहाँ फेरि सेट गर्नुहोस्)",
   "workshop.import.ao3.notImported.series": "शृङ्खला र सङ्ग्रह",
-  "workshop.import.ao3.notImported.notes": "कृतिका टिप्पणी र अन्तिम टिप्पणी",
+  "workshop.import.ao3.notImported.notes": "सम्पूर्ण कृतिका टिप्पणी",
   "workshop.import.ao3.step.open": "AO3 मा आफ्नो रचना खोल्नुहोस्। साइन इन गर्नुहोस् र सार्न चाहेको रचना खोल्नुहोस्।",
   "workshop.import.ao3.step.download": "यसलाई EPUB वा HTML मा डाउनलोड गर्नुहोस्। Download छान्नुहोस्, अनि EPUB वा HTML। फाइल तपाईंले सजिलै भेट्टाउन सक्ने ठाउँमा सेभ गर्नुहोस्।",
   "workshop.import.ao3.step.upload": "यसलाई आफ्नो कार्यशालामा अपलोड गर्नुहोस्। कार्यशाला खोल्नुहोस्, अनि आयात छान्नुहोस्, र फाइललाई “वा आफ्नो कम्प्युटरबाट फाइल अपलोड गर्नुहोस्” मुनि छोड्नुहोस्।",

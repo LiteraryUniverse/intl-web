@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Комментарии и кудосы",
   "workshop.import.ao3.notImported.tags": "Метки и предупреждения (их нужно будет указать заново здесь)",
   "workshop.import.ao3.notImported.series": "Серии и коллекции",
-  "workshop.import.ao3.notImported.notes": "Примечания к работе и заключительные примечания",
+  "workshop.import.ao3.notImported.notes": "Примечания ко всей работе",
   "workshop.import.ao3.step.open": "Откройте свою работу на AO3. Войдите в аккаунт и откройте работу, которую хотите перенести.",
   "workshop.import.ao3.step.download": "Скачайте её в EPUB или HTML. Выберите Download, затем EPUB или HTML. Сохраните файл там, где сможете его найти.",
   "workshop.import.ao3.step.upload": "Загрузите файл в свою Мастерскую. Откройте раздел Мастерская, затем вкладку Импорт и перетащите файл в область Или загрузите файл с компьютера.",

@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "കമന്റുകൾ, kudos",
   "workshop.import.ao3.notImported.tags": "ടാഗുകളും മുന്നറിയിപ്പുകളും (ഇവ ഇവിടെ വീണ്ടും സജ്ജമാക്കണം)",
   "workshop.import.ao3.notImported.series": "സീരീസുകളും ശേഖരങ്ങളും",
-  "workshop.import.ao3.notImported.notes": "കൃതിയുടെ കുറിപ്പുകളും അവസാന കുറിപ്പുകളും",
+  "workshop.import.ao3.notImported.notes": "കൃതിയെ മുഴുവനായുള്ള കുറിപ്പുകൾ",
   "workshop.import.ao3.step.open": "AO3-ൽ നിങ്ങളുടെ രചന തുറക്കുക. സൈൻ ഇൻ ചെയ്ത് നിങ്ങൾ മാറ്റാൻ ആഗ്രഹിക്കുന്ന രചന തുറക്കുക.",
   "workshop.import.ao3.step.download": "ഇത് EPUB അല്ലെങ്കിൽ HTML ആയി ഡൗൺലോഡ് ചെയ്യുക. Download തിരഞ്ഞെടുത്ത് EPUB അല്ലെങ്കിൽ HTML തിരഞ്ഞെടുക്കുക. ഫയൽ എളുപ്പം കണ്ടെത്താവുന്ന ഇടത്ത് സേവ് ചെയ്യുക.",
   "workshop.import.ao3.step.upload": "ഇത് നിങ്ങളുടെ പ്രവർത്തനശാലയിൽ അപ്‌ലോഡ് ചെയ്യുക. പ്രവർത്തനശാല തുറന്ന്, ഇംപോർട്ട് തിരഞ്ഞെടുത്ത്, “അല്ലെങ്കിൽ നിങ്ങളുടെ കമ്പ്യൂട്ടറിൽ നിന്ന് ഒരു ഫയൽ അപ്‌ലോഡ് ചെയ്യുക” എന്നതിന് താഴെ ഫയൽ ഇടുക.",

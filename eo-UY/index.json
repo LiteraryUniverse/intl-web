@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "Komentoj kaj kudos",
   "workshop.import.ao3.notImported.tags": "Etikedoj kaj avertoj (vi agordas ilin denove ĉi tie)",
   "workshop.import.ao3.notImported.series": "Serioj kaj kolektoj",
-  "workshop.import.ao3.notImported.notes": "Verkaj notoj kaj finaj notoj",
+  "workshop.import.ao3.notImported.notes": "Notoj pri la tuta verko",
   "workshop.import.ao3.step.open": "Malfermu vian verkon en AO3. Ensalutu kaj malfermu la verkon, kiun vi volas movi.",
   "workshop.import.ao3.step.download": "Elŝutu ĝin kiel EPUB aŭ HTML. Elektu Download, poste EPUB aŭ HTML. Konservu la dosieron tie, kie vi trovos ĝin.",
   "workshop.import.ao3.step.upload": "Alŝutu ĝin al via Verkstato. Iru al Verkstato, poste al Importo, kaj demetu la dosieron sub “Aŭ alŝutu dosieron de via komputilo”.",

@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Komentarze i kudosy",
   "workshop.import.ao3.notImported.tags": "Tagi i ostrzeżenia (ustawisz je tutaj od nowa)",
   "workshop.import.ao3.notImported.series": "Serie i kolekcje",
-  "workshop.import.ao3.notImported.notes": "Notatki do utworu i notatki końcowe",
+  "workshop.import.ao3.notImported.notes": "Notatki do całego utworu",
   "workshop.import.ao3.step.open": "Otwórz swój utwór na AO3. Zaloguj się i otwórz utwór, który chcesz przenieść.",
   "workshop.import.ao3.step.download": "Pobierz go jako EPUB lub HTML. Wybierz Download, potem EPUB lub HTML. Zapisz plik w miejscu, w którym go znajdziesz.",
   "workshop.import.ao3.step.upload": "Prześlij go do swojego Warsztatu. Otwórz Warsztat, potem zakładkę Import i upuść plik w sekcji Lub prześlij plik z komputera.",

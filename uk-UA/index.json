@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "Коментарі та kudos",
   "workshop.import.ao3.notImported.tags": "Теги й попередження (їх потрібно буде задати знову тут)",
   "workshop.import.ao3.notImported.series": "Серії та збірки",
-  "workshop.import.ao3.notImported.notes": "Нотатки до твору й кінцеві нотатки",
+  "workshop.import.ao3.notImported.notes": "Нотатки до всього твору",
   "workshop.import.ao3.step.open": "Відкрийте свій твір на AO3. Увійдіть і відкрийте твір, який хочете перенести.",
   "workshop.import.ao3.step.download": "Завантажте його у форматі EPUB або HTML. Виберіть Download, потім EPUB або HTML. Збережіть файл там, де зможете його знайти.",
   "workshop.import.ao3.step.upload": "Завантажте його у свою майстерню. Відкрийте розділ Майстерня, потім вкладку Імпорт і перетягніть файл в область Або завантажте файл із комп’ютера.",

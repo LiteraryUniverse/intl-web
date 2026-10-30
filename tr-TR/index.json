@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "Yorumlar ve kudos",
   "workshop.import.ao3.notImported.tags": "Etiketler ve uyarılar (bunları burada yeniden belirlersiniz)",
   "workshop.import.ao3.notImported.series": "Seriler ve koleksiyonlar",
-  "workshop.import.ao3.notImported.notes": "Eser notları ve son notlar",
+  "workshop.import.ao3.notImported.notes": "Eserin tamamına ait notlar",
   "workshop.import.ao3.step.open": "Eserinizi AO3'te açın. Giriş yapın ve taşımak istediğiniz eseri açın.",
   "workshop.import.ao3.step.download": "EPUB veya HTML olarak indirin. Download'u, ardından EPUB ya da HTML'yi seçin. Dosyayı bulabileceğiniz bir yere kaydedin.",
   "workshop.import.ao3.step.upload": "Atölyenize yükleyin. Atölyenizde İçe aktarma bölümünü açın ve dosyayı “Veya bilgisayarınızdan bir dosya yükleyin” alanına bırakın.",

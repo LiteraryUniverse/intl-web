@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Comentaris i kudos",
   "workshop.import.ao3.notImported.tags": "Etiquetes i advertències (les tornes a definir aquí)",
   "workshop.import.ao3.notImported.series": "Sèries i col·leccions",
-  "workshop.import.ao3.notImported.notes": "Notes de l'obra i notes finals",
+  "workshop.import.ao3.notImported.notes": "Notes sobre tota l'obra",
   "workshop.import.ao3.step.open": "Obre la teva obra a AO3. Inicia sessió i obre l'obra que vols traslladar.",
   "workshop.import.ao3.step.download": "Baixa-la en EPUB o HTML. Tria Download i després EPUB o HTML. Desa el fitxer en un lloc on el puguis trobar.",
   "workshop.import.ao3.step.upload": "Puja-la al teu Taller. Obre Taller, després Importació, i deixa anar el fitxer a O puja un fitxer des del teu ordinador.",

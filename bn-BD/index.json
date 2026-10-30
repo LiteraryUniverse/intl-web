@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "মন্তব্য ও kudos",
   "workshop.import.ao3.notImported.tags": "ট্যাগ ও সতর্কতা (এগুলো এখানে নতুন করে সেট করবেন)",
   "workshop.import.ao3.notImported.series": "সিরিজ ও সংকলন",
-  "workshop.import.ao3.notImported.notes": "রচনার নোট ও শেষের নোট",
+  "workshop.import.ao3.notImported.notes": "পুরো রচনার নোট",
   "workshop.import.ao3.step.open": "AO3-এ আপনার লেখাটি খুলুন। সাইন ইন করে যে লেখাটি সরাতে চান সেটি খুলুন।",
   "workshop.import.ao3.step.download": "এটি EPUB বা HTML হিসেবে ডাউনলোড করুন। Download বেছে নিন, তারপর EPUB বা HTML। ফাইলটি এমন জায়গায় সংরক্ষণ করুন যেখানে সহজে খুঁজে পাবেন।",
   "workshop.import.ao3.step.upload": "এটি আপনার কারখানায় আপলোড করুন। কারখানা খুলুন, তারপর ইমপোর্ট বেছে নিন, আর ফাইলটি “অথবা আপনার কম্পিউটার থেকে একটি ফাইল আপলোড করুন”-এর নিচে ছেড়ে দিন।",

@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Kommentare und Kudos",
   "workshop.import.ao3.notImported.tags": "Tags und Warnungen (die legen Sie hier neu fest)",
   "workshop.import.ao3.notImported.series": "Reihen und Sammlungen",
-  "workshop.import.ao3.notImported.notes": "Werknotizen und Schlussnotizen",
+  "workshop.import.ao3.notImported.notes": "Notizen zum gesamten Werk",
   "workshop.import.ao3.step.open": "Öffnen Sie Ihr Werk auf AO3. Melden Sie sich an und öffnen Sie das Werk, das Sie übertragen möchten.",
   "workshop.import.ao3.step.download": "Laden Sie es als EPUB oder HTML herunter. Wählen Sie Download, dann EPUB oder HTML. Speichern Sie die Datei dort, wo Sie sie wiederfinden.",
   "workshop.import.ao3.step.upload": "Laden Sie es in Ihre Werkstatt hoch. Öffnen Sie Werkstatt, dann Import, und legen Sie die Datei unter „Oder Datei vom Computer hochladen“ ab.",

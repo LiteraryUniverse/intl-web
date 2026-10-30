@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "კომენტარები და kudos",
   "workshop.import.ao3.notImported.tags": "თეგები და გაფრთხილებები (მათ აქ ხელახლა მიუთითებთ)",
   "workshop.import.ao3.notImported.series": "სერიები და კოლექციები",
-  "workshop.import.ao3.notImported.notes": "ნაწარმოების შენიშვნები და ბოლო შენიშვნები",
+  "workshop.import.ao3.notImported.notes": "შენიშვნები მთელ ნაწარმოებზე",
   "workshop.import.ao3.step.open": "გახსენით თქვენი ნაწარმოები AO3-ზე. შედით ანგარიშზე და გახსენით ნაწარმოები, რომლის გადმოტანაც გსურთ.",
   "workshop.import.ao3.step.download": "ჩამოტვირთეთ EPUB ან HTML ფორმატში. აირჩიეთ Download, შემდეგ EPUB ან HTML. შეინახეთ ფაილი იქ, სადაც ადვილად იპოვით.",
   "workshop.import.ao3.step.upload": "ატვირთეთ თქვენს სახელოსნოში. გახსენით სახელოსნო, შემდეგ „იმპორტი“ და ჩააგდეთ ფაილი განყოფილებაში „ან ატვირთეთ ფაილი თქვენი კომპიუტერიდან“.",

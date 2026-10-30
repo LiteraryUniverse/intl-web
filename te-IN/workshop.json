@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "వ్యాఖ్యలు మరియు kudos",
   "workshop.import.ao3.notImported.tags": "ట్యాగ్‌లు, హెచ్చరికలు (వీటిని ఇక్కడ మళ్లీ సెట్ చేస్తారు)",
   "workshop.import.ao3.notImported.series": "సిరీస్‌లు, కలెక్షన్‌లు",
-  "workshop.import.ao3.notImported.notes": "రచన గమనికలు మరియు ముగింపు గమనికలు",
+  "workshop.import.ao3.notImported.notes": "మొత్తం రచనకు సంబంధించిన గమనికలు",
   "workshop.import.ao3.step.open": "AO3లో మీ రచనను తెరవండి. సైన్ ఇన్ చేసి, మీరు తరలించాలనుకుంటున్న రచనను తెరవండి.",
   "workshop.import.ao3.step.download": "దీన్ని EPUB లేదా HTMLగా డౌన్‌లోడ్ చేయండి. Download ఎంచుకుని, ఆపై EPUB లేదా HTML ఎంచుకోండి. ఫైల్‌ను సులభంగా దొరికే చోట సేవ్ చేయండి.",
   "workshop.import.ao3.step.upload": "దీన్ని మీ వర్క్షాప్‌లో అప్‌లోడ్ చేయండి. వర్క్షాప్ తెరిచి, ఆపై దిగుమతి ఎంచుకుని, “లేదా మీ కంప్యూటర్ నుండి ఫైల్‌ను అప్‌లోడ్ చేయండి” కింద ఫైల్‌ను వదలండి.",

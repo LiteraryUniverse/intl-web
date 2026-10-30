@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "التعليقات وkudos",
   "workshop.import.ao3.notImported.tags": "الوسوم والتحذيرات (تحدّدها من جديد هنا)",
   "workshop.import.ao3.notImported.series": "السلاسل والمجموعات",
-  "workshop.import.ao3.notImported.notes": "ملاحظات العمل والملاحظات الختامية",
+  "workshop.import.ao3.notImported.notes": "الملاحظات الخاصة بالعمل كله",
   "workshop.import.ao3.step.open": "افتح عملك على AO3. سجّل الدخول وافتح العمل الذي تريد نقله.",
   "workshop.import.ao3.step.download": "نزّله بصيغة EPUB أو HTML. اختر Download، ثم EPUB أو HTML. احفظ الملف في مكان تجده فيه.",
   "workshop.import.ao3.step.upload": "ارفعه إلى ورشة العمل لديك. افتح ورشة العمل، ثم استيراد، وأفلت الملف تحت «أو ارفع ملفًا من جهازك».",

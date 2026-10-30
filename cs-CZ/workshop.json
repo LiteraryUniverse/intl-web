@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Komentáře a kudos",
   "workshop.import.ao3.notImported.tags": "Tagy a varování (nastavíte je znovu zde)",
   "workshop.import.ao3.notImported.series": "Série a kolekce",
-  "workshop.import.ao3.notImported.notes": "Poznámky k dílu a závěrečné poznámky",
+  "workshop.import.ao3.notImported.notes": "Poznámky k celému dílu",
   "workshop.import.ao3.step.open": "Otevřete své dílo na AO3. Přihlaste se a otevřete dílo, které chcete přesunout.",
   "workshop.import.ao3.step.download": "Stáhněte ho jako EPUB nebo HTML. Zvolte Download, potom EPUB nebo HTML. Soubor uložte na místo, kde ho najdete.",
   "workshop.import.ao3.step.upload": "Nahrajte ho do svého Ateliéru. Otevřete Ateliér, pak záložku Import a přetáhněte soubor do části Nebo nahrajte soubor z počítače.",

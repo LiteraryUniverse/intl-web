@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Komentar dan kudos",
   "workshop.import.ao3.notImported.tags": "Tag dan peringatan (Anda mengaturnya lagi di sini)",
   "workshop.import.ao3.notImported.series": "Seri dan koleksi",
-  "workshop.import.ao3.notImported.notes": "Catatan karya dan catatan akhir",
+  "workshop.import.ao3.notImported.notes": "Catatan untuk keseluruhan karya",
   "workshop.import.ao3.step.open": "Buka karya Anda di AO3. Masuk, lalu buka karya yang ingin Anda pindahkan.",
   "workshop.import.ao3.step.download": "Unduh sebagai EPUB atau HTML. Pilih Download, lalu EPUB atau HTML. Simpan berkasnya di tempat yang mudah Anda temukan.",
   "workshop.import.ao3.step.upload": "Unggah ke Workshop Anda. Buka Workshop, lalu Impor, dan letakkan berkasnya di bawah “Atau unggah berkas dari komputer Anda”.",

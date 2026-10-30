@@ -989,7 +989,7 @@
   "workshop.import.ao3.notImported.feedback": "Mga komento at kudos",
   "workshop.import.ao3.notImported.tags": "Mga tag at babala (itatakda mo ulit ang mga ito rito)",
   "workshop.import.ao3.notImported.series": "Mga serye at koleksyon",
-  "workshop.import.ao3.notImported.notes": "Mga tala ng akda at mga pangwakas na tala",
+  "workshop.import.ao3.notImported.notes": "Mga tala para sa buong akda",
   "workshop.import.ao3.step.open": "Buksan ang akda mo sa AO3. Mag-sign in at buksan ang akdang gusto mong ilipat.",
   "workshop.import.ao3.step.download": "I-download ito bilang EPUB o HTML. Piliin ang Download, saka EPUB o HTML. I-save ang file sa lugar na madali mong mahahanap.",
   "workshop.import.ao3.step.upload": "I-upload ito sa iyong Gawain. Buksan ang Gawain, piliin ang Pag-import, at i-drop ang file sa ilalim ng “O mag-upload ng file mula sa iyong computer”.",

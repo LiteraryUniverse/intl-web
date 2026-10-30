@@ -7527,7 +7527,7 @@
   "workshop.import.ao3.notImported.feedback": "Comments and kudos",
   "workshop.import.ao3.notImported.tags": "Tags and warnings (you set them again here)",
   "workshop.import.ao3.notImported.series": "Series and collections",
-  "workshop.import.ao3.notImported.notes": "Work notes and end notes",
+  "workshop.import.ao3.notImported.notes": "Notes on the whole work",
   "workshop.import.ao3.step.open": "Open your work on AO3. Sign in and open the work you want to move.",
   "workshop.import.ao3.step.download": "Download it as EPUB or HTML. Choose Download, then EPUB or HTML. Save the file somewhere you can find it.",
   "workshop.import.ao3.step.upload": "Upload it to your Workshop. Open Workshop, then Import, and drop the file under Or upload a file from your computer.",
