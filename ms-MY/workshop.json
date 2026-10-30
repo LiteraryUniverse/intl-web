@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Bahagian tidak diperuntukkan {total, number, ::percent}",
   "workshop.revShare.undecided": "Belum membuat keputusan",
   "workshop.collaborators.monetizedNotice": "Cerita ini dimonetisasi.  Para jemputan mesti melengkapkan tetapan pembayaran Stripe sebelum mereka boleh menerimanya.  Anda boleh mencadangkan pembahagian hasil di bawah — ia akan diambil daripada bahagian anda.",
+  "workshop.collaborators.universeShareNotice": "Anda boleh menawarkan sebahagian daripada hasil kelab peminat alam semesta ini. Mereka mesti melengkapkan tetapan pembayaran Stripe sebelum boleh menerima, dan anda menetapkan bahagian akhir dalam perkongsian pendapatan.",
   "workshop.collaborators.proposedSplit": "Cadangan perkongsian hasil (%)",
   "workshop.collaborators.splitFromOwnerShare": "Ini akan diambil daripada saham anda. Tetamu jemputan mesti melengkapkan tetapan pembayaran Stripe sebelum mereka boleh menerimanya.",
   "workshop.monetization.arcManagement": "Alur cerita",

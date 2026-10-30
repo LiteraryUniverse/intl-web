@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Нераспределённая доля {total, number, ::percent}",
   "workshop.revShare.undecided": "Не определено",
   "workshop.collaborators.monetizedNotice": "Эта история монетизирована. Приглашенные должны завершить настройку выплат Stripe, прежде чем они смогут принять приглашение. Вы можете предложить долю дохода ниже - она будет взята из Вашей доли.",
+  "workshop.collaborators.universeShareNotice": "Вы можете предложить долю дохода от фан-клуба этой вселенной. Прежде чем принять предложение, они должны завершить настройку выплат Stripe, а окончательную долю Вы задаете в распределении доходов.",
   "workshop.collaborators.proposedSplit": "Предлагаемая доля дохода (%)",
   "workshop.collaborators.splitFromOwnerShare": "Эта сумма будет взята из Вашей доли. Приглашенный должен завершить настройку выплат Stripe, прежде чем он сможет принять оплату.",
   "workshop.monetization.arcManagement": "Сюжетные дуги",

@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Part no assignada {total, number, ::percent}",
   "workshop.revShare.undecided": "Undecided",
   "workshop.collaborators.monetizedNotice": "Aquesta història està monetitzada. Les persones convidades han de completar la configuració de pagaments de Stripe abans de poder acceptar. A sota pots proposar una part dels ingressos, que es descomptarà de la teva part.",
+  "workshop.collaborators.universeShareNotice": "Pots oferir una part dels ingressos del club de fans d'aquest univers. Les persones convidades han de completar la configuració de pagaments de Stripe abans de poder acceptar, i tu fixes la part final al repartiment d'ingressos.",
   "workshop.collaborators.proposedSplit": "Part dels ingressos proposada (%)",
   "workshop.collaborators.splitFromOwnerShare": "Es descomptarà de la teva part. La persona convidada ha de completar la configuració de pagaments de Stripe abans de poder acceptar.",
   "workshop.monetization.arcManagement": "Arcs de la història",

@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Ontoegewysde aandeel {total, number, ::percent}",
   "workshop.revShare.undecided": "Undecided",
   "workshop.collaborators.monetizedNotice": "Hierdie storie is gemonetiseer. Genooides moet die opstel van Stripe-uitbetalings voltooi voordat hulle kan aanvaar. Jy kan hieronder 'n inkomste-aandeel voorstel — dit sal van jou aandeel afgetrek word.",
+  "workshop.collaborators.universeShareNotice": "Jy kan 'n aandeel van hierdie heelal se aanhangersklub-inkomste aanbied. Hulle moet die opstel van Stripe-uitbetalings voltooi voordat hulle kan aanvaar, en jy bepaal die finale aandeel in die inkomsteverdeling.",
   "workshop.collaborators.proposedSplit": "Voorgestelde inkomste-aandeel (%)",
   "workshop.collaborators.splitFromOwnerShare": "Dit sal van jou aandeel afgetrek word. Die genooide moet die opstel van Stripe-uitbetalings voltooi voordat hulle kan aanvaar.",
   "workshop.monetization.arcManagement": "Storieboë",

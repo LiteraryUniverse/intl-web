@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Unallocated share {total, number, ::percent}",
   "workshop.revShare.undecided": "Undecided",
   "workshop.collaborators.monetizedNotice": "This story is monetized. Invitees must complete Stripe payout setup before they can accept. You can propose a revenue share below — it will be taken from your share.",
+  "workshop.collaborators.universeShareNotice": "ཁྱེད་ཀྱིས་འཛམ་གླིང་འདིའི་དགའ་མཐོང་ཚོགས་པའི་ཡོང་འབབ་ཀྱི་བགོ་བཤའ་ཅིག་འབུལ་ཐུབ། ཁོང་ཚོས་དང་ལེན་མ་བྱས་གོང་ལ་ Stripe ཀྱི་འབབ་སྤྲོད་སྒྲིག་འགོད་མཇུག་བསྒྲིལ་དགོས། མཐའ་མཇུག་གི་བགོ་བཤའ་ནི་ཡོང་འབབ་བགོ་བཤའ་ནང་ཁྱེད་ཀྱིས་གཏན་འཁེལ་བྱེད།",
   "workshop.collaborators.proposedSplit": "Proposed revenue share (%)",
   "workshop.collaborators.splitFromOwnerShare": "This will be taken from your share. The invitee must complete Stripe payout setup before they can accept.",
   "workshop.monetization.arcManagement": "Story arcs",

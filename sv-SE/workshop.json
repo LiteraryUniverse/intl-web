@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Ej fördelad andel {total, number, ::percent}",
   "workshop.revShare.undecided": "Obeslutsam",
   "workshop.collaborators.monetizedNotice": "Denna berättelse är monetariserad. Inbjudna måste slutföra Stripe-utbetalningsinställningen innan de kan acceptera. Du kan föreslå en intäktsandel nedan - den kommer att tas från din andel.",
+  "workshop.collaborators.universeShareNotice": "Du kan erbjuda en andel av det här universumets fanklubbsintäkter. De måste slutföra installationen av Stripe-utbetalningar innan de kan acceptera, och du bestämmer den slutliga andelen i intäktsfördelningen.",
   "workshop.collaborators.proposedSplit": "Föreslagen intäktsandel (%)",
   "workshop.collaborators.splitFromOwnerShare": "Detta kommer att tas från din andel. Den inbjudna personen måste slutföra installationen av Stripe-utbetalningen innan de kan acceptera.",
   "workshop.monetization.arcManagement": "Berättelsebågar",

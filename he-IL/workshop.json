@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "נתח שלא הוקצה {total, number, ::percent}",
   "workshop.revShare.undecided": "טרם הוחלט",
   "workshop.collaborators.monetizedNotice": "סיפור זה מביא רווחים. המוזמנים חייבים להשלים את הגדרת התשלומים ב-Stripe לפני שיוכלו לקבל את ההצעה. תוכל להציע חלוקת רווחים להלן — הסכום ינוכה מהחלק שלך.",
+  "workshop.collaborators.universeShareNotice": "אפשר להציע חלק מהכנסות מועדון המעריצים של היקום הזה. על המוזמנים להשלים את הגדרת התשלום ב-Stripe לפני שיוכלו לאשר, ואת החלק הסופי קובעים בחלוקת ההכנסות.",
   "workshop.collaborators.proposedSplit": "חלוקת הרווחים המוצעת (%)",
   "workshop.collaborators.splitFromOwnerShare": "סכום זה ינוכה מהחלק שלך. על המוזמן להשלים את הגדרת התשלום ב-Stripe לפני שיוכל לאשר את ההזמנה.",
   "workshop.monetization.arcManagement": "קשתות עלילתיות",

@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Jaotamata osa {total, number, ::percent}",
   "workshop.revShare.undecided": "Otsustamata",
   "workshop.collaborators.monetizedNotice": "See lugu on rahaks tehtud. Kutsujad peavad enne vastuvõtmist lõpetama Stripe'i väljamaksete seadistamise. Võite teha ettepaneku tulude jagamiseks allpool - see võetakse teie osakaalust.",
+  "workshop.collaborators.universeShareNotice": "Võite pakkuda osa selle universumi fänniklubi tuludest. Kutsutud peavad enne vastuvõtmist lõpetama Stripe'i väljamakse seadistamise ning lõpliku osakaalu määrate teie tulude jagamises.",
   "workshop.collaborators.proposedSplit": "Kavandatud tulude osakaal (%)",
   "workshop.collaborators.splitFromOwnerShare": "See võetakse teie osast. Kutsuja peab enne vastuvõtmist lõpetama Stripe'i väljamakse seadistamise.",
   "workshop.monetization.arcManagement": "Loosungi kaared",

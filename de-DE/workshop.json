@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Nicht zugewiesener Anteil {total, number, ::percent}",
   "workshop.revShare.undecided": "Nicht entschieden",
   "workshop.collaborators.monetizedNotice": "Diese Geschichte ist kostenpflichtig. Eingeladene müssen die Auszahlung über Stripe einrichten, bevor sie akzeptieren können. Sie können unten eine Umsatzbeteiligung vorschlagen - sie wird von Ihrem Anteil abgezogen.",
+  "workshop.collaborators.universeShareNotice": "Sie können einen Anteil am Umsatz des Fanclubs dieses Universums anbieten. Die Eingeladenen müssen die Stripe-Auszahlung einrichten, bevor sie annehmen können, und den endgültigen Anteil legen Sie in der Aufteilung fest.",
   "workshop.collaborators.proposedSplit": "Vorgeschlagene Umsatzbeteiligung (%)",
   "workshop.collaborators.splitFromOwnerShare": "Dieser Betrag wird von Ihrem Anteil abgezogen. Der Eingeladene muss die Stripe-Auszahlung einrichten, bevor er akzeptieren kann.",
   "workshop.monetization.arcManagement": "Handlungsbögen",

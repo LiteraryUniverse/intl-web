@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Saham yang tidak terisi {total, number, ::percent}",
   "workshop.revShare.undecided": "Ragu-ragu",
   "workshop.collaborators.monetizedNotice": "Cerita ini dimonetisasi. Pengundang harus menyelesaikan pengaturan pembayaran Stripe sebelum dapat menerima. Anda bisa mengajukan bagi hasil di bawah ini - bagi hasil akan diambil dari bagian Anda.",
+  "workshop.collaborators.universeShareNotice": "Anda dapat menawarkan sebagian dari pendapatan fan club universe ini. Mereka harus menyelesaikan pengaturan pembayaran Stripe sebelum dapat menerima, dan Anda menentukan bagian akhir di pembagian pendapatan.",
   "workshop.collaborators.proposedSplit": "Bagi hasil yang diusulkan (%)",
   "workshop.collaborators.splitFromOwnerShare": "Ini akan diambil dari bagian Anda. Penerima undangan harus menyelesaikan pengaturan pembayaran Stripe sebelum dapat menerima.",
   "workshop.monetization.arcManagement": "Alur cerita",

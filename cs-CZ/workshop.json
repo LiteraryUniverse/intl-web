@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Nepřidělený podíl {total, number, ::percent}",
   "workshop.revShare.undecided": "Nerozhodnutý",
   "workshop.collaborators.monetizedNotice": "Tento příběh je zpeněžen. Před přijetím pozvánky musí pozvaní dokončit nastavení výplaty Stripe. Níže můžete navrhnout podíl na příjmech - bude se počítat z vašeho podílu.",
+  "workshop.collaborators.universeShareNotice": "Můžete nabídnout podíl na příjmech fanklubu tohoto univerza. Pozvaní musí před přijetím dokončit nastavení výplaty Stripe a konečný podíl určíte vy v rozdělení příjmů.",
   "workshop.collaborators.proposedSplit": "Navrhovaný podíl na příjmech (%)",
   "workshop.collaborators.splitFromOwnerShare": "Tato částka bude odečtena z vašeho podílu. Před přijetím musí pozvaný dokončit nastavení výplaty Stripe.",
   "workshop.monetization.arcManagement": "Příběhové oblouky",

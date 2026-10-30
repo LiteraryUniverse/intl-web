@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Scair neamh-leithdháilte {total, number, ::percent}",
   "workshop.revShare.undecided": "Gan cinneadh déanta",
   "workshop.collaborators.monetizedNotice": "Tá an scéal seo airgeadaithe. Caithfidh cuireadh faighteoirí socrú íocaíochta Stripe a chur i gcrích sula féidir leo glacadh. Is féidir leat comhroinnt ioncaim a mholadh thíos — tógfar ón do sciar é.",
+  "workshop.collaborators.universeShareNotice": "Is féidir leat sciar d'ioncam club lucht leanúna na cruinne seo a thairiscint. Caithfidh siad socrú íocaíochta Stripe a chur i gcrích sula nglacfaidh siad leis, agus socraíonn tú an sciar deiridh sa roinnt ioncaim.",
   "workshop.collaborators.proposedSplit": "Comhroinnt ioncaim atá molta (%)",
   "workshop.collaborators.splitFromOwnerShare": "Tógfar seo ó do sciar. Caithfidh an t-aoi socrú íocaíochta Stripe a chur i gcrích sula féidir leo glacadh.",
   "workshop.monetization.arcManagement": "Cuaranna scéil",

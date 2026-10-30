@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Unallocated share {total, number, ::percent}",
   "workshop.revShare.undecided": "Undecided",
   "workshop.collaborators.monetizedNotice": "This story is monetized. Invitees must complete Stripe payout setup before they can accept. You can propose a revenue share below — it will be taken from your share.",
+  "workshop.collaborators.universeShareNotice": "ఈ యూనివర్స్ ఫ్యాన్ క్లబ్ ఆదాయంలో కొంత వాటాను మీరు ఆఫర్ చేయవచ్చు. అంగీకరించే ముందు వారు Stripe చెల్లింపు సెటప్ పూర్తి చేయాలి, తుది వాటాను మీరు ఆదాయ భాగస్వామ్యంలో నిర్ణయిస్తారు.",
   "workshop.collaborators.proposedSplit": "Proposed revenue share (%)",
   "workshop.collaborators.splitFromOwnerShare": "This will be taken from your share. The invitee must complete Stripe payout setup before they can accept.",
   "workshop.monetization.arcManagement": "Story arcs",

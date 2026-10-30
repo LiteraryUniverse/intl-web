@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Μη κατανεμημένο μερίδιο {total, number, ::percent}",
   "workshop.revShare.undecided": "Αναποφάσιστοι",
   "workshop.collaborators.monetizedNotice": "Αυτή η ιστορία είναι νομισματοποιημένη. Οι προσκεκλημένοι πρέπει να ολοκληρώσουν τη ρύθμιση πληρωμών Stripe πριν μπορέσουν να αποδεχτούν. Μπορείτε να προτείνετε ένα μερίδιο εσόδων παρακάτω - θα ληφθεί από το μερίδιό σας.",
+  "workshop.collaborators.universeShareNotice": "Μπορείτε να προσφέρετε ένα μερίδιο των εσόδων του fan club αυτού του σύμπαντος. Οι προσκεκλημένοι πρέπει να ολοκληρώσουν τη ρύθμιση πληρωμών Stripe πριν μπορέσουν να αποδεχτούν, και το τελικό μερίδιο το ορίζετε εσείς στην κατανομή εσόδων.",
   "workshop.collaborators.proposedSplit": "Προτεινόμενο μερίδιο εσόδων (%)",
   "workshop.collaborators.splitFromOwnerShare": "Αυτό θα αφαιρεθεί από το μερίδιό σας. Ο προσκεκλημένος πρέπει να ολοκληρώσει τη ρύθμιση πληρωμών Stripe πριν μπορέσει να αποδεχτεί.",
   "workshop.monetization.arcManagement": "Ιστορικά τόξα",

@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Cota nealocată {total, number, ::percent}",
   "workshop.revShare.undecided": "Indeciși",
   "workshop.collaborators.monetizedNotice": "Această poveste este monetizată. Invitații trebuie să finalizeze configurarea plății Stripe înainte de a putea accepta. Puteți propune o cotă de venit mai jos - aceasta va fi luată din cota dvs.",
+  "workshop.collaborators.universeShareNotice": "Puteți oferi o cotă din veniturile clubului de fani al acestui univers. Aceștia trebuie să finalizeze configurarea plății Stripe înainte de a putea accepta, iar cota finală o stabiliți dvs. în împărțirea veniturilor.",
   "workshop.collaborators.proposedSplit": "Cota de venit propusă (%)",
   "workshop.collaborators.splitFromOwnerShare": "Aceasta va fi luată din cota dvs. Invitatul trebuie să finalizeze configurarea plății Stripe înainte de a putea accepta.",
   "workshop.monetization.arcManagement": "Arce de poveste",

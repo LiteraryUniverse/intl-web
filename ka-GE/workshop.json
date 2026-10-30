@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "განაწილებული წილი {total, number, ::percent}",
   "workshop.revShare.undecided": "გადაუწყვეტელი",
   "workshop.collaborators.monetizedNotice": "ეს ამბავი მონეტიზებულია. მოწვეულებმა თანხის გატანის Stripe-ის პარამეტრების დაყენება უნდა დაასრულონ, სანამ თანხმობას იტყვიან. ქვემოთ შეგიძლიათ შემოსავლის განაწილების წინადადება მისცეთ — ის თქვენი წილიდან იქნება გამოქვითული.",
+  "workshop.collaborators.universeShareNotice": "შეგიძლიათ შესთავაზოთ ამ სამყაროს ფანკლუბის შემოსავლის წილი. მიღებამდე მათ უნდა დაასრულონ Stripe-ის გადახდის პარამეტრების დაყენება, ხოლო საბოლოო წილს თქვენ შემოსავლის განაწილებაში განსაზღვრავთ.",
   "workshop.collaborators.proposedSplit": "შემოსავლების განაწილების შემოთავაზებული წილი (%)",
   "workshop.collaborators.splitFromOwnerShare": "ეს თქვენი წილიდან ჩამოიჭრება. მიწვეულმა პირმა თანხის გაცემის Stripe-ის პარამეტრები უნდა დაასრულოს, სანამ თანხმობას განაცხადებს.",
   "workshop.monetization.arcManagement": "სიუჟეტის ხაზები",

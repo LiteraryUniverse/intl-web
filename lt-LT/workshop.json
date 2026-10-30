@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Nepaskirtoji dalis {total, number, ::percent}",
   "workshop.revShare.undecided": "Neapsisprendę",
   "workshop.collaborators.monetizedNotice": "Ši istorija yra monetizuota. Prieš priimdami kvietimus, kviečiamieji turi užbaigti \"Stripe\" mokėjimo nustatymus. Toliau galite pasiūlyti pajamų dalį - ji bus paimta iš jūsų dalies.",
+  "workshop.collaborators.universeShareNotice": "Galite pasiūlyti dalį šios visatos gerbėjų klubo pajamų. Prieš priimdami pakviestieji turi užbaigti Stripe išmokėjimo nustatymą, o galutinę dalį nustatote jūs pajamų paskirstyme.",
   "workshop.collaborators.proposedSplit": "Siūloma pajamų dalis (%)",
   "workshop.collaborators.splitFromOwnerShare": "Ši suma bus paimta iš jūsų dalies. Prieš priimdamas pakviestasis turi užbaigti \"Stripe\" išmokėjimo nustatymą.",
   "workshop.monetization.arcManagement": "Istorijos lankai",

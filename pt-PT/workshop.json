@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Partilha não atribuída {total, number, ::percent}",
   "workshop.revShare.undecided": "Indecidido",
   "workshop.collaborators.monetizedNotice": "Esta história é monetizada. Os convidados devem concluir a configuração de pagamento do Stripe antes de poderem aceitar. Pode propor uma participação nos lucros abaixo - esta será retirada da sua participação.",
+  "workshop.collaborators.universeShareNotice": "Pode oferecer uma quota das receitas do clube de fãs deste universo. Têm de concluir a configuração do pagamento Stripe antes de poderem aceitar, e define a quota final na repartição das receitas.",
   "workshop.collaborators.proposedSplit": "Quota de receitas proposta (%)",
   "workshop.collaborators.splitFromOwnerShare": "Este valor será retirado da sua quota. O convidado tem de concluir a configuração do pagamento Stripe antes de poder aceitar.",
   "workshop.monetization.arcManagement": "Arcos de histórias",

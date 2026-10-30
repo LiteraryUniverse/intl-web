@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Hindi pa nailalaang bahagi {total, number, ::percent}",
   "workshop.revShare.undecided": "Undecided",
   "workshop.collaborators.monetizedNotice": "Pinagkakakitaan ang kwentong ito. Dapat kumpletuhin ng mga inimbitahan ang pag-setup ng Stripe payout bago sila makatanggap. Maaari kang magmungkahi ng bahagi sa kita sa ibaba — kukunin ito mula sa iyong bahagi.",
+  "workshop.collaborators.universeShareNotice": "Maaari kang mag-alok ng bahagi sa kita ng fan club ng uniberso na ito. Dapat nilang kumpletuhin ang pag-setup ng Stripe payout bago nila matanggap ang alok, at ikaw ang magtatakda ng huling bahagi sa hatian ng kita.",
   "workshop.collaborators.proposedSplit": "Iminumungkahing bahagi sa kita (%)",
   "workshop.collaborators.splitFromOwnerShare": "Kukunin ito mula sa iyong bahagi. Dapat kumpletuhin ng inimbitahan ang pag-setup ng Stripe payout bago siya makatanggap.",
   "workshop.monetization.arcManagement": "Mga arc ng kwento",

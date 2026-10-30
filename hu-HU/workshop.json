@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Fel nem osztott részesedés {total, number, ::percent}",
   "workshop.revShare.undecided": "Határozatlan",
   "workshop.collaborators.monetizedNotice": "Ez a történet pénzzé vált. A meghívottaknak el kell végezniük a Stripe kifizetés beállítását, mielőtt elfogadnák. A bevételrészesedést alább javasolhatod - azt a te részedből vesszük le.",
+  "workshop.collaborators.universeShareNotice": "Felajánlhatja ennek az univerzumnak a rajongói klubbevételéből egy részt. A meghívottaknak be kell fejezniük a Stripe kifizetés beállítását, mielőtt elfogadhatnák az ajánlatot, a végleges részesedést pedig ön a bevételmegosztásban állítja be.",
   "workshop.collaborators.proposedSplit": "Javasolt bevételi részesedés (%)",
   "workshop.collaborators.splitFromOwnerShare": "Ezt az ön részéből fogják levonni. A meghívottnak el kell végeznie a Stripe kifizetés beállítását, mielőtt elfogadná.",
   "workshop.monetization.arcManagement": "Történeti ívek",

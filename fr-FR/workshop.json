@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Partage non alloué {total, number, ::percent}",
   "workshop.revShare.undecided": "Indécis",
   "workshop.collaborators.monetizedNotice": "Cette histoire est monétisée. Les invités doivent effectuer la configuration du paiement Stripe avant de pouvoir accepter. Vous pouvez proposer une part de revenus ci-dessous - elle sera prélevée sur votre part.",
+  "workshop.collaborators.universeShareNotice": "Vous pouvez proposer une part des revenus du club de fans de cet univers. Les invités doivent compléter la configuration du paiement Stripe avant de pouvoir accepter, et vous fixez la part définitive dans la répartition des revenus.",
   "workshop.collaborators.proposedSplit": "Part de revenus proposée (%)",
   "workshop.collaborators.splitFromOwnerShare": "Ce montant sera prélevé sur votre part. L'invité doit compléter la configuration du paiement Stripe avant de pouvoir accepter.",
   "workshop.monetization.arcManagement": "Arcs narratifs",

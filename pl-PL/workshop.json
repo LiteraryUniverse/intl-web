@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Nieprzydzielony udział {total, number, ::percent}",
   "workshop.revShare.undecided": "Niezdecydowany",
   "workshop.collaborators.monetizedNotice": "Ta historia jest płatna. Zaproszeni muszą ukończyć konfigurację wypłat Stripe, zanim będą mogli je zaakceptować. Mogą Państwo zaproponować udział w przychodach poniżej - zostanie on pobrany z Państwa udziału.",
+  "workshop.collaborators.universeShareNotice": "Mogą Państwo zaproponować udział w przychodach z fanklubu tego uniwersum. Zaproszone osoby muszą ukończyć konfigurację wypłat Stripe, zanim przyjmą ofertę, a ostateczny udział ustalają Państwo w podziale przychodów.",
   "workshop.collaborators.proposedSplit": "Proponowany udział w przychodach (%)",
   "workshop.collaborators.splitFromOwnerShare": "Zostanie ona pobrana z Państwa udziału. Osoba zaproszona musi ukończyć konfigurację wypłaty Stripe, zanim będzie mogła ją zaakceptować.",
   "workshop.monetization.arcManagement": "Łuki fabularne",

@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Phần chưa được phân bổ {total, number, ::percent}",
   "workshop.revShare.undecided": "Chưa quyết định",
   "workshop.collaborators.monetizedNotice": "Bài viết này có tính phí. Người được mời phải hoàn tất thiết lập thanh toán qua Stripe trước khi có thể chấp nhận. Bạn có thể đề xuất tỷ lệ chia sẻ doanh thu ở phần dưới đây — số tiền này sẽ được trừ vào phần chia sẻ của bạn.",
+  "workshop.collaborators.universeShareNotice": "Bạn có thể đề xuất một phần doanh thu câu lạc bộ người hâm mộ của vũ trụ này. Họ phải hoàn tất thiết lập thanh toán qua Stripe trước khi có thể chấp nhận, và bạn đặt phần chia cuối cùng trong mục Chia sẻ doanh thu.",
   "workshop.collaborators.proposedSplit": "Tỷ lệ chia sẻ doanh thu đề xuất (%)",
   "workshop.collaborators.splitFromOwnerShare": "Số tiền này sẽ được trừ vào phần chia của bạn. Người được mời phải hoàn tất thiết lập thanh toán qua Stripe trước khi có thể chấp nhận.",
   "workshop.monetization.arcManagement": "Các mạch truyện",

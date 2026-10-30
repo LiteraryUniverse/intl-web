@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "الحصة غير المخصصة {total, number, ::percent}",
   "workshop.revShare.undecided": "لم يحسم أمره",
   "workshop.collaborators.monetizedNotice": "هذه القصة ذات طابع نقدي. يجب على المدعوين إكمال إعداد الدفع عبر Stripe قبل أن يتمكنوا من القبول. يمكنك اقتراح حصة الإيرادات أدناه - سيتم أخذها من حصتك.",
+  "workshop.collaborators.universeShareNotice": "يمكنك عرض حصة من إيرادات نادي المعجبين الخاص بهذا الكون. يجب على المدعوين إكمال إعداد الدفع على Stripe قبل أن يتمكنوا من القبول، وأنت تحدد الحصة النهائية في تقاسم الإيرادات.",
   "workshop.collaborators.proposedSplit": "حصة الإيرادات المقترحة (%)",
   "workshop.collaborators.splitFromOwnerShare": "سيتم أخذ هذا من حصتك. يجب على المدعو إكمال إعداد الدفع على Stripe قبل أن يتمكن من القبول.",
   "workshop.monetization.arcManagement": "أقواس القصة",

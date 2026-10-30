@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Ikke-allokeret andel {total, number, ::percent}",
   "workshop.revShare.undecided": "Ubeslutsom",
   "workshop.collaborators.monetizedNotice": "Der tjenes penge på denne historie. Inviterede skal færdiggøre opsætningen af Stripe-udbetalingen, før de kan acceptere. Du kan foreslå en indtægtsandel nedenfor - den vil blive taget fra din andel.",
+  "workshop.collaborators.universeShareNotice": "Du kan tilbyde en andel af indtægterne fra dette univers' fanklub. De skal gennemføre opsætningen af Stripe-udbetalinger, før de kan acceptere, og du fastsætter den endelige andel i indtægtsdelingen.",
   "workshop.collaborators.proposedSplit": "Foreslået indtægtsandel (%)",
   "workshop.collaborators.splitFromOwnerShare": "Dette vil blive taget fra din andel. Den inviterede skal gennemføre opsætningen af Stripe-udbetalingen, før de kan acceptere.",
   "workshop.monetization.arcManagement": "Historiebuer",

@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "Nedisdonita parto {total, number, ::percent}",
   "workshop.revShare.undecided": "Undecided",
   "workshop.collaborators.monetizedNotice": "Ĉi tiu rakonto estas monetigita. Invititoj devas kompletigi la agordon de Stripe-elpagoj, antaŭ ol ili povos akcepti. Vi povas proponi dividon de enspezoj ĉi-sube — ĝi estos prenita el via parto.",
+  "workshop.collaborators.universeShareNotice": "Vi povas proponi parton de la enspezoj de la fanklubo de ĉi tiu universo. Ili devas kompletigi la agordon de Stripe-elpagoj, antaŭ ol ili povos akcepti, kaj vi difinas la finan parton en la divido de enspezoj.",
   "workshop.collaborators.proposedSplit": "Proponata divido de enspezoj (%)",
   "workshop.collaborators.splitFromOwnerShare": "Tio estos prenita el via parto. La invitito devas kompletigi la agordon de Stripe-elpagoj, antaŭ ol li aŭ ŝi povos akcepti.",
   "workshop.monetization.arcManagement": "Rakontaj arkoj",

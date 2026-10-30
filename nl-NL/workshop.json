@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Niet-toegewezen aandeel {total, number, ::percent}",
   "workshop.revShare.undecided": "Onbeslist",
   "workshop.collaborators.monetizedNotice": "Voor dit verhaal wordt geld betaald. Uitgenodigden moeten de Stripe uitbetalingsinstellingen voltooien voordat ze kunnen accepteren. U kunt hieronder een inkomstenaandeel voorstellen - het zal van uw aandeel worden afgehaald.",
+  "workshop.collaborators.universeShareNotice": "U kunt een deel van de fanclubinkomsten van dit universum aanbieden. Ze moeten de Stripe-uitbetaling hebben ingesteld voordat ze kunnen accepteren, en u bepaalt het uiteindelijke aandeel in de inkomstenverdeling.",
   "workshop.collaborators.proposedSplit": "Voorgesteld aandeel in de inkomsten (%)",
   "workshop.collaborators.splitFromOwnerShare": "Dit wordt van uw aandeel afgehaald. De genodigde moet de Stripe betalingsinstelling voltooien voordat hij/zij kan accepteren.",
   "workshop.monetization.arcManagement": "Verhaalreeksen",

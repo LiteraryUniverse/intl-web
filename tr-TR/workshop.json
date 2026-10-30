@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "Ayrılmamış pay {total, number, ::percent}",
   "workshop.revShare.undecided": "Kararsızım",
   "workshop.collaborators.monetizedNotice": "Bu hikayeden para kazanılmaktadır. Davetliler kabul etmeden önce Stripe ödeme kurulumunu tamamlamalıdır. Aşağıda bir gelir payı önerebilirsiniz - bu sizin payınızdan alınacaktır.",
+  "workshop.collaborators.universeShareNotice": "Bu evrenin hayran kulübü gelirinden bir pay teklif edebilirsiniz. Kabul etmeden önce Stripe ödeme kurulumunu tamamlamaları gerekir, nihai payı ise gelir paylaşımında siz belirlersiniz.",
   "workshop.collaborators.proposedSplit": "Önerilen gelir payı (%)",
   "workshop.collaborators.splitFromOwnerShare": "Bu sizin payınızdan alınacaktır. Davetlinin kabul etmeden önce Stripe ödeme kurulumunu tamamlaması gerekir.",
   "workshop.monetization.arcManagement": "Hikaye yayları",

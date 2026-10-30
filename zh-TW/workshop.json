@@ -556,6 +556,7 @@
   "workshop.revShare.unallocated": "未分配的份額 {total, number, ::percent}",
   "workshop.revShare.undecided": "未決定",
   "workshop.collaborators.monetizedNotice": "本故事已付費。受邀者必須先完成 Stripe 付款設定，才能接受。您可以在下方提出收入分成 - 它將從您的分成中抽取。",
+  "workshop.collaborators.universeShareNotice": "您可以提供此宇宙粉絲俱樂部收益的一部分。對方必須先完成 Stripe 付款設定才能接受，最終份額則由您在收益分成中決定。",
   "workshop.collaborators.proposedSplit": "建議的收入比例 (%)",
   "workshop.collaborators.splitFromOwnerShare": "這筆款項將從您的份額中扣除。受邀者必須先完成 Stripe 付款設定，才能接受。",
   "workshop.monetization.arcManagement": "故事篇章",

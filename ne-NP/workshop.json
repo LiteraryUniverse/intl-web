@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "अनआबंटित शेयर {total, number, ::percent}",
   "workshop.revShare.undecided": "निर्णय हुन बाँकी",
   "workshop.collaborators.monetizedNotice": "यो कथाबाट आम्दानी गरिन्छ।   आमन्त्रितहरूले स्वीकार गर्नु अघि Stripe भुक्तानी सेटअप पूरा गर्नुपर्छ।   तपाईं तल राजस्व बाँडफाँड प्रस्ताव गर्न सक्नुहुन्छ — यो तपाईंको हिस्साबाट काटिनेछ।",
+  "workshop.collaborators.universeShareNotice": "तपाईं यो युनिभर्सको फ्यान क्लबको राजस्वको एक हिस्सा प्रस्ताव गर्न सक्नुहुन्छ। स्वीकार गर्नु अघि उनीहरूले Stripe भुक्तानी सेटअप पूरा गर्नुपर्छ, र अन्तिम हिस्सा तपाईंले राजस्व बाँडफाँडमा तय गर्नुहुन्छ।",
   "workshop.collaborators.proposedSplit": "प्रस्तावित राजस्व हिस्सा (%)",
   "workshop.collaborators.splitFromOwnerShare": "यो तपाईंको हिस्साबाट काटिनेछ। निमन्त्रितले स्वीकार गर्नु अघि Stripe भुक्तानी सेटअप पूरा गर्नुपर्छ।",
   "workshop.monetization.arcManagement": "कथाका क्रमहरू",

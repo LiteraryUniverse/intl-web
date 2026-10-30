@@ -566,6 +566,7 @@
   "workshop.revShare.unallocated": "ਅਣਵੰਡਿਆ ਹਿੱਸਾ {total, number, ::percent}",
   "workshop.revShare.undecided": "ਫੈਸਲਾ ਨਹੀਂ ਹੋਇਆ",
   "workshop.collaborators.monetizedNotice": "ਇਹ ਕਹਾਣੀ ਮੋਨੇਟਾਈਜ਼ ਕੀਤੀ ਗਈ ਹੈ।   ਸੱਦੇ ਗਏ ਵਿਅਕਤੀਆਂ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Stripe ਭੁਗਤਾਨ ਸੈਟਅਪ ਪੂਰਾ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ।   ਤੁਸੀਂ ਹੇਠਾਂ ਆਮਦਨ ਵੰਡ ਦਾ ਪ੍ਰਸਤਾਵ ਦੇ ਸਕਦੇ ਹੋ — ਇਹ ਤੁਹਾਡੇ ਹਿੱਸੇ ਵਿੱਚੋਂ ਕੱਢਿਆ ਜਾਵੇਗਾ।",
+  "workshop.collaborators.universeShareNotice": "ਤੁਸੀਂ ਇਸ ਯੂਨੀਵਰਸ ਦੇ ਫੈਨ ਕਲੱਬ ਦੀ ਆਮਦਨ ਦੇ ਹਿੱਸੇ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰ ਸਕਦੇ ਹੋ। ਸਵੀਕਾਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਉਨ੍ਹਾਂ ਨੂੰ Stripe ਭੁਗਤਾਨ ਸੈਟਅਪ ਪੂਰਾ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ, ਅਤੇ ਅੰਤਿਮ ਹਿੱਸਾ ਤੁਸੀਂ ਆਮਦਨ ਦੀ ਵੰਡ ਵਿੱਚ ਤੈਅ ਕਰਦੇ ਹੋ।",
   "workshop.collaborators.proposedSplit": "ਪ੍ਰਸਤਾਵਿਤ ਆਮਦਨ ਵੰਡ (%)",
   "workshop.collaborators.splitFromOwnerShare": "ਇਹ ਤੁਹਾਡੇ ਹਿੱਸੇ ਵਿੱਚੋਂ ਕੱਟਿਆ ਜਾਵੇਗਾ।   ਨਿਯੋਤਾ ਸਵੀਕਾਰ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Stripe ਭੁਗਤਾਨ ਸੈਟਅਪ ਪੂਰਾ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ।",
   "workshop.monetization.arcManagement": "ਕਹਾਣੀ ਦੇ ਮੋੜ",
