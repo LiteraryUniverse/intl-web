@@ -92,7 +92,7 @@
   "comics.import.tapas": "Tapas dışa aktarımını içe aktar (.zip)",
   "comics.import.done": "{count, plural, one {# epizot bölüm olarak içe aktarıldı.} other {# epizot bölüm olarak içe aktarıldı.}} Tapas'ın kilitli tuttuğu epizotlar dışarıda bırakıldı. Bu sayfaları kendi dosyalarınızdan yükleyin.",
   "comics.import.doneOf": "{total, plural, one {# epizottan} other {# epizottan}} {count, number} tanesi bölüm olarak içe aktarıldı.",
-  "comics.import.leftOut": "{count, plural, one {Kilitli # epizot dışarıda bırakıldı.} other {Kilitli # epizot dışarıda bırakıldı.}} Bu sayfaları kendi dosyalarınızdan yükleyin.",
+  "comics.import.leftOut": "{count, plural, one {# epizot dışarıda bırakıldı.} other {# epizot dışarıda bırakıldı.}} Bu sayfaları kendi dosyalarınızdan yükleyin.",
   "comics.pages": "sayfa",
   "comics.pages.add": "+ Sayfa ekle",
   "comics.pages.delete": "Sayfayı sil",

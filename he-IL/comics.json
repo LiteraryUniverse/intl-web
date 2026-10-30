@@ -92,7 +92,7 @@
   "comics.import.tapas": "ייבוא קובץ ייצוא של Tapas (.zip)",
   "comics.import.done": "{count, plural, one {אפיזודה אחת יובאה כפרק.} two {# אפיזודות יובאו כפרקים.} other {# אפיזודות יובאו כפרקים.}} אפיזודות ש-Tapas השאיר נעולות לא נכללו. העלו את העמודים האלה מהקבצים שלכם.",
   "comics.import.doneOf": "{count, number} מתוך {total, plural, one {אפיזודה אחת} two {# אפיזודות} other {# אפיזודות}} יובאו כפרקים.",
-  "comics.import.leftOut": "{count, plural, one {אפיזודה נעולה אחת לא נכללה.} two {# אפיזודות נעולות לא נכללו.} other {# אפיזודות נעולות לא נכללו.}} העלו את העמודים האלה מהקבצים שלכם.",
+  "comics.import.leftOut": "{count, plural, one {אפיזודה אחת לא נכללה.} two {# אפיזודות לא נכללו.} other {# אפיזודות לא נכללו.}} העלו את העמודים האלה מהקבצים שלכם.",
   "comics.pages": "עמודים",
   "comics.pages.add": "+ הוספת עמודים",
   "comics.pages.delete": "מחיקת העמוד",

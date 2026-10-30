@@ -92,7 +92,7 @@
   "comics.import.tapas": "Impordi Tapase eksport (.zip)",
   "comics.import.done": "{count, plural, one {# episood imporditi peatükina.} other {# episoodi imporditi peatükkidena.}} Episoodid, mille Tapas lukku jättis, jäeti välja. Laadi nende leheküljed üles oma failidest.",
   "comics.import.doneOf": "{total, plural, one {# episoodist} other {# episoodist}} imporditi peatükkidena {count, number}.",
-  "comics.import.leftOut": "{count, plural, one {# lukus episood jäeti välja.} other {# lukus episoodi jäeti välja.}} Laadi nende leheküljed üles oma failidest.",
+  "comics.import.leftOut": "{count, plural, one {# episood jäeti välja.} other {# episoodi jäeti välja.}} Laadi nende leheküljed üles oma failidest.",
   "comics.pages": "lehed",
   "comics.pages.add": "+ Lisa lehti",
   "comics.pages.delete": "Kustuta leht",

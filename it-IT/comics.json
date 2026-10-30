@@ -92,7 +92,7 @@
   "comics.import.tapas": "Importa un’esportazione da Tapas (.zip)",
   "comics.import.done": "{count, plural, one {È stato importato # episodio come capitolo.} many {Sono stati importati # di episodi come capitoli.} other {Sono stati importati # episodi come capitoli.}} Gli episodi che Tapas teneva bloccati sono stati esclusi. Carica quelle pagine dai tuoi file.",
   "comics.import.doneOf": "Sono stati importati {count, number} di {total, plural, one {# episodio} many {# di episodi} other {# episodi}} come capitoli.",
-  "comics.import.leftOut": "{count, plural, one {È stato escluso # episodio bloccato.} many {Sono stati esclusi # di episodi bloccati.} other {Sono stati esclusi # episodi bloccati.}} Carica quelle pagine dai tuoi file.",
+  "comics.import.leftOut": "{count, plural, one {È stato escluso # episodio.} many {Sono stati esclusi # di episodi.} other {Sono stati esclusi # episodi.}} Carica quelle pagine dai tuoi file.",
   "comics.pages": "pagine",
   "comics.pages.add": "+ Aggiungi pagine",
   "comics.pages.delete": "Elimina pagina",

@@ -92,7 +92,7 @@
   "comics.import.tapas": "Importuoti „Tapas“ eksportą (.zip)",
   "comics.import.done": "{count, plural, one {# epizodas importuotas kaip skyrius.} few {# epizodai importuoti kaip skyriai.} many {# epizodo importuota kaip skyrių.} other {# epizodų importuota kaip skyrių.}} Epizodai, kuriuos Tapas laikė užrakintus, praleisti. Tuos puslapius įkelkite iš savo failų.",
   "comics.import.doneOf": "{count, number} iš {total, plural, one {# epizodo} few {# epizodų} many {# epizodo} other {# epizodų}} importuota kaip skyriai.",
-  "comics.import.leftOut": "{count, plural, one {# užrakintas epizodas praleistas.} few {# užrakinti epizodai praleisti.} many {# užrakinto epizodo praleista.} other {# užrakintų epizodų praleista.}} Tuos puslapius įkelkite iš savo failų.",
+  "comics.import.leftOut": "{count, plural, one {# epizodas praleistas.} few {# epizodai praleisti.} many {# epizodo praleista.} other {# epizodų praleista.}} Tuos puslapius įkelkite iš savo failų.",
   "comics.pages": "puslapiai",
   "comics.pages.add": "+ Pridėti puslapių",
   "comics.pages.delete": "Ištrinti puslapį",

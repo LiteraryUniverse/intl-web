@@ -92,7 +92,7 @@
   "comics.import.tapas": "Tapas のエクスポートをインポート (.zip)",
   "comics.import.done": "{count, plural, other {#件のエピソードを章としてインポートしました。}}Tapas でロックされたままのエピソードは含まれていません。そのページは、お手元のファイルからアップロードしてください。",
   "comics.import.doneOf": "{total, plural, other {#件のエピソード}}のうち{count, number}件を章としてインポートしました。",
-  "comics.import.leftOut": "{count, plural, other {ロックされた#件のエピソードは含まれていません。}}そのページは、お手元のファイルからアップロードしてください。",
+  "comics.import.leftOut": "{count, plural, other {#件のエピソードは含まれていません。}}そのページは、お手元のファイルからアップロードしてください。",
   "comics.pages": "ページ",
   "comics.pages.add": "＋ ページを追加",
   "comics.pages.delete": "ページを削除",

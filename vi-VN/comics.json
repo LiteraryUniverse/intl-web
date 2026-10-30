@@ -92,7 +92,7 @@
   "comics.import.tapas": "Nhập bản xuất từ Tapas (.zip)",
   "comics.import.done": "{count, plural, other {Đã nhập # tập thành chương.}} Những tập mà Tapas vẫn khóa đã bị bỏ qua. Hãy tải các trang đó lên từ tệp của riêng bạn.",
   "comics.import.doneOf": "Đã nhập {count, number} trên {total, plural, other {# tập}} thành chương.",
-  "comics.import.leftOut": "{count, plural, other {# tập bị khóa đã bị bỏ qua.}} Hãy tải các trang đó lên từ tệp của riêng bạn.",
+  "comics.import.leftOut": "{count, plural, other {# tập đã bị bỏ qua.}} Hãy tải các trang đó lên từ tệp của riêng bạn.",
   "comics.pages": "trang",
   "comics.pages.add": "+ Thêm trang",
   "comics.pages.delete": "Xóa trang",

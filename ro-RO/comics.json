@@ -92,7 +92,7 @@
   "comics.import.tapas": "Importă un export Tapas (.zip)",
   "comics.import.done": "{count, plural, one {A fost importat # episod drept capitol.} few {Au fost importate # episoade drept capitole.} other {Au fost importate # de episoade drept capitole.}} Episoadele pe care Tapas le ținea blocate au fost omise. Încarcă acele pagini din propriile fișiere.",
   "comics.import.doneOf": "Au fost importate {count, number} din {total, plural, one {# episod} few {# episoade} other {# de episoade}} drept capitole.",
-  "comics.import.leftOut": "{count, plural, one {# episod blocat a fost omis.} few {# episoade blocate au fost omise.} other {# de episoade blocate au fost omise.}} Încarcă acele pagini din propriile fișiere.",
+  "comics.import.leftOut": "{count, plural, one {# episod a fost omis.} few {# episoade au fost omise.} other {# de episoade au fost omise.}} Încarcă acele pagini din propriile fișiere.",
   "comics.pages": "pagini",
   "comics.pages.add": "+ Adaugă pagini",
   "comics.pages.delete": "Șterge pagina",

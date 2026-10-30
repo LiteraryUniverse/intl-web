@@ -92,7 +92,7 @@
   "comics.import.tapas": "Een Tapas-export importeren (.zip)",
   "comics.import.done": "{count, plural, one {# aflevering is als hoofdstuk geïmporteerd.} other {# afleveringen zijn als hoofdstukken geïmporteerd.}} Afleveringen die Tapas vergrendeld hield, zijn weggelaten. Upload die pagina's vanuit je eigen bestanden.",
   "comics.import.doneOf": "{count, number} van {total, plural, one {# aflevering} other {# afleveringen}} als hoofdstukken geïmporteerd.",
-  "comics.import.leftOut": "{count, plural, one {# vergrendelde aflevering is weggelaten.} other {# vergrendelde afleveringen zijn weggelaten.}} Upload die pagina's vanuit je eigen bestanden.",
+  "comics.import.leftOut": "{count, plural, one {# aflevering is weggelaten.} other {# afleveringen zijn weggelaten.}} Upload die pagina's vanuit je eigen bestanden.",
   "comics.pages": "pagina's",
   "comics.pages.add": "+ Pagina's toevoegen",
   "comics.pages.delete": "Pagina verwijderen",

@@ -238,7 +238,7 @@
   "tapas.guide.step.key": "選擇匯出要送到哪裡。在 Send to other services 下選擇 Literary Universe；如果您是讀者，而且您買過的系列在 Manta 的 Move Your Bookshelf 清單上，也一併選擇 Manta。要送到 Literary Universe，請開啟設定，接著開啟帳戶，在 API 金鑰下選擇建立新的 API 金鑰。將它命名為 Tapas migrator，創作者勾選 story:write，讀者勾選 library:write，建立後複製金鑰；金鑰只會顯示一次。把它貼到表單的 Literary Universe API key 欄位。如果您想自己下載檔案，可以略過這一步。",
   "tapas.guide.step.run": "按下 Start 並等待。小說只需幾分鐘。有數百集的長篇漫畫可能需要一小時以上，因為每一頁圖片都會以原尺寸下載。您可以關閉分頁；執行會繼續，Log（記錄）分頁會顯示它正在做什麼。完成時會變成綠色。",
   "tapas.guide.step.novel": "匯入小說。開啟您的工作坊，選擇「匯入」，在「準備匯入」下找到您的系列。Apify 的免費方案只會保留檔案七天，請在一週內完成。按匯入此檔案，在預覽中確認章節看起來正確，為故事設定語言、分級與授權，然後匯入。每一集 Tapas 內容都會成為一個帶有標題的章節。",
-  "tapas.guide.step.comic": "匯入漫畫。先在工作坊建立漫畫，選擇格式（條漫、日式漫畫或分頁）與授權；漫畫屬於 Storyteller 方案。接著開啟它的章節清單，在「來自 Tapas 的檔案」下找到系列，按匯入此檔案。每一集都會成為一個章節，頁面依序排列。Tapas 仍鎖定的集數會被略過；請從您自己的檔案上傳那些頁面。",
+  "tapas.guide.step.comic": "匯入漫畫。先在工作坊建立漫畫，選擇格式（條漫、日式漫畫或分頁）與授權；漫畫屬於 Storyteller 方案。接著開啟它的章節清單，在「來自 Tapas 的檔案」下找到系列，按匯入此檔案。Apify 的免費方案只會保留檔案七天，請在一週內完成。每一集都會成為一個章節，頁面依序排列。Tapas 仍鎖定的集數會被略過；請從您自己的檔案上傳那些頁面。",
   "tapas.guide.step.reader": "讀者：保留您的紀錄。選擇 Literary Universe 時，執行會把您的購買紀錄（您在每個系列解鎖的集數與您的 Ink 紀錄）送到您的帳戶，您隨時都能從這裡的 Tapas 頁面再次下載，Tapas 關閉後也可以。執行結束後，Apify 的 Storage（儲存空間）也會留下一個 zip，裡面有您的閱讀清單、Ink 交易與您能閱讀的集數，小說為 HTML，漫畫為頁面圖片；請下載並保存。選擇 Manta 時，manta-move-your-bookshelf.json 會列出 Manta 接受的系列，以及要填入其表單的集數範圍。",
   "tapas.guide.faq.captcha.q": "執行中止，顯示 Tapas 要求 reCAPTCHA。該怎麼辦？",
   "tapas.guide.faq.captcha.a": "當登入來自伺服器時，Tapas 有時會要求真人驗證。有兩個辦法。最簡單的是把您的瀏覽器工作階段交給搬家工具：在已登入 Tapas 的瀏覽器中按 F12 開啟開發人員工具，選擇 Network（網路）分頁，重新整理頁面，點選第一列寫著 tapas.io 的項目，在它的 Request headers（要求標頭）中捲到名為 cookie 的那一行，複製後面的全部內容，貼到 Tapas cookies 欄位。另一個辦法是到 2captcha.com 註冊帳戶，把金鑰貼到 2Captcha API key 欄位；它解一次驗證大約三分之一美分。",

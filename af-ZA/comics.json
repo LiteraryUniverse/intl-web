@@ -92,7 +92,7 @@
   "comics.import.tapas": "Voer 'n Tapas-uitvoer in (.zip)",
   "comics.import.done": "{count, plural, one {# episode is as ’n hoofstuk ingevoer.} other {# episodes is as hoofstukke ingevoer.}} Episodes wat Tapas gesluit gehou het, is uitgelaat. Laai daardie bladsye uit jou eie lêers op.",
   "comics.import.doneOf": "{count, number} van {total, plural, one {# episode} other {# episodes}} is as hoofstukke ingevoer.",
-  "comics.import.leftOut": "{count, plural, one {# geslote episode is uitgelaat.} other {# geslote episodes is uitgelaat.}} Laai daardie bladsye uit jou eie lêers op.",
+  "comics.import.leftOut": "{count, plural, one {# episode is uitgelaat.} other {# episodes is uitgelaat.}} Laai daardie bladsye uit jou eie lêers op.",
   "comics.pages": "bladsye",
   "comics.pages.add": "+ Voeg bladsye by",
   "comics.pages.delete": "Verwyder bladsy",

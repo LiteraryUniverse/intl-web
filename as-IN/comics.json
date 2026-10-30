@@ -92,7 +92,7 @@
   "comics.import.tapas": "Import a Tapas export (.zip)",
   "comics.import.done": "{count, plural, one {# episode was imported as a chapter.} other {# episodes were imported as chapters.}} Episodes Tapas kept locked were left out. Upload those pages from your own files.",
   "comics.import.doneOf": "{count, number} of {total, plural, one {# episode} other {# episodes}} imported as chapters.",
-  "comics.import.leftOut": "{count, plural, one {# locked episode was left out.} other {# locked episodes were left out.}} Upload those pages from your own files.",
+  "comics.import.leftOut": "{count, plural, one {# episode was left out.} other {# episodes were left out.}} Upload those pages from your own files.",
   "comics.pages": "পৃষ্ঠা",
   "comics.pages.add": "+ পৃষ্ঠা যোগ কৰক",
   "comics.pages.delete": "পৃষ্ঠা ডিলিট কৰক",

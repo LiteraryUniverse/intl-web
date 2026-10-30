@@ -92,7 +92,7 @@
   "comics.import.tapas": "Importer en Tapas-eksport (.zip)",
   "comics.import.done": "{count, plural, one {# episode ble importert som et kapittel.} other {# episoder ble importert som kapitler.}} Episoder som Tapas holdt låst, ble utelatt. Last opp disse sidene fra dine egne filer.",
   "comics.import.doneOf": "{count, number} av {total, plural, one {# episode} other {# episoder}} ble importert som kapitler.",
-  "comics.import.leftOut": "{count, plural, one {# låst episode ble utelatt.} other {# låste episoder ble utelatt.}} Last opp disse sidene fra dine egne filer.",
+  "comics.import.leftOut": "{count, plural, one {# episode ble utelatt.} other {# episoder ble utelatt.}} Last opp disse sidene fra dine egne filer.",
   "comics.pages": "sider",
   "comics.pages.add": "+ Legg til sider",
   "comics.pages.delete": "Slett side",
