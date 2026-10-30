@@ -40,5 +40,20 @@
   "events.section.details": "Podrobnosti",
   "events.section.whenWhere": "Kedy a kde",
   "events.section.who": "Kto ju uvidí",
-  "events.admin.intro": "Udalosti sa zobrazujú na vašom blogu pre vašich čitateľov. Vytvorte udalosť a nastavte dátum, miesto a kto ju uvidí."
+  "events.admin.intro": "Udalosti sa zobrazujú na vašom blogu pre vašich čitateľov. Vytvorte udalosť a nastavte dátum, miesto a kto ju uvidí.",
+  "events.details.language": "Hlavný jazyk",
+  "events.admin.filter": "Filtrovať udalosti",
+  "events.admin.upcoming": "Nadchádzajúce",
+  "events.admin.past": "Minulé",
+  "events.admin.noUpcoming": "Žiadne nadchádzajúce udalosti.",
+  "events.admin.noPast": "Žiadne minulé udalosti.",
+  "events.admin.col.event": "Udalosť",
+  "events.admin.col.when": "Kedy",
+  "events.admin.col.languages": "Jazyky",
+  "events.admin.view": "Zobraziť udalosť",
+  "events.admin.edit": "Upraviť udalosť",
+  "events.edit.title": "Upraviť udalosť",
+  "events.notFound": "Táto udalosť neexistuje.",
+  "events.translation.remove": "Odstrániť preklad",
+  "events.translation.removeConfirm": "Odstrániť tento preklad?"
 }

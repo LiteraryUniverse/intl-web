@@ -40,5 +40,20 @@
   "events.section.details": "التفاصيل",
   "events.section.whenWhere": "الزمان والمكان",
   "events.section.who": "من يمكنه رؤيته",
-  "events.admin.intro": "تُعرض الأحداث في مدونتك لقرائك. أنشئ حدثًا لتحدد تاريخه ومكانه ومن يمكنه رؤيته."
+  "events.admin.intro": "تُعرض الأحداث في مدونتك لقرائك. أنشئ حدثًا لتحدد تاريخه ومكانه ومن يمكنه رؤيته.",
+  "events.details.language": "اللغة الأساسية",
+  "events.admin.filter": "تصفية الأحداث",
+  "events.admin.upcoming": "القادمة",
+  "events.admin.past": "السابقة",
+  "events.admin.noUpcoming": "لا توجد أحداث قادمة.",
+  "events.admin.noPast": "لا توجد أحداث سابقة.",
+  "events.admin.col.event": "الحدث",
+  "events.admin.col.when": "الموعد",
+  "events.admin.col.languages": "اللغات",
+  "events.admin.view": "عرض الحدث",
+  "events.admin.edit": "تعديل الحدث",
+  "events.edit.title": "تعديل الحدث",
+  "events.notFound": "هذا الحدث غير موجود.",
+  "events.translation.remove": "إزالة الترجمة",
+  "events.translation.removeConfirm": "إزالة هذه الترجمة؟"
 }

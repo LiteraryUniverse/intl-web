@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
   "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.subscription.checkoutTerms": "ਚੈੱਕਆਊਟ ਵੇਲੇ ਕੀਮਤ ਅਤੇ ਬਿਲਿੰਗ ਮਿਆਦ ਜਾਂਚ ਲਓ। ਆਵਰਤੀ ਗਾਹਕੀਆਂ ਰੱਦ ਕੀਤੇ ਜਾਣ ਤੱਕ ਆਪਣੇ ਆਪ ਰੀਨਿਊ ਹੁੰਦੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ। ਅੱਗੇ ਦੇ ਖ਼ਰਚੇ ਰੋਕਣ ਲਈ ਅਗਲੇ ਰੀਨਿਊ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੀਆਂ ਗਾਹਕੀ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਗਾਹਕੀ ਰੱਦ ਕਰੋ।",
   "plans.fanClub.access.timelinesTitle": "ਟਾਈਮਲਾਈਨਾਂ",
   "plans.fanClub.access.timelinesSubtitle": "ਫੈਨ ਕਲੱਬ ਮੈਂਬਰਾਂ ਲਈ ਰਾਖਵੀਆਂ ਬ੍ਰਹਮੰਡ ਟਾਈਮਲਾਈਨਾਂ।",
   "plans.limits.timelines": "ਹਰ ਬ੍ਰਹਮੰਡ ਲਈ ਟਾਈਮਲਾਈਨਾਂ",

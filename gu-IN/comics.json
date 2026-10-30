@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} પૃષ્ઠો",
   "comics.import.progress": "પ્રકરણ {chapter}/{chapters} આયાત થઈ રહ્યું છે…",
   "comics.import.tapas": "Tapas નિકાસ આયાત કરો (.zip)",
+  "comics.import.done": "{count, plural, one {# એપિસોડ અધ્યાય તરીકે આયાત થયો.} other {# એપિસોડ અધ્યાય તરીકે આયાત થયા.}} Tapas પર લૉક કરેલા એપિસોડ બાકાત રાખવામાં આવ્યા. તે પાનાં તમારી પોતાની ફાઇલોમાંથી અપલોડ કરો.",
   "comics.pages": "પૃષ્ઠો",
   "comics.pages.add": "+ પૃષ્ઠો ઉમેરો",
   "comics.pages.delete": "પૃષ્ઠ કાઢી નાખો",

@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} oldal",
   "comics.import.progress": "Fejezet importálása: {chapter}/{chapters}…",
   "comics.import.tapas": "Tapas-exportálás importálása (.zip)",
+  "comics.import.done": "{count, plural, one {# epizód lett fejezetként importálva.} other {# epizód lett fejezetként importálva.}} A Tapas által zároltan tartott epizódok kimaradtak. Ezeknek az oldalait töltsd fel a saját fájljaidból.",
   "comics.pages": "oldal",
   "comics.pages.add": "+ Oldalak hozzáadása",
   "comics.pages.delete": "Oldal törlése",

@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plantabelle: {amount}",
   "plans.admin.prices.issue.currency": "Eine Währung aus der Plantabelle fehlt bei Stripe.",
   "plans.admin.prices.circleHelp": "Plattform und Platz sind die Null-Standardwerte; bei der Genehmigung werden die ausgehandelten Preis-IDs erfasst. Add-ons werden zu diesen Preisen abgerechnet.",
+  "plans.subscription.checkoutTerms": "Prüfen Sie Preis und Abrechnungszeitraum beim Checkout. Wiederkehrende Abonnements verlängern sich automatisch, bis sie gekündigt werden. Kündigen Sie vor der nächsten Verlängerung in Ihren Abonnementeinstellungen, um künftige Abbuchungen zu verhindern.",
   "plans.fanClub.access.timelinesTitle": "Zeitlinien",
   "plans.fanClub.access.timelinesSubtitle": "Zeitlinien des Universums, die Fanclub-Mitgliedern vorbehalten sind.",
   "plans.limits.timelines": "Zeitlinien pro Universum",

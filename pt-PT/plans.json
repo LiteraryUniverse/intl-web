@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Tabela de planos: {amount}",
   "plans.admin.prices.issue.currency": "Falta na Stripe uma moeda da tabela de planos.",
   "plans.admin.prices.circleHelp": "A plataforma e o lugar têm o valor zero por predefinição; a aprovação regista os IDs dos preços negociados. Os extras são faturados a estes preços.",
+  "plans.subscription.checkoutTerms": "Confirme o preço e o período de faturação no checkout. As subscrições recorrentes renovam automaticamente até serem canceladas. Para evitar cobranças futuras, cancele antes da próxima renovação nas definições da sua subscrição.",
   "plans.fanClub.access.timelinesTitle": "Cronogramas",
   "plans.fanClub.access.timelinesSubtitle": "Cronogramas do universo reservados aos membros do clube de fãs.",
   "plans.limits.timelines": "Cronogramas por universo",

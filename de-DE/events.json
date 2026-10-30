@@ -40,5 +40,20 @@
   "events.section.details": "Details",
   "events.section.whenWhere": "Wann und wo",
   "events.section.who": "Wer es sehen kann",
-  "events.admin.intro": "Veranstaltungen werden auf deinem Blog für deine Leser aufgelistet. Erstelle eine, um Datum, Ort und Sichtbarkeit festzulegen."
+  "events.admin.intro": "Veranstaltungen werden auf deinem Blog für deine Leser aufgelistet. Erstelle eine, um Datum, Ort und Sichtbarkeit festzulegen.",
+  "events.details.language": "Hauptsprache",
+  "events.admin.filter": "Veranstaltungen filtern",
+  "events.admin.upcoming": "Bevorstehend",
+  "events.admin.past": "Vergangen",
+  "events.admin.noUpcoming": "Keine bevorstehenden Veranstaltungen.",
+  "events.admin.noPast": "Keine vergangenen Veranstaltungen.",
+  "events.admin.col.event": "Veranstaltung",
+  "events.admin.col.when": "Wann",
+  "events.admin.col.languages": "Sprachen",
+  "events.admin.view": "Veranstaltung ansehen",
+  "events.admin.edit": "Veranstaltung bearbeiten",
+  "events.edit.title": "Veranstaltung bearbeiten",
+  "events.notFound": "Diese Veranstaltung gibt es nicht.",
+  "events.translation.remove": "Übersetzung entfernen",
+  "events.translation.removeConfirm": "Diese Übersetzung entfernen?"
 }

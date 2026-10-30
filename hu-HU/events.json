@@ -40,5 +40,20 @@
   "events.section.details": "Részletek",
   "events.section.whenWhere": "Mikor és hol",
   "events.section.who": "Ki láthatja",
-  "events.admin.intro": "Az események a blogodon jelennek meg az olvasóidnak. Hozz létre egyet, és add meg az időpontot, a helyszínt, valamint azt, hogy ki láthatja."
+  "events.admin.intro": "Az események a blogodon jelennek meg az olvasóidnak. Hozz létre egyet, és add meg az időpontot, a helyszínt, valamint azt, hogy ki láthatja.",
+  "events.details.language": "Fő nyelv",
+  "events.admin.filter": "Események szűrése",
+  "events.admin.upcoming": "Közelgő",
+  "events.admin.past": "Korábbi",
+  "events.admin.noUpcoming": "Nincs közelgő esemény.",
+  "events.admin.noPast": "Nincs korábbi esemény.",
+  "events.admin.col.event": "Esemény",
+  "events.admin.col.when": "Mikor",
+  "events.admin.col.languages": "Nyelvek",
+  "events.admin.view": "Esemény megtekintése",
+  "events.admin.edit": "Esemény szerkesztése",
+  "events.edit.title": "Esemény szerkesztése",
+  "events.notFound": "Ez az esemény nem létezik.",
+  "events.translation.remove": "Fordítás eltávolítása",
+  "events.translation.removeConfirm": "Eltávolítod ezt a fordítást?"
 }

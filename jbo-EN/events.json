@@ -40,5 +40,20 @@
   "events.section.details": "Details",
   "events.section.whenWhere": "When and where",
   "events.section.who": "Who can see it",
-  "events.admin.intro": "Events are listed on your blog for your readers. Create one to set a date, a place and who can see it."
+  "events.admin.intro": "Events are listed on your blog for your readers. Create one to set a date, a place and who can see it.",
+  "events.details.language": "Main language",
+  "events.admin.filter": "Filter events",
+  "events.admin.upcoming": "Upcoming",
+  "events.admin.past": "Past",
+  "events.admin.noUpcoming": "No upcoming events.",
+  "events.admin.noPast": "No past events.",
+  "events.admin.col.event": "Event",
+  "events.admin.col.when": "When",
+  "events.admin.col.languages": "Languages",
+  "events.admin.view": "View event",
+  "events.admin.edit": "Edit event",
+  "events.edit.title": "Edit event",
+  "events.notFound": "This event does not exist.",
+  "events.translation.remove": "Remove translation",
+  "events.translation.removeConfirm": "Remove this translation?"
 }

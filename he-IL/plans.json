@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "טבלת התוכניות: {amount}",
   "plans.admin.prices.issue.currency": "מטבע מטבלת התוכניות חסר ב־Stripe.",
   "plans.admin.prices.circleHelp": "הפלטפורמה והמושב הם ברירות המחדל של אפס; האישור רושם את מזהי המחירים שסוכמו. תוספות מחויבות במחירים אלה.",
+  "plans.subscription.checkoutTerms": "בדקו את המחיר ואת תקופת החיוב בעמוד התשלום. מנויים מתחדשים ממשיכים להתחדש אוטומטית עד לביטולם. בטלו את המנוי לפני החידוש הבא, בהגדרות המנוי, כדי לעצור חיובים עתידיים.",
   "plans.fanClub.access.timelinesTitle": "צירים זמניים",
   "plans.fanClub.access.timelinesSubtitle": "צירים זמניים של היקום, שמורים לחברי מועדון המעריצים.",
   "plans.limits.timelines": "צירים זמניים לכל יקום",

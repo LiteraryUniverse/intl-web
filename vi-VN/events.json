@@ -40,5 +40,20 @@
   "events.section.details": "Chi tiết",
   "events.section.whenWhere": "Thời gian và địa điểm",
   "events.section.who": "Ai có thể xem",
-  "events.admin.intro": "Sự kiện được liệt kê trên blog cho độc giả của bạn. Hãy tạo một sự kiện để đặt ngày, địa điểm và ai có thể xem."
+  "events.admin.intro": "Sự kiện được liệt kê trên blog cho độc giả của bạn. Hãy tạo một sự kiện để đặt ngày, địa điểm và ai có thể xem.",
+  "events.details.language": "Ngôn ngữ chính",
+  "events.admin.filter": "Lọc sự kiện",
+  "events.admin.upcoming": "Sắp tới",
+  "events.admin.past": "Đã qua",
+  "events.admin.noUpcoming": "Không có sự kiện sắp tới.",
+  "events.admin.noPast": "Không có sự kiện đã qua.",
+  "events.admin.col.event": "Sự kiện",
+  "events.admin.col.when": "Thời gian",
+  "events.admin.col.languages": "Ngôn ngữ",
+  "events.admin.view": "Xem sự kiện",
+  "events.admin.edit": "Sửa sự kiện",
+  "events.edit.title": "Sửa sự kiện",
+  "events.notFound": "Sự kiện này không tồn tại.",
+  "events.translation.remove": "Xóa bản dịch",
+  "events.translation.removeConfirm": "Xóa bản dịch này?"
 }

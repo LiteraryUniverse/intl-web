@@ -40,5 +40,20 @@
   "events.section.details": "వివరాలు",
   "events.section.whenWhere": "ఎప్పుడు, ఎక్కడ",
   "events.section.who": "ఎవరు చూడగలరు",
-  "events.admin.intro": "ఈవెంట్‌లు మీ పాఠకుల కోసం మీ బ్లాగ్‌లో జాబితాగా కనిపిస్తాయి. తేదీ, స్థలం, ఎవరు చూడగలరో నిర్ణయించడానికి ఒకటి సృష్టించండి."
+  "events.admin.intro": "ఈవెంట్‌లు మీ పాఠకుల కోసం మీ బ్లాగ్‌లో జాబితాగా కనిపిస్తాయి. తేదీ, స్థలం, ఎవరు చూడగలరో నిర్ణయించడానికి ఒకటి సృష్టించండి.",
+  "events.details.language": "ప్రధాన భాష",
+  "events.admin.filter": "ఈవెంట్‌లను ఫిల్టర్ చేయండి",
+  "events.admin.upcoming": "రాబోయేవి",
+  "events.admin.past": "గడిచినవి",
+  "events.admin.noUpcoming": "రాబోయే ఈవెంట్‌లు లేవు.",
+  "events.admin.noPast": "గడిచిన ఈవెంట్‌లు లేవు.",
+  "events.admin.col.event": "ఈవెంట్",
+  "events.admin.col.when": "ఎప్పుడు",
+  "events.admin.col.languages": "భాషలు",
+  "events.admin.view": "ఈవెంట్ చూడండి",
+  "events.admin.edit": "ఈవెంట్‌ను సవరించండి",
+  "events.edit.title": "ఈవెంట్‌ను సవరించండి",
+  "events.notFound": "ఈ ఈవెంట్ లేదు.",
+  "events.translation.remove": "అనువాదాన్ని తొలగించండి",
+  "events.translation.removeConfirm": "ఈ అనువాదాన్ని తొలగించాలా?"
 }

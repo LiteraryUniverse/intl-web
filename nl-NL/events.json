@@ -40,5 +40,20 @@
   "events.section.details": "Details",
   "events.section.whenWhere": "Wanneer en waar",
   "events.section.who": "Wie het kan zien",
-  "events.admin.intro": "Evenementen staan op je blog voor je lezers. Maak er een aan om een datum, een plaats en de zichtbaarheid in te stellen."
+  "events.admin.intro": "Evenementen staan op je blog voor je lezers. Maak er een aan om een datum, een plaats en de zichtbaarheid in te stellen.",
+  "events.details.language": "Hoofdtaal",
+  "events.admin.filter": "Evenementen filteren",
+  "events.admin.upcoming": "Aankomend",
+  "events.admin.past": "Afgelopen",
+  "events.admin.noUpcoming": "Geen aankomende evenementen.",
+  "events.admin.noPast": "Geen afgelopen evenementen.",
+  "events.admin.col.event": "Evenement",
+  "events.admin.col.when": "Wanneer",
+  "events.admin.col.languages": "Talen",
+  "events.admin.view": "Evenement bekijken",
+  "events.admin.edit": "Evenement bewerken",
+  "events.edit.title": "Evenement bewerken",
+  "events.notFound": "Dit evenement bestaat niet.",
+  "events.translation.remove": "Vertaling verwijderen",
+  "events.translation.removeConfirm": "Deze vertaling verwijderen?"
 }

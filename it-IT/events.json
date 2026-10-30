@@ -40,5 +40,20 @@
   "events.section.details": "Dettagli",
   "events.section.whenWhere": "Quando e dove",
   "events.section.who": "Chi può vederlo",
-  "events.admin.intro": "Gli eventi compaiono sul tuo blog per i tuoi lettori. Creane uno per impostare data, luogo e chi può vederlo."
+  "events.admin.intro": "Gli eventi compaiono sul tuo blog per i tuoi lettori. Creane uno per impostare data, luogo e chi può vederlo.",
+  "events.details.language": "Lingua principale",
+  "events.admin.filter": "Filtra gli eventi",
+  "events.admin.upcoming": "In arrivo",
+  "events.admin.past": "Passati",
+  "events.admin.noUpcoming": "Nessun evento in arrivo.",
+  "events.admin.noPast": "Nessun evento passato.",
+  "events.admin.col.event": "Evento",
+  "events.admin.col.when": "Quando",
+  "events.admin.col.languages": "Lingue",
+  "events.admin.view": "Visualizza l'evento",
+  "events.admin.edit": "Modifica l'evento",
+  "events.edit.title": "Modifica l'evento",
+  "events.notFound": "Questo evento non esiste.",
+  "events.translation.remove": "Rimuovi traduzione",
+  "events.translation.removeConfirm": "Rimuovere questa traduzione?"
 }

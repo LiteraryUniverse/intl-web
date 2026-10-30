@@ -40,5 +40,20 @@
   "events.section.details": "વિગતો",
   "events.section.whenWhere": "ક્યારે અને ક્યાં",
   "events.section.who": "કોણ જોઈ શકે છે",
-  "events.admin.intro": "કાર્યક્રમો તમારા વાચકો માટે તમારા બ્લોગ પર સૂચિબદ્ધ થાય છે. તારીખ, સ્થળ અને કોણ જોઈ શકે તે નક્કી કરવા એક કાર્યક્રમ બનાવો."
+  "events.admin.intro": "કાર્યક્રમો તમારા વાચકો માટે તમારા બ્લોગ પર સૂચિબદ્ધ થાય છે. તારીખ, સ્થળ અને કોણ જોઈ શકે તે નક્કી કરવા એક કાર્યક્રમ બનાવો.",
+  "events.details.language": "મુખ્ય ભાષા",
+  "events.admin.filter": "ઈવેન્ટ ફિલ્ટર કરો",
+  "events.admin.upcoming": "આવનારા",
+  "events.admin.past": "ભૂતકાળના",
+  "events.admin.noUpcoming": "કોઈ આવનારી ઈવેન્ટ નથી.",
+  "events.admin.noPast": "કોઈ ભૂતકાળની ઈવેન્ટ નથી.",
+  "events.admin.col.event": "ઈવેન્ટ",
+  "events.admin.col.when": "ક્યારે",
+  "events.admin.col.languages": "ભાષાઓ",
+  "events.admin.view": "ઈવેન્ટ જુઓ",
+  "events.admin.edit": "ઈવેન્ટ સંપાદિત કરો",
+  "events.edit.title": "ઈવેન્ટ સંપાદિત કરો",
+  "events.notFound": "આ ઈવેન્ટ અસ્તિત્વમાં નથી.",
+  "events.translation.remove": "અનુવાદ દૂર કરો",
+  "events.translation.removeConfirm": "આ અનુવાદ દૂર કરવો છે?"
 }

@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} kaca",
   "comics.import.progress": "Importing chapter {chapter}/{chapters}…",
   "comics.import.tapas": "Import a Tapas export (.zip)",
+  "comics.import.done": "{count, plural, one {# episode was imported as a chapter.} other {# episodes were imported as chapters.}} Episodes Tapas kept locked were left out. Upload those pages from your own files.",
   "comics.pages": "kaca",
   "comics.pages.add": "+ Tambahang kaca",
   "comics.pages.delete": "Ngicalang kaca",

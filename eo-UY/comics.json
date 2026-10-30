@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} paĝoj",
   "comics.import.progress": "Importante ĉapitron {chapter}/{chapters}…",
   "comics.import.tapas": "Importi Tapas-eksporton (.zip)",
+  "comics.import.done": "{count, plural, one {# epizodo estis importita kiel ĉapitro.} other {# epizodoj estis importitaj kiel ĉapitroj.}} Epizodoj, kiujn Tapas konservis ŝlositaj, estis preterlasitaj. Alŝutu tiujn paĝojn el viaj propraj dosieroj.",
   "comics.pages": "paĝoj",
   "comics.pages.add": "+ Aldoni paĝojn",
   "comics.pages.delete": "Forigi paĝon",

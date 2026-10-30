@@ -40,5 +40,20 @@
   "events.section.details": "Rincian",
   "events.section.whenWhere": "Waktu dan tempat",
   "events.section.who": "Siapa yang bisa melihat",
-  "events.admin.intro": "Kegiatan ditampilkan di blog Anda untuk pembaca. Buat kegiatan untuk menentukan tanggal, tempat, dan siapa yang bisa melihatnya."
+  "events.admin.intro": "Kegiatan ditampilkan di blog Anda untuk pembaca. Buat kegiatan untuk menentukan tanggal, tempat, dan siapa yang bisa melihatnya.",
+  "events.details.language": "Bahasa utama",
+  "events.admin.filter": "Filter acara",
+  "events.admin.upcoming": "Mendatang",
+  "events.admin.past": "Sudah lewat",
+  "events.admin.noUpcoming": "Tidak ada acara mendatang.",
+  "events.admin.noPast": "Tidak ada acara yang sudah lewat.",
+  "events.admin.col.event": "Acara",
+  "events.admin.col.when": "Waktu",
+  "events.admin.col.languages": "Bahasa",
+  "events.admin.view": "Lihat acara",
+  "events.admin.edit": "Edit acara",
+  "events.edit.title": "Edit acara",
+  "events.notFound": "Acara ini tidak ada.",
+  "events.translation.remove": "Hapus terjemahan",
+  "events.translation.removeConfirm": "Hapus terjemahan ini?"
 }

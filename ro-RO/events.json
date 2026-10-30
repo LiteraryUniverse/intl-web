@@ -40,5 +40,20 @@
   "events.section.details": "Detalii",
   "events.section.whenWhere": "Când și unde",
   "events.section.who": "Cine îl poate vedea",
-  "events.admin.intro": "Evenimentele apar pe blogul tău pentru cititori. Creează unul ca să stabilești data, locul și cine îl poate vedea."
+  "events.admin.intro": "Evenimentele apar pe blogul tău pentru cititori. Creează unul ca să stabilești data, locul și cine îl poate vedea.",
+  "events.details.language": "Limba principală",
+  "events.admin.filter": "Filtrează evenimentele",
+  "events.admin.upcoming": "Viitoare",
+  "events.admin.past": "Trecute",
+  "events.admin.noUpcoming": "Nu există evenimente viitoare.",
+  "events.admin.noPast": "Nu există evenimente trecute.",
+  "events.admin.col.event": "Eveniment",
+  "events.admin.col.when": "Când",
+  "events.admin.col.languages": "Limbi",
+  "events.admin.view": "Vezi evenimentul",
+  "events.admin.edit": "Editează evenimentul",
+  "events.edit.title": "Editează evenimentul",
+  "events.notFound": "Acest eveniment nu există.",
+  "events.translation.remove": "Elimină traducerea",
+  "events.translation.removeConfirm": "Elimini această traducere?"
 }

@@ -40,5 +40,20 @@
   "events.section.details": "Informacija",
   "events.section.whenWhere": "Kada ir kur",
   "events.section.who": "Kas gali matyti",
-  "events.admin.intro": "Renginiai rodomi jūsų tinklaraštyje skaitytojams. Sukurkite renginį ir nustatykite datą, vietą ir tai, kas gali jį matyti."
+  "events.admin.intro": "Renginiai rodomi jūsų tinklaraštyje skaitytojams. Sukurkite renginį ir nustatykite datą, vietą ir tai, kas gali jį matyti.",
+  "events.details.language": "Pagrindinė kalba",
+  "events.admin.filter": "Filtruoti renginius",
+  "events.admin.upcoming": "Artimiausi",
+  "events.admin.past": "Praėję",
+  "events.admin.noUpcoming": "Artimiausių renginių nėra.",
+  "events.admin.noPast": "Praėjusių renginių nėra.",
+  "events.admin.col.event": "Renginys",
+  "events.admin.col.when": "Kada",
+  "events.admin.col.languages": "Kalbos",
+  "events.admin.view": "Peržiūrėti renginį",
+  "events.admin.edit": "Redaguoti renginį",
+  "events.edit.title": "Redaguoti renginį",
+  "events.notFound": "Tokio renginio nėra.",
+  "events.translation.remove": "Pašalinti vertimą",
+  "events.translation.removeConfirm": "Pašalinti šį vertimą?"
 }

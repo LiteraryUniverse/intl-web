@@ -40,5 +40,20 @@
   "events.section.details": "פרטים",
   "events.section.whenWhere": "מתי ואיפה",
   "events.section.who": "מי יכול לראות",
-  "events.admin.intro": "האירועים מוצגים בבלוג שלכם לקוראים. צרו אירוע כדי לקבוע תאריך, מקום ומי יכול לראות אותו."
+  "events.admin.intro": "האירועים מוצגים בבלוג שלכם לקוראים. צרו אירוע כדי לקבוע תאריך, מקום ומי יכול לראות אותו.",
+  "events.details.language": "השפה הראשית",
+  "events.admin.filter": "סינון אירועים",
+  "events.admin.upcoming": "עתידיים",
+  "events.admin.past": "שעברו",
+  "events.admin.noUpcoming": "אין אירועים עתידיים.",
+  "events.admin.noPast": "אין אירועים שעברו.",
+  "events.admin.col.event": "אירוע",
+  "events.admin.col.when": "מתי",
+  "events.admin.col.languages": "שפות",
+  "events.admin.view": "הצגת אירוע",
+  "events.admin.edit": "עריכת אירוע",
+  "events.edit.title": "עריכת אירוע",
+  "events.notFound": "האירוע הזה לא קיים.",
+  "events.translation.remove": "הסרת התרגום",
+  "events.translation.removeConfirm": "להסיר את התרגום הזה?"
 }

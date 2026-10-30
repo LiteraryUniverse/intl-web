@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
   "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.subscription.checkoutTerms": "చెక్అవుట్‌లో ధరను, బిల్లింగ్ వ్యవధిని సమీక్షించండి. పునరావృత సబ్‌స్క్రిప్షన్‌లు రద్దు చేసే వరకు ఆటోమేటిక్‌గా రెన్యూ అవుతాయి. భవిష్యత్ ఛార్జీలను ఆపడానికి, మీ తదుపరి రెన్యూవల్‌కు ముందు మీ సబ్‌స్క్రిప్షన్ సెట్టింగ్‌లలో రద్దు చేయండి.",
   "plans.fanClub.access.timelinesTitle": "కాలరేఖలు",
   "plans.fanClub.access.timelinesSubtitle": "ఫ్యాన్ క్లబ్ సభ్యుల కోసం కేటాయించిన యూనివర్స్ కాలరేఖలు.",
   "plans.limits.timelines": "ప్రతి యూనివర్స్‌కు కాలరేఖలు",

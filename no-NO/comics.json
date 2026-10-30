@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} sider",
   "comics.import.progress": "Importerer kapittel {chapter}/{chapters}…",
   "comics.import.tapas": "Importer en Tapas-eksport (.zip)",
+  "comics.import.done": "{count, plural, one {# episode ble importert som et kapittel.} other {# episoder ble importert som kapitler.}} Episoder som Tapas holdt låst, ble utelatt. Last opp disse sidene fra dine egne filer.",
   "comics.pages": "sider",
   "comics.pages.add": "+ Legg til sider",
   "comics.pages.delete": "Slett side",

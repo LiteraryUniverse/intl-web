@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} sivua",
   "comics.import.progress": "Tuodaan lukua {chapter}/{chapters}…",
   "comics.import.tapas": "Tuo Tapas-vienti (.zip)",
+  "comics.import.done": "{count, plural, one {# jakso tuotiin lukuna.} other {# jaksoa tuotiin lukuina.}} Jaksot, jotka Tapas piti lukittuina, jätettiin pois. Lähetä niiden sivut omista tiedostoistasi.",
   "comics.pages": "sivua",
   "comics.pages.add": "+ Lisää sivuja",
   "comics.pages.delete": "Poista sivu",

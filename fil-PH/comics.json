@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} pahina",
   "comics.import.progress": "Ini-import ang kabanata {chapter}/{chapters}…",
   "comics.import.tapas": "Mag-import ng Tapas export (.zip)",
+  "comics.import.done": "{count, plural, one {# episode ang na-import bilang kabanata.} other {# episode ang na-import bilang mga kabanata.}} Hindi isinama ang mga episode na nilock ng Tapas. I-upload ang mga pahinang iyon mula sa sarili mong mga file.",
   "comics.pages": "pahina",
   "comics.pages.add": "+ Magdagdag ng pahina",
   "comics.pages.delete": "Tanggalin ang pahina",

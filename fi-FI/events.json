@@ -40,5 +40,20 @@
   "events.section.details": "Tiedot",
   "events.section.whenWhere": "Aika ja paikka",
   "events.section.who": "Kuka näkee tapahtuman",
-  "events.admin.intro": "Tapahtumat näkyvät blogissasi lukijoillesi. Luo tapahtuma ja määritä päivä, paikka ja se, kuka sen näkee."
+  "events.admin.intro": "Tapahtumat näkyvät blogissasi lukijoillesi. Luo tapahtuma ja määritä päivä, paikka ja se, kuka sen näkee.",
+  "events.details.language": "Pääkieli",
+  "events.admin.filter": "Suodata tapahtumia",
+  "events.admin.upcoming": "Tulevat",
+  "events.admin.past": "Menneet",
+  "events.admin.noUpcoming": "Ei tulevia tapahtumia.",
+  "events.admin.noPast": "Ei menneitä tapahtumia.",
+  "events.admin.col.event": "Tapahtuma",
+  "events.admin.col.when": "Milloin",
+  "events.admin.col.languages": "Kielet",
+  "events.admin.view": "Näytä tapahtuma",
+  "events.admin.edit": "Muokkaa tapahtumaa",
+  "events.edit.title": "Muokkaa tapahtumaa",
+  "events.notFound": "Tätä tapahtumaa ei ole olemassa.",
+  "events.translation.remove": "Poista käännös",
+  "events.translation.removeConfirm": "Poistetaanko tämä käännös?"
 }

@@ -40,5 +40,20 @@
   "events.section.details": "ਵੇਰਵੇ",
   "events.section.whenWhere": "ਕਦੋਂ ਅਤੇ ਕਿੱਥੇ",
   "events.section.who": "ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ",
-  "events.admin.intro": "ਸਮਾਗਮ ਤੁਹਾਡੇ ਪਾਠਕਾਂ ਲਈ ਤੁਹਾਡੇ ਬਲੌਗ 'ਤੇ ਸੂਚੀਬੱਧ ਹੁੰਦੇ ਹਨ। ਤਾਰੀਖ਼, ਥਾਂ ਅਤੇ ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ, ਇਹ ਤੈਅ ਕਰਨ ਲਈ ਇੱਕ ਸਮਾਗਮ ਬਣਾਓ।"
+  "events.admin.intro": "ਸਮਾਗਮ ਤੁਹਾਡੇ ਪਾਠਕਾਂ ਲਈ ਤੁਹਾਡੇ ਬਲੌਗ 'ਤੇ ਸੂਚੀਬੱਧ ਹੁੰਦੇ ਹਨ। ਤਾਰੀਖ਼, ਥਾਂ ਅਤੇ ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ, ਇਹ ਤੈਅ ਕਰਨ ਲਈ ਇੱਕ ਸਮਾਗਮ ਬਣਾਓ।",
+  "events.details.language": "ਮੁੱਖ ਭਾਸ਼ਾ",
+  "events.admin.filter": "ਸਮਾਗਮ ਫਿਲਟਰ ਕਰੋ",
+  "events.admin.upcoming": "ਆਉਣ ਵਾਲੇ",
+  "events.admin.past": "ਬੀਤੇ",
+  "events.admin.noUpcoming": "ਕੋਈ ਆਉਣ ਵਾਲਾ ਸਮਾਗਮ ਨਹੀਂ।",
+  "events.admin.noPast": "ਕੋਈ ਬੀਤਿਆ ਸਮਾਗਮ ਨਹੀਂ।",
+  "events.admin.col.event": "ਸਮਾਗਮ",
+  "events.admin.col.when": "ਕਦੋਂ",
+  "events.admin.col.languages": "ਭਾਸ਼ਾਵਾਂ",
+  "events.admin.view": "ਸਮਾਗਮ ਵੇਖੋ",
+  "events.admin.edit": "ਸਮਾਗਮ ਸੰਪਾਦਿਤ ਕਰੋ",
+  "events.edit.title": "ਸਮਾਗਮ ਸੰਪਾਦਿਤ ਕਰੋ",
+  "events.notFound": "ਇਹ ਸਮਾਗਮ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।",
+  "events.translation.remove": "ਅਨੁਵਾਦ ਹਟਾਓ",
+  "events.translation.removeConfirm": "ਕੀ ਇਹ ਅਨੁਵਾਦ ਹਟਾਉਣਾ ਹੈ?"
 }

@@ -40,5 +40,20 @@
   "events.section.details": "വിശദാംശങ്ങൾ",
   "events.section.whenWhere": "എപ്പോൾ, എവിടെ",
   "events.section.who": "ആർക്കെല്ലാം കാണാം",
-  "events.admin.intro": "ഇവന്റുകൾ നിങ്ങളുടെ വായനക്കാർക്കായി നിങ്ങളുടെ ബ്ലോഗിൽ പട്ടികപ്പെടുത്തും. തീയതിയും സ്ഥലവും ആർക്കെല്ലാം കാണാമെന്നതും നിശ്ചയിക്കാൻ ഒന്ന് സൃഷ്ടിക്കുക."
+  "events.admin.intro": "ഇവന്റുകൾ നിങ്ങളുടെ വായനക്കാർക്കായി നിങ്ങളുടെ ബ്ലോഗിൽ പട്ടികപ്പെടുത്തും. തീയതിയും സ്ഥലവും ആർക്കെല്ലാം കാണാമെന്നതും നിശ്ചയിക്കാൻ ഒന്ന് സൃഷ്ടിക്കുക.",
+  "events.details.language": "പ്രധാന ഭാഷ",
+  "events.admin.filter": "ഇവന്റുകൾ ഫിൽട്ടർ ചെയ്യുക",
+  "events.admin.upcoming": "വരാനിരിക്കുന്നവ",
+  "events.admin.past": "കഴിഞ്ഞവ",
+  "events.admin.noUpcoming": "വരാനിരിക്കുന്ന ഇവന്റുകളില്ല.",
+  "events.admin.noPast": "കഴിഞ്ഞ ഇവന്റുകളില്ല.",
+  "events.admin.col.event": "ഇവന്റ്",
+  "events.admin.col.when": "എപ്പോൾ",
+  "events.admin.col.languages": "ഭാഷകൾ",
+  "events.admin.view": "ഇവന്റ് കാണുക",
+  "events.admin.edit": "ഇവന്റ് എഡിറ്റ് ചെയ്യുക",
+  "events.edit.title": "ഇവന്റ് എഡിറ്റ് ചെയ്യുക",
+  "events.notFound": "ഈ ഇവന്റ് നിലവിലില്ല.",
+  "events.translation.remove": "വിവർത്തനം നീക്കം ചെയ്യുക",
+  "events.translation.removeConfirm": "ഈ വിവർത്തനം നീക്കം ചെയ്യണോ?"
 }

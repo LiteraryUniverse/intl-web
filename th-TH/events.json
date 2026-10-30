@@ -40,5 +40,20 @@
   "events.section.details": "รายละเอียด",
   "events.section.whenWhere": "เวลาและสถานที่",
   "events.section.who": "ใครมองเห็นได้",
-  "events.admin.intro": "กิจกรรมจะแสดงบนบล็อกของคุณให้ผู้อ่านเห็น สร้างกิจกรรมเพื่อกำหนดวันที่ สถานที่ และผู้ที่มองเห็นได้"
+  "events.admin.intro": "กิจกรรมจะแสดงบนบล็อกของคุณให้ผู้อ่านเห็น สร้างกิจกรรมเพื่อกำหนดวันที่ สถานที่ และผู้ที่มองเห็นได้",
+  "events.details.language": "ภาษาหลัก",
+  "events.admin.filter": "กรองกิจกรรม",
+  "events.admin.upcoming": "กำลังจะมาถึง",
+  "events.admin.past": "ที่ผ่านมา",
+  "events.admin.noUpcoming": "ไม่มีกิจกรรมที่กำลังจะมาถึง",
+  "events.admin.noPast": "ไม่มีกิจกรรมที่ผ่านมา",
+  "events.admin.col.event": "กิจกรรม",
+  "events.admin.col.when": "เมื่อไร",
+  "events.admin.col.languages": "ภาษา",
+  "events.admin.view": "ดูกิจกรรม",
+  "events.admin.edit": "แก้ไขกิจกรรม",
+  "events.edit.title": "แก้ไขกิจกรรม",
+  "events.notFound": "ไม่มีกิจกรรมนี้อยู่",
+  "events.translation.remove": "ลบคำแปล",
+  "events.translation.removeConfirm": "ลบคำแปลนี้หรือไม่"
 }

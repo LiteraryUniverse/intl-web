@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} หน้า",
   "comics.import.progress": "กำลังนำเข้าตอนที่ {chapter}/{chapters}…",
   "comics.import.tapas": "นำเข้าไฟล์ส่งออกจาก Tapas (.zip)",
+  "comics.import.done": "{count, plural, other {นำเข้า # ตอนเป็นบทแล้ว}} ตอนที่ Tapas ล็อกไว้ไม่ได้รวมมาด้วย ให้อัปโหลดหน้าเหล่านั้นจากไฟล์ของคุณเอง",
   "comics.pages": "หน้า",
   "comics.pages.add": "+ เพิ่มหน้า",
   "comics.pages.delete": "ลบหน้า",

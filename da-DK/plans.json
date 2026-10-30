@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plantabel: {amount}",
   "plans.admin.prices.issue.currency": "En valuta fra plantabellen mangler på Stripe.",
   "plans.admin.prices.circleHelp": "Platform og plads er nul som standard; ved godkendelsen registreres de forhandlede pris-id'er. Tilkøb faktureres til disse priser.",
+  "plans.subscription.checkoutTerms": "Tjek prisen og faktureringsperioden ved checkout. Løbende abonnementer fornyes automatisk, indtil de annulleres. Annuller inden din næste fornyelse i dine abonnementsindstillinger for at undgå fremtidige træk.",
   "plans.fanClub.access.timelinesTitle": "Tidslinjer",
   "plans.fanClub.access.timelinesSubtitle": "Universets tidslinjer forbeholdt fanklubmedlemmer.",
   "plans.limits.timelines": "Tidslinjer pr. univers",

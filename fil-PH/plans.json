@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Talahanayan ng plano: {amount}",
   "plans.admin.prices.issue.currency": "May currency mula sa talahanayan ng plano na nawawala sa Stripe.",
   "plans.admin.prices.circleHelp": "Ang platform at seat ang mga zero na default; itinatala ng pag-apruba ang mga napagkasunduang price ID. Sinisingil ang mga add-on sa mga presyong ito.",
+  "plans.subscription.checkoutTerms": "Suriin ang presyo at billing period sa checkout. Awtomatikong nagre-renew ang mga paulit-ulit na subscription hanggang makansela. Para ihinto ang mga susunod na singil, kanselahin ito sa mga setting ng iyong subscription bago ang susunod mong renewal.",
   "plans.fanClub.access.timelinesTitle": "Mga Timeline",
   "plans.fanClub.access.timelinesSubtitle": "Mga timeline ng uniberso na nakalaan para sa mga miyembro ng fan club.",
   "plans.limits.timelines": "Mga timeline bawat uniberso",

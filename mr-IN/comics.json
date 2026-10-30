@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} पृष्ठे",
   "comics.import.progress": "प्रकरण {chapter}/{chapters} आयात होत आहे…",
   "comics.import.tapas": "Tapas निर्यात आयात करा (.zip)",
+  "comics.import.done": "{count, plural, one {# भाग अध्याय म्हणून आयात केला गेला.} other {# भाग अध्याय म्हणून आयात केले गेले.}} Tapas वर लॉक असलेले भाग वगळले गेले. ती पाने तुमच्या स्वतःच्या फाइल्समधून अपलोड करा.",
   "comics.pages": "पृष्ठे",
   "comics.pages.add": "+ पृष्ठे जोडा",
   "comics.pages.delete": "पृष्ठ हटवा",

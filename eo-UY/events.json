@@ -40,5 +40,20 @@
   "events.section.details": "Detaloj",
   "events.section.whenWhere": "Kiam kaj kie",
   "events.section.who": "Kiu povas vidi ĝin",
-  "events.admin.intro": "Eventoj estas listigitaj en via blogo por viaj legantoj. Kreu eventon por difini daton, lokon kaj tion, kiu povas vidi ĝin."
+  "events.admin.intro": "Eventoj estas listigitaj en via blogo por viaj legantoj. Kreu eventon por difini daton, lokon kaj tion, kiu povas vidi ĝin.",
+  "events.details.language": "Ĉefa lingvo",
+  "events.admin.filter": "Filtri eventojn",
+  "events.admin.upcoming": "Venontaj",
+  "events.admin.past": "Pasintaj",
+  "events.admin.noUpcoming": "Neniu venonta evento.",
+  "events.admin.noPast": "Neniu pasinta evento.",
+  "events.admin.col.event": "Evento",
+  "events.admin.col.when": "Kiam",
+  "events.admin.col.languages": "Lingvoj",
+  "events.admin.view": "Vidi eventon",
+  "events.admin.edit": "Redakti eventon",
+  "events.edit.title": "Redakti eventon",
+  "events.notFound": "Ĉi tiu evento ne ekzistas.",
+  "events.translation.remove": "Forigi tradukon",
+  "events.translation.removeConfirm": "Ĉu forigi ĉi tiun tradukon?"
 }

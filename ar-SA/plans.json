@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "جدول الخطط: {amount}",
   "plans.admin.prices.issue.currency": "عملة من جدول الخطط مفقودة على Stripe.",
   "plans.admin.prices.circleHelp": "المنصة والمقعد هما القيمتان الافتراضيتان الصفريتان؛ والموافقة تسجّل معرّفات الأسعار المتفاوَض عليها. تُفوتَر الإضافات بهذه الأسعار.",
+  "plans.subscription.checkoutTerms": "راجع السعر وفترة الفوترة عند إتمام الدفع. تتجدد الاشتراكات المتكررة تلقائيًا إلى أن تُلغى. ألغِ اشتراكك قبل موعد التجديد التالي من إعدادات الاشتراك لإيقاف الرسوم المستقبلية.",
   "plans.fanClub.access.timelinesTitle": "الجداول الزمنية",
   "plans.fanClub.access.timelinesSubtitle": "جداول زمنية للكون محجوزة لأعضاء نادي المعجبين.",
   "plans.limits.timelines": "الجداول الزمنية لكل كون",

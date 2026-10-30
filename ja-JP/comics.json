@@ -90,6 +90,7 @@
   "comics.pageCount": "{count}ページ",
   "comics.import.progress": "チャプター {chapter}/{chapters} をインポート中…",
   "comics.import.tapas": "Tapas のエクスポートをインポート (.zip)",
+  "comics.import.done": "{count, plural, other {#件のエピソードを章としてインポートしました。}}Tapas でロックされたままのエピソードは含まれていません。そのページは、お手元のファイルからアップロードしてください。",
   "comics.pages": "ページ",
   "comics.pages.add": "＋ ページを追加",
   "comics.pages.delete": "ページを削除",

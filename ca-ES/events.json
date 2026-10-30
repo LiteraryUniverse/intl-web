@@ -40,5 +40,20 @@
   "events.section.details": "Detalls",
   "events.section.whenWhere": "Quan i on",
   "events.section.who": "Qui el pot veure",
-  "events.admin.intro": "Els esdeveniments apareixen al teu blog per als teus lectors. Crea'n un per fixar una data, un lloc i qui el pot veure."
+  "events.admin.intro": "Els esdeveniments apareixen al teu blog per als teus lectors. Crea'n un per fixar una data, un lloc i qui el pot veure.",
+  "events.details.language": "Idioma principal",
+  "events.admin.filter": "Filtra els esdeveniments",
+  "events.admin.upcoming": "Propers",
+  "events.admin.past": "Passats",
+  "events.admin.noUpcoming": "No hi ha esdeveniments propers.",
+  "events.admin.noPast": "No hi ha esdeveniments passats.",
+  "events.admin.col.event": "Esdeveniment",
+  "events.admin.col.when": "Quan",
+  "events.admin.col.languages": "Idiomes",
+  "events.admin.view": "Mostra l'esdeveniment",
+  "events.admin.edit": "Edita l'esdeveniment",
+  "events.edit.title": "Edita l'esdeveniment",
+  "events.notFound": "Aquest esdeveniment no existeix.",
+  "events.translation.remove": "Elimina la traducció",
+  "events.translation.removeConfirm": "Vols eliminar aquesta traducció?"
 }

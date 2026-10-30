@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Tabelul de planuri: {amount}",
   "plans.admin.prices.issue.currency": "O monedă din tabelul de planuri lipsește de pe Stripe.",
   "plans.admin.prices.circleHelp": "Platforma și locul au valorile implicite zero; aprobarea înregistrează ID-urile prețurilor negociate. Suplimentele sunt facturate la aceste prețuri.",
+  "plans.subscription.checkoutTerms": "Verifică prețul și perioada de facturare la plată. Abonamentele recurente se reînnoiesc automat până când sunt anulate. Anulează înainte de următoarea reînnoire, din setările abonamentului tău, ca să eviți taxările viitoare.",
   "plans.fanClub.access.timelinesTitle": "Linii de timp",
   "plans.fanClub.access.timelinesSubtitle": "Linii de timp ale universului rezervate membrilor fan clubului.",
   "plans.limits.timelines": "Linii de timp per univers",

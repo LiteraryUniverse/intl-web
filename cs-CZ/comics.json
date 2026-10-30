@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} stránek",
   "comics.import.progress": "Importování kapitoly {chapter}/{chapters}…",
   "comics.import.tapas": "Importovat export z Tapas (.zip)",
+  "comics.import.done": "{count, plural, one {# epizoda byla importována jako kapitola.} few {# epizody byly importovány jako kapitoly.} many {# epizody bylo importováno jako kapitoly.} other {# epizod bylo importováno jako kapitoly.}} Epizody, které Tapas držel zamčené, byly vynechány. Tyto stránky nahrajte z vlastních souborů.",
   "comics.pages": "stránky",
   "comics.pages.add": "+ Přidat stránky",
   "comics.pages.delete": "Smazat stránku",

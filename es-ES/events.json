@@ -40,5 +40,20 @@
   "events.section.details": "Detalles",
   "events.section.whenWhere": "Cuándo y dónde",
   "events.section.who": "Quién puede verlo",
-  "events.admin.intro": "Los eventos aparecen en tu blog para tus lectores. Crea uno para fijar una fecha, un lugar y quién puede verlo."
+  "events.admin.intro": "Los eventos aparecen en tu blog para tus lectores. Crea uno para fijar una fecha, un lugar y quién puede verlo.",
+  "events.details.language": "Idioma principal",
+  "events.admin.filter": "Filtrar eventos",
+  "events.admin.upcoming": "Próximos",
+  "events.admin.past": "Pasados",
+  "events.admin.noUpcoming": "No hay eventos próximos.",
+  "events.admin.noPast": "No hay eventos pasados.",
+  "events.admin.col.event": "Evento",
+  "events.admin.col.when": "Cuándo",
+  "events.admin.col.languages": "Idiomas",
+  "events.admin.view": "Ver evento",
+  "events.admin.edit": "Editar evento",
+  "events.edit.title": "Editar evento",
+  "events.notFound": "Este evento no existe.",
+  "events.translation.remove": "Eliminar traducción",
+  "events.translation.removeConfirm": "¿Eliminar esta traducción?"
 }

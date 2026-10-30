@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plantabel: {amount}",
   "plans.admin.prices.issue.currency": "'n Geldeenheid uit die plantabel ontbreek op Stripe.",
   "plans.admin.prices.circleHelp": "Platform en sitplek is die nul-verstekwaardes; goedkeuring teken die onderhandelde prys-ID's aan. Byvoegings word teen hierdie pryse gefaktureer.",
+  "plans.subscription.checkoutTerms": "Gaan die prys en faktureringsperiode by die afrekening na. Herhalende intekeninge word outomaties hernu totdat dit gekanselleer word. Kanselleer voor jou volgende hernuwing in jou intekeninginstellings om toekomstige kostes te stop.",
   "plans.fanClub.access.timelinesTitle": "Tydlyne",
   "plans.fanClub.access.timelinesSubtitle": "Heelaltydlyne wat vir aanhangerklublede gereserveer is.",
   "plans.limits.timelines": "Tydlyne per heelal",

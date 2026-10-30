@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plantabelo: {amount}",
   "plans.admin.prices.issue.currency": "Valuto el la plantabelo mankas ĉe Stripe.",
   "plans.admin.prices.circleHelp": "Platformo kaj loko estas la nulaj defaŭltoj; la aprobo registras la intertraktitajn prezajn ID-ojn. Aldonaĵoj estas fakturataj laŭ ĉi tiuj prezoj.",
+  "plans.subscription.checkoutTerms": "Kontrolu la prezon kaj la fakturperiodon ĉe la pago. Ripetiĝantaj abonoj aŭtomate renoviĝas, ĝis ili estas nuligitaj. Por ĉesigi estontajn pagojn, nuligu antaŭ via sekva renovigo en la agordoj de via abono.",
   "plans.fanClub.access.timelinesTitle": "Tempolinioj",
   "plans.fanClub.access.timelinesSubtitle": "Tempolinioj de la universo rezervitaj por membroj de la fanklubo.",
   "plans.limits.timelines": "Tempolinioj po universo",

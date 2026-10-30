@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} páginas",
   "comics.import.progress": "A importar o capítulo {chapter}/{chapters}…",
   "comics.import.tapas": "Importar uma exportação do Tapas (.zip)",
+  "comics.import.done": "{count, plural, one {Foi importado # episódio como capítulo.} many {Foram importados # episódios como capítulos.} other {Foram importados # episódios como capítulos.}} Os episódios que o Tapas manteve bloqueados ficaram de fora. Carregue essas páginas a partir dos seus próprios ficheiros.",
   "comics.pages": "páginas",
   "comics.pages.add": "+ Adicionar páginas",
   "comics.pages.delete": "Eliminar página",

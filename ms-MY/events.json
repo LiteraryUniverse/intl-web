@@ -40,5 +40,20 @@
   "events.section.details": "Butiran",
   "events.section.whenWhere": "Bila dan di mana",
   "events.section.who": "Siapa boleh melihatnya",
-  "events.admin.intro": "Acara disenaraikan di blog anda untuk pembaca anda. Cipta satu acara untuk menetapkan tarikh, tempat dan siapa yang boleh melihatnya."
+  "events.admin.intro": "Acara disenaraikan di blog anda untuk pembaca anda. Cipta satu acara untuk menetapkan tarikh, tempat dan siapa yang boleh melihatnya.",
+  "events.details.language": "Bahasa utama",
+  "events.admin.filter": "Tapis acara",
+  "events.admin.upcoming": "Akan datang",
+  "events.admin.past": "Lepas",
+  "events.admin.noUpcoming": "Tiada acara akan datang.",
+  "events.admin.noPast": "Tiada acara lepas.",
+  "events.admin.col.event": "Acara",
+  "events.admin.col.when": "Bila",
+  "events.admin.col.languages": "Bahasa",
+  "events.admin.view": "Lihat acara",
+  "events.admin.edit": "Edit acara",
+  "events.edit.title": "Edit acara",
+  "events.notFound": "Acara ini tidak wujud.",
+  "events.translation.remove": "Buang terjemahan",
+  "events.translation.removeConfirm": "Buang terjemahan ini?"
 }

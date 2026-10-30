@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "요금제 표: {amount}",
   "plans.admin.prices.issue.currency": "요금제 표에 있는 통화가 Stripe에 없습니다.",
   "plans.admin.prices.circleHelp": "플랫폼과 좌석은 0이 기본값이며, 승인 시 협의된 가격 ID가 기록됩니다. 추가 기능은 이 가격으로 청구됩니다.",
+  "plans.subscription.checkoutTerms": "결제 단계에서 가격과 청구 기간을 확인하세요. 정기 구독은 취소하기 전까지 자동으로 갱신됩니다. 이후 결제를 막으려면 다음 갱신일 전에 구독 설정에서 취소하세요.",
   "plans.fanClub.access.timelinesTitle": "타임라인",
   "plans.fanClub.access.timelinesSubtitle": "팬클럽 회원 전용 우주 타임라인입니다.",
   "plans.limits.timelines": "우주별 타임라인",

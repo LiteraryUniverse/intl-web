@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
   "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.subscription.checkoutTerms": "செக்அவுட்டில் விலையையும் கட்டணக் காலத்தையும் சரிபார்க்கவும். தொடர் சந்தாக்கள் ரத்து செய்யப்படும் வரை தானாகப் புதுப்பிக்கப்படும். இனி கட்டணம் வசூலிக்கப்படுவதைத் தடுக்க, அடுத்த புதுப்பிப்புக்கு முன் உங்கள் சந்தா அமைப்புகளில் ரத்து செய்யுங்கள்.",
   "plans.fanClub.access.timelinesTitle": "காலக்கோடுகள்",
   "plans.fanClub.access.timelinesSubtitle": "ரசிகர் மன்ற உறுப்பினர்களுக்காக ஒதுக்கப்பட்ட உலகக் காலக்கோடுகள்.",
   "plans.limits.timelines": "ஒவ்வொரு உலகத்திற்குமான காலக்கோடுகள்",

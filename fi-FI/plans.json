@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Suunnitelmataulukko: {amount}",
   "plans.admin.prices.issue.currency": "Suunnitelmataulukon valuutta puuttuu Stripestä.",
   "plans.admin.prices.circleHelp": "Alusta ja paikka ovat nollaoletuksia; hyväksynnässä kirjataan neuvotellut hintatunnisteet. Lisäosat laskutetaan näillä hinnoilla.",
+  "plans.subscription.checkoutTerms": "Tarkista hinta ja laskutuskausi kassalla. Toistuvat tilaukset uusiutuvat automaattisesti, kunnes ne peruutetaan. Peruuta ennen seuraavaa uusiutumista tilauksen asetuksissa, jotta tulevat veloitukset loppuvat.",
   "plans.fanClub.access.timelinesTitle": "Aikajanat",
   "plans.fanClub.access.timelinesSubtitle": "Faniklubin jäsenille varatut universumin aikajanat.",
   "plans.limits.timelines": "Aikajanat per universumi",

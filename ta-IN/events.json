@@ -40,5 +40,20 @@
   "events.section.details": "விவரங்கள்",
   "events.section.whenWhere": "எப்போது, எங்கே",
   "events.section.who": "யார் பார்க்கலாம்",
-  "events.admin.intro": "நிகழ்வுகள் உங்கள் வாசகர்களுக்காக உங்கள் வலைப்பதிவில் பட்டியலிடப்படும். தேதி, இடம், யார் பார்க்கலாம் என்பதை அமைக்க ஒன்றை உருவாக்குங்கள்."
+  "events.admin.intro": "நிகழ்வுகள் உங்கள் வாசகர்களுக்காக உங்கள் வலைப்பதிவில் பட்டியலிடப்படும். தேதி, இடம், யார் பார்க்கலாம் என்பதை அமைக்க ஒன்றை உருவாக்குங்கள்.",
+  "events.details.language": "முதன்மை மொழி",
+  "events.admin.filter": "நிகழ்வுகளை வடிகட்டு",
+  "events.admin.upcoming": "வரவிருப்பவை",
+  "events.admin.past": "கடந்தவை",
+  "events.admin.noUpcoming": "வரவிருக்கும் நிகழ்வுகள் இல்லை.",
+  "events.admin.noPast": "கடந்த நிகழ்வுகள் இல்லை.",
+  "events.admin.col.event": "நிகழ்வு",
+  "events.admin.col.when": "எப்போது",
+  "events.admin.col.languages": "மொழிகள்",
+  "events.admin.view": "நிகழ்வைப் பார்",
+  "events.admin.edit": "நிகழ்வைத் திருத்து",
+  "events.edit.title": "நிகழ்வைத் திருத்து",
+  "events.notFound": "இந்த நிகழ்வு இல்லை.",
+  "events.translation.remove": "மொழிபெயர்ப்பை நீக்கு",
+  "events.translation.removeConfirm": "இந்த மொழிபெயர்ப்பை நீக்கவா?"
 }

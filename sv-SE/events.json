@@ -40,5 +40,20 @@
   "events.section.details": "Detaljer",
   "events.section.whenWhere": "När och var",
   "events.section.who": "Vem kan se det",
-  "events.admin.intro": "Evenemang visas på din blogg för dina läsare. Skapa ett för att ange datum, plats och vem som kan se det."
+  "events.admin.intro": "Evenemang visas på din blogg för dina läsare. Skapa ett för att ange datum, plats och vem som kan se det.",
+  "events.details.language": "Huvudspråk",
+  "events.admin.filter": "Filtrera evenemang",
+  "events.admin.upcoming": "Kommande",
+  "events.admin.past": "Tidigare",
+  "events.admin.noUpcoming": "Inga kommande evenemang.",
+  "events.admin.noPast": "Inga tidigare evenemang.",
+  "events.admin.col.event": "Evenemang",
+  "events.admin.col.when": "När",
+  "events.admin.col.languages": "Språk",
+  "events.admin.view": "Visa evenemang",
+  "events.admin.edit": "Redigera evenemang",
+  "events.edit.title": "Redigera evenemang",
+  "events.notFound": "Det här evenemanget finns inte.",
+  "events.translation.remove": "Ta bort översättning",
+  "events.translation.removeConfirm": "Ta bort den här översättningen?"
 }

@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Table des plans : {amount}",
   "plans.admin.prices.issue.currency": "Une devise de la table des plans est absente sur Stripe.",
   "plans.admin.prices.circleHelp": "La plateforme et le siège sont à zéro par défaut ; l'approbation enregistre les identifiants des prix négociés. Les modules complémentaires sont facturés à ces prix.",
+  "plans.subscription.checkoutTerms": "Vérifiez le prix et la période de facturation au moment du paiement. Les abonnements récurrents se renouvellent automatiquement jusqu'à leur annulation. Annulez avant votre prochain renouvellement, dans les paramètres de votre abonnement, pour éviter tout prélèvement ultérieur.",
   "plans.fanClub.access.timelinesTitle": "Chronologies",
   "plans.fanClub.access.timelinesSubtitle": "Chronologies de l'univers réservées aux membres du fan club.",
   "plans.limits.timelines": "Chronologies par univers",

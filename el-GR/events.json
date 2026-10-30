@@ -40,5 +40,20 @@
   "events.section.details": "Λεπτομέρειες",
   "events.section.whenWhere": "Πότε και πού",
   "events.section.who": "Ποιος μπορεί να τη δει",
-  "events.admin.intro": "Οι εκδηλώσεις εμφανίζονται στο ιστολόγιό σας για τους αναγνώστες σας. Δημιουργήστε μία για να ορίσετε ημερομηνία, τόπο και ποιος μπορεί να τη δει."
+  "events.admin.intro": "Οι εκδηλώσεις εμφανίζονται στο ιστολόγιό σας για τους αναγνώστες σας. Δημιουργήστε μία για να ορίσετε ημερομηνία, τόπο και ποιος μπορεί να τη δει.",
+  "events.details.language": "Κύρια γλώσσα",
+  "events.admin.filter": "Φιλτράρισμα εκδηλώσεων",
+  "events.admin.upcoming": "Επερχόμενες",
+  "events.admin.past": "Παλαιότερες",
+  "events.admin.noUpcoming": "Δεν υπάρχουν επερχόμενες εκδηλώσεις.",
+  "events.admin.noPast": "Δεν υπάρχουν παλαιότερες εκδηλώσεις.",
+  "events.admin.col.event": "Εκδήλωση",
+  "events.admin.col.when": "Πότε",
+  "events.admin.col.languages": "Γλώσσες",
+  "events.admin.view": "Προβολή εκδήλωσης",
+  "events.admin.edit": "Επεξεργασία εκδήλωσης",
+  "events.edit.title": "Επεξεργασία εκδήλωσης",
+  "events.notFound": "Αυτή η εκδήλωση δεν υπάρχει.",
+  "events.translation.remove": "Αφαίρεση μετάφρασης",
+  "events.translation.removeConfirm": "Να αφαιρεθεί αυτή η μετάφραση;"
 }

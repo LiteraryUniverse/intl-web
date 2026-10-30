@@ -40,5 +40,20 @@
   "events.section.details": "বিস্তারিত",
   "events.section.whenWhere": "কখন ও কোথায়",
   "events.section.who": "কে দেখতে পারবে",
-  "events.admin.intro": "ইভেন্টগুলো আপনার পাঠকদের জন্য আপনার ব্লগে তালিকাভুক্ত থাকে। তারিখ, স্থান এবং কে দেখতে পারবে তা ঠিক করতে একটি ইভেন্ট তৈরি করুন।"
+  "events.admin.intro": "ইভেন্টগুলো আপনার পাঠকদের জন্য আপনার ব্লগে তালিকাভুক্ত থাকে। তারিখ, স্থান এবং কে দেখতে পারবে তা ঠিক করতে একটি ইভেন্ট তৈরি করুন।",
+  "events.details.language": "মূল ভাষা",
+  "events.admin.filter": "ইভেন্ট ফিল্টার করুন",
+  "events.admin.upcoming": "আসন্ন",
+  "events.admin.past": "অতীত",
+  "events.admin.noUpcoming": "কোনো আসন্ন ইভেন্ট নেই।",
+  "events.admin.noPast": "কোনো অতীত ইভেন্ট নেই।",
+  "events.admin.col.event": "ইভেন্ট",
+  "events.admin.col.when": "কখন",
+  "events.admin.col.languages": "ভাষা",
+  "events.admin.view": "ইভেন্ট দেখুন",
+  "events.admin.edit": "ইভেন্ট সম্পাদনা করুন",
+  "events.edit.title": "ইভেন্ট সম্পাদনা করুন",
+  "events.notFound": "এই ইভেন্টটি নেই।",
+  "events.translation.remove": "অনুবাদ মুছে ফেলুন",
+  "events.translation.removeConfirm": "এই অনুবাদটি মুছে ফেলবেন?"
 }

@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} sayfa",
   "comics.import.progress": "Bölüm {chapter}/{chapters} içe aktarılıyor…",
   "comics.import.tapas": "Tapas dışa aktarımını içe aktar (.zip)",
+  "comics.import.done": "{count, plural, one {# epizot bölüm olarak içe aktarıldı.} other {# epizot bölüm olarak içe aktarıldı.}} Tapas'ın kilitli tuttuğu epizotlar dışarıda bırakıldı. Bu sayfaları kendi dosyalarınızdan yükleyin.",
   "comics.pages": "sayfa",
   "comics.pages.add": "+ Sayfa ekle",
   "comics.pages.delete": "Sayfayı sil",

@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Tabulka tarifů: {amount}",
   "plans.admin.prices.issue.currency": "Ve Stripe chybí měna z tabulky tarifů.",
   "plans.admin.prices.circleHelp": "Platforma a místo mají nulové výchozí ceny; při schválení se zaznamenají ID sjednaných cen. Doplňky se účtují za tyto ceny.",
+  "plans.subscription.checkoutTerms": "Cenu a fakturační období zkontrolujte v pokladně. Opakovaná předplatná se obnovují automaticky, dokud je nezrušíte. Chcete-li zastavit další platby, zrušte předplatné v jeho nastavení před dalším obnovením.",
   "plans.fanClub.access.timelinesTitle": "Časové osy",
   "plans.fanClub.access.timelinesSubtitle": "Časové osy vesmíru vyhrazené pro členy fanklubu.",
   "plans.limits.timelines": "Časových os na vesmír",

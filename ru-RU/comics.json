@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} страниц",
   "comics.import.progress": "Импорт главы {chapter}/{chapters}…",
   "comics.import.tapas": "Импортировать экспорт из Tapas (.zip)",
+  "comics.import.done": "{count, plural, one {Импортирован # эпизод как глава.} few {Импортированы # эпизода как главы.} many {Импортировано # эпизодов как главы.} other {Импортировано # эпизода как главы.}} Эпизоды, которые Tapas держал заблокированными, пропущены. Загрузите эти страницы из своих файлов.",
   "comics.pages": "страниц",
   "comics.pages.add": "+ Добавить страницы",
   "comics.pages.delete": "Удалить страницу",

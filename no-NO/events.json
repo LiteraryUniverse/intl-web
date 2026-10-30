@@ -40,5 +40,20 @@
   "events.section.details": "Detaljer",
   "events.section.whenWhere": "Når og hvor",
   "events.section.who": "Hvem kan se det",
-  "events.admin.intro": "Arrangementer vises på bloggen din for leserne dine. Opprett et for å angi dato, sted og hvem som kan se det."
+  "events.admin.intro": "Arrangementer vises på bloggen din for leserne dine. Opprett et for å angi dato, sted og hvem som kan se det.",
+  "events.details.language": "Hovedspråk",
+  "events.admin.filter": "Filtrer arrangementer",
+  "events.admin.upcoming": "Kommende",
+  "events.admin.past": "Tidligere",
+  "events.admin.noUpcoming": "Ingen kommende arrangementer.",
+  "events.admin.noPast": "Ingen tidligere arrangementer.",
+  "events.admin.col.event": "Arrangement",
+  "events.admin.col.when": "Når",
+  "events.admin.col.languages": "Språk",
+  "events.admin.view": "Se arrangement",
+  "events.admin.edit": "Rediger arrangement",
+  "events.edit.title": "Rediger arrangement",
+  "events.notFound": "Dette arrangementet finnes ikke.",
+  "events.translation.remove": "Fjern oversettelse",
+  "events.translation.removeConfirm": "Vil du fjerne denne oversettelsen?"
 }

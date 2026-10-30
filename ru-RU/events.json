@@ -40,5 +40,20 @@
   "events.section.details": "Подробности",
   "events.section.whenWhere": "Когда и где",
   "events.section.who": "Кто его видит",
-  "events.admin.intro": "События показываются в вашем блоге для ваших читателей. Создайте событие, чтобы указать дату, место и то, кто его видит."
+  "events.admin.intro": "События показываются в вашем блоге для ваших читателей. Создайте событие, чтобы указать дату, место и то, кто его видит.",
+  "events.details.language": "Основной язык",
+  "events.admin.filter": "Фильтровать события",
+  "events.admin.upcoming": "Предстоящие",
+  "events.admin.past": "Прошедшие",
+  "events.admin.noUpcoming": "Нет предстоящих событий.",
+  "events.admin.noPast": "Нет прошедших событий.",
+  "events.admin.col.event": "Событие",
+  "events.admin.col.when": "Когда",
+  "events.admin.col.languages": "Языки",
+  "events.admin.view": "Посмотреть событие",
+  "events.admin.edit": "Редактировать событие",
+  "events.edit.title": "Редактировать событие",
+  "events.notFound": "Такого события не существует.",
+  "events.translation.remove": "Удалить перевод",
+  "events.translation.removeConfirm": "Удалить этот перевод?"
 }

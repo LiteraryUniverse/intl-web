@@ -40,5 +40,20 @@
   "events.section.details": "Detaljer",
   "events.section.whenWhere": "Hvornår og hvor",
   "events.section.who": "Hvem kan se den",
-  "events.admin.intro": "Begivenheder vises på din blog for dine læsere. Opret en for at angive en dato, et sted og hvem der kan se den."
+  "events.admin.intro": "Begivenheder vises på din blog for dine læsere. Opret en for at angive en dato, et sted og hvem der kan se den.",
+  "events.details.language": "Hovedsprog",
+  "events.admin.filter": "Filtrer begivenheder",
+  "events.admin.upcoming": "Kommende",
+  "events.admin.past": "Tidligere",
+  "events.admin.noUpcoming": "Ingen kommende begivenheder.",
+  "events.admin.noPast": "Ingen tidligere begivenheder.",
+  "events.admin.col.event": "Begivenhed",
+  "events.admin.col.when": "Hvornår",
+  "events.admin.col.languages": "Sprog",
+  "events.admin.view": "Se begivenhed",
+  "events.admin.edit": "Rediger begivenhed",
+  "events.edit.title": "Rediger begivenhed",
+  "events.notFound": "Denne begivenhed findes ikke.",
+  "events.translation.remove": "Fjern oversættelse",
+  "events.translation.removeConfirm": "Fjern denne oversættelse?"
 }

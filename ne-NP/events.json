@@ -40,5 +40,20 @@
   "events.section.details": "विवरण",
   "events.section.whenWhere": "कहिले र कहाँ",
   "events.section.who": "कसले देख्न सक्छ",
-  "events.admin.intro": "कार्यक्रमहरू तपाईंका पाठकहरूका लागि तपाईंको ब्लगमा सूचीबद्ध हुन्छन्। मिति, ठाउँ र कसले देख्न सक्छ भन्ने तय गर्न एउटा बनाउनुहोस्।"
+  "events.admin.intro": "कार्यक्रमहरू तपाईंका पाठकहरूका लागि तपाईंको ब्लगमा सूचीबद्ध हुन्छन्। मिति, ठाउँ र कसले देख्न सक्छ भन्ने तय गर्न एउटा बनाउनुहोस्।",
+  "events.details.language": "मुख्य भाषा",
+  "events.admin.filter": "कार्यक्रम फिल्टर गर्नुहोस्",
+  "events.admin.upcoming": "आगामी",
+  "events.admin.past": "बितेका",
+  "events.admin.noUpcoming": "कुनै आगामी कार्यक्रम छैन।",
+  "events.admin.noPast": "कुनै बितेको कार्यक्रम छैन।",
+  "events.admin.col.event": "कार्यक्रम",
+  "events.admin.col.when": "कहिले",
+  "events.admin.col.languages": "भाषाहरू",
+  "events.admin.view": "कार्यक्रम हेर्नुहोस्",
+  "events.admin.edit": "कार्यक्रम सम्पादन गर्नुहोस्",
+  "events.edit.title": "कार्यक्रम सम्पादन गर्नुहोस्",
+  "events.notFound": "यो कार्यक्रम अवस्थित छैन।",
+  "events.translation.remove": "अनुवाद हटाउनुहोस्",
+  "events.translation.removeConfirm": "यो अनुवाद हटाउने?"
 }

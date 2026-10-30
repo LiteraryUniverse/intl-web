@@ -40,5 +40,20 @@
   "events.section.details": "Ayrıntılar",
   "events.section.whenWhere": "Ne zaman ve nerede",
   "events.section.who": "Kimler görebilir",
-  "events.admin.intro": "Etkinlikler blogunuzda okurlarınız için listelenir. Tarihi, yeri ve kimlerin görebileceğini belirlemek için bir etkinlik oluşturun."
+  "events.admin.intro": "Etkinlikler blogunuzda okurlarınız için listelenir. Tarihi, yeri ve kimlerin görebileceğini belirlemek için bir etkinlik oluşturun.",
+  "events.details.language": "Ana dil",
+  "events.admin.filter": "Etkinlikleri filtrele",
+  "events.admin.upcoming": "Yaklaşan",
+  "events.admin.past": "Geçmiş",
+  "events.admin.noUpcoming": "Yaklaşan etkinlik yok.",
+  "events.admin.noPast": "Geçmiş etkinlik yok.",
+  "events.admin.col.event": "Etkinlik",
+  "events.admin.col.when": "Ne zaman",
+  "events.admin.col.languages": "Diller",
+  "events.admin.view": "Etkinliği görüntüle",
+  "events.admin.edit": "Etkinliği düzenle",
+  "events.edit.title": "Etkinliği düzenle",
+  "events.notFound": "Bu etkinlik mevcut değil.",
+  "events.translation.remove": "Çeviriyi kaldır",
+  "events.translation.removeConfirm": "Bu çeviri kaldırılsın mı?"
 }

@@ -40,5 +40,20 @@
   "events.section.details": "დეტალები",
   "events.section.whenWhere": "როდის და სად",
   "events.section.who": "ვინ ხედავს",
-  "events.admin.intro": "ღონისძიებები თქვენს ბლოგზე ჩანს თქვენი მკითხველებისთვის. შექმენით ღონისძიება, რომ მიუთითოთ თარიღი, ადგილი და ვინ ხედავს მას."
+  "events.admin.intro": "ღონისძიებები თქვენს ბლოგზე ჩანს თქვენი მკითხველებისთვის. შექმენით ღონისძიება, რომ მიუთითოთ თარიღი, ადგილი და ვინ ხედავს მას.",
+  "events.details.language": "ძირითადი ენა",
+  "events.admin.filter": "ღონისძიებების გაფილტვრა",
+  "events.admin.upcoming": "მომავალი",
+  "events.admin.past": "გასული",
+  "events.admin.noUpcoming": "მომავალი ღონისძიებები არ არის.",
+  "events.admin.noPast": "გასული ღონისძიებები არ არის.",
+  "events.admin.col.event": "ღონისძიება",
+  "events.admin.col.when": "როდის",
+  "events.admin.col.languages": "ენები",
+  "events.admin.view": "ღონისძიების ნახვა",
+  "events.admin.edit": "ღონისძიების რედაქტირება",
+  "events.edit.title": "ღონისძიების რედაქტირება",
+  "events.notFound": "ეს ღონისძიება არ არსებობს.",
+  "events.translation.remove": "თარგმანის წაშლა",
+  "events.translation.removeConfirm": "წაიშალოს ეს თარგმანი?"
 }

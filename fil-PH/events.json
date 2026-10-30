@@ -40,5 +40,20 @@
   "events.section.details": "Mga detalye",
   "events.section.whenWhere": "Kailan at saan",
   "events.section.who": "Sino ang makakakita",
-  "events.admin.intro": "Nakalista ang mga kaganapan sa iyong blog para sa iyong mga mambabasa. Gumawa ng isa para magtakda ng petsa, lugar, at kung sino ang makakakita nito."
+  "events.admin.intro": "Nakalista ang mga kaganapan sa iyong blog para sa iyong mga mambabasa. Gumawa ng isa para magtakda ng petsa, lugar, at kung sino ang makakakita nito.",
+  "events.details.language": "Pangunahing wika",
+  "events.admin.filter": "I-filter ang mga kaganapan",
+  "events.admin.upcoming": "Paparating",
+  "events.admin.past": "Nakaraan",
+  "events.admin.noUpcoming": "Walang paparating na kaganapan.",
+  "events.admin.noPast": "Walang nakaraang kaganapan.",
+  "events.admin.col.event": "Kaganapan",
+  "events.admin.col.when": "Kailan",
+  "events.admin.col.languages": "Mga wika",
+  "events.admin.view": "Tingnan ang kaganapan",
+  "events.admin.edit": "I-edit ang kaganapan",
+  "events.edit.title": "I-edit ang kaganapan",
+  "events.notFound": "Hindi umiiral ang kaganapang ito.",
+  "events.translation.remove": "Alisin ang salin",
+  "events.translation.removeConfirm": "Alisin ang salin na ito?"
 }

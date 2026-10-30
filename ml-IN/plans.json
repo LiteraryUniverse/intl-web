@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
   "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.subscription.checkoutTerms": "ചെക്ക്ഔട്ടിൽ വിലയും ബില്ലിംഗ് കാലയളവും പരിശോധിക്കുക. ആവർത്തന സബ്സ്ക്രിപ്ഷനുകൾ റദ്ദാക്കുന്നതുവരെ സ്വയമേവ പുതുക്കപ്പെടും. ഇനിയുള്ള നിരക്കുകൾ ഒഴിവാക്കാൻ, അടുത്ത പുതുക്കലിന് മുമ്പ് നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷൻ ക്രമീകരണങ്ങളിൽ റദ്ദാക്കുക.",
   "plans.fanClub.access.timelinesTitle": "ടൈംലൈനുകൾ",
   "plans.fanClub.access.timelinesSubtitle": "ഫാൻ ക്ലബ് അംഗങ്ങൾക്കായി മാറ്റിവെച്ച ബ്രഹ്മാണ്ഡ ടൈംലൈനുകൾ.",
   "plans.limits.timelines": "ഓരോ ബ്രഹ്മാണ്ഡത്തിനും ടൈംലൈനുകൾ",

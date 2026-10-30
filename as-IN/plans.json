@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
   "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.subscription.checkoutTerms": "Review the price and billing period at checkout. Recurring subscriptions renew automatically until canceled. Cancel before your next renewal in your subscription settings to stop future charges.",
   "plans.fanClub.access.timelinesTitle": "সময়ৰেখাসমূহ",
   "plans.fanClub.access.timelinesSubtitle": "ফেন ক্লাবৰ সদস্যৰ বাবে সংৰক্ষিত ব্ৰহ্মাণ্ডৰ সময়ৰেখা।",
   "plans.limits.timelines": "প্ৰতি ব্ৰহ্মাণ্ডত সময়ৰেখা",

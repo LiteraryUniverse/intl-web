@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
   "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.subscription.checkoutTerms": "चेकआउटमा मूल्य र बिलिङ अवधि जाँच्नुहोस्। आवर्ती सदस्यताहरू रद्द नगरेसम्म आफैं नवीनीकरण हुन्छन्। भविष्यका शुल्क रोक्न अर्को नवीनीकरणअघि आफ्नो सदस्यता सेटिङ्समा रद्द गर्नुहोस्।",
   "plans.fanClub.access.timelinesTitle": "समयरेखा",
   "plans.fanClub.access.timelinesSubtitle": "फ्यान क्लब सदस्यहरूका लागि आरक्षित ब्रह्माण्डका समयरेखाहरू।",
   "plans.limits.timelines": "प्रति ब्रह्माण्ड समयरेखाहरू",

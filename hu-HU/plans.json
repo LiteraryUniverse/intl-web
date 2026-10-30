@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Csomagtáblázat: {amount}",
   "plans.admin.prices.issue.currency": "A csomagtáblázat egyik pénzneme hiányzik a Stripe-on.",
   "plans.admin.prices.circleHelp": "A platform és a hely a nulla alapértékeket használja; a jóváhagyás rögzíti a megtárgyalt árazonosítókat. A kiegészítőket ezeken az árakon számlázzuk.",
+  "plans.subscription.checkoutTerms": "Nézd át az árat és a számlázási időszakot a fizetésnél. Az ismétlődő előfizetések automatikusan megújulnak, amíg le nem mondod őket. A további terhelések megállításához a következő megújulás előtt mondd le az előfizetést az előfizetési beállításokban.",
   "plans.fanClub.access.timelinesTitle": "Idővonalak",
   "plans.fanClub.access.timelinesSubtitle": "Az univerzum rajongói klubtagoknak fenntartott idővonalai.",
   "plans.limits.timelines": "Idővonalak univerzumonként",

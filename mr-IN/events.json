@@ -40,5 +40,20 @@
   "events.section.details": "तपशील",
   "events.section.whenWhere": "कधी आणि कुठे",
   "events.section.who": "कोण पाहू शकते",
-  "events.admin.intro": "कार्यक्रम तुमच्या वाचकांसाठी तुमच्या ब्लॉगवर सूचीबद्ध होतात. तारीख, ठिकाण आणि ते कोण पाहू शकते हे ठरवण्यासाठी एक कार्यक्रम तयार करा."
+  "events.admin.intro": "कार्यक्रम तुमच्या वाचकांसाठी तुमच्या ब्लॉगवर सूचीबद्ध होतात. तारीख, ठिकाण आणि ते कोण पाहू शकते हे ठरवण्यासाठी एक कार्यक्रम तयार करा.",
+  "events.details.language": "मुख्य भाषा",
+  "events.admin.filter": "इव्हेंट फिल्टर करा",
+  "events.admin.upcoming": "आगामी",
+  "events.admin.past": "मागील",
+  "events.admin.noUpcoming": "आगामी इव्हेंट नाहीत.",
+  "events.admin.noPast": "मागील इव्हेंट नाहीत.",
+  "events.admin.col.event": "इव्हेंट",
+  "events.admin.col.when": "केव्हा",
+  "events.admin.col.languages": "भाषा",
+  "events.admin.view": "इव्हेंट पाहा",
+  "events.admin.edit": "इव्हेंट संपादित करा",
+  "events.edit.title": "इव्हेंट संपादित करा",
+  "events.notFound": "हा इव्हेंट अस्तित्वात नाही.",
+  "events.translation.remove": "भाषांतर काढा",
+  "events.translation.removeConfirm": "हे भाषांतर काढायचे?"
 }

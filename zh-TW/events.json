@@ -40,5 +40,20 @@
   "events.section.details": "詳細資料",
   "events.section.whenWhere": "時間與地點",
   "events.section.who": "誰可以看到",
-  "events.admin.intro": "活動會列在你的部落格上供讀者查看。建立活動以設定日期、地點和誰可以看到。"
+  "events.admin.intro": "活動會列在你的部落格上供讀者查看。建立活動以設定日期、地點和誰可以看到。",
+  "events.details.language": "主要語言",
+  "events.admin.filter": "篩選活動",
+  "events.admin.upcoming": "即將舉行",
+  "events.admin.past": "已結束",
+  "events.admin.noUpcoming": "沒有即將舉行的活動。",
+  "events.admin.noPast": "沒有已結束的活動。",
+  "events.admin.col.event": "活動",
+  "events.admin.col.when": "時間",
+  "events.admin.col.languages": "語言",
+  "events.admin.view": "查看活動",
+  "events.admin.edit": "編輯活動",
+  "events.edit.title": "編輯活動",
+  "events.notFound": "這個活動不存在。",
+  "events.translation.remove": "移除翻譯",
+  "events.translation.removeConfirm": "要移除這個翻譯嗎？"
 }

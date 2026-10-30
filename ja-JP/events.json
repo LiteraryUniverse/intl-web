@@ -40,5 +40,20 @@
   "events.section.details": "詳細",
   "events.section.whenWhere": "日時と場所",
   "events.section.who": "公開範囲",
-  "events.admin.intro": "イベントは読者に向けてブログに掲載されます。イベントを作成して、日付、場所、公開範囲を設定しましょう。"
+  "events.admin.intro": "イベントは読者に向けてブログに掲載されます。イベントを作成して、日付、場所、公開範囲を設定しましょう。",
+  "events.details.language": "メイン言語",
+  "events.admin.filter": "イベントを絞り込む",
+  "events.admin.upcoming": "今後",
+  "events.admin.past": "過去",
+  "events.admin.noUpcoming": "今後のイベントはありません。",
+  "events.admin.noPast": "過去のイベントはありません。",
+  "events.admin.col.event": "イベント",
+  "events.admin.col.when": "日時",
+  "events.admin.col.languages": "言語",
+  "events.admin.view": "イベントを表示",
+  "events.admin.edit": "イベントを編集",
+  "events.edit.title": "イベントを編集",
+  "events.notFound": "このイベントは存在しません。",
+  "events.translation.remove": "翻訳を削除",
+  "events.translation.removeConfirm": "この翻訳を削除しますか？"
 }

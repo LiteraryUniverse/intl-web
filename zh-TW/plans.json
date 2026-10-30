@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "方案表：{amount}",
   "plans.admin.prices.issue.currency": "Stripe 上缺少方案表中的某個貨幣。",
   "plans.admin.prices.circleHelp": "平台與席次為零元預設值；核准時會記錄議定的價格 ID。附加項目依這些價格計費。",
+  "plans.subscription.checkoutTerms": "請在結帳時確認價格與計費週期。定期訂閱會自動續訂，直到您取消為止。若要停止之後的扣款，請在下次續訂前於訂閱設定中取消。",
   "plans.fanClub.access.timelinesTitle": "時間軸",
   "plans.fanClub.access.timelinesSubtitle": "保留給粉絲俱樂部會員的宇宙時間軸。",
   "plans.limits.timelines": "每個宇宙的時間軸",

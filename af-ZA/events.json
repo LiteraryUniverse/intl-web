@@ -40,5 +40,20 @@
   "events.section.details": "Besonderhede",
   "events.section.whenWhere": "Wanneer en waar",
   "events.section.who": "Wie dit kan sien",
-  "events.admin.intro": "Geleenthede word op jou blog vir jou lesers gelys. Skep een om 'n datum, 'n plek en wie dit kan sien, vas te stel."
+  "events.admin.intro": "Geleenthede word op jou blog vir jou lesers gelys. Skep een om 'n datum, 'n plek en wie dit kan sien, vas te stel.",
+  "events.details.language": "Hooftaal",
+  "events.admin.filter": "Filtreer gebeurtenisse",
+  "events.admin.upcoming": "Komende",
+  "events.admin.past": "Verby",
+  "events.admin.noUpcoming": "Geen komende gebeurtenisse nie.",
+  "events.admin.noPast": "Geen verlede gebeurtenisse nie.",
+  "events.admin.col.event": "Gebeurtenis",
+  "events.admin.col.when": "Wanneer",
+  "events.admin.col.languages": "Tale",
+  "events.admin.view": "Bekyk gebeurtenis",
+  "events.admin.edit": "Wysig gebeurtenis",
+  "events.edit.title": "Wysig gebeurtenis",
+  "events.notFound": "Hierdie gebeurtenis bestaan nie.",
+  "events.translation.remove": "Verwyder vertaling",
+  "events.translation.removeConfirm": "Verwyder hierdie vertaling?"
 }

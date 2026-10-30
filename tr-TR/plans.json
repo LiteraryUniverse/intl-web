@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan tablosu: {amount}",
   "plans.admin.prices.issue.currency": "Plan tablosundaki bir para birimi Stripe'ta eksik.",
   "plans.admin.prices.circleHelp": "Platform ve koltuk, sıfır olan varsayılanlardır; onay sırasında üzerinde anlaşılan fiyat kimlikleri kaydedilir. Eklentiler bu fiyatlarla faturalandırılır.",
+  "plans.subscription.checkoutTerms": "Fiyatı ve faturalama dönemini ödeme sayfasında kontrol edin. Yinelenen abonelikler iptal edilene kadar otomatik olarak yenilenir. Sonraki ücretlendirmeleri durdurmak için bir sonraki yenilemeden önce abonelik ayarlarınızdan iptal edin.",
   "plans.fanClub.access.timelinesTitle": "Zaman çizelgeleri",
   "plans.fanClub.access.timelinesSubtitle": "Hayran kulübü üyelerine ayrılmış evren zaman çizelgeleri.",
   "plans.limits.timelines": "Evren başına zaman çizelgesi",

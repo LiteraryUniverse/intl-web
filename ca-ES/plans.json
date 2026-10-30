@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Taula de plans: {amount}",
   "plans.admin.prices.issue.currency": "Falta a Stripe una moneda de la taula de plans.",
   "plans.admin.prices.circleHelp": "La plataforma i la plaça són els valors per defecte a zero; l'aprovació registra els identificadors de preu negociats. Els complements es facturen a aquests preus.",
+  "plans.subscription.checkoutTerms": "Revisa el preu i el període de facturació en el moment del pagament. Les subscripcions periòdiques es renoven automàticament fins que es cancel·len. Cancel·la abans de la propera renovació, a la configuració de la teva subscripció, per evitar càrrecs futurs.",
   "plans.fanClub.access.timelinesTitle": "Línies temporals",
   "plans.fanClub.access.timelinesSubtitle": "Línies temporals de l'univers reservades als membres del club de fans.",
   "plans.limits.timelines": "Línies temporals per univers",

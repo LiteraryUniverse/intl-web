@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} сторінок",
   "comics.import.progress": "Імпорт розділу {chapter}/{chapters}…",
   "comics.import.tapas": "Імпортувати експорт із Tapas (.zip)",
+  "comics.import.done": "{count, plural, one {# епізод імпортовано як розділ.} few {# епізоди імпортовано як розділи.} many {# епізодів імпортовано як розділи.} other {# епізоду імпортовано як розділи.}} Епізоди, які Tapas тримав заблокованими, пропущено. Завантажте ці сторінки з власних файлів.",
   "comics.pages": "сторінок",
   "comics.pages.add": "+ Додати сторінки",
   "comics.pages.delete": "Видалити сторінку",

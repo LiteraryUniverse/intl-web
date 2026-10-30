@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} stron",
   "comics.import.progress": "Importowanie rozdziału {chapter}/{chapters}…",
   "comics.import.tapas": "Importuj eksport z Tapas (.zip)",
+  "comics.import.done": "{count, plural, one {Zaimportowano # odcinek jako rozdział.} few {Zaimportowano # odcinki jako rozdziały.} many {Zaimportowano # odcinków jako rozdziały.} other {Zaimportowano # odcinka jako rozdziały.}} Odcinki, które Tapas trzymał zablokowane, zostały pominięte. Prześlij te strony z własnych plików.",
   "comics.pages": "strony",
   "comics.pages.add": "+ Dodaj strony",
   "comics.pages.delete": "Usuń stronę",

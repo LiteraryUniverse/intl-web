@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plan table: {amount}",
   "plans.admin.prices.issue.currency": "A currency from the plan table is missing on Stripe.",
   "plans.admin.prices.circleHelp": "Platform and seat are the zero defaults; approval records the negotiated price IDs. Add-ons are billed at these prices.",
+  "plans.subscription.checkoutTerms": "გადახდისას გადაამოწმეთ ფასი და ანგარიშსწორების პერიოდი. განმეორებადი გამოწერები ავტომატურად ახლდება გაუქმებამდე. მომავალი გადასახადების შესაჩერებლად გააუქმეთ გამოწერა შემდეგ განახლებამდე, გამოწერის პარამეტრებში.",
   "plans.fanClub.access.timelinesTitle": "ქრონოლოგია",
   "plans.fanClub.access.timelinesSubtitle": "უნივერსუმის ქრონოლოგიები ფანკლუბის წევრებისთვის.",
   "plans.limits.timelines": "ქრონოლოგიები თითო უნივერსუმზე",

@@ -40,5 +40,20 @@
   "events.section.details": "세부 정보",
   "events.section.whenWhere": "일시와 장소",
   "events.section.who": "공개 대상",
-  "events.admin.intro": "이벤트는 독자를 위해 블로그에 표시됩니다. 이벤트를 만들어 날짜, 장소, 공개 대상을 정하세요."
+  "events.admin.intro": "이벤트는 독자를 위해 블로그에 표시됩니다. 이벤트를 만들어 날짜, 장소, 공개 대상을 정하세요.",
+  "events.details.language": "주 언어",
+  "events.admin.filter": "이벤트 필터",
+  "events.admin.upcoming": "예정",
+  "events.admin.past": "종료됨",
+  "events.admin.noUpcoming": "예정된 이벤트가 없습니다.",
+  "events.admin.noPast": "지난 이벤트가 없습니다.",
+  "events.admin.col.event": "이벤트",
+  "events.admin.col.when": "일시",
+  "events.admin.col.languages": "언어",
+  "events.admin.view": "이벤트 보기",
+  "events.admin.edit": "이벤트 편집",
+  "events.edit.title": "이벤트 편집",
+  "events.notFound": "이 이벤트는 존재하지 않습니다.",
+  "events.translation.remove": "번역 삭제",
+  "events.translation.removeConfirm": "이 번역을 삭제할까요?"
 }

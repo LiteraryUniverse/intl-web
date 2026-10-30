@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Bảng gói: {amount}",
   "plans.admin.prices.issue.currency": "Một loại tiền tệ trong bảng gói bị thiếu trên Stripe.",
   "plans.admin.prices.circleHelp": "Phí nền tảng và phí chỗ mặc định bằng không; việc phê duyệt ghi lại các ID giá đã thương lượng. Tiện ích bổ sung được tính theo các mức giá này.",
+  "plans.subscription.checkoutTerms": "Hãy kiểm tra giá và chu kỳ thanh toán tại bước thanh toán. Gói đăng ký định kỳ sẽ tự động gia hạn cho đến khi bạn hủy. Muốn ngừng bị tính phí về sau, hãy hủy trong phần cài đặt đăng ký trước kỳ gia hạn tiếp theo.",
   "plans.fanClub.access.timelinesTitle": "Dòng thời gian",
   "plans.fanClub.access.timelinesSubtitle": "Dòng thời gian của vũ trụ dành riêng cho thành viên câu lạc bộ người hâm mộ.",
   "plans.limits.timelines": "Dòng thời gian cho mỗi vũ trụ",

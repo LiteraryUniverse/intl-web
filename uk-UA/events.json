@@ -40,5 +40,20 @@
   "events.section.details": "Деталі",
   "events.section.whenWhere": "Коли і де",
   "events.section.who": "Хто її бачить",
-  "events.admin.intro": "Події показуються у вашому блозі для ваших читачів. Створіть подію, щоб указати дату, місце й те, хто її бачить."
+  "events.admin.intro": "Події показуються у вашому блозі для ваших читачів. Створіть подію, щоб указати дату, місце й те, хто її бачить.",
+  "events.details.language": "Основна мова",
+  "events.admin.filter": "Фільтрувати події",
+  "events.admin.upcoming": "Майбутні",
+  "events.admin.past": "Минулі",
+  "events.admin.noUpcoming": "Немає майбутніх подій.",
+  "events.admin.noPast": "Немає минулих подій.",
+  "events.admin.col.event": "Подія",
+  "events.admin.col.when": "Коли",
+  "events.admin.col.languages": "Мови",
+  "events.admin.view": "Переглянути подію",
+  "events.admin.edit": "Редагувати подію",
+  "events.edit.title": "Редагувати подію",
+  "events.notFound": "Такої події не існує.",
+  "events.translation.remove": "Вилучити переклад",
+  "events.translation.removeConfirm": "Вилучити цей переклад?"
 }

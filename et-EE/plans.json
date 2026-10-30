@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "Plaanitabel: {amount}",
   "plans.admin.prices.issue.currency": "Plaanitabeli valuuta puudub Stripe'is.",
   "plans.admin.prices.circleHelp": "Platvorm ja koht on nullväärtusega vaikehinnad; heakskiitmisel salvestatakse kokkulepitud hinna ID-d. Lisad arveldatakse nende hindadega.",
+  "plans.subscription.checkoutTerms": "Vaata hind ja arveldusperiood kassas üle. Korduvad tellimused uuenevad automaatselt, kuni need tühistatakse. Tühista oma tellimuse seadetes enne järgmist uuendamist, et edasised maksed peatada.",
   "plans.fanClub.access.timelinesTitle": "Ajajooned",
   "plans.fanClub.access.timelinesSubtitle": "Fänniklubi liikmetele reserveeritud universumi ajajooned.",
   "plans.limits.timelines": "Ajajooned universumi kohta",

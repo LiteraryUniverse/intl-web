@@ -526,6 +526,7 @@
   "plans.admin.prices.expected": "योजना तालिका: {amount}",
   "plans.admin.prices.issue.currency": "योजना तालिका की एक मुद्रा Stripe पर नहीं है।",
   "plans.admin.prices.circleHelp": "प्लेटफ़ॉर्म और सीट की कीमतें डिफ़ॉल्ट रूप से शून्य हैं; स्वीकृति के समय तय की गई price ID दर्ज की जाती हैं। ऐड-ऑन का बिल इन्हीं कीमतों पर बनता है।",
+  "plans.subscription.checkoutTerms": "चेकआउट पर कीमत और बिलिंग अवधि जाँच लें। आवर्ती सदस्यताएँ रद्द किए जाने तक अपने आप नवीनीकृत होती रहती हैं। आगे के शुल्क रोकने के लिए अगले नवीनीकरण से पहले अपनी सदस्यता सेटिंग्स में रद्द करें।",
   "plans.fanClub.access.timelinesTitle": "टाइमलाइन",
   "plans.fanClub.access.timelinesSubtitle": "फैन क्लब सदस्यों के लिए आरक्षित ब्रह्मांड टाइमलाइन।",
   "plans.limits.timelines": "प्रति ब्रह्मांड टाइमलाइन",

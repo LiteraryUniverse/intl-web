@@ -90,6 +90,7 @@
   "comics.pageCount": "{count}페이지",
   "comics.import.progress": "챕터 {chapter}/{chapters} 가져오는 중…",
   "comics.import.tapas": "Tapas 내보내기 가져오기 (.zip)",
+  "comics.import.done": "{count, plural, other {에피소드 #개를 챕터로 가져왔습니다.}} Tapas에서 잠긴 상태로 남아 있던 에피소드는 제외되었습니다. 해당 페이지는 가지고 있는 파일에서 업로드하세요.",
   "comics.pages": "페이지",
   "comics.pages.add": "+ 페이지 추가",
   "comics.pages.delete": "페이지 삭제",

@@ -40,5 +40,20 @@
   "events.section.details": "Üksikasjad",
   "events.section.whenWhere": "Millal ja kus",
   "events.section.who": "Kes seda näevad",
-  "events.admin.intro": "Sündmused kuvatakse sinu blogis lugejatele. Loo sündmus, et määrata kuupäev, koht ja see, kes seda näevad."
+  "events.admin.intro": "Sündmused kuvatakse sinu blogis lugejatele. Loo sündmus, et määrata kuupäev, koht ja see, kes seda näevad.",
+  "events.details.language": "Põhikeel",
+  "events.admin.filter": "Filtreeri sündmusi",
+  "events.admin.upcoming": "Tulevased",
+  "events.admin.past": "Möödunud",
+  "events.admin.noUpcoming": "Tulevasi sündmusi pole.",
+  "events.admin.noPast": "Möödunud sündmusi pole.",
+  "events.admin.col.event": "Sündmus",
+  "events.admin.col.when": "Millal",
+  "events.admin.col.languages": "Keeled",
+  "events.admin.view": "Vaata sündmust",
+  "events.admin.edit": "Muuda sündmust",
+  "events.edit.title": "Muuda sündmust",
+  "events.notFound": "Seda sündmust pole olemas.",
+  "events.translation.remove": "Eemalda tõlge",
+  "events.translation.removeConfirm": "Kas eemaldada see tõlge?"
 }

@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} pagina's",
   "comics.import.progress": "Hoofdstuk {chapter}/{chapters} wordt geïmporteerd…",
   "comics.import.tapas": "Een Tapas-export importeren (.zip)",
+  "comics.import.done": "{count, plural, one {# aflevering is als hoofdstuk geïmporteerd.} other {# afleveringen zijn als hoofdstukken geïmporteerd.}} Afleveringen die Tapas vergrendeld hield, zijn weggelaten. Upload die pagina's vanuit je eigen bestanden.",
   "comics.pages": "pagina's",
   "comics.pages.add": "+ Pagina's toevoegen",
   "comics.pages.delete": "Pagina verwijderen",

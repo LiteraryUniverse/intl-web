@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} trang",
   "comics.import.progress": "Đang nhập chương {chapter}/{chapters}…",
   "comics.import.tapas": "Nhập bản xuất từ Tapas (.zip)",
+  "comics.import.done": "{count, plural, other {Đã nhập # tập thành chương.}} Những tập mà Tapas vẫn khóa đã bị bỏ qua. Hãy tải các trang đó lên từ tệp của riêng bạn.",
   "comics.pages": "trang",
   "comics.pages.add": "+ Thêm trang",
   "comics.pages.delete": "Xóa trang",

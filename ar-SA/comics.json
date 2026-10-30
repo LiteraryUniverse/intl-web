@@ -90,6 +90,7 @@
   "comics.pageCount": "{count} صفحة",
   "comics.import.progress": "جارٍ استيراد الفصل {chapter}/{chapters}…",
   "comics.import.tapas": "استيراد ملف تصدير Tapas (.zip)",
+  "comics.import.done": "{count, plural, zero {لم تُستورد أي حلقة كفصل.} one {استُوردت حلقة واحدة كفصل.} two {استُوردت حلقتان كفصلين.} few {استُوردت # حلقات كفصول.} many {استُوردت # حلقة كفصول.} other {استُوردت # حلقة كفصول.}} استُبعدت الحلقات التي أبقاها Tapas مقفلة. ارفع تلك الصفحات من ملفاتك الخاصة.",
   "comics.pages": "صفحات",
   "comics.pages.add": "+ إضافة صفحات",
   "comics.pages.delete": "حذف الصفحة",
