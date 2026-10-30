@@ -91,6 +91,7 @@
   "comics.import.progress": "თავის {chapter}/{chapters} იმპორტი…",
   "comics.import.tapas": "Tapas-ის ექსპორტის იმპორტი (.zip)",
   "comics.import.done": "{count, plural, one {# ეპიზოდი იმპორტირდა თავად.} other {# ეპიზოდი იმპორტირდა თავებად.}} ეპიზოდები, რომლებიც Tapas-ს დაკეტილი ჰქონდა, გამოტოვებულია. ეს გვერდები საკუთარი ფაილებიდან ატვირთეთ.",
+  "comics.import.doneOf": "{total, plural, one {# ეპიზოდიდან} other {# ეპიზოდიდან}} {count, number} იმპორტირდა თავებად. {missing, plural, =0 {} one {# დაკეტილი ეპიზოდი გამოტოვებულია. ეს გვერდები საკუთარი ფაილებიდან ატვირთეთ.} other {# დაკეტილი ეპიზოდი გამოტოვებულია. ეს გვერდები საკუთარი ფაილებიდან ატვირთეთ.}}",
   "comics.pages": "გვერდები",
   "comics.pages.add": "+ გვერდების დამატება",
   "comics.pages.delete": "გვერდის წაშლა",

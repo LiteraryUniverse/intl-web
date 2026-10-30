@@ -91,6 +91,7 @@
   "comics.import.progress": "अध्याय {chapter}/{chapters} आयात हो रहा है…",
   "comics.import.tapas": "Tapas निर्यात आयात करें (.zip)",
   "comics.import.done": "{count, plural, one {# एपिसोड अध्याय के रूप में आयात किया गया।} other {# एपिसोड अध्यायों के रूप में आयात किए गए।}} Tapas पर जो एपिसोड लॉक थे, उन्हें छोड़ दिया गया। उन पेजों को अपनी फ़ाइलों से अपलोड करें।",
+  "comics.import.doneOf": "{total, plural, one {# एपिसोड में से} other {# एपिसोड में से}} {count, number} अध्यायों के रूप में आयात किए गए। {missing, plural, =0 {} one {# लॉक किया गया एपिसोड छोड़ दिया गया। उन पेजों को अपनी फ़ाइलों से अपलोड करें।} other {# लॉक किए गए एपिसोड छोड़ दिए गए। उन पेजों को अपनी फ़ाइलों से अपलोड करें।}}",
   "comics.pages": "पृष्ठ",
   "comics.pages.add": "+ पृष्ठ जोड़ें",
   "comics.pages.delete": "पृष्ठ हटाएं",

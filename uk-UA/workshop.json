@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Роман",
   "workshop.import.received.comic": "Комікс",
   "workshop.import.received.date": "отримано {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# епізод} few {# епізоди} many {# епізодів} other {# епізоду}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify міг видалити цей файл} one {Доступний ще # день} few {Доступний ще # дні} many {Доступний ще # днів} other {Доступний ще # дня}}",
   "workshop.import.received.comicHint": "Комікси імпортуються зі списку розділів коміксу.",
   "workshop.import.received.toComics": "Перейти до моїх коміксів",

@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "小說",
   "workshop.import.received.comic": "漫畫",
   "workshop.import.received.date": "{date}收到",
+  "workshop.import.received.episodes": "{count, plural, other {# 集}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify 可能已刪除此檔案} other {還可使用 # 天}}",
   "workshop.import.received.comicHint": "漫畫要從該漫畫的章節清單匯入。",
   "workshop.import.received.toComics": "前往我的漫畫",

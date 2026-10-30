@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Román",
   "workshop.import.received.comic": "Komiks",
   "workshop.import.received.date": "přijato {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# epizoda} few {# epizody} many {# epizody} other {# epizod}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify mohl tento soubor smazat} one {Dostupný ještě # den} few {Dostupný ještě # dny} many {Dostupný ještě # dne} other {Dostupný ještě # dní}}",
   "workshop.import.received.comicHint": "Komiksy se importují ze seznamu kapitol komiksu.",
   "workshop.import.received.toComics": "Přejít na moje komiksy",

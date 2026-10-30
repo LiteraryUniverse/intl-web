@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Romance",
   "workshop.import.received.comic": "BD",
   "workshop.import.received.date": "recebido a {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episódio} many {# de episódios} other {# episódios}}",
   "workshop.import.received.available": "{days, plural, =0 {O Apify pode ter apagado este ficheiro} one {Disponível durante mais # dia} many {Disponível durante mais # dias} other {Disponível durante mais # dias}}",
   "workshop.import.received.comicHint": "A banda desenhada é importada a partir da lista de capítulos da banda desenhada.",
   "workshop.import.received.toComics": "Ir para a minha banda desenhada",

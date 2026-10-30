@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Roman",
   "workshop.import.received.comic": "Bandă desenată",
   "workshop.import.received.date": "primit pe {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episod} few {# episoade} other {# de episoade}}",
   "workshop.import.received.available": "{days, plural, =0 {Este posibil ca Apify să fi șters acest fișier} one {Disponibil încă # zi} few {Disponibil încă # zile} other {Disponibil încă # de zile}}",
   "workshop.import.received.comicHint": "Benzile desenate se importă din lista de capitole a benzii desenate.",
   "workshop.import.received.toComics": "Mergi la benzile mele desenate",

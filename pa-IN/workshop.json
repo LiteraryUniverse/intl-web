@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "ਨਾਵਲ",
   "workshop.import.received.comic": "ਕਾਮਿਕ",
   "workshop.import.received.date": "{date} ਨੂੰ ਪ੍ਰਾਪਤ ਹੋਈ",
+  "workshop.import.received.episodes": "{count, plural, one {# ਐਪੀਸੋਡ} other {# ਐਪੀਸੋਡ}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify ਨੇ ਇਹ ਫ਼ਾਈਲ ਹਟਾ ਦਿੱਤੀ ਹੋ ਸਕਦੀ ਹੈ} one {ਹੋਰ # ਦਿਨ ਉਪਲਬਧ} other {ਹੋਰ # ਦਿਨ ਉਪਲਬਧ}}",
   "workshop.import.received.comicHint": "ਕਾਮਿਕਸ ਕਾਮਿਕ ਦੀ ਅਧਿਆਇ ਸੂਚੀ ਤੋਂ ਆਯਾਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ।",
   "workshop.import.received.toComics": "ਮੇਰੇ ਕਾਮਿਕਸ ਉੱਤੇ ਜਾਓ",

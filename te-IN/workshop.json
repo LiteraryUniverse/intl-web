@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "నవల",
   "workshop.import.received.comic": "కామిక్",
   "workshop.import.received.date": "{date}న అందింది",
+  "workshop.import.received.episodes": "{count, plural, one {# ఎపిసోడ్} other {# ఎపిసోడ్‌లు}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify ఈ ఫైల్‌ను తొలగించి ఉండవచ్చు} one {ఇంకా # రోజు అందుబాటులో ఉంటుంది} other {ఇంకా # రోజులు అందుబాటులో ఉంటుంది}}",
   "workshop.import.received.comicHint": "కామిక్స్ కామిక్ అధ్యాయాల జాబితా నుండి దిగుమతి అవుతాయి.",
   "workshop.import.received.toComics": "నా కామిక్స్‌కు వెళ్లండి",

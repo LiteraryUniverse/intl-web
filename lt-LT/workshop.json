@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Romanas",
   "workshop.import.received.comic": "Komiksas",
   "workshop.import.received.date": "gauta {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# epizodas} few {# epizodai} many {# epizodo} other {# epizodų}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify gali būti ištrynęs šį failą} one {Prieinama dar # dieną} few {Prieinama dar # dienas} many {Prieinama dar # dienos} other {Prieinama dar # dienų}}",
   "workshop.import.received.comicHint": "Komiksai importuojami iš komikso skyrių sąrašo.",
   "workshop.import.received.toComics": "Eiti į mano komiksus",

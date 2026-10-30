@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "উপন্যাস",
   "workshop.import.received.comic": "কমিক",
   "workshop.import.received.date": "{date} তারিখে প্রাপ্ত",
+  "workshop.import.received.episodes": "{count, plural, one {#টি পর্ব} other {#টি পর্ব}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify হয়তো এই ফাইলটি মুছে ফেলেছে} one {আরও # দিন পাওয়া যাবে} other {আরও # দিন পাওয়া যাবে}}",
   "workshop.import.received.comicHint": "কমিকস ওই কমিকের অধ্যায় তালিকা থেকে ইমপোর্ট করা হয়।",
   "workshop.import.received.toComics": "আমার কমিকসে যান",

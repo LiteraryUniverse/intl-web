@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Tiểu thuyết",
   "workshop.import.received.comic": "Truyện tranh",
   "workshop.import.received.date": "nhận ngày {date}",
+  "workshop.import.received.episodes": "{count, plural, other {# tập}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify có thể đã xóa tệp này} other {Còn dùng được # ngày nữa}}",
   "workshop.import.received.comicHint": "Truyện tranh được nhập từ danh sách chương của chính truyện tranh đó.",
   "workshop.import.received.toComics": "Đến truyện tranh của tôi",

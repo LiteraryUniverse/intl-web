@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Μυθιστόρημα",
   "workshop.import.received.comic": "Κόμικ",
   "workshop.import.received.date": "ελήφθη στις {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# επεισόδιο} other {# επεισόδια}}",
   "workshop.import.received.available": "{days, plural, =0 {Το Apify μπορεί να έχει διαγράψει αυτό το αρχείο} one {Διαθέσιμο για ακόμη # ημέρα} other {Διαθέσιμο για ακόμη # ημέρες}}",
   "workshop.import.received.comicHint": "Τα κόμικ εισάγονται από τη λίστα κεφαλαίων του κόμικ.",
   "workshop.import.received.toComics": "Μετάβαση στα κόμικ μου",

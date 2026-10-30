@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Roman",
   "workshop.import.received.comic": "Tegneserie",
   "workshop.import.received.date": "modtaget {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episode} other {# episoder}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify har muligvis slettet denne fil} one {Tilgængelig i # dag endnu} other {Tilgængelig i # dage endnu}}",
   "workshop.import.received.comicHint": "Tegneserier importeres fra tegneseriens kapitelliste.",
   "workshop.import.received.toComics": "Gå til mine tegneserier",

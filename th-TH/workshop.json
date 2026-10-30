@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "นิยาย",
   "workshop.import.received.comic": "การ์ตูน",
   "workshop.import.received.date": "ได้รับเมื่อ {date}",
+  "workshop.import.received.episodes": "{count, plural, other {# ตอน}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify อาจลบไฟล์นี้แล้ว} other {ใช้ได้อีก # วัน}}",
   "workshop.import.received.comicHint": "การ์ตูนนำเข้าจากรายการบทของการ์ตูนเรื่องนั้น",
   "workshop.import.received.toComics": "ไปที่การ์ตูนของฉัน",

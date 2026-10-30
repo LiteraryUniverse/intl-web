@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Romance",
   "workshop.import.received.comic": "HQ",
   "workshop.import.received.date": "recebido em {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episódio} many {# de episódios} other {# episódios}}",
   "workshop.import.received.available": "{days, plural, =0 {O Apify pode ter apagado este arquivo} one {Disponível por mais # dia} many {Disponível por mais # dias} other {Disponível por mais # dias}}",
   "workshop.import.received.comicHint": "As HQs são importadas pela lista de capítulos da HQ.",
   "workshop.import.received.toComics": "Ir para minhas HQs",

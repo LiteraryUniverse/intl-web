@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "რომანი",
   "workshop.import.received.comic": "კომიქსი",
   "workshop.import.received.date": "მიღებულია {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# ეპიზოდი} other {# ეპიზოდი}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify-მ ეს ფაილი შესაძლოა წაშალა} one {ხელმისაწვდომია კიდევ # დღე} other {ხელმისაწვდომია კიდევ # დღე}}",
   "workshop.import.received.comicHint": "კომიქსები იმპორტირდება კომიქსის თავების სიიდან.",
   "workshop.import.received.toComics": "ჩემს კომიქსებზე გადასვლა",

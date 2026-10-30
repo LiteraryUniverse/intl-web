@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Nobela",
   "workshop.import.received.comic": "Komiks",
   "workshop.import.received.date": "natanggap noong {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episode} other {# episode}}",
   "workshop.import.received.available": "{days, plural, =0 {Maaaring binura na ng Apify ang file na ito} one {Magagamit pa nang # araw} other {Magagamit pa nang # araw}}",
   "workshop.import.received.comicHint": "Nai-import ang mga komiks mula sa listahan ng mga kabanata ng komiks.",
   "workshop.import.received.toComics": "Pumunta sa mga komiks ko",

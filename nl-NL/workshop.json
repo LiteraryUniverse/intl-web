@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Roman",
   "workshop.import.received.comic": "Strip",
   "workshop.import.received.date": "ontvangen {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# aflevering} other {# afleveringen}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify heeft dit bestand mogelijk verwijderd} one {Nog # dag beschikbaar} other {Nog # dagen beschikbaar}}",
   "workshop.import.received.comicHint": "Strips importeer je vanuit de hoofdstukkenlijst van de strip.",
   "workshop.import.received.toComics": "Naar mijn strips",

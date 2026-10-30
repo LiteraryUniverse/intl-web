@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Romaani",
   "workshop.import.received.comic": "Sarjakuva",
   "workshop.import.received.date": "vastaanotettu {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# jakso} other {# jaksoa}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify on voinut poistaa tämän tiedoston} one {Saatavilla vielä # päivän} other {Saatavilla vielä # päivää}}",
   "workshop.import.received.comicHint": "Sarjakuvat tuodaan sarjakuvan lukuluettelosta.",
   "workshop.import.received.toComics": "Siirry sarjakuviini",

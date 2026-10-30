@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Powieść",
   "workshop.import.received.comic": "Komiks",
   "workshop.import.received.date": "otrzymano {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# odcinek} few {# odcinki} many {# odcinków} other {# odcinka}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify mogło usunąć ten plik} one {Dostępny jeszcze # dzień} few {Dostępny jeszcze # dni} many {Dostępny jeszcze # dni} other {Dostępny jeszcze # dnia}}",
   "workshop.import.received.comicHint": "Komiksy importuje się z listy rozdziałów komiksu.",
   "workshop.import.received.toComics": "Przejdź do moich komiksów",

@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Novel",
   "workshop.import.received.comic": "Comic",
   "workshop.import.received.date": "received {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episode} other {# episodes}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify may have deleted this file} one {Available for # more day} other {Available for # more days}}",
   "workshop.import.received.comicHint": "Comics are imported from the comic’s chapter list.",
   "workshop.import.received.toComics": "Go to my comics",

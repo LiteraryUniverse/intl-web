@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Romanzo",
   "workshop.import.received.comic": "Fumetto",
   "workshop.import.received.date": "ricevuto il {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episodio} many {# di episodi} other {# episodi}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify potrebbe aver eliminato questo file} one {Disponibile per # altro giorno} many {Disponibile per altri # di giorni} other {Disponibile per altri # giorni}}",
   "workshop.import.received.comicHint": "I fumetti si importano dall'elenco dei capitoli del fumetto.",
   "workshop.import.received.toComics": "Vai ai miei fumetti",

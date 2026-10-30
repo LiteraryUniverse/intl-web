@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "कादंबरी",
   "workshop.import.received.comic": "कॉमिक",
   "workshop.import.received.date": "{date} रोजी प्राप्त",
+  "workshop.import.received.episodes": "{count, plural, one {# भाग} other {# भाग}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify ने ही फाइल कदाचित हटवली असेल} one {आणखी # दिवस उपलब्ध} other {आणखी # दिवस उपलब्ध}}",
   "workshop.import.received.comicHint": "कॉमिक्स त्या कॉमिकच्या अध्याय यादीतून आयात केली जातात.",
   "workshop.import.received.toComics": "माझ्या कॉमिक्सकडे जा",

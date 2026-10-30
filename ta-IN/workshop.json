@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "நாவல்",
   "workshop.import.received.comic": "காமிக்",
   "workshop.import.received.date": "{date} அன்று பெறப்பட்டது",
+  "workshop.import.received.episodes": "{count, plural, one {# எபிசோட்} other {# எபிசோடுகள்}}",
   "workshop.import.received.available": "{days, plural, =0 {இந்தக் கோப்பை Apify நீக்கியிருக்கலாம்} one {இன்னும் # நாள் கிடைக்கும்} other {இன்னும் # நாள்கள் கிடைக்கும்}}",
   "workshop.import.received.comicHint": "காமிக்ஸ், காமிக்கின் அத்தியாயப் பட்டியலிலிருந்து இறக்குமதி செய்யப்படும்.",
   "workshop.import.received.toComics": "என் காமிக்ஸுக்குச் செல்",

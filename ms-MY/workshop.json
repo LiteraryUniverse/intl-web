@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Novel",
   "workshop.import.received.comic": "Komik",
   "workshop.import.received.date": "diterima pada {date}",
+  "workshop.import.received.episodes": "{count, plural, other {# episod}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify mungkin telah memadam fail ini} one {Tersedia # hari lagi} other {Tersedia # hari lagi}}",
   "workshop.import.received.comicHint": "Komik diimport daripada senarai bab komik.",
   "workshop.import.received.toComics": "Pergi ke komik saya",

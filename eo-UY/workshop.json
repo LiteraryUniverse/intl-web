@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Romano",
   "workshop.import.received.comic": "Komikso",
   "workshop.import.received.date": "ricevita je {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# epizodo} other {# epizodoj}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify eble forigis ĉi tiun dosieron} one {Havebla dum # plia tago} other {Havebla dum # pliaj tagoj}}",
   "workshop.import.received.comicHint": "Komiksoj estas importataj el la ĉapitrolisto de la komikso.",
   "workshop.import.received.toComics": "Iri al miaj komiksoj",

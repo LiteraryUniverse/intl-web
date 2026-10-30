@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Roman",
   "workshop.import.received.comic": "BD",
   "workshop.import.received.date": "reçu le {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# épisode} many {# d'épisodes} other {# épisodes}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify a peut-être déjà supprimé ce fichier} one {Encore disponible # jour} many {Encore disponible # de jours} other {Encore disponible # jours}}",
   "workshop.import.received.comicHint": "Les bandes dessinées s'importent depuis la liste des chapitres de la bande dessinée.",
   "workshop.import.received.toComics": "Aller à mes BD",

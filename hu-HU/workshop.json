@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Regény",
   "workshop.import.received.comic": "Képregény",
   "workshop.import.received.date": "érkezett: {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# epizód} other {# epizód}}",
   "workshop.import.received.available": "{days, plural, =0 {Az Apify törölhette ezt a fájlt} one {Még # napig elérhető} other {Még # napig elérhető}}",
   "workshop.import.received.comicHint": "A képregényeket a képregény fejezetlistájáról lehet importálni.",
   "workshop.import.received.toComics": "Ugrás a képregényeimhez",

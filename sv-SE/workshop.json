@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Roman",
   "workshop.import.received.comic": "Serie",
   "workshop.import.received.date": "mottagen {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# avsnitt} other {# avsnitt}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify kan ha tagit bort den här filen} one {Tillgänglig i # dag till} other {Tillgänglig i # dagar till}}",
   "workshop.import.received.comicHint": "Serier importeras från seriens kapitellista.",
   "workshop.import.received.toComics": "Gå till mina serier",

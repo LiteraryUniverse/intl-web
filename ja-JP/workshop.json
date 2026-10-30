@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "小説",
   "workshop.import.received.comic": "マンガ",
   "workshop.import.received.date": "{date}に受信",
+  "workshop.import.received.episodes": "{count, plural, other {#件のエピソード}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify がこのファイルを削除した可能性があります} other {あと#日間利用できます}}",
   "workshop.import.received.comicHint": "マンガは、そのマンガの章一覧からインポートします。",
   "workshop.import.received.toComics": "自分のマンガへ",

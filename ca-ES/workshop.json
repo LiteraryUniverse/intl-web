@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Novel·la",
   "workshop.import.received.comic": "Còmic",
   "workshop.import.received.date": "rebut el {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episodi} many {# d'episodis} other {# episodis}}",
   "workshop.import.received.available": "{days, plural, =0 {És possible que Apify hagi eliminat aquest fitxer} one {Disponible # dia més} many {Disponible # de dies més} other {Disponible # dies més}}",
   "workshop.import.received.comicHint": "Els còmics s'importen des de la llista de capítols del còmic.",
   "workshop.import.received.toComics": "Ves als meus còmics",

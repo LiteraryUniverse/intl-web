@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "നോവൽ",
   "workshop.import.received.comic": "കോമിക്",
   "workshop.import.received.date": "{date}-ന് ലഭിച്ചു",
+  "workshop.import.received.episodes": "{count, plural, one {# എപ്പിസോഡ്} other {# എപ്പിസോഡുകൾ}}",
   "workshop.import.received.available": "{days, plural, =0 {ഈ ഫയൽ Apify ഇല്ലാതാക്കിയിരിക്കാം} one {ഇനി # ദിവസം കൂടി ലഭ്യം} other {ഇനി # ദിവസം കൂടി ലഭ്യം}}",
   "workshop.import.received.comicHint": "കോമിക്കുകൾ കോമിക്കിന്റെ അദ്ധ്യായ പട്ടികയിൽ നിന്നാണ് ഇംപോർട്ട് ചെയ്യുന്നത്.",
   "workshop.import.received.toComics": "എന്റെ കോമിക്കുകളിലേക്ക് പോകുക",

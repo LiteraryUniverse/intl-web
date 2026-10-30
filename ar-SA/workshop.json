@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "رواية",
   "workshop.import.received.comic": "قصة مصورة",
   "workshop.import.received.date": "استُلم في {date}",
+  "workshop.import.received.episodes": "{count, plural, zero {لا حلقات} one {حلقة واحدة} two {حلقتان} few {# حلقات} many {# حلقة} other {# حلقة}}",
   "workshop.import.received.available": "{days, plural, =0 {ربما حذف Apify هذا الملف} zero {ربما حذف Apify هذا الملف} one {متاح ليوم واحد آخر} two {متاح ليومين آخرين} few {متاح لـ # أيام أخرى} many {متاح لـ # يومًا آخر} other {متاح لـ # يوم آخر}}",
   "workshop.import.received.comicHint": "تُستورد القصص المصورة من قائمة فصول القصة المصورة.",
   "workshop.import.received.toComics": "انتقل إلى قصصي المصورة",

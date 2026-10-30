@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "רומן",
   "workshop.import.received.comic": "קומיקס",
   "workshop.import.received.date": "התקבל ב-{date}",
+  "workshop.import.received.episodes": "{count, plural, one {אפיזודה אחת} two {# אפיזודות} other {# אפיזודות}}",
   "workshop.import.received.available": "{days, plural, =0 {ייתכן ש-Apify מחק את הקובץ הזה} one {זמין ליום אחד נוסף} two {זמין ל-# ימים נוספים} other {זמין ל-# ימים נוספים}}",
   "workshop.import.received.comicHint": "קומיקס מיובא מרשימת הפרקים של הקומיקס.",
   "workshop.import.received.toComics": "מעבר לקומיקס שלי",

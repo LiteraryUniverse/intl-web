@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Roman",
   "workshop.import.received.comic": "Çizgi roman",
   "workshop.import.received.date": "{date} tarihinde alındı",
+  "workshop.import.received.episodes": "{count, plural, one {# epizot} other {# epizot}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify bu dosyayı silmiş olabilir} one {# gün daha kullanılabilir} other {# gün daha kullanılabilir}}",
   "workshop.import.received.comicHint": "Çizgi romanlar, çizgi romanın bölüm listesinden içe aktarılır.",
   "workshop.import.received.toComics": "Çizgi romanlarıma git",

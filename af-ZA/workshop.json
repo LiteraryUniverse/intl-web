@@ -1190,6 +1190,7 @@
   "workshop.import.received.novel": "Roman",
   "workshop.import.received.comic": "Strokiesprent",
   "workshop.import.received.date": "ontvang {date}",
+  "workshop.import.received.episodes": "{count, plural, one {# episode} other {# episodes}}",
   "workshop.import.received.available": "{days, plural, =0 {Apify het hierdie lêer dalk uitgevee} one {Nog # dag beskikbaar} other {Nog # dae beskikbaar}}",
   "workshop.import.received.comicHint": "Strokiesprente word vanaf die strokiesprent se hoofstuklys ingevoer.",
   "workshop.import.received.toComics": "Gaan na my strokiesprente",
