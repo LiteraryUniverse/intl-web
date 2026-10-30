@@ -140,7 +140,7 @@
   "writer.linkToWork": "Ligação a um universo, história ou capítulo",
   "writer.insertWorkCard": "Insira o cartão da história ou do universo",
   "writer.video": "Incorporar vídeo",
-  "writer.video.help": "Cole o URL de um vídeo do YouTube, do Vimeo ou do Odysee. No caso do Rumble, utilize o URL de Embed IFRAME.",
+  "writer.video.help": "Cole o URL de um vídeo do YouTube, do Vimeo, da Twitch ou do Odysee. No caso do Rumble, utilize o URL de Embed IFRAME.",
   "writer.find": "Localizar e substituir",
   "writer.find.term": "Localizar",
   "writer.find.replacement": "Substituir por",

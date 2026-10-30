@@ -140,7 +140,7 @@
   "writer.linkToWork": "Nasc chuig cruinne, scéal nó caibidil",
   "writer.insertWorkCard": "Cuir isteach cárta scéil nó chruinne",
   "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
+  "writer.video.help": "Paste a YouTube, Vimeo, Twitch, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
   "writer.find": "Find and replace",
   "writer.find.term": "Find",
   "writer.find.replacement": "Replace with",

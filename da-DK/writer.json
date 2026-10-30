@@ -140,7 +140,7 @@
   "writer.linkToWork": "Link til et univers, en historie eller et kapitel",
   "writer.insertWorkCard": "Indsæt historie- eller univers-kort",
   "writer.video": "Indlejr video",
-  "writer.video.help": "Indsæt en video-URL fra YouTube, Vimeo eller Odysee. For Rumble skal du bruge URL'en fra Embed IFRAME.",
+  "writer.video.help": "Indsæt en video-URL fra YouTube, Vimeo, Twitch eller Odysee. For Rumble skal du bruge URL'en fra Embed IFRAME.",
   "writer.find": "Søg og erstat",
   "writer.find.term": "Søg",
   "writer.find.replacement": "Erstat med",

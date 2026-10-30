@@ -140,7 +140,7 @@
   "writer.linkToWork": "رابط إلى عالم أو قصة أو فصل",
   "writer.insertWorkCard": "أدخل القصة أو بطاقة الكون",
   "writer.video": "تضمين فيديو",
-  "writer.video.help": "الصق عنوان URL لفيديو من YouTube أو Vimeo أو Odysee. بالنسبة إلى Rumble، استخدم عنوان URL من Embed IFRAME.",
+  "writer.video.help": "الصق عنوان URL لفيديو من YouTube أو Vimeo أو Twitch أو Odysee. بالنسبة إلى Rumble، استخدم عنوان URL من Embed IFRAME.",
   "writer.find": "بحث واستبدال",
   "writer.find.term": "بحث",
   "writer.find.replacement": "استبدال بـ",

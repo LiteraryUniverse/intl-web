@@ -140,7 +140,7 @@
   "writer.linkToWork": "連結至宇宙、故事或章節",
   "writer.insertWorkCard": "插入故事或宇宙卡",
   "writer.video": "嵌入影片",
-  "writer.video.help": "貼上 YouTube、Vimeo 或 Odysee 的影片網址。若是 Rumble，請使用 Embed IFRAME 中的網址。",
+  "writer.video.help": "貼上 YouTube、Vimeo、Twitch 或 Odysee 的影片 URL。若是 Rumble，請使用 Embed IFRAME 中的 URL。",
   "writer.find": "尋找與取代",
   "writer.find.term": "尋找",
   "writer.find.replacement": "取代為",

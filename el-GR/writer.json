@@ -140,7 +140,7 @@
   "writer.linkToWork": "Σύνδεση με ένα σύμπαν, μια ιστορία ή ένα κεφάλαιο",
   "writer.insertWorkCard": "Εισάγετε κάρτα ιστορίας ή σύμπαντος",
   "writer.video": "Ενσωμάτωση βίντεο",
-  "writer.video.help": "Επικολλήστε τη διεύθυνση URL ενός βίντεο από YouTube, Vimeo ή Odysee. Για το Rumble, χρησιμοποιήστε τη διεύθυνση URL από το Embed IFRAME.",
+  "writer.video.help": "Επικολλήστε τη διεύθυνση URL ενός βίντεο από YouTube, Vimeo, Twitch ή Odysee. Για το Rumble, χρησιμοποιήστε τη διεύθυνση URL από το Embed IFRAME.",
   "writer.find": "Εύρεση και αντικατάσταση",
   "writer.find.term": "Εύρεση",
   "writer.find.replacement": "Αντικατάσταση με",

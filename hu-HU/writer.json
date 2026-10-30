@@ -140,7 +140,7 @@
   "writer.linkToWork": "Link egy univerzumhoz, történethez vagy fejezethez",
   "writer.insertWorkCard": "Történet vagy univerzum kártya beillesztése",
   "writer.video": "Videó beágyazása",
-  "writer.video.help": "Illessz be egy YouTube-, Vimeo- vagy Odysee-videó URL-jét. Rumble esetén az Embed IFRAME alatt található URL-t használd.",
+  "writer.video.help": "Illessz be egy YouTube-, Vimeo-, Twitch- vagy Odysee-videó URL-jét. Rumble esetén az Embed IFRAME alatt található URL-t használd.",
   "writer.find": "Keresés és csere",
   "writer.find.term": "Keresés",
   "writer.find.replacement": "Csere erre",

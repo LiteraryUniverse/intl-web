@@ -140,7 +140,7 @@
   "writer.linkToWork": "ลิงก์ไปยังจักรวาล เรื่องราว หรือบท",
   "writer.insertWorkCard": "ใส่การ์ดเรื่องราวหรือจักรวาล",
   "writer.video": "ฝังวิดีโอ",
-  "writer.video.help": "วาง URL วิดีโอจาก YouTube, Vimeo หรือ Odysee สำหรับ Rumble ให้ใช้ URL จาก Embed IFRAME",
+  "writer.video.help": "วาง URL วิดีโอจาก YouTube, Vimeo, Twitch หรือ Odysee สำหรับ Rumble ให้ใช้ URL จาก Embed IFRAME",
   "writer.find": "ค้นหาและแทนที่",
   "writer.find.term": "ค้นหา",
   "writer.find.replacement": "แทนที่ด้วย",

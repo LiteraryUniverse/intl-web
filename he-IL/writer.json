@@ -140,7 +140,7 @@
   "writer.linkToWork": "קישור ליקום, סיפור או פרק",
   "writer.insertWorkCard": "הכנס כרטיס סיפור או כרטיס יקום",
   "writer.video": "הטמעת וידאו",
-  "writer.video.help": "הדביקו כתובת URL של סרטון מ־YouTube,‏ Vimeo או Odysee. עבור Rumble, השתמשו בכתובת מתוך Embed IFRAME.",
+  "writer.video.help": "הדביקו כתובת URL של סרטון מ־YouTube,‏ Vimeo,‏ Twitch או Odysee. עבור Rumble, השתמשו בכתובת מתוך Embed IFRAME.",
   "writer.find": "חיפוש והחלפה",
   "writer.find.term": "חיפוש",
   "writer.find.replacement": "החלפה ב־",

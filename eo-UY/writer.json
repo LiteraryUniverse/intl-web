@@ -140,7 +140,7 @@
   "writer.linkToWork": "Ligo al universo, rakonto aŭ ĉapitro",
   "writer.insertWorkCard": "Enmetu rakonton aŭ universan karton",
   "writer.video": "Enkorpigi videon",
-  "writer.video.help": "Algluu URL-on de video el YouTube, Vimeo aŭ Odysee. Por Rumble uzu la URL-on el Embed IFRAME.",
+  "writer.video.help": "Algluu URL-on de video el YouTube, Vimeo, Twitch aŭ Odysee. Por Rumble uzu la URL-on el Embed IFRAME.",
   "writer.find": "Serĉi kaj anstataŭigi",
   "writer.find.term": "Serĉi",
   "writer.find.replacement": "Anstataŭigi per",

@@ -140,7 +140,7 @@
   "writer.linkToWork": "Link naar een universum, verhaal of hoofdstuk",
   "writer.insertWorkCard": "Kaart met verhaal of universum invoegen",
   "writer.video": "Video insluiten",
-  "writer.video.help": "Plak een video-URL van YouTube, Vimeo of Odysee. Gebruik voor Rumble de URL uit Embed IFRAME.",
+  "writer.video.help": "Plak een video-URL van YouTube, Vimeo, Twitch of Odysee. Gebruik voor Rumble de URL uit Embed IFRAME.",
   "writer.find": "Zoeken en vervangen",
   "writer.find.term": "Zoeken",
   "writer.find.replacement": "Vervangen door",

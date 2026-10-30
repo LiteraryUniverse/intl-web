@@ -140,7 +140,7 @@
   "writer.linkToWork": "Skakel na 'n heelal, verhaal of hoofstuk",
   "writer.insertWorkCard": "Voeg storie- of heelalkaart in",
   "writer.video": "Bed video in",
-  "writer.video.help": "Plak 'n YouTube-, Vimeo- of Odysee-video-URL. Vir Rumble, gebruik die URL van Embed IFRAME.",
+  "writer.video.help": "Plak 'n YouTube-, Vimeo-, Twitch- of Odysee-video-URL. Vir Rumble, gebruik die URL van Embed IFRAME.",
   "writer.find": "Soek en vervang",
   "writer.find.term": "Soek",
   "writer.find.replacement": "Vervang met",

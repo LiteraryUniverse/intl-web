@@ -140,7 +140,7 @@
   "writer.linkToWork": "Linkki universumiin, tarinaan tai lukuun",
   "writer.insertWorkCard": "Lisää tarina tai universumikortti",
   "writer.video": "Upota video",
-  "writer.video.help": "Liitä YouTube-, Vimeo- tai Odysee-videon URL-osoite. Käytä Rumblen kohdalla Embed IFRAME -kohdan URL-osoitetta.",
+  "writer.video.help": "Liitä YouTube-, Vimeo-, Twitch- tai Odysee-videon URL-osoite. Käytä Rumblen kohdalla Embed IFRAME -kohdan URL-osoitetta.",
   "writer.find": "Etsi ja korvaa",
   "writer.find.term": "Etsi",
   "writer.find.replacement": "Korvaava teksti",

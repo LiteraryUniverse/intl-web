@@ -140,7 +140,7 @@
   "writer.linkToWork": "ब्रह्माण्ड, कथा वा अध्यायको लिङ्क",
   "writer.insertWorkCard": "कथा वा ब्रह्माण्ड कार्ड राख्नुहोस्",
   "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
+  "writer.video.help": "YouTube, Vimeo, Twitch वा Odysee भिडियोको URL टाँस्नुहोस्। Rumble का लागि Embed IFRAME को URL प्रयोग गर्नुहोस्।",
   "writer.find": "फेला पार्नुहोस् र बदल्नुहोस्",
   "writer.find.term": "फेला पार्नुहोस्",
   "writer.find.replacement": "यससँग बदल्नुहोस्",

@@ -140,7 +140,7 @@
   "writer.linkToWork": "유니버스, 스토리 또는 챕터로 링크",
   "writer.insertWorkCard": "스토리 또는 유니버스 카드 삽입",
   "writer.video": "동영상 삽입",
-  "writer.video.help": "YouTube, Vimeo 또는 Odysee 동영상 URL을 붙여 넣으세요. Rumble은 Embed IFRAME의 URL을 사용하세요.",
+  "writer.video.help": "YouTube, Vimeo, Twitch 또는 Odysee 동영상 URL을 붙여 넣으세요. Rumble은 Embed IFRAME의 URL을 사용하세요.",
   "writer.find": "찾기 및 바꾸기",
   "writer.find.term": "찾을 내용",
   "writer.find.replacement": "바꿀 내용",

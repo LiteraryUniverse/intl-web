@@ -140,7 +140,7 @@
   "writer.linkToWork": "विश्व, कथा किंवा अध्यायाशी दुवा",
   "writer.insertWorkCard": "कथा किंवा विश्व कार्ड घाला",
   "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
+  "writer.video.help": "YouTube, Vimeo, Twitch किंवा Odysee व्हिडिओ URL पेस्ट करा. Rumble साठी Embed IFRAME मधील URL वापरा.",
   "writer.find": "शोधा आणि बदला",
   "writer.find.term": "शोधा",
   "writer.find.replacement": "याने बदला",

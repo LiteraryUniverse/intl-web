@@ -140,7 +140,7 @@
   "writer.linkToWork": "Link to a universe, story or chapter",
   "writer.insertWorkCard": "Sett inn historie- eller universkort",
   "writer.video": "Bygg inn video",
-  "writer.video.help": "Lim inn en video-URL fra YouTube, Vimeo eller Odysee. For Rumble bruker du URL-en fra Embed IFRAME.",
+  "writer.video.help": "Lim inn en video-URL fra YouTube, Vimeo, Twitch eller Odysee. For Rumble bruker du URL-en fra Embed IFRAME.",
   "writer.find": "Søk og erstatt",
   "writer.find.term": "Søk",
   "writer.find.replacement": "Erstatt med",

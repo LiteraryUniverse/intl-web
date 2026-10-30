@@ -140,7 +140,7 @@
   "writer.linkToWork": "একটি মহাবিশ্ব, গল্প বা অধ্যায়ের লিঙ্ক",
   "writer.insertWorkCard": "গল্প বা মহাবিশ্বের কার্ড ঢোকান",
   "writer.video": "ভিডিও এম্বেড করুন",
-  "writer.video.help": "YouTube, Vimeo বা Odysee ভিডিওর URL পেস্ট করুন। Rumble-এর জন্য Embed IFRAME থেকে পাওয়া URL ব্যবহার করুন।",
+  "writer.video.help": "YouTube, Vimeo, Twitch বা Odysee ভিডিওর URL পেস্ট করুন। Rumble-এর জন্য Embed IFRAME থেকে পাওয়া URL ব্যবহার করুন।",
   "writer.find": "খুঁজুন ও প্রতিস্থাপন করুন",
   "writer.find.term": "খুঁজুন",
   "writer.find.replacement": "যা দিয়ে প্রতিস্থাপন করবেন",

@@ -140,7 +140,7 @@
   "writer.linkToWork": "ఒక విశ్వం, కథ లేదా అధ్యాయానికి లింక్",
   "writer.insertWorkCard": "కథ లేదా విశ్వ కార్డును చొప్పించండి",
   "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
+  "writer.video.help": "YouTube, Vimeo, Twitch లేదా Odysee వీడియో URLను పేస్ట్ చేయండి. Rumble కోసం Embed IFRAMEలోని URLను ఉపయోగించండి.",
   "writer.find": "కనుగొని భర్తీ చేయి",
   "writer.find.term": "కనుగొను",
   "writer.find.replacement": "దీనితో భర్తీ చేయి",

@@ -140,7 +140,7 @@
   "writer.linkToWork": "Länk till ett universum, en berättelse eller ett kapitel",
   "writer.insertWorkCard": "Infoga berättelse eller universumkort",
   "writer.video": "Bädda in video",
-  "writer.video.help": "Klistra in en video-URL från YouTube, Vimeo eller Odysee. För Rumble använder du URL:en från Embed IFRAME.",
+  "writer.video.help": "Klistra in en video-URL från YouTube, Vimeo, Twitch eller Odysee. För Rumble använder du URL:en från Embed IFRAME.",
   "writer.find": "Sök och ersätt",
   "writer.find.term": "Sök",
   "writer.find.replacement": "Ersätt med",

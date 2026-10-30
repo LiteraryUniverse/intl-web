@@ -140,7 +140,7 @@
   "writer.linkToWork": "Link universumi, loo või peatükiga",
   "writer.insertWorkCard": "Sisesta lugu või universumi kaart",
   "writer.video": "Manusta video",
-  "writer.video.help": "Kleebi YouTube'i, Vimeo või Odysee video URL. Rumble'i puhul kasuta jaotise Embed IFRAME URL-i.",
+  "writer.video.help": "Kleebi YouTube'i, Vimeo, Twitchi või Odysee video URL. Rumble'i puhul kasuta jaotise Embed IFRAME URL-i.",
   "writer.find": "Otsi ja asenda",
   "writer.find.term": "Otsi",
   "writer.find.replacement": "Asendus",

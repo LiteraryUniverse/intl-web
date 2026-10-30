@@ -140,7 +140,7 @@
   "writer.linkToWork": "宇宙、物語、章へのリンク",
   "writer.insertWorkCard": "ストーリーまたはユニバース・カードを挿入",
   "writer.video": "動画を埋め込む",
-  "writer.video.help": "YouTube、Vimeo、またはOdyseeの動画URLを貼り付けてください。Rumbleの場合は、「Embed IFRAME」のURLを使用してください。",
+  "writer.video.help": "YouTube、Vimeo、Twitch、またはOdyseeの動画URLを貼り付けてください。Rumbleの場合は、「Embed IFRAME」のURLを使用してください。",
   "writer.find": "検索と置換",
   "writer.find.term": "検索",
   "writer.find.replacement": "置換後の文字列",

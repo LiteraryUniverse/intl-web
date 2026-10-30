@@ -140,7 +140,7 @@
   "writer.linkToWork": "Pautan ke alam semesta, cerita atau bab",
   "writer.insertWorkCard": "Sisipkan kad cerita atau alam semesta",
   "writer.video": "Benamkan video",
-  "writer.video.help": "Tampal URL video YouTube, Vimeo atau Odysee. Untuk Rumble, gunakan URL daripada Embed IFRAME.",
+  "writer.video.help": "Tampal URL video YouTube, Vimeo, Twitch atau Odysee. Untuk Rumble, gunakan URL daripada Embed IFRAME.",
   "writer.find": "Cari dan ganti",
   "writer.find.term": "Cari",
   "writer.find.replacement": "Ganti dengan",

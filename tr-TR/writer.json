@@ -140,7 +140,7 @@
   "writer.linkToWork": "Bir evrene, hikayeye veya bölüme bağlantı",
   "writer.insertWorkCard": "Hikaye veya evren kartı ekleyin",
   "writer.video": "Video yerleştir",
-  "writer.video.help": "Bir YouTube, Vimeo veya Odysee video URL'si yapıştırın. Rumble için Embed IFRAME bölümündeki URL'yi kullanın.",
+  "writer.video.help": "Bir YouTube, Vimeo, Twitch veya Odysee video URL'si yapıştırın. Rumble için Embed IFRAME bölümündeki URL'yi kullanın.",
   "writer.find": "Bul ve değiştir",
   "writer.find.term": "Bul",
   "writer.find.replacement": "Şununla değiştir",

@@ -140,7 +140,7 @@
   "writer.linkToWork": "ბმული სამყაროზე, ამბავზე ან თავზე",
   "writer.insertWorkCard": "ჩასვით ისტორიის ან სამყაროს ბარათი",
   "writer.video": "Embed video",
-  "writer.video.help": "Paste a YouTube, Vimeo, or Odysee video URL. For Rumble, use the URL from Embed IFRAME.",
+  "writer.video.help": "ჩასვით YouTube-ის, Vimeo-ს, Twitch-ის ან Odysee-ს ვიდეოს URL. Rumble-ისთვის გამოიყენეთ URL Embed IFRAME-დან.",
   "writer.find": "ძიება და ჩანაცვლება",
   "writer.find.term": "ძიება",
   "writer.find.replacement": "ჩანაცვლება შემდეგით",

@@ -140,7 +140,7 @@
   "writer.linkToWork": "Ссылка на вселенную, историю или главу",
   "writer.insertWorkCard": "Вставьте карту истории или вселенной",
   "writer.video": "Встроить видео",
-  "writer.video.help": "Вставьте URL видео с YouTube, Vimeo или Odysee. Для Rumble используйте URL из Embed IFRAME.",
+  "writer.video.help": "Вставьте URL видео с YouTube, Vimeo, Twitch или Odysee. Для Rumble используйте URL из Embed IFRAME.",
   "writer.find": "Найти и заменить",
   "writer.find.term": "Найти",
   "writer.find.replacement": "Заменить на",

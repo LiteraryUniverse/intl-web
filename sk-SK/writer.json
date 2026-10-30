@@ -140,7 +140,7 @@
   "writer.linkToWork": "Prepojenie na vesmír, príbeh alebo kapitolu",
   "writer.insertWorkCard": "Vložte kartu príbehu alebo vesmíru",
   "writer.video": "Vložiť video",
-  "writer.video.help": "Vložte URL adresu videa z YouTube, Vimeo alebo Odysee. Pri Rumble použite URL adresu z možnosti Embed IFRAME.",
+  "writer.video.help": "Vložte URL adresu videa z YouTube, Vimeo, Twitch alebo Odysee. Pri Rumble použite URL adresu z možnosti Embed IFRAME.",
   "writer.find": "Nájsť a nahradiť",
   "writer.find.term": "Nájsť",
   "writer.find.replacement": "Nahradiť čím",

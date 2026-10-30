@@ -140,7 +140,7 @@
   "writer.linkToWork": "Link to a universe, story or chapter",
   "writer.insertWorkCard": "Maglagay ng card ng kwento o uniberso",
   "writer.video": "I-embed ang video",
-  "writer.video.help": "Mag-paste ng URL ng video mula sa YouTube, Vimeo, o Odysee. Para sa Rumble, gamitin ang URL mula sa Embed IFRAME.",
+  "writer.video.help": "Mag-paste ng URL ng video mula sa YouTube, Vimeo, Twitch, o Odysee. Para sa Rumble, gamitin ang URL mula sa Embed IFRAME.",
   "writer.find": "Hanapin at palitan",
   "writer.find.term": "Hanapin",
   "writer.find.replacement": "Palitan ng",

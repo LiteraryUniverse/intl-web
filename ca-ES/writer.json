@@ -140,7 +140,7 @@
   "writer.linkToWork": "Enllaç a un univers, una història o un capítol",
   "writer.insertWorkCard": "Inseriu la targeta de la història o de l'univers",
   "writer.video": "Insereix un vídeo",
-  "writer.video.help": "Enganxa l'URL d'un vídeo de YouTube, Vimeo o Odysee. Per a Rumble, fes servir l'URL d'Embed IFRAME.",
+  "writer.video.help": "Enganxa l'URL d'un vídeo de YouTube, Vimeo, Twitch o Odysee. Per a Rumble, fes servir l'URL d'Embed IFRAME.",
   "writer.find": "Cerca i substitueix",
   "writer.find.term": "Cerca",
   "writer.find.replacement": "Substitueix per",
