@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "יש לך מנוי חדש במועדון המעריצים!",
   "email.notifications.newFanSubscriber.details": "מנוי: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "הצג מועדון מעריצים",
+  "email.notifications.fanClubTierArchived.subject": "הדרגה {planName} במועדון המעריצים שלך הועברה לארכיון",
   "email.notifications.fanUnsubscribed.subject": "חבר עזב את מועדון המעריצים שלך",
   "email.notifications.fanUnsubscribed.title": "חבר עזב את מועדון המעריצים שלך",
   "email.notifications.fanUnsubscribed.intro": "רצינו ליידע אותך על שינוי אחרון. שקול לשתף עדכונים או תוכן בלעדי כדי להגביר את המעורבות.",

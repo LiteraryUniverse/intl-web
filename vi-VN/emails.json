@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Bạn có một thành viên mới trong câu lạc bộ người hâm mộ!",
   "email.notifications.newFanSubscriber.details": "Người đăng ký: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Xem câu lạc bộ người hâm mộ",
+  "email.notifications.fanClubTierArchived.subject": "Hạng câu lạc bộ người hâm mộ {planName} của bạn đã được lưu trữ",
   "email.notifications.fanUnsubscribed.subject": "Một thành viên đã rời khỏi câu lạc bộ người hâm mộ của bạn.",
   "email.notifications.fanUnsubscribed.title": "Một thành viên đã rời khỏi câu lạc bộ người hâm mộ của bạn.",
   "email.notifications.fanUnsubscribed.intro": "Chúng tôi muốn thông báo cho bạn về một thay đổi gần đây. Hãy cân nhắc chia sẻ các cập nhật hoặc nội dung độc quyền để tăng tương tác.",

@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Du har en ny abonnent i fanklubben!",
   "email.notifications.newFanSubscriber.details": "Subscriber: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Vis fanklubben",
+  "email.notifications.fanClubTierArchived.subject": "Fanklubbnivået ditt {planName} er arkivert",
   "email.notifications.fanUnsubscribed.subject": "Et medlem har forlatt fanklubben din",
   "email.notifications.fanUnsubscribed.title": "Et medlem har forlatt fanklubben din",
   "email.notifications.fanUnsubscribed.intro": "Vi ville gi deg beskjed om en nylig endring. Vurder å dele oppdateringer eller eksklusivt innhold for å øke engasjementet.",

@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Teil on uus fänniklubi tellija!",
   "email.notifications.newFanSubscriber.details": "Tellija: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Vaata fännklubi",
+  "email.notifications.fanClubTierArchived.subject": "Teie fänniklubi tase {planName} arhiveeriti",
   "email.notifications.fanUnsubscribed.subject": "Üks liige lahkus teie fännklubist",
   "email.notifications.fanUnsubscribed.title": "Üks liige lahkus teie fännklubist",
   "email.notifications.fanUnsubscribed.intro": "Tahtsime teile teada anda hiljutisest muudatusest. Kaaluge uuenduste või eksklusiivse sisu jagamist, et suurendada kaasamist.",

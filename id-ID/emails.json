@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Anda memiliki pelanggan klub penggemar baru!",
   "email.notifications.newFanSubscriber.details": "Pelanggan: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Lihat klub penggemar",
+  "email.notifications.fanClubTierArchived.subject": "Tingkat klub penggemar Anda, {planName}, telah diarsipkan",
   "email.notifications.fanUnsubscribed.subject": "Seorang anggota meninggalkan klub penggemar Anda",
   "email.notifications.fanUnsubscribed.title": "Seorang anggota meninggalkan klub penggemar Anda",
   "email.notifications.fanUnsubscribed.intro": "Kami ingin memberi tahu Anda tentang perubahan terbaru. Pertimbangkan untuk membagikan pembaruan atau konten eksklusif untuk meningkatkan keterlibatan.",

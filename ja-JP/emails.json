@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "新しいファンクラブ会員が増えましたね！",
   "email.notifications.newFanSubscriber.details": "購読者： {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "ファンクラブを見る",
+  "email.notifications.fanClubTierArchived.subject": "ファンクラブのティア「{planName}」がアーカイブされました",
   "email.notifications.fanUnsubscribed.subject": "あなたのファンクラブを去った会員",
   "email.notifications.fanUnsubscribed.title": "あなたのファンクラブを去った会員",
   "email.notifications.fanUnsubscribed.intro": "最近の変更についてお知らせします。エンゲージメントを高めるために、最新情報や限定コンテンツの共有をご検討ください。",

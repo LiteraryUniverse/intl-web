@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Jy het 'n nuwe aanhangerklub-intekenaar!",
   "email.notifications.newFanSubscriber.details": "Subscriber: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Bekyk aanhangerklub",
+  "email.notifications.fanClubTierArchived.subject": "Jou aanhangerklubvlak {planName} is geargiveer",
   "email.notifications.fanUnsubscribed.subject": "'n Lid het jou aanhangerklub verlaat",
   "email.notifications.fanUnsubscribed.title": "'n Lid het jou aanhangerklub verlaat",
   "email.notifications.fanUnsubscribed.intro": "Ons wou jou van 'n onlangse verandering laat weet. Oorweeg dit om opdaterings of eksklusiewe inhoud te deel om betrokkenheid te verhoog.",

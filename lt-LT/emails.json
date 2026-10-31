@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Jūs turite naują gerbėjų klubo prenumeratorių!",
   "email.notifications.newFanSubscriber.details": "Abonentas: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Peržiūrėti fanų klubą",
+  "email.notifications.fanClubTierArchived.subject": "Jūsų gerbėjų klubo lygis {planName} buvo suarchyvuotas",
   "email.notifications.fanUnsubscribed.subject": "Jūsų gerbėjų klubą paliko narys",
   "email.notifications.fanUnsubscribed.title": "Jūsų gerbėjų klubą paliko narys",
   "email.notifications.fanUnsubscribed.intro": "Norėjome pranešti apie neseniai įvykusį pokytį. Apsvarstykite galimybę dalytis atnaujinimais arba išskirtiniu turiniu, kad padidintumėte įsitraukimą.",

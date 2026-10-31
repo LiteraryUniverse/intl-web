@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Vi havas novan abonanton de la fanklubo!",
   "email.notifications.newFanSubscriber.details": "Subscriber: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Vidi la fanklubon",
+  "email.notifications.fanClubTierArchived.subject": "Via fanklubnivelo {planName} estis arĥivita",
   "email.notifications.fanUnsubscribed.subject": "Membro forlasis vian fanklubon",
   "email.notifications.fanUnsubscribed.title": "Membro forlasis vian fanklubon",
   "email.notifications.fanUnsubscribed.intro": "Ni volis sciigi vin pri lastatempa ŝanĝo. Pripensu kunhavigi novaĵojn aŭ ekskluzivan enhavon por plifortigi la engaĝiĝon.",

@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Ha un nuovo iscritto al fan club!",
   "email.notifications.newFanSubscriber.details": "Abbonato: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Visualizza il fan club",
+  "email.notifications.fanClubTierArchived.subject": "Il tuo livello del fan club {planName} è stato archiviato",
   "email.notifications.fanUnsubscribed.subject": "Un membro ha lasciato il suo fan club",
   "email.notifications.fanUnsubscribed.title": "Un membro ha lasciato il suo fan club",
   "email.notifications.fanUnsubscribed.intro": "Volevamo informarla di un recente cambiamento. Consideri la possibilità di condividere aggiornamenti o contenuti esclusivi per aumentare il coinvolgimento.",

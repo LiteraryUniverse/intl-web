@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Anda mempunyai pelanggan kelab peminat baharu!",
   "email.notifications.newFanSubscriber.details": "Subscriber: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Lihat kelab peminat",
+  "email.notifications.fanClubTierArchived.subject": "Tier kelab peminat anda {planName} telah diarkibkan",
   "email.notifications.fanUnsubscribed.subject": "Seorang ahli telah meninggalkan kelab peminat anda",
   "email.notifications.fanUnsubscribed.title": "Seorang ahli telah meninggalkan kelab peminat anda",
   "email.notifications.fanUnsubscribed.intro": "Kami ingin memaklumkan anda tentang perubahan terkini. Pertimbangkan untuk berkongsi kemas kini atau kandungan eksklusif bagi meningkatkan penglibatan.",

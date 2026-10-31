@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "You have a new fan club subscriber!",
   "email.notifications.newFanSubscriber.details": "Subscriber: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "View fan club",
+  "email.notifications.fanClubTierArchived.subject": "तुमचा फॅन क्लब टियर {planName} आर्काइव्ह केला गेला",
   "email.notifications.fanUnsubscribed.subject": "A member left your fan club",
   "email.notifications.fanUnsubscribed.title": "A member left your fan club",
   "email.notifications.fanUnsubscribed.intro": "We wanted to let you know about a recent change. Consider sharing updates or exclusive content to boost engagement.",

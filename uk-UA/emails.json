@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "У вас новий підписник фан-клубу!",
   "email.notifications.newFanSubscriber.details": "Передплатник: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Переглянути фан-клуб",
+  "email.notifications.fanClubTierArchived.subject": "Ваш рівень фан-клубу {planName} архівовано",
   "email.notifications.fanUnsubscribed.subject": "Учасник покинув ваш фан-клуб",
   "email.notifications.fanUnsubscribed.title": "Учасник покинув ваш фан-клуб",
   "email.notifications.fanUnsubscribed.intro": "Ми хотіли б повідомити вам про нещодавні зміни. Подумайте про те, щоб поділитися оновленнями або ексклюзивним контентом, щоб підвищити залученість.",

@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "لديك مشترك جديد في نادي المعجبين!",
   "email.notifications.newFanSubscriber.details": "المشترك: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "عرض نادي المعجبين",
+  "email.notifications.fanClubTierArchived.subject": "تمت أرشفة فئة نادي المعجبين {planName}",
   "email.notifications.fanUnsubscribed.subject": "غادر أحد الأعضاء نادي المعجبين بك",
   "email.notifications.fanUnsubscribed.title": "غادر أحد الأعضاء نادي المعجبين بك",
   "email.notifications.fanUnsubscribed.intro": "أردنا إعلامك بالتغيير الأخير. ضع في اعتبارك مشاركة التحديثات أو المحتوى الحصري لتعزيز المشاركة.",

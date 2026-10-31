@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Tá síntiúsóir nua de do chlub lucht leanúna agat!",
   "email.notifications.newFanSubscriber.details": "Sclábhaí: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Féach ar an gclub lucht leanúna",
+  "email.notifications.fanClubTierArchived.subject": "Cartlannaíodh leibhéal do chlub lucht leanúna {planName}",
   "email.notifications.fanUnsubscribed.subject": "D'fhág ball do chlub lucht leanúna.",
   "email.notifications.fanUnsubscribed.title": "D'fhág ball do chlub lucht leanúna.",
   "email.notifications.fanUnsubscribed.intro": "Ba mhaith linn a chur in iúl duit faoi athrú a rinneadh le déanaí. Smaoinigh ar nuashonruithe nó ar ábhar eisiach a roinnt chun rannpháirtíocht a mhéadú.",

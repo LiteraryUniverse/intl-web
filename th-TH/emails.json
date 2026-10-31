@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "คุณมีสมาชิกใหม่ในแฟนคลับ!",
   "email.notifications.newFanSubscriber.details": "ผู้สมัครสมาชิก: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "ชมชมรมแฟนคลับ",
+  "email.notifications.fanClubTierArchived.subject": "ระดับแฟนคลับ {planName} ของคุณถูกเก็บเข้าคลังแล้ว",
   "email.notifications.fanUnsubscribed.subject": "สมาชิกได้ลาออกจากแฟนคลับของคุณ",
   "email.notifications.fanUnsubscribed.title": "สมาชิกได้ลาออกจากแฟนคลับของคุณ",
   "email.notifications.fanUnsubscribed.intro": "เราต้องการแจ้งให้คุณทราบเกี่ยวกับการเปลี่ยนแปลงล่าสุด โปรดพิจารณาแบ่งปันข้อมูลอัปเดตหรือเนื้อหาพิเศษเพื่อเพิ่มการมีส่วนร่วม",

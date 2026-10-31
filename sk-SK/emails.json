@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Máte nového predplatiteľa fanklubu!",
   "email.notifications.newFanSubscriber.details": "Odberateľ: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Zobraziť fanklub",
+  "email.notifications.fanClubTierArchived.subject": "Úroveň {planName} vášho fanklubu bola archivovaná",
   "email.notifications.fanUnsubscribed.subject": "Člen opustil váš fanklub",
   "email.notifications.fanUnsubscribed.title": "Člen opustil váš fanklub",
   "email.notifications.fanUnsubscribed.intro": "Chceli sme vás informovať o nedávnej zmene. Zvážte zdieľanie aktualizácií alebo exkluzívneho obsahu, aby ste zvýšili angažovanosť.",

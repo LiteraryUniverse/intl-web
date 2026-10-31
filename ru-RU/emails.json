@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "У Вас появился новый подписчик фан-клуба!",
   "email.notifications.newFanSubscriber.details": "Подписчик: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Посмотреть фан-клуб",
+  "email.notifications.fanClubTierArchived.subject": "Уровень {planName} вашего фан-клуба архивирован",
   "email.notifications.fanUnsubscribed.subject": "Член Вашего фан-клуба",
   "email.notifications.fanUnsubscribed.title": "Член Вашего фан-клуба",
   "email.notifications.fanUnsubscribed.intro": "Мы хотели сообщить Вам о недавнем изменении. Подумайте о том, чтобы поделиться обновлениями или эксклюзивным контентом, чтобы повысить вовлеченность.",

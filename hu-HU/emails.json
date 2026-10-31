@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Van egy új rajongói klubtagod!",
   "email.notifications.newFanSubscriber.details": "Előfizető: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Rajongói klub megtekintése",
+  "email.notifications.fanClubTierArchived.subject": "Az Ön rajongói klubszintje, a(z) {planName}, archiválva lett",
   "email.notifications.fanUnsubscribed.subject": "Egy tag elhagyta a rajongói klubodat",
   "email.notifications.fanUnsubscribed.title": "Egy tag elhagyta a rajongói klubodat",
   "email.notifications.fanUnsubscribed.intro": "Egy nemrégiben történt változásról szerettük volna tájékoztatni Önöket. Fontolja meg a frissítések vagy exkluzív tartalmak megosztását az elkötelezettség növelése érdekében.",

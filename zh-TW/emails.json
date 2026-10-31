@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "您有一位新的粉絲俱樂部訂閱者！",
   "email.notifications.newFanSubscriber.details": "訂閱者： {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "查看粉絲會",
+  "email.notifications.fanClubTierArchived.subject": "您的粉絲俱樂部層級 {planName} 已封存",
   "email.notifications.fanUnsubscribed.subject": "一位會員離開了您的粉絲俱樂部",
   "email.notifications.fanUnsubscribed.title": "一位會員離開了您的粉絲俱樂部",
   "email.notifications.fanUnsubscribed.intro": "我們想讓您知道最近的一項變更。請考慮分享更新或獨家內容，以提高參與度。",

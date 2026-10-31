@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Tens un nou subscriptor al club de fans!",
   "email.notifications.newFanSubscriber.details": "Subscriber: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Mostra el club de fans",
+  "email.notifications.fanClubTierArchived.subject": "S'ha arxivat el nivell {planName} del teu club de fans",
   "email.notifications.fanUnsubscribed.subject": "Un membre ha deixat el teu club de fans",
   "email.notifications.fanUnsubscribed.title": "Un membre ha deixat el teu club de fans",
   "email.notifications.fanUnsubscribed.intro": "Volíem informar-te d'un canvi recent. Planteja't compartir novetats o contingut exclusiu per augmentar la participació.",

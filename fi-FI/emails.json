@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Sinulla on uusi faniklubin tilaaja!",
   "email.notifications.newFanSubscriber.details": "Tilaaja: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Näytä faniklubi",
+  "email.notifications.fanClubTierArchived.subject": "Faniklubitasosi {planName} arkistoitiin",
   "email.notifications.fanUnsubscribed.subject": "Jäsen jätti faniklubisi",
   "email.notifications.fanUnsubscribed.title": "Jäsen jätti faniklubisi",
   "email.notifications.fanUnsubscribed.intro": "Halusimme kertoa sinulle äskettäisestä muutoksesta. Harkitse päivitysten tai eksklusiivisen sisällön jakamista sitoutumisen lisäämiseksi.",

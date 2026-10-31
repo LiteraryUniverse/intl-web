@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "May bago kang subscriber sa fan club!",
   "email.notifications.newFanSubscriber.details": "Subscriber: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Tingnan ang fan club",
+  "email.notifications.fanClubTierArchived.subject": "Na-archive ang tier mo sa fan club na {planName}",
   "email.notifications.fanUnsubscribed.subject": "May miyembrong umalis sa iyong fan club",
   "email.notifications.fanUnsubscribed.title": "May miyembrong umalis sa iyong fan club",
   "email.notifications.fanUnsubscribed.intro": "Nais naming ipaalam sa iyo ang isang kamakailang pagbabago. Pag-isipang magbahagi ng mga update o eksklusibong nilalaman para mapalakas ang pakikilahok.",

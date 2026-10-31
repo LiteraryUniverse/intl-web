@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Έχετε έναν νέο συνδρομητή στο fan club!",
   "email.notifications.newFanSubscriber.details": "Συνδρομητής: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Προβολή fan club",
+  "email.notifications.fanClubTierArchived.subject": "Η βαθμίδα {planName} του fan club σας αρχειοθετήθηκε",
   "email.notifications.fanUnsubscribed.subject": "Ένα μέλος έφυγε από το fan club σας",
   "email.notifications.fanUnsubscribed.title": "Ένα μέλος έφυγε από το fan club σας",
   "email.notifications.fanUnsubscribed.intro": "Θέλαμε να σας ενημερώσουμε για μια πρόσφατη αλλαγή. Σκεφτείτε να μοιραστείτε ενημερώσεις ή αποκλειστικό περιεχόμενο για να ενισχύσετε τη δέσμευση.",

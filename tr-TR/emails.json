@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "Yeni bir hayran kulübü aboneniz var!",
   "email.notifications.newFanSubscriber.details": "Abone: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Hayran kulübünü görüntüle",
+  "email.notifications.fanClubTierArchived.subject": "Hayran kulübü seviyeniz {planName} arşivlendi",
   "email.notifications.fanUnsubscribed.subject": "Bir üye hayran kulübünüzden ayrıldı.",
   "email.notifications.fanUnsubscribed.title": "Bir üye hayran kulübünüzden ayrıldı.",
   "email.notifications.fanUnsubscribed.intro": "Yakın zamanda yapılan bir değişiklik hakkında sizi bilgilendirmek istedik. Etkileşimi artırmak için güncellemeleri veya özel içerikleri paylaşmayı düşünün.",

@@ -79,6 +79,7 @@
   "email.notifications.newFanSubscriber.title": "U hebt een nieuwe abonnee voor de fanclub!",
   "email.notifications.newFanSubscriber.details": "Abonnee: {subscriberName}",
   "email.notifications.newFanSubscriber.cta": "Fanclub bekijken",
+  "email.notifications.fanClubTierArchived.subject": "Je fanclubniveau {planName} is gearchiveerd",
   "email.notifications.fanUnsubscribed.subject": "Een lid heeft uw fanclub verlaten",
   "email.notifications.fanUnsubscribed.title": "Een lid heeft uw fanclub verlaten",
   "email.notifications.fanUnsubscribed.intro": "We wilden u op de hoogte brengen van een recente verandering. Overweeg om updates of exclusieve inhoud te delen om de betrokkenheid te vergroten.",
