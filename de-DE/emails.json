@@ -255,5 +255,11 @@
   "email.backup.subject": "Ihr Backup für „{storyTitle}“",
   "email.backup.intro": "Hier ist Ihr geplantes Backup für „{storyTitle}“.",
   "email.backup.formats": "Angehängte Dateien: {formats}",
-  "email.backup.footer": "In der Werkstatt Ihrer Geschichte können Sie geplante Backups verwalten oder deaktivieren."
+  "email.backup.footer": "In der Werkstatt Ihrer Geschichte können Sie geplante Backups verwalten oder deaktivieren.",
+  "email.mailingList.confirm.body": "Jemand, hoffentlich Sie, möchte mit dieser E-Mail-Adresse dieser Mailingliste beitreten. Bestätigen Sie das, um Neuigkeiten des Autors zu erhalten. Der Link funktioniert 7 Tage.",
+  "email.mailingList.confirm.cta": "Anmeldung bestätigen",
+  "email.mailingList.confirm.ignore": "Falls Sie das nicht waren, ignorieren Sie diese E-Mail, dann werden Sie nicht hinzugefügt.",
+  "email.mailingList.confirm.subject": "Bestätigen Sie, dass Sie {blogName} beitreten möchten",
+  "email.mailingList.confirm.title": "Der Mailingliste von {blogName} beitreten",
+  "email.mailingList.unsubscribe": "Von dieser Mailingliste abmelden"
 }

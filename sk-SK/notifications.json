@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Čitateľský súhrn",
   "notifications.workflow.taskReminders": "Pripomienky úloh",
   "notifications.workflow.organization-billing": "Fakturácia organizácie",
-  "notifications.workflow.story-backup": "Zálohy textov"
+  "notifications.workflow.story-backup": "Zálohy textov",
+  "settings.mailingLists.empty": "Nepridali ste sa do žiadneho zoznamu adresátov. Hľadajte formulár na blogoch, ktoré čítate.",
+  "settings.mailingLists.failed": "Vaše zoznamy adresátov sa nepodarilo načítať.",
+  "settings.mailingLists.intro": "Autori týchto blogov môžu písať na vašu overenú e-mailovú adresu. Opustite zoznam tu a autor už vašu adresu nedostane.",
+  "settings.mailingLists.leaveFailed": "Zo zoznamu sa vás nepodarilo odstrániť. Skúste to znova.",
+  "settings.mailingLists.since": "Pridané {date}",
+  "settings.mailingLists.title": "Zoznamy adresátov blogov"
 }

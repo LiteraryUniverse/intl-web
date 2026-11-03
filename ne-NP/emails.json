@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” को तपाईंको ब्याकअप",
   "email.backup.intro": "“{storyTitle}” को तपाईंको तालिकाबद्ध ब्याकअप यहाँ छ।",
   "email.backup.formats": "संलग्न फाइलहरू: {formats}",
-  "email.backup.footer": "तालिकाबद्ध ब्याकअपहरू आफ्नो कथाको कार्यशालामा व्यवस्थापन गर्नुहोस् वा बन्द गर्नुहोस्।"
+  "email.backup.footer": "तालिकाबद्ध ब्याकअपहरू आफ्नो कथाको कार्यशालामा व्यवस्थापन गर्नुहोस् वा बन्द गर्नुहोस्।",
+  "email.mailingList.confirm.body": "कसैले, सायद तपाईंले, यो इमेल ठेगानाबाट यो मेलिङ लिस्टमा जोडिन अनुरोध गर्नुभयो। लेखकबाट अपडेट पाउन पुष्टि गर्नुहोस्। लिङ्क ७ दिन चल्छ।",
+  "email.mailingList.confirm.cta": "सदस्यता पुष्टि गर्नुहोस्",
+  "email.mailingList.confirm.ignore": "यो तपाईं हुनुहुन्नथ्यो भने यो इमेललाई वास्ता नगर्नुहोस्; तपाईंलाई थपिनेछैन।",
+  "email.mailingList.confirm.subject": "तपाईं {blogName} मा जोडिन चाहनुहुन्छ भनेर पुष्टि गर्नुहोस्",
+  "email.mailingList.confirm.title": "{blogName} को मेलिङ लिस्टमा जोडिनुहोस्",
+  "email.mailingList.unsubscribe": "यो मेलिङ लिस्टको सदस्यता रद्द गर्नुहोस्"
 }

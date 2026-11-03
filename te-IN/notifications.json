@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "రచనల బ్యాకప్‌లు"
+  "notifications.workflow.story-backup": "రచనల బ్యాకప్‌లు",
+  "settings.mailingLists.empty": "మీరు ఏ మెయిలింగ్ జాబితాలోనూ చేరలేదు. మీరు చదివే బ్లాగ్‌లలో సైన్-అప్ కోసం చూడండి.",
+  "settings.mailingLists.failed": "మీ మెయిలింగ్ జాబితాలను లోడ్ చేయలేకపోయాం.",
+  "settings.mailingLists.intro": "ఈ బ్లాగ్‌ల రచయితలు మీ ధృవీకరించిన ఇమెయిల్ చిరునామాకు రాయవచ్చు. ఇక్కడ జాబితా నుండి వైదొలగితే రచయితకు మీ చిరునామా ఇక అందదు.",
+  "settings.mailingLists.leaveFailed": "మిమ్మల్ని జాబితా నుండి తొలగించలేకపోయాం. మళ్లీ ప్రయత్నించండి.",
+  "settings.mailingLists.since": "{date}న చేరారు",
+  "settings.mailingLists.title": "బ్లాగ్ మెయిలింగ్ జాబితాలు"
 }

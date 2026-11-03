@@ -255,5 +255,11 @@
   "email.backup.subject": "نسختك الاحتياطية لـ «{storyTitle}»",
   "email.backup.intro": "إليك النسخة الاحتياطية المجدولة لـ «{storyTitle}».",
   "email.backup.formats": "الملفات المرفقة: {formats}",
-  "email.backup.footer": "يمكنك إدارة النسخ الاحتياطية المجدولة أو إيقافها من ورشة عمل قصتك."
+  "email.backup.footer": "يمكنك إدارة النسخ الاحتياطية المجدولة أو إيقافها من ورشة عمل قصتك.",
+  "email.mailingList.confirm.body": "طلب شخص ما، ونأمل أنه أنت، الانضمام إلى هذه القائمة البريدية بهذا العنوان. أكّد ذلك لتصلك تحديثات الكاتب. يعمل الرابط لمدة 7 أيام.",
+  "email.mailingList.confirm.cta": "تأكيد الاشتراك",
+  "email.mailingList.confirm.ignore": "إذا لم يكن الطلب منك، فتجاهل هذه الرسالة ولن تتم إضافتك.",
+  "email.mailingList.confirm.subject": "أكّد رغبتك في الانضمام إلى {blogName}",
+  "email.mailingList.confirm.title": "انضم إلى القائمة البريدية لـ {blogName}",
+  "email.mailingList.unsubscribe": "إلغاء الاشتراك في هذه القائمة البريدية"
 }

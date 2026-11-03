@@ -255,5 +255,11 @@
   "email.backup.subject": "Jou rugsteun vir “{storyTitle}”",
   "email.backup.intro": "Hier is jou geskeduleerde rugsteun vir “{storyTitle}”.",
   "email.backup.formats": "Aangehegte lêers: {formats}",
-  "email.backup.footer": "Bestuur of skakel geskeduleerde rugsteune af in jou storie se werkswinkel."
+  "email.backup.footer": "Bestuur of skakel geskeduleerde rugsteune af in jou storie se werkswinkel.",
+  "email.mailingList.confirm.body": "Iemand, hopelik jy, het gevra om met hierdie e-posadres by hierdie possery aan te sluit. Bevestig dit om opdaterings van die skrywer te kry. Die skakel werk 7 dae lank.",
+  "email.mailingList.confirm.cta": "Bevestig intekening",
+  "email.mailingList.confirm.ignore": "As dit nie jy was nie, ignoreer hierdie e-pos en jy sal nie bygevoeg word nie.",
+  "email.mailingList.confirm.subject": "Bevestig dat jy by {blogName} wil aansluit",
+  "email.mailingList.confirm.title": "Sluit by die {blogName}-possery aan",
+  "email.mailingList.unsubscribe": "Skryf uit van hierdie possery"
 }

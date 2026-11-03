@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "閱讀摘要",
   "notifications.workflow.taskReminders": "任務提醒",
   "notifications.workflow.organization-billing": "組織帳務",
-  "notifications.workflow.story-backup": "寫作備份"
+  "notifications.workflow.story-backup": "寫作備份",
+  "settings.mailingLists.empty": "您尚未加入任何郵寄名單。請在您閱讀的部落格中尋找訂閱表單。",
+  "settings.mailingLists.failed": "無法載入您的郵寄名單。",
+  "settings.mailingLists.intro": "這些部落格的作者可以寄信到您已驗證的電子郵件地址。在這裡退出名單後，作者就不再取得您的地址。",
+  "settings.mailingLists.leaveFailed": "無法將您從名單中移除。請再試一次。",
+  "settings.mailingLists.since": "加入於 {date}",
+  "settings.mailingLists.title": "部落格郵寄名單"
 }

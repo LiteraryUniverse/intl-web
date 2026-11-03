@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Lässammanfattning",
   "notifications.workflow.taskReminders": "Uppgiftspåminnelser",
   "notifications.workflow.organization-billing": "Organisationens fakturering",
-  "notifications.workflow.story-backup": "Säkerhetskopior av texter"
+  "notifications.workflow.story-backup": "Säkerhetskopior av texter",
+  "settings.mailingLists.empty": "Du har inte gått med i någon e-postlista. Leta efter anmälan på bloggarna du läser.",
+  "settings.mailingLists.failed": "Dina e-postlistor kunde inte laddas.",
+  "settings.mailingLists.intro": "Författarna till de här bloggarna kan skriva till din verifierade e-postadress. Lämna en lista här så får författaren inte längre din adress.",
+  "settings.mailingLists.leaveFailed": "Du kunde inte tas bort från listan. Försök igen.",
+  "settings.mailingLists.since": "Gick med {date}",
+  "settings.mailingLists.title": "Bloggars e-postlistor"
 }

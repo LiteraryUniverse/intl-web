@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Resumen de lectura",
   "notifications.workflow.taskReminders": "Recordatorios de tareas",
   "notifications.workflow.organization-billing": "Facturación de la organización",
-  "notifications.workflow.story-backup": "Copias de seguridad de tus escritos"
+  "notifications.workflow.story-backup": "Copias de seguridad de tus escritos",
+  "settings.mailingLists.empty": "No se ha unido a ninguna lista de correo. Busque el formulario en los blogs que lee.",
+  "settings.mailingLists.failed": "No se han podido cargar sus listas de correo.",
+  "settings.mailingLists.intro": "Los autores de estos blogs pueden escribir a su correo electrónico verificado. Salga de una lista aquí y el autor dejará de recibir su dirección.",
+  "settings.mailingLists.leaveFailed": "No se le ha podido quitar de la lista. Inténtelo de nuevo.",
+  "settings.mailingLists.since": "Se unió el {date}",
+  "settings.mailingLists.title": "Listas de correo de blogs"
 }

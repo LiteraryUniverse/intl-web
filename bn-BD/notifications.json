@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "পড়ার সারসংক্ষেপ",
   "notifications.workflow.taskReminders": "টাস্কের অনুস্মারক",
   "notifications.workflow.organization-billing": "প্রতিষ্ঠানের বিলিং",
-  "notifications.workflow.story-backup": "লেখার ব্যাকআপ"
+  "notifications.workflow.story-backup": "লেখার ব্যাকআপ",
+  "settings.mailingLists.empty": "আপনি কোনো মেইলিং লিস্টে যোগ দেননি। আপনি যে ব্লগগুলো পড়েন সেখানে সাইন-আপ খুঁজুন।",
+  "settings.mailingLists.failed": "আপনার মেইলিং লিস্ট লোড করা যায়নি।",
+  "settings.mailingLists.intro": "এই ব্লগগুলোর লেখকেরা আপনার যাচাই করা ইমেইল ঠিকানায় লিখতে পারেন। এখানে কোনো তালিকা ছাড়লে লেখক আর আপনার ঠিকানা পাবেন না।",
+  "settings.mailingLists.leaveFailed": "আপনাকে তালিকা থেকে সরানো যায়নি। আবার চেষ্টা করুন।",
+  "settings.mailingLists.since": "যোগ দিয়েছেন {date}",
+  "settings.mailingLists.title": "ব্লগ মেইলিং লিস্ট"
 }

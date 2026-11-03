@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Σύνοψη ανάγνωσης",
   "notifications.workflow.taskReminders": "Υπενθυμίσεις εργασιών",
   "notifications.workflow.organization-billing": "Χρέωση οργανισμού",
-  "notifications.workflow.story-backup": "Αντίγραφα ασφαλείας κειμένων"
+  "notifications.workflow.story-backup": "Αντίγραφα ασφαλείας κειμένων",
+  "settings.mailingLists.empty": "Δεν έχετε εγγραφεί σε καμία λίστα αλληλογραφίας. Αναζητήστε τη φόρμα εγγραφής στα ιστολόγια που διαβάζετε.",
+  "settings.mailingLists.failed": "Δεν ήταν δυνατή η φόρτωση των λιστών αλληλογραφίας σας.",
+  "settings.mailingLists.intro": "Οι συγγραφείς αυτών των ιστολογίων μπορούν να γράψουν στην επαληθευμένη διεύθυνση email σας. Αποχωρήστε από μια λίστα εδώ και ο συγγραφέας δεν θα λαμβάνει πια τη διεύθυνσή σας.",
+  "settings.mailingLists.leaveFailed": "Δεν ήταν δυνατή η αφαίρεσή σας από τη λίστα. Δοκιμάστε ξανά.",
+  "settings.mailingLists.since": "Εγγραφή στις {date}",
+  "settings.mailingLists.title": "Λίστες αλληλογραφίας ιστολογίων"
 }

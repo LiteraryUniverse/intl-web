@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Bilan de lecture",
   "notifications.workflow.taskReminders": "Rappels de tâches",
   "notifications.workflow.organization-billing": "Facturation de l'organisation",
-  "notifications.workflow.story-backup": "Sauvegardes de vos écrits"
+  "notifications.workflow.story-backup": "Sauvegardes de vos écrits",
+  "settings.mailingLists.empty": "Vous n'êtes inscrit à aucune liste de diffusion. Cherchez le formulaire d'inscription sur les blogs que vous lisez.",
+  "settings.mailingLists.failed": "Impossible de charger vos listes de diffusion.",
+  "settings.mailingLists.intro": "Les auteurs de ces blogs peuvent écrire à votre adresse e-mail vérifiée. Quittez une liste ici et l'auteur ne reçoit plus votre adresse.",
+  "settings.mailingLists.leaveFailed": "Vous n'avez pas pu être retiré de la liste. Réessayez.",
+  "settings.mailingLists.since": "Inscrit le {date}",
+  "settings.mailingLists.title": "Listes de diffusion de blogs"
 }

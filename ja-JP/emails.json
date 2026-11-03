@@ -255,5 +255,11 @@
   "email.backup.subject": "「{storyTitle}」のバックアップ",
   "email.backup.intro": "「{storyTitle}」の定期バックアップをお届けします。",
   "email.backup.formats": "添付ファイル：{formats}",
-  "email.backup.footer": "定期バックアップの管理や停止は、物語のワークショップで行えます。"
+  "email.backup.footer": "定期バックアップの管理や停止は、物語のワークショップで行えます。",
+  "email.mailingList.confirm.body": "どなたか(あなたかもしれません)が、このメールアドレスでこのメーリングリストへの参加を申請しました。作者からの更新を受け取るには、確認してください。リンクは7日間有効です。",
+  "email.mailingList.confirm.cta": "登録を確認",
+  "email.mailingList.confirm.ignore": "心当たりがない場合は、このメールを無視してください。登録されることはありません。",
+  "email.mailingList.confirm.subject": "{blogName}への参加を確認してください",
+  "email.mailingList.confirm.title": "{blogName}のメーリングリストに参加",
+  "email.mailingList.unsubscribe": "このメーリングリストの登録を解除"
 }

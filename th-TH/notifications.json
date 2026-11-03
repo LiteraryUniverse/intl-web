@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "สรุปการอ่าน",
   "notifications.workflow.taskReminders": "การเตือนงาน",
   "notifications.workflow.organization-billing": "การเรียกเก็บเงินขององค์กร",
-  "notifications.workflow.story-backup": "สำรองงานเขียน"
+  "notifications.workflow.story-backup": "สำรองงานเขียน",
+  "settings.mailingLists.empty": "คุณยังไม่ได้เข้าร่วมรายชื่ออีเมลใด ลองหาแบบฟอร์มสมัครในบล็อกที่คุณอ่าน",
+  "settings.mailingLists.failed": "โหลดรายชื่ออีเมลของคุณไม่ได้",
+  "settings.mailingLists.intro": "ผู้เขียนบล็อกเหล่านี้สามารถส่งอีเมลถึงอีเมลที่ยืนยันแล้วของคุณ ออกจากรายการที่นี่ แล้วผู้เขียนจะไม่ได้รับอีเมลของคุณอีก",
+  "settings.mailingLists.leaveFailed": "ลบคุณออกจากรายการไม่ได้ ลองอีกครั้ง",
+  "settings.mailingLists.since": "เข้าร่วมเมื่อ {date}",
+  "settings.mailingLists.title": "รายชื่ออีเมลของบล็อก"
 }

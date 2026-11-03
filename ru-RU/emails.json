@@ -255,5 +255,11 @@
   "email.backup.subject": "Ваша резервная копия истории «{storyTitle}»",
   "email.backup.intro": "Вот запланированная резервная копия истории «{storyTitle}».",
   "email.backup.formats": "Вложенные файлы: {formats}",
-  "email.backup.footer": "Управлять запланированными резервными копиями или отключить их можно в Мастерской вашей истории."
+  "email.backup.footer": "Управлять запланированными резервными копиями или отключить их можно в Мастерской вашей истории.",
+  "email.mailingList.confirm.body": "Кто-то, надеемся, вы, попросил подписаться на этот список рассылки с этим адресом. Подтвердите, чтобы получать новости от автора. Ссылка действует 7 дней.",
+  "email.mailingList.confirm.cta": "Подтвердить подписку",
+  "email.mailingList.confirm.ignore": "Если это были не вы, проигнорируйте письмо, и вы не будете подписаны.",
+  "email.mailingList.confirm.subject": "Подтвердите подписку на {blogName}",
+  "email.mailingList.confirm.title": "Подпишитесь на рассылку {blogName}",
+  "email.mailingList.unsubscribe": "Отписаться от этого списка рассылки"
 }

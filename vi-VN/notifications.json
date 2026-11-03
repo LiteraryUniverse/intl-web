@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Tóm tắt việc đọc",
   "notifications.workflow.taskReminders": "Nhắc nhở nhiệm vụ",
   "notifications.workflow.organization-billing": "Thanh toán của tổ chức",
-  "notifications.workflow.story-backup": "Sao lưu bản viết"
+  "notifications.workflow.story-backup": "Sao lưu bản viết",
+  "settings.mailingLists.empty": "Bạn chưa tham gia danh sách gửi thư nào. Hãy tìm biểu mẫu đăng ký trên các blog bạn đọc.",
+  "settings.mailingLists.failed": "Không thể tải các danh sách gửi thư của bạn.",
+  "settings.mailingLists.intro": "Tác giả của các blog này có thể viết thư đến email đã xác minh của bạn. Rời danh sách tại đây và tác giả sẽ không còn nhận được địa chỉ của bạn.",
+  "settings.mailingLists.leaveFailed": "Không thể xóa bạn khỏi danh sách. Hãy thử lại.",
+  "settings.mailingLists.since": "Đã tham gia {date}",
+  "settings.mailingLists.title": "Danh sách gửi thư của blog"
 }

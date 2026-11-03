@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Buod ng pagbabasa",
   "notifications.workflow.taskReminders": "Mga paalala sa gawain",
   "notifications.workflow.organization-billing": "Billing ng organisasyon",
-  "notifications.workflow.story-backup": "Mga backup ng isinulat"
+  "notifications.workflow.story-backup": "Mga backup ng isinulat",
+  "settings.mailingLists.empty": "Wala kang sinalihang mailing list. Hanapin ang sign-up sa mga blog na binabasa mo.",
+  "settings.mailingLists.failed": "Hindi ma-load ang iyong mga mailing list.",
+  "settings.mailingLists.intro": "Maaaring sumulat ang mga may-akda ng mga blog na ito sa iyong na-verify na email address. Umalis sa listahan dito at hindi na makukuha ng may-akda ang iyong address.",
+  "settings.mailingLists.leaveFailed": "Hindi ka naalis sa listahan. Subukan muli.",
+  "settings.mailingLists.since": "Sumali noong {date}",
+  "settings.mailingLists.title": "Mga mailing list ng blog"
 }

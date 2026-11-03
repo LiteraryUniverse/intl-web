@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Lega resumo",
   "notifications.workflow.taskReminders": "Memorigoj pri taskoj",
   "notifications.workflow.organization-billing": "Fakturado de organizo",
-  "notifications.workflow.story-backup": "Sekurkopioj de verkaĵoj"
+  "notifications.workflow.story-backup": "Sekurkopioj de verkaĵoj",
+  "settings.mailingLists.empty": "Vi ne aliĝis al iu dissendolisto. Serĉu la aliĝilon en la blogoj, kiujn vi legas.",
+  "settings.mailingLists.failed": "Viaj dissendolistoj ne povis esti ŝargitaj.",
+  "settings.mailingLists.intro": "La aŭtoroj de ĉi tiuj blogoj povas skribi al via kontrolita retpoŝta adreso. Forlasu liston ĉi tie kaj la aŭtoro ne plu ricevos vian adreson.",
+  "settings.mailingLists.leaveFailed": "Vi ne povis esti forigita de la listo. Provu denove.",
+  "settings.mailingLists.since": "Aliĝis {date}",
+  "settings.mailingLists.title": "Blogaj dissendolistoj"
 }

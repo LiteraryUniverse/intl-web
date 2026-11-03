@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Resum de lectura",
   "notifications.workflow.taskReminders": "Recordatoris de tasques",
   "notifications.workflow.organization-billing": "Facturació de l'organització",
-  "notifications.workflow.story-backup": "Còpies de seguretat dels teus escrits"
+  "notifications.workflow.story-backup": "Còpies de seguretat dels teus escrits",
+  "settings.mailingLists.empty": "No t'has apuntat a cap llista de correu. Busca el formulari als blogs que llegeixes.",
+  "settings.mailingLists.failed": "No s'han pogut carregar les teves llistes de correu.",
+  "settings.mailingLists.intro": "Els autors d'aquests blogs poden escriure a la teva adreça electrònica verificada. Surt d'una llista aquí i l'autor deixarà de tenir la teva adreça.",
+  "settings.mailingLists.leaveFailed": "No t'hem pogut treure de la llista. Torna-ho a provar.",
+  "settings.mailingLists.since": "T'hi vas apuntar el {date}",
+  "settings.mailingLists.title": "Llistes de correu de blogs"
 }

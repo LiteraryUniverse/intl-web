@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Lukuyhteenveto",
   "notifications.workflow.taskReminders": "Tehtävämuistutukset",
   "notifications.workflow.organization-billing": "Organisaation laskutus",
-  "notifications.workflow.story-backup": "Kirjoitusten varmuuskopiot"
+  "notifications.workflow.story-backup": "Kirjoitusten varmuuskopiot",
+  "settings.mailingLists.empty": "Et ole liittynyt yhdellekään postituslistalle. Etsi liittymislomaketta lukemistasi blogeista.",
+  "settings.mailingLists.failed": "Postituslistojasi ei voitu ladata.",
+  "settings.mailingLists.intro": "Näiden blogien kirjoittajat voivat lähettää viestejä vahvistettuun sähköpostiosoitteeseesi. Poistu listalta tässä, niin kirjoittaja ei enää saa osoitettasi.",
+  "settings.mailingLists.leaveFailed": "Sinua ei voitu poistaa listalta. Yritä uudelleen.",
+  "settings.mailingLists.since": "Liittynyt {date}",
+  "settings.mailingLists.title": "Blogien postituslistat"
 }

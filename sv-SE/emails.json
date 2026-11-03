@@ -255,5 +255,11 @@
   "email.backup.subject": "Din säkerhetskopia av ”{storyTitle}”",
   "email.backup.intro": "Här är din schemalagda säkerhetskopia av ”{storyTitle}”.",
   "email.backup.formats": "Bifogade filer: {formats}",
-  "email.backup.footer": "Hantera eller stäng av schemalagda säkerhetskopior i berättelsens verkstad."
+  "email.backup.footer": "Hantera eller stäng av schemalagda säkerhetskopior i berättelsens verkstad.",
+  "email.mailingList.confirm.body": "Någon, förhoppningsvis du, har bett om att få gå med i den här e-postlistan med den här e-postadressen. Bekräfta för att få nyheter från författaren. Länken fungerar i 7 dagar.",
+  "email.mailingList.confirm.cta": "Bekräfta prenumeration",
+  "email.mailingList.confirm.ignore": "Om det inte var du ignorerar du bara det här mejlet, så läggs du inte till.",
+  "email.mailingList.confirm.subject": "Bekräfta att du vill gå med i {blogName}",
+  "email.mailingList.confirm.title": "Gå med i e-postlistan för {blogName}",
+  "email.mailingList.unsubscribe": "Avsluta prenumerationen på den här e-postlistan"
 }

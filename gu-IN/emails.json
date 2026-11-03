@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” માટે તમારું બેકઅપ",
   "email.backup.intro": "“{storyTitle}” માટે તમારું શેડ્યૂલ કરેલું બેકઅપ આ રહ્યું.",
   "email.backup.formats": "જોડેલી ફાઇલો: {formats}",
-  "email.backup.footer": "શેડ્યૂલ કરેલાં બેકઅપ તમારી વાર્તાની કાર્યશાળામાં સંચાલિત કરો અથવા બંધ કરો."
+  "email.backup.footer": "શેડ્યૂલ કરેલાં બેકઅપ તમારી વાર્તાની કાર્યશાળામાં સંચાલિત કરો અથવા બંધ કરો.",
+  "email.mailingList.confirm.body": "કોઈએ, આશા છે કે તમે, આ ઇમેઇલ સરનામાથી આ મેઇલિંગ લિસ્ટમાં જોડાવાની વિનંતી કરી છે. લેખકના અપડેટ મેળવવા માટે તેની પુષ્ટિ કરો. લિંક 7 દિવસ ચાલે છે.",
+  "email.mailingList.confirm.cta": "સબ્સ્ક્રિપ્શનની પુષ્ટિ કરો",
+  "email.mailingList.confirm.ignore": "જો તે તમે ન હતા, તો આ ઇમેઇલ અવગણો અને તમને ઉમેરવામાં આવશે નહીં.",
+  "email.mailingList.confirm.subject": "{blogName}માં જોડાવા માંગો છો તેની પુષ્ટિ કરો",
+  "email.mailingList.confirm.title": "{blogName} મેઇલિંગ લિસ્ટમાં જોડાઓ",
+  "email.mailingList.unsubscribe": "આ મેઇલિંગ લિસ્ટમાંથી અનસબ્સ્ક્રાઇબ કરો"
 }

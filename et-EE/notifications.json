@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Lugemise kokkuvõte",
   "notifications.workflow.taskReminders": "Ülesannete meeldetuletused",
   "notifications.workflow.organization-billing": "Organisatsiooni arveldus",
-  "notifications.workflow.story-backup": "Kirjutiste varukoopiad"
+  "notifications.workflow.story-backup": "Kirjutiste varukoopiad",
+  "settings.mailingLists.empty": "Te pole ühegi postiloendiga liitunud. Otsige liitumisvormi ajaveebidest, mida loete.",
+  "settings.mailingLists.failed": "Teie postiloendeid ei saanud laadida.",
+  "settings.mailingLists.intro": "Nende ajaveebide autorid saavad kirjutada teie kinnitatud e-posti aadressile. Lahkute siin loendist ja autor ei saa enam teie aadressi.",
+  "settings.mailingLists.leaveFailed": "Teid ei saanud loendist eemaldada. Proovige uuesti.",
+  "settings.mailingLists.since": "Liitusite {date}",
+  "settings.mailingLists.title": "Ajaveebide postiloendid"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "Biztonsági mentésed: „{storyTitle}”",
   "email.backup.intro": "Íme az ütemezett biztonsági mentésed ehhez a történethez: „{storyTitle}”.",
   "email.backup.formats": "Csatolt fájlok: {formats}",
-  "email.backup.footer": "Az ütemezett biztonsági mentéseket a történeted műhelyében kezelheted vagy kapcsolhatod ki."
+  "email.backup.footer": "Az ütemezett biztonsági mentéseket a történeted műhelyében kezelheted vagy kapcsolhatod ki.",
+  "email.mailingList.confirm.body": "Valaki, remélhetőleg Ön, ezzel az e-mail-címmel kért csatlakozást ehhez a levelezőlistához. Erősítse meg, hogy híreket kapjon a szerzőtől. A hivatkozás 7 napig érvényes.",
+  "email.mailingList.confirm.cta": "Feliratkozás megerősítése",
+  "email.mailingList.confirm.ignore": "Ha nem Ön volt, hagyja figyelmen kívül ezt az e-mailt, és nem kerül fel a listára.",
+  "email.mailingList.confirm.subject": "Erősítse meg, hogy csatlakozni szeretne a(z) {blogName} listájához",
+  "email.mailingList.confirm.title": "Csatlakozzon a(z) {blogName} levelezőlistájához",
+  "email.mailingList.unsubscribe": "Leiratkozás erről a levelezőlistáról"
 }

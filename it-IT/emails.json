@@ -255,5 +255,11 @@
   "email.backup.subject": "Il tuo backup di «{storyTitle}»",
   "email.backup.intro": "Ecco il backup programmato di «{storyTitle}».",
   "email.backup.formats": "File allegati: {formats}",
-  "email.backup.footer": "Gestisci o disattiva i backup programmati nel laboratorio della tua storia."
+  "email.backup.footer": "Gestisci o disattiva i backup programmati nel laboratorio della tua storia.",
+  "email.mailingList.confirm.body": "Qualcuno, speriamo lei, ha chiesto di iscriversi a questa mailing list con questo indirizzo e-mail. Confermi per ricevere gli aggiornamenti dell'autore. Il link funziona per 7 giorni.",
+  "email.mailingList.confirm.cta": "Conferma iscrizione",
+  "email.mailingList.confirm.ignore": "Se non è stato lei, ignori questa e-mail e non verrà iscritto.",
+  "email.mailingList.confirm.subject": "Confermi di volersi iscrivere a {blogName}",
+  "email.mailingList.confirm.title": "Si iscriva alla mailing list di {blogName}",
+  "email.mailingList.unsubscribe": "Annulla l'iscrizione a questa mailing list"
 }

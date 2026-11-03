@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "लेखन बॅकअप"
+  "notifications.workflow.story-backup": "लेखन बॅकअप",
+  "settings.mailingLists.empty": "तुम्ही कोणत्याही मेलिंग लिस्टमध्ये सामील झालेला नाही. तुम्ही वाचत असलेल्या ब्लॉगवर साइन-अप शोधा.",
+  "settings.mailingLists.failed": "तुमच्या मेलिंग लिस्ट लोड करता आल्या नाहीत.",
+  "settings.mailingLists.intro": "या ब्लॉगचे लेखक तुमच्या सत्यापित ईमेल पत्त्यावर लिहू शकतात. येथे यादी सोडल्यास लेखकाला तुमचा पत्ता मिळत नाही.",
+  "settings.mailingLists.leaveFailed": "तुम्हाला यादीतून काढता आले नाही. पुन्हा प्रयत्न करा.",
+  "settings.mailingLists.since": "{date} रोजी सामील झाले",
+  "settings.mailingLists.title": "ब्लॉग मेलिंग लिस्ट"
 }

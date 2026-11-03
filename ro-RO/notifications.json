@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Rezumatul lecturii",
   "notifications.workflow.taskReminders": "Mementouri pentru sarcini",
   "notifications.workflow.organization-billing": "Facturarea organizației",
-  "notifications.workflow.story-backup": "Copii de rezervă ale scrierilor tale"
+  "notifications.workflow.story-backup": "Copii de rezervă ale scrierilor tale",
+  "settings.mailingLists.empty": "Nu te-ai alăturat nicio listă de corespondență. Caută formularul pe blogurile pe care le citești.",
+  "settings.mailingLists.failed": "Listele tale de corespondență nu au putut fi încărcate.",
+  "settings.mailingLists.intro": "Autorii acestor bloguri pot scrie la adresa ta de e-mail verificată. Părăsește o listă aici și autorul nu mai primește adresa ta.",
+  "settings.mailingLists.leaveFailed": "Nu ai putut fi eliminat din listă. Încearcă din nou.",
+  "settings.mailingLists.since": "Alăturat pe {date}",
+  "settings.mailingLists.title": "Liste de corespondență ale blogurilor"
 }

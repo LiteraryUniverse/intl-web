@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” ਲਈ ਤੁਹਾਡਾ ਬੈਕਅੱਪ",
   "email.backup.intro": "ਇਹ ਰਿਹਾ “{storyTitle}” ਦਾ ਤੁਹਾਡਾ ਨਿਰਧਾਰਤ ਬੈਕਅੱਪ।",
   "email.backup.formats": "ਨੱਥੀ ਫ਼ਾਈਲਾਂ: {formats}",
-  "email.backup.footer": "ਆਪਣੀ ਕਹਾਣੀ ਦੀ ਵਰਕਸ਼ਾਪ ਵਿੱਚ ਨਿਰਧਾਰਤ ਬੈਕਅੱਪਾਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ ਜਾਂ ਉਹਨਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।"
+  "email.backup.footer": "ਆਪਣੀ ਕਹਾਣੀ ਦੀ ਵਰਕਸ਼ਾਪ ਵਿੱਚ ਨਿਰਧਾਰਤ ਬੈਕਅੱਪਾਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ ਜਾਂ ਉਹਨਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।",
+  "email.mailingList.confirm.body": "ਕਿਸੇ ਨੇ, ਉਮੀਦ ਹੈ ਤੁਸੀਂ, ਇਸ ਈਮੇਲ ਪਤੇ ਨਾਲ ਇਸ ਮੇਲਿੰਗ ਸੂਚੀ ਵਿੱਚ ਜੁੜਨ ਲਈ ਕਿਹਾ ਹੈ। ਲੇਖਕ ਤੋਂ ਖ਼ਬਰਾਂ ਪਾਉਣ ਲਈ ਪੁਸ਼ਟੀ ਕਰੋ। ਲਿੰਕ 7 ਦਿਨ ਚੱਲਦਾ ਹੈ।",
+  "email.mailingList.confirm.cta": "ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+  "email.mailingList.confirm.ignore": "ਜੇ ਇਹ ਤੁਸੀਂ ਨਹੀਂ ਸੀ, ਤਾਂ ਇਸ ਈਮੇਲ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ ਅਤੇ ਤੁਹਾਨੂੰ ਜੋੜਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।",
+  "email.mailingList.confirm.subject": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ {blogName} ਵਿੱਚ ਜੁੜਨਾ ਚਾਹੁੰਦੇ ਹੋ",
+  "email.mailingList.confirm.title": "{blogName} ਦੀ ਮੇਲਿੰਗ ਸੂਚੀ ਵਿੱਚ ਜੁੜੋ",
+  "email.mailingList.unsubscribe": "ਇਸ ਮੇਲਿੰਗ ਸੂਚੀ ਤੋਂ ਅਨਸਬਸਕ੍ਰਾਈਬ ਕਰੋ"
 }

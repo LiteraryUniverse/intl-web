@@ -255,5 +255,11 @@
   "email.backup.subject": "Vaša záloha príbehu „{storyTitle}“",
   "email.backup.intro": "Tu je vaša naplánovaná záloha príbehu „{storyTitle}“.",
   "email.backup.formats": "Priložené súbory: {formats}",
-  "email.backup.footer": "Naplánované zálohy môžete spravovať alebo vypnúť v Dielni svojho príbehu."
+  "email.backup.footer": "Naplánované zálohy môžete spravovať alebo vypnúť v Dielni svojho príbehu.",
+  "email.mailingList.confirm.body": "Niekto, dúfame že vy, požiadal o pridanie do tohto zoznamu adresátov s touto e-mailovou adresou. Potvrďte, aby ste dostávali novinky od autora. Odkaz platí 7 dní.",
+  "email.mailingList.confirm.cta": "Potvrdiť odber",
+  "email.mailingList.confirm.ignore": "Ak ste to neboli vy, tento e-mail ignorujte a nebudete pridaný.",
+  "email.mailingList.confirm.subject": "Potvrďte, že sa chcete pridať k {blogName}",
+  "email.mailingList.confirm.title": "Pridajte sa do zoznamu adresátov {blogName}",
+  "email.mailingList.unsubscribe": "Odhlásiť odber z tohto zoznamu adresátov"
 }

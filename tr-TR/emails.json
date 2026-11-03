@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” için yedeğiniz",
   "email.backup.intro": "“{storyTitle}” için zamanlanmış yedeğiniz ektedir.",
   "email.backup.formats": "Ekli dosyalar: {formats}",
-  "email.backup.footer": "Zamanlanmış yedekleri hikaye atölyenizden yönetebilir veya kapatabilirsiniz."
+  "email.backup.footer": "Zamanlanmış yedekleri hikaye atölyenizden yönetebilir veya kapatabilirsiniz.",
+  "email.mailingList.confirm.body": "Biri, umarız siz, bu e-posta adresiyle bu e-posta listesine katılmak istedi. Yazardan haber almak için onaylayın. Bağlantı 7 gün geçerlidir.",
+  "email.mailingList.confirm.cta": "Aboneliği onayla",
+  "email.mailingList.confirm.ignore": "Siz değilseniz bu e-postayı yok sayın, listeye eklenmezsiniz.",
+  "email.mailingList.confirm.subject": "{blogName} listesine katılmak istediğinizi onaylayın",
+  "email.mailingList.confirm.title": "{blogName} e-posta listesine katılın",
+  "email.mailingList.unsubscribe": "Bu e-posta listesinden abonelikten çık"
 }

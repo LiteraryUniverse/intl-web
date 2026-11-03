@@ -255,5 +255,11 @@
   "email.backup.subject": "La teva còpia de seguretat de «{storyTitle}»",
   "email.backup.intro": "Aquí tens la còpia de seguretat programada de «{storyTitle}».",
   "email.backup.formats": "Fitxers adjunts: {formats}",
-  "email.backup.footer": "Gestiona o desactiva les còpies de seguretat programades al taller de la teva història."
+  "email.backup.footer": "Gestiona o desactiva les còpies de seguretat programades al taller de la teva història.",
+  "email.mailingList.confirm.body": "Algú, esperem que tu, ha demanat apuntar-se a aquesta llista de correu amb aquesta adreça electrònica. Confirma-ho per rebre les novetats de l'autor. L'enllaç funciona 7 dies.",
+  "email.mailingList.confirm.cta": "Confirma la subscripció",
+  "email.mailingList.confirm.ignore": "Si no has estat tu, ignora aquest correu i no t'afegirem.",
+  "email.mailingList.confirm.subject": "Confirma que vols apuntar-te a {blogName}",
+  "email.mailingList.confirm.title": "Apunta't a la llista de correu de {blogName}",
+  "email.mailingList.unsubscribe": "Dona't de baixa d'aquesta llista de correu"
 }

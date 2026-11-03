@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "ملخص القراءة",
   "notifications.workflow.taskReminders": "تذكيرات المهام",
   "notifications.workflow.organization-billing": "فوترة المنظمة",
-  "notifications.workflow.story-backup": "النسخ الاحتياطية للكتابة"
+  "notifications.workflow.story-backup": "النسخ الاحتياطية للكتابة",
+  "settings.mailingLists.empty": "لم تنضم إلى أي قائمة بريدية. ابحث عن نموذج الاشتراك في المدونات التي تقرؤها.",
+  "settings.mailingLists.failed": "تعذّر تحميل قوائمك البريدية.",
+  "settings.mailingLists.intro": "يمكن لكتّاب هذه المدونات مراسلة بريدك الإلكتروني الموثّق. غادر قائمة هنا ولن يحصل الكاتب على عنوانك بعد ذلك.",
+  "settings.mailingLists.leaveFailed": "تعذّرت إزالتك من القائمة. حاول مرة أخرى.",
+  "settings.mailingLists.since": "انضممت في {date}",
+  "settings.mailingLists.title": "القوائم البريدية للمدونات"
 }

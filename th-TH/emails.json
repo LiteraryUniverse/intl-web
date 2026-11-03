@@ -255,5 +255,11 @@
   "email.backup.subject": "ข้อมูลสำรองของคุณสำหรับ “{storyTitle}”",
   "email.backup.intro": "นี่คือข้อมูลสำรองตามกำหนดเวลาของคุณสำหรับ “{storyTitle}”",
   "email.backup.formats": "ไฟล์แนบ: {formats}",
-  "email.backup.footer": "จัดการหรือปิดการสำรองข้อมูลตามกำหนดเวลาได้ในเวิร์กช็อปของเรื่องราว"
+  "email.backup.footer": "จัดการหรือปิดการสำรองข้อมูลตามกำหนดเวลาได้ในเวิร์กช็อปของเรื่องราว",
+  "email.mailingList.confirm.body": "มีคนที่หวังว่าจะเป็นคุณ ขอเข้าร่วมรายชื่ออีเมลนี้ด้วยที่อยู่อีเมลนี้ ยืนยันเพื่อรับข่าวสารจากผู้เขียน ลิงก์ใช้ได้ 7 วัน",
+  "email.mailingList.confirm.cta": "ยืนยันการสมัคร",
+  "email.mailingList.confirm.ignore": "หากไม่ใช่คุณ ไม่ต้องสนใจอีเมลนี้ และคุณจะไม่ถูกเพิ่มเข้ารายการ",
+  "email.mailingList.confirm.subject": "ยืนยันว่าคุณต้องการเข้าร่วม {blogName}",
+  "email.mailingList.confirm.title": "เข้าร่วมรายชื่ออีเมลของ {blogName}",
+  "email.mailingList.unsubscribe": "ยกเลิกการสมัครรายชื่ออีเมลนี้"
 }

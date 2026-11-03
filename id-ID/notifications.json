@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Ringkasan bacaan",
   "notifications.workflow.taskReminders": "Pengingat tugas",
   "notifications.workflow.organization-billing": "Penagihan organisasi",
-  "notifications.workflow.story-backup": "Cadangan tulisan"
+  "notifications.workflow.story-backup": "Cadangan tulisan",
+  "settings.mailingLists.empty": "Anda belum bergabung di milis mana pun. Cari formulir pendaftaran di blog yang Anda baca.",
+  "settings.mailingLists.failed": "Milis Anda tidak dapat dimuat.",
+  "settings.mailingLists.intro": "Penulis blog ini dapat menulis ke alamat email Anda yang terverifikasi. Keluar dari milis di sini dan penulis tidak lagi mendapatkan alamat Anda.",
+  "settings.mailingLists.leaveFailed": "Anda tidak dapat dikeluarkan dari milis. Coba lagi.",
+  "settings.mailingLists.since": "Bergabung {date}",
+  "settings.mailingLists.title": "Milis blog"
 }

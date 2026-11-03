@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” కోసం మీ బ్యాకప్",
   "email.backup.intro": "“{storyTitle}” కోసం మీ షెడ్యూల్ చేసిన బ్యాకప్ ఇదిగో.",
   "email.backup.formats": "జోడించిన ఫైల్‌లు: {formats}",
-  "email.backup.footer": "షెడ్యూల్ చేసిన బ్యాకప్‌లను మీ కథ వర్క్‌షాప్‌లో నిర్వహించండి లేదా ఆపివేయండి."
+  "email.backup.footer": "షెడ్యూల్ చేసిన బ్యాకప్‌లను మీ కథ వర్క్‌షాప్‌లో నిర్వహించండి లేదా ఆపివేయండి.",
+  "email.mailingList.confirm.body": "ఎవరో, బహుశా మీరే, ఈ ఇమెయిల్ చిరునామాతో ఈ మెయిలింగ్ జాబితాలో చేరాలని కోరారు. రచయిత నుండి వార్తలు పొందడానికి నిర్ధారించండి. లింక్ 7 రోజులు పనిచేస్తుంది.",
+  "email.mailingList.confirm.cta": "చందాను నిర్ధారించండి",
+  "email.mailingList.confirm.ignore": "అది మీరు కాకపోతే, ఈ ఇమెయిల్‌ను విస్మరించండి, మీరు జోడించబడరు.",
+  "email.mailingList.confirm.subject": "మీరు {blogName}లో చేరాలనుకుంటున్నారని నిర్ధారించండి",
+  "email.mailingList.confirm.title": "{blogName} మెయిలింగ్ జాబితాలో చేరండి",
+  "email.mailingList.unsubscribe": "ఈ మెయిలింగ్ జాబితా నుండి చందా రద్దు చేయండి"
 }

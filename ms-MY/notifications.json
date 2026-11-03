@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Ringkasan bacaan",
   "notifications.workflow.taskReminders": "Peringatan tugasan",
   "notifications.workflow.organization-billing": "Pengebilan organisasi",
-  "notifications.workflow.story-backup": "Sandaran tulisan"
+  "notifications.workflow.story-backup": "Sandaran tulisan",
+  "settings.mailingLists.empty": "Anda belum menyertai mana-mana senarai mel. Cari borang pendaftaran pada blog yang anda baca.",
+  "settings.mailingLists.failed": "Senarai mel anda tidak dapat dimuatkan.",
+  "settings.mailingLists.intro": "Penulis blog ini boleh menulis kepada alamat e-mel anda yang telah disahkan. Keluar daripada senarai di sini dan penulis tidak lagi mendapat alamat anda.",
+  "settings.mailingLists.leaveFailed": "Anda tidak dapat dikeluarkan daripada senarai. Cuba lagi.",
+  "settings.mailingLists.since": "Menyertai {date}",
+  "settings.mailingLists.title": "Senarai mel blog"
 }

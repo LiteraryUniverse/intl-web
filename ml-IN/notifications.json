@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "എഴുത്ത് ബാക്കപ്പുകൾ"
+  "notifications.workflow.story-backup": "എഴുത്ത് ബാക്കപ്പുകൾ",
+  "settings.mailingLists.empty": "നിങ്ങൾ ഒരു മെയിലിംഗ് ലിസ്റ്റിലും ചേർന്നിട്ടില്ല. നിങ്ങൾ വായിക്കുന്ന ബ്ലോഗുകളിൽ സൈൻ-അപ്പ് നോക്കുക.",
+  "settings.mailingLists.failed": "നിങ്ങളുടെ മെയിലിംഗ് ലിസ്റ്റുകൾ ലോഡ് ചെയ്യാനായില്ല.",
+  "settings.mailingLists.intro": "ഈ ബ്ലോഗുകളുടെ രചയിതാക്കൾക്ക് നിങ്ങളുടെ സ്ഥിരീകരിച്ച ഇമെയിൽ വിലാസത്തിലേക്ക് എഴുതാം. ഇവിടെ ലിസ്റ്റ് വിട്ടാൽ രചയിതാവിന് നിങ്ങളുടെ വിലാസം ഇനി ലഭിക്കില്ല.",
+  "settings.mailingLists.leaveFailed": "ലിസ്റ്റിൽ നിന്ന് നിങ്ങളെ നീക്കം ചെയ്യാനായില്ല. വീണ്ടും ശ്രമിക്കുക.",
+  "settings.mailingLists.since": "{date}-ന് ചേർന്നു",
+  "settings.mailingLists.title": "ബ്ലോഗ് മെയിലിംഗ് ലിസ്റ്റുകൾ"
 }

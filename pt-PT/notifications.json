@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Resumo de leitura",
   "notifications.workflow.taskReminders": "Lembretes de tarefas",
   "notifications.workflow.organization-billing": "Faturação da organização",
-  "notifications.workflow.story-backup": "Cópias de segurança da escrita"
+  "notifications.workflow.story-backup": "Cópias de segurança da escrita",
+  "settings.mailingLists.empty": "Não aderiu a nenhuma lista de correio. Procure o formulário nos blogues que lê.",
+  "settings.mailingLists.failed": "Não foi possível carregar as suas listas de correio.",
+  "settings.mailingLists.intro": "Os autores destes blogues podem escrever para o seu e-mail verificado. Saia de uma lista aqui e o autor deixa de receber o seu endereço.",
+  "settings.mailingLists.leaveFailed": "Não foi possível removê-lo da lista. Tente novamente.",
+  "settings.mailingLists.since": "Aderiu em {date}",
+  "settings.mailingLists.title": "Listas de correio de blogues"
 }

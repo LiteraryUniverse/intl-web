@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Leesopsomming",
   "notifications.workflow.taskReminders": "Taakherinneringe",
   "notifications.workflow.organization-billing": "Organisasiefakturering",
-  "notifications.workflow.story-backup": "Skryfrugsteune"
+  "notifications.workflow.story-backup": "Skryfrugsteune",
+  "settings.mailingLists.empty": "Jy het by geen possery aangesluit nie. Soek die inskrywing op die blogs wat jy lees.",
+  "settings.mailingLists.failed": "Jou posserye kon nie gelaai word nie.",
+  "settings.mailingLists.intro": "Die skrywers van hierdie blogs kan vir jou geverifieerde e-posadres skryf. Verlaat 'n lys hier en die skrywer kry nie meer jou adres nie.",
+  "settings.mailingLists.leaveFailed": "Jy kon nie van die lys verwyder word nie. Probeer weer.",
+  "settings.mailingLists.since": "Aangesluit {date}",
+  "settings.mailingLists.title": "Blog-posserye"
 }

@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Læseoversigt",
   "notifications.workflow.taskReminders": "Opgavepåmindelser",
   "notifications.workflow.organization-billing": "Organisationens fakturering",
-  "notifications.workflow.story-backup": "Sikkerhedskopier af tekster"
+  "notifications.workflow.story-backup": "Sikkerhedskopier af tekster",
+  "settings.mailingLists.empty": "Du har ikke tilmeldt dig nogen mailinglister. Se efter tilmeldingen på de blogs, du læser.",
+  "settings.mailingLists.failed": "Dine mailinglister kunne ikke indlæses.",
+  "settings.mailingLists.intro": "Forfatterne til disse blogs kan skrive til din bekræftede e-mailadresse. Forlad en liste her, så får forfatteren ikke længere din adresse.",
+  "settings.mailingLists.leaveFailed": "Du kunne ikke fjernes fra listen. Prøv igen.",
+  "settings.mailingLists.since": "Tilmeldt {date}",
+  "settings.mailingLists.title": "Blog-mailinglister"
 }

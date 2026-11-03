@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "ਲਿਖਤ ਦੇ ਬੈਕਅੱਪ"
+  "notifications.workflow.story-backup": "ਲਿਖਤ ਦੇ ਬੈਕਅੱਪ",
+  "settings.mailingLists.empty": "ਤੁਸੀਂ ਕਿਸੇ ਮੇਲਿੰਗ ਸੂਚੀ ਵਿੱਚ ਨਹੀਂ ਜੁੜੇ। ਜੋ ਬਲੌਗ ਤੁਸੀਂ ਪੜ੍ਹਦੇ ਹੋ ਉਨ੍ਹਾਂ ਉੱਤੇ ਸਾਈਨ-ਅੱਪ ਲੱਭੋ।",
+  "settings.mailingLists.failed": "ਤੁਹਾਡੀਆਂ ਮੇਲਿੰਗ ਸੂਚੀਆਂ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੀਆਂ।",
+  "settings.mailingLists.intro": "ਇਨ੍ਹਾਂ ਬਲੌਗਾਂ ਦੇ ਲੇਖਕ ਤੁਹਾਡੇ ਪੁਸ਼ਟੀ ਕੀਤੇ ਈਮੇਲ ਪਤੇ ਨੂੰ ਲਿਖ ਸਕਦੇ ਹਨ। ਇੱਥੇ ਸੂਚੀ ਛੱਡੋ ਅਤੇ ਲੇਖਕ ਨੂੰ ਤੁਹਾਡਾ ਪਤਾ ਮਿਲਣਾ ਬੰਦ ਹੋ ਜਾਵੇਗਾ।",
+  "settings.mailingLists.leaveFailed": "ਤੁਹਾਨੂੰ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+  "settings.mailingLists.since": "{date} ਨੂੰ ਜੁੜੇ",
+  "settings.mailingLists.title": "ਬਲੌਗ ਮੇਲਿੰਗ ਸੂਚੀਆਂ"
 }

@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "લેખન બેકઅપ"
+  "notifications.workflow.story-backup": "લેખન બેકઅપ",
+  "settings.mailingLists.empty": "તમે કોઈ મેઇલિંગ લિસ્ટમાં જોડાયા નથી. તમે વાંચો છો તે બ્લોગ પર સાઇન-અપ શોધો.",
+  "settings.mailingLists.failed": "તમારા મેઇલિંગ લિસ્ટ લોડ થઈ શક્યા નથી.",
+  "settings.mailingLists.intro": "આ બ્લોગના લેખકો તમારા ચકાસેલા ઇમેઇલ સરનામે લખી શકે છે. અહીં સૂચિ છોડો અને લેખકને તમારું સરનામું મળતું બંધ થઈ જશે.",
+  "settings.mailingLists.leaveFailed": "તમને સૂચિમાંથી દૂર કરી શકાયા નથી. ફરી પ્રયાસ કરો.",
+  "settings.mailingLists.since": "{date}ના રોજ જોડાયા",
+  "settings.mailingLists.title": "બ્લોગ મેઇલિંગ લિસ્ટ"
 }

@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "読書サマリー",
   "notifications.workflow.taskReminders": "タスクのリマインダー",
   "notifications.workflow.organization-billing": "組織の請求",
-  "notifications.workflow.story-backup": "執筆バックアップ"
+  "notifications.workflow.story-backup": "執筆バックアップ",
+  "settings.mailingLists.empty": "参加しているメーリングリストはありません。読んでいるブログで登録フォームを探してみてください。",
+  "settings.mailingLists.failed": "メーリングリストを読み込めませんでした。",
+  "settings.mailingLists.intro": "これらのブログの作者は、確認済みのメールアドレス宛にメールを送れます。ここでリストから退会すると、作者はあなたのアドレスを取得できなくなります。",
+  "settings.mailingLists.leaveFailed": "リストから退会できませんでした。もう一度お試しください。",
+  "settings.mailingLists.since": "{date}に参加",
+  "settings.mailingLists.title": "ブログのメーリングリスト"
 }

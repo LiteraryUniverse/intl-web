@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Lesesammendrag",
   "notifications.workflow.taskReminders": "Oppgavepåminnelser",
   "notifications.workflow.organization-billing": "Fakturering for organisasjon",
-  "notifications.workflow.story-backup": "Sikkerhetskopier av tekster"
+  "notifications.workflow.story-backup": "Sikkerhetskopier av tekster",
+  "settings.mailingLists.empty": "Du har ikke blitt med på noen e-postlister. Se etter påmeldingen på bloggene du leser.",
+  "settings.mailingLists.failed": "E-postlistene dine kunne ikke lastes inn.",
+  "settings.mailingLists.intro": "Forfatterne av disse bloggene kan skrive til den verifiserte e-postadressen din. Forlater du en liste her, får ikke forfatteren adressen din lenger.",
+  "settings.mailingLists.leaveFailed": "Du kunne ikke fjernes fra listen. Prøv igjen.",
+  "settings.mailingLists.since": "Ble med {date}",
+  "settings.mailingLists.title": "Blogg-e-postlister"
 }

@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Okuma özeti",
   "notifications.workflow.taskReminders": "Görev hatırlatıcıları",
   "notifications.workflow.organization-billing": "Kuruluş faturalandırması",
-  "notifications.workflow.story-backup": "Yazı yedekleri"
+  "notifications.workflow.story-backup": "Yazı yedekleri",
+  "settings.mailingLists.empty": "Hiçbir e-posta listesine katılmadınız. Okuduğunuz bloglardaki kayıt formuna bakın.",
+  "settings.mailingLists.failed": "E-posta listeleriniz yüklenemedi.",
+  "settings.mailingLists.intro": "Bu blogların yazarları doğrulanmış e-posta adresinize yazabilir. Buradan bir listeden ayrılırsanız yazar adresinizi artık almaz.",
+  "settings.mailingLists.leaveFailed": "Listeden çıkarılamadınız. Tekrar deneyin.",
+  "settings.mailingLists.since": "{date} tarihinde katıldınız",
+  "settings.mailingLists.title": "Blog e-posta listeleri"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "Din sikkerhedskopi af “{storyTitle}”",
   "email.backup.intro": "Her er din planlagte sikkerhedskopi af “{storyTitle}”.",
   "email.backup.formats": "Vedhæftede filer: {formats}",
-  "email.backup.footer": "Administrer eller slå planlagte sikkerhedskopier fra i din histories værksted."
+  "email.backup.footer": "Administrer eller slå planlagte sikkerhedskopier fra i din histories værksted.",
+  "email.mailingList.confirm.body": "Nogen, forhåbentlig dig, har bedt om at komme på denne mailingliste med denne e-mailadresse. Bekræft det for at få opdateringer fra forfatteren. Linket virker i 7 dage.",
+  "email.mailingList.confirm.cta": "Bekræft tilmelding",
+  "email.mailingList.confirm.ignore": "Hvis det ikke var dig, kan du ignorere denne mail, så bliver du ikke tilføjet.",
+  "email.mailingList.confirm.subject": "Bekræft, at du vil tilmelde dig {blogName}",
+  "email.mailingList.confirm.title": "Tilmeld dig mailinglisten for {blogName}",
+  "email.mailingList.unsubscribe": "Afmeld denne mailingliste"
 }

@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Leseübersicht",
   "notifications.workflow.taskReminders": "Aufgabenerinnerungen",
   "notifications.workflow.organization-billing": "Abrechnung der Organisation",
-  "notifications.workflow.story-backup": "Text-Backups"
+  "notifications.workflow.story-backup": "Text-Backups",
+  "settings.mailingLists.empty": "Sie sind keiner Mailingliste beigetreten. Suchen Sie das Anmeldeformular in den Blogs, die Sie lesen.",
+  "settings.mailingLists.failed": "Ihre Mailinglisten konnten nicht geladen werden.",
+  "settings.mailingLists.intro": "Die Autoren dieser Blogs können an Ihre bestätigte E-Mail-Adresse schreiben. Wenn Sie hier eine Liste verlassen, erhält der Autor Ihre Adresse nicht mehr.",
+  "settings.mailingLists.leaveFailed": "Sie konnten nicht aus der Liste entfernt werden. Versuchen Sie es erneut.",
+  "settings.mailingLists.since": "Beigetreten am {date}",
+  "settings.mailingLists.title": "Blog-Mailinglisten"
 }

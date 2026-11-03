@@ -255,5 +255,11 @@
   "email.backup.subject": "Ang iyong backup para sa “{storyTitle}”",
   "email.backup.intro": "Narito ang iyong naka-iskedyul na backup para sa “{storyTitle}”.",
   "email.backup.formats": "Mga naka-attach na file: {formats}",
-  "email.backup.footer": "Pamahalaan o i-off ang mga naka-iskedyul na backup sa Gawain ng iyong kwento."
+  "email.backup.footer": "Pamahalaan o i-off ang mga naka-iskedyul na backup sa Gawain ng iyong kwento.",
+  "email.mailingList.confirm.body": "May nagtangkang sumali, sana ikaw, sa mailing list na ito gamit ang email address na ito. Kumpirmahin ito para makatanggap ng mga update mula sa may-akda. Gumagana ang link sa loob ng 7 araw.",
+  "email.mailingList.confirm.cta": "Kumpirmahin ang subscription",
+  "email.mailingList.confirm.ignore": "Kung hindi ikaw iyon, huwag pansinin ang email na ito at hindi ka idaragdag.",
+  "email.mailingList.confirm.subject": "Kumpirmahin na gusto mong sumali sa {blogName}",
+  "email.mailingList.confirm.title": "Sumali sa mailing list ng {blogName}",
+  "email.mailingList.unsubscribe": "Mag-unsubscribe sa mailing list na ito"
 }

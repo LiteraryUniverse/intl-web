@@ -255,5 +255,11 @@
   "email.backup.subject": "הגיבוי שלכם עבור “{storyTitle}”",
   "email.backup.intro": "הנה הגיבוי המתוזמן שלכם עבור “{storyTitle}”.",
   "email.backup.formats": "קבצים מצורפים: {formats}",
-  "email.backup.footer": "אפשר לנהל או לכבות גיבויים מתוזמנים בסדנת הסיפור שלכם."
+  "email.backup.footer": "אפשר לנהל או לכבות גיבויים מתוזמנים בסדנת הסיפור שלכם.",
+  "email.mailingList.confirm.body": "מישהו, אולי אתם, ביקש להצטרף לרשימת התפוצה הזו עם כתובת הדוא\"ל הזו. אשרו כדי לקבל עדכונים מהכותב/ת. הקישור תקף ל-7 ימים.",
+  "email.mailingList.confirm.cta": "אישור המנוי",
+  "email.mailingList.confirm.ignore": "אם זה לא היה אתם, התעלמו מהדוא\"ל הזה ולא תתווספו.",
+  "email.mailingList.confirm.subject": "אשרו שאתם רוצים להצטרף אל {blogName}",
+  "email.mailingList.confirm.title": "הצטרפו לרשימת התפוצה של {blogName}",
+  "email.mailingList.unsubscribe": "ביטול המנוי לרשימת התפוצה הזו"
 }

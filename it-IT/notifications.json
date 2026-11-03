@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Riepilogo di lettura",
   "notifications.workflow.taskReminders": "Promemoria delle attività",
   "notifications.workflow.organization-billing": "Fatturazione dell'organizzazione",
-  "notifications.workflow.story-backup": "Backup dei tuoi scritti"
+  "notifications.workflow.story-backup": "Backup dei tuoi scritti",
+  "settings.mailingLists.empty": "Non è iscritto a nessuna mailing list. Cerchi il modulo di iscrizione nei blog che legge.",
+  "settings.mailingLists.failed": "Non è stato possibile caricare le sue mailing list.",
+  "settings.mailingLists.intro": "Gli autori di questi blog possono scrivere al suo indirizzo e-mail verificato. Esca da una lista qui e l'autore non riceverà più il suo indirizzo.",
+  "settings.mailingLists.leaveFailed": "Non è stato possibile rimuoverla dalla lista. Riprovi.",
+  "settings.mailingLists.since": "Iscritto dal {date}",
+  "settings.mailingLists.title": "Mailing list dei blog"
 }

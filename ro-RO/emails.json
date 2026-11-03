@@ -255,5 +255,11 @@
   "email.backup.subject": "Copia ta de rezervă pentru „{storyTitle}”",
   "email.backup.intro": "Iată copia de rezervă programată pentru „{storyTitle}”.",
   "email.backup.formats": "Fișiere atașate: {formats}",
-  "email.backup.footer": "Gestionează sau dezactivează copiile de rezervă programate în atelierul poveștii tale."
+  "email.backup.footer": "Gestionează sau dezactivează copiile de rezervă programate în atelierul poveștii tale.",
+  "email.mailingList.confirm.body": "Cineva, sperăm că tu, a cerut alăturarea la această listă de corespondență cu această adresă de e-mail. Confirmă pentru a primi noutăți de la autor. Linkul funcționează 7 zile.",
+  "email.mailingList.confirm.cta": "Confirmă abonarea",
+  "email.mailingList.confirm.ignore": "Dacă nu ai fost tu, ignoră acest e-mail și nu vei fi adăugat.",
+  "email.mailingList.confirm.subject": "Confirmă că vrei să te alături {blogName}",
+  "email.mailingList.confirm.title": "Alătură-te listei de corespondență {blogName}",
+  "email.mailingList.unsubscribe": "Dezabonează-te de la această listă de corespondență"
 }

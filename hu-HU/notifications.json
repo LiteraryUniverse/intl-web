@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Olvasási összefoglaló",
   "notifications.workflow.taskReminders": "Feladatemlékeztetők",
   "notifications.workflow.organization-billing": "Szervezeti számlázás",
-  "notifications.workflow.story-backup": "Írások biztonsági mentése"
+  "notifications.workflow.story-backup": "Írások biztonsági mentése",
+  "settings.mailingLists.empty": "Még nem csatlakozott levelezőlistához. Keresse a feliratkozót az olvasott blogokon.",
+  "settings.mailingLists.failed": "A levelezőlistáit nem sikerült betölteni.",
+  "settings.mailingLists.intro": "Ezeknek a blogoknak a szerzői írhatnak az ellenőrzött e-mail-címére. Ha itt elhagy egy listát, a szerző már nem kapja meg a címét.",
+  "settings.mailingLists.leaveFailed": "Nem sikerült eltávolítani a listáról. Próbálja újra.",
+  "settings.mailingLists.since": "Csatlakozott: {date}",
+  "settings.mailingLists.title": "Blog-levelezőlisták"
 }

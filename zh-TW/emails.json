@@ -255,5 +255,11 @@
   "email.backup.subject": "「{storyTitle}」的備份",
   "email.backup.intro": "這是「{storyTitle}」的排程備份。",
   "email.backup.formats": "附加檔案：{formats}",
-  "email.backup.footer": "您可以在故事的工作坊中管理或關閉排程備份。"
+  "email.backup.footer": "您可以在故事的工作坊中管理或關閉排程備份。",
+  "email.mailingList.confirm.body": "有人（希望是您）要求用此電子郵件地址加入這份郵寄名單。請確認以接收作者的消息。連結有效期為 7 天。",
+  "email.mailingList.confirm.cta": "確認訂閱",
+  "email.mailingList.confirm.ignore": "若不是您本人，請忽略這封郵件，您不會被加入。",
+  "email.mailingList.confirm.subject": "確認您要加入 {blogName}",
+  "email.mailingList.confirm.title": "加入 {blogName} 郵寄名單",
+  "email.mailingList.unsubscribe": "取消訂閱此郵寄名單"
 }

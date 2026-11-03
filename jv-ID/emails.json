@@ -255,5 +255,11 @@
   "email.backup.subject": "Your backup for \"{storyTitle}\"",
   "email.backup.intro": "Here is your scheduled backup for \"{storyTitle}\".",
   "email.backup.formats": "Files attached: {formats}",
-  "email.backup.footer": "Manage or turn off scheduled backups in your story workshop."
+  "email.backup.footer": "Manage or turn off scheduled backups in your story workshop.",
+  "email.mailingList.confirm.body": "Someone, hopefully you, asked to join this mailing list with this email address. Confirm it to get updates from the author. The link works for 7 days.",
+  "email.mailingList.confirm.cta": "Confirm subscription",
+  "email.mailingList.confirm.ignore": "If it was not you, ignore this email and you will not be added.",
+  "email.mailingList.confirm.subject": "Confirm that you want to join {blogName}",
+  "email.mailingList.confirm.title": "Join the {blogName} mailing list",
+  "email.mailingList.unsubscribe": "Unsubscribe from this mailing list"
 }

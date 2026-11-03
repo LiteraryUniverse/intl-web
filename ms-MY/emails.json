@@ -255,5 +255,11 @@
   "email.backup.subject": "Sandaran anda untuk “{storyTitle}”",
   "email.backup.intro": "Ini sandaran berjadual anda untuk “{storyTitle}”.",
   "email.backup.formats": "Fail yang dilampirkan: {formats}",
-  "email.backup.footer": "Urus atau matikan sandaran berjadual dalam bengkel cerita anda."
+  "email.backup.footer": "Urus atau matikan sandaran berjadual dalam bengkel cerita anda.",
+  "email.mailingList.confirm.body": "Seseorang, harap-harap anda, meminta untuk menyertai senarai mel ini dengan alamat e-mel ini. Sahkan untuk mendapat kemas kini daripada penulis. Pautan berfungsi selama 7 hari.",
+  "email.mailingList.confirm.cta": "Sahkan langganan",
+  "email.mailingList.confirm.ignore": "Jika bukan anda, abaikan e-mel ini dan anda tidak akan ditambah.",
+  "email.mailingList.confirm.subject": "Sahkan bahawa anda mahu menyertai {blogName}",
+  "email.mailingList.confirm.title": "Sertai senarai mel {blogName}",
+  "email.mailingList.unsubscribe": "Berhenti melanggan senarai mel ini"
 }

@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "எழுத்துக் காப்புப்பிரதிகள்"
+  "notifications.workflow.story-backup": "எழுத்துக் காப்புப்பிரதிகள்",
+  "settings.mailingLists.empty": "நீங்கள் எந்த அஞ்சல் பட்டியலிலும் இணையவில்லை. நீங்கள் படிக்கும் வலைப்பதிவுகளில் பதிவுப் படிவத்தைத் தேடுங்கள்.",
+  "settings.mailingLists.failed": "உங்கள் அஞ்சல் பட்டியல்களை ஏற்ற முடியவில்லை.",
+  "settings.mailingLists.intro": "இந்த வலைப்பதிவுகளின் ஆசிரியர்கள் உங்கள் சரிபார்க்கப்பட்ட மின்னஞ்சல் முகவரிக்கு எழுதலாம். இங்கே பட்டியலிலிருந்து விலகினால் ஆசிரியருக்கு உங்கள் முகவரி இனி கிடைக்காது.",
+  "settings.mailingLists.leaveFailed": "உங்களைப் பட்டியலிலிருந்து நீக்க முடியவில்லை. மீண்டும் முயலவும்.",
+  "settings.mailingLists.since": "{date} அன்று இணைந்தீர்கள்",
+  "settings.mailingLists.title": "வலைப்பதிவு அஞ்சல் பட்டியல்கள்"
 }

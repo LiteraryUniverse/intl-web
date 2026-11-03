@@ -255,5 +255,11 @@
   "email.backup.subject": "Je back-up van “{storyTitle}”",
   "email.backup.intro": "Hier is je geplande back-up van “{storyTitle}”.",
   "email.backup.formats": "Bijgevoegde bestanden: {formats}",
-  "email.backup.footer": "Beheer of stop geplande back-ups in de werkplaats van je verhaal."
+  "email.backup.footer": "Beheer of stop geplande back-ups in de werkplaats van je verhaal.",
+  "email.mailingList.confirm.body": "Iemand, hopelijk u, heeft gevraagd om met dit e-mailadres lid te worden van deze mailinglijst. Bevestig dit om updates van de auteur te ontvangen. De link werkt 7 dagen.",
+  "email.mailingList.confirm.cta": "Aanmelding bevestigen",
+  "email.mailingList.confirm.ignore": "Als u dit niet was, negeer dan deze e-mail en u wordt niet toegevoegd.",
+  "email.mailingList.confirm.subject": "Bevestig dat u zich wilt aanmelden voor {blogName}",
+  "email.mailingList.confirm.title": "Meld u aan voor de mailinglijst van {blogName}",
+  "email.mailingList.unsubscribe": "Afmelden voor deze mailinglijst"
 }

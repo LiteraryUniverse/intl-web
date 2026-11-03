@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "סיכום קריאה",
   "notifications.workflow.taskReminders": "תזכורות למשימות",
   "notifications.workflow.organization-billing": "חיוב הארגון",
-  "notifications.workflow.story-backup": "גיבויי כתיבה"
+  "notifications.workflow.story-backup": "גיבויי כתיבה",
+  "settings.mailingLists.empty": "לא הצטרפתם לאף רשימת תפוצה. חפשו את טופס ההרשמה בבלוגים שאתם קוראים.",
+  "settings.mailingLists.failed": "לא ניתן היה לטעון את רשימות התפוצה שלכם.",
+  "settings.mailingLists.intro": "הכותבים של הבלוגים האלה יכולים לכתוב לכתובת הדוא\"ל המאומתת שלכם. עזבו רשימה כאן והכותב/ת כבר לא יקבלו את הכתובת שלכם.",
+  "settings.mailingLists.leaveFailed": "לא ניתן היה להסיר אתכם מהרשימה. נסו שוב.",
+  "settings.mailingLists.since": "הצטרפתם ב-{date}",
+  "settings.mailingLists.title": "רשימות תפוצה של בלוגים"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "Jūsų istorijos „{storyTitle}“ atsarginė kopija",
   "email.backup.intro": "Štai suplanuota jūsų istorijos „{storyTitle}“ atsarginė kopija.",
   "email.backup.formats": "Pridėti failai: {formats}",
-  "email.backup.footer": "Suplanuotas atsargines kopijas galite tvarkyti arba išjungti savo istorijos dirbtuvėse."
+  "email.backup.footer": "Suplanuotas atsargines kopijas galite tvarkyti arba išjungti savo istorijos dirbtuvėse.",
+  "email.mailingList.confirm.body": "Kažkas, tikėtina, kad jūs, paprašė prisijungti prie šio pašto sąrašo šiuo el. pašto adresu. Patvirtinkite, kad gautumėte autoriaus naujienas. Nuoroda galioja 7 dienas.",
+  "email.mailingList.confirm.cta": "Patvirtinti prenumeratą",
+  "email.mailingList.confirm.ignore": "Jei tai buvote ne jūs, nepaisykite šio laiško ir nebūsite pridėti.",
+  "email.mailingList.confirm.subject": "Patvirtinkite, kad norite prisijungti prie {blogName}",
+  "email.mailingList.confirm.title": "Prisijunkite prie {blogName} pašto sąrašo",
+  "email.mailingList.unsubscribe": "Atsisakyti šio pašto sąrašo prenumeratos"
 }

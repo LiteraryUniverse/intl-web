@@ -255,5 +255,11 @@
   "email.backup.subject": "Bản sao lưu của bạn cho “{storyTitle}”",
   "email.backup.intro": "Đây là bản sao lưu theo lịch của bạn cho “{storyTitle}”.",
   "email.backup.formats": "Tệp đính kèm: {formats}",
-  "email.backup.footer": "Quản lý hoặc tắt sao lưu theo lịch trong xưởng viết của câu chuyện."
+  "email.backup.footer": "Quản lý hoặc tắt sao lưu theo lịch trong xưởng viết của câu chuyện.",
+  "email.mailingList.confirm.body": "Có người, hy vọng là bạn, đã yêu cầu tham gia danh sách gửi thư này bằng địa chỉ email này. Hãy xác nhận để nhận tin từ tác giả. Liên kết có hiệu lực trong 7 ngày.",
+  "email.mailingList.confirm.cta": "Xác nhận đăng ký",
+  "email.mailingList.confirm.ignore": "Nếu không phải bạn, hãy bỏ qua email này và bạn sẽ không bị thêm vào.",
+  "email.mailingList.confirm.subject": "Xác nhận bạn muốn tham gia {blogName}",
+  "email.mailingList.confirm.title": "Tham gia danh sách gửi thư của {blogName}",
+  "email.mailingList.unsubscribe": "Hủy đăng ký danh sách gửi thư này"
 }

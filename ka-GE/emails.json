@@ -255,5 +255,11 @@
   "email.backup.subject": "„{storyTitle}“-ის სარეზერვო ასლი",
   "email.backup.intro": "გიგზავნით „{storyTitle}“-ის დაგეგმილ სარეზერვო ასლს.",
   "email.backup.formats": "მიმაგრებული ფაილები: {formats}",
-  "email.backup.footer": "დაგეგმილი სარეზერვო ასლების მართვა ან გამორთვა ისტორიის სახელოსნოში შეგიძლიათ."
+  "email.backup.footer": "დაგეგმილი სარეზერვო ასლების მართვა ან გამორთვა ისტორიის სახელოსნოში შეგიძლიათ.",
+  "email.mailingList.confirm.body": "ვიღაცამ, იმედია თქვენ, ამ ელფოსტის მისამართით ამ საფოსტო სიაში გაწევრიანება მოითხოვა. დაადასტურეთ, რომ ავტორისგან განახლებები მიიღოთ. ბმული მოქმედებს 7 დღე.",
+  "email.mailingList.confirm.cta": "გამოწერის დადასტურება",
+  "email.mailingList.confirm.ignore": "თუ ეს თქვენ არ იყავით, უგულებელყავით ეს წერილი და არ დაგამატებთ.",
+  "email.mailingList.confirm.subject": "დაადასტურეთ, რომ გსურთ {blogName}-ს შეუერთდეთ",
+  "email.mailingList.confirm.title": "შეუერთდით {blogName}-ის საფოსტო სიას",
+  "email.mailingList.unsubscribe": "ამ საფოსტო სიის გამოწერის გაუქმება"
 }

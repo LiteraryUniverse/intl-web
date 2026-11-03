@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” का आपका बैकअप",
   "email.backup.intro": "“{storyTitle}” का आपका शेड्यूल किया गया बैकअप यह रहा।",
   "email.backup.formats": "संलग्न फ़ाइलें: {formats}",
-  "email.backup.footer": "शेड्यूल किए गए बैकअप अपनी कहानी की कार्यशाला में प्रबंधित करें या बंद करें।"
+  "email.backup.footer": "शेड्यूल किए गए बैकअप अपनी कहानी की कार्यशाला में प्रबंधित करें या बंद करें।",
+  "email.mailingList.confirm.body": "किसी ने, शायद आपने, इस ईमेल पते से इस मेलिंग लिस्ट में जुड़ने का अनुरोध किया। लेखक से अपडेट पाने के लिए पुष्टि करें। लिंक 7 दिन तक काम करता है।",
+  "email.mailingList.confirm.cta": "सब्सक्रिप्शन की पुष्टि करें",
+  "email.mailingList.confirm.ignore": "अगर यह आप नहीं थे, तो इस ईमेल को अनदेखा करें और आपको जोड़ा नहीं जाएगा।",
+  "email.mailingList.confirm.subject": "पुष्टि करें कि आप {blogName} से जुड़ना चाहते हैं",
+  "email.mailingList.confirm.title": "{blogName} की मेलिंग लिस्ट से जुड़ें",
+  "email.mailingList.unsubscribe": "इस मेलिंग लिस्ट का सब्सक्रिप्शन रद्द करें"
 }

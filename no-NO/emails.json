@@ -255,5 +255,11 @@
   "email.backup.subject": "Sikkerhetskopien din av «{storyTitle}»",
   "email.backup.intro": "Her er den planlagte sikkerhetskopien din av «{storyTitle}».",
   "email.backup.formats": "Vedlagte filer: {formats}",
-  "email.backup.footer": "Administrer eller slå av planlagte sikkerhetskopier i historiens verksted."
+  "email.backup.footer": "Administrer eller slå av planlagte sikkerhetskopier i historiens verksted.",
+  "email.mailingList.confirm.body": "Noen, forhåpentligvis du, ba om å bli med på denne e-postlisten med denne e-postadressen. Bekreft for å få oppdateringer fra forfatteren. Lenken virker i 7 dager.",
+  "email.mailingList.confirm.cta": "Bekreft abonnement",
+  "email.mailingList.confirm.ignore": "Hvis det ikke var deg, kan du ignorere denne e-posten, så blir du ikke lagt til.",
+  "email.mailingList.confirm.subject": "Bekreft at du vil bli med på {blogName}",
+  "email.mailingList.confirm.title": "Bli med på e-postlisten til {blogName}",
+  "email.mailingList.unsubscribe": "Meld av denne e-postlisten"
 }

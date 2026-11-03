@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Leesoverzicht",
   "notifications.workflow.taskReminders": "Taakherinneringen",
   "notifications.workflow.organization-billing": "Facturering van organisatie",
-  "notifications.workflow.story-backup": "Schrijfback-ups"
+  "notifications.workflow.story-backup": "Schrijfback-ups",
+  "settings.mailingLists.empty": "U bent niet aangemeld voor een mailinglijst. Zoek het aanmeldformulier op de blogs die u leest.",
+  "settings.mailingLists.failed": "Uw mailinglijsten konden niet worden geladen.",
+  "settings.mailingLists.intro": "De auteurs van deze blogs kunnen schrijven naar uw geverifieerde e-mailadres. Verlaat u hier een lijst, dan krijgt de auteur uw adres niet meer.",
+  "settings.mailingLists.leaveFailed": "U kon niet van de lijst worden verwijderd. Probeer het opnieuw.",
+  "settings.mailingLists.since": "Aangemeld op {date}",
+  "settings.mailingLists.title": "Mailinglijsten van blogs"
 }

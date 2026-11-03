@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Podsumowanie czytania",
   "notifications.workflow.taskReminders": "Przypomnienia o zadaniach",
   "notifications.workflow.organization-billing": "Rozliczenia organizacji",
-  "notifications.workflow.story-backup": "Kopie zapasowe tekstów"
+  "notifications.workflow.story-backup": "Kopie zapasowe tekstów",
+  "settings.mailingLists.empty": "Nie dołączono do żadnej listy mailingowej. Szukaj formularza zapisu na czytanych blogach.",
+  "settings.mailingLists.failed": "Nie udało się wczytać Twoich list mailingowych.",
+  "settings.mailingLists.intro": "Autorzy tych blogów mogą pisać na Twój zweryfikowany adres e-mail. Zrezygnuj z listy tutaj, a autor przestanie dostawać Twój adres.",
+  "settings.mailingLists.leaveFailed": "Nie udało się usunąć Cię z listy. Spróbuj ponownie.",
+  "settings.mailingLists.since": "Dołączono {date}",
+  "settings.mailingLists.title": "Listy mailingowe blogów"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” साठी तुमचा बॅकअप",
   "email.backup.intro": "“{storyTitle}” साठी तुमचा नियोजित बॅकअप येथे आहे.",
   "email.backup.formats": "जोडलेल्या फाइल्स: {formats}",
-  "email.backup.footer": "नियोजित बॅकअप तुमच्या कथेच्या कार्यशाळेत व्यवस्थापित करा किंवा बंद करा."
+  "email.backup.footer": "नियोजित बॅकअप तुमच्या कथेच्या कार्यशाळेत व्यवस्थापित करा किंवा बंद करा.",
+  "email.mailingList.confirm.body": "कोणीतरी, कदाचित तुम्ही, या ईमेल पत्त्याने या मेलिंग लिस्टमध्ये सामील होण्याची विनंती केली. लेखकाकडून अपडेट्स मिळवण्यासाठी पुष्टी करा. लिंक 7 दिवस चालते.",
+  "email.mailingList.confirm.cta": "सदस्यत्वाची पुष्टी करा",
+  "email.mailingList.confirm.ignore": "हे तुम्ही नसाल, तर हा ईमेल दुर्लक्षित करा; तुम्हाला जोडले जाणार नाही.",
+  "email.mailingList.confirm.subject": "तुम्हाला {blogName} मध्ये सामील व्हायचे आहे याची पुष्टी करा",
+  "email.mailingList.confirm.title": "{blogName} मेलिंग लिस्टमध्ये सामील व्हा",
+  "email.mailingList.unsubscribe": "या मेलिंग लिस्टचे सदस्यत्व रद्द करा"
 }

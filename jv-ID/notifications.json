@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "Writing backups"
+  "notifications.workflow.story-backup": "Writing backups",
+  "settings.mailingLists.empty": "You have not joined any mailing lists. Look for the sign-up on the blogs you read.",
+  "settings.mailingLists.failed": "Your mailing lists could not be loaded.",
+  "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
+  "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
+  "settings.mailingLists.since": "Joined {date}",
+  "settings.mailingLists.title": "Blog mailing lists"
 }

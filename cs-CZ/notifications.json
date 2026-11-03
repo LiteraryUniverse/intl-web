@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Čtenářský souhrn",
   "notifications.workflow.taskReminders": "Připomenutí úkolů",
   "notifications.workflow.organization-billing": "Platby organizace",
-  "notifications.workflow.story-backup": "Zálohy textů"
+  "notifications.workflow.story-backup": "Zálohy textů",
+  "settings.mailingLists.empty": "Nejste přihlášeni k žádnému seznamu odběratelů. Hledejte přihlášení na blozích, které čtete.",
+  "settings.mailingLists.failed": "Vaše seznamy odběratelů se nepodařilo načíst.",
+  "settings.mailingLists.intro": "Autoři těchto blogů mohou psát na vaši ověřenou e-mailovou adresu. Opustíte-li seznam tady, autor už vaši adresu mít nebude.",
+  "settings.mailingLists.leaveFailed": "Ze seznamu vás nešlo odstranit. Zkuste to znovu.",
+  "settings.mailingLists.since": "Přihlášeno {date}",
+  "settings.mailingLists.title": "Seznamy odběratelů blogů"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "“{storyTitle}” 백업",
   "email.backup.intro": "“{storyTitle}”의 예약 백업을 보내 드립니다.",
   "email.backup.formats": "첨부 파일: {formats}",
-  "email.backup.footer": "예약 백업은 이야기 작업장에서 관리하거나 끌 수 있습니다."
+  "email.backup.footer": "예약 백업은 이야기 작업장에서 관리하거나 끌 수 있습니다.",
+  "email.mailingList.confirm.body": "누군가(아마 본인)가 이 이메일 주소로 이 메일링 리스트 참여를 요청했습니다. 작성자의 소식을 받으려면 확인해 주세요. 링크는 7일 동안 유효합니다.",
+  "email.mailingList.confirm.cta": "구독 확인",
+  "email.mailingList.confirm.ignore": "본인이 아니라면 이 메일을 무시하세요. 가입되지 않습니다.",
+  "email.mailingList.confirm.subject": "{blogName} 참여를 확인해 주세요",
+  "email.mailingList.confirm.title": "{blogName} 메일링 리스트에 참여하세요",
+  "email.mailingList.unsubscribe": "이 메일링 리스트 구독 취소"
 }

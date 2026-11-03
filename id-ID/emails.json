@@ -255,5 +255,11 @@
   "email.backup.subject": "Cadangan Anda untuk “{storyTitle}”",
   "email.backup.intro": "Berikut cadangan terjadwal Anda untuk “{storyTitle}”.",
   "email.backup.formats": "File terlampir: {formats}",
-  "email.backup.footer": "Kelola atau nonaktifkan cadangan terjadwal di Bengkel cerita Anda."
+  "email.backup.footer": "Kelola atau nonaktifkan cadangan terjadwal di Bengkel cerita Anda.",
+  "email.mailingList.confirm.body": "Seseorang, semoga Anda, meminta bergabung di milis ini dengan alamat email ini. Konfirmasikan untuk mendapatkan kabar dari penulis. Tautan berlaku selama 7 hari.",
+  "email.mailingList.confirm.cta": "Konfirmasi langganan",
+  "email.mailingList.confirm.ignore": "Jika itu bukan Anda, abaikan email ini dan Anda tidak akan ditambahkan.",
+  "email.mailingList.confirm.subject": "Konfirmasi bahwa Anda ingin bergabung di {blogName}",
+  "email.mailingList.confirm.title": "Bergabunglah di milis {blogName}",
+  "email.mailingList.unsubscribe": "Berhenti berlangganan milis ini"
 }

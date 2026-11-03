@@ -255,5 +255,11 @@
   "email.backup.subject": "Votre sauvegarde de « {storyTitle} »",
   "email.backup.intro": "Voici votre sauvegarde programmée de « {storyTitle} ».",
   "email.backup.formats": "Fichiers joints : {formats}",
-  "email.backup.footer": "Gérez ou désactivez les sauvegardes programmées dans l’atelier de votre histoire."
+  "email.backup.footer": "Gérez ou désactivez les sauvegardes programmées dans l’atelier de votre histoire.",
+  "email.mailingList.confirm.body": "Quelqu'un, sans doute vous, a demandé à rejoindre cette liste de diffusion avec cette adresse e-mail. Confirmez pour recevoir les nouvelles de l'auteur. Le lien est valable 7 jours.",
+  "email.mailingList.confirm.cta": "Confirmer l'abonnement",
+  "email.mailingList.confirm.ignore": "Si ce n'était pas vous, ignorez cet e-mail et vous ne serez pas ajouté.",
+  "email.mailingList.confirm.subject": "Confirmez que vous souhaitez rejoindre {blogName}",
+  "email.mailingList.confirm.title": "Rejoignez la liste de diffusion de {blogName}",
+  "email.mailingList.unsubscribe": "Se désabonner de cette liste de diffusion"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "Seu backup de “{storyTitle}”",
   "email.backup.intro": "Aqui está o backup agendado de “{storyTitle}”.",
   "email.backup.formats": "Arquivos anexados: {formats}",
-  "email.backup.footer": "Gerencie ou desative os backups agendados na oficina da sua história."
+  "email.backup.footer": "Gerencie ou desative os backups agendados na oficina da sua história.",
+  "email.mailingList.confirm.body": "Alguém, esperamos que você, pediu para entrar nesta lista de e-mails com este endereço. Confirme para receber novidades do autor. O link funciona por 7 dias.",
+  "email.mailingList.confirm.cta": "Confirmar inscrição",
+  "email.mailingList.confirm.ignore": "Se não foi você, ignore este e-mail e você não será adicionado.",
+  "email.mailingList.confirm.subject": "Confirme que você quer entrar em {blogName}",
+  "email.mailingList.confirm.title": "Entre na lista de e-mails de {blogName}",
+  "email.mailingList.unsubscribe": "Cancelar inscrição nesta lista de e-mails"
 }

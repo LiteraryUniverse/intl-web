@@ -255,5 +255,11 @@
   "email.backup.subject": "Sinu loo „{storyTitle}“ varukoopia",
   "email.backup.intro": "Siin on sinu loo „{storyTitle}“ ajastatud varukoopia.",
   "email.backup.formats": "Lisatud failid: {formats}",
-  "email.backup.footer": "Ajastatud varukoopiaid saad hallata või välja lülitada oma loo töötoas."
+  "email.backup.footer": "Ajastatud varukoopiaid saad hallata või välja lülitada oma loo töötoas.",
+  "email.mailingList.confirm.body": "Keegi, loodetavasti teie, taotles selle e-posti aadressiga selle postiloendiga liitumist. Kinnitage see, et saada autori uudiseid. Link kehtib 7 päeva.",
+  "email.mailingList.confirm.cta": "Kinnita tellimus",
+  "email.mailingList.confirm.ignore": "Kui see polnud teie, eirake seda kirja ja teid ei lisata.",
+  "email.mailingList.confirm.subject": "Kinnitage, et soovite liituda ajaveebiga {blogName}",
+  "email.mailingList.confirm.title": "Liituge ajaveebi {blogName} postiloendiga",
+  "email.mailingList.unsubscribe": "Lõpeta selle postiloendi tellimus"
 }

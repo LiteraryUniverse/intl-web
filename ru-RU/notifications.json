@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Сводка чтения",
   "notifications.workflow.taskReminders": "Напоминания о задачах",
   "notifications.workflow.organization-billing": "Оплата организации",
-  "notifications.workflow.story-backup": "Резервные копии текстов"
+  "notifications.workflow.story-backup": "Резервные копии текстов",
+  "settings.mailingLists.empty": "Вы не подписаны ни на один список рассылки. Ищите форму подписки в блогах, которые вы читаете.",
+  "settings.mailingLists.failed": "Не удалось загрузить ваши списки рассылки.",
+  "settings.mailingLists.intro": "Авторы этих блогов могут писать на ваш подтверждённый адрес. Покиньте список здесь, и автор больше не будет получать ваш адрес.",
+  "settings.mailingLists.leaveFailed": "Не удалось удалить вас из списка. Попробуйте ещё раз.",
+  "settings.mailingLists.since": "Подписка с {date}",
+  "settings.mailingLists.title": "Списки рассылки блогов"
 }

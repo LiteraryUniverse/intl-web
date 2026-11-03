@@ -255,5 +255,11 @@
   "email.backup.subject": "Via sekurkopio de “{storyTitle}”",
   "email.backup.intro": "Jen via planita sekurkopio de “{storyTitle}”.",
   "email.backup.formats": "Kunsenditaj dosieroj: {formats}",
-  "email.backup.footer": "Administru aŭ malŝaltu planitajn sekurkopiojn en la verkstato de via rakonto."
+  "email.backup.footer": "Administru aŭ malŝaltu planitajn sekurkopiojn en la verkstato de via rakonto.",
+  "email.mailingList.confirm.body": "Iu, espereble vi, petis aliĝi al ĉi tiu dissendolisto per ĉi tiu retpoŝta adreso. Konfirmu tion por ricevi ĝisdatigojn de la aŭtoro. La ligilo validas 7 tagojn.",
+  "email.mailingList.confirm.cta": "Konfirmi abonon",
+  "email.mailingList.confirm.ignore": "Se ne estis vi, ignoru ĉi tiun retpoŝton kaj vi ne estos aldonita.",
+  "email.mailingList.confirm.subject": "Konfirmu, ke vi volas aliĝi al {blogName}",
+  "email.mailingList.confirm.title": "Aliĝu al la dissendolisto de {blogName}",
+  "email.mailingList.unsubscribe": "Malaboni ĉi tiun dissendoliston"
 }

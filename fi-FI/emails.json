@@ -255,5 +255,11 @@
   "email.backup.subject": "Varmuuskopiosi tarinasta ”{storyTitle}”",
   "email.backup.intro": "Tässä on ajastettu varmuuskopiosi tarinasta ”{storyTitle}”.",
   "email.backup.formats": "Liitetyt tiedostot: {formats}",
-  "email.backup.footer": "Hallitse ajastettuja varmuuskopioita tai poista ne käytöstä tarinasi työpajassa."
+  "email.backup.footer": "Hallitse ajastettuja varmuuskopioita tai poista ne käytöstä tarinasi työpajassa.",
+  "email.mailingList.confirm.body": "Joku, toivottavasti sinä, pyysi liittymistä tälle postituslistalle tällä sähköpostiosoitteella. Vahvista se saadaksesi kirjoittajan päivitykset. Linkki toimii 7 päivää.",
+  "email.mailingList.confirm.cta": "Vahvista tilaus",
+  "email.mailingList.confirm.ignore": "Jos et pyytänyt tätä itse, jätä tämä viesti huomiotta, niin sinua ei lisätä.",
+  "email.mailingList.confirm.subject": "Vahvista, että haluat liittyä blogiin {blogName}",
+  "email.mailingList.confirm.title": "Liity blogin {blogName} postituslistalle",
+  "email.mailingList.unsubscribe": "Lopeta tämän postituslistan tilaus"
 }

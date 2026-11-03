@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "Reading summary",
   "notifications.workflow.taskReminders": "Task reminders",
   "notifications.workflow.organization-billing": "Organization billing",
-  "notifications.workflow.story-backup": "ნაწერის სარეზერვო ასლები"
+  "notifications.workflow.story-backup": "ნაწერის სარეზერვო ასლები",
+  "settings.mailingLists.empty": "არც ერთ საფოსტო სიას არ ხართ შეერთებული. მოძებნეთ რეგისტრაციის ფორმა ბლოგებზე, რომლებსაც კითხულობთ.",
+  "settings.mailingLists.failed": "თქვენი საფოსტო სიების ჩატვირთვა ვერ მოხერხდა.",
+  "settings.mailingLists.intro": "ამ ბლოგების ავტორებს შეუძლიათ თქვენს დადასტურებულ ელფოსტაზე მოგწერონ. სიიდან აქ გასვლის შემდეგ ავტორს თქვენი მისამართი აღარ ექნება.",
+  "settings.mailingLists.leaveFailed": "სიიდან ამოღება ვერ მოხერხდა. სცადეთ ხელახლა.",
+  "settings.mailingLists.since": "შეუერთდით: {date}",
+  "settings.mailingLists.title": "ბლოგების საფოსტო სიები"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "Twoja kopia zapasowa opowieści „{storyTitle}”",
   "email.backup.intro": "Oto Twoja zaplanowana kopia zapasowa opowieści „{storyTitle}”.",
   "email.backup.formats": "Załączone pliki: {formats}",
-  "email.backup.footer": "Zaplanowanymi kopiami zapasowymi możesz zarządzać lub je wyłączyć w Warsztacie swojej opowieści."
+  "email.backup.footer": "Zaplanowanymi kopiami zapasowymi możesz zarządzać lub je wyłączyć w Warsztacie swojej opowieści.",
+  "email.mailingList.confirm.body": "Ktoś, mamy nadzieję że Ty, poprosił o dołączenie do tej listy mailingowej z tym adresem e-mail. Potwierdź, aby otrzymywać wiadomości od autora. Link działa przez 7 dni.",
+  "email.mailingList.confirm.cta": "Potwierdź subskrypcję",
+  "email.mailingList.confirm.ignore": "Jeśli to nie Ty, zignoruj tę wiadomość, a nie zostaniesz dodany(-a).",
+  "email.mailingList.confirm.subject": "Potwierdź, że chcesz dołączyć do {blogName}",
+  "email.mailingList.confirm.title": "Dołącz do listy mailingowej {blogName}",
+  "email.mailingList.unsubscribe": "Zrezygnuj z tej listy mailingowej"
 }

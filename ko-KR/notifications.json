@@ -225,5 +225,11 @@
   "notifications.workflow.readerSummary": "독서 요약",
   "notifications.workflow.taskReminders": "할 일 알림",
   "notifications.workflow.organization-billing": "조직 결제",
-  "notifications.workflow.story-backup": "집필 백업"
+  "notifications.workflow.story-backup": "집필 백업",
+  "settings.mailingLists.empty": "참여한 메일링 리스트가 없습니다. 읽고 있는 블로그에서 가입 양식을 찾아보세요.",
+  "settings.mailingLists.failed": "메일링 리스트를 불러오지 못했습니다.",
+  "settings.mailingLists.intro": "이 블로그의 작성자는 인증된 이메일 주소로 메일을 보낼 수 있습니다. 여기에서 리스트를 탈퇴하면 작성자는 더 이상 내 주소를 받지 않습니다.",
+  "settings.mailingLists.leaveFailed": "리스트에서 탈퇴하지 못했습니다. 다시 시도해 주세요.",
+  "settings.mailingLists.since": "{date} 참여",
+  "settings.mailingLists.title": "블로그 메일링 리스트"
 }

@@ -255,5 +255,11 @@
   "email.backup.subject": "A sua cópia de segurança de «{storyTitle}»",
   "email.backup.intro": "Aqui está a cópia de segurança agendada de «{storyTitle}».",
   "email.backup.formats": "Ficheiros anexados: {formats}",
-  "email.backup.footer": "Gira ou desative as cópias de segurança agendadas na oficina da sua história."
+  "email.backup.footer": "Gira ou desative as cópias de segurança agendadas na oficina da sua história.",
+  "email.mailingList.confirm.body": "Alguém, esperamos que seja você, pediu para aderir a esta lista de correio com este endereço de e-mail. Confirme para receber novidades do autor. O link funciona durante 7 dias.",
+  "email.mailingList.confirm.cta": "Confirmar subscrição",
+  "email.mailingList.confirm.ignore": "Se não foi você, ignore este e-mail e não será adicionado.",
+  "email.mailingList.confirm.subject": "Confirme que quer aderir a {blogName}",
+  "email.mailingList.confirm.title": "Adira à lista de correio de {blogName}",
+  "email.mailingList.unsubscribe": "Cancelar a subscrição desta lista de correio"
 }
