@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "ხილვადობა",
   "encyclopedia.public": "ღია",
   "encyclopedia.private": "პრივატული",
+  "encyclopedia.revision.published": "გამოქვეყნდა. მკითხველები ახლა ამ ვერსიას ხედავენ.",
+  "encyclopedia.revision.beta": "გაეგზავნა ბეტა მკითხველებს.",
   "encyclopedia.container": "კონტეინერი",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "ჩანაწერის სახელი",

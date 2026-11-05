@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Videmo",
   "encyclopedia.public": "Publika",
   "encyclopedia.private": "Privata",
+  "encyclopedia.revision.published": "Publikigita. Legantoj nun vidas ĉi tiun version.",
+  "encyclopedia.revision.beta": "Sendita al betaj legantoj.",
   "encyclopedia.container": "Kontenilo",
   "encyclopedia.container.desc": "Faru ĉi tiun eron kontenilo por nova grupo de eroj. Tio kaŝos ĝin el la listo de kategorioj.",
   "encyclopedia.entry.name": "Nomo de la eniro",

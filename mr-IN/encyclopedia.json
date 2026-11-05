@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "दृश्यता",
   "encyclopedia.public": "सार्वजनिक",
   "encyclopedia.private": "खाजगी",
+  "encyclopedia.revision.published": "प्रकाशित. वाचकांना आता ही आवृत्ती दिसते.",
+  "encyclopedia.revision.beta": "बीटा वाचकांना पाठवले.",
   "encyclopedia.container": "कंटेनर",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "प्रविष्टीचं नाव",

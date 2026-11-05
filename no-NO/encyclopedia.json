@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Synlighet",
   "encyclopedia.public": "Offentlig",
   "encyclopedia.private": "Privat",
+  "encyclopedia.revision.published": "Publisert. Leserne ser nå denne versjonen.",
+  "encyclopedia.revision.beta": "Sendt til betalesere.",
   "encyclopedia.container": "Beholder",
   "encyclopedia.container.desc": "Gjør denne oppføringen til en beholder for en ny gruppe oppføringer. Da skjules den fra kategorilisten.",
   "encyclopedia.entry.name": "Navn på oppføringen",

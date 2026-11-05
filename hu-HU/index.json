@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Láthatóság",
   "encyclopedia.public": "Nyilvános",
   "encyclopedia.private": "Privát",
+  "encyclopedia.revision.published": "Közzétéve. Az olvasók mostantól ezt a változatot látják.",
+  "encyclopedia.revision.beta": "Elküldve a bétaolvasóknak.",
   "encyclopedia.container": "Tartály",
   "encyclopedia.container.desc": "Tegye ezt a bejegyzést egy új bejegyzéscsoport tárolójává. Ez elrejti a kategóriák listájából.",
   "encyclopedia.entry.name": "A bejegyzés neve",

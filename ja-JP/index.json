@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "可視性",
   "encyclopedia.public": "公衆",
   "encyclopedia.private": "民間",
+  "encyclopedia.revision.published": "公開しました。読者にはこの版が表示されます。",
+  "encyclopedia.revision.beta": "ベータリーダーに送信しました。",
   "encyclopedia.container": "コンテナ",
   "encyclopedia.container.desc": "このエントリーを新しいエントリーグループのコンテナにする。これにより、カテゴリー一覧から非表示になります。",
   "encyclopedia.entry.name": "百科事典の記事の名前",

@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Synlighed",
   "encyclopedia.public": "Offentlig",
   "encyclopedia.private": "Privat",
+  "encyclopedia.revision.published": "Udgivet. Læserne ser nu denne version.",
+  "encyclopedia.revision.beta": "Sendt til betalæsere.",
   "encyclopedia.container": "Beholder",
   "encyclopedia.container.desc": "Gør denne post til en container for en ny gruppe af poster. Det vil skjule den fra kategorilisten.",
   "encyclopedia.entry.name": "Navn på indgangen",

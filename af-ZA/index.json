@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Sigbaarheid",
   "encyclopedia.public": "Openbaar",
   "encyclopedia.private": "Privaat",
+  "encyclopedia.revision.published": "Gepubliseer. Lesers sien nou hierdie weergawe.",
+  "encyclopedia.revision.beta": "Aan betalesers gestuur.",
   "encyclopedia.container": "Houer",
   "encyclopedia.container.desc": "Maak hierdie inskrywing 'n houer vir 'n nuwe groep inskrywings. Dit sal dit uit die kategorielys versteek.",
   "encyclopedia.entry.name": "Naam van die inskrywing",

@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "الرؤية",
   "encyclopedia.public": "عام",
   "encyclopedia.private": "خاص",
+  "encyclopedia.revision.published": "تم النشر. يرى القرّاء الآن هذه النسخة.",
+  "encyclopedia.revision.beta": "أُرسل إلى القرّاء التجريبيين.",
   "encyclopedia.container": "الحاوية",
   "encyclopedia.container.desc": "اجعل هذا الإدخال حاوية لمجموعة جديدة من الإدخالات. سيؤدي ذلك إلى إخفائه من قائمة الفئات.",
   "encyclopedia.entry.name": "اسم الإدخال",

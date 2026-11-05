@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Visibility",
   "encyclopedia.public": "Pampubliko",
   "encyclopedia.private": "Pribado",
+  "encyclopedia.revision.published": "Nailathala na. Ang bersyong ito na ang nakikita ng mga mambabasa.",
+  "encyclopedia.revision.beta": "Ipinadala sa mga beta reader.",
   "encyclopedia.container": "Container",
   "encyclopedia.container.desc": "Gawing lalagyan ang entry na ito para sa isang bagong grupo ng mga entry. Itatago ito nito mula sa listahan ng mga kategorya.",
   "encyclopedia.entry.name": "Pangalan ng entry",

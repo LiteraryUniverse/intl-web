@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Vizibilitate",
   "encyclopedia.public": "Public",
   "encyclopedia.private": "Privat",
+  "encyclopedia.revision.published": "Publicat. Cititorii văd acum această versiune.",
+  "encyclopedia.revision.beta": "Trimis cititorilor beta.",
   "encyclopedia.container": "Container",
   "encyclopedia.container.desc": "Faceți din această intrare un container pentru un nou grup de intrări. Acest lucru o va ascunde din lista de categorii.",
   "encyclopedia.entry.name": "Numele intrării",

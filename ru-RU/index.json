@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Видимость",
   "encyclopedia.public": "Открытая",
   "encyclopedia.private": "Закрытая",
+  "encyclopedia.revision.published": "Опубликовано. Читатели теперь видят эту версию.",
+  "encyclopedia.revision.beta": "Отправлено бета-читателям.",
   "encyclopedia.container": "Контейнер",
   "encyclopedia.container.desc": "Сделайте эту запись контейнером для новой группы записей. Это позволит скрыть её из списка категорий.",
   "encyclopedia.entry.name": "Название записи",

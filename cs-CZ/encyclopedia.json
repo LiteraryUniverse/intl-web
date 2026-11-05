@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Viditelnost",
   "encyclopedia.public": "Veřejné",
   "encyclopedia.private": "Soukromé",
+  "encyclopedia.revision.published": "Zveřejněno. Čtenáři teď vidí tuto verzi.",
+  "encyclopedia.revision.beta": "Odesláno beta čtenářům.",
   "encyclopedia.container": "Kontejner",
   "encyclopedia.container.desc": "Vytvořte z této položky kontejner pro novou skupinu položek. Tím se skryje z výpisu kategorií.",
   "encyclopedia.entry.name": "Jméno záznamu",

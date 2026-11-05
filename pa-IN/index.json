@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "ਦਿੱਖਾਈਤਾ",
   "encyclopedia.public": "ਪਬਲਿਕ",
   "encyclopedia.private": "ਪ੍ਰਾਈਵੇਟ",
+  "encyclopedia.revision.published": "ਪ੍ਰਕਾਸ਼ਿਤ। ਪਾਠਕ ਹੁਣ ਇਹ ਸੰਸਕਰਣ ਵੇਖਦੇ ਹਨ।",
+  "encyclopedia.revision.beta": "ਬੀਟਾ ਪਾਠਕਾਂ ਨੂੰ ਭੇਜਿਆ ਗਿਆ।",
   "encyclopedia.container": "ਕੰਟੇਨਰ",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "ਇੰਟਰੀ ਦਾ ਨਾਮ",

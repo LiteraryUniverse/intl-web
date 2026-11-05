@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Visibilitas",
   "encyclopedia.public": "Publik",
   "encyclopedia.private": "Pribadi",
+  "encyclopedia.revision.published": "Diterbitkan. Pembaca kini melihat versi ini.",
+  "encyclopedia.revision.beta": "Dikirim ke pembaca beta.",
   "encyclopedia.container": "Kontainer",
   "encyclopedia.container.desc": "Jadikan entri ini sebagai wadah untuk kelompok entri baru. Ini akan menyembunyikannya dari daftar kategori.",
   "encyclopedia.entry.name": "Nama entri",

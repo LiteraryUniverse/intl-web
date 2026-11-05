@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Matomumas",
   "encyclopedia.public": "Viešas",
   "encyclopedia.private": "Privatus",
+  "encyclopedia.revision.published": "Paskelbta. Skaitytojai dabar mato šią versiją.",
+  "encyclopedia.revision.beta": "Išsiųsta beta skaitytojams.",
   "encyclopedia.container": "Konteineris",
   "encyclopedia.container.desc": "Padarykite šį įrašą naujos įrašų grupės talpykla. Taip jis bus paslėptas nuo kategorijų sąrašo.",
   "encyclopedia.entry.name": "Įrašo pavadinimas",

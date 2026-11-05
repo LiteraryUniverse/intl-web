@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "가시성",
   "encyclopedia.public": "공개",
   "encyclopedia.private": "비공개",
+  "encyclopedia.revision.published": "게시되었습니다. 이제 독자에게 이 버전이 보입니다.",
+  "encyclopedia.revision.beta": "베타 독자에게 보냈습니다.",
   "encyclopedia.container": "컨테이너",
   "encyclopedia.container.desc": "이 항목을 새 항목 그룹을 위한 컨테이너로 만듭니다. 이렇게 하면 카테고리 목록에서 숨겨집니다.",
   "encyclopedia.entry.name": "항목의 이름",

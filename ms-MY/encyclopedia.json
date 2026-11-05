@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Keterlihatan",
   "encyclopedia.public": "Awam",
   "encyclopedia.private": "Peribadi",
+  "encyclopedia.revision.published": "Diterbitkan. Pembaca kini melihat versi ini.",
+  "encyclopedia.revision.beta": "Dihantar kepada pembaca beta.",
   "encyclopedia.container": "Pembungkus",
   "encyclopedia.container.desc": "Jadikan entri ini bekas untuk kumpulan entri baharu. Ini akan menyembunyikannya daripada senarai kategori.",
   "encyclopedia.entry.name": "Nama entri",

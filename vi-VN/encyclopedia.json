@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Khả năng nhìn thấy",
   "encyclopedia.public": "Công khai",
   "encyclopedia.private": "Riêng tư",
+  "encyclopedia.revision.published": "Đã xuất bản. Độc giả giờ thấy phiên bản này.",
+  "encyclopedia.revision.beta": "Đã gửi cho độc giả beta.",
   "encyclopedia.container": "Bộ chứa",
   "encyclopedia.container.desc": "Biến mục từ này thành nơi chứa một nhóm mục từ mới. Việc này sẽ ẩn nó khỏi danh sách danh mục.",
   "encyclopedia.entry.name": "Tên của mục",

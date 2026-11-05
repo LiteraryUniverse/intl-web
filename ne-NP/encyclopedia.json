@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "दृश्यता",
   "encyclopedia.public": "सार्वजनिक",
   "encyclopedia.private": "निजी",
+  "encyclopedia.revision.published": "प्रकाशित भयो। पाठकहरूले अब यो संस्करण देख्छन्।",
+  "encyclopedia.revision.beta": "बिटा पाठकहरूलाई पठाइयो।",
   "encyclopedia.container": "कन्टेनर",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "प्रविष्टिको नाम",

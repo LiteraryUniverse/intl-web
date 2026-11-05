@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "נראות",
   "encyclopedia.public": "ציבורי",
   "encyclopedia.private": "פרטי",
+  "encyclopedia.revision.published": "פורסם. הקוראים רואים עכשיו את הגרסה הזו.",
+  "encyclopedia.revision.beta": "נשלח לקוראי הבטא.",
   "encyclopedia.container": "מיכל",
   "encyclopedia.container.desc": "הפוך רשומה זו למכל עבור קבוצה חדשה של רשומות. פעולה זו תסתיר אותה מרשימת הקטגוריות.",
   "encyclopedia.entry.name": "שם הפריט",

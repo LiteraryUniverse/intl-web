@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "ភាពជាសាធារណៈ",
   "encyclopedia.public": "សាធារណៈ",
   "encyclopedia.private": "ឯកជន",
+  "encyclopedia.revision.published": "Published. Readers now see this version.",
+  "encyclopedia.revision.beta": "Sent to beta readers.",
   "encyclopedia.container": "កន្លែងរក្សាទុក",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "ឈ្មោះធាតុ",

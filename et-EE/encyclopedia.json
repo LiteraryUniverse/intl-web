@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Nähtavus",
   "encyclopedia.public": "Avalik",
   "encyclopedia.private": "Privaatne",
+  "encyclopedia.revision.published": "Avaldatud. Lugejad näevad nüüd seda versiooni.",
+  "encyclopedia.revision.beta": "Saadetud beetalugejatele.",
   "encyclopedia.container": "Konteiner",
   "encyclopedia.container.desc": "Tehke see kirje uue kirjete rühma konteineriks. See peidab selle kategooriate loetelust.",
   "encyclopedia.entry.name": "Kirje nimi",

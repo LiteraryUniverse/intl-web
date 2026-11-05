@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Synlighet",
   "encyclopedia.public": "Offentlig",
   "encyclopedia.private": "Privat",
+  "encyclopedia.revision.published": "Publicerad. Läsarna ser nu den här versionen.",
+  "encyclopedia.revision.beta": "Skickad till betaläsare.",
   "encyclopedia.container": "Behållare",
   "encyclopedia.container.desc": "Gör denna post till en behållare för en ny grupp av poster. Detta kommer att dölja den från kategorilistan.",
   "encyclopedia.entry.name": "Namn på posten",

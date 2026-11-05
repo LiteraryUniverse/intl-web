@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Видимість",
   "encyclopedia.public": "Публічний",
   "encyclopedia.private": "Приватний",
+  "encyclopedia.revision.published": "Опубліковано. Читачі тепер бачать цю версію.",
+  "encyclopedia.revision.beta": "Надіслано бета-читачам.",
   "encyclopedia.container": "Контейнер",
   "encyclopedia.container.desc": "Зробіть цей запис контейнером для нової групи записів. Це приховає його зі списку категорій.",
   "encyclopedia.entry.name": "Назва запису",

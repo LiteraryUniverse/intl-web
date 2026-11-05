@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Zichtbaarheid",
   "encyclopedia.public": "Openbaar",
   "encyclopedia.private": "Privé",
+  "encyclopedia.revision.published": "Gepubliceerd. Lezers zien nu deze versie.",
+  "encyclopedia.revision.beta": "Verstuurd naar bètalezers.",
   "encyclopedia.container": "Container",
   "encyclopedia.container.desc": "Maak van deze vermelding een container voor een nieuwe groep vermeldingen. Hierdoor wordt het verborgen in de lijst met categorieën.",
   "encyclopedia.entry.name": "Naam van het item",

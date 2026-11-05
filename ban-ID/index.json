@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Visibility",
   "encyclopedia.public": "Public",
   "encyclopedia.private": "Private",
+  "encyclopedia.revision.published": "Published. Readers now see this version.",
+  "encyclopedia.revision.beta": "Sent to beta readers.",
   "encyclopedia.container": "Container",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from categories listing.",
   "encyclopedia.entry.name": "Name of the entry",

@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Näkyvyys",
   "encyclopedia.public": "Julkinen",
   "encyclopedia.private": "Yksityinen",
+  "encyclopedia.revision.published": "Julkaistu. Lukijat näkevät nyt tämän version.",
+  "encyclopedia.revision.beta": "Lähetetty beetalukijoille.",
   "encyclopedia.container": "Sisältäjä",
   "encyclopedia.container.desc": "Tee tästä merkinnästä säiliö uudelle merkintäryhmälle. Tämä piilottaa sen luokkien luettelosta.",
   "encyclopedia.entry.name": "Merkinnän nimi",

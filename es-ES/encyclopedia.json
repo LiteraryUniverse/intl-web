@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Visibilidad",
   "encyclopedia.public": "Público",
   "encyclopedia.private": "Privado",
+  "encyclopedia.revision.published": "Publicado. Los lectores ya ven esta versión.",
+  "encyclopedia.revision.beta": "Enviado a los lectores beta.",
   "encyclopedia.container": "Contenedor",
   "encyclopedia.container.desc": "Haga de esta entrada un contenedor para un nuevo grupo de entradas. Esto la ocultará del listado de categorías.",
   "encyclopedia.entry.name": "Nombre de la entrada",

@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "การมองเห็น",
   "encyclopedia.public": "สาธารณะ",
   "encyclopedia.private": "ส่วนตัว",
+  "encyclopedia.revision.published": "เผยแพร่แล้ว ผู้อ่านจะเห็นเวอร์ชันนี้",
+  "encyclopedia.revision.beta": "ส่งให้ผู้อ่านเบต้าแล้ว",
   "encyclopedia.container": "คอนเทนเนอร์",
   "encyclopedia.container.desc": "ทำให้รายการนี้เป็นคอนเทนเนอร์สำหรับกลุ่มรายการใหม่ ซึ่งจะซ่อนรายการนี้จากรายชื่อหมวดหมู่",
   "encyclopedia.entry.name": "ชื่อรายการ",

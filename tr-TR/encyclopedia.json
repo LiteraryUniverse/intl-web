@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Görünürlük",
   "encyclopedia.public": "Herkese Açık",
   "encyclopedia.private": "Özel",
+  "encyclopedia.revision.published": "Yayımlandı. Okurlar artık bu sürümü görüyor.",
+  "encyclopedia.revision.beta": "Beta okurlara gönderildi.",
   "encyclopedia.container": "Konteyner",
   "encyclopedia.container.desc": "Bu girişi yeni bir giriş grubu için kapsayıcı yapın. Bu, onu kategoriler listesinden gizleyecektir.",
   "encyclopedia.entry.name": "Girişin adı",

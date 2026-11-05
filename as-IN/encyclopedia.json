@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "দৃশ্যমানতা",
   "encyclopedia.public": "প্রকাশিত",
   "encyclopedia.private": "ব্যক্তিগত",
+  "encyclopedia.revision.published": "Published. Readers now see this version.",
+  "encyclopedia.revision.beta": "Sent to beta readers.",
   "encyclopedia.container": "সংক্রান্ত লেখা",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "লেখার নাম",

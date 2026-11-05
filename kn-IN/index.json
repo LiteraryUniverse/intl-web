@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "ದೃಶ್ಯತೆ",
   "encyclopedia.public": "ಪ್ರಸ್ತುತವನ್ನು",
   "encyclopedia.private": "ಖಾಸಗಿ",
+  "encyclopedia.revision.published": "Published. Readers now see this version.",
+  "encyclopedia.revision.beta": "Sent to beta readers.",
   "encyclopedia.container": "ಸಂಗ್ರಹಿಸುವಿಕೆ",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "ಪ್ರವೇಶದ ಹೆಸರು",

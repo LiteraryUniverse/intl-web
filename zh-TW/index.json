@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "可見性",
   "encyclopedia.public": "公開",
   "encyclopedia.private": "私人",
+  "encyclopedia.revision.published": "已發布。讀者現在看到的是這個版本。",
+  "encyclopedia.revision.beta": "已傳送給試讀者。",
   "encyclopedia.container": "容器",
   "encyclopedia.container.desc": "將此項目設定為新項目群組的容器。這將使它隱藏於類別清單中。",
   "encyclopedia.entry.name": "條目名稱",

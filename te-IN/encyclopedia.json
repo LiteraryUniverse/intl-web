@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "దృశ్యత",
   "encyclopedia.public": "ప్రపంచంలో",
   "encyclopedia.private": "ప్రైవేట్",
+  "encyclopedia.revision.published": "ప్రచురించబడింది. పాఠకులు ఇప్పుడు ఈ సంస్కరణను చూస్తారు.",
+  "encyclopedia.revision.beta": "బీటా పాఠకులకు పంపబడింది.",
   "encyclopedia.container": "కంటెయినర్",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "ఎంట్రీయు పేరు",

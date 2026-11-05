@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Visibilità",
   "encyclopedia.public": "Pubblico",
   "encyclopedia.private": "Privato",
+  "encyclopedia.revision.published": "Pubblicato. I lettori ora vedono questa versione.",
+  "encyclopedia.revision.beta": "Inviato ai beta reader.",
   "encyclopedia.container": "Contenitore",
   "encyclopedia.container.desc": "Renda questa voce un contenitore per un nuovo gruppo di voci. Questo la nasconderà dall'elenco delle categorie.",
   "encyclopedia.entry.name": "Nome della voce",

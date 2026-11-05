@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "Visibilitat",
   "encyclopedia.public": "Pública",
   "encyclopedia.private": "Privada",
+  "encyclopedia.revision.published": "Publicat. Els lectors ja veuen aquesta versió.",
+  "encyclopedia.revision.beta": "Enviat als lectors beta.",
   "encyclopedia.container": "Contenidor",
   "encyclopedia.container.desc": "Converteix aquesta entrada en un contenidor per a un nou grup d'entrades. Això l'amagarà de la llista de categories.",
   "encyclopedia.entry.name": "Nom de l'entrada",

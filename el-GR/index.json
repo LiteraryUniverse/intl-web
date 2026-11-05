@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "Ορατότητα",
   "encyclopedia.public": "Δημόσιο",
   "encyclopedia.private": "Ιδιωτικό",
+  "encyclopedia.revision.published": "Δημοσιεύτηκε. Οι αναγνώστες βλέπουν τώρα αυτή την έκδοση.",
+  "encyclopedia.revision.beta": "Στάλθηκε στους δοκιμαστικούς αναγνώστες.",
   "encyclopedia.container": "Κοντέινερ",
   "encyclopedia.container.desc": "Κάντε αυτή την καταχώρηση δοχείο για μια νέα ομάδα καταχωρήσεων. Αυτό θα την αποκρύψει από την καταχώριση των κατηγοριών.",
   "encyclopedia.entry.name": "Όνομα της καταχώρισης",

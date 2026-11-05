@@ -2652,6 +2652,8 @@
   "encyclopedia.visibility": "காணக்கூடிய தன்மை",
   "encyclopedia.public": "பொது",
   "encyclopedia.private": "தனியார்",
+  "encyclopedia.revision.published": "வெளியிடப்பட்டது. வாசகர்கள் இப்போது இந்தப் பதிப்பைப் பார்க்கிறார்கள்.",
+  "encyclopedia.revision.beta": "பீட்டா வாசகர்களுக்கு அனுப்பப்பட்டது.",
   "encyclopedia.container": "கொள்கலன்",
   "encyclopedia.container.desc": "Make this entry a container for a new group of entries. This will hide it from the categories listing.",
   "encyclopedia.entry.name": "பதிவின் பெயர்",

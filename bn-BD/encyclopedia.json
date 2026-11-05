@@ -79,6 +79,8 @@
   "encyclopedia.visibility": "দৃশ্যমানতা",
   "encyclopedia.public": "পাবলিক",
   "encyclopedia.private": "প্রাইভেট",
+  "encyclopedia.revision.published": "প্রকাশিত। পাঠকেরা এখন এই সংস্করণটি দেখছেন।",
+  "encyclopedia.revision.beta": "বিটা পাঠকদের কাছে পাঠানো হয়েছে।",
   "encyclopedia.container": "কন্টেনার",
   "encyclopedia.container.desc": "এই এন্ট্রিকে নতুন এক গুচ্ছ এন্ট্রির ধারক বানান। এতে এটি বিভাগের তালিকা থেকে লুকানো থাকবে।",
   "encyclopedia.entry.name": "এন্ট্রিটির নাম",
