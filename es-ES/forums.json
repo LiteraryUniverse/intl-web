@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "¿Eliminar esta respuesta? Dejará de aparecer en esta conversación.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Esta respuesta ha sido eliminada.",
-  "forums.post.hidden": "Esta respuesta ha sido ocultada por la moderación."
+  "forums.post.hidden": "Esta respuesta ha sido ocultada por la moderación.",
+  "forums.category.threads": "{count, plural, one {# conversación} other {# conversaciones}}",
+  "forums.thread.pinned": "Fijado",
+  "forums.thread.closed": "Cerrado",
+  "forums.thread.pin": "Fijar arriba",
+  "forums.thread.unpin": "Dejar de fijar"
 }

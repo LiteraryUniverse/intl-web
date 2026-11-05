@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "要刪除這則回覆嗎？它將不再顯示於此討論中。",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "這則回覆已刪除。",
-  "forums.post.hidden": "這則回覆已被管理團隊隱藏。"
+  "forums.post.hidden": "這則回覆已被管理團隊隱藏。",
+  "forums.category.threads": "{count, plural, other {# 則討論}}",
+  "forums.thread.pinned": "已置頂",
+  "forums.thread.closed": "已關閉",
+  "forums.thread.pin": "置頂",
+  "forums.thread.unpin": "取消置頂"
 }

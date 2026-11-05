@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Poistetaanko tämä vastaus? Se ei enää näy tässä keskustelussa.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Tämä vastaus poistettiin.",
-  "forums.post.hidden": "Moderointi on piilottanut tämän vastauksen."
+  "forums.post.hidden": "Moderointi on piilottanut tämän vastauksen.",
+  "forums.category.threads": "{count, plural, one {# keskustelu} other {# keskustelua}}",
+  "forums.thread.pinned": "Kiinnitetty",
+  "forums.thread.closed": "Suljettu",
+  "forums.thread.pin": "Kiinnitä ylös",
+  "forums.thread.unpin": "Poista kiinnitys"
 }

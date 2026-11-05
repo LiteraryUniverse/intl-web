@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "この返信を削除しますか？このディスカッションには表示されなくなります。",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "この返信は削除されました。",
-  "forums.post.hidden": "この返信はモデレーションにより非表示になっています。"
+  "forums.post.hidden": "この返信はモデレーションにより非表示になっています。",
+  "forums.category.threads": "{count, plural, other {#件のディスカッション}}",
+  "forums.thread.pinned": "固定",
+  "forums.thread.closed": "締め切り済み",
+  "forums.thread.pin": "トップに固定",
+  "forums.thread.unpin": "固定を解除"
 }

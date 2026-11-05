@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Kas kustutada see vastus? Seda ei kuvata enam selles arutelus.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "See vastus on kustutatud.",
-  "forums.post.hidden": "See vastus on modereerimise tõttu peidetud."
+  "forums.post.hidden": "See vastus on modereerimise tõttu peidetud.",
+  "forums.category.threads": "{count, plural, one {# arutelu} other {# arutelu}}",
+  "forums.thread.pinned": "Kinnitatud",
+  "forums.thread.closed": "Suletud",
+  "forums.thread.pin": "Kinnita üles",
+  "forums.thread.unpin": "Eemalda kinnitus"
 }

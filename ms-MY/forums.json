@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Padam balasan ini? Ia tidak akan muncul lagi dalam perbincangan ini.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Balasan ini telah dipadamkan.",
-  "forums.post.hidden": "Balasan ini disembunyikan oleh moderasi."
+  "forums.post.hidden": "Balasan ini disembunyikan oleh moderasi.",
+  "forums.category.threads": "{count, plural, other {# perbincangan}}",
+  "forums.thread.pinned": "Disematkan",
+  "forums.thread.closed": "Ditutup",
+  "forums.thread.pin": "Semat di atas",
+  "forums.thread.unpin": "Nyahsemat"
 }

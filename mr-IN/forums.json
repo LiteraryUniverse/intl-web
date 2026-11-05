@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.hidden": "This reply is hidden by moderation.",
+  "forums.category.threads": "{count, plural, one {# चर्चा} other {# चर्चा}}",
+  "forums.thread.pinned": "पिन केलेले",
+  "forums.thread.closed": "बंद",
+  "forums.thread.pin": "सर्वात वर पिन करा",
+  "forums.thread.unpin": "पिन काढा"
 }

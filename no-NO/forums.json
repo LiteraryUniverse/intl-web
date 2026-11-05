@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Slette dette svaret? Det vil ikke lenger vises i denne diskusjonen.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Dette svaret ble slettet.",
-  "forums.post.hidden": "Dette svaret er skjult av moderatorene."
+  "forums.post.hidden": "Dette svaret er skjult av moderatorene.",
+  "forums.category.threads": "{count, plural, one {# diskusjon} other {# diskusjoner}}",
+  "forums.thread.pinned": "Festet",
+  "forums.thread.closed": "Lukket",
+  "forums.thread.pin": "Fest øverst",
+  "forums.thread.unpin": "Løsne"
 }

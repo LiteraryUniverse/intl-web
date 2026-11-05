@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Tanggalin ang tugon na ito? Hindi na ito lalabas sa talakayang ito.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Tinanggal ang tugon na ito.",
-  "forums.post.hidden": "Itinago ng moderasyon ang tugon na ito."
+  "forums.post.hidden": "Itinago ng moderasyon ang tugon na ito.",
+  "forums.category.threads": "{count, plural, one {# talakayan} other {# talakayan}}",
+  "forums.thread.pinned": "Naka-pin",
+  "forums.thread.closed": "Sarado",
+  "forums.thread.pin": "I-pin sa itaas",
+  "forums.thread.unpin": "Alisin sa pin"
 }

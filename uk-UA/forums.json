@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Видалити цю відповідь? Вона більше не відображатиметься в цьому обговоренні.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Цю відповідь видалено.",
-  "forums.post.hidden": "Цю відповідь приховано модерацією."
+  "forums.post.hidden": "Цю відповідь приховано модерацією.",
+  "forums.category.threads": "{count, plural, one {# дискусія} few {# дискусії} many {# дискусій} other {# дискусії}}",
+  "forums.thread.pinned": "Закріплено",
+  "forums.thread.closed": "Закрито",
+  "forums.thread.pin": "Закріпити вгорі",
+  "forums.thread.unpin": "Відкріпити"
 }

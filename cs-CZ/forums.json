@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Smazat tuto odpověď? V této diskusi se už nebude zobrazovat.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Tato odpověď byla smazána.",
-  "forums.post.hidden": "Tuto odpověď skryli moderátoři."
+  "forums.post.hidden": "Tuto odpověď skryli moderátoři.",
+  "forums.category.threads": "{count, plural, one {# diskuze} few {# diskuze} many {# diskuze} other {# diskuzí}}",
+  "forums.thread.pinned": "Připnuto",
+  "forums.thread.closed": "Uzavřeno",
+  "forums.thread.pin": "Připnout nahoru",
+  "forums.thread.unpin": "Odepnout"
 }

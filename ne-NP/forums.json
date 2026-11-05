@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.hidden": "This reply is hidden by moderation.",
+  "forums.category.threads": "{count, plural, one {# चर्चा} other {# चर्चाहरू}}",
+  "forums.thread.pinned": "पिन गरिएको",
+  "forums.thread.closed": "बन्द",
+  "forums.thread.pin": "माथि पिन गर्नुहोस्",
+  "forums.thread.unpin": "पिन हटाउनुहोस्"
 }

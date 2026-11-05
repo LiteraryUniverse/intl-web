@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Να διαγραφεί αυτή η απάντηση; Δεν θα εμφανίζεται πλέον σε αυτή τη συζήτηση.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Αυτή η απάντηση διαγράφηκε.",
-  "forums.post.hidden": "Αυτή η απάντηση έχει αποκρυφτεί από την εποπτεία."
+  "forums.post.hidden": "Αυτή η απάντηση έχει αποκρυφτεί από την εποπτεία.",
+  "forums.category.threads": "{count, plural, one {# συζήτηση} other {# συζητήσεις}}",
+  "forums.thread.pinned": "Καρφιτσωμένο",
+  "forums.thread.closed": "Κλειστό",
+  "forums.thread.pin": "Καρφίτσωμα στην κορυφή",
+  "forums.thread.unpin": "Ξεκαρφίτσωμα"
 }

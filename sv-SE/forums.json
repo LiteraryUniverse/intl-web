@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Ta bort det här svaret? Det visas inte längre i den här diskussionen.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Det här svaret har tagits bort.",
-  "forums.post.hidden": "Det här svaret har dolts av modereringen."
+  "forums.post.hidden": "Det här svaret har dolts av modereringen.",
+  "forums.category.threads": "{count, plural, one {# diskussion} other {# diskussioner}}",
+  "forums.thread.pinned": "Fäst",
+  "forums.thread.closed": "Stängd",
+  "forums.thread.pin": "Fäst överst",
+  "forums.thread.unpin": "Lossa"
 }

@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "ลบคำตอบนี้หรือไม่? คำตอบจะไม่ปรากฏในการสนทนานี้อีกต่อไป",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "คำตอบนี้ถูกลบแล้ว",
-  "forums.post.hidden": "คำตอบนี้ถูกซ่อนโดยการกลั่นกรอง"
+  "forums.post.hidden": "คำตอบนี้ถูกซ่อนโดยการกลั่นกรอง",
+  "forums.category.threads": "{count, plural, other {# การสนทนา}}",
+  "forums.thread.pinned": "ปักหมุดแล้ว",
+  "forums.thread.closed": "ปิดแล้ว",
+  "forums.thread.pin": "ปักหมุดไว้ด้านบน",
+  "forums.thread.unpin": "เลิกปักหมุด"
 }

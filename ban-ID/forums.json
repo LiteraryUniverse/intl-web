@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.hidden": "This reply is hidden by moderation.",
+  "forums.category.threads": "{count, plural, one {# discussion} other {# discussions}}",
+  "forums.thread.pinned": "Pinned",
+  "forums.thread.closed": "Closed",
+  "forums.thread.pin": "Pin to the top",
+  "forums.thread.unpin": "Unpin"
 }

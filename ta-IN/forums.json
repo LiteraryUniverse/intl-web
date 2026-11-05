@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.hidden": "This reply is hidden by moderation.",
+  "forums.category.threads": "{count, plural, one {# பேச்சு} other {# பேச்சுகள்}}",
+  "forums.thread.pinned": "பின் செய்யப்பட்டது",
+  "forums.thread.closed": "மூடப்பட்டது",
+  "forums.thread.pin": "மேலே பின் செய்",
+  "forums.thread.unpin": "பின் நீக்கு"
 }

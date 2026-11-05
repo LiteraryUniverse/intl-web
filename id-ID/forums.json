@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Hapus balasan ini? Balasan tidak akan lagi muncul dalam diskusi ini.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Balasan ini telah dihapus.",
-  "forums.post.hidden": "Balasan ini disembunyikan oleh moderasi."
+  "forums.post.hidden": "Balasan ini disembunyikan oleh moderasi.",
+  "forums.category.threads": "{count, plural, other {# diskusi}}",
+  "forums.thread.pinned": "Disematkan",
+  "forums.thread.closed": "Ditutup",
+  "forums.thread.pin": "Sematkan di atas",
+  "forums.thread.unpin": "Lepas sematan"
 }

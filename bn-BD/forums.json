@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "এই উত্তরটি মুছে ফেলবেন? এটি আর এই আলোচনায় দেখা যাবে না।",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "এই উত্তরটি মুছে ফেলা হয়েছে।",
-  "forums.post.hidden": "মডারেশনের মাধ্যমে এই উত্তরটি লুকানো হয়েছে।"
+  "forums.post.hidden": "মডারেশনের মাধ্যমে এই উত্তরটি লুকানো হয়েছে।",
+  "forums.category.threads": "{count, plural, one {# আলোচনা} other {# আলোচনা}}",
+  "forums.thread.pinned": "পিন করা",
+  "forums.thread.closed": "বন্ধ",
+  "forums.thread.pin": "শীর্ষে পিন করুন",
+  "forums.thread.unpin": "পিন সরান"
 }

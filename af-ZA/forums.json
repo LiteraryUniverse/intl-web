@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Skrap hierdie antwoord? Dit sal nie meer in hierdie bespreking verskyn nie.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Hierdie antwoord is geskrap.",
-  "forums.post.hidden": "Hierdie antwoord is deur moderering versteek."
+  "forums.post.hidden": "Hierdie antwoord is deur moderering versteek.",
+  "forums.category.threads": "{count, plural, one {# bespreking} other {# besprekings}}",
+  "forums.thread.pinned": "Vasgespeld",
+  "forums.thread.closed": "Gesluit",
+  "forums.thread.pin": "Speld bo-aan vas",
+  "forums.thread.unpin": "Maak los"
 }

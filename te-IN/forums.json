@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Delete this reply? It will no longer appear in this discussion.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "This reply was deleted.",
-  "forums.post.hidden": "This reply is hidden by moderation."
+  "forums.post.hidden": "This reply is hidden by moderation.",
+  "forums.category.threads": "{count, plural, one {# చర్చ} other {# చర్చలు}}",
+  "forums.thread.pinned": "పిన్ చేయబడింది",
+  "forums.thread.closed": "మూసివేయబడింది",
+  "forums.thread.pin": "పైన పిన్ చేయండి",
+  "forums.thread.unpin": "పిన్ తీసివేయండి"
 }

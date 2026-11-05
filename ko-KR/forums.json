@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "이 답글을 삭제하시겠습니까? 이 토론에 더 이상 표시되지 않습니다.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "이 답글은 삭제되었습니다.",
-  "forums.post.hidden": "이 답글은 모더레이션에 의해 숨겨졌습니다."
+  "forums.post.hidden": "이 답글은 모더레이션에 의해 숨겨졌습니다.",
+  "forums.category.threads": "{count, plural, other {토론 #개}}",
+  "forums.thread.pinned": "고정됨",
+  "forums.thread.closed": "닫힘",
+  "forums.thread.pin": "맨 위에 고정",
+  "forums.thread.unpin": "고정 해제"
 }

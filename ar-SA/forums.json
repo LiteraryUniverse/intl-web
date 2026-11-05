@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "هل تريد حذف هذا الرد؟ لن يظهر بعد ذلك في هذا النقاش.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "حُذف هذا الرد.",
-  "forums.post.hidden": "هذا الرد مخفي بقرار من الإشراف."
+  "forums.post.hidden": "هذا الرد مخفي بقرار من الإشراف.",
+  "forums.category.threads": "{count, plural, zero {لا توجد مناقشات} one {مناقشة واحدة} two {مناقشتان} few {# مناقشات} many {# مناقشة} other {# مناقشة}}",
+  "forums.thread.pinned": "مثبّت",
+  "forums.thread.closed": "مغلق",
+  "forums.thread.pin": "تثبيت في الأعلى",
+  "forums.thread.unpin": "إلغاء التثبيت"
 }

@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "למחוק את התגובה הזו? היא לא תופיע עוד בדיון זה.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "תגובה זו נמחקה.",
-  "forums.post.hidden": "תגובה זו הוסתרה על ידי הפיקוח."
+  "forums.post.hidden": "תגובה זו הוסתרה על ידי הפיקוח.",
+  "forums.category.threads": "{count, plural, one {דיון אחד} two {שני דיונים} other {# דיונים}}",
+  "forums.thread.pinned": "מוצמד",
+  "forums.thread.closed": "סגור",
+  "forums.thread.pin": "הצמדה לראש",
+  "forums.thread.unpin": "ביטול הצמדה"
 }

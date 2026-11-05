@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "यह जवाब हटाएँ? यह अब इस चर्चा में दिखाई नहीं देगा।",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "यह जवाब हटा दिया गया।",
-  "forums.post.hidden": "यह जवाब मॉडरेशन द्वारा छिपाया गया है।"
+  "forums.post.hidden": "यह जवाब मॉडरेशन द्वारा छिपाया गया है।",
+  "forums.category.threads": "{count, plural, one {# चर्चा} other {# चर्चाएँ}}",
+  "forums.thread.pinned": "पिन किया गया",
+  "forums.thread.closed": "बंद",
+  "forums.thread.pin": "सबसे ऊपर पिन करें",
+  "forums.thread.unpin": "पिन हटाएँ"
 }

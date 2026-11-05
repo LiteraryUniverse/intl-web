@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Bu yanıt silinsin mi? Artık bu tartışmada görünmeyecek.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Bu yanıt silindi.",
-  "forums.post.hidden": "Bu yanıt moderasyon tarafından gizlendi."
+  "forums.post.hidden": "Bu yanıt moderasyon tarafından gizlendi.",
+  "forums.category.threads": "{count, plural, one {# tartışma} other {# tartışma}}",
+  "forums.thread.pinned": "Sabitlendi",
+  "forums.thread.closed": "Kapalı",
+  "forums.thread.pin": "En üste sabitle",
+  "forums.thread.unpin": "Sabitlemeyi kaldır"
 }

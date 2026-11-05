@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Zmazať túto odpoveď? V tejto diskusii sa už nebude zobrazovať.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Táto odpoveď bola zmazaná.",
-  "forums.post.hidden": "Táto odpoveď je skrytá moderáciou."
+  "forums.post.hidden": "Táto odpoveď je skrytá moderáciou.",
+  "forums.category.threads": "{count, plural, one {# diskusia} few {# diskusie} many {# diskusie} other {# diskusií}}",
+  "forums.thread.pinned": "Pripnuté",
+  "forums.thread.closed": "Uzavreté",
+  "forums.thread.pin": "Pripnúť navrch",
+  "forums.thread.unpin": "Odopnúť"
 }

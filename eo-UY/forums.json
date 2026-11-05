@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Ĉu forigi ĉi tiun respondon? Ĝi ne plu aperos en ĉi tiu diskuto.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Ĉi tiu respondo estis forigita.",
-  "forums.post.hidden": "Ĉi tiu respondo estas kaŝita de la moderigo."
+  "forums.post.hidden": "Ĉi tiu respondo estas kaŝita de la moderigo.",
+  "forums.category.threads": "{count, plural, one {# diskuto} other {# diskutoj}}",
+  "forums.thread.pinned": "Alpinglita",
+  "forums.thread.closed": "Fermita",
+  "forums.thread.pin": "Alpingli supre",
+  "forums.thread.unpin": "Malalpingli"
 }

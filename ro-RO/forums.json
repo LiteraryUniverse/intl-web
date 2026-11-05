@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Ștergi acest răspuns? Nu va mai apărea în această discuție.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Acest răspuns a fost șters.",
-  "forums.post.hidden": "Acest răspuns este ascuns de moderare."
+  "forums.post.hidden": "Acest răspuns este ascuns de moderare.",
+  "forums.category.threads": "{count, plural, one {# discuție} few {# discuții} other {# de discuții}}",
+  "forums.thread.pinned": "Fixat",
+  "forums.thread.closed": "Închis",
+  "forums.thread.pin": "Fixează sus",
+  "forums.thread.unpin": "Anulează fixarea"
 }

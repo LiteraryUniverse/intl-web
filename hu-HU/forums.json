@@ -89,5 +89,10 @@
   "forums.post.deleteConfirm": "Törlöd ezt a választ? Többé nem jelenik meg ebben a beszélgetésben.",
   "forums.post.editedAt": "Edited {at, date, medium}",
   "forums.post.deleted": "Ezt a választ törölték.",
-  "forums.post.hidden": "Ezt a választ a moderátorok elrejtették."
+  "forums.post.hidden": "Ezt a választ a moderátorok elrejtették.",
+  "forums.category.threads": "{count, plural, one {# beszélgetés} other {# beszélgetés}}",
+  "forums.thread.pinned": "Kitűzve",
+  "forums.thread.closed": "Lezárva",
+  "forums.thread.pin": "Kitűzés felülre",
+  "forums.thread.unpin": "Kitűzés megszüntetése"
 }
