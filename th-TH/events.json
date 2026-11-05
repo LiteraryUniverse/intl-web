@@ -41,6 +41,7 @@
   "events.section.whenWhere": "เวลาและสถานที่",
   "events.section.who": "ใครมองเห็นได้",
   "events.admin.intro": "กิจกรรมจะแสดงบนบล็อกของคุณให้ผู้อ่านเห็น สร้างกิจกรรมเพื่อกำหนดวันที่ สถานที่ และผู้ที่มองเห็นได้",
+  "events.admin.syncLuma": "ซิงค์กับ Luma",
   "events.details.language": "ภาษาหลัก",
   "events.admin.filter": "กรองกิจกรรม",
   "events.admin.upcoming": "กำลังจะมาถึง",

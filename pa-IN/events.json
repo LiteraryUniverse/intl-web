@@ -41,6 +41,7 @@
   "events.section.whenWhere": "ਕਦੋਂ ਅਤੇ ਕਿੱਥੇ",
   "events.section.who": "ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ",
   "events.admin.intro": "ਸਮਾਗਮ ਤੁਹਾਡੇ ਪਾਠਕਾਂ ਲਈ ਤੁਹਾਡੇ ਬਲੌਗ 'ਤੇ ਸੂਚੀਬੱਧ ਹੁੰਦੇ ਹਨ। ਤਾਰੀਖ਼, ਥਾਂ ਅਤੇ ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ, ਇਹ ਤੈਅ ਕਰਨ ਲਈ ਇੱਕ ਸਮਾਗਮ ਬਣਾਓ।",
+  "events.admin.syncLuma": "Luma ਨਾਲ ਸਿੰਕ ਕਰੋ",
   "events.details.language": "ਮੁੱਖ ਭਾਸ਼ਾ",
   "events.admin.filter": "ਸਮਾਗਮ ਫਿਲਟਰ ਕਰੋ",
   "events.admin.upcoming": "ਆਉਣ ਵਾਲੇ",

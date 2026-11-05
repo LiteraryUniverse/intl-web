@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Quan i on",
   "events.section.who": "Qui el pot veure",
   "events.admin.intro": "Els esdeveniments apareixen al teu blog per als teus lectors. Crea'n un per fixar una data, un lloc i qui el pot veure.",
+  "events.admin.syncLuma": "Sincronitza amb Luma",
   "events.details.language": "Idioma principal",
   "events.admin.filter": "Filtra els esdeveniments",
   "events.admin.upcoming": "Propers",

@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Când și unde",
   "events.section.who": "Cine îl poate vedea",
   "events.admin.intro": "Evenimentele apar pe blogul tău pentru cititori. Creează unul ca să stabilești data, locul și cine îl poate vedea.",
+  "events.admin.syncLuma": "Sincronizează cu Luma",
   "events.details.language": "Limba principală",
   "events.admin.filter": "Filtrează evenimentele",
   "events.admin.upcoming": "Viitoare",

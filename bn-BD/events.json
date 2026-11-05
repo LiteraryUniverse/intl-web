@@ -41,6 +41,7 @@
   "events.section.whenWhere": "কখন ও কোথায়",
   "events.section.who": "কে দেখতে পারবে",
   "events.admin.intro": "ইভেন্টগুলো আপনার পাঠকদের জন্য আপনার ব্লগে তালিকাভুক্ত থাকে। তারিখ, স্থান এবং কে দেখতে পারবে তা ঠিক করতে একটি ইভেন্ট তৈরি করুন।",
+  "events.admin.syncLuma": "Luma-র সঙ্গে সিঙ্ক করুন",
   "events.details.language": "মূল ভাষা",
   "events.admin.filter": "ইভেন্ট ফিল্টার করুন",
   "events.admin.upcoming": "আসন্ন",

@@ -41,6 +41,7 @@
   "events.section.whenWhere": "कहिले र कहाँ",
   "events.section.who": "कसले देख्न सक्छ",
   "events.admin.intro": "कार्यक्रमहरू तपाईंका पाठकहरूका लागि तपाईंको ब्लगमा सूचीबद्ध हुन्छन्। मिति, ठाउँ र कसले देख्न सक्छ भन्ने तय गर्न एउटा बनाउनुहोस्।",
+  "events.admin.syncLuma": "Luma सँग सिंक गर्नुहोस्",
   "events.details.language": "मुख्य भाषा",
   "events.admin.filter": "कार्यक्रम फिल्टर गर्नुहोस्",
   "events.admin.upcoming": "आगामी",

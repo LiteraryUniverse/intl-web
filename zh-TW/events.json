@@ -41,6 +41,7 @@
   "events.section.whenWhere": "時間與地點",
   "events.section.who": "誰可以看到",
   "events.admin.intro": "活動會列在你的部落格上供讀者查看。建立活動以設定日期、地點和誰可以看到。",
+  "events.admin.syncLuma": "與 Luma 同步",
   "events.details.language": "主要語言",
   "events.admin.filter": "篩選活動",
   "events.admin.upcoming": "即將舉行",

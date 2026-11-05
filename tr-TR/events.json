@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Ne zaman ve nerede",
   "events.section.who": "Kimler görebilir",
   "events.admin.intro": "Etkinlikler blogunuzda okurlarınız için listelenir. Tarihi, yeri ve kimlerin görebileceğini belirlemek için bir etkinlik oluşturun.",
+  "events.admin.syncLuma": "Luma ile eşitle",
   "events.details.language": "Ana dil",
   "events.admin.filter": "Etkinlikleri filtrele",
   "events.admin.upcoming": "Yaklaşan",

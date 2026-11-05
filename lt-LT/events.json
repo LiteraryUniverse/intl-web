@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Kada ir kur",
   "events.section.who": "Kas gali matyti",
   "events.admin.intro": "Renginiai rodomi jūsų tinklaraštyje skaitytojams. Sukurkite renginį ir nustatykite datą, vietą ir tai, kas gali jį matyti.",
+  "events.admin.syncLuma": "Sinchronizuoti su Luma",
   "events.details.language": "Pagrindinė kalba",
   "events.admin.filter": "Filtruoti renginius",
   "events.admin.upcoming": "Artimiausi",

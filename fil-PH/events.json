@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Kailan at saan",
   "events.section.who": "Sino ang makakakita",
   "events.admin.intro": "Nakalista ang mga kaganapan sa iyong blog para sa iyong mga mambabasa. Gumawa ng isa para magtakda ng petsa, lugar, at kung sino ang makakakita nito.",
+  "events.admin.syncLuma": "I-sync sa Luma",
   "events.details.language": "Pangunahing wika",
   "events.admin.filter": "I-filter ang mga kaganapan",
   "events.admin.upcoming": "Paparating",

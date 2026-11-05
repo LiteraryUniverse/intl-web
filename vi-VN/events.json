@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Thời gian và địa điểm",
   "events.section.who": "Ai có thể xem",
   "events.admin.intro": "Sự kiện được liệt kê trên blog cho độc giả của bạn. Hãy tạo một sự kiện để đặt ngày, địa điểm và ai có thể xem.",
+  "events.admin.syncLuma": "Đồng bộ với Luma",
   "events.details.language": "Ngôn ngữ chính",
   "events.admin.filter": "Lọc sự kiện",
   "events.admin.upcoming": "Sắp tới",

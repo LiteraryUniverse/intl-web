@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Kdy a kde",
   "events.section.who": "Kdo ji uvidí",
   "events.admin.intro": "Události se zobrazují na vašem blogu pro vaše čtenáře. Vytvořte událost a nastavte datum, místo a kdo ji uvidí.",
+  "events.admin.syncLuma": "Synchronizovat s Luma",
   "events.details.language": "Hlavní jazyk",
   "events.admin.filter": "Filtrovat události",
   "events.admin.upcoming": "Nadcházející",

@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Mikor és hol",
   "events.section.who": "Ki láthatja",
   "events.admin.intro": "Az események a blogodon jelennek meg az olvasóidnak. Hozz létre egyet, és add meg az időpontot, a helyszínt, valamint azt, hogy ki láthatja.",
+  "events.admin.syncLuma": "Luma szinkronizálása",
   "events.details.language": "Fő nyelv",
   "events.admin.filter": "Események szűrése",
   "events.admin.upcoming": "Közelgő",

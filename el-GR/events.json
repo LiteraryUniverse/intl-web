@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Πότε και πού",
   "events.section.who": "Ποιος μπορεί να τη δει",
   "events.admin.intro": "Οι εκδηλώσεις εμφανίζονται στο ιστολόγιό σας για τους αναγνώστες σας. Δημιουργήστε μία για να ορίσετε ημερομηνία, τόπο και ποιος μπορεί να τη δει.",
+  "events.admin.syncLuma": "Συγχρονισμός με το Luma",
   "events.details.language": "Κύρια γλώσσα",
   "events.admin.filter": "Φιλτράρισμα εκδηλώσεων",
   "events.admin.upcoming": "Επερχόμενες",

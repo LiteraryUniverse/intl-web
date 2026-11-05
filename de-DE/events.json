@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Wann und wo",
   "events.section.who": "Wer es sehen kann",
   "events.admin.intro": "Veranstaltungen werden auf deinem Blog für deine Leser aufgelistet. Erstelle eine, um Datum, Ort und Sichtbarkeit festzulegen.",
+  "events.admin.syncLuma": "Mit Luma synchronisieren",
   "events.details.language": "Hauptsprache",
   "events.admin.filter": "Veranstaltungen filtern",
   "events.admin.upcoming": "Bevorstehend",

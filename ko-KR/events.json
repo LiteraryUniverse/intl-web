@@ -41,6 +41,7 @@
   "events.section.whenWhere": "일시와 장소",
   "events.section.who": "공개 대상",
   "events.admin.intro": "이벤트는 독자를 위해 블로그에 표시됩니다. 이벤트를 만들어 날짜, 장소, 공개 대상을 정하세요.",
+  "events.admin.syncLuma": "Luma와 동기화",
   "events.details.language": "주 언어",
   "events.admin.filter": "이벤트 필터",
   "events.admin.upcoming": "예정",

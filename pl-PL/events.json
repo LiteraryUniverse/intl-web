@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Kiedy i gdzie",
   "events.section.who": "Kto je zobaczy",
   "events.admin.intro": "Wydarzenia są widoczne na Twoim blogu dla Twoich czytelników. Utwórz wydarzenie, aby ustawić datę, miejsce i to, kto je zobaczy.",
+  "events.admin.syncLuma": "Synchronizuj z Luma",
   "events.details.language": "Główny język",
   "events.admin.filter": "Filtruj wydarzenia",
   "events.admin.upcoming": "Nadchodzące",

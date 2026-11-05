@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Wanneer en waar",
   "events.section.who": "Wie dit kan sien",
   "events.admin.intro": "Geleenthede word op jou blog vir jou lesers gelys. Skep een om 'n datum, 'n plek en wie dit kan sien, vas te stel.",
+  "events.admin.syncLuma": "Sinkroniseer met Luma",
   "events.details.language": "Hooftaal",
   "events.admin.filter": "Filtreer gebeurtenisse",
   "events.admin.upcoming": "Komende",

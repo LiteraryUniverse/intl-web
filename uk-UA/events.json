@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Коли і де",
   "events.section.who": "Хто її бачить",
   "events.admin.intro": "Події показуються у вашому блозі для ваших читачів. Створіть подію, щоб указати дату, місце й те, хто її бачить.",
+  "events.admin.syncLuma": "Синхронізувати з Luma",
   "events.details.language": "Основна мова",
   "events.admin.filter": "Фільтрувати події",
   "events.admin.upcoming": "Майбутні",

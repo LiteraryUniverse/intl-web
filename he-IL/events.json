@@ -41,6 +41,7 @@
   "events.section.whenWhere": "מתי ואיפה",
   "events.section.who": "מי יכול לראות",
   "events.admin.intro": "האירועים מוצגים בבלוג שלכם לקוראים. צרו אירוע כדי לקבוע תאריך, מקום ומי יכול לראות אותו.",
+  "events.admin.syncLuma": "סנכרון עם Luma",
   "events.details.language": "השפה הראשית",
   "events.admin.filter": "סינון אירועים",
   "events.admin.upcoming": "עתידיים",

@@ -41,6 +41,7 @@
   "events.section.whenWhere": "الزمان والمكان",
   "events.section.who": "من يمكنه رؤيته",
   "events.admin.intro": "تُعرض الأحداث في مدونتك لقرائك. أنشئ حدثًا لتحدد تاريخه ومكانه ومن يمكنه رؤيته.",
+  "events.admin.syncLuma": "المزامنة مع Luma",
   "events.details.language": "اللغة الأساسية",
   "events.admin.filter": "تصفية الأحداث",
   "events.admin.upcoming": "القادمة",

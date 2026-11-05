@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Waktu dan tempat",
   "events.section.who": "Siapa yang bisa melihat",
   "events.admin.intro": "Kegiatan ditampilkan di blog Anda untuk pembaca. Buat kegiatan untuk menentukan tanggal, tempat, dan siapa yang bisa melihatnya.",
+  "events.admin.syncLuma": "Sinkronkan dengan Luma",
   "events.details.language": "Bahasa utama",
   "events.admin.filter": "Filter acara",
   "events.admin.upcoming": "Mendatang",

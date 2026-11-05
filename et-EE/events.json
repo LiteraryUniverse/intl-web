@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Millal ja kus",
   "events.section.who": "Kes seda näevad",
   "events.admin.intro": "Sündmused kuvatakse sinu blogis lugejatele. Loo sündmus, et määrata kuupäev, koht ja see, kes seda näevad.",
+  "events.admin.syncLuma": "Sünkrooni Lumaga",
   "events.details.language": "Põhikeel",
   "events.admin.filter": "Filtreeri sündmusi",
   "events.admin.upcoming": "Tulevased",

@@ -41,6 +41,7 @@
   "events.section.whenWhere": "Aika ja paikka",
   "events.section.who": "Kuka näkee tapahtuman",
   "events.admin.intro": "Tapahtumat näkyvät blogissasi lukijoillesi. Luo tapahtuma ja määritä päivä, paikka ja se, kuka sen näkee.",
+  "events.admin.syncLuma": "Synkronoi Luman kanssa",
   "events.details.language": "Pääkieli",
   "events.admin.filter": "Suodata tapahtumia",
   "events.admin.upcoming": "Tulevat",
