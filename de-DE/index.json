@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Neuer Eintrag",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Der Eintrag wurde nach dem Senden geändert",
-  "encyclopedia.approval.conflict.text": "Basiert auf Version {base}, aktuell ist {latest}. Die Änderungen unten werden mit der neuesten Version verglichen.",
+  "encyclopedia.approval.conflict.changed": "Seitdem geändert: {changes}. Die Änderungen unten werden mit dem aktuellen Stand des Eintrags verglichen.",
   "encyclopedia.approval.changes": "Änderungen",
   "encyclopedia.approval.noChanges": "Nichts weicht vom aktuellen Eintrag ab.",
   "encyclopedia.approval.key.tags": "Tags",

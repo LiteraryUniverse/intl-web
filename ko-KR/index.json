@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "새 항목",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "전송 후 항목이 변경되었습니다",
-  "encyclopedia.approval.conflict.text": "버전 {base}를 기준으로 작성되었으며 최신 버전은 {latest}입니다. 아래 변경 사항은 최신 버전과 비교한 것입니다.",
+  "encyclopedia.approval.conflict.changed": "그 이후 변경됨: {changes}. 아래 변경 사항은 현재 항목과 비교한 것입니다.",
   "encyclopedia.approval.changes": "변경 사항",
   "encyclopedia.approval.noChanges": "현재 항목과 다른 점이 없습니다.",
   "encyclopedia.approval.key.tags": "태그",

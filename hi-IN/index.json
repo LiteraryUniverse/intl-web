@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "नई प्रविष्टि",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "अनुरोध भेजे जाने के बाद प्रविष्टि बदल गई",
-  "encyclopedia.approval.conflict.text": "संस्करण {base} पर आधारित, नवीनतम संस्करण {latest} है। नीचे के बदलावों की तुलना नवीनतम संस्करण से की गई है।",
+  "encyclopedia.approval.conflict.changed": "तब से बदला: {changes}। नीचे दिए बदलावों की तुलना प्रविष्टि के मौजूदा रूप से की गई है।",
   "encyclopedia.approval.changes": "बदलाव",
   "encyclopedia.approval.noChanges": "प्रविष्टि अभी जैसी है, उससे कुछ भी अलग नहीं है।",
   "encyclopedia.approval.key.tags": "टैग",

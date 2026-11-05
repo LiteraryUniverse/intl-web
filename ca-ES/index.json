@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Entrada nova",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "L'entrada ha canviat després d'enviar-ho",
-  "encyclopedia.approval.conflict.text": "Basat en la versió {base}; l'última és la {latest}. Els canvis següents es comparen amb l'última versió.",
+  "encyclopedia.approval.conflict.changed": "Ha canviat des de llavors: {changes}. Els canvis de sota es comparen amb l'entrada tal com és ara.",
   "encyclopedia.approval.changes": "Canvis",
   "encyclopedia.approval.noChanges": "No hi ha cap diferència amb l'entrada actual.",
   "encyclopedia.approval.key.tags": "Etiquetes",

@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "ახალი ჩანაწერი",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "ჩანაწერი გაგზავნის შემდეგ შეიცვალა",
-  "encyclopedia.approval.conflict.text": "დაფუძნებულია ვერსიაზე {base}, უახლესია {latest}. ქვემოთ მოცემული ცვლილებები უახლეს ვერსიასთანაა შედარებული.",
+  "encyclopedia.approval.conflict.changed": "მას შემდეგ შეიცვალა: {changes}. ქვემოთ მოცემული ცვლილებები ჩანაწერის ამჟამინდელ ვერსიას ედარება.",
   "encyclopedia.approval.changes": "ცვლილებები",
   "encyclopedia.approval.noChanges": "ჩანაწერი ახლანდელისგან არაფრით განსხვავდება.",
   "encyclopedia.approval.key.tags": "ტეგები",

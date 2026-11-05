@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Mục mới",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Mục đã thay đổi sau khi được gửi",
-  "encyclopedia.approval.conflict.text": "Dựa trên phiên bản {base}, phiên bản mới nhất là {latest}. Các thay đổi bên dưới được so với phiên bản mới nhất.",
+  "encyclopedia.approval.conflict.changed": "Đã thay đổi kể từ đó: {changes}. Các thay đổi bên dưới được so với mục ở hiện tại.",
   "encyclopedia.approval.changes": "Thay đổi",
   "encyclopedia.approval.noChanges": "Không có gì khác so với mục hiện tại.",
   "encyclopedia.approval.key.tags": "Thẻ",

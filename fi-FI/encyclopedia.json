@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Uusi merkintä",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Merkintää muokattiin sen jälkeen, kun tämä lähetettiin",
-  "encyclopedia.approval.conflict.text": "Perustuu versioon {base}, uusin on {latest}. Alla olevia muutoksia verrataan uusimpaan versioon.",
+  "encyclopedia.approval.conflict.changed": "Muuttunut sen jälkeen: {changes}. Alla olevia muutoksia verrataan merkinnän nykyiseen tilaan.",
   "encyclopedia.approval.changes": "Muutokset",
   "encyclopedia.approval.noChanges": "Mikään ei poikkea merkinnän nykyisestä sisällöstä.",
   "encyclopedia.approval.key.tags": "Tunnisteet",

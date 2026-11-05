@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Uus kirje",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Kirjet muudeti pärast selle saatmist",
-  "encyclopedia.approval.conflict.text": "Põhineb versioonil {base}, uusim on {latest}. Allolevaid muudatusi võrreldakse uusima versiooniga.",
+  "encyclopedia.approval.conflict.changed": "Vahepeal muutunud: {changes}. Allolevaid muudatusi võrreldakse kirje praeguse seisuga.",
   "encyclopedia.approval.changes": "Muudatused",
   "encyclopedia.approval.noChanges": "Midagi ei erine kirje praegusest seisust.",
   "encyclopedia.approval.key.tags": "Sildid",

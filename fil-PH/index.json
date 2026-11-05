@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Bagong entry",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Nagbago ang entry pagkatapos itong ipadala",
-  "encyclopedia.approval.conflict.text": "Batay sa bersyon {base}, ang pinakabago ay {latest}. Ikinukumpara sa pinakabagong bersyon ang mga pagbabago sa ibaba.",
+  "encyclopedia.approval.conflict.changed": "Nagbago mula noon: {changes}. Ang mga pagbabago sa ibaba ay inihahambing sa entry sa kasalukuyan nitong anyo.",
   "encyclopedia.approval.changes": "Mga pagbabago",
   "encyclopedia.approval.noChanges": "Walang pagkakaiba sa entry sa kasalukuyan.",
   "encyclopedia.approval.key.tags": "Mga tag",

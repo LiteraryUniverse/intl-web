@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Naujas įrašas",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Įrašas pasikeitė po išsiuntimo",
-  "encyclopedia.approval.conflict.text": "Paremta versija {base}, naujausia – {latest}. Toliau pateikti pakeitimai lyginami su naujausia versija.",
+  "encyclopedia.approval.conflict.changed": "Nuo tada pakeista: {changes}. Toliau pateikti pakeitimai lyginami su dabartiniu įrašu.",
   "encyclopedia.approval.changes": "Pakeitimai",
   "encyclopedia.approval.noChanges": "Nieko, kas skirtųsi nuo dabartinio įrašo.",
   "encyclopedia.approval.key.tags": "Žymos",

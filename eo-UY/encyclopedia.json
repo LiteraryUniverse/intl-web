@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Nova eniro",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "La eniro ŝanĝiĝis post la sendo",
-  "encyclopedia.approval.conflict.text": "Surbaze de versio {base}, la plej nova estas {latest}. La ŝanĝoj sube komparas kun la plej nova versio.",
+  "encyclopedia.approval.conflict.changed": "Ŝanĝiĝis ekde tiam: {changes}. La ŝanĝoj sube estas komparataj kun la nuna enigo.",
   "encyclopedia.approval.changes": "Ŝanĝoj",
   "encyclopedia.approval.noChanges": "Nenio diferencas de la eniro nuntempe.",
   "encyclopedia.approval.key.tags": "Etikedoj",

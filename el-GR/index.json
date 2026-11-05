@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Νέα καταχώριση",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Η καταχώριση άλλαξε μετά την αποστολή",
-  "encyclopedia.approval.conflict.text": "Βασίζεται στην έκδοση {base}, η τελευταία είναι η {latest}. Οι παρακάτω αλλαγές συγκρίνονται με την τελευταία έκδοση.",
+  "encyclopedia.approval.conflict.changed": "Άλλαξαν από τότε: {changes}. Οι αλλαγές παρακάτω συγκρίνονται με το λήμμα όπως είναι τώρα.",
   "encyclopedia.approval.changes": "Αλλαγές",
   "encyclopedia.approval.noChanges": "Τίποτα δεν διαφέρει από την καταχώριση όπως είναι τώρα.",
   "encyclopedia.approval.key.tags": "Ετικέτες",

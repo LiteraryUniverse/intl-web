@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "รายการใหม่",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "รายการเปลี่ยนแปลงหลังจากส่งมา",
-  "encyclopedia.approval.conflict.text": "อิงจากเวอร์ชัน {base} ส่วนเวอร์ชันล่าสุดคือ {latest} การเปลี่ยนแปลงด้านล่างเทียบกับเวอร์ชันล่าสุด",
+  "encyclopedia.approval.conflict.changed": "เปลี่ยนไปตั้งแต่นั้น: {changes} การเปลี่ยนแปลงด้านล่างเทียบกับรายการในตอนนี้",
   "encyclopedia.approval.changes": "การเปลี่ยนแปลง",
   "encyclopedia.approval.noChanges": "ไม่มีส่วนที่ต่างจากรายการในปัจจุบัน",
   "encyclopedia.approval.key.tags": "แท็ก",

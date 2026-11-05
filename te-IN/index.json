@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "కొత్త ఎంట్రీ",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "పంపిన తర్వాత ఎంట్రీ మారింది",
-  "encyclopedia.approval.conflict.text": "వెర్షన్ {base} ఆధారంగా, తాజాది {latest}. క్రింది మార్పులు తాజా వెర్షన్‌తో పోల్చబడతాయి.",
+  "encyclopedia.approval.conflict.changed": "అప్పటి నుంచి మారినవి: {changes}. కింది మార్పులను ఎంట్రీ ప్రస్తుత రూపంతో పోల్చారు.",
   "encyclopedia.approval.changes": "మార్పులు",
   "encyclopedia.approval.noChanges": "ప్రస్తుత ఎంట్రీకి భిన్నంగా ఏమీ లేదు.",
   "encyclopedia.approval.key.tags": "ట్యాగ్‌లు",

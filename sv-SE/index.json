@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Ny post",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Posten ändrades efter att detta skickades",
-  "encyclopedia.approval.conflict.text": "Baserat på version {base}, den senaste är {latest}. Ändringarna nedan jämförs med den senaste versionen.",
+  "encyclopedia.approval.conflict.changed": "Ändrat sedan dess: {changes}. Ändringarna nedan jämförs med posten som den är nu.",
   "encyclopedia.approval.changes": "Ändringar",
   "encyclopedia.approval.noChanges": "Inget skiljer sig från posten som den ser ut nu.",
   "encyclopedia.approval.key.tags": "Taggar",

@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Yeni giriş",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Giriş gönderildikten sonra değişti",
-  "encyclopedia.approval.conflict.text": "Dayandığı sürüm: {base}, en son sürüm: {latest}. Aşağıdaki değişiklikler en son sürümle karşılaştırılır.",
+  "encyclopedia.approval.conflict.changed": "O zamandan beri değişti: {changes}. Aşağıdaki değişiklikler maddenin şimdiki hâliyle karşılaştırılıyor.",
   "encyclopedia.approval.changes": "Değişiklikler",
   "encyclopedia.approval.noChanges": "Girişin şu anki halinden farklı bir şey yok.",
   "encyclopedia.approval.key.tags": "Etiketler",

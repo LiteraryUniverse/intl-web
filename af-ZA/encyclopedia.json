@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Nuwe inskrywing",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Die inskrywing het verander nadat dit gestuur is",
-  "encyclopedia.approval.conflict.text": "Gebaseer op weergawe {base}, die nuutste is {latest}. Die veranderinge hieronder word met die nuutste weergawe vergelyk.",
+  "encyclopedia.approval.conflict.changed": "Sedertdien verander: {changes}. Die veranderinge hieronder word met die inskrywing soos dit nou is vergelyk.",
   "encyclopedia.approval.changes": "Veranderinge",
   "encyclopedia.approval.noChanges": "Niks verskil van die inskrywing soos dit nou is nie.",
   "encyclopedia.approval.key.tags": "Etikette",

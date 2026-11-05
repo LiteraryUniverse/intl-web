@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "إدخال جديد",
   "encyclopedia.approval.byline": "{user}، {date}",
   "encyclopedia.approval.conflict.title": "تغيّر الإدخال بعد إرسال هذا الطلب",
-  "encyclopedia.approval.conflict.text": "مبني على الإصدار {base}، وأحدث إصدار هو {latest}. تتم مقارنة التغييرات أدناه بأحدث إصدار.",
+  "encyclopedia.approval.conflict.changed": "تغيّر منذ ذلك الحين: {changes}. تُقارَن التغييرات أدناه بالمدخل كما هو الآن.",
   "encyclopedia.approval.changes": "التغييرات",
   "encyclopedia.approval.noChanges": "لا يوجد اختلاف عن الإدخال بصورته الحالية.",
   "encyclopedia.approval.key.tags": "الوسوم",

@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "નવી એન્ટ્રી",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "મોકલ્યા પછી એન્ટ્રીમાં ફેરફાર થયો",
-  "encyclopedia.approval.conflict.text": "આવૃત્તિ {base} પર આધારિત, નવીનતમ {latest} છે. નીચેના ફેરફારોની સરખામણી નવીનતમ આવૃત્તિ સાથે થાય છે.",
+  "encyclopedia.approval.conflict.changed": "ત્યારથી બદલાયું: {changes}. નીચેના ફેરફારો એન્ટ્રીના હાલના સ્વરૂપ સાથે સરખાવાય છે.",
   "encyclopedia.approval.changes": "ફેરફારો",
   "encyclopedia.approval.noChanges": "એન્ટ્રી અત્યારે જેવી છે તેનાથી કંઈ અલગ નથી.",
   "encyclopedia.approval.key.tags": "ટૅગ",

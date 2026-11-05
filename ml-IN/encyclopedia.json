@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "പുതിയ എൻട്രി",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "അയച്ചതിനു ശേഷം എൻട്രി മാറി",
-  "encyclopedia.approval.conflict.text": "പതിപ്പ് {base} അടിസ്ഥാനമാക്കിയുള്ളത്, ഏറ്റവും പുതിയത് {latest}. താഴെയുള്ള മാറ്റങ്ങൾ ഏറ്റവും പുതിയ പതിപ്പുമായി താരതമ്യം ചെയ്തതാണ്.",
+  "encyclopedia.approval.conflict.changed": "അതിനുശേഷം മാറിയത്: {changes}. താഴെയുള്ള മാറ്റങ്ങൾ എൻട്രിയുടെ ഇപ്പോഴത്തെ രൂപവുമായി താരതമ്യം ചെയ്യുന്നു.",
   "encyclopedia.approval.changes": "മാറ്റങ്ങൾ",
   "encyclopedia.approval.noChanges": "എൻട്രിയുടെ നിലവിലെ രൂപത്തിൽ നിന്ന് വ്യത്യാസമൊന്നുമില്ല.",
   "encyclopedia.approval.key.tags": "ടാഗുകൾ",

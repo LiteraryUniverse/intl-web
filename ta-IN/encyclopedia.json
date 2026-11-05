@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "புதிய பதிவு",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "அனுப்பிய பிறகு பதிவு மாறியுள்ளது",
-  "encyclopedia.approval.conflict.text": "பதிப்பு {base} அடிப்படையில் உள்ளது, சமீபத்தியது {latest}. கீழே உள்ள மாற்றங்கள் சமீபத்திய பதிப்புடன் ஒப்பிடப்படுகின்றன.",
+  "encyclopedia.approval.conflict.changed": "அதன் பிறகு மாறியவை: {changes}. கீழே உள்ள மாற்றங்கள் பதிவின் தற்போதைய வடிவத்துடன் ஒப்பிடப்படுகின்றன.",
   "encyclopedia.approval.changes": "மாற்றங்கள்",
   "encyclopedia.approval.noChanges": "தற்போதைய பதிவிலிருந்து எதுவும் மாறவில்லை.",
   "encyclopedia.approval.key.tags": "குறிச்சொல்லுக்கள்",

@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "新條目",
   "encyclopedia.approval.byline": "{user}，{date}",
   "encyclopedia.approval.conflict.title": "送出後條目已變更",
-  "encyclopedia.approval.conflict.text": "依據版本 {base}，最新版本為 {latest}。以下變更是與最新版本比較。",
+  "encyclopedia.approval.conflict.changed": "之後已變更：{changes}。下方的變更是與條目目前的內容比較。",
   "encyclopedia.approval.changes": "變更",
   "encyclopedia.approval.noChanges": "與目前的條目沒有差異。",
   "encyclopedia.approval.key.tags": "標籤",

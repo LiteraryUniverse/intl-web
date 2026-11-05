@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Nieuw item",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Het item is gewijzigd nadat dit was verstuurd",
-  "encyclopedia.approval.conflict.text": "Gebaseerd op versie {base}, de nieuwste is {latest}. De wijzigingen hieronder worden met de nieuwste versie vergeleken.",
+  "encyclopedia.approval.conflict.changed": "Sindsdien gewijzigd: {changes}. De wijzigingen hieronder worden vergeleken met het item zoals het nu is.",
   "encyclopedia.approval.changes": "Wijzigingen",
   "encyclopedia.approval.noChanges": "Niets wijkt af van het item zoals het nu is.",
   "encyclopedia.approval.key.tags": "Tags",

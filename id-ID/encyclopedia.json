@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Entri baru",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Entri berubah setelah ini dikirim",
-  "encyclopedia.approval.conflict.text": "Berdasarkan versi {base}, versi terbaru adalah {latest}. Perubahan di bawah dibandingkan dengan versi terbaru.",
+  "encyclopedia.approval.conflict.changed": "Berubah sejak itu: {changes}. Perubahan di bawah dibandingkan dengan entri seperti sekarang.",
   "encyclopedia.approval.changes": "Perubahan",
   "encyclopedia.approval.noChanges": "Tidak ada perbedaan dengan entri saat ini.",
   "encyclopedia.approval.key.tags": "Tag",

@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Intrare nouă",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Intrarea s-a schimbat după trimiterea acestora",
-  "encyclopedia.approval.conflict.text": "Pe baza versiunii {base}; cea mai recentă este {latest}. Modificările de mai jos sunt comparate cu cea mai recentă versiune.",
+  "encyclopedia.approval.conflict.changed": "Modificat între timp: {changes}. Modificările de mai jos sunt comparate cu intrarea așa cum este acum.",
   "encyclopedia.approval.changes": "Modificări",
   "encyclopedia.approval.noChanges": "Nimic nu diferă de intrarea actuală.",
   "encyclopedia.approval.key.tags": "Etichete",

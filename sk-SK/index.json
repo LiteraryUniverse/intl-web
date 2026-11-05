@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Nová položka",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Položka sa po odoslaní zmenila",
-  "encyclopedia.approval.conflict.text": "Založené na verzii {base}, najnovšia je {latest}. Zmeny nižšie sa porovnávajú s najnovšou verziou.",
+  "encyclopedia.approval.conflict.changed": "Odvtedy sa zmenilo: {changes}. Zmeny nižšie sa porovnávajú so záznamom v súčasnej podobe.",
   "encyclopedia.approval.changes": "Zmeny",
   "encyclopedia.approval.noChanges": "Nič sa nelíši od aktuálnej položky.",
   "encyclopedia.approval.key.tags": "Značky",

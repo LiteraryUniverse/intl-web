@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "新しい項目",
   "encyclopedia.approval.byline": "{user}、{date}",
   "encyclopedia.approval.conflict.title": "送信後に項目が変更されました",
-  "encyclopedia.approval.conflict.text": "バージョン {base} を基に作成されています。最新は {latest} です。以下の変更は最新バージョンと比較しています。",
+  "encyclopedia.approval.conflict.changed": "その後の変更：{changes}。以下の変更は現在の項目と比較しています。",
   "encyclopedia.approval.changes": "変更",
   "encyclopedia.approval.noChanges": "現在の項目との違いはありません。",
   "encyclopedia.approval.key.tags": "タグ",

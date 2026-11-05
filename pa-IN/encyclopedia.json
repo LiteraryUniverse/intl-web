@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "ਨਵੀਂ ਇੰਟਰੀ",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "ਇਹ ਭੇਜਣ ਤੋਂ ਬਾਅਦ ਇੰਟਰੀ ਬਦਲ ਗਈ",
-  "encyclopedia.approval.conflict.text": "ਵਰਜਨ {base} ਉੱਤੇ ਆਧਾਰਿਤ, ਨਵੀਨਤਮ {latest} ਹੈ। ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਤਬਦੀਲੀਆਂ ਨਵੀਨਤਮ ਵਰਜਨ ਨਾਲ ਮਿਲਾਈਆਂ ਗਈਆਂ ਹਨ।",
+  "encyclopedia.approval.conflict.changed": "ਉਦੋਂ ਤੋਂ ਬਦਲਿਆ: {changes}। ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਤੁਲਨਾ ਐਂਟਰੀ ਦੇ ਮੌਜੂਦਾ ਰੂਪ ਨਾਲ ਕੀਤੀ ਗਈ ਹੈ।",
   "encyclopedia.approval.changes": "ਤਬਦੀਲੀਆਂ",
   "encyclopedia.approval.noChanges": "ਮੌਜੂਦਾ ਇੰਟਰੀ ਤੋਂ ਕੁਝ ਵੀ ਵੱਖਰਾ ਨਹੀਂ ਹੈ।",
   "encyclopedia.approval.key.tags": "ਟੈਗ",

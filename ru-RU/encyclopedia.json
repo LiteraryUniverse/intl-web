@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Новая запись",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Запись изменилась после отправки",
-  "encyclopedia.approval.conflict.text": "Основано на версии {base}, последняя — {latest}. Изменения ниже сравниваются с последней версией.",
+  "encyclopedia.approval.conflict.changed": "С тех пор изменилось: {changes}. Изменения ниже сравниваются с текущим состоянием статьи.",
   "encyclopedia.approval.changes": "Изменения",
   "encyclopedia.approval.noChanges": "Ничем не отличается от текущей записи.",
   "encyclopedia.approval.key.tags": "Метки",

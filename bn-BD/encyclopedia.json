@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "নতুন এন্ট্রি",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "পাঠানোর পরে এন্ট্রিটি বদলে গেছে",
-  "encyclopedia.approval.conflict.text": "সংস্করণ {base}-এর ভিত্তিতে তৈরি, সর্বশেষ সংস্করণ {latest}। নিচের পরিবর্তনগুলো সর্বশেষ সংস্করণের সঙ্গে তুলনা করা হয়েছে।",
+  "encyclopedia.approval.conflict.changed": "এরপর বদলেছে: {changes}। নিচের পরিবর্তনগুলো এখনকার এন্ট্রির সঙ্গে তুলনা করা হয়েছে।",
   "encyclopedia.approval.changes": "পরিবর্তন",
   "encyclopedia.approval.noChanges": "এন্ট্রির বর্তমান অবস্থা থেকে কিছুই আলাদা নয়।",
   "encyclopedia.approval.key.tags": "ট্যাগ",

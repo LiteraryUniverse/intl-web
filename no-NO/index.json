@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Ny oppføring",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Oppføringen er endret etter at dette ble sendt",
-  "encyclopedia.approval.conflict.text": "Basert på versjon {base}, siste versjon er {latest}. Endringene nedenfor sammenlignes med siste versjon.",
+  "encyclopedia.approval.conflict.changed": "Endret siden: {changes}. Endringene nedenfor sammenlignes med oppføringen slik den er nå.",
   "encyclopedia.approval.changes": "Endringer",
   "encyclopedia.approval.noChanges": "Ingenting skiller seg fra oppføringen slik den er nå.",
   "encyclopedia.approval.key.tags": "Emneord",

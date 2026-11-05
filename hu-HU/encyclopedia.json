@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Új bejegyzés",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "A bejegyzés megváltozott a beküldés után",
-  "encyclopedia.approval.conflict.text": "A(z) {base}. verzió alapján készült, a legújabb a(z) {latest}. verzió. Az alábbi módosításokat a legújabb verzióhoz hasonlítjuk.",
+  "encyclopedia.approval.conflict.changed": "Azóta módosult: {changes}. A lenti változásokat a bejegyzés jelenlegi állapotával vetjük össze.",
   "encyclopedia.approval.changes": "Módosítások",
   "encyclopedia.approval.noChanges": "Semmi sem tér el a bejegyzés jelenlegi állapotától.",
   "encyclopedia.approval.key.tags": "Címkék",

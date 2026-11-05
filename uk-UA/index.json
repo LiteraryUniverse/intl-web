@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Новий запис",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Запис змінився після надсилання",
-  "encyclopedia.approval.conflict.text": "Основа: версія {base}, найновіша: {latest}. Зміни нижче порівнюються з найновішою версією.",
+  "encyclopedia.approval.conflict.changed": "Відтоді змінилося: {changes}. Зміни нижче порівнюються з поточним станом статті.",
   "encyclopedia.approval.changes": "Зміни",
   "encyclopedia.approval.noChanges": "Нічим не відрізняється від поточного запису.",
   "encyclopedia.approval.key.tags": "Теги",

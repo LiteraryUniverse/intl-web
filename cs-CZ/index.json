@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Nový záznam",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Záznam se po odeslání změnil",
-  "encyclopedia.approval.conflict.text": "Vychází z verze {base}, nejnovější je {latest}. Změny níže se porovnávají s nejnovější verzí.",
+  "encyclopedia.approval.conflict.changed": "Od té doby se změnilo: {changes}. Změny níže se porovnávají se záznamem v současné podobě.",
   "encyclopedia.approval.changes": "Změny",
   "encyclopedia.approval.noChanges": "Nic se neliší od záznamu v jeho současné podobě.",
   "encyclopedia.approval.key.tags": "Štítky",

@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "Ny indgang",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "Indgangen er ændret, efter at dette blev sendt",
-  "encyclopedia.approval.conflict.text": "Baseret på version {base}, den nyeste er {latest}. Ændringerne nedenfor sammenlignes med den nyeste version.",
+  "encyclopedia.approval.conflict.changed": "Ændret siden: {changes}. Ændringerne nedenfor sammenlignes med opslaget, som det er nu.",
   "encyclopedia.approval.changes": "Ændringer",
   "encyclopedia.approval.noChanges": "Intet adskiller sig fra indgangen, som den er nu.",
   "encyclopedia.approval.key.tags": "Tags",

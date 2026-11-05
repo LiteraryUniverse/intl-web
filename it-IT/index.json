@@ -2725,7 +2725,7 @@
   "encyclopedia.approval.newEntry": "Nuova voce",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "La voce è cambiata dopo l'invio",
-  "encyclopedia.approval.conflict.text": "Basata sulla versione {base}, l'ultima è la {latest}. Le modifiche qui sotto sono confrontate con l'ultima versione.",
+  "encyclopedia.approval.conflict.changed": "Modificato nel frattempo: {changes}. Le modifiche qui sotto sono confrontate con la voce com'è ora.",
   "encyclopedia.approval.changes": "Modifiche",
   "encyclopedia.approval.noChanges": "Nulla differisce dalla voce attuale.",
   "encyclopedia.approval.key.tags": "Tag",

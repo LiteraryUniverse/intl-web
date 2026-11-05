@@ -152,7 +152,7 @@
   "encyclopedia.approval.newEntry": "פריט חדש",
   "encyclopedia.approval.byline": "{user}, {date}",
   "encyclopedia.approval.conflict.title": "הפריט השתנה אחרי ששלחו את הבקשה",
-  "encyclopedia.approval.conflict.text": "מבוסס על גרסה {base}, והגרסה האחרונה היא {latest}. השינויים להלן מושווים לגרסה האחרונה.",
+  "encyclopedia.approval.conflict.changed": "השתנה מאז: {changes}. השינויים שלמטה מושווים לערך כפי שהוא עכשיו.",
   "encyclopedia.approval.changes": "שינויים",
   "encyclopedia.approval.noChanges": "אין הבדל בין הבקשה לפריט כפי שהוא עכשיו.",
   "encyclopedia.approval.key.tags": "תגיות",
