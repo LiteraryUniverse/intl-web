@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "ამ ბლოგზე საფოსტო სია გამორთულია.",
   "settings.integrations.kit.unavailable": "Kit-ის დაკავშირება ახლა შეუძლებელია.",
   "settings.integrations.kit.noBlogs": "ბლოგს ჯერ არ მართავთ. Kit ბლოგის საფოსტო სიას უკავშირდება.",
+  "settings.integrations.orgIntro": "დააკავშირეთ ეს ორგანიზაცია სერვისებთან, რომლებსაც ის უკვე იყენებს. აქ შექმნილი კავშირები ორგანიზაციას ეკუთვნის და მისი სხვა ადმინისტრატორებიც შეძლებენ მათ მართვას.",
+  "settings.integrations.kit.noOrgBlog": "ამ ორგანიზაციას ჯერ ბლოგი არ აქვს. Kit ბლოგის საფოსტო სიას უკავშირდება.",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

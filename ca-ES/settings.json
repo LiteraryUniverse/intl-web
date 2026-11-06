@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "La llista de correu d'aquest blog està desactivada.",
   "settings.integrations.kit.unavailable": "Ara mateix no es pot connectar Kit.",
   "settings.integrations.kit.noBlogs": "Encara no gestiones cap blog. Kit es connecta a la llista de correu d'un blog.",
+  "settings.integrations.orgIntro": "Connecta aquesta organització amb els serveis que ja fa servir. Les connexions que es fan aquí pertanyen a l'organització, i els seus altres administradors també les poden gestionar.",
+  "settings.integrations.kit.noOrgBlog": "Aquesta organització encara no té cap blog. Kit es connecta a la llista de correu d'un blog.",
   "settings.apiKeys.title": "Claus d'API",
   "settings.apiKeys.description": "Les claus d'API permeten que aplicacions de tercers accedeixin a les teves dades de Literary Universe en nom teu. Tracta-les com a contrasenyes i no les comparteixis mai.",
   "settings.apiKeys.noKeys": "Encara no tens cap clau d'API.",

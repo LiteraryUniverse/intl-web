@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Bu blogun e-posta listesi kapalı.",
   "settings.integrations.kit.unavailable": "Kit şu anda bağlanamıyor.",
   "settings.integrations.kit.noBlogs": "Henüz bir blog yönetmiyorsunuz. Kit, bir blogun e-posta listesine bağlanır.",
+  "settings.integrations.orgIntro": "Bu kuruluşu zaten kullandığı hizmetlere bağlayın. Burada kurulan bağlantılar kuruluşa aittir ve kuruluşun diğer yöneticileri de bunları yönetebilir.",
+  "settings.integrations.kit.noOrgBlog": "Bu kuruluşun henüz bir blogu yok. Kit, bir blogun e-posta listesine bağlanır.",
   "settings.apiKeys.title": "API Anahtarları",
   "settings.apiKeys.description": "API anahtarları, üçüncü taraf uygulamaların sizin adınıza Literary Universe verilerinize erişmesini sağlar. Bunlara parola gibi davranın ve asla paylaşmayın.",
   "settings.apiKeys.noKeys": "Henüz herhangi bir API anahtarınız yok.",

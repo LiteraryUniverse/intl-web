@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "एहि ब्लॉगक मेलिंग लिस्ट बन्न अछि।",
   "settings.integrations.kit.unavailable": "Kit एखन नहि जोड़ल जा सकैत अछि।",
   "settings.integrations.kit.noBlogs": "अहाँ एखन धरि कोनो ब्लॉग नहि चलबैत छी। Kit ब्लॉगक मेलिंग लिस्टसँ जुड़ैत अछि।",
+  "settings.integrations.orgIntro": "एहि संगठनकेँ ओहि सेवासभसँ जोड़ू जकर ई पहिनेसँ उपयोग करैत अछि। एतऽ बनाओल गेल जुड़ाव संगठनक होइत अछि, आ एकर आन प्रशासक सेहो ओकरा सम्हारि सकैत छथि।",
+  "settings.integrations.kit.noOrgBlog": "एहि संगठनक एखन धरि कोनो ब्लॉग नहि अछि। Kit ब्लॉगक मेलिंग लिस्टसँ जुड़ैत अछि।",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

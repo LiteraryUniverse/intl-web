@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "E-postlistan på den här bloggen är avstängd.",
   "settings.integrations.kit.unavailable": "Kit kan inte anslutas just nu.",
   "settings.integrations.kit.noBlogs": "Du driver ingen blogg ännu. Kit ansluts till en bloggs e-postlista.",
+  "settings.integrations.orgIntro": "Koppla den här organisationen till tjänster den redan använder. Kopplingar som görs här hör till organisationen, och dess andra administratörer kan också hantera dem.",
+  "settings.integrations.kit.noOrgBlog": "Den här organisationen har ingen blogg ännu. Kit ansluts till en bloggs e-postlista.",
   "settings.apiKeys.title": "API-nycklar",
   "settings.apiKeys.description": "API-nycklar gör det möjligt för tredjepartsapplikationer att komma åt dina Literary Universe-data för din räkning. Behandla dem som lösenord och dela aldrig med dig av dem.",
   "settings.apiKeys.noKeys": "Du har inga API-nycklar ännu.",

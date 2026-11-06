@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "ཟིན་བྲིས་འདིའི་གློག་འཕྲིན་ཐོ་གཞུང་བཀག་ཡོད།",
   "settings.integrations.kit.unavailable": "ད་ལྟ་ Kit སྦྲེལ་མཐུད་བྱེད་མི་ཐུབ།",
   "settings.integrations.kit.noBlogs": "ཁྱེད་ལ་ད་དུང་ཟིན་བྲིས་མེད། Kit ནི་ཟིན་བྲིས་ཀྱི་གློག་འཕྲིན་ཐོ་གཞུང་དང་སྦྲེལ་མཐུད་བྱེད།",
+  "settings.integrations.orgIntro": "ཚོགས་སྡེ་འདི་དེས་སྔོན་ནས་བེད་སྤྱོད་བྱེད་བཞིན་པའི་ཞབས་ཞུ་དག་དང་སྦྲེལ་མཐུད་བྱེད། འདིར་བཟོས་པའི་སྦྲེལ་མཐུད་རྣམས་ཚོགས་སྡེའི་ཡིན་ཞིང་། ཚོགས་སྡེའི་དོ་དམ་པ་གཞན་དག་གིས་ཀྱང་དེ་དག་དོ་དམ་བྱེད་ཐུབ།",
+  "settings.integrations.kit.noOrgBlog": "ཚོགས་སྡེ་འདི་ལ་ད་དུང་ཟིན་བྲིས་མེད། Kit ནི་ཟིན་བྲིས་ཀྱི་གློག་འཕྲིན་ཐོ་གཞུང་དང་སྦྲེལ་མཐུད་བྱེད།",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

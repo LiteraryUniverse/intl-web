@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Die possery op hierdie blog is af.",
   "settings.integrations.kit.unavailable": "Kit kan nie nou gekoppel word nie.",
   "settings.integrations.kit.noBlogs": "Jy bestuur nog nie 'n blog nie. Kit koppel aan 'n blog se possery.",
+  "settings.integrations.orgIntro": "Koppel hierdie organisasie aan dienste wat dit reeds gebruik. Koppelings wat hier gemaak word, behoort aan die organisasie, en sy ander administrateurs kan dit ook bestuur.",
+  "settings.integrations.kit.noOrgBlog": "Hierdie organisasie het nog nie 'n blog nie. Kit koppel aan 'n blog se possery.",
   "settings.apiKeys.title": "API-sleutels",
   "settings.apiKeys.description": "API-sleutels laat derdepartytoepassings toe om namens jou toegang tot jou Literary Universe-data te kry. Hanteer hulle soos wagwoorde en moet hulle nooit deel nie.",
   "settings.apiKeys.noKeys": "Jy het nog geen API-sleutels nie.",

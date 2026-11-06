@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "ଏହି ବ୍ଲଗର ମେଲିଂ ତାଲିକା ବନ୍ଦ ଅଛି।",
   "settings.integrations.kit.unavailable": "ବର୍ତ୍ତମାନ Kit ସଂଯୋଗ କରାଯାଇପାରିବ ନାହିଁ।",
   "settings.integrations.kit.noBlogs": "ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ବ୍ଲଗ୍ ଚଳାଉ ନାହାଁନ୍ତି। Kit ଏକ ବ୍ଲଗର ମେଲିଂ ତାଲିକା ସହ ସଂଯୋଗ ହୁଏ।",
+  "settings.integrations.orgIntro": "ଏହି ସଂଗଠନକୁ ଏହା ପୂର୍ବରୁ ବ୍ୟବହାର କରୁଥିବା ସେବାଗୁଡ଼ିକ ସହ ସଂଯୋଗ କରନ୍ତୁ। ଏଠାରେ କରାଯାଇଥିବା ସଂଯୋଗଗୁଡ଼ିକ ସଂଗଠନର, ଏବଂ ଏହାର ଅନ୍ୟ ପ୍ରଶାସକମାନେ ମଧ୍ୟ ସେଗୁଡ଼ିକୁ ପରିଚାଳନା କରିପାରିବେ।",
+  "settings.integrations.kit.noOrgBlog": "ଏହି ସଂଗଠନର ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ବ୍ଲଗ୍ ନାହିଁ। Kit ଏକ ବ୍ଲଗର ମେଲିଂ ତାଲିକା ସହ ସଂଯୋଗ ହୁଏ।",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

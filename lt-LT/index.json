@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Šio tinklaraščio pašto sąrašas išjungtas.",
   "settings.integrations.kit.unavailable": "Šiuo metu Kit prijungti negalima.",
   "settings.integrations.kit.noBlogs": "Dar netvarkote jokio tinklaraščio. Kit prijungiamas prie tinklaraščio pašto sąrašo.",
+  "settings.integrations.orgIntro": "Susiekite šią organizaciją su paslaugomis, kurias ji jau naudoja. Čia sukurti ryšiai priklauso organizacijai, o juos tvarkyti gali ir kiti jos administratoriai.",
+  "settings.integrations.kit.noOrgBlog": "Ši organizacija dar neturi tinklaraščio. Kit prijungiamas prie tinklaraščio pašto sąrašo.",
   "settings.apiKeys.title": "API raktai",
   "settings.apiKeys.description": "API raktai leidžia trečiųjų šalių programoms jūsų vardu pasiekti \"Literary Universe\" duomenis. Elkitės su jais kaip su slaptažodžiais ir niekada jais nesidalykite.",
   "settings.apiKeys.noKeys": "Dar neturite jokių API raktų.",

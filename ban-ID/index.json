@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Daftar surel ring blog puniki kamatiang.",
   "settings.integrations.kit.unavailable": "Kit nénten prasida kasambungang mangkin.",
   "settings.integrations.kit.noBlogs": "Ragané durung madue blog. Kit kasambungang ring daftar surel blog.",
+  "settings.integrations.orgIntro": "Sambungang organisasi puniki ring layanan sané sampun kaanggén olih organisasi punika. Sambungan sané kakaryanin iriki druén organisasi, tur administrator organisasi sané lianan taler prasida ngurus sambungan punika.",
+  "settings.integrations.kit.noOrgBlog": "Organisasi puniki durung madue blog. Kit kasambungang ring daftar surel blog.",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

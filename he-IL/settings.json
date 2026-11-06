@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "רשימת התפוצה בבלוג הזה כבויה.",
   "settings.integrations.kit.unavailable": "לא ניתן לחבר את Kit כרגע.",
   "settings.integrations.kit.noBlogs": "אתם עדיין לא מנהלים בלוג. Kit מתחבר לרשימת התפוצה של בלוג.",
+  "settings.integrations.orgIntro": "חברו את הארגון הזה לשירותים שהוא כבר משתמש בהם. חיבורים שנוצרים כאן שייכים לארגון, וגם המנהלים האחרים שלו יכולים לנהל אותם.",
+  "settings.integrations.kit.noOrgBlog": "לארגון הזה עדיין אין בלוג. Kit מתחבר לרשימת התפוצה של בלוג.",
   "settings.apiKeys.title": "מפתחות API",
   "settings.apiKeys.description": "מפתחות API מאפשרים ליישומים של צד שלישי לגשת לנתוני Literary Universe שלך בשמך. התייחס אליהם כמו אל סיסמאות ואל תשתף אותם עם אף אחד.",
   "settings.apiKeys.noKeys": "אין לך עדיין מפתחות API.",

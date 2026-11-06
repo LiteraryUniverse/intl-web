@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Naka-off ang mailing list ng blog na ito.",
   "settings.integrations.kit.unavailable": "Hindi maikonekta ang Kit sa ngayon.",
   "settings.integrations.kit.noBlogs": "Wala ka pang pinamamahalaang blog. Kumokonekta ang Kit sa mailing list ng isang blog.",
+  "settings.integrations.orgIntro": "Ikonekta ang organisasyong ito sa mga serbisyong ginagamit na nito. Ang mga koneksyong ginawa rito ay nakapailalim sa organisasyon, at mapapamahalaan din ang mga ito ng iba pang administrador nito.",
+  "settings.integrations.kit.noOrgBlog": "Wala pang blog ang organisasyong ito. Kumokonekta ang Kit sa mailing list ng isang blog.",
   "settings.apiKeys.title": "Mga API Key",
   "settings.apiKeys.description": "Pinapayagan ng mga API key ang mga third-party na application na i-access ang iyong data sa Literary Universe sa ngalan mo. Ituring ang mga ito na parang password at huwag kailanman ibahagi.",
   "settings.apiKeys.noKeys": "Wala ka pang API key.",

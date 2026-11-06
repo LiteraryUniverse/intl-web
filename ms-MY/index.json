@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Senarai mel pada blog ini dimatikan.",
   "settings.integrations.kit.unavailable": "Kit tidak dapat disambungkan buat masa ini.",
   "settings.integrations.kit.noBlogs": "Anda belum mengendalikan blog. Kit bersambung ke senarai mel sesebuah blog.",
+  "settings.integrations.orgIntro": "Sambungkan organisasi ini dengan perkhidmatan yang sudah digunakannya. Sambungan yang dibuat di sini dimiliki oleh organisasi, dan pentadbir lain organisasi ini juga boleh mengurusnya.",
+  "settings.integrations.kit.noOrgBlog": "Organisasi ini belum mempunyai blog. Kit bersambung ke senarai mel sesebuah blog.",
   "settings.apiKeys.title": "Kunci API",
   "settings.apiKeys.description": "Kunci API membolehkan aplikasi pihak ketiga mengakses data Literary Universe anda bagi pihak anda. Layan ia seperti kata laluan dan jangan sekali-kali berkongsinya.",
   "settings.apiKeys.noKeys": "Anda belum mempunyai sebarang kunci API.",

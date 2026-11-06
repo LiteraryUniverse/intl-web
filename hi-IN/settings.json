@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "इस ब्लॉग की मेलिंग लिस्ट बंद है।",
   "settings.integrations.kit.unavailable": "Kit अभी कनेक्ट नहीं हो सकता।",
   "settings.integrations.kit.noBlogs": "आप अभी कोई ब्लॉग नहीं चलाते। Kit ब्लॉग की मेलिंग लिस्ट से कनेक्ट होता है।",
+  "settings.integrations.orgIntro": "इस संगठन को उन सेवाओं से जोड़ें जिनका यह पहले से उपयोग करता है। यहाँ बनाए गए कनेक्शन संगठन के होते हैं, और इसके अन्य प्रशासक भी उन्हें प्रबंधित कर सकते हैं।",
+  "settings.integrations.kit.noOrgBlog": "इस संगठन का अभी कोई ब्लॉग नहीं है। Kit ब्लॉग की मेलिंग लिस्ट से कनेक्ट होता है।",
   "settings.apiKeys.title": "API कुंजियाँ",
   "settings.apiKeys.description": "API कुंजियाँ तृतीय-पक्ष एप्लिकेशन को आपकी ओर से आपके Literary Universe डेटा तक पहुँचने देती हैं। इन्हें पासवर्ड की तरह सँभालें और कभी साझा न करें।",
   "settings.apiKeys.noKeys": "आपके पास अभी कोई API कुंजी नहीं है।",

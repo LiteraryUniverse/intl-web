@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "La mailing list di questo blog è disattivata.",
   "settings.integrations.kit.unavailable": "Al momento non è possibile collegare Kit.",
   "settings.integrations.kit.noBlogs": "Non gestisci ancora un blog. Kit si collega alla mailing list di un blog.",
+  "settings.integrations.orgIntro": "Collega questa organizzazione ai servizi che usa già. I collegamenti creati qui appartengono all'organizzazione e possono gestirli anche i suoi altri amministratori.",
+  "settings.integrations.kit.noOrgBlog": "Questa organizzazione non ha ancora un blog. Kit si collega alla mailing list di un blog.",
   "settings.apiKeys.title": "Chiavi API",
   "settings.apiKeys.description": "Le chiavi API consentono alle applicazioni di terze parti di accedere ai dati del suo Literary Universe per suo conto. Le tratti come password e non le condivida mai.",
   "settings.apiKeys.noKeys": "Non ha ancora nessuna chiave API.",

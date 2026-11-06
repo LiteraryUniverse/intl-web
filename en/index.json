@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "The mailing list on this blog is off.",
   "settings.integrations.kit.unavailable": "Kit can't be connected right now.",
   "settings.integrations.kit.noBlogs": "You don't run a blog yet. Kit connects to a blog's mailing list.",
+  "settings.integrations.orgIntro": "Connect this organization to services it already uses. Connections made here belong to the organization, and its other admins can manage them too.",
+  "settings.integrations.kit.noOrgBlog": "This organization has no blog yet. Kit connects to a blog's mailing list.",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

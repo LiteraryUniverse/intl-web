@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Lista de corespondență a acestui blog este dezactivată.",
   "settings.integrations.kit.unavailable": "Kit nu poate fi conectat acum.",
   "settings.integrations.kit.noBlogs": "Încă nu gestionezi niciun blog. Kit se conectează la lista de corespondență a unui blog.",
+  "settings.integrations.orgIntro": "Conectează această organizație la servicii pe care le folosește deja. Conexiunile făcute aici aparțin organizației, iar ceilalți administratori ai săi le pot gestiona și ei.",
+  "settings.integrations.kit.noOrgBlog": "Această organizație nu are încă un blog. Kit se conectează la lista de corespondență a unui blog.",
   "settings.apiKeys.title": "Chei API",
   "settings.apiKeys.description": "Cheile API permit aplicațiilor terțe să acceseze datele Universului Literar în numele dvs. Tratați-le precum parolele și nu le partajați niciodată.",
   "settings.apiKeys.noKeys": "Nu aveți încă nicio cheie API.",

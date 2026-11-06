@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Milis di blog ini nonaktif.",
   "settings.integrations.kit.unavailable": "Kit tidak dapat dihubungkan saat ini.",
   "settings.integrations.kit.noBlogs": "Anda belum mengelola blog. Kit terhubung ke milis sebuah blog.",
+  "settings.integrations.orgIntro": "Hubungkan organisasi ini dengan layanan yang sudah digunakannya. Koneksi yang dibuat di sini dimiliki oleh organisasi, dan admin lain organisasi ini juga dapat mengelolanya.",
+  "settings.integrations.kit.noOrgBlog": "Organisasi ini belum memiliki blog. Kit terhubung ke milis sebuah blog.",
   "settings.apiKeys.title": "Kunci API",
   "settings.apiKeys.description": "Kunci API memungkinkan aplikasi pihak ketiga untuk mengakses data Literary Universe atas nama Anda. Perlakukan kunci API seperti kata sandi dan jangan pernah membagikannya.",
   "settings.apiKeys.noKeys": "Anda belum memiliki kunci API apa pun.",

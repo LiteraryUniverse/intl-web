@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Zoznam adresátov tohto blogu je vypnutý.",
   "settings.integrations.kit.unavailable": "Kit sa momentálne nedá pripojiť.",
   "settings.integrations.kit.noBlogs": "Zatiaľ nespravujete žiadny blog. Kit sa pripája k zoznamu adresátov blogu.",
+  "settings.integrations.orgIntro": "Prepojte túto organizáciu so službami, ktoré už používa. Prepojenia vytvorené tu patria organizácii a môžu ich spravovať aj jej ďalší správcovia.",
+  "settings.integrations.kit.noOrgBlog": "Táto organizácia zatiaľ nemá blog. Kit sa pripája k zoznamu adresátov blogu.",
   "settings.apiKeys.title": "Kľúče API",
   "settings.apiKeys.description": "Kľúče API umožňujú aplikáciám tretích strán pristupovať k údajom v službe Literary Universe vo vašom mene. Zaobchádzajte s nimi ako s heslami a nikdy ich nezdieľajte.",
   "settings.apiKeys.noKeys": "Zatiaľ nemáte žiadne kľúče API.",

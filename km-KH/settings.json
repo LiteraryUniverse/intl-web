@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "បញ្ជីអ៊ីមែលនៅលើប្លុកនេះត្រូវបានបិទ។",
   "settings.integrations.kit.unavailable": "មិនអាចភ្ជាប់ Kit បានទេនៅពេលនេះ។",
   "settings.integrations.kit.noBlogs": "អ្នកមិនទាន់គ្រប់គ្រងប្លុកណាមួយនៅឡើយទេ។ Kit ភ្ជាប់ទៅបញ្ជីអ៊ីមែលរបស់ប្លុក។",
+  "settings.integrations.orgIntro": "ភ្ជាប់អង្គការនេះទៅសេវាកម្មដែលវាកំពុងប្រើរួចហើយ។ ការតភ្ជាប់ដែលបានបង្កើតនៅទីនេះជាកម្មសិទ្ធិរបស់អង្គការ ហើយអ្នកគ្រប់គ្រងផ្សេងទៀតរបស់អង្គការក៏អាចគ្រប់គ្រងវាបានដែរ។",
+  "settings.integrations.kit.noOrgBlog": "អង្គការនេះមិនទាន់មានប្លុកនៅឡើយទេ។ Kit ភ្ជាប់ទៅបញ្ជីអ៊ីមែលរបស់ប្លុក។",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

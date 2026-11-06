@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "القائمة البريدية لهذه المدونة متوقفة.",
   "settings.integrations.kit.unavailable": "يتعذّر ربط Kit الآن.",
   "settings.integrations.kit.noBlogs": "لا تدير أي مدونة حتى الآن. يرتبط Kit بالقائمة البريدية لمدونة.",
+  "settings.integrations.orgIntro": "اربط هذه المؤسسة بخدمات تستخدمها بالفعل. تنتمي الارتباطات التي تُنشأ هنا إلى المؤسسة، ويمكن لمسؤوليها الآخرين إدارتها أيضًا.",
+  "settings.integrations.kit.noOrgBlog": "لا تملك هذه المؤسسة مدونة حتى الآن. يرتبط Kit بالقائمة البريدية لمدونة.",
   "settings.apiKeys.title": "مفاتيح واجهة برمجة التطبيقات",
   "settings.apiKeys.description": "تسمح مفاتيح واجهة برمجة التطبيقات (API) لتطبيقات الجهات الخارجية بالوصول إلى بياناتك الأدبية في الكون الأدبي نيابةً عنك. تعامل معها مثل كلمات المرور ولا تشاركها أبدًا.",
   "settings.apiKeys.noKeys": "ليس لديك أي مفاتيح API حتى الآن.",

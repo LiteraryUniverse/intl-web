@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "यो ब्लगको मेलिङ लिस्ट बन्द छ।",
   "settings.integrations.kit.unavailable": "अहिले Kit जोड्न सकिँदैन।",
   "settings.integrations.kit.noBlogs": "तपाईंले अहिलेसम्म कुनै ब्लग चलाउनुभएको छैन। Kit ब्लगको मेलिङ लिस्टसँग जोडिन्छ।",
+  "settings.integrations.orgIntro": "यो संस्थालाई यसले पहिल्यै प्रयोग गरिरहेका सेवाहरूसँग जोड्नुहोस्। यहाँ बनाइएका जडानहरू संस्थाका हुन्छन्, र यसका अन्य प्रशासकहरूले पनि तिनलाई व्यवस्थापन गर्न सक्छन्।",
+  "settings.integrations.kit.noOrgBlog": "यो संस्थाको अहिलेसम्म कुनै ब्लग छैन। Kit ब्लगको मेलिङ लिस्टसँग जोडिन्छ।",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

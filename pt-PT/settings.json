@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "A lista de correio deste blogue está desativada.",
   "settings.integrations.kit.unavailable": "Não é possível ligar o Kit neste momento.",
   "settings.integrations.kit.noBlogs": "Ainda não gere nenhum blogue. O Kit liga-se à lista de correio de um blogue.",
+  "settings.integrations.orgIntro": "Ligue esta organização a serviços que ela já utiliza. As ligações feitas aqui pertencem à organização, e os restantes administradores também as podem gerir.",
+  "settings.integrations.kit.noOrgBlog": "Esta organização ainda não tem um blogue. O Kit liga-se à lista de correio de um blogue.",
   "settings.apiKeys.title": "Chaves da API",
   "settings.apiKeys.description": "As chaves API permitem que aplicações de terceiros acedam aos seus dados do Universo Literário em seu nome. Trate-as como senhas e nunca as partilhe.",
   "settings.apiKeys.noKeys": "Ainda não tem nenhuma chave API.",

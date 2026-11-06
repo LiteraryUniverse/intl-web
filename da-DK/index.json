@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Mailinglisten på denne blog er slået fra.",
   "settings.integrations.kit.unavailable": "Kit kan ikke forbindes lige nu.",
   "settings.integrations.kit.noBlogs": "Du har ikke en blog endnu. Kit forbindes med en blogs mailingliste.",
+  "settings.integrations.orgIntro": "Forbind denne organisation med tjenester, den allerede bruger. Forbindelser, der oprettes her, hører til organisationen, og dens andre administratorer kan også administrere dem.",
+  "settings.integrations.kit.noOrgBlog": "Denne organisation har ikke en blog endnu. Kit forbindes med en blogs mailingliste.",
   "settings.apiKeys.title": "API-nøgler",
   "settings.apiKeys.description": "API-nøgler giver tredjepartsapplikationer adgang til dine Literary Universe-data på dine vegne. Behandl dem som adgangskoder, og del dem aldrig.",
   "settings.apiKeys.noKeys": "Du har ikke nogen API-nøgler endnu.",

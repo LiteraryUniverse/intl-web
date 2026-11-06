@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Danh sách gửi thư của blog này đang tắt.",
   "settings.integrations.kit.unavailable": "Hiện không thể kết nối Kit.",
   "settings.integrations.kit.noBlogs": "Bạn chưa quản lý blog nào. Kit kết nối với danh sách gửi thư của một blog.",
+  "settings.integrations.orgIntro": "Kết nối tổ chức này với các dịch vụ mà tổ chức đang dùng. Các kết nối tạo tại đây thuộc về tổ chức, và các quản trị viên khác của tổ chức cũng có thể quản lý chúng.",
+  "settings.integrations.kit.noOrgBlog": "Tổ chức này chưa có blog. Kit kết nối với danh sách gửi thư của một blog.",
   "settings.apiKeys.title": "Khóa API",
   "settings.apiKeys.description": "API keys cho phép các ứng dụng của bên thứ ba truy cập dữ liệu Literary Universe của bạn thay mặt bạn. Hãy coi chúng như mật khẩu và tuyệt đối không chia sẻ chúng.",
   "settings.apiKeys.noKeys": "Bạn chưa có bất kỳ khóa API nào.",

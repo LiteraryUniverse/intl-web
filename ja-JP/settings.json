@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "このブログのメーリングリストはオフになっています。",
   "settings.integrations.kit.unavailable": "現在Kitに接続できません。",
   "settings.integrations.kit.noBlogs": "まだブログを運営していません。Kitはブログのメーリングリストに接続します。",
+  "settings.integrations.orgIntro": "この組織を、組織がすでに使っているサービスに接続します。ここで作成した接続は組織に紐づき、組織のほかの管理者も管理できます。",
+  "settings.integrations.kit.noOrgBlog": "この組織にはまだブログがありません。Kitはブログのメーリングリストに接続します。",
   "settings.apiKeys.title": "APIキー",
   "settings.apiKeys.description": "APIキーは、サードパーティアプリケーションがあなたの代わりにリテラリーユニバースのデータにアクセスすることを可能にします。パスワードのように扱い、決して共有しないでください。",
   "settings.apiKeys.noKeys": "まだAPIキーをお持ちではありません。",

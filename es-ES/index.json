@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "La lista de correo de este blog está desactivada.",
   "settings.integrations.kit.unavailable": "Ahora mismo no se puede conectar Kit.",
   "settings.integrations.kit.noBlogs": "Aún no gestionas ningún blog. Kit se conecta a la lista de correo de un blog.",
+  "settings.integrations.orgIntro": "Conecta esta organización con los servicios que ya usa. Las conexiones que se hacen aquí pertenecen a la organización, y sus demás administradores también pueden gestionarlas.",
+  "settings.integrations.kit.noOrgBlog": "Esta organización aún no tiene ningún blog. Kit se conecta a la lista de correo de un blog.",
   "settings.apiKeys.title": "Claves API",
   "settings.apiKeys.description": "Las claves API permiten a las aplicaciones de terceros acceder a los datos de su Universo Literario en su nombre. Trátelas como contraseñas y no las comparta nunca.",
   "settings.apiKeys.noKeys": "Aún no tiene claves API.",

@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "此部落格的郵寄名單已關閉。",
   "settings.integrations.kit.unavailable": "目前無法連結 Kit。",
   "settings.integrations.kit.noBlogs": "你還沒有經營任何部落格。Kit 會連結到部落格的郵寄名單。",
+  "settings.integrations.orgIntro": "將這個組織連結到它已在使用的服務。在這裡建立的連線屬於組織，組織的其他管理員也能管理。",
+  "settings.integrations.kit.noOrgBlog": "這個組織還沒有部落格。Kit 會連結到部落格的郵寄名單。",
   "settings.apiKeys.title": "API 金鑰",
   "settings.apiKeys.description": "API 金鑰允許第三方應用程式代表您存取您的 Literary Universe 資料。請像對待密碼一樣對待它們，切勿共用。",
   "settings.apiKeys.noKeys": "您還沒有任何 API 金鑰。",

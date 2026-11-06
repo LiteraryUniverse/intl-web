@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "이 블로그의 메일링 리스트가 꺼져 있습니다.",
   "settings.integrations.kit.unavailable": "지금은 Kit를 연결할 수 없습니다.",
   "settings.integrations.kit.noBlogs": "아직 운영하는 블로그가 없습니다. Kit는 블로그의 메일링 리스트에 연결됩니다.",
+  "settings.integrations.orgIntro": "이 조직을 조직에서 이미 사용 중인 서비스와 연결하세요. 여기에서 만든 연결은 조직에 속하며, 조직의 다른 관리자도 관리할 수 있습니다.",
+  "settings.integrations.kit.noOrgBlog": "이 조직에는 아직 블로그가 없습니다. Kit는 블로그의 메일링 리스트에 연결됩니다.",
   "settings.apiKeys.title": "API 키",
   "settings.apiKeys.description": "API 키를 사용하면 타사 애플리케이션이 회원님을 대신하여 회원님의 문학 세계 데이터에 액세스할 수 있습니다. 비밀번호처럼 취급하고 절대 공유하지 마세요.",
   "settings.apiKeys.noKeys": "아직 API 키가 없습니다.",

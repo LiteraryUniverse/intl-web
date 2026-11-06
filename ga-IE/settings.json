@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Tá liosta seoltaí an bhlag seo múchta.",
   "settings.integrations.kit.unavailable": "Ní féidir Kit a cheangal faoi láthair.",
   "settings.integrations.kit.noBlogs": "Níl blag á reáchtáil agat fós. Ceanglaíonn Kit le liosta seoltaí blag.",
+  "settings.integrations.orgIntro": "Ceangail an eagraíocht seo le seirbhísí a úsáideann sí cheana. Is leis an eagraíocht na ceangail a dhéantar anseo, agus is féidir lena riarthóirí eile iad a bhainistiú freisin.",
+  "settings.integrations.kit.noOrgBlog": "Níl blag ag an eagraíocht seo fós. Ceanglaíonn Kit le liosta seoltaí blag.",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

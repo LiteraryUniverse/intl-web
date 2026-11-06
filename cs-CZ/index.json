@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Odběr tohoto blogu je vypnutý.",
   "settings.integrations.kit.unavailable": "Kit teď nelze propojit.",
   "settings.integrations.kit.noBlogs": "Zatím nespravujete žádný blog. Kit se propojuje s odběrem blogu.",
+  "settings.integrations.orgIntro": "Propojte tuto organizaci se službami, které už používá. Propojení vytvořená zde patří organizaci a mohou je spravovat i její další správci.",
+  "settings.integrations.kit.noOrgBlog": "Tato organizace zatím nemá blog. Kit se propojuje s odběrem blogu.",
   "settings.apiKeys.title": "Klíče API",
   "settings.apiKeys.description": "Klíče API umožňují aplikacím třetích stran přistupovat vaším jménem k datům služby Literary Universe. Zacházejte s nimi jako s hesly a nikdy je nesdílejte.",
   "settings.apiKeys.noKeys": "Zatím nemáte žádné klíče API.",

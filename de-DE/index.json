@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "Die Mailingliste dieses Blogs ist ausgeschaltet.",
   "settings.integrations.kit.unavailable": "Kit kann gerade nicht verbunden werden.",
   "settings.integrations.kit.noBlogs": "Du betreibst noch keinen Blog. Kit wird mit der Mailingliste eines Blogs verbunden.",
+  "settings.integrations.orgIntro": "Verbinde diese Organisation mit Diensten, die sie schon nutzt. Hier eingerichtete Verbindungen gehören zur Organisation, und auch ihre anderen Administratoren können sie verwalten.",
+  "settings.integrations.kit.noOrgBlog": "Diese Organisation hat noch keinen Blog. Kit wird mit der Mailingliste eines Blogs verbunden.",
   "settings.apiKeys.title": "API-Schlüssel",
   "settings.apiKeys.description": "API-Schlüssel ermöglichen Anwendungen von Drittanbietern den Zugriff auf Ihre Literary Universe-Daten in Ihrem Namen. Behandeln Sie sie wie Passwörter und geben Sie sie niemals weiter.",
   "settings.apiKeys.noKeys": "Sie haben noch keine API-Schlüssel.",

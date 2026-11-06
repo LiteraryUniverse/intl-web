@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Selle blogi postiloend on välja lülitatud.",
   "settings.integrations.kit.unavailable": "Kiti ei saa praegu ühendada.",
   "settings.integrations.kit.noBlogs": "Sul pole veel blogi. Kit ühendub blogi postiloendiga.",
+  "settings.integrations.orgIntro": "Ühenda see organisatsioon teenustega, mida see juba kasutab. Siin loodud ühendused kuuluvad organisatsioonile ja ka selle teised administraatorid saavad neid hallata.",
+  "settings.integrations.kit.noOrgBlog": "Sellel organisatsioonil pole veel blogi. Kit ühendub blogi postiloendiga.",
   "settings.apiKeys.title": "API võtmed",
   "settings.apiKeys.description": "API-võtmed võimaldavad kolmandate osapoolte rakendustele teie nimel juurdepääsu teie Literary Universe'i andmetele. Käsitlege neid nagu paroole ja ärge kunagi jagage neid.",
   "settings.apiKeys.noKeys": "Teil ei ole veel ühtegi API võtit.",

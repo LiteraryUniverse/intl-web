@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "De mailinglijst van deze blog staat uit.",
   "settings.integrations.kit.unavailable": "Kit kan op dit moment niet worden gekoppeld.",
   "settings.integrations.kit.noBlogs": "Je beheert nog geen blog. Kit wordt gekoppeld aan de mailinglijst van een blog.",
+  "settings.integrations.orgIntro": "Koppel deze organisatie aan diensten die ze al gebruikt. Koppelingen die hier worden gemaakt, horen bij de organisatie, en haar andere beheerders kunnen ze ook beheren.",
+  "settings.integrations.kit.noOrgBlog": "Deze organisatie heeft nog geen blog. Kit wordt gekoppeld aan de mailinglijst van een blog.",
   "settings.apiKeys.title": "API-sleutels",
   "settings.apiKeys.description": "API-sleutels geven toepassingen van derden namens u toegang tot uw Literary Universe-gegevens. Behandel ze als wachtwoorden en deel ze nooit.",
   "settings.apiKeys.noKeys": "U hebt nog geen API-sleutels.",

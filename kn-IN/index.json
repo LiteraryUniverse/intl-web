@@ -6117,6 +6117,8 @@
   "settings.integrations.kit.listOff": "ಈ ಬ್ಲಾಗ್‌ನ ಮೇಲಿಂಗ್ ಪಟ್ಟಿ ಆಫ್ ಆಗಿದೆ.",
   "settings.integrations.kit.unavailable": "ಈಗ Kit ಅನ್ನು ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
   "settings.integrations.kit.noBlogs": "ನೀವು ಇನ್ನೂ ಯಾವುದೇ ಬ್ಲಾಗ್ ನಡೆಸುತ್ತಿಲ್ಲ. Kit ಬ್ಲಾಗ್‌ನ ಮೇಲಿಂಗ್ ಪಟ್ಟಿಗೆ ಸಂಪರ್ಕಗೊಳ್ಳುತ್ತದೆ.",
+  "settings.integrations.orgIntro": "ಈ ಸಂಸ್ಥೆಯನ್ನು ಅದು ಈಗಾಗಲೇ ಬಳಸುತ್ತಿರುವ ಸೇವೆಗಳಿಗೆ ಸಂಪರ್ಕಿಸಿ. ಇಲ್ಲಿ ಮಾಡಿದ ಸಂಪರ್ಕಗಳು ಸಂಸ್ಥೆಗೆ ಸೇರಿರುತ್ತವೆ, ಮತ್ತು ಅದರ ಇತರ ನಿರ್ವಾಹಕರೂ ಅವುಗಳನ್ನು ನಿರ್ವಹಿಸಬಹುದು.",
+  "settings.integrations.kit.noOrgBlog": "ಈ ಸಂಸ್ಥೆಗೆ ಇನ್ನೂ ಯಾವುದೇ ಬ್ಲಾಗ್ ಇಲ್ಲ. Kit ಬ್ಲಾಗ್‌ನ ಮೇಲಿಂಗ್ ಪಟ್ಟಿಗೆ ಸಂಪರ್ಕಗೊಳ್ಳುತ್ತದೆ.",
   "settings.apiKeys.title": "API Keys",
   "settings.apiKeys.description": "API keys allow third-party applications to access your Literary Universe data on your behalf. Treat them like passwords and never share them.",
   "settings.apiKeys.noKeys": "You don't have any API keys yet.",

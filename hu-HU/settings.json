@@ -138,6 +138,8 @@
   "settings.integrations.kit.listOff": "Ezen a blogon ki van kapcsolva a levelezőlista.",
   "settings.integrations.kit.unavailable": "A Kit most nem csatlakoztatható.",
   "settings.integrations.kit.noBlogs": "Még nem vezetsz blogot. A Kit egy blog levelezőlistájához csatlakozik.",
+  "settings.integrations.orgIntro": "Kapcsold össze ezt a szervezetet a már használt szolgáltatásaival. Az itt létrehozott kapcsolatok a szervezethez tartoznak, és a többi adminisztrátora is kezelheti őket.",
+  "settings.integrations.kit.noOrgBlog": "Ennek a szervezetnek még nincs blogja. A Kit egy blog levelezőlistájához csatlakozik.",
   "settings.apiKeys.title": "API kulcsok",
   "settings.apiKeys.description": "Az API-kulcsok lehetővé teszik harmadik fél alkalmazások számára, hogy az Ön nevében hozzáférjenek az Ön Literary Universe adataihoz. Kezelje őket jelszóként, és soha ne ossza meg őket.",
   "settings.apiKeys.noKeys": "Még nincs API-kulcsa.",
