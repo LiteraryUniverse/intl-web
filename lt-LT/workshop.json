@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Failo nepavyko perskaityti kaip teksto.",
   "workshop.documents.error.tooLarge": "Failas didesnis nei įkėlimo riba.",
   "workshop.documents.error.format": "Naudokite Word, Markdown, tekstinį arba HTML failą.",
-  "workshop.documents.error.unknown": "Kažkas nepavyko. Bandykite dar kartą."
+  "workshop.documents.error.unknown": "Kažkas nepavyko. Bandykite dar kartą.",
+  "workshop.ai.chat.noMessagesEntry": "Pradėkite pokalbį apie šį įrašą. Asistentas gali skaityti enciklopediją, istorijas ir dokumentus.",
+  "workshop.ai.chat.noMessagesUniverse": "Pradėkite pokalbį apie šią visatą. Asistentas gali skaityti jos užrašus, enciklopediją, istorijas ir dokumentus."
 }

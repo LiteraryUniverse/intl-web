@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Eher schwer",
   "readingDifficulty.band.difficult": "Schwer",
   "readingDifficulty.band.veryDifficult": "Sehr schwer",
-  "common.cookiePreferences": "Cookie-Einstellungen"
+  "common.cookiePreferences": "Cookie-Einstellungen",
+  "universe.cover.alt": "Titelbild für das Universum {universe}.",
+  "common.delete": "Löschen"
 }

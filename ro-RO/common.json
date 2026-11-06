@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Destul de ridicată",
   "readingDifficulty.band.difficult": "Ridicată",
   "readingDifficulty.band.veryDifficult": "Foarte ridicată",
-  "common.cookiePreferences": "Preferințe pentru cookie-uri"
+  "common.cookiePreferences": "Preferințe pentru cookie-uri",
+  "universe.cover.alt": "Imaginea de copertă a universului {universe}.",
+  "common.delete": "Ștergeți"
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "ਫ਼ਾਈਲ ਨੂੰ ਟੈਕਸਟ ਵਜੋਂ ਪੜ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।",
   "workshop.documents.error.tooLarge": "ਫ਼ਾਈਲ ਅੱਪਲੋਡ ਦੀ ਹੱਦ ਤੋਂ ਵੱਡੀ ਹੈ।",
   "workshop.documents.error.format": "Word, Markdown, ਟੈਕਸਟ ਜਾਂ HTML ਫ਼ਾਈਲ ਵਰਤੋ।",
-  "workshop.documents.error.unknown": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  "workshop.documents.error.unknown": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+  "workshop.ai.chat.noMessagesEntry": "ਇਸ ਇੰਦਰਾਜ਼ ਬਾਰੇ ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ। ਸਹਾਇਕ ਵਿਸ਼ਵਕੋਸ਼, ਕਹਾਣੀਆਂ ਅਤੇ ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹ ਸਕਦਾ ਹੈ।",
+  "workshop.ai.chat.noMessagesUniverse": "ਇਸ ਬ੍ਰਹਿਮੰਡ ਬਾਰੇ ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ। ਸਹਾਇਕ ਇਸ ਦੇ ਨੋਟਸ, ਵਿਸ਼ਵਕੋਸ਼, ਕਹਾਣੀਆਂ ਅਤੇ ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹ ਸਕਦਾ ਹੈ।"
 }

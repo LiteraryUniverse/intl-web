@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fanclub",
   "stats.blog.location.contact": "Contact",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "Aantal tekens per hoofdstuk",
+  "stats.chapter.chartTooltipCharacterCount": "Hoofdstuk {chapter, number}: {characterCount, number} tekens"
 }

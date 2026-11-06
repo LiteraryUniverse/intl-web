@@ -1286,5 +1286,6 @@
   "workshop.documents.error.tooLarge": "The file is larger than the upload limit.",
   "workshop.documents.error.format": "Use a Word, Markdown, text or HTML file.",
   "workshop.documents.error.unknown": "Something went wrong. Please try again.",
-  "workshop.documents.leave": "Leave without saving? Your changes to this document will be lost."
+  "workshop.ai.chat.noMessagesEntry": "Start a conversation about this entry. The assistant can read the encyclopedia, stories and documents.",
+  "workshop.ai.chat.noMessagesUniverse": "Start a conversation about this universe. The assistant can read its notes, encyclopedia, stories and documents."
 }

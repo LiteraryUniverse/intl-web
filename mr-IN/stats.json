@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "मंच",
   "stats.blog.location.fanClub": "फॅन क्लब",
   "stats.blog.location.contact": "संपर्क",
-  "stats.blog.location.faq": "नेहमी विचारले जाणारे प्रश्न"
+  "stats.blog.location.faq": "नेहमी विचारले जाणारे प्रश्न",
+  "stats.chapter.characterCount": "प्रत्येक प्रकरणातील अक्षरांची संख्या",
+  "stats.chapter.chartTooltipCharacterCount": "प्रकरण {chapter, number}: {characterCount, number} अक्षरे"
 }

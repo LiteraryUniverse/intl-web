@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "No s'ha pogut llegir el fitxer com a text.",
   "workshop.documents.error.tooLarge": "El fitxer supera el límit de pujada.",
   "workshop.documents.error.format": "Fes servir un fitxer de Word, Markdown, text o HTML.",
-  "workshop.documents.error.unknown": "Alguna cosa ha anat malament. Torna-ho a provar."
+  "workshop.documents.error.unknown": "Alguna cosa ha anat malament. Torna-ho a provar.",
+  "workshop.ai.chat.noMessagesEntry": "Inicia una conversa sobre aquesta entrada. L’assistent pot llegir l’enciclopèdia, les històries i els documents.",
+  "workshop.ai.chat.noMessagesUniverse": "Inicia una conversa sobre aquest univers. L’assistent pot llegir-ne les notes, l’enciclopèdia, les històries i els documents."
 }

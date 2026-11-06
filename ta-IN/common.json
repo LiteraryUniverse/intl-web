@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "ஓரளவு கடினம்",
   "readingDifficulty.band.difficult": "கடினம்",
   "readingDifficulty.band.veryDifficult": "மிகக் கடினம்",
-  "common.cookiePreferences": "குக்கீ விருப்பங்கள்"
+  "common.cookiePreferences": "குக்கீ விருப்பங்கள்",
+  "universe.cover.alt": "{universe} பிரபஞ்சத்தின் அட்டைப் படம்.",
+  "common.delete": "Delete"
 }

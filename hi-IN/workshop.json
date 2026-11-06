@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "फ़ाइल को टेक्स्ट के रूप में पढ़ा नहीं जा सका।",
   "workshop.documents.error.tooLarge": "फ़ाइल अपलोड की सीमा से बड़ी है।",
   "workshop.documents.error.format": "Word, Markdown, टेक्स्ट या HTML फ़ाइल का उपयोग करें।",
-  "workshop.documents.error.unknown": "कुछ गड़बड़ हो गई। कृपया फिर कोशिश करें।"
+  "workshop.documents.error.unknown": "कुछ गड़बड़ हो गई। कृपया फिर कोशिश करें।",
+  "workshop.ai.chat.noMessagesEntry": "इस प्रविष्टि के बारे में बातचीत शुरू करें। सहायक विश्वकोश, कहानियाँ और दस्तावेज़ पढ़ सकता है।",
+  "workshop.ai.chat.noMessagesUniverse": "इस ब्रह्मांड के बारे में बातचीत शुरू करें। सहायक इसके नोट्स, विश्वकोश, कहानियाँ और दस्तावेज़ पढ़ सकता है।"
 }

@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fan Club",
   "stats.blog.location.contact": "Makipag-ugnayan",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "Bilang ng mga karakter bawat kabanata",
+  "stats.chapter.chartTooltipCharacterCount": "Kabanata {chapter, number}: {characterCount, number} karakter"
 }

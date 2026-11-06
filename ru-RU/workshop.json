@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Не удалось прочитать файл как текст.",
   "workshop.documents.error.tooLarge": "Файл больше лимита загрузки.",
   "workshop.documents.error.format": "Используйте файл Word, Markdown, текстовый или HTML.",
-  "workshop.documents.error.unknown": "Что-то пошло не так. Попробуйте ещё раз."
+  "workshop.documents.error.unknown": "Что-то пошло не так. Попробуйте ещё раз.",
+  "workshop.ai.chat.noMessagesEntry": "Начните разговор об этой записи. Ассистент может читать энциклопедию, истории и документы.",
+  "workshop.ai.chat.noMessagesUniverse": "Начните разговор об этой вселенной. Ассистент может читать её заметки, энциклопедию, истории и документы."
 }

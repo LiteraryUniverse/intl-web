@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "المنتدى",
   "stats.blog.location.fanClub": "نادي المعجبين",
   "stats.blog.location.contact": "اتصل بنا",
-  "stats.blog.location.faq": "الأسئلة الشائعة"
+  "stats.blog.location.faq": "الأسئلة الشائعة",
+  "stats.chapter.characterCount": "عدد الأحرف في كل فصل",
+  "stats.chapter.chartTooltipCharacterCount": "الفصل {chapter, number}: {characterCount, number} حرفًا"
 }

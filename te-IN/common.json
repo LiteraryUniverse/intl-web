@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "కొంత కఠినం",
   "readingDifficulty.band.difficult": "కఠినం",
   "readingDifficulty.band.veryDifficult": "చాలా కఠినం",
-  "common.cookiePreferences": "కుకీ ప్రాధాన్యతలు"
+  "common.cookiePreferences": "కుకీ ప్రాధాన్యతలు",
+  "universe.cover.alt": "{universe} విశ్వం ముఖచిత్రం.",
+  "common.delete": "Delete"
 }

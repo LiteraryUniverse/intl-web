@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "やや難しい",
   "readingDifficulty.band.difficult": "難しい",
   "readingDifficulty.band.veryDifficult": "とても難しい",
-  "common.cookiePreferences": "クッキー設定"
+  "common.cookiePreferences": "クッキー設定",
+  "universe.cover.alt": "世界「{universe}」の表紙画像。",
+  "common.delete": "削除"
 }

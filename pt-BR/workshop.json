@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Não foi possível ler o arquivo como texto.",
   "workshop.documents.error.tooLarge": "O arquivo é maior que o limite de envio.",
   "workshop.documents.error.format": "Use um arquivo Word, Markdown, de texto ou HTML.",
-  "workshop.documents.error.unknown": "Algo deu errado. Tente novamente."
+  "workshop.documents.error.unknown": "Algo deu errado. Tente novamente.",
+  "workshop.ai.chat.noMessagesEntry": "Inicie uma conversa sobre este verbete. O assistente pode ler a enciclopédia, as histórias e os documentos.",
+  "workshop.ai.chat.noMessagesUniverse": "Inicie uma conversa sobre este universo. O assistente pode ler suas notas, enciclopédia, histórias e documentos."
 }

@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Hayran kulübü",
   "stats.blog.location.contact": "İletişim",
-  "stats.blog.location.faq": "SSS"
+  "stats.blog.location.faq": "SSS",
+  "stats.chapter.characterCount": "Bölüm başına karakter sayısı",
+  "stats.chapter.chartTooltipCharacterCount": "Bölüm {chapter, number}: {characterCount, number} karakter"
 }

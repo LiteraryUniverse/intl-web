@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "ഫോറം",
   "stats.blog.location.fanClub": "ഫാൻ ക്ലബ്",
   "stats.blog.location.contact": "ബന്ധപ്പെടുക",
-  "stats.blog.location.faq": "പതിവ് ചോദ്യങ്ങൾ"
+  "stats.blog.location.faq": "പതിവ് ചോദ്യങ്ങൾ",
+  "stats.chapter.characterCount": "ഓരോ അധ്യായത്തിലുമുള്ള അക്ഷരങ്ങളുടെ എണ്ണം",
+  "stats.chapter.chartTooltipCharacterCount": "അധ്യായം {chapter, number}: {characterCount, number} അക്ഷരങ്ങൾ"
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Filen kunne ikke leses som tekst.",
   "workshop.documents.error.tooLarge": "Filen er større enn opplastingsgrensen.",
   "workshop.documents.error.format": "Bruk en Word-, Markdown-, tekst- eller HTML-fil.",
-  "workshop.documents.error.unknown": "Noe gikk galt. Prøv igjen."
+  "workshop.documents.error.unknown": "Noe gikk galt. Prøv igjen.",
+  "workshop.ai.chat.noMessagesEntry": "Start en samtale om denne oppføringen. Assistenten kan lese leksikonet, historiene og dokumentene.",
+  "workshop.ai.chat.noMessagesUniverse": "Start en samtale om dette universet. Assistenten kan lese notatene, leksikonet, historiene og dokumentene som hører til."
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Die lêer kon nie as teks gelees word nie.",
   "workshop.documents.error.tooLarge": "Die lêer is groter as die oplaaigrens.",
   "workshop.documents.error.format": "Gebruik ’n Word-, Markdown-, teks- of HTML-lêer.",
-  "workshop.documents.error.unknown": "Iets het skeefgeloop. Probeer asseblief weer."
+  "workshop.documents.error.unknown": "Iets het skeefgeloop. Probeer asseblief weer.",
+  "workshop.ai.chat.noMessagesEntry": "Begin 'n gesprek oor hierdie inskrywing. Die assistent kan die ensiklopedie, verhale en dokumente lees.",
+  "workshop.ai.chat.noMessagesUniverse": "Begin 'n gesprek oor hierdie heelal. Die assistent kan die notas, ensiklopedie, verhale en dokumente daarvan lees."
 }

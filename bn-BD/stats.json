@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "ফোরাম",
   "stats.blog.location.fanClub": "ফ্যান ক্লাব",
   "stats.blog.location.contact": "যোগাযোগ",
-  "stats.blog.location.faq": "সচরাচর জিজ্ঞাসা"
+  "stats.blog.location.faq": "সচরাচর জিজ্ঞাসা",
+  "stats.chapter.characterCount": "প্রতি অধ্যায়ে অক্ষরের সংখ্যা",
+  "stats.chapter.chartTooltipCharacterCount": "অধ্যায় {chapter, number}: {characterCount, number} অক্ষর"
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Berkas tidak dapat dibaca sebagai teks.",
   "workshop.documents.error.tooLarge": "Ukuran berkas melebihi batas unggah.",
   "workshop.documents.error.format": "Gunakan berkas Word, Markdown, teks, atau HTML.",
-  "workshop.documents.error.unknown": "Terjadi kesalahan. Silakan coba lagi."
+  "workshop.documents.error.unknown": "Terjadi kesalahan. Silakan coba lagi.",
+  "workshop.ai.chat.noMessagesEntry": "Mulai percakapan tentang entri ini. Asisten dapat membaca ensiklopedia, cerita, dan dokumen.",
+  "workshop.ai.chat.noMessagesUniverse": "Mulai percakapan tentang semesta ini. Asisten dapat membaca catatan, ensiklopedia, cerita, dan dokumennya."
 }

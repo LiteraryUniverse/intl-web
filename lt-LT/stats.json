@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forumas",
   "stats.blog.location.fanClub": "Fanų klubas",
   "stats.blog.location.contact": "Kontaktai",
-  "stats.blog.location.faq": "DUK"
+  "stats.blog.location.faq": "DUK",
+  "stats.chapter.characterCount": "Simbolių skaičius pagal skyrius",
+  "stats.chapter.chartTooltipCharacterCount": "Skyrius {chapter, number}: {characterCount, number} simbolių"
 }

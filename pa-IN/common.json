@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "ਕੁਝ ਔਖਾ",
   "readingDifficulty.band.difficult": "ਔਖਾ",
   "readingDifficulty.band.veryDifficult": "ਬਹੁਤ ਔਖਾ",
-  "common.cookiePreferences": "ਕੂਕੀ ਤਰਜੀਹਾਂ"
+  "common.cookiePreferences": "ਕੂਕੀ ਤਰਜੀਹਾਂ",
+  "universe.cover.alt": "{universe} ਬ੍ਰਹਿਮੰਡ ਦਾ ਮੁੱਖ ਪੰਨੇ ਦਾ ਚਿੱਤਰ।",
+  "common.delete": "Delete"
 }

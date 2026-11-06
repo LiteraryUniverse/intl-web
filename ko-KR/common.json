@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "다소 어려움",
   "readingDifficulty.band.difficult": "어려움",
   "readingDifficulty.band.veryDifficult": "매우 어려움",
-  "common.cookiePreferences": "쿠키 설정"
+  "common.cookiePreferences": "쿠키 설정",
+  "universe.cover.alt": "세계관 {universe}의 표지 이미지.",
+  "common.delete": "삭제"
 }

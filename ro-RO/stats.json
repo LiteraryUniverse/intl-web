@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fan club",
   "stats.blog.location.contact": "Contact",
-  "stats.blog.location.faq": "Întrebări frecvente"
+  "stats.blog.location.faq": "Întrebări frecvente",
+  "stats.chapter.characterCount": "Numărul de caractere pe capitol",
+  "stats.chapter.chartTooltipCharacterCount": "Capitolul {chapter, number}: {characterCount, number} caractere"
 }

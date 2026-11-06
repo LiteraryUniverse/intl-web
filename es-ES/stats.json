@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Foro",
   "stats.blog.location.fanClub": "Club de fans",
   "stats.blog.location.contact": "Contacto",
-  "stats.blog.location.faq": "Preguntas frecuentes"
+  "stats.blog.location.faq": "Preguntas frecuentes",
+  "stats.chapter.characterCount": "Número de caracteres por capítulo",
+  "stats.chapter.chartTooltipCharacterCount": "Capítulo {chapter, number}: {characterCount, number} caracteres"
 }

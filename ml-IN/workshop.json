@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "ഫയൽ ടെക്സ്റ്റായി വായിക്കാനായില്ല.",
   "workshop.documents.error.tooLarge": "ഫയൽ അപ്‌ലോഡ് പരിധിയേക്കാൾ വലുതാണ്.",
   "workshop.documents.error.format": "Word, Markdown, ടെക്സ്റ്റ് അല്ലെങ്കിൽ HTML ഫയൽ ഉപയോഗിക്കുക.",
-  "workshop.documents.error.unknown": "എന്തോ കുഴപ്പം സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+  "workshop.documents.error.unknown": "എന്തോ കുഴപ്പം സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക.",
+  "workshop.ai.chat.noMessagesEntry": "ഈ എൻട്രിയെക്കുറിച്ച് സംഭാഷണം ആരംഭിക്കുക. സഹായിക്ക് വിജ്ഞാനകോശവും കഥകളും രേഖകളും വായിക്കാനാകും.",
+  "workshop.ai.chat.noMessagesUniverse": "ഈ പ്രപഞ്ചത്തെക്കുറിച്ച് സംഭാഷണം ആരംഭിക്കുക. സഹായിക്ക് അതിന്റെ കുറിപ്പുകളും വിജ്ഞാനകോശവും കഥകളും രേഖകളും വായിക്കാനാകും."
 }

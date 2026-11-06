@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "A fájlt nem lehetett szövegként beolvasni.",
   "workshop.documents.error.tooLarge": "A fájl nagyobb a feltöltési korlátnál.",
   "workshop.documents.error.format": "Használj Word-, Markdown-, szöveges vagy HTML-fájlt.",
-  "workshop.documents.error.unknown": "Valami elromlott. Próbáld újra."
+  "workshop.documents.error.unknown": "Valami elromlott. Próbáld újra.",
+  "workshop.ai.chat.noMessagesEntry": "Kezdj beszélgetést erről a bejegyzésről. Az asszisztens elolvashatja az enciklopédiát, a történeteket és a dokumentumokat.",
+  "workshop.ai.chat.noMessagesUniverse": "Kezdj beszélgetést erről az univerzumról. Az asszisztens elolvashatja a jegyzeteit, enciklopédiáját, történeteit és dokumentumait."
 }

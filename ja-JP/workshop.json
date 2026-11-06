@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "ファイルをテキストとして読み取れませんでした。",
   "workshop.documents.error.tooLarge": "ファイルがアップロードの上限を超えています。",
   "workshop.documents.error.format": "Word、Markdown、テキスト、HTML のファイルを使用してください。",
-  "workshop.documents.error.unknown": "問題が発生しました。もう一度お試しください。"
+  "workshop.documents.error.unknown": "問題が発生しました。もう一度お試しください。",
+  "workshop.ai.chat.noMessagesEntry": "この項目について会話を始めましょう。アシスタントは百科事典、物語、文書を読むことができます。",
+  "workshop.ai.chat.noMessagesUniverse": "この世界について会話を始めましょう。アシスタントはそのメモ、百科事典、物語、文書を読むことができます。"
 }

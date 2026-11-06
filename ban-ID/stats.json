@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fan club",
   "stats.blog.location.contact": "Contact",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "Akéh aksara ring soang-soang bab",
+  "stats.chapter.chartTooltipCharacterCount": "Bab {chapter, number}: {characterCount, number} aksara"
 }

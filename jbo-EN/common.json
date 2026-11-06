@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Fairly difficult",
   "readingDifficulty.band.difficult": "Difficult",
   "readingDifficulty.band.veryDifficult": "Very difficult",
-  "common.cookiePreferences": "lo te cuxna pe lo kibro vreji"
+  "common.cookiePreferences": "lo te cuxna pe lo kibro vreji",
+  "universe.cover.alt": "lo crane pixra be lo munje be'o po'u la'o gy. {universe} .gy.",
+  "common.delete": "vimcu"
 }

@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "फ़ोरम",
   "stats.blog.location.fanClub": "फ़ैन क्लब",
   "stats.blog.location.contact": "संपर्क",
-  "stats.blog.location.faq": "अक्सर पूछे जाने वाले प्रश्न"
+  "stats.blog.location.faq": "अक्सर पूछे जाने वाले प्रश्न",
+  "stats.chapter.characterCount": "प्रत्येक अध्याय में वर्णों की संख्या",
+  "stats.chapter.chartTooltipCharacterCount": "अध्याय {chapter, number}: {characterCount, number} वर्ण"
 }

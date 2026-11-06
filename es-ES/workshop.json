@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "No se ha podido leer el archivo como texto.",
   "workshop.documents.error.tooLarge": "El archivo supera el límite de subida.",
   "workshop.documents.error.format": "Usa un archivo de Word, Markdown, texto o HTML.",
-  "workshop.documents.error.unknown": "Algo ha salido mal. Inténtalo de nuevo."
+  "workshop.documents.error.unknown": "Algo ha salido mal. Inténtalo de nuevo.",
+  "workshop.ai.chat.noMessagesEntry": "Inicia una conversación sobre esta entrada. El asistente puede leer la enciclopedia, las historias y los documentos.",
+  "workshop.ai.chat.noMessagesUniverse": "Inicia una conversación sobre este universo. El asistente puede leer sus notas, enciclopedia, historias y documentos."
 }

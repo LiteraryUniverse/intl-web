@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "อ่านไฟล์เป็นข้อความไม่ได้",
   "workshop.documents.error.tooLarge": "ไฟล์ใหญ่กว่าขีดจำกัดการอัปโหลด",
   "workshop.documents.error.format": "ใช้ไฟล์ Word, Markdown, ข้อความ หรือ HTML",
-  "workshop.documents.error.unknown": "เกิดข้อผิดพลาดบางอย่าง โปรดลองอีกครั้ง"
+  "workshop.documents.error.unknown": "เกิดข้อผิดพลาดบางอย่าง โปรดลองอีกครั้ง",
+  "workshop.ai.chat.noMessagesEntry": "เริ่มการสนทนาเกี่ยวกับรายการนี้ ผู้ช่วยสามารถอ่านสารานุกรม เรื่องราว และเอกสารได้",
+  "workshop.ai.chat.noMessagesUniverse": "เริ่มการสนทนาเกี่ยวกับจักรวาลนี้ ผู้ช่วยสามารถอ่านบันทึก สารานุกรม เรื่องราว และเอกสารของจักรวาลนี้ได้"
 }

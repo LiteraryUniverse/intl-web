@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forumo",
   "stats.blog.location.fanClub": "Fanklubo",
   "stats.blog.location.contact": "Kontakto",
-  "stats.blog.location.faq": "Oftaj demandoj"
+  "stats.blog.location.faq": "Oftaj demandoj",
+  "stats.chapter.characterCount": "Signonombro laŭ ĉapitro",
+  "stats.chapter.chartTooltipCharacterCount": "Ĉapitro {chapter, number}: {characterCount, number} signoj"
 }

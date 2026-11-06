@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Fairly difficult",
   "readingDifficulty.band.difficult": "Difficult",
   "readingDifficulty.band.veryDifficult": "Very difficult",
-  "common.cookiePreferences": "कुकी प्राथमिकता"
+  "common.cookiePreferences": "कुकी प्राथमिकता",
+  "universe.cover.alt": "{universe} ब्रह्मांडक आवरण चित्र।",
+  "common.delete": "Delete"
 }

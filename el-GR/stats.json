@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Φόρουμ",
   "stats.blog.location.fanClub": "Fan club",
   "stats.blog.location.contact": "Επικοινωνία",
-  "stats.blog.location.faq": "Συχνές ερωτήσεις"
+  "stats.blog.location.faq": "Συχνές ερωτήσεις",
+  "stats.chapter.characterCount": "Αριθμός χαρακτήρων ανά κεφάλαιο",
+  "stats.chapter.chartTooltipCharacterCount": "Κεφάλαιο {chapter, number}: {characterCount, number} χαρακτήρες"
 }

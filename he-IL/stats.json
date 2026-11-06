@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "פורום",
   "stats.blog.location.fanClub": "מועדון המעריצים",
   "stats.blog.location.contact": "צור קשר",
-  "stats.blog.location.faq": "שאלות נפוצות"
+  "stats.blog.location.faq": "שאלות נפוצות",
+  "stats.chapter.characterCount": "מספר תווים בכל פרק",
+  "stats.chapter.chartTooltipCharacterCount": "פרק {chapter, number}: {characterCount, number} תווים"
 }

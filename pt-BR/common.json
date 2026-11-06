@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Razoavelmente difícil",
   "readingDifficulty.band.difficult": "Difícil",
   "readingDifficulty.band.veryDifficult": "Muito difícil",
-  "common.cookiePreferences": "Preferências de cookies"
+  "common.cookiePreferences": "Preferências de cookies",
+  "universe.cover.alt": "Imagem de capa do universo {universe}.",
+  "common.delete": "Excluir"
 }

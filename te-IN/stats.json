@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "ఫోరం",
   "stats.blog.location.fanClub": "ఫ్యాన్ క్లబ్",
   "stats.blog.location.contact": "సంప్రదించండి",
-  "stats.blog.location.faq": "తరచుగా అడిగే ప్రశ్నలు"
+  "stats.blog.location.faq": "తరచుగా అడిగే ప్రశ్నలు",
+  "stats.chapter.characterCount": "ప్రతి అధ్యాయంలోని అక్షరాల సంఖ్య",
+  "stats.chapter.chartTooltipCharacterCount": "అధ్యాయం {chapter, number}: {characterCount, number} అక్షరాలు"
 }

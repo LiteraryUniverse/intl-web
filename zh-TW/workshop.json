@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "無法將檔案讀取為文字。",
   "workshop.documents.error.tooLarge": "檔案超過上傳上限。",
   "workshop.documents.error.format": "請使用 Word、Markdown、純文字或 HTML 檔案。",
-  "workshop.documents.error.unknown": "發生錯誤。請再試一次。"
+  "workshop.documents.error.unknown": "發生錯誤。請再試一次。",
+  "workshop.ai.chat.noMessagesEntry": "開始討論此條目。助手可以閱讀百科全書、故事和文件。",
+  "workshop.ai.chat.noMessagesUniverse": "開始討論此宇宙。助手可以閱讀其筆記、百科全書、故事和文件。"
 }

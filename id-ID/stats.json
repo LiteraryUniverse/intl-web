@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Klub penggemar",
   "stats.blog.location.contact": "Kontak",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "Jumlah karakter per bab",
+  "stats.chapter.chartTooltipCharacterCount": "Bab {chapter, number}: {characterCount, number} karakter"
 }

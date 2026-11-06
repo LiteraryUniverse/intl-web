@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Fail tidak dapat dibaca sebagai teks.",
   "workshop.documents.error.tooLarge": "Fail lebih besar daripada had muat naik.",
   "workshop.documents.error.format": "Gunakan fail Word, Markdown, teks atau HTML.",
-  "workshop.documents.error.unknown": "Sesuatu telah berlaku. Sila cuba lagi."
+  "workshop.documents.error.unknown": "Sesuatu telah berlaku. Sila cuba lagi.",
+  "workshop.ai.chat.noMessagesEntry": "Mulakan perbualan tentang entri ini. Pembantu boleh membaca ensiklopedia, cerita dan dokumen.",
+  "workshop.ai.chat.noMessagesUniverse": "Mulakan perbualan tentang alam semesta ini. Pembantu boleh membaca nota, ensiklopedia, cerita dan dokumennya."
 }

@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "קשה למדי",
   "readingDifficulty.band.difficult": "קשה",
   "readingDifficulty.band.veryDifficult": "קשה מאוד",
-  "common.cookiePreferences": "העדפות עוגיות"
+  "common.cookiePreferences": "העדפות עוגיות",
+  "universe.cover.alt": "תמונת כריכה ליקום {universe}.",
+  "common.delete": "מחיקה"
 }

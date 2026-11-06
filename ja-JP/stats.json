@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "フォーラム",
   "stats.blog.location.fanClub": "ファンクラブ",
   "stats.blog.location.contact": "お問い合わせ",
-  "stats.blog.location.faq": "よくある質問"
+  "stats.blog.location.faq": "よくある質問",
+  "stats.chapter.characterCount": "章ごとの文字数",
+  "stats.chapter.chartTooltipCharacterCount": "第{chapter, number}章：{characterCount, number}文字"
 }

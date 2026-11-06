@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Diễn đàn",
   "stats.blog.location.fanClub": "Câu lạc bộ người hâm mộ",
   "stats.blog.location.contact": "Liên hệ",
-  "stats.blog.location.faq": "Câu hỏi thường gặp"
+  "stats.blog.location.faq": "Câu hỏi thường gặp",
+  "stats.chapter.characterCount": "Số ký tự theo chương",
+  "stats.chapter.chartTooltipCharacterCount": "Chương {chapter, number}: {characterCount, number} ký tự"
 }

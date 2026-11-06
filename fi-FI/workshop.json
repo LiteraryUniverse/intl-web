@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Tiedostoa ei voitu lukea tekstinä.",
   "workshop.documents.error.tooLarge": "Tiedosto on suurempi kuin lähetysraja.",
   "workshop.documents.error.format": "Käytä Word-, Markdown-, teksti- tai HTML-tiedostoa.",
-  "workshop.documents.error.unknown": "Jokin meni pieleen. Yritä uudelleen."
+  "workshop.documents.error.unknown": "Jokin meni pieleen. Yritä uudelleen.",
+  "workshop.ai.chat.noMessagesEntry": "Aloita keskustelu tästä artikkelista. Avustaja voi lukea tietosanakirjaa, tarinoita ja asiakirjoja.",
+  "workshop.ai.chat.noMessagesUniverse": "Aloita keskustelu tästä universumista. Avustaja voi lukea sen muistiinpanoja, tietosanakirjaa, tarinoita ja asiakirjoja."
 }

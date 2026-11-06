@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Medyo mahirap",
   "readingDifficulty.band.difficult": "Mahirap",
   "readingDifficulty.band.veryDifficult": "Napakahirap",
-  "common.cookiePreferences": "Mga kagustuhan sa cookie"
+  "common.cookiePreferences": "Mga kagustuhan sa cookie",
+  "universe.cover.alt": "Larawan sa pabalat ng unibersong {universe}.",
+  "common.delete": "Tanggalin"
 }

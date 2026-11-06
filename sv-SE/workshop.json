@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Filen kunde inte läsas som text.",
   "workshop.documents.error.tooLarge": "Filen är större än uppladdningsgränsen.",
   "workshop.documents.error.format": "Använd en Word-, Markdown-, text- eller HTML-fil.",
-  "workshop.documents.error.unknown": "Något gick fel. Försök igen."
+  "workshop.documents.error.unknown": "Något gick fel. Försök igen.",
+  "workshop.ai.chat.noMessagesEntry": "Starta en konversation om den här posten. Assistenten kan läsa uppslagsverket, berättelserna och dokumenten.",
+  "workshop.ai.chat.noMessagesUniverse": "Starta en konversation om det här universumet. Assistenten kan läsa dess anteckningar, uppslagsverk, berättelser och dokument."
 }

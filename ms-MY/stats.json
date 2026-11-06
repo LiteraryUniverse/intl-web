@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Kelab peminat",
   "stats.blog.location.contact": "Hubungi",
-  "stats.blog.location.faq": "Soalan lazim"
+  "stats.blog.location.faq": "Soalan lazim",
+  "stats.chapter.characterCount": "Bilangan aksara setiap bab",
+  "stats.chapter.chartTooltipCharacterCount": "Bab {chapter, number}: {characterCount, number} aksara"
 }

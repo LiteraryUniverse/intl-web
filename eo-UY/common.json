@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Sufiĉe malfacila",
   "readingDifficulty.band.difficult": "Malfacila",
   "readingDifficulty.band.veryDifficult": "Tre malfacila",
-  "common.cookiePreferences": "Kuketaj preferoj"
+  "common.cookiePreferences": "Kuketaj preferoj",
+  "universe.cover.alt": "Kovrilbildo de la universo {universe}.",
+  "common.delete": "Forigi"
 }

@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Ganske vanskelig",
   "readingDifficulty.band.difficult": "Vanskelig",
   "readingDifficulty.band.veryDifficult": "Svært vanskelig",
-  "common.cookiePreferences": "Innstillinger for informasjonskapsler"
+  "common.cookiePreferences": "Innstillinger for informasjonskapsler",
+  "universe.cover.alt": "Omslagsbilde for universet {universe}.",
+  "common.delete": "Delete"
 }

@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Форум",
   "stats.blog.location.fanClub": "Фан-клуб",
   "stats.blog.location.contact": "Контакти",
-  "stats.blog.location.faq": "Питання та відповіді"
+  "stats.blog.location.faq": "Питання та відповіді",
+  "stats.chapter.characterCount": "Кількість символів у розділах",
+  "stats.chapter.chartTooltipCharacterCount": "Розділ {chapter, number}: {characterCount, number} символів"
 }

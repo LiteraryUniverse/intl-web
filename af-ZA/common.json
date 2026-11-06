@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Redelik moeilik",
   "readingDifficulty.band.difficult": "Moeilik",
   "readingDifficulty.band.veryDifficult": "Baie moeilik",
-  "common.cookiePreferences": "Koekievoorkeure"
+  "common.cookiePreferences": "Koekievoorkeure",
+  "universe.cover.alt": "Omslagprent vir die heelal {universe}.",
+  "common.delete": "Vee uit"
 }

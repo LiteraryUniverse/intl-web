@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "ഒരുവിധം പ്രയാസം",
   "readingDifficulty.band.difficult": "പ്രയാസം",
   "readingDifficulty.band.veryDifficult": "വളരെ പ്രയാസം",
-  "common.cookiePreferences": "കുക്കി മുൻഗണനകൾ"
+  "common.cookiePreferences": "കുക്കി മുൻഗണനകൾ",
+  "universe.cover.alt": "{universe} പ്രപഞ്ചത്തിന്റെ മുഖചിത്രം.",
+  "common.delete": "Delete"
 }

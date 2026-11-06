@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "कुछ कठिन",
   "readingDifficulty.band.difficult": "कठिन",
   "readingDifficulty.band.veryDifficult": "बहुत कठिन",
-  "common.cookiePreferences": "कुकी प्राथमिकताएँ"
+  "common.cookiePreferences": "कुकी प्राथमिकताएँ",
+  "universe.cover.alt": "ब्रह्मांड {universe} की आवरण छवि।",
+  "common.delete": "हटाएँ"
 }

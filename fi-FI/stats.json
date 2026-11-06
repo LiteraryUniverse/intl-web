@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Foorumi",
   "stats.blog.location.fanClub": "Faniklubi",
   "stats.blog.location.contact": "Yhteystiedot",
-  "stats.blog.location.faq": "UKK"
+  "stats.blog.location.faq": "UKK",
+  "stats.chapter.characterCount": "Merkkimäärä luvuittain",
+  "stats.chapter.chartTooltipCharacterCount": "Luku {chapter, number}: {characterCount, number} merkkiä"
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Non è stato possibile leggere il file come testo.",
   "workshop.documents.error.tooLarge": "Il file supera il limite di caricamento.",
   "workshop.documents.error.format": "Usa un file Word, Markdown, di testo o HTML.",
-  "workshop.documents.error.unknown": "Qualcosa è andato storto. Riprova."
+  "workshop.documents.error.unknown": "Qualcosa è andato storto. Riprova.",
+  "workshop.ai.chat.noMessagesEntry": "Inizia una conversazione su questa voce. L’assistente può leggere l’enciclopedia, le storie e i documenti.",
+  "workshop.ai.chat.noMessagesUniverse": "Inizia una conversazione su questo universo. L’assistente può leggere le sue note, l’enciclopedia, le storie e i documenti."
 }

@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Cukup sulit",
   "readingDifficulty.band.difficult": "Sulit",
   "readingDifficulty.band.veryDifficult": "Sangat sulit",
-  "common.cookiePreferences": "Preferensi cookie"
+  "common.cookiePreferences": "Preferensi cookie",
+  "universe.cover.alt": "Gambar sampul semesta {universe}.",
+  "common.delete": "Menghapus"
 }

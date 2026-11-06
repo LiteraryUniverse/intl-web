@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "ਫੋਰਮ",
   "stats.blog.location.fanClub": "ਫੈਨ ਕਲੱਬ",
   "stats.blog.location.contact": "ਸੰਪਰਕ",
-  "stats.blog.location.faq": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ"
+  "stats.blog.location.faq": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ",
+  "stats.chapter.characterCount": "ਹਰੇਕ ਅਧਿਆਇ ਵਿੱਚ ਅੱਖਰਾਂ ਦੀ ਗਿਣਤੀ",
+  "stats.chapter.chartTooltipCharacterCount": "ਅਧਿਆਇ {chapter, number}: {characterCount, number} ਅੱਖਰ"
 }

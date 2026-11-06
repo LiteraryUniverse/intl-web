@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Ganska svår",
   "readingDifficulty.band.difficult": "Svår",
   "readingDifficulty.band.veryDifficult": "Mycket svår",
-  "common.cookiePreferences": "Cookieinställningar"
+  "common.cookiePreferences": "Cookieinställningar",
+  "universe.cover.alt": "Omslagsbild för universumet {universe}.",
+  "common.delete": "Radera"
 }

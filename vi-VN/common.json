@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Khá khó",
   "readingDifficulty.band.difficult": "Khó",
   "readingDifficulty.band.veryDifficult": "Rất khó",
-  "common.cookiePreferences": "Tùy chọn cookie"
+  "common.cookiePreferences": "Tùy chọn cookie",
+  "universe.cover.alt": "Ảnh bìa của vũ trụ {universe}.",
+  "common.delete": "Delete"
 }

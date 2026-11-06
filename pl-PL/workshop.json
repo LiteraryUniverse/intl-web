@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Nie udało się odczytać pliku jako tekstu.",
   "workshop.documents.error.tooLarge": "Plik jest większy niż limit przesyłania.",
   "workshop.documents.error.format": "Użyj pliku Word, Markdown, tekstowego lub HTML.",
-  "workshop.documents.error.unknown": "Coś poszło nie tak. Spróbuj ponownie."
+  "workshop.documents.error.unknown": "Coś poszło nie tak. Spróbuj ponownie.",
+  "workshop.ai.chat.noMessagesEntry": "Rozpocznij rozmowę o tym wpisie. Asystent może czytać encyklopedię, opowiadania i dokumenty.",
+  "workshop.ai.chat.noMessagesUniverse": "Rozpocznij rozmowę o tym uniwersum. Asystent może czytać jego notatki, encyklopedię, opowiadania i dokumenty."
 }

@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Fórum",
   "stats.blog.location.fanClub": "Rajongói klub",
   "stats.blog.location.contact": "Kapcsolat",
-  "stats.blog.location.faq": "GYIK"
+  "stats.blog.location.faq": "GYIK",
+  "stats.chapter.characterCount": "Karakterek száma fejezetenként",
+  "stats.chapter.chartTooltipCharacterCount": "{chapter, number}. fejezet: {characterCount, number} karakter"
 }

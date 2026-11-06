@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fan club",
   "stats.blog.location.contact": "Contact",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "ಪ್ರತಿ ಅಧ್ಯಾಯದ ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ",
+  "stats.chapter.chartTooltipCharacterCount": "ಅಧ್ಯಾಯ {chapter, number}: {characterCount, number} ಅಕ್ಷರಗಳು"
 }

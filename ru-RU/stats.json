@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Форум",
   "stats.blog.location.fanClub": "Фан-клуб",
   "stats.blog.location.contact": "Контакты",
-  "stats.blog.location.faq": "Вопросы и ответы"
+  "stats.blog.location.faq": "Вопросы и ответы",
+  "stats.chapter.characterCount": "Количество символов по главам",
+  "stats.chapter.chartTooltipCharacterCount": "Глава {chapter, number}: {characterCount, number} символов"
 }

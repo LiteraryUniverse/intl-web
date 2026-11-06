@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "The file could not be read as text.",
   "workshop.documents.error.tooLarge": "The file is larger than the upload limit.",
   "workshop.documents.error.format": "Use a Word, Markdown, text or HTML file.",
-  "workshop.documents.error.unknown": "Something went wrong. Please try again."
+  "workshop.documents.error.unknown": "Something went wrong. Please try again.",
+  "workshop.ai.chat.noMessagesEntry": "ཐོ་འགོད་འདིའི་སྐོར་ལ་གླེང་མོལ་འགོ་འཛུགས་བྱོས། ལས་རོགས་ཀྱིས་ཤེས་བྱ་ཀུན་བཏུས་དང་སྒྲུང་། ཡིག་ཆ་བཅས་ཀློག་ཐུབ།",
+  "workshop.ai.chat.noMessagesUniverse": "འཇིག་རྟེན་འདིའི་སྐོར་ལ་གླེང་མོལ་འགོ་འཛུགས་བྱོས། ལས་རོགས་ཀྱིས་དེའི་ཟིན་བྲིས་དང་ཤེས་བྱ་ཀུན་བཏུས། སྒྲུང་། ཡིག་ཆ་བཅས་ཀློག་ཐུབ།"
 }

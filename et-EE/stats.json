@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Foorum",
   "stats.blog.location.fanClub": "Fänniklubi",
   "stats.blog.location.contact": "Kontakt",
-  "stats.blog.location.faq": "KKK"
+  "stats.blog.location.faq": "KKK",
+  "stats.chapter.characterCount": "Tähemärkide arv peatükkide kaupa",
+  "stats.chapter.chartTooltipCharacterCount": "Peatükk {chapter, number}: {characterCount, number} tähemärki"
 }

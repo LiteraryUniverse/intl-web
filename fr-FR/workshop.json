@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Le fichier n'a pas pu être lu comme du texte.",
   "workshop.documents.error.tooLarge": "Le fichier dépasse la limite d'envoi.",
   "workshop.documents.error.format": "Utilisez un fichier Word, Markdown, texte ou HTML.",
-  "workshop.documents.error.unknown": "Une erreur s'est produite. Veuillez réessayer."
+  "workshop.documents.error.unknown": "Une erreur s'est produite. Veuillez réessayer.",
+  "workshop.ai.chat.noMessagesEntry": "Commencez une conversation sur cette entrée. L’assistant peut lire l’encyclopédie, les histoires et les documents.",
+  "workshop.ai.chat.noMessagesUniverse": "Commencez une conversation sur cet univers. L’assistant peut lire ses notes, son encyclopédie, ses histoires et ses documents."
 }

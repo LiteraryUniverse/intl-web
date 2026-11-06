@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "फाइल मजकूर म्हणून वाचता आली नाही.",
   "workshop.documents.error.tooLarge": "फाइल अपलोड मर्यादेपेक्षा मोठी आहे.",
   "workshop.documents.error.format": "Word, Markdown, मजकूर किंवा HTML फाइल वापरा.",
-  "workshop.documents.error.unknown": "काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा."
+  "workshop.documents.error.unknown": "काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा.",
+  "workshop.ai.chat.noMessagesEntry": "या नोंदीबद्दल संभाषण सुरू करा. सहाय्यक विश्वकोश, कथा आणि कागदपत्रे वाचू शकतो.",
+  "workshop.ai.chat.noMessagesUniverse": "या विश्वाबद्दल संभाषण सुरू करा. सहाय्यक त्याच्या नोंदी, विश्वकोश, कथा आणि कागदपत्रे वाचू शकतो."
 }

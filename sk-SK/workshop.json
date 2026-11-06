@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Súbor sa nepodarilo prečítať ako text.",
   "workshop.documents.error.tooLarge": "Súbor je väčší než limit na nahrávanie.",
   "workshop.documents.error.format": "Použite súbor Word, Markdown, textový alebo HTML.",
-  "workshop.documents.error.unknown": "Niečo sa pokazilo. Skúste to prosím znova."
+  "workshop.documents.error.unknown": "Niečo sa pokazilo. Skúste to prosím znova.",
+  "workshop.ai.chat.noMessagesEntry": "Začnite rozhovor o tomto zázname. Asistent môže čítať encyklopédiu, príbehy a dokumenty.",
+  "workshop.ai.chat.noMessagesUniverse": "Začnite rozhovor o tomto svete. Asistent môže čítať jeho poznámky, encyklopédiu, príbehy a dokumenty."
 }

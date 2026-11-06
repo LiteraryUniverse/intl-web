@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Oldukça zor",
   "readingDifficulty.band.difficult": "Zor",
   "readingDifficulty.band.veryDifficult": "Çok zor",
-  "common.cookiePreferences": "Çerez tercihleri"
+  "common.cookiePreferences": "Çerez tercihleri",
+  "universe.cover.alt": "{universe} evreninin kapak görseli.",
+  "common.delete": "Silme"
 }

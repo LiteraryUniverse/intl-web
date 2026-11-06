@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "포럼",
   "stats.blog.location.fanClub": "팬클럽",
   "stats.blog.location.contact": "연락처",
-  "stats.blog.location.faq": "자주 묻는 질문"
+  "stats.blog.location.faq": "자주 묻는 질문",
+  "stats.chapter.characterCount": "장별 글자 수",
+  "stats.chapter.chartTooltipCharacterCount": "{chapter, number}장: {characterCount, number}자"
 }

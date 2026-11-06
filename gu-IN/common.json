@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "થોડું મુશ્કેલ",
   "readingDifficulty.band.difficult": "મુશ્કેલ",
   "readingDifficulty.band.veryDifficult": "ખૂબ મુશ્કેલ",
-  "common.cookiePreferences": "કુકી પસંદગીઓ"
+  "common.cookiePreferences": "કુકી પસંદગીઓ",
+  "universe.cover.alt": "{universe} વિશ્વનું મુખપૃષ્ઠ ચિત્ર.",
+  "common.delete": "Delete"
 }

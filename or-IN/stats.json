@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fan club",
   "stats.blog.location.contact": "Contact",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "ପ୍ରତି ଅଧ୍ୟାୟରେ ଅକ୍ଷର ସଂଖ୍ୟା",
+  "stats.chapter.chartTooltipCharacterCount": "ଅଧ୍ୟାୟ {chapter, number}: {characterCount, number} ଅକ୍ଷର"
 }

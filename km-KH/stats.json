@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fan club",
   "stats.blog.location.contact": "Contact",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "ចំនួនតួអក្សរក្នុងមួយជំពូក",
+  "stats.chapter.chartTooltipCharacterCount": "ជំពូក {chapter, number}៖ {characterCount, number} តួអក្សរ"
 }

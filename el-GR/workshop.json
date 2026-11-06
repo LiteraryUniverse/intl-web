@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Το αρχείο δεν ήταν δυνατό να διαβαστεί ως κείμενο.",
   "workshop.documents.error.tooLarge": "Το αρχείο είναι μεγαλύτερο από το όριο μεταφόρτωσης.",
   "workshop.documents.error.format": "Χρησιμοποιήστε αρχείο Word, Markdown, κειμένου ή HTML.",
-  "workshop.documents.error.unknown": "Κάτι πήγε στραβά. Δοκιμάστε ξανά."
+  "workshop.documents.error.unknown": "Κάτι πήγε στραβά. Δοκιμάστε ξανά.",
+  "workshop.ai.chat.noMessagesEntry": "Ξεκινήστε μια συζήτηση για αυτή την καταχώριση. Ο βοηθός μπορεί να διαβάσει την εγκυκλοπαίδεια, τις ιστορίες και τα έγγραφα.",
+  "workshop.ai.chat.noMessagesUniverse": "Ξεκινήστε μια συζήτηση για αυτό το σύμπαν. Ο βοηθός μπορεί να διαβάσει τις σημειώσεις, την εγκυκλοπαίδεια, τις ιστορίες και τα έγγραφά του."
 }

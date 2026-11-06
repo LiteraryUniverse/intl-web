@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Faili ei õnnestunud tekstina lugeda.",
   "workshop.documents.error.tooLarge": "Fail on suurem kui üleslaadimise piir.",
   "workshop.documents.error.format": "Kasuta Wordi, Markdowni, teksti- või HTML-faili.",
-  "workshop.documents.error.unknown": "Midagi läks valesti. Proovi uuesti."
+  "workshop.documents.error.unknown": "Midagi läks valesti. Proovi uuesti.",
+  "workshop.ai.chat.noMessagesEntry": "Alusta vestlust selle sissekande kohta. Abiline saab lugeda entsüklopeediat, lugusid ja dokumente.",
+  "workshop.ai.chat.noMessagesUniverse": "Alusta vestlust selle universumi kohta. Abiline saab lugeda selle märkmeid, entsüklopeediat, lugusid ja dokumente."
 }

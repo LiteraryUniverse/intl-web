@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Dość trudny",
   "readingDifficulty.band.difficult": "Trudny",
   "readingDifficulty.band.veryDifficult": "Bardzo trudny",
-  "common.cookiePreferences": "Preferencje plików cookie"
+  "common.cookiePreferences": "Preferencje plików cookie",
+  "universe.cover.alt": "Okładka uniwersum {universe}.",
+  "common.delete": "Usunąć"
 }

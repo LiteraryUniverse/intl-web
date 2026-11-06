@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "ఫైల్‌ను టెక్స్ట్‌గా చదవలేకపోయాం.",
   "workshop.documents.error.tooLarge": "ఫైల్ అప్‌లోడ్ పరిమితి కంటే పెద్దది.",
   "workshop.documents.error.format": "Word, Markdown, టెక్స్ట్ లేదా HTML ఫైల్‌ను ఉపయోగించండి.",
-  "workshop.documents.error.unknown": "ఏదో తప్పు జరిగింది. దయచేసి మళ్లీ ప్రయత్నించండి."
+  "workshop.documents.error.unknown": "ఏదో తప్పు జరిగింది. దయచేసి మళ్లీ ప్రయత్నించండి.",
+  "workshop.ai.chat.noMessagesEntry": "ఈ నమోదుపై సంభాషణ ప్రారంభించండి. సహాయకుడు విజ్ఞానసర్వస్వం, కథలు మరియు పత్రాలను చదవగలడు.",
+  "workshop.ai.chat.noMessagesUniverse": "ఈ విశ్వంపై సంభాషణ ప్రారంభించండి. సహాయకుడు దాని గమనికలు, విజ్ఞానసర్వస్వం, కథలు మరియు పత్రాలను చదవగలడు."
 }

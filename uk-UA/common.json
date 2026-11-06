@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Вища за середню",
   "readingDifficulty.band.difficult": "Висока",
   "readingDifficulty.band.veryDifficult": "Дуже висока",
-  "common.cookiePreferences": "Налаштування файлів cookie"
+  "common.cookiePreferences": "Налаштування файлів cookie",
+  "universe.cover.alt": "Обкладинка всесвіту {universe}.",
+  "common.delete": "Видалити"
 }

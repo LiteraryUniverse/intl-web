@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Fan club",
   "stats.blog.location.contact": "Contact",
-  "stats.blog.location.faq": "FAQ"
+  "stats.blog.location.faq": "FAQ",
+  "stats.chapter.characterCount": "lo lerfu cu se kancu fi lo jufra pagbu",
+  "stats.chapter.chartTooltipCharacterCount": "lo jufra pagbu {chapter, number}: {characterCount, number} lerfu"
 }

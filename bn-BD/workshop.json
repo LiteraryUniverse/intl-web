@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "ফাইলটি টেক্সট হিসেবে পড়া যায়নি।",
   "workshop.documents.error.tooLarge": "ফাইলটি আপলোডের সীমার চেয়ে বড়।",
   "workshop.documents.error.format": "একটি Word, Markdown, টেক্সট বা HTML ফাইল ব্যবহার করুন।",
-  "workshop.documents.error.unknown": "কিছু একটা ভুল হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  "workshop.documents.error.unknown": "কিছু একটা ভুল হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।",
+  "workshop.ai.chat.noMessagesEntry": "এই ভুক্তি নিয়ে কথোপকথন শুরু করুন। সহকারী বিশ্বকোষ, গল্প ও নথি পড়তে পারে।",
+  "workshop.ai.chat.noMessagesUniverse": "এই জগৎ নিয়ে কথোপকথন শুরু করুন। সহকারী এর নোট, বিশ্বকোষ, গল্প ও নথি পড়তে পারে।"
 }

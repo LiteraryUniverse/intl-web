@@ -342,5 +342,7 @@
   "course.project.copy.encyclopedia": "Salin entri dan medan ensiklopedia",
   "course.project.copy.outline": "Salin rangka dan adegan",
   "course.project.approval.help": "Pemilik atau pengurus mesti menyediakan karya untuk kursus ini sebelum anda boleh memberikan akses kepada pelajar. Anda juga boleh mencipta salinan peribadi daripada templat yang anda urus.",
-  "course.project.students.emptyGroup": "Semua pelajar yang anda pilih untuk kumpulan ini telah meninggalkan kursus, jadi tiada pelajar yang boleh membuka projek ini. Pilih pelajar yang akan mengusahakannya."
+  "course.project.students.emptyGroup": "Semua pelajar yang anda pilih untuk kumpulan ini telah meninggalkan kursus, jadi tiada pelajar yang boleh membuka projek ini. Pilih pelajar yang akan mengusahakannya.",
+  "course.add.universe": "Tambah alam semesta",
+  "course.remove.universe": "Buang alam semesta"
 }

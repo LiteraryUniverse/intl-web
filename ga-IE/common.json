@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Fairly difficult",
   "readingDifficulty.band.difficult": "Difficult",
   "readingDifficulty.band.veryDifficult": "Very difficult",
-  "common.cookiePreferences": "Roghanna fianán"
+  "common.cookiePreferences": "Roghanna fianán",
+  "universe.cover.alt": "Íomhá chlúdaigh don chruinne {universe}.",
+  "common.delete": "Scrios"
 }

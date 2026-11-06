@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "फाइललाई पाठका रूपमा पढ्न सकिएन।",
   "workshop.documents.error.tooLarge": "फाइल अपलोडको सीमाभन्दा ठूलो छ।",
   "workshop.documents.error.format": "Word, Markdown, पाठ वा HTML फाइल प्रयोग गर्नुहोस्।",
-  "workshop.documents.error.unknown": "केही गडबड भयो। कृपया फेरि प्रयास गर्नुहोस्।"
+  "workshop.documents.error.unknown": "केही गडबड भयो। कृपया फेरि प्रयास गर्नुहोस्।",
+  "workshop.ai.chat.noMessagesEntry": "यो प्रविष्टिबारे कुराकानी सुरु गर्नुहोस्। सहायकले विश्वकोश, कथाहरू र कागजातहरू पढ्न सक्छ।",
+  "workshop.ai.chat.noMessagesUniverse": "यो ब्रह्माण्डबारे कुराकानी सुरु गर्नुहोस्। सहायकले यसका टिपोट, विश्वकोश, कथाहरू र कागजातहरू पढ्न सक्छ।"
 }

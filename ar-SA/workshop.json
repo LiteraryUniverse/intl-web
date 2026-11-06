@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "تعذّرت قراءة الملف كنص.",
   "workshop.documents.error.tooLarge": "حجم الملف أكبر من حد الرفع.",
   "workshop.documents.error.format": "استخدم ملف Word أو Markdown أو نصًا أو HTML.",
-  "workshop.documents.error.unknown": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  "workshop.documents.error.unknown": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "workshop.ai.chat.noMessagesEntry": "ابدأ محادثة حول هذا المدخل. يمكن للمساعد قراءة الموسوعة والقصص والمستندات.",
+  "workshop.ai.chat.noMessagesUniverse": "ابدأ محادثة حول هذا العالم. يمكن للمساعد قراءة ملاحظاته وموسوعته وقصصه ومستنداته."
 }

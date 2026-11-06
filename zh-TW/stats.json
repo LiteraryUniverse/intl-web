@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "論壇",
   "stats.blog.location.fanClub": "影迷俱樂部",
   "stats.blog.location.contact": "聯絡我們",
-  "stats.blog.location.faq": "常見問題"
+  "stats.blog.location.faq": "常見問題",
+  "stats.chapter.characterCount": "各章節字數",
+  "stats.chapter.chartTooltipCharacterCount": "第 {chapter, number} 章：{characterCount, number} 字"
 }

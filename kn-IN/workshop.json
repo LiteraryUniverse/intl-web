@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "The file could not be read as text.",
   "workshop.documents.error.tooLarge": "The file is larger than the upload limit.",
   "workshop.documents.error.format": "Use a Word, Markdown, text or HTML file.",
-  "workshop.documents.error.unknown": "Something went wrong. Please try again."
+  "workshop.documents.error.unknown": "Something went wrong. Please try again.",
+  "workshop.ai.chat.noMessagesEntry": "ಈ ನಮೂದಿನ ಬಗ್ಗೆ ಸಂಭಾಷಣೆ ಪ್ರಾರಂಭಿಸಿ. ಸಹಾಯಕನು ವಿಶ್ವಕೋಶ, ಕಥೆಗಳು ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ಓದಬಹುದು.",
+  "workshop.ai.chat.noMessagesUniverse": "ಈ ವಿಶ್ವದ ಬಗ್ಗೆ ಸಂಭಾಷಣೆ ಪ್ರಾರಂಭಿಸಿ. ಸಹಾಯಕನು ಅದರ ಟಿಪ್ಪಣಿಗಳು, ವಿಶ್ವಕೋಶ, ಕಥೆಗಳು ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ಓದಬಹುದು."
 }

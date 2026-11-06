@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Viszonylag nehéz",
   "readingDifficulty.band.difficult": "Nehéz",
   "readingDifficulty.band.veryDifficult": "Nagyon nehéz",
-  "common.cookiePreferences": "Sütibeállítások"
+  "common.cookiePreferences": "Sütibeállítások",
+  "universe.cover.alt": "A(z) {universe} univerzum borítóképe.",
+  "common.delete": "Törlés"
 }

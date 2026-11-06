@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "ფორუმი",
   "stats.blog.location.fanClub": "ფანკლუბი",
   "stats.blog.location.contact": "კონტაქტი",
-  "stats.blog.location.faq": "ხშირად დასმული კითხვები"
+  "stats.blog.location.faq": "ხშირად დასმული კითხვები",
+  "stats.chapter.characterCount": "სიმბოლოების რაოდენობა თავების მიხედვით",
+  "stats.chapter.chartTooltipCharacterCount": "თავი {chapter, number}: {characterCount, number} სიმბოლო"
 }

@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "बऱ्यापैकी कठीण",
   "readingDifficulty.band.difficult": "कठीण",
   "readingDifficulty.band.veryDifficult": "खूप कठीण",
-  "common.cookiePreferences": "कुकी प्राधान्ये"
+  "common.cookiePreferences": "कुकी प्राधान्ये",
+  "universe.cover.alt": "{universe} विश्वाचे मुखपृष्ठ चित्र.",
+  "common.delete": "Delete"
 }

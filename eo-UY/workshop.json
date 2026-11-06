@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Ne eblis legi la dosieron kiel tekston.",
   "workshop.documents.error.tooLarge": "La dosiero estas pli granda ol la alŝuta limo.",
   "workshop.documents.error.format": "Uzu dosieron de Word, Markdown, teksto aŭ HTML.",
-  "workshop.documents.error.unknown": "Io fuŝiĝis. Bonvolu reprovi."
+  "workshop.documents.error.unknown": "Io fuŝiĝis. Bonvolu reprovi.",
+  "workshop.ai.chat.noMessagesEntry": "Komencu konversacion pri ĉi tiu ero. La asistanto povas legi la enciklopedion, rakontojn kaj dokumentojn.",
+  "workshop.ai.chat.noMessagesUniverse": "Komencu konversacion pri ĉi tiu universo. La asistanto povas legi ĝiajn notojn, enciklopedion, rakontojn kaj dokumentojn."
 }

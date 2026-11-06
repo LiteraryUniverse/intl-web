@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "The file could not be read as text.",
   "workshop.documents.error.tooLarge": "The file is larger than the upload limit.",
   "workshop.documents.error.format": "Use a Word, Markdown, text or HTML file.",
-  "workshop.documents.error.unknown": "Something went wrong. Please try again."
+  "workshop.documents.error.unknown": "Something went wrong. Please try again.",
+  "workshop.ai.chat.noMessagesEntry": "ko co'a tavla fi le datni pagbu .i le sidju ka'e tcidu le vlaste jo'u le lisri jo'u le vreji",
+  "workshop.ai.chat.noMessagesUniverse": "ko co'a tavla fi le munje .i le sidju ka'e tcidu le munje notci jo'u le vlaste jo'u le lisri jo'u le vreji"
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Không thể đọc tệp dưới dạng văn bản.",
   "workshop.documents.error.tooLarge": "Tệp lớn hơn giới hạn tải lên.",
   "workshop.documents.error.format": "Hãy dùng tệp Word, Markdown, văn bản hoặc HTML.",
-  "workshop.documents.error.unknown": "Đã xảy ra lỗi. Vui lòng thử lại."
+  "workshop.documents.error.unknown": "Đã xảy ra lỗi. Vui lòng thử lại.",
+  "workshop.ai.chat.noMessagesEntry": "Bắt đầu trò chuyện về mục này. Trợ lý có thể đọc bách khoa toàn thư, truyện và tài liệu.",
+  "workshop.ai.chat.noMessagesUniverse": "Bắt đầu trò chuyện về vũ trụ này. Trợ lý có thể đọc ghi chú, bách khoa toàn thư, truyện và tài liệu của vũ trụ."
 }

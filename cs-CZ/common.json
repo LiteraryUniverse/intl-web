@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Spíše těžká",
   "readingDifficulty.band.difficult": "Těžká",
   "readingDifficulty.band.veryDifficult": "Velmi těžká",
-  "common.cookiePreferences": "Nastavení souborů cookie"
+  "common.cookiePreferences": "Nastavení souborů cookie",
+  "universe.cover.alt": "Obálka světa {universe}.",
+  "common.delete": "Odstranit"
 }

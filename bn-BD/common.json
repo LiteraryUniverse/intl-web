@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "মোটামুটি কঠিন",
   "readingDifficulty.band.difficult": "কঠিন",
   "readingDifficulty.band.veryDifficult": "খুব কঠিন",
-  "common.cookiePreferences": "কুকির পছন্দ"
+  "common.cookiePreferences": "কুকির পছন্দ",
+  "universe.cover.alt": "{universe} জগতের প্রচ্ছদ ছবি।",
+  "common.delete": "মুছে ফেলুন"
 }

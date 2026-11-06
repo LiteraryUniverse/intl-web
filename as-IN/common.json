@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Fairly difficult",
   "readingDifficulty.band.difficult": "Difficult",
   "readingDifficulty.band.veryDifficult": "Very difficult",
-  "common.cookiePreferences": "কুকিৰ পছন্দসমূহ"
+  "common.cookiePreferences": "কুকিৰ পছন্দসমূহ",
+  "universe.cover.alt": "{universe} জগতৰ বেটুপাতৰ ছবি।",
+  "common.delete": "মচি পেলাওক"
 }

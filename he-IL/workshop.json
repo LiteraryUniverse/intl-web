@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "לא ניתן היה לקרוא את הקובץ כטקסט.",
   "workshop.documents.error.tooLarge": "הקובץ גדול ממגבלת ההעלאה.",
   "workshop.documents.error.format": "השתמשו בקובץ Word, Markdown, טקסט או HTML.",
-  "workshop.documents.error.unknown": "משהו השתבש. נסו שוב."
+  "workshop.documents.error.unknown": "משהו השתבש. נסו שוב.",
+  "workshop.ai.chat.noMessagesEntry": "התחילו שיחה על הערך הזה. העוזר יכול לקרוא את האנציקלופדיה, הסיפורים והמסמכים.",
+  "workshop.ai.chat.noMessagesUniverse": "התחילו שיחה על היקום הזה. העוזר יכול לקרוא את ההערות, האנציקלופדיה, הסיפורים והמסמכים שלו."
 }

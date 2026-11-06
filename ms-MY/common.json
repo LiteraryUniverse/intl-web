@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Agak sukar",
   "readingDifficulty.band.difficult": "Sukar",
   "readingDifficulty.band.veryDifficult": "Sangat sukar",
-  "common.cookiePreferences": "Keutamaan kuki"
+  "common.cookiePreferences": "Keutamaan kuki",
+  "universe.cover.alt": "Imej kulit alam semesta {universe}.",
+  "common.delete": "Delete"
 }

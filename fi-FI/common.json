@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Melko vaikea",
   "readingDifficulty.band.difficult": "Vaikea",
   "readingDifficulty.band.veryDifficult": "Erittäin vaikea",
-  "common.cookiePreferences": "Evästeasetukset"
+  "common.cookiePreferences": "Evästeasetukset",
+  "universe.cover.alt": "Universumin {universe} kansikuva.",
+  "common.delete": "Poista"
 }

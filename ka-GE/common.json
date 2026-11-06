@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "საკმაოდ რთული",
   "readingDifficulty.band.difficult": "რთული",
   "readingDifficulty.band.veryDifficult": "ძალიან რთული",
-  "common.cookiePreferences": "ქუქი-ფაილების პარამეტრები"
+  "common.cookiePreferences": "ქუქი-ფაილების პარამეტრები",
+  "universe.cover.alt": "სამყაროს {universe} ყდის სურათი.",
+  "common.delete": "წაშლა"
 }

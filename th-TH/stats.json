@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "ฟอรัม",
   "stats.blog.location.fanClub": "แฟนคลับ",
   "stats.blog.location.contact": "ติดต่อ",
-  "stats.blog.location.faq": "คำถามที่พบบ่อย"
+  "stats.blog.location.faq": "คำถามที่พบบ่อย",
+  "stats.chapter.characterCount": "จำนวนอักขระต่อบท",
+  "stats.chapter.chartTooltipCharacterCount": "บทที่ {chapter, number}: {characterCount, number} อักขระ"
 }

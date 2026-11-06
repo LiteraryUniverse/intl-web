@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "ફોરમ",
   "stats.blog.location.fanClub": "ફેન ક્લબ",
   "stats.blog.location.contact": "સંપર્ક",
-  "stats.blog.location.faq": "વારંવાર પૂછાતા પ્રશ્નો"
+  "stats.blog.location.faq": "વારંવાર પૂછાતા પ્રશ્નો",
+  "stats.chapter.characterCount": "દરેક પ્રકરણમાં અક્ષરોની સંખ્યા",
+  "stats.chapter.chartTooltipCharacterCount": "પ્રકરણ {chapter, number}: {characterCount, number} અક્ષરો"
 }

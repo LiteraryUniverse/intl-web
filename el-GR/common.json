@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Αρκετά δύσκολο",
   "readingDifficulty.band.difficult": "Δύσκολο",
   "readingDifficulty.band.veryDifficult": "Πολύ δύσκολο",
-  "common.cookiePreferences": "Προτιμήσεις cookie"
+  "common.cookiePreferences": "Προτιμήσεις cookie",
+  "universe.cover.alt": "Εικόνα εξωφύλλου για το σύμπαν {universe}.",
+  "common.delete": "Διαγραφή"
 }

@@ -342,5 +342,7 @@
   "course.project.copy.encyclopedia": "エンサイクロペディアの項目とフィールドをコピー",
   "course.project.copy.outline": "アウトラインとシーンをコピー",
   "course.project.approval.help": "生徒にアクセス権を割り当てるには、作品のオーナーまたはマネージャーがその作品をこのコースで利用可能にする必要があります。あなたが管理するテンプレートから非公開コピーを作成することもできます。",
-  "course.project.students.emptyGroup": "このグループに選択した生徒が全員コースを離れたため、このプロジェクトを開ける生徒がいません。作業する生徒を選択してください。"
+  "course.project.students.emptyGroup": "このグループに選択した生徒が全員コースを離れたため、このプロジェクトを開ける生徒がいません。作業する生徒を選択してください。",
+  "course.add.universe": "世界を追加",
+  "course.remove.universe": "世界を削除"
 }

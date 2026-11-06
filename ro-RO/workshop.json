@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Fișierul nu a putut fi citit ca text.",
   "workshop.documents.error.tooLarge": "Fișierul depășește limita de încărcare.",
   "workshop.documents.error.format": "Folosește un fișier Word, Markdown, text sau HTML.",
-  "workshop.documents.error.unknown": "Ceva nu a funcționat. Te rugăm să încerci din nou."
+  "workshop.documents.error.unknown": "Ceva nu a funcționat. Te rugăm să încerci din nou.",
+  "workshop.ai.chat.noMessagesEntry": "Începe o conversație despre această intrare. Asistentul poate citi enciclopedia, poveștile și documentele.",
+  "workshop.ai.chat.noMessagesUniverse": "Începe o conversație despre acest univers. Asistentul poate citi notițele, enciclopedia, poveștile și documentele sale."
 }

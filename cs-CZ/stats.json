@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Fórum",
   "stats.blog.location.fanClub": "Fanklub",
   "stats.blog.location.contact": "Kontakt",
-  "stats.blog.location.faq": "Časté dotazy"
+  "stats.blog.location.faq": "Časté dotazy",
+  "stats.chapter.characterCount": "Počet znaků v jednotlivých kapitolách",
+  "stats.chapter.chartTooltipCharacterCount": "Kapitola {chapter, number}: {characterCount, number} znaků"
 }

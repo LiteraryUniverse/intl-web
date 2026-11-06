@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Hindi mabasa ang file bilang teksto.",
   "workshop.documents.error.tooLarge": "Mas malaki ang file kaysa sa limitasyon sa pag-upload.",
   "workshop.documents.error.format": "Gumamit ng file na Word, Markdown, text o HTML.",
-  "workshop.documents.error.unknown": "May nangyaring mali. Pakisubukan muli."
+  "workshop.documents.error.unknown": "May nangyaring mali. Pakisubukan muli.",
+  "workshop.ai.chat.noMessagesEntry": "Magsimula ng usapan tungkol sa tala na ito. Mababasa ng katulong ang ensiklopedya, mga kuwento at dokumento.",
+  "workshop.ai.chat.noMessagesUniverse": "Magsimula ng usapan tungkol sa unibersong ito. Mababasa ng katulong ang mga tala, ensiklopedya, kuwento at dokumento nito."
 }

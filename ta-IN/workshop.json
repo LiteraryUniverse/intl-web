@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "கோப்பை உரையாகப் படிக்க முடியவில்லை.",
   "workshop.documents.error.tooLarge": "கோப்பு பதிவேற்ற வரம்பைவிடப் பெரியது.",
   "workshop.documents.error.format": "Word, Markdown, உரை அல்லது HTML கோப்பைப் பயன்படுத்துங்கள்.",
-  "workshop.documents.error.unknown": "ஏதோ தவறு நடந்துவிட்டது. மீண்டும் முயலுங்கள்."
+  "workshop.documents.error.unknown": "ஏதோ தவறு நடந்துவிட்டது. மீண்டும் முயலுங்கள்.",
+  "workshop.ai.chat.noMessagesEntry": "இந்தப் பதிவைப் பற்றிய உரையாடலைத் தொடங்குங்கள். உதவியாளர் கலைக்களஞ்சியம், கதைகள் மற்றும் ஆவணங்களைப் படிக்க முடியும்.",
+  "workshop.ai.chat.noMessagesUniverse": "இந்தப் பிரபஞ்சத்தைப் பற்றிய உரையாடலைத் தொடங்குங்கள். உதவியாளர் அதன் குறிப்புகள், கலைக்களஞ்சியம், கதைகள் மற்றும் ஆவணங்களைப் படிக்க முடியும்."
 }

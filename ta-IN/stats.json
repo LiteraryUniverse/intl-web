@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "மன்றம்",
   "stats.blog.location.fanClub": "ரசிகர் மன்றம்",
   "stats.blog.location.contact": "தொடர்பு",
-  "stats.blog.location.faq": "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+  "stats.blog.location.faq": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+  "stats.chapter.characterCount": "ஒவ்வொரு அத்தியாயத்திலும் எழுத்துகளின் எண்ணிக்கை",
+  "stats.chapter.chartTooltipCharacterCount": "அத்தியாயம் {chapter, number}: {characterCount, number} எழுத்துகள்"
 }

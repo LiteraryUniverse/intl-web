@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "फोरम",
   "stats.blog.location.fanClub": "फ्यान क्लब",
   "stats.blog.location.contact": "सम्पर्क",
-  "stats.blog.location.faq": "बारम्बार सोधिने प्रश्नहरू"
+  "stats.blog.location.faq": "बारम्बार सोधिने प्रश्नहरू",
+  "stats.chapter.characterCount": "प्रत्येक अध्यायमा अक्षरहरूको सङ्ख्या",
+  "stats.chapter.chartTooltipCharacterCount": "अध्याय {chapter, number}: {characterCount, number} अक्षरहरू"
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Não foi possível ler o ficheiro como texto.",
   "workshop.documents.error.tooLarge": "O ficheiro é maior do que o limite de carregamento.",
   "workshop.documents.error.format": "Use um ficheiro Word, Markdown, de texto ou HTML.",
-  "workshop.documents.error.unknown": "Algo correu mal. Tente novamente."
+  "workshop.documents.error.unknown": "Algo correu mal. Tente novamente.",
+  "workshop.ai.chat.noMessagesEntry": "Inicie uma conversa sobre esta entrada. O assistente pode ler a enciclopédia, as histórias e os documentos.",
+  "workshop.ai.chat.noMessagesUniverse": "Inicie uma conversa sobre este universo. O assistente pode ler as suas notas, enciclopédia, histórias e documentos."
 }

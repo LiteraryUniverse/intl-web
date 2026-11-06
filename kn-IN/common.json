@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Fairly difficult",
   "readingDifficulty.band.difficult": "Difficult",
   "readingDifficulty.band.veryDifficult": "Very difficult",
-  "common.cookiePreferences": "ಕುಕೀ ಆದ್ಯತೆಗಳು"
+  "common.cookiePreferences": "ಕುಕೀ ಆದ್ಯತೆಗಳು",
+  "universe.cover.alt": "{universe} ವಿಶ್ವದ ಮುಖಪುಟದ ಚಿತ್ರ.",
+  "common.delete": "Delete"
 }

@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "ફાઇલ ટેક્સ્ટ તરીકે વાંચી શકાઈ નથી.",
   "workshop.documents.error.tooLarge": "ફાઇલ અપલોડ મર્યાદા કરતાં મોટી છે.",
   "workshop.documents.error.format": "Word, Markdown, ટેક્સ્ટ અથવા HTML ફાઇલ વાપરો.",
-  "workshop.documents.error.unknown": "કંઈક ખોટું થયું. કૃપા કરીને ફરી પ્રયાસ કરો."
+  "workshop.documents.error.unknown": "કંઈક ખોટું થયું. કૃપા કરીને ફરી પ્રયાસ કરો.",
+  "workshop.ai.chat.noMessagesEntry": "આ નોંધ વિશે વાતચીત શરૂ કરો. સહાયક વિશ્વકોશ, વાર્તાઓ અને દસ્તાવેજો વાંચી શકે છે.",
+  "workshop.ai.chat.noMessagesUniverse": "આ વિશ્વ વિશે વાતચીત શરૂ કરો. સહાયક તેની નોંધો, વિશ્વકોશ, વાર્તાઓ અને દસ્તાવેજો વાંચી શકે છે."
 }

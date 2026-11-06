@@ -196,5 +196,7 @@
   "stats.blog.location.forum": "Forum",
   "stats.blog.location.fanClub": "Aanhangerklub",
   "stats.blog.location.contact": "Kontak",
-  "stats.blog.location.faq": "Gereelde vrae"
+  "stats.blog.location.faq": "Gereelde vrae",
+  "stats.chapter.characterCount": "Aantal karakters per hoofstuk",
+  "stats.chapter.chartTooltipCharacterCount": "Hoofstuk {chapter, number}: {characterCount, number} karakters"
 }

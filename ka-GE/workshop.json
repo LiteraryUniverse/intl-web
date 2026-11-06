@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "ფაილის ტექსტად წაკითხვა ვერ მოხერხდა.",
   "workshop.documents.error.tooLarge": "ფაილი ატვირთვის ლიმიტზე დიდია.",
   "workshop.documents.error.format": "გამოიყენეთ Word, Markdown, ტექსტური ან HTML ფაილი.",
-  "workshop.documents.error.unknown": "რაღაც შეცდომა მოხდა. გთხოვთ, სცადოთ ხელახლა."
+  "workshop.documents.error.unknown": "რაღაც შეცდომა მოხდა. გთხოვთ, სცადოთ ხელახლა.",
+  "workshop.ai.chat.noMessagesEntry": "დაიწყეთ საუბარი ამ ჩანაწერის შესახებ. ასისტენტს შეუძლია წაიკითხოს ენციკლოპედია, მოთხრობები და დოკუმენტები.",
+  "workshop.ai.chat.noMessagesUniverse": "დაიწყეთ საუბარი ამ სამყაროს შესახებ. ასისტენტს შეუძლია წაიკითხოს მისი შენიშვნები, ენციკლოპედია, მოთხრობები და დოკუმენტები."
 }

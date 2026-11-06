@@ -500,5 +500,7 @@
   "readingDifficulty.band.fairlyDifficult": "Vrij moeilijk",
   "readingDifficulty.band.difficult": "Moeilijk",
   "readingDifficulty.band.veryDifficult": "Heel moeilijk",
-  "common.cookiePreferences": "Cookievoorkeuren"
+  "common.cookiePreferences": "Cookievoorkeuren",
+  "universe.cover.alt": "Omslagafbeelding voor universum {universe}.",
+  "common.delete": "Verwijder"
 }

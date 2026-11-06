@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Het bestand kon niet als tekst worden gelezen.",
   "workshop.documents.error.tooLarge": "Het bestand is groter dan de uploadlimiet.",
   "workshop.documents.error.format": "Gebruik een Word-, Markdown-, tekst- of HTML-bestand.",
-  "workshop.documents.error.unknown": "Er is iets misgegaan. Probeer het opnieuw."
+  "workshop.documents.error.unknown": "Er is iets misgegaan. Probeer het opnieuw.",
+  "workshop.ai.chat.noMessagesEntry": "Begin een gesprek over dit item. De assistent kan de encyclopedie, verhalen en documenten lezen.",
+  "workshop.ai.chat.noMessagesUniverse": "Begin een gesprek over dit universum. De assistent kan de bijbehorende notities, encyclopedie, verhalen en documenten lezen."
 }

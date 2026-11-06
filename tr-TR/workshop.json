@@ -1285,5 +1285,7 @@
   "workshop.documents.error.invalid": "Dosya metin olarak okunamadı.",
   "workshop.documents.error.tooLarge": "Dosya yükleme sınırından büyük.",
   "workshop.documents.error.format": "Word, Markdown, metin veya HTML dosyası kullanın.",
-  "workshop.documents.error.unknown": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+  "workshop.documents.error.unknown": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
+  "workshop.ai.chat.noMessagesEntry": "Bu madde hakkında bir sohbet başlatın. Asistan ansiklopediyi, hikâyeleri ve belgeleri okuyabilir.",
+  "workshop.ai.chat.noMessagesUniverse": "Bu evren hakkında bir sohbet başlatın. Asistan evrenin notlarını, ansiklopedisini, hikâyelerini ve belgelerini okuyabilir."
 }
