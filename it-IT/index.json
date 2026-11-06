@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Sincronizza con Luma",
   "events.admin.cancelled": "Annullato",
   "events.cancel.button": "Annulla evento",
-  "events.cancel.confirm": "Annullare questo evento? Tutti quelli che hanno detto che verranno o che forse verranno saranno avvisati. Se l'evento è su Luma, verrà annullato anche lì. Non si può tornare indietro.",
+  "events.cancel.confirm": "Annullare questo evento? Tutti quelli che hanno detto che verranno o che forse verranno saranno avvisati. Se l'evento è su Luma, verrà annullato anche lì e i biglietti a pagamento saranno rimborsati. Non si può tornare indietro.",
   "events.cancelled.notice": "Questo evento è stato annullato.",
   "events.cancelled.edit": "Questo evento è stato annullato il {date} e non può più essere modificato.",
   "events.details.language": "Lingua principale",

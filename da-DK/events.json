@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "Synkroniser med Luma",
   "events.admin.cancelled": "Aflyst",
   "events.cancel.button": "Aflys begivenhed",
-  "events.cancel.confirm": "Vil du aflyse denne begivenhed? Alle, der har sagt, at de kommer eller måske kommer, får besked. Hvis begivenheden er på Luma, bliver den også aflyst der. Det kan ikke fortrydes.",
+  "events.cancel.confirm": "Vil du aflyse denne begivenhed? Alle, der har sagt, at de kommer eller måske kommer, får besked. Hvis begivenheden er på Luma, bliver den også aflyst der, og betalte billetter bliver refunderet. Det kan ikke fortrydes.",
   "events.cancelled.notice": "Denne begivenhed er aflyst.",
   "events.cancelled.edit": "Denne begivenhed blev aflyst {date} og kan ikke længere ændres.",
   "events.details.language": "Hovedsprog",

@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Synkroniser med Luma",
   "events.admin.cancelled": "Avlyst",
   "events.cancel.button": "Avlys arrangement",
-  "events.cancel.confirm": "Vil du avlyse dette arrangementet? Alle som har sagt at de kommer eller kanskje kommer, får beskjed. Hvis arrangementet er på Luma, blir det avlyst der også. Dette kan ikke angres.",
+  "events.cancel.confirm": "Vil du avlyse dette arrangementet? Alle som har sagt at de kommer eller kanskje kommer, får beskjed. Hvis arrangementet er på Luma, blir det avlyst der også, og betalte billetter blir refundert. Dette kan ikke angres.",
   "events.cancelled.notice": "Dette arrangementet er avlyst.",
   "events.cancelled.edit": "Dette arrangementet ble avlyst {date} og kan ikke lenger endres.",
   "events.details.language": "Hovedspråk",

@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "Synchroniseren met Luma",
   "events.admin.cancelled": "Afgelast",
   "events.cancel.button": "Evenement afgelasten",
-  "events.cancel.confirm": "Dit evenement afgelasten? Iedereen die heeft gezegd te komen of misschien te komen, krijgt bericht. Staat het evenement op Luma, dan wordt het daar ook afgelast. Dit kan niet ongedaan worden gemaakt.",
+  "events.cancel.confirm": "Dit evenement afgelasten? Iedereen die heeft gezegd te komen of misschien te komen, krijgt bericht. Staat het evenement op Luma, dan wordt het daar ook afgelast en worden betaalde tickets terugbetaald. Dit kan niet ongedaan worden gemaakt.",
   "events.cancelled.notice": "Dit evenement is afgelast.",
   "events.cancelled.edit": "Dit evenement is op {date} afgelast en kan niet meer worden gewijzigd.",
   "events.details.language": "Hoofdtaal",

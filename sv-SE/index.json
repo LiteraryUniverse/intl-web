@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Synkronisera med Luma",
   "events.admin.cancelled": "Inställt",
   "events.cancel.button": "Ställ in evenemang",
-  "events.cancel.confirm": "Vill du ställa in det här evenemanget? Alla som har sagt att de kommer eller kanske kommer får besked. Om evenemanget finns på Luma ställs det in där också. Det går inte att ångra.",
+  "events.cancel.confirm": "Vill du ställa in det här evenemanget? Alla som har sagt att de kommer eller kanske kommer får besked. Om evenemanget finns på Luma ställs det in där också och betalda biljetter återbetalas. Det går inte att ångra.",
   "events.cancelled.notice": "Det här evenemanget är inställt.",
   "events.cancelled.edit": "Det här evenemanget ställdes in {date} och kan inte längre ändras.",
   "events.details.language": "Huvudspråk",

@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "Synkronoi Luman kanssa",
   "events.admin.cancelled": "Peruttu",
   "events.cancel.button": "Peru tapahtuma",
-  "events.cancel.confirm": "Perutaanko tämä tapahtuma? Kaikille, jotka ovat sanoneet tulevansa tai ehkä tulevansa, ilmoitetaan. Jos tapahtuma on Lumassa, se perutaan myös siellä. Tätä ei voi kumota.",
+  "events.cancel.confirm": "Perutaanko tämä tapahtuma? Kaikille, jotka ovat sanoneet tulevansa tai ehkä tulevansa, ilmoitetaan. Jos tapahtuma on Lumassa, se perutaan myös siellä ja maksetut liput hyvitetään. Tätä ei voi kumota.",
   "events.cancelled.notice": "Tämä tapahtuma on peruttu.",
   "events.cancelled.edit": "Tämä tapahtuma peruttiin {date}, joten sitä ei voi enää muuttaa.",
   "events.details.language": "Pääkieli",

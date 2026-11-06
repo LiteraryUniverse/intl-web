@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Sincronizează cu Luma",
   "events.admin.cancelled": "Anulat",
   "events.cancel.button": "Anulează evenimentul",
-  "events.cancel.confirm": "Anulezi acest eveniment? Toți cei care au spus că vin sau că poate vin vor fi anunțați. Dacă evenimentul este pe Luma, va fi anulat și acolo. Acțiunea nu poate fi anulată.",
+  "events.cancel.confirm": "Anulezi acest eveniment? Toți cei care au spus că vin sau că poate vin vor fi anunțați. Dacă evenimentul este pe Luma, va fi anulat și acolo, iar biletele plătite vor fi rambursate. Acțiunea nu poate fi anulată.",
   "events.cancelled.notice": "Acest eveniment a fost anulat.",
   "events.cancelled.edit": "Acest eveniment a fost anulat pe {date}, așa că nu mai poate fi modificat.",
   "events.details.language": "Limba principală",

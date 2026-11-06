@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "Mit Luma synchronisieren",
   "events.admin.cancelled": "Abgesagt",
   "events.cancel.button": "Veranstaltung absagen",
-  "events.cancel.confirm": "Diese Veranstaltung absagen? Alle, die zugesagt oder vielleicht zugesagt haben, werden benachrichtigt. Ist die Veranstaltung auf Luma, wird sie dort ebenfalls abgesagt. Das lässt sich nicht rückgängig machen.",
+  "events.cancel.confirm": "Diese Veranstaltung absagen? Alle, die zugesagt oder vielleicht zugesagt haben, werden benachrichtigt. Ist die Veranstaltung auf Luma, wird sie dort ebenfalls abgesagt und bezahlte Tickets werden erstattet. Das lässt sich nicht rückgängig machen.",
   "events.cancelled.notice": "Diese Veranstaltung wurde abgesagt.",
   "events.cancelled.edit": "Diese Veranstaltung wurde am {date} abgesagt und kann nicht mehr geändert werden.",
   "events.details.language": "Hauptsprache",

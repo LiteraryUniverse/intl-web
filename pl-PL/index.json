@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Synchronizuj z Luma",
   "events.admin.cancelled": "Odwołane",
   "events.cancel.button": "Odwołaj wydarzenie",
-  "events.cancel.confirm": "Odwołać to wydarzenie? Wszyscy, którzy zapowiedzieli, że przyjdą lub może przyjdą, dostaną wiadomość. Jeśli wydarzenie jest na Lumie, zostanie odwołane także tam. Tego nie można cofnąć.",
+  "events.cancel.confirm": "Odwołać to wydarzenie? Wszyscy, którzy zapowiedzieli, że przyjdą lub może przyjdą, dostaną wiadomość. Jeśli wydarzenie jest na Lumie, zostanie odwołane także tam, a za płatne bilety zostaną zwrócone pieniądze. Tego nie można cofnąć.",
   "events.cancelled.notice": "To wydarzenie zostało odwołane.",
   "events.cancelled.edit": "To wydarzenie zostało odwołane {date}, więc nie można go już zmieniać.",
   "events.details.language": "Główny język",

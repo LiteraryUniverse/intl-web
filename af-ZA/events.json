@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "Sinkroniseer met Luma",
   "events.admin.cancelled": "Gekanselleer",
   "events.cancel.button": "Kanselleer geleentheid",
-  "events.cancel.confirm": "Kanselleer hierdie geleentheid? Almal wat gesê het hulle kom of dalk kom, sal ingelig word. As die geleentheid op Luma is, word dit ook daar gekanselleer. Dit kan nie ongedaan gemaak word nie.",
+  "events.cancel.confirm": "Kanselleer hierdie geleentheid? Almal wat gesê het hulle kom of dalk kom, sal ingelig word. As die geleentheid op Luma is, word dit ook daar gekanselleer en word betaalde kaartjies terugbetaal. Dit kan nie ongedaan gemaak word nie.",
   "events.cancelled.notice": "Hierdie geleentheid is gekanselleer.",
   "events.cancelled.edit": "Hierdie geleentheid is op {date} gekanselleer en kan nie meer verander word nie.",
   "events.details.language": "Hooftaal",

@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Segerak dengan Luma",
   "events.admin.cancelled": "Dibatalkan",
   "events.cancel.button": "Batalkan acara",
-  "events.cancel.confirm": "Batalkan acara ini? Semua yang berkata mereka akan datang atau mungkin datang akan dimaklumkan. Jika acara ini ada di Luma, ia juga dibatalkan di sana. Tindakan ini tidak boleh dibatalkan.",
+  "events.cancel.confirm": "Batalkan acara ini? Semua yang berkata mereka akan datang atau mungkin datang akan dimaklumkan. Jika acara ini ada di Luma, ia juga dibatalkan di sana dan tiket berbayar akan dibayar balik. Tindakan ini tidak boleh dibatalkan.",
   "events.cancelled.notice": "Acara ini telah dibatalkan.",
   "events.cancelled.edit": "Acara ini dibatalkan pada {date}, jadi ia tidak boleh diubah lagi.",
   "events.details.language": "Bahasa utama",

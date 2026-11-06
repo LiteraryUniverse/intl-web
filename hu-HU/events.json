@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "Luma szinkronizálása",
   "events.admin.cancelled": "Lemondva",
   "events.cancel.button": "Esemény lemondása",
-  "events.cancel.confirm": "Lemondod ezt az eseményt? Mindenki értesítést kap, aki azt mondta, hogy eljön vagy talán eljön. Ha az esemény a Lumán is szerepel, ott is lemondásra kerül. Ez nem vonható vissza.",
+  "events.cancel.confirm": "Lemondod ezt az eseményt? Mindenki értesítést kap, aki azt mondta, hogy eljön vagy talán eljön. Ha az esemény a Lumán is szerepel, ott is lemondásra kerül, és a fizetős jegyek árát visszatérítjük. Ez nem vonható vissza.",
   "events.cancelled.notice": "Ezt az eseményt lemondták.",
   "events.cancelled.edit": "Ezt az eseményt {date} napján lemondták, ezért már nem módosítható.",
   "events.details.language": "Fő nyelv",

@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "סנכרון עם Luma",
   "events.admin.cancelled": "בוטל",
   "events.cancel.button": "ביטול האירוע",
-  "events.cancel.confirm": "לבטל את האירוע? כל מי שאמר שיגיע או אולי יגיע יקבל הודעה. אם האירוע נמצא ב-Luma, הוא יבוטל גם שם. אי אפשר לבטל את הפעולה.",
+  "events.cancel.confirm": "לבטל את האירוע? כל מי שאמר שיגיע או אולי יגיע יקבל הודעה. אם האירוע נמצא ב-Luma, הוא יבוטל גם שם וכל הכרטיסים בתשלום יוחזרו. אי אפשר לבטל את הפעולה.",
   "events.cancelled.notice": "האירוע הזה בוטל.",
   "events.cancelled.edit": "האירוע הזה בוטל ב-{date}, ולכן אי אפשר לשנות אותו יותר.",
   "events.details.language": "השפה הראשית",

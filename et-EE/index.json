@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Sünkrooni Lumaga",
   "events.admin.cancelled": "Tühistatud",
   "events.cancel.button": "Tühista sündmus",
-  "events.cancel.confirm": "Kas tühistada see sündmus? Kõiki, kes ütlesid, et tulevad või võib-olla tulevad, teavitatakse. Kui sündmus on Lumas, tühistatakse see ka seal. Seda ei saa tagasi võtta.",
+  "events.cancel.confirm": "Kas tühistada see sündmus? Kõiki, kes ütlesid, et tulevad või võib-olla tulevad, teavitatakse. Kui sündmus on Lumas, tühistatakse see ka seal ja tasulised piletid hüvitatakse. Seda ei saa tagasi võtta.",
   "events.cancelled.notice": "See sündmus on tühistatud.",
   "events.cancelled.edit": "See sündmus tühistati {date} ja seda ei saa enam muuta.",
   "events.details.language": "Põhikeel",

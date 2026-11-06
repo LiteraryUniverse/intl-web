@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "Synchronizovat s Luma",
   "events.admin.cancelled": "Zrušeno",
   "events.cancel.button": "Zrušit událost",
-  "events.cancel.confirm": "Zrušit tuto událost? Všichni, kdo řekli, že přijdou nebo možná přijdou, dostanou zprávu. Pokud je událost na Lumě, zruší se i tam. Tuto akci nelze vrátit.",
+  "events.cancel.confirm": "Zrušit tuto událost? Všichni, kdo řekli, že přijdou nebo možná přijdou, dostanou zprávu. Pokud je událost na Lumě, zruší se i tam a za placené vstupenky se vrátí peníze. Tuto akci nelze vrátit.",
   "events.cancelled.notice": "Tato událost byla zrušena.",
   "events.cancelled.edit": "Tato událost byla zrušena {date}, takže ji už nelze měnit.",
   "events.details.language": "Hlavní jazyk",

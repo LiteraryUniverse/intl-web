@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Sinkronigi kun Luma",
   "events.admin.cancelled": "Nuligita",
   "events.cancel.button": "Nuligi eventon",
-  "events.cancel.confirm": "Ĉu nuligi ĉi tiun eventon? Ĉiuj, kiuj diris, ke ili venos aŭ eble venos, estos sciigitaj. Se la evento estas en Luma, ĝi estos nuligita ankaŭ tie. Ĉi tion oni ne povas malfari.",
+  "events.cancel.confirm": "Ĉu nuligi ĉi tiun eventon? Ĉiuj, kiuj diris, ke ili venos aŭ eble venos, estos sciigitaj. Se la evento estas en Luma, ĝi estos nuligita ankaŭ tie, kaj pagitaj biletoj estos repagitaj. Ĉi tion oni ne povas malfari.",
   "events.cancelled.notice": "Ĉi tiu evento estis nuligita.",
   "events.cancelled.edit": "Ĉi tiu evento estis nuligita je {date}, do ĝi ne plu estas ŝanĝebla.",
   "events.details.language": "Ĉefa lingvo",

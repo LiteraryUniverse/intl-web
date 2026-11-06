@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Đồng bộ với Luma",
   "events.admin.cancelled": "Đã hủy",
   "events.cancel.button": "Hủy sự kiện",
-  "events.cancel.confirm": "Hủy sự kiện này? Mọi người đã nói sẽ đến hoặc có thể đến sẽ được thông báo. Nếu sự kiện có trên Luma, sự kiện cũng sẽ bị hủy ở đó. Không thể hoàn tác.",
+  "events.cancel.confirm": "Hủy sự kiện này? Mọi người đã nói sẽ đến hoặc có thể đến sẽ được thông báo. Nếu sự kiện có trên Luma, sự kiện cũng sẽ bị hủy ở đó và vé đã mua sẽ được hoàn tiền. Không thể hoàn tác.",
   "events.cancelled.notice": "Sự kiện này đã bị hủy.",
   "events.cancelled.edit": "Sự kiện này đã bị hủy vào {date}, nên không thể thay đổi nữa.",
   "events.details.language": "Ngôn ngữ chính",

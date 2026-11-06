@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "I-sync sa Luma",
   "events.admin.cancelled": "Kinansela",
   "events.cancel.button": "Kanselahin ang event",
-  "events.cancel.confirm": "Kanselahin ang event na ito? Sasabihan ang lahat ng nagsabing pupunta sila o baka pumunta. Kung nasa Luma ang event, kakanselahin din ito roon. Hindi na ito maibabalik.",
+  "events.cancel.confirm": "Kanselahin ang event na ito? Sasabihan ang lahat ng nagsabing pupunta sila o baka pumunta. Kung nasa Luma ang event, kakanselahin din ito roon at ire-refund ang mga bayad na tiket. Hindi na ito maibabalik.",
   "events.cancelled.notice": "Kinansela ang event na ito.",
   "events.cancelled.edit": "Kinansela ang event na ito noong {date}, kaya hindi na ito mababago.",
   "events.details.language": "Pangunahing wika",

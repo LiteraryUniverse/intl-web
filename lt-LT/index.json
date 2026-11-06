@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Sinchronizuoti su Luma",
   "events.admin.cancelled": "Atšaukta",
   "events.cancel.button": "Atšaukti renginį",
-  "events.cancel.confirm": "Atšaukti šį renginį? Visiems, kurie sakė, kad ateis ar galbūt ateis, bus pranešta. Jei renginys yra „Luma“, jis bus atšauktas ir ten. To atšaukti negalima.",
+  "events.cancel.confirm": "Atšaukti šį renginį? Visiems, kurie sakė, kad ateis ar galbūt ateis, bus pranešta. Jei renginys yra „Luma“, jis bus atšauktas ir ten, o už mokamus bilietus bus grąžinti pinigai. To atšaukti negalima.",
   "events.cancelled.notice": "Šis renginys atšauktas.",
   "events.cancelled.edit": "Šis renginys atšauktas {date}, todėl jo nebegalima keisti.",
   "events.details.language": "Pagrindinė kalba",

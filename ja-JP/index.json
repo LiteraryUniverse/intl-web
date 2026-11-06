@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Luma と同期",
   "events.admin.cancelled": "中止",
   "events.cancel.button": "イベントを中止",
-  "events.cancel.confirm": "このイベントを中止しますか？参加または参加するかもしれないと答えた全員に通知されます。イベントがLumaにある場合は、Lumaでも中止されます。この操作は元に戻せません。",
+  "events.cancel.confirm": "このイベントを中止しますか？参加または参加するかもしれないと答えた全員に通知されます。イベントがLumaにある場合は、Lumaでも中止され、有料チケットは払い戻されます。この操作は元に戻せません。",
   "events.cancelled.notice": "このイベントは中止されました。",
   "events.cancelled.edit": "このイベントは{date}に中止されたため、変更できません。",
   "events.details.language": "メイン言語",

@@ -44,7 +44,7 @@
   "events.admin.syncLuma": "與 Luma 同步",
   "events.admin.cancelled": "已取消",
   "events.cancel.button": "取消活動",
-  "events.cancel.confirm": "要取消這場活動嗎？所有表示會參加或可能參加的人都會收到通知。如果活動也在 Luma 上，那裡也會一併取消。此操作無法復原。",
+  "events.cancel.confirm": "要取消這場活動嗎？所有表示會參加或可能參加的人都會收到通知。如果活動也在 Luma 上，那裡也會一併取消，已付費的票券也會退款。此操作無法復原。",
   "events.cancelled.notice": "這場活動已取消。",
   "events.cancelled.edit": "這場活動已於 {date} 取消，因此無法再修改。",
   "events.details.language": "主要語言",

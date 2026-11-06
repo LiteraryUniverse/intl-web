@@ -2994,7 +2994,7 @@
   "events.admin.syncLuma": "Luma와 동기화",
   "events.admin.cancelled": "취소됨",
   "events.cancel.button": "이벤트 취소",
-  "events.cancel.confirm": "이 이벤트를 취소할까요? 참석하거나 참석할 수도 있다고 답한 모든 사람에게 알림이 갑니다. 이벤트가 Luma에도 있다면 그곳에서도 취소됩니다. 되돌릴 수 없습니다.",
+  "events.cancel.confirm": "이 이벤트를 취소할까요? 참석하거나 참석할 수도 있다고 답한 모든 사람에게 알림이 갑니다. 이벤트가 Luma에도 있다면 그곳에서도 취소되고 유료 티켓은 환불됩니다. 되돌릴 수 없습니다.",
   "events.cancelled.notice": "이 이벤트는 취소되었습니다.",
   "events.cancelled.edit": "이 이벤트는 {date}에 취소되어 더 이상 변경할 수 없습니다.",
   "events.details.language": "주 언어",
