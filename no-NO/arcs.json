@@ -13,6 +13,7 @@
   "arcs.progress": "{written} av {total} trinn skrevet",
   "arcs.change": "Bytt mal",
   "arcs.change.title": "Bytte til {name}?",
+  "arcs.change.moved": "{count, plural, one {Notatene dine fra ett trinn flyttes til det tilsvarende trinnet} other {Notatene dine fra # trinn flyttes til de tilsvarende trinnene}} i {name}:",
   "arcs.change.kept": "{count, plural, one {Trinnet du har skrevet, blir værende på canvaset. Det flyttes} other {De # trinnene du har skrevet, blir værende på canvaset. De flyttes}} til en gruppe som heter {group}, slik at du kan dra notatene over til de nye trinnene.",
   "arcs.change.removed": "{count, plural, one {Det tomme trinnet fjernes.} other {De # tomme trinnene fjernes.}}",
   "arcs.change.keptList": "Trinn som blir",

@@ -13,6 +13,7 @@
   "arcs.progress": "{written} von {total} Phasen geschrieben",
   "arcs.change": "Vorlage wechseln",
   "arcs.change.title": "Zu {name} wechseln?",
+  "arcs.change.moved": "{count, plural, one {Deine Notizen aus einer Phase wandern in die passende Phase} other {Deine Notizen aus # Phasen wandern in die passenden Phasen}} von {name}:",
   "arcs.change.kept": "{count, plural, one {Deine geschriebene Phase bleibt auf dem Canvas. Sie wandert} other {Deine # geschriebenen Phasen bleiben auf dem Canvas. Sie wandern}} in eine Gruppe namens {group}, damit du die Notizen in die neuen Phasen ziehen kannst.",
   "arcs.change.removed": "{count, plural, one {Die leere Phase wird entfernt.} other {Die # leeren Phasen werden entfernt.}}",
   "arcs.change.keptList": "Phasen, die bleiben",

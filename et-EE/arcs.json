@@ -13,6 +13,7 @@
   "arcs.progress": "Kirjutatud on {written} etappi {total}-st",
   "arcs.change": "Vaheta mall",
   "arcs.change.title": "Kas vahetada mall «{name}» vastu?",
+  "arcs.change.moved": "{count, plural, one {Sinu märkmed ühest etapist liiguvad vastavasse etappi} other {Sinu märkmed # etapist liiguvad vastavatesse etappidesse}} mallis «{name}»:",
   "arcs.change.kept": "{count, plural, one {Sinu kirjutatud etapp jääb lõuendile. See liigub} other {Sinu # kirjutatud etappi jäävad lõuendile. Need liiguvad}} gruppi «{group}», et saaksid märkmed uutesse etappidesse lohistada.",
   "arcs.change.removed": "{count, plural, one {Tühi etapp eemaldatakse.} other {# tühja etappi eemaldatakse.}}",
   "arcs.change.keptList": "Etapid, mis jäävad",

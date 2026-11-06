@@ -13,6 +13,7 @@
   "arcs.progress": "{written} de {total} etapes escrites",
   "arcs.change": "Canvia la plantilla",
   "arcs.change.title": "Vols canviar a {name}?",
+  "arcs.change.moved": "{count, plural, one {Les teves notes d'una etapa passen a l'etapa corresponent} many {Les teves notes de # d'etapes passen a les etapes corresponents} other {Les teves notes de # etapes passen a les etapes corresponents}} de {name}:",
   "arcs.change.kept": "{count, plural, one {L'etapa que has escrit es queda al canvas. Passa} other {Les # etapes que has escrit es queden al canvas. Passen}} a un grup anomenat {group}, perquè puguis arrossegar les notes a les etapes noves.",
   "arcs.change.removed": "{count, plural, one {L'etapa buida se suprimeix.} other {Les # etapes buides se suprimeixen.}}",
   "arcs.change.keptList": "Etapes que es queden",

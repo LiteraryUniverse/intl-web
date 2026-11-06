@@ -13,6 +13,7 @@
   "arcs.progress": "{written} dari {total} tahap sudah ditulis",
   "arcs.change": "Ganti templat",
   "arcs.change.title": "Ganti ke {name}?",
+  "arcs.change.moved": "{count, plural, other {Catatan Anda dari # tahap dipindahkan}} ke tahap yang sesuai di {name}:",
   "arcs.change.kept": "{count, plural, other {# tahap yang sudah Anda tulis tetap berada di kanvas. Tahap-tahap itu dipindahkan}} ke grup bernama {group}, sehingga Anda bisa menyeret catatannya ke tahap yang baru.",
   "arcs.change.removed": "{count, plural, other {# tahap kosong dihapus.}}",
   "arcs.change.keptList": "Tahap yang tetap ada",

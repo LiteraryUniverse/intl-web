@@ -13,6 +13,7 @@
   "arcs.progress": "Napsáno {written} z {total} fází",
   "arcs.change": "Změnit šablonu",
   "arcs.change.title": "Přejít na šablonu {name}?",
+  "arcs.change.moved": "{count, plural, one {Vaše poznámky z jedné fáze se přesunou do odpovídající fáze} few {Vaše poznámky z # fází se přesunou do odpovídajících fází} many {Vaše poznámky z # fáze se přesunou do odpovídajících fází} other {Vaše poznámky z # fází se přesunou do odpovídajících fází}} šablony {name}:",
   "arcs.change.kept": "{count, plural, one {Vaše napsaná fáze zůstane na plátně. Přesune se} few {Vaše # napsané fáze zůstanou na plátně. Přesunou se} many {Vašich # napsané fáze zůstane na plátně. Přesunou se} other {Vašich # napsaných fází zůstane na plátně. Přesunou se}} do skupiny {group}, takže poznámky můžete přetáhnout do nových fází.",
   "arcs.change.removed": "{count, plural, one {Prázdná fáze bude odstraněna.} few {# prázdné fáze budou odstraněny.} many {# prázdné fáze budou odstraněny.} other {# prázdných fází bude odstraněno.}}",
   "arcs.change.keptList": "Fáze, které zůstanou",

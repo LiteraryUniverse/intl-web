@@ -13,6 +13,7 @@
   "arcs.progress": "{written} sa {total} yugto ang naisulat na",
   "arcs.change": "Palitan ang template",
   "arcs.change.title": "Lumipat sa {name}?",
+  "arcs.change.moved": "{count, plural, one {Ililipat ang mga note mo mula sa isang yugto} other {Ililipat ang mga note mo mula sa # yugto}} papunta sa mga katugmang yugto ng {name}:",
   "arcs.change.kept": "{count, plural, one {Mananatili sa canvas ang naisulat mong yugto. Ililipat ito} other {Mananatili sa canvas ang # naisulat mong yugto. Ililipat ang mga ito}} sa isang grupong tinatawag na {group}, para mahila mo ang mga note papunta sa mga bagong yugto.",
   "arcs.change.removed": "{count, plural, one {Aalisin ang walang lamang yugto.} other {Aalisin ang # walang lamang yugto.}}",
   "arcs.change.keptList": "Mga yugtong mananatili",

@@ -13,6 +13,7 @@
   "arcs.progress": "{written} van de {total} fasen geschreven",
   "arcs.change": "Sjabloon wijzigen",
   "arcs.change.title": "Overstappen op {name}?",
+  "arcs.change.moved": "{count, plural, one {Je notities uit één fase verhuizen naar de bijbehorende fase} other {Je notities uit # fasen verhuizen naar de bijbehorende fasen}} van {name}:",
   "arcs.change.kept": "{count, plural, one {Je geschreven fase blijft op het canvas staan. Die verhuist} other {Je # geschreven fasen blijven op het canvas staan. Die verhuizen}} naar een groep met de naam {group}, zodat je de notities naar de nieuwe fasen kunt slepen.",
   "arcs.change.removed": "{count, plural, one {De lege fase wordt verwijderd.} other {De # lege fasen worden verwijderd.}}",
   "arcs.change.keptList": "Fasen die blijven",

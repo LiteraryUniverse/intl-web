@@ -13,6 +13,7 @@
   "arcs.progress": "{written} el {total} etapoj skribitaj",
   "arcs.change": "Ŝanĝi ŝablonon",
   "arcs.change.title": "Ĉu ŝanĝi al {name}?",
+  "arcs.change.moved": "{count, plural, one {Viaj notoj el unu etapo translokiĝas al la responda etapo} other {Viaj notoj el # etapoj translokiĝas al la respondaj etapoj}} de {name}:",
   "arcs.change.kept": "{count, plural, one {Via skribita etapo restas sur la kanvaso. Ĝi translokiĝas} other {Viaj # skribitaj etapoj restas sur la kanvaso. Ili translokiĝas}} en grupon nomatan {group}, por ke vi povu treni la notojn al la novaj etapoj.",
   "arcs.change.removed": "{count, plural, one {La malplena etapo estas forigita.} other {La # malplenaj etapoj estas forigitaj.}}",
   "arcs.change.keptList": "Etapoj, kiuj restas",

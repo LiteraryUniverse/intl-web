@@ -13,6 +13,7 @@
   "arcs.progress": "{total}টি ধাপের মধ্যে {written}টি লেখা হয়েছে",
   "arcs.change": "টেমপ্লেট বদলান",
   "arcs.change.title": "{name}-এ বদলাবেন?",
+  "arcs.change.moved": "{count, plural, one {একটি ধাপের আপনার নোটগুলো} other {#টি ধাপের আপনার নোটগুলো}} {name}-এর সংশ্লিষ্ট ধাপগুলোতে চলে যাবে:",
   "arcs.change.kept": "{count, plural, one {আপনার লেখা ধাপটি ক্যানভাসেই থাকবে। সেটি} other {আপনার লেখা #টি ধাপ ক্যানভাসেই থাকবে। সেগুলো}} {group} নামের একটি গোষ্ঠীতে চলে যাবে, যাতে আপনি নোটগুলো নতুন ধাপে টেনে নিয়ে যেতে পারেন।",
   "arcs.change.removed": "{count, plural, one {ফাঁকা ধাপটি মুছে ফেলা হবে।} other {#টি ফাঁকা ধাপ মুছে ফেলা হবে।}}",
   "arcs.change.keptList": "যে ধাপগুলো থাকবে",

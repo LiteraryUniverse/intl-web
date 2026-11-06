@@ -13,6 +13,7 @@
   "arcs.progress": "{written} / {total} szakasz megírva",
   "arcs.change": "Sablon váltása",
   "arcs.change.title": "Váltasz erre: {name}?",
+  "arcs.change.moved": "{count, plural, one {Egy szakasz jegyzetei} other {# szakasz jegyzetei}} átkerülnek a(z) {name} megfelelő szakaszaiba:",
   "arcs.change.kept": "{count, plural, one {A megírt szakaszod a vásznon marad.} other {Megmarad a vásznon # megírt szakaszod.}} A jegyzetek a(z) {group} csoportba kerülnek, onnan áthúzhatod őket az új szakaszokba.",
   "arcs.change.removed": "{count, plural, one {Az üres szakasz törlődik.} other {Törlődik # üres szakasz.}}",
   "arcs.change.keptList": "Megmaradó szakaszok",

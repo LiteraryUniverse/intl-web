@@ -13,6 +13,7 @@
   "arcs.progress": "{written} av {total} steg skrivna",
   "arcs.change": "Byt mall",
   "arcs.change.title": "Byta till {name}?",
+  "arcs.change.moved": "{count, plural, one {Dina anteckningar från ett steg flyttas till motsvarande steg} other {Dina anteckningar från # steg flyttas till motsvarande steg}} i {name}:",
   "arcs.change.kept": "{count, plural, one {Ditt skrivna steg blir kvar på canvasen. Det flyttas} other {Dina # skrivna steg blir kvar på canvasen. De flyttas}} till en grupp som heter {group}, så att du kan dra anteckningarna till de nya stegen.",
   "arcs.change.removed": "{count, plural, one {Det tomma steget tas bort.} other {De # tomma stegen tas bort.}}",
   "arcs.change.keptList": "Steg som blir kvar",

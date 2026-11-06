@@ -13,6 +13,7 @@
   "arcs.progress": "{written} fasi su {total} scritte",
   "arcs.change": "Cambia modello",
   "arcs.change.title": "Passare a {name}?",
+  "arcs.change.moved": "{count, plural, one {Le tue note di una fase passano nella fase corrispondente} many {Le tue note di # di fasi passano nelle fasi corrispondenti} other {Le tue note di # fasi passano nelle fasi corrispondenti}} di {name}:",
   "arcs.change.kept": "{count, plural, one {La fase che hai scritto resta sul canvas. Viene spostata} many {Le # di fasi che hai scritto restano sul canvas. Vengono spostate} other {Le # fasi che hai scritto restano sul canvas. Vengono spostate}} in un gruppo chiamato {group}, così potrai trascinare le note nelle nuove fasi.",
   "arcs.change.removed": "{count, plural, one {La fase vuota viene rimossa.} many {Le # di fasi vuote vengono rimosse.} other {Le # fasi vuote vengono rimosse.}}",
   "arcs.change.keptList": "Fasi che restano",

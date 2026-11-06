@@ -13,6 +13,7 @@
   "arcs.progress": "{written} of {total} stages written",
   "arcs.change": "Change template",
   "arcs.change.title": "Change to {name}?",
+  "arcs.change.moved": "{count, plural, other {កំណត់ត្រារបស់អ្នកពី # ដំណាក់កាល}} នឹងផ្លាស់ទៅដំណាក់កាលដែលត្រូវគ្នានៃ {name}៖",
   "arcs.change.kept": "{count, plural, one {Your written stage stays on the canvas. It moves} other {Your # written stages stay on the canvas. They move}} into a group called {group}, so you can drag the notes into the new stages.",
   "arcs.change.removed": "{count, plural, one {The empty stage is removed.} other {The # empty stages are removed.}}",
   "arcs.change.keptList": "Stages that stay",

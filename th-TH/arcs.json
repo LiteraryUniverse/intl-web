@@ -13,6 +13,7 @@
   "arcs.progress": "เขียนแล้ว {written} จาก {total} ขั้น",
   "arcs.change": "เปลี่ยนเทมเพลต",
   "arcs.change.title": "เปลี่ยนเป็น {name} ไหม",
+  "arcs.change.moved": "{count, plural, other {โน้ตที่คุณเขียนไว้ใน # ขั้นจะย้าย}}ไปอยู่ในขั้นที่ตรงกันของ {name}:",
   "arcs.change.kept": "{count, plural, other {ขั้นที่คุณเขียนไว้แล้ว # ขั้นจะยังอยู่บนแคนวาส และย้ายไปอยู่ในกลุ่มชื่อ \"{group}\"}} คุณจึงลากโน้ตไปวางในขั้นใหม่ได้",
   "arcs.change.removed": "{count, plural, other {ขั้นที่ยังว่างอยู่ # ขั้นจะถูกลบ}}",
   "arcs.change.keptList": "ขั้นที่จะคงไว้",

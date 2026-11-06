@@ -13,6 +13,7 @@
   "arcs.progress": "{total} 段階のうち {written} 段階を執筆済み",
   "arcs.change": "テンプレートを変更",
   "arcs.change.title": "{name} に変更しますか？",
+  "arcs.change.moved": "{count, plural, other {# 段階のメモは}}{name} の対応する段階へ移ります：",
   "arcs.change.kept": "{count, plural, other {書き込み済みの # 段階はキャンバスに残り、「{group}」というグループに移ります}}。メモは新しい段階へドラッグして移せます。",
   "arcs.change.removed": "{count, plural, other {空の # 段階は削除されます。}}",
   "arcs.change.keptList": "残る段階",

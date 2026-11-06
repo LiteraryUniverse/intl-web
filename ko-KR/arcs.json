@@ -13,6 +13,7 @@
   "arcs.progress": "{total}단계 중 {written}단계 작성함",
   "arcs.change": "템플릿 변경",
   "arcs.change.title": "{name}(으)로 변경할까요?",
+  "arcs.change.moved": "{count, plural, other {#개 단계의 메모가}} {name}의 해당 단계로 옮겨집니다:",
   "arcs.change.kept": "{count, plural, other {작성한 #개 단계는 캔버스에 남으며, \"{group}\" 그룹으로 옮겨집니다}}. 메모는 새 단계로 끌어다 놓으면 됩니다.",
   "arcs.change.removed": "{count, plural, other {비어 있는 #개 단계는 삭제됩니다.}}",
   "arcs.change.keptList": "남는 단계",

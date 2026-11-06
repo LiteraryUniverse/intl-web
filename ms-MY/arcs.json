@@ -13,6 +13,7 @@
   "arcs.progress": "{written} daripada {total} peringkat telah ditulis",
   "arcs.change": "Tukar templat",
   "arcs.change.title": "Tukar kepada {name}?",
+  "arcs.change.moved": "{count, plural, other {Nota anda daripada # peringkat dialihkan}} ke peringkat yang sepadan dalam {name}:",
   "arcs.change.kept": "{count, plural, other {# peringkat yang telah anda tulis kekal pada kanvas. Ia dialihkan}} ke dalam kumpulan bernama {group}, supaya anda boleh menyeret nota ke peringkat baharu.",
   "arcs.change.removed": "{count, plural, other {# peringkat kosong akan dialih keluar.}}",
   "arcs.change.keptList": "Peringkat yang kekal",

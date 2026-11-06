@@ -13,6 +13,7 @@
   "arcs.progress": "{total} 個階段中已寫了 {written} 個",
   "arcs.change": "更換範本",
   "arcs.change.title": "要換成「{name}」嗎？",
+  "arcs.change.moved": "{count, plural, other {你在 # 個階段寫的筆記}}會移到「{name}」中對應的階段：",
   "arcs.change.kept": "{count, plural, other {你已寫的 # 個階段會留在畫布上，並移到名為「{group}」的群組裡}}，方便你把筆記拖進新的階段。",
   "arcs.change.removed": "{count, plural, other {空白的 # 個階段會被移除。}}",
   "arcs.change.keptList": "會保留的階段",

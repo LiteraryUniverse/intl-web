@@ -13,6 +13,7 @@
   "arcs.progress": "{total} में से {written} चरण लिखे गए",
   "arcs.change": "टेम्पलेट बदलें",
   "arcs.change.title": "{name} पर जाएँ?",
+  "arcs.change.moved": "{count, plural, one {एक चरण के आपके नोट्स} other {# चरणों के आपके नोट्स}} {name} के संबंधित चरणों में चले जाएँगे:",
   "arcs.change.kept": "{count, plural, one {आपका लिखा हुआ चरण कैनवास पर ही रहेगा। वह} other {आपके लिखे हुए # चरण कैनवास पर ही रहेंगे। वे}} {group} नाम के समूह में चले जाएँगे, ताकि आप नोट्स को नए चरणों में खींच सकें।",
   "arcs.change.removed": "{count, plural, one {खाली चरण हटा दिया जाएगा।} other {# खाली चरण हटा दिए जाएँगे।}}",
   "arcs.change.keptList": "जो चरण रहेंगे",

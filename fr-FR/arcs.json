@@ -13,6 +13,7 @@
   "arcs.progress": "{written} étapes sur {total} rédigées",
   "arcs.change": "Changer de modèle",
   "arcs.change.title": "Passer à « {name} » ?",
+  "arcs.change.moved": "{count, plural, one {Vos notes d’une étape passent dans l’étape correspondante} many {Vos notes de # d’étapes passent dans les étapes correspondantes} other {Vos notes de # étapes passent dans les étapes correspondantes}} de « {name} » :",
   "arcs.change.kept": "{count, plural, one {Votre étape rédigée reste sur le canevas. Elle est déplacée} many {Vos # d’étapes rédigées restent sur le canevas. Elles sont déplacées} other {Vos # étapes rédigées restent sur le canevas. Elles sont déplacées}} dans un groupe nommé {group}, pour que vous puissiez glisser les notes vers les nouvelles étapes.",
   "arcs.change.removed": "{count, plural, one {L’étape vide est supprimée.} many {Les # d’étapes vides sont supprimées.} other {Les # étapes vides sont supprimées.}}",
   "arcs.change.keptList": "Étapes conservées",

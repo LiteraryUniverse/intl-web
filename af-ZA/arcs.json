@@ -13,6 +13,7 @@
   "arcs.progress": "{written} van {total} stadiums geskryf",
   "arcs.change": "Verander sjabloon",
   "arcs.change.title": "Verander na {name}?",
+  "arcs.change.moved": "{count, plural, one {Jou notas uit een stadium skuif na die ooreenstemmende stadium} other {Jou notas uit # stadiums skuif na die ooreenstemmende stadiums}} van {name}:",
   "arcs.change.kept": "{count, plural, one {Jou geskrewe stadium bly op die doek. Dit skuif} other {Jou # geskrewe stadiums bly op die doek. Hulle skuif}} na ’n groep genaamd {group}, sodat jy die notas na die nuwe stadiums kan sleep.",
   "arcs.change.removed": "{count, plural, one {Die leë stadium word verwyder.} other {Die # leë stadiums word verwyder.}}",
   "arcs.change.keptList": "Stadiums wat bly",

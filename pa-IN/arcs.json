@@ -13,6 +13,7 @@
   "arcs.progress": "{total} ਵਿੱਚੋਂ {written} ਪੜਾਅ ਲਿਖੇ ਗਏ",
   "arcs.change": "ਟੈਂਪਲੇਟ ਬਦਲੋ",
   "arcs.change.title": "{name} ਉੱਤੇ ਜਾਣਾ ਹੈ?",
+  "arcs.change.moved": "{count, plural, one {ਇੱਕ ਪੜਾਅ ਦੇ ਤੁਹਾਡੇ ਨੋਟ} other {# ਪੜਾਵਾਂ ਦੇ ਤੁਹਾਡੇ ਨੋਟ}} {name} ਦੇ ਮੇਲ ਖਾਂਦੇ ਪੜਾਵਾਂ ਵਿੱਚ ਚਲੇ ਜਾਣਗੇ:",
   "arcs.change.kept": "{count, plural, one {ਤੁਹਾਡਾ ਲਿਖਿਆ ਹੋਇਆ ਪੜਾਅ ਕੈਨਵਸ ਉੱਤੇ ਹੀ ਰਹੇਗਾ। ਇਹ} other {ਤੁਹਾਡੇ ਲਿਖੇ ਹੋਏ # ਪੜਾਅ ਕੈਨਵਸ ਉੱਤੇ ਹੀ ਰਹਿਣਗੇ। ਇਹ}} {group} ਨਾਂ ਦੇ ਗਰੁੱਪ ਵਿੱਚ ਚਲੇ ਜਾਣਗੇ, ਤਾਂ ਜੋ ਤੁਸੀਂ ਨੋਟਾਂ ਨੂੰ ਨਵੇਂ ਪੜਾਵਾਂ ਵਿੱਚ ਖਿੱਚ ਸਕੋ।",
   "arcs.change.removed": "{count, plural, one {ਖਾਲੀ ਪੜਾਅ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।} other {# ਖਾਲੀ ਪੜਾਅ ਹਟਾ ਦਿੱਤੇ ਜਾਣਗੇ।}}",
   "arcs.change.keptList": "ਜੋ ਪੜਾਅ ਰਹਿਣਗੇ",

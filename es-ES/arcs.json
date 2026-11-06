@@ -13,6 +13,7 @@
   "arcs.progress": "{written} de {total} etapas escritas",
   "arcs.change": "Cambiar plantilla",
   "arcs.change.title": "¿Cambiar a {name}?",
+  "arcs.change.moved": "{count, plural, one {Tus notas de una etapa pasan a la etapa correspondiente} many {Tus notas de # de etapas pasan a las etapas correspondientes} other {Tus notas de # etapas pasan a las etapas correspondientes}} de {name}:",
   "arcs.change.kept": "{count, plural, one {Tu etapa escrita se queda en el lienzo. Se mueve} many {Tus # de etapas escritas se quedan en el lienzo. Se mueven} other {Tus # etapas escritas se quedan en el lienzo. Se mueven}} a un grupo llamado {group}, para que puedas arrastrar las notas a las nuevas etapas.",
   "arcs.change.removed": "{count, plural, one {Se elimina la etapa vacía.} many {Se eliminan las # de etapas vacías.} other {Se eliminan las # etapas vacías.}}",
   "arcs.change.keptList": "Etapas que se conservan",

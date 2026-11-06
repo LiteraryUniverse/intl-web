@@ -13,6 +13,7 @@
   "arcs.progress": "Napísané: {written} z {total} fáz",
   "arcs.change": "Zmeniť šablónu",
   "arcs.change.title": "Prejsť na šablónu {name}?",
+  "arcs.change.moved": "{count, plural, one {Vaše poznámky z jednej fázy sa presunú do zodpovedajúcej fázy} few {Vaše poznámky z # fáz sa presunú do zodpovedajúcich fáz} many {Vaše poznámky z # fázy sa presunú do zodpovedajúcich fáz} other {Vaše poznámky z # fáz sa presunú do zodpovedajúcich fáz}} šablóny {name}:",
   "arcs.change.kept": "{count, plural, one {Vaša napísaná fáza zostane na plátne. Presunie sa} few {Vaše # napísané fázy zostanú na plátne. Presunú sa} many {Vašich # napísaných fáz zostane na plátne. Presunú sa} other {Vašich # napísaných fáz zostane na plátne. Presunú sa}} do skupiny {group}, takže poznámky môžete presunúť do nových fáz.",
   "arcs.change.removed": "{count, plural, one {Prázdna fáza sa odstráni.} few {# prázdne fázy sa odstránia.} many {# prázdnej fázy sa odstráni.} other {# prázdnych fáz sa odstráni.}}",
   "arcs.change.keptList": "Fázy, ktoré zostanú",

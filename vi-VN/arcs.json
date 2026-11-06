@@ -13,6 +13,7 @@
   "arcs.progress": "Đã viết {written}/{total} giai đoạn",
   "arcs.change": "Đổi mẫu",
   "arcs.change.title": "Đổi sang {name}?",
+  "arcs.change.moved": "{count, plural, other {Ghi chú của bạn từ # giai đoạn sẽ được chuyển}} vào các giai đoạn tương ứng của {name}:",
   "arcs.change.kept": "{count, plural, other {# giai đoạn bạn đã viết sẽ ở lại trên canvas và được chuyển vào một nhóm tên là \"{group}\"}}, để bạn kéo các ghi chú vào những giai đoạn mới.",
   "arcs.change.removed": "{count, plural, other {# giai đoạn còn trống sẽ bị xóa.}}",
   "arcs.change.keptList": "Các giai đoạn được giữ lại",

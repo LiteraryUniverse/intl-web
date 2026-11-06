@@ -13,6 +13,7 @@
   "arcs.progress": "{total} માંથી {written} તબક્કા લખાયા",
   "arcs.change": "ટેમ્પ્લેટ બદલો",
   "arcs.change.title": "{name} પર જવું છે?",
+  "arcs.change.moved": "{count, plural, one {એક તબક્કાની તમારી નોંધો} other {# તબક્કાની તમારી નોંધો}} {name} ના મેળ ખાતા તબક્કાઓમાં જશે:",
   "arcs.change.kept": "{count, plural, one {તમારો લખેલો તબક્કો કેનવાસ પર જ રહેશે. તે} other {તમારા લખેલા # તબક્કા કેનવાસ પર જ રહેશે. તે}} {group} નામના જૂથમાં જશે, જેથી તમે નોંધોને નવા તબક્કામાં ખેંચી શકો.",
   "arcs.change.removed": "{count, plural, one {ખાલી તબક્કો દૂર કરવામાં આવશે.} other {# ખાલી તબક્કા દૂર કરવામાં આવશે.}}",
   "arcs.change.keptList": "જે તબક્કા રહેશે",

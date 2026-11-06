@@ -13,6 +13,7 @@
   "arcs.progress": "{total} पैकी {written} टप्पे लिहून झाले",
   "arcs.change": "टेम्प्लेट बदला",
   "arcs.change.title": "{name} वर जायचे?",
+  "arcs.change.moved": "{count, plural, one {एका टप्प्यातील तुमच्या नोट्स} other {# टप्प्यांतील तुमच्या नोट्स}} {name} मधील जुळणाऱ्या टप्प्यांत जातील:",
   "arcs.change.kept": "{count, plural, one {तुम्ही लिहिलेला टप्पा कॅनव्हासवरच राहील. तो} other {तुम्ही लिहिलेले # टप्पे कॅनव्हासवरच राहतील. ते}} {group} नावाच्या गटात जातील, म्हणजे तुम्ही नोट्स नव्या टप्प्यांत ओढून नेऊ शकता.",
   "arcs.change.removed": "{count, plural, one {रिकामा टप्पा काढून टाकला जाईल.} other {# रिकामे टप्पे काढून टाकले जातील.}}",
   "arcs.change.keptList": "राहणारे टप्पे",

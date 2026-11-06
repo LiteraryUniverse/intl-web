@@ -13,6 +13,7 @@
   "arcs.progress": "{total} దశలలో {written} రాశారు",
   "arcs.change": "టెంప్లేట్‌ను మార్చండి",
   "arcs.change.title": "{name}కు మార్చాలా?",
+  "arcs.change.moved": "{count, plural, one {ఒక దశలోని మీ నోట్‌లు} other {# దశలలోని మీ నోట్‌లు}} {name}లోని సరిపోలే దశల్లోకి వెళ్తాయి:",
   "arcs.change.kept": "{count, plural, one {మీరు రాసిన దశ కాన్వాస్‌పైనే ఉంటుంది. అది} other {మీరు రాసిన # దశలు కాన్వాస్‌పైనే ఉంటాయి. అవి}} {group} అనే గ్రూప్‌లోకి వెళ్తాయి, కాబట్టి మీరు నోట్‌లను కొత్త దశల్లోకి లాగవచ్చు.",
   "arcs.change.removed": "{count, plural, one {ఖాళీ దశ తొలగించబడుతుంది.} other {# ఖాళీ దశలు తొలగించబడతాయి.}}",
   "arcs.change.keptList": "ఉండిపోయే దశలు",

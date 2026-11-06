@@ -13,6 +13,7 @@
   "arcs.progress": "{written}/{total} vaihetta kirjoitettu",
   "arcs.change": "Vaihda mallia",
   "arcs.change.title": "Vaihdetaanko malliksi {name}?",
+  "arcs.change.moved": "{count, plural, one {Muistiinpanosi yhdestä vaiheesta siirtyvät vastaavaan vaiheeseen} other {Muistiinpanosi # vaiheesta siirtyvät vastaaviin vaiheisiin}} mallissa {name}:",
   "arcs.change.kept": "{count, plural, one {Kirjoittamasi vaihe pysyy kanvaasilla. Se siirtyy} other {# kirjoittamaasi vaihetta pysyvät kanvaasilla. Ne siirtyvät}} ryhmään nimeltä {group}, jotta voit vetää muistiinpanot uusiin vaiheisiin.",
   "arcs.change.removed": "{count, plural, one {Tyhjä vaihe poistetaan.} other {# tyhjää vaihetta poistetaan.}}",
   "arcs.change.keptList": "Vaiheet, jotka säilyvät",

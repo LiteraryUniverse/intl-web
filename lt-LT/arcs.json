@@ -13,6 +13,7 @@
   "arcs.progress": "Parašyta etapų: {written} iš {total}",
   "arcs.change": "Keisti šabloną",
   "arcs.change.title": "Keisti šabloną į {name}?",
+  "arcs.change.moved": "{count, plural, one {Jūsų užrašai iš # etapo} few {Jūsų užrašai iš # etapų} many {Jūsų užrašai iš # etapo} other {Jūsų užrašai iš # etapų}} perkeliami į atitinkamus šablono {name} etapus:",
   "arcs.change.kept": "{count, plural, one {Jūsų parašytas etapas lieka drobėje.} few {Jūsų # parašyti etapai lieka drobėje.} many {Jūsų # parašyto etapo lieka drobėje.} other {Jūsų # parašytų etapų lieka drobėje.}} Užrašai perkeliami į grupę {group}, iš kurios galėsite juos nuvilkti į naujus etapus.",
   "arcs.change.removed": "{count, plural, one {Tuščias etapas pašalinamas.} few {# tušti etapai pašalinami.} many {# tuščio etapo pašalinama.} other {# tuščių etapų pašalinama.}}",
   "arcs.change.keptList": "Etapai, kurie lieka",

@@ -13,6 +13,7 @@
   "arcs.progress": "{written} din {total} etape scrise",
   "arcs.change": "Schimbă șablonul",
   "arcs.change.title": "Treci la {name}?",
+  "arcs.change.moved": "{count, plural, one {Notițele tale dintr-o etapă se mută în etapa corespunzătoare} few {Notițele tale din # etape se mută în etapele corespunzătoare} other {Notițele tale din # de etape se mută în etapele corespunzătoare}} din {name}:",
   "arcs.change.kept": "{count, plural, one {Etapa scrisă rămâne pe canvas. Se mută} few {Cele # etape scrise rămân pe canvas. Se mută} other {Cele # de etape scrise rămân pe canvas. Se mută}} într-un grup numit {group}, ca să poți trage notițele în etapele noi.",
   "arcs.change.removed": "{count, plural, one {Etapa goală este eliminată.} few {Cele # etape goale sunt eliminate.} other {Cele # de etape goale sunt eliminate.}}",
   "arcs.change.keptList": "Etape care rămân",

@@ -13,6 +13,7 @@
   "arcs.progress": "{written} af {total} trin skrevet",
   "arcs.change": "Skift skabelon",
   "arcs.change.title": "Skift til {name}?",
+  "arcs.change.moved": "{count, plural, one {Dine noter fra ét trin flyttes over i det tilsvarende trin} other {Dine noter fra # trin flyttes over i de tilsvarende trin}} i {name}:",
   "arcs.change.kept": "{count, plural, one {Dit skrevne trin bliver på canvasset. Det flyttes} other {Dine # skrevne trin bliver på canvasset. De flyttes}} over i en gruppe med navnet {group}, så du kan trække noterne over i de nye trin.",
   "arcs.change.removed": "{count, plural, one {Det tomme trin fjernes.} other {De # tomme trin fjernes.}}",
   "arcs.change.keptList": "Trin, der bliver",

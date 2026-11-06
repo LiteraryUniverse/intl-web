@@ -13,6 +13,7 @@
   "arcs.progress": "{written} de {total} etapas escritas",
   "arcs.change": "Mudar de modelo",
   "arcs.change.title": "Mudar para {name}?",
+  "arcs.change.moved": "{count, plural, one {As tuas notas de uma etapa passam para a etapa correspondente} many {As tuas notas de # de etapas passam para as etapas correspondentes} other {As tuas notas de # etapas passam para as etapas correspondentes}} de {name}:",
   "arcs.change.kept": "{count, plural, one {A tua etapa escrita fica na tela. É movida} many {As tuas # de etapas escritas ficam na tela. São movidas} other {As tuas # etapas escritas ficam na tela. São movidas}} para um grupo chamado {group}, para que possas arrastar as notas para as novas etapas.",
   "arcs.change.removed": "{count, plural, one {A etapa vazia é removida.} many {As # de etapas vazias são removidas.} other {As # etapas vazias são removidas.}}",
   "arcs.change.keptList": "Etapas que ficam",

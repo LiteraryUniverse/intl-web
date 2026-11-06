@@ -13,6 +13,7 @@
   "arcs.progress": "Napisane: {written} z {total} etapów",
   "arcs.change": "Zmień szablon",
   "arcs.change.title": "Przejść na szablon {name}?",
+  "arcs.change.moved": "{count, plural, one {Twoje notatki z jednego etapu trafią do odpowiedniego etapu} few {Twoje notatki z # etapów trafią do odpowiednich etapów} many {Twoje notatki z # etapów trafią do odpowiednich etapów} other {Twoje notatki z # etapu trafią do odpowiednich etapów}} szablonu {name}:",
   "arcs.change.kept": "{count, plural, one {Twój napisany etap zostaje} few {Twoje # napisane etapy zostają} many {Twoich # napisanych etapów zostaje} other {Twoich # napisanych etapów zostaje}} na płótnie. Notatki trafią do grupy {group}, skąd możesz przeciągnąć je do nowych etapów.",
   "arcs.change.removed": "{count, plural, one {Pusty etap zostanie usunięty.} few {# puste etapy zostaną usunięte.} many {# pustych etapów zostanie usuniętych.} other {# pustego etapu zostanie usuniętych.}}",
   "arcs.change.keptList": "Etapy, które zostają",

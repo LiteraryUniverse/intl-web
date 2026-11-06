@@ -13,6 +13,7 @@
   "arcs.progress": "{total} aşamanın {written} tanesi yazıldı",
   "arcs.change": "Şablonu değiştir",
   "arcs.change.title": "«{name}» şablonuna geçilsin mi?",
+  "arcs.change.moved": "{count, plural, one {Bir aşamadaki notlarınız} other {# aşamadaki notlarınız}} «{name}» şablonunun eşleşen aşamalarına taşınır:",
   "arcs.change.kept": "Yazdığınız {count, plural, one {aşama} other {# aşama}} tuvalde kalır ve «{group}» adlı bir gruba taşınır; böylece notları yeni aşamalara sürükleyebilirsiniz.",
   "arcs.change.removed": "{count, plural, one {Boş aşama kaldırılır.} other {# boş aşama kaldırılır.}}",
   "arcs.change.keptList": "Kalacak aşamalar",
