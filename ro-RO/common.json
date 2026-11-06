@@ -271,6 +271,7 @@
   "common.upload.error.tooLarge": "Imaginea trebuie să aibă mai puțin de 5MB",
   "common.upload.error.unsupportedType": "Te rugăm să încarci un tip de imagine acceptat",
   "common.upload.recommendedSize": "Dimensiune recomandată: {width}×{height} px ({ratio}) — imaginile mai mari cu același raport funcționează la fel de bine.",
+  "common.upload.recommendedSizeLimit": "Dimensiune recomandată: {width}×{height} px ({ratio}). Funcționează la fel de bine și imaginile de până la {maxWidth}×{maxHeight} px.",
   "common.upload.success": "Încărcare reușită!",
   "common.uploading": "Uploading...",
   "common.user": "Utilizator",

@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
   "common.upload.recommendedSize": "शिफारस केलेला आकार: {width}×{height} px ({ratio}) — त्याच गुणोत्तराच्या मोठ्या प्रतिमाही चालतात.",
+  "common.upload.recommendedSizeLimit": "शिफारस केलेला आकार: {width}×{height} px ({ratio}). {maxWidth}×{maxHeight} px पर्यंतच्या प्रतिमाही चालतात.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "वापरकर्ता",

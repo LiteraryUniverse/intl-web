@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Obrázok musí mať menej ako 5 MB",
   "common.upload.error.unsupportedType": "Nahrajte podporovaný typ obrázka",
   "common.upload.recommendedSize": "Odporúčaná veľkosť: {width}×{height} px ({ratio}) — väčšie obrázky s rovnakým pomerom strán fungujú tiež.",
+  "common.upload.recommendedSizeLimit": "Odporúčaná veľkosť: {width}×{height} px ({ratio}). Obrázky do {maxWidth}×{maxHeight} px fungujú tiež.",
   "common.upload.success": "Nahrávanie úspešné!",
   "common.uploading": "Nahráva sa...",
   "common.user": "Užívateľ",

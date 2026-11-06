@@ -271,6 +271,7 @@
   "common.upload.error.tooLarge": "ছবিখন 5MBতকৈ সৰু হ'ব লাগিব",
   "common.upload.error.unsupportedType": "অনুগ্ৰহ কৰি এটা সমৰ্থিত প্ৰকাৰৰ ছবি আপল'ড কৰক",
   "common.upload.recommendedSize": "প্ৰস্তাৱিত আকাৰ: {width}×{height} px ({ratio}) — একেই অনুপাতৰ ডাঙৰ ছবিও চলে।",
+  "common.upload.recommendedSizeLimit": "প্ৰস্তাৱিত আকাৰ: {width}×{height} px ({ratio})। {maxWidth}×{maxHeight} px লৈকে ছবিও চলে।",
   "common.upload.success": "আপল'ড সফল হ'ল!",
   "common.uploading": "আপল'ড কৰি থকা হৈছে...",
   "common.user": "ব্যৱহাৰকাৰী",

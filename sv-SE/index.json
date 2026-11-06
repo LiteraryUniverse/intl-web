@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Bilden måste vara mindre än 5 MB",
   "common.upload.error.unsupportedType": "Ladda upp en bildtyp som stöds",
   "common.upload.recommendedSize": "Rekommenderad storlek: {width}×{height} px ({ratio}) — större bilder med samma förhållande fungerar också.",
+  "common.upload.recommendedSizeLimit": "Rekommenderad storlek: {width}×{height} px ({ratio}). Bilder på upp till {maxWidth}×{maxHeight} px fungerar också.",
   "common.upload.success": "Uppladdningen lyckades!",
   "common.uploading": "Uploading...",
   "common.user": "Användare",

@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "圖片必須小於 5MB",
   "common.upload.error.unsupportedType": "請上傳支援的圖片類型",
   "common.upload.recommendedSize": "建議尺寸：{width}×{height} px（{ratio}）— 相同比例的較大圖片也可以。",
+  "common.upload.recommendedSizeLimit": "建議尺寸：{width}×{height} px（{ratio}）。最大 {maxWidth}×{maxHeight} px 的圖片也可以。",
   "common.upload.success": "上傳成功！",
   "common.uploading": "Uploading...",
   "common.user": "使用者",

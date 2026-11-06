@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Зображення має бути меншим за 5 МБ",
   "common.upload.error.unsupportedType": "Будь ласка, завантажте підтримуваний тип зображення",
   "common.upload.recommendedSize": "Рекомендований розмір: {width}×{height} px ({ratio}) — більші зображення з таким самим співвідношенням теж підійдуть.",
+  "common.upload.recommendedSizeLimit": "Рекомендований розмір: {width}×{height} px ({ratio}). Зображення до {maxWidth}×{maxHeight} px теж підійдуть.",
   "common.upload.success": "Завантаження успішне!",
   "common.uploading": "Завантаження...",
   "common.user": "Користувач",

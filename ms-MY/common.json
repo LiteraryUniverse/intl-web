@@ -271,6 +271,7 @@
   "common.upload.error.tooLarge": "Imej mestilah kurang daripada 5MB",
   "common.upload.error.unsupportedType": "Sila muat naik jenis imej yang disokong",
   "common.upload.recommendedSize": "Saiz disyorkan: {width}×{height} px ({ratio}) — imej yang lebih besar dengan nisbah yang sama juga boleh.",
+  "common.upload.recommendedSizeLimit": "Saiz disyorkan: {width}×{height} px ({ratio}). Imej sehingga {maxWidth}×{maxHeight} px juga boleh.",
   "common.upload.success": "Muat naik berjaya!",
   "common.uploading": "Uploading...",
   "common.user": "Pengguna",

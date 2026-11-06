@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "L'image doit faire moins de 5 Mo",
   "common.upload.error.unsupportedType": "Veuillez téléverser un type d'image pris en charge",
   "common.upload.recommendedSize": "Taille recommandée : {width}×{height} px ({ratio}) — les images plus grandes avec le même rapport fonctionnent aussi.",
+  "common.upload.recommendedSizeLimit": "Taille recommandée : {width}×{height} px ({ratio}). Les images jusqu'à {maxWidth}×{maxHeight} px fonctionnent aussi.",
   "common.upload.success": "Téléversement réussi !",
   "common.uploading": "Téléversement...",
   "common.user": "Utilisateur",

@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "รูปภาพต้องมีขนาดเล็กกว่า 5MB",
   "common.upload.error.unsupportedType": "โปรดอัปโหลดรูปภาพในประเภทที่รองรับ",
   "common.upload.recommendedSize": "ขนาดที่แนะนำ: {width}×{height} px ({ratio}) — ภาพที่ใหญ่กว่าในอัตราส่วนเดียวกันก็ใช้ได้",
+  "common.upload.recommendedSizeLimit": "ขนาดที่แนะนำ: {width}×{height} px ({ratio}) ภาพขนาดไม่เกิน {maxWidth}×{maxHeight} px ก็ใช้ได้",
   "common.upload.success": "อัปโหลดสำเร็จ!",
   "common.uploading": "Uploading...",
   "common.user": "ผู้ใช้",

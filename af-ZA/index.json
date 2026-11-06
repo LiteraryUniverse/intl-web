@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Prent moet kleiner as 5MB wees",
   "common.upload.error.unsupportedType": "Laai asseblief 'n ondersteunde prenttipe op",
   "common.upload.recommendedSize": "Aanbevole grootte: {width}×{height} px ({ratio}) — groter beelde met dieselfde verhouding werk ook.",
+  "common.upload.recommendedSizeLimit": "Aanbevole grootte: {width}×{height} px ({ratio}). Beelde tot {maxWidth}×{maxHeight} px werk ook.",
   "common.upload.success": "Oplaai suksesvol!",
   "common.uploading": "Laai tans op...",
   "common.user": "Gebruiker",

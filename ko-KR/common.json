@@ -271,6 +271,7 @@
   "common.upload.error.tooLarge": "이미지는 5MB 미만이어야 합니다",
   "common.upload.error.unsupportedType": "지원되는 이미지 형식을 업로드해 주세요",
   "common.upload.recommendedSize": "권장 크기: {width}×{height} px ({ratio}) — 같은 비율이라면 더 큰 이미지도 괜찮습니다.",
+  "common.upload.recommendedSizeLimit": "권장 크기: {width}×{height} px ({ratio}). 최대 {maxWidth}×{maxHeight} px 이미지도 괜찮습니다.",
   "common.upload.success": "업로드에 성공했습니다!",
   "common.uploading": "Uploading...",
   "common.user": "사용자",

@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
   "common.upload.recommendedSize": "ಶಿಫಾರಸು ಮಾಡಿದ ಗಾತ್ರ: {width}×{height} px ({ratio}) — ಅದೇ ಅನುಪಾತದ ದೊಡ್ಡ ಚಿತ್ರಗಳೂ ಕೆಲಸ ಮಾಡುತ್ತವೆ.",
+  "common.upload.recommendedSizeLimit": "ಶಿಫಾರಸು ಮಾಡಿದ ಗಾತ್ರ: {width}×{height} px ({ratio}). {maxWidth}×{maxHeight} px ವರೆಗಿನ ಚಿತ್ರಗಳೂ ಕೆಲಸ ಮಾಡುತ್ತವೆ.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "ಬಳಕೆದಾರ",

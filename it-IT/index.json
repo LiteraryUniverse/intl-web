@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "L'immagine deve essere inferiore a 5 MB",
   "common.upload.error.unsupportedType": "Carica un tipo di immagine supportato",
   "common.upload.recommendedSize": "Dimensione consigliata: {width}×{height} px ({ratio}) — anche immagini più grandi con lo stesso rapporto vanno bene.",
+  "common.upload.recommendedSizeLimit": "Dimensione consigliata: {width}×{height} px ({ratio}). Vanno bene anche immagini fino a {maxWidth}×{maxHeight} px.",
   "common.upload.success": "Caricamento riuscito!",
   "common.uploading": "Caricamento in corso...",
   "common.user": "Utente",

@@ -271,6 +271,7 @@
   "common.upload.error.tooLarge": "Ukuran gambar harus kurang dari 5MB",
   "common.upload.error.unsupportedType": "Silakan unggah jenis gambar yang didukung",
   "common.upload.recommendedSize": "Ukuran yang disarankan: {width}×{height} px ({ratio}) — gambar lebih besar dengan rasio yang sama juga bisa.",
+  "common.upload.recommendedSizeLimit": "Ukuran yang disarankan: {width}×{height} px ({ratio}). Gambar hingga {maxWidth}×{maxHeight} px juga bisa.",
   "common.upload.success": "Unggahan berhasil!",
   "common.uploading": "Uploading...",
   "common.user": "Pengguna",

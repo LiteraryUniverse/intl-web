@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "La imatge ha de ser de menys de 5 MB",
   "common.upload.error.unsupportedType": "Puja un tipus d'imatge compatible",
   "common.upload.recommendedSize": "Mida recomanada: {width}×{height} px ({ratio}) — les imatges més grans amb la mateixa proporció també funcionen.",
+  "common.upload.recommendedSizeLimit": "Mida recomanada: {width}×{height} px ({ratio}). També funcionen les imatges de fins a {maxWidth}×{maxHeight} px.",
   "common.upload.success": "Pujada correcta!",
   "common.uploading": "Pujant...",
   "common.user": "Usuari",

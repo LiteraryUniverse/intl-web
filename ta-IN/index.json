@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Image must be less than 5MB",
   "common.upload.error.unsupportedType": "Please upload a supported image type",
   "common.upload.recommendedSize": "பரிந்துரைக்கப்பட்ட அளவு: {width}×{height} px ({ratio}) — அதே விகிதத்தில் பெரிய படங்களும் பயன்படும்.",
+  "common.upload.recommendedSizeLimit": "பரிந்துரைக்கப்பட்ட அளவு: {width}×{height} px ({ratio}). {maxWidth}×{maxHeight} px வரையிலான படங்களும் பயன்படும்.",
   "common.upload.success": "Upload successful!",
   "common.uploading": "Uploading...",
   "common.user": "பயனர்",

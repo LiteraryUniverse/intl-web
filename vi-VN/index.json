@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Ảnh phải nhỏ hơn 5MB",
   "common.upload.error.unsupportedType": "Vui lòng tải lên loại ảnh được hỗ trợ",
   "common.upload.recommendedSize": "Kích thước đề xuất: {width}×{height} px ({ratio}) — ảnh lớn hơn với cùng tỉ lệ cũng được.",
+  "common.upload.recommendedSizeLimit": "Kích thước đề xuất: {width}×{height} px ({ratio}). Ảnh tối đa {maxWidth}×{maxHeight} px cũng được.",
   "common.upload.success": "Tải lên thành công!",
   "common.uploading": "Uploading...",
   "common.user": "Người dùng",

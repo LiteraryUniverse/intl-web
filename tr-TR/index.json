@@ -1569,6 +1569,7 @@
   "common.upload.error.tooLarge": "Görsel 5MB'den küçük olmalıdır",
   "common.upload.error.unsupportedType": "Lütfen desteklenen bir görsel türü yükleyin",
   "common.upload.recommendedSize": "Önerilen boyut: {width}×{height} px ({ratio}) — aynı orana sahip daha büyük görseller de kullanılabilir.",
+  "common.upload.recommendedSizeLimit": "Önerilen boyut: {width}×{height} px ({ratio}). {maxWidth}×{maxHeight} px boyutuna kadar görseller de kullanılabilir.",
   "common.upload.success": "Yükleme başarılı!",
   "common.uploading": "Uploading...",
   "common.user": "Kullanıcı",
