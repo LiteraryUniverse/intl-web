@@ -183,6 +183,7 @@
   "notification.group.joined": "ตอนนี้คุณเป็นสมาชิกของ {group} แล้ว",
   "notification.events.announced": "{host} กำลังจะจัดกิจกรรมใหม่: {name}",
   "notification.events.reminder": "{name} โดย {host} จะเริ่มในอีกไม่ถึงหนึ่งวัน",
+  "notification.events.cancelled": "{name} โดย {host} ถูกยกเลิกแล้ว",
   "notification.fanArt.submitted": "{artist} ส่งแฟนอาร์ต “{title}” ให้ {universe}",
   "notification.fanArt.approved": "แฟนอาร์ต “{title}” ของคุณได้รับการอนุมัติสำหรับ {universe}",
   "notification.fanArt.rejected": "แฟนอาร์ต “{title}” ของคุณถูกปฏิเสธสำหรับ {universe}",

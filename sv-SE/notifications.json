@@ -183,6 +183,7 @@
   "notification.group.joined": "Du är nu medlem i {group}",
   "notification.events.announced": "{host} håller ett nytt evenemang: {name}",
   "notification.events.reminder": "{name} med {host} börjar om mindre än ett dygn",
+  "notification.events.cancelled": "{name} från {host} är inställt",
   "notification.fanArt.submitted": "{artist} skickade in fan art ”{title}” till {universe}",
   "notification.fanArt.approved": "Din fan art ”{title}” godkändes för {universe}",
   "notification.fanArt.rejected": "Din fan art ”{title}” avböjdes för {universe}",

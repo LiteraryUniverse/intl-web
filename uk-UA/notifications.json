@@ -183,6 +183,7 @@
   "notification.group.joined": "Тепер ви учасник {group}",
   "notification.events.announced": "{host} проводить нову подію: {name}",
   "notification.events.reminder": "Подія «{name}» від {host} почнеться менш ніж за добу",
+  "notification.events.cancelled": "Подію {name} від {host} скасовано",
   "notification.fanArt.submitted": "{artist} надсилає фан-арт «{title}» до {universe}",
   "notification.fanArt.approved": "Ваш фан-арт «{title}» схвалено для {universe}",
   "notification.fanArt.rejected": "Ваш фан-арт «{title}» відхилено для {universe}",

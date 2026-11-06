@@ -183,6 +183,7 @@
   "notification.group.joined": "Теперь вы участник группы {group}",
   "notification.events.announced": "{host} проводит новое событие: {name}",
   "notification.events.reminder": "Событие «{name}» от {host} начнётся меньше чем через сутки",
+  "notification.events.cancelled": "Событие {name} от {host} отменено",
   "notification.fanArt.submitted": "{artist} предлагает фан-арт «{title}» для вселенной {universe}",
   "notification.fanArt.approved": "Ваш фан-арт «{title}» одобрен для вселенной {universe}",
   "notification.fanArt.rejected": "Ваш фан-арт «{title}» отклонён для вселенной {universe}",

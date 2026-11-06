@@ -183,6 +183,7 @@
   "notification.group.joined": "Olete nüüd grupi {group} liige",
   "notification.events.announced": "{host} korraldab uue sündmuse: {name}",
   "notification.events.reminder": "{name} (korraldaja: {host}) algab vähem kui ööpäeva pärast",
+  "notification.events.cancelled": "{host} sündmus {name} on tühistatud",
   "notification.fanArt.submitted": "{artist} esitas fännikunsti „{title}“ universumile {universe}",
   "notification.fanArt.approved": "Teie fännikunst „{title}“ kiideti universumi {universe} jaoks heaks",
   "notification.fanArt.rejected": "Teie fännikunst „{title}“ lükati universumi {universe} jaoks tagasi",

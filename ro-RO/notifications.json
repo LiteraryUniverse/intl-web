@@ -183,6 +183,7 @@
   "notification.group.joined": "Acum ești membru al grupului {group}",
   "notification.events.announced": "{host} organizează un eveniment nou: {name}",
   "notification.events.reminder": "{name}, organizat de {host}, începe în mai puțin de o zi",
+  "notification.events.cancelled": "{name}, de la {host}, a fost anulat",
   "notification.fanArt.submitted": "{artist} a trimis fan artul „{title}” pentru {universe}",
   "notification.fanArt.approved": "Fan artul tău „{title}” a fost aprobat pentru {universe}",
   "notification.fanArt.rejected": "Fan artul tău „{title}” a fost refuzat pentru {universe}",

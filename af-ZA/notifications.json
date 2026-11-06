@@ -183,6 +183,7 @@
   "notification.group.joined": "Jy is nou 'n lid van {group}",
   "notification.events.announced": "{host} bied 'n nuwe geleentheid aan: {name}",
   "notification.events.reminder": "{name} deur {host} begin oor minder as 'n dag",
+  "notification.events.cancelled": "{name} deur {host} is gekanselleer",
   "notification.fanArt.submitted": "{artist} het aanhanger kuns “{title}” by {universe} ingedien",
   "notification.fanArt.approved": "Jou aanhanger kuns “{title}” is goedgekeur vir {universe}",
   "notification.fanArt.rejected": "Jou aanhanger kuns “{title}” is afgekeur vir {universe}",

@@ -183,6 +183,7 @@
   "notification.group.joined": "Du er nu medlem af {group}",
   "notification.events.announced": "{host} afholder en ny begivenhed: {name}",
   "notification.events.reminder": "{name} med {host} begynder om under et døgn",
+  "notification.events.cancelled": "{name} af {host} er aflyst",
   "notification.fanArt.submitted": "{artist} har indsendt fankunsten “{title}” til {universe}",
   "notification.fanArt.approved": "Din fankunst “{title}” blev godkendt til {universe}",
   "notification.fanArt.rejected": "Din fankunst “{title}” blev afvist til {universe}",

@@ -183,6 +183,7 @@
   "notification.group.joined": "Είστε πλέον μέλος της ομάδας {group}",
   "notification.events.announced": "Νέα εκδήλωση από {host}: {name}",
   "notification.events.reminder": "Η εκδήλωση {name} από {host} ξεκινά σε λιγότερο από μία ημέρα",
+  "notification.events.cancelled": "Η εκδήλωση {name} του/της {host} ακυρώθηκε",
   "notification.fanArt.submitted": "Ο χρήστης {artist} υπέβαλε το fan art «{title}» στο {universe}",
   "notification.fanArt.approved": "Το fan art σας «{title}» εγκρίθηκε για το {universe}",
   "notification.fanArt.rejected": "Το fan art σας «{title}» απορρίφθηκε για το {universe}",

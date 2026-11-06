@@ -183,6 +183,7 @@
   "notification.group.joined": "{group}のメンバーになりました",
   "notification.events.announced": "{host}さんが新しいイベントを開催します: {name}",
   "notification.events.reminder": "{host}さんの{name}は1日以内に始まります",
+  "notification.events.cancelled": "{host}の{name}は中止になりました",
   "notification.fanArt.submitted": "{artist}さんが{universe}にファンアート「{title}」を投稿しました",
   "notification.fanArt.approved": "あなたのファンアート「{title}」が{universe}で承認されました",
   "notification.fanArt.rejected": "あなたのファンアート「{title}」は{universe}で承認されませんでした",

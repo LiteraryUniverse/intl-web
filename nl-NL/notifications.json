@@ -183,6 +183,7 @@
   "notification.group.joined": "Je bent nu lid van {group}",
   "notification.events.announced": "{host} organiseert een nieuw evenement: {name}",
   "notification.events.reminder": "{name} van {host} begint over minder dan een dag",
+  "notification.events.cancelled": "{name} van {host} is afgelast",
   "notification.fanArt.submitted": "{artist} heeft fanart “{title}” ingediend bij {universe}",
   "notification.fanArt.approved": "Je fanart “{title}” is goedgekeurd voor {universe}",
   "notification.fanArt.rejected": "Je fanart “{title}” is afgewezen voor {universe}",

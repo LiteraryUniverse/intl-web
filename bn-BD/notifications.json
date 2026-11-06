@@ -183,6 +183,7 @@
   "notification.group.joined": "আপনি এখন {group}-এর সদস্য",
   "notification.events.announced": "{host} একটি নতুন ইভেন্ট আয়োজন করছেন: {name}",
   "notification.events.reminder": "{host}-এর আয়োজিত {name} এক দিনেরও কম সময়ের মধ্যে শুরু হবে",
+  "notification.events.cancelled": "{host}-এর {name} বাতিল করা হয়েছে",
   "notification.fanArt.submitted": "{artist} {universe}-এ ফ্যান আর্ট “{title}” জমা দিয়েছেন",
   "notification.fanArt.approved": "আপনার ফ্যান আর্ট “{title}” {universe}-এর জন্য অনুমোদিত হয়েছে",
   "notification.fanArt.rejected": "আপনার ফ্যান আর্ট “{title}” {universe}-এর জন্য প্রত্যাখ্যাত হয়েছে",

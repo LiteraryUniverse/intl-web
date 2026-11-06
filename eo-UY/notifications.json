@@ -183,6 +183,7 @@
   "notification.group.joined": "Vi nun estas membro de {group}",
   "notification.events.announced": "{host} gastigas novan eventon: {name}",
   "notification.events.reminder": "{name} de {host} komenciĝos post malpli ol unu tago",
+  "notification.events.cancelled": "{name} de {host} estis nuligita",
   "notification.fanArt.submitted": "{artist} sendis la fanan arton “{title}” al {universe}",
   "notification.fanArt.approved": "Via fana arto “{title}” estis aprobita por {universe}",
   "notification.fanArt.rejected": "Via fana arto “{title}” estis malakceptita por {universe}",

@@ -183,6 +183,7 @@
   "notification.group.joined": "이제 {group}의 멤버입니다",
   "notification.events.announced": "{host} 님이 새 이벤트를 엽니다: {name}",
   "notification.events.reminder": "{host} 님의 {name} 이벤트가 하루 안에 시작됩니다",
+  "notification.events.cancelled": "{host}의 {name} 이벤트가 취소되었습니다",
   "notification.fanArt.submitted": "{artist} 님이 {universe}에 팬 아트 “{title}”을(를) 제출했습니다",
   "notification.fanArt.approved": "회원님의 팬 아트 “{title}”이(가) {universe}에서 승인되었습니다",
   "notification.fanArt.rejected": "회원님의 팬 아트 “{title}”이(가) {universe}에서 거절되었습니다",

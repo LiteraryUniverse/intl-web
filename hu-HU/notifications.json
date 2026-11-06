@@ -183,6 +183,7 @@
   "notification.group.joined": "Mostantól a(z) {group} tagja vagy",
   "notification.events.announced": "{host} új eseményt szervez: {name}",
   "notification.events.reminder": "{name} (szervező: {host}) kevesebb mint egy nap múlva kezdődik",
+  "notification.events.cancelled": "{host} {name} eseményét lemondták",
   "notification.fanArt.submitted": "{artist} beküldte a(z) „{title}” rajongói művet ide: {universe}",
   "notification.fanArt.approved": "A(z) „{title}” rajongói művedet jóváhagyták itt: {universe}",
   "notification.fanArt.rejected": "A(z) „{title}” rajongói művedet elutasították itt: {universe}",

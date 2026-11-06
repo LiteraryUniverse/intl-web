@@ -183,6 +183,7 @@
   "notification.group.joined": "Artık {group} grubunun üyesisiniz",
   "notification.events.announced": "{host} yeni bir etkinlik düzenliyor: {name}",
   "notification.events.reminder": "{host} tarafından düzenlenen {name} bir günden kısa süre içinde başlıyor",
+  "notification.events.cancelled": "{host} tarafından düzenlenen {name} iptal edildi",
   "notification.fanArt.submitted": "{artist}, {universe} evrenine “{title}” adlı hayran sanatını gönderdi",
   "notification.fanArt.approved": "“{title}” adlı hayran sanatınız {universe} için onaylandı",
   "notification.fanArt.rejected": "“{title}” adlı hayran sanatınız {universe} için reddedildi",

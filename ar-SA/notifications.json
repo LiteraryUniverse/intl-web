@@ -183,6 +183,7 @@
   "notification.group.joined": "أصبحت الآن عضوًا في {group}",
   "notification.events.announced": "{host} يستضيف حدثاً جديداً: {name}",
   "notification.events.reminder": "{name} من تنظيم {host} يبدأ خلال أقل من يوم",
+  "notification.events.cancelled": "أُلغيت فعالية {name} التي يستضيفها {host}",
   "notification.fanArt.submitted": "قدّم {artist} عمل فن المعجبين “{title}” إلى {universe}",
   "notification.fanArt.approved": "تمت الموافقة على عملك من فن المعجبين “{title}” في {universe}",
   "notification.fanArt.rejected": "رُفض عملك من فن المعجبين “{title}” في {universe}",

@@ -183,6 +183,7 @@
   "notification.group.joined": "Miyembro ka na ngayon ng {group}",
   "notification.events.announced": "Magdaraos si {host} ng bagong kaganapan: {name}",
   "notification.events.reminder": "Magsisimula ang {name} ni {host} sa loob ng wala pang isang araw",
+  "notification.events.cancelled": "Kinansela ang {name} ni {host}",
   "notification.fanArt.submitted": "Nagsumite si {artist} ng fan art na “{title}” sa {universe}",
   "notification.fanArt.approved": "Naaprubahan ang iyong fan art na “{title}” para sa {universe}",
   "notification.fanArt.rejected": "Tinanggihan ang iyong fan art na “{title}” para sa {universe}",

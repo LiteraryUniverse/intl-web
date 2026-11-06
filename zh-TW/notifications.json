@@ -183,6 +183,7 @@
   "notification.group.joined": "您現在是 {group} 的成員",
   "notification.events.announced": "{host} 即將舉辦新活動：{name}",
   "notification.events.reminder": "{host} 舉辦的「{name}」將在一天內開始",
+  "notification.events.cancelled": "{host} 的 {name} 已取消",
   "notification.fanArt.submitted": "{artist} 向 {universe} 提交了粉絲藝術「{title}」",
   "notification.fanArt.approved": "您的粉絲藝術「{title}」已獲 {universe} 批准",
   "notification.fanArt.rejected": "您的粉絲藝術「{title}」未獲 {universe} 接受",

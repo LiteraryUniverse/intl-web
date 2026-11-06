@@ -183,6 +183,7 @@
   "notification.group.joined": "Olet nyt ryhmän {group} jäsen",
   "notification.events.announced": "{host} järjestää uuden tapahtuman: {name}",
   "notification.events.reminder": "{name} (järjestäjä: {host}) alkaa alle vuorokauden kuluttua",
+  "notification.events.cancelled": "{host}: {name} on peruttu",
   "notification.fanArt.submitted": "{artist} lähetti fanitaideteoksen ”{title}” universumiin {universe}",
   "notification.fanArt.approved": "Fanitaiteesi ”{title}” hyväksyttiin universumiin {universe}",
   "notification.fanArt.rejected": "Fanitaiteesi ”{title}” hylättiin universumissa {universe}",

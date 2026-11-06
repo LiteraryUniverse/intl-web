@@ -183,6 +183,7 @@
   "notification.group.joined": "אתה כעת חבר ב־{group}",
   "notification.events.announced": "אירוע חדש בהנחיית {host}: {name}",
   "notification.events.reminder": "{name} בהנחיית {host} מתחיל בעוד פחות מיממה",
+  "notification.events.cancelled": "האירוע {name} של {host} בוטל",
   "notification.fanArt.submitted": "{artist} הגיש את אמנות המעריצים “{title}” אל {universe}",
   "notification.fanArt.approved": "אמנות המעריצים שלך “{title}” אושרה עבור {universe}",
   "notification.fanArt.rejected": "אמנות המעריצים שלך “{title}” נדחתה עבור {universe}",

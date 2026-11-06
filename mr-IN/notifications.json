@@ -183,6 +183,7 @@
   "notification.group.joined": "You are now a member of {group}",
   "notification.events.announced": "{host} एक नवीन कार्यक्रम आयोजित करत आहे: {name}",
   "notification.events.reminder": "{host} यांचा {name} एका दिवसापेक्षा कमी वेळात सुरू होत आहे",
+  "notification.events.cancelled": "{host} यांचा {name} रद्द झाला आहे",
   "notification.fanArt.submitted": "{artist} submitted fan art “{title}” to {universe}",
   "notification.fanArt.approved": "Your fan art “{title}” was approved for {universe}",
   "notification.fanArt.rejected": "Your fan art “{title}” was declined for {universe}",

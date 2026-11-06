@@ -183,6 +183,7 @@
   "notification.group.joined": "Teraz ste členom skupiny {group}",
   "notification.events.announced": "{host} organizuje novú udalosť: {name}",
   "notification.events.reminder": "Udalosť {name}, ktorú organizuje {host}, sa začína o menej ako deň",
+  "notification.events.cancelled": "Udalosť {name} od {host} bola zrušená",
   "notification.fanArt.submitted": "Používateľ {artist} poslal fanúšikovské umenie „{title}“ do vesmíru {universe}",
   "notification.fanArt.approved": "Vaše fanúšikovské umenie „{title}“ bolo schválené pre vesmír {universe}",
   "notification.fanArt.rejected": "Vaše fanúšikovské umenie „{title}“ bolo zamietnuté pre vesmír {universe}",

@@ -183,6 +183,7 @@
   "notification.group.joined": "Anda sekarang menjadi anggota {group}",
   "notification.events.announced": "{host} mengadakan kegiatan baru: {name}",
   "notification.events.reminder": "{name} oleh {host} dimulai kurang dari sehari lagi",
+  "notification.events.cancelled": "{name} oleh {host} dibatalkan",
   "notification.fanArt.submitted": "{artist} mengirimkan seni penggemar “{title}” ke {universe}",
   "notification.fanArt.approved": "Seni penggemar Anda “{title}” disetujui untuk {universe}",
   "notification.fanArt.rejected": "Seni penggemar Anda “{title}” ditolak untuk {universe}",

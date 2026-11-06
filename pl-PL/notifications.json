@@ -183,6 +183,7 @@
   "notification.group.joined": "Należysz teraz do grupy {group}",
   "notification.events.announced": "{host} organizuje nowe wydarzenie: {name}",
   "notification.events.reminder": "Wydarzenie {name} organizowane przez {host} zaczyna się za mniej niż dobę",
+  "notification.events.cancelled": "Wydarzenie {name} ({host}) zostało odwołane",
   "notification.fanArt.submitted": "{artist} zgłasza fanart „{title}” do uniwersum {universe}",
   "notification.fanArt.approved": "Twój fanart „{title}” został zatwierdzony w uniwersum {universe}",
   "notification.fanArt.rejected": "Twój fanart „{title}” został odrzucony w uniwersum {universe}",

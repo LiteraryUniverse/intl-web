@@ -183,6 +183,7 @@
   "notification.group.joined": "You are now a member of {group}",
   "notification.events.announced": "{host} ஒரு புதிய நிகழ்வை நடத்துகிறார்: {name}",
   "notification.events.reminder": "{host} நடத்தும் {name} இன்னும் ஒரு நாளுக்குள் தொடங்குகிறது",
+  "notification.events.cancelled": "{host} இன் {name} ரத்து செய்யப்பட்டது",
   "notification.fanArt.submitted": "{artist} submitted fan art “{title}” to {universe}",
   "notification.fanArt.approved": "Your fan art “{title}” was approved for {universe}",
   "notification.fanArt.rejected": "Your fan art “{title}” was declined for {universe}",

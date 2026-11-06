@@ -183,6 +183,7 @@
   "notification.group.joined": "Dabar esate grupės {group} narys",
   "notification.events.announced": "{host} rengia naują renginį: {name}",
   "notification.events.reminder": "Renginys „{name}“ (rengia {host}) prasidės greičiau nei po paros",
+  "notification.events.cancelled": "{host} renginys {name} atšauktas",
   "notification.fanArt.submitted": "{artist} pateikė gerbėjų kūrinį „{title}“ visatai {universe}",
   "notification.fanArt.approved": "Jūsų gerbėjų kūrinys „{title}“ patvirtintas visatoje {universe}",
   "notification.fanArt.rejected": "Jūsų gerbėjų kūrinys „{title}“ atmestas visatoje {universe}",

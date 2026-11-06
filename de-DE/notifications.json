@@ -183,6 +183,7 @@
   "notification.group.joined": "Sie sind jetzt Mitglied von {group}",
   "notification.events.announced": "{host} veranstaltet ein neues Event: {name}",
   "notification.events.reminder": "{name} von {host} beginnt in weniger als einem Tag",
+  "notification.events.cancelled": "{name} von {host} wurde abgesagt",
   "notification.fanArt.submitted": "{artist} hat die Fan-Art „{title}“ für {universe} eingereicht",
   "notification.fanArt.approved": "Ihre Fan-Art „{title}“ wurde für {universe} freigegeben",
   "notification.fanArt.rejected": "Ihre Fan-Art „{title}“ wurde für {universe} abgelehnt",
