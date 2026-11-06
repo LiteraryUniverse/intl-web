@@ -167,7 +167,6 @@
   "payment.methods.adding": "Η νέα μέθοδος πληρωμής προστέθηκε στον λογαριασμό σας.",
   "payment.methods.delete": "Διαγραφή μεθόδου πληρωμής",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Επιλογές ρυθμίσεων συνδρομής",
   "plans.buttonStatus.submitting": "Υποβολή του αιτήματός σας...",
   "plans.button.manageOnStripe": "Διαχείριση τιμολόγησης στο Stripe",
   "plans.subscription.activeOnPlan": "Είστε ήδη συνδρομητής σε αυτό το πρόγραμμα.",

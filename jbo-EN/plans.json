@@ -167,7 +167,6 @@
   "payment.methods.adding": ".i .e'u pa selkei jdima cu zvati lo do jdima",
   "payment.methods.delete": ".i .e'u ca'o vimcu lo selkei jdima",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "jboske seltcana cmene",
   "plans.buttonStatus.submitting": "jboske seltcana se sinma",
   "plans.button.manageOnStripe": "jboske jdini se lidne lo Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

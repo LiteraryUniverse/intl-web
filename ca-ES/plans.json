@@ -167,7 +167,6 @@
   "payment.methods.adding": "S'ha afegit el vostre nou mètode de pagament al vostre compte.",
   "payment.methods.delete": "Elimina el mètode de pagament",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Opcions de configuració de la subscripció",
   "plans.buttonStatus.submitting": "Enviant la teva sol·licitud...",
   "plans.button.manageOnStripe": "Gestiona la facturació a Stripe",
   "plans.subscription.activeOnPlan": "Ja estàs subscrit a aquest pla.",

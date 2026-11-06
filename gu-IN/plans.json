@@ -167,7 +167,6 @@
   "payment.methods.adding": "તમારા ખાતામાં તમારી નવી ચૂકવણી પદ્ધતિ ઉમેરવામાં આવી છે.",
   "payment.methods.delete": "ચૂકવણી પદ્ધતિ કાઢી નાખો",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Subscription settings options",
   "plans.buttonStatus.submitting": "Submitting your request...",
   "plans.button.manageOnStripe": "Manage Billing on Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

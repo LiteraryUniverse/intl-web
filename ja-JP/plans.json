@@ -167,7 +167,6 @@
   "payment.methods.adding": "お客様のアカウントに新しいお支払い方法が追加されました。",
   "payment.methods.delete": "決済方法の削除",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "サブスクリプション設定オプション",
   "plans.buttonStatus.submitting": "リクエストを送信する...",
   "plans.button.manageOnStripe": "Stripeで請求書管理をする",
   "plans.subscription.activeOnPlan": "あなたはすでにこのプランに加入している。",

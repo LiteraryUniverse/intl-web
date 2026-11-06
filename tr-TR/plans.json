@@ -167,7 +167,6 @@
   "payment.methods.adding": "Yeni ödeme yöntemi hesabınıza eklendi.",
   "payment.methods.delete": "Ödeme yöntemini sil",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Abonelik ayarları seçenekleri",
   "plans.buttonStatus.submitting": "İsteğiniz gönderiliyor...",
   "plans.button.manageOnStripe": "Stripe üzerinde fatura yönetimi",
   "plans.subscription.activeOnPlan": "Bu plana zaten üyesiniz.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "새로운 결제 방법이 계정에 추가되었습니다.",
   "payment.methods.delete": "결제 방법 삭제",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "구독 설정 옵션",
   "plans.buttonStatus.submitting": "요청을 제출하는 중...",
   "plans.button.manageOnStripe": "Stripe에서 결제 관리",
   "plans.subscription.activeOnPlan": "이미 이 요금제를 구독하고 계십니다.",

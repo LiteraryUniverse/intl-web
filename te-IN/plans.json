@@ -167,7 +167,6 @@
   "payment.methods.adding": "మీ కొత్త చెల్లని పద్ధతి మీ ఖాతాకు జోడించబడింది.",
   "payment.methods.delete": "చెల్లని చెల్లని పద్ధతిని తొలగించండి",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Subscription settings options",
   "plans.buttonStatus.submitting": "Submitting your request...",
   "plans.button.manageOnStripe": "Manage Billing on Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

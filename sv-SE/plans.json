@@ -167,7 +167,6 @@
   "payment.methods.adding": "Din nya betalningsmetod har lagts till i ditt konto.",
   "payment.methods.delete": "Ta bort betalningsmetod",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Alternativ för prenumerationsinställningar",
   "plans.buttonStatus.submitting": "Skickar din förfrågan...",
   "plans.button.manageOnStripe": "Hantera fakturering på Stripe",
   "plans.subscription.activeOnPlan": "Du prenumererar redan på denna plan.",

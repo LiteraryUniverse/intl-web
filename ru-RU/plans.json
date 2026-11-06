@@ -167,7 +167,6 @@
   "payment.methods.adding": "Новый способ оплаты был добавлен в вашу учётную запись.",
   "payment.methods.delete": "Удалить способ оплаты",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Параметры настроек подписки",
   "plans.buttonStatus.submitting": "Отправка вашего запроса...",
   "plans.button.manageOnStripe": "Управление платежами на Stripe",
   "plans.subscription.activeOnPlan": "Вы уже подписаны на этот план.",

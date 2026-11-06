@@ -167,7 +167,6 @@
   "payment.methods.adding": "Via nova paga metodo estis aldonita al via konto.",
   "payment.methods.delete": "Forigi paga metodon",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Opcioj de abonaj agordoj",
   "plans.buttonStatus.submitting": "Sendante vian peton...",
   "plans.button.manageOnStripe": "Administri Fakturadon per Stripe",
   "plans.subscription.activeOnPlan": "Vi jam abonas ĉi tiun planon.",

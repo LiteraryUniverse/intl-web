@@ -167,7 +167,6 @@
   "payment.methods.adding": "Metode pembayaran baru Anda telah ditambahkan ke akun Anda.",
   "payment.methods.delete": "Hapus metode pembayaran",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Opsi pengaturan langganan",
   "plans.buttonStatus.submitting": "Mengirim permintaan Anda...",
   "plans.button.manageOnStripe": "Kelola Penagihan di Stripe",
   "plans.subscription.activeOnPlan": "Anda sudah berlangganan paket ini.",

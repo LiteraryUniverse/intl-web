@@ -167,7 +167,6 @@
   "payment.methods.adding": "Uusi maksutapa on lisätty tilillesi.",
   "payment.methods.delete": "Poista maksutapa",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Tilauksen asetukset vaihtoehdot",
   "plans.buttonStatus.submitting": "Lähetetään pyyntöäsi...",
   "plans.button.manageOnStripe": "Hallitse laskutusta Stripessä",
   "plans.subscription.activeOnPlan": "Olet jo tilannut tämän suunnitelman.",

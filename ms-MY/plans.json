@@ -167,7 +167,6 @@
   "payment.methods.adding": "Kaedah pembayaran baru anda telah ditambah kepada akaun anda.",
   "payment.methods.delete": "Padam kaedah pembayaran",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Pilihan tetapan langganan",
   "plans.buttonStatus.submitting": "Menghantar permintaan anda...",
   "plans.button.manageOnStripe": "Urus Bil di Stripe",
   "plans.subscription.activeOnPlan": "Anda sudah melanggan pelan ini.",

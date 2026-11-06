@@ -167,7 +167,6 @@
   "payment.methods.adding": "உங்கள் புதிய கட்டண முறை உங்கள் கணக்கில் சேர்க்கப்பட்டுள்ளது.",
   "payment.methods.delete": "கட்டண முறையை நீக்கு",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "சந்தா அமைப்புகள் விருப்பங்கள்",
   "plans.buttonStatus.submitting": "உங்கள் கோரிக்கை சமர்ப்பிக்கப்படுகிறது...",
   "plans.button.manageOnStripe": "ஸ்ட்ரைப்பில் கட்டண முறையை நிர்வகிக்கவும்",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

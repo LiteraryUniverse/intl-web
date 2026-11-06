@@ -167,7 +167,6 @@
   "payment.methods.adding": "אמצעי התשלום החדש שלך נוסף לחשבון שלך.",
   "payment.methods.delete": "מחק אמצעי תשלום",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "אפשרויות הגדרות מנוי",
   "plans.buttonStatus.submitting": "שליחת הבקשה שלך...",
   "plans.button.manageOnStripe": "ניהול תשלומים ב־Stripe",
   "plans.subscription.activeOnPlan": "אתה כבר מנוי לתוכנית זו.",

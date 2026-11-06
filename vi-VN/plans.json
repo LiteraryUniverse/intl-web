@@ -167,7 +167,6 @@
   "payment.methods.adding": "Phương thức thanh toán mới của bạn đã được thêm vào tài khoản.",
   "payment.methods.delete": "Xóa phương thức thanh toán",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Cài đặt tùy chọn đăng ký",
   "plans.buttonStatus.submitting": "Đang gửi yêu cầu của bạn...",
   "plans.button.manageOnStripe": "Quản lý thanh toán trên Stripe",
   "plans.subscription.activeOnPlan": "Bạn đã đăng ký gói dịch vụ này.",

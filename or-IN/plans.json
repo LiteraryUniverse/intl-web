@@ -167,7 +167,6 @@
   "payment.methods.adding": "ଆପଣଙ୍କ ନୂତନ ପେୟ୍ମେଣ୍ଟ ପ୍ରଣାଳୀ ଆପଙ୍କ ଅକାଉଣ୍ଟରେ ଯୋଡ଼ାଯାଇଛି ।",
   "payment.methods.delete": "ପେୟ୍ମେଣ୍ଟ ପ୍ରଣାଳୀ ମାଧ୍ୟମ ମିଟାଇବା",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Subscription settings options",
   "plans.buttonStatus.submitting": "Submitting your request...",
   "plans.button.manageOnStripe": "Manage Billing on Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

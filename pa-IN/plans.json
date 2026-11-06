@@ -167,7 +167,6 @@
   "payment.methods.adding": "ਤੁਹਾਡੀ ਨਵੀਂ ਭੁਗਤਾਨ ਵਿਧੀ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਜੋੜੀ ਗਈ ਹੈ।",
   "payment.methods.delete": "ਭੁਗਤਾਨ ਵਿਧੀ ਹਟਾਓ",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "ਗਾਹਕੀ ਸੈਟਿੰਗਾਂ ਦੇ ਵਿਕਲਪ",
   "plans.buttonStatus.submitting": "ਤੁਹਾਡੀ ਬੇਨਤੀ ਜਮ੍ਹਾਂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...",
   "plans.button.manageOnStripe": "ਸਟ੍ਰਾਈਪ 'ਤੇ ਬਿਲਿੰਗ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

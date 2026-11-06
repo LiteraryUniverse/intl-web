@@ -167,7 +167,6 @@
   "payment.methods.adding": "วิธีการชำระเงินใหม่ของคุณถูกเพิ่มเข้าสู่บัญชีของคุณแล้ว",
   "payment.methods.delete": "ลบวิธีการชำระเงิน",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "ตัวเลือกการตั้งค่าการสมัครสมาชิก",
   "plans.buttonStatus.submitting": "กำลังส่งคำขอของคุณ...",
   "plans.button.manageOnStripe": "จัดการการเรียกเก็บเงินใน Stripe",
   "plans.subscription.activeOnPlan": "คุณได้สมัครแผนนี้แล้ว",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "നിങ്ങളുടെ പുതിയ പണം രീതി നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് ചേർത്തിട്ടുണ്ട്.",
   "payment.methods.delete": "പണം രീതി മാറ്റാൻ നിർദ്ദേശിക്കുന്നു",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Subscription settings options",
   "plans.buttonStatus.submitting": "Submitting your request...",
   "plans.button.manageOnStripe": "Manage Billing on Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

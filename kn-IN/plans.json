@@ -167,7 +167,6 @@
   "payment.methods.adding": "ನಿಮ್ಮ ಹೊಸ ಪಾವತಿ ವಿಧಾನ ನಿಮ್ಮ ಖಾತೆಗೆ ಸೇರಿದೆ.",
   "payment.methods.delete": "ಪಾವತಿ ವಿಧಾನವನ್ನು ಅಳಿಸಿ",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Subscription settings options",
   "plans.buttonStatus.submitting": "Submitting your request...",
   "plans.button.manageOnStripe": "Manage Billing on Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "Jou nuwe betaalmetode is bygevoeg by jou rekening.",
   "payment.methods.delete": "Verwyder betaalmetode",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Subskripsie-instellings-opsies",
   "plans.buttonStatus.submitting": "Besig om u versoek te stuur...",
   "plans.button.manageOnStripe": "Bestuur Fakturering op Stripe",
   "plans.subscription.activeOnPlan": "Jy is reeds op hierdie plan ingeteken.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "तुमचे नवीन देयक प्रकार तुमच्या खात्यात जोडले गेले आहे.",
   "payment.methods.delete": "देयक प्रकार हटवा",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "सदस्यता सेटिंग्ज पर्याय",
   "plans.buttonStatus.submitting": "तुमची विनंती सबमिट करीत आहे...",
   "plans.button.manageOnStripe": "स्ट्राइपवर बिलिंग व्यवस्थापित करा",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "Jūsų naujas mokėjimo metodas buvo pridėtas prie jūsų paskyros.",
   "payment.methods.delete": "Ištrinti mokėjimo metodą",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Prenumeracijos nustatymų parinktys",
   "plans.buttonStatus.submitting": "Siunčiama jūsų užklausa...",
   "plans.button.manageOnStripe": "Valdykite sąskaitą „Stripe“",
   "plans.subscription.activeOnPlan": "Jau esate užsisakę šį planą.",

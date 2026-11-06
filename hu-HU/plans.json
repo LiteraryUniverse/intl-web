@@ -167,7 +167,6 @@
   "payment.methods.adding": "Az új fizetési mód hozzáadva a fiókjához.",
   "payment.methods.delete": "Fizetési mód törlése",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Előfizetési beállítások lehetőségei",
   "plans.buttonStatus.submitting": "Kérelem elküldése...",
   "plans.button.manageOnStripe": "Számlázás kezelése a Stripe-on",
   "plans.subscription.activeOnPlan": "Ön már előfizetett erre a tervre.",

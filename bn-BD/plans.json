@@ -167,7 +167,6 @@
   "payment.methods.adding": "আপনার নতুন পেমেন্ট পদ্ধতি আপনার অ্যাকাউন্টে যোগ করা হয়েছে।",
   "payment.methods.delete": "পেমেন্ট পদ্ধতি মুছে ফেলুন",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "সাবস্ক্রিপশন সেটিংস অপশনসমূহ",
   "plans.buttonStatus.submitting": "আপনার অনুরোধ জমা দেওয়া হচ্ছে...",
   "plans.button.manageOnStripe": "স্ট্রাইপে বিলিং পরিচালনা করুন",
   "plans.subscription.activeOnPlan": "আপনি ইতিমধ্যে এই প্ল্যানে সাবস্ক্রাইব করেছেন।",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "თქვენი ახალი გადახდის მეთოდი დაემატა თქვენს ანგარიშზე.",
   "payment.methods.delete": "გადაიწყეთ გადახდის მეთოდის წაშლა",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "გამოწერის პარამეტრების ოფციები",
   "plans.buttonStatus.submitting": "თქვენი მოთხოვნის გაგზავნა...",
   "plans.button.manageOnStripe": "Stripe-ზე გადახდების მართვა",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

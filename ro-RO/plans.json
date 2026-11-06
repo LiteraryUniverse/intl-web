@@ -167,7 +167,6 @@
   "payment.methods.adding": "Metoda dvs. de plată nouă a fost adăugată în contul dvs.",
   "payment.methods.delete": "Ștergeți metoda de plată",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Opțiuni de setări pentru abonament",
   "plans.buttonStatus.submitting": "Se trimite cererea ta...",
   "plans.button.manageOnStripe": "Gestionează facturarea pe Stripe",
   "plans.subscription.activeOnPlan": "Sunteți deja abonat la acest plan.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "لقد تمت إضافة طريقة دفع جديدة إلى حسابك.",
   "payment.methods.delete": "حذف طريقة الدفع",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "خيارات إعدادات الاشتراك",
   "plans.buttonStatus.submitting": "جارٍ تقديم طلبك...",
   "plans.button.manageOnStripe": "إدارة الفوترة على Stripe",
   "plans.subscription.activeOnPlan": "لقد اشتركت بالفعل في هذه الخطة.",

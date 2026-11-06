@@ -167,7 +167,6 @@
   "payment.methods.adding": "आपकी नई भुगतान विधि को आपके खाते में जोड़ दिया गया है।",
   "payment.methods.delete": "भुगतान विधि हटाएं",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "ग्राहक सेटिंग विकल्प",
   "plans.buttonStatus.submitting": "अपना अनुरोध जमा कर रहे हैं...",
   "plans.button.manageOnStripe": "स्ट्राइप पर बिलिंग प्रबंधित करें",
   "plans.subscription.activeOnPlan": "आप पहले से इस योजना के सदस्य हैं।",

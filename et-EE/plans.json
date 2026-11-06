@@ -167,7 +167,6 @@
   "payment.methods.adding": "Teie uus makseviis on lisatud teie kontole.",
   "payment.methods.delete": "Kustuta makseviis",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Tellimuse seadete valikud",
   "plans.buttonStatus.submitting": "Päringu esitamine...",
   "plans.button.manageOnStripe": "Hallake arveldust Stripe'is",
   "plans.subscription.activeOnPlan": "Te olete juba selle plaaniga liitunud.",

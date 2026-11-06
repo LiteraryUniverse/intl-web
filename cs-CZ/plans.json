@@ -167,7 +167,6 @@
   "payment.methods.adding": "Váš nový způsob platby byl přidán k vašemu účtu.",
   "payment.methods.delete": "Odstranit způsob platby",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Nastavení předplatného",
   "plans.buttonStatus.submitting": "Odesílání Vaší žádosti...",
   "plans.button.manageOnStripe": "Spravovat fakturaci na Stripe",
   "plans.subscription.activeOnPlan": "Tento plán jste si již předplatili.",

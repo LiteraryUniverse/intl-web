@@ -167,7 +167,6 @@
   "payment.methods.adding": "আপনার নতুন পেমেন্ট পদ্ধতি আপনার অ্যাকাউন্টে যোগ করা হয়েছে।",
   "payment.methods.delete": "পেমেন্ট পদ্ধতি মুছে ফেলুন",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "চাবকৈ সংযোগ সংকেত নিৰ্বাচনসমূহ",
   "plans.buttonStatus.submitting": "আপোনাৰ অনুৰোধ জমা কৰা হচ্ছে আগতে যাওক...",
   "plans.button.manageOnStripe": "Stripeত বিলিং পৰিচালনা কৰক",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "Tá do mhodh íocaíochta nua curtha le do chuntas.",
   "payment.methods.delete": "Scrios modh íocaíochta",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Roghanna socruithe síntiúis",
   "plans.buttonStatus.submitting": "Ag cur in iúl do iarraidh...",
   "plans.button.manageOnStripe": "Bainistiú Billeála ar Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "O seu novo método de pagamento foi adicionado à sua conta.",
   "payment.methods.delete": "Eliminar método de pagamento",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Opções de configurações de assinatura",
   "plans.buttonStatus.submitting": "Enviando sua solicitação...",
   "plans.button.manageOnStripe": "Gerencie a Cobrança no Stripe",
   "plans.subscription.activeOnPlan": "Já é subscritor deste plano.",

@@ -167,7 +167,6 @@
   "payment.methods.adding": "វិធីសាស្រ្តបង់ប្រាក់ថ្មីរបស់អ្នកបានបន្ថែមទៅគណនីរបស់អ្នក។",
   "payment.methods.delete": "លុបវិធីសាស្រ្តបង់ប្រាក់",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Subscription settings options",
   "plans.buttonStatus.submitting": "Submitting your request...",
   "plans.button.manageOnStripe": "Manage Billing on Stripe",
   "plans.subscription.activeOnPlan": "You already subscribe to this plan.",

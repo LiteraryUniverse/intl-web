@@ -167,7 +167,6 @@
   "payment.methods.adding": "Ang iyong bagong paraan ng pagbabayad ay idinagdag sa iyong account.",
   "payment.methods.delete": "Tanggalin ang paraan ng pagbabayad",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "Mga pagpipilian sa mga setting ng subscription",
   "plans.buttonStatus.submitting": "Nagpapasa ng iyong kahilingan...",
   "plans.button.manageOnStripe": "Pamahalaan ang Pagbabayad sa Stripe",
   "plans.subscription.activeOnPlan": "Naka-subscribe ka na sa planong ito.",

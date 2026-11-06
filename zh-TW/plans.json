@@ -167,7 +167,6 @@
   "payment.methods.adding": "您的新付款方式已新增至您的帳戶。",
   "payment.methods.delete": "刪除付款方式",
   "payment.upgradePlan.option": "{plan} - {price}",
-  "plans.subscription.settingsAria": "訂閱設定選項",
   "plans.buttonStatus.submitting": "正在提交您的請求...",
   "plans.button.manageOnStripe": "在Stripe上管理帳單",
   "plans.subscription.activeOnPlan": "您已經訂閱了此計劃。",
