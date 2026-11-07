@@ -394,5 +394,10 @@
   "settings.apps.notListed": "此應用程式已不再列出。",
   "settings.apps.mayAsk": "登入時，此應用程式可能會要求：",
   "settings.apps.open": "開啟應用程式",
-  "settings.apps.admin.nav": "應用程式"
+  "settings.apps.admin.nav": "應用程式",
+  "settings.apiKeys.scope.companion.read": "讀取桌面助手資料",
+  "settings.apiKeys.scope.companion.read.desc": "讀取您的個人待辦事項、提醒狀態、近期寫作和通知",
+  "settings.apiKeys.scope.companion.write": "更新桌面助手",
+  "settings.apiKeys.scope.companion.write.desc": "新增及完成個人待辦事項，並將通知標記為已讀",
+  "settings.integrations.omarchy.summary": "您在 Omarchy 上的寫作夥伴。"
 }

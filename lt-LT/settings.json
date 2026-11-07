@@ -394,5 +394,10 @@
   "settings.apps.notListed": "Ši programa nebėra sąraše.",
   "settings.apps.mayAsk": "Jums prisijungus, programa gali prašyti:",
   "settings.apps.open": "Atidaryti programą",
-  "settings.apps.admin.nav": "Programos"
+  "settings.apps.admin.nav": "Programos",
+  "settings.apiKeys.scope.companion.read": "Skaityti darbalaukio pagalbininko duomenis",
+  "settings.apiKeys.scope.companion.read.desc": "Skaityti asmenines užduotis, priminimų būseną, naujausius rašinius ir pranešimus",
+  "settings.apiKeys.scope.companion.write": "Atnaujinti darbalaukio pagalbininką",
+  "settings.apiKeys.scope.companion.write.desc": "Pridėti ir atlikti asmenines užduotis bei pažymėti pranešimus kaip perskaitytus",
+  "settings.integrations.omarchy.summary": "Jūsų rašymo pagalbininkas Omarchy aplinkoje."
 }

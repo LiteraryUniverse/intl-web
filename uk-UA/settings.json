@@ -394,5 +394,10 @@
   "settings.apps.notListed": "Цей додаток більше не опублікований.",
   "settings.apps.mayAsk": "Під час входу додаток може запросити:",
   "settings.apps.open": "Відкрити додаток",
-  "settings.apps.admin.nav": "Додатки"
+  "settings.apps.admin.nav": "Додатки",
+  "settings.apiKeys.scope.companion.read": "Читання даних помічника робочого столу",
+  "settings.apiKeys.scope.companion.read.desc": "Читання особистих завдань, стану нагадувань, нещодавніх робіт і сповіщень",
+  "settings.apiKeys.scope.companion.write": "Оновлення помічника робочого столу",
+  "settings.apiKeys.scope.companion.write.desc": "Додавання й завершення особистих завдань і позначення сповіщень як прочитаних",
+  "settings.integrations.omarchy.summary": "Ваш помічник для письма в Omarchy."
 }

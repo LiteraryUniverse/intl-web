@@ -394,5 +394,10 @@
   "settings.apps.notListed": "이 앱은 더 이상 등록되어 있지 않습니다.",
   "settings.apps.mayAsk": "로그인할 때 앱이 다음을 요청할 수 있습니다:",
   "settings.apps.open": "앱 열기",
-  "settings.apps.admin.nav": "앱"
+  "settings.apps.admin.nav": "앱",
+  "settings.apiKeys.scope.companion.read": "데스크톱 도우미 정보 읽기",
+  "settings.apiKeys.scope.companion.read.desc": "개인 작업, 알림 상태, 최근 집필 및 알림 읽기",
+  "settings.apiKeys.scope.companion.write": "데스크톱 도우미 업데이트",
+  "settings.apiKeys.scope.companion.write.desc": "개인 작업 추가 및 완료, 알림을 읽음으로 표시",
+  "settings.integrations.omarchy.summary": "Omarchy를 위한 집필 동반자."
 }

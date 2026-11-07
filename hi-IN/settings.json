@@ -394,5 +394,10 @@
   "settings.apps.notListed": "यह ऐप अब सूचीबद्ध नहीं है।",
   "settings.apps.mayAsk": "साइन इन करने पर, ऐप ये माँग सकता है:",
   "settings.apps.open": "ऐप खोलें",
-  "settings.apps.admin.nav": "ऐप"
+  "settings.apps.admin.nav": "ऐप",
+  "settings.apiKeys.scope.companion.read": "डेस्कटॉप सहायक का डेटा पढ़ें",
+  "settings.apiKeys.scope.companion.read.desc": "अपने निजी कार्य, अनुस्मारक की स्थिति, हाल के लेखन और सूचनाएँ पढ़ें",
+  "settings.apiKeys.scope.companion.write": "डेस्कटॉप सहायक अपडेट करें",
+  "settings.apiKeys.scope.companion.write.desc": "निजी कार्य जोड़ें और पूरे करें तथा सूचनाओं को पढ़ा हुआ चिह्नित करें",
+  "settings.integrations.omarchy.summary": "Omarchy के लिए आपका लेखन साथी।"
 }

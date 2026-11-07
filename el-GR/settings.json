@@ -394,5 +394,10 @@
   "settings.apps.notListed": "Αυτή η εφαρμογή δεν εμφανίζεται πλέον στον κατάλογο.",
   "settings.apps.mayAsk": "Κατά τη σύνδεση, η εφαρμογή μπορεί να ζητήσει:",
   "settings.apps.open": "Άνοιγμα εφαρμογής",
-  "settings.apps.admin.nav": "Εφαρμογές"
+  "settings.apps.admin.nav": "Εφαρμογές",
+  "settings.apiKeys.scope.companion.read": "Ανάγνωση βοηθού επιφάνειας εργασίας",
+  "settings.apiKeys.scope.companion.read.desc": "Ανάγνωση προσωπικών εργασιών, κατάστασης υπενθυμίσεων, πρόσφατων κειμένων και ειδοποιήσεων",
+  "settings.apiKeys.scope.companion.write": "Ενημέρωση βοηθού επιφάνειας εργασίας",
+  "settings.apiKeys.scope.companion.write.desc": "Προσθήκη και ολοκλήρωση προσωπικών εργασιών και σήμανση ειδοποιήσεων ως αναγνωσμένων",
+  "settings.integrations.omarchy.summary": "Ο βοηθός συγγραφής σας για το Omarchy."
 }

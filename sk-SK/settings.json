@@ -394,5 +394,10 @@
   "settings.apps.notListed": "Táto aplikácia už nie je uvedená.",
   "settings.apps.mayAsk": "Pri prihlásení môže aplikácia požiadať o:",
   "settings.apps.open": "Otvoriť aplikáciu",
-  "settings.apps.admin.nav": "Aplikácie"
+  "settings.apps.admin.nav": "Aplikácie",
+  "settings.apiKeys.scope.companion.read": "Čítať údaje pomocníka pre plochu",
+  "settings.apiKeys.scope.companion.read.desc": "Čítať osobné úlohy, stav pripomienok, nedávnu tvorbu a oznámenia",
+  "settings.apiKeys.scope.companion.write": "Upravovať údaje pomocníka pre plochu",
+  "settings.apiKeys.scope.companion.write.desc": "Pridávať a dokončovať osobné úlohy a označovať oznámenia ako prečítané",
+  "settings.integrations.omarchy.summary": "Váš pomocník pri písaní pre Omarchy."
 }

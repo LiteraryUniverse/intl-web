@@ -394,5 +394,10 @@
   "settings.apps.notListed": "ई ऐप आब सूचीबद्ध नहि अछि।",
   "settings.apps.mayAsk": "साइन इन करैत काल ऐप ई सभ माँगि सकैत अछि:",
   "settings.apps.open": "ऐप खोलू",
-  "settings.apps.admin.nav": "ऐप सभ"
+  "settings.apps.admin.nav": "ऐप सभ",
+  "settings.apiKeys.scope.companion.read": "डेस्कटॉप सहायकक डेटा पढ़ू",
+  "settings.apiKeys.scope.companion.read.desc": "अपन निजी काज, स्मरणक स्थिति, हालक लेखन आ सूचना पढ़ू",
+  "settings.apiKeys.scope.companion.write": "डेस्कटॉप सहायक अद्यतन करू",
+  "settings.apiKeys.scope.companion.write.desc": "निजी काज जोड़ू आ पूरा करू तथा सूचना पढ़ल चिह्नित करू",
+  "settings.integrations.omarchy.summary": "Omarchy लेल अहाँक लेखन संगी।"
 }

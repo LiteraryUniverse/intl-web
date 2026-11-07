@@ -394,5 +394,10 @@
   "settings.apps.notListed": "ಈ ಆ್ಯಪ್ ಈಗ ಪಟ್ಟಿಯಲ್ಲಿ ಇಲ್ಲ.",
   "settings.apps.mayAsk": "ನೀವು ಸೈನ್ ಇನ್ ಮಾಡುವಾಗ, ಆ್ಯಪ್ ಇವುಗಳನ್ನು ಕೇಳಬಹುದು:",
   "settings.apps.open": "ಆ್ಯಪ್ ತೆರೆಯಿರಿ",
-  "settings.apps.admin.nav": "ಆ್ಯಪ್‌ಗಳು"
+  "settings.apps.admin.nav": "ಆ್ಯಪ್‌ಗಳು",
+  "settings.apiKeys.scope.companion.read": "ಡೆಸ್ಕ್‌ಟಾಪ್ ಸಹಾಯಕದ ಮಾಹಿತಿಯನ್ನು ಓದಿ",
+  "settings.apiKeys.scope.companion.read.desc": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳು, ಜ್ಞಾಪನೆಗಳ ಸ್ಥಿತಿ, ಇತ್ತೀಚಿನ ಬರಹಗಳು ಮತ್ತು ಸೂಚನೆಗಳನ್ನು ಓದಿ",
+  "settings.apiKeys.scope.companion.write": "ಡೆಸ್ಕ್‌ಟಾಪ್ ಸಹಾಯಕವನ್ನು ನವೀಕರಿಸಿ",
+  "settings.apiKeys.scope.companion.write.desc": "ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸಿ ಹಾಗೂ ಸೂಚನೆಗಳನ್ನು ಓದಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ",
+  "settings.integrations.omarchy.summary": "Omarchy ಗಾಗಿ ನಿಮ್ಮ ಬರವಣಿಗೆಯ ಸಂಗಾತಿ."
 }

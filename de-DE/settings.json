@@ -394,5 +394,10 @@
   "settings.apps.notListed": "Diese App ist nicht mehr gelistet.",
   "settings.apps.mayAsk": "Bei der Anmeldung kann die App Folgendes anfordern:",
   "settings.apps.open": "App öffnen",
-  "settings.apps.admin.nav": "Apps"
+  "settings.apps.admin.nav": "Apps",
+  "settings.apiKeys.scope.companion.read": "Desktop-Begleiter lesen",
+  "settings.apiKeys.scope.companion.read.desc": "Persönliche Aufgaben, Erinnerungsstatus, zuletzt bearbeitete Werke und Benachrichtigungen lesen",
+  "settings.apiKeys.scope.companion.write": "Desktop-Begleiter aktualisieren",
+  "settings.apiKeys.scope.companion.write.desc": "Persönliche Aufgaben hinzufügen und abschließen und Benachrichtigungen als gelesen markieren",
+  "settings.integrations.omarchy.summary": "Dein Schreibbegleiter für Omarchy."
 }

@@ -394,5 +394,10 @@
   "settings.apps.notListed": "এই অ্যাপটি আর তালিকাভুক্ত নেই।",
   "settings.apps.mayAsk": "আপনি সাইন ইন করলে অ্যাপটি যা চাইতে পারে:",
   "settings.apps.open": "অ্যাপ খুলুন",
-  "settings.apps.admin.nav": "অ্যাপ"
+  "settings.apps.admin.nav": "অ্যাপ",
+  "settings.apiKeys.scope.companion.read": "ডেস্কটপ সহায়কের তথ্য পড়ুন",
+  "settings.apiKeys.scope.companion.read.desc": "আপনার ব্যক্তিগত কাজ, অনুস্মারকের অবস্থা, সাম্প্রতিক লেখা ও বিজ্ঞপ্তি পড়ুন",
+  "settings.apiKeys.scope.companion.write": "ডেস্কটপ সহায়ক হালনাগাদ করুন",
+  "settings.apiKeys.scope.companion.write.desc": "ব্যক্তিগত কাজ যোগ ও সম্পূর্ণ করুন এবং বিজ্ঞপ্তিকে পঠিত হিসেবে চিহ্নিত করুন",
+  "settings.integrations.omarchy.summary": "Omarchy-এর জন্য আপনার লেখার সঙ্গী।"
 }

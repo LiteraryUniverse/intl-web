@@ -394,5 +394,10 @@
   "settings.apps.notListed": "Ứng dụng này không còn trong danh mục.",
   "settings.apps.mayAsk": "Khi bạn đăng nhập, ứng dụng có thể yêu cầu:",
   "settings.apps.open": "Mở ứng dụng",
-  "settings.apps.admin.nav": "Ứng dụng"
+  "settings.apps.admin.nav": "Ứng dụng",
+  "settings.apiKeys.scope.companion.read": "Đọc dữ liệu trợ lý máy tính",
+  "settings.apiKeys.scope.companion.read.desc": "Đọc công việc cá nhân, trạng thái lời nhắc, bài viết gần đây và thông báo",
+  "settings.apiKeys.scope.companion.write": "Cập nhật trợ lý máy tính",
+  "settings.apiKeys.scope.companion.write.desc": "Thêm và hoàn thành công việc cá nhân, đánh dấu thông báo đã đọc",
+  "settings.integrations.omarchy.summary": "Người bạn đồng hành viết lách của bạn trên Omarchy."
 }

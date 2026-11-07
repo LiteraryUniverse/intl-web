@@ -394,5 +394,10 @@
   "settings.apps.notListed": "ଏହି ଆପ୍ ଆଉ ତାଲିକାଭୁକ୍ତ ନାହିଁ।",
   "settings.apps.mayAsk": "ଆପଣ ସାଇନ୍ ଇନ୍ କଲେ, ଆପ୍ ଏହା ମାଗିପାରେ:",
   "settings.apps.open": "ଆପ୍ ଖୋଲନ୍ତୁ",
-  "settings.apps.admin.nav": "ଆପ୍"
+  "settings.apps.admin.nav": "ଆପ୍",
+  "settings.apiKeys.scope.companion.read": "ଡେସ୍କଟପ୍ ସହାୟକର ତଥ୍ୟ ପଢ଼ନ୍ତୁ",
+  "settings.apiKeys.scope.companion.read.desc": "ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ କାର୍ଯ୍ୟ, ସ୍ମାରକର ସ୍ଥିତି, ସାମ୍ପ୍ରତିକ ଲେଖା ଓ ବିଜ୍ଞପ୍ତି ପଢ଼ନ୍ତୁ",
+  "settings.apiKeys.scope.companion.write": "ଡେସ୍କଟପ୍ ସହାୟକକୁ ଅଦ୍ୟତନ କରନ୍ତୁ",
+  "settings.apiKeys.scope.companion.write.desc": "ବ୍ୟକ୍ତିଗତ କାର୍ଯ୍ୟ ଯୋଡ଼ନ୍ତୁ ଓ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ ଏବଂ ବିଜ୍ଞପ୍ତିକୁ ପଢ଼ାଯାଇଛି ବୋଲି ଚିହ୍ନିତ କରନ୍ତୁ",
+  "settings.integrations.omarchy.summary": "Omarchy ପାଇଁ ଆପଣଙ୍କ ଲେଖନ ସାଥୀ।"
 }

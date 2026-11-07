@@ -394,5 +394,10 @@
   "settings.apps.notListed": "Bu uygulama artık listelenmiyor.",
   "settings.apps.mayAsk": "Oturum açtığınızda uygulama şunları isteyebilir:",
   "settings.apps.open": "Uygulamayı aç",
-  "settings.apps.admin.nav": "Uygulamalar"
+  "settings.apps.admin.nav": "Uygulamalar",
+  "settings.apiKeys.scope.companion.read": "Masaüstü yardımcısını okuma",
+  "settings.apiKeys.scope.companion.read.desc": "Kişisel görevlerinizi, hatırlatma durumunu, son yazılarınızı ve bildirimlerinizi okuma",
+  "settings.apiKeys.scope.companion.write": "Masaüstü yardımcısını güncelleme",
+  "settings.apiKeys.scope.companion.write.desc": "Kişisel görev ekleme ve tamamlama, bildirimleri okundu olarak işaretleme",
+  "settings.integrations.omarchy.summary": "Omarchy için yazma yardımcınız."
 }

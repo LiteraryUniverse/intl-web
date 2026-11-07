@@ -394,5 +394,10 @@
   "settings.apps.notListed": "આ એપ હવે સૂચિબદ્ધ નથી.",
   "settings.apps.mayAsk": "તમે સાઇન ઇન કરો ત્યારે એપ આ માગી શકે છે:",
   "settings.apps.open": "એપ ખોલો",
-  "settings.apps.admin.nav": "એપ્સ"
+  "settings.apps.admin.nav": "એપ્સ",
+  "settings.apiKeys.scope.companion.read": "ડેસ્કટોપ સહાયકનો ડેટા વાંચો",
+  "settings.apiKeys.scope.companion.read.desc": "તમારા અંગત કાર્યો, રિમાઇન્ડરની સ્થિતિ, તાજેતરનું લેખન અને સૂચનાઓ વાંચો",
+  "settings.apiKeys.scope.companion.write": "ડેસ્કટોપ સહાયક અપડેટ કરો",
+  "settings.apiKeys.scope.companion.write.desc": "અંગત કાર્યો ઉમેરો અને પૂર્ણ કરો તથા સૂચનાઓને વાંચેલી તરીકે ચિહ્નિત કરો",
+  "settings.integrations.omarchy.summary": "Omarchy માટે તમારો લેખન સાથી."
 }
