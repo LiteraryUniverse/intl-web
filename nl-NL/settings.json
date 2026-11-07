@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Officieel",
   "settings.integrations.type.community": "Community",
   "settings.apiKeys.scope.companion.read": "Desktopassistent lezen",
-  "settings.apiKeys.scope.companion.read.desc": "Je persoonlijke taken, herinneringsstatus, recente schrijfwerk en meldingen lezen",
-  "settings.apiKeys.scope.companion.write": "Desktopassistent bijwerken",
-  "settings.apiKeys.scope.companion.write.desc": "Persoonlijke taken toevoegen en afronden en meldingen als gelezen markeren",
-  "settings.integrations.omarchy.summary": "Je schrijfassistent voor Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "De status van je dagboekherinneringen en je recente schrijfwerk lezen",
+  "settings.integrations.omarchy.summary": "Je schrijfassistent voor Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Taken lezen",
+  "settings.apiKeys.scope.tasks.read.desc": "Je persoonlijke taken lezen",
+  "settings.apiKeys.scope.tasks.write": "Taken bijwerken",
+  "settings.apiKeys.scope.tasks.write.desc": "Je persoonlijke taken toevoegen en voltooien",
+  "settings.apiKeys.scope.notifications.read": "Meldingen lezen",
+  "settings.apiKeys.scope.notifications.read.desc": "Je meldingen lezen",
+  "settings.apiKeys.scope.notifications.write": "Meldingen bijwerken",
+  "settings.apiKeys.scope.notifications.write.desc": "Je meldingen als gelezen markeren"
 }

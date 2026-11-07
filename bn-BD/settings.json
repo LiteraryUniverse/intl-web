@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "আনুষ্ঠানিক",
   "settings.integrations.type.community": "কমিউনিটি",
   "settings.apiKeys.scope.companion.read": "ডেস্কটপ সহায়কের তথ্য পড়ুন",
-  "settings.apiKeys.scope.companion.read.desc": "আপনার ব্যক্তিগত কাজ, অনুস্মারকের অবস্থা, সাম্প্রতিক লেখা ও বিজ্ঞপ্তি পড়ুন",
-  "settings.apiKeys.scope.companion.write": "ডেস্কটপ সহায়ক হালনাগাদ করুন",
-  "settings.apiKeys.scope.companion.write.desc": "ব্যক্তিগত কাজ যোগ ও সম্পূর্ণ করুন এবং বিজ্ঞপ্তিকে পঠিত হিসেবে চিহ্নিত করুন",
-  "settings.integrations.omarchy.summary": "Omarchy-এর জন্য আপনার লেখার সঙ্গী।"
+  "settings.apiKeys.scope.companion.read.desc": "ডায়েরির অনুস্মারকের অবস্থা ও আপনার সাম্প্রতিক লেখা পড়ুন",
+  "settings.integrations.omarchy.summary": "Omarchy-এর জন্য আপনার লেখার সঙ্গী।",
+  "settings.apiKeys.scope.tasks.read": "কাজ পড়ুন",
+  "settings.apiKeys.scope.tasks.read.desc": "আপনার ব্যক্তিগত কাজগুলো পড়ুন",
+  "settings.apiKeys.scope.tasks.write": "কাজ হালনাগাদ করুন",
+  "settings.apiKeys.scope.tasks.write.desc": "আপনার ব্যক্তিগত কাজ যোগ করুন ও সম্পন্ন করুন",
+  "settings.apiKeys.scope.notifications.read": "বিজ্ঞপ্তি পড়ুন",
+  "settings.apiKeys.scope.notifications.read.desc": "আপনার বিজ্ঞপ্তিগুলো পড়ুন",
+  "settings.apiKeys.scope.notifications.write": "বিজ্ঞপ্তি হালনাগাদ করুন",
+  "settings.apiKeys.scope.notifications.write.desc": "আপনার বিজ্ঞপ্তিগুলো পঠিত হিসেবে চিহ্নিত করুন"
 }

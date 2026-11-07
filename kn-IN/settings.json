@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "ಅಧಿಕೃತ",
   "settings.integrations.type.community": "ಸಮುದಾಯ",
   "settings.apiKeys.scope.companion.read": "ಡೆಸ್ಕ್‌ಟಾಪ್ ಸಹಾಯಕದ ಮಾಹಿತಿಯನ್ನು ಓದಿ",
-  "settings.apiKeys.scope.companion.read.desc": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳು, ಜ್ಞಾಪನೆಗಳ ಸ್ಥಿತಿ, ಇತ್ತೀಚಿನ ಬರಹಗಳು ಮತ್ತು ಸೂಚನೆಗಳನ್ನು ಓದಿ",
-  "settings.apiKeys.scope.companion.write": "ಡೆಸ್ಕ್‌ಟಾಪ್ ಸಹಾಯಕವನ್ನು ನವೀಕರಿಸಿ",
-  "settings.apiKeys.scope.companion.write.desc": "ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸಿ ಹಾಗೂ ಸೂಚನೆಗಳನ್ನು ಓದಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ",
-  "settings.integrations.omarchy.summary": "Omarchy ಗಾಗಿ ನಿಮ್ಮ ಬರವಣಿಗೆಯ ಸಂಗಾತಿ."
+  "settings.apiKeys.scope.companion.read.desc": "ದಿನಚರಿಯ ಜ್ಞಾಪನೆಗಳ ಸ್ಥಿತಿ ಮತ್ತು ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಬರವಣಿಗೆಯನ್ನು ಓದಿ",
+  "settings.integrations.omarchy.summary": "Omarchy ಗಾಗಿ ನಿಮ್ಮ ಬರವಣಿಗೆಯ ಸಂಗಾತಿ.",
+  "settings.apiKeys.scope.tasks.read": "ಕಾರ್ಯಗಳನ್ನು ಓದಿ",
+  "settings.apiKeys.scope.tasks.read.desc": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳನ್ನು ಓದಿ",
+  "settings.apiKeys.scope.tasks.write": "ಕಾರ್ಯಗಳನ್ನು ನವೀಕರಿಸಿ",
+  "settings.apiKeys.scope.tasks.write.desc": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸಿ",
+  "settings.apiKeys.scope.notifications.read": "ಅಧಿಸೂಚನೆಗಳನ್ನು ಓದಿ",
+  "settings.apiKeys.scope.notifications.read.desc": "ನಿಮ್ಮ ಅಧಿಸೂಚನೆಗಳನ್ನು ಓದಿ",
+  "settings.apiKeys.scope.notifications.write": "ಅಧಿಸೂಚನೆಗಳನ್ನು ನವೀಕರಿಸಿ",
+  "settings.apiKeys.scope.notifications.write.desc": "ನಿಮ್ಮ ಅಧಿಸೂಚನೆಗಳನ್ನು ಓದಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ"
 }

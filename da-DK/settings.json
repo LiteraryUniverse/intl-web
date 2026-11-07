@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Officiel",
   "settings.integrations.type.community": "Fællesskab",
   "settings.apiKeys.scope.companion.read": "Læs skrivebordsassistent",
-  "settings.apiKeys.scope.companion.read.desc": "Læs dine personlige opgaver, påmindelsesstatus, seneste skrivearbejde og notifikationer",
-  "settings.apiKeys.scope.companion.write": "Opdater skrivebordsassistent",
-  "settings.apiKeys.scope.companion.write.desc": "Tilføj og afslut personlige opgaver, og markér notifikationer som læst",
-  "settings.integrations.omarchy.summary": "Din skriveassistent til Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Læs status for dine dagbogspåmindelser og dit seneste skrivearbejde",
+  "settings.integrations.omarchy.summary": "Din skriveassistent til Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Læs opgaver",
+  "settings.apiKeys.scope.tasks.read.desc": "Læs dine personlige opgaver",
+  "settings.apiKeys.scope.tasks.write": "Opdater opgaver",
+  "settings.apiKeys.scope.tasks.write.desc": "Tilføj og fuldfør dine personlige opgaver",
+  "settings.apiKeys.scope.notifications.read": "Læs notifikationer",
+  "settings.apiKeys.scope.notifications.read.desc": "Læs dine notifikationer",
+  "settings.apiKeys.scope.notifications.write": "Opdater notifikationer",
+  "settings.apiKeys.scope.notifications.write.desc": "Markér dine notifikationer som læst"
 }

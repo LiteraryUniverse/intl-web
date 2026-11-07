@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Opisyal",
   "settings.integrations.type.community": "Komunidad",
   "settings.apiKeys.scope.companion.read": "Basahin ang desktop assistant",
-  "settings.apiKeys.scope.companion.read.desc": "Basahin ang mga personal na gawain, katayuan ng paalala, kamakailang sulatin at abiso",
-  "settings.apiKeys.scope.companion.write": "I-update ang desktop assistant",
-  "settings.apiKeys.scope.companion.write.desc": "Magdagdag at tapusin ang mga personal na gawain at markahan ang mga abiso bilang nabasa",
-  "settings.integrations.omarchy.summary": "Ang iyong kasama sa pagsusulat para sa Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Basahin ang katayuan ng mga paalala sa talaarawan at ang iyong mga kamakailang isinulat",
+  "settings.integrations.omarchy.summary": "Ang iyong kasama sa pagsusulat para sa Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Basahin ang mga gawain",
+  "settings.apiKeys.scope.tasks.read.desc": "Basahin ang iyong mga personal na gawain",
+  "settings.apiKeys.scope.tasks.write": "I-update ang mga gawain",
+  "settings.apiKeys.scope.tasks.write.desc": "Magdagdag at tapusin ang iyong mga personal na gawain",
+  "settings.apiKeys.scope.notifications.read": "Basahin ang mga abiso",
+  "settings.apiKeys.scope.notifications.read.desc": "Basahin ang iyong mga abiso",
+  "settings.apiKeys.scope.notifications.write": "I-update ang mga abiso",
+  "settings.apiKeys.scope.notifications.write.desc": "Markahan ang iyong mga abiso bilang nabasa na"
 }

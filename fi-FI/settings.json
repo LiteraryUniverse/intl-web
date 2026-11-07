@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Virallinen",
   "settings.integrations.type.community": "Yhteisö",
   "settings.apiKeys.scope.companion.read": "Lue työpöytäavustajan tietoja",
-  "settings.apiKeys.scope.companion.read.desc": "Lue omia tehtäviä, muistutusten tilaa, viimeaikaisia kirjoituksia ja ilmoituksia",
-  "settings.apiKeys.scope.companion.write": "Päivitä työpöytäavustajaa",
-  "settings.apiKeys.scope.companion.write.desc": "Lisää ja suorita omia tehtäviä ja merkitse ilmoituksia luetuiksi",
-  "settings.integrations.omarchy.summary": "Kirjoitusavustajasi Omarchylle."
+  "settings.apiKeys.scope.companion.read.desc": "Lue päiväkirjamuistutustesi tila ja viimeaikaiset kirjoituksesi",
+  "settings.integrations.omarchy.summary": "Kirjoitusavustajasi Omarchylle.",
+  "settings.apiKeys.scope.tasks.read": "Lue tehtäviä",
+  "settings.apiKeys.scope.tasks.read.desc": "Lue henkilökohtaisia tehtäviäsi",
+  "settings.apiKeys.scope.tasks.write": "Päivitä tehtäviä",
+  "settings.apiKeys.scope.tasks.write.desc": "Lisää ja suorita henkilökohtaisia tehtäviäsi",
+  "settings.apiKeys.scope.notifications.read": "Lue ilmoituksia",
+  "settings.apiKeys.scope.notifications.read.desc": "Lue ilmoituksiasi",
+  "settings.apiKeys.scope.notifications.write": "Päivitä ilmoituksia",
+  "settings.apiKeys.scope.notifications.write.desc": "Merkitse ilmoituksesi luetuiksi"
 }

@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Ufficiale",
   "settings.integrations.type.community": "Community",
   "settings.apiKeys.scope.companion.read": "Leggere i dati dell’assistente desktop",
-  "settings.apiKeys.scope.companion.read.desc": "Leggere attività personali, stato dei promemoria, scritti recenti e notifiche",
-  "settings.apiKeys.scope.companion.write": "Aggiornare l’assistente desktop",
-  "settings.apiKeys.scope.companion.write.desc": "Aggiungere e completare attività personali e segnare le notifiche come lette",
-  "settings.integrations.omarchy.summary": "Il tuo compagno di scrittura per Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Leggere lo stato dei promemoria del diario e i tuoi scritti recenti",
+  "settings.integrations.omarchy.summary": "Il tuo compagno di scrittura per Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Leggere le attività",
+  "settings.apiKeys.scope.tasks.read.desc": "Leggere le tue attività personali",
+  "settings.apiKeys.scope.tasks.write": "Aggiornare le attività",
+  "settings.apiKeys.scope.tasks.write.desc": "Aggiungere e completare le tue attività personali",
+  "settings.apiKeys.scope.notifications.read": "Leggere le notifiche",
+  "settings.apiKeys.scope.notifications.read.desc": "Leggere le tue notifiche",
+  "settings.apiKeys.scope.notifications.write": "Aggiornare le notifiche",
+  "settings.apiKeys.scope.notifications.write.desc": "Segnare le tue notifiche come lette"
 }

@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Chính thức",
   "settings.integrations.type.community": "Cộng đồng",
   "settings.apiKeys.scope.companion.read": "Đọc dữ liệu trợ lý máy tính",
-  "settings.apiKeys.scope.companion.read.desc": "Đọc công việc cá nhân, trạng thái lời nhắc, bài viết gần đây và thông báo",
-  "settings.apiKeys.scope.companion.write": "Cập nhật trợ lý máy tính",
-  "settings.apiKeys.scope.companion.write.desc": "Thêm và hoàn thành công việc cá nhân, đánh dấu thông báo đã đọc",
-  "settings.integrations.omarchy.summary": "Người bạn đồng hành viết lách của bạn trên Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Đọc trạng thái nhắc viết nhật ký và hoạt động viết gần đây của bạn",
+  "settings.integrations.omarchy.summary": "Người bạn đồng hành viết lách của bạn trên Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Đọc công việc",
+  "settings.apiKeys.scope.tasks.read.desc": "Đọc các công việc cá nhân của bạn",
+  "settings.apiKeys.scope.tasks.write": "Cập nhật công việc",
+  "settings.apiKeys.scope.tasks.write.desc": "Thêm và hoàn thành các công việc cá nhân của bạn",
+  "settings.apiKeys.scope.notifications.read": "Đọc thông báo",
+  "settings.apiKeys.scope.notifications.read.desc": "Đọc các thông báo của bạn",
+  "settings.apiKeys.scope.notifications.write": "Cập nhật thông báo",
+  "settings.apiKeys.scope.notifications.write.desc": "Đánh dấu các thông báo của bạn là đã đọc"
 }

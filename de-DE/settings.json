@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Offiziell",
   "settings.integrations.type.community": "Community",
   "settings.apiKeys.scope.companion.read": "Desktop-Begleiter lesen",
-  "settings.apiKeys.scope.companion.read.desc": "Persönliche Aufgaben, Erinnerungsstatus, zuletzt bearbeitete Werke und Benachrichtigungen lesen",
-  "settings.apiKeys.scope.companion.write": "Desktop-Begleiter aktualisieren",
-  "settings.apiKeys.scope.companion.write.desc": "Persönliche Aufgaben hinzufügen und abschließen und Benachrichtigungen als gelesen markieren",
-  "settings.integrations.omarchy.summary": "Dein Schreibbegleiter für Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Den Status deiner Tagebucherinnerungen und deine zuletzt bearbeiteten Texte lesen",
+  "settings.integrations.omarchy.summary": "Dein Schreibbegleiter für Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Aufgaben lesen",
+  "settings.apiKeys.scope.tasks.read.desc": "Deine persönlichen Aufgaben lesen",
+  "settings.apiKeys.scope.tasks.write": "Aufgaben aktualisieren",
+  "settings.apiKeys.scope.tasks.write.desc": "Deine persönlichen Aufgaben hinzufügen und abschließen",
+  "settings.apiKeys.scope.notifications.read": "Benachrichtigungen lesen",
+  "settings.apiKeys.scope.notifications.read.desc": "Deine Benachrichtigungen lesen",
+  "settings.apiKeys.scope.notifications.write": "Benachrichtigungen aktualisieren",
+  "settings.apiKeys.scope.notifications.write.desc": "Deine Benachrichtigungen als gelesen markieren"
 }

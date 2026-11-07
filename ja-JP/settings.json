@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "公式",
   "settings.integrations.type.community": "コミュニティ",
   "settings.apiKeys.scope.companion.read": "デスクトップアシスタントの情報を読む",
-  "settings.apiKeys.scope.companion.read.desc": "個人タスク、リマインダーの状態、最近の執筆と通知を読み取る",
-  "settings.apiKeys.scope.companion.write": "デスクトップアシスタントを更新する",
-  "settings.apiKeys.scope.companion.write.desc": "個人タスクの追加と完了、通知の既読への変更",
-  "settings.integrations.omarchy.summary": "Omarchyで使える執筆パートナー。"
+  "settings.apiKeys.scope.companion.read.desc": "日記リマインダーの状態と最近の執筆活動を読み取ります",
+  "settings.integrations.omarchy.summary": "Omarchyで使える執筆パートナー。",
+  "settings.apiKeys.scope.tasks.read": "タスクの読み取り",
+  "settings.apiKeys.scope.tasks.read.desc": "個人タスクを読み取ります",
+  "settings.apiKeys.scope.tasks.write": "タスクの更新",
+  "settings.apiKeys.scope.tasks.write.desc": "個人タスクを追加・完了します",
+  "settings.apiKeys.scope.notifications.read": "通知の読み取り",
+  "settings.apiKeys.scope.notifications.read.desc": "あなたの通知を読み取ります",
+  "settings.apiKeys.scope.notifications.write": "通知の更新",
+  "settings.apiKeys.scope.notifications.write.desc": "通知を既読にします"
 }

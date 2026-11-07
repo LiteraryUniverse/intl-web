@@ -398,8 +398,14 @@
   "settings.integrations.type.official": "Oficiální",
   "settings.integrations.type.community": "Komunitně",
   "settings.apiKeys.scope.companion.read": "Číst data pomocníka pro plochu",
-  "settings.apiKeys.scope.companion.read.desc": "Číst vaše osobní úkoly, stav připomenutí, nedávnou tvorbu a oznámení",
-  "settings.apiKeys.scope.companion.write": "Upravovat data pomocníka pro plochu",
-  "settings.apiKeys.scope.companion.write.desc": "Přidávat a dokončovat osobní úkoly a označovat oznámení jako přečtená",
-  "settings.integrations.omarchy.summary": "Váš pomocník pro psaní v Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Číst stav připomenutí deníku a vaši nedávnou tvorbu",
+  "settings.integrations.omarchy.summary": "Váš pomocník pro psaní v Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Číst úkoly",
+  "settings.apiKeys.scope.tasks.read.desc": "Číst vaše osobní úkoly",
+  "settings.apiKeys.scope.tasks.write": "Upravovat úkoly",
+  "settings.apiKeys.scope.tasks.write.desc": "Přidávat a dokončovat vaše osobní úkoly",
+  "settings.apiKeys.scope.notifications.read": "Číst oznámení",
+  "settings.apiKeys.scope.notifications.read.desc": "Číst vaše oznámení",
+  "settings.apiKeys.scope.notifications.write": "Upravovat oznámení",
+  "settings.apiKeys.scope.notifications.write.desc": "Označovat vaše oznámení jako přečtená"
 }
