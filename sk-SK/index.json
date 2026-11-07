@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Nastavenia súborov cookie",
   "universe.cover.alt": "Obálka sveta {universe}.",
   "common.delete": "Odstrániť",
+  "scratchpad.changedElsewhere": "Tento poznámkový blok bol zmenený inde. Skopírujte svoje úpravy a pred uložením ho znova otvorte.",
   "courses.courses": "Kurzy",
   "courses.overview": "Prehľad kurzov",
   "courses.public.title": "Preskúmajte kurzy",

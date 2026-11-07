@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Cookie-Einstellungen",
   "universe.cover.alt": "Titelbild für das Universum {universe}.",
   "common.delete": "Löschen",
+  "scratchpad.changedElsewhere": "Dieser Notizblock wurde an anderer Stelle geändert. Kopiere deine Änderungen und öffne ihn vor dem Speichern erneut.",
   "courses.courses": "Kurse",
   "courses.overview": "Kursübersicht",
   "courses.public.title": "Kurse erkunden",

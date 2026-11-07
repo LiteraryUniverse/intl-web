@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Meget svær",
   "common.cookiePreferences": "Cookieindstillinger",
   "universe.cover.alt": "Forsidebillede for universet {universe}.",
-  "common.delete": "Sletning"
+  "common.delete": "Sletning",
+  "scratchpad.changedElsewhere": "Denne notesblok er ændret et andet sted. Kopiér dine ændringer, og åbn den igen, før du gemmer."
 }

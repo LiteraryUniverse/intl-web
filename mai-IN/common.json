@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Very difficult",
   "common.cookiePreferences": "कुकी प्राथमिकता",
   "universe.cover.alt": "{universe} ब्रह्मांडक आवरण चित्र।",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "ई नोटपैड दोसर ठाम बदलल गेल अछि। अपन बदलाव कॉपी करू, तकर बाद सहेजबासँ पहिने एकरा फेर खोलू।"
 }

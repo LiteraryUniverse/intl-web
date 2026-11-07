@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Tre malfacila",
   "common.cookiePreferences": "Kuketaj preferoj",
   "universe.cover.alt": "Kovrilbildo de la universo {universe}.",
-  "common.delete": "Forigi"
+  "common.delete": "Forigi",
+  "scratchpad.changedElsewhere": "Ĉi tiu notbloko estis ŝanĝita aliloke. Kopiu viajn redaktojn, poste remalfermu ĝin antaŭ ol konservi."
 }

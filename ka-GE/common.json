@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "ძალიან რთული",
   "common.cookiePreferences": "ქუქი-ფაილების პარამეტრები",
   "universe.cover.alt": "სამყაროს {universe} ყდის სურათი.",
-  "common.delete": "წაშლა"
+  "common.delete": "წაშლა",
+  "scratchpad.changedElsewhere": "ეს ბლოკნოტი სხვაგან შეიცვალა. დააკოპირეთ თქვენი ცვლილებები, შემდეგ შენახვამდე ხელახლა გახსენით."
 }

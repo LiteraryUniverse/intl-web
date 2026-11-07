@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Налаштування файлів cookie",
   "universe.cover.alt": "Обкладинка всесвіту {universe}.",
   "common.delete": "Видалити",
+  "scratchpad.changedElsewhere": "Цей нотатник було змінено в іншому місці. Скопіюйте свої правки, а потім відкрийте його знову перед збереженням.",
   "courses.courses": "Курси",
   "courses.overview": "Огляд курсів",
   "courses.public.title": "Ознайомитися з курсами",

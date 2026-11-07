@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Preferenze dei cookie",
   "universe.cover.alt": "Immagine di copertina dell’universo {universe}.",
   "common.delete": "Cancellare",
+  "scratchpad.changedElsewhere": "Questo blocco note è stato modificato altrove. Copia le tue modifiche, poi riaprilo prima di salvare.",
   "courses.courses": "Corsi",
   "courses.overview": "Panoramica dei corsi",
   "courses.public.title": "Esplora i corsi",

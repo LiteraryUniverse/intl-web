@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Cookie preferences",
   "universe.cover.alt": "Universe cover image for {universe}.",
   "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "This scratchpad changed elsewhere. Copy your edits, then reopen it before saving.",
   "courses.courses": "Courses",
   "courses.overview": "Courses overview",
   "courses.public.title": "Explore Courses",

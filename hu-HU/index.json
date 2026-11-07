@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Sütibeállítások",
   "universe.cover.alt": "A(z) {universe} univerzum borítóképe.",
   "common.delete": "Törlés",
+  "scratchpad.changedElsewhere": "Ez a jegyzettömb máshol megváltozott. Másold ki a módosításaidat, majd mentés előtt nyisd meg újra.",
   "courses.courses": "Tanfolyamok",
   "courses.overview": "Kurzusok áttekintése",
   "courses.public.title": "Tanfolyamok felfedezése",

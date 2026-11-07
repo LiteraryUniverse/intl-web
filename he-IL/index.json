@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "העדפות עוגיות",
   "universe.cover.alt": "תמונת כריכה ליקום {universe}.",
   "common.delete": "מחיקה",
+  "scratchpad.changedElsewhere": "פנקס זה השתנה במקום אחר. יש להעתיק את העריכות ולפתוח אותו מחדש לפני השמירה.",
   "courses.courses": "קורסים",
   "courses.overview": "סקירת הקורסים",
   "courses.public.title": "גלו קורסים",

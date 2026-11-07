@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Very difficult",
   "common.cookiePreferences": "Roghanna fianán",
   "universe.cover.alt": "Íomhá chlúdaigh don chruinne {universe}.",
-  "common.delete": "Scrios"
+  "common.delete": "Scrios",
+  "scratchpad.changedElsewhere": "Athraíodh an ceap nótaí seo in áit eile. Cóipeáil do chuid athruithe, ansin oscail arís é sula sábhálann tú."
 }

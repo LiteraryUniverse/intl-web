@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Väga raske",
   "common.cookiePreferences": "Küpsiste eelistused",
   "universe.cover.alt": "Universumi {universe} kaanepilt.",
-  "common.delete": "Kustuta"
+  "common.delete": "Kustuta",
+  "scratchpad.changedElsewhere": "Seda märkmikku on mujal muudetud. Kopeeri oma muudatused ja ava see enne salvestamist uuesti."
 }

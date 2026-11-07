@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "చాలా కఠినం",
   "common.cookiePreferences": "కుకీ ప్రాధాన్యతలు",
   "universe.cover.alt": "{universe} విశ్వం ముఖచిత్రం.",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "ఈ నోట్‌ప్యాడ్ వేరే చోట మార్చబడింది. మీ మార్పులను కాపీ చేసి, సేవ్ చేసే ముందు దీన్ని మళ్లీ తెరవండి."
 }

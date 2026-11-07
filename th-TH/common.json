@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "ยากมาก",
   "common.cookiePreferences": "การตั้งค่าคุกกี้",
   "universe.cover.alt": "ภาพปกของจักรวาล {universe}",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "สมุดบันทึกนี้ถูกแก้ไขจากที่อื่น คัดลอกการแก้ไขของคุณ แล้วเปิดใหม่ก่อนบันทึก"
 }

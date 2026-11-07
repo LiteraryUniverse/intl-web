@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Cookie 偏好設定",
   "universe.cover.alt": "宇宙「{universe}」的封面圖片。",
   "common.delete": "刪除",
+  "scratchpad.changedElsewhere": "此記事本已在其他地方變更。請複製你的編輯內容，然後重新開啟再儲存。",
   "courses.courses": "課程",
   "courses.overview": "課程概覽",
   "courses.public.title": "探索課程",

@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Очень высокая",
   "common.cookiePreferences": "Настройки файлов cookie",
   "universe.cover.alt": "Обложка вселенной {universe}.",
-  "common.delete": "Удалить"
+  "common.delete": "Удалить",
+  "scratchpad.changedElsewhere": "Этот блокнот был изменён в другом месте. Скопируйте свои правки, затем откройте его заново перед сохранением."
 }

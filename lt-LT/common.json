@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Labai didelis",
   "common.cookiePreferences": "Slapukų nuostatos",
   "universe.cover.alt": "Visatos {universe} viršelio vaizdas.",
-  "common.delete": "Ištrinti"
+  "common.delete": "Ištrinti",
+  "scratchpad.changedElsewhere": "Ši užrašinė buvo pakeista kitur. Nukopijuokite savo pakeitimus ir prieš išsaugodami atidarykite ją iš naujo."
 }

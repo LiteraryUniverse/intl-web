@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Rất khó",
   "common.cookiePreferences": "Tùy chọn cookie",
   "universe.cover.alt": "Ảnh bìa của vũ trụ {universe}.",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "Sổ ghi chú này đã được thay đổi ở nơi khác. Sao chép các chỉnh sửa của bạn, rồi mở lại trước khi lưu."
 }

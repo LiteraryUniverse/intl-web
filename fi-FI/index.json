@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Evästeasetukset",
   "universe.cover.alt": "Universumin {universe} kansikuva.",
   "common.delete": "Poista",
+  "scratchpad.changedElsewhere": "Tätä muistilehtiötä on muutettu muualla. Kopioi muutoksesi ja avaa se uudelleen ennen tallentamista.",
   "courses.courses": "Kurssit",
   "courses.overview": "Kurssien yleiskatsaus",
   "courses.public.title": "Tutustu kursseihin",

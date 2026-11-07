@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Very difficult",
   "common.cookiePreferences": "Cookie preferences",
   "universe.cover.alt": "Universe cover image for {universe}.",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "This scratchpad changed elsewhere. Copy your edits, then reopen it before saving."
 }

@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "صعب جدًا",
   "common.cookiePreferences": "إعدادات ملفات تعريف الارتباط",
   "universe.cover.alt": "صورة غلاف العالم {universe}.",
-  "common.delete": "حذف"
+  "common.delete": "حذف",
+  "scratchpad.changedElsewhere": "تم تغيير دفتر الملاحظات هذا في مكان آخر. انسخ تعديلاتك، ثم أعد فتحه قبل الحفظ."
 }

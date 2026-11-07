@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Svært vanskelig",
   "common.cookiePreferences": "Innstillinger for informasjonskapsler",
   "universe.cover.alt": "Omslagsbilde for universet {universe}.",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "Denne notatblokken er endret et annet sted. Kopier endringene dine, og åpne den igjen før du lagrer."
 }

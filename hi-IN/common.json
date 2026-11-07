@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "बहुत कठिन",
   "common.cookiePreferences": "कुकी प्राथमिकताएँ",
   "universe.cover.alt": "ब्रह्मांड {universe} की आवरण छवि।",
-  "common.delete": "हटाएँ"
+  "common.delete": "हटाएँ",
+  "scratchpad.changedElsewhere": "यह नोटपैड कहीं और बदला गया है। अपने बदलाव कॉपी करें, फिर सहेजने से पहले इसे दोबारा खोलें।"
 }

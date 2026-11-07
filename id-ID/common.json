@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Sangat sulit",
   "common.cookiePreferences": "Preferensi cookie",
   "universe.cover.alt": "Gambar sampul semesta {universe}.",
-  "common.delete": "Menghapus"
+  "common.delete": "Menghapus",
+  "scratchpad.changedElsewhere": "Catatan ini telah diubah di tempat lain. Salin perubahan Anda, lalu buka kembali sebelum menyimpan."
 }

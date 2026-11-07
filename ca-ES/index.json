@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Preferències de galetes",
   "universe.cover.alt": "Imatge de portada de l’univers {universe}.",
   "common.delete": "Suprimir",
+  "scratchpad.changedElsewhere": "Aquest bloc de notes ha canviat en un altre lloc. Copia els teus canvis i torna a obrir-lo abans de desar.",
   "courses.courses": "Courses",
   "courses.overview": "Informació general dels cursos",
   "courses.public.title": "Explora els cursos",

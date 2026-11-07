@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Cookieindstillinger",
   "universe.cover.alt": "Forsidebillede for universet {universe}.",
   "common.delete": "Sletning",
+  "scratchpad.changedElsewhere": "Denne notesblok er ændret et andet sted. Kopiér dine ændringer, og åbn den igen, før du gemmer.",
   "courses.courses": "Kurser",
   "courses.overview": "Oversigt over kurser",
   "courses.public.title": "Udforsk kurser",

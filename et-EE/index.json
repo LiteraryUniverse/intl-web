@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Küpsiste eelistused",
   "universe.cover.alt": "Universumi {universe} kaanepilt.",
   "common.delete": "Kustuta",
+  "scratchpad.changedElsewhere": "Seda märkmikku on mujal muudetud. Kopeeri oma muudatused ja ava see enne salvestamist uuesti.",
   "courses.courses": "Kursused",
   "courses.overview": "Kursuste ülevaade",
   "courses.public.title": "Tutvu kursustega",

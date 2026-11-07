@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Bardzo trudny",
   "common.cookiePreferences": "Preferencje plików cookie",
   "universe.cover.alt": "Okładka uniwersum {universe}.",
-  "common.delete": "Usunąć"
+  "common.delete": "Usunąć",
+  "scratchpad.changedElsewhere": "Ten notatnik został zmieniony gdzie indziej. Skopiuj swoje zmiany i otwórz go ponownie przed zapisaniem."
 }

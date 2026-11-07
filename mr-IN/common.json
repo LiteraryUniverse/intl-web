@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "खूप कठीण",
   "common.cookiePreferences": "कुकी प्राधान्ये",
   "universe.cover.alt": "{universe} विश्वाचे मुखपृष्ठ चित्र.",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "हा नोटपॅड इतरत्र बदलला आहे. तुमचे बदल कॉपी करा, नंतर जतन करण्यापूर्वी तो पुन्हा उघडा."
 }

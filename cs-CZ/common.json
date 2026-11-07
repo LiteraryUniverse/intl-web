@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Velmi těžká",
   "common.cookiePreferences": "Nastavení souborů cookie",
   "universe.cover.alt": "Obálka světa {universe}.",
-  "common.delete": "Odstranit"
+  "common.delete": "Odstranit",
+  "scratchpad.changedElsewhere": "Tento poznámkový blok byl změněn jinde. Zkopírujte své úpravy a před uložením jej znovu otevřete."
 }

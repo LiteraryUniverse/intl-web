@@ -1799,6 +1799,7 @@
   "common.cookiePreferences": "Preferencje plików cookie",
   "universe.cover.alt": "Okładka uniwersum {universe}.",
   "common.delete": "Usunąć",
+  "scratchpad.changedElsewhere": "Ten notatnik został zmieniony gdzie indziej. Skopiuj swoje zmiany i otwórz go ponownie przed zapisaniem.",
   "courses.courses": "Kursy",
   "courses.overview": "Przegląd kursów",
   "courses.public.title": "Poznaj kursy",

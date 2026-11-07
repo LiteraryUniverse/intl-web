@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Muy difícil",
   "common.cookiePreferences": "Preferencias de cookies",
   "universe.cover.alt": "Imagen de portada del universo {universe}.",
-  "common.delete": "Borrar"
+  "common.delete": "Borrar",
+  "scratchpad.changedElsewhere": "Este bloc de notas ha cambiado en otro lugar. Copia tus cambios y vuelve a abrirlo antes de guardar."
 }
