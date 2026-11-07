@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "La aŭtoroj de ĉi tiuj blogoj povas skribi al via kontrolita retpoŝta adreso. Forlasu liston ĉi tie kaj la aŭtoro ne plu ricevos vian adreson.",
   "settings.mailingLists.leaveFailed": "Vi ne povis esti forigita de la listo. Provu denove.",
   "settings.mailingLists.since": "Aliĝis {date}",
-  "settings.mailingLists.title": "Blogaj dissendolistoj"
+  "settings.mailingLists.title": "Blogaj dissendolistoj",
+  "notification.appReview.listed": "{name} nun aperas en Integriĝoj kiel komunuma aplikaĵo.",
+  "notification.appReview.rejected": "{name} ne aperas en Integriĝoj. La recenzanto skribis: {note}",
+  "notification.appReview.subject": "Recenzo de via aplikaĵo {name}",
+  "notificationExtra.appReview.open": "Malfermi vian aplikaĵon",
+  "notifications.workflow.appReview": "Recenzoj de aplikaĵoj"
 }

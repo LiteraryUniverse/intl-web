@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "{name} ឥឡូវ​ត្រូវ​បាន​ដាក់​ក្នុង Integrations ជា​កម្មវិធី​សហគមន៍។",
+  "notification.appReview.rejected": "{name} មិន​ត្រូវ​បាន​ដាក់​ក្នុង Integrations ទេ។ អ្នក​ពិនិត្យ​បាន​សរសេរ៖ {note}",
+  "notification.appReview.subject": "ការ​ពិនិត្យ​កម្មវិធី​របស់​អ្នក {name}",
+  "notificationExtra.appReview.open": "បើក​កម្មវិធី​របស់​អ្នក",
+  "notifications.workflow.appReview": "ការ​ពិនិត្យ​កម្មវិធី"
 }

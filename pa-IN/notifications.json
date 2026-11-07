@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "ਇਨ੍ਹਾਂ ਬਲੌਗਾਂ ਦੇ ਲੇਖਕ ਤੁਹਾਡੇ ਪੁਸ਼ਟੀ ਕੀਤੇ ਈਮੇਲ ਪਤੇ ਨੂੰ ਲਿਖ ਸਕਦੇ ਹਨ। ਇੱਥੇ ਸੂਚੀ ਛੱਡੋ ਅਤੇ ਲੇਖਕ ਨੂੰ ਤੁਹਾਡਾ ਪਤਾ ਮਿਲਣਾ ਬੰਦ ਹੋ ਜਾਵੇਗਾ।",
   "settings.mailingLists.leaveFailed": "ਤੁਹਾਨੂੰ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
   "settings.mailingLists.since": "{date} ਨੂੰ ਜੁੜੇ",
-  "settings.mailingLists.title": "ਬਲੌਗ ਮੇਲਿੰਗ ਸੂਚੀਆਂ"
+  "settings.mailingLists.title": "ਬਲੌਗ ਮੇਲਿੰਗ ਸੂਚੀਆਂ",
+  "notification.appReview.listed": "{name} ਹੁਣ ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਵਿੱਚ ਕਮਿਊਨਿਟੀ ਐਪ ਵਜੋਂ ਸੂਚੀਬੱਧ ਹੈ।",
+  "notification.appReview.rejected": "{name} ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਵਿੱਚ ਸੂਚੀਬੱਧ ਨਹੀਂ ਹੈ। ਸਮੀਖਿਅਕ ਨੇ ਲਿਖਿਆ: {note}",
+  "notification.appReview.subject": "ਤੁਹਾਡੀ ਐਪ {name} ਦੀ ਸਮੀਖਿਆ",
+  "notificationExtra.appReview.open": "ਆਪਣੀ ਐਪ ਖੋਲ੍ਹੋ",
+  "notifications.workflow.appReview": "ਐਪ ਸਮੀਖਿਆਵਾਂ"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Forfatterne av disse bloggene kan skrive til den verifiserte e-postadressen din. Forlater du en liste her, får ikke forfatteren adressen din lenger.",
   "settings.mailingLists.leaveFailed": "Du kunne ikke fjernes fra listen. Prøv igjen.",
   "settings.mailingLists.since": "Ble med {date}",
-  "settings.mailingLists.title": "Blogg-e-postlister"
+  "settings.mailingLists.title": "Blogg-e-postlister",
+  "notification.appReview.listed": "{name} er nå oppført under Integrasjoner som en fellesskapsapp.",
+  "notification.appReview.rejected": "{name} er ikke oppført under Integrasjoner. Vurderingen sier: {note}",
+  "notification.appReview.subject": "Vurdering av appen din {name}",
+  "notificationExtra.appReview.open": "Åpne appen din",
+  "notifications.workflow.appReview": "Appvurderinger"
 }

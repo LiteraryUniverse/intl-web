@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Penulis blog ini dapat menulis ke alamat email Anda yang terverifikasi. Keluar dari milis di sini dan penulis tidak lagi mendapatkan alamat Anda.",
   "settings.mailingLists.leaveFailed": "Anda tidak dapat dikeluarkan dari milis. Coba lagi.",
   "settings.mailingLists.since": "Bergabung {date}",
-  "settings.mailingLists.title": "Milis blog"
+  "settings.mailingLists.title": "Milis blog",
+  "notification.appReview.listed": "{name} kini terdaftar di Integrasi sebagai aplikasi komunitas.",
+  "notification.appReview.rejected": "{name} tidak terdaftar di Integrasi. Peninjau menulis: {note}",
+  "notification.appReview.subject": "Tinjauan aplikasi Anda {name}",
+  "notificationExtra.appReview.open": "Buka aplikasi Anda",
+  "notifications.workflow.appReview": "Tinjauan aplikasi"
 }

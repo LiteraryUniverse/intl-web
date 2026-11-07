@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "이 블로그의 작성자는 인증된 이메일 주소로 메일을 보낼 수 있습니다. 여기에서 리스트를 탈퇴하면 작성자는 더 이상 내 주소를 받지 않습니다.",
   "settings.mailingLists.leaveFailed": "리스트에서 탈퇴하지 못했습니다. 다시 시도해 주세요.",
   "settings.mailingLists.since": "{date} 참여",
-  "settings.mailingLists.title": "블로그 메일링 리스트"
+  "settings.mailingLists.title": "블로그 메일링 리스트",
+  "notification.appReview.listed": "{name}이(가) 이제 연동에 커뮤니티 앱으로 등록되었습니다.",
+  "notification.appReview.rejected": "{name}은(는) 연동에 등록되지 않았습니다. 검토자 의견: {note}",
+  "notification.appReview.subject": "앱 {name} 검토 결과",
+  "notificationExtra.appReview.open": "앱 열기",
+  "notifications.workflow.appReview": "앱 검토"
 }

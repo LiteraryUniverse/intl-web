@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Tác giả của các blog này có thể viết thư đến email đã xác minh của bạn. Rời danh sách tại đây và tác giả sẽ không còn nhận được địa chỉ của bạn.",
   "settings.mailingLists.leaveFailed": "Không thể xóa bạn khỏi danh sách. Hãy thử lại.",
   "settings.mailingLists.since": "Đã tham gia {date}",
-  "settings.mailingLists.title": "Danh sách gửi thư của blog"
+  "settings.mailingLists.title": "Danh sách gửi thư của blog",
+  "notification.appReview.listed": "{name} hiện đã có trong Tích hợp dưới dạng ứng dụng cộng đồng.",
+  "notification.appReview.rejected": "{name} không có trong Tích hợp. Người duyệt ghi: {note}",
+  "notification.appReview.subject": "Kết quả duyệt ứng dụng {name} của bạn",
+  "notificationExtra.appReview.open": "Mở ứng dụng của bạn",
+  "notifications.workflow.appReview": "Duyệt ứng dụng"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Bu blogların yazarları doğrulanmış e-posta adresinize yazabilir. Buradan bir listeden ayrılırsanız yazar adresinizi artık almaz.",
   "settings.mailingLists.leaveFailed": "Listeden çıkarılamadınız. Tekrar deneyin.",
   "settings.mailingLists.since": "{date} tarihinde katıldınız",
-  "settings.mailingLists.title": "Blog e-posta listeleri"
+  "settings.mailingLists.title": "Blog e-posta listeleri",
+  "notification.appReview.listed": "{name} artık Entegrasyonlar'da topluluk uygulaması olarak listeleniyor.",
+  "notification.appReview.rejected": "{name} Entegrasyonlar'da listelenmiyor. İnceleyicinin notu: {note}",
+  "notification.appReview.subject": "{name} uygulamanızın incelemesi",
+  "notificationExtra.appReview.open": "Uygulamanızı açın",
+  "notifications.workflow.appReview": "Uygulama incelemeleri"
 }

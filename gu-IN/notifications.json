@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "આ બ્લોગના લેખકો તમારા ચકાસેલા ઇમેઇલ સરનામે લખી શકે છે. અહીં સૂચિ છોડો અને લેખકને તમારું સરનામું મળતું બંધ થઈ જશે.",
   "settings.mailingLists.leaveFailed": "તમને સૂચિમાંથી દૂર કરી શકાયા નથી. ફરી પ્રયાસ કરો.",
   "settings.mailingLists.since": "{date}ના રોજ જોડાયા",
-  "settings.mailingLists.title": "બ્લોગ મેઇલિંગ લિસ્ટ"
+  "settings.mailingLists.title": "બ્લોગ મેઇલિંગ લિસ્ટ",
+  "notification.appReview.listed": "{name} હવે એકીકરણોમાં સમુદાય એપ તરીકે સૂચિબદ્ધ છે.",
+  "notification.appReview.rejected": "{name} એકીકરણોમાં સૂચિબદ્ધ નથી. સમીક્ષકે લખ્યું: {note}",
+  "notification.appReview.subject": "તમારી એપ {name}ની સમીક્ષા",
+  "notificationExtra.appReview.open": "તમારી એપ ખોલો",
+  "notifications.workflow.appReview": "એપ સમીક્ષાઓ"
 }

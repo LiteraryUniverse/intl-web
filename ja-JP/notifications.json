@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "これらのブログの作者は、確認済みのメールアドレス宛にメールを送れます。ここでリストから退会すると、作者はあなたのアドレスを取得できなくなります。",
   "settings.mailingLists.leaveFailed": "リストから退会できませんでした。もう一度お試しください。",
   "settings.mailingLists.since": "{date}に参加",
-  "settings.mailingLists.title": "ブログのメーリングリスト"
+  "settings.mailingLists.title": "ブログのメーリングリスト",
+  "notification.appReview.listed": "{name}がコミュニティアプリとして連携に掲載されました。",
+  "notification.appReview.rejected": "{name}は連携に掲載されていません。審査担当者のコメント：{note}",
+  "notification.appReview.subject": "アプリ「{name}」の審査結果",
+  "notificationExtra.appReview.open": "アプリを開く",
+  "notifications.workflow.appReview": "アプリの審査"
 }

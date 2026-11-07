@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Nende ajaveebide autorid saavad kirjutada teie kinnitatud e-posti aadressile. Lahkute siin loendist ja autor ei saa enam teie aadressi.",
   "settings.mailingLists.leaveFailed": "Teid ei saanud loendist eemaldada. Proovige uuesti.",
   "settings.mailingLists.since": "Liitusite {date}",
-  "settings.mailingLists.title": "Ajaveebide postiloendid"
+  "settings.mailingLists.title": "Ajaveebide postiloendid",
+  "notification.appReview.listed": "{name} on nüüd Integratsioonides kogukonna rakendusena nähtav.",
+  "notification.appReview.rejected": "{name} ei ole Integratsioonides nähtav. Ülevaataja kirjutas: {note}",
+  "notification.appReview.subject": "Sinu rakenduse {name} ülevaatus",
+  "notificationExtra.appReview.open": "Ava oma rakendus",
+  "notifications.workflow.appReview": "Rakenduste ülevaatused"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "{name} এতিয়া Integrations-ত সম্প্ৰদায়ৰ এপ হিচাপে তালিকাভুক্ত।",
+  "notification.appReview.rejected": "{name} Integrations-ত তালিকাভুক্ত নহয়। পৰ্যালোচকে লিখিছে: {note}",
+  "notification.appReview.subject": "আপোনাৰ এপ {name}ৰ পৰ্যালোচনা",
+  "notificationExtra.appReview.open": "আপোনাৰ এপ খোলক",
+  "notifications.workflow.appReview": "এপ পৰ্যালোচনা"
 }

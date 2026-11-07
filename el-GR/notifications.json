@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Οι συγγραφείς αυτών των ιστολογίων μπορούν να γράψουν στην επαληθευμένη διεύθυνση email σας. Αποχωρήστε από μια λίστα εδώ και ο συγγραφέας δεν θα λαμβάνει πια τη διεύθυνσή σας.",
   "settings.mailingLists.leaveFailed": "Δεν ήταν δυνατή η αφαίρεσή σας από τη λίστα. Δοκιμάστε ξανά.",
   "settings.mailingLists.since": "Εγγραφή στις {date}",
-  "settings.mailingLists.title": "Λίστες αλληλογραφίας ιστολογίων"
+  "settings.mailingLists.title": "Λίστες αλληλογραφίας ιστολογίων",
+  "notification.appReview.listed": "Η εφαρμογή {name} εμφανίζεται πλέον στις Ενσωματώσεις ως εφαρμογή της κοινότητας.",
+  "notification.appReview.rejected": "Η εφαρμογή {name} δεν εμφανίζεται στις Ενσωματώσεις. Ο ελεγκτής έγραψε: {note}",
+  "notification.appReview.subject": "Έλεγχος της εφαρμογής σας {name}",
+  "notificationExtra.appReview.open": "Άνοιγμα της εφαρμογής σας",
+  "notifications.workflow.appReview": "Έλεγχοι εφαρμογών"
 }

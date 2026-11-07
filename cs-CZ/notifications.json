@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Autoři těchto blogů mohou psát na vaši ověřenou e-mailovou adresu. Opustíte-li seznam tady, autor už vaši adresu mít nebude.",
   "settings.mailingLists.leaveFailed": "Ze seznamu vás nešlo odstranit. Zkuste to znovu.",
   "settings.mailingLists.since": "Přihlášeno {date}",
-  "settings.mailingLists.title": "Seznamy odběratelů blogů"
+  "settings.mailingLists.title": "Seznamy odběratelů blogů",
+  "notification.appReview.listed": "{name} je teď v Integracích mezi komunitními aplikacemi.",
+  "notification.appReview.rejected": "{name} v Integracích není. Recenzent napsal: {note}",
+  "notification.appReview.subject": "Posouzení vaší aplikace {name}",
+  "notificationExtra.appReview.open": "Otevřít aplikaci",
+  "notifications.workflow.appReview": "Posouzení aplikací"
 }

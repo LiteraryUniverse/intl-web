@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "這些部落格的作者可以寄信到您已驗證的電子郵件地址。在這裡退出名單後，作者就不再取得您的地址。",
   "settings.mailingLists.leaveFailed": "無法將您從名單中移除。請再試一次。",
   "settings.mailingLists.since": "加入於 {date}",
-  "settings.mailingLists.title": "部落格郵寄名單"
+  "settings.mailingLists.title": "部落格郵寄名單",
+  "notification.appReview.listed": "{name} 已列入「整合」中的社群應用程式。",
+  "notification.appReview.rejected": "{name} 未列入「整合」。審核者留言：{note}",
+  "notification.appReview.subject": "你的應用程式 {name} 的審核結果",
+  "notificationExtra.appReview.open": "開啟你的應用程式",
+  "notifications.workflow.appReview": "應用程式審核"
 }

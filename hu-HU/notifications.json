@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Ezeknek a blogoknak a szerzői írhatnak az ellenőrzött e-mail-címére. Ha itt elhagy egy listát, a szerző már nem kapja meg a címét.",
   "settings.mailingLists.leaveFailed": "Nem sikerült eltávolítani a listáról. Próbálja újra.",
   "settings.mailingLists.since": "Csatlakozott: {date}",
-  "settings.mailingLists.title": "Blog-levelezőlisták"
+  "settings.mailingLists.title": "Blog-levelezőlisták",
+  "notification.appReview.listed": "A(z) {name} mostantól közösségi alkalmazásként szerepel az Integrációk között.",
+  "notification.appReview.rejected": "A(z) {name} nem szerepel az Integrációk között. A bíráló megjegyzése: {note}",
+  "notification.appReview.subject": "A(z) {name} alkalmazásod bírálata",
+  "notificationExtra.appReview.open": "Alkalmazásod megnyitása",
+  "notifications.workflow.appReview": "Alkalmazásbírálatok"
 }

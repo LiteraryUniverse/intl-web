@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Els autors d'aquests blogs poden escriure a la teva adreça electrònica verificada. Surt d'una llista aquí i l'autor deixarà de tenir la teva adreça.",
   "settings.mailingLists.leaveFailed": "No t'hem pogut treure de la llista. Torna-ho a provar.",
   "settings.mailingLists.since": "T'hi vas apuntar el {date}",
-  "settings.mailingLists.title": "Llistes de correu de blogs"
+  "settings.mailingLists.title": "Llistes de correu de blogs",
+  "notification.appReview.listed": "{name} ja apareix a Integracions com a aplicació de la comunitat.",
+  "notification.appReview.rejected": "{name} no apareix a Integracions. El revisor ha escrit: {note}",
+  "notification.appReview.subject": "Revisió de la teva aplicació {name}",
+  "notificationExtra.appReview.open": "Obre la teva aplicació",
+  "notifications.workflow.appReview": "Revisions d'aplicacions"
 }

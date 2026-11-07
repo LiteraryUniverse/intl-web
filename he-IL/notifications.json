@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "הכותבים של הבלוגים האלה יכולים לכתוב לכתובת הדוא\"ל המאומתת שלכם. עזבו רשימה כאן והכותב/ת כבר לא יקבלו את הכתובת שלכם.",
   "settings.mailingLists.leaveFailed": "לא ניתן היה להסיר אתכם מהרשימה. נסו שוב.",
   "settings.mailingLists.since": "הצטרפתם ב-{date}",
-  "settings.mailingLists.title": "רשימות תפוצה של בלוגים"
+  "settings.mailingLists.title": "רשימות תפוצה של בלוגים",
+  "notification.appReview.listed": "{name} מופיעה עכשיו באינטגרציות כאפליקציה של הקהילה.",
+  "notification.appReview.rejected": "{name} לא מופיעה באינטגרציות. הבודק כתב: {note}",
+  "notification.appReview.subject": "בדיקת האפליקציה שלך {name}",
+  "notificationExtra.appReview.open": "פתיחת האפליקציה שלך",
+  "notifications.workflow.appReview": "בדיקות אפליקציות"
 }

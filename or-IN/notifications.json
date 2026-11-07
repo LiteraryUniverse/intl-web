@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "{name} ବର୍ତ୍ତମାନ Integrations ରେ ସମୁଦାୟ ଆପ୍ ଭାବେ ତାଲିକାଭୁକ୍ତ।",
+  "notification.appReview.rejected": "{name} Integrations ରେ ତାଲିକାଭୁକ୍ତ ନୁହେଁ। ସମୀକ୍ଷକ ଲେଖିଛନ୍ତି: {note}",
+  "notification.appReview.subject": "ଆପଣଙ୍କ ଆପ୍ {name}ର ସମୀକ୍ଷା",
+  "notificationExtra.appReview.open": "ଆପଣଙ୍କ ଆପ୍ ଖୋଲନ୍ତୁ",
+  "notifications.workflow.appReview": "ଆପ୍ ସମୀକ୍ଷା"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "يمكن لكتّاب هذه المدونات مراسلة بريدك الإلكتروني الموثّق. غادر قائمة هنا ولن يحصل الكاتب على عنوانك بعد ذلك.",
   "settings.mailingLists.leaveFailed": "تعذّرت إزالتك من القائمة. حاول مرة أخرى.",
   "settings.mailingLists.since": "انضممت في {date}",
-  "settings.mailingLists.title": "القوائم البريدية للمدونات"
+  "settings.mailingLists.title": "القوائم البريدية للمدونات",
+  "notification.appReview.listed": "أصبح {name} مدرجًا الآن في التكاملات كتطبيق من المجتمع.",
+  "notification.appReview.rejected": "{name} غير مدرج في التكاملات. كتب المراجع: {note}",
+  "notification.appReview.subject": "مراجعة تطبيقك {name}",
+  "notificationExtra.appReview.open": "افتح تطبيقك",
+  "notifications.workflow.appReview": "مراجعات التطبيقات"
 }

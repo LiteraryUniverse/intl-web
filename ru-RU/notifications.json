@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Авторы этих блогов могут писать на ваш подтверждённый адрес. Покиньте список здесь, и автор больше не будет получать ваш адрес.",
   "settings.mailingLists.leaveFailed": "Не удалось удалить вас из списка. Попробуйте ещё раз.",
   "settings.mailingLists.since": "Подписка с {date}",
-  "settings.mailingLists.title": "Списки рассылки блогов"
+  "settings.mailingLists.title": "Списки рассылки блогов",
+  "notification.appReview.listed": "{name} теперь есть в разделе «Интеграции» среди приложений сообщества.",
+  "notification.appReview.rejected": "{name} нет в разделе «Интеграции». Комментарий проверяющего: {note}",
+  "notification.appReview.subject": "Проверка вашего приложения {name}",
+  "notificationExtra.appReview.open": "Открыть приложение",
+  "notifications.workflow.appReview": "Проверка приложений"
 }

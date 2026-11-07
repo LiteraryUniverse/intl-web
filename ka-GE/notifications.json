@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "ამ ბლოგების ავტორებს შეუძლიათ თქვენს დადასტურებულ ელფოსტაზე მოგწერონ. სიიდან აქ გასვლის შემდეგ ავტორს თქვენი მისამართი აღარ ექნება.",
   "settings.mailingLists.leaveFailed": "სიიდან ამოღება ვერ მოხერხდა. სცადეთ ხელახლა.",
   "settings.mailingLists.since": "შეუერთდით: {date}",
-  "settings.mailingLists.title": "ბლოგების საფოსტო სიები"
+  "settings.mailingLists.title": "ბლოგების საფოსტო სიები",
+  "notification.appReview.listed": "{name} ახლა ინტეგრაციებში საზოგადოების აპად არის განთავსებული.",
+  "notification.appReview.rejected": "{name} ინტეგრაციებში განთავსებული არ არის. განმხილველმა დაწერა: {note}",
+  "notification.appReview.subject": "თქვენი აპის {name} განხილვა",
+  "notificationExtra.appReview.open": "გახსენით თქვენი აპი",
+  "notifications.workflow.appReview": "აპების განხილვები"
 }

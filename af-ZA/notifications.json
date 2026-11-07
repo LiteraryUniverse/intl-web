@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Die skrywers van hierdie blogs kan vir jou geverifieerde e-posadres skryf. Verlaat 'n lys hier en die skrywer kry nie meer jou adres nie.",
   "settings.mailingLists.leaveFailed": "Jy kon nie van die lys verwyder word nie. Probeer weer.",
   "settings.mailingLists.since": "Aangesluit {date}",
-  "settings.mailingLists.title": "Blog-posserye"
+  "settings.mailingLists.title": "Blog-posserye",
+  "notification.appReview.listed": "{name} is nou in Integrasies gelys as 'n gemeenskapstoep.",
+  "notification.appReview.rejected": "{name} is nie in Integrasies gelys nie. Die beoordelaar het geskryf: {note}",
+  "notification.appReview.subject": "Beoordeling van jou toep {name}",
+  "notificationExtra.appReview.open": "Maak jou toep oop",
+  "notifications.workflow.appReview": "Toepbeoordelings"
 }

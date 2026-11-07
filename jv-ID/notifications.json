@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "{name} saiki kadhaptar ing Integrations minangka aplikasi komunitas.",
+  "notification.appReview.rejected": "{name} ora kadhaptar ing Integrations. Peninjau nulis: {note}",
+  "notification.appReview.subject": "Tinjauan aplikasi panjenengan {name}",
+  "notificationExtra.appReview.open": "Bukak aplikasi panjenengan",
+  "notifications.workflow.appReview": "Tinjauan aplikasi"
 }

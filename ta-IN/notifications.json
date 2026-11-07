@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "இந்த வலைப்பதிவுகளின் ஆசிரியர்கள் உங்கள் சரிபார்க்கப்பட்ட மின்னஞ்சல் முகவரிக்கு எழுதலாம். இங்கே பட்டியலிலிருந்து விலகினால் ஆசிரியருக்கு உங்கள் முகவரி இனி கிடைக்காது.",
   "settings.mailingLists.leaveFailed": "உங்களைப் பட்டியலிலிருந்து நீக்க முடியவில்லை. மீண்டும் முயலவும்.",
   "settings.mailingLists.since": "{date} அன்று இணைந்தீர்கள்",
-  "settings.mailingLists.title": "வலைப்பதிவு அஞ்சல் பட்டியல்கள்"
+  "settings.mailingLists.title": "வலைப்பதிவு அஞ்சல் பட்டியல்கள்",
+  "notification.appReview.listed": "{name} இப்போது ஒருங்கிணைப்புகளில் சமூகச் செயலியாகப் பட்டியலிடப்பட்டுள்ளது.",
+  "notification.appReview.rejected": "{name} ஒருங்கிணைப்புகளில் பட்டியலிடப்படவில்லை. மதிப்பாய்வாளர் எழுதியது: {note}",
+  "notification.appReview.subject": "உங்கள் செயலி {name} மதிப்பாய்வு",
+  "notificationExtra.appReview.open": "உங்கள் செயலியைத் திறக்கவும்",
+  "notifications.workflow.appReview": "செயலி மதிப்பாய்வுகள்"
 }

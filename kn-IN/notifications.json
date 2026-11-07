@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "{name} ಈಗ Integrations ನಲ್ಲಿ ಸಮುದಾಯ ಆ್ಯಪ್ ಆಗಿ ಪಟ್ಟಿಯಾಗಿದೆ.",
+  "notification.appReview.rejected": "{name} Integrations ನಲ್ಲಿ ಪಟ್ಟಿಯಾಗಿಲ್ಲ. ಪರಿಶೀಲಕರು ಬರೆದಿದ್ದಾರೆ: {note}",
+  "notification.appReview.subject": "ನಿಮ್ಮ ಆ್ಯಪ್ {name} ಪರಿಶೀಲನೆ",
+  "notificationExtra.appReview.open": "ನಿಮ್ಮ ಆ್ಯಪ್ ತೆರೆಯಿರಿ",
+  "notifications.workflow.appReview": "ಆ್ಯಪ್ ಪರಿಶೀಲನೆಗಳು"
 }

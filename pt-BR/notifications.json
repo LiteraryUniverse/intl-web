@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Os autores destes blogs podem escrever para o seu e-mail verificado. Saia de uma lista aqui e o autor deixa de receber seu endereço.",
   "settings.mailingLists.leaveFailed": "Não foi possível remover você da lista. Tente novamente.",
   "settings.mailingLists.since": "Entrou em {date}",
-  "settings.mailingLists.title": "Listas de e-mails de blogs"
+  "settings.mailingLists.title": "Listas de e-mails de blogs",
+  "notification.appReview.listed": "{name} agora aparece em Integrações como aplicativo da comunidade.",
+  "notification.appReview.rejected": "{name} não aparece em Integrações. O revisor escreveu: {note}",
+  "notification.appReview.subject": "Revisão do seu aplicativo {name}",
+  "notificationExtra.appReview.open": "Abrir seu aplicativo",
+  "notifications.workflow.appReview": "Revisões de aplicativos"
 }

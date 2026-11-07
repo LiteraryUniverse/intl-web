@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "या ब्लॉगचे लेखक तुमच्या सत्यापित ईमेल पत्त्यावर लिहू शकतात. येथे यादी सोडल्यास लेखकाला तुमचा पत्ता मिळत नाही.",
   "settings.mailingLists.leaveFailed": "तुम्हाला यादीतून काढता आले नाही. पुन्हा प्रयत्न करा.",
   "settings.mailingLists.since": "{date} रोजी सामील झाले",
-  "settings.mailingLists.title": "ब्लॉग मेलिंग लिस्ट"
+  "settings.mailingLists.title": "ब्लॉग मेलिंग लिस्ट",
+  "notification.appReview.listed": "{name} आता इंटिग्रेशनमध्ये समुदाय ॲप म्हणून सूचीबद्ध आहे.",
+  "notification.appReview.rejected": "{name} इंटिग्रेशनमध्ये सूचीबद्ध नाही. परीक्षकांनी लिहिले: {note}",
+  "notification.appReview.subject": "तुमच्या ॲप {name} चे परीक्षण",
+  "notificationExtra.appReview.open": "तुमचे ॲप उघडा",
+  "notifications.workflow.appReview": "ॲप परीक्षणे"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Penulis blog ini boleh menulis kepada alamat e-mel anda yang telah disahkan. Keluar daripada senarai di sini dan penulis tidak lagi mendapat alamat anda.",
   "settings.mailingLists.leaveFailed": "Anda tidak dapat dikeluarkan daripada senarai. Cuba lagi.",
   "settings.mailingLists.since": "Menyertai {date}",
-  "settings.mailingLists.title": "Senarai mel blog"
+  "settings.mailingLists.title": "Senarai mel blog",
+  "notification.appReview.listed": "{name} kini disenaraikan dalam Integrasi sebagai aplikasi komuniti.",
+  "notification.appReview.rejected": "{name} tidak disenaraikan dalam Integrasi. Penyemak menulis: {note}",
+  "notification.appReview.subject": "Semakan aplikasi anda {name}",
+  "notificationExtra.appReview.open": "Buka aplikasi anda",
+  "notifications.workflow.appReview": "Semakan aplikasi"
 }

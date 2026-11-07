@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Šių tinklaraščių autoriai gali rašyti jūsų patvirtintu el. pašto adresu. Išėjus iš sąrašo čia, autorius jūsų adreso nebegauna.",
   "settings.mailingLists.leaveFailed": "Pašalinti iš sąrašo nepavyko. Bandykite dar kartą.",
   "settings.mailingLists.since": "Prisijungta {date}",
-  "settings.mailingLists.title": "Tinklaraščių pašto sąrašai"
+  "settings.mailingLists.title": "Tinklaraščių pašto sąrašai",
+  "notification.appReview.listed": "{name} dabar rodoma Integracijose kaip bendruomenės programėlė.",
+  "notification.appReview.rejected": "{name} nerodoma Integracijose. Peržiūrėtojas rašė: {note}",
+  "notification.appReview.subject": "Jūsų programėlės {name} peržiūra",
+  "notificationExtra.appReview.open": "Atidaryti programėlę",
+  "notifications.workflow.appReview": "Programėlių peržiūros"
 }

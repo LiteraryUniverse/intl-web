@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "Tá {name} liostaithe anois in Integrations mar aip phobail.",
+  "notification.appReview.rejected": "Níl {name} liostaithe in Integrations. Scríobh an t-athbhreithneoir: {note}",
+  "notification.appReview.subject": "Athbhreithniú ar d'aip {name}",
+  "notificationExtra.appReview.open": "Oscail d'aip",
+  "notifications.workflow.appReview": "Athbhreithnithe aipeanna"
 }

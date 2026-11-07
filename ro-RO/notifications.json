@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Autorii acestor bloguri pot scrie la adresa ta de e-mail verificată. Părăsește o listă aici și autorul nu mai primește adresa ta.",
   "settings.mailingLists.leaveFailed": "Nu ai putut fi eliminat din listă. Încearcă din nou.",
   "settings.mailingLists.since": "Alăturat pe {date}",
-  "settings.mailingLists.title": "Liste de corespondență ale blogurilor"
+  "settings.mailingLists.title": "Liste de corespondență ale blogurilor",
+  "notification.appReview.listed": "{name} apare acum în Integrări ca aplicație a comunității.",
+  "notification.appReview.rejected": "{name} nu apare în Integrări. Evaluatorul a scris: {note}",
+  "notification.appReview.subject": "Evaluarea aplicației tale {name}",
+  "notificationExtra.appReview.open": "Deschide aplicația ta",
+  "notifications.workflow.appReview": "Evaluări de aplicații"
 }

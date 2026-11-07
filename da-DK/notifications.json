@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Forfatterne til disse blogs kan skrive til din bekræftede e-mailadresse. Forlad en liste her, så får forfatteren ikke længere din adresse.",
   "settings.mailingLists.leaveFailed": "Du kunne ikke fjernes fra listen. Prøv igen.",
   "settings.mailingLists.since": "Tilmeldt {date}",
-  "settings.mailingLists.title": "Blog-mailinglister"
+  "settings.mailingLists.title": "Blog-mailinglister",
+  "notification.appReview.listed": "{name} vises nu under Integrationer som en fællesskabsapp.",
+  "notification.appReview.rejected": "{name} vises ikke under Integrationer. Anmelderen skrev: {note}",
+  "notification.appReview.subject": "Gennemgang af din app {name}",
+  "notificationExtra.appReview.open": "Åbn din app",
+  "notifications.workflow.appReview": "Appgennemgange"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "Maaaring sumulat ang mga may-akda ng mga blog na ito sa iyong na-verify na email address. Umalis sa listahan dito at hindi na makukuha ng may-akda ang iyong address.",
   "settings.mailingLists.leaveFailed": "Hindi ka naalis sa listahan. Subukan muli.",
   "settings.mailingLists.since": "Sumali noong {date}",
-  "settings.mailingLists.title": "Mga mailing list ng blog"
+  "settings.mailingLists.title": "Mga mailing list ng blog",
+  "notification.appReview.listed": "Nakalista na ang {name} sa Mga Integrasyon bilang app ng komunidad.",
+  "notification.appReview.rejected": "Hindi nakalista ang {name} sa Mga Integrasyon. Isinulat ng reviewer: {note}",
+  "notification.appReview.subject": "Review ng iyong app na {name}",
+  "notificationExtra.appReview.open": "Buksan ang iyong app",
+  "notifications.workflow.appReview": "Mga review ng app"
 }

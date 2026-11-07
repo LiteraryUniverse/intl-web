@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "ca lo nu jmina fi la'o gy.Integrations.gy. kei {name} cu se liste ki'u lo nu ke'a kansa samtci",
+  "notification.appReview.rejected": "{name} na se liste la'o gy.Integrations.gy. .i le jdice cu ciska zoi gy.{note}.gy.",
+  "notification.appReview.subject": "lo nu jdice le do samtci {name}",
+  "notificationExtra.appReview.open": "kalri le do samtci",
+  "notifications.workflow.appReview": "lo nu jdice lo samtci"
 }

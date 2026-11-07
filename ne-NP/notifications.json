@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "यी ब्लगका लेखकहरूले तपाईंको प्रमाणित इमेल ठेगानामा लेख्न सक्छन्। यहाँ सूची छोड्नुभयो भने लेखकले तपाईंको ठेगाना पाउँदैनन्।",
   "settings.mailingLists.leaveFailed": "तपाईंलाई सूचीबाट हटाउन सकिएन। फेरि प्रयास गर्नुहोस्।",
   "settings.mailingLists.since": "{date} मा जोडिनुभयो",
-  "settings.mailingLists.title": "ब्लग मेलिङ लिस्टहरू"
+  "settings.mailingLists.title": "ब्लग मेलिङ लिस्टहरू",
+  "notification.appReview.listed": "{name} अब इन्टिग्रेसनहरूमा समुदायको एपका रूपमा सूचीकृत छ।",
+  "notification.appReview.rejected": "{name} इन्टिग्रेसनहरूमा सूचीकृत छैन। समीक्षकले लेख्नुभयो: {note}",
+  "notification.appReview.subject": "तपाईंको एप {name} को समीक्षा",
+  "notificationExtra.appReview.open": "तपाईंको एप खोल्नुहोस्",
+  "notifications.workflow.appReview": "एप समीक्षाहरू"
 }

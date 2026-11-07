@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "এই ব্লগগুলোর লেখকেরা আপনার যাচাই করা ইমেইল ঠিকানায় লিখতে পারেন। এখানে কোনো তালিকা ছাড়লে লেখক আর আপনার ঠিকানা পাবেন না।",
   "settings.mailingLists.leaveFailed": "আপনাকে তালিকা থেকে সরানো যায়নি। আবার চেষ্টা করুন।",
   "settings.mailingLists.since": "যোগ দিয়েছেন {date}",
-  "settings.mailingLists.title": "ব্লগ মেইলিং লিস্ট"
+  "settings.mailingLists.title": "ব্লগ মেইলিং লিস্ট",
+  "notification.appReview.listed": "{name} এখন ইন্টিগ্রেশনে কমিউনিটি অ্যাপ হিসেবে তালিকাভুক্ত।",
+  "notification.appReview.rejected": "{name} ইন্টিগ্রেশনে তালিকাভুক্ত নয়। পর্যালোচক লিখেছেন: {note}",
+  "notification.appReview.subject": "আপনার অ্যাপ {name}-এর পর্যালোচনা",
+  "notificationExtra.appReview.open": "আপনার অ্যাপ খুলুন",
+  "notifications.workflow.appReview": "অ্যাপ পর্যালোচনা"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "ผู้เขียนบล็อกเหล่านี้สามารถส่งอีเมลถึงอีเมลที่ยืนยันแล้วของคุณ ออกจากรายการที่นี่ แล้วผู้เขียนจะไม่ได้รับอีเมลของคุณอีก",
   "settings.mailingLists.leaveFailed": "ลบคุณออกจากรายการไม่ได้ ลองอีกครั้ง",
   "settings.mailingLists.since": "เข้าร่วมเมื่อ {date}",
-  "settings.mailingLists.title": "รายชื่ออีเมลของบล็อก"
+  "settings.mailingLists.title": "รายชื่ออีเมลของบล็อก",
+  "notification.appReview.listed": "{name} แสดงอยู่ในการเชื่อมต่อในฐานะแอปของชุมชนแล้ว",
+  "notification.appReview.rejected": "{name} ไม่ได้แสดงอยู่ในการเชื่อมต่อ ผู้ตรวจสอบเขียนว่า: {note}",
+  "notification.appReview.subject": "ผลการตรวจสอบแอป {name} ของคุณ",
+  "notificationExtra.appReview.open": "เปิดแอปของคุณ",
+  "notifications.workflow.appReview": "การตรวจสอบแอป"
 }

@@ -237,5 +237,10 @@
   "settings.mailingLists.intro": "The authors of these blogs can write to your verified email address. Leave a list here and the author no longer gets your address.",
   "settings.mailingLists.leaveFailed": "You could not be removed from the list. Try again.",
   "settings.mailingLists.since": "Joined {date}",
-  "settings.mailingLists.title": "Blog mailing lists"
+  "settings.mailingLists.title": "Blog mailing lists",
+  "notification.appReview.listed": "{name} sampun kadaftarang ring Integrations pinaka aplikasi komunitas.",
+  "notification.appReview.rejected": "{name} nenten kadaftarang ring Integrations. Sang pamriksa nyurat: {note}",
+  "notification.appReview.subject": "Pamriksan aplikasi ragane {name}",
+  "notificationExtra.appReview.open": "Ungkab aplikasi ragane",
+  "notifications.workflow.appReview": "Pamriksan aplikasi"
 }
