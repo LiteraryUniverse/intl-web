@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Lors de la connexion, l'application peut demander à :",
   "settings.apps.open": "Ouvrir l'application",
   "settings.apps.admin.nav": "Applications",
+  "settings.integrations.type.official": "Officielle",
+  "settings.integrations.type.community": "Communauté",
   "settings.apiKeys.scope.companion.read": "Consulter le compagnon de bureau",
   "settings.apiKeys.scope.companion.read.desc": "Consulter vos tâches personnelles, rappels, écrits récents et notifications",
   "settings.apiKeys.scope.companion.write": "Modifier le compagnon de bureau",

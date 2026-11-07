@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "Při přihlášení může aplikace požádat, aby mohla:",
   "settings.apps.open": "Otevřít aplikaci",
   "settings.apps.admin.nav": "Aplikace",
+  "settings.integrations.type.official": "Oficiální",
+  "settings.integrations.type.community": "Komunitně",
   "settings.apiKeys.scope.companion.read": "Číst data pomocníka pro plochu",
   "settings.apiKeys.scope.companion.read.desc": "Číst vaše osobní úkoly, stav připomenutí, nedávnou tvorbu a oznámení",
   "settings.apiKeys.scope.companion.write": "Upravovat data pomocníka pro plochu",

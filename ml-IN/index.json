@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "നിങ്ങൾ സൈൻ ഇൻ ചെയ്യുമ്പോൾ, ആപ്പ് ഇവ ആവശ്യപ്പെട്ടേക്കാം:",
   "settings.apps.open": "ആപ്പ് തുറക്കുക",
   "settings.apps.admin.nav": "ആപ്പുകൾ",
+  "settings.integrations.type.official": "ഔദ്യോഗികം",
+  "settings.integrations.type.community": "കമ്മ്യൂണിറ്റി",
   "settings.apiKeys.scope.companion.read": "ഡെസ്‌ക്‌ടോപ്പ് സഹായിയുടെ വിവരങ്ങൾ വായിക്കുക",
   "settings.apiKeys.scope.companion.read.desc": "സ്വകാര്യ ജോലികൾ, ഓർമ്മപ്പെടുത്തലുകളുടെ നില, സമീപകാല രചനകൾ, അറിയിപ്പുകൾ എന്നിവ വായിക്കുക",
   "settings.apiKeys.scope.companion.write": "ഡെസ്‌ക്‌ടോപ്പ് സഹായി പുതുക്കുക",

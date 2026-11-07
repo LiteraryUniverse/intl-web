@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Sisselogimisel võib rakendus küsida luba:",
   "settings.apps.open": "Ava rakendus",
   "settings.apps.admin.nav": "Rakendused",
+  "settings.integrations.type.official": "Ametlik",
+  "settings.integrations.type.community": "Kogukond",
   "settings.apiKeys.scope.companion.read": "Loe töölauaabilise andmeid",
   "settings.apiKeys.scope.companion.read.desc": "Loe isiklikke ülesandeid, meeldetuletuste olekut, hiljutisi kirjutisi ja teavitusi",
   "settings.apiKeys.scope.companion.write": "Uuenda töölauaabilist",

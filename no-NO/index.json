@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Når du logger inn, kan appen be om å:",
   "settings.apps.open": "Åpne appen",
   "settings.apps.admin.nav": "Apper",
+  "settings.integrations.type.official": "Offisiell",
+  "settings.integrations.type.community": "Fellesskap",
   "settings.apiKeys.scope.companion.read": "Les skrivebordsassistent",
   "settings.apiKeys.scope.companion.read.desc": "Les personlige oppgaver, påminnelsesstatus, nylig skrivearbeid og varsler",
   "settings.apiKeys.scope.companion.write": "Oppdater skrivebordsassistent",

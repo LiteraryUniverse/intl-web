@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Podczas logowania aplikacja może poprosić o:",
   "settings.apps.open": "Otwórz aplikację",
   "settings.apps.admin.nav": "Aplikacje",
+  "settings.integrations.type.official": "Oficjalna",
+  "settings.integrations.type.community": "Społeczność",
   "settings.apiKeys.scope.companion.read": "Odczyt danych pomocnika pulpitu",
   "settings.apiKeys.scope.companion.read.desc": "Odczyt osobistych zadań, stanu przypomnień, ostatnich prac i powiadomień",
   "settings.apiKeys.scope.companion.write": "Aktualizacja pomocnika pulpitu",

@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "ཁྱེད་ནང་འཛུལ་བྱེད་སྐབས་ཉེར་སྤྱོད་ཀྱིས་རེ་ཞུ་བྱེད་སྲིད་པ།",
   "settings.apps.open": "ཉེར་སྤྱོད་ཁ་ཕྱེ།",
   "settings.apps.admin.nav": "ཉེར་སྤྱོད།",
+  "settings.integrations.type.official": "གཞུང་འབྲེལ།",
+  "settings.integrations.type.community": "སྤྱི་ཚོགས།",
   "settings.apiKeys.scope.companion.read": "གློག་ཀླད་རོགས་པའི་གཞི་གྲངས་ཀློག་པ།",
   "settings.apiKeys.scope.companion.read.desc": "སྒེར་གྱི་ལས་ཀ དྲན་སྐུལ་གནས་སྟངས། ཉེ་ཆར་གྱི་རྩོམ་དང་བརྡ་ཐོ་ཀློག་པ།",
   "settings.apiKeys.scope.companion.write": "གློག་ཀླད་རོགས་པ་གསར་བསྒྱུར།",

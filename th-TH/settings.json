@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "เมื่อคุณเข้าสู่ระบบ แอปอาจขอ:",
   "settings.apps.open": "เปิดแอป",
   "settings.apps.admin.nav": "แอป",
+  "settings.integrations.type.official": "อย่างเป็นทางการ",
+  "settings.integrations.type.community": "ชุมชน",
   "settings.apiKeys.scope.companion.read": "อ่านข้อมูลผู้ช่วยเดสก์ท็อป",
   "settings.apiKeys.scope.companion.read.desc": "อ่านงานส่วนตัว สถานะการเตือน งานเขียนล่าสุด และการแจ้งเตือนของคุณ",
   "settings.apiKeys.scope.companion.write": "อัปเดตผู้ช่วยเดสก์ท็อป",

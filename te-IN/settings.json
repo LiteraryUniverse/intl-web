@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "మీరు సైన్ ఇన్ అయినప్పుడు, యాప్ వీటిని అడగవచ్చు:",
   "settings.apps.open": "యాప్‌ను తెరవండి",
   "settings.apps.admin.nav": "యాప్‌లు",
+  "settings.integrations.type.official": "అధికారిక",
+  "settings.integrations.type.community": "సంఘం",
   "settings.apiKeys.scope.companion.read": "డెస్క్‌టాప్ సహాయకుడి డేటాను చదవండి",
   "settings.apiKeys.scope.companion.read.desc": "మీ వ్యక్తిగత పనులు, రిమైండర్ల స్థితి, ఇటీవలి రచనలు, నోటిఫికేషన్లను చదవండి",
   "settings.apiKeys.scope.companion.write": "డెస్క్‌టాప్ సహాయకుడిని నవీకరించండి",

@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "ログイン時に、このアプリは次を要求する場合があります：",
   "settings.apps.open": "アプリを開く",
   "settings.apps.admin.nav": "アプリ",
+  "settings.integrations.type.official": "公式",
+  "settings.integrations.type.community": "コミュニティ",
   "settings.apiKeys.scope.companion.read": "デスクトップアシスタントの情報を読む",
   "settings.apiKeys.scope.companion.read.desc": "個人タスク、リマインダーの状態、最近の執筆と通知を読み取る",
   "settings.apiKeys.scope.companion.write": "デスクトップアシスタントを更新する",

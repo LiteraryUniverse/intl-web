@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Saat Anda masuk, aplikasi dapat meminta untuk:",
   "settings.apps.open": "Buka aplikasi",
   "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Resmi",
+  "settings.integrations.type.community": "Komunitas",
   "settings.apiKeys.scope.companion.read": "Baca pendamping desktop",
   "settings.apiKeys.scope.companion.read.desc": "Baca tugas pribadi, status pengingat, tulisan terbaru, dan notifikasi Anda",
   "settings.apiKeys.scope.companion.write": "Perbarui pendamping desktop",

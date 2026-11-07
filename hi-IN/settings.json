@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "साइन इन करने पर, ऐप ये माँग सकता है:",
   "settings.apps.open": "ऐप खोलें",
   "settings.apps.admin.nav": "ऐप",
+  "settings.integrations.type.official": "आधिकारिक",
+  "settings.integrations.type.community": "समुदाय",
   "settings.apiKeys.scope.companion.read": "डेस्कटॉप सहायक का डेटा पढ़ें",
   "settings.apiKeys.scope.companion.read.desc": "अपने निजी कार्य, अनुस्मारक की स्थिति, हाल के लेखन और सूचनाएँ पढ़ें",
   "settings.apiKeys.scope.companion.write": "डेस्कटॉप सहायक अपडेट करें",

@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "При входе приложение может запросить:",
   "settings.apps.open": "Открыть приложение",
   "settings.apps.admin.nav": "Приложения",
+  "settings.integrations.type.official": "Официальная",
+  "settings.integrations.type.community": "Сообщество",
   "settings.apiKeys.scope.companion.read": "Чтение данных помощника рабочего стола",
   "settings.apiKeys.scope.companion.read.desc": "Чтение личных задач, состояния напоминаний, недавних работ и уведомлений",
   "settings.apiKeys.scope.companion.write": "Обновление помощника рабочего стола",

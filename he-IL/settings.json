@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "בעת ההתחברות, היישום עשוי לבקש:",
   "settings.apps.open": "פתח יישום",
   "settings.apps.admin.nav": "יישומים",
+  "settings.integrations.type.official": "רשמי",
+  "settings.integrations.type.community": "קהילה",
   "settings.apiKeys.scope.companion.read": "קריאת נתוני עוזר שולחן העבודה",
   "settings.apiKeys.scope.companion.read.desc": "קריאת המשימות האישיות, מצב התזכורות, הכתיבה האחרונה וההתראות שלך",
   "settings.apiKeys.scope.companion.write": "עדכון עוזר שולחן העבודה",

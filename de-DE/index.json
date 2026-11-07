@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Bei der Anmeldung kann die App Folgendes anfordern:",
   "settings.apps.open": "App öffnen",
   "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Offiziell",
+  "settings.integrations.type.community": "Community",
   "settings.apiKeys.scope.companion.read": "Desktop-Begleiter lesen",
   "settings.apiKeys.scope.companion.read.desc": "Persönliche Aufgaben, Erinnerungsstatus, zuletzt bearbeitete Werke und Benachrichtigungen lesen",
   "settings.apiKeys.scope.companion.write": "Desktop-Begleiter aktualisieren",

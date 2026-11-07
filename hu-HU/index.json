@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Bejelentkezéskor az alkalmazás a következőket kérheti:",
   "settings.apps.open": "Alkalmazás megnyitása",
   "settings.apps.admin.nav": "Alkalmazások",
+  "settings.integrations.type.official": "Hivatalos",
+  "settings.integrations.type.community": "Közösségi",
   "settings.apiKeys.scope.companion.read": "Asztali segéd adatainak olvasása",
   "settings.apiKeys.scope.companion.read.desc": "Személyes feladatok, emlékeztetők állapota, legutóbbi írások és értesítések olvasása",
   "settings.apiKeys.scope.companion.write": "Asztali segéd frissítése",

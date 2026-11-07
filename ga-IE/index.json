@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Nuair a logálann tú isteach, féadfaidh an aip iarraidh:",
   "settings.apps.open": "Oscail an aip",
   "settings.apps.admin.nav": "Aipeanna",
+  "settings.integrations.type.official": "Oifigiúil",
+  "settings.integrations.type.community": "Pobal",
   "settings.apiKeys.scope.companion.read": "Léigh an cúntóir deisce",
   "settings.apiKeys.scope.companion.read.desc": "Léigh do thascanna pearsanta, stádas meabhrúchán, scríbhneoireacht le déanaí agus fógraí",
   "settings.apiKeys.scope.companion.write": "Nuashonraigh an cúntóir deisce",

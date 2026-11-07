@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Rikala ragané ngranjing, aplikasi puniki dados nunas:",
   "settings.apps.open": "Buka aplikasi",
   "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Resmi",
+  "settings.integrations.type.community": "Komunitas",
   "settings.apiKeys.scope.companion.read": "Ngwacen data pangiring desktop",
   "settings.apiKeys.scope.companion.read.desc": "Ngwacen tugas pribadi, status pangeling, sesuratan anyar miwah pawarah",
   "settings.apiKeys.scope.companion.write": "Nganyarin pangiring desktop",

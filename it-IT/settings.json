@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "Quando accede, l'app può chiedere di:",
   "settings.apps.open": "Apri l'app",
   "settings.apps.admin.nav": "App",
+  "settings.integrations.type.official": "Ufficiale",
+  "settings.integrations.type.community": "Community",
   "settings.apiKeys.scope.companion.read": "Leggere i dati dell’assistente desktop",
   "settings.apiKeys.scope.companion.read.desc": "Leggere attività personali, stato dei promemoria, scritti recenti e notifiche",
   "settings.apiKeys.scope.companion.write": "Aggiornare l’assistente desktop",

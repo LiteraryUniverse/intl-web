@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "Quan inicies sessió, l'aplicació pot demanar:",
   "settings.apps.open": "Obre l'aplicació",
   "settings.apps.admin.nav": "Aplicacions",
+  "settings.integrations.type.official": "Oficial",
+  "settings.integrations.type.community": "Comunitat",
   "settings.apiKeys.scope.companion.read": "Consulta l’assistent d’escriptori",
   "settings.apiKeys.scope.companion.read.desc": "Consulta les tasques personals, l’estat dels recordatoris, els escrits recents i les notificacions",
   "settings.apiKeys.scope.companion.write": "Actualitza l’assistent d’escriptori",

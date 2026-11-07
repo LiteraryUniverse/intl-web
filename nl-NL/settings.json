@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "Als je inlogt, kan de app vragen om:",
   "settings.apps.open": "App openen",
   "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Officieel",
+  "settings.integrations.type.community": "Community",
   "settings.apiKeys.scope.companion.read": "Desktopassistent lezen",
   "settings.apiKeys.scope.companion.read.desc": "Je persoonlijke taken, herinneringsstatus, recente schrijfwerk en meldingen lezen",
   "settings.apiKeys.scope.companion.write": "Desktopassistent bijwerken",

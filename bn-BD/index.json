@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "আপনি সাইন ইন করলে অ্যাপটি যা চাইতে পারে:",
   "settings.apps.open": "অ্যাপ খুলুন",
   "settings.apps.admin.nav": "অ্যাপ",
+  "settings.integrations.type.official": "আনুষ্ঠানিক",
+  "settings.integrations.type.community": "কমিউনিটি",
   "settings.apiKeys.scope.companion.read": "ডেস্কটপ সহায়কের তথ্য পড়ুন",
   "settings.apiKeys.scope.companion.read.desc": "আপনার ব্যক্তিগত কাজ, অনুস্মারকের অবস্থা, সাম্প্রতিক লেখা ও বিজ্ঞপ্তি পড়ুন",
   "settings.apiKeys.scope.companion.write": "ডেস্কটপ সহায়ক হালনাগাদ করুন",

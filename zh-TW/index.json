@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "登入時，此應用程式可能會要求：",
   "settings.apps.open": "開啟應用程式",
   "settings.apps.admin.nav": "應用程式",
+  "settings.integrations.type.official": "官方",
+  "settings.integrations.type.community": "社群",
   "settings.apiKeys.scope.companion.read": "讀取桌面助手資料",
   "settings.apiKeys.scope.companion.read.desc": "讀取您的個人待辦事項、提醒狀態、近期寫作和通知",
   "settings.apiKeys.scope.companion.write": "更新桌面助手",

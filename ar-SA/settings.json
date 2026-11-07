@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "عند تسجيل الدخول، قد يطلب التطبيق:",
   "settings.apps.open": "فتح التطبيق",
   "settings.apps.admin.nav": "التطبيقات",
+  "settings.integrations.type.official": "رسمي",
+  "settings.integrations.type.community": "المجتمع",
   "settings.apiKeys.scope.companion.read": "قراءة بيانات مساعد سطح المكتب",
   "settings.apiKeys.scope.companion.read.desc": "قراءة مهامك الشخصية وحالة التذكيرات وكتاباتك الأخيرة والإشعارات",
   "settings.apiKeys.scope.companion.write": "تحديث مساعد سطح المكتب",

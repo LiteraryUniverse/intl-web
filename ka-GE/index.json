@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "შესვლისას აპმა შეიძლება მოითხოვოს:",
   "settings.apps.open": "აპის გახსნა",
   "settings.apps.admin.nav": "აპები",
+  "settings.integrations.type.official": "ოფიციალური",
+  "settings.integrations.type.community": "საზოგადოება",
   "settings.apiKeys.scope.companion.read": "დესკტოპის დამხმარის მონაცემების წაკითხვა",
   "settings.apiKeys.scope.companion.read.desc": "პირადი დავალებების, შეხსენებების მდგომარეობის, ბოლო ნაწერებისა და შეტყობინებების წაკითხვა",
   "settings.apiKeys.scope.companion.write": "დესკტოპის დამხმარის განახლება",

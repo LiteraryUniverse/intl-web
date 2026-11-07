@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Kun kirjaudut, sovellus voi pyytää lupaa:",
   "settings.apps.open": "Avaa sovellus",
   "settings.apps.admin.nav": "Sovellukset",
+  "settings.integrations.type.official": "Virallinen",
+  "settings.integrations.type.community": "Yhteisö",
   "settings.apiKeys.scope.companion.read": "Lue työpöytäavustajan tietoja",
   "settings.apiKeys.scope.companion.read.desc": "Lue omia tehtäviä, muistutusten tilaa, viimeaikaisia kirjoituksia ja ilmoituksia",
   "settings.apiKeys.scope.companion.write": "Päivitä työpöytäavustajaa",

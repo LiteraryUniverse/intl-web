@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "នៅពេលអ្នកចូល កម្មវិធីអាចស្នើសុំ៖",
   "settings.apps.open": "បើកកម្មវិធី",
   "settings.apps.admin.nav": "កម្មវិធី",
+  "settings.integrations.type.official": "ផ្លូវការ",
+  "settings.integrations.type.community": "សហគមន៍",
   "settings.apiKeys.scope.companion.read": "អានទិន្នន័យជំនួយការផ្ទៃតុ",
   "settings.apiKeys.scope.companion.read.desc": "អានកិច្ចការផ្ទាល់ខ្លួន ស្ថានភាពការរំលឹក សំណេរថ្មីៗ និងការជូនដំណឹងរបស់អ្នក",
   "settings.apiKeys.scope.companion.write": "ធ្វើបច្ចុប្បន្នភាពជំនួយការផ្ទៃតុ",

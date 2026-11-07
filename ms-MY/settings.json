@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "Apabila anda log masuk, aplikasi mungkin meminta untuk:",
   "settings.apps.open": "Buka aplikasi",
   "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Rasmi",
+  "settings.integrations.type.community": "Komuniti",
   "settings.apiKeys.scope.companion.read": "Baca pembantu desktop",
   "settings.apiKeys.scope.companion.read.desc": "Baca tugasan peribadi, status peringatan, penulisan terkini dan pemberitahuan anda",
   "settings.apiKeys.scope.companion.write": "Kemas kini pembantu desktop",

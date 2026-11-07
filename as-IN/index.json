@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "আপুনি ছাইন ইন কৰোঁতে, এপটোৱে এইবোৰৰ অনুমতি বিচাৰিব পাৰে:",
   "settings.apps.open": "এপ খোলক",
   "settings.apps.admin.nav": "এপসমূহ",
+  "settings.integrations.type.official": "আনুষ্ঠানিক",
+  "settings.integrations.type.community": "সম্প্ৰদায়",
   "settings.apiKeys.scope.companion.read": "ডেস্কটপ সহায়কৰ তথ্য পঢ়ক",
   "settings.apiKeys.scope.companion.read.desc": "আপোনাৰ ব্যক্তিগত কাম, সোঁৱৰণীৰ স্থিতি, শেহতীয়া লেখা আৰু জাননী পঢ়ক",
   "settings.apiKeys.scope.companion.write": "ডেস্কটপ সহায়ক উন্নীত কৰক",

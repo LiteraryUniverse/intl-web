@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Quando iniciar sessão, a aplicação pode pedir para:",
   "settings.apps.open": "Abrir aplicação",
   "settings.apps.admin.nav": "Aplicações",
+  "settings.integrations.type.official": "Oficial",
+  "settings.integrations.type.community": "Comunidade",
   "settings.apiKeys.scope.companion.read": "Consultar o assistente de ambiente de trabalho",
   "settings.apiKeys.scope.companion.read.desc": "Consultar tarefas pessoais, estado dos lembretes, escrita recente e notificações",
   "settings.apiKeys.scope.companion.write": "Atualizar o assistente de ambiente de trabalho",

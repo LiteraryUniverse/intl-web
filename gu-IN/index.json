@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "તમે સાઇન ઇન કરો ત્યારે એપ આ માગી શકે છે:",
   "settings.apps.open": "એપ ખોલો",
   "settings.apps.admin.nav": "એપ્સ",
+  "settings.integrations.type.official": "સત્તાવાર",
+  "settings.integrations.type.community": "સમુદાય",
   "settings.apiKeys.scope.companion.read": "ડેસ્કટોપ સહાયકનો ડેટા વાંચો",
   "settings.apiKeys.scope.companion.read.desc": "તમારા અંગત કાર્યો, રિમાઇન્ડરની સ્થિતિ, તાજેતરનું લેખન અને સૂચનાઓ વાંચો",
   "settings.apiKeys.scope.companion.write": "ડેસ્કટોપ સહાયક અપડેટ કરો",

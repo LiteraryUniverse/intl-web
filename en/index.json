@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "When you sign in, the app may ask to:",
   "settings.apps.open": "Open app",
   "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Official",
+  "settings.integrations.type.community": "Community",
   "settings.apiKeys.scope.companion.read": "Read desktop companion",
   "settings.apiKeys.scope.companion.read.desc": "Read your personal tasks, reminder status, recent writing and notifications",
   "settings.apiKeys.scope.companion.write": "Update desktop companion",

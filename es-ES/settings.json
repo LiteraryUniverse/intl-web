@@ -395,6 +395,8 @@
   "settings.apps.mayAsk": "Al iniciar sesión, la aplicación puede solicitar:",
   "settings.apps.open": "Abrir aplicación",
   "settings.apps.admin.nav": "Aplicaciones",
+  "settings.integrations.type.official": "Oficial",
+  "settings.integrations.type.community": "Comunidad",
   "settings.apiKeys.scope.companion.read": "Consultar el asistente de escritorio",
   "settings.apiKeys.scope.companion.read.desc": "Consultar tus tareas personales, recordatorios, escritos recientes y notificaciones",
   "settings.apiKeys.scope.companion.write": "Actualizar el asistente de escritorio",
