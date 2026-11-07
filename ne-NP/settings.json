@@ -396,5 +396,10 @@
   "settings.apps.open": "एप खोल्नुहोस्",
   "settings.apps.admin.nav": "एपहरू",
   "settings.integrations.type.official": "आधिकारिक",
-  "settings.integrations.type.community": "समुदाय"
+  "settings.integrations.type.community": "समुदाय",
+  "settings.apiKeys.scope.companion.read": "डेस्कटप सहायकको डाटा पढ्नुहोस्",
+  "settings.apiKeys.scope.companion.read.desc": "आफ्ना व्यक्तिगत काम, सम्झनाको स्थिति, हालका लेखन र सूचनाहरू पढ्नुहोस्",
+  "settings.apiKeys.scope.companion.write": "डेस्कटप सहायक अद्यावधिक गर्नुहोस्",
+  "settings.apiKeys.scope.companion.write.desc": "व्यक्तिगत काम थप्नुहोस् र पूरा गर्नुहोस् अनि सूचनाहरू पढिएको भनी चिन्ह लगाउनुहोस्",
+  "settings.integrations.omarchy.summary": "Omarchy का लागि तपाईंको लेखन साथी।"
 }

@@ -396,5 +396,10 @@
   "settings.apps.open": "Відкрити додаток",
   "settings.apps.admin.nav": "Додатки",
   "settings.integrations.type.official": "Офіційна",
-  "settings.integrations.type.community": "Спільнота"
+  "settings.integrations.type.community": "Спільнота",
+  "settings.apiKeys.scope.companion.read": "Читання даних помічника робочого столу",
+  "settings.apiKeys.scope.companion.read.desc": "Читання особистих завдань, стану нагадувань, нещодавніх робіт і сповіщень",
+  "settings.apiKeys.scope.companion.write": "Оновлення помічника робочого столу",
+  "settings.apiKeys.scope.companion.write.desc": "Додавання й завершення особистих завдань і позначення сповіщень як прочитаних",
+  "settings.integrations.omarchy.summary": "Ваш помічник для письма в Omarchy."
 }

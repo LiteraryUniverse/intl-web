@@ -396,5 +396,10 @@
   "settings.apps.open": "Maak toepassing oop",
   "settings.apps.admin.nav": "Toepassings",
   "settings.integrations.type.official": "Amptelik",
-  "settings.integrations.type.community": "Gemeenskap"
+  "settings.integrations.type.community": "Gemeenskap",
+  "settings.apiKeys.scope.companion.read": "Lees lessenaarassistent",
+  "settings.apiKeys.scope.companion.read.desc": "Lees jou persoonlike take, herinneringstatus, onlangse skryfwerk en kennisgewings",
+  "settings.apiKeys.scope.companion.write": "Werk lessenaarassistent by",
+  "settings.apiKeys.scope.companion.write.desc": "Voeg persoonlike take by en voltooi dit en merk kennisgewings as gelees",
+  "settings.integrations.omarchy.summary": "Jou skryfmaat vir Omarchy."
 }

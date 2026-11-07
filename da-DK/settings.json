@@ -396,5 +396,10 @@
   "settings.apps.open": "Åbn app",
   "settings.apps.admin.nav": "Apps",
   "settings.integrations.type.official": "Officiel",
-  "settings.integrations.type.community": "Fællesskab"
+  "settings.integrations.type.community": "Fællesskab",
+  "settings.apiKeys.scope.companion.read": "Læs skrivebordsassistent",
+  "settings.apiKeys.scope.companion.read.desc": "Læs dine personlige opgaver, påmindelsesstatus, seneste skrivearbejde og notifikationer",
+  "settings.apiKeys.scope.companion.write": "Opdater skrivebordsassistent",
+  "settings.apiKeys.scope.companion.write.desc": "Tilføj og afslut personlige opgaver, og markér notifikationer som læst",
+  "settings.integrations.omarchy.summary": "Din skriveassistent til Omarchy."
 }

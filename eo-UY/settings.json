@@ -396,5 +396,10 @@
   "settings.apps.open": "Malfermi aplikaĵon",
   "settings.apps.admin.nav": "Aplikaĵoj",
   "settings.integrations.type.official": "Oficiala",
-  "settings.integrations.type.community": "Komunuma"
+  "settings.integrations.type.community": "Komunuma",
+  "settings.apiKeys.scope.companion.read": "Legi la labortablan helpanton",
+  "settings.apiKeys.scope.companion.read.desc": "Legi viajn personajn taskojn, memorigan staton, lastatempajn verkojn kaj sciigojn",
+  "settings.apiKeys.scope.companion.write": "Ĝisdatigi la labortablan helpanton",
+  "settings.apiKeys.scope.companion.write.desc": "Aldoni kaj plenumi personajn taskojn kaj marki sciigojn kiel legitajn",
+  "settings.integrations.omarchy.summary": "Via skriba kunulo por Omarchy."
 }

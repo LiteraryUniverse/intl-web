@@ -396,5 +396,10 @@
   "settings.apps.open": "Atidaryti programą",
   "settings.apps.admin.nav": "Programos",
   "settings.integrations.type.official": "Oficiali",
-  "settings.integrations.type.community": "Bendruomenė"
+  "settings.integrations.type.community": "Bendruomenė",
+  "settings.apiKeys.scope.companion.read": "Skaityti darbalaukio pagalbininko duomenis",
+  "settings.apiKeys.scope.companion.read.desc": "Skaityti asmenines užduotis, priminimų būseną, naujausius rašinius ir pranešimus",
+  "settings.apiKeys.scope.companion.write": "Atnaujinti darbalaukio pagalbininką",
+  "settings.apiKeys.scope.companion.write.desc": "Pridėti ir atlikti asmenines užduotis bei pažymėti pranešimus kaip perskaitytus",
+  "settings.integrations.omarchy.summary": "Jūsų rašymo pagalbininkas Omarchy aplinkoje."
 }

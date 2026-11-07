@@ -396,5 +396,10 @@
   "settings.apps.open": "ਐਪ ਖੋਲ੍ਹੋ",
   "settings.apps.admin.nav": "ਐਪਾਂ",
   "settings.integrations.type.official": "ਅਧਿਕਾਰਤ",
-  "settings.integrations.type.community": "ਭਾਈਚਾਰਾ"
+  "settings.integrations.type.community": "ਭਾਈਚਾਰਾ",
+  "settings.apiKeys.scope.companion.read": "ਡੈਸਕਟਾਪ ਸਹਾਇਕ ਦਾ ਡਾਟਾ ਪੜ੍ਹੋ",
+  "settings.apiKeys.scope.companion.read.desc": "ਆਪਣੇ ਨਿੱਜੀ ਕੰਮ, ਯਾਦ-ਦਹਾਨੀਆਂ ਦੀ ਸਥਿਤੀ, ਹਾਲੀਆ ਲਿਖਤਾਂ ਅਤੇ ਸੂਚਨਾਵਾਂ ਪੜ੍ਹੋ",
+  "settings.apiKeys.scope.companion.write": "ਡੈਸਕਟਾਪ ਸਹਾਇਕ ਅੱਪਡੇਟ ਕਰੋ",
+  "settings.apiKeys.scope.companion.write.desc": "ਨਿੱਜੀ ਕੰਮ ਜੋੜੋ ਅਤੇ ਪੂਰੇ ਕਰੋ ਅਤੇ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪੜ੍ਹੀਆਂ ਵਜੋਂ ਚਿੰਨ੍ਹਿਤ ਕਰੋ",
+  "settings.integrations.omarchy.summary": "Omarchy ਲਈ ਤੁਹਾਡਾ ਲਿਖਣ ਸਾਥੀ।"
 }
