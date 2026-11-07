@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Oturum açtığınızda uygulama şunları isteyebilir:",
   "settings.apps.open": "Uygulamayı aç",
   "settings.apps.admin.nav": "Uygulamalar",
+  "settings.integrations.type.official": "Resmî",
+  "settings.integrations.type.community": "Topluluk",
   "sharing.title": "Paylaş",
   "sharing.button": "Paylaşım Düğmesi",
   "sharing.share": "Şununla paylaş...",

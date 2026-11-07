@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Aplikasi ini tidak lagi disenaraikan.",
   "settings.apps.mayAsk": "Apabila anda log masuk, aplikasi mungkin meminta untuk:",
   "settings.apps.open": "Buka aplikasi",
-  "settings.apps.admin.nav": "Aplikasi"
+  "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Rasmi",
+  "settings.integrations.type.community": "Komuniti"
 }

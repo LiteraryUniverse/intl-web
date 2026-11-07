@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "ཁྱེད་ནང་འཛུལ་བྱེད་སྐབས་ཉེར་སྤྱོད་ཀྱིས་རེ་ཞུ་བྱེད་སྲིད་པ།",
   "settings.apps.open": "ཉེར་སྤྱོད་ཁ་ཕྱེ།",
   "settings.apps.admin.nav": "ཉེར་སྤྱོད།",
+  "settings.integrations.type.official": "གཞུང་འབྲེལ།",
+  "settings.integrations.type.community": "སྤྱི་ཚོགས།",
   "sharing.title": "རིན་པའི་དྲན་པ།",
   "sharing.button": "བསྐྱར་ཆོག་གསལ་བཤད།",
   "sharing.share": "བསྐྱར་ཆོག་གསར་བསྐྱར།",

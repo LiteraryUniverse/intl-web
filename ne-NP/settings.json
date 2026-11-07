@@ -394,5 +394,7 @@
   "settings.apps.notListed": "यो एप अब सूचीबद्ध छैन।",
   "settings.apps.mayAsk": "तपाईंले साइन इन गर्दा, एपले यी कुराको अनुमति माग्न सक्छ:",
   "settings.apps.open": "एप खोल्नुहोस्",
-  "settings.apps.admin.nav": "एपहरू"
+  "settings.apps.admin.nav": "एपहरू",
+  "settings.integrations.type.official": "आधिकारिक",
+  "settings.integrations.type.community": "समुदाय"
 }

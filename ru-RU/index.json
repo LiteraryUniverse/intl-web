@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "При входе приложение может запросить:",
   "settings.apps.open": "Открыть приложение",
   "settings.apps.admin.nav": "Приложения",
+  "settings.integrations.type.official": "Официальная",
+  "settings.integrations.type.community": "Сообщество",
   "sharing.title": "Поделиться",
   "sharing.button": "Кнопка «Поделиться»",
   "sharing.share": "Поделиться с помощью...",

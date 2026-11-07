@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Seda rakendust ei ole enam avaldatud.",
   "settings.apps.mayAsk": "Sisselogimisel võib rakendus küsida luba:",
   "settings.apps.open": "Ava rakendus",
-  "settings.apps.admin.nav": "Rakendused"
+  "settings.apps.admin.nav": "Rakendused",
+  "settings.integrations.type.official": "Ametlik",
+  "settings.integrations.type.community": "Kogukond"
 }

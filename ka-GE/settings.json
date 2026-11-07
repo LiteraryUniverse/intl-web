@@ -394,5 +394,7 @@
   "settings.apps.notListed": "ეს აპი აღარ არის გამოქვეყნებული.",
   "settings.apps.mayAsk": "შესვლისას აპმა შეიძლება მოითხოვოს:",
   "settings.apps.open": "აპის გახსნა",
-  "settings.apps.admin.nav": "აპები"
+  "settings.apps.admin.nav": "აპები",
+  "settings.integrations.type.official": "ოფიციალური",
+  "settings.integrations.type.community": "საზოგადოება"
 }

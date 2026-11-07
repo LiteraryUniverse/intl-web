@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "तुम्ही साइन इन करता तेव्हा अॅप पुढील गोष्टी मागू शकते:",
   "settings.apps.open": "अॅप उघडा",
   "settings.apps.admin.nav": "अॅप्स",
+  "settings.integrations.type.official": "अधिकृत",
+  "settings.integrations.type.community": "समुदाय",
   "sharing.title": "सामायिक करा",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

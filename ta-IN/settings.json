@@ -394,5 +394,7 @@
   "settings.apps.notListed": "இந்தச் செயலி இனி பட்டியலிடப்படவில்லை.",
   "settings.apps.mayAsk": "நீங்கள் உள்நுழையும்போது, செயலி இவற்றைக் கேட்கலாம்:",
   "settings.apps.open": "செயலியைத் திற",
-  "settings.apps.admin.nav": "செயலிகள்"
+  "settings.apps.admin.nav": "செயலிகள்",
+  "settings.integrations.type.official": "அதிகாரப்பூர்வமானது",
+  "settings.integrations.type.community": "சமூகம்"
 }

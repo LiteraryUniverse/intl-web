@@ -394,5 +394,7 @@
   "settings.apps.notListed": "ཉེར་སྤྱོད་འདི་ད་ནས་ཐོ་འགོད་མེད།",
   "settings.apps.mayAsk": "ཁྱེད་ནང་འཛུལ་བྱེད་སྐབས་ཉེར་སྤྱོད་ཀྱིས་རེ་ཞུ་བྱེད་སྲིད་པ།",
   "settings.apps.open": "ཉེར་སྤྱོད་ཁ་ཕྱེ།",
-  "settings.apps.admin.nav": "ཉེར་སྤྱོད།"
+  "settings.apps.admin.nav": "ཉེར་སྤྱོད།",
+  "settings.integrations.type.official": "གཞུང་འབྲེལ།",
+  "settings.integrations.type.community": "སྤྱི་ཚོགས།"
 }

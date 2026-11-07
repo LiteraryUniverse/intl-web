@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "בעת ההתחברות, היישום עשוי לבקש:",
   "settings.apps.open": "פתח יישום",
   "settings.apps.admin.nav": "יישומים",
+  "settings.integrations.type.official": "רשמי",
+  "settings.integrations.type.community": "קהילה",
   "sharing.title": "שיתוף",
   "sharing.button": "כפתור שיתוף",
   "sharing.share": "שתף עם...",

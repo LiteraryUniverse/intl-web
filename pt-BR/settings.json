@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Este aplicativo não está mais listado.",
   "settings.apps.mayAsk": "Quando você entrar, o aplicativo pode pedir para:",
   "settings.apps.open": "Abrir aplicativo",
-  "settings.apps.admin.nav": "Aplicativos"
+  "settings.apps.admin.nav": "Aplicativos",
+  "settings.integrations.type.official": "Oficial",
+  "settings.integrations.type.community": "Comunidade"
 }

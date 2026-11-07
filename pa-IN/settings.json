@@ -394,5 +394,7 @@
   "settings.apps.notListed": "ਇਹ ਐਪ ਹੁਣ ਸੂਚੀਬੱਧ ਨਹੀਂ ਹੈ।",
   "settings.apps.mayAsk": "ਤੁਹਾਡੇ ਸਾਈਨ ਇਨ ਕਰਨ 'ਤੇ, ਐਪ ਇਹ ਮੰਗ ਸਕਦੀ ਹੈ:",
   "settings.apps.open": "ਐਪ ਖੋਲ੍ਹੋ",
-  "settings.apps.admin.nav": "ਐਪਾਂ"
+  "settings.apps.admin.nav": "ਐਪਾਂ",
+  "settings.integrations.type.official": "ਅਧਿਕਾਰਤ",
+  "settings.integrations.type.community": "ਭਾਈਚਾਰਾ"
 }

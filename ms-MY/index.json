@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Apabila anda log masuk, aplikasi mungkin meminta untuk:",
   "settings.apps.open": "Buka aplikasi",
   "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Rasmi",
+  "settings.integrations.type.community": "Komuniti",
   "sharing.title": "Kongsi",
   "sharing.button": "Butang Perkongsian",
   "sharing.share": "Berkongsi dengan...",

@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Når du logger ind, kan appen bede om at:",
   "settings.apps.open": "Åbn app",
   "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Officiel",
+  "settings.integrations.type.community": "Fællesskab",
   "sharing.title": "Del",
   "sharing.button": "Knap til deling",
   "sharing.share": "Del med...",

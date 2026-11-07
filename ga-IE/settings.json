@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Níl an aip seo liostaithe a thuilleadh.",
   "settings.apps.mayAsk": "Nuair a logálann tú isteach, féadfaidh an aip iarraidh:",
   "settings.apps.open": "Oscail an aip",
-  "settings.apps.admin.nav": "Aipeanna"
+  "settings.apps.admin.nav": "Aipeanna",
+  "settings.integrations.type.official": "Oifigiúil",
+  "settings.integrations.type.community": "Pobal"
 }

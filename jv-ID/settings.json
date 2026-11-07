@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Aplikasi iki wis ora kacathet maneh.",
   "settings.apps.mayAsk": "Nalika sampeyan mlebu, aplikasi bisa njaluk:",
   "settings.apps.open": "Bukak aplikasi",
-  "settings.apps.admin.nav": "Aplikasi"
+  "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Resmi",
+  "settings.integrations.type.community": "Komunitas"
 }

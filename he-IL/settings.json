@@ -394,5 +394,7 @@
   "settings.apps.notListed": "היישום הזה כבר לא מופיע ברשימה.",
   "settings.apps.mayAsk": "בעת ההתחברות, היישום עשוי לבקש:",
   "settings.apps.open": "פתח יישום",
-  "settings.apps.admin.nav": "יישומים"
+  "settings.apps.admin.nav": "יישומים",
+  "settings.integrations.type.official": "רשמי",
+  "settings.integrations.type.community": "קהילה"
 }

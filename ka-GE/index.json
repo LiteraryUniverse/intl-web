@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "შესვლისას აპმა შეიძლება მოითხოვოს:",
   "settings.apps.open": "აპის გახსნა",
   "settings.apps.admin.nav": "აპები",
+  "settings.integrations.type.official": "ოფიციალური",
+  "settings.integrations.type.community": "საზოგადოება",
   "sharing.title": "გაზიარება",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

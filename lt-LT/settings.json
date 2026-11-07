@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Ši programa nebėra sąraše.",
   "settings.apps.mayAsk": "Jums prisijungus, programa gali prašyti:",
   "settings.apps.open": "Atidaryti programą",
-  "settings.apps.admin.nav": "Programos"
+  "settings.apps.admin.nav": "Programos",
+  "settings.integrations.type.official": "Oficiali",
+  "settings.integrations.type.community": "Bendruomenė"
 }

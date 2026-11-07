@@ -394,5 +394,7 @@
   "settings.apps.notListed": "ଏହି ଆପ୍ ଆଉ ତାଲିକାଭୁକ୍ତ ନାହିଁ।",
   "settings.apps.mayAsk": "ଆପଣ ସାଇନ୍ ଇନ୍ କଲେ, ଆପ୍ ଏହା ମାଗିପାରେ:",
   "settings.apps.open": "ଆପ୍ ଖୋଲନ୍ତୁ",
-  "settings.apps.admin.nav": "ଆପ୍"
+  "settings.apps.admin.nav": "ଆପ୍",
+  "settings.integrations.type.official": "ଆଧିକାରିକ",
+  "settings.integrations.type.community": "ସମ୍ପ୍ରଦାୟ"
 }

@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Questa app non è più presente nel catalogo.",
   "settings.apps.mayAsk": "Quando accede, l'app può chiedere di:",
   "settings.apps.open": "Apri l'app",
-  "settings.apps.admin.nav": "App"
+  "settings.apps.admin.nav": "App",
+  "settings.integrations.type.official": "Ufficiale",
+  "settings.integrations.type.community": "Community"
 }

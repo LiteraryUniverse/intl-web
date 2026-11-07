@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "로그인할 때 앱이 다음을 요청할 수 있습니다:",
   "settings.apps.open": "앱 열기",
   "settings.apps.admin.nav": "앱",
+  "settings.integrations.type.official": "공식",
+  "settings.integrations.type.community": "커뮤니티",
   "sharing.title": "공유",
   "sharing.button": "공유 버튼",
   "sharing.share": "공유하기",

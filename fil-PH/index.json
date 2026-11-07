@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Kapag nag-sign in ka, maaaring humingi ang app ng pahintulot na:",
   "settings.apps.open": "Buksan ang app",
   "settings.apps.admin.nav": "Mga App",
+  "settings.integrations.type.official": "Opisyal",
+  "settings.integrations.type.community": "Komunidad",
   "sharing.title": "Ibahagi",
   "sharing.button": "Button ng Pagbabahagi",
   "sharing.share": "Ibahagi sa...",

@@ -394,5 +394,7 @@
   "settings.apps.notListed": "This app is no longer listed.",
   "settings.apps.mayAsk": "When you sign in, the app may ask to:",
   "settings.apps.open": "Open app",
-  "settings.apps.admin.nav": "Apps"
+  "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Official",
+  "settings.integrations.type.community": "Community"
 }

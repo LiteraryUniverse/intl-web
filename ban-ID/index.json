@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Rikala ragané ngranjing, aplikasi puniki dados nunas:",
   "settings.apps.open": "Buka aplikasi",
   "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Resmi",
+  "settings.integrations.type.community": "Komunitas",
   "sharing.title": "Share",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

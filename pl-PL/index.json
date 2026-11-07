@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Podczas logowania aplikacja może poprosić o:",
   "settings.apps.open": "Otwórz aplikację",
   "settings.apps.admin.nav": "Aplikacje",
+  "settings.integrations.type.official": "Oficjalna",
+  "settings.integrations.type.community": "Społeczność",
   "sharing.title": "Udostępnij",
   "sharing.button": "Przycisk udostępniania",
   "sharing.share": "Udostępnij z...",

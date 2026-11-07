@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "మీరు సైన్ ఇన్ అయినప్పుడు, యాప్ వీటిని అడగవచ్చు:",
   "settings.apps.open": "యాప్‌ను తెరవండి",
   "settings.apps.admin.nav": "యాప్‌లు",
+  "settings.integrations.type.official": "అధికారిక",
+  "settings.integrations.type.community": "సంఘం",
   "sharing.title": "షేర్ చేయండి",
   "sharing.button": "షేరింగ్ బటన్",
   "sharing.share": "షేర్ చేయండి...",

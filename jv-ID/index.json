@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Nalika sampeyan mlebu, aplikasi bisa njaluk:",
   "settings.apps.open": "Bukak aplikasi",
   "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Resmi",
+  "settings.integrations.type.community": "Komunitas",
   "sharing.title": "Share",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

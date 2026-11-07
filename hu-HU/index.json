@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Bejelentkezéskor az alkalmazás a következőket kérheti:",
   "settings.apps.open": "Alkalmazás megnyitása",
   "settings.apps.admin.nav": "Alkalmazások",
+  "settings.integrations.type.official": "Hivatalos",
+  "settings.integrations.type.community": "Közösségi",
   "sharing.title": "Megosztás",
   "sharing.button": "Megosztás gomb",
   "sharing.share": "Megosztás...",

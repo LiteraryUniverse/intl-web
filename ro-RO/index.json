@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Când te autentifici, aplicația poate cere să:",
   "settings.apps.open": "Deschide aplicația",
   "settings.apps.admin.nav": "Aplicații",
+  "settings.integrations.type.official": "Oficială",
+  "settings.integrations.type.community": "Comunitate",
   "sharing.title": "Partajare",
   "sharing.button": "Buton de partajare",
   "sharing.share": "Partajați cu...",

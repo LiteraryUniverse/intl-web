@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Quando iniciar sessão, a aplicação pode pedir para:",
   "settings.apps.open": "Abrir aplicação",
   "settings.apps.admin.nav": "Aplicações",
+  "settings.integrations.type.official": "Oficial",
+  "settings.integrations.type.community": "Comunidade",
   "sharing.title": "Partilhar",
   "sharing.button": "Botão de Partilha",
   "sharing.share": "Compartilhar com...",

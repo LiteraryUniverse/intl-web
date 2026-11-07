@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "登入時，此應用程式可能會要求：",
   "settings.apps.open": "開啟應用程式",
   "settings.apps.admin.nav": "應用程式",
+  "settings.integrations.type.official": "官方",
+  "settings.integrations.type.community": "社群",
   "sharing.title": "分享",
   "sharing.button": "分享按鈕",
   "sharing.share": "與...",

@@ -394,5 +394,7 @@
   "settings.apps.notListed": "لم يعد هذا التطبيق مُدرجًا.",
   "settings.apps.mayAsk": "عند تسجيل الدخول، قد يطلب التطبيق:",
   "settings.apps.open": "فتح التطبيق",
-  "settings.apps.admin.nav": "التطبيقات"
+  "settings.apps.admin.nav": "التطبيقات",
+  "settings.integrations.type.official": "رسمي",
+  "settings.integrations.type.community": "المجتمع"
 }

@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "ನೀವು ಸೈನ್ ಇನ್ ಮಾಡುವಾಗ, ಆ್ಯಪ್ ಇವುಗಳನ್ನು ಕೇಳಬಹುದು:",
   "settings.apps.open": "ಆ್ಯಪ್ ತೆರೆಯಿರಿ",
   "settings.apps.admin.nav": "ಆ್ಯಪ್‌ಗಳು",
+  "settings.integrations.type.official": "ಅಧಿಕೃತ",
+  "settings.integrations.type.community": "ಸಮುದಾಯ",
   "sharing.title": "ಹಂಚಿಕೊಳ್ಳಿ",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

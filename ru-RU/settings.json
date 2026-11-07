@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Это приложение больше не опубликовано.",
   "settings.apps.mayAsk": "При входе приложение может запросить:",
   "settings.apps.open": "Открыть приложение",
-  "settings.apps.admin.nav": "Приложения"
+  "settings.apps.admin.nav": "Приложения",
+  "settings.integrations.type.official": "Официальная",
+  "settings.integrations.type.community": "Сообщество"
 }

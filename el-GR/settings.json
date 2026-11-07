@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Αυτή η εφαρμογή δεν εμφανίζεται πλέον στον κατάλογο.",
   "settings.apps.mayAsk": "Κατά τη σύνδεση, η εφαρμογή μπορεί να ζητήσει:",
   "settings.apps.open": "Άνοιγμα εφαρμογής",
-  "settings.apps.admin.nav": "Εφαρμογές"
+  "settings.apps.admin.nav": "Εφαρμογές",
+  "settings.integrations.type.official": "Επίσημη",
+  "settings.integrations.type.community": "Κοινότητα"
 }

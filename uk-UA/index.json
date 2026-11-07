@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Під час входу додаток може запросити:",
   "settings.apps.open": "Відкрити додаток",
   "settings.apps.admin.nav": "Додатки",
+  "settings.integrations.type.official": "Офіційна",
+  "settings.integrations.type.community": "Спільнота",
   "sharing.title": "Поділитися",
   "sharing.button": "Кнопка Поділитися",
   "sharing.share": "Поділитися з...",

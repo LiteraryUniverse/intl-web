@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Wanneer jy aanmeld, kan die toepassing vra om:",
   "settings.apps.open": "Maak toepassing oop",
   "settings.apps.admin.nav": "Toepassings",
+  "settings.integrations.type.official": "Amptelik",
+  "settings.integrations.type.community": "Gemeenskap",
   "sharing.title": "Deel",
   "sharing.button": "Deelknoppie",
   "sharing.share": "Deel met...",

@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "เมื่อคุณเข้าสู่ระบบ แอปอาจขอ:",
   "settings.apps.open": "เปิดแอป",
   "settings.apps.admin.nav": "แอป",
+  "settings.integrations.type.official": "อย่างเป็นทางการ",
+  "settings.integrations.type.community": "ชุมชน",
   "sharing.title": "แบ่งปัน",
   "sharing.button": "ปุ่มแชร์",
   "sharing.share": "แชร์กับ...",

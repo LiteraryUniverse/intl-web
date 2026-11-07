@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "আপনি সাইন ইন করলে অ্যাপটি যা চাইতে পারে:",
   "settings.apps.open": "অ্যাপ খুলুন",
   "settings.apps.admin.nav": "অ্যাপ",
+  "settings.integrations.type.official": "আনুষ্ঠানিক",
+  "settings.integrations.type.community": "কমিউনিটি",
   "sharing.title": "শেয়ার করুন",
   "sharing.button": "শেয়ার বোতাম",
   "sharing.share": "শেয়ার করুন...",

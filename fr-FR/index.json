@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Lors de la connexion, l'application peut demander à :",
   "settings.apps.open": "Ouvrir l'application",
   "settings.apps.admin.nav": "Applications",
+  "settings.integrations.type.official": "Officielle",
+  "settings.integrations.type.community": "Communauté",
   "sharing.title": "Partager",
   "sharing.button": "Bouton de partage",
   "sharing.share": "Partager avec...",

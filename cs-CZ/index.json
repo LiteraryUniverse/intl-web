@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Při přihlášení může aplikace požádat, aby mohla:",
   "settings.apps.open": "Otevřít aplikaci",
   "settings.apps.admin.nav": "Aplikace",
+  "settings.integrations.type.official": "Oficiální",
+  "settings.integrations.type.community": "Komunitně",
   "sharing.title": "Sdílet",
   "sharing.button": "Tlačítko pro sdílení",
   "sharing.share": "Sdílet na...",

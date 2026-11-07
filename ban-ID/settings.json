@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Aplikasi puniki nénten malih kadaftarang.",
   "settings.apps.mayAsk": "Rikala ragané ngranjing, aplikasi puniki dados nunas:",
   "settings.apps.open": "Buka aplikasi",
-  "settings.apps.admin.nav": "Aplikasi"
+  "settings.apps.admin.nav": "Aplikasi",
+  "settings.integrations.type.official": "Resmi",
+  "settings.integrations.type.community": "Komunitas"
 }

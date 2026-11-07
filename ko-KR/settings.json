@@ -394,5 +394,7 @@
   "settings.apps.notListed": "이 앱은 더 이상 등록되어 있지 않습니다.",
   "settings.apps.mayAsk": "로그인할 때 앱이 다음을 요청할 수 있습니다:",
   "settings.apps.open": "앱 열기",
-  "settings.apps.admin.nav": "앱"
+  "settings.apps.admin.nav": "앱",
+  "settings.integrations.type.official": "공식",
+  "settings.integrations.type.community": "커뮤니티"
 }

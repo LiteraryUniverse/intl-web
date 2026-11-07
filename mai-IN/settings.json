@@ -394,5 +394,7 @@
   "settings.apps.notListed": "ई ऐप आब सूचीबद्ध नहि अछि।",
   "settings.apps.mayAsk": "साइन इन करैत काल ऐप ई सभ माँगि सकैत अछि:",
   "settings.apps.open": "ऐप खोलू",
-  "settings.apps.admin.nav": "ऐप सभ"
+  "settings.apps.admin.nav": "ऐप सभ",
+  "settings.integrations.type.official": "आधिकारिक",
+  "settings.integrations.type.community": "समुदाय"
 }

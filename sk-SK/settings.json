@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Táto aplikácia už nie je uvedená.",
   "settings.apps.mayAsk": "Pri prihlásení môže aplikácia požiadať o:",
   "settings.apps.open": "Otvoriť aplikáciu",
-  "settings.apps.admin.nav": "Aplikácie"
+  "settings.apps.admin.nav": "Aplikácie",
+  "settings.integrations.type.official": "Oficiálne",
+  "settings.integrations.type.community": "Komunitne"
 }

@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "ログイン時に、このアプリは次を要求する場合があります：",
   "settings.apps.open": "アプリを開く",
   "settings.apps.admin.nav": "アプリ",
+  "settings.integrations.type.official": "公式",
+  "settings.integrations.type.community": "コミュニティ",
   "sharing.title": "共有する",
   "sharing.button": "共有ボタン",
   "sharing.share": "～と共有する",

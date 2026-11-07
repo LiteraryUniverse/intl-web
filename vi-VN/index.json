@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Khi bạn đăng nhập, ứng dụng có thể yêu cầu:",
   "settings.apps.open": "Mở ứng dụng",
   "settings.apps.admin.nav": "Ứng dụng",
+  "settings.integrations.type.official": "Chính thức",
+  "settings.integrations.type.community": "Cộng đồng",
   "sharing.title": "Chia sẻ",
   "sharing.button": "Nút Chia sẻ",
   "sharing.share": "Chia sẻ với...",

@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Ta aplikacja nie jest już widoczna w katalogu.",
   "settings.apps.mayAsk": "Podczas logowania aplikacja może poprosić o:",
   "settings.apps.open": "Otwórz aplikację",
-  "settings.apps.admin.nav": "Aplikacje"
+  "settings.apps.admin.nav": "Aplikacje",
+  "settings.integrations.type.official": "Oficjalna",
+  "settings.integrations.type.community": "Społeczność"
 }

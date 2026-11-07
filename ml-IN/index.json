@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "നിങ്ങൾ സൈൻ ഇൻ ചെയ്യുമ്പോൾ, ആപ്പ് ഇവ ആവശ്യപ്പെട്ടേക്കാം:",
   "settings.apps.open": "ആപ്പ് തുറക്കുക",
   "settings.apps.admin.nav": "ആപ്പുകൾ",
+  "settings.integrations.type.official": "ഔദ്യോഗികം",
+  "settings.integrations.type.community": "കമ്മ്യൂണിറ്റി",
   "sharing.title": "പങ്കിടുക",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

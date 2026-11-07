@@ -394,5 +394,7 @@
   "settings.apps.notListed": "এই অ্যাপটি আর তালিকাভুক্ত নেই।",
   "settings.apps.mayAsk": "আপনি সাইন ইন করলে অ্যাপটি যা চাইতে পারে:",
   "settings.apps.open": "অ্যাপ খুলুন",
-  "settings.apps.admin.nav": "অ্যাপ"
+  "settings.apps.admin.nav": "অ্যাপ",
+  "settings.integrations.type.official": "আনুষ্ঠানিক",
+  "settings.integrations.type.community": "কমিউনিটি"
 }

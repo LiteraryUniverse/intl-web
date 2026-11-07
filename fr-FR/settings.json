@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Cette application n'est plus publiée.",
   "settings.apps.mayAsk": "Lors de la connexion, l'application peut demander à :",
   "settings.apps.open": "Ouvrir l'application",
-  "settings.apps.admin.nav": "Applications"
+  "settings.apps.admin.nav": "Applications",
+  "settings.integrations.type.official": "Officielle",
+  "settings.integrations.type.community": "Communauté"
 }

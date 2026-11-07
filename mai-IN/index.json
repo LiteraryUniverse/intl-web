@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "साइन इन करैत काल ऐप ई सभ माँगि सकैत अछि:",
   "settings.apps.open": "ऐप खोलू",
   "settings.apps.admin.nav": "ऐप सभ",
+  "settings.integrations.type.official": "आधिकारिक",
+  "settings.integrations.type.community": "समुदाय",
   "sharing.title": "शेयर करें",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

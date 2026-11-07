@@ -394,5 +394,7 @@
   "settings.apps.notListed": "Den här appen är inte längre listad.",
   "settings.apps.mayAsk": "När du loggar in kan appen be om att:",
   "settings.apps.open": "Öppna appen",
-  "settings.apps.admin.nav": "Appar"
+  "settings.apps.admin.nav": "Appar",
+  "settings.integrations.type.official": "Officiell",
+  "settings.integrations.type.community": "Gemenskap"
 }

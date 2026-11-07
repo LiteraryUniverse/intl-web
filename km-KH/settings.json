@@ -394,5 +394,7 @@
   "settings.apps.notListed": "កម្មវិធីនេះលែងត្រូវបានចុះបញ្ជីហើយ។",
   "settings.apps.mayAsk": "នៅពេលអ្នកចូល កម្មវិធីអាចស្នើសុំ៖",
   "settings.apps.open": "បើកកម្មវិធី",
-  "settings.apps.admin.nav": "កម្មវិធី"
+  "settings.apps.admin.nav": "កម្មវិធី",
+  "settings.integrations.type.official": "ផ្លូវការ",
+  "settings.integrations.type.community": "សហគមន៍"
 }

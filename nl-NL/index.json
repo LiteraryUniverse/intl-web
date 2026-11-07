@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Als je inlogt, kan de app vragen om:",
   "settings.apps.open": "App openen",
   "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Officieel",
+  "settings.integrations.type.community": "Community",
   "sharing.title": "Delen",
   "sharing.button": "Delenknop",
   "sharing.share": "Delen met...",

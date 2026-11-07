@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "ଆପଣ ସାଇନ୍ ଇନ୍ କଲେ, ଆପ୍ ଏହା ମାଗିପାରେ:",
   "settings.apps.open": "ଆପ୍ ଖୋଲନ୍ତୁ",
   "settings.apps.admin.nav": "ଆପ୍",
+  "settings.integrations.type.official": "ଆଧିକାରିକ",
+  "settings.integrations.type.community": "ସମ୍ପ୍ରଦାୟ",
   "sharing.title": "ସେୟାର୍",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

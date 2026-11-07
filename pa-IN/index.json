@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "ਤੁਹਾਡੇ ਸਾਈਨ ਇਨ ਕਰਨ 'ਤੇ, ਐਪ ਇਹ ਮੰਗ ਸਕਦੀ ਹੈ:",
   "settings.apps.open": "ਐਪ ਖੋਲ੍ਹੋ",
   "settings.apps.admin.nav": "ਐਪਾਂ",
+  "settings.integrations.type.official": "ਅਧਿਕਾਰਤ",
+  "settings.integrations.type.community": "ਭਾਈਚਾਰਾ",
   "sharing.title": "ਸਾਂਝਾ ਕਰੋ",
   "sharing.button": "ਸਾਂਝਾ ਕਰਨ ਦਾ ਬਟਨ",
   "sharing.share": "ਨਾਲ ਸਾਂਝਾ ਕਰੋ...",

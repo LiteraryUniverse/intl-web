@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Bei der Anmeldung kann die App Folgendes anfordern:",
   "settings.apps.open": "App öffnen",
   "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Offiziell",
+  "settings.integrations.type.community": "Community",
   "sharing.title": "Teilen",
   "sharing.button": "Freigabe-Button",
   "sharing.share": "Teilen mit...",

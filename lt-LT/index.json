@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "Jums prisijungus, programa gali prašyti:",
   "settings.apps.open": "Atidaryti programą",
   "settings.apps.admin.nav": "Programos",
+  "settings.integrations.type.official": "Oficiali",
+  "settings.integrations.type.community": "Bendruomenė",
   "sharing.title": "Dalintis",
   "sharing.button": "Dalintis mygtuku",
   "sharing.share": "Dalintis su...",

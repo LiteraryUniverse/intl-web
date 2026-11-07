@@ -6381,6 +6381,8 @@
   "settings.apps.mayAsk": "When you sign in, the app may ask to:",
   "settings.apps.open": "Open app",
   "settings.apps.admin.nav": "Apps",
+  "settings.integrations.type.official": "Official",
+  "settings.integrations.type.community": "Community",
   "sharing.title": "Share",
   "sharing.button": "Sharing Button",
   "sharing.share": "Share with...",

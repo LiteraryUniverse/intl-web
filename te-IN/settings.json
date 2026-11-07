@@ -394,5 +394,7 @@
   "settings.apps.notListed": "ఈ యాప్ ఇకపై జాబితాలో లేదు.",
   "settings.apps.mayAsk": "మీరు సైన్ ఇన్ అయినప్పుడు, యాప్ వీటిని అడగవచ్చు:",
   "settings.apps.open": "యాప్‌ను తెరవండి",
-  "settings.apps.admin.nav": "యాప్‌లు"
+  "settings.apps.admin.nav": "యాప్‌లు",
+  "settings.integrations.type.official": "అధికారిక",
+  "settings.integrations.type.community": "సంఘం"
 }
