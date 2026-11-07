@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "الصوت غير متاح",
   "blog.podcast.unavailable.hint": "تعذّر تحميل هذه الحلقة. حاول مرة أخرى، أو افتح رابط الصوت في علامة تبويب جديدة.",
   "blog.podcast.unreachable": "تعذّر الوصول إلى هذا الصوت. تأكد من أن الملف عام، أو استخدم رابط صوت مباشرًا آخر.",
-  "blog.podcast.wordsFirst": "كلماتك أولًا",
-  "blog.podcast.wordsFirstHint": "البودكاست اختياري. يستطيع القراء دائمًا الاستمتاع بمقالتك، حتى عندما يتعذّر الوصول إلى رابط الصوت.",
   "blog.widget.audioPlayer": "مشغّل الصوت",
   "blog.widget.audioPlayer.hint": "الصق رابطًا مباشرًا لملف صوتي.",
   "blog.widget.liveStream": "بث مباشر",

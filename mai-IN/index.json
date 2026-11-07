@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Audio unavailable",
   "blog.podcast.unavailable.hint": "We couldn't load this episode. Try again, or open the audio link in a new tab.",
   "blog.podcast.unreachable": "We couldn't access this audio. Make sure the file is public, or use another direct audio link.",
-  "blog.podcast.wordsFirst": "Your words come first",
-  "blog.podcast.wordsFirstHint": "A podcast is optional. Readers can always enjoy your article, even when an audio link is unavailable.",
   "blog.widget.audioPlayer": "Audio player",
   "blog.widget.audioPlayer.hint": "Paste a direct link to an audio file.",
   "blog.widget.liveStream": "Live stream",

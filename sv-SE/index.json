@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Ljudet är inte tillgängligt",
   "blog.podcast.unavailable.hint": "Vi kunde inte läsa in avsnittet. Försök igen eller öppna ljudlänken i en ny flik.",
   "blog.podcast.unreachable": "Vi kunde inte komma åt ljudet. Kontrollera att filen är publik eller använd en annan direkt ljudlänk.",
-  "blog.podcast.wordsFirst": "Orden kommer först",
-  "blog.podcast.wordsFirstHint": "En podcast är valfri. Läsarna kan alltid läsa din artikel, även om ljudlänken inte fungerar.",
   "blog.widget.audioPlayer": "Ljudspelare",
   "blog.widget.audioPlayer.hint": "Klistra in en direktlänk till en ljudfil.",
   "blog.widget.liveStream": "Livesändning",

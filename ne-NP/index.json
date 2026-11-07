@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "अडियो उपलब्ध छैन",
   "blog.podcast.unavailable.hint": "हामीले यो एपिसोड लोड गर्न सकेनौं। फेरि प्रयास गर्नुहोस्, वा अडियो लिंक नयाँ ट्याबमा खोल्नुहोस्।",
   "blog.podcast.unreachable": "हामीले यो अडियो खोल्न सकेनौं। फाइल सार्वजनिक छ भनी पक्का गर्नुहोस्, वा अर्को सिधा अडियो लिंक प्रयोग गर्नुहोस्।",
-  "blog.podcast.wordsFirst": "तपाईंका शब्द पहिले",
-  "blog.podcast.wordsFirstHint": "पोडकास्ट ऐच्छिक हो। अडियो लिंक उपलब्ध नभए पनि पाठकहरूले तपाईंको लेख सधैं पढ्न सक्छन्।",
   "blog.widget.audioPlayer": "अडियो प्लेयर",
   "blog.widget.audioPlayer.hint": "सिधा अडियो फाइलको लिंक टाँस्नुहोस्।",
   "blog.widget.liveStream": "लाइभ स्ट्रिम",

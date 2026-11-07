@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Audio tidak tersedia",
   "blog.podcast.unavailable.hint": "Kami tidak dapat memuatkan episod ini. Cuba lagi, atau buka pautan audio dalam tab baharu.",
   "blog.podcast.unreachable": "Kami tidak dapat mengakses audio ini. Pastikan fail itu awam, atau gunakan pautan audio terus yang lain.",
-  "blog.podcast.wordsFirst": "Tulisan anda didahulukan",
-  "blog.podcast.wordsFirstHint": "Podcast adalah pilihan. Pembaca sentiasa boleh menikmati artikel anda, walaupun pautan audio tidak tersedia.",
   "blog.widget.audioPlayer": "Pemain audio",
   "blog.widget.audioPlayer.hint": "Tampal pautan terus ke fail audio.",
   "blog.widget.liveStream": "Siaran langsung",

@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "অডিও পাওয়া যাচ্ছে না",
   "blog.podcast.unavailable.hint": "আমরা এই পর্বটি লোড করতে পারিনি। আবার চেষ্টা করুন, অথবা অডিও লিংকটি নতুন ট্যাবে খুলুন।",
   "blog.podcast.unreachable": "আমরা এই অডিও অ্যাক্সেস করতে পারিনি। ফাইলটি পাবলিক কি না দেখুন, অথবা অন্য কোনো সরাসরি অডিও লিংক ব্যবহার করুন।",
-  "blog.podcast.wordsFirst": "আপনার লেখাই আগে",
-  "blog.podcast.wordsFirstHint": "পডকাস্ট ঐচ্ছিক। অডিও লিংক পাওয়া না গেলেও পাঠকেরা সবসময় আপনার নিবন্ধ পড়তে পারবেন।",
   "blog.widget.audioPlayer": "অডিও প্লেয়ার",
   "blog.widget.audioPlayer.hint": "একটি অডিও ফাইলের সরাসরি লিংক পেস্ট করুন।",
   "blog.widget.liveStream": "লাইভ স্ট্রিম",

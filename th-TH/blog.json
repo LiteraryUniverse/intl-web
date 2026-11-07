@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "ไม่สามารถเล่นเสียงได้",
   "blog.podcast.unavailable.hint": "เราโหลดตอนนี้ไม่ได้ ลองอีกครั้ง หรือเปิดลิงก์เสียงในแท็บใหม่",
   "blog.podcast.unreachable": "เราเข้าถึงเสียงนี้ไม่ได้ โปรดตรวจสอบว่าไฟล์เปิดเป็นสาธารณะ หรือใช้ลิงก์เสียงโดยตรงอื่น",
-  "blog.podcast.wordsFirst": "ตัวอักษรของคุณมาก่อน",
-  "blog.podcast.wordsFirstHint": "พอดแคสต์ไม่บังคับ ผู้อ่านยังเพลิดเพลินกับบทความของคุณได้เสมอ แม้ลิงก์เสียงจะใช้งานไม่ได้",
   "blog.widget.audioPlayer": "เครื่องเล่นเสียง",
   "blog.widget.audioPlayer.hint": "วางลิงก์โดยตรงไปยังไฟล์เสียง",
   "blog.widget.liveStream": "สตรีมสด",

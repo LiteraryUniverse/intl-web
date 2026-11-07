@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "האודיו לא זמין",
   "blog.podcast.unavailable.hint": "לא הצלחנו לטעון את הפרק. נסו שוב, או פתחו את קישור האודיו בלשונית חדשה.",
   "blog.podcast.unreachable": "לא הצלחנו לגשת לאודיו הזה. ודאו שהקובץ ציבורי, או השתמשו בקישור אודיו ישיר אחר.",
-  "blog.podcast.wordsFirst": "המילים שלכם קודמות",
-  "blog.podcast.wordsFirstHint": "פודקאסט הוא אופציונלי. הקוראים תמיד יכולים ליהנות מהמאמר שלכם, גם כשקישור האודיו לא זמין.",
   "blog.widget.audioPlayer": "נגן אודיו",
   "blog.widget.audioPlayer.hint": "הדביקו קישור ישיר לקובץ אודיו.",
   "blog.widget.liveStream": "שידור חי",

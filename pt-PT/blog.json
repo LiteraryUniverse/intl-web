@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Áudio indisponível",
   "blog.podcast.unavailable.hint": "Não foi possível carregar este episódio. Tente novamente ou abra a ligação do áudio num novo separador.",
   "blog.podcast.unreachable": "Não foi possível aceder a este áudio. Verifique se o ficheiro é público ou utilize outra ligação direta de áudio.",
-  "blog.podcast.wordsFirst": "As suas palavras em primeiro lugar",
-  "blog.podcast.wordsFirstHint": "O podcast é opcional. Os leitores podem sempre desfrutar do seu artigo, mesmo quando a ligação do áudio não está disponível.",
   "blog.widget.audioPlayer": "Leitor de áudio",
   "blog.widget.audioPlayer.hint": "Cole uma ligação direta para um ficheiro de áudio.",
   "blog.widget.liveStream": "Transmissão em direto",

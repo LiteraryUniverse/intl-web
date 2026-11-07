@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Ses kullanılamıyor",
   "blog.podcast.unavailable.hint": "Bu bölüm yüklenemedi. Tekrar deneyin veya ses bağlantısını yeni sekmede açın.",
   "blog.podcast.unreachable": "Bu sese erişemedik. Dosyanın herkese açık olduğundan emin olun veya başka bir doğrudan ses bağlantısı kullanın.",
-  "blog.podcast.wordsFirst": "Önce sözcükleriniz gelir",
-  "blog.podcast.wordsFirstHint": "Podcast isteğe bağlıdır. Ses bağlantısı kullanılamasa bile okurlar yazınızın tadını her zaman çıkarabilir.",
   "blog.widget.audioPlayer": "Ses oynatıcı",
   "blog.widget.audioPlayer.hint": "Bir ses dosyasına doğrudan bağlantı yapıştırın.",
   "blog.widget.liveStream": "Canlı yayın",

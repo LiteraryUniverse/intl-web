@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "오디오를 사용할 수 없음",
   "blog.podcast.unavailable.hint": "이 에피소드를 불러오지 못했습니다. 다시 시도하거나 오디오 링크를 새 탭에서 여세요.",
   "blog.podcast.unreachable": "이 오디오에 접근할 수 없습니다. 파일이 공개되어 있는지 확인하거나 다른 오디오 직접 링크를 사용하세요.",
-  "blog.podcast.wordsFirst": "글이 먼저입니다",
-  "blog.podcast.wordsFirstHint": "팟캐스트는 선택 사항입니다. 오디오 링크를 사용할 수 없어도 독자는 언제든 글을 읽을 수 있습니다.",
   "blog.widget.audioPlayer": "오디오 플레이어",
   "blog.widget.audioPlayer.hint": "오디오 파일의 직접 링크를 붙여 넣으세요.",
   "blog.widget.liveStream": "라이브 방송",

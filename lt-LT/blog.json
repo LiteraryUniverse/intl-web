@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Garso įrašas nepasiekiamas",
   "blog.podcast.unavailable.hint": "Nepavyko įkelti šio epizodo. Pabandykite dar kartą arba atidarykite garso nuorodą naujame skirtuke.",
   "blog.podcast.unreachable": "Nepavyko pasiekti šio garso įrašo. Įsitikinkite, kad failas viešas, arba naudokite kitą tiesioginę garso nuorodą.",
-  "blog.podcast.wordsFirst": "Pirmiausia žodžiai",
-  "blog.podcast.wordsFirstHint": "Tinklalaidė neprivaloma. Skaitytojai visada galės skaityti jūsų straipsnį, net jei garso nuoroda nepasiekiama.",
   "blog.widget.audioPlayer": "Garso grotuvas",
   "blog.widget.audioPlayer.hint": "Įklijuokite tiesioginę nuorodą į garso failą.",
   "blog.widget.liveStream": "Tiesioginė transliacija",

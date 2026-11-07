@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Không có âm thanh",
   "blog.podcast.unavailable.hint": "Chúng tôi không tải được tập này. Hãy thử lại hoặc mở liên kết âm thanh trong tab mới.",
   "blog.podcast.unreachable": "Chúng tôi không truy cập được âm thanh này. Hãy đảm bảo tệp ở chế độ công khai hoặc dùng liên kết âm thanh trực tiếp khác.",
-  "blog.podcast.wordsFirst": "Chữ nghĩa đi trước",
-  "blog.podcast.wordsFirstHint": "Podcast là tùy chọn. Người đọc luôn có thể thưởng thức bài viết của bạn, kể cả khi liên kết âm thanh không dùng được.",
   "blog.widget.audioPlayer": "Trình phát âm thanh",
   "blog.widget.audioPlayer.hint": "Dán liên kết trực tiếp đến một tệp âm thanh.",
   "blog.widget.liveStream": "Phát trực tiếp",

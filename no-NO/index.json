@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Lyd utilgjengelig",
   "blog.podcast.unavailable.hint": "Vi kunne ikke laste denne episoden. Prøv igjen, eller åpne lydlenken i en ny fane.",
   "blog.podcast.unreachable": "Vi fikk ikke tilgang til denne lyden. Kontroller at filen er offentlig, eller bruk en annen direkte lydlenke.",
-  "blog.podcast.wordsFirst": "Ordene dine kommer først",
-  "blog.podcast.wordsFirstHint": "En podcast er valgfri. Lesere kan alltid nyte artikkelen din, selv når en lydlenke ikke er tilgjengelig.",
   "blog.widget.audioPlayer": "Lydspiller",
   "blog.widget.audioPlayer.hint": "Lim inn en direkte lenke til en lydfil.",
   "blog.widget.liveStream": "Direktesending",

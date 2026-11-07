@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "無法播放音訊",
   "blog.podcast.unavailable.hint": "無法載入這一集。請再試一次，或在新分頁開啟音訊連結。",
   "blog.podcast.unreachable": "無法存取這個音訊。請確認檔案是公開的，或改用其他音訊直接連結。",
-  "blog.podcast.wordsFirst": "文字優先",
-  "blog.podcast.wordsFirstHint": "Podcast 是選用功能。即使音訊連結無法使用，讀者仍然能閱讀你的文章。",
   "blog.widget.audioPlayer": "音訊播放器",
   "blog.widget.audioPlayer.hint": "貼上音訊檔案的直接連結。",
   "blog.widget.liveStream": "直播",

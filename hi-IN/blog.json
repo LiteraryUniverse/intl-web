@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "ऑडियो उपलब्ध नहीं है",
   "blog.podcast.unavailable.hint": "हम यह एपिसोड लोड नहीं कर सके। फिर कोशिश करें, या ऑडियो लिंक नए टैब में खोलें।",
   "blog.podcast.unreachable": "हम इस ऑडियो तक नहीं पहुँच सके। पक्का करें कि फ़ाइल सार्वजनिक है, या कोई दूसरा सीधा ऑडियो लिंक इस्तेमाल करें।",
-  "blog.podcast.wordsFirst": "पहले आपके शब्द",
-  "blog.podcast.wordsFirstHint": "पॉडकास्ट वैकल्पिक है। ऑडियो लिंक उपलब्ध न हो, तब भी पाठक आपका लेख पढ़ सकते हैं।",
   "blog.widget.audioPlayer": "ऑडियो प्लेयर",
   "blog.widget.audioPlayer.hint": "ऑडियो फ़ाइल का सीधा लिंक पेस्ट करें।",
   "blog.widget.liveStream": "लाइव स्ट्रीम",

@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Ääni ei ole saatavilla",
   "blog.podcast.unavailable.hint": "Jaksoa ei voitu ladata. Yritä uudelleen tai avaa äänilinkki uudessa välilehdessä.",
   "blog.podcast.unreachable": "Ääneen ei päästy käsiksi. Varmista, että tiedosto on julkinen, tai käytä toista suoraa äänilinkkiä.",
-  "blog.podcast.wordsFirst": "Sanasi ovat etusijalla",
-  "blog.podcast.wordsFirstHint": "Podcast on valinnainen. Lukijat voivat aina nauttia artikkelistasi, vaikka äänilinkki ei olisi käytettävissä.",
   "blog.widget.audioPlayer": "Äänisoitin",
   "blog.widget.audioPlayer.hint": "Liitä suora linkki äänitiedostoon.",
   "blog.widget.liveStream": "Suora lähetys",

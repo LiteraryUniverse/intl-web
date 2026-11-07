@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Audio indisponibil",
   "blog.podcast.unavailable.hint": "Nu am putut încărca acest episod. Încearcă din nou sau deschide linkul audio într-o filă nouă.",
   "blog.podcast.unreachable": "Nu am putut accesa acest fișier audio. Asigură-te că fișierul este public sau folosește alt link direct către un fișier audio.",
-  "blog.podcast.wordsFirst": "Cuvintele tale vin primele",
-  "blog.podcast.wordsFirstHint": "Podcastul este opțional. Cititorii se pot bucura oricând de articolul tău, chiar și atunci când linkul audio nu este disponibil.",
   "blog.widget.audioPlayer": "Player audio",
   "blog.widget.audioPlayer.hint": "Lipește un link direct către un fișier audio.",
   "blog.widget.liveStream": "Transmisiune live",

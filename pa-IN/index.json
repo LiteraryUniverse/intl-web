@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "ਆਡੀਓ ਉਪਲਬਧ ਨਹੀਂ",
   "blog.podcast.unavailable.hint": "ਅਸੀਂ ਇਹ ਐਪੀਸੋਡ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕੇ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ, ਜਾਂ ਆਡੀਓ ਲਿੰਕ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ।",
   "blog.podcast.unreachable": "ਅਸੀਂ ਇਸ ਆਡੀਓ ਤੱਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕੇ। ਪੱਕਾ ਕਰੋ ਕਿ ਫ਼ਾਈਲ ਜਨਤਕ ਹੈ, ਜਾਂ ਕੋਈ ਹੋਰ ਸਿੱਧਾ ਆਡੀਓ ਲਿੰਕ ਵਰਤੋ।",
-  "blog.podcast.wordsFirst": "ਤੁਹਾਡੇ ਸ਼ਬਦ ਪਹਿਲਾਂ",
-  "blog.podcast.wordsFirstHint": "ਪੌਡਕਾਸਟ ਵਿਕਲਪਿਕ ਹੈ। ਆਡੀਓ ਲਿੰਕ ਉਪਲਬਧ ਨਾ ਹੋਣ 'ਤੇ ਵੀ ਪਾਠਕ ਤੁਹਾਡਾ ਲੇਖ ਹਮੇਸ਼ਾ ਪੜ੍ਹ ਸਕਦੇ ਹਨ।",
   "blog.widget.audioPlayer": "ਆਡੀਓ ਪਲੇਅਰ",
   "blog.widget.audioPlayer.hint": "ਆਡੀਓ ਫ਼ਾਈਲ ਦਾ ਸਿੱਧਾ ਲਿੰਕ ਪੇਸਟ ਕਰੋ।",
   "blog.widget.liveStream": "ਲਾਈਵ ਸਟ੍ਰੀਮ",

@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "音声を利用できません",
   "blog.podcast.unavailable.hint": "このエピソードを読み込めませんでした。もう一度お試しいただくか、音声リンクを新しいタブで開いてください。",
   "blog.podcast.unreachable": "この音声にアクセスできませんでした。ファイルが公開されていることを確認するか、別の音声への直接リンクを使ってください。",
-  "blog.podcast.wordsFirst": "まずは言葉から",
-  "blog.podcast.wordsFirstHint": "ポッドキャストは任意です。音声リンクが使えない場合でも、読者はいつでも記事を楽しめます。",
   "blog.widget.audioPlayer": "音声プレーヤー",
   "blog.widget.audioPlayer.hint": "音声ファイルへの直接リンクを貼り付けてください。",
   "blog.widget.liveStream": "ライブ配信",

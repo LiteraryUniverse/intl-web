@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "ऑडिओ उपलब्ध नाही",
   "blog.podcast.unavailable.hint": "हा भाग लोड करता आला नाही. पुन्हा प्रयत्न करा, किंवा ऑडिओ दुवा नवीन टॅबमध्ये उघडा.",
   "blog.podcast.unreachable": "हा ऑडिओ उघडता आला नाही. फाइल सार्वजनिक असल्याची खात्री करा, किंवा दुसरा थेट ऑडिओ दुवा वापरा.",
-  "blog.podcast.wordsFirst": "तुमचे शब्द प्रथम",
-  "blog.podcast.wordsFirstHint": "पॉडकास्ट ऐच्छिक आहे. ऑडिओ दुवा उपलब्ध नसतानाही वाचक तुमचा लेख नेहमी वाचू शकतात.",
   "blog.widget.audioPlayer": "ऑडिओ प्लेअर",
   "blog.widget.audioPlayer.hint": "थेट ऑडिओ फाइलचा दुवा पेस्ट करा.",
   "blog.widget.liveStream": "लाइव्ह स्ट्रीम",

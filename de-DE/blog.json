@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Audio nicht verfügbar",
   "blog.podcast.unavailable.hint": "Wir konnten diese Episode nicht laden. Versuche es erneut oder öffne den Audio-Link in einem neuen Tab.",
   "blog.podcast.unreachable": "Wir konnten nicht auf dieses Audio zugreifen. Stelle sicher, dass die Datei öffentlich ist, oder verwende einen anderen direkten Audio-Link.",
-  "blog.podcast.wordsFirst": "Deine Worte kommen zuerst",
-  "blog.podcast.wordsFirstHint": "Ein Podcast ist optional. Leser können deinen Artikel immer lesen, auch wenn ein Audio-Link nicht erreichbar ist.",
   "blog.widget.audioPlayer": "Audioplayer",
   "blog.widget.audioPlayer.hint": "Füge einen direkten Link zu einer Audiodatei ein.",
   "blog.widget.liveStream": "Livestream",

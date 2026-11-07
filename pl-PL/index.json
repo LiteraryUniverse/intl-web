@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Audio niedostępne",
   "blog.podcast.unavailable.hint": "Nie udało się wczytać tego odcinka. Spróbuj ponownie lub otwórz link do audio w nowej karcie.",
   "blog.podcast.unreachable": "Nie mamy dostępu do tego audio. Upewnij się, że plik jest publiczny, lub użyj innego bezpośredniego linku do audio.",
-  "blog.podcast.wordsFirst": "Najpierw słowa",
-  "blog.podcast.wordsFirstHint": "Podcast jest opcjonalny. Czytelnicy zawsze mogą przeczytać Twój artykuł, nawet gdy link do audio jest niedostępny.",
   "blog.widget.audioPlayer": "Odtwarzacz audio",
   "blog.widget.audioPlayer.hint": "Wklej bezpośredni link do pliku audio.",
   "blog.widget.liveStream": "Transmisja na żywo",

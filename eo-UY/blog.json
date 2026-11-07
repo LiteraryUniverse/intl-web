@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Sono ne disponeblas",
   "blog.podcast.unavailable.hint": "Ni ne povis ŝargi ĉi tiun epizodon. Reprovu, aŭ malfermu la sonligilon en nova langeto.",
   "blog.podcast.unreachable": "Ni ne povis aliri ĉi tiun sonon. Certigu, ke la dosiero estas publika, aŭ uzu alian rektan sonligilon.",
-  "blog.podcast.wordsFirst": "Viaj vortoj gravas plej",
-  "blog.podcast.wordsFirstHint": "Podkasto estas nedeviga. Legantoj ĉiam povas ĝui vian artikolon, eĉ kiam sonligilo ne disponeblas.",
   "blog.widget.audioPlayer": "Sonludilo",
   "blog.widget.audioPlayer.hint": "Algluu rektan ligilon al sondosiero.",
   "blog.widget.liveStream": "Viva elsendo",

@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Heli pole saadaval",
   "blog.podcast.unavailable.hint": "Me ei saanud seda episoodi laadida. Proovi uuesti või ava heli link uuel vahelehel.",
   "blog.podcast.unreachable": "Me ei pääsenud sellele helile ligi. Veendu, et fail on avalik, või kasuta mõnda teist otselinki.",
-  "blog.podcast.wordsFirst": "Sinu sõnad on esikohal",
-  "blog.podcast.wordsFirstHint": "Podcast on valikuline. Lugejad saavad sinu artiklit alati nautida, isegi kui heli link pole saadaval.",
   "blog.widget.audioPlayer": "Heliesitaja",
   "blog.widget.audioPlayer.hint": "Kleebi otselink helifailile.",
   "blog.widget.liveStream": "Otseülekanne",

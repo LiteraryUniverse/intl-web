@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Àudio no disponible",
   "blog.podcast.unavailable.hint": "No hem pogut carregar aquest episodi. Torna-ho a provar o obre l'enllaç de l'àudio en una pestanya nova.",
   "blog.podcast.unreachable": "No hem pogut accedir a aquest àudio. Assegura't que el fitxer sigui públic o fes servir un altre enllaç directe d'àudio.",
-  "blog.podcast.wordsFirst": "Primer, les teves paraules",
-  "blog.podcast.wordsFirstHint": "El pòdcast és opcional. Els lectors sempre podran gaudir del teu article, encara que l'enllaç d'àudio no estigui disponible.",
   "blog.widget.audioPlayer": "Reproductor d'àudio",
   "blog.widget.audioPlayer.hint": "Enganxa un enllaç directe a un fitxer d'àudio.",
   "blog.widget.liveStream": "Directe",

@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Audio niet beschikbaar",
   "blog.podcast.unavailable.hint": "We konden deze aflevering niet laden. Probeer het opnieuw of open de audiolink in een nieuw tabblad.",
   "blog.podcast.unreachable": "We hebben geen toegang tot deze audio. Controleer of het bestand openbaar is of gebruik een andere directe audiolink.",
-  "blog.podcast.wordsFirst": "Jouw woorden eerst",
-  "blog.podcast.wordsFirstHint": "Een podcast is optioneel. Lezers kunnen je artikel altijd lezen, ook als een audiolink niet beschikbaar is.",
   "blog.widget.audioPlayer": "Audiospeler",
   "blog.widget.audioPlayer.hint": "Plak een directe link naar een audiobestand.",
   "blog.widget.liveStream": "Livestream",

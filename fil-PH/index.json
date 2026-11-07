@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Hindi available ang audio",
   "blog.podcast.unavailable.hint": "Hindi namin ma-load ang episode na ito. Subukan ulit, o buksan ang audio link sa bagong tab.",
   "blog.podcast.unreachable": "Hindi namin ma-access ang audio na ito. Tiyaking pampubliko ang file, o gumamit ng ibang direktang audio link.",
-  "blog.podcast.wordsFirst": "Una ang iyong mga salita",
-  "blog.podcast.wordsFirstHint": "Opsyonal ang podcast. Laging mae-enjoy ng mga mambabasa ang artikulo mo, kahit hindi available ang audio link.",
   "blog.widget.audioPlayer": "Audio player",
   "blog.widget.audioPlayer.hint": "Mag-paste ng direktang link sa audio file.",
   "blog.widget.liveStream": "Live stream",

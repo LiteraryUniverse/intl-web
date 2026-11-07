@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "ઑડિયો ઉપલબ્ધ નથી",
   "blog.podcast.unavailable.hint": "અમે આ એપિસોડ લોડ કરી શક્યા નથી. ફરી પ્રયાસ કરો અથવા ઑડિયો લિંક નવા ટૅબમાં ખોલો.",
   "blog.podcast.unreachable": "અમે આ ઑડિયો ઍક્સેસ કરી શક્યા નથી. ખાતરી કરો કે ફાઇલ સાર્વજનિક છે, અથવા બીજી સીધી ઑડિયો લિંક વાપરો.",
-  "blog.podcast.wordsFirst": "તમારા શબ્દો પહેલા",
-  "blog.podcast.wordsFirstHint": "પોડકાસ્ટ વૈકલ્પિક છે. ઑડિયો લિંક ઉપલબ્ધ ન હોય તો પણ વાચકો હંમેશા તમારો લેખ માણી શકે છે.",
   "blog.widget.audioPlayer": "ઑડિયો પ્લેયર",
   "blog.widget.audioPlayer.hint": "ઑડિયો ફાઇલની સીધી લિંક પેસ્ટ કરો.",
   "blog.widget.liveStream": "લાઇવ સ્ટ્રીમ",

@@ -737,8 +737,6 @@
   "blog.podcast.unavailable": "Zvuk není dostupný",
   "blog.podcast.unavailable.hint": "Epizodu se nepodařilo načíst. Zkuste to znovu nebo otevřete odkaz na zvuk na nové kartě.",
   "blog.podcast.unreachable": "K tomuto zvuku se nepodařilo získat přístup. Ujistěte se, že je soubor veřejný, nebo použijte jiný přímý odkaz na zvuk.",
-  "blog.podcast.wordsFirst": "Na prvním místě jsou vaše slova",
-  "blog.podcast.wordsFirstHint": "Podcast je volitelný. Čtenáři si váš článek mohou vždy přečíst, i když odkaz na zvuk není dostupný.",
   "blog.widget.audioPlayer": "Přehrávač zvuku",
   "blog.widget.audioPlayer.hint": "Vložte přímý odkaz na zvukový soubor.",
   "blog.widget.liveStream": "Živé vysílání",

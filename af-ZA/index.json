@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "Oudio nie beskikbaar nie",
   "blog.podcast.unavailable.hint": "Ons kon nie hierdie episode laai nie. Probeer weer, of maak die oudioskakel in 'n nuwe oortjie oop.",
   "blog.podcast.unreachable": "Ons kon nie by hierdie oudio uitkom nie. Maak seker die lêer is openbaar, of gebruik 'n ander direkte oudioskakel.",
-  "blog.podcast.wordsFirst": "Jou woorde kom eerste",
-  "blog.podcast.wordsFirstHint": "'n Podcast is opsioneel. Lesers kan altyd jou artikel geniet, selfs wanneer 'n oudioskakel nie beskikbaar is nie.",
   "blog.widget.audioPlayer": "Oudiospeler",
   "blog.widget.audioPlayer.hint": "Plak 'n direkte skakel na 'n oudiolêer.",
   "blog.widget.liveStream": "Regstreekse stroom",

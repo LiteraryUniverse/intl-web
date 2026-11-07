@@ -938,8 +938,6 @@
   "blog.podcast.unavailable": "A hang nem érhető el",
   "blog.podcast.unavailable.hint": "Nem sikerült betölteni ezt az epizódot. Próbáld újra, vagy nyisd meg a hanghivatkozást új lapon.",
   "blog.podcast.unreachable": "Nem értük el ezt a hangot. Ellenőrizd, hogy a fájl nyilvános-e, vagy használj másik közvetlen hanghivatkozást.",
-  "blog.podcast.wordsFirst": "Előbb a szavaid",
-  "blog.podcast.wordsFirstHint": "A podcast nem kötelező. Az olvasók a cikkedet mindig élvezhetik, akkor is, ha a hanghivatkozás nem érhető el.",
   "blog.widget.audioPlayer": "Hanglejátszó",
   "blog.widget.audioPlayer.hint": "Illessz be közvetlen hivatkozást egy hangfájlra.",
   "blog.widget.liveStream": "Élő közvetítés",
