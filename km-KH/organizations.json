@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "ផ្សព្វផ្សាយ ឬកំណត់ពេលជំពូកនៃរឿងទាំងនេះ",
   "org.apiKeys.scope.universe.read.desc": "ចក្រវាឡរបស់អង្គការ រួមទាំងសព្វវចនាធិប្បាយ និងស៊េរីរបស់វា",
   "org.apiKeys.scope.universe.write.desc": "ព័ត៌មានលម្អិតរបស់ចក្រវាឡ ធាតុសព្វវចនាធិប្បាយ ស៊េរី និងការបកប្រែ",
-  "org.apiKeys.scope.universe.translate.desc": "ចំណងជើង និងការពិពណ៌នារបស់ចក្រវាឡជាភាសាផ្សេងទៀត"
+  "org.apiKeys.scope.universe.translate.desc": "ចំណងជើង និងការពិពណ៌នារបស់ចក្រវាឡជាភាសាផ្សេងទៀត",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

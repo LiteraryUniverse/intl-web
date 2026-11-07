@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publisere eller planlegge kapitler i disse historiene",
   "org.apiKeys.scope.universe.read.desc": "Organisasjonens universer med leksikonene og seriene deres",
   "org.apiKeys.scope.universe.write.desc": "Universdetaljer, leksikonoppføringer, serier og oversettelser",
-  "org.apiKeys.scope.universe.translate.desc": "Titler og beskrivelser av universer på andre språk"
+  "org.apiKeys.scope.universe.translate.desc": "Titler og beskrivelser av universer på andre språk",
+  "org.apiKeys.scope.community.read": "Lese fellesskapet",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for organisasjonens blogginnlegg, e-postlister med abonnentenes e-postadresser, arrangementer og fanklubbmedlemmer"
 }

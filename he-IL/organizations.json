@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "פרסום או תזמון של פרקים בסיפורים אלה",
   "org.apiKeys.scope.universe.read.desc": "היקומים של הארגון עם האנציקלופדיות והסדרות שלהם",
   "org.apiKeys.scope.universe.write.desc": "פרטי היקום, ערכי אנציקלופדיה, סדרות ותרגומים",
-  "org.apiKeys.scope.universe.translate.desc": "כותרות ותיאורים של יקומים בשפות אחרות"
+  "org.apiKeys.scope.universe.translate.desc": "כותרות ותיאורים של יקומים בשפות אחרות",
+  "org.apiKeys.scope.community.read": "קריאת הקהילה",
+  "org.apiKeys.scope.community.read.desc": "Webhooks לפוסטים בבלוג של הארגון, לרשימת התפוצה עם כתובות האימייל של המנויים, לאירועים ולחברי מועדון המעריצים"
 }

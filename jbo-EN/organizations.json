@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "gubgau ja ba gubgau lo ckupau be le vi cfika",
   "org.apiKeys.scope.universe.read.desc": "lo kensa pe le jecta jo'u lo ri sitna cukta .e lo ri lisri porsi",
   "org.apiKeys.scope.universe.write.desc": "lo tcila be lo kensa .e lo sitna cukta pagbu .e lo lisri porsi .e lo se fanva",
-  "org.apiKeys.scope.universe.translate.desc": "lo cmene .e lo velski be lo kensa bau lo drata bangu"
+  "org.apiKeys.scope.universe.translate.desc": "lo cmene .e lo velski be lo kensa bau lo drata bangu",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

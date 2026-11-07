@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "نشر فصول هذه القصص أو جدولتها",
   "org.apiKeys.scope.universe.read.desc": "أكوان المنظمة مع موسوعاتها وسلاسلها",
   "org.apiKeys.scope.universe.write.desc": "تفاصيل الكون، وإدخالات الموسوعة، والسلاسل والترجمات",
-  "org.apiKeys.scope.universe.translate.desc": "عناوين الأكوان وأوصافها بلغات أخرى"
+  "org.apiKeys.scope.universe.translate.desc": "عناوين الأكوان وأوصافها بلغات أخرى",
+  "org.apiKeys.scope.community.read": "قراءة مجتمع المنظمة",
+  "org.apiKeys.scope.community.read.desc": "Webhooks لمنشورات مدونة المنظمة، وقائمتها البريدية مع عناوين البريد الإلكتروني للمشتركين، وفعالياتها، وأعضاء نادي المعجبين"
 }

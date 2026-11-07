@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Medalang wiadin jadwalang bab-bab satua puniki",
   "org.apiKeys.scope.universe.read.desc": "Jagat organisasi sareng ensiklopedi miwah seri ipun",
   "org.apiKeys.scope.universe.write.desc": "Detail jagat, entri ensiklopedi, seri lan terjemahan",
-  "org.apiKeys.scope.universe.translate.desc": "Murda miwah deskripsi jagat ring basa lianan"
+  "org.apiKeys.scope.universe.translate.desc": "Murda miwah deskripsi jagat ring basa lianan",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

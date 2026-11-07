@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "ਇਨ੍ਹਾਂ ਕਹਾਣੀਆਂ ਦੇ ਅਧਿਆਇ ਪ੍ਰਕਾਸ਼ਿਤ ਜਾਂ ਸ਼ਡਿਊਲ ਕਰੋ",
   "org.apiKeys.scope.universe.read.desc": "ਸੰਗਠਨ ਦੇ ਬ੍ਰਹਿਮੰਡ ਉਨ੍ਹਾਂ ਦੇ ਐਨਸਾਈਕਲੋਪੀਡੀਆ ਅਤੇ ਲੜੀਆਂ ਸਮੇਤ",
   "org.apiKeys.scope.universe.write.desc": "ਬ੍ਰਹਿਮੰਡ ਦੇ ਵੇਰਵੇ, ਐਨਸਾਈਕਲੋਪੀਡੀਆ ਐਂਟਰੀਆਂ, ਲੜੀਆਂ ਅਤੇ ਅਨੁਵਾਦ",
-  "org.apiKeys.scope.universe.translate.desc": "ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਬ੍ਰਹਿਮੰਡਾਂ ਦੇ ਸਿਰਲੇਖ ਅਤੇ ਵੇਰਵੇ"
+  "org.apiKeys.scope.universe.translate.desc": "ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਬ੍ਰਹਿਮੰਡਾਂ ਦੇ ਸਿਰਲੇਖ ਅਤੇ ਵੇਰਵੇ",
+  "org.apiKeys.scope.community.read": "ਕਮਿਊਨਿਟੀ ਪੜ੍ਹੋ",
+  "org.apiKeys.scope.community.read.desc": "ਸੰਗਠਨ ਦੀਆਂ ਬਲੌਗ ਪੋਸਟਾਂ, ਸਬਸਕ੍ਰਾਈਬਰਾਂ ਦੇ ਈਮੇਲ ਪਤਿਆਂ ਵਾਲੀ ਮੇਲਿੰਗ ਸੂਚੀ, ਇਵੈਂਟਾਂ ਅਤੇ ਫੈਨ ਕਲੱਬ ਮੈਂਬਰਾਂ ਲਈ Webhooks"
 }

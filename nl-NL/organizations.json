@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Hoofdstukken van deze verhalen publiceren of inplannen",
   "org.apiKeys.scope.universe.read.desc": "De universums van de organisatie met hun encyclopedieën en series",
   "org.apiKeys.scope.universe.write.desc": "Universumgegevens, encyclopedie-items, series en vertalingen",
-  "org.apiKeys.scope.universe.translate.desc": "Titels en beschrijvingen van universums in andere talen"
+  "org.apiKeys.scope.universe.translate.desc": "Titels en beschrijvingen van universums in andere talen",
+  "org.apiKeys.scope.community.read": "De community lezen",
+  "org.apiKeys.scope.community.read.desc": "Webhooks voor de blogberichten van de organisatie, haar mailinglijst met de e-mailadressen van de abonnees, evenementen en leden van de fanclub"
 }

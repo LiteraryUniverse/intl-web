@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publikigi aŭ plani ĉapitrojn de ĉi tiuj rakontoj",
   "org.apiKeys.scope.universe.read.desc": "La universoj de la organizo kun iliaj enciklopedioj kaj serioj",
   "org.apiKeys.scope.universe.write.desc": "Detaloj de universoj, enciklopediaj eroj, serioj kaj tradukoj",
-  "org.apiKeys.scope.universe.translate.desc": "Titoloj kaj priskriboj de universoj en aliaj lingvoj"
+  "org.apiKeys.scope.universe.translate.desc": "Titoloj kaj priskriboj de universoj en aliaj lingvoj",
+  "org.apiKeys.scope.community.read": "Legi la komunumon",
+  "org.apiKeys.scope.community.read.desc": "Webhooks por la blogaj afiŝoj de la organizo, dissendolisto kun la retpoŝtadresoj de abonantoj, eventoj kaj fanklubanoj"
 }

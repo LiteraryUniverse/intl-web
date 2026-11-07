@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Julkaise tai ajasta näiden tarinoiden lukuja",
   "org.apiKeys.scope.universe.read.desc": "Organisaation universumit tietosanakirjoineen ja sarjoineen",
   "org.apiKeys.scope.universe.write.desc": "Universumin tiedot, tietosanakirjamerkinnät, sarjat ja käännökset",
-  "org.apiKeys.scope.universe.translate.desc": "Universumien nimet ja kuvaukset muilla kielillä"
+  "org.apiKeys.scope.universe.translate.desc": "Universumien nimet ja kuvaukset muilla kielillä",
+  "org.apiKeys.scope.community.read": "Lue yhteisön tiedot",
+  "org.apiKeys.scope.community.read.desc": "Webhookit organisaation blogikirjoituksille, postituslistalle tilaajien sähköpostiosoitteineen, tapahtumille ja faniklubin jäsenille"
 }

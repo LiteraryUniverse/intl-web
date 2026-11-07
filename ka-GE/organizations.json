@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "ამ ისტორიების თავების გამოქვეყნება ან დაგეგმვა",
   "org.apiKeys.scope.universe.read.desc": "ორგანიზაციის უნივერსები მათი ენციკლოპედიებითა და სერიებით",
   "org.apiKeys.scope.universe.write.desc": "უნივერსის დეტალები, ენციკლოპედიის სტატიები, სერიები და თარგმანები",
-  "org.apiKeys.scope.universe.translate.desc": "უნივერსების სათაურები და აღწერები სხვა ენებზე"
+  "org.apiKeys.scope.universe.translate.desc": "უნივერსების სათაურები და აღწერები სხვა ენებზე",
+  "org.apiKeys.scope.community.read": "საზოგადოების წაკითხვა",
+  "org.apiKeys.scope.community.read.desc": "Webhook-ები ორგანიზაციის ბლოგის პოსტებისთვის, საფოსტო სიისთვის გამომწერთა ელფოსტის მისამართებით, ღონისძიებებისა და ფან კლუბის წევრებისთვის"
 }

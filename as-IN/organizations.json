@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "এই গল্পসমূহৰ অধ্যায় প্ৰকাশ বা সময়সূচীবদ্ধ কৰা",
   "org.apiKeys.scope.universe.read.desc": "সংগঠনৰ বিশ্বসমূহ সিহঁতৰ বিশ্বকোষ আৰু ছিৰিজসহ",
   "org.apiKeys.scope.universe.write.desc": "বিশ্বৰ বিৱৰণ, বিশ্বকোষৰ প্ৰৱিষ্টি, ছিৰিজ আৰু অনুবাদ",
-  "org.apiKeys.scope.universe.translate.desc": "আন ভাষাত বিশ্বসমূহৰ শিৰোনাম আৰু বিৱৰণ"
+  "org.apiKeys.scope.universe.translate.desc": "আন ভাষাত বিশ্বসমূহৰ শিৰোনাম আৰু বিৱৰণ",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

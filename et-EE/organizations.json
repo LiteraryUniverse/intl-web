@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Avalda või ajasta nende lugude peatükke",
   "org.apiKeys.scope.universe.read.desc": "Organisatsiooni universumid koos entsüklopeediate ja sarjadega",
   "org.apiKeys.scope.universe.write.desc": "Universumi andmed, entsüklopeedia sissekanded, sarjad ja tõlked",
-  "org.apiKeys.scope.universe.translate.desc": "Universumite pealkirjad ja kirjeldused teistes keeltes"
+  "org.apiKeys.scope.universe.translate.desc": "Universumite pealkirjad ja kirjeldused teistes keeltes",
+  "org.apiKeys.scope.community.read": "Loe kogukonda",
+  "org.apiKeys.scope.community.read.desc": "Veebihaagid organisatsiooni blogipostituste, postiloendi koos tellijate e-posti aadressidega, sündmuste ja fänniklubi liikmete jaoks"
 }

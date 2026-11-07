@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "या कथांचे अध्याय प्रकाशित किंवा शेड्यूल करा",
   "org.apiKeys.scope.universe.read.desc": "संघटनेची ब्रह्मांडे त्यांच्या विश्वकोश आणि मालिकांसह",
   "org.apiKeys.scope.universe.write.desc": "ब्रह्मांडाचा तपशील, विश्वकोश नोंदी, मालिका आणि भाषांतरे",
-  "org.apiKeys.scope.universe.translate.desc": "इतर भाषांमधील ब्रह्मांडांची शीर्षके आणि वर्णने"
+  "org.apiKeys.scope.universe.translate.desc": "इतर भाषांमधील ब्रह्मांडांची शीर्षके आणि वर्णने",
+  "org.apiKeys.scope.community.read": "समुदाय वाचा",
+  "org.apiKeys.scope.community.read.desc": "संघटनेच्या ब्लॉग पोस्ट, सदस्यांच्या ईमेल पत्त्यांसह तिची मेलिंग लिस्ट, इव्हेंट आणि फॅन क्लब सदस्य यांसाठी वेबहूक"
 }

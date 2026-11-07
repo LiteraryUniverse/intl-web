@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publikuoti arba suplanuoti šių istorijų skyrius",
   "org.apiKeys.scope.universe.read.desc": "Organizacijos visatos su jų enciklopedijomis ir serijomis",
   "org.apiKeys.scope.universe.write.desc": "Visatos informacija, enciklopedijos įrašai, serijos ir vertimai",
-  "org.apiKeys.scope.universe.translate.desc": "Visatų pavadinimai ir aprašymai kitomis kalbomis"
+  "org.apiKeys.scope.universe.translate.desc": "Visatų pavadinimai ir aprašymai kitomis kalbomis",
+  "org.apiKeys.scope.community.read": "Skaityti bendruomenę",
+  "org.apiKeys.scope.community.read.desc": "Webhook organizacijos tinklaraščio įrašams, adresatų sąrašui su prenumeratorių el. pašto adresais, renginiams ir fanų klubo nariams"
 }

@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publikovanie alebo naplánovanie kapitol týchto príbehov",
   "org.apiKeys.scope.universe.read.desc": "Vesmíry organizácie s ich encyklopédiami a sériami",
   "org.apiKeys.scope.universe.write.desc": "Podrobnosti vesmíru, encyklopedické záznamy, série a preklady",
-  "org.apiKeys.scope.universe.translate.desc": "Názvy a popisy vesmírov v iných jazykoch"
+  "org.apiKeys.scope.universe.translate.desc": "Názvy a popisy vesmírov v iných jazykoch",
+  "org.apiKeys.scope.community.read": "Čítanie komunity",
+  "org.apiKeys.scope.community.read.desc": "Webhooky pre príspevky blogu organizácie, zoznam adresátov s e-mailovými adresami odberateľov, podujatia a členov fanklubu"
 }

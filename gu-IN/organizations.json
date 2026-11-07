@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "આ વાર્તાઓના અધ્યાયો પ્રકાશિત અથવા શેડ્યૂલ કરો",
   "org.apiKeys.scope.universe.read.desc": "સંસ્થાનાં બ્રહ્માંડો તેમના જ્ઞાનકોશ અને શ્રેણીઓ સાથે",
   "org.apiKeys.scope.universe.write.desc": "બ્રહ્માંડની વિગતો, જ્ઞાનકોશ એન્ટ્રીઓ, શ્રેણીઓ અને અનુવાદો",
-  "org.apiKeys.scope.universe.translate.desc": "અન્ય ભાષાઓમાં બ્રહ્માંડોનાં શીર્ષકો અને વર્ણનો"
+  "org.apiKeys.scope.universe.translate.desc": "અન્ય ભાષાઓમાં બ્રહ્માંડોનાં શીર્ષકો અને વર્ણનો",
+  "org.apiKeys.scope.community.read": "સમુદાય વાંચો",
+  "org.apiKeys.scope.community.read.desc": "સંસ્થાની બ્લોગ પોસ્ટ, સબ્સ્ક્રાઇબરોના ઇમેઇલ સરનામાં સાથેની મેઇલિંગ લિસ્ટ, ઇવેન્ટ અને ફેન ક્લબ સભ્યો માટે વેબહૂક"
 }

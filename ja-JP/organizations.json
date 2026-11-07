@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "これらの物語の章を公開または予約公開",
   "org.apiKeys.scope.universe.read.desc": "組織の宇宙とその百科事典・シリーズ",
   "org.apiKeys.scope.universe.write.desc": "宇宙の詳細、百科事典の項目、シリーズ、翻訳",
-  "org.apiKeys.scope.universe.translate.desc": "他の言語での宇宙のタイトルと説明"
+  "org.apiKeys.scope.universe.translate.desc": "他の言語での宇宙のタイトルと説明",
+  "org.apiKeys.scope.community.read": "コミュニティの読み取り",
+  "org.apiKeys.scope.community.read.desc": "組織のブログ記事、登録者のメールアドレスを含むメーリングリスト、イベント、ファンクラブ会員に関するWebhook"
 }

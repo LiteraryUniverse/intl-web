@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "एहि कथा सभक अध्याय प्रकाशित वा निर्धारित करू",
   "org.apiKeys.scope.universe.read.desc": "संगठनक ब्रह्मांड ओकर ज्ञानकोष आ शृंखलाक संग",
   "org.apiKeys.scope.universe.write.desc": "ब्रह्मांडक विवरण, ज्ञानकोषक प्रविष्टि, शृंखला आ अनुवाद",
-  "org.apiKeys.scope.universe.translate.desc": "आन भाषामे ब्रह्मांडक शीर्षक आ विवरण"
+  "org.apiKeys.scope.universe.translate.desc": "आन भाषामे ब्रह्मांडक शीर्षक आ विवरण",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "發佈或排程這些故事的章節",
   "org.apiKeys.scope.universe.read.desc": "組織的宇宙及其百科全書與系列",
   "org.apiKeys.scope.universe.write.desc": "宇宙詳細資料、百科全書條目、系列與翻譯",
-  "org.apiKeys.scope.universe.translate.desc": "宇宙在其他語言中的標題與描述"
+  "org.apiKeys.scope.universe.translate.desc": "宇宙在其他語言中的標題與描述",
+  "org.apiKeys.scope.community.read": "讀取社群",
+  "org.apiKeys.scope.community.read.desc": "組織部落格文章、含訂閱者電子郵件地址的郵寄名單、活動與粉絲俱樂部成員的 Webhook"
 }

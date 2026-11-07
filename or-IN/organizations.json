@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "ଏହି ଗଳ୍ପଗୁଡ଼ିକର ଅଧ୍ୟାୟ ପ୍ରକାଶ କିମ୍ବା ସିଡ୍ୟୁଲ୍ କରନ୍ତୁ",
   "org.apiKeys.scope.universe.read.desc": "ସଂଗଠନର ବିଶ୍ୱଗୁଡ଼ିକ ସେଗୁଡ଼ିକର ଏନସାଇକ୍ଲୋପିଡ଼ିଆ ଓ ସିରିଜ୍ ସହିତ",
   "org.apiKeys.scope.universe.write.desc": "ବିଶ୍ୱର ବିବରଣୀ, ଏନସାଇକ୍ଲୋପିଡ଼ିଆ ଏଣ୍ଟ୍ରି, ସିରିଜ୍ ଓ ଅନୁବାଦ",
-  "org.apiKeys.scope.universe.translate.desc": "ଅନ୍ୟ ଭାଷାରେ ବିଶ୍ୱଗୁଡ଼ିକର ଶୀର୍ଷକ ଓ ବିବରଣୀ"
+  "org.apiKeys.scope.universe.translate.desc": "ଅନ୍ୟ ଭାଷାରେ ବିଶ୍ୱଗୁଡ଼ିକର ଶୀର୍ଷକ ଓ ବିବରଣୀ",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

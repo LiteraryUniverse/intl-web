@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "यी कथाहरूका अध्यायहरू प्रकाशित वा तालिकाबद्ध गर्नुहोस्",
   "org.apiKeys.scope.universe.read.desc": "संगठनका ब्रह्माण्डहरू तिनका विश्वकोश र शृङ्खलाहरूसहित",
   "org.apiKeys.scope.universe.write.desc": "ब्रह्माण्डको विवरण, विश्वकोश प्रविष्टिहरू, शृङ्खलाहरू र अनुवादहरू",
-  "org.apiKeys.scope.universe.translate.desc": "अन्य भाषामा ब्रह्माण्डहरूका शीर्षक र विवरण"
+  "org.apiKeys.scope.universe.translate.desc": "अन्य भाषामा ब्रह्माण्डहरूका शीर्षक र विवरण",
+  "org.apiKeys.scope.community.read": "समुदाय पढ्नुहोस्",
+  "org.apiKeys.scope.community.read.desc": "संगठनका ब्लग पोस्टहरू, सदस्यहरूको इमेल ठेगानासहितको मेलिङ लिस्ट, इभेन्टहरू र फ्यान क्लब सदस्यहरूका लागि Webhooks"
 }

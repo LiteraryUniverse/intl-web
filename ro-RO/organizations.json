@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publică sau programează capitole ale acestor povești",
   "org.apiKeys.scope.universe.read.desc": "Universurile organizației cu enciclopediile și seriile lor",
   "org.apiKeys.scope.universe.write.desc": "Detaliile universului, intrările din enciclopedie, seriile și traducerile",
-  "org.apiKeys.scope.universe.translate.desc": "Titlurile și descrierile universurilor în alte limbi"
+  "org.apiKeys.scope.universe.translate.desc": "Titlurile și descrierile universurilor în alte limbi",
+  "org.apiKeys.scope.community.read": "Citirea comunității",
+  "org.apiKeys.scope.community.read.desc": "Webhook-uri pentru postările de blog ale organizației, lista ei de corespondență cu adresele de e-mail ale abonaților, evenimente și membrii fan clubului"
 }

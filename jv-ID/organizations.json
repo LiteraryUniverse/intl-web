@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Terbitake utawa jadwalake bab saka crita-crita iki",
   "org.apiKeys.scope.universe.read.desc": "Jagad organisasi bebarengan karo ensiklopedi lan serine",
   "org.apiKeys.scope.universe.write.desc": "Rincian jagad, entri ensiklopedi, seri, lan terjemahan",
-  "org.apiKeys.scope.universe.translate.desc": "Judhul lan deskripsi jagad ing basa liya"
+  "org.apiKeys.scope.universe.translate.desc": "Judhul lan deskripsi jagad ing basa liya",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

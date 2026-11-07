@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "E történetek fejezeteinek közzététele vagy ütemezése",
   "org.apiKeys.scope.universe.read.desc": "A szervezet univerzumai az enciklopédiáikkal és sorozataikkal",
   "org.apiKeys.scope.universe.write.desc": "Univerzumadatok, enciklopédia-bejegyzések, sorozatok és fordítások",
-  "org.apiKeys.scope.universe.translate.desc": "Univerzumok címei és leírásai más nyelveken"
+  "org.apiKeys.scope.universe.translate.desc": "Univerzumok címei és leírásai más nyelveken",
+  "org.apiKeys.scope.community.read": "A közösség olvasása",
+  "org.apiKeys.scope.community.read.desc": "Webhookok a szervezet blogbejegyzéseihez, a feliratkozók e-mail-címeit tartalmazó levelezőlistához, az eseményekhez és a rajongói klub tagjaihoz"
 }

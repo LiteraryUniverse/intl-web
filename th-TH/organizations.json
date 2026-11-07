@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "เผยแพร่หรือกำหนดเวลาเผยแพร่บทของเรื่องราวเหล่านี้",
   "org.apiKeys.scope.universe.read.desc": "จักรวาลขององค์กรพร้อมสารานุกรมและซีรีส์",
   "org.apiKeys.scope.universe.write.desc": "รายละเอียดจักรวาล รายการสารานุกรม ซีรีส์ และคำแปล",
-  "org.apiKeys.scope.universe.translate.desc": "ชื่อและคำอธิบายของจักรวาลในภาษาอื่น"
+  "org.apiKeys.scope.universe.translate.desc": "ชื่อและคำอธิบายของจักรวาลในภาษาอื่น",
+  "org.apiKeys.scope.community.read": "อ่านข้อมูลชุมชน",
+  "org.apiKeys.scope.community.read.desc": "เว็บฮุกสำหรับโพสต์บล็อกขององค์กร รายชื่ออีเมลพร้อมที่อยู่อีเมลของผู้สมัครรับ กิจกรรม และสมาชิกแฟนคลับ"
 }

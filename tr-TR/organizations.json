@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Bu hikâyelerin bölümlerini yayımlayın veya zamanlayın",
   "org.apiKeys.scope.universe.read.desc": "Kuruluşun ansiklopedileri ve serileriyle birlikte evrenleri",
   "org.apiKeys.scope.universe.write.desc": "Evren ayrıntıları, ansiklopedi girişleri, seriler ve çeviriler",
-  "org.apiKeys.scope.universe.translate.desc": "Evrenlerin diğer dillerdeki başlıkları ve açıklamaları"
+  "org.apiKeys.scope.universe.translate.desc": "Evrenlerin diğer dillerdeki başlıkları ve açıklamaları",
+  "org.apiKeys.scope.community.read": "Topluluğu oku",
+  "org.apiKeys.scope.community.read.desc": "Kuruluşun blog yazıları, abonelerin e-posta adresleriyle birlikte e-posta listesi, etkinlikler ve hayran kulübü üyeleri için webhook'lar"
 }

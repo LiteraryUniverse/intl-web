@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "इन कहानियों के अध्याय प्रकाशित या शेड्यूल करना",
   "org.apiKeys.scope.universe.read.desc": "संगठन के ब्रह्मांड उनके ज्ञानकोशों और श्रृंखलाओं के साथ",
   "org.apiKeys.scope.universe.write.desc": "ब्रह्मांड का विवरण, ज्ञानकोश प्रविष्टियाँ, श्रृंखलाएँ और अनुवाद",
-  "org.apiKeys.scope.universe.translate.desc": "अन्य भाषाओं में ब्रह्मांडों के शीर्षक और विवरण"
+  "org.apiKeys.scope.universe.translate.desc": "अन्य भाषाओं में ब्रह्मांडों के शीर्षक और विवरण",
+  "org.apiKeys.scope.community.read": "समुदाय पढ़ना",
+  "org.apiKeys.scope.community.read.desc": "संगठन के ब्लॉग पोस्ट, सब्सक्राइबरों के ईमेल पतों के साथ उसकी मेलिंग लिस्ट, इवेंट और फ़ैन क्लब सदस्यों के लिए वेबहुक"
 }

@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Pubblicare o programmare i capitoli di queste storie",
   "org.apiKeys.scope.universe.read.desc": "Gli universi dell'organizzazione con le loro enciclopedie e serie",
   "org.apiKeys.scope.universe.write.desc": "Dettagli dell'universo, voci dell'enciclopedia, serie e traduzioni",
-  "org.apiKeys.scope.universe.translate.desc": "Titoli e descrizioni degli universi in altre lingue"
+  "org.apiKeys.scope.universe.translate.desc": "Titoli e descrizioni degli universi in altre lingue",
+  "org.apiKeys.scope.community.read": "Leggere la community",
+  "org.apiKeys.scope.community.read.desc": "Webhook per i post del blog dell'organizzazione, la sua mailing list con gli indirizzi e-mail degli iscritti, gli eventi e i membri del fan club"
 }

@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Terbitkan atau jadualkan bab cerita ini",
   "org.apiKeys.scope.universe.read.desc": "Univers organisasi berserta ensiklopedia dan sirinya",
   "org.apiKeys.scope.universe.write.desc": "Butiran univers, entri ensiklopedia, siri dan terjemahan",
-  "org.apiKeys.scope.universe.translate.desc": "Tajuk dan penerangan univers dalam bahasa lain"
+  "org.apiKeys.scope.universe.translate.desc": "Tajuk dan penerangan univers dalam bahasa lain",
+  "org.apiKeys.scope.community.read": "Baca komuniti",
+  "org.apiKeys.scope.community.read.desc": "Webhook untuk siaran blog organisasi, senarai mel berserta alamat e-mel pelanggan, acara dan ahli kelab peminat"
 }

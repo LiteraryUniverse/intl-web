@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "སྒྲུང་འདི་དག་གི་ལེའུ་སྤེལ་བའམ་དུས་ཚོད་གཏན་འཁེལ་བྱེད་པ།",
   "org.apiKeys.scope.universe.read.desc": "ཚོགས་སྡེའི་འཇིག་རྟེན་ཁམས་དང་དེ་དག་གི་རིག་མཛོད་དང་རིམ་སྒྲུང་།",
   "org.apiKeys.scope.universe.write.desc": "འཇིག་རྟེན་ཁམས་ཀྱི་ཞིབ་ཕྲ། རིག་མཛོད་ཀྱི་ནང་འཇུག རིམ་སྒྲུང་དང་ཡིག་སྒྱུར།",
-  "org.apiKeys.scope.universe.translate.desc": "སྐད་ཡིག་གཞན་དག་ཐོག་གི་འཇིག་རྟེན་ཁམས་ཀྱི་ཁ་བྱང་དང་འགྲེལ་བཤད།"
+  "org.apiKeys.scope.universe.translate.desc": "སྐད་ཡིག་གཞན་དག་ཐོག་གི་འཇིག་རྟེན་ཁམས་ཀྱི་ཁ་བྱང་དང་འགྲེལ་བཤད།",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

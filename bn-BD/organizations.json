@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "এই গল্পগুলির অধ্যায় প্রকাশ বা শিডিউল করা",
   "org.apiKeys.scope.universe.read.desc": "এনসাইক্লোপিডিয়া ও সিরিজসহ সংগঠনের বিশ্বগুলি",
   "org.apiKeys.scope.universe.write.desc": "বিশ্বের বিবরণ, এনসাইক্লোপিডিয়া এন্ট্রি, সিরিজ ও অনুবাদ",
-  "org.apiKeys.scope.universe.translate.desc": "অন্যান্য ভাষায় বিশ্বগুলির শিরোনাম ও বিবরণ"
+  "org.apiKeys.scope.universe.translate.desc": "অন্যান্য ভাষায় বিশ্বগুলির শিরোনাম ও বিবরণ",
+  "org.apiKeys.scope.community.read": "কমিউনিটি পড়া",
+  "org.apiKeys.scope.community.read.desc": "সংগঠনের ব্লগ পোস্ট, সাবস্ক্রাইবারদের ইমেল ঠিকানাসহ মেইলিং লিস্ট, ইভেন্ট এবং ফ্যান ক্লাবের সদস্যদের জন্য ওয়েবহুক"
 }

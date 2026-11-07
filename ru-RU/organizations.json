@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Публикация или планирование глав этих историй",
   "org.apiKeys.scope.universe.read.desc": "Вселенные организации с их энциклопедиями и сериями",
   "org.apiKeys.scope.universe.write.desc": "Сведения о вселенной, статьи энциклопедии, серии и переводы",
-  "org.apiKeys.scope.universe.translate.desc": "Названия и описания вселенных на других языках"
+  "org.apiKeys.scope.universe.translate.desc": "Названия и описания вселенных на других языках",
+  "org.apiKeys.scope.community.read": "Чтение сообщества",
+  "org.apiKeys.scope.community.read.desc": "Вебхуки для записей в блоге организации, рассылок с адресами электронной почты подписчиков, событий и участников фан-клуба"
 }

@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publikowanie lub planowanie rozdziałów tych opowiadań",
   "org.apiKeys.scope.universe.read.desc": "Uniwersa organizacji wraz z ich encyklopediami i seriami",
   "org.apiKeys.scope.universe.write.desc": "Szczegóły uniwersum, wpisy encyklopedii, serie i tłumaczenia",
-  "org.apiKeys.scope.universe.translate.desc": "Tytuły i opisy uniwersów w innych językach"
+  "org.apiKeys.scope.universe.translate.desc": "Tytuły i opisy uniwersów w innych językach",
+  "org.apiKeys.scope.community.read": "Odczyt społeczności",
+  "org.apiKeys.scope.community.read.desc": "Webhooki dla wpisów na blogu organizacji, jej listy mailingowej z adresami e-mail subskrybentów, wydarzeń i członków fanklubu"
 }

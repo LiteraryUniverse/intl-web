@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Foilsigh nó sceidealaigh caibidlí de na scéalta seo",
   "org.apiKeys.scope.universe.read.desc": "Cruinní na heagraíochta lena gciclipéidí agus a sraitheanna",
   "org.apiKeys.scope.universe.write.desc": "Sonraí cruinne, iontrálacha ciclipéide, sraitheanna agus aistriúcháin",
-  "org.apiKeys.scope.universe.translate.desc": "Teidil agus tuairiscí cruinní i dteangacha eile"
+  "org.apiKeys.scope.universe.translate.desc": "Teidil agus tuairiscí cruinní i dteangacha eile",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

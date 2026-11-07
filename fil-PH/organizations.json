@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Mag-publish o mag-iskedyul ng mga kabanata ng mga kuwentong ito",
   "org.apiKeys.scope.universe.read.desc": "Ang mga uniberso ng organisasyon kasama ang mga ensiklopedya at serye nito",
   "org.apiKeys.scope.universe.write.desc": "Mga detalye ng uniberso, mga entry sa ensiklopedya, serye at mga pagsasalin",
-  "org.apiKeys.scope.universe.translate.desc": "Mga pamagat at paglalarawan ng mga uniberso sa ibang wika"
+  "org.apiKeys.scope.universe.translate.desc": "Mga pamagat at paglalarawan ng mga uniberso sa ibang wika",
+  "org.apiKeys.scope.community.read": "Basahin ang komunidad",
+  "org.apiKeys.scope.community.read.desc": "Mga webhook para sa mga post sa blog ng organisasyon, mailing list kasama ang mga email address ng mga subscriber, mga event at mga miyembro ng fan club"
 }

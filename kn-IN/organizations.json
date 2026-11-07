@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "ಈ ಕಥೆಗಳ ಅಧ್ಯಾಯಗಳನ್ನು ಪ್ರಕಟಿಸಿ ಅಥವಾ ನಿಗದಿಪಡಿಸಿ",
   "org.apiKeys.scope.universe.read.desc": "ಸಂಸ್ಥೆಯ ವಿಶ್ವಗಳು ಅವುಗಳ ವಿಜ್ಞಾನಕೋಶಗಳು ಮತ್ತು ಸರಣಿಗಳೊಂದಿಗೆ",
   "org.apiKeys.scope.universe.write.desc": "ವಿಶ್ವದ ವಿವರಗಳು, ವಿಜ್ಞಾನಕೋಶ ಲೇಖನಗಳು, ಸರಣಿಗಳು ಮತ್ತು ಅನುವಾದಗಳು",
-  "org.apiKeys.scope.universe.translate.desc": "ಇತರ ಭಾಷೆಗಳಲ್ಲಿ ವಿಶ್ವಗಳ ಶೀರ್ಷಿಕೆಗಳು ಮತ್ತು ವಿವರಣೆಗಳು"
+  "org.apiKeys.scope.universe.translate.desc": "ಇತರ ಭಾಷೆಗಳಲ್ಲಿ ವಿಶ್ವಗಳ ಶೀರ್ಷಿಕೆಗಳು ಮತ್ತು ವಿವರಣೆಗಳು",
+  "org.apiKeys.scope.community.read": "Read the community",
+  "org.apiKeys.scope.community.read.desc": "Webhooks for the organization's blog posts, mailing list with subscribers' email addresses, events and fan club members"
 }

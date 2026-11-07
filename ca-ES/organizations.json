@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publicar o programar capítols d'aquestes històries",
   "org.apiKeys.scope.universe.read.desc": "Els universos de l'organització amb les seves enciclopèdies i sèries",
   "org.apiKeys.scope.universe.write.desc": "Detalls de l'univers, entrades de l'enciclopèdia, sèries i traduccions",
-  "org.apiKeys.scope.universe.translate.desc": "Títols i descripcions dels universos en altres idiomes"
+  "org.apiKeys.scope.universe.translate.desc": "Títols i descripcions dels universos en altres idiomes",
+  "org.apiKeys.scope.community.read": "Llegir la comunitat",
+  "org.apiKeys.scope.community.read.desc": "Webhooks per a les publicacions del blog de l'organització, la llista de correu amb les adreces electròniques dels subscriptors, els esdeveniments i els membres del fan club"
 }

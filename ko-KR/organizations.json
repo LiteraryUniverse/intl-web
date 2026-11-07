@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "이 이야기들의 챕터를 게시하거나 예약",
   "org.apiKeys.scope.universe.read.desc": "조직의 우주와 그 백과사전 및 시리즈",
   "org.apiKeys.scope.universe.write.desc": "우주 세부 정보, 백과사전 항목, 시리즈 및 번역",
-  "org.apiKeys.scope.universe.translate.desc": "다른 언어로 된 우주의 제목과 설명"
+  "org.apiKeys.scope.universe.translate.desc": "다른 언어로 된 우주의 제목과 설명",
+  "org.apiKeys.scope.community.read": "커뮤니티 읽기",
+  "org.apiKeys.scope.community.read.desc": "조직의 블로그 글, 구독자 이메일 주소가 포함된 메일링 리스트, 이벤트, 팬클럽 회원에 대한 웹훅"
 }

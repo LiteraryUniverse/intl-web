@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Δημοσίευση ή προγραμματισμός κεφαλαίων αυτών των ιστοριών",
   "org.apiKeys.scope.universe.read.desc": "Τα σύμπαντα του οργανισμού με τις εγκυκλοπαίδειες και τις σειρές τους",
   "org.apiKeys.scope.universe.write.desc": "Στοιχεία σύμπαντος, λήμματα εγκυκλοπαίδειας, σειρές και μεταφράσεις",
-  "org.apiKeys.scope.universe.translate.desc": "Τίτλοι και περιγραφές συμπάντων σε άλλες γλώσσες"
+  "org.apiKeys.scope.universe.translate.desc": "Τίτλοι και περιγραφές συμπάντων σε άλλες γλώσσες",
+  "org.apiKeys.scope.community.read": "Ανάγνωση της κοινότητας",
+  "org.apiKeys.scope.community.read.desc": "Webhooks για τις αναρτήσεις του ιστολογίου του οργανισμού, τη λίστα αλληλογραφίας του με τις διευθύνσεις email των συνδρομητών, τις εκδηλώσεις και τα μέλη του fan club"
 }

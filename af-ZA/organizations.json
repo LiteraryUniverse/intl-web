@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "Publiseer of skeduleer hoofstukke van hierdie stories",
   "org.apiKeys.scope.universe.read.desc": "Die organisasie se heelalle met hul ensiklopedieë en reekse",
   "org.apiKeys.scope.universe.write.desc": "Heelal-inligting, ensiklopedie-inskrywings, reekse en vertalings",
-  "org.apiKeys.scope.universe.translate.desc": "Titels en beskrywings van heelalle in ander tale"
+  "org.apiKeys.scope.universe.translate.desc": "Titels en beskrywings van heelalle in ander tale",
+  "org.apiKeys.scope.community.read": "Lees die gemeenskap",
+  "org.apiKeys.scope.community.read.desc": "Webhooks vir die organisasie se blogplasings, possyslys met intekenaars se e-posadresse, geleenthede en ondersteunersklublede"
 }

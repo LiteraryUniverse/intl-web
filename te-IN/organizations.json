@@ -330,5 +330,7 @@
   "org.apiKeys.scope.story.publish.desc": "ఈ కథల అధ్యాయాలను ప్రచురించండి లేదా షెడ్యూల్ చేయండి",
   "org.apiKeys.scope.universe.read.desc": "సంస్థ యూనివర్స్‌లు, వాటి ఎన్‌సైక్లోపీడియాలు మరియు సిరీస్‌లతో",
   "org.apiKeys.scope.universe.write.desc": "యూనివర్స్ వివరాలు, ఎన్‌సైక్లోపీడియా ఎంట్రీలు, సిరీస్‌లు మరియు అనువాదాలు",
-  "org.apiKeys.scope.universe.translate.desc": "ఇతర భాషల్లో యూనివర్స్‌ల శీర్షికలు మరియు వివరణలు"
+  "org.apiKeys.scope.universe.translate.desc": "ఇతర భాషల్లో యూనివర్స్‌ల శీర్షికలు మరియు వివరణలు",
+  "org.apiKeys.scope.community.read": "కమ్యూనిటీని చదవండి",
+  "org.apiKeys.scope.community.read.desc": "సంస్థ బ్లాగ్ పోస్ట్‌లు, సబ్‌స్క్రైబర్‌ల ఇమెయిల్ చిరునామాలతో మెయిలింగ్ జాబితా, ఈవెంట్‌లు మరియు ఫాన్ క్లబ్ సభ్యుల కోసం Webhooks"
 }
