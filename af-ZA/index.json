@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Bestuur",
   "settings.integrations.connected.title": "Gekoppel",
   "settings.integrations.connected.empty": "Niks is nog gekoppel nie. <link>Blaai deur integrasies</link>",
+  "settings.integrations.app.disconnectConfirm": "Ontkoppel {name}? Dit verloor toegang tot jou rekening, en webhooks wat dit opgestel het, hou op werk.",
   "settings.integrations.back": "Alle integrasies",
   "settings.integrations.category.newsletters": "Nuusbriewe",
   "settings.integrations.kit.summary": "Stuur lesers wat by jou blogs se posserye aansluit na jou Kit-rekening.",

@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Hantera",
   "settings.integrations.connected.title": "Kopplade",
   "settings.integrations.connected.empty": "Inget är kopplat ännu. <link>Bläddra bland integrationer</link>",
+  "settings.integrations.app.disconnectConfirm": "Koppla från {name}? Appen förlorar åtkomsten till ditt konto, och webhooks som den har skapat slutar fungera.",
   "settings.integrations.back": "Alla integrationer",
   "settings.integrations.category.newsletters": "Nyhetsbrev",
   "settings.integrations.kit.summary": "Skicka läsare som går med i dina bloggars e-postlistor till ditt Kit-konto.",

@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Διαχείριση",
   "settings.integrations.connected.title": "Συνδεδεμένες",
   "settings.integrations.connected.empty": "Δεν έχει συνδεθεί τίποτα ακόμα. <link>Περιήγηση στις ενσωματώσεις</link>",
+  "settings.integrations.app.disconnectConfirm": "Αποσύνδεση του {name}; Θα χάσει την πρόσβαση στον λογαριασμό σας και τα webhooks που δημιούργησε θα σταματήσουν.",
   "settings.integrations.back": "Όλες οι ενσωματώσεις",
   "settings.integrations.category.newsletters": "Ενημερωτικά δελτία",
   "settings.integrations.kit.summary": "Στείλτε στον λογαριασμό σας στο Kit τους αναγνώστες που εγγράφονται στις λίστες αλληλογραφίας των ιστολογίων σας.",

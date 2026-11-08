@@ -133,6 +133,7 @@
   "settings.integrations.manage": "व्यवस्थापन गर्नुहोस्",
   "settings.integrations.connected.title": "जडान गरिएका",
   "settings.integrations.connected.empty": "अहिलेसम्म केही पनि जडान गरिएको छैन। <link>इन्टिग्रेसनहरू हेर्नुहोस्</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} विच्छेद गर्ने? यसले तपाईंको खातामा पहुँच गुमाउनेछ, र यसले सेट गरेका वेबहुकहरू रोकिनेछन्।",
   "settings.integrations.back": "सबै इन्टिग्रेसनहरू",
   "settings.integrations.category.newsletters": "न्युजलेटरहरू",
   "settings.integrations.kit.summary": "आफ्ना ब्लगका मेलिङ लिस्टमा जोडिने पाठकहरूलाई आफ्नो Kit खातामा पठाउनुहोस्।",

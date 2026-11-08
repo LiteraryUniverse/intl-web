@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Urus",
   "settings.integrations.connected.title": "Disambungkan",
   "settings.integrations.connected.empty": "Belum ada apa-apa yang disambungkan. <link>Lihat integrasi</link>",
+  "settings.integrations.app.disconnectConfirm": "Putuskan sambungan {name}? Ia akan kehilangan akses ke akaun anda, dan webhook yang disediakannya akan berhenti.",
   "settings.integrations.back": "Semua integrasi",
   "settings.integrations.category.newsletters": "Surat berita",
   "settings.integrations.kit.summary": "Hantar pembaca yang menyertai senarai mel blog anda ke akaun Kit anda.",

@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "നിയന്ത്രിക്കുക",
   "settings.integrations.connected.title": "ബന്ധിപ്പിച്ചവ",
   "settings.integrations.connected.empty": "ഇതുവരെ ഒന്നും ബന്ധിപ്പിച്ചിട്ടില്ല. <link>ഇന്റഗ്രേഷനുകൾ കാണുക</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} വിച്ഛേദിക്കണോ? ഇതിന് നിങ്ങളുടെ അക്കൗണ്ടിലേക്കുള്ള ആക്‌സസ് നഷ്ടമാകും, ഇത് സജ്ജമാക്കിയ വെബ്‌ഹുക്കുകൾ നിലയ്ക്കും.",
   "settings.integrations.back": "എല്ലാ ഇന്റഗ്രേഷനുകളും",
   "settings.integrations.category.newsletters": "വാർത്താക്കത്തുകൾ",
   "settings.integrations.kit.summary": "നിങ്ങളുടെ ബ്ലോഗുകളുടെ മെയിലിംഗ് ലിസ്റ്റുകളിൽ ചേരുന്ന വായനക്കാരെ നിങ്ങളുടെ Kit അക്കൗണ്ടിലേക്ക് അയയ്ക്കുക.",

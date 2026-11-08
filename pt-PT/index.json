@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Gerir",
   "settings.integrations.connected.title": "Ligadas",
   "settings.integrations.connected.empty": "Ainda não há nada ligado. <link>Explorar integrações</link>",
+  "settings.integrations.app.disconnectConfirm": "Desligar {name}? A aplicação perderá o acesso à sua conta e os webhooks que configurou deixarão de funcionar.",
   "settings.integrations.back": "Todas as integrações",
   "settings.integrations.category.newsletters": "Newsletters",
   "settings.integrations.kit.summary": "Envie para a sua conta do Kit os leitores que aderem às listas de correio dos seus blogues.",

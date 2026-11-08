@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Hallinnoi",
   "settings.integrations.connected.title": "Yhdistetyt",
   "settings.integrations.connected.empty": "Mitään ei ole vielä yhdistetty. <link>Selaa integraatioita</link>",
+  "settings.integrations.app.disconnectConfirm": "Katkaistaanko yhteys sovellukseen {name}? Se menettää pääsyn tiliisi, ja sen luomat webhookit lakkaavat toimimasta.",
   "settings.integrations.back": "Kaikki integraatiot",
   "settings.integrations.category.newsletters": "Uutiskirjeet",
   "settings.integrations.kit.summary": "Lähetä blogiesi postituslistoille liittyvät lukijat Kit-tilillesi.",

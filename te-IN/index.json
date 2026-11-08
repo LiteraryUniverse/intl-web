@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "నిర్వహించండి",
   "settings.integrations.connected.title": "కనెక్ట్ అయినవి",
   "settings.integrations.connected.empty": "ఇంకా ఏదీ కనెక్ట్ కాలేదు. <link>ఇంటిగ్రేషన్‌లను చూడండి</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} డిస్‌కనెక్ట్ చేయాలా? ఇది మీ ఖాతాకు యాక్సెస్ కోల్పోతుంది, ఇది సెట్ చేసిన వెబ్‌హుక్‌లు ఆగిపోతాయి.",
   "settings.integrations.back": "అన్ని ఇంటిగ్రేషన్‌లు",
   "settings.integrations.category.newsletters": "వార్తాలేఖలు",
   "settings.integrations.kit.summary": "మీ బ్లాగ్ మెయిలింగ్ జాబితాలలో చేరిన పాఠకులను మీ Kit ఖాతాకు పంపండి.",

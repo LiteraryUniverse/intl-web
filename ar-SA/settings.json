@@ -133,6 +133,7 @@
   "settings.integrations.manage": "إدارة",
   "settings.integrations.connected.title": "المتصلة",
   "settings.integrations.connected.empty": "لا يوجد شيء متصل بعد. <link>تصفح التكاملات</link>",
+  "settings.integrations.app.disconnectConfirm": "هل تريد فصل {name}؟ سيفقد الوصول إلى حسابك، وستتوقف خطافات الويب التي أعدّها.",
   "settings.integrations.back": "كل التكاملات",
   "settings.integrations.category.newsletters": "النشرات البريدية",
   "settings.integrations.kit.summary": "أرسل القراء الذين ينضمون إلى القوائم البريدية لمدوناتك إلى حسابك في Kit.",

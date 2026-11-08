@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Pamahalaan",
   "settings.integrations.connected.title": "Nakakonekta",
   "settings.integrations.connected.empty": "Wala pang nakakonekta. <link>Tingnan ang mga integrasyon</link>",
+  "settings.integrations.app.disconnectConfirm": "Idiskonekta ang {name}? Mawawalan ito ng access sa iyong account, at hihinto ang mga webhook na itinakda nito.",
   "settings.integrations.back": "Lahat ng integrasyon",
   "settings.integrations.category.newsletters": "Mga Newsletter",
   "settings.integrations.kit.summary": "Ipadala sa iyong Kit account ang mga mambabasang sumasali sa mga mailing list ng iyong mga blog.",

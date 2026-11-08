@@ -133,6 +133,7 @@
   "settings.integrations.manage": "ניהול",
   "settings.integrations.connected.title": "מחוברות",
   "settings.integrations.connected.empty": "עדיין לא חובר דבר. <link>עיון באינטגרציות</link>",
+  "settings.integrations.app.disconnectConfirm": "לנתק את {name}? הוא יאבד את הגישה לחשבון שלך, ו־Webhooks שהגדיר יפסיקו לפעול.",
   "settings.integrations.back": "כל האינטגרציות",
   "settings.integrations.category.newsletters": "ניוזלטרים",
   "settings.integrations.kit.summary": "שלחו לחשבון ה-Kit שלכם קוראים שמצטרפים לרשימות התפוצה של הבלוגים שלכם.",

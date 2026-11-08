@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Quản lý",
   "settings.integrations.connected.title": "Đã kết nối",
   "settings.integrations.connected.empty": "Chưa có kết nối nào. <link>Xem các tích hợp</link>",
+  "settings.integrations.app.disconnectConfirm": "Ngắt kết nối {name}? Ứng dụng sẽ mất quyền truy cập vào tài khoản của bạn và các webhook mà nó đã thiết lập sẽ dừng.",
   "settings.integrations.back": "Tất cả tích hợp",
   "settings.integrations.category.newsletters": "Bản tin",
   "settings.integrations.kit.summary": "Chuyển độc giả tham gia danh sách gửi thư của các blog của bạn sang tài khoản Kit của bạn.",

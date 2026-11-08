@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Verwalten",
   "settings.integrations.connected.title": "Verbunden",
   "settings.integrations.connected.empty": "Noch ist nichts verbunden. <link>Integrationen durchsuchen</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} trennen? Die App verliert den Zugriff auf dein Konto, und die von ihr eingerichteten Webhooks werden beendet.",
   "settings.integrations.back": "Alle Integrationen",
   "settings.integrations.category.newsletters": "Newsletter",
   "settings.integrations.kit.summary": "Sende Leser, die den Mailinglisten deiner Blogs beitreten, an dein Kit-Konto.",

@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Yönet",
   "settings.integrations.connected.title": "Bağlı",
   "settings.integrations.connected.empty": "Henüz hiçbir şey bağlı değil. <link>Entegrasyonlara göz at</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} bağlantısı kesilsin mi? Hesabınıza erişimini kaybeder ve kurduğu webhook'lar durur.",
   "settings.integrations.back": "Tüm entegrasyonlar",
   "settings.integrations.category.newsletters": "Bültenler",
   "settings.integrations.kit.summary": "Bloglarınızın e-posta listelerine katılan okurları Kit hesabınıza gönderin.",

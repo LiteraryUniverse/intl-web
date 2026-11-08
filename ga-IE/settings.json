@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Manage",
   "settings.integrations.connected.title": "Connected",
   "settings.integrations.connected.empty": "Nothing is connected yet. <link>Browse integrations</link>",
+  "settings.integrations.app.disconnectConfirm": "Disconnect {name}? It loses access to your account, and webhooks it set up stop.",
   "settings.integrations.back": "All integrations",
   "settings.integrations.category.newsletters": "Nuachtlitreacha",
   "settings.integrations.kit.summary": "Seol chuig do chuntas Kit na léitheoirí a chláraíonn le liostaí seoltaí do bhlaganna.",

@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Manage",
   "settings.integrations.connected.title": "Connected",
   "settings.integrations.connected.empty": "Nothing is connected yet. <link>Browse integrations</link>",
+  "settings.integrations.app.disconnectConfirm": "Disconnect {name}? It loses access to your account, and webhooks it set up stop.",
   "settings.integrations.back": "All integrations",
   "settings.integrations.category.newsletters": "বাতৰিচিঠি",
   "settings.integrations.kit.summary": "আপোনাৰ ব্লগৰ মেইলিং তালিকাত যোগ দিয়া পাঠকসকলক আপোনাৰ Kit একাউণ্টলৈ পঠিয়াওক।",

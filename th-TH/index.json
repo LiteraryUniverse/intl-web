@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "จัดการ",
   "settings.integrations.connected.title": "เชื่อมต่อแล้ว",
   "settings.integrations.connected.empty": "ยังไม่มีการเชื่อมต่อใด ๆ <link>ดูการเชื่อมต่อทั้งหมด</link>",
+  "settings.integrations.app.disconnectConfirm": "ยกเลิกการเชื่อมต่อ {name} หรือไม่ แอปจะไม่สามารถเข้าถึงบัญชีของคุณได้อีก และเว็บฮุกที่แอปตั้งค่าไว้จะหยุดทำงาน",
   "settings.integrations.back": "การเชื่อมต่อทั้งหมด",
   "settings.integrations.category.newsletters": "จดหมายข่าว",
   "settings.integrations.kit.summary": "ส่งผู้อ่านที่เข้าร่วมรายชื่ออีเมลของบล็อกคุณไปยังบัญชี Kit ของคุณ",

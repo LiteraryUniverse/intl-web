@@ -133,6 +133,7 @@
   "settings.integrations.manage": "व्यवस्थापित करा",
   "settings.integrations.connected.title": "जोडलेले",
   "settings.integrations.connected.empty": "अद्याप काहीही जोडलेले नाही. <link>इंटिग्रेशन पाहा</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} डिस्कनेक्ट करायचे? त्याला तुमच्या खात्याचा प्रवेश राहणार नाही, आणि त्याने सेट केलेले वेबहुक थांबतील.",
   "settings.integrations.back": "सर्व इंटिग्रेशन",
   "settings.integrations.category.newsletters": "न्यूजलेटर",
   "settings.integrations.kit.summary": "तुमच्या ब्लॉगच्या मेलिंग लिस्टमध्ये सामील होणारे वाचक तुमच्या Kit खात्यात पाठवा.",

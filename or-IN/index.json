@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Manage",
   "settings.integrations.connected.title": "Connected",
   "settings.integrations.connected.empty": "Nothing is connected yet. <link>Browse integrations</link>",
+  "settings.integrations.app.disconnectConfirm": "Disconnect {name}? It loses access to your account, and webhooks it set up stop.",
   "settings.integrations.back": "All integrations",
   "settings.integrations.category.newsletters": "ନ୍ୟୁଜଲେଟର",
   "settings.integrations.kit.summary": "ଆପଣଙ୍କ ବ୍ଲଗର ମେଲିଂ ତାଲିକାରେ ଯୋଗ ଦେଉଥିବା ପାଠକମାନଙ୍କୁ ଆପଣଙ୍କ Kit ଆକାଉଣ୍ଟକୁ ପଠାନ୍ତୁ।",

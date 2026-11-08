@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Spravovať",
   "settings.integrations.connected.title": "Pripojené",
   "settings.integrations.connected.empty": "Zatiaľ nie je nič pripojené. <link>Prehliadať integrácie</link>",
+  "settings.integrations.app.disconnectConfirm": "Odpojiť {name}? Stratí prístup k vášmu účtu a webhooky, ktoré nastavil, prestanú fungovať.",
   "settings.integrations.back": "Všetky integrácie",
   "settings.integrations.category.newsletters": "Newslettery",
   "settings.integrations.kit.summary": "Posielajte do svojho účtu v Kit čitateľov, ktorí sa pridajú do zoznamov adresátov vašich blogov.",

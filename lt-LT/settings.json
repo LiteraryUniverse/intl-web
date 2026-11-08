@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Tvarkyti",
   "settings.integrations.connected.title": "Prijungtos",
   "settings.integrations.connected.empty": "Kol kas niekas neprijungta. <link>Naršyti integracijas</link>",
+  "settings.integrations.app.disconnectConfirm": "Atjungti {name}? Programa neteks prieigos prie jūsų paskyros, o jos sukurti webhooks nustos veikti.",
   "settings.integrations.back": "Visos integracijos",
   "settings.integrations.category.newsletters": "Naujienlaiškiai",
   "settings.integrations.kit.summary": "Siųskite į savo Kit paskyrą skaitytojus, prisijungusius prie jūsų tinklaraščių pašto sąrašų.",

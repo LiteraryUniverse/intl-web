@@ -133,6 +133,7 @@
   "settings.integrations.manage": "관리",
   "settings.integrations.connected.title": "연결됨",
   "settings.integrations.connected.empty": "아직 연결된 항목이 없습니다. <link>연동 둘러보기</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} 연결을 해제할까요? 계정에 접근할 수 없게 되며, 이 앱이 설정한 웹훅도 중지됩니다.",
   "settings.integrations.back": "모든 연동",
   "settings.integrations.category.newsletters": "뉴스레터",
   "settings.integrations.kit.summary": "블로그 메일링 리스트에 참여한 독자를 Kit 계정으로 보내세요.",

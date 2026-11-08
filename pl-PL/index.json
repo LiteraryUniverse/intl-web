@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Zarządzaj",
   "settings.integrations.connected.title": "Połączone",
   "settings.integrations.connected.empty": "Nic jeszcze nie jest połączone. <link>Przeglądaj integracje</link>",
+  "settings.integrations.app.disconnectConfirm": "Odłączyć {name}? Aplikacja straci dostęp do Twojego konta, a utworzone przez nią webhooki przestaną działać.",
   "settings.integrations.back": "Wszystkie integracje",
   "settings.integrations.category.newsletters": "Newslettery",
   "settings.integrations.kit.summary": "Przekazuj na swoje konto w Kit czytelników, którzy dołączają do list mailingowych Twoich blogów.",

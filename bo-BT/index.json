@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Manage",
   "settings.integrations.connected.title": "Connected",
   "settings.integrations.connected.empty": "Nothing is connected yet. <link>Browse integrations</link>",
+  "settings.integrations.app.disconnectConfirm": "Disconnect {name}? It loses access to your account, and webhooks it set up stop.",
   "settings.integrations.back": "All integrations",
   "settings.integrations.category.newsletters": "གསར་འགྱུར་ཡིག་ཆུང་།",
   "settings.integrations.kit.summary": "ཁྱེད་ཀྱི་ཟིན་བྲིས་ཀྱི་གློག་འཕྲིན་ཐོ་གཞུང་དུ་ཞུགས་པའི་ཀློག་མཁན་རྣམས་ཁྱེད་ཀྱི་ Kit ཐོ་ཁོངས་སུ་གཏོང་།",

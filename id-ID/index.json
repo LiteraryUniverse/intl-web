@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Kelola",
   "settings.integrations.connected.title": "Terhubung",
   "settings.integrations.connected.empty": "Belum ada yang terhubung. <link>Jelajahi integrasi</link>",
+  "settings.integrations.app.disconnectConfirm": "Putuskan {name}? Aplikasi ini akan kehilangan akses ke akun Anda, dan webhook yang dibuatnya akan berhenti.",
   "settings.integrations.back": "Semua integrasi",
   "settings.integrations.category.newsletters": "Buletin",
   "settings.integrations.kit.summary": "Kirim pembaca yang bergabung di milis blog Anda ke akun Kit Anda.",

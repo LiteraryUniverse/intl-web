@@ -133,6 +133,7 @@
   "settings.integrations.manage": "管理",
   "settings.integrations.connected.title": "接続済み",
   "settings.integrations.connected.empty": "まだ何も接続されていません。<link>連携を見る</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} の接続を解除しますか？アカウントへのアクセスが失われ、このアプリが設定した Webhook も停止します。",
   "settings.integrations.back": "すべての連携",
   "settings.integrations.category.newsletters": "ニュースレター",
   "settings.integrations.kit.summary": "ブログのメーリングリストに参加した読者をKitアカウントに送ります。",

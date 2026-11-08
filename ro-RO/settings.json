@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Gestionează",
   "settings.integrations.connected.title": "Conectate",
   "settings.integrations.connected.empty": "Nimic nu este conectat încă. <link>Răsfoiește integrările</link>",
+  "settings.integrations.app.disconnectConfirm": "Deconectezi {name}? Va pierde accesul la contul tău, iar webhook-urile configurate de aplicație se vor opri.",
   "settings.integrations.back": "Toate integrările",
   "settings.integrations.category.newsletters": "Newslettere",
   "settings.integrations.kit.summary": "Trimite în contul tău Kit cititorii care se alătură listelor de corespondență ale blogurilor tale.",

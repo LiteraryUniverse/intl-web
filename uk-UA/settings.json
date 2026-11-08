@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Керувати",
   "settings.integrations.connected.title": "Підключені",
   "settings.integrations.connected.empty": "Поки що нічого не підключено. <link>Переглянути інтеграції</link>",
+  "settings.integrations.app.disconnectConfirm": "Від’єднати {name}? Застосунок втратить доступ до вашого облікового запису, а налаштовані ним вебхуки перестануть працювати.",
   "settings.integrations.back": "Усі інтеграції",
   "settings.integrations.category.newsletters": "Розсилки",
   "settings.integrations.kit.summary": "Передавайте до свого облікового запису Kit читачів, які підписуються на списки розсилки ваших блогів.",

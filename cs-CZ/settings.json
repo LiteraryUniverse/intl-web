@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Spravovat",
   "settings.integrations.connected.title": "Propojené",
   "settings.integrations.connected.empty": "Zatím není nic propojeno. <link>Procházet integrace</link>",
+  "settings.integrations.app.disconnectConfirm": "Odpojit {name}? Ztratí přístup k vašemu účtu a webhooky, které nastavil, přestanou fungovat.",
   "settings.integrations.back": "Všechny integrace",
   "settings.integrations.category.newsletters": "Newslettery",
   "settings.integrations.kit.summary": "Posílejte čtenáře, kteří se přihlásí k odběru vašich blogů, do svého účtu v Kitu.",

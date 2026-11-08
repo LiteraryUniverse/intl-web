@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "পরিচালনা",
   "settings.integrations.connected.title": "সংযুক্ত",
   "settings.integrations.connected.empty": "এখনও কিছু সংযুক্ত নেই। <link>ইন্টিগ্রেশন দেখুন</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} সংযোগ বিচ্ছিন্ন করবেন? এটি আপনার অ্যাকাউন্টে অ্যাক্সেস হারাবে, এবং এর সেট করা ওয়েবহুকগুলো বন্ধ হয়ে যাবে।",
   "settings.integrations.back": "সব ইন্টিগ্রেশন",
   "settings.integrations.category.newsletters": "নিউজলেটার",
   "settings.integrations.kit.summary": "আপনার ব্লগের মেইলিং লিস্টে যোগ দেওয়া পাঠকদের আপনার Kit অ্যাকাউন্টে পাঠান।",

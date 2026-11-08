@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Управлять",
   "settings.integrations.connected.title": "Подключённые",
   "settings.integrations.connected.empty": "Пока ничего не подключено. <link>Посмотреть интеграции</link>",
+  "settings.integrations.app.disconnectConfirm": "Отключить {name}? Приложение потеряет доступ к вашему аккаунту, а настроенные им вебхуки перестанут работать.",
   "settings.integrations.back": "Все интеграции",
   "settings.integrations.category.newsletters": "Рассылки",
   "settings.integrations.kit.summary": "Передавайте в свой аккаунт Kit читателей, подписавшихся на списки рассылки ваших блогов.",

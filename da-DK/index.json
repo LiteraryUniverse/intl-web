@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Administrer",
   "settings.integrations.connected.title": "Forbundne",
   "settings.integrations.connected.empty": "Intet er forbundet endnu. <link>Gennemse integrationer</link>",
+  "settings.integrations.app.disconnectConfirm": "Afbryd forbindelsen til {name}? Den mister adgang til din konto, og de webhooks, den har oprettet, stopper.",
   "settings.integrations.back": "Alle integrationer",
   "settings.integrations.category.newsletters": "Nyhedsbreve",
   "settings.integrations.kit.summary": "Send læsere, der tilmelder sig dine blogs' mailinglister, til din Kit-konto.",

@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Mastrumi",
   "settings.integrations.connected.title": "Konektitaj",
   "settings.integrations.connected.empty": "Nenio estas konektita ankoraŭ. <link>Foliumi integriĝojn</link>",
+  "settings.integrations.app.disconnectConfirm": "Malkonekti {name}? Ĝi perdos aliron al via konto, kaj la webhooks, kiujn ĝi agordis, ĉesos.",
   "settings.integrations.back": "Ĉiuj integriĝoj",
   "settings.integrations.category.newsletters": "Novaĵleteroj",
   "settings.integrations.kit.summary": "Sendu al via Kit-konto la legantojn, kiuj aliĝas al la dissendolistoj de viaj blogoj.",

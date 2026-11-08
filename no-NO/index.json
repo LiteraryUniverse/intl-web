@@ -6124,6 +6124,7 @@
   "settings.integrations.manage": "Administrer",
   "settings.integrations.connected.title": "Tilkoblet",
   "settings.integrations.connected.empty": "Ingenting er tilkoblet ennå. <link>Bla gjennom integrasjoner</link>",
+  "settings.integrations.app.disconnectConfirm": "Koble fra {name}? Den mister tilgangen til kontoen din, og webhookene den har satt opp, stopper.",
   "settings.integrations.back": "Alle integrasjoner",
   "settings.integrations.category.newsletters": "Nyhetsbrev",
   "settings.integrations.kit.summary": "Send lesere som blir med på e-postlistene til bloggene dine, til Kit-kontoen din.",

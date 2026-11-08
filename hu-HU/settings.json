@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Kezelés",
   "settings.integrations.connected.title": "Csatlakoztatva",
   "settings.integrations.connected.empty": "Még semmi sincs csatlakoztatva. <link>Integrációk böngészése</link>",
+  "settings.integrations.app.disconnectConfirm": "Leválasztod a(z) {name} alkalmazást? Elveszíti a hozzáférést a fiókodhoz, és az általa beállított webhookok leállnak.",
   "settings.integrations.back": "Összes integráció",
   "settings.integrations.category.newsletters": "Hírlevelek",
   "settings.integrations.kit.summary": "Küldd a blogjaid levelezőlistáira feliratkozó olvasókat a Kit-fiókodba.",

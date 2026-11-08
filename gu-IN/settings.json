@@ -133,6 +133,7 @@
   "settings.integrations.manage": "સંચાલન કરો",
   "settings.integrations.connected.title": "જોડાયેલ",
   "settings.integrations.connected.empty": "હજી કંઈ જોડાયેલ નથી. <link>એકીકરણો જુઓ</link>",
+  "settings.integrations.app.disconnectConfirm": "{name} ડિસ્કનેક્ટ કરવું છે? તે તમારા એકાઉન્ટની ઍક્સેસ ગુમાવશે, અને તેણે સેટ કરેલા વેબહૂક બંધ થઈ જશે.",
   "settings.integrations.back": "બધાં એકીકરણો",
   "settings.integrations.category.newsletters": "ન્યૂઝલેટર",
   "settings.integrations.kit.summary": "તમારા બ્લોગના મેઇલિંગ લિસ્ટમાં જોડાતા વાચકોને તમારા Kit ખાતામાં મોકલો.",

@@ -133,6 +133,7 @@
   "settings.integrations.manage": "Gérer",
   "settings.integrations.connected.title": "Connectées",
   "settings.integrations.connected.empty": "Rien n’est encore connecté. <link>Parcourir les intégrations</link>",
+  "settings.integrations.app.disconnectConfirm": "Déconnecter {name} ? L’application perdra l’accès à votre compte et les webhooks qu’elle a configurés s’arrêteront.",
   "settings.integrations.back": "Toutes les intégrations",
   "settings.integrations.category.newsletters": "Newsletters",
   "settings.integrations.kit.summary": "Envoyez vers votre compte Kit les lecteurs qui s'inscrivent aux listes de diffusion de vos blogs.",
