@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Verwijderen",
   "settings.webhooks.chooseEvents": "Kies minstens één gebeurtenis om te verzenden.",
   "settings.webhooks.invalidUrl": "Gebruik het volledige https://-adres dat de andere dienst je geeft.",
+  "settings.webhooks.limit": "Je kunt hier tot {max, number} webhooks hebben. Verwijder er een om een nieuwe toe te voegen.",
   "settings.webhooks.secret": "Webhook toegevoegd. Het ondertekeningsgeheim wordt alleen nu getoond. Om te controleren of een levering van Literary Universe komt, vergelijk je de LU-Signature-header met een HMAC-SHA256 van de tijdstempel, een punt en de inhoud, gemaakt met dit geheim.",
   "settings.webhooks.urlLabel": "Adres om gebeurtenissen naartoe te sturen",
   "settings.webhooks.add": "Webhook toevoegen",

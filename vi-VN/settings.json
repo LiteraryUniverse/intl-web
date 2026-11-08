@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Xóa",
   "settings.webhooks.chooseEvents": "Hãy chọn ít nhất một sự kiện để gửi.",
   "settings.webhooks.invalidUrl": "Hãy dùng địa chỉ https:// đầy đủ mà dịch vụ kia cung cấp.",
+  "settings.webhooks.limit": "Ở đây bạn có thể có tối đa {max, number} webhook. Hãy xóa bớt một cái để thêm cái mới.",
   "settings.webhooks.secret": "Đã thêm webhook. Khóa bí mật ký xác thực của nó chỉ hiển thị lúc này. Để kiểm tra một lần gửi có đến từ Literary Universe hay không, hãy so sánh tiêu đề LU-Signature với HMAC-SHA256 của dấu thời gian, một dấu chấm và nội dung, được tạo bằng khóa bí mật này.",
   "settings.webhooks.urlLabel": "Địa chỉ nhận sự kiện",
   "settings.webhooks.add": "Thêm webhook",

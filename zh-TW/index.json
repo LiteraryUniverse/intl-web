@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "移除",
   "settings.webhooks.chooseEvents": "請至少選擇一個要傳送的事件。",
   "settings.webhooks.invalidUrl": "請使用另一項服務提供的完整 https:// 網址。",
+  "settings.webhooks.limit": "這裡最多可以有 {max, number} 個 Webhook。請先移除一個，才能新增。",
   "settings.webhooks.secret": "Webhook 已新增。簽署密鑰只會顯示這一次。若要確認某次傳送來自 Literary Universe，請將 LU-Signature 標頭與以此密鑰對時間戳記、一個句點和內容計算出的 HMAC-SHA256 進行比對。",
   "settings.webhooks.urlLabel": "要傳送事件的網址",
   "settings.webhooks.add": "新增 Webhook",

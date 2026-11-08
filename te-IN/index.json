@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "తీసివేయండి",
   "settings.webhooks.chooseEvents": "పంపడానికి కనీసం ఒక ఈవెంట్‌ను ఎంచుకోండి.",
   "settings.webhooks.invalidUrl": "అవతలి సేవ ఇచ్చే పూర్తి https:// చిరునామాను ఉపయోగించండి.",
+  "settings.webhooks.limit": "ఇక్కడ గరిష్ఠంగా {max, number} వెబ్‌హుక్‌లు ఉంచవచ్చు. కొత్తది జోడించడానికి ఒకదాన్ని తీసివేయండి.",
   "settings.webhooks.secret": "Webhook జోడించబడింది. దీని సంతకం రహస్యం ఇప్పుడు మాత్రమే చూపబడుతుంది. ఒక డెలివరీ Literary Universe నుండి వచ్చిందో లేదో తనిఖీ చేయడానికి, LU-Signature హెడర్‌ను ఈ రహస్యంతో రూపొందించిన టైమ్‌స్టాంప్, ఒక చుక్క, బాడీల HMAC-SHA256తో పోల్చండి.",
   "settings.webhooks.urlLabel": "ఈవెంట్‌లను పంపాల్సిన చిరునామా",
   "settings.webhooks.add": "Webhook జోడించండి",

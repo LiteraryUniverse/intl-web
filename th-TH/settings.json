@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "ลบ",
   "settings.webhooks.chooseEvents": "เลือกเหตุการณ์ที่จะส่งอย่างน้อยหนึ่งรายการ",
   "settings.webhooks.invalidUrl": "ใช้ที่อยู่ https:// แบบเต็มที่บริการอีกฝั่งให้มา",
+  "settings.webhooks.limit": "ที่นี่มีเว็บฮุกได้สูงสุด {max, number} รายการ ลบรายการหนึ่งออกก่อนจึงจะเพิ่มใหม่ได้",
   "settings.webhooks.secret": "เพิ่มเว็บฮุกแล้ว ความลับสำหรับลงลายเซ็นจะแสดงเพียงตอนนี้เท่านั้น หากต้องการตรวจสอบว่าการส่งมาจาก Literary Universe จริง ให้เปรียบเทียบส่วนหัว LU-Signature กับ HMAC-SHA256 ของไทม์สแตมป์ จุด และเนื้อหา ที่สร้างด้วยความลับนี้",
   "settings.webhooks.urlLabel": "ที่อยู่สำหรับส่งเหตุการณ์",
   "settings.webhooks.add": "เพิ่มเว็บฮุก",

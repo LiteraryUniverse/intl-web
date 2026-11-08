@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Poista",
   "settings.webhooks.chooseEvents": "Valitse vähintään yksi lähetettävä tapahtuma.",
   "settings.webhooks.invalidUrl": "Käytä koko https://-osoitetta, jonka toinen palvelu antaa sinulle.",
+  "settings.webhooks.limit": "Täällä voi olla enintään {max, number} webhookia. Poista yksi lisätäksesi uuden.",
   "settings.webhooks.secret": "Webhook lisätty. Sen allekirjoitussalaisuus näytetään vain nyt. Voit tarkistaa, että toimitus tuli Literary Universesta, vertaamalla LU-Signature-otsaketta aikaleiman, pisteen ja sisällön HMAC-SHA256-tiivisteeseen, joka on laskettu tällä salaisuudella.",
   "settings.webhooks.urlLabel": "Osoite, johon tapahtumat lähetetään",
   "settings.webhooks.add": "Lisää webhook",

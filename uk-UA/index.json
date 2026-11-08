@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Видалити",
   "settings.webhooks.chooseEvents": "Виберіть принаймні одну подію для надсилання.",
   "settings.webhooks.invalidUrl": "Використайте повну адресу https://, яку дає інший сервіс.",
+  "settings.webhooks.limit": "Тут може бути не більше {max, number} вебхуків. Видаліть один, щоб додати новий.",
   "settings.webhooks.secret": "Вебхук додано. Його секрет підпису показано лише зараз. Щоб перевірити, що доставка надійшла від Literary Universe, порівняйте заголовок LU-Signature із HMAC-SHA256 від позначки часу, крапки та тіла запиту, створеним за допомогою цього секрету.",
   "settings.webhooks.urlLabel": "Адреса, на яку надсилати події",
   "settings.webhooks.add": "Додати вебхук",

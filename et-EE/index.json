@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Eemalda",
   "settings.webhooks.chooseEvents": "Vali saatmiseks vähemalt üks sündmus.",
   "settings.webhooks.invalidUrl": "Kasuta täielikku https:// aadressi, mille teine teenus sulle annab.",
+  "settings.webhooks.limit": "Siin saab olla kuni {max, number} veebihaaki. Eemalda üks, et uus lisada.",
   "settings.webhooks.secret": "Veebihaak lisati. Selle allkirjastamissaladus kuvatakse ainult nüüd. Et kontrollida, kas tarne tuli Literary Universe'ist, võrdle LU-Signature päist ajatempli, punkti ja sisu HMAC-SHA256-ga, mis on tehtud selle saladusega.",
   "settings.webhooks.urlLabel": "Aadress, kuhu sündmusi saata",
   "settings.webhooks.add": "Lisa veebihaak",

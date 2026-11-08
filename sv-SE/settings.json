@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Ta bort",
   "settings.webhooks.chooseEvents": "Välj minst en händelse att skicka.",
   "settings.webhooks.invalidUrl": "Använd hela https://-adressen som den andra tjänsten ger dig.",
+  "settings.webhooks.limit": "Du kan ha upp till {max, number} webhooks här. Ta bort en för att lägga till en ny.",
   "settings.webhooks.secret": "Webhooken är tillagd. Dess signeringshemlighet visas bara nu. För att kontrollera att en leverans kommer från Literary Universe jämför du LU-Signature-huvudet med en HMAC-SHA256 av tidsstämpeln, en punkt och innehållet, skapad med den här hemligheten.",
   "settings.webhooks.urlLabel": "Adress att skicka händelser till",
   "settings.webhooks.add": "Lägg till webhook",

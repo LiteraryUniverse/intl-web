@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Odebrat",
   "settings.webhooks.chooseEvents": "Vyberte alespoň jednu událost k odesílání.",
   "settings.webhooks.invalidUrl": "Použijte úplnou adresu https://, kterou vám druhá služba poskytne.",
+  "settings.webhooks.limit": "Tady můžete mít nejvýše {max, number} webhooků. Chcete-li přidat další, jeden odeberte.",
   "settings.webhooks.secret": "Webhook byl přidán. Jeho podpisové tajemství se zobrazí jen nyní. Chcete-li ověřit, že doručení pochází z Literary Universe, porovnejte hlavičku LU-Signature s HMAC-SHA256 z časového razítka, tečky a těla, vytvořeným pomocí tohoto tajemství.",
   "settings.webhooks.urlLabel": "Adresa, kam události posílat",
   "settings.webhooks.add": "Přidat webhook",

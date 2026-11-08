@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Alisin",
   "settings.webhooks.chooseEvents": "Pumili ng kahit isang event na ipapadala.",
   "settings.webhooks.invalidUrl": "Gamitin ang buong https:// address na ibinibigay ng kabilang serbisyo.",
+  "settings.webhooks.limit": "Hanggang {max, number} webhook lang ang puwede rito. Mag-alis ng isa para makapagdagdag ng bago.",
   "settings.webhooks.secret": "Naidagdag ang webhook. Ngayon lang ipinapakita ang signing secret nito. Para tiyaking galing sa Literary Universe ang isang delivery, ikumpara ang LU-Signature header sa HMAC-SHA256 ng timestamp, isang tuldok at ng body, na ginawa gamit ang secret na ito.",
   "settings.webhooks.urlLabel": "Address na pagpapadalhan ng mga event",
   "settings.webhooks.add": "Magdagdag ng webhook",

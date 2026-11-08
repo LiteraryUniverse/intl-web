@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Elimină",
   "settings.webhooks.chooseEvents": "Alege cel puțin un eveniment de trimis.",
   "settings.webhooks.invalidUrl": "Folosește adresa completă https:// pe care ți-o dă celălalt serviciu.",
+  "settings.webhooks.limit": "Aici poți avea cel mult {max, number} webhookuri. Șterge unul ca să adaugi altul.",
   "settings.webhooks.secret": "Webhook adăugat. Secretul lui de semnare este afișat doar acum. Pentru a verifica dacă o livrare vine de la Literary Universe, compară antetul LU-Signature cu un HMAC-SHA256 al marcajului de timp, al unui punct și al corpului, calculat cu acest secret.",
   "settings.webhooks.urlLabel": "Adresa la care se trimit evenimentele",
   "settings.webhooks.add": "Adaugă webhook",

@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "削除",
   "settings.webhooks.chooseEvents": "送信するイベントを1つ以上選択してください。",
   "settings.webhooks.invalidUrl": "連携先のサービスが発行した完全な https:// アドレスを入力してください。",
+  "settings.webhooks.limit": "ここに登録できる Webhook は {max, number} 件までです。追加するには、いずれかを削除してください。",
   "settings.webhooks.secret": "Webhookを追加しました。署名シークレットが表示されるのは今回だけです。配信がLiterary Universeからのものか確認するには、LU-Signatureヘッダーを、このシークレットで計算したタイムスタンプ・ドット・本文のHMAC-SHA256と比較してください。",
   "settings.webhooks.urlLabel": "イベントの送信先アドレス",
   "settings.webhooks.add": "Webhookを追加",

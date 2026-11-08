@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Kaldır",
   "settings.webhooks.chooseEvents": "Göndermek için en az bir olay seçin.",
   "settings.webhooks.invalidUrl": "Diğer hizmetin verdiği tam https:// adresini kullanın.",
+  "settings.webhooks.limit": "Burada en fazla {max, number} webhook olabilir. Yenisini eklemek için birini kaldırın.",
   "settings.webhooks.secret": "Webhook eklendi. İmza anahtarı yalnızca şimdi gösteriliyor. Bir teslimatın Literary Universe'ten geldiğini doğrulamak için LU-Signature başlığını, bu anahtarla üretilen zaman damgası, bir nokta ve gövdenin HMAC-SHA256 değeriyle karşılaştırın.",
   "settings.webhooks.urlLabel": "Olayların gönderileceği adres",
   "settings.webhooks.add": "Webhook ekle",

@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "हटाउनुहोस्",
   "settings.webhooks.chooseEvents": "पठाउन कम्तीमा एउटा इभेन्ट छान्नुहोस्।",
   "settings.webhooks.invalidUrl": "अर्को सेवाले दिएको पूरा https:// ठेगाना प्रयोग गर्नुहोस्।",
+  "settings.webhooks.limit": "यहाँ बढीमा {max, number} वेबहुक राख्न सकिन्छ। अर्को थप्न एउटा हटाउनुहोस्।",
   "settings.webhooks.secret": "Webhook थपियो। यसको साइनिङ सिक्रेट अहिले मात्र देखाइन्छ। डेलिभरी Literary Universe बाट आएको हो भनी जाँच्न, LU-Signature हेडरलाई यही सिक्रेटले बनाइएको टाइमस्ट्याम्प, एउटा बिन्दु र बडीको HMAC-SHA256 सँग तुलना गर्नुहोस्।",
   "settings.webhooks.urlLabel": "इभेन्टहरू पठाउने ठेगाना",
   "settings.webhooks.add": "Webhook थप्नुहोस्",

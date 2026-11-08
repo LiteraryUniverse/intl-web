@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Odstrániť",
   "settings.webhooks.chooseEvents": "Vyberte aspoň jednu udalosť na odoslanie.",
   "settings.webhooks.invalidUrl": "Použite úplnú adresu https://, ktorú vám dá druhá služba.",
+  "settings.webhooks.limit": "Tu môžete mať najviac {max, number} webhookov. Ak chcete pridať ďalší, jeden odstráňte.",
   "settings.webhooks.secret": "Webhook bol pridaný. Jeho podpisový kľúč sa zobrazí iba teraz. Ak chcete overiť, že doručenie prišlo z Literary Universe, porovnajte hlavičku LU-Signature s HMAC-SHA256 z časovej pečiatky, bodky a tela správy, vytvoreným pomocou tohto kľúča.",
   "settings.webhooks.urlLabel": "Adresa, na ktorú sa udalosti posielajú",
   "settings.webhooks.add": "Pridať webhook",

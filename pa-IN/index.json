@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "ਹਟਾਓ",
   "settings.webhooks.chooseEvents": "ਭੇਜਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਇਵੈਂਟ ਚੁਣੋ।",
   "settings.webhooks.invalidUrl": "ਦੂਜੀ ਸੇਵਾ ਵੱਲੋਂ ਦਿੱਤਾ ਪੂਰਾ https:// ਪਤਾ ਵਰਤੋ।",
+  "settings.webhooks.limit": "ਇੱਥੇ ਵੱਧ ਤੋਂ ਵੱਧ {max, number} ਵੈੱਬਹੁੱਕ ਰੱਖੇ ਜਾ ਸਕਦੇ ਹਨ। ਨਵਾਂ ਜੋੜਨ ਲਈ ਇੱਕ ਹਟਾਓ।",
   "settings.webhooks.secret": "Webhook ਜੋੜਿਆ ਗਿਆ। ਇਸਦਾ ਦਸਤਖਤ ਗੁਪਤ ਕੋਡ ਸਿਰਫ਼ ਹੁਣੇ ਦਿਖਾਇਆ ਜਾਂਦਾ ਹੈ। ਇਹ ਜਾਂਚਣ ਲਈ ਕਿ ਡਿਲਿਵਰੀ Literary Universe ਤੋਂ ਆਈ ਹੈ, LU-Signature ਹੈਡਰ ਦੀ ਤੁਲਨਾ ਇਸ ਗੁਪਤ ਕੋਡ ਨਾਲ ਬਣੇ ਟਾਈਮਸਟੈਂਪ, ਇੱਕ ਬਿੰਦੀ ਅਤੇ ਬਾਡੀ ਦੇ HMAC-SHA256 ਨਾਲ ਕਰੋ।",
   "settings.webhooks.urlLabel": "ਇਵੈਂਟ ਭੇਜਣ ਲਈ ਪਤਾ",
   "settings.webhooks.add": "Webhook ਜੋੜੋ",

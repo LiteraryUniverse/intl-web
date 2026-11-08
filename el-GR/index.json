@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Κατάργηση",
   "settings.webhooks.chooseEvents": "Επιλέξτε τουλάχιστον ένα συμβάν για αποστολή.",
   "settings.webhooks.invalidUrl": "Χρησιμοποιήστε την πλήρη διεύθυνση https:// που σας δίνει η άλλη υπηρεσία.",
+  "settings.webhooks.limit": "Εδώ μπορείτε να έχετε έως {max, number} webhooks. Αφαιρέστε ένα για να προσθέσετε άλλο.",
   "settings.webhooks.secret": "Το webhook προστέθηκε. Το μυστικό υπογραφής του εμφανίζεται μόνο τώρα. Για να ελέγξετε ότι μια παράδοση προήλθε από το Literary Universe, συγκρίνετε την κεφαλίδα LU-Signature με ένα HMAC-SHA256 της χρονοσφραγίδας, μιας τελείας και του σώματος, που δημιουργείται με αυτό το μυστικό.",
   "settings.webhooks.urlLabel": "Διεύθυνση αποστολής συμβάντων",
   "settings.webhooks.add": "Προσθήκη webhook",

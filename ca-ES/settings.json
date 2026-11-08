@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Elimina",
   "settings.webhooks.chooseEvents": "Tria almenys un esdeveniment per enviar.",
   "settings.webhooks.invalidUrl": "Fes servir l'adreça completa https:// que et dona l'altre servei.",
+  "settings.webhooks.limit": "Aquí pots tenir fins a {max, number} webhooks. Elimina'n un per afegir-ne un altre.",
   "settings.webhooks.secret": "Webhook afegit. El seu secret de signatura només es mostra ara. Per comprovar que un enviament prové de Literary Universe, compara la capçalera LU-Signature amb un HMAC-SHA256 de la marca de temps, un punt i el cos, calculat amb aquest secret.",
   "settings.webhooks.urlLabel": "Adreça on enviar els esdeveniments",
   "settings.webhooks.add": "Afegeix un webhook",

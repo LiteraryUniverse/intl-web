@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "הסרה",
   "settings.webhooks.chooseEvents": "בחרו לפחות אירוע אחד לשליחה.",
   "settings.webhooks.invalidUrl": "השתמשו בכתובת המלאה https:// שהשירות השני נותן לכם.",
+  "settings.webhooks.limit": "אפשר להחזיק כאן עד {max, number} וובהוקים. הסירו אחד כדי להוסיף חדש.",
   "settings.webhooks.secret": "ה-webhook נוסף. הסוד לחתימה שלו מוצג רק עכשיו. כדי לוודא שמשלוח הגיע מ-Literary Universe, השוו את הכותרת LU-Signature ל-HMAC-SHA256 של חותמת הזמן, נקודה וגוף הבקשה, שנוצר באמצעות הסוד הזה.",
   "settings.webhooks.urlLabel": "כתובת לשליחת אירועים",
   "settings.webhooks.add": "הוספת webhook",

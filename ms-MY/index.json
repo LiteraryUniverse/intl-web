@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Alih keluar",
   "settings.webhooks.chooseEvents": "Pilih sekurang-kurangnya satu acara untuk dihantar.",
   "settings.webhooks.invalidUrl": "Gunakan alamat https:// penuh yang diberikan oleh perkhidmatan lain.",
+  "settings.webhooks.limit": "Anda boleh mempunyai sehingga {max, number} webhook di sini. Buang satu untuk menambah yang lain.",
   "settings.webhooks.secret": "Webhook ditambah. Rahsia tandatangannya hanya dipaparkan sekarang. Untuk menyemak bahawa penghantaran datang daripada Literary Universe, bandingkan pengepala LU-Signature dengan HMAC-SHA256 bagi cap masa, satu titik dan kandungan, yang dijana dengan rahsia ini.",
   "settings.webhooks.urlLabel": "Alamat untuk menghantar acara",
   "settings.webhooks.add": "Tambah webhook",

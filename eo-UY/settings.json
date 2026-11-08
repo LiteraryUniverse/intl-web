@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Forigi",
   "settings.webhooks.chooseEvents": "Elektu almenaŭ unu eventon por sendi.",
   "settings.webhooks.invalidUrl": "Uzu la plenan https://-adreson, kiun donas la alia servo.",
+  "settings.webhooks.limit": "Ĉi tie vi povas havi ĝis {max, number} retkrokojn. Forigu unu por aldoni alian.",
   "settings.webhooks.secret": "Webhook aldonita. Ĝia subskriba sekreto montriĝas nur nun. Por kontroli, ke livero venis de Literary Universe, komparu la kapon LU-Signature kun HMAC-SHA256 de la tempomarko, punkto kaj korpo, farita per ĉi tiu sekreto.",
   "settings.webhooks.urlLabel": "Adreso, al kiu sendi eventojn",
   "settings.webhooks.add": "Aldoni webhook",

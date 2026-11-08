@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Supprimer",
   "settings.webhooks.chooseEvents": "Choisissez au moins un événement à envoyer.",
   "settings.webhooks.invalidUrl": "Utilisez l'adresse complète en https:// fournie par l'autre service.",
+  "settings.webhooks.limit": "Vous pouvez avoir jusqu'à {max, number} webhooks ici. Supprimez-en un pour en ajouter un autre.",
   "settings.webhooks.secret": "Webhook ajouté. Sa clé de signature n'est affichée qu'ici et maintenant. Pour vérifier qu'un envoi provient bien de Literary Universe, comparez l'en-tête LU-Signature avec un HMAC-SHA256 de l'horodatage, d'un point et du corps, calculé avec cette clé.",
   "settings.webhooks.urlLabel": "Adresse où envoyer les événements",
   "settings.webhooks.add": "Ajouter un webhook",

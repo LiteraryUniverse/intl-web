@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "Pašalinti",
   "settings.webhooks.chooseEvents": "Pasirinkite bent vieną siunčiamą įvykį.",
   "settings.webhooks.invalidUrl": "Naudokite visą https:// adresą, kurį pateikia kita paslauga.",
+  "settings.webhooks.limit": "Čia galite turėti iki {max, number} saitažodžių (webhook). Pašalinkite vieną, kad pridėtumėte kitą.",
   "settings.webhooks.secret": "Webhook pridėtas. Jo pasirašymo paslaptis rodoma tik dabar. Kad patikrintumėte, ar pristatymas atėjo iš Literary Universe, palyginkite LU-Signature antraštę su laiko žymos, taško ir turinio HMAC-SHA256, apskaičiuotu naudojant šią paslaptį.",
   "settings.webhooks.urlLabel": "Adresas, kuriuo siųsti įvykius",
   "settings.webhooks.add": "Pridėti webhook",

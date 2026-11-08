@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "Eltávolítás",
   "settings.webhooks.chooseEvents": "Válassz ki legalább egy küldendő eseményt.",
   "settings.webhooks.invalidUrl": "Használd a teljes https:// címet, amelyet a másik szolgáltatás megad.",
+  "settings.webhooks.limit": "Itt legfeljebb {max, number} webhookod lehet. Törölj egyet, hogy újat adhass hozzá.",
   "settings.webhooks.secret": "A webhook hozzáadva. Az aláíró titkos kulcs csak most jelenik meg. Annak ellenőrzéséhez, hogy egy kézbesítés a Literary Universe-től jött, hasonlítsd össze az LU-Signature fejlécet az időbélyeg, egy pont és a törzs ezzel a titokkal készített HMAC-SHA256 értékével.",
   "settings.webhooks.urlLabel": "Cím, ahová az eseményeket küldjük",
   "settings.webhooks.add": "Webhook hozzáadása",

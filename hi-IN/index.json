@@ -6369,6 +6369,7 @@
   "settings.webhooks.remove": "हटाएँ",
   "settings.webhooks.chooseEvents": "भेजने के लिए कम से कम एक इवेंट चुनें।",
   "settings.webhooks.invalidUrl": "दूसरी सेवा जो पूरा https:// पता देती है, वही इस्तेमाल करें।",
+  "settings.webhooks.limit": "यहाँ ज़्यादा से ज़्यादा {max, number} वेबहुक रखे जा सकते हैं। नया जोड़ने के लिए एक हटाएँ।",
   "settings.webhooks.secret": "वेबहुक जोड़ दिया गया। इसका साइनिंग सीक्रेट सिर्फ़ अभी दिखाया जा रहा है। यह जाँचने के लिए कि कोई डिलीवरी Literary Universe से आई है, LU-Signature हेडर की तुलना टाइमस्टैम्प, एक बिंदु और बॉडी के HMAC-SHA256 से करें, जो इसी सीक्रेट से बनाया गया हो।",
   "settings.webhooks.urlLabel": "इवेंट भेजने का पता",
   "settings.webhooks.add": "वेबहुक जोड़ें",

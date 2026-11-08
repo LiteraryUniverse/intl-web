@@ -380,6 +380,7 @@
   "settings.webhooks.remove": "წაშლა",
   "settings.webhooks.chooseEvents": "აირჩიეთ გასაგზავნად მინიმუმ ერთი მოვლენა.",
   "settings.webhooks.invalidUrl": "გამოიყენეთ სრული https:// მისამართი, რომელსაც მეორე სერვისი გაძლევთ.",
+  "settings.webhooks.limit": "აქ შეგიძლიათ გქონდეთ მაქსიმუმ {max, number} ვებჰუკი. ახლის დასამატებლად ერთი წაშალეთ.",
   "settings.webhooks.secret": "Webhook დაემატა. მისი ხელმოწერის საიდუმლო მხოლოდ ახლა ჩანს. იმის შესამოწმებლად, რომ მიწოდება Literary Universe-დან მოდის, შეადარეთ LU-Signature სათაური დროის ნიშნულის, წერტილისა და სხეულის HMAC-SHA256-ს, რომელიც ამ საიდუმლოთია შექმნილი.",
   "settings.webhooks.urlLabel": "მისამართი მოვლენების გასაგზავნად",
   "settings.webhooks.add": "Webhook-ის დამატება",
