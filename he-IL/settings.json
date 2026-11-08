@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "רשמי",
   "settings.integrations.type.community": "קהילה",
   "settings.apiKeys.scope.companion.read": "קריאת נתוני עוזר שולחן העבודה",
-  "settings.apiKeys.scope.companion.read.desc": "קריאת המשימות האישיות, מצב התזכורות, הכתיבה האחרונה וההתראות שלך",
-  "settings.apiKeys.scope.companion.write": "עדכון עוזר שולחן העבודה",
-  "settings.apiKeys.scope.companion.write.desc": "הוספה והשלמה של משימות אישיות וסימון התראות כנקראו",
-  "settings.integrations.omarchy.summary": "עוזר הכתיבה שלך עבור Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "קריאת מצב התזכורות ליומן והכתיבה האחרונה שלך",
+  "settings.integrations.omarchy.summary": "עוזר הכתיבה שלך עבור Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "קריאת משימות",
+  "settings.apiKeys.scope.tasks.read.desc": "קריאת המשימות האישיות שלך",
+  "settings.apiKeys.scope.tasks.write": "עדכון משימות",
+  "settings.apiKeys.scope.tasks.write.desc": "הוספה והשלמה של המשימות האישיות שלך",
+  "settings.apiKeys.scope.notifications.read": "קריאת התראות",
+  "settings.apiKeys.scope.notifications.read.desc": "קריאת ההתראות שלך",
+  "settings.apiKeys.scope.notifications.write": "עדכון התראות",
+  "settings.apiKeys.scope.notifications.write.desc": "סימון ההתראות שלך כנקראו"
 }

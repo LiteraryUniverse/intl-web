@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Çok zor",
   "common.cookiePreferences": "Çerez tercihleri",
   "universe.cover.alt": "{universe} evreninin kapak görseli.",
-  "common.delete": "Silme"
+  "common.delete": "Silme",
+  "scratchpad.changedElsewhere": "Bu not defteri başka bir yerde değiştirildi. Düzenlemelerinizi kopyalayın, ardından kaydetmeden önce yeniden açın."
 }

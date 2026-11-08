@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Foarte ridicată",
   "common.cookiePreferences": "Preferințe pentru cookie-uri",
   "universe.cover.alt": "Imaginea de copertă a universului {universe}.",
-  "common.delete": "Ștergeți"
+  "common.delete": "Ștergeți",
+  "scratchpad.changedElsewhere": "Acest blocnotes a fost modificat în altă parte. Copiază modificările tale, apoi redeschide-l înainte de a salva."
 }

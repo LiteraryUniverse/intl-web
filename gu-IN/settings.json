@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "સત્તાવાર",
   "settings.integrations.type.community": "સમુદાય",
   "settings.apiKeys.scope.companion.read": "ડેસ્કટોપ સહાયકનો ડેટા વાંચો",
-  "settings.apiKeys.scope.companion.read.desc": "તમારા અંગત કાર્યો, રિમાઇન્ડરની સ્થિતિ, તાજેતરનું લેખન અને સૂચનાઓ વાંચો",
-  "settings.apiKeys.scope.companion.write": "ડેસ્કટોપ સહાયક અપડેટ કરો",
-  "settings.apiKeys.scope.companion.write.desc": "અંગત કાર્યો ઉમેરો અને પૂર્ણ કરો તથા સૂચનાઓને વાંચેલી તરીકે ચિહ્નિત કરો",
-  "settings.integrations.omarchy.summary": "Omarchy માટે તમારો લેખન સાથી."
+  "settings.apiKeys.scope.companion.read.desc": "ડાયરીના રિમાઇન્ડરની સ્થિતિ અને તમારું તાજેતરનું લેખન વાંચો",
+  "settings.integrations.omarchy.summary": "Omarchy માટે તમારો લેખન સાથી.",
+  "settings.apiKeys.scope.tasks.read": "કાર્યો વાંચો",
+  "settings.apiKeys.scope.tasks.read.desc": "તમારા વ્યક્તિગત કાર્યો વાંચો",
+  "settings.apiKeys.scope.tasks.write": "કાર્યો અપડેટ કરો",
+  "settings.apiKeys.scope.tasks.write.desc": "તમારા વ્યક્તિગત કાર્યો ઉમેરો અને પૂર્ણ કરો",
+  "settings.apiKeys.scope.notifications.read": "સૂચનાઓ વાંચો",
+  "settings.apiKeys.scope.notifications.read.desc": "તમારી સૂચનાઓ વાંચો",
+  "settings.apiKeys.scope.notifications.write": "સૂચનાઓ અપડેટ કરો",
+  "settings.apiKeys.scope.notifications.write.desc": "તમારી સૂચનાઓને વાંચેલી તરીકે ચિહ્નિત કરો"
 }

@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Resmi",
   "settings.integrations.type.community": "Komunitas",
   "settings.apiKeys.scope.companion.read": "Baca pendamping desktop",
-  "settings.apiKeys.scope.companion.read.desc": "Baca tugas pribadi, status pengingat, tulisan terbaru, dan notifikasi Anda",
-  "settings.apiKeys.scope.companion.write": "Perbarui pendamping desktop",
-  "settings.apiKeys.scope.companion.write.desc": "Tambah dan selesaikan tugas pribadi serta tandai notifikasi sebagai dibaca",
-  "settings.integrations.omarchy.summary": "Pendamping menulis Anda untuk Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Baca status pengingat buku harian dan tulisan terbaru Anda",
+  "settings.integrations.omarchy.summary": "Pendamping menulis Anda untuk Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Baca tugas",
+  "settings.apiKeys.scope.tasks.read.desc": "Baca tugas pribadi Anda",
+  "settings.apiKeys.scope.tasks.write": "Perbarui tugas",
+  "settings.apiKeys.scope.tasks.write.desc": "Tambahkan dan selesaikan tugas pribadi Anda",
+  "settings.apiKeys.scope.notifications.read": "Baca notifikasi",
+  "settings.apiKeys.scope.notifications.read.desc": "Baca notifikasi Anda",
+  "settings.apiKeys.scope.notifications.write": "Perbarui notifikasi",
+  "settings.apiKeys.scope.notifications.write.desc": "Tandai notifikasi Anda sebagai dibaca"
 }

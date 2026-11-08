@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Mycket svår",
   "common.cookiePreferences": "Cookieinställningar",
   "universe.cover.alt": "Omslagsbild för universumet {universe}.",
-  "common.delete": "Radera"
+  "common.delete": "Radera",
+  "scratchpad.changedElsewhere": "Det här anteckningsblocket har ändrats på annat håll. Kopiera dina ändringar och öppna det igen innan du sparar."
 }

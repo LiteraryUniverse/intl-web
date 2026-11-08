@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Very difficult",
   "common.cookiePreferences": "Pilihan cookie",
   "universe.cover.alt": "Gambar sampul jagad {universe}.",
-  "common.delete": "Busak"
+  "common.delete": "Busak",
+  "scratchpad.changedElsewhere": "Cathetan iki wis diowahi ing panggonan liya. Salin owahanmu, banjur bukak maneh sadurunge disimpen."
 }

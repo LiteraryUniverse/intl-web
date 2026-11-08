@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "ਅਧਿਕਾਰਤ",
   "settings.integrations.type.community": "ਭਾਈਚਾਰਾ",
   "settings.apiKeys.scope.companion.read": "ਡੈਸਕਟਾਪ ਸਹਾਇਕ ਦਾ ਡਾਟਾ ਪੜ੍ਹੋ",
-  "settings.apiKeys.scope.companion.read.desc": "ਆਪਣੇ ਨਿੱਜੀ ਕੰਮ, ਯਾਦ-ਦਹਾਨੀਆਂ ਦੀ ਸਥਿਤੀ, ਹਾਲੀਆ ਲਿਖਤਾਂ ਅਤੇ ਸੂਚਨਾਵਾਂ ਪੜ੍ਹੋ",
-  "settings.apiKeys.scope.companion.write": "ਡੈਸਕਟਾਪ ਸਹਾਇਕ ਅੱਪਡੇਟ ਕਰੋ",
-  "settings.apiKeys.scope.companion.write.desc": "ਨਿੱਜੀ ਕੰਮ ਜੋੜੋ ਅਤੇ ਪੂਰੇ ਕਰੋ ਅਤੇ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪੜ੍ਹੀਆਂ ਵਜੋਂ ਚਿੰਨ੍ਹਿਤ ਕਰੋ",
-  "settings.integrations.omarchy.summary": "Omarchy ਲਈ ਤੁਹਾਡਾ ਲਿਖਣ ਸਾਥੀ।"
+  "settings.apiKeys.scope.companion.read.desc": "ਡਾਇਰੀ ਦੇ ਰੀਮਾਈਂਡਰਾਂ ਦੀ ਸਥਿਤੀ ਅਤੇ ਆਪਣੀ ਹਾਲੀਆ ਲਿਖਤ ਪੜ੍ਹੋ",
+  "settings.integrations.omarchy.summary": "Omarchy ਲਈ ਤੁਹਾਡਾ ਲਿਖਣ ਸਾਥੀ।",
+  "settings.apiKeys.scope.tasks.read": "ਕੰਮ ਪੜ੍ਹੋ",
+  "settings.apiKeys.scope.tasks.read.desc": "ਆਪਣੇ ਨਿੱਜੀ ਕੰਮ ਪੜ੍ਹੋ",
+  "settings.apiKeys.scope.tasks.write": "ਕੰਮ ਅੱਪਡੇਟ ਕਰੋ",
+  "settings.apiKeys.scope.tasks.write.desc": "ਆਪਣੇ ਨਿੱਜੀ ਕੰਮ ਜੋੜੋ ਅਤੇ ਪੂਰੇ ਕਰੋ",
+  "settings.apiKeys.scope.notifications.read": "ਸੂਚਨਾਵਾਂ ਪੜ੍ਹੋ",
+  "settings.apiKeys.scope.notifications.read.desc": "ਆਪਣੀਆਂ ਸੂਚਨਾਵਾਂ ਪੜ੍ਹੋ",
+  "settings.apiKeys.scope.notifications.write": "ਸੂਚਨਾਵਾਂ ਅੱਪਡੇਟ ਕਰੋ",
+  "settings.apiKeys.scope.notifications.write.desc": "ਆਪਣੀਆਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪੜ੍ਹੀਆਂ ਵਜੋਂ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ"
 }

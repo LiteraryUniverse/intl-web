@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Amptelik",
   "settings.integrations.type.community": "Gemeenskap",
   "settings.apiKeys.scope.companion.read": "Lees lessenaarassistent",
-  "settings.apiKeys.scope.companion.read.desc": "Lees jou persoonlike take, herinneringstatus, onlangse skryfwerk en kennisgewings",
-  "settings.apiKeys.scope.companion.write": "Werk lessenaarassistent by",
-  "settings.apiKeys.scope.companion.write.desc": "Voeg persoonlike take by en voltooi dit en merk kennisgewings as gelees",
-  "settings.integrations.omarchy.summary": "Jou skryfmaat vir Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Lees die status van jou dagboekherinnerings en jou onlangse skryfwerk",
+  "settings.integrations.omarchy.summary": "Jou skryfmaat vir Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Lees take",
+  "settings.apiKeys.scope.tasks.read.desc": "Lees jou persoonlike take",
+  "settings.apiKeys.scope.tasks.write": "Werk take by",
+  "settings.apiKeys.scope.tasks.write.desc": "Voeg jou persoonlike take by en voltooi hulle",
+  "settings.apiKeys.scope.notifications.read": "Lees kennisgewings",
+  "settings.apiKeys.scope.notifications.read.desc": "Lees jou kennisgewings",
+  "settings.apiKeys.scope.notifications.write": "Werk kennisgewings by",
+  "settings.apiKeys.scope.notifications.write.desc": "Merk jou kennisgewings as gelees"
 }

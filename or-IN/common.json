@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Very difficult",
   "common.cookiePreferences": "କୁକି ପସନ୍ଦ",
   "universe.cover.alt": "{universe} ବିଶ୍ୱର ପ୍ରଚ୍ଛଦ ଛବି।",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "ଏହି ନୋଟପ୍ୟାଡ୍ ଅନ୍ୟ ସ୍ଥାନରେ ପରିବର୍ତ୍ତନ ହୋଇଛି। ଆପଣଙ୍କ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ କପି କରନ୍ତୁ, ତାପରେ ସଞ୍ଚୟ କରିବା ପୂର୍ବରୁ ଏହାକୁ ପୁଣି ଖୋଲନ୍ତୁ।"
 }

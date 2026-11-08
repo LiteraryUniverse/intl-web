@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Oficiali",
   "settings.integrations.type.community": "Bendruomenė",
   "settings.apiKeys.scope.companion.read": "Skaityti darbalaukio pagalbininko duomenis",
-  "settings.apiKeys.scope.companion.read.desc": "Skaityti asmenines užduotis, priminimų būseną, naujausius rašinius ir pranešimus",
-  "settings.apiKeys.scope.companion.write": "Atnaujinti darbalaukio pagalbininką",
-  "settings.apiKeys.scope.companion.write.desc": "Pridėti ir atlikti asmenines užduotis bei pažymėti pranešimus kaip perskaitytus",
-  "settings.integrations.omarchy.summary": "Jūsų rašymo pagalbininkas Omarchy aplinkoje."
+  "settings.apiKeys.scope.companion.read.desc": "Skaityti dienoraščio priminimų būseną ir jūsų naujausius rašinius",
+  "settings.integrations.omarchy.summary": "Jūsų rašymo pagalbininkas Omarchy aplinkoje.",
+  "settings.apiKeys.scope.tasks.read": "Skaityti užduotis",
+  "settings.apiKeys.scope.tasks.read.desc": "Skaityti jūsų asmenines užduotis",
+  "settings.apiKeys.scope.tasks.write": "Atnaujinti užduotis",
+  "settings.apiKeys.scope.tasks.write.desc": "Pridėti ir užbaigti jūsų asmenines užduotis",
+  "settings.apiKeys.scope.notifications.read": "Skaityti pranešimus",
+  "settings.apiKeys.scope.notifications.read.desc": "Skaityti jūsų pranešimus",
+  "settings.apiKeys.scope.notifications.write": "Atnaujinti pranešimus",
+  "settings.apiKeys.scope.notifications.write.desc": "Pažymėti jūsų pranešimus kaip perskaitytus"
 }

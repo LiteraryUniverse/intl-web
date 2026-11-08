@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Oficial",
   "settings.integrations.type.community": "Comunidade",
   "settings.apiKeys.scope.companion.read": "Consultar o assistente de desktop",
-  "settings.apiKeys.scope.companion.read.desc": "Consultar suas tarefas pessoais, lembretes, textos recentes e notificações",
-  "settings.apiKeys.scope.companion.write": "Atualizar o assistente de desktop",
-  "settings.apiKeys.scope.companion.write.desc": "Adicionar e concluir tarefas pessoais e marcar notificações como lidas",
-  "settings.integrations.omarchy.summary": "Seu companheiro de escrita para Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Ler o status dos lembretes do diário e seus textos recentes",
+  "settings.integrations.omarchy.summary": "Seu companheiro de escrita para Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Ler tarefas",
+  "settings.apiKeys.scope.tasks.read.desc": "Ler suas tarefas pessoais",
+  "settings.apiKeys.scope.tasks.write": "Atualizar tarefas",
+  "settings.apiKeys.scope.tasks.write.desc": "Adicionar e concluir suas tarefas pessoais",
+  "settings.apiKeys.scope.notifications.read": "Ler notificações",
+  "settings.apiKeys.scope.notifications.read.desc": "Ler suas notificações",
+  "settings.apiKeys.scope.notifications.write": "Atualizar notificações",
+  "settings.apiKeys.scope.notifications.write.desc": "Marcar suas notificações como lidas"
 }

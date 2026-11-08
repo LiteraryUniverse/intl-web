@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "གཞུང་འབྲེལ།",
   "settings.integrations.type.community": "སྤྱི་ཚོགས།",
   "settings.apiKeys.scope.companion.read": "གློག་ཀླད་རོགས་པའི་གཞི་གྲངས་ཀློག་པ།",
-  "settings.apiKeys.scope.companion.read.desc": "སྒེར་གྱི་ལས་ཀ དྲན་སྐུལ་གནས་སྟངས། ཉེ་ཆར་གྱི་རྩོམ་དང་བརྡ་ཐོ་ཀློག་པ།",
-  "settings.apiKeys.scope.companion.write": "གློག་ཀླད་རོགས་པ་གསར་བསྒྱུར།",
-  "settings.apiKeys.scope.companion.write.desc": "སྒེར་གྱི་ལས་ཀ་ཁ་སྣོན་དང་མཇུག་སྒྲིལ། བརྡ་ཐོ་ཀློག་ཟིན་པའི་རྟགས་རྒྱག་པ།",
-  "settings.integrations.omarchy.summary": "Omarchy ཡི་ཁྱེད་ཀྱི་རྩོམ་འབྲི་རོགས་པ།"
+  "settings.apiKeys.scope.companion.read.desc": "ཉིན་ཐོའི་དྲན་སྐུལ་གྱི་གནས་ཚུལ་དང་ཁྱེད་ཀྱི་ཉེ་ཆར་གྱི་རྩོམ་ཡིག་ཀློག་པ།",
+  "settings.integrations.omarchy.summary": "Omarchy ཡི་ཁྱེད་ཀྱི་རྩོམ་འབྲི་རོགས་པ།",
+  "settings.apiKeys.scope.tasks.read": "ལས་ཀ་ཀློག་པ།",
+  "settings.apiKeys.scope.tasks.read.desc": "ཁྱེད་ཀྱི་སྒེར་གྱི་ལས་ཀ་ཀློག་པ།",
+  "settings.apiKeys.scope.tasks.write": "ལས་ཀ་གསར་སྒྱུར།",
+  "settings.apiKeys.scope.tasks.write.desc": "ཁྱེད་ཀྱི་སྒེར་གྱི་ལས་ཀ་སྣོན་པ་དང་ལེགས་གྲུབ་བྱེད་པ།",
+  "settings.apiKeys.scope.notifications.read": "བརྡ་ཐོ་ཀློག་པ།",
+  "settings.apiKeys.scope.notifications.read.desc": "ཁྱེད་ཀྱི་བརྡ་ཐོ་ཀློག་པ།",
+  "settings.apiKeys.scope.notifications.write": "བརྡ་ཐོ་གསར་སྒྱུར།",
+  "settings.apiKeys.scope.notifications.write.desc": "ཁྱེད་ཀྱི་བརྡ་ཐོ་ཀློག་ཟིན་པར་རྟགས་རྒྱག་པ།"
 }

@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "ഔദ്യോഗികം",
   "settings.integrations.type.community": "കമ്മ്യൂണിറ്റി",
   "settings.apiKeys.scope.companion.read": "ഡെസ്‌ക്‌ടോപ്പ് സഹായിയുടെ വിവരങ്ങൾ വായിക്കുക",
-  "settings.apiKeys.scope.companion.read.desc": "സ്വകാര്യ ജോലികൾ, ഓർമ്മപ്പെടുത്തലുകളുടെ നില, സമീപകാല രചനകൾ, അറിയിപ്പുകൾ എന്നിവ വായിക്കുക",
-  "settings.apiKeys.scope.companion.write": "ഡെസ്‌ക്‌ടോപ്പ് സഹായി പുതുക്കുക",
-  "settings.apiKeys.scope.companion.write.desc": "സ്വകാര്യ ജോലികൾ ചേർക്കുകയും പൂർത്തിയാക്കുകയും അറിയിപ്പുകൾ വായിച്ചതായി അടയാളപ്പെടുത്തുകയും ചെയ്യുക",
-  "settings.integrations.omarchy.summary": "Omarchy-ക്കുള്ള നിങ്ങളുടെ എഴുത്തുസഹായി."
+  "settings.apiKeys.scope.companion.read.desc": "ഡയറി ഓർമ്മപ്പെടുത്തലുകളുടെ നിലയും നിങ്ങളുടെ സമീപകാല എഴുത്തുകളും വായിക്കുക",
+  "settings.integrations.omarchy.summary": "Omarchy-ക്കുള്ള നിങ്ങളുടെ എഴുത്തുസഹായി.",
+  "settings.apiKeys.scope.tasks.read": "ജോലികൾ വായിക്കുക",
+  "settings.apiKeys.scope.tasks.read.desc": "നിങ്ങളുടെ വ്യക്തിഗത ജോലികൾ വായിക്കുക",
+  "settings.apiKeys.scope.tasks.write": "ജോലികൾ പുതുക്കുക",
+  "settings.apiKeys.scope.tasks.write.desc": "നിങ്ങളുടെ വ്യക്തിഗത ജോലികൾ ചേർക്കുകയും പൂർത്തിയാക്കുകയും ചെയ്യുക",
+  "settings.apiKeys.scope.notifications.read": "അറിയിപ്പുകൾ വായിക്കുക",
+  "settings.apiKeys.scope.notifications.read.desc": "നിങ്ങളുടെ അറിയിപ്പുകൾ വായിക്കുക",
+  "settings.apiKeys.scope.notifications.write": "അറിയിപ്പുകൾ പുതുക്കുക",
+  "settings.apiKeys.scope.notifications.write.desc": "നിങ്ങളുടെ അറിയിപ്പുകൾ വായിച്ചതായി അടയാളപ്പെടുത്തുക"
 }

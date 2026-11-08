@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Oficial",
   "settings.integrations.type.community": "Comunitat",
   "settings.apiKeys.scope.companion.read": "Consulta l’assistent d’escriptori",
-  "settings.apiKeys.scope.companion.read.desc": "Consulta les tasques personals, l’estat dels recordatoris, els escrits recents i les notificacions",
-  "settings.apiKeys.scope.companion.write": "Actualitza l’assistent d’escriptori",
-  "settings.apiKeys.scope.companion.write.desc": "Afegeix i completa tasques personals i marca les notificacions com a llegides",
-  "settings.integrations.omarchy.summary": "El teu company d’escriptura per a Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Llegir l’estat dels recordatoris del diari i els teus escrits recents",
+  "settings.integrations.omarchy.summary": "El teu company d’escriptura per a Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Llegir tasques",
+  "settings.apiKeys.scope.tasks.read.desc": "Llegir les teves tasques personals",
+  "settings.apiKeys.scope.tasks.write": "Actualitzar tasques",
+  "settings.apiKeys.scope.tasks.write.desc": "Afegir i completar les teves tasques personals",
+  "settings.apiKeys.scope.notifications.read": "Llegir notificacions",
+  "settings.apiKeys.scope.notifications.read.desc": "Llegir les teves notificacions",
+  "settings.apiKeys.scope.notifications.write": "Actualitzar notificacions",
+  "settings.apiKeys.scope.notifications.write.desc": "Marcar les teves notificacions com a llegides"
 }

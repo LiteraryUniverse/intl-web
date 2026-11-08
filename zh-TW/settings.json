@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "官方",
   "settings.integrations.type.community": "社群",
   "settings.apiKeys.scope.companion.read": "讀取桌面助手資料",
-  "settings.apiKeys.scope.companion.read.desc": "讀取您的個人待辦事項、提醒狀態、近期寫作和通知",
-  "settings.apiKeys.scope.companion.write": "更新桌面助手",
-  "settings.apiKeys.scope.companion.write.desc": "新增及完成個人待辦事項，並將通知標記為已讀",
-  "settings.integrations.omarchy.summary": "您在 Omarchy 上的寫作夥伴。"
+  "settings.apiKeys.scope.companion.read.desc": "讀取您的日記提醒狀態及近期寫作活動",
+  "settings.integrations.omarchy.summary": "您在 Omarchy 上的寫作夥伴。",
+  "settings.apiKeys.scope.tasks.read": "讀取任務",
+  "settings.apiKeys.scope.tasks.read.desc": "讀取您的個人任務",
+  "settings.apiKeys.scope.tasks.write": "更新任務",
+  "settings.apiKeys.scope.tasks.write.desc": "新增及完成您的個人任務",
+  "settings.apiKeys.scope.notifications.read": "讀取通知",
+  "settings.apiKeys.scope.notifications.read.desc": "讀取您的通知",
+  "settings.apiKeys.scope.notifications.write": "更新通知",
+  "settings.apiKeys.scope.notifications.write.desc": "將您的通知標記為已讀"
 }

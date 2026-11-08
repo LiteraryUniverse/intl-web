@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Officiell",
   "settings.integrations.type.community": "Gemenskap",
   "settings.apiKeys.scope.companion.read": "Läs skrivbordsassistent",
-  "settings.apiKeys.scope.companion.read.desc": "Läs dina personliga uppgifter, påminnelsestatus, senaste skrivarbete och aviseringar",
-  "settings.apiKeys.scope.companion.write": "Uppdatera skrivbordsassistent",
-  "settings.apiKeys.scope.companion.write.desc": "Lägg till och slutför personliga uppgifter och markera aviseringar som lästa",
-  "settings.integrations.omarchy.summary": "Din skrivassistent för Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Läs status för dina dagbokspåminnelser och ditt senaste skrivarbete",
+  "settings.integrations.omarchy.summary": "Din skrivassistent för Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Läs uppgifter",
+  "settings.apiKeys.scope.tasks.read.desc": "Läs dina personliga uppgifter",
+  "settings.apiKeys.scope.tasks.write": "Uppdatera uppgifter",
+  "settings.apiKeys.scope.tasks.write.desc": "Lägg till och slutför dina personliga uppgifter",
+  "settings.apiKeys.scope.notifications.read": "Läs aviseringar",
+  "settings.apiKeys.scope.notifications.read.desc": "Läs dina aviseringar",
+  "settings.apiKeys.scope.notifications.write": "Uppdatera aviseringar",
+  "settings.apiKeys.scope.notifications.write.desc": "Markera dina aviseringar som lästa"
 }

@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Heel moeilijk",
   "common.cookiePreferences": "Cookievoorkeuren",
   "universe.cover.alt": "Omslagafbeelding voor universum {universe}.",
-  "common.delete": "Verwijder"
+  "common.delete": "Verwijder",
+  "scratchpad.changedElsewhere": "Dit kladblok is elders gewijzigd. Kopieer je wijzigingen en open het opnieuw voordat je opslaat."
 }

@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "非常困難",
   "common.cookiePreferences": "Cookie 偏好設定",
   "universe.cover.alt": "宇宙「{universe}」的封面圖片。",
-  "common.delete": "刪除"
+  "common.delete": "刪除",
+  "scratchpad.changedElsewhere": "此記事本已在其他地方變更。請複製你的編輯內容，然後重新開啟再儲存。"
 }

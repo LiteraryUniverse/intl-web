@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Πολύ δύσκολο",
   "common.cookiePreferences": "Προτιμήσεις cookie",
   "universe.cover.alt": "Εικόνα εξωφύλλου για το σύμπαν {universe}.",
-  "common.delete": "Διαγραφή"
+  "common.delete": "Διαγραφή",
+  "scratchpad.changedElsewhere": "Αυτό το σημειωματάριο άλλαξε αλλού. Αντιγράψτε τις αλλαγές σας και ανοίξτε το ξανά πριν αποθηκεύσετε."
 }

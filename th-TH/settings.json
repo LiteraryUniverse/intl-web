@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "อย่างเป็นทางการ",
   "settings.integrations.type.community": "ชุมชน",
   "settings.apiKeys.scope.companion.read": "อ่านข้อมูลผู้ช่วยเดสก์ท็อป",
-  "settings.apiKeys.scope.companion.read.desc": "อ่านงานส่วนตัว สถานะการเตือน งานเขียนล่าสุด และการแจ้งเตือนของคุณ",
-  "settings.apiKeys.scope.companion.write": "อัปเดตผู้ช่วยเดสก์ท็อป",
-  "settings.apiKeys.scope.companion.write.desc": "เพิ่มและทำงานส่วนตัวให้เสร็จ และทำเครื่องหมายการแจ้งเตือนว่าอ่านแล้ว",
-  "settings.integrations.omarchy.summary": "เพื่อนคู่ใจในการเขียนของคุณสำหรับ Omarchy"
+  "settings.apiKeys.scope.companion.read.desc": "อ่านสถานะการเตือนเขียนไดอารีและงานเขียนล่าสุดของคุณ",
+  "settings.integrations.omarchy.summary": "เพื่อนคู่ใจในการเขียนของคุณสำหรับ Omarchy",
+  "settings.apiKeys.scope.tasks.read": "อ่านงาน",
+  "settings.apiKeys.scope.tasks.read.desc": "อ่านงานส่วนตัวของคุณ",
+  "settings.apiKeys.scope.tasks.write": "อัปเดตงาน",
+  "settings.apiKeys.scope.tasks.write.desc": "เพิ่มและทำงานส่วนตัวของคุณให้เสร็จ",
+  "settings.apiKeys.scope.notifications.read": "อ่านการแจ้งเตือน",
+  "settings.apiKeys.scope.notifications.read.desc": "อ่านการแจ้งเตือนของคุณ",
+  "settings.apiKeys.scope.notifications.write": "อัปเดตการแจ้งเตือน",
+  "settings.apiKeys.scope.notifications.write.desc": "ทำเครื่องหมายการแจ้งเตือนของคุณว่าอ่านแล้ว"
 }

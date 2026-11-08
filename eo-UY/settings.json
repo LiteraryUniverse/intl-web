@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Oficiala",
   "settings.integrations.type.community": "Komunuma",
   "settings.apiKeys.scope.companion.read": "Legi la labortablan helpanton",
-  "settings.apiKeys.scope.companion.read.desc": "Legi viajn personajn taskojn, memorigan staton, lastatempajn verkojn kaj sciigojn",
-  "settings.apiKeys.scope.companion.write": "Ĝisdatigi la labortablan helpanton",
-  "settings.apiKeys.scope.companion.write.desc": "Aldoni kaj plenumi personajn taskojn kaj marki sciigojn kiel legitajn",
-  "settings.integrations.omarchy.summary": "Via skriba kunulo por Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Legi la staton de viaj taglibraj memorigiloj kaj viajn lastatempajn verkaĵojn",
+  "settings.integrations.omarchy.summary": "Via skriba kunulo por Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Legi taskojn",
+  "settings.apiKeys.scope.tasks.read.desc": "Legi viajn personajn taskojn",
+  "settings.apiKeys.scope.tasks.write": "Ĝisdatigi taskojn",
+  "settings.apiKeys.scope.tasks.write.desc": "Aldoni kaj plenumi viajn personajn taskojn",
+  "settings.apiKeys.scope.notifications.read": "Legi sciigojn",
+  "settings.apiKeys.scope.notifications.read.desc": "Legi viajn sciigojn",
+  "settings.apiKeys.scope.notifications.write": "Ĝisdatigi sciigojn",
+  "settings.apiKeys.scope.notifications.write.desc": "Marki viajn sciigojn kiel legitajn"
 }

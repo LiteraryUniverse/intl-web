@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "공식",
   "settings.integrations.type.community": "커뮤니티",
   "settings.apiKeys.scope.companion.read": "데스크톱 도우미 정보 읽기",
-  "settings.apiKeys.scope.companion.read.desc": "개인 작업, 알림 상태, 최근 집필 및 알림 읽기",
-  "settings.apiKeys.scope.companion.write": "데스크톱 도우미 업데이트",
-  "settings.apiKeys.scope.companion.write.desc": "개인 작업 추가 및 완료, 알림을 읽음으로 표시",
-  "settings.integrations.omarchy.summary": "Omarchy를 위한 집필 동반자."
+  "settings.apiKeys.scope.companion.read.desc": "일기 알림 상태와 최근 집필 활동을 읽습니다",
+  "settings.integrations.omarchy.summary": "Omarchy를 위한 집필 동반자.",
+  "settings.apiKeys.scope.tasks.read": "작업 읽기",
+  "settings.apiKeys.scope.tasks.read.desc": "개인 작업을 읽습니다",
+  "settings.apiKeys.scope.tasks.write": "작업 업데이트",
+  "settings.apiKeys.scope.tasks.write.desc": "개인 작업을 추가하고 완료합니다",
+  "settings.apiKeys.scope.notifications.read": "알림 읽기",
+  "settings.apiKeys.scope.notifications.read.desc": "내 알림을 읽습니다",
+  "settings.apiKeys.scope.notifications.write": "알림 업데이트",
+  "settings.apiKeys.scope.notifications.write.desc": "알림을 읽음으로 표시합니다"
 }

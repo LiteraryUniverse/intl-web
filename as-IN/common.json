@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Very difficult",
   "common.cookiePreferences": "কুকিৰ পছন্দসমূহ",
   "universe.cover.alt": "{universe} জগতৰ বেটুপাতৰ ছবি।",
-  "common.delete": "মচি পেলাওক"
+  "common.delete": "মচি পেলাওক",
+  "scratchpad.changedElsewhere": "এই টোকাবহীখন আন ঠাইত সলনি কৰা হৈছে। আপোনাৰ সম্পাদনাবোৰ কপি কৰক, তাৰ পিছত সংৰক্ষণ কৰাৰ আগতে ইয়াক পুনৰ খোলক।"
 }

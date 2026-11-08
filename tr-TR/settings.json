@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Resmî",
   "settings.integrations.type.community": "Topluluk",
   "settings.apiKeys.scope.companion.read": "Masaüstü yardımcısını okuma",
-  "settings.apiKeys.scope.companion.read.desc": "Kişisel görevlerinizi, hatırlatma durumunu, son yazılarınızı ve bildirimlerinizi okuma",
-  "settings.apiKeys.scope.companion.write": "Masaüstü yardımcısını güncelleme",
-  "settings.apiKeys.scope.companion.write.desc": "Kişisel görev ekleme ve tamamlama, bildirimleri okundu olarak işaretleme",
-  "settings.integrations.omarchy.summary": "Omarchy için yazma yardımcınız."
+  "settings.apiKeys.scope.companion.read.desc": "Günlük hatırlatıcılarınızın durumunu ve son yazılarınızı okuyun",
+  "settings.integrations.omarchy.summary": "Omarchy için yazma yardımcınız.",
+  "settings.apiKeys.scope.tasks.read": "Görevleri oku",
+  "settings.apiKeys.scope.tasks.read.desc": "Kişisel görevlerinizi okuyun",
+  "settings.apiKeys.scope.tasks.write": "Görevleri güncelle",
+  "settings.apiKeys.scope.tasks.write.desc": "Kişisel görevlerinizi ekleyin ve tamamlayın",
+  "settings.apiKeys.scope.notifications.read": "Bildirimleri oku",
+  "settings.apiKeys.scope.notifications.read.desc": "Bildirimlerinizi okuyun",
+  "settings.apiKeys.scope.notifications.write": "Bildirimleri güncelle",
+  "settings.apiKeys.scope.notifications.write.desc": "Bildirimlerinizi okundu olarak işaretleyin"
 }

@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Very difficult",
   "common.cookiePreferences": "ಕುಕೀ ಆದ್ಯತೆಗಳು",
   "universe.cover.alt": "{universe} ವಿಶ್ವದ ಮುಖಪುಟದ ಚಿತ್ರ.",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "ಈ ನೋಟ್‌ಪ್ಯಾಡ್ ಬೇರೆಡೆ ಬದಲಾಗಿದೆ. ನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ನಕಲಿಸಿ, ನಂತರ ಉಳಿಸುವ ಮೊದಲು ಅದನ್ನು ಮತ್ತೆ ತೆರೆಯಿರಿ."
 }

@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "ផ្លូវការ",
   "settings.integrations.type.community": "សហគមន៍",
   "settings.apiKeys.scope.companion.read": "អានទិន្នន័យជំនួយការផ្ទៃតុ",
-  "settings.apiKeys.scope.companion.read.desc": "អានកិច្ចការផ្ទាល់ខ្លួន ស្ថានភាពការរំលឹក សំណេរថ្មីៗ និងការជូនដំណឹងរបស់អ្នក",
-  "settings.apiKeys.scope.companion.write": "ធ្វើបច្ចុប្បន្នភាពជំនួយការផ្ទៃតុ",
-  "settings.apiKeys.scope.companion.write.desc": "បន្ថែមនិងបញ្ចប់កិច្ចការផ្ទាល់ខ្លួន ហើយសម្គាល់ការជូនដំណឹងថាបានអាន",
-  "settings.integrations.omarchy.summary": "ដៃគូសរសេររបស់អ្នកសម្រាប់ Omarchy។"
+  "settings.apiKeys.scope.companion.read.desc": "អានស្ថានភាពការរំលឹកកំណត់ហេតុប្រចាំថ្ងៃ និងសំណេរថ្មីៗរបស់អ្នក",
+  "settings.integrations.omarchy.summary": "ដៃគូសរសេររបស់អ្នកសម្រាប់ Omarchy។",
+  "settings.apiKeys.scope.tasks.read": "អានកិច្ចការ",
+  "settings.apiKeys.scope.tasks.read.desc": "អានកិច្ចការផ្ទាល់ខ្លួនរបស់អ្នក",
+  "settings.apiKeys.scope.tasks.write": "ធ្វើបច្ចុប្បន្នភាពកិច្ចការ",
+  "settings.apiKeys.scope.tasks.write.desc": "បន្ថែម និងបញ្ចប់កិច្ចការផ្ទាល់ខ្លួនរបស់អ្នក",
+  "settings.apiKeys.scope.notifications.read": "អានការជូនដំណឹង",
+  "settings.apiKeys.scope.notifications.read.desc": "អានការជូនដំណឹងរបស់អ្នក",
+  "settings.apiKeys.scope.notifications.write": "ធ្វើបច្ចុប្បន្នភាពការជូនដំណឹង",
+  "settings.apiKeys.scope.notifications.write.desc": "សម្គាល់ការជូនដំណឹងរបស់អ្នកថាបានអាន"
 }

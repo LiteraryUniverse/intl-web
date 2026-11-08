@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "अधिकृत",
   "settings.integrations.type.community": "समुदाय",
   "settings.apiKeys.scope.companion.read": "डेस्कटॉप सहाय्यकाचा डेटा वाचा",
-  "settings.apiKeys.scope.companion.read.desc": "वैयक्तिक कामे, स्मरणपत्रांची स्थिती, अलीकडील लेखन आणि सूचना वाचा",
-  "settings.apiKeys.scope.companion.write": "डेस्कटॉप सहाय्यक अद्ययावत करा",
-  "settings.apiKeys.scope.companion.write.desc": "वैयक्तिक कामे जोडा आणि पूर्ण करा व सूचना वाचलेल्या म्हणून चिन्हांकित करा",
-  "settings.integrations.omarchy.summary": "Omarchy साठी तुमचा लेखनसोबती."
+  "settings.apiKeys.scope.companion.read.desc": "डायरीच्या स्मरणपत्रांची स्थिती आणि तुमचे अलीकडील लेखन वाचा",
+  "settings.integrations.omarchy.summary": "Omarchy साठी तुमचा लेखनसोबती.",
+  "settings.apiKeys.scope.tasks.read": "कार्ये वाचा",
+  "settings.apiKeys.scope.tasks.read.desc": "तुमची वैयक्तिक कार्ये वाचा",
+  "settings.apiKeys.scope.tasks.write": "कार्ये अद्ययावत करा",
+  "settings.apiKeys.scope.tasks.write.desc": "तुमची वैयक्तिक कार्ये जोडा आणि पूर्ण करा",
+  "settings.apiKeys.scope.notifications.read": "सूचना वाचा",
+  "settings.apiKeys.scope.notifications.read.desc": "तुमच्या सूचना वाचा",
+  "settings.apiKeys.scope.notifications.write": "सूचना अद्ययावत करा",
+  "settings.apiKeys.scope.notifications.write.desc": "तुमच्या सूचना वाचलेल्या म्हणून चिन्हांकित करा"
 }

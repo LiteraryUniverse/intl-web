@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Ametlik",
   "settings.integrations.type.community": "Kogukond",
   "settings.apiKeys.scope.companion.read": "Loe töölauaabilise andmeid",
-  "settings.apiKeys.scope.companion.read.desc": "Loe isiklikke ülesandeid, meeldetuletuste olekut, hiljutisi kirjutisi ja teavitusi",
-  "settings.apiKeys.scope.companion.write": "Uuenda töölauaabilist",
-  "settings.apiKeys.scope.companion.write.desc": "Lisa ja lõpeta isiklikke ülesandeid ning märgi teavitusi loetuks",
-  "settings.integrations.omarchy.summary": "Sinu kirjutamisabiline Omarchy jaoks."
+  "settings.apiKeys.scope.companion.read.desc": "Loe päevikumeeldetuletuste olekut ja oma hiljutisi kirjutisi",
+  "settings.integrations.omarchy.summary": "Sinu kirjutamisabiline Omarchy jaoks.",
+  "settings.apiKeys.scope.tasks.read": "Loe ülesandeid",
+  "settings.apiKeys.scope.tasks.read.desc": "Loe oma isiklikke ülesandeid",
+  "settings.apiKeys.scope.tasks.write": "Uuenda ülesandeid",
+  "settings.apiKeys.scope.tasks.write.desc": "Lisa ja lõpeta oma isiklikke ülesandeid",
+  "settings.apiKeys.scope.notifications.read": "Loe teavitusi",
+  "settings.apiKeys.scope.notifications.read.desc": "Loe oma teavitusi",
+  "settings.apiKeys.scope.notifications.write": "Uuenda teavitusi",
+  "settings.apiKeys.scope.notifications.write.desc": "Märgi oma teavitused loetuks"
 }

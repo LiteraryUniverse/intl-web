@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "വളരെ പ്രയാസം",
   "common.cookiePreferences": "കുക്കി മുൻഗണനകൾ",
   "universe.cover.alt": "{universe} പ്രപഞ്ചത്തിന്റെ മുഖചിത്രം.",
-  "common.delete": "Delete"
+  "common.delete": "Delete",
+  "scratchpad.changedElsewhere": "ഈ നോട്ട്പാഡ് മറ്റൊരിടത്ത് മാറ്റിയിട്ടുണ്ട്. നിങ്ങളുടെ മാറ്റങ്ങൾ പകർത്തിയ ശേഷം, സംരക്ഷിക്കുന്നതിന് മുമ്പ് ഇത് വീണ്ടും തുറക്കുക."
 }

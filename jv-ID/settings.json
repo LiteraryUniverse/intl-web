@@ -441,8 +441,14 @@
   "settings.integrations.type.official": "Resmi",
   "settings.integrations.type.community": "Komunitas",
   "settings.apiKeys.scope.companion.read": "Maca data pambiyantu desktop",
-  "settings.apiKeys.scope.companion.read.desc": "Maca tugas pribadi, status pangeling, tulisan paling anyar lan kabar",
-  "settings.apiKeys.scope.companion.write": "Nganyari pambiyantu desktop",
-  "settings.apiKeys.scope.companion.write.desc": "Nambah lan ngrampungake tugas pribadi lan menehi tandha kabar wis diwaca",
-  "settings.integrations.omarchy.summary": "Kanca nulis sampeyan kanggo Omarchy."
+  "settings.apiKeys.scope.companion.read.desc": "Maca status pangeling buku harian lan tulisan anyar sampeyan",
+  "settings.integrations.omarchy.summary": "Kanca nulis sampeyan kanggo Omarchy.",
+  "settings.apiKeys.scope.tasks.read": "Maca tugas",
+  "settings.apiKeys.scope.tasks.read.desc": "Maca tugas pribadi sampeyan",
+  "settings.apiKeys.scope.tasks.write": "Nganyari tugas",
+  "settings.apiKeys.scope.tasks.write.desc": "Nambah lan ngrampungake tugas pribadi sampeyan",
+  "settings.apiKeys.scope.notifications.read": "Maca kabar",
+  "settings.apiKeys.scope.notifications.read.desc": "Maca kabar sampeyan",
+  "settings.apiKeys.scope.notifications.write": "Nganyari kabar",
+  "settings.apiKeys.scope.notifications.write.desc": "Nandhani kabar sampeyan wis diwaca"
 }

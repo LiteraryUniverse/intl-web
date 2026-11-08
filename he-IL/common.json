@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "קשה מאוד",
   "common.cookiePreferences": "העדפות עוגיות",
   "universe.cover.alt": "תמונת כריכה ליקום {universe}.",
-  "common.delete": "מחיקה"
+  "common.delete": "מחיקה",
+  "scratchpad.changedElsewhere": "פנקס זה השתנה במקום אחר. יש להעתיק את העריכות ולפתוח אותו מחדש לפני השמירה."
 }

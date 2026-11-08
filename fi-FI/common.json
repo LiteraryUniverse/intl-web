@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Erittäin vaikea",
   "common.cookiePreferences": "Evästeasetukset",
   "universe.cover.alt": "Universumin {universe} kansikuva.",
-  "common.delete": "Poista"
+  "common.delete": "Poista",
+  "scratchpad.changedElsewhere": "Tätä muistilehtiötä on muutettu muualla. Kopioi muutoksesi ja avaa se uudelleen ennen tallentamista."
 }

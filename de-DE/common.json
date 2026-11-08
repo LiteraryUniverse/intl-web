@@ -502,5 +502,6 @@
   "readingDifficulty.band.veryDifficult": "Sehr schwer",
   "common.cookiePreferences": "Cookie-Einstellungen",
   "universe.cover.alt": "Titelbild für das Universum {universe}.",
-  "common.delete": "Löschen"
+  "common.delete": "Löschen",
+  "scratchpad.changedElsewhere": "Dieser Notizblock wurde an anderer Stelle geändert. Kopiere deine Änderungen und öffne ihn vor dem Speichern erneut."
 }
