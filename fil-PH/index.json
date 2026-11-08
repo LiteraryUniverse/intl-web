@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Walang integrasyong tumutugma sa iyong hinahanap.",
   "settings.integrations.connectedCount": "Nakakonekta para sa {count, plural, one {# lugar} other {# lugar}}",
   "settings.integrations.manage": "Pamahalaan",
+  "settings.integrations.connected.title": "Nakakonekta",
+  "settings.integrations.connected.empty": "Wala pang nakakonekta. <link>Tingnan ang mga integrasyon</link>",
   "settings.integrations.back": "Lahat ng integrasyon",
   "settings.integrations.category.newsletters": "Mga Newsletter",
   "settings.integrations.kit.summary": "Ipadala sa iyong Kit account ang mga mambabasang sumasali sa mga mailing list ng iyong mga blog.",

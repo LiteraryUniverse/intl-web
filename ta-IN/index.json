@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "உங்கள் தேடலுக்குப் பொருந்தும் ஒருங்கிணைப்புகள் இல்லை.",
   "settings.integrations.connectedCount": "{count, plural, one {# இடத்திற்கு} other {# இடங்களுக்கு}} இணைக்கப்பட்டுள்ளது",
   "settings.integrations.manage": "நிர்வகி",
+  "settings.integrations.connected.title": "இணைக்கப்பட்டவை",
+  "settings.integrations.connected.empty": "இதுவரை எதுவும் இணைக்கப்படவில்லை. <link>ஒருங்கிணைப்புகளைப் பார்க்கவும்</link>",
   "settings.integrations.back": "அனைத்து ஒருங்கிணைப்புகள்",
   "settings.integrations.category.newsletters": "செய்திமடல்கள்",
   "settings.integrations.kit.summary": "உங்கள் வலைப்பதிவுகளின் அஞ்சல் பட்டியல்களில் சேரும் வாசகர்களை உங்கள் Kit கணக்கிற்கு அனுப்புங்கள்.",

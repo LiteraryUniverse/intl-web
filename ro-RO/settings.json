@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Nicio integrare nu se potrivește căutării tale.",
   "settings.integrations.connectedCount": "Conectat pentru {count, plural, one {# loc} few {# locuri} other {# de locuri}}",
   "settings.integrations.manage": "Gestionează",
+  "settings.integrations.connected.title": "Conectate",
+  "settings.integrations.connected.empty": "Nimic nu este conectat încă. <link>Răsfoiește integrările</link>",
   "settings.integrations.back": "Toate integrările",
   "settings.integrations.category.newsletters": "Newslettere",
   "settings.integrations.kit.summary": "Trimite în contul tău Kit cititorii care se alătură listelor de corespondență ale blogurilor tale.",

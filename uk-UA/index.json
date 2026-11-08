@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Жодна інтеграція не відповідає вашому пошуку.",
   "settings.integrations.connectedCount": "Підключено для: {count, plural, one {# місця} few {# місць} many {# місць} other {# місця}}",
   "settings.integrations.manage": "Керувати",
+  "settings.integrations.connected.title": "Підключені",
+  "settings.integrations.connected.empty": "Поки що нічого не підключено. <link>Переглянути інтеграції</link>",
   "settings.integrations.back": "Усі інтеграції",
   "settings.integrations.category.newsletters": "Розсилки",
   "settings.integrations.kit.summary": "Передавайте до свого облікового запису Kit читачів, які підписуються на списки розсилки ваших блогів.",

@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Sinu otsingule ei vasta ükski integratsioon.",
   "settings.integrations.connectedCount": "Ühendatud {count, plural, one {# kohaga} other {# kohaga}}",
   "settings.integrations.manage": "Halda",
+  "settings.integrations.connected.title": "Ühendatud",
+  "settings.integrations.connected.empty": "Midagi pole veel ühendatud. <link>Sirvi integratsioone</link>",
   "settings.integrations.back": "Kõik integratsioonid",
   "settings.integrations.category.newsletters": "Uudiskirjad",
   "settings.integrations.kit.summary": "Saada oma blogide postiloenditega liituvad lugejad oma Kiti kontole.",

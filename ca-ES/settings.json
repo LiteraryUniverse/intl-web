@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Cap integració coincideix amb la teva cerca.",
   "settings.integrations.connectedCount": "Connectat per a {count, plural, one {# lloc} many {# de llocs} other {# llocs}}",
   "settings.integrations.manage": "Gestiona",
+  "settings.integrations.connected.title": "Connectades",
+  "settings.integrations.connected.empty": "Encara no hi ha res connectat. <link>Explora les integracions</link>",
   "settings.integrations.back": "Totes les integracions",
   "settings.integrations.category.newsletters": "Butlletins",
   "settings.integrations.kit.summary": "Envia al teu compte de Kit els lectors que s'apuntin a les llistes de correu dels teus blogs.",

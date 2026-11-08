@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Vášmu hľadaniu nezodpovedá žiadna integrácia.",
   "settings.integrations.connectedCount": "Pripojené pre: {count, plural, one {# miesto} few {# miesta} many {# miesta} other {# miest}}",
   "settings.integrations.manage": "Spravovať",
+  "settings.integrations.connected.title": "Pripojené",
+  "settings.integrations.connected.empty": "Zatiaľ nie je nič pripojené. <link>Prehliadať integrácie</link>",
   "settings.integrations.back": "Všetky integrácie",
   "settings.integrations.category.newsletters": "Newslettery",
   "settings.integrations.kit.summary": "Posielajte do svojho účtu v Kit čitateľov, ktorí sa pridajú do zoznamov adresátov vašich blogov.",

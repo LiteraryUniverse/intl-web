@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Geen integraties gevonden voor je zoekopdracht.",
   "settings.integrations.connectedCount": "Gekoppeld voor {count, plural, one {# plek} other {# plekken}}",
   "settings.integrations.manage": "Beheren",
+  "settings.integrations.connected.title": "Gekoppeld",
+  "settings.integrations.connected.empty": "Er is nog niets gekoppeld. <link>Integraties bekijken</link>",
   "settings.integrations.back": "Alle integraties",
   "settings.integrations.category.newsletters": "Nieuwsbrieven",
   "settings.integrations.kit.summary": "Stuur lezers die zich aanmelden voor de mailinglijsten van je blogs door naar je Kit-account.",

@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Tidak ada integrasi yang cocok dengan pencarian Anda.",
   "settings.integrations.connectedCount": "Terhubung untuk {count, plural, other {# tempat}}",
   "settings.integrations.manage": "Kelola",
+  "settings.integrations.connected.title": "Terhubung",
+  "settings.integrations.connected.empty": "Belum ada yang terhubung. <link>Jelajahi integrasi</link>",
   "settings.integrations.back": "Semua integrasi",
   "settings.integrations.category.newsletters": "Buletin",
   "settings.integrations.kit.summary": "Kirim pembaca yang bergabung di milis blog Anda ke akun Kit Anda.",

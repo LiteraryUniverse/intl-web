@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "ไม่มีการเชื่อมต่อที่ตรงกับการค้นหาของคุณ",
   "settings.integrations.connectedCount": "{count, plural, other {เชื่อมต่อแล้ว # แห่ง}}",
   "settings.integrations.manage": "จัดการ",
+  "settings.integrations.connected.title": "เชื่อมต่อแล้ว",
+  "settings.integrations.connected.empty": "ยังไม่มีการเชื่อมต่อใด ๆ <link>ดูการเชื่อมต่อทั้งหมด</link>",
   "settings.integrations.back": "การเชื่อมต่อทั้งหมด",
   "settings.integrations.category.newsletters": "จดหมายข่าว",
   "settings.integrations.kit.summary": "ส่งผู้อ่านที่เข้าร่วมรายชื่ออีเมลของบล็อกคุณไปยังบัญชี Kit ของคุณ",

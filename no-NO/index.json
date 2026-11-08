@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Ingen integrasjoner samsvarer med søket ditt.",
   "settings.integrations.connectedCount": "Koblet til for {count, plural, one {# sted} other {# steder}}",
   "settings.integrations.manage": "Administrer",
+  "settings.integrations.connected.title": "Tilkoblet",
+  "settings.integrations.connected.empty": "Ingenting er tilkoblet ennå. <link>Bla gjennom integrasjoner</link>",
   "settings.integrations.back": "Alle integrasjoner",
   "settings.integrations.category.newsletters": "Nyhetsbrev",
   "settings.integrations.kit.summary": "Send lesere som blir med på e-postlistene til bloggene dine, til Kit-kontoen din.",

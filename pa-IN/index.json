@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "ਤੁਹਾਡੀ ਖੋਜ ਨਾਲ ਕੋਈ ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ।",
   "settings.integrations.connectedCount": "{count, plural, one {# ਥਾਂ ਲਈ ਜੁੜਿਆ ਹੋਇਆ} other {# ਥਾਵਾਂ ਲਈ ਜੁੜਿਆ ਹੋਇਆ}}",
   "settings.integrations.manage": "ਪ੍ਰਬੰਧਿਤ ਕਰੋ",
+  "settings.integrations.connected.title": "ਜੁੜੇ ਹੋਏ",
+  "settings.integrations.connected.empty": "ਹਾਲੇ ਕੁਝ ਵੀ ਜੁੜਿਆ ਨਹੀਂ ਹੈ। <link>ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਵੇਖੋ</link>",
   "settings.integrations.back": "ਸਾਰੇ ਇੰਟੀਗ੍ਰੇਸ਼ਨ",
   "settings.integrations.category.newsletters": "ਨਿਊਜ਼ਲੈਟਰ",
   "settings.integrations.kit.summary": "ਆਪਣੇ ਬਲਾਗਾਂ ਦੀਆਂ ਮੇਲਿੰਗ ਸੂਚੀਆਂ ਵਿੱਚ ਜੁੜਨ ਵਾਲੇ ਪਾਠਕਾਂ ਨੂੰ ਆਪਣੇ Kit ਖਾਤੇ ਵਿੱਚ ਭੇਜੋ।",

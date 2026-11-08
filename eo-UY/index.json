@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Neniu integriĝo kongruas kun via serĉo.",
   "settings.integrations.connectedCount": "Konektita por {count, plural, one {# loko} other {# lokoj}}",
   "settings.integrations.manage": "Mastrumi",
+  "settings.integrations.connected.title": "Konektitaj",
+  "settings.integrations.connected.empty": "Nenio estas konektita ankoraŭ. <link>Foliumi integriĝojn</link>",
   "settings.integrations.back": "Ĉiuj integriĝoj",
   "settings.integrations.category.newsletters": "Novaĵleteroj",
   "settings.integrations.kit.summary": "Sendu al via Kit-konto la legantojn, kiuj aliĝas al la dissendolistoj de viaj blogoj.",

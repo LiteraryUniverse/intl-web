@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "თქვენს ძებნას არც ერთი ინტეგრაცია არ ემთხვევა.",
   "settings.integrations.connectedCount": "დაკავშირებულია {count, plural, one {# ადგილისთვის} other {# ადგილისთვის}}",
   "settings.integrations.manage": "მართვა",
+  "settings.integrations.connected.title": "დაკავშირებული",
+  "settings.integrations.connected.empty": "ჯერ არაფერია დაკავშირებული. <link>ინტეგრაციების დათვალიერება</link>",
   "settings.integrations.back": "ყველა ინტეგრაცია",
   "settings.integrations.category.newsletters": "ბიულეტენები",
   "settings.integrations.kit.summary": "გაგზავნეთ თქვენი ბლოგების საფოსტო სიებში გაწევრიანებული მკითხველები თქვენს Kit-ის ანგარიშში.",

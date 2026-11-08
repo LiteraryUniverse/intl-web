@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Aramanızla eşleşen entegrasyon yok.",
   "settings.integrations.connectedCount": "{count, plural, one {# yer} other {# yer}} için bağlı",
   "settings.integrations.manage": "Yönet",
+  "settings.integrations.connected.title": "Bağlı",
+  "settings.integrations.connected.empty": "Henüz hiçbir şey bağlı değil. <link>Entegrasyonlara göz at</link>",
   "settings.integrations.back": "Tüm entegrasyonlar",
   "settings.integrations.category.newsletters": "Bültenler",
   "settings.integrations.kit.summary": "Bloglarınızın e-posta listelerine katılan okurları Kit hesabınıza gönderin.",

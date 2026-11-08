@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Nenhuma integração corresponde à sua pesquisa.",
   "settings.integrations.connectedCount": "Ligado em {count, plural, one {# local} many {# de locais} other {# locais}}",
   "settings.integrations.manage": "Gerir",
+  "settings.integrations.connected.title": "Ligadas",
+  "settings.integrations.connected.empty": "Ainda não há nada ligado. <link>Explorar integrações</link>",
   "settings.integrations.back": "Todas as integrações",
   "settings.integrations.category.newsletters": "Newsletters",
   "settings.integrations.kit.summary": "Envie para a sua conta do Kit os leitores que aderem às listas de correio dos seus blogues.",

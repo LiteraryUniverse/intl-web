@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Ни одна интеграция не подходит под ваш запрос.",
   "settings.integrations.connectedCount": "Подключено для: {count, plural, one {# места} few {# мест} many {# мест} other {# места}}",
   "settings.integrations.manage": "Управлять",
+  "settings.integrations.connected.title": "Подключённые",
+  "settings.integrations.connected.empty": "Пока ничего не подключено. <link>Посмотреть интеграции</link>",
   "settings.integrations.back": "Все интеграции",
   "settings.integrations.category.newsletters": "Рассылки",
   "settings.integrations.kit.summary": "Передавайте в свой аккаунт Kit читателей, подписавшихся на списки рассылки ваших блогов.",

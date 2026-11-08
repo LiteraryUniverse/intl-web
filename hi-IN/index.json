@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "आपकी खोज से कोई इंटीग्रेशन मेल नहीं खाता।",
   "settings.integrations.connectedCount": "{count, plural, one {# जगह} other {# जगहों}} के लिए कनेक्ट है",
   "settings.integrations.manage": "प्रबंधित करें",
+  "settings.integrations.connected.title": "कनेक्टेड",
+  "settings.integrations.connected.empty": "अभी तक कुछ भी कनेक्ट नहीं है। <link>इंटीग्रेशन देखें</link>",
   "settings.integrations.back": "सभी इंटीग्रेशन",
   "settings.integrations.category.newsletters": "न्यूज़लेटर",
   "settings.integrations.kit.summary": "अपने ब्लॉगों की मेलिंग लिस्ट से जुड़ने वाले पाठकों को अपने Kit खाते में भेजें।",

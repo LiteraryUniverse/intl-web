@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Tiada integrasi yang sepadan dengan carian anda.",
   "settings.integrations.connectedCount": "Disambungkan untuk {count, plural, other {# tempat}}",
   "settings.integrations.manage": "Urus",
+  "settings.integrations.connected.title": "Disambungkan",
+  "settings.integrations.connected.empty": "Belum ada apa-apa yang disambungkan. <link>Lihat integrasi</link>",
   "settings.integrations.back": "Semua integrasi",
   "settings.integrations.category.newsletters": "Surat berita",
   "settings.integrations.kit.summary": "Hantar pembaca yang menyertai senarai mel blog anda ke akaun Kit anda.",

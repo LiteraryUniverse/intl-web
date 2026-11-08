@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Καμία ενσωμάτωση δεν ταιριάζει με την αναζήτησή σας.",
   "settings.integrations.connectedCount": "Συνδεδεμένο για {count, plural, one {# χώρο} other {# χώρους}}",
   "settings.integrations.manage": "Διαχείριση",
+  "settings.integrations.connected.title": "Συνδεδεμένες",
+  "settings.integrations.connected.empty": "Δεν έχει συνδεθεί τίποτα ακόμα. <link>Περιήγηση στις ενσωματώσεις</link>",
   "settings.integrations.back": "Όλες οι ενσωματώσεις",
   "settings.integrations.category.newsletters": "Ενημερωτικά δελτία",
   "settings.integrations.kit.summary": "Στείλτε στον λογαριασμό σας στο Kit τους αναγνώστες που εγγράφονται στις λίστες αλληλογραφίας των ιστολογίων σας.",

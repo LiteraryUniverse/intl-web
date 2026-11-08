@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "No integrations match your search.",
   "settings.integrations.connectedCount": "Connected for {count, plural, one {# place} other {# places}}",
   "settings.integrations.manage": "Manage",
+  "settings.integrations.connected.title": "Connected",
+  "settings.integrations.connected.empty": "Nothing is connected yet. <link>Browse integrations</link>",
   "settings.integrations.back": "All integrations",
   "settings.integrations.category.newsletters": "གསར་འགྱུར་ཡིག་ཆུང་།",
   "settings.integrations.kit.summary": "ཁྱེད་ཀྱི་ཟིན་བྲིས་ཀྱི་གློག་འཕྲིན་ཐོ་གཞུང་དུ་ཞུགས་པའི་ཀློག་མཁན་རྣམས་ཁྱེད་ཀྱི་ Kit ཐོ་ཁོངས་སུ་གཏོང་།",

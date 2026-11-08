@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Ingen integrationer matcher din søgning.",
   "settings.integrations.connectedCount": "Forbundet for {count, plural, one {# sted} other {# steder}}",
   "settings.integrations.manage": "Administrer",
+  "settings.integrations.connected.title": "Forbundne",
+  "settings.integrations.connected.empty": "Intet er forbundet endnu. <link>Gennemse integrationer</link>",
   "settings.integrations.back": "Alle integrationer",
   "settings.integrations.category.newsletters": "Nyhedsbreve",
   "settings.integrations.kit.summary": "Send læsere, der tilmelder sig dine blogs' mailinglister, til din Kit-konto.",

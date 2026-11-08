@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "আপনার অনুসন্ধানের সঙ্গে মেলে এমন কোনো ইন্টিগ্রেশন নেই।",
   "settings.integrations.connectedCount": "{count, plural, one {# টি জায়গার} other {# টি জায়গার}} জন্য সংযুক্ত",
   "settings.integrations.manage": "পরিচালনা",
+  "settings.integrations.connected.title": "সংযুক্ত",
+  "settings.integrations.connected.empty": "এখনও কিছু সংযুক্ত নেই। <link>ইন্টিগ্রেশন দেখুন</link>",
   "settings.integrations.back": "সব ইন্টিগ্রেশন",
   "settings.integrations.category.newsletters": "নিউজলেটার",
   "settings.integrations.kit.summary": "আপনার ব্লগের মেইলিং লিস্টে যোগ দেওয়া পাঠকদের আপনার Kit অ্যাকাউন্টে পাঠান।",

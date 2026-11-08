@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Nė viena integracija neatitinka jūsų paieškos.",
   "settings.integrations.connectedCount": "Prijungta {count, plural, one {# vietai} few {# vietoms} many {# vietos} other {# vietų}}",
   "settings.integrations.manage": "Tvarkyti",
+  "settings.integrations.connected.title": "Prijungtos",
+  "settings.integrations.connected.empty": "Kol kas niekas neprijungta. <link>Naršyti integracijas</link>",
   "settings.integrations.back": "Visos integracijos",
   "settings.integrations.category.newsletters": "Naujienlaiškiai",
   "settings.integrations.kit.summary": "Siųskite į savo Kit paskyrą skaitytojus, prisijungusius prie jūsų tinklaraščių pašto sąrašų.",

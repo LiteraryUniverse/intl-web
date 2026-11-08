@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Vašemu hledání neodpovídá žádná integrace.",
   "settings.integrations.connectedCount": "Propojeno pro {count, plural, one {# místo} few {# místa} many {# místa} other {# míst}}",
   "settings.integrations.manage": "Spravovat",
+  "settings.integrations.connected.title": "Propojené",
+  "settings.integrations.connected.empty": "Zatím není nic propojeno. <link>Procházet integrace</link>",
   "settings.integrations.back": "Všechny integrace",
   "settings.integrations.category.newsletters": "Newslettery",
   "settings.integrations.kit.summary": "Posílejte čtenáře, kteří se přihlásí k odběru vašich blogů, do svého účtu v Kitu.",

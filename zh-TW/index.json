@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "沒有符合搜尋條件的整合。",
   "settings.integrations.connectedCount": "{count, plural, other {已連線 # 處}}",
   "settings.integrations.manage": "管理",
+  "settings.integrations.connected.title": "已連線",
+  "settings.integrations.connected.empty": "尚未連線任何項目。<link>瀏覽整合</link>",
   "settings.integrations.back": "所有整合",
   "settings.integrations.category.newsletters": "電子報",
   "settings.integrations.kit.summary": "將加入你部落格郵寄名單的讀者傳送到你的 Kit 帳號。",

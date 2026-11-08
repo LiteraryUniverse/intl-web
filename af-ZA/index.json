@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Geen integrasies stem met jou soektog ooreen nie.",
   "settings.integrations.connectedCount": "Gekoppel vir {count, plural, one {# plek} other {# plekke}}",
   "settings.integrations.manage": "Bestuur",
+  "settings.integrations.connected.title": "Gekoppel",
+  "settings.integrations.connected.empty": "Niks is nog gekoppel nie. <link>Blaai deur integrasies</link>",
   "settings.integrations.back": "Alle integrasies",
   "settings.integrations.category.newsletters": "Nuusbriewe",
   "settings.integrations.kit.summary": "Stuur lesers wat by jou blogs se posserye aansluit na jou Kit-rekening.",

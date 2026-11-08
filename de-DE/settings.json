@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "Keine Integrationen entsprechen deiner Suche.",
   "settings.integrations.connectedCount": "Verbunden für {count, plural, one {# Ort} other {# Orte}}",
   "settings.integrations.manage": "Verwalten",
+  "settings.integrations.connected.title": "Verbunden",
+  "settings.integrations.connected.empty": "Noch ist nichts verbunden. <link>Integrationen durchsuchen</link>",
   "settings.integrations.back": "Alle Integrationen",
   "settings.integrations.category.newsletters": "Newsletter",
   "settings.integrations.kit.summary": "Sende Leser, die den Mailinglisten deiner Blogs beitreten, an dein Kit-Konto.",

@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "אין אינטגרציות שמתאימות לחיפוש שלכם.",
   "settings.integrations.connectedCount": "מחובר עבור {count, plural, one {# מקום} two {# מקומות} other {# מקומות}}",
   "settings.integrations.manage": "ניהול",
+  "settings.integrations.connected.title": "מחוברות",
+  "settings.integrations.connected.empty": "עדיין לא חובר דבר. <link>עיון באינטגרציות</link>",
   "settings.integrations.back": "כל האינטגרציות",
   "settings.integrations.category.newsletters": "ניוזלטרים",
   "settings.integrations.kit.summary": "שלחו לחשבון ה-Kit שלכם קוראים שמצטרפים לרשימות התפוצה של הבלוגים שלכם.",

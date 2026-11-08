@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "No integrations match your search.",
   "settings.integrations.connectedCount": "Connected for {count, plural, one {# place} other {# places}}",
   "settings.integrations.manage": "Manage",
+  "settings.integrations.connected.title": "Connected",
+  "settings.integrations.connected.empty": "Nothing is connected yet. <link>Browse integrations</link>",
   "settings.integrations.back": "All integrations",
   "settings.integrations.category.newsletters": "Buletin",
   "settings.integrations.kit.summary": "Kirimang para ngwacen sané nyarengin daftar surel blog ragané ka akun Kit ragané.",

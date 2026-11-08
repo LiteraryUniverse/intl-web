@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Żadna integracja nie pasuje do wyszukiwania.",
   "settings.integrations.connectedCount": "Połączono dla: {count, plural, one {# miejsca} few {# miejsc} many {# miejsc} other {# miejsca}}",
   "settings.integrations.manage": "Zarządzaj",
+  "settings.integrations.connected.title": "Połączone",
+  "settings.integrations.connected.empty": "Nic jeszcze nie jest połączone. <link>Przeglądaj integracje</link>",
   "settings.integrations.back": "Wszystkie integracje",
   "settings.integrations.category.newsletters": "Newslettery",
   "settings.integrations.kit.summary": "Przekazuj na swoje konto w Kit czytelników, którzy dołączają do list mailingowych Twoich blogów.",

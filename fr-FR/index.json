@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Aucune intégration ne correspond à votre recherche.",
   "settings.integrations.connectedCount": "Connecté pour {count, plural, one {# lieu} many {# de lieux} other {# lieux}}",
   "settings.integrations.manage": "Gérer",
+  "settings.integrations.connected.title": "Connectées",
+  "settings.integrations.connected.empty": "Rien n’est encore connecté. <link>Parcourir les intégrations</link>",
   "settings.integrations.back": "Toutes les intégrations",
   "settings.integrations.category.newsletters": "Newsletters",
   "settings.integrations.kit.summary": "Envoyez vers votre compte Kit les lecteurs qui s'inscrivent aux listes de diffusion de vos blogs.",

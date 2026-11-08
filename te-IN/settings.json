@@ -131,6 +131,8 @@
   "settings.integrations.noResults": "మీ శోధనకు సరిపోలే ఇంటిగ్రేషన్‌లు లేవు.",
   "settings.integrations.connectedCount": "{count, plural, one {# స్థలానికి} other {# స్థలాలకు}} కనెక్ట్ చేయబడింది",
   "settings.integrations.manage": "నిర్వహించండి",
+  "settings.integrations.connected.title": "కనెక్ట్ అయినవి",
+  "settings.integrations.connected.empty": "ఇంకా ఏదీ కనెక్ట్ కాలేదు. <link>ఇంటిగ్రేషన్‌లను చూడండి</link>",
   "settings.integrations.back": "అన్ని ఇంటిగ్రేషన్‌లు",
   "settings.integrations.category.newsletters": "వార్తాలేఖలు",
   "settings.integrations.kit.summary": "మీ బ్లాగ్ మెయిలింగ్ జాబితాలలో చేరిన పాఠకులను మీ Kit ఖాతాకు పంపండి.",

@@ -6122,6 +6122,8 @@
   "settings.integrations.noResults": "Hakuasi vastaavia integraatioita ei löytynyt.",
   "settings.integrations.connectedCount": "Yhdistetty {count, plural, one {# paikkaan} other {# paikkaan}}",
   "settings.integrations.manage": "Hallinnoi",
+  "settings.integrations.connected.title": "Yhdistetyt",
+  "settings.integrations.connected.empty": "Mitään ei ole vielä yhdistetty. <link>Selaa integraatioita</link>",
   "settings.integrations.back": "Kaikki integraatiot",
   "settings.integrations.category.newsletters": "Uutiskirjeet",
   "settings.integrations.kit.summary": "Lähetä blogiesi postituslistoille liittyvät lukijat Kit-tilillesi.",
